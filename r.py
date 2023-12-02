@@ -2,6 +2,7 @@ import random
 import json
 from datetime import datetime
 from email import utils
+import time
 
 from bs4 import BeautifulSoup
 import requests
@@ -64,7 +65,7 @@ def buildX(settings_item, art_items):
         contents = i.pop('detail', '')
         bytesString = bytes(contents, encoding='utf-8')
         #i['description'] = '<![CDATA[' + bytesString.decode(encoding='utf-8') + ']]>'
-        i['description'] = bytesString.decode(encoding='utf-8')
+        i['description'] = bytesString.decode(encoding='utf-8').replace('\n', '')
         #<![CDATA[ this is <b>bold</b> ]]>
         datetime_str = i.pop('make_time' ,'')
         
@@ -120,18 +121,24 @@ if __name__ == "__main__":
             a = []
             for i in range(len(settings[key]['url'])):
                 
-                with open(f'o\\{key}-{i+1}.json', 'r', encoding='utf-8') as f:
-                    data = f.read()
-
+                time.sleep(random.uniform(5,120))
+                
+                # with open(f'o\\{key}-{i+1}.json', 'r', encoding='utf-8') as f:
+                #     data = f.read()
+                
+                data = getjson(settings[key]['url'][i], settings[key]["soup"]) 
                 vals = find_values(settings[key]['json'], data)[0] #contents are nested in list
     
                 a = a + vals
         
         else:
             a = []
-            with open(f'o\\{key}.json', 'r', encoding='utf-8') as f:
-                data = f.read()
+            time.sleep(random.uniform(5,120))
+            # with open(f'o\\{key}.json', 'r', encoding='utf-8') as f:
+            #     data = f.read()
 
+            data = getjson(settings[key]['url'][0], settings[key]["soup"]) 
+                
             vals = find_values(settings[key]['json'], data)[0] #contents are nested in list
     
             a = vals
@@ -141,23 +148,23 @@ if __name__ == "__main__":
             
         
         xmltext = xmltodict.unparse(x, pretty=True)
-        with open(f'o\{key}.xml', 'w', encoding='utf8')as f:
+        with open(f'o\{key}.x', 'w', encoding='utf8')as f:
             f.write(xmltext)
    
         
     #print(a[0][0]['title'])
     
-if False:    
-    urls = getIn()
+# if False:    
+#     urls = getIn()
     
 
-    for k, v in urls.items():
+#     for k, v in urls.items():
         
-        htmlStr = ""
-        for i in v["url"]:
+#         htmlStr = ""
+#         for i in v["url"]:
             
-            #print(v["soup"])
-            htmlStr = htmlStr + getjson(i, v["soup"])
+#             #print(v["soup"])
+#             htmlStr = htmlStr + getjson(i, v["soup"])
             
-        with open(f'o\\{k}.json', 'w', encoding='utf-8') as f:
-            f.write(htmlStr)
+#         with open(f'o\\{k}.json', 'w', encoding='utf-8') as f:
+#             f.write(htmlStr)
