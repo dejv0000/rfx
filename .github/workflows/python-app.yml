@@ -2,7 +2,8 @@ name: Python application
 
 on:
   schedule:
-    - cron: '0 10,22 * * *'
+    #- cron: '35 4,9,15,21 * * *'
+    - cron: '55 * * * *'
   
 
 jobs:
@@ -10,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: checkout repo content
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
     
     - name: Set up Python 3.10
       uses: actions/setup-python@v4
