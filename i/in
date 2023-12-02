@@ -1,0 +1,2 @@
+{"l1":{"url":["https://www.lawtimes.co.kr/news", "https://www.lawtimes.co.kr/news?page=2"], "soup":"script#__NEXT_DATA__", "json":"recentNewsData"},
+"l2":{"url":["https://www.lawtimes.co.kr/opinion"], "soup":"script#__NEXT_DATA__", "json":"recentOpinionData"}}
