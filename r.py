@@ -3,6 +3,7 @@ import json
 from datetime import datetime
 from email import utils
 import time
+import os
 
 from bs4 import BeautifulSoup
 import requests
@@ -17,7 +18,10 @@ TAGS = ['title', 'link', 'description', 'pubDate', 'guid', 'category', 'dc:creat
 #print(USER_AGENT)
 
 def getIn() -> dict:
-    with open('i\\in', 'r', encoding='utf-8') as f:
+    cwd = os.getcwd()
+    infile = os.path.join(cwd, 'i/in')
+    
+    with open(infile, 'r', encoding='utf-8') as f:
         data = json.load(f)
         
     #print(data)
@@ -121,7 +125,7 @@ if __name__ == "__main__":
             a = []
             for i in range(len(settings[key]['url'])):
                 
-                time.sleep(random.uniform(5,120))
+                time.sleep(random.uniform(5,20))
                 
                 # with open(f'o\\{key}-{i+1}.json', 'r', encoding='utf-8') as f:
                 #     data = f.read()
@@ -133,7 +137,7 @@ if __name__ == "__main__":
         
         else:
             a = []
-            time.sleep(random.uniform(5,120))
+            time.sleep(random.uniform(5,20))
             # with open(f'o\\{key}.json', 'r', encoding='utf-8') as f:
             #     data = f.read()
 
