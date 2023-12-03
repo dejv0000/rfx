@@ -152,7 +152,9 @@ if __name__ == "__main__":
             
         
         xmltext = xmltodict.unparse(x, pretty=True)
-        with open(f'o\{key}.x', 'w', encoding='utf8')as f:
+        cwd = os.getcwd()
+        outfile = os.path.join(cwd, f'o/{key}.x')
+        with open(outfile, 'w', encoding='utf8') as f:
             f.write(xmltext)
    
         
