@@ -4,7 +4,7 @@
 		<title>news</title>
 		<description>news</description>
 		<link>https://www.lawtimes.co.kr/news</link>
-		<lastBuildDate>Sun, 03 Dec 2023 03:50:49 -0000</lastBuildDate>
+		<lastBuildDate>Sun, 03 Dec 2023 11:17:13 -0000</lastBuildDate>
 		<language>ko</language>
 		<item>
 			<title>[인터뷰] 유재훈 파리정치대학 총동문회 신임회장, “그랑제콜 네트워크, 동아시아로 확대할 것”</title>

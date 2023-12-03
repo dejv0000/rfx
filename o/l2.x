@@ -4,7 +4,7 @@
 		<title>opinion</title>
 		<description>opinion</description>
 		<link>https://www.lawtimes.co.kr/opinion</link>
-		<lastBuildDate>Sun, 03 Dec 2023 03:50:57 -0000</lastBuildDate>
+		<lastBuildDate>Sun, 03 Dec 2023 11:17:22 -0000</lastBuildDate>
 		<language>ko</language>
 		<item>
 			<title>맨발 걷기를 말리고 싶은 이유 - 고승덕의 백세건강 모범답안</title>
