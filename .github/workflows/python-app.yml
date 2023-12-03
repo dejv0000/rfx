@@ -3,12 +3,14 @@ name: Python application
 on:
   schedule:
     #- cron: '35 4,9,15,21 * * *'
-    - cron: '55 5 * * *'
+    - cron: '* 5 * * *'
   
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
     - name: checkout repo content
       uses: actions/checkout@v4
@@ -34,7 +36,7 @@ jobs:
           git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
           
     - name: push changes
-      uses: ad-m/github-push-action@v0.6.0
+      uses: ad-m/github-push-action@v0.8.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: main 
