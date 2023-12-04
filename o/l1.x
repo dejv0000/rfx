@@ -4,7 +4,7 @@
 		<title>news</title>
 		<description>news</description>
 		<link>https://www.lawtimes.co.kr/news</link>
-		<lastBuildDate>Mon, 04 Dec 2023 11:20:52 -0000</lastBuildDate>
+		<lastBuildDate>Tue, 05 Dec 2023 06:20:30 -0000</lastBuildDate>
 		<language>ko</language>
 		<item>
 			<title>미국 최초 여성 연방대법관 오코너 별세</title>
