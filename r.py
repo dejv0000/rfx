@@ -1,6 +1,6 @@
 import random
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 from email import utils
 import time
 import os
@@ -106,7 +106,7 @@ def buildX(settings_item, art_items):
             if not(k in TAGS):
                 i.pop(k)
     
-    nowdt = datetime.now()
+    nowdt = datetime.now() + timedelta(hours=9)
     
     
     rssxml = {"rss": {"@version":"2.0", "channel": {"title":feedtitle, "description": feedtitle, "link": settings_item['url'][0], "lastBuildDate": utils.format_datetime(nowdt), "language": "ko", "item": art_items}}}
