@@ -4,7 +4,7 @@
 		<title>opinion</title>
 		<description>opinion</description>
 		<link>https://www.lawtimes.co.kr/opinion</link>
-		<lastBuildDate>Tue, 05 Dec 2023 06:20:50 -0000</lastBuildDate>
+		<lastBuildDate>Tue, 05 Dec 2023 11:42:28 -0000</lastBuildDate>
 		<language>ko</language>
 		<item>
 			<title>혁신위원회의 실패가 진짜 혁신의 계기가 될 것 - </title>
