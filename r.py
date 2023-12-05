@@ -74,7 +74,7 @@ def buildX(settings_item, art_items):
         datetime_str = i.pop('make_time' ,'')
         
         #2023-11-30T18:35:29.730000
-        datetime_object = datetime.strptime(datetime_str.split('.')[0], '%Y-%m-%dT%H:%M:%S')
+        datetime_object = datetime.strptime(datetime_str.split('.')[0], '%Y-%m-%dT%H:%M:%S') - timedelta(hours = 9)
         
         i['pubDate'] =  utils.format_datetime(datetime_object)
         
@@ -106,10 +106,10 @@ def buildX(settings_item, art_items):
             if not(k in TAGS):
                 i.pop(k)
     
-    nowdt = datetime.now() + timedelta(hours=9)
+    #nowdt = datetime.now() + timedelta(hours=9)
     
     
-    rssxml = {"rss": {"@version":"2.0", "channel": {"title":feedtitle, "description": feedtitle, "link": settings_item['url'][0], "lastBuildDate": utils.format_datetime(nowdt), "language": "ko", "item": art_items}}}
+    rssxml = {"rss": {"@version":"2.0", "channel": {"title":feedtitle, "description": feedtitle, "link": settings_item['url'][0],  "language": "ko", "item": art_items}}} #"lastBuildDate": utils.format_datetime(nowdt),
     
     return rssxml
 
@@ -125,7 +125,7 @@ if __name__ == "__main__":
             a = []
             for i in range(len(settings[key]['url'])):
                 
-                time.sleep(random.uniform(5,20))
+                time.sleep(random.uniform(5,60))
                 
                 # with open(f'o\\{key}-{i+1}.json', 'r', encoding='utf-8') as f:
                 #     data = f.read()
@@ -137,7 +137,7 @@ if __name__ == "__main__":
         
         else:
             a = []
-            time.sleep(random.uniform(5,20))
+            time.sleep(random.uniform(10,120))
             # with open(f'o\\{key}.json', 'r', encoding='utf-8') as f:
             #     data = f.read()
 
