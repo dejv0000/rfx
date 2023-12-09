@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/opinion</link>
 		<language>ko</language>
 		<item>
+			<title>커피를 건강하게 마시는 법 - 고승덕의 백세건강 모범답안</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="http://image.lawtimes.co.kr/images/2023n_100years_go.jpg" alt="2023n_100years_go.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div style="margin-bottom:30px; padding:5px 0px 5px 10px; border-width: 0px 0px 0px 4px; border-style: solid; border-color: #c0c0c0; background-color:#ffffff;"&gt;&lt;b&gt;향미보다 건강을 생각한다면 &lt;br /&gt;라이트 로스트가 낫다&lt;br /&gt;카페인 함량은 커피 품종 따라 달라&lt;/b&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="http://image.lawtimes.co.kr/images/193973.jpg" alt="193973.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;코페아 아라비카와 코페아 로부스타&amp;nbsp;&lt;/figcaption&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;커피의 2대 품종은 코페아 아라비카(Coffea Arabica, 오른쪽 사진)와 코페아 로부스타(Coffea Robusta, 왼쪽 사진)이다. 아라비카는 카페인이 적고 신맛이 나며 향미가 좋아 비싸다. 로부스타는 카페인이 많고 쓴맛이 강하며 신맛은 약해 싸다. 원두 모양이 약간 길쭉한 것과 둥근 것으로 구별된다.&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;커피에는 폴리페놀, 특히 클로로겐산(CGA)이 많이 함유되어 있다. CGA는 항산화, 항염증, 항바이러스, 신경보호 등의 작용을 한다. 커피는 당뇨, 심혈관질환(CVD), 암, 파킨슨병, 우울증 등에 효능이 있다. CGA는 당 흡수를 줄이고 포도당 생성을 억제한다(2013 논문). 커피를 하루 1컵 더 마시면 당뇨 위험은 8%씩 감소한다(2014 메타분석). 커피 안 마시는 사람에 비해 하루 3~5컵 마시면 CVD 위험이 15% 낮고(2014 메타분석), 2컵 이상이면 고혈압 위험이 16% 낮다(2023 한국인 연구).&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;커피에 발암물질인 아크릴아마이드가 극소량 들어 있지만 커피가 암을 유발한다고 인정할 증거는 부족하다. 폴리페놀과 카페인은 암을 억제한다(2015 논문). 하루 4컵 이상 마시면 대장암(2008 메타분석), 자궁암(2011 메타분석), 피부암(2014 논문) 등의 위험이 낮다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;커피는 우울증과 자살 위험도 낮춘다. 하루 1컵씩 더 마시면 우울증 위험이 8%씩 낮아지고(2016 메타분석), 2~3컵이면 자살 위험은 45% 낮아진다(2014 리뷰). 카페인은 도파민을 생산하는 뇌세포를 보호하기 때문에 커피는 파킨슨병 위험도 낮춘다(2016 메타분석). 하루 3컵 이상 마시는 사람은 전인 사망률이 16% 낮다(2022 한국인 연구).&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;전반적으로 따지면 커피는 건강에 이롭다(2020 리뷰). 그렇다고 많이 마실수록 좋은 것일까? 카페인은 심장 박동, 불안, 초조감을 증가시키고 수면을 방해할 수 있다. 카페인의 최대섭취 권고량은 하루 400㎎이다. 스타벅스의 아메리카노 1컵(12온스)은 카페인이 150㎎이기 때문에 3컵이면 한도를 초과한다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;카페인 민감성은 나이 들면서 증가한다(2018 논문). 카페인은 지방조직 아닌 곳에만 분포하기 때문에 근육이 적은 노인은 같은 양의 카페인에도 체내 농도가 높다(2012 리뷰). 디카페인 커피가 건강한 대안이 될 수 있다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;항산화 능력에 별 차이가 없고(2007 논문), 건강 효능도 크게 다르지 않다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;CGA는 원두 1g에 54㎎ 들어 있으나 고열에 분해된다. 로스팅 온도가 높을수록 급감한다. 라이트 로스트 27㎎, 미디엄 로스트 19㎎, 다크 로스트 9㎎ 수준이다(2021 논문). 향미보다 건강을 생각한다면 라이트 로스트가 낫다. 카페인 함량은 커피 품종에 따라 크게 다르다. 브라질, 콜롬비아, 에티오피아, 하와이 등에서 재배하는 아라비카에는 약 1.5%, 베트남, 인도네시아, 필리핀, 인도 등에서 재배하는 로브스타에는 약 2.7% 들어 있다. 카페인이 많고 향미가 낮은 로부스타는 주로 인스턴트커피, 에스프레소, 커피 블렌딩의 원료로 사용된다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;커피 기름인 카페스톨은 콜레스테롤을 증가시킨다(2007 논문). 여과지에 흡수되지만 금속이나 플라스틱 필터로는 제거되지 않는다. 여과 커피는 비여과 커피보다 CVD 위험이 4~9%, 사망률은 6~11% 낮다(2020 논문). 심혈관을 위한다면 브루드 커피를 마시고, 에스프레소, 아메리카노, 캡슐커피는 피하는 것이 좋다. 커피 1컵에 든 칼로리(스타벅스 기준)는 브루드 커피 4, 아메리카노 10으로 낮지만 우유, 크림, 당, 시럽 등을 첨가하면 급증한다. 카페라떼 150, 바닐라라떼 200 등 높은 열량은 커피의 건강 효능을 상쇄할 수 있다.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;고승덕 변호사 (한국청소년쉼터협의회 이사장)&lt;/b&gt;</description>
+			<pubDate>Fri, 08 Dec 2023 22:32:17 -0000</pubDate>
+			<category>opinion</category>
+			<link>https://www.lawtimes.co.kr/opinion/193973</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/193973</guid>
+			<media:thumbnail>http://image.lawtimes.co.kr/images/2023n_100years_go.jpg</media:thumbnail>
+			<dc:creator>고승덕</dc:creator>
+		</item>
+		<item>
 			<title>선거의 계절 - 국회의원에 도전하는 &lt;br&gt;
 수많은 법률가들 &lt;br&gt;
 초심 잃지 않고 국민 위해 &lt;br&gt;
@@ -128,16 +138,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/193741</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/2023_monday_jun_gyung_jin.jpg</media:thumbnail>
 			<dc:creator>정경진</dc:creator>
-		</item>
-		<item>
-			<title>횡재세의 본질 - </title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/2023_lawdae_sang.jpg" alt="2023_lawdae_sang.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;우리 사회를 질병에 대한 공포로 집어삼킨 코로나19 팬데믹은 경제를 크게 위축시켰다. 무너지는 경제를 지탱하기 위해 천문학적인 돈이 투입되었다. 그 과정에서 만연해진 저금리 기조는 물가의 급격한 상승을 불러왔고, 팬데믹이 잦아들 무렵 정부는 인플레이션을 진정시킨다는 명목으로 빠른 속도의 금리 인상을 단행했다. 은행들은 이렇게 형성된 고금리 상황에서 높아진 예대마진으로 큰 영업이익을 얻고 있다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;그러던 중에 러시아-우크라이나 전쟁까지 발발하게 된다. 그러지 않아도 팬데믹 상황이 다소 진정되면서 에너지 자원에 대한 수요가 다시 살아나고 있었는데, 이 전쟁까지 맞물리면서 국제유가가 최근 12년 내 최고치를 갈아치우면서 급격하게 상승하였다. 정부는 유류세 탄력세율을 추가로 인하하여 급격한 유가 상승이 국민경제에 미치는 악영향을 최소화하기 위해 노력했다. 그러나 정유사들은 유가 상승에 따라 높아진 정제마진으로 갑자기 찾아온 호황을 누리는 기쁨을 맛보았다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;코로나19 팬데믹과 러시아-우크라이나 전쟁이라는 국가적 어려움 속에서 누군가는 오히려 막대한 부를 쌓는 것이 부당하다는 생각은 횡재세 도입 논의로 이어지고 있다. 횡재세는 말 그대로 횡재, 즉 뜻밖에 얻게 된 소득이나 재산에 대해서 물리는 세금이다. 대개는 기업이 비정상적으로 유리한 시장 요인에 힘입어 부당하게 높은 수익을 올린 부분에 대하여 부과되는 세금으로 이해되고 있다. 여기서 눈에 띄는 것은 ‘부당하게’ 수익을 올렸다는 부분이다. 은행이나 정유사가 정당하지 못한 방법으로 높은 수익을 얻은 것은 아니다. 단지 시장의 상황이 그들의 ‘본업’을 추켜들어 올려주었을 뿐이다. 대체 무엇이 부당하다는 것일까? 그저 다른 사람들은 힘든데 특정 기업들만 높은 수익을 올렸기에 그 자체가 부당하다는 말일까?&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;횡재세를 ‘정의’의 관점에서 바라보는 것은 횡재세의 본질을 흩뜨린다. 은행과 정유사들이 높은 수익을 얻은 것은 ‘옳고 그름’의 문제가 아니기 때문이다. 이들이 우연한 시장 상황으로 그들이 들인 노력(투입된 인적, 물적 자원)에 비하여 높은 수익을 얻었다는 사실 자체에만 주목하여야 한다. 이렇게 횡재세를 바라보면 비로소 보이는 것은 수익의 ‘우연성’이다. 특정 기업들이 우연한 기회에 올린 수익을 온전히 그들에게 귀속시키는 것을 그 사회가 용인할 수 있는가 하는 시각으로 횡재세에 접근하여야 한다. 결국 횡재세는 사회적 합의의 문제로 귀결된다. 근래에 일련의 사건들을 같이 겪고 있지만 유럽연합, 영국 등은 횡재세를 도입한 반면, 다른 나라는 횡재세를 도입하지 않았다는 것 자체만 보더라도 횡재세가 태생적으로 사회적 합의 위에서만 존립할 수 있음을 알 수 있다. 횡재세는 그 성질상 찬반양론의 대립이 불가피하다. 치열하고도 허심탄회한 공론화만이 횡재세를 둘러싼 논란에 바람직한 마침표를 찍을 수 있음을 잊어서는 안 된다.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;정기상 고법판사(수원고등법원)&lt;/b&gt;&lt;br /&gt;</description>
-			<pubDate>Sun, 03 Dec 2023 20:55:49 -0000</pubDate>
-			<category>opinion</category>
-			<link>https://www.lawtimes.co.kr/opinion/193740</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/193740</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/2023_lawdae_sang.jpg</media:thumbnail>
-			<dc:creator>정기상</dc:creator>
 		</item>
 	</channel>
 </rss>
