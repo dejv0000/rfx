@@ -6,6 +6,34 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 양정숙, '공직선거법 위반' 무죄·'무고' 벌금형 확정</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="http://image.lawtimes.co.kr/images/177409(18).jpg" alt="177409.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;21대 총선 당시 재산을 내역을 축소해 신고한 혐의로 기소된 무소속 양정숙 의원에게 무죄가 확정됐다. 재산 축소 신고 의혹을 제기한 언론인 등을 무고한 혐의는 인정됐으나 당선무효형은 피했다.&lt;p&gt;&lt;br /&gt;대법원 형사3부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1759"&gt;오석준&lt;/span&gt;&amp;nbsp;대법관)는 11월 30일 공직선거법 위반, 무고 혐의로 재판에 넘겨진 양 의원에게 벌금 1000만 원을 선고한 원심을 확정했다. 원심은 공직선거법 위반 혐의에 대해서는 무죄로 판단하고, 무고 혐의에 대해 벌금 1000만 원을 선고했다.   &lt;/p&gt;&lt;p&gt;&lt;br /&gt;국회의원은 공직선거법 위반죄로 벌금 100만 원 이상의 형이, 일반 형사 사건으로 금고 이상의 형이 확정되면 그 직을 잃는다.      &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;양 의원은 2020년 총선을 앞두고 선거관리위원회에 공직선거후보자 재산 신고를 하면서 남동생 명의로 보유하고 있는 송파구 상가 지분을 의도적으로 누락해 허위사실을 공표한 혐의를 받았다. 양 의원은 송파구 상가뿐 아니라, 강남구 대치동·송파구 아파트 지분·용산구 오피스텔 등 부동산 4건을 차명 보유하고 있다는 의혹을 제기한 당직자와 언론인을 명예훼손으로 고소한 혐의(무고)도 받았다.         &lt;/p&gt;&lt;p&gt;&lt;br /&gt;1심은 양 의원에게 공직선거법 위반 혐의에 대해선 벌금 300만 원을, 무고 혐의에 대해선 징역 8개월에 집행유예 2년을 선고했다.            &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;반면 2심은 1심을 파기했다.               &lt;/p&gt;&lt;p&gt;&lt;br /&gt;2심은 양 의원이  양 의원이 허위사실을 공표했다고 보기 어렵다고 봤다. 다만 "용산구 오피스텔은 차명으로 보유한 것이 맞으므로, 이 부분에 대해서는 무고죄의 유죄가 인정된다"고 판단했다.                  &lt;/p&gt;&lt;p&gt;&lt;br /&gt;대법원도 이 같은 원심을 확정했다.                     &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;양 의원은 2020년 제21대 국회의원 총선에서 더불어시민당 비례대표 의원으로 당선했으나 부동산 차명 보유 의혹으로 당에서 제명됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Tue, 12 Dec 2023 21:21:56 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194086</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194086</guid>
+			<media:thumbnail>http://image.lawtimes.co.kr/images/177409(18).jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
+			<title>【오늘의 국회 일정】 2023년 12월 13일</title>
+			<description>&lt;b&gt;◇ 국회의장&lt;/b&gt;&lt;br /&gt;10:00 저출산 위기극복을 위한 민관협력 선포식(국회도서관 지하1층 강당)&lt;br /&gt;&lt;br /&gt;11:00 「아르스타노프」 신임 카자흐스탄 주한대사, 「키롬」 신임 타지키스탄 주한대사 접견(의장집무실)&lt;br /&gt;&lt;br /&gt;15:00 「베르투」 신임 프랑스 주한대사, 「슈미트」 신임 독일 주한대사 접견(의장집무실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 국회사무총장&lt;/b&gt;&lt;br /&gt;15:00 채용 플랫폼 디지털 전환을 위한 업무협약식(다목적영상회의실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 상임위원회&lt;/b&gt;&lt;br /&gt;10:00 국토교통위원회 전체회의(본관 529호)&lt;br /&gt;&lt;br /&gt;11:00 문화체육관광위원회 청원심사소위원회(본관 508호)&lt;br /&gt;&lt;br /&gt;14:00 국회 2030 부산세계박람회 유치지원 특별위원회 전체회의(본관 534호)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 의원실 세미나&lt;/b&gt;&lt;br /&gt;10:00 용혜인 의원실 등, 2022년 산재 자살 현황 국회토론회(의원회관 제1세미나실)&lt;br /&gt;&lt;br /&gt;10:00 이만희 의원실, 지구촌새마을운동 학술세미나(의원회관 제2소회의실)&lt;br /&gt;&lt;br /&gt;10:00 김성환 의원실 등, 지진과 원전안전 토론회 : 노후원전 부적합 앵커볼트와 활성단층의 발견(의원회관 제7간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 이주환 의원실 등, 폐플라스틱 원료 부족 해결 방안 정책토론회(의원회관 제2세미나실)&lt;br /&gt;&lt;br /&gt;13:30 김형동 의원실, 2023 경상북도 SUPER 화공 포럼 : 은퇴 과학자 활용방안 마련하다(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;14:00 김원이 의원실 등, [국회 섬발전연구회 정책 토론회] 섬인구와 다문화, 현상과 대응(의원회관 제6간담회의실)&lt;br /&gt;&lt;br /&gt;14:0 이주환 의원실, 탄소중립과 전기차 보급 목표 달성을 위한 중장기 로드맵 정책방안 마련(의원회관 대회의실)&lt;br /&gt;&lt;br /&gt;14:00 배진교 의원실 등, 한국형 지역공공은행 도입 방안과 주요 쟁점(의원회관 제8간담회의실)&lt;br /&gt;&lt;br /&gt;16:00 구자근 의원실 등, 분산에너지 활성화를 위한 정책토론회(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 소통관 기자회견&lt;/b&gt;&lt;br /&gt;09:40 용혜인 의원, 육아엄빠 불이익 방지 법안 발의 기자회견&lt;br /&gt;&lt;br /&gt;10:00 홍성국 의원, 윤석열 정부 경제정책 비판 기자회견&lt;br /&gt;&lt;br /&gt;10:20 조명희 의원, 요양보호사 권익 보호를 위한 기자회견&lt;br /&gt;&lt;br /&gt;10:40 류호정 의원, 청년 관련 정책 발표 기자회견&lt;br /&gt;&lt;br /&gt;11:40 조정훈 의원, 더불어민주당 탈당 기자회견&lt;br /&gt;&lt;br /&gt;13:00 이상민 의원, 더불어민주당 비판 기자회견&lt;br /&gt;&lt;br /&gt;13:40 류성걸 의원, 저출산 인구위기에 대응하는 입법정책 방향 제시 기자회견&lt;br /&gt;&lt;br /&gt;14:00 남인순 의원, 이태원 참사 진상규명 특별법 제정 촉구 기자회견&lt;br /&gt;&lt;br /&gt;14:20 이명수 의원, 경찰병원 분원 건립 조속 촉구 기자회견&lt;br /&gt;&lt;br /&gt;15:00 홍정민 의원, 더불어민주당 경기고양갑지역위원회 관련 기자회견&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있음.&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;</description>
+			<pubDate>Tue, 12 Dec 2023 21:21:31 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194098</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194098</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
+			<title>【오늘의 법조】 2023년 12월 13일</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[법원]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷'특정경제범죄가중처벌등에관한법률위반(횡령) 등 혐의' 황욱정 KDFS 대표 6차 공판&lt;/b&gt;&lt;br /&gt;-오후 2시, 서울중앙지법&lt;p&gt;&lt;br /&gt;&lt;b&gt;▷'자본시장과금융투자업에관한법률위반 등 혐의' 강종현 외 5명 공판&lt;/b&gt;&lt;br /&gt;-오후 2시, 서울남부지법&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[법무부]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷법무부장관·성남시장 업무협약 체결식&lt;/b&gt;&lt;br /&gt;-오후 3시, 성남시청 동관 3층 한누리관)&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[로펌·변호사]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷법무법인 대륙아주, '대륙아주-헤럴드경제 공동주최 중대재해예방 산업안전법제포럼 12월 초청강연'&lt;/b&gt;&lt;br /&gt;-오전 7시 30분, 서울 중구 소공로 더플라자호텔 22층 다이아몬드홀&lt;p&gt;&lt;b&gt;&lt;br /&gt;▷법무법인 태평양·한경ESG, '2024년 ESG 대응전략 어떻게 세울 것인가' 세미나&lt;/b&gt;&lt;br /&gt;-오후 2시, 종로구 공평동 법무법인 태평양 25층 세미나실&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;hr style="border-width:2px 0 0 0; border-style:bold; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[오늘의 PICK ]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷"국민 섬기는 자세로"…검찰, 이원석 총장 주도로 1년간 약 2000명 봉사 나서&lt;/b&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9175"&gt;이원석&lt;/span&gt;&amp;nbsp;검찰총장(54·사법연수원 27기)이 이끄는 검찰은 '국민을 섬기는 검찰'이 모토다. 국민에게 헌신하겠다는 약속을 지키기 위해 이 총장을 필두로 대검찰청과 전국 검찰청 직원들이 나섰다. 김장 나눔·연탄 나눔·무료 급식 봉사활동과 도움이 필요한 곳에 일손을 보태고 있는 것. 뿐만 아니라 범죄피해자센터와 연계해 범죄피해자와 가족들을 위한 치유·회복 프로그램을 진행하고 지역 맞춤 범죄예방 활동을 펼치고 있다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/194067" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;b&gt;&lt;br /&gt;▷'마약 투약' 유아인 재판 출석…"대마 흡연은 인정, 일부 사실관계는 과장돼"&lt;/b&gt;&lt;br /&gt;의료용 프로포폴 등 마약류를 상습 투약한 혐의 등으로 재판에 넘겨진 배우 유아인(본명 엄홍식) 씨가 첫 재판에 출석해 "크게 실망하시고 많은 피해를 보신 분들께 죄송하다"고 밝혔다. 유 씨 측은 대마 흡연 등 일부 혐의에 대해 인정했지만, 프로포폴 투약 등에 대해선 "일부 사실관계나 법리를 다퉈야 하는 부분이 있다"고 했다.&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/194077" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Tue, 12 Dec 2023 21:21:21 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194087</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194087</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>檢, '지하철 소매치기' 러시아인 3명 구속기소</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/764(32).jpg" alt="764.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;검찰이 혼잡한 지하철에서 승·하차를 반복하며 소매치기 범행을 저지른 러시아인 3명을 재판에 넘겨졌다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;서울중앙지검 형사6부(부장검사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11390"&gt;정지은&lt;/span&gt;) 지난 7일 러시아인 남녀 3명을 특수절도 혐의로 구속기소했다고 11일 밝혔다.   &lt;p&gt;&amp;nbsp; &lt;br /&gt;이들은 관광비자로 동반입국한 후 서울지하철 3, 9호선 등 혼잡한 노선을 따라 승·하차를 반복하며 여성들을 상대로 지갑을 절취한 혐의를 받는다.      &lt;p&gt;&amp;nbsp;  &lt;br /&gt;검찰 관계자는 "범행 장면이 녹화된 CCTV, 피고인들 간 서로 주고받은 문자메시지 등을 토대로 죄에 상응하는 처벌이 이루어질 수 있도록 공소 유지에 최선을 다하겠다"고 밝혔다.&lt;/p&gt;      &lt;/p&gt;   &lt;/p&gt;</description>
 			<pubDate>Tue, 12 Dec 2023 09:41:28 -0000</pubDate>
@@ -212,36 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194031</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/740(61).jpg</media:thumbnail>
 			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>檢, '보은투자 의혹' 현대오토에버 본사 등 압수수색</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/184556(16).jpg" alt="184556.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;KT와 현대차그룹 간의 일명 '보은투자 의혹'을 수사 중인 검찰이 11일 현대오토에버 본사 등에 대한 압수수색에 돌입했다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;서울중앙지검 공정거래조사부(&lt;span style="font-weight: bold;" class="lawmanlink" serial="10648"&gt;용성진&lt;/span&gt;&amp;nbsp;부장검사)는 이날 오전 현대오토에버의 본사, 클라우드 운영센터, 삼성동 사옥 3개 장소에 검사와 수사관을 보내 자료를 확보 중이라고 밝혔다.   &lt;p&gt;      &lt;p&gt;&amp;nbsp; &lt;br /&gt;검찰은 지난달 20일 현대오토에버 대표이사, 스파크앤어소시에이츠(스파크, 현 오픈클라우드랩) 관계자 주거지 등 4곳을 압수수색했다.         &lt;p&gt;&amp;nbsp; &lt;br /&gt;검찰이 강제수사에 돌입한 현대오토에버는 스파크의 주거래처다. 검찰은 매수대금의 적정성을 파악하기 위해 거래 현황을 살펴보는 측면에서 현대오토에버에 대한 압수수색에 돌입한 것으로 알려졌다.&lt;br /&gt;&lt;/p&gt;         &lt;/p&gt;   &lt;/p&gt;   &lt;/p&gt;</description>
-			<pubDate>Mon, 11 Dec 2023 06:18:46 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194032</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194032</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/184556(16).jpg</media:thumbnail>
-			<dc:creator>홍수정 기자</dc:creator>
-		</item>
-		<item>
-			<title>檢, '부당노동행위 의혹' 황재복 SPC 대표 소환… 11일 불출석</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/8054(18).jpg" alt="8054.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;SPC 그룹의 '부당노동행위 의혹'을 수사 중인 검찰이 11일 황재복 SPC 대표를 소환했다. 황 대표는 개인 사정으로 이날 출석하지 않고, 검찰과 출석 일정을 조율 중이다.&lt;p&gt;&amp;nbsp;  &lt;br /&gt;서울중앙지검 공공수사3부(부장검사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11318"&gt;임삼빈&lt;/span&gt;)는 이날 오전 파리바게뜨 제빵기사들을 상대로 노조 탈퇴를 종용한 혐의를 받는 SPC그룹의 황재복 대표를 피의자로 조사하기 위해 소환했다.   &lt;p&gt;&amp;nbsp; &lt;br /&gt;황 대표는 이날 개인 사정으로 출석이 어렵다고 답한 것으로 전해진다. 검찰은 가까운 시일 내 황 대표를 소환해 조사를 진행할 예정이다.      &lt;p&gt;         &lt;br /&gt;지난 17일 법원이 PB파트너즈 임원 2명에 대해 청구된 구속영장을 기각하자, 검찰은 관련자 소환 조사 등을 통해 보강 수사에 나섰다.         &lt;p&gt;&amp;nbsp;  &lt;br /&gt;검찰은 지난달 8일 SPC그룹 백모 전무를 참고인 신분으로 소환 조사하고, 지난 10월 SPC그룹 본사와 허영인 회장 등에 대해 압수수색을 실시했다.&lt;/p&gt;      &lt;/p&gt;      &lt;/p&gt;   &lt;/p&gt;</description>
-			<pubDate>Mon, 11 Dec 2023 06:18:11 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194033</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194033</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/8054(18).jpg</media:thumbnail>
-			<dc:creator>홍수정 기자</dc:creator>
-		</item>
-		<item>
-			<title>18세 美 검사 된 '피터 박'...변호사 시험 최연소 합격</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194038.jpg" alt="194038.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국계 미국 청년이 17세에 최연소로 미국 변호사 시험에 합격하고, 만 18세인 성인이 되자마자 지방 검사로 임용됐다.&lt;p&gt;   &lt;br /&gt; 지난 6일 미 캘리포니아주 툴레어 카운티 지방검찰청은 한국계 피터 박(18)이 최근 검사로 임용됐다고 밝혔다. 미 검찰청은 피터 박을 "변호사 시험에 최연소 합격한 주인공"이라고 소개했다.   &lt;p&gt;      &lt;br /&gt;그는 지난 7월 만 17세로 변호사 시험에 처음 도전해 11월 합격하고, 최연소 합격자라는 타이틀을 거머쥐었다. 지금까지 캘리포니아의 최연소 변호사 합격 기록은 18세였다.      &lt;p&gt;         &lt;br /&gt;피터 박은 13세이던 2019년 캘리포니아 오렌지 카운티 사이프러스에 있는 고등학교 '옥스퍼드 아카데미'에 입학하는 동시에 노스웨스턴 캘리포니아대 로스쿨 4년제 과정에 입학했다. 캘리포니아주에서는 대학 수준의 자격을 검증하는 시험(CLEP)에 합격하면, 고교 졸업장 없이 로스쿨에 지원할 수 있도록 한다.         &lt;p&gt;            &lt;br /&gt;2021년 캘리포니아에서 고등학교를 조기 졸업할 수 있는 시험(CHSPE)에 통과한 그는 고교 과정을 마친 뒤 로스쿨 공부에 집중해 올해 졸업했다.            &lt;p&gt;               &lt;br /&gt;그는 올 8월부터 툴레어 카운티 지방검찰청에서 시보로 일했다. 지난달 말 주(州)법상 성인인 만 18세가 되자 검사로 정식 임용됐다. 5일 공식 임명장을 받은 그는 캘리포니아에서 가장 어린 현직검사로 근무하게 됐다.               &lt;p&gt;                  &lt;br /&gt; 피터 박은 "쉽지 않았지만 그만한 가치가 있었다"며 "변호사 시험에 합격하기 위해서는 훈련과 전략이 필요했는데 결국 그걸 해냈다"고 밝혔다. 이어 "이 경로를 발견할 수 있어 축복받았다"며 "더 많은 사람이 변호사가 되는 대안이 있는 걸 알게 됐으면 한다"고 말했다. 그러면서 "사회의 자유, 평등, 정의를 지키는 도덕적 의무에 끌려 검사가 되고 싶었다"며 "검사가 우리 사회를 안전하게 지키고 범죄 피해자를 구제하는 것을 존경한다"고 말했다.               &lt;/p&gt;            &lt;/p&gt;         &lt;/p&gt;      &lt;/p&gt;   &lt;/p&gt;&lt;/p&gt;</description>
-			<pubDate>Mon, 11 Dec 2023 06:17:30 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194038</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194038</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194038.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
