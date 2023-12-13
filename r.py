@@ -61,8 +61,10 @@ def buildX(settings_item, art_items):
     for i in art_items:
         
         try:
-            i['title'] = i['title'] + ' - ' + i['sub_title']
-            i.pop('sub_title')
+            i['title'] = ((i['kind2_name'] + ' : ') if i['kind2_name'] else '') + i['title']
+            i['title'] = i['title'] + ((' - ' + i['sub_title'] ) if i['sub_title'] else '') 
+            
+            #i.pop('sub_title')
         except KeyError:
             pass    
         
