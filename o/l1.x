@@ -6,6 +6,66 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>"선거범죄 엄정 대응"…검·경, 총선 대비 '수사기관협의회' 개최</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194277.jpg" alt="194277.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;내년 4월 22대 국회의원 선거를 앞두고 검찰과 경찰이 선거범죄 수사 협력 방안을 논의하기 위해 19일 수사기관협의회를 개최했다. &lt;br /&gt;&lt;br /&gt;대검찰청과 경찰청은 이날 오전 정부서울청사 9층 회의실에서 박기동 대검 공공수사부장과 김봉식 경찰청 수사국장의 주재로 수사기관협의회를 진행했다. &lt;br /&gt;&lt;br /&gt;검찰은 이번 총선이 2021년 형사사법 절차의 큰 변화 이후 최초로 실시되는 국회의원선거이기에 긴밀하게 협력해 선거사범에 대해 신속·엄정하게 대응할 필요가 있다고 밝혔다. &lt;br /&gt;&lt;br /&gt;이에 검찰과 경찰은 선거수사전담부서 사이에 핫라인을 만들어 지정된 책임자를 중심으로 연락체계 등 수사 협력체계를 구축하기로 했다. 관서별로 수사 관련 실질적인 의견교환을 통해 선거범죄를 신속하게 엄단하기로 했다. &lt;br /&gt;&lt;br /&gt;검찰과 경찰은 허위사실유포 및 흑색선전, 선거 관련 금품수수, 공무원·단체 등의 선거개입을 3대 중점 단속대상 범죄로 선정하고 철저한 수사를 통해 엄정 대응할 필요가 있다고 의견을 모았다. &lt;br /&gt;&lt;br /&gt;6개월의 단기 공소시효가 적용되는 선거사건은 검경의 유기적인 협력이 필수적이므로, 개정 수사준칙(약칭) 제7조 제1항, 제2항의 '선거사건 협력절차'를 적극 활용하기로 했다. &lt;br /&gt;&lt;br /&gt;공소시효 만료일 전 3개월까지는 필수적으로 의견을 제시·교환하고, 공소시효 만료일 전 3개월 이내 접수된 사건에 대해서는 지체 없이 의견을 제시·교환하기로 했다. 또 선관위 고발 사건에 대해서도 고발장 접수 후 신속히 의견을 제시·교환하기로 결정했다. &lt;br /&gt;&lt;br /&gt;검찰과 경찰은 수시로 '선거사건 수사 실무협의회'를 열고 협력이 필요한 사항에 대해 신속히 협의할 예정이다. &lt;br /&gt;</description>
+			<pubDate>Tue, 19 Dec 2023 09:34:50 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194277</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194277</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/194277.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>檢, '퓨리에버 코인' 받은 행안부 공무원 재판행...'뇌물수수 혐의'</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/1555(18).jpg" alt="1555.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;719만 원어치의 '퓨리에버 코인'을 받은 혐의로 전 행정안전부 공무원이 재판에 넘겨졌다. 이 코인은 강남 납치·살인 사건의 발단이 된 것으로 알려졌다.&lt;p&gt;&amp;nbsp; &lt;b&gt;&lt;br /&gt;서울남부지검 가상자산범죄 합동수사단(단장&amp;nbsp;&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10592"&gt;이정렬&lt;/span&gt;&lt;b&gt;&amp;nbsp;부장검사)&lt;/b&gt;은 19일 전 행정안전부 기술서기관 A 씨를 뇌물수수 혐의로 불구속 기소했다. A 씨에게 코인 로비를 한 퓨리에버 코인 발행사 대표 이 모씨와 초미세먼지 관련 협회 대표 정 모씨도 뇌물공여 혐의로 함께 불구속 기소됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;검찰에 따르면 A 씨는 이 씨와 정 씨로부터 당시 719만 원 상당의 퓨리에버 코인 25만 개를 미세먼지 저감 직무와 관련해 수수한 혐의를 받는다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;A 씨는 코인을 받은 대가로 퓨리에버 코인 발행사에 미세먼지 정책 관련 문건을 건네고 초미세먼지 관련 협회 인증을 받도록 도와준 것으로 조사됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;앞서 지난달 가상범죄 합수단은 사기죄 혐의로 발행사 대표 이 씨와 코인 전문 시세조종업자 등 2명을 구속 기소하고, 코인 컨설팅 업체 대표 등 6명을 불구속 기소했다. 이들은 2021년 4월 28일부터 같은 해 5월 6일까지 코인 사업을 허위로 공시하고, 시세조종을 통해 피해자 약 6100명으로부터 210여억 원을 가로챈 혐의를 받는다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;퓨리에버 코인은 3월 일어난 '강남 납치·살인 사건'의 발단으로 지목돼 왔다. 살인을 교사한 혐의로 1심에서 실형을 선고받은 황은희(49)·유상원(51) 부부와 피해자 등은 이 코인에 투자했다가 돈을 잃으면서 갈등을 빚은 것으로 조사됐다. 이경우·황대한 등 주범 2명은 1심에서 무기징역을 선고받았다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;검찰 관계자는 "가상자산을 이용한 시세조종 사기 범행, 거래소 상장 비리 범행 등은 물론, 가상자산 관련 사업과정에서 발생하는 공무원 부패범죄에 대해서도 엄정하게 대응할 것"이라고 밝혔다.&lt;/p&gt;</description>
+			<pubDate>Tue, 19 Dec 2023 09:33:47 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194280</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194280</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/1555(18).jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>검찰, 오송 지하차도 참사 관련 충북도청·청주시청 2차 압수수색</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/764(33).jpg" alt="764.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;25명의 사상자를 낸 오송지하차도 침수 사건을 수사 중인 검찰이 충북도청과 청주시청 사무실에 대한 압수수색에 나섰다. &lt;br /&gt;&lt;br /&gt;청주지검에 띠르면 오송지하차도 침수 사건 수사본부(본부장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="494"&gt;배용원&lt;/span&gt;&amp;nbsp;검사장)는 19일 충북도청과 청주시청 사무실에 대한 압수수색을 진행해 관련 자료를 확보했다. &lt;br /&gt;&lt;br /&gt;검찰은 지난 7월 1차 압수수색을 집행했다. 검찰 관계자는 "수사진행 과정에서 추가 압수수색의 필요성이 있어 법원으로부터 영장을 발부받아 압수수색을 진행했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;수사본부는 앞으로 사고의 원인과 책임소재를 명확히 규명하기 위해 수사대상 기관 및 관계자들에 대하여 신속하고 철저한 수사를 계속 진행해 나갈 예정이다.</description>
+			<pubDate>Tue, 19 Dec 2023 07:43:29 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194281</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194281</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/764(33).jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>인하우스카운슬포럼, 2023년 정기총회 및 송년의 밤 성료</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194259.jpg" alt="194259.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;인하우스카운슬포럼(IHCF, 회장 박철영)은 18일 서울 강남구 역삼동 조선팰리스 강남 호텔 3층 더 그레이트홀에서 '2023년 정기총회 및 송년의 밤'을 열었다.&lt;p&gt;   &lt;br /&gt;   &lt;p&gt;IHCF는 회원 간 네트워킹을 강화하고 친목을 도모하기 위해 매년 연말 이번 행사를 개최한다. 정기총회에 200명이 넘는 회원이 참석했다.      &lt;p&gt;&amp;nbsp;&lt;/p&gt;      &lt;/p&gt;   &lt;p style="text-align: center;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/194259_2.jpg" alt="194259_2.jpg" /&gt;   &lt;/p&gt;   &lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;/p&gt;&lt;p&gt;박철영 회장은 인사말에서 "2년간 우리는 30명 이상의 이사, 분과장들과 함께 뭉쳐 달려왔다. 또 네트워킹 이벤트, 세미나 등 의미 있는 시간을 만들기 위해 열심히 뛰어왔다고 자부한다. 극강 한파에도 참석해 준 모든 분께 감사하다"고 했다.   &lt;p&gt;&amp;nbsp; &lt;br /&gt;1부에서는 IHCF의 일 년간 활동을 돌아보는 시간이 마련됐다.      &lt;p&gt;&amp;nbsp;  &lt;br /&gt;IHCF는 올해 △'인공지능 관련 법적 이슈' 등을 주제로 한 학술분과 봄 아카데미(Spring Academy) △'유럽 전자상거래 및 소비자보호법'을 주제로 한 기술(Technology) 분과 세미나 △YLC 분과 멘토링 프로그램 &amp; 네트워킹 나잇 △중재 분과 세미나 △인사·노무 분과 세미나 △(한국여성변호사회와 함께하는) 여성 분과 간담회 △리더십 분과 세미나 △컴플라이언스 분과 세미나 △기획(Planning) 분과 1박 2일 부산 워크샵 △헬스케어 분과 세미나 △환경에너지 분과 세미나 △학술 분과 가을 아카데미(Fall Academy) △Planning 분과 한사회와 함께하는 네트워킹 나잇 △YLC 분과 네트워킹 나잇 △Planning 분과 땡스기빙 디너(Thanksgiving Dinner) △학술분과 세미나 △금융분과 세미나 △12월 Planning 분과 정기총회 및 송년회 등 행사를 진행했다.         &lt;p&gt;&amp;nbsp; &lt;br /&gt;이어 드레스코드 '빨강(red)'에 맞춰 베스트 드레서를 선정하는 코너도 열렸다. 신영욱 오멜버니 앤 마이어스(O'Melveny &amp; Myers LLP) 서울사무로 대표 등이 올해의 베스트 드레서로 꼽혔다.            &lt;p&gt;&amp;nbsp; &lt;br /&gt;2부에서는 후원로펌 및 회원들의 참여로 이뤄진 경품추첨 코너가 진행됐다. 행사를 통해 얻은 수익금은 모두 공익단체에 기부될 예정이다. &lt;br /&gt;&lt;/p&gt;            &lt;/p&gt;         &lt;/p&gt;      &lt;/p&gt;   &lt;/p&gt;</description>
+			<pubDate>Tue, 19 Dec 2023 07:43:08 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194259</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194259</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/194259.jpg</media:thumbnail>
+			<dc:creator>홍수정 기자</dc:creator>
+		</item>
+		<item>
+			<title>김동훈 헌법재판소 헌법연구관, 《이탈리아 빌라와 그 정원》 옮겨</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194274.jpg" alt="194274.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;《순수의 시대》 작가인 미국 소설가 이디스 워턴이 이탈리아 현지를 여행한 후 쓴 정원 안내서 《이탈리아 빌라와 그 정원》(글항아리 펴냄)이 출간 120년 만에 한국어로 번역돼 나왔다. 이 책은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14191"&gt;김동훈&lt;/span&gt;(46·사법연수원 36기) 헌법재판소 선임헌법연구관이 옮겼다.&lt;p&gt;&amp;nbsp;   &lt;p&gt;책은 이디스 워턴이 한 잡지사의 의뢰를 받아 작성한 정원 기행기이다. 그 자체로 여행기이자 에세이며, 정원 해설서이자 조경 분석서이다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;번역자인 김 헌법연구관은 현재 헌법재판소 공보관이다. 서울 근교와 시골 옛 할머니 댁에서 정원과 텃밭을 오랫동안 가꾸어온 정원 마니아로 알려져 있다. 그는 2015~2016년 이탈리아 로마 유학 시절 우연히 이 책을 만났다고 한다. 이후 빌라와 정원 공부를 하는 한편, 틈틈이 방문하고 구석구석 사진도 찍었다. 책에 실린 사진은 대부분 그가 정성들여 찍은 것들이다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;역자는 "이 책은 무미건조한 설명서도 아니고 감상에 치우친 여행기도 아니다"라며 "간결하면서도 풍부한 묘사와 설명, 역사와 문화에 대한 해박한 지식, 간간이 드러나는 감상과 평가가 적절히 어우러져 우리를 이탈리아의 정원 속을 거닐도록 만든다"며, 함께 이탈리아 정원으로 떠나 보자고 권한다.&amp;nbsp;&lt;/p&gt;   &lt;/p&gt;</description>
+			<pubDate>Tue, 19 Dec 2023 07:24:44 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194274</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194274</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/194274.jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
+			<title>한동훈 장관 "'김건희 특검법'은 악법, 선동 시점 특정했다"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/194279.jpg" alt="194279.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5077"&gt;한동훈&lt;/span&gt;&amp;nbsp;법무부장관이 야권에서 추진하는 '김건희 특검법'에 대해 "법 앞에 예외는 없다"면서도 "총선에서 선동하기 좋게 시점 특정해 만들어진 악법"이라고 지적했다. &lt;br /&gt;&lt;br /&gt;한 장관은 19일 국회 법제사법위원회 전체회의 출석에 앞서 기자들과 만나 "정의당이 특검을 추천하고 결정하게 돼있고 수사상황을 생중계하게 돼있는 독소조항까지 있다. 다음 총선에서 민주당이 원하는 선전선동을 하기 좋게 시점을 특정해서 만들어진 악법"이라고 비판했다.&lt;br /&gt;&lt;br /&gt;이어 "그런 악법은 국민 정당 선택권을 침해하는 문제가 있다는 점을 충분히 고려해서 국회 절차 내에서 고려해야 한다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;김건희 여사가 받은 명품백 논란을 두고는 "내용을 보면 일단 몰카 공작이라는 건 맞지 않나"라며 "몰카 공작의 당사자인 서울의소리가 고발했던데, 우리 시스템에 맞춰 법과 원칙에 따라 수사가 진행돼 처리될 것"이라고 말했다. &lt;br /&gt;&lt;br /&gt;한 장관은 자신을 중용한 윤석열 대통령과의 인연을 두고 '윤석열 아바타'라는 비난이 나오는 것에 대해서 "지금까지 공직 생활을 하며 공공성 한 가지만 생각하며 살아왔고 그 과정에서 누구도 맹종한 적이 없으며 앞으로도 그럴 것"이라고 강조했다.&lt;br /&gt;&lt;br /&gt;이어 "모든 공직자와 정치인은 국민을 위해 일하고 협력하는 관계라고 생각한다"며 "주로 그런 이야기를 민주당에서 하는데 자기들이 이재명 대표를 추종하고 절대 복종하니까 남들도 그럴 것이라고 생각하는 것 같다"고 덧붙였다.&lt;br /&gt;&lt;br /&gt;또 한 장관은 국민의힘 비대위원장으로 거론되는 질문을 받고 "어떤 제안을 받은 게 아니고, 그렇기에 특정 정당의 비대위 구성에 대해 공개적으로 말할 문제는 아닌 것 같다"고 짧게 답했다. 당에서 비대위원장 문제로 연락이 오느냐는 물음엔 "그런 걸 잘 안 받는다. 그런 연락이 잘 오지 않는다"며 "그런 상의를 하고 있지 않다"고 대답했다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&lt;/span&gt;&amp;nbsp;대통령이 검찰총장 시절 받은 정직 2개월 징계를 취소해야 한다는 항소심 재판부의 판결과 관련해 피고 입장인 법무부가 소극적으로 대응했다는 민주당의 주장에는 "사법부를 모욕하는 발언"이라고 일축했다.&lt;br /&gt;&lt;br /&gt;</description>
+			<pubDate>Tue, 19 Dec 2023 07:03:17 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194279</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194279</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/194279.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>검찰, '백현동 수사무마' 의혹 임정혁·곽정기 구속영장</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/769(46).jpg" alt="769.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;'백현동 개발 비리' 의혹 사건에 대한 수사 무마 시도 의혹을 수사 중인 검찰이&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7297"&gt;임정혁&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="10494"&gt;곽정기&lt;/span&gt;&amp;nbsp;변호사에 대한 신병확보에 나섰다.&lt;p&gt;&lt;b&gt;&lt;br /&gt;서울중앙지검 반부패수사3부(부장검사&amp;nbsp;&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11311"&gt;김용식&lt;/span&gt;&lt;b&gt;)&lt;/b&gt;는 19일 고검장 출신&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7297"&gt;임정혁&lt;/span&gt;(67·사법연수원 16기) 변호사와 경찰 총경 출신&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10494"&gt;곽정기&lt;/span&gt;(50·33기) 변호사에 대해 변호사법 위반 혐의로 구속영장을 청구했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;임 변호사는 백현동 개발 비리 의혹과 관련해 민간 개발업자 정바울 아시아디벨로퍼 대표로부터 공무원에 대한 교제·청탁 명목으로 1억 원을 개인 계좌로 받은 혐의를 받는다. 임 변호사는 검찰 수사 단계에서 정 대표를 변호했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;곽 변호사는 정 대표로부터 경찰 수사 단계 수임료 7억원 외 청탁 명목으로 5000만원을 별도로 수수하고, 사건을 소개해준 브로커 박모씨에게 소개료 명목으로 400만원을 지급한 혐의를 받는다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Tue, 19 Dec 2023 03:37:13 -0000</pubDate>
@@ -181,66 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194210</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/4(172).jpg</media:thumbnail>
 			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>정형식 헌법재판관 후보자 인사청문경과보고서 18일 채택</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/194094(1).jpg" alt="194094.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6232"&gt;정형식&lt;/span&gt;&amp;nbsp;헌법재판관 후보자에 대한 인사청문경과보고서가 18일 채택됐다.&lt;p&gt;&lt;br /&gt;국회 법제사법위원회(위원장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3169"&gt;김도읍&lt;/span&gt;)는 이날 오전 전체회의를 열고 정 후보자에 대한 인사청문경과보고서를 채택했다.   &lt;/p&gt;&lt;p&gt;&lt;br /&gt;여당은 정 후보자에 대해 높은 전문성과 소신, 균형감 등을 이유로 '적격' 의견을 냈다.      &lt;/p&gt;&lt;p&gt;&lt;br /&gt;여당은 보고서에서 "후보자는 대통령의 잘못된 결단에 대해서도 헌법 원칙과 법률에 근거해 다른 의견을 낼 수 있다고 답하는 등 소신 있는 태도를 보이고 있고, 최근 탄핵소추 사건들에 대해서도 입법부 권한을 존중하는 등 신중한 태도를 견지하고 있다"고 평가했다. 또 "후보자가 성범죄자 거주제한, 가석방 없는 무기징역 및 사형제 폐지 등 사회적 현안에 대해 높은 전문성에 기반한 소신을 피력하면서도 충돌되는 가치와 관련된 다양한 의견 수렴과 국민적 합의에 대한 필요성을 인식하고 있다"며 "기본권 보장과 제한 필요성 사이에서 균형적 태도를 유지하려는 노력을 기울이고 있고, 헌법재판관으로 임명된 후에도 신중한 논의를 통해 합리적 결정을 내리고자 다짐하고 있으며 퇴직 후에도 본인의 경험을 바탕으로 국가와 사회에 이바지하겠다는 강한 의지를 보였다"고 강조했다.         &lt;/p&gt;&lt;p&gt;&lt;br /&gt;반면 야당은 자녀에 대한 증여세 탈루 의혹, 자녀 동반 관용여권 발급 사례, 이재용 삼성회장의 국정농단 항소심 판결 등을 이유로 '부적격' 의견을 냈다.            &lt;/p&gt;&lt;p&gt;&lt;br /&gt;보고서에서 야당은 "후보자는 헌법재판관으로서 사회의 다양한 갈등을 해소하고 기본권을 수호하는 역할을 수행하는 데 필요한 자질과 균형감각을 갖춘 것으로 보기 어렵고, 이념적 편향성 때문에 헌법재판소의 정치적 중립성과 공정성을 기대하기 어렵다"고 평가했다. 이어 "후보자는 장남과 차남이 소득이 없던 대학생 시절 비상식적으로 증가한 자산의 출처에 대해 명쾌하게 입증하지 못해 증여세 탈루 의혹을 소명하지 못하고 있고, 국제화 연수에 두 아들을 동반해 다녀오면서 아들에게 관용여권을 발급받도록 하고, 연수 결과보고서를 작성하지 않은 것은 법원 내 관행에 따른 것이라고 하더라도 부적절하다"고 지적했다. 특히 정 후보자가 증여세 부과를 회피해 차남의 주택 마련을 위해 연이자 0.6%의 저리로 1억7000만 원을 대여하고, 수시로 필요한 비용을 융통해 준 일도 "서민의 상대적 박탈감 등을 고려하지 않은 것"이라며 부적격 의견의 근거로 담겼다. 또한 이재용 회장의 국정농단 관련 재판에서 대법원과 다르게 뇌물액수를 줄이고 집행유예를 선고한 것에 대해서도 "사회적 정의와 국민적 상식을 고려했다고 보기 어렵고, 대법원에서 후보자의 판단을 뒤집은 확정판결이 있었음에도 잘못되지 않았다고 해명하고 있어 일반 국민의 상식이나 법 감정과 동떨어져 헌법재판관에게 필요한 균형감각이 미흡해 보인다"고 강조했다.               &lt;/p&gt;&lt;p&gt;&lt;br /&gt;앞서 윤석열 대통령은 11월 16일 신임 헌법재판관으로 대전고등법원장인 정 후보자를 지명했다.                  &lt;/p&gt;&lt;p&gt;&lt;br /&gt;정 후보자는 서울고와 서울대 법대 출신으로 1985년 제27회 사법시험에 합격했다. 수원지법 성남지원 판사로 임관해 서울가정법원, 서울민사지법, 창원지법 진주지원, 서울지법, 서울고법 판사와 대법원 재판연구관, 청주지법 부장판사, 청주지법 수석부장판사, 수원지법 부장판사, 서울행정법원 부장판사, 수원지법 평택지원장, 대전고법 부장판사, 서울고법 부장판사, 서울회생법원장 등을 지냈으며 올해 2월부터 대전고법원장을 지냈다.                     &lt;/p&gt;&lt;p&gt;&lt;br /&gt;정 후보자가 임명되면 헌법재판관 9명 구성이 모두 완료된다.                     &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Mon, 18 Dec 2023 06:14:41 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194224</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194224</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194094(1).jpg</media:thumbnail>
-			<dc:creator>이용경 기자</dc:creator>
-		</item>
-		<item>
-			<title>(단독)[판결] '국회 난입 폭력사태 방조' 조원진, 1심 벌금 500만 원</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/58466(4).jpg" alt="58466.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;지난 2019년 고위공직자범죄수사처(공수처) 설치와 연동형비례대표제 도입 법안 등에 반대하며 국회 경내에 침입해 폭력 사태를 일으킨 혐의로 기소된 조원진 우리공화당 대표에게 1심에서 벌금형이 선고됐다.&lt;p&gt;&lt;br /&gt;서울남부지법 형사5단독&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="16495"&gt;이보람&lt;/span&gt;&amp;nbsp;판사는 14일 폭력행위 등 처벌에 관한 법률 위반(공동주거침입) 방조, 특수공무집행방해 등 혐의로 기소된 조 대표에게 벌금 500만 원을 선고했다(2021고단4456). 함께 기소된 오경훈 당시 우리공화당 비서실장에게는 벌금 400만 원, 우리공화당 지지자 지모 씨에게는 벌금 200만 원이 선고됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;조 대표는 2019년 12월 13일 우리공화당 당원과 지지자 200여 명이 참석한 가운데 국회 본관 앞에서 공수처법 반대 기자회견을 마친 뒤 해산하지 않은 지지자들이 국회 본관 내부에 진입하려는 시도를 방조한 혐의를 받는다. 또 본관 진입을 저지하는 국회 경비대원들을 몸으로 밀치거나 국회 경비대 중대장을 시위 피켓으로 내리치는 등 폭력 사태를 일으킨 혐의도 받는다. 우리공화당은 2019년 당시 여당이던 더불어민주당을 중심으로 발의된 공수처 설치, 연동형비례대표제 도입 법안들이 신속처리 안건으로 지정돼 국회 본회의 의결이 임박하자, 같은 해 11월 말부터 국회 앞에 천막을 설치한 뒤 반대 투쟁을 벌였다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이 판사는 "조 대표는 기자회견에 모인 다수의 사람들이 순식간에 국회 본관 쪽으로 몰려들어 국회 경비대원들의 저지선이 구축되고 그 저지선을 사람들이 몸으로 미는 상황임을 지켜보고도 피켓을 들고 함께 구호를 제창하는 등 행위를 했다"며 "이는 기자회견에 참가한 사람들의 범행 결의를 강화시키고, 실행 행위를 용이하게 한 방조 행위에 해당한다고 충분히 인정할 수 있다"고 판단했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;이어 "국회는 그 기능과 역할에 비춰 특별하고도 충분한 보호가 요청되는 헌법기관"이라며 "조 대표 등의 각 범행은 공동으로 국회 본관에 침입하려다 미수에 그치고 그 과정에서 다중의 위력을 보여 경찰의 공무집행을 방해한 행위로서 각 죄책이 결코 가볍지 않다"고 지적했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;다만 "조 대표 등이 정치적 의사를 표현하던 중 우발적으로 각 범행에 이르게 된 것으로 보여 범행 동기에 다소 참작할 만한 사정이 있다"며 "각 범행의 진행 경과와 지속 시간 등에 비춰 국회의 기능이 마비되거나 입법 과정에 차질이 빚어질 정도로 국회 본관의 사실상 평온 상태가 중대하게 침해되지는 않은 것으로 보이는 점, 경찰관에게 행사한 유형력 정도가 매우 중하지는 않은 점 등을 유리한 정상으로 참작한다"고 양형 이유를 설명했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Mon, 18 Dec 2023 06:12:00 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194221</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194221</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/58466(4).jpg</media:thumbnail>
-			<dc:creator>이용경 기자</dc:creator>
-		</item>
-		<item>
-			<title>태평양, 성 김 前 주한 미국대사 영입</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194217.jpg" alt="194217.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.bkl.co.kr/law?lang=ko" target="_blank"&gt;법무법인 태평양&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6120"&gt;서동우&lt;/span&gt;)은 &lt;b&gt;성 김(사진) &lt;/b&gt;전 주한 미국대사를 영입했다고 17일 밝혔다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;김 전 대사는 곧 출범 예정인 태평양 '글로벌 미래전략 센터(Global Future Strategy Center)'에서 센터장으로 1월 중순부터 활동할 예정이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;국내 로펌이 아시아 3개국에서 대사를 역임한 미국 정통 외교관료 출신 인사를 내부 조직 책임자로 영입한 것은 이번이 처음이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;태평양은 해외시장의 다양한 규제 이슈를 해결할 수 있도록 국내 기업을 돕는 글로벌 미래전략 센터를 곧 설립할 계획이라고 밝혔다. 센터는 한국에서 활동하는 외국계 기업에 조언하는 업무도 맡는다. 기존 '태평양 국제규제·분쟁대응연구소' (소장 한창완 변호사)는 센터 산하에 둘 예정이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;태평양 관계자는 센터 설립과 김 전 대사 영입에 대해 "'한국적 글로벌 로펌'이라는 비전을 실현하기 위한 것"이라고 밝혔다. 이어 "김 전 대사의 합류를 계기로 최근 불확실성이 가중되는 대외환경과 글로벌 복합위기 속에서 시장을 개척하고 투자 기회를 모색해야 하는 국내 기업의 해외 비즈니스를 더욱 효과적으로 뒷받침할 수 있게 됐다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;김 전 대사는 펜실베이니아대학교(BA), 로욜라 로스쿨(JD), 런던정경대학(LLM)을 졸업했다. 로스앤젤레스 카운티 지방검찰청에서 검사로 공직 생활을 시작한 그는 1988년 미국 외교관으로 부임했다. 이후 미 국무부에서 한국과장, 6자회담 수석대표 겸 대북 특사 등을 역임했다. 2011년에는 한국계 출신 최초로 주한 미국대사가 됐다. 미 국무부 대북정책 특별대표, 동아시아태평양국 한·일 담당 부차관보, 주필리핀 미국 대사, 주인도네시아 미국 대사, 대북정책 특별대표, 동아시아태평양 담당 차관보 대행 등을 역임했다. 김 전 대사는 미국 국무부에서 퇴직 절차를 마치는 대로 태평양에 합류할 예정이다. &lt;br /&gt;&lt;/p&gt;</description>
-			<pubDate>Mon, 18 Dec 2023 06:10:55 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194217</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194217</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194217.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>대검·한국가정법률상담소 업무협약 체결…공익활동 강화</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194412.jpg" alt="194412.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대검찰청(총장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9175"&gt;이원석)&lt;/span&gt;과 한국가정법률상담소(소장 곽배희)가 사회적 취약 계층 법률지원을 위해 협업체계를 구축했다.&lt;p&gt;   &lt;br /&gt; 양 기관은 18일 한국가정법률상담소 8층 대강의실에서 공익소송 협업체계 구축을 위한 업무협약을 체결했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt; 협약식에는 이원석 총장과 곽배희 소장 등이 참석했다. 이 총장은 "검사는 공익의 대표자로서 민사와 가사 영역에서 국민의 권리를 보호하기 위한 업무를 수행해왔다"며 "오늘 협약으로 검사 단독으로 수행하기 어려운 소송대리 등 영역까지 법률지원이 가능하게 됐다"고 말했다.   &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;이어 "검찰과 한국가정법률상담소가 힘을 모은다면 우리 사회에서 소외되고 도움이 절실한 이웃들에게 가장 든든한 버팀목이 될 수 있을 것"이라고 강조했다.      &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;곽 소장도 "이번 협약을 통해 취약·소외계층에 대한 양질의 법률구조 서비스를 보다 원활하게 제공함으로써 인권보호·법률복지 증진에 가일층 이바지할 수 있게 되기를 기대한다"고 밝혔다.         &lt;/p&gt;&lt;p&gt;   &lt;br /&gt; 이번 업무협약에 따라 대검찰청은 공익소송 관련 법률 지원이 필요한 대상자에 대한 상담 및 법률 지원 등 협조를 한국가정법률상담소에 요청하고, 한국가정법률상담소는 대상자 상담과 자원봉사 변호사 단체인 백인변호사단과 연계를 통한 소송대리 등 법률 지원을 수행한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;검찰은 그동안 친권상실 청구, 후견인선임 청구, 실종선고 취소, 직권 출생신고 등 사회적 약자에 대한 법률 지원 활동을 적극적으로 수행해왔다. 서울남부지검을 비롯해 대구지검, 부산지검, 광주지검은 공익대표전담팀을 설치해 운영해 왔다.               &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;이번 협약을 계기로 검찰과 한국가정법률상담소의 협업을 통해 사회적 약자에 대한 보다 신속하고 효율적인 법률 지원이 가능하게 됐다. 향후 검찰은 공익대표 활동을 더욱 강화할 것으로 기대된다. &lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Mon, 18 Dec 2023 06:10:01 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194214</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194214</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194412.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>송영길 영장실질심사 출석..."내가 받은 것 아니라, 먹사연 후원계좌로 들어온 것"</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/194213.jpg" alt="194213.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;더불어민주당 전당대회 돈봉투 살포 의혹의 정점으로 지목된&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="159"&gt;송영길&lt;/span&gt;(60·사법연수원 26기) 전 민주당 대표가 18일 영장실질심사를 받기 위해 법원에 출석했다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;송 전 대표는 이날 취재진과 만나 "검찰에서는 묵비권을 행사했지만 법원에서는 변호인과 잘 상의해 겸손하고 성실하게 소명하도록 하겠다"고 밝혔다.   &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;송 전 대표는 캠프 관계자들에게 회유를 시도한 적이 있느냐는 취재진의 질문에 "검찰은 압수수색 영장 권한을 가지고 제 주변 100여명이 넘는 사람을 압수수색하고, 그 과정에서 사람이 죽기도 했다"며 "이런 강압적 수사를 하는 검찰에 맞서 피의자로서 정당한 방어권을 행사하는 것"이라고 답했다. 이어 "한동훈 법무부 장관은 (휴대전화) 비밀번호는 안 알려주고 정진웅 검사를 몸으로 저지해 정 검사를 독직폭행으로 고소했다"고 덧붙였다.      &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;불법 정치자금 8억 2000만 원을 수수했다는 검찰 판단에 대해 송 전 대표는 "제가 받은 게 아니고, 먹사연(평화와 먹고사는문제 연구소) 공식 후원계좌로 들어온 금액이고 공식적으로 투명하게 보고된 사안"이라며 "4월에 검찰이 압수수색해서 이미 다 가져간 자료이고, 돈봉투가 입증이 안되니까 별건으로 수사한 것으로 해명될 것"이라고 말했다.         &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;사업가 등으로부터 부외 선거자금을 받았는지에 대해서는 "구체적 사실에 대해선 법정에서 말씀드리겠다"고 답했다.            &lt;/p&gt;&lt;p&gt;&amp;nbsp;  &lt;br /&gt;송 전 대표는 2021년 3~4월 민주당 당대표 경선캠프를 운영하면서 부외 선거자금 6000만원을 받아 현역 의원과 지역본부장에게 총 6650만원이 든 돈봉투를 뿌린 혐의를 받는다. 검찰은 송 전 대표가 스폰서로 지목된 사업가 김모 씨로부터 5000만 원을, 이성만 무소속 의원으로부터 1000만 원을 받아 강래구 전 한국감사협회장 등과 함께 돈봉투를 건넨 것으로 보고 있다.               &lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;또 2020~2021년 외곽 후원조직 먹사연을 통해 7억6300만원의 불법 정치자금을 받은 혐의도 있다. 검찰은 이 중 4000만원은 인·허가 청탁 명목으로 수수한 뇌물이라고 판단했다.                     &lt;/p&gt;&lt;p&gt;&lt;br /&gt;검찰은 송 전 대표에 대한 영장심사에 앞서 500여쪽에 달하는 의견서를 제출하고, 영장심사에서는 250여쪽 분량의 프레젠테이션(PPT)을 통해 구속필요성을 주장할 것으로 알려졌다. 송 전 대표 측 변론은 친형이자 고법 부장판사 출신&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4396"&gt;송영천&lt;/span&gt;(66·13기) 세한 대표변호사가 맡는다.                        &lt;/p&gt;&lt;p&gt;&lt;br /&gt;송 전 대표의 구속 여부는 이날 늦은 밤이나 19일 새벽 정해질 것으로 보인다.                        &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Mon, 18 Dec 2023 06:08:55 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194213</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194213</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194213.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] “처벌 원치 않아요”했지만 공소기각 안해</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/178034(14).jpg" alt="178034.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;반의사불벌죄에 해당하는 범죄로 기소된 피고인의 처벌을 원하지 않는다는 피해자의 처벌불원서가 1심 선고 전에 제출됐는데도 해당 혐의에 대해 공소기각 대신 징역형을 선고한 원심이 대법원에서 파기됐다.&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;대법원 형사3부(주심&amp;nbsp;&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1759"&gt;오석준&lt;/span&gt;&lt;b&gt;&amp;nbsp;대법관)&lt;/b&gt;는 11월 30일 교통사고처리특례법위반(치상) 등 혐의로 기소된 A 씨에게 징역 6개월을 선고한 원심을 파기하고 사건을 인천지법으로 돌려보냈다&lt;b&gt;(2023도12694).&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;A 씨는 2021년 11월 혈중알코올농도 0.077% 상태로 자신의 승용차를 운전해 인천 부평구 일대 도로를 지나다가 신호대기 중이던 택시를 들이받은 혐의로 기소됐다. A 씨의 변호인은 1심 선고 전 1심 법원에 ‘피해자는 피고인의 형사처벌을 원치 않는다’는 기재와 피해자 명의의 서명이 있는 합의서를 제출했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;A 씨는 이 밖에 도로교통법위반(음주운전)과 자동차손해배상보장법위반 등 혐의를 받았다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;교통사고처리 특례법 제3조 제2항 본문은 ‘도로교통법 제151조의 죄를 범한 운전자에 대하여는 피해자의 명시적인 의사에 반하여 공소를 제기할 수 없다’고 규정하고 있다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;형사소송법 제232조 제1·3항은 ‘피해자의 명시한 의사에 반하여 공소를 제기할 수 없는 죄에서 처벌을 원하는 의사표시의 철회 또는 처벌을 원하지 아니하는 의사표시는 제1심판결 선고 전까지 할 수 있다’고 규정한다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;재판부는 “A 씨의 처벌을 원치 않는다는 피해자 명의 합의서가 1심 선고 전 1심법원에 제출됐으니 2심은 1심 판결을 파기하고 해당 공소사실에 대해 형사소송법 제327조 제6호에 따라 공소를 기각했어야 한다”며 “그럼에도 이 부분 공소사실을 유죄로 판단한 원심판결에는 피해자의 명시한 의사에 반하여 공소를 제기할 수 없는 사건에 관한 법리를 오해한 나머지 필요한 심리를 다하지 않아 판결에 영향을 미친 잘못이 있다”고 판시했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;그러면서 “원심 중 도로교통법위반 부분은 파기되어야 하는데, 원심에서 이 부분과 유죄로 인정된 나머지 부분 전체에 대하여 상상적 경합 또는 형법 제37조 전단의 경합범 관계에 있음을 이유로 하나의 형이 선고되었으므로, 결국 원심판결은 전부 파기되어야 한다”고 덧붙였다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;앞서 1,2심은 A 씨에게 징역 6개월을 선고했다.&lt;/p&gt;</description>
-			<pubDate>Mon, 18 Dec 2023 00:13:05 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194156</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194156</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/178034(14).jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
