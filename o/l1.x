@@ -6,6 +6,46 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>대법원 회생·파산위원회, "회생법원 추가 신설" 권고</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/177064(24).jpg" alt="177064.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대법원 회생·파산위원회(위원장 오수근)가 회생법원을 추가 신설할 것을 권고했다.&lt;p&gt;   &lt;br /&gt;회생·파산위는 21일 대법원 청사에서 열린 제19차 정기회의에서 "폭증하는 도산사건의 신속·적정·균질한 처리를 위해 회생법원을 전국적으로 확대 설치할 것을 권고한다"는 내용의 건의문을 채택했다.   &lt;p&gt;      &lt;br /&gt;회생·파산위는 이날 "세계적 경기 침체로 도산사건 접수가 가파르게 늘고 있다"며 "최근 수원·부산회생법원 신설에 따른 긍정적 효과를 확대할 대책을 마련해달라"고 밝혔다.      &lt;p&gt;         &lt;br /&gt;또 "법인 도산 사건의 절차를 단축하고 법인 채무자의 효율적 회생을 위해 현행  구조조정절차의 정비 및 법원 외 지원제도와의 연계, 강제인가의 실무처리기준의 정비 등 법인회생절차의 개선, 법인도산사건을 담당하는 법원 내 절차관계인들의 소통 및 교육의 활성화 등 한계기업의 채무조정 및 재기에 도움을 줄 수 있는 다양한 대책을 마련해야 한다"고 밝혔다.         &lt;p&gt;            &lt;br /&gt;도산 사건을 전문적으로 다루는 회생법원은 현재 서울과 수원, 부산 등 총 3곳에 있다.         &lt;/p&gt;      &lt;/p&gt;   &lt;/p&gt;&lt;/p&gt;</description>
+			<pubDate>Thu, 21 Dec 2023 12:25:03 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194371</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194371</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/177064(24).jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
+			<title>법원행정처, 형사사건 피해자 공탁물 수령절차 간소화</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/3(347).jpg" alt="3.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;내년부터 형사 재판에서 피해자가 공탁물을 수령하는 절차가 간소화된다.&lt;p&gt;   &lt;br /&gt;대법원 법원행정처는 21일 형사공탁 피공탁자(피해자)의 동일인 확인 증명서를 법원과 검찰이 직접 발급하는 제도를 내년 1월 26일부터 시행한다고 밝혔다.   &lt;p&gt;      &lt;br /&gt;그동안은 피고인의 공탁물을 피공탁자가 수령하려면 자신이 해당 사건의 피해자임을 증명하는 서류를 법원이나 검찰에서 발급받아 공탁소에 제출해야 했다. 이를 위해 피해자는 법원이나 검찰을 최소 2회 이상 방문해야 했다. 또 증명서를 받기까지 일주일 가까이 소요돼 공탁물을 수령하는 데 어려움을 겪기도 했다. 이 때문에 피해자가 공탁된 것을 알면서도 공탁물을 수령하지 못하는 일이 발생하기도 했다.      &lt;p&gt;         &lt;br /&gt;이날 대법관 회의에서 대법원규칙이 개정됨으로써 앞으로는 공탁관으로부터 공탁 사실을 전달받은 법원과 검찰이 증명서를 발급해 공탁소에 송부하는 '직권 발급제도'를 도입하게 된다.         &lt;p&gt;            &lt;br /&gt;행정처 관계자는 "앞으로도 피해자가 형사 공탁물에 대한 권리를 신속하게 행사할 수 있게 노력할 것"이라고 말했다.         &lt;/p&gt;      &lt;/p&gt;   &lt;/p&gt;&lt;/p&gt;</description>
+			<pubDate>Thu, 21 Dec 2023 12:24:36 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194372</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194372</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/3(347).jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
+			<title>한동훈 "'9회말 2아웃 2스트라이크'인 상황, 후회 없이 휘둘러야"</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/194369.jpg" alt="194369.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;국민의힘 비상대책위원장직을 맡게 된&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5077"&gt;한동훈&lt;/span&gt;&amp;nbsp;법무부장관이 "동료 시민과 함께 대한민국의 미래를 위한 길을 함께 만들어가겠다"며 "국민의 상식과 국민의 생각이라는 나침반을 갖고 앞장서겠다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;한 장관은 21일 오후 정부과천청사에서 열린 이임식 후 기자들을 만나 "비상한 현실 앞 막연한 자신감보다 책임감을 크게 느낀다"며 이같이 말했습니다.&lt;br /&gt;&lt;br /&gt;한 장관은 현 상황을 '9회 말 2아웃 2스트라이크'에 비유하면서 "원하는 공이 들어오지 않아도 후회 없이 휘둘러야 한다"면서 "국민의 상식과 국민의 생각이라는 나침반을 갖고 앞장서겠다. 나침반만으로는 길 곳곳에 있을 사막이나 골짜기를 다 알 수는 없겠지만, 지지해 주시는 의견 못지않게 비판해주시는 다양한 의견도 경청하고 존중하면서 끝까지 계속 가보겠다"고 말했다. &lt;br /&gt;&lt;br /&gt;특히 한 장관은 "권력을 차지하기 위한 의미의 정치에선 멀리 있었다. 하지만 '공공선'의 추구라는 큰 의미에서 정치는 20여년째 하고 있다. 그런 차원에서 그 마음 그대로 현실 정치에 들어가려 하는 것"이라며 "그것을 통해 국민의 삶과 미래를 더 낫게 만들고 싶다"고 강조했다. &lt;br /&gt;&lt;br /&gt;또 한 장관은 "대통령이든 여당이든 정부든 모두 헌법과 법률 내에서 국민을 위해 일하고 협력해야하는 기관이다. 그런 기본을 저는 잘 알고 있다"며 "국민의힘은 소수당이지만 대선에 승리해서 행정을 담당하고 있는 이점이 있다. 국민의힘이 하는 정책은 실천이지만 다수당인 민주당이 하는 건 약속일 뿐이다. 그건 큰 차이"라고 지적했다. &lt;br /&gt;&lt;br /&gt;한 장관은 "그 시너지를 잘 이해하고 활용해서 국민들께 필요한 정책들을 실천하겠다"고 약속하면서 "저는 이 나라 좋게 만들고 싶고 국민들을 조금 더 잘 살게 만들고 싶다"고 말했다. &lt;br /&gt;&lt;br /&gt;향후 있을 비대위 인선에 관련 질문에서는 "국민을 위해 열정적으로 헌신할 수 있는 분을 모시는 게 중요하다"며 "국민을 위해서 열정적으로 헌신할 수 있는 실력있는 분 모시는 게 중요하다"고 답했다. &lt;br /&gt;&lt;br /&gt;한 장관의 비상대책위원장직을 두고 국민의힘에선 여러 의견이 있다. '통합'에 대한 질문에 한 장관은 "국민의힘은 자유민주주의를 표방하는 정당이다. 다양한 목소리가 최대한 많이 나올 수록 강해지고 유능해지고 그래서 국민에게 봉사할 수 있는 정당이다. 다양한 목소리를 듣고 결과적으로 하나의 목소리를 내면서 이겨야할 때 이기는 정당으로 이끌어가겠다"고 대답했다. &lt;br /&gt;</description>
+			<pubDate>Thu, 21 Dec 2023 12:24:07 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194369</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194369</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/194369.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>이영록·이상훈 교수, '제3회 한국법학교수회 학술상' 수상</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194370.jpg" alt="194370.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;이영록 조선대 법학과 교수와 이상훈 서울대 로스쿨 교수가 '제3회 한국법학교수회 학술상'을 수상했다.&lt;p&gt;   &lt;b&gt;&lt;br /&gt;한국법학교수회(회장 조홍식)&lt;/b&gt;는 21일 서울 관악구 서울대 로스쿨 최종길홀에서 시상식을 열고 이영록 교수와 이상훈 교수에게 각각 상금 1000만 원과 상패를 수여했다.   &lt;p&gt;      &lt;br /&gt;심사위원장인 최병조 서울대 로스쿨 명예교수는 학술상 심사평을 통해 "제3회 한국법학교수회 학술상 수상작은 모두 법제사 분야의 역서들"이라며 "수상작으로 선정한 것은 기초법 분야에서 오랜 기간 정진해 온 수상자들이 모든 법학도의 통찰력 함양에 기여할 수 있는 성과물을 산출한 노고를 상찬하려는 것"이라고 밝혔다.      &lt;p&gt;         &lt;br /&gt;먼저, 이영록 교수의 '유럽법약사'에 대해 "Tamar Herzog 교수의 역작 A Short History of European Law (2018)를 번역한 이 책은 로마법으로부터 중세와 근대를 거쳐 최근 유럽연합의 법에 이르는 유럽법의 긴 역정을 대륙법과 코먼로에 대한 저자 나름의 탁월한 통합적 관점에서 서술한 명저"라며 "이영록 교수의 역서는 이 영어 원서를 한국어로 깔끔하게 재현한 수작"이라고 평가했다.         &lt;p&gt;            &lt;br /&gt;이어 이상훈 교수의 '로마법의 원리'에 대해서는 "Fritz Schulz 교수의 명저 Principles of Roman Law 영어 저본(1956)을 번역한 이 책은 오랜 기간 로마법학계의 고전으로 알려졌으며 저자의 독특한 분석틀은 지금까지도 다른 저술에서는 찾아보기 힘든 독창적인 것"이라며 "이상훈 교수의 역서는 긴 시간을 투자해 충실히 번역한 책으로 로마법에 정통하지 않고서는 쉽게 해낼 수 없는 훌륭한 성과"라고 평가했다.            &lt;p&gt;               &lt;br /&gt;조홍식 한국법학교수회장은 "'한국법학교수회 학술상'이 어느덧 3회를 맞이했다. 재단법인 나은의 후의와 김앤장 사회공헌위원회의 도움도 컸지만 법학의 위기감이 커져가는 현실 속에서 법학자들의 연구 의욕을 고취시키고자 하는 절실한 마음 또한 작지 않았다"며 "모쪼록 본 학술상을 계기로 법학연구의 저변이 확대되고 새로운 연구의 지평이 열리길 바란다"고 말했다.               &lt;p&gt;                  &lt;br /&gt;한국법학교수회 학술상은 2021년 7월 한국법학교수회와 재단법인 나은, 김앤장 사회공헌위원회가 맺은 업무협약에 따라 제정됐다. 김앤장이 세운 공익 재단법인 나은이 후원한다.               &lt;/p&gt;            &lt;/p&gt;         &lt;/p&gt;      &lt;/p&gt;   &lt;/p&gt;&lt;/p&gt;</description>
+			<pubDate>Thu, 21 Dec 2023 12:23:23 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194370</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194370</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/194370.jpg</media:thumbnail>
+			<dc:creator>이용경 기자</dc:creator>
+		</item>
+		<item>
 			<title>대한법무사협회 "부동산소유권 이전등기 특별조치법 조속한 통과 촉구"</title>
 			<description>&lt;b&gt;대한법무사협회(협회장 이남철, 이하 협회)&lt;/b&gt;는 부동산권리관계를 사실과 일치시키기 위해 부동산소유권 이전등기 특별조치법안의 조속한 통과가 시급하다고 주장했다.&lt;p&gt;   &lt;br /&gt;협회는 21일 성명을 내 이같이 밝혔다.   &lt;p&gt;      &lt;br /&gt;협회는 "해방과 6·25 전쟁 등을 거치면서 부동산 소유관계 서류 등이 멸실되거나, 권리관계를 증언해 줄 수 있는 관계자들이 사망 또는 소재 불명이 되는 경우가 많아 부동산에 관한 권리관계와 등기부상의 권리가 일치하지 않는 경우가 많았다"며 "이로 인해 재산권을 행사하지 못하는 사람들이 간편한 절차를 통해 사실과 부합하는 등기를 할 수 있도록 1978년, 1993년, 2006년, 2020년 4차례에 걸쳐 '부동산소유권 이전등기 등에 관한 특별조치법'(이하 특조법)이 제정 및 시행됐다"고 설명했다.      &lt;p&gt;         &lt;br /&gt;이어 "그러나 아직도 여전히 농어촌 지역의 경우, 특조법에 의하지 않으면 등기를 하지 못하는 대상 토지가 많이 남아 있어 새로운 특조법 제정의 필요성이 제기되고 있다"며 "2020년 시행돼 2022년 종료된 특조법 시행 기간에는 코로나19 팬데믹과 거리두기 정책으로 인해 자격자 보증인인 변호사나 법무사 등의 대면 확인에 어려움이 있어 시행 기간을 본의 아니게 도과한 경우가 많았다"며 "이같은 어려움을 해결하고자 그간 특조법 시행기간을 1∼2년 연장하는 개정법안들이 발의됐으나, 제20대 대통령 선거·제8회 전국동시지방선거 등으로 인해 법안 심의가 되지 못한 채 제4차 특조법의 시행 기간이 2022년 8월 종료됐다"고 지적했다.         &lt;p&gt;            &lt;br /&gt;협회는 "국회에 '부동산소유권 이전등기 등에 관한 특별조치법' 의 새로운 제정안이 발의돼 현재 법제사법위원회에 계류돼 있다"며 "이번 법안은 적용 범위를 매매·증여·교환 등의 법률행위로 인하여 사실상 양도된 부동산, 상속받은 부동산과 소유권보존등기가 되어 있지 아니한 부동산으로 하고, 적용지역 및 대상을 농어촌 지역으로 한정하여 그동안 특조법의 수요가 집중된 지역의 어려움을 해결하고자 했다"고 설명했다.            &lt;p&gt;               &lt;br /&gt;그러면서 "이번 법안 역시 공포 후 6개월이 경과한 날부터 시행하여 시행일로부터 2년간의 한시법으로 제안됨에 따라 이번 국회 회기가 종료되기 전 조속한 통과가 필요한 상황"이라며 "부동산권리관계의 안정을 위해 법안의 조속한 통과를 촉구한다"고 강조했다.            &lt;/p&gt;         &lt;/p&gt;      &lt;/p&gt;   &lt;/p&gt;&lt;/p&gt;</description>
 			<pubDate>Thu, 21 Dec 2023 09:14:59 -0000</pubDate>
@@ -203,46 +243,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194292</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/194292.jpg</media:thumbnail>
 			<dc:creator>이용경 기자</dc:creator>
-		</item>
-		<item>
-			<title>2023 제13회 대한민국 반부패 청렴대상 시상식 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194309.jpg" alt="194309.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;한국반부패정책학회(회장 김용철)&lt;/b&gt;가 주관하는 2023년 '제13회 대한민국 반부패 청렴대상' 시상식이 19일 오전 11시 국회의원회관 제1소회의실에서 열렸다.&lt;br /&gt;&lt;br /&gt;'대한민국 반부패 청렴대상'은 투명하고 공정한 정치·행정·사회 문화를 확립해 국가 발전에 기여한 사람에게 한국반부패정책학회가 수여하는 상이다. 국회의원이 대상인 정치 부문과 지방자치단체·기초자치단체장이 대상인 공직 부문으로 나눠 수상자를 선정한다.&lt;br /&gt;&lt;br /&gt;2023년 정치 부문 수상자로는 국민의당의 이인선·배현진·유경준 의원과 더불어민주당의 양기대·홍기원·강병원이 최종 선정됐다. 공직 부문에서는 노관규 순천시장, 이충우 여주시장, 이상일 용인시장, 최훈식 장수군수, 이용록 홍성군수, 전성수 서초구청장, 유성훈 금천구청장, 문인 광주 북구청장 등 14명이 수상했다.&lt;br /&gt;&lt;br /&gt;김용철 회장은 "이번 수상자들과 함께 지속적인 반부패 청렴 사회 캠페인과 정책 세미나 등 대국민 홍보 활동을 추진해 국가 청렴도를 더 높이도록 노력하겠다"고 말했다.</description>
-			<pubDate>Thu, 21 Dec 2023 02:31:56 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194309</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194309</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194309.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] '혜화역 흉기 난동' 예고범… 협박은 '무죄'·불법체류는 '징역형'</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/726(75).jpg" alt="726.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;인터넷 커뮤니티에 '혜화역 흉기 난동'을 예고한 혐의로 기소된 중국 국적의 불법 체류자에게 법원이 협박 혐의에 대해 무죄를 선고했다. 다만 법원은 불법 체류 혐의는 유죄로 인정했다.&lt;p&gt;   &lt;b&gt;&lt;br /&gt;서울중앙지법 형사12단독&amp;nbsp;&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="17132"&gt;이승호&lt;/span&gt;&lt;b&gt;&amp;nbsp;판사&lt;/b&gt;는 20일 협박 및 출입국관리법 위반 혐의로 구속기소 된 중국 국적 A 씨에게 출입국관리법 위반 혐의만 유죄로 인정해 징역 6개월에 집행유예 1년을 선고했다&lt;b&gt;(2023고단4876).&lt;/b&gt;   &lt;p&gt;      &lt;br /&gt;A 씨는 8월 4일 새벽 온라인 지역 커뮤니티 당근마켓에 '혜화역에서 흉기 난동을 하겠다'는 예고 글을 올렸다가 8초 만에 삭제한 것으로 조사됐다. 같은 날 혜화역 인근 한 대학교 온라인 커뮤니티 '에브리타임'에는 "다들 조심하세요"라는 말과 함께 A 씨가 올린 캡처본이 게시됐다.      &lt;p&gt;         &lt;br /&gt;이 판사는 "A 씨가 당근마켓에 글을 올린 지 8초 만에 삭제한 것은 협박의 고의성이 있다고 단정하기 어렵다"며 협박 혐의를 무죄로 판단했다.         &lt;p&gt;            &lt;br /&gt;이어 "에브리타임 게시글에 당근마켓 캡처본이 첨부됐다는 사정만으로 A 씨가 에브리타임 게시글을 작성했다고 충분히 증명됐다고 보기 어렵다"고 밝혔다.            &lt;p&gt;               &lt;br /&gt;이어 "에브리타임 게시글에 A 씨가 어떻게 관여했는지 입증되지 않은 상황에서 당근마켓에 칼부림 예고 글을 작성하고 캡처한 A 씨의 행위로 인해 피해자들이 공포심을 느꼈다고 보기 어렵다"고 덧붙였다.               &lt;p&gt;                  &lt;br /&gt;다만 이 판사는 A 씨의 출입국관리법 위반 혐의는 유죄로 인정했다. A 씨는 유학생 신분으로 입국했다가 비자를 연장하지 못해 2년 전부터 불법체류 신분이었던 것으로 조사됐다.               &lt;/p&gt;            &lt;/p&gt;         &lt;/p&gt;      &lt;/p&gt;   &lt;/p&gt;&lt;/p&gt;</description>
-			<pubDate>Thu, 21 Dec 2023 02:31:30 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194310</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194310</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/726(75).jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>檢, '깡통 전기차'로 보조금 가로챈 업체 일당 기소</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/763(67).jpg" alt="763.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;배터리 없는 차체만으로 전기자동차 구매보조금 47억원을 가로챈 제조업체 일당이 재판에 넘겨졌다.&lt;p&gt;   &lt;b&gt;&lt;br /&gt;서울중앙지검 형사5부(&lt;span style="" class="lawmanlink" serial="12060"&gt;이준동&lt;/span&gt;&amp;nbsp;부장검사)&lt;/b&gt;는 18일 특정경제범죄 가중처벌법상 사기, 보조금관리법위반 혐의 등을 받는 전기차 제조업체 이모씨를 구속기소했다고 20일 밝혔다.   &lt;p&gt;      &lt;br /&gt;검찰에 의하면 이모씨는 경영난을 겪던 중, 지방자치단체를 상대로 한 보조금 신청 및 지급이 서면만으로 이루어지는 점을 파악했다. 이후 전기자동차 보조금을 편취하기로 마음먹고 명의대여자 명의로 허위 구매계약서를 작성해, 보조금 지원을 신청하고 지원대상자로 선정된 것으로 조사됐다.      &lt;p&gt;&amp;nbsp; &lt;br /&gt;이후 이모씨는 중국에서 차체만 수입하고 배터리를 장착하지 않아 실제로 운행할 수 없는 '깡통 전기차'를 완성차인 것처럼 가장해 자동차등록증을 발급받은 혐의를 받는다. 그리고 지방자치단체에 보조금 지급을 신청하는 방법 등으로 약 47억 원에 이르는 보조금을 부정하게 수령한 것으로 조사됐다.         &lt;p&gt;&amp;nbsp; &lt;br /&gt;범행에 가담한 관계사 대표 등 4명도 같은 날 불구속기소됐다.            &lt;p&gt;&amp;nbsp; &lt;br /&gt;검찰 관계자는 "피고인들에게 죄에 상응하는 처벌이 이뤄지도록 공소수행에 만전을 기하는 한편, 국가재정 부실화를 초래하는 보조금 비리 사범에 대하여 계속해 엄정히 대응하겠다"고 밝혔다.&lt;/p&gt;            &lt;/p&gt;         &lt;/p&gt;   &lt;/p&gt;&lt;/p&gt;</description>
-			<pubDate>Thu, 21 Dec 2023 02:30:41 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194315</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194315</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/763(67).jpg</media:thumbnail>
-			<dc:creator>홍수정 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 일제 강제동원 '2차 소송' 승소 확정… 대법, " 일본 기업이 배상"</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/175928(19).jpg" alt="175928.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;일본 기업을 상대로 일제 강제동원의 책임을 묻는 '2차 손해배상 소송'에서도 대법원이 피해자들의 손을 들어줬다. 피해자들이 소를 제기한 지 약 10년 만에 내려진 결론이다.&lt;p&gt;&lt;b&gt;&lt;br /&gt;대법원 민사2부(주심&amp;nbsp;&lt;span style="" class="lawmanlink" serial="8769"&gt;이동원&lt;/span&gt;&amp;nbsp;대법관)&lt;/b&gt;는 21일 일제 강제동원 피해자들과 유족이 미쓰비시중공업과 일본제철을 상대로 낸 손해배상 청구 소송 2건&lt;b&gt;(2018다303653, 2019다17485)&lt;/b&gt;에서 원고승소 판결한 원심을 확정했다.   &lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;         재판부는 "강제동원 피해자 또는 그 상속인들에게는 2018년 전원합의체 판결이 선고될 때까지는 피고(일본 기업)를 상대로 객관적으로 권리를 사실상 행사할 수 없는 장애사유가 있었다"고 판단했다.&amp;nbsp; '객관적으로 권리를 사실상 행사할 수 없는 장애사유가 있었다'는 이유로 '피고의 소멸시효 항변이 권리남용에 해당하여 허용될 수 없다'고 판단한 것이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;대법원은 2018년 전원합의체 판결을 통해 일본 정부의 한반도에 대한 불법적인 식민지배 및 침략전쟁의 수행과 직결된 일본 기업의 반인도적인 불법행위를 전제로 하는 강제동원 피해자의 일본 기업에 대한 위자료청구권은 청구권협정의 적용대상에 포함되지 않는다는 법적 견해를 밝힌 바 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;판결이 확정됨에 따라 미쓰비시와 일본제철은 피해자 한 명당 1억∼1억5000만 원의 배상금과 지연손해금을 유족에게 지급해야 한다. 확정된 배상금은 총 11억7000만 원이다. 다만 앞서 확정된 판결에 따른 배상금 지급 명령도 이행하지 않고 있어 일본 기업들에 의한 직접 배상이 이뤄질 가능성은 낮을 것으로 보인다.            &lt;/p&gt;&lt;p&gt;&lt;br /&gt;A 씨 등 7명은 이들은 1942∼1945년 국책 군수업체 일본제철의 가마이시제철소와 야하타제철소 등에 강제 동원돼 노역했다. B 씨 등은 1944∼1945년 일본 미쓰비시중공업 나고야 항공기제작소 공장에 끌려가 월급을 거의 받지 못하고 강제노경했다. 피해자들은 2013~2014년 미쓰비시중공업·일본제철을 상대로 각각 소송을 제기했다.&lt;br /&gt;두 소송의 1,2심은 원고들의 청구를 받아들여 일본 기업의 배상 책임을 인정했다. 하지만 미쓰비시와 일본제철이 상고하면서 재판이 10년 가까이 계속된 사이 피해자들은 모두 숨졌다.               &lt;/p&gt;&lt;p&gt;&lt;br /&gt;이번 소송은 2012년 일본제철 상대 손해배상 청구 소송에서 대법원이 처음으로 배상청구권을 인정하자 다른 피해자들이 용기를 내 제기한 소송이어서 '2차 소송'으로 불린다.                  &lt;/p&gt;&lt;p&gt;&lt;br /&gt;대법원 관계자는 "일제 강제동원 피해자들에게는 2018년 전원합의체 판결이 선고될 때까지는 일본 기업을 상대로 객관적으로 권리를 사실상 행사할 수 없는 장애사유가 있었다는 점을 최초로 명시적으로 설시한 판결"이라며 "이를 기초로 소멸시효 항변을 배척함으로써 2012년 5월 24일 대법원 판결 선고 후 2013년 3월 및 2014년 2월에 제기된 이 사건에서도 원고들이 피고 기업들을 상대로 강제동원으로 인한 위자료를 청구할 수 있음을 인정했다"고 말했다.                  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Thu, 21 Dec 2023 02:29:05 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194335</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194335</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/175928(19).jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
