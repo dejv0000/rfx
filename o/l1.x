@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>민주당 "檢, 특활비로 음주 회식·영수증 조작"…대검 "악의적 허위주장 유감"</title>
+			<description>더불어민주당이 검찰이 업무추진비로 음주 회식을 벌이고 영수증을 조작했다는 주장을 펼치자, 대검찰청이 "악의적인 허위주장"이라고 반박했다. &lt;br /&gt;&lt;br /&gt;민주당 검찰독재정치탄압대책위원회는 23일 "김형근 인천지검 부천지청장과 직원들은 지청 업추비를 사용해 음주 회식을 벌이고, 카드 영수증 구매내역을 조작해 은폐했다고 한다"고 비판했다. &lt;br /&gt;&lt;br /&gt;이어 "음주 내역이 문제가 될 것 같자 부천지청은 내역 없이 영수증을 재발급해 음주 내역을 통째로 없애고 회식 비용이 50만원이 넘어가자 금액을 나누어 카드 두 장으로 분할결제까지 했다"며 '세금 절도'라고 주장했다. &lt;br /&gt;&lt;br /&gt;이에 대검찰청은 대책위의 주장이 사실무근이라는 입장을 내고 "부천지청장이 타청으로 인사발령됨에 따라 여러 직원들과 마지막 식사하였던 자리"라며 "직원간담회라는 업무추진비 예산 편성 목적에 맞게 집행됐다"고 설명했다. &lt;br /&gt;&lt;br /&gt;또 "부천지청 예산사정을 감안하여 총 식사비용 71만 3천원 중 예산으로 48만원을 결제하고 그외 23만 3천원은 기관장이 개인카드 사비로 결제하여 예산지침에 맞게 사용한 것으로 2장의 기관공용카드로 분할결제한 사실이 없다"고 덧붙였다. &lt;br /&gt;&lt;br /&gt;대검은 카드영수증도 집행지침에 따라 구비된 영수증을 관계 법령 및 정보공개 판결 취지에 맞게 공개했다며 조작한 사실이 전혀 없다고 강조했다. &lt;br /&gt;&lt;br /&gt;민주당은 검찰이 특수활동비를 부서 나눠쓰기, 연말 몰아쓰기, 식대나 포상금으로 사용 등 부적정하게 집행했다고 주장하고 있다. &lt;br /&gt;&lt;br /&gt;대검은 "검찰 특수활동비는 수사 등 업무소요를 토대로 연초에 수립한 집행계획에 따라 전국 검찰청, 대검 각 부서에 배정하고, 업무상 필요에 따라 수시 배정·집행 중"이라며 "기밀 유지가 요구되는 사건수사 및 범죄정보 수집 등 특수활동비 편성 목적에 맞게 예산을 집행하고 있다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;문제를 제기하는 특수활동비 집행내역은 지난 정부 기간동안 집행된 내역으로 목적과 용도에 맞게 사용됐다는 설명이다. 검찰은 "지난 정부에서 점검한 결과 이상이 없다고 확인된 것"이라고 덧붙였다.</description>
+			<pubDate>Sat, 23 Dec 2023 05:06:04 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194396</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194396</guid>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] '여신도 성폭행 혐의' 정명석 JMS 총재, 1심서 징역 23년</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/194392.jpg" alt="194392.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;정명석 JMS 총재(왼쪽) &amp;lt;대전지검 제공&amp;gt;&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;여신도들을 성폭행하고 강제추행한 혐의를 받는 기독교복음선교회(JMS) 총재 정명석 씨에게 징역 23년의 중형이 선고됐다.&lt;p&gt;&lt;b&gt;&lt;br /&gt;대전지법 형사12부(재판장&amp;nbsp;&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11808"&gt;나상훈&lt;/span&gt;&lt;b&gt;&amp;nbsp;부장판사)&lt;/b&gt;는 22일 준강간과 강제추행 등 혐의로 기소된 정씨에게 징역 23년을 선고하고 위치추적 전자장치(전자발찌) 15년 부착 등을 명령했다&lt;b&gt;(2022고합443).&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;재판부는 "동종 범행으로 징역 10년을 살고 나와서도 또 다시 범행했고 녹음파일까지 있음에도 손바닥으로 하늘을 가려보겠다는 의도로 범행을 모두 부인하고 있다"며 "피해자들에 대한 인신공격에 이어 무고까지 하는 등 전혀 반성하지 않고 있다"고 양형 이유를 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;정씨는 2018년 2월부터 2021년 9월까지 충남 금산군 진산면 월명동 수련원 등에서 23차례에 걸쳐 홍콩 국적 여신도 메이플을 추행하거나 성폭행하고 호주 국적 여신도 에이미와 한국인 여신도를 성추행한 혐의로 구속기소됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;외국인 여신도들이 자신을 허위로 성범죄 고소했다며 경찰에 맞고소하는 등 무고한 혐의로도 재판에 넘겨졌다.&lt;br /&gt;정씨는 자신을 메시아로 칭하며 신도들을 세뇌한 뒤 범행을 저지른 것으로 조사됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;정씨 측은 여신도들은 성적으로 세뇌되거나 항거불능 상태가 아니었고, 자신은 신이 아니며 사람이라고 지속해 설교해 왔다며 혐의를 부인해 왔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;검찰은 "메시아로 행세하며 다수 여신도를 상대로 성범죄를 저질러 죄질이 불량하다"며 정씨에게 징역 30년을 구형했다. 또 500시간의 성폭력 치료프로그램 이수 명령과 20년간 위치추적 전자장치(전자발찌) 부착 명령, 10년간 아동·청소년 관련 기관과 장애인 복지시설 취업제한 명령을 재판부에 요청했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이날 선고 후 반 JMS 단체 '엑소더스'를 이끌었던 김도형 단국대 교수는 대전 유성구 TJB 대전방송 건물 1층 로비에서 기자들을 만나 "고소장 접수 후 1년 9개월간 피해자들에게 2차 가해를 말도 못 할 정도로 했고 일부 광신도들은 이들의 얼굴과 이름을 노출하기도 했다"며 "순차적으로 다른 피해자들 사건이 기소될 것이고 선고가 내려질 것으로 믿고 최대한 감형해주지 않았으면 한다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이날 선고 결과에 대해 JMS 측은 대전지법 앞에서 "무죄추정주의와 죄형법정주의의 헌법적 원칙까지 무시된 결과"라며 "선교회의 가르침과 신앙의 길을 달리한 자들로부터 피소를 당했으나 성실하고 당당하게 재판에 임했다"고 주장했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Fri, 22 Dec 2023 08:57:07 -0000</pubDate>
@@ -231,16 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194362</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/194362.jpg</media:thumbnail>
 			<dc:creator>홍수정 기자</dc:creator>
-		</item>
-		<item>
-			<title>한동훈, 윤석열 대통령에 사의 표명</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/HDH_04(2).jpg" alt="HDH_04.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5077"&gt;한동훈&lt;/span&gt;&amp;nbsp;법무부 장관이 21일 국민의힘 비상대책위원장직을 수락했다.&lt;br /&gt;&lt;br /&gt;법무부는 이날 한 장관이 국민의힘 비상대책위원장 제의를 수락하고,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&lt;/span&gt;&amp;nbsp;대통령에게 사의를 표명했다고 밝혔다. &lt;br /&gt;&lt;br /&gt;후임 장관이 임명될 때까지 이노공 차관이 장관 직무 대행을 맡게 된다. &lt;br /&gt;&lt;br /&gt;법무부는 오후 5시 정부과천청사에서 이임식을 진행한다. &lt;br /&gt;</description>
-			<pubDate>Thu, 21 Dec 2023 06:28:22 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194361</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194361</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/HDH_04(2).jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
