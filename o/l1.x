@@ -6,13 +6,122 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>대검, '총선 출마 사직' 부장검사·지청장 인사 조치</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/11(202).jpg" alt="11.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대검찰청이&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13751"&gt;김상민&lt;/span&gt;&amp;nbsp;서울중앙지검 형사9부장과&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10636"&gt;박대범&lt;/span&gt;&amp;nbsp;창원지검 마산지청장을 29일 대전고검과 광주고검으로 각각 인사조치했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;김 부장검사는 전날 사직서를 냈고, 박 지청장은 내년 총선 출마와 관련해 외부인과의 부적절한 접촉 등이 확인돼 감찰이 진행 중인 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;대검찰청은 "총선을 앞둔 시기에 검찰의 정치적 중립을 훼손하거나 의심받게 하는 행위는 용납될 수 없다. 기관장과 부서장으로서 정치적 중립과 관련하여 문제되는 행위를 한 점에 대하여 엄중한 감찰과 징계 절차를 진행할 것"이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;이어 "검찰은 정치적 중립을 엄정하게 지켜나갈 것이며 이를 훼손하거나 의심받게 하는 행위가 없도록 할 것"이라고 강조했다.&lt;br /&gt;</description>
+			<pubDate>Fri, 29 Dec 2023 09:58:50 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194577</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194577</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/11(202).jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>김상민 서울중앙지검 부장검사 사의 표명…"총선 출마하겠다"</title>
+			<description>현직 서울중앙지검 부장검사가 내년 4월 총선 출마를 위해 사의를 표했다. &lt;br /&gt;&lt;br /&gt;29일 법조계에 따르면&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13751"&gt;김상민&lt;/span&gt;&lt;b&gt;(45·사법연수원 35기)&lt;/b&gt; 서울중앙지검 형사9부 부장검사는 전날 법무부에 사직서를 제출했다. &lt;br /&gt;&lt;br /&gt;김 부장검사는 주변에 내년 총선에 출마할 의사를 밝혔던 것으로 알려졌다. 그는 고향인 경남 창원에서 출마를 준비 중인 것으로 전해졌다. 창원에서 출판기념회를 열겠다는 홍보 글을 SNS에 올렸다가 지우기도 했다.&lt;br /&gt;&lt;br /&gt;김 부장검사는 지난 10월 국정감사에서 추석을 앞두고 출마를 시사하는 메시지를 지인들에게 보낸 것이 밝혀져 현직 검사가 정치 활동을 한다는 논란을 빚었다. 김 부장검사가 보낸 메시지에는 "저는 뼛속까지 창원 사람"이라며 "기대와 성원에 어긋나지 않도록 최선을 다하고 지역사회에 큰 희망과 목표를 드리는 사람이 되겠다"는 내용이 담겼다.&lt;br /&gt;&lt;br /&gt;대검찰청은 김 부장검사에 대한 감찰에 들어갔다. 대검 감찰위원회는 김 부장검사에게 '검사장 경고' 조치를 내릴 것을 권고했으나 이원석 검찰총장은 김 부장검사 관련 보고를 받고 감찰부서에 추가 감찰을 검토하라고 지시한 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;창원 경상고와 서울대 법대를 졸업한 김 부장검사는 2003년 제45회 사법시험에 합격했다. 2009년 대구지검 검사로 임관해 법무부 형사법제과 검사, 서울중앙지검 검사, 해외불법재산환수 합동조사단 1팀장, 대구지검 의성지청장 등으로 근무했다.</description>
+			<pubDate>Fri, 29 Dec 2023 08:59:17 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194574</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194574</guid>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>檢, "불가리스가 코로나 억제한다"...남양유업 전현직 임원 재판행</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/764(35).jpg" alt="764.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;코로나19 팬데믹 당시 코로나19 바이러스를 억제하는 것처럼 자사 제품 '불가리스'를 홍보한 남양유업 전현직 임직원이 재판에 넘겨졌다.&lt;p&gt;&amp;nbsp; &lt;b&gt;&lt;br /&gt;서울중앙지검 형사2부(&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11887"&gt;손정현&lt;/span&gt;&lt;b&gt;&amp;nbsp;부장검사)&lt;/b&gt;는 남양유업 전현직 임직원 4명과 남양유업 법인을 식품표시광고법 위반 혐의로 불구속 기소했다고 29일 밝혔다.   &lt;p&gt;&amp;nbsp; &lt;br /&gt;검찰에 따르면, 이들은 2021년 4월 남양유업에서 생산하는 제품 불가리스가 코로나19 바이러스 등 질병 예방과 치료에 효능이 있는 것처럼 인식하도록 광고한 혐의를 받는다.      &lt;p&gt;&amp;nbsp; &lt;br /&gt;이들은 불가리스가 항바이러스 효과와 코로나19 바이러스 저감 효과가 있다고 단정하기 어려운 것을 알고 있었던 것으로 파악됐다. 해당 상품은 단순한 세포 단계 실험만을 거치고, 임상시험을 하지는 않은 것으로 알려졌다. 하지만 학술 심포지엄을 빙자해 기자들이 참석한 자리에서 이같은 효능이 있는 것처럼 연구결과를 발표하고 관련 자료를 배포해 보도가 이뤄지게 한 것으로 조사됐다.         &lt;p&gt;&amp;nbsp; &lt;br /&gt;앞서 식약처는 조사를 통해 남양유업이 실험 결과를 과장해 발표한 것으로 보고, 식품표시광고법 제8조를 근거로 경찰에 고발 조치했다.&lt;/p&gt;         &lt;/p&gt;      &lt;/p&gt;   &lt;/p&gt;</description>
+			<pubDate>Fri, 29 Dec 2023 07:46:31 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194568</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194568</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/764(35).jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>檢, '아내 둔기 살해' 혐의 전 대형로펌 변호사 구속기소</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/8(121).jpg" alt="8.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;아내를 둔기 등으로 살해한 혐의를 받는 대형로펌 출신 변호사가 재판에 넘겨졌다.&lt;p&gt;&amp;nbsp; &lt;b&gt;&lt;br /&gt;서울중앙지검 형사3부(부장검사&amp;nbsp;&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11845"&gt;조석규&lt;/span&gt;&lt;b&gt;)&lt;/b&gt;는 현씨를 살인죄 위반 혐의로 29일 구속기소했다.   &lt;p&gt;&amp;nbsp; &lt;br /&gt;현씨는 이혼소송을 제기한 후 별거 중이던 피해자의 머리 등을 둔기로 수차례 내리치고 목을 졸라 살해한 의혹을 받는다.      &lt;p&gt;&amp;nbsp; &lt;br /&gt;검찰은 "(현씨는) 살인의 범의 등을 부인했으나, 혈흔 분석보고서, 부검감정서 등을 기초로 한 법의학 자문, 현씨에 대한 통합심리분석 등 과학적인 수사로 범행을 명확히 규명했다"고 설명했다.         &lt;p&gt;&amp;nbsp; &lt;br /&gt;이어 "피해자 유족들에 대한 유족구조금, 심리치료비 등 피해자 지원을 의뢰하는 한편, 피고인에게 죄에 상응하는 처벌이 이루어질 수 있도록 공소유지에 최선을 다할 것"이라고 밝혔다.            &lt;p&gt;&amp;nbsp; &lt;br /&gt;국내 대형로펌 출신의 미국변호사로 알려진 현씨는 지난 3일 서울 종로구 사직동 아파트에서 부부싸움을 하다가 범행을 저지른 것으로 경찰에 의해 조사됐다. 현씨는 사건 발생 직후 퇴사한 것으로 전해졌다.&lt;/p&gt;            &lt;/p&gt;         &lt;/p&gt;      &lt;/p&gt;   &lt;/p&gt;</description>
+			<pubDate>Fri, 29 Dec 2023 07:45:55 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194567</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194567</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/8(121).jpg</media:thumbnail>
+			<dc:creator>홍수정 기자</dc:creator>
+		</item>
+		<item>
+			<title>檢, 문재인 前 대통령 농지법 위반 '무혐의' 처분</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/8054(20).jpg" alt="8054.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;검찰이 농지법 위반 의혹으로 보수단체로부터 고발된&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1359"&gt;문재인&lt;/span&gt;&amp;nbsp;전 대통령 부부에 대해 무혐의 처분을 내렸다.&lt;p&gt;&amp;nbsp; &lt;b&gt;&lt;br /&gt;울산지검 형사5부(&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13113"&gt;김윤정&lt;/span&gt;&lt;b&gt;&amp;nbsp;부장검사)&lt;/b&gt;는 문 전 대통령 부부의 농지법 위반 의혹에 대해 이같이 처분했다고 28일 밝혔다.   &lt;/p&gt;&lt;p&gt;&lt;br /&gt;지난해 5월 전광훈 목사가 대표로 있는 자유통일단은 문 전 대통령 부부가 양산시 소재 농지 1844㎡을 취득하면서 농사를 짓지 않고 농지취득자격증명을 발급받아 농지를 불법매입했다고 주장하며 양산경찰서에 고발했다.      &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;검찰 관계자는 "문 전 대통령이 농지를 취득하는 과정에서 농업경영 목적, 영농 경력 등을 거짓으로 기재해 농지취득자격증명을 신청·발급받았다고 인정하기 어려워 혐의없음 처분을 했다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Fri, 29 Dec 2023 07:23:03 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194548</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194548</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/8054(20).jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>여당 새 사무총장에 판사 출신 장동혁 의원</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="http://image.lawtimes.co.kr/images/194563.jpg" alt="194563.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;국민의힘 비상대책위원회&lt;/b&gt;가 29일 내년 총선에서 공천 실무를 담당할 신임 사무총장으로 판사 출신&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10658"&gt;장동혁&lt;/span&gt;&lt;b&gt;(54·사법연수원 33기&lt;/b&gt;&lt;b&gt;·사진&lt;/b&gt;&lt;b&gt;) 의원&lt;/b&gt;을 임명했다.&lt;p&gt;&lt;br /&gt;한동훈 비대위원장은 이날 국회에서 열린 비대위 첫 회의에서 인선안을 발표하며 이 같이 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;한 비대위원장은 "장 의원은 행정, 사법, 입법을 모두 경험했고 국민의 삶과 밀접한 교육공무원까지 지냈다"며 "오랜기간 법관으로 지내며 법과 원칙에 대한 기준을 지켜왔다"고 소개했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;사무총장은 당 운영 전반을 총괄하고 공천관리위원회에서 선거 실무를 이끄는 핵심 요직으로 불린다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;판사 출신인 장 의원은 충남 보령 대천고와 서울대 불문학과를 졸업하고 1991년 제35회 행정고시에 합격해 교육부 행정사무관으로 근무하다 2001년 제43회 사법시험에 합격했다. 2004년 사법연수원을 제33기로 수료한 뒤 대전지법 판사로 임관한 뒤 인천지법 판사, 국회 파견 판사, 서울중앙지법 판사 등을 지냈다. 2020년 1월 광주지법 부장판사를 끝으로 사직한 뒤 변호사로 활동하다 2022년 6월 충남 보령·서천 보궐선거에서 당선됐다. 최근까지 국민의힘 원내대변인으로 활동해 왔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Fri, 29 Dec 2023 07:22:12 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194563</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194563</guid>
+			<media:thumbnail>http://image.lawtimes.co.kr/images/194563.jpg</media:thumbnail>
+			<dc:creator>이용경 기자</dc:creator>
+		</item>
+		<item>
+			<title>법무부, 을지연습 유공 대통령 표창 수상</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/2(320).jpg" alt="2.jpg" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;법무부&lt;/b&gt;는 지난 을지연습에서 비상대비 태세를 확립해 국가사회 발전에 기여한 공로를 인정받아 대통령 표창을 받았다고 29일 밝혔다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8738"&gt;이노공&lt;/span&gt;&amp;nbsp;법무부장관 직무대행은 "법무부 전 직원이 하나가 되어 실전처럼 연습에 참여한 결과 대통령 표창을 수상하게 됐다. 앞으로도 전 직원이 협력하여 비상대비태세 확립을 위해 최선을 다하겠다"고 말했다. &lt;br /&gt;&lt;br /&gt;앞서 법무부는 본부를 비롯한 267개 소속기관 전 직원이 참여해 연습계획을 수립하고, 안보상황 변화 등을 반영한 을지연습을 실시했다.&lt;br /&gt;&lt;br /&gt;법무부는 "전시 전환절차훈련, 전시 현안과제 토의 및 군·경·소방서 등 유관기관과 함께 실시한 적 특수전부대 침투 대비 실제 훈련을 통해 전시대비태세를 확립하기 위해 노력했다"고 설명했다.</description>
+			<pubDate>Fri, 29 Dec 2023 07:20:25 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194562</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194562</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/2(320).jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>이정훈 빗썸 최대주주 '사기 혐의' 2심 내달 선고</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/176904(15).jpg" alt="176904.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;이정훈 전 빗썸홀딩스 전 의장의 코인 상장 사기 혐의에 대한 2심 재판 선고가 내달 18일 예정됐다. 2심 재판에서도 이 전 의장측과 검찰 측은 '코인 상장을 확약했다'는 등의 쟁점을 두고 첨예한 공방을 벌였지만, 핵심 증인이 재판에 불출석하면서 재판 결과는 안갯속이 됐다. 이정훈 전 의장은 싱가포르에 본사를 둔 빗썸홀딩스의 지배 회사의 최대 주주로 빗썸의 실 소유주다. &lt;br /&gt;&lt;br /&gt;이 전 의장은 2018년 10월 BXA코인을 빗썸에 상장하겠다며 김병건 BK메디컬그룹 회장에게 빗썸 인수를 제안하고 계약금 명목으로 약 1억 달러(약 1298억 원)를 가로챈 혐의를 받는다. 김 회장은 금융당국 규제로 BXA코인 상장이 무산되자 이 전 의장을 사기 혐의로 고소했다.&lt;br /&gt;&lt;br /&gt;검찰은 앞서 1심에서 이 전 의장에게 징역 8년을 구형했다. 하지만 올 1월 1심 법원은 "김 회장 진술에 신빙성이 없으며 검사가 제출한 증거만으로 이 전 의장이 BXA코인 상장을 확약했다고 인정할 수 없다"며 이 전 의장에게 무죄를 선고했다. &lt;br /&gt;&lt;br /&gt;검찰은 이 전 의장은 BXA코인 발행과 상장이 실현 불가능한 사업이라는 것을 알면서도 피해자들을 기망해 계약금을 편취했다고 보고 이 전 의장의 특정경제법상 사기 등 혐의에 무죄 선고를 한 1심 판결에 불복해 항소했다. &lt;br /&gt;&lt;br /&gt;2심 재판에서도 '이 전 의장이 애초에 상장이 불가능한 것을 알면서도 피해자에게 코인 상장 확약을 했는지' 등이 쟁점이 됐다. 앞서 1심 재판에서도 증인 23명 등이 채택돼 관련 사실관계를 첨예하게 다퉜지만, 법원은 구체적인 증거가 없다고 판단했다. &lt;br /&gt;&lt;br /&gt;1심 증인들 중 10명은 빗썸 계열사의 전현직 임직원이었던 것으로 전해졌다. 이들 가운데에는 빗썸 상장피 수수 혐의로 기소된 이상준 빗썸홀딩스 대표 등 이 전 의장의 최측근으로 알려진 이들도 다수 포함됐다. &lt;br /&gt;&lt;br /&gt;이에 피해자 측은 이 전 의장과 피해자 측인 김 회장 사이 계약 업무 진행을 지켜봐 온 핵심 증인의 진술이 필요하다고 주장했지만, 2심 재판 과정에서도 핵심 증인은 법정에 서지 않았다.&lt;br /&gt;&lt;br /&gt;특히 핵심 증인으로 꼽히는 A 씨는 김 회장의 측근으로서 코인 상장 계약 업무 등에 관여했던 것으로 알려졌다. A 씨는 빗썸홀딩스의 최대주주 회사 BTHMB의 등기 이사로 김 회장이 이 회사 공동대표로 재직할 당시 지명된 뒤 2019년 김 회장이 공동대표에서 축출된 때에도 A 씨는 등기 이사직을 유지했던 것으로 알려졌다. &lt;br /&gt;&lt;br /&gt;2심 재판부는 증인 채택 전 A 씨에 대한 출석을 어떻게 담보할 것인지 검찰에 설명을 요청했다. 당시 검찰은 A 씨에게 연락해 법정 출석을 설득하겠다고 밝혔지만, A 씨 측은 끝내 증인 출석을 거절한 것으로 알려졌다. &lt;br /&gt;&lt;br /&gt;핵심 증인의 법정 출석이 불발된 가운데, 검찰은 1심에 이어 2심에서도 이 전 의장에 대해 징역 8년을 구형했다. 지난달 16일 서울고법 형사5부(재판장 서승렬 부장판사) 심리로 열린 항소심 재판에서 검찰은 이 전 의장에게 징역 8년을 선고해달라고 재판부에 요청했다(2023노209). &lt;br /&gt;&lt;br /&gt;검찰은 "피고인의 행위가 악위적이고 죄질이 불량해 엄벌이 필요하다"며 "피해 액수가 1200억 원 이상으로 매우 크고 그 중 상당 부분은 선량한 피해자들의 피해 금액인 점, 피고인이 모든 혐의를 부인하는 점 등을 고려해 1심 구형과 동일하게 징역 8년에 처하게 해달라"며 구형이유를 밝혔다.</description>
+			<pubDate>Fri, 29 Dec 2023 07:05:09 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194564</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194564</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/176904(15).jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>법제처 "국정과제 법률안 145건 국회 통과"</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/186905(1).jpg" alt="186905.jpg" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;법제처(처장&amp;nbsp;&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9236"&gt;이완규&lt;/span&gt;&lt;b&gt;)&lt;/b&gt;가 2023년 국회를 통과한 국정과제 법률안이 145건이라고 29일 밝혔다.&lt;br /&gt;&lt;br /&gt;통과한 법률안 중에는 불법스팸 대응 제도를 강화하는 정보통신망 이용촉진 및 정보보호 등에 관한 법률 개정안, 경제안보를 위한 공급망 안정화 지원 기본법 제정안 등 민생·경제를 뒷받침하는 법률안이 다수 포함됐다. &lt;br /&gt;&lt;br /&gt;불법 스팸문자 등의 전송자에게 부과하는 벌금을 1000만 원에서 3000만 원으로 상향하고 통신사의 불법스팸 전송 방지에 대한 책임을 강화하는 내용으로 '정보통신망 이용촉진 및 정보보호 등에 관한 법률'을 개정했다. &lt;br /&gt;&lt;br /&gt;주최자가 불분명한 지역축제에 대한 지방자치단체의 안전관리를 의무화하는 내용으로 '재난 및 안전관리 기본법'을 개정하는 등 국민의 안전한 삶을 입법으로 뒷받침했다.&lt;br /&gt;&lt;br /&gt;모바일 주민등록증을 도입하는 내용을 담은 주민등록법 개정안도 국회를 통과했다. 개정 법률이 시행되면 관공서나 금융기관 방문 등 일상생활에서 실물 주민등록증을 소지해야 하는 번거로움이 줄어들 전망이다.&lt;br /&gt;&lt;br /&gt;경제안보 차원에서 공급망 위험에 대해 효과적으로 예방·대응하기 위한 '경제안보를 위한 공급망 안정화 지원 기본법'을 제정하고, 기업의 투자와 사업혁신을 안정적으로 지원하기 위해 '기업 활력 제고를 위한 특별법'의 유효기간을 삭제하여 상시법으로 전환하는 등 안정적인 경제성장을 위한 제도적 기반을 마련했다.&lt;br /&gt;&lt;br /&gt;신산업의 글로벌 경쟁력을 확보하기 위해 미래자동차법제처 자율운항선박 등 미래 유망 분야의 산업을 체계적으로 육성·지원하는 내용의 미래자동차 부품산업의 전환촉진 및 생태계 육성에 관한 특별법 제정안과 자율운항선박 개발 및 상용화 촉진에 관한 법률 제정안이 국회를 통과하여 공포·시행을 앞두고 있다.&lt;br /&gt;&lt;br /&gt;이완규 처장은 "앞으로도 국민의 삶과 직결되는 민생·경제 법안이 속도감 있게 입법화될 수 있도록 신속하고 완성도 높은 법제지원을 위해 최선을 다하겠다"고 밝혔다.</description>
+			<pubDate>Fri, 29 Dec 2023 07:04:47 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194547</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194547</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/186905(1).jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>법무부, '윤석열 검찰총장 정직 2개월 취소' 2심 상고 포기</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/1(513).jpg" alt="1.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무부가 윤석열 대통령이 검찰총장 시절 받은 정직 2개월 징계가 위법하다고 판단한 항소심 판결에 상고하지 않기로 했다.&lt;br /&gt;&lt;br /&gt;법무부는 29일 언론 공지를 통해 "이번 판결에 헌법·법률·명령·규칙 위반 등의 상고이유가 없다"며 이같이 밝혔다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;서울고법 행정1-1부(&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3090"&gt;심준보&lt;/span&gt;&lt;b&gt;·&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2379"&gt;김종호&lt;/span&gt;&lt;b&gt;·&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9082"&gt;이승한&lt;/span&gt;&lt;b&gt;&amp;nbsp;부장판사)&lt;/b&gt;는 지난 19일 1심을 뒤집고 "전 검찰총장에 대한 징계절차가 헌법상 적법절차원칙과 검사징계법 등 관계 법령을 위반하였으므로 그에 따른 징계처분이 위법하여 취소한다"고 판결했다.&lt;br /&gt;&lt;br /&gt;추미애 전 법무부장관은 2020년 11월 당시 검찰총장이었던 윤 대통령을 직무에서 배제하고 12월 징계위원회를 열어 정직 2개월의 징계처분을 내렸다. 당시 징계사유는 △주요 사건 재판부 사찰 의혹 문건 작성·배포 △'채널A 사건' 관련 감찰·수사 방해 △정치적 중립 훼손으로 검사의 체면·위신 손상 등이다.&lt;br /&gt;&lt;br /&gt;법무부는 "당시 징계청구자로서 징계심의에 실질적으로 관여해서는 아니되는 법무부장관이 심의기일을 임의로 변경하고, 심의의 공정성을 위해 사전에 지정되어 있는 예비위원을 배제한 채 징계위원을 새로 위촉하여 징계위원장 직무대리로 지명함으로써 징계위원회 구성을 임의로 변경하는 등 사건심의에 관여한 사실, 징계대상자의 적법한 기피신청이 있었음에도 기피 대상 위원들이 관련 절차에 관여함으로써 법률상 정족수에 미달한 상태에서 심의와 의결이 이루어졌다"고 설명했다. &lt;br /&gt;&lt;br /&gt;이어 "징계위원회가 징계대상자에게 불리한 증인에 대한 적법한 반대심문 요구를 거부하여 징계대상자의 방어권을 침해한 사실 등이 헌법상 대원칙인 적법절차와 검사징계법 등 관계 법령에 위반되므로 이에 따른 징계처분이 위법하다고 판단한 것"이라고 덧붙였다. &lt;br /&gt;&lt;br /&gt;법무부는 "준사법기관인 검사를 지휘·감독하고 검찰사무를 총괄하는 검찰총장에 대한 법무부의 징계 과정에 중대한 절차위반과 방어권 침해 등이 있었다는 항소심 판결을 무겁게 받아들인다"며 "앞으로 모든 감찰·징계 등의 과정에서 적법절차와 방어권이 보장되도록 만전을 기하고 검찰의 중립성과 검찰 수사의 독립성이 훼손되지 않도록 하겠다"고 전했다.</description>
+			<pubDate>Fri, 29 Dec 2023 07:03:48 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194560</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194560</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/1(513).jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>檢, '마약 투약' 혐의 전우원 1심 집유에 항소</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/191503(2).jpg" alt="191503.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;검찰이 마약 투약 혐의를 받는 전두환 전 대통령의 손자 전우원(27)씨에게 집행유예를 선고한 1심 판결에 항소했다.&lt;p&gt;&amp;nbsp;&amp;nbsp;   &lt;p&gt;      &lt;b&gt;서울중앙지검 공판3부(&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11262"&gt;임선화&lt;/span&gt;&lt;b&gt;&amp;nbsp;부장검사)&lt;/b&gt;는 28일 마약류 관리에 관한 법률 위반(향정) 등 혐의를 받는 전씨에게 징역 2년6개월에 집행유예 4년과 일부 무죄를 선고한 1심 판결에 대해 양형 부당을 이유로 항소를 제기했다고 29일 밝혔다.   &lt;/p&gt;   &lt;p&gt;&lt;br /&gt;검찰은 "(전씨가) 약 5개월에 걸쳐 다양한 마약류를 반복적으로 매수·투약해 사안이 중대한 점, 유튜브 라이브 방송을 통해 불특정 다수에게 투약 장면을 실시간 송출해 마약류에 대한 경각심을 약화시키고 모방범죄의 위험을 초래한 점 등을 고려할 때, 1심 선고형이 가벼워 죄에 상응하는 형이 선고될 수 있도록 항소한 것"이라고 설명했다. 또 법원이 무죄로 판단한 일부 대마 흡연 혐의에 대해서는 "보강증거가 있으므로 공소사실 전부에 대해 유죄 선고가 필요하다고 판단하여 항소를 제기했다"고 밝혔다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp; &lt;br /&gt;검찰은 "피고인에게 죄질에 상응하는 형이 선고될 수 있도록 항소심에서 적극적으로 공소 유지 할 것"이라며 "국민의 건강과 사회의 안전을 위협하는 마약범죄에 엄정히 대응할 것"이라고 했다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp; &lt;br /&gt;전씨는 지난 해 11월∼올해 3월 미국에서 향정신성의약품인 MDMA(메틸렌디옥시메탐페타민·엑스터시), LSD(리서직산디에틸아마이드), 케타민, 대마 등 마약 4종을 사용한 혐의 등으로 지난 9월 불구속 상태로 재판에 넘겨졌다. 검찰은 징역 3년을 구형했다. 서울중앙지법은 지난 22일 전씨에게 징역 2년6개월에 집행유예 4년, 보호관찰 3년, 120시간 사회봉사 활동, 80시간 약물치료 강의 수강 등을 선고했다.&lt;/p&gt;   &lt;/p&gt;</description>
+			<pubDate>Fri, 29 Dec 2023 07:02:27 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194561</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194561</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/191503(2).jpg</media:thumbnail>
+			<dc:creator>홍수정 기자</dc:creator>
+		</item>
+		<item>
 			<title>법원도서관, 대한민국 법원 구술총서 《법관의 길 김용담》 발간</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194555.jpg" alt="194555.jpg" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;법원도서관(관장 윤승은)&lt;/b&gt;은 대한민국 법원 구술총서 5 《법관의 길&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2808"&gt;김용담&lt;/span&gt;》을 발간했다고 29일 밝혔다.&lt;p&gt;   &lt;br /&gt;책은 김 전 대법관의 삶을 통해 바람직한 법관의 길을 돌아보고, 재판과 사법제도에 대한 당시의 고민을 공유하는 한편, 사법부의 역할과 기능에 대해 살펴보기 위해 발간됐다. 2017년 11월 2차례에 걸쳐 채록한 김 전 대법관의 녹취문을 기초로, 관련 자료를 함께 묶었다.   &lt;p&gt;      &lt;br /&gt;2003년부터 2009년까지 대법관을 지낸 김 전 대법관은 1947년 서울에서 출생했다. 서울고와 서울대 법대를 졸업 후 1970년 제11회 사법시험에 합격했다. 1972년 사법연수원 수료 후 춘천지법 판사를 시작으로 대법원 수석재판연구관, 법원행정처 차장, 광주고등법원장 등을 거쳤다. 2009년 퇴임 후에는 법무법인 세종 대표변호사, 제8대 규제개혁위원장, 제14대 한국법학원장, 한국신문윤리위원장, 법조공익모임 나우 이사장 등을 역임했다.      &lt;p&gt;         &lt;br /&gt;법원도서관의 '구술채록 사업'을 통해 발간된 이번 책은 각급 법원 도서실과 유관기관, 공공도서관 등에 배부된다. 법원전시관, 사법역사문화전시실 등 법원사 자료 상설전시공간에도 비치된다. 법원도서관은 2024년 구술채록 사업의 결과물을 갈무리한 '대한민국 법원 구술총서' 시리즈를 발간할 예정이다.         &lt;p&gt;            &lt;br /&gt;법원도서관은 2015년부터 역대 대법원장 등 법원 주요 인사 23명의 구술을 채록해 왔다. 인터뷰 영상과 음성, 사진, 녹취문 등의 자료는 구술기록으로 보존하고, 구술자가 정한 공개 시기와 범위에 맞게 일반에 공개하고 있다.&lt;br /&gt;기존 구술채록 사업의 결과물은 ‘2021 법원사자료 기획전'의 '구술로 만나보는 법원이야기' 코너로도 소개됐다. 전시 영상은 법원도서관 유튜브와 법원도서관 1층 상설전시를 통해 시청할 수 있다. 구술채록 영상 원본은 법원도서관 법마루 영상자료실에서 시청 가능하다.         &lt;/p&gt;      &lt;/p&gt;   &lt;/p&gt;&lt;/p&gt;</description>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="http://image.lawtimes.co.kr/images/194555.jpg" alt="194555.jpg" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;법원도서관(관장 윤승은)&lt;/b&gt;은 대한민국 법원 구술총서 5 《법관의 길&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2808"&gt;김용담&lt;/span&gt;》을 발간했다고 29일 밝혔다.&lt;p&gt;   &lt;br /&gt;책은 김용담(76·사법연수원 1기) 전 대법관의 삶을 통해 바람직한 법관의 길을 돌아보고, 재판과 사법제도에 대한 당시의 고민을 공유하는 한편, 사법부의 역할과 기능에 대해 살펴보기 위해 발간됐다. 2017년 11월 2차례에 걸쳐 채록한 김 전 대법관의 녹취문을 기초로, 관련 자료를 함께 묶었다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;2003년부터 2009년까지 대법관을 지낸 김 전 대법관은 1947년 서울에서 출생했다. 서울고와 서울대 법대를 졸업 후 1970년 제11회 사법시험에 합격했다. 1972년 사법연수원 수료 후 춘천지법 판사를 시작으로 대법원 수석재판연구관, 법원행정처 차장, 광주고등법원장 등을 거쳤다. 2009년 퇴임 후에는 법무법인 세종 대표변호사, 제8대 규제개혁위원장, 제14대 한국법학원장, 한국신문윤리위원장, 법조공익모임 나우 이사장 등을 역임했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;법원도서관의 '구술채록 사업'을 통해 발간된 이번 책은 각급 법원 도서실과 유관기관, 공공도서관 등에 배부된다. 법원전시관, 사법역사문화전시실 등 법원사 자료 상설전시공간에도 비치된다. 법원도서관은 2024년에도 구술채록 사업의 결과물을 갈무리한 '대한민국 법원 구술총서' 시리즈를 발간할 예정이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;법원도서관은 2015년부터 역대 대법원장 등 법원 주요 인사 23명의 구술을 채록해 왔다. 인터뷰 영상과 음성, 사진, 녹취문 등의 자료는 구술기록으로 보존하고, 구술자가 정한 공개 시기와 범위에 맞게 일반에 공개하고 있다.&lt;br /&gt;기존 구술채록 사업의 결과물은 ‘2021 법원사자료 기획전'의 '구술로 만나보는 법원이야기' 코너로도 소개됐다. 전시 영상은 법원도서관 유튜브와 법원도서관 1층 상설전시를 통해 시청할 수 있다. 구술채록 영상 원본은 법원도서관 법마루 영상자료실에서 시청 가능하다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Fri, 29 Dec 2023 06:31:41 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/194555</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194555</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194555.jpg</media:thumbnail>
+			<media:thumbnail>http://image.lawtimes.co.kr/images/194555.jpg</media:thumbnail>
 			<dc:creator>홍윤지 기자</dc:creator>
 		</item>
 		<item>
@@ -132,116 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194500</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/189212.jpg</media:thumbnail>
 			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] '중대재해처벌법 위반' 원청회사 대표, 첫 실형 확정</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/174535(25).jpg" alt="174535.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;중대재해처벌법 위반 혐의로 기소된 원청회사 대표에게 실형이 확정된 첫 대법원 판결이 나왔다.&lt;p&gt;   &lt;b&gt;&lt;br /&gt;대법원 형사3부(주심&amp;nbsp;&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1759"&gt;오석준&lt;/span&gt;&lt;b&gt;&amp;nbsp;대법관)&lt;/b&gt;는 28일 중대재해처벌 등에 관한 법률 위반(산업재해치사) 및 산업안전보건법 위반 등 혐의로 기소된 한국제강 대표 성모 씨에 대한 상고심에서 징역 1년을 선고한 원심을 확정했다&lt;b&gt;(2023도12316). &lt;/b&gt;한국제강 법인에도 양벌 규정에 따라 선고된 벌금 1억 원이 확정됐다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;성 씨는 2022년 3월 경남 함안에 있는 한국제강 야외 작업장에서 하청업체 소속 60대 노동자 A 씨가 방열판 보수 작업 도중 1.2톤 무게의 방열판에 깔려 사망한 사고와 관련해 안전보건 조치 의무를 다하지 않고 경영책임자로서 안전보건 확보 의무를 위반한 혐의 등을 받았다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;1심은 "한국제강 사업장에서 수년간 안전조치 의무 위반 사실이 여러 차례 적발되고 산업재해 사망 사고까지 발생한 것은 해당 사업장에 근로자 등 종사자의 안전권을 위협하는 구조적 문제가 있음을 드러내는 것"이라며 "이 같은 상황에서 성 씨는 종전에 발생한 산업재해 사망 사고로 형사재판을 받는 와중에 중대재해처벌법이 시행됐음에도 경영책임자로서 안전보건 확보 의무를 제대로 이행하지 않았고 그로 인해 이번 중대산업재해가 발생하기에 이르렀다"며 성 씨에게 징역 1년의 실형을 선고했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;2심도 "성 씨의 반성하는 태도, 유족과의 원만한 합의 등은 앞서 1심에서 다 참작됐다"며 "법 시행 직후라 '대처가 어려웠다'고 주장하지만, 사업장 사망 사건이 처음 발생한 것이 아니고, 그전에도 여러 차례 산업안전보건법 위반으로 처벌받았던 점, 중대재해처벌법 입법 후 유예기간이 상당했다는 점에 비춰보면 1심 양형은 적절하다"고 검찰과 성 씨 양측의 항소를 기각했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;대법원은 원심 판단을 그대로 확정했다. 특히 대법원은 이번 판결을 통해 근로자 사망으로 인한 산업안전보건법 위반죄와 중대재해처벌법 위반(산업재해치사)죄의 죄수관계에 관한 최초의 법리를 선언했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;재판부는 "상상적 경합은 1개의 행위가 수개의 죄에 해당하는 경우를 말하는데, 여기에서 1개의 행위는 법적 평가를 떠나 사회관념상 행위가 사물자연의 상태로서 1개로 평가되는 것을 의미한다"며 "중대재해처벌법과 산업안전보건법의 목적, 보호법익, 행위태양 등에 비춰 보면, 중대재해처벌법 위반(산업재해치사)죄와 근로자 사망으로 인한 산업안전보건법 위반죄 및 업무상과실치사죄는 상호간 사회관념상 1개의 행위가 수개의 죄에 해당하는 경우로서 형법 제40조의 상상적 경합 관계에 있다"고 판시했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;대법원 관계자는 "중대재해처벌법이 시행되기 이전에 근로자 사망으로 인한 산업안전보건법 위반죄와 업무상과실치사죄는 그 업무상 주의의무가 일치해 상상적 경합 관계에 있다는 것이 대법원 판례의 입장이었다"며 "2022년 1월 중대재해처벌법이 시행 이후 중대재해처벌법 위반(산업재해치사)죄와 근로자 사망으로 인한 산업안전보건법 위반죄, 업무상과실치사죄의 죄수 관계는 어떻게 되는지 문제됐지만, 이에 대한 대법원 선례는 없었다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;그러면서 "대법원은 이번 판결을 통해 중대재해처벌법위반(산업재해치사)죄와 근로자 사망으로 인한 산업안전보건법위반죄 및 업무상과실치사죄는 상호간 사회관념상 1개의 행위가 수개의 죄에 해당하는 경우로서, 형법 제40조의 상상적 경합 관계에 있다고 판시해 양죄의 죄수 관계에 대해 최초로 법리를 선언했다"고 설명했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Thu, 28 Dec 2023 08:08:02 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194508</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194508</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/174535(25).jpg</media:thumbnail>
-			<dc:creator>이용경 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 대륙아주, 서울시립대에 발전기금 3000만 원 전달</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/194506(1).jpg" alt="194506.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.draju.com/ko/main/main.html" target="_blank"&gt;법무법인 대륙아주&lt;/a&gt;(대표변호사&amp;nbsp;&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8690"&gt;이규철&lt;/span&gt;&lt;b&gt;)&lt;/b&gt;는 27일 서울시립대학교(총장 원용걸)에 발전기금 3000만 원을 전달했다.&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;전달된 발전기금은 조세분야 학술 연구 및 교육 프로그램 운영, 인재 양성 등에 사용될 예정이다.      &lt;/p&gt;&lt;p&gt;&lt;br /&gt;이날 서울 동대문구 서울시립대 총장실에서 진행된 기금전달식에는 대륙아주 측에서 김대희 대표변호사와 이규철 경영전담 대표변호사, 국세청장을 지낸 한승희 고문, 강승윤 세무법인 대륙아주 대표세무사가 참석했으며 서울시립대 측에선 원용걸 총장과 박훈 교무처장이 참석했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;앞서 대륙아주와 서울시립대는 올해 9월 조세 학술계와 실무계의 교류 및 우수 인재 공동 양성을 위한 업무협약을 체결했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Thu, 28 Dec 2023 08:06:29 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194506</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194506</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194506(1).jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무부 청소년범죄예방위원 상주 협의회·상주지청, 이웃에게 생필품 전달</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/6(138).jpg" alt="6.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/5(188).jpg" alt="5.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/7(116).jpg" alt="7.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무부 청소년범죄예방위원 상주지역협의회(회장 조관섭)가 대구지검 상주지청(지청장 김상현)과 함께 복지 사각지대에 놓인 이웃을 위해 도움의 손길을 내밀었다. &lt;br /&gt;&lt;br /&gt;법무부 청소년범죄예방위원 상주지역협의회는 12월 21일과 27~28일 상주지청과 문예천군청, 문경시청을 방문해 이웃들을 위한 물품을 전달했다. &lt;br /&gt;&lt;br /&gt;이번 기부는 연말연시를 맞이하여 조손가정의 청소년 및 독거 어르신과 같은 복지 사각지대에 있는 이웃에게 사랑의 물품을 전달해 사회의 온정을 느끼고 일상 생활에 도움을 주기 위해 마련됐다. &lt;br /&gt;&lt;br /&gt;상주시, 문경시, 예천군에서 지원 대상자를 선정했고 쌀과 라면 생필품 등 2166만 원 상당의 물품이 필요한 이웃에게 전달됐다. &lt;br /&gt;</description>
-			<pubDate>Thu, 28 Dec 2023 08:03:53 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194521</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194521</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/6(138).jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>헌정 사상 첫 '현직 검사 탄핵심판' 절차 돌입</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/184(18).jpg" alt="184.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;헌정 사상 처음으로 현직 검사로 탄핵 소추된&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9395"&gt;안동완&lt;/span&gt;(53·사법연수원 32기) 부산지검 2차장검사에 대한 탄핵 심판이 본격적인 절차에 들어갔다. 이날 안 검사 측은 탄핵 소추 사유인 공소권 남용 사실을 전면 부인했다.&lt;p&gt;&lt;br /&gt;헌법재판소(소장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7888"&gt;이종석&lt;/span&gt;)는 28일 오후 2시 서울 종로구 재동 소심판정에서 안 검사에 대한 탄핵 심판 첫 변론준비기일을 진행했다.   &lt;/p&gt;&lt;p&gt;&lt;br /&gt;변론준비기일은 청구인과 피청구인 당사자 출석 의무가 없어 국회 소추위원(법제사법위원장) 측 대리인단과 안 검사 측 대리인단만 출석했다. 안 검사 측은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8810"&gt;이동흡&lt;/span&gt;(72·5기) 전 헌법재판관,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7433"&gt;고흥&lt;/span&gt;(53·24기) 법무법인 KDH 대표변호사, 법무법인 해광의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1609"&gt;김후균&lt;/span&gt;(53·28기) 대표변호사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="40492"&gt;은연지&lt;/span&gt;(29·변호사시험 10회) 변호사를 대리인단으로 꾸렸다. 국회 소추위원 측은&amp;nbsp;&lt;span class="lawmanlink" serial="2726" style="font-weight: bold;"&gt;김용관&lt;/span&gt;(58·21기) 법무법인 백송 대표변호사, 김유정(42·41기) 변호사를 대리인으로 선임했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;수명(受命)재판관으로 지정된&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9145"&gt;이영진&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8841"&gt;이미선&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1549"&gt;김형두&lt;/span&gt;&amp;nbsp;헌법재판관이 주재한 이날 변론준비기일에서는 양측 대리인단이 출석해 사전에 제출한 서면을 토대로 사건의 쟁점과 양측 당사자의 주장을 정리하고 증거 제출 및 채부 결정 등을 했다.      &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt; 앞서 안 검사는 '서울시 공무원 간첩조작 사건' 피해자인 유우성 씨를 외국환거래법 위반 혐의로 보복 기소했다는 등의 이유로 지난 9월 국회에서 탄핵 소추됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt; 이날 국회 소추위원 측은 안 검사가 형법 제123조, 검찰청법 제4조 제2항, 국가공무원법 제56조를 위반했다고 주장했다. 특히 "공소권 남용은 직무와 관련해 직권을 남용해 타인에게 의무 없는 행위를 하게 하는 것"이라며 "기본적으로 공소권 남용에 관한 판결을 받으면, 직권남용에 해당한다"고 강조했다. 또 "안 검사의 공소 제기 이후 유 씨는 2021년 대법원에서 공소권 남용에 해당한다는 확정 판결이 날 때까지 불필요한 재판을 받는 등의 불이익을 당했다"고 지적했다.      &lt;/p&gt;&lt;p&gt;&lt;br /&gt; 반면 안 검사 측은 "유 씨의 외국환거래법 위반 혐의에 대해서는 새로운 사실이 발견되는 등 사정 변경이 있다고 판단해 법과 원칙에 따라 공소 제기에 이른 것이었다"며 "공소권 남용에 해당하지 않는다"고 맞섰다. 그러면서 "공소권 남용이라고 판단한 법원 판결에 대해서도 이번 탄핵 심판에서 다툴 것"이라고 강조했다.      &lt;/p&gt;&lt;p&gt;&lt;br /&gt; 헌재는 이날 변론준비기일을 마무리하고 추후 본격적인 변론 절차를 진행하기로 했다. 변론준비기일 이후에는 정식 변론기일과 재판관들이 쟁점을 논의하는 평의 절차가 이어진다. 재판관 9명 중 6명 이상이 찬성하면 피청구인에 대한 파면 결정을 내릴 수 있고, 파면된 사람은 5년 동안 공무원이 될 수 없다. 기각이나 각하 결정이 나오면 안 검사는 직무에 즉시 복귀한다.      &lt;/p&gt;&lt;p&gt;&lt;br /&gt; 앞서 김용민 더불어민주당 의원은 지난 9월 야당 의원 105명과 함께 '검사 안동완 탄핵소추안'을 발의했다. 탄핵소추 사유는 안 검사가 2014년 서울중앙지검 형사2부 소속 검사로 재직하던 당시 '유우성 대북 송금 사건'을 담당하며 피해자 유 씨를 외국환거래법 위반 혐의로 보복 기소했다는 것이다. 대법원이 2021년 10월 대북 송금 사건에 대해 과거 기소유예 처분했던 불법 대북 송금 혐의로 유 씨를 뒤늦게 기소한 것을 검찰의 '공소권 남용'으로 판단했다는 것을 탄핵소추의 주된 근거로 삼았다(2016도14772).      &lt;/p&gt;&lt;p&gt;&lt;br /&gt; 안 검사는 당시 입장문을 내고 "종래 검찰에서는 사건 결정 후 새로운 증거나 사실이 발견돼 그 결정을 바로 잡을 필요가 있을 때 이전 기소유예 사건을 재기해 새롭게 확인된 사실관계에 맞게 다시 처분을 해 오곤 했다"며 "이 같은 관행과 실무처리 절차에 따라 해당 사건을 수사하고 처리했던 것"이라고 밝혔다.      &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Thu, 28 Dec 2023 08:02:15 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194520</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194520</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/184(18).jpg</media:thumbnail>
-			<dc:creator>이용경 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 일제 강제동원 피해자, 손해배상 '2차 소송'서 또 승소 확정</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/99(7).jpg" alt="99.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;일제강점기 강제동원 피해자 유가족 등이 28일 오전 서울 서초구 대법원에서 미쓰비시중공업 등을 상대로 낸 손해배상 청구 소송의 상고심 선고 결과를 접한 뒤 기뻐하고 있다. &amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;대법원이 일제 강제동원 피해자들에 대한 일본 기업의 배상 책임을 또 인정했다. 지난 21일 일본 기업의 소멸시효 완성 주장을 허용할 수 없다며 2차 소송의 첫 원고 승소 확정판결을 내놓은 데 이어 두 번째로 나온 원고 승소 판결이다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;   &lt;b&gt;대법원 민사3부(주심&amp;nbsp;&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2382"&gt;안철상&lt;/span&gt;&lt;b&gt;·&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1759"&gt;오석준&lt;/span&gt;&lt;b&gt;&amp;nbsp;대법관)&lt;/b&gt;는 28일 피해자 홍모 씨 등의 유족이 미쓰비시중공업과 히타치조센을 상대로 낸 손해배상 청구 소송 상고심에서 "1인당 5000만 원에서 1억5000만 원씩 배상하라"고 판결한 원심을 확정했다&lt;b&gt;(2019다203644).&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;홍 씨 등은 1944년 9월 일본 히로시마 미쓰비시중공업의 군수공장에 끌려가 강제노동에 시달리다 이듬해 귀국했다. 이들은 히로시마 원자폭탄 투하로 재해를 입어 피폭 후유증에 시달렸고 사회·경제적 어려움을 겪었다.&lt;br /&gt;홍 씨 등 일부 생존자와 사망 피해자의 유족은 2013년 7월 미쓰비시중공업을 상대로 1인당 1억 원씩을 배상하라며 손해배상 청구 소송을 냈다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;2016년 1심은 "일본 정부의 강제적 인력 동원 정책에 기업이 적극적으로 동참해 강제 노동에 종사시켰다"며 "강제노동 기간과 강도, 근로환경 등을 고려해 1인당 9000만 원씩 배상하라"고 판결했다. 2심도 1심 판단을 유지했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;일제강점기 히타치 조선소 등에서 강제노동을 한 피해자 이모 씨도 2015년 히타치조센을 상대로 손해배상 소송을 내 1·2심에서 일부 승소했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이들의 소송은 2012년 대법원이 피해자들의 배상청구권을 인정하는 내용의 판결을 선고한 이후 다른 피해자들이 낸 일련의 소송 중 일부로, '2차 소송'이라 통칭한다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;일본 기업 측은 소송을 제기할 수 있는 소멸시효가 사라졌으므로 배상 책임이 없다고 주장했다. 하지만 대법원은 2018년 전원합의체 판결이 선고되기 전까지 피해자들이 일본 기업을 상대로 권리를 사실상 행사할 수 없는 장애사유가 있었다고 봤다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;대법원은 "2012년 판결에서 대법원은 강제동원 피해자들의 일본 기업에 대한 불법행위를 이유로 한 위자료청구권이 청구권협정의 적용대상에 포함되지 않았다고 판단한 후, 같은 취지의 환송 후 원심의 판단을 유지해 상고를 기각했다"면서 "이로써 2018년 전원합의체 판결을 통해 일본 정부의 한반도에 대한 불법적인 식민지배 및 침략전쟁과 직결된 일본 기업의 반인도적인 불법행위를 전제로 하는 강제동원 피해자의 일본 기업에 대한 위자료청구권은 청구권협정의 적용대상에 포함되지 않는다는 법적 견해를 최종적으로 명확히 밝혔다"고 판시했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;그러면서 "2018년 대법원 전원합의체 선고로 비로소 대한민국 내에서 강제동원 피해자들의 사법적 구제가능성이 확실하게 됐다고 볼 수 있다"고 덧붙였다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;대법원은 한국 법원이 재판관할권이 없고 일제강점기 당시와 현재 미쓰비시 법인이 동일하지 않다는 주장도 일본 기업 측 주장도 받아들이지 않았다. 1965년 체결된 한일청구권협정으로 손해배상을 청구할 수 없다는 주장도 기각했다.&lt;br /&gt;&lt;br /&gt;일본 정부는 이날 판결 이후 "극히 유감스럽다"며 반발했다. 일 정부는 지난 21일 한국 대법원이 같은 취지의 판결을 했을 때도 "매우 유감이고 결코 받아들일 수 없다"고 항의했다. 피고 기업인 히타치조선과 미쓰비시중공업도 이번 판결에 유감을 표했다고 교도통신은 보도했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Thu, 28 Dec 2023 07:47:51 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194516</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194516</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/99(7).jpg</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
-		</item>
-		<item>
-			<title>檢, "돈봉투 수수 의심 의원 1명 소환조사"</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/762(31).jpg" alt="762.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;'더불어민주당 돈봉투 의혹'을 수사중인 검찰이 최근 돈봉투 수수자로 지목된 현역 국회의원 중 1명에 대한 피의자 소환 조사를 마쳤다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;서울중앙지검 관계자는 28일 기자들과 만나 "금주 중 수수 의원 1명에 대해 출석 조사를 진행했다"며 "다른 의원에 대해서도 출석 일정 협의를 했다"고 말했다. 의원 1명에 대한 소환 조사는 비공개로 진행됐다.   &lt;p&gt;&amp;nbsp; &lt;br /&gt;조사를 마친 해당 의원은 검찰이 돈봉투 수수 혐의를 특정해 강제수사를 진행한 무소속 이성만 의원, 임종성·허종식 민주당 의원 중 한 명인 것으로 알려졌다.      &lt;p&gt;         &lt;br /&gt;한편 이날 검찰 관계자는 "이른바 쌍특검 법안에 관해서는 검찰이 평가할 입장이 아니다"라고 일축했다.       &lt;/p&gt;      &lt;/p&gt;   &lt;/p&gt;</description>
-			<pubDate>Thu, 28 Dec 2023 07:45:31 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194515</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194515</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/762(31).jpg</media:thumbnail>
-			<dc:creator>홍수정 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] '10억 수수 혐의' 이정근 전 민주당 사무부총장, 징역 4년</title>
-			<description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/194505.jpg" alt="194505.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;이정근 전 민주당 사무부총장 &amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;각종 알선 청탁을 빌미로 10억 원이 넘는 금품을 수수한 혐의로 기소된 이정근 전 더불어민주당 사무부총장에게 징역 4년 2개월의 실형이 확정됐다.&lt;p&gt;&lt;b&gt;&lt;br /&gt;대법원 형사1부(주심&amp;nbsp;&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1377"&gt;노태악&lt;/span&gt;&lt;b&gt;&amp;nbsp;대법관)&lt;/b&gt;는 28일 특정경제범죄 가중처벌 등에 관한 법률상 알선수재 등의 혐의로 기소된 이 씨에게 징역 2년 6개월을, 정치자금법 위반 혐의에 대해 징역 1년 8개월을 선고한 원심을 확정했다. 이와 함께 8억9600여만 원의 추징 명령도 확정했다&lt;b&gt;(2023도14714).&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이 씨는 2019년 12월부터 2022년 1월까지 정부지원금 배정 알선, 마스크 사업 품목허가 및 각종 설비의 공공기관 납품 알선, 공공기관 임직원 승진 알선 등의 명목으로 사업가 박모 씨로부터 32차례에 걸쳐 10억여 원 상당 금품을 받은 혐의를 받는다. 검찰은 10억여 원 중 3억3000만 원을 이 씨가 2020년 2월부터 4월까지 제21대 국회의원 선거와 관련해 받은 정치자금으로 보고 기소했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;1심은 "이 씨는 금품 수수 과정에서 정·관계 인맥을 과시하면서 공무원 및 공공기관의 임직원과 특수한 관계에 있는 것처럼 행동했다"며 "알선의 대상을 특정해 장래의 구체적인 처분 내용까지 적시하고 일부 알선 행위의 실행까지 나아가기도 했다"고 판단했다. 이어 "이 씨는 수차례에 걸쳐 국회의원 등 공직선거에 입후보해 공직자가 되려 했던 정당인으로서 공무원에 준하는 고도의 염결성이 요구된다는 점까지 고려하면 엄벌이 불가피하다"며 알선수재 등 혐의에 대해선 징역 3년을, 정치자금법 위반 혐의에 대해선 징역 1년 6개월을 선고했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;하지만 2심은 "정관계 인맥을 과시하면서 공무원과 특수한 관계에 있는 것처럼 행동하는 등 사회 일반의 신뢰를 저해했다"며 “정치자금의 투명성을 훼손해 민주정치의 건전한 발전에 대한 국민의 기대를 저버리고 정치 불신을 가중시켰다"고 판단해 정치자금법 위반 혐의에 대해 형량을 높여 1년 8개월을 선고했다. 다만 알선수재 혐의 중 일부는 무죄로 판단하면서 징역 2년 6개월로 감형됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;대법원도 "법리를 오해한 잘못이 없다"며 원심 판결을 그대로 확정했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Thu, 28 Dec 2023 07:43:36 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194505</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194505</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194505.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무부 청소년 범죄예방위원 안산 협의회, 한사랑 선도 장학금 전달</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194488(1).jpg" alt="194488.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무부 청소년 범죄예방위원 안산지역 협의회(회장 손인국)가 지역 청소년들에게 장학금을 전달했다.&lt;br /&gt;&lt;br /&gt;지난 20일 오후 신안산대학교 국제체육관에서 '2023 한마음대회·재단법인 한사랑 선도 장학금 수여식'이 열렸다.&lt;br /&gt;&lt;br /&gt;장학금 수여식에는 안산지청 신준호(33기) 차장검사 등 검찰 관계자들, 범죄예방위원, 학생과 학부모 등 200여 명이 참석했다.&lt;br /&gt;&lt;br /&gt;신 차장검사는 원곡고등학교 2학년 안영재 군 등 31명에게 60만 원씩 총 1860만 원의 장학금을 전달했다.&lt;br /&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194488_1(1).jpg" alt="194488_1.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;또 안산지역협의회 강동우 위원에게 검사장 표창장을 수여했다. 지역사회를 위해 적극적으로 봉사활동을 해온 위원 46명에게도 표창장을 수여했다.&lt;br /&gt;&lt;br /&gt;정찬기(주)대코 대표이사 등 21명을 신규위원으로 위촉하고 격려하기도 했다.&lt;br /&gt;&lt;br /&gt;신 차장검사는 격려사를 통해 지역사회를 위해 헌신적으로 봉사해 온 위원들의 노고를 치하하고 "앞으로도 청소년 범죄예방에 더욱 힘써달라"고 말했다.&lt;br /&gt;&lt;br /&gt;장학생들에게도 축하의 인사를 전하고 대한민국의 미래를 빛낼 주역들이 한사랑 장학금을 통해 발판을 딛고 성장해 미래사회 각 분야에서 활약해 줄 것을 당부했다.</description>
-			<pubDate>Thu, 28 Dec 2023 07:42:14 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194488</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194488</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194488(1).jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>[단독] 경찰, 이선균에 "밤샘 조사하면 앞으로 소환조사 안하겠다 " 종용</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/00(15).jpg" alt="00.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;경찰이 배우 이선균 측의 비공개 소환 요청을 세 차례나 묵살한 데에 이어 '밤샘 조사를 받으면 더 부르지 않겠다'고 종용을 한 것으로 확인됐다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;28일 법률신문 취재를 종합하면 인천경찰청 마약범죄수사계는 이선균의 3차 소환 조사 당시 야간 조사에 응하면 다음은 없을 것이라고 말했다. 공개 조사에 강한 심리적 압박을 받고 있던 이선균은 야간 조사에 동의한것으로 전해졌다. 이선균은 23일 오전 10시께 시작한 조사가 길어지면서 다음날 오전 5시까지 밤샘 조사를 받았다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;이선균의 측은 줄곧 비공개 소환을 요청했으나 경찰은 이를 받아들이지 않았다. 경찰수사사건 등 공보에 관한 규칙 제13조에 의하면 '경찰관서의 장은 소환, 조사, 압수·수색, 체포, 구속 등의 수사과정이 언론이나 그 밖의 사람들에 의하여 촬영·녹화·중계방송되지 않도록 하여야 한다'고 규정하고 있다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;경찰은 비공개 원칙을 깼다. 이는 경찰이 이선균을 포토라인에 세우겠다는 입장이 확고했던 것으로 풀이된다. 연예인은 포토라인에 서는 것에 부담을 크게 느낀다. 이선균은 한 번이 아니라 세 번이나 포토라인에 서면서 더 큰 중압감을 느꼈다. 특히 경찰 출석부터 진술 내용까지 실시간 중계처럼 이어지면서 압박을 느낄 수 밖에 없는 상황이었다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;지난 23일 경찰은 시간이 늦어지자 이선균 측에 "오늘 밤샘 조사를 한다면 더 소환 안 하겠다"고 말한 것으로 확인됐다. 이선균은 밤샘 조사에 동의하지 않으면 또 다시 출석해 조사를 받아야 했다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;이선균은 19시간에 걸쳐 조사를 받고 귀가했고 3일 뒤 숨진 채 발견됐다. 이선균은 사망 하루 전인 26일 경찰에 거짓말 탐지기 조사를 의뢰한다는 취지의 의견서를 제출했다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;이선균은 10월부터 마약 투약 의혹으로 경찰 조사를 받았다. 1차 간이 검사와 2차 정밀 검사 모두 '음성'이 나왔다. 이선균은 "마약인 지 몰랐다"며 억울함을 강조해왔다. 유흥업소 실장이자 마약 전과 6범 A씨의 진술에 의존해 수사를 해왔던 경찰은 세 번의 공개 조사, 강도 높은 야간 조사까지 했지만 증거를 제시하지 못했다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;경찰은 강압 수사, 무리한 수사라는 지적에 "강압수사는 없었다. 조사 때마다 변호사가 입회하는데 강압적이었다면 변호인들이 가만히 있었겠느냐"며 "그런 분위기도 아니고 당사자도 협조적이었다"는 입장을 내놨다.&lt;/p&gt;</description>
-			<pubDate>Thu, 28 Dec 2023 07:41:12 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194511</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194511</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/00(15).jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 등급 강등 통지, 개별적으로 받지 못해 행정소송 낸 어린이집…대법 "인터넷 공표했다는 이유만으로 권리 침해 없어"</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/176367(29).jpg" alt="176367.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;보건복지부가 어린이집 평가 결과를 개별적으로 고지하지 않고 인터넷 홈페이지를 통해 공표했더라도 절차적인 문제가 없고, 어린이집 운영자의 권리가 침해된다고 볼 수 없다는 대법원 판단이 나왔다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;&lt;b&gt;대법원 특별2부(주심&amp;nbsp;&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8769"&gt;이동원&lt;/span&gt;&lt;b&gt;&amp;nbsp;대법관)&lt;/b&gt;는 7일 어린이집 원장 A 씨가 보건복지부 장관과 국가를 상대로 제기한 평가인증등급확인 등 청구소송 상고심에서 원고일부승소 판결한 원심을 파기하고 사건을 서울고법으로 돌려보냈다&lt;b&gt;(2021누64223).&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;A 씨가 운영하고 있는 어린이집은 2020년 4월 한국보육진흥원이 시행한 어린이집 평가 결과, 기존 A등급에서 B등급으로 강등됐다. 해당 어린이집에 대한 현장점검 과정에서 조리실 식자재 창고 내 뚜껑이 열린 채로 보관 중이던 물엿 1통이 발견됐고, 2020년 어린이집 평가 매뉴얼 중 간식 평가지표를 충족하지 못했다고 판단했기 때문이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이에 대해 A 씨는 "해당 물엿은 식자재가 아니라 미술활동 재료"라면서 사실인정이 잘못됐다는 취지로 소명을 신청했으나 받아들여지지 않았다. 같은 해 7월 보건복지부는 보육진흥원의 결론대로 B등급으로 평가한 결과를 어린이집정보공개포털 홈페이지에 공표했고, 이에 반발한 A 씨는 소송을 제기했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;1·2심은 A 씨 측의 주장을 일부 받아들여 보건복지부의 평가등급 부여 처분이 무효라고 판단했다. 어린이집에 대한 평가등급 부여처분은 구 행정절차법 제24조 제1항 본문이 정하는 방식에 따라 문서 또는 전자문서의 방식으로 이뤄지지 않아 위법한 처분이어서 무효라는 취지다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;그러나 대법원의 판단은 달랐다. 전자문서로 고지하지 않은 것이 구 행정절차법에서 정한 처분의 방식을 위반한 절차적 하자가 있다고 보기 어렵다는 취지다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;재판부는 "어린이집 평가 결과를 개별적으로 통지하는 규정이 삭제된 것은 보건복지부 장관이 모든 어린이집에 대해 평가를 실시하게 되면서 어린이집 평가등급 부여결정에 관해 처분의 방식을 특별히 공표로 정했기 때문으로 보인다"며 "시행규칙에 따라 결과 공표 전 그 평가 결과를 통지받아 소명자료를 제출하거나 의견을 진술할 수 있는 기회가 있다. 따라서 개별적으로 문서 또는 전자문서로 고지하지 않고 인터넷 홈페이지 등을 통해 공표했다는 이유만으로 어린이집 운영자가 절차적 권리를 침해받는다고 보기 어렵다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이어 "보육진흥원은 해당 어린이집을 B등급으로 평가한 후 영유아보육법 시행규칙에 따라 A 씨에게 그 결과를 통보했고, A 씨의 소명신청에 대해 심사해 그 결과를 통보했다"며 "원심 판단에는 법리를 오해해 판결에 영향을 미친 잘못이 있다"고 설명했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Thu, 28 Dec 2023 06:03:16 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194473</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194473</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/176367(29).jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title> "감사하면 새로운 삶 열려" … 제3회 교정시설 감사 쓰기 시상식 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194486_1(1).jpg" alt="194486_1.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;사단법인 감사나눔연구원(이사장 제갈정웅)과 대한민국감사국민위원회(이사장 한상대)는 26일 경기도 의왕시 서울구치소(소장 김문태)에서 '제3회 전국 교정시설 감사 쓰기 공모전 시상식'을 개최했다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;교정시설 감사 쓰기 공모전은 ‘수용자 감사나눔 프로젝트’, ‘만델라 프로젝트’ 등과 함께 전국 55개 교정시설, 5만9000여 명의 수용자를 위한 교정·교화 프로그램 중 하나다.   &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;신용해 법무부 교정본부장의 제안으로 2022년 10월 처음 시작된 공모전은 같은 해 12월 서울남부교도소에서 1회 시상식을, 2023년 8월 화성직업훈련교도소에서 2회 시상식을 개최했다.      &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;이번 공모전에는 수용자 1642명이 응모했다. 본상 수상자 17명 가운데 13명은 8개월 이상 매일 5개 이상의 감사 쓰기를 기록했다.&lt;span style="text-align: center;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/IMG_0797jjjjj.jpg" alt="IMG_0797jjjjj.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;서울구치소에 수감 중인 김모 씨는 자신의 수용 번호와 같은 수천 페이지에 달하는 감사 편지를 작성해 최우수상을 받았다. 김모 씨에게는 포상으로 상금 100만 원과 가족 접견이 주어졌다.      &lt;/p&gt;&lt;p&gt;   &lt;br /&gt;그는 "처음에는 가석방에 도움이 될까 싶은 마음에 감사 편지 쓰기를 시작했다"며 "그런데 쓰면 쓸수록 감사할 게 늘어나 쓰는 것을 멈출 수 없었다"고 소감을 밝혔다. 이어 행사에 참여한 어머니를 향해 "사고만 치는 저를 걱정해 주시는 어머니를 보면 제가 꼭 피해자가 된 듯한 착각에 빠졌다"며 "이제는 착각하지 않고 어머니의 남은 삶에 웃음만 드리는 아들이 되겠다"고 반성과 참회의 진심을 전했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;케냐 국적의 한 수용자는 영어로 1만 개의 감사 쓰기를 작성해 최우수 참가상을 받았다. 그는 "감사 쓰기가 불평, 불만에 가득 차 있던 제 마음을 평화롭게 바꾸었다"며 "수용 생활은 힘들지만 한국 시민과 정부에 너무나 미안하고 감사하다. 앞으로는 희망을 품고 살아가겠다"고 소감을 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;시상식 이후에는 벨칸토 합창단, 색소폰 연주 등 축하공연이 이어져 수용자들에게 추억을 선사했다.               &lt;/p&gt;&lt;p&gt;   &lt;br /&gt;제갈정웅 감사나눔연구원 이사장 "최근 교도소에서 감사 쓰기를 실천한 사람이 출소 후 번듯한 사업체를 운영한다는 소식을 들었다"며 "그 비결을 들어보니 교도소에서 감사 쓰기로 마음을 바로잡았다고 한다. 이렇듯 감사함은 생각의 관점을 바꾸고 시간이 지나 꽃을 피우기도 한다"고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;한상대(64·사법연수원 13기) 대한민국감사국민위원회 이사장(전 검찰총장)은 "감사함을 느끼면 뇌에서 행복과 관련된 호르몬이 나온다는 사실이 과학적으로 증명됐다"며 "감사 운동을 통해 우리 사회에 더 좋은 에너지가 퍼지길 바란다"고 했다.                     &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;김문태 서울구치소장은 "감사 쓰기는 수용자의 부정적인 마음을 긍정적으로 바꾸고 가족과의 관계를 회복시켜 새 삶을 살아갈 힘을 길러준다"며 "뿐만 아니라 서로 배려하고 돕는 마음을 가지게 해 교정 사고 예방과 재범 방지에도 효과적"이라고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Thu, 28 Dec 2023 05:56:46 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194486</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194486</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194486_1(1).jpg</media:thumbnail>
-			<dc:creator>안재명 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
