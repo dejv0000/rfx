@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/opinion</link>
 		<language>ko</language>
 		<item>
+			<title>고승덕의 백세건강 모범답안 : 사우나의 건강 효능에 관한 3대 미신 - 고승덕의 백세건강 모범답안</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="http://image.lawtimes.co.kr/images/2023n_100years_go.jpg" alt="2023n_100years_go.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;사우나를 하면 고열로 땀을 흘리게 된다. 오랜 전통이 있는 핀란드식 사우나는 80~100°C이다. 19세기 말에 발명된 원적외선 사우나는 주로 복사열을 이용하기 때문에 실내 온도는 상대적으로 낮아 40~60°C이다. 땀을 많이 흘리면 노폐물 배출에 효과가 있다는 믿음이 있다. 이런 믿음 때문에 장시간 사우나를 하거나 땀복을 입고 달리기도 한다. 이런 믿음은 과학적으로 사실일까?&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="http://image.lawtimes.co.kr/images/194461.jpg" alt="194461.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size: 14px; line-height: 1.6em;"&gt;핀란드식 사우나&lt;/figcaption&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size: 14px; line-height: 1.6em;"&gt;핀란드식 사우나는 긴 겨울에 혹한으로 야외활동이 힘든 북구에서 유래했다. 근육 이완과 스트레스 감소의 효과는 있지만 노폐물 배출, 체중 감소, 피부 미용 등의 효과는 과학적으로 인정되기 어렵다. 사진 (c) Fluidra S.A.&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;땀의 주성분은 물(99%)과 소금이다. 땀의 노폐물 농도가 소변보다 높다는 보고들이 있으나 최신 연구에 의하면 방법론적으로 오류가 있다고 밝혀졌다(2019 리뷰). 땀에 든 요소, 암모니아 등 노폐물 농도는 미미하고, 중금속, 환경오염물질 등 독소는 측정하기도 힘든 수준이다. 사우나가 노폐물이나 독소의 배출에 도움이 된다는 믿을 만한 증거는 없다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;노폐물을 처리하는 기관은 본래 간과 신장이다. 간은 노폐물과 독소를 독성이 덜한 물질로 변환시키고, 신장은 이를 여과해서 배설한다. 사우나를 하면 피부 혈류는 증가하지만 상대적으로 간, 신장 등 장기로 가는 혈류는 현저히 감소한다(2020 논문). 소변 배출도 감소한다(2016 논문). 따라서 사우나를 하면 간과 신장의 노폐물 처리 기능이 저하된다(2016 논문). 한 마디로 사우나는 노폐물 배출을 돕기는커녕 방해한다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;사우나를 하면 체중이 감소한다는 믿음도 미신이다. 고열에 노출되면 심박과 피부 혈류가 증가하면서 대사율이 약간 높아지지만 실제로 태우는 열량은 미미하다. 사우나를 20분 하면 비만이나 과체중인 사람은 체중이 약 0.7㎏ 줄고, 정상 체중인 사람은 약 0.3㎏ 줄지만 이것은 탈수 효과일 뿐이다(2011 논문). 지방은 빠지지 않기 때문에 물을 보충하면 원래 체중으로 돌아간다. 몸을 움직이지 않고 지방을 태울 수 있다는 마케팅은 역사적으로 대개 사기성이었다(2016 논문).&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;사우나 열이 모공을 열어 피부에 좋다는 인식 역시 미신이다. 땀을 분비하는 주된 땀샘(에크린선)은 모공과 연결되어 있지 않다. 사우나를 자주하면 피부가 빨리 노화된다. 피부가 장시간 열에 노출되면 진피의 콜라겐이 손상되고 새로운 혈관이 형성되며, 만성적인 원적외선 노출은 자외선에 의한 피부 손상과 유사한 탄력섬유증을 유발할 수 있다(2006 논문).&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;사우나를 하면 기분은 확실히 좋아진다. 열로 인한 고통을 덜기 위해 모르핀보다 진통 효과가 수십 배 강한 베타 엔돌핀이 분비된다. 사우나 할 때 느끼는 행복감은 엔돌핀 효과이다. 열 스트레스 반응으로 혈관이 확장되어 혈압이 내려가고 심박 증가로 심장 배출량이 커지는 등 단기적으로 효능이 있는 것처럼 보이지만 장기적으로 심혈관 기능이 좋아진다는 연구는 부족하다(2016 논문). 사우나를 하면 활성산소가 증가하고 항산화물질 수준이 감소한다는 보고가 있다(2012 논문).&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;장시간 사우나를 해도 노폐물과 독소는 배출되지 않고 전해질 농도만 낮아져서 탈수 위험이 커진다. 굳이 사우나를 즐기려면 전해질, 특히 소금을 적절히 보충해야 한다. 노폐물과 독소를 원활하게 배출하려면 간과 신장이 건강해야 한다. 그렇게 하려면 건강한 생활 습관이 답이다. 금주와 절주는 당연하고, 건강한 식단, 규칙적인 운동, 충분한 수면, 스트레스 관리가 핵심이다. 가공식품까지 피한다면 체중 감소는 보너스로 따라온다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;고승덕 변호사 (한국청소년쉼터협의회 이사장)&lt;/b&gt;</description>
+			<pubDate>Fri, 29 Dec 2023 23:28:21 -0000</pubDate>
+			<category>opinion</category>
+			<link>https://www.lawtimes.co.kr/opinion/194461</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/194461</guid>
+			<media:thumbnail>http://image.lawtimes.co.kr/images/2023n_100years_go.jpg</media:thumbnail>
+			<dc:creator>고승덕</dc:creator>
+		</item>
+		<item>
 			<title>법신논단 : 신속한 재판이 능사는 아니다  - 재판의 이상은 정확·공평·신속&lt;BR&gt;
 시중의 주장에 휘둘리지 말고&lt;BR&gt;
 이상적 법원조직·제도 고안해야</title>
@@ -126,18 +136,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/194234</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/2023n_human_in_law.jpg</media:thumbnail>
 			<dc:creator>임관혁</dc:creator>
-		</item>
-		<item>
-			<title>권석천의 시놉티콘 : “우린 희생했다”는 오만과 착각  - 잘못했으면 잘못했다 하고&lt;br&gt;
-다시 그러지 않겠다고 하라&lt;br&gt;
-그래야 잘할 때 박수받는다</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="http://image.lawtimes.co.kr/images/2023n_synopticon.jpg" alt="2023_synopticon.jpg" /&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;“집안 일 좀 했다고 생색내지 말아라.” 가까운 친척 분이 내가 결혼할 때 건넸던 조언이다. 살면 살수록 이 말씀이 진리임을 깨닫곤 한다. 응당 할 일을 한 것인데도 청소 좀 했다고, 설거지 좀 거들었다고 인정해주길 바라고, 기억하고 칭찬해주길 바라는 나 자신을 발견하기 때문이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;그런 다년간의 경험 때문일까. 뉴스를 보다 보면 나처럼 생색을 내고 싶어하는 이들이 눈에 띈다. 이른바 ‘586 정치인’이다. 다수가 그렇다고 말할 순 없지만 그 중 일부는 학생운동이나 단체 경력을 훈장으로 여기는 듯하다. 어떻게 아느냐고? 굳이 말로 하지 않더라도 태도로 드러난다. 부적절한 발언이나 행동을 하고도 잘못을 받아들이지 않는다. ‘젊은 날을 희생했는데 이 정도는 괜찮지 않느냐?’고 생각하는 건 아닐까.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;이런 심리구조는 법조인이나 공무원 출신 정치인들도 비슷하다. 공부 열심히 해서 고시 패스했으니까, ‘국민을 위해’ 봉사했으니까 사회적 혜택을 향유할 자격이 있다는 것이다. ‘남들보다 고생한 만큼 나는 좀 봐줘도 되지 않느냐’는 얘기다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;특히, 판·검사 출신은 평생 ‘갑(甲)’으로만 살아왔기 때문인지 시민들이 자신들을 어떻게 보는지 알지도 못하고 관심도 없다. ‘갑질’을 하진 않더라도 특별하게 대접받고 특별하게 대우받는 것을 당연하게 여긴다. 법조인들이 ‘불멸의 신성가족’(김두식 경북대 로스쿨 교수)이란 지적을 받는 것도 그러한 심리구조와 무관치 않다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;그런데 두 그룹 사이에 차이가 드러나는 때가 있다. 윤리적 시비가 불거졌을 경우다. 고시 출신들이 겸연쩍은 표정이라도 짓는 반면 일단의 586들은 부끄러워하지 않는다. 그 기저엔 도덕적 우월감이 도사리고 있다. 무슨 일을 했든 우린 저들보다는 낫다는 것이다. 그래서, 새로운 워딩을 만들어서라도 “사안의 본질이 다름”을 강변한다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;여기엔 잘못을 인정하고 사과하면 밀릴 수밖에 없다는 전략적 판단도 숨어있는 듯하다. 독재 정권과 싸웠던 기억 탓일까. 비판이나 지적이 나오면 ‘넘어서야 할 난관’으로 여기고 똘똘 뭉쳐 돌파하려 든다. 이 대오에서 빠져나와 내부 비판을 하는 자가 있다면 동지가 아니라 배신자다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;오해 말기 바란다. 586 정치인들의 공로를 무시하자는 것이 아니다. 그들은 분명 젊은 날을 바쳐서 민주화를 이뤄내는 데 앞장섰다. 그들의 노력이 한국 사회가 이 자리까지 오는 데 기여했음을 누구도 부정할 수 없을 것이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;다만, 내가 말하고 싶은 것은 그 사실이 현실의 잘못을 가리는 데 이용되어선 안 된다는 점이다. 그것은 생색내기를 넘어 자랑스러운 역사를 스스로 부정하는 꼴이 된다. 과거는 현재에 의해 재해석될 수밖에 없다. 과거의 명예를 현재의 불명예로 덮어버려서야 되겠는가.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;더욱이 그들만 민주주의를 일궈낸 건 아니지 않은가. ‘한강의 기적’이 소수의 관료와 기업인만이 이뤄낸 것이 아니듯 민주화의 역사도 소수의 운동권만이 이뤄낸 것이 아니다. 거리에서, 골목에서 그들과 한마음 한뜻이 되었던 동시대인들이 이룩한 것이다. 다시 말하지만, 맨 앞줄에 있었던 것은 큰 용기다. 그렇다고 우리가 아니었으면 어쩔 뻔 했느냐는 식의 태도는 오만이요, 착각일 뿐이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;당장은 좋고 편하겠지만, 결국엔 스스로를 고립시키는 일이다. 잘못을 했으면 잘못했다고 하고, 앞으로 다시는 그러지 않겠다고 하라. 그래야만 당신들이 잘했을 때 박수를 받을 수 있다. 잊지 말아야 할 것은 ‘정치는 어제의 국민이 아닌 오늘의 국민을 상대해야 한다’는 사실이다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;권석천 고문(법무법인 태평양)&lt;/b&gt;&lt;br /&gt;</description>
-			<pubDate>Sun, 17 Dec 2023 17:21:44 -0000</pubDate>
-			<category>opinion</category>
-			<link>https://www.lawtimes.co.kr/opinion/194149</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/194149</guid>
-			<media:thumbnail>http://image.lawtimes.co.kr/images/2023n_synopticon.jpg</media:thumbnail>
-			<dc:creator>권석천</dc:creator>
 		</item>
 	</channel>
 </rss>
