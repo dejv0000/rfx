@@ -73,7 +73,7 @@
 			<link>https://www.lawtimes.co.kr/news/194525</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194525</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/194525.jpg</media:thumbnail>
-			<dc:creator>홍수정 기자</dc:creator>
+			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 		<item>
 			<title>각계 2024 신년사</title>
