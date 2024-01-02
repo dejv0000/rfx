@@ -6,6 +6,36 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 이직前 회사 영업비밀 부정사용 미수… “이직 회사에 양벌규정으로 처벌 못해”</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/194615.jpg" alt="194615.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;이직 전 회사의 영업비밀을 부정사용하려다가 미수에 그쳤다면 이직한 회사에 대해 양벌규정을 적용해 처벌할 수 없다는 대법원 판단이 나왔다.&lt;p&gt;&lt;b&gt;&lt;br /&gt;대법원 형사3부(주심&amp;nbsp;&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1337"&gt;노정희&lt;/span&gt;&lt;b&gt;&amp;nbsp;대법관)&lt;/b&gt;는 지난 12월 14일 부정경쟁방지및영업비밀보호에관한법률위반으로 재판에 넘겨진 A 회사에 대한 상고심에서 벌금 1억 원을 선고한 원심 판결을 취소하고 사건을 수원지법으로 돌려보냈다. 업무상배임, 부정경쟁방지및영업비밀보호에관한법률위반(영업비밀누설 등)으로 함께 기소된 B 씨에 대해 징역 10개월을 선고한 원심 판결은 그대로 확정됐다&lt;b&gt;(2023도3509).&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;B 씨는 2008년 9월경부터 2018년 1월경까지 자외선 차단 기능을 가진 선크림 등 화장품 부문의 국내 시장 점유율 50%를 상회하는 C 회사에서 화장품 연구원으로 근무했다. 2017년 2월경부터는 선케어 화장품 연구개발을 총괄하는 색조연구소 기반연구팀 이사를 역임했는데, 2018년 1월말경 A 회사로 이직해 색조연구소 소장으로 근무하면서 선케어 화장품 등 색조화장품 개발 등의 업무를 총괄했다.      &lt;/p&gt;&lt;p&gt;&lt;br /&gt;B 씨는 C 회사에서 근무할 당시, 이전에 함께 근무했던 D 씨로부터 C 회사 화장품의 처방자료를 보내달라는 요청을 받고 회사 전사적 자원관리 시스템에 등록된 화장품 처방자료를 내려받아 D 씨에게 전송했다.         &lt;/p&gt;&lt;p&gt;&lt;br /&gt;또 A 회사로 이직할 것을 마음 먹고 이력서를 송부한 뒤 C 회사 소유의 기능성화장품 처방 자료 등을 개인 계정으로 자동 동기화해 업로드하는 방식으로 무단 유출하는 등 C 회사의 영업비밀 자료를 누설한 혐의로 기소됐다. A 회사는 부정경쟁방지법상 양벌규정에 따라 함께 재판에 넘겨졌다.            &lt;/p&gt;&lt;p&gt;&lt;br /&gt;1심은 이들의 혐의가 일부 특정됐다고 판단해 A 회사에게 벌금 500만 원을, B 씨에게 징역 10개월을 각각 선고했다.               &lt;/p&gt;&lt;p&gt;&lt;br /&gt;하지만 2심은 A 회사가 B 씨의 위법 행위를 방지하기 위해 상당한 주의와 감독을 다했다기보다 오히려 이를 통한 이익을 얻으려했다고 판단하면서 벌금을 1000만 원으로 가중했다. 사용인인 B 씨가 빼돌린 C 회사의 영업비밀 자료를 취득하고, 부정사용하거나 부정사용하려다가 미수에 그쳤다는 취지다. B 씨는 2심에서도 징역 10개월이 유지됐다.                  &lt;/p&gt;&lt;p&gt;&lt;br /&gt;대법원의 판단은 달랐다. 대법원은 B 씨가 영업비밀을 부정사용하려다가 미수에 그친 공소사실에 대해 양벌규정을 적용해 A 회사를 처벌할 수 없다고 봤다.                     &lt;/p&gt;&lt;p&gt;&lt;br /&gt;재판부는 "구 부정경쟁방지법 제19조의 양벌규정은 사용인 등이 영업비밀의 취득 및 부정사용에 해당하는 제18조 제1항부터 제4항까지의 위반행위를 한 경우에 적용될 뿐이고, 사용인 등이 영업비밀 부정사용에 대한 미수범을 처벌하는 제18조의2에 해당하는 위반행위를 한 경우엔 양벌규정이 적용될 수 없다"고 설명했다.                        &lt;/p&gt;&lt;p&gt;&lt;br /&gt;이어 "A 회사 사용인 B 씨가 C 회사의 영업비밀을 부정사용하려다가 미수에 그친 공소사실에 대해 구 부정경쟁방지법상 양벌규정을 적용해 A 회사를 처벌할 수 없다"며 "그럼에도 원심은 유죄로 판단했는바, 이러한 원심 판결에는 적용대상에 관한 법리를 오해해 판결에 영향을 미친 잘못이 있다"고 밝혔다.                        &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Tue, 02 Jan 2024 21:16:15 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194615</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194615</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/194615.jpg</media:thumbnail>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
+			<title>[포토] ‘2024년 법조의 출발 새 아침’</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/2(321).jpg" alt="2.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;갑진(甲辰)년 새해를 맞은 법원과 검찰, 로펌의 시무식 모습. 조희대 대법원장은 2일 서울 서초구 대법원에서 열린 2024년도 대법원(사진 맨 위) 시무식에서 “국민의 판결서 접근 문턱을 낮추고 신속한 재판을 실현하겠다”고 밝혔다. 이원석 검찰총장(가운데)도 이날 서초구 대검찰청에서 열린 2024년 신년회에서 직원들과 함께 “한 마음 한 뜻으로 국민을 섬깁시다”라는 신년 구호를 외쳤다. 법무법인 태평양도 같은 날 종로구 공평동 센트로폴리스 태평양 본사에서 시무식을 열고 소속 변호사들과 구성원이 한자리에 모여 새해 인사를 나눈 뒤 한 해 업무를 시작했다.&amp;nbsp;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;lt;사진= 대법원·대검 제공, 백성현 기자&amp;gt;&lt;/b&gt;&lt;/p&gt;</description>
+			<pubDate>Tue, 02 Jan 2024 13:49:55 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194636</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194636</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/2(321).jpg</media:thumbnail>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
+			<title>송덕수 이화여대 로스쿨 명예교수, 《신민법강의》 제17판 출간</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194633.jpg" alt="194633.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;송덕수 이화여대 로스쿨 명예교수는 최근 《신민법강의》 제17판(박영사 펴냄)을 출간했다.&lt;p&gt;&amp;nbsp;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;그는 "이 책은 판수가 증가할수록 사랑하는 이들이 늘고 있다. 그러한 독자들을 생각하여 이번 개정에서는 다른 때보다 더 민법 책의 바람직한 모습을 생각하면서 많은 시간을 들여 작업을 하였다"고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;송 명예교수는 서울대 법대를 졸업하고 같은 대학원에서 법학박사 학위를 받았다. 1988년 이화여대에 부임한 이래 민법학 발전과 법률전문가 양성에 헌신했다. 2017년 한국민사법학회장을 역임했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Tue, 02 Jan 2024 12:34:01 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194633</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194633</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/194633.jpg</media:thumbnail>
+			<dc:creator>석정희 기자</dc:creator>
+		</item>
+		<item>
 			<title>법무법인 동인, '2024 시무식' 진행</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194635_2.jpg" alt="194635_2.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194635.jpg" alt="194635.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="http://www.donginlaw.co.kr/" target="_blank"&gt;&lt;b&gt;법무법인 동인&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1411"&gt;노상균&lt;/span&gt;)이 2일 서울 서초구 서초동 동인 본사에서 '2024년 시무식'을 열었다.&lt;p&gt;   &lt;br /&gt;이날 시무식에선 임직원 간 새해 인사와 대표변호사 신년사 등이 진행됐다.   &lt;p&gt;      &lt;br /&gt;&lt;span class="lawmanlink" serial="1411" style="font-weight: bold;"&gt;노상균&lt;/span&gt;(70·사법연수원 13기) 대표변호사는 "법인 설립 20주년이 되는 올해, 동인은 변호사 수가 200명이 넘고 매출액도 600억이 넘어서는 명실공히 국내 10대 로펌으로 우뚝 섰다"며 "앞으로도 동인의 네트워크와 특유의 전담팀제를 통해 법인 브랜드 사건을 창출하고 법인의 발전을 도모하겠다"고 밝혔다.      &lt;p&gt;그러면서 "모든 게 법인을 사랑하는 구성원 변호사들의 마음과 뜻이 모아져 가능한 일"이라며 "동인의 전통인 인화를 중시하는 마음가짐으로 하나가 돼 도전과 용기를 상징하는 청룡의 해에 새로운 도약을 이뤄 가자"고 강조했다.&lt;/p&gt;      &lt;p&gt;&amp;nbsp;&lt;/p&gt;      &lt;p&gt;         &lt;span style="font-weight: bold;" serial="8289"&gt;이철&lt;/span&gt;(75·5기) 명예대표변호사는 "동인은 주역에서 비롯된 이름을 하늘과 땅의 기운을 받아 나날이 발전하자는 의미를 담고 있다"며 "특히 올해는 법인 설립 20주년을 맞는 해이므로 하늘로 솟아오르는 청룡의 기운을 받아 지난 20년보다 더 큰 도약을 이루는 20년의 출발점으로 삼자"고 말했다.         &lt;p&gt;            &lt;br /&gt;이어 "동인은 ‘같은 사람’이라는 의미이므로 동인 구성원 모두가 인화를 통해 발전해 나아가자"고 덧붙였다.         &lt;/p&gt;      &lt;/p&gt;   &lt;/p&gt;&lt;/p&gt;</description>
 			<pubDate>Tue, 02 Jan 2024 11:31:45 -0000</pubDate>
@@ -210,36 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194552</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/194552.jpg</media:thumbnail>
 			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>법시선량여공정심예술(法是善良與公正心藝術).</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/194571.jpg" alt="194571.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법률신문 창간 74주년인 신년을 맞아 노태악 대법관이 직접 쓴 휘호.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;‘법(ius)’에 대해 고대 로마의 법률가 첼수스(Celsus)는 ‘유스 에스트 아르스 보니 에트 애퀴(ius est ars boni et aequi)’라고 정의했다. 이를 한국어로 옮기면 ‘법은 선(옳음)과 형평의 학문이다’라는 뜻이다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;한동일 저 《법으로 읽는 유럽사》(글항아리 펴냄)는 이 문장을 중국어로 번역하면 ‘法是善良與公正心藝術’이라고 소개한다.&lt;/p&gt;</description>
-			<pubDate>Sun, 31 Dec 2023 23:27:54 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194571</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194571</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194571.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>[포토] 포효하는 청룡</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/194569.jpg" alt="194569.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;전남 고흥군 영남면 용바위에 청룡을 기념하는 용 조형물이 있고 그 뒤로 은하수가 길게 뻗어 있다. 마치 청룡의 해인 갑진년(甲辰年)을 맞아 청룡이 용천(=미리내)을 향해 포효하며 날아가는 듯하다.&lt;/p&gt;</description>
-			<pubDate>Sun, 31 Dec 2023 23:27:53 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194569</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194569</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194569.jpg</media:thumbnail>
-			<dc:creator>백성현 기자</dc:creator>
-		</item>
-		<item>
-			<title>[신년기획][판결문 전면공개를 향하여] ① 국내 판결문, 기본권 침해 우려해 공개 확대 꺼려</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="http://image.lawtimes.co.kr/images/194565_0.jpg" alt="194565_0.jpg" style="opacity: 0;" height="10px" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;img src="http://image.lawtimes.co.kr/images/194565.jpg" alt="194565.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div style="margin-bottom:15px; padding:15px; background-color:#fdf3d8"&gt;&lt;b&gt;‘재판의 심리와 판결은 공개한다.’ 대한민국 헌법 제109조이다. 하지만 실상은 어떨까. 법률가인 변호사조차 판결문을 구하지 못해 판사나 기자에게 요청하는 일이 부지기수다. 대한민국 대법원 홈페이지를 통해 인터넷 열람을 할 수 있지만, 한 달이 다 되도록 ‘해당 판결서는 개인정보 보호를 위한 비실명 처리 중이며, 처리완료 후 열람이 가능하다’는 문구만 접하는 경우가 적지 않다. &lt;br /&gt;헌법이 보장한 권리인 ‘국민의 알 권리 충족’과 ‘재판의 투명성 제고’를 위해 판결문 공개를 확대해야 한다는 목소리가 커지고 있다. AI 시대를 맞아 리걸테크 시장의 발전 추세에 걸맞는 데이터 생태계 구축을 위해서라도 판결문 공개는 필수적 과제다. 미국과 유럽, 심지어 중국도 판결문 공개를 전면적으로 확대하며 데이터베이스화에 박차를 가하고 있다.&lt;br /&gt;2024년 ‘갑진(甲辰)년’ 새해를 맞아 우리 사법부의 판결문 공개의 현 주소를 짚어본다.&lt;/b&gt;&lt;/div&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;미국 등에선 ‘공개가 원칙이고 비공개가 예외’이지만 우리는 기본권 침해 우려를 명분으로 판결문 공개 확대를 꺼린다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;점진적 확대… 그러나 여전히 미약&lt;/b&gt;&lt;/p&gt;&lt;p&gt;2023년부터 우리 법원은 2023년 1월 1일 이후 선고되는 민사(행정·특허 포함) 사건의 미확정 판결문도 법원 인터넷 홈페이지를 통해 공개하고 있다. 하지만 여전히 형사 미확정 판결문과 민사·행정·특허 사건의 소액사건 판결문, 상고이유서 미제출 기각, 심리불속행 기각, 변론 공개를 금지한 사건, 비밀 보호를 위한 열람 제한 결정이 있는 사건의 판결문은 검색·열람 대상에서 빠져있다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이전부터 2013년 1월 1일 이후 확정된 형사 사건 판결문(증거목록 등 포함)과 2015년 1월 1일 이후 확정된 민사·행정·특허 사건 판결문에 대한 검색·열람은 가능해졌다. 문제는 대상 자체가 2013년, 2015년 이후 확정 판결이어서 그 이전에 선고된 판결문은 홈페이지 상에서 열람할 수 없다. 게다가 판결문 1건당 1000원이라는 비용을 지불해야 해, 사실상 여러 판결문을 찾을 경우 금전적인 부담이 수반되는 실정이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;법원행정처 통계 자료와 연도별 사법연감에 따르면, 2019~2022년 4년간 민사, 형사, 행정 사건의 전체 본안 판결 건수(미확정 판결 포함)는 △2019년 93만938건 △2020년 92만5999건 △2021년 89만1361건 △2022년 83만4799건으로 집계됐다. 다만 2022년까지는 형사 사건 뿐만 아니라 민사, 행정 사건 등도 확정 판결만 등록돼 인터넷 열람 서비스에 올라간 판결 건수는 △2019년 41만4270건 △2020년 42만5537건 △2021년 41만718건 △2022년 41만8288건으로 해마다 약 45%였다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;그러나 서비스가 불편하다는 불만이 끊이지 않는다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;서초동의 한 청년 변호사는 “판결문을 제공하는 것은 좋은데, 결제할 때마다 창을 닫으라고 하거나 재부팅을 하게 되고, 가끔 랙이 걸리기도 하는데 일부러 이렇게 불편하게 만든 건가 싶을 정도”라고 말했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;중견 로펌의 한 변호사는 “최근 판결문은 검색해도 비실명 작업이라는 등의 이유로 바로 열람할 수 없고 열람은 해도 비실명화가 심각한 경우 누가 누군지 몰라 활용이 어렵다”고 지적했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;인터넷 열람 외 검색 방법은&lt;/b&gt;&lt;/p&gt;&lt;p&gt;대법원은 2003년부터 종합법률정보 시스템을 통해 1996년 이후 일부 대법원 판례 전문을 공개하고 있다. 또 하급심 판결의 경우 정보공개청구를 하는 방법, 판결서 사본 신청을 하는 방법도 있다. 그러나 판결문을 즉각적으로 받아보기 어려운 측면이 많다. 특히 판결서 사본 제공 신청에 따른 판결문 제공률은 50%대에서 벗어나지 못하고 있다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;경기도 일산 법원도서관의 ‘판결정보 특별열람’ 서비스를 통해 일반인에게도 판결문을 공개하고 있다. 법원도서관을 방문하면 비실명화 처리가 되지 않은 판결문을 볼 수 있지만, 전국에 단 1곳뿐이며 법원도서관장의 승인을 받아야 한다. 현장에서는 열람만 할 수 있고 사진을 찍는 행위 등을 하면 바로 직원에게 제지를 받는다. 법원도서관이 서초동에서 일산으로 이동한 후 접근성이 떨어진다는 지적이 많다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;AI 시대 도래…판결문 전면 공개 필요&lt;/b&gt;&lt;/p&gt;&lt;p&gt;이른바 ‘AI 시대’가 도래하면서 판결문 공개를 확대해야 한다는 목소리도 높다. 전 세계적으로 리걸 테크 혁명이 시작되고 있는데 그 원료가 되는 판결문 공개는 이제 선택이 아닌 필수가 됐다는 것이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;법원 내 IT 전문가로 손꼽히는 강민구 서울고법 부장판사는 송백일기를 통해 “법원이 독점 중인 생 판결을 전면 공개하는 ‘잠자는 백설 공주 깨우기’가 절실하다”며 “AI 시대의 원료 데이터로도 판결문 전면 공개가 필수 요체”라고 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;대형 로펌의 한 변호사도 “AI 시대에는 투명하고 개방적인 법적 정보가 더욱 중요한 만큼 법원의 판결문 공개를 확대해 시민들에게 더 많은 법적 투명성을 제공하고, 민주주의 원칙을 강화할 수 있다”고 분석했다. 이어 “현재 한국 법원은 일부 사건에 대한 판결문이 공개되지 않고 있어 시민들의 접근성이 부족한데 해외 선진국에서는 법원 판결문을 대규모로 공개하고 있고, 이는 법적 투명성과 열린 사회를 촉진하는 데 도움이 된다”고 말했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&amp;lt;특별취재팀 = 박수연·한수현·이용경 기자&amp;gt;&lt;/b&gt;&lt;/p&gt;</description>
-			<pubDate>Sun, 31 Dec 2023 23:27:51 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194558</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194558</guid>
-			<media:thumbnail>http://image.lawtimes.co.kr/images/194565_0.jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
