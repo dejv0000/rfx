@@ -6,13 +6,33 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>이완섭 서산시장, 김맹호 서산시의회 의장</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/194669.jpg" alt="194669.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;이완섭 서산시장 · 김맹호 서산시의회 의장&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;b&gt;이완섭 서산시장&lt;/b&gt;이 신년사에서 "서산만의 새로운 길을 열겠다"고 밝혔다. &lt;b&gt;김맹호 서산시의회 의장&lt;/b&gt;은 "시민 혈세가 적재적소에 쓰이도록 세심히 살피겠다"고 했다.&lt;br /&gt;&lt;br /&gt;이 시장은 2일 신년사를 통해 "2023년은 코로나19, 럼피스킨병 등 어느 하나 쉽지 않은 격동의 한 해였다"며 "이런 풍파 속에도 지역 축제를 성공적으로 치르는 등 성과를 이뤘다"고 밝혔다. 이 시장은 원스톱 민원서비스로 민원처리 속도를 평균 51% 단축했다고도 했다.&lt;br /&gt;&lt;br /&gt;김 의장은 신년사에서 "경제 한파에 시달리는 서산시 민생경제 회복을 위해 의회 차원에서 동원 가능한 모든 자원을 동원하겠다"며 "시민 혈세가 적재적소에 쓰일 수 있도록 더 세심하게 살피겠다"고 했다. 이어 도산 안창호의 말을 인용하며 "이론이나 웅변, 회의보다 행동으로 실천하겠다"고 했다.&lt;br /&gt;</description>
+			<pubDate>Wed, 03 Jan 2024 10:17:33 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194669</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194669</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/194669.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
+			<title>한국민사법학회 회장에 김재형 전 대법관</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="http://image.lawtimes.co.kr/images/194670.jpg" alt="194670.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대법관을 지낸 뒤 후학 양성에 힘쓰고 있는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2358"&gt;김재형&lt;/span&gt;&amp;nbsp;서울대 로스쿨 교수가 1일 한국민사법학회 회장으로 취임했다. 임기는 1일부터 1년간이다.&lt;p&gt;   &lt;br /&gt;대법관을 지낸 후 법학 분야 학회 회장을 맡은 사례는 이번이 처음이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;김 신임 회장은 인사말을 통해 "한국민사법학회는 민법 제정 후 민법학의 발전을 이끌어왔을 뿐만 아니라, 민법 개정과 민사특별법 제정 과정에서 중요한 역할을 했다"며 "올해에는 민법 개정에 실질적으로 기여할 수 있도록 민법 개정 검토위원회를 재편하고 민법 개정에 관한 연구를 심화하고자 한다"고 말했다.      &lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이어 "학회에서 매년 정기 학술대회와 판례연구회를 각각 4회씩 개최하고 있는데, 올해부터는 동아시아 주요 법역인 대한민국, 중국, 일본, 대만의 민사법학회와 함께 '동아시아 민사법 국제학술대회'를 다시 개최하는 등 외국 민법학계와도 교류의 폭을 넓혀가고자 한다"며 "학계와 실무계가 교류하고 소통할 수 있는 학술행사도 기획하고 있다"고 부연했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;김 회장은 한국을 대표하는 민법 권위자로 손꼽힌다. 1986년 제28회 사법시험에 합격한 후 1992년 서울지법 서부지원 판사로 임관했으며, 3년 반 뒤인 1995년 모교인 서울대 민법 교수로 자리를 옮겨 21년간 후학을 양성했다. 2016년 대법관으로 임명돼 6년간의 임기를 마치고 지난해 다시 서울대로 복귀했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;1957년 창립된 한국민사법학회는 법학 분야에서 가장 오래되었을 뿐만 아니라 사법 분야에서는 가장 권위가 있는 대표 학술단체이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;500명 이상의 회원이 활동하는 한국민사법학회는 그동안 꾸준히 민법 개정이나 여러 민사 특별법 개정에 결정적으로 관여하는 등 다양한 방법으로 한국 법학 발전에 이바지해왔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Wed, 03 Jan 2024 09:05:01 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194670</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194670</guid>
+			<media:thumbnail>http://image.lawtimes.co.kr/images/194670.jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
 			<title>대한상사중재원, '국제조정규칙' 시행…"국제 상거래분쟁 조정 통해 효율적 해결"</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/194668.jpg" alt="194668.jpg" /&gt;&lt;/p&gt;&lt;b&gt;   &lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;   대한상사중재원(원장 맹수석)&lt;/b&gt;은 조정제도를 통한 국제상거래 분쟁의 효율적 해결을 위해 중재원 '국제조정규칙'을 제정해 이달부터 시행한다.&lt;p&gt;&lt;br /&gt;3일 중재원에 따르면 국제조정규칙은 국제조정 절차에 관한 국제 실무, 타 기관 운용사례 등을 연구·반영한 총 11개조와 별표 등으로 구성됐다. 싱가포르 조정협약에 따른 집행 편의성 등도 고려됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;국제조정은 국제상거래분쟁을 조정인의 조정을 통해 해결하는 절차다. 우호적이고 효율적인 분쟁 해결의 필요성이 높아지고 조정결과 합의에 대한 집행을 규정하는 싱가포르 조정협약이 발효됨에 따라 최근 국제조정 절차가 활발히 이용되는 추세다.      &lt;/p&gt;&lt;p&gt;&lt;br /&gt;중재원은 이번 규칙 시행과 함께 국제조정인 위촉 절차를 진행 중이다. 실력과 경험을 갖춘 전문 국제조정인단을 구성한다는 계획이다. 이와 더불어 국제조정 관련 교육·행사개최 등 국제조정제도의 저변을 확대하기 위한 사업을 다각적으로 추진할 예정이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;맹수석 원장은 "이번 중재원 국제조정규칙 제정·시행을 계기로, 기존의 국제중재업무 외에 국제조정업무를 본격적으로 수행하기 위한 기반이 마련됐다"며 "이를 통해 효율적인 국제상거래분쟁의 해결에 보다 기여할 수 있도록 노력하겠다"고 밝혔다.&lt;/p&gt;</description>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="http://image.lawtimes.co.kr/images/194668.jpg" alt="194668.jpg" /&gt;&lt;/p&gt;&lt;b&gt;   &lt;p&gt;      &lt;b&gt;&lt;br /&gt;&lt;/b&gt;   &lt;/p&gt;   대한상사중재원(원장 맹수석)&lt;/b&gt;은 조정제도를 통한 국제상거래 분쟁의 효율적 해결을 위해 중재원 '국제조정규칙'을 제정해 이달부터 시행한다.&lt;p&gt;   &lt;br /&gt;3일 중재원에 따르면 국제조정규칙은 국제조정 절차에 관한 국제 실무, 타 기관 운용사례 등을 연구·반영한 총 11개조와 별표 등으로 구성됐다. 싱가포르 조정협약에 따른 집행 편의성 등도 고려됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;국제조정은 국제상거래분쟁을 조정인의 조정을 통해 해결하는 절차다. 우호적이고 효율적인 분쟁 해결의 필요성이 높아지고 조정결과 합의에 대한 집행을 규정하는 싱가포르 조정협약이 발효됨에 따라 최근 국제조정 절차가 활발히 이용되는 추세다.      &lt;/p&gt;&lt;p&gt;   &lt;br /&gt;중재원은 이번 규칙 시행과 함께 국제조정인 위촉 절차를 진행한다. 실력과 경험을 갖춘 전문 국제조정인단을 구성한다는 계획이다. 이와 더불어 국제조정 관련 교육·행사개최 등 국제조정제도의 저변을 확대하기 위한 사업을 다각적으로 추진할 예정이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;맹수석 원장은 "이번 중재원 국제조정규칙 제정·시행을 계기로, 기존의 국제중재업무 외에 국제조정업무를 본격적으로 수행하기 위한 기반이 마련됐다"며 "이를 통해 효율적인 국제상거래분쟁의 해결에 보다 기여할 수 있도록 노력하겠다"고 밝혔다.&lt;/p&gt;</description>
 			<pubDate>Wed, 03 Jan 2024 06:36:53 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/194668</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194668</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194668.jpg</media:thumbnail>
+			<media:thumbnail>http://image.lawtimes.co.kr/images/194668.jpg</media:thumbnail>
 			<dc:creator>홍윤지 기자</dc:creator>
 		</item>
 		<item>
@@ -135,7 +155,7 @@
 		</item>
 		<item>
 			<title>[판결] 이직前 회사 영업비밀 부정사용 미수… “이직 회사에 양벌규정으로 처벌 못해”</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194615.jpg" alt="194615.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;이직 전 회사의 영업비밀을 부정사용하려다가 미수에 그쳤다면 이직한 회사에 대해 양벌규정을 적용해 처벌할 수 없다는 대법원 판단이 나왔다.&lt;p&gt;   &lt;b&gt;&lt;br /&gt;대법원 형사3부(주심&amp;nbsp;&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1337"&gt;노정희&lt;/span&gt;&lt;b&gt;&amp;nbsp;대법관)&lt;/b&gt;는 지난 12월 14일 부정경쟁방지및영업비밀보호에관한법률위반으로 재판에 넘겨진 A 회사에 대한 상고심에서 벌금 1억 원을 선고한 원심 판결을 취소하고 사건을 수원지법으로 돌려보냈다. 업무상배임, 부정경쟁방지및영업비밀보호에관한법률위반(영업비밀누설 등)으로 함께 기소된 B 씨에 대해 징역 10개월을 선고한 원심 판결은 그대로 확정됐다&lt;b&gt;(2023도3509).&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;B 씨는 2008년 9월경부터 2018년 1월경까지 자외선 차단 기능을 가진 선크림 등 화장품 부문의 국내 시장 점유율 50%를 상회하는 C 회사에서 화장품 연구원으로 근무했다. 2017년 2월경부터는 선케어 화장품 연구개발을 총괄하는 색조연구소 기반연구팀 이사를 역임했는데, 2018년 1월말경 A 회사로 이직해 색조연구소 소장으로 근무하면서 선케어 화장품 등 색조화장품 개발 등의 업무를 총괄했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;B 씨는 C 회사에서 근무할 당시, 이전에 함께 근무했던 D 씨로부터 C 회사 화장품의 처방자료를 보내달라는 요청을 받고 회사 전사적 자원관리 시스템에 등록된 화장품 처방자료를 내려받아 D 씨에게 전송했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;또 A 회사로 이직할 것을 마음 먹고 이력서를 송부한 뒤 C 회사 소유의 기능성화장품 처방 자료 등을 개인 계정으로 자동 동기화해 업로드하는 방식으로 무단 유출하는 등 C 회사의 영업비밀 자료를 누설한 혐의로 기소됐다. A 회사는 부정경쟁방지법상 양벌규정에 따라 함께 재판에 넘겨졌다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;1심은 이들의 혐의가 일부 특정됐다고 판단해 A 회사에게 벌금 500만 원을, B 씨에게 징역 10개월을 각각 선고했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;하지만 2심은 A 회사가 B 씨의 위법 행위를 방지하기 위해 상당한 주의와 감독을 다했다기보다 오히려 이를 통한 이익을 얻으려했다고 판단하면서 벌금을 1000만 원으로 가중했다. 사용인인 B 씨가 빼돌린 C 회사의 영업비밀 자료를 취득하고, 부정사용하거나 부정사용하려다가 미수에 그쳤다는 취지다. B 씨는 2심에서도 징역 10개월이 유지됐다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;대법원의 판단은 달랐다. 대법원은 B 씨가 영업비밀을 부정사용하려다가 미수에 그친 공소사실에 대해 양벌규정을 적용해 A 회사를 처벌할 수 없다고 봤다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;재판부는 "구 부정경쟁방지법 제19조의 양벌규정은 사용인 등이 영업비밀의 취득 및 부정사용에 해당하는 제18조 제1항부터 제4항까지의 위반행위를 한 경우에 적용될 뿐이고, 사용인 등이 영업비밀 부정사용에 대한 미수범을 처벌하는 제18조의2에 해당하는 위반행위를 한 경우엔 양벌규정이 적용될 수 없다"고 설명했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이어 "A 회사 사용인 B 씨가 C 회사의 영업비밀을 부정사용하려다가 미수에 그친 공소사실에 대해 구 부정경쟁방지법상 양벌규정을 적용해 A 회사를 처벌할 수 없다"며 "그럼에도 원심은 유죄로 판단했는바, 이러한 원심 판결에는 적용대상에 관한 법리를 오해해 판결에 영향을 미친 잘못이 있다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194615.jpg" alt="194615.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;이직 전 회사의 영업비밀을 부정사용하려다가 미수에 그쳤다면 이직한 회사에 대해 양벌규정을 적용해 처벌할 수 없다는 대법원 판단이 나왔다.&lt;p&gt;   &lt;b&gt;&lt;br /&gt;대법원 형사3부(주심&amp;nbsp;&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1337"&gt;노정희&lt;/span&gt;&lt;b&gt;&amp;nbsp;대법관)&lt;/b&gt;는 지난 12월 14일 부정경쟁방지및영업비밀보호에관한법률위반으로 재판에 넘겨진 A 회사에 대한 상고심에서 벌금 1억 원을 선고한 원심 판결을 파기하고 사건을 수원지법으로 돌려보냈다. 업무상배임, 부정경쟁방지및영업비밀보호에관한법률위반(영업비밀누설 등)으로 함께 기소된 B 씨에 대해 징역 10개월을 선고한 원심 판결은 그대로 확정됐다&lt;b&gt;(2023도3509).&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;B 씨는 2008년 9월경부터 2018년 1월경까지 자외선 차단 기능을 가진 선크림 등 화장품 부문의 국내 시장 점유율 50%를 상회하는 C 회사에서 화장품 연구원으로 근무했다. 2017년 2월경부터는 선케어 화장품 연구개발을 총괄하는 색조연구소 기반연구팀 이사를 역임했는데, 2018년 1월말경 A 회사로 이직해 색조연구소 소장으로 근무하면서 선케어 화장품 등 색조화장품 개발 등의 업무를 총괄했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;B 씨는 C 회사에서 근무할 당시, 이전에 함께 근무했던 D 씨로부터 C 회사 화장품의 처방자료를 보내달라는 요청을 받고 회사 전사적 자원관리 시스템에 등록된 화장품 처방자료를 내려받아 D 씨에게 전송했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;또 A 회사로 이직할 것을 마음 먹고 이력서를 송부한 뒤 C 회사 소유의 기능성화장품 처방 자료 등을 개인 계정으로 자동 동기화해 업로드하는 방식으로 무단 유출하는 등 C 회사의 영업비밀 자료를 누설한 혐의로 기소됐다. A 회사는 부정경쟁방지법상 양벌규정에 따라 함께 재판에 넘겨졌다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;1심은 이들의 혐의가 일부 특정됐다고 판단해 A 회사에게 벌금 500만 원을, B 씨에게 징역 10개월을 각각 선고했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;하지만 2심은 A 회사가 B 씨의 위법 행위를 방지하기 위해 상당한 주의와 감독을 다했다기보다 오히려 이를 통한 이익을 얻으려했다고 판단하면서 벌금을 1000만 원으로 가중했다. 사용인인 B 씨가 빼돌린 C 회사의 영업비밀 자료를 취득하고, 부정사용하거나 부정사용하려다가 미수에 그쳤다는 취지다. B 씨는 2심에서도 징역 10개월이 유지됐다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;대법원의 판단은 달랐다. 대법원은 B 씨가 영업비밀을 부정사용하려다가 미수에 그친 공소사실에 대해 양벌규정을 적용해 A 회사를 처벌할 수 없다고 봤다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;재판부는 "구 부정경쟁방지법 제19조의 양벌규정은 사용인 등이 영업비밀의 취득 및 부정사용에 해당하는 제18조 제1항부터 제4항까지의 위반행위를 한 경우에 적용될 뿐이고, 사용인 등이 영업비밀 부정사용에 대한 미수범을 처벌하는 제18조의2에 해당하는 위반행위를 한 경우엔 양벌규정이 적용될 수 없다"고 설명했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이어 "A 회사 사용인 B 씨가 C 회사의 영업비밀을 부정사용하려다가 미수에 그친 공소사실에 대해 구 부정경쟁방지법상 양벌규정을 적용해 A 회사를 처벌할 수 없다"며 "그럼에도 원심은 유죄로 판단했는바, 이러한 원심 판결에는 적용대상에 관한 법리를 오해해 판결에 영향을 미친 잘못이 있다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Tue, 02 Jan 2024 21:16:15 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/194615</link>
@@ -222,26 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194632</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/194632.jpg</media:thumbnail>
 			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 태평양 '2024년 시무식' 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/5(189).jpg" alt="5.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.bkl.co.kr/law?lang=ko" target="_blank"&gt;&lt;b&gt;법무법인 태평양&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8313"&gt;이준기&lt;/span&gt;)이 2일 서울 종로구 공평동 센트로폴리스 태평양 본사에서 '2024년 시무식'을 열었다.&lt;p&gt;&lt;br /&gt;이날 시무식은 온라인과 대면 병행 방식으로 진행됐다. 태평양 소속 변호사들과 구성원이 한자리에 모여 새해 덕담을 나누며 한 해 업무를 시작했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;span class="lawmanlink" serial="8313" style="font-weight: bold;"&gt;이준기&amp;nbsp;&lt;/span&gt;신임 대표변호사도 태평양 구성원들에게 신년사를 전했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이 대표변호사는 "태평양은 최고의 실력으로 정(精)과 성(誠)을 다해 고객을 뒷받침함으로써 '늘 믿을 수 있는 고객의 진정한 동반자'가 되겠다는 다짐과 함께 법률 분야의 전문성과 산업에 대한 심도 있는 이해를 바탕으로 고객들에게 효과적이고 실질적인 설루션을 드림으로써 진정한 '고객 중심'의 가치를 실천하겠다"고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Tue, 02 Jan 2024 08:42:03 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194630</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194630</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/5(189).jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>엘박스-광주지방변호사회 업무협약 체결</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194629.jpg" alt="194629.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법률 AI 스타트업 엘박스가 지난 12월 13일 광주지방변호사회(이하 광주변회)와 업무협약을 체결했다. 양 기관은 광주변회 회원들에게 엘박스 서비스를 20% 할인된 가격에 제공하고 법률 통계분석 등 고도화된 기능 개발을 위해 적극적으로 협력하기로 합의했다.&lt;p&gt;   &lt;br /&gt;엘박스는 판결문 검색 서비스 ‘엘박스(LBox)’를 운영하고 있다. 엘박스에는 국내 최다인 총 315만 건의 전문 판례가 등록돼 있다. 특히, 사실관계를 명확히 확인할 수 있는 하급심 판결문이 300만 건 이상 등록돼 있어 변호사 등 법조인의 실무에 도움이 될 것으로 여겨진다. 또 엘박스는 한국사법행정학회에서 발간한 주석서 총 64권과 대형 로펌 소속 변호사들이 집필한 실무서를 제공한다.   &lt;p&gt;      &lt;br /&gt;엘박스에 따르면, 엘박스 서비스를 이용하는 국내 변호사는 전체의 약 45%인 1만6000여 명이다. 주요 고객은 경찰청, 금융감독원, 국방부, 광주광역시청 등 정부기관과 김·장, 광장, 태평양을 포함한 국내 10대 로펌, 삼성전자, SK, 현대건설, LG, 네이버 등 주요 대기업이다.    &lt;/p&gt;&lt;/p&gt;</description>
-			<pubDate>Tue, 02 Jan 2024 08:40:31 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194629</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194629</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194629.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
