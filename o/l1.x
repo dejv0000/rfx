@@ -6,8 +6,48 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
-			<title>[동정] 공익사단법인 정, ‘제22회 법조봉사대상’ 수상</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/20231229_제22회법조봉사대상(1).png" alt="20231229_제22회법조봉사대상.png" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;공익사단법인 정(이사장 고영한)이  지난달 29일 서울 서초구 대법원 무궁화홀에서 열린 제22회 법조봉사대상 단체부문 대상을 수상했다. &lt;br /&gt;&lt;br /&gt;법조협회는 공익사단법인 정이 지속적으로 여성·아동·청소년 등 소외계층에게 기부와 나눔을 실천한 점을 수상이유로 들었다. &lt;br /&gt;&lt;br /&gt;공익사단법인 정은 코로나 시기 디지털소외계층에게 원격 수업을 위한 컴퓨터와 태블릿을 기증했으며, 2017년부터 연탄취약계층에게  연탄 약 34만8000장을 기부해왔다. &lt;br /&gt;&lt;br /&gt;이 외에도 공익 사단법인 정은 2023년 △서울 전원마을 연탄 후원 △상록여자자립새활관 성년의 날 후원 △서울가정법원 6호처분 소년보호기관 7곳 후원 △청소년을 위한 법률교육 진행 및 근로 청소년 권익보호사업 법률지원 활동 △로펌공익네트워크 라운드테이블 및 공익 심포지엄 공동주최 △북한이탈주민을 위한 법제도 개선 노력과 법률 강의와 상담 및 소송 조력 △난민법률지원 및 난민지원단체 활동지원 △이주배경청소년들을 위한 문화교류 후원 등으로 이웃 사랑을 실천했다. &lt;br /&gt;&lt;br /&gt;한편 법조협회는 2002년부터 어려운 이웃에게 봉사와 선행을 베풀어 사회적 귀감이 되는 법조직역 종사자, 봉사단체 및 협회 회원에게 법조봉사대상을 시상하고 있다. &lt;br /&gt;</description>
+			<title>대한상사중재원, '국제조정규칙' 시행…"국제 상거래분쟁 조정 통해 효율적 해결"</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/194668.jpg" alt="194668.jpg" /&gt;&lt;/p&gt;&lt;b&gt;   &lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;   대한상사중재원(원장 맹수석)&lt;/b&gt;은 조정제도를 통한 국제상거래 분쟁의 효율적 해결을 위해 중재원 '국제조정규칙'을 제정해 이달부터 시행한다.&lt;p&gt;&lt;br /&gt;3일 중재원에 따르면 국제조정규칙은 국제조정 절차에 관한 국제 실무, 타 기관 운용사례 등을 연구·반영한 총 11개조와 별표 등으로 구성됐다. 싱가포르 조정협약에 따른 집행 편의성 등도 고려됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;국제조정은 국제상거래분쟁을 조정인의 조정을 통해 해결하는 절차다. 우호적이고 효율적인 분쟁 해결의 필요성이 높아지고 조정결과 합의에 대한 집행을 규정하는 싱가포르 조정협약이 발효됨에 따라 최근 국제조정 절차가 활발히 이용되는 추세다.      &lt;/p&gt;&lt;p&gt;&lt;br /&gt;중재원은 이번 규칙 시행과 함께 국제조정인 위촉 절차를 진행 중이다. 실력과 경험을 갖춘 전문 국제조정인단을 구성한다는 계획이다. 이와 더불어 국제조정 관련 교육·행사개최 등 국제조정제도의 저변을 확대하기 위한 사업을 다각적으로 추진할 예정이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;맹수석 원장은 "이번 중재원 국제조정규칙 제정·시행을 계기로, 기존의 국제중재업무 외에 국제조정업무를 본격적으로 수행하기 위한 기반이 마련됐다"며 "이를 통해 효율적인 국제상거래분쟁의 해결에 보다 기여할 수 있도록 노력하겠다"고 밝혔다.&lt;/p&gt;</description>
+			<pubDate>Wed, 03 Jan 2024 06:36:53 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194668</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194668</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/194668.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
+			<title>경찰, '이재명 흉기 피습' 괴한 집·사무실 압수수색</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194665.jpg" alt="194665.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;경찰이&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&lt;/span&gt;&amp;nbsp;더불어민주당 대표를 흉기로 공격한 피의자 김모(67) 씨에 대한 압수수색에 나섰다.&lt;p&gt;&lt;br /&gt;부산경찰청은 3일 충남 아산에 있는 김 씨의 집과 공인중개사 사무실 등을 압수수색하고 관련 자료를 확보하고 있다.   &lt;/p&gt;&lt;p&gt;&lt;br /&gt;앞서 경찰은 이날 법원으로부터 김 씨에 대한 압수수색 영장을 발부받았다.      &lt;/p&gt;&lt;p&gt;&lt;br /&gt;경찰은 입수한 자료를 토대로 계획범죄 여부, 범행 동기, 공범 유무 등을 조사할 방침이다.         &lt;/p&gt;&lt;p&gt;&lt;br /&gt;김 씨는 2일 부산 가덕도 신공항 부지를 방문한 이 대표를 흉기로 공격해 현장에서 체포됐다. 당시 김 씨는 '사인을 해달라'며 이 대표에게 접근해 총길이 18cm, 날 길이 13cm 칼을 휘둘러 공격한 것으로 조사됐다.         &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Wed, 03 Jan 2024 06:23:04 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194665</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194665</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/194665.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>산업재해 은폐한 아파트 관리업체 대표 재판행</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194653.jpg" alt="194653.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;아파트 배관 점검을 하다 근로자가 추락해 사망했지만, 단순 산재 사망으로 은폐하고자 사고 현장을 조작한 아파트 관리업체 대표이사 등이 재판에 넘겨졌다. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;의정부지검 형사4부(&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14597"&gt;이상훈&lt;/span&gt;&lt;b&gt;&amp;nbsp;부장검사)&lt;/b&gt;는 3일 아파트 관리업체 대표이사 A 씨를 중대재해처벌법 위반으로 불구속 기소했다. &lt;br /&gt;&lt;br /&gt;앞서 지난 달 15일 검찰은 이 아파트 관리업체 소속 관리소장 B 씨를 산업안전보건법위반과 업무상과실치사로 구속기소하고, 아파트 전 입주자대표회장 C 씨를 산업안전보건법위반 등으로 불구속 기소했다. &lt;br /&gt;&lt;br /&gt;검찰에 따르면 이들은 산업재해를 은폐하기 위해 근로자가 사망한 사고 현장을 조작하는 등의 혐의를 받는다. &lt;br /&gt;&lt;br /&gt;2022년 7월 양주시 소재 아파트에서 관리사무소 근로자가 배관 점검 작업을 하다 사다리에서 떨어져 사망했다. 당시 해당 근로자는 안전모를 쓰지 않고 사다리에 올랐던 것으로 조사됐다. &lt;br /&gt;&lt;br /&gt;이에 관리소장 B 씨와 아파트 전 입주자대표회장 C 씨는 안전조치 불이행 사실을 감추려고 안전모에 사망한 근로자의 혈흔을 묻히고 사고 현장에 놓아 둔 것으로 조사됐다. &lt;br /&gt;&lt;br /&gt;또 검찰은 아파트 관리업체 대표이사인 A 씨가 안전보건 확보의무를 이행하지 않아 이같은 사망사고가 일어났다고 봤다. 해당 업체는 소속 직원이 약 2400명으로 중대재해처벌법 적용 대상인 것으로 알려졌다. &lt;br /&gt;&lt;br /&gt;경찰은 사고 수사 후 단순 산업재해 사망 사건으로 보고, 업무상 과실치사 혐의를 적용해 검찰에 송치했다. 검찰은 보완수사를 통해 이같은 산업재해 은폐·조작한 사실을 추가로 밝혔다. &lt;br /&gt;</description>
+			<pubDate>Wed, 03 Jan 2024 06:21:55 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194653</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194653</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/194653.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>'트럼프 대선후보 자격 박탈' 콜로라도 대법원에 괴한 총격</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/194651.jpg" alt="194651.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;미국 콜로라도주 대법원 건물에 무장 괴한이 침입해 총기를 난사하는 일이 벌어졌다. 콜로다도주 대법원은 도널드 트럼프 전 대통령에 대해 주(州)에서 실시하는 대선 후보 경선에 출마할 자격이 없다는 판결을 처음 내린 법원이다.&lt;p&gt;   &lt;br /&gt;AP통신 등에 따르면 2일(현지시간) 콜로라도주 경찰은 간밤에 주 대법원 건물 내부에 침입해 총격을 가한 혐의로 남성 1명을 체포했다고 밝혔다. 경찰은 이날 오전 1시 15분경 덴버 시내에 있는 대법원 건물 옆에서 차량 사고가 발생했으며 사고 차량의 한 운전자가 다른 운전자에게 권총을 겨눴다고 당시 상황을 설명했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이후 총을 지닌 남성이 대법원 건물 창문에 총을 쏘고 안으로 들어가 비무장 상태인 경비원으로부터 건물 다른 구역의 열쇠를 받아낸 뒤 7층을 포함한 건물 다른 구역으로 이동해 여러 발 총을 쐈다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;오전 3시께 이 남성이 직접 911에 전화한 뒤 자진해 경찰에 투항하면서 상황은 종결된 것으로 알려졌다. 경찰은 현장에서 인명피해나 부상자는 없었다고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;경찰은 "우리는 이번 사건을 심각하게 다루고 있지만, 현재로서는 이 사건이 콜로라도주 대법관들에 대한 이전의 위협과는 관련이 없는 것으로 판단된다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;그러나 현지 언론은 이번 공격이 트럼프 전 대통령에게 불리한 판결을 한 법원을 향했다는 점에 주목하는 분위기다.               &lt;/p&gt;&lt;p&gt;   &lt;br /&gt;콜로라도주 대법원은 지난달 19일 재판관 4 대 3 의견으로 주의 공화당 대선 후보 경선 투표 용지에서 트럼프 전 대통령을 제외할 것을 명령했다. 미국에서 처음으로 트럼프 전 대통령의 대선 후보 자격을 박탈한 판결이다. 주 대법원은 "트럼프 전 대통령이 미국 수정헌법 제14조 제3항에 따라 대통령직을 수행할 자격이 없다고 판단했다"며 "콜로라도주가 그를 대통령 예비선거 투표용지에 후보자로 올리는 것은 선거법 위반"이라고 밝혔다. 트럼프 전 대통령이 2021년 그의 지지자들이 벌인 '1·6 국회의사당 폭동'에 가담하고 내란을 선동했다는 이유에서다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;미 CNN은 "해당 판결을 한 대법관 4명의 이름이 온라인상의 선동적인 게시물에 자주 등장하고 있다"고 전했다. 보도에 따르면 극우 성향 웹사이트의 한 사용자는 콜로라도주 대법관들을 언급하며 "법관 옷을 입은 쥐새끼들은 모두 교수형에 처해야 한다"는 글을 올렸다. 미 연방수사국(FBI)는 지난달 25일 CNN에 "상황을 인지하고 있으며 지역 법 집행 기관과 협력하고 있다"고 밝혔다.&lt;/p&gt;</description>
+			<pubDate>Wed, 03 Jan 2024 06:20:07 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194651</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194651</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/194651.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
+			<title>공익사단법인 정, ‘제22회 법조봉사대상’ 수상</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/20231229_제22회법조봉사대상(1).png" alt="20231229_제22회법조봉사대상.png" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;공익사단법인 정(이사장&amp;nbsp;&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4450"&gt;고영한&lt;/span&gt;&lt;b&gt;)&lt;/b&gt;이  지난달 29일 서울 서초구 대법원 무궁화홀에서 열린 제22회 법조봉사대상 단체부문 대상을 수상했다. &lt;br /&gt;&lt;br /&gt;법조협회는 공익사단법인 정이 지속적으로 여성·아동·청소년 등 소외계층에게 기부와 나눔을 실천한 점을 수상이유로 들었다. &lt;br /&gt;&lt;br /&gt;공익사단법인 정은 코로나 시기 디지털소외계층에게 원격 수업을 위한 컴퓨터와 태블릿을 기증했으며, 2017년부터 연탄취약계층에게  연탄 약 34만8000장을 기부해왔다. &lt;br /&gt;&lt;br /&gt;이 외에도 공익 사단법인 정은 2023년 △서울 전원마을 연탄 후원 △상록여자자립새활관 성년의 날 후원 △서울가정법원 6호처분 소년보호기관 7곳 후원 △청소년을 위한 법률교육 진행 및 근로 청소년 권익보호사업 법률지원 활동 △로펌공익네트워크 라운드테이블 및 공익 심포지엄 공동주최 △북한이탈주민을 위한 법제도 개선 노력과 법률 강의와 상담 및 소송 조력 △난민법률지원 및 난민지원단체 활동지원 △이주배경청소년들을 위한 문화교류 후원 등으로 이웃 사랑을 실천했다. &lt;br /&gt;&lt;br /&gt;한편 법조협회는 2002년부터 어려운 이웃에게 봉사와 선행을 베풀어 사회적 귀감이 되는 법조직역 종사자, 봉사단체 및 협회 회원에게 법조봉사대상을 시상하고 있다. &lt;br /&gt;</description>
 			<pubDate>Wed, 03 Jan 2024 02:43:29 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/194652</link>
@@ -17,12 +57,12 @@
 		</item>
 		<item>
 			<title>서울중앙법무사회, 2024년 신년하례식 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194649.jpg" alt="194649.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;서울중앙지방법무사회(회장 김정실)&lt;/b&gt;는 2일 방배동 서울중앙법무사회관 대회의실에서 신년하례 및 시무식을 개최했다. 이날 행사에는 회장단, 고문, 임원 및 회원들과 사무국 직원 등 80여 명이 참석했다.&lt;p&gt;   &lt;br /&gt;김정실 회장은 "2024년 갑진년 새해에는 법무사 업계의 장래 어려움과 산적한 현안들에 대해 슬기롭게 대처하고 법무사법 개정을 위해 최선의 노력을 다하겠다"고 말했다.&lt;/p&gt;</description>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194649 copy(3).jpg" alt="194649 copy.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;서울중앙지방법무사회(회장 김정실)&lt;/b&gt;는 2일 방배동 서울중앙법무사회관 대회의실에서 신년하례 및 시무식을 개최했다. 이날 행사에는 회장단, 고문, 임원 및 회원들과 사무국 직원 등 80여 명이 참석했다.&lt;p&gt;&lt;br /&gt;김정실 회장은 "2024년 갑진년 새해에는 법무사 업계의 장래 어려움과 산적한 현안들에 대해 슬기롭게 대처하고 법무사법 개정을 위해 최선의 노력을 다하겠다"고 말했다.&lt;/p&gt;</description>
 			<pubDate>Wed, 03 Jan 2024 01:51:30 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/194649</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194649</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194649.jpg</media:thumbnail>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/194649 copy(3).jpg</media:thumbnail>
 			<dc:creator>홍윤지 기자</dc:creator>
 		</item>
 		<item>
@@ -85,12 +125,12 @@
 		</item>
 		<item>
 			<title>(단독)[판결] 혼인 중 단독 명의 취득 재산에 배우자가 기여했다면… “이혼 시 실질적 부부공동재산으로 볼 수 있다”</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194610.jpg" alt="194610.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;부부 중 한 사람이 혼인 기간 중 단독 명의로 취득한 주식 등 재산에 대해 다른 배우자가 그 유지 등에 기여했다면 재산분할의 대상으로 삼는 것이 타당하다는 판단이 나왔다. 이 사건을 담당한 재판부는 최태원 SK그룹 회장과 노소영 아트센터 나비 미술관 관장의 이혼 소송 항소심 재판을 심리 중이다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;서울고법 가사2부(재판장&amp;nbsp;&lt;span class="lawmanlink" serial="3075" style="font-weight: bold;"&gt;김시철&lt;/span&gt;&amp;nbsp;부장판사,&amp;nbsp;&lt;span class="lawmanlink" serial="10189" style="font-weight: bold;"&gt;강상욱&lt;/span&gt;·&lt;span class="lawmanlink" serial="14485" style="font-weight: bold;"&gt;이동현&lt;/span&gt;&amp;nbsp;고법판사)는 지난 11월 2일 남편 A 씨가 아내 B 씨를 상대로 제기한 이혼 등 청구소송 항소심에서 이혼 청구를 인용하고 재산분할비율을 A 씨 40%, B 씨 60%로 정한 1심 판결을 취소하고 재산분할비율을 각각 30%, 70%로 바꿨다. 이 판결은 양측에서 상고하지 않아 그대로 확정됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;판결문에 따르면 A 씨와 B 씨는 1991년 4월 결혼해 B 씨의 부모가 전세보증금을 지원해 주면서 마련한 서울 소재 아파트에서 신혼생활을 시작했다. 혼인 기간 A 씨는 의사로 일했고, B 씨는 가사를 돌보며 자녀 양육을 전담했다. 이들은 1995년 A 씨의 명의로 서울의 다른 아파트를 매수했고, 당시 B 씨의 부모는 같은 아파트에 거주하고 있었다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;A 씨는 1998년부터 2003년경 경기도 용인에서 병원을 운영하다가 공부를 위해 2004년 1월 B 씨와 함께 미국으로 떠났다. 이후 2009년 8월 미국 로스앤젤레스에 척추신경병원을 개원해 운영하다가 지인에게 양도한 후 2019년 6월 가족들과 한국으로 돌아왔다. 이후 서울에 병원 개업을 준비하는 과정에서 B 씨와 잦은 다툼을 겪다가 이듬해부터 별거에 들어갔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1심은 이혼 청구를 인용하고 재산분할 비율에 대해서는 A 씨 40%, B 씨 60%로 정했다. 하지만 양측은 각자의 재산분할 비율이 낮다며 항소했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;항소심 재판부는 △혼인기간에 A 씨는 의사로 일하면서 경제활동을 했고, B 씨는 주로 가사와 양육을 담당한 점 △혼인 당시 B 씨의 부모가 서울 소재 아파트에 관한 전세보증금을 대신 지급해 주는 방식으로 신혼집을 마련해줬고, 이후 이들이 다른 아파트로 이사할 때 전세보증금이 사용된 점 △B 씨의 C 물산 주식 중 상당 부분을 B 씨의 부친 및 작은아버지의 증여로 취득한 점 등을 참작했다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;특히 재판부는 B 씨가 1998~2021년 아버지와 작은아버지로부터 증여받은 B 씨 아버지 회사인 C 물산 주식이 B 씨의 특유재산일지라도, A 씨가 이들의 혼인 기간에 경제활동을 하면서 해당 주식의 가치 유지 및 감소 방지에 직·간접적으로 기여했다고 볼 수 있어 재산분할의 대상으로 삼는 것이 타당하다고 판단했다. 부부 일방의 특유재산일지라도 다른 일방이 적극적으로 그 특유재산의 유지에 협력해 그 감소를 방지했다고 인정되는 경우, 재산분할의 대상이 될 수 있다는 대법원 결정에 따른 것이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;재판부는 “A 씨가 혼인 기간 대부분 의사로서 경제활동을 했고, 그 소득 중 상당 부분을 B 씨가 관리해 온 점 등을 고려하면 B 씨가 혼인기간 중 C 물산으로부터 지급받은 배당금 역시 부부 공동재산으로 인정하는 것이 형평에 부합하다”며 “B 씨가 C 물산으로부터 지급받아야 할 배당금을 원천으로 해 B 씨의 C 물산 주식수가 증가한 이상, 이는 부부 공동재산을 통한 주식 수의 증가라고 보는 것이 타당하다”고 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이어 “혼인 당시 A 씨 집안은 경제적인 상황이 좋지 않았던 것으로 보이는 반면, B 씨 집안은 A 씨 집안에 비해 경제적인 상황이 훨씬 좋았던 것으로 판단되는 점, 서울의 다른 아파트에 관한 소유권이전등기를 마쳤을 때 A 씨의 수입과 자녀들의 나이, 생활비 및 자녀들에 대한 양육비 정도, B 씨 부모가 같은 아파트 다른 동에 거주하고 있던 점 등을 고려하면 B 씨 부모의 지원으로 해당 아파트가 마련됐다고 보는 것이 타당하다”고 말했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;그러면서 "B 씨 부모의 지원으로 마련된 아파트를 매각한 돈으로 미국에서 살 주택을 구입하기도 한 점 등을 참작해 재산분할비율을 이같이 정한다"고 판시했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194610(1).jpg" alt="194610.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;부부 중 한 사람이 혼인 기간 중 단독 명의로 취득한 주식 등 재산에 대해 다른 배우자가 그 유지 등에 기여했다면 재산분할의 대상으로 삼는 것이 타당하다는 판단이 나왔다. 이 사건을 담당한 재판부는 최태원 SK그룹 회장과 노소영 아트센터 나비 미술관 관장의 이혼 소송 항소심 재판을 심리 중이다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;서울고법 가사2부(재판장&amp;nbsp;&lt;span class="lawmanlink" serial="3075" style="font-weight: bold;"&gt;김시철&lt;/span&gt;&amp;nbsp;부장판사,&amp;nbsp;&lt;span class="lawmanlink" serial="10189" style="font-weight: bold;"&gt;강상욱&lt;/span&gt;·&lt;span class="lawmanlink" serial="14485" style="font-weight: bold;"&gt;이동현&lt;/span&gt;&amp;nbsp;고법판사)는 지난 11월 2일 남편 A 씨가 아내 B 씨를 상대로 제기한 이혼 등 청구소송 항소심에서 이혼 청구를 인용하고 재산분할비율을 A 씨 40%, B 씨 60%로 정한 1심 판결을 취소하고 재산분할비율을 각각 30%, 70%로 바꿨다. 이 판결은 양측에서 상고하지 않아 그대로 확정됐다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;판결문에 따르면 A 씨와 B 씨는 1991년 4월 결혼해 B 씨의 부모가 전세보증금을 지원해 주면서 마련한 서울 소재 아파트에서 신혼생활을 시작했다. 혼인 기간 A 씨는 의사로 일했고, B 씨는 가사를 돌보며 자녀 양육을 전담했다. 이들은 1995년 A 씨의 명의로 서울의 다른 아파트를 매수했고, 당시 B 씨의 부모는 같은 아파트에 거주하고 있었다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;A 씨는 1998년부터 2003년경 경기도 용인에서 병원을 운영하다가 공부를 위해 2004년 1월 B 씨와 함께 미국으로 떠났다. 이후 2009년 8월 미국 로스앤젤레스에 척추신경병원을 개원해 운영하다가 지인에게 양도한 후 2019년 6월 가족들과 한국으로 돌아왔다. 이후 서울에 병원 개업을 준비하는 과정에서 B 씨와 잦은 다툼을 겪다가 이듬해부터 별거에 들어갔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;1심은 이혼 청구를 인용하고 재산분할 비율에 대해서는 A 씨 40%, B 씨 60%로 정했다. 하지만 양측은 각자의 재산분할 비율이 낮다며 항소했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;항소심 재판부는 △혼인기간에 A 씨는 의사로 일하면서 경제활동을 했고, B 씨는 주로 가사와 양육을 담당한 점 △혼인 당시 B 씨의 부모가 서울 소재 아파트에 관한 전세보증금을 대신 지급해 주는 방식으로 신혼집을 마련해줬고, 이후 이들이 다른 아파트로 이사할 때 전세보증금이 사용된 점 △B 씨의 C 물산 주식 중 상당 부분을 B 씨의 부친 및 작은아버지의 증여로 취득한 점 등을 참작했다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;특히 재판부는 B 씨가 1998~2021년 아버지와 작은아버지로부터 증여받은 B 씨 아버지 회사인 C 물산 주식이 B 씨의 특유재산일지라도, A 씨가 이들의 혼인 기간에 경제활동을 하면서 해당 주식의 가치 유지 및 감소 방지에 직·간접적으로 기여했다고 볼 수 있어 재산분할의 대상으로 삼는 것이 타당하다고 판단했다. 부부 일방의 특유재산일지라도 다른 일방이 적극적으로 그 특유재산의 유지에 협력해 그 감소를 방지했다고 인정되는 경우, 재산분할의 대상이 될 수 있다는 대법원 결정에 따른 것이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;재판부는 “A 씨가 혼인 기간 대부분 의사로서 경제활동을 했고, 그 소득 중 상당 부분을 B 씨가 관리해 온 점 등을 고려하면 B 씨가 혼인기간 중 C 물산으로부터 지급받은 배당금 역시 부부 공동재산으로 인정하는 것이 형평에 부합하다”며 “B 씨가 C 물산으로부터 지급받아야 할 배당금을 원천으로 해 B 씨의 C 물산 주식수가 증가한 이상, 이는 부부 공동재산을 통한 주식 수의 증가라고 보는 것이 타당하다”고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;이어 “혼인 당시 A 씨 집안은 경제적인 상황이 좋지 않았던 것으로 보이는 반면, B 씨 집안은 A 씨 집안에 비해 경제적인 상황이 훨씬 좋았던 것으로 판단되는 점, 서울의 다른 아파트에 관한 소유권이전등기를 마쳤을 때 A 씨의 수입과 자녀들의 나이, 생활비 및 자녀들에 대한 양육비 정도, B 씨 부모가 같은 아파트 다른 동에 거주하고 있던 점 등을 고려하면 B 씨 부모의 지원으로 해당 아파트가 마련됐다고 보는 것이 타당하다”고 말했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;그러면서 "B 씨 부모의 지원으로 마련된 아파트를 매각한 돈으로 미국에서 살 주택을 구입하기도 한 점 등을 참작해 재산분할비율을 이같이 정한다"고 판시했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Tue, 02 Jan 2024 22:37:59 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/194610</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194610</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194610.jpg</media:thumbnail>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/194610(1).jpg</media:thumbnail>
 			<dc:creator>한수현 기자</dc:creator>
 		</item>
 		<item>
@@ -201,44 +241,6 @@
 			<link>https://www.lawtimes.co.kr/news/194629</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194629</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/194629.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>올해 퇴직공직자 취업제한 로펌 60곳 확정</title>
-			<description>공직자가 퇴직한 뒤 취업심사를 받아야 하는 '취업심사 대상기관'이 지난해보다 증가했다. 공직자윤리법 시행령 개정으로 자본금이 적어도 거래 규모가 큰 영리사기업체가 새롭게 포함됐기 때문이다. 이 가운데 법무법인은 총 60곳으로 나타났다.&lt;p&gt;&lt;b&gt;&lt;br /&gt;인사혁신처(처장 김승호)&lt;/b&gt;는 2023년 12월 29일 '2024년도 취업심사 대상기관'을 관보에 게시하고 이 같이 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;취업심사 대상기관은 2023년 2만1457개보다 1802개 늘어나 2만3259개로 확정됐다. 이는 '공직자윤리법 시행령' 개정에 따라 자본금이 적더라도 거래 규모가 큰 영리사기업체 1076개 기관이 신규 지정되며 취업심사 대상기관이 증가했기 때문이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;영리 분야 대상기관은 올해보다 1778개(10.4%) 증가한 1만8904개로 나타났는데, 법조 관련 기관으로는 영리사기업체가 1만8597개, 법무법인 60개, 회계법인 75개, 세무법인 164개, 외국법자문법률사무소 8개가 포함됐다.      &lt;/p&gt;&lt;p&gt;&lt;br /&gt;올해 새롭게 취업제한 로펌에 지정된 곳은 법무법인 박앤정, 법무법인 에이케이, 법무법인 에프, 법무법인 엘플러스, 법무법인 여는, 법무법인 위어드바이즈, 법무법인 정의, 법무법인 정향, 법무법인 조운, 법무법인 태성, 법무법인 테헤란, 법무법인 황해로 나타났다. 법무법인 정세와 법무법인 태일은 올해 취업제한 로펌에서 제외됐다.         &lt;/p&gt;&lt;p&gt;&lt;br /&gt;취업제한 외국법자문법률사무소로는 코브레 앤 김(Kobre &amp; Kim, 미국)이 제외되고, 롭스 앤 그레이(Ropes &amp; Gray LLP, 미국), 베이커 앤 맥켄지(Baker &amp; McKenzie, 미국), 셔먼 앤 스털링(Shearman &amp; Sterling, 미국)이 추가됐다.            &lt;/p&gt;&lt;p&gt;&lt;br /&gt;특정 분야 대상기관은 지난해보다 2개(0.44%) 감소한 225개로, 방위산업분야 54개, 국민안전분야 171개로 집계됐다.               &lt;/p&gt;&lt;p&gt;&lt;br /&gt;자세한 취업심사 대상기관 명단은 대한민국 전자관보(gwanbo.go.kr)와 공직윤리시스템(www.peti.go.kr), 인사처 누리집(www.mpm.go.kr) 등에서 확인할 수 있다.               &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Tue, 02 Jan 2024 08:39:50 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194628</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194628</guid>
-			<dc:creator>이용경 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 디라이트, 기업 'ESG 평가 지표' 세미나 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/194627.jpg" alt="194627.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;스타트업과 중견기업을 대상으로 국내외 주요 ESG(환경, 사회, 지배구조) 평가 대응방안을 모색해보는 세미나가 열린다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;&lt;a href="https://dlightlaw.com" target="_blank"&gt;&lt;b&gt;법무법인 디라이트&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7270"&gt;이병주&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="5968"&gt;조원희&lt;/span&gt;)는 오는 16일 서초구 드림플러스 강남에서 임팩트온과 함께 ‘ESG 평가, 제대로 알고 제대로 받자’라는 주제로 세미나를 연다고 2일 밝혔다.   &lt;/p&gt;&lt;p&gt;&lt;br /&gt;주요 강의로는 △국내외 ESG 평가모델 살펴보기 △글로벌 ESG 평가: DJSI △국내 ESG 평가: ESGValue TM △스타트업을 위한 ESG 평가: ESG Plus △공급망을 위한 ESG 평가: 에코바디스 △ESG 평가 대응 사례 공유 등이 있다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5968"&gt;조원희&lt;/span&gt;(53·사법연수원 30기) 디라이트 대표변호사·ESG지속가능센터장은 “각 분야 전문가와 함께 국내외 주요 평가모델과 ESG 평가 대응 사례를 알아보고, 특히 CDP(탄소공개정보프로젝트)와 에코바디스 등 글로벌 비즈니스 환경에서 광범위하게 사용되는 핵심적인 평가지표들이 현업 종사자들에게 큰 도움이 될 것”이라고 추천했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Tue, 02 Jan 2024 08:39:20 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194627</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194627</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194627.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>'버터 없는 버터맥주' 상품 기획사·대표 재판행</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/194622.jpg" alt="194622.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;실제로는 버터가 들어가지 않은 맥주를 '버터맥주'라고 광고한 상품 기획사와 기획사 대표가 재판에 넘겨졌다.&lt;p&gt;&amp;nbsp; &lt;b&gt;&lt;br /&gt;서울동부지검 형사1부(&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11963"&gt;김영남&lt;/span&gt;&lt;b&gt;&amp;nbsp;부장검사)&lt;/b&gt;는 '버터맥주'로 알려진 '뵈르(BEURRE)' 맥주 상품을 기획하고 광고한 라이선스 기획사 버추어컴퍼니와 이 회사 박용인 대표를 식품표시광고법 위반 혐의로 지난달 29일 불구속 기소했다고 2일 밝혔다. 박 대표는 혼성그룹 어반자카파 멤버로 알려졌다.   &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;검찰에 따르면 버추어컴퍼니 등은 2022년 5월부터 지난해 1월까지 편의점 등에서 맥주를 판매하면서 소셜미디어(SNS), 홍보포스터에 버터를 원재료로 사용한 것처럼 '버터맥주' 'BUTTER BEER' '버터베이스'로 거짓·과장 광고한 혐의를 받는다.      &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;앞서 지난해 3월 서울지방식품의약품안전청은 원재료에 버터가 들어가지 않았음에도 프랑스어로 버터를 의미하는 '뵈르'를 제품명에 사용한 것을 식품표시광고법 위반으로 보고 상품 기획·판매사 버추어컴퍼니, 제조사 부루구루, 유통사 GS리테일을 형사 고발했다.         &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;GS리테일은 경찰 수사단계에서 불송치 됐고, 제조사인 부루구루는 지난해 9월 의정부지검 고양지청이 증거 불충분으로 불기소 처분했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;한편 함께 고발된 부루구루 측은 해당 광고를 기획한 버추어컴퍼니에 민·형사상 책임을 물을 것이라고 밝혔다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;부루구루 측 관계자는 "수사기관은 '뵈르'란 표시 자체는 식품표시광고법 위반으로 보기 어려워도 '버터맥주'로 광고한 행위는 문제라고 본 것"이라며 "(버추어컴퍼니 측은) '버터맥주' 문구를 사용하는 등 처음부터 관련 법률을 위반하는 방법으로 광고할 예정이었으면서 '뵈르'는 상표라서 문제가 없다고 주장하며 위탁 제조를 요청하는 바람에 피해가 막심하다"고 말했다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이어 "정작 '뵈르' 상표의 등록 절차도 하지 않은 것을 보면 해당 상표가 처음부터 등록·사용이 불가능하다는 사실을 알면서도 제품 제조와 납품을 요청한 것이 아닌지 의심된다"며 "(기획사 대표가) 연예인으로써의 인지도를 바탕으로 무분별하게 사업을 확장하고자 사실과 다른 주장까지 한 만큼 버추어컴퍼니와 그 대표에 대해 민·형사상 끝까지 책임을 물을 것"이라고 전했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Tue, 02 Jan 2024 07:19:43 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194622</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194622</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194622.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>대구지방변호사회, 사랑나눔 후원금 전달</title>
-			<description>&lt;b&gt;대구지방변호사회(회장&amp;nbsp;&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4270"&gt;강윤구&lt;/span&gt;&lt;b&gt;)&lt;/b&gt; 저스티스봉사단(단장 남대하)이 성금 총 645만 원을 모금해 지역 사회에 기부했다.&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;대구변회는 2023년 11월 모인 이 성금 가운데 100만 원은 대구의 시각장애인에게 김치와 라면 등 겨울나기 식료품을, 210만 원은 시각장애인에게 겨울 점퍼를 지원하기 위해 사단법인 대구광역시시각장애인 연합회에 기부했다. 나머지 210만원은 대구 달성교육지원청의 교육복지우선지원사업 대상 학생 10명에게 겨울 점퍼를 지원하는 데 쓰였다.      &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;대구변회는 1998년 5월부터 2023년 11월까지 사랑나눔후원금으로  총 16억5900만여 원을 기부했다.         &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Tue, 02 Jan 2024 06:38:20 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194619</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194619</guid>
 			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
