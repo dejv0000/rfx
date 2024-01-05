@@ -6,6 +6,66 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>尹, '쌍특검법' 거부권 행사… 취임 후 네 번째</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194744.jpg" alt="194744.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&lt;/span&gt;&amp;nbsp;대통령이 5일 '김건희 여사 특검법'과 '대장동 50억 클럽 의혹 특검법' 등 이른바 '쌍특검법'에 재의요구권(거부권)을 행사했다. 12월 28일 민주당 주도로 국회 본회의에서 법안이 통과된 지 8일 만이다.&lt;p&gt;   &lt;br /&gt;이날 대통령실은 "윤 대통령은 오늘 오전 국무총리 주재 임시 국무회의에서 의결된 '화천대유 50억 클럽 뇌물 의혹 사건의 진상규명을 위한 특별검사의 임명 등에 관한 법률안' 재의요구안, '대통령 배우자 김건희의 도이치모터스 주가조작 의혹 진상규명을 위한 특별검사 임명 등에 관한 법률안' 재의요구안을 재가했다"고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;앞서 정부는 오전 9시 한덕수 국무총리가 주재한 임시 국무회의에서 쌍특검법 재의요구안을 심의·의결했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;윤 대통령은 취임 후 지금까지 양곡관리법 개정안, 간호법 제정안, 노란봉투법 및 방송3법에 대해 거부권을 행사했다.&lt;/p&gt;</description>
+			<pubDate>Fri, 05 Jan 2024 11:01:32 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194744</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194744</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/194744.jpg</media:thumbnail>
+			<dc:creator>이용경 기자</dc:creator>
+		</item>
+		<item>
+			<title>"폭행 없었다" 위증 혐의 이귀재 교수 구속기소…검찰 "자백·증거 확보"</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194771.jpg" alt="194771.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;서거석 전북교육감의 선거법(지방교육자치에관한법률)위반 형사재판에서 위증한 혐의를 받는 이귀재 전북대 교수가 구속기소됐다. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;전주지검 형사3부(부장검사&amp;nbsp;&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14589"&gt;이승학&lt;/span&gt;&lt;b&gt;)&lt;/b&gt;는 5일 이 교수를 위증 혐의로 구속기소했다고 밝혔다. &lt;br /&gt;&lt;br /&gt;검찰은 수사 결과 이 교수가 2023년 11월 18일 서 교육감으로부터 폭행당한 사실이 있음에도 서 교육감의 재판에 증인으로 출석해 '폭행당한 사실이 없다'는 취지의 허위증언을 한 사실이 확인됐다고 설명했다.&lt;br /&gt;&lt;br /&gt;검찰은 지난해 9월 이 교수의 위증 혐의에 대해 압수수색 4회, 20여 명의 관련자를 조사했으며 3100여 개의 녹음파일을 분석해 12월 구속영장을 청구했다.&lt;br /&gt;&lt;br /&gt;법원은 이 교수에게 증거인멸 염려가 있다며 구속영장을 발부했다. 구속된 이 교수는 대학 총장 출신이었던 서 교육감의 지원을 받기 위해 위증했다는 사실을 자백했다. 검찰은 이를 입증할 객관적인 증거도 확보했다. &lt;br /&gt;&lt;br /&gt;검찰 관계자는 "사법질서를 저해한 이 교수에게 죄에 상응한 형이 선고되도록 공소유지하는 한편 위증의 배경과 경위를 명확히 규명하겠다"며 "이 교수의 허위 증언으로 1심에서 무죄가 선고된 서 교육감의 항소심 재판 공소유지에도 최선을 다할 것"이라고 말했다.</description>
+			<pubDate>Fri, 05 Jan 2024 10:48:27 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194771</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194771</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/194771.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>檢, '수백억대 리베이트 의혹' 경보제약 수도권 사무소 압수수색</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194773.jpg" alt="194773.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;검찰이 병원에 수백억 원대 리베이트를 건넨 혐의를 받는 경보제약을 압수수색했다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;서울서부지검 식품의약범죄조사부(&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13152"&gt;송명섭&lt;/span&gt;&lt;b&gt;&amp;nbsp;부장검사)&lt;/b&gt;는 5일 병원 리베이트 금원 제공 혐의로 경보제약의 수도권 소재 사무소를 압수수색했다. 앞서 지난달 18일 서울 서대문구 경보제약 본사를 압수수색한 데 이어 두 번째다. &lt;br /&gt;&lt;br /&gt;앞서 국민권익위원회는 종근당 그룹 계열사인 경보제약이 병원을 상대로 약값의 일부를 현금으로 되돌려주는 방식으로 수백억 원대 불법 리베이트를 제공했다는 공익 신고를 2021년 접수 받고 검찰에 수사를 의뢰했다. 검찰은 권익위로부터 사건을 이첩받아 수사 중이다.</description>
+			<pubDate>Fri, 05 Jan 2024 09:43:29 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194773</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194773</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/194773.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>류윤교 전 현대모비스 변호사, '리만코리아' 법무실장으로</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194772.jpg" alt="194772.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="31208"&gt;류윤교&lt;/span&gt;(42·변호사시험 2회) 전 현대모비스 변호사가 지난 2일 리만코리아(RIMAN KOREA)에 법무실장(이사)으로 합류했다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;류 실장은 대구 경신고, 한양대 법학과를 졸업하고 2013년 2회 변호사시험에 합격했다. 이후 LG전자와 현대모비스에서 사내변호사로 근무했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;기업지배구조 및 제조업 관련 법률 실무에 밝고 ESG, 컴플라이언스, 공정거래 분야에 전문성을 가졌다고 평가받는다.&lt;/p&gt;</description>
+			<pubDate>Fri, 05 Jan 2024 09:42:32 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194772</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194772</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/194772.jpg</media:thumbnail>
+			<dc:creator>홍수정 기자</dc:creator>
+		</item>
+		<item>
+			<title>이재명 피습범 “총선에서 누가 이기든 나라 경제 파탄“</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/194722(2).jpg" alt="194722.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;영장실질심사 마친 이재명 급습 피의자 &amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&lt;/span&gt;(60·사법연수원 18기) 더불어민주당 대표에게 흉기를 휘두른 혐의로 4일 구속된 김모(67) 씨의 외투에서 "이대로는 총선에서 누가 이기든 나라 경제는 파탄난다"는 취지의 내용이 담긴 8쪽짜리 글을 경찰이 발견한 것으로 전해졌다.&lt;p&gt;   &lt;br /&gt;앞서 김 씨는 4일 영장실질심사에 출석하며 '이 대표를 왜 공격했냐'는 취재진의 질문에 "경찰에 제출한 8쪽짜리 '변명문'을 참고해달라"고 답했다.   &lt;p&gt;      &lt;br /&gt;김 씨는 범행 당시 상의 주머니 안에 8쪽짜리 문건을 가지고 있다가 현장에서 경찰에 압수 당했다.      &lt;p&gt;         &lt;br /&gt;부산경찰청 관계자는 5일 수사 브리핑에서 "모 언론이 보도한 내용이 완전히 김 씨의 '변명문'과 일치하지 않지만, 일부 내용이 비슷한 취지인 것은 맞다"고 밝혔다. 김 씨가 참고해달라고 말한 변명문의 원래 제목은 '남기는 말'로 확인됐다. 경찰은 김 씨의 변명문은 압수물이기 때문에 자세한 설명은 어렵다고 말했다.         &lt;p&gt;&amp;nbsp; &lt;br /&gt;앞서 조선일보는 김 씨가 '지난 정부 때 부동산 폭망, 대북 굴욕 외교 등으로 경제가 쑥대밭이 됐다. 윤 정부가 들어섰지만 이재명이 당 대표로 나오면서 거대 야당 민주당이 이재명 살리기에 올인하는 형국이 됐다'는 내용을 변명문에 썼다고 보도했다.            &lt;p&gt;               &lt;br /&gt;경찰은 사건을 검찰에 송치하기 전까지 김 씨의 신상공개 여부를 신중하게 검토 중이다. 정신병력 여부에 대해서는 현재까지 확인하지 못했다고 밝혔다.            &lt;/p&gt;            &lt;/p&gt;      &lt;/p&gt;   &lt;/p&gt;&lt;/p&gt;</description>
+			<pubDate>Fri, 05 Jan 2024 09:40:51 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194761</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194761</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/194722(2).jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>尹, 쌍특검법 거부권 행사에 '권한쟁의심판 청구' 검토하는 민주당… 법조 "인용 가능성 희박"</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/186559(1).jpg" alt="186559.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&lt;/span&gt;&amp;nbsp;대통령이 5일 '김건희 여사 특검법'과 '대장동 50억 클럽 특검법' 이른바 '쌍특검법'에 대해 재의요구권(거부권)을 행사한 가운데 민주당은 권한쟁의심판 청구를 시사하고 있다. 다만 법조에서는 "헌법재판소에서 권한쟁의심판 청구가 받아들여질 가능성은 낮다"는 평가가 나온다.&lt;p&gt;&lt;br /&gt;윤 대통령은 이날 야당 단독으로 국회를 통과한 '쌍특검법'에 대해 거부권을 행사했다. 지난해 12월 28일 민주당 주도로 국회 본회의에서 법안이 통과된지 8일 만이다. 정부는 앞서 오전 9시 한덕수 국무총리가 주재한 임시 국무회의에서 쌍특검법 재의요구안을 심의·의결했다.   &lt;/p&gt;&lt;p&gt;&lt;br /&gt;민주당, 정의당, 기본소득당, 진보당 등 야 4당은 곧바로 여의도 국회 본청 앞 계단에서 윤 대통령의 '쌍특검법' 거부권 행사를 규탄했다.      &lt;/p&gt;&lt;p&gt;&lt;br /&gt;특히 민주당은 윤 대통령의 거부권 행사와 관련해 전문가 간담회 등을 거쳐 헌재에 권한쟁의심판을 청구하겠다는 방침이다.         &lt;/p&gt;&lt;p&gt;&lt;br /&gt;하지만 법조에서는 "권한쟁의심판 청구는 가능하지만, 헌재에서 이를 본격적으로 논의하거나 받아들여질 가능성은 희박하다"는 전망이 나온다.            &lt;/p&gt;&lt;p&gt;&lt;br /&gt;헌법재판연구원장을 지낸 이헌환 아주대 로스쿨 교수는 "헌재 입장에서 볼 때는 권한쟁의심판 대상이 되는 사안이 아니라고 판단해 각하할 가능성이 높다"고 말했다. 특히 "헌법 원칙으로까지 고양되고 있는 이해충돌 금지의 원칙을 위반하는 것으로 보아 거부권 행사 자체의 헌법 적합성 여부를 문제 삼을 수는 있겠지만, 헌법적 다툼을 모두 헌재에 제소할 수 있도록 했던 제2공화국 당시의 헌법재판소 권한과는 달리 현재 우리 헌법재판 시스템에서는 이 같은 사안을 다룰 수 있는 제도가 마련돼 있지 않다"고 설명했다.               &lt;/p&gt;&lt;p&gt;&lt;br /&gt;이 교수는 "민주당은 기본적으로 헌재의 권한 등 여러 사항에 비춰봤을 때 적절한 절차 수단이 없어 고육지책으로 '권한쟁의심판'이라는 표현을 쓰고 있는 것 같다"며 "원칙적으로 권한쟁의심판은 양 측에서 어떤 권한을 가지고 있는 상황에서 상대 측이 권한을 침해했다는 이유로 제기하는 것"이라고 밝혔다. 그는 "거부권 자체가 입법권에 속하는 '국회가 행사할 수 있는 권한'이라면 서로 다툼이 있을 수 있다고 말할 수 있겠지만, 거부권과 입법권 자체는 양립할 수 있는 권한"이라며 "거부권은 의회가 정한 입법안에 대해 대통령이 '거부할 수 있는 권한'이자 '전속돼 있는' 정당한 권한이기 때문에 국회의 입법권을 침해했다고 말할 수는 없다. 일단 민주당은 정치적 해법을 추구할 수밖에 없을 것"이라고 말했다.                  &lt;/p&gt;&lt;p&gt;&lt;br /&gt;한 로스쿨 헌법 전공 교수는 "특검법이라고 하는 것은 지금까지 여러 차례 반복됐고, 거부권이 행사된 적도 이미 여러 번 있었다"며 "이번 경우에 있어 '거부권을 행사하면 안 된다'고 얘기하는 것은 대통령의 부인인 김건희 여사를 대상으로 하기 때문에 안 된다고 주장하는 것도 나름 일리 있는 부분은 있지만, 총선을 앞두고 특검 진행 과정을 언론에 공개하는 부분 등도 역시 선례가 없기 때문에 거부권을 행사하겠다는 주장도 말이 된다"고 설명했다. 그러면서 "대통령이 부인과 관련한 법률안에 대해 거부권 행사하는 것을 두고 '거부권 행사의 오남용'이라는 측면에서 권한쟁의심판을 청구하는 것은 가능하지만, 이번 특검법은 내용상 문제로 인해 거부권을 행사할 수밖에 없다는 부분이 포인트가 될 것"이라며 "헌재에서 이에 대해 '거부권 행사의 오남용이 맞다'고 권한쟁의심판 청구가 받아들여질 가능성은 상대적으로 높지 않다고 보인다"고 전망했다.                     &lt;/p&gt;&lt;p&gt;&lt;br /&gt;전직 헌법연구관 출신 변호사도 "권한쟁의심판이라는 것은 헌법적 권한이나 법률적 권한에 대한 다툼이 있어야 되는 것인데, 사실 대통령이 거부권을 행사할 때 그걸 다투려는 측에서는 권한이 없기 때문에 그 부분을 '권한 침해'라고 주장하기가 어려운 측면이 있다"고 말했다. 그는 "민주당 측에서는 대통령이 본인의 가족 문제에 관해 거부권을 행사하는 것이 일종의 '제척 기피' 사유처럼 해야되는 것을 하지 않은 거 아니냐는 주장을 하고 있다"며 "물론 설득력 있는 측면이기는 하지만, '누구의 권한이 침해됐느냐'는 측면에서 논할 때는 권한쟁의심판으로 쟁점화 되기가 쉽지 않을 것으로 보인다"고 설명했다. 그러면서 "(민주당 입장에서는)대통령이 거부권을 행사할 때는 정당하게 행사해야지, 아무렇게 행사해서는 안 된다는 것을 강조하기 위한 정치적 차원의 움직임일 것"이라고 덧붙였다.                     &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Fri, 05 Jan 2024 09:38:52 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194735</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194735</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/186559(1).jpg</media:thumbnail>
+			<dc:creator>이용경 기자</dc:creator>
+		</item>
+		<item>
 			<title>檢 '이태원 참사' 서울경찰청장 기소여부 수사심의위 소집</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194755.jpg" alt="194755.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;검찰이 '이태원 참사'와 관련해 김광호 서울경찰청장과 최성범 용산소방서장을 기소할지에 대해 검찰수사심의위원회를 열어 심의하기로 했다.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;대검찰청은&lt;/b&gt; 5일 김 청장과 최 서장의 업무상 과실치사상 혐의에 대한 공소 제기 여부 안건을 수사심의위를 소집해 심의한다고 밝혔다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9175"&gt;이원석&lt;/span&gt;&amp;nbsp;검찰총장이 사건을 수사 중인 서울서부지검과 협의 후 직권으로 안건을 회부했다.&lt;br /&gt;&lt;br /&gt;수사심의위는 오는 15일 오후 2시 대검에서 비공개로 열린다.&lt;br /&gt;&lt;br /&gt;대검은 "이태원 참사의 중대성, 국민적 관심, 현재까지의 수사와 재판 경과, 업무상 과실 법리에 대한 다양한 의견, 업무상 과실과 관련한 국내외 사례와 최근 판결례 등을 고려한 것"이라고 설명했다. &lt;br /&gt;&lt;br /&gt;이어 "전원 외부 위원으로 구성된 수사심의위를 통해 검찰 외부의 전문가와 사건 관계인들의 다양한 의견을 경청하고, 충분한 숙의를 거치겠다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;수사심의위는 국민적 의혹이 제기되거나 사회적 이목이 쏠린 사건의 수사 과정을 심의하고 결과의 적법성을 평가하는 기구다. 법조계, 학계, 언론계, 시민단체 등 각계 전문가들로 구성되며 수사의 계속 여부나 기소 여부를 판단해 수사팀에 권고한다. &lt;br /&gt;&lt;br /&gt;주임 검사와 사건 관계인 등은 수사심의위에 의견서를 내거나 의견을 진술할 수 있다.&lt;br /&gt;&lt;br /&gt;김 청장과 최 서장은 2022년 10월 이태원 일대에 인파가 몰릴 것을 예상하고도 다중 운집 안전관리 대책을 수립하지 않아 참사 당일 사상자 규모를 키운 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;지난해 경찰 특별수사본부는 김 청장 등을 검찰에 불구속 송치했으나 사건을 넘겨받은 서울서부지검은 아직 기소 여부를 결론 내리지 않았다.</description>
 			<pubDate>Fri, 05 Jan 2024 05:34:05 -0000</pubDate>
@@ -182,66 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194690</guid>
 			<media:thumbnail>http://image.lawtimes.co.kr/images/194690.jpg</media:thumbnail>
 			<dc:creator>이용경 기자</dc:creator>
-		</item>
-		<item>
-			<title>[신년사] 이완섭 서산시장 "서산만의 새로운 길 열 것"</title>
-			<description>&lt;p style="text-align: center; "&gt;&lt;img src="http://image.lawtimes.co.kr/images/194688.jpg" alt="194688.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;이완섭 서산시장이 신년사에서 "서산만의 새로운 길을 열겠다"고 밝혔다. 이 시장은 2일 신년사를 통해 "2023년은 코로나19, 럼피스킨병 등 어느 하나 쉽지 않은 격동의 한 해였다"며 "이런 풍파 속에도 지역 축제를 성공적으로 치르는 등 성과를 이뤘다"고 말했다. 이 시장은 원스톱 민원서비스로 민원처리 속도를 평균 51% 단축했다고 보고했다.&lt;br /&gt;&lt;br /&gt;아래는 신년사 전문.&lt;br /&gt;&lt;br /&gt;갑진년(甲辰年) 희망찬 청룡의 새해가 밝았습니다.&lt;br /&gt;&lt;br /&gt;청룡은 용이 도를 깨우치면 비늘의 색이 변해 청룡이 된다고 합니다. 2024년은 도를 깨우친 청룡과 같이 그간의 허물을 벗고 높이 날아오르는 한 해 보내시길 기원합니다.&lt;br /&gt;&lt;br /&gt;돌이켜보면 2023년은 코로나19, 태풍 카눈, 럼피스킨, 버스 운행 중단 등 어느 하나 쉽지 않은 격동의 한 해였습니다. 하지만, 시민과 한마음이 되어 피해를 최소화했습니다. 함께했고 시민들의 관심과 성원이 있었기에 모든 산을 넘어낼 수 있었습니다. &lt;br /&gt;&lt;br /&gt;우리는 이러한 풍파 속에서도 수많은 성과를 이뤘습니다. 정부의 건전재정이라는 기조 속에도 본예산 1조1천452억 원을 편성했고, 정부예산은 무려 6천105억 원을 확보했습니다. 모두 역대 최대입니다. 획기적 민원처리시스템, ‘원스톱 민원서비스’는 평균 51%의 민원처리 단축률을 이끌며 시민 편의를 크게 높였습니다. 확 달라진 서산해미읍성축제와 국화축제 같은 대규모 행사도 성공리에 치러냈으며, 상급기관으로부터 받은 수많은 상으로 행정력도 입증했습니다.&lt;br /&gt;&lt;br /&gt;올해 5월에는 충남 최초 국제크루즈선이 운항하며, 서산의 미래를 열 서산공항은 2028년 개항을 목표로 정상 추진의 기반을 마련했습니다. 숙원사업인 서산~영덕 고속도로 대산~당진 구간은 첫삽을 떴고, 가로림만 국가해양생태공원도 순차적인 조성 단계 절차를 진행 중에 있습니다. 시의 얼굴 서산 시청사와 문화예술타운 건립은 순풍을 탔고, UAM, 2차전지, 수소 등 다양한 신산업은 서산의 미래를 환히 밝히고 있습니다.&lt;br /&gt;&lt;br /&gt;갑진년은 이보다 큰 성과를 이루는 성과창출의 원년(元年)이 될 것입니다. 극세척도(克世拓道)의 자세로 앞으로 닥쳐올 모든 어려움을 이겨내고 서산만의 새로운 길을 열어가겠습니다. 갑진년 새해는 늘 평안하시고 희망하시는 모든 일을 이루는 값진 한 해 되시길 기원합니다.</description>
-			<pubDate>Thu, 04 Jan 2024 13:41:14 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194688</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194688</guid>
-			<media:thumbnail>http://image.lawtimes.co.kr/images/194688.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>'청탁 뒷돈 수수' 홍만표 전 검사장, 복역 마친 후 변호사 활동 재개</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/194727.jpg" alt="194727.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;홍만표 변호사 &amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;정운호 전 네이처리퍼블릭 대표로부터 청탁 명목의 뒷돈을 받은 혐의로 2017년 실형이 확정돼 복역했던&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6109"&gt;홍만표&lt;/span&gt;(64·사법연수원 17기) 전 대검찰청 기획조정부장(검사장)이 최근 변호사 활동을 재개했다.&lt;p&gt;&lt;br /&gt;홍 전 검사장은 지난해 12월 27일자로 대한변호사협회 변호사 회원으로 등록됐다. 2017년 11월 대법원은 홍 전 검사장의 변호사법 위반 등의 혐의를 유죄로 판단, 징역 2년의 실형과 추징금 2억 원을 선고한 원심을 확정했다&lt;b&gt;(2017도9746)&lt;/b&gt;. 홍 전 검사장은 2018년 6월 형기가 종료돼 출소했으며 지난 6월 변호사 등록 자격을 회복했다. 변호사법은 변호사가 금고 이상의 형을 선고받은 경우 집행이 끝난 뒤 5년이 지날 때까지 등록 자격을 잃는다고 규정한다. 변협은 홍 전 검사장의 형기가 종료돼 거부 사유가 없다고 판단한 것으로 알려졌다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;홍 전 검사장은 변호사 활동을 시작한 직후인 2011년 9월 정운호 씨 측에서 네이처리퍼블릭의 지하철 매장 임대 사업과 관련한 공무원 청탁 대가 명목으로 2억 원을 받은 혐의(변호사법 위반)로 구속기소됐다. 2015년 8월 상습도박 혐의로 수사를 받던 정 전 대표로부터 수사 무마 청탁과 함께 3억 원을 수수한 혐의도 받았다. 2011년 9월부터 2015년 12월까지 수임 내역을 신고하지 않거나 축소해 신고하는 등의 방법으로 세금 약 13억 원을 포탈한 혐의(조세포탈)도 받았다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;1심 법원은 홍 전 검사장의 혐의를 모두 유죄로 판단해 징역 3년에 추징금 5억 원을 선고했다. 2심은 정 전 대표의 상습도박 수사무마 청탁 관련 혐의에 대해 "3억 원을 청탁 명목이라고 단정할 수 없다"며 무죄로 판단, 징역 2년과 추징금 2억 원으로 감형했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;검찰 재직 시절 '특수통'으로 꼽혔던 홍 전 검사장은 2009년 대검 중앙수사부가&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1463"&gt;노무현&lt;/span&gt;&amp;nbsp;전 대통령이 연루된 '박연차 게이트'를 수사할 당시 대검 수사기획관을 지냈다. 2010년 7월 대검 기획조정부장직을 끝으로 검찰을 떠난 홍 전 검사장은 이듬해 9월 변호사로 개업했다.&lt;/p&gt;</description>
-			<pubDate>Thu, 04 Jan 2024 11:54:00 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194727</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194727</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194727.jpg</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
-		</item>
-		<item>
-			<title>이원석 총장 "선거 관련 폭력범죄·허위사실 유포 등 철저 대비"</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/194725.jpg" alt="194725.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9175"&gt;이원석&lt;/span&gt;&amp;nbsp;검찰총장이 4월 총선을 앞두고 선거 관련 폭력 범죄에 대비하고 수사 역량을 집중하라고 4일 일선 검찰청에 지시했다.&lt;br /&gt;&lt;br /&gt;대검찰청에 따르면 이 총장은 전국 검찰청에 경찰, 선관위 등 유관기관과 긴밀한 협조체제를 구축해 선거 관련 범죄를 사전에 철저히 대비하고 관련 범죄 수사에 역량을 집중하라는 지시를 내렸다. &lt;br /&gt;&lt;br /&gt;선거 관련 범죄는 당선·낙선 또는 상대진영 혐오 등 정치적 동기에서 비롯된 선거 관련 폭력행위, 허위사실유포 및 흑색선전, 선거 관련 금품수수, 공무원·단체 등의 선거개입 등이다. &lt;br /&gt;&lt;br /&gt;총선을 앞두고 정치인 피습, 협박 등의 정치적 폭력범죄가 연이어 발생하고 있고 총선 관련 폭력사범이 지속 증가함에 따른 조치다. &lt;br /&gt;&lt;br /&gt;선거 관련 폭력 사범은 2021년 19대 총선 당시 81명이 입건되고 4명이 구속됐다. 2016년 20대 총선에서는 111명 입건에 7명 구속, 2020년 21대 총선에서는 244명 입건에 14명이 구속됐다. &lt;br /&gt;&lt;br /&gt;이 총장은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&lt;/span&gt;&amp;nbsp;더불어민주당 대표의 피습 사건이 발생한 1월 2일 부산지검에 특별수사팀을 구성하고 진상 규명을 지시한 바 있다.</description>
-			<pubDate>Thu, 04 Jan 2024 11:53:12 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194725</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194725</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194725.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>이재명 피습범, 구속영장 발부..."도망 염려 있어"</title>
-			<description>&lt;div class="cheditor-caption-wrapper"&gt;   &lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;      &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;         &lt;img src="https://image.lawtimes.co.kr/images/194722(2).jpg" alt="194722.jpg" /&gt;         &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;영장실질심사 마친 이재명 급습 피의자 &amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;   이재명&lt;/span&gt;(60·사법연수원 18기) 더불어민주당 대표를 피습한 혐의로 김모(67) 씨가 4일 구속됐다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11215"&gt;성기준&lt;/span&gt;&lt;b&gt;&amp;nbsp;부산지법 영장전담 부장판사&lt;/b&gt;는 이날 영장실질심사를 열고 살인미수 혐의로 김 씨의 구속영장을 발부했다. 법원은 20여분 간 영장실질심사를 진행한 뒤, 2시간 여만에 신속하게 구속영장을 발부했다. &lt;br /&gt;&lt;br /&gt;성 부장판사는 "범행 내용, 범행의 위험성과 중대성 등 모든 사정을 고려해 김 씨가 도망할 염려가 있다"고 영장 발부 이유를 밝혔다. &lt;br /&gt;&lt;br /&gt;김 씨는 영장실질심사에 앞서 범행동기를 묻는 취재진의 질문에 "경찰에 8쪽짜리 변명문을 제출했다. 그걸 참고해달라"고 말했다. 김 씨는 영장실질심사 전 유치장 안에서 삼국지를 읽은 것으로 알려졌다. &lt;br /&gt;&lt;br /&gt;전날인 3일 부산경찰청은 부산지검에 김씨에 대해 살인미수 혐의로 구속영장을 신청했고, 검찰은 같은 날 법원에 구속영장을 청구했다. &lt;br /&gt;&lt;br /&gt;경찰은 이날 충남 아산에 있는 김 씨 집과 공인중개사 사무소, 차량 등을 압수수색했다. 경찰은 압수수색을 통해 컴퓨터 3대와 휴대폰 3대, 칼 1개, 칼갈이 1개, 업무용 노트 1개, 정치적 내용이 적힌 플랜카드 4개 등  14점을 압수수색한 것으로 전해졌다. 또 국민의힘과 더불어민주당 등 정당 당원 명부를 받아 김 씨의 정당 가입 여부 등을 확인 중이다. &lt;br /&gt;&lt;br /&gt;김 씨는 2일 부산 가덕도 신공항 부지를 방문한 이 대표의 왼쪽 목을 흉기로 찔러 현장에서 경찰에 체포됐다. &lt;br /&gt;</description>
-			<pubDate>Thu, 04 Jan 2024 11:38:49 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194722</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194722</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194722(2).jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 한앤코, 홍원식 남양유업 회장 일가 상대 주식양도소송 최종 승소</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/194697.jpg" alt="194697.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;국내 사모펀드(PEF) 운용사 한앤컴퍼니(한앤코)가 남양유업 홍원식 회장 일가를 상대로 제기한 주식양도소송에서 최종 승소했다. 이에 따라 홍 회장 일가는 보유하고 있는 남양유업 주식 37만8938주(합계 지분율 52.36%)를 한앤코에 넘겨야 한다.&lt;p&gt;&lt;br /&gt;&lt;b&gt;대법원 민사2부(주심&amp;nbsp;&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5602"&gt;천대엽&lt;/span&gt;&lt;b&gt;&amp;nbsp;대법관)&lt;/b&gt;는 4일 한앤코(소송대리인 법무법인 화우&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="38100"&gt;강현명&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2582"&gt;김유범&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10019"&gt;박상재&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="20942"&gt;손태원&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8132"&gt;유정석&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8842"&gt;이민걸&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9280"&gt;이인복&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="22261"&gt;이지성&lt;/span&gt;&amp;nbsp;변호사)가 홍 회장 가족을 상대로 제기한 주식양도 소송 상고심에서 홍 회장 측의 상고를 기각하고 원고승소한 판결한 원심을 확정했다&lt;b&gt;(2023다225580)&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;한앤코는 2021년 5월 홍 회장 일가가 보유한 남양유업 지분 53.08%를 3107억 원에 인수하는 주식매매계약(SPA)을 맺었다. 당시 계약서에는 양측의 법률사무소 변호사들 이름과 지위는 기재돼 있지 않았고, 양측 법률사무소 변호사들이 직접 원·피고들 인장을 날인한 후 당사자들이 참석하지 않은 상태에서 서명페이지를 교환했다.&lt;br /&gt;이후 주식매매계약에 따라 확인실사 등이 진행됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;하지만 양측의 추가 협의가 결렬됐고, 홍 회장 측은 같은 해 9월 1일 돌연 계약 해지를 통보했다. 홍 회장 측은 "한앤코가 홍 회장을 고문으로 위촉해 보수를 지급하고 홍 회장 부부에게 임원진 예우를 해주기로 약속한 뒤 이를 이행하지 않았다"고 주장했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이에 한앤코는 "홍 회장 측이 일방적으로 계약 해지를 통보했다"며 홍 회장 일가를 상대로 주식양도 소송을 제기했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;1심은 계약상 문제가 없다며 홍 회장 측 주장을 배척하고 한앤코의 손을 들어줬다. 1심은 "피고 측 변호사 등에게 주식매매계약에 관한 대리권이 있었다거나 실제로 대리행위를 했다고 보기에 부족하다"며 "스스로 의사결정을 내린 적이 없어 피고 측의 사자(使者)로서 효과의사를 한앤코 측에게 전달·표현하거나 이를 보조하는 사실행위를 한 것"이라며 "피고 측 변호사 등이 대리인이 아닌 이상, 주식거래 자문은 변호사법 제31조 제1항에서 금지한 법률 사건에 해당하지 않는다"고 봤다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;2심도 1심이 타당하다고 판단해 원고승소한 1심 판결을 유지했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;2심은 "(양측 간 주식매매계약과 관련해) 홍 회장 측은 1심에서 자신들이 요구하는 수준의 가족 처우 보장에 관한 약정이 있었음을 전제로 주식매매계약에 대한 무효, 취소, 해제를 주장했다가 항소심에서는 주식매매계약과는 별개로 체결됐으나 불가분적으로 결합돼 있는 것으로서 거래종결 전까지 약정을 구체화하기로 한 사전합의가 이행되지 않았다는 것을 이유로 주식매매계약의 무효, 취소, 해제를 주장했다"며 "그러나 그 주장들은 형식에 있어 용어나 구성만 달리할 뿐 약정의 존재 및 그 불이행이 주식매매계약의 효력 등에 영향을 미친다는 것을 전제로 한다는 점에서 그 실질적 의미는 크게 다를 바가 없다"고 밝혔다. 이어 "홍 회장 측에서 변론재개 신청을 했으나 사안의 성격상 신속한 분쟁해결이 필요한 점, 홍 회장 측이 새로운 주장이라고 하는 주장은 그 실질적 의미가 기존 주장과 크게 다르지 않은 점 등을 고려해 변론재개신청은 받아들이지 않는다"고 설명했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;홍 회장 측은 이러한 2심 판단에 불복해 상고했으나 대법원은 홍 회장 측의 주장을 받아들이지 않았다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;재판부는 "법률행위의 체결 및 성립 여부에 관한 최종적인 결정 권한이 본인에게 유보돼 있다는 사정이 대리와 사자를 구별하는 결정적 기준이나 징표가 될 순 없다"며 "그 구별은 의사표시 해석과 관련된 문제로서, 행위자가 지칭한 자격·지위·역할에 관한 표시 내용, 행위자의 구체적 역할 등을 종합적으로 고려해 합리적으로 판단해야 한다"고 했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이어 "변호사가 각종 권리 의무의 발생과 법적 책임 등 복잡한 법률관계가 수반되는 당사자 사이의 계약 체결을 위한 일련의 교섭 과정에 어느 일방을 위한 자문의 역할로 개입한 경우, 그 행위가 대리에 해당하는지 혹은 단순한 사자에 불과한지 다퉈지는 경우에도 마찬가지"라고 밝혔다.&lt;/p&gt;</description>
-			<pubDate>Thu, 04 Jan 2024 11:29:35 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194697</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194697</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194697.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>檢, '수사관 뇌물' 혐의 SPC 본사 재차 압수수색</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/194704.jpg" alt="194704.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;SPC 대표이사가 검찰 수사관에게 뇌물을 건넨 혐의를 수사하는 검찰이 SPC 본사에 대한 추가 압수수색에 나섰다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;4일 &lt;b&gt;서울중앙지검 인권보호관실(&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10079"&gt;김형주&lt;/span&gt;&lt;b&gt;&amp;nbsp;부장검사)&lt;/b&gt;은 오전부터 서초구 양재동 SPC 본사 사무실 등에 검사와 수사관을 보내 관련 자료를 확보하고 있다.   &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;검찰은 허영인 SPC그룹 회장이 배임 등 혐의로 중앙지검 공정거래조사부의 수사를 받을 당시 황재복 SPC 대표이사가 검찰 수사관 A씨에게 수사 관련 정보를 빼내려는 목적으로 뇌물을 준 혐의를 수사하고 있다.      &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;허 회장은 2022년 12월 특정경제범죄 가중처벌법상 배임 혐의로 불구속기소됐다.         &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;뇌물공여 정황은 중앙지검 공공수사3부(임삼빈 부장검사)가 SPC그룹 계열사인 PB파트너즈의 '파리바게뜨 제빵기사에 대한 노조 탈퇴 강요 의혹'을 수사하던 중 포착된 것으로 알려졌다.            &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;황 대표는 PB파트너즈의 대표이사를 역임으며, 노조 탈퇴 강요 의혹과 관련해 피의자 신분으로 수사를 받고 있다.&lt;/p&gt;</description>
-			<pubDate>Thu, 04 Jan 2024 07:24:10 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194704</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194704</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194704.jpg</media:thumbnail>
-			<dc:creator>홍수정 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
