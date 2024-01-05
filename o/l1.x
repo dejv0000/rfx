@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>여당 공관위원장에 '판사 출신' 정영환 고려대 로스쿨 교수 내정</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/194770.gif" alt="194770.gif" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;국민의힘 총선 공천관리위원장에 판사 출신&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6587"&gt;정영환&lt;/span&gt;&lt;b&gt;(64·사법연수원 15기)&lt;/b&gt; 고려대 법학전문대학원 교수가 내정됐다.&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;" serial="5077"&gt;한동훈&lt;/span&gt;&amp;nbsp;비상대책위원장은 5일 수원에 있는 경기도당에서 기자들과 만나 정 교수의 공관위원장 내정 사실을 발표했다.      &lt;/p&gt;&lt;p&gt;&lt;br /&gt;한 위원장은 "정 교수는 공정한 법 연구로 유명하고, 좌우에 치우치지 않는 객관적인 판단으로 국민의힘에서 설득력 있고, 공정한 공천을 맡을 적임자라고 판단했다"고 했다.         &lt;/p&gt;&lt;p&gt;&lt;br /&gt;정 교수는 강원 강릉고와 고려대 법대를 졸업하고 제25회 사법시험에 합격, 사법연수원을 제15기로 수료한 뒤 부산지법 울산지원 판사로 임관했다. 이후 서울고법 판사, 대법원 재판연구관을 지낸 뒤 2000년 3월부터 변호사로 활동하다 2009년부터 고려대 로스쿨 교수로 재직하고 있다. 제15대 한국법학교수회 회장도 지냈다.         &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Fri, 05 Jan 2024 13:51:33 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194770</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194770</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/194770.gif</media:thumbnail>
+			<dc:creator>이용경 기자</dc:creator>
+		</item>
+		<item>
 			<title>尹, '쌍특검법' 거부권 행사… 취임 후 네 번째</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194744.jpg" alt="194744.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&lt;/span&gt;&amp;nbsp;대통령이 5일 '김건희 여사 특검법'과 '대장동 50억 클럽 의혹 특검법' 등 이른바 '쌍특검법'에 재의요구권(거부권)을 행사했다. 12월 28일 민주당 주도로 국회 본회의에서 법안이 통과된 지 8일 만이다.&lt;p&gt;   &lt;br /&gt;이날 대통령실은 "윤 대통령은 오늘 오전 국무총리 주재 임시 국무회의에서 의결된 '화천대유 50억 클럽 뇌물 의혹 사건의 진상규명을 위한 특별검사의 임명 등에 관한 법률안' 재의요구안, '대통령 배우자 김건희의 도이치모터스 주가조작 의혹 진상규명을 위한 특별검사 임명 등에 관한 법률안' 재의요구안을 재가했다"고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;앞서 정부는 오전 9시 한덕수 국무총리가 주재한 임시 국무회의에서 쌍특검법 재의요구안을 심의·의결했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;윤 대통령은 취임 후 지금까지 양곡관리법 개정안, 간호법 제정안, 노란봉투법 및 방송3법에 대해 거부권을 행사했다.&lt;/p&gt;</description>
 			<pubDate>Fri, 05 Jan 2024 11:01:32 -0000</pubDate>
@@ -232,16 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194714</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/19700.jpg</media:thumbnail>
 			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>'전두환 땅 55억 원 추징' 판결 확정</title>
-			<description>&lt;p style="text-align: center; "&gt;&lt;img src="http://image.lawtimes.co.kr/images/194690.jpg" alt="194690.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;고(故) 전두환 전 대통령의 마지막 추징금인 오산시 땅 매각대금 55억 원의 국고 환수가 확정됐다.&lt;p&gt;&lt;b&gt;&lt;br /&gt;서울고법 행정8-3부(신용호·정총령·조진구 부장판사)&lt;/b&gt;는 12월 8일 교보자산신탁이 한국자산관리공사(캠코)를 상대로 낸 공매대금 배분처분 취소소송&lt;b&gt;(2023누42203)&lt;/b&gt;에서 교보자산신탁의 항소를 기각하고 1심과 같이 원고패소 판결했다. 이 판결은 1, 2심에서 패소한 교보자산신탁이 상고를 포기하면서 같은 달 30일 확정됐다.   &lt;/p&gt;&lt;p&gt;&lt;br /&gt;앞서 대법원은 1997년 내란죄 등 혐의로 기소된 전 전 대통령에게 무기징역형과 추징금 2205억 원을 확정했다. 이후 전 전 대통령은 특별사면으로 석방됐지만, 추징금을 대부분 납부하지 않았다. 검찰은 2013년 6월 미납추징금특별환수팀을 구성해 다방면으로 은닉 자금을 추적했다. 이후 검찰이 전 전 대통령 일가가 신탁한 것으로 보이는 경기도 오산시 임야 5필지를 압류하고, 국세청 등이 2017년 해당 임야를 공매에 넘기자, 교보자산신탁은 이 압류처분을 취소해달라며 소송을 냈다. 또 필지 공매대금으로 75억6000만 원의 배분 결정이 나오자 5필지 중 3필지 공매대금에 대한 배분처분 취소소송도 냈다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;대법원은 2022년 7월 검찰의 압류 조치가 유효하다고 판단했다. 이에 서울중앙지검 범죄수익환수부는 소송이 제기되지 않은 2필지의 공매대금 약 20억5200만 원을 먼저 국고로 환수했다. 이번 소송은 배분처분 취소소송이 제기된 나머지 3필지 공매대금 약 55억 원에 대한 것이었다.         &lt;/p&gt;&lt;p&gt;&lt;br /&gt;교보자산신탁 패소로 판결이 확정되면서 55억 원에 대한 추징이 이뤄지면 총 추징 금액은 1337억6800만 원(환수율 60.7%)이 된다. 하지만 2021년 11월 전 전 대통령이 사망하면서 미납 추징금 집행 절차는 중단된 상태다. 현재 미납 추징금 867억 원은 소급 입법이 없다면, 환수가 불가능하다.         &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Thu, 04 Jan 2024 13:43:36 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194690</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194690</guid>
-			<media:thumbnail>http://image.lawtimes.co.kr/images/194690.jpg</media:thumbnail>
-			<dc:creator>이용경 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
