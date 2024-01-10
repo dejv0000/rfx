@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/opinion</link>
 		<language>ko</language>
 		<item>
+			<title>취재, 後 : '가인 법정변론 대회' 더 많은 참여 있기를</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/2023_reporter_yong.jpg" alt="2023_reporter_yong" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;매년 새해 법원에서는 '가인 법정변론 경연대회'라는 큰 행사가 열린다. 공판중심주의 강화에 따라 구두변론의 중요성이 높아진 상황에서 대법원 법원행정처가 주최하는 이 대회는 예비 법조인인 로스쿨 학생들이 학기 중 실무 경험을 쌓는 데 더없이 좋은 기회다.&lt;p&gt;   &lt;br /&gt;올해 15회를 맞이한 대회에서도 뛰어난 변론 실력을 갖춘 로스쿨 학생들이 저마다의 기량을 펼쳤다. 주어진 시간 안에 주장하고자 하는 논리를 거침없이 쏟아내는가 하면, 심사위원장(재판장)의 날카로운 질문에 잠시 머뭇거리다가도 이내 제 페이스를 되찾고 끝까지 변론을 마치는 모습도 눈에 띄었다. 현직 판사들의 칭찬도 쏟아졌다. 본선 심사위원으로 참여한 한 판사는 "아직 로스쿨에서 공부하고 있는 학생들임에도 탄탄한 주장을 펼치는 것을 보고 놀랐다"며 "특히 현장에서 이어지는 재판부의 질문에도 당황하지 않고 알맞은 답변을 내놓기도 해 앞으로가 기대되는 참가자들도 있었다"고 말했다. 또 다른 판사도 "모범답안에 거의 근접하게 변론한 팀도 있을 정도로 훌륭한 참가자들이 많았다"고 했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;한 가지 아쉬운 점은 예년에 비해 올해 대회 참여율이 다소 감소한 점이다. 2021년 375명, 2022년 414명, 2023년 438명으로 쭉 늘어나던 참여율이 올해 330명으로 25%나 줄어들었다. 로스쿨 학점 관리나 절반 안팎 수준으로 수렴한 변호사 시험 합격률도 로스쿨 학생들에게는 부담으로 다가올 것이다. 줄어든 참여율이 충분히 이해가 가능한 상황이다. 대회 직후 결선에서 수상한 한 로스쿨 학생도 "2학기 기말고사 일정과 겹치다 보니, 기말고사에 투자하기 위해 가인 변론대회에 참가하지 않는 경우가 있는 것 같다"고 말했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;로스쿨 재학 당시 대회에 참여했던 현직 법조인들은 모두 '잊을 수 없는 경험'이라고 말한다. 수상을 하지 못하더라도 참여만으로 충분히 의미가 있다는 취지였다. 지난 1회부터 14회 때까지 가인 변론대회에 출전한 로스쿨 학생들의 현재를 짚어본 바에 따르면, 대부분 법원, 검찰, 대형 로펌 등지에 진출해 활발히 활동하고 있었다. 로펌뿐만 아니라 대기업들도 가인 변론대회 출신자들을 대거 채용하겠다는 계획을 밝힌 만큼 로스쿨 학생들에게 말해주고 싶다. 내년에는 재학 중 동료들과 함께 경험할 수 있는 소중한 기회를 놓치지 말고 재능을 마음껏 펼쳐보라고.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Wed, 10 Jan 2024 21:08:46 -0000</pubDate>
+			<category>opinion</category>
+			<link>https://www.lawtimes.co.kr/opinion/194843</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/194843</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/2023_reporter_yong.jpg</media:thumbnail>
+			<dc:creator>이용경</dc:creator>
+		</item>
+		<item>
 			<title>서초포럼 : 수사지연으로 인한 피 말리는 고통 - 수사 진행 상황에 관하여 &lt;br&gt;
 충분한 정보 제공받지 못해 &lt;br&gt;
 적절한 대응 어려워 수사 불신</title>
@@ -102,16 +112,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/194730</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/2023n_100years_go.jpg</media:thumbnail>
 			<dc:creator>고승덕</dc:creator>
-		</item>
-		<item>
-			<title>취재, 後 : 한국 로펌, 어촌을 넘어 바다로 나가야 할 때</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="http://image.lawtimes.co.kr/images/2023_reporter_hong.jpg" alt="2023_reporter_hong" /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;작년 연초부터 법률신문은 한국 변호사 1인당 매출액이 10년째 제자리걸음이라는 취지의 기사를 보도했다. 2012년부터 2021년까지 한국 변호사 1인당 매출액은 2억 5000만원을 넘어서지 못하는 답보 상태였다. 같은 기간 한국 법률시장 규모는 3조 6069억에서 7조 7051억으로 커졌고 변호사 수는 1만 4534명에서 3만 1281명으로 불어났다. 그럼에도 실질 성장 지표인 1인당 매출액은 그대로였다. 급속한 양적 성장을 이룬 한국 법조계가 질적 도약까지 이뤘는지를 두고 의구심이 제기됐다. 동일한 지적은 하반기에 반복됐다. 지난해 10월 12일 자 법률신문 보도에 따르면, 2022년 한국 변호사 1인당 평균 매출액은 여전히 2.5억 원에 머물렀다. 몸집이 커가는 한국 법조계가 장기 정체 상태에 갇혀있다는 방증으로 여겨졌다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 같은 상황을 타개하기 위해 국내 로펌들은 다양한 자구책을 마련하며 돌파구를 찾았다. 전혀 다른 성격의 법률회사가 서로 손을 잡고, 새 구성원을 영입했다. 이달 송무에 강한 클라스와 자문에 강한 한결이 합병, ‘클라스한결’이 출범한 게 대표적 사례다. 지난해부터 통합을 추진해온 법무법인 린과 LKB는 올해 상반기를 목표로 합병을 준비 중이다. 국내 두 번째 합작법무법인 ‘베이커 앤 매켄지 앤 케이엘파트너스’는 글로벌 네트워크와 국제 업무 경험의 시너지를 기대하고 있다. 세종은 연초 위어드바이즈 소속 변호사 5명을 영입했다. 합쳐지고 포개어지는 로펌 내부의 개혁은 계속되고 있다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이제 큰 체구와 탄탄한 시스템을 갖춘 한국 법조계가 질적 도약을 시도할 때다. 지금 한국 변호사수는 3만 5000명에 육박한다. 지난해 12월 26일을 기준으로 대한변협 등록회원 수는 3만 4649명이다. 또 부가가치세 과세표준 신고액을 기준으로, 법률시장 규모는 2022년 처음 8조 원을 넘어섰다. 김·장 법률사무소는 지난해 12월 1일 창립 50주년을 맞았고, 화우도 지난 2월 창립 20주년을 기념했다. 어느덧 한국 법조계는 인재로 보나 역사로 보나 성숙 단계로 접어들었다. 대한민국 법조인들이 새로운 영토를 향해 힘차게 달려 나갈 준비는 끝났다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;도약과 발전은 생소하고 새로운 영역에서 시작될 것이다. 자료 검토부터 계약서 작성까지, 법률서비스 각 단계에서 촘촘하게 진행되는 AI·리걸테크 혁명도 한 사례다. 대형로펌이 아닌 중견로펌, 개인 변호사가 직접 해외에 진출해 크로스보더 딜에 도전하는 경우도 늘고 있다. 지금 법조계는 좁은 어촌을 지키는데 골몰하는 어부가 아니라, 넓은 바다로 진출하는 항해사의 등장을 기다리고 있다. 2024년은 한국 법조계가 양과 질의 성장이라는 두 마리 토끼를 모두 잡는 해가 되기를 고대한다.&lt;/p&gt;&lt;div id="__endic_crx__"&gt;   &lt;div class="css-diqpy0"&gt;&amp;nbsp;&lt;/div&gt;   &lt;/div&gt;</description>
-			<pubDate>Wed, 03 Jan 2024 22:35:48 -0000</pubDate>
-			<category>opinion</category>
-			<link>https://www.lawtimes.co.kr/opinion/194447</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/194447</guid>
-			<media:thumbnail>http://image.lawtimes.co.kr/images/2023_reporter_hong.jpg</media:thumbnail>
-			<dc:creator>홍수정</dc:creator>
 		</item>
 		<item>
 			<title>차병직 편집인 칼럼 : 새해 아침의 언덕에서 - 오늘날 전쟁은 선거제 정치 &lt;br&gt;
