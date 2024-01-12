@@ -72,6 +72,7 @@ def buildX(settings_item, art_items):
         bytesString = bytes(contents, encoding='utf-8')
         #i['description'] = '<![CDATA[' + bytesString.decode(encoding='utf-8') + ']]>'
         i['description'] = bytesString.decode(encoding='utf-8').replace('\n', '')
+        i['description'] = i['description'].replace('&amp;', '&')
         #<![CDATA[ this is <b>bold</b> ]]>
         datetime_str = i.pop('make_time' ,'')
         
