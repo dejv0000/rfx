@@ -6,6 +6,35 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 프리랜서 아나운서 일방적 계약해지… 대법원, "부당해고"</title>
+			<description>약 4년간 일하다 일방적으로 계약 해지를 통보받은 프리랜서 아나운서가 방송국을 상대로 낸 근로에 관한 소송에서 승소가 확정됐다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;&lt;b&gt;대법원 민사2부(주심&amp;nbsp;&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="873"&gt;민유숙&lt;/span&gt;&lt;b&gt;&amp;nbsp;대법관)&lt;/b&gt;는 12월 21일 A 씨(소송대리인 법무법인 중심 류재율 변호사)가 한국방송공사(KBS)를 상대로 낸 근로에 관한 소송&lt;b&gt;(2022다222225)&lt;/b&gt;에서 원고승소 판결한 원심을 확정했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;A 씨는 KBS와 근로계약을 체결하고 2015년 11월부터 2019년 7월까지 지역방송국에서 기상캐스터로 일하거나 TV·라디오 뉴스 등을 진행했다. 2018년 12월부터는 근로계약을 새로 체결하고 다른 지역방송국으로 옮겨 일했다. 해당 방송국의 인력 부족 때문이었다. 당시 계약서에는 계약 기간이 '2018년 12월부터 인력 충원 또는 프로그램 개편 시까지'라고 기재돼 있었다. 지역방송국은 이후 신규 인력을 채용한 뒤 A 씨에게 계약만료를 통보하고 2019년 7월 7일부터 업무에서 배제했다. 이에 A 씨는 소송을 냈다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;1심에서는 원고패소했다. 하지만 2심은 판단을 뒤집고 근로기준법상 근로자의 지위를 인정했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;2심은 "A  씨는 기간의 정함이 없는 근로계약을 체결한 근로자이고 피고가 기간만료 사유로 들고 있는 사유는 근로기준법상 '정당한 이유'에 해당하지 않아 부당해고로서 무효"라고 판결했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;또 A 씨가 대부분 방송국의 지휘·감독에 따라 정규직 아나운서들과 동일한 업무를 수행한 점, 방송국의 종속적인 관계에 있는 아나운서 직원이 아니라면 수행하지 않을 업무도 상당 부분 수행해온 점, 다른 방송에 출연하지 않고 회사에 전속돼 있었던 점, 근무 일정이나 장소를 방송국이 정했으며 방송 출연에 대한 대가로 급여를 받은 점 등을 판단 근거로 삼았다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;대법원도 이 같은 원심을 확정했다.&lt;/p&gt;</description>
+			<pubDate>Fri, 12 Jan 2024 03:11:38 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194948</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194948</guid>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] '바이든, 날리면' 비속어 논란, 법원 "MBC 정정보도해야"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="http://image.lawtimes.co.kr/images/194957.jpg" alt="194957.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;윤석열 대통령의 2022년 미국 방문 당시 불거진 MBC의 '바이든, 날리면' 자막 논란과 관련해 법원이 MBC 측에 정정보도를 하라고 선고했다.&amp;nbsp;&lt;p&gt;&lt;br /&gt;서울서부지법 민사12부(재판장 성시호 부장판사)는 외교부가 MBC를 상대로 낸 정정보도청구 소송 선고기일을 열고 이같이 판결했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;재판부는 "뉴스데스크 첫머리에 진행자로 하여금 정정보도문을 1회 낭독하게 하고, 낭독하는 동안 위 정정보도문 제목 보도문을 통상의 자막과 같이 표시하라"고 판시했다. 이같은 사항을 이행하지 않을 경우 이행할 때까지 하루 100만 원을 지급하라고 명령했다. 또 소송 비용은 MBC가 지급하도록 했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;재판부는 MBC 측에 논란이 된 윤 대통령의 비속어 발언 보도를 입증하기 위한 책임을 요구해 왔다. 대통령 발언에 대해 외교부가 정정보도청구 소송을 제기할 청구권이 있는지 당사자 적격성에 대한 문제도 쟁점이 됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;지난 2022년 9월 MBC는 윤 대통령의 뉴욕 순방 발언을 보도하며 "(미국) 국회에서 이 XX들이 승인 안 해주면 바이든은 쪽팔려서 어떡하나?"라는 내용의 자막을 달았다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;대통령실은 이후 윤 대통령이 '바이든'이 아니라 '날리면'이라고 했다고 주장했고 외교부는 보도와 관련해 언론중재위원회 절차를 밟았다. 그러나 MBC가 정정보도를 거부하며 외교부는 2022년 12월 정정보도 청구 소송을 냈다.&lt;/p&gt;</description>
+			<pubDate>Fri, 12 Jan 2024 03:06:52 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194957</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194957</guid>
+			<media:thumbnail>http://image.lawtimes.co.kr/images/194957.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
+			<title>'최태원-노소영 이혼 소송' 항소심 재판부 판사 돌연 별세</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="http://image.lawtimes.co.kr/images/강상욱-추모.jpg" alt="강상욱-추모.jpg" /&gt;&lt;/p&gt;&lt;p style="color: #3f3f3f; font-family: Gulim; font-size: 14px; letter-spacing: -0.65px;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style=""&gt;   &lt;span 맑은="" 고딕",="" "malgun="" gothic";="" font-size:="" 16px;"="" gothic";"="" style="letter-spacing: -0.65px; font-family: "&gt;강상욱(48·사법연수원 33기) 서울고등법원 고법판사가 11일 별세했다. 향년 48세.&lt;/span&gt;&lt;/p&gt;&lt;p style=""&gt;   &lt;span 맑은="" 고딕",="" "malgun="" gothic";="" font-size:="" 16px;"="" gothic";"="" style="letter-spacing: -0.65px; font-family: "&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=""&gt;   &lt;span 맑은="" 고딕",="" "malgun="" gothic";="" font-size:="" 16px;"="" gothic";"="" style="letter-spacing: -0.65px; font-family: "&gt;법률신문 취재에 따르면, 강 고법판사는 이날 서울 서초동에서 운동을 하던 중 갑자기 의식을 잃고 쓰러져 병원으로 이송됐다가 끝내 사망한 것으로 전해졌다. 서울 현대고를 졸업한 강 고법판사는 서울대 사법학과를 졸업하고 2001년 제43회 사법시험에 합격했다. 2004년 해군 법무관으로 군복무를 마친 뒤 의정부지법 판사로 임관해 서울중앙지법 판사, 대전지법 서산지원 판사, 대법원 재판연구관을 지냈다. 강 고법판사의 부친은 14대 국회의원을 역임한 법조 원로 강수림 변호사다. 강 고법판사는 법원에서 굵직한 사건에서 소신있는 판결을 하는 것으로 이름이 높았다. 이재용 삼성전자 회장의 '국정농단' 사건의 파기환송심의 주심을 맡기도 했다. 강 고법판사는 최근 서울고법 민사24부, 가사2부 소속으로 최근까지 최태원 SK그룹 회장과 노소영 아트센터 나비 관장의 이혼 소송 항소심 재판을 심리해 왔다.&lt;/span&gt;&lt;/p&gt;&lt;p style=""&gt;   &lt;span style="letter-spacing: -0.65px;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=""&gt;   &lt;span 맑은="" 고딕",="" "malgun="" gothic";="" font-size:="" 16px;"="" gothic";"="" style="letter-spacing: -0.65px; font-family: "&gt;강 고법판사의 갑작스러운 사망으로 최회장과 노관장의 이혼 소송의 재판부 변경도 불가피할 전망이다. 오는 2월 법관 정기인사가 예정돼 있는 시점에서 대직판사가 강 고법판사의 자리를 대체할 가능성이 점쳐진다. 한 고법판사는 "재판부 소속 판사가 사망해 업무에 공석이 생길 경우 사무분담에 관한 구체적 규정이 있는 것은 아니다"라며 "다만 정기인사 전까지는 해당 재판부에서도 선고해야 될 사건이 있는 만큼 수석부나 공보관 등이 재판부 대직을 할 가능성이 높다"고 말했다.&lt;/span&gt;&lt;/p&gt;&lt;p style=""&gt;   &lt;span 맑은="" 고딕",="" "malgun="" gothic";="" font-size:="" 16px;"="" gothic";"="" style="letter-spacing: -0.65px; font-family: "&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;   &lt;span style="letter-spacing: -0.65px;"&gt;강 고법판사의 연수원 동기들은 황망함을 감추지 못했다. 연수원 동기인 한 변호사는 "평소 몸을 아끼지 않고 일하는 스타일이었다"며 "동기들 사이에서도 항상 걱정이 많이 됐는데 이번 소식에 너무나 안타깝다"고 말했다. 또 다른 고법판사는 "평소&amp;nbsp;&lt;/span&gt;&lt;span style="letter-spacing: -0.65px;"&gt;운동을 많이 한 편으로 알고 있는데, 갑작스러운 소식에 황망하다"며 "정확하지는 않지만,&amp;nbsp;&lt;/span&gt;&lt;span style="letter-spacing: -0.65px;"&gt;심혈관 질환이 원인이 됐다고 들었다"고 했다.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="letter-spacing: -0.65px;"&gt;강 고법판사의 빈소는 서울성모장례식장에 마련됐다. 유족으로는 배우자 김지은 씨, 아들 현민, 딸 현유. 발인은 14일 오전 9시. 장지는 광주공원묘원이다.&lt;/span&gt;&lt;/p&gt;</description>
+			<pubDate>Fri, 12 Jan 2024 02:55:10 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/194956</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194956</guid>
+			<media:thumbnail>http://image.lawtimes.co.kr/images/강상욱-추모.jpg</media:thumbnail>
+			<dc:creator>이용경 기자</dc:creator>
+		</item>
+		<item>
 			<title>검찰, '감사원 간부 뇌물 사건' 공수처로 반려 "추가 수사 필요"</title>
 			<description>검찰이 고위공직자범죄수사처(공수처)가 보낸 감사원 3급 간부 뇌물수수 사건을 추가 수사하라고 돌려보냈다. &lt;br /&gt;&lt;br /&gt;서울중앙지검은 12일 "공수처로부터 송부받은 '감사원 고위공무원의 뇌물수수 등 사건'에 대한 관계서류와 증거물 일체를 다시 이송했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;공수처는 지난해 11월 24일 감사원 3급 간부 김모 씨와 김씨가 운영하는 A 주식회사의 명목상 대표이사였던 B씨를 특정범죄 가중처벌법상 뇌물과 특정경제범죄 가중처벌법상 횡령 혐의로 서울중앙지검에 공소제기를 요구했다.&lt;br /&gt;&lt;br /&gt;사건을 받은 서울중앙지검 형사5부는 공수처 수사 결과만으로는 기소 여부를 결정하기에 사실관계에 대한 증거 수집과 관련 법리에 대한 검토가 충분하지 않다고 판단했다.&lt;br /&gt;&lt;br /&gt;검찰은 "공수처의 법률적 지위와 성격을 고려하면 검찰에서 별도의 증거 수집이나 법리검토를 진행하여 범죄 혐의를 재검토하고 판단·결정하기보다는 공수처에서 추가 수사를 진행하여 증거를 수집하거나 법리를 재검토하는 것이 바람직하다"고 설명했다. &lt;br /&gt;</description>
 			<pubDate>Fri, 12 Jan 2024 02:45:37 -0000</pubDate>
@@ -205,36 +234,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194905</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/194905.jpg</media:thumbnail>
 			<dc:creator>홍윤지 기자</dc:creator>
-		</item>
-		<item>
-			<title>檢, '文 전 사위 채용 특혜 의혹'...최수규 전 중기부 차관 조사</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194916.jpg" alt="194916.jpg" /&gt;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1359"&gt;   &lt;p&gt;      &lt;span style="font-weight: bold;" class="lawmanlink" serial="1359"&gt;&lt;br /&gt;&lt;/span&gt;   &lt;/p&gt;   문재인&lt;/span&gt;&amp;nbsp;전 대통령 사위 특혜 채용 의혹을 수사하는 검찰이 최수규 전 중소벤처기업부 차관을 불러 조사하고 있다. &lt;br /&gt;&lt;br /&gt;전주지검 형사3부(&lt;span style="font-weight: bold;" class="lawmanlink" serial="14589"&gt;이승학&amp;nbsp;&lt;/span&gt;부장검사)는 11일 최 전 차관을 참고인 신분으로 소환 조사하고 있다. 검찰은 최 전 차관을 상대로 문재인정부 당시 이상직 전 의원이 중소벤처기업진흥공단(중진공) 이사장에 임명된 과정을 조사하는 것으로 전해졌다. &lt;br /&gt;&lt;br /&gt;검찰은 문 전 대통령의 사위였던 서모 씨가 항공업 경력이 전무한 채 2018년 7월 타이이스타젯 전무이사로 채용된 것과 그해 3월 이 전 의원이 중진공 이사장으로 임명된 것 사이에 대가성이 있는지 수사하고 있다. 타이이스타젯은 이스타항공 창업주인 이 전 의원이 소유한 회사다.&lt;br /&gt;&lt;br /&gt;검찰은 당시 청와대·중기부·인사혁신처 관계자들을 대상으로 이 전 의원 중진공 이사장 임명 과정에 부당하게 개입했는지 등을 살피고 있다. &lt;br /&gt;&lt;br /&gt;최 전 차관은 2017년 7월부터 홍종학 전 의원이 문재인정부 초대 중기부 장관으로 임명된 그해 11월까지 장관 직무를 대행했다. 권한 대행이 중단된 뒤 2018년 12월까지 차관 직무를 맡았다. &lt;br /&gt;&lt;br /&gt;서 씨에 대한 채용 특혜 의혹은 지난 2020년 당시 야당이었던 국민의힘이 제기했다. 이후 2021년 12월 시민단체 '정의로운 사람들'은 특정범죄 가중처벌법상 뇌물수수 혐의로 문 전 대통령을 검찰에 고발했다.</description>
-			<pubDate>Thu, 11 Jan 2024 07:42:56 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194916</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194916</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194916.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>검찰, '돈봉투 수수 의심' 의원들 추가 소환 검토</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194906.jpg" alt="194906.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;더불어민주당 전당대회 돈봉투 의혹을 수사하는 검찰이 수수자로 의심되는 민주당 현역 국회의원들의 추가 소환 조사를 준비하고 있다고 밝혔다. &lt;br /&gt;&lt;br /&gt;서울중앙지검 관계자는 11일 "사안의 진상을 명백히 규명하기 위해 계속해서 수수 혐의가 있는 다른 의원들을 상대로 출석 조사를 위한 구체적인 일정을 조율해 나가고 있다"고 말했다.&lt;br /&gt;&lt;br /&gt;검찰이 지금까지 돈봉투 수수 혐의를 특정해 압수수색 및 소환조사한 의원은 무소속 이성만 의원, 민주당 임종성, 허종식 의원 등 3명이다. &lt;br /&gt;&lt;br /&gt;검찰은 2021년 전당대회를 앞두고&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="159"&gt;송영길&lt;/span&gt;&amp;nbsp;전 대표의 당선을 위해 300만원씩 든 돈봉투 총 20개가 살포된 것으로 보고 있다. 아직  강제수사가 이뤄지지 않은 최대 17명의 현역 의원에 대해서도 소환이 이뤄질 가능성도 크다. &lt;br /&gt;&lt;br /&gt;검찰 관계자는 조사를 마친 의원들에 대한 신병 확보 시도 가능성에 대한 질문에 "조사 결과를 바탕으로 구체적인 처리 방향을 결정할 것"이라고 답했다.&lt;br /&gt;</description>
-			<pubDate>Thu, 11 Jan 2024 07:42:41 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194906</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194906</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194906.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 아동학대 의심돼 '자녀 가방'에 넣은 녹음기로 녹음… 대법, "증거능력 없다"</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194894.jpg" alt="194894.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;학부모가 아동학대를 의심해 아이 가방에 녹음기를 넣어 몰래 녹음한 내용을 증거로 삼을 수 없다는 대법원 판단이 나왔다. 수업 시간 중 교사가 교실에서 한 말을 상대방이 아닌 제3자(학생의 부모)가 녹음한 경우에는 통신비밀보호법상 '공개되지 아니한 타인 간의 대화 녹음'에 해당해 증거로 사용할 수 없다는 취지다.&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;대법원 형사1부(주심 오경미 대법관)&lt;/b&gt;는 11일 아동학대범죄처벌에 관한 특례법 위반 혐의 등으로 재판에 넘겨진 초등학교 교사 A 씨에게 벌금 500만 원을 선고한 원심을 파기환송했다&lt;b&gt;(2020도1538)&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;A 씨는 초등학교 3학년인 피해 아동에게 수업 시간 중 "○○이는 학교 안 다니다 온 애 같아. 학습 훈련이 전혀 안되어 있어"라는 말을 하는 등 정서적 학대행위를 한 혐의로 재판에 넘겨졌다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이번 사건의 쟁점은 학부모의 '몰래 녹음'이었다. 아동학대를 의심한 피해 아동의 학부모는 가방에 몰래 녹음기를 넣어 수업 내용 등 A 씨의 교실 내 발언을 녹음했다. 이후 피해 아동의 부모는 수사기관에 A 씨를 신고하면서 녹음파일과 녹취서 등을 수사기관에 제출했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;1심은 A 씨에게 징역 6개월에 집행유예 2년을 선고했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;하지만 2심에선 일부만 유죄가 인정돼 벌금 500만 원으로 형량이 낮아졌다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;재판 과정에선 해당 녹음파일이 통신비밀보호법 제14조 제1항의 '공개되지 아니한 타인 간의 대화를 녹음한 것'에 해당하여 증거능력이 부정되는지 여부가 쟁점이 됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;대법원은 이 사건 녹음파일 등은 통신비밀보호법 제14조 제1항을 위반해 공개되지 아니한 타인 간의 대화를 녹음한 것이므로, 통신비밀보호법 제14조 제2항 및 제4조에 따라 증거능력이 부정된다고 봐야 한다고 판시했다.&lt;/p&gt;&lt;p&gt;재판부는 "피해 아동의 부모가 몰래 녹음한 피고인의 수업 시간 중 발언은 '공개되지 않은 대화'에 해당한다"며 "A 씨의 발언은 특정된 30명의 학생들에게만 공개되었을 뿐, 일반 공중이나 불특정 다수에게 공개되지 않았으므로, 대화자 내지 청취자가 다수였다는 사정만으로 '공개된 대화'로 평가할 수는 없다"고 판단했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이어 "피해 아동의 부모는 A 씨의 수업 시간 중 발언의 상대방, 즉 대화에 원래부터 참여한 당사자에 해당하지 않기 때문에 이들이 몰래 녹음한 A 씨의 수업 시간 중 발언은 '타인 간의 대화'에 해당한다"고 부연했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;대법원 관계자는 "이번 판결은 유무죄에 관해 최종 판단을 한 것은 아니다"라며 "앞선 선에 따라 공개되지 않은 타인 간 대화의 증거 능력을 인정할 수 없다는 취지로, 해당 녹음파일의 증거 능력에 관한 법리 오해를 이유로 원심을 파기하는 것"이라고 말했다.&lt;/p&gt;</description>
-			<pubDate>Thu, 11 Jan 2024 07:42:09 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/194894</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/194894</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194894.jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
