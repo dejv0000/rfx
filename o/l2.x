@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/opinion</link>
 		<language>ko</language>
 		<item>
+			<title>박성민의 정치코멘터리 : 제3세력 빅텐트 성공할까</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/2023_commentary.jpg" alt="2023_commentary.jpg" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;예상대로 이낙연 민주당 전 대표도 탈당했습니다. 이로써 여·야 전 당 대표가 동시에 탈당하는 초유의 사태가 벌어졌습니다. 사실상 출당입니다. 윤석열 대통령과 이재명 대표는 국민의힘과 민주당을 ‘윤석열 당’과 ‘이재명 당’으로 만들기 위한 방향으로 일관되게 움직여 왔습니다. 장악력이 약하다는 방증입니다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;두 당 모두 내부 정적을 제거하는 데 온 힘을 쓰고 있습니다. 주 전선보다 ‘내전’에 더 집중하는 모습입니다. 주 전선은 일본과의 전쟁이지만 국민당과 공산당 사이의 내전이 더 중요했던 1920~1940년대 중국의 상황과 닮았습니다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;신당의 성공 여부는 일차적으로는 두 당에 달려 있습니다. 저는 두 당 대표가 탈당하기 전 네 가지 시나리오를 제시했습니다. ①최선 : 둘은 남고 당은 혁신하는 것 ②차선 : 둘이 나가고 당은 혁신하는 것 ③차악 : 둘은 남고 당은 혁신 못하는 것 ④최악 : 둘이 나가고 당 혁신은 없는 것입니다. 이제 ②와 ④만 남았습니다. 양당이 혁신하지 않을수록 신당의 성공 가능성은 올라갑니다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;두 당 대표는 나갔지만 당내에는 여전히 ‘비주류’가 많이 남았습니다. 이들을 제거하는 방향으로 공천이 진행될수록 신당의 파괴력은 커질 것입니다. 알버트 허쉬먼은 「Exit(이탈), Voice(항의) and Loyalty(충성)」에서 고객이 서비스에 불만이 생기는 경우 항의가 받아들여지면 계속 충성스러운 고객으로 남겠지만 그렇지 않으면 이탈할 수 있다고 분석했습니다. 국가·기업뿐 아니라 식당이나 정당에도 적용할 수 있습니다. 정당 지지층도 불만이 받아들여지지 않으면 이탈합니다. 대안이 있는 경우 이탈은 쉬운 선택입니다. 신당의 존재는 (당의 변화를 요구하면서) ‘항의’하는 ‘스윙보터’가 (혁신이 없는 경우 기존 정당으로부터) ‘이탈’할 동기가 됩니다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;신당의 성공은 세 가지에 달렸습니다. ①국민의힘과 민주당의 (인물) 혁신 여부 ②‘3번’ 빅텐트에 모두 모을 수 있는 리더십 ③대안으로 받아들여질 새로운 비전과 가치입니다. ①은 통제할 수 없지만 ②와 ③은 신당 추진 세력이 통제할 수 있습니다. ①은 윤석열 대통령과 이재명 대표가 당 장악을 위한 공천에 집착할수록 원심력이 커지면서 신당의 성공 가능성은 올라갈 것입니다. 그렇더라도 ①은 신당 성공의 필요조건일 뿐입니다. 충분조건은 ②와 ③입니다. 아직은 둘 다 안 보입니다. 그 난제를 풀 수 있느냐에 신당 성공이 달려 있습니다.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;박성민 대표 (정치컨설팅 민)&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Mon, 15 Jan 2024 00:35:14 -0000</pubDate>
+			<category>opinion</category>
+			<link>https://www.lawtimes.co.kr/opinion/194993</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/194993</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/2023_commentary.jpg</media:thumbnail>
+			<dc:creator>박성민</dc:creator>
+		</item>
+		<item>
 			<title>월요법창 : 타인의 이해</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194898.jpg" alt="194898.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;몇 년 전부터 출·퇴근 운전 시간에 오디오북을 듣는 취미가 생겼다. 평소 소설을 좋아하지만 일이 몰려 바쁠 때면 따로 책을 읽기 위한 시간을 내지 않고 운전 중에 그저 듣기만 하는 것으로도 좋다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;세상 누구에게나 공평한 게 있다면 삶은 유한하다는 점일 것이다. 생명은 태어나 한 번의 삶을 살 뿐이지 다른 인생을 살지 못한다. 그런데 소설은 다양한 형태의 삶을 살아 볼 수 있게 해준다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;요즈음 OTT 드라마는 아예 주인공을 다른 사람으로 환생시키곤 한다. 운전할 때면 소설 속 주인공의 인생을 간접이나마 경험하고 싶어 늘 청독을 하게 되는 것이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;성우의 낮고 부드러운 톤의 매력적인 동굴 목소리를 들으면서 주인공의 인생에 펼쳐지는 사건에는 ‘어떤 이유가 있지 않을까?’ 라는 생각을 해 본다. 그리고 이야기의 흐름 끝에 그 의미를 어렴풋이나마 알게 된다. 과학수사를 다룬 소설을 통해 검증의 결과를 더 잘 이해할 수 있기도 하고, 학교폭력을 다룬 소설이나 성장소설을 통해서 청소년들의 심리, 또래 문화, 피해자의 고통에 좀 더 세밀하게 다가갈 수 있게 된다. 다문화가족의 이야기, 조손가정, 청소년 부모, 자립준비 청년의 일상까지 다양한 삶을 일부라도 알 수 있는 기회가 주어져 단편적인 뉴스와는 다르게 소설을 통해 ‘삶’으로 바라볼 수 있게 된다. 이는 현실에서 변호사로서 피고인이나 의뢰인의 심정 내지 처지를 ‘이해’하는 데 많은 도움이 되곤 한다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;수사 참여나 재판 중에 사람을 이해해 보려고 노력하는 검사, 판사를 만나게 되면 뭔가 달라 보인다. 소년사건에서 그 소년에게 가장 힘들었던 점이 무엇인지 물어보고, 이전에 전과가 하나도 없었지만, 어느 순간부터 계속 범죄를 저지르는 피고인에게 어떤 특별한 일이 있었는지 질문을 할 때면 나는 그 분의 수사와 재판이 따듯하게 느껴진다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;어찌 보면 어떤 형태로든 사람을 만나 그들의 가장 힘든 시기를 같이하게 되는 게 법조인이다. 피고인이나 의뢰인의 인생을 이해한 변호사라면 그 사람을 위해 더 진솔한 변호를 할 수 있을 것이다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;적어도 그 사람을 이해하기 위한 노력을 했다면 자기가 맡은 일에 후회가 없도록 변론하고, 수사하고 재판했다는 기억이 남지 않을까. 누군가를 이해하기 위한 마음은 타인에게도 내게도 필요한 일이 아닐까 생각해 본다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;정소연 서울변호사회 변호사&lt;/b&gt;&lt;/p&gt;</description>
 			<pubDate>Sun, 14 Jan 2024 20:25:28 -0000</pubDate>
@@ -121,16 +131,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/194808</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/2023_lawsmart_jik.jpg</media:thumbnail>
 			<dc:creator>이상직</dc:creator>
-		</item>
-		<item>
-			<title>박성민의 정치코멘터리 : 총선 구도는 3~4자 가능성 80%… 제3지대 빅텐트 가능성도</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/2023_commentary.jpg" alt="2023_commentary.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이재명 민주당 대표가 칼로 목 부위를 찔리는 테러를 당했습니다. 자칫 목숨을 잃을 수도 있었습니다. 정치인은 갈등의 중심에 있고 대중에 둘러싸이는 직업이라 늘 위험하지만 최근에는 훨씬 심각합니다. 정치인 책임도 큽니다. 국민을 분열시키고 분노와 증오를 키우고 폭력을 조장하는데 정치인과 유튜버가 한 통속입니다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;언론도 책임이 큽니다. 명색이 중요 일간지 1면 헤드라인이 테러범 당적 캐기라니, 얼마나 참담한 수준입니까. 하기야 대통령들조차도 국민을 편 가르고 국민통합을 외면하는 판이니 말해 뭣하겠습니까. 갈등의 끝이어야 할 정치가 갈등의 시작인 현실이 정말 걱정입니다. 칼로 상대를 찔러 죽이는 ‘콜로세움’ 바이러스 팬데믹 세상이 되었습니다. 말로 상대를 이기는 ‘아고라’ 백신이 필요합니다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;세계화 이후 경제 양극화와 정치 양극화의 ‘이중 양극화’가 세상을 위험하게 만들었습니다. 경제 양극화가 포퓰리즘과 극단적 진영 싸움의 원인이라는 분석이지만 폴 크루그먼은 ‘진보의 확신’(미래를 말하다)에서 정치 양극화가 경제 양극화를 더 악화시킨다고 분석했습니다. 순수한 정책이나 예산도 (이재명 예산이니 윤석열 예산이니 등) 정치적 꼬리표가 붙는 순간 정쟁의 한복판에 놓입니다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이번 총선은 ‘끝나지 않은 대선’의 마지막 승부입니다. 재판으로 치면 1심(대선)과 2심(지방선거)을 진 민주당이 대법원(총선)에서 ‘파기 환송’을 받아낼지, 아니면 상고 기각으로 ‘원심 확정’이 될지 결정하는 선거입니다. 윤석열 대통령과 이재명 대표의 물러날 수 없는 마지막 승부입니다. 큰 전쟁을 앞둔 두 사람 모두 내전을 통해 전직 대표를 사실상 출당시켰습니다. 이준석 전 국민의힘 대표는 이미 탈당했고 이낙연 대표도 결국 탈당할 겁니다. 이재명 대표 피습 사건은 속도에만 영향을 미칠 것입니다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;저는 작년 국민의힘 전당대회 이후 줄곧 국민의힘은 김기현 대표 체제 붕괴와 비대위 전환이 가장 가능성이 큰 시나리오고, 민주당은 비대위 전환에 실패하고 결국 분열할 가능성이 가장 큰 시나리오로 예측했습니다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;총선 구도 예측도 했습니다. ①양자 구도 20% ②3자 구도 40% ④4자 구도 40%. 전직 당 대표가 이탈하는 현시점에서는 ①10% ②45% ③45% 정도로 예측합니다. 다음 주에는 제3지대 ‘빅텐트’ 가능성이 좀 더 명확해질 것입니다. 그 이후에는 (누가 이기느냐가 가장 관심사이니) 시시각각 변하는 판세 전망을 하겠습니다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;박성민 대표 (정치컨설팅 민)&lt;/b&gt;&lt;/p&gt;</description>
-			<pubDate>Sat, 06 Jan 2024 03:26:19 -0000</pubDate>
-			<category>opinion</category>
-			<link>https://www.lawtimes.co.kr/opinion/194741</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/194741</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/2023_commentary.jpg</media:thumbnail>
-			<dc:creator>박성민</dc:creator>
 		</item>
 	</channel>
 </rss>
