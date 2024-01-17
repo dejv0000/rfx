@@ -6,6 +6,54 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] '채널A 기자 명예훼손 혐의' 최강욱, 2심서 유죄…1심 무죄 뒤집혀</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/195082.jpg" alt="195082.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;이동재 전 채널A 기자의 명예를 훼손한 혐의로 1심에서 무죄를 선고받은 최강욱 전 의원이 2심에서 유죄를 선고받았다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;&lt;b&gt;서울중앙지법 형사5-2부(최태영·정덕수·구광현 부장판사)&lt;/b&gt;는 17일 정보통신망 이용촉진 및 정보보호 등에 관한 법률상 명예훼손 혐의로 기소된 최 전 의원의 항소심에서 벌금 1000만 원을 선고했다&lt;b&gt;(2022노2532)&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;재판부는  "글을 게시할 당시 그 내용이 허위라는 인식 내지 고의가 있었다"며 "게시글을 작성한 행위는 공공의 이익을 위한 비판을 넘어 피해자 비방 목적이 있었다고 인정된다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이어 "최 전 의원은 여론 형성에 기여하는 정치인으로서 신중한 발언을 인식했어야 한다"며 "이 사건 게시글로 여론 형성을 왜곡해 죄질이 좋지 않다"고 설명했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;최 전 의원은 2020년 4월 사회관계망서비스(SNS)에 '편지와 녹취록상 채널A 기자 발언 요지'라는 제목의 허위 사실 내용이 담긴 글을 올려 이 전 기자의 명예를 훼손한 혐의를 받는다. 당시 최 전 의원이 올린 글에는 이 전 기자가 이철 전 밸류인베스트코리아(VIK) 대표에게 '사실이 아니라도 좋다. 당신이 살려면 유시민에게 돈을 줬다고 해라', '검찰에 고소할 사람은 우리가 미리 준비해 뒀다'는 등의 발언을 했다는 내용이 담겼다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;검찰은 최 전 의원이 이 같은 허위 사실을 유포해 이 전 기자의 명예를 훼손했다고 보고 2021년 1월 최 전 의원을 불구속기소 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;최 전 의원 측은 "실제 제보받은 내용에 근거해 적은 글이며 이 전 기자 발언 요지를 전달하며 논평했을 뿐"이라며 명예훼손 혐의를 부인해 왔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이날 선고 직후 최 전 의원은 "당연히 대법원의 판단을 구할 것"이라며 상고 의사를 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이 전 기자는 "지난 총선 직전 정치인·언론·음모론자·사기꾼 ‘어벤져스’가 벌인 ‘권언유착 공작’에 대해 3년 9개월 만에 유죄가 선고됐다"며 "가짜뉴스는 인격을 살인하고 민주주의를 유린하는 최악의 범죄"라고 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Wed, 17 Jan 2024 06:05:11 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/195082</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195082</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/195082.jpg</media:thumbnail>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
+			<title>美 연방대법원, "애플 앱 개발사 '인앱 결제' 우회 안내 금지, 부정경쟁법 위반" 원심 판결 확정</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/195081.jpg" alt="195081.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;이용자에게 앱스토어 내부 결제 시스템만 이용하도록 한 애플의 '인앱 결제' 정책을 두고 애플과 게임 제작사 에픽게임즈가 벌여온 법정 다툼이 마무리됐다. 미 연방대법원은 "앱 개발사들이 이용자에게 애플의 인앱 결제를 우회해 콘텐츠를 구매할수 있도록 한 것을 금지한 애플의 정책은 부정경쟁법 위반"이라고 판결한 원심 판결을 확정했다.&lt;p&gt;   &lt;br /&gt;16일(현지시간) 로이터 등에 따르면 미 연방대법원은 이날 애플과 인기 게임 '포트나이트'의 제작사 에픽게임즈가 각각 제기한 상고를 모두 기각했다. 연방대법원은 상고 기각 이유에 대해서는 밝히지 않았다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;에픽게임즈는 지난 2020년 애플이나 구글을 거치지 않고 자체 결제 시스템을 이용하는 포트나이트 이용자에게 할인을 제공했다. 애플은 "아이폰 사용자에게 애플 자체 앱 마켓인 앱스토어에서만 결제를 하도록 하는 정책에 위반된다"며 에픽게임즈의 할인 정책에 대해 반발했고 포트나이트를 앱스토어에서 제거했다. 이에 에픽게임즈는 애플과 구글을 반독점법 위반 혐의로 고소했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;애플과 구글은 유료 콘텐츠를 결제할 때 자체 앱 마켓인 앱스토어 또는 구글 플레이스토어를 사용하도록 하고, 이 과정에서 최대 30%의 수수료를 부과하고 있다. 애플과 구글의 이 같은 정책에 대해 "앱 개발사와 콘텐츠 제공자들의 수수료 부담으로 소비자 이용료 인상이 불가피하다"는 거센 비판을 받았다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;1심과 2심은 "애플이 모바일 게임 시장에서 독점권을 갖고 있지 않으므로 인앱 결제 정책은 반독점법을 위반하지 않는다"고 판단, 10개 쟁점 가운데 9개에 대해 애플의 손을 들어줬다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;  &lt;br /&gt;원심은 다만 앱 개발사가 고객에게 '애플 앱스토어 결제시 30%의 수수료가 부과된다'고 안내하는 것을 금지한 애플의 정책은 캘리포니아주 부정경쟁법을 위반했다며 에픽게임즈 측의 주장을 일부 인용했다. 또 애플은 앱 개발사들이 자체 결제 시스템을 도입할 수 있도록 외부 결제용 링크를 앱 안에 넣는 것을 허용하라고 명령했다. 앱스토어 바깥 결제를 허용하지 않는 것은 경쟁을 제한한다고 판단한 것이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;애플과 에픽게임즈는 원심에 불복해 각각 상고를 제기했지만 미 연방대법원이 기각하면서 원심 판결이 확정됐다. 이로써 애플은 앱스토어 외 다른 결제 시스템도 허용하게 됐다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;다만 인앱 결제를 둘러싼 논란은 지속될 것으로 보인다. 에픽게임즈 최고경영자(CEO) 팀 스위니는 이날 판결 이후 X(옛 트위터)에 "애플이 법원의 명령에 대해 악의적인 '규정 준수(compliance)' 계획을 제출했다"며 애플이 제3자 결제를 여전히 방해하고 있다고 주장했다. 애플이 외부 결제에도 수수료 27%를 부과할 예정이라 발표했으며, 외부 결제 페이지로 이동할 경우 이용자가 로그인을 다시 한 후 구매하려고 하는 상품까지 다시 찾아야 하는 불편함이 생기도록 의도했다는 것이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;한편 에픽게임즈는 지난해 말 구글의 인앱 결제 정책에 대한 소송 1심에서 배심원단 전원 일치 평결로 승소했다.&lt;/p&gt;</description>
+			<pubDate>Wed, 17 Jan 2024 06:03:23 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/195081</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195081</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/195081.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] "文 4·3추념사 명예훼손 아냐" 이승만기념사업회 2심도 패소</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/195078.jpg" alt="195078.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;이승만 건국대통령 기념사업회와 4·3 사건 당시 사망한 제주 함덕지서 경찰관 유족이 문재인 전 대통령의 4·3사건 추념사로 명예가 훼손됐다며 위자료 청구 소송을 냈지만 항소심에서도 패소했다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;   &lt;b&gt;서울고법 민사34-2부(김경란·권혁중·이재영 부장판사)&lt;/b&gt;는 17일 사단법인 이승만건국대통령기념사업회와 경찰관 유족이 문 전 대통령을 상대로 낸 위자료 등 청구 소송&lt;b&gt;(2023나2029964) &lt;/b&gt;항소심에서 1심과 같이 원고패소 판결했다.&lt;br /&gt;앞서 사업회와 유족은 문 전 대통령이 2020년, 2021년 4·3사건 희생자 추념사에서 공산세력을 미화하고, 진압을 지시한 이승만 전 대통령과 진압에 동원된 군경을 살인범으로 매도하는 등 자신들의 명예를 훼손했다며 2021년 8월 정신적 손해에 관한 위자료를 지급하라는 소송을 제기했다. 이들은 위자료로 각 1000만 원을 청구했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;하지만 1심은 지난해 6월 "문 전 대통령이 추념사에서 사업회 등과 관련된 사실을 적시하거나 이 전 대통령, 피해 경찰관의 사회적 평가를 침해할 정도로 구체적 표현을 한 사실이 없다"며 "문 전 대통령이 이들의 명예를 훼손했다고 보기 어렵다"고 판단해 원고패소 판결했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;사업회와 유족은 1심 판결에 불복해 항소했지만, 항소심은 이를 기각했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Wed, 17 Jan 2024 06:01:45 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/195078</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195078</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/195078.jpg</media:thumbnail>
+			<dc:creator>이용경 기자</dc:creator>
+		</item>
+		<item>
+			<title>국민권익위, "건축물 현황도 오류, 행정청이 적극 변경해야"</title>
+			<description>건축물 현황도가 실제 소유현황과 일치하지 않아 경매 절차가 중단됐다면 근저당권자 등의 동의가 없더라도 행정청이 이를 바로잡아야 한다는 결정이 나왔다.&lt;p&gt;&amp;nbsp;   &lt;p&gt;건축물 현황도는 건축물의 배치현황, 대지 안 옥외주차현황, 대지에 직접 접한 도로를 포함한 도면을 말한다.&lt;br /&gt;국민권익위원회(위원장 유철환)는 17일 다세대주택 소유자들이 현황도 변경신청을 한 경우 근저당권자 등의 동의가 없더라도 건축물 현황도를 변경해야 한다고 판단했다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;건축주는 1994년 인천광역시 남동구에 다세대주택 1동(8세대)과 바로 옆 2동(8세대)을 동시에 신축했는데 건축물대장에는 1동과 2동이 서로 뒤바뀐 현황도가 첨부됐다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;이후 주택에 대한 강제경매를 진행하는 과정에서 법원이 이러한 오류를 확인하고 건축물 현황도를 일치시키도록 보정명령을 내렸다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp; &lt;br /&gt;주택 소유자들은 건물 현황도 1동을 2동으로, 2동을 1동으로 변경해 달라고 남동구청에 요구했다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;남동구청은 "소유자들 외 근저당권자 등 다른 권리관계자 전원의 동의서가 제출되지 않았다"며 건축물 현황도를 변경해주지 않았다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;경매 절차를 진행했던 A씨는 "경매 절차가 조속히 진행될 수 있도록 건축물 현황도를 변경해달라"며 국민권익위에 고충민원을 제기했다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;국민권익위의 조사 결과, 건축물 현황도를 변경하는 것은 오류를 바로잡아 실제 소유현황에 부합하게 하는 것으로 1동과 2동 각 층 면적과 공시가격이 같고 담보가치에도 차이가 없었다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;김태규(57·사법연수원 28기) 국민권익위 부위원장은 "건축물 현황도에 오류가 있는 경우 지방자치단체가 이를 적극적으로 바로잡아야 한다"며 "앞으로도 행정청이 국민의 눈높이에서 적극행정을 할 수 있도록 최선을 다하겠다"고 말했다.&lt;/p&gt;   &lt;/p&gt;</description>
+			<pubDate>Wed, 17 Jan 2024 06:01:21 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/195080</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195080</guid>
+			<dc:creator>이순규 기자</dc:creator>
+		</item>
+		<item>
+			<title>2025학년도 법학적성시험(LEET), 7월 21일 시행</title>
+			<description>법학전문대학원협의회(이사장 이상경)는 2025학년도 법학적성시험(LEET, Legal Education Eligibility Test)을 오는 7월 21일 시행한다고 17일 밝혔다.&lt;p&gt;원서 접수는 5월 27일부터 6월 5일까지 실시한다. 원서 접수는 법학적성시험 홈페이지(https://leet.uwayapply.com)를 통해서만 가능하다. 수험생은 원서를 접수할 때 서울·수원·부산·대구·광주·전주·대전·춘천·제주 등 9개 지구 중 하나를 선택해야 한다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;문제 및 정답은 시험 종료 후 24시간 이내에 홈페이지에 게재되며 이의 신청 접수 및 심사를 통해 최종정답을 확정·발표한다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;응시수수료는 24만8000원이다. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;기초생활수급자와 차상위계층 등 경제적 취약계층은 무료다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;성적은 8월 20일 오전 10시에 발표될 예정이다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;LEET 성적은 로스쿨 입학전형 필수자료로 당해 학년도에 한해 활용되며 성적의 반영방법 및 비율 등은 개별 로스쿨에서 결정한다.&lt;/p&gt;</description>
+			<pubDate>Wed, 17 Jan 2024 05:58:33 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/195077</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195077</guid>
+			<dc:creator>이순규 기자</dc:creator>
+		</item>
+		<item>
 			<title>[단독] 아이브 장원영, 유튜버 탈덕수용소 상대 1억 손배소 승소</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/195076_1.jpg" alt="195076_1.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;그룹 아이브의 장원영과 소속사 스타쉽엔터테인먼트가 유튜버 탈덕수용소 박모씨를 상대로 낸 손해배상청구에서 승소했다. &lt;br /&gt;&lt;br /&gt;서울중앙지법 제210민사단독(&lt;span style="font-weight: bold;" class="lawmanlink" serial="432"&gt;박지원 부장판사)은&lt;/span&gt;&amp;nbsp;지난달 21일 장원영과 스타쉽엔터가 박 씨(탈덕수용소)를 상대로 제기한 1억 원의 손해배상소송에서 원고 일부 승소로 판결했다. &lt;br /&gt;&lt;br /&gt;재판부는 1억 및 이에 대해 "다 갚는 날 까지 연 12%의 각 비율로 계산한 돈을 지급하라"고 주문했다. 박 씨는 이자뿐만 아니라 소송 중 법원에 들어간 비용도 별도로 부담해야 한다. &lt;br /&gt;&lt;br /&gt;장원영은 지난해 10월 손해배상 소송을 제기했다. 장원영의 변호사는 탈덕수용소에 올라온 내용은 전부 허위사실 또는 인격 모독 수준의 모욕으로 일관된 내용으로 구성됐다며 박 씨가 유튜브 채널에 올린 영상들이 허위라는 증거를 제출했다. 변호사는 "이는 민사적으로 명백한 불법행위이고 형사적으로도 명예훼손, 모욕 등에 해당한다"고 밝혔다. &lt;br /&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;탈덕수용소는 장원영과 관련된 영상을 짜깁기해 악성 루머를 유포했다. 장원영이 걸그룹 멤버와 싸워 고소를 당했다거나 남자 연예인과 치정에 얽혔다는 허위사실들이었다. 장원영에 인성에 문제가 있다는 둥 비방하는 내용의 영상을 대량 유포했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;장원영과 스타쉽엔터는 박 씨를 손해배상청구 외에도 명예훼손, 모욕죄 등의 혐의로 고소했다. 해당 사건은 강남경찰서가 수사했고 최근 검찰로 송치됐다. 또 스타쉽엔터의 명예훼손과 장원영에 대한 허위사실로 스타쉽엔터의 업무를 방해한 것에 대해서도 별도의 소송이 진행 중이다.&lt;/p&gt;&lt;br /&gt;박 씨는 이번 민사소송과 피소된 형사사건에서 "허위사실인 줄 몰랐다"거나 "연예인에 대한 알 권리"라는 주장을 펼쳤다. 장원영의 변호사는 "공익적 목적을 위해 올린 영상이기 때문에 위법성이 조각된다는 주장까지 펼친 것에 대해 아티스트와 소속사는 참을 수 없는 분노를 느낀다"고 말했다. &lt;br /&gt;&lt;br /&gt;루머로 이뤄진 영상으로 인해 장원영 뿐만 아니라 제물이 된 타 연예인까지 정신적 고통을 받았고 연예 활동에도 지장이 있었다는 것이 장원영 측의 주장이다. 변호사는 "박 씨는 동영상 제작과 편집을 통해 수익 창출을 꾀하고 그 불법성의 정도는 훨씬 중대하다"고 강조했다. &lt;br /&gt;&lt;br /&gt;한편 스타쉽엔터는 지난해 미국 법원으로부터 박 씨의 신상을 받아냈고, 고소장을 제출했다. 박 씨는 사과문과 함께 탈덕수용소 계정을 삭제했지만 스타쉽은 소송을 계속 진행해왔다. 장원영 측의 승소로 해외 사이트라는 점을 방패 삼아 유명인들을 모욕하던 유튜버들은 더는 법망을 피할 수 없게 됐다.</description>
 			<pubDate>Wed, 17 Jan 2024 02:14:03 -0000</pubDate>
@@ -187,56 +235,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195041</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/195041.jpg</media:thumbnail>
 			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무부 "첫 컴퓨터 작성 방식 도입한 변호사시험 성공적 마무리"</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/195040.jpg" alt="195040.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무부가 첫 컴퓨터 작성 방식(CBT·Computer Based Test)을 도입한 제13회 변호사시험을 성공적으로 마무리했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;법무부는 이달 9일부터 13일까지 5일간 제13회 변호사시험을 전국 25개 로스쿨 소재 시험장에서 시행했다. 이번 변호사시험은 논술형 국가시험 중 최초로 CBT 방식이 도입됐다. 지난해 7월 변호사시험에 CBT 방식을 도입하기로 결정한 뒤 1년 6개월 만이다.&lt;br /&gt;&lt;br /&gt;이번 변호사시험에서 응시자는 수기(手記) 방식과 CBT 방식을 선택할 수 있었다. 응시자 총 3290명 가운데 99.2%인 3264명이 CBT 방식을 택해 시험을 치렀다.&lt;br /&gt;&lt;br /&gt;법무부는 그간 전국 25개 로스쿨과 협조해 시험장에 네트워크를 설치하고, CBT 방식 전국 모의시험 실시, 네트워크 반복 점검 및 시험장 보안 강화, 전문 인력 투입 등 철저한 사전 준비를 통해 성공적으로 시험을 마무리했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;법무부는 이번 시험에서 프로그램과 네트워크 오류는 전혀 없었다고 설명했다. 일부 노트북에서 마우스 등 기계 오작동, 응시생의 조작 실수 등 기능상 문제가 발생했지만 신속한 현장 대응을 통해 안정적으로 시험을 마쳤다고 덧붙였다.&lt;br /&gt;&lt;br /&gt;법무부는 수기 방식을 택한 응시자를 위해 전국 5대 광역권에 시험장을 설치해 수기 방식의 시험을 치를 수 있도록 했다.&lt;br /&gt;&lt;br /&gt;장애 응시자에게는 공정한 기회 제공을 위해 시험시간을 늘리고, 장애 응시자 25명 모두에게 희망하는 시험장을 배정했다.&lt;br /&gt;&lt;br /&gt;법무부는 오는 4월 19일 변호사시험 관리위원회를 열고 최종 합격자를 결정해 발표할 예정이다. 앞서 지난해 11월 변호사시험 관리위원회는 '제13회 변호사시험의 합격자는 1730명 내외로 하되 응시인원, 동점자 등을 고려해 결정한다'고 심의·의결했다.</description>
-			<pubDate>Tue, 16 Jan 2024 02:39:47 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195040</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195040</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/195040.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>檢, '文 정부 통계조작 의혹'...김현미 前 국토부 장관 소환 조사</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/195042(1).jpg" alt="195042.jpg" /&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 400px;"&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;김현미 전 국토교통부 장관(2020년 11월) &amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김현미 전 국토교통부 장관이 문재인정부의 통계조작 의혹과 관련해 검찰에 출석해 조사받고 있다.&lt;br /&gt;&lt;br /&gt;대전지검 형사 4부(&lt;span style="font-weight: bold;" class="lawmanlink" serial="14837"&gt;송봉준&lt;/span&gt;&amp;nbsp;부장검사)는 16일 김 전 장관을 피의자 신분으로 불러 조사하고 있다.&lt;br /&gt;&lt;br /&gt;검찰은 김 전 장관이 재직 당시 국토부가 산하 기관인 한국부동산원에 통계조작을 압박한 데에 관여한 것으로 의심한다. 김 전 장관은 2017년 6월부터 2020년 12월까지 국토부 장관으로 재직했다.&lt;br /&gt;&lt;br /&gt;앞서 검찰은 지난해 9월 감사원으로부터 수사 의뢰를 받아 이 사건 수사에 착수했다. 감사원은 문재인 정부가 2017년부터 2021년까지 집값, 소득, 고용 관련 통계에 개입해 정권에 유리한 방향으로 조작한 것으로 보고 장하성, 김수현, 김상조, 이호승 등 전임 정부 정책실장 4명과 김 전 장관을 비롯한 전·현직 공무원 22명을 직권남용 등 혐의로 검찰에 수사 의뢰했다.&lt;br /&gt;&lt;br /&gt;검찰은 관련자에 대한 첫 신병 확보에 실패했지만, 윗선 수사를 이어나갈 것으로 보인다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;검찰은 2일 윤성원 전 국토교통부 차관과 이문기 전 행정중심복합도시건설청장에 대해 구속영장을 청구했지만, 법원은 8일 이를 기각했다.&lt;/p&gt;</description>
-			<pubDate>Tue, 16 Jan 2024 02:37:45 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195042</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195042</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/195042(1).jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>고려대 로스쿨, 'ESEL 데이터·AI법 전문과정' 2기 모집</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/195039.jpg" alt="195039.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;고려대 로스쿨이 ESEL 데이터와 인공지능법 전문과정을 개설하고 수강생을 모집한다.&lt;br /&gt;&lt;br /&gt;'ESEL 데이터·AI법 전문과정'은 디지털 대전환에서 비롯하는 법적 과제와 문제를 다루는 강좌다.&lt;br /&gt;&lt;br /&gt;지원 자격은 국가, 공공기관, 로펌 등 사회 각 분야에서 데이터와 인공지능에 관한 업무를 담당하는 이다. 교육은 4월 16일부터 화요일마다 고려대 CJ법학관에서 진행된다.&lt;br /&gt;&lt;br /&gt;접수 기간은 2월 1일부터 28일까지다. 고려대 로스쿨 홈페이지에서 원서를 다운로드 받아 이메일이나 우편, 방문 접수하면 된다.</description>
-			<pubDate>Tue, 16 Jan 2024 02:10:55 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195039</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195039</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/195039.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>"안 죄송해"…경복궁 낙서 테러 모방범, 구속기소</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;div class="cheditor-caption-wrapper"&gt;      &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/195017(1).jpg" alt="195017.jpg" /&gt;         &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;경복궁 담장 낙서 모방범, 지난해 12월 영장실질심사 당시 모습. &amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;         &lt;/figure&gt;      &lt;/div&gt;   &lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;   &lt;/div&gt;&lt;p&gt;경복궁 담장 낙서 범죄를 모방해 낙서 테러를 저지른 20대 남성이 구속 상태로 재판에 넘겨졌다.&lt;/p&gt;&lt;br /&gt;서울중앙지검 형사6부(부장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11390"&gt;정지은&lt;/span&gt;)는 "지난해 12월 국가지정문화재인 경복궁 서문(영추문)의 좌측 돌담에 붉은색 스프레이로 낙서를 한 20대 남성 설모씨를 문화재보호법위반 혐의로 구속기소했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;설 씨는 사건 범행 전날 10대 청소년들이 같은 장소에서 저지른 유사 범행을 기사로 알게 된 뒤 자신도 사람들의 관심을 받고자 범행을 저지른 것으로 확인됐다. &lt;br /&gt;&lt;br /&gt;설 씨는 경복궁 영추문 부근 담벼락에 붉은색  스프레이로 특정 가수의 이름과 앨범 제목 등을 가로 3m, 세로 1.8m 크기로 적은 혐의를 받는다. 설 씨는 범행 후 자신의 블로그에 "그저 낙서일 뿐"이라며 "미스치프의 말처럼 미스치프가 말하는 짓궂은 장난을 좀 치고 싶었다. 죄송하다. 아니 안 죄송하다. 전 예술을 한 것뿐이에요"라고 남겨 논란이 됐다. &lt;br /&gt;&lt;br /&gt;검찰 관계자는 "문화재를 훼손하여 국민적 공분을 일으킨 피고인에게 죄에 상응하는 형이 선고되고 피해 회복이 이루어질 수 있도록 최선을 다하겠다"고 전했다. &lt;br /&gt;</description>
-			<pubDate>Tue, 16 Jan 2024 00:32:12 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195017</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195017</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/195017(1).jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>'김용 재판 위증교사' 이재명 캠프 관계자들 구속 "증거인멸 우려"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/195028.jpg" alt="195028.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;'김용 재판 위증교사' 전 이재명 대선캠프 관계자 2명 영장심사 &amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김용 전 민주연구원 부원장의 재판에서 '거짓 알리바이' 증언을 종용한 혐의를 받는 이재명 더불어민주당 대표 대선캠프 관계자들이 구속됐다. &lt;br /&gt;&lt;br /&gt;서울중앙지법&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7558"&gt;이민수&amp;nbsp;&lt;/span&gt;영장전담 부장판사는 이날 이 대표 대선 선거대책위원회 상황실장 출신 박모씨와 서모씨에 대한 영장실질심사를 진행한 뒤 "증거인멸 염려가 있다"며 구속영장을 발부했다.&lt;br /&gt;&lt;br /&gt;이들은 김 전 부위원장의 정치자금법위반사건 재판에서 '김용의 알리바이'와 관련된 위증을 교사한 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;검찰에 따르면 박 씨와 서 씨는 지난해 4월 김 전 부위원장의 금품수수 사실을 숨기기 위해 전 경기도시장상권진흥원장 이모씨에게 허위 증언을 부탁했다.&lt;br /&gt;&lt;br /&gt;박 씨는 김 전 부위원장의 변호사 등과 함께 법원에 조작된 일정표 화면 사진을 제출한 혐의도 받는다.&lt;br /&gt;&lt;br /&gt;검찰은 이들의 부탁에 따라 이 씨가 재판에서 위증을 했다고 판단한다.&lt;br /&gt;&lt;br /&gt;검찰은 이 씨가 "2021년 5월3일 오후 3시~4시50분 신모 경기도에너지센터장과 함께 김 전 부원장을 만났다"고 허위 증언한 것으로 보고 있다. 이 날짜는 검찰이 김 전 부원장이 불법 정치자금 1억 원을 받았다고 의심하는 날이다.  &lt;br /&gt;&lt;br /&gt;검찰은 지난해 8월 박 씨와 서 씨의 사무실을 비롯해 김 전 부위원장의 변호사의 주거지 등을 압수수색했다. 김 전 부위원장 측은 "위증해달라고 한 적이 없다"는 입장을 밝힌 바 있다.&lt;br /&gt;</description>
-			<pubDate>Tue, 16 Jan 2024 00:30:01 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195028</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195028</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/195028.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
