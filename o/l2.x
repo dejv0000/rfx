@@ -6,6 +6,28 @@
 		<link>https://www.lawtimes.co.kr/opinion</link>
 		<language>ko</language>
 		<item>
+			<title>법대에서 : 유전자스위치의 교훈</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/2023_lawdae_sang.jpg" alt="2023_lawdae_sang.jpg" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;필자에게는 3살쯤 되는 일란성 쌍둥이 처조카가 있다. 분명히 같은 유전자 구조를 가진 아이들이지만, 만날 때마다 누가 누군지를 구별하는 것은 그다지 어렵지 않다. 외모가 어느 정도 다른데다가 일부 행동방식도 꽤나 다르기 때문이다. 한 아이는 낯선 사람에게도 살갑게 다가가는 반면, 다른 아이는 많이 수줍어한다. 한 아이는 여러 음식을 가리지 않고 잘 먹지만, 다른 아이는 편식을 한다. DNA가 완전히 일치하는 일란성 쌍둥이가 어떻게 그럴 수 있을까?&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;후생유전학에서는 이를 유전물질의 활성 여부로 설명한다. DNA 한 가닥에 ‘메틸기’ 분자 하나가 달라붙는 과정을 ‘DNA 메틸화’라고 한다. DNA 메틸화가 이루어지면 해당 유전자가 비활성화된다. 즉 그 유전자의 기능이 꺼지게 되는 것이다. 메틸기가 떨어져 나가면 해당 유전자는 활성화된다. 메틸기가 유전자스위치로 작용하기 때문에 모든 유전자가 언제 어디서나 발현하는 것은 아니라는 뜻이다. 결국 유전자가 같아도 각각의 유전자스위치가 켜져 있는지, 꺼져 있는지에 따라서 일란성 쌍둥이라도 서로 다른 모습을 띨 수 있게 된다. 그런데 그 차이는 뚜렷하지 않은 경우가 많다. ‘애정어린 관심’을 가지고 아이들을 관찰할 때에 비로소 그 미세한 차이가 보인다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이러한 유전적 구조는 법해석을 하는 우리에게도 영감을 준다. 유전자 각각을 법률요건, 드러난 특성을 법률효과라고 할 때, DNA 메틸화는 법률요건의 충족 여부에 영향을 미치는 요인이라고 볼 수 있다. 일정한 법률요건에 해당하는 사실관계가 존재하면 언제나 법률효과가 발생한다고 섣불리 단정하게 되면 자칫 DNA 메틸화는 놓치게 된다. ‘일란성 쌍둥이니까 똑같은 사람이야.’라는 오류를 범하게 된다는 뜻이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;개개의 법률요건과 관련된 여러 사정을 세심하게 들여다보지 않으면 법률요건의 충족에 영향을 미치는 미세한 요인을 무심코 지나칠 수도 있다. a, b, c가 모두 존재하여야 법률요건 A가 충족되는데도 a, b만을 확인하고서 A의 충족을 단정하거나 a, b만이 A를 결정짓는 요인이라고 착각할 수도 있다. 얼핏 비슷해 보이는 사실관계에서도 다른 법률효과를 이끌어낼 수 있는 ‘메틸기’를 찾아낼 수 있어야 한다. 그 첫걸음은 ‘관심’이다. 사건의 사실관계를 요리조리 살펴보고 각각의 법률요건에 영향을 미치는 요인을 일일이 찾아내어 그 영향을 분석하는 일련의 과정을 ‘애정어린 관심’을 가지고 진행할 때 비로소 ‘메틸기’가 보일 것이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;정기상&amp;nbsp;수원고등법원 고법판사&lt;/b&gt;&lt;/p&gt;</description>
+			<pubDate>Sat, 20 Jan 2024 21:13:34 -0000</pubDate>
+			<category>opinion</category>
+			<link>https://www.lawtimes.co.kr/opinion/195173</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/195173</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/2023_lawdae_sang.jpg</media:thumbnail>
+			<dc:creator>정기상</dc:creator>
+		</item>
+		<item>
+			<title>서초포럼 : 특검에  대한 단상 - 특검 수사에서 아무것도 &lt;br&gt;
+나오지 않으면 그것도 성과&lt;br&gt;
+국민이 현명하게 판단할 것</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/2023_nondan_chang.jpg" alt="2023_nondan_chang.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;‘쌍특검법’ 문제가 여전히 해결되지 않은 상태에서 새삼 특검의 추억이 떠오른다. 20여 년 전에 이용호게이트 특검에 참여하였다. 1호와 2호 특검인 파업유도사건과 옷로비사건 특검이 국민의 큰 기대와 달리 수사 결과는 실망스러웠다. 앙드레 김의 본명을 알게 된 것이 고작이었다는 우스갯소리가 있을 정도였으니까. 당시 검찰총장이 ‘특검 할애비’가 해도 나올 게 없다고 장담하여 3호로 출발한 이용호게이트 특검은 초반에 거의 관심을 끌지 못했다. 한동안 정말 기록에 파묻혀 살았고, 늦둥이를 낳고 20일 정도가 지난 때라 새벽에 퇴근하여 우는 아기를 재우느라 잠을 제대로 못 자고 출근하는 일도 많았다. 검찰총장 친동생을 직접 조사하여 구속영장을 발부받았고, 다음 날 검찰총장은 사퇴하였다. 그분은 같은 반 사법연수원 교수로 인연이 깊었다. 이후 대통령 측근 여러 명을 기소하고 특검 직후에 검찰에서 대통령 아들까지 구속하였는데, 갈수록 국민의 지지가 커졌다. 고검장 등 전현직 검사 7명을 직접 조사하는 기록도 썼다. 당시 ‘특검시대’를 열었다는 자부심이 넘쳤다. 특검을 받아준 김대중 대통령을 높이 평가했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;‘쌍특검법’을 야당이 총선에 이용하리라 당연히 예상되지만 어쩔 수 없지 않나. 먼저 김건희 여사 주가조작 사건에 대해 정부와 여당은 대통령과 결혼도 하기 전의 일이라서 권력형 비리가 아니고 검찰총장의 수사 지휘를 막고 탈탈 털었는데도 나온 것이 없다고 한다. 야당은 주가조작 직후에 결혼해 이익을 공유했으며 정권교체 이후에도 사건을 처리하지 않고 있다고 주장한다. 특검은 꼭 권력형 비리 사건이어야 하는 것이 아니라 기존의 검찰과 같은 수사기관이 제대로 수사하지 않거나 못할 우려가 있는 경우에 하는 것이 아닌가. 이미 주가조작 사건으로 재판받고 있는 것을 보면 특별한 내용이 나올 것 같지는 않지만 그 수사 자체에 문제가 있을 수 있으며, 무엇보다도 정권교체가 언제인데 아직도 사건처리를 못 했단 말인가. ‘명품백 의혹’은 또 어떻게 되고 있나. 대통령의 부인이라 무혐의 처분하기가 어려웠다는 핑계 속에는 명쾌하게 결론을 낼 수 없는 어떤 의혹이 있어서 현재 검찰이 처분하기에 적절하지 않다는 것이니 특검에서 추가 수사를 통해 새롭게 판단할 필요가 분명히 있는 것이다. 그래야 국민적 의혹이 사라지는 것이 아닐까. 최근 김건희 여사가 공식석상에 나타나지 않는 것도 특검의 기여라고 하겠으며, 앞으로 내조만 하겠다는 약속을 지키는 계기가 되면 좋겠다. 대장동 50억 클럽 의혹사건에 대해서도 이재명 대표에 대한 수사를 방해하기 위한 것이라며 반대하지만 이 대표에 대해서는 이미 대부분 수사가 이루어졌으며 그 의혹사건 자체에 대한 수사가 지지부진한 것을 어떻게 설명할 것인가. 또한 해당되는 분들이 검찰 고위직이나 대법관 출신이기에 오히려 특검 수사가 절실하다고 본다. 추가적으로 재판 거래 의혹사건과 관련해서는 법원은 끝내 침묵하고 검찰은 수사의 조짐조차 보이지 않고 있으니, 특검뿐만 아니라 특별재판소가 필요하다는 생각까지 하게 된다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;특검 수사에서 아무것도 나오지 않으면 그것도 큰 성과이고, 국민이 현명하게 판단할 것이다. ‘국민이 항상 옳다’는 말이 실천으로 지켜지길 바란다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;이창현 한국외대 로스쿨 교수&lt;/b&gt;</description>
+			<pubDate>Sat, 20 Jan 2024 21:11:30 -0000</pubDate>
+			<category>opinion</category>
+			<link>https://www.lawtimes.co.kr/opinion/195144</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/195144</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/2023_nondan_chang.jpg</media:thumbnail>
+			<dc:creator>이창현</dc:creator>
+		</item>
+		<item>
 			<title>법의 신(新)과 함께 : 작은 영웅들 - 자신이 불편하더라도&lt;br&gt;
 이웃을 위해 용기를 내는 작은 영웅들&lt;br&gt;
 그들은 다시 한 번 세상을 바꾸었다</title>
@@ -115,26 +137,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/194993</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/2023_commentary.jpg</media:thumbnail>
 			<dc:creator>박성민</dc:creator>
-		</item>
-		<item>
-			<title>월요법창 : 타인의 이해</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194898.jpg" alt="194898.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;몇 년 전부터 출·퇴근 운전 시간에 오디오북을 듣는 취미가 생겼다. 평소 소설을 좋아하지만 일이 몰려 바쁠 때면 따로 책을 읽기 위한 시간을 내지 않고 운전 중에 그저 듣기만 하는 것으로도 좋다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;세상 누구에게나 공평한 게 있다면 삶은 유한하다는 점일 것이다. 생명은 태어나 한 번의 삶을 살 뿐이지 다른 인생을 살지 못한다. 그런데 소설은 다양한 형태의 삶을 살아 볼 수 있게 해준다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;요즈음 OTT 드라마는 아예 주인공을 다른 사람으로 환생시키곤 한다. 운전할 때면 소설 속 주인공의 인생을 간접이나마 경험하고 싶어 늘 청독을 하게 되는 것이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;성우의 낮고 부드러운 톤의 매력적인 동굴 목소리를 들으면서 주인공의 인생에 펼쳐지는 사건에는 ‘어떤 이유가 있지 않을까?’ 라는 생각을 해 본다. 그리고 이야기의 흐름 끝에 그 의미를 어렴풋이나마 알게 된다. 과학수사를 다룬 소설을 통해 검증의 결과를 더 잘 이해할 수 있기도 하고, 학교폭력을 다룬 소설이나 성장소설을 통해서 청소년들의 심리, 또래 문화, 피해자의 고통에 좀 더 세밀하게 다가갈 수 있게 된다. 다문화가족의 이야기, 조손가정, 청소년 부모, 자립준비 청년의 일상까지 다양한 삶을 일부라도 알 수 있는 기회가 주어져 단편적인 뉴스와는 다르게 소설을 통해 ‘삶’으로 바라볼 수 있게 된다. 이는 현실에서 변호사로서 피고인이나 의뢰인의 심정 내지 처지를 ‘이해’하는 데 많은 도움이 되곤 한다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;수사 참여나 재판 중에 사람을 이해해 보려고 노력하는 검사, 판사를 만나게 되면 뭔가 달라 보인다. 소년사건에서 그 소년에게 가장 힘들었던 점이 무엇인지 물어보고, 이전에 전과가 하나도 없었지만, 어느 순간부터 계속 범죄를 저지르는 피고인에게 어떤 특별한 일이 있었는지 질문을 할 때면 나는 그 분의 수사와 재판이 따듯하게 느껴진다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;어찌 보면 어떤 형태로든 사람을 만나 그들의 가장 힘든 시기를 같이하게 되는 게 법조인이다. 피고인이나 의뢰인의 인생을 이해한 변호사라면 그 사람을 위해 더 진솔한 변호를 할 수 있을 것이다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;적어도 그 사람을 이해하기 위한 노력을 했다면 자기가 맡은 일에 후회가 없도록 변론하고, 수사하고 재판했다는 기억이 남지 않을까. 누군가를 이해하기 위한 마음은 타인에게도 내게도 필요한 일이 아닐까 생각해 본다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;b&gt;정소연 법률사무소 다반 변호사&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;/b&gt;&lt;/p&gt;</description>
-			<pubDate>Sun, 14 Jan 2024 20:25:28 -0000</pubDate>
-			<category>opinion</category>
-			<link>https://www.lawtimes.co.kr/opinion/194898</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/194898</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194898.jpg</media:thumbnail>
-			<dc:creator>정소연</dc:creator>
-		</item>
-		<item>
-			<title>법대에서 : 별지 목록 : 반려동물</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/2023_lawdae_sil.jpg" alt="2023_lawdae_sil.jpg" /&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;“채무자는 별지 목록 기재 반려견에 대한 점유를 풀고 이를 채권자가 위임하는 집행관에게 인도하여야 한다.(이하 생략)”라는 결정을 구합니다. 별지 목록 : 반려견(이름 또리, 사진 첨부)’&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;유체동산 점유이전금지가처분 신청사건의 별지 목록에서 강아지의 사진을 보는 일은 흔하지 않다. 그러나 매번 이름이 복잡한 기계, 기구 등 유체동산의 목록을 확인하다가 예상하지 못한 강아지 사진을 보고 나니 신청이유가 무엇인지 궁금해졌다. 채권자와 채무자는 과거 연인이었던 사이로, 채권자의 주장으로는 채권자 소유의 반려동물인 강아지를 채무자가 데리고 간 이후에 연인관계가 종료되었음에도 채무자가 강아지를 돌려주지 않고 있다는 것이다. 채권자는 소명자료로 강아지를 분양받을 당시 받은 인증서, 영수증, 채무자와 주고받은 메시지 내용을 제출했다. 채권자의 반환요구에 대하여 채무자는 강아지를 매일 산책시키고 병원에도 정기적으로 데리고 가면서 잘 돌보고 있으니 걱정하지 말라고 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;채권자가 주장하는 피보전권리가 인정되는지 여부는 별론으로, 가처분의 목적물인 강아지를 어떠한 방식으로 특정할지, 목적물의 가액은 어떻게 산정할지 등 몇 가지 의문 사항에 대해 보정을 명했다. 확인 결과 그 수가 많지는 않았지만, 강아지와 고양이 등 반려동물에 대해 점유이전금지 및 처분금지가처분이 내려진 사례도 제법 찾아볼 수 있었다. 동물보호법에 따라 등록되어 등록번호가 부여된 경우를 제외하면, 대부분 이름과 품종, 출생일, 성별, 털 색깔 등으로 반려동물을 특정하고, 분양가액을 소명하도록 하여 목적물의 가액을 산정하고 있는 것으로 보였다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;반려동물을 키우는 인구가 늘어나면서 반려동물이 법률분쟁의 대상이자 목적으로 등장하는 사례가 증가하고 그 유형도 다양해지고 있다고 한다. 일상생활에서 반려동물이 피해를 입거나 상대방에게 피해를 주어 손해배상이 문제되는 경우 외에도 부부가 이혼할 경우 등에 있어서 함께 키우던 반려동물을 누가 인도할 것인지, 반려동물을 키우는 데 필요한 비용을 누가 부담할 것인지, 반려동물에 대한 면접교섭을 인정할 수 있는지 등 다양한 법적 쟁점이 논의되고 있다&lt;a href="https://www.lawtimes.co.kr/news/180335" target="_blank"&gt;&lt;b&gt;&amp;lt;법률신문 2022년 7월 21일 자, ‘반려동물 관련 분쟁 다양화… 법률시장도 확장’ 기사 참조&amp;gt;&lt;/b&gt;&lt;/a&gt;. 앞으로 어떤 사건의 기록에서 예상치 못하게 반려동물의 사진을 만나게 될지 모를 일이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;‘별지 목록 반려견 또리(품종 치와와, 출생 2019년 9월, 성별 암컷, 털 색깔 흰색, 분양가액 40만 원)’는 진정한 주인의 품에서 잘 지내고 있을까?&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;장윤실 부산지방법원 판사&amp;nbsp;&lt;/b&gt;&lt;/p&gt;</description>
-			<pubDate>Sat, 13 Jan 2024 01:03:14 -0000</pubDate>
-			<category>opinion</category>
-			<link>https://www.lawtimes.co.kr/opinion/194954</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/194954</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/2023_lawdae_sil.jpg</media:thumbnail>
-			<dc:creator>장윤실</dc:creator>
 		</item>
 	</channel>
 </rss>
