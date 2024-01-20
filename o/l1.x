@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>'SM 시세조종' 혐의 카카오 배재현, 법원에 보석 청구</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper"&gt;   &lt;p style="text-align: center;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/195208.jpg" alt="195208.jpg" /&gt;   &lt;/p&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;SM엔터테인먼트 시세 조종 혐의로 구속기소 된 배재현 카카오 투자총괄대표가 법원에 보석을 청구했다.&lt;/p&gt;&lt;p style="text-align: left;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: left;"&gt;20일 법조계에 따르면 배 대표는 서울남부지법 재판부에 전날 불구속 재판을 요청했다.&lt;/p&gt;&lt;p style="text-align: left;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: left;"&gt;배 대표는 지난해 11월 13일 자본시장법 위반 혐의로 구속기소됐다. 형사소송법상 구속기소 된 피고인의 1심 최대 구속기간은 6개월이다.&lt;/p&gt;&lt;p style="text-align: left;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: left;"&gt;지난해 2월 배 대표는 SM엔터를 인수하는 과정에서 경쟁사인 하이브의 공개매수를 방해하려고 2400여억 원을 투입, SM엔터 주가를 하이브의 공개매수가인 12만원보다 높게 설정·고정할 목적으로 시세조종을 벌인 혐의를 받고 있다.&lt;/p&gt;</description>
+			<pubDate>Sat, 20 Jan 2024 06:31:43 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/195208</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195208</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/195208.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
 			<title>[사진] 독야청청</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/195204.jpg" alt="195204.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;'독야청청&lt;/b&gt;'&amp;nbsp;&lt;p&gt;흰 눈이 온 세상을 덮어도 홀로 푸르름을 잃지 않는 소나무. 강원도 제왕산에서  한인섭 교수(서울대 로스쿨) 촬영&lt;/p&gt;</description>
 			<pubDate>Sat, 20 Jan 2024 03:18:59 -0000</pubDate>
@@ -234,16 +244,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195184</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/195184.jpg</media:thumbnail>
 			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>심우정 신임 법무부차관 "말이 아니라 행동으로 실현해야...국민께 도움되는 해법 찾자"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/195168.jpg" alt="195168.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;심우정 신임 법무부차관&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3204"&gt;심우정&lt;/span&gt;(53·사법연수원 26기) 신임 법무부차관이 법무부를 이끈다. 심 차관은 19일 열린 취임식에서 "장관이 부재중인 상황이지만 우리가 이뤄야하는 국정과제와 주요 정책과제를 제대로 수행하자"고 당부했다. &lt;br /&gt;&lt;br /&gt;심 차관의 임기는 오늘(19일)부터 시작이다. 차관 업무를 개시하면서 장관 직무대행도 맡게 된다.&lt;br /&gt;&lt;br /&gt;심 차관은 이날 "법무부 기획조정실장으로 여러분과 함께 근무한 것이 엊그제 같은데 2년 7개월이 지나 여러분들을 다시 뵙게 되니 반갑고, 따뜻하게 환영해 주셔서 감사드린다. 여러분의 얼굴을 마주하니 더욱 무거운 책임감이 느껴진다"고 운을 뗐다. &lt;br /&gt;&lt;br /&gt;이어 "그동안 탁월한 지도력과 인품으로 직무를 성공적으로 완수해주신 전임 이노공 차관님, 그리고 소임을 다하기 위해 헌신해주신 법무가족 여러분께 깊은 존경과 감사의 말씀을 드린다"고 인사했다. &lt;br /&gt;&lt;br /&gt;심 차관은 "법무부는 '정의와 상식의 법치'라는 비전 아래 성폭력·강력·마약 범죄 대응역량을 대폭 강화하고 한국형 제시카법을 국회에 제출하는 등 민생침해범죄로부터 국민의 일상을 지키기 위해 노력해왔다"며 &lt;br /&gt;또 숙련기능인력을 확대하고 우수인재 영주·귀화 패스트트랙 제도를 도입하여 국익과 경제성장을 뒷받침할 수 있는 법무행정 시스템을 구축하는 등 많은 성과를 거두었다"고 말했다. &lt;br /&gt;&lt;br /&gt;심 차관은 "인구위기와 지방소멸 등 대한민국의 미래를 위해 반드시 해결되어야 하는 어려운 숙제도 우리 앞에 놓여 있다. 당면한 국회의원 선거는 그 어느 때보다도 공정하고 깨끗하게 실시되어야만 한다.이러한 난제들을 해결하기 위해 법무부에 거는 국민들의 요구와 기대 수준은 그 어느 때보다 높다"며 "비록 장관이 부재중인 상황이지만 우리에게는 이루어야 할 국정과제와 주요 정책과제가 있다"고 강조했다. &lt;br /&gt;&lt;br /&gt;심 차관은 "우리의 모든 업무는 오로지 국민의 입장에서, 국민의 시각으로 준비되고, 국민이 체감할 수 있도록 진행되어야 한다. 국민들께서 오늘 하루 일상을 보내며 불안하거나 불편하게 느낀 부분이 어디였는지 정확하게 짚어 주기 바란다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;그러면서 바른 진단에서 바른 해법이 나온다고 강조했다. 심 차관은 "여러분 자신의 일, 여러분 가족의 일이라고 생각하고 촘촘하고 섬세하게 살펴봐야 한다. 확인된 바로 그 문제를 가장 빠르고 효율적으로 해결할 수 있는 정확하고 정밀한 솔루션이 국민들께 제시되어야 한다"고 설명했다.&lt;br /&gt;&lt;br /&gt;솔루션은 말이 아닌 행동으로 실현되어야 한다고 말한 심 차관은 "문제점을 확인하고 진단만 해서는, 또 추상적인 해결방향을 제시하는 것만으로는 법무부가 제 할 일을 했다고 볼 수 없다. 책상에 앉아 고민만 하다 결정을 주저하지 말고, 현장에 나가 발로 뛰며, 국민들이 가려워하는 부분을 즉시 긁어줄 수 있는 솔루션을 행동으로 만들어내자"고 덧붙였다. &lt;br /&gt;&lt;br /&gt;또 심 차관은 "이러한 과정을 통해 '법무부가 마련한 정책이 바로 내 일상의 불안한 부분, 불편한 부분을 해결해주는구나'라는 점을 국민들께서 체감하실 때 비로소 우리는 국민의 신뢰를 얻을 수 있을 것"이라며 마지막으로 이 모든 과제는 법무부 구성원들이 서로 믿고 의지하며 함께 소통할 때 비로소 달성될 수 있다"고 말했다. &lt;br /&gt;&lt;br /&gt;특히 심 차관은 법무부 직원들이 단순한 직장 동료가 아니라 '국민의 기본권 보호'와 '법질서 확립'이라는 목표와 가치를 공유하는 동지이자 가족이라고 강조했다. 심 차관은 " 관리자가 책상에 앉아 지시·감독만 하고, 실무자는 지시받은 업무만 해서는 우리의 목표를 달성할 수 없다. 관리자는 연륜과 경험을 발휘하여 실무자의 등 뒤에서 실무자를 든든히 지원해주고, 실무자는 내가 법무부의 주인이라는 마음으로 나의 업무 하나 하나를 조금씩 고쳐나가면 된다. 갓 들어온 신규 직원의 반짝이는 아이디어까지 경청하고 함께 토론할 때 국민들께 진정 도움이 되는 해법을 찾을 수 있다"고 강조했다. &lt;br /&gt;&lt;br /&gt;심 차관은 "법무가족 여러분. 저는 법무부가 국민을 섬기며 국민의 기본권과 안전, 민생을 보호하고, 또 이를 통하여 국민이 법무부를 신뢰할 수 있도록 모든 힘을 다하겠다. 오늘부터 법무부의 일원으로서 여러분이 자긍심을 가지고 능력과 열정을 발휘할 수 있도록 언제나 여러분의 옆에서 최선을 다하겠다"고 밝혔다.</description>
-			<pubDate>Fri, 19 Jan 2024 01:33:47 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195168</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195168</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/195168.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
