@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 박경귀 아산시장 당선무효 일단 면해… 대법원 "2심, 절차상 하자 있다"</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/195344.jpg" alt="195344.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;지방선거 당시 상대 후보에 관해 허위 사실을 공표한 혐의로 기소된 박경귀 충남 아산시장이 당장은 당선무효를 면하게 됐다. 대법원은 사건의 실체를 판단하기에 앞서 2심에서 절차상 위법이 있었다며 원심을 파기환송했다.&lt;br /&gt;&lt;b&gt;대법원 형사1부(주심&amp;nbsp;&lt;span style="" class="lawmanlink" serial="3170"&gt;김선수&amp;nbsp;&lt;/span&gt;대법관)&lt;/b&gt;는 25일 공직선거법 위반 혐의로 기소된 박 시장에게 벌금 1500만 원을 선고한 원심판결을 파기하고 사건을 대전고법으로 돌려보냈다&lt;b&gt;(2023도12199)&lt;/b&gt;.&lt;p&gt;   &lt;br /&gt;박 시장은 2022년 6월 1일 실시된 제8회 전국동시지방선거를 앞두고 상대 후보였던 오세현 전 아산시장에 대해 성명서 형식의 보도자료 등을 통해 부동산 투기 의혹을 제기, 허위 사실을 공표한 혐의로 기소됐다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;1,2심에서 박 시장에게 벌금 1500만 원을 선고해 당선무효 위기에 놓였었다. 선출직 공직자가 선출된 선거와 관련해 공직선거법 위반죄로 벌금 100 만원 이상의 형이 확정되면 당선무효가 돼 직을 상실하기 때문이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;하지만 대법원은 원심의 소송절차에 사선변호인에 대한 소송기록접수통지를 누락한 위법이 있다고 판단했다.&lt;/p&gt;&lt;p&gt;재판부는 "대법원 판례 등에 따르면 항소심의 구조는 피고인 또는 변호인이 법정기간 내에 제출한 항소이유서에 의하여 심판되는 것이므로 항소이유서 제출 기간의 경과를 기다리지 않고는 항소사건을 심판할 수 없다"며 "피고인에게 소송기록접수통지를 한 2023년 7월 10일 이전에 국선변호인 선정이 취소되고 사선변호인이 선임되었으므로 원심은 피고인과는 별도로 피고인이 선임한 변호인들에게도 소송기록접수통지를 했어야 한다"고 판시했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;그러면서 "사선변호인에 대한 소송기록접수통지가 이루어지지 않고 있는 이상 항소이유서 제출 기간이 경과되었다고 볼 수 없으므로 항소사건을 심판할 수 없다고 봐야 한다"며 "원심은 박 시장이 선임한 변호인들에게 소송기록접수통지를 하지 않은 채 판결을 선고했고, 이러한 원심판결에는 소송절차의 법령위반으로 인하여 판결에 영향을 미친 위법이 있다"고 설명했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이에 따라 대법원은 성명서 내용의 허위사실 여부, 피고인에게 허위성에 대한 인식 및 당선되지 못하게 할 목적이 있었는지 여부 등 나머지 상고이유에 대한 판단은 생략했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;대법원 관계자는 "국선변호인이 선정되고 소송기록접수통지가 이루어졌으나 이후 피고인에 대한 소송기록접수통지 전에 사선변호인이 선임된 경우 형사소송법이 정한 바에 따라 사선변호인에 대해서도 소송기록접수통지를 해야 하고, 소송기록접수통지를 하지 않은 채 판결을 선고한 경우 이러한 소송절차의 법령위반은 판결에 영향을 미친 위법 사유가 된다는 새로운 법리를 판시한 판결"이라고 말했다.&lt;/p&gt;</description>
+			<pubDate>Thu, 25 Jan 2024 05:08:14 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/195344</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195344</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/195344.jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
 			<title>대법원, 회생법원 실무협의회 2차 회의 개최…도산재판 개선방안 모색</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/19700(1).jpg" alt="19700.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;지난해 전국 법원에 접수된 법인 및 개인 회생·파산, 일반회생, 면책 등 도산사건 수가 전년 대비 18.17% 증가한 것으로 나타났다. 이런 가운데 대법원 회생법원 실무협의회가 회의를 열고 도산사건 관련 제도의 개선 방안을 모색했다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;대법원 회생법원 실무협의회는 22일 제2차 회의를 개최했다. 이날 회의에서 협의회는 도산사건 현황을 공유하고 관련 제도개선 및 회생법원 간 공동 대응 필요사항에 대해 논의했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;서울회생법원과 지난해 신설된 수원·부산회생법원으로 구성된 회생법원 실무협의회는 회생법원 신설의 긍정적 효과를 지속적으로 유지하고, 회생법원 간 도산사법 서비스의 통일적·균형적 발전을 도모하기 위해 출범했다.&lt;br /&gt;대법원에 따르면 지난해 전국 법원의 도산사건(법인회생, 법인파산, 일반회생, 개인회생, 개인파산, 면책) 접수건수는 20만5225건으로 전년 대비 18.17% 증가했다. 이 가운데 개인회생 사건은 34.51%, 법인회생 및 법인파산 사건은 각 54.92%, 65% 증가한 것으로 나타났다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대법원 관계자는 "도산사건의 접수건수가 폭증했음에도 지난해 신설된 수원&lt;span style="color: #3f3f3f; font-family: Gulim; font-size: 14px; letter-spacing: -0.65px;"&gt;·&lt;/span&gt;부산회생법원은 개원 후 법인회생 사건의 처리기간을 대폭 단축하는 등 주목할 만한 성과를 내고 있다"고 설명했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이날 회의에서는 △법인회생 절차에서 자율구조조정 지원 프로그램(Autonomous Restructuring Support, ARS)의 적용근거 마련 및 확대실시 △강제인가제도의 활성화 및 실무처리기준 정비&lt;font color="#3f3f3f" face="Gulim"&gt;&lt;span style="font-size: 14px; letter-spacing: -0.65px;"&gt;&lt;/span&gt;&lt;/font&gt;△개인파산절차 종료 전 면책결정 제도 도입 및 시범실시 △회생법원 간 CRO·감사 후보자 명단 공유의 필요성 △유관기관과의 협업 현황 및 향후 추진방향의 지속적 점검 필요성 등에 대해 논의가 이뤄졌다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;회의 결과, 이들 회생법원은 각 법원의 실정에 맞는 ARS 프로그램 관련 실무준칙을 마련해 시행하기로 했다. &lt;br /&gt;아울러 한국신용정보원 등 유관기관과의 업무협력 강화, 회생위원 및 개인파산관재인에 대한 교육과정 확대, 상임관리위원 증원, 회생법원 전자접수 관련 전산시스템 개선 등에 관해서도 지속적으로 검토·추진하기로 했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;대법원 관계자는 "회생법원 실무협의회에서 논의된 사항이 실무에 반영될 수 있도록 지속적으로 지원하는 한편, 회생법원 실무협의회가 제안한 실무&lt;span style="color: #3f3f3f; font-family: Gulim; font-size: 14px; letter-spacing: -0.65px;"&gt;·&lt;/span&gt;제도개선 사항을 적극적으로 검토하고 전국 법원에 공유함으로써 도산사법서비스의 지역적 편차를 완화하고, 경제적 어려움에 처한 많은 국민들이 신속하게 재기할 수 있도록 필요한 지원과 여건 마련에 최선의 노력을 다하겠다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Thu, 25 Jan 2024 00:12:05 -0000</pubDate>
@@ -232,16 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195304</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/195304.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>"법원도 판결문 전면 공개 위해 노력할 것"</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/195242.jpg" alt="195242.jpg" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;span style="font-weight: bold;" serial="5602"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;" serial="5602"&gt;천대엽&lt;/span&gt;(60·사법연수원 21기) 신임 법원행정처장이 22일 취임 인사차 서울 서초구 법률신문사를 방문해 법률신문 경영진과 환담했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;천대엽 처장은 법률신문이 신년을 맞아 기획한 ‘판결문 전면 공개를 향하여’ 시리즈 기사와 관련해 “법원도 향후 판결문을 전면적으로 공개할 수 있도록 노력할 것”이라며 “다만 현재로선 ‘개인정보 침해’라는 위험이 있어 신중하게 하려고 한다”고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;아울러 “법률신문은 법원에 든든한 우군”이라며 “대법관으로서 재판을 더 하고 싶었지만 행정처장으로 취임하게 됐는데 이때 법률신문이 있다는 생각에 힘을 냈다”고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이수형 사장이 “법률신문은 법조인 모두를 위한 공기(公器)를 지향한다”고 말하자 천 처장은 “법원은 국민들이 자유로운 공기를 마시고 숨을 쉴 수 있게 하는 역할을 열심히 하겠다”고 화답했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법률신문에는 1967년 창간 17주년을 맞아 박정희 전 대통령이 써준 ‘만법귀일(萬法歸一)’ 휘호가 걸려있다. 이를 두고는 “참 좋은 말씀이다. 정말 만법이 하나로 흘러갔다가 그 하나가 어디로 가는지는 각자 사정에 따라 다를 수 있을 것 같다. 다만 그 자리에서 최선을 다하는 것만이 사람의 일이 아닐까 싶다”고 언급했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;천 처장은 ‘걸어 다니는 형사판례백과사전’이라 불릴 정도로 형사사건에 해박한 인물로 손꼽힌다. 두 차례에 걸쳐 6년 6개월 간 대법원 재판연구관으로 근무해 형사는 물론 민사 분야 등의 법리와 이론에도 밝다. 제6기 대법원 양형위원회 상임위원으로 명예훼손범죄 등에 대한 양형기준을 신설하는 데 기여하고 학계와 실무계를 망라한 양형연구회를 창립해 이끌었다. 천 처장은 평판사 시절에도 새벽 6시에 출근해 밤늦게까지 일하고, 대법관과 행정처장을 맡으면서도 새벽 출근을 계속 하는 것으로 알려졌다.&lt;/p&gt;</description>
-			<pubDate>Wed, 24 Jan 2024 03:30:50 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195242</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195242</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/195242.jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
