@@ -6,6 +6,36 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>징역 '100년' 한인 앤드류 서, 30년만에 모범수 조기 석방</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/앤드류서2.jpg" alt="앤드류서2.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;1993년 친누나의 동거남을 살해한 혐의로 징역 100년 형을 선고 받고 복역중이던 한인 앤드류 서(50·한국명 서승모) 씨가 약 30년 만에 모범수로 인정받아 조기 출소했다.&lt;br /&gt;&lt;br /&gt;26일(현지시간) 시카고 트리뷴에 따르면 서 씨는 이날 오전 일리노이주 서부 키와니의 교도소를 나와 지지자들과 변호인의 마중을 받았다. 그는 오랜 시간 성원을 보내준 이들에게 감사 인사를 했다. 시카고 한인 교회 교인들이 준비해온 두부를 먹었고 교인들은 출소를 축하했다.&lt;br /&gt;&lt;br /&gt;시카고 트리뷴은 '30년 전, 남매가 공모해 저지른 악명높은 살인사건의 주인공이 석방됐다'는 기사로 소식을 전하며 "성실하게 재활 프로그램을 이수한 모범수에게 감형 특혜를 주는 새로운 법 덕분"이라고 설명했다.&lt;br /&gt;&lt;br /&gt;서씨는 대학 2학년이던 1993년 9월 25일, 누나의 동거남 로버트 오두베인(당시 31세)을 총으로 쏴 살해한 혐의로 1995년 징역 100년형을 선고받았다. 이후 항소심에서 80년 형으로 감형됐다. 당시 검찰은 서 씨 남매가 오두베인 명의의 생명 보험금 25만 달러(약 3억3000만 원)를 노리고 범행을 저질렀다고 발표했다.&lt;br /&gt;&lt;br /&gt;서 씨는 두 살 때인 1976년 시카고로 이민했다. 이민 9년 만인 1985년 아버지가 암으로 세상을 떠나고 세탁소를 운영하며 남매를 키우던 어머니마저 1987년 강도에 살해된 후 누나에 의지해 살았다. 누나 캐서린(54)은 "오두베인이 엄마를 죽였다. 엄마가 남긴 재산을 오두베인이 도박 빚으로 탕진하고 학대한다"며 서 씨에게 살인을 사주한 것으로 알려졌다. 엄마의 원수를 갚고 누나를 지켜야겠다고 믿은 서 씨는 1993년 11월 11일 누나의 지시대로 집 차고에 숨어지내다 오두베인을 총으로 살해했다.&lt;br /&gt;&lt;br /&gt;서 씨와 함께 기소됐던 캐서린은 재판에서 가석방 없는 종신형을 선고받고 현재 복역 중이다. 2017년 언론 인터뷰에서 서 씨는 "누나가 80만 달러의 유산을 노리고 어머니를 살해했다"며 엄마를 죽인 범인이 누나라는 주장을 하기도 했다. &lt;br /&gt;</description>
+			<pubDate>Sun, 28 Jan 2024 04:35:01 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/195422</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195422</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/앤드류서2.jpg</media:thumbnail>
+			<dc:creator>정준휘 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] 이란 나포 '한국케미호' 선사, 국가배상 항소심 패소</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/167134(1).jpg" alt="167134.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;2021년 이란 혁명수비대에 나포됐던 화학 운반선 '한국케미호' 선사가 국가를 상대로 낸 손해배상소송 항소심에서 패소했다.&lt;br /&gt;&lt;br /&gt;28일 법조에 따르면 서울고법 민사19-3부(배용준 황승태 김유경 부장판사)는 선사 디엠쉬핑이 제기한 국가배상 등 청구 소송을 최근 1심과 같이 원고 패소 판결했다.&lt;br /&gt;&lt;br /&gt;재판부는 "이란 측과 선박 나포에 관해 협상하는 과정에서 정부가 원고에 대한 보호 의무를 위반했다고 보긴 어렵다"며 "이 법원에 제출된 증거까지 고려하여도 1심의 사실인정 판단은 전반적으로 정당하다"고 설명했다.&lt;br /&gt;&lt;br /&gt;이란은 2021년 1월 호르무즈 해협 인근 해역을 지나던 한국케미호와 한국인 5명을 포함한 선원 총 20명을 나포했다가 선원 19명은 약 한 달 만에, 선박과 선장은 95일 만에 풀어줬다.&lt;br /&gt;&lt;br /&gt;이란은 해양 오염 때문에 선박을 억류했다고 주장했지만, 미국의 제재로 당시 한국에 동결돼 있던 이란 원화자금에 대한 불만 때문이라는 것이 중론이었다.&lt;br /&gt;&lt;br /&gt;디엠쉬핑 측은 국가가 나포 위험을 사전에 알려주지 않고 구조에도 최선을 다하지 않아 국민의 생명, 신체, 재산을 보호할 의무를 위반했다며 14억5000만여 원에 이르는 국가배상 청구소송을 냈다. 당시 1심은 "정부는 억류 직후부터 이란 정부 측과 접촉해 선원 안전 확보 등을 지속적으로 요청했고, 외교부 차관 및 실무대표단이 이란 정부 당국자와 면담하는 등 정부 차원에서 외교적인 협의를 진행했다"며 정부의 손을 들어줬다.</description>
+			<pubDate>Sun, 28 Jan 2024 04:33:10 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/195423</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195423</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/167134(1).jpg</media:thumbnail>
+			<dc:creator>정준휘 기자</dc:creator>
+		</item>
+		<item>
+			<title>박병대 前 법원행정처장 "재판부에 경의…후배법관들 위안되길 바라"</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/195407_2(1).jpg" alt="195407_2.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;'사법행정권 남용 의혹 사건' 1심 재판에서 무죄가 선고된 박병대 전 법원행정처장이 "재판부에 경의를 표하며 수모와 고초를 겪은 후배들에게 위안이 되길 바란다"며 소회를 밝혔다.&lt;br /&gt;&lt;br /&gt;박 전 처장은 27일 법률신문에 "사건의 본질을 꿰뚫는 안목과 주저하지 않는 용기를 보여준 재판부에 경의를 표한다"며 "허망한 세월 길게 보냈지만, 그래도 그 공백에 뭔가 채워진 것도 있지 않을까 생각한다"고 무죄 선고에 대한 소회를 전했다. 이어 "수모와 고초를 겪은 많은 후배 법관들께 그나마 위안이 되었기를 바란다"고 했다. &lt;br /&gt;&lt;br /&gt;앞서 26일 서울중앙지법 형사35-1부(재판장 이종민, 임정택, 민소영 부장판사)는 직권남용권리행사방해 등 혐의로 기소된 양승태 전 대법원장, 고영한·박병대 전 법원행정처장에게 무죄를 선고했다(2019고합130). 재판에 넘겨진 뒤 1810일, 약 4년 11개월 만이다. 재판부는 모든 혐의에 ‘범죄의 증명이 없다’고 봤다.&lt;br /&gt;&lt;br /&gt;검찰은 2019년 2월 양 전 대법원장을 직권남용 권리행사 방해, 공무상 비밀누설, 특정범죄 가중처벌 등에 관한 법률상 국고손실 등의 혐의로 기소했다. 검찰은 양 전 대법관 등이 △상고법원 도입 등을 추진하는 데 있어 청와대의 협조를 얻기 위해 일선 법원 재판에 개입한 혐의 △정운호 게이트 연루된 법관 등 법관 비위를 은폐한 혐의 △법관 블랙리스트(물의 야기 법관 인사조치 문건)를 작성해 인사상 불이익을 준 혐의 △공보관실 운영비를 불법으로 유용한 혐의 등을 적용했다.&lt;br /&gt;&lt;br /&gt;이날 선고 직후 양 전 대법원장은 "당연한 귀결"이라며 "이런 당연한 일을 명백하게 판결 내려준 재판부에 경의를 표한다"고 밝혔다. &lt;br /&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;아래는 박 전 대법관 소회문.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&amp;lt;박병대 전 대법관 소회 전문&amp;gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;사건의 본질을 꿰뚫는 안목과 주저하지 않는 용기를 보여준 재판부에 경의를 표합니다.&lt;br /&gt;&lt;br /&gt;허망한 세월 길게 보냈지만, 그래도 그 공백에 뭔가 채워진 것도 있지 않을까 생각합니다.&lt;br /&gt;&lt;br /&gt;수모와 고초를 겪은 많은 후배 법관들께 그나마 위안이 되었기를 바랍니다.&lt;br /&gt;&lt;br /&gt;염려하고 성원해 주신 분들께 진심으로 감사드립니다.&lt;/p&gt;</description>
+			<pubDate>Sun, 28 Jan 2024 04:23:17 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/195424</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195424</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/195407_2(1).jpg</media:thumbnail>
+			<dc:creator>정준휘 기자</dc:creator>
+		</item>
+		<item>
 			<title>이동재 기자, 전 직장 채널A 상대 '해고무효 소송' 최종 패소</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/191880(2).jpg" alt="191880.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;이동재 기자가 전 직장인 채널A를 상대로 한 해고무효 소송에서 최종 패소했다.&lt;br /&gt;&lt;br /&gt;28일 법조에 따르면 대법원 민사1부(주심 김선수 대법관)는 이 기자가 전 직장인 채널A를 상대로 낸 해고 무효확인 소송 상고심에서 지난 25일 원고 패소 판결을 확정했다.&lt;br /&gt;&lt;br /&gt;이 기자는 이른바 '채널A 검언유착 사건'의 핵심 관계인으로, 한동훈 국민의힘 비상대책위원장(당시 검사장)과 공모해 이철 전 밸류인베스트코리아 대표에게 유시민 전 노무현재단 이사장 등 정관계 인사의 비리 정보를 털어놓지 않으면 처벌을 받게 될 것처럼 강요하다 미수에 그친 혐의를 받았다.&lt;br /&gt;&lt;br /&gt;검찰은 2020년 8월 이 기자를 구속 기소했으나 1·2심 모두 무죄가 선고됐고 판결은 그대로 확정됐다. 한 위원장은 2022년 4월 무혐의 처분을 받았다.&lt;br /&gt;&lt;br /&gt;당시 채널A는 이 기자가 취재 윤리를 위반해 회사의 명예를 크게 실추했다는 등의 이유로 2020년 6월 이 기자를 해임했다. 이에 그는 해고가 부당하다며 2020년 11월 회사를 상대로 소송을 냈다.&lt;br /&gt;&lt;br /&gt;그러나 1심은 "검찰의 핵심 고위 관계자와 친분이 있어 수사 및 재판에 영향력을 행사할 수 있는 것처럼 언급하며 취재정보를 획득하고자 한 행위는 정당한 취재 윤리를 벗어난 것"이라며 징계가 적절하다고 판결했다. 항소심 재판부도 지난해 10월 이 기자의 항소를 기각했다.&lt;br /&gt;</description>
 			<pubDate>Sun, 28 Jan 2024 02:32:11 -0000</pubDate>
@@ -155,7 +185,7 @@
 		</item>
 		<item>
 			<title>법무법인 지평·스텝토 ‘글로벌 M&amp;A와 기업결합규제 동향’ 세미나 개최</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/195364.jpg" alt="195364.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;왼쪽부터 김진희 법무법인 지평 외국변호사, 김지홍 변호사, 스텝토 변호사, 장품 지평 변호사.&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무법인 지평(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2106"&gt;김지형&lt;/span&gt;)이 미국 로펌 스텝토(Steptoe LLP)와 공동으로 '글로벌 M&amp;A와 기업결합규제 동향' 세미나를 개최했다.&lt;br /&gt;&lt;br /&gt;24일 서울 중구 그랜드센트럴 대회의실에서 열린 이번 세미나에서는 최근 행정 예고된 미국 법무부(DOJ)와 연방거래위원회(FTC)의 기업결합 심사기준 개정안과 국내 글로벌 기업들의 글로벌 M&amp;A와 기업결합신고에서 문제되는 실무상 쟁점 등이 공유됐다. 사회는 지평의 국제그룹장인 김진희 외국변호사가 맡았다.&lt;br /&gt;&lt;br /&gt;먼저 리 버거(Lee Berger) 스텝토 파트너변호사는 DOJ 반독점국(Antitrust Division)의 근무 경험을 바탕으로 '미국의 기업결합규제 동향(US Merger Enforcemnet Update)'에 관해 발표했다.&lt;br /&gt;&lt;br /&gt;이어&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="17780"&gt;장품&lt;/span&gt;(44·사법연수원 39기) 지평 파트너변호사가 '해외 기업결합신고의 실무적 쟁점'에 관해 EU의 실무 사례를 중심으로 설명했다. 장 변호사는 "각 국가별 법제와 규제 실무의 차이를 안 상태에서 현지 대리인과 국내 컨트롤 타워가 긴밀하게 협업하는 게 무엇보다 중요하다"고 강조했다. 이어 "특히 최근 EU 경쟁당국이 심사권한을 확대하는 방향으로 법령을 해석하고 실무를 운영하는 경향이 발견되니 주의가 필요하다"고 덧붙였다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2162"&gt;김지홍&lt;/span&gt;(52·27기) 지평 공정거래그룹장은 "이번 세미나가 국내외 경쟁당국의 기업결합 규제 흐름을 파악하고, 글로벌 M&amp;A의 규제 리스크를 파악하는 자리가 되었기를 바란다"고 밝혔다.&lt;br /&gt;</description>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/195364.jpg" alt="195364.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;왼쪽부터 김진희 법무법인 지평 외국변호사, 김지홍 변호사, 리 버거 스텝토 변호사, 장품 지평 변호사.&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무법인 지평(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2106"&gt;김지형&lt;/span&gt;)이 미국 로펌 스텝토(Steptoe LLP)와 공동으로 '글로벌 M&amp;A와 기업결합규제 동향' 세미나를 개최했다.&lt;br /&gt;&lt;br /&gt;24일 서울 중구 그랜드센트럴 대회의실에서 열린 이번 세미나에서는 최근 행정 예고된 미국 법무부(DOJ)와 연방거래위원회(FTC)의 기업결합 심사기준 개정안과 국내 글로벌 기업들의 글로벌 M&amp;A와 기업결합신고에서 문제되는 실무상 쟁점 등이 공유됐다. 사회는 지평의 국제그룹장인 김진희 외국변호사가 맡았다.&lt;br /&gt;&lt;br /&gt;먼저 리 버거(Lee Berger) 스텝토 파트너변호사는 DOJ 반독점국(Antitrust Division)의 근무 경험을 바탕으로 '미국의 기업결합규제 동향(US Merger Enforcemnet Update)'에 관해 발표했다.&lt;br /&gt;&lt;br /&gt;이어&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="17780"&gt;장품&lt;/span&gt;(44·사법연수원 39기) 지평 파트너변호사가 '해외 기업결합신고의 실무적 쟁점'에 관해 EU의 실무 사례를 중심으로 설명했다. 장 변호사는 "각 국가별 법제와 규제 실무의 차이를 안 상태에서 현지 대리인과 국내 컨트롤 타워가 긴밀하게 협업하는 게 무엇보다 중요하다"고 강조했다. 이어 "특히 최근 EU 경쟁당국이 심사권한을 확대하는 방향으로 법령을 해석하고 실무를 운영하는 경향이 발견되니 주의가 필요하다"고 덧붙였다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2162"&gt;김지홍&lt;/span&gt;(52·27기) 지평 공정거래그룹장은 "이번 세미나가 국내외 경쟁당국의 기업결합 규제 흐름을 파악하고, 글로벌 M&amp;A의 규제 리스크를 파악하는 자리가 되었기를 바란다"고 밝혔다.&lt;br /&gt;</description>
 			<pubDate>Fri, 26 Jan 2024 07:17:30 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/195364</link>
@@ -211,36 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195392</guid>
 			<media:thumbnail>http://image.lawtimes.co.kr/images/195392.jpg</media:thumbnail>
 			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>檢, '조국 전 장관 딸' 조민에 징역 1년 집행유예 3년 구형</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="http://image.lawtimes.co.kr/images/195391.jpg" alt="195391.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;입시 비리 혐의로 불구속 기소된 조국 전 법무부 장관 딸 조민 씨가 26일 오전 서울 서초구 서울중앙지방법원에서 열린 1심 2회 공판에 출석하고 있다. &amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;검찰이 조국 전 법무부 장관 딸 조민 씨의 입시비리 혐의에 징역형의 집행유예를 구형했다.&lt;br /&gt;&lt;br /&gt;검찰은 26일 서울중앙지법 형사16단독&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="16484"&gt;이경선&lt;/span&gt;(42·38기) 판사 심리로 열린 조 씨의 허위작성공문서행사, 업무방해, 위계공무집행방해 혐의 결심 공판에서 징역 1년에 집행유예 3년을 선고해 달라고 요청했다.&lt;br /&gt;&lt;br /&gt;조 씨는 어머니 정경심 전 동양대 교수와 함께 2014년 6월 부산대 의학전문대학원 입학관리과에 허위로 작성한 입학원서·자기소개서·위조된 동양대 총장 표창장을 제출해 평가위원들의 입학사정 업무를 방해한 혐의로 재판에 넘겨졌다.&lt;br /&gt;&lt;br /&gt;또 부모와 함께 2013년 6월 17일 서울대 의전원에 허위로 작성된 자기소개서·서울대 법대 공익인권법센터장 명의의 인턴십 확인서·동양대 총장 표창장 등 위조된 증빙서류를 제출한 혐의도 있다.&lt;br /&gt;&lt;br /&gt;검찰은 입시 비리가 성실하게 노력하는 수험생과 학부모의 믿음을 저버리는 범죄로, 사회적 해악이 매우 크다고 지적했다. 다만 조 전 장관 부부가 실형을 선고받은 점, 조 씨의 입학이 모두 취소된 점, 조 씨가 태도를 바꿔 혐의를 인정한 점 등을 고려했다고 설명했다. &lt;br /&gt;&lt;br /&gt;조 씨 측은 혐의는 인정하지만, 검찰이 부모에게 자백을 받아낼 목적으로 조 씨의 기소를 미루는 등 공소권을 남용했다며 선고유예를 해달라고 호소했다.</description>
-			<pubDate>Fri, 26 Jan 2024 03:49:21 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195391</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195391</guid>
-			<media:thumbnail>http://image.lawtimes.co.kr/images/195391.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>'김하성·류현진 공갈' 임혜동, 구속영장 기각</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="http://image.lawtimes.co.kr/images/195373.jpg" alt="195373.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;야구선수 임혜동 &amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;메이저리거 김하성과 류현진에게 거액을 뜯어낸 혐의를 받는 전 야구선수 임혜동이 구속을 면했다.&lt;br /&gt;&lt;br /&gt;서울중앙지법&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8236"&gt;유창훈&amp;nbsp;&lt;/span&gt;영장전담 부장판사는 25일 폭력행위처벌법상 공동공갈 혐의를 받는 임씨에 대해 "(추가) 소명의 필요성과 피의자의 방어권 행사 측면을 고려할 때 구속영장 발부의 상당성을 인정하기는 어렵다"며 구속영장을 기각했다.&lt;br /&gt;&lt;br /&gt;유 부장판사는 "공범과의 공모나 실행 분담 여부, 별도로 인지한 피해자(류현진)에 대한 공갈 성립 여부 등에 관해 추가적 소명이 필요하다"고 설명했다.&lt;br /&gt;&lt;br /&gt; 이날 오전 영장실질심사을 위해 법원에 도착한 임혜동은 류현진 협박 혐의를 인정하냐, 에이전시 팀장과 공모했느냐 등 질문에 답하지 않았다. 약 30분의 심사를 마치고 법정에서 나와서도 침묵했다.&lt;br /&gt;&lt;br /&gt;임혜동은 2021년 2월 서울 강남의 한 술집에서 김하성과 술을 마시다 몸싸움을 벌인 뒤 이를 빌미로 김하성을 협박해 합의금 명목으로 두 차례에 걸쳐 4억 원을 받아낸 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;경찰은 수사 과정에서 임혜동이 류현진에게도 비슷한 수법으로 수 억을 뜯어낸 정황을 포착하고 수사를 이어왔다. &lt;br /&gt;&lt;br /&gt;류현진은 2022년 1월 임혜동과 술을 마시다 임혜동의 엉덩이를 때리는 듯한 영상으로 협박받아 임혜동에게 3억 여원을 건넨 것으로 전해졌다.&lt;br /&gt;&lt;br /&gt;각각의 술자리 사건 당시 임혜동은 두 선수가 소속된 에이전시에서 매니저로 일하고 있었다.&lt;br /&gt;&lt;br /&gt;서울 강남경찰서는 임혜동만 공갈 혐의로 수사해왔으나 휴대폰 포렌식 결과 에이전시 팀장 박모씨와 공모한 정황을 발견하고 임혜동에게 공동공갈 혐의를 적용해 지난 18일 구속영장을 신청했다.&lt;br /&gt;&lt;br /&gt;박 씨는 참고인 신분으로 조사를 받아오다 최근 피의자로 입건됐다. &lt;br /&gt;&lt;br /&gt;임혜동은 김하성이 고소하자, 김하성에게 상습적으로 폭행을 당했다고 주장했다. 김하성은 상습적 폭행 등을 부인하며 임혜동을 정보통신망법상 명예훼손 혐의로 추가 고소했다.&lt;br /&gt;&lt;br /&gt;임혜동은 2015년 넥센(현 키움) 히어로즈에 투수로 입단했으나 1군으로 올라가지 못해 이듬해 팀을 떠났다.</description>
-			<pubDate>Fri, 26 Jan 2024 02:59:19 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195373</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195373</guid>
-			<media:thumbnail>http://image.lawtimes.co.kr/images/195373.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>새변 "배현진 습격, 여성 정치인 대상 혐오범죄…점점 어려지는 가해자 나이 주목해야"</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="http://image.lawtimes.co.kr/images/새변.jpg" alt="새변.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;배현진 국민의힘 의원이 25일 15세 남자 중학생에게 피습을 당한 사건에 대해 청년변호사 단체가 "여성 정치인에 대한 혐오 범죄"라고 규정하고 점점 어려지는 혐오범죄 가해자의 나이에 주목해야 한다고 지적했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;새로운 미래를 위한 청년 변호사 모임(이사장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="117"&gt;백대용&amp;nbsp;&lt;/span&gt;변호사·이하 새변)는 26일 성명을 내 "자세한 범죄 이유는 경찰 조사에서 밝혀지겠으나, 이번 사건이 여성 정치인에 대한 혐오 범죄로 보인다"며 "유감"이라고 밝혔다. 그러면서 "동기를 알기 어려운 혐오 범죄가 늘고 있어 우려된다"며 "이같은 비면식범에 의한 범죄의 경우 주요 표적은 저항하기 어려운 여성과 노약자"라고 짚었다.&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;새변은 또 "점점 어려지는 혐오 범죄 가해자의 나이에 주목할 필요가 있다"면서 "지난해 신림역 칼부림 사건의 가해자는 사건 당시 기준 33세, 관악산 생태공원 둘레길 강간살인 사건의 가해자는 30세였다"고 지적했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이어 "미국에서는 혐오 범죄(Hate Crime)를 적극적으로 처벌하고, 혐오 범죄 예고글이 올라오면 (온라인 사이트) 담당자가 바로 해당 혐오표현을 차단하는 등 여러 조치를 취하고 있다"며 "갈수록 국민의 생명권을 위협하고, 사회 분위기를 불안정하게 하는 혐오 범죄에 대한 입법이 이뤄지지 않는 것은 심각한 문제"라고 비판했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;그러면서 "혐오 범죄 가해자의 나이가 어려지는 것에 대한 국민의 사회적 공감대가 넓게 형성돼 국회가 대안 입법에 박차를 가하기를 희망한다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Fri, 26 Jan 2024 02:55:15 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195382</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195382</guid>
-			<media:thumbnail>http://image.lawtimes.co.kr/images/새변.jpg</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
