@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/opinion</link>
 		<language>ko</language>
 		<item>
+			<title>고승덕의 백세건강 모범답안 : 계란과 콜레스테롤 논란</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/2023n_100years_go.jpg" alt="2023n_100years_go.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;계란은 영양이 우수한 식품이다. 포화지방은 낮고 단백질, 비타민(A, B군, D 등), 무기질(아연, 철 등)이 풍부하다. 문제는 콜레스테롤이다. 계란 1개에 든 콜레스테롤은 한국인 콜레스테롤 섭취한도(하루 300㎎)의 약 2/3에 해당한다. 계란을 하루에 2개 이상 먹으면 건강에 해로운 것일까?&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;혈중 콜레스테롤과 심혈관질환(CVD)의 관계는 잘 알려져 있다. LDL콜레스테롤이 높으면 CVD 위험이 높고, HDL콜레스테롤이 높으면 그 반대이다. LDL은 혈관에 축적되어 동맥경화를 유발하기 때문에 나쁜 콜레스테롤이다. HDL은 LDL을 혈관에서 간으로 돌려 보내기 때문에 좋은 콜레스테롤이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;혈중 LDL이 심혈관에 해롭다는 사실은 확립되어 있으나 음식에 함유된 콜레스테롤(DC)과 혈중 LDL의 관계는 논란이 있다. 종전에는 DC를 많이 섭취하면 LDL도 높아진다고 믿었다. 그러나 증거는 명확하지 않다. 일반 인구에 대한 연구결과는 상충된다. 계란을 많이 먹는 사람은 LDL이 높다는 보고(2020 중국 연구)가 있지만 계란을 많이 먹어도 LDL 상승이 낮다거나(미국 연구) LDL에 영향이 없다거나(일본 연구) 도리어 고지혈증 위험이 감소한다는 보고(스페인 연구, 2022 중국 연구)도 있다. DC 섭취 실험결과들은 대부분 DC를 많이 섭취해도 LDL이 그다지 증가하지 않는다고 보고했다(2016 리뷰). DC를 섭취한 만큼 LDL이 증가한다고 인정하기 어렵기 때문에 2015년 미국은 콜레스테롤 섭취한도를 폐지했다. 계란 섭취를 제한하지 않아도 된다는 의미이다. 한국은 아직도 콜레스테롤 섭취한도를 유지하고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 375px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/195573(1).jpg" alt="195573.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;         &lt;b&gt;계란 섭취와 심혈관질환(CVD) 위험의 관계&amp;nbsp;&lt;/b&gt;      &lt;/figcaption&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;x축은 주당 섭취하는 계란 수량, y축은 CVD의 상대적 위험을 표시. 주당 6개까지의 계란 섭취는 안 먹는 것에 비해 CVD 위험이 낮다(Godos 2021년 메타분석). 하루 1개의 계란은 건강에 좋다는 의미다.&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;왜 DC를 많이 섭취해도 LDL은 많이 증가하지 않을까? 우리 몸에는 LDL 수준을 조절하는 기능이 있다. 혈중 콜레스테롤의 75~80%는 체내에서 합성된다. DC 섭취로 혈중 콜레스테롤이 높아지면 DC 흡수율과 콜레스테롤 합성이 감소한다(2000, 2022 논문). 계란 1개를 먹으면 혈중 콜레스테롤은 2~3%밖에 증가하지 않는다(2018 논문).&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;그렇다고 아무나 계란을 마음껏 먹을 수 있다는 말은 아니다. DC의 LDL 효과는 사람마다 상당히 다를 수 있다. 최근 연구에 의하면 인구의 2/3은 DC 섭취가 높아도 LDL 증가가 미미하다(2018 논문). 이런 사람을 저반응자라고 한다. 대부분은 계란을 하루 1~2개 먹어도 LDL 증가를 걱정할 필요가 없다(2019 논문). 하루 20개 이상 먹어도 LDL이 정상인 사례도 있다. 반면에 인구의 1/3은 DC 섭취에 따른 LDL 효과가 크다. 고반응자는 계란을 적게 먹어도 LDL 수준이 크게 상승하기 때문에(2022 논문) 계란 섭취에 주의해야 한다. 포화지방 섭취가 적음에도 불구하고 계란을 하루 1개 먹었을 때 LDL이 높아진다면 고반응자일 가능성이 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;LDL 수준을 낮추는 최선의 방법은 전반적인 식단의 질을 높이는 것이다. 포화지방, 트랜스지방, 열량 밀도가 높은 식단은 DC만 높은 식단보다 LDL 증가(2016 논문)와 CVD 위험(2022 논문)이 더 크다. 반면에 섬유질이 높은 식단은 LDL 효과가 적다. 매일 계란을 먹더라도 섬유질이나 생선 섭취가 높은 사람은 계란을 거의 먹지 않는 사람보다 LDL 수준이 낮다는 보고(2023 논문)를 참고할 필요가 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;고승덕 한국청소년쉼터협의회 이사장·변호사&amp;nbsp;&lt;/b&gt;&lt;/p&gt;</description>
+			<pubDate>Sat, 03 Feb 2024 02:12:37 -0000</pubDate>
+			<category>opinion</category>
+			<link>https://www.lawtimes.co.kr/opinion/195573</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/195573</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/2023n_100years_go.jpg</media:thumbnail>
+			<dc:creator>고승덕</dc:creator>
+		</item>
+		<item>
 			<title>법의 신(新)과 함께 : 아동의 출생기록 - 출생통보제 7월 시행과 함께&lt;br&gt;
 철저한 출생기록관리 필요&lt;br&gt;
 아동인권의 한 획을 긋는 해로</title>
@@ -134,16 +144,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/195231</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/2023_lawsmart_soo.jpg</media:thumbnail>
 			<dc:creator>이수경</dc:creator>
-		</item>
-		<item>
-			<title>박성민의 정치코멘터리 : 한동훈 비대위원장의 새로운 시험대</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/2023_commentary.jpg" alt="2023_commentary.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;국민의힘과 민주당이 공천룰을 확정했습니다. 국민의힘 공천룰은 인위적 물갈이 대신 예측 가능한 시스템 공천을 통해 ‘컷오프’ 대상과 공천 후보자를 결정하겠다는 것으로 진일보했습니다. 민주당은 전부터 현역 의원의 탈당·불출마·컷오프 지역은 ‘전략 공천’하고 그 외 지역은 경선을 원칙으로 하고 있습니다. 이번에 국민의힘도 예측 가능성을 높인 것입니다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;‘동일 지역 3선’으로 15% 감점받는 의원들도 대체로 만족하는 건 불확실성이라는 두려움이 해소됐기 때문입니다. 여전히 곳곳에 주관적 판단이 들어갈 여지가 있는 건 사실이지만 그래도 전보다는 예측 가능해진 건 사실입니다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;저는 두 가지 인상을 받았습니다. ‘개혁신당’이나 ‘특검법’ 이탈을 막기 위해 현역 의원 컷오프를 최소화하고 (패널티가 있더라도) 적어도 경선은 할 수 있다는 분명한 신호를 준 것입니다. 또 하나 주목한 것은 ‘최후의 친윤 실세’ 이철규 의원 공천 개입에 대한 우려를 어느 정도 불식시킨 겁니다. 공관위원 명단이 발표됐을 때 “이철규가 혼자 다 하겠군”이란 반응이었습니다. 실제로 여기저기서 이철규 의원 개입 얘기가 흘러나오는 상황이었습니다.&lt;/p&gt;&lt;p&gt;한동훈 비대위원장이 이철규 공관위원 선임과 관련 “지금 당을 이끌고 있는 것은 저”라며 “공천관리위원장과 함께 과정이 공정한 공천, 이기는 공천, 설득력 있는 공천을 직접 챙길 것”이라고 공언한 후에 나온 공천룰이라 주목받았습니다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;한동훈 위원장의 ‘미숙함’이 드러난 장면도 있습니다. 시스템 공천을 발표한 직후 마포을 민주당 정청래 의원 상대로 김경율 비대위원을 공개적으로 발표한 것입니다. 깜짝 공개 직후 “(김경율 위원이) 어제 제 부탁을 수락하시자마자 바로 이 자리에서 말씀드리는 이유는 혹시 마음 변할까 걱정되기 때문”이라고 했는데 시스템 공천에 대한 의구심을 키운 건 사실입니다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;김경율 비대위원은 “국민의힘 3선, 4선 의원도 알고 있고, 용산 대통령실도 알고 있고, 전직 장관(한동훈 비대위원장)도 알고 있음에도 (‘김건희 리스크’라는) 여섯 글자를 말을 하지 못하고 있는 상황”이라며 직설적으로 금기를 깬 분입니다. 한동훈 비대위원장도 (디올 백 수수와 관련) “분명히 아쉬운 점이 있고 국민들께서 걱정하실 만한 부분이 있었다고 저도 생각합니다”라며 진일보한 태도를 보였습니다. 총선을 앞두고 김건희 리스크 해소 요구가 본격적으로 테이블에 올라왔습니다. 윤석열 대통령과 한동훈 비대위원장이 새로운 시험대에 섰습니다. 김경율 공천이 뜨거운 감자를 수면 위로 끌어올렸습니다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;b&gt;박성민 정치컨설팅 민 대표&amp;nbsp;&lt;/b&gt;&lt;/p&gt;</description>
-			<pubDate>Sun, 21 Jan 2024 20:09:27 -0000</pubDate>
-			<category>opinion</category>
-			<link>https://www.lawtimes.co.kr/opinion/195195</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/195195</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/2023_commentary.jpg</media:thumbnail>
-			<dc:creator>박성민</dc:creator>
 		</item>
 	</channel>
 </rss>
