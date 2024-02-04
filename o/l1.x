@@ -6,6 +6,66 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>'노동 전문가' 이명철 부장판사, 법무법인 율촌 합류</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/195667.jpg" alt="195667.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.yulchon.com/ko/main/main.do" target="_blank"&gt;&lt;b&gt;법무법인 율촌&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7573"&gt;강석훈&lt;/span&gt;)이 '노동 전문가'로 꼽히는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8773"&gt;이명철&lt;/span&gt;(50·30기) 서울중앙지법 부장판사를 영입한다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;4일 법조계에 따르면 이 부장판사는 법무법인 율촌으로 이직하기로 했다. 2월 19일자로 퇴직하는 이 부장판사는 다음달 초부터 변호사 업무를 시작할 예정이다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 부장판사는 광주일고와 서울대 법학과를 졸업했다. 1996년 제38회 사법시험에 합격하고 서울중앙지법 의정부지원 판사로 공직 생활을 시작했다. 이후 서울고법·광주지법 판사, 창원지법 통영지원 부장판사, 수원지법 부장판사 등을 거쳤다. 2021년 2월부터 지난해 2월까지 대법원 근로조에서 재판연구관을 역임했다.&lt;/p&gt;</description>
+			<pubDate>Sun, 04 Feb 2024 09:07:01 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/195667</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195667</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/195667.jpg</media:thumbnail>
+			<dc:creator>이순규 기자</dc:creator>
+		</item>
+		<item>
+			<title>이혜영 변호사, 대한민국 청렴대상 '사회봉사' 대상 수상</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/195668.jpg" alt="195668.jpg" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="25450"&gt;이혜영&lt;/span&gt;(51·변시 2회) 법무법인 금정 변호사는 최근 서울 서초구 매헌윤봉길의사기념관에서 열린 '제4회 대한민국 청렴대상'시상식에서 사회봉사부문 대상을 수상했다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대한민국 청렴대상은 매년 지역사회 청렴 문화와 봉사 정신 확산에 기여한 이들을 선정해 수여한다. 사단법인 공직공익비리신고 전국시민운동연합이 주관한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;동아대 로스쿨을 졸업한 이 변호사는 경남·부산에서 중소기업 법률지원단, 지방노동위원회 공익위원, 지역균형발전위원회 등에서 활동하며 노사관계 분쟁을 균형적으로 해결한 공적을 인정받았다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이 변호사는 "의미 있는 상을 받아 매우 영광스럽다"며 "사회 곳곳에서 보이지 않게 봉사하는 분들이 많기 때문에 수상을 겸허히 여기고 청렴한 세상을 만드는데 최선을 다하겠다"고 소감을 밝혔다.&lt;/p&gt;</description>
+			<pubDate>Sun, 04 Feb 2024 09:05:46 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/195668</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195668</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/195668.jpg</media:thumbnail>
+			<dc:creator>이순규 기자</dc:creator>
+		</item>
+		<item>
+			<title>"상명하복 싫어" 양심적 병역 거부, 대법 "징역 1년 6개월" 확정</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/195669.jpg" alt="195669.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;군대의 상명하복 문화가 싫다며 '양심적 병역거부'를 주장한 남성에게 징역 1년 6개월의 실형이 확정됐다. &lt;br /&gt;&lt;br /&gt;4일 법조계에 따르면 대법원 3부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1759"&gt;오석준&amp;nbsp;&lt;/span&gt;대법관)는 A씨에게 병역법 위반 혐의로 징역 1년 6개월 실형을 선고한 원심 판결을 확정했다. &lt;br /&gt;&lt;br /&gt;A씨는 2019년 10월 현역병 입영통지서를 수령했음에도 정당한 사유 없이 입영하지 않은 혐의를 받았다. &lt;br /&gt;&lt;br /&gt;A씨는 "폭력과 전쟁에 반대한다는 신념에 따라 현역병 입영을 거부한 것"이라고 주장했다.&lt;br /&gt;&lt;br /&gt;1심은 A씨의 주장을 받아들이지 않고 징역 1년 6개월을 선고했다.&lt;br /&gt;&lt;br /&gt;1심 재판부는 "양심적 병역거부에서 말하는 양심은 그 신념이 깊고 확고하며 진실해야 한다"며 "A씨는 비폭력·반전·평화주의와 관련된 NGO 활동이나 시민운동을 하는 등 자신의 정치적·사상적 신념을 외부에 피력하거나 실현하기 위해 노력한 점이 발견되지 않는다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;이어 "A씨는 평소 온라인 전쟁게임인 '배틀그라운드'을 즐겨 했다"며 "이 게임은 가상세계에서 총기로 캐릭터 등을 살상하는 것으로 현실과는 다른 측면이 있으나 비폭력·반전에 대한 신념을 이유로 입영을 거부하는 A씨의  양심이 과연 깊고 진실한지에 대해 의문이 들게 한다"고 지적했다.&lt;br /&gt;&lt;br /&gt;1심은 경찰 수사 과정에서 A씨가 군대 내 상명하복 문화나 인권침해, 부조리 등을 입영거부의 주요 사유로 진술한 것과 관련해서도 "폭력 및 전쟁에 대한 반대, 집총 내지 군사훈련을 수반하는 병역의무에 대한 반대와 동일하게 평가될 수 있다거나 밀접한 관련성을 갖고 있다고 보기 어렵다"고 판시했다.&lt;br /&gt;&lt;br /&gt;A씨는 1심 판결에 불복해 항소했지만 기각됐다.&lt;br /&gt;&lt;br /&gt;2심 재판부는 "A씨가 병역의무를 거부한 이유로 드는 신념이 도덕적·윤리적 양심으로서 병역의무를 이행할 수 없다거나, 그 신념이 깊고 확고하며 진실한 것으로 인정하긴 어렵다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;대법원의 판단도 같았다.&lt;br /&gt;&lt;br /&gt;대법원도  "원심판결에 논리와 경험의 법칙에 반해 자유심증주의의 한계를 벗어나거나 병역법 88조 1항의 정당한 사유에 관한 법리를 오해한 잘못이 없다"며 상고를 기각하고 원심을 확정했다.&lt;br /&gt;</description>
+			<pubDate>Sun, 04 Feb 2024 09:03:57 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/195669</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195669</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/195669.jpg</media:thumbnail>
+			<dc:creator>이순규 기자</dc:creator>
+		</item>
+		<item>
+			<title>행정법원, "한국석유관리원 35억원 환급해야"…SK에너지, 석유수입부과금 환급 소송 승소</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/195670(1).jpg" alt="195670.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;SK에너지가 한국석유관리원을 상대로 '석유수입부과금 35억원을 환급해 달라'며 낸 소송에서 승소했다.&lt;br /&gt;&lt;br /&gt;서울행정법원 행정7부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6672"&gt;정상규&amp;nbsp;&lt;/span&gt;수석부장판사)는 SK에너지가 한국석유관리원을 상대로 "석유수입부과금 환급 거부처분을 취소하라"며 제기한 소송에서 원고 승소판결했다고 4일 밝혔다.&lt;br /&gt;&lt;br /&gt;석유사업법 등에 따르면 석유수출입업자가 석유를 수입할 때는 부과금을 납부해야 한다. 다만, 중동 이외에 미주, 유럽 등에서 수입해 정해진 용도로 사용한 원유에 대해선 수입선을 다변화하는 차원에서 부과금 일부 환급이 가능하다. 환급금 규모는 선적항과 국내 하역항까지의 최단 거리를 기준으로 산출한다.&lt;br /&gt;&lt;br /&gt;SK에너지는 2017년 11월∼2019년 2월 44회에 걸쳐 미국과 멕시코에서 원유를 수입하고 한국석유관리원에 1L당 16원의 부과금을 냈다.&lt;br /&gt;&lt;br /&gt;SK에너지는 이에 따라 2018년 9월∼2019년 11월 한국석유관리원에 환급을 신청해 총 136억원을 돌려받았다. &lt;br /&gt;하지만 이후 환급금을 너무 적게 산정했다며 35억원을 추가로 환급해달라고 신청했다.&lt;br /&gt;&lt;br /&gt;환급금은 선적항에서 국내 하역항까지 최단 거리를 기준으로 산출한 유조선운임지수 값을 기초로 정하는데, SK에너지는 당초 '물리적인 최단 거리'를 기준으로 이 값을 산출했다.&lt;br /&gt;&lt;br /&gt;하지만 실제로는 유조선이 너무 커 물리적 최단 항로인 '수에즈 운하'를 통과하지 못하고 아프리카 희망봉 등을 거친 우회로를 택했다. 이 때문에 운송비가 더 나온 만큼 추가 환급이 필요하다고 SK에너지는 주장했다.&lt;br /&gt;&lt;br /&gt;하지만 한국석유관리원은 "추가 환급할 정당한 사유가 없다"며 신청을 반려했다.&lt;br /&gt;&lt;br /&gt;법원은 sk에너지의 손을 들어줬다.&lt;br /&gt;&lt;br /&gt;재판부는 "원유도입선 다변화 제도의 취지는 중동 외 지역에서 원유를 수입할 때의 운송비와 중동 수입 운송비 차액을 지원해 원유 수급 안정성을 높이려는 것"이라며 "유조선운임지수는 실제 운항 가능한 최단 거리를 기준으로도 산출될 수 있다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;한국석유관리원은 이미 환급 결정이 한 차례 있었던 이상 추가 신청은 '불가쟁력'에 반하기 때문에 허용될 수 없다고 주장했다. 불가쟁력은 하자 있는 행정행위라 할지라도 불복 기간이 지나거나 쟁송절차가 종료되면 그 효력에 대해 다툴 수 없다는 원칙이다.&lt;br /&gt;&lt;br /&gt;하지만 재판부는 "SK에너지는 선행 환급 결정의 하자를 주장하며 효력을 다투는 게 아니다"라며 "선행 결정이 있었다는 이유만으로 추가 신청을 거부할 순 없다"고 판시했다.&lt;br /&gt;</description>
+			<pubDate>Sun, 04 Feb 2024 09:01:47 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/195670</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195670</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/195670(1).jpg</media:thumbnail>
+			<dc:creator>이순규 기자</dc:creator>
+		</item>
+		<item>
+			<title>'부당합병 ·회계부정 등' 이재용 삼성 회장 1심 선고 D-1일…삼성 긴장감 고조</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/PYH2023111705280001300.jpg" alt="PYH2023111705280001300.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진= 연합뉴스&amp;gt;&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&amp;nbsp;이재용 삼성전자 회장의 부당 합병·회계 부정 혐의 사건의 1심 선고일이 하루 앞으로 다가온 4일 삼성 그룹은 긴장감 속에 사태를 예의주시하는 분위기다.&lt;br /&gt;&lt;br /&gt;&amp;nbsp;법조계는 이 회장이 2016년 국정농단 사태부터 9년째 겪고 있는 '사법 리스크'에서 벗어날 수 있을지 주목하고 있다.&lt;br /&gt;&lt;br /&gt;&amp;nbsp;서울중앙지법 형사합의25-2부(재판장 박정제, 지귀연, 박정길 부장판사)는 5일 이 회장의 자본시장법 위반 혐의 사건 선고기일을 연다.&lt;br /&gt;&lt;br /&gt;&amp;nbsp;지난해 11월 진행된 결심공판에서 검찰은 이 회장에 대해 징역 5년과 벌금 5억 원을 선고해달라고 재판부에 요청했다.&lt;br /&gt;&lt;br /&gt;&amp;nbsp;검찰은 "이 사건은 그룹 총수의 승계를 위해 자본시장의 근간을 훼손하고 각종 위법이 동원된 '삼성식 반칙'을 보여준 사건"이라며 "피고인들은 총수의 사익을 위해 주주의 권한을 남용하고 정보 비대칭을 악용했다"고 지적했다. &lt;br /&gt;&lt;br /&gt;&amp;nbsp;이어 "피고인들은 합병 당시 주주 반발로 합병이 불투명해지자 합병 찬성이 국익이라며 주주들을 기망했다"며 "피고인들은 우리 사회 구성원 모두가 쌓은 자본시장과 회계신뢰를 무참히 훼손했다"고 설명했다.&lt;br /&gt;&lt;br /&gt;&amp;nbsp;반면 이 회장은 최후진술에서 "오래 전부터 사업의 선택과 직접 신사업, 신기술 투자와 M&amp;A를 통한 모자란 부분에 대한 보완, 지배구조 투명화를 통해 예측하기 어려운 미래에 선제적인 대응이 필요하다고 생각했다"며 "이를 통해 회사 존속과 성장을 지켜내고 회사가 잘 돼 임직원과 주주, 고객, 협력회사 등의 사랑을 받는 것이 목표였고 두 회사 합병도 그런 흐름 속에서 추진됐던 것"이라고 설명했다.&lt;br /&gt;&lt;br /&gt;&amp;nbsp;앞서 검찰은 2015년 삼성물산과 제일모직의 합병과 삼성바이오로직스의 회계처리 과정에서 경영권 승계 등을 위한 조직적인 불법행위가 있었다고 보고 2018년부터 1년 9개월간 관련 수사를 진행했다. 당시 이 회장 측 신청으로 소집된 검찰 수사심의위원회에서는 이 회장에 대한 수사 중단과 불기소를 권고했으나 검찰은 자본시장법상 부정거래, 외부감사법상 시세조종, 업무상 배임 등 혐의를 적용해 2020년 9월 불구속 기소했다.&lt;br /&gt;&lt;br /&gt;&amp;nbsp;다만 1심 선고 결과가 어떻게 나오더라도 양측의 항소 가능성이 있는 만큼 당분간 이 회장의 '사법 리스크'가 해소되기는 쉽지 않을 전망이다.</description>
+			<pubDate>Sun, 04 Feb 2024 08:59:13 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/195671</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195671</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/PYH2023111705280001300.jpg</media:thumbnail>
+			<dc:creator>이순규 기자</dc:creator>
+		</item>
+		<item>
+			<title>美 연방법원, 트럼프 '대선 뒤집기' 혐의 재판 연기</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/PAP20240201062101009.jpg" alt="PAP20240201062101009.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진= 연합뉴스&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&amp;nbsp;도널드 트럼프 미 전 대통령이 지난 2020년 대선 결과를 뒤집으려 한 혐의로 기소된 사건 재판이 연기됐다.&lt;br /&gt;미국의 소리(VOA) 등에 따르면, 이 사건을 담당하고 있는 워싱턴 D.C. 연방지방법원의 타냐 처트칸 판사는 2일, 3월 4일(현지 시각)로 예정됐던 재판 일정이 연기됐다고 밝혔다. 처트칸 판사는 이번 재판 일정 연기를 알리며 재판이 언제 열릴지에 대해서 그 시점을 밝히지 않은 것으로 전해졌다.&lt;br /&gt;&lt;p&gt;&amp;nbsp;지난해 8월 미 연방 특검은 2021년 1월 6일에 발생한 의회 난입 사태 등과 관련해 트럼프 전 대통령이 대선 결과를 뒤집으려고 시도했다는 혐의 등으로 기소했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;앞서 트럼프 전 대통령은 대선 결과 뒤집기 혐의로 기소된 이번 사건과 관련해 자신의 행위는 당시 대통령 재직 중에 있었던 것으로 '면책특권'이 있다고 주장하며 이를 기각할 것을 요구했지만, 처트칸 판사는 이를 기각했다. 트럼프 전 대통령 측은 이에 항소했고, 현재 항소심은 이를 받아들여 트럼프 전 대통령의 면책특권 주장을 심리하고 있다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;미국에선 연방대법원 판례에 따라 재임 중 공무 행위에 대해 민사상 책임은 면한다고 보지만, 대통령의 면책이 형사 소추에도 적용되는지는 명확한 판례가 없다고 한다.&lt;/p&gt;</description>
+			<pubDate>Sun, 04 Feb 2024 08:52:51 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/195666</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195666</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/PAP20240201062101009.jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 재판 중 대체역 편입 결정했어도… 양심적 병역거부 인정 안 돼</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="http://image.lawtimes.co.kr/images/194810(6).jpg" alt="194810.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;양심적 병역 거부를 이유로 입영하지 않아 1심에서 유죄가 인정된 피고인이 항소심 진행 중 대체역 편입 신청이 가능해져 편입 신청을 했고, 상고심이 진행되는 가운데 대체역 편입 결정이 났다면 법원 판단에 영향을 미칠 수 있을까. 대법원은 영향을 미치지 않는다는 취지의 판단을 내놨다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대법원 형사3부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1759"&gt;오석준&lt;/span&gt;&amp;nbsp;대법관)는 1월 11일 병역법 위반 혐의로 기소된 A 씨에게 징역 1년 6개월을 선고한 원심을 확정했다(&lt;b&gt;2021도6908&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;A 씨는 2018년 10월 충북 청주시 서원구에 있는 충북지방병무청에서 ‘2018년 11월 20일까지 강원도 양구군에 위치한 2사단 입영부대로 입영하라’는 현역병 입영통지서를 수령했다. 하지만 정당한 사유 없이 입영하지 않아 기소됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;A 씨는 “폭력 및 전쟁에 반대한다는 신념에 따라 현역병 입영을 거부한 것”이라고 주장했다. 하지만 법원은 병역법 제88조 제1항에 따른 정당한 사유가 있다고 보기 어렵다고 판단해 A 씨에게 징역 1년 6개월을 선고했다. 이에 불복한 A 씨는 항소했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;한편, 항소심이 진행 중이던 2020년 6월 대체역 편입신청이 가능해졌고 같은 해 11월 A 씨는 대체역 편입신청을 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;하지만 편입신청 결과가 나오기 전인 2021년 5월 항소심에서는 A 씨의 항소를 기각했고 1심 판단을 유지했다.&lt;/p&gt;&lt;p&gt;이후 상고심 진행 중에 대체역심사위원회에서는 A 씨에 대해 대체역 편입결정을 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;하지만 대법원에서는 A 씨에게 징역 1년 6개월을 선고한 원심을 그대로 확정했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;재판부는 “원심 판결에 논리와 경험의 법칙에 반해 자유심증주의의 한계를 벗어나거나 병역법 제88조 제1항의 정당한 사유에 관한 법리를 오해한 잘못이 없다”고 밝혔다.&lt;/p&gt;</description>
 			<pubDate>Sun, 04 Feb 2024 00:05:22 -0000</pubDate>
@@ -184,63 +244,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195633</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/195631(1)(1).jpg</media:thumbnail>
 			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>15년째 범죄피해자에게 '사랑나누기'한 경주범피</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/195632.jpg" alt="195632.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;경주범죄피해자지원센터(이사장 이상춘, 이하 경주범피)는 설을 앞두고 지난달 20일부터 30일까지 열흘 동안 범죄 피해 가정 30세대를 직접 방문해 위문금품 총 1000만 원 상당을 지원하는 '사랑나누기'를 진행했다. ?&lt;br /&gt;&lt;br /&gt;사랑나누기 사업은 2010년 시작해 15년째 이어지고 있는 나눔 사업이다. 범죄 피해 가정을 직접 방문해 피해자와 상담하고 위로하는 목적으로 시작됐다. 각 세대에는 생필품과 온누리 상품권 등 세대당 35만 원 상당이 지원된다. 올해는 오토인더스트리가 온누리상품권을 후원했다.&lt;br /&gt;&lt;br /&gt;이상춘 경주범피 이사장은 "최근 우리 사회는 이상동기 범죄 등으로 인한 아무런 잘못도 없는 범죄 피해자들이 늘어나고 있다"며 "이제 범죄 피해는 남의 일이 아니라는 인식이 우리 사회에 팽배해져야 범죄도 피해자도 줄어드는 효과를 거둘 수 있지 않을까 생각한다"고 말했다.</description>
-			<pubDate>Fri, 02 Feb 2024 09:58:15 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195632</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195632</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/195632.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>대법관 후보에 엄상필·신숙희</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;div class="cheditor-caption-wrapper"&gt;      &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;         &lt;img src="https://image.lawtimes.co.kr/images/195631(1).jpg" alt="195631.jpg" /&gt;         &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;엄상필(왼쪽) 서울고법 부장판사, 신숙희 양형위원회 상임위원&lt;/figcaption&gt;      &lt;/figure&gt;      &lt;/div&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;/div&gt;&lt;p style="text-align: left; "&gt;1월 1일 임기가 만료된&amp;nbsp;&lt;span class="lawmanlink" serial="2382" style="font-weight: bold;"&gt;안철상&lt;/span&gt;(67·사법연수원 15기),&amp;nbsp;&lt;span class="lawmanlink" serial="873" style="font-weight: bold;"&gt;민유숙&lt;/span&gt;(59·18기) 대법관의 후임에&amp;nbsp;&lt;span class="lawmanlink" serial="455" style="font-weight: bold;"&gt;엄상필&lt;/span&gt;(56·23기) 서울고법 부장판사,&amp;nbsp;&lt;span class="lawmanlink" serial="3987" style="font-weight: bold;"&gt;신숙희&lt;/span&gt;(55·25기) 양형위원회 상임위원이 제청됐다. 두 후보자가 인준 절차를 거쳐 대법관으로 취임하게 되면 조희대 코트 출범 후 처음으로 대법원에 합류하는 대법관이면서 윤석열 정부 출범 이후 임명되는 네, 다섯 번째 대법관이 된다.&lt;/p&gt;&lt;p style="text-align: left; "&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left; "&gt;두 대법관의 후임 임명제청을 두고 법조 안팎에선 이미 안철상, 민유숙 전 대법관이 퇴임한 만큼 서둘러 후임자를 선정해야 하고 총선을 앞두고 있어 국회 통과에 걸림돌이 없는 후보에 방점이 찍힐 것이라는 관측이 나왔다. 큰 이상 기류 없이 임명 제청이 이뤄진 것으로 보이는 만큼 대통령실에서도 두 후보자에 대해 임명 절차를 진행할 것으로 예상된다.&lt;/p&gt;&lt;p style="text-align: left; "&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;엄상필 부장판사는 이른바 '워커홀릭'으로 통하는 만큼 업무에 몰두하는 스타일로 꼽힌다. 이 때문에 대법관 업무에 바로 투입되어도 제 역할을 해낼 인물이란 평이다. 정경심 전 동양대 교수의 자녀 입시 비리·사모펀드 관련 혐의 항소심 재판장을 맡아 징역 4년을 선고했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: left;"&gt;신숙희 양형위원회 상임위원(고법판사)은 젠더법연구회 회장을 지냈다. 조재연·박정화 전 대법관 후임 후보자 최종 8인에 포함되는 등 여러 번 후보로 꼽혔다. 법원 내 신망뿐 아니라 재판 능력이 출중하다는 평이다. 신 위원의 남편은 캄보디아 크메르루즈 특별재판소(ECCC) 국제재판관을 지낸 백강진(55·23기) 광주고법 전주재판부 부장판사다. 외삼촌은 권성(83·사시 8회) 전 헌법재판관으로 알려진다.&lt;/p&gt;&lt;p style="text-align: left;"&gt;   &lt;br /&gt;&lt;/p&gt;</description>
-			<pubDate>Fri, 02 Feb 2024 09:34:33 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195631</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195631</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/195631(1).jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>이원석 총장, '정치적 중립' 재차 강조 "공정한 자세로 공익 위해야"</title>
-			<description>&lt;span style="font-weight: bold;" class="lawmanlink" serial="9175"&gt;이원석&lt;/span&gt;(55·사법연수원 27기) 검찰총장이 검사이동 신고식 자리에서도 검사들의 '정치적 중립'을 강조했다. &lt;br /&gt;&lt;br /&gt;이 총장은 이날 '공직을 맡은 사람은 스스로를 공공재산으로 여겨야 한다'는 토머스 제퍼슨 미국 대통령의 말을 인용해 "공직자의 자리는 특정한 사람의 자리가 아니라 직분 그 자체를 의미하는 것"이라며 "공직자가 앉은 자리는 잠시 직분을 수행하기 위하여 빌려 앉는 자리일 뿐 내가 소유한 나의 자리가 아니라는 점을 명심해야 한다"고 말했다.&lt;br /&gt;&lt;br /&gt;이 총장은 "형사사법을 담당하여 사람과 죄의 무게를 저울에 달아야 하는 숙명을 가진 우리는 그 누구보다 정치적 중립과 공정한 자세를 지켜야 한다"며 "검찰의 일은 하나부터 열까지 오로지 국민을 위한, 공익을 위한 것이라는 점을 한시도 잊지 말기 바란다"고 강조했다. &lt;br /&gt;&lt;br /&gt;또 4월 총선을 앞두고 선거범죄에 엄정 대응하자고 당부했다. 이 총장은 "최근 국민들에게 큰 충격을 준 정치인에 대한 폭력과 모방범죄가 발생하거나 확산되지 않도록 철저히 대비하자"면서 "첨단 IT기술과 온라인을 통한 허위사실 유포와 흑색선전이 국민의 의사를 왜곡하지 않도록 빈틈없이 대응하여 공정한 선거가 치러질 수 있도록 하기 바란다"고 당부했다. &lt;br /&gt;&lt;br /&gt;'국민을 섬기는 검찰'을 여러 차례 강조했던 이 총장은 "올해 검찰의 가장 중요한 목표는 민생범죄에 제대로 대응하여 국민들이 평온한 일상을 누릴 수 있도록 하는 것"이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;그러면서 새로운 임지의 지역민들이 어떤 걱정을 하고 있는지, 무엇을 불안해하고 있는지 꼼꼼히 살펴달라고 부탁했다. &lt;br /&gt;&lt;br /&gt;이 총장은 "새로운 임지에서 주어진 하루를 어떻게 보내느냐에 따라 누군가의 일생에 큰 힘이 될 수도, 또 누군가의 인생을 바꿀 수도 있음을 명심하고 새로운 사람들과 함께 하루하루를 뜻깊게 만들어 가기 바란다"고 후배들을 응원했다. &lt;br /&gt;&lt;br /&gt;</description>
-			<pubDate>Fri, 02 Feb 2024 08:30:34 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195637</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195637</guid>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>檢, 분당 흉기난동 살인 '최원종' 무기징역에 항소</title>
-			<description>분당 서현역에서 흉기난동을 벌여 2명을 살해한 최원종이 1심에서 무기징역을 선고받자, 검찰이 이에 불복해 항소했다.&lt;br /&gt;&lt;br /&gt;수원지검 성남지청 형사2부(황정임 부장검사)는 2일 살인 등 혐의로 최원종에 무기징역을 내린 1심 판결에 대해 항소했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;검찰은 "검찰이 구형한 사형에 미치지 못하는 1심 판결에 대해 시정을 구하기 위해 항소를 제기했다"고 설명했다.&lt;br /&gt;이어 "무차별적으로 흉기 난동을 벌여 2명을 살해하고 12명을 살해하려다 미수에 그치는 등 사안이 매우 중대하다"며 "공판 중에도 피해 회복을 위한 진지한 노력 없이 심신미약을 주장하며 형 감경만을 받으려는 등 진지한 반성이 없는 점, 재범의 위험성이 높은 점, 피해자들과 유족이 최원종의 엄벌을 호소하는 점 등을 고려했다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;앞서 1일 수원지법 성남지원 형사2부(부장판사 강현구)는 살인 등 혐의로 구속기소 된 최원종에 무기징역을 선고하고, 30년간의 위치추적 전자장치 부착 명령을 내렸다. 지난달 18일 열린 결심공판에서 검찰은 최원종에 법정 최고형인 사형을 구형했다.&lt;br /&gt;&lt;br /&gt;최 씨는 지난해 8월 3일 오후 성남시 분당구 AK플라자 분당점 부근에서 모친의 승용차를 몰고 인도로 돌진해 5명을 들이받은 뒤, 차량에서 내려 백화점으로 들어가 흉기를 휘두른 혐의(살인·살인미수·살인예비)로 기소됐다. 피해자 가운데 차에 치인 김혜빈(사건 당시 20세) 씨와 이희남(당시 65세) 씨는 병원에서 치료받다가 사망했다.</description>
-			<pubDate>Fri, 02 Feb 2024 08:29:47 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195647</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195647</guid>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>檢, 신림동 흉기난동 살인 '조선' 무기징역에 항소..."사형 내려야"</title>
-			<description>신림동 흉기난동 살인 사건으로 재판에 넘겨진 조선이 무기징역을 선고받자, 검찰이 사형을 구형해야 한다며 항소했다.&lt;br /&gt;&lt;br /&gt;서울중앙지검 형사3부(조석규 부장검사)는 2일 조선에 무기징역을 내린 1심 판결에 대해 항소했다.&lt;br /&gt;&lt;br /&gt;검찰은 "사형에 미치지 못하는 1심 판결에 대해 시정을 구하기 위해 항소를 제기했다"고 항소 이유를 밝혔다.&lt;br /&gt;&lt;br /&gt;이어 "도심 한복판에서 일면식도 없는 피해자들을 상대로 무차별적으로 잔인하게 흉기 난동을 벌여 20대 청년을 살해하고 3명의 피해자에게 육체적, 정신적으로 심대한 고통을 겪게 하는 등 사안이 중대하다"며 "피해 회복을 위한 진지한 노력 없이 오히려 피해자들을 살해할 고의가 없었다고 주장하는 등 반성하지 않는 점, 유족과 피해자들이 조선에 대한 법정 최고형으로 엄벌해 줄 것을 호소하는 점, 살인예고 등 다수의 모방범죄를 촉발한 점 등을 고려했다"고 설명했다.&lt;br /&gt;&lt;br /&gt;앞서 서울중앙지법 형사32-2부(조승우·방윤섭·김현순 부장판사)는 지난달 31일 살인 등 혐의로 구속기소 된 조선에 무기징역을 선고했다(2023고합739). 재판부는 30년간 위치추적 전자장치 부착도 함께 명령했다. 검찰은 지난달 10일 열린 결심 공판에서 조선에 사형을 선고해 달라고 재판부에 요청했다.&lt;br /&gt;&lt;br /&gt;조선은 지난해 7월 21일 서울 관악구 신림역 인근 거리에서 시민들에게 무차별적으로 흉기를 휘둘러 1명을 살해하고 3명을 다치게 한 혐의로 재판에 넘겨졌다.</description>
-			<pubDate>Fri, 02 Feb 2024 08:29:30 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195642</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195642</guid>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] '김학의 출금' 1심 무죄 차규근, 직위해제 취소소송 승소</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/195610.jpg" alt="195610.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;차규근 법무연수원 연구위원 &amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial=""&gt;김학의&lt;/span&gt;(68·사법연수원 14기) 전 법무부 차관의 불법 출국금지 사건으로 재판에 넘겨졌다가 1심에서 무죄를 선고받은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5206"&gt;차규근&lt;/span&gt;(56·24기) 법무연수원 연구위원의 직위를 해제한 법무부 처분은 위법하므로 취소해야 한다는 행정법원 판단이 나왔다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;서울행정법원 행정1부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4542"&gt;강동혁&amp;nbsp;&lt;/span&gt;부장판사)는 2일 차 위원이 법무부 장관을 상대로 제기한 직위해제 처분 취소 청구 소송에서 원고 승소판결했다(&lt;b&gt;2022구합78319&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;재판부는 "직위해제 처분 당시 차 위원이 유죄 판결을 받을 고도의 개연성이 있었다고 인정된다"면서도 "피고(법무부) 측이 제출한 증거만으로는 그가 연구위원으로서 직무를 수행함에 있어 공정성이 저해될 위험이 초래됐다고 인정하기 어렵다"고 판단했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;또 "공직자를 직에서 배제해 공무 집행의 공정성과 신뢰를 확보한다는 직위 해제의 본래 취지에 맞도록 신중한 검토가 처분 당시 이뤄졌다고 볼 수 없다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;차 위원은 2019년 3월 '별장 성접대 의혹'을 받던 김 전 차관이 인천국제공항을 통해 출국을 시도하자&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14505"&gt;이규원&lt;/span&gt;(47·36기) 검사가 적법 절차를 거치지 않고 긴급 출국금지 조치한 사실을 알면서도 이를 승인한 혐의로 2021년 4월 불구속 기소됐다. 법무부는 2022년 차 위원을 법무부 장관 정책보좌관으로 발령한 뒤 직위 해재했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;지난해 2월 1심 법원은 긴급 출국금지 과정에 위법한 행위가 있었으나 김 전 차관의 출국을 막아야 할 공익적 필요성이 인정된다며 차 위원에게 무죄를 선고했다. 이에 차 위원은 직위해제를 취소해달라는 소송을 내고 집행정지도 신청했다. 작년 4월 법원은 집행정지 신청을 일부 인용했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;차 위원은 연구위원으로 복귀해 지난달 11일 법무부에 사표를 제출했다. 그가 사의를 표한 날이 4·10 총선 출마를 위한 공직자 사퇴 시한 마지막 날인 점을 두고 총선 출마를 염두에 둔 것이란 관측이 나오고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Fri, 02 Feb 2024 08:17:48 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195610</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195610</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/195610.jpg</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
