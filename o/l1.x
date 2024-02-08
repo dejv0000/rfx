@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[단독] '설계사 스카우트비 제한 협약 논란' 스카이블루에셋, 보험대리점협회 상대로 가처분 신청 제기</title>
+			<description>법인보험대리점(이하 GA) 업계의 설계사 스카우트비 제한을 규정한 자율협약이 법적 공방으로 불거질 전망이다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;경쟁사의 보험설계사를 스카우트했다는 이유로 한국보험대리점협회(이하 협회)로부터 협약 위반 행위 확정을 받은 스카이블루에셋이 "협약 위반 행위를 하지 않았다"며 협회를 상대로 ‘사업자단체위반행위 금지가처분’ 신청을 제기하면서다. 스카이블루에셋 측은 "회원사에 대한 협회의 조사와 통지 행위는 공정거래법을 위반했다"며 공정거래위원회 신고도 감행하겠다는 입장이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;8일 스카이블루에셋은 서울중앙지법에 GA협회를 상대로 불법행위금지 가처분 신청을 접수했다고 밝혔다. 스카이블루에셋 측은 "이번 협회의 자율협약 위반 결정은 근거가 없다"고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;앞서 이날 협회는 부산의 법인보험대리점인 스카이블루에셋의 '보험대리점 소비자 보호와 내부통제를 위한 자율협약' 위반 행위를 확정했다. 협회는 "다수의 GA로부터 스카이블루에셋의 과도한 설계사 빼가기 등 협약 위반사항과 관련해 신고를 받았다"고 밝혔다. 협회는 스카이블루에셋에 소명을 요구했고 스카이블루에셋은 소명자료를 제출했다. 협회는 2차 추가소명 요구에 이어 현장조사를 강행했다. 이에 스카이블루에셋이 이의를 제기하자, 협회는 현장조사 바로 다음날 조사를 종결하고 협약위반을 확정 공표한 것이다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;스카이블루에셋 측은 협회의 협약 위반 행위 확정과 조사에 대해 "삼성생명의 요청에 따른 협회 회원사 찍어내기 표적 조사가 아닌지 의심된다"며 "협회가 (삼성생명에) 보험대리점 계약 갱신을 거절할 명분을 만들어 주려던 것"이라고 주장했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;스카이블루에셋에 따르면, 삼성생명보험(이하 삼성생명)은 지난 1월 5일 스카이블루에셋과 2008년부터 유지해온 보험대리점 계약 갱신을 거절하며 사실상 계약 해지 통보를 했다. 삼성생명은 명확한 계약 해지 사유를 밝히지 않은 것으로 알려졌다. 최근 삼성생명 출신 보험 설계사 90여 명이 스카이블루에셋으로 이직했는데, 스카이블루에셋은 이 점이 삼성생명 계약해지의 원인으로 작용했다고 보고 있다.&lt;/p&gt;&lt;p&gt;스카이블루에셋 측은 "삼성생명의 계약갱신 거절 통보에 맞춰 협회로부터 자율협약 위반 피신고 통보를 받았다"며 "최초 신고자는 삼성생명 자회사인 삼성생명금융서비스로 확인됐다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;그러면서 "자율적인 협약이라는 측면에 동의하고 가입한 후, 4개월도 지나지 않아 군사작전하듯 조사를 강행했다”면서 "소명자료를 제출하고 수차례 삼성생명의 부당한 계약갱신 거절 명분으로 협회조사가 악용되지 않도록 보장해달라고 요청했지만 협회는 이를 묵살했다"고 주장했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;스카이블루에셋은 또 협회와 삼성생명을 공정거래법 위반 혐의로 공정위에 신고할 계획이다. 삼성생명의 보험위탁계약갱신 거절 통보에 대해서는 가처분 신청으로 대응한다는 입장도 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;스카이블루에셋 측은 "협회의 강압적 조사 및 감독당국에 대한 통지는 공정거래법을 위반해 사업자단체가 소속 회원사의 사업활동을 방해하는 행위로 볼 수 있다"며 "특히 자율협약을 탈퇴한 회사에 대해서는 효력이 없다고 정하고 있음에도 탈퇴한 회사에 대해 보도자료를 배포하고 금융당국에 대한 통보조치를 강행한 것은 명백한 공정거래법 위반행위로, 즉각 공정위에 신고하겠다"고 했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;스카이블루에셋 측은 삼성생명의 일방적 거래거절 행위에 따라 보험 소비자들의 광범위한 피해가 우려된다고 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;스카이블루에셋을 대리해 이번 가처분 신청을 제기한 이호영(43·변호사시험 2회) 법무법인 지음 변호사는 “삼성생명이 자사 직원 이직을 이유로 일방적으로 거래거절을 통보한 행위는 전형적인 갑질행위”라면서 “약 3700여 건의 보험계약이 ‘고아계약’으로 전락하고 고객들이 원하지 않음에도 설계사가 변경되는 피해를 입을 수 있다”고 말했다. 그러면서 “추후 금융감독원이 공정한 시각에서 스카이블루에셋과 소속 보험설계사, 보험소비자들의 권익을 지켜주길 기대한다”고 덧붙였다.&lt;/p&gt;</description>
+			<pubDate>Thu, 08 Feb 2024 12:53:04 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/195821</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195821</guid>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
 			<title>법무법인 세종, '중대재해처벌법 확대적용 대응방안' 웨비나 개최</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/195811.jpg" alt="195811.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;왼쪽부터 진현일 법무법인 세종 변호사, 김동욱 변호사, 조수형 변호사. &amp;lt;사진=법무법인 세종 제공&amp;gt;&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무법인 세종(대표변호사 오종한)이 오는 15일 오후 4시에 ‘50인미만 사업장 중대재해처벌법 확대적용에 따른 대응방안’을 주제로 온라인 세미나를 개최한다.&lt;br /&gt;&lt;br /&gt;이번 세미나는 지난 1월 27일 중대재해처벌법 적용 범위가 확대됨에 따라 발생할 수 있는 문제점과 효과적인 대응방안 등을 짚어보고, 기업이 겪을 수 있는 법적 리스크와 혼란을 최소화하는 데 도움이 되고자 마련됐다.&lt;br /&gt;&lt;br /&gt;세미나 발표자로는 세종의 중대재해대응센터·건설분쟁그룹 변호사들이 나선다. 진현일(52·사법연수원 32기) 세종 중대재해대응센터장이 '기소사례와 판결을 통해서 본 수사대응 방안'을 주제로 중처법 판결과 주요 기소사례를 분석해 발표한다. 진 센터장은 서울중앙지검 형사10부(산업안전) 부장검사 출신으로, 검찰 재직 당시 중대재해처벌법 해설서 집필을 총괄하고 양형기준을 정립한 바 있다.&lt;br /&gt;&lt;br /&gt;조수형(44·42기) 변호사는 '중소건설사의 중대재해 처벌 대응방안'에 관해 실무에서 일어나는 이슈와 사례를 설명한다. 조 변호사는 그간 세종 건설분쟁그룹에서 건설업체들이 사업진행 과정에서 맞닥뜨리게 되는 다양한 종류의 분쟁을 해결한 경험이 있다.&lt;br /&gt;&lt;br /&gt;세종 노동그룹장을 맡고 있는 김동욱(53·36기) 변호사는 ‘중대재해처벌법 어디로 갈 것인가’를 주제로 법 내용 및 집행과 관련한 불확실성 문제에 대해 짚어보고 대응방안에 대해 논의한다. 김 변호사는 고용노동부 근무 경험을 갖추고 중대재해 및 산업안전 관련 다수의 컨설팅과 사건을 수행했다.&lt;br /&gt;</description>
 			<pubDate>Thu, 08 Feb 2024 08:42:11 -0000</pubDate>
@@ -17,12 +26,12 @@
 		</item>
 		<item>
 			<title>한국국제조세협회 YIN , 《국제조세판례연구》 발간</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/195794(1).jpg" alt="195794.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국국제조세협회(이사장 백제흠) 산하 Young IFA Network(YIN) KOREA(회장 방진영)는 최근 판례평석집인 《국제조세판례연구》(박영사)를 발간했다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;책에는 1990년대부터 최근까지 선고된 국제조세 분야 중요 판례 약 50편에 대한 해설이 담겼다. 거주자와 국내원천소득에 관한 기본규정, 외국납부세액공제 등에 관한 이중과세조정규정, 이전가격세제 등에 관한 조세회피 방지규정 등 국제조세법의 전반적인 규범을 아우르는 판례가 체계적으로 정리돼 있다. 개별 판례평석의 제목만 봐도 국제조세 쟁점의 흐름을 손쉽게 파악할 수 있고, 각 판례평석은 사실관계와 핵심 쟁점을 이해하기 쉽게 구성했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;방진영 YIN 회장은 머리말을 통해 "이 책은 국내 최초로 국제조세 분야의 판례만 모은 평석집"이라며 "청년 전문가들이 주축이 돼 집필했다는 점에서 의미가 크다"고 전했다.&lt;/p&gt;</description>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/195809.jpg" alt="195809.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국국제조세협회(이사장 백제흠) 산하 Young IFA Network(YIN) KOREA(회장 방진영)는 최근 판례평석집인 《국제조세판례연구》(박영사)를 발간했다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;책에는 1990년대부터 최근까지 선고된 국제조세 분야 중요 판례 약 50편에 대한 해설이 담겼다. 거주자와 국내원천소득에 관한 기본규정, 외국납부세액공제 등에 관한 이중과세조정규정, 이전가격세제 등에 관한 조세회피 방지규정 등 국제조세법의 전반적인 규범을 아우르는 판례가 체계적으로 정리돼 있다. 개별 판례평석의 제목만 봐도 국제조세 쟁점의 흐름을 손쉽게 파악할 수 있고, 각 판례평석은 사실관계와 핵심 쟁점을 이해하기 쉽게 구성했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;방진영 YIN 회장은 머리말을 통해 "이 책은 국내 최초로 국제조세 분야의 판례만 모은 평석집"이라며 "청년 전문가들이 주축이 돼 집필했다는 점에서 의미가 크다"고 전했다.&lt;/p&gt;</description>
 			<pubDate>Thu, 08 Feb 2024 08:20:01 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/195809</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195809</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/195794(1).jpg</media:thumbnail>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/195809.jpg</media:thumbnail>
 			<dc:creator>안재명 기자</dc:creator>
 		</item>
 		<item>
@@ -226,16 +235,6 @@
 			<link>https://www.lawtimes.co.kr/news/195756</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195756</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/194860(3).jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>공수처, '고발 사주' 의혹 손준성 징역 1년에 항소 "공선법 무죄 부당"</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194817(2).jpg" alt="194817.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;'고발 사주' 의혹을 받는 손준성 검사장에게 1심에서 징역 1년이 선고된 가운데, 고위공직자범죄수사처가 항소했다. &lt;br /&gt;&lt;br /&gt;공수처 측은 "공선법 무죄 판단 부분 등에 사실오인, 법리오해 등이 있어 보이고 따라서 양형도 부당하다"고 설명했다.&lt;br /&gt;&lt;br /&gt;서울중앙지법 형사27부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2725"&gt;김옥곤&amp;nbsp;&lt;/span&gt;부장판사)는 지난달 31일 공직선거법 위반, 공무상비밀누설 및 개인정보보호법 등으로 기소된 손 차장검사에게 징역 1년을 선고했다(&lt;b&gt;2022고합326&lt;/b&gt;). 다만 재판 과정에서 주요 증거에 대한 조사가 완료돼 증거인멸의 우려 및 도주 우려가 없다며 법정구속하지는 않았다.&lt;br /&gt;&lt;br /&gt;재판부는 손 차장검사의 공소사실 가운데 공무상비밀누설 및 개인정보보호법·형사사법절차전자화촉진법 위반 혐의 중 일부를 유죄로 인정했다. 반면 공직선거법 위반 부분과 일부 공무상비밀누설 부분은 무죄로 판단했다.&lt;br /&gt;&lt;br /&gt;손 검사장은 2020년 4월 총선 직전 대검찰청 수사정보정책관을 지내던 당시 김웅 의원에게 최강욱 전 의원, 유시민 당시 노무현재단 이사장 등 당시 여권 인사 고발을 사주한 혐의로 재판에 넘겨졌다. 이 과정에서 여권 인사들에 대한 두 건의 고발장 이미지와 실명 판결문 등을 텔레그램 메신저로 김 의원과 주고받은 혐의도 있다.&lt;br /&gt;&lt;br /&gt;손 검사장은 재판 과정에서 자료를 김 의원에게 보내거나 공모한 일이 없다며 혐의를 줄곧 부인했다. 선고를 마친 뒤 손 검사장은 "사실관계와 법률관계를 다 수긍할 수 없다"며 항소장을 제출했다. &lt;br /&gt;</description>
-			<pubDate>Wed, 07 Feb 2024 07:36:38 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195753</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195753</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/194817(2).jpg</media:thumbnail>
 			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
