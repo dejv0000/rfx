@@ -6,6 +6,56 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>한국법학원, 23일 '2024년 동계세미나' 개최</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/195806(3).jpg" alt="195806.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국법학원(원장 이기수)은 23일 오후 3시 서울 종로구 헌법재판소 별관 1층 컨퍼런스룸에서 '2024년 동계세미나'를 개최한다.&lt;p&gt;&lt;br /&gt;세미나는 연 2회 개최되고 있다. 민사·상사 연구를 수행하는 한국법학원 학술연구부의 성과를 알리고 발표와 토론을 통해 논의를 심화하기 위해 2023년 처음 개최됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;이날 이현균 한국법학원 연구위원이 '인공지능 모빌리티 도입에 따른 상사법 개정방안 검토'를 발표하고 박영준 단국대 교수가 토론한다.      &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;이어 김배정 한국법학원 연구위원이 '가상자산 규제에 관한 국내 동향'을 발표하고 이경미 한국형사·법무정책연구원 부연구위원이 토론한다.         &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;세미나는 사전 참가 등록을 해야 참석이 가능하다. 참가 신청은 한국법학원 사무국 이메일로 하면 된다.&lt;/p&gt;</description>
+			<pubDate>Sun, 11 Feb 2024 03:41:51 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/195806</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195806</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/195806(3).jpg</media:thumbnail>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title>명절마다 반복되는 반려동물 유기...동물 버리면 전과자 될 수도</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/195823.jpg" alt="195823.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;입양을 기다리는 강아지들 &amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;매년 휴가철이나 명절만 되면 반려동물을 버리는 사례가 부쩍 늘어난다. 이렇게 동물을 유기해도 처벌을 받지 않는 걸까?&lt;br /&gt;&lt;br /&gt;예전에는 동물을 유기하면 최대 300만원 이하의 과태료 처분을 받았다. 그런데 2021년 2월부터 강화된 동물보호법이 시행되면서, 최대 300만원 이하의 벌금형을 선고받게 됐다. 과태료는 행정처분이라 전과 기록이 남지 않지만, 벌금형은 형사처벌로 전과 기록이 남는다.&lt;br /&gt;&lt;br /&gt;2022년 1월 서울북부지법 형사5부(부장판사 홍순옥)는 자신이 키우던 고양이를 유기한 혐의를 받고 있던 A씨에게 벌금 100만 원을 선고했다.&lt;br /&gt;&lt;br /&gt;A씨는 2021년 8월 오후 4시쯤 서울의 한 공원에 고양이를 버렸다. 버려진 고양이는 주변을 지나던 시민에게 발견돼 보호 조치를 받았지만 결국 유기 11일 만에 안락사됐다. 한 동물단체가 이 사건을 제보받고 경찰에 A씨를 고발했고, 검찰로 송치된 A씨가 검찰의 약식명령에 불복하면서 재판이 열렸다.&lt;br /&gt;&lt;br /&gt;A씨는 수사와 재판 과정에서 줄곧 '고양이를 잃어버렸다' '유기할 고의가 없었다'고 주장했다. 하지만 재판부는 A씨의 주장이 객관적인 사실과 배치되는 등 유기할 고의가 있었다고 인정했다.&lt;br /&gt;&lt;br /&gt;한편, 일부 지자체는 유기 예방을 위해 반려동물을 대신 돌보는 쉼터를 운영하기도 한다. 서울 노원구는 설 연휴를 맞아 9일부터 12일까지 '명절 반려견 돌봄쉼터'를 열었다. 강남구도 같은 기간 동안 최대 4일까지 무료로 돌봄을 지원하는 쉼터를 운영한다.</description>
+			<pubDate>Sun, 11 Feb 2024 03:12:54 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/195823</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195823</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/195823.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] "막걸리 상표에서 '영탁' 떼라"… 가수 영탁, 막걸리 상표권 분쟁 2심도 승소</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/영탁(1).jpg" alt="영탁.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;가수 영탁 &amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;'영탁 막걸리'라는 상품표지를 두고 막걸리 제조사인 예천양조와 분쟁을 벌여 온 트로트 가수 영탁(본명 박영탁)이 1심에 이어 2심에서도 일부 승소했다.&lt;p&gt;&lt;br /&gt;서울고법 민사5부(&lt;span style="font-weight: bold;" class="lawmanlink" serial="5667"&gt;설범식&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="8057"&gt;이준영&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="11296"&gt;최성보&amp;nbsp;&lt;/span&gt;부장판사)는 8일 박 씨가 예천양조를 상대로 낸  상품표지 사용금지 등 청구 소송(&lt;b&gt;2023나2035037&lt;/b&gt;) 항소심에서 1심과 같이 원고일부승소 판결했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;재판부는 "예천양조가 '영탁'으로 표지가 표시된 막걸리 제품을 생산, 양도, 대여, 수입하거나 이를 제품 포장·광고에 표시해서는 안 된다. 이미 제조한 막걸리 제품에서도 해당 표지를 제거하라"는 1심 명령을 유지했다. 다만 제3자가 점유 중인 막걸리 제품에 대한 폐기 청구는 1심과 같이 각하했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;앞서 1심도 지난해 7월 원고일부승소 판결했다. 당시 재판부는 "예천양조가 '영탁'이라는 표지를 막걸리 제품이나 광고 등에 사용함으로써 일반수요자나 거래자가 박 씨와 예천양조 사이에 밀접한 관계가 있다고 혼동하게 했다고 봄이 타당하다"고 밝혔다. 이어 "연예인의 이름과 사진 등을 상품이나 광고 등에 사용하기 위해서는 연예인이나 소속사로부터 허락을 받거나 일정한 대가를 지급하는 것이 엔터테인먼트 산업분야의 상거래 관행"이라며 "실제로 예천양조는 박 씨와 모델계약을 맺고 일정한 대가를 지급한 뒤 1년 이상 박 씨와 '영탁' 표지를 이용해 광고하면서 막걸리를 제조 및 판매했다"고 설명했다. 그러면서 "이 같은 상황에서 예천양조가 '영탁' 표지를 막걸리 제품에 계속 사용하는 경우, 일반수요자나 거래자는 예천양조가 표지 사용에 관해 박 씨로부터 허락을 받고 그에 대한 대가를 지급하는 등의 특정한 영업상 또는 계약상 관계가 존재한다고 오인할 수 있다"고 판단했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;특히 재판부는 "막걸리가 출시된 2020년 예천양조의 매출액은 약 50억1000만 원으로 전년도 대비 4245% 증가했고, '2020년 소비자가 뽑은 올해의 브랜드 대상'을 비롯한 여러 상을 수상했다는 점에서 '영탁'이라는 표지가 막걸리 분야에서 상당히 강한 식별력과 고객흡인력이 있다"고 판시했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;앞서 예천양조는 2020년 1월 '영탁'이라는 막걸리 상표를 출원하고 같은 해 4월 영탁 측과 1년간 모델계약을 맺었다. 이후 예천양조는 2020년 5월 '영탁막걸리'를 출시했다. 하지만 2021년 6월 예천양조와 영탁 측은 광고모델 재계약 협상이 결렬되며 갈등이 불거졌고, 영탁 측은 "계약이 종료됐는데도 예천양조 측이 막걸리 제품에 '영탁'이라는 상표를 사용한다"며 2021년 9월 소송을 냈다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;백구영 예천양조 회장은 2021년 11월 '영탁 측이 거액을 요구해 재계약이 결렬됐다'는 허위 사실을 유포한 혐의로 기소돼 지난달 진행된 1심에서 징역 6개월에 집행유예 1년을 선고받았다.&lt;/p&gt;</description>
+			<pubDate>Sun, 11 Feb 2024 02:56:51 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/195818</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195818</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/영탁(1).jpg</media:thumbnail>
+			<dc:creator>이용경 기자</dc:creator>
+		</item>
+		<item>
+			<title>연휴에 친척들과 고스톱… '도박죄' 성립의 '필요조건'은?</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/고스톱(1).jpg" alt="고스톱.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;명절 연휴에 친척들이 삼삼오오 모여 고스톱을 치는 광경은 낯설지 않다. 한편 유명 연예인 등이 해외 카지노에서 도박을 했다가 형사 처벌되는 사례는 경각심을 불러일으킨다. 혹시 친척들과 재미로 고스톱을 치는 경우에도 '도박죄'가 성립할 수 있을까?&lt;br /&gt;&lt;br /&gt;도박죄는 형법 제246조에서 규정한다. 동조 제1항은 '도박을 한 사람은 1천만원 이하의 벌금에 처한다. 다만, 일시오락 정도에 불과한 경우에는 예외로 한다'고 정하고 있다. &lt;br /&gt;&lt;br /&gt;우선, 친척끼리 고스톱을 치는 경우에도 돈을 거는 경우 도박죄로 의율될 수 있다. 우리 판례는 '참여한 당사자가 재물을 걸고 우연한 승부에 의하여 재물의 득실을 다투는 경우'를 도박으로 규정한다. 하지만 사소한 오락까지 모두 처벌할 수 없으므로, 법상 예외 규정에 해당하는지 여부가 실질적으로 문제가 된다.&lt;br /&gt;&lt;br /&gt;우리 판례는 다양한 요소를 고려해 도박죄의 예외 경우를 판단한다. 판례는 도박을 한 시간과 장소, 도박자의 지위와 직업, 판돈의 규모, 상습성 등을 종합적으로 따진다. 경찰 단계에서는 판돈의 규모와 전과를 주로 본다. 판돈이 20만 원을 넘고 도박 전과자가 있으면 형사입건된다고 알려졌다.&lt;br /&gt;&lt;br /&gt;사안에 따라 판결도 다양하다. 따라서 판례를 참고하며 오락이 '도박'의 단계로 넘어가지 않도록 유의해야 한다. 법원은 2017년 3월 판돈 2만7500원을 걸고 동네 친구들과 30분간 10회 정도의 '섯다'를 했던 사례에서 '무죄'를 선고한 바 있다. 당시 법원은 참여자들이 모두 기초생활수급자이고, 도박시간도 짧아 일시 오락이라고 판단했다. &lt;br /&gt;&lt;br /&gt;반면 점당 100원으로 고스톱을 쳤는데 유죄가 인정된 경우도 있다. 2006년 A씨는 인천에서 지인 3명과 점당 100원짜리 고스톱을 치다 기소됐다. 인천지법은 A씨에게 도박죄가 인정된다고 판단했다. B씨가 기초생활수급자로 월 20만 원 가량의 정부보조금을 받는 상황에서 친목 도모가 아닌 돈을 따려는 목적으로 도박을 했다고 판단한 것이다. 하지만 이 사안에서 법원은 벌금 30만 원을 선고유예했다. &lt;br /&gt;&lt;br /&gt;한편 2016년 8월 B씨는 지인들과 오후 9시부터 다음 날 새벽 3시까지 점 200원의 고스톱을 치다가 도박죄로 기소돼 벌금 50만 원 형을 선고받았다. 당시 법원은 판돈은 크지 않으나 늦은 시간까지 이뤄진 점을 고려해 친목 도모가 아닌 도박의 목적이 있었다고 봤다.</description>
+			<pubDate>Sun, 11 Feb 2024 02:52:55 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/195812</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195812</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/고스톱(1).jpg</media:thumbnail>
+			<dc:creator>홍수정 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] 계약 갱신 요구한 뒤 갱신 기간 시작 전에 다시 계약 해지 통지한 임차인… 임대차 계약 종료일은 '통지 후 3개월'</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/194810(7).jpg" alt="194810.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;임차인이 임대차 계약의 갱신을 요구한 뒤, 갱신된 계약 기간이 시작되기 전에 임대인에게 다시 계약 해지를 통지한다면 계약 종료일은 언제로 봐야 할까? 이러한 경우 해지의 효력 발생 시점은 '해지통지 후 3개월'이라는 대법원 첫 판단이 나왔다. 즉, 갱신된 임대차계약 기간이 개시되기 전에 해지 의사가 임대인에게 도달했다고 하더라도 갱신된 임대차계약 기간이 개시된 때부터 3개월이 지나야만 해지의 효력이 발생하는 것은 아니라는 취지다.&lt;p&gt;대법원 민사1부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5554"&gt;서경환&amp;nbsp;&lt;/span&gt;대법관)는 1월 11일 A 씨(소송대리인 법무법인 위온&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="36283"&gt;박찬호&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="38057"&gt;손원우&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="34192"&gt;전병모&amp;nbsp;&lt;/span&gt;변호사)가 B 씨를 상대로 낸 임대차보증금등반환 청구의 소(&lt;b&gt;2023다258672&lt;/b&gt;)에서 원고승소 판결한 원심을 파기환송했다.&lt;br /&gt;A 씨는 B 씨로부터 한 아파트를 2019년 3월 10일부터 2021년 3월 9일까지 임대하는 계약을 체결했다. A 씨는 B 씨에게 임대차계약 갱신 요구를 통지했고, 2021년 1월 5일 B 씨에게 도달했다. 그런데 A 씨는 돌연 2021년 1월 28일 갱신된 임대차 계약을 해지한다고 통지했고, 다음 날 B 씨에게 도달했다. A 씨는 자신의 해지 통지가 도달된 지 3개월이 지난 2021년 4월 30일까지의 임대료를 지불한 뒤 아파트에서 나왔다. 하지만 B 씨는 임대차 계약이 갱신된 임대차 기간이 개시되는 3월 10일부터 3개월이 지난 6월 9일 해지됐음을 전제로, A 씨에게 이때까지 발생한 임대료 공제한 임대차 보증금과 장기수선충당금을 반환했다. 이에 A 씨는 소송을 냈다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;재판부는 "주택임대차보호법 제6조의3 제1항은 '임대인은 임차인이 제6조 제1항 전단의 기간 이내에 계약갱신을 요구할 경우 정당한 사유 없이 거절하지 못한다'며 임차인의 계약갱신요구권을 규정하고, 같은 조 제4항은 '제1항에 따라 갱신되는 임대차의 해지에 관하여는 제6조의2를 준용한다'고 규정한다"며 "주택임대차보호법 제6조의2 제1항은 '제6조 제1항에 따라 계약이 갱신된 경우 같은 조 제2항에도 불구하고 임차인은 언제든지 임대인에게 계약 해지를 통지할 수 있다'고 규정하고, 제2항은 '제1항에 따른 해지는 임대인이 그 통지를 받은 날부터 3개월이 지나면 그 효력이 발생한다'고 규정하고 있다"고 판시했다.&lt;/p&gt;&lt;p&gt;그러면서 "이러한 규정을 종합하면, 임차인이 주택임대차보호법 제6조의3 제1항에 따라 임대차계약의 갱신을 요구하면 임대인에게 갱신거절 사유가 존재하지 않는 한 임대인에게 갱신요구가 도달한 때 갱신의 효력이 발생한다"며 "갱신요구에 따라 임대차계약에 갱신의 효력이 발생한 경우 임차인은 제6조의2 제1항에 따라 언제든지 계약의 해지통지를 할 수 있고 해지통지 후 3개월이 지나면 그 효력이 발생하는데, 이는 계약해지의 통지가 갱신된 임대차계약 기간이 개시되기 전에 임대인에게 도달하였더라도 마찬가지"라고 설명했다.&lt;/p&gt;&lt;p&gt;이어 "A 씨의 갱신된 임대차 계약 해지 취지가 기재된 통지가 2021년 1월 29일 B 씨에게 도달했으니, 그로부터 3개월이 지난 2021년 4월 29일 갱신된 임대차 계약의 해지 효력이 발생했다"며 "원심으로서는 임대차 계약의 해지효력이 발생한 2021년 4월 29일을 기준으로 미지급 차임 등을 공제하고 남은 임대차보증금 및 장기수선충당금이 있으면 B 씨가 이를 A 씨에게 반환하도록 하는 판단을 했어야 한다"고 덧붙였다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;앞서 1심은 원고 일부승소, 2심은 원고패소 판결했다.&lt;/p&gt;</description>
+			<pubDate>Sun, 11 Feb 2024 02:50:57 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/195820</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195820</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/194810(7).jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] '신설역 추진 계획 정보로 부동산 취득' 前 안양시의원, 무죄 확정</title>
 			<description>&lt;p&gt;시의원의 지위로 신설역 추진 계획에 대한 정보를 들은 후 이를 이용해 남편에게 부동산을 취득하게 해 재판에 넘겨진 전 안양시의원 A 씨 부부가 대법원에서 무죄가 확정됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대법원 형사3부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1759"&gt;오석준&amp;nbsp;&lt;/span&gt;대법관)는 1월 11일 부패방지 및 국민권익위원회의 설치와 운영에 관한 법률 위반으로 기소된 전 안양시의원 A 씨와 그의 남편 B 씨에게 무죄를 선고한 원심 판결을 확정했다(&lt;b&gt;2023도15682&lt;/b&gt;). 앞서 1심에서는 이들에게 징역형 집행유예를 선고했는데, 무죄로 뒤집힌 2심 판단이 그대로 확정된 것이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;A 씨는 안양시의회 도시건설위원회 위원장으로 활동하던 중 안양시 월곶-판교 복선전철(월판선) 간담회에서 사업추진계획을 듣고 남편 B 씨에게 인근 부동산을 취득하게 한 혐의로 재판에 넘겨졌다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;검찰은 A 씨가 간담회에서 신설역 위치 등 정보를 파악한 뒤 인근 부동산 시가 상승을 예상해, 남편 B 씨와 해당 사업계획이 일반에 공개되기 전 인접 주택을 미리 취득하도록 모의했다고 봤다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;B 씨는 신설역 예정지로부터 약 157m 인근에 있는 토지 및 지상건물을 매수하는 계약을 체결한 뒤, A 씨와 공동매수인으로 하는 내용으로 변경해 해당 부동산에 대한 소유권을 가지고 있었다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;1심은 이들의 혐의를 유죄로 판단했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;1심은 "B 씨가 해당 부동산에 관한 매매계약을 체결한 당시 신설역에 관한 정보는 부패방지권익위법상 비밀에 해당한다"며 "당시 A 씨가 담당한 업무, 매매대금 지출 방법과 그 출처, 부동산의 취득 동기와 실제 이용 현황, 증거 인멸 정황 등을 종합하면 신설역에 대한 정보를 이용해 부동산을 취득했다는 것이 인정된다"고 밝혔다. 이어 "이러한 범행은 공직자에 대한 국민의 신뢰를 훼손하고, 불법정보를 이용한 투기를 조장하는 등 사회적 폐해가 상당하고 엄하게 처벌할 필요성이 크다"고 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;하지만 2심에서 이 판단이 뒤집혔다. 신설역에 관한 정보를 이용해 부동산을 취득했다는 것이 의심의 여지가 없을 정도로 증명됐다고 보기 부족하다는 이유에서다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;2심은 "해당 부동산 매매계약을 체결하기 전까지 A 씨가 B 씨에게 신설역 정보를 전달했다거나 B 씨가 A 씨에게 부동산 매수 사실을 알렸다고 할 수 있는 뚜렷한 증거는 전혀 없다"며 "오직 신설역 정보를 이용해 시세 상승을 기대하고 해당 부동산을 취득하려고 했다면, 주변 입지조건에 따라 시세 변동의 폭이 훨씬 큰 아파트가 아니라 노후 주택인 이 사건 부동산을 취득할 이유가 있었는지도 의문"이라고 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;대법원도 이러한 2심 판단을 그대로 확정했다.&lt;/p&gt;</description>
 			<pubDate>Sun, 11 Feb 2024 00:18:54 -0000</pubDate>
@@ -192,56 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195811</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/195811.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>한국국제조세협회 YIN , 《국제조세판례연구》 발간</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/195809.jpg" alt="195809.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국국제조세협회(이사장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6456"&gt;백제흠&lt;/span&gt;) 산하 Young IFA Network(YIN) KOREA(회장 방진영)는 최근 판례평석집인 《국제조세판례연구》(박영사)를 발간했다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;책에는 1990년대부터 최근까지 선고된 국제조세 분야 중요 판례 약 50편에 대한 해설이 담겼다. 거주자와 국내원천소득에 관한 기본규정, 외국납부세액공제 등에 관한 이중과세조정규정, 이전가격세제 등에 관한 조세회피 방지규정 등 국제조세법의 전반적인 규범을 아우르는 판례가 체계적으로 정리돼 있다. 개별 판례평석의 제목만 봐도 국제조세 쟁점의 흐름을 손쉽게 파악할 수 있고, 각 판례평석은 사실관계와 핵심 쟁점을 이해하기 쉽게 구성했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;방진영 YIN 회장은 머리말을 통해 "이 책은 국내 최초로 국제조세 분야의 판례만 모은 평석집"이라며 "청년 전문가들이 주축이 돼 집필했다는 점에서 의미가 크다"고 전했다.&lt;/p&gt;</description>
-			<pubDate>Thu, 08 Feb 2024 08:20:01 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195809</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195809</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/195809.jpg</media:thumbnail>
-			<dc:creator>안재명 기자</dc:creator>
-		</item>
-		<item>
-			<title>"운전직 공무원이 꼭 알아야할 도로교통법은" 유선경 에이앤랩 대표변호사, 경북도 공무원 대상 강의</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/195794.jpg" alt="195794.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="19329"&gt;유선경&lt;/span&gt;(40·사법연수원40기) 법무법인 에이앤랩 대표변호사는 지난달 30일 경상북도 구미시 경상북도교육청 연수원에서 ‘사례로 보는 교통사고처리특례법’을 주제로 강연했다.&lt;p&gt;&lt;br /&gt;운전직 공무원은 관공서에서 운용하는 자동차의 운전을 맡은 공무원이다. 근무할 때 교통사고의 위험에 노출돼 있으나 관련 법령에 익숙하지 못해 실제 사고가 발생할 경우 불이익을 당하는 경우가 많았다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;유 대표변호사는 이날 운전직 공무원을 대상으로 교통사고처리특례법의 조항과 실제 사례를 소개하며 반드시 준수해야 하는 규정과 사고발생 시 법적 대처방안에 대해 강연했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;특히 실무에서 중요한 △교통사고(대인사고) 발생시 대응방안 △어린이 보호구역, 횡단보도 등에서 사고가 발생했을 시 대응방안 △도로교통법 미준수로 인한 벌칙과 그로 인한 불이익 등을 규정과 판례를 곁들여 설명했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;그는 “운전자의 과실로 교통사고를 냈다고 형사처벌이 반드시 따라오는 것은 아니다”라며 “다만 음주운전, 측정거부, '12대 중과실' 등의 경우는 종합보험에 가입돼 있어도 처벌 받을 수 있다”며 주의를 당부했다. 그러면서 “공무원 징계령 시행규칙에 따르면 운전직 공무원이 음주운전을 한 경우 정직에서 파면까지 이를 수 있다. 음주운전은 징계 감경이 불가하다는 점을 꼭 명심하길 바란다”고 조언했다.&lt;/p&gt;</description>
-			<pubDate>Thu, 08 Feb 2024 08:16:23 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195794</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195794</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/195794.jpg</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
-		</item>
-		<item>
-			<title>전북법무사회, 설 맞아 사회복지시설에 성금 전달</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/195785.jpg" alt="195785.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;전라북도지방법무사회(회장 이형구)가 설 명절을 맞아  전북의 사회복지시설에 성금을 전달했다.&lt;br /&gt;&lt;br /&gt;전북법무사회는 6일 전주시 덕진구 호성동의 노숙인 복지시설 '사랑의 집'과 완주군 소양면의 장애인 복지시설 '예수재활원'에 각 100만 원씩 총 200만 원의 성금을 기탁했다.&lt;br /&gt;&lt;br /&gt;이형구 전북법무사회 회장은 "우리의 작은 나눔이 소외된 이웃에게 조금이나마 따뜻한 온정이 되길 바란다"고 말했다.</description>
-			<pubDate>Thu, 08 Feb 2024 08:13:13 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195785</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195785</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/195785.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 민주당 임종성, 징역형 집행유예 확정… 의원직 상실</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/195782.jpg" alt="195782.jpg" /&gt;&lt;br /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;더불어민주당 임종성 의원 &amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;공직선거법 위반 혐의로 기소된 더불어민주당 임종성 의원에게 징역형 집행유예가 확정됐다. 임 의원은 의원직을 잃게 됐다.&lt;p&gt;   &lt;br /&gt;대법원 형사1부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3170"&gt;김선수&amp;nbsp;&lt;/span&gt;대법관)는 8일 임 의원에게 징역 4개월에 집행유예 2년을 선고한 원심을 확정했다(&lt;b&gt;2023도16114&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;국회법과 공직선거법에 따라 금고형 이상의 형벌(집행유예 포함)을 확정받은 국회의원은 피선거권이 박탈돼 의원직을 잃는다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;임 의원은 2022년 3∼4월 공직선거법을 위반해 선거사무원과 지역 관계자 등에게 금품이나 식사를 제공한 혐의로 기소됐다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;그는 2022년 3월 9일 실시된 제20대 대통령 선거를 앞둔 그해 3월 8일 선거사무원이 일당을 받지 못했다는 말을 듣고 80만 원을 지급하도록 한 혐의, 다른 선거사무원 2명에게 각 30만 원씩 수고비를 건넨 혐의를 받았다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;같은 해 4월에는 제8회 전국동시지방선거를 앞두고 한 단체 관계자 8명과 식사하는 자리에 민주당 출마 예정 후보자를 참석시키고 식사비 46만7000원을 결제한 혐의도 있다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;1,2심은 임 의원의 혐의를 유죄로 판단해 징역 4개월에 집행유예 2년을 선고했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;대법원도 "원심판결에 공직선거법 위반죄, 기부행위, 위법성 조각 사유 등에 관해 법리를 오해한 잘못이 없다"며 판결을 확정했다.&lt;/p&gt;</description>
-			<pubDate>Thu, 08 Feb 2024 08:08:18 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195782</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195782</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/195782.jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] '미성년 연쇄 성폭행' 김근식, 징역 5년 확정… 2027년까지 수감</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/대법원1(2).jpg" alt="대법원1.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;미성년자를 잇따라 성폭행한 혐의로 15년을 복역한 김근식에게 징역 5년이 추가로 확정됐다. 김근식은 2022년 10월 출소를 하루 앞두고 과거 미성년자를 추행한 혐의로 재구속됐다. 대법원에서 판결이 확정됨에 따라 김근식은 2027년까지 복역하게 됐다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;대법원 형사1부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1377"&gt;노태악&amp;nbsp;&lt;/span&gt;대법관)는 8일 김근식에게 징역 5년을 선고한 원심을 확정했다(&lt;b&gt;2023도17481&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;김근식은 지난 2006년 학원을 마치고 귀가하던 당시 8살인 피해 아동을 혹행·협박해 강제 추행한 혐의 등으로 추가 기소됐다. 16년간 미제로 분류됐다가 검찰의 전수 조사로 뒤늦게 범인이 김근식임이 확인됐다. 김근식은 또 2019년과 2021년 7월 전남 해남교도소에서 복역 중에 교도관을 밀치고 협박한 혐의(공무집행방해) 등도 받는다.&lt;/p&gt;&lt;p&gt;앞서 김근식은 2000년 미성년자를 성폭행한 죄로 징역 5년을 받았다. 2006년 출소한 이후에도 그해 5~9월 수도권 지역에서 미성년자 11명을 연이어 성폭행했다. 이 사건으로 기소돼 징역 15년이 확정됐다. 수감 중에 동료 재소자를 두 차례 폭행해 형기가 일부 늘어나 2022년 10월 17일 출소가 예정됐다. 김근식은 출소 후 경기도 의정부 소재의 갱생 시설에 거주할 계획이었는데, 이 사실이 알려지며 의정부시와 지역 주민들이 강하게 반발했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;그러나 검찰이 김근식 출소 하루 전인 10월 16일 과거 강제 추행 혐의를 추가로 확인해 구속했다. 이날 징역 5년이 확정되면서 김근식은 2027년 10월까지 복역하게 됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;1심은 강제추행 혐의에 대해 징역 2년을 선고하고 위치추적 전자장치(전자발찌) 부착 10년, 성폭력치료 프로그램 200시간 이수를 명령했다. 이밖에 복역 중 교도관과 동료 재소자들을 폭행한 혐의(상습폭행·공무집행방해)는 징역 1년이 선고됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;2심은 형량을 늘려 강제추행 혐의에 징역 4년, 상습폭행·공무집행방해 혐의에 징역 1년을 선고했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;다만 1,2심 모두 검찰의 성 충동 약물치료(화학적 거세) 청구는 받아들이지 않았다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;김근식과 검찰이 불복해 상고했지만, 대법원은 원심 판단에 잘못이 없다고 보고 이날 원심을 그대로 확정했다.&lt;/p&gt;</description>
-			<pubDate>Thu, 08 Feb 2024 08:06:05 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195786</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195786</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/대법원1(2).jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
