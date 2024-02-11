@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>법원 “다단계 ‘투잡’ 뛴 농협 직원 해고는 정당”</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/로고다운로드-농협로고png4.png" alt="로고다운로드-농협로고png4.png" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;농협 로고&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;농협중앙회가 근무 중 다단계 판매로 ‘투잡’을 뛴 직원을 해고한 것은 정당하다는 판결이 나왔다.&lt;br /&gt;&lt;br /&gt;서울고법 민사1부는 7일 농협중앙회 전 직원 A 씨가 회사를 상대로 낸 해고무효소송의 항소심에서 원고 패소 판결했다.&lt;br /&gt;&lt;br /&gt;A 씨는 농협중앙회 차장으로 근무하며  2016년부터 동료 직원들에게 다단계 회사 판매원으로서 건강기능식품을 팔았다. 2018년 이와 같은 사실이 회사에 적발돼 징계 해고됐다.&lt;br /&gt;&lt;br /&gt;A 씨는 징계가 부당하다며 2019년 회사를 상대로 소송을 냈고, 1심 재판부는 A 씨의 손을 들어줬다. 겸업금지의무 위반, 근무 시간 중 내부 직원 대상 영업 행위 등 징계 사유는 인정되나 해고처분까지는 과하다고 본 것이다.&lt;br /&gt;&lt;br /&gt;하지만 항소심의 판단은 달랐다. 농협은 A 씨처럼 근무 중 다단계 회사 판매원으로 활동하다 해고(4명)·정직(2명)·감봉(2명) 등 징계를 받은 사례를 재판부에 제출했고 재판부는 이를 참고해 해고의 정당성을 인정했다.&lt;br /&gt;&lt;br /&gt;재판부는 “정 씨가 농협중앙회에 직접적으로 중대한 손해를 입혔다고 보기는 어려우나, 기업 질서를 문란하게 했다”고 설명했다.</description>
+			<pubDate>Sun, 11 Feb 2024 11:44:03 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/195838</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195838</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/로고다운로드-농협로고png4.png</media:thumbnail>
+			<dc:creator>유지인 기자</dc:creator>
+		</item>
+		<item>
+			<title>법원 “비대면 진료라도 간접상담 없는 처방전은 위법”</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/195837.jpg" alt="195837.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;비대면 진료라도 간접 상담 등의 절차도 없이 처방전을 내준 것은 위법하다는 판결이 나왔다. &lt;br /&gt;&lt;br /&gt;광주지방법원 형사3단독 이혜림 부장판사는 의료법위반 혐의로 기소된 의사 A(53) 씨에게 벌금 50만 원을 선고했다고 11일 밝혔다.&lt;br /&gt;&lt;br /&gt;A 씨는 2021년 3월 의사소통이 불가능한 요양원 입소 환자를 직접 진찰하지 않고 식욕 촉진제 14일분을 처방한 혐의로 재판에 넘겨졌다. &lt;br /&gt;&lt;br /&gt;A 씨는 재판에서 코로나19로 한시적 비대면 진료가 허용돼 한 행위라고 항변했지만, 재판부는 이를 인정하지 않았다.&lt;br /&gt;&lt;br /&gt;이 부장판사는 "비대면 진료라도 간접적으로 상담하거나 환자와 의사소통이 불가능할 경우 가족을 대신 상담할 수 있는데, A 씨는 요양원장의 요청만으로 처방전을 발행해 비대면 진료조차 하지 않았다"고 판시했다.</description>
+			<pubDate>Sun, 11 Feb 2024 11:38:38 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/195837</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195837</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/195837.jpg</media:thumbnail>
+			<dc:creator>유지인 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 법원 "대통령 '부산 횟집 회식' 비용 정보 공개해야"</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/194830(8).jpg" alt="194830.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;시민단체가 지난해 부산의 한 횟집에서 윤석열 대통령이 참가한 회식 비용을 공개하라며 낸 소송에서 승소했다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;서울행정법원 행정2부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4004"&gt;신명희&amp;nbsp;&lt;/span&gt;부장판사)는 8일 하승수 세금도둑잡아라 공동대표가 대통령비서실장을 상대로 낸 정보공개거부처분 취소소송(&lt;b&gt;2023구합64096&lt;/b&gt;)에서 원고승소 판결했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이날 재판부는 "피고가 2023년 5월 원고에게 한 정보공개거부처분을 취소한다"고 밝히면서도 구체적 판단 이유를 설명하지는 않았다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;윤 대통령은 지난해 4월 '2030 부산세계박람회' 유치 지원을 위해 부산을 방문하며 해운대구의 한 횟집에서 광역단체장 등과 함께 비공개 만찬을 진행했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;하 공동대표는 "당시 만찬에서 지출한 액수와 주체 등을 공개하라"며 정보공개를 청구했다. 하지만 대통령비서실 측이 이를 거부하자, 지난해 5월 소송을 냈다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Sun, 11 Feb 2024 09:35:43 -0000</pubDate>
@@ -221,26 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195717</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/195717.jpg</media:thumbnail>
 			<dc:creator>이용경 기자</dc:creator>
-		</item>
-		<item>
-			<title>법학 연구보다 변시에 목매는 로스쿨… 논문 안 쓴다</title>
-			<description>&lt;p&gt;법학계에선 논문 수 감소의 다른 원인으로는 △로스쿨 도입 이후 법학과 수 자체가 감소한 점 △연구보다 강의를 중시하는 로스쿨 분위기를 꼽는다. 로스쿨 도입 이후 법학과가 줄면서 논문을 작성하는 법학 교수 숫자도 자연히 감소했다는 분석이다. 로스쿨 관계자는 “로스쿨에서 실무가 출신 교수를 선호하다 보니 전업 연구자가 논문을 많이 써도 교수가 될 가능성이 적다”며 “교수들도 로스쿨 평판에서 변호사시험 합격률이 중요하다 보니 논문작성보다는 강의에 치중하는 분위기”라고 전했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;15년간 대학 법학과 40% 감소&lt;/b&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/195607(1).jpg" alt="195607.jpg" style="width: 320px; height: 462px;" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;로스쿨 도입 이후 전체 법학과 수는 감소했다. 연구의 장이 줄어들자 연구 교수가 설 곳이 사라지고 논문 수 역시 줄어 들 수 밖에 없는 악순환의 고리가 형성된 셈이다. 2009년 로스쿨 도입 때 전국 209개였던 법학과 수는 2010년 190개, 2011년 185개로 감소하다 2021년 133개, 2022년 124개, 2023년 117개로 2009년 대비 44.1% 감소했다. 로스쿨이 없는 대학들이 법학과를 공무원시험 준비를 위한 경찰행정학과, 공공인재학부 등으로 전환하고 있는 추세다. 2009년 일반대학 법학과 졸업생은 8824명을 기록했다. 이후 2015년 7565명, 2016년 6490명, 2017년 5782명, 2018년 4969명으로 급격히 줄었다. 2021년 4034명, 2022년 3874명, 지난해에는 2009년 대비 60.7% 감소한 3470명까지 줄었다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;지방의 한 법학과 교수는 “법학과가 절반 가까이 없어지면서 전업 연구자들이 강의와 연구할 수 있는 ‘시간강사’ 자리 조차 많이 사라졌다”며 “정년 퇴임으로 공석이 된 법학과 교수 자리도 충원하지 않다보니 법학과 교수 숫자 자체가 줄어든 것도 논문 수 감소에 영향이 있을 것”이라고 설명했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;‘학원화’된 로스쿨, 연구는 뒷전&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;변호사시험 합격률(응시자 대비)이 50%에 불과해 로스쿨에서도 논문을 작성하는 연구보다 강의에 치중하는 분위기가 지배적이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;김중권 중앙대 로스쿨 교수는 “헤겔의 ‘양질 전환의 법칙’(양적인 변화가 축적되면 질적으로 변화한다)에 따르면 법학 논문 수가 감소하는 것은 학문으로서의 법학에 ‘노란’ 경고등이 들어온 것”이라며 “대학은 교육과 연구로 이뤄지는데 로스쿨 도입 이후 변호사시험의 결과가 지나치게 강조되어 대부분 교수님들이 연구보다는 교육쪽에 치우쳐 있다”고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;로스쿨 교수가 되기 위해서는 박사학위를 따고 논문을 많이 쓰는 것보다 먼저 로스쿨에 가서 변호사 자격증을 따는 것이 더 유리하다는 인식도 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;지방의 한 로스쿨 교수는 “예전에는 좋은 논문을 많이 써서 지방 대학에서 서울권 대학으로, 작은 대학에서 큰 대학으로 교수들이 이동하는 소위 ‘선순환 구조’가 있었다”며 “이제는 판사, 검사, 변호사가 아니면 논문을 많이 써도 로스쿨 교수로 오기는 쉽지 않다”고 말했다. 논문의 수준 저하를 우려하는 목소리도 높다. 서울의 한 로스쿨 교수는 “교수들 중에서는 정교수 승진 등 대학에서 요구하는 최소 요건의 논문 수만 채우는 경우도 있다”며 “논문 심사자와 제출자만 보는 ‘실적’용 논문도 많다”고 꼬집었다.&lt;/p&gt;</description>
-			<pubDate>Fri, 09 Feb 2024 00:26:36 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195607</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195607</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/195607(1).jpg</media:thumbnail>
-			<dc:creator>이순규 기자</dc:creator>
-		</item>
-		<item>
-			<title>로스쿨은 인기, 법학논문은 ‘가뭄’</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;p style="text-align: center;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/195595_3.jpg" alt="195595_3.jpg" /&gt;   &lt;/p&gt;   &lt;/div&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: right;"&gt;&amp;nbsp;&lt;/div&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;p style="text-align: left;"&gt;법조인 선발 방식이 사법시험제도에서 로스쿨 제도로 바뀐 이후 학계에 발표되는 법학 논문 수가 감소해온 것으로 나타났다. 순수 법학이 위기라는 지적이 나온다.&amp;nbsp;&lt;/p&gt;   &lt;p style="text-align: left;"&gt;&amp;nbsp;&lt;/p&gt;   &lt;p style="text-align: left;"&gt;지난해 발표된 법학 논문 수는 4005건으로 10년 전인 2014년 4584건보다 12.6%(579건) 줄었다.&lt;/p&gt;   &lt;p style="text-align: left;"&gt;&amp;nbsp;&lt;/p&gt;   &lt;p style="text-align: left;"&gt;&amp;nbsp;&lt;/p&gt;   &lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/195595.jpg" alt="195595.jpg" style="text-align: center; width: 320px; height: 349px;" /&gt;&lt;/div&gt;   &lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;&lt;br /&gt;      &lt;p style="text-align: left; "&gt;법률신문이 한국연구재단 학술지 인용색인(KCI,Korea Citation Index) 데이터를 통해 2014~2023년 최근 10년간 법학 논문 수를 조사한 결과 2014년 4584건, 2015년 4413건, 2016년 4476건이던 논문 수는 2021년 4464건, 2022년 4294건, 2023년 4005건으로 계속 감소한 것으로 확인됐다.&lt;/p&gt;      &lt;p style="text-align: left; "&gt;&amp;nbsp;&lt;/p&gt;      &lt;p style="text-align: left; "&gt;같은 기간 법학박사학위 취득자는 2014년 232명, 2015년 224명, 2016년 240명이 배출됐다.&lt;/p&gt;      &lt;p style="text-align: left; "&gt;&amp;nbsp;&lt;/p&gt;      &lt;p style="text-align: left; "&gt;2017년 193명, 2018년 189명으로 잠시 100명대로 낮아졌지만,이후 2019년 227명, 2020년 221명, 2021년 257명, 2022년 246명, 2023년 226명으로 꾸준히 200명대를 유지하고 있다.&lt;/p&gt;      &lt;p style="text-align: left; "&gt;&amp;nbsp;&lt;/p&gt;      &lt;p style="text-align: left; "&gt;박사학위 취득자 가운데 판사·검사·변호사 출신 실무가의 비중이 높아진데다가 법학 교수가 되기 위해 논문을 집중적으로 많이 쓰는 전업 연구자가 줄어든 것 등이 논문 수 감소에 영향을 미친 것으로 분석됐다. 로스쿨에 신설된 법학전문박사(SJD) 과정의 등록생들은 대부분 변호사로, 전업 연구자와는 거리가 멀다. 학계 관계자는 “박사학위만 취득하고 논문은 쓰지 않는 ‘무늬만 박사’도 많다”며 “법학 학술지는 162개로 과거에 비해 늘었는데 논문투고량은 크게 줄어 발간 때마다 투고 마감 시한을 계속 연장하는 등 ‘논문 가뭄’ 현상을 겪고 있다”고 말했다.&lt;/p&gt;      &lt;/div&gt;   &lt;/div&gt;</description>
-			<pubDate>Fri, 09 Feb 2024 00:26:29 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195595</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195595</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/195595_3.jpg</media:thumbnail>
-			<dc:creator>이순규 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
