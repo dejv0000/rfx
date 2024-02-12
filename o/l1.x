@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 법원 "철거 목적으로 취득한 주택 '종부세 부과' 불가"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;div class="cheditor-caption-wrapper"&gt;      &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/195825(2).jpg" alt="195825.jpg" /&gt;         &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진=pixabay, 법률신문DB&amp;gt;&lt;/figcaption&gt;         &lt;/figure&gt;      &lt;/div&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;/div&gt;외형상 주택이라고 해도 임차인이 모두 퇴거해 사용 가능성이 없었고 이미 건축물 해체를 신청해 철거를 앞두고 있었다면 종합부동산세를 부과할 수 없다는 법원 판단이 나왔다.&lt;p&gt;&lt;br /&gt;서울행정법원 행정6부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7814"&gt;이주영&amp;nbsp;&lt;/span&gt;부장판사)는 2023년 11월 10일 주택개발업체 A 사가 영등포세무서장을 상대로 낸 종합부동산세부과처분 취소소송(&lt;b&gt;2022구합87160&lt;/b&gt;)에서 "영등포세무서장이 2021년 11월 A 사에 내린 2021년도 귀속 종부세 6억2700여만 원과 농어촌특별세 1억2500여만 원의 부과 처분을 각 취소한다"며 원고승소 판결했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;A 사는 2020년 12월 소유하던 서울 용산구 소재 건물을 해체하기로 하고, 용산구청에 건물 해체허가신청서를 제출했다. 용산구청은 2021년 8월이 돼서야 건축물 해체 허가서를 발급했다. 이후 영등포세무서는 A 사가 과세기준일인 '2021년 6월 1일'을 기준으로 3주택 이상을 소유했다는 이유로 2021년 11월 종부세 6억2700여만 원과 농어촌특별세 1억2500여만 원을 부과했다. A 사는 국세심사위원회 이의신청과 조세심판원 심판청구가 모두 기각되자 소송을 냈다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;A 사는 "이 사건 건물이 외형상 주택이라고 해도 과세기준일 당시 기존 임차인이 모두 퇴거했고 단전·단수돼 오직 철거를 앞두고 있어 사실상 주택 기능을 상실해 주택으로 볼 수 없다"며 "종부세 과세기준일 이전에 건물 해체신청을 했음에도 용산구청의 처리 지연으로 철거를 못 한 것일 뿐, 그 책임을 우리가 부담하는 것은 부당하다"고 주장했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;재판부는 "실제로 철거할 예정으로 취득한 주택의 경우, 부의 편중현상을 완화해 경제적 효율성을 높이고 투기적 목적의 주택 소유를 억제한다는 종합부동산세의 입법 목적과는 그다지 관계가 없다"며 "고액의 부동산 보유자에 대해 과세를 해 부동산 가격 안정 등의 적극적인 목적을 추구한다는 종부세의 유도적·형성적 기능과도 거리가 멀다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이어 "2022년 2월 종합부동산세법 시행령 개정으로 '그 취득일부터 3년 내에 멸실시키는 주택'이 종부세 합산배제 대상에 추가돼 합산배제 대상이 확장됐는데, 그 취지는 '주택 공급을 촉진하기 위해 종부세 과세표준 합산 대상에서 제외되는 주택의 범위에 공공주택사업자, 주택조합, 주택건설사업자 등이 주택건설 사업을 위해 멸실시킬 목적으로 취득해 3년 이내에 멸실시키는 주택'을 추가한 것"이라고 설명했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;그러면서 "실제로 A 사는 건물을 양도받은 직후 곧바로 건축물 해체허가 신청을 했는데, 용산구청의 심의를 여러 차례 거치고 재차 신청서를 제출하는 과정을 거쳐 그 허가가 2021년 8월에야 있었다"며 "그 과정에서 건물이 사용되거나 사용될 가능성이 있었다는 사정은 보이지 않는 바, 건물의 외관이 존재하고 있었다는 것만으로 해당 건물이 주택으로 이용되고 있었다고 볼 수 없다. 해당 건물은 종부세 과세 대상에 포함되지 않는다고 봄이 타당하다"고 판시했다.&lt;/p&gt;</description>
+			<pubDate>Mon, 12 Feb 2024 22:07:17 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/195825</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195825</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/195825(2).jpg</media:thumbnail>
+			<dc:creator>이용경 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】2024년 2월 13일</title>
 			<description>&lt;p&gt;   &lt;b&gt;◇국회사무총장&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&amp;nbsp;09:30 주간업무보고(국회접견실)&lt;p&gt;   &lt;br /&gt;&lt;br /&gt;&lt;b&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;14:00 최재형 의원실, 저출생 극복, 건강한 자연출산과 행복한 양육문화 만들기(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 우신구 의원, [김성남 국민의힘 고양시갑 예비후보, 제22대 총선 출마선언 기자회견]&lt;br /&gt;&lt;br /&gt;10:40 용혜인 의원, [새진보연합 개혁과제 발표 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 성소미 공보기획관, [2월 2주차 국회 정례브리핑]&lt;br /&gt;&lt;br /&gt;11:20 조해진 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;14:00 김은희 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있음.&lt;/span&gt;&lt;/p&gt;</description>
 			<pubDate>Mon, 12 Feb 2024 20:09:10 -0000</pubDate>
@@ -229,16 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195799</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/고속도로(1).jpg</media:thumbnail>
 			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>우리 아이 세배하는 모습 예뻐서 SNS에 올렸다면… '셰어런팅' 조심하세요!</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;div class="cheditor-caption-wrapper"&gt;      &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;         &lt;img src="https://image.lawtimes.co.kr/images/195803.jpg" alt="195803.jpg" /&gt;         &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;설날을 맞아 자녀가 세배하는 모습을 사진이나 동영상으로 찍어 인스타그램이나 페이스북 등에 게시하는 부모가 늘고있다. 그런데 무심코 올린 사진이 범죄에 이용될 수 있다는 경고가 나온다. 왜일까?&lt;p&gt;&lt;br /&gt;아이의 사진이나 동영상을 SNS를 통해 공유하는 것은 '셰어런팅'이라고 일컫는다. 공유라는 뜻의 '셰어(Share')와 양육을 의미하는 '페어런팅(Parenting)'의 합성어다. 그런데 왜 조심해야 한다고 하는 걸까? 아이의 이름이나 사진을 올리는 과정에서 아이의 생년월일이 드러나거나 그 밖에 아이가 다니는 학교나 기관, 동선 등 개인정보가 노출될 수 있어 범죄에 노출될 수 있다는 우려에서다. &lt;br /&gt;&lt;br /&gt;예를 들어 유괴범이 부모의 SNS를 통해 드러난 아이의 정보를 이용해 아이에게 친근하게 접근할 수 있는 있다는 것이다. 또 기술의 발달로 영상에서 모습이나 목소리를 추출해 가짜 영상을 만들어낼 수 있는 위험성도 더해져 더 심각한 사태로 번질 수도 있다는 의견도 있다.&lt;br /&gt;&lt;br /&gt;해외의 경우엔 셰어런팅을 법적으로 제재하기도 한다. 언론 보도 등에 따르면 프랑스에서는 자녀 동의 없이 사진이나 영상을 올린 부모에게 자녀가 소송을 제기하면 최대 징역 1년, 벌금 4만5000유로(약 5990만 원)에 처할 수 있다고 알려진다.  그러나 한국은 아직 관련 법규가 마련돼 있지 않다. 다만 개인정보보호위원회는 올 초 지난해부터 시범운영한 어릴 적 무심코 올린 개인정보가 포함된 온라인 게시물에 대해 개인정보위가 삭제, 블라인드 처리 등을 도와주는 '지우개 서비스' 지원 대상을 확대했다. 2023년에는 셰어런팅의 위험성과 자녀 연령대별 개인정보 교육 방법 등 보호자 대상 교육도 확대하기로 결정한 바 있다.&lt;br /&gt;&lt;br /&gt;서초동의 한 변호사는 "자녀를 사랑하는 마음에 SNS에 사진을 올리는 것이지만, 잘못하면 자녀가 범죄에 노출될 수 있는 만큼 경각심을 가져야 한다"며 "사회적인 공감대를 토대로 관련 제도 또한 마련될 필요가 있다"고 말했다. &lt;br /&gt;&lt;br /&gt;한편 국제아동권리 비정부기구(NGO) 세이브더칠드런에 따르면, 아동 10명 중 9명이 디지털 환경에서 아동의 잊힐 권리를 법으로 보장하는 것에 찬성한 것으로 나타났다. 세이브더칠드런은 '안전한 인터넷의 날'을 맞아 6일 지난해 12월 5∼7일 전국 10∼18세 아동·청소년 1000명을 대상으로 시행한 '디지털 환경에서의 아동보호' 설문조사 결과를 소개했다. 조사 결과, 응답자의 85.5%는 아동의 잊힐 권리를 법으로 보장하는 것에 찬성했다. 97.7%는 다른 사람이 동의 없이 내 개인 정보를 올린 경우 삭제나 수정을 요청할 것이라라고 응답했다. &lt;br /&gt;&lt;br /&gt;세이브더칠드런 관계자는 "지난해 4월 개인정보보호위원회는 아동·청소년의 개인정보가 포함된 게시물의 삭제나 숨김을 요구할 수 있는 '지우개(지켜야 할 우리의 개인정보) 서비스'를 시행했다"며 "지우개 서비스 대상 게시물을 확대하는 법제 마련이 조속히 이뤄져야 한다"고 말했다.&lt;/p&gt;</description>
-			<pubDate>Fri, 09 Feb 2024 09:27:32 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195803</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195803</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/195803.jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
