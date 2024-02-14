@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>검찰, '수사무마·인사청탁' 브로커와 연루된 검경 전현직 18명 기소</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/검찰2(1).jpg" alt="검찰2.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;고위 경찰과 검찰 수사관들이 연루된 사건 브로커 성모씨 수사가 일단락됐다. 검찰은 관련자 18명을 기소하고 이 가운데 10명을 구속했다. &lt;br /&gt;&lt;br /&gt;광주지검 반부패강력수사부(부장검사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14295"&gt;김진호&lt;/span&gt;)는 14일 광주지역 브로커 성 씨의 수사 무마 및 경찰 인사 개입 사건에 대한 중간 수사 결과 가상 화폐 관련 사기 사건 피의자로부터 약 18억 원을 수수한 브로커 2명을 구속 기소했다고 밝혔다.  &lt;br /&gt;&lt;br /&gt;또 수사 중인 사건 해결 및 수사 정보 제공 등의 명목으로 브로커로부터 금품을 수수한 전직 경찰관 1명, 현직 검찰 수사관 1명을 구속 기소하고, 이들에게 수사 진행 상황을 알려준 현직 검·경 수사관 3명을 불구속 기소했다.&lt;br /&gt;&lt;br /&gt;경찰 승진 인사 청탁 명목으로 지방경찰청장에게 뇌물을 공여한 현직 경찰관 6명(구속 3명, 불구속 3명), 뇌물 전달 과정에 관여한 전직 경찰관 3명, 사업가 1명, 브로커 1명(구속 3명, 불구속 2명), 뇌물을 수수한 현직 치안감 1명(불구속 1명) 등 총 12명을 기소했다. &lt;br /&gt;&lt;br /&gt;검찰은 2021~2022년 광주ㆍ전남경찰청에서 승진을 앞두고 있던 일부 경찰 공무원들이 인사권자와 친분이 있던 성 씨 등 브로커들을 통해, 경감 승진의 경우 1~2000만 원, 경정 승진의 경우 2~3000만 원의 뇌물을 전달한 사실을 확인했다. &lt;br /&gt;&lt;br /&gt;'사건 브로커' 로비 의혹은 성 씨가 가상자산 사기범 등으로부터 금품을 받고 수사 무마 청탁을 한 사실이 적발돼 불거졌다.&lt;br /&gt;&lt;br /&gt;성 씨는 2020~2021년 가상자산 투자 사기 피의자로부터 수사기관 로비 명목으로 18억여 원을 수수한 혐의를 받고 있다. 성 씨는 검찰과 경찰 인맥을 내세워 승진 인사·수사 무마 청탁을 해 온 의혹을 받는다. &lt;br /&gt;&lt;br /&gt;검찰은 지난해 8월 성 씨를 구속기소한 뒤 수사와 인사 청탁에 관여한 관련자들에 대한 후속 수사를 진행해왔다. &lt;br /&gt;&lt;br /&gt;검찰 관계자는 "향후에도 검찰은 브로커와 관련된 남은 의혹들에 대해 철저하게 수사를 진행할 예정"이라고 밝혔다.</description>
+			<pubDate>Wed, 14 Feb 2024 02:28:04 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/195894</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195894</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/검찰2(1).jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>3개 중재 단체·법률신문, 중재 산업 발전 위한 '업무협약'</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/195876.jpg" alt="195876.jpg" /&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;왼쪽부터 맹수석 대한상사중재원장, 손용근 대한중재인협회장, 이수형 법률신문 대표이사, 신승남 한국중재학회장. &amp;lt;사진=백성현 기자&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대한상사중재원(원장 맹수석)·대한중재인협회(협회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5392"&gt;손용근&lt;/span&gt;)·한국중재학회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3806"&gt;신승남&lt;/span&gt;)와 법률신문사는 13일 서울 서초구 법률신문사에서 중재 산업의 발전과 진흥을 위한 업무협약(MOU)을 맺었다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;3개 중재 단체와 법률신문사는 협약에 따라 △중재활성화를 위한 제반 업무의 협력과 관련 정보 및 자료의 교환·제공 △중재인 육성 등 중재산업 정착 및 발전에 기여하기 위한 프로그램 진행 △각 기관 소속 회원 내지 직원 등을 상대로 한 안내 및 홍보 △기타 본 공동협력의 목적달성을 위해 필요한 사항 등과 관련해 협력할 예정이다.&lt;br /&gt;이날 3개 단체장과 법률신문 이수형 대표는 중재 제도의 운용 현황과 발전 방향에 대해 의견을 나눴다. 특히 대안적 분쟁해결제도(Alternative Dispute Resolution, ADR)로서 중재의 강점이 언급됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;손용근(72·사법연수원 7기) 협회장은 "중재 제도는 최근 대두되는 법원의 재판 지연 문제를 해소할 중요한 대안"이라며 "또 건설·의료 등 난도 높은 분야의 분쟁을 전문적으로 해결하는 수단"이라고 강조했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;신승남(65·15기) 회장은 "중재 분야의 기술 발달로 전 세계의 분쟁 당사자들이 온라인을 통해 물리적 거리의 한계를 뛰어넘어 신속하게 사건을 해결하고 있다"며 "홀로그램 혹은 가상 현실 기술로 현장감을 높인 중재를 진행할 날도 머지않았다"고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;중재 산업 발전을 위한 조언도 나왔다. 신 회장은 "국제 중재 시장에서 성과를 내는 것도 중요하지만 국내 중재 시장의 활성화가 더 시급한 과제"라며 "중재 제도가 제대로 운용될 수 있도록 법무부가 적극 나서 법적, 제도적 기반을 마련해야 한다"고 지적했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;맹수석 원장은 "한국 기업과 로펌이 중재 사건을 담당할 기관으로 대한상사중재원을 적극 이용하고, 지금보다 폭 넓은 전문가 풀을 양성한다면 중재 제도의 근간이 단단해질 것"이라고 말했다.&lt;/p&gt;</description>
 			<pubDate>Wed, 14 Feb 2024 00:42:48 -0000</pubDate>
@@ -230,16 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195815</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/194830(8).jpg</media:thumbnail>
 			<dc:creator>이용경 기자</dc:creator>
-		</item>
-		<item>
-			<title>상사 폭언 '직장 내 괴롭힘' 인정…법원, "위자료 700만원 지급하라"</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/195819.jpg" alt="195819.jpg" /&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;div class="cheditor-caption-wrapper"&gt;      &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;         &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;         &lt;/figure&gt;      &lt;/div&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;/div&gt;직장상사가 부하직원에게 폭언과 욕설 등을 했다면 직장 내 괴롭힘에 해당해 위자료를 지급해야 한다는 법원 판단이 나왔다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;서울남부지법 민사4단독(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5903"&gt;조중래&amp;nbsp;&lt;/span&gt;부장판사)은 A씨가 상사인 B씨를 상대로 낸 손해배상 청구소송에서 "B씨는 700만원을 지급하라"고 판결했다(&lt;b&gt;2022가단241657&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;A씨는 B씨가 밤 11시가 넘는 시간에 다음 날 업무발표를 하라고 카카오톡 메시지를 보낸 후 카카오 보이스톡으로 폭언과 욕설 등을 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;또 B씨가 2021년 12월 종무식 자리에서 자신을 꾸짖는 듯한 발언을 하고, 업무 서류를 책상에 던지거나 업무 내용에 대한 일체의 설명도 없이 부당하게 업무를 지시했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;결국 A씨는 2022년 2월 퇴사했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;재판부는 "B씨의 부적절한 행위는 이른바 '직장 내 괴롭힘'으로 A씨의 인격권을 침해하는 불법행위에 해당한다"며 "A씨가 입은 정신적 손해를 배상할 책임이 있다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;다만 "B씨가 다른 직원에게 'A씨와 일하기 싫다'는 이야기를 한 것, A씨를 '쟤'로 지칭하거나 발표 중인 A씨를 쫓아내고 핀잔을 준 행위 등은 증거가 부족하거나 불리한 처우 또는 적정한 수준을 넘는 행위로 볼 수 없다"고 판시했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;근로기준법 76조의 2(직장 내 괴롭힘 금지)는 사용자나 근로자가 직장에서의 지위 또는 관계 우위를 이용해 다른 근로자에게 신체적·정신적 고통을 주는 행위 등을 금지하도록 규정한다.&lt;/p&gt;</description>
-			<pubDate>Sun, 11 Feb 2024 09:31:50 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195819</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195819</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/195819.jpg</media:thumbnail>
-			<dc:creator>이순규 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
