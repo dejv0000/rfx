@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/opinion</link>
 		<language>ko</language>
 		<item>
+			<title>차병직 편집인 칼럼 : 흔들리는 풍경 하나 - AI 시대에 대한 인간의 사회적 두려움 · 위기감 조성하는 실체가 AI의 교활함인지 인간의 어리석음인지 분간하기 어려워</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/2023n_chacha.jpg" alt="2023n_chacha.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;소크라테스만 하더라도 여느 인간처럼 이중적이다. 지혜와 어리석음이 뒤섞인 존재인데, 후세의 사람들이 긍정적 측면만 부각하는 행운 속에서 사후의 현자가 되었다. 그의 무기는 상대방 말의 허점을 찾아 파고드는 질문이었다. 거듭되는 질문의 수단 역시 말이었다. 글은 불안정하다고 여겼다. 생각을 고정시키고, 볼 때마다 같은 주장만 반복할 뿐 질문에 대답을 할 줄 모르기 때문이었다. 글이 말보다 어리석은 도구라는 생각이 소크라테스의 어리석음이었다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;소크라테스뿐만 아니라 고대의 많은 철학자들은 글을 쓰지 않았다. 붓다나 예수도 말만 남겼다. 저마다 사정은 달랐겠지만, 무엇보다 고대의 독서는 소리내어 읽어 말을 대신하는 것이었지 사색을 동반한 침묵의 지적 노동이 아니었다. 글보다는 춤이나 노래의 상징성이 본질을 전달하는 데는 더 효과적이라고 확신했을 만큼 글의 완전성에 대한 회의가 작용한 탓도 있었을 것이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;옛 지성인들의 시대적 감각을 어리석음으로 표현하는 것은 지금을 기준으로 한 평가의 결과다. 현미경이나 망원경이 시각을 확장한 것이고 전화나 방송이 목소리를 증강한 것으로 본다면, 책은 기억과 상상력의 신세계일 수밖에 없다는 관점에서 그렇다. 말을 침묵 속에 가두어버린 것이 책이라는 고대의 불안감에는 두려움도 포함되어 있었다. 말하기 대신 글쓰기를 배우면 마침내 기억을 소홀히 하여 집단 망각증에 빠지게 되고 말 것이라는 경고가 한때의 당대적 통찰이었다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;인터넷 시대의 전개 이후, 스마트폰을 비롯한 모든 컴퓨터에 필요한 사항을 저장하면 기억의 이완 현상을 초래할 것이라는 구글 효과에 대한 우려에도 이천수백 년 전 어리석음의 그림자가 어른거린다. AI의 과도한 능력이 기존 질서를 흩트리는 데 대한 경계심까지 가중되면, 분위기는 가끔 흔들린다. 삶의 생태적 패러다임이 바뀌는 전환기에 놓인 개인이나 기관의 권위 또는 전통은 애처로워 보일 때가 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;미국 연방대법원장 존 로버츠가 2023년 연말보고서에서 밝힌 우려도 하나의 사례다. “법률가 아닌 사람도 법률가와 동일한 수준으로 법률 문제의 핵심 정보에 접근할 수 있게 해 준다”며 AI의 잠재력을 평가하면서도, AI의 단점은 허위 정보를 생성하는 것으로 “법률가들이 존재하지 않는 판례를 제출하도록 만든다”고 지적했다. 첨단의 미래를 따라잡지 못하는 구시대의 비애가 섞인 걱정으로 느껴진다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;우리 입법부와 정치권의 감각도 비슷한 상황이다. 작년 12월 여야는 모처럼 공직선거법 개정에 합의했는데, 딥페이크의 선거운동 활용 금지에 관한 내용이었다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이미 발효된 개정 조항에 따라 선관위는 AI가 만든 가상 음향, 이미지, 영상 등을 단속하기 시작했다. 가짜 뉴스에 해당하는 거짓 정보를 막아야 한다는 의무감의 발로다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;가짜 뉴스는 여러 면에서 가짜 판례와 유사하다. 개념부터 모호하다. 주체마다 자기에게 유리한 쪽에 선을 그어 가짜를 규정하는데, 서로의 간극은 크다. 판례에 가짜가 가능한 것은 법의 논리가 길을 열어 놓고 있기 때문이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;부정적인 의미의 가짜는 물론 현존하는데, 그 가짜는 모두 인간이 만든다. AI도 인간이 만들었지만, AI가 만든 어떠한 것 역시 인간이 개입한 결과다. 인간은 자기 책임을 기계에 전가할 때 AI의 비인간성을 들먹인다. 가짜의 판별도 사람보다는 AI가 더 신속하고 정확하게 한다. 기술 문명은 허위 정보를 쉽게 만들 수 있게 하지만, 마찬가지로 제어도 쉽게 할 수 있게 한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;말이 글로 바뀔 때와 필사본의 글이 인쇄본으로 바뀔 때 가졌던 인간의 사회적 두려움은 AI 시대에 반복되고 있다. 위기감을 조성하는 실체가 AI의 교활함인지 인간의 어리석음인지 분간하기 어렵다. 보수적 태도를 미덕으로 여기는 법률가와 그 논리에 기대는 정책가 들은 어리석음을 신중한 근엄으로 씌워 자존심을 유지한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;차병직 변호사(법무법인 클라스한결)·편집인&lt;/b&gt;&lt;/p&gt;</description>
+			<pubDate>Thu, 15 Feb 2024 00:38:04 -0000</pubDate>
+			<category>opinion</category>
+			<link>https://www.lawtimes.co.kr/opinion/195849</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/195849</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/2023n_chacha.jpg</media:thumbnail>
+			<dc:creator>차병직</dc:creator>
+		</item>
+		<item>
 			<title>법의 신(新)과 함께 : 진정성의 입증책임 - 아직 정확한 전망을 할 수 없는&lt;br&gt;
 법률시장 솔루션이라 하더라도&lt;br&gt; 
 혁신을 위한 발걸음이라면&lt;br&gt; 
@@ -129,17 +139,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/195589</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/2023_lawdae_sil.jpg</media:thumbnail>
 			<dc:creator>장윤실</dc:creator>
-		</item>
-		<item>
-			<title>박성민의 정치코멘터리 : 총선 국면 초읽기: 윤핵관 vs 한핵관, 친명 vs 친문-반명 - 윤 대통령 레임덕 초기 증상&lt;br&gt;
-여야 모두 결국은 공천싸움</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/2023_commentary.jpg" alt="2023_commentary.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;지난주 이 코너를 쉬는 동안 정치권에 많은 변화가 있었습니다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;①국민의힘 : 이른바 ‘윤·한 충돌’ 이후 국민의힘 공천 주도권이 한동훈 비대위원장 쪽으로 빠르게 넘어가고 있습니다. 윤석열 대통령은 지지율, 여론, 당 신뢰를 모두 잃으며 레임덕 초기 증상(?)을 보이기 시작했습니다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;1월 마지막 주 갤럽 발표에 따르면 윤석열 대통령 직무 수행 긍정 평가 31%·부정 평가 63%인 반면 한동훈 비대위원장은 긍정 52%·부정 40%였습니다. 총선을 코앞에 둔 상황에서 이런 결과는 윤석열에서 한동훈으로 당 권력이 넘어갈 수밖에 없게 합니다. 이젠 언론도 ‘한핵관’을 쓰게 될 것입니다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;당 주도권이 한동훈으로 이동하자 야당의 정권심판론(윤석열 심판)이 약해지면서 총선 전망도 조금 밝아진 분위기입니다. 국민의힘 전략은 총선을 윤석열 정부 2년에 대한 평가가 아니라 ‘미래 경쟁’으로 구도를 바꾸려는 것입니다. 한동훈·원희룡·오세훈·안철수 등과 새로운 영입 인사를 통해 ‘이재명만 보이는’ 민주당과 차별화를 하고 있습니다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;②민주당 : 강서구청장 보궐 선거 승리 이후 쏟아졌던 ‘범진보 200석’ 같은 낙관적 분위기는 더 이상 찾을 수 없습니다. 오히려 여기저기서 ‘총선 위기론’이 나오기 시작했습니다. 이낙연 전 대표와 ‘원칙과 상식’이 공격을 견디지 못하고 당을 떠나자 이번에는 ‘친문’을 향한 총공세가 시작됐습니다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;0.73%의 대선 패배를 두고 ‘친명’은 문재인 정부 탓으로 돌리고 ‘친문’은 이재명 사법 리스크 탓으로 돌린 터라 ‘대선 백서’ 발간도 못했습니다. 대부분 의원이 ‘친문’인 현실에서 ‘친명’의 공격은 자칫 큰 분열로 이어질 수 있습니다. 이재명 대표가 대표적 ‘반문’ 인사인 이언주 전 의원의 복당을 직접 요청한 건 불에 기름 부은 격입니다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;민주당도 결국은 공천 싸움입니다. 민주당의 문제는 2020년 총선에서 너무 크게 이기고 2022년 지방선거에서 너무 크게 진 탓입니다. 자리는 없는데 그 자리 차지하려는 사람은 많은 게 친명·반명, 친명·친문 충돌의 본질입니다. 민주당이 이 충돌을 잘 관리하지 못하면 당 지지층 분열로 투표율이 떨어지면서 참패를 당한 사례(2007년 대선 투표율 63.03%, 2008년 총선 46.1%, 2022년 지방선거 50.9%)가 재연될 수 있습니다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;박성민 정치컨설팅 민 대표&amp;nbsp;&lt;/b&gt;&lt;/p&gt;</description>
-			<pubDate>Sat, 03 Feb 2024 22:10:20 -0000</pubDate>
-			<category>opinion</category>
-			<link>https://www.lawtimes.co.kr/opinion/195606</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/195606</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/2023_commentary.jpg</media:thumbnail>
-			<dc:creator>박성민</dc:creator>
 		</item>
 	</channel>
 </rss>
