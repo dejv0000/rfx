@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>美법원, '자산 부풀리기' 트럼프 전 대통령에 '4천억원대' 벌금</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/PGT20240215094101009.jpg" alt="PGT20240215094101009.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진= 연합뉴스&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;도널드 트럼프 전 미국 대통령 일가와 그의 회사가 은행 대출 때 자산을 허위로 부풀려 신고해 부당이득을 취한 혐의로 4000억원대의 벌금을 물게 됐다. 이번 판결이 확정될 경우 트럼프 전 대통령은 가용 현금을 모두 잃어 사업적 위기를 맞을 수 있다는 분석이 나온다. &lt;br /&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;뉴욕 맨해튼지방법원의 아서 엔고론(Arthur Engoron) 판사는 16일(현지시간) 열린 트럼프 전 대통령 및 트럼프 그룹이 관련된 사기대출 의혹 사건에 대한 선고공판에서 트럼프 전 대통령에 3억5500만달러(약 4700억원)의 벌금을 내라고 판결했다. 당초 검찰에서 요청한 금액보다 큰 규모다. 만일 트럼프가 벌금을 적시에 내지 않으면 주법에 따른 이자가 붙기 때문에, 그가 실제로 내는 금액은 3억5500만 달러를 상회할 수 있다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;지난 2022년 9월 레티샤 제임스 뉴욕주 검찰총장은 트럼프 전 대통령과 트럼프그룹이 은행과 보험사로부터 유리한 거래조건을 얻기 위해 보유 자산가치를 허위로 부풀려 신고했다며 뉴욕시 맨해튼 지방법원에 민사소송을 제기했다. 검찰은 소장에서 트럼프 전 대통령에 벌금 2억5000만달러(약 3300억원)를 부과하고 트럼프그룹 등이 뉴욕주에서 영구적으로 사업을 할 수 없게 판결을 내려달라고 요청했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;엔고론 판사는 이번 판결에서 트럼프 전 대통령과 트럼프그룹 등의 사업체가 자산 가치를 허위로 부풀리는 등 거짓말을 해 부당이득을 얻은 사실이 인정된다며 3억5500만달러(약 4700억원)의 벌금을 선고했다.&lt;br /&gt;또 트럼프 전 대통령의 장남인 트럼프 주니어와 차남 에릭에게 각각 400만달러, '트럼프의 회계사'로 불린 앨런 와이셀버그에게 100만달러의 벌금을 부과했다. 이번 판결로 트럼프가에 부과된 총 벌금은 3억6400만 달러(약 4800억원)이다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;엔고론 판사는 트럼프 전 대통령은 3년간, 그의 두 아들은 2년간 뉴욕주에서 자신의 회사를 포함해 어느 사업체에서도 고위직을 맡을 수 없도록 금지하는 명령도 내렸다. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;트럼프 전 대통령은 즉각 항소하고, 뉴욕주 사업체 고위직 수임을 금지한 명령의 효력을 중단하기 위한 가처분을 신청할 것으로 보인다. 이 경우 트럼프 전 대통령은 자신에게 부과된 벌금을 즉시 지불할 필요는 없다. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;트럼프 전 대통령 측은 은행들이 이런 대출로 피해를 본 게 없고 이번 사건을 민주당 인사들이 벌인 마녀사냥이라는 입장이다. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이번 재판은 트럼프가 받는 형사재판 4건과는 무관한 별개의 민사 사건이다.&lt;/p&gt;</description>
+			<pubDate>Sat, 17 Feb 2024 05:00:28 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196004</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196004</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/PGT20240215094101009.jpg</media:thumbnail>
+			<dc:creator>홍수정 기자</dc:creator>
+		</item>
+		<item>
+			<title>檢, '전청조' 1심 징역 12년에 항소</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/KakaoTalk_20240217_110947823.jpg" alt="KakaoTalk_20240217_110947823.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진= 연합뉴스&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;검찰이 수십억대 투자사기를 벌인 전청조(28)씨에게 징역 12년을 선고한 법원 1심 판결에 불복해 항소했다.&lt;p&gt;서울동부지검은 16일 재벌 3세를 사칭하며 재벌들만 아는 투자기회를 제공한다고 속여 투자사기를 벌인 혐의를 받는 전씨에 대한 1심 판결에 항소했다고 밝혔다. 앞서 검찰은 전씨에게 징역 15년을 구형했다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;검찰 관계자는 "전씨가 여러 차례 사기 전력이 있음에도 다시 범행한 점과 피해자가 다수이고 피해 규모가 매우 큰 점, 피해금도 모두 사치를 위해 사용해 앞으로 피해 회복 가능성이 없는 점, 오직 호화 생활을 위한 계획적인 범행인 점, 범행을 위해 여러 문서를 위조하는 등 수법이 불량한 점 등을 고려해 항소했다"고 했다.&lt;/p&gt;&lt;p&gt;전 펜싱 국가대표 남현희씨의 재혼 상대로 알려진 전씨는 2022년 4월부터 작년 10월까지 강연 등을 하며 알게 된 27명으로부터 투자금 명목으로 약 30억 원을 편취한 혐의 등을 받는다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;서울동부지법 형사합의11부(김병철 부장판사)는 지난 14일 특정경제범죄가중처벌법(특경법)상 사기와 공문서위조 등 혐의로 구속기소 된 전씨에게 징역 12년을 선고했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;재판부는 전씨의 경호팀장 행세를 하며 범행에 가담한 혐의로 구속기소된 이모(27)씨에 대해서는 "종범에 머물렀다"며 징역 1년 6개월을 선고했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;검찰은 이씨에 대해서도 "단순 방조범이 아니라 공동정범에 해당한다고 본다"며 항소했다. 앞서 검찰은 이씨에게 징역 7년을 구형했다.&lt;/p&gt;</description>
+			<pubDate>Sat, 17 Feb 2024 04:58:01 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196003</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196003</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/KakaoTalk_20240217_110947823.jpg</media:thumbnail>
+			<dc:creator>홍수정 기자</dc:creator>
+		</item>
+		<item>
 			<title>유철형 태평양 변호사, 한국지방세학회 학회장 취임</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/195970.jpg" alt="195970.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8415"&gt;유철형&lt;/span&gt;(58·사법연수원 23기) &lt;a href="https://www.bkl.co.kr/law?lang=ko" target="_blank"&gt;&lt;b&gt;법무법인 태평양&lt;/b&gt;&lt;/a&gt; 변호사가 지난 15일 한국지방세학회 제9대 학회장에 취임했다. 한국지방세학회는 2013년 출범한 지방세 분야의 유일한 조세실무학회다.&lt;br /&gt;&lt;br /&gt;유 변호사는 서울대 법과대학을 졸업한 뒤 1991년 제33회 사법시험을 합격하고 1997년 태평양에 합류했다. 이후 지방세 업무의 주무부처인 행정안전부 고문변호사, 지방세발전위원회 위원, 지방세법령해석심의위원회 위원 등 약 27년 동안 조세 전문가로 활동했다.&lt;br /&gt;&lt;br /&gt;유 변호사는 취임사에서 "실무가들이 현장에서 느끼는 불합리한 지방세제와 지방세정을 발굴하고, 정부에 대안을 제시해 한국지방세학회가 합리적인 지방세제와 지방세정을 만들어가는 데 지속적으로 기여할 수 있도록 노력하겠다"고 밝혔다.</description>
 			<pubDate>Fri, 16 Feb 2024 22:42:43 -0000</pubDate>
@@ -219,26 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195932</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/195932.jpg</media:thumbnail>
 			<dc:creator>이순규 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 한누리, 유한 법무법인으로 조직 변경… 오택림 변호사도 영입</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/195933_1(1).jpg" alt="195933_1.jpg" /&gt;&lt;/p&gt;법무법인 한누리(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2101"&gt;김주영&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="6123"&gt;서정&lt;/span&gt;)가 유한 법무법인으로 조직을 변경하는 절차를 마무리지었다. 형사 분야에서 활발히 활동한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1082"&gt;오택림&lt;/span&gt;(54·사법연수원 27기) 변호사도 영입했다.&lt;br /&gt;&lt;br /&gt;한누리는 지난달 12일 "신속한 의사결정과 활발한 인재영입으로 보다 나은 법률서비스를 제공하기 위해 유한 법무법인으로 조직변경을 결정했고, 최근 이에 따른 절차를 마무리했다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;한누리는 원로 대법관 출신&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3222"&gt;김상원&lt;/span&gt;(91·고등고시 8회) 변호사가 김·장 법률사무소에서 나와 2000년 두 아들인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1977"&gt;김주현&lt;/span&gt;(62·17기) 변호사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2101"&gt;김주영&lt;/span&gt;(59·18기) 변호사와 함께 문을 연 로펌이다. 투자자소송·기업지배구조쟁송·공정거래분야에서 특화된 서비스를 제공해왔다.&lt;br /&gt;&lt;br /&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;div class="cheditor-caption-wrapper"&gt;      &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 375px;"&gt;         &lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/195933(1).jpg" alt="195933.jpg" /&gt;            &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;오택림 변호사&lt;/figcaption&gt;            &lt;/div&gt;         &lt;/figure&gt;      &lt;/div&gt;   &lt;p style="text-align: left; "&gt;&lt;br /&gt;&lt;/p&gt;   &lt;p style="text-align: left;"&gt;최근 한누리는 법무법인 세종과 광장에서 형사 분야 전문가로 활동한 오택림 변호사도 영입했다. 오 변호사는 휘문고와 서울대 사법학과를 졸업하고 제37회 사법시험에 합격, 27기로 사법연수원을 수료했다. 서울지검 검사로 공직을 시작해 부산지검 검사, 대검찰청 검찰연구관, 서울남부지검 부부장검사 등을 역임했다. 2011년 대구지검 김천지청 부장검사를 마지막으로 공직 생활을 마무리하고 변호사로 새출발했다. 2010년에는 6개월간 방송통신위원회에 파견돼 법률자문관을 지냈다.&lt;/p&gt;   &lt;/div&gt;</description>
-			<pubDate>Thu, 15 Feb 2024 07:59:55 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195933</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195933</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/195933_1(1).jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>화우공익재단, 22일 공익연구지원사업 결과 발표회 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/240215_화우공익재단-발표회.jpg" alt="240215_화우공익재단-발표회.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.hwawoo.com/kor/main?lang=ko" target="_blank"&gt;&lt;b&gt;법무법인 화우&lt;/b&gt;&lt;/a&gt;의 공익단체인 화우공익재단에서 22일 오후 2시 ‘장례복지 관련 사회보장법제 해외 입법 사례 연구’ 및 ‘반지하 거주민의 실질적 주거권 보장을 위한 연구’를 주제로 공익연구지원사업의 결과 발표회를 개최한다. 발표회는 실시간 화상서비스(TEAMS)를 통해 중계될 예정이다. &lt;br /&gt;&lt;br /&gt;이번 발표회는 사단법인 나눔과나눔과 지역자산화협동조합의 연구 결과를 공유하는 자리로 마련됐다. 화우공익재단은 비영리단체 및 개인이 진행하는 공익 관련 연구활동을 매년 2건씩 지원하고 있다. &lt;br /&gt;&lt;br /&gt;나눔과나눔은 사회보장제도로서의 장례 복지의 필요성을 강조할 예정이다. 급속한 사회 변화에 따른 전통적 가족 개념의 해체로 죽음·장례 문제가 개인과 가족 공동체만으로 대응하기 어려워졌다는 주장이다. 앞서 이 단체는 한국과 일본의 장례복지 관련 법과 제도를 분석하고, 서구 복지국가들의 유형별 장례복지 사회보장법제를 비교하는 사례연구를 진행했다. &lt;br /&gt;&lt;br /&gt;지역자산화협동조합은 서울시 및 국가 차원의 반지하 정책을 분석하고, 반지하 문제 해결 방안을 제시한다. 2022년 태풍 힌남노 당시 침수 피해를 입은 서울 관악구 반지하 거주민 및 지역 복지관을 대상으로 진행한 심층 인터뷰에 바탕한다. 더불어, 도시 인프라 정비 및 국가·지역사회와의 연결망 형성이 재난 극복에 미치는 효과와 활용 방안을 논한다. &lt;br /&gt;&lt;br /&gt;화우공익재단 관계자는 “두 연구 모두 인간의 존엄한 삶과 죽음을 위해 필요한 것이 무언인지에 관한 연구로서 높은 가치를 가진다”며 “이번 발표회가 장례의 공공성과 반지하 주거 정책에 대해 함께 고민하고 대안을 모색해보는 자리가 되길 바란다"고 말했다.&lt;br /&gt;&lt;br /&gt;이번 발표회는 화우공익재단 홈페이지 또는 포스터의 QR코트를 통해 신청할 수 있다.&amp;nbsp;</description>
-			<pubDate>Thu, 15 Feb 2024 07:37:27 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/195936</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195936</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/240215_화우공익재단-발표회.jpg</media:thumbnail>
-			<dc:creator>유지인 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
