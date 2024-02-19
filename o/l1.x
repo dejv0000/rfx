@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>김동규·도훈태 부장판사, 법무법인 세종 합류... 도산·조세 분야 강화</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/196037.jpg" alt="196037.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;김동규 법무법인 세종 변호사(왼쪽), 도훈태 변호사(오른쪽)&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무법인 세종(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1285"&gt;오종한&lt;/span&gt;)이&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3399"&gt;김동규&lt;/span&gt;(53·사법연수원 29기) 전 서울남부지방법원 부장판사와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10390"&gt;도훈태&lt;/span&gt;(50·33기) 전 대전지방법원 천안지원 부장판사를 영입했다고 19일 밝혔다.&lt;br /&gt;&lt;br /&gt;김 전 부장판사는 대영고와 서울대 법학과를 졸업하고, 1997년 제39회 사법시험에 합격했다. 부산지법 동부지원 판사로 공직을 시작하고, 인천지법 판사, 대법원 재판연구관 등을 거쳤다. 서울회생법원의 부장판사로 재직하면서 여러 기업들의 굵직한 회생/파산 사건을 담당하는 등 법원 내 도산 분야 전문가로 알려져 있다. 이번에 신설된 세종의 기업구조조정센터에서 활약할 예정이다.&lt;br /&gt;&lt;br /&gt;도 전 부장판사는 부산 가야고와 영남대 법학과를 졸업하고, 2001년 제43회 사법시험에 합격했다. 2004년 사법연수원 수료 이후 대구지법·수원지법 판사, 울산지법 부장판사 등을 거쳤다. 대법원 조세조에서 총괄 재판연구관 등으로 5년 동안 근무할 정도로 조세 분야에서 전문성을 갖춘 것으로 평가받고 있다.&lt;br /&gt;</description>
+			<pubDate>Mon, 19 Feb 2024 03:01:16 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196037</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196037</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/196037.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] '용산 테슬라 사망사고' 대리기사 1심서 금고 1년형</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/PYH2024012602500034000.jpg" alt="PYH2024012602500034000.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진= 연합뉴스&amp;gt;&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;테슬라 차량 대리운전 중 가속페달을 잘못 밟아 차주를 숨지게 한 혐의로 재판에 넘겨진 대리기사에게 금고 1년이 선고됐다.&lt;p&gt;   &lt;br /&gt;   &lt;p&gt;서울서부지법 형사5단독 송경호 부장판사는 15일 교통사고처리 특례법(치사) 혐의로 기소된 최모 씨에게 금고 1년을 선고했다(2021고단3254). &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;   &lt;p&gt;재판부는 "피고인이 가속페달을 오조작한 과실로 교통사고를 일으켜 피해자를 사망에 이르게 하는 중대한 결과를 유발했다"고 판시했다. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;   &lt;p&gt;재판부는 사고 직전 가속페달의 변위량이 100%에 이르고 사고 당시 차의 제동등이 켜지지 않은 점 등을 종합해 최 씨가 제동페달을 밟지 않은 것으로 판단했다. 국립과학수사연구원에서 사고 차량의 제동장치 결함 여부를 검사한 결과 제동불능을 일으킬 만한 특이점이 확인되지 않은 점도 근거로 들었다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;   &lt;p&gt;최 씨는 재판 과정에서 테슬라 차량의 급발진 결함을 주장하며 공소사실을 부인해 왔다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;   &lt;p&gt;재판부는 최 씨가 유족에게 용서받지 못했다는 점에서 실형 선고가 불가피하다고 밝혔다. 다만 방어권 보장 차원에서 법정구속은 하지 않았다. 앞서 검찰은 최 씨에게 금고 1년 6개월을 구형했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;   &lt;p&gt;최 씨는 2020년 12월 서울 용산구 한남동의 한 아파트 지하 주차장에서 테슬라 모델X 롱레인지 차량을 운전하던 중 주차장 벽을 들이받고 조수석에 타고 있던 차주 윤모 변호사를 숨지게 한 혐의로 2021년 12월 불구속 기소됐다. 윤모 변호사는 당시 대형로펌 소속으로 윤석열 대통령의 절친한 친구로 알려졌다.&lt;/p&gt;&lt;/p&gt;</description>
 			<pubDate>Mon, 19 Feb 2024 01:45:56 -0000</pubDate>
@@ -227,16 +237,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/195980</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/195980_2(3).jpg</media:thumbnail>
 			<dc:creator>이순규 기자</dc:creator>
-		</item>
-		<item>
-			<title>'성추문 입막음 의혹' 트럼프 재판 일정 확정… 美 역사상 처음</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/PAP20240201062101009 (1).jpg" alt="PAP20240201062101009 (1).jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진= 연합뉴스&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;트럼프 전 미국 대통령의 성추문 입막음 의혹과 관련한 재판 일정이 확정됐다. 미국 역사상 전·현직 대통령의 형사 재판이 열리는 것은 이번이 처음이다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;뉴욕 맨해튼 형사법원은 트럼프 전 대통령에 대한 형사 재판 절차를 오는 3월 25일부터 시작한다고 밝혔다. 미국 역사상 전·현직 대통령에 대한 형사 재판은 이번이 처음이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;후안 머천(Juan Merchan) 판사는 이번 재판에서 배심원단 선정부터 평결까지는 5~6주가 소요될 것이라고 밝혔다. 그에 따라 트럼프 전 대통령은 오는 11월 5일로 예정된 미국 대선에 도전하며 형사 재판을 치를 예정이다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;트럼프 전 대통령은 2016년 선거 전에 미국 포르노 배우 스토미 다니엘스(Stormy Daniels)에게 지급한 13만 달러(약 1억7000만원)를 은폐하기 위해 사업 기록을 위조한 의혹 등으로 총 34건의 혐의가 적용됐다. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;현재 트럼프 전 대통령은 2021년 1월6일 의회 난입 사태와 대선 개입 의혹, 성 추문 입막음 사건과 기밀문서 유출 등 4개 사건에서 총 91개 혐의를 받고 있다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;트럼프 전 대통령은 무죄를 주장하며 재판을 연기해야 한다고 밝혔지만 재판부는 받아들이지 않았다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;검찰 측은 "트럼프 전 대통령이 책임 회피를 위해 지연 전략을 쓰고 있다"며 법원의 판단을 환영했다.&lt;/p&gt;</description>
-			<pubDate>Sat, 17 Feb 2024 12:17:00 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196010</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196010</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/PAP20240201062101009 (1).jpg</media:thumbnail>
-			<dc:creator>홍수정 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
