@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>'의협 비대위·전공의 고발' 시민단체 경찰 출석 "신속히 복귀하길"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/196204.jpg" alt="196204.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;21일 서민민생대책위원회 관계자들이 김택우 의협 비대위원장과 박단 대한전공의협의회 회장, 빅5 병원 전공의 등을 서울경찰청에 고발하기 전 기자회견을 하고 있다.&lt;br /&gt;&amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;의료계 불법 집단행동에 나선 의사단체 관계자들을 고발한 시민단체가 경찰에 출석했다.&lt;br /&gt;&lt;br /&gt;서울경찰청 공공범죄수사대는 지난 23일 고발인 신분으로 서민민생대책위원회 관계자를 소환해 조사했다.&lt;br /&gt;&lt;br /&gt;서민위는 경찰 출석에 앞서 기자회견을 열고 "전공의들의 잘못된 집단적 사직이 대한민국 의료 서비스를 망칠 것"이라며 신속히 병원으로 복귀해달라고 요청했다.&lt;br /&gt;&lt;br /&gt;서민위는 21일 김택우 의협 비대위원장과 박단 대한전공의협의회 회장, 빅5 병원 전공의 등을 의료법 위반과 업무방해·유기치사상 등 8개 혐의로 서울경찰청에 고발했다.&lt;br /&gt;</description>
+			<pubDate>Sat, 24 Feb 2024 05:19:00 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196204</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196204</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/196204.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>수원지검 성남지청, 의료계 불법 집단행동 경찰과 협력해 엄정 대응</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/검찰3(5).jpg" alt="검찰3.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;수원지검 성남지청(지청장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6978"&gt;전무곤&lt;/span&gt;)이 의료계 불법 집단행동과 관련해 경찰과 긴밀히 협력해 나가기로 했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;검찰은 지난 23일 청사 내 회의실에서 실무협의회를 열었다.&lt;br /&gt;&lt;br /&gt;검찰은 이날 회의에서 국민의 생명과 건강에 직접적인 위험을 초래하는 불법 행동에 대해 신속 및 엄정하게 대응하기 위한 방안을 논의했다고 설명했다.&lt;br /&gt;&lt;br /&gt;지역에 상급종합병원으로 분당서울대학교병원이 있다.&lt;br /&gt;&lt;br /&gt;대검찰청은 지난 19일 전국 일선 검찰청에 "의료법 위반 및 업무방해 등 불법 행위에 대해 강제수사를 포함, 신속하고 엄정하게 대응하라"고 지시했다.</description>
+			<pubDate>Sat, 24 Feb 2024 05:13:36 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196202</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196202</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/검찰3(5).jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>걸그룹 피프피 피프티 분쟁 배후 안성일 대표, 횡령 혐의로 중앙지검 송치</title>
 			<description>걸그룹 피프티 피프티의 전속계약 분쟁에서 '멤버 빼가기'의 배후로 지목된 더기버스 안성일 대표가 업무상 횡령 혐의로 검찰에 송치됐다.&lt;br /&gt;&lt;br /&gt;피프티 피프티의 소속사 어트랙트에 따르면 경찰은 안성일 대표의 업무상 횡령 혐의를 인정해 최근 서울중앙지검에 송치했다.&lt;br /&gt;&lt;br /&gt;안 대표는 앞서 업무방해와 전자기록 등 손괴 혐의로도 검찰에 송치된 바 있다.&lt;br /&gt;&lt;br /&gt;어트랙트는 지난해 6월 피프티 피프티 멤버들이 전속계약 효력정지 가처분 신청을 내자, 히트곡 '큐피드'(Cupid)를 만든 외주용역사 더기버스의 안 대표를 멤버 강탈의 배후로 지목하며 경찰에 고소했다.&lt;br /&gt;&lt;br /&gt;당시 어트랙트가 제기한 안 대표의 혐의는 업무방해, 전자기록 등 손괴, 사기, 업무상 횡령 등이었다. 경찰은 사기 혐의는 무혐의 처분했다.</description>
 			<pubDate>Sat, 24 Feb 2024 02:11:08 -0000</pubDate>
@@ -220,26 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196146</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/196146_1(1).jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>스카이블루에셋, 보험대리점협회 상대 가처분 취하…삼성생명에 소송 제기</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 275px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/스카이블루에셋.jpg" alt="스카이블루에셋.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;스카이블루에셋 로고&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;설계사 스카우트비 제한을 규정한 자율협약을 어겼다며 한국보험대리점협회(이하 협회)로부터 협약 위반 행위 확정을 받은 대형 보험대리점업체 스카이블루에셋(이하 에셋)이 협회를 상대로 가처분 신청을 냈으나 22일 이를 취하했다. 협회와의 갈등은 멈추고, 대리점 계약갱신을 거절한 삼성생명에 대한 법적 대응에 집중하겠다는 입장이다. &lt;br /&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;에셋 측은 이날 협회를 상대로 냈던 가처분 신청을 취하했다고 밝혔다. 앞서 에셋은 지난 8일 서울중앙지법에 협회의 협약 위반 행위 확정 통지와 조사 행위에 반발해 사업자단체위반행위 금지 가처분 신청을 제기했다. 에셋 측은 "자율협약의 취지와 협약을 정착시키기 위한 협회의 역할은 정당할 수 있다"며 "구성사업자를 위한 사업자단체인 협회와 대립하지 않겠다는 의미에서 가처분 신청을 취하했다"고 설명했다.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;에셋 측은 그러면서 삼성생명에 대한 가처분 신청 등에 집중할 예정이라고 밝혔다. 에셋은 지난 15일 서울중앙지법에 삼성생명을 상대로 '계약자 지위유지 및 갱신거절통보 효력정지' 가처분 신청을 냈다. 삼성생명의 보험위탁 계약갱신 거절 통보는 부당할 뿐 아니라, 삼성생명이 자율협약 절차를 악용해 에셋을 협회에 신고했다는 취지다. 에셋은 또 "계약을 일방적으로 갱신 거절하는 것은 보험업법 취지에 부합하지 않으니 이를 막는 행정지도를 해달라"며 같은 날 금융감독원에 삼성생명에 대한 민원도 접수했다고 밝혔다.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;삼성생명은 지난달 5일 2008년부터 에셋과 유지해온 보험대리점 계약의 갱신을 거절하며 사실상 계약 해지 통보를 했다. 삼성생명은 명확한 계약 해지 사유를 밝히지 않았는데, 에셋은 최근 삼성생명 출신 보험 설계사 90여 명이 에셋으로 이직한 것이 계약해지의 원인으로 작용했다고 보고 있다. 에셋을 자율협약 위반으로 협회에 제보한 최초 신고자는 삼성생명의 자회사인 삼성생명금융서비스인 것으로 알려졌다. 이를 두고 에셋 측은 "자율협약에 가입한 보험대리점이 아니면 신고할 수 없고, 적법한 신고가 아니면 조사가 제기될 수 없는데 삼성생명이 편법으로 협회의 신고절차를 악용했다"고 주장했다.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;에셋 측은 "지난해 9월 자율협약에 가입한 후 약 3개월 동안 자율협약 준수를 위한 제반 조치들을 이행해오고 있었는데, 삼성생명의 부적법하고 악의적인 신고로 자율협약을 탈퇴하는 등의 원하지 않는 상황에 처하게 된 점에 깊은 유감을 표한다"며 "업계 전체에 자율협약이 건전하게 정착되어야 하는 중대한 시점에 삼성생명이 이를 보험대리점 길들이기 수단으로 남용한 이 사건에 대해서는 끝까지 싸워 나갈 것"이라고 밝혔다.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;삼성생명에 대한 가처분 신청 사건의 첫 심문기일은 다음달 6일 열린다.&lt;/p&gt;</description>
-			<pubDate>Thu, 22 Feb 2024 09:40:49 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196147</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196147</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/스카이블루에셋.jpg</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
-		</item>
-		<item>
-			<title>대검 "검찰청 민원실도 특활비 집행 가능…오남용 주장 악의적"</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/검찰1(6).jpg" alt="검찰1.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;이원석 검찰총장이 수사·정보 활동에 집행해야 하는 특수활동비를 민원실에 집행해 오남용했다는 주장에 대해 "악의적인 허위주장"이라고 반박했다. &lt;br /&gt;&lt;br /&gt;뉴스타파 등 5개 언론사와 세금도둑잡아라 등 3개 시민단체로 구성된 '검찰예산 검증 공동취재단'은 22일 오후 서울 중구 뉴스타파 함께센터에서 기자회견을 열고 전직 대전지검 천안지청 민원실장 최영주 씨의 제보를 공개했다.&lt;br /&gt;&lt;br /&gt;최 씨는 지난해 6월 20일 대검에서 100만 원의 격려금이 민원실에 내려왔으니 특활비 영수증에 서명해서 보내달라는 요청을 받았다고 말했다. 이 같은 격려금이 천안지청뿐만 아니라 전국 검찰청 민원실에 지급됐음을 검찰총장의 비서관을 통해 확인했다고 주장했다. &lt;br /&gt;&lt;br /&gt;공동취재단은 "검찰 전체가 예산 부패에 찌들어 있다"며 "특별검사 도입이 반드시 필요하다"고 비판했다. &lt;br /&gt;&lt;br /&gt;대검은 민원실에 특활비 일부를 지급하는 것에 문제가 없다는 입장이다. &lt;br /&gt;&lt;br /&gt;대검은 "수사활동은 각종 범죄 관련 정보의 수집이나 고소·고발, 진정·탄원, 수사의뢰, 제보 접수 등을 통해 수사단서를 포착하는 데서부터 시작된다"며 "민원실 업무는 검찰 수사활동의 착수 초기 단계 업무이며, 다수 검찰수사관이 근무하며 관련 업무를 처리하고 있다"고 설명했다.&lt;br /&gt;&lt;br /&gt;이어 "검찰의 수사·정보활동은 수사·비수사 부서로 일률적으로 구분될 수 없다"며 "범죄수사와 관련된 사건관계인의 고소·고발, 진정·탄원, 수사의뢰, 제보 접수 및 상담 등의 업무를 담당하는 민원부서는 검찰수사관이 근무하면서 수사·정보수집 활동과 직접 관련된 업무를 수행하므로 필요에 따라 검찰 특수활동비를 집행할 수 있다"고 했다. &lt;br /&gt;&lt;br /&gt;또 "편성 목적에 맞게 특수활동비를 집행하고 관련 증빙자료도 모두 구비하고 있음에도 불구하고 악의적으로 근거없는 허위주장을 하는 것에 대하여 유감을 표한다"고 강조했다.</description>
-			<pubDate>Thu, 22 Feb 2024 09:38:53 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196153</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196153</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/검찰1(6).jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
