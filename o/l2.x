@@ -6,6 +6,18 @@
 		<link>https://www.lawtimes.co.kr/opinion</link>
 		<language>ko</language>
 		<item>
+			<title>로 앤 스마트 : 생성형 AI 등 핵심기술 시장을 대하는 자세 - 정부역량보다 민간역량이 우월한 시대. &lt;br&gt;
+함부로 규제의 잣대 들이대기보단&lt;br&gt;
+달라진 과학기술과 경제현상의 패러다임을 찾아야</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/2023_lawsmart_jik.jpg" alt="2023_lawsmart_jik.jpg" /&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;숏폼 동영상 콘텐츠 ‘나루토 댄스’가 인기다. 표창을 날리는 자세 등 애니메이션 나루토에 나오는 손기술과 비슷해 붙여진 이름이다. 김용 무협소설 ‘소오강호’, ‘신조협려’를 배경으로 하는 노래 ‘일소강호(一笑江湖)’에 맞춰 춤을 춘다. 세상을 비웃는다는 뜻이다. “내 칼은 원한에 솟구치고 소매는 밝은 달을 가린다. 서풍에 잎은 지고 꽃은 시들어, 베개 밑에 칼을 두고 잠 못 이룬다. 당신은 산과 강을 떠도는 나그네, 한숨을 쉬며 이별을 말한다. 귀밑엔 새치가 서리처럼 쌓이고 술맛은 쓰다. 홀로 보낸 세월이 몇 해던가. 오직 칼 빛에 밤을 밝혀 나를 지킨다. 황사에 지는 석양은 붉은 핏빛이구나. 얼마나 많은 영혼이 죽어갔을까? 성공과 실패를 알 수 없도다” 강호를 떠도는 최고 검객의 고단함이 느껴진다.&lt;/p&gt;&lt;p&gt;노랫말에서 김용 무협소설의 전설적인 검객 ‘독고구패(獨孤求敗)’가 연상된다. 검법 ‘독고구검’을 만들어 강호를 평정했지만 흔한 승리에 지친다. 패배를 갈구하며 자신을 이길 고수를 찾지만 끝내 뜻을 이루지 못한다. 결국 칼을 땅속 깊이 묻고 은둔의 길을 떠난다.&lt;/p&gt;&lt;p&gt;패배를 갈구하는 영원한 1인자 독고구패의 소원을 들어줄 방법은 없을까. 그의 대결방법은 공정하다. 각자의 무기를 가지고 각자의 검법으로 싸운다. 강호에서 통용되는 게임의 법칙이다. 독고구패를 이기기 위해선 끊임없이 대항 검법을 연구하여 겨뤄야 한다. 그럼에도 독고구패가 이길 수밖에 없는 상황이 계속된다면 어떻게 해야 할까. 그땐 독고구패가 독고구검의 비법을 강호에 공개해야 하지 않을까. 다른 검객도 그 비법을 연구하여 독고구패를 이길 검법을 만들 기회를 줘야 마땅하다. 물론 독고구패에게도 독고구검을 더욱 발전시키거나 다른 검법을 적극 개발할 자극이 된다.&lt;/p&gt;&lt;p&gt;생성형 AI로 대변되는 디지털시대다. 오픈AI는 챗GPT에 이어 간단한 질문만으로 실감영상을 만드는 소라(Sora)를 발표했다. 또 AI반도체 개발을 위해 9300조원 규모의 투자유치계획을 내놓았다. 지금까지의 경쟁규칙이 무의미한 시대가 오고 있다. 미래 세계경제는 핵심 AI업체를 중심으로 재편될 것이 명백하다. 경제전쟁에서 특정 기업이 영원히 이겨서 다른 기업이 발버둥 쳐도 순위가 바뀔 수 없다면 실력의 문제를 넘어 규칙의 문제일 수 있다.&lt;/p&gt;&lt;p&gt;특정 AI기업이 백전백승을 한다면 기존의 경쟁규칙이 공정했는지 먼저 살피자. 공정했다 해도 영원한 1위가 있는 것이 소비자후생을 낮추거나 협력업체 등 제3자에게 돌이킬 수 없는 위협인지 보자. 특별한 이슈가 있을 때마다 새로운 규칙을 남발해선 안 된다. 정부역량보다 민간역량이 우월한 시대다. 함부로 규제의 잣대를 들이대선 부작용만 낳는다. 과거와 달라진 과학기술과 경제현상을 심층 진단하고 바뀐 패러다임을 찾아야 한다. 상생의 경쟁규칙을 정립하기 위한 기본 틀을 논의하는 것이 생성형 AI시대에 섣부른 입법보다 우선한다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;br /&gt;이상직 변호사(법무법인 태평양)&lt;br /&gt;&lt;br /&gt;</description>
+			<pubDate>Mon, 26 Feb 2024 01:06:36 -0000</pubDate>
+			<category>opinion</category>
+			<link>https://www.lawtimes.co.kr/opinion/196117</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/196117</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/2023_lawsmart_jik.jpg</media:thumbnail>
+			<dc:creator>이상직</dc:creator>
+		</item>
+		<item>
 			<title>서초포럼 : 유감이 많은 인사이동철 - 판사들의 인사이동철은 &lt;br&gt;
 격무에 시달리는 시기이자 &lt;br&gt;
 유감이 많이 발생할 수 있는 시기 &lt;br&gt;
@@ -94,18 +106,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/196026</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/2023_nondan_min2.jpg</media:thumbnail>
 			<dc:creator>김종민</dc:creator>
-		</item>
-		<item>
-			<title>로 앤 스마트 : 이미지 등 비정형 데이터의 활용 - AI 이용한 질병 진단 등&lt;br&gt;
-데이터 관련 규제에 발목&lt;br&gt;
-‘코리아 디스카운트’ 해소해야</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/2023_lawsmart_soo.jpg" alt="2023_lawsmart_soo.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;병원에 가면 의사는 환자의 병명이 기재된 차트만 보는 것이 아니라 그 화면에는 환자의 엑스레이, 초음파 촬영 사진 등의 이미지가 첨부되어 있다. 항상 궁금했다. 의사 선생님은 엑스레이나 초음파 촬영 사진을 보면 누구 환자의 것인지 알 수 있을지.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;4차 산업혁명이 화두가 된 이후로 빅데이터 활용이 필수적인 실천방안으로 추진되었다. 그러나 데이터는 정보주체의 식별 가능성이 있으면 개인정보 침해 논란일 생길 수 있으므로 이러한 식별 가능성이 없이 가공하여 사용할 수 있도록 하는 비식별 조치가 논의되었다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;장고 끝에 정부는 2016년에 IT 기술과 융합산업의 출현을 도울 수 있도록 함으로써 세계 최고 수준의 IT 강국으로 도약할 수 있는 계기를 마련하겠다며 ‘개인정보 비식별 조치 가이드라인’을 발표하였다. 이 가이드라인에는 병명과 같은 속성자는 개인과 관련된 정보로서 다른 정보와 쉽게 결합하는 경우 특정 개인을 알아볼 수 있도록 하므로 삭제, 마스킹 등의 조치를 통해 누구인지 알 수 없게 하도록 하였다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;엑스레이 사진에서 삭제 또는 마스킹 처리를 하면 연구에 활용이 될 수 있을까?&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이러한 의문에 대한 답이 8년 만에 나왔다. 개인정보 보호위원회가 2월 초에 의료 데이터뿐 아니라 CCTV영상, 음성 대화, 상담 정보를 활용하는 바이오 헬스, 인공지능, 데이터 솔루션 개발 등을 위해 가이드라인을 발표하였다. 예를 들어 흉부 CT 사진만으로는 개인식별 위험성이 거의 없으나, 3차원 재건의 경우 복원 시 특이한 외형, 흉터 등이 있는 극히 일부 환자의 경우 낮은 확률로 개인식별 위험성이 존재함을 설명하고, 전자의 경우에는 그대로 활용할 수 있다고 하였다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;과기정통부는 1월에 ICT 규제샌드박스를 통해 자율주행 배달로봇의 인공지능 학습에 영상정보 원본을 활용할 수 있도록 함으로써 보행자와 배달로봇간의 충돌방지를 위한 보행자 인식 오류율 개선 등 자율주행 기술의 안정성을 향상시킬 수 있도록 한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;AI를 이용한 빠른 질병 진단, 자율주행자동차의 신속한 상황 진단, 한국어로 대화할 수 있는 챗봇 등의 혜택은 우리 국민에게 돌아간다. 연구 및 개발 단계에서 가능한 많은 데이터로 학습해야 성과물은 더욱 훌륭해진다. 그간 신사업 분야에서 제4차 산업혁명의 원유(原油)인 데이터를 활용하고 싶어도 우리나라의 각종 데이터 관련 규제에 발목이 잡혀 있다고 한다. 이제 ‘코리아 디스카운트’를 ‘코리아 프리미엄’으로 전환시켜야 할 때이다.&lt;/p&gt;&lt;br /&gt;&lt;b&gt;이수경 변호사(법무법인 화우)&lt;/b&gt;</description>
-			<pubDate>Wed, 21 Feb 2024 20:09:53 -0000</pubDate>
-			<category>opinion</category>
-			<link>https://www.lawtimes.co.kr/opinion/196029</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/196029</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/2023_lawsmart_soo.jpg</media:thumbnail>
-			<dc:creator>이수경</dc:creator>
 		</item>
 		<item>
 			<title>이재홍의 판결 &amp; 사법제도 이야기 : 사법제도 발전위원회의 추억 - 30년전 활동한 사법제도 발전위원회&lt;br&gt;
