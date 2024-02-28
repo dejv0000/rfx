@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>법무법인 바른 김용우·권오준·김추 변호사, 건설산업기본법 실무서 발간</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/12345.jpg" alt="12345.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://barunlaw.com/" target="_blank"&gt;&lt;b&gt;법무법인 바른&lt;/b&gt;&lt;/a&gt;의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="21130"&gt;김용우&lt;/span&gt;(41·41기)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="22156"&gt;권오준&lt;/span&gt;(40·42기)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="26494"&gt;김추&lt;/span&gt;(44·43기) 변호사가 건설산업 법률정보를 담은 실무서 &amp;lt;건설을 한다면 알고 갈 기본법(약칭 ‘건설 알기’)&amp;gt;를 발간했다고 27일 밝혔다. 건설산업기본법과 하도급법을 다룬 전자도서로, 판례 검색 서비스 플랫폼 ‘엘박스’를 통해 발간됐다. 변경 사항이 수시로 업데이트돼 상시&amp;nbsp;최신 버전으로 유지될 예정이다.  &lt;br /&gt;&lt;br /&gt;&amp;lt;건설을 한다면 알고 갈 기본법&amp;gt;은 건설산업기본법 주요 내용을 주체별(건설사업자·수급인·하수급인) 권리와 의무에 따라 세분화해 담은 전자책이다. 시행사, 조합, 신탁사 등 공사를 맡기는 발주자가 챙겨야 할 사항도 함께 정리했다. 또 ▲건설산업기본법과 하도급법의 주요 사항 법령 상세 비교 ▲납품단가 연동제 ▲각종 보증 ▲하도급대금 직접청구 ▲하자담보 책임 ▲물가변동 배제특약 등 시의적절한 이슈와 최신 개정법령을 소개하고 다수의 하급심 판례를 반영했다.&lt;br /&gt;&lt;br /&gt;저자인 세 변호사는 건설·하도급 분야 전문가로 바른의 건설·부동산 그룹에서 활동하고 있다. 김용우 변호사는 대한변호사협회 법제위원으로 건설 부문에서 소송·자문 업무를 수행한 경험이 풍부하다는 평가를 받는다. 권오준 변호사는 경인고속도로 직선화 등 공사대금 사건 및 인천 서창2지구 아파트 공사 등의 하도급 대금 사건을 담당했었다. 김추 변호사는 현재 국토교통부 건설분쟁조정위원회 위원과 한국토지주택공사 비상임이사로 활동 중이다. &lt;br /&gt;&lt;br /&gt;김 변호사는 “알지 못해 당하는 건설산업 종사자들의 억울함을 덜어드리고자 이 책을 발간했다”이라며 “건설업계 종사자들이 법률지식과 판례를 살펴 현명하게 대응할 수 있기를 바란다”라고 말했다.</description>
+			<pubDate>Wed, 28 Feb 2024 02:25:46 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196290</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196290</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/12345.jpg</media:thumbnail>
+			<dc:creator>유지인 기자</dc:creator>
+		</item>
+		<item>
 			<title>새 출발</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/1면사진(1).jpg" alt="1면사진.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;서울 서대문구 연세대 로스쿨에서 졸업식을 마친 학생들이 모자를 높이 던지며 졸업을 자축하고 있다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;lt;사진=백성현 기자&amp;gt;&lt;/p&gt;</description>
 			<pubDate>Tue, 27 Feb 2024 21:00:03 -0000</pubDate>
@@ -230,16 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196269</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/196207.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 대륙아주, 한수원·남아공상공회의소와 MOU 체결</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/240226_대륙아주-MOU.jpg" alt="240226_대륙아주-MOU.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.draju.com/ko/main/main.html" target="_blank"&gt;&lt;b&gt;법무법인 대륙아주&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8690"&gt;이규철&lt;/span&gt;)가 우리나라의 아프리카 에너지 시장 진출을 위해 한국수력원자력(사장 황주호), 주한남아공상공회의소(회장 티모시 디킨스)와 업무협약을 맺었다고 26일 밝혔다. 협약식은 서울 강남구 테헤란로 동훈타워 12층 대륙아주 대회의실에서 열렸다. 윤상조 한수원 그린사업본부장, 티모시 디킨스 주한남아상공회의소 회장, 이규철(60·사법연수원 22기) 대륙아주 대표변호사 등이 참석했다. &lt;br /&gt;&lt;br /&gt;이번 협약은 한수원의 아프리카 투자를 적극 검토·추진하기 위해 체결됐다. 세 기관은 각 보유한 역량을 활용해 아프리카 국가들의 정부 또는 민관에서 추진하는 에너지(신재생에너지 포함) 관련 프로젝트에 한수원의 참여 방안을 모색할 예정이다. &lt;br /&gt;&lt;br /&gt;최근 해외로 저탄소 에너지 사업을 넓히고 있는 한수원이 대륙아주·남아공상공회의소가 구축한 아프리카 네트워크를 적극 활용할 방침이다. 대륙아주는 국내 대형로펌 가운데 유일하게 아프리카 그룹을 보유한 곳으로 아프리카 법률 자문을 해오고 있다. 아프리카 내 유일한 상공회의소인 주한남아공상공회의소는 2016년 설립 이후부터 한국과 남아공 기업인들에 교류의 장을 제공해왔다. &lt;br /&gt;&lt;br /&gt;협약식에서 세 기관은 모두 협약에 대한 기대감을 드러냈다. 윤상조 한수원 그린사업본부장은 “대륙아주와 남아공상공회의소의 네트워크가 한수원의 아프리카 진출에 큰 도움이 될 것이라고 기대한다”고 밝혔다. 이규철 대표변호사는 “우리나라 최대 발전회사인 한수원과 MOU를 하게 돼 영광”이라며 “이번 MOU를 통해 세 기관이 서로 상생, 발전하면서 국익에 이바지해 나가자”고 말했다. 디킨스 회장은 “남아공이 심각한 에너지 위기를 겪고 있는데 훌륭한 기술을 가진 한수원을 포함한 세 기관이 협업해 남아공의 전력 개선에 기여하자”고 당부했다.</description>
-			<pubDate>Tue, 27 Feb 2024 02:38:42 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196240</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196240</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/240226_대륙아주-MOU.jpg</media:thumbnail>
-			<dc:creator>유지인 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
