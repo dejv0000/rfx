@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/opinion</link>
 		<language>ko</language>
 		<item>
+			<title>박성호의 지재공방 : (61) 부정경쟁방지법 제2조 제1호 (파)목의 문제점과 독점규제법을 통한 해결 방안의 모색</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/2023n_jije_park.jpg" alt="2022_jije_park.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;div style="margin-bottom:15px; padding:15px; background-color:#fdf3d8"&gt;&lt;b&gt;독점규제법이라는 프리즘을 통해 부정경쟁방지법 (파)목이 초래할지 모르는 부작용을 관찰하고 그 치유책을 찾아볼 필요가 있다. 독점규제법 제45조 제1항 제10호와 관련하여 법시행령에 세부적인 금지유형을 새롭게 규정한다면, (파)목의 부작용을 해소할 수 있는 뜻밖의 돌파구가 마련될 수도 있다.&lt;/b&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;만일 부정경쟁방지법 제2조 제1호 (파)목의 적용이 ‘이마의 땀(sweat of the brow) 이론’을 재소환하고 기존 지적재산권법 체계를 허물어뜨리게 된다면 어떻게 해야 할까?&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;먼저 (파)목을 삭제하여 예전의 한정적 열거주의로 되돌아가야 한다. 아니면 위법성 판단을 엄격하게 할 수 있도록 ‘특별한 사정’이 있는 경우에 (파)목이 적용된다고 개정해야 한다. 물론 어느 쪽이나 쉬운 일은 아니다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;다음으로 생각해 볼 수 있는 것은 독점규제법의 개입이다. ‘이마의 땀’이 시사하듯 ‘노동이론’에 입각하여 선행기업의 ‘노력’을 보호하려는 시도는 일정한 상황 아래에서 후발주자의 시장 진입을 방해하는 결과로 이어질 수 있다. 지적재산권법과 독점규제법이 교차하는 영역에서 발생하는 법률문제에 대해서는 독점규제법의 관여가 불가피하다. 그렇다면 독점규제법의 관점에서 (파)목의 적용 한계를 설정하여 문제 해결을 시도해 볼 수 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이때 주목할 것은 부정경쟁방지법 제15조 제2항과 독점규제법 제117조이다. 앞의 것은 독점규제법에 (파)목 등의 부정경쟁행위와 다른 규정이 있으면 독점규제법에 따라야 한다고 규정한다. 뒤의 것은 독점규제법은 저작권법·특허법·실용신안법·디자인보호법·상표법에 따른 권리의 정당한 행사로 인정되는 행위에 적용하지 않는다고 규정한다. 부정경쟁방지법은 빠져 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;물론 지적재산권의 적용범위를 획정(劃定)하는 문제는 법률로만 정해지는 것은 아니다. 일정한 시대마다 독점규제법에 따른 경쟁정책(競爭政策)과 기술발전의 정도를 반영하면서 형성되는 판례와 학설들에 의해서도 영향을 받는다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;비교법제사의 관점에서 보더라도 독점규제 정책은 독점규제를 강화하거나 완화하는 입법이 교차하면서 변화하여 왔다. 전자는 필연적으로 ‘anti-patent’로 대표되는 ‘지재권 약화’의 흐름으로 이어지고, 후자는 ‘pro-patent’로 상징되는 ‘지재권 강화’의 움직임으로 연결된다. 특정 시대의 경쟁정책과 기술발전의 정도에 따라 지재권 약화 혹은 강화의 흐름이 반복된다. 대표적 사례로 미국을 들 수 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;미국은 1865년 ‘남북전쟁’ 직후부터 1930년 ‘세계대공황’에 이르는 기간 동안 ‘지재권 강화’ 정책을 펼쳤지만, 그 이후부터 1970년대 후반까지는 ‘지재권 경시’ 정책을 추진해 왔다. 그러다가 1980년 레이건 행정부부터 오늘날까지 ‘지재권 강화’ 정책을 취하고 있다. 다만, Bilski v. Kappos, 561 U.S. 593 (2010) 사건을 계기로 지재권 강화의 흐름이 일부 완화되거나 변화하는 조짐을 보이고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;오늘날의 ‘지재권 강화’ 정책은 미국의 사례에서 보듯이 돌이킬 수 없는 시대적 흐름이 아니다. 오히려 기후위기 시대를 지혜롭게 헤쳐 나가기 위해서는 ‘지재권 약화’ 정책이 요구된다(〈지재공방〉 2023년 1월 5일자 “기후위기를 헤쳐 나가는 지재법의 자세” 참조). 이러한 방향은 ESG가 추구하는 ‘지속 가능한 발전’과도 부합한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;어쨌든 독점규제법이라는 프리즘을 통해 부정경쟁방지법 (파)목이 초래할지 모르는 부작용을 관찰하고 그 치유책을 찾아볼 필요가 있다. 독점규제법 제45조 제1항 제10호와 관련하여 법시행령에 세부적인 금지유형을 새롭게 규정한다면, (파)목의 부작용을 해소할 수 있는 뜻밖의 돌파구가 마련될 수도 있다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;b&gt;박성호 교수(한양대 로스쿨)&lt;/b&gt;&lt;br /&gt;</description>
+			<pubDate>Wed, 28 Feb 2024 07:43:12 -0000</pubDate>
+			<category>opinion</category>
+			<link>https://www.lawtimes.co.kr/opinion/196239</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/196239</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/2023n_jije_park.jpg</media:thumbnail>
+			<dc:creator>박성호</dc:creator>
+		</item>
+		<item>
 			<title>이재홍의 판결 &amp; 사법제도 이야기 : (6) 익숙한 법리에 대한 질문과 도전 - 법률과 판례를 인식·암기하는 데 그치지 말고,&lt;br&gt;
 그러한 법률과 판례가 나온 근원을 생각해 보라.&lt;br&gt;
 비판적 고찰은 시간 낭비가 아니며,&lt;br&gt; 
@@ -94,16 +104,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/196115</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/2023n_100years_go.jpg</media:thumbnail>
 			<dc:creator>고승덕</dc:creator>
-		</item>
-		<item>
-			<title>박성호의 지재공방 : 부정경쟁방지법 제2조 제1호 (파)목의 적용과 엄격한 위법성 판단의 필요성</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/2023n_jije_park.jpg" alt="2022_jije_park.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;div style="margin-bottom:15px; padding:15px; background-color:#fdf3d8"&gt;&lt;b&gt;(파)목이 적용되면 민법상 일반 불법행위와 달리 금지청구권까지 인정된다. 당연히 일반 불법행위보다 엄격하게 위법성을 판단할 필요가 있다. 따라서 (파)목은 위법성 판단을 긍정할 수 있는 특별한 사정(규제대상 ‘행위’)을 유형화하여 그러한 사정이 인정되는 경우에 한하여 적용되어야 한다.&lt;/b&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;지난 칼럼에서 부정경쟁방지법 제2조 제1호 (파)목 때문에 ‘노동이론’이 부활할지 모른다고 썼다. 특히 저작권법과의 관계에서 보충적 일반조항이라는 (파)목의 법적 성격 때문에 우려되는 바가 크다. 저작권법으로 보호되지 않는 ‘표현정보’는 아무리 재산적 가치가 있더라도 원칙적으로 자유로운 모방과 이용이 허용되어야 한다. ‘이마의 땀’ 이론을 재소환함으로써 ‘저작권제도의 파탄’을 초래하지 않으려면 (파)목은 예외적 상황에서만 적용되어야 마땅하다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;그런데 대법원 2020. 3. 26. 선고 2016다276467 판결은 ‘타인의 상당한 투자나 노력으로 만들어진 성과 등’에 대해서는 폭넓고 상세하게 설시하였으면서도, ‘공정한 상거래 관행이나 경쟁질서에 반하는 방법으로 자신의 영업을 위하여 무단으로 사용’하여 ‘타인의 경제적 이익을 침해하는 행위’에 관해서는 그 앞부분은 여러 요소들을 종합적으로 고려해야 한다고 설시하는 데 그쳤고, 뒷부분은 아무런 언급조차 하지 않았다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;특허·상표·저작권법은 권리부여형 입법이지만 부정경쟁방지법은 행위규제형 입법이다(헌법재판소 2001. 9. 27. 선고 99헌바77 결정 등). 그럼에도 보호대상인 ‘성과 등’에 관해서는 자세히 설시하면서도 그 핵심인 규제대상 ‘행위’, 즉 위법성 판단을 소홀히 취급하였다는 것은 대법원 2016다276467 판결의 본질적 한계를 보여준다. 마치 권리부여형 입법처럼 보호대상 중심으로 설시함으로써 (파)목이 확대 적용되도록 ‘뒷문’을 열어놓은 셈이다. 게다가 보호대상에서 배제되는 것처럼 언급한 공공영역(public domain)에 대해서는 아무런 내용도 밝히지 않았다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;(파)목의 확대 적용을 막으려면, 먼저 보호대상에서 배제되는 공공영역을 구체적으로 살펴보아야 한다. 예컨대, 저작권법의 경우는 공공영역을 두 가지 범주로 나누어 따져볼 필요가 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;lt;범주1&amp;gt;은 비보호저작물이나 보호기간의 만료로 인한 경우, 권리제한에 해당하여 저작권법에 의한 보호가 부정되는 경우이다. 모두 표현의 자유를 보장하기 위해 저작권법에 내재하는 조정원리가 작동된 결과이다. 따라서 &amp;lt;범주1&amp;gt;의 경우는 (파)목의 적용 자체가 배제되어야 한다. 더구나 부정경쟁방지법 제15조 제1항은 저작권법 등에 (파)목 등의 부정경쟁행위와 다른 규정이 있으면 저작권법 등에 따라야 한다고 규정한다. 이처럼 &amp;lt;범주1&amp;gt;의 경우를 제15조 제1항과 결부시키면 (파)목의 적용이 배제되어야 하는 이유를 보다 명확하게 설명해 준다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;lt;범주2&amp;gt;는 아이디어에 해당하거나 창작성이 인정되지 않는 표현이어서 저작권법상 보호가 부정되는 경우이다. 즉 저작물의 성립요건을 갖추지 못한 경우이다. 이 중 전자(아이디어)는 표현의 자유를 보장하기 위한 조정원리가 작동된 결과이지만, 후자(창작성이 없는 경우)는 그렇다고 말하기 어렵다. 따라서 &amp;lt;범주2&amp;gt;의 경우는 (파)목의 적용이 가능하지만, 위법성 판단을 긍정할 수 있는 특별한 사정(규제대상 ‘행위’)을 유형화하여 그러한 사정이 인정되는 경우에 한하여 (파)목을 적용해야 한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;(파)목이 적용되면 민법상 일반 불법행위와 달리 금지청구권까지 인정된다. 당연히 일반 불법행위보다 엄격하게 위법성을 판단할 필요가 있다. 그러한 점에서 위법성을 긍정할 수 있는 특별한 사정을 유형화하여 제시한 서울고등법원 2017. 1. 12. 선고 2015나2063761 판결을 오늘날 다시금 되새겨 볼 필요가 있다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;b&gt;박성호 교수(한양대 로스쿨)&lt;/b&gt;</description>
-			<pubDate>Wed, 21 Feb 2024 20:09:56 -0000</pubDate>
-			<category>opinion</category>
-			<link>https://www.lawtimes.co.kr/opinion/196045</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/196045</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/2023n_jije_park.jpg</media:thumbnail>
-			<dc:creator>박성호</dc:creator>
 		</item>
 		<item>
 			<title>목요일언 : 과거를 상상하다</title>
