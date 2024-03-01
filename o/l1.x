@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>경찰, 의협 전·현직 간부 압수수색 '의료법 위반 혐의' 적용</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/PYH2024030104210001300.jpg" alt="PYH2024030104210001300.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진= 연합뉴스&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;경찰이 의료법 위반 등 혐의로 고발당한 대한의사협회 관계자들에 대해 강제 수사에 착수했다.&lt;br /&gt;&lt;br /&gt;서울경찰청 공공범죄수사대는 1일 오전부터 의협 전·현직 간부들에 대한 압수수색 영장을 집행 중이다.&lt;br /&gt;&lt;br /&gt;경찰은 서울 용산구 의협회관 내 비상대책위원회 사무실과 서울시의사회 사무실, 강원도의사회 사무실 등에 수사관을 보내 의협 전·현직 간부들의 휴대폰과 PC 등 관련 자료를 확보하고 있다.&lt;br /&gt;&lt;br /&gt;보건복지부는 지난달 27일 김택우 의협 비대위원장, 주수호 의협 비대위 언론홍보위원장, 박명하 비대위 조직강화위원장, 임현택 대한소아청소년과의사회장, 노환규 전 의협 회장 등을 의료법 위반과 형법상 업무방해, 교사·방조 등의 혐의로 경찰청에 고발했다.&lt;br /&gt;&lt;br /&gt;경찰청은 고발 접수 다음날 사건을 서울청 공공범죄수사대로 배당했다.&lt;br /&gt;</description>
+			<pubDate>Fri, 01 Mar 2024 04:29:15 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196383</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196383</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/PYH2024030104210001300.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>헌법재판소 '2025년도 헌법연구관(보)' 임용</title>
 			<description>&lt;p&gt;헌법재판소(소장&amp;nbsp;&lt;span class="lawmanlink" serial="7888" style="font-weight: bold;"&gt;이종석&lt;/span&gt;)가 2025년 2월부터 일할 헌법연구관과 헌법연구관보 임용 절차를 진행한다고 29일 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;헌재는 구체적인 임용 계획 공고는 오는 9월 중순께 낼 계획이다. 이어 9월 하순까지 원서를 접수한뒤 서류전형과 인성검사, 집단토의면접, 개별면접을 거쳐 면접시험 합격자를 발표한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;면접시험 합격자들을 대상으로 헌법연구관 인사위원회 심의, 재판관 회의 의결을 거쳐 최종 합격자를 오는 2025년 1월에 발표한다. 임용 예정일은 2025년 2월 1일이다. 군법무관과 공익법무관 전역 예정자는 전역한 뒤, 로스쿨 졸업 예정자는 변호사시험에 최종 합격한 뒤에 임용된다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;문의는 헌법재판소 홈페이지나 인사과에 전화로 하면 된다.&lt;/p&gt;</description>
 			<pubDate>Fri, 01 Mar 2024 00:48:30 -0000</pubDate>
@@ -231,16 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196349</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/KakaoTalk_20240229_112122284(1).jpg</media:thumbnail>
 			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무부, '한동훈 독직폭행 무죄' 정진웅 검사 정직 2개월 징계</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/KakaoTalk_20240229_112740663.jpg" alt="KakaoTalk_20240229_112740663.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한동훈 국민의힘 비상대책위원장을 압수수색하는 과정에서 폭행한 혐의로 기소됐다가 대법원에서 무죄가 확정된&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6347"&gt;정진웅&amp;nbsp;&lt;/span&gt;대전고검 검사(사법연수원 연구위원)가 정직 2개월의 중징계를 받았다.&lt;br /&gt;&lt;br /&gt;29일 법무부 관보에는 정 검사에게 검사징계법상 직무상 의무 위반과 품위 손상을 이유로 이같이 징계했다는 내용이 게개됐다. &lt;br /&gt;&lt;br /&gt;법무부는 압수수색 영장을 집행하는 과정에서 인권 보호 수사 규칙 등을 준수해야 할 직무상 의무를 위반했고, 마치 압수수색 방해행위를 제지하다가 상해를 입은 것처럼 병원에 누워 수액을 맞는 사진과 입장문을 배포하는 등 품위를 손상했다고 설명했다.&lt;br /&gt;&lt;br /&gt;정 검사는 서울중앙지검 형사1부 부장검사 시절인 2020년 7월 이른바 '채널A 사건'과 관련해 당시 한 위원장의 휴대폰을 압수수색하는 과정에서 한 위원장과 몸싸움을 벌였다. &lt;br /&gt;&lt;br /&gt;정 검사는 특정범죄가중처벌법상 독직폭행 혐의로 2020년 10월 기소됐지만 2022년 11월 대법원에서 무죄 판결이 확정됐다.&lt;br /&gt;&lt;br /&gt;대검찰청은 형사 재판 결과와 별도로 정 검사에 대해 징계 사유가 인정된다고 보고 지난해 5월 법무부에 징계를 청구했다. 당시 법무부 장관이었던 한 위원장은 사건의 직접 당사자라는 이유로 회피 의사를 밝히고 징계 절차에 불참했다.</description>
-			<pubDate>Thu, 29 Feb 2024 02:29:46 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196343</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196343</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/KakaoTalk_20240229_112740663.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
