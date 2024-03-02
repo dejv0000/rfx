@@ -6,6 +6,36 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>일론 머스크, 오픈AI에 소송…"비영리 계약 어겨"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/PGT20231130049501009.jpg" alt="PGT20231130049501009.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진= 연합뉴스&amp;gt;&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;일론 머스크 테슬라 최고경영자(CEO)가 챗GPT를 개발한 오픈AI와 샘 올트먼 최고경영자(CEO)를 상대로 회사 설립 당시 비영리 계약을 위반했다며 소송을 냈다. &lt;br /&gt;&lt;br /&gt;현지시간 1일 블룸버그 통신과 뉴욕타임스(NYT)에 따르면 머스크는 오픈AI와 올트먼이 영리사업을 중단하고 AI 기술을 오픈소스로 공개하라고 요구하는 소송을 전날 샌프란시스코 고등법원에 제기했다.&lt;br /&gt;&lt;br /&gt;머스크는 소장에서 "오픈AI는 회사의 사명이 범용인공지능(AGI)을 '모든 인류에게 혜택을 주는 것'이라고 공언하지만 오픈AI는 폐쇄형 소스로, 마이크로소프트사의 사실상 자회사로 변모했다"고 주장했다.&lt;br /&gt;&lt;br /&gt;머스크는 2016년부터 2020년까지 자신이 오픈AI에 4천400만달러, 약 588억 원이 넘는 금액을 기부했으며, 초기 사무실 임차료도 내줬다고 주장했다.&lt;br /&gt;&lt;br /&gt;하지만 그는 오픈AI 경영진이 새로운 AI 기술로 돈을 버는 데 관심을 두면서 이 회사가 계속 연구소로 남기를 원한 자신과 마찰이 커졌다고 설명했다.&lt;br /&gt;&lt;br /&gt;머스크는 결국 2018년 오픈AI 이사직을 사임하고 투자 지분도 모두 처분했다.&lt;br /&gt;&lt;br /&gt;머스크는 오픈AI가 마이크로소프트사와 올트먼 개인에게 이익을 주는 행위를 중단하고 모든 연구 성과와 기술을 공공에 개방하게 해달라고 법원에 요청했다.&lt;br /&gt;&lt;br /&gt;또 올트먼이 오픈AI에서 번 돈을 포기하도록 명령해 달라고 요청하기도 했다.&lt;br /&gt;&lt;br /&gt;아울러 머스크는 자신이 불특정 금액의 손해를 입었다고 주장하면서 이번 소송 결과로 배상을 받게 되면 이를 자선단체에 기부하겠다고 밝혔다.&lt;br /&gt;&lt;br /&gt;오픈AI와 마이크로소프트사 측은 아직 이에 관한 입장을 내놓지 않았다.</description>
+			<pubDate>Sat, 02 Mar 2024 04:48:18 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196385</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196385</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/PGT20231130049501009.jpg</media:thumbnail>
+			<dc:creator>정준휘 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] '15년 전 성범죄' 공소시효 만료 직전 재판 넘겨져…30대 2명 집행유예</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/2(263)(1).jpg" alt="2(263).jpg" /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;10대 시절 성범죄를 저질렀던 남성 2명이 15년 뒤 공소시효 만료 직전 재판에 넘겨져 징역형을 선고받았다.&lt;br /&gt;&lt;br /&gt;2일 법조에 따르면 서울남부지법 형사합의11부(정도성 부장판사)는 성폭력 범죄의 처벌 및 피해자 보호 등에 관한 법률 위반(특수강간) 혐의로 기소된 30대 남성 A 씨와 B 씨에게 각각 징역 2년 6개월에 집행유예 4년을 선고했다. 성폭력 치료프로그램 40시간 수강도 명령했다.&lt;br /&gt;&lt;br /&gt;친구인 A 씨와 B 씨는 10대 시절인 2008년 7월 안양시의 한 자취방에서 인터넷 채팅을 통해 알게 된 피해자 C(당시 15세)씨와 어울려 술을 마시다 강제로 성관계를 한 혐의를 받았다.&lt;br /&gt;&lt;br /&gt;2009년 C 씨가 교통사고를 당해 장기 입원해 수사가 중단됐다 지난해 재개됐고, 검찰은 공소시효 만료 직전인 지난해 7월 A 씨와 B 씨를 재판에 넘겼다.&lt;br /&gt;&lt;br /&gt;2008년 당시 강간죄의 공소시효는 10년이었으나, 2017년 형사소송법이 개정됨에 따라 공소시효는 15년으로 늘었다.&lt;br /&gt;&lt;br /&gt;재판부는 "범행으로 피해자는 어린 나이에 큰 성적 수치심과 정신적 충격을 받았을 것으로 보이고, 이는 피해자의 건전한 성적 가치관과 정체성 형성에 부정적인 영향을 미쳤을 것으로 보인다"고 말했다.&lt;br /&gt;&lt;br /&gt;다만 "피고인들이 피해자와 합의해 피해자가 처벌을 원하지 않고 있고, 사건 발생 15년이 지나 피고인들이 현재 평범한 사회구성원으로 생활하고 있다"며 양형 이유를 밝혔다.</description>
+			<pubDate>Sat, 02 Mar 2024 04:46:50 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196386</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196386</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/2(263)(1).jpg</media:thumbnail>
+			<dc:creator>정준휘 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] 대법, 미성년자 화장실 몰카도 "아청법상 성착취물"</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/대법원5(2).jpg" alt="대법원5.jpg" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;미성년자가 화장실에서 용변을 보는 장면을 몰래 촬영한 경우, 아동청소년성보호법상 '성착취물'을 제작한 것에 해당한다는 대법원 판결이 나왔다.&lt;br /&gt;&lt;br /&gt;1일 법조에 따르면, 대법원 3부(주심 이흥구 대법관)는 아동·청소년의 성보호에 관한 법률상 성착취물 제작·배포 등 혐의로 재판에 넘겨진 A 씨에게 일부 무죄를 선고한 원심을 깨고 지난해 12월 사건을 서울고법 춘천재판부로 돌려보냈다.(2023도12198)&lt;br /&gt;&lt;br /&gt;A 씨는 2022년 8~9월 강원 강릉시 한 건물 여자화장실에 카메라를 설치해 47차례 촬영한 혐의로 기소됐다. 그가 촬영한 사진에는 미성년자가 용변을 보는 장면도 있었다. 검찰은 A 씨를 성폭력처벌법상 불법촬영(카메라 등 이용 촬영) 혐의는 물론, 아청법상 성착취물 제작·배포 혐의로 재판에 넘겼다. 미성년자 촬영 부분을 '성적 학대'에 해당한다고 본 것이다.&lt;br /&gt;&lt;br /&gt;1심은 전부 유죄 판결했지만, 항소심은 용변 장면이 '일상생활' 범주에 속한다는 점을 근거로 미성년자로 추정되는 영상 24개에 대해선 불법촬영은 맞지만 성착취물은 아니라고 판단했다.&lt;br /&gt;&lt;br /&gt;항소심 재판부는 "미성년 피해자들이 신체 노출로 수치심을 느낄 수는 있을지라도 촬영물에는 화장실을 용도에 따라 이용하는 장면이 담겨있을 뿐, 아청법상 피해자에게 성적 수치심 등을 일으키는 '음란한 행위'로 볼 수 없다"고 설명했다.&lt;br /&gt;&lt;br /&gt;하지만 대법원의 판단은 달랐다. 대법원은 이 같은 경우도 성적학대로서 성착취물 제작에 해당한다고 봤다. 지난해 11월 미성년자 여성기숙사를 몰래 찍은 촬영물을 소지한 혐의에 대해 유죄를 확정한 대법원 판결(2021도4265)이 근거가 됐다. &lt;br /&gt;&lt;br /&gt;당시 대법원은 "미성년자가 일상생활에서 신체를 노출했더라도 몰래 촬영하는 방식으로 성적 대상화했다면 '피해자의 성적 수치심이나 혐오감을 일으키는 행위'"라며 "적극적인 성적 행위가 없었더라도 음란물에 해당한다"고 판결했다. 이 판결에 적용된 구 아청법은 이를 '음란물'이라고 규정했지만, 현행 아청법은 '성착취물'로 표현을 변경했다.</description>
+			<pubDate>Sat, 02 Mar 2024 04:45:58 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196387</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196387</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/대법원5(2).jpg</media:thumbnail>
+			<dc:creator>정준휘 기자</dc:creator>
+		</item>
+		<item>
 			<title>경찰, 의협 전·현직 간부 압수수색 '의료법 위반 혐의' 적용</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/PYH2024030104210001300.jpg" alt="PYH2024030104210001300.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진= 연합뉴스&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;경찰이 의료법 위반 등 혐의로 고발당한 대한의사협회 관계자들에 대해 강제 수사에 착수했다.&lt;br /&gt;&lt;br /&gt;서울경찰청 공공범죄수사대는 1일 오전부터 의협 전·현직 간부들에 대한 압수수색 영장을 집행 중이다.&lt;br /&gt;&lt;br /&gt;경찰은 서울 용산구 의협회관 내 비상대책위원회 사무실과 서울시의사회 사무실, 강원도의사회 사무실 등에 수사관을 보내 의협 전·현직 간부들의 휴대폰과 PC 등 관련 자료를 확보하고 있다.&lt;br /&gt;&lt;br /&gt;보건복지부는 지난달 27일 김택우 의협 비대위원장, 주수호 의협 비대위 언론홍보위원장, 박명하 비대위 조직강화위원장, 임현택 대한소아청소년과의사회장, 노환규 전 의협 회장 등을 의료법 위반과 형법상 업무방해, 교사·방조 등의 혐의로 경찰청에 고발했다.&lt;br /&gt;&lt;br /&gt;경찰청은 고발 접수 다음날 사건을 서울청 공공범죄수사대로 배당했다.&lt;br /&gt;</description>
 			<pubDate>Fri, 01 Mar 2024 04:29:15 -0000</pubDate>
@@ -211,36 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196356</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/PYH2022121311720001300.jpg</media:thumbnail>
 			<dc:creator>이순규 기자</dc:creator>
-		</item>
-		<item>
-			<title>이인용 前 삼성전자 사장, 법무법인 율촌 가치성장위원장으로</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/PYH2022112216530001300_이인용_삼성전자.jpg" alt="PYH2022112216530001300_이인용_삼성전자.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.yulchon.com/ko/main/main.do" target="_blank"&gt;&lt;b&gt;법무법인 율촌&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7573"&gt;강석훈&lt;/span&gt;)이 오는 1일 이인용 전 삼성전자 사장을 가치성장위원회 위원장 및 사단법인 온율 이사장으로 영입한다고 29일 밝혔다. &lt;br /&gt;&lt;br /&gt;이인용 전 사장은 1982년 MBC에 입사해 2005년 보도국 부국장으로 근무, 같은 해 삼성전자 홍보팀장으로 자리를 옮겼다. 2009년 삼성미래전략실 커뮤니케이션팀장, 2014년 삼성전자 커뮤니케이션팀장을 역임했다. 이후 2020년부터 대외 협력 업무(CR)를 총괄해왔다. &lt;br /&gt;&lt;br /&gt;율촌 관계자는 “이 전 사장은 사회공헌업무 총괄 상근고문 겸 사회봉사단장으로 활약하며 기업 비전에 맞게 사회공헌사업을 재정비하고, 규모 있는 사회공헌 활동을 지휘한 관록 있는 베테랑”이라며, “율촌의 가치성장위원장 및 사단법인 온율 이사장으로서 율촌의 브랜드와 협업·혁신·정도를 걷는 공동체로서의 가치를 강화하길 기대한다”고 밝혔다.</description>
-			<pubDate>Thu, 29 Feb 2024 02:33:27 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196341</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196341</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/PYH2022112216530001300_이인용_삼성전자.jpg</media:thumbnail>
-			<dc:creator>유지인 기자</dc:creator>
-		</item>
-		<item>
-			<title>인큐텍, 장애인에게 AI교육 무료제공</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/20240229_인큐텍 제공.jpg" alt="20240229_인큐텍 제공.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;인큐텍 제공&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;AI교육 전문기관 인큐텍이 "소원을 말해봐", 소원을 들어주는 "마이지니" 만들기 교육을 3월 5일부터 28일까지 온라인으로 실시한다.&lt;br /&gt;&lt;br /&gt;인큐텍 대표 겸 고려대학교 겸임교수 송인규 대표는 "누구나 마이지니를 만들어서 주4일 근무가 가능하고 N잡러가 돼 경제적·시간적인 자유를 얻게 된다"며 "특히 장애인을 교육해 비장애인처럼 일자리를 만드는 것을 목표로 한다"고 말했다.&lt;br /&gt;&lt;br /&gt;인공지능의 발전으로 장애인도 비장애인처럼 일할수 있는 세상이 열리고 있다. 챗GPT, 마이크로 소프트의 코파일럿은 휴대폰에서 음성입력으로 AI를 사용할수 있다. 인큐텍의 마이지니 과정도 장애인들에게 무료로 생성형 AI를 교육해 일자리를 만들어주자는 취지로 시작했다. &lt;br /&gt;&lt;br /&gt;송인규 대표는 2023년 'AI비서만들기' 1기를 진행하면서 수강생 및 교수진중에서 선발해 장애인에게 AI를 교육해 일자리를 만들자는 취지의 '장애혁명' 전자책을 출간했다. 이번 마이지니 과정도 유료이지만, 장애인은 무료다. 장애인 2명을 추천하면 비장애인도 무료로 수강할수 있는 혜택을 준다. &lt;br /&gt;&lt;br /&gt;생성형 인공지능은 무한 진화 중이다. LLM(거대 언어모델)은 상상력이 뛰어나 글, 그림, 영상 등 콘텐츠 만들기, 기획, 신상품개발, 시나리오 쓰기 등에 탁월한 능력을 보여준다. 전문가의 영역이었던, 그림 그리기, 로고 만들기, 동영상 만들기 같은 작업이나, 고도의 코딩이나 전문적인 툴이 필요했던 빅데이터분석, 시각화도 누구나 명령어로 가능해졌다. 직원들이 생성형에 익숙해지면 조직체는 생산성이 급증한다. 주 4일, 주 3일 근무가 가능해지면서 개인은 조직 없이도 회사처럼 일할 수 있는 기반이 마련됐고 장애인도 일을 할 수 있게 됐다.&lt;br /&gt;&lt;br /&gt;인큐텍은 2019년 'B캐피탈리스트'라는 오프라인 블록체인 교육을 시작해 2023년까지 500명이 넘는 수료생을 배출했다. 특히 지난해 AI비서만들기 교육을 시작해 3기까지 약 300명의 수료생을 배출했고, 지금도 금융기관들을 대상으로 20시간짜리 교육중이다. &lt;br /&gt;&lt;br /&gt;송 대표는 이들 기관에 장애인을 취직시키는 것을 목표로 기업교육에 공을 들이고 있다고 한다.</description>
-			<pubDate>Thu, 29 Feb 2024 02:31:36 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196347</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196347</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/20240229_인큐텍 제공.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>'검단 주차장 붕괴 사고' 관련 GS건설 영업정지 1개월 처분 집행정지 인용</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/KakaoTalk_20240229_112122284(1).jpg" alt="KakaoTalk_20240229_112122284.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;이른바 '순살 아파트' 논란을 빚은 검단 아파트 지하주차장 붕괴 사고와 관련해 GS건설이 서울시로부터 영업정지 1개월 처분을 받은 것에 대해 집행정지 신청을 내 법원에서 받아들여졌다.&lt;br /&gt;&lt;br /&gt;서울행정법원 행정6부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9726"&gt;나진이&amp;nbsp;&lt;/span&gt;부장판사)는 GS건설이 서울특별시장을 상대로 낸 집행정지 신청에 대해 인용 결정했다(&lt;b&gt;2024아10623&lt;/b&gt;). 이에 따라 지난달 말일 서울시가 GS건설에 내린 3월 1일부터 말일까지의 토목건축공사업에 관한 영업정지 처분은 본안 사건 판결 선고일로부터 30일이 되는 날까지 효력이 정지된다. 재판부는 "기록 및 심문 결과를 종합하면, GS건설에게 회복하기 어려운 손해가 발생할 우려가 있고 이를 예방하기 위해 처분의 효력을 정지할 긴급한 필요가 있다는 것이 소명된다"고 밝혔다.이어 "이 처분의 효력 정지로 인해 공공복리에 중대한 영향을 미칠 우려가 있다고 보기 어렵다"고 덧붙였다.&lt;br /&gt;&lt;br /&gt;국토교통부는 작년 4월 발생한 검단 아파트 지하주차장 붕괴사고와 관련해 GS건설과 동부건설, 대보건설 등 5개사에 각각 영업정지 8개월의 행정처분을 내렸다. 관할관청인 서울시에도 이들 회사에 각 2개월의 영업정지 처분을 내릴 것을 요청했다. 서울시는 먼저 지난달 GS건설이 콘크리트 품질시험 또는 검사를 성실히 수행하지 않아 해당 부실시공을 야기했다고 판단해 토목건축공사업에 관한 1개월의 영업정지 처분을 내렸다. 이에 반발한 GS건설 측은 처분을 취소해달라는 본안소송과 함께 집행정지 신청을 냈다.&lt;br /&gt;&lt;br /&gt;GS건설 측은 집행정지 신청에 관한 심문기일에서 "서울시의 처분은 중복 제재 금지를 위반했다"며 "국토교통부는 콘크리트 강도 부족으로 인한 시공상 잘못을 사유로 책임을 물었는데, 서울시의 처분 사유는 이에 속하는 것"이라는 취지로 주장했다.&lt;p&gt;   &lt;br /&gt;한편, 서울시로부터 영업정지 처분을 받은 동부건설도 같은 취지로 집행정지 신청을 냈다.&lt;/p&gt;</description>
-			<pubDate>Thu, 29 Feb 2024 02:30:12 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196349</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196349</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/KakaoTalk_20240229_112122284(1).jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
