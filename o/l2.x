@@ -34,6 +34,16 @@
 			<dc:creator>차병직</dc:creator>
 		</item>
 		<item>
+			<title>목요일언 : 확률의 세계, 행운의 세계</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/2023_thursday_oh.jpg" alt="2023_thursday_oh.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left; "&gt;우리는 일상생활에서 객관적인 확률보다는 느낌이나 직관에 의존하는 경향이 있다. 아래 이야기를 살펴보자.&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;곰은 여우로부터 한 가지 제안을 받았다. “1만 원을 걸고 동전 5개를 던져 모두 앞면이 나오면 50만 원을 주겠다.”는 내용이었다. 곰은 여우의 제안을 받아들여 수개월 동안 위 게임을 통해 많은 돈을 땄다. 그러자 여우는 “이제는 동전을 하나 더 추가하여 동전 6개를 던져 모두 앞면이 나오면 60만 원을 주는 것으로 변경하자.”고 수정 제안하였고, 곰은 흔쾌히 그 제안을 받아들였다. 동전 하나 추가에 10만 원이 늘어나는 것이라 합리적으로 보였던 것이다. 하지만 이후 곰은 돈을 계속 잃고 손실을 입게 되었다. 도대체 어떻게 된 것일까?&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left; "&gt;5개의 동전을 던질 때 가능한 경우의 수는 32이므로, 곰이 이길 확률은 1/32이다. 확률적으로 곰은 32만 원을 잃을 때마다 50만 원을 딸 가능성이 생겼으므로, 이 과정이 반복됨에 따라 곰은 많은 돈을 딸 수 있었다. 반면, 6개의 동전을 던질 때 가능한 경우의 수는 64이므로, 곰이 이길 확률은 1/64이다. 따라서 6개의 동전이 모두 앞면이 나올 때 딸 수 있는 돈이 60만 원이라고 하더라도 이 과정이 반복됨에 따라 곰은 돈을 잃게 되었던 것이다. 게임에 참가하는 모수가 많아질수록 평균으로 회귀할 가능성이 높아진다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;한편, 다음의 3가지 경우 중 어느 것이 일어날 확률이 가장 높을까?&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;&lt;span style="color: #434343;"&gt;① 1부터 45까지의 수 중에서 6개를 맞추어 로또 1등에 당첨될 확률.&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;&lt;span style="color: #434343;"&gt;② 5개 보기 중에 하나를 고르도록 되어 있는 객관식 시험에서 10개 문항 모두를 찍어서 맞출 확률.&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;&lt;span style="color: #434343;"&gt;③ 원숭이가 알파벳으로 이루어진 타자를 마음대로 치는데, 이때 “MONKEY”를 칠 확률.&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;정답은 ①번인데, 로또 1등에 당첨될 확률이 1/8145060으로 가장 높다. ②번 확률은 1/9765625이고, ③번 확률은 그보다도 훨씬 낮은 1/308915776에 불과하다. 여기서 가장 확률이 높은 로또 1등도 매일 1회씩 추첨이 있다고 할 때 약 2만2315년에 한 번꼴로 발생하는 매우 희박한 확률이다. 이렇게 희박한 확률이기에 ‘행운’인 것이다. 당첨된 사람을 우연히 만나거나 어쩌다 내가 당첨될 수도 있겠지만, 여러 번 당첨될 가능성은 극히 희박하다. 복권을 사는 모수가 커진다고 해도 결국 평균으로 회귀할 것이어서 당첨될 확률이 높아지지도 않는다. 그럼에도 많은 사람들은 여전히 로또를 사고 일확천금을 노린다.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이처럼 비교적 빈번하게 발생하는 ‘확률의 세계’에서는 주관적인 느낌보다는 객관적인 확률을 살펴볼 필요가 있는 반면, 희박한 확률의 ‘행운의 세계’에서는 찾아온 행운을 실력으로 여기거나 확률이 높은 것으로 과장해서 생각하는 것을 경계하여야 한다. 수주대토(守株待兎) 고사의 교훈처럼 행운은 따라오는 것이지 추구하는 것이 아닌 것 같다.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;br /&gt;&lt;b&gt;오세용 부장판사(서울중앙지법)&lt;/b&gt;</description>
+			<pubDate>Wed, 28 Feb 2024 23:48:17 -0000</pubDate>
+			<category>opinion</category>
+			<link>https://www.lawtimes.co.kr/opinion/196226</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/196226</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/2023_thursday_oh.jpg</media:thumbnail>
+			<dc:creator>오세용</dc:creator>
+		</item>
+		<item>
 			<title>법의 신(新)과 함께 : 부모 노릇의 어려움 - 지능지수 70~85 ‘경계성 지능인’&lt;br&gt;
 일상생활에는 큰 어려움 없지만 &lt;br&gt;
 상황판단력과 주의력 떨어져&lt;br&gt;
@@ -120,16 +130,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/196115</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/2023n_100years_go.jpg</media:thumbnail>
 			<dc:creator>고승덕</dc:creator>
-		</item>
-		<item>
-			<title>목요일언 : 과거를 상상하다</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/196028.jpg" alt="196028.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;생각한다. 지나간 일들을 생각한다. 앞날을 생각한다. 모두 생각하는 것이다. 상상한다. 이런 표현은 발생하지 아니한 일에 대해서만 가능하다. 지나간 일들, 과거는 상상할 수 없다. 지나간 일들은 이미 발생한 것이니 과거의 일은 기억할 뿐이다. 과거를 상상한다는 표현은 없고 잘못되었다는 것은 모두 알고 있다. 그래서 아무도 이런 표현을 쓰지는 않는다. 그렇다면 우리는 얼마나 정확하게 과거를 상상하지 아니하고 있는 그대로 기억해 낼 수 있을까? 특별하게 지나간 일들이 아니라 일상적으로 지나간 일들을 정확하게 기억해 내는 것은 불가능하고 본다. 특별하게 지나간 일들도 대략적인 것들만 기억할 뿐 정확하게 사진을 보고 말하듯이 기억하기는 어려울 것이다. 그러나 너무 충격적인 일들은 생생하게 남아 지속적으로 사람들을 괴롭게 하기도 한다. 일상적이었던 일을 기억해 내야 한다면 어디까지가 있었던 일이고 어디까지가 발생한 일과는 무관하게 부족한 부분을 다른 일들과 비교하여 경험으로 추측해서 또는 아예 상상을 기억이라고 하는지 의심한 적이 있었다. 눈앞에서 벌어진 일이나 다른 사람의 경험이라도 자신이 가지고 있는 지식이나 경험에 위배되면 믿지 않으려는 경향이 있다. 마술사는 허공에서 무엇인가를 꺼내고 물건을 변형시키고 사람을 자르지만 그것이 진짜 가능하다고 믿지 않는다. 눈앞에서 벌이진 일이지만 우리가 알고 있는 지식에 위반되기 때문이다. 자신의 경험칙과 지식에서 벗어나는 사람의 말에도 “말이 되는 소리를 해라”라는 표현으로 진실성을 의심한다. 흐릿하던 기억이 또렷해진다면 과연 기억을 해낸 것인지 경험과 지식에 근거하여 부족한 부분을 보충한 것인가? 아니면 그래야 한다는 목표로 과거를 상상한 것인가? 이런 고민을 진지하게 한 이유는 형사사건에서 필자가 증인으로 출석하라는 통보를 받았을 때였다. 무슨 일이 있었는지 잘 기억이 나지 아니하였던 필자가 불출석 사유서를 제출하였으나 다시 증인으로 출석하라는 통보를 받았다. 어쩔 수 없이 무슨 일이 있었는지 잘 생각해 보았다. 생각이 나지 아니하던 일을 계속 생각하다 보니 점점 기억이 또렷해지는 것이었다. 이에 참 신기한 일이라고 생각했다. 이에 안심하고 있다가 증인출석을 앞두고 다시 생각을 해보니 어느 부분까지가 사실을 기억해 낸 것이고 어느 부분부터 필자의 경험칙으로 부족한 기억을 보충한 것인지 아니 아예 상상해 낸 것인지 알 수가 없었다. 계속 생각을 하다 보니 기억이 확실해졌다는 것이 과연 기억이 난 것인지 상상으로 부족한 부분을 추려 맞춘 것인지 자신이 없어진 것이다. 이런 고민 속에서 증언을 하였고 몇 년 후 그 피고인이 필자의 사무실을 방문하였는데 달라진 모습이라 크게 놀랐다. 복역 후 출소해 안부인사차 들렸으니 증언내용에 큰 불만은 없었던 것 같다. 시간이 지나면서 사실은 사라지고 법조인들은 과거에 대한 기억, 생각, 상상의 밀림을 헤쳐 나가고 있다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;b&gt;유병일 법무사(드림법무사사무소)&lt;/b&gt;&lt;br /&gt;</description>
-			<pubDate>Wed, 21 Feb 2024 20:09:55 -0000</pubDate>
-			<category>opinion</category>
-			<link>https://www.lawtimes.co.kr/opinion/196028</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/196028</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/196028.jpg</media:thumbnail>
-			<dc:creator>유병일</dc:creator>
 		</item>
 		<item>
 			<title>법신논단 : 검찰 특별수사체계의 개혁 과제 - 근본적으로 &lt;br&gt;
