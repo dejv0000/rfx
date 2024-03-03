@@ -6,8 +6,27 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
-			<title>[신간소식] 이주원 고려대 로스쿨 교수, 《형법총론 제3판》출간</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/20240301_이주원 교수 형법총론.jpeg" alt="20240301_이주원 교수 형법총론.jpeg" style="width: 320px; height: 462px;" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7909"&gt;이주원&lt;/span&gt;(59·사법연수원 21기) 고려대 로스쿨 교수가 최근 《형법총론 제3판》(박영사 펴냄)을 냈다. 이번 개정판에서는 바뀐 법령과 새 판례를 반영하고, 도표 등을 추가·보완했다. 이 교수는 2022년 초판 이래 매년 개정판을 내고 있다. &lt;br /&gt;&lt;br /&gt;이 교수는 책 머리말에서 “형법을 처음 배우는 학생의 심정을 십분 헤아려, 가급적 통설과 판례에 따라 ‘중요한 기본법리에 대한 알기 쉬운 이해’를 돕고자 했다”며 “명확한 이해를 위해 무엇보다 ‘서술의 명료성과 정확성’에 중점을 두었다. 나아가 이론적 측면에서는 ‘도그마틱의 엄격성’을 견지하고자 했고, 실무적 측면에서는 책임론과 공범론, 특히 죄수론 및 형벌론 부분의 보강에 주력하였다”고 했다. &lt;br /&gt;&lt;br /&gt;이번 개정판에는 최근 2023년 8월 8일 일부 개정된 형법 내용인 ‘사형의 집행시효 폐지’·‘영아살해·영아유기죄 폐지’와 그간 선고된 ‘정당방위의 현재성 완화’, ‘정당행위 요건의 상호관계’ 등 주요 형법판례가 반영됐다. 최신 판례로는 2024년 1월 15일까지 선고된 대법원 판례 및 헌법재판소 결정이 추가됐다. 아울러 형법 제1조 제2항의 ‘법률의 변경’의 해석과 관련해 판례의 ‘한시법의 추급효 인정’ 문제에 대한 분석과 비판을 추가하는 등 서술 내용을 보완했다. &lt;br /&gt;&lt;br /&gt;이 교수는 강릉고와 서울대 법대를 나왔다. 1989년 제31회 사법시험에 합격하고, 사법연수원과 군법무관 복무를 거쳐 1995년 청주지법 판사로 임관했다. 이후 서울고법 판사, 대법원 재판연구관, 광주지법 부장판사 등을 지냈다. 2008년부터 고려대 교수로 재직 중이며, 대법원 양형위원회 위원, 대법원 국선변호정책심의위원회 위원 등을 역임했다. 현재 한국형사법학회 수석부회장(차기회장)을 맡고 있다. &lt;br /&gt;</description>
+			<title>[판결] "돈 안주면 환경오염으로 신고" 상습공갈 사이비 기자 실형</title>
+			<description>&lt;p&gt;공사 현장을 돌며 금품을 주지 않으면 환경오염 문제를 신고하겠다며 상습적으로 공갈한 언론인에게 법원이 실형을 선고했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;3일 법조계에 따르면 수원지법 형사11부(재판장 신진우 부장판사)는 상습공갈 혐의로 기소된 A(58) 씨에게 징역 3년을 선고했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;재판부는 "이 사건 범행은 피고인이 '환경기자'임을 자처하면서 건축 현장의 관리자에게 접근해 돈을 주지 않으면 공사 현장에 대해 민원을 제기하는 등 불이익을 가할 수 있다는 취지로 겁을 줘 상습적으로 금품을 갈취한 사안"이라며 "피고인은 동종범행으로 실형 5회, 징역형 집행유예 1회 처벌받은 전력이 있음에도 불구하고 다시 이 사건 범행에 이르렀다"고 지적헀다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이어 "제대로 된 규범의식 없이 반복적으로 범행을 저지른 것으로 보인다"며 "또 납득할 수 없는 변명을 내세우면서 범행을 전부 또는 일부 부인하고 있어 진정으로 반성하고 있다고 보이지도 않아 그 죄책에 상응하는 엄한 처벌이 불가피하다"고 양형 이유를 밝혔다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;A 씨는 2021년 9월부터 지난해 4월 13일까지 경기 안성과 평택, 충남 아산 등 건축 현장 소장 등에게 "현장에서 사진 찍었다. 신고 안 할 테니 돈 좀 줘라"라거나 덤프트럭 적재함에 흙 묻은 사진을 촬영하고는 "먼지 많이 날리는 거 제보하면 과태료 얼마인지 아냐? 차비 좀 보태줘라"고 말하는 등의 수법으로 11차례에 걸쳐 공갈해 금품 1005만 원을 받고, 두 차례 공갈 미수한 혐의로 기소됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Sun, 03 Mar 2024 07:04:46 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196395</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196395</guid>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
+			<title>법무부, “尹 사단은 하나회” 발언 이성윤 '해임' 처분…'3년간 개업 불가'</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/PYH2024022307410001300.jpg" alt="PYH2024022307410001300.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;조국 전 법무부 장관의 출판 기념회에서 ‘윤석열 사단’을 ‘전두환 하나회’에 빗대 비판한 이성윤(61·사법연수원 23기) 법무연수원 연구위원이 법무부로부터 최고 수위 징계인 해임 처분을 받았다. 해임 처분을 받더라도 총선 출마에 제약은 없다.&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;3일 법조에 따르면, 법무부 검사징계위원회는 지난달 27일 회의를 열고 이 같이 의결한 것으로 알려졌다. 검사징계법상 징계는 △견책 △감봉 △정직 △면직 △해임 등 5단계로 나뉘는데 해임은 가장 높은 수위의 징계다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 연구위원은 지난해 1~11월 조 전 장관의 출판기념회와 언론 인터뷰 등에서 총 8차례에 걸쳐 검찰 업무의 공정성을 훼손하거나 저해하는 부적절한 발언을 하고, 조 전 장관과 부적절하게 교류해 검사 윤리 강령을 위반했다는 이유로 검사징계위에 회부됐다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;또 2020년 10월 ‘채널A 사건’과 관련해 한동훈(51·27기) 국민의힘 비상대책위원장(당시 검사장) 감찰 과정에서 확보한 자료를 윤석열 당시 검찰총장을 감찰하던 법무부 감찰위에 무단 제공한 혐의, 김학의 전 법무부 차관의 불법 출국 금지 의혹 수사를 무마한 혐의 등도 받았다. 다만 김 전 차관 출국 금지 의혹에 대한 수사 무마 혐의는 관련 재판이 진행 중인 점을 고려해 이번 징계 이유에는 포함되지 않았다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 연구위원은 해임 처분에 불복해 행정 소송 등 법적 절차를 밟을 것으로 보인다. 그는 2차 징계위 당일 “어떤 결론에 이르든 그 징계는 원천 무효”라고 말했다. 앞서 1차 징계위 직후에는 일부 징계위원들에 대해 “윤석열 대통령과 가깝다”는 취지로 기피 신청을 냈으나 기각됐다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;징계로 해임되면 3년간 변호사 등록이 금지된다. 하지만 오는 4월 국회의원 선거 출마에는 제약이 없다. 이 연구위원은 지난 1월 사표를 제출했으나 아직 수리되지 않았다. 이후 더불어민주당 영입 인재로 발탁된 뒤 전주을 예비후보로 등록하고 경선을 치르고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Sun, 03 Mar 2024 06:57:22 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196400</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196400</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/PYH2024022307410001300.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
+			<title>[신간소식] 이주원 고려대 로스쿨 교수, 《형법총론 제3판》 출간</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/20240301_이주원 교수 형법총론.jpeg" alt="20240301_이주원 교수 형법총론.jpeg" style="width: 320px; height: 462px;" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7909"&gt;이주원&lt;/span&gt;(59·사법연수원 21기) 고려대 로스쿨 교수가 최근 《형법총론 제3판》(박영사 펴냄)을 냈다. 이번 개정판에서는 바뀐 법령과 새 판례를 반영하고, 도표 등을 추가·보완했다. 이 교수는 2022년 초판 이래 매년 개정판을 내고 있다. &lt;br /&gt;&lt;br /&gt;이 교수는 책 머리말에서 “형법을 처음 배우는 학생의 심정을 십분 헤아려, 가급적 통설과 판례에 따라 ‘중요한 기본법리에 대한 알기 쉬운 이해’를 돕고자 했다”며 “명확한 이해를 위해 무엇보다 ‘서술의 명료성과 정확성’에 중점을 두었다. 나아가 이론적 측면에서는 ‘도그마틱의 엄격성’을 견지하고자 했고, 실무적 측면에서는 책임론과 공범론, 특히 죄수론 및 형벌론 부분의 보강에 주력하였다”고 했다. &lt;br /&gt;&lt;br /&gt;이번 개정판에는 최근 2023년 8월 8일 일부 개정된 형법 내용인 ‘사형의 집행시효 폐지’·‘영아살해·영아유기죄 폐지’와 그간 선고된 ‘정당방위의 현재성 완화’, ‘정당행위 요건의 상호관계’ 등 주요 형법판례가 반영됐다. 최신 판례로는 2024년 1월 15일까지 선고된 대법원 판례 및 헌법재판소 결정이 추가됐다. 아울러 형법 제1조 제2항의 ‘법률의 변경’의 해석과 관련해 판례의 ‘한시법의 추급효 인정’ 문제에 대한 분석과 비판을 추가하는 등 서술 내용을 보완했다. &lt;br /&gt;&lt;br /&gt;이 교수는 강릉고와 서울대 법대를 나왔다. 1989년 제31회 사법시험에 합격하고, 사법연수원과 군법무관 복무를 거쳐 1995년 청주지법 판사로 임관했다. 이후 서울고법 판사, 대법원 재판연구관, 광주지법 부장판사 등을 지냈다. 2008년부터 고려대 교수로 재직 중이며, 대법원 양형위원회 위원, 대법원 국선변호정책심의위원회 위원 등을 역임했다. 현재 한국형사법학회 수석부회장(차기회장)을 맡고 있다. &lt;br /&gt;</description>
 			<pubDate>Sun, 03 Mar 2024 05:28:54 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/196384</link>
@@ -221,26 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196361</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/대법원5.jpg</media:thumbnail>
 			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>세계한인변호사회, 2024 'Spring Reception' 성료</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;div class="cheditor-caption-wrapper"&gt;      &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 300px;"&gt;&lt;/figure&gt;      &lt;/div&gt;   &lt;p style="text-align: center;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/20240228_IAKL_Spring Reception.jpg" alt="20240228_IAKL_Spring Reception.jpg" /&gt;   &lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p style="text-align: left;"&gt;세계한인법률가회(IAKL, 회장 김권회)가 27일 용산구 이태원동 몬드리안 서울 호텔에서 '봄 리셉션' 행사를 성료했다.&lt;/p&gt;   &lt;p style="text-align: left;"&gt;      &lt;br /&gt;   &lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p style="text-align: left;"&gt;이날&amp;nbsp;&lt;span class="lawmanlink" serial="3671" style="font-weight: bold;"&gt;김권회&lt;/span&gt;(59·사법연수원 20기) 회장의 환영사에 이어 이상경 법학전문대학원협의회 이사장이 축사했다.&lt;/p&gt;   &lt;p style="text-align: left;"&gt;      &lt;br /&gt;   &lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p style="text-align: left;"&gt;또 이자형 국제해양법재판소 재판관의 기조연설에 이어&amp;nbsp;&lt;span class="lawmanlink" serial="32148" style="font-weight: bold;"&gt;김정욱&lt;/span&gt;(45·변호사시험 2회) 서울지방변호사회 회장이 건배사를 했다.&lt;/p&gt;   &lt;p style="text-align: left;"&gt;      &lt;br /&gt;   &lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p style="text-align: left;"&gt;이어진 정기총회에서 차기 IAKL Korea 회장 후보에&amp;nbsp;&lt;span class="lawmanlink" serial="5897" style="font-weight: bold;"&gt;조영희&lt;/span&gt;(55·27기) 법무법인 엘에이비파트너스 변호사가 올랐다. 또 IAKL의 정관상 사업 목적에 '전 세계 한인 및 사회적 약자를 위한 지원 사업', '전 세계 한인 법률가 지원 및 예비법률가 장학 사업' 등이 추가되는 등 정관이 일부 변경됐다.&lt;/p&gt;   &lt;p style="text-align: left;"&gt;      &lt;br /&gt;   &lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p style="text-align: left;"&gt;회원 및 법조인들의 친목 도모와 네트워킹을 마지막으로 행사가 마무리됐다.&lt;/p&gt;   &lt;/div&gt;</description>
-			<pubDate>Thu, 29 Feb 2024 09:51:32 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196366</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196366</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/20240228_IAKL_Spring Reception.jpg</media:thumbnail>
-			<dc:creator>홍수정 기자</dc:creator>
-		</item>
-		<item>
-			<title>檢, '민주당 돈봉투' 임종성·허종식 불구속 기소..."나머지 계속 수사할 것"</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="http://image.lawtimes.co.kr/images/검찰2(7).jpg" alt="검찰2.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;더불어민주당 전당대회 돈봉투 살포 사건을 수사 중인 검찰이 허종식 민주당 의원과 임종성 전 의원을 재판에 넘겼다. 검찰은 다른 수수 의원들에 대해서도 조사를 계속 진행하겠다고 밝혔다.&lt;br /&gt;&lt;br /&gt;서울중앙지검 반부패수사2부(부장검사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11669"&gt;최재훈&lt;/span&gt;)는 29일 허 의원과 임 전 의원을 각각 정당법 위반 혐의로 불구속 기소했다. 이미 구속기소 돼 1심에서 실형을 선고받은 무소속 윤관석 의원도 이들에게 돈봉투를 나눠준 혐의로 추가 기소했다.&lt;br /&gt;&lt;br /&gt;검찰에 따르면 허 의원과 임 전 의원은 2021년 4월 28일 국회 본관 외교통일위원회 소회의실에서 열린 '송영길 지지 국회의원 모임'에 참석해 윤 의원으로부터 300만 원이 든 돈봉투 1개씩 받은 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;윤 의원은 지난 7일 기소된 이성만 의원과 허 의원, 임 전 의원에게 돈봉투 1개씩 총 900만 원을 건넨 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;이날 서울중앙지검 관계자는 기자들과 만나 "수사를 통해 혐의 사실 입증을 위한 인적·물적 증거를 확보했고 피의자들의 변소 내용을 확인하는 등 수사절차가 마무리된 점을 고려해 기소했다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;이어 "분명히 말하지만 그외 나머지 수수의원에 대해서도 계속 출석을 요구하고 수사 진행할 예정"이라고 강조했다.&lt;br /&gt;&lt;br /&gt;한편 김건희 여사의 도이치모터스 주가조작 사건과 관련해서 이 관계자는 "구체적 사안을 직접 말하기는 어렵다"며 "수사상황에 맞춰 순차적으로 진행하고 있다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;김 여사에 대한 소환 조사 필요성에 대해서는 "수사 상황과 관련된 것이라 답하기 어렵다"고 말했다.</description>
-			<pubDate>Thu, 29 Feb 2024 09:49:10 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196362</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196362</guid>
-			<media:thumbnail>http://image.lawtimes.co.kr/images/검찰2(7).jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
