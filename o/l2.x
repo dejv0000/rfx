@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/opinion</link>
 		<language>ko</language>
 		<item>
+			<title>박성호의 지재공방 : 부정경쟁방지법 제2조 제1호 ‘파’목의 부작용을 해결할 수 있는 구체적 실천 방안</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/2023n_jije_park.jpg" alt="2022_jije_park.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;div style="margin-bottom:15px; padding:15px; background-color:#fdf3d8"&gt;&lt;b&gt;지적재산법과 독점규제법이 상호 관련된 주제로 학위를 받은 일군(一群)의 지적재산법 연구자들과 독점규제법 학자들이 머리를 맞대고 부정경쟁방지법 제2조 제1호 ‘파’목의 부작용을 막을 수 있도록 독점규제법 제45조 제1항 제10호와 관련된 법시행령을 마련하는데 지혜를 모아야 한다.&lt;/b&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;흔히 “부정경쟁방지법과 독점규제법은 자동차의 두 바퀴처럼 상호 보완적으로 공정한 경쟁질서의 확립을 위하여 전자는 사법적 규제를, 후자는 공법적 규제를 중심으로 역할을 맡고 있다”고 설명한다. 이는 부정경쟁방지법 연구자로 유명한 일본의 오노쇼엔(小野昌延) 변호사가 일반조항의 도입 문제를 거론한 1989년 한 논문에서 사용한 표현이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;그런데 부정경쟁방지법은 ‘산업재산의 보호를 위한 파리협약’ 제10조의2에서 규정하는 산업재산으로서 그 보호대상이기도 하다. 부정경쟁방지법은 좁은 의미의 지적재산법(특허법·저작권법 등)을 보완하는 넓은 의미의 지적재산법에 속한다. 본질적으로 민법상 불법행위법의 특별법적 성격을 띨 수밖에 없다. 그러한 까닭에 부정경쟁방지법에서 ‘경쟁의 보호’ 그 자체는 언제나 부차적인 역할에 머물고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;연혁적으로 보더라도 우리 부정경쟁방지법은 1961년에, 독점규제법은 1980년에 제정되었다. 두 법률이 다른 시기에 만들어졌다는 것은 그 입법 당시에 요구되는 서로 다른 경쟁 정책을 배경으로 각각의 법률이 제정되었다는 것을 뜻한다. 입법 당시의 ‘시대적 한계’가 담겨 있기 마련이다. 후대의 법률가들은 이 점을 소홀히 해서는 안 된다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;더구나 우리 부정경쟁방지법의 경우는 멀게는 독일의 1896년 및 1909년 부정경쟁방지법을, 가깝게는 일본의 1934년 부정경쟁방지법을 그 연원(淵源)으로 한다. 독일의 1909년 부정경쟁방지법 제1조의 일반조항은 우리 부정경쟁방지법 제2조 제1호 ‘파’목의 해석론에 많은 참조가 될 수 있었음에도, 일부 하급심(서울고등법원 2017. 1. 12. 선고 2015나2063761 판결 등)을 제외하고는 그렇게 하지 않았다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;그 결과 2013년 신설된 보충적 일반조항(현행 ‘파’목)은 늘 확대 적용의 위험성이 있었고 실제로 그렇게 된 사안들도 존재한다. 이는 지적재산법 체계가 지금까지 형성해 온 모든 ‘게임의 규칙’을 무너뜨리는 결과를 초래하였다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이처럼 보충적 일반조항을 통한 부정경쟁방지법의 확대 적용은 필연적으로 독점규제법상 보호되어야 마땅한 ‘경쟁의 자유를 실현하는 행위’까지도 부정경쟁방지법의 규제대상으로 오인하게 만들었다. 그리하여 ‘불편한 경쟁’이나 ‘비능률 경쟁’ 혹은 ‘원하지 않는 경쟁’을 부정경쟁행위로 낙인찍기 위한 시도가 이루어졌다. 이른바 ‘눈알가방’ 사건(대법원 2020. 7. 9. 선고 2017다21784 판결)처럼 이러한 시도가 성공한 케이스도 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;지난 칼럼에서 독점규제법 제45조 제1항 제10호와 관련하여 법시행령에 세부적인 금지유형을 새롭게 규정한다면 ‘파’목의 부작용을 해소할 수 있는 돌파구를 발견할 수 있을 것이라고 썼다. 대법원 2008. 2. 14. 선고 2005두1879 판결이 위 제10호에 대해 “법시행령으로 정하여 규제할 수 있도록 한 수권규정”이라고 해석했기 때문이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;어쨌든 ‘파’목으로 인한 문제점은 부정경쟁방지법과 독점규제법의 교차 영역에서 발생한 것이다. 국내 지적재산법 연구자들 중 상당수는 지적재산법과 독점규제법이 상호 관련된 주제로 학위를 받은 학자들이다. 이러한 일군(一群)의 지적재산법 연구자들과 독점규제법 학자들이 머리를 맞대고 ‘파’목의 부작용을 막을 수 있도록 위 제10호와 관련된 법시행령을 마련하는 데 지혜를 모았으면 한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;b&gt;박성호 교수(한양대 로스쿨)&amp;nbsp;&lt;/b&gt;&lt;/p&gt;</description>
+			<pubDate>Tue, 05 Mar 2024 20:42:34 -0000</pubDate>
+			<category>opinion</category>
+			<link>https://www.lawtimes.co.kr/opinion/196427</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/196427</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/2023n_jije_park.jpg</media:thumbnail>
+			<dc:creator>박성호</dc:creator>
+		</item>
+		<item>
 			<title>서초포럼 : 인천고등법원 설치 청원에 대하여 - 인천고등법원 설치 청원은&lt;br&gt;
 법원 안팎에서도 모두 공감&lt;br&gt;
 서울고등법원의 사건 적체와&lt;br&gt;
@@ -55,16 +65,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/196222</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/2023_withnewlaw_oh.jpg</media:thumbnail>
 			<dc:creator>오영나</dc:creator>
-		</item>
-		<item>
-			<title>박성호의 지재공방 : (61) 부정경쟁방지법 제2조 제1호 (파)목의 문제점과 독점규제법을 통한 해결 방안의 모색</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/2023n_jije_park.jpg" alt="2022_jije_park.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;div style="margin-bottom:15px; padding:15px; background-color:#fdf3d8"&gt;&lt;b&gt;독점규제법이라는 프리즘을 통해 부정경쟁방지법 (파)목이 초래할지 모르는 부작용을 관찰하고 그 치유책을 찾아볼 필요가 있다. 독점규제법 제45조 제1항 제10호와 관련하여 법시행령에 세부적인 금지유형을 새롭게 규정한다면, (파)목의 부작용을 해소할 수 있는 뜻밖의 돌파구가 마련될 수도 있다.&lt;/b&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;만일 부정경쟁방지법 제2조 제1호 (파)목의 적용이 ‘이마의 땀(sweat of the brow) 이론’을 재소환하고 기존 지적재산권법 체계를 허물어뜨리게 된다면 어떻게 해야 할까?&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;먼저 (파)목을 삭제하여 예전의 한정적 열거주의로 되돌아가야 한다. 아니면 위법성 판단을 엄격하게 할 수 있도록 ‘특별한 사정’이 있는 경우에 (파)목이 적용된다고 개정해야 한다. 물론 어느 쪽이나 쉬운 일은 아니다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;다음으로 생각해 볼 수 있는 것은 독점규제법의 개입이다. ‘이마의 땀’이 시사하듯 ‘노동이론’에 입각하여 선행기업의 ‘노력’을 보호하려는 시도는 일정한 상황 아래에서 후발주자의 시장 진입을 방해하는 결과로 이어질 수 있다. 지적재산권법과 독점규제법이 교차하는 영역에서 발생하는 법률문제에 대해서는 독점규제법의 관여가 불가피하다. 그렇다면 독점규제법의 관점에서 (파)목의 적용 한계를 설정하여 문제 해결을 시도해 볼 수 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이때 주목할 것은 부정경쟁방지법 제15조 제2항과 독점규제법 제117조이다. 앞의 것은 독점규제법에 (파)목 등의 부정경쟁행위와 다른 규정이 있으면 독점규제법에 따라야 한다고 규정한다. 뒤의 것은 독점규제법은 저작권법·특허법·실용신안법·디자인보호법·상표법에 따른 권리의 정당한 행사로 인정되는 행위에 적용하지 않는다고 규정한다. 부정경쟁방지법은 빠져 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;물론 지적재산권의 적용범위를 획정(劃定)하는 문제는 법률로만 정해지는 것은 아니다. 일정한 시대마다 독점규제법에 따른 경쟁정책(競爭政策)과 기술발전의 정도를 반영하면서 형성되는 판례와 학설들에 의해서도 영향을 받는다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;비교법제사의 관점에서 보더라도 독점규제 정책은 독점규제를 강화하거나 완화하는 입법이 교차하면서 변화하여 왔다. 전자는 필연적으로 ‘anti-patent’로 대표되는 ‘지재권 약화’의 흐름으로 이어지고, 후자는 ‘pro-patent’로 상징되는 ‘지재권 강화’의 움직임으로 연결된다. 특정 시대의 경쟁정책과 기술발전의 정도에 따라 지재권 약화 혹은 강화의 흐름이 반복된다. 대표적 사례로 미국을 들 수 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;미국은 1865년 ‘남북전쟁’ 직후부터 1930년 ‘세계대공황’에 이르는 기간 동안 ‘지재권 강화’ 정책을 펼쳤지만, 그 이후부터 1970년대 후반까지는 ‘지재권 경시’ 정책을 추진해 왔다. 그러다가 1980년 레이건 행정부부터 오늘날까지 ‘지재권 강화’ 정책을 취하고 있다. 다만, Bilski v. Kappos, 561 U.S. 593 (2010) 사건을 계기로 지재권 강화의 흐름이 일부 완화되거나 변화하는 조짐을 보이고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;오늘날의 ‘지재권 강화’ 정책은 미국의 사례에서 보듯이 돌이킬 수 없는 시대적 흐름이 아니다. 오히려 기후위기 시대를 지혜롭게 헤쳐 나가기 위해서는 ‘지재권 약화’ 정책이 요구된다(〈지재공방〉 2023년 1월 5일자 “기후위기를 헤쳐 나가는 지재법의 자세” 참조). 이러한 방향은 ESG가 추구하는 ‘지속 가능한 발전’과도 부합한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;어쨌든 독점규제법이라는 프리즘을 통해 부정경쟁방지법 (파)목이 초래할지 모르는 부작용을 관찰하고 그 치유책을 찾아볼 필요가 있다. 독점규제법 제45조 제1항 제10호와 관련하여 법시행령에 세부적인 금지유형을 새롭게 규정한다면, (파)목의 부작용을 해소할 수 있는 뜻밖의 돌파구가 마련될 수도 있다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;b&gt;박성호 교수(한양대 로스쿨)&lt;/b&gt;&lt;br /&gt;</description>
-			<pubDate>Wed, 28 Feb 2024 07:43:12 -0000</pubDate>
-			<category>opinion</category>
-			<link>https://www.lawtimes.co.kr/opinion/196239</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/196239</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/2023n_jije_park.jpg</media:thumbnail>
-			<dc:creator>박성호</dc:creator>
 		</item>
 		<item>
 			<title>이재홍의 판결 &amp; 사법제도 이야기 : (6) 익숙한 법리에 대한 질문과 도전 - 법률과 판례를 인식·암기하는 데 그치지 말고,&lt;br&gt;
