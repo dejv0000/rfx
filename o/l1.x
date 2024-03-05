@@ -6,6 +6,56 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>조정욱 변호사 등 방통위 통신분쟁조정위원 추가 위촉</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/196469.jpg" alt="196469.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;왼쪽부터 조정욱 변호사, 장정애 교수, 이윤남 변호사&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;방송통신위원회(위원장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1667"&gt;김홍일&lt;/span&gt;)는 지난달 27일 제3기 통신분쟁조정위원회 위원을 추가로 위촉했다.&lt;p&gt;&lt;br /&gt;위촉된 위원은 법조, 회계, 소비자단체 등 전문가들로&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5850"&gt;조정욱&lt;/span&gt;(52·사법연수원 27기) 법무법인 강호 대표변호사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9892"&gt;이윤남&lt;/span&gt;(49·32기) 법무법인 태평양 변호사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7112"&gt;장정애&lt;/span&gt;(54·31기) 아주대 로스쿨 교수, 나종연 서울대 소비자학과 교수, 이혜련 하늘 회계법인 회계사, 이정수 한국소비자단체협의회 사무총장 등 6명이다. 위원은 전기통신사업자와 이용자 사이에 발생한 분쟁을 조정하는 역할을 수행한다. 임기는 2026년 2월까지 2년이다.   &lt;/p&gt;&lt;p&gt;&lt;br /&gt;이번 통신분쟁조정위원회 위원 추가 위촉은 위원을 확대하도록 한 전기통신사업법 개정에 따른 것이다.   &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Tue, 05 Mar 2024 06:20:23 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196469</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196469</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/196469.jpg</media:thumbnail>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title>정부법무공단, '인권경영 선포식' 열어</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/196467.jpg" alt="196467.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;정부법무공단(이사장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6542"&gt;조희진&lt;/span&gt;)이 5일 오전 10시 서울 강남구 대치동 정부법무공단 청사 대회의실에서 ‘인권경영 선포식’을 열었다. 이날 행사에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6542"&gt;조희진&lt;/span&gt;(62·사법연수원 19기) 정부법무공단 이사장과 공단 부서장들, 노사협의회 위원들이 참석했다.&lt;br /&gt;&lt;br /&gt;조 이사장은 '인권경영 실현을 위한 선언문'을 모든 참석자들과 함께 낭독했다. 그는 "공단 구성원들이 차별 없이 공정하게 일할 수 있는 행복한 일터를 만들기 위해 앞장서겠다"며 각오를 다짐했다.&lt;br /&gt;&lt;br /&gt;지난해 정부법무공단 이사장으로 취임한 조 이사장은 특히 환경, 인권 등 분야에서 구체적으로 실천 방안을 도입하고 있다. 이번 인권경영 선언도 그 일환이다. 선언문에는 '인권에 대한 국제기준 및 규범을 존중하고 지지한다' '고용, 승진, 제반 업무 처리에 있어 인종, 종교, 장애, 성별, 출생지, 정치적 견해 등을 이유로 차별하지 않는다' 등이 명시됐다.</description>
+			<pubDate>Tue, 05 Mar 2024 06:11:05 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196467</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196467</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/196467.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
+			<title>렉시스넥시스, 8일 '렉시스플러스 AI' 사전 런칭 행사 개최</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/196463.jpg" alt="196463.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;글로벌 법률정보 기업 '렉시스넥시스(한국지사 대표 이혁수)'가 8일 오전 9시 서울 서초구 JW 메리어트 서울 살롱 4에서 '렉시스플러스(Lexis+) AI' 사전 런칭 행사를 개최한다.&lt;p&gt;&amp;nbsp;   &lt;p&gt;지난해 10월 미국에서 출시된 렉시스플러스 AI는 법률정보와 자료를 총체적으로 학습한 법률전문 생성형 인공지능(AI)이다. 이번 런칭 행사는 이달 한국 출시를 앞두고 마련됐다. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;   &lt;p&gt;렉시스플러스 AI는 미국의 판결문, 법령, 주석서 등을 폭넓게 탑재했다. AI와의 대화 기능을 이용한 법률해설, 판례, 법률논문, 법률저널 등에 대한 검색과 법률 콘텐츠 생성도 가능하다. 법률 리서치뿐 아니라 △법률 문서 요약 및 분석 △법률 문서 초안 작성 △업로드 파일에 대한 분석 및 질문도 가능하다. 또 관련 판례와 근거 카테고리에서는 적용 법률과 판례에 대한 링크를 제공해 사용자가 근거 법률과 판결 전문을 확인할 수 있다. 적용 법률과 판례에 대한 정보는 렉시스넥시스의 데이터를 통해 제공된다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;   &lt;p&gt;관계자는 "렉시스플러스 AI는 세계 최초로 생성형 AI 기술이 적용된 리걸테크 솔루션으로 벌써부터 국내에서도 많은 기대와 관심을 받고 있다"며 "기술적 진보와 혁신의 순간을 함께 나누고자 한다"고 밝혔다.&lt;/p&gt;   &lt;/p&gt;</description>
+			<pubDate>Tue, 05 Mar 2024 06:04:24 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196463</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196463</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/196463.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
+			<title>美 연방대법원, 트럼프 대선 출마자격 유지…대권 재도전 길 열려</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/196406.jpg" alt="196406.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;미국 연방대법원이 4일(현지시간) 공화당 대선 주자인 도널드 트럼프 전 미국 대통령의 출마 자격 유지를 만장일치로 결정했다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이날 미 대법원은 앞서 트럼프 전 대통령의 출마 자격을 박탈한 콜로라도 주(洲) 대법원 판결을 뒤집었다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;미 대법원은 헌법은 개별 주에 연방 업무에 출마하는 대선 후보의 자격 박탈권을 허락하지 않았다면서, 이 같은 책임은 주가 아닌 의회에 귀속된다고 판시했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;다만 출마 자격 박탈의 이유가 됐던 내란죄 연계 문제에 대해서는 별도의 판단을 내리지 않았다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;콜로라도 주를 포함한 15개주에서 일제히 경선이 치러지는 '슈퍼 화요일'을 하루 앞두고 이 같은 결정이 나옴에 따라 트럼프 전 대통령은 대선 가도를 막고 있던 장애물을 해결하게 됐다. 워싱턴포스트(WP)는 "이번 판결로 트럼프 전 대통령은 공화당 유력 경선 주자로서 지위를 유지하게 됐다"고 전했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;미 대법원은 트럼프 전 대통령 시절 임명된 3명의 보수 성향 대법관을 비롯해 6 대 3의 보수 우위로 구성된 상태다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;앞서 콜로라도 주 대법원은 트럼프 전 대통령이 '대선 사기' 주장으로 지지자들을 선동해 2021년 1월 6일 의회에 난입하도록 한 것을 반란 가담 행위라고 판단, 콜로라도 경선 투표용지에서 그의 이름을 제외하라고 판결했다. 헌법을 지지하기로 맹세했던 공직자가 모반이나 반란에 가담할 경우 다시 공직을 맡지 못한다고 규정한 헌법 제14조 제3항을 적용한 판결이다. 트럼프 전 대통령은 이에 불복해 연방대법원에 상소했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;트럼프 전 대통령은 전날 워싱턴 DC 공화당 코커스(당원대회)에서 니키 헤일리 전 유엔 대사에게 처음으로 패배했으나 이달 중 무난히 공화당 대선 후보 자리를 확정할 것으로 전망된다.&lt;/p&gt;</description>
+			<pubDate>Tue, 05 Mar 2024 05:25:48 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196465</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196465</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/196406.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
+			<title>헌재 "단기·아파트 임대사업자 폐지는 합헌"</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/헌법재판소(1).jpg" alt="헌법재판소.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;문재인 정부 시절 '7·10 부동산 대책'에 따른 4년 단기 임대사업자 및 아파트 장기 임대사업자 폐지가 헌법에 어긋나지 않는다는 헌법재판소 판단이 나왔다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;헌재는 2월 28일 A 씨 등이 "민간임대주택에 관한 특별법 제6조 제5항 등은 위헌"이라며 청구한 헌법소원 사건(&lt;b&gt;2020헌마1482&lt;/b&gt;)에서 재판관 전원일치 의견으로 기각 결정했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;임대등록제도란 임대인이 자발적으로 민간 임대사업자로 등록하면, 임대 기간 보장·임대료 인상률 제한 등 공적 규제를 적용받는 대신 폭넓은 세제 혜택을 부여하는 제도다. 임대의무기간에 따라 단기(4년)와 장기(8년)로 구분됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;하지만 도입 취지와 달리 투기 수요가 유입된다는 비판과 함께 임대사업자에게 과도한 특혜를 준다는 여론이 커지자, 정부는 2020년 7월 이를 상당 부분 폐지하기로 했다. 장기임대 중 아파트 매입 임대와 단기임대는 신규 등록을 받지 않고, 기존 사업자들도 임대의무기간이 종료되면 등록을 자동으로 말소하도록 한 것이다. 단기 임대의 장기 임대 전환도 금지했다. 이에 A 씨 등은 "이 제도가 재산권을 침해한다"며 헌법소원을 냈다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;헌재는 "임대사업자 제도는 민간임대주택의 공급을 촉진하고 임차인의 주거 안정을 보장하기 위한 공익적 성격이 강하다"며 "임대사업자 제도를 어떻게 형성하고 운용할 것인지는 사회적·경제적 상황을 고려해 입법자가 정책적으로 결정할 사항에 해당한다"고 판단했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이어 "국가는 주택 임대차 시장 상황과 국민의 주거 안정 개선 필요성, 임대사업자 제도가 주택시장 전반에 미치는 영향을 고려해 새로운 법적 규율을 가할 수 있다"며 "전월세 상한제와 계약갱신요구권 도입을 위한 입법 논의에 따라 민간임대주택법상 민간임대주택과 주택임대차보호법상 일반 임대주택 간 차별성이 희박해지자 기존 제도의 개편 필요성도 제기됐는데, 이에 따라 단기민간임대주택 및 아파트 장기일반민간임대주택을 폐지하는 등의 입법이 이뤄질 수 있다는 점에 대해 예측할 수 없었다고 보기 어렵다"고 설명했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;아울러 "청구인들의 신뢰가 침해받는 정도는 임대주택제도의 개편 필요성, 주택시장 안정화 및 임차인의 장기적·안정적인 주거 환경 보장과 같은 공익에 비해 크다고 할 수 없다"고 덧붙였다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;A 씨 등은 부동산 대책 발표 이후 장기임대주택으로 변경 신고한 주택을 세제 혜택에서 배제한 소득세법·종합부동산세법 시행령도 위헌이라고 주장했지만, 헌재는 재판관 전원일치 의견으로 각하했다. 헌재는 "A 씨 등에 대한 기본권 침해는 구체적인 과세처분 등을 통해 현실화되기 때문에 세제 혜택 배제 조항이 A 씨 등의 기본권을 직접 침해하지 않아 심판 청구 자체가 부적법하다"고 봤다.&lt;/p&gt;</description>
+			<pubDate>Tue, 05 Mar 2024 05:23:44 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196457</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196457</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/헌법재판소(1).jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
 			<title>프랑스, 헌법에 '낙태할 자유' 못박았다...세계 최초</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/196453.jpg" alt="196453.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;프랑스 의회가 4일(현지 시각) 여성의 낙태할 자유를 명시한 헌법 개정안을 승인했다. 전 세계에서 최초로 헌법으로 낙태할 자유를 보장하는 나라가 됐다.&lt;p&gt;&lt;br /&gt;프랑스 상원과 하원은 이날 파리 외곽 베르사유궁전에서 합동회의를 열어 헌법 개정안을 표결해 찬성 780표, 반대 72표로 가결 처리했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;표결에는 양원 전체 의원 925명 가운데 902명이 참석했다. 개헌에 반대했던 제라르 라셰 상원 의장 등 50명은 기권했다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;양원 합동회의에서 헌법 개정안을 통과시키려면 유효표(852표)의 5분의 3 이상이 찬성해야 하는데, 이날 찬성표는 의결 정족수인 512명을 훨씬 초과했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;개헌에 따라 프랑스 헌법 제34조에는 '여성이 자발적으로 임신을 중단할 수 있는 자유가 보장되는 조건을 법으로 정한다'는 조항이 추가됐다. 헌법에 여성의 자기 결정권이 명문화된 것이다. 다만 프랑스에서는 1975년부터 낙태가 허용되고 있어 이번 개헌을 계기로 실질적으로 바뀌는 조치는 없다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;에마뉘엘 마크롱 대통령은 투표 결과 발표 직후 엑스(X·구 트위터)에 "프랑스의 자부심, 전 세계에 보내는 메시지"라고 평가했다. 오는 8일 세계 여성의 날엔 헌법 국새 날인식을 공개적으로 열어 축하할 방침이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;프랑스는 2022년 6월 미국 연방대법원이 임신 약 24주까지 낙태를 허용한 1973년의 '로 대 웨이드' 판결을 폐기하자 낙태권을 헌법에 명시해 되돌릴 수 없는 권리로 만드는 것을 추진했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;2022년 11월 하원에서 낙태할 권리를 명시한 의원 발의 개헌안을 승인했지만 3개월 뒤 상원에서 '권리'가 '자유'로 수정된 안이 통과돼 헌법 개정에 실패했다. 헌법을 개정하려면 양원이 동일 문구의 개헌안을 의결해야 한다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;마크롱 정부는 결국 직접 개헌을 주도하기로 하고 '낙태할 자유 보장'이라는 절충 문구로 개헌안을 발의해 상·하원을 설득하는 데 성공했다.&lt;/p&gt;</description>
 			<pubDate>Tue, 05 Mar 2024 01:25:02 -0000</pubDate>
@@ -62,6 +112,16 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196449</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/법원_깃발(4).jpg</media:thumbnail>
 			<dc:creator>홍수정 기자</dc:creator>
+		</item>
+		<item>
+			<title>헌재, "'주52시간제'는 합헌"</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/헌법재판소2.jpg" alt="헌법재판소2.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;주당 최대 노동시간을 52시간으로 제한하는 근로기준법 조항은 헌법에 어긋나지 않는다는 헌법재판소 결정이 나왔다. 사용자와 근로자가 주 52시간 상한제로 인해 계약의 자유와 직업의 자유에 제한을 받기는 하지만, 오랜 시간 누적된 장시간 노동의 문제를 해결해야 할 필요성은 더 크다고 판단한 것이다.&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;헌재는 2월 28일 사업주와 근로자들인 A 씨 등이 "근로기준법 제53조 제1항 등은 위헌"이라며 낸 헌법소원 사건(&lt;b&gt;2019헌마500&lt;/b&gt;)에서 재판관 전원일치 의견으로 기각 결정했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;헌재는 "주 52시간 상한제는 사용자와 근로자가 근로 시간에 관해 자유롭게 계약할 수 있는 자유를 제한하고 사용자의 직업의 자유를 제한한다"면서도 "하지만 주 52시간 상한제조항은 실근로시간을 단축시키고 휴일근로를 억제 근로자에게 휴식시간을 실질적으로 보장함으로써 근로자의 건강과 안전을 보호하기 위한 것으로 그 입법목적은 정당하고 입법목적에 적합한 수단"이라고 판단했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이어 "한국의 장시간 노동 문제는 세계적으로 심각한 수준으로 알려져 있고, 입법자는 장시간 노동 문제가 구조화됐다고 보고 사용자와 근로자 사이의 합의로 주 52시간 상한을 초과할 수 없다고 판단했는데 이러한 입법자의 판단이 현저히 합리성을 결여했다고 볼 수 없다"며 "이 조항은 과잉금지원칙에 반하여 사용자와 근로자의 계약의 자유와 사용자의 직업의 자유를 침해하지 않는다"고 설명했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;한편 헌재는 고용노동부 장관이 최저임금위원회의 안에 따라 최저임금을 결정하도록 한 최저임금법 제8조 제1항 등과 관련해 A 씨 등이 청구한 나머지 심판청구를 재판관 전원일치 의견으로 각하했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;헌재는 "최저임금법령조항은 그 자체로 청구인들의 기본권에 불리한 영향을 미치지 않거나 청구인들의 기본권을 직접 침해하지 않으므로 이 부분 심판청구는 부적법하다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;각하란 소송 요건을 제대로 갖추지 않으면 본안을 판단하지 않고 재판 절차를 끝내는 것을 뜻한다.&lt;/p&gt;</description>
+			<pubDate>Mon, 04 Mar 2024 09:32:58 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196428</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196428</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/헌법재판소2.jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
 		</item>
 		<item>
 			<title>헌재, "'주52시간제'는 합헌"</title>
@@ -179,65 +239,6 @@
 			<link>https://www.lawtimes.co.kr/news/196404</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196404</guid>
 			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] "엄마 명의 빌렸을 뿐 아파트 실소유주는 본인" 주장했으나…법원 "상속세 부과 정당"</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/196402.gif" alt="196402.gif" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;어머니가 사망 전 증여한 아파트 매매대금에 거액의 상속세가 부과되자 자녀가 '모친의 이름만 빌렸을 뿐 실소유주는 자신'이라며 소송을 냈지만 1심에서 패소했다.&lt;p&gt;&amp;nbsp;  &lt;br /&gt;3일 법조에 따르면 서울행정법원 행정5부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2881"&gt;김순열&amp;nbsp;&lt;/span&gt;부장판사)는 A 씨가 안양세무서와 동작세무서를 상대로 제기한 상속세부과처분 취소소송에서 지난해 11월 30일 원고패소 판결했다(&lt;b&gt;2023구합51779&lt;/b&gt;).&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;A 씨는 어머니 B 씨가 사망한 뒤인 2020년 5월 상속세로 1746만 원을 신고했다. 하지만 과세당국은 A 씨에게 사전증여재산이 있다며 2021년 11월 상속세와 가산세 약 1억 원을 더 부과했다. 조사 결과 B 씨가 아파트 매각대금 중 3억3600만 원을 자녀 및 손자녀에게 증여한 사실이 드러났기 때문이다. 또 세입자들로부터 임대차보증금 등으로 받은 5000만 원 상당의 수표를 자녀에게 전달한 것으로 조사됐다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;재판에서 A 씨는 "아파트를 모친 명의로 취득했을 뿐(명의신탁)"이라며 "매매대금과 수표는 고유재산이며 사전증여재산에 해당하지 않는다"고 주장했다. 실제로 A 씨는 2013년 자신이 소유하던 서울 소재 아파트에 대한 권리의무승계 계약서를 작성해 B 씨 앞으로 소유권 이전등기를 마쳤다. B 씨는 2017년 해당 아파트를 매도하고 3억7500만 원을 매매대금으로 받았다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;법원은 A 씨의 주장을 받아들이지 않았다. 재판부는 "B 씨가 소유권 이전등기를 마쳐 특별한 사정이 없으면 부동산은 B 씨가 소유했던 것으로 추정된다"며 "명의신탁을 인정할 만한 증거 또한 없다"고 판단했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이어 "원고(A 씨)는 고령의 모친인 피상속인을 도와 부동산 임차 등의 업무를 수행하기 위해 편의상 위와 같은 소유권이전등기를 마친 것으로 보이고, 달리 원고가 위 부동산에 관하여 소유권을 보유하고 있었다고 볼 만한 증거가 없다"고 했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;법원은 또 아파트가 A 씨의 재산임에도 불구하고 매매대금이 자신의 형제자매나 자녀들에게 입금된 점에 대해 A 씨가 해명하지 못했다고 판단했다. 재판부는 "B 씨의 계좌에서 수표 및 현금이 인출돼 그 중 대부분이 자녀 및 손자녀에게 귀속됐다"며 "원고는 이 사건 부동산 매각대금의 상당 부분이 원고 이외의 사람에게 귀속된 이유에 대해 납득할 만한 설명을 하지 못하고 있다"고 짚었다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;A 씨는 1심 판결에 불복해 항소를 제기했다.&lt;br /&gt;&lt;/p&gt;</description>
-			<pubDate>Sun, 03 Mar 2024 11:17:12 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196402</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196402</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/196402.gif</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] "돈 안주면 환경오염으로 신고" 상습공갈 사이비 기자 실형</title>
-			<description>&lt;p&gt;공사 현장을 돌며 금품을 주지 않으면 환경오염 문제를 신고하겠다며 상습적으로 공갈한 언론인에게 법원이 실형을 선고했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;3일 법조계에 따르면 수원지법 형사11부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9866"&gt;신진우&amp;nbsp;&lt;/span&gt;부장판사)는 상습공갈 혐의로 기소된 A(58) 씨에게 징역 3년을 선고했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;재판부는 "이 사건 범행은 피고인이 '환경기자'임을 자처하면서 건축 현장의 관리자에게 접근해 돈을 주지 않으면 공사 현장에 대해 민원을 제기하는 등 불이익을 가할 수 있다는 취지로 겁을 줘 상습적으로 금품을 갈취한 사안"이라며 "피고인은 동종범행으로 실형 5회, 징역형 집행유예 1회 처벌받은 전력이 있음에도 불구하고 다시 이 사건 범행에 이르렀다"고 지적헀다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이어 "제대로 된 규범의식 없이 반복적으로 범행을 저지른 것으로 보인다"며 "또 납득할 수 없는 변명을 내세우면서 범행을 전부 또는 일부 부인하고 있어 진정으로 반성하고 있다고 보이지도 않아 그 죄책에 상응하는 엄한 처벌이 불가피하다"고 양형 이유를 밝혔다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;A 씨는 2021년 9월부터 지난해 4월 13일까지 경기 안성과 평택, 충남 아산 등 건축 현장 소장 등에게 "현장에서 사진 찍었다. 신고 안 할 테니 돈 좀 줘라"라거나 덤프트럭 적재함에 흙 묻은 사진을 촬영하고는 "먼지 많이 날리는 거 제보하면 과태료 얼마인지 아냐? 차비 좀 보태줘라"고 말하는 등의 수법으로 11차례에 걸쳐 공갈해 금품 1005만 원을 받고, 두 차례 공갈 미수한 혐의로 기소됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Sun, 03 Mar 2024 07:04:46 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196395</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196395</guid>
-			<dc:creator>홍윤지 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무부, “尹 사단은 하나회” 발언 이성윤 '해임' 처분…'3년간 개업 불가'</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/PYH2024022307410001300.jpg" alt="PYH2024022307410001300.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;조국 전 법무부 장관의 출판 기념회에서 ‘윤석열 사단’을 ‘전두환 하나회’에 빗대 비판한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9001"&gt;이성윤&lt;/span&gt;(61·사법연수원 23기) 법무연수원 연구위원이 법무부로부터 최고 수위 징계인 해임 처분을 받았다. 해임 처분을 받더라도 총선 출마에 제약은 없다.&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;3일 법조에 따르면, 법무부 검사징계위원회는 지난달 27일 회의를 열고 이 같이 의결한 것으로 알려졌다. 검사징계법상 징계는 △견책 △감봉 △정직 △면직 △해임 등 5단계로 나뉘는데 해임은 가장 높은 수위의 징계다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 연구위원은 지난해 1~11월 조 전 장관의 출판기념회와 언론 인터뷰 등에서 총 8차례에 걸쳐 검찰 업무의 공정성을 훼손하거나 저해하는 부적절한 발언을 하고, 조 전 장관과 부적절하게 교류해 검사 윤리 강령을 위반했다는 이유로 검사징계위에 회부됐다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;또 2020년 10월 ‘채널A 사건’과 관련해&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5077"&gt;한동훈&lt;/span&gt;(51·27기) 국민의힘 비상대책위원장(당시 검사장) 감찰 과정에서 확보한 자료를 윤석열 당시 검찰총장을 감찰하던 법무부 감찰위에 무단 제공한 혐의, 김학의 전 법무부 차관의 불법 출국 금지 의혹 수사를 무마한 혐의 등도 받았다. 다만 김 전 차관 출국 금지 의혹에 대한 수사 무마 혐의는 관련 재판이 진행 중인 점을 고려해 이번 징계 이유에는 포함되지 않았다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 연구위원은 해임 처분에 불복해 행정 소송 등 법적 절차를 밟을 것으로 보인다. 그는 2차 징계위 당일 “어떤 결론에 이르든 그 징계는 원천 무효”라고 말했다. 앞서 1차 징계위 직후에는 일부 징계위원들에 대해 “윤석열 대통령과 가깝다”는 취지로 기피 신청을 냈으나 기각됐다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;징계로 해임되면 3년간 변호사 등록이 금지된다. 하지만 오는 4월 국회의원 선거 출마에는 제약이 없다. 이 연구위원은 지난 1월 사표를 제출했으나 아직 수리되지 않았다. 이후 더불어민주당 영입 인재로 발탁된 뒤 전주을 예비후보로 등록하고 경선을 치르고 있다.&lt;/p&gt;</description>
-			<pubDate>Sun, 03 Mar 2024 06:57:22 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196400</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196400</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/PYH2024022307410001300.jpg</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
-		</item>
-		<item>
-			<title>[신간소식] 이주원 고려대 로스쿨 교수, 《형법총론 제3판》 출간</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/20240301_이주원 교수 형법총론.jpeg" alt="20240301_이주원 교수 형법총론.jpeg" style="width: 320px; height: 462px;" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7909"&gt;이주원&lt;/span&gt;(59·사법연수원 21기) 고려대 로스쿨 교수가 최근 《형법총론 제3판》(박영사 펴냄)을 냈다. 이번 개정판에서는 바뀐 법령과 새 판례를 반영하고, 도표 등을 추가·보완했다. 이 교수는 2022년 초판 이래 매년 개정판을 내고 있다. &lt;br /&gt;&lt;br /&gt;이 교수는 책 머리말에서 “형법을 처음 배우는 학생의 심정을 십분 헤아려, 가급적 통설과 판례에 따라 ‘중요한 기본법리에 대한 알기 쉬운 이해’를 돕고자 했다”며 “명확한 이해를 위해 무엇보다 ‘서술의 명료성과 정확성’에 중점을 두었다. 나아가 이론적 측면에서는 ‘도그마틱의 엄격성’을 견지하고자 했고, 실무적 측면에서는 책임론과 공범론, 특히 죄수론 및 형벌론 부분의 보강에 주력하였다”고 했다. &lt;br /&gt;&lt;br /&gt;이번 개정판에는 최근 2023년 8월 8일 일부 개정된 형법 내용인 ‘사형의 집행시효 폐지’·‘영아살해·영아유기죄 폐지’와 그간 선고된 ‘정당방위의 현재성 완화’, ‘정당행위 요건의 상호관계’ 등 주요 형법판례가 반영됐다. 최신 판례로는 2024년 1월 15일까지 선고된 대법원 판례 및 헌법재판소 결정이 추가됐다. 아울러 형법 제1조 제2항의 ‘법률의 변경’의 해석과 관련해 판례의 ‘한시법의 추급효 인정’ 문제에 대한 분석과 비판을 추가하는 등 서술 내용을 보완했다. &lt;br /&gt;&lt;br /&gt;이 교수는 강릉고와 서울대 법대를 나왔다. 1989년 제31회 사법시험에 합격하고, 사법연수원과 군법무관 복무를 거쳐 1995년 청주지법 판사로 임관했다. 이후 서울고법 판사, 대법원 재판연구관, 광주지법 부장판사 등을 지냈다. 2008년부터 고려대 교수로 재직 중이며, 대법원 양형위원회 위원, 대법원 국선변호정책심의위원회 위원 등을 역임했다. 현재 한국형사법학회 수석부회장(차기회장)을 맡고 있다. &lt;br /&gt;</description>
-			<pubDate>Sun, 03 Mar 2024 05:28:54 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196384</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196384</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/20240301_이주원 교수 형법총론.jpeg</media:thumbnail>
-			<dc:creator>유지인 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] "중국법인으로부터 받은 보증수수료는 이자 아냐…과세 정당"</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/대법원5(3).jpg" alt="대법원5.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;국내 법인이 중국 법인에 지급보증을 제공하고 받은 수수료는 한국과 중국 간 조세조약에 따른 '이자 소득'으로 볼 수 없어 세액공제 대상에서 제외된다는 대법원 판결이 나왔다.&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;3일 법원에 따르면 대법원 행정3부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8024"&gt;이흥구&amp;nbsp;&lt;/span&gt;대법관)는 한화솔루션이 남대문세무서를 상대로 제기한 경정거부처분 취소소송에서 원고승소 판결한 원심을 깨고 지난달 8일 사건을 서울고법으로 돌려보냈다(&lt;b&gt;2021두32248&lt;/b&gt;).&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;한화솔루션은 2014년 중국법인인 한화케미칼 유한공사가 대출을 받을 때 지급보증을 제공한 대가로 10억6710만 원의 수수료를 받았다. 한화케미칼은 이 수수료가 '대한민국 정부와 중화인민공화국 정부 간의 소득에 대한 조세의 이중과세회피와 탈세방지를 위한 협정(한·중 조세조약)'상 '이자 소득'에 해당한다고 보고, 10%의 제한세율을 적용해 중국 과세당국에 세액 1억671만 원을 원천징수해 납부했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;한화솔루션은 중국 정부에 이미 세금 일부를 납부했으므로 외국납부세액공제 제도에 따라 이미 낸 법인세에서 그만큼을 환급해달라고 한국 과세 당국에 경정청구를 했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;외국납부세액공제란 외국 법인이 한국에 법인세를 낼 때는 외국에 납부한 만큼을 공제하고 납부할 수 있도록 하는 제도로, 이중과세를 방지하기 위해 마련됐다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1심 법원은 원고(한화솔루션)의 청구를 기각했으나 2심은 원고 승소로 판결했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;쟁점은 이 사건의 지급보증 수수료가 한·중 조세조약상 이자 소득에 해당하는지였다. 이자 소득에 해당한다면 한중 조세조약에 따라 중국 정부도 10%를 과세할 수 있고 외국납부세액공제가 가능하다. 반면 이자 소득이 아닌 '기타 소득'에 해당한다면 한국 정부에만 과세권이 있어 공제가 불가능하다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;대법원은 지급보증수수료를 기타 소득으로 본 과세 당국 측 주장이 맞다고 판단했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;대법원은 "어떤 소득을 한·중 조세 조약에서 정한 이자라고 보기 위해서는 그 소득은 수취인이 자금을 제공한 것에 대한 대가에 해당해야 한다"며 "지급보증 수수료는 지급보증의 대가일 뿐이므로 이자에 해당하지 않는다"고 판시했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;그러면서 "이 사건 지급보증 수수료가 그 외 다른 조항에서 취급하는 소득 항목에도 속하지 않는 한 결국 한·중 조세조약에 따라 거주지국인 우리나라에만 과세권이 있으므로 중국에 납부한 원천징수세액은 외국납부세액 공제 대상에 해당하지 않는다"고 판결했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Sun, 03 Mar 2024 04:26:13 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196393</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196393</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/대법원5(3).jpg</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 코인전문가 행세하며 별풍선으로 환심…유명 BJ 15억원 뜯어낸 30대 징역 5년</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/법원_엠블럼(6).jpg" alt="법원_엠블럼.jpg" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;유명 인터넷 개인방송 진행자(BJ)에게 '별풍선' 수천만 원어치를 선물해 환심을 산 뒤 가상화폐 투자금 명목으로 10억 원이 넘는 돈을 가로챈 30대에게 실형이 선고됐다.&lt;p&gt;&amp;nbsp;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;3일 법원에 따르면 서울중앙지법 형사합의21-1부(당시 재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4658"&gt;허경무&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2819"&gt;김정곤&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4031"&gt;김미경&amp;nbsp;&lt;/span&gt;부장판사)는 지난해 12월 20일 특정경제범죄가중처벌법상 사기 혐의로 기소된 A(32)씨에게 징역 5년을 선고했다(&lt;b&gt;2023고합560&lt;/b&gt;).&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;A씨는 2021년 11월부터 이듬해 1월까지 피해자 2명으로부터 가상화폐 투자금 명목으로 30차례에 걸쳐 약 20억원을 받아 가로챈 혐의로 기소됐다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;첫 피해자는 수십만 명의 구독자를 가진 유명 BJ였다. BJ는 2021년 6월부터 자신에게 별풍선 수천만 원어치를 선물한 A씨를 눈여겨보다가 9월경 직접 '귓속말' 기능으로 연락했다. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;BJ가 주식·코인 등 투자 실패를 하소연하자 A씨는 코인 투자전문가 행세를 하기 시작했다. 그는 51억원 상당의 비트코인 잔액이 찍혀 있는 내역을 보여주면서 "투자하면 2∼4배를 보장하고 손해가 나도 내 돈으로 메꿔주겠다"고 제안했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 과정에서 "내가 너무 명성이 높아 기자들에게 시달렸고 개명까지 했다", "다시 안 올 타이밍이고 기회를 놓치면 땅을 치고 후회할 것"이라며 BJ를 꼬드기기도 했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;결국 BJ는 그해 11월 A 씨에게 1000만 원을 보낸 것을 시작으로 총 15억 원을 송금했다. 이 과정에서 두 사람이 실제로 직접 만난 적은 한 번도 없었으며 모두 카카오톡 등 온라인으로만 대화했다. BJ가 불안해하자 A씨는 2022년 1월 비트코인 잔액이 279억 원으로 불어난 내역도 보냈다. 강남 지역에 집을 4채 보유하고 있다며 안심시키기도 했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;하지만 모든 말은 허구였고 자료는 컴퓨터로 조작한 것이었다. 실제로 A 씨는 홍보 업체를 운영하다 폐업 직전에 몰렸고 채무는 7천만원이 넘은 상태였다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;A 씨는 가로챈 돈으로 별풍선 1억3000만 원어치를 사들이거나 직원 월급 지급, 채무 상환, 다른 가상화폐 투자 등에 사용한 것으로 조사됐다. A 씨는 마케팅용 블로그 매매를 하다가 알게 된 사업가에게도 같은 방식으로 5억 원을 뜯어낸 것으로 드러났다. 두 사람에게 총 21억원가량을 뜯어냈지만 돌려준 돈은 BJ 1억여 원, 사업가 6천900만 원에 불과했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;재판부는 "거액을 돌려받지 못하게 될 것을 불안해한다는 점을 이용해 추가적인 투자나 금전 대여를 요구했을 뿐 아니라 변제하라는 피해자들을 조롱하기까지 했다"며 "BJ는 전 재산에 가까운 피해를 입는 등 피해자들은 극단적 선택을 생각할 정도로 정신적 피해까지 입어 엄벌을 탄원하고 있다"고 판시했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Sun, 03 Mar 2024 04:22:59 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196394</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196394</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/법원_엠블럼(6).jpg</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
