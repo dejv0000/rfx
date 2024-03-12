@@ -6,6 +6,36 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>한국인 살해 도주한 카자흐스탄인, 국제 공조로 20년 만에 구속기소</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/2017_법무부,정부과천청사,법 (4)(1).jpg" alt="2017_법무부,정부과천청사,법 (4).jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국인 고용주를 살해하고 도주한 카자흐스탄 남성이 국제공조를 통해 현지에서 붙잡혀 구속 상태로 재판에 넘겨졌다.&lt;br /&gt;&lt;br /&gt;법무부는 카자흐스탄 검찰이 지난달 28일, 한국인을 살해하고 자국으로 도주한 혐의를 받는 카자흐스탄 국적 남성 A 씨를 구속기소 했다고 밝혔다고 12일 밝혔다.&lt;br /&gt;&lt;br /&gt;A씨는 2003년 취업 목적으로 한국에 들어온 뒤 이듬해 고용주를 살해하고 저수지에 은폐하려다가 범행이 발각되자, 카자흐스탄으로 도망친 혐의를 받는다. 법무부는 카자흐스탄에 범죄인 인도를 청구했지만, 2007년 카자흐스탄 당국은 헌법상 자국민의 인도가 허용되지 않는다며 이를 거절했다. &lt;br /&gt;&lt;br /&gt;법무부는 2009년 A씨를 현지에서라도 재판에 넘겨 처벌해달라고 요청한 뒤 공조 체계를 이어왔다. 이후 국내 수사기관의 기록을 제공하고 실무 협의 등을 거쳐 카자흐스탄 정부를 설득하는 노력을 계속 해왔다.&lt;br /&gt;&lt;br /&gt;법무부 관계자는 "외국 국적 범죄인이 자국으로 도주하더라도 준엄한 법의 심판을 피할 수 없다는 사실과, 자국민을 보호하고자 하는 우리 정부의 강력한 의지를 국내외에 천명한 사례"라고 설명했다. 또 범죄인이 죄에 상응하는 처벌을 받도록 카자흐스탄 정부와 협력하겠다고 강조했다.&lt;br /&gt;</description>
+			<pubDate>Tue, 12 Mar 2024 02:55:16 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196667</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196667</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/2017_법무부,정부과천청사,법 (4)(1).jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>로앤컴퍼니-업스테이지, 한국 법률 특화 거대언어모델 ‘솔라 리걸(Solar-Legal)’ 공동 개발</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/20240312_로앤컴퍼니업스테이지협약.jpg" alt="20240312_로앤컴퍼니업스테이지협약.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;정재성 로앤컴퍼니 부대표(사진 왼쪽)와 권순일 업스테이지 사업총괄 부사장.&lt;br /&gt; 로앤컴퍼니 제공&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;리걸테크 기업 로앤컴퍼니와 인공지능(AI) 기업 업스테이지가 한국어·한국 법률에 특화된 거대언어모델(LLM) '솔라 리걸(Solar-Legal)' 공동 개발 계획을 발표했다.&lt;br /&gt;&lt;br /&gt;로앤컴퍼니(대표 김본환)는 11일 서울 강남구 대치동 로앤컴퍼니 본사에서 업스테이지(대표 김성훈)와 이같은 업무 협약을 체결했다고 12일 밝혔다. &lt;br /&gt;&lt;br /&gt;협약식에는 로앤컴퍼니 정재성 부대표와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3274"&gt;안기순&lt;/span&gt;(54·사법연수원 27기) 법률AI연구소장, 권순일 업스테이지 사업총괄 부사장 등이 참석했다.&lt;br /&gt;&lt;br /&gt;로앤컴퍼니가 보유한 443만 건의 판례 데이터와 법령·결정례 등 총 16만 건의 법률 데이터가 솔라 리걸 개발에 활용된다. 이번에 처음으로 법률 AI 및 리걸테크 분야에 진출하는 업스테이지는 다양한 기업에서 활용되고 있는 경량화 LLM '솔라(Solar)'를 제공한다.&lt;br /&gt;&lt;br /&gt;솔라 리걸은 올해 6월 중 출시될 예정이다. 솔라 리걸은 로앤컴퍼니의 '슈퍼로이어'에 우선 활용된다. 슈퍼로이어는 법률 리서치와 서면 요약 등을 제공하는 B2B 서비스형 소프트웨어(Saas)다. LLM을 자체 보유 서버에 구축해 AI 서비스 구동에 활용하는 '온프레미스(On-premise)' 형태로 탑재돼 안정성을 우선하는 정부기관과 로펌 등에 최적화된 서비스를 제공할 예정이다. 로앤컴퍼니는 앞으로 자사 서비스에 솔라 리걸을 순차적으로 적용해 법률 AI 분야에서 초격차 기술 경쟁력을 확보하겠다는 계획이다.&lt;br /&gt;&lt;br /&gt;김본환 로앤컴퍼니 대표는 “글로벌 AI 공룡의 거센 도전에 국내 리걸테크 업계 전체의 위기감이 고조되고 있다”며 “대한민국 법률 AI 시장의 기술주권을 반드시 수호하겠다는 각오로 업스테이지와 적극적인 기술 협력을 통해 산업 경쟁력을 높이고, 혁신적인 서비스를 선보이겠다”고 밝혔다.&lt;br /&gt;</description>
+			<pubDate>Tue, 12 Mar 2024 02:39:31 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196673</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196673</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/20240312_로앤컴퍼니업스테이지협약.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
+			<title>곽윤직·김재형 《물권법》 제9판 출간</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/196664.jpg" alt="196664.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;고(故) 곽윤직 서울대 명예교수와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2358"&gt;김재형&lt;/span&gt;(59·사법연수원 18기) 전 대법관이 집필한 《물권법》 제9판이 출간됐다.&lt;br /&gt;2014년 전면 개정한 《물권법》 제8판을 펴낸 뒤 2015년 최소한의 수정을 해서 보정판을 펴낸 이후 첫 개정판이다. 개정판에는 보정판 출간 후 나온 판례를 추가하고, 법령 개정도 반영했다. 특히 교과서의 내용을 좀 더 명확하게 서술하는 데 중점을 뒀다.&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;지난 10년 동안 공유물의 보존행위에 관한 판례는 대법원 전원합의체 판결로 변경됐으며 △배타적 사용·수익권의 포기 △관습상 법정지상권 △분묘기지권의 취득시효△ 부동산 명의신탁과 불법 원인 급여 △공동근저당권에 관해 대법원 전원합의체 판결이 선고됐다. 또 자기 소유 부동산에 관한 취득시효, 채권담보 목적의 전세권, 공동저당, 누적적 근저당권, 동산담보권 등에 관련 판례가 나오는 등 물권법에 관한 논의가 활발해지고 새로운 판례도 많이 나왔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;2016년 9월부터 6년간 대법관을 지낸 김 전 대법관은 이러한 판결 상당수에 참여했다. 관련 경험도 개정판에 반영했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;김 전 대법관은 "표현을 간결하게 하고자 했는데도 새로운 판례를 반영하느라 개정판이 종전 판에 비해 30면가량 늘어났다"며 "이 책이 물권법을 이해하고 학습하는 데 조금이나마 도움이 되기를 바란다"고 말했다.&lt;/p&gt;</description>
+			<pubDate>Tue, 12 Mar 2024 02:29:16 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196664</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196664</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/196664.jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 법조】 2024년 3월 12일</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;b&gt;[법원]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;▷대법원 1부 선고 &lt;/b&gt;&lt;br /&gt;-오전 10시&lt;br /&gt;※전 언론사 주필이 홍보대행사 운영자로부터 대우조선해양에 대한 우호적인 여론형성을 도와달라는 청탁을 받고 유럽 여행비를 받은 혐의(배임수재등)로 기소된 사건(2020도1263) &lt;br /&gt;&lt;br /&gt;&lt;b&gt;▷대법원 2부 선고 &lt;/b&gt;&lt;br /&gt;-오전 10시 &lt;br /&gt;※한국도로공사 통행료 수납원이 한국도로공사의 고용의무가 있다고 주장하며 낸 근로자지위확인 등 소송 등(2019다222829·2019다223303)&lt;br /&gt;※제20대 총선 당시 강신명 전 경찰청장 등이 경찰청 정보경찰들로 하여금 여당 후보 등의 선거 운동을 위한 정보 활동 등을 하게 했다는 혐의(공직선거법위반등)로 기소된 사건(2023도17594)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;▷'정당법위반 등 혐의' 박용수 7차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시, 서울중앙지법&lt;br /&gt;&lt;br /&gt;&lt;b&gt;▷'특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 이화영 전 경기도 평화부지사 외 1명 공판&lt;/b&gt;&lt;br /&gt;-오전 10시, 수원지법&lt;br /&gt;&lt;br /&gt;&lt;b&gt;▷'특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 이재명 더불어민주당 대표 외 1명 15차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시 30분, 서울중앙지법&lt;br /&gt;&lt;br /&gt;&lt;b&gt;▷최태원·노소영 이혼소송 항소심 1차 변론기일&lt;/b&gt;&lt;br /&gt;-오후 2시, 서울고법 &lt;br /&gt;&lt;br /&gt;&lt;b&gt;▷'안동완 검사 탄핵 심판 사건(2023헌나2)' 공개변론&lt;/b&gt;&lt;br /&gt;-오후 2시, 헌법재판소&lt;br /&gt;&lt;br /&gt;&lt;b&gt;▷'특정경제범죄가중처벌등에관한법률위반(사기) 등 혐의' 프로골퍼 안성현 외 3명 공판&lt;/b&gt;&lt;br /&gt;-오후 2시, 서울남부지법&lt;p style="font-weight: bold;"&gt;&amp;nbsp;&lt;/p&gt;&lt;hr style="font-weight: bold; border-width: 2px 0px 0px; border-color: lightgray;" /&gt;&lt;br /&gt;&lt;p style="font-weight: bold; text-align: center;"&gt;   &lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[오늘의 PICK ]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;br /&gt;&lt;b&gt;▷보석 1년에 5000건 신청… 형평성 시비도&lt;/b&gt;&lt;br /&gt;SM엔터테인먼트 경영권 분쟁 과정에서 시세 조종을 한 혐의로 구속기소된 배재현 카카오 투자총괄대표가 6일 보석으로 석방됐다. 구속된 피고인 중 보석을 청구하는 사례가 많아지면서 전국 법원에 접수되는 보석 신청 건수는 매년 5000건을 훌쩍 넘고 있다. 법조계에서는 무죄추정의 원칙에 따라 보석 허가를 늘려야 한다는 의견과 보석은 ‘유전보석 무전구속’으로 운영되는 제도라 형평성에 어긋나는데다 신속한 재판을 위해서 보석 조건을 더욱 강화해야 한다는 의견이 맞선다.&lt;br /&gt;&lt;p style="font-weight: bold;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="font-weight: bold; text-align: center;"&gt;   &lt;a href="https://www.lawtimes.co.kr/news/196571" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;hr style="font-weight: bold; border-width: 1px 0px 0px; border-style: dashed; border-color: lightgray;" /&gt;&lt;b style="font-weight: bold;"&gt;&amp;nbsp;&lt;/b&gt;&lt;p style=""&gt;   &lt;b&gt;▷8촌 이내 결혼 부적절…국민 4명 중 3명이 근친혼 범위 축소 반대&lt;/b&gt;&lt;br /&gt;법무부가 친족 간 혼인 금지 범위를 현행 8촌 이내에서 4촌 이내로 축소하는 방안을 검토 중인 가운데 국민인식 조사에선 절반 이상이 반대했던 것으로 나타났다.&lt;br /&gt;법무부는 친족 간 혼인금지에 관한 우리 국민정서를 정확히 확인하기 위해 지난해 11월 28일부터 12월 6일까지 전국 성인남녀 1300명을 대상으로 전화면접 방식의 여론조사를 실시했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style="font-weight: bold; text-align: center;"&gt;   &lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;a href="https://www.lawtimes.co.kr/news/196642" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/p&gt;</description>
 			<pubDate>Mon, 11 Mar 2024 21:15:10 -0000</pubDate>
@@ -25,12 +55,12 @@
 		</item>
 		<item>
 			<title>윤성혁 전 삼성전자 전무, 법무법인 대륙아주 고문 위원으로</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/196663.jpg" alt="196663.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;윤성혁 전 삼성전자 전무가 지난달 &lt;a href="https://www.draju.com/ko/main/main.html" target="_blank"&gt;&lt;b&gt;법무법인 대륙아주&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8690"&gt;이규철&lt;/span&gt;)에 합류했다. 윤 전 전무는 삼성전자에서 아프리카 영업을 총괄했다.&lt;br /&gt;&lt;br /&gt;대륙아주가 지난달 1일자로 윤 전 전무를 고문 위원으로 영입했다고 11일 밝혔다. 윤 전 전무는 글로벌 컴플라이언스 그룹의 고문 위원으로 영입돼 아프리카 그룹과 협업하고 있다. 대륙아주의 글로벌 컴플라이언스 그룹은 해외 진출 기업에 거래 전 모니터링, 소송 진행 등 리스크 관리 서비스를 제공한다. &lt;br /&gt;&lt;br /&gt;윤 신임 고문 위원은 2017년 삼성전자에서 아프리카 총괄을 역임했다. 삼성전자 재직 당시 남아프리카공화국에서 삼성전자 주요 제품들의 시장점유율을 압도적 1위로 성장시킬 만큼 아프리카 영업 부문의 강자로 활약한 바 있다. &lt;br /&gt;&lt;br /&gt;대륜고와 고려대 사회학과를 졸업한 윤 고문 위원은 미국 일리노이주립대학교에서 경영학 석사(MBA) 학위를 취득했다. 이후 1989년 삼성전자에 입사해 32년간 삼성전자 해외 영업을 담당했다. &lt;br /&gt;&lt;br /&gt;대륙아주는 국내 대형 로펌 가운데 유일하게 아프리카 그룹을 운영하며 법률 자문을 제공하고 있다. 주한남아공상공회의소 회장인 티모시 디킨스 외국 변호사가 아프리카 그룹을 이끈다.</description>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/KakaoTalk_20240312_115313236.jpg" alt="KakaoTalk_20240312_115313236.jpg" style="width: 160px; height: 214px;" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;윤성혁 전 삼성전자 전무가 지난달 &lt;a href="https://www.draju.com/ko/main/main.html" target="_blank"&gt;&lt;b&gt;법무법인 대륙아주&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8690"&gt;이규철&lt;/span&gt;)에 합류했다. 윤 전 전무는 삼성전자에서 아프리카 영업을 총괄했다.&lt;br /&gt;&lt;br /&gt;대륙아주가 지난달 1일자로 윤 전 전무를 고문 위원으로 영입했다고 11일 밝혔다. 윤 전 전무는 글로벌 컴플라이언스 그룹의 고문 위원으로 영입돼 아프리카 그룹과 협업하고 있다. 대륙아주의 글로벌 컴플라이언스 그룹은 해외 진출 기업에 거래 전 모니터링, 소송 진행 등 리스크 관리 서비스를 제공한다. &lt;br /&gt;&lt;br /&gt;윤 신임 고문 위원은 2017년 삼성전자에서 아프리카 총괄을 역임했다. 삼성전자 재직 당시 남아프리카공화국에서 삼성전자 주요 제품들의 시장점유율을 압도적 1위로 성장시킬 만큼 아프리카 영업 부문의 강자로 활약한 바 있다. &lt;br /&gt;&lt;br /&gt;대륜고와 고려대 사회학과를 졸업한 윤 고문 위원은 미국 일리노이주립대학교에서 경영학 석사(MBA) 학위를 취득했다. 이후 1989년 삼성전자에 입사해 32년간 삼성전자 해외 영업을 담당했다. &lt;br /&gt;&lt;br /&gt;대륙아주는 국내 대형 로펌 가운데 유일하게 아프리카 그룹을 운영하며 법률 자문을 제공하고 있다. 주한남아공상공회의소 회장인 티모시 디킨스 외국 변호사가 아프리카 그룹을 이끈다.</description>
 			<pubDate>Mon, 11 Mar 2024 11:04:13 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/196663</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196663</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/196663.jpg</media:thumbnail>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/KakaoTalk_20240312_115313236.jpg</media:thumbnail>
 			<dc:creator>유지인 기자</dc:creator>
 		</item>
 		<item>
@@ -134,12 +164,12 @@
 		</item>
 		<item>
 			<title>8촌 이내 결혼 부적절…국민 4명 중 3명이 근친혼 범위 축소 반대</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/2017_법,법무부 (2).jpg" alt="2017_법,법무부 (2).jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무부가 친족 간 혼인 금지 범위를 현행 8촌 이내에서 4촌 이내로 축소하는 방안을 검토 중인 가운데 국민인식 조사에선 절반 이상이 반대했던 것으로 나타났다. &lt;br /&gt;&lt;br /&gt;법무부는 친족 간 혼인금지에 관한 우리 국민정서를 정확히 확인하기 위해 지난해 11월 28일부터 12월 6일까지 전국 성인남녀 1300명을 대상으로 전화면접 방식의 여론조사를 실시했다. &lt;br /&gt;&lt;br /&gt;법무부 여론조사 결과 74%가 근친혼 금지 조항의 혼인의 자유 제한 여부에 "그렇지 않다"고 답했고 24%가 "그렇다"고 답했다. &lt;br /&gt;&lt;br /&gt;금지 범위에 대해선 75%가 현행과 같이 8촌 이내가 "적절하다"고 답했다. 6촌 이내가 적합하다고 응답한 경우는 15%, 4촌은 5%였다. &lt;br /&gt;&lt;br /&gt;법무부 관계자는 "각계의 의견을 충분히 경청하고 반영하여 국민들이 공감할 수 있는 정부안을 마련할 예정"이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;법무부는 지난달 '8촌 간 혼인을 무효로 한다'는 민법 조항에 대한 헌법재판소의 헌법불합치 결정을 언급하며 "친족간 혼인 금지에 관한 기초조사를 위해 다양한 국가의 법제 등에 대해 전문가 연구용역을 진행하는 등 신중하게 검토 중"이라는 입장을 냈다. &lt;br /&gt;&lt;br /&gt;헌재는 2022년 10월 27일 8촌 이내 혈족 간 혼인을 일률적으로 무효로 보는 민법 조항(815조 2호)이 과잉 금지의 원칙을 어긴 것이라며 헌법 불합치 결정을 내리고, 올해 12월 31일까지 해당 조항을 개정토록 했다.&lt;br /&gt;&lt;br /&gt;이에 법무부는 친족간 혼인 금지 범위를 재검토하기 위한 연구용역을 했다. 가족법 특별위원회는 매달 한 차례 회의를 통해 신중하게 접근하고 있는 것으로 알려졌다.</description>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/196642.jpg" alt="196642.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무부가 친족 간 혼인 금지 범위를 현행 8촌 이내에서 4촌 이내로 축소하는 방안을 검토 중인 가운데 국민인식 조사에선 절반 이상이 반대했던 것으로 나타났다. &lt;br /&gt;&lt;br /&gt;법무부는 친족 간 혼인금지에 관한 우리 국민정서를 정확히 확인하기 위해 지난해 11월 28일부터 12월 6일까지 전국 성인남녀 1300명을 대상으로 전화면접 방식의 여론조사를 실시했다. &lt;br /&gt;&lt;br /&gt;법무부 여론조사 결과 74%가 근친혼 금지 조항의 혼인의 자유 제한 여부에 "그렇지 않다"고 답했고 24%가 "그렇다"고 답했다. &lt;br /&gt;&lt;br /&gt;금지 범위에 대해선 75%가 현행과 같이 8촌 이내가 "적절하다"고 답했다. 6촌 이내가 적합하다고 응답한 경우는 15%, 4촌은 5%였다. &lt;br /&gt;&lt;br /&gt;법무부 관계자는 "각계의 의견을 충분히 경청하고 반영하여 국민들이 공감할 수 있는 정부안을 마련할 예정"이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;법무부는 지난달 '8촌 간 혼인을 무효로 한다'는 민법 조항에 대한 헌법재판소의 헌법불합치 결정을 언급하며 "친족간 혼인 금지에 관한 기초조사를 위해 다양한 국가의 법제 등에 대해 전문가 연구용역을 진행하는 등 신중하게 검토 중"이라는 입장을 냈다. &lt;br /&gt;&lt;br /&gt;헌재는 2022년 10월 27일 8촌 이내 혈족 간 혼인을 일률적으로 무효로 보는 민법 조항(815조 2호)이 과잉 금지의 원칙을 어긴 것이라며 헌법 불합치 결정을 내리고, 올해 12월 31일까지 해당 조항을 개정토록 했다.&lt;br /&gt;&lt;br /&gt;이에 법무부는 친족간 혼인 금지 범위를 재검토하기 위한 연구용역을 했다. 가족법 특별위원회는 매달 한 차례 회의를 통해 신중하게 접근하고 있는 것으로 알려졌다.</description>
 			<pubDate>Mon, 11 Mar 2024 07:05:40 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/196642</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196642</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/2017_법,법무부 (2).jpg</media:thumbnail>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/196642.jpg</media:thumbnail>
 			<dc:creator>우빈 기자</dc:creator>
 		</item>
 		<item>
@@ -207,35 +237,6 @@
 			<link>https://www.lawtimes.co.kr/news/196615</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196615</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/루마니아축구.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>성큼 다가온 봄</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/196598.jpg" alt="196598.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진=백성현 기자&amp;gt;&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;봄비가 내린 다음 날인 8일 서울 서초동 서울법원종합청사 앞 산수유꽃이 만개하며 봄이 왔음을 알리고 있다.&lt;/p&gt;</description>
-			<pubDate>Sun, 10 Mar 2024 04:18:30 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196598</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196598</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/196598.jpg</media:thumbnail>
-			<dc:creator>백성현 기자</dc:creator>
-		</item>
-		<item>
-			<title>(금주 법조계 주요일정) 3월 11~15일</title>
-			<description>&lt;b&gt;△11일(월)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 유동규 외 4명 118차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '국가정보원법위반 등 혐의' 정의용 전 국가안보실장 외 3명 7차 공판(오전 10시)&lt;br /&gt;-서울남부지법, '자본시장과금융투자업에관한법률위반 등 혐의' 신현성 외 7명 공판(오후 2시)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;△12일(화)&lt;/b&gt;&lt;br /&gt;-대법원 1·2부 선고(오전 10시)&lt;br /&gt;-서울중앙지법, '정당법위반 등 혐의' 박용수 7차 공판(오전 10시)&lt;br /&gt;-수원지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 이화영 전 경기도 평화부지사 외 1명 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 이재명 더불어민주당 대표 외 1명 15차 공판(오전 10시30분)&lt;br /&gt;-대법원 3부 선고(오전 11시)&lt;br /&gt;-헌법재판소, '안동완 검사 탄핵 심판 사건(2023헌나2)' 공개변론(오후 2시)&lt;br /&gt;-서울남부지법, '특정경제범죄가중처벌등에관한법률위반(사기) 등 혐의' 프로골퍼 안성현 외 3명 공판(오후 2시)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;△13일(수)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 송영길 전 더불어민주당 대표 3차 공판(오후 2시)&lt;br /&gt;-서울남부지법, '자본시장과금융투자업에관한법률위반 등 혐의' 영풍제지 주가조작 의혹 관련 윤모 씨 외 7명 공판(오후 3시10분)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;△14일(목)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정경제범죄가중처벌등에관한법률위반(수재등) 등 혐의' 박영수 전 특검 외 1명 12차 공판(오전 10시)&lt;br /&gt;-서울남부지법, '자본시장과금융투자업에관한법률위반 등 혐의' 라덕연 외 2명 공판(오전 10시)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△15일(금)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 유동규 외 4명 119차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '직권남용권리행사방해 등 혐의' 서훈 전 청와대 국가안보실장 외 4명 19차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '허위공문서작성 등 혐의' 이규원 16차 공판(오후 2시10분)&lt;br /&gt;-서울고법, '공직선거법위반 등 혐의' 이정근 외 1명 1차 공판(오후 2시30분)</description>
-			<pubDate>Sun, 10 Mar 2024 04:09:57 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196592</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196592</guid>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>디라이트·드림플러스, '샘 알트만도 챙겨야 할 AI 트렌드' 세미나 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/KakaoTalk_20240312_111621305.jpg" alt="KakaoTalk_20240312_111621305.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;국내 기업과 로펌의 대표 인공지능(AI) 전문가들이 함께 전 세계 기업들의 AI 관련 움직임을 톺아보는 세미나가 이달 말 열린다. &lt;br /&gt;&lt;br /&gt;&lt;a href="https://dlightlaw.com/" target="_blank"&gt;&lt;b&gt;법무법인 디라이트&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5968"&gt;조원희&lt;/span&gt;)와 한화생명 드림플러스가는 27일 오후 3시 서울 서초동 드림플러스 강남 지하 1층 이벤트홀에서 ‘샘 알트만도 챙겨야 할 AI 트렌드’ 세미나를 연다.&lt;br /&gt;&lt;br /&gt;이번 세미나는 인공지능이 가져올 새로운 기회와 동시에 발생하는 위기 요소를 알아보고, 빠르게 변화하는 인공지능 기술과 서비스에 대한 통찰력을 제공하기 위해 기획됐다. 법무법인 디라이트와 드림플러스가 공동주최하고 생성형 AI 얼라이언스와 법률신문이 후원한다.&lt;br /&gt;&lt;br /&gt;세미나에는 국내 저명한 인공지능 전문가들이  참여한다. 이건복 마이크로소프트 상무가 '글로벌 AI 트렌드'를, 장병탁 서울대 AI연구원장이 'Next-Gen AI 트렌드'를 전망한다. &lt;br /&gt;&lt;br /&gt;김지섭 뤼튼테크놀로지스 전략팀 리더가 '글로벌 AI 시장에서 한국 기업의 기회'를 짚어보고,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5968"&gt;조원희&lt;/span&gt;(54·사법연수원 30기) 법무법인 디라이트 대표변호사가 'EU의 인공지능법 어떻게 대응할 것인가'라는 주제로 발표한다. &lt;br /&gt;&lt;br /&gt;이밖에 김동환 포티투마루 대표, 이경전 경희대 빅데이터응용학과 교수 등이 생성형 AI의 트렌드와 AI 에이전트에 관해 알아본다. &lt;br /&gt;&lt;br /&gt;조 대표변호사는 "기업의 AI 도입과 관련한 다양한 법률 정보와 국내외 동향을 파악할 수 있는 의미 있는 자리가 될 것"이라고 전했다.&lt;br /&gt;&lt;br /&gt;무료로 진행되는 이번 세미나는 이벤터스를 통해 신청할 수 있다.</description>
-			<pubDate>Sun, 10 Mar 2024 03:58:46 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196613</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196613</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/KakaoTalk_20240312_111621305.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
