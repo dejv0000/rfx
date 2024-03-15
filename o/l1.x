@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>법무법인 슈가스퀘어, '비욘드 코리아 미국 진출 전략 세미나' 개최</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="http://image.lawtimes.co.kr/images/196692_2(2).jpg" alt="196692_2.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.lawsugarsquare.com/" target="_blank"&gt;&lt;b&gt;법무법인 슈가스퀘어&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9500"&gt;박지영&lt;/span&gt;)는 8일 오전 서울 삼성동 코엑스에서 '비욘드 코리아(BEYOND KOREA) 미국 진출 전략 세미나'를 개최했다.&lt;br /&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;이번 세미나에는 미국 진출을 고려 중이거나 이미 미국에 진출한 중소기업 및 스타트업 임직원 50여 명이 참석했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이날 세미나에서는 △인플레이션 감축(IRA) 법안의 현황과 앞으로의 대응 △미국 진출형태 △미국 법인 설립 및 운영 △미국 비자와 인사노무 등이 주제로 다뤄졌다. 슈가스퀘어 전문가들의 설명이 이어졌고, 참석자들의 질문에 슈가스퀘어 변호사들이 답변하는 시간을 가졌다.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;img src="http://image.lawtimes.co.kr/images/196692_1(1).jpg" alt="196692_1.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;행사를 기획한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="38089"&gt;장건&lt;/span&gt;(37·변호사시험 6회) 슈가스퀘어 LA오피스 대표변호사는 "미국진출이 필요한 중소기업과 스타트업의 막연한 걱정과 어려움을 실질적으로 돕기 위해 세미나를 기획했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;슈가스퀘어는 미국에 진출하는 한국 기업들을 위해 작년 12월 LA 오피스를 설립한 바 있다.&lt;/p&gt;</description>
+			<pubDate>Fri, 15 Mar 2024 05:12:27 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196692</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196692</guid>
+			<media:thumbnail>http://image.lawtimes.co.kr/images/196692_2(2).jpg</media:thumbnail>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
 			<title>“로또 당첨되려면 굿을 해야…” 2억 원 뜯어낸 무속인 징역 2년 확정</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/대법원1(7).jpg" alt="대법원1.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;로또에 당첨되려면 굿을 해야 한다고 속여 2억 원대 현금 등 금품을 챙긴 무속인에게 징역 2년이 확정됐다. 무속인을 찾은 사람에게 불행을 고지하거나 길흉화복 관련 어떠한 결과를 약속하고 기도비 등 명목으로 대가를 받은 경우, 전통적인 관습이나 종교 행위로서 허용될 수 있는 한계를 벗어났다면 사기죄에 해당한다는 취지다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대법원 형사2부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3751"&gt;권영준&amp;nbsp;&lt;/span&gt;대법관)는 2월 15일 사기 혐의로 기소된 무속인 A 씨에게 징역 2년을 선고한 원심을 확정했다(2023도17104).&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;A 씨는 2011년 11월경 동두천시에 있는 모 커피숍에서 피해자 B 씨가 로또에 당첨되게 할 능력이 없으면서도 “로또 복권 당첨이 되려면 굿 비용이 필요하다”고 거짓말을 했다. A 씨는 그날 1350만 원을 받은 것을 비롯해 약 1년 3개월 동안 같은 방법으로 23회에 걸쳐 총 현금 2억4238만 원과 금 40돈을 교부받은 혐의로 기소됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;1심은 “편취 액수를 보면 A 씨의 죄책이 가볍지 않고, 이미 사기 범행으로 처벌받은 전력이 있으며 그중 일부는 똑같은 로또 관련 수법이 동원됐다”며 A 씨에게 징역 2년을 선고했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;2심도 원심 판단을 수긍하며 A 씨의 항소를 기각했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대법원도 이 같은 판결을 확정했다.&lt;/p&gt;</description>
 			<pubDate>Thu, 14 Mar 2024 21:05:47 -0000</pubDate>
@@ -227,16 +237,6 @@
 			<link>https://www.lawtimes.co.kr/news/196706</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196706</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/20240313_최근 헌재결정과 개정대상 법률 현황(제10호) 표지 이미지.png</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 부하 직원 성추행 혐의 제주 경찰 간부, 무죄 확정</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/대법원5(7).jpg" alt="대법원5.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;부하 직원을 성추행한 혐의로 재판에 넘겨진 50대 경찰 간부의 무죄가 확정됐다.&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt; 대법원 형사3부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1759"&gt;오석준&lt;/span&gt;&amp;nbsp;대법관)는 12일 강제추행 혐의로 불구속 기소된 제주서부경찰서 소속 A 경정(57)에 대한 상고심에서 검찰 상고를 기각하고 무죄를 선고한 원심 판결을 확정했다(&lt;b&gt;2023도18373&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt; A 경정은 2019년 여름 도내의 한 장례식장에서 윷놀이를 하다가 부하 여직원 B 씨를 껴안은 혐의 등으로 재판에 넘겨졌다. 같은 해 사무실 회의 도중 B씨의 귓불을 당기기도 했다. A 경정은 신체적 접촉은 인정하지만 추행의 의도는 없었다고 부인해 왔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt; 앞서 항소심 재판부는 " 피고인의 행위가 다소 불쾌감을 줄 수 있는 행위이기는 하지만 그 경위와 피고인과 피해자의 관계, 당시 동료들이 여러 명 모여 있었던 상황을 고려하면, 피고인이 한 행위에 성적 의도가 있었다고 보기 어렵다"며 A 경정에 무죄를 선고했다.&lt;/p&gt;</description>
-			<pubDate>Wed, 13 Mar 2024 03:59:10 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196705</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196705</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/대법원5(7).jpg</media:thumbnail>
 			<dc:creator>홍윤지 기자</dc:creator>
 		</item>
 	</channel>
