@@ -6,8 +6,66 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[인터뷰] "변호사로서는 초보, 사람 대하는 건 '경력직'... 소통 중요한 문화 업계에서 일한 덕분" - 장현지·최정윤  법무법인 디라이트 변호사</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/196806(1).jpg" alt="196806.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진=백성현 기자&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;미술관 큐레이터, 뮤지컬 기획자 출신 변호사….&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;예술 분야에서 굵직한 경험을 쌓은 '중고 신인' 법조인들이 주목받고 있다. 법무법인 디라이트(대표변호사 조원희)의 장현지(변호사시험 11회), 최정윤(12회) 변호사가 주인공이다. 장 변호사는 일본 와세다대 국제교양학부와 영국 옥스퍼드대 미술사 석사 출신으로, 대림미술관에서 큐레이터로 근무했다. 서울대 의류학과를 졸업한 최 변호사는 뮤지컬 '지킬앤하이드'로 유명한 오디뮤지컬컴퍼니와 충무아트센터에서 근무했다. 미국 카네기멜론대에서 예술경영학 석사도 취득했다. 남다른 감각과 소통으로 법조타운을 누비고 있는 두 변호사를 지난 6일 서울 서초구 디라이트 본사에서 만났다.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;아래는 일문일답.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/196806_2(3).jpg" alt="196806_2.jpg" style="text-align: center;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진=백성현 기자&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Q. 다른 분야에서 활동하다 법조인을 꿈꾼 계기는.&lt;/b&gt;&lt;br /&gt;&lt;b&gt;[장] &lt;/b&gt;큐레이터로 유명 작가들과 계약할 때 30장이 넘는 계약서를 처리하면서 한계를 느꼈다. 그러면서 '법'에 호기심이 생겼다. 큐레이터 경험과 함께 하면 문화예술 분야쪽에서 더 잘할 수도 있겠다는 나름의 자신감도 있었다.&lt;br /&gt;&lt;b&gt;[최] &lt;/b&gt;뮤지컬 '드림걸즈' 등 해외에는 생각보다 변호사가 뮤지컬 프로듀서를 하는 경우가 많다. 미국에 예술경영을 공부하러 갔을 때, 예술 경영을 공부하면서 로스쿨을 다니는 사람을 만났고, 영감을 받았다.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Q. 변호사시험을 준비하면서 힘들었던 점은.&lt;/b&gt;&lt;br /&gt;&lt;b&gt;[최] &lt;/b&gt;소위 말하는 '비법대생'의 고충은 별로 없었다. 대신 나이와 출산 때문에 힘들었다. 11기로 입학했지만, 출산 때문에 휴학하고 12기와 공부했다. 남편 도움이 없었다면 힘들었을 것이다.&lt;br /&gt;&lt;b&gt;[장] &lt;/b&gt;로스쿨 안 다니는 친구들은 사회생활 7~8년차인데 나는 다시 학생이 된 거라 '이게 맞는 선택인가' 싶기도 했다. 그래도 교수님들이 나처럼 배경이 다양한 사람이 로스쿨 취지에 더 맞다며 응원해줘 힘이 났다.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Q. 큐레이터와 뮤지컬 기획 경험이 변호사 업무에 어떻게 도움됐나.&lt;/b&gt;&lt;br /&gt;&lt;b&gt;[장] &lt;/b&gt;큐레이터는 작가의 작품 세계를 대중에게 쉽게 번역해주는 일이다. 작가와만 1000통 넘게 이메일을 주고 받는 등 내·외부 소통이 정말 많고, 중요하다. 덕분에 변호사 업무를 할 때 먼저 대안을 제시하거나 쉽게 설명하는 등 더 적극적으로 소통하는 편이다.&lt;br /&gt;&lt;b&gt;[최] &lt;/b&gt;뮤지컬 업무를 하다 보면 배우부터 공무원까지 다양한 직업군의 '언어'를 해석하고 대응해야 한다. 의뢰인들을 만날 때 이런 경험이 많이 도움된다. '아, 이런 요구 때문에 이 계약서에 담길 원하는구나' 하면서 고객이 원하는 걸 빨리 '캐치'하는 편이다. 변호사로서는 아직 초보여도, 사람 대하는 일은 경력직이니까.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Q. 변호사로서 목표는.&lt;/b&gt;&lt;br /&gt;&lt;b&gt;[장] &lt;/b&gt;지금 디라이트에서 콘텐츠 분야를 다루고 있는데, 큐레이터로 쌓은 실무 경험을 더해서 콘텐츠 소싱이나 국내외 IP 라이센싱쪽 전문성을 키우고 싶다.&lt;br /&gt;&lt;b&gt;[최] &lt;/b&gt;콘텐츠 엔터 전문 변호사로 성장하고 싶다.내가 그랬던 것처럼 다른 사람도 나를 보면서 다른 경험이 있어도 저렇게 변호사가 되고 싶다는 생각을 할 수 있는 변호사가 되고 싶다.&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Sun, 17 Mar 2024 10:55:34 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196806</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196806</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/196806(1).jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
+			<title>세계 3대 로펌 ‘DLA Piper 팔로알토 지사’ 가보니… ‘후드티 변호사’ 오가는 스타트업 분위기 ‘물씬’</title>
+			<description>&lt;div&gt;   &lt;p style="text-align: center;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/196789.jpg" alt="196789.jpg" style="width: 320px; height: 427px;" /&gt;   &lt;/p&gt;   &lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;미국 캘리포니아주 팔로알토는 실리콘밸리의 중심부다. 스탠퍼드대학과 애플, 테슬라 등 세계적인 테크기업들이 모여있다. 이곳에 세계 3대 로펌에 들어가는 디엘에이 파이퍼(DLA Piper)가 지난해 새 지사를 열었다. 기자가 최근 직접 방문해 둘러봤는데 한국의 대형 로펌과는 사뭇 다른 분위기였다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;디엘에이 파이퍼의 팔로알토 지사에서는 ‘후드티를 입은 변호사’가 수시로 오갔고 ‘오락실을 갖춘 카페테리아’도 있었다. 스타트업 같이 자유로워보였다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;1층 로비는 유리문으로 된 대형 회의실이 둘러싸고 있는 구조였다. 2층은 변호사 사무실들이었다. 팔로알토 지사에 소속된 변호사는 70여 명 정도지만, 변호사 사무실은 채 30곳이 되지 않았다. 그마저도 변호사의 네임택이 붙은 지정 사무실은 절반 정도였다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;나머지는 ‘호텔링(Hoteling)’이라고 적힌 문패 아래 사무공간 호수(號數)와 QR 코드가 새겨져 있었는데 알고보니 공유 사무실이었다. 공유사무실은 디엘에이 파이퍼의 다른 지사 소속 변호사가 와도 사용할 수 있다. 문패에 있는 QR코드를 스마트폰으로 찍은 뒤, 로펌 내부망에 로그인해 사용하는 방식이다. 로펌에서 권위의 상징인 ‘코너룸(두 벽면이 모두 창문으로 된 공간)’ 4곳도 모두 공유 사무실로 배정돼 있었다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;실리콘밸리 주변 다른 로펌 중에는 100% 재택근무를 채택한 곳도 있다. 이른바 ‘MZ 세대’는 코로나19 팬데믹을 기점으로 재택근무를 기본값으로 받아들인다는 것이다. 변호사 수가 늘어나는 데도 불구하고 팔로알토 지사가 건물을 이전하며 사무실 크기를 줄인 이유도 거기 있었다. 외양을 확장하기보다는 인재 채용과 공간 효율성을 높이는데 주력하는 모습이었다. 형식보다 실질을 앞세우는 미국 로펌의 실용주의적 면모가 돋보였다.&lt;/div&gt;</description>
+			<pubDate>Sun, 17 Mar 2024 10:55:11 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196789</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196789</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/196789.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] 가게 문 닫아야 해 만취 손님 나가라고 하자 지퍼 내리고 성기 노출… '공연음란죄' 무죄</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/법원_깃발(9).jpg" alt="법원_깃발.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;가게 문을 닫아야 해 만취 손님을 깨우며 나가라고 한 주점 주인 등 2명에게 욕설을 하며 성기를 노출한 혐의로 기소된 50대 남성에게 무죄가 선고됐다. 법원은 성기를 노출한 경위와 상황, 장소, 시간대 등으로 보아 공연음란죄의 구성요건인 '공연성'을 인정할 수 없다고 봤다.&lt;br /&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;대구지법 형사2단독&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="22259"&gt;이원재&amp;nbsp;&lt;/span&gt;판사는 2월 15일 공연음란 혐의로 기소된 A 씨에게 무죄를 선고했다(&lt;b&gt;2023고정1200&lt;/b&gt;).&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;A(50) 씨는 지난해 5월 지인 2명과 경북 청도군에 있는 한 주점을 방문했다. 술에 취한 A 씨는 주점에서 잠이 들었고, 지인들은 "그냥 재우라"고 말하며 먼저 집으로 돌아갔다. 주점 주인 B(35·여) 씨는 이날 오후 11시경 문을 닫기 위해 A 씨를 깨웠지만, A 씨는 "이불을 깔라"고 말하며 감당할 수 없는 행동을 했다. 이에 B 씨는 자신의 지인에게 도움을 요청했다. A 씨는 두 사람에게 욕설을 하며 바지 지퍼를 내리고 1~2분간 성기를 노출한 것으로 조사됐다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;법원은 A 씨가 사건 당일 B 씨 등에게 성기를 노출한 사실이 인정되고 이는 보통 사람의 정상적인 성적 수치심을 해하는 음란행위라고 인정하면서도 '공연성'이 없다며 무죄 판결했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 판사는 "공연음란죄는 실행행위인 음란행위가 공연히 행해질 것을 요하고, '공연히'란 불특정 또는 다수인이 인식할 수 있는 상태를 말한다"며 "공연성은 공중이 인식할 가능성이 있음으로써 족하고 실제로 인식했음을 요하지 않지만, 특정된 소수인을 상대로 한 음란행위의 경우에는 공연성이 있다고 할 수 없다"고 판시했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이어 "A 씨는 주점에 B 씨와 그의 지인만 있는 상황에서 욕설을 하며 성기를 노출했는데, 주점이 위치한 경북 청도군은 시골 동네이고 A 씨가 성기를 노출한 시각은 B 씨가 평소 주점 문을 닫는 시점 이후여서 그 무렵 다른 손님이 주점에 찾아올 가능성이 별로 없었다"며 "또 주점의 출입문은 열려 있었지만 문 바로 앞에 파티션이 세워져 있어 주점 바깥에서 A 씨의 성기 노출 장면을 볼 수 없었다"고 설명했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;그러면서 "A 씨의 행위는 특정된 소수인(B 씨와 그 지인)을 상대로 한 것일 뿐만 아니라, '주점 내부'라는 장소가 그 두 사람 외 다른 사람이 들어와 관측할 가능성이 있었던 장소였다고 보이지도 않아 A 씨가 사건 당시 '공연히' 음란한 행위를 했다고 할 수 없다"고 덧붙였다.&lt;/p&gt;</description>
+			<pubDate>Sun, 17 Mar 2024 09:37:46 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196824</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196824</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/법원_깃발(9).jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
+			<title>英 법원, "호주 프로그래머 라이트, 비트코인 창시자 아니다"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/PAP20211118004201009(1).jpg" alt="PAP20211118004201009.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진= 연합뉴스&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;영국 법원이 비트코인 창시자임을 자처해 온 호주 컴퓨터 프로그래머 크레이그 라이트(54)의 주장이 사실이 아니라고 판단했다. 결정의 상세한 근거는 추후 공개하기로 했다.&lt;p&gt;&amp;nbsp;   &lt;p&gt;로이터 통신 등에 따르면, 영국 런던 고등법원의 제임스 멜러 판사는 14일(현지시각) 라이트가 비트코인 창시자인 '나카모토 사토시'가 아니라는 결정을 내렸다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;멜러 판사는 "라이트는 비트코인 백서의 저자가 아니며, 2008∼2011년 나카모토 사토시라는 가명을 채택하거나 운용한 사람이 아니다"라며 "라이트는 비트코인 시스템을 만든 사람이 아니고, 비트코인 소프트웨어의 초기 버전을 제작하지도 않았다"고 밝혔다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;멜러 판사는 이런 결정의 상세한 이유를 추후 공개하겠다면서 '압도적인 근거'가 있다고 덧붙였다.&lt;br /&gt;라이트는 2016년부터 자신이 2008년 나카모토 사토시라는 이름으로 비트코인의 개념을 설명한 백서의 저자라고 주장했다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp; &lt;br /&gt;그러나 암호화폐 업계에서는 이런 주장에 부정적인 반응이 많았다.&lt;/p&gt;   &lt;p&gt;이번 법원 결정도 암호화폐의 오픈소스 성격을 보호하기 위한 기술업계의 비영리 단체 '암호화폐 개방 특허 동맹(COPA)'이 라이트의 제소를 차단하거나 방어하기 위해 소송을 제기해 나온 것이다. COPA는 문서 위조 등을 통한 라이트의 거짓 주장이 오픈소스 기술 개발을 저해하고 있다면서 라이트가 나카모토 사토시가 아님을 확인해 달라고 법원에 요청했다.&lt;/p&gt;   &lt;/p&gt;</description>
+			<pubDate>Sun, 17 Mar 2024 07:55:23 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196819</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196819</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/PAP20211118004201009(1).jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
+			<title>수원지법 여주지원, 5월 모내기철 사상 첫 '농번기 휴정'</title>
+			<description>수원지방법원·수원가정법원 여주지원(지원장 이현복)은 5월 13일부터 24일까지 12일간 사상 처음으로 농번기 휴정을 시행한다.&lt;p&gt;   &lt;br /&gt;   &lt;p&gt;이번 휴정은 수원지법 여주지원의 관할 지역인 여주·양평·이천이 도농복합도시라는 지역적 특성이 있어 농번기에 재판 당사자들이 재판을 준비하거나 재판정에 출석하기 어렵다는 사정을 감안해 실시하게 됐다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp; &lt;br /&gt;여주지원 관할 지역은 벼농사를 짓는 농민이 많아 농번기에 재판이 잡힐 경우 당사자나 증인 등이 농사를 이유로 기일을 변경해달라는 요구가 잦았던 걸로 전해진다. 이에 여주지원은 내부 회의 등을 통해 기일 변경 요구가 많았던 5월 중순을 휴정기로 정하기로 했다. 여주지원은 소규모 법원으로 도농복합이라는 지역적 특성이 있는 만큼 농번기 휴정을 신속한 재판을 이끄는 데 도움이 될 것으로 보인다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;휴정기간 동안에는 피고인이 구속된 형사사건을 제외한 모든 사건에 대해 재판을 진행하지 않거나 증인 등을 소환하지 않는다. 다만 양 당사자가 변호사를 선임한 사건, 신속한 처리를 요하거나 당사자 본인이 재판 진행을 원하는 등 특별한 사정이 있는 경우에는 이 기간에도 재판을 진행할 수 있다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;농번기 휴정은 하계·동계 휴정기와는 별개다. 휴정 제도는 재판부별로 쉬는 기간이 통일돼 있지 않아 사건당사자와 변호사, 검사 등이 휴가를 제대로 가지 못하는 불편을 막기 위해 전국 법원에서 2006년 여름부터 시행되고 있다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;이현복(50·사법연수원 30기)  여주지원장은 "여주지원은 공정하고 신속한 재판을 진행하기 위한 제도 개선 노력을 지속하고 있다"며 "국민만을 바라보고 지역 주민들과 소통하며 그 고충을 해소함으로써 국민을 위한 법원으로 거듭나기 위한 노력을 지속하겠다"고 말했다.&lt;/p&gt;&lt;/p&gt;</description>
+			<pubDate>Sun, 17 Mar 2024 07:49:59 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196821</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196821</guid>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] '후배 가혹행위·추행' 전 프로축구 선수 1년 2개월 실형 확정</title>
+			<description>&lt;p&gt;후배 선수들에게 가혹행위를 하거나 성추행한 혐의로 재판에 남겨진 전직 프로축구 선수에게 징역형이 확정됐다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;대법원 형사1부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3170"&gt;김선수&lt;/span&gt;&amp;nbsp;대법관)는 2월 29일 강제추행·강요 등 혐의로 기소된 A 씨에게 징역 1년 2개월을 선고하고 40시간의 성폭력 치료프로그램 이수와 아동·청소년·장애인 관련 시설 3년간 취업 제한을 명령한 원심을 확정했다(&lt;b&gt;2023도16660&lt;/b&gt;).&lt;p&gt;&amp;nbsp; &lt;br /&gt;&lt;/p&gt;&lt;p&gt;A 씨는 2018년 선수단 숙소 내에서 새로 입단한 신인 선수들이 바닥에 머리를 박게 하거나 옷을 벗기고 여러 차례 추행한 혐의로 기소됐다. 또 휴지케이스 등 물건을 던지거나 폭행해 다치게 한 혐의도 받았다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1심은 피해자의 진술을 신뢰할 수 있다고 판단해 A 씨에게 유죄를 선고했다. 다만 추행으로 외상후 스트레스 장애 등의 상해를 입게 했다는 강제추행치상 혐의는 무죄로 판단하고 초범인 점 등을 고려해 징역형 1개년 2개월에 집행유예 2년 등을 선고했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;항소심은 피해자의 진술은 신뢰할 수 있지만 그밖에 객관적인 증거가 부족하다며 A 씨 혐의 중 일부를 무죄로 판단하면서도  실형을 선고하며 법정구속했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;항소심은 "A 씨는 자신보다 나이가 10살 이상 어린 피해자들을 상대로 쉽게 저항하지 못하는 점을 이용해 범행을 저질렀고, 피해자는 정신적 고통을 호소하면서 엄벌을 탄원하고 있다"며 "그럼에도 A 씨는 수사와 재판 과정에서 범행을 모두 부인하면서 피해자가 축구 선수로서 능력이 부족했다거나 생활 태도가 불량했다는 등 피해자를 비난하는 태도로 일관해 2차 가해를 했다"고 지적했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;A 씨는 항소심 판결에 불복했해 상고했지만, 대법원은 원심의 결론에 잘못이 없다고 보고 원심을 그대로 확정했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Sun, 17 Mar 2024 06:23:35 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196822</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196822</guid>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 수형자 편지만 보고 약 처방한 의사… 법원 "자격정지 정당"</title>
-			<description>수형자에게 편지만으로 증상만 전해 듣고 직접 진단하지 않은 채 처방전을 발급해 준 의사에게 보건복지부가 내린 면허 자격정지 처분은 정당하다는 판결이 나왔다. 편지를 보낸 수형자들 중에는 마약사범이 포함돼 있었고 일부 향정신성의약품도 처방된 것으로 알려졌다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;서울행정법원 행정12부(당시 재판장 정용석 부장판사)는 지난해 12월 7일 A 씨가 보건복지부 장관을 상대로 낸 의사면허자격정지처분 취소소송(2022구합88644)에서 원고패소 판결했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;A 씨는 2019년 교도소 수형자를 직접 진찰하지 않고 편지로만 증상을 전달받았음에도 처방전을 총 17회 교부한 혐의로 기소돼 2021년 벌금 300만 원의 약식명령을 받아 확정됐다. 보건복지부는 이를 근거로 2022년 A 씨에게 자격정지 2개월 처분을 내렸고 A 씨는 이에 불복해 소송을 냈다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;재판부는 "처방전은 의사가 환자를 직접 진찰하거나 검안한 결과를 바탕으로 전문 판단을 표시하는 것이며 중요한 사회적 기능을 하고 있다"며 "환자를 직접 진찰하지 않은 의사가 처방전을 발급하는 행위는 엄격히 제재할 필요가 있다"고 밝혔다. 의사가 환자를 직접 진찰하지 않고 처방전을 발급하는 경우 환자의 증상과 맞지 않는 약이 처방될 위험성이 커진다는 것이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;재판부는  "A 씨가 처방한 의약품에는 마약류 관리에 관한 법률에 따라 향정신성의약품으로 분류되는 것도 포함돼 있는데, 이는 특성상 오남용의 우려가 있고 건강과 생명에 치명적인 영향을 미칠 가능성이 있다"며 "이러한 점에서도 A 씨의 위반행위를 엄격히 제재할 필요가 있다"고 덧붙였다. 이어 "의료인 업무가 국민의 생명·건강에 직접적으로 영향을 미치는 점 등을 고려하면 이 사건 처분으로 A 씨가 받게 될 불이익은 의료법 위반행위 규제의 공익성보다 결코 크다고 보기 어렵다"고 했다.&lt;/p&gt;</description>
+			<description>수형자에게 편지만으로 증상만 전해 듣고 직접 진단하지 않은 채 처방전을 발급해 준 의사에게 보건복지부가 내린 면허 자격정지 처분은 정당하다는 판결이 나왔다. 편지를 보낸 수형자들 중에는 마약사범이 포함돼 있었고 일부 향정신성의약품도 처방된 것으로 알려졌다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;서울행정법원 행정12부(당시 재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8232"&gt;정용석&amp;nbsp;&lt;/span&gt;부장판사)는 지난해 12월 7일 A 씨가 보건복지부 장관을 상대로 낸 의사면허자격정지처분 취소소송(&lt;b&gt;2022구합88644&lt;/b&gt;)에서 원고패소 판결했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;A 씨는 2019년 교도소 수형자를 직접 진찰하지 않고 편지로만 증상을 전달받았음에도 처방전을 총 17회 교부한 혐의로 기소돼 2021년 벌금 300만 원의 약식명령을 받아 확정됐다. 보건복지부는 이를 근거로 2022년 A 씨에게 자격정지 2개월 처분을 내렸고 A 씨는 이에 불복해 소송을 냈다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;재판부는 "처방전은 의사가 환자를 직접 진찰하거나 검안한 결과를 바탕으로 전문 판단을 표시하는 것이며 중요한 사회적 기능을 하고 있다"며 "환자를 직접 진찰하지 않은 의사가 처방전을 발급하는 행위는 엄격히 제재할 필요가 있다"고 밝혔다. 의사가 환자를 직접 진찰하지 않고 처방전을 발급하는 경우 환자의 증상과 맞지 않는 약이 처방될 위험성이 커진다는 것이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;재판부는  "A 씨가 처방한 의약품에는 마약류 관리에 관한 법률에 따라 향정신성의약품으로 분류되는 것도 포함돼 있는데, 이는 특성상 오남용의 우려가 있고 건강과 생명에 치명적인 영향을 미칠 가능성이 있다"며 "이러한 점에서도 A 씨의 위반행위를 엄격히 제재할 필요가 있다"고 덧붙였다. 이어 "의료인 업무가 국민의 생명·건강에 직접적으로 영향을 미치는 점 등을 고려하면 이 사건 처분으로 A 씨가 받게 될 불이익은 의료법 위반행위 규제의 공익성보다 결코 크다고 보기 어렵다"고 했다.&lt;/p&gt;</description>
 			<pubDate>Sun, 17 Mar 2024 06:19:07 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/196817</link>
@@ -64,7 +122,7 @@
 		</item>
 		<item>
 			<title>[단독] 경력검사에 529명 지원 경쟁률 18대1… 30명 선발</title>
-			<description>&lt;div&gt;   &lt;p style="text-align: center;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/196771(1).jpg" alt="196771.jpg" /&gt;   &lt;/p&gt;   &lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;검찰이 인재 확보 방안으로 추진하는 경력 검사 선발에서 529명의 지원자가 몰린 것으로 18일 알려졌다. 경쟁률은 ‘17.6 대 1’이다.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;최종 선발된 30명의 경력 검사는 수사력 보강이 시급한 중앙과 남부 수원, 인천 등 지검·차치지청 28곳에 집중 배치된다.&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;사건처리 임계점에 몰렸던 검찰 내부는 한숨을 돌렸지만, 인력난 문제가 완벽하게 해소된 건 아니다. 아직 필요한 인력에 비해 검사 수는 턱없이 부족하다. 대검찰청은 이러한 위기를 돌파하기 위해 15년 이상의 고참급 검사들로 구성된 중요경제범죄조사단(중경단)에 사건 배당을 늘리면서 사건 처리 적체를 해소해나간다는 복안이다.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;이번 경력 검사 채용은 역대 최대 규모다. 이원석 검찰총장의 결단으로 필기시험을 과감하게 생략하면서 문턱을 낮춘 덕분이다. 과거 지원이 적었던 대형 로펌 출신 변호사들도 지원했고, 검찰청으로 다시 돌아가고 싶어 했던 검사 출신 변호사들도 용기를 냈다고 한다.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;한 자릿수였던 선발 규모를 30명 안팎으로 대폭 늘린 점도 인재가 몰린 이유로 분석된다. 선발제도를 개편한 법무부와 대검은 다음 해에도 무필기 선발 기조를 유지할 전망이다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;   &lt;p style="text-align: center;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/196771.jpg" alt="196771.jpg" style="width: 320px; height: 379px;" /&gt;   &lt;/p&gt;   &lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;전국 검사 수는 해가 갈수록 줄어들고 있다. 2022년 2142명이었던 검사 수는 지난해 2092명으로 50명이 줄어든 뒤 지난 달 기준 2064명의 검사가 근무 중이다. 퇴직자도 최근 2년간 300명에 달한다. 2022년엔 146명이 2023년엔 145명이 퇴직했다. 올해만 해도 2월까지 33명의 검사가 사직서를 냈다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;검사 숫자가 감소하는 반면 사건은 갈수록 복잡해지고, 특히 공판중심주의로 가면서 검사 1인의 업무량은 곱절로 늘었다는 게 검찰 안팎의 시각이다. 장기 미제 사건까지 고려하면 지금의 인력으로는 한계라는 것이다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;검찰은 한정된 예산과 인력 틀 안에서 경력 검사 선발제도 개편과 중경단 사건 배당 등 고육지책을 펼치고 있다.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;법무부는 2022년 검사의 증원이 필요하다며 검사정원법 개정안을 발의했으나 여야 합의가 쉽지 않아 아직 국회에 계류 중이다.&amp;nbsp;&lt;/div&gt;</description>
+			<description>&lt;div&gt;   &lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/196771(1).jpg" alt="196771.jpg" /&gt;&lt;/p&gt;   &lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;검찰이 인재 확보 방안으로 추진하는 경력 검사 선발에서 529명의 지원자가 몰린 것으로 18일 알려졌다. 경쟁률은 ‘17.6 대 1’이다.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;최종 선발된 30명의 경력 검사는 수사력 보강이 시급한 중앙과 남부, 수원, 인천 등 지검·차치지청 28곳에 집중 배치된다.&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;사건처리 임계점에 몰렸던 검찰 내부는 한숨을 돌렸지만, 인력난 문제가 완벽하게 해소된 건 아니다. 아직 필요한 인력에 비해 검사 수는 턱없이 부족하다. 대검찰청은 이러한 위기를 돌파하기 위해 15년 이상의 고참급 검사들로 구성된 중요경제범죄조사단(중경단)에 사건 배당을 늘리면서 사건 처리 적체를 해소해나간다는 복안이다.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;이번 경력 검사 채용은 역대 최대 규모다. 이원석 검찰총장의 결단으로 필기시험을 과감하게 생략하면서 문턱을 낮춘 덕분이다. 과거 지원이 적었던 대형 로펌 출신 변호사들도 지원했고, 검찰청으로 다시 돌아가고 싶어 했던 검사 출신 변호사들도 용기를 냈다고 한다.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;한 자릿수였던 선발 규모를 30명 안팎으로 대폭 늘린 점도 인재가 몰린 이유로 분석된다. 선발제도를 개편한 법무부와 대검은 다음 해에도 무필기 선발 기조를 유지할 전망이다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;   &lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/196771.jpg" alt="196771.jpg" style="width: 320px; height: 379px;" /&gt;&lt;/p&gt;   &lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;전국 검사 수는 해가 갈수록 줄어들고 있다. 2022년 2142명이었던 검사 수는 지난해 2092명으로 50명이 줄어든 뒤 지난 달 기준 2064명의 검사가 근무 중이다. 퇴직자도 최근 2년간 300명에 달한다. 2022년엔 146명이 2023년엔 145명이 퇴직했다. 올해만 해도 2월까지 33명의 검사가 사직서를 냈다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;검사 숫자가 감소하는 반면 사건은 갈수록 복잡해지고, 특히 공판중심주의로 가면서 검사 1인의 업무량은 곱절로 늘었다는 게 검찰 안팎의 시각이다. 장기 미제 사건까지 고려하면 지금의 인력으로는 한계라는 것이다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;검찰은 한정된 예산과 인력 틀 안에서 경력 검사 선발제도 개편과 중경단 사건 배당 등 고육지책을 펼치고 있다.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;법무부는 2022년 검사의 증원이 필요하다며 검사정원법 개정안을 발의했으나 여야 합의가 쉽지 않아 아직 국회에 계류 중이다.&amp;nbsp;&lt;/div&gt;</description>
 			<pubDate>Sat, 16 Mar 2024 22:36:29 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/196771</link>
@@ -110,15 +168,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196814</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/법원_깃발(8).jpg</media:thumbnail>
 			<dc:creator>유지인 기자</dc:creator>
-		</item>
-		<item>
-			<title>이종섭 출국금지 논란 계속…정부 vs 야당 고발전</title>
-			<description>&lt;div&gt;‘해병대원 채모 상병 사망 사건 수사에 대한 외압’ 의혹으로 수사를 받고 있는 이종섭 호주 대사의 출국을 둘러싼 논란이 점입가경이다. 총선을 앞두고 양측 공방의 핵으로 떠올랐다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;이 대사 사건은 공수처가 출국금지했는데 법무부가 출금을 해제하면서 불거졌다. 이 대사는 국방부 장관 당시 호우 실종자 수색 도중 순직한 채 상병 사망 사건과 관련해 수사 외압 의혹으로 공수처의 수사를 받고 있다. 윤석열 대통령은 4일 그를 호주 대사로 공식 임명했고, 사흘 뒤 공수처 조사를 받았다. 이어 법무부가 이 대사의 출금을 해제하는 결정을 내렸고 이 대사는 10일 호주로 떠났다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;먼저 법무부나 대통령실이 인사검증 과정에서 이 대사가 출금된 줄 알고도 임명한 것 아니냐는 의혹이 제기됐다. 출금자를 호주 대사로 임명한 것을 부적절하다는 취지다.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;차규근 전 법무부 출입국외국인정책본부장은 CBS ‘박재홍의 한판승부’ 등에 출연해 “법무부가 이 대사의 출국금지 이의신청을 인용한 것은 지극히 비정상적이고 수사를 이유로 한 출국금지에 대해 이의신청을 인용해 주는 사례는 거의 없다”고 말했다. 이에 법무부는 “최근 5년간 출국금지 이의신청 6건을 인용했고 그중 3건은 차 전 본부장 재직 기간 중 인용됐다”며 “이 대사에 대한 출금 해제 조치 당시, 법무부 장·차관이나 대통령실에 일체 보고되지 않았다”고 반박했다. 차 전 본부장의 발언은 허위라며 법적 조치를 취하겠다고 밝혔다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;대통령실은 야권이 ‘해외 도피 프레임’을 씌워 공세를 펼치고 있다는 입장이다. 오히려 공수처가 이 대사에 대한 조사를 6개월간 하지 않은 게 잘못이라고 강조했다. 대통령실 장호진 국가안보실장은 “민주당 고발 이후 이 대사에 대한 조사가 이뤄지지 않았다. 조사도 안하면서 출금을 연장한 것은 기본권 침해이고 수사권 남용”이라고 지적했다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;야권은 고발로 응수했다. 조국혁신당, 시민단체 등이 윤석열 대통령과 박성재 법무부 장관, 조태열 외교부 장관을 11일 공수처에 고발한 데 이어 더불어민주당 측도 15일 윤 대통령 등을 ‘직권남용, 범죄인 도피혐의’로 고발했다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;이 대사의 출국 논란은 총선의 변수로 떠올랐다. 국민의힘 내부에서는 임명을 철회하자는 목소리가 나왔다. 대통령실은 “야당의 정치공세로 철회는 없다”고 선을 그었다. 한편 이 대사 측은 일부 언론에 언제든지 출석해 조사를 받겠다는 입장을 밝혔다.&amp;nbsp;&lt;/div&gt;</description>
-			<pubDate>Fri, 15 Mar 2024 23:07:38 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196773</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196773</guid>
-			<dc:creator>우빈 기자</dc:creator>
 		</item>
 		<item>
 			<title>이종섭 출국금지 논란 계속…정부 vs 야당 고발전</title>
@@ -187,56 +236,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196811</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/미국 상원 법사위원회 SNS.jpg</media:thumbnail>
 			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title> 한국상속신탁학회, '신탁등기 방식의 현황과 대항력의 문제' 세미나</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/196800(1).jpg" alt="196800.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국상속신탁학회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11051"&gt;김상훈&lt;/span&gt;)가 14일 서울 강남구 법무법인 트리니티 안젤루스룸에서 '신탁등기 방식의 현황과 대항력의 문제'에 대한 세미나를 열었다.&lt;br /&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;행사 취지에 관해 학회 관계자는 "신탁법 제4조는 '등기 또는 등록할 수 있는 재산권에 관하여는 신탁의 등기 또는 등록을 함으로써 그 재산이 신탁재산에 속한 것임을 제3자에게 대항할 수 있다'고 규정한다"며 "그런데 부동산등기법에서는 신탁원부를 등기 기록의 일부로 본다고 규정하고 있기 때문에, 신탁등기의 공시로 인한 대항력의 범위가 어디까지인지를 논의하려고 세미나를 열었다"고 설명했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;신탁법 분야의 전문가인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7852"&gt;이계정&lt;/span&gt;(42·사법연수원 31기) 서울대 로스쿨 교수가 발표를 맡았다. 이 교수는 '신탁의 기본법리에 관한 연구'를 주제로 박사학위를 받았다. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;" serial="11051"&gt;김상훈&lt;/span&gt;(50·33기) 회장은 "우리 대법원은 신탁원부에 기재된 사항은 모두 대항력을 가진다고 본다. 이것은 위탁자와 수탁자 사이의 채권적인 효력을 제3자에게까지 무한히 미친다는 측면에서 문제가 있다"며 "그 재산이 신탁재산임을 제3자에게 대항할 수 있다는 뜻 이상으로 확하여대 해석해선 안 된다"고 말했다. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;또 이날 세미나에서 '등기부를 열람하면 누구나 신탁의 수익자가 누군지 알 수 있다는 점이 유언대용신탁의 활용도를 떨어뜨린다'는 점도 지적됐다.&lt;/p&gt;</description>
-			<pubDate>Fri, 15 Mar 2024 08:57:39 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196800</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196800</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/196800(1).jpg</media:thumbnail>
-			<dc:creator>홍수정 기자</dc:creator>
-		</item>
-		<item>
-			<title>법제연구원, 한국수력원자력과 원전 협력 위해 업무협약 체결</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/196803.jpg" alt="196803.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국법제연구원(원장 한영수)과 한국수력원자력이 원전 분야 법제협력 및 공동연구 활성화를 위해 업무협약을 체결했다. &lt;br /&gt;&lt;br /&gt;한국법제연구원은 15일 서울 방사선보건원에서 한국수력원자력과 원전 분야 법제협력 및 공동연구 활성화를 위한 업무협약을 체결했다고 밝혔다. &lt;br /&gt;&lt;br /&gt;양 기관은 원자력 생태계 강화·안전 분야의 법률검토 및 공동연구 추진을 약속했다. 또한 전문인력 교육 확대와 공동 네트워크 구축 등을 통해 지속 가능한 협력 기반을 조성해 나갈 계획이다.&lt;br /&gt;&lt;br /&gt;한영수 한국법제연구원 원장은 "에너지 대전환 시기 저탄소 청정에너지 생산과 안정적인 공급을 위해 노력하는 한국수력원자력과 MOU를 체결하는 것이 뜻깊다"며 "한국법제연구원과 한국수력원자력은 이번 협약을 계기로 원전 분야 법제 협력과 공동연구를 활성화시켜 합리적 탄소중립을 달성하는데 이바지 하겠다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;</description>
-			<pubDate>Fri, 15 Mar 2024 08:54:03 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196803</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196803</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/196803.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 지평·RBA, 한국 기업의 책임있는 기업 행동 확산 위한 업무협약' 체결</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/196794.jpg" alt="196794.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.jipyong.com/kr/main/main.php" target="_blank"&gt;&lt;b&gt;법무법인 지평&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2106"&gt;김지형&lt;/span&gt;)은 지난 8일 서울 중구 대한상공회의소 의원회의실에서 비영리기구 RBA와 '한국 기업의 책임있는 기업 행동 확산을 위한 업무협약'을 체결했다.&lt;br /&gt;&lt;br /&gt;지평과 RBA는 △국내 기업, 자회사, 공급망에 대한 지속가능성 실사(Due Diligence) 지원 △글로벌 지속가능성 관련 규제 대응 지원 △공동 컨퍼런스, 기업 간담회 및 교육훈련 세션 개최 △RBA 발간물의 국문 번역 또는 공동 저작물의 발간 등을 추진하기로 합의했다.&lt;br /&gt;&lt;br /&gt;RBA(Responsible Business Alliance)는 2004년 설립된 글로벌 비영리 기구로, 글로벌 공급망에서 기업의 사회적 책임을 전담하는 세계 최대 규모의 산업 연합체다. 지평과 RBA는 2023년 4월 디디에 레인더스 EU 법무청장 방한 당시 국내 주요기업 ESG 담당임원과의 오찬 간담회를 공동주최하는 등 협력관계를 유지해 왔다.&lt;br /&gt;&lt;br /&gt;같은날 지평과 RBA는 '전환기의 컴플라이언스: 실사 규제에 대한 대응과 실무 사례' 컨퍼런스도 개최했다. RBA와 지평 컨플라이언스팀의 실사 전문가들이 유럽과 미국의 인권ㆍ환경 실사, 강제노동 규정, 배터리 규정 등 다양한 공급망 실사 관련 규제를 종합적으로 분석하고 공급망 관리 실무 방법론을 소개했다.</description>
-			<pubDate>Fri, 15 Mar 2024 08:48:47 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196794</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196794</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/196794.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>설립 20주년 맞는 공감… "우리 사회 사각지대 발굴하고 돕는 곳"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/196802.jpg" alt="196802.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;왼쪽부터 이수형 법률신문 대표이사, 박영아 공익인권법재단 공감 변호사, 김지림 변호사, 황필규 변호사, 조강수 법률신문 부사장.&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;올해 창립 20주년을 맞는 &lt;a href="https://www.kpil.org/" target="_blank"&gt;&lt;b&gt;공익인권법재단 공감&lt;/b&gt;&lt;/a&gt;의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11917"&gt;황필규&lt;/span&gt;(56·사법연수원 34기) 변호사와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10392"&gt;박영아&lt;/span&gt;(50·33기) 변호사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="37212"&gt;김지림&lt;/span&gt;(35·변호사시험 5회) 변호사가 15일 서울 서초동 법률신문을 찾아 경영진과 환담했다.&lt;br /&gt;&lt;br /&gt;황 변호사는 "난민이나 코로나19 백신 부작용 피해 등 잘 해결될 수 있는 문제도 정치권에서 자신들의 이해관계대로 대하면서 문제 해결은 요원해지고 힘없는 사람들만 남는 걸 봐왔다"며 "그런 걸 볼때마다 상당히 안타깝다"고 말했다. 박 변호사는 "공감은 기초생활 보장 등 우리 사회의 사각지대를 발굴하고 돕는 곳"이라며 "앞으로는 이주, 장애 등 공감이 활동해온 영역은 물론, 기후위기, 빅데이터 등 새로운 문제들을 드러내고 법적으로 개입할 수 있는 방안을 모색하려고 한다"고 말했다.&lt;br /&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;공감은 2004년 설립된 한국 최초의 공익변호사 단체다. 수임료를 받지 않고 시민들의 후원으로 운영된다. 상근 변호사 9명이 돌봄노동자에게 법률 지원을 하거나 소수자와 사회적 약자의 인권 개선을 목표로 소송을 지원하고, 불합리한 법 제도를 개선하는 등 공익 활동을 활발히 하고 있다. 오는 4월 25일 법의 날을 맞아 서울 서대문구 연세대 동문회관에서 20주년 기념행사를 개최할 예정이다.&lt;br /&gt;&lt;/p&gt;</description>
-			<pubDate>Fri, 15 Mar 2024 08:45:05 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196802</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196802</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/196802.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>'성매매' 현직 로스쿨 교수 벌금 300만원 확정</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/법원_깃발(7).jpg" alt="법원_깃발.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;스마트폰 앱으로 만난 여성과 성매매를 한 혐의로 약식기소된 현직 로스쿨 교수가 벌금형을 받았다.&lt;br /&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;15일 법조계에 따르면 서울중앙지법 형사27단독&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="25906"&gt;함현지&amp;nbsp;&lt;/span&gt;판사는 성매매처벌법 위반 혐의를 받은 서울의 한 로스쿨 소속 A교수에게 벌금 300만원의 약식명령을 내렸다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;A교수는 지난 1월 약식명령을 받았고 정식 재판을 청구하지 않아 벌금형이 확정됐다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;학교 측은 지난해 A교수가 성매매로 경찰 조사를 받게 된 사실을 파악하고는 A교수를 직위해제했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이후 인사위원회를 열어 징계했는데 학교 측은 징계 내역을 밝히지 않았지만 일정 기간의 정직 처분을 받은 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;학교 관계자는 "대다수의 대학에서 교수가 성매매를 했다가 적발되는 경우에 견책이나 감봉, 정직 등의 징계가 내려진다"며 "본인의 의사를 먼저 확인해야 하겠지만 강단에서 학생들을 가르치고 지도하는 것이 적절한지 논의 중"이라고 밝혔다.&lt;/p&gt;</description>
-			<pubDate>Fri, 15 Mar 2024 08:40:06 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196801</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196801</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/법원_깃발(7).jpg</media:thumbnail>
-			<dc:creator>이순규 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
