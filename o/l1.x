@@ -6,6 +6,24 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 수형자 편지만 보고 약 처방한 의사… 법원 "자격정지 정당"</title>
+			<description>수형자에게 편지만으로 증상만 전해 듣고 직접 진단하지 않은 채 처방전을 발급해 준 의사에게 보건복지부가 내린 면허 자격정지 처분은 정당하다는 판결이 나왔다. 편지를 보낸 수형자들 중에는 마약사범이 포함돼 있었고 일부 향정신성의약품도 처방된 것으로 알려졌다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;서울행정법원 행정12부(당시 재판장 정용석 부장판사)는 지난해 12월 7일 A 씨가 보건복지부 장관을 상대로 낸 의사면허자격정지처분 취소소송(2022구합88644)에서 원고패소 판결했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;A 씨는 2019년 교도소 수형자를 직접 진찰하지 않고 편지로만 증상을 전달받았음에도 처방전을 총 17회 교부한 혐의로 기소돼 2021년 벌금 300만 원의 약식명령을 받아 확정됐다. 보건복지부는 이를 근거로 2022년 A 씨에게 자격정지 2개월 처분을 내렸고 A 씨는 이에 불복해 소송을 냈다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;재판부는 "처방전은 의사가 환자를 직접 진찰하거나 검안한 결과를 바탕으로 전문 판단을 표시하는 것이며 중요한 사회적 기능을 하고 있다"며 "환자를 직접 진찰하지 않은 의사가 처방전을 발급하는 행위는 엄격히 제재할 필요가 있다"고 밝혔다. 의사가 환자를 직접 진찰하지 않고 처방전을 발급하는 경우 환자의 증상과 맞지 않는 약이 처방될 위험성이 커진다는 것이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;재판부는  "A 씨가 처방한 의약품에는 마약류 관리에 관한 법률에 따라 향정신성의약품으로 분류되는 것도 포함돼 있는데, 이는 특성상 오남용의 우려가 있고 건강과 생명에 치명적인 영향을 미칠 가능성이 있다"며 "이러한 점에서도 A 씨의 위반행위를 엄격히 제재할 필요가 있다"고 덧붙였다. 이어 "의료인 업무가 국민의 생명·건강에 직접적으로 영향을 미치는 점 등을 고려하면 이 사건 처분으로 A 씨가 받게 될 불이익은 의료법 위반행위 규제의 공익성보다 결코 크다고 보기 어렵다"고 했다.&lt;/p&gt;</description>
+			<pubDate>Sun, 17 Mar 2024 06:19:07 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196817</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196817</guid>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
+			<title>유럽인권재판소, 북한 주민 러시아 상대 송환 거부 소송 19일 판결</title>
+			<description>유럽인권재판소가 19일 북송 위기에 처한 북한 주민들이 자신들에게 추방·강제 퇴거 명령을 내린 러시아를 상대로 제기한 소송에 대한 판결을 내린다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;미국의소리(VOA) 보도에 따르면, 유럽인권재판소(ECHR)는 19일 북한으로의 송환을 거부하고 러시아에 합법적으로 잔류하기를 원하는 북한 국적자 3명이 러시아 정부를 상대로 낸 소송에 대해 판결한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;유럽인권재판소에 따르면, 북한 국적자 A 씨와 B 씨는 2020년 러시아 영해에서 불법적으로 고기잡이를 한 혐의로 유죄 판결을 받고 징역형을 선고받았다. 또 2019년 러시아 블라디보스토크에서 유학 중이던 또 다른 북한 국적자 C 씨는 1년 동안의 학업 후 북한으로 돌아가지 않기로 결정했으나 이후 제대로 된 기록도 없이 구금됐다고 주장했다. 특히 C 씨는 납치돼 제대로 된 법적 절차를 거치지 않고 러시아에서 북한 관리에게 넘겨졌다고 주장했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이들 3명은 모두 유효한 신분증 없이 난민 지위나 임시 망명 또는 신원 확인 절차를 신청해 러시아에서 합법적 지위를 얻고자 했다. 하지만 러시아 당국은 이들에 대해 추방 및 행정적 강제 퇴거 명령을 내렸다. 이들은 추방 때까지 구금된 상태인 것으로 조사됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;앞서 2020년 유럽인권재판소는 각각 잠정 조치를 적용해 재판이 진행되는 동안 신청인들을 추방해서는 안 된다고 러시아 정부에 지시했다. 재판소는 신청인들의 익명을 보장하기로 결정했다.&lt;/p&gt;&lt;p&gt;유럽인권재판소는 "이들이 북한으로 송환될 경우 고문이나 처형에 직면할 것이며, 이런 우려에 대한 효과적인 구제 수단이 없다고 호소하고 있다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;유엔 난민협약은 '생명이나 자유가 위협받을 우려가 있는 영역의 국경으로 난민을 추방하거나 송환해서는 안 된다'고 규정한다. 유엔 고문방지협약 또한 '어떤 당사국도 고문을 당할 위험이 있다고 믿을 만한 상당한 근거가 있는 다른 나라로 개인을 추방, 송환, 인도해서는 안 된다'고 명시한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;유럽인권재판소는 유럽인권조약에 근거해 1959년 설립된 국제법원이다. 러시아는 1998년 유럽인권조약을 비준했기 때문에 재판소 판결에 따를 의무가 있다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;2017년 유럽인권재판소는 러시아에서 강제 북송 위기에 있던 최명복 씨에 대해 강제 송환 금지 결정을 내린 바 있다.&lt;/p&gt;</description>
+			<pubDate>Sun, 17 Mar 2024 06:16:22 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196818</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196818</guid>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 신고 없이 승합차에 대리운전 광고 스티커 붙여 운영… "옥외광고물법 위반"</title>
 			<description>&lt;div&gt;   &lt;p style="text-align: center;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/대법원4(5).jpg" alt="대법원4.jpg" /&gt;   &lt;/p&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;지방자치단체장에게 신고하지 않고 승합차에 대리운전 광고 스티커를 붙여 운영한 경우 옥외광고물법 위반으로 볼 수 있다는 대법원 판단이 나왔다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;대법원 형사1부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3170"&gt;김선수&amp;nbsp;&lt;/span&gt;대법관)는 지난달 29일 옥외광고물 등의 관리와 옥외광고산업진흥에 관한 법률 위반으로 기소된 A 씨의 상고심에서 무죄를 선고한 원심을 파기하고 사건을 인천지법으로 돌려보냈다(2021도10133).&lt;/div&gt;&lt;div&gt;옥외물광고법 제3조 제1항 등은 허가 대상 교통수단 이용 광고물을 제외한 나머지 교통수단 이용 광고물을 표시하거나 설치할 때에는 대통령령에 따라 시장 등 지방자치단체장에게 허가를 받거나 신고하도록 규정하고 있다.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;대리운전을 하는 A 씨는 2019년 7월 인천 계양구 일대 도로에서 시장 등에게 신고하지 않은 채 승합차에 ‘B 대리운전’이라고 표시된 스티커를 부착해 대리운전 광고를 설치한 혐의로 기소됐다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;1,2심은 스티커를 부착하는 방법의 광고물까지 옥외물광고법 등의 신고 대상 교통수단 이용 광고물에 포함한다고 볼 수는 없다고 판단해 A 씨에게 무죄를 선고했다. 이는 확장해석 혹은 유추해석에 해당한다는 것이다.&lt;/div&gt;&lt;div&gt;하지만 대법원의 판단은 달랐다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;광고스티커와 같이 특수한 재질의 종이를 교통수단에 표시·부착하는 것도 옥외광고물법 시행령에서 규정하는 ‘교통수단 이용 광고물’ 중 ‘교통수단 외부에 문자·도형 등을 직접 표시하는 광고물’에 해당한다는 취지다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;재판부는 “시행령은 직접표시형 교통수단 이용 광고물을 ‘교통수단 외부에 문자·도형 등을 직접 도료로 표시하는 것’이라고 정하고 있을 뿐 ‘직접 도료로 칠하는 것’이라고 정하고 있지는 않다”며 “교통수단 외부에 문자·도형 등을 직접 도료로 칠하는 경우에만 직접표시형 교통수단 이용 광고물에 해당한다고 한정할 수 없다”고 판시했다.&lt;/div&gt;</description>
 			<pubDate>Sun, 17 Mar 2024 00:17:26 -0000</pubDate>
@@ -92,6 +110,15 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196814</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/법원_깃발(8).jpg</media:thumbnail>
 			<dc:creator>유지인 기자</dc:creator>
+		</item>
+		<item>
+			<title>이종섭 출국금지 논란 계속…정부 vs 야당 고발전</title>
+			<description>&lt;div&gt;‘해병대원 채모 상병 사망 사건 수사에 대한 외압’ 의혹으로 수사를 받고 있는 이종섭 호주 대사의 출국을 둘러싼 논란이 점입가경이다. 총선을 앞두고 양측 공방의 핵으로 떠올랐다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;이 대사 사건은 공수처가 출국금지했는데 법무부가 출금을 해제하면서 불거졌다. 이 대사는 국방부 장관 당시 호우 실종자 수색 도중 순직한 채 상병 사망 사건과 관련해 수사 외압 의혹으로 공수처의 수사를 받고 있다. 윤석열 대통령은 4일 그를 호주 대사로 공식 임명했고, 사흘 뒤 공수처 조사를 받았다. 이어 법무부가 이 대사의 출금을 해제하는 결정을 내렸고 이 대사는 10일 호주로 떠났다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;먼저 법무부나 대통령실이 인사검증 과정에서 이 대사가 출금된 줄 알고도 임명한 것 아니냐는 의혹이 제기됐다. 출금자를 호주 대사로 임명한 것을 부적절하다는 취지다.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;차규근 전 법무부 출입국외국인정책본부장은 CBS ‘박재홍의 한판승부’ 등에 출연해 “법무부가 이 대사의 출국금지 이의신청을 인용한 것은 지극히 비정상적이고 수사를 이유로 한 출국금지에 대해 이의신청을 인용해 주는 사례는 거의 없다”고 말했다. 이에 법무부는 “최근 5년간 출국금지 이의신청 6건을 인용했고 그중 3건은 차 전 본부장 재직 기간 중 인용됐다”며 “이 대사에 대한 출금 해제 조치 당시, 법무부 장·차관이나 대통령실에 일체 보고되지 않았다”고 반박했다. 차 전 본부장의 발언은 허위라며 법적 조치를 취하겠다고 밝혔다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;대통령실은 야권이 ‘해외 도피 프레임’을 씌워 공세를 펼치고 있다는 입장이다. 오히려 공수처가 이 대사에 대한 조사를 6개월간 하지 않은 게 잘못이라고 강조했다. 대통령실 장호진 국가안보실장은 “민주당 고발 이후 이 대사에 대한 조사가 이뤄지지 않았다. 조사도 안하면서 출금을 연장한 것은 기본권 침해이고 수사권 남용”이라고 지적했다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;야권은 고발로 응수했다. 조국혁신당, 시민단체 등이 윤석열 대통령과 박성재 법무부 장관, 조태열 외교부 장관을 11일 공수처에 고발한 데 이어 더불어민주당 측도 15일 윤 대통령 등을 ‘직권남용, 범죄인 도피혐의’로 고발했다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;이 대사의 출국 논란은 총선의 변수로 떠올랐다. 국민의힘 내부에서는 임명을 철회하자는 목소리가 나왔다. 대통령실은 “야당의 정치공세로 철회는 없다”고 선을 그었다. 한편 이 대사 측은 일부 언론에 언제든지 출석해 조사를 받겠다는 입장을 밝혔다.&amp;nbsp;&lt;/div&gt;</description>
+			<pubDate>Fri, 15 Mar 2024 23:07:38 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196773</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196773</guid>
+			<dc:creator>우빈 기자</dc:creator>
 		</item>
 		<item>
 			<title>이종섭 출국금지 논란 계속…정부 vs 야당 고발전</title>
@@ -210,36 +237,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196801</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/법원_깃발(7).jpg</media:thumbnail>
 			<dc:creator>이순규 기자</dc:creator>
-		</item>
-		<item>
-			<title>헌재, 태국 헌재 및 법원에 전자헌법재판 교육 실시</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/196796_1.jpg" alt="196796_1.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;헌법재판소(소장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7888"&gt;이종석&lt;/span&gt;)는 14~15일 태국 헌법재판소 15명의 방문단을 대상으로 전자헌법재판 관련 교육을 실시했다.&lt;br /&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;방문단은 푸냐 웃차촌(Punya Udchachon) 재판관을 비롯한 태국 헌재 구성원 12명과 태국 행정법원 정보기술전문관, 태국 옴부즈만 정보시스템개발과장, 태국  법원사무처 정보기술국장 등으로 구성됐다. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;교육은 태국 헌법재판소 등의 정보화 역량 강화를 지원하기 위한 프로그램이다. 헌재는 방문단에 심판사건포털시스템, 전자심판정시스템, 정보보호 추진체계, 시각장애인을 위한 정보서비스 등 대한민국 헌재의 다양한 정보통신기술 활용사례를 소개했다.&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/196796_2.jpg" alt="196796_2.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;헌재 관계자는 "이번 교육을 통해 태국 헌법재판소의 정보화 정책 수립에 실질적인 도움을 제공하고, 아시아헌법재판소연합(AACC) 의장직을 수행하고 있는 태국 헌재와의 상호 협력관계 증진에 기여할 수 있을 것"이라고 말했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;한국 헌재의 전자헌법재판 시스템은 AACC 회원국을 비롯한 세계 여러 국가에서 모범사례로 꼽혀 해외 재판기관에서의 교육 수요가 이어지고 있다.&lt;/p&gt;</description>
-			<pubDate>Fri, 15 Mar 2024 08:38:59 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196796</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196796</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/196796_1.jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>[신간소식] '정보통신 전문' 이상직 변호사, 《디지털생활자》 발간</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/196786.jpg" alt="196786.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;'과연 AI의 미래는 장밋빛이기만 할까?' &lt;br /&gt;&lt;br /&gt;정보통신 전문가인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8946"&gt;이상직&lt;/span&gt;(사법연수원 26기) 변호사가 최근 신간 《디지털생활자》를 발간했다. 저자는 책에서 AI가 만드는 디지털 세상을 풍요롭고 아름답게 가꾸기 위해 우리가 챙겨야 할 것은 무엇인지 살핀다. &lt;br /&gt;&lt;br /&gt;AI 기술은 디지털 혁명의 불쏘시개로 나타났다. AI가 주도하는 디지털 세상에서 인간은 보다 편리한 삶을 살고, 사회 각 분야는 한층 더 진보할 것이다. 그러나 명과 암이 공존한다. 저자는 AI 기술을 악용해 전쟁을 일으키고, 산업과 시장을 교란하고, 자유와 권리 등 인간의 존엄을 해치는 일이 일어날 수 있다고 경고한다. AI 혁명기를 맞이하는 우리가 법과 윤리로 단단히 무장해야 할 이유다.  &lt;br /&gt;&lt;br /&gt;정보통신 전문 변호사인 저자는 이 책에서 AI와 디지털 세상에서 우리에게 닥쳐올 변화를 말한다. AI가 중심이 되는 디지털 시대에 기술과 인간, 국가와 정치, 사회와 문화, 산업과 경제가 어떤 가치를 가지고 어떻게 창조되고 지켜나가야 하는지 고민하고 대안을 찾는다. &lt;br /&gt;&lt;br /&gt;이 변호사는 과학기술과 삶을 디지털로 잇는 디지털 인문학을 연구한다. 1994년 사법시험을 합격하고 정보통신부 공무원, KT 윤리경영실 법무센터장을 거쳐 현재 &lt;a href="https://www.bkl.co.kr/" target="_blank"&gt;&lt;b&gt;법무법인 태평양&lt;/b&gt;&lt;/a&gt; 변호사로 재직중이다. 국가지식재산위원회 AI 지식재산특별전문위원장, 과학기술정보통신부 AI 법제정비단 위원을 맡으면서 AI에 관심을 갖게 됐고, 언론에 AI와 디지털에 관한 글을 쓰고 있다. 저서로는 《나는 인공지능을 변호한다》 《혁신과 공존의 신세계, 디지털》이 있다. &lt;br /&gt;</description>
-			<pubDate>Fri, 15 Mar 2024 08:19:45 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196786</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196786</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/196786.jpg</media:thumbnail>
-			<dc:creator>유지인 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 세종, '국제중재 전문' 방형식 외국변호사 영입</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/196792.jpg" alt="196792.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.shinkim.com/kor" target="_blank"&gt;&lt;b&gt;법무법인 세종&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1285"&gt;오종한&lt;/span&gt;)이 국제중재와 국제투자분쟁에서 풍부한 경험을 지닌 방형식 외국변호사를 선임외국변호사로 지난 11일 영입했다.&lt;br /&gt;&lt;br /&gt;방 변호사는 주로 건설과 M&amp;A 등 다양한 산업의 국제중재 분야에서 활동한다. 2020년부터 2024년 2월까지 &lt;a href="https://www.bkl.co.kr/" target="_blank"&gt;&lt;b&gt;법무법인 태평양&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8313"&gt;이준기&lt;/span&gt;)에 있었고, 이전에는 셔먼앤스털링(Shearman &amp; Sterling LLP) 싱가포르 사무소에서 약 10년 동안 국제중재변호사로 활동했다. 뉴질랜드와 미국 뉴욕주 변호사 자격을 갖고 있다. &lt;br /&gt;&lt;br /&gt;2022년과 2023년에 국제 로펌 평가기관 'The Legal 500'의 아시아태평양 국제중재 부문 차세대 파트너변호사로 선정된 바 있다.</description>
-			<pubDate>Fri, 15 Mar 2024 08:11:35 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196792</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196792</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/196792.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
