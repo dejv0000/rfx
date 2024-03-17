@@ -6,6 +6,19 @@
 		<link>https://www.lawtimes.co.kr/opinion</link>
 		<language>ko</language>
 		<item>
+			<title>로 앤 스마트 : ‘과학전쟁’의 시사점과 위험통제 - 첨단 과학 발전에 비례하여 &lt;br&gt;
+위험 커지고 공동체 안전 위협 &lt;br&gt;
+앞으론 AI 등 과학의 위험을 &lt;br&gt;
+어떻게 통제할지 머리 맞대야</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/2023_lawsmart_jik.jpg" alt="2023_lawsmart_jik.jpg" /&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;과학은 언제나 옳은가? 역사는 과학이 국방, 시장경제와 결합하여 쌓아 올린 금자탑이다. 아이작 뉴튼의 고전물리학, 알버트 아인슈타인의 상대성이론, 닐스 보어의 양자역학 등 과학은 동서고금을 통틀어 정치, 경제, 사회, 문화에 관계없이 항상 진리를 추구했다. 정말 그럴까. 과학철학자의 의견을 보자. 토마스 쿤은 ‘과학혁명의 구조’에서 과학자가 자신의 이해관계에 따라 과학이론을 만든다고 의심했다. 패러다임 전환은 객관적 기준이 아니라 주류 과학자의 세대교체가 있어야 가능하다고 했다. 브뤼노 라투르는 과학자가 주장하는 유전자, 전자 등 미립자들도 정말 존재하는지 의심된다고 했다. 구석에 몰린 과학자는 어떻게 대응했을까. ‘과학전쟁’의 서막이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;과학철학자들의 학술지에 ‘소셜 텍스트’가 있다. 1996년 뉴욕대 물리학 교수이자 과학자 앨런 소칼은 소셜 텍스트 과학전쟁 특별호에 논문 ‘경계를 넘어: 양자중력의 변형 해석학을 향하여’를 게재했다. 양자중력이 포스트모더니즘 과학의 결정적 모델이 될 수 있다는 내용을 담았다. 복잡하고 난해한 논문인데 이해하지 못했다고 자책 말라. 과학철학자들의 글을 이리저리 짜깁기하고 각주 약 100개, 참고문헌 약 200개를 붙여 횡설수설을 거듭한 가짜 논문이다. 앨런 소칼은 ‘링구아 프랑카’라는 인문학 잡지에 그 사실을 스스로 폭로했다. 자신의 가짜 논문이 학술지 소셜 텍스트에 쉽게 등재된다는 것 자체가 과학철학이 얼마나 형편없는지 보여준다고 했다. 당황한 소셜 텍스트는 편집위원회에서 논문 채택 여부를 논의했다고 밝혔다. 앨런 소칼의 주장이 뭔지 알기 어려워 수정을 요구했지만 거절되었다고 해명했다. 그러나 동료 학자에 의한 논문 평가를 거치지 않았다는 사실도 드러났다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;철학, 과학뿐 아니라 법학, 경영학, 언론학 등 각 분야는 칸막이가 쳐져 있어 자신들만 아는 용어와 은유, 비유를 쓰고 자신들에게만 통용되는 논증과 입증을 한다. 학문이 다른 학문을 만나면 싸울 수밖에 없는 이유다. 그러나 더 중요한 것이 있다. 과학은 막대한 연구개발비를 투입해 국방무기를 양산하여 나라를 지켰다. 기계, 살충제, 원자력, 인공지능 등 연구를 통해 산업을 지원하면 국가사회에 이익이 되는 시장경제로 성장했다. 물론 항상 좋은 결과만 가져오진 않았다. 인간의 생명, 신체, 재산의 안전에 위협이 되기도 한다. 울리히 벡은 과학 발전에 비례하여 위험이 커지고 공동체 안전을 위협한다고 했다. 과학철학자의 과거 주장이 과학의 신뢰성을 떨어트리는 것에 중점이 있었다면, 앞으론 과학의 위험을 어떻게 통제할 것인지 중점을 둬야 한다. 그러기 위해 학문 간 칸막이를 걷어내고 학자들이 머리를 맞대야 한다. 인공지능 등 첨단 과학을 ‘프로메테우스의 안전한 불’이 될 수 있도록 힘을 모아야 한다.&lt;/p&gt;&lt;br /&gt;&lt;b&gt;이상직 변호사(법무법인 태평양)&lt;/b&gt;</description>
+			<pubDate>Sat, 16 Mar 2024 23:38:50 -0000</pubDate>
+			<category>opinion</category>
+			<link>https://www.lawtimes.co.kr/opinion/196715</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/196715</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/2023_lawsmart_jik.jpg</media:thumbnail>
+			<dc:creator>이상직</dc:creator>
+		</item>
+		<item>
 			<title>고승덕의 백세건강 모범답안 : (64) 고기 구울 때 발암물질을 줄이려면</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/2023n_100years_go.jpg" alt="2023n_100years_go.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;하버드대학의 랭함(Wrangham) 교수는 인류가 불을 조리에 사용했기 때문에 성공적으로 진화했다는 이론으로 학계의 공감을 얻었다. 고기, 전분 등은 가열하면 소화가 쉽기 때문에 인간이 익힌 음식을 먹으면서 소화관이 짧아지고 이빨과 턱은 작아졌으며 잉여 영양의 공급으로 뇌가 커졌다는 것이다. 또한 날것을 씹고 소화시키는 시간이 줄면서 공동생활을 챙길 수 있게 되었고 조리를 위해 인간이 짝을 짓고 가정을 만들고 노동이 성별로 분화되었다고 한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/196710_2.jpg" alt="196710_2.jpg" style="width: 320px; height: 460px;" /&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 320px;"&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;         &lt;b&gt;랭함 교수의 저서 Catching Fire (2009)&lt;/b&gt;&lt;br /&gt;         &lt;p style="text-align: justify;"&gt;랭함 교수는 인류가 불을 조리에 이용한 것이 오늘의 인간을 만들었다고 설명한다. 인간은 불로 익힌 음식을 먹으면서 뇌가 커졌고, 가정과 공동체를 영위할 수 있는 시간적 여유가 생겼다고 한다.&lt;/p&gt;      &lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;생식론자는 선사시대에 음식을 날것으로 먹었다고 주장하지만 인류사적으로 사실이 아니다. 이스라엘에서는 적어도 78만년 전에 호모 에렉투스로 추정되는 인류가 물고기를 불로 조리한 증거가 발견되었다. 남아프리카에는 약 17만년 전에 호모 사피엔스가 전분 음식을 불로 조리한 흔적이 남아있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;고기를 익혀먹으면 향과 맛이 좋아지고 건강에도 유익하다. 고기를 가열하면 소화가 잘 된다. 단백질은 41°C 이상에서 3차원으로 접힌 구조가 풀어지기 때문에 소화효소에 의해 쉽게 분해된다. 고열은 살균 효과도 있다. 균은 주로 4~60°C에서 번식하기 때문에 미국 FDA는 고기나 생선을 63°C 이상에서 조리하라고 권한다. 63°C는 스테이크를 미디움으로 굽는 온도이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;문제는 고열에서 생성되는 HCA, PAH 등 유해물질이다. 고기 유형, 조리법, 굽기 정도 등에 따라 유해물질이 생성되는 온도가 다르지만 HCA는 149°C 이상 또는 장시간 가열하면 생성된다(미국 국립암연구소). 예로 고기를 볶거나 튀기거나 웰던으로 구우면 생성된다(2021 리뷰). PAH는 고기를 태우거나 연기 나게 구우면 생성된다(2012 논문).&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;HCA와 PAH는 국제암연구소 등이 공인한 발암물질이다. 동물실험에서 다양한 암을 유발했다. 고온 조리에서 생성되는 수준은 미량이지만 다년간 노출되면 DNA의 손상과 변이가 축적되어(2023 논문) 암 발생 위험이 증가한다. HCA는 암(결직장, 췌장, 위, 유방 등)과 연관되고, PAH는 암(피부, 폐, 방광, 간, 위 등) 뿐 아니라 심혈관질환(특히 죽상동맥경화증)을 유발한다(2006 논문). 고온에서 조리한 붉은 고기는 대장암, 췌장암 등을 유발하고 당뇨, 심혈관질환 등과 연관된다(2004 논문).&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;고온 가열로 생성되는 발암물질을 피한다고 고기를 안 먹는 것은 현명하지 않다. 채식주의자는 고기 먹는 사람에 비해 결직장암과 전립선암의 위험은 낮지만(2022 메타분석) 비타민 A, B12, D, 칼슘 등의 부족으로 인한 건강상 문제가 생길 수 있다. 특히 비타민 B12 부족은 인지기능 저하 및 치매와 상관있다(2007, 2012 논문).&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;고기를 구울 때는 직화를 피하고(2012 논문) 가열 시간을 줄이는 것이 HCA, PAH 등 유해물질을 줄이는 방법이다. 고기를 전자렌지에 살짝 돌린 다음 구우면 가열 시간이 줄어서 HCA가 현저히 감소한다(2005 논문). 고기를 굽기 전에 항산화물질이 풍부한 마늘, 양파 등으로 버무리는 것도 유해물질 감소에 효과적이다(2021 메타분석). 고기를 레몬즙, 적포도주, 딸기 추출물 등으로 재우면 HCA가 40~80% 감소한다는 보고도 있다. 불판 위에서 고기를 계속 뒤집는 등으로 고기가 타거나 연기 나지 않게 굽고, 채소를 풍부하게 먹는 것이 좋다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;고승덕 한국청소년쉼터협의회 이사장 · 변호사&lt;/b&gt;&lt;/p&gt;</description>
 			<pubDate>Fri, 15 Mar 2024 23:30:12 -0000</pubDate>
@@ -73,20 +86,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/196622</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/2023_withnewlaw_kim.jpg</media:thumbnail>
 			<dc:creator>김정현</dc:creator>
-		</item>
-		<item>
-			<title>로 앤 스마트 : 홍채정보와 코인 - 변경이 불가능한 홍채정보는&lt;br&gt;
-엄격하게 보호하는 개인정보&lt;br&gt;
- &lt;br&gt;
-수집 목적, 항목, 보유기간 등&lt;br&gt;
-동의前 잘 살펴보고 결정해야 </title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/2023_lawsmart_soo.jpg" alt="2023_lawsmart_soo.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;긴 줄이 서 있다. 맛집인가 하고 보니 코인을 받기 위한 줄이라고 한다. 가상화폐가 연일 상승곡선을 그리고 있는데, 코인을 무료로 나눠주는 자산가가 누구인지 궁금했다. 그런데, 코인을 무료로 주는 것이 아니라 홍채정보를 제공해야 한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;가상화폐 시장에서 매일, 매시간 오름세가 다를 수는 있지만, 시장은 연일 상승세로 나아가고 있다. 홍채정보와 교환하고 있는 코인은 AI의 대명사로 꼽히는 회사의 CEO가 개발한 것으로 최근 가파르게 상승하고 있다. AI와 로봇의 등장으로 직업이 아예 없어지거나 인력이 대체되는 것에 대해 사람들이 두려움을 가지고 있으므로 이를 해결하기 위해 기본소득 개념으로 코인을 무상으로 제공하겠다는 취지라고 한다. 홍채정보가 필요한 이유는 사람이 AI가 아님을 입증하기 위해서다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;홍채정보는 생체인식정보로서 개인정보 보호법에서도 엄격하게 보호, 규제한다. 생체인식정보는 그 자체로 유일하게 식별할 수 있고, 변경이 불가능한 특성으로 인해 한번 유출되면 그 피해를 복구하기 어려운 특징이 있다. 지문, 얼굴, 홍채사진 등 위조 또는 변조된 생체인식정보를 이용한 해킹 사례가 발생하면서 개인정보보호위원회는 2021년도에 ‘생체정보 보호 가이드라인’을 만들었다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;해당 사업자가 현재 우리나라 10여 개의 장소에서 얼굴, 홍채인식 정보를 수집하고 처리하는 것에 대해 정부에 민원 신고가 되면서 개인정보보호위원회에서 민감정보 수집 처리 전반, 개인정보의 국외이전 등에 대해 조사를 진행하여 위반사항이 확인된 경우, 조치할 것이라는 계획을 발표하였다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;우리나라 뿐 아니라 스페인은 이미 EU GDPR(개인정보보호법) 이슈를 제기하였고, 해당 사업자에 대해 최대 3개월간의 중단조치를 내렸다. 사업자는 정보주체로부터 동의를 받아 적법하게 진행한 것이라 주장하고 있다. 정확한 판단은 일단 조사 결과가 나올 때까지는 유보되어야 할 것이다. 개인정보보호위원회 조사도 조사건마다 다르기는 하지만 일단 조사가 시작되면 결과가 나올 때까지 6개월 정도의 기간이 소요될 것이라고 본다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;나의 지문, 얼굴, 홍채정보는 법적으로 보호받는 개인정보다. 타인에게 이러한 민감정보를 제공하는 데에 동의하고자 할 때에는 무슨 목적으로 수집하고자 하는지, 수집하려는 항목은 무엇인지, 보유 및 이용 기간은 어느 정도인지, 내게 동의를 거부할 권리가 있다고 알려주는지 잘 살펴보고 결정해야 한다.&lt;/p&gt;&lt;br /&gt;&lt;b&gt;이수경 변호사(법무법인 화우)&lt;/b&gt;&lt;br /&gt;</description>
-			<pubDate>Wed, 13 Mar 2024 04:35:34 -0000</pubDate>
-			<category>opinion</category>
-			<link>https://www.lawtimes.co.kr/opinion/196625</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/196625</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/2023_lawsmart_soo.jpg</media:thumbnail>
-			<dc:creator>이수경</dc:creator>
 		</item>
 		<item>
 			<title>이재홍의 판결 &amp; 사법제도 이야기 : (8) 남겨진 희망과 과제들 - 집행유예 판결에 붙이는&lt;br&gt;
