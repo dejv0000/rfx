@@ -6,6 +6,42 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>【오늘의 법조】 2024년 3월 19일</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;b&gt;[법원]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;▷'특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 이화영 전 경기도 평화부지사 외 1명 공판&lt;/b&gt;&lt;br /&gt;-오전 10시, 수원지법&lt;br /&gt;&lt;br /&gt;&lt;b&gt;▷'특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 이재명 더불어민주당 대표 외 1명 16차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시30분, 서울중앙지법&lt;br /&gt;&lt;br /&gt;&lt;b&gt;▷'뇌물공여 등 혐의' 김상헌 전 네이버 대표 외 7명 공판&lt;/b&gt;&lt;br /&gt;-오후 1시30분, 수원지법 성남지원&lt;br /&gt;&lt;br /&gt;&lt;b&gt;▷'자본시장과금융투자업에관한법률위반 등 혐의' 박수종 외 5명 3차 공판&lt;/b&gt;&lt;br /&gt;-오후 2시. 서울고법&lt;br /&gt;&lt;p style="font-weight: bold;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;hr style="font-weight: bold; border-width: 1px 0px 0px; border-style: dashed; border-color: lightgray;" /&gt;&lt;p style="font-weight: bold; text-align: center;"&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p style="font-weight: bold; text-align: center;"&gt;   &lt;b&gt;&amp;nbsp;[로펌]&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p style="font-weight: bold; text-align: center;"&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;▷법무법인 세종·대한상공회의소, '2024년 주목해야 할 노동판결 및 기업 인사노무전략' 웨비나&lt;/b&gt;&lt;br /&gt;-오후 2시&lt;br /&gt;&lt;br /&gt;&lt;b&gt;▷법무법인 지평, '노동그룹 고객 초청 세미나&lt;/b&gt;&lt;br /&gt;-오후 2시, 서울 중구 세종대로 그랜드센트럴 B동 3층 오디토리움&lt;br /&gt;&lt;p style="font-weight: bold;"&gt;&amp;nbsp;&lt;/p&gt;&lt;hr style="font-weight: bold; border-width: 2px 0px 0px; border-color: lightgray;" /&gt;&lt;br /&gt;&lt;p style="font-weight: bold; text-align: center;"&gt;   &lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[오늘의 PICK ]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;br /&gt;&lt;b&gt;▷공수처, 법무부 반대에도 불기소 사건 자료 검찰에 송부 안 해&lt;/b&gt;&lt;br /&gt;고위공직자범죄수사처가 자체 규칙 개정을 통해 공소권 없는 사건을 불기소 처분하는 경우 검찰에 관계 서류를 넘기지 않기로 했다. 공수처는 19일부터 이같은 내용의 '개정 사건사무규칙'을 시행한다.&lt;br /&gt;&lt;p style="font-weight: bold;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="font-weight: bold; text-align: center;"&gt;   &lt;a href="https://www.lawtimes.co.kr/news/196857" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;hr style="font-weight: bold; border-width: 1px 0px 0px; border-style: dashed; border-color: lightgray;" /&gt;&lt;b style="font-weight: bold;"&gt;&amp;nbsp;&lt;/b&gt;&lt;p style=""&gt;   &lt;b&gt;▷'공직선거법 위반' 공판준비기일서 검찰 vs 김혜경 공방&lt;/b&gt;&lt;br /&gt;2021년 대선 후보 경선 당시 더불어민주당 관련 인사에게 10만4000원 상당의 식사를 제공한 혐의로 기소된 이재명 더불어민주당 대표의 배우자 김혜경 씨 준비기일에서 검찰과 김 씨 측간 설전이 벌어졌다. 검찰이 "이 사건 범행 전후로 4건의 추가 기부행위를 적발했다"고 주장하자 김 씨 측은 "공소시효가 지났고 기소되지 않은 사건"이라며 강하게 반박했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style="font-weight: bold; text-align: center;"&gt;   &lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;a href="https://www.lawtimes.co.kr/news/196851" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/p&gt;</description>
+			<pubDate>Mon, 18 Mar 2024 21:27:01 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196855</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196855</guid>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>【오늘의 국회일정】 2024년 3월 19일</title>
+			<description>&lt;b&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:20 서영교 의원, [제22대 총선 서울 중랑구갑 선거구 더불어민주당·진보당 후보단일화 발표 기자회견]&lt;br /&gt;&lt;br /&gt;09:40 김민정 녹색정의당 대변인, [제22대 총선 녹색정의당 폭염시 기후휴업 공약 발표 기자회견]&lt;br /&gt;&lt;br /&gt;10:00 김종민 의원, [제22대 총선 새로운미래 정책 공약 발표 기자회견]&lt;br /&gt;&lt;br /&gt;10:20 장혜영 의원, [제22대 총선 서울 마포을 선거 관련 입장 발표 기자회견]&lt;br /&gt;&lt;br /&gt;10:40 박지아 녹색정의당 대변인, [제22대 총선 녹색정의당 공천 여성할당 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 박주민 의원, [대통령실 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:40 이종성 의원, [더불어민주당 강득구 국회의원 선거부정 및 조작, 정치자금법 위반 관련 기자회견]&lt;br /&gt;&lt;br /&gt;13:20 황보승희 의원, [제22대 총선 자유통일당 정책 발표 기자회견]&lt;br /&gt;&lt;br /&gt;13:40 조정훈 의원, [제22대 총선 국민의힘 서울 마포갑 1호 공약 발표 기자회견]&lt;br /&gt;&lt;br /&gt;14:00 김지호 더불어민주당 부대변인, [더불어민주당 검찰독재정치탄압대책위원회 기자회견]&lt;br /&gt;&lt;br /&gt;14:20 강민정 의원, [이종섭 주호주대사 임명 철회 및 국내 소환 수사 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;14:40 이자스민 의원, [세계 인종차별철폐의 날 관련 기자회견]&lt;br /&gt;&lt;br /&gt;15:00 이인영 의원, [정치 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;15:20 한준호 의원, [제22대 총선 더불어민주당 고양시 갑을병정 국회의원 후보 합동 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있음.&lt;/span&gt;&lt;br /&gt;</description>
+			<pubDate>Mon, 18 Mar 2024 21:23:53 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196870</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196870</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
+			<title>檢, 'SG발 주가조작' 연루 임창정 피의자 소환</title>
+			<description>소시에테제네랄(SG)증권발 주가조작 사태를 수사하는 검찰이 최근 가수 겸 배우 임창정 씨를 피의자 신분으로 불러 조사했다.&lt;br /&gt;&lt;br /&gt;18일 법조계에 따르면, 서울남부지검 금융·증권범죄합동수사부(&lt;span style="font-weight: bold;" class="lawmanlink" serial="10668"&gt;하동우&lt;/span&gt;&amp;nbsp;부장검사)는 지난주 임 씨를 피의자 신분으로 소환 조사했다.&lt;br /&gt;&lt;br /&gt;검찰은 임 씨를 상대로 주가조작 일당에 돈을 투자한 경위 등을 조사한 것으로 전해졌다.&lt;br /&gt;&lt;br /&gt;임 씨는 주가조작 사태의 핵심 인물인 라덕연 씨가 대표로 있는 호안투자자문에 30억 원가량의 거액을 투자하고, 라 대표가 주최한 파티와 투자자 모임 등에 참석해 투자를 유도하는 취지의 발언을 해 온 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;이와 관련해 임 씨는 본인도 수십억 원의 빚을 떠안은 피해자라며 주가조작에 관여한 적이 없다는 입장이다.&lt;br /&gt;&lt;br /&gt;앞서 검찰은 7일 회계사, 변호사, 증권사 간부 등 41명을 추가로 재판에 넘겼다. 지금까지 검찰이 기소한 이들은 라 대표를 비롯해 총 56명이다.&lt;br /&gt;&lt;br /&gt;이들은 2019년 5월부터 지난해 4월까지 서로 공모해 미신고 유사투자자문업체를 운영하고 통정매매 등의 수법으로 8개 종목의 시세를 조종해 7305억 원의 부당이익을 올린 혐의를 받는다.&lt;br /&gt;</description>
+			<pubDate>Mon, 18 Mar 2024 21:21:54 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196859</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196859</guid>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>공수처, 불기소 사건 검찰에 송부 안 해…법무부 "형사사법체계에 부합하지 않아"</title>
+			<description>고위공직자범죄수사처가 자체 규칙 개정을 통해 공소권 없는 사건을 불기소 처분하는 경우 검찰에 관계 서류를 넘기지 않기로 하자 법무부가 "위헌 소지가 있다"며 반발하고 있다.&lt;br /&gt;&lt;br /&gt;공수처는 ‘기소권 없는 사건의 불기소시 관계 서류 등을 서울중앙지검에 송부’하는 규정을 삭제하는 내용을 담은 개정 사건사무규칙 일부개정안을 시행한다고 18일 밝혔다. 19일 관보 게재 후 시행할 예정이다.&lt;br /&gt;&lt;br /&gt;기존 사건사무규칙 제28조는 공수처가 공소권 없는 사건을 처리할 때, 공소제기를 요구하는 경우는 물론 불기소 결정을 할 때도 사건 관계 서류와 증거물 등을 서울중앙지검에 송부하도록 규정해왔다. 개정 규칙은 이 가운데 불기소 결정 사건에 관한 조항을 삭제한 것이다.&lt;br /&gt;&lt;br /&gt;공수처법은 공수처 검사가 검사와 판사, 경무관 이상 경찰공무원에 대해서만 공소를 제기할 수 있다고 명시하고 있다. 그 밖의 고위공직자에 대해서는 검찰에 공소 제기를 요구하면 검찰이 기소하는 형식을 취한다.&lt;br /&gt;&lt;br /&gt;공수처는 공소권 없는 사건을 불기소 처분하고, 고소·고발인이 불복해 재정 신청을 제기하면 공수처에 자료가 남아있지 않아 대응할 수 없는 상황을 보완하는 취지라고 설명했다.&lt;br /&gt;&lt;br /&gt;공수처가 개정 근거로 삼은 공수처법 조항은 제27조와 제29조다.&lt;br /&gt;&lt;br /&gt;공수처는 "공수처법 제27조에 의하면 공수처는 기소권 존재 여부와 무관하게, 모든 수사 대상 범죄에 대한 불기소결정권이 존재한다"고 해석했다.&lt;br /&gt;&lt;br /&gt;공수처법 제29조와 관련해선 "기소권 없는 사건의 불기소결정에 대해서 고소·고발인은 재정신청을 할 수 있는데, 위 조항은 공수처에서 해당 '불기소기록'을 보유하고 있음을 전제하고 있다"고 판단했다.&lt;br /&gt;&lt;br /&gt;법무부와 검찰은 입법예고 단계부터 공수처의 사건사무규칙 개정을 반대해 왔다. 법무부는 "법률의 명시적 규정이 없음에도 행정규칙으로 고소·고발인의 항고권과 재항고권을 박탈하는 것은 위헌 소지가 크다"며 "공수처법에 대한 국회의 논의과정에서도, 공수처법 제29조의 재정신청 대상인 불기소 처분은 '기소권을 가진 사건에 한정'되는 것으로 논의가 이루어진 바 있다"고 했다. &lt;br /&gt;&lt;br /&gt;법무부는 "논리적으로도, 기소권과 불기소 결정권은 동전의 양면과 같이 불가분의 관계에 있으므로, 공수처가 기소를 할 수 없음에도 불기소만을 할 수 있다는 것은 형사사법체계에 부합하지 않는 주장"이라고 강조하며 이같은 내용으로 두 차례에 걸쳐 반대 의견을 냈다고 밝혔다.</description>
+			<pubDate>Mon, 18 Mar 2024 21:21:17 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196857</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196857</guid>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>이상현 前 대구지검 경주지청장, 법무법인 광장 합류</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/196854.jpg" alt="196854.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10471"&gt;이상현&lt;/span&gt;(50·사법연수원 33기) 전 대구지검 경주지청장이 &lt;a href="https://www.leeko.com/leenko/main.do?lang=KR" target="_blank"&gt;&lt;b&gt;법무법인 광장&lt;/b&gt;&lt;/a&gt;에 18일 합류했다.&lt;br /&gt;&lt;br /&gt;이 변호사는 서울 경복고와 서울시립대 도시행정학과를 졸업하고 2001년 제43회 사법시험에 합격했다. 2004년 제33기로 사법연수원을 수료한 뒤 서울북부지검 검사로 공직의 첫발을 내디뎠다. 그뒤 울산지검 검사, 서울중앙지검 검사, 제주지검 검사, 울산지검 공안부장검사, 대전지검 공공수사부장검사, 서울중앙지검 공공수사2부장검사(선거·정치전담부) 등을 역임했다. &lt;br /&gt;&lt;br /&gt;2009년에는 범죄수익환수로 법무부장관 표창을, 2021년에는 대검 노동분야 공인전문검사 인증을 받았다. 2024년 2월 대구지검 경주지청장을 마지막으로 20년 공직생활을 마무리짓고 법무법인 광장 변호사로 새 출발했다.</description>
 			<pubDate>Mon, 18 Mar 2024 08:45:55 -0000</pubDate>
@@ -201,43 +237,6 @@
 			<link>https://www.lawtimes.co.kr/news/196821</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196821</guid>
 			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] '후배 가혹행위·추행' 전 프로축구 선수 1년 2개월 실형 확정</title>
-			<description>&lt;p&gt;후배 선수들에게 가혹행위를 하거나 성추행한 혐의로 재판에 남겨진 전직 프로축구 선수에게 징역형이 확정됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;대법원 형사1부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3170"&gt;김선수&lt;/span&gt;&amp;nbsp;대법관)는 2월 29일 강제추행·강요 등 혐의로 기소된 A 씨에게 징역 1년 2개월을 선고하고 40시간의 성폭력 치료프로그램 이수와 아동·청소년·장애인 관련 시설 3년간 취업 제한을 명령한 원심을 확정했다(&lt;b&gt;2023도16660&lt;/b&gt;).&lt;p&gt;&amp;nbsp; &lt;br /&gt;&lt;/p&gt;&lt;p&gt;A 씨는 2018년 선수단 숙소 내에서 새로 입단한 신인 선수들이 바닥에 머리를 박게 하거나 옷을 벗기고 여러 차례 추행한 혐의로 기소됐다. 또 휴지케이스 등 물건을 던지거나 폭행해 다치게 한 혐의도 받았다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1심은 피해자의 진술을 신뢰할 수 있다고 판단해 A 씨에게 유죄를 선고했다. 다만 추행으로 외상후 스트레스 장애 등의 상해를 입게 했다는 강제추행치상 혐의는 무죄로 판단하고 초범인 점 등을 고려해 징역형 1개년 2개월에 집행유예 2년 등을 선고했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;항소심은 피해자의 진술은 신뢰할 수 있지만 그밖에 객관적인 증거가 부족하다며 A 씨 혐의 중 일부를 무죄로 판단하면서도  실형을 선고하며 법정구속했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;항소심은 "A 씨는 자신보다 나이가 10살 이상 어린 피해자들을 상대로 쉽게 저항하지 못하는 점을 이용해 범행을 저질렀고, 피해자는 정신적 고통을 호소하면서 엄벌을 탄원하고 있다"며 "그럼에도 A 씨는 수사와 재판 과정에서 범행을 모두 부인하면서 피해자가 축구 선수로서 능력이 부족했다거나 생활 태도가 불량했다는 등 피해자를 비난하는 태도로 일관해 2차 가해를 했다"고 지적했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;A 씨는 항소심 판결에 불복했해 상고했지만, 대법원은 원심의 결론에 잘못이 없다고 보고 원심을 그대로 확정했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Sun, 17 Mar 2024 06:23:35 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196822</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196822</guid>
-			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 수형자 편지만 보고 약 처방한 의사… 법원 "자격정지 정당"</title>
-			<description>수형자에게 편지만으로 증상만 전해 듣고 직접 진단하지 않은 채 처방전을 발급해 준 의사에게 보건복지부가 내린 면허 자격정지 처분은 정당하다는 판결이 나왔다. 편지를 보낸 수형자들 중에는 마약사범이 포함돼 있었고 일부 향정신성의약품도 처방된 것으로 알려졌다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;서울행정법원 행정12부(당시 재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8232"&gt;정용석&amp;nbsp;&lt;/span&gt;부장판사)는 지난해 12월 7일 A 씨가 보건복지부 장관을 상대로 낸 의사면허자격정지처분 취소소송(&lt;b&gt;2022구합88644&lt;/b&gt;)에서 원고패소 판결했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;A 씨는 2019년 교도소 수형자를 직접 진찰하지 않고 편지로만 증상을 전달받았음에도 처방전을 총 17회 교부한 혐의로 기소돼 2021년 벌금 300만 원의 약식명령을 받아 확정됐다. 보건복지부는 이를 근거로 2022년 A 씨에게 자격정지 2개월 처분을 내렸고 A 씨는 이에 불복해 소송을 냈다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;재판부는 "처방전은 의사가 환자를 직접 진찰하거나 검안한 결과를 바탕으로 전문 판단을 표시하는 것이며 중요한 사회적 기능을 하고 있다"며 "환자를 직접 진찰하지 않은 의사가 처방전을 발급하는 행위는 엄격히 제재할 필요가 있다"고 밝혔다. 의사가 환자를 직접 진찰하지 않고 처방전을 발급하는 경우 환자의 증상과 맞지 않는 약이 처방될 위험성이 커진다는 것이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;재판부는  "A 씨가 처방한 의약품에는 마약류 관리에 관한 법률에 따라 향정신성의약품으로 분류되는 것도 포함돼 있는데, 이는 특성상 오남용의 우려가 있고 건강과 생명에 치명적인 영향을 미칠 가능성이 있다"며 "이러한 점에서도 A 씨의 위반행위를 엄격히 제재할 필요가 있다"고 덧붙였다. 이어 "의료인 업무가 국민의 생명·건강에 직접적으로 영향을 미치는 점 등을 고려하면 이 사건 처분으로 A 씨가 받게 될 불이익은 의료법 위반행위 규제의 공익성보다 결코 크다고 보기 어렵다"고 했다.&lt;/p&gt;</description>
-			<pubDate>Sun, 17 Mar 2024 06:19:07 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196817</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196817</guid>
-			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>유럽인권재판소, 북한 주민 러시아 상대 송환 거부 소송 19일 판결</title>
-			<description>유럽인권재판소가 19일 북송 위기에 처한 북한 주민들이 자신들에게 추방·강제 퇴거 명령을 내린 러시아를 상대로 제기한 소송에 대한 판결을 내린다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;미국의소리(VOA) 보도에 따르면, 유럽인권재판소(ECHR)는 19일 북한으로의 송환을 거부하고 러시아에 합법적으로 잔류하기를 원하는 북한 국적자 3명이 러시아 정부를 상대로 낸 소송에 대해 판결한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;유럽인권재판소에 따르면, 북한 국적자 A 씨와 B 씨는 2020년 러시아 영해에서 불법적으로 고기잡이를 한 혐의로 유죄 판결을 받고 징역형을 선고받았다. 또 2019년 러시아 블라디보스토크에서 유학 중이던 또 다른 북한 국적자 C 씨는 1년 동안의 학업 후 북한으로 돌아가지 않기로 결정했으나 이후 제대로 된 기록도 없이 구금됐다고 주장했다. 특히 C 씨는 납치돼 제대로 된 법적 절차를 거치지 않고 러시아에서 북한 관리에게 넘겨졌다고 주장했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이들 3명은 모두 유효한 신분증 없이 난민 지위나 임시 망명 또는 신원 확인 절차를 신청해 러시아에서 합법적 지위를 얻고자 했다. 하지만 러시아 당국은 이들에 대해 추방 및 행정적 강제 퇴거 명령을 내렸다. 이들은 추방 때까지 구금된 상태인 것으로 조사됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;앞서 2020년 유럽인권재판소는 각각 잠정 조치를 적용해 재판이 진행되는 동안 신청인들을 추방해서는 안 된다고 러시아 정부에 지시했다. 재판소는 신청인들의 익명을 보장하기로 결정했다.&lt;/p&gt;&lt;p&gt;유럽인권재판소는 "이들이 북한으로 송환될 경우 고문이나 처형에 직면할 것이며, 이런 우려에 대한 효과적인 구제 수단이 없다고 호소하고 있다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;유엔 난민협약은 '생명이나 자유가 위협받을 우려가 있는 영역의 국경으로 난민을 추방하거나 송환해서는 안 된다'고 규정한다. 유엔 고문방지협약 또한 '어떤 당사국도 고문을 당할 위험이 있다고 믿을 만한 상당한 근거가 있는 다른 나라로 개인을 추방, 송환, 인도해서는 안 된다'고 명시한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;유럽인권재판소는 유럽인권조약에 근거해 1959년 설립된 국제법원이다. 러시아는 1998년 유럽인권조약을 비준했기 때문에 재판소 판결에 따를 의무가 있다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;2017년 유럽인권재판소는 러시아에서 강제 북송 위기에 있던 최명복 씨에 대해 강제 송환 금지 결정을 내린 바 있다.&lt;/p&gt;</description>
-			<pubDate>Sun, 17 Mar 2024 06:16:22 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196818</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196818</guid>
-			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 신고 없이 승합차에 대리운전 광고 스티커 붙여 운영… "옥외광고물법 위반"</title>
-			<description>&lt;div&gt;   &lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/대법원4(5).jpg" alt="대법원4.jpg" /&gt;&lt;/p&gt;   &lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;지방자치단체장에게 신고하지 않고 승합차에 대리운전 광고 스티커를 붙여 운영한 경우 옥외광고물법 위반으로 볼 수 있다는 대법원 판단이 나왔다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;대법원 형사1부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3170"&gt;김선수&amp;nbsp;&lt;/span&gt;대법관)는 지난달 29일 옥외광고물 등의 관리와 옥외광고산업진흥에 관한 법률 위반으로 기소된 A 씨의 상고심에서 무죄를 선고한 원심을 파기하고 사건을 인천지법으로 돌려보냈다(2021도10133).&lt;/div&gt;&lt;div&gt;옥외물광고법 제3조 제1항 등은 허가 대상 교통수단 이용 광고물을 제외한 나머지 교통수단 이용 광고물을 표시하거나 설치할 때에는 대통령령에 따라 시장 등 지방자치단체장에게 허가를 받거나 신고하도록 규정하고 있다.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;대리운전을 하는 A 씨는 2019년 7월 인천 계양구 일대 도로에서 시장 등에게 신고하지 않은 채 승합차에 ‘B 대리운전’이라고 표시된 스티커를 부착해 대리운전 광고를 설치한 혐의로 기소됐다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;1,2심은 스티커를 부착하는 방법의 광고물까지 옥외물광고법 등의 신고 대상 교통수단 이용 광고물에 포함한다고 볼 수는 없다고 판단해 A 씨에게 무죄를 선고했다. 이는 확장해석 혹은 유추해석에 해당한다는 것이다.&lt;/div&gt;&lt;div&gt;하지만 대법원의 판단은 달랐다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;광고스티커와 같이 특수한 재질의 종이를 교통수단에 표시·부착하는 것도 옥외광고물법 시행령에서 규정하는 ‘교통수단 이용 광고물’ 중 ‘교통수단 외부에 문자·도형 등을 직접 표시하는 광고물’에 해당한다는 취지다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;재판부는 “시행령은 직접표시형 교통수단 이용 광고물을 ‘교통수단 외부에 문자·도형 등을 직접 도료로 표시하는 것’이라고 정하고 있을 뿐 ‘직접 도료로 칠하는 것’이라고 정하고 있지는 않다”며 “교통수단 외부에 문자·도형 등을 직접 도료로 칠하는 경우에만 직접표시형 교통수단 이용 광고물에 해당한다고 한정할 수 없다”고 판시했다.&lt;/div&gt;</description>
-			<pubDate>Sun, 17 Mar 2024 00:17:26 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196778</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196778</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/대법원4(5).jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
