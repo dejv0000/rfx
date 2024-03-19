@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[신간소식] 김중권 중앙대 로스쿨 교수, '행정판례의 분석과 비판Ⅱ' 출간</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/196874(1).jpg" alt="196874.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김중권 중앙대 로스쿨 교수는 최근《행정판례의 분석과 비판Ⅱ》(법문사 펴냄)를 발간했다.&lt;br /&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 책은 김 교수가 2008년부터 출간해 온 행정법 기본연구 시리즈 중 일곱번째로 2002년 이후 국무총리 부서가 없는 대통령령의 효력 등과 개인을 국가보다 앞세우는 헌법 개혁의 필요성 등 적시성이 있는 주제를 다룬 61편의 글을 담았다. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이제까지 김 교수 '행정법 및 공법의 현대화 및 개혁'에 두고서 민주적 법치국가원리를 구체화하는 국민중심적 행정법 및 공법을 구축하기 위해 관련 쟁점을 공론화시켜 왔다. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;김 교수는 "사람의 기억력을 훨씬 능가하는 저장용량을 갖춘 휴대폰이 일상용품이 되어 버린 지금, 법학과 법학교육이 판례를 단순히 또는 잘 정리하여 전달하는 데 그친다면 참으로 불행"이라며 "판례의 비판적 분석이 전제적·병행적으로 행해지지 않으면 법학의 존재이유가 근본적으로 부인될 것"이라고 말했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;그러면서 "행정판례는 종종 사안해결에서 '개별·구체적 상황의 고려'를 앞세워 임기응변적 대처를 하곤 한다"며 "공법적 논리와 사고가 바르게 정립되지 않으면 행정법의 존립이 위협을 받을 것"이라고 설명했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;김 교수는 부산 해동고와 고려대 법대를 졸업하고 같은 대학원에서 박사학위를 취득했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;그는 한국공법학회 제35대 회장, 지방자치단체중앙분쟁조정위원회 제7기 위원장 등을 역임했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;한국법학원 법학논문상((2010), 헌법논총 최우수논문상(2017), 홍조근정훈장(2019) 등을 수상했다.&lt;/p&gt;</description>
+			<pubDate>Tue, 19 Mar 2024 04:52:21 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/196874</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196874</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/196874(1).jpg</media:thumbnail>
+			<dc:creator>이순규 기자</dc:creator>
+		</item>
+		<item>
 			<title>[단독]檢, '새만금 태양광 비리 의혹' 공사 알선 브로커 1명 구속</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/196872.jpg" alt="196872.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;새만금 육상태양광 시설 &amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;문재인 정부 당시 태양광 사업 비리 의혹을 수사하는 검찰이 군산시 새만금 육상 태양광 사업 공사 수주를 알선한 대가로 돈을 챙긴 브로커 1명을 구속했다. 군산시 태양광 사업 비리 의혹과 관련한 첫 신병 확보다.&lt;/p&gt;&lt;br /&gt;19일 법조계에 따르면, 서울북부지검 국가재정범죄합동수사단(단장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10141"&gt;민경호&lt;/span&gt;&amp;nbsp;부장검사)은 전날 법원으로부터 알선수재 혐의로 A 씨에 대한 구속영장을 발부받았다.&lt;br /&gt;&lt;br /&gt;A 씨는 군산시 공무원 등을 상대로 브로커 역할을 하며 군산시 일대 육상 태양광 사업 공사수주를 알선하고 그 대가로 돈을 챙겨온 것으로 알려졌다. 검찰이 A 씨 신병을 확보한 만큼 관련 공무원들과의 연결고리 규명에도 속도가 붙을 전망이다. &lt;br /&gt;&lt;br /&gt;앞서 검찰은 지난해 감사원의 수사 의뢰에 따라 새만금 태양광 발전사업 비리 의혹을 수사해 왔다. 감사원은 지난해 6월 '신재생에너지 사업 추진 실태' 감사를 한 뒤 강임준 군산시장에 대한 수사를 검찰에 요청했다. 강 시장은 총사업비 1300억 원 규모의 태양광 사업을 추진하며, 사업자 선정 과정에서 고교 동문이 운영하는 건설 업체에 특혜를 제공했다는 의혹을 받는다. 검찰은 지난해 7월 전북 군산시청 등을 압수수색하고 본격적인 수사에 돌입했다. &lt;br /&gt;&lt;br /&gt;검찰은 군산시뿐 아니라 태안군 태양광 사업 비리 의혹에 대해서도 전방위적으로 수사하고 있다. 이번 군산시 태양광 사업 관련 브로커의 신병을 확보하면서 관련 수사가 본격화될 것으로 보인다.</description>
 			<pubDate>Tue, 19 Mar 2024 00:45:28 -0000</pubDate>
@@ -227,16 +237,6 @@
 			<link>https://www.lawtimes.co.kr/news/196824</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196824</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/법원_깃발(9).jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>英 법원, "호주 프로그래머 라이트, 비트코인 창시자 아니다"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/PAP20211118004201009(1).jpg" alt="PAP20211118004201009.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진= 연합뉴스&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;영국 법원이 비트코인 창시자임을 자처해 온 호주 컴퓨터 프로그래머 크레이그 라이트(54)의 주장이 사실이 아니라고 판단했다. 결정의 상세한 근거는 추후 공개하기로 했다.&lt;p&gt;&amp;nbsp;   &lt;p&gt;로이터 통신 등에 따르면, 영국 런던 고등법원의 제임스 멜러 판사는 14일(현지시각) 라이트가 비트코인 창시자인 '나카모토 사토시'가 아니라는 결정을 내렸다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;멜러 판사는 "라이트는 비트코인 백서의 저자가 아니며, 2008∼2011년 나카모토 사토시라는 가명을 채택하거나 운용한 사람이 아니다"라며 "라이트는 비트코인 시스템을 만든 사람이 아니고, 비트코인 소프트웨어의 초기 버전을 제작하지도 않았다"고 밝혔다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;멜러 판사는 이런 결정의 상세한 이유를 추후 공개하겠다면서 '압도적인 근거'가 있다고 덧붙였다.&lt;br /&gt;라이트는 2016년부터 자신이 2008년 나카모토 사토시라는 이름으로 비트코인의 개념을 설명한 백서의 저자라고 주장했다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp; &lt;br /&gt;그러나 암호화폐 업계에서는 이런 주장에 부정적인 반응이 많았다.&lt;/p&gt;   &lt;p&gt;이번 법원 결정도 암호화폐의 오픈소스 성격을 보호하기 위한 기술업계의 비영리 단체 '암호화폐 개방 특허 동맹(COPA)'이 라이트의 제소를 차단하거나 방어하기 위해 소송을 제기해 나온 것이다. COPA는 문서 위조 등을 통한 라이트의 거짓 주장이 오픈소스 기술 개발을 저해하고 있다면서 라이트가 나카모토 사토시가 아님을 확인해 달라고 법원에 요청했다.&lt;/p&gt;   &lt;/p&gt;</description>
-			<pubDate>Sun, 17 Mar 2024 07:55:23 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196819</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196819</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/PAP20211118004201009(1).jpg</media:thumbnail>
 			<dc:creator>박수연 기자</dc:creator>
 		</item>
 	</channel>
