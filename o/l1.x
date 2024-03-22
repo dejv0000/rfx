@@ -6,6 +6,35 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>'성폭력 피의자 변호' 논란 조수진, 민주 강북을 후보 사퇴</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="http://image.lawtimes.co.kr/images/197008.jpg" alt="197008.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;조수진 변호사(왼쪽)가 20일 국회에서 열린 더불어민주당 서울시당 선거대책위원회 출범식에서 이재명 대표와 기념촬영을 하고 있다. &amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;과거 성폭력 피의자 다수를 변호한 이력으로 논란이 된 조수진 변호사가 더불어민주당 후보직에서 물러났다.&lt;br /&gt;&lt;br /&gt;조수진 변호사가 22일 더불어민주당 서울 강북을 국회의원 후보직 사퇴를 선언했다. 지난 19일 현역 박용진 의원과의 경선을 통해 후보로 확정된 지 사흘 만이다. 조 변호사는 다수의 성폭행 사건 가해자를 변호했다는 논란이 확산됐다. 특히 미성년자 대상 성범죄자를 엄호하고 2차 가해 의혹까지 번지며 여성계와 당내에서 사퇴 요구가 커졌다. &lt;br /&gt;&lt;br /&gt;조 변호사는 이날 페이스북에 올린 글에서 "저는 변호사로서 언제나 의뢰인을 위해 최선을 다했다"며 "국회의원이 되면 똑같은 자세로 오로지 강북구 주민과 국민을 위해 할 수 있는 모든 일을 다하려고 했다"고 했다. 이어서 "그러나 (제 각오가) 국민께서 바라는 눈높이와 달랐던 것 같다"며 "짧은 시간 유례없는 압도적 지지로 성원해 주셨던 당원 여러분께 감사하다"고 사퇴의 뜻을 밝혔다. &lt;br /&gt;&lt;br /&gt;조 변호사가 후보직 사퇴를 선언하면서 민주당은 후보 등록 마감일인 이날 안으로 새로운 후보를 공천해야 하는 상황이 됐다.</description>
+			<pubDate>Fri, 22 Mar 2024 03:07:10 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197008</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197008</guid>
+			<media:thumbnail>http://image.lawtimes.co.kr/images/197008.jpg</media:thumbnail>
+			<dc:creator>유지인 기자</dc:creator>
+		</item>
+		<item>
+			<title>'드라마제작사 고가 인수' 카카오엔터 김성수·이준호 구속영장 또 기각</title>
+			<description>드라마제작사 고가 인수 의혹을 받는 카카오엔터 김성수 대표와 이준호 투자전략부문장의 구속영장이 또 기각됐다. &lt;br /&gt;&lt;br /&gt;서울남부지법 정원 영장전담 부장판사는 21일 김 대표와 이 부문장에 대한 영장실질심사를 진행한 뒤 이들에 대한 구속영장을 모두 기각했다. &lt;br /&gt;&lt;br /&gt;정 부장판사는 "배임 등 범죄구성요건 중 피해회사의 손실 발생 여부와 그 규모 등에 대해 여전히 다툼의 여지가 있어 피의자의 방어권을 보장할 필요가 있다"고 영장 기각 사유를 밝혔다. 이어 "현재까지 진행된 수사경과에 비춰 피의자가 증거인멸이나 도망의 염려가 있다고 단정할 수 없으므로 현 단계에서 구속의 필요성이나 상당성을 인정하기 어렵다"고 설명했다. &lt;br /&gt;&lt;br /&gt;김 대표와 이 부문장은 드라마 제작사 '바람픽쳐스'를 인수하는 과정에서 특수관계인인 이 부문장의 아내 배우 윤정희 씨에게 이익을 주기 위해 인수대금을 부풀려 카카오엔터에 손해를 입히고, 그 이익 일부를 나눠 가진 혐의를 받는다. 배우 윤 씨는 바람픽쳐스의 주요 투자자로 알려졌다.&lt;br /&gt;&lt;br /&gt;서울남부지검 금융조사1부(&lt;span style="font-weight: bold;" class="lawmanlink" serial="13537"&gt;권찬혁&amp;nbsp;&lt;/span&gt;부장검사)는 19일 특정경제범죄 가중처벌 등에 관한 법률 위반(배임), 범죄수익은닉규제법 위반 등 혐의로 이들에 대한 구속영장을 청구했다. 앞서 1월에도 이들에 대해 구속영장을 청구했지만 기각됐다.</description>
+			<pubDate>Fri, 22 Mar 2024 02:59:56 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197011</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197011</guid>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] '입시비리 혐의' 조민, 1심서 벌금 1000만 원</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="http://image.lawtimes.co.kr/images/197012.jpg" alt="197012.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;입시비리 혐의로 기소된 조국 전 법무부 장관의 딸 조민 씨가 1심에서 벌금 1000만 원을 선고받았다.&lt;p&gt;   &lt;br /&gt;서울중앙지법 형사16단독&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="16484"&gt;이경선&amp;nbsp;&lt;/span&gt;판사는 22일 허위작성공문서행사, 업무방해, 위계공무집행방해 등 혐의로 기소된 조 씨에 대해 벌금 1000만 원을 선고했다(&lt;b&gt;2023고단4539&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이 판사는 "조 씨와 관련된 일련의 입시 비리 범행은 입시 전반에 대한 국민 불신을 야기하고, 공정한 경쟁을 위해 오랜 기간 대다수 사람들에게 허탈감과 좌절감을 주는 행위로 비난 가능성이 크다"고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;다만 "구체적인 발급 과정과 표창장 위조 등에 관여하지 않았고, 이를 알지 못한 채 (입시 관련) 서류를 제출한 것으로 보이며 이는 공소장에 기재되지 않았다"면서 "수사 초기 범행을 부인했으나 지금은 모든 범행을 인정하고 있고, 부산대 의학전문대학원 입학취소처분 취소소송과 고려대 입학취소처분 취소소송을 취하한 점 등 양형 조건을 종합해 형을 정했다"고 설명했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;아울러 "뒤늦게 기소한 것은 검사의 태만이며 이로 인해 신속한 재판을 받을 권리를 침해당했다"는 조 씨 측의 주장도 받아들이지 않았다. 조 씨 측은 첫 공판기일에서 공소사실을 모두 인정하면서도 검찰의 공소제기가 공소권 남용에 해당한다며 공소 기각을 요청했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이 판사는 "구속 이후 정경심 전 교수는 진술을 거부했고, 조 씨와 조 전 장관은 검찰 조사에가 각각 증언을 거부했다"며 "관련 사건의 내용이나 수사 및 재판 경과에 비춰볼 때, 혐의가 더 확실한 정 전 교수에 대해 공소를 제기한 후 정 전 교수의 구체적 입장, 향후 재판 및 수사 경과를 통해 조 씨의 가담 정도 등을 판단하고 조 전 장관의 1심 선고 이후 공소제기 여부에 대한 검토가 필요했다는 검사의 주장을 수긍할 수 있다"고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이어 "관련 사건에서 (서류들의) 허위성 여부, 전자정보의 증거능력에 대해 장기간 치열하게 다퉈졌다"며 "조 씨를 정 전 교수와 함께 기소했더라도 전제 사실에 대한 판단이 선행돼야 함은 마찬가지였을 것이어서 조 씨의 신속한 재판을 받을 권리를 침해했거나 소추 재량권 남용에 대한 주장은 인정하기 어렵다"고 판단했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;선고 직후 조 씨는 항소 여부 등에 대한 취재진의 질문에 아무런 대답을 하지 않고 법원을 빠져나갔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;조 씨는 어머니인 정 전 동양대 교수와 공모해 2014년 6월 10일 부산대 의학전문대학원 입학관리과에 허위로 작성한 입학원서, 자기소개서, 위조된 동양대 총장 표창장 등을 제출한 혐의를 받는다. 또 조 씨는 부모와 공모해 2013년 6월 17일 서울대 의전원에 허위로 작성된 자기소개서와 서울대 법대 공익인권법센터장 명의의 인턴십 확인서, 동양대 총장 표창장 등 위조된 증빙서류를 제출한 혐의도 받는다.&lt;/p&gt;</description>
+			<pubDate>Fri, 22 Mar 2024 02:59:06 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197012</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197012</guid>
+			<media:thumbnail>http://image.lawtimes.co.kr/images/197012.jpg</media:thumbnail>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2024년 3월 22일</title>
 			<description>&lt;b&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:00 우상호 의원, [제22대 총선 대학생·20대 청년 공약 발표 기자회견]&lt;br /&gt;&lt;br /&gt;09:20 강득구 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:00 강민정 의원, [더불어민주연합 의대증원 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:20 황보승희 의원, [제22대 총선 자유통일당 비례대표 후보 순번 발표 기자회견]&lt;br /&gt;&lt;br /&gt;10:40 최재형 의원, [제22대 총선 서울교통망(제2순환급행노선) 관련 정책 발표 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 하태경 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:20 이세동 녹색정의당 부대변인, [녹색정의당-농어민기본소득전국운동본부 정책 협약 기자회견]&lt;br /&gt;&lt;br /&gt;13:40 조정훈 의원, [제22대 총선 국민의힘 서울 마포갑 4호 공약 발표 기자회견]&lt;br /&gt;&lt;br /&gt;14:00 이세동 녹색정의당 부대변인, [제22대 총선 녹색정의당 장애인 공약 발표 기자회견]&lt;br /&gt;&lt;br /&gt;14:20 민병덕 의원, [정국 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있음.&lt;/span&gt;&lt;br /&gt;</description>
 			<pubDate>Thu, 21 Mar 2024 23:12:17 -0000</pubDate>
@@ -211,35 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196943</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/유성열_1969.06.20_사시_36회_26기.jpg</media:thumbnail>
 			<dc:creator>유지인 기자</dc:creator>
-		</item>
-		<item>
-			<title>'070' 안받자 '010'으로 전화...보이스피싱 일당 21명 검거</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/대법원2(5).jpg" alt="대법원2.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;발신 번호 조작 장치를 이용해 해외에서 온 전화를 국내에서 온 것처럼 속여 보이스피싱을 벌여온 일당이 무더기로 재판에 넘겨졌다.&lt;br /&gt;&lt;br /&gt;보이스피싱 범죄 정부합동수사단(단장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15343"&gt;김수민&amp;nbsp;&lt;/span&gt;부장검사)은 역대 최대 규모의 보이스피싱 발신번호 변작중계기 운영조직을 적발하고 21명을 범죄단체가입·활동, 사기, 전기통신사업법위반 등 혐의로 구속기소 했다고 20일 밝혔다.&lt;br /&gt;&lt;br /&gt;이들 일당은 지난해 5월부터 올 3월까지 일명 '골드(GOLD)'라고 불리는 총책이 조직한 보이스피싱 중계기 운영 범죄집단에 가입한 뒤 수당지급책·부품보관소 관리책·중계기 관리책·환전책 등으로 활동하면서 보이스피싱 콜센터 조직과 함께 총 170명을 속여 약 54억 원을 가로챈 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;변작 중계기는 휴대전화 발신번호를 조작할 수 있는 장치다. 주로 보이스피싱 조직들이 해외에서 온 전화를 국내에서 온 것처럼 바꾸는 데 이용된다.&lt;br /&gt;&lt;br /&gt;이들 일당은 수사기관, 금융기관 등을 사칭해 "계좌가 범죄에 연루됐다", "저금리 대출을 해주겠다"며 피해자들을 속인 것으로 조사됐다. 이 과정에서 '070'으로 시작하는 인터넷 전화와 국제전화를 사람들이 잘 받지 않자 사람들이 전화를 잘 받는 '010' 번호로 해외 발신 전화번호를 바꿔주는 통신장비를 국내에 설치하는 방식 등으로 범행을 저지른 것으로 파악됐다.&lt;br /&gt;&lt;br /&gt;총책은 중국인으로 중국 연길에서 중계기 운영 범죄집단을 꾸린 뒤 페이스북 등 온라인으로 국내 조직원을 모집해 텔레그램을 통해 범행을 지시했다. 국내 조직원은 중국, 태국, 남아프리카공화국, 아이티 출신으로 중계기 관리책, 환전책, 수당지급책, 부품보관소 관리책, 유심보관소 관리책, 부품배달책 등으로 역할을 나눠 움직였다고 검찰은 봤다.&lt;br /&gt;&lt;br /&gt;검찰은 수사 과정에서 일반 원룸으로 위장한 중계소 11개소, 부품보관소 4개소 등을 적발했다. 또 발신번호 변작중계기 1694대(784회선), 휴대전화 유심 8083개, 휴대전화 443대, PC 121대, 공유기 193대 등을 현장에서 압수해 실시간 범행을 차단했다.&lt;br /&gt;&lt;br /&gt;검찰은 중국에 있는 총책과 간부급 조직원들의 신분을 특정하고 현재 국제 공조를 통해 추적하고 있다.&lt;br /&gt;&lt;br /&gt;합수단 관계자는 "앞으로도 해외를 거점으로 하는 보이스피싱 조직에 대한 수사를 계속하고, 해외 거점 범행을 가능하게 하는 국내 중계기, 대포 유심, 대포통장 운영조직에 대한 강도 높은 수사를 진행하겠다"며 "보이스피싱 범죄를 선제적으로 차단하고 진화하는 신종 수법에 적극 대응할 것"이라고 밝혔다.</description>
-			<pubDate>Thu, 21 Mar 2024 05:37:26 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196940</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196940</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/대법원2(5).jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>檢, '대장동 50억 클럽' 권순일 전 대법관 압수수색</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/검찰3(11).jpg" alt="검찰3.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대장동 50억 클럽 의혹을 수사하는 검찰이&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3924"&gt;권순일&lt;/span&gt;(65·사법연수원 14기) 전 대법관에 대한 강제수사에 나섰다. &lt;br /&gt;&lt;br /&gt;서울중앙지검 반부패수사3부(&lt;span style="font-weight: bold;" class="lawmanlink" serial="11311"&gt;김용식&amp;nbsp;&lt;/span&gt;부장검사)는 21일 변호사법 위반 혐의로 권 전 대법관의 변호사 사무실에 검사와 수사관을 보내 압수수색했다. &lt;br /&gt;&lt;br /&gt;권 전 대법관은 대한변호사협회에 변호사로 등록하지 않고 화천대유자산관리 고문으로 활동하며 변호사법 등을 위반한 혐의를 받는다. 지난해 중앙지검 반부패수사1부(&lt;span style="font-weight: bold;" class="lawmanlink" serial="11041"&gt;강백신&amp;nbsp;&lt;/span&gt;부장검사)는 경찰로부터 권 전 대법관의 변호사법 위반 사건을 넘겨받으면서 본격 수사에 착수했다.  &lt;br /&gt;&lt;br /&gt;권 전 대법관은 이재명 더불어민주당 대표에게 유리한 판결을 주도한 뒤 화천대유로 이직한 정황과 관련해 '재판거래' 의혹도 받고 있다. &lt;br /&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;권 전 대법관은 2020년 7월 이 대표의 공직선거법 위반 사건 상고심에서 무죄 취지 파기 환송 판결이 나올때 사실상 캐스팅보터 역할을 한 것으로 알려졌다. 해당 판결 선고 이후인 같은 해 9월 퇴임한 권 전 대법관은 화천대유의 고문을 맡아 1년간 약 1억5000만 원의 고문료를 받았다. 이 때문에 권 전 대법관이 해당 판결의 대가로 화천대유 고문으로 영입됐다는 이른바 '재판거래 의혹'이 불거졌다. &lt;br /&gt;&lt;br /&gt;앞서 검찰은 권 전 대법관의 재판거래 의혹을 확인하기 위해 2021년 압수수색 영장을 두 차례 청구했지만, 법원은 모두 기각했다. 검찰은 같은 해 11월과 12월 권 전 대법관을 피의자 신분으로 소환조사했다.&lt;/p&gt;</description>
-			<pubDate>Thu, 21 Mar 2024 05:34:15 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196967</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196967</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/검찰3(11).jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>【오늘의 법조】 2024년 3월 21일</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;b&gt;[법원]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;▷'특정경제범죄가중처벌등에관한법률위반(수재등) 등 혐의' 박영수 전 특검 외 1명 13차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시, 서울중앙지법&lt;br /&gt;&lt;br /&gt;&lt;b&gt;▷'자본시장과금융투자업에관한법률위반 등 혐의' 강영권 에디슨모터스 회장 외 9명 공판&lt;/b&gt;&lt;br /&gt;-오전 10시, 서울남부지법&lt;br /&gt;&lt;br /&gt;&lt;b&gt;▷'중대재해처벌법위반(산업재해치사) 등 혐의' 이모 씨 외 2명 공판&lt;/b&gt;&lt;br /&gt;-오전 11시, 서울북부지법&lt;br /&gt;&lt;br /&gt;&lt;b&gt;▷'강제추행치상 등 혐의' 박완주 의원 공판&lt;/b&gt;&lt;br /&gt;-오후 2시, 서울남부지법&lt;br /&gt;&lt;br /&gt;&lt;b&gt;▷'특정경제범죄가중처벌등에관한법률위반(횡령) 등 혐의' 최신원 전 SK네트웍스 회장 외 4명 5차 공판&lt;/b&gt;&lt;br /&gt;-오후 4시, 서울고법 &lt;br /&gt;&lt;p style="font-weight: bold;"&gt;&lt;br /&gt;&lt;/p&gt;&lt;hr style="font-weight: bold; border-width: 1px 0px 0px; border-style: dashed; border-color: lightgray;" /&gt;&lt;p style="font-weight: bold; text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p style="font-weight: bold; text-align: center;"&gt;&lt;b&gt;&amp;nbsp;[로펌]&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p style="font-weight: bold; text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;▷법무법인 율촌, '금융업계 규제 동향 분석 - 디지털금융, AML, 내부통제제도' 세미나&lt;/b&gt;&lt;br /&gt;-오후 2시, 서울 강남구 테헤란로 521 파르나스타워 39층 Lecture Hall&lt;br /&gt;&lt;p style="font-weight: bold;"&gt;&amp;nbsp;&lt;/p&gt;&lt;hr style="font-weight: bold; border-width: 2px 0px 0px; border-color: lightgray;" /&gt;&lt;br /&gt;&lt;p style="font-weight: bold; text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[오늘의 PICK ]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;br /&gt;&lt;b&gt;▷4·10총선 법조인 102명 출사표&lt;/b&gt;&lt;br /&gt;법률신문 취재결과, 이들을 포함해 3월 19일 기준 4·10 총선에서 정당의 공천을 받고 출마하는 법조인은 총 102명(지역구 92명, 비례대표 10명)으로 집계됐다. 이는 전체 총선 출마자 604명(민주당 244명, 국힘 254명, 나머지 106명)의 17% 가량이다. 법조인 출마자는 총선 후보 등록(21~22일)이 끝나면 더 늘어날 것으로 보인다.&lt;br /&gt;&lt;p style="font-weight: bold;"&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style="font-weight: bold; text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/196867" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;hr style="font-weight: bold; border-width: 1px 0px 0px; border-style: dashed; border-color: lightgray;" /&gt;&lt;b style="font-weight: bold;"&gt;&amp;nbsp;&lt;/b&gt;&lt;p style=""&gt;&lt;b&gt;▷체육시설 미등록 '공매' 골프장, 담보신탁공매로 재인수된 경우 대법 "회원권 지위 승계된다"&lt;/b&gt;&lt;br /&gt;공매 절차를 통해 골프장을 인수하면서 등록을 하지 않았고, 그 이후 다시 담보신탁에 따른 공매로 해당 골프장이 다른 자에게 인수될 경우 맨 처음 인수가 이뤄지기 전 회원권을 사두었던 회원의 회원권은 첫 번째는 물론 두 번째 인수를 한 자 모두에게 승계된다는 취지의 대법원 판결이 나왔다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style="font-weight: bold; text-align: center;"&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;a href="https://www.lawtimes.co.kr/news/196858" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/p&gt;</description>
-			<pubDate>Wed, 20 Mar 2024 22:13:04 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196936</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196936</guid>
-			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
