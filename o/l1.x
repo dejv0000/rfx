@@ -6,6 +6,101 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>법무법인 바른, 중국 산둥성 최대 로펌 중성청태와 손잡아··· "국제 법률서비스 플랫폼 만들 것"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="http://image.lawtimes.co.kr/images/197040.jpg" alt="197040.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;단차오(段超) 중성청태법률사무소 파트너회의 주석(왼쪽), 이영희 법무법인 바른 대표변호사 &amp;lt;사진=백성현 기자&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.barunlaw.com/" target="_blank"&gt;&lt;b&gt;법무법인 바른&lt;/b&gt;&lt;/a&gt;(대표변호사 박재필∙이동훈∙이영희)이 중국 중성청태법률사무소(众成清泰律师事务所·대표변호사 한훙강)와 전략적 업무협약(MOU)을 체결하고, 바른 사옥 내 중성청태법률사무소 한국사무소 설치를 기념했다. &lt;br /&gt;&lt;br /&gt;바른과 중성청태법률사무소가 22일 서울 강남구 삼성동 인터컨티넨탈 서울 코엑스에서 글로벌 법률시장으로의 진출을 도모하는 업무협약을 맺었다. 이와 함께 바른 사옥 내에 중성청태법률사무소 설치를 기념하는 개소식을 열었다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="611"&gt;박재필&lt;/span&gt;(63·사법연수원 16기)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="266"&gt;이영희&lt;/span&gt;(53·29기)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="1889"&gt;김현웅&lt;/span&gt;(65·16기) 바른 대표변호사, 한훙강 중성청태법률사무소 대표변호사, 라더옌 중화인민공화국 주대한민국대사관 참사관, 한융안 중화전국변호사협회 부회장 등 100여 명의 주요 관계자들이 행사에 참석했다. &lt;br /&gt;&lt;br /&gt;이번 협약에 따라 두 로펌은 한국 기업의 중국법 관련 자문, 중국 기업의 한국 투자 법률 서비스, 한중합작 기업의 설립 및 운영에 관한 법률 서비스, 민사소송 중재 및 형사사건 분쟁 해결 등 한·중 양국에서 발생할 수 있는 모든 법률 문제에 원스톱 현지화 법률서비스를 제공할 계획이다. 나아가 두 로펌의 소속 변호사를 상대방에게 파견해 업무연수 기회를 부여하는 등 인적자원의 상호교류에도 합의했다.&lt;p&gt;&lt;br /&gt;중성청태한국사무소 대표인 김윤국 중국변호사는 협약식에서 “중성청태는 한국 기업이 가장 많은 산둥성에서 수많은 한국 기업에 법률서비스를 제공한 경험이 있다"며 "한국사무소를 바른 사옥에 설치해 유기적인 결합을 바탕으로 강력한 파트너쉽을 구축하고 나아가 혁신적인 국제 법률서비스 플랫폼을 모색해 나갈 것“이라고 말했다.&lt;br /&gt;&lt;br /&gt;한융안 중화전국변호사협회 부회장은 "시진핑 중국 국가주석의 일대일로 구상에 따라 지속적으로 해외 거래 및 투자가 증가하고 있다"며 "중성청태 한국사무소는 법률 분야를 넘어 한중 양국간 이해관계를 촉진하고 상호 발전에 기여할 것으로 기대된다"고 했다.  &lt;br /&gt;&lt;br /&gt;중성청태법률사무소는 중성인화법률사무소, 청태법률사무소가 합병해 2015년 3월에 설립됐다. 중국 산둥성 지난에 본사를 두고 있다. 2024년 2월 기준 소속변호사 895명 등 임직원 1100여 명 규모의 대형로펌이다. 2023년 7월 법무부로부터 외국법자문법률사무소로 인가받아 한국에 진출했다. 작년 10월 대한변호사협회 등록을 완료하고, 22일 한국사무소 개소와 함께 본격 업무를 개시한다. 한국사무소에는 김윤국∙이려 중국변호사가 상주한다.&lt;br /&gt;&lt;/p&gt;</description>
+			<pubDate>Fri, 22 Mar 2024 10:35:03 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197040</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197040</guid>
+			<media:thumbnail>http://image.lawtimes.co.kr/images/197040.jpg</media:thumbnail>
+			<dc:creator>유지인 기자</dc:creator>
+		</item>
+		<item>
+			<title>김호철 산업통상자원부 통상법무기획과장, '제17회 심당국제거래 학술상' 수상</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="http://image.lawtimes.co.kr/images/20240319_심당학술상수상김호철부이사관.jpg" alt="20240319_심당학술상수상김호철부이사관.jpg" style="width: 160px; height: 221px;" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김호철 산업통상자원부 통상법무기획과장(부이사관)이 제17회 심당 국제거래 학술상을 수상했다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;국제거래법학회(회장 안강현)는 22일 서울 종로구 광화문 변호사회관에서 시상식을 열고 김 부이사관에게 심당 학술상을 수여했다. 수상작은 그의 논문 〈산업의 디지털 전환, 글로벌 지정학과 통상협상 신(新)의제 검토〉이다. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;고려대 경영학과를 졸업한 김 부이사관은 1998년 제42회 행정고시 국제통상직을 수석합격하고 외교부와 산업통상자원부에서 FTA 정책을 이끌었다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;심사위원장을 맡은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8259"&gt;장승화&lt;/span&gt;(61·사법연수원 16기) 서울대 로스쿨 교수는 "이 논문은 최근 대두되는 ‘디지털 제조의 해외 진출’에 초점을 둔 새로운 통상의제를 제시하고 있다"며 "기존의 미국과 EU 중심의 의제에서 벗어나 제조업과 수출에 강점을 둔 우리 경제에 맞는 통상의제를 제시했다"고 밝혔다. 그러면서 "쟁점 사항과 향후 논의 방향을 잘 정리해서 제시했다는 점에서 심사위원들로부터 좋은 평가를 받았다"고 설명했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;김 부이사관은 "디지털 통상에서 미국과 EU가 제시하는 협상의 틀과 의제에 매몰되는 것이 안타까웠고, 우리의 강점인 제조업을 기반으로 디지털 기술과 연계한 통상 의제를 발굴하면 좋겠다는 생각으로 이번 논문을 출발했다"며 "부족한 실력 탓에 충분히 완성하지 못하고 화두를 던지는 데 만족한 것이 아쉽지만 연구에 보다 정진하라는 뜻으로 여기고 후속 연구를 통해 더욱 발전 시켜나가겠다"고 수상 소감을 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;심당 학술상은 국제거래법학회의 초대 회장이자 한국인 최초로 국제형사재판소(ICC) 소장을 지낸&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4547"&gt;송상현&lt;/span&gt;(83·고시 16회) 서울대 로스쿨 명예교수의 학문적 업적을 기리기 위해 2007년 제정됐다. 심당(心堂)은 송 명예교수의 아호이다.&lt;/p&gt;</description>
+			<pubDate>Fri, 22 Mar 2024 10:18:42 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197015</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197015</guid>
+			<media:thumbnail>http://image.lawtimes.co.kr/images/20240319_심당학술상수상김호철부이사관.jpg</media:thumbnail>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title>고려대 기술법정책센터, '우주위성 정책의 현안과 과제' 정기 세미나 개최</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="http://image.lawtimes.co.kr/images/20240322_고려대기술법센터우수정책세미나 포스터.png" alt="20240322_고려대기술법센터우수정책세미나 포스터.png" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;기술에 관한 각종 법정책 연구를 지향하는 고려대학교 기술법정책센터(센터장 이성엽 교수)가 28일 오후 4시 서울 중구 소공동 웨스틴 조선호텔에서 '우주위성 정책의 현안과 과제'를 주제로 81회 정기 세미나를 개최한다.&lt;br /&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;이번 세미나는 ‘우주위성 정책’에 관한 최근 주요 이슈에 대해 2개의 발제를 진행하고, 이에 관한 종합 토론을 진행한다. 첫 번째 주제는 ‘우주항공정책 거버넌스의 이슈와 과제’로 이재형 과학기술정보통신부 우주항공청설립단장이 발제한다. 두 번째 주제는 ‘위성통신 정책의 현안과 과제’로 강충구 고려대 전기전자공학부 교수가 발제한다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;이어지는 토론에서는 이성엽 고려대 교수를 좌장으로 김태호 헌법재판연구원 연구관, 최성호 정보통신기획평가원 PM, 이민석 정보통신정책연구원 실장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="26792"&gt;남한결&lt;/span&gt;(40·변호사시험 3회) 김·장 법률사무소 변호사, 이신용 SK텔링크 위성사업담당, 지은경 과학기술정보통신부 전파방송관리과장이 참여한다. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이성엽 센터장은 "우주항공청 설립과 함께 본격적인 우주, 항공, 위성 분야의 기술개발, 인력양성 등의 우주위성정책이 시행될 예정이고, 통신 분야의 경우 저궤도 위성을 이용한 통신서비스 제공 가능성이 높아지는 상황"이라며 "이번 학술대회는 우주위성정책의 거버넌스 이슈와 저궤도 위성통신 정책의 현안과 과제를 살펴볼 수 있는 의미 있는 세미나가 될 것”이라고 밝혔다.&lt;/p&gt;</description>
+			<pubDate>Fri, 22 Mar 2024 10:15:38 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197013</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197013</guid>
+			<media:thumbnail>http://image.lawtimes.co.kr/images/20240322_고려대기술법센터우수정책세미나 포스터.png</media:thumbnail>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title>몬테네그로 검찰 "권도형 한국 송환에 이의제기"</title>
+			<description>테라·루나 폭락 사태의 주범으로 지목된 권도형 테라폼랩스 대표의 한국 송환에 막판 변수가 생겼다. 몬테네그로 검찰이 자국 법원의 권 씨 송환 결정에 대해 이의를 제기하면서다. &lt;br /&gt;&lt;br /&gt;몬테네그로 대검찰청은 21일(현지시간) 공식 홈페이지에 올린 성명에서 항소법원과 고등법원의 절차적 문제에 대해 대법원에 적법성 판단을 요청했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;대검찰청은 "법원은 법률에 반해 정규 절차가 아닌 약식으로 권 씨에 대한 범죄인 인도 절차를 진행했다"며 "권한을 넘어서 법무부 장관의 고유 권한인 범죄인 인도국에 대한 결정을 내렸다"고 주장했다. 그러면서 "항소법원이 항소심에서 대검찰청 검사의 의견을 듣지도 않았다"며 "대법원에서 적법성 여부를 판단해 법원의 결정을 변경하는 판결을 해 달라고 요청한다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;당초 몬테네그로 포드고리차 고등법원은 지난달 21일 권 씨의 미국 송환을 결정했다. 하지만 권 씨 측의 항소로 열린 재판에서 몬테네그로 항소법원은 이달 5일 한국의 범죄인 인도 요청이 미국보다 빨랐다는 점을 근거로 들어 인도국을 다시 결정하라는 취지로 사건을 포드고리차 고등법원으로 돌려보냈다. 고등법원은 7일 기존 판단을 뒤집고 권 씨의 한국 송환을 결정했다. 항소법원은 20일 이 판단을 확정했다. &lt;br /&gt;&lt;br /&gt;만약 몬테네그로 대법원이 대검찰청의 이의제기를 받아들인다면, 권 씨에 대한 인도국 결정 권한은 법무부 장관의 몫이 된다. &lt;br /&gt;&lt;br /&gt;일각에선 몬테네그로 정부가 그간 권 씨의 미국행을 지지해 온 까닭에, 검찰의 이의제기를 통해 권 씨에 대한 한국 송환 결정의 막판 뒤집기를 시도한 것이라는 분석도 나온다. 안드레이 밀로비치 몬테네그로 법무부 장관은 지난해 11월 현지 방송 인터뷰에서 "미국이 우리의 가장 중요한 대외정책 파트너"라고 말하는 등 권 씨의 미국행에 힘을 실어 왔다. &lt;br /&gt;&lt;br /&gt;이르면 이번 주말로 전망되던 권 씨의 송환 일정은 안갯속에 빠졌다. 위조 여권 사용 혐의로 몬테네그로에서 징역 4개월을 선고받고 복역 중인 권 씨의 형기는 23일에 끝난다.</description>
+			<pubDate>Fri, 22 Mar 2024 10:13:25 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197019</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197019</guid>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>이재명, 총선 앞두고 공직선거법 위반 재판도 불출석…절차는 그대로 진행</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="http://image.lawtimes.co.kr/images/197038(1).jpg" alt="197038.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진=연합뉴스&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;이재명 더불어민주당 대표가 총선 유세를 이유로 재판에 연이어 불출석했다. 법원은 이 대표 없이 재판 절차를 진행하기로 했다.&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;서울중앙지법 형사합의34부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5008"&gt;한성진&lt;/span&gt;&amp;nbsp;부장판사)는 22일 공직선거법 위반 혐의로 기소된 이 대표의 공판 기일을 열었다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 대표 측 변호인은 전날 재판부에 절차진행에 관한 의견서를 제출하고 이 대표의 불출석 의사를 전달한 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이날 이 대표는 충남 서산, 당진, 온양, 아산에서 선거 유세를 했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;재판부는 이 대표가 불출석했는지 변호인에게 확인했고, 변호인은 "그렇다"고 답했다. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;그러자 재판부는 "공직선거법에 따라 피고인이 불출석한 상태에서 (재판을) 진행하려고 한다"고 말했다. 이에 양측에서 별다른 이의를 제기하지 않았고, 재판부는 예정대로 전 성남시 공무원에 대한 증인신문을 진행했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;공직선거법 위반 사건의 경우에는 공직선거법 제270조의2 2항에 따라 피고인이 공판기일에 출석하지 않은 때에 법원은 다시 기일을 정해야 하고, 다시 정한 기일이나 그 후에 열린 기일에도 정당한 사유 없이 출석하지 않으면 피고인 출석 없이 공판을 진행할 수 있다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 대표는 작년 10월에도 국회 국정감사 참여를 이유로 이 사건 재판에 불출석했다. 당시 재판부는 기일을 한 차례 연기했다. 이후에도 이 대표가 재차 불출석하자, 재판은 이 대표 없이 진행됐다. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;한편 이 대표는 총선과 관련한 일정을 이유로 대장동·위례 개발 특혜 혐의 사건의 재판에도 지각하거나 불출석했다. 해당 사건을 심리 중인 서울중앙지법 형사합의33부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3404"&gt;김동현&lt;/span&gt;&amp;nbsp;부장판사)는 지난 19일 재판에서 "계속 출석하지 않으면 구인장을 발부해 강제소환하는 방안도 검토하겠다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Fri, 22 Mar 2024 10:08:40 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197038</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197038</guid>
+			<media:thumbnail>http://image.lawtimes.co.kr/images/197038(1).jpg</media:thumbnail>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
+			<title>예치 코인 '먹튀 논란' 델리오 대표 구속기로...'2450억 원 편취 혐의'</title>
+			<description>고객들이 예치한 가상자산에 대한 입출금을 돌연 중단해 '먹튀' 논란을 빚은 가상자산 예치사 델리오 대표가 구속기로에 놓였다. &lt;br /&gt;&lt;br /&gt;서울남부지검 가상자산범죄 합동수사단(단장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10592"&gt;이정렬&lt;/span&gt;&amp;nbsp;부장검사)은 21일 특정경제범죄 가중처벌 등에 관한 법률상 사기 등 혐의로 델리오 대표 A 씨에 대한 구속영장을 청구했다고 밝혔다. 영장실질심사는 25일 서울남부지법에서 열린다. &lt;br /&gt;&lt;br /&gt;A 씨는 2021년 8월부터 지난해 6월까지 피해자 2800여 명으로부터 총 2450억 원 상당의 가상자산을 편취한 혐의를 받는다. &lt;br /&gt;&lt;br /&gt;비트코인, 이더리움 등의 가상자산을 예치하면 10%대 고이율의 이자를 지급하는 사업을 해 온 하루인베스트와 델리오는 지난해 6월 파트너사 문제를 이유로 돌연 입출금 서비스를 중단했다. 이에 예치금이 묶인 투자자들은 두 회사가 제대로 알리지 않고 선물, 옵션 등의 위험 거래를 위탁하고 운용했다며 이들 회사 경영진을 특정경제범죄가중처벌법상 사기 등 혐의로 남부지검에 고소했다. &lt;br /&gt;&lt;br /&gt;지난해 7월 출범한 합수단은 하루인베스트·델리오 사건을 1호 사건 중 하나로 배당받고 수사에 나섰다. 지난달 검찰은 하루인베스트가 고객들에게 원금을 보장한다는 내용으로 허위 광고를 하고 1조4000억 원에 달하는 가상자산을 받아 편취했다고 보고 경영진 4명을 재판에 넘겼다.</description>
+			<pubDate>Fri, 22 Mar 2024 08:05:28 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197036</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197036</guid>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>檢, '민노총 탈퇴 강요' 황재복 SPC 대표이사 구속기소</title>
+			<description>직원들에게 노조 탈퇴를 강요한 황재복 SPC 대표이사가 22일 구속기소됐다. &lt;br /&gt;&lt;br /&gt;서울중앙지검 공공수사제3부(부장검사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11318"&gt;임삼빈&lt;/span&gt;)는 이날 황재복 SPC 대표이사를 노동조합 및 노동관계조정법위반, 뇌물공여 혐의로 구속 기소했다고 밝혔다. &lt;br /&gt;&lt;br /&gt;검찰에 따르면 황 대표는 2019년 7월부터 2022년 8월경 SPC 그룹 자회사인 피비파트너즈에서 민주노총 화섬식품노조 파리바게뜨지회 조합원들에게 노조 탈퇴를 종용하고 승진 인사에서 불이익을 준 혐의를 받는다. &lt;br /&gt;&lt;br /&gt;또 검찰은 사측에 친화적인 한국노총 소속 노조의 조합원 확보를 지원하고 해당 노조위원장이 사측 입장에 부합하는 인터뷰나 성명을 발표하게 하기도 한 것으로 보고 있다. &lt;br /&gt;&lt;br /&gt;황 대표는 2020년 9월부터 지난해 5월까지 검찰수사관으로부터 각종 수사정보를 제공받고 그 대가로 수백만원의 향응 등을 제공한 혐의도 받고 있다. &lt;br /&gt;&lt;br /&gt;검찰은 부당노동행위 의혹과 관련해 허영인 SPC 회장을 피의자로 불러 조사할 예정이다. 허 회장은 이달 18, 19일 두 차례에 걸친 소환 통보에도 출석하지 않았다. &lt;br /&gt;&lt;br /&gt;검찰 관계자는 "앞으로 SPC 그룹 사건관계인들에 대하여 엄정하게 수사를 진행하겠다"고 전했다.</description>
+			<pubDate>Fri, 22 Mar 2024 08:03:24 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197035</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197035</guid>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>檢, '사기 공범 의혹' 남현희 경찰에 재수사 요청</title>
+			<description>검찰이 펜싱 국가대표 출신 남현희 씨에 대한 재수사를 경찰에 요청했다. 전청조 씨의 사기 행각에 공모했다는 혐의에 대해 경찰이 불송치 결정을 내린 지 3주 만이다.&lt;br /&gt;&lt;br /&gt;서울동부지검은 22일 남 씨의 사기 공범 혐의와 관련해 "경찰의 불송치 기록을 송부받아 면밀하게 검토한 결과 추가 수사 필요성이 있다고 판단해 경찰에 재수사를 요청했다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;남 씨는 전 연인이었던 전 씨의 사기 행각에 가담하고 범죄수익을 취득했다는 혐의로 경찰에서 수사받았다. 경찰은 지난달 29일 남 씨의 사기 혐의에 대해 불송치(혐의없음) 결정을 내렸다.&lt;br /&gt;&lt;br /&gt;전청조 씨는 재벌가 혼외자 행세를 하며 재벌들만 아는 은밀한 투자 기회를 제공하는 것처럼 속여 피해자 27명으로부터 약 30억 원을 편취한 혐의로 1심에서 징역 12년을 선고받았다.&lt;br /&gt;&lt;br /&gt;당시 전 씨에 대해 경찰이 수사에 착수한 뒤 일부 피해자들은 남 씨를 공범으로 지목해 사기 방조 등 혐의로 고소했다.&lt;br /&gt;&lt;br /&gt;경찰은 두 사람을 여러 차례 대질조사하며 공모 여부를 수사해 왔지만, 범죄 혐의점이 확인되지 않는다고 보고 무혐의 처분했다.&lt;br /&gt;&lt;br /&gt;그러나 남 씨가 불송치된 뒤 일부 고소인들은 경찰의 결정에 이의를 제기하고 검찰에 엄벌 탄원서를 제출하며 반발해 왔다.</description>
+			<pubDate>Fri, 22 Mar 2024 07:43:32 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197031</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197031</guid>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>공수처 "이종섭 대사 소환조사 당분간 어렵다"</title>
+			<description>고위공직자범죄수사처가 이종섭 주호주 대사 소환 여부에 대해 "당분간 소환조사가 어렵다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;공수처는 22일 오후 "수사팀은 압수물 등의 디지털 포렌식 및 자료 분석 작업이 종료되지 않은 점, 참고인 등에 대한 조사가 충분히 이뤄지지 않은 점 등을 고려할 때 당분간 소환조사는 어렵다는 입장"이라고 공지했다.&lt;br /&gt;&lt;br /&gt;그러면서 "수사팀은 주어진 여건 속에서 최대한 수사에 전력을 기울인 뒤 수사 진행 정도 등에 대한 협의 절차를 거쳐 소환조사 일시를 통보할 예정"이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;이 대사는 국방부 장관 당시 호우 실종자 수색 도중 순직한 채 상병 사망 사건과 관련해 수사 외압 의혹으로 공수처의 수사를 받고 있다. &lt;br /&gt;&lt;br /&gt;윤석열 대통령은 지난 4일 그를 호주 대사로 공식 임명했고, 사흘 뒤 공수처에서 조사를 받았다. 이어 법무부가 이 대사의 출금을 해제하는 결정을 내렸고 이 대사는 10일 호주로 떠났다.&lt;br /&gt;&lt;br /&gt;대통령실과 공수처는 이 대사의 출국을 두고 대립각을 세웠다. 대통령실은 공수처가 출국을 허락했다고 밝혔지만, 공수처는 "출국금지 해제 권한이 없다. 조사 과정에서 출국을 허락한 적이 없다"고 반박하면서 갈등이 깊어졌다. &lt;br /&gt;&lt;br /&gt;이 대사는 변호인을 통해 소환조사 촉구서를 제출했다. 이 대사 측은 "공수처가 출금 연장하며 조사가 필요하다고 해 왔고 충분한 조사 준비기간이 있었으니 이번에는 당연히 공수처가 소환 조사를 진행할 것으로 기대한다"고 밝힌 바 있다.</description>
+			<pubDate>Fri, 22 Mar 2024 07:42:51 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197030</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197030</guid>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>한국미래변호사회, 조수진 사퇴에 "성범죄 변호 매도는 국민 기본권 침해"</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="http://image.lawtimes.co.kr/images/89766(1)(1).jpg" alt="89766(1).jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국미래변호사회(한미변·회장 안병희)가 조수진 변호사의 사태에 관해 성범죄 변호 이력에 대한 과도한 사회적 질타는 변론권 및 국민 기본권 침해로 이어질 수 있다고 주장했다. &lt;br /&gt;&lt;br /&gt;한미변은 22일 '성범죄 변호를 족쇄로 변호사의 헌법상 직무를 매도하는 사태를 우려한다 '라는 제목의 성명을 발표했다. 공직에 출마한 변호사가 과거 수임한 사건을 이유로 후보직을 내려놓는 일이 반복되면서 자칫 변호를 받을 권리와 변론권 침해로 이어질 수 있다는 이유에서다. &lt;br /&gt;&lt;br /&gt;한미변은 "형사사건 피고인이 변호인의 조력을 받는 것은 우리 헌법이 천명한 모든 국민의 기본권"이며 "변호사 윤리장전은 변호사가 의뢰인이나 사건의 내용이 사회 일반으로부터 비난을 받는다는 이유만으로 수임을 거절하지 아니한다고 명시하고 있다"며 "마땅히 변호사라면 헌법상 주어진 책무에 따라 모든 사건을 편견 없이 변호해야 한다"고 주장했다. &lt;br /&gt;&lt;br /&gt;이어 "변호사가 여론에 부담을 느끼고 특정사건에 대한 수임을 거부하거나 대리인으로서 사임하게 된다면 종국에는 국민이 공정한 재판받을 권리가 침해되는 결과를 초래할 것이다"고 지적했다. &lt;br /&gt;&lt;br /&gt;아울러 "변호인의 변론 행위는 피고인의 무죄를 입증하거나 그 죄질을 상회하는 처벌을 받지 않도록 합리적 의심을 제시해 가는 과정인바, 변호사로서 사명을 다한다는 이유로 무차별적인 사회적 비난을 받는 일은 지양돼야 할 것"이라고 했다.&lt;br /&gt;&lt;br /&gt;한미변은 변호사 직역의 가치와 역량에 집중한다는 취지로 지난해 8월 출범한 변호사 단체다.  &lt;br /&gt;&lt;br /&gt;조 변호사는 과거 다수의 성폭력 피의자를 변호한 이력과 2차 가해 의혹 등 논란이 불거지자 더불어민주당 서울 강북을 국회의원 후보로 확정된 지 사흘 만에 후보직에서 물러났다.</description>
+			<pubDate>Fri, 22 Mar 2024 07:42:26 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197027</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197027</guid>
+			<media:thumbnail>http://image.lawtimes.co.kr/images/89766(1)(1).jpg</media:thumbnail>
+			<dc:creator>유지인 기자</dc:creator>
+		</item>
+		<item>
 			<title>"버킨백 아무한테나 안 팔아"… 美 소비자 에르메스에 소송</title>
 			<description>자사 인기 상품인 '버킨백'을 소수 고객만을 상대로 판매해 온 명품 기업 에르메스가 소비자들이 제기한 소송에 휘말렸다. &lt;br /&gt;&lt;br /&gt;20일(현지시간) 블룸버그 통신에 따르면, 미국 캘리포니아 주민 2명은 에르메스가 버킨백을 살 수 있는 고객을 선별하는 것은 독점금지법 위반이라며 최근 캘리포니아 북부 연방지방법원에 소송을 제기했다. 원고들은 에르메스 판매 직원들이 버킨백을 사려는 고객에게 신발, 스카프, 액세서리 등 다른 제품 구입을 조건으로 제시한다고 주장했다.&lt;br /&gt;&lt;br /&gt;에르메스는 제품 희소성을 마케팅 전략으로 고수해온 것으로 유명하다. 원고들은 에르메스가 제품 공급을 극히 제한해 시장에 강력한 지배력을 행사하고 있고, 이를 이용해 자사의 다른 제품을 구매하도록 '연계 판매'를 한다고 주장했다.&lt;br /&gt;&lt;br /&gt;원고 중 한 명인 티나 카발레리는 에르메스에서 수만 달러를 쓴 후 2022년 버킨백 구입을 문의했지만 그 제품은 "우리 기업을 꾸준히 지원해 온 고객에게 돌아간다"는 답을 들었다고 밝혔다. 다른 원고인 마크 글리노가 역시 버킨백을 구입하려고 여러 차례 시도할 때마다 매번 다른 제품을 구입해야 한다는 이야기를 들었다고 했다. &lt;br /&gt;&lt;br /&gt;원고 측은 손해배상을 청구하며 에르메스의 이 같은 관행을 금지해줄 것을 법원에 요청했다. 이들은 또 버킨백을 구매하기 위해 에르메스 제품을 구매했거나 구매하도록 권유받은 미국 소비자들과 함께 집단소송을 제기할 예정이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;버킨백은 프랑스 명품 기업 에르메스의 대표 상품으로 프랑스 장인들이 수작업으로 만든다고 알려져 있다. 가격은 10만 달러(약 1억3000만원) 이상이다. 영국 출신 가수 겸 배우인 고(故) 제인 버킨에게서 영감을 받아 1984년 처음 출시됐다.</description>
 			<pubDate>Fri, 22 Mar 2024 04:57:22 -0000</pubDate>
@@ -140,105 +235,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196944</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/196944_2.jpg</media:thumbnail>
 			<dc:creator>유지인 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 지평, ‘지평 노동그룹 고객 초청 세미나’ 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/20240321_지평노동그룹세미나.jpg" alt="20240321_지평노동그룹세미나.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.jipyong.com/kr/main/main.php" target="_blank"&gt;&lt;b&gt;법무법인 지평&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2106"&gt;김지형&lt;/span&gt;)은 지난 19일 서울 중구 세종대로 지평 본사 그랜드센트럴 오디토리움에서 ‘지평 노동그룹 고객 초청 세미나’를 개최했다. 이날 행사에는 기업의 법무·인사노무 담당자 등 70여 명이 참여했다.&lt;br /&gt;&lt;br /&gt;먼저&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3856"&gt;권창영&lt;/span&gt;(55·사법연수원 28기) 변호사가 ‘2023년 주요 노동판례와 대응 방안’을 주제로 발표했다. 권창영 변호사는 2023년 노동판례를 17개 분야로 나누어 중요 판례들을 소개하고 기업 법무·인사노무 담당자가 특히 주의해야 할 사항들을 강조했다.&lt;br /&gt;&lt;br /&gt;이어 지평 노동그룹장인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="31000"&gt;권영환&lt;/span&gt;(45·변호사시험 3회) 변호사가 ‘사업장 내 녹음, 촬영에 관한 인사노무 이슈’를 주제로 발표했다. 권영환 변호사는 비밀 녹음 그리고 감사 목적의 비밀 촬영, CCTV 설치에 관련된 법률 구조를 분석하고 민형사·징계 문제에 관한 다양한 사례들을 소개했다.&lt;br /&gt;&lt;br /&gt;권영환 변호사는 "매년 새로운 이슈들이 제기되는 만큼 법무·인사노무 담당자들은 법원 판례에 기초해 빠르고 정확하게 대응할 필요가 있다"고 강조했다.</description>
-			<pubDate>Thu, 21 Mar 2024 08:51:30 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196947</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196947</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/20240321_지평노동그룹세미나.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title> 檢, '50억 클럽' 권순일 전 대법관 압수수색…'이재명 재판거래 의혹'도 수사</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/검찰1(8).jpg" alt="검찰1.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;'대장동 50억 클럽 의혹'을 수사 중인 검찰이 권순일 전 대법관에 대한 압수수색에 나섰다. 박영수 전 특별검사, 곽상도 전 국회의원에 이어 세 번째로 '50억 클럽'에 대한 본격 수사에 들어간 것이다. &lt;br /&gt;&lt;br /&gt;서울중앙지검 반부패수사3부(&lt;span style="font-weight: bold;" class="lawmanlink" serial="11311"&gt;김용식&amp;nbsp;&lt;/span&gt;부장검사)는 21일 변호사법 위반 혐의로 권 전 대법관의 사무실에 검사와 수사관을 보내 자료를 확보하고 있다.&lt;br /&gt;&lt;br /&gt;검찰에 따르면 권 전 대법관은 퇴임 후인 2020년 11월∼2021년 9월 대한변호사협회에 변호사로 등록하지 않고 대장동 민간업자 김만배 씨가 대주주인 화천대유자산관리 고문으로 활동한 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;권 전 대법관은 고문료로 1억 5000만 원을 받은 것으로 알려졌다. 대장동 의혹이 불거지자 계약 만료 한 달여를 앞두고 사직했다고 전해졌다. &lt;br /&gt;&lt;br /&gt;검찰 관계자는 "변호사 등록을 하지 않고 (고문료를 받은 기간) 변호사로 활동한 정황이 있었다.그 정황에 대한 구체적 증거 확보를 위해 압수수색을 했다"고 설명했다.&lt;br /&gt;&lt;br /&gt;압수수색 영장에는 변호사법 위반 혐의만 적시됐지만 관련 의혹과 압수물 분석 결과를 바탕으로 이재명 더불어민주당 대표의 공직선거법 위반 사건과 관련한 '재판거래 의혹'도 들여다볼 방침이다. &lt;br /&gt;&lt;br /&gt;‘50억 클럽’은 대장동 개발 사업에 도움을 준 대가로 대장동 민간사업가들로부터 거액을 받거나 받기로 약정한 인사들을 일컫는 말이다. &lt;br /&gt;&lt;br /&gt;6인의 명단 중 곽 전 의원, 박 전 특검이 재판에 넘겨졌고 권 전 대법관, 최재경 전 청와대 민정수석, 김수남 전 검찰총장, 홍선근 머니투데이 미디어그룹 회장이 남은 수사 대상으로 거론돼 왔다.&lt;br /&gt;&lt;br /&gt;대장동 의혹이 불거진 2021년 9월 국민혁명당 등은 권 전 대법관을 뇌물수수와 변호사법 및 공직자윤리법 위반 등 혐의로 검찰에 고발했다. 권 전 대법관은 11월 한 차례 검찰 소환 조사를 받았으나 이후 수사가 진전되지 않았다. 검찰은 권 전 대법관에 대한 압수수색 영장을 청구했으나 두 차례 기각당했다. &lt;br /&gt;&lt;br /&gt;이후 변호사법 위반 혐의는 검찰 직접 수사 개시 범위가 아니라며 경찰에 넘겼고, 지난해 10월 다시 경찰에게 해당 사건을 넘겨받았다.&lt;br /&gt;&lt;br /&gt;검찰 관계자는 "재판거래 의혹의 혐의도 화천대유에 재직하면서 금품을 받았다는 내용이다. 변호사법 위반 혐의와 사실관계가 완전히 나뉜다고 보지 않는다"며 "권 전 대법관이 김만배 씨에게 받은 돈을 어떠한 성격으로 볼 것인지 면밀히 살피고 있다"고 말했다. &lt;br /&gt;</description>
-			<pubDate>Thu, 21 Mar 2024 08:49:31 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196974</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196974</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/검찰1(8).jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>경주 청소년범죄예방위, '학교폭력예방 등굣길 캠페인' 펼쳐</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/20240321_경주신라중.jpg" alt="20240321_경주신라중.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무부 청소년 범죄예방위원 경주지역협의회(회장 박태일·이하 경주범방)는 21일 경북 경주시 신라중학교(교장 손석락)에서 등교하는 학생들을 대상으로 '학교폭력예방 등굣길 캠페인'을 실시했다.&lt;br /&gt;&lt;br /&gt;이날 캠페인에는 새 학기를 맞아 학교폭력 예방을 독려하는 목적으로  정지수(35·변호사시험 6회) 대구지검 경주지청 검사와 법무부 청소년 범죄예방위원, 경주시 아동청소년과 공무원 등 50여 명이 참여했다. 이들은 현수막과 피켓을 들고 등교생들에게 학교폭력예방 홍보물을 나눔하며 폭력 없는 청정한 학교 만들기에 함께 하자고 호소했다.&lt;br /&gt;&lt;br /&gt;정 검사는 "앞으로도 지역 기관과 단체가 함께 하는 학교폭력 예방활동 및 소년 선도활동에 적극 참여하겠다"고 전했다.&lt;br /&gt;&lt;br /&gt;캠페인을 주최한 박태일 경주범방 회장은 "학교폭력 예방과 근절을 위해서는 우리 모두가 함께 고민하고 노력해야 하는 만큼 경주범방이 항상 앞장서겠다"고 말했다.</description>
-			<pubDate>Thu, 21 Mar 2024 08:09:39 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196969</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196969</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/20240321_경주신라중.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>수원 범죄피해자지원센터 '2024년 정기 총회' 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/1000013118.jpg" alt="1000013118.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;수원지역 범죄피해자지원센터(이사장 이순국·이하 수원범피)는 20일 경기도 수원 지동의 한 중식당에서 ‘2024년 정기총회’를 개최했다. 수원범피는 경기도 수원시, 용인시, 화성시, 오산시에서 강력범죄로 고통받고 있는 피해자들을 지원한다.&lt;br /&gt;&lt;br /&gt;수원지검 신봉수(54·사법연수원 29기) 검사장, 강성용(52·31기) 1차장, 정화준(45·35기) 형사3부장 등 수원지검 간부들과 이순국 이사장을 비롯한 수원범피 운영위원 등 40여 명이 참석했다.&lt;br /&gt;&lt;br /&gt;이날 총회에서 수원범피는 이날 이순국 이사장의 연임을 만장일치로 의결했다. 이 이사장은 2026년까지 활동한다. 또 신 검사장이 신규 수원범피 운영위원을 위촉하고, 센터 발전에 공을 세운 운영위원들에게 검사장 표창장을 수여했다.&lt;br /&gt;&lt;br /&gt;이순국 이사장은 "지난해 수원범피는 범죄 피해자들을 위해 약 3억9000만 원의 경제적 지원과 방문심리치료프로그램, 의료지원 연계 등 총 6471건의 다양한 지원 활동을 펼쳤다”며 “2024년에도 범죄피해자 및 가족들의 피해 지원을 위해 최선을 다할 것”이라고 전했다.</description>
-			<pubDate>Thu, 21 Mar 2024 08:01:07 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196970</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196970</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/1000013118.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] '옵티머스 펀드' 뒷돈 받은 금감원 전 국장, 2심도 실형</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/법원_깃발(10).jpg" alt="법원_깃발.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;1조 원대 펀드 사기를 벌인 옵티머스자산운용으로부터 뒷돈을 받고 로비를 도운 혐의로 기소된 전직 금융감독원 국장이 항소심에서도 실형을 선고받았다.&lt;br /&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;서울고법 형사13부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="100"&gt;백강진&lt;/span&gt;&amp;nbsp;부장판사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="42524"&gt;김선희&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="15536"&gt;이인수&amp;nbsp;&lt;/span&gt;고법판사)는 21일 특정경제범죄가중처벌등에관한법률위반(수재등) 혐의로 기소된 전 금감원 국장 윤모 씨에 대한 항소심에서 윤 씨와 검사의 항소를 기각하고 징역 1년9개월에 벌금 3000만 원을 선고하고 4700만 원의 추징을 명령한 1심 판단을 유지했다(&lt;b&gt;23노3341&lt;/b&gt;).&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;재판부는 "윤 씨는 1심에서 대출 성사 여부에 깊이 관여하지 않았고, 권한을 부당하게 행사한 적 없다는 취지로 적극 부인하다가 항소심에서는 범행을 모두 인정하고 반성하는 태도를 보였다"며 "금품 일부를 반환하고 판결이 확정된 종전 수재죄의 추징금도 모두 납부하는 등 다소 유리하게 고려할 수 있는 사정이 있다"고 판단했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;다만 "윤 씨는 여러 차례에 걸쳐 알선행위를 한 대가로 금품을 요구했고, 적지 않은 금품을 수령했다"며 "금감원 임직원 중에서도 상당한 지위에 있는 윤 씨의 이러한 행위는 직무집행의 공정성과 청렴성에 대한 중대한 해악이라고 볼 수밖에 없다"고 설명했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;윤 씨는 2018~2019년 김재현 옵티머스 대표 등에게 펀드투자 유치와 경매 절차 지연, 각종 대출 등과 관련해 금융권 인사들을 소개하고 알선한 대가로 총 4700만 원을 받아내고, 4500만 원을 요구한 혐의로 2021년 1월 기소됐다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;윤 씨는 이 사건과 별도로 2018년 금감원 재직 당시 대출 브로커와 공모해 의뢰인들이 은행에서 대출을 받도록 알선한 대가로 대출금의 일부를 수수한 혐의로 기소돼 징역 2년2개월에 집행유예 4년, 벌금 6000만 원을 확정받았다.&lt;/p&gt;</description>
-			<pubDate>Thu, 21 Mar 2024 07:10:46 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196965</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196965</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/법원_깃발(10).jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>'테라·루나' 권도형 한국 송환 확정...법무부 "몬테네그로 당국과 일정 조율 중"</title>
-			<description>&lt;p&gt;가상자산 '테라·루나 폭락 사태'의 주범으로 지목되는 권도형 테라폼랩스 대표의 한국 송환이 확정됐다. 법무부는 몬테네그로 당국과 권 씨의 송환 일정을 조율하는 것으로 알려졌다. 이르면 다음 주 내로 권 씨가 입국할 것이라는 관측이 나온다.&lt;/p&gt;&lt;br /&gt;몬테네그로 항소법원은 20일(현지시간) 권 씨의 한국 송환을 결정한 포드고리차 고등법원의 판단을 확정했다고 밝혔다. 항소법원은 "원심(고등법원)은 한국의 범죄인 인도 요청이 미국보다 순서상 먼저 도착한 점을 근거로 권도형을 한국으로 인도하기로 결정했다"며 "이는 동일인에 대한 범죄인 인도를 여러 국가가 요청한 경우에 적용되는 형사사법공조에 관한 법률 제26조 등을 올바르게 적용한 것으로 평가한다"고 설명했다.&lt;br /&gt;&lt;br /&gt;항소법원이 원심을 확정하면서 권 씨의 신병인도와 관련한 몬테네그로 재판부의 사법 절차는 종료됐다. &lt;br /&gt;&lt;br /&gt;법무부는 몬테네그로 당국과 권 씨의 신병인도 절차와 일정 등을 협의 중이다. 법조계에서는 권 씨가 이르면 이주 안으로 한국으로 송환될 것이라는 관측이 나온다. &lt;br /&gt;&lt;br /&gt;검찰은 송환 과정에서 권 씨의 신병을 확보할 것으로 보인다. 앞서 먼저 송환된 한창준 테라폼랩스 최고재무책임자는 지난달 6일 인천공항에서 서울남부지검으로 압송됐다. 검찰은 8일 법원으로부터 구속영장을 발부받아 한 씨의 신병을 확보해, 21일 구속상태로 재판에 넘겼다. &lt;br /&gt;&lt;br /&gt;권 씨가 재판에 넘겨질 경우, 이미 진행 중인 신현성 전 차이코퍼레이션 대표 등의 재판과 병합될 가능성도 있다. &lt;br /&gt;&lt;br /&gt;한편 권 씨의 한국 송환이 확정되면서, 테라·루나 폭락 사태와 관련된 배후 수사 등도 재개될 것이란 관측도 나온다. 테라·루나 폭락 사태 당시 일각에서는 테라폼랩스 측이 정치권에 입법 로비 등을 벌였다는 의혹이 제기됐다. 윤상현 국민의힘 의원은 지난해 6월 열린 경제 분야 대정부질문에서 "트리마제 클럽이라고 들어봤나. 코인하는 젊은 친구들, 권도형·신현성이 주축이 돼서 정관계 인사들 많이 불러서 와인 마시고 있다"며 "(트리마제 클럽이) 지난 정부에 있어서 뭔가 로비 창구가 아니었나 하는 의심을 갖고 있다"고 말했다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;신현성 씨 측은 "트라마제 클럽이라는 말 자체를 들어본 적 없을 뿐만 아니라 정치권 인사들을 만나 와인을 마시고 한 적이 단 한 번도 없다"고 밝혔다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</description>
-			<pubDate>Thu, 21 Mar 2024 07:01:19 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196973</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196973</guid>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 광장, 중대재해처벌법 이슈와 대응 전략 알아보는 세미나 연다</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/196946.jpg" alt="196946.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;광장은 오는 29일 오후 4시부터 서울 중구 소공동 한진빌딩 26층 강당에서 ‘2024년 상반기 산업관계 대응 세미나’를 개최한다. 이번 세미나는 줌(Zoom)을 통해 온라인으로도 생중계된다.&lt;br /&gt;&lt;br /&gt;중대재해처벌법이 시행된 지 2년이 지났음에도 그 대응에 있어서 기업의 어려움은 계속되고 있고, 최근에는 5인 이상 사업장에도 법이 적용됨에 따라 산업현장의 혼란이 가중되고 있다. 이에 &lt;a href="https://www.leeko.com/leenko/main.do?lang=KR" target="_blank"&gt;&lt;b&gt;법무법인 광장&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3235"&gt;김상곤&lt;/span&gt;)이 중대재해처벌법 관련 이슈와 기업의 대응 전략 등을 살펴보는 자리를 마련했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7609"&gt;이형근&lt;/span&gt;(56·사법연수원 23기) 광장 대표변호사의 개회사로 막을 올리는 이번 세미나는,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11816"&gt;송현석&lt;/span&gt;(50·34기) 변호사의 사회로 3개 세션 및 질의응답이 각각 진행된다.&lt;br /&gt;&lt;br /&gt;첫 번째와 두 번째 세션에서는 현재 산업관계의 가장 뜨거운 쟁점인 중대재해처벌법 관련 이슈를 다룬다. 먼저 고용노동부 차관과 초대 산업안전보건본부장을 역임한 권기섭 성균관대 산학교수가 ‘중대재해, 새로운 이슈와 기업의 대응전략’이라는 주제로 발표한다.&lt;br /&gt;&lt;br /&gt;이어 광장 중대재해팀장을 맡고 있는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="616"&gt;배재덕&lt;/span&gt;(58·26기) 변호사와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="23949"&gt;강세영&lt;/span&gt;(40·변호사시험 1회) 변호사가 ‘중대재해처벌법 적용과 관련한 실무동향 및 대응방안’에 대해 설명한다.  &lt;br /&gt;&lt;br /&gt;세 번째 세션에서는 노사관계에 중대한 영향을 미칠 쟁점에 대해 새롭게 방향성을 제시한 최근 대법원 판결을 돌아본다. 대법원 근로조 재판연구관 등을 역임한 광장 노동팀&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13075"&gt;김영진&lt;/span&gt;(44·35기) 변호사가 발표자로 나서 ‘노동사건에 관한 최근 대법원 입장과 향후 전망’을 소개한다.</description>
-			<pubDate>Thu, 21 Mar 2024 05:59:29 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196946</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196946</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/196946.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>檢, 서정식 현대오토에버 전 대표 구속영장 청구…배임수재 혐의</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/검찰2(11).jpg" alt="검찰2.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;KT와 현대차그룹 사이 '보은투자 의혹'을 수사 중인 검찰이 서정식 현대오토에버 전 대표에 대한 구속영장을 청구했다. &lt;br /&gt;&lt;br /&gt;서울중앙지검 공정거래조사부(부장검사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10648"&gt;용성진&lt;/span&gt;)는 21일 서 전 대표에 대해 배임수재 등 혐의로 구속영장을 청구했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;검찰에 따르면 서 씨는 2018년 11월부터 2023년 6월 현대자동차 임원과 현대오토에버의 대표이사로 재직하며 협력업체 대표 등 3명으로부터 거래관계 유지, 납품 편의 등 부정한 청탁을 받고 법인카드를 제공받는 등 합계 8억 원대 경제적 이익을 수수한 혐의를 받고 있다. &lt;br /&gt;&lt;br /&gt;서 전 대표의 배임수재 혐의는 검찰이 KT클라우드가 스파크앤어소시에이츠(현 오픈클라우드랩) 지분을 정상가보다 비싸게 매입했다는 의혹을 수사하는 과정에서 포착한 것으로 전해졌다. 스파크는 정의선 현대차 그룹 회장의 동서 박모씨가 설립한 차량용 클라우드 업체다. &lt;br /&gt;&lt;br /&gt;당시 KT클라우드는 스파크 지분 100%를 206억8000만원에 매입해 자회사로 편입했다. 이를 두고 현대차가 구현모 전 KT 대표의 쌍둥이 형이 설립한 기업 에어플러그 지분을 매입한 것에 대한 보은성 투자라는 의혹이 제기됐다. &lt;br /&gt;&lt;br /&gt;서 전 대표가 근무했던 현대오토에버는 스파크앤어소시에이츠 거래 물량의 대부분을 납품했던 곳으로 알려졌다. 검찰은 지난해 11월 서 전 대표와 관련자들의 주거지 등을 압수수색했다. &lt;br /&gt;</description>
-			<pubDate>Thu, 21 Mar 2024 05:59:17 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196954</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196954</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/검찰2(11).jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>검찰, 'LH 아파트 입찰 비리' 감리업체 직원들 이틀 연속 압수수색</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/대법원4(6).jpg" alt="대법원4.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;'한국토지주택공사(LH) 아파트 입찰 비리' 사건을 수사 중인 검찰이 심사위원들에게 뇌물을 제공했다는 혐의로 감리업체 직원들에 대한 강제 수사에 나섰다.&lt;p&gt;   &lt;br /&gt;서울중앙지검 공정거래조사부(부장검사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10648"&gt;용성진&lt;/span&gt;)는 21일 LH와 조달청이 발주한 건설사업관리용역 입찰 심사 과정에서 감리업체들이 심사위원들에게 부정한 청탁을 하고 대가로 현금을 제공했다는 내용의 뇌물공여, 수수 등 혐의와 관련해 이틀 연속 압수수색을 하고 있다고 밝혔다. &lt;br /&gt;&lt;br /&gt;검찰은 지난 20일 서울, 경기 등 전국에서 감리업체 직원, 사무실 등 2개 회사와 10명의 주거지를 압수수색했고 이날 오전부터는 2개 사무실과 2명 주거지에 대해 추가 압수수색을 진행 중이다. &lt;br /&gt;&lt;br /&gt;검찰은 지난해 8월부터 LH와 조달청이 발주한 행복주택 지구 등 아파트 건설공사의 감리 용역 입찰에서 희림종합건축사사무소, KD 등 참가업체 10여 곳이 순번, 낙찰자 등을 사전에 협의하는 등 수천억 원대 담합이 벌어진 혐의(공정거래법 위반)를 수사 중이다.&lt;br /&gt;&lt;br /&gt;이와 관련해 지난달 뇌물공여, 특정범죄가중처벌등에 관한 법률위반(뇌물), 뇌물수수 등 혐의를 받고 있는 감리업체 대표와 심사위원인 전직 국립대 교수가 구속됐다.&lt;/p&gt;</description>
-			<pubDate>Thu, 21 Mar 2024 05:58:36 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196957</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196957</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/대법원4(6).jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 아시아나항공, 현산 상대 2500억 매각 계약금 소송 2심도 승소</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/196963.jpg" alt="196963.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;아시아나항공이 회사 매각 추진 당시 HDC현대산업개발(현산)에서 받은 2000억 원대 계약금 소유권이 자사에 있다며 제기한 소송의 항소심에서도 승소했다.&lt;br /&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;서울고법 민사16부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2608"&gt;김인겸&amp;nbsp;&lt;/span&gt;부장판사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9661"&gt;이양희&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="11472"&gt;김규동&amp;nbsp;&lt;/span&gt;고법판사)는 21일 아시아나항공과 금호건설이 현산과 미래에셋증권을 상대로 제기한 질권소멸 통지 등 소송(&lt;b&gt;2022나502981 등&lt;/b&gt;)에서 현산 측의 항소를 기각하고 원고승소한 원심 판단을 유지했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;2019년 11월 아시아나항공 인수전에 참여한 현산은 총 2조5000억 원에 인수계약을 맺었다. 계약을 통해 아시아나항공은 현산과 미래에셋증권에 아시아나항공이 발행한 신주와 금호건설이 소유한 아시아나항공 주식을 양도하고, 현산 등은 아시아나항공에게 인수대금을 지급하기로 약정했다. 현산 등은 계약 당일 아시아나항공 등에 계약금으로 인수대금의 10%인 2500억 원을 지급했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;거래종결의 선행조건으로는 △아시아나항공 등의 진술 및 보장이 중요한 면에서 진실하고 정확해야 할 것 △아시아나항공 등이 확약과 의무를 중요한 면에서 모두 이행할 것 등이 포함됐다. 다만 중대하게 부정적인 영향이 초래되지 않는 경우 예외는 둘 수 있도록 했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이후 현산은 코로나19 여파 등으로 인수 환경이 달라졌다며 재실사를 요구했다. 하지만 산업은행 등 채권단과 아시아나항공의 대주주인 금호산업은 현산의 인수 의지에 의구심이 있다며 이를 받아들이지 않았다. 결국 2020년 9월 인수는 최종 무산됐다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이후 양측은 계약 무산 책임을 서로에게 돌리면서 계약금을 두고 갈등을 벌였다. 아시아나항공은 2020년 11월 현산을 상대로 질권(담보) 설정을 해제해 계약금을 사용하게 해달라는 소송을 냈다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;재판부는 거래종결을 위한 선행조건이 모두 충족됐음에도 불구하고, 현산 등이 인수상황 재점검 등을 요구하면서 거래종결의무를 이행하지 않은 것은 이행거절에 해당한다고 봤다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;재판부는 "기준일 이후 아시아나항공이 여객운송 비중을 대폭 축소하고 화물운송 비중을 확대하기 위한 조치를 취하고, 여객운송 부분 인력을 대폭 감축한 것은 코로나19 확산 및 그에 따른 여객운송 수요 급감에 대응하기 위한 적절한 조치"라며 "이로 인해 아시아나와 현산 등에 중대하게 부정적인 영향이 발생했다고 보기 어렵다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이어 "기준일 이후 아시아나항공 및 계열사의 재무상태 및 영업상태가 크게 악화된 사정은 인정된다"면서도 "당시 재무상태 악화는 항공기 리스 부채, 마일리지 충당 부채 증가 등의 이유로 회계정책 내지 회계추정의 변경에서 기인한 것이므로 중대하게 부정적인 영향의 예외사유에 해당한다"고 설명했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;그러면서 "아시아나항공과 현산 등이 대등한 지위에서 자유로운 협상을 통해 계약금을 위약벌로 하기로 합의했다"며 "위약벌 액수가 고액이기는 하나, 거래 무산에 따른 아시아나항공 등의 유무형 손해까지 고려하면 그 의무 강제에 따르는 아시아나항공 등의 이익에 비해 약정된 벌이 과도하게 무겁다고 볼 순 없다"고 판시했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;앞서 1심은 인수계약이 적법하게 해지됐으며, 현산 측이 지급한 각 계약금은 인수계약에서 정한 바에 따라 위약벌로 모두 아시아나항공에 귀속된다고 판단했다. 특히 계약금에 대해 아시아나항공 등이 입은 손해의 입증곤란을 덜기 위한 목적보다는 현산 등의 채무 이행을 확보하기 위한 성격이 더 강하다고 보이는 점 등에 비춰 위약벌에 해당한다고 봤다. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;현산 등은 이에 불복해 항소했다.&lt;/p&gt;</description>
-			<pubDate>Thu, 21 Mar 2024 05:45:24 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/196963</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/196963</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/196963.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
