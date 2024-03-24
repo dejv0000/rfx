@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>GIC소유 골프장 명도 분쟁, 서울중앙지법 “더플레이어GC 운영사 더플레이어스 손들어줘"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/240323_더플레이어스GC 홈페이지.jpg" alt="240323_더플레이어스GC 홈페이지.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&amp;lt;사진= 더플레이어스GC 홈페이지&amp;gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;소유주를 대리한 관리업체와 위탁운영사 간의 골프장 무단 이용 다툼 등 분쟁에 휘말렸던 강원도 춘천의 유명 골프장 더플레이어스GC 명도소송 사건이 위탁운영사 더플레이어스의 승소로 판결 났다. 이번 판결로 운영사인 더플레이어스는 남은 계약 기간 동안 안정적으로 골프장을 운영할 수 있게 됐다. &lt;br /&gt;&lt;br /&gt;서울중앙지법 제25민사부는 지난달 더플레이어스가 원골프매니지먼트를 상대로 낸 손해배상 청구 소송에서 원고 일부 승소로 판단했다.  (2022가합530266)&lt;br /&gt;&lt;br /&gt;원골프매니지먼트는 2022년 더플레이어스에게 전대차목적물 반환 등 청구 소송을 제기했다. 더플레이어스는 손해배상을 요구하는 반소장을 제출했다. &lt;br /&gt;&lt;br /&gt;원골프 측은 더플레이어스가 매출을 누락했다고 주장한다. 원골프 측은 위탁운영사가 골프장이 노쇼위약금을 처리하는 과정에서 누락된 매출액이 있었다며 이는 계약의 신뢰관계를 파탄하는 행위라고 주장했다. 또 2차 보증금을 기한 내 지급하지 않은 점도 이유로 들었다. &lt;br /&gt;&lt;br /&gt;더플레어스 측은 "계약이행에 따른 보증금 지급에 갈음하는 방안을 제시하며 방안 검토를 위해 기한 연장을 요청했다. 하지만 원골프는 8개월이 지나도록 회신이 없었다"고 맞섰다.&lt;br /&gt;&lt;br /&gt;법원은 "원골프가 전대차계약 이행에 있어 보증금의 지급 여부를 그리 중하게 여기지 않았다고 봄이 상당하다"고 봤다. 또 노쇼위약금을 매출로 처리하지 않고 영업 외 수입으로 처리한 사실 역시 고의 또는 중과실이 있다고 볼 수도 없다고 판단했다.</description>
+			<pubDate>Sun, 24 Mar 2024 03:40:16 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197046</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197046</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/240323_더플레이어스GC 홈페이지.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] “홈캠에 자동녹음된 내용 듣는 것은 ‘청취’ 아니다”</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/대법원4(7).jpg" alt="대법원4.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;집에 설치해둔 홈캠에 자동녹음된 대화 내용을 듣는 것은 통신비밀보호법상 ‘청취’에 해당하지 않는다는 대법원 판단이 나왔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대법원 형사2부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3751"&gt;권영준&amp;nbsp;&lt;/span&gt;대법관)는 2월 29일 통신비밀보호법 위반 등 혐의로 기소된 A 씨에게 벌금 300만 원의 선고를 유예한 원심을 확정했다(&lt;b&gt;2023도8603&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이 사건에서는 통신비밀법상 ‘청취’의 의미가 쟁점이 됐다. 청취가 대화가 이루어지고 있는 상황에서 실시간으로 그 대화의 내용을 엿듣는 행위이고, 이미 대화가 종료된 상태에서 그 대화의 녹음물을 재생하여 듣는 행위는 여기에 포함되지 않는다는 것이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;A 씨는 2020년 2월 배우자와 함께 거주하는 경주시의 아파트 거실에 녹음기능이 있는 영상정보 처리기기(홈캠)를 설치했다. 같은 해 5월 거실에서 배우자와 그의 부모, 동생이 대화하는 것이 홈캠에 자동녹음됐다. A 씨는 그 무렵 자동녹음된 대화를 듣고 해당 파일을 제3자에게 전송했다. A 씨는 공개되지 아니한 타인간 대화를 청취하고 그 내용을 누설하여 통신비밀보호법 제16조, 제3조를 위반한 혐의로 기소됐다. 다만 녹음 기능이 있는 홈캠은 배우자의 동의를 받아 설치했고 해당 기기는 별도의 조작을 가하지 않아도 자동녹음이 이뤄지는 기능이 있는 것으로 조사됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;1심은 A 씨에게 벌금 300만 원을 선고했지만, 통신비밀보호법 위반 혐의는 무죄로 판단했다. 2심도 해당 혐의는 무죄로 봤다. 대법원의 판단도 같았다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;재판부는 “종료된 대화의 녹음물을 재생해 듣는 행위도 통신비밀보호법 제3조 1항의 ‘청취’에 포함시키는 해석은 청취를 녹음과 별도 행위로 규율하는 3조 1항에 비춰 불필요하거나, 타인간의 대화를 실시간으로 엿듣는 행위를 의미하는 ‘청취’의 범위를 너무 넓혀 금지 및 처벌의 대상을 과도하게 확장할 수 있다”고 판시했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이어 “위법한 녹음주체가 그 녹음물을 청취하는 경우에는 그 위법한 녹음을 금지 및 처벌대상으로 삼으면 충분하고, 녹음에 사후적으로 수반되는 청취를 별도의 금지 및 처벌대상으로 삼을 필요성이 크지 않다”고 설명했다.&lt;/p&gt;</description>
 			<pubDate>Sun, 24 Mar 2024 00:15:56 -0000</pubDate>
@@ -228,15 +238,6 @@
 			<link>https://www.lawtimes.co.kr/news/197035</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197035</guid>
 			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>檢, '사기 공범 의혹' 남현희 경찰에 재수사 요청</title>
-			<description>검찰이 펜싱 국가대표 출신 남현희 씨에 대한 재수사를 경찰에 요청했다. 전청조 씨의 사기 행각에 공모했다는 혐의에 대해 경찰이 불송치 결정을 내린 지 3주 만이다.&lt;br /&gt;&lt;br /&gt;서울동부지검은 22일 남 씨의 사기 공범 혐의와 관련해 "경찰의 불송치 기록을 송부받아 면밀하게 검토한 결과 추가 수사 필요성이 있다고 판단해 경찰에 재수사를 요청했다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;남 씨는 전 연인이었던 전 씨의 사기 행각에 가담하고 범죄수익을 취득했다는 혐의로 경찰에서 수사받았다. 경찰은 지난달 29일 남 씨의 사기 혐의에 대해 불송치(혐의없음) 결정을 내렸다.&lt;br /&gt;&lt;br /&gt;전청조 씨는 재벌가 혼외자 행세를 하며 재벌들만 아는 은밀한 투자 기회를 제공하는 것처럼 속여 피해자 27명으로부터 약 30억 원을 편취한 혐의로 1심에서 징역 12년을 선고받았다.&lt;br /&gt;&lt;br /&gt;당시 전 씨에 대해 경찰이 수사에 착수한 뒤 일부 피해자들은 남 씨를 공범으로 지목해 사기 방조 등 혐의로 고소했다.&lt;br /&gt;&lt;br /&gt;경찰은 두 사람을 여러 차례 대질조사하며 공모 여부를 수사해 왔지만, 범죄 혐의점이 확인되지 않는다고 보고 무혐의 처분했다.&lt;br /&gt;&lt;br /&gt;그러나 남 씨가 불송치된 뒤 일부 고소인들은 경찰의 결정에 이의를 제기하고 검찰에 엄벌 탄원서를 제출하며 반발해 왔다.</description>
-			<pubDate>Fri, 22 Mar 2024 07:43:32 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197031</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197031</guid>
-			<dc:creator>임현경 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
