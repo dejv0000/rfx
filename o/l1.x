@@ -6,6 +6,55 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>법무법인 YK, 한국감정평가사협회와 MOU 체결</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/20240329_와이케이MOU.png" alt="20240329_와이케이MOU.png" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.yklawfirm.co.kr/?gcl_keyword=%EB%B2%95%EB%AC%B4%EB%B2%95%EC%9D%B8yk&amp;gcl_network=g&amp;gad_source=1&amp;gclid=Cj0KCQjwzZmwBhD8ARIsAH4v1gWsYEYPR-t-ooQzO_dsNfMho8iYzBOUD_3KKv7AT4b6GNrnbwsn78UaAlusEALw_wcB" target="_blank"&gt;&lt;b&gt;법무법인 YK&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="19296"&gt;강경훈&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="19307"&gt;김범한&lt;/span&gt;)는 (사)한국감정평가사협회와 전략적 업무제휴 협약을 체결했다고 28일 밝혔다.&lt;p&gt;&amp;nbsp;  &lt;br /&gt;지난 27일 YK 강남 주사무소에서 진행된 협약식에는 김범한 대표변호사와 조인선 파트너변호사, 이민우 파트너변호사, 김정수 고문, 한국감정평가사협회 양길수 회장과 최범규 자문위원 등이 참석했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;YK는 그간 다양한 분야의 법률자문을 수행해온 경험을 바탕으로 한국감정평가사협회의 감정평가 및 관련 업무에 대한 법률자문 등을 제공, 업무 수행을 도울 예정이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;감정평가사협회는 '감정평가 및 감정평가사에 관한 법률'에 따라 설립된 국토교통부 산하 법정 단체다. 감정평가사 회원의 권익 보호와 복지, 전문성 제고 등이 운영 목적이며 감정평가 업무 개발과 감정평가제도 개선·국제교류 활성화를 위해 노력하고 있다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;부동산 거래와 경매, 금융회사 담보대출 시 가치 산정, 공익사업 보상, 표준지 공시지가 선정 등에 감정평가를 활용한다. 협회는 국가나 기업·기관 등의 감정평가 의뢰에서 평가사를 배정하는 권한도 갖고 있다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="19296"&gt;강경훈&amp;nbsp;&lt;/span&gt;대표변호사(47·사법연수원 40기)는 “이번 업무협약을 계기로 부동산 산업의 건전한 발전을 위해 효율성과 신뢰성 강화에 최선을 다하겠다”면서 “양기관의 전문성을 바탕으로 국민에게 더 나은 서비스를 제공하도록 최선을 다하겠다”고 전했다.&lt;/p&gt;</description>
+			<pubDate>Fri, 29 Mar 2024 09:46:55 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197193</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197193</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/20240329_와이케이MOU.png</media:thumbnail>
+			<dc:creator>유지인 기자</dc:creator>
+		</item>
+		<item>
+			<title>검찰, '입시비리' 조민 1심 선고 불복해 항소 "벌금형 범죄에 상응하지 않아"</title>
+			<description>검찰이 조국 조국혁신당 대표 딸 조민 씨의 입시 비리 혐의에 대해 벌금형을 선고한 1심 판결에 불복해 항소했다. &lt;br /&gt;&lt;br /&gt;서울중앙지검 공판5부(유민종 부장검사)는 29일 양형 부당을 이유로 조민 씨의 1심을 맡은 서울중앙지법에 항소장을 제출했다.&lt;br /&gt;&lt;br /&gt;검찰은 "성인인 피고인이 다수의 허위 증빙 입시서류를 직접 제출하고 허위 스펙에 맞춰 입시면접까지 하는 등 범행에 적극 가담한 점, 입시비리 사건에 대해 재산형인 벌금형 선고는 이례적이며 적정하지 않은 점 등을 고려할 때 1심 선고형은 범죄에 상응하지 않는다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;조민 씨는 어머니 정경심 전 동양대 교수와 함께 2014년 6월10일 부산대 의학전문대학원에 허위로 작성한 입학원서·자기소개서·위조된 동양대 총장 표창장을 제출해 입학 사정 업무를 방해한 혐의로 지난해 8월 불구속기소 됐다.&lt;br /&gt;&lt;br /&gt;2013년 6월 17일 부모와 함께 서울대 의전원에 허위로 작성된 자기소개서·서울대 법대 공익인권법센터장 명의 인턴십 확인서·동양대 총장 표창장 등 위조된 증빙서류를 제출한 혐의도 있다.&lt;br /&gt;&lt;br /&gt;검찰은 동종 입시비리 사건의 형량 등을 고려하여 징역 1년, 집행유예 3년을 구형했으나 1심은 벌금 1000만 원을 선고했다. &lt;br /&gt;&lt;br /&gt;</description>
+			<pubDate>Fri, 29 Mar 2024 09:06:17 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197192</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197192</guid>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>'돈봉투 의혹' 송영길 보석 청구 기각</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/법원_깃발(12).jpg" alt="법원_깃발.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;더불어민주당 돈봉투 의혹과 관련해 구속 상태로 재판받고 있는 송영길 소나무당 대표의 보석 신청이 받아들여지지 않았다.&lt;br /&gt;&lt;br /&gt;서울중앙지법 형사합의21부(&lt;span style="font-weight: bold;" class="lawmanlink" serial="4658"&gt;허경무&amp;nbsp;&lt;/span&gt;부장판사)는&amp;nbsp;29일 송 대표의 보석 청구를 기각했다. 송 대표가 지난달&amp;nbsp;27일 불구속 재판을 요청한 지 약 한 달 만이다.&lt;br /&gt;&lt;br /&gt;재판부는 "형사소송법 제95조 1호, 3호의 사유가 있고 달리 보석을 허가할 상당한 이유가 없다"고 결정 배경을 설명했다.&lt;br /&gt;&lt;br /&gt;송 대표는 지난 6일 보석심문에서 재판부에 "이번 선거는 4년 동안 대한민국의 운명을 좌우할 중요한 선거"라며 "25년 정치 인생을 결산해 국민의 심판을 받을 기회를 허용해 달라"고 요청했다.&lt;br /&gt;&lt;br /&gt;송 대표는 2020년 1월부터 2021년 12월 사이 먹사연을 통해 후원금 명목으로 불법 정치자금 7억6300만 원을 수수한 혐의를 받는다. 2017년 7~8월경 박용하 전 여수상공회의소 회장으로부터 국가산업단지 소각장 증설을 위한 인허가 관련 청탁 명목으로 4000만 원의 뇌물을 수수한 혐의도 있다. 검찰은 송 대표가 2021년 5월 민주당 당대표 경선에서 당선되기 위해 6000만 원의 불법 정치자금을 수수하고, 총 6650만 원의 금품을 살포하는 것에 관여했다고 보고 있다.</description>
+			<pubDate>Fri, 29 Mar 2024 08:48:30 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197190</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197190</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/법원_깃발(12).jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>서울중앙지법도 법원장 재판 시작…김정중 법원장 "법관 증원 필요"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/197189.jpg" alt="197189.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;사법부가 사건 적체 해소를 위해 법원장들을 직접 재판에 투입한 가운데, 전국 최대 규모 지방법원인 서울중앙지법의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2343"&gt;김정중&lt;/span&gt;(58·사법연수원 26기) 법원장도 직접 재판을 시작했다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;김 법원장은 28일 오후 2시 서울중앙지법 374호 법정에서 민사62단독 재판장으로서 첫 재판을 열었다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;이날 김 법원장은 6건의 사건을 심리했다. 이 가운데 7년째 진행 중인 교통사고 손해배상 소송도 있었다. 김 법원장은 소송 당사자들에게 "이 사건의 핵심은 사고 발생과 책임이 아닌 손해배상 범위"라며 "(배상 범위 판단을 위해) 신체감정 결과를 하나하나 살펴봐야 한다"고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;작년 2월 취임한 김 법원장은 1년여 만에 다시 직접 재판을 하게 됐다. 그는 법원장 취임 전까지 2년간 이 법원 민사제2수석부장판사로 근무했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;김 법원장은 재판을 취재하러 온 기자들에게 "법원장이 장기미제 사건 재판을 담당하는 것은 일선 법관들의 업무 부담을 덜고 사건 처리에 힘을 보태는 것에서 나아가, 재판 절차 장기화의 원인을 분석하고 제도적 개선 방안을 고민해볼 기회라고 생각한다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;그는 "현행법대로라면 내년부터 3년간 가동 법관 수가 점차 줄어 사건이 적체될 우려가 있다"라며 "신속한 재판을 위한 법원의 노력이 결실을 보기 위해선 법관 증원, 법관 임용 자격 개선 등 제도적 뒷받침도 필요하다"고 강조했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;작년 12월 취임한 조희대 대법원장은 '재판 지연' 해결책의 일환으로 사법행정 업무에 주력하던 법원장들을 재판에 투입하기로 결정했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이번달&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3644"&gt;김국현&lt;/span&gt;(58·24기) 서울행정법원장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="356"&gt;박형순&lt;/span&gt;(53·27기) 서울북부지법원장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2962"&gt;김세윤&lt;/span&gt;(47·25기) 수원지법원장도 재판을 진행했다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8554"&gt;윤준&lt;/span&gt;(63·16기) 서울고법원장은 다음달 18일 대법원에서 파기환송된 민사사건 등의 변론기일을 진행할 예정이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Fri, 29 Mar 2024 08:46:44 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197189</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197189</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/197189.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
+			<title>이종섭, 사의 표명 "공수처 아직 수사기일 안 잡아…서울에 남겠다"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/197179.jpg" alt="197179.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;이종섭 호주 대사 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;'해병대원 채모 상병 사망 사건 수사에 대한 외압' 의혹으로 고위공직자범죄수사처 수사를 받고 있는 이종섭 호주 대사가 29일 사의를 표명했다. &lt;br /&gt;&lt;br /&gt;이 대사는 이날 변호인을 통해 "저는 그동안 공수처에 빨리 조사해 달라고 계속 요구해왔으나 공수처는 아직도 수사기일을 잡지 않고 있다"면서 "저는 방산 협력 주요 공관장 회의가 끝나도 서울에 남아 모든 절차에 끝까지 강력히 대응할 것"이라고 말했다. &lt;br /&gt;&lt;br /&gt;이 대사는 "그러기 위해 오늘 외교부 장관께 주호주 대사직을 면해주시기를 바란다는 사의를 표명하고 꼭 수리될 수 있도록 해주실 것을 요청했다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;이 대사는 국방부 장관 당시 호우 실종자 수색 도중 순직한 채 상병 사망 사건과 관련해 수사 외압 의혹으로 공수처의 수사를 받고 있다. &lt;br /&gt;&lt;br /&gt;윤석열 대통령은 지난 4일 그를 호주 대사로 공식 임명했고, 사흘 뒤 공수처에서 조사를 받았다. 이어 법무부가 이 대사의 출국금지를 해제하는 결정을 내렸고 이 대사는 10일 호주로 떠났다.&lt;br /&gt;&lt;br /&gt;대통령실과 공수처는 이 대사의 출국을 두고 대립각을 세웠다. 대통령실은 공수처가 출국을 허락했다고 밝혔지만, 공수처는 "출국금지 해제 권한이 없다. 조사 과정에서 출국을 허락한 적이 없다"고 반박하면서 갈등이 깊어졌다.&lt;br /&gt;&lt;br /&gt;이 대사는 변호인을 통해 소환조사 촉구서를 제출했다. 이 대사 측은 "공수처가 출금 연장하며 조사가 필요하다고 해 왔고 충분한 조사 준비기간이 있었으니 이번에는 당연히 공수처가 소환 조사를 진행할 것으로 기대한다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;공수처는 "압수물 등의 디지털 포렌식 및 자료 분석 작업이 종료되지 않은 점, 참고인 등에 대한 조사가 충분히 이뤄지지 않은 점 등을 고려할 때 당분간 소환조사는 어렵다는 입장"이라며 "수사팀은 주어진 여건 속에서 최대한 수사에 전력을 기울인 뒤 수사 진행 정도 등에 대한 협의 절차를 거쳐 소환조사 일시를 통보할 예정"이라고 밝힌 바 있다.</description>
+			<pubDate>Fri, 29 Mar 2024 06:37:10 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197179</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197179</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/197179.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>한국여성변호사회, 악의적 양육비 미지급자 '실형' 선고에 "환영"</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/22(59).jpg" alt="22.jpg" /&gt;&lt;/p&gt;한국여성변호사회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1151"&gt;왕미양&lt;/span&gt;, 이하 '여변')가 수년간 악의적으로 양육비를 지급하지 않은 40대 아버지에 대한 법원의 첫 실형 선고에 환영의 뜻을 밝혔다.&lt;br /&gt;&lt;br /&gt;여변은 28일 성명을 통해 10년 동안 약 1억 원에 달하는 양육비를 지급하지 않은 피의자 A 씨에게 징역 3개월을 선고한 인천지방법원의 판결에 대해 "매우 고무적이다"는 입장을 발표했다. &lt;br /&gt;&lt;br /&gt;인천지방법원은 지난 27일 양육비 이행 확보 및 지원에 관한 법률 위반 혐의로 기소된 A(44) 씨에게 징역 3개월을 선고하고 법정 구속했다. 양육비 미지급자에 내려진 첫 실형 선고다. &lt;br /&gt;&lt;br /&gt;법원은 "(A 씨가) 굴착기 기사로 일하면서 급여를 모두 현금으로 받았음에도 10년 동안 약 1억 원에 달하는 양육비를 지급하지 않았고, 전 배우자인 피해자가 이행명령 청구와 강제집행 등 사법적인 방법을 강구했음에도 양육비를 받지 못했다"며 "미성년 자녀들과 전 배우자에게 장기간 회복할 수 없는 범죄를 저질렀다"는 이유로 실형을 선고했다. &lt;br /&gt;&lt;br /&gt;여변은 성명에서 "미성년 자녀의 생존권 및 복리와 밀접하게 직결된 비양육부모의 양육비 지급은 우리 사회와 국가가 적극적으로 개입하여야 할 사회적 과제"라고 했다. 실제로 여성가족부가 2021년 발표한 '한부모가족 실태조사' 결과에 따르면 비양육부모로부터 양육비를 받지 못한 비율이 72.1%에 달한다. &lt;br /&gt;&lt;br /&gt;아울러 여변은 "이혼 후 비양육자의 채무는 최우선적으로 변제되어야 하는 채무로서 적시·정기적으로 지급될 경우에만 양육비 본래의 의미와 가치가 실현될 수 있으므로, 사적 영역의 채무나 개인간 채무 문제와 달리 취급돼야 한다"며 "특히 악의적 양육비 미지급자에 대한 행정적·사법적 제재를 보완·강화할 필요성이 시급한 시점에서 이번 법원의 실형선고는 매우 고무적이다"고 했다. &lt;br /&gt;&lt;br /&gt;또 "미성년 자녀의 생존권과 복리를 적극적으로 보호하고, 향후 동종범죄를 억제하기 위하여, 악의적 양육비 미지급자에 대한 법적제재 조치의 강도는 계속하여 높아져야 한다"고 덧붙였다.</description>
 			<pubDate>Fri, 29 Mar 2024 05:47:51 -0000</pubDate>
@@ -190,56 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197132</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/197132.jpg</media:thumbnail>
 			<dc:creator>유지인 기자</dc:creator>
-		</item>
-		<item>
-			<title>대구지법 상주지원, '2024 상주지원 조정위원 위촉식' 열어</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/197135.jpg" alt="197135.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대구지방·가정법원 상주지원(지원장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11842"&gt;전우석&lt;/span&gt;)은 25일 상주지원 청사 대회의실에서 '2024년도 상주지원 조정위원 위촉식 및 감사장 전수식'을 열었다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11842"&gt;전우석&lt;/span&gt;(49·사법연수원 34기) 상주지원장과 김재오 조정위원협의회 대표회장, 남성구 총무 등 40여 명이 참석했다.&lt;br /&gt;&lt;br /&gt;전 지원장은 이날&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="21652"&gt;곽은정&lt;/span&gt;(40·42기) 변호사 등 3명을 신규 조정위원에 위촉하고, 정기진 씨 등 49명을 재위촉했다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대구지법원장 감사장은 장미향 상주 조정위원이, 상주지원장 감사패는 이상욱 전 상주 조정위원과 이정대 전 조정위 사무총장 등이 받았다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;위촉식을 마친 뒤 조정위원협의회는 정기총회도 열었다. 위원회는 지난해 결산과 올해 예산안을 승인하고, 정연구 위원을 상주지역회장으로 선출했다.&lt;/p&gt;</description>
-			<pubDate>Wed, 27 Mar 2024 16:48:01 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197135</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197135</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/197135.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>지평법정책연구소, ‘2024년 우수 입법·정책 아이디어 공모전’ 진행</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/197134.jpg" alt="197134.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.jipyong.com/kr/main/main.php" target="_blank"&gt;&lt;b&gt;법무법인 지평&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2106"&gt;김지형&lt;/span&gt;)의 지평법정책연구소가 로스쿨 재학생 등을 대상으로 ‘2024년 우수 입법·정책 아이디어 공모전’을 진행한다. 접수 기간은 7월 1일부터 31일까지다.&lt;br /&gt;&lt;br /&gt;이번 공모전은 우수한 입법·정책 방안을 제출한 참가자를 선정해 포상하며 법정책 연구 주제 이슈 발굴과 연구 활성화, 정부에 참고 자료를 제공 등을 위해 기획됐다.&lt;br /&gt;&lt;br /&gt;공모전의 주제는 '이민정책 및 이민 관련 법제도'로, 이민정책 현황과 개선 필요성, 실행방안과 기대되는 정책 효과 등을 포함하면 된다. &lt;br /&gt;&lt;br /&gt;최우수상 1팀에게 100만 원, 우수상 2팀에게 각각 50만 원씩을 수여한다. 선발기준으로는 △실현 가능성 △창의성 △적용 범위 등이 종합적으로 고려될 예정이다.&lt;br /&gt;&lt;br /&gt;신청대상은 로스쿨 재학생 및 졸업생과 일반대학원 재학생으로, 개인 또는 3인 이하의 팀단위로 모두 신청 가능하다.&lt;br /&gt;&lt;br /&gt;이번 공모사업을 주최한 지평법정책연구소의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8653"&gt;이공현&lt;/span&gt;(75·사법연수원 3기) 이사장은 "이민정책 관련 국내외 제도적 환경이 급변하는 지금은 올바른 이민정책과 법제도의 수립·운영이 그 어느 때보다 필요한 시점"이라며 "이번 공모 주제와 관련하여 참신한 입법·정책 아이디어가 나올 수 있도록 많은 지원과 관심을 부탁드린다"고 전했다.&lt;br /&gt;&lt;br /&gt;자세한 사항은 지평법정책연구소 홈페이지에서 확인할 수 있다.</description>
-			<pubDate>Wed, 27 Mar 2024 16:45:49 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197134</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197134</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/197134.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>안산 범죄예방위 안전·환경위원협의회, 안전·환경 월례회 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/20240327_안산범방.jpg" alt="20240327_안산범방.JPG" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무부 청소년 범죄예방위원 안산지역협의회(회장 손인국)의 안전·환경위원협의회(위원장 김장선)는 26일 경기도 안산의 한 식당에서 운영위원 및 자문위원 30여 명이 참석한 가운데 월례회를 열었다. &lt;br /&gt;&lt;br /&gt;이날 회의에서는 △산업안전과 환경 관련 변경된 관리제도 △화학기업이 안전·환경 관리를 위해 지켜야하는 법 등을 공유하고, 상반기 계획을 결정했다.&lt;br /&gt;&lt;br /&gt;김 위원장은 "근로자에 대한 안전한 근로환경을 만들어 주는데 적극 동참해 달라"며 "근로자 임금체불이 발생하지 않도록 함께 노력하자"고 당부했다.&lt;br /&gt;&lt;br /&gt;안산범방 안전·환경위원회는 직장 내 근로환경을 개선하고 지역 환경오염 방지에 의견을 공유하는 협의체다. 매달 마지막 화요일에 정기 월례회를 연다.</description>
-			<pubDate>Wed, 27 Mar 2024 16:43:21 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197133</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197133</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/20240327_안산범방.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>'민주당 영입 인재' 이용우 변호사, '수임 축소 신고' 의혹에 증표 수백 건 일괄 등록… 서울변회, 변협에 징계 개시 신청하기로</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/197131.jpg" alt="197131.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;지난달 19일 서울 영등포구 국회에서 열린 더불어민주당 인재환영식에서 이용우 변호사가 발언하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;서울지방변호사회가 변호사법 위반 의혹으로&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="31006"&gt;이용우&lt;/span&gt;(50·변호사시험 2회·사진) 변호사를 대한변호사협회에 징계 개시를 신청했다고 27일 밝혔다. 변호사가 사건 수임을 했다는 증거인 '경유 증표'를 대거 누락했다는 사실이 밝혀져 이에 관한 징계를 변협에 신청하기로 한 것이다. 이 변호사는 더불어민주당의 총선 영입인재 23호로, 2일 인천 서구을 지역에 공천이 확정됐다.&lt;br /&gt;&lt;br /&gt;서울변회는 이날 "지난 2월 상습적인 경유증표 누락 관련 진정이 접수됐고, 수임 사건에 대한 경유증표를 장기간 누락해온 사실이 확인됐다"며 "26일 열린 서울변회 상임이사회에서 변협에 이 변호사에 대한 징계 개시 신청을 하기로 의결했다"고 밝혔다. 서울변회 관계자는 "절차상 징계개시 신청을 하면 자동으로 변협에 넘어가는 사안"이라고 말했다.&lt;br /&gt;&lt;br /&gt;이 후보가 인천 서구을 공천이 확정된 뒤 닷새 뒤인 7일 일부 언론은 이 후보가 경유증표를 대거 누락했다며 '수임 축소' 신고 의혹 보도를 했다. 서울변회가 조사를 시작하자 이 후보 측은 보도 다음날인 8일부터 나흘간 5년 분량의 경유증표 수백 건을 한 번에 제출한 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;변호사법 제29조에 따르면 변호사는 법률사건 및 법률사무에 관한 변호인선임신고서 또는 소송위임장 등을 공공기관에 제출할 때 소속 지방변회를 경유해야 한다. 변호사가 소속변회에 경유증표 발행 기록을 자진 신고하면 지방변회는 이를 모아 매년 1월 국세청에 제출해 과세 자료로 활용한다.&lt;br /&gt;&lt;br /&gt;경유증표는 변호사가 변호인 선임서나 위임장을 공공기관에 제출할 때 건당 최대 3만 원까지 지불하고 관련 서류에 부착하는 증표로, 해당 변호사가 소속된 변회에서 발급한다. 1990년대 말 법조비리가 사회문제로 부각되면서 변호사 감독을 강화해야 한다는 지적이 나왔고 변호사가 '몰래 변론'하며 탈세하는 것을 막고 건전한 수임질서를 유지하기 위해 2000년 변호사법 의무조항으로 도입됐다.&lt;br /&gt;</description>
-			<pubDate>Wed, 27 Mar 2024 07:54:04 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197131</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197131</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/197131.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>김두규 변리사회 신임회장, "변리사와 기업 이익 위해 노력할 것"</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/197128.jpg" alt="197128.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김두규 신임 대한변리사회 회장이 27일 서울 서초구 변리사회관에서 취임식을 갖고 본격적인 활동에 들어갔다.&lt;br /&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt; 김 신임 회장은 취임사에서 "기술패권 시대에 변리사의 권익 확대가 기업 경쟁력 강화로 이어진다. 변리사에 대한 처우 개선 없이 우수한 특허가 창출될 수 없다"고 강조했다. 이어 "변리사와 기업 모두의 이익을 위해 변리서비스 수가 현실화, 변리사의 특허침해소송대리권 확보 등을 위해 노력하며 변리사 제도가 개선될 수 있도록 할 것"이라고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt; 이날 행사에는 김 신임 회장과 홍익표 더불어민주당 원내대표, 정대철 대한민국 헌정회 회장을 비롯해 변리사 및 법조 업계 관계자 등 100여 명이 참석했다. 김 신임 회장은 지난달 23일 열린 대한변리사회 회장 선거에서 전체 투표수 1056표 중 419표(39.6%)를 얻어 제43대 회장에 당선됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Wed, 27 Mar 2024 07:51:04 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197128</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197128</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/197128.jpg</media:thumbnail>
-			<dc:creator>홍수정 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
