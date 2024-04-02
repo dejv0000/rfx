@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>율촌-온율, '제1회 공익법제 컨퍼런스' 개최··· "영리-비영리 이분법적 사고 벗어나야"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/197289.jpg" alt="197289.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=백성현 기자》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.yulchon.com/ko/main/main.do" target="_blank"&gt;&lt;b&gt;법무법인 율촌&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7573"&gt;강석훈&lt;/span&gt;)이 &lt;a href="http://onyul.or.kr/" target="_blank"&gt;&lt;b&gt;사단법인 온율&lt;/b&gt;&lt;/a&gt; 설립 10주년을 맞아 제1회 공익법제 컨퍼런스를 열었다. 온율은 율촌이 공익 활동 강화를 위해 2014년 설립한 사단법인이다.  &lt;br /&gt;&lt;br /&gt;율촌-온율 제1회 공익법제 컨퍼런스가 2일 서울 강남구 삼성동 파르나스타워에서 진행됐다. 이번 컨퍼런스는 온율 10주년을 기념하는 자리로 비영리단체 트렌드와 공익법인 법제 관련 의견을 나누기 위해 마련됐다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7573"&gt;강석훈&lt;/span&gt;(61·사법연수원 19기) 율촌 변호사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8490"&gt;윤세리&lt;/span&gt;(71&lt;span style="font-weight: bold;" class="lawmanlink" serial="8490"&gt;&lt;/span&gt;·사법연수원 10기)·이인용 온율 공동이사장과 세이브더칠드런, 초록우산어린이재단 등 사회적 기업 및 공익단체 관계자 총 100여 명이 참석했다. &lt;br /&gt;&lt;br /&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/197289-2.jpg" alt="197289-2.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;윤세리 사단법인 온율 이사장 《사진=백성현 기자》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;윤세리 이사장은 "우리 사회가 경쟁을 통해 발전을 이룩했지만 소외된 분들도 많이 생겨났다"면서 "율촌과 온율은 지난 10년간 쌓아온 공익 분야의 경험을 바탕으로 비영리 법인들이 더 효율적으로 활동할 수 있는 법 제도에 대해 연구하고 개선점을 제시하는 컨퍼런스를 매년 개최하고자 한다"고 했다. &lt;br /&gt;&lt;br /&gt; 먼저 '비영리조직의 임팩트 측정 학습과 연습'을 주제로 발표한 박소희 SK사회적가치연구원은 "최근 영리와 비영리 조직을 구분하는 이분법적인 사고방식을 넘어 비영리 조직의 성과를 화폐적 가치로 측정하는 '임팩트 측정'이라는 사회적 트렌드가 생겨나고 있다"고 설명했다. 토론자로 나선 김기룡 플랜엠 대표는 "비영리 조직은 자본주의 시스템 안에서 해결되지 않는 문제들을 해결한다는 점에서 생산 조직에 가까운데 이러한 역할을 정부 등에 설득하기 위한 수단으로서 임팩트 측정의 중요성이 크다"고 강조했다. &lt;br /&gt;&lt;br /&gt; 두번째 발제를 맡은 최환용 한국법제연구원 선임연구위원은 '일본의 2023년 공익법인제도 개혁논의에 대한 소개'를 주제로 "기업의 사회적 책임, ESG경영 등이 강조되는 현 상황에서 '공익'은 더 이상 정부의 전유물이 아니며, 민간에 의한 공익 실현의 기회가 확대돼야 한다"고 강조했다.</description>
+			<pubDate>Tue, 02 Apr 2024 22:00:13 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197289</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197289</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/197289.jpg</media:thumbnail>
+			<dc:creator>유지인 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] ‘일감 몰아주기’ 박태영 하이트진로사장, 징역형 집유</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/197259(1).jpg" alt="197259.jpg" style="width: 160px; height: 213px;" /&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;div class="cheditor-caption-wrapper"&gt;      &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 250px;"&gt;         &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;박태영 하이트진로 사장&lt;/figcaption&gt;         &lt;/figure&gt;      &lt;/div&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;/div&gt;&lt;p&gt;특정 계열사에 부당하게 일감을 몰아준 혐의로 기소된 박태영 하이트진로 사장에 대해 징역형의 집행유예가 확정됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대법원 형사1부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1377"&gt;노태악&amp;nbsp;&lt;/span&gt;대법관)는 지난달 12일 독점규제 및 공정거래에 관한 법률 위반 혐의로 기소된 박 사장에게 징역 1년 3개월에 집행유예 2년을 선고하고 80시간의 사회 봉사를 명령한 원심을 확정했다(&lt;b&gt;2023도7527&lt;/b&gt;). 하이트진로 주식회사 법인에는 벌금 1억 5000만 원이 확정됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;같은 혐의로 기소된 김인규 하이트진로 대표이사에 대해선 징역 8개월에 집행유예 1년이, 김창규 전 상무는 징역 4개월에 집행유예 1년을 선고한 원심이 확정됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이들은 2008~2017년 맥주캔 제조·유통 과정에서 박 사장이 최대 지분을 보유한 계열사인 서영이앤티를 거래 과정에 끼워 넣는 방식 등으로 수십억 원의 일감을 부당하게 몰아 준 혐의로 기소됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;1심은 “이들의 행위는 공정거래법 위반 사실을 미필적으로나마 인지했음에도 법적 규제를 회피하고자 또다른 위법한 거래형태를 발굴해 지속적으로 지원한 행위”라며 “각 지원행위의 근본적인 동기는 박 사장의 경영권 승계와 무관하다고 보기 어렵다”고 판단했다. 박 사장에게 징역 1년 6개월에 집행유예 2년을 선고했다. 김 대표이사는 1심에서 징역 10개월에 집행유예 1년을, 김 전 상무는 징역 4개월에 집행유예 1년을 선고받았다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;다만 2심에서는 하이트진로가 사후에 관련 과징금을 납부하고 리스크관리위원회 및 ESG추진위원회를 운영한 점, 공정거래 자율준수 프로그램을 도입한 점, 피고인들이 범행을 자백하고 깊이 반성하는 점 등을 고려해 일부 형량이 줄었다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;박 사장 등과 검찰은 각각 항소했으나 대법원은 2심 판단에 잘못이 없다고 보고 그대로 확정했다.&lt;/p&gt;</description>
 			<pubDate>Tue, 02 Apr 2024 21:17:12 -0000</pubDate>
@@ -229,16 +239,6 @@
 			<link>https://www.lawtimes.co.kr/news/197247</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197247</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/20240401_김천지원민사가사조정위원위촉식.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>범죄예방위원 안산협의회, 안산 노인에게 의약품 지원</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/197246.jpg" alt="197246.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무부 청소년 범죄예방위원 안산지역협의회(회장 손인국)의 외국인위원협의회(위원장 이동전)는 지난달 29일 경기도 안산시 상록구 사이동 행정복지센터를 방문해 사이동 경로당 노인을 위해 500만 원 상당의 의약품을 기탁했다. 이날 나눔 행사에는 범죄예방위원 최종진 운영실장 등이 참여했다.&lt;br /&gt;&lt;br /&gt;이동전 위원장은 "경로당 어르신의 보다 건강한 노후를 위해 의약품 지원활동을 추진해 기쁘다"며 "앞으로도 다양한 형태의 봉사활동을 지속하겠다"고 밝혔다.</description>
-			<pubDate>Mon, 01 Apr 2024 08:44:36 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197246</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197246</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/197246.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
