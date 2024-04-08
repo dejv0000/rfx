@@ -6,6 +6,24 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>【오늘의 국회일정】 2024년 4월 9일</title>
+			<description>&lt;b&gt;◇ 소통관 기자회견&lt;/b&gt;&lt;br /&gt;09:00 강민정 의원, [더불어민주연합 '정치검찰' 규탄 기자회견]&lt;br /&gt;&lt;br /&gt;09:20 김보협 조국혁신당 대변인, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;09:40 김준우 녹색정의당 상임대표, [제22대 총선 비례정당투표 기호 5번 녹색정의당 집중 투표 호소 긴급 기자회견]&lt;br /&gt;&lt;br /&gt;10:00 서정숙 의원, [정치 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:20 이동영 새로운미래 대변인, [새로운미래 선거대책위원회 공동 기자회견]&lt;br /&gt;&lt;br /&gt;10:40 이준석 개혁신당 대표, [제22대 총선 관련 국민께 드리는 마지막 호소 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 최현철 국민의힘 대변인, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:20 황보승희 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:40 강민정 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;13:00 황보승희 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;14:00 최현철 국민의힘 대변인, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;16:00 강민정 의원, [더불어민주연합 박홍배 후보, 노동시간 단축(주4일제) 실행 방안 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있음.&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;</description>
+			<pubDate>Mon, 08 Apr 2024 22:58:40 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197421</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197421</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
+			<title>【오늘의 법조】2024년 4월 9일</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[법원]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷'특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 이재명 더불어민주당 대표 외 1명 20차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시 30분, 서울중앙지법&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:2px 0 0 0; border-style:bold; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;   &lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[오늘의 PICK ]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷전국법관대표회의 새 의장에 '김예영 부장판사'&lt;/b&gt;&lt;br /&gt;전국법관대표회의는 8일 경기도 일산 사법연수원에서 올해 첫 정기회의를 열고 의장으로 김예영 부장판사를, 부의장으로 이호철(55·33기) 부산지법 부장판사를 선출했다. 조희대 대법원장은 취임 후 처음으로 열린 이날 회의에 직접 참석해 "신속하고 공정한 재판을 위해 지혜를 모아달라"고 당부했다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;   &lt;a href="https://www.lawtimes.co.kr/news/197414" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;b&gt;&lt;br /&gt;▷[판결] “공사 산하 센터 근무자들 성과급 대상 맞다”&lt;/b&gt;&lt;br /&gt;지역 도시개발공사가 정부의 경영평가에서 최하 등급을 받지 않았다면 산하 센터 근무자들에게도 다른 근로자와 같이 성과평가를 실시해 성과급을 지급해야 한다는 대법원 판단이 나왔다.&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;a href="https://www.lawtimes.co.kr/news/197368" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Mon, 08 Apr 2024 22:36:06 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197426</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197426</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>전국법관대표회의 새 의장에 '김예영 부장판사'</title>
 			<description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/197404(1).jpg" alt="197404.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;김예영 부장판사 · 이호철 부장판사&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;전국법관대표회의 새 의장으로&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2854"&gt;김예영&lt;/span&gt;(49·사법연수원 30기) 서울동부지법 부장판사가 선출됐다.&lt;p&gt;   &lt;br /&gt;전국법관대표회의는 8일 경기도 일산 사법연수원에서 올해 첫 정기회의를 열고 의장으로  김예영 부장판사를, 부의장으로&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10481"&gt;이호철&lt;/span&gt;(55·33기) 부산지법 부장판사를 선출했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;조희대 대법원장은 취임 후 처음으로 열린 이날 회의에 직접 참석해 "신속하고 공정한 재판을 위해 지혜를 모아달라"고 당부했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;조 대법원장은 인사말을 통해 "사법부가 국민의 신뢰를 회복하기 위해서는 공정하고 신속한 재판이라는 본연의 업무를 충실히 수행해야 한다"며 "사법부 구성원 모두의 다양하고 생생한 목소리에 귀를 기울이겠다"고 말했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이어 "사법부를 둘러싼 상황이 아무리 어렵다 하더라도 구성원 모두가 재판받는 국민의 고충을 헤아려 신속하고 공정한 사건 처리에 최선을 다한다면 국민의 신뢰를 회복할 수 있을 것"이라고 덧붙였다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이날 정기회의에서는 법관 대표들이 설명을 요구한 사법행정 현안에 대한 행정처의 설명도 이뤄질 예정이다. △사법행정자문회의 폐지 논의 관련 설명 요청사항 △오후 6시 이후 재판을 자제하는 등의 내용을 담은 정책추진서를 공무원노동조합과 체결한 것이 위법이라는 논란과 관련한 2월 26일 자 서울지방노동위원회의 시정명령 관련 사안 △형사전자소송 시행 관련 사항 존폐에 관한 내용 등이다.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Mon, 08 Apr 2024 04:05:20 -0000</pubDate>
@@ -217,26 +235,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197332</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/20240404_eu인공지능법 내용과 시사점.jpg</media:thumbnail>
 			<dc:creator>유지인 기자</dc:creator>
-		</item>
-		<item>
-			<title>해양경찰청 정보외사국, '관세사범 수사 시 유념사항' 워크숍</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/197357.jpg" alt="197357.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;해양경찰청(청장 김종욱) 정보외사국이 4일 인천 연수구 인천타워대로 홀리데이인 인천 송도에서 '관세사범 수사 시 실체적 내지 절차적 유념사항'을 주제로 직원 업무역량 강화 워크숍을 진행했다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;이날 행사에 전국 외사 전담 경찰관 등 50여 명이 참석했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;강연자로&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7133"&gt;이성일&lt;/span&gt;(51·사법연수원 31기) 의정부지검 중요경제범죄조사단 부장이 나섰다. 그는 "관세청 통계에 따르면 관세사범 적발 건수가 2021년 654건에서 2022년 837건으로 증가했다. 그에 따라 관세포탈죄의 법리를 정확히 숙지할 필요성이 커졌다"며 "관세포탈죄 관련 압수수색 절차에서 준수할 적법절차를 최근 대법원의 입장에 따라 정확히 숙지하는 것을 목표로 삼았다"고 설명했다.&lt;/p&gt;</description>
-			<pubDate>Fri, 05 Apr 2024 09:40:54 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197357</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197357</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/197357.jpg</media:thumbnail>
-			<dc:creator>홍수정 기자</dc:creator>
-		</item>
-		<item>
-			<title>박성재 법무장관 "외국인 정책 위해 지원 아끼지 않을 것"</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/197352.jpg" alt="197352.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1239"&gt;박성재&lt;/span&gt;(61·사법연수원 17기) 법무부장관이 취임 뒤 세 번째 정책현장 방문 일정으로 서울출입국·외국인청(청장 배상업)을 찾았다. &lt;br /&gt;&lt;br /&gt;박 장관은 4일 오후 서울 양천구 신정동 서울출입국·외국인청을 방문해 외국인 출입국사범 처리 절차와 국적·난민 심사 업무 현황, 체류민원실 운영 실태 등을 점검했다. &lt;br /&gt;&lt;br /&gt;이번 방문은 국내 체류 외국인이 꾸준히 늘어나는 상황에서 외국인·비자 정책을 수립하고 국민의 눈높이에 맞는 체류 외국인의 실효적 관리 방안을 모색하기 이뤄졌다. &lt;br /&gt;&lt;br /&gt;박 장관은 이날 업무 보고를 받고, 출입국사범 처리 과정의 적법절차 준수와 과학적 증거 수집·분석기법 활용 조사 역량 강화를 주문했다.  &lt;br /&gt;&lt;br /&gt;박 장관은 "국민과 이민자가 함께 도약하는 성공적 외국인 정책 수립을 위해 우리 경제에 필요한 우수인재 유치, 사회질서와 조화되는 체류환경 조성, 이민자의 사회통합 강화 등을 종합적으로 고민해야 한다"며 "계속 관심을 갖고 지원을 아끼지 않을 예정"이라고 말했다.</description>
-			<pubDate>Fri, 05 Apr 2024 09:39:16 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197352</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197352</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/197352.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
