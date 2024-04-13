@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[포토] 청풍호의 아침</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/197537.jpg" alt="197537.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;충북 제천의 청풍호가 단아한 자태를 조용히 드러내고 있다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;《사진=백성현 기자》&lt;/b&gt;</description>
+			<pubDate>Sat, 13 Apr 2024 02:00:58 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197537</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197537</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/197537.jpg</media:thumbnail>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 아파트 1층 정원에 시설물 설치해 독점…“철거하라”</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/197492.jpg" alt="197492.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;아파트 1층 베란다를 통해 나갈 수 있는 정원에 울타리를 치고 데크를 깔아 그 세대만의 독립 공간처럼 사용한 1층 거주자에게 법원이 해당 시설물을 철거하라고 판결했다. 해당 정원은 아파트 대지의 일부로 정해진 공용부분이라서 객관적 용도에 비춰볼 때 구분소유자 전원을 위한 전체공용부분에 해당하기 때문에 1층 세대 구분소유자를 위한 일부공용부분으로 정해졌다고 인정하기 어렵다는 취지다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;프라이버시 등 이유 때문에 아파트 1층 세대의 매도가 용이하지 않을 수 있는데, 이처럼 집 베란다를 통해 출입할 수 있는 정원을 독립된 공간으로 꾸며 다른 세대보다 넓게 사용할 수 있다면 집값에도 영향을 미칠 수 있다. 이번 판결이 그러한 상황에 제동을 건 것으로 풀이된다.&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;서울고법 민사13부(재판장&amp;nbsp;&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1341"&gt;문광섭&lt;/span&gt;&lt;b&gt;,&amp;nbsp;&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11296"&gt;최성보&lt;/span&gt;&lt;b&gt;,&amp;nbsp;&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13439"&gt;이준현&lt;/span&gt;&lt;b&gt;&amp;nbsp;부장판사)&lt;/b&gt;는 지난달 15일 해당 아파트 2층에 사는 A 씨(소송대리인 법무법인 선백 정동욱,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="24043"&gt;오상엽&lt;/span&gt;&amp;nbsp;변호사)가 1층에 사는 B 씨를 상대로 낸 시설물 철거 청구의 소&lt;b&gt;(2023나2032335)&lt;/b&gt;에서 피고의 항소를 기각했다. 1심은 원고 일부승소 판결했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;서울 방배동에 있는 모 아파트 1층에 거주하던 B 씨는 2020년 6월경 베란다 앞에 있는 정원으로 꾸며진 땅을 단독이용할 수 있다고 주장하면서, 울타리를 친 뒤 데크를 깔아 독립된 야외 공간처럼 사용했다. 이에 아파트 입주자대표회의와 2층 주민이 철거 및 인도소송을 냈다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;1심은 입주자대표회의는 소송적격이 없어서 기각했지만 2층 주민의 손을 들어줬다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;1심은 “정원이 1층 세대 구분소유자들만이 이용할 수 있는 일부공용부분이라는 취지가 등기됐다거나 해당 아파트의 공급계약서상 정원을 일부공용부분으로 정하는 규정이 있었다는 점을 인정할 만한 증거가 없다”며 “B 씨는 해당 정원에 접근하기 위해서는 관리사무소의 승인을 얻거나 자신의 아파트를 통해서만 갈 수 있으므로 일부공용부분에 해당한다고 주장하지만 정원이 아파트 1층 세대 구분소유자들이 공용하도록 제공된 것이라면 B 씨 이외의 다른 1층 세대의 구분소유자들도 정원을 이용할 수 있어야 하는데, 해당 정원은 B 씨 세대의 발코니 출입문을 통해서만 드나들 수 있도록 되어 있어 B 씨 세대만이 정원을 배타적으로 사용하고 있어 이 사건 정원이 일부공용부분에 해당한다고 보기 어렵다”고 설명했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;2심도 1심 판단이 옳다고 판단해 B 씨의 항소를 기각했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;승소를 이끈&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="24043"&gt;오상엽&lt;/span&gt;(43·변호사시험 1회) 변호사는 “이번 판결은 1층 세대의 프라이버시 보호와 약간의 편의를 위해 공용 부분을 정원으로 이용 가능하도록 해주었지만 그것만으로 공용부분을 전유화해서 사용할 수 없고, 그것은 공유재산의 침해라는 점을 법원이 확인해주었다는 점에서 의미가 있다”고 말했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;</description>
 			<pubDate>Fri, 12 Apr 2024 22:30:17 -0000</pubDate>
@@ -230,16 +240,6 @@
 			<link>https://www.lawtimes.co.kr/news/197481</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197481</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/197481.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>'PCA' "한국 정부, 삼성물산-제일모직 합병 반대한 메이슨에 438억 원 배상하라"</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/197482(1).jpg" alt="197482.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;span style="text-align: center;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;'삼성물산과 제일모직 합병'과 관련해 한국 정부가 미국계 헤지펀드 메이슨 캐피탈에 약 438억원을 배상해야 한다는 국제중재기구 판정이 나왔다.&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;법무부는 11일 국제상설중재재판소(PCA)의 중재판정부가 메이슨 측 주장 일부를 인용해 한국 정부가 메이슨 측에 3203만 876 달러(약 438억 원) 및 지연이자를 지급하라고 판정했다고 밝혔다. 앞서 메이슨이 청구한 손해배상금 약 2억 달러(약 2737억 원) 중 약 16%가 인용된 금액이다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;중재판정부는 정부가 메이슨에 법률비용 1031만 8961 달러(약 141억 원)과 중재비용 63만 유로(약 9억 원)를 지급해야 한다고도 했다. 정부가 부담해야 할 비용은 약 589억 원이다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;메이슨은 2018년 삼성물산과 제일모직 합병 과정에 한국 정부가 부당하게 개입해 2200억원의 손해를 봤다며 ISDS를 통해 2억 달러 규모의 국제중재를 제기했다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;ISDS는 해외 투자자가 투자유치국의 조치로 손해를 입었을 때 국제중재를 통해 손해배상을 청구할 수 있는 제도다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;2015년 두 회사 합병 당시 메이슨은 삼성물산 지분의 2.18％를 보유하고 있었다. 메이슨은 삼성물산 1주당 제일모직 0.35주로 제시된 합병비율이 주주 입장에서 불공정하다며 합병을 반대했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;메이슨은 국제중재를 제기하며 "2015년 5월 26일 삼성물산과 제일모직 간 합병이 발표됐을 때 애널리스트들은 합병 조건이 삼성물산의 가치를 낮게 책정하고 제일모직의 가치를 높게 책정해 삼성물산 주주에게 손해가 될 것이라고 지적했다"며 "합리적인 삼성물산 주주라면 그런 조건의 합병은 찬성하지 않았을 것"이라고 주장했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;국정농단 사건 수사와 재판을 언급하며 박근혜 정부가 합병에 대한 국민연금 표결에 지나친 영향력을 행사한 사실이 드러났다는 주장도 펼쳤다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;삼성 합병과 관련해 한국 정부의 배상 책임을 인정한 국제중재판정은 두 번째다. PCA는 메이슨에 앞서 미국계 헤지펀드 엘리엇 매니지먼트가 같은 취지로 제기한 ISDS에서 지난해 6월 한국 정부가 5358만6931달러(약 1300억 원)를 지급하라고 판정했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;정부는 한미 자유무역협정(FTA)상의 관할 위반 등을 이유로 이 판정에 불복해 지난해 7월 중재지인 영국 법원에 취소소송을 제기했다. 엘리엇 측은 각하를 주장했으나 영국법원은 받아들이지 않았다.&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Thu, 11 Apr 2024 12:16:13 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197482</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197482</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/197482(1).jpg</media:thumbnail>
 			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
