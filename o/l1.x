@@ -6,6 +6,24 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>【오늘의 국회일정】 2024년 4월 19일</title>
+			<description>&lt;b&gt;◇ 의원실 세미나&lt;/b&gt;&lt;br /&gt;14:00 김홍걸 의원실 등, 4.24 교육투쟁 76주년 특별토론회(의원회관 제2세미나실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;◇ 소통관 기자회견&lt;/b&gt;&lt;br /&gt;09:00 김영배 의원, [이승만 기념관 건립 반대 기자회견]&lt;br /&gt;&lt;br /&gt;15:40 주이삭 개혁신당 대변인, [야6당-해병대예비역연대,채상병 특검법 신속 처리 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있음.&lt;/span&gt;&lt;/b&gt;</description>
+			<pubDate>Thu, 18 Apr 2024 22:40:15 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197652</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197652</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
+			<title>【오늘의 법조】2024년 4월 19일</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[법원]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷'특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 유동규 외 4명 125차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시, 서울중앙지법&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷'특정경제범죄가중처벌등에관한법률위반(배임) 등 혐의' 정바울 아시아디벨로퍼 대표 10차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시, 서울중앙지법&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷'특정경제범죄가중처벌등에관한법률위반(사기) 등 혐의' 하루인베스트먼트 사건 관련 박모 씨 외 3명 공판&lt;/b&gt;&lt;br /&gt;-오후 2시, 서울남부지법&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[로펌]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷법무법인 율촌·개인정보전문가협회, '인공지능(AI) 시대의 Privacy 이슈와 과제' 세미나&lt;/b&gt;&lt;br /&gt;-오후 2시, 서울 강남구 삼성동 파르나스타워 율촌 39층 Lecture Hall&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:2px 0 0 0; border-style:bold; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[오늘의 PICK ]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷서울대 로스쿨 졸업생 58.7% 로펌행…10년 전보다 15.8% 증가&lt;/b&gt;&lt;br /&gt;지난해 서울대 로스쿨 졸업생 10명 중 6명은 로펌에 취업한 것으로 나타났다. 10년 전보다 15.8% 증가한 수치다. 해당 졸업생은 제12회 변호사시험 합격자를 의미한다. 그에 비해 사기업으로 취업한 서울대 로스쿨 졸업생은 1명에 불과했다. 10년 전 16명에 비해 크게 줄었다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/197581" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;b&gt;&lt;br /&gt;▷"협상 잘하려면 '문화 간 역학관계' 이해해야" &lt;/b&gt;&lt;br /&gt;미국 거래법 전문가이자 협상학 대가인 제이 게리 핀켈스타인(Jay Gary Finkelstein) DLA Piper 변호사는 각종 국제 분쟁에 노출된 한국 기업들에게 꼭 필요한 기술로 '지피지기'를 강조했다. 그는 "협상의 핵심은 여러 문화 사이의 역학 관계를 이해하는 일"이라며 심리를 이해하고, 상대와 신뢰를 쌓는 것이 중요하다고 조언했다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/197577" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;</description>
+			<pubDate>Thu, 18 Apr 2024 22:40:11 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197641</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197641</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>'LH 감리 입찰' 뇌물 받은 교수 1명 구속…심사위원 2명은 기각</title>
 			<description>한국토지주택공사(LH)가 발주한 아파트 건설사업관리용역(감리) 입찰심사 과정에서 감리 업체들로부터 뇌물을 수수한 혐의를 받는 교수 김 모 씨가 구속됐다. 함께 구속영장이 청구된 공기업 직원 이 모 씨와 교수 임 모 씨에 대한 구속영장은 기각됐다.&lt;br /&gt;&lt;br /&gt;서울중앙지법 남천규 영장전담 부장판사는 18일  특정범죄가중처벌법상 뇌물 혐의를 받는 김 씨에 대해 "증거인멸 및 도주 염려가 있다"며 구속영장을 발부했다. &lt;br /&gt;&lt;br /&gt;이 씨에 대해선 "뇌물수수 사실 및 공무원 의제 규정의 적용 또는 준용 여부에 대해 다툼의 소지가 있어 피의자의 방어권을 보장할 필요성이 있다"며 구속영장을 기각했다. &lt;br /&gt;&lt;br /&gt;임 씨에 대해서는 "현금을 받은 사실관계는 인정되나, 청탁 여부 및 법률적 쟁점에 대해 다툼의 소지가 있어 피의자의 방어권을 보장할 필요성이 있다"고 기각 이유를 설명했다. &lt;br /&gt;&lt;br /&gt;검찰은 피의자들이 심사위원의 직위를 악용해 경쟁 중인 업체들로부터 돈을 받거나 업체들이 더 많은 돈을 내놓도록 경쟁을 붙이는 이른바 '레이스'를 붙이는 등 노골적으로 장사를 벌였다고 의심하고 있다.&lt;br /&gt;&lt;br /&gt;검찰은 지난해 8월부터 LH와 조달청이 발주한 행복주택 지구 등 아파트 건설공사의 감리 용역 입찰에서 희림종합건축사사무소, KD 등 참가업체 10여 곳이 순번, 낙찰자 등을 사전에 협의하는 등 수천억 원대 담합이 벌어진 혐의(공정거래법 위반)를 수사 중이다. 이 과정에서 평가에 참여한 심사위원 10여 명이 참가업체로부터 금품을 받은 정황을 포착하고 입찰 심사위원이었던 국립대 교수 주모 씨와 뇌물을 제공한 감리업체 대표 김 모 씨를 구속기소했다. 이달 8일에는 입찰 과정에 심사위원으로 참여한 공무원 박 모 씨와 사립대 교수 정모·박 모 씨를 특가법상 뇌물 등 혐의로 구속했다.</description>
 			<pubDate>Thu, 18 Apr 2024 15:32:29 -0000</pubDate>
@@ -221,26 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197611</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/LHY2_Y(1).jpg</media:thumbnail>
 			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>'조국 명예훼손' 유튜버, 1000만 원 배상 강제조정 확정</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/197608.jpg" alt="197608.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;조국 조국혁신당 대표가 과거 청와대 민정수석 시절 박근혜 전 대통령 국정농단 사건의 1심 재판장과 식사를 했다는 의혹을 제기한 전직 기자 출신 유튜버로부터 1000만 원의 손해배상금을 지급 받게 됐다.&lt;p&gt;   &lt;b&gt;&lt;br /&gt;서울북부지법 민사51단독&amp;nbsp;&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2963"&gt;김수경&lt;/span&gt;&lt;b&gt;&amp;nbsp;부장판사&lt;/b&gt;는 지난달 28일 조 대표가 전직 기자 출신 유튜버 A 씨를 상대로 1억 원을 지급하라며 낸 손해배상 청구소송에서 "A 씨는 조 대표에게 1000만 원을 지급하라"는 강제조정 결정을 내렸다&lt;b&gt;(2024머33271). &lt;/b&gt;이 결정은 2주 내 양측의 이의신청이 없어 17일 확정됐다.   &lt;p&gt;      &lt;br /&gt;앞서 A 씨는 자신이 운영하는 유튜브 채널에서 조 대표가 민정수석비서관으로 재직할 당시인 2018년 1~2월경 청와대 인근 한식집에서 박 전 대통령 사건의 1심 재판장을 만나 식사를 했다는 취지의 발언을 했다. 이에 조 대표는 2020년 8월 A 씨를 상대로 손해배상 소송을 냈다.      &lt;p&gt;         &lt;br /&gt;관련 형사사건에서 A 씨는 정보통신망법 위반(명예훼손) 혐의를 유죄로 인정받아 올해 2월 대법원에서 징역 6개월에 집행유예 1년이 확정됐다(2020도14521).         &lt;p&gt;            &lt;br /&gt;조 대표 측 대리인단은 이날 입장문을 통해 "조 대표의 피해에 비한다면 가벼운 처벌과 배상이지만, 뒤늦게나마 실체적 진실이 밝혀지고 행위자에 대한 일정한 법적 책임이 부과된 것은 다행이다"라고 밝혔다.            &lt;p&gt;               &lt;br /&gt;이어 "이 사건을 계기로 앞으로 공인이라는 이유만으로 근거 없는 허위 내용을 유튜브 등을 통해 무작위로 유포하는 위법행위가 더 이상 반복되지 않기를 바란다"고 말했다.            &lt;/p&gt;         &lt;/p&gt;      &lt;/p&gt;   &lt;/p&gt;&lt;/p&gt;</description>
-			<pubDate>Wed, 17 Apr 2024 09:40:56 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197608</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197608</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/197608.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 지평, 폴란드 로펌 DZP와 손잡아··· "한국 기업의 중동부유럽 진출 돕겠다"</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/197601.jpg" alt="197601.jpg" /&gt;&lt;/p&gt;&lt;a href="https://www.jipyong.com/kr/main/main.php" target="_blank"&gt;&lt;b&gt;법무법인 지평&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2106"&gt;김지형&lt;/span&gt;)이 폴란드 로펌 DZP와 중동부유럽 지역 법률서비스 및 네트워크 강화를 위한 업무협약을 16일 체결했다.&lt;br /&gt;&lt;br /&gt;지평은 중동부유럽 지역 진출 및 투자에 관심 있는 한국 기업들에게 정확하고 신속한 법률서비스를 제공하고자 이번 업무협약을 추진했다. 이날 협약식에는 지평의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3214"&gt;김상준&lt;/span&gt;(58·사법연수원 25기),&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6340"&gt;정철&lt;/span&gt;(49·31기) 변호사와 이승민 외국변호사, DZP의 쿠즈마 카타르지나(Kuzma Katarzyna) 변호사가 참석했다.&lt;p&gt;   &lt;br /&gt;이번 협약에 따라 지평과 DZP는 중동부유럽 지역 시장에 진출하는 한국 기업을 지원하고, 중동부유럽 지역에서 활동하는 한국 기업에 대한 법률자문 및 소송 서비스 제공할 예정이다. 뉴스레터 발간 및 공동 세미나 개최 등 다양한 분야에서도 협력하기로 했다. &lt;br /&gt;&lt;br /&gt;같은 날 지평과 DZP는 서울 중구 세종대로 그랜드센트럴 대회의실에서 ‘폴란드 세미나’를 열었다. 세미나에서는 폴란드의 법률 및 제도, 신규 및 재투자, 연구개발(R&amp;D) 분야에서의 폴란드 정부 보조금 지원 제도, CSRD 동향 등을 소개했다. &lt;br /&gt;&lt;br /&gt;정철 변호사가 ‘폴란드 합작투자 시 쟁점 및 리스크 관리 방안’을, Kuzma Katarzyna DZP 변호사가 ‘외국인 투자자를 위한 폴란드 투자인센티브 정책 소개 및 동향’을, 정영일 지평 ESG센터 경영연구그룹장이 ‘CSRD 동향 및 유의점’을 주제로 발표했다.&lt;br /&gt;&lt;br /&gt;지평 동유럽팀장인 정철 변호사는 “폴란드가 지닌 지리적 장점과 유리한 시장 환경은 기업 운영에 있어 큰 이점”이라며 “지평은 이번 DZP와의 업무협약을 통해 한국 기업이 중동부유럽 지역에 성공적으로 진출할 수 있도록 도움을 드릴 예정”이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;DZP 한국팀장인 Kuzma Katarzyna DZP 변호사는 “폴란드는 한국 기업에게 시장 진입과 성장을 위한 유리한 환경을 제공할 뿐만 아니라, 중동부유럽(CEE) 지역과 서유럽 진입을 위한 관문 역할도 하고 있다”며 "폴란드는 투자하기에 매력적인 나라"라고 말했다. 그는 "이미 폴란드에서는 600개가 넘는 한국 기업들이 활동하고 있고, 이는 두 나라 간 협력의 거대한 잠재력을 보여준다"고 덧붙였다. &lt;br /&gt;&lt;br /&gt;DZP는 1993년에 설립돼 폴란드 현지에서 기업활동과 관련된 모든 분야에 전문적이고 종합적인 조세 및 법률서비스를 제공하고 있는 풀 서비스(full-service) 로펌이다. &lt;br /&gt;&lt;br /&gt;지평은 한국 로펌 중에서도 가장 많은 7개 국가에 8개의 해외사무소를 운영하며 해외업무 선도 로펌으로 평가받는다. 국가별 네트워크를 구축해 고객의 요구에 맞는 효율적이고 명확한 법률서비스를 제공한다.&lt;/p&gt;</description>
-			<pubDate>Wed, 17 Apr 2024 09:39:47 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197601</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197601</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/197601.jpg</media:thumbnail>
-			<dc:creator>유지인 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
