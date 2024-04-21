@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>검찰, '민주노총 탈퇴 강요' 허영인 SPC 회장·황재복 대표이사 구속기소</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/PYH2024020206290001300_%ED%97%88%EC%98%81%EC%9D%B8.jpg" alt="PYH2024020206290001300_허영인.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;허영인 SPC 회장 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;노동조합 및 노동관계조정법위반 혐의를 받고있는 허영인 SPC 그룹 회장과 황재복 SPC 대표이사가 구속 상태로 재판에 넘겨졌다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;서울중앙지검 공공수사제3부(&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11318"&gt;임삼빈&lt;/span&gt;&lt;b&gt;&amp;nbsp;부장검사)&lt;/b&gt;는 21일 허 허장과 황 대표, SPC 고문 서모씨, 자회사 피비파트너즈 노무총괄 전무 정모씨를 포함한 전현직 임원과 노조관계자 등 총 18명과 피비파트너즈 법인을 같은 혐의 등으로 기소했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;허 회장과 황 대표 등은 피비파트너즈 내 노동조합인 민주노총 노조가 사측의 노조탄압을 규탄하거나 사회적 합의의 이행을 촉구하며 사측에 비판적인 활동을 이어가자 조합원 570여명에게 노조 탈퇴를 종용하고 승진인사에서 민주노총 소속에겐 낮은 정성평가를 부여하는 등 불이익을 취급한 혐의를 받는다. &lt;br /&gt;&lt;br /&gt;또 사측에 친화적인 한국노총 소속 노조의 조합원 모입을 지원하는 등 노조의 운영에 개입했다. 검찰은 특히 허 회장이 그룹 전체를 총괄하며 노조에 대한 대응방안을 최종 결정·지시하고 노조 탈퇴 현황과 국회·언론대응 상황을 수시로 보고받는 등 본건 범행을 주도했다고 판단했다.&lt;br /&gt;&lt;br /&gt;검찰에 따르면 허 회장은 민주노총 노조 지회장이 근로자 대표로 선출되자 황 대표에게 한국노총 노조를 과반수 노조로 만들어 민주노총 노조 지회장의 근로자 대표 지위를 박탈시킬 것을 지시했고 황 대표는 피비파트너즈 임직원을 동원해 이를 실행했다. &lt;br /&gt;&lt;br /&gt;또 허 회장의 지시로 노조 탈퇴 종용 작업이 시작됐고, 570여명 중 560여명이 노조에서 탈퇴했다. 검찰은 직원들이 민주노총 노조 탈퇴 조합원 수 등 작업 결과를 취합해 황 대표를 통해 허 회장에게 보고한 사실을 확인했다. &lt;br /&gt;&lt;br /&gt;한편 검찰은  SPC 그룹의 부당노동행위 범행을 수사하는 과정에서 황 대표와 홍보실장 백 모씨가 허 회장의 배임 등 수사를 무마하기 위해 검찰수사관을 매수해 수사 정보를 입수한 사실을 확인한 뒤 지난달 홍보실장과 검찰수사관을 구속기소하고 황 대표도 지난달 구속기소했다. &lt;br /&gt;</description>
+			<pubDate>Sun, 21 Apr 2024 02:43:21 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197694</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197694</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/PYH2024020206290001300_%ED%97%88%EC%98%81%EC%9D%B8.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>檢, 라임 재수사로 500억 금융비리 추가 규명...관계사 임원 등 4명 재판행</title>
 			<description>'라임자산운용(라임) 사태'를 수사하는 검찰이 510억 원대 펀드 자금 비리 정황을 밝혀, 관계사 전직 임원 등 3명을 재판에 넘겼다. 대법원에서 징역형을 확정받은 이종필 전 라임자산운용 부사장은 추가 기소됐다. 검찰이 라임 사태 재수사에 본격적으로 착수한 지 8개월여 만이다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;서울남부지검 금융증권범죄합동수사부(&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10668"&gt;하동우&lt;/span&gt;&lt;b&gt;&amp;nbsp;부장검사)&lt;/b&gt;는 19일 메트로폴리탄 그룹 전 임원 A 씨와 B 씨를 특별경제가중처벌법위반(사기) 등 혐의로 구속기소하고, 라임자산운용 전 부동산본부장 C 씨를 특경법위반(사기) 등으로 불구속 기소했다. 징역 20년형을 확정받고 복역 중인 라임자산운용 이종필 전 부사장에 대해서도 특경법위반(사기), 위증교사 혐의 등으로 추가 기소했다.&lt;br /&gt;&lt;br /&gt;이들 4명은 2018년 12월 김영홍 메트로폴리탄 회장과 이 전 부사장이 라임 펀드 자금으로 불법 인터넷 도박장이 설치된 필리핀 세부 이슬라 카지노를 개인적으로 인수하려는 계획을 숨기고, 라임펀드 위험관리실무위원회에 허위 투자심사 자료 등을 제출하는 등의 방식으로 펀드 자금 300억 원을 편취한 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;메트로폴리탄 그룹 전 최고재무 관리자 A 씨와 총무이사 B 씨는 2019년 4월 라임자산운용의 투자 결정 시스템에 취약점이 있다는 것을 알고, 이를 악용해 문화상업단지인 파주 프로방스 법인을 개인적으로 인수할 계획을 숨긴 채 허위 재무자료를 제출하는 방식으로 펀드 자금 210억 원을 편취한 혐의도 받는다. 또 2019년 4월부터 2021년 3월까지 프로방스 법인 운영 과정에서 허위 급여로 약 5000만 원을 지급하는 등 법인자금 64억 원을 횡령한 혐의도 있다. 이들 두 명은 라임 사태의 몸통으로 지목되는 김영홍 회장의 측근으로 알려져 있다. &lt;br /&gt;&lt;br /&gt;한편 검찰은 이들이 수사 과정에서 사법방해를 한 혐의도 밝혔다.&lt;br /&gt;&lt;br /&gt;이 전 부사장이 직무에 관해 김 회장으로부터 25억 원 상당을 수수한 혐의로 2020년 8월 기소된 특경법위반(수재등) 재판에서, 이 전 부사장은 A 씨에게 '검찰 진술을 번복하라'고 서신을 보내 위증을 교사했고 2021년 4월 A 씨는 실제로 위증을 한 것으로 조사됐다. 이 전 부사장은 지난 2022년 대법원에서 징역 20년에 벌금 48억 원이 확정돼 수감 중이다.&lt;br /&gt;&lt;br /&gt;남부지검 관계자는 "라임 사태 발생 후 진행된 다각적 수사에도 불구하고 김 회장 등 주요 피의자들의 해외도주, 관련자들의 조직적 수사 방해 등으로 일부 사안에 대해 진상 확인이 어려웠으나, 검찰은 2024년 1월 수사팀을 재편한 뒤 본격 수사를 통해 결정적 증거를 확보해 펀드 관련 비리의 핵심적 사실관계를 밝혀냈다"고 밝혔다. 앞서 지난해 8월 검찰은 라임 사태와 관련해 금융감독원과 관련 증권사들에 대한 강제수사에 나서며 본격적인 재수사에 착수했다. &lt;br /&gt;&lt;br /&gt;검찰은 범죄 수익 환수를 위해 관련자들의 자산을 추적하는 한편 해외 도주 중인 김 회장도 추적 중이다. 검찰은 라임 사태의 몸통으로 지목된 김 회장과 측근 등에 대한 체포영장을 발부받고 인터폴에 수배를 요청하는 등 추적을 계속하고 있다.&lt;br /&gt;&lt;br /&gt;라임 사태는 2019년 7월 라임자산운용이 코스닥 시장 상장 기업들의 전환사채(CB) 등을 편법 거래하면서 부정하게 수익률을 관리하고 있다는 의혹에서 비롯됐으며, 주가 폭락으로 1조 7000억 원대 환매 중단으로 이어졌다.&lt;br /&gt;</description>
 			<pubDate>Sun, 21 Apr 2024 01:12:14 -0000</pubDate>
@@ -228,16 +238,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197653</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/LHY2_Y(1).jpg</media:thumbnail>
 			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>김·장 사회공헌위, '장애인의 날' 주간 인식 개선 행사 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/197640.jpg" alt="197640.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.kimchangprobono.com/main.kc" target="_blank"&gt;김·장 사회공헌위원회&lt;/a&gt;(위원장&amp;nbsp;&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1340"&gt;목영준&lt;/span&gt;&lt;b&gt;)&lt;/b&gt;는 오는 20일 장애인의 날을 맞아 18일과 19일 양일간 장애인 인식개선 행사를 진행한다.&lt;p&gt;&amp;nbsp;&amp;nbsp;   &lt;p&gt;김·장 사회공헌위원회는 매년 4월 장애인의 날 주간에 장애인 인식개선 행사를 진행하고 있다. 올해로 3회째로 맞는 이번 행사에서는 '더사랑'이 김앤장 사무실 로비에 홍보부스를 설치하고 발달장애인들이 만든 제품들을 전시·판매한다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp; &lt;br /&gt;더사랑은 김·장이 설립한 자회사형 장애인 표준사업장이다. 김·장은 2014년 한국장애인고용공단과 장애인 고용창출을 위한 협약을 맺고, 2015년 4월 로펌 업계 최초로 자회사형 장애인 표준사업장을 설립했다. 이후 2019년 3월, 두 번째 장애인 표준사업장으로 ‘더사랑’을 출범해 현재까지 운영해오고 있다. 더사랑은 발달장애인 20여 명과 10여 명의 고령자가 함께 근무하며 제품의 디자인과 제작, 포장 업무를 수행하는 사업장이다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1340"&gt;목영준&lt;/span&gt;(69·사법연수원 10기) 위원장은 “이번 행사는 김·장이 운영하는 장애인표준사업장에서 발달장애인들이 만든 물건을 김·장 구성원이 이를 구매하여 수익금은 어려운 분들을 위해 사용하는 선순환의 공익활동"이라며 "앞으로도 김·장 사회공헌위원회는 우리 사회의 다양한 구성원들이 함께 행복을 나눌 수 있는 공익캠페인을 지속하려 한다”고 말했다.&lt;/p&gt;   &lt;/p&gt;</description>
-			<pubDate>Thu, 18 Apr 2024 09:51:23 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197640</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197640</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/197640.jpg</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
