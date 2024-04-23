@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>한국시험법무사회, 2024년 정기총회 19일 성료</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/197701(1).jpg" alt="197701.jpg" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;한국시험법무사회(회장 김태영)&lt;/b&gt;는 지난 19일 서초구 서초동 더화이트베일 컨벤션 5층 화이트홀에서 '한국시험법무사회 2024년 정기총회'를 열었다.&lt;br /&gt;&lt;br /&gt;김 회장은 "그동안 한국시험법무사회는 회원의 자질과 업무능력 강화, 시기적절한 지식 습득을 위해 특강과 교육을 제공해왔다"며 "신입 법무사들이 법무사업계에 애정을 갖고 실무에 적응할 수 있도록 환영회와 연수 교육을 실시해 호평을 받았다"고 말했다. 이어서 "특히 지난 12월과 올 1월 두 달 동안 법무사법 개정을 위해 여의도 국회 앞 1인 시위를 진행했다"면서 "앞으로도 한국시험법무사회는 시험 출신이라는 동질성에 의한 친목단체의 성격을 넘어 법무사 전체의 이익을 대변할 이익단체로서, 나아가 이를 실현하기 위한 정치 단체로서 역할을 계속하자"고 했다.&lt;br /&gt;&lt;br /&gt;한편 이날 1부 행사에서는 대한법무사협회장 선거를 앞두고 협회장 선거 입후보자의 정견발표 시간을 별도로 마련하여 기호 1번 이강천 법무사와 기호 3번 이남철 법무사가 정견발표를 했다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center; "&gt;   &lt;img src="https://image.lawtimes.co.kr/images/197701_1(1).jpg" alt="197701_1.jpg" /&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;한국시험법무사회는 이날 행사에서 축하 화환 대신 쌀 화환을 받아 위기가족자립지원 행복공동체인 대한성공회 살림터(원장 이수범)에 쌀을 전달했다.&lt;br /&gt;&lt;br /&gt;제15대 한국시험법무사회 임기는 19일 자로 종료됐다. 제16대 회장으로 현 김태영 법무사가 재선됐다.&lt;/p&gt;</description>
+			<pubDate>Tue, 23 Apr 2024 04:38:48 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197701</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197701</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/197701(1).jpg</media:thumbnail>
+			<dc:creator>유지인 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 범죄이용 목적 계좌 개설, 신청서에 허위 사실 기재했더라도…"업무담당자가 사실 여부 확인 안했다면 업무방해죄 아냐"</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/119065(1).jpg" alt="119065.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;범죄에 쓸 계좌를 개설하면서 계좌개설신청서에 허위 사실을 기재했더라도 은행에 대해 위계에 의한 업무방해죄로 볼 수 없다는 대법원 판단이 나왔다. 업무 담당자가 금융거래 목적이나 기타 사실관계 여부를 확인할 수 있는 자료 제출을 요구했는지에 대한 심리가 필요하다는 이유다.&lt;p&gt;&lt;b&gt;&lt;br /&gt; 대법원 형사3부(주심&amp;nbsp;&lt;/b&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1759"&gt;오석준&lt;/span&gt;&lt;b&gt;&amp;nbsp;대법관)&lt;/b&gt;는 업무방해죄와 금융거래법 위반 혐의로 기소된 A 씨에 대해 징역 2년 6개월을 선고하고 1억5000만 원의 추징을 명령한 원심을 파기하고 사건을 서울중앙지법으로 돌려보냈다&lt;b&gt;(2024도10).&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt; A 씨는 B 씨 등과 함께 영업의 실질이 없는 서류상 법인을 설립해 그 법인 명의로 금융계좌를 개설한 후, 그 계좌를 유통해 돈을 벌기로 공모했다. 이에 A 씨는 마치 정상적으로 운영되는 회사인 것처럼 회사의 사업자등록증, 인감증명서, 신분증 등 계좌개설에 필요한 서류를 은행 직원들에게 제출해 법인 명의의 계좌를 개설했다. 개설된 금융계좌에 대한 통장, 체크카드 등을 수거·전달하기도 했으며 이른바 '대포통장'이 필요한 불법 도박사이트 운영자, 보이스피싱 조직 등에 공급하고 그 대가를 취득해 A 씨를 비롯한 가담자들에게 분배하기도 했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt; 이러한 방법으로 2019년 11월경부터 2022년 5월경까지 총 602회에 걸쳐 다수의 은행을 상대로 35개 유령법인 명의의 계좌를 개설했고, 위계로써 은행들의 업무를 방해했다는 혐의 등으로 기소됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt; 1심은 A 씨의 혐의를 유죄로 판단해 징역 2년 6개월을 선고했다. 항소심도 A 씨의 혐의를 유죄로 판단했고, 범죄수익의 추징에 대한 검사의 주장을 받아들여 징역 2년 6개월을 선고하고 1억 5000만 원의 추징을 명령했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt; 하지만 대법원의 판단은 달랐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt; 대법원은 A 씨가 법인 명의로 계좌를 개설하는 과정에서 피해 은행들이 미리 마련한 양식인 거래신청서 등에 기재한 내용을 은행의 업무담당자가 추가 자료를 요청하는 등으로 확인했는지에 대한 심리가 필요하다고 판단했다. 계좌개설 심사업무를 담당하는 은행 업무 담당자가 단순히 예금거래신청서 등에 기재된 계좌개설 신청인의 허위 답변만을 믿고, 그 진실 여부를 확인하지 않은 채 법인 명의의 계좌를 개설해 준 것은 업무 담당자의 불충분한 심사에 기인한 것으로서 위계에 의한 업무방해죄를 구성하지 않는다는 대법원 판례에 따른 취지다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt; 재판부는 "피해 은행들의 업무 담당자가 A 씨 등에게 금융거래 목적의 진실 여부를 확인할 수 있는 추가 자료 제출을 요구하는 등 적절한 심사 절차를 진행했음에도 A 씨 등이 그에 관해 허위 서류를 작성하거나 문서를 위조해 제출함으로써 업무 담당자가 허위임을 발견하지 못해 법인 명의의 계좌를 개설하기에 이르렀는지 여부에 관해 필요한 심리를 했어야 한다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Tue, 23 Apr 2024 03:26:37 -0000</pubDate>
@@ -226,16 +236,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197663</guid>
 			<media:thumbnail>http://image.lawtimes.co.kr/images/197663(1).jpg</media:thumbnail>
 			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 코로나19 확진 후 동선 숨긴 공무원 벌금형</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/197660.jpg" alt="197660.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;코로나19에 확진된 뒤 역학조사관에게 대규모 집단감염 발생지에 방문한 사실을 숨긴 20대 공무원에게 대법원이 벌금 2000만 원을 확정했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;b&gt;대법원 형사3부(주심&amp;nbsp;&lt;span class="lawmanlink" serial="1337"&gt;노정희&lt;/span&gt;&amp;nbsp;대법관)&lt;/b&gt;는 감염병의 예방 및 관리에 관한 법률(감염병예방법) 위반 혐의로 기소된 A(27세) 씨에게 벌금 2000만 원을 선고한 원심 판결을 지난달 28일 확정했다&lt;b&gt;(2023도12710).&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;공무원인 A 씨는 2020년 11~12월 종교시설인 경북 상주 BTJ열방센터와 대전의 한 교회 등을 방문하고도 역학조사관에게 자신의 동선을 제대로 밝히지 않은 혐의로 기소됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;A 씨는 2021년 1월 코로나19 확진 판정을 받았다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1심은 A 씨의 혐의를 유죄로 인정, 감염병예방법상 벌금액 상한인 2000만 원을 선고했다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;2심에서 A 씨는 역학조사 담당자가 정식 역학조사관이 아니므로 조사 자체가 위법할 뿐 아니라 확진 14일 이전보다 앞선 동선에 관한 조사는 감염병예방법상 역학조사로 볼 수 없다고 주장했다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;하지만 항소심 재판부는 A 씨를 조사한 담당자는 역학조사반원으로 적법한 조사 자격을 갖고 있으며 필요하다면 14일보다 더 넓은 범위에 대해서도 조사할 수 있다고 보고 1심 판결을 유지했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;대법원은 “원심 판단에 행정권한의 내부위임 및 죄형법정주의에 관한 법리를 오해한 잘못이 없다”며 상고를 기각했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Sun, 21 Apr 2024 20:07:15 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197660</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197660</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/197660.jpg</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
