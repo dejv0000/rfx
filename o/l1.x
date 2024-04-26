@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>한국가족법학회·여성신문, '2024 법의날 학술 심포지엄' 개최</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/197851.jpg" alt="197851.jpg" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;한국가족법학회&lt;/b&gt;(회장 전경근)와 &lt;b&gt;여성신문&lt;/b&gt;(대표 김효선)은 25일 서울 서초구 양재동 더케이호텔서울에서 ‘이혼 재산분할과 결혼의 가치 - 상속 재산분할과의 차별을 중심으로’를 주제로 학술 심포지엄을 열었다.&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;법의 날을 맞아 열린 이날 심포지엄에서는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9636"&gt;이동진&lt;/span&gt;(46·사법연수원 32기) 서울대 로스쿨 교수가 ‘이혼과 상속에서 배우자에 대한 재산분할 차이에 관한 사법적 분석’을 주제로 발표했다. 이 교수는 “정당한 몫의 청산이라는 데 의문이 없는 재산분할청구권을 이혼 시에만 인정하고, 또다른 혼인해소사유인 부부 일방의 사망의 경우 재산분할청구권을 인정하지 않는 것이 문제”라며 “배우자 상속과 재산분할의 논리와 근거가 서로 다르지만, 배우자 상속이 인정된다면 이혼 시보다 사망 시에 더 많이 받아야 한다”고 주장했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이어 “배우자 상속분을 50%로 상향 조정하는 것도 도움이 될 수 있다”며 “재산분할을 받고 상속재산에서 배우자 상속을 받는 경우와 상속재산에 대해 배우자 상속을 받은 경우의 결과가 비슷하다면 이해관계인들은 재산분할을 구하는 번거로운 절차를 포기할 가능성이 높아질 것”이라고 설명했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;" serial="8559"&gt;윤지현&lt;/span&gt;(52·25기) 서울대 로스쿨 교수는 ‘상속세와 증여세에서 혼인 관계의 취급’을 주제로 발표했다. 윤 교수는 “부부 사이에서 재산이 오고가는 경우, 금전 거래까지 증여라고 할 수 있을지 의문이 생긴다”며 “증여라면 증여세의 문제가 따라야 한다고 생각할 수 있어 현실적인 문제가 있다”고 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;그는 “배우자의 상속과 증여에 대해 전면적으로 과세하지 않는 방법에 대해선 과연 타당한지 여부에 여전히 의문이 있을 수 있다”며 “이 방안은 행정 편의라는 점이 가장 큰 장점이지만, 부부 관계가 유지되는 동안에 생기는 것이고 상속세 과세의 시점엔 다시 행정 부담이 생길 수 있어 유의해야 한다”고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이어 “완전한 비과세까지는 가지 않는 선에서 상속 공제를 혼인의 지속 기간에 연동시키는 정도를 생각해볼 수 있을 것”이라며 “가령 혼인의 지속 기간이 10년 이내라면 공제율을 50%로 설정하고, 20년 이내라면 65%, 그 이상이라면 80%와 같이 정하는 방안이 있을 것”이라고 설명했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이어진 토론에서는 ‘새로운 미래를 위한 청년변호사 모임’ 이사인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="38595"&gt;나인선&lt;/span&gt;(36·변호사시험 9회) 법무법인 세종 변호사와 한국젠더법학회 이사인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="18851"&gt;서혜진&lt;/span&gt;(43·40기) 더라이트하우스 법률사무소 변호사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="19120"&gt;석수민&lt;/span&gt;(41·40기) 법무부 법무심의관실 검사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10214"&gt;임종효&lt;/span&gt;(51·33기) 서울고등법원 고법판사가 패널로 참석했다. 특히 플로우 자유토론에서는 다음달 말로 항소심 선고기일이 잡힌 최태원 SK 회장과 노소영 아트센터나비 관장의 이혼 사건에 대한 질문과 답변이 오갔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Fri, 26 Apr 2024 14:21:34 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197851</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197851</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/197851.jpg</media:thumbnail>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
 			<title>경찰, 수사심의위 열어 한동훈 딸 '허위 스펙 의혹' 불송치 결론 다시 살피기로</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/197893.jpg" alt="197893.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;경찰이&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5077"&gt;한동훈&lt;/span&gt;&amp;nbsp;전 국민의힘 비상대책위원장 딸의 ‘논문 대필 및 허위 스펙 의혹’ 관련 수사를 불송치한 결정이 적절했는지 다시 살펴보기로 했다. 경찰수사심의위원회에서 해당 수사의 적정성과 적법성 여부를 검토하게 된다.&lt;p&gt;&lt;br /&gt; 서울경찰청 수사과 수사심의계는 26일 한 전 위원장 딸 논문 대필 의혹 관련 수사심의 신청을 접수해 조사하고 있다고 밝혔다. 신청인 상담 등 절차가 마무리되면 신청 사건은 경찰수사심의위원회 안건으로 상정된다. 경찰수사심의위원회는 고소·고발인이나 피해자 등 사건 관계인이 이의 신청을 하면 수사 절차와 결과의 적정성, 적법성 등에 대해 살피는 기구다.   &lt;/p&gt;&lt;p&gt;&lt;br /&gt;경찰수사심의위원회의 심의 결과는 ‘권고’에 불과하지만 "최대한 존중하고 처리 결과 및 이유를 통보해야 한다"고 규정돼 있다. 위원회는 학계, 법조계, 언론계 등 각 분야 전문가 15명과 경찰 내부위원 3명으로 구성돼 있다.      &lt;/p&gt;&lt;p&gt;&lt;br /&gt; 앞서 민생경제연구소 등은 2022년 5월 한 전 위원장과 배우자, 딸을 업무방해 및 저작권법 위반 등 혐의로 경찰에 고발했다. 고발인 측은 한 전 위원장의 딸이 전문 개발자가 제작한 앱을 직접 제작한 것처럼 제출했다거나 논문을 대필했다는 의혹 등을 제기했다.         &lt;/p&gt;&lt;p&gt;&lt;br /&gt; 사건을 수사한 서울경찰청 반부패·공공범죄수사대는 올해 1월 증거 불충분을 이유로 해당 사건에 대해 불송치 결정을 내렸다. 해외 기관들이 공문에 회신하지 않아 증거가 불충분하다는 이유였다. 야권에서는 '봐주기 수사'라는 비판이 제기됐다.            &lt;/p&gt;&lt;p&gt;&lt;br /&gt; 이후 한 전 위원장 등을 고발했던 시민단체들은 지난 4일 수사 결과에 대한 이의신청서를 서울청에 제출했다. 안진걸 민생경제연구소 소장은 “경찰이 지나치게 시간을 끌거나 제대로 재수사에 나서지 않는다면 ‘한동훈 특검’이 불가피할 것”이라고 말했다.            &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Fri, 26 Apr 2024 11:09:57 -0000</pubDate>
@@ -221,22 +231,13 @@
 		</item>
 		<item>
 			<title>광주변회, 법의날 기념 '생활법률강좌·무료법률상담' 진행해</title>
-			<description>&lt;p style="text-align: center; "&gt;&lt;img src="http://image.lawtimes.co.kr/images/197832.jpg" alt="197832.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;광주지방변호사회(회장 장정희)는 25일 광주광역시 동구 지산동 광주지방변호사회관 대회의실에서 제61회 법의날을 맞아 생활법률강좌를 열고, 무료 법률상담을 실시했다.&lt;br /&gt;&lt;br /&gt;이날 행사는 광주변회의 법률지원변호사단의 주관으로 기획됐다. 이들은 법률 사각지대에 있는 노인과 북한이탈주민, 이주 외국인 등 이웃 60여 명을 초청해 노인학대 대처방안과 유언, 상속 등 실생활에 필요한 법률 강좌를 제공하고 무료 법률상담도 실시했다.&lt;br /&gt;&lt;br /&gt;장정희 광주변회 회장은 "법의 날을 맞아 준비한 이번 행사가 실생활에 조금이나마 도움이 된다면 더 의미 있을 것"이라며 "광주변회는 다양한 법률지원 사업을 더 활성화하겠다"고 밝혔다.</description>
+			<description>&lt;p style="text-align: center; "&gt;&lt;img src="https://image.lawtimes.co.kr/images/197832.jpg" alt="197832.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;광주지방변호사회(회장 장정희)는 25일 광주광역시 동구 지산동 광주지방변호사회관 대회의실에서 제61회 법의날을 맞아 생활법률강좌를 열고, 무료 법률상담을 실시했다.&lt;br /&gt;&lt;br /&gt;이날 행사는 광주변회의 법률지원변호사단의 주관으로 기획됐다. 이들은 법률 사각지대에 있는 노인과 북한이탈주민, 이주 외국인 등 이웃 60여 명을 초청해 노인학대 대처방안과 유언, 상속 등 실생활에 필요한 법률 강좌를 제공하고 무료 법률상담도 실시했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7223"&gt;장정희&lt;/span&gt;(56·사법연수원 28기) 광주변회 회장은 "법의 날을 맞아 준비한 이번 행사가 실생활에 조금이나마 도움이 된다면 더 의미 있을 것"이라며 "광주변회는 다양한 법률지원 사업을 더 활성화하겠다"고 밝혔다.</description>
 			<pubDate>Thu, 25 Apr 2024 13:11:42 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/197832</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197832</guid>
-			<media:thumbnail>http://image.lawtimes.co.kr/images/197832.jpg</media:thumbnail>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/197832.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>檢, '창업주 120억 횡령·배임' 혐의 바디프랜드 본사 압수수색</title>
-			<description>안마의자 제조업체 바디프랜드 창업주 강웅철 전 이사회 의장의 '120억원 횡령·배임' 의혹을 들여다보고 있는 검찰이 본사를 압수수색했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;서울중앙지검 중요범죄조사부&lt;/b&gt;(&lt;span style="font-weight: bold;" class="lawmanlink" serial="11986"&gt;이일규&lt;/span&gt;&amp;nbsp;부장검사)는 25일 바디프랜드의 경영권 분쟁 관련 고소 사건의 혐의 구증을 위해 사무실 등에 대한 압수수색을 진행 중이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;검찰이 수사 중인 의혹은 스톤브릿지캐피탈과 경영권 분쟁을 벌이고 있는 한앤브라더스가 강 전 의장을 배임·횡령 혐의로 고소한 사건이다.&lt;br /&gt;&lt;br /&gt;한앤브라더스는 지난해 10월 강 창업주가 직무발명보상금 120여억 원 (62억 원 횡령 및 60억 원 배임), 법인카드 부정사용 6억여 원 등 개인 비리를 저질렀다며 횡령 및 배임 혐의로 서울중앙지검에 고소한 바 있다.</description>
-			<pubDate>Thu, 25 Apr 2024 13:10:40 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197840</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197840</guid>
-			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
