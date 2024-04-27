@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>'대법관 살해 협박' 50대 남성 구속영장 기각</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/PYH2024042517660001300.jpg" alt="PYH2024042517660001300.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대법원에 전화해 자신의 사건을 맡은 대법관을 살해하겠다며 협박한 50대 남성 김 모 씨의 구속영장이 기각됐다. &lt;br /&gt;&lt;br /&gt;서울중앙지법 신영희 부장판사는 27일 "사안이 중대하나 범행에 이르게 된 경위 등을 고려할 때 구속의 필요성과 상당성을 인정하기 어렵다"며 구속영장을 기각했다. &lt;br /&gt;&lt;br /&gt;신 부장판사는 "김 씨는 법리 무지로 상고심 결정이 자신을 무시한 것이라고 오판했고 감정조절의 어려움 때문에 약물을 복용하고 있다"며 "노모를 모시고 있는 것으로 보이는 점, 수사와 재판에 성실하게 응하겠다고 다짐하고 있는 점 등을 고려했다"고 설명했다.&lt;br /&gt;&lt;br /&gt;김 씨는 지난 24일 대법원 민원실에 전화를 걸어 사무관에게 "대법관 등 (자신의) 사건 관련자들을 죽이겠다"고 협박한 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;대법원의 신고를 받은 경찰은 용의자의 이력을 추적해 대상자를 특정하고 김 씨를 강원도 원주시에서 긴급체포했다.</description>
+			<pubDate>Sat, 27 Apr 2024 14:18:52 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197901</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197901</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/PYH2024042517660001300.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>검·경 간 ‘형사사건 처리 과정’ 올 10월부터 공유한다</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/197848.jpg" alt="197848.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;올해 10월 도입 예정인 차세대 형사사법정보시스템(KICS·킥스)에 검·경 간 사건 처리 과정을 공유할 수 있는 기능이 도입된다. 검·경 수사권 조정에 따라 기존 킥스에서는 검찰과 경찰 사이에 사건 이동 내역이 공유되지 않았지만, 차세대 킥스에서는 검·경 간 데이터 공유가 보완되는 것이다. 법조계에서는 보완수사 과정에서 형사 사건 기록이 전산으로 확인되지 않아 오리무중이 되는 경우가 줄어들고 책임수사가 강화될 것이라는 기대가 나온다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;26일 법률신문 취재를 종합하면, 대검찰청은 10월 도입을 목표로 개발 중인 차세대 킥스에 검·경 간 사건 처리 이동 내역을 추적할 수 있도록 하는 기능을 추가한다. 2010년부터 운영된 킥스는 법무부·검찰·경찰·해경 등이 형사사법업무를 처리하기 위해 정보와 문서를 연계해 공동 운용하는 기간정보시스템이다. 형사사법 절차를 전면 전자화한다는 것이 큰 방향성이지만, 그 과정에서 실질적으로 검·경 협력체계에 맞도록 사건 공유 체계도 개편하는 것이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;그동안 법조계에서는 기존 킥스로는 검찰이 보완 수사를 요청하며 경찰로 보낸 사건 상황을 알 수 없다는 문제가 지적돼 왔다. 검찰이 경찰에 대한 수사지휘를 하는 대신, 두 기관이 협력하는 관계로 검·경 수사권 조정이 이뤄지면서 생긴 현상이다. 수사지휘가 가능했던 당시에는 검찰이 경찰에 보완 수사를 요구하면서 사건을 보내도, 킥스 전산망에는 검찰이 맡은 사건으로 표시돼 사건 진행 상황을 공유받을 수 있었다. 그런데 수사권 조정 이후에는 검찰이 보완 수사를 이유로 경찰에 사건을 이첩할 경우, 검찰 단계에서는 사건이 종결 처리된 것으로 분류돼 검찰 전산망에서는 사건 내역이 지워졌다. 대신 경찰 전산망에서 새 사건 번호를 부여받았다. 이 때문에 일선 검사와 형사 변호사들을 중심으로 사건 이동 내역과 전체적인 수사 기간을 파악하기 어려워 책임 수사가 약화했다는 지적이 나왔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;차세대 킥스에서는 이같은 점을 보완하기 위해 검·경 간 데이터를 공유하기로 양 기관이 논의를 마친 것으로 전해졌다. 공유된 데이터를 통해 사건 이동 내역을 추적할 수 있도록 하는 기능도 추가된다. 보완수사 요청으로 경찰에 사건이 이첩되면, 검찰 전산망에 기록된 사건 내역에도 경찰 단계에서 부여받은 새 사건 번호가 추가돼 연계하는 방식이다. 또 이같은 사건 이동 내역은 고소·고발 민원인이나 피의자 등 당사자에게도 안내된다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;차세대 킥스가 사건 이첩 내역을 반영할 수 있게 되면서, 책임 수사가 강화될 것이라는 기대도 나온다. 양 수사기관이 사건이 접수된 후부터의 전체적인 수사 기간과 보완 요구 부분을 들여다볼 수 있게 됐기 때문이다. 한 경찰 출신 변호사는 “검찰에서 보완 수사를 하면서 경찰에 내려보낸 사건이 짧게는 수개월에서 길게는 1년 동안 지체되는 경우가 있다”며 “사건 처리 과정이 한눈에 보인다면, 이런 사례가 조금이라도 줄어들지 않을까 기대된다”고 말했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;한편 대검은 현재 차세대 킥스를 도입하기 전 테스트 과정을 거치고 있다. 차세대 킥스를 공동 운영하는 기관 간 정보·문서 공유 등을 테스트하는 단계를 거친 뒤, 시범청 등을 지정해 시험 후 도입할 계획이다. 다만 법원의 형사전자소송 시스템과 연동되기까지는 다소 시간이 걸릴 것으로 보인다. 대법원이 별도로 구축 중인 형사전자소송시스템은 이르면 내년 6월에 도입될 것으로 전망된다. 대법원은 이후 전자문서로 발부된 영장의 집행, 즉결심판사건 등 일부 영역을 단계적으로 도입해 나갈 예정이다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;</description>
 			<pubDate>Fri, 26 Apr 2024 22:06:18 -0000</pubDate>
@@ -227,16 +237,6 @@
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/197844</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197844</guid>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>경찰, '이선균 수사정보 유출' 관련 인천지검·언론사 압수수색</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/PYH2024032302350006100.jpg" alt="PYH2024032302350006100.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;마약 투약 혐의로 수사를 받던 중 극단적 선택을 한 배우 고(故) 이선균 씨의 수사 정보 유출 의혹을 수사 중인 경찰이 인천지검과 지역 언론사를 압수수색한 사실이 뒤늦게 밝혀졌다. 경찰은 이선균 씨 사건을 최초 보도한 언론사가 인천지검 수사관으로부터 경찰 수사 관련 정보를 입수한 정황을 포착한 것으로 전해졌다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;경기남부경찰청 반부패·경제범죄수사대&lt;/b&gt;는 지난 15일 인천지검과 지방 언론사 경기신문에 대해 압수수색을 단행했다. 아울러 공무상 비밀누설 등의 혐의로 인천지검 소속 수사관 A 씨를 형사 입건했다.&lt;br /&gt;&lt;br /&gt;A 씨는 이선균 씨가 마약 투약 혐의로 경찰의 수사를 받고 있다는 내용의 정보를 경기신문 측에 전달한 혐의를 받고 있다.&lt;br /&gt;&lt;br /&gt;경기신문은 지난해 10월 19일 '톱스타 L 씨, 마약 혐의로 내사 중'이라는 제목의 기사로 이 사건을 단독 보도했다. 이후 취재로 L 씨가 이 씨라는 사실이 밝혀졌다. &lt;br /&gt;&lt;br /&gt;경찰은 경기신문이 이 씨 사건을 최초 보도한 경위를 수사하는 과정에서 A 씨의 혐의를 포착해 강제수사에 나섰다. 압수수색을 통해 확보한 A 씨의 휴대전화 등을 포렌식 작업을 거치는 중이다. &lt;br /&gt;&lt;br /&gt;이 씨는 경찰 조사를 받던 중인 지난해 12월 서울 종로구 공원 인근에서 숨진 채 발견됐다. 그가 사망한 뒤 경찰의 강압 수사가 논란이 됐다. 경찰은 이 씨 측의  비공개소환 요청을 거부하고 포토라인에 3번 세웠고, 3차 조사 당일엔 19시간 밤샘 조사를 진행한 것으로 전해졌다. 이 씨는 당시 밤샘 조사를 받고 난 뒤 극단적인 선택을 했다. &lt;br /&gt;&lt;br /&gt;이후 내사 단계부터 대상자의 이름이 오르내리고 실시간으로 진술이 중계되는 등 보안 유지에도 실패했다는 지적이 잇따르면서 문화예술계는 수사 정보 유출과 강압 수사 의혹 등에 대한 진상 규명을 요구했고, 지난 1월 경찰의 수사가 진행됐다. &lt;br /&gt;&lt;br /&gt;당시 이 씨 수사를 맡았던 인천경찰청 마약범죄수사계와 인천청 수사보고서 원본을 이선균 사망 직후 공개한 연예매체 디스패치 사무실을 압수수색했다. 경찰은 수사보고서 유출 경위와 관련해 인천경찰청 소속 간부급 경찰관 B 씨도 입건해 조사하고 있다. &lt;br /&gt;&lt;br /&gt;경찰은 마약범죄 수사와는 관련 없는 부서에서 일하는 B 씨가 어떻게 수사보고서를 입수했는지, 누구에게 제공했는지, 디스패치가 이 보고서를 어떻게 입수했는지에 대해 조사 중이다.&lt;br /&gt;&lt;br /&gt;3개월 동안 경찰에 대한 강도 높은 수사가 진행돼 온 가운데 인천지검까지 확대되면서 최종 수사 결과에 이목이 쏠린다.</description>
-			<pubDate>Thu, 25 Apr 2024 15:46:22 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197845</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197845</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/PYH2024032302350006100.jpg</media:thumbnail>
 			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
