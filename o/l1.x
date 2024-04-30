@@ -6,12 +6,117 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>청소년범죄예방위원 김천·구미협의회, 청소년 24명에게 장학금 전달</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/197954(1).jpg" alt="197954.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;청소년범죄예방위원 김천·구미협의회&lt;/b&gt;(회장 문홍모)가 22일 경북 구미시 남통동 금오산호텔 컨벤션센터에서 2024년 정기총회를 열고 장기 활동회원에게 공로패를 수여했다. 김천·구미의 모범청소년 24명에게 총 1600만 원의 장학금도 전달했다.&lt;br /&gt;&lt;br /&gt;이날&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5900"&gt;진정길&lt;/span&gt;(51·사법연수원 31기) 대구지검 김천지청장과 홍성구 김천부시장, 김호섭 구미부시장, 청소년범죄예방위원 김천구미회 문홍모 회장 등이 참석했다.&lt;br /&gt;&lt;br /&gt;19년 3개월 동안 청소년범죄예방위원으로 활동한 장병선 위원에게 대구지검 김천지청장 공로패가, 김현도·문석한·이경숙·임명희 위원에게는 김천지청장 표창이 수여됐다. 엄태수 위원 등 신규위원도 위촉됐다.</description>
+			<pubDate>Tue, 30 Apr 2024 11:18:26 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197954</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197954</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/197954(1).jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
+			<title>"코로나19 관련 이태원 기지국 접속자 통신 정보 수집 가능토록 한 감염예방법은 합헌"</title>
+			<description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;코로나19의 확산을 예방하기 위해 정부가 서울 이태원의 휴대전화 기지국 접속자들의 통신 정보 등을 수집할 수 있는 근거가 된 감염병의 예방 및 관리에 관한 법률(감염예방법) 조항은 헌법에 어긋나지 않는다는 헌법재판소 첫 결정이 나왔다. 다만 헌재는 정보 수집 행위 자체의 정당성 여부에 대해서는 해당 정보 수집이 종료됐고 정보가 모두 파기돼 권리 보호 이익이 없다며 각하했다.&lt;p&gt;&amp;nbsp; &lt;b&gt;&lt;br /&gt;헌재&lt;/b&gt;는 감염병 예방과 감염 전파의 차단을 위해 감염병의심자 등에 관한 인적 사항 수집을 허용하는 구 감염예방법 제76조의2 제1항 1호에 대한 헌법소원사건(&lt;b&gt;2020헌마1028&lt;/b&gt;)에서 재판관 전원일치 의견으로 25일 기각했다.&lt;br /&gt;헌재는 "신종 감염병의 경우 그 감염 경로, 증상 및 위험성, 전파를 방지하기 위해 필요할 방역조치의 형태, 범위, 강도 등을 예측하기 어려워 다양한 상황에 적합한 방역조치를 보건당국이 전문적 판단재량을 가지고 신속하고 적절하게 취할 수 있도록 해야 한다"며 "심판대상조항은 보건당국이 전문성을 가지고 감염병의 성질과 전파 정도, 유행 상황이나 위험 정도, 예방 백신이나 치료제의 개발 여부 등에 따라 정보 수집이 필요한 범위를 판단해 정보를 요청할 수 있도록 하여 유연한 대처를 통해 효과적인 방역을 달성할 수 있도록 한다"고 판단했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이어 "심판대상조항은 인적사항에 관한 정보의 수집을 감염병 예방 및 감염 전파의 차단을 위해 필요한 범위 내에서만 허용해 그 목적과 대상을 제한하고 있고, 정보수집에 관한 사후통지 등 절차적 통제장치가 마련돼 있다"며 "특수한 상황에서 일시적으로 허용된다는 점에서 개인정보자기결정권 제한의 효과는 제한적이나, 인적사항에 관한 정보를 이용한 적시의 방역대책은 국민의 건강을 보호하기 위해 필요할 뿐 아니라, 사회·경제적인 손실 방지를 위해 필요한 것인 점에서 그 공익의 혜택 범위와 효과가 광범위하고 중대한 만큼 심판대상조항은 과잉금지원칙에 반하여 청구인의 개인정보자기결정권을 침해하지 않는다"고 설명했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;서울시는 2020년 4월 29일 저녁 8시부터 5월 5일 오전 8시 사이에 이태원에 있는 한 업소 근처 기지국에 접속한 사람들 가운데 30분 이상 체류한 자의 통신정보 제공을 질병관리본부 등에 요청했다. 질병관리본부장은 SKT, KT, LG유를러스에 자료 요청을 했고, 날짜별 접속자의 이름과 전화번호를 서울시에게 전달한 후 모두 파기했다. 서울특별시장은 받은 자료를 토대로 코로나19 진단검사를 독려하는 통지를 발송했고, 이 같은 문자를 받은 A 씨는 개인정보자기결정권 등을 침해받았다며 2020년 7월 헌법소원을 냈다.&lt;br /&gt;&lt;/p&gt;</description>
+			<pubDate>Tue, 30 Apr 2024 10:40:01 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197870</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197870</guid>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
+			<title>코로나19 관련 '종교행사 출입자명단 제출 거부·거짓 자료 제출'로 기소유예… 헌재, '처분 취소'</title>
+			<description>&lt;p&gt;코로나19 확진자가 참석한 종교행사 출입자명단 제출 요구를 거부하거나 거짓 명단을 제출했다는 이유로 받은 기소유예 처분을 헌법재판소가 취소했다. 방역 당국의 출입자명단 제출 요구는 감염병의 예방 및 관리에 관한 법률(감염예방법)과 그 시행령이 정한 내용, 방법 등의 요건을 충족하지 않아 감염예방법상 '역학조사'로 볼 수 없어 거부나 거짓 명단 제출 행위가 역학조사를 거부하거나 역학조사에서 거짓 자료를 제출한 것으로 볼 수 없다는 취지다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;헌재&lt;/b&gt;는 25일 이 같은 혐의로 기소유예 처분을 받은 A 씨가 낸 헌법소원 사건(&lt;b&gt;2021헌마1174&lt;/b&gt;)을 재판관 전원일치 의견으로 인용했다.&lt;p&gt;   &lt;br /&gt;A 씨는 모 선교회가 운영하는 수련기관은 B 센터 소속 간사이다. 공범인 C 씨는 센터의 교육집행위원장, 또 다른 공범인 D 씨는 센터의 선교사다. B 센터는 2020년 11월 27일부터 이틀간 행사를 개최했는데, 출입자 중 1명이 약 5일 뒤 코로나19 양성 확진 판정을 받았다. 상주시는 같은 날 C,D 씨를 상대로 센터에 출입한 사람들과 종사자들의 명단을 제출하라고 요구했다. 또 약 10일 뒤 상주시장 명의로 요청 공문이 송달됐다. A 씨는 공범들과 공모해 3일 자 시장의 요구에 응하지 않아 역학조사를 거부하고 D 씨와 공모해 출입자 일부가 누락되고 실제 출입하지 않은 사람의 정보가 기재된 명단을 제출해 역학조사에서 거짓의 자료를 제출하고 역학조사 담당 공무원의 공무집행을 방해했다는 이유로 감염예방법 위반, 위계공무집행방해 등 범죄사실에 대해 기소유예처분을 받았다. 이에 2021년 9월 A 씨는 헌법소원을 냈다. 한편 C,D씨에게는 2022년 11월 무죄 판결이 확정됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;헌재는 "공범들의 판결에서 대법원이 확인한 바에 따르면 감염병예방법상 역학조사는 국민의 기본권을 제한하고 침익적 행정행위의 성격을 가질 뿐 아니라 그 거부·방해 행위 등에 대해 형사처벌이 가능하다는 점에서 형벌 법규의 구성요건적 성격도 가지기 때문에 감염병의 전파를 방지할 필요성 또는 긴급성이 있다는 이유만으로 역학조사의 개념을 감염병예방법 관련 법령 문언을 벗어나 확장해석하거나 유추해석해서는 안 되고 국민의 자유와 권리가 지나치게 침해되지 않도록 엄격하게 해석해야 한다"고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이어 "역학조사에 해당하기 위해서는 제출 요구한 자료(명단)의 내용이 '감염병 환자 등'의 인적 사항 등에 관한 사항이어야 하지만 상주시장 측이 제출 요구한 이 사건 명단은 감염병 환자 등과 접촉하였거나 접촉했다고 의심되는 '접촉자'의 인적 사항 등에 관한 것이고, 역학조사는 설문조사 및 면접조사 등의 방법에 의해야 함에도 이 사건 명단 제출 요구는 관련 법령에서 규정하고 있는 역학조사서를 이용한 설문조사나 면접조사 방법에도 해당하지 않는다"며 "이 사건 명단 제출 요구는 감염병예방법에서 규정하는 역학조사에 해당하지 않아 그에 응하지 않았다거나 사실과 다른 자료를 제출했다고 하여 '역학조사'를 거부하였다거나 거짓 자료를 제출했다고 할 수 없다"고 설명했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;아울러 헌재는 청구인의 위계공무집행방해의 고의도 인정하기 어렵다고 판단했다.&lt;/p&gt;</description>
+			<pubDate>Tue, 30 Apr 2024 10:38:56 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197876</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197876</guid>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] 상대 후보에 "가짜 계양사람" 발언 이재명 측근, 무죄 확정</title>
+			<description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;2022년 인천 계양을 국회의원 보궐선거 당시 더불어민주당 이재명 대표의 상대 후보와 관련해 허위사실을 공표한 혐의로 재판에 넘겨진 김남준 민주당 대표실 정무부실장에 대해 무죄가 확정됐다.&lt;p&gt;&lt;b&gt;&lt;br /&gt;대법원 형사1부&lt;/b&gt;(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1658"&gt;오경미&lt;/span&gt;&amp;nbsp;대법관)는 4일 공직선거법 위반 혐의로 기소된 김 실장에 대한 상고심에서 상고를 기각하고 무죄를 선고한 원심을 확정했다(&lt;b&gt;2024도357&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;&lt;br /&gt;김 실장은 인천 계양을 6·1 보궐선거를 앞둔 2022년 5월 23일 이 대표의 상대후보인 국민의힘 윤형선 후보와 관련해 허위 사실을 공표한 혐의로 불구속 기소됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;당시 국민의힘에서 "윤 후보는 25년 동안 계양을 지켰지만, 이재명 후보는 계양에 온 지 25일"이라고 지적하자, 이 후보 캠프 대변인이던 김 실장은 논평을 내고 "윤 후보가 선거 직전 계양으로 주소지를 옮겼다"는 취지로 주장했다. 당시 김 실장의 논평에는 "알고보니 '가짜 계양사람'인 윤 후보는 법적 책임을 져야 한다"는 내용이 포함됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;검찰은 당시 김 실장이 해당 내용이 허위라는 사실을 알고도 상대 후보자를 당선되지 못하게 할 목적으로 불리하게 논평을 냈다고 판단해 기소했다.               &lt;/p&gt;&lt;p&gt;&lt;br /&gt;1,2심은 "어떤 사람의 연고지는 그 사람의 출생지, 성장지, 거주지 등 다양한 요소에 의해 결정되는 것"이라며 "공소사실로 기재된 허위사실 유포와 관련된 표현을 범행으로 보기 어렵다"며 무죄를 선고했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;대법원도 원심 판단에 법리를 오해한 잘못이 없다며 그대로 확정했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Tue, 30 Apr 2024 10:25:11 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197977</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197977</guid>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
+			<title>檢, '수면제 불법 처방' 이승기 전 소속사 대표 불구속 기소</title>
+			<description>&lt;p&gt;연예인 이승기 전 소속사 후크엔터테인먼트 권진영 대표가 직원들을 통해 수면제를 불법 처방받은 혐의로 재판에 넘겨졌다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;서울중앙지검 강력범죄수사부&lt;/b&gt;(&lt;span class="lawmanlink" serial="11621" style="font-weight: bold;"&gt;김연실&lt;/span&gt;&amp;nbsp;부장검사)는 30일 권 대표를 마약류 관리법 위반(향정) 혐의로 불구속 기소했다고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;권 대표는 2022년 1∼7월 직원에게 향정신성 의약품인 스틸녹스정(졸피뎀 성분의 수면유도제)을 처방(대리처방)받게 하는 등의 방법으로 세 차례에 걸쳐 직원 두 명으로부터 수면제 17정을 수수한 혐의를 받는다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;</description>
+			<pubDate>Tue, 30 Apr 2024 10:22:20 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198000</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198000</guid>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>대검 "검찰총장 부부 뇌물수수 의혹은 허위…계좌내역도 조작"</title>
+			<description>&lt;p style="text-align: left;"&gt;검찰이 전 MBC 기자 유튜버 장인수 씨의 이원석 검찰총장의 뇌물 수수 의혹 주장에 대해 "조작된 내용으로 허위 주장을 하고 있다. 총장과 배우자의 명예를 훼손할 경우 법적 책임을 묻겠다"고 밝혔다.&lt;/p&gt;&lt;b&gt;&lt;br /&gt;대검찰청&lt;/b&gt;은 30일 "장 전 기자를 비롯해 일부 언론매체가 2024년 1월부터 터무니 없이 조작된 허위 자료를 토대로 '이원석 검찰총장에게 뇌물수수 의혹이 있다'거 주장하며 취재 명목으로 사실확인을 요구했다"면서 "총장은 '총장과 배우자는 공직자로 일하는 동안 사인과 금전거래를 한 사실이 전혀 없다'는 입장을 밝혔다"고 말했다. &lt;br /&gt;&lt;br /&gt;대검은 이 총장의 뇌물 수수 의혹을 묻던 언론 매체는 총장의 답변 이후 보도를 하지 않았으나 장 전 기자는 지난 25일부터 있지도 않은 계좌송금 사실을 거론하며 뇌물수수 의혹에 해명하라는 취지를 요구했다고 설명했다. 장 전 기자는 대검의 답변을 들었음에도 유튜브 채널에 총장의 의혹을 다룬 영상을 게재하겠다는 예고편을 올렸다. &lt;br /&gt;&lt;br /&gt;대검은 "A 사 기자는 2016년 3월과 4월 각각 3000만 원, 1100만 원 송금 기록이 있는 금융계좌 거래 내역을 대검 대변인실에 제시하며 총장의 뇌물 수수의혹을 제기했다. 총장은 대변인을 통해 언론사가 제시한 거래내역 원본을 보냈다"며 "A 사가 제시한 거래내역은 총장 배우자의 이름, 은행, 계좌 모두 허위 조작된 것이었다. A 사는 조작된 내역임을 알고 취재를 중단했다. &lt;br /&gt;&lt;br /&gt;B 사도 지난 24일 총장과 대변인에게 '구체적인 자료를 확보했다'고 주장하며 A 사와 동일한 내용으로 질의했다. 대변인실은 계좌거래내역 원본을 보여줬고, B 사도 보도하지 않았다. &lt;br /&gt;&lt;br /&gt;대검은 장 전 기자에게도 A, B 사에 보낸 자료를 그대로 전달했다고 한다. &lt;br /&gt;&lt;br /&gt;장 전 기자는 29일 오후 대변인에게 메시지를 보내 앞선 매체들이 실제 거래내역을 확인했는지, 자신에게도 확인시켜줄 수 있는 지 물었다. 대변인은 원본은 직접 열람시켜 줬고, A 사는 허위조작된 거래내역과 상이함을 확인한 뒤 기사화하지 않기로 했다고 말하면서 "질의한 계좌 송금 사실은 전혀 없음을 다시 명확히 알려드린다"고 답장했다. &lt;br /&gt;&lt;br /&gt;대검 관계자는 "그럼에도 장 전 기자는 30일 오전 유튜브에 '헌정 초유 검찰총장 뇌물수수의혹'이라는 영상을 올리겠다는 예고편을 올렸다. 허위 조작된 자료를 토대로 허위의 동영상을 게시할 경우 해당 금융거래 자료를 조작하거나 이를 유포한 사람과 함께 모든 법률적 책임을 엄정하게 물을 것"이라고 강조했다. &lt;br /&gt;</description>
+			<pubDate>Tue, 30 Apr 2024 10:20:42 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197995</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197995</guid>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>상사법학회, '기업·자본시장 동향과 과제' 학술대회 열어</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/198001.jpg" alt="198001.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;한국상사법학회&lt;/b&gt;(회장 안강현)이 한양대학교 법학연구소, 연세대학교 법학연구원과 함께  26일 서울 성동구 한양대학교 로스쿨 제3법학관에서 '기업 및 자본시장 법제의 최근 동향과 과제'를 주제로 2024년 춘계학술대회를 열었다. 이날 한국상사법학회장을 역임한 정경영 교수에게 공로패가 수여됐다.&lt;br /&gt;&lt;br /&gt;기조발제는 이철송 건국대 교수가 맡았다. 이 교수는 ‘상법 제401조의2에 따른 업무집행지시자 책임의 본질’을 주제로 발표하면서, "업무집행지시자의 책임의 본질은 상법 제401조 제1항 제1호에 의해 비로소 책임이 생겨나기 때문에 법정책임으로 보는 게 타당하다"라고 주장했다. &lt;br /&gt;&lt;br /&gt;제1세션에서는 이현균 한국법학원 박사가 '주주평등원칙에 관한 대법원 판결 검토'를 발표했다. 토론은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10784"&gt;정준혁&lt;/span&gt;(46·사법연수원 33기) 서울대 교수와 노미리(43·39기) 동아대 교수가 나섰다.&lt;br /&gt;&lt;br /&gt;제2세션에서는 '회사소송의 재량기각 제도의 법적 쟁점과 개선방안'을 주제로&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="28045"&gt;김효정&lt;/span&gt;(42·변호사시험 3회) 사법정책연구위원이 발표하고, 임수민 충북대 교수와 권용수 건국대 교수가 토론했다.&lt;br /&gt;&lt;br /&gt;마지막 제3세션에서는 천창민 서울과학기술대 교수가 '유럽 암호자산시장법 연구: MiCAR의 적용범위와 업규제 및 입법적 함의를 중심으로'를 주제로 발표했다. 토론은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9325"&gt;김홍기&lt;/span&gt;(58·21기) 연세대 교수와 김갑래 자본시장연구원 센터장이 맡았다.</description>
+			<pubDate>Tue, 30 Apr 2024 10:20:28 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198001</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198001</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/198001.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
+			<title>대법원, 간결하고 이해하기 쉬운 판결서 작성 추진…'판결서 간이화' 시행 재판부 모집한다</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/177234(25).jpg" alt="177234.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대법원이 민사·가사 중액단독 사건과 소액사건을 중심으로 간결하고 이해하기 쉬운 판결서 작성에 나선다. 판결서 간이화(적정화) 시행이 법관의 업무 과중 해소와 신속한 재판으로 이어질 수 있을지 주목된다.&lt;p&gt;&lt;br /&gt;30일 법조계에 따르면 법원행정처는 지난 25일 법원 내부망(코트넷)에 '판결서 적정화 시행 및 실시 재판부 모집 안내' 공지를 게시했다.   &lt;/p&gt;&lt;p&gt;&lt;br /&gt;앞서 법원은 지난해 9월 사법행정자문회의에서 적정한 판결서 작성의 필요성에 대해 결의하고, 같은해 12월 사법정책연구원에서 '법조일원화 시대에 걸맞는 제1심 판결서 작성 방식의 개선 방안' 연구보고서를 발간하는 등 적정한 판결서 작성 방식을 모색했다. 당사자의 답변 기능을 충족하면서도 법관의 업무가 판결서 작성에 과도하게 집중되지 않는 방식을 뜻한다.      &lt;/p&gt;&lt;p&gt;&lt;br /&gt;이를 바탕으로 완결성을 추구할 사건은 기존 방식으로 판결서를 작성하되, 쟁점이 간단하고 정형적인 사건은 보고서의 형태(개조식)나 나열식으로 문장 작성 부담을 완화하거나 기초사실을 과감히 생략하는 등 다양한 형태의 판결서 방식을 활성화하는 정책을 시행할 방침이다.         &lt;/p&gt;&lt;p&gt;&lt;br /&gt; 조희대 대법원장은 올해 2월 기자 간담회에서 "(대법원장이 된 후) 판결문을 쉽고 간이하게 쓰는 것을 다시금 강조한 이유는 국민이 알기 쉽게 하기 위함도 있지만, 예전과 달리 법관이 주말까지 밤늦게 일할 수 없는 시대가 됐다는 사실을 존중해야 하기 때문"이라며 판결서 간이화의 필요성을 나타낸 바 있다.            &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;먼저 △민사·가사 중액단독 사건 및 그 항소심 사건(민사 소액사건 포함) △항소율 및 파기율이 상대적으로 낮은 사건(대여금, 제3자이의·청구이의, 매매대금, 양수금, 배당이의) △사건 수가 많고 비교적 정형적인 사건(건물인도·철거, 사해행위취소, 자동차사고 손해배상, 임대차보증금)을 우선적으로 실시할 예정이다. 합의사건과 고액단독 사건 등의 시행 여부는 우선적으로 실시하는 사건의 결과분석과 2025년 3월 항소이유서 제출제도 시행에 따른 항소심 심리모델 재정립 등을 종합적으로 고려해 검토할 예정이다.               &lt;/p&gt;&lt;p&gt;&lt;br /&gt; 법원행정처는 다음달 24일까지 판결서 적정화 시행에 참여를 희망하는 재판부를 모집한다. 법원행정처 관계자는 게시글을 통해 "취지에 공감하는 판사들의 다양하고 창의적인 시도를 통해 적정한 판결 사례의 축적과 이를 통한 공감대 형성이 필요하다고 생각한다"며 "판결서 적정화 정책의 시행이 쟁점이 간단한 사건에서 국민이 이해하기 쉬운 판결서 작성으로 이어지고, 법관의 업무가 법정 중심으로 이뤄지는 것에 기여하리라 기대한다"고 밝혔다.               &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Tue, 30 Apr 2024 10:17:14 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197994</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197994</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/177234(25).jpg</media:thumbnail>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
+			<title>檢, '비위 의혹' 이정섭 검사 주거지·포렌식 업체 압수수색</title>
+			<description>&lt;p&gt;&lt;span style="font-weight: bold;" serial="9647"&gt;이정섭&lt;/span&gt;(53·사법연수원&amp;nbsp;32기) 대전고검 검사의 비위 의혹을 수사 중인 검찰이 이 검사 처남의 휴대폰 기록을 확보하기 위한 압수 수색에 나섰다.&lt;/p&gt;&lt;b&gt;&lt;br /&gt;서울중앙지검 형사1부&lt;/b&gt;(부장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10504"&gt;김승호&lt;/span&gt;)는 30일 사설 포렌식 업체 A사와 이 검사 주거지에 검사와 수사관을 보내 관련 휴대폰 등 자료를 확보했다.&lt;br /&gt;&lt;br /&gt;이 검사의 처남댁인 강미정 조국혁신당 대변인은 앞서 이 검사의 위장전입, 범죄기록 무단조회, 처남 마약 수사 무마 의혹 등을 제기했다. 또 남편이자 이 검사의 처남인 조모 씨를 대마 흡연 및 소지 혐의로 수서경찰서에 고발했다.&lt;br /&gt;&lt;br /&gt;강 대변인은 A 사에 조 씨의 휴대폰 포렌식을 의뢰했다. 조 씨는 해당 휴대폰을 2016~2017년 사용했는데, 강 대변인은 "이 휴대폰에 이 검사의 각종 비위 증거가 저장돼 있다"고 주장했다. 이 검사가 조 씨에게 검사들의 골프장 예약을 부탁한 정황과 조 씨가 이 검사에게 범죄 경력 조회를 요구한 정황, 조 씨의 마약 정황 등이 담겼다는 것이다. A 사는 "의뢰인과 사용자가 다르다"며 강 대변인에게 포렌식 결과를 제공하지 않았다.&lt;br /&gt;&lt;br /&gt;이 검사 탄핵 심판을 진행 중인 헌법재판소도 A 사에 휴대폰 디지털포렌식 분석 결과보고서 관련 의견서 제출을 요구했는데 A 사는 "문서제출명령을 내리면 관련 자료를 제출하겠다"는 의견을 냈다.</description>
+			<pubDate>Tue, 30 Apr 2024 07:30:42 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197993</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197993</guid>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>율촌, 일본 도쿄서 Private Seminar &amp; Networking Luncheon 개최</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/197992.jpg" alt="197992.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/197992_1.jpg" alt="197992_1.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.yulchon.com/ko/main/main.do" target="_blank"&gt;&lt;b&gt;법무법인 율촌&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7573"&gt;강석훈&lt;/span&gt;)이 일본 더 오쿠라 도쿄 호텔에서 'Yulchon Private Seminar &amp; Luncheon'을 개최했다.&lt;br /&gt;&lt;br /&gt;율촌은 4월 24일부터 27일까지 열린 환태평양변호사협회(IPBA)의 연차총회 기간 중 세계 유수의 로펌을 초대해 프라이빗 세미나와 오찬 행사를 주최했다.&lt;br /&gt;&lt;br /&gt;강석훈 대표변호사의 인사로 시작된 이번 행사에서는 한국 대표 기업의 법무팀장과 함께 해당 기업의 주요 투자 현황 및 전망, 로펌 경험에 대해 자유롭게 의견을 나누는 시간을 가졌다.&lt;br /&gt;&lt;br /&gt;율촌 변호사들은 2024년 주요 법률 이슈와 총선 영향을 발표해 외국 로펌에 한국 법률 시장의 최근 동향을 짚었다.&lt;br /&gt;&lt;br /&gt;율촌 관계자는 "이번 행사를 통해 세계 주요 로펌들과 네트워킹하는 자리를 마련해 향후 활발한 협업 관계를 구축할 수 있는 자리를 마련했다"고 밝혔다.</description>
+			<pubDate>Tue, 30 Apr 2024 07:30:00 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197992</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197992</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/197992.jpg</media:thumbnail>
+			<dc:creator>이순규 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] '강남 학원가 마약음료 사건' 주범, 2심서 징역 18년…1심보다 형량 3년 늘어</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/197991.jpg" alt="197991.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;강남 학원가에서 마약이 섞인 음료를 학생들에게 나눠주고 이를 마시게 한 혐의 등으로 재판에 넘겨진 일당이 항소심에서도 실형을 선고받았다. 주범은 1심보다 형량이 3년 늘었다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;서울고법 형사5부&lt;/b&gt;(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3966"&gt;권순형&lt;/span&gt;&amp;nbsp;부장판사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11539"&gt;안승훈&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="14895"&gt;심승우&lt;/span&gt;&amp;nbsp;고법판사)는 30일 마약류 관리에 관한 법률 위반(향정) 등 혐의로 구속기소된 길모 씨에게 징역 15년을 선고한 1심 판결을 파기하고 징역 18년을 선고했다(&lt;b&gt;2023노3480&lt;/b&gt;). 범행에 함께 가담한 혐의로 기소된 김모 씨에게는 징역 8년을 선고한 1심을 파기하고 징역 10년을 선고했다. 필로폰 공급책 박모 씨와 보이스피싱 모집책 이모 씨에게는 1심과 같이 각각 징역 10년, 징역 7년을 선고했다.&lt;p&gt;&lt;br /&gt;항소심 재판부는 "이 사건은 해외에 거점을 둔 특정 보이스피싱 범죄집단이 국내 학원 밀집지역에서 불특정 다수의 미성년자를 표적으로 삼아 시음행사를 가장해 마약음료를 마시게 한 뒤 그 부모를 협박해 금전을 갈취하려고 사전에 치밀하게 계획한 다음, 구성원들이 각자의 역할에 따라 실제 실행에 옮긴 사건"이라며 "새로운 유형의 범죄일 뿐만 아니라, 죄질이 매우 불량하다"고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;주범 길 씨의 범행에 대해선 "마약음료 100병을 직접 제조하고 설문지 복사 및 배송 등 범행의 실행에 있어 핵심적인 역할을 수행했다"며 "미성년자를 오로지 영리 취득을 위한 도구로 이용한 점, 마약음료에는 1병당 최소 1회 사용량의 3.3배에 달하는 0.1g가량의 필로폰이 함유된 것으로 보이는 점, 마약음료를 건네받은 13명 중 이를 마신 9명은 당시 15~17세의 미성년 학생(아동)이었던 점 등에 비춰 죄질이 매우 불량하다"고 했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;검찰에 따르면 이 사건의 주범 길 씨는 중국에 있는 보이스피싱 총책 등과 함께 마약음료를 제조한 뒤 미성년자들에게 투약하게 하고, 이를 빌미로 마약음료를 마신 미성년자들의 부모로부터 금품을 갈취하려 했다. 그는 제조한 마약 음료를 '집중력 강화 음료'의 무료시음 행사인 것처럼 속여 미성년자 등에게 이를 마시도록 해 영리목적으로 필로폰을 투약했다. 피해자는 청소년 13명, 학부모 6명이다. 이를 복용한 청소년 피해자 중 6명은 환각 증상이 발현되기도 하는 상해를 입었다. 이후 중국의 보이스피싱 조직원들로 하여금 돈을 주지 않으면 자녀의 마약투약을 신고하겠다고 학부모를 협박하도록 했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;김 씨는 변작중계기를 사용해 중국 인터넷 전화번호를 국내 휴대전화번호로 위장하는 중계기와 유심칩 등을 이용·관리하며 협박 전화를 도운 혐의, 박 씨는 이른바 '던지기' 수법으로 필로폰 10g을 은닉하고 길 씨가 이를 수거하도록 전달한 혐의로 기소됐다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;앞서 1심은 "범행 이후 이 사건에 대한 국민적 공분이 최고조에 달해 피해자들이 학업에 제대로 집중하기 어려웠을 것임은 자명하고, 마약 투약으로 인한 신체적인 자각 증상 외 부정적인 영향은 다방면으로 나타날 수 있어 앞으로 피해자들이 감내해야 할 피해의 크기를 가늠하기 어렵다"며 이들의 공소사실에 대해 모두 유죄로 인정했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Tue, 30 Apr 2024 07:28:57 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197991</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197991</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/197991.jpg</media:thumbnail>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
 			<title>"내년부터 법원행시에 인사혁신처 PSAT 문제 출제된다"</title>
-			<description>2025년부터 법원행정고등고시에 인사혁신처가 실시하는 국가공무원 5급 공개채용시험 PSAT 문제가 출제된다.&lt;p&gt;   &lt;b&gt;&lt;br /&gt;법원행정처&lt;/b&gt;(처장 천대엽)와 &lt;b&gt;인사혁신처&lt;/b&gt;(처장 김승호)는 30일 대법원에서 '법원행정고등고시 제1차 시험 PSAT 문제 공동활용에 관한 업무협약(MOU)'을 체결했다.   &lt;p&gt;&amp;nbsp; &lt;br /&gt;내년부터 법원행정고등고시 제1차 시험에 민법·형법 과목이 폐지되고 공직적격성평가(PSAT)가 도입됨에 따라, 인사혁신처가 출제하는 5급 공개채용시험의 헌법, 언어논리영역, 자료해석영역, 상황판단영역 문제를 공동 활용하는 것이 이번 협약의 골자다.      &lt;p&gt;         &lt;br /&gt;법원행정처는 이를 위해 3월 28일 법원공무원규칙을 개정해 시험의 공동 또는 위탁 실시에 관한 근거규정을 신설했다. 이번 협약을 통해 인사혁신처로부터 헌법과 PSAT 과목 문제의 출제, 인쇄, 이의 및 정답 확정 등 시험 운영에 관해 종합적인 지원을 받게 된다.         &lt;p&gt;            &lt;br /&gt;천대엽 행정처장은 "이번 협약을 계기로 국민의 눈높이에 맞는 유능한 인재들이 선발되고, 양 기관이 더욱 협력하고 발전할 수 있는 기회가 되기를 바란다"고 말했다.            &lt;p&gt;               &lt;br /&gt;법원행정처 관계자는 "인사혁신처가 가진 풍부한 PSAT 출제 경험과 전문성이 법원공무원 채용 절차에서 종합적인 이해와 사고력을 갖춘 역량 있는 인재를 선발하는 밑거름이 될 것"이라고 말했다.            &lt;/p&gt;         &lt;/p&gt;      &lt;/p&gt;      &lt;/p&gt;&lt;/p&gt;</description>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/197968.jpg" alt="197968.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;2025년부터 법원행정고등고시에 인사혁신처가 실시하는 국가공무원 5급 공개채용시험 PSAT 문제가 출제된다.&lt;p&gt;&lt;b&gt;&lt;br /&gt;법원행정처&lt;/b&gt;(처장 천대엽)와 &lt;b&gt;인사혁신처&lt;/b&gt;(처장 김승호)는 30일 대법원에서 '법원행정고등고시 제1차 시험 PSAT 문제 공동활용에 관한 업무협약(MOU)'을 체결했다.   &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;내년부터 법원행정고등고시 제1차 시험에 민법·형법 과목이 폐지되고 공직적격성평가(PSAT)가 도입됨에 따라, 인사혁신처가 출제하는 5급 공개채용시험의 헌법, 언어논리영역, 자료해석영역, 상황판단영역 문제를 공동 활용하는 것이 이번 협약의 골자다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/197968_1.jpg" alt="197968_1.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;법원행정처는 이를 위해 3월 28일 법원공무원규칙을 개정해 시험의 공동 또는 위탁 실시에 관한 근거규정을 신설했다. 이번 협약을 통해 인사혁신처로부터 헌법과 PSAT 과목 문제의 출제, 인쇄, 이의 및 정답 확정 등 시험 운영에 관해 종합적인 지원을 받게 된다.         &lt;/p&gt;&lt;p&gt;&lt;br /&gt;천대엽 행정처장은 "이번 협약을 계기로 국민의 눈높이에 맞는 유능한 인재들이 선발되고, 양 기관이 더욱 협력하고 발전할 수 있는 기회가 되기를 바란다"고 말했다.            &lt;/p&gt;&lt;p&gt;&lt;br /&gt;법원행정처 관계자는 "인사혁신처가 가진 풍부한 PSAT 출제 경험과 전문성이 법원공무원 채용 절차에서 종합적인 이해와 사고력을 갖춘 역량 있는 인재를 선발하는 밑거름이 될 것"이라고 말했다.            &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Tue, 30 Apr 2024 06:22:02 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/197968</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197968</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/197968.jpg</media:thumbnail>
 			<dc:creator>박수연 기자</dc:creator>
 		</item>
 		<item>
@@ -129,113 +234,6 @@
 			<link>https://www.lawtimes.co.kr/news/197959</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197959</guid>
 			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>양창수·김재형 《민법 I : 계약법》 제4판 출간</title>
-			<description>&lt;p&gt;   &lt;img src="http://image.lawtimes.co.kr/images/197955.jpg" alt="197955.jpg" style="text-align: center;" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대법관을 지낸 양창수(72·사법연수원 6기) 법무부 민법개정위원회 위원장과 김재형(59·18기) 서울대 로스쿨 교수기 집필한 《민법 I : 계약법》 제4판이 출간됐다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;제3판 발간 후 법 변화를 충실히 반영하고자 약 4년 만에 제4판이 출간됐다. 개정된 민법 관련 법률과 새로운 재판례 등이 추가됐다. 제3판의 불충분한 설명 부분도 보충했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;책은 민법의 편제나 이론적 체계에 구애받지 않고, 일상생활에서 발생하는 계약의 실제 진행 과정을 염두에 둔 채 계약의 성립부터 소멸까지 '계약의 일생'을 설명하는 방식으로 재구성됐다. △계약 일반론 △계약의 성립 △계약의 주요 유형 △채무의 이행 △채무불이행 △계약의 해소 △계약의 하자 △계약과 제3자의 순으로 서술했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;뿐만 아니라 개별 주제에 관한 이론적 설명과 주요 판례도 담았다. 이론적 설명 부분에서는 기존의 교과서와 달리 장황한 학설 대립을 다루지 않고 실제 문제를 해결하는 데 필요한 법리를 중심으로 구성했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;아울러 해당 주제에 관한 논의를 이해하는 데 필요하다고 생각하는 판결을 전문 수록했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Mon, 29 Apr 2024 15:05:18 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197955</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197955</guid>
-			<media:thumbnail>http://image.lawtimes.co.kr/images/197955.jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>국민의힘, 새 비대위원장에 황우여 지명</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/197930.jpg" alt="197930.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;황우여 전 새누리당 대표 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;국민의힘이 차기 당 대표를 선출할 때까지 당을 이끌 신임 비상대책위원장으로&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4522"&gt;황우여&lt;/span&gt;(77·사시 10회) 전 새누리당(국민의힘 전신) 대표를 지명했다. 한동훈 전 비대위원장이 사퇴한 이후 18일 만이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;윤재옥 국민의힘 당대표 권한대행 겸 원내대표는 29일 국회에서 열린 비공개 당선인 총회 직후 기자들과 만나 "황 전 대표는 5선 의원이기도 하고 당 대표를 지낸 분이고, 덕망과 인품을 갖추신 분"이라며 "공정하게 전당대회를 관리할 수 있는 분"이라고 밝혔다.&lt;p&gt;   &lt;br /&gt;윤 권한대행은 "오늘 상임전국위원회를 열어 전국위원회 소집을 의결하고, 전국위원회에서 비대위원장에 대한 의결이 끝나면 비대위원장 임명 절차가 마무리될 것으로 생각한다"며 "5월 3일 이전에 비대위원장 임명 절차는 마무리될 것"이라고 설명했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이어 "비대위원장이 비대위원을 구성해 당헌과 당규에 따른 절차를 밟아 비대위원에 대한 임명 절차가 끝나면 비대위 구성을 마쳐 당 지도부가 완성될 것"이라고 부연했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;황 전 대표는 1969년 제10회 사법시험에 합격한 뒤 부산지법 진주지원 판사 겸 서울형사지법 판사로 법관 생활을 시작했다. 이후 서울민사지법 판사와 청주지법 제천지원장, 서울고법 판사, 대법원 재판연구관, 춘천지법 부장판사, 서울민사지법 부장판사, 감사원 감사위원 등을 거쳤다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;1996년 제15대 국회의원을 시작으로 제19대 국회의원까지 지낸 5선 의원 출신으로 박근혜 정부 시절 새누리당 대표와 사회부총리 겸 교육부 장관 등을 지냈다. 현재 국민의힘 상임고문으로 이름을 올리고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Mon, 29 Apr 2024 06:11:06 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197930</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197930</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/197930.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>광장·美로펌 깁슨던앤크러처, ‘영업비밀 분쟁 및 기술유출 대응 전략 세미나’ 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/197944.jpg" alt="197944.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.leeko.com/leenko/main.do?lang=KR" target="_blank"&gt;&lt;b&gt;법무법인 광장&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3235"&gt;김상곤&lt;/span&gt;)이 미국 로펌 깁슨 던 앤 크러처(Gibson, Dunn &amp; Crutcher LLP·이하 깁슨 던)와 26일 서울 중구 소공동 광장 아카데미아실에서 ‘영업비밀 분쟁 및 기술유출 대응 전략 세미나’를 공동 개최했다. 이번 세미나에서는 깁슨 던과 광장의 전문가들이 기업의 영업비밀을 관리하고 기술유출을 예방해야 하는 사내변호사들에게 실무 가이드라인도 제공했다.&lt;br /&gt;&lt;br /&gt;첫 번째 세션에서는 이정은 깁슨 던 미국변호사가 ‘미국의 최근 영업비밀 판결 동향’과 ‘영업비밀 관리와 부당취득 방지-사내변호사의 대응 전략’에 관해 발표했다. 지식재산 및 영업비밀 전문가인 안젤리크 카우니스 미국변호사는 미국 캘리포니아 현지에서 온라인으로 참여해 현재 미국의 주요 현안을 설명하고 질의응답까지 진행했다.&lt;br /&gt;&lt;br /&gt;두 번째 세션에서는 대법원 지적재산권조 재판연구관과 특허법원 판사 등을 역임한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10047"&gt;이헌&lt;/span&gt;(47·사법연수원 32기) 광장 변호사가 ‘한국의 최근 영업비밀 판결 동향’에 대해 발표했다. 이 변호사는 영업비밀의 요건인 비밀관리성, 보호기간 및 기여율에 관한 판결 등 영업비밀을 둘러싼 다양한 쟁점을 최근 사례와 함께 설명했다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15211"&gt;김홍선&lt;/span&gt;(47·37기) 광장 변호사는 ‘한국 영업비밀 사건 최신 트렌드 및 사내변호사의 대응 전략‘을 주제로 발표했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2470"&gt;김운호&lt;/span&gt;(55·23기) 광장 지식재산권 그룹장은 “점증하는 영업비밀 보호의 중요성, 영업비밀 분쟁의 국제화라는 새로운 화두 속에서 영업비밀과 핵심 기술의 보호에 대해 국제적인 조망을 갖춰야만 하는 시대에 돌입했다”며 “이에 한미 양국의 최신 동향을 고객들과 함께 살펴보고, 대응방안을 모색해보고자 이번 세미나를 기획했다”고 설명했다.</description>
-			<pubDate>Mon, 29 Apr 2024 06:02:07 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197944</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197944</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/197944.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>엘박스, 제13회 변호사시험 합격자 대상으로 '무료 이용' 이벤트 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/197941.jpg" alt="197941.jpg" /&gt;&lt;/p&gt;&lt;b&gt;   &lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;   엘박스&lt;/b&gt;(대표&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="16136"&gt;이진&lt;/span&gt;)가 제13회 변호사시험 합격자를 대상으로 6개월 실무수습 기간 엘박스를 무료로 이용할 수 있는 이벤트를 시작했다.&lt;p&gt;&lt;br /&gt;합격자는 엘박스에 등록된 330만 건의 판결문, 판례보관함, 사건일정관리 등을 포함한 엘박스의 모든 서비스를 6개월간 무료로 사용할 수 있다. 신청 기간은 5월 31일까지고 엘박스 홈페이지에서 합격 인증을 거쳐 참여할 수 있다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;엘박스는 2022년부터 변호사시험 합격자를 대상으로 실무수습 기간 서비스를 무료로 이용할 수 있는 이벤트를 진행해 오고 있다. 엘박스에 따르면 현재 제12회 변호사시험 합격자 중 74%, 제11회 변호사시험 합격자 중 78%가 엘박스를 사용하고 있다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;엘박스는 김앤장 법률사무소에서 5년간 근무한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="16136"&gt;이진&lt;/span&gt;(42·사법연수원 38기) 대표가 2019년 창업한 법률 인공지능 소프트웨어 스타트업이다. 국내 최대인 330만 판례 DB와 주석서, 논문, 유권해석 등 다양한 법률 콘텐츠를 제공하며 1만 8000여 명의 변호사가 이용 중이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;주요 고객은 법무부·경찰청·금융감독원·국방부·고용노동부 등 정부기관과 김앤장·광장·태평양을 포함한 국내 10대 로펌, 삼성전자·SK하이닉스·현대건설·LG·네이버 등 주요 대기업이다.               &lt;/p&gt;&lt;p&gt;&lt;br /&gt;지난 2월에는 판결문 기반 변호사 찾기 서비스 '엘파인드'를 출시했고 4월에는 법률 분야에 특화된 대화형 AI 검색 서비스인 '엘박스 AI'를 출시했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이진 대표는 "제13회 변호사 시험 합격을 진심으로 축하드린다"며 "변호사를 돕는 기술 스타트업으로서 앞으로도 변호사의 업무 환경 혁신을 위해 최선을 다할 것"이라고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Mon, 29 Apr 2024 05:48:54 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197941</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197941</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/197941.jpg</media:thumbnail>
-			<dc:creator>안재명 기자</dc:creator>
-		</item>
-		<item>
-			<title>'임종성 뇌물' 인조잔디 업체 대표, 1600억대 납품 비리로 재판행</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/56955(8).jpg" alt="56955.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;검찰이 공공기관에 납품하는 인조잔디 원가를 부풀려 1600억 원대 부당이득을 챙긴 혐의로 납품업체 대표 등을 기소했다. 이 업체 대표는 임종성(구속 기소) 전 더불어민주당 의원에게 1억 원 상당의 뇌물을 건넨 혐의도 받고 있다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;서울동부지검 형사6부&lt;/b&gt;(&lt;span style="font-weight: bold;" class="lawmanlink" serial="13118"&gt;최순호&lt;/span&gt;&amp;nbsp;부장검사)는 29일 인조잔디 납품업체 A 사 공동대표 2명과 직원 2명을 특정경제범죄가중처벌법상 사기, 위계공무집행방해죄 등으로 불구속기소했다. &lt;br /&gt;&lt;br /&gt;이들은 2018년 10월부터 올 3월까지 전국 학교 운동장, 지방자치단체 체육시설 등 공공기관에 인조잔디를 납품하면서 허위 시험성적서, 원가 부풀리기 등을 통해 인조잔디 가격을 509억 원가량 부풀려 조달청으로부터 납품 대금 1665억 원 상당을 편취한 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;이들은 납품 과정에서 '조달청 우수조달물품'으로 지정받은 제품이 조달납품에 유리하다는 점을 악용했다. 19.9%에 불과한 조달청의 우수조달물품 심사 통과를 위해 제품의 시험성적서를 조작하고 장애인을 이른바 '바지 사장'으로 내세우는 등의 방식을 썼다.&lt;br /&gt;&lt;br /&gt;A 사 인조잔디는 개발단계로 생산한 제품이 없어 성능시험조차 받을 수 없었지만, 중소벤처기업부에 허위 시험성적서를 제출해 성능인증을 받은 것으로 확인됐다. 또 장애인을 명의상 대표이사로 내세워 장애인기업 확인을 받기도 했다. 이들은 중소벤처기업부에서 발급받은 성능인증서, 장애인기업 확인서, 허위 시험성적서, 허위 시공사례 사진 등을 조달청에 제출하고 우수조달물품 지정을 받았다.&lt;br /&gt;&lt;br /&gt;우수조달물품 지정 뒤 공공기관 입찰절차를 거치지 않고 조달청과 정한 단가대로 인조잔디를 판매할 수 있는 제3자단가계약 체결이 가능해지자, 조달청을 속이고 인조잔디 제조원가를 부풀려 부당이익 약 509억 원을 챙긴 것으로 조사됐다. 검찰은 이들이 위조한 거래명세표 등을 이용해 인조잔디 제조원가를 부풀리는 방법으로 약 6년간 총 1479회에 걸쳐 부당한 가격으로 인조잔디를 납품했다고 봤다. 이들이 납품한 인조잔디는 1건당 평균 1억 1200만 원에 납품됐다. 최고 납품가는 28억 원에 달했다.&lt;br /&gt;&lt;br /&gt;A 사 매출액은 2018년 48억 원에서 2019년 255억 원으로 1년만에 5배 넘게 늘었다. 2020년에는 인조잔디 관급시장 점유율 1위를 차지하기도 했다.&lt;br /&gt;&lt;br /&gt;검찰은 이번 사건을 인조잔디 관급납품 사상 최대 규모의 납품 비리로 보고 있다. 지난해 기준 인조잔디 관급납품 규모는 연간 1900억 원 규모에 이른다.&lt;br /&gt;&lt;br /&gt;검찰 관계자는 "이 사건은 공공 조달사업에 대한 국민 신뢰를 깨뜨리고 국가재정에 막대한 손해를 끼치는 한편 각종 성능인증과 조달심사 제도를 무력화시킨 중대범죄"라며 "조달청과 협력해 피고인들이 취득한 불법이익을 전액 환수하는 등 범죄로 인한 이익을 철저히 박탈하고 앞으로도 국가 경제에 악영향을 주는 관급납품 비리를 엄단해 나갈 예정"이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;한편 A 사 대표는 2014년부터 지난해 9월까지 허위 직원에게 급여를 주고 돌려받는 식의 허위 회계처리를 하고, 국회의원에 1억 원가량의 뇌물을 주는 등 회삿돈 117억 원을 횡령한 혐의도 받는다. &lt;br /&gt;&lt;br /&gt;그는 임 전 의원에게 뇌물을 건넨 혐의로 지난달 임 전 의원과 함께 기소됐다. 그는 2019년 11월부터 2021년 7월까지 임 전 의원의 선거 사무실 인테리어 비용과 성형수술 비용을 대납하는 등 1억210만 원 상당의 뇌물을 건넨 혐의를 받는다.</description>
-			<pubDate>Mon, 29 Apr 2024 05:47:06 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197931</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197931</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/56955(8).jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>국회 유니콘팜, "법률시장 혁신 위한 변호사법 개정안 처리 촉구"</title>
-			<description>국회 벤처·스타트업 연구모임인 유니콘팜(공동대표 강훈식 더불어민주당 의원·김성원 국민의힘 의원)이 21대 국회 임기 내 변호사법 개정안의 신속한 처리를 촉구하는 입장문을 29일 발표했다. &lt;br /&gt;&lt;br /&gt;유니콘팜은 이날 '스타트업 혁신법안, 변호사법의 21대 임기 내 처리를 강력히 촉구합니다'라는 입장문을 통해 국회 유니콘팜 5호 법안인 변호사법 개정안과 지난주 국민의힘 윤주경 의원이 대표발의한 변호사법 개정안의 조속한 처리를 촉구했다. &lt;br /&gt;&lt;br /&gt;이들은 해당 입장문에서 "변호사 광고에 대한 합리적 규율을 위한 법으로 여야 공동 5호 법안으로 발의한 바 있다"며 "이미 법사위에서 논의를 마쳤으나, 처리되지 못한 채 계류되어 있다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;이어서 "글로벌 리걸테크 기업들이 국제무대에서 활발히 활동하고, 법률시장에 AI가 활용되는 이 시대에, 3만 4000명의 변호사를 가진 우리나라에서는 이렇다 할 국내 리걸테크 기업 하나가 탄생하지 못하고 있다"면서 "변호사광고에 대한 변호사단체의 부당 규제 권한을 제한하여, 변호사들에게는 더 폭넓은 광고의 자유를 보장하고, 법률소비자들에게는 더 높은 정보접근성을 제공해 법률적 조력을 받을 권리를 실질적으로 보장해줘야 한다. 또한 새로운 기술로 신신업의 영역을 개척해나가는 스타트업들에게는 글로벌 경쟁력을 키울 수 있도록 길을 열어줘야 한다"고 말했다. &lt;br /&gt;&lt;br /&gt;또한 "지난주 국민의힘에서 변호사 광고에 대한 변호사단체의 자의적 제한을 방지하여 소비자와 변호사의 권리를 더 두텁게 보호하고자 하는 변호사법 개정안(윤주경 의원 대표발의)이 발의됐다"며 "이번 법안과 함께 법사위에 계류 중인 변호사 광고 규정 관련 변호사법 개정안들을 신속히 처리해줄 것을 법사위에 강력히 촉구한다"고 밝혔다.</description>
-			<pubDate>Mon, 29 Apr 2024 05:46:46 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197942</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197942</guid>
-			<dc:creator>유지인 기자</dc:creator>
-		</item>
-		<item>
-			<title>【오늘의 국회일정】 2024년 4월 29일</title>
-			<description>&lt;b&gt;◇ 국회의장&lt;/b&gt;&lt;br /&gt;09:30 「주앙 로렌쑤」 앙골라 대통령 접견(국회접견실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 국회사무총장&lt;/b&gt;&lt;br /&gt;08:50 주간업무보고(종합상황실)&lt;br /&gt;&lt;br /&gt;09:30 「주앙 로렌쑤」 앙골라 대통령 접견(국회접견실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 의원실 세미나&lt;/b&gt;&lt;br /&gt;15:00 조승래 의원실 등, 기부자 편의성 강화를 통한 고향사랑기부제 활성화 방안 모색 토론회(의원회관 제5간담회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;◇ 소통관 기자회견&lt;/b&gt;&lt;br /&gt;10:00 최재형 의원, [법치수호 천만인 서명운동 발표 기자회견]&lt;br /&gt;&lt;br /&gt;10:40 권인숙 의원, [외국인아동출생등록법 제정 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 성소미 공보기획관, [5월 1주차 국회 정례브리핑]&lt;br /&gt;&lt;br /&gt;11:20 최승재 의원, [민생회복지원금 관련 기자회견]&lt;br /&gt;&lt;br /&gt;14:00 양이원영 의원, [고준위 방사성폐기물 관리 특별법(고준위법) 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있음.&lt;/span&gt;&lt;/b&gt;</description>
-			<pubDate>Sun, 28 Apr 2024 22:39:49 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197887</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197887</guid>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>【오늘의 법조】 2024년 4월 29일</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[법원]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷'특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 유동규 외 4명 127차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시, 서울중앙지법&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷'국가공무원법위반 등 혐의' 진혜원 검사 공판&lt;/b&gt;&lt;br /&gt;-오전 10시, 서울서부지법&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷'정치자금법위반 등 혐의' 김용 전 민주연구원 부원장 외 3명 3회 공판&lt;/b&gt;&lt;br /&gt;-오후 2시, 서울고법&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷'뇌물공여 등 혐의' 성남FC 후원 의혹 관련 김상헌 전 네이버 대표 외 7명 공판준비기일&lt;/b&gt;&lt;br /&gt;-오후 2시, 수원지법 성남지원&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷양형위원회 신임 전문위원 위촉장 수여식 및 제131차 회의&lt;/b&gt;&lt;br /&gt;-오후 3시30분, 대법원&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[로펌]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷법무법인 율촌, '신산업 시대의 분쟁 해결방안' 세미나&lt;/b&gt;&lt;br /&gt;-오후 1시40분, 서울 강남구 삼성동 파르나스타워 율촌 39층 Lecture Hall&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷법무법인 동인, 차기 동인 대표 선출&lt;/b&gt;&lt;br /&gt;-오후 3시, 서울 서초구 서초동 삼성생명 서초타워 17층 동인 통합 회의실&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:2px 0 0 0; border-style:bold; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[오늘의 PICK ]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;p&gt;&lt;b&gt;▷“새벽 3시에 일어나” “내 일처럼” “책임지고 일한다”&lt;/b&gt;&lt;/p&gt;&lt;p&gt;법률신문의 ‘2024 로펌 컨수머 리포트’에서 김상민(45·사법연수원 37기) 법무법인 태평양 변호사는 삼성전자와 현대차, LG전자, 포스코 등 10대 그룹의 서로 다른 법무담당자 10명으로부터 ‘최고의 변호사’로 꼽혔다.&lt;/p&gt;&lt;p&gt;김 변호사는 ‘최고의 비결’을 묻는 질문에 “고객 회사 직원처럼 일한다”고 대답했다. “새벽 3시에 일과를 시작해 고객이 아침 회의에 들어가기 전 6시에 답변을 드린다”고도 했다.&lt;/p&gt;&lt;p&gt;김 변호사의 답변은 고객이 최고로 꼽은 이유와 일치했다. 기업법무 담당자들은 “회사 일을 자기 일처럼 한다” “정확한 의견을 신속하게 준다” “밀착해서 열정적 적극적으로 일한다”고 평가했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/197869" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;p&gt;&lt;b&gt;▷오동운 공수처장 후보자 "권력 견제·부패범죄 일소 책임 다해 국민 신뢰 받겠다"&lt;/b&gt;&lt;/p&gt;&lt;p&gt;2대 고위공직자범죄수사처장 후보자로 지명된 오동운(55·사법연수원 27기) 변호사가 "공수처의 책임과 역할을 다해 신뢰를 받을 수 있도록 고민하겠다"고 밝혔다.&lt;/p&gt;&lt;p&gt;오 후보자는 "고위공직자 부정부패 척결이라는 국민적 열망과 기대를 안고 설립된 공수처지만 지난 3년 동안 그 기대에 충분히 부응하지 못하였다는 점, 잘 알고 있다"며 "공수처가 명실상부 독립적 수사기관으로서 권력기관을 견제하고 부패범죄를 일소하는 책임과 역할을 다하여 국민 신뢰를 받을 수 있는 방안을 깊이 고민하겠다"고 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/197883" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;</description>
-			<pubDate>Sun, 28 Apr 2024 22:39:46 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197889</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197889</guid>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 무면허로 회사 차 운전 중 사망…법원 "업무상 재해 해당"</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/98211(1).jpg" alt="98211.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;업무 현장으로 이동하며 회사 소유 차량을 몰다 사망한 운전자가 무면허 상태였을지라도 업무상 재해에 해당된다는 법원 판단이 나왔다.&lt;p&gt;&amp;nbsp; &lt;b&gt;&lt;br /&gt;서울행정법원 행정13부&lt;/b&gt;(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="714"&gt;박정대&lt;/span&gt;&amp;nbsp;부장판사)는 지난달 7일 사망한 A 씨의 유족 B, C 씨가 근로복지공단을 상대로 제기한 유족급여 및 장의비 부지급 처분 취소소송에서 원고 승소 판결했다(&lt;b&gt;2022구합68268&lt;/b&gt;).   &lt;p&gt;A 씨는 경기도 화성의 한 공사현장에서 사토 처리 운반업무를 수행했다. 2021년 어느 날 새벽 A 씨는 회사 소유 차량을 운전해 공사현장을 거쳐 사토 하차지를 점검하러 가던 중 전방 우측에 있는 커브길 쪽으로 핸들을 돌리지 못하고 그대로 직진해 도로를 이탈, 배수지로 추락해 사망한 상태로 발견됐다.&lt;/p&gt;   &lt;p&gt;A 씨의 자녀인 원고 B, C 씨는 A 씨의 사망이 업무상 재해에 해당한다고 주장하며 근로복지공단에 유족급여 및 장의비 지급을 청구했다. 하지만 2022년 4월 공단은 '망인(A 씨)은 이 사건 사고 당시 무면허 상태에서 자동차를 운전해 도로교통법 등을 위반한 중대한 과실로 사고가 발생해 사망에 이르게 됐으므로 산업재해보상보험법 제37조 제2항에 따라 업무상 재해로 보지 않음이 타당하다'는 취지로 유족급여 및 장의비 부지급 결정 처분을 했다. 이에 원고들은 이 사건 소송을 제기했다.&lt;/p&gt;   &lt;p&gt;재판에서 원고들 측은 "A 씨가 무면허 상태로 운전을 한 게 이 사건 사고의 직접적인 원인이라고 볼 수 없고, 회사는 A 씨가 회사 차량을 출퇴근과 업무용으로 이용하고 있다는 사실을 알고 있으면서도 별다른 조치를&amp;nbsp;취하지 않는 등 사실상 이를 묵인했으므로 사업주의 구체적인 지시를 위반한 행위라고 볼 수도 없다"고 주장했다.&lt;/p&gt;   &lt;p&gt;      &lt;br /&gt;A 씨는 사고 당시 음주운전으로 면허가 취소된 상태였던 것으로 조사됐다. 앞서 회사 대표 D 씨는 이 사실을 알고 C 씨를 인천 공사현장으로 발령하면서 현장에 있는 숙소에서 출퇴근을 하도록 했다. 또 A 씨의 제안에 따라 A 씨의 아들인 원고 B 씨를 회사에 입사시킨 후 A 씨의 출퇴근 및 휴일 자택 방문 시 차량을 운행해 함께 이동하도록 조치했다. D 씨는 A 씨에게 "이 사건 차량을 운행하지 말라"는 취지로 말하기도 했다.   &lt;/p&gt;   &lt;p&gt;      &lt;br /&gt;인천 공사현장의 업무가 종료된 뒤 A 씨는 화성의 공사현장으로 가 사토 반출 업무를 했는데, 이 현장에는 숙소가 따로 없어 차량으로 출퇴근을 해야 했다. 비슷한 시기 B 씨는 회사를 퇴직했으나 D 씨는 차량을 회수하지 않았다.   &lt;/p&gt;   &lt;p&gt;      &lt;br /&gt;재판부는 "운전면허 보유 여부와 상관없이 망인이 이 사건 차량을 운전할 수 있는 사실상의 능력은 있었고, 무면허운전 행위가 사고 발생의 직접적인 원인이 됐다고 볼 수 없다"고 판단했다.   &lt;/p&gt;   &lt;p&gt;      &lt;br /&gt;또 "사고 현장은 미개통 도로로 이 사고가 온전히 망인의 업무상 과실로 인해 발생한 것이라고 볼 수 있을지 의문"이라며 "안전에 관한 주의의무를 조금이라도 게을리했을 경우 도로 여건이나 교통상황 등 주변 여건과 결합해 언제든지 현실화할 수 있는 업무 자체에 내재된 전형적인 위험이 현실화된 것"이라고 봤다.   &lt;/p&gt;   &lt;p&gt;      &lt;br /&gt;재판부는 "출퇴근 시 차량을&amp;nbsp;필요로&amp;nbsp;하는 상황이 됐고 이후 C 씨가 퇴직했음에도 회사는 차량을 회수하지 않는 등 A 씨가 이 사건 차량을 운전하는 것을 사실상 묵인한 것으로 판단된다"고도 지적했다.   &lt;/p&gt;   &lt;/p&gt;</description>
-			<pubDate>Sun, 28 Apr 2024 22:28:51 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197856</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197856</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/98211(1).jpg</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 수출용 차량 야적장에 운반하는 하청업체 직원… "현대차 직접고용 대상 아냐"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/197814.jpg" alt="197814.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;완성된 수출용 차량을 컨테이너 야적장으로 운송하는 업무를 하는 하청업체 직원은 원청업체의 직접고용 대상자가 아니라는 대법원 판단이 나왔다.&lt;p&gt;&amp;nbsp;&amp;nbsp;   &lt;p&gt;&lt;b&gt;대법원 민사1부&lt;/b&gt;(주심 노태악 대법관)는 4일 현대자동차 협력업체인 B 사 소속 근로자 A 씨 등 26명이 현대자동차를 상대로 낸 근로자 지위 확인 등 청구 소송(&lt;b&gt;2020다299306&lt;/b&gt;)에서 원고패소 판결한 원심을 그대로 확정했다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;B 사는 현대차 울산 공장에서 생산한 차량을 수출선적부두 근처 야적장으로 이동시켜 주차하는 업무(치장업무)를 맡았다. B 사 소속 근로자인 A 씨 등은 자신들이 맡은 업무는 현대차의 차종 생산단계에서 출고업무 중 일부에 해당한다며 자신들은 파견근로자이고 현대차가 사용사업주에 해당해 직접 고용해야 한다며 소송을 냈다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;1심은 "A 씨 등의 업무는 실제 계약이행에서 근무시간 등 근로조건의 설정·관리 방식이 컨베이어를 이용한 직접생산공정과 크게 다르지 않았다"며 "현대차가 시스템으로 A 씨 등의 업무를 실시간으로 관리하며, 해당 업무의 수행에 필요한 지시가 필요한 경우 형식적으로 B 사 관리자를 통해 하는 등 사용사업주가 지휘·명령권을 보유·행사한 반면, B 사가 소속 근로자들에 대한 독자적인 지휘·명령을 했다는 정황을 찾아보기 어렵다"며 A 씨 등의 손을 들어줬다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;하지만 2심은 "B 사와 현대차는 근로자파견관계에 있었다고 볼 수 없으므로, 현대차에 A 씨 등을 직접 고용할 의무가 발생했다고 할 수 없다"며 판단을 뒤집었다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp; &lt;br /&gt;2심은 "B 사가 맡은 치장업무는 생산이 완료된 수출용 차량을 수출선적장에서 야적장까지 이송하는 '생산 후 공정' 내지 '생산 후 업무'"라며 "이는 직접생산공정과는 명확히 구분되고, 보전·물류·생산관리업무 등 직접생산공정과 긴밀하게 연동되는 간접생산공정과도 차이가 있다"고 판단했다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;이어 "따라서 직·간접생산공정을 수행하는 현대차의 다른 사내협력업체 소속 근로자들에 대한 파견근로관계 인정 여부는 이 사건의 결론에 영향을 미치지 않는다"며 "B 사의 업무는 파견법상 파견이 금지되지 않는 업무로서 파견계약에 의해서건 도급계약에 의해서건 수행이 가능하다"고 설명했다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp; &lt;br /&gt;또 "B 사 근로자들과 현대차 사이에는 지휘·명령관계의 징표들을 발견하기 어렵고 직접생산공정의 경우와 같이 자동화된 시스템으로 지휘·명령을 대체했다고 볼 만한 사정도 찾을 수 없다"며 "이들은 통상적인 치장업무 외에도 부수적인 업무를 했으나 이는 도급계약에 따라 부담한 의무의 일부라고 봄이 타당하다"고 했다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;대법원도 원심 판결에 잘못이 없다며 판결을 확정했다. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;   &lt;/p&gt;</description>
-			<pubDate>Sun, 28 Apr 2024 21:26:38 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197814</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197814</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/197814.jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>오동운 공수처장 후보자 지명</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/197874(2).jpg" alt="197874.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;100일 가까이 비어있던 고위공직자범죄수사처 수장에 판사 출신인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2045"&gt;오동운&lt;/span&gt;(55·사법연수원 27기·사진) 변호사가 지명되면서 공수처가 지휘부 공백을 해소하고 사건 수사에 속도를 낼 수 있을지 주목된다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;공수처는 26일 윤석열 대통령이 오 후보자를 지명함에 따라 국회 인사청문회 작업에 돌입했다. 2대 공수처장 후보자가 지명된 건 김진욱 초대 처장이 1월 20일 퇴임한 지 97일, 공수처장 후보추천위원회가 최종 후보 2인을 추천한 지 57일 만이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;서울대를 졸업한 오 후보자는 1998년부터 19년간 판사로 일했다. 성동세무서 국세심사위원, 인천지방국세청 조세법률고문 등을 역임했다. 오 후보자는 “공수처가 명실상부 독립적 수사기관으로서 권력기관을 견제하고 부패범죄를 일소하는 책임과 역할을 다하여 국민 신뢰를 받을 수 있는 방안을 깊이 고민하겠다”고 말했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;공수처는 김 전 처장의 퇴임과 여운국 전 차장의 임기 만료 이후 후보자를 선정하는 추천위에서부터 공전했다. 지휘부 공백은 부장들이 서열순으로 대신해 메꿨지만 역부족이었다. 주요 사안에 결정을 내리고 책임을 질 수장이 없는 탓에 수사도 좀처럼 속도를 내지 못했다. 특히 ‘해병대 채상병 순직 사건 수사 외압’ 의혹 피의자 중 한 명인 이종섭 전 국방부장관의 호주 대사 임명·출국금지 해제 논란으로 법무부 등과 갈등을 겪으며 여당으로부터 “선거 개입을 하려 한다”는 공격을 받기도 했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;공수처장 지명이 늦어지자 야권은 해병대 채상병 사건 등의 수사를 무력화하려는 게 아니냐는 의심의 눈초리를 보냈다. 민주당은 ‘채상병 특검법’을 다음달 2일 본회의에서 처리하겠다고 공언했는데, 공수처는 26일 유재은 국방부 법무관리관을 불러 조사했다. 처장 후보자 지명도 이날 이뤄졌다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;대통령실 관계자는 채상병 특검법이 거론되는 시점에 후보자가 지명된 것에 대해 “특검법은 공수처 수사와 무관하게 작년 9월 발의된 것으로 안다. 공수처장 지명과 특검법을 연결하는 것은 부당하다”고 설명했다. 야권은 “오 후보자가 공정한 수사를 할 수 있는 인물인지 의심스럽다”며 “특검 요구가 예상되는 시점에 공수처장을 지명한 건 우연이 아닐 것”이라고 밝혔다.&amp;nbsp; 공수처는 국회, 신상, 언론, 행정 등 4개 팀으로 구성해 오 후보자의 인사청문회를 준비한다.&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Sun, 28 Apr 2024 20:37:02 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197894</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197894</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/197874(2).jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
