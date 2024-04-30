@@ -6,6 +6,25 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>"내년부터 법원행시에 인사혁신처 PSAT 문제 출제된다"</title>
+			<description>2025년부터 법원행정고등고시에 인사혁신처가 실시하는 국가공무원 5급 공개채용시험 PSAT 문제가 출제된다.&lt;p&gt;   &lt;b&gt;&lt;br /&gt;법원행정처&lt;/b&gt;(처장 천대엽)와 &lt;b&gt;인사혁신처&lt;/b&gt;(처장 김승호)는 30일 대법원에서 '법원행정고등고시 제1차 시험 PSAT 문제 공동활용에 관한 업무협약(MOU)'을 체결했다.   &lt;p&gt;&amp;nbsp; &lt;br /&gt;내년부터 법원행정고등고시 제1차 시험에 민법·형법 과목이 폐지되고 공직적격성평가(PSAT)가 도입됨에 따라, 인사혁신처가 출제하는 5급 공개채용시험의 헌법, 언어논리영역, 자료해석영역, 상황판단영역 문제를 공동 활용하는 것이 이번 협약의 골자다.      &lt;p&gt;         &lt;br /&gt;법원행정처는 이를 위해 3월 28일 법원공무원규칙을 개정해 시험의 공동 또는 위탁 실시에 관한 근거규정을 신설했다. 이번 협약을 통해 인사혁신처로부터 헌법과 PSAT 과목 문제의 출제, 인쇄, 이의 및 정답 확정 등 시험 운영에 관해 종합적인 지원을 받게 된다.         &lt;p&gt;            &lt;br /&gt;천대엽 행정처장은 "이번 협약을 계기로 국민의 눈높이에 맞는 유능한 인재들이 선발되고, 양 기관이 더욱 협력하고 발전할 수 있는 기회가 되기를 바란다"고 말했다.            &lt;p&gt;               &lt;br /&gt;법원행정처 관계자는 "인사혁신처가 가진 풍부한 PSAT 출제 경험과 전문성이 법원공무원 채용 절차에서 종합적인 이해와 사고력을 갖춘 역량 있는 인재를 선발하는 밑거름이 될 것"이라고 말했다.            &lt;/p&gt;         &lt;/p&gt;      &lt;/p&gt;      &lt;/p&gt;&lt;/p&gt;</description>
+			<pubDate>Tue, 30 Apr 2024 06:22:02 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197968</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197968</guid>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] 서울고법 "尹 대통령 취임 후 특수활동비, 영화관람비용 등 내역 공개해야"…1심과 판단 같아</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/197986.jpg" alt="197986.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;윤석열 대통령 취임 후 대통령실이 지출한 특수활동비 내역과 영화관람 비용 등을 공개해야 한다는 법원 판단이 항소심에서도 유지됐다.&lt;p&gt;&lt;b&gt;&lt;br /&gt;서울고법 행정1-3부&lt;/b&gt;(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9082"&gt;이승한&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3090"&gt;심준보&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2379"&gt;김종호&lt;/span&gt;&amp;nbsp;부장판사)는 30일 시민단체 한국납세자연맹이 대통령 비서실장을 상대로 제기한 정보공개거부처분 취소소송 2심에서 항소를 기각하고 1심의 원고일부승소 판결을 유지했다(&lt;b&gt;2023누59874&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;&lt;br /&gt;앞서 1심은 2022년 6월 윤 대통령과 부인 김건희 여사가 영화 '브로커'를 관람할 당시 지출한 비용 내역과 같은해 5월 윤 대통령이 서울 강남의 한 한식당에서 지출한 저녁 식사 비용 내역을 공개해야 한다는 납세자연맹 측 주장을 받아들였다. 또 윤 대통령 취임 이후 지출된 대통령실 특수활동비 내역 일부도 공개 대상이라고 판단했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;다만 윤 대통령 취임 후 지출한 대통령실 업무추진비 내역에 대해서는 이미 공개됐다는 이유로 각하했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;납세자연맹은 대통령실에 이러한 지출 내역을 공개하라고 주장하며 정보공개청구를 했지만 거부됐다. 이에 불복한 납세자연맹은 대통령비서실 행정심판위원회에 행정심판을 제기했지만 경호상 문제를 이유로 2022년 11월 기각됐다. 이에 납세자연맹은 소송을 냈다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Tue, 30 Apr 2024 06:17:09 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197986</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197986</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/197986.jpg</media:thumbnail>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
 			<title>태평양, '글로벌 미래전략센터' 출범 기념 컨퍼런스 열어… 센터장은 성 김 前 주한 미국대사</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/197972.jpg" alt="197972.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;성 김 태평양 글로벌 미래전략센터장&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.bkl.co.kr/law?lang=ko" target="_blank"&gt;&lt;b&gt;법무법인 태평양&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8313"&gt;이준기&lt;/span&gt;)이 29일 서울 종로구 공평동 태평양 본사에서 ‘글로벌 미래전략센터’ 출범을 기념하는 컨퍼런스를 개최했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8313"&gt;이준기&lt;/span&gt;(58·사법연수원 22기) 태평양 대표변호사는 개회사에서 “미중 갈등, 미국 대선을 포함한 각국 지도자 교체, 세계 각지의 전쟁, 다양한 글로벌 규제의 도입 등으로 우리 기업은 해외시장에서 많은 도전을 받고 있다”며 “태평양은 성 김(김성용) 전 주한 미국대사를 영입하고 글로벌 미래전략센터를 출범해 우리 기업이 해외시장의 불확실성을 극복하고 각종 규제에 대응하는 데 조력할 예정”이라고 설명했다.&lt;br /&gt;&lt;br /&gt;이어 성 김 태평양 글로벌 미래전략센터장은 ‘글로벌 리스크와 불확실성을 넘어서’라는 주제로 발표했다. 그는 미국 대선 이후의 변화, 미국 인플레이션 감축법(IRA), 미중 갈등, 글로벌 공급망, 미국의 대북정책 등을 중심으로 대응전략 수립의 중요성을 강조했다.&lt;br /&gt;&lt;br /&gt;</description>
 			<pubDate>Tue, 30 Apr 2024 03:22:33 -0000</pubDate>
@@ -217,25 +236,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197894</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/197874(2).jpg</media:thumbnail>
 			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>“주관식 평가 뼈아팠다…외국기업도 평가 참여했으면”</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/197888.jpg" alt="197888.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법률신문 ‘2024 로펌 컨수머 리포트’를 소개한 보도가 나가자 시장의 평가를 그대로 담은 결과 못지않게 짜임새 있는 문항과 오염 가능성을 최소화한 설문 진행 방식에 대한 호평이 이어졌다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;한국사내변호사회 회장을 역임한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10710"&gt;이완근&lt;/span&gt;(49·사법연수원 33기) BHSN 최고대외협력책임자(CAO)는 “답변 오염 방지와 공정성 확보에 신경 쓴 부분을 가장 높이 산다”고 했다. 과거 평가들에선 로펌 변호사가 기업 변호사에게 청탁을 해서 평가 결과가 오염되는 현상이 있을 수 있었는데 이번 평가에는 그런 이슈 없이 진행하려고 노력한 흔적이 역력했다는 것이다. 한 대형로펌의 홍보 담당자는 “평가 설문이 올 초부터 진행됐다고 하던데 우리 로펌 홍보 담당자와 경영진 모두 모르고 있었다. 평가가 외부에 알려지지 않고 대기업 법무팀 내에서 은밀하게 진행된 것 같아 그만큼 평가 결과 왜곡이 적었을 것 같다”고 평가했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;법률신문은 로펌 컨수머 리포트의 공정성과 객관성을 높이기 위해 ‘이전에 없던 장치’를 여럿 고안했다. 우선 30대 그룹과 5대 금융지주의 소속 기업 117곳의 법무 담당자들을 파악한 후 각 기업 법무팀 수에 맞춰 설문 링크를 각각 생성했다. 응답 개수는 해당 인원에 맞춰 제한했다. 정원 이상의 답변 제출을 막고 설문 링크를 공유할 수 없게 함으로써 ‘대리 응답’을 원천 차단했다. 이 외에도 설문 기간 평가자가 외부의 어떤 영향도 받지 않도록 하기 위해 보안에 각별히 신경 썼다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;14개 역량 평가 항목에 대해서는 “로펌 선임부터 진행, 사후설명까지 실제 이용단계별 평가를 담아낸 문항이 인상적이었다” “추상적으로 생각하던 인식을 실체화해서 확인할 수 있었다” 등의 반응이 나왔다. 법률신문은 지난해 기획을 준비하면서부터 기업 법무 전문가들의 도움을 받아 실제 기업 현장에서 가장 크게 느끼는 로펌 서비스 수준을 비교할 수 있도록 문항을 설계했다. 그 결과 전문성이나 가격, 소통 능력 외에도 전략수립, 진행안정성, 상세하고 객관적인 설명 등 진행 단계별 평가와 파트너의 업무관여도, 대관업무 능력, 재선임 및 추천의사 등 실제 현장에서 로펌을 평가하는 항목들을 다수 포함시켰다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;특히 주관식 항목에 대한 반응이 뜨거웠다. 한 로펌 파트너 변호사는 “‘어쏘 변호사에게 일 맡겨두고 리뷰만 한다’는 답변은 우리 로펌에 대한 것이 아니어도 뼈아팠다. 사실 일이 너무 많을 때 파트너는 사건에 대한 관여도 중요한 것을 알면서도 놓치는 경우가 있다. 이번 설문이 자성의 계기가 됐다”고 말했다. 김상곤(56·23기) 광장 대표변호사는 “고객의 기대치에 맞출 수 있게 평가 결과를 매니지먼트에 반영하고, 모든 팀의 균질화에 신경 써야겠다고 느꼈다”고 말했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;로펌의 간접 평가자인 법원 내부에서도 “한국에서는 특정 로펌이 전 분야 최고라는 인식이 있는데, 세부 항목에 대한 평가가 나와 도움이 됐다”는 반응이 나왔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;국내 진출한 외국 기업들도 설문에 참여했으면 좋겠다는 의견을 보내왔다. 한 대형로펌 변호사는 “외국 기업도 한국 로펌을 찾는 큰 고객인 만큼, 다음 설문에서는 외국 기업 소속 법무 담당자도 평가에 참여했으면 한다”고 말했다. 반대로 외국 로펌을 평가 대상에 넣는 방안도 제시됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;법률신문은 올해를 시작으로 매년 법의 날에 맞춰 ‘로펌 컨수머 리포트’를 계속 발간하기로 했다. 이를 통해 국내 법률시장 선진화와 로펌·소비자 간 정보비대칭 해소에 기여하려는 취지다. 내년 평가에는 30대 그룹 및 5대 금융지주에 국한하지 않고 이번에 상대적으로 득표수가 적었던 중소 로펌들도 적극적인 평가 대상이 될수 있도록 이들 로펌을 많이 사용하는 중소 기업군까지 평가 대상을 대폭 확대할 예정이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/197888_0.jpg" alt="197888_0.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</description>
-			<pubDate>Sun, 28 Apr 2024 20:00:22 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197888</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197888</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/197888.jpg</media:thumbnail>
-			<dc:creator>홍수정 기자</dc:creator>
-		</item>
-		<item>
-			<title>'국선전담 변호사' 6일까지 추가 모집</title>
-			<description>&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;b&gt;법원행정처&lt;/b&gt;(처장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5602"&gt;천대엽&lt;/span&gt;)이 30일부터 다음 달 6일까지 국선전담 변호사를 추가로 모집한다. 추가로 선발하는 법원은 강릉지원이다.&lt;p&gt;&lt;br /&gt;지원 자격은 각 법원(지원) 관할의 지방변호사회에 등록돼 있거나 위촉일인 6월 1일 이전에 등록할 예정인 변호사로 1명을 선발할 예정이다.   &lt;/p&gt;&lt;p&gt;&lt;br /&gt;선발된 변호사는 6월 1일부터 2026년 2월 28일까지 국선전담 변호사로 활동하게 된다. 재위촉도 가능하다.      &lt;/p&gt;&lt;p&gt;&lt;br /&gt;국선전담 변호사는 월 20~40건의 국선전담 재판을 맡게 되며, 보수는 월 600만 원(세전)이다. 2~4년의 국선전담 변호사 근무 경력이 있는 경우에는 월 700만 원(세전), 4년 이상 근무 경력이 있는 경우에는 월 800만 원(세전)이다.         &lt;/p&gt;&lt;p&gt;&lt;br /&gt;사무실은 무상으로 제공하며 월 60만 원의 사무실운영비도 지원된다.            &lt;/p&gt;&lt;p&gt;&lt;br /&gt;국선전담 변호사의 업무 외의 일체 소송대리 및 유료상담은 금지된다. 단 소송구조 과정에서 맡게 된 민사사건이나 친족이 당사자인 사건은 예외적으로 허용된다.               &lt;/p&gt;&lt;p&gt;&lt;br /&gt;신청자는 대법원 홈페이지에서 접수하면 된다. 우편이나 전자우편 접수는 받지 않는다.               &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Sun, 28 Apr 2024 20:00:21 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197882</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197882</guid>
-			<dc:creator>박수연 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
