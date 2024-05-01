@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>"모가지 따줄게" 만취해 경찰 때린 경찰 재판행</title>
+			<description>술에 취해 현장에 출동한 경찰을 폭행한 혐의를 받는 50대 경찰관이 재판에 넘겨졌다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;서울동부지검 형사4부&lt;/b&gt;(&lt;span style="font-weight: bold;" class="lawmanlink" serial="13142"&gt;김승걸&lt;/span&gt;&amp;nbsp;부장검사)는 1일 서울경찰청 소속 경위인 50대 A 씨를 공무집행방해 혐의로 불구속 기소했다. &lt;br /&gt;&lt;br /&gt;검찰에 따르면, A 씨는 2월 서울 성동구의 한 도로에서 술에 취해 난동을 부린다는 신고를 받고 출동한 정복 착용 경찰관 2명을 위협하면서 바닥에 넘어뜨리고 발로 차는 등 폭행한 혐의를 받는다. 당시 A 씨는 택시 기사와 실랑이를 벌이던 중이었다.&lt;br /&gt;&lt;br /&gt;검찰 관계자는 "이 사건은 현직 경찰관이 정복 착용 경찰의 공무집행을 방해한 사건"이라며 "검찰은 법과 원칙에 따라 엄정 대처했고 피고인의 책임에 상응하는 형이 선고될 수 있도록 공소수행에 만전을 기하겠다"고 밝혔다.</description>
+			<pubDate>Wed, 01 May 2024 07:16:34 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198004</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198004</guid>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
 			<title>법무부, 항공기 제조산업에 연 300명 외국인력 도입</title>
 			<description>구인난을 겪는 국내 항공기 제조산업 분야에 300명의 외국인 인력이 들어올 수 있게 됐다.  &lt;br /&gt;&lt;b&gt;&lt;br /&gt;법무부&lt;/b&gt;(장관&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1239"&gt;박성재&lt;/span&gt;)와&lt;b&gt; 산업통상자원부&lt;/b&gt;(장관 안덕근)는 1일 국내 항공기 제조산업 분야에 특정활동(E-7) 외국인력 도입을 허용하는 '항공기(부품) 제조원' 직종 신설 계획을 발표했다. E-7은 법무부 장관이 특별히 지정한 87개 직종에 한해 외국인력 도입을 허용하는 취업 비자다. &lt;br /&gt;&lt;br /&gt;항공기 제조산업은 코로나 팬데믹 후 국경 간 이동 정상화와 수출 활성화 등으로 호황을 맞이했지만, 필요 인력을 충분히 구하지 못해 생산에 차질을 겪고 있다.&lt;br /&gt;&lt;br /&gt;이에 법무부와 산업부는 한국항공우주산업진흥협회 등 관계기관과의 협업하고, 업계 의견 수렴을 통해 연 300명의 범위에서 2년간 E-7 외국인력 도입을 허용하는 시범운영 계획을 세웠다. &lt;br /&gt;&lt;br /&gt;업계에서도 외국인력 도입과 함께 국민고용을 창출‧지원하기 위해 내국인 대상 취업 교육을 확대하고, 핵심 인력의 장기근속 유도를 위한 상생 지원 등을 지속 추진하기로 했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1239"&gt;박성재&lt;/span&gt;&amp;nbsp;법무부 장관은 "앞으로도 구인난이 심각한 산업분야에 우수 외국인력 도입을 허용하는 동시에 국민고용 보호‧촉진을 위한 지원체계 강화방안도 함께 검토해 경제 활성화를 위한 균형 잡힌 비자 제도 개선을 추진하겠다"고 했다.&lt;br /&gt;&lt;br /&gt;안덕근 산업통상자원부 장관은 "이번 비자 제도 개선은 항공산업계의 인력 애로 해소, 생산 확대와 수주 증가 등 국내 항공제조업계의 경쟁력 강화에 크게 기여할 것으로 기대한다"며 "앞으로 관계부처와 협력해 우수인력 양성 사업 등도 적극 지원해 나갈 것"이라고 했다.</description>
 			<pubDate>Wed, 01 May 2024 04:19:18 -0000</pubDate>
@@ -223,16 +232,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197992</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/197992.jpg</media:thumbnail>
 			<dc:creator>이순규 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] '강남 학원가 마약음료 사건' 주범, 2심서 징역 18년…1심보다 형량 3년 늘어</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/197991.jpg" alt="197991.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;강남 학원가에서 마약이 섞인 음료를 학생들에게 나눠주고 이를 마시게 한 혐의 등으로 재판에 넘겨진 일당이 항소심에서도 실형을 선고받았다. 주범은 1심보다 형량이 3년 늘었다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;서울고법 형사5부&lt;/b&gt;(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3966"&gt;권순형&lt;/span&gt;&amp;nbsp;부장판사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11539"&gt;안승훈&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="14895"&gt;심승우&lt;/span&gt;&amp;nbsp;고법판사)는 30일 마약류 관리에 관한 법률 위반(향정) 등 혐의로 구속기소된 길모 씨에게 징역 15년을 선고한 1심 판결을 파기하고 징역 18년을 선고했다(&lt;b&gt;2023노3480&lt;/b&gt;). 범행에 함께 가담한 혐의로 기소된 김모 씨에게는 징역 8년을 선고한 1심을 파기하고 징역 10년을 선고했다. 필로폰 공급책 박모 씨와 보이스피싱 모집책 이모 씨에게는 1심과 같이 각각 징역 10년, 징역 7년을 선고했다.&lt;p&gt;&lt;br /&gt;항소심 재판부는 "이 사건은 해외에 거점을 둔 특정 보이스피싱 범죄집단이 국내 학원 밀집지역에서 불특정 다수의 미성년자를 표적으로 삼아 시음행사를 가장해 마약음료를 마시게 한 뒤 그 부모를 협박해 금전을 갈취하려고 사전에 치밀하게 계획한 다음, 구성원들이 각자의 역할에 따라 실제 실행에 옮긴 사건"이라며 "새로운 유형의 범죄일 뿐만 아니라, 죄질이 매우 불량하다"고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;주범 길 씨의 범행에 대해선 "마약음료 100병을 직접 제조하고 설문지 복사 및 배송 등 범행의 실행에 있어 핵심적인 역할을 수행했다"며 "미성년자를 오로지 영리 취득을 위한 도구로 이용한 점, 마약음료에는 1병당 최소 1회 사용량의 3.3배에 달하는 0.1g가량의 필로폰이 함유된 것으로 보이는 점, 마약음료를 건네받은 13명 중 이를 마신 9명은 당시 15~17세의 미성년 학생(아동)이었던 점 등에 비춰 죄질이 매우 불량하다"고 했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;검찰에 따르면 이 사건의 주범 길 씨는 중국에 있는 보이스피싱 총책 등과 함께 마약음료를 제조한 뒤 미성년자들에게 투약하게 하고, 이를 빌미로 마약음료를 마신 미성년자들의 부모로부터 금품을 갈취하려 했다. 그는 제조한 마약 음료를 '집중력 강화 음료'의 무료시음 행사인 것처럼 속여 미성년자 등에게 이를 마시도록 해 영리목적으로 필로폰을 투약했다. 피해자는 청소년 13명, 학부모 6명이다. 이를 복용한 청소년 피해자 중 6명은 환각 증상이 발현되기도 하는 상해를 입었다. 이후 중국의 보이스피싱 조직원들로 하여금 돈을 주지 않으면 자녀의 마약투약을 신고하겠다고 학부모를 협박하도록 했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;김 씨는 변작중계기를 사용해 중국 인터넷 전화번호를 국내 휴대전화번호로 위장하는 중계기와 유심칩 등을 이용·관리하며 협박 전화를 도운 혐의, 박 씨는 이른바 '던지기' 수법으로 필로폰 10g을 은닉하고 길 씨가 이를 수거하도록 전달한 혐의로 기소됐다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;앞서 1심은 "범행 이후 이 사건에 대한 국민적 공분이 최고조에 달해 피해자들이 학업에 제대로 집중하기 어려웠을 것임은 자명하고, 마약 투약으로 인한 신체적인 자각 증상 외 부정적인 영향은 다방면으로 나타날 수 있어 앞으로 피해자들이 감내해야 할 피해의 크기를 가늠하기 어렵다"며 이들의 공소사실에 대해 모두 유죄로 인정했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Tue, 30 Apr 2024 07:28:57 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197991</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197991</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/197991.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
