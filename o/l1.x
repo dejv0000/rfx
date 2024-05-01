@@ -6,6 +6,25 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>법무부, 항공기 제조산업에 연 300명 외국인력 도입</title>
+			<description>구인난을 겪는 국내 항공기 제조산업 분야에 300명의 외국인 인력이 들어올 수 있게 됐다.  &lt;br /&gt;&lt;br /&gt;법무부(장관 박성재)와 산업통상자원부(장관 안덕근)는 1일 국내 항공기 제조산업 분야에 특정활동(E-7) 외국인력 도입을 허용하는 '항공기(부품) 제조원' 직종 신설 계획을 발표했다. E-7은 법무부 장관이 특별히 지정한 87개 직종에 한해 외국인력 도입을 허용하는 취업 비자다. &lt;br /&gt;&lt;br /&gt;항공기 제조산업은 코로나 팬데믹 후 국경 간 이동 정상화와 수출 활성화 등으로 호황을 맞이했지만, 필요 인력을 충분히 구하지 못해 생산에 차질을 겪고 있다.&lt;br /&gt;&lt;br /&gt;이에 법무부와 산업부는 한국항공우주산업진흥협회 등 관계기관과의 협업하고, 업계 의견 수렴을 통해 연 300명의 범위에서 2년간 E-7 외국인력 도입을 허용하는 시범운영 계획을 세웠다. &lt;br /&gt;&lt;br /&gt;업계에서도 외국인력 도입과 함께 국민고용을 창출‧지원하기 위해 내국인 대상 취업 교육을 확대하고, 핵심 인력의 장기근속 유도를 위한 상생 지원 등을 지속 추진하기로 했다.&lt;br /&gt;&lt;br /&gt;박성재 법무부 장관은 "앞으로도 구인난이 심각한 산업분야에 우수 외국인력 도입을 허용하는 동시에 국민고용 보호‧촉진을 위한 지원체계 강화방안도 함께 검토해 경제 활성화를 위한 균형 잡힌 비자 제도 개선을 추진하겠다"고 했다.&lt;br /&gt;&lt;br /&gt;안덕근 산업통상자원부 장관은 "이번 비자 제도 개선은 항공산업계의 인력 애로 해소, 생산 확대와 수주 증가 등 국내 항공제조업계의 경쟁력 강화에 크게 기여할 것으로 기대한다"며 "앞으로 관계부처와 협력해 우수인력 양성 사업 등도 적극 지원해 나갈 것"이라고 했다.</description>
+			<pubDate>Wed, 01 May 2024 04:19:18 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198005</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198005</guid>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>헌재 “주민증에 지문 수록 주민등록법 조항은 합헌”</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/197943.jpg" alt="197943.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;주민등록증에 지문을 수록하도록 한 주민등록법 조항은 헌법에 어긋나지 않는다는 헌법재판소 첫 결정이 나왔다.&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;헌법재판소&lt;/b&gt;는 지난 달 25일 A 씨 등이 “이 같은 내용을 담은 주민등록법 제24조 제2항 등이 기본권을 침해했다”며 청구한 헌법소원사건(&lt;b&gt;2020헌마542&lt;/b&gt;)에서 재판관 전원일치 의견으로 합헌 결정했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;헌재는 △주민등록증 발급신청서에 열 손가락의 지문을 찍도록 한 구 주민등록법 시행령 조항에 대해서는 8(기각) 대 1(위헌) 의견으로 △시장·군수·구청장이 주민등록증 발급신청서를 관할 경찰서의 지구대장 또는 파출소장에게 보내도록 한 구 주민등록법 시행규칙 조항에 대해서는 2대(기각) 4(위헌) 대 3(각하) 의견으로 △피청구인 경찰청장이 지문정보를 보관·전산화하고 이를 범죄수사목적에 이용하는 행위에 대해서는 5(기각) 대 4(위헌) 의견으로 각각 합헌 결정했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;헌재는 “앞서 헌재는 2005년과 2015년 결정(99헌마513 등, 2011헌마731)에서 이 사건 시행령 조항과 같은 내용의 구 시행령 조항과 경찰청장이 주민등록증 발급신청서에 날인되어 있는 지문정보를 보관하고 이를 전산화해 범죄수사목적에 이용하는 행위가 과잉금지원칙에 위반되지 않는다고 판단했다”며 “앞선 결정에서는 이 사건 법률 조항이 과잉금지원칙에 위반되는지는 판단하지 않았지만 선례가 지적하듯 시행령 조항과 보관 등 행위는 불가분의 일체를 이뤄 지문정보의 수집·보관·전산화·이용이라는 넓은 의미의 지문날인제도를 구성하는 것이므로 시행령 조항과 보관 등 행위의 법률상 근거가 되는 이 사건 법률 조항 역시 넓은 의미의 지문날인제도를 구성한다”고 설명했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;이어 “이 사건 법률 조항은 열 손가락 지문을 요구하지 않는다는 점을 제외하고는 시행령 조항과 기본권 제한의 내용에 큰 차이가 없어 시행령 조항과 보관 등 행위가 과잉금지원칙에 위반되지 않는다고 본 선례의 설시는 이 사건 법률조항에 대해서도 그대로 타당하다”며 “선례들과 달리 판단해야 할 특별한 사정변경이나 필요성이 인정되지 않아 이 사건 법률 조항·시행령 조항·보관 등 행위는 청구인의 개인정보 자기결정권을 침해하지 않는다”고 판단했다.&lt;/p&gt;</description>
+			<pubDate>Wed, 01 May 2024 03:30:01 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/197943</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197943</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/197943.jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 법조】2024년 5월 1일</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[법원]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷'특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 송영길 전 더불어민주당 대표 12차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시, 서울중앙지법&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷ '공직선거법위반 혐의' 조국 전 법무부장관 아들 관련 사건 최강욱 전 더불어민주당 의원 6회 공판&lt;/b&gt;&lt;br /&gt;-오후 2시 40분, 서울고법&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;   &lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[법무부]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷2024년 신임검사 임관식&lt;/b&gt;&lt;br /&gt;-오후 2시, 정부과천청사 후생동 지하 1층 대강당&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:2px 0 0 0; border-style:bold; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;   &lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[오늘의 PICK ]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷ 기업이 가장 불만족한 서비스는 ‘IT·TMT’ 분야&lt;/b&gt;&lt;br /&gt;국내 주요 기업 법무담당자들은 로펌들의 ‘정보기술 및 방송·정보통신(IT·TMT)’ 업무 수행능력에 대해 가장 불만족하는 것으로 나타났다. 법률신문이 ‘2024 로펌 컨수머 리포트’에서 분야별로 설문한 총 11개 업무 평가 가운데 IT·TMT 부문만 유일하게 3점(보통)대를 기록했다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;   &lt;a href="https://www.lawtimes.co.kr/news/197852" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;b&gt;&lt;br /&gt;▷ [인터뷰] “새벽 3시 일어나” “내 일처럼” “책임진다”&lt;/b&gt;&lt;br /&gt;법률신문의 ‘2024 로펌 컨수머 리포트’에서 김상민(45·사법연수원 37기) 법무법인 태평양 변호사는 삼성전자와 현대차, LG전자, 포스코 등 10대 그룹의 서로 다른 법무담당자 10명으로부터 ‘최고의 변호사’로 꼽혔다. 엄격하고 까다로운 고객인 기업법무담당자로부터 ‘최고’로 꼽히는 것은 그만큼 어려운 일인데, 김 변호사는 10명에게서 ‘최고 변호사’로 선정됐다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;   &lt;a href="https://www.lawtimes.co.kr/news/197869" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;</description>
 			<pubDate>Tue, 30 Apr 2024 22:56:12 -0000</pubDate>
@@ -213,26 +232,6 @@
 			<link>https://www.lawtimes.co.kr/news/197991</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197991</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/197991.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>"내년부터 법원행시에 인사혁신처 PSAT 문제 출제된다"</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/197968.jpg" alt="197968.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;2025년부터 법원행정고등고시에 인사혁신처가 실시하는 국가공무원 5급 공개채용시험 PSAT 문제가 출제된다.&lt;p&gt;&lt;b&gt;&lt;br /&gt;법원행정처&lt;/b&gt;(처장 천대엽)와 &lt;b&gt;인사혁신처&lt;/b&gt;(처장 김승호)는 30일 대법원에서 '법원행정고등고시 제1차 시험 PSAT 문제 공동활용에 관한 업무협약(MOU)'을 체결했다.   &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;내년부터 법원행정고등고시 제1차 시험에 민법·형법 과목이 폐지되고 공직적격성평가(PSAT)가 도입됨에 따라, 인사혁신처가 출제하는 5급 공개채용시험의 헌법, 언어논리영역, 자료해석영역, 상황판단영역 문제를 공동 활용하는 것이 이번 협약의 골자다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/197968_1.jpg" alt="197968_1.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;법원행정처는 이를 위해 3월 28일 법원공무원규칙을 개정해 시험의 공동 또는 위탁 실시에 관한 근거규정을 신설했다. 이번 협약을 통해 인사혁신처로부터 헌법과 PSAT 과목 문제의 출제, 인쇄, 이의 및 정답 확정 등 시험 운영에 관해 종합적인 지원을 받게 된다.         &lt;/p&gt;&lt;p&gt;&lt;br /&gt;천대엽 행정처장은 "이번 협약을 계기로 국민의 눈높이에 맞는 유능한 인재들이 선발되고, 양 기관이 더욱 협력하고 발전할 수 있는 기회가 되기를 바란다"고 말했다.            &lt;/p&gt;&lt;p&gt;&lt;br /&gt;법원행정처 관계자는 "인사혁신처가 가진 풍부한 PSAT 출제 경험과 전문성이 법원공무원 채용 절차에서 종합적인 이해와 사고력을 갖춘 역량 있는 인재를 선발하는 밑거름이 될 것"이라고 말했다.            &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Tue, 30 Apr 2024 06:22:02 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197968</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197968</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/197968.jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 서울고법 "尹 대통령 취임 후 특수활동비, 영화관람비용 등 내역 공개해야"…1심과 판단 같아</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/197986.jpg" alt="197986.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;윤석열 대통령 취임 후 대통령실이 지출한 특수활동비 내역과 영화관람 비용 등을 공개해야 한다는 법원 판단이 항소심에서도 유지됐다.&lt;p&gt;&lt;b&gt;&lt;br /&gt;서울고법 행정1-3부&lt;/b&gt;(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9082"&gt;이승한&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3090"&gt;심준보&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2379"&gt;김종호&lt;/span&gt;&amp;nbsp;부장판사)는 30일 시민단체 한국납세자연맹이 대통령 비서실장을 상대로 제기한 정보공개거부처분 취소소송 2심에서 항소를 기각하고 1심의 원고일부승소 판결을 유지했다(&lt;b&gt;2023누59874&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;&lt;br /&gt;앞서 1심은 2022년 6월 윤 대통령과 부인 김건희 여사가 영화 '브로커'를 관람할 당시 지출한 비용 내역과 같은해 5월 윤 대통령이 서울 강남의 한 한식당에서 지출한 저녁 식사 비용 내역을 공개해야 한다는 납세자연맹 측 주장을 받아들였다. 또 윤 대통령 취임 이후 지출된 대통령실 특수활동비 내역 일부도 공개 대상이라고 판단했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;다만 윤 대통령 취임 후 지출한 대통령실 업무추진비 내역에 대해서는 이미 공개됐다는 이유로 각하했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;납세자연맹은 대통령실에 이러한 지출 내역을 공개하라고 주장하며 정보공개청구를 했지만 거부됐다. 이에 불복한 납세자연맹은 대통령비서실 행정심판위원회에 행정심판을 제기했지만 경호상 문제를 이유로 2022년 11월 기각됐다. 이에 납세자연맹은 소송을 냈다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Tue, 30 Apr 2024 06:17:09 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197986</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197986</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/197986.jpg</media:thumbnail>
 			<dc:creator>한수현 기자</dc:creator>
 		</item>
 	</channel>
