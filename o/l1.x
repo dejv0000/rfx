@@ -6,6 +6,24 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>【오늘의 국회일정】 2024년 5월 3일</title>
+			<description>&lt;b&gt;◇ 의원실 세미나&lt;/b&gt;&lt;br /&gt;09:30 이수진 의원실 등, 40%가 된 일본 중학교 '위험한'교과서, 어떻게 대응할 것인가?(의원회관 제8간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 신현영 의원실 등, 탄자니아 ODA 사업, 국회와 소통하다(의원회관 제5간담회의실)&lt;br /&gt;&lt;br /&gt;13:30 최승재 의원실, 비동의강간죄 신설 적절한가?(의원회관 제2소회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;◇ 소통관 기자회견&lt;/b&gt;&lt;br /&gt;09:00 주이삭 개혁신당 대변인, [개혁신당 허은아 당대표 후보 지지 선언 기자회견]&lt;br /&gt;&lt;br /&gt;10:20 우원식 의원, [윤석열 정권의 독립영웅 흉상 '육사 내 재배치' 규탄 기자회견]&lt;br /&gt;&lt;br /&gt;09:40 오기형 의원, ['경로당 주 5일 점심밥상' 추진 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 한기호 의원, [정치 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:20 고민정 의원, [EBS 압수수색 등 언론탄압 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:40 민형배 의원, [정치 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있음.&lt;/span&gt;&lt;/b&gt;</description>
+			<pubDate>Thu, 02 May 2024 22:39:49 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198059</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198059</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
+			<title>【오늘의 법조】2024년 5월 3일</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[법원]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷'특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 유동규 외 4명 128차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시, 서울중앙지법&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷'직권남용권리행사방해 등 혐의' 서훈 전 청와대 국가안보실장 외 4명 24차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시, 서울중앙지법&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:2px 0 0 0; border-style:bold; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[오늘의 PICK ]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷'창원 간첩단 사건' 국정원 증인 수십 명, 간첩 피고인과 함께 출석할 처지&lt;/b&gt;&lt;br /&gt;'창원 간첩단'으로 불리는 자주통일민중전위(자통) 관계자들의 국가보안법 위반 등 사건이 서울중앙지법에서 창원지법으로 이송되면서, 국정원 증인 수십 명이 간첩 의혹을 받는 피고인들과 같은 법정 출입구를 이용해 법정에 출석해야 하는 상황에 놓였다. 창원지법의 법정 출구가 한정돼 있어 자통 관계자에게 국정원 직원들의 신분이 노출될 우려가 생긴 것이다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/198049" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;b&gt;&lt;br /&gt;▷전국법관대표회의, 대법관후보추천위원에 권창환 부장판사 선출&lt;/b&gt;&lt;br /&gt;전국법관대표회의(의장 김예영)가 대법관후보추천위원회 위원으로 권창환(49·사법연수원 36기) 부산회생법원 부장판사를 선출했다. 전국법관대표회의는 2일 "8월 2일 임기 만료 예정인 김선수(63·17기)·이동원(61·17기)·노정희(61·19기) 대법관의 후임 대법관 후보자 추천을 위해 구성되는 대법관후보추천위원회에 대법관 아닌 법관 위원으로 권 부장판사를 추천하기로 의결했다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/198036" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Thu, 02 May 2024 22:39:46 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198050</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198050</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>이원석 검찰총장 "사법의 정치화…좌고우면 말고 정도 걸어야"</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="http://image.lawtimes.co.kr/images/PYH2024042318100005200(1).jpg" alt="PYH2024042318100005200.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;“‘태산처럼 무겁고 담담하게(靜重如山·정중여산)’ 맡은 책무를 완수하기 바란다.”&lt;p&gt;   &lt;br /&gt;&amp;nbsp;이원석 검찰총장이 2일 임진왜란 당시 이순신 장군이 옥포해전을 앞두고 군사들에게 한 당부(물령망동 정중여산·勿令妄動 靜重如山: 경거망동하지 않고 태산처럼 신중하게 행동하라)를 인용하며 ‘사법의 정치화’ 시도에 의연하게 대처할 것을 주문했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 총장은 이날 대검찰청 월례회의에서 “재판받는 피고인이 법정 밖에서 검찰을 향해 터무니없는 거짓을 늘어놓고 ‘없는 사실을 입증하라’고 목청을 높이고, 사법시스템을 뒤흔들어 법망(法網)을 찢고 빠져나가려는 불법부당한 시도가 계속되고 있다”면서 “상대가 저열하게 나오더라도 우리는 정도를 걸으며 지혜를 모아 좌고우면하지 말고 오로지 국민만 바라보라”면서 이같이 말했다. ‘쌍방울 불법 대북 송금 사건’으로 재판 중인 이화영 전 경기도 평화부지사가 주장하고 있는 ‘검찰청 술판 회유’ 의혹을 직격한 것이다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 총장은 “사법에서 다루어져야 할 문제를 정치적인 문제로 변질시켜 정쟁화했다”면서 “소방서·구조대가 허위신고로 혼란에 빠지면 위급상황 대응시스템이 무너지는 것처럼 허위·조작과 기만으로 사법시스템이 흔들리면 범죄로부터 사회를 방위하는 법치가 무너져 결국 피해는 고스란히 국민에게 돌아간다”고 밝혔다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;앞서 지난달 23일에도 이 총장은 이 전 부지사에 대해 “중대한 부패 범죄자가 1심 선고를 앞두고 허위 주장을 하면서 사법 시스템을 무너뜨리고 붕괴하려는 시도를 하고 있다”며 “법원과 검찰의 사법 시스템을 무력화시키는 일을 그만둬야 한다”고 지적했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 총장이 이순신 장군의 어록을 인용한 것은 이번이 처음이 아니다. 지난해 5월 ‘마약범죄 근절 대책회의’에서 ‘일부당경 족구천부(一夫當逕 足懼千夫: 한 사람이 길목을 지키면 족히 1000명을 두렵게 할 수 있다)’라는 말을 인용해 마약과의 전쟁에서 승리할 것을 독려했다. 명량해전을 앞두고 충무공이 조선 수군에게 했던 말로 전해진다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 총장은 평소 수사에 있어서도 이순신 장군이 즐겨썼던 ‘선승구전(先勝求戰)’을 강조해온 것으로 전해졌다. 손자병법에 나오는 말로, ‘먼저 승리를 확보하고 전쟁에 임하라’는 뜻이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Thu, 02 May 2024 15:57:14 -0000</pubDate>
@@ -222,24 +240,6 @@
 			<link>https://www.lawtimes.co.kr/news/198010</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198010</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/198010(1).jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>"모가지 따줄게" 만취해 경찰 때린 경찰 재판행</title>
-			<description>술에 취해 현장에 출동한 경찰을 폭행한 혐의를 받는 50대 경찰관이 재판에 넘겨졌다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;서울동부지검 형사4부&lt;/b&gt;(&lt;span style="font-weight: bold;" class="lawmanlink" serial="13142"&gt;김승걸&lt;/span&gt;&amp;nbsp;부장검사)는 1일 서울경찰청 소속 경위인 50대 A 씨를 공무집행방해 혐의로 불구속 기소했다. &lt;br /&gt;&lt;br /&gt;검찰에 따르면, A 씨는 2월 서울 성동구의 한 도로에서 술에 취해 난동을 부린다는 신고를 받고 출동한 정복 착용 경찰관 2명을 위협하면서 바닥에 넘어뜨리고 발로 차는 등 폭행한 혐의를 받는다. 당시 A 씨는 택시 기사와 실랑이를 벌이던 중이었다.&lt;br /&gt;&lt;br /&gt;검찰 관계자는 "이 사건은 현직 경찰관이 정복 착용 경찰의 공무집행을 방해한 사건"이라며 "검찰은 법과 원칙에 따라 엄정 대처했고 피고인의 책임에 상응하는 형이 선고될 수 있도록 공소수행에 만전을 기하겠다"고 밝혔다.</description>
-			<pubDate>Wed, 01 May 2024 07:16:34 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198004</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198004</guid>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무부, 항공기 제조산업에 연 300명 외국인력 도입</title>
-			<description>구인난을 겪는 국내 항공기 제조산업 분야에 300명의 외국인 인력이 들어올 수 있게 됐다.  &lt;br /&gt;&lt;b&gt;&lt;br /&gt;법무부&lt;/b&gt;(장관&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1239"&gt;박성재&lt;/span&gt;)와&lt;b&gt; 산업통상자원부&lt;/b&gt;(장관 안덕근)는 1일 국내 항공기 제조산업 분야에 특정활동(E-7) 외국인력 도입을 허용하는 '항공기(부품) 제조원' 직종 신설 계획을 발표했다. E-7은 법무부 장관이 특별히 지정한 87개 직종에 한해 외국인력 도입을 허용하는 취업 비자다. &lt;br /&gt;&lt;br /&gt;항공기 제조산업은 코로나 팬데믹 후 국경 간 이동 정상화와 수출 활성화 등으로 호황을 맞이했지만, 필요 인력을 충분히 구하지 못해 생산에 차질을 겪고 있다.&lt;br /&gt;&lt;br /&gt;이에 법무부와 산업부는 한국항공우주산업진흥협회 등 관계기관과의 협업하고, 업계 의견 수렴을 통해 연 300명의 범위에서 2년간 E-7 외국인력 도입을 허용하는 시범운영 계획을 세웠다. &lt;br /&gt;&lt;br /&gt;업계에서도 외국인력 도입과 함께 국민고용을 창출‧지원하기 위해 내국인 대상 취업 교육을 확대하고, 핵심 인력의 장기근속 유도를 위한 상생 지원 등을 지속 추진하기로 했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1239"&gt;박성재&lt;/span&gt;&amp;nbsp;법무부 장관은 "앞으로도 구인난이 심각한 산업분야에 우수 외국인력 도입을 허용하는 동시에 국민고용 보호‧촉진을 위한 지원체계 강화방안도 함께 검토해 경제 활성화를 위한 균형 잡힌 비자 제도 개선을 추진하겠다"고 했다.&lt;br /&gt;&lt;br /&gt;안덕근 산업통상자원부 장관은 "이번 비자 제도 개선은 항공산업계의 인력 애로 해소, 생산 확대와 수주 증가 등 국내 항공제조업계의 경쟁력 강화에 크게 기여할 것으로 기대한다"며 "앞으로 관계부처와 협력해 우수인력 양성 사업 등도 적극 지원해 나갈 것"이라고 했다.</description>
-			<pubDate>Wed, 01 May 2024 04:19:18 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198005</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198005</guid>
 			<dc:creator>임현경 기자</dc:creator>
 		</item>
 	</channel>
