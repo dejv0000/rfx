@@ -6,6 +6,56 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>이원석 검찰총장 "사법의 정치화…좌고우면 말고 정도 걸어야"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="http://image.lawtimes.co.kr/images/PYH2024042318100005200(1).jpg" alt="PYH2024042318100005200.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;“‘태산처럼 무겁고 담담하게(靜重如山·정중여산)’ 맡은 책무를 완수하기 바란다.”&lt;p&gt;   &lt;br /&gt;&amp;nbsp;이원석 검찰총장이 2일 임진왜란 당시 이순신 장군이 옥포해전을 앞두고 군사들에게 한 당부(물령망동 정중여산·勿令妄動 靜重如山: 경거망동하지 않고 태산처럼 신중하게 행동하라)를 인용하며 ‘사법의 정치화’ 시도에 의연하게 대처할 것을 주문했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 총장은 이날 대검찰청 월례회의에서 “재판받는 피고인이 법정 밖에서 검찰을 향해 터무니없는 거짓을 늘어놓고 ‘없는 사실을 입증하라’고 목청을 높이고, 사법시스템을 뒤흔들어 법망(法網)을 찢고 빠져나가려는 불법부당한 시도가 계속되고 있다”면서 “상대가 저열하게 나오더라도 우리는 정도를 걸으며 지혜를 모아 좌고우면하지 말고 오로지 국민만 바라보라”면서 이같이 말했다. ‘쌍방울 불법 대북 송금 사건’으로 재판 중인 이화영 전 경기도 평화부지사가 주장하고 있는 ‘검찰청 술판 회유’ 의혹을 직격한 것이다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 총장은 “사법에서 다루어져야 할 문제를 정치적인 문제로 변질시켜 정쟁화했다”면서 “소방서·구조대가 허위신고로 혼란에 빠지면 위급상황 대응시스템이 무너지는 것처럼 허위·조작과 기만으로 사법시스템이 흔들리면 범죄로부터 사회를 방위하는 법치가 무너져 결국 피해는 고스란히 국민에게 돌아간다”고 밝혔다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;앞서 지난달 23일에도 이 총장은 이 전 부지사에 대해 “중대한 부패 범죄자가 1심 선고를 앞두고 허위 주장을 하면서 사법 시스템을 무너뜨리고 붕괴하려는 시도를 하고 있다”며 “법원과 검찰의 사법 시스템을 무력화시키는 일을 그만둬야 한다”고 지적했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 총장이 이순신 장군의 어록을 인용한 것은 이번이 처음이 아니다. 지난해 5월 ‘마약범죄 근절 대책회의’에서 ‘일부당경 족구천부(一夫當逕 足懼千夫: 한 사람이 길목을 지키면 족히 1000명을 두렵게 할 수 있다)’라는 말을 인용해 마약과의 전쟁에서 승리할 것을 독려했다. 명량해전을 앞두고 충무공이 조선 수군에게 했던 말로 전해진다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 총장은 평소 수사에 있어서도 이순신 장군이 즐겨썼던 ‘선승구전(先勝求戰)’을 강조해온 것으로 전해졌다. 손자병법에 나오는 말로, ‘먼저 승리를 확보하고 전쟁에 임하라’는 뜻이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Thu, 02 May 2024 15:57:14 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198064</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198064</guid>
+			<media:thumbnail>http://image.lawtimes.co.kr/images/PYH2024042318100005200(1).jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>검찰, 4년간 21억 원 편취한 노소영 관장 전 비서 구속기소</title>
+			<description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/198063.jpg" alt="198063.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;노소영 아트센터 나비 관장의 명의를 도용하고 계좌 예금을 임의로 이체해 21억여 원을 빼돌린 비서가 구속상태로 재판에 넘겨졌다.&lt;p&gt;&lt;b&gt;&lt;br /&gt;서울서부지검 형사4부&lt;/b&gt;(부장검사 유효제)는 노 관장의 전 비서 A 씨를 특정경제범죄가중처벌 등에 관한 법률 위반(사기) 및 사문서 위조 혐의 등으로 2일 구속기소했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;검찰에 따르면 A 씨는 노 관장 명의의 전자금융거래신청서와 가입신청서 등을 위조해 은행 계좌와 휴대폰을 개설한 뒤 약 4년간 4억 3800만 원 상당을 대출받았다. 또 노 관장 명의 계좌의 예금 11억 9400만 원을 자기 명의 계좌로 이체해 사용한 혐의를 받는다. 이밖에 A 씨는 노 관장 행세를 하면서 아트센터 직원을 속여 소송자금 명목으로 5억 원을 송금하도록 했다. A 씨가 불법적으로 취득한 금액은 21억 3200만 원에 달하는 것으로 조사됐다.&lt;br /&gt;&lt;br /&gt;검찰은 계좌추적 등 보완수사를 통해 A 씨가 빼돌린 돈을 카드대금 결제와 주택 임대차 보증금으로 사용한 사실을 확인한 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;노 관장은 올해 1월 A씨를 사기 등 혐의로 서울 용산경찰서에 고소했다. 경찰은 지난달 16일 A 씨를 특정경제범죄법상 사기 및 사문서위조 등의 혐의로 구속 송치했다.&lt;/p&gt;</description>
+			<pubDate>Thu, 02 May 2024 14:27:26 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198063</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198063</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/198063.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>로앤컴퍼니-머스트노우, 법률 전문가의 'AI 실무역량 강화' 위한 MOU 체결</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/198052.jpg" alt="198052.jpg" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;리걸테크 기업 로앤컴퍼니&lt;/b&gt;(대표 김본환)와 &lt;b&gt;&lt;a href="https://www.mustknow.co.kr/" target="_blank"&gt;법률사무소 머스트노우&lt;/a&gt;&lt;/b&gt;(대표 조우성)가 함께 법률 전문가의 AI 실무역량을 강화해 나가기로 약속했다. &lt;br /&gt;&lt;br /&gt;로앤컴퍼니와 머스트노우가 법률 AI 이용 및 교육 활성화를 위한 업무협약을 체결했다고 2일 밝혔다. 협약식은 30일 서울 강남구 대치동 로앤컴퍼니 사옥에서 열렸다. 김본환 로앤컴퍼니 대표,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3274"&gt;안기순&lt;/span&gt;(54·사법연수원 27기) 법률AI연구소장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5813"&gt;조우성&lt;/span&gt;(55·23기) 법률사무소 머스트노우 대표 변호사,&amp;nbsp;이민하(33·변호사시험 10회) 주식회사 이포비 대표 등이 참석했다. &lt;br /&gt;&lt;br /&gt;이번 협약에 따라 두 기관은 향후 법률 AI 교육 프로그램 개발 및 사업 구축, 홍보 등에 적극적으로 상호 협력할 예정이다. &lt;br /&gt;&lt;br /&gt;김본환 대표는 “향후 AI 기술은 업무 경쟁력을 높일 수 있는 도구로서 의미 있는 역할을 하게 될 것”이라며 “이번 협약으로 로앤컴퍼니가 다년간 축적해 온 법률 AI 연구·개발 역량을 적극 활용해 법률 전문가의 업무 환경 향상 및 이용자 저변 확대에 기여하기를 기대한다”고 밝혔다. 조우성 변호사는 "앞으로 법률소비자도 AI 기술을 활발하게 이용하게 되는 만큼, 변호사 개인도 AI 활용 능력을 높이는 것이 생존을 위해 필요한 최소한의 요건이 될 것"이라고 말했다. &lt;br /&gt;&lt;br /&gt;로앤컴퍼니는 2019년 법률AI연구소를 설립해 AI 기술을 활용한 혁신 서비스를 연구·개발해 왔다. 2022년 AI 모델 개발 경진대회를 개최해 법률 AI 연구 생태계 활성화에 기여한 바 있다. 변호사의 업무 효율 및 생산성 제고를 목표로 개발한 B2B SaaS 솔루션 '슈퍼로이어'가 6월 출시를 앞두고 있다. 슈퍼로이어에는 ▲판례·법령·실무정보 '리서치' ▲소장·내용증명 등 ‘법률문서 작성' ▲대규모 '법률문서 요약' ▲맥락에 따른 ‘사용자 문서 기반 질의응답' 기능 등이 탑재되며, 향후 머스트노우에서 진행할 법률 AI 교육에 활용될 예정이다. &lt;br /&gt;&lt;br /&gt;머스트노우는 드라마 '이상한 변호사 우영우' 에피소드의 원작자로 알려진 조우성 변호사가 대표 변호사로 있는 종합 법률사무소다. 조 변호사는 서울대학교 법과대학과 대학원을 거쳐 법무법인 태평양에서 18년 간 민사총괄부 및 기업소송부 파트너 변호사로 근무했다. 2000년부터 기업 및 관공서 대상으로 법률 및 리더십, AI 실전 활용법 등을 강의했다. &lt;br /&gt;</description>
+			<pubDate>Thu, 02 May 2024 12:35:53 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198052</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198052</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/198052.jpg</media:thumbnail>
+			<dc:creator>유지인 기자</dc:creator>
+		</item>
+		<item>
+			<title>김종근 변호사, 한국세무사회 법률자문변호사에 위촉</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/198060.jpg" alt="198060.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="http://www.yulwoo.com/" target="_blank"&gt;&lt;b&gt;법무법인 율우&lt;/b&gt;&lt;/a&gt;&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2651"&gt;김종근&lt;/span&gt;(50·사법연수원 29기) 변호사가 한국세무사회(회장 구재이) 법률자문변호사에 위촉됐다. &lt;br /&gt;&lt;br /&gt;한국세무사회는 김 변호사를 지난달 23일 법률자문변호사로 위촉했다고 2일 밝혔다. &lt;br /&gt;&lt;br /&gt;김 변호사는 순천고와 서울대 법학과를 졸업했다. 1997년 제29회 사법시험에 합격해 2003년 서울지방검찰청 검사로 임관했다. 이후 서울중앙지방검찰청 부부장검사, 대검찰청 감찰1과장, 창원지방검찰청 차장검사 등을 지냈다. 2021년 변호사로 개업한 그는 지난해 8월부터 법무법인 율우에서 근무하고 있다.&lt;br /&gt;&lt;br /&gt;또한 그는 서울시립대 세무전문대학원에서 세무학 석·박사 학위를 취득한 조세법 전문가로, 학술서 《조세형사법해설》(2022) 등을 냈다.</description>
+			<pubDate>Thu, 02 May 2024 12:32:22 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198060</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198060</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/198060.jpg</media:thumbnail>
+			<dc:creator>유지인 기자</dc:creator>
+		</item>
+		<item>
+			<title>국정원 증인 수십 명, 간첩 피고인과 함께 출석해야...'창원 간첩단 사건'</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/769(47).jpg" alt="769.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;이른바 '창원 간첩단'으로 불리는 자주통일민중전위(자통) 관계자들의 국가보안법 위반 등 사건이 서울중앙지법에서 창원지법으로 이송되면서, 국가정보원 측 증인 수십 명이 간첩 의혹을 받는 피고인들과 같은 출입구를 이용해 법정에 출석해야 하는 상황에 놓였다. 창원지법의 법정 출구가 한정돼 있어 자통 관계자에게 국정원 직원들의 신분이 노출될 우려가 생긴 것이다. 검찰은 이같은 상황 등을 이유로 창원지법에서 서울중앙지법으로 재이송해달라고 요청했다. 일각에서는 기소된 지 1년이 넘은 사건이 창원지법에 이송되면서 피고인들의 재판 지연 전략이 성공했다는 지적이 나온다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 국정원 증인 수십 명, 신분 노출 우려&lt;/b&gt;&lt;br /&gt;서울중앙지검 공공수사1부(김종현 부장검사)는 2일 국가보안법 위반 등 혐의로 기소된 자통 총책 황모 씨 등 4명의 사건을 중앙지법으로 재이송해달라고 요청하는 의견서를 창원지법에 제출했다. 형사소송법 요건에 맞지 않고 재판 지연 문제가 심각해 신속한 재판을 진행할 필요가 있다는 이유에서다.&lt;p&gt;앞서 지난달 17일 서울중앙지법 형사합의30부(재판장 강두례 부장판사)는 이 사건을 창원지법으로 이송했다. 재판부는 사건 기록이 방대해 증거조사에 많은 시일이 걸릴 것으로 예상되는 만큼 집중심리가 이뤄지도록 이송을 결정한 것으로 알려졌다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;하지만 검찰 측은 당시 재판부에 의견서를 제출하며 이송 결정 전 수십 명의 국정원 증인들의 신분이 노출될 우려가 있고, 이미 재판이 많이 지연된 상황이라는 점을 호소하며 재판부 이송을 반대했다고 한다. 이 사건 증인은 60여 명에 달하는 것으로 알려졌다. 그중 대다수는 정보·보안 업무 특성상 외부에 신분이 노출되는 것을 주의해야 할 국정원 소속이다. 하지만 창원지법은 법정 출입구가 하나 뿐이라, 이들이 법정에 증인으로 출석하게 될 경우 피고인 등을 비롯한 자통 관계자들에게 신분이 노출될 수 있는 상황에 놓였다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;◇ "재판부 쇼핑 전략 먹힌 셈"&lt;/b&gt;&lt;br /&gt;법조계에서는 줄곧 사건 이송을 요구했던 피고인 측이 결국 이송 결정을 받아내면서, 재판부 쇼핑 전략이 성공했다는 지적이 나온다. 재판 절차마다 문제를 제기하고 재판부를 교체하는 방식으로 재판을 지연시킬 수 있다는 선례를 남겼다는 우려도 있다. 앞서 황 씨 등은 재판에 넘겨진 뒤, 재판관할이전과 국민참여재판, 위헌법률심판 제청을 신청했다. 모두 받아들여지지 않자 지난해 재판부가 형사소송법상 적법 절차를 지키지 않았다며 재판부 기피 신청을 내고, 재판장인 강 부장판사를 고위공직자범죄수사처에 고발하기도 했다. 그동안 정식 공판 기일은 2번 밖에 열리지 못했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;형사소송법 제8조 1항은 '법원은 피고인이 그 관할구역 내에 현재하지 아니하는 경우에 특별한 사정이 있으면 결정으로 사건을 피고인의 현재지를 관할하는 동급 법원에 이송할 수 있다'고 정해 법원이 형사사건을 직권이송할 수 있도록 하고 있다. 하지만 피고인인 황 씨 등 4명 가운데 1명만이 주소지가 창원지법의 관할지로 돼 있어, 굳이 재판부를 옮기지 않아도 되는 상황이다. 또 재판부 변경으로 인해 공판 기일이 열릴 때까지 다시 2~3개월이 소요될 것으로 보인다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;한 지방법원 부장판사는 "다수 피해자나 피고인이 지방에 있으면 해당 지역으로 사건을 이송하기도 하지만, 이 사건의 경우는 이례적인 것 같다"며 "쉽게 이해되지는 않는 결정"이라고 말했다.&lt;/p&gt;</description>
+			<pubDate>Thu, 02 May 2024 12:25:04 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198049</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198049</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/769(47).jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
 			<title>'文정부 검찰총장' 김오수 전 검찰총장 변호사 취업 '실패'</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/198058(1).jpg" alt="198058.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;문재인 정부의 마지막 검찰 수장이었던&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2667"&gt;김오수&lt;/span&gt;(61·사법연수원 20기) 전 검찰총장의 로펌 복귀가 무산됐다. 정부공직자윤리위원회가 김 전 총장의 취업 심사 요청을 승인하지 않았기 때문이다. &lt;br /&gt;&lt;br /&gt;공직자윤리위는 김 전 총장의 취업 심사 요청에 대해 불승인 결정했다고 2일 밝혔다. 김 전 총장이 취업하려던 법무법인 화현에서의 업무가 공직 시절 수행한 업무와 관련될 가능성이 있고, 법령상 취업을 승인할 특별한 사유에도 해당하지 않는다고 판단했기 때문이다. 윤리위는 이같은 내용을 포함한 퇴직 공직자의 취업 심사 결과 60건을 홈페이지에 공개했다.&lt;br /&gt;&lt;br /&gt;김 전 총장은 지난달 초 화현에서 변호사로 근무하겠다고 취업 심사를 신청한 것으로 알려졌다. 화현은 김 전 총장이 2020년 법무부 차관에서 퇴임한 뒤 검찰총장이 되기 전까지 몸담았던 곳이다. 당시 화현 고문 변호사로 월 1900만~2900만 원씩 자문료를 받았다고 한다. 이후 2021년 6월 문재인 정부의 마지막 검찰총장으로 임명됐고 2022년 5월 퇴임했다. &lt;br /&gt;&lt;br /&gt;공직자윤리법에 따라 검사는 퇴직 후 3년 간 연 매출 100억 원 이상 로펌에 취업하려면 취업 심사를 받아야 하는데, 2019년 첫 취업 당시엔 화현이 매출 기준에 들지 않아 심사 대상 기관이 아니었던 것으로 알려졌다. 화현이 매출 100억 원을 초과한 2021년부터 취업 심사 대상 기관으로 지정되면서 김 전 총장도 이번 심사를 받았다.&lt;br /&gt;&lt;br /&gt;윤리위는 지난달 26일 김 전 총장의 취업을 불허했다. 정부는 김 전 총장이 퇴직 전 5년 동안 처리한 업무 성격·비중·빈도가 화현에서 담당할 업무에 영향력을 행사할 가능성이 있다고 판단했다. &lt;br /&gt;&lt;br /&gt;한편 이번 윤리위 심사에서는 김 전 총장 이외에도 경찰청 경감 퇴직자의 로엘 법무법인 고문 취업, 외교부 특임공관장 출신의 한국금융연구원 취업에도 불승인 결정을 내렸다.</description>
 			<pubDate>Thu, 02 May 2024 10:10:14 -0000</pubDate>
@@ -191,54 +241,6 @@
 			<link>https://www.lawtimes.co.kr/news/198005</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198005</guid>
 			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>헌재 “주민증에 지문 수록 주민등록법 조항은 합헌”</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/197943.jpg" alt="197943.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;주민등록증에 지문을 수록하도록 한 주민등록법 조항은 헌법에 어긋나지 않는다는 헌법재판소 첫 결정이 나왔다.&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;헌법재판소&lt;/b&gt;는 지난 달 25일 A 씨 등이 “이 같은 내용을 담은 주민등록법 제24조 제2항 등이 기본권을 침해했다”며 청구한 헌법소원사건(&lt;b&gt;2020헌마542&lt;/b&gt;)에서 재판관 전원일치 의견으로 합헌 결정했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;헌재는 △주민등록증 발급신청서에 열 손가락의 지문을 찍도록 한 구 주민등록법 시행령 조항에 대해서는 8(기각) 대 1(위헌) 의견으로 △시장·군수·구청장이 주민등록증 발급신청서를 관할 경찰서의 지구대장 또는 파출소장에게 보내도록 한 구 주민등록법 시행규칙 조항에 대해서는 2대(기각) 4(위헌) 대 3(각하) 의견으로 △피청구인 경찰청장이 지문정보를 보관·전산화하고 이를 범죄수사목적에 이용하는 행위에 대해서는 5(기각) 대 4(위헌) 의견으로 각각 합헌 결정했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;헌재는 “앞서 헌재는 2005년과 2015년 결정(99헌마513 등, 2011헌마731)에서 이 사건 시행령 조항과 같은 내용의 구 시행령 조항과 경찰청장이 주민등록증 발급신청서에 날인되어 있는 지문정보를 보관하고 이를 전산화해 범죄수사목적에 이용하는 행위가 과잉금지원칙에 위반되지 않는다고 판단했다”며 “앞선 결정에서는 이 사건 법률 조항이 과잉금지원칙에 위반되는지는 판단하지 않았지만 선례가 지적하듯 시행령 조항과 보관 등 행위는 불가분의 일체를 이뤄 지문정보의 수집·보관·전산화·이용이라는 넓은 의미의 지문날인제도를 구성하는 것이므로 시행령 조항과 보관 등 행위의 법률상 근거가 되는 이 사건 법률 조항 역시 넓은 의미의 지문날인제도를 구성한다”고 설명했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;이어 “이 사건 법률 조항은 열 손가락 지문을 요구하지 않는다는 점을 제외하고는 시행령 조항과 기본권 제한의 내용에 큰 차이가 없어 시행령 조항과 보관 등 행위가 과잉금지원칙에 위반되지 않는다고 본 선례의 설시는 이 사건 법률조항에 대해서도 그대로 타당하다”며 “선례들과 달리 판단해야 할 특별한 사정변경이나 필요성이 인정되지 않아 이 사건 법률 조항·시행령 조항·보관 등 행위는 청구인의 개인정보 자기결정권을 침해하지 않는다”고 판단했다.&lt;/p&gt;</description>
-			<pubDate>Wed, 01 May 2024 03:30:01 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197943</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197943</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/197943.jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>【오늘의 법조】2024년 5월 1일</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[법원]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷'특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 송영길 전 더불어민주당 대표 12차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시, 서울중앙지법&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷ '공직선거법위반 혐의' 조국 전 법무부장관 아들 관련 사건 최강욱 전 더불어민주당 의원 6회 공판&lt;/b&gt;&lt;br /&gt;-오후 2시 40분, 서울고법&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;   &lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[법무부]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷2024년 신임검사 임관식&lt;/b&gt;&lt;br /&gt;-오후 2시, 정부과천청사 후생동 지하 1층 대강당&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:2px 0 0 0; border-style:bold; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;   &lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[오늘의 PICK ]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷ 기업이 가장 불만족한 서비스는 ‘IT·TMT’ 분야&lt;/b&gt;&lt;br /&gt;국내 주요 기업 법무담당자들은 로펌들의 ‘정보기술 및 방송·정보통신(IT·TMT)’ 업무 수행능력에 대해 가장 불만족하는 것으로 나타났다. 법률신문이 ‘2024 로펌 컨수머 리포트’에서 분야별로 설문한 총 11개 업무 평가 가운데 IT·TMT 부문만 유일하게 3점(보통)대를 기록했다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;   &lt;a href="https://www.lawtimes.co.kr/news/197852" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;b&gt;&lt;br /&gt;▷ [인터뷰] “새벽 3시 일어나” “내 일처럼” “책임진다”&lt;/b&gt;&lt;br /&gt;법률신문의 ‘2024 로펌 컨수머 리포트’에서 김상민(45·사법연수원 37기) 법무법인 태평양 변호사는 삼성전자와 현대차, LG전자, 포스코 등 10대 그룹의 서로 다른 법무담당자 10명으로부터 ‘최고의 변호사’로 꼽혔다. 엄격하고 까다로운 고객인 기업법무담당자로부터 ‘최고’로 꼽히는 것은 그만큼 어려운 일인데, 김 변호사는 10명에게서 ‘최고 변호사’로 선정됐다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;   &lt;a href="https://www.lawtimes.co.kr/news/197869" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;</description>
-			<pubDate>Tue, 30 Apr 2024 22:56:12 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197996</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197996</guid>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>【오늘의 국회일정】 2024년 5월 1일</title>
-			<description>&lt;b&gt;◇ 의원실 세미나&lt;/b&gt;&lt;br /&gt;10:30 김성주 의원실 등, 2024 연금개혁 공론화 결과 세부 분석 기자간담회(의원회관 제3간담회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;◇ 소통관 기자회견&lt;/b&gt;&lt;br /&gt;09:40 강득구 의원, [MBC 스트레이트 징계 규탄 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:00 황운하 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 김근태 의원, [연금개혁 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있음.&lt;/span&gt;&lt;/b&gt;</description>
-			<pubDate>Tue, 30 Apr 2024 22:38:43 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197998</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197998</guid>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] '안산 장상지구 투기' 국회의원 전 보좌관 , 징역 1년6개월 확정</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/723(72).jpg" alt="723.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;3기 신도시 경기 안산 장상지구에 땅 투기를 한 혐의로 기소된 전 국회의원 보좌관에게 징역 1년 6개월이 확정됐다.&lt;p&gt;   &lt;b&gt;&lt;br /&gt;대법원 형사1부&lt;/b&gt;(주심 김선수 대법관)는 4일 부패방지 및 국민권익위원회의 설치와 운영에 관한 법률 위반 혐의로 기소된 A 씨에게 징역 1년 6개월을 선고한 원심을 확정했다(&lt;b&gt;2023도17537&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;더불어민주당 전해철 의원 보좌관이었던 A 씨는 2019년 4월 업무 과정에서 취득한 내부정보를 이용해 약 2억 원을 대출받아 안산시 상록구 장상동 농지 1개 필지 1500여㎡를 3억 원에 사들인 혐의로 기소됐다. A 씨가 토지를 매입한 시기는 해당 지역이 3기 신도시로 지정되기 한 달 전이었다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;1심은 A 씨에게 징역 1년 6개월을 선고했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;항소심도 "A 씨는 공직자로서 업무처리 과정에서 취득한 비밀인 개발계획 정보를 이용해 이 사건 토지를 취득했다고 봄이 타당하다"며 검사와 A 씨의 항소를 기각하고 1심 판단을 유지했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;대법원도 원심 판단에 잘못이 없다며 판결을 그대로 확정했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Tue, 30 Apr 2024 21:28:32 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197919</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197919</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/723(72).jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>하이브-민희진 분쟁, 수천억대 소송 가능성</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/197853_0.jpg" alt="197853_0.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;방시혁 의장 · 민희진 대표《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;하이브(의장 방시혁)와 민희진 어도어 대표의 장외 전초전이 끝나고 본격적인 법적 다툼이 시작됐다. 하이브 측 주장대로 민 대표가 어도어 지분 51%를 요구했다면, 이를 두고 양측이 계약 관련 수천억 대 위약금 법정 공방으로 번질 수 있다는 전망이 나온다. 하이브를 돕고 있는 김·장 법률사무소와 민 대표 측 법무법인 세종의 대리전도 주목받고 있다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;하이브 “민희진 대표 무조건 해임”&lt;/b&gt;&lt;/p&gt;&lt;p&gt;어도어 측은 5월 이사회와 주주총회를 열겠다는 계획을 밝혔다. 어도어 측 법률대리인인 이원 세종 변호사는 30일 오후 서울서부지법 민사합의21부(재판장 전보성 부장판사) 심리로 열린 임시 주주총회 소집허가 신청 심문을 마치고 취재진에게 “이사회는 5월10일까지 열리고, 5월 말까지는 주총이 열릴 것”이라고 설명했다. 이날 심리는 하이브가 민 대표와 경영진을 해임하기 위한 절차로 임시 주주총회를 열게 해달라고 청구하면서 이뤄졌다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;민 대표가 하이브와 체결한 주주간 계약 의무 재직기간은 2026년 11월까지다. 민 대표는 어도어 지분 18%를 행사 시점 연도와 전년도 평균 영업이익의 13배 값에 발행주식 총수를 나눈 수준으로 하이브에 팔 수 있다. 하지만 민 대표는 13배가 아니라 30배의 상응하는 금액을 제시했다고 알려졌다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;민 대표의 지분 중 13.5%는 올해 말부터 하이브에 대한 풋옵션을 행사할 수 있다. 의무 재직기간 동안 회사를 다녀야 풋옵션을 행사하도록 계약됐을 가능성이 크다. 민 대표가 임시 주총으로 중도 해임된다면 하이브는 민 대표에게 줘야 할 금액 중 1000억 원 가까이 아낄 수 있다는 계산도 나온다.&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;수천억대 소송전으로 번질 수도&lt;/b&gt;&lt;/p&gt;&lt;p&gt;하이브는 김·장 법률사무소의 기업인수·합병, 엔터테인먼트 전문 변호사를 선임했다. 민 대표 역시 기업인수·합병, 경영권분쟁 전문인 법무법인 세종의 이수균, 이숙미 변호사 등을 선임하고 법률적 지원을 받고 있다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;법조계는 민 대표의 배임은 성립되기 어렵다고 보고 있으나 하이브는 민 대표가 풋옵션 행사로 획득할 수 있는 금액을 계산하고 행동 시기까지 구체적으로 명시한 자료, 권리침해소송, 투자사, 여론전 등의 용어가 적시된 문건이 여러 건 있다며 배임을 확신하고 있다. 다만 이번 분쟁의 핵심은 배임이 아니라 돈과 경영권이라는 것을 강조했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;향후 뒤따를 여러 분쟁 중 뉴진스가 민 대표의 편에서 하이브를 상대로 전속계약 효력정지 가처분 신청을 할 가능성도 배제할 수 없는 상황이다. 하이브는 민 대표를 상대로 손해배상 청구소송을 제기할 수 있다. 하이브 주가 하락세의 원인 제공과 뉴진스 등 소속 아이돌의 이미지 손상 등 책임을 묻는다면 수백억 원에서 수천억원 대 소송으로 번질 가능성도 있다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;하이브 측은 민 대표의 배임 혐의 외 다른 고소고발은 당분간 없다고 밝혔다. 민 대표가 기자회견에서 하이브 간부들을 두고 ‘개저씨(개+아저씨)’라고 표현한 것 등을 두고 명예훼손·모욕죄로 고소할 수도 있으나 “본질은 돈과 경영권이기 때문에 나중에 고민할 문제”라는 것이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Tue, 30 Apr 2024 20:06:41 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/197981</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/197981</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/197853_0.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
