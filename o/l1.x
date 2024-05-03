@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>이원석 총장, '김건희 여사 명품백 사건' 신속 수사 지시…수시 보고 받고 지휘</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/198085.jpg" alt="198085.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;이원석 검찰총장이 송경호 서울중앙지검장에게 윤석열 대통령의 배우자인 김건희 여사의 '명품백 수수 의혹' 수사를 한 달 내에 마무리하라고 지시했다. 이 총장은 송 지검장에게 수사 내용을 수시로 보고받으며 사건 마무리에 속도를 낼 전망이다. &lt;br /&gt;&lt;br /&gt;대검찰청은 3일 이 총장이 전날 송 지검장에게 김건희 여사 관련 청탁금지법 고발사건과 관련해 전담수사팀을 구성해 신속하고 철저하게 조사하라고 지시했다고 밝혔다. &lt;br /&gt;&lt;br /&gt;대검 관계자는 "총선이 끝났으니 얼른 마무리하자는 취지"라고 설명했다. 검찰총장은 도이치모터스 주가조작 의혹 사건에선 수사지휘권이 배제돼 있지만, 명품백 사건에 대해선 지휘권이 있다. 송 지검장에게도 '신속성'을 강조했고 수시로 수사 상황을 보고 받고 지시할 계획이다. &lt;br /&gt;&lt;br /&gt;김 여사의 명품백 수수 의혹 사건은 서울중앙지검 형사1부(부장검사 김승호)가 맡고 있다. 형사1부는 윤 대통령과 김 여사의 청탁금지법 고발 사건 외에도 가방을 전달한 최재영 목사의 주거침입 및 위계에 의한 공무집행방해 혐의도 함께 수사하고 있다. &lt;br /&gt;&lt;br /&gt;중앙지검은 형사 1부에 검사 3명을 추가로 투입했다. 검찰은 최 목사를 비롯해 가방을 받는 김 여사의 모습을 촬영해 공개한 서울의 소리 관계자 등 관련자들을 불러 신속하게 수사하겠다는 방침이다. 수사 상황에 따라 김 여사와 윤 대통령에 대한 조사가 이뤄질 가능성도 배제하기 어렵다.&lt;br /&gt;&lt;br /&gt;유튜브 채널 서울의 소리는 지난해 11월 김 여사가 2022년 9월 최 목사에게 300만 원 상당의 명품백을 받았다며 몰래 촬영한 영상을 공개했다. 같은 해 12월 김 여사와 윤 대통령을 청탁금지법 및 뇌물수수 혐의로 검찰에 고발했다. 최 목사도 지난 1월 주거침입 및 위계 공무집행방해 혐의로 고발된 상태다.&lt;br /&gt;&lt;br /&gt;법조계에선 김 여사의 처벌까지 이어지지 않을 것이라는 관측이 지배적이다. 청탁금지법에서 '배우자'는 처벌 조항이 없기 때문이다. 청탁금지법상 공직자 배우자의 금품수수와 관련한 제재대상은 '공직자등의 직무와 관련한 배우자의 금품수수 사실을 알면서 신고하지 않은 공직자, 배우자에게 수수금지 금품 등을 제공한 자'로 정해져 있다. 금품 등이 100만 원을 초과할 경우에는 형사처벌을, 100만 원 이하일 경우에는 과태료 등이 부과된다.&lt;br /&gt;&lt;br /&gt;김 여사에게 명품백을 건넨 최 목사와 서울의 소리 측은 공여자로 처벌을 받을 가능성이 높지만 김 여사 처벌은 쉽지 않다.&lt;br /&gt;&lt;br /&gt;다만 윤 대통령이 처벌 대상인지는 따져봐야 한다. 윤 대통령의 경우 '직무관련성'과 '인지 여부'에 따라 형사처벌 여부가 정해진다. 최 목사는 자신이 통일 정책에 영향을 미치기 위해 선물했다고 주장했는데, 대통령의 직무 범위를 어디까지 보는지에 따라 해석이 엇갈릴 수 있다. 또 윤 대통령이 고가 선물 수수 사실을 알고도 신고하지 않고 돌려주지도 않았다면 처벌받는다. &lt;br /&gt;&lt;br /&gt;윤 대통령은 지난 2월 "시계에다가 몰카(몰래 카메라)까지 들고 와서 이런 걸(촬영) 했기 때문에 정치 공작"이라고 밝혔다. 그러면서 "매정하게 끊지 못한 것이 문제라면 문제이고 좀 아쉽지 않았나 생각이 든다"고 말했다.</description>
+			<pubDate>Fri, 03 May 2024 13:44:09 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198085</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198085</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/198085.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>檢, 윤관석 '뇌물수수 혐의' 관련 국회사무처 압수수색</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/198073.jpg" alt="198073.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;무소속 윤관석 의원 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;검찰이 무소속 윤관석 의원이 입법 로비를 대가로 뇌물을 받은 정황을 포착해 강제수사에 나섰다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;서울중앙지검 반부패수사2부&lt;/b&gt;(&lt;span style="font-weight: bold;" class="lawmanlink" serial="11669"&gt;최재훈&lt;/span&gt;&amp;nbsp;부장검사)는 3일 오전부터 윤관석 의원의 입법로비 관련 뇌물수수 혐의와 관련해 국회사무처 법제실 및 서버 등에 대한 압수수색을 진행 중이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;검찰은 민주당의 돈봉투 살포 사건을 수사하는 과정에서 윤 의원의 혐의를 포착한 것으로 전해졌다. &lt;br /&gt;&lt;br /&gt;윤 의원은 2021년 민주당 대표를 뽑는 전당대회를 앞두고 송영길 전 대표의 당선을 위해 동료 의원들에게 봉투를 제공할 목적으로 6000만 원을 수수한 혐의로 1심에서 징역 2년을 선고받았다.&lt;br /&gt;&lt;br /&gt;윤 의원은 혐의를 부인하고 있으며 현재 항소심이 진행되고 있다. &lt;br /&gt;&lt;br /&gt;</description>
 			<pubDate>Fri, 03 May 2024 07:02:17 -0000</pubDate>
@@ -231,16 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198036</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/198036(1).jpg</media:thumbnail>
 			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>박성재 법무부장관 "민주당 추진 '채상병 특검법', 취지에 맞지 않아"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/198039.jpg" alt="198039.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;박성재 법무부 장관《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1239"&gt;박성재&lt;/span&gt;(61·사법연수원 17기) 법무부 장관이 "'해병대 채상병 특검법' 추진은 제도 도입 취지에 맞지 않다"는 입장을 밝혔다.&lt;br /&gt;&lt;br /&gt;박 장관은 2일 대구 고·지검을 방문한 자리에서 취재진을 만나 "수사 중인 사건을 특검으로 진행된 전례는 없는 것으로 알고 있다"며 이같이 말했다.&lt;br /&gt;&lt;br /&gt;그는 더불어민주당의 채상병 특검법 처리에 대한 입장을 밝히면서  "채상병 사망 사건은 경찰에서 업무상 과실치사 관련 부분을, 고위공직자범죄수사처(공수처)에서 수사 외압 행사 부분을 수사하는 것으로 안다"며 "수사기관의 결과도 지켜보지 않고 바로 특검을 추진하겠다는 것은 제도 취지에 좀 맞지 않다고 생각한다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;조국혁신당이 총선 1호 공약으로 내건 '한동훈 특검법'에 대해서도 "아직 법안을 보지 못해 말씀드리는 건 적절하지 않다”면서도 “특검은 예외적이고 보충적으로 제한해 행사돼야 한다고 생각한다"고 했다. &lt;br /&gt;&lt;br /&gt;조국 조국혁신당 대표가 검찰청을 기소청으로 바꾸는 등의 내용이 담긴 이른바 '검수완박2' 추진 의지를 밝힌 것에 대해서는 "지난 정부에서 검찰 개혁이라는 명분 하에 수사권 조정 등을 진행했지만, 현재까지 수사 기관 간의 책임의 주체가 불분명하고 수사 지연이 되는 등 여러 가지 문제점이 발생해서 국민에게 큰 불편을 주고 있는 현실"이라고 말했다.&lt;br /&gt;&lt;br /&gt;이어 "검찰 개혁은 검찰의 기능이 최고로 잘 작동할 수 있도록 염두에 두고 국민을 위해서 추진돼야 한다"면서 "정치적 유불리나 집단의 이해관계 없이 오로지 국민의 공감을 받을 수 있는 국민의 입장에서 추진돼야 한다고 생각한다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;박 장관은 이날 오전 대구 고·지검을 찾아 직원들을 격려하면서 검찰 본연의 임무를 충실하게 수행해 줄 것을 당부했다. 또 형사사법 시스템 개선과 인력 충원 등에 최선을 다해 검찰 업무를 지원하겠다고 말했다. &lt;br /&gt;&lt;br /&gt;오후에는 홍준표 대구광역시장, 이만규 대구광역시의회 의장, 신용해 교정본부장 등과 함께 대구교도소 이전 개청식에 참석했다. 신축 대구교도소는 지난해 11월 화원읍에서 달성군 하빈면으로 이전하면서 신재생 에너지 설비, 안면인식 시스템 등 첨단 설비를 갖췄다.</description>
-			<pubDate>Thu, 02 May 2024 05:32:44 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198039</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198039</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/198039.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
