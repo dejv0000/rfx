@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>'강남역 인질극' 벌인 40대 남성 구속</title>
+			<description>어린이날을 하루 앞둔 4일 서울 강남역 인근의 한 생활용품매장에서 흉기를 들고 인질극을 벌인 40대 남성이 구속됐다. &lt;br /&gt;&lt;br /&gt;서울중앙지법 이준구 판사는 6일 살인미수 혐의를 받는 40대 남성 장모 씨에 대한 구속영장실질심사를 진행한 뒤 "도망할 우려가 있다"며 구속영장을 발부했다. &lt;br /&gt;&lt;br /&gt;장 씨는 지난 4일 오전 9시30분경 강남역 인근의 한 생활용품매장에서 흉기를 들고 일면식 없는 여성을 붙잡아 인질극을 벌이다 현행범으로 체포됐다. 신고를 받고 출동한 경찰은 약 20여 분의 대치 끝에 피해 여성을 무사히 구출했고 장 씨를 붙잡았다. 이 과정에서 매장 내 손님들이 대피하는 소동이 벌어졌지만 인명 피해는 없었다.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;</description>
+			<pubDate>Mon, 06 May 2024 14:30:07 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198114</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198114</guid>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 16년 만에 잡힌 '인천 남촌동 택시강도' 2인조, 무기징역 확정</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/198047(1).jpg" alt="198047.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="text-align: center; margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;택시 기사를 살해한 뒤 금품을 빼앗은 혐의를 받는 40대 A씨 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;인천의 한 고가 아래에서 택시 기사를 살해하고 택시에 불을 지른 뒤 도주했다가 16년 만에 붙잡혀 기소된 2인조 택시강도에게 무기징역이 확정됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;&lt;b&gt;대법원 형사2부&lt;/b&gt;(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3751"&gt;권영준&amp;nbsp;&lt;/span&gt;대법관)는 지난달 12일 강도살인 혐의로 기소된 A 씨와 B 씨의 상고심에서 이들의 상고를 기각하고 무기징역을 선고한 원심을 확정했다(&lt;b&gt;2024도1614&lt;/b&gt;). 5년의 보호관찰 명령도 그대로 확정됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;A 씨와 B 씨는 2007년 7월 1일 새벽 인천 남동구 남촌동 제2경인고속도로 남동고가 밑 도로변에서 택시기사를 상대로 현금 6만 원을 빼앗고 살해한 혐의로 기소됐다.   &lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이들은 범행 이후 해당 택시를 운전해 주택가로 이동한 뒤 차에 불을 질렀으며 미리 준비한 A 씨 소유의 다른 차를 타고 도주한 것으로 조사됐다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이 사건은 범행 이후 피의자에 대한 행방이 파악되지 않아 미궁에 빠질 뻔했다. 경찰은 장기간 피의자를 특정할 단서를 찾지 못하다가 범행 현장에서 확보한 쪽지문의 작은 지문을 토대로 16년 만에 A 씨와 B 씨를 검거했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;1심은 지난해 7월 두 사람에게 모두 징역 30년을 선고하고 5년의 보호관찰을 명령했다. 1심은 "DNA 및 지문 감정결과의 증명력, 주변 지인들의 진술 등 사정들에 비춰보면 이들이 공모해 강도살인 범행을 한 사실을 충분히 인정할 수 있다"며 "범행이 발각된 이후 피해자와 유족들의 피해는 전혀 회복된 바 없고, 오히려 A 씨와 B 씨는 명백한 과학적 증거에도 범행을 부인하거나 살해한 것은 아니라고 주장하는 모습을 지켜보면서 다시금 당시의 충격과 슬픔을 떠올리는 고통을 느꼈을 것"이라고 밝혔다.               &lt;/p&gt;&lt;p&gt;   &lt;br /&gt;항소심은 형량이 무겁다는 A, B 씨의 주장은 받아들이지 않고, 형량이 가볍다는 검사의 주장을 받아들여 무기징역을 선고하고 5년의 보호관찰을 명령했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;항소심은 "이 사건 범행은 그 경위와 수법 및 결과, 범행 이후의 경과 등의 면에서 정상이 좋지 않다"며 "A 씨는 여러 과학적 증거에도 불구하고 별다른 근거 없이 그 신뢰성을 부정하면서 자신의 잘못을 인정하지 않는 태도를 고수하고 있고, B 씨는 객관적인 증거자료가 부족하다고 보이는 지점들에 관해 납득하기 어려운 변명으로 일관하면서 자신의 가담범위와 책임을 축소하는 데에 급급한 태도를 보이고 있는 점을 감안할 때 누구도 이 사건 범행을 진지하게 반성하고 있다고 볼 수 없다"고 했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;대법원도 "이들에게 무기징역을 선고한 것이 심히 부당하다고 할 수 없다"며 이러한 항소심 판단을 그대로 확정했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Mon, 06 May 2024 04:48:53 -0000</pubDate>
@@ -229,16 +238,6 @@
 			<link>https://www.lawtimes.co.kr/news/198052</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198052</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/198052.jpg</media:thumbnail>
-			<dc:creator>유지인 기자</dc:creator>
-		</item>
-		<item>
-			<title>김종근 변호사, 한국세무사회 법률자문변호사에 위촉</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/198060.jpg" alt="198060.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="http://www.yulwoo.com/" target="_blank"&gt;&lt;b&gt;법무법인 율우&lt;/b&gt;&lt;/a&gt;&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2651"&gt;김종근&lt;/span&gt;(50·사법연수원 29기) 변호사가 한국세무사회(회장 구재이) 법률자문변호사에 위촉됐다. &lt;br /&gt;&lt;br /&gt;한국세무사회는 김 변호사를 지난달 23일 법률자문변호사로 위촉했다고 2일 밝혔다. &lt;br /&gt;&lt;br /&gt;김 변호사는 순천고와 서울대 법학과를 졸업했다. 1997년 제29회 사법시험에 합격해 2003년 서울지방검찰청 검사로 임관했다. 이후 서울중앙지방검찰청 부부장검사, 대검찰청 감찰1과장, 창원지방검찰청 차장검사 등을 지냈다. 2021년 변호사로 개업한 그는 지난해 8월부터 법무법인 율우에서 근무하고 있다.&lt;br /&gt;&lt;br /&gt;또한 그는 서울시립대 세무전문대학원에서 세무학 석·박사 학위를 취득한 조세법 전문가로, 학술서 《조세형사법해설》(2022) 등을 냈다.</description>
-			<pubDate>Thu, 02 May 2024 12:32:22 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198060</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198060</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/198060.jpg</media:thumbnail>
 			<dc:creator>유지인 기자</dc:creator>
 		</item>
 	</channel>
