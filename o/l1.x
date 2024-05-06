@@ -6,6 +6,24 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>【오늘의 국회일정】 2024년 5월 7일</title>
+			<description>&lt;b&gt;◇ 국회사무총장&lt;/b&gt;&lt;br /&gt;08:50 주간업무보고(국회접견실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;◇ 상임위원회&lt;/b&gt;&lt;br /&gt;10:00 환경노동위원회 전체회의(본관 622호)&lt;br /&gt;&lt;br /&gt;14:00 법제사법위원회 전체회의(본관 406호)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 의원실 세미나&lt;/b&gt;&lt;br /&gt;14:00 유상범 의원실, 기업상속세 개혁, 강원특별자치도 특례를 활용하자!(의원회관 제5간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 윤상현 의원실, 윤석열정부 2년, 성과와 과제 세미나(의원회관 제2세미나실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 소통관 기자회견&lt;/b&gt;&lt;br /&gt;10:00 정경희 의원, [선관위 부정부패, 비리 및 증거인멸 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:20 강득구 의원, [정치 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 성소미 공보기획관, [5월 2주차 국회 정례브리핑]&lt;br /&gt;&lt;br /&gt;14:00 강경숙 조국혁신당 당선인, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;17:40 박주민 의원, [학생인권조례 폐지 규탄 기자회견]&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있음.&lt;/span&gt;&lt;/b&gt;</description>
+			<pubDate>Mon, 06 May 2024 22:47:56 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198086</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198086</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
+			<title>【오늘의 법조】2024년 5월 7일</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[법원]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷ '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 이재명 더불어민주당 대표 외 1명 25차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시 30분, 서울중앙지법&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[로펌]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷ 법무법인 화우, ‘총선 후 기업의 규제정책 대응 방안, 화우에서 길을 찾다’ 세미나&lt;/b&gt;&lt;br /&gt;-오후 2시, 서울시 중구 세종대로 39 대한상공회의소 중회의실A&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷ 법무법인 세종, '건설부동산 분쟁 아카데미'&lt;/b&gt;&lt;br /&gt;-오후 3시, 서울 종로구 청진동 디타워 23층 세미나실&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷ 법무법인 바른-숭실대, 상호발전과 성장 및 공익 공헌 위한 업무협약 체결 및 자문변호사 위촉식&lt;/b&gt;&lt;br /&gt;-오후 3시, 서울 동작구 상도동 숭실대학교 베어드홀 4층 회의실&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷ 법무법인 지평-스톤턴, 'CFIUS 최근 실무 동향과 규제 대응 방안 및 미국의 제3국 경제 제재 일반' 세미나&lt;/b&gt;&lt;br /&gt;-오후 3시, 서울 중구 세종대로 지평 본사 그랜드센트럴 B동 3층 오디토리움&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:2px 0 0 0; border-style:bold; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[오늘의 PICK ]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;br /&gt;▷ [판결] "'공정흐름도' 부분도 영업비밀"… 영업비밀 빼돌려 새 회사 설립한 전 LG전자 임원 벌금형 '파기환송'&lt;br /&gt;LG전자에서 개발 중이던 가정용 맥주 제조기의 영업비밀을 빼돌린 뒤 새 회사를 설립해 판매하려고 한 혐의로 기소된 전직 LG전자 임직원들에게 벌금형을 선고한 원심이 대법원에서 파기됐다. 원심에서 무죄로 판단했던 '공정흐름도 부분' 역시 영업비밀에 해당할 수 있으므로 업무상배임죄 책임을 다시 판단해봐야 한다는 취지다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/198024" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;b&gt;&lt;br /&gt;▷ 헌재, "광장 벤치에서 담배 못 피우게 하는 국민건강증진법은 합헌"&lt;/b&gt;&lt;br /&gt;광장 벤치에서 담배를 못 피우도록 규정한 국민건강증진법 조항은 헌법에 어긋나지 않는다는 헌법재판소 결정이 나왔다. 연면적 1000㎡ 이상의 사무용건축물, 공장 및 복합용도의 건축물로서 금연구역으로 지정된 공간은 여러 사람이 오갈 가능성이 높아 간접흡연으로부터의 보호를 관철할 필요성이 더욱 크다는 점을 고려한 결정이다.&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/198028" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Mon, 06 May 2024 22:47:50 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198113</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198113</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>'강남역 인질극' 벌인 40대 남성 구속</title>
 			<description>어린이날을 하루 앞둔 4일 서울 강남역 인근의 한 생활용품매장에서 흉기를 들고 인질극을 벌인 40대 남성이 구속됐다. &lt;br /&gt;&lt;br /&gt;서울중앙지법 이준구 판사는 6일 살인미수 혐의를 받는 40대 남성 장모 씨에 대한 구속영장실질심사를 진행한 뒤 "도망할 우려가 있다"며 구속영장을 발부했다. &lt;br /&gt;&lt;br /&gt;장 씨는 지난 4일 오전 9시30분경 강남역 인근의 한 생활용품매장에서 흉기를 들고 일면식 없는 여성을 붙잡아 인질극을 벌이다 현행범으로 체포됐다. 신고를 받고 출동한 경찰은 약 20여 분의 대치 끝에 피해 여성을 무사히 구출했고 장 씨를 붙잡았다. 이 과정에서 매장 내 손님들이 대피하는 소동이 벌어졌지만 인명 피해는 없었다.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;</description>
 			<pubDate>Mon, 06 May 2024 14:30:07 -0000</pubDate>
@@ -219,26 +237,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198064</guid>
 			<media:thumbnail>http://image.lawtimes.co.kr/images/PYH2024042318100005200(1).jpg</media:thumbnail>
 			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>검찰, 4년간 21억 원 편취한 노소영 관장 전 비서 구속기소</title>
-			<description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/198063.jpg" alt="198063.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;노소영 아트센터 나비 관장의 명의를 도용하고 계좌 예금을 임의로 이체해 21억여 원을 빼돌린 비서가 구속상태로 재판에 넘겨졌다.&lt;p&gt;&lt;b&gt;&lt;br /&gt;서울서부지검 형사4부&lt;/b&gt;(부장검사 유효제)는 노 관장의 전 비서 A 씨를 특정경제범죄가중처벌 등에 관한 법률 위반(사기) 및 사문서 위조 혐의 등으로 2일 구속기소했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;검찰에 따르면 A 씨는 노 관장 명의의 전자금융거래신청서와 가입신청서 등을 위조해 은행 계좌와 휴대폰을 개설한 뒤 약 4년간 4억 3800만 원 상당을 대출받았다. 또 노 관장 명의 계좌의 예금 11억 9400만 원을 자기 명의 계좌로 이체해 사용한 혐의를 받는다. 이밖에 A 씨는 노 관장 행세를 하면서 아트센터 직원을 속여 소송자금 명목으로 5억 원을 송금하도록 했다. A 씨가 불법적으로 취득한 금액은 21억 3200만 원에 달하는 것으로 조사됐다.&lt;br /&gt;&lt;br /&gt;검찰은 계좌추적 등 보완수사를 통해 A 씨가 빼돌린 돈을 카드대금 결제와 주택 임대차 보증금으로 사용한 사실을 확인한 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;노 관장은 올해 1월 A씨를 사기 등 혐의로 서울 용산경찰서에 고소했다. 경찰은 지난달 16일 A 씨를 특정경제범죄법상 사기 및 사문서위조 등의 혐의로 구속 송치했다.&lt;/p&gt;</description>
-			<pubDate>Thu, 02 May 2024 14:27:26 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198063</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198063</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/198063.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>로앤컴퍼니-머스트노우, 법률 전문가의 'AI 실무역량 강화' 위한 MOU 체결</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/198052.jpg" alt="198052.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;4월 30일 서울 강남구 로앤컴퍼니 사옥에서 진행된 ‘법률AI 이용 활성화 및 교육 발전 업무 협약식’에서 로앤컴퍼니 김본환 대표(왼쪽)와 법률사무소 머스트노우 조우성 대표 변호사가 참석해 기념사진을 촬영하고 있다.&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;리걸테크 기업 로앤컴퍼니&lt;/b&gt;(대표 김본환)와 &lt;b&gt;&lt;a href="https://www.mustknow.co.kr/" target="_blank"&gt;법률사무소 머스트노우&lt;/a&gt;&lt;/b&gt;(대표 조우성)가 함께 법률 전문가의 AI 실무역량을 강화해 나가기로 약속했다. &lt;br /&gt;&lt;br /&gt;로앤컴퍼니와 머스트노우가 법률 AI 이용 및 교육 활성화를 위한 업무협약을 체결했다고 2일 밝혔다. 협약식은 30일 서울 강남구 대치동 로앤컴퍼니 사옥에서 열렸다. 김본환 로앤컴퍼니 대표,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3274"&gt;안기순&lt;/span&gt;(54·사법연수원 27기) 법률AI연구소장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5813"&gt;조우성&lt;/span&gt;(55·23기) 법률사무소 머스트노우 대표 변호사,&amp;nbsp;이민하 주식회사 이포비 대표 등이 참석했다. &lt;br /&gt;&lt;br /&gt;이번 협약에 따라 두 기관은 향후 법률 AI 교육 프로그램 개발 및 사업 구축, 홍보 등에 적극적으로 상호 협력할 예정이다. &lt;br /&gt;&lt;br /&gt;김본환 대표는 “향후 AI 기술은 업무 경쟁력을 높일 수 있는 도구로서 의미 있는 역할을 하게 될 것”이라며 “이번 협약으로 로앤컴퍼니가 다년간 축적해 온 법률 AI 연구·개발 역량을 적극 활용해 법률 전문가의 업무 환경 향상 및 이용자 저변 확대에 기여하기를 기대한다”고 밝혔다. 조우성 변호사는 "앞으로 법률소비자도 AI 기술을 활발하게 이용하게 되는 만큼, 변호사 개인도 AI 활용 능력을 높이는 것이 생존을 위해 필요한 최소한의 요건이 될 것"이라고 말했다. &lt;br /&gt;&lt;br /&gt;로앤컴퍼니는 2019년 법률AI연구소를 설립해 AI 기술을 활용한 혁신 서비스를 연구·개발해 왔다. 2022년 AI 모델 개발 경진대회를 개최해 법률 AI 연구 생태계 활성화에 기여한 바 있다. 변호사의 업무 효율 및 생산성 제고를 목표로 개발한 B2B SaaS 솔루션 '슈퍼로이어'가 6월 출시를 앞두고 있다. 슈퍼로이어에는 ▲판례·법령·실무정보 '리서치' ▲소장·내용증명 등 ‘법률문서 작성' ▲대규모 '법률문서 요약' ▲맥락에 따른 ‘사용자 문서 기반 질의응답' 기능 등이 탑재되며, 향후 머스트노우에서 진행할 법률 AI 교육에 활용될 예정이다. &lt;br /&gt;&lt;br /&gt;머스트노우는 드라마 '이상한 변호사 우영우' 에피소드의 원작자로 알려진 조우성 변호사가 대표 변호사로 있는 종합 법률사무소다. 조 변호사는 서울대학교 법과대학과 대학원을 거쳐 법무법인 태평양에서 18년 간 민사총괄부 및 기업소송부 파트너 변호사로 근무했다. 2000년부터 기업 및 관공서 대상으로 법률 및 리더십, AI 실전 활용법 등을 강의했다. &lt;br /&gt;</description>
-			<pubDate>Thu, 02 May 2024 12:35:53 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198052</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198052</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/198052.jpg</media:thumbnail>
-			<dc:creator>유지인 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
