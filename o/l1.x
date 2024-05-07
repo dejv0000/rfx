@@ -6,6 +6,35 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title> AI링고-법률신문 '법률 서비스 국제화 위한 업무협약' 체결</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/198120.jpg" alt="198120.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법률문서 번역 업체 AI링고(대표 이재욱)와 법률신문(대표 이수형)이 3일 서울 서초구 법률신문사에서 법률 서비스 국제화를 위한 업무협약(MOU)를 맺었다고 밝혔다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;이번 협약에 따라 두 기관은 법률분야 서비스 시장에서 각 기업이 보유한 다양한 기술과 장점을 결합해 협력체계를 구축해 나가기로 했다. AI링고는 법률용어에 특화된 인공지능(AI) 번역기로 법률문서 번역 서비스를 제공하는 업체다.   &lt;p&gt;&amp;nbsp; &lt;br /&gt;현재 법률신문 홈페이지에는 AI링고가 번역한 법률신문 《2024 로펌 컨수머 리포트》 영문 기사가 게재돼 있다. 지난해엔 법률신문의 영문 인터뷰 과정에서 AI링고가 수초 만에 질문 및 답변지를 번역했다.      &lt;p&gt;&amp;nbsp; &lt;br /&gt;AI링고는 앞으로 법률신문사의 모든 콘텐츠에 외국어 번역 기능을 제공할 예정이다. 아울러 법률신문의 구독자들이 AI링고의 번역서비스를 활용할 수 있도록 하기로 했다.&lt;/p&gt;      &lt;/p&gt;   &lt;/p&gt;</description>
+			<pubDate>Tue, 07 May 2024 02:48:33 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198120</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198120</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/198120.jpg</media:thumbnail>
+			<dc:creator>유지인 기자</dc:creator>
+		</item>
+		<item>
+			<title>영광 군수 '선거법 위반' 대법 선고 D-10 ...핵심 증인 '위증 자백'에도 檢 수사 '요지부동'</title>
+			<description>1심과 항소심에서 당선 무효 벌금형을 선고받은 강종만 전남 영광군수의 공직선거법위반 사건의 대법원 판결이 10일 앞으로 다가왔다. 하지만 이 사건의 고발인 겸 핵심증인이 '위증 교사'와 '허위 증언'을 자백했음에도 그에 대한 검찰 수사가 신중한 탓에 지역 주민의 민심이 흔들리고 있다. 주민들은 검찰청 앞에서 빠른 수사를 촉구하는 집회를 열고 군수 지키기에 나섰다.&lt;br /&gt;&lt;br /&gt;강 군수는 공직선거법상 기부행위제한금지 위반 혐의를 받고 있다. 8촌 조카인 조 모씨는 강 군수를 고발하며 "100만 원을 주며 '선거 때 잘 도와달라'고 말했다"고 주장했다. 강 군수는 "명절 때 과일 세트를 사달라는 조카의 문자를 받고 어려운 조카를 위해 100만 원을 용돈으로 줬을 뿐 '선거를 도와달라'고 말하지 않았다"며 "용돈을 준 시점도 피선거권이 제한된 상태라 입후보 의사를 표시하지 않았을 때"라고 주장했다.&lt;br /&gt;&lt;br /&gt;경찰은 증거가 부족하다고 보고 불송치 처분을 했지만 검찰은 경찰에 보완 수사 요구한 뒤 강 군수를 선거법 위반 혐의로 재판에 넘겼다. 1심과 항소심은 강 군수에게 벌금 200만 원을 선고했다. 조 씨의 진술을 증거로 인정한 것이다. 강 군수는 대법원에 상고했다.&lt;br /&gt;&lt;br /&gt;하지만 조 씨가 기존 주장을 바꾸며 원심 판결의 핵심 증거가 뒤집혔다. 조 씨는 강 군수의 지방선거 경쟁 후보 측으로부터 5억 원을 약속받고 허위로 고발했으며 법정에서도 허위로 증언했다고 자백했다. 조 씨는 "강 군수가 100만 원을 준 건 맞지만, 선거를 도와달라는 말은 없었다"고 번복했다. 이에 강 군수는 조 씨를 위증 혐의로 고소했다.&lt;br /&gt;&lt;br /&gt;사건이 새로운 국면을 맞자 대법원은 고민에 빠졌다. 대법원은 사후심이기 때문에 당사자를 불러 신문하지는 못한다. 조 씨의 자백 내용이 사실인지 판단하기 위해선 검찰의 수사 결과가 필요하다. 대법원이 파기환송 혹은 원심 확정이라는 판결에 결정적인 영향을 끼칠 검찰 수사 결과가 없는 상황이다.&lt;br /&gt;&lt;br /&gt;현 상황에서 대법원이 100만 원 이상 벌금형의 원심을 확정하면 강 군수는 직을 상실한다. 이후 검찰 수사가 이뤄져 조 씨가 위증이 사실로 밝혀진다면 추후 재심청구 사유가 발생할 개연성이 높다. 이에 영광군 주민 500여 명은 지난 2일 광주지검 앞에서 위증자 처벌 촉구 집회를 열었다. 사건 처리가 늦어지면 강 군수가 억울한 일을 당할 수도 있으니 대법원 선고 전 위증죄 당사자라는 신속하게 처리하라는 것이다.&lt;br /&gt;&lt;br /&gt;한 변호사는 "강 군수의 공직선거법 위반 혐의 유죄 판결에 결정적 근거는 고발인의 증언이다. 고발인의 증언이 사실이라고 판단해 기소를 했는데 고발인이 사주를 받고 허위로 증언했다고 자술하면서 강 군수의 혐의와 고발인의 혐의가 충돌했다"며 "검찰 입장에선 고발인을 위증죄로 기소한다면 당초 했던 수사 과정에 허점이 있었다는 걸 자인하는 셈이라 신중에 신중을 기할 수밖에 없을 것"이라고 말했다.&lt;br /&gt;&lt;br /&gt;</description>
+			<pubDate>Tue, 07 May 2024 02:40:09 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198087</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198087</guid>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>대전지검 서산지청·서산당진태안 범피, '제10회 범죄피해자 가족 힐링을 위한 걷기대회' 개최</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/198124.jpg" alt="198124.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;대전지방검찰청 서산지청&lt;/b&gt;(지청장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="32031"&gt;원지애&lt;/span&gt;)과 &lt;b&gt;서산·당진·태안 범죄피해자지원센터&lt;/b&gt;(이사장 김덕호)는 지난달 30일 충남 당진시 삼선산 수목원에서 범죄피해자 가족의 회복프로그램 일환으로 ‘제10회 범죄피해자 가족 힐링을 위한 걷기대회’를 개최했다.&lt;br /&gt;&lt;br /&gt;이날&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="32031"&gt;원지애&lt;/span&gt;(50·사법연수원 32기) 대전지검 서산지청장과 김덕호 서산·당진·태안 범죄피해자지원센터 이사장, 범죄피해자 가족 약 40명 등 총 100여 명이 참여했다.&lt;br /&gt;&lt;br /&gt;이날 참여한 한 범죄피해자 가족은 “힘든 시기도 있었지만 센터에서 세심하게 챙겨줘 편안해지고 있다”고 말했다. 원 지청장은 "검찰은 물론, 지역사회 모두가 범죄피해자들에게 현실적이고 실질적인 보호·지원을 주도록 노력하자”고 당부했다.&lt;br /&gt;&lt;br /&gt;서산·당진·태안 범죄피해자지원센터는 3개 시군의 강력범죄로 신체·정신·경제적 피해를 입은 피해자 본인과 그 가족들이 고통에서 벗어나고 정상적인 생활로 돌아가도록 보호·지원하는 비영리 민간단체다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/198124_1.jpg" alt="198124_1.jpg" /&gt;&lt;/p&gt;</description>
+			<pubDate>Tue, 07 May 2024 02:39:29 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198124</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198124</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/198124.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
 			<title>이원석 검찰총장, 김건희 여사 명품백 의혹 "증거·법리 따라 엄정 수사할 것"</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/198117.jpg" alt="198117.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9175"&gt;이원석&lt;/span&gt;&amp;nbsp;검찰총장이 7일 최근 보강한 김건희 여사의 '명품백 수수 의혹' 전담 수사팀과 관련해 "수사팀이 증거와 법리에 따라서만 엄정하게 수사하고 처분할 것"이라고 밝혔다.&amp;nbsp;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;이 총장은 이날 오전 서울 서초구 대검찰청으로 출근하는 길에 취재진을 만나 "여러 말씀 덧붙이는건 큰 의미가 없다고 생각한다. 수사 경과와 수사결과를 지켜봐 주시기를 부탁드린다"며 이같이 말했다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;야권에서 이 총장이 신속한 수사를 지시한 것을 두고 '김건희 특검'을 방어하기 위한 것이 아니냐고 주장하는 것과 관련 이 총장은 "추후 말씀드릴 기회가 있을 것"이라며 말을 아꼈다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;앞서 이 총장은 지난 2일 송경호 서울중앙지검장에게 보고를 받는 자리에서 김 여사의 '명품백 수수 의혹' 수사를 빠르게 마무리하라고 지시한 것으로 전해졌다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;김 여사의 명품백 수수 의혹 사건은 현재 서울중앙지검 형사1부(부장검사 김승호)가 맡고 있다. 형사1부는 윤 대통령과 김 여사의 청탁금지법 고발 사건 외에도 가방을 전달한 최재영 목사의 주거침입 및 위계에 의한 공무집행방해 혐의도 함께 수사하고 있다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;대검 지시에 따라 중앙지검은 형사 1부에 검사 3명을 추가로 투입했다.&amp;nbsp; 4차장검사 산하 반부패수사3부, 범죄수익환수부, 공정거래조사부에서 1명씩 특별수사 검사 3명을 파견했다. 검찰은 최 목사를 비롯해 가방을 받는 김 여사의 모습을 촬영해 공개한 유튜브 채널 '서울의 소리' 관계자 등 관련자들을 불러 신속하게 수사하겠다는 방침이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;서울의 소리는 지난해 11월 김 여사가 2022년 9월 최 목사에게 300만 원 상당의 명품백을 받았다며 몰래 촬영한 영상을 공개했다. 같은 해 12월 김 여사와 윤 대통령을 청탁금지법 및 뇌물수수 혐의로 검찰에 고발했다. 최 목사도 지난 1월 주거침입 및 위계 공무집행방해 혐의로 고발된 상태다.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
 			<pubDate>Tue, 07 May 2024 01:04:35 -0000</pubDate>
@@ -209,34 +238,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198037</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/738(128).jpg</media:thumbnail>
 			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>서울북부지법, '관내 로스쿨 연계 세미나' 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/198065.jpg" alt="198065.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;서울북부지법&lt;/b&gt;(법원장 박형순)은 한국외대 로스쿨(원장 안수현)과 공동으로 지난달 29일 서울 도봉동 서울북부지법에서 관내 4개 로스쿨(경희대, 고려대, 서울시립대, 한국외대)과의 연계 세미나를 개최했다.&lt;p&gt;&lt;br /&gt;서울북부지법은 우수한 법률가를 양성하고, 우리 사회의 법 문화 발전을 위해 2015년 9월 관내 4개 로스쿨과 업무협약을 체결한 뒤 공동으로 주관하는 연계 세미나 등 다양한 업무를 시행했다. 그러나 코로나19 사태로 인해 2020년부터 3년 간 연계 세미나가 중단됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="356"&gt;박형순&lt;/span&gt;(53·사법연수원 27기) 서울북부지법원장은 지난해 11월 관내 4개 로스쿨 및 성균관대 로스쿨과 간담회를 열어 올해부터 공동으로 주관하는 연계세미나를 다시 개최하기로 협의했다. 이에 따라 4년 만에 세미나를 실시하게 된 것이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/198065_0.jpg" alt="198065_0.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;올해 세미나에서는 가정준 한국외대 교수가 '혼인은 부부를 과연 경제공동체로 만드는가'를 주제로 발표하고 서울북부지법&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="20773"&gt;권혁재&lt;/span&gt;(38·41기) 판사와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="26297"&gt;김동호&lt;/span&gt;(34·44기) 판사가 토론했다.   &lt;/p&gt;&lt;p&gt;&lt;br /&gt;이어&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="27233"&gt;김성준&lt;/span&gt;(35·44기) 서울북부지법 판사가 '보전처분에 대한 채무자의 불복방법(인가결정 확정 이후 재이의신청을 중심으로)'를 주제로 발표했고,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4460"&gt;강구욱&lt;/span&gt;(59·18기) 한국외대 교수와 정신동 교수가 토론했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;박형순 서울북부지법원장은 "법원과 로스쿨 간 학술교류를 통해 훌륭한 연구 성과와 실무 경험을 공유해 법관 및 학계의 역량이 크게 강화되고, 재판 제도의 개선에도 큰 도움이 될 것"이라고 말했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;안수현 한국외대 로스쿨 원장은 "학술대회를 통해 사법부와 학계가 함께 노력한다면 법 교육 및 사법 문화가 크게 발전할 수 있을 것"이라고 밝혔다.&lt;/p&gt;</description>
-			<pubDate>Fri, 03 May 2024 00:25:54 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198065</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198065</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/198065.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>【오늘의 국회일정】 2024년 5월 3일</title>
-			<description>&lt;b&gt;◇ 의원실 세미나&lt;/b&gt;&lt;br /&gt;09:30 이수진 의원실 등, 40%가 된 일본 중학교 '위험한'교과서, 어떻게 대응할 것인가?(의원회관 제8간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 신현영 의원실 등, 탄자니아 ODA 사업, 국회와 소통하다(의원회관 제5간담회의실)&lt;br /&gt;&lt;br /&gt;13:30 최승재 의원실, 비동의강간죄 신설 적절한가?(의원회관 제2소회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;◇ 소통관 기자회견&lt;/b&gt;&lt;br /&gt;09:00 주이삭 개혁신당 대변인, [개혁신당 허은아 당대표 후보 지지 선언 기자회견]&lt;br /&gt;&lt;br /&gt;10:20 우원식 의원, [윤석열 정권의 독립영웅 흉상 '육사 내 재배치' 규탄 기자회견]&lt;br /&gt;&lt;br /&gt;09:40 오기형 의원, ['경로당 주 5일 점심밥상' 추진 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 한기호 의원, [정치 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:20 고민정 의원, [EBS 압수수색 등 언론탄압 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:40 민형배 의원, [정치 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있음.&lt;/span&gt;&lt;/b&gt;</description>
-			<pubDate>Thu, 02 May 2024 22:39:49 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198059</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198059</guid>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>【오늘의 법조】2024년 5월 3일</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[법원]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷'특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 유동규 외 4명 128차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시, 서울중앙지법&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷'직권남용권리행사방해 등 혐의' 서훈 전 청와대 국가안보실장 외 4명 24차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시, 서울중앙지법&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:2px 0 0 0; border-style:bold; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[오늘의 PICK ]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷'창원 간첩단 사건' 국정원 증인 수십 명, 간첩 피고인과 함께 출석할 처지&lt;/b&gt;&lt;br /&gt;'창원 간첩단'으로 불리는 자주통일민중전위(자통) 관계자들의 국가보안법 위반 등 사건이 서울중앙지법에서 창원지법으로 이송되면서, 국정원 증인 수십 명이 간첩 의혹을 받는 피고인들과 같은 법정 출입구를 이용해 법정에 출석해야 하는 상황에 놓였다. 창원지법의 법정 출구가 한정돼 있어 자통 관계자에게 국정원 직원들의 신분이 노출될 우려가 생긴 것이다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/198049" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;b&gt;&lt;br /&gt;▷전국법관대표회의, 대법관후보추천위원에 권창환 부장판사 선출&lt;/b&gt;&lt;br /&gt;전국법관대표회의(의장 김예영)가 대법관후보추천위원회 위원으로 권창환(49·사법연수원 36기) 부산회생법원 부장판사를 선출했다. 전국법관대표회의는 2일 "8월 2일 임기 만료 예정인 김선수(63·17기)·이동원(61·17기)·노정희(61·19기) 대법관의 후임 대법관 후보자 추천을 위해 구성되는 대법관후보추천위원회에 대법관 아닌 법관 위원으로 권 부장판사를 추천하기로 의결했다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/198036" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Thu, 02 May 2024 22:39:46 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198050</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198050</guid>
-			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
