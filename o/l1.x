@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>이원석 검찰총장, 김건희 여사 명품백 의혹 "증거·법리 따라 엄정 수사할 것"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/198117.jpg" alt="198117.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9175"&gt;이원석&lt;/span&gt;&amp;nbsp;검찰총장이 7일 최근 보강한 김건희 여사의 '명품백 수수 의혹' 전담 수사팀과 관련해 "수사팀이 증거와 법리에 따라서만 엄정하게 수사하고 처분할 것"이라고 밝혔다.&amp;nbsp;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;이 총장은 이날 오전 서울 서초구 대검찰청으로 출근하는 길에 취재진을 만나 "여러 말씀 덧붙이는건 큰 의미가 없다고 생각한다. 수사 경과와 수사결과를 지켜봐 주시기를 부탁드린다"며 이같이 말했다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;야권에서 이 총장이 신속한 수사를 지시한 것을 두고 '김건희 특검'을 방어하기 위한 것이 아니냐고 주장하는 것과 관련 이 총장은 "추후 말씀드릴 기회가 있을 것"이라며 말을 아꼈다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;앞서 이 총장은 지난 2일 송경호 서울중앙지검장에게 보고를 받는 자리에서 김 여사의 '명품백 수수 의혹' 수사를 빠르게 마무리하라고 지시한 것으로 전해졌다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;김 여사의 명품백 수수 의혹 사건은 현재 서울중앙지검 형사1부(부장검사 김승호)가 맡고 있다. 형사1부는 윤 대통령과 김 여사의 청탁금지법 고발 사건 외에도 가방을 전달한 최재영 목사의 주거침입 및 위계에 의한 공무집행방해 혐의도 함께 수사하고 있다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;대검 지시에 따라 중앙지검은 형사 1부에 검사 3명을 추가로 투입했다.&amp;nbsp; 4차장검사 산하 반부패수사3부, 범죄수익환수부, 공정거래조사부에서 1명씩 특별수사 검사 3명을 파견했다. 검찰은 최 목사를 비롯해 가방을 받는 김 여사의 모습을 촬영해 공개한 유튜브 채널 '서울의 소리' 관계자 등 관련자들을 불러 신속하게 수사하겠다는 방침이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;서울의 소리는 지난해 11월 김 여사가 2022년 9월 최 목사에게 300만 원 상당의 명품백을 받았다며 몰래 촬영한 영상을 공개했다. 같은 해 12월 김 여사와 윤 대통령을 청탁금지법 및 뇌물수수 혐의로 검찰에 고발했다. 최 목사도 지난 1월 주거침입 및 위계 공무집행방해 혐의로 고발된 상태다.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+			<pubDate>Tue, 07 May 2024 01:04:35 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198117</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198117</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/198117.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2024년 5월 7일</title>
 			<description>&lt;b&gt;◇ 국회사무총장&lt;/b&gt;&lt;br /&gt;08:50 주간업무보고(국회접견실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;◇ 상임위원회&lt;/b&gt;&lt;br /&gt;10:00 환경노동위원회 전체회의(본관 622호)&lt;br /&gt;&lt;br /&gt;14:00 법제사법위원회 전체회의(본관 406호)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 의원실 세미나&lt;/b&gt;&lt;br /&gt;14:00 유상범 의원실, 기업상속세 개혁, 강원특별자치도 특례를 활용하자!(의원회관 제5간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 윤상현 의원실, 윤석열정부 2년, 성과와 과제 세미나(의원회관 제2세미나실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 소통관 기자회견&lt;/b&gt;&lt;br /&gt;10:00 정경희 의원, [선관위 부정부패, 비리 및 증거인멸 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:20 강득구 의원, [정치 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 성소미 공보기획관, [5월 2주차 국회 정례브리핑]&lt;br /&gt;&lt;br /&gt;14:00 강경숙 조국혁신당 당선인, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;17:40 박주민 의원, [학생인권조례 폐지 규탄 기자회견]&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있음.&lt;/span&gt;&lt;/b&gt;</description>
 			<pubDate>Mon, 06 May 2024 22:47:56 -0000</pubDate>
@@ -227,16 +237,6 @@
 			<link>https://www.lawtimes.co.kr/news/198050</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198050</guid>
 			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>이원석 검찰총장 "사법의 정치화…좌고우면 말고 정도 걸어야"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="http://image.lawtimes.co.kr/images/PYH2024042318100005200(1).jpg" alt="PYH2024042318100005200.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;“‘태산처럼 무겁고 담담하게(靜重如山·정중여산)’ 맡은 책무를 완수하기 바란다.”&lt;p&gt;   &lt;br /&gt;&amp;nbsp;이원석 검찰총장이 2일 임진왜란 당시 이순신 장군이 옥포해전을 앞두고 군사들에게 한 당부(물령망동 정중여산·勿令妄動 靜重如山: 경거망동하지 않고 태산처럼 신중하게 행동하라)를 인용하며 ‘사법의 정치화’ 시도에 의연하게 대처할 것을 주문했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 총장은 이날 대검찰청 월례회의에서 “재판받는 피고인이 법정 밖에서 검찰을 향해 터무니없는 거짓을 늘어놓고 ‘없는 사실을 입증하라’고 목청을 높이고, 사법시스템을 뒤흔들어 법망(法網)을 찢고 빠져나가려는 불법부당한 시도가 계속되고 있다”면서 “상대가 저열하게 나오더라도 우리는 정도를 걸으며 지혜를 모아 좌고우면하지 말고 오로지 국민만 바라보라”면서 이같이 말했다. ‘쌍방울 불법 대북 송금 사건’으로 재판 중인 이화영 전 경기도 평화부지사가 주장하고 있는 ‘검찰청 술판 회유’ 의혹을 직격한 것이다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 총장은 “사법에서 다루어져야 할 문제를 정치적인 문제로 변질시켜 정쟁화했다”면서 “소방서·구조대가 허위신고로 혼란에 빠지면 위급상황 대응시스템이 무너지는 것처럼 허위·조작과 기만으로 사법시스템이 흔들리면 범죄로부터 사회를 방위하는 법치가 무너져 결국 피해는 고스란히 국민에게 돌아간다”고 밝혔다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;앞서 지난달 23일에도 이 총장은 이 전 부지사에 대해 “중대한 부패 범죄자가 1심 선고를 앞두고 허위 주장을 하면서 사법 시스템을 무너뜨리고 붕괴하려는 시도를 하고 있다”며 “법원과 검찰의 사법 시스템을 무력화시키는 일을 그만둬야 한다”고 지적했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 총장이 이순신 장군의 어록을 인용한 것은 이번이 처음이 아니다. 지난해 5월 ‘마약범죄 근절 대책회의’에서 ‘일부당경 족구천부(一夫當逕 足懼千夫: 한 사람이 길목을 지키면 족히 1000명을 두렵게 할 수 있다)’라는 말을 인용해 마약과의 전쟁에서 승리할 것을 독려했다. 명량해전을 앞두고 충무공이 조선 수군에게 했던 말로 전해진다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 총장은 평소 수사에 있어서도 이순신 장군이 즐겨썼던 ‘선승구전(先勝求戰)’을 강조해온 것으로 전해졌다. 손자병법에 나오는 말로, ‘먼저 승리를 확보하고 전쟁에 임하라’는 뜻이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Thu, 02 May 2024 15:57:14 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198064</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198064</guid>
-			<media:thumbnail>http://image.lawtimes.co.kr/images/PYH2024042318100005200(1).jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
