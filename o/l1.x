@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] “공인중개사가 ‘권리금계약’하고 돈 받으면 위법”</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/198088.jpg" alt="198088.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;공인중개사가 종전 임차인과 신규 임차인 사이의 권리금계약서를 작성하고 수수료를 받는 것은 ‘행정사법 위반’이라는 법원 판단이 나왔다. 부동산 매매 또는 임대차 계약 등 과정에서 받는 중개 수수료와 별개로 ‘권리금 계약’은 반드시 계약에 수반되지 않을 뿐 아니라 종전 임차인과 신규 임차인 사이에 주고받게 되기 때문에 공인중개사의 업무 범위에 포함되지 않는다는 취지다.&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;대법원 형사2부&lt;/b&gt;(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3987"&gt;신숙희&lt;/span&gt;&amp;nbsp;대법관)는 지난달 12일 행정사법 위반 혐의로 기소된 A 씨에게 벌금 100만 원의 선고유예를 선고한 원심을 확정했다(&lt;b&gt;2024도1766&lt;/b&gt;). 행정사법은 행정사가 아닌 사람이 권리 의무나 사실 증명에 관한 서류를 작성하는 업무를 업으로 해서는 안 된다고 규정한다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;공인중개사인 A 씨는 2020년 8월경 한 어린이집 부동산임대차계약을 중개하면서 어린이집의 종전 임차인 C 씨와 신규 임차인 D 씨 사이의 권리금계약서인 ‘컨설팅(인가용역, 시설·관리) 계약서’를 작성하고 수수료 명목으로 250만 원을 받았다. 이에 A 씨 등은 행정사법 위반 혐의로 기소됐다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;1심은 “이 사건 컨설팅 계약은 어린이집에 관한 영업권의 양도에 따른 권리금계약에 해당하는 것이 분명하고, A 씨 등이 그 권리금 계약을 중개하고 권리금 계약서를 작성한 것은 구 행정사법 제2조 제1항 제1호에서 정한 ‘권리·의무나 사실증명에 관한 서류’를 작성한 것에 해당한다”며 “또 권리금은 상가건물의 영업시설·비품 등 유형물이나 거래처, 신용, 영업상의 노하우, 점포 위치에 따른 영업상의 이점 등 무형의 재산적 가치의 양도 등의 이용대가로서, 영업권의 양도에 따른 권리금 계약을 중개하고 권리금 계약서를 작성하는 행위는 공인중개사법과 그 시행령에서 공인중개사의 업무범위로 정하고 있는 중개행위에 해당하지 않아 행정사법 위반 행위에 해당한다”고 설명했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;그러면서 “이 사건 임대차계약서의 당사자는 임대인 E 씨와 새로운 임차인인 D 씨이고, 이 사건 컨설팅계약서의 당사자는 전 임차인이자 영업양도인인 C 씨와 새로운 임차인이자 영업양수인인 D 씨로 그 당사자들이 서로 다르다”며 “따라서 컨설팅계약의 당사자가 아닌 임대인 E 씨와 이 사건 임대차계약의 당사자가 아닌 전 임차인 C 씨가 반드시 컨설팅계약과 임대차계약이 전체로서 하나의 법률효과를 가지는 계약으로 취급될 필요가 없고 다른 계약이 체결되지 않으면 이 계약을 체결하지 않을 의사도 객관적으로 명백하지 않다”고 부연했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;항소심도 1심 판단이 옳다고 보고 피고인 측의 항소를 기각했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;대법원도 원심 판단에 잘못이 없다며 판결을 그대로 확정했다.&lt;/p&gt;</description>
+			<pubDate>Thu, 09 May 2024 03:25:35 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198088</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198088</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/198088.jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2024년 5월 9일</title>
 			<description>&lt;b&gt;◇ 상임위원회&lt;/b&gt;&lt;br /&gt;11:00 정무위원회 전체회의(본관 604호)&lt;br /&gt;&lt;br /&gt;11:00 문화체육관광위원회 전체회의(본관 506호)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 의원실 세미나&lt;/b&gt;&lt;br /&gt;10:00 이동주 의원실 등, 22대 국회 공정한 온라인 플랫폼 시장을 위한 정책과제 토론회(의원회관 제2세미나실)&lt;br /&gt;&lt;br /&gt;14:00 허숙정 의원실 등, 고립·은둔 청소년을 살리는 청소년상담사의 목소리(의원회관 대회의실)&lt;br /&gt;&lt;br /&gt;15:00 용혜인 의원실 등, 사회적경제 재도약을 위한 제도개선 과제 토론회(의원회관 제3간담회의실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있음.&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;</description>
 			<pubDate>Wed, 08 May 2024 22:39:38 -0000</pubDate>
@@ -229,15 +239,6 @@
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/198140</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198140</guid>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>【오늘의 법조】2024년 5월 8일</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[법원]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;br /&gt;&lt;b&gt;▷'특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 송영길 소나무당 대표 13차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시, 서울중앙지법&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[헌법재판소]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷'이정섭 검사 탄핵 심판 사건(2023헌나4)' 공개변론&lt;/b&gt;&lt;br /&gt;-오후 2시, 대심판정&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[로펌]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷법무법인 대륙아주-헤럴드경제, '환경부의 정책 방향' 임상준 환경부 차관 초청 강연&lt;/b&gt;&lt;br /&gt;-오전 7시 30분, 서울 중구 소공로 119 더 플라자호텔 22층 다이아몬드홀&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:2px 0 0 0; border-style:bold; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[오늘의 PICK ]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷尹, 민정수석에 김주현 전 법무차관 임명..."사법리스크는 내 문제"&lt;/b&gt;&lt;br /&gt;윤석열(64·사법연수원 23기) 대통령이 민정수석실을 신설하고, 민정수석비서관에 김주현(63·18기) 전 법무부 차관을 임명했다. 윤 대통령은 민정수석실 신설은 "국민을 위해 설치한 것"이라고 밝히며 사법리스크와는 무관하다고 선을 그었다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/198129" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;b&gt;&lt;br /&gt;▷'법관 370명 증원' 판사증원법 개정안, 법사위 법안소위 통과…국회 문턱 넘을까&lt;/b&gt;&lt;br /&gt;재판 지연 해소를 위해 법관 370명을 순차적으로 정원하는 내용을 골자로 한 각급 법원 판사 정원법 일부개정법률안(판사정원법 개정안)이 법제사법위원회 법안소위를 통과했다. 발의된 지 1년 5개월 만이다. 개정안이 법사위 전체회의 문턱을 넘어 본회의에 상정될지 법원 안팎의 관심이 집중되고 있다.&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/198137" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Tue, 07 May 2024 22:36:00 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198142</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198142</guid>
 			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
