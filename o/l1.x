@@ -6,6 +6,24 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>【오늘의 국회일정】 2024년 5월 14일</title>
+			<description>&lt;b&gt;◇ 국회사무총장&lt;/b&gt;&lt;br /&gt;10:30 국회 언론환경개선자문위원회 3기 위촉식(국회접견실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;◇ 의원실 세미나&lt;/b&gt;&lt;br /&gt;10:00 김형동 의원실 등, ILO 관점에서 본 ESG경영과 임금보호를 위한 제95호 협약 비준의 필요성(의원회관 제1세미나실)&lt;br /&gt;&lt;br /&gt;10:00 양이원영 의원실 등, [탄소중립과 원전안전을 위한 22대 국회의 과제 연속세미나 2차] 원전과 방사능으로부터 안전한 대한민국을 위한 22대 국회의 과제(의원회관 제2세미나실)&lt;br /&gt;&lt;br /&gt;14:00 양경규 의원실, 이랜드 노동권 침해 문제점과 대응 방안 모색을 위한 국회 토론회(의원회관 제6간담회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;◇ 소통관 기자회견&lt;/b&gt;&lt;br /&gt;10:00 용혜인 의원, [언론노조-기본소득당 방송3법 재입법 및 언론장악 국정조사 실시 요구 기자회견]&lt;br /&gt;&lt;br /&gt;10:20 강경숙 조국혁신당 당선인, [스승의날 기념 및 학생인권·교권 폐지 시도 규탄 기자회견]&lt;br /&gt;&lt;br /&gt;10:40 장경태 의원, [김영철 검사 추가 고발 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 남인순 의원, [서울시사회서비스원 폐지 조례에 대한 오세훈 서울시장 재의권 행사 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;11:20 장혜영 의원, [국회 과학기술정보방송통신위원회 계류 AI법안 폐기와 22대 국회 제대로 된 AI법 마련 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;13:40 양이원영 의원, [고준위 특별법 관련 기자회견]&lt;br /&gt;&lt;br /&gt;14:00 조승래 의원, [국회 과학기술정보방송통신위원회 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있음.&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;</description>
+			<pubDate>Mon, 13 May 2024 22:30:21 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198276</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198276</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
+			<title>【오늘의 법조】 2024년 5월 14일</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[법원]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷'특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 이재명 더불어민주당 대표 외 1명 26차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시30분, 서울중앙지법&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷'노동조합및노동관계조정법위반 등 혐의' 허영인 SPC그룹 회장 외 17명 1차 공판준비기일&lt;/b&gt;&lt;br /&gt;-오후 4시, 서울중앙지법&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;   &lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[로펌]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷법무법인 세종, '건설부동산 분쟁 아카데미(2회차)'&lt;/b&gt;&lt;br /&gt;-오후 3시, 서울 종로구 청진동 디타워 23층 세미나실&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:2px 0 0 0; border-style:bold; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;   &lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[오늘의 PICK ]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷법원장 후보추천제 시행 후 4년간 고법부장 49명 사표&lt;/b&gt;&lt;br /&gt;법원장 후보추천제가 국민이 받는 사법서비스의 질 하락으로 이어지고있다. 법원장으로 가는 길이 막힌 엘리트 고법 부장들의 이탈이 이어지면서다. 법률신문 취재에 따르면 법원장 후보 추천제가 시행된 2019년 이후 4년간 고법 부장(이상급) 이상 고위 법관 49명이 사표를 내고 법원을 떠났다. 일종의 ‘명예 보상’으로 여겨진 고법 부장 승진 폐지는 판사들의 일할 의욕을 감퇴시켜 재판 지연의 원인이 되고 있다는 지적도 나온다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;   &lt;a href="https://www.lawtimes.co.kr/news/198207" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;b&gt;&lt;br /&gt;▷[단독] 기피 보직된 ‘형사재판부’ 형평성 제고 개선안 마련하나&lt;/b&gt;&lt;br /&gt;법원 법원행정처가 최근 형사재판부 근무 형평성 제고를 위해 법관 설문에 나섰다. 형사재판부는 다른 사무분담에 비해 육체적, 정신적 소모가 더욱 크다고 여겨진다. 그러나 고법 부장 승진 폐지를 비롯해 힘든 사무분담을 맡아도 그에 대한 보상이 없는 상황이 지속되자, 법원 내부에서 형사재판 기피현상이 더 늘어났다. 이에 법원행정처가 비선호 보직에 대한 차등 보상 방안을 마련하려는 것으로 보인다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;a href="https://www.lawtimes.co.kr/news/198204" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Mon, 13 May 2024 22:30:12 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198274</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198274</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>법무법인 율촌, '우주항공팀' 발족··· "우주항공시장 공략 나선다"</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/198268.jpg" alt="198268.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.yulchon.com/ko/main/main.do" target="_blank"&gt;&lt;b&gt;법무법인 율촌&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7573"&gt;강석훈&lt;/span&gt;)이 '우주항공팀'을 발족하고, 우주항공·위성·방산수출 분야 시장 공략에 나서겠다고 13일 밝혔다.  &lt;br /&gt;&lt;br /&gt;이달 말 우주항공청 출범에 맞추어, 율촌이 우주항공산업 전문가 그룹을 강화하는 등 역량을 집중하면서 우주항공팀을 신설했다. 율촌 우주항공팀은 앞으로 고객들에게 맞춤형 법률 서비스를 제공하며, 기존 네트워크를 강화·활용함으로써 우주항공시장 성장을 위한 정부 유관 부처들과의 협력 및 국내외 민관 협력을 증진해나갈 계획이다.&lt;br /&gt;&lt;br /&gt;우주항공팀에는 20대 국회의원(산자위 법안심사위원장), 서울행정법원 판사 등을 역임한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5302"&gt;손금주&lt;/span&gt;&amp;nbsp;변호사(53·사법연수원 30기)를 중심으로 국방·공공조달계약 업무에서 베테랑인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6508"&gt;정원&lt;/span&gt;(55·30기) 변호사, 해외 투자·금융 전문가인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2064"&gt;김진&lt;/span&gt;(51·30기) 변호사, 항공규제 전문가인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10988"&gt;김규현&lt;/span&gt;(48·33기) 변호사, 조세 전문가인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9437"&gt;이종혁&lt;/span&gt;(47·33기) 변호사, 영업비밀·국가핵심기술 전문가이며 방산침해대응협의회 자문위원인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13522"&gt;임형주&lt;/span&gt;(47·35기) 변호사, 국제법·국제거래 전문가인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13368"&gt;안정혜&lt;/span&gt;(48·35기) 변호사가 협업한다.&lt;br /&gt;&lt;br /&gt;또 국방부 송무팀장·방위사업청 주미 군수무관부 법무담당관을 역임한&amp;nbsp;&lt;span class="lawmanlink" serial="14858" style="font-weight: bold;"&gt;송광석&lt;/span&gt;(53·36기) 변호사, 특허청 심사관 출신으로 IP 전문가인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="21391"&gt;정상태&lt;/span&gt;(51·41기) 변호사, 산업통상자원부 장관을 역임한 윤상직 고문과 전 국방대학교 총장을 역임한 장성 출신 정해일 고문, 과기정통부 정보통신정책실장·청와대 디지털혁신비서관을 역임한 김정원 고문도 합류했다.&lt;br /&gt;&lt;br /&gt;6월 초에는 우주항공시장의 현재와 미래 성장을 위한 과제를 중심으로 관련 현안을 공유하는 세미나를 계획하고 있다.</description>
 			<pubDate>Mon, 13 May 2024 14:45:10 -0000</pubDate>
@@ -221,26 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198215</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/198215.jpg</media:thumbnail>
 			<dc:creator>이순규 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 동인, 사옥 확장하며 '새 도약' 알려</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/198237.jpg" alt="198237.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;올해 창립 20주년을 맞는&amp;nbsp;&lt;a href="http://www.donginlaw.co.kr/" target="_blank"&gt;&lt;b&gt;법무법인 동인&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4550"&gt;황윤구&lt;/span&gt;)이 사옥을 확장하고 새 경영대표를 뽑으며 새로운 도약에 나섰다.&lt;p&gt;&amp;nbsp;  &lt;br /&gt;동인은 서울 서초구 삼성생명 서초타워의 3개 층(15~18층)을 사용중인데 10일부터 한 층을 더 확보했다. 220명이 넘는 분야별 전문 변호사와 상임 고문 등을 적극 영입하다보니 공간이 더 필요해졌다는 것이다.   &lt;p&gt;&amp;nbsp;  &lt;br /&gt;여기에 더해 동인의 새 경영총괄 대표로 1일 선출된&amp;nbsp;&lt;span class="lawmanlink" serial="4550" style="font-weight: bold;"&gt;황윤구&lt;/span&gt;(63·19기) 변호사는 "적극적인 조직강화의 일환으로, 법조비용 3조 시대에 걸맞은 대규모 합병을 시도할 예정"이라고 밝혔다. 대한민국 5대 로펌 진입을 목표로 제시했다. 황 대표는 "로펌 합병은 법조시장의 새로운 트렌디한 움직임으로 서로 윈-윈할 수 있는 최선의 방법"이라며 "사회적 환경 변화로 '규모의 경제학'이 '진실의 법학'과 손잡는 데 전혀 어색하지 않다고 본다"고 설명했다.      &lt;p&gt;         &lt;br /&gt; 또 "매출증대를 위한 집단소송의 발굴 등 사건기획위원회를 신설해 구성원들에게 사건 기획 결과를 공유, 조직적인 사건 유치를 도모하겠다"며 "‘대변인제도’를 도입해 법률 전문가 입장의 정확한 법리적 의견을 언론에 개진함으로써 법인 신뢰도를 높이겠다"고 밝혔다.      &lt;/p&gt;      &lt;/p&gt;   &lt;/p&gt;</description>
-			<pubDate>Fri, 10 May 2024 13:12:24 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198237</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198237</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/198237.jpg</media:thumbnail>
-			<dc:creator>유지인 기자</dc:creator>
-		</item>
-		<item>
-			<title>김학석 율촌 변호사, 한국금융법학회장 취임</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/198239.jpg" alt="198239.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1813"&gt;김학석&lt;/span&gt;(61·사법연수원 21기·&lt;b&gt;사진&lt;/b&gt;) 법무법인 율촌 변호사가 10일 제7대 한국금융법학회장으로 취임했다. 학회장 임기는 이달부터 2년이다. &lt;br /&gt;&lt;br /&gt;경주고와 고려대 법대를 나온 김 변호사는 1989년 제31회 사법시험에 합격했고 1992년 사법연수원을 제21기로 수료했다. 같은 해 부산지검 검사로 임관해 서울지검 검사, 인천지검 부천지청 부부장검사, 법무부 인권지원과장, 서울중앙지검 형사8부 부장검사, 서울고검 검사 등으로 근무했다. 한국외대 로스쿨과 고려대 로스쿨 겸임교수도 역임했다. 2014년 변호사로 개업한 뒤 율촌에서 근무하고 있다. 저서로는 ≪자본시장법상 부정거래행위≫(SFL그룹 펴냄)가 있다. 검찰 내부 수사 교육 자료인 '금융범죄 수사실무'를 대표 집필하기도 했다. &lt;br /&gt;&lt;br /&gt;2003년 창립한 한국금융법학회는 금융 법규 개선과 금융산업 발전을 위해 활동하고 있다. 회원이 500여 명이며  금융관련 법제도 조사·연구와 학회지 '금융법연구'를 발간한다.  &lt;br /&gt;</description>
-			<pubDate>Fri, 10 May 2024 12:37:56 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198239</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198239</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/198239.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
