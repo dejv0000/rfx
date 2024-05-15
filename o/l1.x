@@ -6,6 +6,24 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>【오늘의 국회일정】 2024년 5월 16일</title>
+			<description>&lt;b&gt;◇ 의원실 세미나&lt;/b&gt;&lt;br /&gt;10:00 윤창현 의원실 등, 대한민국의 지속 가능한 내일을 위한 저출산과 연금개혁 세미나(의원회관 제8간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 윤상현 의원실, 보수의 가치, 어떻게 혁신할 것인가 세미나(의원회관 제1세미나실)&lt;br /&gt;&lt;br /&gt;10:30 조명희 의원실, 비대면진료 시범사업 현황 점검 및 개선 방향 논의 좌담회(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 소통관 기자회견 &lt;/b&gt;&lt;br /&gt;10:00 황보승희 의원, [선관위 부당거래 의혹 관련 수사 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;14:00 주이삭 개혁신당 대변인, [개혁신당 허은아 당대표 후보 지지 선언 기자회견]&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있음.&lt;/span&gt;&lt;/b&gt;</description>
+			<pubDate>Wed, 15 May 2024 22:36:11 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198306</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198306</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
+			<title>【오늘의 법조】 2024년 5월 16일</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[법원]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷'특정경제범죄가중처벌등에관한법률위반(수재등) 등 혐의' 박영수 전 특검 외 1명 20차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시, 서울중앙지법&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷'정치자금법위반 등 혐의' 김용 전 민주연구원 부원장 외 3명 5회 공판&lt;/b&gt;&lt;br /&gt;-오후 3시, 서울고법&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:2px 0 0 0; border-style:bold; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;   &lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[오늘의 PICK ]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷[단독]故 조석래 효성 명예회장, 유언장 남겼다.&lt;/b&gt;&lt;br /&gt;법률신문의 취재를 종합하면 지난 3월 작고한 고(故) 조석래 효성그룹 명예회장이 유언장을 작성해 남긴 것으로 확인됐다. 조 전 명예회장은 작고하기 전인 지난해 한 대형 로펌(법무법인)의 변호사가 입회한 가운데 유언장을 작성했다. 유언장에는 가족·형제 간의 화해를 당부하는 유지(遺旨)와 ‘형제의 난’ 이후 의절 상태에 있는 차남 조현문 전 효성그룹 부사장에게도 유류분을 상회하는 재산을 물려주는 내용이 포함된 것으로 알려졌다. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;   &lt;a href="https://www.lawtimes.co.kr/news/198310" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;b&gt;&lt;br /&gt;▷尹 "노동법원 설치" 주문…20년만에 입법화 관심&lt;/b&gt;&lt;br /&gt;윤석열 대통령이 14일 노동사건을 전담할 '노동법원' 신설 입법을 공론화하면서 법조계와 노동계의 숙원 과제가 현실화될지 주목받고 있다. 이재명 더불어민주당 대표의 대선 공약이기도 한 만큼 관련 법안이 발의되면 여야 합의로 급물살을 탈 수 있다. 법원 안팎에서는 적게는 수백억 원에서 많게는 1조 원에 이르는 노동법원 재원 마련을 어떻게 할지, 재판부 구성은 어떻게 할지 등 벌써부터 관련 논의가 불붙고 있다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;   &lt;a href="https://www.lawtimes.co.kr/news/198315" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;</description>
+			<pubDate>Wed, 15 May 2024 22:36:04 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198309</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198309</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>‘민정수석’과 ‘친명좌장’의 특별한 인연</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/198272(1).jpg" alt="198272.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="text-align: center; margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;김주현 대통령민정수석비서관 · 정성호 민주당 의원 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;윤석열 대통령에 의해 발탁돼 ‘실세’로 떠오른&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2148"&gt;김주현&lt;/span&gt;&amp;nbsp;대통령민정수석비서관과 이재명 더불어민주당 대표의 ‘친명계 좌장’으로 꼽히는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6636"&gt;정성호&lt;/span&gt;&amp;nbsp;민주당 의원의 매우 특별한 인연과 관계가 법조계에서 화제다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;김 수석과 정 의원은 서울대 법대 81학번 동기(1985년 졸업)이자 사법연수원 18기(1989년 수료) 동기다. 이재명 대표도 같은 18기 동기생이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;김 수석은 연수원 수료 직후 서울지검 검사로 임관했고, 정 의원은 1992년 변호사로 개업했다. 정 의원은 민주사회를 위한 변호사모임(민변)에 가입한 뒤 경기북부 환경운동연합공동대표를 맡으며 사회운동에 나섰다. 정 의원이 2004년 열린우리당 후보로 출마해 17대 국회의원에 당선했을 때 김 수석은 대검 기획과장이었다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;김 수석은 2012~2015년 법무부 기획조정실장, 검찰국장, 차관(장관 직무대행)을 차례로 거쳤다. 이들 자리는 법무부의 요직으로 꼽히는데 국회에 출석해 법무·검찰의 정책이나 법제도 개선을 설명하고 예산을 따내는 것도 주요 역할이다. 김 수석은 대학 및 연수원 시절의 인연을 토대로 정 의원과 친밀한 관계를 유지한 것으로 알려졌다. 특히 정 의원은 민주당 원내 수석부대표로 당의 중책을 맡고 있어 김 차관이 긴밀한 소통과 협의를 할 수 있었던 자리에 있었다. 정 의원도 야당의 대표적인 율사로 검찰 관련 필요한 일이 있을 때 김 수석과 접촉을 하며 협의를 했던 것으로 전해졌다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;최근 함성득 경기대 정치전문대학원장과 임혁백 고려대 명예교수가 언론 인터뷰를 갖고 영수회담에서 가교 역할을 했다고 공개하면서 ‘비선 논란’이 벌어졌다. 법조계에서는 김 수석과 정 의원이 서로를 너무나 잘 알고 깊은 인연이 있는 만큼 ‘대통령실 왕수석’과 ‘친명 좌장’으로서 공식, 비공식적으로 상당히 중요한 역할을 할 것으로 전망하고 있다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;/p&gt;</description>
 			<pubDate>Wed, 15 May 2024 13:04:15 -0000</pubDate>
@@ -223,24 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198285</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/198285.jpg</media:thumbnail>
 			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>【오늘의 국회일정】 2024년 5월 14일</title>
-			<description>&lt;b&gt;◇ 국회사무총장&lt;/b&gt;&lt;br /&gt;10:30 국회 언론환경개선자문위원회 3기 위촉식(국회접견실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;◇ 의원실 세미나&lt;/b&gt;&lt;br /&gt;10:00 김형동 의원실 등, ILO 관점에서 본 ESG경영과 임금보호를 위한 제95호 협약 비준의 필요성(의원회관 제1세미나실)&lt;br /&gt;&lt;br /&gt;10:00 양이원영 의원실 등, [탄소중립과 원전안전을 위한 22대 국회의 과제 연속세미나 2차] 원전과 방사능으로부터 안전한 대한민국을 위한 22대 국회의 과제(의원회관 제2세미나실)&lt;br /&gt;&lt;br /&gt;14:00 양경규 의원실, 이랜드 노동권 침해 문제점과 대응 방안 모색을 위한 국회 토론회(의원회관 제6간담회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;◇ 소통관 기자회견&lt;/b&gt;&lt;br /&gt;10:00 용혜인 의원, [언론노조-기본소득당 방송3법 재입법 및 언론장악 국정조사 실시 요구 기자회견]&lt;br /&gt;&lt;br /&gt;10:20 강경숙 조국혁신당 당선인, [스승의날 기념 및 학생인권·교권 폐지 시도 규탄 기자회견]&lt;br /&gt;&lt;br /&gt;10:40 장경태 의원, [김영철 검사 추가 고발 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 남인순 의원, [서울시사회서비스원 폐지 조례에 대한 오세훈 서울시장 재의권 행사 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;11:20 장혜영 의원, [국회 과학기술정보방송통신위원회 계류 AI법안 폐기와 22대 국회 제대로 된 AI법 마련 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;13:40 양이원영 의원, [고준위 특별법 관련 기자회견]&lt;br /&gt;&lt;br /&gt;14:00 조승래 의원, [국회 과학기술정보방송통신위원회 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있음.&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;</description>
-			<pubDate>Mon, 13 May 2024 22:30:21 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198276</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198276</guid>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>【오늘의 법조】 2024년 5월 14일</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[법원]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷'특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 이재명 더불어민주당 대표 외 1명 26차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시30분, 서울중앙지법&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷'노동조합및노동관계조정법위반 등 혐의' 허영인 SPC그룹 회장 외 17명 1차 공판준비기일&lt;/b&gt;&lt;br /&gt;-오후 4시, 서울중앙지법&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;   &lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[로펌]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷법무법인 세종, '건설부동산 분쟁 아카데미(2회차)'&lt;/b&gt;&lt;br /&gt;-오후 3시, 서울 종로구 청진동 디타워 23층 세미나실&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:2px 0 0 0; border-style:bold; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;   &lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[오늘의 PICK ]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷법원장 후보추천제 시행 후 4년간 고법부장 49명 사표&lt;/b&gt;&lt;br /&gt;법원장 후보추천제가 국민이 받는 사법서비스의 질 하락으로 이어지고있다. 법원장으로 가는 길이 막힌 엘리트 고법 부장들의 이탈이 이어지면서다. 법률신문 취재에 따르면 법원장 후보 추천제가 시행된 2019년 이후 4년간 고법 부장(이상급) 이상 고위 법관 49명이 사표를 내고 법원을 떠났다. 일종의 ‘명예 보상’으로 여겨진 고법 부장 승진 폐지는 판사들의 일할 의욕을 감퇴시켜 재판 지연의 원인이 되고 있다는 지적도 나온다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;   &lt;a href="https://www.lawtimes.co.kr/news/198207" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;b&gt;&lt;br /&gt;▷[단독] 기피 보직된 ‘형사재판부’ 형평성 제고 개선안 마련하나&lt;/b&gt;&lt;br /&gt;법원 법원행정처가 최근 형사재판부 근무 형평성 제고를 위해 법관 설문에 나섰다. 형사재판부는 다른 사무분담에 비해 육체적, 정신적 소모가 더욱 크다고 여겨진다. 그러나 고법 부장 승진 폐지를 비롯해 힘든 사무분담을 맡아도 그에 대한 보상이 없는 상황이 지속되자, 법원 내부에서 형사재판 기피현상이 더 늘어났다. 이에 법원행정처가 비선호 보직에 대한 차등 보상 방안을 마련하려는 것으로 보인다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;a href="https://www.lawtimes.co.kr/news/198204" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Mon, 13 May 2024 22:30:12 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198274</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198274</guid>
-			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
