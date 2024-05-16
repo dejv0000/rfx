@@ -6,6 +6,24 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>【오늘의 법조】 2024년 5월 17일</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[법원]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷대법원 2부 선고&lt;/b&gt;&lt;br /&gt;-오전 10시&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;&lt;b&gt;※2018다262103 홈플러스 ‘1㎜ 깨알고지’ 경품행사 개인정보 판매 손배소, 2023도17882 강종만 영광군수 공직선거법 위반&lt;/b&gt;&lt;/span&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷'특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 유동규 외 4명 130차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시, 서울중앙지법&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷'직권남용권리행사방해 등 혐의' 서훈 전 청와대 국가안보실장 외 4명 25차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시, 서울중앙지법&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷'공직선거법 위반 혐의' 이재명 더불어민주당 대표 21차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시 30분, 서울중앙지법&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷'자본시장과 금융투자업에 관한 법률 위반 등 혐의' 영풍제지 주가조작 관련 윤모 씨 외 7명 공판&lt;/b&gt;&lt;br /&gt;-오전 11시, 서울남부지법&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷'부정청탁및금품등수수의금지에관한법률위반 혐의' 박영수 전 특검 외 5명 9차 공판&lt;/b&gt;&lt;br /&gt;-오후 2시, 서울중앙지법&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷'폭력행위 등 처벌에 관한 법률 위반(공동폭행)등 혐의' 국회 패스트트랙 사건 관련 박범계 더불어민주당 의원 외 9명 공판&lt;/b&gt;&lt;br /&gt;-오후 2시, 서울남부지법&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[학계]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷한국지방세학회, '2024년 춘계학술대회'&lt;/b&gt;&lt;br /&gt;-오후 2시, 서울 종로구 공평동 센트로폴리스&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:2px 0 0 0; border-style:bold; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[오늘의 PICK ]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷신임 검사 93명 중 지방 로스쿨 출신 39명&lt;/b&gt;&lt;br /&gt;올해 신규 임용된 검사 93명의 출신 로스쿨을 분석한 결과, 지방 로스쿨 출신이 39명으로 41.9%를 차지했다. 지난해보다 19.5%P 증가한 것으로 나타났다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/198281" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;b&gt;&lt;br /&gt;▷‘민정수석’과 ‘친명좌장’의 특별한 인연&lt;/b&gt;&lt;br /&gt;김주현 대통령민정수석비서관과 이재명 더불어민주당 대표의 ‘친명계 좌장’으로 꼽히는 정성호 민주당 의원의 매우 특별한 인연과 관계가 법조계에서 화제다. 김 수석과 정 의원은 서울대 법대 81학번 동기(1985년 졸업)이자 사법연수원 18기(1989년 수료) 동기다. 이재명 대표도 같은 18기 동기생이다.&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/198272" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Thu, 16 May 2024 22:39:32 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198342</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198342</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
+			<title>【오늘의 국회일정】 2024년 5월 17일</title>
+			<description>&lt;b&gt;◇ 국회사무총장&lt;/b&gt;&lt;br /&gt;10:00  2023년도 국회사무처 업무실적 우수 부서 포상식(국회접견실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 상임위원회&lt;/b&gt;&lt;br /&gt;10:00 법제사법위원회 전체회의(본관 406호)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 의원실 세미나&lt;/b&gt;&lt;br /&gt;10:00 이상헌 의원실, [한국-네팔 수교 50주년 기념 특별 강연회] 미래 도시의 발전 : 지속 가능한 개발을 위한 스마트 솔루션(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;14:00 한기호 의원실 등, 미래산업글로벌도시 조성을 위한 강원형 국제학교 설립 방향(의원회관 제8간담회의실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 소통관 기자회견&lt;/b&gt;&lt;br /&gt;09:00 조국 조국혁신당 대표, [개헌 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:00 허숙정 의원, [금감원 내부감사 이행 촉구 관련 기자회견]&lt;br /&gt;&lt;br /&gt;14:00 주이삭 개혁신당 대변인, [개혁신당 전당대회 당대표 선거 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있음.&lt;/span&gt;&lt;/b&gt;</description>
+			<pubDate>Thu, 16 May 2024 22:39:26 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198358</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198358</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>전국 법원 순회 마무리한 조희대 대법원장…"법관 증원법 통과에 힘 쏟을 것"</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/198357_0.jpg" alt="198357_0.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6022"&gt;조희대&lt;/span&gt;&amp;nbsp;대법원장이 두달 간 진행한 전국 법원 방문을 마무리하며 '재판 지연' 해결 의지를 다시 강조했다. 이를 위해 현재 국회에서 진행 중인 법관 증원 관련 법안 통과에 매진할 것을 주문했다.&lt;p&gt;   &lt;br /&gt;조 대법원장은 16일 오후 서울 서초구 서울고법을 방문해 법관 및 직원 간담회에서 구성원들의 애로사항을 듣고, 사법부가 당면한 과제에 대한 의견을 나눴다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이날 조 대법원장은 간담회에 앞서 "인사청문회부터 취임한 이후 지금까지 각계각층에서 지적한 사법부의 가장 시급하고 중요한 현안은 재판 지연 문제"라고 강조했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;조 대법원장은 "법관 수는 부족하고, 법조일원화로 인해 법관의 고령화가 급속도로 진행되고 있지만 제대로 일할 여건은 조성되지 못하고 있다"면서도 "하지만 사법부는 어떠한 상황에서도 주권자인 국민과 헌법이 명한 책무를 완수해야 한다"고 말했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;또 "근래 몇 년 동안 사법부 예산이 국가 예산에서 차지하는 비중이 0.43%에서 0.33%로 감소한 시점과 맞물려 장기 미제 사건이 큰 폭으로 증가하는 등 사법부 예산 감소는 재판 지연의 주요한 원인이었다"며 "이로 인해 국민의 정신적, 경제적 고통이 가중되었을 뿐 아니라 법률 분쟁의 장기화로 국가 경제, 국제 경쟁력 및 사법부의 국제적 위상에도 악영향을 미쳤다"고 평가했다. 그러면서 "향후 지속적으로 관계 기관과의 협의를 통해 예산 확보를 위해 더 많은 노력을 기울이겠다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/198357.jpg" alt="198357.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;조 대법원장은 국회에서 진행 중인 '법관 증원에 관한 법률안' 개정에 대해서도 언급했다. 그는 "사법부의 상황이 심각함을 인식하고, 우리의 변화 노력을 응원해 주는 국민의 의지가 반영된 결과일 것"이라며 "국민의 뜻을 받들어 최종 통과에 힘을 쏟아 어려운 상황을 개선하도록 더욱 노력해야 할 것"이라고 강조했다.               &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;조 대법원장은 올해 3월 중순부터 충주지원을 시작으로 이날 서울고법까지 19개 도시를 찾아 6곳의 고등법원(특허법원 포함)과 지방법원 14곳, 가정·회생법원 8곳, 지방법원 지원 7곳 등 총 35개 법원 및 지원을 방문해 구성원을 격려했다. 동시에 천대엽 법원행정처장도 7개 도시를 방문해 고등법원 1곳과 지방법원 4곳, 가정·행정·회생법원 4곳, 지방법원 지원 4곳 등 13개 법원 및 지원 구성원과 간담회를 열었다.                  &lt;/p&gt;&lt;p&gt;   &lt;br /&gt;2개월 동안 전국 법원을 순회하면서 조 대법원장과 천 처장은 사법부 구성원의 의견을 듣기 위한 간담회에 최대한 긴 시간을 할애했다. 간담회 이후의 오·만찬 중에도 조 대법원장과 천 처장은 직접 테이블을 돌면서 법관 및 직원과 직접 대화하고자 노력했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;대법원은 이번 방문을 통해 수렴한 사법부 구성원의 의견을 사법행정에 적극 반영하고, 향후 개선 방안을 마련할 예정이다.&lt;/p&gt;</description>
 			<pubDate>Thu, 16 May 2024 09:52:11 -0000</pubDate>
@@ -221,26 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198307</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/198307.jpg</media:thumbnail>
 			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 율촌, '미-중 무역분쟁이 우리 기업에 미치는 영향 및 법적 유의사항' 세미나 22일 열어</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/198302.jpg" alt="198302.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.yulchon.com/ko/main/main.do" target="_blank"&gt;&lt;b&gt;법무법인 율촌&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7573"&gt;강석훈&lt;/span&gt;)이 '미·중 무역분쟁에 따른 우리 기업에 대한 영향 및 법적 유의사항'을 주제로 22일 서울 강남구 삼성동 트레이드타워 한국무역협회에서 세미나를 연다. &lt;br /&gt;&lt;br /&gt;한국무역협회와 율촌이 공동 주최한 이번 세미나는 미·중 무역 분쟁의 현황을 정확히 살펴 보고, 양국 간 상호 경제제재 및 수출통제 조치가 우리나라 기업에 미치는 영향과 우리 기업들이 법적으로 유의할 사항을 짚어보기 위해 마련됐다.&lt;br /&gt;&lt;br /&gt;첫 순서는 호주·미얀마 대한민국 대사관 대사, 외교부 북미국장을 지낸 이백순 고문의 인사말로 진행된다. 이어 율촌의 국제 제재 팀장인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4147"&gt;신동찬&lt;/span&gt;(53·사법연수원 26기) 변호사가 '미국의 중국에 대한 수출통제 및 경제 제제 현황'을, 중국팀&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="35798"&gt;김정민&lt;/span&gt;(변호사시험 8회) 변호사가 '중국의 미국에 대한 수출통제 및 경제 제재 현황'을 주제로 발표할 예정이다. &lt;br /&gt;&lt;br /&gt;율촌 관계자는 "대만의 라이칭더 당선인의 총통 취임에 즈음해 미·중 갈등이 한층 격화될 가능성이 높은 시기에 열릴 본 세미나가 우리 기업의 권익을 지키는데 도움을 드릴 수 있기를 바란다"고 말했다. &lt;br /&gt;&lt;br /&gt;참석 희망자는 율촌 홈페이지를 통해 20일까지 신청할 수 있다.</description>
-			<pubDate>Tue, 14 May 2024 09:31:48 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198302</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198302</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/198302.jpg</media:thumbnail>
-			<dc:creator>유지인 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 바른‧젠스타메이트, 부동산 관리에 관한 포괄적 컨설팅 MOU 체결</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/198305.jpg" alt="198305.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.barunlaw.com/" target="_blank"&gt;&lt;b&gt;법무법인 바른&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="611"&gt;박재필&lt;/span&gt;‧&lt;span style="font-weight: bold;" class="lawmanlink" serial="8758"&gt;이동훈&lt;/span&gt;‧&lt;span style="font-weight: bold;" class="lawmanlink" serial="266"&gt;이영희&lt;/span&gt;)과 부동산 종합 서비스 업체인 젠스타메이트(대표 최진원)가 13일 서울 강남구 바른빌딩 대회의실에서 업무협약을 체결했다. &lt;br /&gt;&lt;br /&gt;이번 협약에 따라 젠스타메이트가 바른에 부동산 관리업무에 관한 컨설팅을 제공하기로 했다. 이 외에도 두 기관은 △부동산 업무 정보 공유 △부동산 시장조사, 마케팅, 매입/매각, 자산관리에 관한 상호간의 업무 추진 △기타 요청에 대한 상호 협력 등을 할 계획이다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: 700;"&gt;박재필&lt;/span&gt;(63‧사법연수원 16기) 대표변호사는 "이번 업무협약으로 바른이 자산관리 분야에서 쌓아온 풍부한 업무 경험과 젠스타메이트의 부동산 분야 전문성이 더해져 한층 더 업그레이드된 법률자문을 제공할 수 있을 것으로 기대된다"고 말했다.&lt;br /&gt;&lt;br /&gt;젠스타메이트는 관리 면적 기준 국내 최대 상업용 부동산 종합 서비스 회사로 300여 명의 부동산 전문가들이 소속돼 있다.&lt;br /&gt;</description>
-			<pubDate>Tue, 14 May 2024 09:30:57 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198305</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198305</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/198305.jpg</media:thumbnail>
-			<dc:creator>유지인 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
