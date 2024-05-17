@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>김형두 재판관, 브라질 J20 정상회의 참석</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/198371.jpg" alt="198371.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;헌법재판소는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1549"&gt;김형두&lt;/span&gt;&amp;nbsp;헌법재판관이 지난 12일부터 14일까지(현지 시각) 브라질 리우데자네이루에서 열린 J20 정상회의(J20 Summit)에 참석했다고 밝혔다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;김 재판관은 △사법에 의한 시민권 증진과 사회통합 △기후소송과 지속가능한 발전 △사법 효율 향상을 위한 디지털 변혁과 기술 활용에 관한 대한민국의 쟁점을 소개했다. 또 이를 해결하기 위한 헌법재판소와 법원의 주요결정과 고민에 대해 논의했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;J20 정상회의는 G20 회원국의 헌법재판소장과 대법원장 등이 참여하는 국제회의다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이번 회의에는 루이스 로베르토 바로소(Luis Roberto Barroso) 브라질 연방대법원장과 슈테판 하바트(Stephan Harbarth) 독일 연방헌법재판소장, 로랑 파비우스(Laurent Fabius) 프랑스 헌법재판소장, 로드 리드 오브 알러뮤어(Lord Reed of Allermuir) 영국 대법원장, 리샤 바그너(Richard Wagner) 캐나다 연방대법원장, 다나냐야 예슈완트 찬드라추드(Dhananjaya Yashwant Chandrachud) 인도 대법원장, 레이몬드 뮬랑기시 민룽기시 존도(Raymond Mnyamezeli Mlungisi Zondo) 남아프리카공화국 헌법재판소장 등이 참석해 각국 사법기관의 관점과 경험을 공유했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;한편 김 재판관은 J20 정상회의 참석차 11일(현지 시각) 미국을 경유하면서 조지아주에 있는 '한국전 참전 기념비'를 방문해 참전용사의 희생을 기리고 헌화했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/198371_0.jpg" alt="198371_0.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Fri, 17 May 2024 00:40:46 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198371</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198371</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/198371.jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 법조】 2024년 5월 17일</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[법원]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷대법원 2부 선고&lt;/b&gt;&lt;br /&gt;-오전 10시&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;&lt;b&gt;※2018다262103 홈플러스 ‘1㎜ 깨알고지’ 경품행사 개인정보 판매 손배소, 2023도17882 강종만 영광군수 공직선거법 위반&lt;/b&gt;&lt;/span&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷'특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 유동규 외 4명 130차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시, 서울중앙지법&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷'직권남용권리행사방해 등 혐의' 서훈 전 청와대 국가안보실장 외 4명 25차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시, 서울중앙지법&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷'공직선거법 위반 혐의' 이재명 더불어민주당 대표 21차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시 30분, 서울중앙지법&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷'자본시장과 금융투자업에 관한 법률 위반 등 혐의' 영풍제지 주가조작 관련 윤모 씨 외 7명 공판&lt;/b&gt;&lt;br /&gt;-오전 11시, 서울남부지법&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷'부정청탁및금품등수수의금지에관한법률위반 혐의' 박영수 전 특검 외 5명 9차 공판&lt;/b&gt;&lt;br /&gt;-오후 2시, 서울중앙지법&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷'폭력행위 등 처벌에 관한 법률 위반(공동폭행)등 혐의' 국회 패스트트랙 사건 관련 박범계 더불어민주당 의원 외 9명 공판&lt;/b&gt;&lt;br /&gt;-오후 2시, 서울남부지법&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[학계]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷한국지방세학회, '2024년 춘계학술대회'&lt;/b&gt;&lt;br /&gt;-오후 2시, 서울 종로구 공평동 센트로폴리스&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:2px 0 0 0; border-style:bold; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[오늘의 PICK ]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷신임 검사 93명 중 지방 로스쿨 출신 39명&lt;/b&gt;&lt;br /&gt;올해 신규 임용된 검사 93명의 출신 로스쿨을 분석한 결과, 지방 로스쿨 출신이 39명으로 41.9%를 차지했다. 지난해보다 19.5%P 증가한 것으로 나타났다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/198281" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;b&gt;&lt;br /&gt;▷‘민정수석’과 ‘친명좌장’의 특별한 인연&lt;/b&gt;&lt;br /&gt;김주현 대통령민정수석비서관과 이재명 더불어민주당 대표의 ‘친명계 좌장’으로 꼽히는 정성호 민주당 의원의 매우 특별한 인연과 관계가 법조계에서 화제다. 김 수석과 정 의원은 서울대 법대 81학번 동기(1985년 졸업)이자 사법연수원 18기(1989년 수료) 동기다. 이재명 대표도 같은 18기 동기생이다.&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/198272" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Thu, 16 May 2024 22:39:32 -0000</pubDate>
@@ -229,16 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198317</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/198317.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>[단독] 김오수 前 검찰총장, 중앙N남부 법률사무소 합류</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/198307.jpg" alt="198307.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;문재인 정부의 마지막 검찰총장을 지낸&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2667"&gt;김오수&lt;/span&gt;(61·사법연수원 20기) 전 총장이 중앙N남부 법률사무소로 합류한다.&lt;br /&gt;&lt;br /&gt;14일 법조계에 따르면, 김 전 총장은 이달부터 중앙N남부에 합류해 대표변호사로 근무할 예정이다.&lt;br /&gt;&lt;br /&gt;김 전 총장은 10일 대한변호사협회로부터 변호사 등록을 승인받은 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;광주대동고와 서울대 법대를 나온 김 전 총장은 1988년 제30회 사법시험에 합격해, 1991년 사법연수원 제20기로 수료했다. 1994년 인천지검 검사로 임관해 대검 범죄정보1담당관, 서울고검 형사부장, 대검 과학수사부장, 법무부 차관 등으로 근무했다. 2020년 9월 변호사로 개업한 뒤 2021년 검찰총장으로 임명됐다. 총장 퇴임 이후에는 전남대 로스쿨 석좌교수 등을 역임했다.&lt;br /&gt;&lt;br /&gt;김 전 총장은 지난달 법무법인 화현에서 변호사로 근무하겠다고 취업 심사를 신청했지만, 정부공직자윤리위원회는 취업을 불허했다. 공직에서 맡은 업무와 화현에서의 변호사 일이 연관성이 있다고 본 것이다. 고위 공직자는 퇴직 후 3년 동안 외형거래액이 100억 원 이상인 로펌 등에 재취업할 경우 공직자윤리위의 취업 심사를 통과해야 한다. 중앙N남부는 연간 매출액이 100억 원 미만으로, 취업심사 대상 로펌에 포함되지 않는다.</description>
-			<pubDate>Tue, 14 May 2024 10:18:21 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198307</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198307</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/198307.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
