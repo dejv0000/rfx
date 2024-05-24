@@ -155,14 +155,22 @@ def chMain():
         newList = curfeed.findall('.//item')
         pass
 
+
+
     print(len(newList), len(keepList))
-    k = 0
+
+    firstItemIndex = curfeed.find('channel').index(curfeed.find('.//item'))
+    #print()
+
+
+
+    k = firstItemIndex
     for i in newList:
         if '오늘의 운세' not in i.find('title').text:
             getContents(i)
-            curfeed.find('channel').insert(k, i)
+            curfeed.find('channel').insert(k, i) #이렇게 넣어버리니까 메타태그 - channel title 따위도 다 없어지네.
             
-            k = k+1
+            k = k + 1
             
             time.sleep(random.uniform(5,10))
             
