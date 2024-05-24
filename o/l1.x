@@ -6,6 +6,46 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>서울회생법원, 한국신용정보원과 '도산절차 이용 희망 한계채무자 상담 지원 업무협약' 체결</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/198529.jpg" alt="198529.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;서울회생법원&lt;/b&gt;(법원장 안병욱)과&lt;b&gt; 한국신용정보원&lt;/b&gt;(원장 최유삼)은 23일 오후 서울 서초구 서울회생법원에서 '도산절차 이용을 희망하는 한계채무자의 상담 등 지원을 위한 업무협약'을 체결했다.&lt;p&gt;&amp;nbsp;&amp;nbsp;   &lt;p&gt;이번 업무협약은 사회적 취약계층과 다중채무로 인해 채무를 감당할 수 없어 도산 절차를 희망하는 한계채무자를 위해 부채내역 등 신용정보를 조회해 적합한 도산 절차를 안내하고 상담하는 서비스를 제공하고자 마련됐다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;서울회생법원은 법률 사각지대에 있는 기초생활수급자, 중증 장애인 등 사회적 취약계층과 다중채무에 시달리는 한계채무자를 위해 도산 절차를 안내하고 상담해주는 '뉴스타트 상담센터'를 운영하고 있지만 지금까지 채무자가 센터를 방문해도 본인의 부채내역이나 채권자가 누구인지를 정확하게 알 수 없어 상담 과정에서 어려움이 있었다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;이번 협약을 통해 6월부터 채무자가 신분증만 가지고 서울회생법원 상담센터를 방문하면 본인의 부채내역 등 신용정보를 제공받아 상담에 활용하고, 본인에게 맞는 도산 절차를 안내받을 수 있게 됐다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;이번 협약은 지난해 안병욱 법원장 취임 후 서울회생법원에서 진행 중인 '뉴스타트 원스톱 상담서비스' 구축에도 큰 도움이 될 것으로 보인다. 서울회생법원은 사회적 취약계층과 한계채무자가 개인도산 제도를 이용하기가 현실적으로 어려움이 많다는 판단 아래 이들이 서울회생법원을 방문하면 상담부터 도산절차 신청까지 한 번에 가능하도록 하는 '뉴스타트 원스톱 상담서비스' 구축을 목표로 하고 있다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;한편, 대법원은 법원이 도산절차 이용을 희망하는 채무자에게 절차 안내, 상담 등을 지원할 수 있도록 하는 채무자 회생 및 파산에 관한 규칙 일부개정안을 지난달 12일 입법예고하고 이날 대법관회의에서 의결했다. 이 규칙개정안에는 신용정보주체인 개인 채무자의 동의를 받으면 신용정보집중기관의 장에게 신용정보의 제공을 요구할 수 있도록 하는 내용도 포함됐다.&lt;/p&gt;   &lt;/p&gt;</description>
+			<pubDate>Fri, 24 May 2024 01:42:21 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198529</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198529</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/198529.jpg</media:thumbnail>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
+			<title>IOJT 의장단, 11월 국제콘퍼런스 앞두고 주요 준비사항 점검 위해 한국 방문</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/198530_0.jpg" alt="198530_0.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/198530.jpg" alt="198530.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;올해 11월 3일부터 7일까지 국내에서 개최되는 제11회 IOJT(International Organization for Judicial Training) 국제콘퍼런스를 앞두고 IOJT 의장단이 한국을 방문해 주요 준비사항을 점검했다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;IOJT 아델 켄트 의장과 메리 맥퀸 사무총장은 지난 20일 경기 고양시 사법연수원을 방문해 권기훈(62·사법연수원 18기) 사법연수원장을 접견하고 3일간 사법연수원과 국제콘퍼런스의 등록절차, 프로그램 구성 등에 관해 논의했다. 22일에는 대법원 법원행정처를 방문해 콘퍼런스 개최 현안에 대한 의견을 나눴다.   &lt;p&gt;      &lt;br /&gt;2002년 조직된 IOJT는 사법 연수를 위한 국제기구로 현재 140여개의 세계 주요 사법연수기관으로 구성돼 있다. 사법연수원은 2018년 IOJT에 가입했으며 2022년 동북아시아 기관 중 최초로 IOJT 총회 및 국제콘퍼런스를 유치했다.      &lt;p&gt;         &lt;br /&gt;         &lt;p&gt;법관을 비롯한 사법 종사자가 참가하는 대규모 국제회의인 IOJT 국제콘퍼런스는 오는 11월 소노캄 고양에서 열린다. '기로에 선 사법교육: 사법의 미래를 위한 준비'를 주제로 열리는 이번 국제콘퍼런스에서는 △인간(Human) △기술(Technology) △정책(Policy)에 관해 국내외 법률가들의 폭넓은 논의와 토론이 이뤄질 예정이다.&lt;/p&gt;      &lt;/p&gt;   &lt;/p&gt;   &lt;/p&gt;</description>
+			<pubDate>Fri, 24 May 2024 01:41:40 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198530</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198530</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/198530_0.jpg</media:thumbnail>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
+			<title>징계 받은 법관, 직무성과금 지급 대상서 제외된다</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/190524(12).jpg" alt="190524.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대법원이 징계를 받은 판사를 직무 성과금 지급 대상에서 제외할 수 있도록 근거 규정을 마련했다.&lt;p&gt;   &lt;br /&gt;대법원 법원행정처는 23일 대법관회의에서 이런 내용의 '법관 및 법원공무원 수당 등에 관한 규칙 일부개정안'을 의결했다고 밝혔다.   &lt;p&gt;&amp;nbsp; &lt;br /&gt;규칙 일부개정안은 '평가 대상 기간 중 징계처분을 받은 법관의 경우 징계 사유를 고려해 직무성과금을 지급하지 않거나 지급액을 조정할 수 있도록 한다'는 조항을 신설하는 것이 골자다.      &lt;p&gt;         &lt;br /&gt;현행 규정에 따라 법관은 직무의 내용과 곤란도, 책임 정도를 고려해 에산 범위에서 1년에 2번(상·하반기) 직무성과금을 지급받았다.         &lt;p&gt;            &lt;br /&gt;하지만 평가 기준 중에 징계를 받은 법관의 경우 성과금 지급 대상에서 제외하는 규정이 없어 감봉, 정직 등 처분을 받은 판사에게도 성과금이 지급되며 법원 안팎에서 비판이 일었다.            &lt;p&gt;               &lt;br /&gt;개정된 규칙은 올해 상반기 중 판사의 직무를 평가하는 하반기 직무성과금 평가위원회부터 적용될 예정이다.            &lt;/p&gt;         &lt;/p&gt;      &lt;/p&gt;      &lt;/p&gt;&lt;/p&gt;</description>
+			<pubDate>Fri, 24 May 2024 01:15:39 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198538</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198538</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/190524(12).jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
+			<title>한국사내변호사회, 2024 회원의 밤 성료</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/198537.jpg" alt="198537.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;한국사내변호사회&lt;/b&gt;(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13431"&gt;이재환&lt;/span&gt;, 한사회)가 지난 23일 서울 강남구 청담동 피플더테라스에서 '회원의 밤'을 개최했다. 이날 행사에는 기업에 소속된 100여 명의 사내 변호사와 법무법인 태평양, 율촌 소속 변호사 등 로펌 관계자 40여 명이 참석했다. &lt;br /&gt;&lt;br /&gt;1부에서는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="25140"&gt;전우철&lt;/span&gt;(44·변호사시험 1회) 변호사와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="31029"&gt;성지인&lt;/span&gt;(37·3회) 변호사가 사회를 맡아 진행했다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: 700;"&gt;이재환&lt;/span&gt;(45·사법연수원 35기) 회장은 개회사에서 "오늘 처음 뵙는 분들도 많은데  앞으로도 사내 변호사들의 커리어 등에 많은 도움될 수 있도록 좋은 만남을 준비하겠다"고 말했다.&lt;br /&gt;&lt;br /&gt;이어&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="32148"&gt;김정욱&lt;/span&gt;(45·2회) 서울지방변호사회장은 "서울지방변호사회도 한사회와 여러 협업을 진행하고 있으니 많은 관심을 가져 달라"고 당부했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="31208"&gt;류윤교&lt;/span&gt;(42·2회) 사무총장은 2024년 한사회의 계획을 설명하며, 10월 4일 파라스파라 서울에서 진행되는 한사회 1박 2일 워크숍 참석을 독려했다.&lt;br /&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/198537_1.jpg" alt="198537_1.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;2부에서는 식사와 네트워킹 시간과 함께 네 컷 포토 부스 촬영 및 경품 이벤트가 진행됐다. &lt;br /&gt;&lt;br /&gt;한사회는 하반기에도 △법제개선분과 △벤쳐투자학술위 △노동학술위원회 △헬스케어 분과 △ 플랫폼·유통분과 △정보보호학술위원회 세미나와 북콘서트, 로펌 간담회 등 다양한 행사를 개최할 계획이다.&lt;br /&gt;</description>
+			<pubDate>Fri, 24 May 2024 00:42:03 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198537</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198537</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/198537.jpg</media:thumbnail>
+			<dc:creator>안현 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2024년 5월 24일</title>
 			<description>&lt;b&gt;◇ 국회의장&lt;/b&gt;&lt;br /&gt;11:00 수원시청 방문(수원시청)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇국회사무총장&lt;/b&gt;&lt;br /&gt;14:00 국회방송 개국 20주년 기념 행사(의정관 3층홀)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;09:00 윤상현 의원실, 윤상현의 보수혁신 대장정 진보가 보는 보수 세미나(의원회관 제2세미나실)&lt;br /&gt;&lt;br /&gt;10:30 전용기 의원실 등, [콘텐츠미래융합포럼 18차 정책토론회] 라인 사태 긴급토론회(의원회관 제4간담회의실)&lt;br /&gt;&lt;br /&gt;15:00 전재수 의원실, 한글의 로마자 전환법에 대한 국회 정책간담회(의원회관 제1간담회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;10:20 윤종군 더불어민주당 대변인, [해병대원 특검법 재의결 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
 			<pubDate>Thu, 23 May 2024 22:37:03 -0000</pubDate>
@@ -200,46 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198492</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/198492_0(2).jpg</media:thumbnail>
 			<dc:creator>유지인 기자</dc:creator>
-		</item>
-		<item>
-			<title>'음주 뺑소니' 김호중 구속영장 청구</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/198489.jpg" alt="198489.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;검찰이 음주운전 뺑소니 혐의를 받는 트로트 가수 김호중에 대한 구속영장을 청구했다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;서울중앙지검 인권보호부&lt;/b&gt;(부장검사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10419"&gt;임일수&lt;/span&gt;)는 22일 특가법위반(도주치상, 위험운전치상), 도로교통법위반(사고후미조치)과 범인도피방조 혐의로 가수 김호중, 범인도피교사 혐의로 소속사 대표 이광득, 범인도피교사 및 증거인멸 혐의로 소속사 본부장 전 모 씨에 대해 경찰이 신청한 구속영장을 청구했다. &lt;br /&gt;&lt;br /&gt;김호중은 지난 9일 서울 강남구 압구정동에서 음주운전을 하다 택시를 들이받은 뒤 달아난 혐의를 받고 있다. 이외에도 사고 3시간 뒤 김호중의 매니저가 대신 경찰서를 찾아 허위 자수를 하고 블랙박스 메모리 카드를 제거하는 등 조직적으로 범죄를 은닉한 혐의도 받고 있다. &lt;br /&gt;&lt;br /&gt;김호중은 사고 뒤에도 음주 사실은 강하게 부인해오다 지난 19일 음주 사실을 인정했다.&lt;br /&gt;&lt;br /&gt;김호중은 21일 서울 강남경찰서에 출석해 조사를 받았다. 김호중의 변호인 조남관 변호사는 "음주운전을 포함한 사실관계를 모두 인정했고, 성실히 조사를 받았다"며 "한순간의 거짓으로 국민들을 화나게 했지만, 뒤늦게라도 시인했고 국민들에게 용서 구하고 있다"고 말했다.&lt;br /&gt;</description>
-			<pubDate>Wed, 22 May 2024 08:51:54 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198489</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198489</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/198489.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>오동운 신임 공수처장 취임..."공수처는 수사기관, 수사 잘하는 게 기본 자세"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;div class="cheditor-caption-wrapper"&gt;      &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;         &lt;img src="https://image.lawtimes.co.kr/images/198488(1).jpg" alt="198488.jpg" style="width: 100%; height: auto;" /&gt;         &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2045"&gt;오동운&lt;/span&gt;(55·사법연수원 27기) 제2대 고위공직자범죄수사처장이 취임 일성으로 "공수처가 본연의 기관설립 취지에 맞는 역할을 다할 수 있도록 더욱 성장 발전시켜야 하는 2대 공수처장으로서 무한한 책임감을 느낀다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;오 처장은 22일 경기 과천시 정부과천청사에서 열린 취임식에서 "권력에 대한 독립적이고 엄정한 수사와 견제라는 공수처 설립취지와 그 기능은 지금도 여전히 유효하게 작동하고 있다"며 이같이 말했다. &lt;br /&gt;&lt;br /&gt;오 처장은 공수처의 설립 목적을 강조하며, 국민의 신뢰 회복을 주요 과제로 내세웠다. &lt;br /&gt;&lt;br /&gt;그는 "검찰·경찰 등 수사기관이 있음에도 국민들께서 공수처라는 수사기관을 탄생시킨 것은 고위공직자의 권력형 비리, 살아있는 권력에 대한 엄정한 수사를 통한 공직사회 부패 척결이라는 시대적 과업을 해결해달라는 염원의 발로라고 생각한다"며 "그러나 안타깝게도 공수처는 그동안 국민 기대에 미치지 못한다는 평가를 받아온 게 사실"이라고 말했다. &lt;br /&gt;&lt;br /&gt;그러면서 "공수처는 수사기관으로서 수사를 잘해야 한다"며 "검사, 수사관, 행정직 등 모든 분들이 공수처가 수사를 잘하는 기관으로 만들어가는 것, 그것이야말로 공수처 구성원이라면 의당 갖추어야 하는 기본자세"라고 강조했다. &lt;br /&gt;&lt;br /&gt;오 처장은 공수처의 신뢰 회복을 위해 △수사업무구조 효율화·최적화 △조직 안정화를 위한 인사의 예측 가능화 △타 수사기관과의 협업 등을 적극 추진하겠다고 밝혔다. &lt;br /&gt;&lt;br /&gt;그는 "현재 공수처는 국민의 관심이 높은 여러 중요 사건 수사를 담당하고 있다"며 "모두 사건 관련자가 다수이고 사건 규모가 크기 때문에 조직이 작은 공수처로서는 업무구조를 더욱 효율화하고 최적화하여 신속하고 정확하게 수사해야 한다"고 당부했다. 또 "저는 외부의 압력을 막아내 공수처 검사들이 오로지 법과 원칙에 따라 소신껏 일할 수 있도록 하겠다"고 말했다. &lt;br /&gt;&lt;br /&gt;오 처장은 공수처 조직의 안정성을 확보하기 위해 예측가능한 인사를 하겠다고 약속했다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;그는 "공수처에 접수되는 사건의 비중이나 무게에 비해 상대적으로 조직과 인원이 소규모이다 보니 격무가 반복되고, 여기에 검사와 수사관의 짧은 임기와 연임제도라는 제도적 한계로 인해 잦은 이직이 발생해 조직의 불안정성이 지속적으로 야기되고 있다'며 "구성원들이 임기와 연임 문제에 얽매이지 않고 수사에 매진할 수 있도록 처장으로서 제도 개선을 위하여 최선의 노력을 다하겠다"고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;이어 "인사 역시 수사 성과와 능력, 구성원들의 평가를 종합해 안정적이고 연속성있는 인사, 예측 가능한 인사가 이루어지도록 하겠다"고 강조했다. &lt;br /&gt;&lt;br /&gt;법무부·검찰·경찰 등 다른 기관과의 유기적인 협업도 주요 과제로 꼽았다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;오 처장은 "공수처의 수사인력 부족 문제 해결을 위해 외부기관의 인력파견 등 모든 방안을 포함하는 수사기관 간 협력방안 검토도 필요한 시점"이라며 "다른 반부패 기관들과 유기적 협력체계를 구축하여 관련 법령 정비나 업무 시스템 개선 등을 추진해 나가도록 하겠다"고 말했다. &lt;br /&gt;&lt;br /&gt;마지막으로 오 처장은 "공수처가 설립 취지에 맞게 냉철하게 고위공직자범죄를 엄단하는 강한 반부패 수사기관으로 자리매김하도록 최선을 다하겠다"고 했다. &lt;br /&gt;&lt;br /&gt;전날인 21일 윤석열 대통령은 오 처장 임명안을 재가했다. 이로써 공수처는 4개월 만에 수장 공백을 해소했다. &lt;br /&gt;&lt;/p&gt;</description>
-			<pubDate>Wed, 22 May 2024 08:05:04 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198488</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198488</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/198488(1).jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>"숨통 트였다"…이완규 법제처장, 소상공인연합회 방문해 정책 효과·개선 방안 논의</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/198475.jpg" alt="198475.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=법제처 제공》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;b&gt;법제처&lt;/b&gt;(처장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9236"&gt;이완규&lt;/span&gt;)가 22일 소상공인연합회 대표들과 만나 청소년 나이 확인에 따른 소상공인 부담 완화를 위한 법·제도 개선 방안을 논의한 뒤 "소상공인들의 부담을 줄이고, 선의의 피해자를 보호할 수 있도록 관련 제도 및 법령을 통해 적극적으로 뒷받침하겠다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;이완규 처장은 이날 오후 서울 영등포구 소상공인연합회에서 열린 간담회에서 소상공인들이 현장에서 체감하는 여러 문제점을 듣고 관련 법ㆍ제도에 대한 개선의견 및 향후 정책 방향에 대한 시사점을 논의했다. &lt;br /&gt;&lt;br /&gt;법제처와 소상공인연합회가 주최한 이번 간담회에는 이 처장을 비롯한 법제처 관계자와 유기준 소상공인연합회 회장 직무대행 및 소상공인을 대표하는 5개 협회(대한숙박업중앙회·전국노래연습장업협동조합·한국인터넷PC카페협동조합·한국담배판매인회중앙회·서울시 소상공인연합회) 대표들이 참석했다.  &lt;br /&gt;&lt;br /&gt;먼저 법제처가 관계 부처와 협력해 개정을 완료해 현재 시행 중인 하위법령의 정책효과에 대해 논의했다. 해당 하위법령은 신분증의 위·변조 등으로 청소년에게 속아 술이나 담배를 판매한 사실을 CCTV 등으로 확인할 수 있으면 영업정지 등 행정처분이나 과징금을 면제할 수 있도록 하고 있다. &lt;br /&gt;&lt;br /&gt;협회 관계자는 "개정할 부분이 많지만 그나마 개정된 법안들이 우리에게 큰 도움이 되고 있다. 안심하고 영업할 수 있는 계기가 됐다. 소상공인을 대표해 감사드린다"고 말했다. 이에 이 처장은 "정말로 안심하고 영업하고 계시냐"라고 물었고 관계자는 웃으며 "정말이다. 골목 상권에 숨통이 트였다"고 말했다. &lt;br /&gt;&lt;br /&gt;청소년들이 신분을 속이고 숙박업소에 투숙하거나 사업자 몰래 입실하는 등 범법행위를 하는 경우에도 사업자들만 억울하게 처벌받는 사례들이 많다는 지적도 나왔다. 대한숙박업중앙회 회장은 "숙박을 복지부에서 관리하다보니 여가부의 청소년보호법과 공중위생법이 크게 다르다. 청소년보호법에 없는 내용을 적용해 처벌하고 있다"고 토로했다 &lt;br /&gt;&lt;br /&gt;또 영세한 소상공인들의 CCTV 등 장비 부족, 영업자에게만 부과되는 제재 등으로 인해 자영업자들은 다양한 현실적 어려움에 직면해 있다고 호소하며, 이를 뒷받침하기 위한 투자 지원, 법령의 추가적인 개정 등 정부의 적극적 역할을 희망한다고 말했다.&lt;br /&gt;&lt;br /&gt;전국노래연습장업협동조합 회장은 "손님들이 술을 가방에 가지고 오는 경우가 잦다. 사생활 침해가 있으니 노래연습장 업주는 손님의 가방이나 소지품을 뒤질 수도 없다”며 “노래연습장 업주들의 현실적인 어려움을 감안하여 이용자의 주류 반입 묵인 금지 1차 위반 시 영업정지 10일 경고처분 등으로 그 기준을 완화할 필요성이 크다"고 강조했다.&lt;br /&gt;&lt;br /&gt;현재 청소년이 고의로 법 위반행위를 유발한 경우에는 영업자들에 대한 제재처분을 면제할 수 있도록 하는 내용을 담은 공중위생관리법 등 6개 법률 개정안이 국회에 발의돼 있다. 이 처장은 "법제처도 위·변조 신분증으로 속은 억울한 사업자의 행정처분을 면제하는 방안을 마련해 신속히 개정하는 등 관심을 기울이고 있다"며 "해당 법률안이 신속하게 국회를 통과할 수 있도록 적극적으로 지원하여, 부당하게 피해를 보는 사업자가 없도록 제도적 기반을 강화할 계획"이라고 말했다.&lt;br /&gt;&lt;br /&gt;법제처는 간담회에서 논의한 내용을 바탕으로 관계 부처와 협의해 개선방안을 마련하고, 추가적으로 법령 개정이 필요한 사안을 검토하는 등 후속조치를 취할 계획이다.</description>
-			<pubDate>Wed, 22 May 2024 07:59:14 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198475</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198475</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/198475.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>고려대 기술법정책센터, 28일 'EU의 글로벌 디지털 규제와 한국의 대응방향' 세미나 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/198483.jpg" alt="198483.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;기술에 관한 각종 법정책 연구를 지향하는 고려대학교 기술법정책센터(센터장 이성엽 고려대 교수)가 28일 오후 3시 30분 서울 웨스틴 조선호텔에서 'EU의 글로벌 디지털 규제와 한국의 대응방향' 주제로 제82회 정기 세미나를 개최한다.&lt;p&gt;   &lt;br /&gt;이번 세미나는 ‘EU의 디지털 규제’에 관한 최근의 주요 이슈에 대해 3개의 발제와 함께, 이에 관한 종합 토론을 진행한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;첫 번째 주제는 ‘EU의 반독점 규제(DMA, DSA)와 한국에의 시사점’으로 김병일 한양대 로스쿨 교수가 발제한다. 두 번째 주제는 ‘EU의 데이터, AI 규제(Data act, AI act)와 한국에의 시사점’으로 양천수 영남대 로스쿨 교수가 발제한다. 세 번째 주제는 ‘EU의 가상자산 규제(MiCA:Markets in Crypto-Assets)와 한국에의 시사점’으로 이해봉 업비트 투자자보호센터장이 발제한다.      &lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이어지는 토론은 이성엽 고려대 교수가 좌장을 맡고&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8551"&gt;윤종수&lt;/span&gt;(60·사법연수원 22기) 법무법인 광장 변호사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6640"&gt;정영진&lt;/span&gt;(58·22기) 김·장 법률사무소 변호사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4253"&gt;강태욱&lt;/span&gt;(50·31기) 법무법인 태평양 변호사가 패널로 토론에 참여한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;이성엽 센터장은 “글로벌 디지털 규제의 선도자로서 역할을 자처하는 EU가 반독점규제, 데이터, AI 규제, 가상자산 규제에 관한 새로운 법제를 양산하고 있다"며 "이는 국내 기업의 대응 외에도 국내 디지털 규제법 체계 형성에 시사점을 제공하고 있어 이번 세미나는 EU의 디지털 규제를 개관하고 한국에의 시사점을 살펴볼 수 있는 의미 있는 세미나가 될 것”이라고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Wed, 22 May 2024 07:29:54 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198483</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198483</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/198483.jpg</media:thumbnail>
-			<dc:creator>안재명 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
