@@ -175,7 +175,7 @@ def chMain():
             time.sleep(random.uniform(5,10))
             
             
-            if k == 20: break
+            #if k == 20: break
     
     tree = ET.ElementTree(curfeed)
     outfile = os.path.join(os.getcwd(), 'o/c.x')
