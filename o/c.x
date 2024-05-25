@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“대학교수부터 할아버지 팬까지”… 박하선 악플러, 3년만에 벌금형</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/25/PVRCUYSXPVEKDPO3GDBLWB7IDA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/25/PVRCUYSXPVEKDPO3GDBLWB7IDA/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 May 2024 13:36:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SGY7OAJE4JO7XDJBPCQE6YILTI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배우 박하선. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 박하선이 자신에게 악성 댓글을 달아온 악플러의 벌금형 확정 소식을 알렸다.&lt;br&gt;&lt;br&gt;박하선은 24일 자신의 인스타그램 스토리를 통해 “결국 벌금형 확정”이라며 “너무 속이 시원하다”고 했다. 이어 “혼자였을 땐 이것도 관심이고 사랑이라고 생각하고 넘겼는데, 아이가 점점 크니 그냥 넘어갈 수가 없더라”며 “이렇게 안 하면 제 주변 누군가는 사실이라고 생각하고, 끊임없이 악플이 달린다”고 했다.&lt;br&gt;&lt;br&gt;앞서 박하선은 2022년 3월 악플 관련 증거 자료를 수집해 고소장을 제출했다. 당시 박하선 소속사는 “당사는 박하선에 대한 허위사실 유포, 인신공격, 욕설 등 배우의 명예와 인격을 심각하게 훼손하는 행위 전반에 대해 가용한 모든 법적 조치를 동원해 강력 대응에 나설 것”이라며 선처나 합의가 없다는 점을 강조했다.&lt;br&gt;&lt;br&gt;같은 해 11월 한 언론 인터뷰에서 박하선은 “악플러들의 인적 사항을 듣는데 대학교수도 있고 할아버지 팬도 있다더라”며 “예전엔 악플러들이 불쌍하다고 생각하고 고소를 안 한 거였는데, 이젠 불쌍하지도 않고 용서가 안 된다”고 했다. 그러면서 “나중에 애가 커서 보면 어떡하나 싶어서, 그전에 없애고 싶어서 고소를 결심하게 됐다”고 했다.&lt;br&gt;&lt;br&gt;이번 악플러의 벌금형 확정은 고소 3년만에 이뤄진 판결이다. 이에 박하선은 담당 변호사를 향해 감사 인사를 전하기도 했다. 박하선은 “변호사님은 처음부터 3년을 대신 화내주셨다”며 “드라마에서 보던 포기하지 않는 변호사님 진짜 있더라”고 했다. “정말 고생하셨다. 감사하다”고도 했다.&lt;br&gt;&lt;br&gt;한편 박하선은 2017년 배우 류수영과 결혼해 슬하에 딸 한 명을 두고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경복궁 낙서 테러 사주범, 5개월만에 구속.. “증거 인멸·도주 우려 상당”</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/25/FJIPVLPCGJFZ7OT2I5C44XTMTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/25/FJIPVLPCGJFZ7OT2I5C44XTMTM/</guid>
+      <dc:creator>김수경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 May 2024 12:39:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EBSYLD2DLYEEJ6QHBTTC7HGDRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 12월 10대들에게 경복궁 낙서를 지시한 혐의를 받는 '이 팀장' A 씨가 25일 오후 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경복궁 담벼락에 낙서를 사주한 강모(30)씨가 25일 구속됐다. 서울중앙지법 남천규 부장판사는 이날 저작권법및정보통신망법 위반(음란물 유포), 문화재보호법 위반(손상 또는 은닉죄)과 아동청소년성보호법 위반(성 착취물 배포) 등 혐의를 받고 있는 강씨에게 영장을 발부했다고 밝혔다. 법원은 강씨에게 증거인멸, 도주 우려가 있다고 판단했다.&lt;br&gt;&lt;br&gt;앞서 서울경찰청 사이버수사대는 작년 12월 경복궁 영추문과 국립고궁박물관, 서울경찰청 동문 담벼락에 10대 두 명에게 돈을 주고 스프레이 등을 이용해 ‘영화공짜 윌OO티비.com feat 누누’ 등의 문구를 낙서하게 한 강씨를 검거한 바 있다. 강씨는 과거 해당 불법사이트를 운영한 것으로 알려져있다.&lt;br&gt;&lt;br&gt;경찰에 따르면 강씨는 낙서를 사주하기 위해 10대 임모군을 해외 메신저 텔레그램으로 접촉했다. 이 메신저는 익명이 보장되는 만큼 메시지 삭제나 아이디 변경, 탈퇴 등이 자유롭게 이뤄져 구속한 채 수사하지 않으면 증거 인멸이 가능하다고 판단한 것으로 보인다. 경찰은 또 지난 22일 검거 당시 강씨가 본인의 본래 주거지와 가족의 주거지 등이 아닌 또다른 지역에서 발견된 만큼 도주 우려가 높다고 보고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>지하철 좌석 4칸 차지한 채 벌러덩… 네티즌 공분 산 사진 한장 </title>
+      <link>https://www.chosun.com/national/national_general/2024/05/25/YY67ETEIPJHOLPPI46CY52XMRA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/25/YY67ETEIPJHOLPPI46CY52XMRA/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 May 2024 12:24:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QGPPR4AU5JDPDJ7MGL4ZE7XA54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 남성이 지하철 자리 여러 칸을 차지하고 누워있는 모습. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지하철에서 한 남성이 좌석 4칸을 차지한 채 누워 있는 사진이 온라인상에 확산하면서 네티즌들의 공분을 샀다. &lt;br&gt;&lt;br&gt;25일 온라인상에는 지하철 6호선에서 촬영됐다는 사진 한장이 퍼졌다. 이를 보면, 한 남성이 다리를 쩍 벌린 채 지하철 자리 4칸에 걸쳐 누워 있다. 한 다리는 등받이 쪽에 올려진 상태다. 신고 있던 슬리퍼 한 짝은 좌석 끝에 걸쳐져 있다. 이 남성 바로 옆자리에는 다른 승객이 정자세로 앉아 있다. &lt;br&gt;&lt;br&gt;처음 사진을 공유한 작성자는 “아침부터 술을 먹었는지 지하철 타는 30분 내내 저렇게 누워서 잠을 자고 있었다”고 당시 상황을 전했다. &lt;br&gt;&lt;br&gt;이에 네티즌 사이에서는 남성을 향한 비판이 이어졌다. 네티즌들은 “공공장소에서 저게 뭐 하는 짓이냐” “바로 옆자리에 승객 앉아 있는 거 보니 자리가 널널하게 비어있던 상황도 아닌 것 같다” “마동석이 바로 옆자리에 앉아 있었어도 저랬을까” 등의 댓글을 남겼다. &lt;br&gt;&lt;br&gt;지하철에서 일부 승객들이 도 넘은 행동으로 시민들의 눈살을 찌푸리게 만든 건 이번이 처음은 아니다. 불과 5일 전에는 한 여성이 좌석 2칸을 차지한 채 매니큐어를 바르는 모습이 공개돼 비판받았다. 당시 현장에 있던 제보자는 코를 찌르는 독한 냄새를 맡았다고 피해를 토로했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5W2F7B7OIJBMJKVZZW2AAFPAYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 여성이 자리가 다 찬 상황에서도 짐을 좌석에 올려둔 모습. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YXHCJW47ORAEDCBUTTWRRTVCKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 여성이 지하철에서 매니큐어를 바르고 있는 모습. /JTBC '사건반장'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만석의 상황에서도 짐으로 자리를 차지해 불편을 야기하는 사례도 있다. 지난 3월에는 자리가 가득 차 일부 시민이 서서 가고 있는 상황에서도, 한 여성이 짐을 좌석 한칸에 가득 올려둔 사진이 공개돼 분노를 샀다. 당시 이 같은 상황을 공유한 네티즌은 “자기 무릎에 올려두자니 불편하고, 바닥에 두자니 더럽다는 것이냐”며 “이기적”이라고 지적했다. &lt;br&gt;&lt;br&gt;이런 상황을 목격할 경우, 승객은 지하철 불편신고를 통해 일부 문제를 해결할 수 있다. 1~8호선은 1577-1234로, 9호선은 1544-4009로 신분당선은 031-8018-7777로, 공항철도와 경의·중앙선 그리고 분당선은 1544-7769로 전화를 걸거나 문자를 보내면 된다. 객실 내에 생긴 모든 문제에 관해 민원신고가 가능하며, 해당 내용은 기관사에게 전달된다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢 “민주당, ‘쌍방울 불법 대북송금’을 ‘주가조작’이라 허위 주장”</title>
+      <link>https://www.chosun.com/national/court_law/2024/05/25/JVKTON2RINBPZN6ZQ77PIRO5RE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/25/JVKTON2RINBPZN6ZQ77PIRO5RE/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 May 2024 11:48:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AVHWWGFYXAIYKKMMWIIOPVAFIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 이재명(왼쪽) 대표가 경기도지사 시절인 지난 2018년 이화영 전 경기도 평화부지사와 만나 웃으며 악수하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쌍방울그룹의 ‘불법 대북 송금’ 사건을 수사한 수원지검은 25일 ‘쌍방울 주가 조작 사건을 대북송금 사건으로 둔갑시켰다’는 더불어민주당 주장에 대해 “허위 주장을 되풀이하는 것”이라고 반박했다.&lt;br&gt;&lt;br&gt;수원지검은 이날 언론에 보낸 입장문에서 “민주당이 이화영 전 경기부지사에 대한 1심 선고를 10여일 앞두고 또다시 법정 밖에서 장외주장을 펼치고 있다”라며 “선고를 앞두고 장외 주장을 통해 법원의 재판에 부당한 영향을 미치려는 시도는 그만둬야 한다”고 했다.&lt;br&gt;&lt;br&gt;‘쌍방울 불법 대북 송금’ 사건의 피고인인 이 전 부지사는 2022년 10월 뇌물 및 정치자금법 위반 등 혐의로 구속 기소돼 1년 7개월째 수감 중으로, 다음 달 7일 1심 선고를 앞두고 있다. 이 사건은 김성태 전 쌍방울그룹 회장이 2019년 이화영 전 경기도 평화부지사의 요청으로 북한 스마트팜 지원 사업비 500만달러, 이재명 당시 경기지사의 방북비 300만달러 등 총 800만달러를 북한에 대납했다는 것이다.&lt;br&gt;&lt;br&gt;검찰은 민주당이 주장하는 쌍방울의 ‘주가 조작’은 증거가 없다고 밝혔다. 검찰은 “이른바 국정원 문건에는 대북송금의 실제 목적이 경기도 대북사업과 관련되어 있음을 설명하는 내용이 충분히 포함되어 있다”라며 “검찰 수사 결과 쌍방울의 주가조작을 뒷받침할 증거는 없다”고 했다.&lt;br&gt;&lt;br&gt;민주당은 ‘주가 조작’이 ‘불법 대북 송금’ 사건으로 둔갑됐다고 주장하고 있다. 민주당 검찰독재정치탄압대책위원회는 이날 “김성태 전 회장이 자사의 주가를 띄우기 위해 북한 측 인사와 사전모의를 했고, 이를 통해 발생할 수익금도 북측과 나누기로 했다는 첩보가 담긴 국정원 비밀 문건이 언론(뉴스타파)에 보도됐다”라며 “사실이라면 수원지검은 주가조작 사건을 대북송금사건으로 둔갑시켜 정치적 정적을 제거하기 위한 수사 농단을 부린 것”이라고 주장했다. 이재명 민주당 대표는 지난 23일 페이스북에서 “대북 송금 조작 사건은 김대중 내란 음모 사건 조작 이후 최악의 검찰 조작 사건”이라며 “정적 이재명을 제거하기 위한 검찰독재 정권의 초대형 조작 사건 피해자가 이 전 부지사”라고 주장했다.&lt;br&gt;&lt;br&gt;이에 대해 검찰은 “민주당은 피고인이나 변호인이 증거기록을 외부로 무단 유출할 경우 현행법 위반으로 처벌받고, 증거기록 중 하나인 국정원 문건은 2급 비밀 등으로 분류돼 비공개 재판에서만 심리돼 누구도 국정원 문건 내용을 합법적으로 공개할 수 없다는 것을 악용하고 있다”라며 “인터넷 언론에서 일부 내용만을 발췌, 왜곡보도한 것을 토대로 허위 주장을 되풀이하고 있다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 “이 전 부지사에 대한 재판은 무책임한 보도와 정치공세로는 흔들 수 없을 만큼 이미 법정에서 충분한 증거조사와 면밀한 심리가 진행됐다”라며 “1심 판결을 통해 그 실체가 확인될 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“강형욱 부부 영상 보다 열받아”… 박훈 변호사, 前 직원 무료 변호 선언한 이유</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/25/HZJVKSBPOREWXJEZN42MI24IKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/25/HZJVKSBPOREWXJEZN42MI24IKE/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 May 2024 11:14:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z7AF322IKU2M7ILHAWC2ISW7OM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/강형욱의 보듬TV &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영화 ‘부러진 화살’의 실제 인물로 알려진 박훈 변호사가 반려견 훈련사 강형욱 보듬컴퍼니 대표의 갑질 논란 가운데 ‘사무실 CCTV 감시 의혹’를 두고 분노했다. “직원 감시 용도가 아니었다”는 강씨 부부의 해명에도 박 변호사는 “열 받는다”며 보듬컴퍼니 전 직원을 무료 변론 하겠다고 자청했다.&lt;br&gt;&lt;br&gt;박 변호사는 25일 자신의 페이스북에 “CCTV가 감시가 아니라고 주장하는 강형욱 부부 인터뷰를 보다 열받아 제안한다”며 “무료로 모든 것을 대리하고 어떠한 성공보수금도 받지 않을 테니 강형욱 부부에 고용됐던 분들 중 억울한 사람들은 댓글이나 메신저로 연락 주시기 바란다”고 했다.&lt;br&gt;&lt;br&gt;다만 박 변호사는 무보수 변론의 전제 조건으로 “어떤 거짓도 없어야 하며 저의 살벌한 반대 신문도 견뎌내야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;박 변호사는 CCTV 감시의 부당함을 강하게 주장했다. 그는 “난 CCTV가 업무 공간을 비추는 것은 인격 말살이라 보는 변호사”라며 “2001년 대한민국에서 최초로 소송을 통해 CCTV 감시 불법성을 제기한 바 있으나 패소한 바 있다”고 했다.&lt;br&gt;&lt;br&gt;앞서 박 변호사는 지난 23일에도 같은 취지의 글을 올렸다. 당시 박 변호사는 “다른 폭로 사실에 대해서는 서로간에 입장 차이와 사실 다툼이 있을 수 있다고 보지만, 직원들 업무 공간에 비추는 화면은 도저히 참을 수 없다”고 했다. 그러면서 “저런 행위를 하는 작자는 인간도 아니다. 2001년 72개 CCTV를 자그만한 공장에 설치했던 사업장이 떠올라 치가 떨려온다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7EF7LGFL7FCA5IMXUYO5QGT7IU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박훈 변호사가 CCTV 감시의 부당함을 주장하며 첨부한 이미지. JTBC '사건반장'에 보도된 화면 중 일부를 캡처한 것이다. /페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재 무료 변론을 언급한 게시물은 삭제된 상태다.&lt;br&gt;&lt;br&gt;한편 강씨를 둘러싼 갑질 논란은 직장 평가 사이트 ‘잡플래닛’에 보듬컴퍼니에 다녔던 직원들이 낮은 평점과 함께 혹평 리뷰를 남긴 사실이 알려지면서 시작됐다. 당시 리뷰에는 “직원들의 사생활을 검열하며 수시로 CCTV로 직원들을 감시한다” “직원들 급여는 최최저임금 수준인데 직원들 앞에서 직원에게 주는 돈이 아깝다고 한다” 등의 내용이 담겼다.&lt;br&gt;&lt;br&gt;이후 자신을 전 직원이라고 주장한 이들이 유튜브 댓글과 방송 인터뷰 등에서 “급여를 9670원 받았다” “직원들끼리 주고받은 개인 메시지까지 간섭했다” “명절 선물을 배변봉투에 담아서 줬다” “화장실을 마음대로 가지 못하게 했다” 등의 주장을 이어가면서 직장 내 괴롭힘 의혹이 일파만파 퍼졌다.&lt;br&gt;&lt;br&gt;이 같은 여러 논란에도 줄곧 침묵하던 강씨는 지난 24일 7일만에 입장을 발표했다. 강씨는 유튜브 채널 ‘강형욱의 보듬TV’에 올린 약 1시간 분량의 영상에서 사내 메신저 열람은 인정하면서도 CCTV 감시, 화장실 통제 등 다른 의혹에 대해선 반박했다. 임금 체불 의혹과 관련해선 강씨 아내가 “연락 안 돼서 액션 취한 것”이라며 이후 인센티브와 퇴직금, 연차수당까지 3가지 내역을 나눠서 이체했다고 설명했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>오세훈 서울시장, '2024 탄생응원 서울축제' 참석…다둥이 가족 응원</title>
       <link>https://www.chosun.com/national/national_general/2024/05/25/TGYA7XHP3FFMPPYAVG53G4XZRM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/25/TGYA7XHP3FFMPPYAVG53G4XZRM/</guid>
@@ -919,51 +964,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/3EAHMKR6QKTQLH6RWJPI34S5SM.jpg?width=4032&amp;height=3024&amp;auth=97d040e24e94f88781d3ac01ab6b0f32e21cd4881c0055664648ba047a60c78a&amp;smart=true" type="image/jpeg" height="3024" width="4032">
         <media:description type="plain">춘천지법.(뉴스1 DB)</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>“집회 자유 침해 맞다”...퀴어축제 막아선 대구시에 벌금 700만원</title>
-      <link>https://www.chosun.com/national/incident/2024/05/24/Q2N2YABFMBGMPE252UCRSDWGSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/05/24/Q2N2YABFMBGMPE252UCRSDWGSY/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 05:48:45 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/HP6CG3CR4HLZNRM5QPNPD4CUWM.jpg?width=6720&amp;height=4480&amp;auth=e65aa380cbeded0c0d1edd2a85465bc2078058761e0c28d45c5281e80047501b&amp;smart=true" alt="지난해 6월 발생한 퀴어문화축제 공권력 충돌 현장, 행정대집행에 나선 공무원들이 행사 차량의 진입을 막으려 하자 경찰이 이들을 해산시키고 있다. /뉴스1" height="4480" width="6720"/&gt;&lt;p&gt;지난해 6월 대구퀴어문화축제 현장에서 대구시 측이 “도로를 불법 점거했다”며 축제 장비 차량 등을 막아선 건과 관련해 법원이 대구시에 벌금형을 선고했다. 대구퀴어문화축제 갈등과 관련한 첫 선고다. 당시 대구시는 “무대 등을 설치해 도로를 불법 점거한 집회”라며 철거에 나섰고, 경찰은 “적법하게 신고된 집회”라며 맞서는 과정에서 시·구 공무원과 경찰 등 2000여명이 몸싸움을 벌인 바 있다.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경기도 ‘일산대교 통행료 무료화’는 위법…2심도 운영사 승소</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/24/BYVHDWU46FHY5PONNJTYDPGL4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/24/BYVHDWU46FHY5PONNJTYDPGL4Q/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 07:21:08 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/JUHK3KSGDXGA765MVZQOGUUHYI.jpg?width=6240&amp;height=3392&amp;auth=f8541b2b3469be9ce7409e006c9666bb6c5e2422607a0a05cbbe00ecc331c95e&amp;smart=true" alt="일산대교. /뉴스1" height="3392" width="6240"/&gt;&lt;p&gt;일산대교의 통행료 무료화를 두고 벌어진 경기도와 일산대교 운영사의 법정 소송에서, 24일 2심 법원도 운영사 승소 판결을 내렸다.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>일~월 전국에 비…밤사이 중부지방 퍼부어</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/05/24/OBVJSLXZNZGA3IONKV4MQYRQTI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/05/24/OBVJSLXZNZGA3IONKV4MQYRQTI/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 07:02:59 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/RLBDMRJEQEFB3FDXO6ZDZEGE4A.jpg?width=5902&amp;height=3887&amp;auth=e0badee91bd5d7f1be6a2737dc9a93b55bfa193a18486f5d59b97b615386c699&amp;smart=true" alt="수도권 지역에 비가 내린 지난 15일 오후 서울 종로구 광화문광장에서 우산을 쓴 시민들이 발걸음을 옮기고 있다. 2024.5.15/뉴스1" height="3887" width="5902"/&gt;&lt;p&gt;일요일인 26일 오후부터 월요일인 27일 오전까지 전국에 비가 예고됐다. 밤사이 시간당 10~20㎜의 강한 비가 쏟아질 것으로 보인다.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대낮 길거리서 어머니 찌른 40대男...현장 지나던 경찰이 제압</title>
-      <link>https://www.chosun.com/national/incident/2024/05/24/HYFJEA6UJVFYLLTESMK26QAANE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/05/24/HYFJEA6UJVFYLLTESMK26QAANE/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 06:59:15 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/MUPAQBO77A5XY7C36PYWS5AR4Q.gif?width=700&amp;height=352&amp;auth=20caa91f1c004c5d3a438db2b076731ac485fadff046e2de2c9c7693f4bccbfd&amp;smart=true" alt="인천 미추홀경찰서 전경./조선DB" height="352" width="700"/&gt;&lt;p&gt;대낮 유동 인구가 많은 인천의 한 길거리에서 어머니를 흉기로 찔러 살해하려 한 40대 남성이 경찰에 붙잡혔다.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>임차인 104명에게 전세금 88억 가로챈 60대 남성 구속 송치</title>
-      <link>https://www.chosun.com/national/incident/2024/05/24/QUQWX5NCZRGMZLFYQN4WPHELJA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/05/24/QUQWX5NCZRGMZLFYQN4WPHELJA/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 06:41:18 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/BUUZ6WXLWEKT5C3WT47YDR64UI.jpg?width=2012&amp;height=1276&amp;auth=11fc76261d0d3d9d3c232a35e6eb5092cd1b920d3f99607ac9a2c1ddb1d81edf&amp;smart=true" alt="경찰 로고./뉴스1" height="1276" width="2012"/&gt;&lt;p&gt;임차인들에게 전세보증금을 돌려주지 않은 60대 임대업자가 검찰에 송치됐다.&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
