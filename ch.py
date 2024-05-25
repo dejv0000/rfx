@@ -20,7 +20,7 @@ def getLastoutput():
     infile = os.path.join(cwd, 'o/c.x')
     
     try:
-        tree = ET.parse(infile)
+        tree = ET.parse(infile, parser=ET.XMLParser(remove_blank_text=True))
     except:
         return None
     
@@ -39,7 +39,7 @@ def getfeed():
     feedtext = re.sub(r'<\?xml.*?\?>', '', feedtext)
     #print(feedtext)
     
-    root = ET.fromstring(feedtext)
+    root = ET.fromstring(feedtext, parser=ET.XMLParser(remove_blank_text=True))
 
 
     return root
@@ -121,7 +121,7 @@ def getContentsfromUrl(url):
             elif i['type'] == 'image':
                 
                 try: #if img has caption
-                    article_text = article_text + '<figure><img align="center" src="'+ i['url'] +'"><figcaption>' + i['caption'] + '</figcaption></figure><br><br>'
+                    article_text = article_text + '<figure><img align="center" src="'+ i['url'] +'"><figcaption><small>' + i['caption'] + '</small></figcaption></figure><br><br>'
                 except KeyError:                
                     article_text = article_text + '<figure><img align="center" src="'+ i['url'] +'">' + '<br><br>'
                     
@@ -159,7 +159,7 @@ def chMain():
 
     for i in tags_to_remove:
         try:
-            curfeed.find('channel').remove(curfeed.find(i))
+            curfeed.find('channel').remove(curfeed.find('channel').find(i))
         except:
             pass
 
