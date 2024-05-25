@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>오세훈 서울시장, '2024 탄생응원 서울축제' 참석…다둥이 가족 응원</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/25/TGYA7XHP3FFMPPYAVG53G4XZRM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/25/TGYA7XHP3FFMPPYAVG53G4XZRM/</guid>
+      <dc:creator>김수경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 May 2024 08:12:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XPFSCVKQ3JFR5ASNOZWKQ5MVEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 25일 열린 '2024 탄생응원 서울축제'에서 가족들의 이야기를 듣고 있다./서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 25일 오후 2시 서울시청 다목적홀에서 열린 ‘2024 탄생응원 서울축제’에 참석해 40만 서울 다둥이 가족의 육아 노고를 격려했다. 올해로 2회째인 이번 행사는 저출생 문제가 심각한 상황에서, 출산·육아 과정에서 경험하는 행복한 순간들을 공유해 다자녀를 키우는 가족을 응원하고 탄생의 가치를 새롭게 보자는 취지다.&lt;br&gt;&lt;br&gt;이날 축제에는 지난 3월 ‘위대한 탄생, 행복한 다둥이 가족’이라는 주제로 진행한 ‘서울엄마아빠 행복한 순간 공모전’의 수상 가족 등 400여명이 참석한 가운데 입상 가족의 이야기를 공유하는 본행사와 다둥이 스타쇼 등 문화행사로 진행됐다.&lt;br&gt;&lt;br&gt;오 시장은 이날 환영사를 통해 생명의 탄생을 늘리고 양육자의 부담을 줄이기 위해 추진 중인 서울시 ‘탄생응원 서울 프로젝트’ 사업을 소개하면서 ‘아이 키우기 좋은 도시 서울’, ‘아이 키우는 엄마아빠가 행복한 서울’을 만들겠다는 메시지를 전했다.&lt;br&gt;&lt;br&gt;오 시장은 또 참석자들과 ‘서울엄마아빠 행복한 순간’ 영상을 시청한 후 공모전에서 수상한 다둥이 가족에게 작품을 소개받고 임신·출산·양육과정에 있어 서울시에 앞으로 바라는 점 등 다양한 의견을 듣고 답했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 경복궁 낙서 배후 이팀장, 구속될까.. 경찰 “도주 중 5개월만에 붙잡아”</title>
       <link>https://www.chosun.com/national/national_general/2024/05/25/WXDEXKKDH5A4PIH6W7UIG2X6IM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/25/WXDEXKKDH5A4PIH6W7UIG2X6IM/</guid>
@@ -955,14 +964,6 @@
       <description/>
       <pubDate>Fri, 24 May 2024 06:41:18 +0000</pubDate>
       <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/BUUZ6WXLWEKT5C3WT47YDR64UI.jpg?width=2012&amp;height=1276&amp;auth=11fc76261d0d3d9d3c232a35e6eb5092cd1b920d3f99607ac9a2c1ddb1d81edf&amp;smart=true" alt="경찰 로고./뉴스1" height="1276" width="2012"/&gt;&lt;p&gt;임차인들에게 전세보증금을 돌려주지 않은 60대 임대업자가 검찰에 송치됐다.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 전대(全大)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/05/23/PPKKMATE55HG7DDZQWLRNJGA74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/05/23/PPKKMATE55HG7DDZQWLRNJGA74/</guid>
-      <description/>
-      <pubDate>Wed, 22 May 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/W4NRFYLBDFGPXAIB6A3KLLFWTE.jpg?width=650&amp;height=1445&amp;auth=8aa83eb381144cd674a1398f66a29e04ea48d178f8120d85dd516e131233ef9f&amp;smart=true" alt="" height="1445" width="650"/&gt;</content:encoded>
     </item>
   </channel>
 </rss>
