@@ -155,7 +155,13 @@ def chMain():
         newList = curfeed.findall('.//item')
         pass
 
+    tags_to_remove = ['lastBuildDate', 'ttl', '{http://purl.org/rss/1.0/modules/syndication/}updatePeriod', '{http://purl.org/rss/1.0/modules/syndication/}updateFrequency']
 
+    for i in tags_to_remove:
+        try:
+            curfeed.find('channel').remove(curfeed.find(i))
+        except:
+            pass
 
     print(len(newList), len(keepList))
 
