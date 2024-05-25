@@ -13,6 +13,18 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>신촌서 취업박람회 주최한 ‘SKY대’ 베트남 유학생들 “한국기업들, 우릴 주목해주세요!”</title>
+      <link>https://www.chosun.com/international/2024/05/26/7J23Z44AE5FUDNQWT3XXEPWFTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/international/2024/05/26/7J23Z44AE5FUDNQWT3XXEPWFTQ/</guid>
+      <dc:creator>정지섭 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 May 2024 22:00:00 +0000</pubDate>
+      <content:encoded>지난 4월 28일 서울 연세대 백양관. ‘유스커리어 서밋:비욘드 2024(Youth Career Summit:Beyond 2024)’라는 행사이름이 적힌 큼지막한 펼침막이 걸렸다. 기업 관계자들의 특강이 이어진 강당 앞에 차려진 10여 개의 기업 부스에서는 실시간으로 학생 상담이 이어졌다. FPT코리아·베트남항공·잡코리아·알바몬 등 베트남과 한국의 유명기업들이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RXS73S2BANAGBH3GJUIQNGXHTA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4월 28일 연세대 백양관에서 3개 대 베트남유학생회 주최로 열린 '유스 커리어 서밋:비욘드 2024'.
+/유스 커리어서밋 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;졸업을 앞둔 연세대 학생들을 위한 일반적인 취업 행사로 보일 법했지만, 극히 일부만 맞는 사실이다. 이 행사는 여러모로 특별했다. 우선 행사 주최는 학교 당국이 아닌 학생들이다. 그것도 연세대 학생들이 아니라 이른바 SKY라고 불리는 고려·서울·연세대 학생들이 직접 주최한 행사다. 게다가 이들은 한국 학생들이 아닌 베트남에서 온 젊은이들었다. 3개 대학에 재학중인 베트남 유학생들이 의기투합해 한국 기업과 한국 거주 외국 유학생들이 모두 참여하는 취업·창업 페스티벌을 직접 기획·주최한 것이다.&lt;br&gt;&lt;br&gt;베트남 학생 250여명을 포함해 한국으로 유학와 학부·대학원에서 공부하고 있는 각국 젊은이 500여명이 행사장을 찾았다. 주한 베트남 대사관에서도 지원 인력을 파견할 정도로 이 행사에 관심을 보였고, 베트남 매체들도 행사 주최 소식을 보도했다. 이 행사는 활력을 잃고 저성장의 늪에 빠질 수 있다는 우려를 받고 있는 한국 경제에 한국어를 능숙하게 구사하는 세계 각국의 젊은이들이 새로운 활력을 구사할 수 있을 것이라는 새로운 가능성을 제시했다는 평가도 나온다.&lt;br&gt;&lt;br&gt;행사를 준비한 서울·고려·연세대 베트남 학생 연합(Vietnamese Student Association at SKY Universities)을 대표해 고려대 16대 베트남 학생회장을 맡고 있는 꾸잉씨를 이메일로 인터뷰했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KQSEXB4BWRBO5PTHVDQCDBDCPU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4월 28일 연세대 백양관에서 3개 대학 베트남 유학생회 주최로 열린 '유스커리어 서밋:비욘드 2024'
+/유스커리어서밋 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;-3개 대학교 베트남 학생 연합이 있다는게 흥미로워요. 단체 소개를 해주시겠습니까?&lt;br&gt;&lt;br&gt;“서울대와 고려대에는 각 60명 정도의 베트남 학생들이 있어요. 서울대는 2004년, 고려대에는 2007년에 각각 베트남 학생회가 설립됐습니다. 연세대 학생회는 두 학교보다 늦은 2017년에 베트남 학생회가 만들어졌는데 규모는 제일 커요. 베트남 출신 학생 숫자가 500명 정도로 파악되고 있습니다. 세 학교를 총괄하는 별도의 단일 조직이 있는 건 아니고, 몇 년전부터 세 개 대학 학생회가 협력해서 여러 행사를 같이 진행했습니다.”&lt;br&gt;&lt;br&gt;-대학 캠퍼스 내에서 취업·창업 관련 다양한 행사는 많이 열리지만, 특정 국가 출신의 외국 유학생들이 직접 행사를 조직하는 건 전례가 없는데요. 이런 행사를 꾸리게 된 계기는요?&lt;br&gt;&lt;br&gt;“한국의 대학교 학부와 대학원에서 공부하는 외국인 학생들의 취업 기회를 더욱 높이고 싶다는 취지에서 마련했어요. 행사는 크게 세가지 목표에 주안점을 뒀습니다. 첫째, 한국에서 공부하는 유학생들끼리 인적 네트워크를 맺는 것. 둘째 한국 기업들의 취업정보를 보다 생생하게 얻고 이 정보를 주고받으며 비슷한 처지의 유학생들이 한국 취업 시장을 더 상세히 이해하는 것. 그리고 유학생이라는 특수한 상황을 고려한 맞춤형 진로 상담과 조언으로 치열한 취업 경쟁에서 성공 가능성을 조금더 높이자는 것. 결론부터 말씀드리자면 기대 이상의 대성공이었다고 생각합니다. 정말 많은 외국 유학생들이 찾아왔고, 참가한 기업들로부터 일회성 행사에 그치지 말고 향후 협업하기로 했거든요.”&lt;br&gt;&lt;br&gt;-주최측은 3개 대학 재학 중인 베트남 유학생회이지만, 한국에서 공부하는 외국 유학생이라면 누구나 참여할 수 있도록 문호를 개방한게 인상적이네요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RXIJ2NJMKJGPXEA7FVXEZ4W7OA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4월 28일 서울 연세대 백양관에서 열린 '유스 커리어 서밋:비욘드 2024' 강연행사에서 참가인사들이 발언하고 있다.
+/유스커리어 서밋&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“한국 전역의 대학교 유학생들이 참가비를 받지 않고 참여할 수 있도록 했습니다. 서울에 있는 대학이 아니어도, 베트남 유학생이 아니어도 ‘외국 유학생’이면 모두 환영했습니다. 기업 관계자들의 강연을 듣고 취업·창업 상담에 참여했어요. 덕분에 베트남 뿐 아니라 북미·유럽 학생들도 많이 모습을 보였어요. 더 많은 유학생들이 참여해 행사 규모가 커지면 더 많은 유익한 정보들이 오갈 수 있고, 모두에게 다 이익이라고 생각했거든요.”&lt;br&gt;&lt;br&gt;-‘취업’이라는 현실적인 문제가 행사 개최의 큰 계기가 된 것도 같네요.&lt;br&gt;&lt;br&gt;“행사를 기획하게 된 동기는 외국인 학생들이 한국에서 취업하는 데에 어려움을 겪고 있다는 인식에서 비롯된 측면도 있거든요. 이런 행사를 통해서 외국 유학생과 한국 취업 시장 간의 거리를 좁히고, 지원과 자원, 인맥을 제공하여 외국 유학생들의 취업 성공 가능성을 높이고 싶었습니다.”&lt;br&gt;&lt;br&gt;-유학생들 신분이면 경제적 형편이 아주 여유있지는 않았을텐데 행사 비용은 어떻게 충당했는지 궁금합니다.&lt;br&gt;&lt;br&gt;“감사하게도 많은 분들이 도와주셨습니다. 우선 저희가 2월부터 이런 행사를 준비한다는 소식이 알려지자 연세대학교에서는 좋은 취지의 행사라면서 강당을 무료로 사용할 수 있도록 배려해주셨어요. 교직원·교수님들도 많이 도와주셨고요. 한국·베트남·글로벌 기업들과 참석여부를 타진하는 과정에서 이들 기업으로부터도 후원을 받았습니다.”&lt;br&gt;&lt;br&gt;-한국 거주 베트남인 하면 근로자나 결혼 이민자 등이 먼저 떠오르기 마련인데, 유학생 네트워크가 생각보다 탄탄하게 구축돼있네요.&lt;br&gt;&lt;br&gt;“베트남 출신이라는 공통점이 있지만 한국 대학생이 된 경로는 참으로 다양합니다. 가령 제가 다니고 있는 고려대의 경우 먼저 어학당에서 한국어를 배운 다음에 학부·대학원에 진학하는 경우가 많은데 한 학기 입학생이 60명 안팎이고요. 연세대의 경우엔 학생 상당수가 고등학교를 베트남에서 졸업한 다음에 바로 학부에 진학한 경우가 대부분입니다. 물론 석·박사 과정으로 진학한 케이스도 있고, 초·중·고교를 한국에서 다닌 다문화 가정 출신도 소수이지만 일부 있고요. 서울대 역시 베트남에서 고교과정을 마치고 학부로 진학한 학생들이 석·박사로 유학온 사례보다 숫자가 많습니다.&lt;br&gt;&lt;br&gt;※외교부에 따르면 한국어과가 개설돼있거나 교양과정으로 한국어를 강의하는 베트남 대학은 53곳에 이른다. 한국에서도 베트남어의 위상은 오르고 있다. 독일어·러시아어·스페인어·아랍어·일본어·중국어·프랑스와 함께 대학입학 수학능력시험 제2외국어 과목으로 지정돼있다. 전국의 외국어고등학교 중 충남외고와 청주외고에는 베트남어과가 개설돼있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>유튜버도 변호사도 참전해 돈벌이...’여성판 N번방’ 뒤 불편한 진실</title>
       <link>https://www.chosun.com/national/2024/05/26/BZHOCFPPBNAC3JXUIF4WVY2YVQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/05/26/BZHOCFPPBNAC3JXUIF4WVY2YVQ/</guid>
@@ -949,18 +961,6 @@
 &lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 큰소리는 오해에서 나는 것. 46년생 소소한 일에 얽매이지 않도록 마음을 넓게. 58년생 굴러온 돌이 박힌 돌 뺀다. 70년생 말하면 백 냥 입 다물면 천 냥. 82년생 얻고도 잃는 게 세상사. 94년생 가까운 사이일수록 경계 늦추지 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
 &lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 처음 생각대로 하는 게 최상의 선택. 47년생 불필요한 건 과감히 정리하라. 59년생 밝은 달이 구름 속으로 드는구나. 71년생 세상은 누구 한 사람의 것 아니다. 83년생 토끼 쫓다 사슴 놓칠라. 95년생 그 누구도 아닌 날 위하여 살라.	&lt;br&gt;
 &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>주머니 손 넣고 나왔던 김호중, 구속위기에 달라진 태도</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/24/PB5DTJO55VGHVMDNEEZRWYO4DA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/24/PB5DTJO55VGHVMDNEEZRWYO4DA/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 06:22:06 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/YVPU5UGXWFD4XLA6IZHF6KKXAA.JPG?width=1044&amp;height=587&amp;auth=94200d83417827df934e79ed730fb4b224ac2a77bb17184400786139c76b5e16&amp;smart=true" alt="(左부터) '음주 뺑소니' 혐의 가수 김호중이 지난 21일 오후 서울 강남경찰서에서 조사 마친 뒤 주머니에 손을 넣고 이동하는 모습과 24일  서울중앙지방법원에서 열린 영장실질심사 마친 뒤 법원을 나서는 모습/연합뉴스, 뉴시스" height="587" width="1044"/&gt;&lt;p&gt;경찰에서 조사를 받은 후 왼손을 주머니에 넣은 채 나와 논란이 됐던 트로트 가수 김호중(33)씨가 구속 전 피의자 심문(영장심사)을 마친 후 달라진 태도를 보였다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GX6MOUBKARAVTGZSPBGOBQ62SY.JPG?width=1044&amp;height=587&amp;auth=06fbe270945bc8bbe493c75270f3d204c774a0876b8af6de80588416d264f96a&amp;smart=true" type="image/jpeg" height="587" width="1044">
-        <media:credit role="author" scheme="urn:ebu">CMEDIA</media:credit>
-      </media:content>
     </item>
   </channel>
 </rss>
