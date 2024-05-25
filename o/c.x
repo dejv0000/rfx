@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 경복궁 낙서 배후 이팀장, 구속될까.. 경찰 “도주 중 5개월만에 붙잡아”</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/25/WXDEXKKDH5A4PIH6W7UIG2X6IM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/25/WXDEXKKDH5A4PIH6W7UIG2X6IM/</guid>
+      <dc:creator>김수경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 May 2024 07:55:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7FUE5EGA5ZNSXJHUMU4CPNDSTU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 12월 10대들에게 경복궁 낙서를 지시한 혐의를 받는 '이 팀장' A 씨가 25일 오후 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;경복궁 담벼락에 자신이 지시한 문구를 적으면 돈을 주겠다고 10대들에게 사주한 혐의를 받는 30대 남성이 구속 기로에 놓였다. &lt;br&gt;&lt;br&gt;서울경찰청 사이버수사대는 작년 12월 경복궁 영추문과 국립고궁박물관, 서울경찰청 동문 담벼락에 등에 스프레이 등을 이용해  ‘영화공짜 윌OO티비.com feat 누누’ 등의 문구를 낙서하게 한 남성 A(30)씨를 검거했으며, 그에 대한 구속영장을 신청했다고 지난 24일 밝혔다. &lt;br&gt;&lt;br&gt;앞서 경찰은 A씨에 대해 증거인멸과 도주 우려가 매우 높다고 판단한 것으로 알려졌다. 낙서를 사주한 10대 임모군을 접촉한 곳이 익명이 보장되는 해외 메신저 ‘텔레그램’인 만큼, 메시지 삭제나 아이디 변경, 탈퇴 등이 자유로워 증거인멸이 가능하다는 것이다.&lt;br&gt;&lt;br&gt;또한 경찰은 지난 22일 검거 당시 A씨가 본인의 원 주거지인 경기도 모 처나 부모님의 자택 등이 아닌 또다른 지역에서 발견된 만큼 도주 우려가 높다고 봤다. &lt;br&gt;&lt;br&gt;불법 사이트 운영자로 확인된 A씨는 저작권법및정보통신망법 위반(음란물 유포), 문화재보호법 위반(손상 또는 은닉죄)과 아동청소년성보호법 위반(성 착취물 배포) 등 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨가 운영하던 사이트는 누누티비와 같은 불법 스트리밍 사이트로만 기존에 알려졌었는데, 경찰 수사 중 A씨가 음란물과 성 착취물을 유포한 정황이 발견된 것이다.&lt;br&gt;&lt;br&gt;A씨에 대한 영장실질심사는 이날 오후 2시 서울중앙지법에서 열렸다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>의대 교수들 “의대 증원 확정 아니다, 법원 집행정지 결정 남아있어”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/05/25/7WBSV6G6ZRGO7O6T4JLCSRS54E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/05/25/7WBSV6G6ZRGO7O6T4JLCSRS54E/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 May 2024 07:33:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KMKOCOWWRFP5JKQL5IRAID5RLY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;오세옥(왼쪽) 부산의대 교수협의회장과 김현아(가운데) 전국의대교수협의회 부회장, 배장환 충북의대 비상대책위원장이 24일 오후 서울 서초구 대법원 앞에서 의대 증원 집행정지 재항고심을 맡은 대법원에 탄원서를 제출하기 전 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의대 교수들의 단체인 전국의대교수협의회(전의교협)와 전국의대교수 비상대책위원회(전의비)는 25일 공동성명을 내고 “한국대학교육협의회(대교협)의 (대입전형 시행계획) 승인으로 의대 정원이 확정됐다는 보도는 오보”라고 주장했다.&lt;br&gt;&lt;br&gt;이들 단체는 “고등법원의 항고심 3개와 대법원의 의대증원 집행정지 결정 재항고심이 아직 남아있다”며 “이 결정들 이후에 2025년도 모집요강이 확정될 것”이라고 했다. 그러면서 “집행정지 인용 결정이 내려진다면 2025학년도 의대 모집인원은 3058명이 돼야 한다”며 “대학의 모집요강 게시 마감 기한으로 여겨지는 5월 31일도 관행일 뿐 법령으로 정해진 것은 아니다”라고 했다.&lt;br&gt;&lt;br&gt;대교협은 지난 24일 올해 2차 대입전형위원회를 열어 의대 증원을 반영한 2025학년도 대입전형 시행계획을 심의해 확정했다. 전국 40개 의대 정원을 종전 3058명에서 1509명 늘어난 4567명이 됐다. 각 대학이 31일까지 수시 모집요강을 공고하는 절차가 남아있지만, 대교협의 승인으로 의대 증원 절차가 사실상 마무리됐다고 보는 시각이 많다.&lt;br&gt;&lt;br&gt;전의교협과 전의비는 “정부가 이미 대학입시 일정 사전예고제 법령을 위반했고 대학의 자율적 학칙 개정 절차도 무시했다”며 “더 이상의 혼란을 막기 위해 각 대학의 모집요강 발표를 법원 결정 이후로 늦추도록 해야 한다”고 했다. 이어 “고등법원과 대법원은 30일까지 집행정지에 관한 결정을 내려주기 바란다”며 “급격한 의대 증원은 의료 개혁이 아니라 의료 개악임을 헤아려달라”고도 했다.&lt;br&gt;&lt;br&gt;한편 전의비는 당초 의대 증원이 확정되면 ‘1주일간 휴진’을 하겠다는 방침이었으나, 전날 이런 입장을 철회했다. 전의비 최창민 비대위원장은 전날 기자회견에서 “일주일 휴진한다고 해도 정부가 꿈쩍 안 할 게 뻔하다”며 “환자들이 피해를 본 게 명확한 상황에서 우리가 그렇게까지 해야 하나 생각이 든다”고 했다. 그는 다만 “(정부가) 갑자기 모든 전공의를 면허 정지 시키거나 그러면 상황이 달라질 것”이라며 “정부가 그런 상황을 만들지 않기를 간절히 바란다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>걸그룹 마시던 물병을 장기자랑 상품으로… 대학 축제서 생긴 논란</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/25/MIA5LSRGBJF6ZHGA6RCUUXFO34/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/25/MIA5LSRGBJF6ZHGA6RCUUXFO34/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 May 2024 07:03:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B5J633T2J2CQB25CJCK3PSTCNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오마이걸. /스포츠조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남의 한 대학 축제에서 사회자가 장기자랑 상품으로 걸그룹 오마이걸이 공연 중 마시던 생수병을 제공해 논란이 일고 있다. 비판이 이어지자 대학 측과 사회자 모두 사과문을 발표했다. &lt;br&gt;&lt;br&gt;엑스(옛 트위터)에는 지난 23일 “오마이걸 멤버들이 마시던 물병을 사회자가 장기자랑 시켜 나눠준다”며 영상 하나가 올라왔다. 이를 보면, 마이크를 든 사회자가 무대 위 놓여진 물병 여러개를 쭉 훑는다. 이윽고 오마이걸 멤버 중 한명의 이름을 언급하며 물병을 집어 들고 이를 무대에 오른 한 남성에게 건넨다. 관객 사이에선 “저걸 가져서 뭐 해?” 등 의아하다는 듯한 반응이 나온다. &lt;br&gt;&lt;br&gt;이는 지난 22일 충남의 한 대학 축제에서 오마이걸이 무대를 마친 이후에 촬영된 것으로 알려졌다. 당시 사회자는 축제가 끝날 무렵 학생들에게 장기자랑을 시킨 뒤 오마이걸 생수병을 상품으로 나눠줬다고 한다. 현장에 있었다는 한 네티즌은 “물병 받은 사람 중 한명은 뭐 주는지 모르고 나왔다가 받고 그냥 버렸다더라”고 전했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FGAA552FSVCJJCGX7SE3ZNP3I4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대학 축제에서 사회자가 오마이걸이 마시던 물병을 장기자랑 상품으로 제공하기 위해 고르고 있는 모습. /엑스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 같은 내용이 알려지자, 온라인상에선 해당 사회자를 향한 비난 여론이 일었다. 네티즌들은 “의도가 부적절하다” “내가 멤버라면 불쾌할 것 같다” “현장 반응도 별로 안 좋은데 굳이 걸그룹이 마시던 물병을 상품으로 내건 이유가 뭐냐” 등이다. &lt;br&gt;&lt;br&gt;논란이 커지자, 결국 대학 총학생회 측과 사회자는 인스타그램을 통해 사과문을 발표했다. &lt;br&gt;&lt;br&gt;사회자는 “기념이 되리라 생각해서 했던 행동이 누군가에게 피해를 줬다”며 “축제가 마무리될 때 오마이걸 분들이 마신 물을 학생들에게 나눠 준 부분에 대해 사과의 말씀을 드린다. 죄송하다”고 했다. 그러면서 “장기자랑을 한 학생들 가운데 선물이 오마이걸 물병이라서 당황한 학생도 있었다. 저의 미숙한 진행으로 일어난 일이니 학생들이 아닌 저를 질책해달라”고 했다. &lt;br&gt;&lt;br&gt;총학생회 측은 “사회자의 적절치 못한 진행으로 불쾌감을 느끼시고 피해를 보신 모든분께 죄송하다는 말씀드린다”며 “이번 일은 학교 측이나 출연자와 협의가 이뤄지지 않은 사회자의 돌발행동이었다”고 했다. 이어 “공연 후 발생한 예기치 못한 일로 인해 피해 보신 오마이걸과 오마이걸 팬 여러분께 진심으로 사과드린다”며 “행사를 주최하고 운영한 총학생회로서 다시 한번 대단히 죄송하다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충북 음성서 차량 3대 연쇄추돌…2명 심정지·6명 부상</title>
+      <link>https://www.chosun.com/national/regional/2024/05/25/CJZXUELOPBHQLB67NG64ZWEX5M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/05/25/CJZXUELOPBHQLB67NG64ZWEX5M/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 May 2024 06:41:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XNEX4DO3J4MEIGCK555QZ7KKXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오전 10시 50분쯤 충북 음성군 원남면 부천리 한 국도에서 A(76)씨가 몰던 SUV차량이 신호대기 중이던 승용차를 들이받아 A씨와 동승자가 숨졌다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 음성군 한 국도에서 연쇄 차량 추돌 사고가 나 2명이 숨지고 6명이 부상을 입었다.&lt;br&gt;&lt;br&gt;25일 오전 10시 50분쯤 충북 음성군 원남면 부천리 한 국도 2차로에서 A(76)씨가 몰던 차량이 신호 대기 중이던 다른 승용차를 들이받았다. 들이받힌 승용차는 앞에 있던 또 다른 차량을 추돌했다.&lt;br&gt;&lt;br&gt;이 사고로 A씨와 동승자가 심정지 상태로 병원으로 옮겨졌고, 나머지 차량에 타고 있던 6명이 경상을 입었다.&lt;br&gt;&lt;br&gt;경찰은 사고 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>의대 교수들 “정원 늘어도 교수·시설 제때 확보 어렵다”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/05/25/UA647VIHCJC3JCOQFYPNVIZ5CY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/05/25/UA647VIHCJC3JCOQFYPNVIZ5CY/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 May 2024 05:20:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/24HP6CJAS45BJPZQY4JZ5YN7LY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 대학 의과대학. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2025학년도 의대 정원이 기존보다 1509명 늘어난 4567명으로 확정된 가운데, 전국 의대 교수들은 여전히 교육여건 악화를 우려하고 있다.&lt;br&gt;&lt;br&gt;25일 의료계에 따르면 전국의과대학 교수협의회(전의교협)는 지난 22~23일 전국 30개 의대 소속 교수 776명을 대상으로 교육 여건에 관한 설문 조사를 했다.&lt;br&gt;&lt;br&gt;정부가 추진하는 대로 의대 증원이 이뤄질 경우 입학과 진급에 맞춰 학교 강의실 등 건물이 적절하게 준비될 수 있을지에 대해 81.1%(629명)가 ‘매우 그렇지 않다’, 14.2%(110명)가 ‘그렇지 않다’고 답했다. 전체 응답자의 95%가 부정적 입장을 내비친 것이다.&lt;br&gt;&lt;br&gt;학교 내 도서관, 의학 기자재 등 관련 시설이 적절하게 준비될 수 있는지에 대한 질문에는 82.9%(643명)가 ‘매우 그렇지 않다’, 13.5%(105명)가 ‘그렇지 않다’고 답했다. 학생들의 입학과 진급에 맞춰 교수를 적절하게 확보할 수 있는지 묻자 86.7%(673명)가 ‘매우 그렇지 않다’, 9.8%(76명)가 ‘그렇지 않다’고 응답했다.&lt;br&gt;&lt;br&gt;전의교협 측은 “의학 교육 자체가 불가능한 상황에서 증원을 논의하는 것은 의미가 없다. 일부 학교의 경우 시설과 인력 등 교육 인프라를 적기에 마련하기 불가능한 상태”라며 “정부는 이런 현장 목소리를 경청해 증원 계획을 철회하고, 사법부는 현명한 판단을 내려야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강형욱 논란에 ‘난 다르다’던 설채현, “경솔했다” 사과</title>
+      <link>https://www.chosun.com/national/people/2024/05/25/GF63EW5HYFEJJMXRJVLTHRWRBI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/05/25/GF63EW5HYFEJJMXRJVLTHRWRBI/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 May 2024 05:51:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SQFM7OYJGZIYVGI7X2JYRQRKXE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;설채현 수의사가 작년 12월 13일 서울 중구구민회관에서 열린 우리동네 반려동물 지킴이 성과보고회 및 반려동물 문화만들기 홍보영상 시상식에서 강연을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반려동물 훈련사 겸 수의사 설채현이 강형욱 보듬컴퍼니 대표 논란과 관련해 섣불리 해명글을 게시한 것에 대해 사과했다.&lt;br&gt;&lt;br&gt;설씨는 25일 자신의 인스타그램에 “제가 경솔했습니다”라며 장문의 글을 올렸다.&lt;br&gt;&lt;br&gt;그는 “며칠 전부터 SNS와 주변, 그리고 저를 믿어주는 분 중에서도 저를 의심하는 일이 생겼다”며 “제 개인적인 인스타그램이어서 저를 아시는 분들에게 믿음을 주고자, 그리고 의심만은 받지 말자는 생각에 저희 친구들 사진과 글을 올렸는데 기사까지 날 줄은 몰랐다”고 했다.&lt;br&gt;&lt;br&gt;설씨는 “이렇게 가볍게 생각한 제 실수”라고 인정했다. 이어 “억울하고 의심받는 건 싫어서였지만, 지금 생각해 보면 크게 기사가 난 것도 아니고 몇몇 저를 좋아하지 않는 분들의 의견이었을 텐데 제가 과민반응 했다”고 했다.&lt;br&gt;&lt;br&gt;설씨는 “여러분들을 통해 다시 한번 배웠고, 다시 한번 참는 법을 배우겠다”며 “사실 학창 시절 제가 하지 않은 일에 대해 의심받아 가만히 있다가 기정사실화되어 힘든 일이 있었다. 그래서 조그만 일에도 적극 해명하는 버릇이 생겼다”고 설명했다.&lt;br&gt;&lt;br&gt;그는 “저를 비난해 주신 분들 댓글 하나하나 다 봤고 조롱도 많았지만, ‘너무 내 입장만 생각했구나’ 생각이 바뀌게 됐다”며 “가족 욕 빼고는 다 의미 있는 댓글이었다고 생각한다”고 했다. 그러면서 “제 짧은 생각으로 불편드린 분들께 죄송하고, 다음부터 더 신중한 언행과 개인적인 것보다는 잘못된 문화에 대한 얘기로 찾아뵙겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 강형욱씨의 직원 갑질 의혹이 불거지자 일각에서는 동종 업계에 종사하는 설씨에 대해서도 의심하는 반응을 보였다. 이에 설씨는 22일 인스타그램에 “괜히 이런 분위기에서 글 쓰면 오히려 기회주의자 같아 보이고 해서 조용히 숨죽이고 있었는데 저도 그런 거 아닐지 걱정과 의심의 눈초리들이 보여서 말씀드린다”며 “저는 저희 직원들에게 최선을 다하려고 한다”는 글을 썼다.&lt;br&gt;&lt;br&gt;설씨는 직원들과 함께 찍은 사진을 올리며 “항상 더 잘해주지 못해서 미안한데 그래도 우리나라 올바른 교육 문화를 만들어보자고 저랑 매미처럼 꼭 붙어 있어 줘서 고마운 친구들”이라며 “결론은 여러분들 저한테 그런 걱정 안 하셔도 된다”고 했다.&lt;br&gt;&lt;br&gt;이후 ‘이때다 싶어서 강씨를 저격하는 것이냐’는 이야기가 나왔다. 설씨는 “인터넷상에서 ‘설채현도 그럴 거다’ ‘쇼닥터다’ 그런 글 안 올라왔으면 이 글 쓰지도 않았다”며 “어쩌다 불똥 튄 저에 대한 오해에 관해 해명한 것이며 다른 분의 의혹이 사실이다, 아니다 판단하지 않았다. 저에 대한 의혹에 대한 적극 해명이었을 뿐”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>울릉도 해상서 유람선 고장으로 표류.. 승선원 216명 무사히 구조</title>
+      <link>https://www.chosun.com/national/regional/2024/05/25/INOM267S2JDKXALAPVUCFU2P3Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/05/25/INOM267S2JDKXALAPVUCFU2P3Y/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 May 2024 05:43:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/APXIBH4PTRHU7NQLM75QANCL7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오전 해경이 경북 울릉군 울릉도 삼선암 북동 1㎞ 인근 해상에서 기관 고장으로 표류한 유람선을 예인하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울릉도 인근 해상에서 유람선이 기관 고장으로 표류했지만 승선원 200여명이 해경에 무사히 구조됐다.&lt;br&gt;&lt;br&gt;25일 강원 동해해양경찰서에 따르면 이날 오전 10시 19분쯤 경북 울릉군 울릉도 삼선암 북동 1㎞ 인근 해상에서 243t 유람선이 기관 고장으로 표류 중이라는 신고가 들어왔다.&lt;br&gt;&lt;br&gt;유람선에는 승객 211명과 선원 5명 등 216명이 타고 있었다.&lt;br&gt;&lt;br&gt;신고를 받은 동해해경은 경비함정 1척과 울릉파출소 연안 구조정을 급파했다. 민간해양구조대 2척과 예인선 1척에도 구조 협조를 요청했다.&lt;br&gt;&lt;br&gt;해경은 이날 오전 11시 31분쯤 승객 25명을 울릉파출소 연안 구조정과 민간해양구조선에 나눠 타도록 해 저동항으로 안전하게 구조했다.&lt;br&gt;&lt;br&gt;이후 예인선을 이용해 남은 승선원들이 타고 있던 유람선을 사동항으로 무사히 예인했다.&lt;br&gt;&lt;br&gt;동해해경 관계자는 “민간해양구조대와 예인선의 도움으로 구조작업을 했고, 인명피해 없이 안전하게 입항해 다행이다”며 “출항이나 운항 전 철저한 장비 점검이 필요하다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>초월읍에서 ‘초월’ 간판 빼라…경고장 보낸 남성, 알고보니 </title>
       <link>https://www.chosun.com/national/national_general/2024/05/25/QQC3EO7JTNDA3HWQL7LITUEJAQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/25/QQC3EO7JTNDA3HWQL7LITUEJAQ/</guid>
@@ -900,63 +963,6 @@
       <description/>
       <pubDate>Wed, 22 May 2024 15:40:00 +0000</pubDate>
       <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/W4NRFYLBDFGPXAIB6A3KLLFWTE.jpg?width=650&amp;height=1445&amp;auth=8aa83eb381144cd674a1398f66a29e04ea48d178f8120d85dd516e131233ef9f&amp;smart=true" alt="" height="1445" width="650"/&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘올해 1호 태풍’ 필리핀서 발달 중... 우리나라 영향은?</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/24/23TXENEMU5FE7EK62NTDJGPXDU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/24/23TXENEMU5FE7EK62NTDJGPXDU/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 07:02:56 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/A7AXDYUWLX3NTWVM45RTF24XQM.jpg?width=2692&amp;height=1465&amp;auth=03e89a21f8ea8ed3d34b6da9b76a42a84bf9bfe7b7a69bd3d15edebba86425b4&amp;smart=true" alt="서울 종로구 광화문광장에서 우산을 쓴 시민들이 발걸음을 옮기고 있다. /뉴스1" height="1465" width="2692"/&gt;&lt;p&gt;일요일인 26일 오후부터 한주가 시작되는 27일 아침까지 전국에 비가 내릴 전망이다. 더불어 올해 첫 태풍이 될 것으로 예상되는 제1호 열대저압부는 현재 필리핀을 거쳐 북상 중이다.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 비계(飛階)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/05/22/KKT6S7MPXRCUHH5RSUXFBZDR6Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/05/22/KKT6S7MPXRCUHH5RSUXFBZDR6Y/</guid>
-      <description/>
-      <pubDate>Tue, 21 May 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/DMUDSGB2Z5H3VJENTZA3F6F53I.jpg?width=650&amp;height=1446&amp;auth=636d021002c6f9ffaaa3f6568cc92a09b169be35ee6acdd499b1448544bd3298&amp;smart=true" alt="" height="1446" width="650"/&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 백두대간(白頭大幹)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/05/21/A6N2SHUPYJFGBITUIPQQRBEVGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/05/21/A6N2SHUPYJFGBITUIPQQRBEVGU/</guid>
-      <description/>
-      <pubDate>Mon, 20 May 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/LXLVX2EPT5ABRCTNNIK5MNNJ6A.jpg?width=650&amp;height=1445&amp;auth=c85ed7ec5d73434b394e08872eea84a4e1cf888ec12d57ea9c6fe27106b13eab&amp;smart=true" alt="" height="1445" width="650"/&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 흑역사(黑歷史)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/05/20/ZJ5EJ42U7RBNZMQFVWZKI6HEGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/05/20/ZJ5EJ42U7RBNZMQFVWZKI6HEGQ/</guid>
-      <description/>
-      <pubDate>Sun, 19 May 2024 20:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/FUBPAWQALBG7VIBWZQVQTEB5ZI.jpg?width=500&amp;height=1124&amp;auth=55f97d6687531696dec71c840bd1f19379179bda4f34940cbe081e3746b8df89&amp;smart=true" alt="" height="1124" width="500"/&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 구립(區立)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/05/17/KN2A7AEQ3VFCXKL6Q4HMLUS7OE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/05/17/KN2A7AEQ3VFCXKL6Q4HMLUS7OE/</guid>
-      <description/>
-      <pubDate>Thu, 16 May 2024 18:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/BME7GNLOENAVTDJB7BVQ2UEBWM.jpg?width=650&amp;height=1440&amp;auth=a98cfe3751340c86751be4325e7715e4c591c93f9b4888cd3acd640128fe8b10&amp;smart=true" alt="" height="1440" width="650"/&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 과묵(寡默)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/05/16/2PONPA7XKNBADNHSR3MQUBPEHE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/05/16/2PONPA7XKNBADNHSR3MQUBPEHE/</guid>
-      <description/>
-      <pubDate>Wed, 15 May 2024 19:32:10 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/ZYDWA5CD6ZASRJ6CGVP6HQFULY.jpg?width=500&amp;height=1118&amp;auth=d295983d11b1051d06ef9030a9afcf6651bb18c7aeb2f9208cd34c1aba138309&amp;smart=true" alt="" height="1118" width="500"/&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 자객공천(刺客公薦)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/05/14/VY3VI7IBI5GYNPUBOJTMXCM3EQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/05/14/VY3VI7IBI5GYNPUBOJTMXCM3EQ/</guid>
-      <description/>
-      <pubDate>Mon, 13 May 2024 18:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/PQTV4NDBBJHMDNPS3FHOVAZZSQ.jpg?width=650&amp;height=1438&amp;auth=755bf44cef95389ac63d8042f5655a8484ad4a16ec4d4227aaa189abe3eaf456&amp;smart=true" alt="" height="1438" width="650"/&gt;</content:encoded>
     </item>
   </channel>
 </rss>
