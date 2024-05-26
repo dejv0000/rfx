@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>횡성 한 마트서 직원에 흉기 휘두른 20대 검거</title>
+      <link>https://www.chosun.com/national/2024/05/26/HYQYLIS24VEAHJ3LZXE6OBFT2Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/05/26/HYQYLIS24VEAHJ3LZXE6OBFT2Q/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 May 2024 10:09:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VHELCYWMZBAMZAATN2GTMU73SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;횡성의 한 마트에서 계산원을 흉기로 찌른 20대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;횡성경찰서는 횡성의 한 마트 종업원을 흉기로 찔러 상해를 입힌 혐의로 20대 A씨를 붙잡아 조사 중이라고 26일 밝혔다. 경찰에 따르면 A씨는 이날 오후 1시40분께 횡성군 횡성읍 교항리의 한 마트에서 계산원 여성 B씨를 흉기로 수 차례 찌른 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이 과정에서 A씨와 B씨가 모두 부상을 입어 병원으로 옮겨졌다. 경찰은 정확한 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전기 끊고 고소전까지...檢, ‘적반하장’ 건설사 대표 등 기소</title>
+      <link>https://www.chosun.com/national/2024/05/26/KPIUM3ZGQVAYZB53THKMRHL42E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/05/26/KPIUM3ZGQVAYZB53THKMRHL42E/</guid>
+      <dc:creator>울산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 May 2024 08:32:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/73KQISKODWUSJYYBQUEUGPGGHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산지방검찰청. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아파트 부실 시공과 입주 지연 문제로 소송에서 지자 되레 입주예정자들의 입주를 방해하고, 고소까지 한 건설사 사장 등이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;울산지검 형사5부(부장 김윤정)는 모 아파트 건설사 사장 A(50대)씨와 이사 B(50대)씨, 시행사 대표 C(50대)씨 등 3명을 권리행사방해 혐의로 불구속 기소했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;A 씨 등은 자신들이 시공·분양한 울산 한 아파트의 수분양자들(입주예정자)과 입주 지체보상금, 입주 권한 문제로 법적 다툼을 하다가 패소하자 지난 2020년 10월 이 아파트의 보일러 부품을 없애고 전기선을 절단하는 등 입주를 방해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이 아파트는 2015년 11월 착공해 분양됐다. 당초 2018년 4~5월 입주 예정이었지만 공사 지연과 부실시공, 설계와 다른 시공 등으로 입주예정자들과 갈등이 생겼다.&lt;br&gt;&lt;br&gt;계속된 입주 지연에 손실금 문제가 발생하자, 입주예정자들은 시행사를 상대로 민사소송(채무부존재 확인 소송)을 제기했다. 2019년 1월에는 청와대 국민청원 게시판에 “건설사가 더 이상 국민들의 절박한 심정을 이용해서 자기들의 실속만 챙기려 하지 못하도록 법의 엄중함을 보여주시고 하루빨리 내 집에서 따뜻하게 살 수 있도록 도와달라”고 호소하는 글을 올리기도 했다. 당시 입주예정자들은 원룸과 고시텔, 친척 집 등에서 생활하는 등 불편을 겪었다.&lt;br&gt;&lt;br&gt;지난 2020년 10월 법원은 시행사가 입주예정자들에게 가구당 수천만 원의 지체보상금을 지급하고, 사실상 즉시 입주 조치를 하도록 선고했다.&lt;br&gt;&lt;br&gt;하지만 A 씨 등은 이 같은 법원 판결에도 시공사를 내세워 입주예정자들이 입주해도 정상적으로 생활할 수 없도록 보일러와 전기 사용 등을 막아버렸다.&lt;br&gt;&lt;br&gt;검찰 조사 결과 A씨 등은 시공사와 짜고 마치 시공사가 시행사로부터 공사대금 144억원을 받지 못한 것처럼 서류를 조작, 시공사가 아파트에 대한 유치권을 행사하는 것처럼 속여 보일러와 전기 사용을 방해해 입주를 막은 것으로 나타났다.&lt;br&gt;&lt;br&gt;시공사는 여기서 그치지 않고 법원의 부동산 인도 집행을 막겠다며 일부 세대의 현관문을 용접하기도 했다. 또 아파트에 입주하려는 입주예정자들과 판결을 강제 이행하던 법원 집행관 등 모두 326명을 업무방해 혐의로 고소하고 손해배상청구 소송을 제기했다. 이 때문에 입주예정자 등은 약 3년 간 피의자 신분으로 불안 속에 살아야 했다.&lt;br&gt;&lt;br&gt;검찰은 시행사와 시공사 사무실 압수수색, 약 8년치의 회계자료 및 계좌 추적 등을 통해 시행사가 시공사에 공사대금을 정상 지급한 사실과 채무가 있는 것처럼 허위로 정산 합의서를 작성한 사실 등을 밝혀냈다. 또 A 씨가 시공사와 시행사 모두 실질적으로 함께 운영하고 있다는 사실도 확인했다.&lt;br&gt;&lt;br&gt;검찰은 “시공사가 부실시공으로 하자를 일으키고도 정당한 입주예정자의 권리를 불법으로 저지하기 위해 고소하고 시간을 끄는 등 괴롭혔다”며 “앞으로도 민생 침해 범죄에 엄정 대응하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 A 씨 측이 고소한 입주예정자 등 326명에 대해선 모두 ‘혐의 없음’ 처분했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘1호차(현장지휘차)’ 타고 골프연습장 간 소방서장..감사 적발</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/26/FJBOWX7NHRF6JC2M33O5OX6WSY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/26/FJBOWX7NHRF6JC2M33O5OX6WSY/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 May 2024 08:28:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ALCUCZQCP5BSTP7EDUMCFIPGR4.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울소방 로고 /서울시 소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현장지휘용 공용차량인 이른바 ‘1호차’를 타고 골프연습장에 가고 차량운행 일지를 허위 기재한 서울지역 소방서장이 감사에 적발됐다. 소방관들이 서장의 출퇴근 운전기사 역할도 해온 것으로 드러났다.&lt;br&gt;&lt;br&gt;26일 서울시 감사위원회에 따르면 감사위는 소방재난본부에 대한 감사 결과, 이 같은 위반 사례를 적발하고 소방재난본부에 주의와 시정을 촉구했다.&lt;br&gt;&lt;br&gt;소방재난본부와 25개 소방서에는 기관장이 재난 현장 지휘에 활용하기 위한 승용차 또는 승합차를 운영하고 있다. 이른바 ‘1호차’로 불리는 이 차들은 서울시 공용차량 관리규칙에 따라 정당한 사유 없이 개인 용도로 사용할 수 없다.&lt;br&gt;&lt;br&gt;A소방서장의 1호차 블랙박스를 확인해보니 A서장은 작년 10월 경기도 소재 골프연습장 주차장을 간 것이 확인됐다. 하지만 차량 운행 일지에는 화재 취약지역을 방문한 것으로 기재돼있었다. &lt;br&gt;&lt;br&gt;A서장은 “퇴근길 지인에게 받을 물건이 있어 무료 주차가 가능한 골프연습장에 들렀다”는 내용의 소명서를 제출했다고 한다. 이에 감사위는 “골프연습장은 A 서장의 퇴근 경로에 있지 않으며 퇴근 후 공용차량을 개인용무에 쓰는 것도 공영차량 관리규칙 위반”이라고 지적했다.&lt;br&gt;&lt;br&gt;B서장은 지난해 3월 11일 1호차를 이용해 왕복 7시간이 걸리는 다른 지역을 다녀온 사실이 하이패스 이용 내역으로 확인됐다. 차량운행일지엔 “산불 예방활동”을 했다고 적었다.&lt;br&gt;&lt;br&gt;B서장은 타 기관 관계자의 모친상 장례식장에 다녀왔다고 소명했으나 감사위는 주말에 긴급 재난용 차량을 이용해 원거리에 있는 장례식장에 참석한 것은 정당한 공무로 볼 수 없다고 지적했다.&lt;br&gt;&lt;br&gt;C서장은 개인 질환 치료를 목적으로 병원을 다녀오는 데 1호차를 이용한 사실이 적발되기도 했다.&lt;br&gt;&lt;br&gt;한편 이번 감사에서 소방관들은 서장의 개인 출퇴근 운전기사 역할도 맡아온 것이 드러났다.&lt;br&gt;&lt;br&gt;최근 5년간 소방서별로 서장이 10회 이상 1호차를 이용해 출퇴근한 내역 및 운전자 현황을 조사했더니 30명의 소방서장이 1호차로 출퇴근한 사례가 1만5657회였다. 그중 서장이 직접 운전한 사례는 24%였고, 나머지 76%는 소방공무원이 운전을 했다. 서장 출퇴근 때 1호차를 운전한 소방공무원의 90%는 내근직, 10%는 현장출동 인력인 외근직이었다.&lt;br&gt;&lt;br&gt;감사위는 소방서장이 퇴근 후나 주말에 공용차량을 개인 용무에 사용하지 않도록 교육 및 업무처리를 철저히 하고, 관련자에게 주의를 주도록 했다.&lt;br&gt;&lt;br&gt;또 차량운행 일지를 허위 작성하는 관행을 바로잡고, 소방서장 출퇴근 때 현장 출동 인력 또는 당직 근무자가 1호차 운전을 하지 않도록 개선을 촉구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대법 “골프장 캐디, 사업주가 직장 내 괴롭힘에서 보호할 책임있다” </title>
       <link>https://www.chosun.com/national/court_law/2024/05/26/ZUE4D6XETVG7FAJJ6GY5JICCCE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/26/ZUE4D6XETVG7FAJJ6GY5JICCCE/</guid>
@@ -900,33 +927,6 @@
       <description/>
       <pubDate>Fri, 24 May 2024 11:26:30 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PWCJ4F35ONKHNBUIDDJECDLDME.jpg"&gt;&lt;figcaption&gt;음주 뺑소니 혐의를 받는 가수 김호중이 24일 영장실질심사를 마친 뒤 서울 서초구 서울중앙지법을 나와 호송차로 향하고 있다. /연합뉴스&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘음주 뺑소니’ 혐의를 받는 트로트 가수 김호중(33)씨가 24일 구속됐다. 뺑소니 사고 이후 보름 만이자 김씨가 음주 운전 사실을 인정한 지 닷새 만이다.&lt;br&gt;&lt;br&gt;서울중앙지법 신영희 영장전담 부장판사는 이날 오후 김씨에 대한 영장실질심사를 연 뒤 “증거 인멸 염려가 있다”는 이유로 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;함께 구속영장이 청구된 소속사 생각엔터테인먼트 이광득 대표와 본부장 전모씨에 대해서도 같은 이유로 영장을 발부했다.&lt;br&gt;&lt;br&gt;특정범죄가중처벌법상 위험운전치상·도주치상, 도로교통법상 사고후 미조치, 범인도피방조 혐의 등을 받는 김씨는 이번 사태가 터진 뒤 곧바로 잘못을 시인하는 대신 거짓말, 버티기, 고위 전관(前官) 변호사 선임하기 같은 수법 등으로 대응했다. 전문가들 사이에선 이 과정에서 한국 사회 전반의 병폐가 집약됐다는 얘기가 나오기도 했다.&lt;br&gt;&lt;br&gt;김씨는 지난 9일 오후 11시 40분쯤 서울 강남구 압구정동에서 술을 마신 채 운전대를 잡은 뒤 자신의 차량으로 반대편 도로의 택시를 들이받고 도주했다. 범행 사실이 뒤늦게 알려지자 김씨 측은 “음주는 절대 하지 않았다”고 했다. 당일 유흥업소 방문 사실이 드러났을 때는 “술잔을 입에만 대고 마시지 않았다” “차(茶)만 마셨다”고 했다. 잇따른 범죄 혐의에도 시간을 끌었고 지난 18~19일 경남 창원 공연을 강행하기도 했다. 그러나 지난 19일 결국 음주운전 사실을 인정했다.&lt;br&gt;&lt;br&gt;김씨는 변호인으론 전직 검찰총장 직무대행을 지낸 조남관(59) 변호사를 선임했다. 경찰 안팎에선 전관을 앞세워 “어떻게든 구속을 면해보려는 얄팍한 여론전”이라는 반응이 나오기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C6OADVSBERJNVLDEVEME55N3RU.JPG"&gt;&lt;figcaption&gt;음주운전 뺑소니 혐의 등을 받는 트로트 가수 김호중씨가 21일 오후 서울 강남경찰서에서 조사를 마친 뒤 조남관 변호사와 함께 나오고 있다. /뉴스1&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소속사 관계자들도 범행 은폐에 가담했다. 이 대표는 사고를 은폐하기 위해 소속사 매니저에게 경찰에 대리 자수하라고 지시한 혐의(범인도피교사), 전씨는 사고 차량의 블랙박스 메모리카드를 폐기한 혐의(증거인멸 등)를 받는다.&lt;br&gt;&lt;br&gt;경찰은 증거 인멸과 도주 우려 가능성이 크다고 보고 지난 22일 이들에 대한 구속영장을 신청했고, 같은 날 검찰이 구속영장을 청구했다. 김씨 측은 23·24일 이틀 간 예정된 자신의 콘서트를 소화하기 위해 영장실질심사를 연기해달라고 요청했지만, 법원은 기일변경 요청을 받아들이지 않고 기각했다. 이에 따라 김씨는 23일엔 무대에 올랐지만, 24일 공연엔 불참했다.&lt;br&gt;&lt;br&gt;영장실질심사 이후 서울강남경찰서 내 유치장에서 대기하던 김씨는 구속된 채 향후 수사를 받게 됐다. 강남서 관계자는 “경찰이 수사해서 구속시키면 유치장에 계속 있는 게 일반적”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“창틀에 서서 담배를”... 위험천만한 아파트 내 흡연 실태</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/24/GJ2XMMDUJZEIRF37ET637NFMGM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/24/GJ2XMMDUJZEIRF37ET637NFMGM/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 10:59:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SCCYYKZ7XVFPLHU5CCETY6PD7I.png"&gt;&lt;figcaption&gt;아파트 창틀에 서서 위험천만한 자세로 담배를 피우는 입주민이 포착됐다. /온라인 커뮤니티&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고층 아파트 창틀에 서서 위험천만한 자세로 담배를 피우는 입주민이 포착됐다.&lt;br&gt;&lt;br&gt;24일 한 온라인 커뮤니티에는 ‘집에서 담배 냄새 안 나게 피는 방법 연구 중’이라는 제목의 게시글에 사진 한 장이 올라왔다. 사진에는 한 남성이 아파트 창틀 위에 서서 담배를 피우는 듯한 모습이 담겨 있었다.&lt;br&gt;&lt;br&gt;이 남성이 창틀을 밟고 올라서 있는 터라 몸은 창밖으로 아예 나와 있었고, 창밖에는 높이가 낮은 안전난간대만 설치돼있어 자칫하면 추락할 수도 있는 위험천만한 상황이었다. 이 사진을 올린 글쓴이는 “경비 아저씨가 내려오라고 소리치는데 ‘싫어요’라며 저러고 있다”며 “대단하다”라고 했다. 이 사진이 언제, 어디서 찍혔는지는 확인되지 않았다.&lt;br&gt;&lt;br&gt;네티즌들은 “엄청 위험해 보이네. 담배 하나에 목숨을 거는군” “저러면 아파트 단톡방에 올라와서 엄청 욕 먹을 텐데” “저 노력으로 밖에 나가서 피우겠다” “흡연자 중에 최악의 유형이 집에 냄새 밴다고 베란다에서 담배 피우는 사람. 윗집으로 냄새 올라온다” 등의 반응을 보였다.  &lt;br&gt;&lt;br&gt;아파트 측은 입주민 개인의 층간 흡연을 제재하기 어려운 실정이다. 2023년 공개된 국토교통부의 ‘연도별 층간소음·층간흡연 민원 현황’ 자료에 따르면 2022년 층간흡연으로 접수된 민원은 3만5148건으로 2020년 2만9291건에 비해 20% 가까이 늘어났다.&lt;br&gt;&lt;br&gt;공동주택관리법 제20조의2에 따르면 공동주택의 입주자는 발코니, 화장실 등 세대 내에서의 흡연으로 인하여 다른 입주자에게 피해를 주지 않도록 노력해야 한다. 간접흡연으로 피해를 입은 입주자는 관리사무소 등 관리 주체에 이 사실을 알리면 관리주체가 흡연 입주민에게 담배피우는 것을 중단하도록 권고할 수 있다. 그러나 관리 주체가 입주자를 대상으로 흡연을 중단시킬 권한은 없다.&lt;br&gt;&lt;br&gt;아파트 등 공동주택의 거주 세대 중 2분의 1 이상이 동의해 공동주택의 복도, 계단, 엘리베이터 및 지하주차장의 전부 또는 일부를 금연구역으로 지정할 수 있다. 그러나 이 경우에도 세대 내 흡연은 막을 수 없는 실정이다. 다만 아파트가 자체적으로 관리규약에 입주자들의 동의를 받고 간접 흡연 벌칙 조항을 명시할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“50명 아무나 죽이겠다” 서울역 칼부림 예고한 30대 남성 체포</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/24/J2SKRU6QLBAJ7EB7KYKDZYFWOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/24/J2SKRU6QLBAJ7EB7KYKDZYFWOE/</guid>
-      <dc:creator>강지은 기자, 박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 12:11:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RRKQDJVDKJLMVP62H4B7BR7E6E.JPG"&gt;&lt;figcaption&gt;서울 지하철 4호선 서울역 승강장이 출근하는 시민들로 붐비고 있다./뉴스1&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울역에서 ‘묻지마 칼부림’ 예고글을 쓴 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 종암경찰서는 24일 오후 7시 20분쯤 서울역에서 칼부림을 벌이겠다는 내용의 게시글을 작성한 남성 A(33)씨를 경기 고양시 자택에서 긴급 체포했다고 이날 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 22일 오후 1시 42분쯤 온라인 커뮤니티 디시인사이드에 “서울역에 5월 24일날 칼부림 하러 간다. 남녀 50명을 아무나 죽이겠다”는 내용이 담긴 글을 작성해 불특정 다수를 협박한 혐의를 받는다.&lt;br&gt;&lt;br&gt;서울역을 관할하는 남대문경찰서는 해당 게시글을 확인한 뒤 국정원과 철도 경찰 등 관계 기관에 소식을 전파하고, 추가 경력을 요청하며 예방 활동에 나섰다. 수사를 맡은 종암경찰서는 이날 오전 디시인사이드에 대한 압수수색 영장을 집행했다. 경찰은 A씨의 디시인사이드 접속 기록 등을 확보해, 분석을 통해 구체적인 위치를 파악했다. 경찰 관계자는 “범행 동기 등을 조사해 구속영장 신청 등을 검토할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;해당 게시글은 현재 삭제됐다. 하지만 이날 오전부터 소셜미디어를 통해 테러 소식이 퍼지면서 시민들은 불안을 호소했다. 온라인에서는 “다들 정말 조심해야 할 것 같다” “오늘내일 서울역에 경찰이 많아도 놀라지 말고 대비하자” “복잡한 서울역 출구 동선 미리 숙지하고 출근해야 할 것 같다”는 등 반응이 이어졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰 중간간부 내주 인사...金여사 수사라인 주목</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/24/S65HQPY5AFFQDGO4YEZCAEBUXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/24/S65HQPY5AFFQDGO4YEZCAEBUXU/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 09:10:45 +0000</pubDate>
-      <content:encoded>검찰의 중간간부인 고검검사(차장·부장검사)급 인사를 논의하기 위한 법무부 검찰인사위원회가 24일 열렸다. 인사 결과는 5월 말경 발표될 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7PPIC2D6GCFZYAIHAUPKUZGEE4.jpg"&gt;&lt;figcaption&gt;법무부./뉴스1&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 이날 오후 4시 정부과천청사에서 검찰인사위원회를 열고 고검검사(차장·부장검사)급 승진·전보 인사 안건을 논의했다. 인사위는 1시간가량 이어진 회의를 마친 뒤 “5월 말경 인사 결과를 발표하고, 6월 초 부임할 예정”이라고 했다. 인사위원장인 권익환(사법연수원 22기) 김앤장 법률사무소 변호사는 이날 인사위에 참석하며 “위원님들과 잘 살펴보도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;인사위에서 결정된 인사 방침은 크게 두 가지다. 우선 대검검사(고검장‧검사장)급 인사로 인한 공석을 충원하는 것이다. 지난 13일 대검검사급 39명에 대한 인사가 실시됐고, 이에 따라 서울중앙지검 1‧2‧3‧4차장 등 주요 보직이 비어있는 상황이다. 김건희 여사의 ‘디올 백 수수’ 의혹, ‘대장동 개발 비리’ 사건 등 주요 사건 수사를 책임지는 자리인 만큼 이 공석들을 채우겠다는 것이다. 다만 인사위는 조직 안정‧업무 연속성 등을 고려해 사법연수원 34기 검사들의 차장검사 승진을 가급적 최소화할 방침이라고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q3NW763LRBKL7IYS7G4JZ3V65U.jpg"&gt;&lt;figcaption&gt;검찰인사위원장인 권익환 변호사가 24일 경기 과천시 정부과천청사 법무부에서 열린 검찰인사위원회에 참석하고 있다./뉴시스&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 인사위는 수사 실무를 맡는 평검사 인력이 부족한 상황 등을 고려해 사법연수원 38기의 부장검사 보임과 39기의 부부장검사 보임은 유보하기로 했다. 현재 38기 검사는 부부장검사이고, 39기는 평검사다. 이들이 각각 부장‧부부장으로 승진할 경우 각 사건 수사를 맡아 하는 평검사 인력이 부족하다는 것이다.&lt;br&gt;&lt;br&gt;인사위는 위원회에서 결정된 사항을 바탕으로 인사계획을 수립한 뒤 대통령의 결재를 거쳐 발표하게 된다. 위원회가 정한 인사 결과 발표 시점은 이달 말로, 27일 또는 29일이 유력하게 거론된다. 이 시기 중 인사 결과가 발표될 경우, 보임 시점은 6월 3일이 유력한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>소방청 최초 여성 소방감... 이오숙 신임 전북소방본부장</title>
