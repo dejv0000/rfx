@@ -13,6 +13,92 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대법 “골프장 캐디, 사업주가 직장 내 괴롭힘에서 보호할 책임있다” </title>
+      <link>https://www.chosun.com/national/court_law/2024/05/26/ZUE4D6XETVG7FAJJ6GY5JICCCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/26/ZUE4D6XETVG7FAJJ6GY5JICCCE/</guid>
+      <dc:creator>허욱 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 May 2024 07:42:39 +0000</pubDate>
+      <content:encoded>대법원이 직장 내 괴롭힘으로 골프장 캐디가 극단적 선택을 한 사건에 골프장 운영사 측의 법적 책임이 있다는 원심을 확정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DUQ5GHIOSOPNQLBT2TD4KZUZ3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 2부(주심 신숙희 대법관)는 지난 17일 직장 내 괴롭힘에 시달리다 목숨을 끊은 골프장 캐디 A씨의 유족이 건국대학교 법인을 상대로 낸 손해배상 소송에서 “골프장 측이 1억6000여만원을 배상해야 한다”는 원심 판결을 심리불속행 기각으로 확정했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2020년 경기 파주시에 있는 골프장에서 근무 중 ‘캡틴’으로 불리던 상급자 B씨에게 질책을 받았다. B씨는 다른 캐디들도 들을 수 있는 무전으로 A씨에게 “뚱뚱해서 못 뛰는 것도 아니잖아. 뛰어”라고 하거나 “오늘도 진행이 안되잖아. 오늘도 또 너냐” 등 발언을 했다. A씨는 다른 직원과 마찰을 빚은 후 B씨가 질책한 날 인터넷 카페에 글을 올렸다가 탈퇴 당하기도 했다. 해당 인터넷 카페는 근무에 필요한 자료와 근무수칙, 츨근표 등이 올라와 캐디 근무에 필수적인 곳이었다. 그해 9월 A씨는 스스로 목숨을 끊었다.&lt;br&gt;&lt;br&gt;A씨의 유족은 이듬해 5월 B씨와 골프장 운영사인 건국대 법인을 상대로 손해배상 소송을 제기했다. 유족은 A씨가 건국대 법인에 속해 근로를 제공한 근로기준법상 근로자에 해당한다고 주장했다. 또 건국대 법인이 A씨에 대한 보호 의무가 있는데도 아무 조치를 하지 않은 불법행위 책임이 있다고도 했다.&lt;br&gt;&lt;br&gt;1심은 특수고용형태근로자로 분류되는 골프장 캐디는 근로기준법상의 근로자로 인정할 수는 없다면서도 건국대 법인에 손해 배상 책임을 인정했다. 1심 재판부는 “직장에서의 지위 또는 관계 등의 우위를 이용해 업무상 적정 범위를 넘어 다른 사람에게 신체적·정신적 고통을 주거나 근무환경을 악화시켰다면 그 피해자가 반드시 근로자여야 할 필요는 없다”고 했다. 그러면서 건국대 법인이 B씨에 대한 감독을 소홀히 한 책임있다고 판단했다.&lt;br&gt;&lt;br&gt;2심도 건국대 법인의 책임을 인정했다. 하지만 2심 재판부는 1심과 판결 내용 일부를 바꾸면서 “골프장 캐디는 특수형태 근로자로 사업주인 피고가 A씨를 보호할 의무가 있었다”고 판단했다. B씨에 대한 감독 소홀 의무를 넘어 건국대 법인이 사용자로서 A씨에 대한 보호를 하지 않은 직접적인 책임이 있다는 것이다. 대법원도 이 같은 원심 판단을 그대로 확정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“조금 이상해”…아내 눈썰미로 발견한 환자, 비번 소방관이 살렸다</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/26/QL735PNZNJFJHBP3K2HZQABJMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/26/QL735PNZNJFJHBP3K2HZQABJMU/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 May 2024 06:16:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S3Y46DQLONEZVPHCNGI4PIAQZE.png"&gt;&lt;figcaption&gt;&lt;small&gt;부산 기장소방서 현장대응단 소속 이영철 주임이 지난 16일 금정구 개좌고개 길가 수풀에 쓰러져 있는 남성을 상대로 심폐소생술을 하고 있는 모습. /부산광역시 소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;심정지 환자를 발견해 심폐소생술(CPR)로 사람 목숨을 구한 소방관과 교육공무원 부부 소식이 뒤늦게 알려졌다. 육아 휴직 중인 교육공무원 아내가 눈썰미로 위중 환자를 발견했고, 비번 날이었던 남편 소방관이 응급처치를 했다.&lt;br&gt;&lt;br&gt;26일 부산광역시 소방재난본부에 따르면 기장소방서 현장대응단 소속 이영철 주임과 해운대교육지원청 소속 정준희 부부는 지난 16일 오후 1시 5분쯤 차를 타고 금정구 개좌고개를 지나던 중 길가에 쓰러져 있는 자전거와 그 옆 수풀에 누워 있는 한 남성을 발견했다.&lt;br&gt;&lt;br&gt;그 장소는 평소 산악자전거를 즐기는 사람들이 많이 이용하는 코스였다. 이 주임도 해당 남성을 처음 봤을 때는 단순히 쉬고 있다고 판단해 그냥 지나쳤다고 한다.&lt;br&gt;&lt;br&gt;그러나 아내 정씨 눈썰미가 그 남성을 살렸다. 그는 “아무래도 조금 이상하다. 혹시 모를 일이니까 되돌아 가보자”고 말했다. 이 주임은 이 말에 차를 돌렸다. 현장에 도착했을 때 해당 남성을 확인해보니 호흡과 맥박, 통증에 반응이 없었다.&lt;br&gt;&lt;br&gt;이 주임은 바로 CPR을 실시했고, 정씨는 119 신고했다. 119구급대가 7분 만에 도착해 병원으로 신속히 이송했다. 환자는 병원에서 중환자실에 입원해 치료를 받다가 현재는 일반 병실로 옮겨져 건강을 회복 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;환자 가족은 지난 22일 전화로 목숨을 구해준 부부에게 감사의 인사를 전했다. 이 주임은 당시 비번이었고 정씨는 육아휴직 중에 선행을 한 것으로 나타났다.&lt;br&gt;&lt;br&gt;이 주임은 “심폐소생술은 사람의 생명을 살릴 수 있는 매우 중요한 응급처치”라며 “1~2회 교육을 받으면 누구나 쉽게 할 수 있는 비교적 간단한 응급처치술이어서 소방서와 119안전체험관 등에서 배우면 좋겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/S3Y46DQLONEZVPHCNGI4PIAQZE.png?width=671&amp;height=513&amp;auth=2cd24d34ecf2e058a2f13bab5e9ddf95bb7c2603e5d6e052cdc6cc871cd784a4&amp;smart=true" type="image/png" height="513" width="671">
+        <media:description type="plain">부산 기장소방서 현장대응단 소속 이영철 주임이 지난 16일 금정구 개좌고개 길가 수풀에 쓰러져 있는 남성을 상대로 심폐소생술을 하고 있는 모습. /부산광역시 소방재난본부</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>이철우 경북지사 “대구경북 통합 명칭에 ‘경북’ 반드시 들어가야”</title>
+      <link>https://www.chosun.com/national/regional/2024/05/26/VHFOZZ3ACNETZJYJS6RQPREK6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/05/26/VHFOZZ3ACNETZJYJS6RQPREK6E/</guid>
+      <dc:creator>안동=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 May 2024 06:24:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4K6XKHOBJVF77NV6ZKW4VMIMKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이철우 경북도지사는 페이스북에서 대구경북 통합 명칭에 '경북'이 반드시 들어가야 한다는 입장을 밝혔다. /페이스북 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이철우 경북도지사가 대구시와 경북도가 추진하고 있는 행정통합 명칭과 관련해 ‘경북’이 반드시 포함되어야 한다는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;이 도지사는 26일 자신의 페이스북에 올린 글에서 “경북이 큰집이었는데 (대구경북 통합 시도 명칭에서) 경북이 사라지면 안 된다”며 “지난번 통합 논의 시 ‘대구경북 특별광역시’로 공론화 된 바 있어 대구경북을 함께 사용하는 방향으로 공감대가 형성될 가능성이 크다”고 말했다. &lt;br&gt;&lt;br&gt;이에 앞서 홍준표 대구시장은 대구경북 통합 화두를 던지면서 “3단계인 행정단계를 2단계로 줄이면서 서울시와 같이 총리실 지휘체계로 바꾼 ‘대구직할시’로 하자. 대구라는 지명은 고려 초기부터, 경상남북도란 지명은 조선 고종 때부터 존재한 만큼 경북이란 지명에 집착할 필요도 없다”고 밝힌바 있다. &lt;br&gt;&lt;br&gt;이에 경북 북부 지역 등에서 대구 중심의 일방적 통합을 우려하는 목소리가 나오자 이 지사가 의견을 밝힌 것으로 보인다.&lt;br&gt;&lt;br&gt;이 지사는 “분명히 말씀드리면 통합명칭, 청사 위치 등은 매우 민감한 문제이기 때문에 시도민의 공감대가 형성될 때까지 충분한 논의 절차를 거쳐야 하고, 청사 위치도 현 위치를 그대로 사용하는 것이 시·도민 공감대 형성에 유리하다”고 밝혔다. 또 “홍준표 대구시장도 경북 반발을 우려해 ‘대구직할시’나 ‘대구광역시’ (명칭을) 고집하지 않고 통합에 최선을 다하겠다는 입장 표명”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;이 지사는 “(현재 구상하는 방안으로 통합될 경우)중앙정부 권한을 대폭 이양 받아 업무 영역 확대로 공무원 수가 줄지 않아 사무실 공간도 지금보다 더 필요할 것으로 예상한다”면서 “이번 시도 통합을 계기로 완전한 자치를 이뤄 한나라처럼 운영, 대한민국을 초일류 국가로 가는 선도적 역할이 되도록 합심, 노력을 다짐하자”고 했다.&lt;br&gt;&lt;br&gt;한편 대구경북 행정통합을 위한 4자 회담은 다음달 4일 오후 3시 정부서울청사에서 열린다. 이 자리에는 이상민 행정안전부 장관, 우동기 지방시대위원회 위원장, 홍준표 대구시장, 이철우 경북도지사가 참석해 대구와 경북 통합 필요성과 추진 방향, 정부 차원의 지원 방안 등을 논의할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>시장서 일하던 농산물 하역원 코로나로 사망…법원 “업무상 재해 아냐”</title>
+      <link>https://www.chosun.com/national/court_law/2024/05/26/FEJARPEMCBCC7KKRKA565ZQ4EQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/26/FEJARPEMCBCC7KKRKA565ZQ4EQ/</guid>
+      <dc:creator>허욱 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 May 2024 06:08:42 +0000</pubDate>
+      <content:encoded>시장에서 농산물 하역원으로 근무하다 코로나에 걸려 숨진 60대 남성에 대해 법원이 업무상 재해를 인정할 수 없다고 판결했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QFXXOKQCFZMHUCYBJ36KDB5CAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 양재동에 위치한 서울행정법원. (자료사진)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정3부(재판장 최수진)는 지난달 5일 숨진 남성의 사실혼 배우자 A씨가 “유족급여와 장의비 지급 거부 처분이 부당해 취소해달라”며 근로복지공단을 상대로 낸 소송에서 원고 패소 판결했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;A씨와 사실혼 관계였던 B씨는 한 도매시장 농산물 하역원으로 근무하던 2021년 12월 18일 코로나에 확진돼 치료를 받다가 한달 여뒤에 숨졌다. 사망진단서에는 직접 사인이 ‘호흡부전’으로, 호흡부전 원인은 ‘코로나19 바이러스에 의한 폐렴’으로 기재됐다.&lt;br&gt;&lt;br&gt;A씨는 “B씨의 사망은 업무상 재해로 인한 것”이라며 근로복지공단에 유족급여 및 장의비 지급을 청구했지만 거절당하자 소송을 제기했다. A씨는 “B씨가 근무한 사업장이 유통업자, 상인, 소비자 등 불특정 다수가 오가는 곳이라 코로나 감염에 취약하다”고 주장했다. 또 “B씨는 근무 시간 외엔 대부분 자택에 머물렀고, 사적 관계를 맺은 사람 중 코로나 감염자가 없었으며 대중교통도 이용하지 않았다”는 근거를 들었다. 일상 생활에서나 지역 사회에서의 감염 가능성이 희박하기 때문에 시장에서 업무 중 코로나에 감염됐다고 봐야 한다는 것이었다.&lt;br&gt;&lt;br&gt;재판부는 A씨의 주장을 받아들이지 않았다. 재판부는 “코로나 바이러스는 감염 경로가 매우 다양하고 눈에 보이지 않아 특정 환자 감염경로 및 원인을 단정 짓는 것은 매우 어렵다”며 “B씨 사망 당시 오미크론 변이 확산으로 지역 사회 감염이 보편화 돼 코로나 바이러스에 어디서든 노출될 수 있는 상황이었다”고 판단했다.&lt;br&gt;&lt;br&gt;산재보험법상 업무상 재해가 인정되려면 원고가 업무와 재해 사이에 상당한 인과관계를 여러 정황 증거상으로라도 증명해야 한다. 사망자의 평소 건강 상태, 기존 질병의 유무, 근무 환경 등을 통해 입증이 필요하다는 것이다.&lt;br&gt;&lt;br&gt;재판부는 “B씨 차량의 입·출차 시각 등을 보면 B씨의 활동 내역과 이동 경로가 불분명하고 근무일이었던 2021년 12월 12일, 16일엔 시장에 입·출차 기록이 없어 외부 활동을 하지 않았다고 인정하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 본인과 딸·사위의 코로나 확인 이력이 없었다는 점도 주장했지만 역시 받아들이지 않았다. 재판부는 “질병관리청 사실조회 회신 내용에 따르면 코로나 바이러스 잠복기가 1~14일인 점을 고려하면 B씨의 활동 내역과 이동 경로가 불분명한 상황에서 B씨 가족의 확진 신고 이력이 없다는 것만으로 다른 곳에서 감염이 의심되는 접촉이 없었다고 볼 수는 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강형욱 “아내는 통일교 2세…탈퇴해 父도 안 만난다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/26/POYP6Z6SQVAKFD3AFZTKVK4JOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/26/POYP6Z6SQVAKFD3AFZTKVK4JOU/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 May 2024 05:38:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2X7WPGXDAIT2LC7NFDGH3DEKG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;동물훈련사 강형욱씨(오른쪽)와 그의 아내 수잔 엘더. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동물훈련사 강형욱씨가 직원들에게 ‘갑질’을 했다는 의혹을 해명하며, 아내 수잔 예희 엘더의 종교 문제에 대해서도 입을 열었다.&lt;br&gt;&lt;br&gt;강씨는 25일 공개된 디스패치와 인터뷰에서 “아내가 통일교 2세였다”고 밝혔다. 갑질 논란이 불거진 뒤, 온라인상에서 “강씨가 통일교이기 때문에 진돗개를 차별한다”는 주장이 확산하자 적극적으로 해명에 나선 것이다.&lt;br&gt;&lt;br&gt;그는 “수잔은 스스로 (통일교에서) 빠져나왔다”며 “자신의 의지와 상관 없이 부모님 때문에 그 종교인이 됐다”고 했다. 그러면서 아내가 20살 때 통일교를 탈퇴했다고 전했다.&lt;br&gt;&lt;br&gt;강씨는 이 논란에 대해 “당당하게 말하자”며 아내를 설득했고, 아내 또한 “솔직하게 말하라”며 고개를 끄덕여줬다고 한다. 강씨는 “아내는 통일교를 빠져나온 뒤, 장인을 거의 보지 않는다”며 “(장인은) 우리 결혼식에도 안 왔다”고 했다.&lt;br&gt;&lt;br&gt;이어 “(아내는) ‘나 같은 통일교 2세들을 돕고 싶다’는 꿈을 갖고 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;한편 강씨를 둘러싼 논란은 최근 채용·구직 플랫폼 잡플래닛에 게재된 퇴사자들의 글이 알려지면서 불거졌다. 해당 페이지에는 “직장 내 괴롭힘이 있었다”는 취지의 글이 다수 올라왔다. 이후 퇴사자라고 주장하는 이들의 폭로가 이어지며 논란이 더욱 확산했다.&lt;br&gt;&lt;br&gt;강씨는 24일 자신의 유튜브에 영상을 올리고 ‘CCTV로 직원들 감시’ ‘배변 봉투에 햄 통조림을 넣은 명절선물’ ‘동물학대’ 등 여러 논란에 대해 해명했다. 그는 “제가 열심히 일하고 정말 멋진 직원분들과 훌륭한 훈련사님들이 계셨던 제가 일했던 곳을 이렇게 억측하고 비방하시는 분들에게 그만 멈춰달라고 부탁드리고 싶다”며 “그들을 지키기 위해서 필요하다면 법적 조치도 할 계획”이라고 법적대응을 시사하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/2X7WPGXDAIT2LC7NFDGH3DEKG4.jpg?width=889&amp;height=540&amp;auth=7fc882b017c678599da74f1bbeee580a29cc6ce1640cd13248fb28e9e77df442&amp;smart=true" type="image/jpeg" height="540" width="889">
+        <media:description type="plain">사진=강형욱 유튜브 채널 '강형욱의 보듬TV' 캡처</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>경찰, 국고보조금 부정수급 특별단속…신고보상금 '최대 1억원'</title>
+      <link>https://www.chosun.com/national/2024/05/26/7YSEZH5K2VBABCZYSFCSMBOD24/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/05/26/7YSEZH5K2VBABCZYSFCSMBOD24/</guid>
+      <dc:creator>주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 May 2024 05:55:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LWOBISHOSEZMJAEV7LLRZS5YUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 미근동 경찰청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 국가수사본부는 이달 27일부터 7월 15일까지 50일간 국고보조금 부정수급을 특별단속한다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;중점 단속 대상은 ▲보조금 허위 신청 등을 통한 편취 및 횡령 ▲보조금 지원 사업 관련 특혜 제공 ▲보조금 담당 공무원 유착 비리 ▲보조금 용도 외 사용 등 기타 보조금 운영 비리다. 경찰은 지난해 특별단속에선 국고보조금 부정수급 사례 749건을 단속했다.&lt;br&gt;&lt;br&gt;경찰청은 신고·제보를 활성화하기 위해 최대 1억원의 신고보상금을 지급할 계획이다.&lt;br&gt;&lt;br&gt;경찰청 관계자는 “공적 자금의 투명한 집행과 국가경제 보호를 위해 국고보조금 부정수급을 철저히 단속하겠다”며 “국민 여러분의 적극적인 신고·제보를 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/Z4N2MWK6WHCBNFGYI5TNTUVAEI.jpg?width=4960&amp;height=3184&amp;auth=3727994851d9d634557bbe012676a837bbfaa0dac871e7b72777f86f0899f1e1&amp;smart=true" type="image/jpeg" height="3184" width="4960">
+        <media:description type="plain">9일 서울 서대문구 미근동 경찰청 국기대에 걸린 경찰청 깃발이 바람에 휘날리고 있다.2023.2.9/뉴스1 ⓒ News1 박정호 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 박정호 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>기초수급자 국선변호인 선임 청구 2심서 기각…대법 “다시 재판해야”</title>
+      <link>https://www.chosun.com/national/court_law/2024/05/26/Z6YCOGJTURCPFHOVEABXX7FQNU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/26/Z6YCOGJTURCPFHOVEABXX7FQNU/</guid>
+      <dc:creator>허욱 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 May 2024 05:32:22 +0000</pubDate>
+      <content:encoded>기초생활수급자의 국선변호인 청구를 합당한 이유 없이 기각하고 선고가 이뤄졌다면 국선변호인을 선임해 다시 재판해야 한다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MP2HBDP4CNB73ODWUW6X6LNYJI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원 청사./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 3부(주심 오석준 대법관)는 지난달 25일 국민기초생활보장법 위반 혐의로 기소된 A씨에 대한 2심 판결을 깨고 사건을 광주지법으로 돌려보냈다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2022년 6월 재산이 없는 것처럼 꾸며 생계급여와 주거급여를 수천만원을 타내 국민기초생활보장법을 위반한 혐의로 기소됐다. 1·2심은 모두 A씨에게 벌금 500만원을 선고했다.&lt;br&gt;&lt;br&gt;그런데 A씨는 2심이 진행되던 2022년 11월 자신이 국민기초생활보장법에 따른 수급권자라는 이유로 국선변호인 선정을 청구했지만 기각됐다. 그는 1심 재판 때도 국선변호인의 조력을 받았지만, 2심에선 결국 변호인 도움 없이 혼자 재판을 받았다.&lt;br&gt;&lt;br&gt;대법원에서는 A씨에 대한 국선변호인 선정을 기각한 2심 법원 판단이 쟁점이 됐다. 형사소송법엔 “법원은 피고인이 빈곤이나 그 밖의 사유로 변호인을 선임할 수 없는 경우에 피고인이 청구하면 변호인을 선정해야 한다”고 정하고 있다. 이 규정이 과연 제대로 지켜졌는지 판단한 것이다.&lt;br&gt;&lt;br&gt;대법원은 심리 결과 원심 판단은 형사소송법에 어긋나 국선변호인을 선임해 다시 재판해야 한다고 판단했다. 대법원은 “1심에선 A씨가 수급자에 해당한다고 소명해 국선변호인이 선정됐는데, 2심에서는 사정변경 없이 A씨의 국선변호인 청구를 기각했다”며 “원심은 특별한 사정이 없으면 국선변호인 선정 결정을 해 선정된 변호인 하에 공판심리를 진행했어야 한다”고 했다. A씨가 1심 법원에 냈던 증명서 등을 통해 A씨가 빈곤 탓에 변호인을 선임할 수 없었던 것이 맞는다고 판단한 것이다.&lt;br&gt;&lt;br&gt;대법원은 “원심에서 변호인 청구를 기각한 것은 국선변호인 선정에 관한 형사소송법 규정을 위반한 것”이라며 “A씨가 국선변호인을 선임해 효과적인 방어권을 행사하지 못하도록 한 결과르 가져오게 해 판결에 영향을 미친 잘못이 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울대 음란물 사건 영향…경찰 성인 대상 '위장수사' 확대 추진</title>
+      <link>https://www.chosun.com/national/2024/05/26/6ND4IUFFE5AO7FRBA46J7KQKRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/05/26/6ND4IUFFE5AO7FRBA46J7KQKRY/</guid>
+      <dc:creator>주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 May 2024 05:14:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2KNVDF4UVZWPLJGZXTBSEQKDWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 관악구 서울대학교 정문의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 서울대 음란물 제작·유포 사건을 계기로 디지털성범죄 ‘위장수사’ 범위를 성인 대상 범죄로까지 확대하는 방안을 추진한다. 기존에 미성년자 범죄에만 한정됐던 위장 수사 범위를 대폭 늘리겠다는 것이다. 일각에선 위장 수사로 인한 기본권 침해 우려가 나온다.&lt;br&gt;&lt;br&gt;경찰청은 최근 디지털성범죄 현황과 함께 위장수사 확대 등의 내용을 담은 대책 검토 방향을 국회에 보고했다. 디지털성범죄 위장수사는 박사방·N번방 등의 사건을 계기로 논의가 시작돼 2021년 9월 개정 아동·청소년의 성보호에 관한 법률(아동청소년성보호법) 시행에 따라 정식 도입됐다. 현재 미성년자 대상 디지털성범죄에 대해선 경찰이 위장수사를 할 수 있지만, 성인 성 착취물 등에 대해선 법적 근거가 없어 위장수사가 사실상 불가능했다. 최근 논란이 된 서울대 음란물 제작·유포 사건 피의자인 서울대 졸업생 박모(40)씨의 신상을 특정하고 검거할 수 있었던 데는 2년여간 공범을 자처하며 텔레그램으로 접촉을 시도한 민간 활동가의 역할이 컸던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 “성인이 피해자라는 이유로 수사기관이 위장수사를 하지 못하면서 민간에 의존하는 상황이 발생했다”며 위장수사 범위 확대를 주장하고 있다. 위장수사 범위를 확대하려면 성폭력범죄의 처벌 등에 관한 특례법 개정이 필요해 국회 문턱을 넘어야만 한다. 경찰은 그간 위장수사 제도의 효과를 근거로 위장수사 범위 확대가 필요하다는 입장이다. 경찰청 통계에 따르면 개정 아동청소년성보호법이 시행된 2021년 9월부터 작년 말까지 위장수사를 통해 검거한 인원은 1028명(구속 72명)이다. 경찰청이 2022년 3∼10월 시행한 사이버성폭력 사범 집중단속 결과를 보면 범행 대상이 된 피해자 총 678명 중 성인은 420명(61.9%)이다.&lt;br&gt;&lt;br&gt;다만 위장수사 남용 시 무고한 피해자가 나올 수 있고 과도한 기본권 침해가 발생할 수 있다는 우려의 목소리도 나온다. 경찰청 관계자는 “위장수사 허용 요건을 엄격히 제한하는 등의 대책도 함께 검토할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/FKOGEPB3W2XCGSZ2LKYUP3PJ4Y.jpg?width=1736&amp;height=964&amp;auth=e8306ee043aebbc3681e112de6a8d45c996f9fa2173f14371725a0640e0e6814&amp;smart=true" type="image/jpeg" height="964" width="1736">
+        <media:description type="plain">서울 관악구 서울대학교 정문의 모습. 2024.5.21/뉴스1 ⓒ News1 김진환 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 김진환 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>[단독] ‘미성년자 성착취’ 유명 쇼핑몰 사장, 데이트폭행 수사받는다</title>
       <link>https://www.chosun.com/national/national_general/2024/05/26/S4IRB5VRMRFW5FA2FPTDPEGYPU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/26/S4IRB5VRMRFW5FA2FPTDPEGYPU/</guid>
@@ -843,60 +929,6 @@
       <content:encoded>검찰의 중간간부인 고검검사(차장·부장검사)급 인사를 논의하기 위한 법무부 검찰인사위원회가 24일 열렸다. 인사 결과는 5월 말경 발표될 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7PPIC2D6GCFZYAIHAUPKUZGEE4.jpg"&gt;&lt;figcaption&gt;법무부./뉴스1&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 이날 오후 4시 정부과천청사에서 검찰인사위원회를 열고 고검검사(차장·부장검사)급 승진·전보 인사 안건을 논의했다. 인사위는 1시간가량 이어진 회의를 마친 뒤 “5월 말경 인사 결과를 발표하고, 6월 초 부임할 예정”이라고 했다. 인사위원장인 권익환(사법연수원 22기) 김앤장 법률사무소 변호사는 이날 인사위에 참석하며 “위원님들과 잘 살펴보도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;인사위에서 결정된 인사 방침은 크게 두 가지다. 우선 대검검사(고검장‧검사장)급 인사로 인한 공석을 충원하는 것이다. 지난 13일 대검검사급 39명에 대한 인사가 실시됐고, 이에 따라 서울중앙지검 1‧2‧3‧4차장 등 주요 보직이 비어있는 상황이다. 김건희 여사의 ‘디올 백 수수’ 의혹, ‘대장동 개발 비리’ 사건 등 주요 사건 수사를 책임지는 자리인 만큼 이 공석들을 채우겠다는 것이다. 다만 인사위는 조직 안정‧업무 연속성 등을 고려해 사법연수원 34기 검사들의 차장검사 승진을 가급적 최소화할 방침이라고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q3NW763LRBKL7IYS7G4JZ3V65U.jpg"&gt;&lt;figcaption&gt;검찰인사위원장인 권익환 변호사가 24일 경기 과천시 정부과천청사 법무부에서 열린 검찰인사위원회에 참석하고 있다./뉴시스&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 인사위는 수사 실무를 맡는 평검사 인력이 부족한 상황 등을 고려해 사법연수원 38기의 부장검사 보임과 39기의 부부장검사 보임은 유보하기로 했다. 현재 38기 검사는 부부장검사이고, 39기는 평검사다. 이들이 각각 부장‧부부장으로 승진할 경우 각 사건 수사를 맡아 하는 평검사 인력이 부족하다는 것이다.&lt;br&gt;&lt;br&gt;인사위는 위원회에서 결정된 사항을 바탕으로 인사계획을 수립한 뒤 대통령의 결재를 거쳐 발표하게 된다. 위원회가 정한 인사 결과 발표 시점은 이달 말로, 27일 또는 29일이 유력하게 거론된다. 이 시기 중 인사 결과가 발표될 경우, 보임 시점은 6월 3일이 유력한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[단독] 이재명 얼굴, 이순신에 합성한 野지지자… 저작권법 위반으로 송치</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/24/LWTRL2RZBVEK3IWUDN4IKT2RJQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/24/LWTRL2RZBVEK3IWUDN4IKT2RJQ/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 07:16:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WDGZ7FZE5ZA6ZORLO7IXCBQIC4.jpg"&gt;&lt;figcaption&gt;이순신 장군 삽화에 이재명 대표 얼굴을 합성한 그림 /페이스북 캡쳐&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;저작권이 있는 이순신 장군 만화에 더불어민주당 이재명 대표와 정청래 최고위원 얼굴을 무단으로 합성한 민주당 지지자가 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;서울 중랑경찰서는 저작권 위반 혐의를 받는 40대 남성 A씨를 지난 14일 서울북부지검에 불구속 송치했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이순신 장군의 일대기를 다룬 만화 ‘이순신 세가’ 1권에 등장하는 이순신 및 김억추 장군 이미지를 무단 복제한 뒤 포토샵 필터 효과를 이용해 각각 이재명 대표와 정청래 최고위원 얼굴을 합성해 자신의 페이스북에 무단 업로드한 혐의를 받는다.&lt;br&gt;&lt;br&gt;해당 만화 원작자인 이진성(49)씨는 A씨로 인해 “제 그림이 제 뜻과는 전혀 상관없이 철저히 정치적인 의도로 사용됐다”며 지난해 8월 1일 민주당 지지자 A씨를 저작권법 위반 혐의로 경찰에 고소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4XTSCXPK5FGVKC22ZGP3NY7OM.jpg"&gt;&lt;figcaption&gt;2022년 11월 23일 정청래 최고위원이 페이스북에 올린 게시글. 정 최고위원은 “나는 #이재명 대표와 #정치공동체다”라는 메시지를 게시하고 지지자들에게 “(해시태그) 릴레이에 동참해달라”고 호소했다. /페이스북 캡쳐&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만화가 이씨는 고소장 제출 당시 정청래 민주당 최고위원의 사과 또한 요구했었다.&lt;br&gt;&lt;br&gt;A씨는 자신이 무단으로 합성한 그림을 정 최고위원에게 전달했다. 이에 정 최고위원은 지난 2022년 11월 자신의 페이스북에 해당 그림과 함께 “나는 #이재명 대표와 #정치공동체다”라는 게시글을 올리며 지지자들에게 “(해시태그) 릴레이에 동참해달라”고 호소했다. 이 과정에서 “3대 포털(네이버, 다음, 구글) 사이트는 물론이고 페이스북과 인스타그램, 트위터 등 온갖 SNS에 자신의 그림이 무단으로 도용돼 저작권이 심각하게 침해당했다”는 것이 이씨의 주장이다.&lt;br&gt;&lt;br&gt;만화가 이씨는 “정 최고위원 측에 항의했으나 ‘A씨가 제공한 그림을 그대로 사용했을 뿐, 해당 그림이 만화가 이진성씨의 작품인지 몰랐다’는 입장을 밝히며 (정 최고위원 측이) 사과를 거부했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강형욱, 메신저 감시 인정…CCTV 의혹·화장실 통제엔 “비방·억측”</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/24/XSGF727MYNDHNLXT5MUTCEN3AQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/24/XSGF727MYNDHNLXT5MUTCEN3AQ/</guid>
-      <dc:creator>박혜연 기자, 이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 09:21:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HOHV7ZD5TXT64NQC2CCTJS2RYM.jpg"&gt;&lt;figcaption&gt;24일 오후 훈련사 강형욱씨의 유튜브 '강형욱의 보듬TV'에 업로드 된 영상 일부분./유튜브 &lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘개통령’으로 알려진 반려견 훈련사 강형욱(39)씨가 24일 최근 불거진 ‘갑질’ 논란에 대해 7일 만에 입장을 발표했다. 직원에 대한 CCTV 감시, 화장실 통제, 폭언 등 의혹에 대해선 부인했지만, 사내 메신저 열람은 인정했다. 배변 봉투에 담은 스팸 명절 선물, 반려견 레오 방치 의혹에 대해서도 적극 해명하는 모습이었다.&lt;br&gt;&lt;br&gt;강씨는 이날 오후 유튜브 채널 ‘강형욱의 보듬TV’에 자신의 입장을 담은 약 1시간 분량의 영상을 업로드했다. 영상에서 강 대표는 아내 수잔 엘더와 함께 두 사람을 둘러싼 논란과 의혹에 대해 하나하나 설명했다.&lt;br&gt;&lt;br&gt;강씨는 “사실 여부를 따지기 앞서서 이런 소식으로 좀 시끄럽게 만들고 좋지 못한 소식을 전해드려 정말 죄송하다”고 사과했다. 이어 “제가 대표로서 부족해서 생긴 이 문제에 대해서는 제가 최선을 다해서 해명하고 부족한 부분이 있었다. 진심으로 사죄드리고 싶다. 훈련사로서는 어떨지 모르겠지만 저는 그렇게 좋은 대표가 아니었던 것 같다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇CCTV 설치 “직원 감시 용도 아냐”... 직원 메신저 열람은 인정&lt;/b&gt;&lt;br&gt;&lt;br&gt;강씨는 CCTV 직원 감시 논란에 대해 “감시의 용도가 아니다. 우리는 사람들이 있는 곳이고 용품을 갖고 있는 곳이기 때문에 언제든 누구든 들어와서 있을 수 있고 저희 개들도, 훈련사님들의 개도 와있던 곳이기 때문에 CCTV는 꼭 있어야 했다”고 했다. 특히 탈의실 CCTV 의혹에 대해선 “해당 사무실에는 탈의 공간이 없고 회의실이다. 딱 봐도 탈의실의 모습이 아니라 다같이 회의하고 분식 먹는 장소”라고 했다.&lt;br&gt;&lt;br&gt;배변 봉투에 넣은 스팸 명절선물 논란은 “발주가 실수가 돼서 대형마트에서 판매하는 묶음상품이 온 것”이라며 “반품이 어려워서 직원들이 나눠 가져간 것”이라고 했다. “제가 줄을 세워서 배변봉투에 햄을 넣어드린 게 아니라 ‘여러분이 나눠 가지세요’라고 했다. 어떤 봉투를 써서 나눠 가졌는지는 모르겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;화장실 고장으로 인한 통제 논란에 대해서는 “(화장실이 고장 나) 옆에 있는 회사나 자주 가던 식당에 부탁했다”라면서도 “왜 화장실을 통제하겠나. 말도 안 된다”고 했다. 폭언 등 직장 내 인격모독 논란과 직원에게 목줄을 던졌다는 주장에 대해서도 부인했다.&lt;br&gt;&lt;br&gt;그러나 메신저 감시 의혹에 대해서는 인정했다. 아내 수잔은 “업무용 메신저가 유료로 전환되며 감사 기능이 생겼고, 직원들 대화에서 아들 이름이 눈에 띄었다”라며 “‘슈돌’ 출연에 대한 비아냥 등을 보고 눈이 뒤집혔다. ‘아들 앞세워서 돈 번다’고 하더라”고 했다. 또 “특정 커뮤니티에서 사용하는 혐오 단어도 나왔다. 대표를 조롱하는 건 당연했다”며 “개인간 대화를 훔쳐본 건 잘못이지만 ‘이건 짚고 넘어가야겠다’고 생각해서 전체 공지를 올렸다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WXVHPZZCQNFQ3NDQXLF63M2PK4.png"&gt;&lt;figcaption&gt;강형욱 임금체불 의혹 관련 해명. /유튜브 영상&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇9670원 입금 논란 “연락 안 돼서 액션 취한 것”&lt;/b&gt;&lt;br&gt;&lt;br&gt;‘9670원 입금’ 등 임금 체불 의혹과 관련해선 아내 수잔이 설명했다. 그는 “약간의 기본급에 매출의 일정 퍼센티지를 인센티브로 받는 사업자 계약을 한 분이었다”며 “(2016년) 9월 중간쯤 나가기로 결정했고, 정산하는 날이 10월 10일이었다. 그런데 전화를 받지 않으셨다”고 떠올렸다.&lt;br&gt;&lt;br&gt;이 과정에서 ‘9670원 입금’ 사건이 있었다고 한다. 수잔은 “그분에게 연락이 안 와서 1만원에서 3.3% 세금을 제하면 9670원이라는 금액을 나름대로 액션을 취해야겠다고 해서 입금했다”며 “그 금액이 그분 마음에 상처를 드렸다는 걸 알게 돼서 죄송하다 말씀드렸는데 그때 서운함이 풀리지 않았던 것 같다”고 했다.&lt;br&gt;&lt;br&gt;이어 “노동청 기록은 찾았는데 제가 직접 노동청에 가거나 노동청 분과 통화한 기억은 없고, 그분과 직접 통화한 기억이 있다”라며 “그분에게 9월분 인센티브와 퇴직금, 연차수당까지 3가지 내역을 나눠서 (2017년 1월에) 이체한 기억이 난다”고 했다.&lt;br&gt;&lt;br&gt;훈련 전 강아지 굶김 논란에 대해선 “반려견을 훈련에 데리고 올 때 미리 굶겨서 데려오라고 말했다. 가장 긍정적으로 교육할 수 있는 건 간식이나 사료를 주는 건데 보호자님들이 개한테 지나친 음식을 줄 때가 많고 아무것도 갖고 싶은 게 없는 강아지로 만드는 경우가 많다. 그런 경우 배우는 욕구가 떨어진다”고 했다.&lt;br&gt;&lt;br&gt;반려견 레오 방치 논란에 대해선 “레오는 마지막에 많이 아팠기 때문에 대소변이 범벅돼있었던 게 맞다. 뒷다리를 아예 쓸 수 없는 상태였다”며 “회사에 데려와서 돌봐주고 물로 닦아주고 시간이 허락할 때마다 만져주고 같이 있어줬다”라고 했다. 또 “수의사님과 몇개월에 걸쳐 안락사 논의를 했다. 제가 정말 안 되겠다 싶어서 날짜를 정해서 수의사에게 부탁했다. 그리고 회사에서 안락사를 시켰다”며 “그때 출근했던 직원분들도 같이 인사했다”고 했다.&lt;br&gt;&lt;br&gt;폐업에 대해선 “교육 서비스를 종료하는 것과 훈련사와 헤어지는 것이 맞물려 간 거다. 훈련사가 그만둬서 이렇게 된 것은 아니다”라고 했다. “폐업이라는 말보다 ‘더 이상 오프라인 교육을 하지 않겠다’는 게 더 맞는 말”이라며 “이미 7개월 전부터 전화를 돌려서 다 알려드렸다”고 했다.&lt;br&gt;&lt;br&gt;강 씨는 비방과 허위 사실에 대해선 법적 대응에 나설 것이라고 밝혔다. 강 씨는 “제가 열심히 일하고 정말 멋진 직원분들과 훌륭한 훈련사님들이 계셨던 제가 일했던 곳을 이렇게 억측하고 비방하시는 분들에게 그만 멈춰달라고 부탁드리고 싶다”며 “그들을 지키기 위해서 필요하다면 법적 조치도 할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;강 씨는 “앞으로 교육센터를 운영하는 훈련사 강형욱은 없어지겠지만, 더 좋은 훈련사가 되려고 노력하는 강형욱이 되도록 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 채용·구직 플랫폼 잡플래닛에 강형욱이 운영하는 ‘보듬컴퍼니’의 리뷰가 평점 5점 만점 중 총 1.8점을 받아 화제가 됐다. 대부분의 게시물 작성자들은 퇴사의 주요 원인으로 강형욱 부부를 지목했다. 이후 강씨가 회사 직원의 사생활을 CCTV로 감시하고 명절 선물을 배변 봉투에 줬다는 등의 갑질 폭로가 이어져 논란이 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>삼성 노조, 민노총 손잡고 연예인 동원 도심 대규모 집회</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/24/TANHUHNFERGYHCUSFCVB3F2EQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/24/TANHUHNFERGYHCUSFCVB3F2EQY/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 09:17:28 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/7XQA6HU7TBPTPCJM6QYEHKHQBQ.jpg?width=2928&amp;height=1710&amp;auth=cf46b6f62933d41103dd14c95e01e80580133a417f5a02fe5b540408342a822a&amp;smart=true" alt="삼성전자 노동조합 조합원들이 24일 오후 서울 서초구 삼성전자 사옥 앞에서 열린 '전국삼성전자노조 문화행사' 뉴진스님 무대를 즐기고 있다. /뉴시스" height="1710" width="2928"/&gt;&lt;p&gt;전국삼성전자노동조합(이하 전삼노)이 연예인을 동원해 민노총과 함께 평일 서울 강남 한복판에서 집회를 열었다. 노조원들은 영업이익을 기준으로 한 성과급 지급과 정현호 삼성전자 부회장과의 대화를 요구했다.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“김호중 보니 옛날 내 생각나” 두둔한 송대관에 네티즌 부글부글 </title>
-      <link>https://www.chosun.com/national/people/2024/05/24/P6ULBX6SGVDNBASEIBPYBAEUK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/05/24/P6ULBX6SGVDNBASEIBPYBAEUK4/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 May 2024 23:56:14 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/AANMKP3SB2HSOV5KBGI4S5TMMY.jpg?width=495&amp;height=267&amp;auth=6194d09270b7a9ffe7fabd632339afef5dc5e7b2c6cef5eb606c7a1c10b77b4b&amp;smart=true" alt="가수 송대관. /조선DB" height="267" width="495"/&gt;&lt;p&gt;아내의 부동산 투자 실패로 시련을 겪었던 가수 송대관 씨가 100억원대 집을 날리고 월셋집으로 이사했던 사연을 털어놨다. 이 과정에서 송대관 씨는 김호중을 언급하며 “고난을 많이 겪던데 옛날 내 생각이 나더라. 세월이 약일 것”이라고 두둔해 논란이 되고 있다.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, ‘서울대 N번방’ 피의자 1명 구속 기소</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/24/APPDRUPQZZF2ZEYLEOT5QG2TNI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/24/APPDRUPQZZF2ZEYLEOT5QG2TNI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 10:47:52 +0000</pubDate>
-      <content:encoded>&lt;p&gt;이른바 ‘서울대 N번방’ 사건을 수사 중인 서울중앙지검 여성아동범죄조사1부(부장 장혜영)는 24일 허위영상물 400여 개를 제작하고, 1700여 개를 반포한 혐의(성폭력처벌법 위반)를 받는 20대 남성을 구속 기소했다.&lt;/p&gt;&lt;img src="https://www.chosun.com/resizer/v2/MNWINPNM2EYGK2IIHSNPLW6DFU.jpg?width=600&amp;height=400&amp;auth=a4bcfc113699e4dad8a8a9aad6242c05c2b46374af336b16a62a2480b5aff429&amp;smart=true" alt="서울중앙지검 전경./조선DB" height="400" width="600"/&gt;</content:encoded>
-    </item>
-    <item>
-      <title>유튜브 후원금 받은 장예찬, 정치자금법 위반 혐의로 송치된다</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/24/AVQWWOWR4BCQXO3Y5J5MG36O54/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/24/AVQWWOWR4BCQXO3Y5J5MG36O54/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 04:28:03 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/3USBZLV4F57CSISZJDIWNHNAAQ.jpg?width=4614&amp;height=3270&amp;auth=4dbce41d187aa332cf6757b34386ae3f03d550f196925ee71f928789bc2b061e&amp;smart=true" alt="국민의힘 부산 수영구 후보로 공천을 받았다가 막말 논란으로 공천이 취소된 장예찬 전 국민의힘 청년최고위원이 지난 3월 부산시의회 브리핑룸에서 기자회견을 열고 무소속 출마를 선언하고 있다./뉴스1" height="3270" width="4614"/&gt;&lt;p&gt;개인 유튜브 방송에서 후원금을 받은 혐의로 경찰 조사를 받던 장예찬 전 국민의힘 최고위원이 검찰에 넘겨진다.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
       <title>소방청 최초 여성 소방감... 이오숙 신임 전북소방본부장</title>
       <link>https://www.chosun.com/national/national_general/2024/05/24/2X3TXTEWSFFONCCSZ6GXL34EUE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/24/2X3TXTEWSFFONCCSZ6GXL34EUE/</guid>
@@ -905,33 +937,6 @@
       <pubDate>Fri, 24 May 2024 09:56:40 +0000</pubDate>
       <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/WZD35NIJRO3HMQJIHNJ2LR5XFE.jpg?width=539&amp;height=384&amp;auth=108c61dd07c7a02ae77a816f8999c0158962ee48af11fb50f7e5f6e3658dcbcc&amp;smart=true" alt="소방청 로고/뉴스1" height="384" width="539"/&gt;&lt;p&gt;소방청에서 여성 소방감이 처음 나왔다.&lt;/p&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/36AOU76UGNE6HFLATZL7S6BRNU.png?width=413&amp;height=531&amp;auth=530437e06a029a4b2cf5983810df9bae433fa561497b69caa5960717e60a8d49&amp;smart=true" type="image/png" height="531" width="413"/>
-    </item>
-    <item>
-      <title>경남 창녕 AI 비상…우포늪 출입 제한</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/24/MORB7NYDMVGVXDLRS3YN66XRSA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/24/MORB7NYDMVGVXDLRS3YN66XRSA/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 10:24:25 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/57EEGAGKWPM3FRVJB3V2HT3DNE.jpg?width=2761&amp;height=1868&amp;auth=d4e9c183c3a8a1cea62052631e84a177a485501470321076b6362af6fe625053&amp;smart=true" alt="23일 조류인플루엔자(AI) 항원이 검출된 창녕군 대합면 한 육용오리 사육농장에 방역팀이 투입되고 있다.(경남도 제공)/뉴스1" height="1868" width="2761"/&gt;&lt;p&gt;경남 창녕 지역에 고병원성 조류 인플루엔자(AI) 비상이 걸렸다.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, ‘유병언 불법감청’ 의혹 공무원 21명 불기소 처분</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/24/TG7XYUPNEBG5HBWMMI4U2DYTOM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/24/TG7XYUPNEBG5HBWMMI4U2DYTOM/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 09:13:49 +0000</pubDate>
-      <content:encoded>&lt;p&gt;검찰이 세월호 참사 수사 당시 ‘유병언 불법 감청 의혹’과 관련해 김기춘 전 대통령 비서실장과 김관진 전 국방부 장관, 현직 검사인 엄희준 대검찰청 반부패기획관 등 피고발인 21명에 대해 24일 불기소 처분을 내렸다.&lt;/p&gt;&lt;img src="https://www.chosun.com/resizer/v2/IPKYKBQRSJK3R434U5SJJVZGTY.jpg?width=596&amp;height=397&amp;auth=5894901e64511d4b1e9e16f3c973371117b2e144f8cfa0144980e1950a9d4dde&amp;smart=true" alt="서울중앙지검 청사 전경./조선 DB" height="397" width="596"/&gt;</content:encoded>
-    </item>
-    <item>
-      <title>중학생 제자 극단 선택 내몬 혐의...도덕 교사 1심서 무죄</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/24/5GGQBTWBBZE2DAEG5DEBS6L2RI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/24/5GGQBTWBBZE2DAEG5DEBS6L2RI/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 08:53:34 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/FGZSR7ALDE2HPI6KNAP4BNWSSM.jpg?width=4687&amp;height=4407&amp;auth=76b276cd3582fc7b3d2c5cd3ed7faeca76ce33976db3572d7c0b0fc871bba669&amp;smart=true" alt="서울 양천구 서울 남부지법의 모습. /뉴스1" height="4407" width="4687"/&gt;&lt;p&gt;친구로부터 학교폭력을 당한 중학생을 꾸짖고 폭언해 극단 선택을 시도하게끔 내몬 혐의를 받는 도덕 교사가 1심에서 무죄를 선고받았다.&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
