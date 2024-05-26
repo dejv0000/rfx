@@ -13,6 +13,79 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] ‘미성년자 성착취’ 유명 쇼핑몰 사장, 데이트폭행 수사받는다</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/26/S4IRB5VRMRFW5FA2FPTDPEGYPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/26/S4IRB5VRMRFW5FA2FPTDPEGYPU/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 May 2024 05:06:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QKVGI7VEYRGQTHXNCB6N6CD5KI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2021년 6월부터 미성년자를 포함해 여성 약 10명을 상대로 200여 차례 성착취 동영상을 불법 촬영하고 이를 유포한 유명 쇼핑몰 사장 출신 박씨가 과거 한 방송에 출연한 장면. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2021년 6월부터 미성년자를 포함한 여성들을 상대로 성 착취 동영상을 제작하고 이를 유포한 유명 쇼핑몰 사장 출신 남성에 대해 경찰이 불법촬영과 폭행 등 혐의로 추가 수사에 착수했다. &lt;br&gt;&lt;br&gt;서울 강남경찰서는 여성들에 대한 성 착취 동영상을 제작해 이를 200여 차례 온라인에 유포한 혐의로 현재 수감 중인 유명 쇼핑몰 사장 출신 박모(36)씨에 대해 지난 2일 불법 촬영물 유포·폭행·사기 등 피해를 당했다는 내용의 고소장을 접수했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;고소장을 제출한 피해 여성 A(29)씨에 따르면 박씨는 2020년 7월~2021년 9월 교제 중이던 당시 A씨를 옥장에 가둬놓고 폭행하거나, 칼로 위협하며 성적 행위를 요구했다. 또 A씨의 수입이 적다는 이유로 A씨의 얼굴 부위를 폭행하기도 했다. 또 A씨는 “타인이 성관계하는 모습을 볼 수 있는 ‘관전클럽'에 데려간 뒤 다른 남성으로부터 성폭행을 당하도록 지시했다”고 했다. A씨는 인터넷에서 자신도 모르는 사이에 유포된 수십여 개의 불법 촬영물을 확인하기도 했다.&lt;br&gt;&lt;br&gt;앞서 박씨는 피해자들의 신고를 받고 2021년 9월 체포됐다. 이후 재판에 넘겨진 박씨는 아동청소년법·성폭력처벌특례법 위반, 미성년자의제강간 등 혐의로 1심에서 징역 5년을 선고받았다. 이후 작년 1월 항소심에서 징역 4년으로 감형돼 현재 수감 중이다. &lt;br&gt;&lt;br&gt;A씨는 본지 인터뷰에서 “박씨와 교제하던 시기 우울증과 공항장애를 앓을 정도로 정신이 안정되지 않은 상태였다”며 “가스라이팅을 당해 박씨가 수감된 이후 작년 3월까지도 옥바라지를 했다”고 했다. 이어 “수감 중이던 박씨에게 빌려간 5000여만원을 갚으라는 민사소송을 냈는데, 박씨의 모친이 일부를 상환했을 뿐 상환에 적극적이지 않았다”고 했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “불법 촬영 유포와 폭행 혐의에 대해 수사를 거쳐 각각 서울청 사이버수사대와 서울 수서경찰서로 이첩했다”며 “사기 혐의에 대해선 고소인 조사부터 진행할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘측근 채용 강요·직원 욕설’ 전 마사회장, 법원 “해임 정당” </title>
+      <link>https://www.chosun.com/national/court_law/2024/05/26/TNYL6Y73ZJBC7IBKJWDRVY7K7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/26/TNYL6Y73ZJBC7IBKJWDRVY7K7M/</guid>
+      <dc:creator>허욱 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 May 2024 04:58:22 +0000</pubDate>
+      <content:encoded>자신의 측근을 채용하도록 강요하고 직원에게 폭언을 한 김우남 전 마사회장의 해임이 정당하다는 법원 판결이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ZA4GH2ZJPYKQFYLG4K6O5R3HE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 양재동 서울행정법원 자료사진.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정2부(재판장 고은설)는 지난 16일 “해임 처분은 부당하다”며 김 전 회장이 제기한 소송에서 원고 패소 판결했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 “김 전 회장은 자신의 측근을 특별채용하겠다는 의도로 채용 비위 행위를 해 윤리경영을 저해했다”며 “업무 수행 과정에서 자신의 뜻에 맞지 않는 직원들에게 폭언·폭설을 해 공무원으로서의 품위를 손상했다”고 판단했다. 또한 “그로 인해 마사회 노동조합이 김 전 회장의 비위행위를 고발하는 성명서를 발표하고, 언론사에서 관련 내용이 보도돼 마사회와 공직사회 전반에 대한 국민의 신뢰를 크게 실추시켰다”고 했다.&lt;br&gt;&lt;br&gt;김 전 회장은 취임 후인 2021년 2월 지인을 비서실장으로 특별 채용하라는 지시를 하고, 이를 만류하는 마사회 직원에게 욕설과 막말을 해 논란이 됐다. 해당 발언 녹취록이 마사회 노동조합과 언론 등을 통해 알려지자 김 전 회장은 그해 4월 청와대 감찰을 받은데 이어 6월에 강요 미수와 업무방해 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;농림축산식품부도 김 전 회장의 측근 채용 지시와 폭언 의혹 등에 대한 감사를 진행해 정부에 해임을 건의했다. 대통령의 재가로 그는 해임이 결정됐다.&lt;br&gt;&lt;br&gt;김 전 회장은 강요미수, 모욕, 근로기준법 위반 등 혐의로 기소돼 형사 재판도 받는 중이다. 1심에서 벌금 300만원을 선고받고 항소해 2심이 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제모용 왁스로 위장...19만명분 코카인 운반한 50대 ‘지게꾼’ 기소</title>
+      <link>https://www.chosun.com/national/incident/2024/05/26/4T24LF55GRHCXJ5JTSKUVTNDPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/05/26/4T24LF55GRHCXJ5JTSKUVTNDPQ/</guid>
+      <dc:creator>인천=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 May 2024 04:29:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UTAQBVGUHRB4FG3TC7FU7W64NI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제모용 왁스로 위장한 코카인. /인천지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마약을 제모용 왁스로 둔갑시켜 남미에서 동남아로 운반하는 역할을 맡은 50대 한국인이 국제 공조수사로 검찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;인천지검 강력범죄수사부(부장 이영창)는 특정범죄가중처벌법(마약) 위반 혐의로 A씨를 구속 기소했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 6일 블록 모양의 제모용 왁스 101개로 위장한 코카인 5.7㎏(시가 28억원 상당)이 담긴 여행용 캐리어를 갖고 인천공항으로 입국한 혐의를 받는다. 적발된 코카인은 19만명이 동시 투약이 가능한 양이다.&lt;br&gt;&lt;br&gt;A씨는 지난 4일 브라질 상파울루에서 성명불상자로부터 코카인이 담긴 여행용 가방을 받은 뒤 아랍에미리트(UAE) 두바이를 거쳐 인천공항에 도착했다.&lt;br&gt;&lt;br&gt;미국 마약단속국(DEA)은 A씨가 브라질 상파울루에서 출발해 두바이를 거쳐 인천공항으로 이동한다는 범죄 첩보를 국내 관계기관들과 공유했다. 우리 세관 당국은 인천공항에서 캄보디아행 항공편으로 환승하려던 A씨를 검거하고 코카인을 전부 압수했다. 제모용 왁스 형태로 특수 제작된 코카인은 육안상으로는 식별이 어렵고 마약류 성분 감정에서 코카인 양성 판정이 나왔다&lt;br&gt;&lt;br&gt;A씨는 “캐리어에 코카인이 들어있는지 몰랐다”며 혐의를 부인하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “국제 마약 범죄조직이 한국·일본·미국 국적의 중년을 속칭 ‘지게꾼’으로 고용해 마약류를 운반하는 수법이 다수 확인되고 있다”며 “국내외 공조를 강화해 마약류 밀수·유통을 차단하는 데 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>하이패스 안 달아도 고속도 통행료 ‘무정차 납부’ 가능해진다</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/05/26/3B4MQSNWRNGQRFFNF5BBHX4EDQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/05/26/3B4MQSNWRNGQRFFNF5BBHX4EDQ/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>국토교통부와 한국도로공사가 하이패스 없이도 고속도로 통행료 납부가 가능한 ‘번호판 인식방식 스마트톨링 시범사업’을 추진한다고 26일 밝혔다.</description>
+      <pubDate>Sun, 26 May 2024 04:52:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LJLL3XXQKYTKLO2LG3SEQMH2ZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 성남 판교 톨게이트에서 자동차가 하이패스 전용
+진입로로 들어가고 있다. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국토교통부와 한국도로공사가 하이패스 없이도 고속도로 통행료 납부가 가능한 ‘번호판 인식방식 스마트톨링 시범사업’을 추진한다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;현재 고속도로 통행료를 내기 위해선 하이패스 장치를 탑재하거나 현장 수납을 해야 한다. 현장 수납의 경우 일부 차선에서만 가능하다. 빠른 속도로 달리던 차량이 급격하게 차선을 변경해야 해 교통 정체 뿐 아니라 사고 위험이 크다는 지적이 많았다. 하이패스 장비 없이 하이패스 차선을 통과할 경우 미납 고지서를 수취해 납부해야 하는 불편함이 있었다.&lt;br&gt;&lt;br&gt;그러나 오는 28일부터 1년 간 시범 사업 구간에선 하이패스 장치가 없어도 하이패스 차선을 무정차 통과하면 된다. 무선 통신, 번호판 인식 기술 등을 기반으로 한 통행료 수납 시스템이 마련됐기 때문이다. 시범 사업 구간은 경부선의 대왕판교, 남해선의 서영암, 강진무위사, 장흥, 보성, 벌교, 고흥, 남순천, 순천만 등이다.&lt;br&gt;&lt;br&gt;요금 납부는 신용카드 사전등록 방식과 자진납부 방식 중 선택할 수 있다. 신용카드 사전등록 방식은 한국도로공사 애플리케이션이나 인터넷 홈페이지에 차량번호, 신용카드를 사전에 등록하면 요금소 통과 시 자동으로 납부된다. 자진납부 방식은 운행일 이후 15일 이내에 한국도로공사 애플리케이션 등을 통해 납부하는 방식이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>술 마시던 지인 폭행해 숨지게 한 불법체류 외국인 ‘징역 3년’</title>
+      <link>https://www.chosun.com/national/court_law/2024/05/26/ZVEFROIFZZHB7NVUIKUWCBJ3JY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/26/ZVEFROIFZZHB7NVUIKUWCBJ3JY/</guid>
+      <dc:creator>청주=정성원 기자</dc:creator>
+      <description>술을 함께 마시던 지인을 폭행해 숨지게 한 30대 불법체류 외국인에게 법원이 징역형을 선고했다. 이 외국인은 폭행 사실을 인정하면서도 “우발적인 범행일 뿐 살인의 고의가 없었다”며 혐의를 부인했으나, 법원은 이를 받아들이지 않았다.청주지법 형사11부(재판장 태지영)는 상해치사 등 혐의로 기소된 러시아 국적 A(35)씨에게 징역 3년을 선고했다고 26일 밝혔다.</description>
+      <pubDate>Sun, 26 May 2024 04:50:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술을 함께 마시던 지인을 폭행해 숨지게 한 30대 불법체류 외국인에게 법원이 징역형을 선고했다. 이 외국인은 폭행 사실을 인정하면서도 “우발적인 범행일 뿐 살인의 고의가 없었다”며 혐의를 부인했으나, 법원은 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;청주지법 형사11부(재판장 태지영)는 상해치사 등 혐의로 기소된 러시아 국적 A(35)씨에게 징역 3년을 선고했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 11월 14일 충북 음성군 한 원룸에서 지인 B씨와 술을 마시던 중 B씨를 폭행해 숨지게 한 혐의로 기소됐다. 당시 A씨의 폭행으로 혼수상태에 빠진 B씨는 병원에서 치료를 받다가 사건 발생 3개월 만에 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 “한두 대 때린 정도로, 사망을 예견하지 못했다”며 혐의를 부인했으나 재판부는 “10분 동안 피해자 얼굴을 주먹으로 셀 수 없이 때렸다”는 목격자 진술 등을 근거로 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;재판부는 “한두 대 폭행으로 피해자 얼굴에 심한 멍과 부종이 생기기 어렵다”면서 “일반적으로 사람 얼굴과 머리에 강한 충격이 가해질 경우 뇌출혈 등으로 사망할 수 있다는 점도 누구나 예견할 수 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“망가뜨렸으니 수리비 내놔”...명품시계라고 속여 돈 뜯어낸 30대 실형</title>
+      <link>https://www.chosun.com/national/incident/2024/05/26/7F4YH7NSCZHUHISGH5SDAOPFCY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/05/26/7F4YH7NSCZHUHISGH5SDAOPFCY/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 May 2024 04:09:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3IO36KVN46T4WDWS2UUSZHKNH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가품을 명품으로 속여 수리비 명목으로 수천만원을 뜯어낸 혐의로 기소된 30대가 1심에서 실형을 선고받았다.&lt;br&gt;&lt;br&gt;26일 법조계에 따르면 수원지법 형사9단독 장혜정 판사는 사기, 사기미수, 공갈미수 등 혐의로 기소된 A씨에게 징역 1년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월 경기 화성시 반송동 한 고등학교 앞에서 B씨에게 가품 시계를 진품이라고 속여 1500만 원에 판매한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;그는 작년 11월∼12월 말 PC방 등에서 가품 시계를 스스로 파손해놓고 옆자리에 있던 학생 등이 고가 명품시계를 실수로 망가뜨린 것처럼 속여 3명으로부터 760만원을 받아 챙긴 혐의도 받는다. A씨는 같은 수법으로 8명으로부터 돈을 뜯어내려다 미수에 그치기도 했다.&lt;br&gt;&lt;br&gt;장 판사는 “피고인은 동종 범죄로 실형을 포함해 여러 차례 처벌 받은 전력이 있음에도 반성하지 않고 재차 범행을 저질렀다”며 “범행으로 취득한 돈 중 일부는 도박 범행에 사용된 것으로 보인다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울동행버스, 6월10일부터 퇴근길도 운행</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/26/GNSTVUDDPJEB5PLICX5PHOOBOA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/26/GNSTVUDDPJEB5PLICX5PHOOBOA/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 May 2024 03:34:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAYDXY3SE5NKHNRKCMVDXTPAE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오전 서울 은평구 디지털미디어시티역 버스정류장에 '동행버스' 서울08번 버스가 도착하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;출근난을 겪고 있는 수도권 주민을 위해 서울시가 운영 중인 ‘서울동행버스’가 퇴근길에도 운행한다.&lt;br&gt;&lt;br&gt;서울시는 서울과 수도권을 오가는 ‘서울동행버스’를 6월 10일부터 퇴근길에도 운행한다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;서울동행버스는 서울에서 경제활동을 하는 수도권 주민을 위해 도입된 맞춤형 출근 버스다. 작년 8월 2개 노선 운행을 시작으로 같은 해 11월 6개 노선으로 증편한 데 이어 올해 5월 10개 노선으로 확대했다. 경기 화성, 김포, 파주, 고양 등 10개 지역 주민들이 서울 출근길에 탈 수 있다.&lt;br&gt;&lt;br&gt;현재까지 누적 승객 수는 10만명이다. 서울시가 운행하는 버스인만큼 ‘기후동행카드’도 사용할 수 있다. 모든 동행버스는 현금 없는 버스로 운행한다.&lt;br&gt;&lt;br&gt;퇴근 동행버스는 오후 6시20분쯤부터 탈 수 있다. 20분 간격으로 2~3회 운영한다. 각 버스 노선마다 시간대가 다르다.&lt;br&gt;&lt;br&gt;서울시는 동행버스 도입 9개월여 만에 이용객 10만명을 돌파하는 등 수도권 주민의 이용 만족도가 높고 이용객의 92% 이상이 퇴근 시간대 운영에 찬성한다는 설문조사 결과를 반영해 확대 운행을 결정했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LC626XXAPZGHXIS6RYXRYVO4GI.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울동행버스 퇴근 시간대 운행 계획/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;퇴근시간대 운행 노선은 서울01번 강남역 출발 → 화성 동탄 도착, 02번 김포공항역 출발 → 김포 풍무 도착, 03번 홍대입구역 출발 → 파주 운정 도착, 04번 가양역 출발 → 고양 원흥 도착, 05번 도봉산역 출발 → 양주 옥정에 도착한다.&lt;br&gt;&lt;br&gt;06번은 강남역 출발 → 광주 능평 도착, 07번 판교제2테크노밸리 출발 → 양재역 도착, 08번 DMC역 출발 → 고양 화정역 도착, 09번 노원역 출발 → 의정부 고산 도착, 10번 도봉산역 출발 → 의정부 가능에 도착한다.&lt;br&gt;&lt;br&gt;윤종장 서울시 도시교통실장은 “서울동행버스는 현재 수도권 지역의 대중교통 부족과 혼잡으로 인한 출근 불편 사항을 해소하는 우수 사례가 됐다”며 “더 많은 이동편의를 제공할 수 있도록 선제적인 노력과 지원을 아끼지 않을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘층간소음 보복’ 약식기소된 40대…정식재판서 ‘무죄’</title>
+      <link>https://www.chosun.com/national/court_law/2024/05/26/CQM4I3TF5ZCWLB7M5TQ72M2SVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/26/CQM4I3TF5ZCWLB7M5TQ72M2SVY/</guid>
+      <dc:creator>허욱 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 May 2024 03:28:22 +0000</pubDate>
+      <content:encoded>아파트 위층에 층간소음 보복을 일삼았다며 스토킹 등 혐의로 약식기소된 40대가 정식재판을 거쳐 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SO3LWRA6PNP4FE36JVZGPKGAQ4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지방법원 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사4단독 박강균 부장판사는 스토킹처벌법 위반·상해 혐의로 재판에 넘겨진 40대 남성 A씨에게 무죄를 선고했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 같은 아파트 바로 위층에 사는 30대 여성 B씨와 층간 소음으로 오랜 기간 갈등을 빚었다. 2015년에 시작됐던 두 사람 간 갈등은 점점 심해졌다.&lt;br&gt;&lt;br&gt;A씨는 2021년 12월부터 이듬해 1월까지는 B씨의 거부에도 인터폰을 10차례에 걸쳐 연락을 했고, 주거지 근처에서 B씨를 지켜보는 등 B씨의 불안감 또는 공포감을 일으킨 것으로 조사됐다. 또한 검찰은 A씨가 2017년 5월부터 4년여간 17차례나 한밤 중에 욕설을 하는 등 행패를 부려 B씨에게 불면증·불안장애 등 정신적으로 상해를 가했다고 판단했다.&lt;br&gt;&lt;br&gt;검찰은 이를 바탕으로 벌금 500만원에 A씨를 약식기소 했지만, A씨는 정식재판을 받겠다고 청구했다.&lt;br&gt;&lt;br&gt;이어진 재판에서는 A씨의 범행 장면이 담겼다는 여러 동영상이 증거로 제출됐다. 하지만 영상에 나오는 범행이 피고인이 한 행위인지가 입증되지 않았다. 증인으로 나온 이웃 주민들도 A씨가 벌인 보복 소동을 들어본 적이 없다고 했다.&lt;br&gt;&lt;br&gt;재판부는 결국 “검사가 제출한 증거만으로는 피해자에게 스토킹을 하고 위협 등 행위로 불면증과 불안장애의 상해를 입혔다는 점이 합리적 의심의 여지없이 증명됐다고 보기 어렵다”며 A씨에게 무죄를 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>법무부 “금융·증권범죄 기소 인원 3년새 57% 증가...수사시스템 복원”</title>
       <link>https://www.chosun.com/national/court_law/2024/05/26/TASYAIYYMBBU5MQ7KJJXH2XF3A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/26/TASYAIYYMBBU5MQ7KJJXH2XF3A/</guid>
@@ -859,96 +932,6 @@
       <description/>
       <pubDate>Fri, 24 May 2024 08:53:34 +0000</pubDate>
       <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/FGZSR7ALDE2HPI6KNAP4BNWSSM.jpg?width=4687&amp;height=4407&amp;auth=76b276cd3582fc7b3d2c5cd3ed7faeca76ce33976db3572d7c0b0fc871bba669&amp;smart=true" alt="서울 양천구 서울 남부지법의 모습. /뉴스1" height="4407" width="4687"/&gt;&lt;p&gt;친구로부터 학교폭력을 당한 중학생을 꾸짖고 폭언해 극단 선택을 시도하게끔 내몬 혐의를 받는 도덕 교사가 1심에서 무죄를 선고받았다.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“본인 처벌은 안 되고 매니저는 되나”...판사, 김호중 꾸짖었다 </title>
-      <link>https://www.chosun.com/national/national_general/2024/05/24/GACSGRLN4NDLVLZPTLNVQO6RIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/24/GACSGRLN4NDLVLZPTLNVQO6RIE/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 07:42:58 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/43KU324XQVIJNENG3KBS5WQ7VU.jpg?width=3015&amp;height=2124&amp;auth=03ff64586c79b017f8b0232d3f7bb574af2822719e97fbabc78a8a5de3f3e714&amp;smart=true" alt="'음주 운전 뺑소니' 혐의를 받는 가수 김호중이 24일 오후 구속 전 피의자 심문(영장실질심사)을 마친 뒤 서울 서초구 서울중앙지법에서 나와 호송차로 향하고 있다. /연합뉴스" height="2124" width="3015"/&gt;&lt;p&gt;트로트 가수 김호중(33)씨가 음주 뺑소니와 운전자 바꿔치기 혐의로 24일 구속 심사를 받은 가운데, 법원이 심문 과정에서 “김호중은 처벌받으면 안 되고, 막내 매니저는 처벌받아도 괜찮은 것이냐”며 질책한 것으로 알려졌다.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원 “안희정·충청남도, ‘성폭행 피해’ 前비서에 8300만원 배상하라”</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/24/5WEOSTBXIVFJZD6YI33BGW623U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/24/5WEOSTBXIVFJZD6YI33BGW623U/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 01:57:05 +0000</pubDate>
-      <content:encoded>&lt;p&gt;안희정 전 충남지사의 성폭행 피해자인 김지은씨가 안 전 지사 등에게 위자료 등을 요구하며 제기한 손해배상 청구 소송에서 일부 승소했다. 1심 결과가 나온 건 소송을 제기한 지 약 3년 10개월만이다.&lt;/p&gt;&lt;img src="https://www.chosun.com/resizer/v2/FKNKDIE4UES5DCHF6IKRVCIUEY.jpg?width=1433&amp;height=963&amp;auth=178f882c236f65bdebee0f5a0239367c90ada50c1199d6c8889b4dba1de250f1&amp;smart=true" alt="안희정 전 충남지사. /뉴스1" height="963" width="1433"/&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정부 “20년 이상 못 찾은 실종 아동 1044명”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/05/24/B6JO5RS7KRA37CWRXRVI6SPX44/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/05/24/B6JO5RS7KRA37CWRXRVI6SPX44/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 02:41:44 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/YALIS3XREBWIJKG5PWM4WZDX54.jpg?width=2000&amp;height=1340&amp;auth=2fd6e1f328a32711b82d557b54850f0ab78504165de2a14e4055be24c236bf32&amp;smart=true" alt="코레일유통 실종아동찾기 캠페인.(코레일유통 제공)" height="1340" width="2000"/&gt;&lt;p&gt;국내에서 실종 신고가 접수된 뒤 1년이 지나도록 집으로 돌아오지 못한 아동이 현재 1336명에 달하는 것으로 나타났다. 이 가운데 20년 이상 찾지 못한 아동은 1044명에 달한다.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>27년 만의 의대 증원 확정...내년 정원 1509명 늘어난다</title>
-      <link>https://www.chosun.com/national/education/2024/05/24/GZPRNVMKQVCZJOMALL746NF46Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/05/24/GZPRNVMKQVCZJOMALL746NF46Q/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 06:36:36 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/UYZRM5OROVLP5DT2A3NRMXAHDY.jpg?width=6000&amp;height=3923&amp;auth=82b738715d8a9ddb11f5afda7a68fcb3d1f45c4541d6f511030cf62a13919f03&amp;smart=true" alt="서울 소재 한 의과대학./연합뉴스" height="3923" width="6000"/&gt;&lt;p&gt;한국대학교육협의회(대교협)가 24일 오후 의대 증원을 반영한 2025학년도 대입 전형 시행 계획을 심의해 최종 확정했다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/DTXCGJFKLZG7NHRFBD2SQWWWE4.jpg?width=4330&amp;height=2435&amp;auth=e47b78d96161920be2447a2fc6283b614471d05a4d82b68d780313fa621481a7&amp;smart=true" type="image/jpeg" height="2435" width="4330">
-        <media:description type="plain">&lt;YONHAP PHOTO-3680&gt; 2025년 입학정원 확대 앞둔 의과대학  
-    (서울=연합뉴스) 김성민 기자 = 27년 만의 의대 입학정원 증원이 확정된 24일 시민들이 서울 시내 한 의과대학 인근을 지나고 있다. 
-    한국대학교육협의회는 이날 대입전형위원회를 열고 각 대학이 제출한 2025학년도 대입전형 시행계획 변경 사항을 심의·확정했다. 2024.5.24
-    ksm7976@yna.co.kr/2024-05-24 14:30:54/
-&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">김성민</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>[리빙포인트] 냉장고 고무 패킹이 헐거우면</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/21/DTOPF2CXOZGNZONL44MEWCAPSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/21/DTOPF2CXOZGNZONL44MEWCAPSY/</guid>
-      <description/>
-      <pubDate>Mon, 20 May 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/SNHDOT4NU5GOLJ3DC6LJUP7BNY.png?width=600&amp;height=232&amp;auth=5a649e5bcd2171a17bb7f924ea22684315fddc7bb639e6299df2fb75482724f7&amp;smart=true" alt="일러스트=양진경" height="232" width="600"/&gt;&lt;p&gt;냉장고 문의 고무 패킹이 오래돼 문이 완전히 닫히지 않을 때엔 드라이어로 살짝 가열해보자. 고무가 부드러워지면서 빈틈없이 잘 닫힌다.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[리빙포인트] 수전 청소는 케첩으로</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/20/IBWTCNJJQVESJKUH2NKRYM32HM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/20/IBWTCNJJQVESJKUH2NKRYM32HM/</guid>
-      <description/>
-      <pubDate>Sun, 19 May 2024 16:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/K6IEUTPZPZHSDLWIK73W72E754.png?width=600&amp;height=240&amp;auth=28861f514801f03b191eaa4f19c712302f4526784ad4772de3db7880dd1a50e7&amp;smart=true" alt="일러스트=박상훈" height="240" width="600"/&gt;&lt;p&gt;화장실 수도꼭지를 청소할 때엔 유통기한이 지난 케첩을 발라보자. 토마토의 라이코펜 성분이 물때 제거와 산화 방지를 도와준다.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>최북단 고성 대진초등생들의 특별한 수학여행</title>
-      <link>https://www.chosun.com/national/people/2024/05/24/ETMUWZEXZ5GQFBVPBDAX5RMVAE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/05/24/ETMUWZEXZ5GQFBVPBDAX5RMVAE/</guid>
-      <dc:creator>김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 May 2024 15:39:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5CJZC2K7AZEOXFNLOAD4I4FWF4.jpg?width=700&amp;height=404&amp;auth=2cc06b965ad69e8af32acff91af3501387c28a10f20a47f9dec238067b805aaa&amp;smart=true" alt="지난 21일 서울 중구 SKT타워 ‘티움’에 수학여행을 온 고성초 학생들이 가상현실 기술을 체험하고 있다. /SKT" height="404" width="700"/&gt;&lt;p&gt;분단 영역 최북단 강원 고성군 대진초(분교 포함) 학생 17명이 지난 21일 서울 중구 SKT타워로 수학여행을 왔다. 전교생이 45명인 이 학교는 수학여행 전에 학생에게 어디로 여행 가면 좋을지 제안을 받는데, 6학년 김태현(12)군이 TV 예능에서 본 ‘티움’을 제안했다고 한다. 티움은 ‘인공지능 의사’ ‘의료 3D 프린터’ ‘우주 셔틀’ ‘홀로그램 3D 영상 회의 시스템’ 등이 있는 미래 기술 체험관이다.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세]  5월 26일 일요일 (음력 4월 19일 庚寅)</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/24/6EHIG7FPI5HYXEX7OTCG224ODI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/24/6EHIG7FPI5HYXEX7OTCG224ODI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 08:10:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	 36년생 질환 있다면 동쪽 의사에게. 48년생 때 못 만난 천리마 소금 수레 끈다. 60년생 형편 되면 살림살이 교체나 구입 고려하라. 72년생 어깨 힘 빼고 자세 낮춰라. 84년생 지인 통해 뜻밖에 기회 올 수도. 96년생 씀씀이 줄여보는 것도 방법.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	 37년생 돌다리도 두드려 보고 건너라. 49년생 승산 없는 싸움은 피하도록. 61년생 믿는 도끼에 발등 찍힐 수 있으니 과신 금물. 73년생 가족과 함께면 행복 백배. 85년생 미련 과감히 떨쳐내야. 97년생 미팅이나 만남 생각했다면 오늘이 적기.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	 38년생 물 흐르듯 순리대로 가라. 50년생 우울감 엄습하니 운동으로 삶의 활력을. 62년생 감정 누르고 이성 깨워라. 74년생 오래 바라고 소망한 것 이룰 듯. 86년생 지나친 자존심으로 손해 볼 수도. 98년생 잘나갈 때 복병을 조심.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	 27년생 말로 낸 상처는 말이 치료약. 39년생 사사로운 감정이 오해 부를 수도. 51년생 최고 묘수는 정석. 63년생 검은색과 숫자 1, 6이 행운 부른다. 75년생 자신 있어도 과욕은 금물. 87년생 상대방 의견 맞지 않아도 따르는 게 상책.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	 28년생 아랫사람에게 불만 있어도 일단 참아야. 40년생 모로 가도 제 길만 가면 된다. 52년생 감사 깊이 전할 수 있는 말과 행동 필요. 64년생 범사가 순조롭게 진행. 76년생 머릿속이 와글와글. 88년생 백 번 듣는 게 한 번 보는 것만 할까.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	 29년생 고욤 일흔이 감 하나만 못하다. 41년생 눈 뜨고 코 베이는 세상 정신을 똑바로. 53년생 정신세계 가꾸지 않는 삶은 척박하다. 65년생 주위에 원숭이띠 있다면 그가 귀인. 77년생 모든 재산을 한 배에 싣지 마라. 89년생 고와도 미워도 내 식구.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	 30년생 관용은 인격 만든다. 42년생 바닷가 개는 호랑이 무서운 줄 모른다. 54년생 사람 관계도 정리와 폐기 필요. 66년생 대인 관계에 자기중심적 사고는 버려야. 78년생 자녀 또는 아랫사람 도움 받을 수도. 90년생 쓴맛 봤다면 단맛도 기대하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	 31년생 심혈관 약하면 바로 진료. 43년생 매매 계약이면 유리하게 진행될 듯. 55년생 비빌 언덕 있는지부터 확인하도록. 67년생 누구도 대신해 줄 수 없는 게 인생. 79년생 민감한 시기 여유와 융통성 필요. 91년생 기억력보다 분별력 필요 할 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	 32년생 반갑지 않은 손님이 기쁜 소식을 전할 듯. 44년생 말하기 전 세 번 생각하라. 56년생 꽃 적으면 열매도 적다. 68년생 시야 넓혀야 미래가 보이지. 80년생 비관적이고 부정적인 생각은 절대 금물. 92년생 말 많으면 실수 반드시 따른다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	 33년생 송사보다 적당한 타협이 상책. 45년생 모임이나 회식은 가급적 참석하라. 57년생 가짜 뉴스에 현혹되지 않도록. 69년생 기회 왔으니 놓치지 마라. 81년생 운기 살아나니 망설이지 말고 나서라. 93년생 베푼 만큼 보답 있는 시기.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	 34년생 산중 농사로 고라니 좋은 일 했구나. 46년생 전략은 상대에 따라 달라야. 58년생 늙은 말은 먼 길 적합하지 않다. 70년생 남모른 선행에 큰 보답 돌아온다. 82년생 내 의견만 내세우면 일 망친다. 94년생 진퇴 결정 당장 서두를 것 없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	 35년생 활발한 활동 기대되는 시기. 47년생 제일 강한 치아가 제일 먼저 고장. 59년생 이쯤에서 중간 점검 필요. 71년생 자기 말에 책임지는 자세가 성과 낸다. 83년생 선입견 갖고 대처하면 후회막급. 95년생 원인 찾아야 해결책을 찾지.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
