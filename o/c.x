@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“오늘 서울역서 칼부림...남녀 50명 아무나 죽이겠다” 예고글</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/24/HRJEPKPGWBG3JKE4PPWFIBIVWI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/24/HRJEPKPGWBG3JKE4PPWFIBIVWI/</guid>
+      <dc:creator>김보경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 24 May 2024 00:40:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZMSLD2NVBBLBDM4ATU3YZLVYQY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울역 4호선 지하철을 이용하는 출근길 시민들. 기사 내용과 무관한 사진./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울역에서 칼부림을 하겠다는 글이 온라인에 퍼지면서 경찰이 대응에 나섰다.&lt;br&gt;&lt;br&gt;지난 22일 온라인 커뮤니티 디시인사이드에는 “서울역에 5월 24일날 칼부림하러간다, 남녀 50명 아무나 죽이겠다”라는 내용이 담긴 글이 게시됐다.&lt;br&gt;&lt;br&gt;서울 남대문경찰서는 이날 해당 게시글을 확인한 후, 국정원, 철도 경찰 등 관계 기관에 해당 소식을 전파했으며 추가 경력을 요청했다고 밝혔다. 해당 글을 기반으로 용의자 검거에 나선 경찰은 서울역 근무인력을 동원해 순찰을 실시할 방침이다. 경찰 관계자는 “지역관서와 기동순찰대까지 투입해 순찰 중”이라면서 “아직 검거된 용의자는 없다”고 했다.&lt;br&gt;&lt;br&gt;서울교통공사 관계자는 “방검복과 같은 방호장비를 갖춘 보안관, 부서장 등 안전도우미 12명을 배치하고 순회 순찰에 나설 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;해당 게시글은 삭제됐지만 소셜미디어를 통해 테러 소식이 퍼지면서 시민들은 출근길 불안을 호소하고 있다. 온라인에서는 “다들 정말 조심해야 할 것 같다” “오늘내일 서울역에 경찰이 많아도 놀라지 말고 대비하자” “복잡한 서울역 출구 동선 미리 숙지하고 출근해야 할 것 같다”는 등의 반응이 이어지고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “24일 오전 디시인사이드에 대한 압수수색 영장을 집행해 게시글 관련 접속 정보 등을 요청해 받고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>부산대 113, 전북대 111...올해 의대 1910명 ‘지역인재’ 선발</title>
       <link>https://www.chosun.com/national/education/2024/05/27/3CCDRVDC6ZGVHC4XBIJXNMCN3I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/05/27/3CCDRVDC6ZGVHC4XBIJXNMCN3I/</guid>
@@ -780,15 +789,6 @@
       <description/>
       <pubDate>Sat, 25 May 2024 00:20:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JVMR5R3UJZ6WVQ3T6FZJHXNXHE.jpg"&gt;&lt;figcaption&gt;소방대원들이 지난 24일 화재가 난 국립부여박물관 상설전시관 내 창고에서 수거한 청소 기기를 살펴보고 있다. 이 기기는 사람이 운전해 바닥을 청소하는 용도로 쓰인다. /뉴스1&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국립부여박물관 상설전시관 창고에서 불이 났으나 10여분 만에 진화돼 국가유산 피해로 이어지지는 않았다.&lt;br&gt;&lt;br&gt;25일 부여박물관과 소방 당국에 따르면 전날 오후 5시20분쯤 충남 부여군 국립부여박물관 본관동 상설전시관 창고에서 불이 나 12분 만에 진화됐다.&lt;br&gt;&lt;br&gt;박물관 내 설치된 자동 소화설비가 연기를 감지한 뒤 스프링클러가 작동했고, 박물관 직원들이 소화기 등을 사용해 자체 진화한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;국립부여박물관 상설전시관 전시실에는 백제금동대향로(국보 제287호), 부여 규암리 금동관음보살입상(국보 제293호) 등 백제시대 중요 국가유산과 충남지역 유물을 전시 중이다.&lt;br&gt;&lt;br&gt;불이 날 당시 관람객 7명이 직원 안내에 따라 급히 대피하는 등 소동도 빚어졌으나 다친 사람은 없는 것으로 전해졌다. 불은 창고에 보관 중이던 청소용 전동카트 1대, 집기류 등을 태워 소방 추산 400만원의 재산 피해가 났다.&lt;br&gt;&lt;br&gt;소방 당국은 화재가 발생한 창고에 유물 등이 보관돼 있지 않았고, 불이 상설전시관과 수장고로 번지지 않아 국가유산 피해는 없었던 것으로 보고 있다.&lt;br&gt;&lt;br&gt;소방 당국은 상설전시관 내 사람이 운행하는 청소 기기에서 불이 시작된 것으로 보고 정확한 화재 원인 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;박물관 측은 전동카트 보관 장소 변경 등 대책을 마련해 화재에 대비할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“前 비서 성폭행 안희정, 피해자에 8347만원 배상”</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/25/6PRTJRRN65GANDEGPW5YH7EFCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/25/6PRTJRRN65GANDEGPW5YH7EFCE/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 20:19:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HVJ2MJDLMFP4F3ZUAX4WJ75KOE.jpg"&gt;&lt;figcaption&gt;안희정 전 충남지사. /뉴스1&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안희정 전 충남지사와 충남도는 안 전 지사의 성폭행 피해자 김지은씨에게 8300여만원을 배상해야 한다는 법원 판결이 나왔다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사22부(재판장 최욱진)는 24일 김씨가 안 전 지사 등을 상대로 낸 손해배상 청구 소송에서 “안 전 지사와 충남도는 함께 8347만원을 배상하라”고 판결했다. 김씨가 2020년 7월 이 소송을 제기한 지 3년 10개월 만에 1심 판결이 나온 것이다.&lt;br&gt;&lt;br&gt;안 전 지사의 성폭행 사건은 김씨가 2018년 3월 방송에 출연해 피해 사실을 폭로하면서 시작됐다. 안 전 지사는 2017년 7월부터 이듬해 2월까지 수행 비서이던 김씨를 수차례 성폭행 및 성추행한 혐의로 기소돼 2019년 대법원에서 징역 3년 6개월이 확정됐고, 2022년 8월 만기 출소했다. 김씨는 이 사건 수사와 재판 과정에서 2차 가해로 외상후스트레스장애(PTSD)를 겪었다며 안 전 지사 등을 상대로 3억원의 손해배상을 청구한 것이다.&lt;br&gt;&lt;br&gt;재판부는 “신체 감정에 따르면 안 전 지사와 충남도의 불법 행위로 김씨에게 외상후스트레스장애가 발생했다고 볼 수 있다”고 했다. 안 전 지사의 전 배우자가 행한 김씨에 대한 2차 가해를 안 전 지사가 방조한 책임이 있다는 것이다. 재판부는 또 안 전 지사의 범행이 공무원의 직무 수행과 관련이 있어 충남도에도 배상 책임이 있다고 판단했다. 이 재판이 지연된 것은 김씨의 외상후스트레스장애를 입증하기 위한 의료 감정이 늦어졌기 때문이다.&lt;br&gt;&lt;br&gt;김씨는 이날 선고 후 한국성폭력상담소를 통해 “그동안 성폭력 피해를 입고도 정작 고통의 시간을 돌려받지 못했던 많은 분께 작은 희망이 되길 바랐다”며 “끝까지 싸우겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>겁나는 외식 물가… 구내식당 밥이 복지다</title>
