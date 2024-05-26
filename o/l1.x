@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 특수고용 근로자 골프장 캐디 '직장 내 괴롭힘'으로 숨져… 사업주도 "주의 의무 소홀 책임 있다"</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="http://image.lawtimes.co.kr/images/198583.jpg" alt="198583.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;골프장에서 근무하던 캐디가 직장 내 괴롭힘으로 극단적 선택을 한 사건에서 관련 사업주의 민사상 책임을 인정한 원심이 대법원에서 최종 확정됐다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;대법원 민사2부(주심 신숙희 대법관)는 지난 17일 직장 내 괴롭힘으로 숨진 골프장 캐디 A 씨의 유족 측이 학교법인 건국대학교를 상대로 낸 손해배상 청구 소송(2024다207558)에서 원고 일부승소 판결한 원심을 심리불속행 기각으로 확정했다.   &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;2019년 7월부터 건국대가 운영하는 한 골프장에서 캐디로 근무하던 A 씨는 캐디 100여 명 전체를 지휘하는 총책임자인 상사 B 씨로부터 지속적으로 괴롭힘을 당하다 2020년 9월 스스로 목숨을 끊었다. A 씨 등 캐디들은 손님들에게 수고료를 받는다는 이유로 골프장과 근로계약서를 작성하지 않고 특수고용직으로 근무했던 것으로 조사됐다. A 씨의 유족은 건국대 법인과 B 씨를 상대로 소송을 냈다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;1심은 피고 측이 유족에게 1억7000만 원 상당을 배상하라고 판결했다. 업무상 적정 범위를 넘어 신체적, 정신적 고통을 주거나 근무 환경을 악화시켰다면 피해자가 반드시 근로기준법상 근로자에 해당하지 않아도 된다고 보고, B 씨의 불법행위 책임을 인정했다. 아울러 건국대 법인에 대해서도 "B 씨가 경기 진행 중 무전으로 A 씨에게 모욕적인 발언이나 공개적 질책을 한 사실이 인정되고, 이후 A 씨가 B 씨에게 항의하는 취지의 인터넷 게시판 글까지 남겼음에도 별다른 조치를 취하지 않고 오히려 게시판 글을 삭제한 뒤 A 씨를 카페에서 탈퇴시켰다"며 B 씨의 사용자로서 주의 의무를 기울이지 않아 발생한 괴롭힘에 대한 민법 제756조의 사용자 배상책임을 인정했다.      &lt;/p&gt;&lt;p&gt;&lt;br /&gt;항소심도 양측의 항소를 기각하고 1심 판단을 유지했다.         &lt;/p&gt;&lt;p&gt;&lt;br /&gt;항소심은 "사업주는 골프장 경기보조원이었던 A 씨를 보호할 의무가 있었다"며 산업안전보건법상 노무 제공을 받는 사업주가 특수고용직 노동자를 직장 내 괴롭힘으로부터 보호할 의무가 있다고 판시했다.            &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;이에 건국대 법인은 상고했지만, 대법원도 심리불속행 기각으로 원심을 그대로 확정했다. '심리불속행 기각'이란 대법원이 상고된 사건 가운데 상고 대상이 아니라고 판단되는 사건에 대해 더 이상 심리하지 않고 상고를 기각하는 제도다.               &lt;/p&gt;&lt;p&gt;&lt;br /&gt;이 사건을 대리한 시민단체 직장갑질119 관계자는 "근로기준법상 근로자로 인정받지 못해 근로기준법상 직장 내 괴롭힘 규정을 적용받지 못했던 특수고용직 노동자와 플랫폼 노동자들이 산업안전보건법을 통해 보호받을 수 있다는 사실이 확인된 판결"이라고 말했다.                  &lt;/p&gt;&lt;p&gt;&lt;br /&gt;다만 "특수고용노동자나 플랫폼 노동자들은 형식상으로는 자영업자, 개인 사업자로 분류되지만 현실적으로는 사업주에게 종속 내지 의존하고 있어 근로자로서의 실질을 가지고 있음에도 근로기준법상 근로자로 규정되지 않아 근로기준법을 포함한 대부분의 개별적 노동관계법의 보호를 받지 못하고 있다"며 "사업주에게 종속되어 일하는 특수고용노동자, 배달노동자는 일반 근로자와 다를 바 없으므로 이들도 근로기준법상 근로자로 인정하는 것이 근본적인 해결책"이라고 부연했다.                  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Sun, 26 May 2024 06:48:39 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198583</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198583</guid>
+			<media:thumbnail>http://image.lawtimes.co.kr/images/198583.jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 기초생활법상 수급권자 이유로 1심서 국선변호인 선임…"사정변경 없다면 2심에서도 국선 선정할 수 있어야"</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/759(25).jpg" alt="759.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;국민기초생활법에 따른 수급권자임을 이유로 1심에서 국선변호인을 선임한 경우, 사정 변경이 없다면 2심에서도 국선변호인 선정 청구를 받아들여야 한다는 대법원 판단이 나왔다.&lt;p&gt;&lt;b&gt;&lt;br /&gt;대법원 형사3부&lt;/b&gt;(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1759"&gt;오석준&lt;/span&gt;&amp;nbsp;대법관)는 지난달 25일 국민기초생활보장법 위반으로 기소된 A 씨에 대해 벌금 500만 원을 선고한 원심 판결을 파기하고 사건을 광주지법으로 돌려보냈다(&lt;b&gt;2023도14537&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;&lt;br /&gt;A 씨는 2018년 11월 사실혼 배우자 B 씨 명의의 아파트에서 동거하며 B 씨 명의의 승용차를 사용하고 있었음에도 1인 가구이고 재산이 없는 것처럼 꾸며 기초생계급여 150여만 원을 지급받는 등 2021년 11월까지 부정한 방법으로 생계급여 1945여만 원, 주거급여 582여만 원 등 총 2528만 원을 지급받은 혐의로 재판에 넘겨졌다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;A 씨는 1심 재판 과정에서 자신이 국민기초생활 보장법에 따른 수급권자에 해당한다는 소명자료를 제출했고, 법원이 이를 받아들이면서 국선변호인의 조력을 받게 됐다. A 씨는 항소심에서도 수급권자라는 이유를 들어 국선변호인 선정 청구를 했지만, 항소심 법원은 받아들이지 않았다. 결국 A 씨만 출석한 상태에서 재판 진행 뒤 판결이 선고됐고, 항소기각으로 1심에서 선고받은 벌금 500만 원이 유지됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;대법원은 A 씨가 항소심에서 국선변호인이 없는 상태에서 재판을 받게 돼 효과적으로 방어권을 행사하지 못했다고 판단했다. 재판부는 "1심에서 제출한 수급자 증명서 등 소명자료에 따르면 A 씨가 경제적 빈곤으로 변호인을 선임할 수 없는 경우에 해당하는 것으로 인정할 여지가 충분하고 달리 판단할 만한 사정이 없다"며 "원심으로서는 특별한 사정이 없는 한 국선변호인 선정 결정을 통해 선정된 변호인이 공판심리에 참여하도록 했어야 했다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이어 "그럼에도 원심은 A 씨의 청구를 기각한 채 공판심리를 진행했다"며 "이러한 조치는 국선변호인 선정에 관한 형사소송법 규정을 위반한 것이고  A 씨로 하여금 국선변호인의 조력을 받아 효과적인 방어권을 행사하지 못하게 하는 결과를 가져와 판결에 영향을 미친 잘못이 있다"고 설명했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Sun, 26 May 2024 00:25:25 -0000</pubDate>
@@ -232,16 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198566</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/198566.jpg</media:thumbnail>
 			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>'50억 클럽' 의혹 권순일 前 대법관, 법무법인 YK 변호사로</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/198562.jpg" alt="198562.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;이른바 '대장동 50억 클럽 사건' 으로  검찰 수사를 받고 있는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3924"&gt;권순일&lt;/span&gt;(65·사법연수원 14기) 전 대법관이 법무법인 YK 대표변호사로 합류한다. &lt;br /&gt;&lt;br /&gt;24일 YK 관계자에 따르면 권 전 대법관은 27일부터 YK 송무팀에 합류할 예정이다. &lt;br /&gt;&lt;br /&gt;권 전 대법관은 2020년 9월 퇴임 후 같은 해 11월 대한변호사협회에 변호사 등록을 하지 않고 화천대유자산관리에 고문으로 취업했다. 이에 변호사법 위반 혐의로 검찰 수사가 진행 중이다. 권 전 대법관이 화천대유에서 약 10개월간 받은 자문료는 총 1억 5000만 원으로 알려졌다. &lt;br /&gt;&lt;br /&gt;YK 측은 "권 전 대법관이 20쪽에 달하는 의견서를 수사기관에 제출하는 등 성실하고 충분한 소명을 한 걸로 안다"며 "회사도 변호사법 위반 문제가 생길 여지가 없다는 의견에 수긍이 가고 관계기관에서 결백함이 밝혀질 것으로 믿는다"고 말했다. &lt;br /&gt;&lt;br /&gt;그러면서 "권 전 대법관은 대법관 시절 이른바 '동일노동 동일임금', '성인지 감수성' 등 획기적 판결을 이끌어 왔다"며 "오랜 법관 경력을 통해 얻은 지혜와 경험이 YK법률서비스의 질적 향상에 큰 도움이 될 것이라고 판단했다"고 영입 이유를 밝혔다. &lt;br /&gt;</description>
-			<pubDate>Fri, 24 May 2024 08:09:44 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198562</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198562</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/198562.jpg</media:thumbnail>
-			<dc:creator>유지인 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
