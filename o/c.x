@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>법무부 “금융·증권범죄 기소 인원 3년새 57% 증가...수사시스템 복원”</title>
+      <link>https://www.chosun.com/national/court_law/2024/05/26/TASYAIYYMBBU5MQ7KJJXH2XF3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/26/TASYAIYYMBBU5MQ7KJJXH2XF3A/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 May 2024 03:00:00 +0000</pubDate>
+      <content:encoded>정부가 2020년 폐지됐던 서울남부지검 금융·증권범죄 합동수사단을 복원하는 등 금융·증권범죄 수사시스템을 복원·강화한 결과, 검찰의 금융·증권범죄 기소 인원이 50% 넘게 늘었다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;법무부에 따르면 지난해 검찰의 금융·증권범죄 기소 인원은 902명으로, 2020년(573명)보다 57.4% 늘었다. 검찰의 기소 건수도 399건에서 535건으로 34.1% 증가했다.&lt;br&gt;&lt;br&gt;특히 같은 기간 금융범죄 중점 검찰청인 서울남부지검의 기소 인원은 174명에서 351명으로 약 2배 증가했다. 또 남부지검의 추징보전 총액도 4449억원에서 1조9796억원으로 약 4.5배 늘었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X5EP7LL3R6B6IFGE25ZGKNJF54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부는 2022년 5월 서울남부지검에 금융·증권범죄 합동수사단을 복원한 데 이어 지난해 5월에는 합동수사부로 정식 직제화하고, 금융·증권범죄수사과를 신설했다. 이후 금융·증권범죄 합동수사부는 7305억원의 부당이득이 발생한 ‘SG증권발 주가폭락 관련 주가조작 사건’, 6616억원의 부당이득이 발생한 ‘영풍제지 주가조작 사건’ 등을 수사해 관련자들을 기소했다.&lt;br&gt;&lt;br&gt;정부는 지난해 7월 자본시장법 개정을 통해 부당이득 산정 방식을 법제화하고, 자본시장 불공정거래행위 관련 진술자 등에 대한 형사처벌 감면 규정을 신설하기도 했다.&lt;br&gt;&lt;br&gt;한편 법무부는 금융위원회·금융감독원·한국거래소 등과 협력을 강화해 자본시장법상 ‘패스트트랙’ 제도도 적극 활용하고 있다고 밝혔다. 패스트트랙 제도는 금융위, 금감원 등이 불공정거래 혐의에 대해 조사를 진행하던 중 수사가 긴급하다고 판단되면 증권선물위원회 심의를 생략하고 검찰에 빠르게 통보하는 제도다.&lt;br&gt;&lt;br&gt;법무부에 따르면 윤석열 정부 출범 이후인 2022년 5월~2024년 2월 금융당국이 검찰에 통보한 패스트트랙 건수는 40건으로, 2020년 1월~2022년 4월(29건)보다 약 37.9% 증가했다. 같은 기간 패스트트랙으로 기소된 인원도 43명에서 70명으로 62.8% 증가했다.&lt;br&gt;&lt;br&gt;법무부는 “검찰은 금감원 특사경 등과 협업해 패스트트랙으로 송부된 SM 엔터테인먼트 인수 관련 시세조종 사건 핵심 혐의자 2명 및 관련 업체 1곳을 기소하는 등 성과를 냈다”고 밝혔다.&lt;br&gt;&lt;br&gt;법무부는 또 지난해 7월 서울남부지검에 가상자산범죄 합동수사단을 설치하는 등 가상자산 범죄에 대한 대응 체계를 구축해 관련 범죄를 엄단하기 위해 노력하고 있다고 밝혔다. 가상자산범죄 합동수사단은 5800억원 규모의 무신고 가상자산 거래소 운영진, 피해자들을 상대로 1조4000억원을 편취한 코인 예치서비스 관계자 등을 기소하는 성과를 냈다.&lt;br&gt;&lt;br&gt;특히 국세청, 관세청, FIU 등이 가상자산 이상거래를 조사·분석하고 시세조종 등 불공정거래 관련 자료를 송부해 검찰이 수사·기소하는 수사 시스템이 구축됐다고 법무부는 밝혔다.&lt;br&gt;&lt;br&gt;법무부는 “가상자산 불공정거래행위 형사처벌을 골자로 한 가상자산이용자보호법이 제정돼 오는 7월 시행을 앞두고 있다”면서 “금융위･금감원 등과 가상자산 불공정거래행위 부당이득 산정방식 등 하위 법령 제정을 논의 중”이라고 했다.&lt;br&gt;&lt;br&gt;박성재 법무부 장관은 “복원된 금융·증권범죄 수사시스템을 바탕으로 수사·금융당국이 협력하여 불법 공매도 등 자본시장 교란사범에 신속 대응하여 선량한 투자자를 보호하고, 우리 기업들이 한층 더 밸류업 할 수 있도록 자본시장의 공정성 확립을 위해 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>음주운전 집행유예 기간에 또 무면허 음주운전…결국 ‘징역 1년6개월’ 처벌</title>
+      <link>https://www.chosun.com/national/court_law/2024/05/26/T5DQDBKBQNEVHCHR6PCXDWEMOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/26/T5DQDBKBQNEVHCHR6PCXDWEMOI/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>음주처벌을 받고도 또다시 만취 상태로 만취 상태로 운전대를 잡은 40대에게 법원이 징역형을 선고했다. 이 운전자는 당시 무면허 상태이기도 했다.춘천지법 형사3단독 박성민 부장판사는 도로교통법상 음주운전 등 혐의로 기소된 A(44)씨에게 징역 1년 6개월을 선고했다고 26일 밝혔다.</description>
+      <pubDate>Sun, 26 May 2024 01:38:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X54QKRCWMI5SGENRNVNQHFX7FI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법.(뉴스1 DB)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전으로 처벌을 받고도 또다시 만취 상태로 운전대를 잡은 40대에게 법원이 징역형을 선고했다. 이 운전자는 당시 무면허 상태이기도 했다.&lt;br&gt;&lt;br&gt;춘천지법 형사3단독 박성민 부장판사는 도로교통법상 음주운전 등 혐의로 기소된 A(44)씨에게 징역 1년 6개월을 선고했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 8월 2일 오전 10시 5분쯤 강원 인제군 기린면 한 빌라 앞 도로에서 혈중알코올농도 0.382%의 만취 상태로 차량을 운전한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;그는 당시 무면허 상태에다 의무보험에도 가입하지 않은 채 운전대를 잡았다. 이보다 앞서 지난 2021년 음주운전으로 징역 1년 2개월에 집행유예 2년을 선고받기도 했다.&lt;br&gt;&lt;br&gt;박 부장판사는 “음주운전으로 인한 집행유예 기간에 이 사건을 저지른 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“혼인신고 않고 헤어진 전남편…아이 양육비 받을 수 있나요”</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/26/4F2WI6RXF5GLDNYGQJCJSG6GT4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/26/4F2WI6RXF5GLDNYGQJCJSG6GT4/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 May 2024 02:01:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JJNDZINF3FFXFIM6Y5QCZH76QA.png"&gt;&lt;figcaption&gt;&lt;small&gt;결혼식 자료 사진. 사진은 기사와 직접적인 관련이 없음. /게티이미지뱅크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;결혼식을 올린 뒤에도 다양한 이유로 혼인신고를 미루는 부부들이 있다. 만약 혼인신고를 하지 않은 상황에서 아이를 출산하고, 그 후 이혼했다면 전 배우자에게 양육비를 청구할 수 있을까. 이 같은 고민이 24일 YTN라디오 ‘조인섭 변호사의 상담소’를 통해 전해졌다.&lt;br&gt;&lt;br&gt;사연자 A씨는 20년 전 짧은 결혼생활을 통해 자녀를 얻었다고 한다. A씨는 남편이 어머니에게 의존적인 ‘마마보이’라는 이유로 이별을 결심했다고 한다.&lt;br&gt;&lt;br&gt;그는 “(전)남편은 아주 사소한 일도 어머니께 의존했고, 심지어 부부 간 문제도 어머니와 상의해서 처리했다”며 “시댁의 간섭도 심했다”고 말했다. 이어 “아기는 꼭 자연분만으로 낳아라, 모유수유 해라, 아기를 교회에 와라 등 참견을 했다”며 “아기 양육도 제 뜻대로 할 수 없는 건 도저히 참을 수 없었다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 이 같은 이유로 남편과 크게 싸우고 친정으로 향했다고 한다. 그는 남편에게 “(시어머니에게) 의존하지 않겠다고 약속하지 않으면 돌아가지 않겠다”고 으름장을 놨지만, 남편은 “우리를 생각해서 그러시는 거다”라며 답하지 않았다고 한다.&lt;br&gt;&lt;br&gt;A씨는 자신이 이혼 얘기를 꺼내자 남편이 “이혼하면 아기는 니가 키워야 한다, 양육비는 절대 안 준다”고 말했다고 전했다. 그는 “더 이상 남편과 결혼생활을 유지하는 건 어렵다고 판단했다”며 “혼인신고도 하지 않아서 따로 이혼 절차도 필요하지 않았다”고 했다.&lt;br&gt;&lt;br&gt;이후 A씨는 홀로 아이를 키웠다. 그는 “가끔 아이가 아빠 얘기를 할 때 남편에게 연락했지만 만나고 싶지 않다고 하더라”라며 “사춘기인 아이가 상처 받을까봐 아이에게는 아빠가 이민을 갔다고 둘러댔다”고 했다. 이어 “지금까지 혼자 힘들게 아이를 키웠는데, 이번에 아이가 대학에 들어갔다”며 “대학에 들어가니 등록금, 기숙사비도 많이 들고 아이가 유학을 가고 싶다고도 한다”고 했다. 그러면서 “아이 아빠에게 도움 받을 방법이 있나”라며 조언을 구했다.&lt;br&gt;&lt;br&gt;이에 대해 이준헌 법무법인 신세계로 변호사는 “이미 자녀가 성년이기 때문에 장래의 양육비를 청구할 수는 없으나, 과거 양육비를 청구할 수 있다”고 봤다. 이어 “다만 이를 위해서는 부양의무가 인정되어야 한다”며 “부양의무는 신분관계에서 발생하기 때문에, 사실혼에서 태어난 자녀는 먼저 아버지와 법률상 친자관계라는 신분관계를 인정받아야 한다”고 설명했다.&lt;br&gt;&lt;br&gt;이 변호사는 “부모는 미성년 자녀를 공동으로 양육할 책임이 있고, 그 양육에 드는 비용도 원칙적으로 공동으로 부담해야 한다”며 “이러한 부모의 자녀 양육 의무는 자녀의 출생과 동시에 발생하는 것이기 때문에 양육자는 비양육자인 상대방에 대해 과거 양육비를 청구할 수 있다”고 했다. 그러면서 “자녀가 이미 다 커서 성인이라고 하더라도 청구가 가능하므로, 과거 양육비를 청구해서 그 돈으로 유학비를 충당하는 것이 가장 가능성이 높아 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“투자 실패 만회하려”...해외 불법 도박 사이트 개설한 40대 징역 3년</title>
+      <link>https://www.chosun.com/national/court_law/2024/05/26/UEEPYM7VTRGLPNX3LEK6V3RL4I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/26/UEEPYM7VTRGLPNX3LEK6V3RL4I/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>투자 실패를 이유로 해외 불법 스포츠 도박 사이트를 개설해 운영한 40대에게 법원이 징역형을 선고했다.춘천지법 형사2단독 김택성 부장판사는 국민체육진흥법 위반(도박개장 등) 등 혐의로 기소된 A(49)씨에게 징역 3년을 선고했다고 26일 밝혔다.</description>
+      <pubDate>Sun, 26 May 2024 01:40:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X54QKRCWMI5SGENRNVNQHFX7FI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법.(뉴스1 DB)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;투자 실패를 이유로 외국에 사무실을 두고 불법 스포츠 도박 사이트를 개설해 운영한 40대에게 법원이 징역형을 선고했다.&lt;br&gt;&lt;br&gt;춘천지법 형사2단독 김택성 부장판사는 국민체육진흥법 위반(도박개장 등) 등 혐의로 기소된 A(49)씨에게 징역 3년을 선고했다고 26일 밝혔다. 또 범죄 수익 14억 9400여만원의 추징을 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2018년 6월부터 2019년 7월까지 베트남과 태국 등 해외에 사무실을 두고 불법 스포츠 도박 사이트 3개를 개설해 운영한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;그는 주식과 가상화폐에 투자했다가 큰 손실을 보자 만회하기 위해 이 같은 범행을 저지른 것으로 조사됐다. 특히 수사기관의 추적을 피하기 위해 범행에 여러 계좌를 이용해 환전을 해주거나 현금을 인출하기도 했다.&lt;br&gt;&lt;br&gt;김 부장판사는 “국민들의 사행심을 조장하는 등 사회적 폐해가 크므로 이를 엄히 처벌할 필요가 있다”면서 “범죄 수익 규모 등을 고려하면 피고인의 책임이 가볍다고 볼 수 없어 이에 상응하는 처벌이 불가피하다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>신촌서 취업박람회 주최한 ‘SKY대’ 베트남 유학생들 “한국기업들, 우릴 주목해주세요!”</title>
       <link>https://www.chosun.com/international/2024/05/26/7J23Z44AE5FUDNQWT3XXEPWFTQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/international/2024/05/26/7J23Z44AE5FUDNQWT3XXEPWFTQ/</guid>
@@ -912,54 +948,6 @@
 &lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	 33년생 송사보다 적당한 타협이 상책. 45년생 모임이나 회식은 가급적 참석하라. 57년생 가짜 뉴스에 현혹되지 않도록. 69년생 기회 왔으니 놓치지 마라. 81년생 운기 살아나니 망설이지 말고 나서라. 93년생 베푼 만큼 보답 있는 시기.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
 &lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	 34년생 산중 농사로 고라니 좋은 일 했구나. 46년생 전략은 상대에 따라 달라야. 58년생 늙은 말은 먼 길 적합하지 않다. 70년생 남모른 선행에 큰 보답 돌아온다. 82년생 내 의견만 내세우면 일 망친다. 94년생 진퇴 결정 당장 서두를 것 없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
 &lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	 35년생 활발한 활동 기대되는 시기. 47년생 제일 강한 치아가 제일 먼저 고장. 59년생 이쯤에서 중간 점검 필요. 71년생 자기 말에 책임지는 자세가 성과 낸다. 83년생 선입견 갖고 대처하면 후회막급. 95년생 원인 찾아야 해결책을 찾지.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘대전 41억 전세사기’ 임대업자·브로커, 항소심서 감형</title>
-      <link>https://www.chosun.com/national/regional/2024/05/24/EZD75PPUWFH75HNS6TI5E2RQVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/05/24/EZD75PPUWFH75HNS6TI5E2RQVI/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 08:00:21 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/OEP23TEMYVH2ZDUPWL7E4R6IAA.jpg?width=616&amp;height=536&amp;auth=7e7e3b7d1549a147383096ac8ff2445edbdb7f1b34e1ab55eacd98a4e479b99b&amp;smart=true" alt="법원 로고. /조선DB" height="536" width="616"/&gt;&lt;p&gt;임대보증금을 반환할 능력이 없었음에도 대전에서 사회 초년생 등을 상대로 41억원대 전세사기를 벌인 일당이 항소심에서 감형됐다.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울 도심서 시속 200㎞ 레이싱한 포르쉐·벤츠·BMW…  26명 검거 </title>
-      <link>https://www.chosun.com/national/national_general/2024/05/24/PFRU4YGTTREULCI2SBB3CRPPEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/24/PFRU4YGTTREULCI2SBB3CRPPEA/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 07:59:30 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/YP3R4D575RAPTJ5P3DCPHVES6M.gif?width=703&amp;height=402&amp;auth=ad63a25aa322b6d80c6f696b72529ecbfe3e7daabb670de337b510bc9ec585f0&amp;smart=true" alt="" height="402" width="703"/&gt;&lt;p&gt;늦은 밤 서울 시내 도로에서 외제차 등을 타고 최대 시속 200㎞의 속도로 난폭운전을 한 운전자들이 경찰에 무더기로 검거됐다.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>박서준, 10세 연하 외국 모델과 열애설... 소속사 “사생활 확인 어려워”</title>
-      <link>https://www.chosun.com/national/people/2024/05/24/CAMYZXSTKBHR5EJT2R5NR53SPY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/05/24/CAMYZXSTKBHR5EJT2R5NR53SPY/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 07:49:51 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/UOWSYVEB2FBZRARBWLCLR66WXI.jpg?width=843&amp;height=548&amp;auth=385b2b38cae2cf1219bee324cff6a6664d34091e6d10f947e31ac9aa47da2262&amp;smart=true" alt="배우 박서준(왼쪽), 모델 로렌 차이. /인스타그램" height="548" width="843"/&gt;&lt;p&gt;배우 박서준(36)이 중국계 미국인 모델 겸 배우 로렌 차이(26)와 열애설에 휩싸인 가운데, 박서준 소속사 측은 열애설에 대해 “사생활은 확인이 어렵다”라는 입장을 밝혔다.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세]  5월 25일 토요일 (음력 4월 18일 己丑)</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/24/KWEDRDKITZBDPLXQEVHBVHIG3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/24/KWEDRDKITZBDPLXQEVHBVHIG3U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 나무에 돈 꽃 피는구나. 48년생 즐거운 소식 듣게 될 듯. 60년생 주관적으로 판단 말고 객관적으로 바라보도록. 72년생 동업하려면 뱀띠가 적임자. 84년생 돈이 유일한 목적이면 부질없는 것. 96년생 집착이 도리어 손실 초래.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 동네 의원 용한 줄 모른다. 49년생 목표 설정 분명해야. 61년생 주변 협조와 도움 기대해도 좋을 듯. 73년생 어려운 이 도우면 하늘도 나를 도운다. 85년생 부지런한 범재가 게으른 천재보다 낫다. 97년생 빠르다고 다 좋은 게 아니다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 구설 있다면 잘되고 있는 것. 50년생 육친 관계에 실금 생길 수도. 62년생 흰색과 숫자 4, 9 행운 부른다. 74년생 인장(印章)을 깊이 감추라. 86년생 이왕 발을 담갔다면 조금 더 기다리도록. 98년생 주변 사람 실수로 뜻밖에 기회가.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 쉬운 일이라도 기본 충실해야. 39년생 가식은 언젠가 드러나게 마련. 51년생 심기일전으로 내일을 준비하도록. 63년생 강하면 부러지기 쉬우니 유연성 발휘해야. 75년생 손재 있다면 오히려 전화위복. 87년생 안락함이 무료함으로 변하는구나.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 뇌, 심혈관 질환 주의. 40년생 어딜 가든 자중자애 필요. 52년생 바쁘게 움직여야 운기 살아난다. 64년생 제때의 한 수는 때늦은 백 수보다 낫다. 76년생 하찮게 여겼던 인연이 은인(恩人)일 수도. 88년생 꼭 해야 할 일부터 먼저 하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 분수에 넘치는 재물은 탐하지 마라. 41년생 자비와 선의가 그 어느 때보다 필요한 시기. 53년생 일에는 때가 있으니 너무 조급해 마라. 65년생 자만심은 버리고 자존심은 지켜라. 77년생 며느리도 참고 견디면 시어머니 된다. 89년생 변화는 생각 아닌 행동에서.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 매사에 일희일비하지 마라. 42년생 단점으로 장점까지 무시하면 내 손해. 54년생 배우자 또는 이성으로 인한 근심. 66년생 감사의 삶은 늘 행복하다. 78년생 고생 끝에 낙이 온다. 90년생 지난 일은 재론할 것 없다. 앞으로의 일만 생각하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 열 사람 백 말을 하여도 들을 이 짐작. 43년생 예상되면 대비도 해야. 55년생 심사 편안히 갖도록. 67년생 뒷간 갈 적 올 적 맘 다르다더니. 79년생 북쪽은 귀인이 오는 길목. 91년생 친구와의 탁주 한 사발에 근심 눈 녹듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 말보다 실천이 중요. 44년생 이리 피하자고 사자 굴에 들어갈까. 56년생 성공은 위험 무릅쓸 때 오는 것. 68년생 정성으로 구하면 얻을 수 있다. 80년생 도움 필요하다면 적극 요청해 봐도 좋을 듯. 92년생 인연 만나나 오래가진 않으리.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 남의 단점을 찾으려 마라. 45년생 첫걸음은 언제나 서툴고 두려운 법. 57년생 동쪽에서 사기(邪氣) 감도니 주의 필요. 69년생 방둥이 부러진 소 사돈 아니면 못 팔아먹는다. 81년생 소기 성과는 무난히 달성할 듯. 93년생 큰 기대는 실망도 크다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 큰소리는 오해에서 나는 것. 46년생 소소한 일에 얽매이지 않도록 마음을 넓게. 58년생 굴러온 돌이 박힌 돌 뺀다. 70년생 말하면 백 냥 입 다물면 천 냥. 82년생 얻고도 잃는 게 세상사. 94년생 가까운 사이일수록 경계 늦추지 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 처음 생각대로 하는 게 최상의 선택. 47년생 불필요한 건 과감히 정리하라. 59년생 밝은 달이 구름 속으로 드는구나. 71년생 세상은 누구 한 사람의 것 아니다. 83년생 토끼 쫓다 사슴 놓칠라. 95년생 그 누구도 아닌 날 위하여 살라.	&lt;br&gt;
 &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
     </item>
   </channel>
