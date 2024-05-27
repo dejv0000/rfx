@@ -13,6 +13,198 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“버스 떠났습니다” 운전대 놓은 기사 4500명...전국서 구인난</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/05/28/G735VBXKRBACBGO2Y65OXJIXVI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/05/28/G735VBXKRBACBGO2Y65OXJIXVI/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 May 2024 20:04:00 +0000</pubDate>
+      <content:encoded>부산시와 지역 버스운송사업조합은 지난 16일 부산시청에서 버스 기사 채용 설명회를 열었다. 버스 기사를 하려는 사람이 워낙 적다 보니 공개 구인에 나선 것이다. 부산시 차원의 버스 기사 채용 설명회는 처음이라고 한다. 그동안 부산 일대에서 매년 1000명가량 버스 기사를 선발하는 데 문제가 없었다. 과거 버스 기사는 ‘괜찮은 일자리’로 꼽혔기 때문이다. 지역에 따라 차이가 있지만 5년 차 정도 되면 월 400만~500만원가량 급여를 받을 수 있고 비교적 안정적 일자리로 인식됐다. 부산의 한 버스 업체 관계자는 “요즘에는 버스 기사 지원자 수가 채용 인원의 2배수도 안 돼 적합한 사람을 찾는 데 어려움을 겪고 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6MD7ZSFUABGDTPGBYOE2EXI52Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 같은 버스 기사 감소는 부산만의 문제가 아니다. 27일 전국버스운송사업조합연합회에 따르면 전국 버스 운전자 수는 2019년 8만9980명에서 지난해 8만5417명으로 줄었다. 4년 새 4500명 넘게 줄어든 것이다. 버스는 노선이 정해져 있기 때문에 기사 수를 일정하게 유지하는 게 필수다. 한 업계 관계자는 “버스 기사가 매년 1000명 이상씩 줄어드는 건 이미 ‘경고등’이 들어온 걸로 봐야 한다”고 했다. 하루 2교대가 가능하려면 버스 수(지난해 4만4284대)에 비해 기사 수가 최소 2배는 있어야 하지만 이조차 충족하지 못하고 있다는 설명이다.&lt;br&gt;&lt;br&gt;버스 기사가 줄어드는 건 일의 강도는 높아지고 수입은 기대에 못 미치기 때문이다. 버스 기사들은 2018년 근로기준법 개정으로 근로 시간이 단축되며 수입이 줄기 시작했다. 이전엔 연장 근로로 인한 초과 수당이 수입에 큰 부분을 차지했는데 대폭 삭감이 불가피해졌다. 여기에 2020년부터 본격화된 코로나 사태로 승객이 줄어들며 직격탄을 맞았다. 물가는 큰 폭으로 오르는데 임금 동결이 이어졌다. 일부 노선은 중단됐다. 일부 기사는 생활고를 호소하며 배달업 등으로 빠져나갔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7KJTCJTFFVDRBG4VY6BFWR6UJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 16일 부산 연제구 부산시청에서 열린 '버스 승무원(기사) 채용설명회'에서 구직자들이 상담하고 있다. 부산의 버스 업체 관계자는 "최근 버스 기사 지원자 수가 채용 인원의 2배수에도 못 미쳐 구인난을 겪고 있다"고 했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;악화하는 근무 여건 역시 버스 기사들을 떠나게 하고 있다. 경기도를 비롯한 지역에선 부족한 버스 기사 인력 등을 이유로 아직도 격일제 근무를 하는 경우가 많다. 온종일 일하고 다음 날 쉬는 방식인데, 들쭉날쭉한 근무 탓에 근무하는 날은 잠을 3~4시간 자는 경우가 많다고 한다. 한 버스 기사는 “운행 속도와 같은 운전 성향과 응대가 불친절하지 않은지 등 승객들의 요구도 민원도 많다”며 “승객 안전사고에도 항상 신경 써야 해 시내버스나 마을버스를 꺼리는 기사가 많다”고 했다.&lt;br&gt;&lt;br&gt;업체들 역시 이익 감소로 고심하고 있다. 시내버스는 손실을 지자체가 보전해주는 ‘준공영제’로 운영돼 그나마 상황이 낫지만, 시외·고속버스나 마을버스는 손실 감소를 피할 길이 없다. 버스운송사업조합연합회에 따르면 2020~2022년 시외·고속버스 업체 77곳이 입은 영업손실은 5302억원에 달한다. 기사 수가 줄면 버스가 운행을 제대로 할 수 없고, 수익이 줄어 노선이 사라지는 악순환이 이어진다. 특히 지방에서는 기사를 못 구해 정년이 지난 이를 재고용하거나, 업체 사장이 운전대를 잡는 경우도 있다고 한다.&lt;br&gt;&lt;br&gt;최근 운행하고 있는 ‘승합차 마을버스’는 버스 업계가 처한 재정적 어려움을 상징적으로 보여준다. 서울 중랑구 중화동~동대문구 이문동 운행 노선에는 올 초부터 현대차가 만든 ‘스타리아’ 버스가 다니기 시작했다. 이 버스에는 하차 벨이 없어 운전 기사에게 직접 하차 지점을 말해야 한다. 안내 방송도 없다. 서울 성북구 정릉동에도 스타렉스 버스가 다닌다. 노후 버스를 교체하는 시기에 비용을 줄이기 위해 비교적 싼 차량을 선택한 것이다. 그나마 상황이 낫다는 서울 지역 마을버스 업체들도 지난해 기준 697억원 적자를 기록했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/7KJTCJTFFVDRBG4VY6BFWR6UJ4.jpg?width=960&amp;height=590&amp;auth=cb55e9b78b9eb23c9b68834ad258f5694cdc38bbb54f814ec4d4ac9b067f6e1c&amp;smart=true" type="image/jpeg" height="590" width="960">
+        <media:description type="plain">지난 16일 부산 연제구 부산시청에서 열린 '버스 승무원(기사) 채용설명회'에서 구직자들이 상담하고 있다. 부산의 버스 업체 관계자는 "최근 버스 기사 지원자 수가 채용 인원의 2배수에도 못 미쳐 구인난을 겪고 있다"고 했다. /뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>외과 교수들 “소송 두려워 수술 망설여져”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/05/28/FF6CRHYO2BB57MZEX23JRUXSUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/05/28/FF6CRHYO2BB57MZEX23JRUXSUA/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 May 2024 15:45:00 +0000</pubDate>
+      <content:encoded>“대학 병원 외과 교수도 의료 사고 소송에 대한 부담으로 응급 환자를 수술할지 말지 망설일 때가 있어요.”&lt;br&gt;&lt;br&gt;지난 25일 분당서울대병원 대강당에서 열린 대한외과학회 대토론회에 모인 대한민국 최고의 ‘칼잡이’들 사이에서 나온 얘기다. 이제까지 최소 수백에서 수천 명씩 목숨을 살렸다는 대장항문외과, 유방외과, 간담췌이식혈관외과 등 전문 분야 교수들이다. 이들은 “소송에 대한 과도한 부담이 외과를 기피하게 만드는 한 요인이 되고 있다”며 “불가항력에 가까운 의료 사고에 대한 대책 마련이 시급하다”고 했다.&lt;br&gt;&lt;br&gt;대한의사협회 의료정책연구소에 따르면, 의료 분쟁 조정 신청 접수 건 가운데 의료 행위별로 수술(45.9%)과 처치(20.8%)가 가장 높은 비율을 차지한다. 거의 매일 수술이 이어지는 외과 의사들이 의료 분쟁에 휘말릴 가능성도 높다는 뜻이다. 의협에 따르면, 한 해 외과 의사 50명 중 1명꼴로 의료 분쟁을 겪는다.&lt;br&gt;&lt;br&gt;이날 소송에 휘말리는 한 사례로 ‘장폐색’ 수술이 화제에 올랐다. 장폐색은 소장이나 대장 일부가 막혀 음식물 등이 빠져나가지 못하는 질환으로 즉시 수술하지 않으면 사망할 수 있다. 한 참석자는 “몇 년 전 장폐색 수술을 받은 환자가 장벽에 구멍이 생기자 ‘수술이 늦었다’며 담당 의사를 과실 치상으로 소송을 건 사례가 있었지만 의사가 최선을 다한 것으로 알고 있다”며 “이후 의료 현장에서는 장폐색 수술에 대해 (수술 여부 등을) 망설이는 분위기도 생겼다고 한다”고 했다.&lt;br&gt;&lt;br&gt;외과학회 정책위 간사를 맡고 있는 정윤빈 세브란스병원 교수는 발제를 통해 “정부가 도입하기로 한 ‘필수 의료 정책 패키지’에 담긴 의료 사고 부담 완화 대책 적용 범위를 외과에도 확대할 필요가 있다”고 제안했다. 현재 분만 사고와 소아 진료 등에 대해서는 의료 사고 보상 지원을 강화하고 반의사불벌죄로 간주해 의사들의 형사처벌 부담을 덜어주는 정책이 추진되고 있는데, 여기에 외과 수술도 추가해야 한다는 주장이다. 김익용 원주세브란스기독병원 교수는 “최선을 다해 수술했고 불가항력에 가까운 사고였다면 의사를 처벌하는 것이 능사인지 검토와 대안 마련이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>10만원에 사직서 대신 내드려요</title>
+      <link>https://www.chosun.com/national/labor/2024/05/28/BMW636PSYVFDLE74263LIOCG6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/05/28/BMW636PSYVFDLE74263LIOCG6U/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>최근 노무 업계에 ‘퇴사 대행 서비스’가 새 먹거리로 등장했다.</description>
+      <pubDate>Mon, 27 May 2024 20:06:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YW6TDCKWKZAHFJGPCCOBPCYKTQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 노무 업계에 ‘퇴사 대행 서비스’가 새 먹거리로 등장했다. 노무사들이 퇴사를 돕는 업무를 하는 데서 더 나아가 아예 퇴사만 전문적으로 다루는 법인까지 생겨나는 것이다. 퇴사 대행은 퇴사자가 사직 의사 통보 등 퇴사 관련 절차를 대신 진행해 달라고 업체에 의뢰하는 것을 말한다.&lt;br&gt;&lt;br&gt;최근 퇴사 대행 서비스를 이용해 일을 그만뒀다는 임모(34)씨는 “회사에서 그만두면 안 된다고 만류해 수개월간 퇴사를 못하다 대행 업체를 통해 사표를 냈다”고 했다. 기자는 관련 세부 절차를 알아보기 위해 서울에 있는 한 퇴사 전문 대행 업체에 문의했다. 우선 10만원의 비용을 내면 이메일로 위임장과 사직서 양식이 오는데 이것만 작성하면 된다. 이후엔 대행 업체가 퇴직금과 연차수당 등을 계산해 퇴직 시 받아야 할 임금 등을 정산해주고 회사와 연락해 사표까지 대신 내준다. 퇴사 후 실업급여 수령을 위해 필요한 서류나 방법 등도 알려 준다. 다만 임금 체불 등 복잡한 문제가 있을 경우엔 별도의 수수료가 추가된다.&lt;br&gt;&lt;br&gt;퇴사 대행 서비스 이용자는 대부분 2030세대지만 40대 이상도 늘고 있다. 이 대행 업체의 경우 전체 이용자의 47%가 30대, 34%가 20대이고 40대와 50대도 각각 11%, 5%라고 한다. 업체 관계자는 “비대면 업무에 익숙한 최근 환경도 대행 서비스 수요를 늘리고 있다”고 했다.&lt;br&gt;&lt;br&gt;한편 고용 시장에서는 직원들의 잦은 퇴사로 인해 경력직 채용이 늘어나는 현상도 나타나고 있다. 고용노동부가 지난해 500대 기업 인사 담당자를 대상으로 설문조사한 결과, 대기업 신규 입사자의 16.1%가 1년 내 퇴사하는 것으로 나타났다. 입사 6명 중 1명은 1년 새 퇴사한다는 것이다. 기업들도 교육에 공을 들여야 하는 신입보다는 당장 투입할 수 있는 경력직을 선호한다는 분석이다. 실제 전체 채용에서 신입이 차지하는 비율은 2019년 47%에서 지난해 40.3%로 줄었고, 경력직이 차지하는 비율은 같은 기간 41.4%에서 46.1%로 올랐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 문다혜 태국 정착 도운 교민 소환조사</title>
+      <link>https://www.chosun.com/national/court_law/2024/05/28/2IIC77WWJZE3ZLXC5XIRFFD7ZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/28/2IIC77WWJZE3ZLXC5XIRFFD7ZA/</guid>
+      <dc:creator>양은경 기자, 이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 May 2024 15:45:00 +0000</pubDate>
+      <content:encoded>문재인 전 대통령의 전 사위 서모씨의 ‘타이이스타젯 특혜 채용 의혹’을 수사 중인 검찰이 문 전 대통령의 딸 다혜씨 가족의 태국 정착을 도운 현지 부동산 중개인을 소환 조사한 사실이 뒤늦게 알려졌다. 검찰은 이상직 전 더불어민주당 의원이 중소기업진흥공단(현 중소벤처기업진흥공단·중진공) 이사장 시절, 중진공 직원이 이 중개인을 다혜씨 가족에게 소개한 정황을 잡았다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6W4FBVGYE5AORDGT4F7H3D4K2Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;문재인 더불어민주당 대선후보가 8일 오후 서울 광화문광장에서 진행된 제19대 대통령 선거 마지막 유세에서 딸 문다혜 씨와 손자로부터 카네이션을 선물받고 기념촬영을 하고 있다. 2017.5.8/뉴스1 ⓒ News1 허경 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 본지 취재를 종합하면, 전주지검 형사3부(부장 이승학)는 최근 태국 현지에서 부동산 중개업을 하는 A씨를 소환해 조사했다. 이 과정에서 A씨의 휴대전화를 압수하고, 한국 국적인 A씨를 출국 금지했다고 한다. 최근 출국 금지가 풀려 A씨는 태국으로 돌아간 것으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰은 중진공 동남아센터 직원이 다혜씨 가족의 태국 정착을 위해 A씨를 소개시켜준 정황을 포착, 이번 사건의 중요한 단서로 보고 있다. 이 전 의원은 2018년 3월 중진공 이사장으로 임명됐다. 이때가 문 전 대통령의 전 사위 서씨가 게임회사를 그만둔 시점이다. 그해 6~7월 다혜씨 가족은 태국으로 이주했고, 이때 중진공 직원이 A씨를 소개해 태국 정착을 도왔다는 것이다.&lt;br&gt;&lt;br&gt;검찰은 그동안 이 전 의원이 중진공 이사장에 임명된 대가로 서씨를 특혜 채용해줬다고 보고 관련 수사를 진행해 왔다. A씨를 통해 다혜씨 가족을 지원했다는 것은 이런 의혹을 뒷받침하는 하나의 증거로 보고 있다.&lt;br&gt;&lt;br&gt;한편, 검찰은 다혜씨가 청와대 경호처 직원을 통해 국내로 들여온 자금이 6600여 만원에 이르는 것으로 파악하고, 이 자금의 출처를 쫓고 있다. 경호처 직원은 다혜씨로부터 한국 돈과 태국 돈(밧화) 등 수차례에 걸쳐 6600여 만원을 받아 자신의 계좌에 넣었다가 국내에서 출금했다고 한다. 이 돈은 2019년 5월 다혜씨가 서울 양평동 다가구주택을 매입할 때 일부 쓰인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;전 남편 서씨는 2018년 7월 이 전 의원이 실소유주로 있는 타이이스타젯 전무이사로 취업해 매월 임금 800만원과 집 렌트비 350만원가량을 회사로부터 받았다고 한다. 검찰 관계자는 “남편 월급의 일부를 보냈으면 굳이 경호처 직원의 계좌를 이용했을 가능성이 없고, 자금 규모도 월급을 모아서 보내기에는 너무 큰 금액”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이대 식품영양학과 1회 졸업생 최봉순씨, 모교에 1억원 기부</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/28/NGOTMQLLXREO3PMQZWBMIXZYQU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/NGOTMQLLXREO3PMQZWBMIXZYQU/</guid>
+      <description/>
+      <pubDate>Mon, 27 May 2024 15:35:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CY47Y3A45D7TN6S64LZEIBA4A.jpg"&gt;&lt;br&gt;&lt;br&gt;이화여대 식품영양학과 제1회 졸업생 최봉순(사진·78)씨가 지난 16일 이대에 장학금 1억원을 기부했다고 이화여대가 27일 밝혔다. 최씨는 1969년 이대를 졸업, 대구가톨릭대 식품영양학과 교수로 35년간 일했다. 최씨는 후배들의 지속 가능한 학업을 지원하고자 이화여대에 장학금을 기부하기로 결심했다고 밝혔다. 이 기부금은 ‘최봉순 장학금’으로 명명, 식품영양학과 대학원생들에게 지급될 예정이다. 최씨는 “60여년 전 국내에 식품영양학을 선구적으로 도입한 모교에 자부심을 느끼며 살았다”며 “이 마음을 장학금으로 돌려줄 수 있어 기쁘다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 돌려차기 男 “탈옥 후 죽여버리겠다”…법정서 나온 충격 증언</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/28/6H7YHTIW4ZCXRGGXAY7TB2RPPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/6H7YHTIW4ZCXRGGXAY7TB2RPPU/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 May 2024 15:54:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2DWKS3AXUW5TG5LCSPOZGK5TBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 5월 22일 새벽 부산 부산진구 서면 오피스텔 1층 복도에서 발생한 '부산 돌려차기' 사건의 한 장면. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;혼자 귀가하던 20대 여성을 발차기로 쓰러트린 뒤 폭행한 ‘부산 돌려차기 사건’의 가해자 A(30대)씨가 구치소에서 탈옥 후 피해자에게 보복하겠다고 했다는 증언이 나왔다.&lt;br&gt;&lt;br&gt;27일 오후 부산지법 서부지원 제1형사부(이진재 부장판사)는 보복 협박 혐의로 기소된 일명 부산 돌려차기 사건 가해자 A씨에 대한 공판 기일을 열었다.&lt;br&gt;&lt;br&gt;작년 초 A씨와 같은 구치소 수감실에 있었던 유튜버 B씨는 이날 화상으로 증인 신문에 나섰다. 그는 “구치소 수감 중에 외부 병원을 다녀온 일이 있었는데 그때마다 A씨가 병원 구조를 물어보고 출소하면 병원에 열쇠가 꼽힌 오토바이를 준비해달라고 했다”며 “수시로 피해자 빌라 이름을 말하며 탈옥해 찾아가 죽여버린다고 말했다”고 증언했다.&lt;br&gt;&lt;br&gt;이어 “A씨가 피해자 때문에 1심에서 상해 사건이 아닌 살인미수 혐의로 기소돼 1심에서 징역 12년이나 받았다고 말하며 굉장히 억울해했다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 A씨는 자신이 언론플레이를 당한 피해자라고 했다고 한다. B씨는 “A씨가 피해자의 언론플레이 때문에 자신이 중형을 선고받았는데 유튜브 방송으로 억울함을 풀어달라고 했다”며 “A씨가 피해자가 이렇게 언론플레이하다가는 언제 어디서 죽을지 모른다고 말했다”고 주장했다. 이어 “A씨가 자신의 유튜브 방송을 이용해 피해자에게 심리적 압박을 줘 더는 사건이 공론화되지 못하게 할 목적으로 협박한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;B씨는 A씨의 수첩에 돌려차기 피해자뿐만 아니라 1심을 선고한 판사, 검사, 전 여자친구 등 보복 대상이 적혀 있었고 이를 찢어서 폐기했다고도 했다. 또 다른 증인 C씨도 같은 취지로 진술했다.&lt;br&gt;&lt;br&gt;A씨는 보복 협박 혐의를 부인했다. 그는 “자신과 사이가 좋지 않았던 동료 수감자들이 유튜브 수익을 위해 입을 맞추고 거짓된 진술을 해왔다”고 주장했다.&lt;br&gt;&lt;br&gt;이에 B씨는 “유튜브 구독자 때문이 아니라 어떻게든 형량을 줄이려고 하는 A씨가 제대로 처벌받고 피해자를 보호하고 싶은 마음에 구치소 내에 있었던 일을 유튜브 방송에서 말하게 됐다”고 설명했다.&lt;br&gt;&lt;br&gt;재판에 참석한 피해자는 취재진에 “검사와 판사 이름까지 종이에 적어놨다는 것은 나에 대한 보복이 아니라 국민을 향한 보복”이라며 “구치소 동료들에게 허세로 자신을 보복하겠고 말한 줄 알았는데 구체적으로 오토바이까지 준비해달라고 했다는 것에 놀랍다”고 말했다.&lt;br&gt;&lt;br&gt;‘부산 돌려차기’ 사건은 2022년 5월 22일 오전 5시께 부산진구 서면에서 A씨가 일면식도 없던 피해자를 10여분간 쫓아간 뒤 오피스텔 공동현관에서 무차별 폭행한 일이다. A씨는 당초 살인미수 혐의로 기소돼 1심에서 징역 12년을 선고받았다가 항소심에서 강간살인 미수가 적용돼 징역 20년으로 형이 무거워졌고 대법원에서 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[입에 착착 붙는 일본어] 풀 마라톤에 출전하다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2024/05/28/FPS4AU3YMBBAZGYXDTLYPAWERU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/05/28/FPS4AU3YMBBAZGYXDTLYPAWERU/</guid>
+      <description/>
+      <pubDate>Mon, 27 May 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3JHMIRBR6BBHRDUMGVHPGKJ2TU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] get in the way</title>
+      <link>https://www.chosun.com/national/nie/english/2024/05/28/FABSREOVOBBXRL3VY7FVFM64LA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/05/28/FABSREOVOBBXRL3VY7FVFM64LA/</guid>
+      <description/>
+      <pubDate>Mon, 27 May 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LOFWII7RCRC2LPSLZX5QEDD5ZA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디]  눈(시야)에 가득하다</title>
+      <link>https://www.chosun.com/national/nie/chinese/2024/05/28/KWJS65NJGFAYDOXRC25RPZMHKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/05/28/KWJS65NJGFAYDOXRC25RPZMHKE/</guid>
+      <description/>
+      <pubDate>Mon, 27 May 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EYYMSEAU7JB7PEPTSF5FMBPPWQ.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 낭설(浪說)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2024/05/28/C7T7EH2ZW5AXPLQUTQY52F22WE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/05/28/C7T7EH2ZW5AXPLQUTQY52F22WE/</guid>
+      <description/>
+      <pubDate>Mon, 27 May 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NUNPIMGP65A6RLIELP6BNTS5GA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2387] 알록달록 단어팔레트</title>
+      <link>https://www.chosun.com/national/nie/2024/05/28/F6RLZXI5PBH2RFBCUNKK5OFECQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/05/28/F6RLZXI5PBH2RFBCUNKK5OFECQ/</guid>
+      <description/>
+      <pubDate>Mon, 27 May 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/676O7ARY4VFQHJYYC44ELQP5BU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이젠 대형마트도 ‘새벽 배송’ 서초구, 영업시간 제한 완화</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/28/7F45SBQWMJGCXOJIWYSD3N6ZT4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/7F45SBQWMJGCXOJIWYSD3N6ZT4/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 May 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KMPKCBUKOSIUL5VEF56SG3JV3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이마트 직원들이 온라인상에서 고객이 주문한 물품을 배송 바구니에 담고 있다. 기사와 무관한 사진./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 7월부터 서울 서초구에서는 대형 마트도 쿠팡이나 마켓컬리 등 온라인 쇼핑몰처럼 ‘새벽 배송’을 할 수 있게 된다. 서초구가 전국 최초로 대형 마트의 영업 시간 제한 규제를 완화하기로 하면서다.&lt;br&gt;&lt;br&gt;서초구는 대형 마트와 기업형 수퍼마켓(SSM)의 영업 제한 시간을 기존 오전 0~8시(8시간)에서 오전 2~3시(1시간)로 바꾸는 내용의 행정 예고를 했다고 27일 밝혔다. 사실상 영업 시간 규제를 풀어 아침 일찍 주문한 상품을 받아볼 수 있는 새벽 배송을 허용하는 것이다.&lt;br&gt;&lt;br&gt;서초구 안에 있는 이마트 양재점, 롯데마트 서초점, 킴스클럽 강남점, 코스트코 양재점 등 대형 마트 4곳과 롯데슈퍼 등 기업형 수퍼마켓 33곳이 이번 조치의 영향을 받는다. 서초구는 “유통업상생발전협의회 개최, 고시 공고 등 절차를 거쳐 7월 중 영업 시간 완화 조치를 시행할 것”이라고 했다.&lt;br&gt;&lt;br&gt;현행 유통산업발전법은 지방자치단체장이 매월 이틀 대형 마트의 ‘의무 휴업일’을 지정하고, 영업 시간도 오전 0~10시 사이에서 제한할 수 있게 하고 있다. 영업 시간 이외에는 온라인 배송도 금지된다. 전통 시장과 소상공인을 보호한다는 취지로 제정된 법이지만 영업 시간에 제한이 없는 온라인 쇼핑몰과 비교해 대형 마트가 과도한 규제를 받고 있다는 지적이 나왔다. 소비자 민원도 많이 제기됐다.&lt;br&gt;&lt;br&gt;앞서 지난 1월 서초구는 서울시 최초로 대형 마트의 의무 휴업일을 일요일에서 평일로 바꿨다. 서초구 관계자는 “주민 편의가 향상되고 지역 경제도 활성화될 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>포천 접착제 공장서 화재… 1명 부상</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/28/CU5QZUHLCRF63GSIY3377TCZUQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/CU5QZUHLCRF63GSIY3377TCZUQ/</guid>
+      <description/>
+      <pubDate>Mon, 27 May 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PUSQIZKWVBB6XFIVOTLRTQ4BNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/경기북부소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 오전 경기 포천시 내촌면의 한 접착제 공장에서 불이 나 소방관들이 불을 끄는 모습. 불은 4시간여 만에 꺼졌지만 공장에 있던 40대 남성이 화상을 입어 병원으로 이송됐고 공장 건물 2동이 모두 탔다. 경찰은 정확한 화재 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[플라자] 국가인권위원회 ‘스토킹 범죄 피해자 구제·대응 체계 실태조사 결과 발표 및 정책 토론회’ 개최 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/05/28/4WRK5KGAZ5B3FA6WRIXUR6KOS4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/05/28/4WRK5KGAZ5B3FA6WRIXUR6KOS4/</guid>
+      <description/>
+      <pubDate>Mon, 27 May 2024 15:35:00 +0000</pubDate>
+      <content:encoded>▲국가인권위원회는 28일 오후 2시 서울 중구 바비엥2교육센터에서 ‘스토킹 범죄 피해자 구제·대응 체계 실태조사 결과 발표 및 정책 토론회’를 연다. 한민경 경찰대 행정학과 교수와 윤상연 경상국립대 심리학과 교수가 참여한다.&lt;br&gt;&lt;br&gt;▲고려대학교는 29일 오후 3시 30분 고려대 백주년기념삼성관에서 토머스 사전트 박사 초청 강연을 연다. 2011년 노벨경제학상 수상자인 사전트 박사는 ‘인공지능의 근원’이라는 주제로 학생들과 이야기를 나눌 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 성황제 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/05/28/JNQ7EKMIFFHUHICGPQLDW57KZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/05/28/JNQ7EKMIFFHUHICGPQLDW57KZY/</guid>
+      <description/>
+      <pubDate>Mon, 27 May 2024 15:35:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;성황제&lt;/b&gt; 별세, &lt;b&gt;송남철&lt;/b&gt; 前 조선AD 대표·&lt;b&gt;김인태&lt;/b&gt; 한화에스테이트 소장·&lt;b&gt;이봉우&lt;/b&gt; 형진이앤씨 부사장 장인상=27일4시 충남 예산 청담장례문화원, 발인 29일9시, (041)331-7000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이금주&lt;/b&gt; 별세, &lt;b&gt;최영남&lt;/b&gt; 태전그룹 태전약품판매 부사장 모친상=25일22시 전북 전주 효자장례타운, 발인 28일8시, (063)228-4441&lt;br&gt;&lt;br&gt;▲&lt;b&gt;임정이&lt;/b&gt; 별세, &lt;b&gt;조인형&lt;/b&gt; 정승건설 대표 아내상, &lt;b&gt;조정린&lt;/b&gt; TV조선 기자·&lt;b&gt;조승한&lt;/b&gt; 모친상, &lt;b&gt;권우상&lt;/b&gt; 법무법인 유한 서울센트럴 변호사 장모상=26일21시9분 서울대병원, 발인 29일9시, (02)2072-2010&lt;br&gt;&lt;br&gt;▲&lt;b&gt;최호순&lt;/b&gt; 별세, &lt;b&gt;정출도&lt;/b&gt; 前 동아일보 여론조사부장 아내상, &lt;b&gt;정소영&lt;/b&gt; 前 전자신문 기자 모친상, &lt;b&gt;박창덕&lt;/b&gt; 박창덕법무사사무소 대표 장모상, &lt;b&gt;김혜선&lt;/b&gt; 트리니엘성동본원 부원장 시모상, &lt;b&gt;정한나&lt;/b&gt; 현대모비스 사원 조모상=26일13시27분 고려대구로병원, 발인 28일10시, (070)4710-1822&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[인사] 기획재정부 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/05/28/C3EUBS2BGRGMNEANCRXR5QZVR4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/05/28/C3EUBS2BGRGMNEANCRXR5QZVR4/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 May 2024 15:35:00 +0000</pubDate>
+      <content:encoded>&lt;b&gt;▲기획재정부&lt;/b&gt;◇과장급▷경제협력기획과장 김동진&lt;br&gt;&lt;br&gt;&lt;b&gt;▲국토교통부&lt;/b&gt;◇과장급▷청년정책총괄팀장 조은혜▷도시정비지원과장 최병길▷건축문화경관과장 소성환▷공공주택추진단 공공택지기획과장 조현준▷공공주택추진단 도심주택공급총괄과장 이경호▷해외도시개발전략지원팀장 황세은&lt;br&gt;&lt;br&gt;&lt;b&gt;▲우주항공청&lt;/b&gt;◇실장급▷우주항공임무본부장 존 리▷차장 노경원◇국장급▷기획조정관 이재형◇과장급▷대변인 박순철(직무대리)▷운영지원과장 이효희▷인사과장 엄기철▷기획재정담당관 최진혁▷행정법무담당관 전인철▷국제협력담당관 정관우▷정보화담당관 정길태▷우주항공정책과장 김기석▷우주항공산업정책과장 정혜경▷국가위성운영센터 이상연▷우주환경센터장 나현준&lt;br&gt;&lt;br&gt;▲&lt;b&gt;행정안전부&lt;/b&gt;◇과장급 전보▷국제협력담당관 천영평▷안전조직과장 홍신애&lt;br&gt;&lt;br&gt;▲&lt;b&gt;법제처&lt;/b&gt;◇서기관 전보▷법제정책국 법령정비과 남수진&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한국해양과학기술원&lt;/b&gt;▷원장 이희승&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [재미있는 과학] 냄새나는 곁땀… 사춘기부터 활성화되는 땀샘서 나와요</title>
+      <link>https://www.chosun.com/national/nie/2024/05/28/FU72QLNNNFG3RKJYC7WMERPJ6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/05/28/FU72QLNNNFG3RKJYC7WMERPJ6U/</guid>
+      <dc:creator>김형자 과학칼럼니스트, 기획·구성=오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 May 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H5LOGIZQ3BA3RLU7AX63NT23GE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=유재일&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;땀&lt;br&gt;&lt;br&gt;이제 땀이 나는 계절, 여름이 다가오고 있어요. 날씨가 덥거나 운동할 때 우리 몸에서 땀이 나지요. 그렇다고 걱정할 필요는 없어요. 땀이 나는 현상은 자연스러운 인체 반응이에요. 몸의 열을 발산시키고, 체온을 조절하고, 노폐물을 내보내는 역할을 하거든요. 오늘은 땀에 대해 알아볼게요.&lt;br&gt;&lt;br&gt;&lt;b&gt;땀이 나는 원인&lt;/b&gt;&lt;br&gt;&lt;br&gt;사람은 체온을 36.5도로 항상 일정하게 유지하는 항온동물이에요. 그래서 체온이 높아지면 이를 조절하기 위해 땀샘에서 땀을 내보내요. 땀이 피부의 열을 흡수해 증발하기 때문에 체온을 낮출 수 있거든요. 소독약을 팔에 바르면 액체인 알코올이 기체로 증발하면서 열을 빼앗아가 시원해지는 것과 같은 원리예요.&lt;br&gt;&lt;br&gt;피부 밑(진피층)에는 200만~400만개의 땀샘이 있어요. 특히 손바닥과 발바닥에 많이 분포돼 있습니다. 땀은 뇌와 자율신경에 의해 조절돼요. 체온이 37도보다 높아지면 뇌에서 이를 감지하고 땀을 내보내라는 명령을 내립니다. 그러면 자율신경계의 교감신경이 활성화돼 땀샘이 자극되고, 땀샘에 고여 있는 땀이 분비돼요. 교감신경이 비정상적으로 과도하게 활성화되면 땀이 지나치게 많이 분비되는 다한증이 생깁니다. 자율신경계에는 부교감신경이라는 것도 있는데요, 부교감신경은 교감신경과 반대로 땀을 억제하는 역할을 한대요.&lt;br&gt;&lt;br&gt;땀의 다른 기능이 하나 더 있습니다. 바로 몸속 노폐물을 내보내는 청소부 역할을 한다는 건데요. 땀샘 주변은 모세혈관이 그물처럼 둘러싸고 있어요. 모세혈관의 혈액에서 걸러진 노폐물과 물이 땀샘으로 보내져요. 이 때문에 땀을 흘리면 노폐물도 함께 몸 밖으로 나오게 됩니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;에크린샘과 아포크린샘&lt;/b&gt;&lt;br&gt;&lt;br&gt;땀이 분비되는 땀샘에는 에크린샘과 아포크린샘, 두 종류가 있어요. 에크린샘은 온몸에 분포해 있고, 체온 조절 역할을 하죠. 아기가 엄마 배에서 나올 때부터 기능을 하는 땀샘이랍니다. 사람이 평소에 흘리는 대부분의 땀은 에크린샘에서 분비되는데요. 에크린샘에서 나오는 땀은 99%가 물이에요. 그래서 끈적임이 없고 냄새가 거의 나지 않죠.&lt;br&gt;&lt;br&gt;반면 아포크린샘은 겨드랑이와 눈꺼풀, 항문 주위, 유두 등에 소량 분포해요. 이 중에서도 겨드랑이에 아포크린샘의 약 95%가 분포해 있어요. 아포크린샘은 에크린샘과 달리, 사춘기가 돼 호르몬 작용이 왕성해지면 그때부터 활성화된다고 해요. 아포크린샘에서 분비되는 땀은 지방과 단백질, 당질 등이 들어가 있어 점도가 높은 것이 특징이에요. 지방 성분이 매우 많은 기름진 땀을 분비하기 때문에 흰 옷의 겨드랑이 부분이 누렇게 변색될 수 있어요.&lt;br&gt;&lt;br&gt;아포크린샘에서 분비된 땀 자체는 냄새가 나지 않아요. 하지만 피부에 있는 세균이 아포크린샘에서 나온 땀을 분해해 지방산과 암모니아를 만들어내기 때문에 특유의 이상한 냄새가 나는 거예요. 아포크린샘은 사람이 주로 스트레스를 받는 상황에 놓였을 때 땀을 분비한답니다. 그리고 아포크린샘은 에크린샘보다 더 크다고 해요.&lt;br&gt;&lt;br&gt;&lt;b&gt;정서적 자극에 반응하는 ‘감정적 땀’&lt;/b&gt;&lt;br&gt;&lt;br&gt;우리말 중에 ‘손에 땀을 쥐게 하다’ ‘식은땀이 나다’ ‘진땀을 뺐다’ 등 땀과 관련된 말들이 있습니다. 이때 땀은 날씨가 더울 때나 운동할 때, 체온을 조절하기 위해 나는 땀을 말하는 게 아니에요. 감정적인 변화로 인해 나는 땀을 의미한답니다. 실제로 땀은 감정의 영향을 받아서 나기도 해요. 예를 들어 중요한 면접을 앞두고 있거나 사랑하는 사람에게 고백을 할 때 손이 차갑고 축축해지는 것은 땀이 정서적 자극에 반응했기 때문이에요.&lt;br&gt;&lt;br&gt;몹시 놀라거나 흥분을 하면 우리 몸의 자율신경은 긴장 상태가 됩니다. 그러면 조건반사적으로 땀을 흘리게 돼요. 이때 흘리는 땀은 긴장감을 완화시켜 주거나 스트레스를 줄여주는 효과가 있대요. 날씨나 온도, 활동량과 관계없이 흐르는 땀이라고 해서 ‘감정적 땀’이라고도 합니다.&lt;br&gt;&lt;br&gt;한편 뜨겁거나 매운 음식을 먹을 때도 땀이 나죠. 미각에 의해 교감신경이 자극되고 순간적으로 체온이 높아지는 걸 해결하려고 땀샘이 열린대요. 특히 이때는 얼굴 신경이 자극되기 때문에 코와 이마 같은 얼굴 부위에서 땀이 많이 나요.&lt;br&gt;&lt;br&gt;&lt;b&gt;축구선수는 한 경기에서 4000mL 정도 흘려&lt;/b&gt;&lt;br&gt;&lt;br&gt;땀은 99%가 물로 이뤄져 있어요. 나머지는 염화나트륨(소금)과 젖산, 포도당 등으로 구성돼요. 나머지 구성 성분 중에서는 소금이 가장 많이 들어 있고, 다른 것들은 상대적으로 적습니다. 그래서 운동을 격하게 한 후에 땀이 마르면 피부에 하얗게 소금기가 끼는 거랍니다.&lt;br&gt;&lt;br&gt;그렇다면 사람이 하루에 흘리는 땀의 양은 얼마나 될까요? 신체 활동의 정도와 계절에 따라 다르지만, 보통 하루에 500~700mL의 땀을 흘린다고 해요. 오랜 시간 더운 환경에 있거나 강도 높은 운동을 할 경우 땀을 2000~3000mL 정도 흘린다고 합니다. 축구 선수는 한 경기에서 약 4000mL의 땀을, 마라톤 선수는 완주할 때까지 약 6000mL의 땀을 흘린대요.&lt;br&gt;&lt;br&gt;과학자들의 연구에 따르면 사람이 의식을 잃지 않고 최대한 흘릴 수 있는 땀의 양은 약 10L 정도라고 해요. 하지만 지나치게 많은 땀을 흘리면 쉽게 탈수 현상이 일어날 수 있기 때문에 수분 보충에 신경 써야 합니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [철학·인문학 이야기] “세계보다 자신을 정복한 사람 적어” 로마 황제도 강조한 절제와 인내의 힘</title>
+      <link>https://www.chosun.com/national/nie/2024/05/28/DWYNB6ARLJHARORJ6XZGJOTRP4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/05/28/DWYNB6ARLJHARORJ6XZGJOTRP4/</guid>
+      <dc:creator>안광복 중동고 철학 교사</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 May 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6UTGGPM2HZEDFBJT3FH7JRV5QY.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;라이언 홀리데이 지음 l 출판사 다산초당 l 가격 1만9800원&lt;/b&gt;&lt;br&gt;&lt;br&gt;발명왕 에디슨은 연구실에서 살다시피 했습니다. 에디슨은 “뭔가 일어날 때 당신이 연구실에 있었다면 그 일을 알아차렸다. 하지만 자리에 없었다면 그대는 찾아온 성공의 순간을 거머쥐지 못한다”고 말했죠. 성과를 내려면 반짝거리는 아이디어만큼이나 지루함을 견뎌낼 줄 아는 힘이 있어야 함을 일깨워 주는 충고입니다.&lt;br&gt;&lt;br&gt;훌륭한 삶을 살려면 절제와 인내가 중요합니다. ‘보바리 부인’을 쓴 프랑스 소설가 플로베르는 이렇게 말했다고 해요. “규칙적이고 질서 정연하게 살라. 그래야 격렬하고 독창적으로 일할 수 있다.” 운동선수는 매일 훈련합니다. 하기 싫은 날에도 근육과 마음을 한결같이 가꿔요. 그렇게 해야 경기에서 최고의 기량을 뽐낼 수 있으니까요.&lt;br&gt;&lt;br&gt;우리 일상도 이래야 하지 않을까요? 하기 싫어도 해야 할 일들이 있습니다. 적절한 운동, 건강한 식사, 건전한 취미 활동, 지식과 지혜를 넓히기 위한 공부 등등. 하지만 이것들을 꾸준히 하기가 어디 쉽던가요? 좋은 습관을 만들겠다고 결심하지만 얼마 되지 않아 스러지곤 했던 경험이 얼마나 많던지요.&lt;br&gt;&lt;br&gt;이런 경험이 있는 사람들에게 ‘절제 수업’은 깨우침을 줄 수 있는 책입니다. 지은이 라이언 홀리데이는 우리 시대의 스토아 철학자라고 할 만합니다. 스토아 철학은 로마제국 지도자들이 많이 따랐던 철학이에요. 스토아 철학자들은 금욕과 인내를 언제나 강조하지요. 저자는 이 책에서 스토아 철학의 이야기와 가르침을 거듭해서 들려줍니다. “세계를 정복한 사람보다 자신을 이겨낸 사람이 더 적다.” 로마 황제이자 스토아 학파의 철학자였던 마르쿠스 아우렐리우스의 말입니다. 아침에 일찍 일어나겠다는 결심, 다이어트를 하겠다는 자신과의 약속이 얼마나 빨리 무너졌는지 한번 생각해 보세요.&lt;br&gt;&lt;br&gt;그렇다고 좌절하거나 실망할 필요는 없어요. 저자는 이렇게 우리 마음을 달래줍니다. “재키 로빈슨조차 항상 재키 로빈슨이었던 건 아니다.” 재키 로빈슨은 인종 차별이 극심했던 1947년에 처음으로 메이저리그 야구 선수가 된 흑인이자 인권 운동가였어요. 이렇듯 위대한 사람도 한결같이 영웅 같은 모습으로 살지는 못했다는 뜻입니다. 바뀌겠다고 결심해도, 누구나 이를 어기며 스스로 무너지고, 실망하고 방황하는 과정을 계속 겪기 마련입니다.&lt;br&gt;&lt;br&gt;그래도 꾸준하게 욕망을 추스르며 절제를 통해 올곧게 살기 위한 노력을 해야 합니다. 이를 통해 우리 삶은 조금씩 나아지며 좋은 쪽으로 나아갈 수 있게 되기 때문입니다. “하루가 현명하고 도덕적인 행위로 가득하지 못하더라도 분노하거나 패배감에 빠지거나 낙심하지 말라. 실패했을 때는 다시 일어나라. 그리고 비록 불완전하지만 인간답게 행동하고 착수한 일에 전념하는 자신을 대견히 여겨라.” 앞서 소개한 마르쿠스 아우렐리우스가 한 말입니다.&lt;br&gt;&lt;br&gt;재산이 많고 지위가 높다고 해서 저절로 존경받는 사람이 되지는 못합니다. 나를 나답게, 자랑스럽게 만드는 것은 절제하고 인내하며 더 좋은 사람이 되려고 꾸준히 나아가는 과정이니까요. 절제를 실천한 수많은 이의 이야기를 읽으면서 자신의 몸과 마음을 잘 다스려 보면 어떨까요?&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [사소한 역사] 유네스코 문화유산 등재… 나폴레옹이 병사 주머니에 넣으려 긴 빵 만들었다는 얘기도</title>
+      <link>https://www.chosun.com/national/nie/2024/05/28/DAIVQLWDXBHMDMZNWJGHECXVRA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/05/28/DAIVQLWDXBHMDMZNWJGHECXVRA/</guid>
+      <dc:creator>황은하 상경중 역사 교사</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 May 2024 15:30:00 +0000</pubDate>
+      <content:encoded>프랑스의 대표적인 빵은 무엇일까요? 아마 길쭉한 모양의 바게트가 떠오를 것입니다. 미식의 나라로 유명한 프랑스에서 바게트는 우리의 쌀밥과 같은 주식으로 여겨지고 있어요. 프랑스에서는 연간 약 60억개의 바게트가 생산된다고 해요. 이처럼 꾸준한 사랑을 받는 바게트가 최근에는 우표의 주인공이 됐어요. 우표에는 프랑스 국기 색깔의 리본으로 묶인 바게트 그림이 그려져 있고, 손으로 문지르면 갓 구운 빵 냄새가 나는 것이 특징이라고 합니다. 우표에 바게트를 그려 넣을 만큼 프랑스인들의 바게트 사랑이 굉장한 것 같습니다. 바게트는 어떤 역사를 갖고 있을까요?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TE27VYT6WZAKHPRC623F2HZXUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제빵사가 갓 구운 바게트를 들고 있는 모습. /로이터 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프랑스 정부는 1993년 법을 만들어 바게트 품질을 관리하고 있어요. 법에 따르면 프랑스 전통 바게트는 밀가루, 물, 효모, 소금 등 네 재료만으로 만들어야 해요. 바게트의 겉면은 딱딱하다고 느껴질 정도로 바삭하지만 속은 굉장히 폭신하고 부드러워요. 바게트는 사선으로 썰어 수프에 찍어 먹거나, 샌드위치를 만들어 먹기도 하죠. 프랑스 정부는 바게트 제조법과 문화를 2018년에 국가 무형문화재로 등록했고, 2022년에는 유네스코 인류무형문화유산 등재에 성공했답니다.&lt;br&gt;&lt;br&gt;바게트의 기원에 대해서는 여러 추측이 있습니다. 먼저 행군하는 병사들이 바지 주머니에 빵을 넣고 걷기 편하도록 나폴레옹이 길쭉한 모양의 빵을 고안했는데, 이것이 바게트의 기원이라는 주장이 있어요. 또 1920년 제빵업자들이 밤 10시부터 새벽 4시까지 일을 못 하게 되면서 바게트가 만들어졌다는 이야기도 있습니다. 제빵사들은 사람들이 아침 식사할 때에 맞춰 빵을 구워내려고 밤샘 근무를 했었어요. 하지만 밤샘 근무를 할 수 없게 되자, 기존에 팔던 커다랗고 둥근 모양의 빵을 만들 수가 없었죠. 이 빵을 속까지 익히려면 새벽 4시 이전부터 일해야 했기 때문이죠. 그래서 제빵사들이 빵 굽는 시간을 단축하고자 빵의 모양을 가늘고 길게 만들었고, 이렇게 만든 빵이 막대기라는 뜻의 바게트로 불리게 됐다는 설명도 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GHZRZAYLDFBD7PG6PUXR2Y4JJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손으로 문지르면 빵냄새가 나는 바게트 우표예요. /라포스트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;베트남에도 바게트와 비슷한 모양의 빵이 있어요. 베트남에서 만들어 먹는 바게트 빵으로, ‘반미’라고 불려요. 주로 샌드위치를 만들어 먹을 때 쓰여요. 반미는 프랑스가 베트남을 식민 지배하던 시기에 프랑스 식문화의 영향을 받아 생긴 것으로 추정돼요. 베트남에서는 쌀이 주로 생산되기에, 베트남식 바게트는 밀가루와 쌀가루를 혼합해 만들어요. 반미는 베트남이 프랑스 식민지였던 시절을 상징하는 음식이지만, 현재는 베트남 사람들의 든든한 아침 식사이자 간식으로 사랑받고 있답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2024년 5월 28일</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/28/52TYNYNA3BBXPEUMX6IJ66F6GI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/52TYNYNA3BBXPEUMX6IJ66F6GI/</guid>
+      <description>전국 대체로 맑음</description>
+      <pubDate>Mon, 27 May 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N57CSZ2CMBCQNCA2VFZLD77AWE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[기자의 시각] 지역에 남지 않는 ‘지역 인재 의사’</title>
+      <link>https://www.chosun.com/opinion/journalist_view/2024/05/28/P62CGM7HC5ECBCKH7OXAMYC7KM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/opinion/journalist_view/2024/05/28/P62CGM7HC5ECBCKH7OXAMYC7KM/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 May 2024 15:04:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YAQVJXHFFKCMKLPOPBSP2KW4ZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주대 의대 학생들이 27일 오전 부결된 의대 증원 학칙 개정안을 재심의하는 교수평의회가 열리는 대학 본관 회의실 앞에서 증원에 반대하는 내용의 피켓을 들고 서 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 치르는 2025학년도 입시에선 전국 의대 정원이 3058명에서 4567명으로 약 1.5배로 늘어난다. 특히 비수도권 대학에선 해당 지역 출신 학생들을 선발하는 ‘지역 인재’ 전형으로만 2000명가량을 뽑는다. 이는 작년 선발 인원의 두 배. 의대 입학 티켓 한 장을 차지하기 위해 ‘초등 의대반’까지 보내는 한국에서, 천 명 단위로 의대 정원이 늘어나는 것은 최근 몇 년 동안의 입시 정책 중 가장 파격적인 변화다.&lt;br&gt;&lt;br&gt;지역 인재 전형이 큰 폭으로 늘어난 것은 만성적으로 의사가 부족한 지방의 의료 인력 확충을 위해서다. 해당 지역에서 나고 자란 학생이 졸업 후 지역에 남을 확률이 높다는 믿음에 근거한다. 실제 대한의사협회 자료에 따르면 지방에서 자란 의사의 절반 정도가 지방 병원에서 근무한다. 반면 수도권 출신 의사가 지방에서 일하는 경우는 10% 수준에 불과했다. 졸업과 동시에 수도권으로 돌아갈 학생보다, 성적이 조금 낮더라도 지역에 남을 사람을 뽑겠다는 것이 지역 인재 확대의 목적이다.&lt;br&gt;&lt;br&gt;지역 인재를 늘리는 것은 분명 지방 의료 환경에 도움이 될 것이다. 그러나 ‘수도권 쏠림’이라는 보다 근본적인 원인에 대한 대책 없이는 효과가 제한적일 수밖에 없다. 제2의 도시 부산에서도 의대 졸업생 3명 중 1명이 부산을 떠나 수도권 병원으로 간다. 부산 병원의 시설이 열악하거나, 취업할 곳이 없어서가 아니다. 한 부산대 의대생은 “수도권에서처럼 문화 생활을 할 수 없고, 이성을 만나기도 힘들어서”라고 말했다. 이미 많은 지역 인재들이 졸업도 전에 수도권으로 간다. 재작년에만 지방 소재 의대에서 약 140명이 자퇴를 했다. 대부분 수도권 의대로 ‘반수’를 노리는 학생들이다.&lt;br&gt;&lt;br&gt;일부 대학은 이번 증원 과정에서 한 발 더 나가 ‘지역의사제’를 주장하기도 했다. 장학금 혜택을 주고 졸업 후 몇 년 동안은 지역에 남아 근무하게 하는 방식이다. 하지만 이 역시 근본적인 해결책은 되지 못한다. 오히려 지방에 남는 의료진들을 ‘서울로 가지 못한 의사’로 낙인찍는 부작용도 생길 수 있다. 한 경남 지역 의사는 충분히 지역 병원에서 치료할 수 있는 병인데도 무작정 KTX를 타고 서울의 ‘빅5′로 향하는 환자들을 보며 박탈감을 느낀다고 했다. 이런 상황에서 지역 인재 숫자만을 늘리는 것은 밑 빠진 독에 더 많은 물을 부어 문제를 해결하겠다는 것과 다름없다.&lt;br&gt;&lt;br&gt;2009년 로스쿨 도입 후 변호사는 크게 늘어났지만 아직도 전국 곳곳엔 무변촌(無辯村)이 남아있다. 마찬가지로 지방에 의사가 부족한 것은 의료계의 문제가 아니라 수도권에 모든 것이 집중된 국가 차원의 문제다. 의사 뿐 아니라 우수 인재들이 지역에 정주할 수 있는 방안이 함께 마련되어야 한다. ‘국토 균형 발전’ 대책이 먼저였다면, 어쩌면 이토록 큰 진통을 겪어가며 의대 증원을 추진하지 않았어도 될지 모른다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/IZUTBSHYGBEBVLK6TU77V5XOJU.png?width=500&amp;height=500&amp;auth=041d77f8c976384f33bcbe37ce93bce3f1a07d6fc4d255efca4be960ef9e7e44&amp;smart=true" type="image/png" height="500" width="500"/>
+    </item>
+    <item>
+      <title>‘96년생’ 세븐틴 호시, 50억원 아파트 매수…유재석과 이웃사촌</title>
+      <link>https://www.chosun.com/national/people/2024/05/27/4KT2GJSM5ZAGFD6XWX7T3U6TK4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/05/27/4KT2GJSM5ZAGFD6XWX7T3U6TK4/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 May 2024 14:38:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/44DW25W5MBKZPA6YDSRKPZITX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세븐틴 호시(27)./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 ‘세븐틴’ 호시(27)가 50억원대 논현동 고급 아파트를 매수하면서 방송인 유재석(51)과 이웃 사촌이 됐다.&lt;br&gt;&lt;br&gt;27일 대법원 등기부등본에 따르면 호시는 작년 7월 서울 강남구 논현동 소재 브라이튼N40 전용 149㎡(45.07평) 1가구를 50억8600만원에 매입했다. 근저당권이 설정되지 않아 전액 현금으로 사들인 것으로 추정된다. 1996년생인 그는 브라이튼N40 시행사로부터 소유권 이전이 완료된 가구 소유주 중 최연소로 파악됐다.&lt;br&gt;&lt;br&gt;이곳은 140가구과 펜트하우스 8가구로 이뤄져 있다. 삼중 보안 시스템으로 사생활 보호가 가능하고, 단지 정문 앞에 GIA 국제학교와 유명 사립 초등학교가 있어 교육환경이 좋은 편인 것으로 알려져 있다. 또한 건물에 집사가 상주하며 방 청소, 세탁, 비즈니스 지원, 여행 예약, 홈 스타일링 등 맞춤형 호텔 서비스를 제공한다. 건축과 조경 디자인은 프랑스 출신의 세계적인 건축가 장 미셸 빌모트가 맡았다.&lt;br&gt;&lt;br&gt;해당 아파트는 유재석이 작년 9월 전용 199㎡(60.2평) 펜트하우스를 86억6570만원에 매수한 것으로 알려진 유명 신축 아파트다. 배우 한효주, 오연서, 방송인 이휘재, 그룹 ‘인피니트’ 멤버 겸 배우 엘(김명수) 등이 보유하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편, 호시는 2015년 13인조 그룹 세븐틴으로 데뷔했다. 세븐틴은 ‘손오공’ ‘레프트 &amp;amp; 라이트’(Left &amp;amp; Right) ‘박수’ ‘아주 NICE’ ‘울고 싶지 않아’ 의 히트곡을 갖고 있으며, 지난달 베스트 앨범 ‘세븐틴 이즈 라이트 히어’(17 IS RIGHT HERE)를 발매했다. 전날엔 일본 최대 규모 공연장인 닛산 스타디움에서 단돈 콘서트를 마쳤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>한국계 첫 美화폐 인물 부모 “딸, 하늘서 기뻐할 것”</title>
       <link>https://www.chosun.com/international/2024/04/20/CQBC52U4X5HYHAXVRT7MOYQ7ZI/</link>
       <guid isPermaLink="true">https://www.chosun.com/international/2024/04/20/CQBC52U4X5HYHAXVRT7MOYQ7ZI/</guid>
@@ -693,85 +885,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SY2JVYCBJBBYRNDXPZUEP2P4DA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“해외여행 가서 대마 한번, 귀국하면 처벌 받아요”</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/27/6MOV6BFER5CFXPN6WFJSUMN6OE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/27/6MOV6BFER5CFXPN6WFJSUMN6OE/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 01:11:01 +0000</pubDate>
-      <content:encoded>법무부는 해외여행 등을 이유로 출국한 국민이 마약 합법 국가에서 마약류를 이용하는 일이 없도록 휴가철을 앞두고 ‘해외 마약류 이용 방지 캠페인’을 실시한다고 27일 밝혔다. 이번 캠페인은 내달 1일부터 시작된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EKS5TRXJJ4EZPYO4EUH27UVKFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부,/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 대한민국 국민이 대마 합법 국가에서 대마 등 마약을 흡연·섭취하면 귀국했을 때 국내법에 의해 처벌될 수 있다는 내용을 담은 영상물과 포스터를 제작해 배포하고, 다음달 1일부터 인천국제공항 출국장, 공항 진입 고속도로 등의 옥외 광고물과 법무부 공식 SNS를 통해서도 공개할 계획이다.&lt;br&gt;&lt;br&gt;법무부는 대한민국 국민이 마약 합법국에서 대마 등 마약류를 흡연·섭취하면 형법 제3조에 규정된 ‘속인주의 원칙(국민을 중심으로 법을 적용하는 것)’에 따라 대한민국 형법이 적용돼 처벌받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RZH7TLZAJDDJVCJD4XBR6M5E2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부, '해외서 마약류 복용' 근절 캠페인 진행./법무부 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현행법에 따르면 대마를 흡연‧섭취할 경우 5년 이하의 징역 또는 5000만원 이하의 벌금을 받을 수 있다. 수출‧입을 목적으로 대마를 소지할 경우엔 무기 또는 5년 이상의 형에 처해질 수 있다.&lt;br&gt;&lt;br&gt;법무부는 “우리 국민이 자주 방문하는 국가 중 대마가 합법인 국가가 증가하면서 해당 국가에서는 누구나 대마 등 마약류 이용이 가능하다고 오인하는 사례가 발생하고 있다”며 “우리 국민이 대마 합법 국가에 방문해 마약류를 이용하면 귀국 후 국내법에 의해 무겁게 처벌된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2385] 칙칙폭폭 꼬리 잇기</title>
-      <link>https://www.chosun.com/national/nie/2024/05/24/HTOI4NT6VNEY3LANSYZGCPIFPI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/05/24/HTOI4NT6VNEY3LANSYZGCPIFPI/</guid>
-      <description/>
-      <pubDate>Thu, 23 May 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HPXVCSJZH5FEFAI44W4M7IIVUI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] contrary to ~</title>
-      <link>https://www.chosun.com/national/nie/english/2024/05/24/TSMEFHPPHVGODMMDGZXDLEFB5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/05/24/TSMEFHPPHVGODMMDGZXDLEFB5A/</guid>
-      <description/>
-      <pubDate>Thu, 23 May 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBXVKSIZ2JBJTGKWY2RA6ULIE4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 초연하다, 털어 버리다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/05/24/EEVADF5SFFAUXAH7QG3I33OMJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/05/24/EEVADF5SFFAUXAH7QG3I33OMJI/</guid>
-      <description/>
-      <pubDate>Thu, 23 May 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RRM3LQXQGVHZDOW4VXZK2X3O4I.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 행운을 빌다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/05/24/4UF5CKOGJVEXJBDA5ZY76PPWEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/05/24/4UF5CKOGJVEXJBDA5ZY76PPWEE/</guid>
-      <description/>
-      <pubDate>Thu, 23 May 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FH3JOACJFVDNNOIJMTAUHJOJWM.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘법적 혼인상태’ 차두리, 두 여성과 내연 문제로 고소전</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/27/2DSQMTXDTJFHPKQSGK2UCACLY4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/27/2DSQMTXDTJFHPKQSGK2UCACLY4/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 00:36:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KSZJ3ADEDVOTPOCJARN2YI3ZEY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt; 2023 아시아축구연맹(AFC) 카타르 아시안컵에 출전 중인 대한민국 축구대표팀 차두리 코치가 카타르 도하 알 에글라 트레이닝 센터에서 훈련을 지시하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;축구 국가대표 선수와 코치를 지낸 차두리(45)가 법적 혼인상태에서 내연 문제로 고소전에 휘말린 것으로 알려졌다.&lt;br&gt;&lt;br&gt;27일 CBS노컷뉴스에 따르면, 차두리는 최근 서울 송파경찰서에 여성 A씨를 명예훼손과 스토킹 혐의 등으로 고소했다. 차두리는 고소장에서 A씨에 대해 “몇 차례 만남을 가진 사이”라면서 “A씨가 사생활 폭로 등으로 명예를 훼손했다”고 주장했다.&lt;br&gt;&lt;br&gt;차두리와 연인 관계라고 밝힌 여성 B씨도 A씨를 명예훼손 혐의로 용인서부경찰서에 고소했다. B씨는 고소장에서 “A씨가 소셜미디어에 사진과 게시물을 올리는 방식으로 자신을 스토킹하고 명예훼손했다”고 적시한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;다만 A씨는 차두리와 자신은 연인관계였으며, 차두리가 교제 기간 중 B씨를 만난다는 사실을 알게 돼 이 문제로 갈등을 빚자 자신을 고소했다는 입장이다.&lt;br&gt;&lt;br&gt;A씨에 따르면, 2021년 8월 차두리가 SNS를 통해 먼저 연락해 왔고 연인 사이로 발전했다. A씨는 작년 5월 B씨의 존재를 알게되면서 차두리에게 이별 통보를 했지만, 차두리가 또다시 연락해왔다고 한다. 작년 11월 차두리가 B씨와 수년간 교제하며 자신을 만났단 사실을 알게됐고, 이로 인해 올해 3월까지 갈등을 빚었다는 게 A씨 주장이다.&lt;br&gt;&lt;br&gt;경찰은 조만간 A씨를 불러 조사할 계획이다.&lt;br&gt;&lt;br&gt;차두리는 법적으로 혼인 상태다. 2009년 한 살 연상의 회사원과 결혼해 1남 1녀를 뒀다. 2013년 3월 이혼 소식이 전해졌으나 차두리가 제기한 이혼 조정이 불성립됐다. 두 사람의 이혼 사건은 같은 해 11월 정식 재판으로 넘어갔다. 차두리는 1심 판결에 불복해 항소했으나, 2017년 2월 열린 항소심에서도 패소해 현재 법적으로 이혼한 상태가 아니다.&lt;br&gt;&lt;br&gt;차두리 측 법률대리인은 CBS노컷뉴스에 “차두리가 법률상 이혼은 하지 않았지만 상호 각자의 생활을 존중하기로 한 상황”이라며 “복수의 여성과 동시에 교제한 사실이 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이것은 술이 아닌 육각형 음식이다</title>
-      <link>https://www.chosun.com/national/weekend/2024/05/18/V6ZO5TK7XJFPRLSJ7A2MY2LOSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2024/05/18/V6ZO5TK7XJFPRLSJ7A2MY2LOSU/</guid>
-      <dc:creator>한은형 소설가</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 May 2024 15:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JMKRIOETERFZVGCL4K3FDPPOPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;게 집게발과 줄기콩, 바질, 구운 메추리알이 들어간 블러디 메리 /위키미디어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국 뉴올리언스에 다녀온 분에게 재미있는 이야기를 들었다. 그 도시에서는 개와 사람이 함께 술을 마시러 간다는 이야기였다. 술 마시는 사람 옆에 소만 한 개가 엎드려 있다고. 실내에 개를 데리고 들어오는 건 아니고 야외 테이블에서 그랬다고. 그들에게는 아무렇지도 않을 그 광경이 꽤 이색적이었다고 했다.&lt;br&gt;&lt;br&gt;이 이야기를 듣고 술집 앞에서 개가 사람을 기다리는 장면이 나오는 영화를 떠올렸다. 짐 자무시의 ‘패터슨’. 나는 애덤 드라이버만이 아니라 그의 개로 나오는 잉글리시 불도그도 주인공이라고 생각하는데, 이 개의 화면 장악력이 상당해서다. 비중도 그렇고 존재감도 그렇다. 애덤 드라이버와 일상을 함께하고, 술집까지 같이 가는 개다. 하지만 술집에는 함께 들어가지 못하고 밖에서 기다린다.&lt;br&gt;&lt;br&gt;안타까운 이 장면을, 나는 좋아한다. ‘매일 일과를 마치고 개와 산책하고 단골 술집에 술을 마시러 간다’는 나의 판타지가 담겨 있어서다. 매일 일과를 마칠 수 있다는 것, 매일 산책을 한다는 것, 그것도 개와 한다는 것, 거기에다 단골 술집에 매일 간다는 것까지 모두. 누군가에게는 일상일 수 있지만, 나에게는 모두 요원하게만 느껴진다. 마치 이룰 수 없는 꿈 같달까. 개를 좋아하지만 키울 엄두는 나지 않는다. ‘나 자신도 제대로 돌보지 못하면서 무슨…’이라는 생각에. 그리고 집 근처에 단골 술집이 있는 사람이 가장 부럽다. 나만 이렇게 시시하게 사는 걸까?&lt;br&gt;&lt;br&gt;‘패터슨’에 나오는 그런 술집을 나는 꿈꾼다. 뭔가 아시는 분이 주인인 그런 술집 말이다. 애덤 드라이버의 단골 술집 주인은 만만치 않다. 보통이 아닌 센스를 갖고 있고, 이에 반응하는 손님이 오기에 밤마다 흥미로운 대화를 들을 수 있다. 나 같은 사람에게는 이상적인 환경이 아닐 수 없다. 어디 나만 그럴까? 혼술하는 이들이 꿈꾸는 술집이 아닐까. 걸어서 갈 수 있는 거리에 이런 단골 술집을 갖는 게 현생에 이루고 싶은 꿈이다.&lt;br&gt;&lt;br&gt;뉴올리언스와 개와 술에 대해 생각하다가 뉴올리언스 하면 블러디 메리지 싶었다. ‘패터슨’을 생각하면 개부터 떠오르듯이 뉴올리언스 하면 블러디 메리가 떠오른다. 칵테일 사제락(Sazerac)의 발상지라고 알고 있긴 하지만 어찌 된 일인지 ‘뉴올리언스는 블러디 메리’라고 박혀버렸다. 세상에서 가장 화려한 블러디 메리들이 온종일 각축을 벌이는 곳이라고 해야 하나. 뉴올리언스에서는 아침부터 블러디 메리를 먹는데, 또 아침에만 먹는 게 아니라서 ‘온종일’이라고 했다. 그리고 화려함이란 무엇인가. 온갖 과시적인 토핑을 덕지덕지 올렸다는 의미에서의 화려함이다. 토마토 주스 위의 군비경쟁이라는 위험한 비유를 드는 사람도 있을 정도니 나만의 생각은 아닌 것 같다. 뉴올리언스와 블러디 메리를 함께 구글에 검색하면 대체 이게 뭘까 싶은 것들을 보실 수 있다. 기괴할 수도, 흥미로울 수도 있다. 뚱카롱이나 온갖 변종 약과들은 약과라고 느껴지실 정도다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F3FI7XG2SBETDKJU4CXIJ2RSWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아담 드라이버가 주연한 영화 '패터슨'의 한 장면&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;처음에는 기괴하다고 생각했다. 블러디 메리에 셀러리와 함께 꽂힌 베이컨을 보고서였다. 셀러리도 매끈한 줄기가 아니라 이파리가 덥수룩한 부위라 초록색으로 변한 설인(雪人) 예티 같았다. 이건 시작에 불과하다. 새우, 가재, 굴 튀김이나 오크라, 아스파라거스, 오이, 할라피뇨, 올리브 피클을 꽂은 것도 있다. 새우튀김으로 하트를 만들거나 베이컨에 주름을 잡아 프릴을 만들기도 했다. 대체 왜? 먹는 거에 왜? 이런 의문이 들었다. 맞다, 식욕이 감퇴되는 비주얼이었다. 그런데… 기괴하다고 생각한 그 이미지에 나도 모르게 젖어들어 버렸다.&lt;br&gt;&lt;br&gt;결국, 뉴올리언스 스타일 블러디 메리를 만들게 되었다는 이야기. 뉴올리언스에 다녀온 분에게 선물받은 핫소스가 방아쇠가 되었다. ‘뉴올리언스 핫소스가 생겼으니 블러디 메리를 만들자!’라는 흐름이었다. 토마토 주스에 보드카를 타고 타바스코 소스와 우스터 소스와 소금과 후추를 뿌리는 게 블러디 메리의 레시피니 타바스코 대신 뉴올리언스 핫소스를 뿌리면 뉴올리언스 스타일 블러디 메리가 되겠다면서. 참고로 기주인 보드카를 테킬라로 바꾸면 ‘블러디 마리아’가 되고, 진으로 하면 ‘러디 메리’가 된다. 메리(Mary)의 스페인식 이름이 마리아(Maria)라서 블러디 마리아라고 하는 건 짐작이 되는데 왜 러디 메리가 되는지 모르겠다. B를 빼서 그리된 것은 알겠는데 대체 왜 빼는지 말이다. 아무리 논리 따위 없이 허술한 게 칵테일 세계의 내러티브라지만.&lt;br&gt;&lt;br&gt;어쨌거나 만들어 보았다. 놀라(NOLA, 뉴올리언스의 줄인말) 블러디 메리. 베이컨도 구웠다. 토마토 주스와 보드카를 3:1로 타고 우스터 소스와 뉴올리언스 핫소스를 뿌리고 라임즙을 듬뿍 짠 후 소금과 후추를 뿌렸다. 셀러리와 베이컨을 빨대처럼 수직으로 꽂고, 라임은 컵 테두리에 꽂았다. 마셨는데, 눈이 떠졌다. 깜짝 놀랄 정도의 맛이었다.&lt;br&gt;&lt;br&gt;이전까지 먹었던 블러디 메리에 비해 내가 만든 놀라 블러디 메리는 놀랍도록 맛있었던 것이다. 술을 좋아하는 사람들을 모셔놓고 호기롭게 한 잔씩 말아주고 싶을 정도로. 레몬이 아닌 라임을 넣은 게, 듬뿍 넣은 게, 주효했다고 생각한다. 음식이든 술이든 가장 중요한 건 균형이고, 그 균형을 잡아주는 게 산미임을 나는 주장해 왔는데, 내 주장에 부합하는 결과물이었다. 라임을 넣자 토마토 주스의 텁텁함이 해소되며 산뜻함이 더해졌다. 그간의 경험에 비추어 토마토와 아보카도와 양파로 만드는 과카몰리에 레몬보다 라임을 넣을 때 결과가 더 좋아서 그랬다. 이게 다가 아니다. 베이컨을 씹고 블러디 메리를 마시는데, 오! 전혀 괴이하지 않았다.&lt;br&gt;&lt;br&gt;놀랍도록 조화로운 이 술을 비우며 나는 놀라 블러디 메리의 비밀을 깨달았다. 술이 아니라 음식이라는 것. 토마토로 만드는 차가운 수프인 가스파초의 알코올 버전이거나. 토마토의 달콤함, 보드카의 씁쓸함, 라임의 산미, 핫소스의 찌릿함, 우스터 소스의 감칠맛, 소금의 짠맛, 셀러리의 식물성 기름 맛에 베이컨의 동물성 기름 맛까지 더해진 이것은 육각형 음식 아닌가 싶었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/JMKRIOETERFZVGCL4K3FDPPOPE.jpg?width=640&amp;height=853&amp;auth=b619fc8f22419d1493c1f81f6577a9fdfd9721839e65faedd96f4668664eed0c&amp;smart=true" type="image/jpeg" height="853" width="640">
-        <media:description type="plain">게 집게발과 줄기콩, 바질, 구운 메추리알이 들어간 블러디 메리 /위키미디어</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>초현실주의자의 푸른색 리추얼, 망다랭 쿠라시오</title>
-      <link>https://www.chosun.com/national/weekend/2024/05/04/WL4AZEGSOBDPNFWUEJYFPAKGZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2024/05/04/WL4AZEGSOBDPNFWUEJYFPAKGZI/</guid>
-      <dc:creator>한은형 소설가</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 May 2024 18:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P5DMAX67OVFF7O47N5D2E56PUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘망다랭 쿠라사오’는 만다린 퀴라소를 프랑스식으로 읽은 것으로, 오렌지 맛이 나는 푸른 빛깔 술이다. /게티이미지뱅크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1930년대 프랑스 파리, 블랑슈 광장의 한 카페에서 사람들이 파란색 술을 마시며 떠들고 있다. 파란색 술의 이름은 망다랭 쿠라사오. 떠드는 사람들은 앙드레 브르통과 브르통의 아이들. 그러니까 초현실주의자 그룹이다. 책을 보다가 “브르통이 먼저 말하고 다른 이들이 이어갔다. 모두들 화이트와인 혹은 망다랭 쿠라사오에 취해 마치 어린 학생들처럼 마음대로 얘기했다”라는 문장을 보는데 초현실주의자들의 웅성거림이 들렸던 것이다.&lt;br&gt;&lt;br&gt;망다랭 쿠라사오? 처음 들어보는 이 술은 뭘까 싶으면서도 어딘지 낯익은 느낌이 들었는데 각주를 읽으니 알겠다. ‘밀감으로 만든 식전주 망다랭에 카리브해의 퀴라소(쿠라사오)섬에서 자라는 밀감으로 만든 리큐어를 첨가해 만든 음료.’ 만다린 퀴라소를 프랑스식으로 ‘망다랭 쿠라사오’로 읽은 것이었다. 마셔본 적은 없다. 하지만 힌트를 들으니 어떤 맛일지 느낌이 왔다.&lt;br&gt;&lt;br&gt;망다랭은 만다린, 쿠라사오는 퀴라소였다. 순간 많은 것이 스쳐 지나갔다. 만다린은 밀감의 한 종류고, 퀴라소는 블루 퀴라소의 그 퀴라소 아닌가. 블루 퀴라소라고 부르는 리큐르답게 블루 퀴라소를 넣은 칵테일은 푸른빛이었다. 푸른빛이지만 오렌지 맛이 나는 게 특이하다고만 생각했지, 퀴라소는 퀴라소라고만 생각했지, 카리브해에 쿠라사오라는 섬이 있는 줄 몰랐다. 그리고 쿠라사오가 퀴라소가 된 것이라든가 블루 퀴라소를 ‘블루’로 만든 건 카리브해 바다에 대한 모방임도 알겠다. ‘망다랭 쿠라사오’가 나오는 문장과 각주를 읽었을 뿐인데 많은 것이 딸려 올라온 것이다. ‘에르메스 수첩의 비밀’이라는 책이다.&lt;br&gt;&lt;br&gt;책에는 그런 말이 없지만 나는 망다랭 쿠라사오가 푸른빛이라고 생각하고 있다. 짐작하는 바가 있기 때문이다. 물론 푸른빛인 블루 퀴라소와 달리 망다랭 쿠라사오는 오렌지빛이거나 오렌지 계열 리큐르인 쿠앵트로처럼 무색일 수도 있지만…. 아무래도 망다랭 쿠라사오는 푸른빛일 것 같다. 나는 왜 망다랭 쿠라사오가 푸른빛일 거라고 주장하는가? 인상파 화가들이 압생트의 초록색에 홀려서 ‘초록 요정’이라고까지 했던 걸 알기 때문이다. 인상파의 ‘그린’이 초현실주의자에게는 ‘블루’가 아니었을까 생각하는 것이다. 온갖 엄격한 강령을 공유한 집단답게 푸른색 술을 마시며 모임을 갖는 게 초현실주의자들의 리추얼(ritual·의례적 절차)이 아니었을까라고도.&lt;br&gt;&lt;br&gt;그들이 모인 블랑슈 광장의 카페는 시라노(Cyrano)였을 것이다. 몽마르트르에 살았던 브르통이 모임 장소로 애용하던 곳이다. 시라노에 대해 찾다가 시라노의 위치를 표시한 파리 지도와 시라노에 대한 설명을 발견했다. 한때 이 자리에 시라노가 있었다며 초현실주의자들의 모임 장소라고 되어 있다. 나를 의아하게 한 건 ‘그들은 망다랭 쿠라사오를 마셨다’라는 다음 말이었다. 아니, 어떤 날은 다른 음료나 술을 먹을 수도 있지 않나? 그리고 어떻게 모두가 한마음 한뜻으로 망다랭 쿠라사오를 마시나? 다른 걸 마시는 건 마치 대오에서 이탈하는 일이라는 식이 아닌가? 정말 그들의 강령 중 하나였던 것 같다.&lt;br&gt;&lt;br&gt;그런데 함께 제시된 시라노 사진을 보고 깜짝 놀랐다. 물랭루주(Moulin Rouge) 바로 옆이었기 때문이다. 몽마르트르의 상징이 ‘붉은 풍차’라는 뜻의 물랭루주라는 클럽인데 시라노는 한 건물에 있던 것이다. 여기가 정기 모임 장소였다고 하니 느낌이 색다르다. 내가 이렇게 말할 수 있는 것은 물랭루주에 간 적이 있어서다. 몽마르트르에 갔다가 어쩌다 지나친 게 아니라 물랭루주에 가기 위해 그곳에 갔었다.&lt;br&gt;&lt;br&gt;베를린에 몇 달 머물고 있던 내가 삼박사일 일정으로 파리에 갔을 때였다. 나는 시각예술가 K가 머물고 있는 레지던스에서 지냈는데 파리에서 열리고 있던 그룹전에 참여한 K의 전시를 보는 것 말고는 우리는 따로 움직였다. 같이 무언가를 한 건 물랭루주에 간 것뿐이다. 우리는 카바레 쇼를 관람했다. 꽤나 비쌌던 것으로 기억한다. 오페라 가르니에에서 모차르트의 오페라 ‘이도메네오’를 볼 때보다 비쌌다. 하지만 무척 만족스러웠다. 카바레 쇼를 처음 봐서 그런지 몰라도 신선했고, 즐거웠고, 기억에 남았다. 얼마나 즐거웠으면 흥이 그다지 없는 나도 그날 본 춤을 추고 싶었고, 그래서 췄다. 용기가 없는 사람이라 수줍게 방에서 혼자 출 수밖에 없었는데 이제는 시간이 꽤나 흘러 한 동작도 생각나지 않는다. 슬프다.&lt;br&gt;&lt;br&gt;카바레 쇼란 무엇인가. 아름다운 무희들이 떼로 나와 사람들의 정신을 빼놓는 쇼라고 해야겠다. 그걸 보면서 술이나 음식을 먹는 게 카바레 쇼라는 장르인 듯하다. 피겨 스케이팅이나 리듬체조 종목에서 입을 법한 옷을 입거나 반나체로 춤을 추는데, 거기에 외설이나 퇴폐의 기운은 없었다. 명랑하고 또 명랑하다. K와 나는 왜 저런 미인들이 반나체로 춤을 추는데 유혹적이거나 야하지 않은가라는 주제로 이야기했는데, 그녀들이 인간적이지 않아서 그렇다는 결론을 내렸다. 구등신 가까이 되는 비율의 몸은 CG로 보정을 한 것처럼 군살이 없어서 인간이라는 생각이 들지 않았다. 완벽한 그녀들이 입을 찢을 듯 활짝 웃으며 다리를 번쩍 들어올리거나 점프하는 장면이 빠르게 이어지는 걸 보면서 감탄하다보니 쇼가 끝나 있었다.&lt;br&gt;&lt;br&gt;브르통과 사랑했고, 아이도 낳은 자클린 랑바라는 화가가 있다. “그녀는 활달하고, 기운차고, 성깔 있고, 불같다고 묘사되었다. 또 지적이면서 풍부한 독서량을 자랑했다. 그림만 그려서는 먹고살 수 없었기에, 그녀는 물랭루주 카바레에서 누드 댄서로 일해서 돈을 벌고 있었다.” ‘초현실주의자들의 은밀한 매력’이라는 책에서 이 부분을 읽다가 나는 물랭루주에 갔던 그 밤을 떠올렸다. 카바레 쇼를 보았고, 신이 났고, 얼마나 즐거웠으면 춤을 따라 추고 싶었던 그 밤을.&lt;br&gt;&lt;br&gt;모두 ‘망다랭 쿠라사오’라는 이미지에 심취해서 시작된 일이다. 다시 물랭루주에 간다면 망다랭 쿠라사오를 마셔야겠다고 생각한다. 카페 시라노의 역사를 공유하는 곳이니 망다랭 쿠라사오가 있을 거라고 또 마음대로 속단하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 5월 25일</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/25/HIBU3M3VT5GHRJRTOFVOB7DQRM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/25/HIBU3M3VT5GHRJRTOFVOB7DQRM/</guid>
-      <description/>
-      <pubDate>Fri, 24 May 2024 20:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FGJ2OENX45HFVN662XP36IFUQE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“우리 조폭이야” 부산 도심서 무차별 폭행…피해자 얼굴뼈 내려앉아</title>
       <link>https://www.chosun.com/national/national_general/2024/05/27/N2HS6RB2OJBRZIGK7N4HF5LCVA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/27/N2HS6RB2OJBRZIGK7N4HF5LCVA/</guid>
@@ -779,40 +892,6 @@
       <description/>
       <pubDate>Sun, 26 May 2024 23:44:30 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IUZBULHFKBEJXHW4NRONEVHDEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남성들이 A씨를 폭행하는 장면. /SBS 보도화면&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 도심 한복판에서 남성 2명이 40대 남성을 무차별 폭행해 경찰이 수사에 나섰다. 이들은 폭행 과정에서 자신들이 조직폭력배라고 주장했다.&lt;br&gt;&lt;br&gt;27일 부산진경찰서 등에 따르면 이들은 지난 24일 새벽 부산의 대표 번화가인 서면에서 눈이 마주쳤다는 이유로 피해 남성을 무차별 폭행했다.&lt;br&gt;&lt;br&gt;당시 촬영된 영상 등을 보면 건장한 남성 2명은 부산 서면 한복판에서 40대 남성 A씨를 무차별 폭행하면서 “○○○○파 ○○○다”라며 자신들이 조직폭력배라고 주장했다.&lt;br&gt;&lt;br&gt;A씨가 폭행을 당해 몸을 가누지 못하는 상황임에도 이들은 A씨의 머리채를 잡고 번갈아가며 얼굴을 집중적으로 때리기도 했다.&lt;br&gt;&lt;br&gt;이들은 A씨가 의식을 잃고 쓰러지자, 가게 안으로 들이닥쳐 다른 일행에게도 폭행을 가했다.&lt;br&gt;&lt;br&gt;현재 입원 중인 A씨는 얼굴뼈가 내려앉는 등 피해가 커 수술을 앞두고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨를 폭행한 남성들은 경찰에 신상정보를 남기고 귀가 조치 됐다. 경찰은 가해 남성들이 실제로 조직폭력배인지 등을 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“오늘 서울역서 칼부림...남녀 50명 아무나 죽이겠다” 예고글</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/24/HRJEPKPGWBG3JKE4PPWFIBIVWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/24/HRJEPKPGWBG3JKE4PPWFIBIVWI/</guid>
-      <dc:creator>김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 00:40:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZMSLD2NVBBLBDM4ATU3YZLVYQY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울역 4호선 지하철을 이용하는 출근길 시민들. 기사 내용과 무관한 사진./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울역에서 칼부림을 하겠다는 글이 온라인에 퍼지면서 경찰이 대응에 나섰다.&lt;br&gt;&lt;br&gt;지난 22일 온라인 커뮤니티 디시인사이드에는 “서울역에 5월 24일날 칼부림하러간다, 남녀 50명 아무나 죽이겠다”라는 내용이 담긴 글이 게시됐다.&lt;br&gt;&lt;br&gt;서울 남대문경찰서는 이날 해당 게시글을 확인한 후, 국정원, 철도 경찰 등 관계 기관에 해당 소식을 전파했으며 추가 경력을 요청했다고 밝혔다. 해당 글을 기반으로 용의자 검거에 나선 경찰은 서울역 근무인력을 동원해 순찰을 실시할 방침이다. 경찰 관계자는 “지역관서와 기동순찰대까지 투입해 순찰 중”이라면서 “아직 검거된 용의자는 없다”고 했다.&lt;br&gt;&lt;br&gt;서울교통공사 관계자는 “방검복과 같은 방호장비를 갖춘 보안관, 부서장 등 안전도우미 12명을 배치하고 순회 순찰에 나설 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;해당 게시글은 삭제됐지만 소셜미디어를 통해 테러 소식이 퍼지면서 시민들은 출근길 불안을 호소하고 있다. 온라인에서는 “다들 정말 조심해야 할 것 같다” “오늘내일 서울역에 경찰이 많아도 놀라지 말고 대비하자” “복잡한 서울역 출구 동선 미리 숙지하고 출근해야 할 것 같다”는 등의 반응이 이어지고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “24일 오전 디시인사이드에 대한 압수수색 영장을 집행해 게시글 관련 접속 정보 등을 요청해 받고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산대 113, 전북대 111...올해 의대 1910명 ‘지역인재’ 선발</title>
-      <link>https://www.chosun.com/national/education/2024/05/27/3CCDRVDC6ZGVHC4XBIJXNMCN3I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/05/27/3CCDRVDC6ZGVHC4XBIJXNMCN3I/</guid>
-      <dc:creator>표태준 기자, 윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 May 2024 20:06:00 +0000</pubDate>
-      <content:encoded>2025학년도 전국 40개 의대 정원이 1509명 늘어난 4567명으로 확정된 가운데, 비수도권 대학 26곳이 올해 입시에서 정원 3111명 중 최대 1910명(61.4%)을 지역 인재 전형을 통해 선발할 계획인 것으로 26일 확인됐다.&lt;br&gt;&lt;br&gt;이날 교육계에 따르면, 지난 24일 한국대학교육협의회(대교협)는 2025학년도 의대 정원을 4567명으로 확정하는 대입 전형 시행 계획을 심의해 확정하면서 각 대학이 제출한 지역 인재 전형 선발 계획도 함께 심의했다. 이번에 의대 정원이 많이 늘어난 비수도권 대학 26곳은 올해 입시에서 최대 1910명을 지역 인재 전형으로 뽑겠다는 계획을 냈다고 한다. 비수도권 의대는 총 27곳이지만, 단국대(천안)는 본교가 경기 용인에 있어 지역 인재를 뽑지 않는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3RIAOE6KMZBPPGBMXLL7UQ4H4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지역 인재 전형은 해당 지역 고교를 나온 학생만 지원할 수 있는 제도다. 서울 등 다른 지역 수험생과 경쟁하지 않아도 돼 비교적 쉽게 입학이 가능하다. 젊은 인재들의 지역 정주(定住) 비율을 높이기 위해 만들어졌다. 정부는 지난 3월 각 대학에 의대 증원분을 배정하면서 비수도권 대학들에게 의대 지역 인재 전형을 통해 학생의 60% 이상을 뽑으라고 권고했다. 이에 따라 내년도 지역 인재 전형 모집 인원은 2024학년도(1071명) 보다 839명 늘어날 예정이다.&lt;br&gt;&lt;br&gt;올해 고3 수험생들이 치르는 2025학년도 입시에서 비수도권 대학들의 지역 인재 전형의 선발 비율이 전년 대비 두 배 가까이 늘어나면서 교육계에선 “상위권 학생들의 의대 입시 문턱이 낮아지는 등 입시에 큰 변화가 올 것”이라는 전망이 나온다.&lt;br&gt;&lt;br&gt;특히 비수도권 지역 학생들이 의대 입시에서 유리할 것으로 전망된다. 비수도권 대학들은 원래 정부의 의대 증원 발표 전에는 2025학년도에 수시 847명, 정시 221명 등 총 1068명을 지역 인재 전형으로 뽑을 계획이었다. 그러나 의대 증원분이 비수도권 대학들에게 집중 배분되면서 지역 인재 전형 모집 인원도 수시 1546명, 정시 364명 등 1910명으로 늘어나게 됐다. 재수생들이 몰리는 정시 전형보다 재학생들이 주로 원서를 내는 수시 전형 인원이 크게 늘어나는 것이다.&lt;br&gt;&lt;br&gt;우연철 진학사 입시전략연구소장은 “비수도권 지역에 사는 상위권 학생에게는 매우 유리한 입시 카드가 하나 생긴 것”이라며 “지역 의대 입시 커트라인이 얼마나 낮아질지 알 수 없지만, 지역 상위권 학생이라면 일단 의대 한 곳은 지원해보자는 분위기가 생길 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SYAPI66WRVEMFEMHKGRBUD6L5U.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지금까지 비수도권 대학들은 지역인재육성법에 따라 의대 입학 정원의 40%(강원·제주는 20%) 이상 지역 출신 학생을 의무적으로 뽑아왔다. 그런데 2025학년도부터 의대 모집 정원이 크게 늘어남에 따라 정부는 지역 인재 전형 비율 역시 60% 이상으로 확대하도록 권고했다. 이에 따라 대부분 대학이 올해 입시에서 60% 이상을 지역 인재 전형으로 뽑으면서 지역 인재 전형 선발 인원이 100명 넘는 대학이 6곳이나 될 예정이다. 예컨대, 전북대가 내년도 의대 입학 정원 171명 중 111명(64.9%)을 지역 인재로 선발하기로 했다. 부산대·경상대·전남대·원광대·조선대도 100명 넘게 뽑을 계획이다. 모두 이번 의대 증원으로 서울대 의대(정원 135명)보다 규모가 큰 ‘메가 의대’가 된 곳들이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S7BE55WEINGOZMS4VQG7NM2ILY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;입시 업계에서는 자녀를 의대에 쉽게 보내기 위해 수도권에서 지방으로 이사하는 이른바 ‘지방 유학’이 늘어난 것이란 관측도 나온다. 만약 정부 계획대로 2026학년도부터 의대 정원이 2000명 늘어 5058명이 되면 지역 인재 모집 인원은 더 늘어나 지방 유학 선호가 커질 수 있다. 각 대학이 지난달 공고한 2026학년도 대입 계획에 따르면, 비수도권 26개 대학 의대(정원 3542명) 지역 인재 선발 모집 인원은 2247명에 달할 예정이다. 수시 전형으로는 1768명, 정시 전형으로는 479명이다.&lt;br&gt;&lt;br&gt;지역 인재 전형으로 의대에 가려면 올해 초등 6학년 이하 학생이 지방 유학을 떠나야 한다. 현재는 지역 고교만 나와도 지역 인재 전형 지원이 가능하지만, 2028학년도부터는 지방의 중·고교를 6년간 다녀야 지역 인재 전형 자격을 얻기 때문이다. 부산 등 일부 시도교육청에는 지난 2월 정부가 의대 증원 계획을 발표한 뒤 ‘유학 상담 전화’도 걸려오고 있다.&lt;br&gt;&lt;br&gt;지역 사회에서는 의대 지역 인재 선발 인원 확대만으로 지역에 정주하는 의료 인력이 늘어날지는 미지수라는 의견이 많다. 권순기 경상대 총장은 “지방 유학을 와서 졸업 후 어떻게든 인프라가 좋은 서울로 다시 돌아가려는 학생들이 상당수인데 이들을 졸업 후에 붙잡을 수 있는 방안이 딱히 없다”며 “학생들의 지역 정주율을 높이려면 일본처럼 ‘지역 의사제’ 같은 실효성 있는 제도 도입이 시급하다”고 했다. ‘지역 의사제’는 별도 전형으로 의대생을 뽑아 장학금·교육비 등을 전폭적으로 지원한 뒤 졸업 후 일정 기간 해당 지역 의료 기관에서 의무적으로 근무하게 하는 제도다. 경상대는 최근 2025학년도 입시에서 ‘지역의사전형’을 도입하려고 했지만 법 개정이 필요하다는 교육부 의견에 따라 무산됐다. 현재 국회에는 혜택을 주고 얼마간 지역 의무 근무를 강제하는 ‘지역의사양성법’ 등이 계류된 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/3RIAOE6KMZBPPGBMXLL7UQ4H4U.jpg?width=480&amp;height=725&amp;auth=52092bf6110645f4d7e6aca080a3df25c94b486d723f2f981959ce01297f0c4d&amp;smart=true" type="image/jpeg" height="725" width="480">
-        <media:description type="plain">일러스트=김성규</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>[기자의 시각] ‘버닝썬 경찰총장’의 복귀 유감</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/27/RO4JMYRQ7FCSRHXGKZXLCPLFFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/27/RO4JMYRQ7FCSRHXGKZXLCPLFFY/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 May 2024 15:04:00 +0000</pubDate>
-      <content:encoded>‘버닝썬 경찰총장’ 윤규근(55) 총경이 서울 송파경찰서 범죄예방대응과장으로 지난 2월부터 근무 중이다. 윤 총경은 2019년 불거진 ‘버닝썬 게이트’ 당시 버닝썬에 대한 경찰 수사를 무마한 혐의를 받았다. 그는 그룹 ‘빅뱅’ 멤버 승리(이승현)씨 등이 운영하던 주점에 경찰 단속 내용을 미리 알려주거나(직권남용 권리행사방해), 한 잉크 업체 대표가 고소당한 사건을 무마하는 대가로 주식을 받은 혐의(알선수재)로 같은 해 기소됐다.&lt;br&gt;&lt;br&gt;윤 총경은 해당 업체 대표가 건네준 미공개 정보로 주식을 거래한 혐의(자본시장법 위반), 해당 업체 대표가 휴대전화 메시지를 삭제하도록 한 혐의(증거인멸 교사)도 받았다. 2021년 5월 서울고법은 증거인멸 교사 등 혐의에 대해 일부 유죄를 인정했다. 같은 해 대법원에서 벌금 2000만원이 확정됐다. 현행법상 경찰 공무원은 금고 이상 형이 확정돼야 당연 퇴직하기에, 윤 총경은 직을 유지할 수 있었다.&lt;br&gt;&lt;br&gt;윤 총경은 2012년 친(親)문재인 성향의 한 병원장이 1400억원을 대출받는 과정에서 금융권 특혜를 받았다는 사건에 연루됐다는 의혹을 받았다. ‘조국 펀드’ ‘라임 펀드 사태’ 등 비리 논란 때도 윤 총경 이름이 오르내렸다. 그는 2017년 7월 경찰병원 총무과장으로 재직하며 당시 여성 직원들에게 노래방 모임에 오라고 강요하는 등 ‘갑질’ 혐의로 고발당하기도 했다. 하지만 경찰청은 최근 ‘노래방 갑질’ 사건을 무혐의 종결시켰다. ‘봐주기 수사 아니냐’는 논란이 일자 서울청 수사심의위원회가 이 사건을 심의했지만 결과는 밝히지 않고 있다. 경찰 안팎에선 “경찰이 시간을 끌며 제 식구 봐주기를 한다”는 지적이 나온다.&lt;br&gt;&lt;br&gt;범죄예방대응과는 지난해 말 흉기 난동 등 강력 범죄에 대응하기 위해 일선 경찰서에 신설된 부서다. 윤희근 경찰청장은 이 부서를 통해 범죄 예방 정책을 종합적으로 수립하고, 지역 내 범죄에 발 빠르게 대응하는 ‘핫라인’을 만들겠다고 했다. 인구 65만여 명이 사는 서울 송파구의 범죄를 사전에 예방하는 핵심 간부에 ‘전과자 경찰’ 윤 총경을 적임자로 판단했다는 얘기다.&lt;br&gt;&lt;br&gt;최근 유튜브에 공개된 ‘버닝썬 다큐멘터리’가 수백만 회 조회 수를 기록하고 있다. 가수 승리가 ‘경찰총장’으로 부를 만큼 실세였다는 그가 각종 혐의를 빠져나가고, 또 기껏해야 벌금형에 그치고, 이번에 다시 경찰로 복귀한 데 대해 “비리 경찰” “유죄 나와도 잘 먹고 잘사는구나” “이런 사람이 아직도 경찰이라니” “이 나라는 이제 글렀다”는 반응이 나왔다. ‘비리 경찰’이 대법원에서 유죄가 나오고도 경찰 공무원 신분을 유지하는 것도 모자라 ‘범죄예방 대응 책임자’가 되는 현실. 정말 이제 우리는 웬만한 범죄를 저질러도 아무 문제 없는 나라에 살고 있는 것일까.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6LWXRMZQ4W5CFJ7H33EPYCOLX4.jpg?width=2412&amp;height=1607&amp;auth=22b8ba30324391f3df513753f87816013a2df04b217c2de43e36264846446fd3&amp;smart=true" type="image/jpeg" height="1607" width="2412">
-        <media:description type="plain">'버닝썬 사태' 당시 클럽과의 유착 의혹이 제기돼 특정범죄 가중처벌 등에 관한 법률위반 등의 혐의로 1심서 무죄를 선고 받은 윤규근 총경이 20일 오후 서울 서초구 서울고등법원에서 열리는 항소심 선고 공판에 출석하고 있다. 2021.5.20/뉴스1 ⓒ News1 민경석 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 민경석 기자</media:credit>
-      </media:content>
     </item>
     <item>
       <title>[단독] “의사들 모욕당해 사표… 대통령, 현장 아우성 귀기울여야”</title>
@@ -824,50 +903,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UPAIWEYEMNGXJAGCQWL2CRMBYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한응급의학의사회 이형민 회장과 응급의학과 사직 전공의 전호씨가 23일 서울 중구 조선일보미술관에서 본지와 인터뷰를 하고 있다. 이들은 지난 22일 대통령실 민원실을 통해 윤석열 대통령에게 편지와 수기집 '응급실, 우리들의 24시간'을 전달했다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“윤석열 대통령이 대화를 요구하면 당연히 응할 겁니다. 응급의학과 전공의들이 (의사 중) 가장 할 말이 많아요.”&lt;br&gt;&lt;br&gt;이형민(52) 대한응급의학의사회 회장과 응급의학과 사직 전공의(레지던트 2년 차) 전호(34)씨는 26일 본지 인터뷰에서 “환자 생명이 초 단위로 결정되는 응급실에서 자긍심을 갖고 일하던 젊은 의사들이 왜 (정부 의대 증원 발표 후) 가장 먼저 사표를 던졌는지 대통령이 살펴주셨으면 한다”고 했다.&lt;br&gt;&lt;br&gt;이들은 지난 22일 서울 용산 대통령실을 방문해 윤 대통령에게 편지와 함께 응급의학과 전공의(인턴·레지던트) 54명이 쓴 ‘응급실, 우리들의 24시간’이란 책을 전달했다. 이들은 “대통령은 수기집을 꼭 읽어 주시고 현장의 아우성에 귀 기울여달라”고 했다. 다음은 이 회장과 전씨의 대담.&lt;br&gt;&lt;br&gt;“尹대통령이 요청하면 대화할 것”&lt;br&gt;&lt;br&gt;전호씨(이하 전)=대통령이 편지와 수기집을 읽고 대화를 요청하면 당연히 대화에 응할 것이다. 대형 병원에서 가장 많은 환자를 보고 있는 응급의학과 의사로서 현장에서 어떤 점이 가장 힘든지 윤 대통령께 말씀드리고 싶다. 바이털(생명) 의사는 돈 때문에 하는 일이 아니다. 다른 일을 하면 더 많이 벌 수 있고 훨씬 편하다.&lt;br&gt;&lt;br&gt;이형민 회장(이하 이)=저희는 환자·보호자 만날 때가 가장 두렵지 대통령 만나는 것은 하나도 무섭지 않다. 응급의학과 의사들은 매일 응급실에서 중환자를 본다. 해결하지 않으면 응급실은 난리가 난다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L2XVBN2KBVK47ANILIQ7LRYM3M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이형민 대한응급의학의사회 회장(가운데)과 사직전공의들이 22일 오후 서울 용산구 대통령실 앞에서 윤 대통령에게 전달할 '응급의학과 사직전공의들이 윤석열 대통령께 드리는 글'과 '응급실, 우리들의 24시간'책을 들어보이고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;◇”의대 증원은 밑 빠진 독에 물 붓기”&lt;br&gt;&lt;br&gt;전=의대 2000명 증원 정책은 밑 빠진 독에 물 붓기다. 바이털 의사와 중증 환자들에게 진짜 필요한 것은 증원이 아니라 ‘독의 구멍’, 즉 근본적인 문제의 해결이다. 예컨대 의사들이 악의 없는 실수를 해도 의사 면허를 박탈당하는 사건이 발생한다. 그때마다 위축이 된다. 10년쯤 전에 한 전공의가 응급 환자의 CT(컴퓨터단층촬영)를 찍지 않아 대동맥이 찢어진 것을 발견하지 못했다고 면허 취소를 당한 적 있다. 이제는 가슴 부위가 아프다는 환자는 전부 CT를 찍는다. 그러다 보면 초 단위로 숨 넘어가는 응급·중증 환자의 진료가 밀린다. 의사가 없어서 진료가 밀리는 게 아니다.&lt;br&gt;&lt;br&gt;이=전공의들의 진정성을 대통령이 봐줬으면 좋겠다. 전공의들은 돈이 아니라 보람으로 이 일을 해왔다. 전공의 일은 누가 시킨다고 할 수 있는 게 아니다.&lt;br&gt;&lt;br&gt;전=지금이라도 정부의 의대 증원 백지화가 가능하다. 내년도 입학 정원을 포함해 2026학년도 정원 등도 정부와 의료계가 함께 논의해야 한다. 그런데 정부가 전공의들을 악마화했다. (전공의들은) 그동안 안 해도 되는 일까지 해가면서 환자를 봤다. 국민 일부가 저희를 나쁘게 얘기하면 그전처럼 환자를 도와줄 수 없게 된다. 전공의들이 상처를 받았다.&lt;br&gt;&lt;br&gt;이=정부와 의료계 간 의견이 맞지 않으면 의견을 조율하면 되는데, 정부는 의사들을 모욕했다. 지금 해결책은 하나다. 전공의들의 사직서를 수리해줘야 한다. 그래야 전공의들이 다른 병원에 취직을 하든, 추후 전공의로 다시 지원하든 할 수 있다. 전공의들 (경제) 사정이 너무 어렵다. 사직서 수리를 안 해주는 것은 정말 치사한 것이다.&lt;br&gt;&lt;br&gt;전=피와 오물을 견디면서 대형 병원에서 전공의를 하던 (바이털) 의사들이 환자 곁을 어떻게 떠나겠나. 사직서를 수리해달라는 건 환자를 안 보겠다는 게 아니다. 다른 곳으로 환자를 보러 가겠단 뜻이다.&lt;br&gt;&lt;br&gt;한 병원의 전공의가 사표를 내고 수리가 되면, 이 전공의는 개원을 할 수 있다. 또한 다른 수련 병원(대형 병원)에서 자신의 전공과 연차에 맞는 의사를 구하면 그 병원에서 수련을 이어갈 수 있다. 가령 A병원의 내과 레지던트가 사표를 내고 수리가 됐을 경우, 그가 다음 전공의 모집 때 내과 레지던트를 구하는 B병원에 지원해 합격하면 전공의 생활을 이어갈 수 있다는 뜻이다.&lt;br&gt;&lt;br&gt;의료계 인사들은 “일부 수련 병원에선 수련 계약을 할 때 전공의에게 ‘중도 퇴직을 하면 다른 병원에서도 1~2년간 수련 생활을 하지 않는다’는 조항을 넣기도 하는데 법적 효력은 없을 것”이라고 했다.&lt;br&gt;&lt;br&gt;“응급실은 이미 의료 대란 상황”&lt;br&gt;&lt;br&gt;이=정부는 브리핑 때마다 ‘응급실이 차질 없이 운영 중’이라고 하는데 정말 어이가 없다. 전공의가 지키던 응급실은 대부분 축소 운영을 하고 있다. 지금 응급실은 엉망이다. 지금은 의료 대란 상황이다. 입원과 수술이 반 토막 난 대학 병원은 응급 환자를 예전처럼 받지 못하고 있다. 환자를 받아주던 중형 병원도 이젠 여력이 없어 환자들이 다시 대형 병원으로 몰리는 악순환이 벌어지고 있다. 환자를 받아도 입원이나 수술을 할 인력이 없다.&lt;br&gt;&lt;br&gt;전=죄송할 뿐이다.&lt;br&gt;&lt;br&gt;◇중환자 1명, 경증환자 99명&lt;br&gt;&lt;br&gt;이=응급실 뺑뺑이라는 말은 코로나 때 처음 나왔다. 옛날부터 응급실 뺑뺑이는 있었다. 경증 환자 응급실 쏠림과 의료 취약 지역 문제를 해결해야 한다. 응급의학과 의사는 주취자, (경미한) 교통사고 환자, 경증 환자 99명을 겪고 나서야 (위급한) 중환자 1명을 진료한다. 응급의학 교과서를 쓴 미국 전문의 주디스 틴티넬리가 7~8년 전 한국에 방문해 ‘빅5′(초대형 5곳 병원) 응급실을 보고 박장대소한 적이 있다. 은행에 있는 번호표 기계가 응급실에 있었기 때문이다. 경증 환자는 받지 않으면서 중증 환자를 무조건 받는 병원을 지정해야 된다. 119 유료화도 방법이 될 수 있다.&lt;br&gt;&lt;br&gt;전=요즘은 응급실 방문하는 환자들이 번호표도 불편하다고 해서 식당 대기줄처럼 카카오톡으로 알림을 받는다. 대기를 걸어놓고 근처에서 밥 먹는다고 늦게 오는 환자도 있다. 그러면 다른 환자 진료가 밀린다. 이게 과연 응급실이 맞나 싶다.&lt;br&gt;&lt;br&gt;◇응급실 동기 1년 만에 피부 미용으로&lt;br&gt;&lt;br&gt;전=초 단위로 숨이 넘어가는 순간에 삼도천(불교에서 말하는 이승과 저승 사이의 강)에서 환자를 건져낸다는 점이 멋있어서 응급의학과를 선택했다. 사명감 없으면 할 수 없는 일이다. 응급의학과는 ‘(전공의 생활) 견디면 나중에 돈 많이 벌 수 있다’는 생각으론 버틸 수가 없다. 실제 같은 병원에서 수련받던 응급의학과 동기 7명 중 3명이 ‘사람이 할 일이 아니다’라면서 1년 만에 그만뒀다. 지금은 전부 피부 미용을 하고 있다.&lt;br&gt;&lt;br&gt;이=의사로서 보람을 느끼기 때문에 힘들어도 참고 일하는 것이다. 바이털 전공의들이 병원을 떠난 상황에서 돈으로 보상해줄 테니 돌아오라고 해서는 맞지 않다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞전공의·전문의·전임의&lt;/b&gt;&lt;br&gt;&lt;br&gt;의대를 졸업하고 국가고시를 통해 의사 면허를 받은 사람을 ‘일반의’라고 한다. ‘전공의’는 의대 졸업 후 전문의 자격을 따기 위해 종합병원 등에서 수련하는 인턴과 레지던트를 말한다. 레지던트를 거친 뒤 특정 분과에서 자격을 인정받으면 ‘전문의’가 된다. 이후 대형 병원에서 1~2년 세부 전공을 공부하며 진료하는 의사를 ‘전임의(펠로)’라고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[단독] 검찰 ‘김건희 여사 수사팀’ 유임 가닥</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/27/K53ZV2FYVFBEHEEJQMS2M7G4YI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/27/K53ZV2FYVFBEHEEJQMS2M7G4YI/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 May 2024 20:08:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5HC2R65EB5KITCHABMRE3LOZWA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이창수 신임 서울중앙지방검찰청 검사장이 16일 오후 서울 서초구 중앙지검에서 열린 취임식에 입장하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부가 이번 주 발표하는 차장·부장검사 등 검찰 중간 간부 인사에서 윤석열 대통령 부인 김건희 여사의 ‘디올 백 수수 의혹’과 ‘도이치모터스 주가조작 의혹’ 수사를 맡고 있는 서울중앙지검 부장검사들을 유임하는 쪽으로 가닥을 잡은 것으로 26일 전해졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 법무부는 지난 24일 검찰인사위원회 이후 검찰에 의견을 들은 뒤, 김 여사 관련 수사를 비롯해 중요 수사를 담당하고 있는 부장검사들은 교체하지 않는 방향으로 인사안을 짜고 있는 것으로 알려졌다. 이 과정에서 이창수 신임 서울중앙지검장은 대검찰청에 김 여사 사건을 수사 중인 김승호 형사1부장(디올 백 수수 의혹)과 최재훈 반부패수사2부장(도이치모터스 주가조작 의혹)을 유임해 달라고 요청했다고 한다. 대검도 이 지검장과 같은 의견으로 법무부에 김 여사 사건 담당 부장검사들의 유임을 요청한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김승호 부장검사가 이번 인사에서 유임되면, 형사1부 산하에 꾸려진 ‘디올 백 수수 의혹’ 전담 수사팀도 그대로 유지될 것이라는 전망이 검찰 내부에서 나온다.&lt;br&gt;&lt;br&gt;이번 검찰 중간 간부 인사에서 가장 주목되는 것은 김건희 여사 관련 수사를 진행하고 있는 부장검사들의 교체 여부다. 앞서 지난 13일 법무부가 발표한 검사장급 39명의 승진·전보 인사를 하면서, 김 여사 사건 수사를 지휘하는 서울중앙지검장과 중앙지검 1·4차장을 모두 교체했기 때문이다. 이를 두고 검찰 안팎에선 “김 여사 수사가 시작되자 교체한 것 아니냐” “김 여사 특검 논란에 기름을 부었다”는 등 뒷말이 무성했다.&lt;br&gt;&lt;br&gt;법무부가 김 여사의 디올 백 수수 의혹과 도이치모터스 주가조작 의혹을 수사 중인 서울중앙지검 김승호 형사1부장과 최재훈 반부패수사2부장을 유임시키는 쪽으로 가닥을 잡은 것은 이들마저 교체할 경우 정치적 논란이 더 커질 것이라는 우려가 반영됐다는 얘기가 나온다. 법무부는 검찰인사위원회가 열린 지난 24일 조직 안정 및 업무 연속성을 강조했다.&lt;br&gt;&lt;br&gt;이창수 신임 서울중앙지검장의 의견도 상당 부분 반영된 것으로 보인다. 이 지검장은 김 여사 사건 수사를 하는 두 부장검사는 물론&lt;b&gt; &lt;/b&gt;‘대선 개입 여론 조작 사건’과 ‘대장동 50억 클럽 의혹 사건’ 등을 맡고 있는 강백신 반부패수사1부장의 유임도 요청한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;또 김승호·최재훈 부장검사가 작년 9월 부임해 1년이 채 되지 않았다는 점도 고려된 것으로 전해졌다. 전임자인 박혁수 대검 대변인과 김영철 대검 반부패1과장은 1년 2개월간 각각 형사1부장과 반부패수사2부장으로 근무했다. 검찰 한 관계자는 “차장들을 모두 빼버린 상황에서 담당 부장들까지 바꾸면 용산이 수사를 막으려고 방탄 인사를 했다는 비판을 피할 수 있겠느냐”고 말했다.&lt;br&gt;&lt;br&gt;한편, 이 지검장은 중요 수사를 할 때 손발을 맞춰봤던 검사들을 영입하려고 추천했다고 한다. 수원지검 성남지청장 시절 이재명 더불어민주당 대표와 관련된 ‘성남FC 불법 후원금’ 사건을 함께 수사했던 조상원 대구지검 2차장, 문재인 전 대통령 전 사위의 ‘타이이스타젯 특혜 채용 의혹’을 수사했던 전주지검 이승학 형사3부장 등이다. 조 차장검사는 4차장 검사, 이 부장검사는 반부패수사3부장이 유력한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김태점 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/05/27/YNKPLUL7HNHIXIB5MU6OA3H2SU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/05/27/YNKPLUL7HNHIXIB5MU6OA3H2SU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 May 2024 15:40:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김태점&lt;/b&gt; 별세, &lt;b&gt;황복희&lt;/b&gt; 중소기업투데이 편집국장·&lt;b&gt;황정혜&lt;/b&gt; 충북 증평 삼보초 수석교사 모친상, &lt;b&gt;진경호&lt;/b&gt; 서울신문 논설실장·&lt;b&gt;안중불&lt;/b&gt; 안앤윤 대표 장모상=25일17시30분 서울적십자병원, 발인 28일7시, (02)2002-8444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;남병향&lt;/b&gt; 별세, &lt;b&gt;강수준&lt;/b&gt; 前 한양대 교수·&lt;b&gt;강윤숙&lt;/b&gt;·&lt;b&gt;강수청&lt;/b&gt;·&lt;b&gt;강수돈&lt;/b&gt; 前 삼성물산 전무 모친상=26일10시 문경제일병원, 발인 28일7시, (054)550-7842&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박우동&lt;/b&gt; 별세, &lt;b&gt;최정자&lt;/b&gt; 남편상, &lt;b&gt;박준영&lt;/b&gt;·&lt;b&gt;박현영&lt;/b&gt; 중앙일보 콘텐트제작에디터·&lt;b&gt;박준구&lt;/b&gt; 미국 매사추세츠대 교수 부친상, &lt;b&gt;이원준&lt;/b&gt; 前 액센츄어 아태지역 대표·&lt;b&gt;송범&lt;/b&gt; 前 대신벤처투자 회장 장인상, &lt;b&gt;곽영빈&lt;/b&gt; 미국 매사추세츠대 교수 시부상=26일6시 서울성모병원, 발인 28일9시, (02)2258-5940&lt;br&gt;&lt;br&gt;▲&lt;b&gt;홍택기&lt;/b&gt; 별세, &lt;b&gt;홍성호&lt;/b&gt; 前 반포고 교사·&lt;b&gt;홍성범&lt;/b&gt;·&lt;b&gt;홍성현&lt;/b&gt; 대홍기획 대표·&lt;b&gt;홍선희&lt;/b&gt; 부친상, &lt;b&gt;박재흥&lt;/b&gt; 장인상, &lt;b&gt;추정민&lt;/b&gt;·&lt;b&gt;주선옥&lt;/b&gt;·&lt;b&gt;박희자&lt;/b&gt; 시부상=26일10시10분 단국대병원, 발인 28일7시, (041)550-7474&lt;br&gt;&lt;br&gt;▲&lt;b&gt;황칠봉&lt;/b&gt; 前 휴먼아이텍 회장 별세, &lt;b&gt;황선희&lt;/b&gt;·&lt;b&gt;황선진&lt;/b&gt;·&lt;b&gt;황정민&lt;/b&gt;·&lt;b&gt;황정원&lt;/b&gt; 부친상, &lt;b&gt;김대영&lt;/b&gt;·&lt;b&gt;이근호&lt;/b&gt; 장인상=26일11시13분 서울아산병원, 발인 28일10시, (02)3010-2000&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>구조 개혁, 전체 연금 새판 짜자는 것… 신연금·구연금 나눠 분리 운영도 거론</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/05/27/5EJHPIG2UFEK3MD6SAYOGC4PM4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/05/27/5EJHPIG2UFEK3MD6SAYOGC4PM4/</guid>
-      <dc:creator>선정민 기자, 이세영 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 May 2024 15:55:00 +0000</pubDate>
-      <content:encoded>여야는 현재 연금 ‘구조 개혁’ 방안에 대해서는 구체적인 계획을 밝히지 않고 있다. 이런 가운데 한국개발연구원(KDI)이 제안한 ‘신(新)연금 도입과 구(舊)연금의 분리’ 등이 연금 구조 개혁 방식의 하나로 거론된다.&lt;br&gt;&lt;br&gt;Q1. 구조 개혁은 뭔가&lt;br&gt;&lt;br&gt;국회에서 논의 중인 모수 개혁 방안이 실현돼도 국민연금 재정의 붕괴를 막기는 힘들다. 국회는 현재 9%인 보험료율(소득 대비 내는 돈 비율)을 13%로 인상하는 방안에는 사실상 합의했고, 현행 40%인 소득대체율(받는 돈 비율)은 국민의힘이 44%, 민주당이 45%로 바꾸자며 이견을 보이고 있다.&lt;br&gt;&lt;br&gt;국민연금을 개혁하지 않으면 2055년에 기금은 고갈된다. 이후 2093년까지 2경1656조원의 연금 기금 누적 적자가 생긴다. 반면 보험료율 13%, 소득대체율 44%로 모수 개혁을 하면 기금 고갈 시점은 2064년으로 9년이 늦춰지고, 이후 2093년까지 1경7918조원의 누적 적자가 쌓인다. 개혁을 안 할 때에 비하면 누적 적자가 3738조원 줄어들지만 여전히 남는 누적 적자(1경7918조원)는 미래 세대가 다 떠안게 되므로 해결책이 될 수 없다. 결국 근본적인 구조 개혁이 필요하다는 지적이다.&lt;br&gt;&lt;br&gt;현재 거론되는 구조 개혁 방안으로는 기초연금과 국민연금의 연계·통합, 공무원연금 개혁 등이 꼽힌다. 이 가운데 ‘신연금 구연금 분리’ 방안이 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IP4LA2FHI5HORCQORJE4WF4YBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 22일 서울 중구 프레스센터에서 열린 국민연금 정책 토론회에서 정세은 충남대 교수가 국민연금 개혁 방안을 설명하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;Q2. 신연금 구연금 분리는 뭔가&lt;br&gt;&lt;br&gt;KDI는 미래 세대가 내는 돈을 기존 국민연금 기금이 아닌 ‘새 부대’에 담자고 제안했다. 이 경우 미래 세대는 신연금에 소득의 15.5%(보험료율)를 내면 노후에 생애 평균 월소득의 40%(소득대체율)를 받을 수 있다는 것이다. 현재 제도를 개혁 없이 뒀다가 2078년에 35%의 보험료율을 부담하는 것보다 낫다는 취지다. 하지만 신연금은 가입자가 낸 보험료와 기금 운용 수익을 합한 금액이 총 연금 지급액과 같게 된다. 현 세대의 연금 혜택에는 못 미치는 것이다. 현재 국민연금은 가입자가 평생 낸 돈보다 노후에 받는 돈이 최대 2배 많도록 설계돼 있다. 매년 물가 상승률에 맞춰 연금액이 올라가고, 연금 가입 당시 소득을 현재 가치로 재평가해 가입자에게 유리하게 반영해준다. 이 때문에 정기 예금 등 어떤 재테크 수단보다 수익률과 안정성이 뛰어나다. 신연금이 도입돼도 후세대들은 현 국민연금 수준의 혜택을 누리지 못할 가능성이 크다.&lt;br&gt;&lt;br&gt;구연금에 대한 재정 투입도 불가피하다. KDI에 따르면, 구연금으로 분리할 경우 2046년부터 13년간 국내총생산(GDP)의 1~2%를 재정으로 투입해야 한다. 이 투입분의 현재 가치가 올해 기준 609조원에 달한다.&lt;br&gt;&lt;br&gt;Q3. 다른 구조 개혁 방안은&lt;br&gt;&lt;br&gt;국민의힘 안철수 의원은 “연금특위에서 논의한 수준의 43%와 45%의 소득대체율 모두 피장파장”이라며 소득대체율은 현행(2028년 기준 40%) 수준을 유지하면서 보험료율을 인상해야 한다고 주장했다. 그는 “한번 올린 소득대체율을 다시 내리는 것은 사회적 갈등을 유발하는 매우 어려운 일”이라며 “이것은 연금 파탄의 지름길”이라고도 했다. KDI의 ‘연금 분리’도 현실적으로 한계가 있기 때문에 아예 연금 체계를 바꿔보자는 사람들도 있다.&lt;br&gt;&lt;br&gt;기초연금은 현재 65세 이상 70%인 700만명에게 월 최대 33만4810원을 지급하고 있다. 이를 위해 올해 24조4000억원이 들어간다. 기초연금 부담은 2030년 39조7000억원, 2040년 76조9000억원, 2050년 125조4000억원, 2060년 179조4000억원으로 급증할 전망이다. 일부 연금 전문가들은 “기초연금을 저소득층 위주로 개편하거나, 국민연금과 통합도 고려해야 한다”고 주장한다.&lt;br&gt;&lt;br&gt;공무원연금의 경우 2001년부터 정부 재정이 투입되고 있어 꾸준히 개혁 대상으로 거론된다.&lt;br&gt;&lt;br&gt;Q4. 개혁 가능성과 전망은&lt;br&gt;&lt;br&gt;여당은 22대 국회에서 모수 개혁과 구조 개혁을 동시에 진행하자는 입장이다. 국회 연금 개혁 특위 국민의힘 간사인 유경준 의원은 “민주당은 구조 개혁 논의는 언급조차 안 하다가 이제 와서 22대에 구조 개혁을 하자고 한다”고 주장했다. 반면 민주당 측은 “21대에서 모수 개혁부터 해 놓아야 22대에서 구조 개혁이 가능할 것”이라고 했다. 연금 전문가들은 “선진국들도 모수 개혁부터 하고 구조 개혁에 착수한 경우가 많다”면서도 “연금 개혁 동력이 사라지기 전에 구조 개혁이 반드시 이뤄져야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전국의대교수協 “저질 교육으로 저질 의사 양산”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/05/27/M43GZY7APJCN7NKMP5775V6L5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/05/27/M43GZY7APJCN7NKMP5775V6L5M/</guid>
-      <dc:creator>조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 May 2024 15:55:00 +0000</pubDate>
-      <content:encoded>한국대학교육협의회가 지난 24일 의대 신입생 1509명을 늘리는 내년도 입시 계획을 확정했지만 의사들은 계속 반발하고 있다.&lt;br&gt;&lt;br&gt;전국 40개 의대 교수 단체인 전국의과대학교수협의회(전의교협)는 26일 입장문을 내고 “의대 수업 현장은 타과 교수도, 총장도, 공무원도, 정치인도 알 수 없다”며 “(의대 증원으로) 저질 교육이 될 게 눈에 보이는데, 저질 의사가 양산될 것을 알고 있는데, 어떻게 증원에 찬성할 수 있겠나”라고 했다. 이들은 “(앞으로 의대 교육이) 가건물 수업, 천막 수업, 인터넷 수업, 그룹 수업 폐지, 실기 시험 폐지, 해부 실습 동영상 대체, 모의 환자 폐지 (등으로 부실화할 것)”이라고 했다. 또 “기초 의학을 가르칠 교수는 씨가 말랐다. 신축 건물은 부지도 확보되지 않았다”며 “(정부 측에) 교육이 불가능하다고 수없이 호소해도 소귀에 경 읽기”라고 했다.&lt;br&gt;&lt;br&gt;전의교협은 정원이 10% 이상 늘어나는 전국 30곳 의대 교수 1031명을 상대로 한 자체 설문 조사 결과도 공개했다. 이 조사에서 응답자의 95%가 “(늘어난 의대생을 가르칠) 교육 여건이 준비가 안 돼 있다”고 답했다. ‘의대 증원이 이뤄진다면 이에 맞춰 의대 교수를 적절히 확보할 수 있을 것으로 생각하느냐’는 질문엔 96%가 ‘그렇지 않다’고 했고, ‘강의실 등 건물이 적절히 준비될 수 있는가’란 질문엔 95%가 ‘그렇지 않다’고 했다.&lt;br&gt;&lt;br&gt;정부는 의대 정원이 늘어나는 만큼 교수진을 늘리고, 정원 확대 폭이 큰 국립대 등을 중심으로 정부 예산을 투입해 설비 확충에 차질이 없도록 한다는 방침이다. 다만 의대 실습 규모가 커지는 만큼 해부용 시신을 확보할 수 있을지에 대해서는 여전히 의문이 제기된다. 보건복지부 산하 국가생명윤리정책원이 지난해 말 성인 500명을 설문 조사한 결과, 응답자의 52%가 ‘(해부 실습 목적 등의) 시신 기증 활성화가 필요하다’고 답했다. 실제 본인 또는 가족의 사후 시신 기증 의향을 묻자, 본인의 경우 사후 기증 의향은 5점 만점에 2.91점에 그쳤다. 가족의 경우엔 2.7점으로 더 낮았다. 기증하지 않는 이유로는 시신 훼손 거부감, 기증 시신의 사후 관리에 대한 불신 등을 들었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] knowing smile</title>
-      <link>https://www.chosun.com/national/nie/english/2024/05/27/S7OUYXYQ5VFGZCHRUO3I4NNH24/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/05/27/S7OUYXYQ5VFGZCHRUO3I4NNH24/</guid>
-      <description/>
-      <pubDate>Sun, 26 May 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KU6ENEPHVVCUBKY3PZO5QDI6ZA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[두근두근 뇌 운동] [2386] 쿵작쿵작 장단치기</title>
       <link>https://www.chosun.com/national/nie/2024/05/27/JDXL2I6TLBGV5KF3OWY6LFB3F4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/05/27/JDXL2I6TLBGV5KF3OWY6LFB3F4/</guid>
@@ -876,57 +911,12 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4BCHC5NNRFAD3FX6XSQH5LVUDI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[입에 착착 붙는 일본어] 효과가 나타나다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/05/27/XSN4W4Z6IZFFDMLFE7IRICDOXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/05/27/XSN4W4Z6IZFFDMLFE7IRICDOXI/</guid>
-      <description/>
-      <pubDate>Sun, 26 May 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2IGUUTWQ3NFMJPPZGXODFGMELI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문으로 배우는 실용한자] 당혹(當惑)</title>
       <link>https://www.chosun.com/national/nie/chinese_character/2024/05/27/HPIK5E3CBFDETNZ6ZFODQOLU74/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/05/27/HPIK5E3CBFDETNZ6ZFODQOLU74/</guid>
       <description/>
       <pubDate>Sun, 26 May 2024 15:40:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBZ7ZCSMIRD5FA6ORMANSVG4NM.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 성심성의</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/05/27/CAH75ZLYMBARTLIJ77PMLCIL3A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/05/27/CAH75ZLYMBARTLIJ77PMLCIL3A/</guid>
-      <description/>
-      <pubDate>Sun, 26 May 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PFRIIQBL65CBRI7TBUUNZMJLXY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 5월 27일</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/27/YPQMHUTJOJFXRBLYTQ5JOFBHAY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/27/YPQMHUTJOJFXRBLYTQ5JOFBHAY/</guid>
-      <description/>
-      <pubDate>Sun, 26 May 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2NWFCSNSXBGTXPB75OHLFK4HXI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [식물 이야기] 하얀 꽃으로 숲 물들이고, 딸기 닮은 달짝지근한 열매 열려요</title>
-      <link>https://www.chosun.com/national/nie/2024/05/27/CF6R3U3KPRHYBHTRWIKH7U35AI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/05/27/CF6R3U3KPRHYBHTRWIKH7U35AI/</guid>
-      <dc:creator>김민철 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 May 2024 15:30:00 +0000</pubDate>
-      <content:encoded>요즘 공원이나 산에서 하얀 꽃잎(정확히는 꽃싸개)이 4장 달린 꽃이 핀 나무를 볼 수 있습니다. 크고 새하얀 꽃이 마치 층을 이루듯 무리 지어 피어 있는데요, 이 나무는 산딸나무입니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z4NX5BR56NADVJ2VG3S76AAEDQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;산딸나무에 꽃이 핀 모습(왼쪽). 산딸나무는 때죽나무, 쪽동백나무와 함께 5~6월 숲을 하얗게 만드는 주인공이에요. 오른쪽 사진은 산딸나무 열매예요. /김민철 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;산딸나무는 높이 10m 안팎으로 자라는 큰키나무입니다. 우리나라 중부 이남 어디서나 비교적 잘 자라요. 원래 깊은 산속에서 자라는 나무였으나 꽃이 아름다워 공원이나 화단에도 많이 심고 있습니다. 몇 년 전까지만 해도 고궁 등에서만 보이더니 요즘엔 우리 주변에서 흔하게 볼 수 있는 것 같습니다.&lt;br&gt;&lt;br&gt;산딸나무는 층층나뭇과에 속해서 가지가 층을 이루고, 5~6월에 피는 꽃들도 그 층을 따라 핍니다. 때죽나무, 쪽동백나무와 함께 5~6월 숲을 하얗게 만드는 주인공이라고 할 수 있습니다.&lt;br&gt;&lt;br&gt;산딸나무 꽃싸개는 2장씩 서로 마주 보고 피어서 십자가 모양을 하고 있습니다. 꽃싸개는 꽃봉오리를 보호하기 위해 에워싸고 있는 잎을 말합니다. 꽃싸개 4장이 겹쳐진 지점에 있는 녹색의 동그란 것이 산딸나무 꽃입니다. 같은 층층나뭇과에 속하는 층층나무나 말채나무는 꽃이 작고 볼품없습니다. 하지만 산딸나무는 꽃싸개 4장을 만들어 웬만한 꽃보다도 예쁘게 진화했습니다. 우거진 초여름 숲에서 작은 꽃으로는 꽃가루받이 매개체의 눈에 잘 띄지 않는다고 보고 큰 꽃처럼 보이게 꽃싸개를 만든 겁니다. 꽃은 기품이 있고 줄기는 매끄러워 전체적으로 깔끔한 인상을 주는 나무입니다.&lt;br&gt;&lt;br&gt;산딸나무는 가을에 또 한번 주목을 받습니다. 나무에 마치 딸기가 주렁주렁 달린 듯 산딸나무 열매가 빨갛게 익어가기 때문입니다. 산딸나무라는 이름은 산딸나무의 빨간 열매가 마치 산딸기를 닮았다고 해서 붙여졌습니다. 산딸나무에 열매가 익어가는 모습을 처음 보는 사람이라면 ‘나무에 딸기가 달렸네’라는 생각이 절로 나올 정도로 열매가 딸기와 똑같이 생겼습니다. 늦가을이 되면 이 붉은 열매가 떨어져, 나무 아래가 온통 붉은색인 경우를 볼 수 있습니다.&lt;br&gt;&lt;br&gt;산딸나무 열매를 먹어본 적이 있는지요? 의외로 먹을 만합니다. 즙도 많고 달짝지근해 사 먹는 과일보다 더 먹을 만하다는 생각도 듭니다. 다만 씨가 삼키기에는 너무 굵으니 뱉어내야 합니다.&lt;br&gt;&lt;br&gt;산딸나무는 이처럼 독특한 꽃과 열매 때문인지 사람들이 관심을 많이 갖는 나무입니다. 꽃으로 한번, 열매로 또 한번 주목을 받지요. 가끔 꽃싸개 끝부분이 오므라들거나 잘린 모양을 한 산딸나무도 보입니다. 이건 북미 원산의 꽃산딸나무입니다. 흔히 미국산딸나무라고 부릅니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강형욱 “아내는 통일교 2세…탈퇴해 父도 안 만난다”</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/26/POYP6Z6SQVAKFD3AFZTKVK4JOU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/26/POYP6Z6SQVAKFD3AFZTKVK4JOU/</guid>
-      <dc:creator>김가연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 May 2024 05:38:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2X7WPGXDAIT2LC7NFDGH3DEKG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;동물훈련사 강형욱씨(오른쪽)와 그의 아내 수잔 엘더. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동물훈련사 강형욱씨가 직원들에게 ‘갑질’을 했다는 의혹을 해명하며, 아내 수잔 예희 엘더의 종교 문제에 대해서도 입을 열었다.&lt;br&gt;&lt;br&gt;강씨는 25일 공개된 디스패치와 인터뷰에서 “아내가 통일교 2세였다”고 밝혔다. 갑질 논란이 불거진 뒤, 온라인상에서 “강씨가 통일교이기 때문에 진돗개를 차별한다”는 주장이 확산하자 적극적으로 해명에 나선 것이다.&lt;br&gt;&lt;br&gt;그는 “수잔은 스스로 (통일교에서) 빠져나왔다”며 “자신의 의지와 상관 없이 부모님 때문에 그 종교인이 됐다”고 했다. 그러면서 아내가 20살 때 통일교를 탈퇴했다고 전했다.&lt;br&gt;&lt;br&gt;강씨는 이 논란에 대해 “당당하게 말하자”며 아내를 설득했고, 아내 또한 “솔직하게 말하라”며 고개를 끄덕여줬다고 한다. 강씨는 “아내는 통일교를 빠져나온 뒤, 장인을 거의 보지 않는다”며 “(장인은) 우리 결혼식에도 안 왔다”고 했다.&lt;br&gt;&lt;br&gt;이어 “(아내는) ‘나 같은 통일교 2세들을 돕고 싶다’는 꿈을 갖고 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;한편 강씨를 둘러싼 논란은 최근 채용·구직 플랫폼 잡플래닛에 게재된 퇴사자들의 글이 알려지면서 불거졌다. 해당 페이지에는 “직장 내 괴롭힘이 있었다”는 취지의 글이 다수 올라왔다. 이후 퇴사자라고 주장하는 이들의 폭로가 이어지며 논란이 더욱 확산했다.&lt;br&gt;&lt;br&gt;강씨는 24일 자신의 유튜브에 영상을 올리고 ‘CCTV로 직원들 감시’ ‘배변 봉투에 햄 통조림을 넣은 명절선물’ ‘동물학대’ 등 여러 논란에 대해 해명했다. 그는 “제가 열심히 일하고 정말 멋진 직원분들과 훌륭한 훈련사님들이 계셨던 제가 일했던 곳을 이렇게 억측하고 비방하시는 분들에게 그만 멈춰달라고 부탁드리고 싶다”며 “그들을 지키기 위해서 필요하다면 법적 조치도 할 계획”이라고 법적대응을 시사하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/2X7WPGXDAIT2LC7NFDGH3DEKG4.jpg?width=889&amp;height=540&amp;auth=7fc882b017c678599da74f1bbeee580a29cc6ce1640cd13248fb28e9e77df442&amp;smart=true" type="image/jpeg" height="540" width="889">
-        <media:description type="plain">사진=강형욱 유튜브 채널 '강형욱의 보듬TV' 캡처</media:description>
-      </media:content>
     </item>
     <item>
       <title>서울동행버스, 6월10일부터 퇴근길도 운행</title>
