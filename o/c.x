@@ -13,6 +13,190 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울시 검사 담당 “중국 직구 슬라임 5분 지나니 목 따끔거려 놀라”</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/29/YRN7MTGP6BF77F65D5GH32JMCY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/29/YRN7MTGP6BF77F65D5GH32JMCY/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 16:03:08 +0000</pubDate>
+      <content:encoded>서울시는 중국 온라인 쇼핑몰 직구 제품의 안전성을 검사하기 위해 지난 3월부터 국내 시험 기관 3곳과 협업해 왔다. 한국건설생활환경시험연구원(KCL)과 FITI시험연구원, KATRI시험연구원이 그들이다. 세 곳 모두 국가기술표준원이 지정한 ‘KC인증’ 시험 기관이다.&lt;br&gt;&lt;br&gt;원칙적으로 국내에서 물건을 팔려면 안전 인증인 ‘KC인증’을 받아야 하는데, 직구 제품은 해외 쇼핑몰에서 소비자에게 바로 배송해 이런 ‘안전망’을 거치지 않는다.&lt;br&gt;&lt;br&gt;서울시와 시험 기관 연구원들은 안전성 검사를 위해 매주 머리를 맞댔다고 한다. 지난달 첫 시험 결과를 발표하기 위해 한 달 전인 3월부터 매일 알리익스프레스·테무·쉬인 홈페이지와 앱을 검색해 판매량이 많은 어린이 용품을 추렸고 직접 직구를 했다. 서울시 관계자는 “국내로 배송이 길게는 2주까지 걸리기 때문에 한 달 전에는 주문을 완료해야 했다”고 했다.&lt;br&gt;&lt;br&gt;검사 담당자들은 처음에는 “매주 발표는 어려울 것”이라고 예상했다고 한다. 유해 물질이 나오지 않는 때도 있을 것이라고 본 것이다. 그러나 막상 검사를 진행해보니 “어떻게 이렇게 매번 나오나”라는 말이 나왔다고 한다. 김경미 서울시 공정경제담당관은 “가습기 살균제 성분이 검출된 슬라임을 책상 위에 5분 정도 뒀는데 목이 따끔거려 깜짝 놀라기도 했다”고 말했다.&lt;br&gt;&lt;br&gt;지금까지 7차례 시험에 총 1억4000만원 정도가 들었다고 한다. 최근 서울시와 정식으로 업무협약을 맺은 세 연구원은 “국민 건강에 중요한 시험인 만큼 비용 절반을 부담하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;서울시는 검사 결과를 발표한 뒤 국내외 온라인 쇼핑몰에 ‘XX 물건은 판매하지 말아 달라’는 공문을 보내고 있다. 알리와 테무 측에도 ‘판매 중지’ 요청을 보냈다. 서울시 관계자는 “통상 2~3일 정도면 문제 상품이 쇼핑몰에서 사라진다”며 “중국 직구 제품의 안전성 논란이 커지다 보니 중국 쇼핑몰도 비교적 빠르게 대응하는 분위기”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>70%가 다문화...한국 학생이 소수가 된 한국 학교들</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/29/YKBRXOPLVNHARDJPPMKVVDF4K4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/29/YKBRXOPLVNHARDJPPMKVVDF4K4/</guid>
+      <dc:creator>김수경 기자, 장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 20:05:00 +0000</pubDate>
+      <content:encoded>인천 문남초는 전교생 590여 명 중 70% 이상이 다문화 학생이다. 정문 현수막 한글 밑에 러시아어 키릴 문자가 병기돼 있고, 가정통신문도 한국어·러시아어 2개 국어로 제공된다. 문남초 교사들은 방과 후 러시아어 공부도 한다. “한국어가 서툰 다문화 학생들에게 칭찬을 해주고 싶어서”다. 본지가 최근 찾은 문남초 등·하굣길에서 한국 학생과 다문화 학생들이 저마다 따로 다니는 모습이 목격됐다. 하굣길에 만난 다문화 학생들은 러시아어로 얘기하며 태권도 학원 버스에 올라탔다.&lt;br&gt;&lt;br&gt;수년 전까지만 해도 이 학교 다문화 학생은 전체의 20~30% 정도였다. 기존엔 중국·베트남계가 많았지만 최근 코로나와 러시아·우크라이나 전쟁 여파로 러시아·중앙아시아계도 늘었다고 한다. 이 학교 다문화 학생들은 한국어를 전혀 못하거나 학습이 더디다. ‘소수자’가 된 한국 학생들은 이들과 수업을 듣느라 수학·영어 등 진도를 잘 나가지 못한다. 수도권에서 다문화 학생이 50% 이상을 차지하는 학교가 늘어나면서 한국인 학부모들이 이런 학교 진학을 사전에 주소 이전 등으로 기피하거나 전학하곤 한다. “다문화 학생들과 분반해서 수업해 달라”는 민원도 잦아졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y5S53HZNVJDB5OI5IXV364HUNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문남초의 한 학부모는 “한국어를 러시아어로 통역해주는 보조 교사 확충이 절실하다”며 “한국인 학부모인 내가 이런 걸 바랄 줄은 몰랐다”고 했다. 그는 올해 안에 딸을 전학시킬 예정이다. 다문화 학생 비율이 80%에 이르는 인근의 함박초를 비롯, 인천과 경기 안산 일대 학교들도 비슷한 문제를 겪고 있다. 안산 원곡초의 2021년 다문화 학생 비율은 98.6%로 전교생 449명 중 6명만 한국 학생이었다.&lt;br&gt;&lt;br&gt;문남초 2학년 한 학급은 학생 총 18명 중 한국 학생은 5명, 다문화 학생이 13명이다. 다른 학급도 한국 학생 7명, 다문화 학생 10명이다. 교사는 한국어로 수업하지만 러시아어 통역 교사는 부족하다. 다문화 학생들은 한국어를 이해하지 못해 수업을 따라가지 못하고 한국 학생들은 “수업 진도를 빨리 나가달라”고 요구하는 악순환이 이어진다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W4VBOIEDSJGQBHE5SW5UQZZQ5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한글 못 읽을까… 러시아어로 안내 - 지난 7일 학생들이 오가는 인천 연수구 문남초등학교 정문 위에 ‘사이버폭력 로그아웃! 친구사랑 로그인!’이라고 적힌 현수막이 걸려 있다. 이 현수막에는 한글 아래 작은 글씨로 러시아 키릴문자가 함께 적혀 있다. 이 학교 학생 10명 중 7명이 중앙아시아계·러시아계 등 다문화 학생이기 때문이다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문남초 한국 학부모들은 올 초 한국 학생과 다문화 학생을 나눠서 수업하자며 투표를 제안했다. 그러나 다문화 학생 학부모들은 한국 학생들과 교육받길 원한다며 반대해 이뤄지지 않았다. 이 학교에 두 자녀를 보내고 있는 장모(45)씨는 “문남초에 아이들을 보내고 싶지 않았지만 집 위치 때문에 어쩔 수 없었다”며 “자녀들을 전학 보내고 싶지만 상황이 여의치 않다”고 했다.&lt;br&gt;&lt;br&gt;인천교육청 세계시민교육과 박상희 장학사는 “문남초는 교육청에서도 어떻게 지원하면 좋을지 모를 만큼 어려운 상황”이라며 “학급당 다문화 학생 비율이 20~30% 수준이었을 때는 한국인 학부모들도 ‘내 아이가 외국 문화, 외국어를 배우고 타인을 이해하는 법을 배우게 될 것’이라며 기대가 높았는데, 다문화 학생 수가 절반이 넘어간 이후로는 한국 학부모들의 불만이 커졌다”고 했다. 박 장학사는 “교원 정원이 계속 줄어드는 상황에서 교육청은 재량으로라도 추가 교원을 확보해 주려 하지만 인력이 턱없이 부족하다”고 했다. 교사들 역시 이런 다문화 학교에 부임하기를 꺼리기 때문이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ABI72NGNYVGMPJ55Z2UW2TGNRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;각종 공단이 많은 인천·안산엔 다문화 학생 비율이 40%대에서 97%에 이르는 학교가 산재한다. 서울도 올해 초 기준으로 다문화 학생 비율이 70% 이상인 초교가 2곳, 40% 이상인 곳은 중학교를 포함해 10곳이었다. 충북 청주, 전남 함평에도 다문화 학생 비율이 40~60%대인 학교가 여럿 있다.&lt;br&gt;&lt;br&gt;기존 중국·베트남·태국계 다문화 학생뿐 아니라 러시아·우크라이나·중앙아시아계 다문화 학생들의 유입도 늘어나는 상황이다. 안산의 한 중학교 교장은 “500명대 전교생 중 다문화 학생이 2022년 초엔 20~30명 정도였는데 러·우 전쟁을 기점으로 대거 유입된 중앙아시아·러시아계 학생들이 이젠 150명이 넘는다”고 했다. 이 학교는 다문화 학생 입학 희망자가 속출하자 한국어 입학 시험을 도입했다. 이 교장은 “시험을 통해 다문화 학생 비율을 30%대로 유지하고 있다”며 “입학을 희망하는 다문화 학생들을 전부 받았다면 한국 학생 지도에도 차질이 있었을 것”이라고 했다.&lt;br&gt;&lt;br&gt;전문가들은 “대한민국이 다문화 사회로 이행하는 과도기적 현상”이라고 했다. 일선 교육청과 학교 역시 학부모·학생 동반 한국어 교육 지원, 다중 언어 학습 자료 개발 등을 추진 중이다. 미국 일선 학교처럼 영어와 스페인어·한국어 등을 병용하는 ‘다중 언어 교육’도 대안 중 하나로 거론된다. 경인교대 장인실 한국다문화교육연구원장은 “한국 공동체 구성원이 다원화된 데 따른 다양한 교육과정을 개발·운영할 필요가 있다”며 “다문화 학생들이 한국의 제도권 교육에서 이탈하지 않도록 하는 일이 향후 국가적 과제가 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] “심부전 환자? 오시라 하소” 응급실 당직 서는 병원장</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/05/29/DQUU2XW52BARJF4DONVBQHAZD4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/05/29/DQUU2XW52BARJF4DONVBQHAZD4/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 20:02:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FBHG5A2QVVEXXNELDXMY4ZTCNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 27일 오후 대전 서구 건양대병원 권역응급의료센터에서 심장내과 전문의인 배장호(가운데) 의료원장이 구급대에 실려온 환자를 살피고 있다. 배 원장은 이날 병동 회진, 외래 진료, 심혈관 시술, 각종 회의 참석과 서류 결재 등 행정 업무에 이어 14시간 밤샘 응급실 당직까지 26시간 연속 일했다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 27일 오후 6시 대전 서구 건양대병원 권역응급의료센터. 심장내과 전문의인 배장호(57) 의료원장이 “오시라고 해요!” “오시라 하소!”라고 연이어 소리쳤다. 이날 응급실 당직 의사를 맡은 그는 대전 일대에서 앰뷸런스로 실려오는 환자들과 인근 대형 병원의 환자 전원 수용 요청을 마다하지 않고 모두 받아주고 있었다.&lt;br&gt;&lt;br&gt;“환자를 보면 외면할 수가 없어요. 우리 병원이 올해 처음 상급종합병원으로 지정됐는데, 최종 의료기관으로서 환자들을 돌보지 않으면 어떻게 하겠습니까.”&lt;br&gt;&lt;br&gt;병원장인 그가 이날 응급실을 지키는 이유는 정부의 의대 증원으로 인한 갈등으로 전공의들이 현장을 떠났기 때문이다.&lt;br&gt;&lt;br&gt;건양대 권역응급의료센터는 2900여㎡ 규모에 중증응급·감염격리·소아응급 병상을 포함해 총 91병상을 갖춘 지역 거점 응급실이다. 전공의 이탈 전 이곳엔 응급의학과 교수 8명과 전공의 8명이 일했는데 현재 전공의가 모두 나갔고 교수 1명도 그만뒀다. 의료진의 과부하가 이어지자, 병원장인 그가 당직을 자청하고 나섰다. 그는 “아무리 병원장이라도 다른 교수들에게 응급실을 맡아달라고 부탁하기는 어렵다”며 “제가 직접 근무해보면서 어려운 점이 무엇인지 체험하는 게 좋겠다고 생각했다”고 설명했다. 그는 의료 파행 사태와 관련해 정부에 아쉬움을 표하면서도 “환자가 없으면 의사도 없다. 의사는 환자의 이익과 권리에 따라 결정해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이날 오전 6시 병원에 출근했고, 전문의와 병원장으로서 12시간 동안 막 ‘전투’를 끝냈지만, 응급실 문을 열자 또 다른 최전선이 펼쳐져 있다. 의료진의 심폐 소생을 받는 80대 여성, 머리가 깨진 채 울음을 터뜨리는 남자아이…. 14시간 밤샘 응급실 당직이 시작됐다. 총 26시간의 연속 근무다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IX3LBCMAUFETVMLQVJFEW35INQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인근 대학병원에서 심부전(심장이 혈액을 신체 조직에 제대로 공급하지 못하는 질환)으로 투석이 필요한 중증의 60대 여성 환자를 받아달라는 전원 요청이 왔다는 보고가 들어왔다. “오시라고 해”라고 소리친 배 원장은 얼마 지나지 않아 “왜 빨리 안 와…”라고 혼잣말을 했다. 빨리 환자 상태를 보고 싶어 초조해진 것이다.&lt;br&gt;&lt;br&gt;그는 “내일 몸살이 날 것 같다”면서도 “응급실을 지키기 위해서”라고 짧게 말했다. 그는 관상동맥 조영술은 1만번 이상, 부정맥 시술은 1000번 이상 집도하고 세계적인 의학 학술지에 다수의 연구 성과를 게재한 심장내과 명의다. 이날도 오전 6시부터 입원 병동 회진을 하고, 130여명의 심장 환자 외래 진료를 보고, 2시간 30분 동안 각종 심혈관 질환 시술을 했다. 그 사이 틈틈이 병원 원장으로서 보고받고 서류 결재하고 점심은 의사들과 회의 도중 도시락으로 해결했다.&lt;br&gt;&lt;br&gt;응급실은 각종 기기 모니터와 전선, 병상에 누운 환자, 간호사, 의사가 뒤엉킨 좁은 공간이다. 배 원장은 매 순간 빠르게 걷다가 멈추고, 또다시 재빠르게 움직였다. 응급실 문으로 불쑥 들어오는 병상으로 달려가 환자 상태를 살피고, 순간 한쪽 벽으로 옮겨가 검사 영상을 점검하고 있다. 잠깐 컴퓨터에 앉아 소견을 타이핑한다. 또 다른 병상을 보고 간호사들에게 속사포처럼 지시한다. 그가 머문 곳마다 기압이 팽팽해지는 것 같다. 이날 오후 8시 응급실엔 중증 환자 9명, ‘응급’ 상태 환자 1명, 의료진이 심폐 소생술 중인 환자 1명이 있다. 그와의 대화는 매번 끊겼다. 그는 “(의료 파행 사태 이후) 응급실이 최근에 특히 바빠졌다”고 했다.&lt;br&gt;&lt;br&gt;-병원장의 응급실 근무는 이례적이다.&lt;br&gt;&lt;br&gt;“병원장이 행정 업무만 할 게 아니라 솔선수범하는 모습을 보여야 한다고 생각했다.” 병원 측에 따르면, 두 달 전부터 자진해 응급실 당직을 서겠다는 그를 병원 간부 의사들이 거듭 만류한 끝에 이날 첫 응급실 근무가 시작됐다.&lt;br&gt;&lt;br&gt;-26시간 연속 근무가 가능한가.&lt;br&gt;&lt;br&gt;“위중한 환자가 많아 체력적으로, 심리적으로 힘들다. 심근경색 환자가 혈압이 갑자기 50 미만으로 떨어져서 쇼크 상태로 병원에 오면 한두시간 수술을 해야 한다. 흥분된 상태로 집에 돌아가 잠을 못 자고 뒤척이다가 다음 날 다시 출근하는 일이 비일비재하다.”&lt;br&gt;&lt;br&gt;-의사로서 언제 보람을 느끼나.&lt;br&gt;&lt;br&gt;“특히 야간이나 휴일에 응급 시술이 잘됐을 때 환자 분들이 너무 행복해한다. 보호자 분들도 너무 고마워할 때가 최고의 순간이다.”&lt;br&gt;&lt;br&gt;배 원장은 “제가 1992년 (전공의인) 레지던트 생활을 시작할 때만 해도 내과가 제일 인기가 좋았는데 지금은 제일 안 하려고 하는 과목이 됐다”며 “(요즘은) 환자가 죽거나 사는 문제가 없어서 부담이 없는 과목을 전공하려고 하는 것 같다”고 했다. 그는 “(응급·필수 의료는) 항상 환자 ‘콜’(call·부름)에 대기하고, 새벽 1시 넘는 시각에도 응급 콜이 오면 병원으로 달려가야 한다는 부담감이 있다”며 “예전에 비해 지원자가 굉장히 많이 줄었다”고 했다.&lt;br&gt;&lt;br&gt;이번 의정 갈등에 건양대병원도 병원들의 ‘주 1회 휴진’에 동참하겠다고 했지만, 실제로는 “환자들과의 약속을 지키겠다”며 휴진하지 않고 계속 진료했다.&lt;br&gt;&lt;br&gt;-의대 증원이 사실상 확정됐다.&lt;br&gt;&lt;br&gt;“의사 수를 늘려야 하는 것에는 찬성하지만 (증원 수) 1509명은 너무 많다. 갑작스럽게 늘어난 학생들을 가르칠 교수 인원도 늘려야 하고, 준비가 덜 된 상황인 것 같다.”&lt;br&gt;&lt;br&gt;-사태가 계속 길어지고 있는데.&lt;br&gt;&lt;br&gt;“의료계와 정부가 서로 한 발씩 양보해야 한다. 어느 한쪽이 100％ 만족하는 방향으로 가긴 힘들다.”&lt;br&gt;&lt;br&gt;-의사들이 상처받고 현장을 떠났다.&lt;br&gt;&lt;br&gt;“(잠시 말을 멈추더니) 가장 우선시해야 할 것은 다름 아닌 환자다. 환자의 이익과 권리를 가장 먼저 생각하고 이에 따라 결정해야 한다. 최근 어느 누가 ‘의사가 없으면 환자도 없다’라는 말을 했다는데, 바보 같은 생각이다.”&lt;br&gt;&lt;br&gt;배 원장은 대구에서 전공의 수련을 마치고 2000년 건양대병원이 개원할 때 합류했다. 그는 “서울에 있는 병원도 좋지만 지역 병원에서, 특히 새로 생기는 병원에서 저 스스로 모든 걸 셋업(set up·수립)해보고 싶은 욕심이 컸다”고 했다. 2002년 건양대병원 심혈관센터가 문을 열고 20년 만인 2022년 심뇌혈관센터가 지어질 때도 건물 내부 구조 결정 등 거의 모든 과정을 직접 챙겼다. 그는 “센터 내 창문 위치, 콘센트 위치 등 모든 시설을 전부 디자인했다”며 “문의 크기, 문 여는 방식 등이 환자의 동선에 영향을 미쳐 진료 효율과도 관계 있기 때문”이라고 했다. 병원장으로서 가장 힘든 일 중 하나는 필수 의료진을 구하는 것이라고 한다. 그는 “뇌혈관 시술하는 의사 찾기가 쉽지 않았다. 결국 제 친구 한 명 겨우 찾아서 데려왔다”며 “서울 외 지역에서는 필수 의료 의사, 간호사 모두 구하기 힘들다”고 했다.&lt;br&gt;&lt;br&gt;그는 이번 사태에 대한 거듭된 질문에 “의사란 직업은 힘들지만 보람 있다. 이렇게 보람 있는 직업이 어디 있느냐”고 반문했다. “환자한테 좀 따뜻하게 다가갈 수 있고 환자를 제일 먼저 생각할 수 있는 그런 의사가 돼야 하지 않겠나”라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 서울대에 “수사학과 만들어달라”는 검찰</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/29/PMDNLVGZZZBINHLMCAX5K65SCM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/29/PMDNLVGZZZBINHLMCAX5K65SCM/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 20:00:00 +0000</pubDate>
+      <content:encoded>대검찰청이 최근 폭증하는 금융·증권 범죄에 대처하기 위해 서울대에 관련 ‘수사학과’ 신설을 요청했지만 서울대는 난색을 표하는 것으로 28일 알려졌다. 대검찰청은 지난해 ‘계약학과’ 형식으로 수사학과를 신설해 달라고 서울대에 요청했다. 계약학과는 대학이 국가·지방자치단체·산업체 등과 계약해 설치하는 학과다. 서울대 정치학과 선후배 관계인 유홍림 총장과 이원석 검찰총장 간 ‘교감’도 있었다고 한다. 지난달엔 대검에서 기획조정부장 등 검사장급 간부와 실무진이 서울대 관악캠퍼스를 직접 방문, 학과 개설 필요성을 역설했다.&lt;br&gt;&lt;br&gt;서울대는 2013년 검찰 요청을 받고 융합과학기술대학원에 디지털 포렌식 전문 인력 양성 학과인 수리정보과학과를 만든 선례가 있다. 서울대 본부는 이번 검찰 요청을 긍정적으로 검토했다. 하지만 일선 학과 차원에서 난항을 겪고 있다. 금융·증권 범죄를 다스리는 자본시장법이나, 각종 금융 상품 제작·운영 기법과 맞닿아 있는 경영학과와 경제학부 모두 “새로운 강의를 개설할 여력이 없다”는 입장이다. 검사나 수사관들의 전문성 보강을 위해 개설되는 ‘수사학과’의 등록금 수익 등은 오로지 이 학과만을 위해 써야 한다. 학과나 교수 입장에선 새 학과를 만들어 강의할 필요가 없는 ‘가욋일’이라는 것이다. 게다가 다른 권력기관도 아닌 검찰을 상대해야 하는 실무가 잦아지기에 교수·직원들이 부담을 느끼고 있다고 한다.&lt;br&gt;&lt;br&gt;검찰이 서울대에 ‘수사학과’를 개설해 달라고 거듭 요구한 배경엔 최근 금융·증권 범죄의 발생이 늘고 가상 자산 사기 등 경제 범죄의 종류도 다양해진 현상이 있다. 수사 일선에서 “범행 수법이 지능·첨단·전문화되기 때문에 우리도 대처해야 한다”는 목소리가 나온다.&lt;br&gt;&lt;br&gt;지난해 검찰의 금융·증권 범죄 기소 인원은 902명으로, 2020년(573명)보다 57.4% 늘었다. 검찰의 기소 건수도 399건에서 535건으로 34.1% 증가했다. 특히 같은 기간 금융 범죄 중점 검찰청인 서울남부지검의 기소 인원은 174명에서 351명으로 약 2배 증가했다. 남부지검 추징보전 총액도 4449억원에서 1조9796억원으로 4.5배 가까이로 늘었다. 그만큼 검찰의 ‘금융·증권 전문성’이 중요해졌다는 것이다.&lt;br&gt;&lt;br&gt;서울대 관계자는 “검찰뿐 아니라 금융감독원 등 다른 정부 기관에서도 금융·증권 관련 전문성 강화를 위한 강의 수요가 있는 것으로 안다”고 했다. 서울대 내에선 개별 학과 차원이 아니라 정부 예산이 중점 지원되는 ‘수사전문대학원’ 신설 등을 검토할 필요성이 있다는 말도 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>머리띠서 ‘성장 방해’ 물질… 점토엔 가습기 살균제 성분</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/29/Q6YM2SNQE5DJNGQWU2KXF6KICA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/29/Q6YM2SNQE5DJNGQWU2KXF6KICA/</guid>
+      <dc:creator>최종석 기자, 최연진 기자, 박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 16:02:29 +0000</pubDate>
+      <content:encoded>서울시가 지난달부터 7차례에 걸쳐 중국의 온라인 쇼핑몰 ‘알리익스프레스’와 ‘테무’ ‘쉬인’에서 판매하는 어린이 제품 93개의 안전성을 검사한 결과, 40개(43%)가 ‘부적합’ 판정을 받았다. 제품 10개 중 4개 이상에서 유해 물질 등이 발견돼 사용하기 안전하지 않다는 것이다.&lt;br&gt;&lt;br&gt;서울시는 28일 이 같은 내용의 중국 해외 직구 안전성 검사 결과를 발표했다. 서울시는 지난달 8일 ‘해외 온라인 플랫폼 소비자 안전 확보 대책’을 발표한 이후 매주 검사 결과를 발표하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RAGK2VSBEREUBDZRG36VWM7C7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7차례 검사 결과를 종합해보면, 유해 물질 중에서 어린이의 성장을 방해하는 프탈레이트계 첨가제가 25건으로 가장 많이 검출됐다. 프탈레이트계 첨가제는 7차례 검사에서 모두 검출됐다. 쉬인에서 판매한 어린이 신발 밑창에서는 국내 기준치의 428배에 달하는 프탈레이트계 첨가제가 검출됐다. 알리의 어린이 머리띠에서도 기준치의 270배에 달하는 프탈레이트계 첨가제가 나왔다. 프탈레이트계 첨가제는 플라스틱 가공을 쉽게 하기 위해 넣는 물질이다. 이빛나리 KATRI시험연구원 주임연구원은 “국내 업체들은 안전 기준을 맞추기 위해 프탈레이트계 첨가제 사용을 최소화하거나 다른 첨가제를 사용하는데 중국 업체들은 제품 가격을 낮추기 위해 많이 쓰는 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;납이나 니켈 등 중금속은 총 15개 제품에서 발견됐다. 쉬인에서 판매한 어린이 시계에서는 기준치의 278배가 넘는 납이 나왔다.&lt;br&gt;&lt;br&gt;알리에서 판매된 점토와 테무의 슬라임 장난감에서는 가습기 살균제 성분도 검출됐다. 이 성분은 호흡기를 자극하고 폐 질환을 일으킬 수 있다. 서울시 관계자는 “어린이 제품에는 사용할 수 없도록 돼 있는데 검출된 것”이라고 했다. 슬라임은 말랑말랑해서 다양한 모양을 만들 수 있는 장난감이다. 아이들 사이에서 ‘액체 괴물’이라는 이름으로 불린다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W2J3VFDV45A7RK7IGXBN2WTZM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시 관계자는 “유해 물질만이 문제가 아니다”라며 “일부 제품은 내구성 등에도 문제가 있어 아이들에게 위험할 수 있다”고 했다. 알리에서 판매된 자동차 장난감은 금속 가공 처리가 부실해 어린이가 갖고 놀다가 손이 베일 가능성이 있는 것으로 조사됐다. 아기 치발기 제품은 부러지기 쉬워 아기가 삼키면 질식할 우려가 있었다.&lt;br&gt;&lt;br&gt;서울시는 앞으로 중국 해외 직구 제품에 대한 검사를 더 강화하기로 했다. 이를 위해 국내 전문 시험 기관 3곳과 정식으로 업무협약을 체결했다. 서울시 보건환경연구원 인력 10명을 투입해 검사 규모도 확대할 계획이다. 김경미 서울시 공정경제담당관은 “다음 달에는 플라스틱 그릇, 텀블러, 냄비 등 식품 용기와 유아용 의류 제품에 대한 검사 결과를 발표할 것”이라고 했다.&lt;br&gt;&lt;br&gt;지방자치단체인 서울시가 매주 안전 시험 결과를 발표하는 것과 달리 정부 차원의 대책은 아직 나오지 않고 있다. 정부는 지난 16일 “국민 건강에 영향을 줄 수 있는 어린이 제품 등 80개 품목은 KC(국가통합인증마크) 인증을 받지 않으면 6월부터 직구를 금지하겠다”고 발표했다가 “소비자들의 선택의 자유를 과도하게 제한한다”는 비판이 쏟아지자 3일 만에 철회했다. 이성엽 고려대 기술경영전문대학원 교수는 “해외 직구를 한 번에 일률적으로 규제하는 것은 소비자 반발만 부를 수 있다”며 “지속적으로 안전 검사를 실시해 유해 물질이 나온 제품부터 건건이 수입을 차단할 필요가 있다”고 했다. 허경옥 성신여대 소비자생활문화산업학과 교수는 “정부와 지자체, 소비자단체가 유기적으로 협업해 안전성 시험을 하고 그 결과를 공개해 소비자가 알게 해야 한다”며 “쉽게 피해 신고를 할 수 있는 시스템도 갖출 필요가 있다”고 말했다.&lt;br&gt;&lt;br&gt;잇따른 유해 물질 검출 소식에 소비자 불안은 커지고 있다. 국내 한 ‘맘 카페’에는 “싸다고 해서 아이 옷과 학용품을 많이 샀는데 싹 다 버렸다” “아기가 장난감을 입에 물고 놀았는데 걱정돼 잠이 안 온다” “유해 물질 범벅이라 아기 용품은 절대 안 산다” 등 글이 올라왔다. 아기 옷 직구 카페에는 “직구로 산 옷을 입고 나서 아이 피부가 뒤집어졌다”는 글도 적지 않았다.&lt;br&gt;&lt;br&gt;알리와 테무 측은 “안전한 플랫폼을 유지하기 위해 지속적으로 모니터링하고, 문제가 된 제품은 판매 목록에서 빼고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/V23LV3K5I5GXNKDZ5GF5PPAKAA.jpg?width=1200&amp;height=675&amp;auth=1438351b7bb94fbe09423e82606d345e1e98b11dcb90efb3cc2f80047c66a495&amp;smart=true" type="image/jpeg" height="675" width="1200">
+        <media:description type="plain">그래픽=양진경</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>한강 다리 위에 호텔이… 스카이 스위트 공개</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/29/FBOQULTZANHKPLQ5GAU23XN72I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/29/FBOQULTZANHKPLQ5GAU23XN72I/</guid>
+      <description/>
+      <pubDate>Tue, 28 May 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EVEZIZWTIJFLVLM2O7GXMPTX6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 서울시가 공개한 한강대교 위 호텔 ‘스카이 스위트, 한강브릿지 서울’의 침실 모습. 통창을 통해 노들섬~여의도로 이어지는 한강 전경을 볼 수 있다. 서울시와 숙박 공유 플랫폼 에어비앤비는 코로나로 영업을 중단한 용산구 한강대교 직녀카페를 44평 규모의 호텔로 리모델링했다. 다리 위 호텔은 국내 최초다. 오는 7월 16일 정식 오픈한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>의사가 마약 취해 진료… 조폭과 12억 보험 사기</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/29/UR23B3QM55A5PFZ5SEOKLJNRJE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/29/UR23B3QM55A5PFZ5SEOKLJNRJE/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 15:50:00 +0000</pubDate>
+      <content:encoded>마약에 취한 채 환자를 진료한 의사들이 경찰에 붙잡혔다. 이들은 조폭과 손잡고 가짜 환자를 모집, 실제 수술을 한 것처럼 꾸며 보험금 12억원을 가로챈 것으로도 나타났다. 서울경찰청 형사기동대는 병원 의료진과 조직폭력배, 보험설계사 등 일당 174명을 보험사기방지특별법 혐의로 검거하고 5명을 구속 송치했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;경기 수원에서 한 성형외과·피부과를 운영하던 병원장 신모(38)씨와 의사 2명은 허위 진료를 하고 남은 마취제 펜타닐, 프로포폴을 ‘셀프 투약’하거나 미용 시술을 내걸고 가짜 환자들에게 놔준 혐의(마약법 위반)로 입건됐다. 경찰 조사에 따르면, 2022년 병원 경영난이 심해진 신씨 측은 수원의 한 폭력 조직으로부터 “우리가 보험 사기로 돈을 번 적이 있는데 함께 해보자”는 제안을 받았다고 한다.&lt;br&gt;&lt;br&gt;이후 신씨와 의료진, 조폭, 보험설계사 등은 2022년 11월부터 작년 7월까지 200회에 걸쳐 범행한 것으로 조사됐다. 먼저 조폭이 조직원과 유흥업소 종사자 등 인맥을 동원해 가짜 환자로 보냈다고 한다. 가짜 환자는 범행 수익의 20%를 받았다. 병원장 신씨가 직접 총책으로 범행을 지휘했기 때문에 환자 모집에서부터 실손 보험금 수령에 이르는 허위 진단, 수술·약품 처방 등이 일사천리로 이뤄졌다. 특히 수술이 간편할뿐더러 보험사에서도 큰 의심을 하지 않고 보험금을 내주는 여유증·다한증 수술이 집중적으로 이뤄졌다.&lt;br&gt;&lt;br&gt;신씨 등은 ‘가짜 수술’ 덕에 실제로 쓰이지 않은 펜타닐이나 프로포폴을 투약하고 진료를 보거나 수술을 했다. 수익 극대화를 위해 가짜 수술로 아낀 프로포폴을 이용한 패키지 상품도 기획했다. 8개월째 이어진 신씨 일당 범행은 이 병원에서 유독 여유증·다한증 보험금 청구가 빈발하는 것을 이상하다고 느낀 보험사들이 금융감독원에 신고하면서 덜미가 잡혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[입에 착착 붙는 일본어] 구실을 만들다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2024/05/29/NY57ZVI6LNGU7NYLV5MBUTZYV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/05/29/NY57ZVI6LNGU7NYLV5MBUTZYV4/</guid>
+      <description/>
+      <pubDate>Tue, 28 May 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5DTXOR3YNJHUJJRXWMBFDMNKSQ.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 매료(魅了)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2024/05/29/QZ5SFB7NURAYLBVDKTUZ53M2BA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/05/29/QZ5SFB7NURAYLBVDKTUZ53M2BA/</guid>
+      <description/>
+      <pubDate>Tue, 28 May 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CRMH7QZKSBFW5JOATIPY776N6M.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디]  골고루 뒤섞다, 잘 젓다</title>
+      <link>https://www.chosun.com/national/nie/chinese/2024/05/29/IEXNXENB2ZCYFJZEALKC6VE4OM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/05/29/IEXNXENB2ZCYFJZEALKC6VE4OM/</guid>
+      <description/>
+      <pubDate>Tue, 28 May 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YW7J3K6J45BX7PYGGOBL4MUNCI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] nowhere near</title>
+      <link>https://www.chosun.com/national/nie/english/2024/05/29/OBY22JZDBVH6ZOMFJ5MQL2RLW4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/05/29/OBY22JZDBVH6ZOMFJ5MQL2RLW4/</guid>
+      <description/>
+      <pubDate>Tue, 28 May 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/476AEHTI7BHEBNQVVGMPLHUP7Q.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2388] 따르릉 글자교환소</title>
+      <link>https://www.chosun.com/national/nie/2024/05/29/RX6QVYUUKFGGNHVD3GSVRDEJRM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/05/29/RX6QVYUUKFGGNHVD3GSVRDEJRM/</guid>
+      <description/>
+      <pubDate>Tue, 28 May 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NRFGJGC2HVH5JJXT2TT7EVK6XA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 김남철 연세대 법학전문대학원 교수 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/05/29/FVQCAS4TQBDE7P3EP3NB2HGXYM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/05/29/FVQCAS4TQBDE7P3EP3NB2HGXYM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 15:40:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;김남철&lt;/b&gt; 연세대 법학전문대학원 교수 별세, &lt;b&gt;오문경&lt;/b&gt; 남편상, &lt;b&gt;김석민&lt;/b&gt; 피렐리 코리아 대리·&lt;b&gt;김석환&lt;/b&gt; 부친상=28일3시 신촌세브란스병원, 발인 30일8시, (02)2227-7550&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김이민&lt;/b&gt; 별세, &lt;b&gt;김택진 &lt;/b&gt;엔씨소프트 대표 부친상=28일16시 삼성서울병원, 발인 30일8시30분, (02)3410-3151&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박종민&lt;/b&gt; 별세, &lt;b&gt;최영호&lt;/b&gt;·&lt;b&gt;최웅호&lt;/b&gt;·&lt;b&gt;최순혜&lt;/b&gt; 한국편집기자협회출판미디어 차장 모친상, &lt;b&gt;이광숙&lt;/b&gt; 시모상, &lt;b&gt;박순동&lt;/b&gt; 장모상=27일14시55분 이대서울병원, 발인 30일7시30분, (02)6986-4440&lt;br&gt;&lt;br&gt;▲&lt;b&gt;허옥녀&lt;/b&gt; 별세, &lt;b&gt;오충건&lt;/b&gt; 금융감독원 팀장·&lt;b&gt;오승훈&lt;/b&gt; 동일토건 부장 모친상, &lt;b&gt;유희선&lt;/b&gt; 아끼 대표 시모상=27일19시20분 수원 연화장장례식장, 발인 30일7시, (031)218-6560&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[인사] 외교부 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/05/29/Q6O6BAMPQ5CJFHC7K2XSYENDS4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/05/29/Q6O6BAMPQ5CJFHC7K2XSYENDS4/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 15:40:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;외교부&lt;/b&gt;◇본부장▷외교전략정보본부장 조구래◇실장급▷글로벌다자외교조정관 권기환◇국장급▷동북·중앙아시아국장 강영신▷국제기구·원자력국장 이철▷국제사이버협력대사 이동렬▷외교전략정보본부 외교정보기획국장 박장호▷한반도정책국장 이준일▷국제안보국장 윤종권◇과장급▷동북·중앙아시아국 동북아1과장 천미성▷동북아2과장 박혜진▷중앙아시아과장 강민소▷중남미국 중미과장 김수은▷카리브·중남미협력과장 민보람▷유럽국 유라시아과장 정치원▷국제기구·원자력국 유엔과장 홍유진▷인권사회과장 황현이▷인권사회과 다자보건안보팀장 김남기▷원자력외교과장 장성화▷개발협력국 개발전략·민간협력과장 윤정주▷국제개발의제과장 최기천▷양자경제외교국 경제안보외교과장 김광우▷외교전략정보본부 외교전략기획국 외교정책기획팀장 명은지▷인태전략과장 김대환▷외교정보2과장 조성인▷한반도정책국 북핵정책과장 김흔진▷한반도미래정책과장 송옥경▷대북정책협력과장 김지수▷국제안보국 국제안보·사이버협력팀장 이현승▷군축비확산과장 박은진▷수출통제·제재과장 이은주&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한국해양과학기술원&lt;/b&gt;▷부원장 강동진&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한국정보통신진흥협회&lt;/b&gt;◇팀장 전보▷시장협력본부 공정경쟁지원팀장 이화복&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [알립니다] ‘GP EIS 입학 설명회’ 개최</title>
+      <link>https://www.chosun.com/national/nie/2024/05/29/OOD5KDSAR5BKZNTE4NCFZM4JDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/05/29/OOD5KDSAR5BKZNTE4NCFZM4JDI/</guid>
+      <description/>
+      <pubDate>Tue, 28 May 2024 15:35:00 +0000</pubDate>
+      <content:encoded>어린이조선일보를 발행하는 에듀조선과 영어 교육 기관 GP EIS가 ‘GP EIS 입학 설명회’를 개최합니다. GP EIS 창의융합 프로그램은 미술놀이, 통합사고, 언어와 수, 말하기 논술 등으로 구성돼 있습니다. 초등 1·2학년을 대상으로 전 과목을 영어로 수업합니다. 검증된 원어민 강사들이 TPR(신체 활동을 활용한 언어 학습법)·CLIL(과목별 영어 통합 학습) 교육을 합니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HQQCZXDJBBB4DBLKQPJEGDFOR4.jpg"&gt;&lt;br&gt;&lt;br&gt;▲&lt;b&gt;강사: GP EIS 수석연구원&lt;/b&gt;&lt;br&gt;&lt;br&gt;▲&lt;b&gt;일정: 2024년 6월 12일(수), 19일(수) 오전 10~12시&lt;/b&gt;&lt;br&gt;&lt;br&gt;▲&lt;b&gt;장소: 에듀조선 NIE 논술학원&lt;/b&gt;&lt;br&gt;&lt;br&gt;▲&lt;b&gt;대상: 초등학교 1·2학년 학부모&lt;/b&gt;&lt;br&gt;&lt;br&gt;▲&lt;b&gt;인원: 30명(각 요일별 선착순 마감)&lt;/b&gt;&lt;br&gt;&lt;br&gt;▲&lt;b&gt;문의: (02)724-6024, (02)6956-6109&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [숨어있는 세계사] 반세기 전 국경 분쟁으로 긴장 최고조… 핵전쟁 날 뻔했죠</title>
+      <link>https://www.chosun.com/national/nie/2024/05/29/WYMACHKQGZERFNTFMVURYSWAD4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/05/29/WYMACHKQGZERFNTFMVURYSWAD4/</guid>
+      <dc:creator>윤서원 서울 단대부고 역사 교사, 기획·구성=오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 15:35:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HSKXF2XGNFCPJKG4N4M4KL2SPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 16일 베이징을 방문한 블라디미르 푸틴(오른쪽) 러시아 대통령이 시진핑 중국 국가주석과 악수를 하고 있어요. /AFP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 블라디미르 푸틴 러시아 대통령이 시진핑 중국 국가주석의 초청으로 베이징을 방문했어요. 집권 5기를 시작한 푸틴의 첫 외교 행보에 많은 이목이 집중됐죠. 시진핑은 “새로운 여정에서 중국은 언제나 러시아와 함께 서로 신뢰하는 좋은 이웃, 좋은 친구, 좋은 동반자가 될 용의가 있다”고 말하며 친분을 과시했어요. 두 지도자는 이번 정상회담에서 양국 간 경제 협력과 우크라이나 전쟁 등에 대해 논의했다고 합니다.&lt;br&gt;&lt;br&gt;러시아와 중국은 오랜 세월 동안 복잡한 관계를 유지해 왔는데요. 양국은 정치·경제·군사적 이해관계 속에서 때로는 협력적이고, 때로는 적대적이었습니다. 역사적으로 중요한 사건들을 통해 러시아와 중국의 관계를 살펴볼게요.&lt;br&gt;&lt;br&gt;&lt;b&gt;첫 공식 만남&lt;/b&gt;&lt;br&gt;&lt;br&gt;양국의 첫 공식 만남은 17세기로 거슬러 올라갑니다. 17세기 중반부터 러시아는 헤이룽강(아무르강) 지역 쪽으로 진출하기 시작했어요. 그러면서 청나라와 충돌할 수밖에 없었죠. 당시 청나라는 명나라를 멸망시키고 중국 대륙을 점령한 지 얼마 되지 않았고, 한족 장군 출신 등이 일으킨 삼번의 난(1673∼1681)을 진압하느라 러시아에 제대로 대응하지 못했습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M35KUS7AJZGD5M3WUYBVKYS3QE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청나라 제4대 황제 강희제. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러다 삼번의 난을 진압하고 국내 정세가 안정되자 청은 반격에 나서기 시작했어요. 1685년 청나라 제4대 황제 강희제는 러시아가 구축한 알바진 요새 공격을 명령했어요. 만반의 준비를 한 청나라 군대의 공격에 러시아군 피해가 커지자 러시아 정부는 황급히 강화(講和)를 제안해요. 이렇게 1689년 양국은 네르친스크 조약을 맺습니다. 이 조약으로 양국은 헤이룽강과 우수리강 유역이 청나라 영토임을 재확인하고 양국 간 자유롭게 무역을 할 수 있게 됐어요.&lt;br&gt;&lt;br&gt;알바진 요새를 공격한 청나라 군인들은 러시아인들을 포로로 잡았었는데요. 이들 중 일부는 베이징에 정착해 살면서 황실 근위대로 기용됐어요. 이들은 급여를 받으며 청나라 여성과 결혼하기도 했지요. 정착한 러시아인들의 종교 활동을 위해 베이징에 러시아 정교회가 세워지기도 했는데요. 베이징의 교회는 러시아 정부를 대신해 외교 심부름을 하는 등 러시아 대사관 같은 역할을 했다고 합니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;청나라, 러시아에 연해주를 넘겨주다&lt;/b&gt;&lt;br&gt;&lt;br&gt;19세기 중반 1차 아편 전쟁을 끝내기 위해 영국과 난징 조약을 맺은 청나라는 이후 서구 열강의 개항 압박에 시달렸습니다. 영국은 난징 조약으로 청나라가 개항한 항구 5곳에서 무역 이익이 생각만큼 늘어나지 않자, 청에 추가로 개항을 요구했어요. 하지만 청이 이를 받아들이지 않았고, 영국은 1856년 애로호 사건을 빌미로 다시 청을 침략합니다.&lt;br&gt;&lt;br&gt;영국은 프랑스와 동맹을 맺고, 미국과 러시아의 지지를 받은 상태에서 전쟁을 시작했습니다. 영국과 프랑스 연합군의 공세에 청은 항복할 수밖에 없었어요. 그리고 1858년 중국 톈진에서 항구를 추가로 개방하고, 외교 사절이 베이징에 주둔하게 하는 등의 내용이 담긴 불평등한 조약에 합의하게 됩니다. 이 톈진 조약은 청나라가 영국, 프랑스, 러시아, 미국 등 4국과 각각 맺은 조약이에요. 러시아는 혼란을 틈타 청의 전권 대사를 협박해서 아이훈 조약도 체결하는데요. 이 조약은 네르친스크 조약을 뒤집는 것이었어요. 러시아가 헤이룽강 좌안(左岸)을 차지하고, 우수리강 동쪽의 연해주는 양국이 공동으로 관리한다는 내용이었죠.&lt;br&gt;&lt;br&gt;그런데 톈진 조약에 불만을 가진 청나라 정부가 비준을 거부했고, 이에 영국과 프랑스 연합군은 전쟁을 재개해 1860년 베이징을 점령합니다. 그 결과 청나라는 영국과 프랑스, 러시아와 각각 베이징 조약을 맺게 되는데요. 러시아는 청과 영국·프랑스 간의 강화를 알선해줬다는 명목으로 청에 자신들과의 조약 체결을 요구했어요. 그리고 이때 연해주 지역을 청으로부터 받아냈습니다. 러시아의 연해주 획득은 동아시아의 국제 관계에 큰 영향을 미쳤어요. 러시아 함대 본부가 블라디보스토크에 자리 잡게 되면서, 러시아가 동아시아에서 군사적 영향력을 행사할 수 있게 됐기 때문이에요.&lt;br&gt;&lt;br&gt;&lt;b&gt;협력에서 갈등, 다시 협력으로 이어지다&lt;/b&gt;&lt;br&gt;&lt;br&gt;중국과 러시아(당시 소련)는 1949년 중국 공산당이 중화인민공화국을 수립한 이후부터 급격히 가까워집니다. 두 나라는 1950년 ‘중소우호동맹상호원조조약’을 체결하고 경제·군사적 협력을 강화합니다. 이 조약으로 상호 협력의 토대를 마련한 것이에요. 조약에는 “일본 혹은 일본과 연결된 외국에 의해 중국이나 소련 어느 한쪽이 침략을 받을 경우 서로 전력을 다해 원조한다”는 내용이 적혀 있었는데요. 이는 냉전 시기 미국을 의식한 것이었어요.&lt;br&gt;&lt;br&gt;당시 마오쩌둥은 조약에 서명하기 위해 모스크바를 방문했는데요. 협상이 2개월 동안이나 계속되자 한동안 마오쩌둥이 모스크바에 인질로 잡혀있다는 소문이 났다고 합니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M623TQXLKBGEHAU6MO2PZN754Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중·소 우호동맹상호원조조약 조인 5주년을 기념하기 위해 1955년 7월 중국에서 발행된 우표. /대한민국역사박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 두 나라는 얼마 지나지 않아 갈등을 겪기 시작합니다. 1956년 2월 소련 공산당 20차 대회에서 소련은 자본주의 진영과의 평화 공존, 자본주의에서 사회주의로의 평화적 이행이 가능하다고 주장합니다. 중국은 이런 소련의 달라진 행보에 불만이 생겼죠. 사회주의 실현 등에 대한 두 나라의 견해 차이는 갈수록 심해졌고, 1969년 국경 지대인 우수리강에서 무력 충돌까지 발생하게 됩니다.&lt;br&gt;&lt;br&gt;국경 분쟁은 두 나라 사이에 심각한 긴장을 초래했어요. 당시 소련은 핵무기를 동원하는 계획까지 생각할 정도였죠. 하지만 그런 상황이 온다면 미국은 핵을 이용해 중국을 돕겠다고 경고하면서 핵전쟁은 일어나지 않게 됐습니다.&lt;br&gt;&lt;br&gt;이러한 위기를 넘긴 두 나라의 관계는 1980년대 중반 소련에서 고르바초프가 정권을 잡으면서 개선되기 시작합니다. 고르바초프는 중국과 관계 회복을 주요 과제로 추진했어요. 그는 몽골 국경 지역에 주둔하던 소련군 일부를 철수시키는 등 지속적으로 관계 개선을 위해 노력했습니다. 이런 움직임들을 통해 양국 관계도 점차 회복될 수 있었어요.&lt;br&gt;&lt;br&gt;양국은 21세기에 들어선 안보와 경제 협력을 추구하는 사이로 나아갑니다. 2001년 상하이 협력기구(SCO)를 출범해 안보 협력 등을 강화했어요. SCO는 1996년 상하이에서 러시아, 중국, 카자흐스탄, 키르기스스탄 등의 정상들이 정치와 경제, 군사 등의 분야에서 협력 강화를 목적으로 조약을 체결하면서 만들어졌습니다. 또 최근 몇 년간 두 나라는 에너지 협력과 무역을 중심으로 더욱 긴밀한 관계를 유지하고 있습니다. 그러나 전문가들은 중앙아시아와 극동 지역에서의 영향력 경쟁 등 양국 사이에 여전히 여러 갈등 요소가 있다고 평가하기도 해요.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [예쁜 말 바른 말] [347] ‘지그시’와 ‘지긋이’</title>
+      <link>https://www.chosun.com/national/nie/2024/05/29/NNL3BERWNBCPZPH2V4XP2KMSYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/05/29/NNL3BERWNBCPZPH2V4XP2KMSYE/</guid>
+      <dc:creator>류덕엽 교육학 박사·전 서울 양진초 교장</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 15:35:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4FLNYXAHBRGVDJPFBI5CX2CNFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=정서용&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;* 카메라를 (지그시, 지긋이) 바라보는 그녀의 눈빛이 무척 매력적이었다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;* 그는 어디를 가나 (지그시, 지긋이) 앉아 있지 못하고 금방 자리를 뜬다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;괄호에 들어갈 말을 골라 보세요. 정답은 차례대로 ‘지그시’와 ‘지긋이’입니다. 두 낱말은 발음이 같고 형태가 비슷해 혼동하기 쉽습니다. 하지만 뜻이 다르므로 구별해 써야 합니다.&lt;br&gt;&lt;br&gt;‘지그시’는 슬며시 힘을 주는 모양을 나타내는 말로 ‘그는 지그시 그녀의 손을 잡았다’와 같이 써요. 또 어떤 느낌을 억누르고 견디는 모양을 나타내는 말로 ‘나는 무서움을 떨쳐 버리고 싶어 지그시 입술을 깨물었다’와 같이 써요. 유의어는 ‘가만히’ ‘슬그머니’ ‘살그머니’가 있어요.&lt;br&gt;&lt;br&gt;‘지긋이’는 나이가 비교적 많아 듬직하게라는 뜻으로 ‘나이가 지긋이 들어 보이는 어르신’과 같이 써요. 또 느긋하고 참을성 있게라는 뜻으로 ‘아이가 어른들 옆에 지긋이 앉아서 이야기가 끝나길 기다렸다’와 같이 써요. 따라서 ‘나이가 지그시 든 할아버지’ ‘공부를 지그시 앉아서 할 수 없겠니?’ 같은 문장에서 ‘지그시’는 모두 ‘지긋이’로 고쳐 써야 합니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;[예문]&lt;/b&gt;&lt;br&gt;&lt;br&gt;-그는 지그시 눈을 감은 채 리듬을 타며 무대를 펼칠 준비를 했다.&lt;br&gt;&lt;br&gt;-연인들은 어깨를 기대고 앉은 채 수평선을 지그시 바라보고 있었다.&lt;br&gt;&lt;br&gt;-형사는 범인을 지그시 노려보면서 가슴에서 천천히 총을 꺼냈다.&lt;br&gt;&lt;br&gt;-그는 나이가 지긋이 들어 보인다.&lt;br&gt;&lt;br&gt;-나이가 지긋이 든 할머니 한 분이 다가오자 청년은 얼른 자리를 양보했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [동물 이야기] “내 구역이야” 쩌렁쩌렁 우는 소리… 비행기 이륙 소리만큼 크대요</title>
+      <link>https://www.chosun.com/national/nie/2024/05/29/6H5UPEPRTZCEZMWTUHXSSB4JDA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/05/29/6H5UPEPRTZCEZMWTUHXSSB4JDA/</guid>
+      <dc:creator>정지섭 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 15:35:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JA5HPJKW4RCG5HK4EO6O6TZKCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;나뭇가지에 올라가 있는 짖는원숭이. /브리태니커&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;멕시코에서 최근 폭염과 가뭄이 지속되면서 기진맥진해진 짖는원숭이들이 나무에서 떨어져 죽는 일이 속출하고 있대요. 가까스로 목숨을 건진 짖는원숭이를 현지 야생동물보호 당국 직원들이 극진히 보살피고 있다고 합니다. 이름처럼 아주 우렁찬 울음소리로 유명한 이 원숭이는 다 자란 몸길이가 65㎝ 정도이고(수컷 기준), 기다란 꼬리를 가지고 있답니다. 멕시코에서 에콰도르·콜롬비아·브라질에 이르는 열대우림에서 살고 있어요.&lt;br&gt;&lt;br&gt;그런데 도대체 얼마나 우렁차게 울어대길래 짖는원숭이라는 이름을 갖게 됐을까요? 이 원숭이들은 마치 사자가 울부짖는 것처럼 쩌렁쩌렁한 울음소리를 갖고 있어요. 소음측정기로 쟀더니 140dB(데시벨)까지 나왔대요. 이는 자동차 경적 소리(110dB)보다 더 시끄럽고, 비행기 이륙 소리와 맞먹는 거예요. 그래서 짖는원숭이의 울음소리는 5㎞ 밖에서도 들린다고 해요.&lt;br&gt;&lt;br&gt;이 원숭이가 이렇게 큰 소리를 낼 수 있는 건 목구멍 부근에 스피커 역할을 하는 울림통이 잘 발달돼 있기 때문입니다. 그런데 이 울림통으로 쩌렁쩌렁하게 소리를 지르는 건 수컷이에요. 암컷도 울림통이 있긴 하지만 수컷만큼 발달돼 있지 않아요. 짖는원숭이들이 이토록 시끄럽게 우는 건 “여긴 내 구역이야”라고 영역을 주장하는 거래요. 주로 동틀 무렵에 한 시간 정도 집중적으로 소리를 낸대요.&lt;br&gt;&lt;br&gt;짖는원숭이는 암컷과 수컷을 구분하기 정말 쉬워요. 수컷이 덩치도 더 크고, 울음소리도 더 우렁차요. 또 수컷은 거무튀튀한 털 색깔을, 암컷은 금색에 가까운 밝은 털 색깔을 갖고 있죠. 짖는원숭이는 나무 위에서 대부분의 시간을 보내요. 땅으로 내려오는 일이 좀처럼 없어요. 그래서 나뭇가지를 타고 능숙하게 이동하는 것이 중요해요. 이럴 때 기다란 꼬리가 아주 요긴하답니다. 나뭇가지를 감아 쥘 수 있을 만큼 꼬리가 튼튼하거든요. 나무 꼭대기에서 실수로 떨어질 때 꼬리로 나뭇가지를 잡아 목숨을 건지기도 한대요.&lt;br&gt;&lt;br&gt;짖는원숭이는 주로 잎사귀·꽃·열매 등을 먹어요. 많은 원숭이들이 식물뿐 아니라 벌레·새알·개구리·도마뱀 등을 함께 먹는 것과 차이가 있죠. 짖는원숭이들은 하루 종일 나무에 매달려서 꿈쩍하지 않고 시간을 보내는데요. 과학자들은 초식 위주 식성으로 먹잇감에서 충분히 열량을 섭취하지 못한 까닭도 있다고 설명합니다.&lt;br&gt;&lt;br&gt;짖는원숭이는 수컷 1~3마리와 암컷 2~7마리, 어린 새끼들이 무리를 이뤄 살아가요. 수컷은 어른이 되면 독립해서 새로운 무리를 찾아갑니다. 비슷한 방식으로 무리 생활을 하는 다른 포유동물의 수컷들이 새로운 무리 합류 과정에서 살벌하게 다투는 것과 달리, 짖는원숭이 수컷은 별다른 충돌 없이 새로운 무리로 들어간대요.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘김호중‧매니저 통화 녹취 확보’ 경찰 자신감 이유 있었다</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/29/EJXLHKXCEVECDFZFY2UWAPLH7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/29/EJXLHKXCEVECDFZFY2UWAPLH7A/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 15:31:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5QEWBSAOGFYEXVZNFFCNJCYAEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주 뺑소니 혐의를 받고 있는 트로트 가수 김호중이 지난 24일 서울 서초구 서울중앙지방법원에서 열린 영장실질심사(구속 전 피의자심문)을 마친 뒤 법원을 나서고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 음주 뺑소니 혐의로 구속된 트로트 가수 김호중씨(33)의 혐의 입증에 자신감을 보이고 있다.&lt;br&gt;&lt;br&gt;28일 경찰 등에 따르면 경찰은 최근 김호중씨를 대신해 거짓 자수했던 매니저의 휴대전화에서 김씨와 매니저가 사고 직후 나눈 통화 녹음파일을 다수 확보했다. 김씨 매니저 휴대전화에 자동 녹음기능이 활성화되어 있어 가능한 일이었다.&lt;br&gt;&lt;br&gt;통화 녹음파일에는 김호중씨의 혐의를 입증할 만한 내용이 포함되어 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;우종수 경찰청 국가수사본부장은 지난 27일 기자 간담회에서 김호중씨 사건과 관련해 “객관적 증거가 있고 참고인 조사를 충분히 했기 때문에 거짓말 탐지기 조사는 검토하고 있지 않다”고 말했다.&lt;br&gt;&lt;br&gt;우종수 본부장은 “(거짓말 탐지기 조사를)굳이 해야 할 필요가 있느냐. (김씨) 자백이 유일한 증거가 아니다”라고도 했다. 김호중씨 혐의 입증에 자신감을 보인 것이다.&lt;br&gt;&lt;br&gt;김호중씨는 경찰 조사에서 사고 당일 소폭(소주 폭탄주) 1~2잔, 소주 3~4잔을 마셨다고 진술했으나 경찰은 그가 최소 소주 3병가량을 마신 것으로 보고 있다.&lt;br&gt;&lt;br&gt;한편 이날 김호중씨와 사고 당일 만난 유명 연예인은 개그맨 정찬우(56)와 그룹 ‘리쌍’ 출신 래퍼 길(46‧본명 길성준)인 것으로 밝혀졌다.&lt;br&gt;&lt;br&gt;사건 초기에는 김호중과 술자리를 함께 했던 연예인으로 같은 소속사인 개그맨 허경환과 래퍼 슬리피가 지목됐었다. 하지만 두 사람은 모두 사실이 아니라고 부인했었다.&lt;br&gt;&lt;br&gt;김호중씨는 지난 9일 오후 11시 40분쯤 서울 강남구 압구정동의 한 도로에서 차를 몰던 중 마주 오던 택시와 충돌한 뒤 달아났다.&lt;br&gt;&lt;br&gt;김호중씨 측은 운전자 바꿔치기, 차량 블랙박스 메모리카드 파손 등은 인정하면서도 음주운전 의혹만은 강하게 부인해왔다. 그러다 여러 증거가 쏟아져 나오자 사고 열흘 만인 지난 19일 음주운전 사실을 뒤늦게 인정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2024년 5월 29일</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/29/MBXO2Q64AJGI7OMMDDEKM3GGXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/29/MBXO2Q64AJGI7OMMDDEKM3GGXI/</guid>
+      <description/>
+      <pubDate>Tue, 28 May 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DEU5BWEQBNG2TIZETSBADVTOCY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 이성근 별세</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/05/29/E2T7W4HDFJGO5E427AWIJCMCZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/05/29/E2T7W4HDFJGO5E427AWIJCMCZA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 15:10:32 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;이성근&lt;/b&gt; 별세, &lt;b&gt;이경훈&lt;/b&gt; 전 삼산골프랜드 대표, &lt;b&gt;이덕훈&lt;/b&gt; 조선영상비전 부장 부친상, &lt;b&gt;양회영&lt;/b&gt; 전 전남대병원 상임감사 장인상 = 28일20시35분 순천정원장례식장 101호실, 발인 30일8시40분, (061)754-4444&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘딸 편법대출’ 의혹 양문석, 검찰 소환조사 임박</title>
       <link>https://www.chosun.com/national/incident/2024/05/28/IEFDOVUSZVCU7MQGP7CJMHM4CI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/05/28/IEFDOVUSZVCU7MQGP7CJMHM4CI/</guid>
@@ -742,183 +926,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TY2VCJXTEF7L3CKK4HX2SYI4QQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;SK하이닉스. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;SK하이닉스에서 근무하던 중국 국적 직원이 반도체 불량률을 낮추는 핵심 기술을 경쟁업체인 중국 화웨이로 빼돌린 혐의로 구속돼 재판을 받고 있다.&lt;br&gt;&lt;br&gt;28일 경기남부경찰청 산업기술안보수사대에 따르면 중국 국적 30대 여성 A씨를 산업기술의 유출방지 및 보호에 관한 법률 위반 등 혐의로 지난달 말 검찰에 구속 송치했다. A씨는 현재 기소돼 수원지법 여주지원에서 재판을 받고 있다.&lt;br&gt;&lt;br&gt;2013년 SK하이닉스에 입사한 A씨는 반도체 설계상의 불량을 분석하는 부서에서 줄곧 일하다가 2020년부터 2022년까지 중국 현지법인의 기업 간 거래 고객 상담을 담당하는 팀장급 직원으로 근무했다. 그는 2022년 6월쯤 국내로 복귀한 직후 고액 연봉을 약속받고 화웨이로 이직했다.&lt;br&gt;&lt;br&gt;그런데 A씨는 퇴사 직전 반도체 제조 과정에서 불량률을 낮출 수 있는 핵심 기술을 담은 자료를 A4용지 3000여장 분량 출력한 것으로 파악됐다. SK하이닉스는 보안 때문에 USB 등 저장매체 사용을 금지하고 있다. 또 출력물도 내용, 인쇄자, 사용처 등을 상세히 기록해 관리하고 있다.&lt;br&gt;&lt;br&gt;그러나 A씨가 출력한 문서의 사용처 등에 대한 기록은 없는 것으로 확인됐다. SK하이닉스 측의 신고를 받은 경찰은 수사를 진행해 지난달 국내에 입국한 A씨를 공항에서 체포했다. 경찰은 A씨가 출력한 문서를 외부로 반출했을 것으로 보고 있다. 다만 A씨는 기술 유출 의도는 없었다며 혐의를 부인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;SK하이닉스는 미국 팹리스 반도체기업 엔비디아에 차세대 반도체인 HBM(고대역폭메모리)을 사실상 독점 공급하고 있는 업체이고 화웨이는 HBM 개발에 뛰어든 후발 주자다. A씨가 유출한 기술은 HBM과는 관련이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>한강대교 위 호텔 ‘스카이 스위트 한강 브릿지 서울’...가격은?</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/28/2AW5JIBQZZE67AYSTQATHXZ7AM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/2AW5JIBQZZE67AYSTQATHXZ7AM/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 May 2024 01:07:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6QCRLOJBSRNLZPK2WIWKZUXQJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한강대교 전망호텔 침실의 모습/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 한강대교 위에 지어진 ‘전망호텔’의 이름을 ‘스카이 스위트, 한강브릿지, 서울’로 정했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;서울 용산구 한강대교 상부에 위치한 이 호텔은 44평 규모로 최대 4인까지 입실할 수 있다. 침실 남서쪽에 큰 통창을 설치해 노들섬부터 여의도까지 이어지는 한강의 전경을 바라볼 수 있다. 그동안 ‘직녀 카페’였던 공간을 에어비앤비와 함께 리모델링해 조성했다.&lt;br&gt;&lt;br&gt;가격은 34만5000원에서 50만원 사이에서 정해질 전망이다. 감정평가법인 2곳의 감정을 거쳐 산출된 가격이다. 6월 서울시의회 정례회에서 조례로 책정될 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XM3JTINTL5MCXANHDHWHU6MDBA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;20일 한강 호텔 외관 모습/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 7월 16일 정식 개관에 무료로 숙박 체험을 할 시민도 정했다. 당초 1명을 선정할 예정이었으나 6203명의 시민이 신청하는 등 관심이 뜨거워 총 4명을 선정했다.&lt;br&gt;&lt;br&gt;1호 숙박체험자는 사회복지시설에서 중학교 1학년 자녀와 함께 살고 있는 미혼모 가정이 선정됐다.&lt;br&gt;&lt;br&gt;이에 더해 성인인 자폐 자녀와 치매 노모를 모시는 사회복지사 김모씨, 호텔의 전신인 ‘직녀카페’에서 부인을 만나 결혼한 정모씨, 4년간 임신을 못하다 서울시 난임 지원을 받고 세 쌍둥이를 출산한 양모씨가 선정됐다.&lt;br&gt;&lt;br&gt;향후 서울시는 여의도 한강공원 물빛무대 주변에 4층 200실 규모의 ‘수상호텔’을, 잠실에 지어질 ‘도심형 마리나’에는 요트 50대를 활용한 ‘선박스테이’를 만들 계획이다.&lt;br&gt;&lt;br&gt;오세훈 서울시장은 “한강은 다른 선진국들에 비해 수상 이용이 너무나 활성화되진 못한 면이 많아 아쉬웠다”며 “이번 한강대교 ‘스카이 스위트’의 개관을 시작으로 한강과 서울이 가진 매력을 전 세계에 널리 알릴 수 있을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>모야모야병 앓던 45세 한정선씨...장기기증으로 5명 살리고 하늘로</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/28/6J3UK4AW4BA3PM75XAKDURCHZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/6J3UK4AW4BA3PM75XAKDURCHZI/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 May 2024 01:01:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2OPVFXIH4BHRJGNPRK7TIBBP2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한정선씨의 살아생전 모습./한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;모야모야병을 앓던 40대 여성이 5명에게 생명을 나눠주고 하늘로 떠났다.&lt;br&gt;&lt;br&gt;한국장기조직기증원은 이달 4일 서울특별시보라매병원에서 한정선(45) 씨가 뇌사 장기기증으로 심장, 간장, 좌우 신장·폐장을 기증했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;한 씨는 지난달 30일 화장실에서 쓰러진 채 발견됐고, 이후 병원 치료를 받았으나 의식을 회복하지 못했다.&lt;br&gt;&lt;br&gt;한 씨 가족은 “질병 때문에 자유롭지 못한 삶을 살아왔기에 누군가의 생명을 살리고, 그의 몸속에서 건강하게 잘 지내길 바라며 기증을 결심했다”고 전했다.&lt;br&gt;&lt;br&gt;서울에서 1남 1녀 중 장녀로 태어난 한 씨는 7살 때 뇌혈관이 좁아지는 희소 난치병인 모야모야병에 걸려 지체장애 2급 진단을 받았다.&lt;br&gt;&lt;br&gt;한씨는 살아생전 주변에 늘 뭔가를 나눠주고 애정을 표현했다고 한다. 매일 다니던 서울시립 뇌성마비 복지관에서 한씨는 선생님과 활동지원사에게 시를 써 선물하는 것을 좋아했다고 한다.&lt;br&gt;&lt;br&gt;어머니 김의신씨는 “정선아, 하늘에서는 아프지 말고 편하게 잘 지내라. 누구도 할 수 없는 생명을 살리는 좋은 일을 하고 갔으니, 좋은 곳에서 행복하게 잘 살아. 사랑한다”고 마지막 인사를 전했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;【 아래는 한정선씨가 주변에 편지처럼 선물했던 시】&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;강아지&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;우리 강아지는 내가 예뻐하지요&lt;br&gt;&lt;br&gt;너무 귀여워서 어찌할 바를 모른답니다&lt;br&gt;&lt;br&gt;강아지는 나를 보면 반갑다고&lt;br&gt;&lt;br&gt;꼬리를 흔들흔들&lt;br&gt;&lt;br&gt;강아지는 우리 가족이다&lt;br&gt;&lt;br&gt;반갑다고 멍멍 짖고&lt;br&gt;&lt;br&gt;우리를 반갑게 맞이한다&lt;br&gt;&lt;br&gt;너무 귀엽고 너무 예쁘다&lt;br&gt;&lt;br&gt;&lt;b&gt;새&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;나는 새가 되어 어디든 날아&lt;br&gt;&lt;br&gt;자유롭게 어디든 날아&lt;br&gt;&lt;br&gt;님 계신 곳으로 날아&lt;br&gt;&lt;br&gt;날개 펴고 님 계신 곳으로&lt;br&gt;&lt;br&gt;날아서 간다&lt;br&gt;&lt;br&gt;님 계신 곳으로 날아가고 싶다&lt;br&gt;&lt;br&gt;찾아가고 싶다&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>특별단속 기간인데...만취 음주 사고 낸 현직경찰 ‘직위해제’</title>
-      <link>https://www.chosun.com/national/2024/05/28/DHXDMKBGANFHHAMOXXS4GEHBIY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/05/28/DHXDMKBGANFHHAMOXXS4GEHBIY/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 May 2024 00:43:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X3DVF6RFSIMBT7MBN2T5VJJDEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남경찰청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전 등 교통법규 위반 특별단속 기간 중 경남경찰청 소속 경찰이 만취 상태로 운전을 하다 교통사고를 냈다.&lt;br&gt;&lt;br&gt;경남경찰청은 음주운전을 하다 교통사고를 낸 혐의(도로교통법 위반)로 경남경찰청 소속 30대 A 경사를 불구속 입건했다고 28일 밝혔다. A 경사는 지난 25일 창원시 의창구 한 도로를 음주 상태로 운전하다 다른 차량을 들이받은 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 골목길을 빠져나와 큰 도로로 합류하는 과정에서 직진하던 차량과 부딪힌 것으로 나타났다. 피해 차량 운전자 신고를 받고 출동한 경찰이 현장에서 음주 측정을 한 결과 A 경사의 혈중알코올농도는 면허 취소 수준인 0.18%로 나타났다.&lt;br&gt;&lt;br&gt;경찰은 A 경사의 직위를 해제하고 정확한 사건 경위를 조사할 계획이다.&lt;br&gt;&lt;br&gt;경남경찰청은 지난달 15일부터 오는 31일까지 음주운전을 포함한 교통법규 위반 행위 특별단속을 시행하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“고마우니 이거라도”… 80대 어르신이 경찰차 뒷자리에 현금 놓고 간 이유 </title>
-      <link>https://www.chosun.com/national/national_general/2024/05/28/HCTZKDLLCVEKLEGQTNWTUXMQHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/HCTZKDLLCVEKLEGQTNWTUXMQHA/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 May 2024 00:30:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VOVR4WBCHJDHPMGHQSY6H6A6E4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지갑을 찾아준 경찰에게 감사 인사를 표하기 위해 경찰차 뒷좌석에 몰래 현금을 두고 내린 80대 노인. /경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지갑을 분실한 노인이 경찰의 세심한 배려를 받은 뒤 몰래 고마운 마음을 표하고 간 사연이 공개돼 감동을 주고 있다.&lt;br&gt;&lt;br&gt;28일 대전 서부경찰서 구봉지구대에 따르면, 최근 80대 초반의 노인이 “택시에 지갑과 신분증을 놓고 내렸다”며 지구대를 찾았다.&lt;br&gt;&lt;br&gt;신고를 접수한 경찰은 즉시 확인에 나섰고, 약 3㎞ 떨어진 다른 지구대에 지갑이 습득물로 접수된 사실을 파악했다. 경찰은 노인과 함께 해당 지구대를 방문했고, 지갑은 금세 주인의 품으로 돌아갔다. 이후 경찰은 거동이 불편한 노인을 위해 경찰차로 노인을 집까지 태워다 줬다.&lt;br&gt;&lt;br&gt;이렇게 분실 신고 상황이 끝나는 듯했으나, 지구대로 복귀한 경찰이 경찰차 뒷좌석에서 출처 모를 현금을 발견하면서 경찰은 또다시 노인을 만나게 됐다.&lt;br&gt;&lt;br&gt;알고 보니 뒷좌석에 놓인 현금은 노인이 경찰에 감사 인사를 전하기 위해 일부러 두고 내린 것이었다. 경찰차 내부 블랙박스에는 노인이 주머니에서 주섬주섬 지갑을 꺼내더니 지갑 속 현금을 모두 뒷좌석에 내려놓는 장면이 고스란히 담겼다. 경찰은 이 돈을 다시 돌려주려 했지만, 노인이 돌려받기를 극구 사양하면서 이튿날 저녁 노인을 다시 찾게 됐다.&lt;br&gt;&lt;br&gt;경찰은 “결국 직접 댁을 방문해 정중히 현금을 돌려드렸다”며 “어르신의 섬세한 마음이 저희에게는 그 무엇보다 큰 선물”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이 같은 사연이 경찰청 공식 유튜브 채널 등을 통해 공개되자, 네티즌 사이에서는 ‘훈훈하다’는 반응이 이어졌다. 네티즌들은 “완벽한 엔딩” “마음 따뜻한 경찰과 할아버지 모습에 감동이 밀려온다” “삭막한 세상에서 이런 영상을 볼 때마다 마음이 따뜻해진다” “할아버지 입장에서는 젊은 경찰 친구들이 너무 고마워 맛있는 거라도 사 먹길 바란 마음이었을 것” 등의 댓글을 남겼다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“당신 만나 참 행복” 강남구 공무원들 詩셔츠 입는 이유</title>
-      <link>https://www.chosun.com/national/regional/seoul/2024/05/28/DKOY6I5IPRG4NFBDNSQ3EKWGHM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/05/28/DKOY6I5IPRG4NFBDNSQ3EKWGHM/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 May 2024 00:04:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J75WLJTBDBAHZCCR7UNQULXES4.png"&gt;&lt;figcaption&gt;&lt;small&gt;시(詩)셔츠를 입은 강남구 민원 담당 공무원이 민원인을 응대하고 있다. /강남구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구 민원 담당 공무원들이 주에 한 번씩 ‘시(詩)셔츠’를 입고 근무한다. 악성 민원인에 대한 공무원들의 감정노동 피해를 줄이려는 차원에서다.&lt;br&gt;&lt;br&gt;강남구는 민원인과 공무원 사이에 존중·배려하는 문화를 만들고자 민원 담당 부서 공무원 100명이 매주 월요일마다 ‘시(詩)셔츠’를 입고 근무한다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;최근 폭언·폭행 등 악성 민원에 따른 담당 공무원의 어려움이 사회적 문제로 부각된 상황에서 구가 감정노동 피해를 줄이기 위해 ‘존중을 입다:시셔츠’ 캠페인을 추진하는 것이다. 취지에 동감한 마음행복 사회적협동조합이 좋은 시구와 그림이 인쇄된 시셔츠 100벌을 제작해 후원했다.&lt;br&gt;&lt;br&gt;셔츠에는 ‘오늘 당신을 만나 참 행복합니다’, ‘자, 이렇게 웃어봐요. 제가 행복한 비밀이에요’, ‘자, 이렇게 웃어봐요. 그러다 보면 행복해져요’ 등 3가지 문구와 눈웃음을 띤 얼굴, 미소 짓는 고양이와 곰 그림 등이 그려져 있다.&lt;br&gt;&lt;br&gt;따뜻한 문구가 공무원과 민원인의 마음에 새겨지면서 서로의 입장을 이해하는 계기가 되는 것이 이 캠페인의 목표라고 구는 설명했다. 구는 시셔츠 착용일을 일주일을 시작하는 매주 월요일로 정했다.&lt;br&gt;&lt;br&gt;구청 1층 민원여권과를 비롯해 민원창구 부서인 부동산정보과, 자동차민원과, 주택과, 재산세과, 지역경제과 등에서 일하는 직원 100명이 지난 27일을 시작으로 월요일마다 착용한다.&lt;br&gt;&lt;br&gt;조성명 구청장은 “직원이 행복한 일터에서 구민도 만족할 수 있는 행정서비스가 나올 수 있다”며 “캠페인을 비롯해 민원조정위원회, 민원인의 날 등을 통해 악성 민원에 대해 조직적으로 대응함으로써 직원들이 보람과 자긍심을 느끼며 일할 수 있는 분위기를 조성하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“똥물이네” “할머니 맛” 영양 비하 논란 피식대학, 구독자 300만명 깨졌다</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/28/EV44IHHMWFEUDKS2WX2DBFRHJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/EV44IHHMWFEUDKS2WX2DBFRHJY/</guid>
-      <dc:creator>김가연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 23:55:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RU24JJMFULPIMHEECTHY575RPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;피식대학의 개그맨 이용주, 정재형, 김민수가 경북 영양군을 찾은 모습. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘지역 비하’ 논란을 빚었던 유튜브 채널 ‘피식대학’의 구독자 수가 300만명 선 밑으로 떨어졌다. 논란 일주일 만에 사과했지만 그 여파가 계속 이어지고 있는 것으로 보인다.&lt;br&gt;&lt;br&gt;28일 오전 기준 피식대학 구독자 수는 약 299만 명으로 확인됐다. 논란이 불거지기 이전인 이달 중순에는 구독자 수 318만 명을 기록했다. 사과문이 올라온 지난 18일에는 구독자 수 313만 명, 그로부터 약 일주일 뒤인 지난 24일에는 301만 명으로 줄었다.&lt;br&gt;&lt;br&gt;논란이 된 영상이 게재된 지 보름 정도 만에 20만 명에 가까운 구독자가 빠지면서 ‘300만 유튜버’ 타이틀을 잃게 된 것이다.&lt;br&gt;&lt;br&gt;구독자 수가 줄어드는 추이로 확인할 수 있듯, 여전히 여론은 싸늘하다. 네티즌들은 “구독자수가 아직도 많이 남았다. 더 빠져야 한다” “혐오와 조롱을 개그로 팔아먹은 결과” “조회수도 많이 떨어지길 바람” 등 반응을 보였다.&lt;br&gt;&lt;br&gt;이 같은 여론에 대구 군위군은 피식대학과 협업해 지역 홍보 영상을 올리기로 한 계획을 철회했다. 군위군은 피식대학과 촬영한 지역 홍보 영상을 활용하지 않기로 했으며, 홍보비 7200만원의 집행 계획도 취소했다고 밝혔다.&lt;br&gt;&lt;br&gt;피식대학 측은 지난 11일 ‘경상도에서 가장 작은 도시 영양에 왔쓰유예’라는 제목의 영상을 공개한 뒤 논란의 중심에 섰다. 출연진인 개그맨 김민수, 이용주, 정재형이 경북 영양 곳곳을 돌아다니며 여행하는 모습이 담겼는데, 이들이 지역을 비하‧폄하하는 듯한 발언을 영상 내내 쏟아낸 탓이다.&lt;br&gt;&lt;br&gt;비판을 받은 발언은 “여기 중국 아니냐” “특색이 없다” “똥물이네” “공무원인데 여기 발령 받으면…여기까지 하겠다” “할머니가 해준 맛이다. 젊은 애들이 햄버거 먹고 싶은데 이걸로 대신 먹는 거다” “젤리가 할매 맛이다. 내가 할머니 살을 뜯는 것 같다” “부대찌개 같은 그런 느낌이다. 못 먹으니까 그냥 막 이렇게 해서 먹는 것 아니냐” 등이다.&lt;br&gt;&lt;br&gt;피식대학 측은 지난 18일 사과문을 올리고 해당 영상을 비공개 처리했다. 피식대학 측은 “저희의 미숙함으로 인해 피해를 입으신 모든 분께 사죄의 말씀 드린다”며 “해당 지역에 미칠 수 있는 부정적 영향력에 대해 깊게 숙고하지 못했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>학폭 논란 빚던 김호중 모교에 ‘트바로티 집’…前교장 “여론몰이 안타까워”</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/28/KAZX6PZHHBFK3OXYQKHONDWYK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/KAZX6PZHHBFK3OXYQKHONDWYK4/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 22:09:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AEHZHEULTMB5DRSU4QMCHWHZZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주 뺑소니 혐의를 받는 가수 김호중. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전 뺑소니 혐의로 구속된 가수 김호중이 졸업한 학교에 그의 별명인 ‘트바로티’를 내건 쉼터가 운영 중인 것으로 알려져 논란이다.&lt;br&gt;&lt;br&gt;27일 김천예술고등학교 등에 따르면 ‘트바로티 집’은 2020년 9월쯤 준공됐다. 김천에 ‘김호중 소리길’이 만들어지기 1년 전이다.&lt;br&gt;&lt;br&gt;이곳에는 김호중의 사진과 보도자료 등이 설치돼 있어 그의 팬들이 방문하는 등 김호중 관련 명소로 유명해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VHOEAM63FJBOBCNDGIMFL3FGQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김천예술고등학교에 설치된 쉼터 '트바로티 집'./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해당 쉼터는 김천시가 교육여건 지원사업으로 학교측에 2417만원을 지원해 8.5평 규모로 만들어졌다. 학교 측의 학생 휴게시설 요청으로 만들어졌으며 명칭은 학교 측에서 정한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;시민들 사이에서는 쉼터에 대한 비판의 목소리도 나온다.&lt;br&gt;&lt;br&gt;한 시민은 “학폭도 모른 척, 겨우 일 년 반 다닌 학생을 내세운 학교가 문제 있다”고 했다.&lt;br&gt;&lt;br&gt;앞서 김천예고 전 교장 A씨는 김호중을 옹호하는 유튜브 영상을 올려 논란을 빚기도 했다.&lt;br&gt;&lt;br&gt;A씨는 김호중이 구속되기 전인 22일 자신의 유튜브 채널을 통해 올린 영상에서 “(호중이에게) 가혹한 여론몰이로 사람을 죽이려 들다니 안타깝다”며 “힘없는 가수의 잘못은 용납 못하면서 중죄인 정치인들에게는 그렇게 관대할 수 있는지”라고 했다.&lt;br&gt;&lt;br&gt;경북도교육청 관계자는 “지금까지는 학교의 자랑이어서 홍보 차원에서 만들었을 수도 있겠다”며 “학교 측이 전달해 온 바로는 공식적인 철거 계획은 없다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“버스 떠났습니다” 운전대 놓은 기사 4500명...전국서 구인난</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/05/28/G735VBXKRBACBGO2Y65OXJIXVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/05/28/G735VBXKRBACBGO2Y65OXJIXVI/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 20:04:00 +0000</pubDate>
-      <content:encoded>부산시와 지역 버스운송사업조합은 지난 16일 부산시청에서 버스 기사 채용 설명회를 열었다. 버스 기사를 하려는 사람이 워낙 적다 보니 공개 구인에 나선 것이다. 부산시 차원의 버스 기사 채용 설명회는 처음이라고 한다. 그동안 부산 일대에서 매년 1000명가량 버스 기사를 선발하는 데 문제가 없었다. 과거 버스 기사는 ‘괜찮은 일자리’로 꼽혔기 때문이다. 지역에 따라 차이가 있지만 5년 차 정도 되면 월 400만~500만원가량 급여를 받을 수 있고 비교적 안정적 일자리로 인식됐다. 부산의 한 버스 업체 관계자는 “요즘에는 버스 기사 지원자 수가 채용 인원의 2배수도 안 돼 적합한 사람을 찾는 데 어려움을 겪고 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6MD7ZSFUABGDTPGBYOE2EXI52Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 같은 버스 기사 감소는 부산만의 문제가 아니다. 27일 전국버스운송사업조합연합회에 따르면 전국 버스 운전자 수는 2019년 8만9980명에서 지난해 8만5417명으로 줄었다. 4년 새 4500명 넘게 줄어든 것이다. 버스는 노선이 정해져 있기 때문에 기사 수를 일정하게 유지하는 게 필수다. 한 업계 관계자는 “버스 기사가 매년 1000명 이상씩 줄어드는 건 이미 ‘경고등’이 들어온 걸로 봐야 한다”고 했다. 하루 2교대가 가능하려면 버스 수(지난해 4만4284대)에 비해 기사 수가 최소 2배는 있어야 하지만 이조차 충족하지 못하고 있다는 설명이다.&lt;br&gt;&lt;br&gt;버스 기사가 줄어드는 건 일의 강도는 높아지고 수입은 기대에 못 미치기 때문이다. 버스 기사들은 2018년 근로기준법 개정으로 근로 시간이 단축되며 수입이 줄기 시작했다. 이전엔 연장 근로로 인한 초과 수당이 수입에 큰 부분을 차지했는데 대폭 삭감이 불가피해졌다. 여기에 2020년부터 본격화된 코로나 사태로 승객이 줄어들며 직격탄을 맞았다. 물가는 큰 폭으로 오르는데 임금 동결이 이어졌다. 일부 노선은 중단됐다. 일부 기사는 생활고를 호소하며 배달업 등으로 빠져나갔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7KJTCJTFFVDRBG4VY6BFWR6UJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 16일 부산 연제구 부산시청에서 열린 '버스 승무원(기사) 채용설명회'에서 구직자들이 상담하고 있다. 부산의 버스 업체 관계자는 "최근 버스 기사 지원자 수가 채용 인원의 2배수에도 못 미쳐 구인난을 겪고 있다"고 했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;악화하는 근무 여건 역시 버스 기사들을 떠나게 하고 있다. 경기도를 비롯한 지역에선 부족한 버스 기사 인력 등을 이유로 아직도 격일제 근무를 하는 경우가 많다. 온종일 일하고 다음 날 쉬는 방식인데, 들쭉날쭉한 근무 탓에 근무하는 날은 잠을 3~4시간 자는 경우가 많다고 한다. 한 버스 기사는 “운행 속도와 같은 운전 성향과 응대가 불친절하지 않은지 등 승객들의 요구도 민원도 많다”며 “승객 안전사고에도 항상 신경 써야 해 시내버스나 마을버스를 꺼리는 기사가 많다”고 했다.&lt;br&gt;&lt;br&gt;업체들 역시 이익 감소로 고심하고 있다. 시내버스는 손실을 지자체가 보전해주는 ‘준공영제’로 운영돼 그나마 상황이 낫지만, 시외·고속버스나 마을버스는 손실 감소를 피할 길이 없다. 버스운송사업조합연합회에 따르면 2020~2022년 시외·고속버스 업체 77곳이 입은 영업손실은 5302억원에 달한다. 기사 수가 줄면 버스가 운행을 제대로 할 수 없고, 수익이 줄어 노선이 사라지는 악순환이 이어진다. 특히 지방에서는 기사를 못 구해 정년이 지난 이를 재고용하거나, 업체 사장이 운전대를 잡는 경우도 있다고 한다.&lt;br&gt;&lt;br&gt;최근 운행하고 있는 ‘승합차 마을버스’는 버스 업계가 처한 재정적 어려움을 상징적으로 보여준다. 서울 중랑구 중화동~동대문구 이문동 운행 노선에는 올 초부터 현대차가 만든 ‘스타리아’ 버스가 다니기 시작했다. 이 버스에는 하차 벨이 없어 운전 기사에게 직접 하차 지점을 말해야 한다. 안내 방송도 없다. 서울 성북구 정릉동에도 스타렉스 버스가 다닌다. 노후 버스를 교체하는 시기에 비용을 줄이기 위해 비교적 싼 차량을 선택한 것이다. 그나마 상황이 낫다는 서울 지역 마을버스 업체들도 지난해 기준 697억원 적자를 기록했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/7KJTCJTFFVDRBG4VY6BFWR6UJ4.jpg?width=960&amp;height=590&amp;auth=cb55e9b78b9eb23c9b68834ad258f5694cdc38bbb54f814ec4d4ac9b067f6e1c&amp;smart=true" type="image/jpeg" height="590" width="960">
-        <media:description type="plain">지난 16일 부산 연제구 부산시청에서 열린 '버스 승무원(기사) 채용설명회'에서 구직자들이 상담하고 있다. 부산의 버스 업체 관계자는 "최근 버스 기사 지원자 수가 채용 인원의 2배수에도 못 미쳐 구인난을 겪고 있다"고 했다. /뉴스1</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>외과 교수들 “소송 두려워 수술 망설여져”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/05/28/FF6CRHYO2BB57MZEX23JRUXSUA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/05/28/FF6CRHYO2BB57MZEX23JRUXSUA/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 15:45:00 +0000</pubDate>
-      <content:encoded>“대학 병원 외과 교수도 의료 사고 소송에 대한 부담으로 응급 환자를 수술할지 말지 망설일 때가 있어요.”&lt;br&gt;&lt;br&gt;지난 25일 분당서울대병원 대강당에서 열린 대한외과학회 대토론회에 모인 대한민국 최고의 ‘칼잡이’들 사이에서 나온 얘기다. 이제까지 최소 수백에서 수천 명씩 목숨을 살렸다는 대장항문외과, 유방외과, 간담췌이식혈관외과 등 전문 분야 교수들이다. 이들은 “소송에 대한 과도한 부담이 외과를 기피하게 만드는 한 요인이 되고 있다”며 “불가항력에 가까운 의료 사고에 대한 대책 마련이 시급하다”고 했다.&lt;br&gt;&lt;br&gt;대한의사협회 의료정책연구소에 따르면, 의료 분쟁 조정 신청 접수 건 가운데 의료 행위별로 수술(45.9%)과 처치(20.8%)가 가장 높은 비율을 차지한다. 거의 매일 수술이 이어지는 외과 의사들이 의료 분쟁에 휘말릴 가능성도 높다는 뜻이다. 의협에 따르면, 한 해 외과 의사 50명 중 1명꼴로 의료 분쟁을 겪는다.&lt;br&gt;&lt;br&gt;이날 소송에 휘말리는 한 사례로 ‘장폐색’ 수술이 화제에 올랐다. 장폐색은 소장이나 대장 일부가 막혀 음식물 등이 빠져나가지 못하는 질환으로 즉시 수술하지 않으면 사망할 수 있다. 한 참석자는 “몇 년 전 장폐색 수술을 받은 환자가 장벽에 구멍이 생기자 ‘수술이 늦었다’며 담당 의사를 과실 치상으로 소송을 건 사례가 있었지만 의사가 최선을 다한 것으로 알고 있다”며 “이후 의료 현장에서는 장폐색 수술에 대해 (수술 여부 등을) 망설이는 분위기도 생겼다고 한다”고 했다.&lt;br&gt;&lt;br&gt;외과학회 정책위 간사를 맡고 있는 정윤빈 세브란스병원 교수는 발제를 통해 “정부가 도입하기로 한 ‘필수 의료 정책 패키지’에 담긴 의료 사고 부담 완화 대책 적용 범위를 외과에도 확대할 필요가 있다”고 제안했다. 현재 분만 사고와 소아 진료 등에 대해서는 의료 사고 보상 지원을 강화하고 반의사불벌죄로 간주해 의사들의 형사처벌 부담을 덜어주는 정책이 추진되고 있는데, 여기에 외과 수술도 추가해야 한다는 주장이다. 김익용 원주세브란스기독병원 교수는 “최선을 다해 수술했고 불가항력에 가까운 사고였다면 의사를 처벌하는 것이 능사인지 검토와 대안 마련이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>10만원에 사직서 대신 내드려요</title>
-      <link>https://www.chosun.com/national/labor/2024/05/28/BMW636PSYVFDLE74263LIOCG6U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/05/28/BMW636PSYVFDLE74263LIOCG6U/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description>최근 노무 업계에 ‘퇴사 대행 서비스’가 새 먹거리로 등장했다.</description>
-      <pubDate>Mon, 27 May 2024 20:06:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YW6TDCKWKZAHFJGPCCOBPCYKTQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 노무 업계에 ‘퇴사 대행 서비스’가 새 먹거리로 등장했다. 노무사들이 퇴사를 돕는 업무를 하는 데서 더 나아가 아예 퇴사만 전문적으로 다루는 법인까지 생겨나는 것이다. 퇴사 대행은 퇴사자가 사직 의사 통보 등 퇴사 관련 절차를 대신 진행해 달라고 업체에 의뢰하는 것을 말한다.&lt;br&gt;&lt;br&gt;최근 퇴사 대행 서비스를 이용해 일을 그만뒀다는 임모(34)씨는 “회사에서 그만두면 안 된다고 만류해 수개월간 퇴사를 못하다 대행 업체를 통해 사표를 냈다”고 했다. 기자는 관련 세부 절차를 알아보기 위해 서울에 있는 한 퇴사 전문 대행 업체에 문의했다. 우선 10만원의 비용을 내면 이메일로 위임장과 사직서 양식이 오는데 이것만 작성하면 된다. 이후엔 대행 업체가 퇴직금과 연차수당 등을 계산해 퇴직 시 받아야 할 임금 등을 정산해주고 회사와 연락해 사표까지 대신 내준다. 퇴사 후 실업급여 수령을 위해 필요한 서류나 방법 등도 알려 준다. 다만 임금 체불 등 복잡한 문제가 있을 경우엔 별도의 수수료가 추가된다.&lt;br&gt;&lt;br&gt;퇴사 대행 서비스 이용자는 대부분 2030세대지만 40대 이상도 늘고 있다. 이 대행 업체의 경우 전체 이용자의 47%가 30대, 34%가 20대이고 40대와 50대도 각각 11%, 5%라고 한다. 업체 관계자는 “비대면 업무에 익숙한 최근 환경도 대행 서비스 수요를 늘리고 있다”고 했다.&lt;br&gt;&lt;br&gt;한편 고용 시장에서는 직원들의 잦은 퇴사로 인해 경력직 채용이 늘어나는 현상도 나타나고 있다. 고용노동부가 지난해 500대 기업 인사 담당자를 대상으로 설문조사한 결과, 대기업 신규 입사자의 16.1%가 1년 내 퇴사하는 것으로 나타났다. 입사 6명 중 1명은 1년 새 퇴사한다는 것이다. 기업들도 교육에 공을 들여야 하는 신입보다는 당장 투입할 수 있는 경력직을 선호한다는 분석이다. 실제 전체 채용에서 신입이 차지하는 비율은 2019년 47%에서 지난해 40.3%로 줄었고, 경력직이 차지하는 비율은 같은 기간 41.4%에서 46.1%로 올랐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, 문다혜 태국 정착 도운 교민 소환조사</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/28/2IIC77WWJZE3ZLXC5XIRFFD7ZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/28/2IIC77WWJZE3ZLXC5XIRFFD7ZA/</guid>
-      <dc:creator>양은경 기자, 이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 15:45:00 +0000</pubDate>
-      <content:encoded>문재인 전 대통령의 전 사위 서모씨의 ‘타이이스타젯 특혜 채용 의혹’을 수사 중인 검찰이 문 전 대통령의 딸 다혜씨 가족의 태국 정착을 도운 현지 부동산 중개인을 소환 조사한 사실이 뒤늦게 알려졌다. 검찰은 이상직 전 더불어민주당 의원이 중소기업진흥공단(현 중소벤처기업진흥공단·중진공) 이사장 시절, 중진공 직원이 이 중개인을 다혜씨 가족에게 소개한 정황을 잡았다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6W4FBVGYE5AORDGT4F7H3D4K2Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;문재인 더불어민주당 대선후보가 8일 오후 서울 광화문광장에서 진행된 제19대 대통령 선거 마지막 유세에서 딸 문다혜 씨와 손자로부터 카네이션을 선물받고 기념촬영을 하고 있다. 2017.5.8/뉴스1 ⓒ News1 허경 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 본지 취재를 종합하면, 전주지검 형사3부(부장 이승학)는 최근 태국 현지에서 부동산 중개업을 하는 A씨를 소환해 조사했다. 이 과정에서 A씨의 휴대전화를 압수하고, 한국 국적인 A씨를 출국 금지했다고 한다. 최근 출국 금지가 풀려 A씨는 태국으로 돌아간 것으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰은 중진공 동남아센터 직원이 다혜씨 가족의 태국 정착을 위해 A씨를 소개시켜준 정황을 포착, 이번 사건의 중요한 단서로 보고 있다. 이 전 의원은 2018년 3월 중진공 이사장으로 임명됐다. 이때가 문 전 대통령의 전 사위 서씨가 게임회사를 그만둔 시점이다. 그해 6~7월 다혜씨 가족은 태국으로 이주했고, 이때 중진공 직원이 A씨를 소개해 태국 정착을 도왔다는 것이다.&lt;br&gt;&lt;br&gt;검찰은 그동안 이 전 의원이 중진공 이사장에 임명된 대가로 서씨를 특혜 채용해줬다고 보고 관련 수사를 진행해 왔다. A씨를 통해 다혜씨 가족을 지원했다는 것은 이런 의혹을 뒷받침하는 하나의 증거로 보고 있다.&lt;br&gt;&lt;br&gt;한편, 검찰은 다혜씨가 청와대 경호처 직원을 통해 국내로 들여온 자금이 6600여 만원에 이르는 것으로 파악하고, 이 자금의 출처를 쫓고 있다. 경호처 직원은 다혜씨로부터 한국 돈과 태국 돈(밧화) 등 수차례에 걸쳐 6600여 만원을 받아 자신의 계좌에 넣었다가 국내에서 출금했다고 한다. 이 돈은 2019년 5월 다혜씨가 서울 양평동 다가구주택을 매입할 때 일부 쓰인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;전 남편 서씨는 2018년 7월 이 전 의원이 실소유주로 있는 타이이스타젯 전무이사로 취업해 매월 임금 800만원과 집 렌트비 350만원가량을 회사로부터 받았다고 한다. 검찰 관계자는 “남편 월급의 일부를 보냈으면 굳이 경호처 직원의 계좌를 이용했을 가능성이 없고, 자금 규모도 월급을 모아서 보내기에는 너무 큰 금액”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이대 식품영양학과 1회 졸업생 최봉순씨, 모교에 1억원 기부</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/28/NGOTMQLLXREO3PMQZWBMIXZYQU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/NGOTMQLLXREO3PMQZWBMIXZYQU/</guid>
-      <description/>
-      <pubDate>Mon, 27 May 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CY47Y3A45D7TN6S64LZEIBA4A.jpg"&gt;&lt;br&gt;&lt;br&gt;이화여대 식품영양학과 제1회 졸업생 최봉순(사진·78)씨가 지난 16일 이대에 장학금 1억원을 기부했다고 이화여대가 27일 밝혔다. 최씨는 1969년 이대를 졸업, 대구가톨릭대 식품영양학과 교수로 35년간 일했다. 최씨는 후배들의 지속 가능한 학업을 지원하고자 이화여대에 장학금을 기부하기로 결심했다고 밝혔다. 이 기부금은 ‘최봉순 장학금’으로 명명, 식품영양학과 대학원생들에게 지급될 예정이다. 최씨는 “60여년 전 국내에 식품영양학을 선구적으로 도입한 모교에 자부심을 느끼며 살았다”며 “이 마음을 장학금으로 돌려줄 수 있어 기쁘다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산 돌려차기 男 “탈옥 후 죽여버리겠다”…법정서 나온 충격 증언</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/28/6H7YHTIW4ZCXRGGXAY7TB2RPPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/6H7YHTIW4ZCXRGGXAY7TB2RPPU/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 15:54:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2DWKS3AXUW5TG5LCSPOZGK5TBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 5월 22일 새벽 부산 부산진구 서면 오피스텔 1층 복도에서 발생한 '부산 돌려차기' 사건의 한 장면. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;혼자 귀가하던 20대 여성을 발차기로 쓰러트린 뒤 폭행한 ‘부산 돌려차기 사건’의 가해자 A(30대)씨가 구치소에서 탈옥 후 피해자에게 보복하겠다고 했다는 증언이 나왔다.&lt;br&gt;&lt;br&gt;27일 오후 부산지법 서부지원 제1형사부(이진재 부장판사)는 보복 협박 혐의로 기소된 일명 부산 돌려차기 사건 가해자 A씨에 대한 공판 기일을 열었다.&lt;br&gt;&lt;br&gt;작년 초 A씨와 같은 구치소 수감실에 있었던 유튜버 B씨는 이날 화상으로 증인 신문에 나섰다. 그는 “구치소 수감 중에 외부 병원을 다녀온 일이 있었는데 그때마다 A씨가 병원 구조를 물어보고 출소하면 병원에 열쇠가 꼽힌 오토바이를 준비해달라고 했다”며 “수시로 피해자 빌라 이름을 말하며 탈옥해 찾아가 죽여버린다고 말했다”고 증언했다.&lt;br&gt;&lt;br&gt;이어 “A씨가 피해자 때문에 1심에서 상해 사건이 아닌 살인미수 혐의로 기소돼 1심에서 징역 12년이나 받았다고 말하며 굉장히 억울해했다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 A씨는 자신이 언론플레이를 당한 피해자라고 했다고 한다. B씨는 “A씨가 피해자의 언론플레이 때문에 자신이 중형을 선고받았는데 유튜브 방송으로 억울함을 풀어달라고 했다”며 “A씨가 피해자가 이렇게 언론플레이하다가는 언제 어디서 죽을지 모른다고 말했다”고 주장했다. 이어 “A씨가 자신의 유튜브 방송을 이용해 피해자에게 심리적 압박을 줘 더는 사건이 공론화되지 못하게 할 목적으로 협박한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;B씨는 A씨의 수첩에 돌려차기 피해자뿐만 아니라 1심을 선고한 판사, 검사, 전 여자친구 등 보복 대상이 적혀 있었고 이를 찢어서 폐기했다고도 했다. 또 다른 증인 C씨도 같은 취지로 진술했다.&lt;br&gt;&lt;br&gt;A씨는 보복 협박 혐의를 부인했다. 그는 “자신과 사이가 좋지 않았던 동료 수감자들이 유튜브 수익을 위해 입을 맞추고 거짓된 진술을 해왔다”고 주장했다.&lt;br&gt;&lt;br&gt;이에 B씨는 “유튜브 구독자 때문이 아니라 어떻게든 형량을 줄이려고 하는 A씨가 제대로 처벌받고 피해자를 보호하고 싶은 마음에 구치소 내에 있었던 일을 유튜브 방송에서 말하게 됐다”고 설명했다.&lt;br&gt;&lt;br&gt;재판에 참석한 피해자는 취재진에 “검사와 판사 이름까지 종이에 적어놨다는 것은 나에 대한 보복이 아니라 국민을 향한 보복”이라며 “구치소 동료들에게 허세로 자신을 보복하겠고 말한 줄 알았는데 구체적으로 오토바이까지 준비해달라고 했다는 것에 놀랍다”고 말했다.&lt;br&gt;&lt;br&gt;‘부산 돌려차기’ 사건은 2022년 5월 22일 오전 5시께 부산진구 서면에서 A씨가 일면식도 없던 피해자를 10여분간 쫓아간 뒤 오피스텔 공동현관에서 무차별 폭행한 일이다. A씨는 당초 살인미수 혐의로 기소돼 1심에서 징역 12년을 선고받았다가 항소심에서 강간살인 미수가 적용돼 징역 20년으로 형이 무거워졌고 대법원에서 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 풀 마라톤에 출전하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/05/28/FPS4AU3YMBBAZGYXDTLYPAWERU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/05/28/FPS4AU3YMBBAZGYXDTLYPAWERU/</guid>
-      <description/>
-      <pubDate>Mon, 27 May 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3JHMIRBR6BBHRDUMGVHPGKJ2TU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] get in the way</title>
-      <link>https://www.chosun.com/national/nie/english/2024/05/28/FABSREOVOBBXRL3VY7FVFM64LA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/05/28/FABSREOVOBBXRL3VY7FVFM64LA/</guid>
-      <description/>
-      <pubDate>Mon, 27 May 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LOFWII7RCRC2LPSLZX5QEDD5ZA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디]  눈(시야)에 가득하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/05/28/KWJS65NJGFAYDOXRC25RPZMHKE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/05/28/KWJS65NJGFAYDOXRC25RPZMHKE/</guid>
-      <description/>
-      <pubDate>Mon, 27 May 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EYYMSEAU7JB7PEPTSF5FMBPPWQ.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 낭설(浪說)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/05/28/C7T7EH2ZW5AXPLQUTQY52F22WE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/05/28/C7T7EH2ZW5AXPLQUTQY52F22WE/</guid>
-      <description/>
-      <pubDate>Mon, 27 May 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NUNPIMGP65A6RLIELP6BNTS5GA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2387] 알록달록 단어팔레트</title>
-      <link>https://www.chosun.com/national/nie/2024/05/28/F6RLZXI5PBH2RFBCUNKK5OFECQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/05/28/F6RLZXI5PBH2RFBCUNKK5OFECQ/</guid>
-      <description/>
-      <pubDate>Mon, 27 May 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/676O7ARY4VFQHJYYC44ELQP5BU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이젠 대형마트도 ‘새벽 배송’ 서초구, 영업시간 제한 완화</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/28/7F45SBQWMJGCXOJIWYSD3N6ZT4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/7F45SBQWMJGCXOJIWYSD3N6ZT4/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KMPKCBUKOSIUL5VEF56SG3JV3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이마트 직원들이 온라인상에서 고객이 주문한 물품을 배송 바구니에 담고 있다. 기사와 무관한 사진./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 7월부터 서울 서초구에서는 대형 마트도 쿠팡이나 마켓컬리 등 온라인 쇼핑몰처럼 ‘새벽 배송’을 할 수 있게 된다. 서초구가 전국 최초로 대형 마트의 영업 시간 제한 규제를 완화하기로 하면서다.&lt;br&gt;&lt;br&gt;서초구는 대형 마트와 기업형 수퍼마켓(SSM)의 영업 제한 시간을 기존 오전 0~8시(8시간)에서 오전 2~3시(1시간)로 바꾸는 내용의 행정 예고를 했다고 27일 밝혔다. 사실상 영업 시간 규제를 풀어 아침 일찍 주문한 상품을 받아볼 수 있는 새벽 배송을 허용하는 것이다.&lt;br&gt;&lt;br&gt;서초구 안에 있는 이마트 양재점, 롯데마트 서초점, 킴스클럽 강남점, 코스트코 양재점 등 대형 마트 4곳과 롯데슈퍼 등 기업형 수퍼마켓 33곳이 이번 조치의 영향을 받는다. 서초구는 “유통업상생발전협의회 개최, 고시 공고 등 절차를 거쳐 7월 중 영업 시간 완화 조치를 시행할 것”이라고 했다.&lt;br&gt;&lt;br&gt;현행 유통산업발전법은 지방자치단체장이 매월 이틀 대형 마트의 ‘의무 휴업일’을 지정하고, 영업 시간도 오전 0~10시 사이에서 제한할 수 있게 하고 있다. 영업 시간 이외에는 온라인 배송도 금지된다. 전통 시장과 소상공인을 보호한다는 취지로 제정된 법이지만 영업 시간에 제한이 없는 온라인 쇼핑몰과 비교해 대형 마트가 과도한 규제를 받고 있다는 지적이 나왔다. 소비자 민원도 많이 제기됐다.&lt;br&gt;&lt;br&gt;앞서 지난 1월 서초구는 서울시 최초로 대형 마트의 의무 휴업일을 일요일에서 평일로 바꿨다. 서초구 관계자는 “주민 편의가 향상되고 지역 경제도 활성화될 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>은행이 ‘무더위 쉼터’로...눈치 보지 말고 쉬세요</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/27/ZO2FUFSPUJGDBJMYRLS2SRJBLE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/27/ZO2FUFSPUJGDBJMYRLS2SRJBLE/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 12:47:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KNJHXTI52VMPK456ZORPZ7OVDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신한은행 시청점 입구에 기후동행쉼터 안내 현판을 붙이는 모습./서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 시내 신한은행 전 지점이 폭염과 한파를 피할 수 있는 시민 쉼터로 개방된다. 올여름 무더위에 지친 시민 누구나 지점에 들러 쉬었다 갈 수 있게 된다.&lt;br&gt;&lt;br&gt;서울시는 27일 신한은행과 업무협약을 체결하고 서울 시내 신한은행 지점 총 197곳을 폭염·한파 시민 쉼터로 개방하기로 했다고 밝혔다.&lt;br&gt;&lt;br&gt;은행 지점은 냉난방 시설을 잘 갖추고 있어 폭염이나 한파 때 찾는 시민들이 종종 있었는데 이제 눈치 보지 않고 쉬다 나올 수 있도록 공식 개방하는 것이다.&lt;br&gt;&lt;br&gt;이를 위해 지점마다 입구에 ‘기후동행쉼터’라고 쓴 현판을 단다. 신한은행은 지점 직원들을 대상으로 시민 응대 교육을 하기로 했다. 개방하는 신한은행 지점의 위치는 서울안전누리 홈페이지에서 확인할 수 있다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “은행 지점은 쾌적하고 찾아가기도 좋다”며 “노인과 장애인 등 폭염이나 한파에 취약한 시민 누구나 편하게 이용할 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 지난 2월부터 서울시는 편의점을 폭염·한파 쉼터로 개방하는 ‘기후동행쉼터’ 사업을 하고 있다. 무덥거나 추운 날 노인·장애인 등이 잠시 쉬어갈 수 있도록 길거리의 민간 영업점을 개방해 이른바 ‘기후 안전망’을 갖추자는 취지다. 1차적으로 서울에 있는 CU와 GS25 편의점 총 41곳을 쉼터로 개방했고 5월 말까지 58곳으로 확대할 계획이다. 이번에 신한은행이 동참하면서 서울 시내 기후동행쉼터는 255개로 늘어나게 된다.&lt;br&gt;&lt;br&gt;서울시는 “은행과 편의점 외에도 카페 등 다양한 영업점으로 기후동행쉼터를 확대해 나갈 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“나 조폭이야” 시민 무차별 폭행 남성들, 진짜 조폭이었다</title>
       <link>https://www.chosun.com/national/national_general/2024/05/27/7VQTGZLBFVFUDDKNYCQBCUZRBI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/27/7VQTGZLBFVFUDDKNYCQBCUZRBI/</guid>
@@ -926,16 +933,6 @@
       <description/>
       <pubDate>Mon, 27 May 2024 08:25:59 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IUZBULHFKBEJXHW4NRONEVHDEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남성들이 A씨를 폭행하는 장면. /SBS 보도화면&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신들이 조직폭력배라고 주장하며 부산 도심 한복판에서 40대 남성을 무차별 폭행한 남성들이 실제로 경찰 관리대상 폭력조직의 조직원인 것으로 밝혀졌다.&lt;br&gt;&lt;br&gt;27일 부산진경찰서 등에 따르면 이들은 지난 24일 새벽 부산의 대표 번화가인 서면에서 눈이 마주쳤다는 이유로 피해 남성을 무차별 폭행했다.&lt;br&gt;&lt;br&gt;당시 촬영된 영상 등을 보면 건장한 남성 2명은 부산 서면 한복판에서 40대 남성 A씨를 무차별 폭행하면서 “○○○○파 ○○○다”라며 자신들이 조직폭력배라고 주장했다.&lt;br&gt;&lt;br&gt;A씨가 폭행을 당해 몸을 가누지 못하는 상황임에도 이들은 A씨의 머리채를 잡고 번갈아가며 얼굴을 집중적으로 때리기도 했다.&lt;br&gt;&lt;br&gt;이들은 A씨가 의식을 잃고 쓰러지자, 가게 안으로 들이닥쳐 다른 일행에게도 폭행을 가했다.&lt;br&gt;&lt;br&gt;현재 입원 중인 A씨는 얼굴뼈가 내려앉는 등 피해가 커 수술을 앞두고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;하지만 A씨를 폭행한 남성들은 경찰에 신상정보를 남기고 귀가 조치 됐다.&lt;br&gt;&lt;br&gt;경찰은 가해자들이 경찰 관리대상 폭력조직의 조직원이라는 걸 뒤늦게 확인했으며 정확한 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘MBC 탈북작가 성폭력 보도’ 허위제보한 탈북민 1심서 징역 6개월 </title>
-      <link>https://www.chosun.com/national/national_general/2024/05/27/4PAEH7LU3VGOVEK5HODAAGIEFE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/27/4PAEH7LU3VGOVEK5HODAAGIEFE/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 07:31:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XCFWATJK5FBT7AOU7ZRDBPNYQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2021년 1월 24일 탈북 작가 장진성 씨의 성폭행 의혹에 대해 보도한 MBC 탐사기획 ‘스트레이트’./MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘유명 탈북작가 등으로부터 성폭력·성상납 강요 등을 당하였다’는 허위제보를 하여 MBC 탐사기획 ‘스트레이트’에 2회차에 걸쳐 내용이 나가도록 한 탈북 여성이 1심에서 실형을 선고받았다.&lt;br&gt;&lt;br&gt;28일 법조계에 따르면 서울서부지법 형사6단독 지충현 판사는 정보통신망법상 명예훼손, 협박 혐의로 기소된 승설향(36)씨에게 지난 22일 징역 6개월을 선고했다.&lt;br&gt;&lt;br&gt;승씨의 제보는 지난 MBC 스트레이트를 통해 나갔다. MBC는 2021년 1월·2월 두 차례 ‘유명 탈북 작가 장진성, 그에게 당했다. 탈북 여성의 폭로’ 등의 제목으로 의혹을 제기했다. 당시 뉴스데스크도 관련 내용을 소개했다.&lt;br&gt;&lt;br&gt;승씨는 2020년 12월부터 다음해 2월까지 전씨에게 휴대폰 메신저 등으로 자신과의 관계를 가족에게 알리겠다는 등 위협해 협박한 혐의도 받는다.&lt;br&gt;&lt;br&gt;방송 직후 장씨는 MBC를 상대로 소송을 제기하고 서울 마포경찰서에 승씨를 명예훼손 혐의로 고소했다. 지난 3월 대법원은 장씨가 성폭행 혐의 등에 대해 수사 기관에서 무혐의 처분을 받은 점을 들어, MBC와 담당 기자가 장씨에게 5000만원을 배상해야 한다고 판결했다.&lt;br&gt;&lt;br&gt;이와 관련 방송통신심의위원회는 지난 13일 전체 회의를 열고 MBC ‘스트레이트’와 MBC ‘뉴스데스크’에 법정 제재인 ‘관계자 징계’를 결정했다.&lt;br&gt;&lt;br&gt;승씨와 검찰 모두 1심 판결에 불복해 항소했다. 서울 서부지검은 “이 사건은 피고인이 기자에게 허위제보를 해 지상파에 방송되게 하고 수 회에 걸쳐 허위사실을 적시해 피해자들의 명예를 훼손한 것으로 사안이 중대하고 죄질이 불량하다”고 했다.&lt;br&gt;&lt;br&gt;2004년 탈북한 장씨는 북한 통전부 출신으로 2014년 출간한 탈북 수기 ‘Dear Leader(친애하는 지도자)’가 영미권 베스트셀러에 올랐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NCFWUFLH3JNKPF7IEJLCIKSW2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;탈북 작가 장진성 씨가 지난 13일 오후 서울 양천구 목동 방송통신심의위원회 앞에서 탈북여성 성폭력 의혹 보도 관련 방심위 의결에 대한 입장을 밝히고 있다. 
-    방심위는 이날 전체회의를 열고 장 작가의 탈북여성 성폭력 의혹을 보도한 MBC '스트레이트' 등 7건을 의결했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
