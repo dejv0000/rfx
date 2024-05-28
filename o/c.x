@@ -13,6 +13,187 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘딸 편법대출’ 의혹 양문석, 검찰 소환조사 임박</title>
+      <link>https://www.chosun.com/national/incident/2024/05/28/IEFDOVUSZVCU7MQGP7CJMHM4CI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/05/28/IEFDOVUSZVCU7MQGP7CJMHM4CI/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 14:00:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JPCXWMDB2FTKZBLORTKCEHF5KA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제22대 국회의원 선거 경기 안산갑에 출마한 양문석 더불어민주당 후보가 지난 3일 오전 경기 안산시 단원구 SK브로드밴드 한빛방송에서 열린 제22대 국회의원선거 방송토론회에 참석해 토론회를 준비하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 양문석(경기안산갑) 국회의원 당선자의 편법 대출 혐의를 수사 중인 검찰이 28일 “가까운 시일 내에 양 당선인을 소환 조사할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;수원지검 안산지청 형사4부(부장 이동근)는 지난 2021년 4월 새마을금고가 양 당선자의 딸 명의로 11억원의 대출을 내준 과정에서 불법 여부를 수사하고 있다. 검찰 관계자는 “양 당선자의 딸에게는 소환 통보를 했고 양 당선자는 조만간 통보할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;검찰에 따르면 양 당선자는 지난 2020년 8월 서울 서초구 잠원동에 위치한 40평대 아파트를 매입했다. 2021년 4월엔 이 아파트를 담보로 새마을금고에서 20대 장녀 명의로 11억원의 사업자 기업 운전자금 대출을 받았다. 대출 과정에서 제출한 서류는 대부분 허위인 것으로 밝혀졌다.&lt;br&gt;&lt;br&gt;검찰은 지난 14일 양 당선인의 잠원동 아파트와 안산 주거지, 대출을 시행해준 대구 수성새마을금고와 대출알선 업체 등을 압수 수색했다. 압수수색 영장에는 사기, 사문서위조 등 혐의와 사기 대출 의혹을 부인한 공직선거법상 허위사실공표 등의 혐의가 적시된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>일본여행 사진 올린 현아에 해외 네티즌 악플 세례, 무슨 일?</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/28/56ENJJOOZZFA3DYUJGLPOYCLCU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/56ENJJOOZZFA3DYUJGLPOYCLCU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 13:54:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PQPTBHX5QREILNHVNYI2PX2HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;현아가 올린 게시물. /현아 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘버닝썬 게이트’를 재조명한 BBC뉴스코리아의 다큐멘터리와 관련 그룹 비스트(하이라이트) 출신 용준형(35)과 공개 연애 중인 가수 현아(본명 김현아‧32)가 악플 세례에 시달리고 있다.&lt;br&gt;&lt;br&gt;현아는 28일 자신의 인스타그램 계정을 통해 일본 여행 중 찍은 것으로 보이는 여러 장의 사진을 공개했다. 현아가 식당에서 식사를 하거나 쇼핑을 하는 장면 등이 담긴 사진이었다.&lt;br&gt;&lt;br&gt;이번 게시물은 BBC뉴스코리아가 지난 19일 ‘버닝썬: K팝 스타들의 비밀 대화방을 폭로한 여성들의 이야기’라는 제목의 다큐멘터리를 공개한 후 현아가 처음 올린 것이었다.&lt;br&gt;&lt;br&gt;현아의 연인인 용준형은 2019년 버닝썬 사태 핵심 인물인 정준영이 공유한 불법 동영상을 본 사실이 있다고 인정한 후 하이라이트에서 탈퇴한 바 있다.&lt;br&gt;&lt;br&gt;다큐멘터리가 공개된 후 다수의 해외 네티즌들은 입장표명을 요구했지만 현아는 침묵한 바 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZD6S3EXB44QX5MXJ67HMVI2PLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 현아, 용준형./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해외 네티즌들은 영어 등으로 해당 게시물에 “나는 당신이 잘되기를 바라지만 당신의 경력은 점점 더 나빠지고 있다. 실수를 인정하면 다시 기회가 올 수도 있다” “난 더 이상 당신을 변호할 수 없다” “그냥 지나갈 거라 생각하고 문제를 무시하는 건 한심하다” “당신의 남자친구도 당신과 함께 이번 여행에 갔나?” 등의 댓글을 남기며 항의했다.&lt;br&gt;&lt;br&gt;반면 “현아가 아무 짓도 안 했는데 왜 공격하는 건가?” “그녀는 자신의 삶을 살고 있는 것”이라며 현아를 옹호하는 해외 네티즌들도 상당수 있었다.&lt;br&gt;&lt;br&gt;한편 다큐멘터리에 출연한 강경윤 기자는 그룹 카라의 고(故) 구하라가 ‘버닝썬 사태’ 취재 당시 큰 도움을 줬다고 밝혔다. 강경윤 기자는 버닝썬 사태 핵심 인물인 가수 승리, 정준영, 최종훈의 단체 카톡방을 처음 폭로했다.&lt;br&gt;&lt;br&gt;때문에 해외 네티즌들은 현아에게 “구하라를 꼭 기억해라” “구하라를 이렇게 배신하다니 믿을 수 없다” “당신은 여성의 편이 아니다” 등의 비판 댓글도 남겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4PUIHYDTDHVT5HSHUIJTOL6KI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;BBC뉴스코리아에서 공개한 가수 승리와 정준영의 과거 파티 현장. /BBC뉴스코리아 유튜브 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;승리는 상습도박, 성매매, 성매매알선 등의 혐의로 징역 1년6개월을 확정받고 지난해 2월 출소했다. 정준영은 2016년 여성을 만취시키고 집단 성폭행을 한 혐의 등으로 구속돼 징역 5년을 선고받았고 올해 3월 만기출소했다. 정준영에 앞서 최종훈이 2년 6개월의 형기를 채우고 2021년 11월 만기 출소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가을 같은 봄 하늘…오늘 유독 파랗고 맑았던 이유</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/05/28/OEQ745TVM5BCNBLHJPH2WOLZVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/05/28/OEQ745TVM5BCNBLHJPH2WOLZVM/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 10:19:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UTR66XOEMKGVASIV2BH42QQ5CY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;화창한 날씨를 보인 28일 오후 서울 용산구 국립중앙박물관에서 바라본 하늘이 푸른 모습을 보이고 있다. 2024.5.28/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 전국의 하늘이 가을처럼 청명(淸明)했다. 보통 봄에는 날이 맑더라도 지표에 내려앉은 먼지가 아지랑이 피듯 부유해 뿌연 경우가 많다. 그런데 이날은 완연한 가을처럼 하늘이 파랗고, 바람도 선선했다.&lt;br&gt;&lt;br&gt;가을 같은 날씨가 나타난 건 우리나라에 맑은 날씨를 가져오는 ‘이동성 고기압’의 성격이 여느 봄 때와는 달랐기 때문이다. 기상청에 따르면, 28~30일 우리나라는 북쪽에서 내려온 선선하고 건조한 공기의 영향으로 평년보다 기온이 조금 낮고, 공기는 미세먼지 없이 깨끗하겠다.&lt;br&gt;&lt;br&gt;봄철에 날이 맑은 건 우리나라가 이동성 고기압 영향에 드는 날이 많기 때문이다. 주로 서쪽에서 오는 이동성 고기압은 공기의 온도가 높다. 더운 공기가 우리나라를 덮으면 낮동안 햇볕에 의해 지표가 달궈지면서 먼지가 부유하게 된다. 먼지 때문에 햇볕이 산란하게 되고, 하늘 색깔도 탁해진다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5KERSQKMV5MF5OWTRY5UYIA5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 서울 중구 소월길에서 파란 하늘 아래로 남산케이블카가 움직이고 있다. 2024.05.28. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라로 들어오는 이동성 고기압이 꼭 따뜻하기만 한 것은 아니다. 북쪽에서 내려올 경우 공기의 온도가 낮고, 찬 공기는 가라앉는 성질이 있어 먼지가 떠다니지 않게 된다. 먼지가 없기 때문에 빛이 산란하는 일도 없고, 하늘도 새파랗게 보인다.&lt;br&gt;&lt;br&gt;지난주말 우리나라엔 전국적으로 비가 내렸다. 먼지를 한 차례 씻어낸 것이다. 그런데 비구름대를 동반한 저기압이 한반도를 통과한 후, 저기압이 빠져나간 상공을 북쪽에서 내려온 이동성 고기압이 차지하게 됐다. 날이 더 맑아지는 조건이 갖춰진 것이다. 바람이 건조해 습도가 낮아 꿉꿉하지 않고, 미세먼지도 없어 나들이 떠나기 좋은 날씨는 이렇게 만들어졌다.&lt;br&gt;&lt;br&gt;가을 같은 봄 날씨는 30일까지 이어질 전망이다. 29일은 전국이 대체로 맑은 가운데 일교차가 크겠다. 아침 최저기온은 9~16도, 낮 최고기온은 23~29도로 예보됐다. 미세먼지는 전국에서 ‘좋음’~’보통’ 수준을 보이겠다. 31일부턴 다시 따뜻한 이동성 고기압이 들어오면서 기온이 올라갈 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>온라인 대화방에서 성착취물 매매한 100여명 무더기 검거</title>
+      <link>https://www.chosun.com/national/incident/2024/05/28/NKYN75ZHKJC63JLCTAMULSPOMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/05/28/NKYN75ZHKJC63JLCTAMULSPOMA/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 13:15:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/23RX3AK2AEBRUUPMIYIY4DXKTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산남부경찰서/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온라인 채팅 플랫폼 ‘디스코드’ 대화방에서 미성년자 성 착취물 등을 매매한 100여명이 경찰에 무더기 입건됐다.&lt;br&gt;&lt;br&gt;부산 남부경찰서는 아동·청소년의 성보호에 관한 법률 위반 혐의 등으로 성 착취물 판매자와 구매자 등 100여명을 입건했다고 28일 밝혔다. 경찰은 올해 초 소셜미디어 등을 통해 성 착취물을 판매한다는 글을 보고 수사에 나섰다.&lt;br&gt;&lt;br&gt;검찰은 수사가 끝나는대로 판매자 등을 검찰에 송치할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, JMS 교주 정명석 등 4명 추가 기소</title>
+      <link>https://www.chosun.com/national/incident/2024/05/28/ZRVPU25Z55A6BMNGYXUMNCYNEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/05/28/ZRVPU25Z55A6BMNGYXUMNCYNEE/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 13:10:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HNH4QYIWH7ERCJDABIG77ZWLOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;JMS 총재 정명석./JMS 공식 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 기독교복음선교회(JMS) 총재 정명석(79)씨 등의 추가 성범죄 사실을 파악해 정씨와 공범 3명 등 4명을 추가로 기소했다.&lt;br&gt;&lt;br&gt;대전지검은 28일 여성 신도 2명을 대상으로 모두 19차례에 걸쳐 성폭력 범행을 저지른 혐의(준강간죄)로 정씨를 추가 기소했다. 또 정씨의 범행에 가담하거나 도와준 혐의(준유사강간방조), 피해자가 고소하지 못하도록 각서를 쓰게 한 혐의(공동강요) 등으로 정씨의 주치의 A씨, JMS 인사담당자 B씨, 관리자 C씨를 불구속 기소했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “정씨와 공범들이 죄에 상응하는 처벌을 받을 수 있도록 하고, 피해자 보호에 만전을 기하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;정씨는 지난 2018년 2월부터 2021년 9월까지 충남 금산군의 수련원 등에서 23차례에 걸쳐 여신도들을 성폭행한 혐의 등으로 구속기소돼 현재 항소심 재판을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“내 이름 대면 다 알아” 만취 롤스로이스, 벤틀리 들이받고 큰소리</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/28/WCCHDPG5VVFYNJPGZ3Y32DRJKY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/WCCHDPG5VVFYNJPGZ3Y32DRJKY/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 12:55:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5L3M3WR5VVCAFKYGNOVMQ4FKNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;당시 사고 장면. /MBN 보도화면&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강남 한복판에서 만취 상태로 롤스로이스 차량을 몰다 주차된 벤틀리 차량을 들이받고 달아난 50대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;28일 경찰에 따르면 서울 강남경찰서는 50대 남성 A씨를 도로교통법상 음주운전 및 사고 후 미조치, 특정범죄가중처벌법상 위험운전치상 등 혐의로 입건해 조사 중이다.&lt;br&gt;&lt;br&gt;A씨는 지난 25일 밤 8시쯤 만취한 상태에서 자신의 롤스로이스 차량을 몰다 서울 강남구 논현동의 한 도로에서 발레파킹을 위해 주차된 벤틀리 차량을 들이받은 뒤 현장을 벗어났다.&lt;br&gt;&lt;br&gt;이 사고로 피해 차량 주변에 있던 50대 발레파킹 직원 B씨가 다리를 다쳐 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;사고 직후 A씨는 피해 차량의 주인에게 오히려 화를 내며 “내가 누군지 아느냐, 내가 이름 석 자만 대면 다 아는 사람”이라고 말한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이후 경찰차가 현장에 도착하자 A씨는 돌연 현장을 벗어났다가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 사고 당시 A씨의 혈중알코올농도는 면허취소 수준이었다. 마약 간이시약 검사 결과는 음성이 나왔다.&lt;br&gt;&lt;br&gt;경찰은 자세한 사건 경위를 조사한 뒤 A씨 사건을 검찰로 송치할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“저기요…” 술 취해 새벽 출근 여성 사무실까지 따라온 남성</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/28/ALYCG2BQKVCM7G2MXMCVRQJK7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/ALYCG2BQKVCM7G2MXMCVRQJK7M/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 10:18:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q2JSLZJCMVGWPBJDMUG53RESBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사무실 침입을 시도한 A씨. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취해 처음 보는 20대 여성을 뒤쫓아 사무실 안까지 들어간 20대 남성이 건조물 침입 혐의로 입건됐다.&lt;br&gt;&lt;br&gt;28일 충남 천안 서북경찰서 등에 따르면 20대 남성 A씨는 지난 27일 오전 5시 30분쯤 천안 서북구 불당동에서 출근하던 20대 여성 B씨의 뒤를 따라 사무실 안까지 무단으로 침입한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;당시 A씨는 B씨가 비밀번호를 누르고 사무실 안으로 들어가자 문이 닫히기 전에 따라 들어갔다.&lt;br&gt;&lt;br&gt;B씨는 깜짝 놀라 A씨를 밖으로 밀어냈지만, A씨는 이후에도 6분가량 사무실 앞을 배회했다.&lt;br&gt;&lt;br&gt;B씨는 연합뉴스와의 인터뷰에서 “낯선 남자가 ‘저기요’라고 불러서 대답했더니 별다른 말이 없이 계속 서 있었다”며 “무시하고 사무실에 들어가려는 찰나에 갑자기 뒤따라와 너무 놀랐다”고 주장했다.&lt;br&gt;&lt;br&gt;B씨는 “경찰이 오기 전까지 계속 숨어 있었는데 (A씨가) 계속해서 문을 두드리며 ‘열라’고 소리쳤다”고 주장했다.&lt;br&gt;&lt;br&gt;A씨는 출동한 경찰에 의해 붙잡혔고, 다행히 B씨는 별다른 피해는 입지 않았다. A씨는 경찰에 붙잡혔을 당시 만취 상태였다고 한다. 경찰은 A씨의 신원을 확인한 뒤 귀가 조치했다. 이후 B씨 회사 측의 사무실 침입 신고를 추가로 받고, A씨를 입건했다.&lt;br&gt;&lt;br&gt;A씨는 경찰조사에서 “술을 너무 많이 마셔서 정신이 없었다”라며 “성적 목적을 가지고 침입하려던 것은 아니었다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>세브란스병원, 전립선암 이어 췌장암·간암 환자도 중입자 치료 시작</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/05/28/REWX5ENPPNH5VBIEAD6HLG7EJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/05/28/REWX5ENPPNH5VBIEAD6HLG7EJQ/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 12:26:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WTNRQG6FAZ3W7Y2RJZF7JCU344.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세브란스병원 방사선종양학과 금웅섭(오른쪽) 교수와 의료진이 정확한 치료를 위해 회전형 중입자 치료기를 조정하고 있다. /연세암병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세브란스병원이 28일 췌장암·간암 환자를 대상으로 중입자 치료를 시작했다. 그동안 전립선암 환자 위주로 중입자 치료를 해오다 이번에 췌장암, 간암으로 대상을 확대했다. &lt;br&gt;&lt;br&gt;서울 신촌 연세암병원은 이날 췌장암 3기 환자 김모(47)씨와 간암 3기 환자 이모(73)씨를 대상으로 각각 회전형 중입자 치료기를 가동했다고 밝혔다. 김씨는 주 4회씩 3주간 총 12회를, 이씨는 일주일간 총 4회를 각각 치료받는다. 앞서 김씨는 수술 불가 상태에서 항암을 거쳤고 이씨는 수술 후 재발이 두 차례 있었다. &lt;br&gt;&lt;br&gt;중입자 치료는 탄소 원자를 빛의 속도에 가깝게 암세포에 쏴서 치료하는 방식이다. 정상 세포는 피하고, 암세포에만 고선량 방사선을 집중할 수 있어 부작용은 줄이고 치료 효과는 높일 수 있다. 치료 기간도 대폭 단축된다. &lt;br&gt;&lt;br&gt;세브란스병원은 국내에서 유일하게 전립선암에 쓰는 고정형 중입자 치료기 1대와 췌장암, 간암, 폐암 등에 사용하는 회전형 중입자 치료기 2대를 보유하고 있다. 세브란스병원은 올해 안에 폐암과 두경부암에도 회전형 중입자 치료기를 사용한다는 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>모교서도 김호중 지우기…'트바로티 집' 현판 철거키로</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/28/L3JVTBTGOFDF5PPR4LYMEQKTIE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/L3JVTBTGOFDF5PPR4LYMEQKTIE/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 12:22:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VHOEAM63FJBOBCNDGIMFL3FGQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김천예술고등학교에 설치된 쉼터 '트바로티 집'./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주 뺑소니 혐의로 구속된 트로트 가수 김호중씨(33)의 모교인 김천예술고등학교가 학교 내에서 김씨의 흔적을 지우기로 결정했다.&lt;br&gt;&lt;br&gt;28일 김천예술고등학교 측 관계자는 조선닷컴에 “‘트바로티 집’ 현판을 비롯해 쉼터에 있는 김호중씨 관련 사진 등을 정리할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;‘트바로티 집’은 김천예술고등학교 출신인 김호중씨를 기념해 만든 쉼터다. 2020년 9월 준공돼 현재까지 운영 중이다. 해당 쉼터는 경북 김천시가 교육여건 지원사업으로 학교 측에 2000여만원을 지원해 만들어진 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김호중씨의 사진과 관련 자료 등이 설치돼 있어 그동안 팬들이 찾아오는 지역 내 명소로 꼽혔지만 이번 사건 이후 철거 및 명칭 변경 요구가 나왔었다. 학교 측은 쉼터는 이름을 바꿔 계속 운영할 예정이라고 밝혔다.&lt;br&gt;&lt;br&gt;김호중씨는 지난 9일 오후 11시 40분쯤 서울 강남구 압구정동의 한 도로에서 차를 몰던 중 마주 오던 택시와 충돌한 뒤 달아났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BRBXQ3DTVHWSOQUBOG2WPVQSNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'음주 뺑소니' 혐의를 받는 가수 김호중이 지난 24일 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)을 마친 후 호송 차량으로 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김호중씨 측은 운전자 바꿔치기, 차량 블랙박스 메모리카드 파손 등은 인정하면서도 음주운전 의혹만은 강하게 부인해왔다. 사고를 내기 전 김호중씨가 대리기사가 운전하는 차량 조수석에 타고 귀가하는 장면이 포착된 것에 대해서는 술을 마시진 않았지만 피곤해서 대리기사 서비스를 이용한 것이라고 해명했다.&lt;br&gt;&lt;br&gt;그러다 여러 증거가 쏟아져 나오자 사고 열흘 만인 지난 19일 음주운전 사실을 뒤늦게 인정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>래퍼 길 측 “음주 전력 또 구설 오를까 걱정”</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/28/4UN2WBMM4JFRVFOLM4QZL4VK7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/4UN2WBMM4JFRVFOLM4QZL4VK7M/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 11:38:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/46CTSSJFRZYSOZUILSMMJKD6EQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'음주 뺑소니' 혐의를 받는 가수 김호중이 지난 24일 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)을 마친 후 호송 차량으로 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주 뺑소니 혐의로 구속된 트로트 가수 김호중(33)과 사고 당일 만난 유명 연예인은 개그맨 정찬우(56)와 그룹 ‘리쌍’ 출신 래퍼 길(46‧본명 길성준)인 것으로 밝혀졌다. 길은 2004년부터 2017년까지 3차례 음주운전으로 적발돼 활동중단과 복귀를 반복한 바 있다.&lt;br&gt;&lt;br&gt;길 측 관계자는 28일 문화일보와의 인터뷰에서 “(길이) 앞선 불미스러운 일들 때문에 또 다시 구설에 오르는 것을 우려하고 있다”고 전했다.&lt;br&gt;&lt;br&gt;길은 사건이 발생한 이후 참고인 조사를 받으며 경찰에 적극 협조하고 있다고 한다. 경찰은 길에게 음주운전 방조 혐의는 없는 것으로 보고 있다.&lt;br&gt;&lt;br&gt;하지만 일부 네티즌들은 온라인상에서 길이 과거 3차례 음주운전으로 적발된 사실을 언급하며 “끼리끼리 만났다” “왜 김호중과 술 마신 사실을 숨기고 있었나” “술을 억지로 먹인 것 아니냐” 등의 비판을 쏟아내고 있다.&lt;br&gt;&lt;br&gt;길 측 관계자는 “음악 의뢰를 받아 이 날 김호중과 처음 만나게 됐다고 한다”며 “(길이) 앞선 불미스러운 일들 때문에 또 다시 구설에 오르는 것을 우려하고 있다. 이 날 길은 차를 가져가지도 않았고 자리를 마친 뒤 택시를 타고 귀가했다”고 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IMPY4Z2W7JU2FW6OXEI55HHFQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;길(왼쪽), 정찬우. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 사건 초기 김호중과 술자리를 함께 했던 연예인으로 같은 소속사인 개그맨 허경환과 래퍼 슬리피가 지목됐었다. 두 사람은 모두 사실이 아니라고 부인했었다. &lt;br&gt;&lt;br&gt;김호중씨는 지난 9일 오후 11시 40분쯤 서울 강남구 압구정동의 한 도로에서 차를 몰던 중 마주 오던 택시와 충돌한 뒤 달아났다.&lt;br&gt;&lt;br&gt;김호중씨 측은 운전자 바꿔치기, 차량 블랙박스 메모리카드 파손 등은 인정하면서도 음주운전 의혹만은 강하게 부인해왔다. 사고를 내기 전 김호중씨가 대리기사가 운전하는 차량 조수석에 타고 귀가하는 장면이 포착된 것에 대해서는 술을 마시진 않았지만 피곤해서 대리기사 서비스를 이용한 것이라고 해명했다.&lt;br&gt;&lt;br&gt;그러다 여러 증거가 쏟아져 나오자 사고 열흘 만인 지난 19일 음주운전 사실을 뒤늦게 인정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>中 알·테·쉬 제품 43%서 유해물질...발암물질·환경 호르몬 범벅</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/28/J67BH46IEBFIDDEY6PKSGQDIJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/J67BH46IEBFIDDEY6PKSGQDIJI/</guid>
+      <dc:creator>최종석 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 12:11:01 +0000</pubDate>
+      <content:encoded>서울시가 중국의 온라인 쇼핑몰 ‘쉬인’에서 파는 가방·신발 등 해외 직구 어린이 가죽 제품 8개를 조사해보니 7개에서 유해 물질이 나와 사용하기 부적합한 것으로 나타났다.&lt;br&gt;&lt;br&gt;28일 서울시에 따르면, 쉬인에서 파는 어린이 신발에서는 국내 안전 기준치의 428배에 달하는 프탈레이트계 첨가제가 검출됐다.&lt;br&gt;&lt;br&gt;프탈레이트계 첨가제는 플라스틱을 가공할 때 딱딱한 플라스틱을 부드럽게 만들어주는 화학 약품이다. 일종의 ‘환경 호르몬’으로, 불임·조산 등을 유발한다. 어린이의 성장도 방해한다. 어린이용 가죽 가방에서는 발암 물질인 폼알데하이드가 나왔다.&lt;br&gt;&lt;br&gt;서울시는 지난달 8일부터 매주 알리익스프레스, 테무, 쉬인 등 중국 온라인 쇼핑몰에서 파는 해외 직구 어린이 제품의 안전성을 검사한 결과를 발표하고 있다. 이날까지 총 7차례에 걸쳐 93개 제품을 검사한 결과, 40개(43%) 제품에서 프탈레이트계 첨가제, 중금속, 가습기 살균제 성분 등 유해 물질이 검출됐다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “해외 직구 제품은 정식 수입 제품과 달리 별도의 안전 검사 없이 국내에 들어와 사실상 안전의 사각지대에 놓여 있다”며 “시민의 건강이 위협받는 상황에서 지방자치단체가 손 놓고만 있을 수 없어 매주 전문 기관과 검사한 결과를 발표하고 있다”고 했다. 오세훈 시장은 “검사를 해보니 우리도 놀랐다”며 “검사 결과를 발표해 시민들이 합리적인 판단을 할 수 있게 돕고 해당 쇼핑몰에도 결과를 전달해 조치하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;서울시는 국내 전문 시험 기관 3곳과 업무협약을 체결하고 검사를 더 강화하기로 했다. 다음 달부터는 텀블러, 그릇 등에 대한 검사 결과를 발표할 예정이다.&lt;br&gt;&lt;br&gt;정부의 해외 직구 안전 대책은 갈팡질팡하고 있다. 정부는 지난 16일 “국민 건강에 영향을 줄 수 있는 80개 품목은 KC(국가인증통합마크) 인증을 받지 않으면 6월부터 직구를 금지하겠다”고 발표했다가 “소비자 선택권을 과도하게 제한한다”는 비판이 쏟아지자 철회했다.&lt;br&gt;&lt;br&gt;해외에서는 소비자 단체들이 직접 나서 중국 직구 제품에 대한 안전성 테스트를 벌이고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>20kg 넘는 완전군장에 책 더 넣고...숨진 훈련병에 선착순도 시켰다</title>
+      <link>https://www.chosun.com/politics/diplomacy-defense/2024/05/28/UH2SOH7PUZA2VBLI4NK2Y2QYGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/diplomacy-defense/2024/05/28/UH2SOH7PUZA2VBLI4NK2Y2QYGQ/</guid>
+      <dc:creator>양지호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 11:32:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZW26ZYGSRJLMHDUB3Y6YS4U4WY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 강원 인제군의 모 부대 위병소 위로 먹구름이 드리워 있다. 이 부대에서는 최근 훈련병이 군기 훈련을 받다가 쓰러진 뒤 이틀 만에 숨진 사건이 발생했다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;육군훈련소에서 군기 훈련을 받던 중 쓰러져 이틀 뒤 사망한 훈련병이 완전군장을 하고 연병장에서 ‘선착순 달리기’를 하는 등 가혹 행위에 준하는 훈련을 받은 정황이 추가로 확인됐다. 군장 무게를 늘린다며 책 여러 권도 넣게 했다고 한다. 군 수사 당국은 해당 부대 중대장(대위)과 부중대장(중위)에게 과실치사 혐의 등을 적용해 민간 경찰로 사건을 28일 이첩했다.&lt;br&gt;&lt;br&gt;사망한 훈련병은 지난 23일 무게 20㎏ 이상의 완전군장을 한 채 보행·구보·팔굽혀펴기·선착순 달리기 등을 반복하라는 지시를 받은 것으로 알려졌다. ‘완전군장 달리기’ 등은 규정 위반이다. 이 훈련병은 얼차려를 반복적으로 받다가 약 40분이 지난 오후 5시 10분쯤 쓰러졌다. 관련 정황 일부는 CCTV 등에도 기록돼 있다고 군은 밝혔다.&lt;br&gt;&lt;br&gt;군 관계자는 쓰러진 훈련병이 횡문근융해증과 열사병 증상을 보였다고 했다. 횡문근융해증은 무리한 운동·과도한 체온 상승이 원인이 돼 발생한다. 근육이 괴사하고 신장 등 장기에 치명적 손상을 입힌다. 훈련병은 콜라색 소변을 보는 등 의심 증상이 나타났다고 한다. 숨진 훈련병은 약 40도에 달하는 고열 등 열사병 증상도 보였다. 질병관리청은 28일 사망한 훈련병이 올해 첫 온열 질환 추정 사망자로 집계됐다고 했다. 훈련병이 군기 훈련을 받던 오후 5시쯤 강원 인제군 기온은 27.4도였다.&lt;br&gt;&lt;br&gt;부중대장(중위)이 얼차려를 시작했고 중대장(대위)은 중간에 합류해 현장에서 훈련을 지시·통제한 것으로 전해졌다. 군 수사 당국은 두 간부에게 업무상과실치사와 직권남용가혹행위 혐의가 있다고 판단하고 강원지방경찰청에 사건을 이첩했다.&lt;br&gt;&lt;br&gt;육군은 “해당 중대장과 부중대장은 관련 혐의가 확인되면서 민간 경찰 이첩 하루 전인 27일 오전 8시부로 직무 배제했다”며 “경찰 수사에 적극 협조할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>얼차려 사망 훈련병 ‘열사병’...올해 첫 온열질환 추정 사망자</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/28/S3K5HLKDTNF7ZPAA6GEY2MAIHE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/S3K5HLKDTNF7ZPAA6GEY2MAIHE/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 12:04:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZW26ZYGSRJLMHDUB3Y6YS4U4WY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;훈련병이 군기 훈련을 받다가 쓰러진 뒤 이틀 만에 사망한 사건이 발생한 강원 인제군의 모 부대. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난주 군기훈련을 받던 도중 쓰러져 이틀 만에 숨진 육군 훈련병이 올해 첫 열사병 추정 사망자로 분류됐다. 사망한 훈련병이 실려간 응급실 의료진이 ‘열사병’으로 진단했기 때문이다.&lt;br&gt;&lt;br&gt;28일 질병관리청에 따르면, 지난 23일 강원 인제군에서 사망한 훈련병이 실려간 강원도 한 대형병원 응급실이 “열사병 추정 사망자가 발생했다”고 27일 질병청에 보고했다. 질병청은 지난 20일부터 ‘온열질환 응급실 감시체계 신고센터’를 운영하면서 응급실 방문 환자 중 온열질환자가 있는지 병원으로부터 매일 보고받고 있다. 사망 훈련병이 올해 온열질환 감시체계가 시작된 지 일주일 만에 첫 접수된 신고 사례였다.&lt;br&gt;&lt;br&gt;온열질환은 뜨거운 환경에서 열 때문에 갑자기 발생하는 병으로 열사병, 열탈진 등이 있다. 온열질환자들은 두통, 어지러움, 근육경련 등 증상을 보이다가 오래 방치될 경우 생명이 위태로워질 수 있다. 훈련병이 사망한 지난 23일 강원 인제군의 최고 기온은 28도였다. 부검 결과 사망한 훈련병에게 나타난 ‘횡문근융해증’도 열사병이 원인일 수 있다고 한다.&lt;br&gt;&lt;br&gt;다만 질병청 관계자는 “우리는 온열질환 관련 보고만 받기 때문에 ‘추정 사망자’로 표현한 것이며, 정확한 사망 원인은 파악할 수 없다”고 밝혔다. 군이 정밀 부검을 진행하면 사망 원인이 바뀔 수도 있다는 뜻이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수갑도 안 채우고 흡연 허락...경복궁 낙서 사주범, 2시간 도주극</title>
+      <link>https://www.chosun.com/national/2024/05/28/E4SQYTQRUJBL3KXY5X43XL4FF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/05/28/E4SQYTQRUJBL3KXY5X43XL4FF4/</guid>
+      <dc:creator>주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 11:46:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DT6IFSMUMFJ7JBSPSTT55UZRWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 서울경찰청 사이버수사대 인근 건물 CCTV를 통해 확인한 경복궁 담벼락 낙서 사주 혐의 '이팀장' 강모 씨 도주 장면. 경찰에 따르면 이날 강씨는 1층 조사실에서 조사를 받다가 쉬는 시간을 틈타 담배를 피우고 싶다고 요청해 수사관 2명의 감시 하에 흡연을 끝낸 후 울타리를 뛰어넘어 도주한 것으로 알려졌다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘경복궁 담벼락 낙서’를 사주한 혐의로 구속된 총책 강모(30)씨가 28일 서울경찰청에서 조사받던 중 달아나는 사건이 발생했다. 경찰은 2시간 만에 강씨를 붙잡았다. 구속 피의자가 경찰 심장부에서 도주, 서울 중심가를 활보한 어처구니없는 사건이 발생한 것이다.&lt;br&gt;&lt;br&gt;강씨는 이날 서울 종로구 서울청 사이버수사과 청사에서 조사를 받고 있었다. 강씨는 오후 1시 50분쯤 “담배를 피우고 싶다”고 했고, 경찰 수사관 2명이 강씨를 데리고 청사 1층 바깥으로 나갔다. 이 과정에서 강씨의 수갑을 채우지 않고 담배를 피우라고 했다. 강씨는 이 틈을 타 흡연 직후 에어콘 실외기를 밟고 청사 울타리를 순식간에 뛰어넘었다.&lt;br&gt;&lt;br&gt;목격자들 말을 들어보면 흰색 티셔츠 차림 강씨는 두 팔을 세차게 흔들며 전속력으로 종로보건소 방향으로 달려갔다. 이어 경찰 두 명이 “잡아, 잡아”라고 외치며 뒤쫓았다. 도주 현장의 울타리는 높이 2m가 안 되고 별도 철조망도 없었다. 건장한 체격의 성인 남자라면 얼마든지 뛰어넘을 수 있는데도 피의자에게 수갑조차 채우지 않았다. 경찰이 사실상 도주를 방치한 셈이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LGJIDVLXCZORDFCAYFPAUPWSMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 서울경찰청 사이버수사대의 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울청은 강씨 도주 약 한 시간 뒤에야 오후 2시 45분쯤 청 차원의 총동원령을 내렸다. 사이버수사과가 자체적으로 강씨를 잡겠다며 보고를 뭉갰기 때문이다. 허술한 보안뿐 아니라 도주 후 늑장 대처 및 초동 대응 미흡과 관련한 지적이 나온다. 인근 교회 2층 옷장에 숨어 있던 강씨는 오후 3시 40분쯤 경찰에 붙잡혔다. 경찰은 감시 카메라를 분석해 간신히 강씨 동선을 추적할 수 있다.&lt;br&gt;&lt;br&gt;강씨는 지난해 12월 임모(18)군과 김모(17)양에게 ‘낙서하면 300만원을 주겠다’고 해 국가지정문화재인 경복궁 담장을 훼손하도록 한 혐의로 사건 발생 159일 만인 지난 22일 검거됐다. 법원은 지난 25일 강씨에게 구속영장을 발부했다. 불법 영상 공유 사이트를 운영하던 강씨는 일명 ‘이 팀장’으로 불렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시, 민자도로 4곳 통행료 인상 추진</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/28/QDKKMHLBXVCY7FGKGMG7L5CBFQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/QDKKMHLBXVCY7FGKGMG7L5CBFQ/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 11:35:55 +0000</pubDate>
+      <content:encoded>서울시 내 용마터널과 강남순환도시고속도로(강남순환로), 신월여의지하도로, 서부간선지하도로 등 민자(民資)도로 4곳의 통행료가 올 하반기 오를 전망이다. 서울시는 최근 민자도로 통행료 인상 의견 청취안을 서울시의회에 제출했다고 28일 밝혔다. 의견 청취를 거쳐 7월 1일부터 적용한다. 통행료는 개통 당시 요금에 소비자 물가지수 변동분을 누적 적용해 산정한다.&lt;br&gt;&lt;br&gt;용마터널은 17인승 이상 대형 버스나 10t 이하 화물차 등 중형차는 2600원에서 2900원, 10t을 초과하는 대형차는 3300원에서 3800원으로 오르고, 소형차는 현행 1700원이 유지된다. 강남순환로는 소형차 1800원에서 1900원, 중형차 2900원에서 3200원으로 각각 인상된다. 서울시 관계자는 “중형 이상 차량은 지난해 동결했기 때문에 올해 인상 폭이 크다”고 했다.&lt;br&gt;&lt;br&gt;소형차만 진입하는 신월여의지하도로와 서부간선지하도로는 100원씩 올라 각각 2700원과 2800원이 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공수처, ‘순직 해병대원 사건’ 임성근 사단장 휴대폰 압수</title>
+      <link>https://www.chosun.com/national/court_law/2024/05/28/SFQUYBKFA5DZNEE5CGYB6PU5XM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/28/SFQUYBKFA5DZNEE5CGYB6PU5XM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 10:52:45 +0000</pubDate>
+      <content:encoded>‘순직 해병대원 조사 무마 외압’ 의혹을 수사하는 고위공직자범죄수사처(공수처)가 채수근 상병 사망 당시 수중 수색 작전을 지휘했던 임성근 전 해병대 1사단장의 휴대폰을 압수했던 것으로 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3MR557E5TDLIRANX7Y3DDAWCLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'순직 해병대원 사건' 관련 조사를 위해 경북 경산시 경북경찰청 형사기동대에 피의자 신분으로 출석했던 임성근 전 해병대 1사단장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 본지 취재를 종합하면, 이 의혹을 수사하는 공수처 수사4부(부장 이대환)는 지난 1월 임 전 사단장 등에 대해 압수 수색을 벌이면서 임 전 사단장이 사용한 휴대폰을 압수한 것으로 전해졌다. 공수처 수사팀은 당시 이틀에 걸쳐 국방부 검찰단, 국방부 조사본부 등 광범위한 압수 수색을 벌였는데, 이때 압수 수색 대상에 임 전 사단장도 포함됐다고 한다. 공수처는 임 전 사단장의 휴대폰 등 압수한 자료물에 대한 포렌식 작업을 상당 부분 진행한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;임 전 사단장은 ‘순직 해병대원 사건’ 당시 수중 수색 작전을 지휘한 것으로 알려져 있다. 작년 7월 30일 채 상병 순직 사건 초동 조사를 지휘한 박정훈 전 해병대 수사단장은 임 전 사단장 등 8명에 대한 과실치사 혐의가 적시된 조사 결과를 이종섭 국방장관에게 보고해 결재를 받았다. 그러나 이 장관이 이튿날 ‘수사권 없는 해병대 수사단의 자료에 혐의가 적시될 경우 경찰 수사에 영향을 미칠 수 있다’는 이유 등을 들어 뒤늦게 경찰 이첩을 보류하라고 지시한 것으로 알려졌다. 박 대령이 이를 거부하고 조사 기록을 경찰에 이첩하자 국방부가 이를 경찰에서 회수했다는 것이 의혹의 골자다.&lt;br&gt;&lt;br&gt;경북경찰청은 지난 13일 오전 9시쯤 임 전 사단장을 업무상과실치사 등 혐의 피의자 신분으로 소환해 22시간30여분 동안 조사를 진행했다. 당시 임 전 사단장은 14일 오전 7시30분쯤 조사를 마치고 나와 취재진에게 “채 상병 부모님께 약속한대로 정확한 진상규명을 위해 일점일획 거짓됨 없이 진실되고 성실하게 경찰 조사에 임했다”고 한 뒤 자리를 떠났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘군기훈련 사망’ 훈련병 빈소 찾은 육군 참모총장…“규정 위반” 질문엔 묵묵부답</title>
+      <link>https://www.chosun.com/national/regional/honam/2024/05/28/MOM2B6CKG5CFVFMITU2T2NALJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/05/28/MOM2B6CKG5CFVFMITU2T2NALJU/</guid>
+      <dc:creator>나주=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 10:46:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4DKMQAJ4DNNHVG2Z5OVDBSMBZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박안수 육군참모총장이 28일 오후 전남 나주시 한 장례식장에 마련된 '군기훈련 사망 훈련병'의 빈소를 조문한 뒤 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박안수 육군 참모총장이 28일 군기훈련을 받은 뒤 숨진 훈련병의 빈소를 찾아 조문했다. 그는 숨진 훈련병이 받은 군기훈련이 규정을 위반했는지 여부를 묻는 질문을 묵묵부답으로 회피했다.&lt;br&gt;&lt;br&gt;박 참모총장은 이날 오후 전남 나주의 한 장례식장에서 강원도의 한 부대 신병교육대 소속 A 훈련병의 유족과 비공개 면담을 가졌다. A 훈련병은 지난 23일 군기훈련 중 쓰러져 민간병원으로 후송됐지만 25일 숨졌다.&lt;br&gt;&lt;br&gt;A 훈련병은 간부 지시에 따라 20~25㎏ 무게의 완전군장 한 상태로 연병장을 구보(달리기)로 돌았고 완전군장 차림으로 팔굽혀펴기도 한 것으로 전해졌다. A 훈련병은 당시 부대 지휘관의 지시로 다른 훈련병과 함께 군기훈련을 받다가 갑자기 심장마비 증세를 호소한 것으로 알려졌다. 군기훈련은 군기 확립을 위해 장병에게 지시하는 체력 단련 등을 말한다.&lt;br&gt;&lt;br&gt;A 훈련병은 지난 13일 해당 부대 신병교육대로 입대했다. 이 때문에 입대한 지 약 10일 된 훈련병이 규정에 없는 무리한 군기훈련을 받아 사망했다는 의혹이 제기되고 있다.&lt;br&gt;&lt;br&gt;하지만 박 참모총장은 유족과 면담을 마친 직후 “A 훈련병이 받은 군기훈련이 규정을 위반했느냐”고 묻는 취재진 질문에 답하지 않았다. 유족들은 A 훈련병의 사망 과정에 대한 철저한 진상조사가 이뤄지는지 지켜보겠다는 입장으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4DKMQAJ4DNNHVG2Z5OVDBSMBZU.jpg?width=918&amp;height=1404&amp;auth=65a2dcf86dd31029fbb274452c2184b336df7d40214040230a78e6c55edbc662&amp;smart=true" type="image/jpeg" height="1404" width="918">
+        <media:description type="plain">&lt;YONHAP PHOTO-3403&gt; 박안수 육군참모총장, 군기훈련 사망 훈련병 빈소 조문
+    (나주=연합뉴스) 정다움 기자 = 박안수 육군참모총장이 28일 오후 전남 나주시 한 장례식장에 마련된 '군기훈련 사망 훈련병'의 빈소를 조문한 뒤 이동하고 있다. 2024.5.28
+    daum@yna.co.kr/2024-05-28 19:07:13/
+&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">정다움</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>상암 DMC 랜드마크 용지, 6번째 유찰</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/28/E5RKBSZGE5CJJCKK5T5BOMSWXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/E5RKBSZGE5CJJCKK5T5BOMSWXM/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 10:14:35 +0000</pubDate>
+      <content:encoded>서울 마포구 상암동 DMC(디지털미디어시티) 랜드마크 용지 매각이 6번째 유찰됐다. 서울시는 “상암 DMC 랜드마크 용지 사업 계획서를 접수한 결과, 응찰자가 없었다”고 28일 밝혔다. 작년 6월 다섯 번째 유찰에 이어 1년 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UX25R6HPKVGSPADRRKCAESCF54.png"&gt;&lt;figcaption&gt;&lt;small&gt;자료=서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 용지는 상암동 1645·1646 필지로, 전체 3만7262㎡ 규모에 달한다. 공급 예정 가격은 8365억이다. 서울시는 2004년부터 이 곳을 개발해 서울 서부권 랜드마크 빌딩을 세우겠다는 계획을 세웠다. 2030년까지 100층 이상의 초고층 빌딩을 만들겠다는 계획이었다.&lt;br&gt;&lt;br&gt;이 용지는 중심 상업지역으로 분류돼 용적률이 1000%에 이른다. 최고 높이 133층의 건물이 들어설 수 있는 것이다. 실제 2008년에는 대우건설 등 25개 출자사가 사업비 3조7000억원을 들여 133층 규모의 ‘서울라이트 타워’를 조성하겠다는 계획도 세웠지만, 자금 조달에 어려움을 겪어 2012년 계약이 해제됐다.&lt;br&gt;&lt;br&gt;이후 중국의 녹지그룹이 재추진 의사를 밝혔지만 무산됐고, 서울시는 이후 네 차례나 매각을 추진했으나 사업 착수에 이르지 못했다. 현재 용지는 공터로 방치돼있다.&lt;br&gt;&lt;br&gt;서울시는 용지 매각에 어려움을 겪자 건물을 100층 이상 지을 필요는 없다는 입장을 밝혔다. 공동주택이나 오피스텔 등 주거 용도 비율도 20% 이하에서 30% 이하로 확대하고, 숙박 시설은 20% 이상에서 12% 이상으로 비율을 낮췄다. 사업자 초기 부담 해소를 위해 특수목적법인의 설립 자본금도 총 사업비 10% 이상에서 200억 이상으로 낮췄고, 공고 기간도 3개월에서 5개월로 늘렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IACQXQZB4ZDWXCNOROBD5NESR4.png"&gt;&lt;figcaption&gt;&lt;small&gt;상암 DMC 랜드마크 모습/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시 관계자는 “그동안 대폭 입찰 조건을 완화해서 시장에 내놓았지만, 경제 상황과 부동산 PF 시장이 냉각돼 이러한 결과가 나온 것으로 풀이된다”며 “업계나 전문가 의견을 수렴해 내년에 다시 용지 매각을 시도할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UX25R6HPKVGSPADRRKCAESCF54.png?width=480&amp;height=499&amp;auth=671334ef6f60b0f8fe75ab2a6651d305841c178a523f8c75ad19a1d71fae9c53&amp;smart=true" type="image/png" height="499" width="480">
+        <media:description type="plain">자료=서울시</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>합의 후 성관계 뒤 “강간 당했다”... 12번 반복한 30대 여성의 최후</title>
+      <link>https://www.chosun.com/national/incident/2024/05/28/WLWVMYQRTZD4XF7ZGFZJCWGMDU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/05/28/WLWVMYQRTZD4XF7ZGFZJCWGMDU/</guid>
+      <dc:creator>김천=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 10:15:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SZ24L5CD7OPVLUYHE3DOPC4Q2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법 김천지원 전경. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반복적으로 ‘강간·성추행 당했다’며 허위 고소를 한 30대 여성에게 징역 3년이 선고됐다. 검찰은 항소했다.&lt;br&gt;&lt;br&gt;28일 대구지검 김천지청 형사1부(부장검사 이치현)에 따르면 전날 대구지법 김천지원은 무고 혐의로 구속기소된 A(30)씨에게 징역 3년을 선고했다. A씨는 지난 2022년 10월부터 작년 11월까지 랜덤 채팅 앱 등에서 알게된 남성들과 합의 하에 성관계나 스킨십을 했음에도 강간 또는 강제추행을 당했다며 12회 가량 허위 고소를 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;검찰은 결심 공판에서 A씨에게 징역 6년을 구형했지만 법원이 징역 3년을 선고하자 ‘형이 가볍다’며 항소했다. 검찰 관계자는 “성범죄 무고는 그 자체로 피해자의 삶에 악영향을 미치고, A씨가 범행을 반성하지 않는 점 등을 고려해 항소했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>인천 송도 길거리에서 ‘칼부림’…40대 남성 등 3명 구속영장 </title>
       <link>https://www.chosun.com/national/incident/2024/05/28/2H7M7EZL55ARFGKOUJ2W4GWGJI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/05/28/2H7M7EZL55ARFGKOUJ2W4GWGJI/</guid>
@@ -729,125 +910,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KMPKCBUKOSIUL5VEF56SG3JV3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이마트 직원들이 온라인상에서 고객이 주문한 물품을 배송 바구니에 담고 있다. 기사와 무관한 사진./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 7월부터 서울 서초구에서는 대형 마트도 쿠팡이나 마켓컬리 등 온라인 쇼핑몰처럼 ‘새벽 배송’을 할 수 있게 된다. 서초구가 전국 최초로 대형 마트의 영업 시간 제한 규제를 완화하기로 하면서다.&lt;br&gt;&lt;br&gt;서초구는 대형 마트와 기업형 수퍼마켓(SSM)의 영업 제한 시간을 기존 오전 0~8시(8시간)에서 오전 2~3시(1시간)로 바꾸는 내용의 행정 예고를 했다고 27일 밝혔다. 사실상 영업 시간 규제를 풀어 아침 일찍 주문한 상품을 받아볼 수 있는 새벽 배송을 허용하는 것이다.&lt;br&gt;&lt;br&gt;서초구 안에 있는 이마트 양재점, 롯데마트 서초점, 킴스클럽 강남점, 코스트코 양재점 등 대형 마트 4곳과 롯데슈퍼 등 기업형 수퍼마켓 33곳이 이번 조치의 영향을 받는다. 서초구는 “유통업상생발전협의회 개최, 고시 공고 등 절차를 거쳐 7월 중 영업 시간 완화 조치를 시행할 것”이라고 했다.&lt;br&gt;&lt;br&gt;현행 유통산업발전법은 지방자치단체장이 매월 이틀 대형 마트의 ‘의무 휴업일’을 지정하고, 영업 시간도 오전 0~10시 사이에서 제한할 수 있게 하고 있다. 영업 시간 이외에는 온라인 배송도 금지된다. 전통 시장과 소상공인을 보호한다는 취지로 제정된 법이지만 영업 시간에 제한이 없는 온라인 쇼핑몰과 비교해 대형 마트가 과도한 규제를 받고 있다는 지적이 나왔다. 소비자 민원도 많이 제기됐다.&lt;br&gt;&lt;br&gt;앞서 지난 1월 서초구는 서울시 최초로 대형 마트의 의무 휴업일을 일요일에서 평일로 바꿨다. 서초구 관계자는 “주민 편의가 향상되고 지역 경제도 활성화될 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>포천 접착제 공장서 화재… 1명 부상</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/28/CU5QZUHLCRF63GSIY3377TCZUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/CU5QZUHLCRF63GSIY3377TCZUQ/</guid>
-      <description/>
-      <pubDate>Mon, 27 May 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PUSQIZKWVBB6XFIVOTLRTQ4BNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/경기북부소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 오전 경기 포천시 내촌면의 한 접착제 공장에서 불이 나 소방관들이 불을 끄는 모습. 불은 4시간여 만에 꺼졌지만 공장에 있던 40대 남성이 화상을 입어 병원으로 이송됐고 공장 건물 2동이 모두 탔다. 경찰은 정확한 화재 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 국가인권위원회 ‘스토킹 범죄 피해자 구제·대응 체계 실태조사 결과 발표 및 정책 토론회’ 개최 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/05/28/4WRK5KGAZ5B3FA6WRIXUR6KOS4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/05/28/4WRK5KGAZ5B3FA6WRIXUR6KOS4/</guid>
-      <description/>
-      <pubDate>Mon, 27 May 2024 15:35:00 +0000</pubDate>
-      <content:encoded>▲국가인권위원회는 28일 오후 2시 서울 중구 바비엥2교육센터에서 ‘스토킹 범죄 피해자 구제·대응 체계 실태조사 결과 발표 및 정책 토론회’를 연다. 한민경 경찰대 행정학과 교수와 윤상연 경상국립대 심리학과 교수가 참여한다.&lt;br&gt;&lt;br&gt;▲고려대학교는 29일 오후 3시 30분 고려대 백주년기념삼성관에서 토머스 사전트 박사 초청 강연을 연다. 2011년 노벨경제학상 수상자인 사전트 박사는 ‘인공지능의 근원’이라는 주제로 학생들과 이야기를 나눌 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 성황제 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/05/28/JNQ7EKMIFFHUHICGPQLDW57KZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/05/28/JNQ7EKMIFFHUHICGPQLDW57KZY/</guid>
-      <description/>
-      <pubDate>Mon, 27 May 2024 15:35:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;성황제&lt;/b&gt; 별세, &lt;b&gt;송남철&lt;/b&gt; 前 조선AD 대표·&lt;b&gt;김인태&lt;/b&gt; 한화에스테이트 소장·&lt;b&gt;이봉우&lt;/b&gt; 형진이앤씨 부사장 장인상=27일4시 충남 예산 청담장례문화원, 발인 29일9시, (041)331-7000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이금주&lt;/b&gt; 별세, &lt;b&gt;최영남&lt;/b&gt; 태전그룹 태전약품판매 부사장 모친상=25일22시 전북 전주 효자장례타운, 발인 28일8시, (063)228-4441&lt;br&gt;&lt;br&gt;▲&lt;b&gt;임정이&lt;/b&gt; 별세, &lt;b&gt;조인형&lt;/b&gt; 정승건설 대표 아내상, &lt;b&gt;조정린&lt;/b&gt; TV조선 기자·&lt;b&gt;조승한&lt;/b&gt; 모친상, &lt;b&gt;권우상&lt;/b&gt; 법무법인 유한 서울센트럴 변호사 장모상=26일21시9분 서울대병원, 발인 29일9시, (02)2072-2010&lt;br&gt;&lt;br&gt;▲&lt;b&gt;최호순&lt;/b&gt; 별세, &lt;b&gt;정출도&lt;/b&gt; 前 동아일보 여론조사부장 아내상, &lt;b&gt;정소영&lt;/b&gt; 前 전자신문 기자 모친상, &lt;b&gt;박창덕&lt;/b&gt; 박창덕법무사사무소 대표 장모상, &lt;b&gt;김혜선&lt;/b&gt; 트리니엘성동본원 부원장 시모상, &lt;b&gt;정한나&lt;/b&gt; 현대모비스 사원 조모상=26일13시27분 고려대구로병원, 발인 28일10시, (070)4710-1822&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 기획재정부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/05/28/C3EUBS2BGRGMNEANCRXR5QZVR4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/05/28/C3EUBS2BGRGMNEANCRXR5QZVR4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;b&gt;▲기획재정부&lt;/b&gt;◇과장급▷경제협력기획과장 김동진&lt;br&gt;&lt;br&gt;&lt;b&gt;▲국토교통부&lt;/b&gt;◇과장급▷청년정책총괄팀장 조은혜▷도시정비지원과장 최병길▷건축문화경관과장 소성환▷공공주택추진단 공공택지기획과장 조현준▷공공주택추진단 도심주택공급총괄과장 이경호▷해외도시개발전략지원팀장 황세은&lt;br&gt;&lt;br&gt;&lt;b&gt;▲우주항공청&lt;/b&gt;◇실장급▷우주항공임무본부장 존 리▷차장 노경원◇국장급▷기획조정관 이재형◇과장급▷대변인 박순철(직무대리)▷운영지원과장 이효희▷인사과장 엄기철▷기획재정담당관 최진혁▷행정법무담당관 전인철▷국제협력담당관 정관우▷정보화담당관 정길태▷우주항공정책과장 김기석▷우주항공산업정책과장 정혜경▷국가위성운영센터 이상연▷우주환경센터장 나현준&lt;br&gt;&lt;br&gt;▲&lt;b&gt;행정안전부&lt;/b&gt;◇과장급 전보▷국제협력담당관 천영평▷안전조직과장 홍신애&lt;br&gt;&lt;br&gt;▲&lt;b&gt;법제처&lt;/b&gt;◇서기관 전보▷법제정책국 법령정비과 남수진&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한국해양과학기술원&lt;/b&gt;▷원장 이희승&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재미있는 과학] 냄새나는 곁땀… 사춘기부터 활성화되는 땀샘서 나와요</title>
-      <link>https://www.chosun.com/national/nie/2024/05/28/FU72QLNNNFG3RKJYC7WMERPJ6U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/05/28/FU72QLNNNFG3RKJYC7WMERPJ6U/</guid>
-      <dc:creator>김형자 과학칼럼니스트, 기획·구성=오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H5LOGIZQ3BA3RLU7AX63NT23GE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=유재일&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;땀&lt;br&gt;&lt;br&gt;이제 땀이 나는 계절, 여름이 다가오고 있어요. 날씨가 덥거나 운동할 때 우리 몸에서 땀이 나지요. 그렇다고 걱정할 필요는 없어요. 땀이 나는 현상은 자연스러운 인체 반응이에요. 몸의 열을 발산시키고, 체온을 조절하고, 노폐물을 내보내는 역할을 하거든요. 오늘은 땀에 대해 알아볼게요.&lt;br&gt;&lt;br&gt;&lt;b&gt;땀이 나는 원인&lt;/b&gt;&lt;br&gt;&lt;br&gt;사람은 체온을 36.5도로 항상 일정하게 유지하는 항온동물이에요. 그래서 체온이 높아지면 이를 조절하기 위해 땀샘에서 땀을 내보내요. 땀이 피부의 열을 흡수해 증발하기 때문에 체온을 낮출 수 있거든요. 소독약을 팔에 바르면 액체인 알코올이 기체로 증발하면서 열을 빼앗아가 시원해지는 것과 같은 원리예요.&lt;br&gt;&lt;br&gt;피부 밑(진피층)에는 200만~400만개의 땀샘이 있어요. 특히 손바닥과 발바닥에 많이 분포돼 있습니다. 땀은 뇌와 자율신경에 의해 조절돼요. 체온이 37도보다 높아지면 뇌에서 이를 감지하고 땀을 내보내라는 명령을 내립니다. 그러면 자율신경계의 교감신경이 활성화돼 땀샘이 자극되고, 땀샘에 고여 있는 땀이 분비돼요. 교감신경이 비정상적으로 과도하게 활성화되면 땀이 지나치게 많이 분비되는 다한증이 생깁니다. 자율신경계에는 부교감신경이라는 것도 있는데요, 부교감신경은 교감신경과 반대로 땀을 억제하는 역할을 한대요.&lt;br&gt;&lt;br&gt;땀의 다른 기능이 하나 더 있습니다. 바로 몸속 노폐물을 내보내는 청소부 역할을 한다는 건데요. 땀샘 주변은 모세혈관이 그물처럼 둘러싸고 있어요. 모세혈관의 혈액에서 걸러진 노폐물과 물이 땀샘으로 보내져요. 이 때문에 땀을 흘리면 노폐물도 함께 몸 밖으로 나오게 됩니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;에크린샘과 아포크린샘&lt;/b&gt;&lt;br&gt;&lt;br&gt;땀이 분비되는 땀샘에는 에크린샘과 아포크린샘, 두 종류가 있어요. 에크린샘은 온몸에 분포해 있고, 체온 조절 역할을 하죠. 아기가 엄마 배에서 나올 때부터 기능을 하는 땀샘이랍니다. 사람이 평소에 흘리는 대부분의 땀은 에크린샘에서 분비되는데요. 에크린샘에서 나오는 땀은 99%가 물이에요. 그래서 끈적임이 없고 냄새가 거의 나지 않죠.&lt;br&gt;&lt;br&gt;반면 아포크린샘은 겨드랑이와 눈꺼풀, 항문 주위, 유두 등에 소량 분포해요. 이 중에서도 겨드랑이에 아포크린샘의 약 95%가 분포해 있어요. 아포크린샘은 에크린샘과 달리, 사춘기가 돼 호르몬 작용이 왕성해지면 그때부터 활성화된다고 해요. 아포크린샘에서 분비되는 땀은 지방과 단백질, 당질 등이 들어가 있어 점도가 높은 것이 특징이에요. 지방 성분이 매우 많은 기름진 땀을 분비하기 때문에 흰 옷의 겨드랑이 부분이 누렇게 변색될 수 있어요.&lt;br&gt;&lt;br&gt;아포크린샘에서 분비된 땀 자체는 냄새가 나지 않아요. 하지만 피부에 있는 세균이 아포크린샘에서 나온 땀을 분해해 지방산과 암모니아를 만들어내기 때문에 특유의 이상한 냄새가 나는 거예요. 아포크린샘은 사람이 주로 스트레스를 받는 상황에 놓였을 때 땀을 분비한답니다. 그리고 아포크린샘은 에크린샘보다 더 크다고 해요.&lt;br&gt;&lt;br&gt;&lt;b&gt;정서적 자극에 반응하는 ‘감정적 땀’&lt;/b&gt;&lt;br&gt;&lt;br&gt;우리말 중에 ‘손에 땀을 쥐게 하다’ ‘식은땀이 나다’ ‘진땀을 뺐다’ 등 땀과 관련된 말들이 있습니다. 이때 땀은 날씨가 더울 때나 운동할 때, 체온을 조절하기 위해 나는 땀을 말하는 게 아니에요. 감정적인 변화로 인해 나는 땀을 의미한답니다. 실제로 땀은 감정의 영향을 받아서 나기도 해요. 예를 들어 중요한 면접을 앞두고 있거나 사랑하는 사람에게 고백을 할 때 손이 차갑고 축축해지는 것은 땀이 정서적 자극에 반응했기 때문이에요.&lt;br&gt;&lt;br&gt;몹시 놀라거나 흥분을 하면 우리 몸의 자율신경은 긴장 상태가 됩니다. 그러면 조건반사적으로 땀을 흘리게 돼요. 이때 흘리는 땀은 긴장감을 완화시켜 주거나 스트레스를 줄여주는 효과가 있대요. 날씨나 온도, 활동량과 관계없이 흐르는 땀이라고 해서 ‘감정적 땀’이라고도 합니다.&lt;br&gt;&lt;br&gt;한편 뜨겁거나 매운 음식을 먹을 때도 땀이 나죠. 미각에 의해 교감신경이 자극되고 순간적으로 체온이 높아지는 걸 해결하려고 땀샘이 열린대요. 특히 이때는 얼굴 신경이 자극되기 때문에 코와 이마 같은 얼굴 부위에서 땀이 많이 나요.&lt;br&gt;&lt;br&gt;&lt;b&gt;축구선수는 한 경기에서 4000mL 정도 흘려&lt;/b&gt;&lt;br&gt;&lt;br&gt;땀은 99%가 물로 이뤄져 있어요. 나머지는 염화나트륨(소금)과 젖산, 포도당 등으로 구성돼요. 나머지 구성 성분 중에서는 소금이 가장 많이 들어 있고, 다른 것들은 상대적으로 적습니다. 그래서 운동을 격하게 한 후에 땀이 마르면 피부에 하얗게 소금기가 끼는 거랍니다.&lt;br&gt;&lt;br&gt;그렇다면 사람이 하루에 흘리는 땀의 양은 얼마나 될까요? 신체 활동의 정도와 계절에 따라 다르지만, 보통 하루에 500~700mL의 땀을 흘린다고 해요. 오랜 시간 더운 환경에 있거나 강도 높은 운동을 할 경우 땀을 2000~3000mL 정도 흘린다고 합니다. 축구 선수는 한 경기에서 약 4000mL의 땀을, 마라톤 선수는 완주할 때까지 약 6000mL의 땀을 흘린대요.&lt;br&gt;&lt;br&gt;과학자들의 연구에 따르면 사람이 의식을 잃지 않고 최대한 흘릴 수 있는 땀의 양은 약 10L 정도라고 해요. 하지만 지나치게 많은 땀을 흘리면 쉽게 탈수 현상이 일어날 수 있기 때문에 수분 보충에 신경 써야 합니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [철학·인문학 이야기] “세계보다 자신을 정복한 사람 적어” 로마 황제도 강조한 절제와 인내의 힘</title>
-      <link>https://www.chosun.com/national/nie/2024/05/28/DWYNB6ARLJHARORJ6XZGJOTRP4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/05/28/DWYNB6ARLJHARORJ6XZGJOTRP4/</guid>
-      <dc:creator>안광복 중동고 철학 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6UTGGPM2HZEDFBJT3FH7JRV5QY.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;라이언 홀리데이 지음 l 출판사 다산초당 l 가격 1만9800원&lt;/b&gt;&lt;br&gt;&lt;br&gt;발명왕 에디슨은 연구실에서 살다시피 했습니다. 에디슨은 “뭔가 일어날 때 당신이 연구실에 있었다면 그 일을 알아차렸다. 하지만 자리에 없었다면 그대는 찾아온 성공의 순간을 거머쥐지 못한다”고 말했죠. 성과를 내려면 반짝거리는 아이디어만큼이나 지루함을 견뎌낼 줄 아는 힘이 있어야 함을 일깨워 주는 충고입니다.&lt;br&gt;&lt;br&gt;훌륭한 삶을 살려면 절제와 인내가 중요합니다. ‘보바리 부인’을 쓴 프랑스 소설가 플로베르는 이렇게 말했다고 해요. “규칙적이고 질서 정연하게 살라. 그래야 격렬하고 독창적으로 일할 수 있다.” 운동선수는 매일 훈련합니다. 하기 싫은 날에도 근육과 마음을 한결같이 가꿔요. 그렇게 해야 경기에서 최고의 기량을 뽐낼 수 있으니까요.&lt;br&gt;&lt;br&gt;우리 일상도 이래야 하지 않을까요? 하기 싫어도 해야 할 일들이 있습니다. 적절한 운동, 건강한 식사, 건전한 취미 활동, 지식과 지혜를 넓히기 위한 공부 등등. 하지만 이것들을 꾸준히 하기가 어디 쉽던가요? 좋은 습관을 만들겠다고 결심하지만 얼마 되지 않아 스러지곤 했던 경험이 얼마나 많던지요.&lt;br&gt;&lt;br&gt;이런 경험이 있는 사람들에게 ‘절제 수업’은 깨우침을 줄 수 있는 책입니다. 지은이 라이언 홀리데이는 우리 시대의 스토아 철학자라고 할 만합니다. 스토아 철학은 로마제국 지도자들이 많이 따랐던 철학이에요. 스토아 철학자들은 금욕과 인내를 언제나 강조하지요. 저자는 이 책에서 스토아 철학의 이야기와 가르침을 거듭해서 들려줍니다. “세계를 정복한 사람보다 자신을 이겨낸 사람이 더 적다.” 로마 황제이자 스토아 학파의 철학자였던 마르쿠스 아우렐리우스의 말입니다. 아침에 일찍 일어나겠다는 결심, 다이어트를 하겠다는 자신과의 약속이 얼마나 빨리 무너졌는지 한번 생각해 보세요.&lt;br&gt;&lt;br&gt;그렇다고 좌절하거나 실망할 필요는 없어요. 저자는 이렇게 우리 마음을 달래줍니다. “재키 로빈슨조차 항상 재키 로빈슨이었던 건 아니다.” 재키 로빈슨은 인종 차별이 극심했던 1947년에 처음으로 메이저리그 야구 선수가 된 흑인이자 인권 운동가였어요. 이렇듯 위대한 사람도 한결같이 영웅 같은 모습으로 살지는 못했다는 뜻입니다. 바뀌겠다고 결심해도, 누구나 이를 어기며 스스로 무너지고, 실망하고 방황하는 과정을 계속 겪기 마련입니다.&lt;br&gt;&lt;br&gt;그래도 꾸준하게 욕망을 추스르며 절제를 통해 올곧게 살기 위한 노력을 해야 합니다. 이를 통해 우리 삶은 조금씩 나아지며 좋은 쪽으로 나아갈 수 있게 되기 때문입니다. “하루가 현명하고 도덕적인 행위로 가득하지 못하더라도 분노하거나 패배감에 빠지거나 낙심하지 말라. 실패했을 때는 다시 일어나라. 그리고 비록 불완전하지만 인간답게 행동하고 착수한 일에 전념하는 자신을 대견히 여겨라.” 앞서 소개한 마르쿠스 아우렐리우스가 한 말입니다.&lt;br&gt;&lt;br&gt;재산이 많고 지위가 높다고 해서 저절로 존경받는 사람이 되지는 못합니다. 나를 나답게, 자랑스럽게 만드는 것은 절제하고 인내하며 더 좋은 사람이 되려고 꾸준히 나아가는 과정이니까요. 절제를 실천한 수많은 이의 이야기를 읽으면서 자신의 몸과 마음을 잘 다스려 보면 어떨까요?&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [사소한 역사] 유네스코 문화유산 등재… 나폴레옹이 병사 주머니에 넣으려 긴 빵 만들었다는 얘기도</title>
-      <link>https://www.chosun.com/national/nie/2024/05/28/DAIVQLWDXBHMDMZNWJGHECXVRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/05/28/DAIVQLWDXBHMDMZNWJGHECXVRA/</guid>
-      <dc:creator>황은하 상경중 역사 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 15:30:00 +0000</pubDate>
-      <content:encoded>프랑스의 대표적인 빵은 무엇일까요? 아마 길쭉한 모양의 바게트가 떠오를 것입니다. 미식의 나라로 유명한 프랑스에서 바게트는 우리의 쌀밥과 같은 주식으로 여겨지고 있어요. 프랑스에서는 연간 약 60억개의 바게트가 생산된다고 해요. 이처럼 꾸준한 사랑을 받는 바게트가 최근에는 우표의 주인공이 됐어요. 우표에는 프랑스 국기 색깔의 리본으로 묶인 바게트 그림이 그려져 있고, 손으로 문지르면 갓 구운 빵 냄새가 나는 것이 특징이라고 합니다. 우표에 바게트를 그려 넣을 만큼 프랑스인들의 바게트 사랑이 굉장한 것 같습니다. 바게트는 어떤 역사를 갖고 있을까요?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TE27VYT6WZAKHPRC623F2HZXUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제빵사가 갓 구운 바게트를 들고 있는 모습. /로이터 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프랑스 정부는 1993년 법을 만들어 바게트 품질을 관리하고 있어요. 법에 따르면 프랑스 전통 바게트는 밀가루, 물, 효모, 소금 등 네 재료만으로 만들어야 해요. 바게트의 겉면은 딱딱하다고 느껴질 정도로 바삭하지만 속은 굉장히 폭신하고 부드러워요. 바게트는 사선으로 썰어 수프에 찍어 먹거나, 샌드위치를 만들어 먹기도 하죠. 프랑스 정부는 바게트 제조법과 문화를 2018년에 국가 무형문화재로 등록했고, 2022년에는 유네스코 인류무형문화유산 등재에 성공했답니다.&lt;br&gt;&lt;br&gt;바게트의 기원에 대해서는 여러 추측이 있습니다. 먼저 행군하는 병사들이 바지 주머니에 빵을 넣고 걷기 편하도록 나폴레옹이 길쭉한 모양의 빵을 고안했는데, 이것이 바게트의 기원이라는 주장이 있어요. 또 1920년 제빵업자들이 밤 10시부터 새벽 4시까지 일을 못 하게 되면서 바게트가 만들어졌다는 이야기도 있습니다. 제빵사들은 사람들이 아침 식사할 때에 맞춰 빵을 구워내려고 밤샘 근무를 했었어요. 하지만 밤샘 근무를 할 수 없게 되자, 기존에 팔던 커다랗고 둥근 모양의 빵을 만들 수가 없었죠. 이 빵을 속까지 익히려면 새벽 4시 이전부터 일해야 했기 때문이죠. 그래서 제빵사들이 빵 굽는 시간을 단축하고자 빵의 모양을 가늘고 길게 만들었고, 이렇게 만든 빵이 막대기라는 뜻의 바게트로 불리게 됐다는 설명도 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GHZRZAYLDFBD7PG6PUXR2Y4JJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손으로 문지르면 빵냄새가 나는 바게트 우표예요. /라포스트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;베트남에도 바게트와 비슷한 모양의 빵이 있어요. 베트남에서 만들어 먹는 바게트 빵으로, ‘반미’라고 불려요. 주로 샌드위치를 만들어 먹을 때 쓰여요. 반미는 프랑스가 베트남을 식민 지배하던 시기에 프랑스 식문화의 영향을 받아 생긴 것으로 추정돼요. 베트남에서는 쌀이 주로 생산되기에, 베트남식 바게트는 밀가루와 쌀가루를 혼합해 만들어요. 반미는 베트남이 프랑스 식민지였던 시절을 상징하는 음식이지만, 현재는 베트남 사람들의 든든한 아침 식사이자 간식으로 사랑받고 있답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 5월 28일</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/28/52TYNYNA3BBXPEUMX6IJ66F6GI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/52TYNYNA3BBXPEUMX6IJ66F6GI/</guid>
-      <description>전국 대체로 맑음</description>
-      <pubDate>Mon, 27 May 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N57CSZ2CMBCQNCA2VFZLD77AWE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[기자의 시각] 지역에 남지 않는 ‘지역 인재 의사’</title>
-      <link>https://www.chosun.com/opinion/journalist_view/2024/05/28/P62CGM7HC5ECBCKH7OXAMYC7KM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/opinion/journalist_view/2024/05/28/P62CGM7HC5ECBCKH7OXAMYC7KM/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 15:04:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YAQVJXHFFKCMKLPOPBSP2KW4ZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주대 의대 학생들이 27일 오전 부결된 의대 증원 학칙 개정안을 재심의하는 교수평의회가 열리는 대학 본관 회의실 앞에서 증원에 반대하는 내용의 피켓을 들고 서 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 치르는 2025학년도 입시에선 전국 의대 정원이 3058명에서 4567명으로 약 1.5배로 늘어난다. 특히 비수도권 대학에선 해당 지역 출신 학생들을 선발하는 ‘지역 인재’ 전형으로만 2000명가량을 뽑는다. 이는 작년 선발 인원의 두 배. 의대 입학 티켓 한 장을 차지하기 위해 ‘초등 의대반’까지 보내는 한국에서, 천 명 단위로 의대 정원이 늘어나는 것은 최근 몇 년 동안의 입시 정책 중 가장 파격적인 변화다.&lt;br&gt;&lt;br&gt;지역 인재 전형이 큰 폭으로 늘어난 것은 만성적으로 의사가 부족한 지방의 의료 인력 확충을 위해서다. 해당 지역에서 나고 자란 학생이 졸업 후 지역에 남을 확률이 높다는 믿음에 근거한다. 실제 대한의사협회 자료에 따르면 지방에서 자란 의사의 절반 정도가 지방 병원에서 근무한다. 반면 수도권 출신 의사가 지방에서 일하는 경우는 10% 수준에 불과했다. 졸업과 동시에 수도권으로 돌아갈 학생보다, 성적이 조금 낮더라도 지역에 남을 사람을 뽑겠다는 것이 지역 인재 확대의 목적이다.&lt;br&gt;&lt;br&gt;지역 인재를 늘리는 것은 분명 지방 의료 환경에 도움이 될 것이다. 그러나 ‘수도권 쏠림’이라는 보다 근본적인 원인에 대한 대책 없이는 효과가 제한적일 수밖에 없다. 제2의 도시 부산에서도 의대 졸업생 3명 중 1명이 부산을 떠나 수도권 병원으로 간다. 부산 병원의 시설이 열악하거나, 취업할 곳이 없어서가 아니다. 한 부산대 의대생은 “수도권에서처럼 문화 생활을 할 수 없고, 이성을 만나기도 힘들어서”라고 말했다. 이미 많은 지역 인재들이 졸업도 전에 수도권으로 간다. 재작년에만 지방 소재 의대에서 약 140명이 자퇴를 했다. 대부분 수도권 의대로 ‘반수’를 노리는 학생들이다.&lt;br&gt;&lt;br&gt;일부 대학은 이번 증원 과정에서 한 발 더 나가 ‘지역의사제’를 주장하기도 했다. 장학금 혜택을 주고 졸업 후 몇 년 동안은 지역에 남아 근무하게 하는 방식이다. 하지만 이 역시 근본적인 해결책은 되지 못한다. 오히려 지방에 남는 의료진들을 ‘서울로 가지 못한 의사’로 낙인찍는 부작용도 생길 수 있다. 한 경남 지역 의사는 충분히 지역 병원에서 치료할 수 있는 병인데도 무작정 KTX를 타고 서울의 ‘빅5′로 향하는 환자들을 보며 박탈감을 느낀다고 했다. 이런 상황에서 지역 인재 숫자만을 늘리는 것은 밑 빠진 독에 더 많은 물을 부어 문제를 해결하겠다는 것과 다름없다.&lt;br&gt;&lt;br&gt;2009년 로스쿨 도입 후 변호사는 크게 늘어났지만 아직도 전국 곳곳엔 무변촌(無辯村)이 남아있다. 마찬가지로 지방에 의사가 부족한 것은 의료계의 문제가 아니라 수도권에 모든 것이 집중된 국가 차원의 문제다. 의사 뿐 아니라 우수 인재들이 지역에 정주할 수 있는 방안이 함께 마련되어야 한다. ‘국토 균형 발전’ 대책이 먼저였다면, 어쩌면 이토록 큰 진통을 겪어가며 의대 증원을 추진하지 않았어도 될지 모른다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/IZUTBSHYGBEBVLK6TU77V5XOJU.png?width=500&amp;height=500&amp;auth=041d77f8c976384f33bcbe37ce93bce3f1a07d6fc4d255efca4be960ef9e7e44&amp;smart=true" type="image/png" height="500" width="500"/>
-    </item>
-    <item>
-      <title>‘96년생’ 세븐틴 호시, 50억원 아파트 매수…유재석과 이웃사촌</title>
-      <link>https://www.chosun.com/national/people/2024/05/27/4KT2GJSM5ZAGFD6XWX7T3U6TK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/05/27/4KT2GJSM5ZAGFD6XWX7T3U6TK4/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 14:38:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/44DW25W5MBKZPA6YDSRKPZITX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세븐틴 호시(27)./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 ‘세븐틴’ 호시(27)가 50억원대 논현동 고급 아파트를 매수하면서 방송인 유재석(51)과 이웃 사촌이 됐다.&lt;br&gt;&lt;br&gt;27일 대법원 등기부등본에 따르면 호시는 작년 7월 서울 강남구 논현동 소재 브라이튼N40 전용 149㎡(45.07평) 1가구를 50억8600만원에 매입했다. 근저당권이 설정되지 않아 전액 현금으로 사들인 것으로 추정된다. 1996년생인 그는 브라이튼N40 시행사로부터 소유권 이전이 완료된 가구 소유주 중 최연소로 파악됐다.&lt;br&gt;&lt;br&gt;이곳은 140가구과 펜트하우스 8가구로 이뤄져 있다. 삼중 보안 시스템으로 사생활 보호가 가능하고, 단지 정문 앞에 GIA 국제학교와 유명 사립 초등학교가 있어 교육환경이 좋은 편인 것으로 알려져 있다. 또한 건물에 집사가 상주하며 방 청소, 세탁, 비즈니스 지원, 여행 예약, 홈 스타일링 등 맞춤형 호텔 서비스를 제공한다. 건축과 조경 디자인은 프랑스 출신의 세계적인 건축가 장 미셸 빌모트가 맡았다.&lt;br&gt;&lt;br&gt;해당 아파트는 유재석이 작년 9월 전용 199㎡(60.2평) 펜트하우스를 86억6570만원에 매수한 것으로 알려진 유명 신축 아파트다. 배우 한효주, 오연서, 방송인 이휘재, 그룹 ‘인피니트’ 멤버 겸 배우 엘(김명수) 등이 보유하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편, 호시는 2015년 13인조 그룹 세븐틴으로 데뷔했다. 세븐틴은 ‘손오공’ ‘레프트 &amp;amp; 라이트’(Left &amp;amp; Right) ‘박수’ ‘아주 NICE’ ‘울고 싶지 않아’ 의 히트곡을 갖고 있으며, 지난달 베스트 앨범 ‘세븐틴 이즈 라이트 히어’(17 IS RIGHT HERE)를 발매했다. 전날엔 일본 최대 규모 공연장인 닛산 스타디움에서 단돈 콘서트를 마쳤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한국계 첫 美화폐 인물 부모 “딸, 하늘서 기뻐할 것”</title>
-      <link>https://www.chosun.com/international/2024/04/20/CQBC52U4X5HYHAXVRT7MOYQ7ZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/international/2024/04/20/CQBC52U4X5HYHAXVRT7MOYQ7ZI/</guid>
-      <dc:creator>정지섭 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Apr 2024 18:00:00 +0000</pubDate>
-      <content:encoded>미국의 25센트(쿼터달러) 동전은 주차장·자동판매기·패스트푸드점 등 일상에서 가장 널리 쓰인다. 내년부터 한국계 미국인 장애인 인권 운동가 스테이시 박 밀번(1987~2020·한국 이름 박지혜)의 얼굴이 새겨진 25센트 동전을 볼 수 있게 된다. 미 연방 조폐국이 미국 사회에 공헌한 여성 20명을 선정해 2022~2025년 발행되는 25센트 뒷면(앞면은 조지 워싱턴 초대 대통령)에 얼굴을 새겨 넣어 기리는 ‘아메리칸 위민(American Women&lt;b&gt;·&lt;/b&gt;미 여성) 쿼터 프로그램’의 헌정 대상자로 지난해 선정됐기 때문이다. 미국 화폐에 한국계 인물이 등장하는 최초의 사례다. 밀번의 얼굴이 새겨진 동전은 총 5억개 이상 발행이 예정돼 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7RAO5XDILVCPTJ2H7H3L7YZ36M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;활짝 웃고 있는 스테이시 박 밀번. 부모는 "배려와 따뜻한 마음으로 모두를 행복하게 해주는 아이였다"고 회고했다.
-/스테이시 박 밀번 부모 제공. &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;밀번은 주한미군 아버지와 한국인 어머니 사이에 서울에서 태어났다. 지체장애를 앓으면서도 장애인 인권 운동에 앞장서다가 2020년 5월 신장 수술 합병증으로 서른셋에 세상을 떴다. ‘아메리칸 위민 쿼터 프로그램’ 선정 인물들이 대부분 19~20세기에 활동하며 세계적 명성을 쌓은 인물들이라는 점에서 밀번의 존재는 더욱 주목받고 있다. 장애인의 날(20일)을 이틀 앞둔 18일 미 노스캐롤라이나주(州) 페이에트빌에서 본지와 전화로 인터뷰한 어머니(진 밀번)와 아버지(조엘 밀번)는 “내년에 동전이 나오면 딸아이를 기억하는 가족·친구들에게 쥐여주고 싶다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SUZCCBJU7FCMNDZYCBKTARGIEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스테이시 박 밀번이 세상을 떠나기 1년전인 2019년 교회에서 세례식을 받고 난 후 찍은 사진.
-/스테이시 박 밀번 부모 제공 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어머니 진씨는 2년 전 연방 조폐국에서 연락받던 순간을 또렷이 기억한다고 했다. “25센트 동전 뒷면에 새길 여성 인물 후보로 (딸을) 추천했는데 동의해줄 수 있겠느냐는 거예요. 처음엔 ‘가짜 뉴스’인 줄 알았습니다.” 부부는 1년 반 정도 이어진 추천·심의·선정 결과를 차분히 기다리면서 딸과 함께한 33년을 돌아봤다. 1987년 5월 용산 기지 내 121 미군 병원에서 태아가 거꾸로 들어서 있다고 해 제왕절개로 얻은 첫딸이었다. 태어난 후 팔다리에 유난히 힘이 없던 아기가 근육 퇴행성 질환을 앓고 있다는 의사의 말을 들었다. 이후 진씨는 18년 동안 딸을 자전거나 휠체어에 태워 통학시켰다.&lt;br&gt;&lt;br&gt;진씨는 “힘들었지만 아이의 미소를 볼 때마다 기운이 솟아났다”고 했다. “햇살처럼 밝은 아이였어요. 말투에는 친절함과 배려가 있어 주변의 모두를 미소 짓게 했죠. 제 아빠를 닮아서 자기 생각을 조리 있게 말했죠. 글로 생각을 풀어 쓰는 솜씨는 또 얼마나 뛰어난데요. 인권 운동을 안 했으면 워싱턴 DC로 가서 정치인이 됐을 거예요.” 부모는 아이가 혹시라도 남들과 다른 처지에 주눅 들까 염려해 늘 성경 구절을 인용한 말로 용기를 북돋워줬다. “하나님께서 너를 만들어 엄마 배 속을 통해 세상에 보내주신 건 뜻하신 바가 있어서란다. 이 얼마나 놀랍고 신비한 일이니.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXI4JTG2JFEQPAZXJQLFZ2QKTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미국 수도 워싱턴DC에서 열린 장애인 인권 집회에 참석해서 연설하고 있는 스테이시 박 밀번.
-/스테이시 박 밀번 부모 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초등학생 때 학교에서 겪은 낙상 사고를 계기로 ‘장애인이 일상에서 겪는 불편함’의 문제에 눈뜬 밀번은 문제 의식을 담은 블로그 글을 쓰고 인터뷰를 하면서 청소년 장애인 인권 운동가로 지역사회의 주목을 받았다. 부모가 거주하는 노스캐롤라이나에서 대학을 마치고 4500㎞ 떨어진 캘리포니아주 샌프란시스코로 가서 장애인 인권 운동가로 활동했다.&lt;br&gt;&lt;br&gt;아버지 조엘씨는 “딸아이는 장애인들에게 ‘아무도 우리를 구해주러 오지 않는다’며 스스로 권익을 찾자고 독려했다”며 2019년 샌타크루즈 캘리포니아대에서 장애 학생들을 상대로 한 강연의 한 토막을 들려줬다. “우리의 지금 모습을 부끄러워할 이유가 없습니다. 있는 그대로의 우리 모습이니까요. (모습이 이렇다 해서) 우리가 성장할 수 없거나, 미래를 더 좋은 방향으로 바꿀 수 없다는 걸 뜻하진 않습니다. 우리는 사랑받아 마땅한 아름다운 인간이니까요.” 밀번은 미국 젊은이인 동시에 한국 젊은이였다. 1990년 걸프전이 발발한 이라크로 아버지가 급파되자 육아를 도우러 한국에서 건너온 외할머니와 가깝게 지냈다. (할머니는 이후 한국에 돌아가지 않고 미국에 머물렀다.) 덕분에 한국말도 곧잘 하고 호박을 숭숭 썰어 넣어 걸쭉하게 끓인 수제비에 환호하는 ‘된장 입맛’이었다. 캘리포니아에서 인권 운동을 할 때는 한인 입양 청년들을 집으로 불러 명절 음식을 먹이며 각별히 돌봤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C2OJI6RLBJEK5AWGY7IPMHCHWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내년 발행될예정인 25센트 동전의 시안.
-/미 연방 조폐국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2020년 코로나가 전 세계에 확산하고 미 전역이 봉쇄되자 밀번은 응급 의료에서 소외된 중증 장애인과 저소득층을 돌보기 위한 긴급 대응팀을 꾸려 활동했다. 하지만 지병인 신장 질환 수술 합병증으로 몸 상태가 급속히 나빠지면서 33살 생일이던 그해 5월 19일 세상을 떠났다. 밀번의 장례식 책자 표지에는 장애인 인권 운동을 함께 하는 동료들을 향해 하던 말이 인쇄됐다. “우리는 있는 모습 이대로 강하고 아름답습니다.” 외손녀에게 수제비를 끓여주던 외할머니도 그해 7월 눈을 감았다. 둘은 밀번 부부의 집 부근에 나란히 잠들어 있다.&lt;br&gt;&lt;br&gt;밀번은 고향 한국을 사랑해 생전에도 여러 차례 다녀갔다. 장애인 기반시설이 제대로 갖춰지지 않은 점을 늘 안타깝게 여겼다 한다. 지난해 11월 연방 조폐국이 스테이시 얼굴을 새긴 25센트 동전 발행을 공식 발표했을 때 부부는 마침 서울에 있었다. “예전에 비해 휠체어를 타고 자연스럽게 지하철을 이용하는 승객이 많았고, 몸이 불편한 분들을 위한 여러 시설들이 많이 생겼더라고요. 우리 딸이 하늘에서 이걸 보면 참 좋아하겠구나 싶었습니다.”&lt;br&gt;&lt;br&gt;🌎조선일보 국제부가 픽한 글로벌 이슈! 뉴스레터 구독하기 ☞ &lt;a href="https://page.stibee.com/subscriptions/275739" target="_blank"&gt;https://page.stibee.com/subscriptions/275739&lt;/a&gt;&lt;br&gt;&lt;br&gt;🌎국제퀴즈 풀고 선물도 받으세요! ☞ &lt;a href="https://www.chosun.com/members-event/?mec=n_quiz" target="_blank"&gt;https://www.chosun.com/members-event/?mec=n_quiz&lt;/a&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/QR4RCEV4CBG5PFELGXJSXN2R7Q.jpg?width=4800&amp;height=2700&amp;auth=4c2ed4520a4d062834c4499caa6b18673c49e9dbd56da3ded74bc09ff1cac1aa&amp;smart=true" type="image/jpeg" height="2700" width="4800"/>
-    </item>
-    <item>
-      <title>“○○년 임관 여성 중대장”…사망 훈련병 지휘관 신상 정보 확산</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/27/ZXDBAWMFWJFVFL5QFSB3XSE56A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/27/ZXDBAWMFWJFVFL5QFSB3XSE56A/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 12:07:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZW26ZYGSRJLMHDUB3Y6YS4U4WY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 강원 인제군의 모 부대 위병소 위로 먹구름이 드리워 있다. 이 부대에서는 최근 훈련병이 군기 훈련을 받다가 쓰러진 뒤 이틀 만에 숨진 사건이 발생했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 군기 훈련 중 사망한 육군 훈련병의 지휘관에 대해 확인되지 않은 신상 정보가 온라인에 퍼지고 있다. 특히 여성 지휘관이라는 주장이 나오면서 성별을 둘러싼 논란으로 번지는 모습이다.&lt;br&gt;&lt;br&gt;27일 온라인 커뮤니티에선 군기훈련 중 사망한 훈련병 사건과 관련해 지휘관에 대한 확인되지 않은 주장과 신상정보가 유포되고 있다. 해당 지휘관의 구체적인 소속과 이름 초성이 유튜브 관련 뉴스 영상의 댓글을 통해 확산됐다. 이어 이 지휘관의 실명·성별과 함께 나이 및 학번, 출신 대학·학과, 임관 연도, 해당 지휘관이 찍힌 사진 등도 커뮤니티에서 확산되고 있다.&lt;br&gt;&lt;br&gt;한 온라인 커뮤니티 이용자는 관련 게시글에 댓글로 “OO학번 여군이고, OO년에 임관했다”고 적었다. 다른 커뮤니티의 한 이용자는 “(지휘관이) 여중대장이 맞고 평소에 다른 기수 훈련병도 2시간씩 군장 돌렸다더라”고 주장했다.&lt;br&gt;&lt;br&gt;해당 지휘관이 여성이라는 주장이 나오면서 일부 네티즌은 성별을 문제 삼는 반응을 보였다. “병사보다 체력이 안 되는 여군이 무슨 근거로 사병을 지휘하냐” “여군이 완전군장은 해봤겠나. 얼마나 힘든지도 모르는 상태에서 말도 안 되는 지시를 내린 거 아닌가” “남자 장교면 이런 일이 없었을 것” “여자 간호사들 ‘태움’과 비슷한 느낌 아닌가. 적당히 얼차려 준다는 개념이 없다” “왜 무리한 지시를 내린 간부 성별은 공개 안 하는 건가” 등의 반응이 나왔다.&lt;br&gt;&lt;br&gt;그러나 지휘관의 성별이 본질적인 문제가 아니라는 목소리도 높았다. “규정을 잘 지키면 발생하지 않았을 문제. 간부 성별은 상관 없다” “여군이라고 물타기 하면 안 된다. 남자 군인이 지휘관이었어도 엄격하게 처벌해야 한다” “성별의 문제가 아니라 간부 교육과정에서 규정을 제대로 못 가르친 군대 조직 자체의 문제” “이 사건이 여군 무용론으로 흘러가면 안 된다” 등의 의견이었다.&lt;br&gt;&lt;br&gt;육군에 따르면 지난 23일 오후 5시 20분쯤 강원도 인제에 있는 육군 12사단 군기교육대에서 군기 훈련 중에 훈련병 한 명이 쓰러졌다. 이 훈련병은 민간 병원으로 후송돼 치료받았지만 25일 숨졌다. 육군은 훈련병이 사망한 지 만 하루가 지난 26일 밤 이를 외부에 공개했다. 이 훈련병은 당시 부대 지휘관의 지시로 다른 훈련병 5명과 함께 군기 훈련을 받다가 갑자기 심장마비 증세를 호소한 것으로 알려졌다. 해당 훈련병이 기저 질환을 가지고 있었는지는 확인되지 않았다.&lt;br&gt;&lt;br&gt;본지 취재에 따르면 사망한 훈련병은 간부 지시에 따라 완전군장한 상태로 연병장을 구보(달리기)로 돌았고 완전군장 차림으로 팔굽혀펴기도 했다고 한다. 군기훈련 규정에 따르면 수십㎏에 달하는 완전군장 상태에서는 걷기만 시키도록 하고 있는데 이를 위반한 것이다.&lt;br&gt;&lt;br&gt;육군은 사망한 훈련병이 군기훈련을 받은 이유에 대해 밝히지 않았다. 그러나 군인권센터는 이날 “제보에 따르면 (사망한 훈련병을 포함해) 훈련병 6명이 밤에 떠들었다는 이유로 얼차려를 받았다”고 주장했다. 군인권센터는 사망 훈련병이 ‘몸이 안 좋다’고 호소했는데 이를 묵살했다는 제보도 받았다고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘문나이트’의 아버지, 만화가 돈 펄린 별세</title>
-      <link>https://www.chosun.com/national/people/2024/05/27/Z2CSEEXVSFAVLLEYRS6AZWZTUE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/05/27/Z2CSEEXVSFAVLLEYRS6AZWZTUE/</guid>
-      <dc:creator>김광진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 12:59:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEZCOXUU3RGWFEZQSN5DQEVJ34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;돈 펄린(왼쪽), 문나이트 중 한 장면./마블데이터베이스·마블스튜디오&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;드라마 시리즈와 영화로도 만들어진 마블 만화 ‘문나이트’(1975)와 ‘블러드샷’(1992)을 쓴 베테랑 만화가 돈 펄린이 94세의 나이로 별세했다. 미국 뉴욕타임스(NYT)는 26일(현지 시각) 펄린이 미국 플로리다주 잭슨빌에 있는 한 요양원에서 지난 14일 사망했다고 전했다.&lt;br&gt;&lt;br&gt;펄린은 1940년대부터 업계에서 일하기 시작했으나 오랜 기간 무명으로 지내다, 1970년대 들어서야 본격적으로 이름을 알렸다. 그의 작품 중 가장 유명한 ‘문나이트’는 초자연적인 빌런들을 처리하기 위해 은색 무기로 무장한 용병 문나이트의 이야기다. 이 70년대 히어로는 2022년 3월 미국 디즈니+에서 6부작 시리즈로 만들어져 대중에게 다시 이름을 알렸다. ‘블러드샷’에는 나노기술로 신체 능력을 향상시켜 놀라운 치유력과 파워를 가진 수퍼 히어로가 등장한다. 이 작품도 2020년 빈 디젤이 주연을 맡은 영화로 재탄생되기도 했다.&lt;br&gt;&lt;br&gt;1929년 8월 27일 미국 브루클린에서 태어난 벌린은 직물 디자이너인 아버지 밑에서 자랐다. 14세 때 타잔(Tarzan) 신문에 삽화를 그린 번 호가스가 가르치는 미술 수업에 관심을 보였고, 호가스 집에 찾아가 배우면서 만화의 기초를 다지기 시작했다. 만화 팬 잡지인 ‘알터에고(Alter Ego)’에 게재된 2022년 인터뷰에서 그는 “그때 내가 틈새시장을 찾았다는 것을 깨달았다”고 회상하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>은행이 ‘무더위 쉼터’로...눈치 보지 말고 쉬세요</title>
       <link>https://www.chosun.com/national/national_general/2024/05/27/ZO2FUFSPUJGDBJMYRLS2SRJBLE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/27/ZO2FUFSPUJGDBJMYRLS2SRJBLE/</guid>
@@ -855,63 +917,6 @@
       <description/>
       <pubDate>Mon, 27 May 2024 12:47:27 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KNJHXTI52VMPK456ZORPZ7OVDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신한은행 시청점 입구에 기후동행쉼터 안내 현판을 붙이는 모습./서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 시내 신한은행 전 지점이 폭염과 한파를 피할 수 있는 시민 쉼터로 개방된다. 올여름 무더위에 지친 시민 누구나 지점에 들러 쉬었다 갈 수 있게 된다.&lt;br&gt;&lt;br&gt;서울시는 27일 신한은행과 업무협약을 체결하고 서울 시내 신한은행 지점 총 197곳을 폭염·한파 시민 쉼터로 개방하기로 했다고 밝혔다.&lt;br&gt;&lt;br&gt;은행 지점은 냉난방 시설을 잘 갖추고 있어 폭염이나 한파 때 찾는 시민들이 종종 있었는데 이제 눈치 보지 않고 쉬다 나올 수 있도록 공식 개방하는 것이다.&lt;br&gt;&lt;br&gt;이를 위해 지점마다 입구에 ‘기후동행쉼터’라고 쓴 현판을 단다. 신한은행은 지점 직원들을 대상으로 시민 응대 교육을 하기로 했다. 개방하는 신한은행 지점의 위치는 서울안전누리 홈페이지에서 확인할 수 있다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “은행 지점은 쾌적하고 찾아가기도 좋다”며 “노인과 장애인 등 폭염이나 한파에 취약한 시민 누구나 편하게 이용할 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 지난 2월부터 서울시는 편의점을 폭염·한파 쉼터로 개방하는 ‘기후동행쉼터’ 사업을 하고 있다. 무덥거나 추운 날 노인·장애인 등이 잠시 쉬어갈 수 있도록 길거리의 민간 영업점을 개방해 이른바 ‘기후 안전망’을 갖추자는 취지다. 1차적으로 서울에 있는 CU와 GS25 편의점 총 41곳을 쉼터로 개방했고 5월 말까지 58곳으로 확대할 계획이다. 이번에 신한은행이 동참하면서 서울 시내 기후동행쉼터는 255개로 늘어나게 된다.&lt;br&gt;&lt;br&gt;서울시는 “은행과 편의점 외에도 카페 등 다양한 영업점으로 기후동행쉼터를 확대해 나갈 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“성범죄 만족했습니다” 부적절한 로펌 광고에 변협 철퇴</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/26/4FGRCOJHFBCO3AL6B2X7P3NONM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/26/4FGRCOJHFBCO3AL6B2X7P3NONM/</guid>
-      <dc:creator>허욱 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 May 2024 14:05:39 +0000</pubDate>
-      <content:encoded>대한변호사협회가 성범죄 사건 수임을 목적으로 온라인 카페 등에서 저속한 제목의 광고글을 다수 게시하거나 특정 범죄 전문 로펌인 것처럼 광고한 법무법인에 대한 징계 절차를 밟고 있는 것으로 26일 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2JCVAM6AGUFWTA2YMD46H24YDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대한변호사협회 회관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 변협은 지난 1월 징계조사위원회에 회부된 A법무법인에 대해 다음달 중 최종 징계 수위를 확정할 방침이다. A법무법인은 온라인 카페에서 자극적인 제목의 광고글을 올린 것으로 변협은 파악하고 있다.&lt;br&gt;&lt;br&gt;문제가 된 게시글은 ‘△△△(동네명) 성범죄 만족했습니다’ ‘○○○(동네명) 장애인 성범죄 만족스런 의뢰였습니다’ 등 제목으로 온라인 카페에 올라와 있다. 게시글에는 A법무법인 관련 동영상이나 A법무법인의 광고 목적으로 작성했다는 제작물만 나온다. 해당 법무법인의 온라인 노출 빈도를 높이기 위해 선정적인 문구를 활용한 것이다.&lt;br&gt;&lt;br&gt;A법무법인의 광고글에 대해 변협은 변호사의 품위유지의무 규정 위반 가능성이 있다고 판단한 것으로 전해졌다. 변호사법에선 변호사의 품위를 훼손할 우려가 있는 광고도 금지하고 있다. 한 법조인은 “법률시장에서 사건 수임 경쟁이 치열한 상황을 고려하더라도 이런 광고글까지 게시한다는 건 같은 법조인으로서 납득하기 힘든 일”이라고 했다.&lt;br&gt;&lt;br&gt;변호사는 전문분야 등록을 한 경우에만 특정분야 ‘전문’ 변호사로 소개가 가능하다. 변협은 이 법조경력 3년 이상인 변호사가 일정 시간 이상의 관련 분야 교육을 이수하고 분야별로 요구되는 숫자 이상의 사건을 수임한 변호사가 등록을 신청하면 등록증서를 발급하고 있다.&lt;br&gt;&lt;br&gt;변협은 홍보 목적으로 법무법인 도메인을 ‘XX범죄로펌’으로 등록하고, 온라인과 지하철 광고판 등에 광고한 B법무법인에 대한 징계 절차에도 돌입했다. 법무법인은 특정분야 ‘전문’이라는 표현을 아예 사용할 수 없는데, B법무법인이 사실상 비슷한 광고를 했다는 것이다. 변협 관계자는 “해당 법무법인이 금지 규정을 우회해서 소비자를 현혹하는 광고를 한 것으로 보인다”고 했다. 변협은 지난달에도 C법무법인에 특정분야 ‘전문’ 표시와 과장 광고를 했다고 보고 과태료 300만원을 부과했다.&lt;br&gt;&lt;br&gt;업계에서는 변호사 과장 광고 등에 대한 제재 수위가 높아져야 한다는 목소리도 나오고 있다. 징계 수위가 높지 않아 사건 수임 경쟁을 위한 과도한 광고가 끊이지 않는다는 것이다. 한 법조인은 “변호사나 법무법인의 과장·허위 광고에 따른 피해는 법률 소비자가 고스란히 떠안게 되는 것”이라고 했다. 법원은 작년 과장 광고를 했다가 변협의 징계를 받은 한 변호사가 낸 징계 취소 소송에서 변호사 직무의 공공성 등을 이유로 과장 광고를 제재할 필요가 크다는 취지로 판결한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“이재명, 검사 사칭 누명 썼다는 주장은 거짓말” 前 KBS PD 법정 진술</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/27/USG5S5I7UFE43DR76XYHYXC66Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/27/USG5S5I7UFE43DR76XYHYXC66Q/</guid>
-      <dc:creator>허욱 기자, 수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 11:39:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5QZTSYACFNZDXA4YSSHKS42ITE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 27일 오후 서울 서초구 서울중앙지방법원에서 열린 위증교사 관련 공판에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표 ‘위증 교사’ 사건의 발단이 된 ‘검사 사칭’ 사건을 이 대표와 공모한 최철호 전 KBS PD가 “누명을 썼다”는 이 대표 주장에 대해 “명백한 거짓말”이라고 했다. 최씨는 2002년 변호사이던 이 대표와 함께 ‘분당 백궁 파크뷰 의혹’을 취재하면서 김병량 당시 성남시장에게 전화를 걸어 검사라고 속여 취재했던 인물이다. 두 사람은 당시 공무원 사칭 혐의로 구속된 뒤 재판에 넘겨져 이 대표는 벌금 150만원을, 최씨는 선고유예를 각각 확정받았다.&lt;br&gt;&lt;br&gt;27일 서울중앙지법에서 열린 이 대표의 위증 교사 사건 재판에 증인으로 나온 최씨는 검사 사칭 사건 당시 이 대표 측이 “최씨가 고소 취하를 약속받고 나를 주범으로 몰고 가기로 했다”고 주장한 데 대해 “(당시) 변호사가 저런 거짓말을 지어낼 수 있다는 게 대단히 경악스러웠다”고 했다. 그러면서 “당시 나와 이재명 둘만 있었던 게 아니라 카메라맨, 오디오맨도 있었다. (검찰이) 그들에게도 별도의 진술서를 받았다는 걸 알게 돼 계속 거짓말을 할 수 없었다”고 혐의를 인정한 이유를 설명했다. 이때 이 대표는 고개를 들어 최씨를 빤히 쳐다봤다.&lt;br&gt;&lt;br&gt;최씨는 또 검찰이 검사 사칭 녹음테이프와 관련해 “제작에 관여한 바 없고, 경위를 알지 못한다. 나는 제보받아 발표만 했다”는 식의 이 대표 진술서를 보여주자 “제1야당 대표가 저런 식으로 허위 발언하는 것 자체가 충격”이라고 했다.&lt;br&gt;&lt;br&gt;이 대표는 2018년 경기도지사에 출마하며 방송 토론회에서 “PD가 사칭하는데 옆에 있다가 누명을 썼다”고 했다가 허위 사실 공표 혐의로 또 기소됐다. 이 사건 재판 과정에서 김 전 시장의 비서였던 김진성씨에게 거짓 증언을 요청한 사실이 뒤늦게 드러나 이번에 다시 재판을 받고 있는 것이다. 김진성씨도 위증 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;김진성씨는 법정에서 이미 혐의를 시인했고, 이 대표와의 통화 녹취록 등도 증거로 제출했다. 이 대표가 “최씨와 김 시장이 이재명을 검사 사칭 주범으로 몰고 가자는 합의를 했다”는 취지의 증언을 해달라고 부탁했다는 것이다. 그러나 이 대표는 “사실대로 말해 달라고 한 것뿐”이라고 혐의를 부인하고 있다.&lt;br&gt;&lt;br&gt;한편 이날 수원지법에서는 이 대표 아내 김혜경씨의 선거법 위반 사건 재판도 열렸다. 증인으로 출석한 그의 수행비서 배모씨는 “보고했으면 (결제를) 못 하게 했을 것”이라며 김씨는 결제 사실을 몰랐다는 증언을 이어갔다. 배씨는 추궁하는 검찰을 향해 “너무 소설을 쓴다”고도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>윤아, 포즈 취하는데 경호원이 저지...칸영화제서 인종차별 당했나</title>
-      <link>https://www.chosun.com/national/people/2024/05/27/GT7UXJGBS5HDXCUEWXEK6YTS2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/05/27/GT7UXJGBS5HDXCUEWXEK6YTS2A/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 11:54:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R4TD5APDEVBWBPF2KQBHJDC4LU.png"&gt;&lt;figcaption&gt;&lt;small&gt;한 해외 네티즌이 윤아가 칸 영화제에서 여성 경호원에게 차별적 대우를 당했다고 올린 영상 중 일부./X(구 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제77회 칸 국제 영화제에 참석한 그룹 ‘소녀시대’ 멤버 겸 배우 윤아(34)가 여성 경호원에게 인종차별을 당했다는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;지난 26일(현지시각) 인도 일간지 힌두스탄 타임즈는 칸 영화제 레드카펫 경호를 담당한 한 여성 경호원이 계단에서 포즈를 취하려던 윤아를 막아서면서 취재진과의 소통을 어렵게 했다고 보도했다. 이 경호원은 백인 연예인들을 경호했을 때와는 달리, 유색 인종의 연예인들만 빨리 들어갈 것을 재촉했다고 알려졌다.&lt;br&gt;&lt;br&gt;온라인상에 공개된 영상을 보면 윤아는 자신이 입은 핑크색 드레스를 입고 자세를 취하려 했으나, 해당 경호원이 팔로 윤아를 가로 막은 모습이 담겨 있다. 이에 윤아는 취재진을 향해 손 인사만 건넸고, 잠시 주춤하는 모습을 보였다.&lt;br&gt;&lt;br&gt;해당 매체는 “(윤아가) 겉으로 표현하지는 않았지만 그의 표정은 눈에 띄게 불편해 보였다. 그는 반응하지 않고 조용히 참으며 안으로 들어갔다”고 전했다.&lt;br&gt;&lt;br&gt;윤아 외에도 아프리카계 미국 가수인 켈리 롤랜드와 도미니카 공화국 출신의 배우 마시엘 타베라스의 차례에는 해당 경호원이 막아서며 사진을 찍지 못하게 했다는 의혹도 불거졌다. 온라인상에 공개된 또 다른 영상에는 마시엘이 흰색 드레스에 그려진 사진을 보여주려고 계단에서 옷을 펼치려고 하자, 해당 경호원이 마시엘을 가로막았다. 이에 마시엘은 지속적으로 자신을 가로막는 해당 경호원에 대해 불편함을 느끼는 듯 했고, 경호원의 팔을 밀치며 경고하는 자세를 취했다.&lt;br&gt;&lt;br&gt;이를 본 해외 네티즌들은 “이 경호원은 해고 당해야 한다” “이건 인종차별이다” “저곳에서 포즈를 취하면 안 된다는 규칙이 있다면 사전에 전달했어야 하는 것 아니냐” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/R4TD5APDEVBWBPF2KQBHJDC4LU.png?width=1484&amp;height=795&amp;auth=4204fa41ea02c5a7026811087e1c2efd0df4286676c4d08f3d4904988e0c789a&amp;smart=true" type="image/png" height="795" width="1484">
-        <media:description type="plain">한 해외 네티즌이 윤아가 칸 영화제에서 여성 경호원에게 차별적 대우를 당했다고 올린 영상 중 일부./X(구 트위터)</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>의대 학생회가 휴학 강요... 교육부, 의대 3곳 학생 수사 의뢰</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/05/27/462XPQGRY5DXJP76LODKZ6J22A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/05/27/462XPQGRY5DXJP76LODKZ6J22A/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 11:20:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JUBHEBLR3ZLNDCG6GU2XE3OVP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의대 증원에 반발한 의대 학생들의 휴학 사태가 지속되고 있는 지난 23일 서울 시내 한 의과대학에서 관계자가 이동하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의대 증원에 반발한 의대생들의 수업 거부가 석 달째 이어지고 있는 가운데, 교육부가 수업 거부와 휴학계 제출을 강요한 혐의를 받는 의대 3곳의 의대생들을 경찰에 수사 의뢰했다.&lt;br&gt;&lt;br&gt;교육부는 27일 “의대 학생 보호·신고 센터에 세 대학 의대생들이 집단행위를 강요했다는 관련 제보가 들어와 지난 24일 경찰에 수사 의뢰했다”면서 “주변의 집단 압력 때문에 복귀하지 못하는 학생들이 있는데, 그런 부분은 엄단하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;교육부에 따르면, 수사 의뢰된 학생들은 모두 이번에 의대 정원이 늘어난 비수도권 의대 학생회 소속이다. A 의대 학생회는 학생들에게 온라인 수업을 듣지 않았다는 사실을 ‘인증’하라고 공지했다. 인증하지 않은 학생들에게는 따로 연락해 인증을 재차 요청했다. B 의대 학생회도 학생들에게 온라인 수업을 듣지 말라고 하면서 ‘모든 과목의 강의 영상을 보지 않은 것을 공개하라’고 했다고 한다. 현재 전국 40개 의대 대부분은 학생들이 수업에 출석하지 않자 ‘집단 유급’을 막기 위해 온라인 강의를 제공하고 이를 들으면 출석으로 인정해 주고 있다. 그런데 학생회 차원에서 온라인 강의를 듣지 말라고 강요했다는 것이다.&lt;br&gt;&lt;br&gt;C 의대 학생회는 의대생들을 한 장소에 모아놓고 밖으로 나가지 못하도록 한 뒤 휴학계를 작성해 내도록 했다. 휴학계를 안 낸 학생은 따로 불러 이미 제출한 학생 명단을 공개하면서 “이들이 다 냈으니, 너도 내라”고 했다.&lt;br&gt;&lt;br&gt;교육부는 지난달 18일에도 집단행동을 강요한 혐의를 받는 한양대 의대생들을 경찰에 수사 의뢰했다. 이들은 수업에 참여하려는 학생들에게 사과하라고 하거나, 수업 자료를 공유해 주지 않은 혐의를 받는다. 이 사건은 서울 성동경찰서가 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>수억원 재고 전량 불탔는데… 강형욱 아내, 재고관리 업체에 한 행동</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/27/N6AHQ7NBDFG25KWCKXQ5ZHKYBE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/27/N6AHQ7NBDFG25KWCKXQ5ZHKYBE/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 09:21:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6QJ766B3IRCG7IHBBZUCK56HTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;반려견 훈련사 강형욱 보듬컴퍼니 대표(오른쪽)과 아내 수잔 엘더 보듬컴퍼니 이사. /유튜브 '강형욱의 보듬TV' 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;물류관리업체에서 발생한 화재로 보듬컴퍼니 재고가 불에 타 잿더미가 된 사고에서 보듬컴퍼니 대표 강형욱의 아내이자 보듬컴퍼니 이사인 수잔 앨더가 업체 측을 배려하는 행동을 보였다는 미담이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;물류관리업체의 CEO인 A씨는 최근 링크드인에 글을 올리고 “어떤 경험은 평생을 간다. 저에게 보듬컴퍼니의 기억은 지옥 같은 경험과 연결된다”고 운을 뗐다. 그는 “물류회사를 운영하며 고객사 대표를 만날 일은 많이 없지만 2020년 5월 극한 상황에서 불가피하게 해당 회사 대표의 사모님과 대면해야 했다”고 했다.&lt;br&gt;&lt;br&gt;A씨에 따르면, 당시 물류관리업체의 재고센터에서 발생한 화재로 보듬컴퍼니를 포함한 60여 개 고객사의 제품이 전소됐다. 원인을 알 수 없는 화재로 인한 재산 피해는 64억원에 달했다. A씨는 화재 후 모든 동료들과 함께 재고를 정리하며 하루 6~8곳의 고객사를 방문해 고객사 대표에게 “책임을 지겠다”고 약속했다고 한다. 당시 멱살을 잡고 욕설을 하거나 협박과 겁박을 하는 고객사도 있었다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYUVO55KYNDVLGNP25DJLFYIDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/링크드인 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 보듬컴퍼니를 방문했을 때의 경험은 달랐다. A씨는 “한 6일 정도 40여개사를 돌아다녔을 때 방문했던 곳이 보듬컴퍼니었다. 졸도 직전까지 갈 정도로 피폐해져 있었지만 잊히지 않는 경험이 생각난다”며 “이상하게 저를 염려해주시고 아무렇지 않아 하는 듯 노력하시는 느낌이 들어 저는 오히려 당황스러웠다. 수억원의 재고가 불탔는데 저를 염려해주다니”라고 했다. 당시 앨더 이사는 A씨에게 손수 음료도 건네주고 나갈 때까지 배웅해줬다고 한다.&lt;br&gt;&lt;br&gt;A씨는 “다른 사람들의 반응과 많이 달라서 더 기억이 선명하다”며 “그 경험이 1년 만에 그 빚을 다 갚는데 있어서 정말 큰 힘이 됐다. 극복하게 된 이유라고도 말씀드릴 수 있다. 지금도 힘든 일을 겪을 때마다 가끔 생각난다”고 했다. 그는 “저는 강형욱 님은 만난 적도 없고 이해관계도 없다. 현재는 고객사가 아니다”라고 덧붙였다. 해당 글은 현재는 사라진 상태다.&lt;br&gt;&lt;br&gt;보듬컴퍼니 전 직원들은 최근 구직 사이트 등을 통해 강 대표 부부가 직원들을 지속적으로 괴롭혔다는 의혹을 제기했다. ‘명절 선물로 반려견 배변 봉투에 스팸을 담아 줬다’ ‘CCTV 9대로 직원들을 감시하고 사생활을 검열했다’ ‘화장실 가는 시간을 통제했다‘ ‘급여로 9670원을 받았다’ ‘폭언을 들었다’ 등의 주장이었다.&lt;br&gt;&lt;br&gt;이에 강 대표 부부는 유튜브 영상을 통해 사내 메신저 감시는 인정했지만, CCTV 감시·화장실 통제·폭언 등 의혹에 대해선 부인했다. 그러나 전 직원들은 CCTV 감시와 폭언 의혹이 모두 사실이라며 무료변론을 자처한 박훈 변호사를 통해 형사고소를 준비 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>군기훈련 받다 숨진 훈련병, 완전군장 달리기 시켰다</title>
-      <link>https://www.chosun.com/politics/diplomacy-defense/2024/05/27/U5FFJQQBPVB2XPXOU6IYLCHXSI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/diplomacy-defense/2024/05/27/U5FFJQQBPVB2XPXOU6IYLCHXSI/</guid>
-      <dc:creator>양지호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 09:11:40 +0000</pubDate>
-      <content:encoded>최근 숨진 육군 훈련병이 간부로부터 규정을 어긴 군기훈련을 받았다는 의혹이 27일 제기됐다. 규정에 없는 ‘완전군장 구보·팔굽혀펴기’를 시켰다는 것이다.&lt;br&gt;&lt;br&gt;육군 관계자는 이날 기자들과 만나 훈련병이 군기훈련을 받던 상황과 관련해 “규정에 부합되지 않은 정황이 있는 것으로 알려졌다”며 “구체적인 상황은 (군 당국이) 민간 경찰과 조사 중이어서 설명이 제한된다”고 밝혔다. 본지 취재를 종합하면 사망한 훈련병은 간부 지시에 따라 완전군장한 상태로 연병장을 구보(달리기)로 돌았고 완전군장 차림으로 팔굽혀펴기도 했다고 한다. 군기훈련 규정에 따르면 수십㎏에 달하는 완전군장 상태에서는 걷기만 시키도록 하고 있는데 이를 위반한 것이다. 군기훈련은 군기 확립을 위해 장병에게 지시하는 체력 단련 등을 말한다. 과거 ‘얼차려’에 법률적 근거가 없다는 지적이 나오자 군은 근거 규정과 절차를 마련해 제도화했다.&lt;br&gt;&lt;br&gt;육군은 사망한 훈련병이 군기훈련을 받은 이유에 대해 밝히지 않았지만, 군인권센터는 이날 “제보에 따르면 (사망한 훈련병을 포함해) 훈련병 6명이 밤에 떠들었다는 이유로 얼차려를 받았다”고 주장했다. 군인권센터는 사망 훈련병이 ‘몸이 안 좋다’고 호소했는데 이를 묵살했다는 제보도 받았다고 했다.&lt;br&gt;&lt;br&gt;육군에 따르면 사망한 훈련병은 지난 13일 해당 부대 신병교육대로 입대했다. 23일 군기훈련 중 쓰러져 민간 병원으로 후송돼 치료받았지만 25일 숨졌다. 해당 훈련병이 기저 질환을 가지고 있었는지는 확인되지 않았다. 육군은 훈련병이 사망한 지 만 하루가 지난 26일 밤 이를 외부에 공개했다. 육군은 그러면서 “유가족이 보도를 원치 않았고 지금도 원치 않고 있다”고 했다. 육군은 사망한 훈련병의 순직을 결정하면서 일병으로 추서했다.&lt;br&gt;&lt;br&gt;최근 육군에서는 사망 사고가 이어지고 있다. 지난 21일 세종시 모 부대에서 신병 교육을 받던 훈련병이 수류탄 사고로 숨졌다. 27일에는 강원도 모 부대 위관급 장교가 차량에서 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“나 조폭이야” 시민 무차별 폭행 남성들, 진짜 조폭이었다</title>
