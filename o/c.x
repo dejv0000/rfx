@@ -13,6 +13,100 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>인천 송도 길거리에서 ‘칼부림’…40대 남성 등 3명 구속영장 </title>
+      <link>https://www.chosun.com/national/incident/2024/05/28/2H7M7EZL55ARFGKOUJ2W4GWGJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/05/28/2H7M7EZL55ARFGKOUJ2W4GWGJI/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 10:00:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TLMZ3HGGPFFCHL3O2JJB74EK7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 연수경찰서 전경./인천 연수경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한밤 인천 송도국제도시의 한 길거리에서 칼부림을 해 남성 2명을 다치게 한 일당 4명이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;인천 연수경찰서는 살인미수와 폭력행위 등 처벌에 관한 법률상 특수상해 등 혐의로 40대 남성 A씨 등 3명을 긴급 체포해 구속영장을 신청했다고 28일 밝혔다. 경찰은 또 폭력행위 등 처벌에 관한 법률상 특수상해 혐의로 20대 여성 B씨를 불구속 입건했다.&lt;br&gt;&lt;br&gt;A씨는 지난 26일 오후 10시 20분쯤 인천시 연수구 송도국제도시의 한 길거리에서 40대 남성 C씨를 흉기로 여러 차례 찔러 살해하려한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨와 지인 사이인 B씨 등 남녀 3명은 범행에 가담해 C씨와 그의 직장동료인 50대 남성을 때려 다치게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;흉기에 찔린 C씨는 병원에서 수술 후 치료를 받고 있는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 미리 흉기를 준비한 뒤 B씨 등과 함께 피해자들의 사무실이 있는 건물 앞에 찾아가 범행한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨 등을 상대로 구체적인 범행 경위 등을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>터널서 차선 바꾼 화물차, 버스에 ‘쾅’ 대회 나가던 고교 축구부 하마터면…</title>
+      <link>https://www.chosun.com/national/incident/2024/05/28/JZTASGY4KVBX5CIID24KYAKVJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/05/28/JZTASGY4KVBX5CIID24KYAKVJI/</guid>
+      <dc:creator>문경=권광순 기자</dc:creator>
+      <description>28일 오후 1시 50분쯤 경북 문경시 문경읍 중부내륙고속도로 창원 방향 문경새재터널에서 7.5t 화물차가 45인승 버스를 들이받은 뒤 옆으로 넘어지는 사고가 발생했다.</description>
+      <pubDate>Tue, 28 May 2024 09:37:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHPYCW6SIBEIBE2ZDB6QZNZ73M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중부내륙고속도로 창원 방향 문경새재터널에서 옆으로 넘어진 7.5t 화물차. 경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 오후 1시 50분쯤 경북 문경시 문경읍 중부내륙고속도로 창원 방향 문경새재터널에서 7.5t 화물차가 45인승 버스를 들이받은 뒤 옆으로 넘어지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;이 사고로 화물차 운전자인 40대 남성이 경상을 입어 병원으로 옮겨져 치료를 받고 있다.&lt;br&gt;&lt;br&gt;사고 당시 버스 안에는 상주에서 열리는 대회에 참석하기 위해 서울의 한 고등학교 축구 선수단 등 37명이 타고 있었다. 이들은 모두 무사한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 2차로를 달리던 화물차가 1차로로 차선을 바꾸다 버스를 들이받은 것으로 보고 정확한 사고 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가출 청소년 성적 학대에 불법 촬영까지 일삼은 30대</title>
+      <link>https://www.chosun.com/national/court_law/2024/05/28/XSCU4KDIWNBHROJ7FQ4DSCMPLU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/28/XSCU4KDIWNBHROJ7FQ4DSCMPLU/</guid>
+      <dc:creator>강릉=정성원 기자</dc:creator>
+      <description>가출 청소년을 유인해 성적 학대 하거나 청소년을 포함해 수십명의 여성을 상대로 성매매하고 이를 몰래 촬영한 30대 남성이 재판에 넘겨졌다.춘천지검 강릉지청(지청장 문영권)은 아동·청소년의 성 보호에 관한 법률 위반(성착취물 제작·배포 등) 등 혐의로 기소된 A(35)씨를 불구속 기소했다고 28일 밝혔다.</description>
+      <pubDate>Tue, 28 May 2024 09:28:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KVKX263YVG2LC5RA2SAOTQZLBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가출 청소년을 유인해 성적 학대하거나 청소년을 포함해 수십명의 여성을 상대로 성매매를 하는 과정에서 이를 몰래 촬영한 30대 남성이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;춘천지검 강릉지청(지청장 문영권)은 아동·청소년의 성 보호에 관한 법률 위반(성착취물 제작·배포 등) 등 혐의로 기소된 A(35)씨를 불구속 기소했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2020년 3월부터 2022년 5월까지 모두 48차례에 걸쳐 10대 청소년을 포함해 41명의 여성을 상대로 성매매하고 이를 휴대전화로 불법 촬영한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 아동 성착취물 제작 16회, 아동 성 매수 16회, 미성년자의제유사강간 3회, 카메라 등을 이용한 촬영 48회, 미성년자의제강제추행 6회, 성매매 32회에 달하는 범죄를 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰은 A씨에 대해 구속영장을 청구했지만 법원은 A씨가 증거인멸의 우려가 없다고 판단, 이를 기각했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “죄에 상응하는 형이 선고되도록 공소 수행에 만전을 기할 방침”이라며 “디지털 성폭력 사범들에 대해 엄정 대응해 피해자들이 일상으로 돌아갈 수 있도록 노력하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가정폭력에 접근금지 명령... “집에 불지르겠다” 아내 협박한 60대</title>
+      <link>https://www.chosun.com/national/regional/2024/05/28/YHJMIWQRHBGFRLIMOT7ZBFNTWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/05/28/YHJMIWQRHBGFRLIMOT7ZBFNTWU/</guid>
+      <dc:creator>수원=권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 09:30:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KXSIDADOGIFOQSIE4SQKAYEELU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안양동안경찰서. /경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가정폭력 사건으로 아내에게 접근하지 말라는 법원의 명령을 받은 60대 남성이 자기 집에 불을 지르겠다며 협박하다 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 안양동안경찰서는 특수협박 혐의로 A씨에 대해 구속영장을 신청할 예정이라고 28일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 오전 10시 15분 안양시 동안구의 다세대주택에서 아내인 60대 B씨에게 전화를 걸어 “당신이 살고 있는 곳에 불을 지르겠다”며 협박한 혐의를 받고 있다. 그는 지난 3월 저지른 가정폭력 사건으로 B씨에 대한 100ｍ 이내 접근금지, 연락제한 등의 임시조치 명령을 받았다. 경찰은 A씨의 재범 가능성 등을 우려해 B씨를 제3의 장소로 피신시킨 상태였다.&lt;br&gt;&lt;br&gt;A씨의 협박 전화를 받은 B씨는 오전 10시 18분 경찰에 신고했고, A씨는 경찰이 자신의 주거지로 출동하자 집안에 인화성 물질을 뿌린 뒤 “불을 지르겠다”며 대치했다. 경찰은 다세대 주택의 다른 주민들을 대피시켰고, 소방대원과 경찰특공대가 출동해 만일의 사태에 대비했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 설득하며 대치하는 과정에서 A씨가 현관문을 잠깐 연 틈을 타서 집안으로 진입, 신고 접수 1시간여 만인 오전 11시 20분쯤 A씨를 검거했다. A씨는 당시 술이나 약물에 취한 상태는 아니었던 것으로 알려졌다. 경찰은 A씨를 상대로 자세한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공항서 사라진 4000만원 에르메스백…범인은 수하물 옮겨 싣는 직원이었다 </title>
+      <link>https://www.chosun.com/national/national_general/2024/05/28/CL5CA44NGNCQLJVREHC7EKL3UU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/CL5CA44NGNCQLJVREHC7EKL3UU/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 09:23:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PQANH3BIDHLJQGTEUHGFDG74WM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 A씨에게 확보한 압수품. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천국제공항에서 승객의 위탁수하물 가운데 고가의 금품을 야금야금 훔쳐 오던 항공사 하청업체 직원이 실형에 처했다.&lt;br&gt;&lt;br&gt;28일 법조계에 따르면, 인천지법 형사10단독 황윤철 판사는 지난 24일 절도 혐의로 기소된 A(43)씨에게 징역 1년 6개월형을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 2021년 11월부터 작년 10월까지 206차례에 걸쳐 승객의 고가 위탁수하물을 훔친 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;A씨는 2011년부터 인천공항에서 국내 항공사 하청업체 직원으로 일하면서, 객들이 맡긴 수화물을 항공기 화물칸에 옮겨 싣는 작업을 한 것으로 알려졌다. A씨가 소속된 하청업체는 6명씩 1개조로 위탁수하물 적재 작업을 하는데, A씨는 다른 직원들이 담배를 피우러 자리를 피운 틈을 타 범행했다고 한다.&lt;br&gt;&lt;br&gt;A씨는 의심을 피하고자 승객들의 물품 1~2개씩만 손을 댔다. 해외여행객 특성상 이 정도는 여행지에서 물건을 잃어버렸다고 생각해 신고하지 않는 경우가 많다는 점을 노린 것이다. 또 근무 장소에 CCTV가 없다는 점도 이용했다.&lt;br&gt;&lt;br&gt;이 같은 방식으로 A씨가 2년간 훔친 금품 규모는 약 3억6000만원 상당인 것으로 파악됐다. 이후 한 승객이 “4000만 원 상당의 에르메스 가방을 잃어버렸다”고 신고하면서 경찰에 덜미가 잡혔다.&lt;br&gt;&lt;br&gt;재판부는 “고인이 범행을 인정하고 반성하는 태도를 보인다”며 “피해자에게 일정 금액을 지급하고 합의했으며 3000만 원을 공탁한 점, 나이와 가정환경 등 양형 조건을 종합해 형을 정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>교육부, 수능·학업성취도 자료 연구자에 전면 개방한다</title>
+      <link>https://www.chosun.com/national/education/2024/05/28/BBCEETDEVBAPPMNSRQT4KOR5QA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/05/28/BBCEETDEVBAPPMNSRQT4KOR5QA/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 08:47:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVDUTW4SBZNSROCX3XD3WWVUWE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2025학년도 대학수학능력시험 대비 5월 전국연합학력평가가 시행된 8일 오전 서울 광진구 광남고에서 3학년 학생이 1교시 국어영역 시험을 치르고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육부가 정책 연구 활성화를 위해 앞으로 대학수학능력시험(수능)과 국가 수준 학업성취도 평가의 학생 개별 성적을 기초지방자치단체 단위까지 분류해 연구자에게 100% 제공한다는 계획을 내놨다. 지금껏 이 자료는 연구자에게도 70% 표본 데이터(학생 100명 중 70명)만 제공했고 이마저도 광역지자체 단위로만 제공됐는데, 이제 전면 개방하겠다는 것이다.&lt;br&gt;&lt;br&gt;교육부는 28일 제5차 사회관계 장관회의를 열고 ‘교육데이터 개방 및 활용 확대 방안’을 논의했다고 밝혔다. 교육부는 수능과 학업성취도 평가에서 모든 학생이 받은 성적을 시·군·구 기초지자체 단위 자료까지 연구자에게 제공한다는 계획이다. 학교와 학생은 식별할 수 없게 익명 처리한다.&lt;br&gt;&lt;br&gt;학생 정보가 노출되거나 대입에 활용되는 경우를 막기 위해 졸업한 학생 정보만 제공한다. 예컨대, 올해 연구 목적으로 수능 성적 자료를 요청하면 2010학년도부터 2021학년도 자료까지만 받을 수 있다는 것이다.&lt;br&gt;&lt;br&gt;연구자에 한해 제공되는 수능 자료는 개별 학생의 각 영역 표준점수, 표준점수 백분위, 등급, 성별, 시도, 시군구 등이 해당한다. 학교별로는 과목별 응시 인원과 표준점수 평균, 과목별 등급 비율 등이다.&lt;br&gt;&lt;br&gt;학업성취도 자료는 학생별 성취 수준(보통 이상, 기초, 기초미달), 척도점수, 학년, 성별, 시도, 시군구 등이 제공될 예정이다. 학교별로도 과목별 성취 수준별 학생 수 비율, 척도점수 평균 등이 제공된다.&lt;br&gt;&lt;br&gt;다만 교육부는 지역·학교 서열화를 부추길 소지가 있는 연구 등에는 자료 제공을 하지 않겠다는 입장이다. 사교육 업체 등에 자료를 유출되는 경우 등을 막기 위해&amp;nbsp;‘교육관련기관의 정보공개에 관한 특례법’과 ‘개인정보보호법’을 철저하게 준수한다는 방침이다.&lt;br&gt;&lt;br&gt;교육부 관계자는 “연구 계획서를 면밀히 검토하고 연구목적 외로 활용될 경우 형사 처벌이 가능하다는 것을 명확히 고지하는 등 보완 장치를 마련할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GVDUTW4SBZNSROCX3XD3WWVUWE.JPG?width=3223&amp;height=1994&amp;auth=84f7a25c31405d429447cf497fcc737dab6b691ed0d5fcea2785178ff152e29c&amp;smart=true" type="image/jpeg" height="1994" width="3223">
+        <media:description type="plain">(서울=뉴스1) 장수영 기자 = 2025학년도 대학수학능력시험 대비 5월 전국연합학력평가가 시행된 8일 오전 서울 광진구 광남고에서 3학년 학생이 1교시 국어영역 시험을 치르고 있다. 2024.5.8/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 장수영 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘유아인 수면제 불법 처방’ 40대 의사, 1심에서 벌금 2500만원</title>
+      <link>https://www.chosun.com/national/court_law/2024/05/28/5UQNPUCCT5AJFGB4ZVP6322HDE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/28/5UQNPUCCT5AJFGB4ZVP6322HDE/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 08:42:55 +0000</pubDate>
+      <content:encoded>배우 유아인(38·본명 엄홍식)씨에게 제3자 명의로 수면제 스틸녹스정·자낙스정 등을 불법 처방한 혐의를 받는 의사가 벌금 2500만원을 선고 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DFCJGJR2G5N5BB3XZVIAP77GJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;마약 상습 투약 혐의를 받는 배우 유아인(본명 엄홍식)이 지난 14일 서울 서초구 서울중앙지법에서 열린 1심 공판에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사9단독 김택형 판사는 마약류관리에관한법률위반(향정), 의료법위반 등 혐의로 기소된 40대 의사 김모씨에게 벌금 2500만원을 선고했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;유씨는 2021년 8월 김씨가 운영하는 의원에서 미용 시술을 위한 수면 마취를 받는다며 프로포폴을 수차례 투약했다. 잦은 빈도로 다량의 프로포폴을 투약하던 유씨는 정상적인 처방량 이상을 받을 목적으로 김씨에게 B씨 명의로 향정신성의약품인 졸피뎀 성분이 포함된 스틸녹스정을 처방해 달라고 요구했다.&lt;br&gt;&lt;br&gt;김씨는 이러한 유씨 요구에 따라 2022년 7월까지 제3자 명의를 사용하는 방법으로 총 25회에 걸쳐 자신이 직접 진찰한 환자가 아닌 B, C, D, E에 대한 스틸녹스정 10mg 718정, 향정신성의약품인 알프라졸람 성분 자낙스 0.5mg 30정을 기재한 처방전을 발급했다. 그리고 이 과정에서 환자를 실제로 진찰하지 않았음에도 마치 직접 진찰한 것처럼 진료기록부도 거짓으로 작성했다.&lt;br&gt;&lt;br&gt;재판부는 “의사로서 향정신성의약품인 스틸녹스의 오남용에 대한 심각성을 잘 알고 있는 피고인이 업무 외 목적으로 25회에 걸쳐 향정신성의약품을 기재한 처방전을 발급하면서 직접 진찰하지 않은 사람 명의로 처방전을 작성하고 진료기록부를 거짓으로 작성하는 등 죄질이 가볍지는 않다”면서도 “피고인이 범행을 진심으로 반성하고 있는 점, 형사처벌을 받은 전력이 없는 점, 이 사건 범행으로 추가적인 부정한 수익을 취득하진 않은 것으로 보이는 점 등을 종합했다”며 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;한편 유씨는 181차례에 걸쳐 의료용 프로포폴 등을 상습 투약하고 44차례 타인 명의로 수면제 1100여정을 불법 처방 받아 사들여 마약류관리에관한법률위반(향정) 등으로 기소돼 현재 1심 재판을 받고 있다.&lt;br&gt;&lt;br&gt;앞서 대리 처방 혐의 등으로 재판에 넘겨진 다른 의사들도 벌금형부터 징역형 집행유예 등 잇따라 유죄 판결을 받은 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>마약 구입해 군부대서 투약한 20대 ‘집행유예 5년’</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/05/28/VA6RIG7EY5HZPD2DJNPF45TEMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/05/28/VA6RIG7EY5HZPD2DJNPF45TEMU/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 08:30:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SE7WJBZJHP4XXUKAOOJ6YPCBVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구법원 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소셜미디어(SNS)를 통해 마약을 구입한 뒤 군부대로 가지고 들어가 투약한 20대 남성에게 징역형 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;대구지방법원 제11형사부(재판장 이종길)는 마약류 관리에 관한 법률 위반 혐의로 재판에 넘겨진 A씨에게 징역 3년에 집행유예 5년을 선고했다고 28일 밝혔다. 또 보호관찰 및 160시간의 사회봉사, 40시간의 약물치료 강의 수강 등을 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2022년 6~7월 텔레그램으로 판매상에 접촉해 5차례에 걸쳐 액상 합성 대마, 엑스터시 등을 구매한 뒤 군부대 내에서 투약한 혐의로 기소됐다. 조사 결과 A씨는 합성 대마 구매 대금으로 비트코인을 사용하기도 한 것으로 드러났다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 현역병으로 입대한 이후 휴가 복귀를 이용해 부대에 마약을 반입해 투약하는 등 우발적으로 범행을 했다고 보기 어렵고 재범의 위험성이 인정된다. 다만 형사처벌을 받은 전력이 없고 군 제대 이후에도 꾸준히 약물중독 치료를 받은 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>헌재, ‘이정섭 탄핵 심판’ 조국당 강미정 증인 안 부른다</title>
+      <link>https://www.chosun.com/national/court_law/2024/05/28/DJWE4GMKLJHCPKFEVKKHZ7XFSA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/28/DJWE4GMKLJHCPKFEVKKHZ7XFSA/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 08:25:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O2RA3HPTIVMS3IIC2QV7WGO6PA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이정섭 대전고검 검사 직무대리가 8일 서울 종로구 헌법재판소 대심판정에서 열린 자신의 탄핵 심판 2차 변론 기일에 출석하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이정섭 대전고검 검사 직무대리의 탄핵 심판을 심리하는 헌법재판소가 이 검사의 처남댁인 강미정 조국혁신당 대변인을 증인으로 불러 달라는 국회 측의 신청을 기각했다. 강씨는 이 검사가 처남의 마약 사건에 영향력을 행사해 수사를 무마했다는 의혹 등을 민주당에 제보한 인물이다.&lt;br&gt;&lt;br&gt;헌법재판소는 28일 오후 2시 이정섭 검사 탄핵 심판 두 번째 변론 기일을 열고 이같이 결정했다. 헌재는 증인 신문 대신 강씨가 낸 진술서를 증거로 채택하겠다고 했다.&lt;br&gt;&lt;br&gt;강씨는 이 검사 처남 조모씨의 배우자다. 탄핵을 소추한 국회 측은 “강씨는 이 검사의 탄핵 사유 상당 부분을 직접 목격하고 경험한 인물이라 증언을 통해 입증할 필요가 있다”고 주장했지만, 헌재는 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;헌재는 “강씨는 (헌재에 제출한) 진술서를 통해 이 사건 관련해 본인이 경험하거나 증언하고자 하는 내용을 기재했다”며 “이 검사 측에서 (진술서의) 증거 사용에 동의함으로써 사실상 반대신문을 포기한 상황이 돼 증인 신청을 채택하지 않는다”고 밝혔다.&lt;br&gt;&lt;br&gt;국회 측은 이 검사가 대기업으로부터 부적절한 접대를 받았다는 의혹을 입증하겠다며 대기업 임원 김모씨를 비롯한 4명도 증인으로 신청했지만 기각됐다. 헌재는 “탄핵소추 사유나 준비 기일, 1차 (변론) 기일까지 전혀 특정되지 않은 사람들”이라며 “(이 검사의) 어떤 행위와 관련성 있는지, 직무 관련성 관련이 있는지 명확한 소명이 없다”고 했다. 증인 신문하는 것이 부적절하다고 판단한 것이다.&lt;br&gt;&lt;br&gt;한편, 헌재는 이 검사 처남의 휴대전화를 검증한 포렌식 업체가 지난 22일 제출한 보고서를 증거로 채택할지 검토 중이라고 밝혔다. 처남 조씨는 해당 휴대전화를 2016~2017년 사용했는데, 강씨는 “해당 휴대전화에 이 검사의 각종 비위 증거가 저장돼 있다”고 주장하고 있다. 이 검사 측은 “휴대전화에는 새로운 내용이 전혀 없고, 강씨가 남편의 휴대전화를 절도해 분석을 의뢰했다”며 증거 능력이 없다고 주장해왔다. 국회 측은 위법하게 수집된 증거가 아니라는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해외 계절근로자 허위 알선해 급여 가로챈 브로커 구속</title>
+      <link>https://www.chosun.com/national/2024/05/28/QPKEBOF4TRDOBBFPOD5FO535CY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/05/28/QPKEBOF4TRDOBBFPOD5FO535CY/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 May 2024 08:18:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/53BNAO4223W7K2OPFHNZ57LTK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원출입국·외국인사무소. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해외 계절근로자를 허위로 초청하고, 대가로 급여 일부를 받아 챙긴 브로커가 구속돼 검찰로 넘겨졌다.&lt;br&gt;&lt;br&gt;법무부 창원출입국·외국인사무소는 필리핀 현지에서 알선 브로커를 하는 한국인 50대 A씨를 출입국관리법 위반 혐의로 구속 송치했다고 28일 밝혔다. 또 A씨와 공모해 범행에 가담한 거창군 계약직 공무원 B씨는 불구속 송치했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2022년 4월부터 9월까지 거창군에서 계절근로자로 일할 138명을 허위 초청 알선하고, 이들 급여 일부를 가로챈 혐의를 받는다. 필리핀 현지에서 일명 ‘미스터 김’으로 불리는 A씨는 거창군에서 계절근로자로 일하고자 하는 필리핀 국적 외국인을 모집했다. 이들에게 실제 지급되는 급여는 한달 156만원이지만, A씨는 82만원만 지급하기로 하는 이면 근로계약서를 작성했다.&lt;br&gt;&lt;br&gt;A씨는 농사일을 해 본 적이 없는 필리핀인 79명을 계절근로자로 초청하기 위해 농사일을 했던 것처럼 가짜 ‘농업 종사 확인서’를 만들게 한 후 비자를 신청하게 했다.&lt;br&gt;&lt;br&gt;계절근로자들이 입국한 이후에는 거창군에서 계절근로자 업무를 담당한 계약직 공무원 B씨가 가담했다. B씨는 급여를 관리한다는 명목으로, 계절근로자들의 통장을 모두 빼앗아 보관했다.&lt;br&gt;&lt;br&gt;근로자들에게 156만원이 입금되면 B씨는 56만원은 빼돌려 A씨와 반반 나눠 가졌다. 또 나머지 100만원은 필리핀 현지에 있는 A씨에게 보냈다. A씨는 B씨에게 받은 100만원 중 18만원은 현지 로비 자금으로 쓰고, 나머지 82만원은 이면 계약서에 적힌 대로 국내에 있는 계절근로자들에게 다시 송금했다.&lt;br&gt;&lt;br&gt;A씨는 수사기관의 자금 추적을 피하기 위해 가로챈 8400여만원을 배우자 명의 계좌로 빼돌리는 치밀함도 보였다.&lt;br&gt;&lt;br&gt;창원출입국·외국인사무소는 근로 중 달아난 일부 계절근로자들을 붙잡아 수사하는 과정에서 월급이 너무 적은 것을 수상히 여겨 수사에 착수해 A씨 등의 범행을 포착했다.&lt;br&gt;&lt;br&gt;필리핀 현지에 머물던 A씨는 이 사정을 모른 채 수술을 받기 위해 국내로 들어왔다가 덜미를 잡혔다.&lt;br&gt;&lt;br&gt;창원출입국·외국인사무소는 국내 입국한 계절근로자들을 상대로 하는 불법 행위가 더 있을 것으로 보고, 수사를 확대할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“김호중 사고 내기 전 만난 유명 연예인, 정찬우·길이었다”</title>
       <link>https://www.chosun.com/national/national_general/2024/05/28/6JAKVB76ENFMBBCLST6A5T7CS4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/6JAKVB76ENFMBBCLST6A5T7CS4/</guid>
@@ -793,15 +887,6 @@
       </media:content>
     </item>
     <item>
-      <title>국유지 된 줄 모르고 땅 팔았는데...법원, “서울시, 원주인에 83억 보상”</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/27/LVOTQIPKXZGQJHLKVNPDZEPNSA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/27/LVOTQIPKXZGQJHLKVNPDZEPNSA/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 12:02:16 +0000</pubDate>
-      <content:encoded>한강에 인접한 땅이 국유지가 된 줄 모르고 타인에게 매도했던 사람이 뒤늦게 손실보상금을 받을 수 있다는 법원 판결이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2QNPQUE67JCBPKC4PUEDOE5F7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울가정법원·서울행정법원 청사. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정1부(재판장 양상윤)는 한모씨가 서울시를 상대로 낸 손실보상금 소송 1심에서 지난달 12일 원고 승소로 판결했다고 27일 밝혔다. 재판부는 서울시가 한씨에게 총 83억4768만원과 지연이자를 줘야 한다고 판단했다.&lt;br&gt;&lt;br&gt;한씨는 1964년에 서울 강서구(당시 영등포구)의 답(논) 1353평을 사들여 소유권이전등기를 마쳤다. 이후 다른 사람들에게 1975년과 1983년에 각각 나눠 팔았다.&lt;br&gt;&lt;br&gt;하지만 이에 앞서 1971년 개정 하천법이 시행됐다. 이로 인해 한씨의 땅은 등기된 사유토지임에도 불구하고 하천 구역에 편입돼 국유지가 됐다. 한씨는 물론이고 매수자들도 이 사실을 모른 채 땅을 거래했다.&lt;br&gt;&lt;br&gt;서울시는 1989년 뒤늦게 땅에 대한 소유권이전등기를 마쳤고, 정작 한씨가 아닌 땅의 매수자들에게 손실보상금을 지급했다. 한씨는 작년 2월 서울시를 상대로 손실보상금을 달라고 소송을 냈다.&lt;br&gt;&lt;br&gt;서울시는 한씨가 땅을 팔았고, 해당 매매 계약이 유효하니 이에 따라 매수자들에게 손실보상청구권도 함께 넘겨준 것으로 봐야 한다고 주장했다.&lt;br&gt;&lt;br&gt;그러나 재판부는 손실보상청구권은 하천 편입 당시의 토지 소유자에게 귀속된다는 대법원 판례를 근거로, 이때 청구권을 가진 한씨에게 서울시가 보상금을 지급해야 된다고 했다.&lt;br&gt;&lt;br&gt;아울러 하천법의 손실보상 조항이 1984년에야 마련됐으므로 땅을 거래할 당시 거래 당사자들에겐 ‘손실보상청구권’이 발생되지 않았기 때문에 애초에 이에 대한 청구권을 양도·양수할 수 없다고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 “피고는 이 사건 각 토지가 하천 구역으로 편입될 당시 소유자가 누구였는지를 등기를 통해 확인할 수 있었는데도 손실보상금 지급 당시 이 사건 각 토지의 소유자로 등재돼 있던 사람들에게 손실보상금을 지급했다”며 “이것이 정당하다고 볼 만한 사정이 없다”고 했다.&lt;br&gt;&lt;br&gt;한편 서울시는 1심 판결에 불복해 항소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>의대 학생회가 휴학 강요... 교육부, 의대 3곳 학생 수사 의뢰</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/05/27/462XPQGRY5DXJP76LODKZ6J22A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/05/27/462XPQGRY5DXJP76LODKZ6J22A/</guid>
@@ -809,33 +894,6 @@
       <description/>
       <pubDate>Mon, 27 May 2024 11:20:34 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JUBHEBLR3ZLNDCG6GU2XE3OVP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의대 증원에 반발한 의대 학생들의 휴학 사태가 지속되고 있는 지난 23일 서울 시내 한 의과대학에서 관계자가 이동하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의대 증원에 반발한 의대생들의 수업 거부가 석 달째 이어지고 있는 가운데, 교육부가 수업 거부와 휴학계 제출을 강요한 혐의를 받는 의대 3곳의 의대생들을 경찰에 수사 의뢰했다.&lt;br&gt;&lt;br&gt;교육부는 27일 “의대 학생 보호·신고 센터에 세 대학 의대생들이 집단행위를 강요했다는 관련 제보가 들어와 지난 24일 경찰에 수사 의뢰했다”면서 “주변의 집단 압력 때문에 복귀하지 못하는 학생들이 있는데, 그런 부분은 엄단하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;교육부에 따르면, 수사 의뢰된 학생들은 모두 이번에 의대 정원이 늘어난 비수도권 의대 학생회 소속이다. A 의대 학생회는 학생들에게 온라인 수업을 듣지 않았다는 사실을 ‘인증’하라고 공지했다. 인증하지 않은 학생들에게는 따로 연락해 인증을 재차 요청했다. B 의대 학생회도 학생들에게 온라인 수업을 듣지 말라고 하면서 ‘모든 과목의 강의 영상을 보지 않은 것을 공개하라’고 했다고 한다. 현재 전국 40개 의대 대부분은 학생들이 수업에 출석하지 않자 ‘집단 유급’을 막기 위해 온라인 강의를 제공하고 이를 들으면 출석으로 인정해 주고 있다. 그런데 학생회 차원에서 온라인 강의를 듣지 말라고 강요했다는 것이다.&lt;br&gt;&lt;br&gt;C 의대 학생회는 의대생들을 한 장소에 모아놓고 밖으로 나가지 못하도록 한 뒤 휴학계를 작성해 내도록 했다. 휴학계를 안 낸 학생은 따로 불러 이미 제출한 학생 명단을 공개하면서 “이들이 다 냈으니, 너도 내라”고 했다.&lt;br&gt;&lt;br&gt;교육부는 지난달 18일에도 집단행동을 강요한 혐의를 받는 한양대 의대생들을 경찰에 수사 의뢰했다. 이들은 수업에 참여하려는 학생들에게 사과하라고 하거나, 수업 자료를 공유해 주지 않은 혐의를 받는다. 이 사건은 서울 성동경찰서가 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“집회 자유 침해 맞다”...퀴어축제 막아선 대구시에 위자료 700만원</title>
-      <link>https://www.chosun.com/national/incident/2024/05/24/Q2N2YABFMBGMPE252UCRSDWGSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/05/24/Q2N2YABFMBGMPE252UCRSDWGSY/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 05:48:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HP6CG3CR4HLZNRM5QPNPD4CUWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 6월 발생한 퀴어문화축제 공권력 충돌 현장, 행정대집행에 나선 공무원들이 행사 차량의 진입을 막으려 하자 경찰이 이들을 해산시키고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 6월 대구 동성로에서 ‘퀴어문화축제’ 개최를 막은 대구시의 대응이 부당하다는 판결이 나왔다. 대구퀴어문화축제 갈등과 관련한 첫 선고다. 당시 대구시는 “무대 등을 설치해 도로를 불법 점거한 집회”라며 철거에 나섰고, 경찰은 “적법하게 신고된 집회”라며 맞서는 과정에서 시·구 공무원과 경찰 등 2000여명이 몸싸움을 벌인 바 있다.&lt;br&gt;&lt;br&gt;24일 대구지법 민사 21단독 안민영 판사는 대구퀴어문화축제 조직위원회가 대구시와 홍준표 시장을 상대로 낸 손해배상청구 소송에서 대구시에 위자료 700만원을 선고하는 등 원고 일부 승소 판결을 내렸다.&lt;br&gt;&lt;br&gt;지난해 6월 17일 대구 중구의 대중교통전용지구인 동성로 일대에서 열린 대구퀴어문화축제에서 홍준표 대구시장은 “퀴어 축제는 도로 점용 허가를 받지 않은 불법 축제”라며 대구시와 중구 공무원 500여 명에게 무대 설비 등 축제 장비 반입을 막았다. 반면 경찰 측은 “적법하게 신고된 집회는 최대한 보장해야한다”며 대구경찰 1500여 명이 공무원들과 몸싸움을 벌였다. 결국 대구시가 물러나면서 축제는 정상 진행됐다.&lt;br&gt;&lt;br&gt;대구퀴어문화축제 조직위 측은 지난해 7월 “홍준표 대구시장이 공권력을 동원해 집회의 자유를 침해하고, 페이스북 글을 통해 축제의 명예를 훼손했다”는 취지로 대구시와 홍준표 시장에 대해 4000만원 상당의 손해배상청구 소송을 제기했다. 당시 홍 시장은 페이스북에 “(퀴어 축제가)동성로 상권의 이미지를 흐리게 하고, 청소년들에게 잘못된 성문화를 심어줄 수 있으며, 시민들에게 혐오감을 주어 반대한다”며 “도로 점거 불법 집회는 공공성이 없으니 용납하지 않겠다”는 취지의 글을 올렸다.&lt;br&gt;&lt;br&gt;재판 쟁점은 대구시가 퀴어 축제를 막기 위해 공무원을 동원한 행정대집행이 적법했는지, 홍준표 시장이 원고인 퀴어 축제 조직위 측을 모욕했다고 볼 수 있는지 등 2가지였다.&lt;br&gt;&lt;br&gt;법원은 대구시가 퀴어 축제를 부당하게 방해한 것으로 판단했다. 법원 측은 “집회(퀴어축제)에 설치된 부스 및 무대는 집회 규모 및 내용에 비춰 설치 필요성이 인정되는 물건이며, 타인의 안녕이나 공공 질서에 위험을 초래한다고 단정하기 어렵다”며 “(대구시 주장대로)도로 점용 허가 대상이라거나, 도로 교통에 지장을 준 행위로 볼 수 없다”고 했다. 그러면서 “행정대집행 사유가 없음에도 집회를 저지한만큼 대구시는 국가배상법에 따라 손해배상책임을 지고, 집회 저지를 지시한 홍 시장도 중과실이 인정되므로 손해배상책임을 부담한다”며 위자료 700만원을 대구퀴어문화축제 조직위 측에 지급하라고 선고했다. 대구시 주장과 달리, 대구퀴어문화축제는 별도로 도로 점용 허가를 받아야 할 집회가 아니라고 법원이 판단한 것이다.&lt;br&gt;&lt;br&gt;다만 홍 시장이 축제의 명예를 훼손·모욕했다는 부분은 기각됐다. 법원 측은 “홍 시장의 게시글은 퀴어축제 자체에 대한 비판적 의견이지, 원고인 퀴어 축제 조직위에 대한 모욕적 표현으로 보긴 어렵다”며 “집회에서 발생 가능한 부작용을 언급한만큼, 의견 표현에 해당하므로 손해배상 청구를 받아들이지 않는다”고 판시했다.&lt;br&gt;&lt;br&gt;대구퀴어문화축제 조직위 관계자는 “국민의 기본권인 집회 자유를 대구시가 침해했다는 점, 성소수자도 헌법에서 보호하는 시민임을 드러낸 의미있는 판결로, 배상금액은 중요하지 않다”고 말헀다.&lt;br&gt;&lt;br&gt;이날 판결에 대해 대구시 관계자는 “결과를 전달받은 상태이며, 항소 여부 등을 논의하는데엔 시간이 걸릴 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>50년 전 수술 도와준 친구, 경찰이 찾아준 사연</title>
-      <link>https://www.chosun.com/national/people/2024/05/27/EZHRHXJDHFDFFB7OJP3B6KE6XQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/05/27/EZHRHXJDHFDFFB7OJP3B6KE6XQ/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description>경북 김천에서 80대 남성이 수술을 도와준 옛 친구를 경찰의 도움 덕에 50여년 만에 만나게 됐다.27일 경북 김천경찰서에 따르면 전북 전주에 거주하는 A(89)씨와 김천에 사는 B(92)씨가 지난 25일 상봉했다. A씨와 B씨는 지난 1952년 전주교대의 전신인 전주사범학교에서 만난 친구였다.</description>
-      <pubDate>Mon, 27 May 2024 09:51:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7FTHYOYIKVA5BHCLBMR26V77QU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 25일 경북 김천경찰서 중앙지구대에서 A씨(오른쪽)와 B씨가 50여년 만에 상봉했다./김천경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 김천에서 80대 남성이 수술을 도와준 옛 친구를 경찰의 도움 덕에 50여년 만에 만나게 됐다.&lt;br&gt;&lt;br&gt;27일 경북 김천경찰서에 따르면 전북 전주에 거주하는 A(89)씨와 김천에 사는 B(92)씨가 지난 25일 상봉했다. A씨와 B씨는 지난 1952년 전주교대의 전신인 전주사범학교에서 만난 친구였다.&lt;br&gt;&lt;br&gt;A씨는 군 입대를 앞둔 시점에 다리의 피부가 곪는 등 질병이 심해졌으나 수술비를 마련하지 못했다. 병원에서 “제때 수술을 받지 못하면 다리를 절단해야한다”는 경고를 들은 A씨는 B씨에게 이 같은 상황을 담아 편지를 보냈다. B씨는 A씨가 거주하던 목포를 찾아 평소 갖고 있던 고가의 카메라를 판 돈으로 수술비를 대신 지불했다.&lt;br&gt;&lt;br&gt;두 친구는 이후로도 서로 전화와 편지를 주고받으며 지냈으나, 시간이 지나며 직장과 거주지 등이 달라지면서 연락이 끊겼다. 연락이 끊긴 후로도 A씨는 가족들에게 B씨에 대한 감사함을 종종 얘기했다고 한다.&lt;br&gt;&lt;br&gt;그러다 A씨는 지난 9일 한 TV프로그램에서 경북 김천 지역의 장수(長壽) 노인으로 소개된 B씨를 보게 됐다. 이후 A씨 외손자가 할아버지를 대신해 경찰에게 “할아버지가 B씨에게 감사를 전하고 싶어하시니 꼭 좀 찾아달라”고 요청했다.&lt;br&gt;&lt;br&gt;결국 이 요청을 전달받은 김천경찰서 중앙지구대 소속 여현규 경위와 성치우 순경이 TV 프로그램을 참조해 동네를 수소문한 끝에 B씨를 찾아냈고, 두 친구는 지난 25일 중앙지구대에서 상봉했다.&lt;br&gt;&lt;br&gt;A씨는 “오랜 세월 잊지 못했던 고마운 벗을 찾아준 김천경찰에 감사를 전한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>광주서 영아 시신 유기한 20대 6일 만에 붙잡혀</title>
-      <link>https://www.chosun.com/national/incident/2024/05/27/F4YON4VB25DMDHB3IDSS3YB4KY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/05/27/F4YON4VB25DMDHB3IDSS3YB4KY/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description>상가 화장실에 숨진 영아를 유기한 20대 여성이 범행 엿새 만에 경찰에 붙잡혔다.광주경찰청 여성청소년범죄수사대는 영아 시신을 유기한 혐의로 20대 A씨를 붙잡아 조사 중이라고 27일 밝혔다.</description>
-      <pubDate>Mon, 27 May 2024 09:39:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BKINFRPDKFABVBJBEWCTW5NCZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상가 화장실에 숨진 영아를 유기한 20대 여성이 범행 엿새 만에 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;광주경찰청 여성청소년범죄수사대는 영아 시신을 유기한 혐의로 20대 A씨를 붙잡아 조사 중이라고 27일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 지난 22일 오후 3시 58분쯤 광주시 서구 광천동 한 상가 화장실에 영아 시신이 있다는 신고를 접수받고 수사에 나섰다.&lt;br&gt;&lt;br&gt;발견된 시신은 출산 직후 영아로 추정됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 범행 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>수억원 재고 전량 불탔는데… 강형욱 아내, 재고관리 업체에 한 행동</title>
@@ -847,42 +905,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6QJ766B3IRCG7IHBBZUCK56HTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;반려견 훈련사 강형욱 보듬컴퍼니 대표(오른쪽)과 아내 수잔 엘더 보듬컴퍼니 이사. /유튜브 '강형욱의 보듬TV' 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;물류관리업체에서 발생한 화재로 보듬컴퍼니 재고가 불에 타 잿더미가 된 사고에서 보듬컴퍼니 대표 강형욱의 아내이자 보듬컴퍼니 이사인 수잔 앨더가 업체 측을 배려하는 행동을 보였다는 미담이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;물류관리업체의 CEO인 A씨는 최근 링크드인에 글을 올리고 “어떤 경험은 평생을 간다. 저에게 보듬컴퍼니의 기억은 지옥 같은 경험과 연결된다”고 운을 뗐다. 그는 “물류회사를 운영하며 고객사 대표를 만날 일은 많이 없지만 2020년 5월 극한 상황에서 불가피하게 해당 회사 대표의 사모님과 대면해야 했다”고 했다.&lt;br&gt;&lt;br&gt;A씨에 따르면, 당시 물류관리업체의 재고센터에서 발생한 화재로 보듬컴퍼니를 포함한 60여 개 고객사의 제품이 전소됐다. 원인을 알 수 없는 화재로 인한 재산 피해는 64억원에 달했다. A씨는 화재 후 모든 동료들과 함께 재고를 정리하며 하루 6~8곳의 고객사를 방문해 고객사 대표에게 “책임을 지겠다”고 약속했다고 한다. 당시 멱살을 잡고 욕설을 하거나 협박과 겁박을 하는 고객사도 있었다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYUVO55KYNDVLGNP25DJLFYIDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/링크드인 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 보듬컴퍼니를 방문했을 때의 경험은 달랐다. A씨는 “한 6일 정도 40여개사를 돌아다녔을 때 방문했던 곳이 보듬컴퍼니었다. 졸도 직전까지 갈 정도로 피폐해져 있었지만 잊히지 않는 경험이 생각난다”며 “이상하게 저를 염려해주시고 아무렇지 않아 하는 듯 노력하시는 느낌이 들어 저는 오히려 당황스러웠다. 수억원의 재고가 불탔는데 저를 염려해주다니”라고 했다. 당시 앨더 이사는 A씨에게 손수 음료도 건네주고 나갈 때까지 배웅해줬다고 한다.&lt;br&gt;&lt;br&gt;A씨는 “다른 사람들의 반응과 많이 달라서 더 기억이 선명하다”며 “그 경험이 1년 만에 그 빚을 다 갚는데 있어서 정말 큰 힘이 됐다. 극복하게 된 이유라고도 말씀드릴 수 있다. 지금도 힘든 일을 겪을 때마다 가끔 생각난다”고 했다. 그는 “저는 강형욱 님은 만난 적도 없고 이해관계도 없다. 현재는 고객사가 아니다”라고 덧붙였다. 해당 글은 현재는 사라진 상태다.&lt;br&gt;&lt;br&gt;보듬컴퍼니 전 직원들은 최근 구직 사이트 등을 통해 강 대표 부부가 직원들을 지속적으로 괴롭혔다는 의혹을 제기했다. ‘명절 선물로 반려견 배변 봉투에 스팸을 담아 줬다’ ‘CCTV 9대로 직원들을 감시하고 사생활을 검열했다’ ‘화장실 가는 시간을 통제했다‘ ‘급여로 9670원을 받았다’ ‘폭언을 들었다’ 등의 주장이었다.&lt;br&gt;&lt;br&gt;이에 강 대표 부부는 유튜브 영상을 통해 사내 메신저 감시는 인정했지만, CCTV 감시·화장실 통제·폭언 등 의혹에 대해선 부인했다. 그러나 전 직원들은 CCTV 감시와 폭언 의혹이 모두 사실이라며 무료변론을 자처한 박훈 변호사를 통해 형사고소를 준비 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>법원 “안희정·충청남도, ‘성폭행 피해’ 前비서에 8300만원 배상하라”</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/24/5WEOSTBXIVFJZD6YI33BGW623U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/24/5WEOSTBXIVFJZD6YI33BGW623U/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 May 2024 01:57:05 +0000</pubDate>
-      <content:encoded>안희정 전 충남지사의 성폭행 피해자인 김지은씨가 안 전 지사 등에게 위자료 등을 요구하며 제기한 손해배상 청구 소송에서 일부 승소했다. 1심 결과가 나온 건 소송을 제기한 지 약 3년 10개월만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FKNKDIE4UES5DCHF6IKRVCIUEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안희정 전 충남지사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 민사합의22부(재판장 최욱진)는 24일 김씨가 안 전 지사와 충청남도를 상대로 제기한 3억원 상당의 손해배상 소송 선고기일을 열고 “안 전 지사는 8347여만원, 충청남도는 안 전 지사와 공동으로 이 돈 가운데 5347여만원을 지급하라”고 원고 일부 승소로 판결했다. 이날 안 전 지사와 김씨 모두 법정에 출석하지 않았다.&lt;br&gt;&lt;br&gt;김씨는 2018년 3월 안 전 지사의 수행비서로 일하던 중 안 전 지사에게 성폭행과 추행을 당했다고 폭로했다. 안 전 지사는 피감독자 간음, 업무상 위력에 의한 추행 등 혐의로 2019년 9월 징역 3년 6개월 실형이 확정됐고, 복역하다 2022년 8월 만기 출소했다.&lt;br&gt;&lt;br&gt;김씨는 2020년 7월 범행과 수사·재판 과정에서 2차 가해로 외상후스트레스장애(PTSD)를 겪었다며 위자료와 치료비 총 3억원을 청구하는 소송을 냈다. 아울러 직무수행 중 벌어진 범죄인만큼 충청남도 역시 배상 책임이 있다고 했다. 안 전 지사 및 충남 측은 “사건과 피해의 관련성이 없다” “배상 책임이 없다”고 주장했다.&lt;br&gt;&lt;br&gt;재판부는 “관련 형사사건과 증거에 의하면 피고 안희정의 강제추행, 피감독자 간음, 업무상 위력 등에 의한 추행이 인정된다. 원고가 주장하는 2차 가해 중 안희정의 배우자가 형사 기록에 포함된 진료기록 등을 유출해 비방글 게시를 방조한 책임도 인정된다”며 “피고 충청남도는 2차 가해를 제외한 안희정의 강제추행 등 불법 행위에 직무 수행 관련성에 있어 국가배상법의 책임이 있다. 신체 감정에 의하면 피고들의 불법 행위로 (김씨의) 외상 후 스트레스 장애가 발생했다고 봄이 타당하다”고 했다.&lt;br&gt;&lt;br&gt;이 사건 1심 재판이 지연된 것은 김씨의 정신적 피해에 대한 의료 감정 등이 지연됐기 때문인 것으로 알려졌다. 안 전 지사 측이 김씨가 제출한 각종 진료·진단 기록만으로는 성폭력과 피해 사이의 인과관계가 입증되지 않는다며 신체 감정을 요구한 것이다. 이 과정에서 여러 병원에서 감정을 하지 못했고 한 곳에서만 ‘정신적 피해가 인정된다’는 취지의 감정 결과가 회신됐지만, 이마저도 재감정을 요구해 재감정이 반복됐다.&lt;br&gt;&lt;br&gt;이날 판결 이후 김씨는 한국성폭력상담소를 통해 “오랜 시간이 걸렸다. 민사소송을 통해 그동안 성폭력의 피해를 입고도 정작 고통의 시간을 돌려받지 못했던 많은 분들께 작은 희망이 되길 바랐다. 재판부에서 안희정의 책임과 더불어 도청과 주변인들의 잘못에 대해서도 인정해주신 부분은 의미있다고 생각한다”며 “그럼에도 여전히 갈 길이 먼 지금의 현실에 안타까운 마음이다. 아직도 반성하지 않는 가해자 안희정과 충남도청 그리고 2차 가해자들과 끝까지 싸워 의미있는 한 걸음을 내딛겠다”고 말했다.&lt;br&gt;&lt;br&gt;김씨 측 소송대리인은 “기본적인 사실 관계는 특정됐는데, 피고 측에서 형사 사건 자체에 대해서도 무죄라고 주장하면서 다투고 신체 감정 등이 오래 걸리다보니 (판결이) 4년 가까이 걸렸다”며 “판결문을 받아 상세히 검토한 뒤 추후 입장을 정하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, 항소 이유서만 1360쪽…이재용 ‘부당합병’ 의혹 2심 시작</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/27/UFFIRO5TVJAZNIUEBTDTFKWJPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/27/UFFIRO5TVJAZNIUEBTDTFKWJPM/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 09:10:40 +0000</pubDate>
-      <content:encoded>삼성그룹 경영권 승계와 관련된 부당 합병, 회계 부정 혐의 등으로 기소돼 1심에서 무죄를 선고받은 이재용 삼성전자 회장의 항소심 첫 재판이 27일 열렸다. 검찰은 1300쪽에 달하는 항소이유서를 비롯해 2000건이 넘는 새로운 증거를 제출했고 증인도 열 명 넘게 신청했다. 이에 이 회장 측은 “검찰이 신청한 증인이 적절한 지 잘 모르겠다”며 반박했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2H4BZ5QW35MHBMI2YH6S2BU7J4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재용 삼성전자 회장이 유럽 출장을 마치고 지난 3일 오전 서울 강서구 서울김포비즈니스항공센터(SGBAC)를 통해 귀국하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 27일 서울고법 형사13부(재판장 백강진) 심리로 열린 이 회장의 항소심 첫 공판준비기일에서 1심에서 내지 않았던 증거 약 2300건의 목록을 추가 제출한 것으로 파악됐다. 공판준비기일은 사건 쟁점과 증거를 정리하는 절차로 피고인의 출석 의무가 없어서 이 회장은 이날 법정에 나오지 않았다. 이 회장 측 변호인은 10여명이 출석했다. 이 재판에는 최지성 전 삼성전자 미래전략실장, 장충기 전 미전실 차장, 최치훈·김신 전 삼성물산 대표, 김태한 삼성바이오로직스 대표 등 삼성그룹 경영진 11명도 피고인으로 이름을 올리고 있다.&lt;br&gt;&lt;br&gt;재판부는 이날 “검찰이 항소이유서를 6개 제출했는데 총 1360페이지다. 검사의 항소 이유에 대해 변호인이 인정하는 부분은 전무하다고 여겨지는데 인정하는 부분이 있느냐”고 물었고, 이에 변호인들은 “없다”며 항소이유를 사실상 전부 부인했다.&lt;br&gt;&lt;br&gt;아울러 검찰은 “항소심 절차를 최대한 신속히 진행하기 위해 최소 규모로 증인을 신청했다. 이 전문가들에게 어떠한 의견도 내달라고 요청한 사실이 없는 만큼 전문가적 양심에 따라 진술할 수 있을 것”이라고 설명하며 외부감사법(외감법)과 자본시장 전문가, 삼성그룹 전현직 임직원 등 11명을 증인으로 신청했다고 밝혔다.&lt;br&gt;&lt;br&gt;이에 이 회장 측 변호인들은 “검찰이 신청한 증인 중 상당수는 이 사건을 직접 경험한 사람이 아니다. 검찰 의견에 맞는 진술을 법정에서 듣겠다는 게 항소심에서 적절한지 의문이다. 이분들은 벌써 다수의 방송, 저서, 기고문 등에 본인의 의견을 밝혀왔다. 필요하면 이러한 기고문들을 제출해도 된다. 만약 이런 증인들이 채택된다면 이를 반박하기 위해 피고인 측에서도 증인을 신청할 수밖에 없다”고 맞섰다.&lt;br&gt;&lt;br&gt;재판부도 “11명 중 대다수는 이미 진술조서가 작성돼 있어 새로운 증거가 아니다. 서면으로도 충분히 의견을 개진할 수 있지 않나 싶다”며 “부정회계 허위 공시, 외감법 위반 등과 관련해선 학자들 사이에서도 의견이 대립하는 만큼 굳이 이들이 출석할 필요가 있나 싶다”고 짚었다.&lt;br&gt;&lt;br&gt;재판부는 증인 신문 필요성에 대한 양측의 이견이 있다는 점과 변호인들이 검찰 측 증거를 열람·복사하는 데에도 시간이 소요된다는 사실을 감안해 약 2개월 뒤인 7월 22일에 한 차례 더 공판준비기일을 진행하기로 했다. 그러면서 “이날(7월 22일) 종결을 목표로 하겠다”고 했다.&lt;br&gt;&lt;br&gt;이 회장은 2015년 제일모직과 삼성물산을 합병하면서 경영권 승계와 그룹 지배력 강화에 유리한 방향으로 주식 시세를 조종했다는 혐의와 이 과정에서 제일모직 자회사였던 삼성바이오로직스에 대한 분식회계에 관여했다는 혐의(자본시장과금융투자업에관한법률위반 등)를 받고 있다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 “제일모직과 삼성물산 합병은 두 회사 이사회의 합병 필요성 검토 등을 통해 결정됐으며 사업적 목적도 인정된다”면서 “검찰의 주장처럼 이 회장의 경영권 강화와 승계만이 합병의 목적이라고 볼 수 없다”고 판단했고, “두 회사 합병이 주주들에게 손해를 줄 의도가 있었다고 보기 어렵다. 분식회계 의도가 있다고 단정할 수도 없다”며 무죄를 선고했다. 이 회장과 함께 재판받은 전현직 임원 10명도 모두 무죄 판결을 받은 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>변협, 정직 中 업무 수행한 변호사 ‘제명’</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/27/LRZ7TK4XQVA6BAZ3NYY4YISRBA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/27/LRZ7TK4XQVA6BAZ3NYY4YISRBA/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 09:22:48 +0000</pubDate>
-      <content:encoded>대한변호사협회(변협)가 징계로 정직 중이던 시기 업무를 수행한 변호사에게 제명 처분을 내린 것으로 27일 전해졌다. 변협 차원에서 변호사를 제명한 것은 협회 창립 이래 네 번째라고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JUFHF2ZF7NJNBF7J4KSZKBUBZ4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대한변호사협회./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 변협은 정직기간 중 변호사 업무를 수행하고, 근무 중인 사무직원에 대해서도 신고하지 않은 변호사 임모(51)씨에 대한 제명 처분을 지난 21일 확정했다. 앞서 임씨는 지난 1월 9일 합의금 일부를 돌려주지 않고, 정직 기간 중 사건을 수임하려다 정직 6개월의 징계를 받은 상태였다. 이 징계에 따르면 임씨는 7월까지 변호사로서 업무를 수행할 수 없는 상태였다.&lt;br&gt;&lt;br&gt;임씨는 올해 받은 두 번의 징계를 제외하고도 품위유지 의무 위반‧성실 의무 위반‧사무직원 지휘 및 감독 소홀 등으로 6차례의 징계를 받은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;현행 변호사법에 따르면, 정직 처분 등 징계로 제명된 경우 5년이 지나야 변호사로 등록할 수 있다고 한다.&lt;br&gt;&lt;br&gt;최근 변협은 이른바 ‘문제 변호사’들을 상대로 정직‧과태료 등의 징계를 내리고 있다. 변협은 학교 폭력 피해자 유족의 소송을 맡고도 재판에 불출석해 ‘재판 노쇼’ 논란을 빚은 권경애(59‧사법연수원 33기) 변호사에 대해 작년 8월 정직 1년의 징계를 내린 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘삼성전자 특허 유출’ 삼성 前 부사장 구속영장 청구</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/27/ZWTI62HEHZEZTOVHNDGIR5RCRI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/27/ZWTI62HEHZEZTOVHNDGIR5RCRI/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 09:13:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CW6NVFSZQDVUDNLUKGQACG43GI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;삼성전자 서울 서초사옥. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘삼성전자 내부 특허 자료 유출 사건’을 수사하는 검찰이 안승호 전 삼성전자 IP센터장(부사장)에 대한 구속영장을 재청구했다.&lt;br&gt;&lt;br&gt;서울중앙지검 정보기술범죄수사부(부장 이춘)는 27일 부정경쟁방지 및 영업비밀보호에 관한 법률 위반 혐의로 안 전 부사장에 대한 구속영장을 재청구했다고 밝혔다. 지난 1월 구속영장이 한 차례 기각된 뒤 넉 달 반만이다.&lt;br&gt;&lt;br&gt;안 전 부사장은 엔지니어 출신 미국 변호사로, 2010년부터 IP(지식재산)센터장을 지내며 애플과의 특허 소송 등을 담당했다. 2019년 삼성전자에서 퇴직한 후 시너지IP라는 특허 전문 회사를 차렸다. 이후 안 전 부사장은 알고 지내던 삼성전자 내부직원으로부터 유출한 기밀자료를 이용해 삼성전자를 상대로 2021년 미국 법원에 특허침해소송을 냈다. 테키야라는 음향 기기 업체가 보유한 오디오 녹음 장치 등 특허 10여 건을 삼성이 도용해 무선 이어폰에 무단으로 활용했다는 내용이었다.&lt;br&gt;&lt;br&gt;그러나 최근 미국 텍사스 동부지법은 최근 삼성 측 손을 들어줬다. 미 법원은 판결문에서 “안 전 부사장이 삼성 내부 기밀을 활용해 소송을 제기한 것은 변호사로서 성실 의무를 위반한 것”이라며 “삼성전자 재직 당시 회사 지원으로 변호사 자격을 취득하고도 소송을 낸 것은 법치주의에 반하는 부정직하고 기만적이며 혐오스러운 행동”이라고 했다.&lt;br&gt;&lt;br&gt;검찰은 또 한국과 미국, 중국 특허법인으로부터 삼성디스플레이의 사내 특허 출원 대리인 등에 선정시켜주는 대가로 수년간 약 6억원을 챙긴 삼성디스플레이 전 직원 이모씨에 대해서도 배임수재 등 혐의로 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>군기훈련 받다 숨진 훈련병, 완전군장 달리기 시켰다</title>
       <link>https://www.chosun.com/politics/diplomacy-defense/2024/05/27/U5FFJQQBPVB2XPXOU6IYLCHXSI/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/diplomacy-defense/2024/05/27/U5FFJQQBPVB2XPXOU6IYLCHXSI/</guid>
@@ -890,15 +912,6 @@
       <description/>
       <pubDate>Mon, 27 May 2024 09:11:40 +0000</pubDate>
       <content:encoded>최근 숨진 육군 훈련병이 간부로부터 규정을 어긴 군기훈련을 받았다는 의혹이 27일 제기됐다. 규정에 없는 ‘완전군장 구보·팔굽혀펴기’를 시켰다는 것이다.&lt;br&gt;&lt;br&gt;육군 관계자는 이날 기자들과 만나 훈련병이 군기훈련을 받던 상황과 관련해 “규정에 부합되지 않은 정황이 있는 것으로 알려졌다”며 “구체적인 상황은 (군 당국이) 민간 경찰과 조사 중이어서 설명이 제한된다”고 밝혔다. 본지 취재를 종합하면 사망한 훈련병은 간부 지시에 따라 완전군장한 상태로 연병장을 구보(달리기)로 돌았고 완전군장 차림으로 팔굽혀펴기도 했다고 한다. 군기훈련 규정에 따르면 수십㎏에 달하는 완전군장 상태에서는 걷기만 시키도록 하고 있는데 이를 위반한 것이다. 군기훈련은 군기 확립을 위해 장병에게 지시하는 체력 단련 등을 말한다. 과거 ‘얼차려’에 법률적 근거가 없다는 지적이 나오자 군은 근거 규정과 절차를 마련해 제도화했다.&lt;br&gt;&lt;br&gt;육군은 사망한 훈련병이 군기훈련을 받은 이유에 대해 밝히지 않았지만, 군인권센터는 이날 “제보에 따르면 (사망한 훈련병을 포함해) 훈련병 6명이 밤에 떠들었다는 이유로 얼차려를 받았다”고 주장했다. 군인권센터는 사망 훈련병이 ‘몸이 안 좋다’고 호소했는데 이를 묵살했다는 제보도 받았다고 했다.&lt;br&gt;&lt;br&gt;육군에 따르면 사망한 훈련병은 지난 13일 해당 부대 신병교육대로 입대했다. 23일 군기훈련 중 쓰러져 민간 병원으로 후송돼 치료받았지만 25일 숨졌다. 해당 훈련병이 기저 질환을 가지고 있었는지는 확인되지 않았다. 육군은 훈련병이 사망한 지 만 하루가 지난 26일 밤 이를 외부에 공개했다. 육군은 그러면서 “유가족이 보도를 원치 않았고 지금도 원치 않고 있다”고 했다. 육군은 사망한 훈련병의 순직을 결정하면서 일병으로 추서했다.&lt;br&gt;&lt;br&gt;최근 육군에서는 사망 사고가 이어지고 있다. 지난 21일 세종시 모 부대에서 신병 교육을 받던 훈련병이 수류탄 사고로 숨졌다. 27일에는 강원도 모 부대 위관급 장교가 차량에서 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>주택 철거하던 60대, 5m 깊이 우물터로 추락 사망</title>
-      <link>https://www.chosun.com/national/regional/2024/05/27/LVUVX7ZZRFCYHCLRA6KPOLUGTU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/05/27/LVUVX7ZZRFCYHCLRA6KPOLUGTU/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 08:53:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEGSA4V3LJ7PBMEFV22O36LUPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주택 철거 공사를 하던 60대 남성이 공사장 인근 우물터로 추락해 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;울산경찰청에 따르면 27일 오전 11시쯤 울산시 남구 상개동 한 주택 철거 현장에서 60대 작업자 A씨가 5m 깊이의 우물터 아래로 추락했다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 119구조대원들은 공사장 근처 우물터를 수색해 A씨를 발견했으나, 당시 숨진 상태였던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 당시 A씨가 철거 중이던 주택의 담벼락이 무너지면서 우물터로 떠밀려 추락한 것으로 추정하고 있다.&lt;br&gt;&lt;br&gt;경찰은 현장 관계자 등을 대상으로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“나 조폭이야” 시민 무차별 폭행 남성들, 진짜 조폭이었다</title>
@@ -918,15 +931,6 @@
       <pubDate>Mon, 27 May 2024 07:31:14 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XCFWATJK5FBT7AOU7ZRDBPNYQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2021년 1월 24일 탈북 작가 장진성 씨의 성폭행 의혹에 대해 보도한 MBC 탐사기획 ‘스트레이트’./MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘유명 탈북작가 등으로부터 성폭력·성상납 강요 등을 당하였다’는 허위제보를 하여 MBC 탐사기획 ‘스트레이트’에 2회차에 걸쳐 내용이 나가도록 한 탈북 여성이 1심에서 실형을 선고받았다.&lt;br&gt;&lt;br&gt;28일 법조계에 따르면 서울서부지법 형사6단독 지충현 판사는 정보통신망법상 명예훼손, 협박 혐의로 기소된 승설향(36)씨에게 지난 22일 징역 6개월을 선고했다.&lt;br&gt;&lt;br&gt;승씨의 제보는 지난 MBC 스트레이트를 통해 나갔다. MBC는 2021년 1월·2월 두 차례 ‘유명 탈북 작가 장진성, 그에게 당했다. 탈북 여성의 폭로’ 등의 제목으로 의혹을 제기했다. 당시 뉴스데스크도 관련 내용을 소개했다.&lt;br&gt;&lt;br&gt;승씨는 2020년 12월부터 다음해 2월까지 전씨에게 휴대폰 메신저 등으로 자신과의 관계를 가족에게 알리겠다는 등 위협해 협박한 혐의도 받는다.&lt;br&gt;&lt;br&gt;방송 직후 장씨는 MBC를 상대로 소송을 제기하고 서울 마포경찰서에 승씨를 명예훼손 혐의로 고소했다. 지난 3월 대법원은 장씨가 성폭행 혐의 등에 대해 수사 기관에서 무혐의 처분을 받은 점을 들어, MBC와 담당 기자가 장씨에게 5000만원을 배상해야 한다고 판결했다.&lt;br&gt;&lt;br&gt;이와 관련 방송통신심의위원회는 지난 13일 전체 회의를 열고 MBC ‘스트레이트’와 MBC ‘뉴스데스크’에 법정 제재인 ‘관계자 징계’를 결정했다.&lt;br&gt;&lt;br&gt;승씨와 검찰 모두 1심 판결에 불복해 항소했다. 서울 서부지검은 “이 사건은 피고인이 기자에게 허위제보를 해 지상파에 방송되게 하고 수 회에 걸쳐 허위사실을 적시해 피해자들의 명예를 훼손한 것으로 사안이 중대하고 죄질이 불량하다”고 했다.&lt;br&gt;&lt;br&gt;2004년 탈북한 장씨는 북한 통전부 출신으로 2014년 출간한 탈북 수기 ‘Dear Leader(친애하는 지도자)’가 영미권 베스트셀러에 올랐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NCFWUFLH3JNKPF7IEJLCIKSW2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;탈북 작가 장진성 씨가 지난 13일 오후 서울 양천구 목동 방송통신심의위원회 앞에서 탈북여성 성폭력 의혹 보도 관련 방심위 의결에 대한 입장을 밝히고 있다. 
     방심위는 이날 전체회의를 열고 장 작가의 탈북여성 성폭력 의혹을 보도한 MBC '스트레이트' 등 7건을 의결했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원 “선임 지시로 저수지 들어갔다 익사했는데 ‘변사 처리’...軍은 유족에게 4억여원 배상하라” </title>
-      <link>https://www.chosun.com/national/court_law/2024/05/27/ADVTVFF3TJBG5JQ72NMEZDZ27Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/27/ADVTVFF3TJBG5JQ72NMEZDZ27Y/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 May 2024 02:32:32 +0000</pubDate>
-      <content:encoded>군대 선임의 지시로 저수지에 들어갔다가 익사했지만, 군이 변사라는 ‘허위 발표’를 해 30여년 간 정신적 고통 등을 겪은 유족에게 정부가 4억여원을 지급해야한다는 법원 판결이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CCPERHQAXZGDNGTYHYLNGIGLTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 민사합의46부(재판장 김형철)는 피해자 A씨 유족 5명이 낸 소송에서 “국가가 유족에게 총 4억1000만여원을 지급하라”고 지난 22일 선고했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;사건은 약 39년 전으로 거슬러 올라간다. 1985년 6월 26일 전남 장성군 한 육군부대 근처 저수지에서 방위병 A씨가 익사했다. 당시 육군은 7월에 A씨가 폐결핵을 앓는 부친의 몸보신을 위해 물고기를 잡으러 입수했다가 심장마비로 숨졌다고 발표했다.&lt;br&gt;&lt;br&gt;유족은 A씨의 사망 원인을 믿을 수 없었고, 결국 30여년이 지나 군사망사고진상규명위원회에 A씨의 사망에 대한 재조사를 요청했다. 2022년 5월 위원회 조사 결과 A씨는 선임과 함께 쓰레기를 버리러 저수지에 갔는데, 이때 선임 지시로 낚시 그물을 치러 물에 들어갔다가 심장마비로 숨졌다. 부대 막내였던 A씨는 전날 야간 근무를 하고 퇴근하지 못한 채 선임이 지시한 일을 거부하지 못한 채 이행하다가 변을 당한 것이었다. 국방부는 2022년 9월 위원회의 진상규명 결정을 토대로 A씨의 사망을 순직으로 인정했다.&lt;br&gt;&lt;br&gt;이에 따라 유족은 작년 10월 “군 수사기관이 진실을 은폐해 정신적 고통을 받았고, A씨에 대한 보훈 등록도 제때 신청하지 못해 보훈급여를 받지 못했다”며 정부를 상대로 손해배상 청구 소송을 냈다.&lt;br&gt;&lt;br&gt;재판부는 “A씨의 사망 원인에 관한 실체적 진실이 밝혀지지 않은 채 변사로 처리된 것은 군 수사기관이 고의나 과실로 직무상 의무를 위반해 진실 규명을 위한 충분한 노력을 기울이지 않았기 때문”이라며 “이 사건이 일어난 때로부터 약 37년에 이르는 오랜 기간 배상이 지연되었다. 이들이(유족) 극심한 정신적 고통을 겪었으리라는 점은 명백하고 순직에 따른 절차도 밟지 못해 망인의 공헌에 대한 보상과 예우를 받지 못했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
