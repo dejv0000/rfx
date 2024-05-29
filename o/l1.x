@@ -6,8 +6,18 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>檢 출신으로 진용 갖추는 민정수석실…김주현 그립감 커질 듯</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/198658(1).jpg" alt="198658.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;이동옥 · 이원모 · 한정화 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;민정수석실 진용이&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2148"&gt;김주현&lt;/span&gt;(63·사법연수원 18기) 민정수석 중심으로 갖춰지고 있다. 민정비서관에 이동옥 행정안전부 대변인, 공직기강비서관에&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15624"&gt;이원모&lt;/span&gt;(44·37기) 전 대통령실 인사비서관을 내정한 가운데 최근 검찰 출신의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4948"&gt;한정화&lt;/span&gt;(54·29기) 법무법인 광장 변호사가 대통령실 신임 법률비서관에 내정됐다. &lt;br /&gt;&lt;br /&gt;한 법률비서관 내정자는 29일부터 서울 용산 대통령실로 출근했다. 그는 2003년 대구지검 검사로 시작해 2018년 7월까지 15년간 검사로 재직하다가 법무법인 광장에서 형사 전문 변호사로 활약했다. 검찰 재직 당시 서울중앙지검 부부장, 법무부 감찰담당관, 대검찰청 범죄정보담당관, 수원지검 공안부장 등으로 근무해 공안통 검사로 분류됐다.&lt;br /&gt;&lt;br /&gt;한 내정자는 김주현 민정수석의 측근으도로 알려져있다. 2015~2016년 김 수석이 대검찰청 차장으로 검찰총장 직무대행을 하고 있을 때 범죄정보 담당관으로 보좌했다. &lt;br /&gt;&lt;br /&gt;한 법조 관계자는 한 내정자에 대해 "'공안 기획통'으로 능력 있고 신중하게 일을 처리해 평판이 좋았다"고 평했다.&lt;br /&gt;&lt;br /&gt;이번에 부활한 민정수석실에 김 수석과 인연이 깊은 인사가 핵심 요직을 맡게 됐고 앞으로 대법관 임명, 야당의 특검법 공세 등 해결해야 할 현안이 많아 김 수석의 역할이 더욱 커질 것이란 전망이 나온다. &lt;br /&gt;&lt;br /&gt;우빈·안현 기자&lt;br /&gt;</description>
+			<pubDate>Wed, 29 May 2024 04:03:57 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198658</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198658</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/198658(1).jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>한정화 광장 변호사, 대통령실 법률비서관 내정</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/198657(1).jpg" alt="198657.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4948"&gt;한정화&lt;/span&gt;(54·사법연수원 29기) 법무법인 광장 변호사가 대통령실 법률비서관에 내정됐다.&lt;p&gt;   &lt;br /&gt;29일 광장 관계자는 "한 변호사가 오늘부터 용산 대통령실로 출근하는 것으로 알고 있다"고 말했다.&lt;br /&gt;&lt;br /&gt;한 변호사는 대구 오성고, 서울대 공법학과를 졸업하고 1997년 사법시험(39회)에 합격한 뒤 2003년 대구지검을 시작으로  2018년 7월까지 15년간 검사로 재직하다 광장의 형사 전문 변호사로 합류했다.  수원지검 공안부장, 서울중앙지검 공안부 부부장으로  재직하면서 노동,공직 선거, 정치자금 관련 사건을 많이 맡아 공안통으로 분류되고 법무법인 광장에서도  제22대 총선 선거대응팀에서 활약한 바 있다. 대검 범죄정보2담당관(부장검사)과 연구관, 법무부 감찰담당관실 부장검사 등을 역임하며 기업·금융 관련 범죄, 공무원 범죄 사건도 많이 담당했다.  2007년에는 일본 도쿄대 법학정치학연구과 연구원을 지낸 일본통으로도 알려져 있다. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</description>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/198657(1).jpg" alt="198657.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4948"&gt;한정화&lt;/span&gt;(54·사법연수원 29기) 법무법인 광장 변호사가 대통령실 법률비서관에 내정됐다.&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;29일 광장 측에서는 "한 변호사가 용산 대통령실로 가는 것으로 알고 있다"고 말했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;한 변호사는 대구 오성고, 서울대 공법학과를 졸업하고 1997년 사법시험(39회)에 합격한 뒤 2003년 대구지검을 시작으로  2018년 7월까지 15년간 검사로 재직하다 광장의 형사 전문 변호사로 합류했다.  수원지검 공안부장, 서울중앙지검 공안부 부부장으로  재직하면서 노동,공직 선거, 정치자금 관련 사건을 많이 맡아 공안통으로 분류되고 법무법인 광장에서도  제22대 총선 선거대응팀에서 활약한 바 있다. 대검 범죄정보2담당관(부장검사)과 연구관, 법무부 감찰담당관실 부장검사 등을 역임하며 기업·금융 관련 범죄, 공무원 범죄 사건도 많이 담당했다.  2007년에는 일본 도쿄대 법학정치학연구과 연구원을 지낸 일본통으로도 알려져 있다. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</description>
 			<pubDate>Wed, 29 May 2024 02:26:11 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/198657</link>
@@ -231,16 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198632</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/198632.jpg</media:thumbnail>
 			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 광장, 다음달 4일 '디지털 헬스와 AI' 웨비나 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/198631.jpg" alt="198631.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.leeko.com/leenko/main.do?lang=KR" target="_blank"&gt;&lt;b&gt;법무법인 광장&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3235"&gt;김상곤&lt;/span&gt;)이 6월  4일 오후 4시 ‘디지털 헬스와 AI 그리고 규제 혁신’이라는 주제로 줌(Zoom) 웨비나를 개최한다. &lt;br /&gt;&lt;br /&gt;생성형 AI(인공지능)의 등장으로 헬스케어 분야에서는 질병 진단부터 신약 개발까지 디지털 전환이 가속화되고 있다. 시장도 급성장하고 있다. 한국과학기술정보연구원에 따르면, 국내 의료분야 AI 시장 규모는 연평균 약 46% 성장하며 2026년에는 약 7450억 원에 이를 것으로 보인다. 시장이 성장하는 만큼 규제도 다양해질 것으로 전망된다.&lt;br /&gt;&lt;br /&gt;광장은 이런 시장 상황을 고려해 디지털 헬스 관련 기업을 대상으로 규제 혁신 현황 및 대응 방안을 모색하고자 이번 웨비나를 기획했다고 밝혔다. 의과 대학원에서 기초의과학을 전공한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="29979"&gt;방승일&lt;/span&gt;(40·변호사시험 2회) 광장 변호사가 ‘디지털 헬스케어 분야의 AI 서비스 관련 법적 쟁점’을 발표한다.&lt;br /&gt;&lt;br /&gt;이어 지식재산권·헬스케어 전문 변호사인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="26008"&gt;김민수&lt;/span&gt;(44·사법연수원 43기) 변호사가 ‘디지털 헬스케어 분야의 규제 혁신’을, IT 관련 규제 업무를 주로 담당해온&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13692"&gt;채성희&lt;/span&gt;(45·35기) 변호사가 ‘디지털 헬스케어의 AI 규제 전망’을 주제로 발표한다.&lt;br /&gt;&lt;br /&gt;광장 관계자는 “AI를 활용한 디지털 헬스 제품과 서비스를 개발하고자 하는 기업이 알아둬야 할 법적 쟁점과 최근 이뤄진 디지털 헬스 산업 규제 혁신 현황 및 대응 방안을 전하고, 나아가 AI 관련 전반적인 규제 전망을 공유하고자 한다”고 말했다.</description>
-			<pubDate>Tue, 28 May 2024 03:09:05 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198631</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198631</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/198631.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
