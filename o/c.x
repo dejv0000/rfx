@@ -13,6 +13,108 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 여친 때리고 말리던 행인 여성도 폭행… 30대 남성 송치</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/29/5VW2V7QLOFG2VLE432EVDMROBI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/29/5VW2V7QLOFG2VLE432EVDMROBI/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 May 2024 08:30:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;길거리에서 여자친구를 폭행하다가 이를 말리던 20대 여성 행인을 때려 전치 4주의 상해를 입힌 30대 남성이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 송파경찰서는 30대 남성 A씨를 폭행치상 혐의로 지난 17일 서울동부지검에 송치했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 25일 새벽 3시쯤 서울 송파구 방이동의 한 골목에서 여자친구를 폭행하고, 이를 제지한 20대 여성 행인 B씨까지 폭행해 전치 4주의 상해를 입힌 혐의를 받는다. 범행 당시 A씨는 술에 취한 상태였던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;당시 인근을 지나가던 B씨는 A씨가 길거리에서 여자친구를 폭행하는 장면을 목격하고 이를 제지했다고 한다. 이후 B씨는 A씨 여자친구를 근처 식당으로 피신시켰는데, A씨가 식당까지 뒤따라와 “니가 뭔데 말리냐”며 B씨에게 욕설을 퍼부은 뒤 무차별적인 폭행을 가했다고 한다.&lt;br&gt;&lt;br&gt;이 과정에서 B씨는 왼손 손가락 두 개가 골절되고 손목 인대가 파열됐다. 얼굴과 몸, 다리에도 타박상을 입어 전치 4주의 상해를 입은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희 수사 라인 유임...검찰 중간 간부 인사</title>
+      <link>https://www.chosun.com/national/court_law/2024/05/29/FSQ6NYW3NZD2ZE4JYLS72ASXDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/29/FSQ6NYW3NZD2ZE4JYLS72ASXDM/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 May 2024 08:40:11 +0000</pubDate>
+      <content:encoded>윤석열 대통령의 부인 김건희 여사의 ‘명품 백 수수 의혹’과 ‘도이치모터스 주가 조작 관여 의혹’ 수사를 맡은 서울중앙지검 부장검사들이 29일 검찰 중간 간부 인사에서 유임됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X5EP7LL3R6B6IFGE25ZGKNJF54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부 청사 전경. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 이날 오후 514명 규모의 고검 검사급(차장·부장검사) 인사를 발표했다. 김 여사 사건을 수사 중인 김승호 형사1부장(디올 백 수수 의혹)과 최재훈 반부패수사2부장(도이치모터스 주가조작 의혹)은 이번 인사에서 자리를 그대로 지켰다.&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표의 ‘쌍방울 대북 송금 의혹’을 수사하는 서현욱 형사6부장도 유임됐다. 직무대리 형태로 업무를 수행하던 안병수 수원지검 2차장도 이번 인사에서 같은 자리에 정식으로 발령났다.&lt;br&gt;&lt;br&gt;한편 도이치모터스 주가 조작 의혹을 비롯해 대장동 의혹, 민주당 전당대회 돈 봉투 의혹 등 서울중앙지검의 특별 수사를 담당하는 4차장에는 조상원 대구지검 2차장이 임명됐다. 또 형사1부를 지휘하는 서울중앙지검 1차장에는 박승환 법무부 정책기획단장이 임명됐다. 2·3차장검사 자리에는 공봉숙 여주지청 지청장과 국가정보원에서 파견 근무하던 이성식 서울북부지검 부부장이 각각 임명됐다.&lt;br&gt;&lt;br&gt;문재인 전 대통령 전 사위의 타이이스타젯 특혜 채용 의혹을 수사하던 이승학 전주지검 형사3부장은 서울중앙지검 특수3부장으로 발령났다. 이창수 신임 서울중앙지검장과 함께 서울중앙지검으로 옮긴 것이다. 전주지검 형사3부장에는 한연규 서울남부지검 부부장이 발령됐다.&lt;br&gt;&lt;br&gt;검찰 예산과 인사를 담당하는 법무부 검찰과장에는 임세진 형사기획과장이 임명됐다. 대검찰청 반부패기획관에는 용성진 서울중앙지검 공정거래조사부장이, 공공수사기획관에는 김종현 서울중앙지검 공공수사1부장이, 범죄정보기획관에는 하동우 서울남부지검 금융·증권범죄 합동수사부장이 각각 임명됐다. 서울중앙지검 특수1부장에는 이준동 현 형사5부장이 부임한다.&lt;br&gt;&lt;br&gt;법무부 대변인에는 노선균 서울중앙지검 기획담당관이, 대검찰청 대변인에는 이응철 순천지청 차장이 각각 임명됐다.&lt;br&gt;&lt;br&gt;법무부는 “주요 현안사건 담당 부서장들을 유임시키고, 부부장검사는 특별한 사정이 없는 한 전보 대상에서 제외해 업무 연속성이 유지되도록 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 예비군 훈련장에도 北 ‘오물 삐라’ 떨어졌다</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/29/NCUH5J53E5A2JDC6QVKP545DBY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/29/NCUH5J53E5A2JDC6QVKP545DBY/</guid>
+      <dc:creator>서보범 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 May 2024 09:14:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OTBDRQFHEVIFJAYOK6A3BUOGDU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오전 북한이 살포한 대남전단 추정 미상물체 잔해가 발견된 경기 평택시 진위면의 한 야산에서 군 관계자들이 현장을 수습하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 새벽 북한이 살포한 ‘대남 오물 전단(삐라)’가 전국 곳곳에서 발견되고 있는 가운데 예비군 부대에서도 삐라가 발견됐다.&lt;br&gt;&lt;br&gt;합동참모본부 등에 따르면 이날 오후 2시쯤 경기도 소재 한 예비군 훈련장에서 북한이 날린 오물 풍선 삐라가 떨어졌다는 신고가 접수됐다. 군 당국은 화생방신속대응팀(CRRT)과 폭발물 처리반(EOD)을 투입해 이를 수습한 뒤 현장 조사에 나섰다.&lt;br&gt;&lt;br&gt;해당 훈련장은 당시 예비군 훈련이 진행 중이었던 것으로 전해졌다. 예비군들이 오가는 보행길에 삐라가 떨어지면서 훈련에 참여 중이던 예비군들이 혼란을 겪었다고 한다.&lt;br&gt;&lt;br&gt;합참에 따르면 이날 오후 4시 기준 전국 260여곳에서 북한 오물 삐라 신고가 접수됐다. 합참은 “수상한 물체를 발견했을 경우 만지지 말고 신고해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이종섭 측 “尹대통령 통화, 항명수사와 무관…의혹 받을 부분 없어”</title>
+      <link>https://www.chosun.com/national/court_law/2024/05/29/YAC2B4W57NH6VBOQ3SMKQN6EJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/29/YAC2B4W57NH6VBOQ3SMKQN6EJ4/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 May 2024 09:06:02 +0000</pubDate>
+      <content:encoded>이종섭 전 국방부 장관 측이 지난해 8월 2일 윤석열 대통령과 세 차례 통화한 것과 관련해 “통화 기록 중 의혹의 눈초리를 받을 부분은 결단코 없다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QX4226TZ5BIDFCKTHCMEQQO6MA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이종섭 전 국방부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘해병대 채모 상병 수사 외압 의혹’ 피의자인 이 전 장관을 대리하는 김재훈 변호사는 29일 입장문을 통해 “대통령, 나아가 대통령실 관계자와의 통화 여부, 그리고 그 내용을 공개하는 것은 적절치 않다”면서도 “관련하여 제기되는 의혹들은 모두 사실무근이어서 반박하지 않을 수 없다”고 했다.&lt;br&gt;&lt;br&gt;김 변호사는 먼저 이른바 ‘대통령 격노설’에 대해 설명했다. 그는 “지난해 7월 31일 해병 순직 사건 관련으로 대통령의 격노를 접한 사실이 없으며 대통령실 그 누구로부터도 ‘사단장을 빼라’는 말을 들은 적도 그 누구에게 그런 말을 한 사실도 없다”면서 “이첩 보류 지시 등은 국방부 장관이 자신의 권한과 책임에 따라 정당하게 결정한 것”이라고 강조했다. 윤 대통령은 당시 국가안보실 회의를 주재했다.&lt;br&gt;&lt;br&gt;이어 지난해 8월 2일 윤 대통령과 세 차례 통화한 것에 대한 입장도 밝혔다. 통화기록에 따르면 윤 대통령은 당일 오후 12시 7분, 12시 43분, 12시 57분 세 차례에 걸쳐 이 전 장관에게 전화를 걸어 각각 4분 5초, 13분 43초, 52초간 통화했다. 이 전 장관은 8월 2일을 전후해 김용현 대통령 경호처장, 이상민 행정안전부 장관, 조태용 국가안보실장, 김태효 국가안보실 1차장 등과도 통화한 것으로 나타났다.&lt;br&gt;&lt;br&gt;김 변호사는 이 전 장관이 윤 대통령과 통화하기 전인 8월 2일 오후 12시 5분에 이미 박정훈 당시 해병대 수사단장의 항명 혐의에 대한 수사를 김동혁 국방부 검찰단장에게 지시한 상태였다고 설명했다.&lt;br&gt;&lt;br&gt;또 이 전 장관이 12시 12분에 김계환 해병대 사령관에게 박 수사단장에 대한 인사 조치를 검토하라고 지시했다며 “이는 항명죄 수사 지시에 수반되는 당연한 지시였다”고 덧붙였다.&lt;br&gt;&lt;br&gt;그러면서 “해병대 수사단장에 대한 항명죄 수사 개시와 인사 조치, 경북경찰청으로부터 사건 기록 회수는 모두 (이종섭 당시) 국방부 장관의 지시와 그 이행의 결과물이었다. 국방부 장관의 대통령, 대통령실 관계자, 국무총리, 국무위원 등과의 통화를 이상한 시각으로 보면 곤란하다”고 했다.&lt;br&gt;&lt;br&gt;김 변호사가 언론 공지를 통해 이러한 해명 입장을 밝힌 것은 이 전 장관과 윤 대통령 간 통화 내역이 전날 공개되며 채상병 사건 기록 회수와 재이첩 과정에 대통령실 등 ‘윗선’이 개입했다는 의구심이 커졌기 때문인 것으로 풀이된다.&lt;br&gt;&lt;br&gt;이 전 장관은 작년 폭우 실종자 수색 중 순직한 채상병 사건 조사 결과를 보고받고 결재했다가 경찰 이첩을 보류하고 법리 검토를 다시 하라며 회수하라고 지시했다는 혐의(직권남용) 등으로 작년 9월 고위공직자범죄수사처(공수처)에 고발됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>노사정 사회적 대화 30일 재개... 경사노위 “노정간 이견 해소”</title>
+      <link>https://www.chosun.com/national/labor/2024/05/29/E3U7WZUHUVEUPK26AUWAK3YN5Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/05/29/E3U7WZUHUVEUPK26AUWAK3YN5Q/</guid>
+      <dc:creator>김윤주 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 May 2024 08:58:13 +0000</pubDate>
+      <content:encoded>30일 노동시장 이중 구조 해소, 근로 시간, 정년 연장 등을 논의할 노·사·정 간 사회적 대화가 재개된다. 대통령 직속 사회적 대화 기구인 경제사회노동위원회(경사노위)는 29일 “공무원근무시간면제심의위원회 공익위원 선정과 관련한 노정간 이견을 해소했다”며 “지난 2월 노사정 합의에 따라 출범하기로 한 ‘지속가능한 일자리와 미래세대를 위한 특별위원회’를 30일 개최하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;지난 2월 현 정부 들어 처음으로 사회적 대화가 열렸지만, 이후 일정이 연기되며 현재까지 별다른 진전이 없었다. 당시 경사노위는 최고 의결 기구인 본위원회를 열고 노동 개혁 의제와 방향을 담은 선언문 채택 등 5가지 안을 상정해 의결했다. 그리고 이에 따라 근로시간 개편과 노동시장 이중 구조(불평등) 완화, 퇴직 연령 조정 등을 논의할 세 위원회를 만들어 운영하기로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YADNP3WMPTGOYXEJSJBDMEZQLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 서울 종로구 경사노위 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;원래 지난 4월 초 세 위원회 중 첫 번째로 ‘지속가능한 일자리와 미래세대를 위한 특별위원회’(특위)를 출범할 계획이었다. 하지만 근로자 대표인 한국노동조합총연맹(한국노총)이 불참하며 출범 일정이 한 달 넘게 미뤄졌다. 전국민주노동조합총연맹(민주노총)은 1999년 경사노위 전신인 노사정위원회를 탈퇴한 후 26년째 사회적 대화에 참여하지 않고 있다.&lt;br&gt;&lt;br&gt;한국노총은 사회적 대화와 별개로 경사노위에 구성될 ‘공무원·교원 근로시간 면제(타임 오프제) 심의 위원회’ 구성을 문제 삼은 것으로 전해졌다. 타임 오프제는 노조 전임자가 노조 활동을 한 시간도 근무시간으로 인정해 주는 제도인데, 심의위가 대상 인원과 조건 등을 정해야 한다. 심의위는 노동계 추천 인사 5명, 정부 추천 5명, 공익위원 5명 등 총 15명으로 구성된다.&lt;br&gt;&lt;br&gt;그런데 한국노총이 정부가 제시한 공익위원 후보들이 사용자 편향적이라고 주장하며 공익위원 중 2명을 친노동계 인사로 임명하라고 요구하면서 갈등이 생겼다. 심의위 구성 문제는 이날 오후 한국노총 공무원노동조합연맹이 김문수 경사노위 위원장을 만나 기존 정부안대로 심의위를 구성하기로 결정하며 해결됐다. 경사노위 관계자는 “공무원노조 측에서 더 이상 사회적 대화를 미루는 것은 실익이 적다고 판단해 통 큰 양보를 했다”고 말했다.&lt;br&gt;&lt;br&gt;사회적 대화가 지연된 원인이 해소되면서 30일 바로 특위가 출범하게 됐다. 경사노위는 의제별위원회인 ‘일·생활 균형위원회’와 ‘인구구조 변화 대응 계속고용위원회’도 빠른 시일 내 발족한다는 계획이다.&lt;br&gt;&lt;br&gt;특위에선 노동시장 이중구조 문제를 다룬다. 이중 구조란 노동 시장이 원청과 하청, 대기업과 중소기업, 정규직과 비정규직 등 고용 형태에 따라 임금과 고용 안정성의 차이가 크게 갈라진 문제를 말한다.&lt;br&gt;&lt;br&gt;특위는 이원덕 전 한국노동연구원장이 위원장을 맡고, 노사정 관계 기관의 부대표자급 각 3명씩과 공익위원 6명 등 총 16명으로 구성된다. 발족일로부터 6개월간 운영될 예정이다.&lt;br&gt;&lt;br&gt;김문수 경사노위 위원장은 “현재 우리 노동시장의 활력은 떨어지고 격차는 심화되고 있어 이대로 가다간 청년에게 미래가 없다”면서 “노사정은 상생과 협력의 정신을 토대로 사회적 논의에 진지하게 임하여 타협점을 찾기 바란다”고 당부했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title> ‘방산도시’ 구미에서 31일까지 항공방위물류 박람회 열린다</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/29/AAWRO6WQDVGBTM4SR7XFD3ZWJA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/29/AAWRO6WQDVGBTM4SR7XFD3ZWJA/</guid>
+      <dc:creator>구미=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 May 2024 09:08:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FUL3N63XUNDDRATTWJEZWWA6QM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;29일 경북 구미시 산동읍 구미코에서 열린 2024 항공방위 물류 박람회에서 김장호 구미시장 등 참가자들이 전시물을 보고 있다./구미시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘방산 도시’ 경북 구미에서 항공·방위·물류 기업이 참여해 첨단 기술을 선보이는 박람회가 열렸다.&lt;br&gt;&lt;br&gt;29일 구미시 산동읍 구미코에서 ‘2024 항공방위 물류 박람회’가 개막했다. 박람회는 오는 31일까지 사흘간 열린다. 경북도와 구미시가 공동 주최하고 국방부·산업통상자원부·방위사업청·국토교통부·공군 등이 후원하며 국내 최대 항공우주·방산 전시회를 개최한 한국한공우주산업진흥협회에서 주관했다.&lt;br&gt;&lt;br&gt;이 박람회엔 한화시스템·LIG 넥스원을 비롯한 국내 대표 항공·방산 기업 등 국내외 75개 기업과 기관이 참가했다. 중국의 남방항공, 브라질의 항공기 제조업체 엠브라에르, 한국항공서비스, 한국국제물류협회 등도 참가했다.&lt;br&gt;&lt;br&gt;특히 박람회 개막식에선 LIG 넥스원이 구미에 2027년까지 2000억원을 투자해 방산 공장을 증설한다는 내용의 투자 양해 각서를 체결했다. LIG 넥스원이 구미에서 양산하는 ‘천궁II’(지대공 미사일)는 2032년 세계시장 점유율 1위를 차지할 것으로 전망된다.&lt;br&gt;&lt;br&gt;박람회는 오는 2030년 개항 예정인 대구경북신공항과 관련해 국내 항공·방위·물류 산업의 현주소를 짚어보고 투자 유치 및 산업 협력 등을 모색하자는 취지에서 마련됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A256RH2NBZK37KGG5UFXVSNO5I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김장호 구미시장이 29일 경북 구미코에서 열린 항공방위물류 박람회에서 LIG 넥스원의 사업 관련 설명을 듣고 있다/구미시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수출상담회에선 에어버스, 보잉, GE에어로스페이스 등 국제 기업이 참여해 국내 기업의 해외시장 진출 관련 상담을 진행했다. 구미시는 경북도와 함께 해외 기업과 교역이 가능한 지역 강소기업을 발굴할 방침이다.&lt;br&gt;&lt;br&gt;이날 오후에는 구미코 3층에서 ‘구미첨단방위산업 포럼’도 함께 열렸다. 구미시·방사청·구미전자정보기술원·한국항공우주산업진흥협회 소속 참가자 80여명은 국내 방산 발전을 위한 최신 기술을 공유하고 구미 방산 육성 전략을 논의했다.&lt;br&gt;&lt;br&gt;김장호 구미시장은 “이번 박람회는 국내 항공우주 및 방위산업의 발전을 촉진하는 기회가 될 것”이라며 “구미가 국가 대표 방산 도시로 자리매김하도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘3년간 유실물 3000만원 횡령’ 경찰서 직원 송치</title>
+      <link>https://www.chosun.com/national/incident/2024/05/29/ZE2XONDINRBT3DQTEJNDNQSQIQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/05/29/ZE2XONDINRBT3DQTEJNDNQSQIQ/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 May 2024 08:56:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J3D2R6MT4NDJVKLOHYSMX3YQBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초경찰서./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰서 유실물 담당 직원이 유실물 3200만여원을 빼돌려 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 방배경찰서는 횡령 혐의를 받는 서초경찰서 행정관 50대 여성 A씨를 지난달 말 검찰에 송치했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;서초서 경리계 직원인 A씨는 지난 2020년부터 지난해까지 약 3년간 경찰서 유실물 업무를 담당하며 현금 유실물 3200여만 원을 빼돌린 혐의를 받는다. 주인이 찾아가지 않은 유실물은 국고로 귀속되어야 하지만 A씨가 이를 빼돌린 것이다.&lt;br&gt;&lt;br&gt;서초서는 지난 1월 A씨의 혐의를 인지해 대기발령 조치한 후 서울경찰청에 직무고발했다. 지난 2월 서울경찰청으로부터 사건을 배당받은 방배서는 A씨를 수사해 왔다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 2000년대 초반부터 서초서에서 근무했다. 또 A씨는 자신의 혐의를 일부 인정한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“나 엄마 친군데…” 아산서 초등생 유괴하려던 30대 붙잡혀</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/05/29/D6KAKAXM7BFOHOU63UWAYFOYDY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/05/29/D6KAKAXM7BFOHOU63UWAYFOYDY/</guid>
+      <dc:creator>아산=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 May 2024 08:53:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJDFYYYGLCAAZ4KDWFNN26CXSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아산경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 아산 한 아파트 인근에서 초등학생 유괴를 시도한 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;아산경찰서는 미성년자약취·유인 혐의로 A씨(30대)를 붙잡아 조사 중이라고 29일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 28일 오후 3시쯤 아산시 탕정면 한 아파트 단지 앞에서 초등학교 저학년 남학생 B군을 유인해 자신의 차에 태우려 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 차량에서 창문을 열고 인도에 있던 B군을 향해 “내가 엄마 친군데, 엄마가 아프니까 같이 가자. 빨리 타”라고 말했다.&lt;br&gt;&lt;br&gt;하지만 B군은 A씨의 말을 무시하고, 아파트 경비실과 부모에게 알린 것으로 전해졌다.&lt;br&gt;&lt;br&gt;B군 부모의 신고를 받고 출동한 경찰은 방범카메라(CCTV) 분석을 통해 2시간 30여분 만에 인근 도로에서 A씨를 붙잡았다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨를 상대로 정확한 범행 경위를 조사 중”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/SJDFYYYGLCAAZ4KDWFNN26CXSI.jpg?width=2539&amp;height=1434&amp;auth=adef0294ae6f53691f63ee3f869eedc15126da733085331a22070192fa254c6e&amp;smart=true" type="image/jpeg" height="1434" width="2539">
+        <media:description type="plain">아산경찰서</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“몸이 먼저 반응”… 침몰 중인 태국 보트에서 韓 관광객 구한 남성 정체</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/29/CM4HWWXIY5EKBES7ZXFT3KG2DI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/29/CM4HWWXIY5EKBES7ZXFT3KG2DI/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 May 2024 08:37:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KDS2O6OASFCIJPVXWLQ3KTCQDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;태국에서 투어 중 침몰한 배. 구조된 한국인 관광객 김씨가 해양경찰청 게시판에 공유했다. /해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“배에서 내리세요!”&lt;br&gt;&lt;br&gt;서귀포해양경찰서에서 근무하는 해양경찰이 태국에서 침몰한 보트 승객을 구조한 사실이 뒤늦게 알려졌다. 당시 이 해경은 한국인 관광객들은 물론 현지 운전자까지 우왕좌왕 중일 때 이 같은 말로 상황을 재빠르게 통솔했고, 결국 인명피해 없이 모두 안전하게 구조됐다.&lt;br&gt;&lt;br&gt;이 같은 사연은 구조된 한국인 관광객 중 한명인 김모씨가 지난 13일 해양경찰청 홈페이지 ‘칭찬합시다’ 게시판에 직접 당시 상황을 자세히 전하면서 알려졌다.&lt;br&gt;&lt;br&gt;글에 따르면, 사건은 지난 6일로 거슬러 올라간다. 당시 김씨를 비롯해 한국인 관광객 총 4명은 태국의 유명 수상 시장에서 현지 운전자가 조종하는 보트를 타고 관광을 즐기고 있었다.&lt;br&gt;&lt;br&gt;그러나 평화로운 시간은 얼마 가지 못했다. 앞서 지나간 보트가 일으킨 거센 물결에, 관광객들이 탄 보트가 중심을 잃고 수로 벽에 부딪히면서 가라앉기 시작했기 때문이다. 당황한 운전자는 배를 수면 위로 되돌리려 엔진을 후진 작동시켰으나, 되레 배 뒤편으로 물이 빠르게 찼다.&lt;br&gt;&lt;br&gt;모두가 얼어붙었다. 상황을 수습해야 할 현지 선장조차 당황해 아무런 조처를 하지 못했다. 그사이 물은 관광객들 허리춤을 넘어 턱밑까지 차올랐다. 김씨는 “운전자는 당황해서 배를 만지고만 있었고 한국인을 대피시키거나 구조하거나, 건강을 걱정하는 등의 행동을 전혀 보이지 않았다”며 “물이 저희 목 아래까지 차올랐지만, 저희는 너무 당황해서 배에서 내리지도 못하고 아무것도 하지 못하고 있었다”고 회상했다.&lt;br&gt;&lt;br&gt;이때 보트에 함께 탄 관광객 중 한명이 “배에서 내리세요!”라고 소리친 뒤 물에 뛰어들어 관광객들의 구조를 도왔다. 우왕좌왕하던 관광객들은 이 남성의 외침에 정신을 차린 뒤 배에서 급하게 탈출을 시도했다. 그렇게 모두 수로 벽 위로 탈출했을 때, 배는 완전히 침몰한 상태였다. 조금이라도 늦었다면 인명피해가 발생할 수 있었던 것이다. 이 남성은 이후에도 관광객들의 건강 상태를 확인하고, 사건 발생 경위를 설명해 주는 등 수습을 도왔다.&lt;br&gt;&lt;br&gt;알고 보니 능숙하게 상황을 통솔한 남성의 정체는 서귀포해양경찰서 5002함 안전팀 소속 김민성 경장이었다. 김씨는 “사고 후 저희를 구해주신 분이 해경이라는 것을 알게 됐다”며 “말도 잘 통하지 않는 곳에서 저희의 목숨을 구해주신 김민성 경장께 다시한번 감사의 말씀을 전한다”고 했다.&lt;br&gt;&lt;br&gt;이후 이뤄진 언론 인터뷰에서 김 경장은 “몸이 먼저 반응했다”고 했다. 김 경장은 JIBS에 “보트 선장이 운전에 미숙했던 것 같다”며 “제가 봤을 때는 이대로 계속 앉아 있으면 보트와 함께 승객들이 물에 빠질 게 뻔해서 바로 배에서 내리라고 소리쳤다”고 했다. 그러면서 “물 밖으로 모두 구조를 돕고 나서 보니까 다행이라는 생각이 들었고, 평소에 훈련을 많이 해놓은 덕분에 구조할 수 있었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>목욕탕서 실신 60대, 출장 중이던 검찰 수사관이 심폐소생술로 구해</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/29/2I4ZDBNPSND7NGZTJ7QSZ24MCQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/29/2I4ZDBNPSND7NGZTJ7QSZ24MCQ/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 May 2024 08:15:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JRDBQGRILZHMFHENSIAA3WX4ZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지검 신승호 수사관. /서울남부지검 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;목욕탕에서 의식을 잃고 쓰러진 60대 남성이 지방 출장 중이던 검찰 수사관의 심폐소생술로 목숨을 구했다.&lt;br&gt;&lt;br&gt;29일 검찰에 따르면 피의자 검거를 위한 출장 근무를 마친 서울남부지검 공판과(과장 김용덕) 자유형집행팀 신승호 수사관은 지난 20일 오후 6시 20분쯤, 전남 장흥군의 한 목욕탕에서 기절한 채 온탕에 쓰러져 있던 60대 남성 A씨를 목격했다.&lt;br&gt;&lt;br&gt;신 수사관은 곧바로 119에 신고를 했고 119 응급센터와 통화하며 구급대가 도착하기 전까지 A씨에게 심폐소생술(CPR)을 실시해 호흡을 재개하게끔 하는 데 성공했다. 신 수사관은 A씨가 전남 목포병원 중환자실에 입원할 때까지 곁을 지켰다고 한다.&lt;br&gt;&lt;br&gt;사건으로부터 일주일이 지난 28일 A씨의 가족들은 신 수사관에게 “아버지가 의식을 회복해 의사소통이 가능해졌다”며 “출장 중인 바쁜 처지에서도 생명을 구해주셔서 감사하다”고 인사를 건넸다.&lt;br&gt;&lt;br&gt;남부지검은 “앞으로도 이웃의 위급한 상황에 적극적으로 대응하는 따뜻한 검찰이 되도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>신생아 2명 살해 혐의 30대 여성, 일부 무죄에 검찰 항소</title>
+      <link>https://www.chosun.com/national/court_law/2024/05/29/GYQ6QCX7EJE7TOGIXYWBUK2P5Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/29/GYQ6QCX7EJE7TOGIXYWBUK2P5Q/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 May 2024 08:24:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SBM2E363W5AXNIN6O67JIDOWQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지방검찰청./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 낳은 신생아 2명을 살해한 혐의로 재판에 넘겨진 30대 여성에게 일부 무죄가 선고되자 검찰이 항소했다.&lt;br&gt;&lt;br&gt;인천지검은 살인 혐의로 기소했으나 일부 무죄와 함께 징역 5년을 선고받은 A(37)씨의 1심 판결에 불복해 항소장을 제출했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 “피고인은 2012년 9월과 2015년 10월 2차례에 걸쳐 생후 1~2일에 불과한 신생아를 살해하고, 암매장했다”며 “반인륜적 범행을 저지른 피고인에 대한 엄벌이 필요하다”고 했다. 이어 “무죄 선고된 2012년 9월 범행 부분의 시정과 죄에 상응하는 중한 형의 선고가 필요하다”며 항소 이유를 설명했다.&lt;br&gt;&lt;br&gt;검찰은 앞서 A씨에 대해 징역 20년을 구형했다. A씨는 1심 선고 직후인 지난 23일 법원에 항소장을 제출한 상태다. 이 사건의 2심 재판은 서울고법에서 열린다.&lt;br&gt;&lt;br&gt;A씨는 2012년 9월과 2015년 10월, 각각 서울시 도봉구와 인천시 연수구에서 자신이 낳은 신생아를 살해한 뒤 인근 야산 등에 유기한 혐의로 구속 기소됐다.&lt;br&gt;&lt;br&gt;1심 재판부는 이 중 2015년 범행에 대해서만 유죄를 인정했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 친모로서 보호해야 할 자녀를 살해했고, 생후 2일 된 피해자는 보호자에 의해 생을 마감했다”며 “자녀를 살해한 것에 대해 가볍게 처벌할 수 없고, 이런 비극이 반복되지 않도록 할 필요도 있다”고 했다.&lt;br&gt;&lt;br&gt;2012년 범행에 대해선 무죄를 선고했다. 재판부는 “피고인이 아이의 울음을 그치게 하려고 달래는 과정에서 숨졌을 가능성을 배제할 수 없다”며 이같이 판결했다.&lt;br&gt;&lt;br&gt;A씨는 인천 연수구가 지난해 11월 ‘2010∼2014년 출생아 중 미신고 아동’에 대한 전수 조사를 진행하자 압박감을 느끼고 경찰에 자수했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>다낭이 더 뜨거워졌다… 1500평 해변 클럽서 즐기는 파티</title>
       <link>https://www.chosun.com/national/weekend/2024/05/29/3G7DSBTY2FDTPKXGFEOHDP6KS4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2024/05/29/3G7DSBTY2FDTPKXGFEOHDP6KS4/</guid>
@@ -789,24 +891,6 @@
       <content:encoded>▲&lt;b&gt;이성근&lt;/b&gt; 별세, &lt;b&gt;이경훈&lt;/b&gt; 전 삼산골프랜드 대표, &lt;b&gt;이덕훈&lt;/b&gt; 조선영상비전 부장 부친상, &lt;b&gt;양회영&lt;/b&gt; 전 전남대병원 상임감사 장인상 = 28일20시35분 순천정원장례식장 101호실, 발인 30일8시40분, (061)754-4444&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘딸 편법대출’ 의혹 양문석, 검찰 소환조사 임박</title>
-      <link>https://www.chosun.com/national/incident/2024/05/28/IEFDOVUSZVCU7MQGP7CJMHM4CI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/05/28/IEFDOVUSZVCU7MQGP7CJMHM4CI/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 May 2024 14:00:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JPCXWMDB2FTKZBLORTKCEHF5KA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제22대 국회의원 선거 경기 안산갑에 출마한 양문석 더불어민주당 후보가 지난 3일 오전 경기 안산시 단원구 SK브로드밴드 한빛방송에서 열린 제22대 국회의원선거 방송토론회에 참석해 토론회를 준비하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 양문석(경기안산갑) 국회의원 당선자의 편법 대출 혐의를 수사 중인 검찰이 28일 “가까운 시일 내에 양 당선인을 소환 조사할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;수원지검 안산지청 형사4부(부장 이동근)는 지난 2021년 4월 새마을금고가 양 당선자의 딸 명의로 11억원의 대출을 내준 과정에서 불법 여부를 수사하고 있다. 검찰 관계자는 “양 당선자의 딸에게는 소환 통보를 했고 양 당선자는 조만간 통보할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;검찰에 따르면 양 당선자는 지난 2020년 8월 서울 서초구 잠원동에 위치한 40평대 아파트를 매입했다. 2021년 4월엔 이 아파트를 담보로 새마을금고에서 20대 장녀 명의로 11억원의 사업자 기업 운전자금 대출을 받았다. 대출 과정에서 제출한 서류는 대부분 허위인 것으로 밝혀졌다.&lt;br&gt;&lt;br&gt;검찰은 지난 14일 양 당선인의 잠원동 아파트와 안산 주거지, 대출을 시행해준 대구 수성새마을금고와 대출알선 업체 등을 압수 수색했다. 압수수색 영장에는 사기, 사문서위조 등 혐의와 사기 대출 의혹을 부인한 공직선거법상 허위사실공표 등의 혐의가 적시된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>일본여행 사진 올린 현아에 해외 네티즌 악플 세례, 무슨 일?</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/28/56ENJJOOZZFA3DYUJGLPOYCLCU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/56ENJJOOZZFA3DYUJGLPOYCLCU/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 May 2024 13:54:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PQPTBHX5QREILNHVNYI2PX2HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;현아가 올린 게시물. /현아 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘버닝썬 게이트’를 재조명한 BBC뉴스코리아의 다큐멘터리와 관련 그룹 비스트(하이라이트) 출신 용준형(35)과 공개 연애 중인 가수 현아(본명 김현아‧32)가 악플 세례에 시달리고 있다.&lt;br&gt;&lt;br&gt;현아는 28일 자신의 인스타그램 계정을 통해 일본 여행 중 찍은 것으로 보이는 여러 장의 사진을 공개했다. 현아가 식당에서 식사를 하거나 쇼핑을 하는 장면 등이 담긴 사진이었다.&lt;br&gt;&lt;br&gt;이번 게시물은 BBC뉴스코리아가 지난 19일 ‘버닝썬: K팝 스타들의 비밀 대화방을 폭로한 여성들의 이야기’라는 제목의 다큐멘터리를 공개한 후 현아가 처음 올린 것이었다.&lt;br&gt;&lt;br&gt;현아의 연인인 용준형은 2019년 버닝썬 사태 핵심 인물인 정준영이 공유한 불법 동영상을 본 사실이 있다고 인정한 후 하이라이트에서 탈퇴한 바 있다.&lt;br&gt;&lt;br&gt;다큐멘터리가 공개된 후 다수의 해외 네티즌들은 입장표명을 요구했지만 현아는 침묵한 바 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZD6S3EXB44QX5MXJ67HMVI2PLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 현아, 용준형./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해외 네티즌들은 영어 등으로 해당 게시물에 “나는 당신이 잘되기를 바라지만 당신의 경력은 점점 더 나빠지고 있다. 실수를 인정하면 다시 기회가 올 수도 있다” “난 더 이상 당신을 변호할 수 없다” “그냥 지나갈 거라 생각하고 문제를 무시하는 건 한심하다” “당신의 남자친구도 당신과 함께 이번 여행에 갔나?” 등의 댓글을 남기며 항의했다.&lt;br&gt;&lt;br&gt;반면 “현아가 아무 짓도 안 했는데 왜 공격하는 건가?” “그녀는 자신의 삶을 살고 있는 것”이라며 현아를 옹호하는 해외 네티즌들도 상당수 있었다.&lt;br&gt;&lt;br&gt;한편 다큐멘터리에 출연한 강경윤 기자는 그룹 카라의 고(故) 구하라가 ‘버닝썬 사태’ 취재 당시 큰 도움을 줬다고 밝혔다. 강경윤 기자는 버닝썬 사태 핵심 인물인 가수 승리, 정준영, 최종훈의 단체 카톡방을 처음 폭로했다.&lt;br&gt;&lt;br&gt;때문에 해외 네티즌들은 현아에게 “구하라를 꼭 기억해라” “구하라를 이렇게 배신하다니 믿을 수 없다” “당신은 여성의 편이 아니다” 등의 비판 댓글도 남겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4PUIHYDTDHVT5HSHUIJTOL6KI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;BBC뉴스코리아에서 공개한 가수 승리와 정준영의 과거 파티 현장. /BBC뉴스코리아 유튜브 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;승리는 상습도박, 성매매, 성매매알선 등의 혐의로 징역 1년6개월을 확정받고 지난해 2월 출소했다. 정준영은 2016년 여성을 만취시키고 집단 성폭행을 한 혐의 등으로 구속돼 징역 5년을 선고받았고 올해 3월 만기출소했다. 정준영에 앞서 최종훈이 2년 6개월의 형기를 채우고 2021년 11월 만기 출소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>가을 같은 봄 하늘…오늘 유독 파랗고 맑았던 이유</title>
       <link>https://www.chosun.com/national/transport-environment/2024/05/28/OEQ745TVM5BCNBLHJPH2WOLZVM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/05/28/OEQ745TVM5BCNBLHJPH2WOLZVM/</guid>
@@ -814,87 +898,6 @@
       <description/>
       <pubDate>Tue, 28 May 2024 10:19:25 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UTR66XOEMKGVASIV2BH42QQ5CY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;화창한 날씨를 보인 28일 오후 서울 용산구 국립중앙박물관에서 바라본 하늘이 푸른 모습을 보이고 있다. 2024.5.28/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 전국의 하늘이 가을처럼 청명(淸明)했다. 보통 봄에는 날이 맑더라도 지표에 내려앉은 먼지가 아지랑이 피듯 부유해 뿌연 경우가 많다. 그런데 이날은 완연한 가을처럼 하늘이 파랗고, 바람도 선선했다.&lt;br&gt;&lt;br&gt;가을 같은 날씨가 나타난 건 우리나라에 맑은 날씨를 가져오는 ‘이동성 고기압’의 성격이 여느 봄 때와는 달랐기 때문이다. 기상청에 따르면, 28~30일 우리나라는 북쪽에서 내려온 선선하고 건조한 공기의 영향으로 평년보다 기온이 조금 낮고, 공기는 미세먼지 없이 깨끗하겠다.&lt;br&gt;&lt;br&gt;봄철에 날이 맑은 건 우리나라가 이동성 고기압 영향에 드는 날이 많기 때문이다. 주로 서쪽에서 오는 이동성 고기압은 공기의 온도가 높다. 더운 공기가 우리나라를 덮으면 낮동안 햇볕에 의해 지표가 달궈지면서 먼지가 부유하게 된다. 먼지 때문에 햇볕이 산란하게 되고, 하늘 색깔도 탁해진다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5KERSQKMV5MF5OWTRY5UYIA5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 서울 중구 소월길에서 파란 하늘 아래로 남산케이블카가 움직이고 있다. 2024.05.28. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라로 들어오는 이동성 고기압이 꼭 따뜻하기만 한 것은 아니다. 북쪽에서 내려올 경우 공기의 온도가 낮고, 찬 공기는 가라앉는 성질이 있어 먼지가 떠다니지 않게 된다. 먼지가 없기 때문에 빛이 산란하는 일도 없고, 하늘도 새파랗게 보인다.&lt;br&gt;&lt;br&gt;지난주말 우리나라엔 전국적으로 비가 내렸다. 먼지를 한 차례 씻어낸 것이다. 그런데 비구름대를 동반한 저기압이 한반도를 통과한 후, 저기압이 빠져나간 상공을 북쪽에서 내려온 이동성 고기압이 차지하게 됐다. 날이 더 맑아지는 조건이 갖춰진 것이다. 바람이 건조해 습도가 낮아 꿉꿉하지 않고, 미세먼지도 없어 나들이 떠나기 좋은 날씨는 이렇게 만들어졌다.&lt;br&gt;&lt;br&gt;가을 같은 봄 날씨는 30일까지 이어질 전망이다. 29일은 전국이 대체로 맑은 가운데 일교차가 크겠다. 아침 최저기온은 9~16도, 낮 최고기온은 23~29도로 예보됐다. 미세먼지는 전국에서 ‘좋음’~’보통’ 수준을 보이겠다. 31일부턴 다시 따뜻한 이동성 고기압이 들어오면서 기온이 올라갈 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>온라인 대화방에서 성착취물 매매한 100여명 무더기 검거</title>
-      <link>https://www.chosun.com/national/incident/2024/05/28/NKYN75ZHKJC63JLCTAMULSPOMA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/05/28/NKYN75ZHKJC63JLCTAMULSPOMA/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 May 2024 13:15:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/23RX3AK2AEBRUUPMIYIY4DXKTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산남부경찰서/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온라인 채팅 플랫폼 ‘디스코드’ 대화방에서 미성년자 성 착취물 등을 매매한 100여명이 경찰에 무더기 입건됐다.&lt;br&gt;&lt;br&gt;부산 남부경찰서는 아동·청소년의 성보호에 관한 법률 위반 혐의 등으로 성 착취물 판매자와 구매자 등 100여명을 입건했다고 28일 밝혔다. 경찰은 올해 초 소셜미디어 등을 통해 성 착취물을 판매한다는 글을 보고 수사에 나섰다.&lt;br&gt;&lt;br&gt;검찰은 수사가 끝나는대로 판매자 등을 검찰에 송치할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, JMS 교주 정명석 등 4명 추가 기소</title>
-      <link>https://www.chosun.com/national/incident/2024/05/28/ZRVPU25Z55A6BMNGYXUMNCYNEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/05/28/ZRVPU25Z55A6BMNGYXUMNCYNEE/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 May 2024 13:10:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HNH4QYIWH7ERCJDABIG77ZWLOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;JMS 총재 정명석./JMS 공식 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 기독교복음선교회(JMS) 총재 정명석(79)씨 등의 추가 성범죄 사실을 파악해 정씨와 공범 3명 등 4명을 추가로 기소했다.&lt;br&gt;&lt;br&gt;대전지검은 28일 여성 신도 2명을 대상으로 모두 19차례에 걸쳐 성폭력 범행을 저지른 혐의(준강간죄)로 정씨를 추가 기소했다. 또 정씨의 범행에 가담하거나 도와준 혐의(준유사강간방조), 피해자가 고소하지 못하도록 각서를 쓰게 한 혐의(공동강요) 등으로 정씨의 주치의 A씨, JMS 인사담당자 B씨, 관리자 C씨를 불구속 기소했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “정씨와 공범들이 죄에 상응하는 처벌을 받을 수 있도록 하고, 피해자 보호에 만전을 기하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;정씨는 지난 2018년 2월부터 2021년 9월까지 충남 금산군의 수련원 등에서 23차례에 걸쳐 여신도들을 성폭행한 혐의 등으로 구속기소돼 현재 항소심 재판을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“내 이름 대면 다 알아” 만취 롤스로이스, 벤틀리 들이받고 큰소리</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/28/WCCHDPG5VVFYNJPGZ3Y32DRJKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/WCCHDPG5VVFYNJPGZ3Y32DRJKY/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 May 2024 12:55:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5L3M3WR5VVCAFKYGNOVMQ4FKNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;당시 사고 장면. /MBN 보도화면&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강남 한복판에서 만취 상태로 롤스로이스 차량을 몰다 주차된 벤틀리 차량을 들이받고 달아난 50대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;28일 경찰에 따르면 서울 강남경찰서는 50대 남성 A씨를 도로교통법상 음주운전 및 사고 후 미조치, 특정범죄가중처벌법상 위험운전치상 등 혐의로 입건해 조사 중이다.&lt;br&gt;&lt;br&gt;A씨는 지난 25일 밤 8시쯤 만취한 상태에서 자신의 롤스로이스 차량을 몰다 서울 강남구 논현동의 한 도로에서 발레파킹을 위해 주차된 벤틀리 차량을 들이받은 뒤 현장을 벗어났다.&lt;br&gt;&lt;br&gt;이 사고로 피해 차량 주변에 있던 50대 발레파킹 직원 B씨가 다리를 다쳐 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;사고 직후 A씨는 피해 차량의 주인에게 오히려 화를 내며 “내가 누군지 아느냐, 내가 이름 석 자만 대면 다 아는 사람”이라고 말한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이후 경찰차가 현장에 도착하자 A씨는 돌연 현장을 벗어났다가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 사고 당시 A씨의 혈중알코올농도는 면허취소 수준이었다. 마약 간이시약 검사 결과는 음성이 나왔다.&lt;br&gt;&lt;br&gt;경찰은 자세한 사건 경위를 조사한 뒤 A씨 사건을 검찰로 송치할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“저기요…” 술 취해 새벽 출근 여성 사무실까지 따라온 남성</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/28/ALYCG2BQKVCM7G2MXMCVRQJK7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/ALYCG2BQKVCM7G2MXMCVRQJK7M/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 May 2024 10:18:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q2JSLZJCMVGWPBJDMUG53RESBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사무실 침입을 시도한 A씨. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취해 처음 보는 20대 여성을 뒤쫓아 사무실 안까지 들어간 20대 남성이 건조물 침입 혐의로 입건됐다.&lt;br&gt;&lt;br&gt;28일 충남 천안 서북경찰서 등에 따르면 20대 남성 A씨는 지난 27일 오전 5시 30분쯤 천안 서북구 불당동에서 출근하던 20대 여성 B씨의 뒤를 따라 사무실 안까지 무단으로 침입한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;당시 A씨는 B씨가 비밀번호를 누르고 사무실 안으로 들어가자 문이 닫히기 전에 따라 들어갔다.&lt;br&gt;&lt;br&gt;B씨는 깜짝 놀라 A씨를 밖으로 밀어냈지만, A씨는 이후에도 6분가량 사무실 앞을 배회했다.&lt;br&gt;&lt;br&gt;B씨는 연합뉴스와의 인터뷰에서 “낯선 남자가 ‘저기요’라고 불러서 대답했더니 별다른 말이 없이 계속 서 있었다”며 “무시하고 사무실에 들어가려는 찰나에 갑자기 뒤따라와 너무 놀랐다”고 주장했다.&lt;br&gt;&lt;br&gt;B씨는 “경찰이 오기 전까지 계속 숨어 있었는데 (A씨가) 계속해서 문을 두드리며 ‘열라’고 소리쳤다”고 주장했다.&lt;br&gt;&lt;br&gt;A씨는 출동한 경찰에 의해 붙잡혔고, 다행히 B씨는 별다른 피해는 입지 않았다. A씨는 경찰에 붙잡혔을 당시 만취 상태였다고 한다. 경찰은 A씨의 신원을 확인한 뒤 귀가 조치했다. 이후 B씨 회사 측의 사무실 침입 신고를 추가로 받고, A씨를 입건했다.&lt;br&gt;&lt;br&gt;A씨는 경찰조사에서 “술을 너무 많이 마셔서 정신이 없었다”라며 “성적 목적을 가지고 침입하려던 것은 아니었다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>세브란스병원, 전립선암 이어 췌장암·간암 환자도 중입자 치료 시작</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/05/28/REWX5ENPPNH5VBIEAD6HLG7EJQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/05/28/REWX5ENPPNH5VBIEAD6HLG7EJQ/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 May 2024 12:26:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WTNRQG6FAZ3W7Y2RJZF7JCU344.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세브란스병원 방사선종양학과 금웅섭(오른쪽) 교수와 의료진이 정확한 치료를 위해 회전형 중입자 치료기를 조정하고 있다. /연세암병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세브란스병원이 28일 췌장암·간암 환자를 대상으로 중입자 치료를 시작했다. 그동안 전립선암 환자 위주로 중입자 치료를 해오다 이번에 췌장암, 간암으로 대상을 확대했다. &lt;br&gt;&lt;br&gt;서울 신촌 연세암병원은 이날 췌장암 3기 환자 김모(47)씨와 간암 3기 환자 이모(73)씨를 대상으로 각각 회전형 중입자 치료기를 가동했다고 밝혔다. 김씨는 주 4회씩 3주간 총 12회를, 이씨는 일주일간 총 4회를 각각 치료받는다. 앞서 김씨는 수술 불가 상태에서 항암을 거쳤고 이씨는 수술 후 재발이 두 차례 있었다. &lt;br&gt;&lt;br&gt;중입자 치료는 탄소 원자를 빛의 속도에 가깝게 암세포에 쏴서 치료하는 방식이다. 정상 세포는 피하고, 암세포에만 고선량 방사선을 집중할 수 있어 부작용은 줄이고 치료 효과는 높일 수 있다. 치료 기간도 대폭 단축된다. &lt;br&gt;&lt;br&gt;세브란스병원은 국내에서 유일하게 전립선암에 쓰는 고정형 중입자 치료기 1대와 췌장암, 간암, 폐암 등에 사용하는 회전형 중입자 치료기 2대를 보유하고 있다. 세브란스병원은 올해 안에 폐암과 두경부암에도 회전형 중입자 치료기를 사용한다는 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>모교서도 김호중 지우기…'트바로티 집' 현판 철거키로</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/28/L3JVTBTGOFDF5PPR4LYMEQKTIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/L3JVTBTGOFDF5PPR4LYMEQKTIE/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 May 2024 12:22:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VHOEAM63FJBOBCNDGIMFL3FGQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김천예술고등학교에 설치된 쉼터 '트바로티 집'./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주 뺑소니 혐의로 구속된 트로트 가수 김호중씨(33)의 모교인 김천예술고등학교가 학교 내에서 김씨의 흔적을 지우기로 결정했다.&lt;br&gt;&lt;br&gt;28일 김천예술고등학교 측 관계자는 조선닷컴에 “‘트바로티 집’ 현판을 비롯해 쉼터에 있는 김호중씨 관련 사진 등을 정리할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;‘트바로티 집’은 김천예술고등학교 출신인 김호중씨를 기념해 만든 쉼터다. 2020년 9월 준공돼 현재까지 운영 중이다. 해당 쉼터는 경북 김천시가 교육여건 지원사업으로 학교 측에 2000여만원을 지원해 만들어진 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김호중씨의 사진과 관련 자료 등이 설치돼 있어 그동안 팬들이 찾아오는 지역 내 명소로 꼽혔지만 이번 사건 이후 철거 및 명칭 변경 요구가 나왔었다. 학교 측은 쉼터는 이름을 바꿔 계속 운영할 예정이라고 밝혔다.&lt;br&gt;&lt;br&gt;김호중씨는 지난 9일 오후 11시 40분쯤 서울 강남구 압구정동의 한 도로에서 차를 몰던 중 마주 오던 택시와 충돌한 뒤 달아났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BRBXQ3DTVHWSOQUBOG2WPVQSNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'음주 뺑소니' 혐의를 받는 가수 김호중이 지난 24일 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)을 마친 후 호송 차량으로 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김호중씨 측은 운전자 바꿔치기, 차량 블랙박스 메모리카드 파손 등은 인정하면서도 음주운전 의혹만은 강하게 부인해왔다. 사고를 내기 전 김호중씨가 대리기사가 운전하는 차량 조수석에 타고 귀가하는 장면이 포착된 것에 대해서는 술을 마시진 않았지만 피곤해서 대리기사 서비스를 이용한 것이라고 해명했다.&lt;br&gt;&lt;br&gt;그러다 여러 증거가 쏟아져 나오자 사고 열흘 만인 지난 19일 음주운전 사실을 뒤늦게 인정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>래퍼 길 측 “음주 전력 또 구설 오를까 걱정”</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/28/4UN2WBMM4JFRVFOLM4QZL4VK7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/4UN2WBMM4JFRVFOLM4QZL4VK7M/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 May 2024 11:38:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/46CTSSJFRZYSOZUILSMMJKD6EQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'음주 뺑소니' 혐의를 받는 가수 김호중이 지난 24일 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)을 마친 후 호송 차량으로 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주 뺑소니 혐의로 구속된 트로트 가수 김호중(33)과 사고 당일 만난 유명 연예인은 개그맨 정찬우(56)와 그룹 ‘리쌍’ 출신 래퍼 길(46‧본명 길성준)인 것으로 밝혀졌다. 길은 2004년부터 2017년까지 3차례 음주운전으로 적발돼 활동중단과 복귀를 반복한 바 있다.&lt;br&gt;&lt;br&gt;길 측 관계자는 28일 문화일보와의 인터뷰에서 “(길이) 앞선 불미스러운 일들 때문에 또 다시 구설에 오르는 것을 우려하고 있다”고 전했다.&lt;br&gt;&lt;br&gt;길은 사건이 발생한 이후 참고인 조사를 받으며 경찰에 적극 협조하고 있다고 한다. 경찰은 길에게 음주운전 방조 혐의는 없는 것으로 보고 있다.&lt;br&gt;&lt;br&gt;하지만 일부 네티즌들은 온라인상에서 길이 과거 3차례 음주운전으로 적발된 사실을 언급하며 “끼리끼리 만났다” “왜 김호중과 술 마신 사실을 숨기고 있었나” “술을 억지로 먹인 것 아니냐” 등의 비판을 쏟아내고 있다.&lt;br&gt;&lt;br&gt;길 측 관계자는 “음악 의뢰를 받아 이 날 김호중과 처음 만나게 됐다고 한다”며 “(길이) 앞선 불미스러운 일들 때문에 또 다시 구설에 오르는 것을 우려하고 있다. 이 날 길은 차를 가져가지도 않았고 자리를 마친 뒤 택시를 타고 귀가했다”고 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IMPY4Z2W7JU2FW6OXEI55HHFQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;길(왼쪽), 정찬우. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 사건 초기 김호중과 술자리를 함께 했던 연예인으로 같은 소속사인 개그맨 허경환과 래퍼 슬리피가 지목됐었다. 두 사람은 모두 사실이 아니라고 부인했었다. &lt;br&gt;&lt;br&gt;김호중씨는 지난 9일 오후 11시 40분쯤 서울 강남구 압구정동의 한 도로에서 차를 몰던 중 마주 오던 택시와 충돌한 뒤 달아났다.&lt;br&gt;&lt;br&gt;김호중씨 측은 운전자 바꿔치기, 차량 블랙박스 메모리카드 파손 등은 인정하면서도 음주운전 의혹만은 강하게 부인해왔다. 사고를 내기 전 김호중씨가 대리기사가 운전하는 차량 조수석에 타고 귀가하는 장면이 포착된 것에 대해서는 술을 마시진 않았지만 피곤해서 대리기사 서비스를 이용한 것이라고 해명했다.&lt;br&gt;&lt;br&gt;그러다 여러 증거가 쏟아져 나오자 사고 열흘 만인 지난 19일 음주운전 사실을 뒤늦게 인정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>中 알·테·쉬 제품 43%서 유해물질...발암물질·환경 호르몬 범벅</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/28/J67BH46IEBFIDDEY6PKSGQDIJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/J67BH46IEBFIDDEY6PKSGQDIJI/</guid>
-      <dc:creator>최종석 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 May 2024 12:11:01 +0000</pubDate>
-      <content:encoded>서울시가 중국의 온라인 쇼핑몰 ‘쉬인’에서 파는 가방·신발 등 해외 직구 어린이 가죽 제품 8개를 조사해보니 7개에서 유해 물질이 나와 사용하기 부적합한 것으로 나타났다.&lt;br&gt;&lt;br&gt;28일 서울시에 따르면, 쉬인에서 파는 어린이 신발에서는 국내 안전 기준치의 428배에 달하는 프탈레이트계 첨가제가 검출됐다.&lt;br&gt;&lt;br&gt;프탈레이트계 첨가제는 플라스틱을 가공할 때 딱딱한 플라스틱을 부드럽게 만들어주는 화학 약품이다. 일종의 ‘환경 호르몬’으로, 불임·조산 등을 유발한다. 어린이의 성장도 방해한다. 어린이용 가죽 가방에서는 발암 물질인 폼알데하이드가 나왔다.&lt;br&gt;&lt;br&gt;서울시는 지난달 8일부터 매주 알리익스프레스, 테무, 쉬인 등 중국 온라인 쇼핑몰에서 파는 해외 직구 어린이 제품의 안전성을 검사한 결과를 발표하고 있다. 이날까지 총 7차례에 걸쳐 93개 제품을 검사한 결과, 40개(43%) 제품에서 프탈레이트계 첨가제, 중금속, 가습기 살균제 성분 등 유해 물질이 검출됐다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “해외 직구 제품은 정식 수입 제품과 달리 별도의 안전 검사 없이 국내에 들어와 사실상 안전의 사각지대에 놓여 있다”며 “시민의 건강이 위협받는 상황에서 지방자치단체가 손 놓고만 있을 수 없어 매주 전문 기관과 검사한 결과를 발표하고 있다”고 했다. 오세훈 시장은 “검사를 해보니 우리도 놀랐다”며 “검사 결과를 발표해 시민들이 합리적인 판단을 할 수 있게 돕고 해당 쇼핑몰에도 결과를 전달해 조치하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;서울시는 국내 전문 시험 기관 3곳과 업무협약을 체결하고 검사를 더 강화하기로 했다. 다음 달부터는 텀블러, 그릇 등에 대한 검사 결과를 발표할 예정이다.&lt;br&gt;&lt;br&gt;정부의 해외 직구 안전 대책은 갈팡질팡하고 있다. 정부는 지난 16일 “국민 건강에 영향을 줄 수 있는 80개 품목은 KC(국가인증통합마크) 인증을 받지 않으면 6월부터 직구를 금지하겠다”고 발표했다가 “소비자 선택권을 과도하게 제한한다”는 비판이 쏟아지자 철회했다.&lt;br&gt;&lt;br&gt;해외에서는 소비자 단체들이 직접 나서 중국 직구 제품에 대한 안전성 테스트를 벌이고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>20kg 넘는 완전군장에 책 더 넣고...숨진 훈련병에 선착순도 시켰다</title>
-      <link>https://www.chosun.com/politics/diplomacy-defense/2024/05/28/UH2SOH7PUZA2VBLI4NK2Y2QYGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/diplomacy-defense/2024/05/28/UH2SOH7PUZA2VBLI4NK2Y2QYGQ/</guid>
-      <dc:creator>양지호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 May 2024 11:32:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZW26ZYGSRJLMHDUB3Y6YS4U4WY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 강원 인제군의 모 부대 위병소 위로 먹구름이 드리워 있다. 이 부대에서는 최근 훈련병이 군기 훈련을 받다가 쓰러진 뒤 이틀 만에 숨진 사건이 발생했다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;육군훈련소에서 군기 훈련을 받던 중 쓰러져 이틀 뒤 사망한 훈련병이 완전군장을 하고 연병장에서 ‘선착순 달리기’를 하는 등 가혹 행위에 준하는 훈련을 받은 정황이 추가로 확인됐다. 군장 무게를 늘린다며 책 여러 권도 넣게 했다고 한다. 군 수사 당국은 해당 부대 중대장(대위)과 부중대장(중위)에게 과실치사 혐의 등을 적용해 민간 경찰로 사건을 28일 이첩했다.&lt;br&gt;&lt;br&gt;사망한 훈련병은 지난 23일 무게 20㎏ 이상의 완전군장을 한 채 보행·구보·팔굽혀펴기·선착순 달리기 등을 반복하라는 지시를 받은 것으로 알려졌다. ‘완전군장 달리기’ 등은 규정 위반이다. 이 훈련병은 얼차려를 반복적으로 받다가 약 40분이 지난 오후 5시 10분쯤 쓰러졌다. 관련 정황 일부는 CCTV 등에도 기록돼 있다고 군은 밝혔다.&lt;br&gt;&lt;br&gt;군 관계자는 쓰러진 훈련병이 횡문근융해증과 열사병 증상을 보였다고 했다. 횡문근융해증은 무리한 운동·과도한 체온 상승이 원인이 돼 발생한다. 근육이 괴사하고 신장 등 장기에 치명적 손상을 입힌다. 훈련병은 콜라색 소변을 보는 등 의심 증상이 나타났다고 한다. 숨진 훈련병은 약 40도에 달하는 고열 등 열사병 증상도 보였다. 질병관리청은 28일 사망한 훈련병이 올해 첫 온열 질환 추정 사망자로 집계됐다고 했다. 훈련병이 군기 훈련을 받던 오후 5시쯤 강원 인제군 기온은 27.4도였다.&lt;br&gt;&lt;br&gt;부중대장(중위)이 얼차려를 시작했고 중대장(대위)은 중간에 합류해 현장에서 훈련을 지시·통제한 것으로 전해졌다. 군 수사 당국은 두 간부에게 업무상과실치사와 직권남용가혹행위 혐의가 있다고 판단하고 강원지방경찰청에 사건을 이첩했다.&lt;br&gt;&lt;br&gt;육군은 “해당 중대장과 부중대장은 관련 혐의가 확인되면서 민간 경찰 이첩 하루 전인 27일 오전 8시부로 직무 배제했다”며 “경찰 수사에 적극 협조할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>서울시, 민자도로 4곳 통행료 인상 추진</title>
@@ -934,15 +937,6 @@
       <description/>
       <pubDate>Tue, 28 May 2024 09:23:03 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PQANH3BIDHLJQGTEUHGFDG74WM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 A씨에게 확보한 압수품. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천국제공항에서 승객의 위탁수하물 가운데 고가의 금품을 야금야금 훔쳐 오던 항공사 하청업체 직원이 실형에 처했다.&lt;br&gt;&lt;br&gt;28일 법조계에 따르면, 인천지법 형사10단독 황윤철 판사는 지난 24일 절도 혐의로 기소된 A(43)씨에게 징역 1년 6개월형을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 2021년 11월부터 작년 10월까지 206차례에 걸쳐 승객의 고가 위탁수하물을 훔친 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;A씨는 2011년부터 인천공항에서 국내 항공사 하청업체 직원으로 일하면서, 객들이 맡긴 수화물을 항공기 화물칸에 옮겨 싣는 작업을 한 것으로 알려졌다. A씨가 소속된 하청업체는 6명씩 1개조로 위탁수하물 적재 작업을 하는데, A씨는 다른 직원들이 담배를 피우러 자리를 피운 틈을 타 범행했다고 한다.&lt;br&gt;&lt;br&gt;A씨는 의심을 피하고자 승객들의 물품 1~2개씩만 손을 댔다. 해외여행객 특성상 이 정도는 여행지에서 물건을 잃어버렸다고 생각해 신고하지 않는 경우가 많다는 점을 노린 것이다. 또 근무 장소에 CCTV가 없다는 점도 이용했다.&lt;br&gt;&lt;br&gt;이 같은 방식으로 A씨가 2년간 훔친 금품 규모는 약 3억6000만원 상당인 것으로 파악됐다. 이후 한 승객이 “4000만 원 상당의 에르메스 가방을 잃어버렸다”고 신고하면서 경찰에 덜미가 잡혔다.&lt;br&gt;&lt;br&gt;재판부는 “고인이 범행을 인정하고 반성하는 태도를 보인다”며 “피해자에게 일정 금액을 지급하고 합의했으며 3000만 원을 공탁한 점, 나이와 가정환경 등 양형 조건을 종합해 형을 정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>허위수술로 보험금 12억 가로챈 의사·조폭 174명 검거… 상습 마약 혐의도 </title>
-      <link>https://www.chosun.com/national/national_general/2024/05/28/TSC3Q7MSS5CR7EJC4OBGD5IWRM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/28/TSC3Q7MSS5CR7EJC4OBGD5IWRM/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 May 2024 03:03:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UA6TF2MTTZEYXFR4PLLTIISJ5I.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;일당이 단속을 피하려고 보험사에 제출한 다른 사람의 수술 전·후 사진./서울경찰청 광역수사단 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여유증·다한증이 고액의 실손 보험 청구가 가능하다는 점을 악용해 가짜환자를 모집한 뒤 실제 수술을 한 것처럼 꾸며 보험금 약 12억원을 가로챈 일당이 검거됐다.&lt;br&gt;&lt;br&gt;서울경찰청 광역수사단 형사기동대는 병원 관계자와 조직폭력배 브로커로 구성된 일당 174명을 보험사기방지특별법 혐의로 검거, 5명을 구속 송치했다고 28일 밝혔다. 경찰은 프로포폴과 펜타닐 등 의료용 마약을 직접 투약하거나 환자에게 투약 목적으로 미용 시술한 병원장 신모(38)씨와 의사들을 마약류관리에관한법률 위반 혐의로 지난 2월 추가 입건했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 일당은 지난 2022년 11월부터 작년 7월까지 약 200회에 걸쳐 약 12억원의 보험금을 편취했다. 이들은 여유증·다한증 수술에 대한 실손 보험이 있는 가짜 환자를 모집한 후, 실제 수술을 하지 않고서 진단서와 진료기록부 등을 허위 작성해 보험금을 청구했다. 일부 조직폭력배는 단속을 피하기 위해 가슴 부위에 상처를 내거나 다른 사람의 수술 전·후 사진을 제출했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 병원장 신씨는 경기 수원에 성형외과를 개원하면서 약 30억원을 대출 받았는데, 경영난이 심화하자 범행을 저지른 것으로 보고 있다. 경찰 관계자는 “병원장인 신씨가 범행에 직접 관여했기 때문에 보험에 필요한 서류 발급과 청구가 수월했다”며 “손해사정사의 확인 전화에 응대하기 위한 대처법 매뉴얼까지 있었다”고 말했다. 해당 병원은 현재 폐원한 상태다.&lt;br&gt;&lt;br&gt;경찰에 따르면 신씨와 의사들이 사용되지 않은 프로포폴이나 펜타닐을 투약한 채 진료를 보거나 수술을 했다고 한다. 의료진들은 마약에 중독된 신씨의 시간대별 마약 투여량을 관리하기도 했다. 의료진들은 치료가 아닌 마약 투약을 목적으로, 환자들에게 미용 시술을 일삼은 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 브로커들이 모집한 가짜환자가 내원하면 수술을 하지 않았는데도 6시간 동안 수술이 진행된 것처럼 서류를 꾸미는 등 조직적인 범죄가 이뤄졌다곤 밝혔다. 특히 일부 조직폭력배와 병원 관계자, 보험 설계사는 가짜환자를 신속하게 모집하는 ‘브로커’ 역할을 했다. 모집된 가짜환자들은 신분과 출신지 등이 다양한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “최근 성형외과에서 보험사기뿐만 아니라 의료용 마약 오남용이 많이 발생하고 있다”며 “의료시스템 근간을 흔드는 사안으로 보건당국의 의사 면허 행정처분 등 강력한 제재가 필요하다”고 밝혔다. 이어 “보험사기 조직의 지능적 유혹에 단순 가담할지라도 보험사기방지특별법으로 처벌받을 수 있어 각별한 주의와 신고가 요구된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
