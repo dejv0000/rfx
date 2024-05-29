@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>9살 손녀 성폭행 후 영상까지 찍었는데…감형 받은 할아버지, 왜?</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/30/XWQ7FK3OBFE3HO4NFNVQ57CVQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/30/XWQ7FK3OBFE3HO4NFNVQ57CVQ4/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 May 2024 22:31:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7EPTBAB555DJV2EZP2LKVDQEAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사실혼 배우자의 어린 손녀를 성폭행한 것도 모자라 성 착취물까지 만든 60대 남성이 항소심에서 감형됐다. 합의금을 받은 피해자 가족이 처벌을 원하지 않는다는 이유에서다.&lt;br&gt;&lt;br&gt;30일 법원에 따르면 부산고법 창원재판부 형사1부(민달기 고법판사)는 전날 성폭력 범죄의 처벌 등에 관한 특례법 위반(13세 미만 미성년자 강간) 등 혐의로 기소된 A(60대)씨의 항소심에서 징역 10년을 선고한 원심을 파기하고 징역 8년을 선고했다.&lt;br&gt;&lt;br&gt;또 A씨에 대해 아동청소년 관련 기관과 장애인 관련 기관에 각 5년간 취업 제한, 형 집행 종료일로부터 5년간 보호관찰을 명령했다.&lt;br&gt;&lt;br&gt;사건은 2021년 7월 경남의 한 주거지에서 발생했다. 당시 A씨는 사실혼 배우자의 손녀 B(당시 9~10세)양과 함께 거주했다. B양은 이혼 후 양육을 맡게 된 모친이 생계를 위해 같이 생활하지 못하게 되면서 외할머니에게 맡겨진 상황이었다.&lt;br&gt;&lt;br&gt;B양과 단둘이 보내는 시간이 많았던 A씨는 어린 B양이 제대로 반항하지 못한다는 점을 이용해 성폭행하기로 마음먹고 이 같은 범행을 저질렀다.&lt;br&gt;&lt;br&gt;A씨는 B양에게 게임에서 지는 사람이 원하는 것을 들어주기로 하자고 제안해 범행을 저지르거나 B양이 낮잠을 자고 있을 때 강제로 성폭행했다.&lt;br&gt;&lt;br&gt;결국 A씨는 B양을 여러차례 성폭행하고 휴대전화로 성 착취물을 제작한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;1심 재판 과정에서 A씨는 강간행위와 준유사성행위를 한 사실이 없다며 혐의를 부인했다. 또 B양이 약 2년 동안 피해사실을 말하지 않았던 점을 고려하면 B양의 진술을 믿을 수 없다고 주장했다.&lt;br&gt;&lt;br&gt;그러나 1심 재판부는 A씨의 주장을 받아들이지 않았다.&lt;br&gt;&lt;br&gt;1심 재판부는 “B양의 진술은 수사기관에서부터 법원에 이르기까지 일관되며 모순되는 부분이 없고, 허위로 진술할 특별한 이유나 동기도 찾을 수 없다”며 A씨의 혐의를 모두 유죄로 인정하고 징역 10년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 1심 판결에 대해 ‘형이 무겁다’는 이유로 항소했다. 항소심 과정에서는 공소사실을 모두 인정했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “당심에서 공소사실을 모두 인정하면서 잘못을 반성하는 태도를 보이고 있고, 피해자 측에 소정의 합의금을 지급해 피해자 측이 처벌을 원하지 않고 있는 점 등을 고려해 형을 정했다”고 감형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“돌잔치 축의금 냈는데…돌잡이용 현금까지 걷더라”</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/30/4W5RVHSYGRG7VGYPJHSZZXSHUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/30/4W5RVHSYGRG7VGYPJHSZZXSHUU/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 May 2024 22:28:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ROCE364FQJBN5GBWX3NDDDKUFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;돌잔치 상. /픽사베이&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지인의 자녀 돌잔치에 참석했다가 당황스러운 경험을 했다는 한 네티즌의 사연이 전해졌다.&lt;br&gt;&lt;br&gt;지난 28일 온라인커뮤니티 네이트판에는 ‘돌잔치 좀 불편하네요’라는 제목의 글이 게시됐다.&lt;br&gt;&lt;br&gt;해당 글을 작성한 A씨는 최근 지인의 초대를 받아 지인 자녀의 돌잔치에 다녀왔다고 한다. 기혼이지만 아직 자녀가 없는 A씨는 “나는 아기를 낳아도 돌잔치는 직계가족끼리 밥 먹는 정도로 할 생각”이라며 “물론 본인들 마음이니 돌잔치 한다는 사람들 의견도 존중한다”고 말문을 열었다.&lt;br&gt;&lt;br&gt;그는 “(초대한 사람이) 친분이 있는 지인이라 축하해주러 갔다”며 “가서 인사한 뒤 축의금을 냈다”고 했다. A씨는 돌잡이 순서에서 당황스러운 장면이 연출됐다고 했다. 그는 “사회자가 돌잡이 용품 소개하더니 제일 중요한 돈이 있어야하는데 없다며 능청스레 묻더라”라며 “아이 아빠가 손님들한테 달라는 듯한 행동을 취했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “그러더니 돌잡이 용품이 올려진 쟁반을 들고 앞으로 나오더라”라며 “다들 ‘이미 축의금 줬는데 또 내야해?’ 하는 분위기였다”고 당시 상황을 전했다. 결국 이날 돌잡이용 돈은 직계가족들이 냈다고 한다.&lt;br&gt;&lt;br&gt;A씨는 “본인아기 돌잡이에 쓸 돈은 솔직히 부모들이 준비했으면 좋겠다”며 “축하해주러 가는 손님입장에서 너무 불편하다”고 덧붙이며 글을 마무리했다.&lt;br&gt;&lt;br&gt;해당 글은 12만회 넘게 조회되며 화제가 됐다. 이 글을 본 네티즌들은 “축하해주러 간 사람들한테 돈을 이중으로 뜯는건가. 좀 아니라고 생각한다” “좋은 자리인데 괜히 기분만 상했겠다” “요즘 돌잔치 관례인 것 같더라. 보통 조부모 등 직계가족이 낸다” 등 반응을 보였다.&lt;br&gt;&lt;br&gt;최근에는 가족·친지들만 참석하는 ‘돌식사’ ‘소규모 돌잔치’가 자리잡는 등 성대한 돌잔치 문화는 사라지는 추세다. 아이가 축하받아야 마땅한 자리이지만, 초대를 받으면 당황스럽다는 반응을 보이는 이들도 적지 않다.&lt;br&gt;&lt;br&gt;실제로 2019년 잡코리아가 성인남녀 596명을 대상으로 진행한 한 설문조사에 따르면, ‘그다지 참석하고 싶지 않은 경조사’ 1위로 ‘평소에는 왕래ㆍ연락 없다가 뜬금없이 초대받은 결혼식이나 돌잔치’가 꼽히기도 했다. 당시 응답자의 55.5%가 해당 문답을 선택했다. 또 벼룩시장 구인구직이 직장인 2,193명을 대상으로 실시한 설문조사에서도 응답자 23.9%가 ‘가장 부담을 느낀 경조사’로 ‘돌잔치’를 꼽았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서울부터 경남까지… 역대 최대 ‘北 오물폭탄’ 쏟아졌다</title>
       <link>https://www.chosun.com/politics/diplomacy-defense/2024/05/30/AFMY6AWWSBAUPIUONVGCLOZ7XI/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/diplomacy-defense/2024/05/30/AFMY6AWWSBAUPIUONVGCLOZ7XI/</guid>
@@ -887,24 +905,6 @@
         <media:description type="plain">'버닝썬 사태' 당시 클럽과의 유착 의혹이 제기돼 특정범죄 가중처벌 등에 관한 법률위반 등의 혐의로 1심서 무죄를 선고 받은 윤규근 총경이 20일 오후 서울 서초구 서울고등법원에서 열리는 항소심 선고 공판에 출석하고 있다. 2021.5.20/뉴스1 ⓒ News1 민경석 기자</media:description>
         <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 민경석 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>벤츠에 욱일기 달고 국내 도로 주행…“한국인으로 참을 수 없어” 분노</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/29/BT2JK6TCM5HH7DQDYJQ55GM6UI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/29/BT2JK6TCM5HH7DQDYJQ55GM6UI/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 29 May 2024 00:57:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZFASHPFOT5F2VM2WF2FLJIXYU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;욱일기를 부착한 채 국내 도로를 주행하는 차량./온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 도로에서 욱일기를 붙이고 주행하는 차량의 모습이 목격돼 논란이 일고 있다.&lt;br&gt;&lt;br&gt;지난 27일 한 온라인 커뮤니티에는 ‘대한민국 도로에 욱일기 차량 봤습니다’라는 제목의 글이 올라왔다.&lt;br&gt;&lt;br&gt;작성자는 “내 눈을 의심했다”며 자신의 차량 바로 앞에서 주행하던 차량 사진을 공개했다. 공개된 사진에는 벤츠 SUV 차량 뒷유리에 욱일기 2개가 붙어 있는 모습이 담겼다.&lt;br&gt;&lt;br&gt;작성자는 “뒷유리뿐 아니라 앞 유리에도 (욱일기가) 똑같이 붙어 있었다”며 “한국 사람으로서 참을 수 없다. 신고할 수 있는 방법이 있느냐”고 말했다.&lt;br&gt;&lt;br&gt;네티즌들은 “차주가 일본인인가” “일본 추종하는 친일파 차주일 가능성도 있어 보인다” “한국을 우습게 보는 일본인의 객기 같다” “사소한 법규 위반만 해도 바로 신고하고 싶다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;욱일기는 일본이 제2차 세계대전 기간 중 사용한 군기로, 일본 군국주의를 상징한다. 국내에서 욱일기 사용과 관련한 관련 법규는 없으나 서울시 조례에는 공공장소에서 욱일기 등 일본 제국주의 상징물을 사용할 수 없도록 규정하고 있다.&lt;br&gt;&lt;br&gt;앞서 국민의힘 소속 서울시의원 19명은 지난달 3일 “시민들이 반제국주의 의식이 충분히 있고, 제국주의 상징물 사용에 거부감을 느끼고 있으므로 공공사용 제한물 조례로 규정하는 것은 과도하다”며 해당 조례 폐지안을 발의했다.&lt;br&gt;&lt;br&gt;이와 관련 한동훈 당시 국민의힘 비상대책위원장은 “일본 제국주의 상징을 공공장소에서 사용하는 것을 절대 용납할 수 없다”며 “해당 조례안 폐지를 발의한 시의원들에 대해서는 당 차원의 조사 후 엄정한 조치를 취할 것”이라는 입장을 밝혔고, 논란이 일자 폐지안을 발의한 시의원들은 하루 만에 자진 철회했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“이재명 대구 오면 작업 하겠다”…60대 협박범 징역형 집유</title>
-      <link>https://www.chosun.com/national/regional/2024/05/29/42VLZF3FGVFKJC7GBFKG4QPPQI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/05/29/42VLZF3FGVFKJC7GBFKG4QPPQI/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 29 May 2024 02:17:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2BUZ6OVLIKNFK2EAKOUUKURH2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법 서부지원 전경./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22대 총선을 앞두고 더불어민주당 이재명 대표에게 위해를 가하겠다고 112에 허위 신고한 혐의로 기소된 60대에게 징역형의 집행유예가 선고됐다. &lt;br&gt;&lt;br&gt;대구지법 서부지원 제3형사단독 문현정 판사는 29일 위계에 의한 공무집행방해로 재판에 넘겨진 60대 A씨에게 징역 4월에 집행유예 2년을 선고했다. &lt;br&gt;&lt;br&gt;A씨는 22대 총선을 앞둔 지난 1월 5일 오후 4시 49분쯤 대구 달서구 두류동 한 공중전화에서 서울경찰청 112 상황실로 전화를 걸어 “이번 총선 때 이재명 대표가 대구에 내려오면 작업하겠다”고 말한 뒤 끊는 등 허위신고로 경찰의 공무집행 방해한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;조사 결과 무직인 A씨는 당시 술을 마신 상태로 집으로 돌아가다가 112에 전화했고, 범행 당일 오후 8시쯤 자택에서 체포됐다.&lt;br&gt;&lt;br&gt;재판부는 “경찰 인력이 상당히 낭비됐지만, 범행을 인정하고 동종범죄로 처벌받은 전력이 없는 점 등을 종합했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>전국에서 빠짐없이 필로폰 나왔다…마약 검출된 의외의 장소</title>
