@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘파산 선고’ 홍록기 부동산 또… 오피스텔 이어 아파트도 경매행</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/01/U3XS3NH7W5D6TL7LYF3ZQNZKS4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/01/U3XS3NH7W5D6TL7LYF3ZQNZKS4/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 31 May 2024 22:22:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/57BJW54WHBHWPDRUWDUOU7H34I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 홍록기. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개인 파산 선고를 받은 방송인 홍록기(55)씨 소유의 부동산이 또 경매에 나왔다.&lt;br&gt;&lt;br&gt;1일 경·공매 데이터 전문기업 지지옥션에 따르면 홍씨가 소유한 서울 성동구 금호자이1차 아파트가 오는 16일 경매에 오른다. 전용면적 117.18㎡(42평) 크기로 감정가는 16억3000만원이다.&lt;br&gt;&lt;br&gt;2012년 준공된 이 아파트는 지하철 5호선 신금호역과 도보 5분 거리의 역세권이다. 초등학교까지 가까이 있어 일대에서는 선호 단지로 손꼽히는 곳이다. 약 2년 전 17억5000만원에 거래된 것을 마지막으로 그동안 거래가 없었으나, 현재 단지 내 같은 평형이 층에 따라 매매가 16억2000만~19억 원에 나와 있다.&lt;br&gt;&lt;br&gt;홍씨는 이 아파트를 2015년 12월 8억 원에 매입한 것으로 알려져 있다. 소유권 등기일에 6억3600만원의 은행 근저당이 잡힌 것으로 봤을 때, 아파트 담보 대출을 받아 구매한 것으로 보인다. 해당 아파트엔 다수의 근저당과 가압류가 걸려있어 경매에 낙찰돼도 홍씨가 얻는 돈은 없다.&lt;br&gt;&lt;br&gt;앞서 홍씨는 지난 3월 소유했던 경기 고양시 일산동구 소재 주거용 오피스텔도 경매에 내놓은 바 있다. 공급면적 226.36㎡(68평)로 주변에 코스트코와 병원 등이 있어 좋은 평가를 받았다. 이 건물은 한 차례 유찰된 끝에 감정가 4억7500만원의 80% 수준인 3억8500만원에 낙찰됐다.&lt;br&gt;&lt;br&gt;한편 홍씨는 2011년 웨딩컨설팅 업체를 공동 설립해 운영하다 코로나 사태로 인한 경영난을 겪었다. 작년엔 직원들에게 2년 가까이 임금을 제대로 지급하지 않은 사실이 드러나기도 했다. 결국 그는 법원에 개인 파산을 신청했고 올해 1월 파산 선고를 받았다. 법원 조사 결과 작년 7월 기준 홍씨 자산은 22억 원인 반면, 부채는 30억 원에 달하는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>전국 500곳 아침마다… 맨발걷기에 발 벗고 나선 초·중학교</title>
       <link>https://www.chosun.com/national/education/2024/06/01/EV3BAGEPLJE5JNROZMFSOFBQUI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/06/01/EV3BAGEPLJE5JNROZMFSOFBQUI/</guid>
@@ -838,15 +847,6 @@
       <description/>
       <pubDate>Fri, 31 May 2024 01:03:09 +0000</pubDate>
       <content:encoded>윤석열 대통령 부인 김건희 여사의 ‘명품 백 수수’ 의혹을 수사하는 검찰이 김 여사에게 선물을 전달한 재미 교포 최재영 목사를 31일 재차 소환했다.&lt;br&gt;&lt;br&gt;서울중앙지검 형사1부(부장 최승호)는 이날 오전 9시 30분 최 목사를 청탁금지법 위반 등 혐의 피의자 신분으로 소환해 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JLO4OYSYPFKGZNDNOWBLNU5OHY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 부인 김건희 여사에게 명품백을 전달한 혐의로 검찰 조사를 받는 최재영 목사가 31일 오전 서울 서초구 서울중앙지방검찰청에 조사를 받기 위해 출석하며 취재진 질문에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 검찰 조사에선 명품 백 이외에 최근 추가로 제기된 각종 청탁 의혹에 대한 조사가 이뤄질 전망이다. 앞서 백은종 서울의소리 대표는 지난 20일 검찰 조사를 받으면서 최 목사가 김 여사에게 김창준 전 미국 연방하원 의원의 국정자문위원 임명과 국립묘지 안장, 최 목사가 운영하던 ‘통일TV’ 송출 재개 등을 청탁했었다고 밝혔다. 또 김 여사가 김 전 의원의 국립묘지 안장 청탁과 관련해 최 목사에게 대통령실 총무비서관실 소속 조모 과장을 통해 국가보훈처 사무관을 소개해줬다는 주장도 나왔다.&lt;br&gt;&lt;br&gt;이와 관련, 최 목사는 검찰 출석 전 기자들과 만나 “조모 과장과의 통화 녹취록, 문자와 보훈처 직원과의 통화 녹취 등을 검찰에 제출할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;최 목사는 “이 사건의 핵심은 언더커버(위장 잠입) 취재”라면서 “저희가 (김 여사에게) 각종 선물을 주고 청탁을 시도한 것”이라고 했다. 최 목사는 “불행스럽게도 (김 여사가) 선물을 다 받았고, 청탁도 반은 반응이 없었지만 반은 관계부처 연결까지 노력은 하셨다”면서도 “실질적으로 청탁이 이뤄진 건 단 한 건도 없었다”고 했다.&lt;br&gt;&lt;br&gt;최 목사는 또 “저 말고도 다른 접견자들이 백화점 쇼핑백을 들고 김 접견을 위해 대기하고 있었다”면서 “그들도 각자의 민원을 청탁하기 위해 왔을 것”이라고 했다.&lt;br&gt;&lt;br&gt;검찰이 최 목사를 소환한 것은 지난 13일 첫 조사 이후 18일 만이다. 당시 검찰은 최 목사를 10시간가량 조사했었다.&lt;br&gt;&lt;br&gt;한편 검찰은 전날 서울의소리 이명수 기자를 피의자 신분으로 소환해 9시간가량 조사했다. 이 기자는 명품 백을 사비로 구입해 최 목사에게 전달한 인물이다. 이 기자는 전날 조사에서 최 목사와 김 여사가 1년여간 나눈 카카오톡 대화 전체를 검찰에 제출했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘태블릿 PC 조작설’ 변희재, 허위사실 유포로 재판행</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/31/DIW7LF43XZHTDK4ZVTNSPWSDO4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/DIW7LF43XZHTDK4ZVTNSPWSDO4/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 01:07:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AYTOPCE7GCUOPIMIC5KWVHGNMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;변희재 미디어워치 대표./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국정농단 사건의 태블릿 PC 계약서가 위조됐다는 등 유튜브에서 허위 사실을 유포한 미디어워치 대표 변희재(50)씨가 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울서부지검 형사1부(부장 허성환)는 지난 30일 변씨를 정보통신망 이용 촉진 및 정보보호 등에 관한 법률 위반(명예훼손) 등 혐의로 불구속 기소했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;변씨는 지난 2020년 5월부터 작년 5월까지 유튜브 방송에서 “SK텔레콤이 국정농단 사건과 관련된 태블릿 PC 가입 계약서를 위조해 법원에 증거로 제출했다”는 등 비방 목적의 허위 사실을 13회 유포한 혐의를 받는다.&lt;br&gt;&lt;br&gt;또 변씨는 지난 2022년 9월부터 작년 1월까지는 유튜브 등에서 가로세로연구소 대표 김세의가 자신의 방에 ‘도도맘(본명 김미나)’으로 알려진 유명 블로거의 사진을 도배해놓고 잔다는 취지로 발언해, 허위 사실을 유포한 혐의도 받는다.&lt;br&gt;&lt;br&gt;한편 변씨는 보수 유튜버 안정권 씨를 모욕한 혐의로, 작년 6월 서울서부지법에서 벌금 50만원을 선고받았다. 이후 항소해 같은 법원 형사항소부에서 2심 재판을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 강남 오피스텔 모녀 살인범, 추적 피하려 주도면밀하게 택시 여러 번 갈아타</title>
