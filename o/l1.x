@@ -6,6 +6,36 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 기초생활수급자 소명자료 냈는데도 국선변호인 선정 청구 기각한 채 선고… '파기환송'</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/198672(1).jpg" alt="198672.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;기초생활보장법상 수급권자라는 소명자료를 냈는데도 재판부가 국선변호인 선정 청구를 기각하고 심리·선고를 한 판결을 대법원이 파기했다. 국선변호인 선정에 관한 형사소송법의 규정을 위반해 피고인이 국선변호인의 조력을 받아 효과적인 방어권을 행사하지 못하게 한 잘못이 있다는 취지다.&lt;p&gt;&lt;b&gt;&lt;br /&gt;대법원 형사1부&lt;/b&gt;(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5554"&gt;서경환&lt;/span&gt;&amp;nbsp;대법관)는 지난 5월 9일 상해 혐의로 기소된 A 씨에게 징역 10개월에 집행유예 2년 등을 선고한 원심을 파기하고 사건을 인천지법으로 돌려보냈다(&lt;b&gt;2024도1336&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;&lt;br /&gt;재판부는 "형사소송법상 법원은 피고인이 빈곤이나 그 밖의 사유로 변호인을 선임할 수 없는 경우에 피고인이 청구하면 변호인을 선정해야 한다고 규정하고 있다"며 "형사소송규칙도 국선변호인 선정 청구가 있을 때는 지체없이 국선변호인을 선정하도록 하고, 청구 시에 피고인은 소명자료를 제출해야 한다고 규정하고 있다"고 판시했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이어 "A 씨가 제출한 수급자 증명서 등 소명자료에 의하면 그가 빈곤으로 인해 변호인을 선임할 수 없는 경우에 해당하는 것으로 인정할 여지가 충분하다"며 "원심은 특별한 사정이 없는 한 국선변호인 선정 결정을 해 공판심리에 참여하도록 해야 했음에도 선정 청구를 기각한 채 공판심리를 진행했다"고 설명했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;상해 혐의로 기소된 A 씨는 항소심 진행 과정에서 국선변호인 선정 청구를 했다. 하지만 재판부는 청구를 기각하고 이후 공판기일에 A 씨만 출석한 상태에서 심리를 진행한 다음 판결을 선고했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;1심은 A 씨에게 징역 10개월에 집행유예 2년을 선고하고 1년간 보호관찰을 명령했다. 항소심도 A 씨의 항소를 기각했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Fri, 31 May 2024 06:15:48 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198672</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198672</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/198672(1).jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
+			<title>태평양·동천, 무료 법률자문 지원 ‘사회적 경제조직’ 4곳 선정</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/198733.jpg" alt="198733.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.bkl.co.kr/law?lang=ko" target="_blank"&gt;&lt;b&gt;법무법인 태평양&lt;/b&gt;&lt;/a&gt;(대표변호사 이준기)과 재단법인 동천(이사장 강용현)이 초창기 사회적경제조직의 안정적인 성장을 위한 ‘제4회 사회적경제조직 엑셀러레이팅’ 사업의 지원 대상자를 4곳 선정했다고 31일 밝혔다.&lt;br /&gt;&lt;br /&gt;‘사회적경제조직 엑셀러레이팅’은 설립 준비 중이거나 설립·인증 후 5년 이내의 사회적 가치를 창출하는 사회적경제조직을 발굴해 법무법인 태평양 공익활동위원회와 재단법인 동천 변호사들이 1년간 무료로 공익법률자문을 지원하는 사업이다.&lt;br /&gt;&lt;br /&gt;이번 ‘제4회 사회적경제조직 엑셀러레이팅’ 지원대상자로는 사업 활동의 사회적가치와 법률지원 필요성에 따라 총 4곳이 선정됐다. 선정된 4개 단체는 △장애인예술가의 안정적인 일자리 제공과 문화예술을 통해 장애인과 비장애인 통합을 도모하는 사회적기업 '스프링샤인 사회적협동조합' △친환경 양말 개발을 통해 탄소를 줄이고 지속가능한 패션을 구현하는 지역기반 예비사회적기업 '태환강직' △배달용 일회용품 절감을 위해 다회용품 공유서비스로 문화&amp;라이프스타일을 매개로 일상 속 ESG를 창출하는 예비사회적기업 '주식회사 푸들' △운동취약계층을 위한 맞춤형 헬스케어 서비스로 장애 및 만성기저질환자를 위한 특수 재활 헬스케어를 제공하는 소셜벤처 '하루하루움직임연구소' 이다. &lt;br /&gt;&lt;br /&gt;이들은 정관, 노무, 저작권, 개인정보, 기부금품, 투자계약, 서비스용역계약 등 사업 전 분야에 관한 자문을 지원받을 수 있고 공익성 여부에 따라 소송 지원을 받을 수 있다. 또 무료법률지원에 앞서 태평양 공익활동위원회와 동천 변호사 20여 명은 선정 단체 관계자와 사전 미팅을 진행하고 지원 단체들이 마주하고 있는 법률 이슈 쟁점과 자문 방향을 논의할 예정이다.&lt;br /&gt;&lt;br /&gt;태평양·동천은 “앞으로 1년간 사회적경제조직 사업 과정 중 발생하는 법률 문제를 해결하는 데 기여하고 운영상 법률리스크를 최소화할 수 있도록 단체당 약 3000만 원 상당(1년 약 60시간) 공익법률자문 서비스를 제공할 예정”이라고 밝혔다.</description>
+			<pubDate>Fri, 31 May 2024 05:21:01 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198733</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198733</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/198733.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
+			<title>강원법무사회, 정기총회 개최</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/198_BUBMU(1).jpg" alt="198_BUBMU.jpg" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;강원지방법무사회&lt;/b&gt;(회장 김태겸)가 지난 28일 강원도 춘천 미래컨벤션웨딩홀 그레이스켈리홀에서 ‘제62회 정기총회’를 열었다.&lt;br /&gt;&lt;br /&gt;이날 행사에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="124"&gt;부상준&lt;/span&gt;(55·사법연수원 25기) 춘천지방법원장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6848"&gt;이영림&lt;/span&gt;(53·30기) 춘천지방검찰청 검사장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2199"&gt;김철수&lt;/span&gt;(64·24기) 강원지방변호사회장, 이남철 대한법무사협회장 등 150여 명이 참석했다. &lt;br /&gt;&lt;br /&gt;행사에서 이종호 법무사가 춘전지법원장 표창을, 김식헌 법무사가 춘천지검장 표창을, 최영식 법무사가 대한법무사협회 표창을 받았다. 이어 강원지방법무사회장이 춘천지법과 춘천지검 공무원에게 감사장을 증정하고, 영월과 태백 지부가 모범지부로 선정돼 최준영 영월지부장과 우원국 태백지부장에게 표창장을 수여했다.&lt;br /&gt;&lt;br /&gt;또 이영우·박영도·장태수·권순영 법무사가 공로패를, 김효숙·안소연·함혜옥 사무원 등이 표창장을 받았다. 원주와 속초의 청소년 4명에게는 각각 장학금 50만 원이 전달됐다. &lt;br /&gt;&lt;br /&gt;본회의에서는 회무보고와 신입회원 소개, 감사보고 등이 있었고 2023년도 회계 결산안과 2024년도 예산안을 원안대로 가결했다.</description>
+			<pubDate>Fri, 31 May 2024 05:18:42 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198734</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198734</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/198_BUBMU(1).jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
 			<title>검찰, 구현모 하도급법 위반으로 기소…'KT 일감 몰아주기'는 무혐의</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/184559(17).jpg" alt="184559.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;KT그룹의 일감 몰아주기 의혹을 수사해온 검찰이 최종 지시자로 지목됐던 구현모 전 KT 대표에게 혐의가 없다고 결론내렸다. 다만 하청업체에 계열사 전 임원을 선임하도록 지시해 경영에 간섭한 혐의가 있다고 보고 신현옥 전 KT 경영관리부문장(부사장)과 함께 하도급거래 공정화에 관한 법률 위반 혐의로 불구속 기소했다.&lt;br /&gt;&lt;br /&gt;서울중앙지검 공정거래조사부(용성진 부장검사)는 구 전 대표의 공정거래법 위반 등 혐의에 대해 무혐의 결론을 내리고 차량용 소프트웨어 업체의 지분을 고가로 매입한 의혹과 관련해서는 윤경림 전 KT 사장 등을 특정경제범죄 가중처벌법상 배임 혐의로 기소했다. &lt;br /&gt;&lt;br /&gt;신 전 부사장은 하청업체인 KDFS에 거래량을 몰아주기 위해 2021년 3월 KT 전현직 임원 3명과 함께 계열사 KT텔레캅이 다른 하청업체에 주는 거래물량을 대폭 줄이도록 한 혐의도 받고 있다.&lt;br /&gt;&lt;br /&gt;이로써 지난해 4월 시작된 KT 그룹 관련 수사는 1년여 만에 마무리됐다.&lt;br /&gt;&lt;br /&gt;검찰은 그동안 KT그룹이 2020년 구 전 대표 취임 후 시설관리(FM) 일감 발주업체를 계열사 KT텔레캅으로 바꾸고  기존 4개 업체가 나눠갖던 일감을 하청업체 KDFS 등에 몰아주는 과정에 구 전 대표가 관여, 비자금을 조성했을 가능성을 수사해왔다.&lt;br /&gt;&lt;br /&gt;KT 전현직 임원 3명은 황욱정 KDFS 대표로부터 시설관리 물량을 늘려달라는 청탁을 받고 수천만원 상당의 금품을 제공받은 혐의(배임수재)로 기소됐다. 검찰은 황 대표도 배임증재 혐의로 기소했다.&lt;br /&gt;&lt;br /&gt;검찰은 별도로 수사한 지분 고가 매입 의혹과 관련해 윤경림 전 사장과 윤동식 전 KT클라우드 대표 등을 특정경제범죄 가중처벌법상 배임 혐의로 재판에 넘겼다. 이들은 2022년 9월 KT 자회사인 KT클라우드가 스파크앤어소시에이츠(현 오픈클라우드랩)의 지분 100%를 실제 가치보다 높은 212억원에 매수하는 데 관여해 KT클라우드에 50억원 이상의 손해를 끼친 혐의를 받고 있다.&lt;br /&gt;&lt;br /&gt;검찰은 협력업체 등으로부터 청탁과 함께 8억6000만 원 상당의 금품을 수수한 혐의로 서정식 전 현대오토에버 대표도 불구속 기소했다. 서 전 대표에 대한 구속영장은 지난 3월 기각됐다.&lt;br /&gt;</description>
 			<pubDate>Fri, 31 May 2024 00:52:18 -0000</pubDate>
@@ -212,36 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198690</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/198690.jpg</media:thumbnail>
 			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>법원행정처, 사법행정 자문 기구로 '제3기 사법정책자문위원회' 운영 결정</title>
-			<description>&lt;p style="text-align: center; "&gt;   &lt;img src="https://image.lawtimes.co.kr/images/190524(13).jpg" alt="190524.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;p style="text-align: left;"&gt;대법원 법원행정처가 김명수 전 대법원장 체제에서 탄생한 '사법행정자문회의' 대신 법원조직법에 근거한 '사법정책자문위원회'를 운영하기로 했다. 사법행정자문회의 등 기존 자문기구들의 성과를 이어가면서도 그 과정에서 나타난 문제를 풀어가는 방안이 '사법정책자문위원회' 운영이라는 결론을 내린 것이다.&lt;/p&gt;   &lt;p style="text-align: left;"&gt;&amp;nbsp;&lt;/p&gt;천대엽(60·사법연수원 21기) 법원행정처장은 지난 30일 법원 내부망 코트넷에 게시한 '제3기 사법정책자문위원회 출범 및 법관 증원에 관한 안내말씀'을 통해 이같이 결정했다고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;천 처장은 "대법원장이 전국 법원 순회방문 등을 통해 다양한 의견수렴을 거친 끝에 사법부에 대한 국민의 신뢰와 사랑을 되찾기 위한 제도 개선 노력에 박차를 가하기 위해 사법행정의 자문기구로 제1기(2009~2010년) 및 제2기(2013~2014년)에 이은 '제3기 사법정책자문위원회' 운영을 결정했다"고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이어 "지난 4년여간 사법행정자문회의는 사법부의 발전에 큰 기여를 했지만, 제도화에 필요한 입법적 뒷받침이 무산된 상황에서 사법행정자문회의를 계속 유지하기가 어렵게 됐다"며 "사법행정자문회의를 비롯한 기존 자문기구들의 성과를 발전적으로 계승하면서도 그 과정에 나타난 문제점을 국민을 위한 사법의 관점에서 미래지향적으로 풀어가는 방안으로 법원조직법이 정한 사법행정 자문기구인 '사법정책자문위원회'를 운영하여 중단 없는 제도개선의 노력을 기울여야만 한다는 결론에 이르렀다"고 설명했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;그러면서 제3기 사법정책자문위원회를 운영하며 △법원 구성원의 목소리를 경청·반영하는 절차적 민주화와 공론화의 노력을 통해 사법행정이 행사되어야 한다는 점 △최종적 지향점은 국민에게 유익한 사법제도의 구현이어야 한다는 점을 되새기겠다고 덧붙였다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;아울러 오는 6월 중순 시작해 활동기한 내 준상시적 운영할 방침이며, 활동기한은 안건 부의 시부터 1년 이내이다. 6개월 범위에서 한차례 연장할 수 있다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;천 처장은 사법정책자문위 구성과 안건·운영에 있어 법원 구성원과 외부의 다양한 의견을 적극 검토·반영하겠다고 부연했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;법원조직법 제25조에 따르면, 대법원장은 필요하다고 인정할 경우에는 대법원장의 자문기관으로 사법정책자문위원회를 둘 수 있다. 사법정책자문위원회는 사법정책에 관하여 학식과 덕망이 높은 사람 중에서 대법원장이 위촉하는 7명 이내의 위원으로 구성하며, 그 조직·운영에 필요한 사항은 대법원규칙으로 정하도록 한다. 심의 안건은 재판제도 개선, 인사제도 개선, 사법정보화 등 주요 사법행정 현안이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;한편 천 처장은 법관 증원이 21대 국회에서 이뤄지지 못한 경위에 관한 설명도 덧붙였다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;천 처장은 "여야 정치권 모두 법관 증원의 필요성에는 아무런 이의가 없었음에도 사법부와는 무관한 외부의 상황으로 인해 개정안 통과가 결국 무산돼 너무나 안타깝다"고 말했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이어 "당면한 재판지연 문제의 근본적이고 지속 가능한 해결을 위해서는 법관 증원과 이를 통한 재판부 신설이 시급하게 이루어져야 하는 만큼 제22대 국회 초기에 반드시 법관 증원이 이루어질 수 있도록 만반의 준비를 하고 동시에 재판연구원(로클럭) 증원을 비롯해 재판 인력의 충분한 확보·활용 방안을 찾기 위해서 다각도로 노력하겠다"고 강조했다.&lt;/p&gt;</description>
-			<pubDate>Thu, 30 May 2024 02:54:36 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198689</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198689</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/190524(13).jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>EU의 글로벌 디지털 규제, K-빅테크에도 타격 있어</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/198668(1).jpg" alt="198668.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;사전 규제를 적용하는 디지털시장법(DMA)의 규율 대상에 우리나라 기업이 포함될 가능성이 있다는 주장이 나왔다. 이에 따라 국내 디지털 플랫폼 사업자도 DMA에 대한 정확한 이해를 통해 컴플라이언스 요건을 정의하고 이를 준수할 수 있는 대응 방안을 만들어야 한다는 것이다.&lt;br /&gt;&lt;br /&gt;고려대 기술법정책센터(센터장 이성엽)는 지난 28일 서울 소공동 웨스턴 조선호텔에서 'EU의 글로벌 디지털 규제와 한국의 대응방향'을 주제로 제82회 정기세미나를 개최했다. &lt;br /&gt;&lt;br /&gt;이번 세미나는 EU(유럽연합)가 글로벌 디지털 규제에 관한 새로운 법제를 양산하고 있는 상황에서 한국에의 시사점을 살펴보기 위해 마련됐다.&lt;br /&gt;&lt;br /&gt;김병일 한양대 로스쿨 교수, 양천수 영남대 로스쿨 교수, 이해붕 업비트 투자자보호센터장이 각각 △EU의 반독점 규제 △EU의 데이터·AI 규제 △EU의 가상자산 규제에 관해 발표했다. 이어진 토론에는 이성엽 고려대 교수가 좌장을 맡고,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8551"&gt;윤종수&lt;/span&gt;(60·사법연수원 22기) 법무법인 광장 변호사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6640"&gt;정영진&lt;/span&gt;(58·22기) 김·장 법률사무소 변호사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4253"&gt;강태욱&lt;/span&gt;(50·31기) 태평양 변호사가 패널로 참여했다.&lt;br /&gt;&lt;br /&gt;김 교수는 “EU가 디지털 시장 관련 경쟁법과 개인정보보호법의 조화로운 상생을 모색하고 있는 점은 우리에게 시사하는 바가 크다”며 “플랫폼 사업자의 면책특권을 제한하려는 움직임이 전 세계적으로 진행되고 있어 DSA(디지털서비스법)의 여파는 규제의 시작일 수 있다”고 분석했다.&lt;br /&gt;&lt;br /&gt;양 교수는 특히 인공지능법에 대해 “위험 기반 접근법과 인공지능 유형화는 국내에서도 받아들일 만한 방안이지만, 금지된 인공지능 실행에 관해서는 신중한 접근이 필요하다”고 말했다.&lt;br /&gt;&lt;br /&gt;이해붕 센터장은 “디지털자산 시장법(MiCA)은 전통적 금융행위와 유사한 수준으로 암호자산의 발행 등에 관한 경제적 현상을 규율할 통일된 규칙과 제도를 마련하고 있다”며 “EU의 이러한 접근방식을 국내에서도 적절히 고려할 필요가 있다”고 강조했다.</description>
-			<pubDate>Thu, 30 May 2024 00:54:54 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198668</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198668</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/198668(1).jpg</media:thumbnail>
-			<dc:creator>안현 기자</dc:creator>
-		</item>
-		<item>
-			<title>한국엔터테인먼트법학회 '음악산업의 법·정책적 현안' 학술세미나</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/198671(1).jpg" alt="198671.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;한국엔터테인먼트법학회&lt;/b&gt;(회장 이재경 교수)는 지난 22일 서울 강남구 법무법인 화우 연수원에서 '음악산업의 법·정책적 현안'을 주제로 제108회 학술세미나를 열었다.&lt;p&gt;&lt;br /&gt;이날 세미나는 한국 대중음악 산업의 현황을 분석하고 관련된 법적 쟁점을 논의하기 위해 마련됐다. 오지헌 법무법인 원 변호사가 '음악저작물 사용료의 법률적 쟁점'을, 허유정 중앙대 문화예술경영 석사 연구원이 '케이팝(K-POP) 스타시스템 분석 – 하이브·어도어 사태를 돌아보며'를 주제로 발표했다.   &lt;/p&gt;&lt;p&gt;&lt;br /&gt;이어진 토론에서는 이동연 한국예술종합학교 교수(문화연대 대표), 나의연 파도엔터테인먼트 매니저, 신대철 바른음원 대표(밴드 시나위 리더), 그룹 브레이브걸스 전 멤버이자 유튜버로 활동 중인 노혜란 씨, 한정수 미스틱스토리 뮤직부문 대표, 김종우 뮤직카우 IP 전략실장 등 음악산업의 다양한 분야에서 종사하고 있는 토론자들이 참여했다.      &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;학회 관계자는 "앞으로 분기별로 엔터테인먼트 산업과 관련해 시의성 있는 여러 가지 주제를 법률적 관점에서 논의하기 위한 학술세미나를 개최할 계획"이라고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Thu, 30 May 2024 00:40:43 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198671</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198671</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/198671(1).jpg</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
