@@ -13,6 +13,133 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>60대의 데이트 살인... 헤어지자는 말에 母女 찔렀다</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/31/WLYJV5X4BZHALALYTVE5IU6ITA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/WLYJV5X4BZHALALYTVE5IU6ITA/</guid>
+      <dc:creator>박정훈 기자, 강지은 기자, 강우석 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 31 May 2024 12:00:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D7IO6LYGOFFCLNA3OJCFBZL77M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남의 한 오피스텔에서 모녀를 흉기로 찌르고 달아난 뒤 하루 만에 검거된 60대 남성 용의자가 31일 오전 서울 수서경찰서로 압송되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남 모녀(母女) 살인 사건의 60대 피의자가 31일 경찰에 붙잡혔다. 서울 수서경찰서는 박씨가 교제 중인 60대 여성의 ‘이별 통보’에 격분해 범행했을 가능성을 수사 중이다. 강남역에서 20대 의대생이 연인을 흉기로 살해한 지 한 달도 지나지 않아 5060 세대에서 교제 살인 사건이 발생한 것이다. 전문가들은 “중·노년층도 데이트 폭력 같은 범죄에서 예외가 아니다”라고 지적했다.&lt;br&gt;&lt;br&gt;◇이별 통보에 보복, 흉기 휘두른 듯&lt;br&gt;&lt;br&gt;수서서는 이날 오전 7시 45분쯤 서울 서초구 남태령역 인근에서 박모(64)씨를 긴급 체포했다. 박씨는 지난 30일 강남구 선릉역 인근 한 오피스텔에서 60대 여성 A씨와 그의 30대 딸을 흉기로 살해한 혐의를 받는다. 박씨는 피해자 A씨와 6개월 정도 사귄 사이였던 것으로 알려졌다. 이날 A씨가 이별을 통보하려고 딸과 함께 일하는 사무실 근처에서 박씨를 만났다고 한다. 조사 과정에서 경찰은 “A씨가 박씨에게 ‘오늘부로 정말 이제 그만 만나자’고 말하려고 했다” “최근 피해자에 대한 집착과 위협이 심각했다” 같은 주변 진술을 확보한 것으로 알려졌다. 이별 통보에 ‘보복 살인’을 저질렀을 가능성이 있다는 것이다.&lt;br&gt;&lt;br&gt;모녀의 시신엔 흉기로 10여 차례 찔린 흔적이 남아 있다고 한다. 소방 당국은 이날 오후 6시 52분쯤 “아내가 칼에 맞았다”는 A씨 사위의 신고를 받고 현장에 출동했으나 모녀는 이미 심정지 상태였다. A씨 사위는 장시간 아내의 연락이 없자 직접 사건이 일어난 오피스텔로 갔다가 참변을 발견한 뒤 바로 신고한 것으로 파악됐다. 박씨와 A씨는 6시 10분쯤 함께 엘리베이터를 타고 사무실로 올라갔다고 한다. 경찰은 박씨의 살인이 오후 6시 16분쯤 발생한 것으로 보고 있다. A씨는 4층 계단, 딸은 6층 계단에서 각각 발견됐다.&lt;br&gt;&lt;br&gt;본지가 31일 오전 찾은 사건 현장엔 피해자들이 흘린 핏자국이 선연했다. A씨의 사무실은 6층이었지만 4층과 3층비상 계단 벽과 바닥에도 핏자국이 수십 개 남아 있었다. 4층 엘리베이터 옆 벽면엔 핏자국이 10여 개 튀어 있었고, 3층 비상 계단에도 성인 손바닥만 한 크기 핏자국 여러 개와 가로 50㎝가량 대형 혈흔도 남아 있었다. 경찰 관계자는 “모녀가 흉기를 휘두르는 박씨에게서 필사적으로 달아나다가 변을 당했을 가능성이 있다”며 “박씨가 먼저 A씨를 공격했고 이를 만류하는 딸까지 살해한 것으로 추정된다”고 했다. 범죄 전문가들은 “시신의 훼손이 심하다면 치정·원한에 의한 전형적인 감정 분출 사례”라고 했다.&lt;br&gt;&lt;br&gt;현장에서 만난 한 상인은 “여성 2명이 구급대원들에게 심폐소생술을 받고 있더라”라며 “겉으로 보기엔 핏자국도 없고 멀쩡해 살인 사건인 줄은 전혀 몰랐다”고 했다. 다만 모녀 피살 사실이 알려지고, 혈흔이 낭자한 현장에 붕대 등 자취가 남은 모습에 입주민들은 “무서워서 집 밖으로 나올 수 없다”는 반응을 보였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VR6KAZHJG5GMLKMRGTLOOSWBGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;◇13시간 동안 주도면밀하게 경찰 따돌려&lt;br&gt;&lt;br&gt;박씨는 범행 직후 서울 강남에서 택시를 타고 도주, 13시간 동안 강북과 경기 지역 일대에서 수차례 택시를 갈아타며 경찰 추적을 따돌렸다. 박씨는 피가 묻은 옷을 그대로 입고 거리를 활보하는 대담함을 보이면서도 택시·버스를 수차례 갈아타거나 중간중간 도보로 이동하며 주도면밀하게 도피했다. 특히 경찰은 박씨가 추적이 용이한 휴대전화를 끄거나 실시간으로 결제 흔적이 남는 신용카드 역시 전혀 사용하지 않은 채 현금으로만 이동한 점에 주목하고 있다. 박씨는 도주 과정에서 피가 묻은 겉옷을 버리기도 했다. 검거 과정에선 자해하기도 했다.&lt;br&gt;&lt;br&gt;지능적인 수법으로 감시 카메라가 즐비한 서울 도심에서 경찰 추적을 13시간 동안이나 피했던 박씨는 모녀 살해가 ‘우발적 범행’이라고 주장했다. 그는 이날 오전 수서서로 압송되면서 “범행은 왜 저질렀느냐” “피해자와 무슨 관계냐”는 취재진 질문에 “죄송하다”고 했다. “계획적으로 범행을 저지른 것이냐”는 물음엔 “아니다”라고 했다. 우발적 범행이냐는 질문엔 “맞다”고, 흉기를 준비했느냐는 질문엔 “아니다. (원래) 거기 있던 것”이라고 했다. 경찰은 모녀 시신을 부검해 정확한 사인을 규명하는 한편, 박씨에게 살인 등 혐의로 구속영장을 신청한다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/OVUXRQJ46ZC4NPLK4BHQP7XEAA.JPG?width=1631&amp;height=918&amp;auth=529d5549233e6370a111fa1326ba8f05c147e4205bfd118a8b684ad8984e9919&amp;smart=true" type="image/jpeg" height="918" width="1631">
+        <media:description type="plain">서울 강남의 한 오피스텔에서 모녀를 흉기로 찌르고 달아난 뒤 하루 만에 검거된 60대 남성 용의자가 31일 오전 서울 수서경찰서로 압송되고 있다. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 박정호 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘성 착취물 제작’ 서준원 전 투수.. 집행유예 기간 중 음주운전 사고</title>
+      <link>https://www.chosun.com/national/incident/2024/05/31/WHS7ST2ZSFCJVB72UBBNG43KBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/05/31/WHS7ST2ZSFCJVB72UBBNG43KBM/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 31 May 2024 13:36:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VXSE7UYM4NNKPC4VHISSPSAPKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미성년자 성 착취물 집행유예 선고받은 서준원 전 롯데자이언츠 투수. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미성년자 성 착취물을 제작한 혐의 등으로 기소돼 징역형의 집행유예를 선고받은 서준원(24) 전 롯데자이언츠 투수가 음주운전을 하다 사고를 냈다.&lt;br&gt;&lt;br&gt;부산 부산진경찰서는 도로교통법상 음주운전 혐의로 서씨를 불구속 입건했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;서씨는 이날 오전 0시 45분쯤 부산시 부산진구 개금동의 한 교차로에서 술을 마시고 운전하다 신호대기 중이던 택시를 들이받는 사고를 낸 혐의를 받고 있다. 이 사고로 택시기사가 다쳐 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;당시 서씨의 혈중 알코올농도는 운전면허 정지 수준(0.03~0.08% 미만)인 것으로 조사됐다. 경찰은 조만간 서씨를 불러 자세한 사고 경위를 조사할 예정이다.&lt;br&gt;&lt;br&gt;서씨는 지난해 9월 미성년자 성 착취물을 제작하고 음란행위를 강요한 혐의 등으로 재판에 넘겨져 징역 3년에 집행유예 5년을 선고받았다. 서씨는 이 사건으로 롯데자이언츠 구단에서 방출됐고, 프로야구협회에서도 제명됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“함께 술 마시고 자고 일어났는데 죽어있어” 前남친이 신고</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/31/VWFOGOFCDNEU3DDOHULTU6BFPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/VWFOGOFCDNEU3DDOHULTU6BFPQ/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 31 May 2024 13:01:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJACOCQWWU5QCEDLXLXU6WACM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;함께 잠을 자던 전 여자친구가 숨져 있었다는 신고가 접수돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;31일 경찰 등에 따르면, 충남 아산경찰서는 지난 30일 20대 남성 A씨로부터 B(20대)씨의 사망신고를 접수하고 입건 전 조사(내사)에 착수했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 30일 오전 11시 21분쯤 아산시 한 아파트에서 B씨가 숨져 있는 것을 보고 경찰에 신고했다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 이들은 옛 연인관계로 헤어진 상태였지만, 아파트에서 동거하는 등 최근까지 지속해 교류했던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 “지난 29일 오후 B씨와 술을 마신 뒤 잠을 잤는데, 자고 일어나보니 B씨가 숨져 있었다”고 경찰에 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 검안 결과 B씨 시신에서 상처, 멍 등 외상 흔적이나 범죄혐의점 등은 없었다.&lt;br&gt;&lt;br&gt;경찰은 B씨의 시신 부검을 국립과학수사연구원에 의뢰한 상태로, 1차 구두 소견은 특이점이 없다고 나왔다.&lt;br&gt;&lt;br&gt;경찰은 정밀 부검 결과를 확인 후 수사를 진행할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘응급실 뺑뺑이’ 환자 받아준 병원, 정부가 지원금 3배 준다</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/05/31/RV4VJ7BEXZFP3BDST6MJBRJBX4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/05/31/RV4VJ7BEXZFP3BDST6MJBRJBX4/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 31 May 2024 11:07:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GZKW7KZEZKBZIJSBQH2FBJXEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 29일 서울 시내 한 상급종합병원 응급실에서 환자가 이송되고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의사가 없어 ‘응급실 뺑뺑이’를 돌고 있는 응급 환자를 받아준 병원엔 환자당 지원금 금액을 지금의 3배로 올린다. 전국의 47개 상급종합병원(대형 병원)뿐만 아니라 전국 응급 환자 진료가 가능한 전문병원도 지원 대상에 포함된다. 전공의 이탈로 병원 가동이 20~50%가량 줄어든 상황에서 각 병원의 응급·중증 환자의 수용을 유도하기 위한 차원이다.&lt;br&gt;&lt;br&gt;정부는 31일 응급 환자 치료 관련 보상액을 높이는 방안을 발표했다. 정부는 고난도 수술인 ‘신장 이식’ 수가(건보공단이 병원에 주는 돈)를 전면 인상하기로 했다. 기증자가 살아있는지, 뇌사 상태인지에 따라 신장 이식 수술의 난도가 달라지는데, 기존에는 수술 종류를 구분하지 않고 469만원의 수가가 동일하게 적용됐다. 오는 7월부터는 ‘생체 이식술’과 ‘뇌사자 이식술’ 수가가 기존 대비 120% 인상된 1032만원으로 오르게 된다. 한번 이식된 신장을 다른 환자에게 재이식하는 ‘재이식술’ 수가는 기존 대비 186% 인상된 1341만원으로 오른다.&lt;br&gt;&lt;br&gt;정부는 또 이날 이탈 전공의들을 향해 “이탈 기간이 다르면 그에 따른 처분 내용도 달라질 것”이라고 했다. 빨리 복귀한 전공의에 대해 불이익을 최소화하겠다는 것이다.&lt;br&gt;&lt;br&gt;이날 가톨릭의대 비상대책위원회는 서울 서초구 서울성모병원에서 ‘의정 갈등 넘어 미래 의료 환경으로’라는 주제로 심포지엄을 열었다. 김태근 가톨릭중앙의료원 전공의협의회 비대위 대표는 발표에서 “의사 부족이 문제가 아니라 이미 배출된 전문의들조차 자신이 전공한 분야가 아닌 다른 분야로 떠나도록 만드는 의료 시스템이 문제”라고 했다.&lt;br&gt;&lt;br&gt;김창수 전국의과대학교수협의회 회장은 이 행사에서 “내년 3월부터 (의과대학) 학생들이 유급되고 신입생마저 들어오게 되면 (함께 수업을 받는 유급생과 신입생은) 수업권이나 학습권이 침해받을 것”이라며 “그렇게 되면 (대학교) 총장에게 책임을 묻고 구상권을 청구해서 쪽박을 차게 만들어주겠다”고 했다. “3년간 끝까지 (투쟁)하려고 생각하고 있다”고도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“알바할래?”…유흥업소에 10대 데려가 성매매 알선한 업주</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/31/WRC5ZDVERFBEBD5JKPOSYKC4YA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/WRC5ZDVERFBEBD5JKPOSYKC4YA/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 31 May 2024 11:16:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OIPGVGEQBNAI7SDRYROQIWNSRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10대 여학생 2명을 자기가 운영하는 유흥업소로 유인해 보름 넘게 데리고 있으면서 성매매를 알선하는 등 범죄를 저지른 업주들이 경찰에 검거됐다.&lt;br&gt;&lt;br&gt;31일 경찰에 따르면 경기 오산경찰서는 아동·청소년의 성보호에 관한 법률상 강간 및 알선영업행위 등 혐의로 40대 A씨 등 2명에 대해 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 달 18일부터 지난 5일까지 본인들이 공동으로 운영하는 유흥업소에 B양 등을 데리고 있으면서 성폭행하고 성매매 등을 시킨 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이들은 지난 달 18일 여의도 한강공원에서 B양 등을 만나 “아르바이트 자리를 주겠다”고 제안하며 유인했던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이후 A씨 등은 B양 등을 서울과 오산 등지에 위치한 유흥업소들에 데리고 다니며 성범죄를 저질렀던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;B양 등은 A씨 지인의 거처에 머물던 지난 5일 부모와 연락이 닿아 해당 지인에 의해 가족에게 인계됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “피해자들은 A씨가 자신을 조폭이라고 협박하는 등 겁을 먹은 상태에서 성매매 알선 등에 응하게 됐다고 진술한다”고 전했다.&lt;br&gt;&lt;br&gt;경찰은 지난 30일 A씨 등을 긴급체포하고 이날 구속영장을 신청한 가운데 자세한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경기 의정부서 전신주 쓰러져 5시간 30분 정전... 주민 불편</title>
+      <link>https://www.chosun.com/national/incident/2024/05/31/5MS6AG3UJBDYFMTY7E7MCGZMYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/05/31/5MS6AG3UJBDYFMTY7E7MCGZMYQ/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 31 May 2024 12:50:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HRUSIMLMKBBB7PPHEVYJDOEFNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오후 3시 16분쯤 경기도 의정부시 의정부동의 한 주택가에서 전신주가 쓰러져 일대에 정전이 발생했다. /의정부소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 의정부시의 한 주택가에서 전신주가 옆으로 기울어지는 사고가 발생했다. 이 사고로 전기 공급이 중단되면서 주민들이 5시간 30분 정도 불편을 겪었다.&lt;br&gt;&lt;br&gt;31일 경기 의정부소방서와 한국전력 등에 따르면 이날 오후 3시 16분쯤 의정부시 의정부동의 한 주택가에서 “전신주가 쓰러졌다”는 119 신고가 접수됐다.&lt;br&gt;&lt;br&gt;옆으로 기울어진 전신주를 확인한 소방 당국은 한전에 관련 내용을 알렸고, 한전은 전신주 교체 작업을 진행했다. 이로 인해 주변 주택과 상가 등 총 345가구에 전기 공급이 끊긴 것으로 파악됐다.&lt;br&gt;&lt;br&gt;한전은 이날 오후 8시 46분쯤 전신주 교체 작업을 마무리하고 전력 공급을 재개했다. 사고 발생 5시간 30여분 만이다.&lt;br&gt;&lt;br&gt;소방 당국과 한전은 전신주가 옆으로 넘어진 정확한 원인 등을 파악 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>성심당 사태에 대전시 참전... “나와서 우리땅서 장사하자”</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/31/PLTHH75D25FIFOHYO7AVE4ZYF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/PLTHH75D25FIFOHYO7AVE4ZYF4/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 31 May 2024 12:36:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FM2PYBUZ2DNJEM4EQKUK3NKOC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 대표 빵집으로 꼽히는 ‘성심당’ 대전역점. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전역사 내부에 분점이 있는 성심당 측의 대전역 입점 수수료 문제를 두고 코레일유통과 입장 차이가 좁혀지지 않는 가운데, 대전시장이 양측의 협의 과정을 기다리며 대책 마련을 검토하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;31일 업계에 따르면 이장우 시장은 전날 소상공인 지원 대책과 관련한 브리핑에서 “대전시는 성심당이 코레일을 떠나는 것에 대한 대안을 갖고 있다”며 “대전역 앞에 교통공사가 운영하는 공간이 있다”고 했다.&lt;br&gt;&lt;br&gt;이 시장은 “대전시야말로 제일 관심을 많이 가지고 있고 최근 성심당 대표와 통화를 했는데 8월까지는 본인들이 여러 방안을 논의해보고 그 뒤에 어려움이 있으면 상의하기로 했다”고 했다.&lt;br&gt;&lt;br&gt;이 시장은 “성심당은 지금도 월세를 어마어마하게 주는데 그걸 감당할 수 있는 업체가 어디 있겠나”라고 했다.&lt;br&gt;&lt;br&gt;그러면서 이 시장은 “코레일은 국정감사 지적에 따라 법에 정해진 매출액 17% 입점료를 적용하겠다는 것이지만, 지역 업체는 규정을 융통성 있게 완화하는 것이 맞다고 본다”고 했다.&lt;br&gt;&lt;br&gt;권경민 대전시 경제과학국장도 “성심당은 이미 매출액이 1000억원이 넘었기 때문에 중견기업”이라며 “관련 법에 따라 향토기업으로 볼 수 있어 시에서도 예외 규정으로 지원이 가능함을 검토한 상태”라고 설명했다.&lt;br&gt;&lt;br&gt;코레일유통은 “전국 모든 철도역 상업시설에 매출액 대비 17% 이상 50% 미만의 통일된 기준에 따라 운영사업자를 선정하고 있다”며 “성심당만 예외를 둘 순 없다”는 입장을 고수하고 있다.&lt;br&gt;&lt;br&gt;성심당 대전역점은 그동안 유찰이 거듭돼 현재 5차 입찰이 진행되고 있다. 성심당이 코레일유통 지침에 따를 경우 연간 약 50억원의 수수료를 내야 한다. 성심당 측은 고용 규모 등 사회 공헌도를 감안하면 금액이 과도하다며 수용할 수 없다고 밝혔다.&lt;br&gt;&lt;br&gt;성심당이 빠지면 해당 위치에 월세 3억 이상을 내고 응찰할 업체도 마땅치 않아 5차 입찰 역시 유예될 가능성이 높은 상황이다. 코레일유통 측은 ‘최종 불발’도 감내한다는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘치정 살인’에 나이는 없다... 40~60대 데이트 폭력 34%</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/31/QAY4ICC7ONC6BCDGQN64QPUGGY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/QAY4ICC7ONC6BCDGQN64QPUGGY/</guid>
+      <dc:creator>김수경 기자, 장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 31 May 2024 12:01:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AAFQOUBOZVCL5EFC64B5XX3OZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여성 상대 폭력 행사. /일러스트=정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 30일 ‘강남 모녀 살인 사건’은 지난달 6일 서울의 한 의대생 최모(25)씨가 강남역 인근 건물 옥상에서 연인을 찔러 살해한 지 채 한 달도 지나지 않아 발생했다. 범죄 전문가들은 “데이트 폭력이 이젠 ‘교제 살인’으로 이어지고 있다”며 “범행 빈도도 높아지고 수법도 잔혹해지고 있다”고 했다. 지난 3월엔 경기 화성에서 김레아(26)가 연인과 그 모친에게 흉기를 휘둘러 연인을 살해하고 모친에게 중상을 입힌 사건이 일어났다.&lt;br&gt;&lt;br&gt;경찰청 통계를 보면 교제 폭력 검거 피의자는 매년 늘고 있다. 2020년 8951명이었던 수치가 2023년 1만3939명으로 늘었다. 연령대도 젊은 층에만 국한되지 않는다. 경찰대 치안정책연구소 자료를 보면 2022년 9월 기준 교제 폭력 피의자 연령대는 20대가 3631명(36.8%)으로 가장 높았다. 30대는 2526명(25.6%)이었다. 40대와 50대도 각각 1768명(17.9%), 1207명(12.2%)이었다. 60대도 404명(4.1%)이었다.&lt;br&gt;&lt;br&gt;김상균 백석대 경찰학부 교수는 “요즘은 과거에 비해 연인 사이에서 ‘헤어지자’ ‘그만 만나자’ 같은 의사 표현을 적극적으로 하고 있다”며 “이를 받아들이지 못하는 사람들이 데이트 폭력, 교제 살인을 벌이는 것으로 보인다”고 했다. 김 교수는 데이트 폭력, 교제 살인이 청년·중년·노년 연령층을 가리지 않고 발생하는 광범위한 범죄임을 지적하며 “데이트 폭력 등에 대한 처벌을 법을 보완해서라도 강화해야 한다”고 했다. 특히 경찰이 ‘두 성인 간의 사적인 다툼’ 정도로 치부하는 관행을 더욱 개선해야 한다는 지적도 나온다. 남녀 성평등 교육을 통해 상대의 의사를 이성적으로 존중하는 훈련을 어린 시절부터 해야 한다는 여성계 지적도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>장애 학생 삼단봉으로 폭행…부산 특수학교 교사 입건</title>
+      <link>https://www.chosun.com/national/incident/2024/05/31/V4KNNKMT2VESPOG3TTBXPQRHYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/05/31/V4KNNKMT2VESPOG3TTBXPQRHYE/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 31 May 2024 10:32:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YZVKXCTK5VEL7CLP7QAJ3HYIYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 사상경찰서 전경. /부산 사상경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 특수학교 교사가 장애 학생을 삼단봉으로 폭행해 경찰 조사를 받게 됐다.&lt;br&gt;&lt;br&gt;부산 사상경찰서는 장애인복지법상 상해 혐의로 특수학교 교사 A씨를 입건했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 27일 오전 9시쯤 부산의 한 특수학교에서 장애 학생 10대 B군을 폭행해 다치게 한 혐의를 받고 있다. A씨는 B군이 조례 참석을 거부하고 수업 시간에 말을 듣지 않는다는 등의 이유로 삼단봉으로 B군의 엉덩이를 여러 차례 때린 것으로 알려졌다.&lt;br&gt;&lt;br&gt;B군은 현재 병원에서 치료를 받고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “조만간 A씨를 소환해 정확한 사건 경위 등에 대해 조사할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 6월 1일 토요일 (음력 4월 25일 丙申)</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/31/USIMCAEUXVENVEJH2HVLYZYI7I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/USIMCAEUXVENVEJH2HVLYZYI7I/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 31 May 2024 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 기적도 최선 다할 때 생긴다. 48년생 기도와 정성에는 무쇠도 녹는다. 60년생 친구 따라 강남 가 봐도 별것 없다. 72년생 100% 만족은 기대 말라. 84년생 윗사람 조언 따라보는 것도 좋을 듯. 96년생 말투 하나에 감정 상할 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 잘돼도 못돼도 일희일비할 것 없다. 49년생 감언이설에 현혹되지 않도록. 61년생 집이 답답해도 외출 삼가야. 73년생 어딜 가도 인정받을 수 있다. 85년생 내 실수도 있으니 시시비비 가리지 말라. 97년생 단 샘이 먼저 마른다 했다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 약간 장애가 앞길 막을 수도. 50년생 맹수는 함부로 발톱 보이지 않는다. 62년생 심리적 안정이 무엇보다 우선. 74년생 일에는 단계 있음을 명심. 86년생 큰 그물 아니면 고래 못 잡는다. 98년생 푸른색과 숫자 3, 8이 행운 부른다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 마른 나무에 새 싹이 돋는구나. 39년생 금전이나 사람 때문에 번민한다. 51년생 낙법(落法)이 권법(拳法)보다 먼저. 63년생 늦더라도 하는 게 안 하기보다는 낫다. 75년생 끝까지 긴장 풀지 말아야. 87년생 우회 도로 이용하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 현재는 제자리 지키기가 중요. 40년생 건강관리에 각별히 신경 쓰도록. 52년생 행복 속에선 행복 모른다. 64년생 사건 사고에는 분명한 원인 있다. 76년생 실리도 좋지만 명분을 먼저 생각하라. 88년생 남의 것이면 욕심 내지 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 주위에 범띠 있다면 그가 귀인. 41년생 미처 몰랐던 수완을 발휘할 듯. 53년생 소중함은 무엇보다 화목에 있음을 명심. 65년생 이동 과정에서 안전사고 유의. 77년생 숨 쉬고 살아 있는 한 희망은 있다. 89년생 급히 먹는 밥이 체하는 법.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 사탕발림으론 오래가기 어렵다. 42년생 격렬한 운동보다 가벼운 산책이 좋을 듯. 54년생 어떤 일 있어도 자존심 지키도록. 66년생 일단 움직이며 생각해도 늦지 않다. 78년생 1회뿐인 인생 재방송도 없다. 90년생 남쪽에 서기(瑞氣) 서린다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 언 발에 오줌 눠 봐야. 43년생 천천히 추진하라, 조급하면 손해. 55년생 상대방 의견 따르면 결과 좋다. 67년생 태양도 뜨지만 비 오는 날도 있다. 79년생 공부 관련은 학습 효과 배가되는 시기. 91년생 무더운 여름 있어야 곡식 여물지.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 행동보다 말이 앞서면 손해. 44년생 무엇이든 혼자보다는 친구 동료와 함께하라. 56년생 배우자와 다툼 주의. 68년생 굽힐 줄 알아야 펼 줄도 알지. 80년생 술자리, 회식 자리 언행을 각별히 주의. 92년생 이성적인 판단으로 대처해야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 다투지 말라, 訟事(송사)가 두렵다. 45년생 분주하고 번잡한 일이 많다. 57년생 매사 겸손한 자세를 견지하라. 69년생 문제는 속도가 아닌 완성도. 81년생 사람들과 맺은 관계에 자금과 시간 투자 필요. 93년생 궁하면 변하고 변하면 통하는 법.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 인내와 의지만이 모든 것을 가능케 한다. 46년생 만족을 알면 부족함 없다. 58년생 섣부른 투자는 손실만 초래. 70년생 중문(中門) 출입이 이롭다. 82년생 내일 걱정까지 미리 할 필요 있나. 94년생 하고 싶은 말 있어도 일단 참아라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 내일 일은 내일 생각하라. 47년생 우유부단한 처신이 이로울 수도. 59년생 발상 전환으로 상식의 틀 깨라. 71년생 이해와 관련한 부정 청탁은 과감히 거절하라. 83년생 새 자세로 임하면 나날이 새롭다. 95년생 인내로 못 받을 보상은 없다.	&lt;br&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 6월 2일 일요일 (음력 4월 26일 丁酉)</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/31/UQ67L736WNGJRNW7YLOCL45DPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/UQ67L736WNGJRNW7YLOCL45DPA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 31 May 2024 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 뇌·심혈관 계통 질환은 사전 주의. 48년생 기회 왔으니 시도해봐도 무방. 60년생 어려움 겪어야 기개 나타난다. 72년생 부뚜막 옆도 굶는 수 있다. 84년생 분에 넘치는 명예가 화 부를 수도. 96년생 누런색과 숫자 5, 10 행운 부른다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 융화 추구하되 동화되진 말아야. 49년생 포기도 또 다른 선택. 61년생 논란거리에 관여는 금물. 73년생 기대 크면 실망도 큰 법. 85년생 투자 방향에 재검토 필요한 시기. 97년생 남쪽에 사기(邪氣) 감도니 피하는 게 상책.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 동료가 시기하니 주위 경계하라. 50년생 성인 아닌 이상 실수는 늘 있는 법. 62년생 자금 사정 여유롭다면 투자는 좋다. 74년생 오랜 친구와의 언쟁 주의. 86년생 서쪽 대문은 귀인 오는 길목. 98년생 잊고 지낸 인연 찾아보면 좋을 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 하루가 일 년을 좌우 못한다. 39년생 이미 함께면 의심하지 마라. 51년생 지금 단계에 해야 할 일 진행하도록. 63년생 일꾼 박대하면 당일 망하는 법. 75년생 새 문서로 갈아타는 게 좋을 듯. 87년생 제 먹긴 싫고 남 주긴 아깝고.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 앉아서 준 돈 서서라도 받으면 다행. 40년생 요행·사행 관련은 밑 빠진 독 물 붓기. 52년생 한번 깨진 신뢰 복원 쉽지 않다. 64년생 문서와 도장 신중히 다루도록. 76년생 규칙적인 운동으로 삶의 활력을. 88년생 전반적 운세는 반흉반길.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 다급할수록 여유롭게 대처해야. 41년생 새 삶 개척하기에 늦지 않다. 53년생 매가 꿩 잡고 싶어 잡아주나. 65년생 상갓집은 가급적 멀리하는 게 상책. 77년생 의욕 충만하되 과욕은 금물. 89년생 한쪽 말만 듣고 섣부른 결정 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 문제 있다면 가족에게 해답 있다. 42년생 지금은 어려워도 머지않아 보상 따를 듯. 54년생 제 발등 제가 찍는구나. 66년생 세상은 먼저 날 버리지 않는다. 78년생 거지끼리 동냥 바가지 깨서야 쓰나. 90년생 희생 따라도 돌파하는 자세 필요.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 지금 당장은 아니어도 서서히 풀릴 듯. 43년생 움츠리지 말고 적극 실행하라. 55년생 여유로운 마음가짐이 행복 부른다. 67년생 백두산도 앞동산이 가릴 수 있다. 79년생 친구가 시기하니 주위를 경계. 91년생 내 편리만 고집하면 미움 받을 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 중요한 일 처리는 오전보다 오후에. 44년생 침착성과 안정 잃지 말아야. 56년생 자동차 등 노상(路上) 안전사고 조심. 68년생 적은 멀리 있지 않으니 등 뒤 살피도록. 80년생 외부 활동은 이익도 손실도 없다. 92년생 예감과 꿈 잘 맞는 하루.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 망망대해에서 나침반 잃은 격. 45년생 매가 꿩 잡고 싶어 잡아주나. 57년생 뒷배만 믿고 밀어붙이면 손해 보기 십상. 69년생 헛된 욕심에 무리수 두진 말아야. 81년생 빨리 다는 화로가 빨리 식는 법. 93년생 직장 변동과 주거 이동 많은 시기.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 지나간 일 미련 둘 것 없다. 46년생 요령과 잔꾀로 해결될 일 아니다. 58년생 친한 지인들과 기분 전환 시간 갖도록. 70년생 기도와 수행으로 마음과 정신 맑게. 82년생 농조(籠鳥)가 하늘로 나는구나. 94년생 두뇌 회전 활발해지는 시기.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 작은 실수는 덮고 가라. 47년생 오해 살 언행은 절대 삼가라. 59년생 무리하지 않는 선에서 투자도 좋을 듯. 71년생 푸른 옷 입은 사람을 조심하라. 83년생 이 덕(德) 저 덕 모두 하늘 덕임을 알라. 95년생 떡 주무르듯 주도적으로 끌고 갈 듯.	&lt;br&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>스피또1000 발권 오류로 20만장 회수한 동행복권 전·현직 대표, 검찰 송치</title>
       <link>https://www.chosun.com/national/national_general/2024/05/31/SGBS6XS7DRFXNDC23VEGRLSFTA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/SGBS6XS7DRFXNDC23VEGRLSFTA/</guid>
@@ -782,18 +909,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T7OTQM4RNRAWTCTOW4PGZT4TWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 수서경찰서. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남에서 60대 남성이 모녀를 흉기를 휘둘러 숨지게 한 사건이 벌어졌다.&lt;br&gt;&lt;br&gt;30일 경찰과 소방당국에 따르면 서울 수서경찰서는 60대 남성 박모(64)씨를 살인 등 혐의로 쫓고 있다.&lt;br&gt;&lt;br&gt;박씨는 서울 강남구 한 오피스텔에서 이날 오후 6시 54분쯤 50대 여성 A씨와 그녀의 딸인 B씨에게 흉기를 휘두른 혐의를 받는다. 박씨와 A씨는 지인 관계라고 한다.&lt;br&gt;&lt;br&gt;박씨의 범행으로 A씨와 B씨는 심정지 상태로 병원으로 이송됐으나 끝내 숨졌다.&lt;br&gt;&lt;br&gt;박씨는 현재 휴대전화를 끄고 도보로 도주 중인 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 폐쇄회로(CC)TV를 분석해 박씨의 도주 경로를 파악하는 한편 구체적인 범행 동기를 파악하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>이상철 곡성군수, 벌금 200만원 당선무효형 확정… 533만원 어치 음식 제공</title>
-      <link>https://www.chosun.com/national/regional/honam/2024/05/30/H6DRVFZQCFGXJAYP6LI6YOGR2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/05/30/H6DRVFZQCFGXJAYP6LI6YOGR2A/</guid>
-      <dc:creator>광주광역시=조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 May 2024 10:55:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K6CHVKNMOIANFDDYDCICNX2FAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상철 전남 곡성군수. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지방선거 당선 후 선거운동원들에게 고액의 음식을 제공한 혐의로 기소된 이상철 전남 곡성군수가 대법원에서 당선무효형 확정 판결을 받았다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 대법관 김상환)는 30일 공직선거법 위반 혐의로 기소된 이 군수에 대한 상고심에서 벌금 200만원을 선고한 원심판결을 확정했다. 이 군수는 2022년 6월 지방선거에 당선된 직후 선거운동원 등 66명에게 지인이 결제한 533만원 상당의 음식을 제공한 혐의로 기소됐다. 1심에서 벌금 90만원을 선고받았으나, 2심에서는 벌금 200만원 당선무효형을 선고받았다. 공직에 선출된 사람이 선거법 위반으로 100만원 이상의 벌금형이 확정되면 직을 상실한다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 “범행이 선거 종료 후 이뤄져 공정한 선거를 방해하지 않았다”며 당선무효형은 선고하지는 않았지만, 2심 재판부의 판단은 달랐다. 1심과 마찬가지로 피고인들이 유죄인 것은 변함이 없지만, 양형이 가벼워 부당하다는 검찰의 항소를 받아들였다.&lt;br&gt;&lt;br&gt;2심 재판부는 총 66명에게 합계 533만원의 음식을 제공한 것이 곡성의 유권자 수, 군수 선거 차점자와 득표격차, 동종사건 금액 등과 비교해 적지 않다고 봤다. 특히 이 군수가 식사비용 처리에 관심을 두지 않는 등 가담 정도가 소극적이지 않다고 판단해 1심보다 가중 처벌했다.&lt;br&gt;&lt;br&gt;이상철 군수는 이날 “지속 가능한 곡성을 만드는 성과가 조금씩 나타나고 있으나, 아쉽게도 여기서 마지막 인사를 드린다”며 “법원의 판단은 존중돼야 하고, 군민 여러분께 심려를 끼쳐 드려 정말 죄송하다”고 말했다. 권한대행을 맡은 이귀동 곡성 부군수는 “군정에 누수가 없도록 꼼꼼히 챙기겠다”며 “지역소멸 위기 대응 정책을 차질없이 추진하겠다”고 말했다.&lt;br&gt;&lt;br&gt;2년 전 지방선거를 앞두고 지역 기자에게 금품을 준 혐의로 기소된 강종만 전남 영광군수도 지난 17일 대법원에서 200만원의 벌금형이 확정돼 군수직을 잃었다. 전남에선 이들 외에 박우량 신안군수, 우승희 영암군수, 박홍률 목포시장 등 3명의 단체장에 대한 재판이 진행 중이다. 곡성과 영광 보궐선거는 오는 10월 16일 시행된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/K6CHVKNMOIANFDDYDCICNX2FAE.jpg?width=720&amp;height=497&amp;auth=0d992cbf9ec2d747aefa3b4b0468646b04f752e28c30129ff4251d5068d9ee6d&amp;smart=true" type="image/jpeg" height="497" width="720">
-        <media:description type="plain">이상철 곡성군수</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>화성 앞바다서 1m 광어 낚은 남성, “평생 기록”인데 놔준 이유 </title>
       <link>https://www.chosun.com/national/national_general/2024/05/30/JEMV3AM6HBF5XHWPW4HMOED4FM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/30/JEMV3AM6HBF5XHWPW4HMOED4FM/</guid>
@@ -801,19 +916,6 @@
       <description/>
       <pubDate>Thu, 30 May 2024 11:22:19 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CXY4TQEFHFKZ3H4ON3AJPYUP4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 25일 경기 화성시 전곡항 인근 해상에서 윤석태씨가 잡은 무려 1m 8㎝ 크기의 광어. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 화성시 전곡항 인근 해상에서 1m가 넘는 크기의 광어를 잡고도 방생한 남성의 사연이 전해져서 화제다.&lt;br&gt;&lt;br&gt;30일 연합뉴스에 따르면, 광어 낚시를 시작한 지 3년 정도 된 윤석태(38)씨는 지난 25일 친구들과 전곡항으로 낚시를 갔다가 1.08m 길이의 광어를 잡았다. 윤씨가 제공한 사진을 보면, 광어가 웬만한 성인 남성의 신체 대부분을 가릴 정도로 거대하다.&lt;br&gt;&lt;br&gt;윤씨는 입질이 왔을 때부터 광어가 보통 크기는 아닐 거라고 직감했다고 한다. 윤씨는 “갑자기 낚싯대가 확 튕겨 올라오더니 ‘훅’하고 물속으로 잡아끄는 게 느껴졌다”며 “어느 순간 ‘이게 보통 크기의 광어가 아니겠구나’ 하는 느낌이 들었다”고 했다. 그러면서 “광어를 낚아 올리는 데 약 15분이 걸렸다”고 했다.&lt;br&gt;&lt;br&gt;윤씨는 잡아 올린 광어의 크기를 측정하고, 기념사진 정도만 찍은 뒤 이를 방생했다. 이 광어가 영물이라고 생각해서다. 윤씨는 “웬만한 크기여야 잡아서 친구들과 먹기라도 할 텐데 이 광어는 아무래도 영물일 거 같았다”며 “작년에 77㎝짜리 광어를 잡은 게 기록이었는데 평생의 기록을 세운 것 같아 기쁘다”고 했다.&lt;br&gt;&lt;br&gt;한편 가자미목 넙칫과인 광어는 넙치라고도 불린다. 일반적으로 길이 40∼60㎝, 무게 1∼3㎏ 정도다. 몸길이가 1ｍ까지 자란 경우는 매우 드문 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ZZDRYGSVNH2DNZ4ATMGEIXBXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3월 강릉 주문진에서 잡힌 1.18m 길이의 광어. /유튜브 '바다로간배스'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다만 종종 길이 1m 이상의 광어를 잡은 사례가 전해지긴 한다. 지난 3월 9일엔 강릉 주문진에서 1.18m 길이 광어가, 같은 달 12일엔 제주 서귀포시에서 길이 약 1m의 광어가 잡혀 이목을 끌었다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아파트 공사장 돌며 협박해 1800만원 뜯어낸 건설노조원들</title>
-      <link>https://www.chosun.com/national/regional/honam/2024/05/30/BI4R46BIFVB65GQCLBUXXZ3LC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/05/30/BI4R46BIFVB65GQCLBUXXZ3LC4/</guid>
-      <dc:creator>무안=조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 May 2024 10:23:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EFHUEUIVR5BFB5YF5RY6T737AM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 무안군에 자리한 전남경찰청 전경./전남경찰청 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 공사장 현장에서 현금을 갈취한 건설노조원들이 검찰에 송치됐다. 전남경찰청 반부패경제범죄 수사1대는 아파트 신축 공사장을 돌며 현금을 갈취한 혐의(폭력행위 등 처벌에 관한 법률 위반)로 A씨 등 건설노조 관계자 5명을 검찰에 송치했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 2021년부터 약 2년 동안 전남 무안과 순천, 광양 등 전남지역 아파트 공사장 3곳에서 노조 전임비와 단체협상비 등을 주지 않으면 공사를 방해하겠다고 협박해 총 1800만원을 뜯어냈다. 경찰은 “전임비는 지부장 등 노조 간부가 조합원의 처우 개선 협상과 같은 노조 업무 수행 시간에 대해 제공되는 급여”라고 말했다.&lt;br&gt;&lt;br&gt;또 동료 조합원의 고용을 강요하고, 이를 거절하면 외국인 노동자 가운데 불법체류자를 색출해 당국에 신고하겠다고 협박하기도 했다. 전임비를 지급하지 않으면 공사를 방해할 것처럼 협박하는 방식도 동원했다.&lt;br&gt;&lt;br&gt;경찰은 “건설현장 불법행위를 단속하던 중 첩보를 받아 내사에 착수해 이들을 검거했다”며 “건설현장 불법행위에 대한 시민의 적극적인 신고와 제보가 필요하다”고 말했다. 경찰은 오는 10월까지 특별단속에 나서며 갈취·폭력·부실시공 등 건설 현장의 불법행위를 집중적으로 단속할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/EFHUEUIVR5BFB5YF5RY6T737AM.jpg?width=640&amp;height=425&amp;auth=0aa1ba98043c97eeb1bc5ac6f7e79929373e5a777572b0f3ac1c00a28080a538&amp;smart=true" type="image/jpeg" height="425" width="640">
-        <media:description type="plain">전남경찰청 전경.(전남경찰청 제공)/뉴스1 ⓒ News1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1</media:credit>
-      </media:content>
     </item>
     <item>
       <title>김호중, 내일 검찰 송치…음주운전 혐의 적용</title>
@@ -825,54 +927,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CQXKACOBGCQFNKSXJUNY5YEZLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주 뺑소니 혐의를 받는 가수 김호중이 24일 오전 서울 서초구 서울중앙지방법원에서 영장실질심사(구속 전 피의자심문)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 ‘음주 뺑소니’ 혐의를 받는 트로트 가수 김호중(33)씨에게 음주운전 혐의를 적용했다. 김씨가 사고 직후 도주한 뒤 17시간 만에 경찰서에 나타나 음주 측정이 불가능했지만, 위드마크(Widmark) 공식을 이용해 이같이 판단했다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 30일 김씨에게 음주운전 혐의를 추가로 적용했다고 밝혔다. 당초 김씨에게는 적용된 혐의는 특정범죄 가중처벌 등에 관한 법률 위반(도주치상, 위험운전치상), 도로교통법 위반(사고 후 미조치), 범인도피 방조 등 4개였다.&lt;br&gt;&lt;br&gt;경찰은 사고 당일 음주량을 기준으로 위드마크 공식을 이용, 사고 당시 김씨의 혈중알코올농도가 0.03%를 넘겼다고 추정했다. 또한 경찰은 김씨가 자신의 도피를 위해 적극적으로 공모했다고 보고 기존 방조가 아닌 범인도피 교사 혐의를 적용했다. 위드마크 공식이란 술의 종류와 체중 등을 계산해 시간 흐름에 따른 혈중알코올농도를 유추하는 방법이다.&lt;br&gt;&lt;br&gt;김씨의 소속사 생각엔터테인먼트 이광득 대표는 사고 은폐를 위해 A씨에게 대리 자수를 지시한 혐의를, 본부장 전모씨는 김씨의 사고 차량의 블랙박스 메모리카드를 폐기한 혐의를 받는다. 매니저 A씨는 허위로 경찰에 자수해 범인도피 혐의가 적용됐다.&lt;br&gt;&lt;br&gt;경찰은 수사 과정에서 A씨가 사고 이후 허위로 자수하러 가기 전에 음주 상태에서 회사로 차량을 몰고 간 내용을 확인하고 A씨에게 음주운전, 전씨에게는 음주운전 방조 혐의를 추가했다.&lt;br&gt;&lt;br&gt;이들은 내일 오전 8시에 검찰에 송치될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>檢, ‘KT 일감 몰아주기’ 구현모 무혐의…하도급법 위반 혐의만 기소</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/30/TB3ZGS6X3JECHIVXWMPLWRPBZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/30/TB3ZGS6X3JECHIVXWMPLWRPBZE/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 May 2024 10:25:44 +0000</pubDate>
-      <content:encoded>이른바 ‘KT 일감 몰아주기’ 의혹을 수사한 검찰이 구현모 전 KT 대표에게 혐의가 없다고 보고 30일 불기소 처분을 내렸다. 같은 날 ‘현대차 계열사 고가 매입’ 의혹과 관련해 윤경림 전 KT 사장과 윤동식 전 KT클라우드 대표는 불구속 기소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNWINPNM2EYGK2IIHSNPLW6DFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 전경. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 의혹들을 수사한 서울중앙지검 공정거래조사부(부장 용성진)는 이날 구 전 대표가 취임 직후 시설관리(FM) 업무를 계열사인 KT텔레캅을 통해 재하청하는 과정에서, 기존 4개 하청업체가 나눠갖던 일감을 KDFS 등에 몰아줬다는 혐의에 대해 불기소 처분을 내렸다.&lt;br&gt;&lt;br&gt;그간 검찰은 이런 의사결정에 구 전 대표의 지시 또는 관여가 있다고 의심하며 수사를 진행해 왔다. 관련 업무를 총괄하는 신모 전 KT 경영지원부문장(부사장)이 KT텔레캅 임원에게 “KDFS에 시설관리(FM) 업무 물량을 몰아주라”고 말한 녹취파일도 확보했다.&lt;br&gt;&lt;br&gt;검찰은 그러나 이러한 일감 몰아주기에 구 전 대표의 의중이 반영되지 않았다고 판단한 것으로 전해졌다. 구속 기소된 황욱정 KDFS 대표의 청탁 등에 따라 이뤄졌다는 것이다. 검찰은 이 과정에 관여한 혐의를 받는 신 전 부사장을 공정거래법 위반 혐의로 기소했다. 황 대표에게 “KDFS의 건물관리 일감을 늘려달라”는 청탁과 함께 법인카드, 공유오피스 등 금품을 제공받은 홍모 전 KT 상무보, 김모 KDFS 본부장 등은 배임수재 등 혐의로 불구속 기소했다.&lt;br&gt;&lt;br&gt;구 전 대표에 대해 검찰은 하청업체 KS메이트 대표를 결정하는 등 계열사처럼 운영한 점에 대해서만 하도급법 위반 혐의를 적용해 기소했다고 한다.&lt;br&gt;&lt;br&gt;한편 검찰은 KT그룹이 계열사인 KT클라우드를 통해 차량용 소프트웨어 업체인 스파크어소시에이츠(스파크, 現 오픈클라우드랩)의 지분 100%를 시세보다 고가에 사들였다는 의혹과 관련해 투자 당시 의사결정을 지휘한 윤경림 전 사장을 불구속 기소했다. 윤 전 사장이 현대차 임원을 지낸 점 등을 고려할 때 개인적 이해관계에 따라 배임 행위를 저질렀다고 본 것이다. 스파크는 정의선 현대자동차그룹 회장의 동서 박모씨가 설립한 회사다.&lt;br&gt;&lt;br&gt;검찰은 앞서 스파크 투자에서 ‘가교’ 역할을 한 서정식 전 현대오토에버 대표를 이 사건과 별개의 8억원대 배임수재 혐의로 기소한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>헌재 “병역거부자 3년간 대체복무 조항 합헌”</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/30/J6IC5N5VENDSJIKDF2KCDJNDWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/30/J6IC5N5VENDSJIKDF2KCDJNDWA/</guid>
-      <dc:creator>송원형 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 May 2024 09:26:21 +0000</pubDate>
-      <content:encoded>헌법재판소는 종교적 신념 등을 이유로 병역을 거부한 사람들에게 36개월간 합숙하며 교정시설 등에서 대체 복무를 하도록 한 현행법에 대해 합헌(合憲) 결정을 내렸다.&lt;br&gt;&lt;br&gt;헌재는 30일 대체역의 편입 및 복무 등에 관한 법률 18조 1항, 병역법 5조 1항 6호 등 관련 조항에 대한 헌법소원 심판 청구를 재판관 5대4 의견으로 기각했다. 현역 복무와 대체 복무간 형평을 통해 국가 안전 보장과 국민 기본권 보호를 실현하려는 공익이 대체복무자의 불이익보다 크다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MH5QI5GQYLXMDUULDC7IXKHFBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헌법재판소/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌재는 합숙을 강제하는 것이 현역 군인들과 비교할 때 기본권을 지나치게 제한하는 것이 아니고, 대체목무자들에게 교정시설에서 근무하게 하는 것도 징벌적이 처우라고 볼 수 없다고 밝혔다.&lt;br&gt;&lt;br&gt;헌재는 복무 기간을 36개월로 정한 조항에 대해 “군사 업무의 특수성과 군사적 역무가 모두 배제된 대체복무요원의 복무 내용을 비교해 볼 때, (36개월의) 복무기간이 현역병의 복무 기간과 비교해 도저히 대체역을 선택하기 어렵게 만든다거나 대체역을 선택했다는 이유로 징벌을 가하는 것이라고 보기 어렵다”고 판단했다.&lt;br&gt;&lt;br&gt;반면, 이종석 헌재소장과 김기영·문형배·이미선 재판관은 “심판 대상 조항은 병역기피자의 증가 억지와 현역병의 박탈감 해소에만 치중해 양심적 병역거부자에 대해 사실상 징벌로 기능하는 대체복무제도를 구성함으로써 과잉금지원칙을 위반해 청구인들의 양심의 자유를 침해한다”며 헌법불합치 의견을 냈다.&lt;br&gt;&lt;br&gt;대체복무자들은 생활관 내부 공용공간에 폐쇄회로(CC)TV를 설치하는 것, 정당 가입을 금지하는 것도 모두 위헌이라고 주장했지만 헌재는 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경북대, 의대 증원 학칙 개정안 확정</title>
-      <link>https://www.chosun.com/national/regional/2024/05/30/P3BZXWQUNBC3LCMZJTLOEWUF2E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/05/30/P3BZXWQUNBC3LCMZJTLOEWUF2E/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 May 2024 09:19:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LW7ZHQL2ORNRZG24EW6O2K44BE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경북대 본관 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북대 의과대학 정원 증원 관련 학칙 개정안이 30일 확정됐다. 이번 학칙 개정으로 경북대 의대 정원은 올해 110명에서 내년 155명으로 45명이 늘어나게 됐다.&lt;br&gt;&lt;br&gt;경북대는 이날 오후 학장 회의를 열어 2025학년도 의대 정원 증원 등을 포함한 학칙 일부 개정안을 확정했다.&lt;br&gt;&lt;br&gt;앞서 경북대는 의대 정원을 기존보다 45명 늘리는 내용 등이 포함된 학칙 개정을 진행했지만, 지난 16일과 23일 2차례 열린 교수회 심의에서 부결됐다. 이후 대학 측은 교수회에 재심의를 요구했지만 교수회는 “재심의가 필요하지 않다. 교수회 부결에도 의대 증원이 필요하다면 총장이 개정된 학칙을 공포하면 된다”는 의견을 냈다.&lt;br&gt;&lt;br&gt;또 학칙 심의기구인 대학평의원회는 지난 24일 정족수 미달로 열리지 못했고, 오는 31일 다시 회의를 열어 학칙 개정안을 심의할 예정이었다.&lt;br&gt;&lt;br&gt;이에 대학 측은 29∼30일 평의원들에게 개별 심의 의견을 묻는 방식으로 절차를 진행한 이후 이날 개정안을 확정했다.&lt;br&gt;&lt;br&gt;하지만 이를 두고 대학평의회는 다른 목소리를 내고 있고 학내 갈등 조짐을 보이고 있다.&lt;br&gt;&lt;br&gt;경북대 대학평의원회는 이날 입장문을 내고 “고등교육법과 경북대 학칙 및 규정에 따라 학칙 개정안에 대한 심의는 대학평의원회를 반드시 거쳐야 한다. 그럼에도 홍원화 총장은 개별 평의원에게 메일을 보내 의견조회라는 기괴한 형식으로 심의를 대체하는 코미디 같은 꼼수를 부렸다”고 비판했다.&lt;br&gt;&lt;br&gt;이에 평의회 측은 31일 회의에서 법적 책임 문제 등을 포함한 향후 대책을 논의할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김호중 차에서 내린 길, 영상 나오자 “음주운전 방조? 억측이다”</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/30/N2COYRW2PZHWLOY4CMJDFQU6ZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/30/N2COYRW2PZHWLOY4CMJDFQU6ZM/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 May 2024 09:17:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DRSA6DG6KNGALFDO7HXYBNF67M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김호중씨가 운전한 차량 조수석에서 길씨가 내리는 모습. /채널A 강력한 4팀&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;트로트가수 김호중(33)씨의 음주 뺑소니 사고 당일, 술자리에 동석한 것으로 알려진 그룹 ‘리쌍’ 출신 래퍼 길(46‧본명 길성준)씨가 이번 사건과 관련해 어떠한 혐의점도 없다고 주장했다. 김씨가 운전한 차량에 탑승했던 영상이 공개된 후 음주운전 방조 의혹이 제기되자 이를 강하게 부인한 것이다.&lt;br&gt;&lt;br&gt;길 소속사 MLD엔터테인먼트 측은 30일 공식입장을 내고 “길씨가 김씨 사건 당일 김씨를 만난 사람으로 언론 등에 언급되고 있다”며 “이 과정에서 자칫 사실과 다른 정보가 전달될 수 있고 실제로 추측에 근거한 보도와 방송도 이루어지고 있는 상황이라 회사의 입장을 말씀드리고자 한다”고 말문을 열었다.&lt;br&gt;&lt;br&gt;이들은 “길씨는 김씨 혐의와 관련해 경찰로부터 참고인 조사요청을 받았고 이에 응해 알고 있는 사실을 기억대로 모두 진술했다”며 “대중에 비난받는 사건과 관련돼 있다는 사실 자체로 본인 또한 비난받을 수 있다는 점을 잘 알기에, 경찰 요청에 성실히 응하면서도 참고인 조사 사실에 대한 기밀을 유지해 줄 것을 간곡히 요청했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FGGCD5P2WJBNLMQEND7EFFLJFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김씨와 길씨가 스크린골프장에서 식당까지 이동해 함께 차에서 내린 모습. 운전석엔 김씨가, 조수석엔 길씨가 탔다. /채널A 강력한 4팀&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이어 “하지만 바람과는 달리 현재 많은 언론 등에서 김씨 사건과 관련해 길씨를 언급하고 있고 심지어는 김씨의 음주운전을 방조했을 수 있다는 억측성 주장도 제기되고 있는 실정”이라며 “가능성을 빙자해 교묘히 허위 사실을 방송하거나 보도하는 것은 길씨 본인에게 참을 수 없을 만큼 큰 고통을 안겨주는 일”이라고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “김씨 사건과 관련해 길씨는 참고인이지 혐의자가 아니다”라며 “경찰 또한 길씨에 대해서는 어떤 혐의점도 없다는 점을 분명히 한 바 있다. 사실과 다른 보도나 주장을 멈추어 주기를 간곡히 부탁드린다”고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 수사 초반 김씨가 음주운전을 부인하는 과정에서 사고 직전 유흥주점에 머문 정황이 확인됐고, 현장에 유명 개그맨과 래퍼가 동석했다는 보도가 나왔다. 이후 김씨가 당일 만난 인물이 개그맨 정찬우(56)씨와 길씨인 것으로 밝혀졌다. 다만 김씨가 소속된 생각엔터네인먼트 3대 주주로 평소 친분이 있던 정씨는 1차 격인 스크린골프 모임이 끝난 뒤 이들과 헤어진 것으로 확인됐다.&lt;br&gt;&lt;br&gt;반면 길씨는 이어진 식당과 유흥주점 술자리까지 김씨와 함께했다. 29일 채널A는 두 사람이 스크린골프장서 식당으로 이동해 차량에서 내리는 CCTV 영상을 공개했다. 김씨는 운전석에, 길씨는 조수석에 탑승한 모습이었다. 이로 인해 일각에서는 만약 김씨가 당시 술을 마신 상태였다면 길씨 역시 음주운전 방조 혐의로 처벌받을 수 있다는 주장이 나왔다. 게다가 길씨가 2004년부터 2017년까지 세 차례 음주운전으로 적발된 적 있어 비난 여론이 거세지고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>근로감독관 죽음에 이르게 한 악성 민원인, 결국 재판행</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/05/30/SE2GVAMNLNAOLBQG6MP6UCNDHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/05/30/SE2GVAMNLNAOLBQG6MP6UCNDHA/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 May 2024 09:17:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3PDJHWR2RBCEJHJBB2D3OB6NIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전지검 서산지청 /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임용 3개월된 근로 감독관을 죽음에 이르게 한 악성 민원인이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대전지검 서산지청은 무고 및 사자명예훼손 혐의로 A 씨를 불구속 기소했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 A씨는 지난해 대전고용노동청 천안지청 근로감독관인 B씨를 상대로 허위공문서 작성 및 행사, 기업유착 비리 등 사실이 아닌 내용으로 국민신문고에 신고했다.&lt;br&gt;&lt;br&gt;앞서 자신의 해고 관련 민원을 처리하는 과정에서 B씨가 일부 잘못된 안내를 하자 B씨와 B씨의 상급자들을 대상으로 반복적으로 허위 신고한 것이다.&lt;br&gt;&lt;br&gt;이로 인해 주의 처분을 받은 B씨는 끊이지 않는 A씨의 허위 신고에 대한 부담을 이기지 못하고 지난해 5월 1일 충남 아산의 한 공영주차장에서 스스로 목숨을 끊었다.&lt;br&gt;&lt;br&gt;하지만 A씨는 숨진 B씨가 받은 순직처분에 대해 문제를 제기하고, 근거 없는 기업과의 유착 비리를 주장하는 글을 온라인 블로그에 올리기도 했다.&lt;br&gt;&lt;br&gt;검찰은 수사과정에서 A씨에 대해 구속영장을 청구했지만 법원은 “주거가 일정하고, 증거인멸의 우려가 없다”면서 기각했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “공무원을 무고하는 등 사법 질서를 방해하는 악성 민원인에 대해 엄정 대응하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/3PDJHWR2RBCEJHJBB2D3OB6NIE.jpg?width=1440&amp;height=1080&amp;auth=b552847323acfbb0e015c1e1e58e2c526d2454a3e18b5d4d6fd755709798f088&amp;smart=true" type="image/jpeg" height="1080" width="1440">
-        <media:description type="plain">대전지검 서산지청 /김석모 기자</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>“최태원은 왜 그랬을까” “여성에 좋은 선례” … SK 판결에 온라인 와글</title>
       <link>https://www.chosun.com/national/national_general/2024/05/30/NCNXTHZJOFHX5OLYOMZHF4EI6U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/30/NCNXTHZJOFHX5OLYOMZHF4EI6U/</guid>
@@ -880,31 +934,6 @@
       <description/>
       <pubDate>Thu, 30 May 2024 08:58:42 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UKEUTAJMYT3CMKNAIUIKXFKHTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최태원 SK그룹 회장과 노소영 아트센터 나비 관장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최태원 SK그룹 회장은 노소영 아트센터나비 관장에게 재산 분할로 1조3800억원을, 위자료로 20억원을 지급하라는 2심 법원 판결은 온라인에서도 화제가 됐다. 여초(여성 이용자 중심의) 사이트에서는 “이혼 당하는 여성들에게 좋은 선례가 나왔다”는 반응이 나왔고, 남초에는 이번 판결의 원인을 분석하는 글이 많았다.&lt;br&gt;&lt;br&gt;30일 오후 2시 서울고법 가사2부(부장 김시철·김옥곤·이동현)는 두 사람의 이혼소송 2심에서 이같이 판결했다. 2022년 12월 6일 1심이 “최 회장이 노 관장에게 위자료 1억원과 재산분할금 665억원을 지급하라”고 판결한 것 보다 더 늘어난 금액이다. 1심에서 재산 분할 대상으로 인정되지 않았던 최 회장이 보유한 그룹 지주사 SK㈜ 주식에 대해, 2심은 ‘주식도 분할 대상’이라고 판단한 것이다.&lt;br&gt;&lt;br&gt;판결 소식은 온라인 커뮤니티에서도 주요 화제로 떠올랐다.&lt;br&gt;&lt;br&gt;여초 커뮤니티 여성시대 등에서는 ‘여성의 재산 형성 기여’를 폭넓게 인정받은 데 대한 기쁨의 반응이 많았다. “장인 덕에 출세하곤 조강지처 버리는 행위에 철퇴를 내린 것” “3심까지 죽 이어져서 여성에게 좋은 선례가 되면 좋겠다” 등의 의견을 내놨다.&lt;br&gt;&lt;br&gt;남초 커뮤니티에서는 판결의 ‘왜?’에 초점이 맞춰진 반응이 많았고, 유머 소재로 활용되기도 했다.&lt;br&gt;&lt;br&gt;엠엘비파크에는 최 회장의 이혼 과정에서의 행태를 이해하기 어렵다는 글이 올랐다. “재판 중인데 떡하니 내연녀랑 공식석상 다니고, 노소영한테 주던 생활비 끊고, 신용카드 끊고, 노소영이 대표로 있는 아트센터나비도 sk 사옥에서 내보내고..법원에서 좋게 볼 수 없는 행동만 골라한 이유가 뭘까요?”라는 글이었다. 댓글엔 “동거인 요구가 컸을 것”이란 의견이 많았다.&lt;br&gt;&lt;br&gt;“SK 회장 노소영인가요?” “회사를 포기하고 사랑을 택한 최태원 회장... 낭만적!” 등의 글도 올랐다.&lt;br&gt;&lt;br&gt;에펨코리아에서는 “대통령이 밀어준 대가 치고 1조3000억원이면 싼 편” “카세트 테이프 만들다가 결혼 덕에 정유·통신 대기업된 거 아니냐” 등의 댓글이 달렸다.&lt;br&gt;&lt;br&gt;앞서 최 회장은 노 관장과 결혼을 유지한 상태에서 김희영 티앤씨재단 이사장과 혼외자를 낳았다는 사실을 고백한 뒤, 2017년 7월엔 성격 차이를 이유로 들며 노 관장을 상대로 이혼을 요구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“흰바지인데 고민도 않더라”… 쓰러진 만취男에 무릎베개해준 커플 화제  </title>
-      <link>https://www.chosun.com/national/national_general/2024/05/30/53DZTLUKPRAZPJOAULC7V6D4UE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/30/53DZTLUKPRAZPJOAULC7V6D4UE/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 May 2024 08:23:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SO2ZHDN3INHFDKGFSHD2L52RUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;쓰러진 취객을 위해 무릎을 내어준 커플. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만취 상태로 길거리를 돌아다니다 쓰러진 남성에게 주저 없이 무릎을 내어준 뒤 119 신고를 한 커플의 목격담이 온라인상에 올라오면서 화제를 모았다. 이 커플은 이후 언론과 인터뷰까지 진행하게 됐고, 여기에서 당연히 해야 할 일을 했다는 반응을 보였다.&lt;br&gt;&lt;br&gt;지난 20일 여러 온라인 커뮤니티에는 ‘술 마시다 본 굉장한 커플’이라는 제목의 글이 확산했다.&lt;br&gt;&lt;br&gt;작성자 A씨는 지난 10일 저녁 경기 구리시장 인근의 한 식당에서 술을 마시다 목격한 장면이라며 한 커플의 선행을 상세히 전했다.&lt;br&gt;&lt;br&gt;A씨에 따르면, 당시 식당 앞에서 한 남성이 술에 잔뜩 취해 휘청거리다 주차된 스쿠터에 부딪혀 쓰러졌다. 이에 A씨가 놀라 나가려던 찰나, 한 커플이 먼저 고민도 없이 달려가 쓰러진 남성의 의식을 확인하곤 119에 신고했다고 한다. 이 과정에서 커플 중 여성은 흰색 바지를 입고 있었음에도 불구하고 길바닥에 앉아 남성에게 무릎베개를 해 줬다고 A씨는 전했다.&lt;br&gt;&lt;br&gt;실제로 A씨가 첨부한 사진에는 이 같은 모습이 고스란히 담겼다. A씨는 “요즘 세상에 선뜻 남 도와주려고 하는 커플을 본 게 신기해서 반성도 하고, 주변에 알리고 싶어서 글을 쓰게 됐다”며 “커플 둘 다 선남선녀였다”고 했다. 그러면서 “신고한 지 5~7분 정도만에 구급대원분들 오셔서 처리하시고 상황이 종료됐다”고 했다.&lt;br&gt;&lt;br&gt;A씨의 글은 온라인상에 확산하며 이목을 끌었다. 한 온라인 커뮤니티에 올라온 글은 조회수가 30만회를 넘겼고, 댓글도 170개 이상 달렸다. 네티즌들은 “무릎베개는 쉽지 않은데 대단하다” “무릎베개 사진 보고 진심 감탄했다. 멋진 사람들끼리 만난 것 같다. 복받길” “요즘 같은 세상에 멋지다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J75U4UIKQVGZPKWION5HMK65TI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;쓰러진 취객에 무릎을 내어준 커플 인터뷰 모습. /KBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이후 이 커플은 KBS와 인터뷰에서 당연히 해야할 일들을 했을 뿐이라며 겸손한 태도를 보였다. 남자친구 신모씨는 “지인들과 모임을 하고 지나가는 길에 경직된 상태로 수직으로 넘어지는 한 남성을 봤다”며 “도와준다는 생각에 나도 모르게 몸이 먼저 반응했다”고 했다. 여자친구 허모씨 역시 “아저씨가 위급해 보여서 바로 가서 상태를 확인하고 119에 신고했다”고 했다.&lt;br&gt;&lt;br&gt;허씨는 흰바지를 입은 상태에서도 주저하지 않고 무릎을 내어준 이유에 대해 “당시에는 아저씨를 도와야 한다는 생각에 그런 생각까진 하지 못했다”며 “다시 그 시간으로 돌아간다고 해도 똑같이 그렇게 했을 것”이라고 했다. 그러면서 “앞으로도 저의 작은 도움이라도 필요한 사람이 있으면 언제든지 달려가서 도움을 줄 수 있는 사람이 되고 싶다”고 했다.&lt;br&gt;&lt;br&gt;신씨는 “누구든지 할 수 있는 작은 선행인데 오히려 크게 생각해 주셔서 감사하다”며 “한 번쯤은 편견 없이 선행하는 것도 좋다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/DS6QF5OXQZCF7FPIQYXYMPUPRE.jpg?width=731&amp;height=411&amp;auth=17cf94915295f2781ce5f068d7785e58b3d741a12f8def1393383cdca082dc47&amp;smart=true" type="image/jpeg" height="411" width="731">
-        <media:description type="plain">쓰러진 취객을 위해 무릎을 내어준 커플. /온라인 커뮤니티</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>노소영 측 “혼인순결·일부일처제 헌법 가치 고민한 훌륭한 판결”</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/30/FGZN6U6XGBGBRMFYIS66UTMFJA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/30/FGZN6U6XGBGBRMFYIS66UTMFJA/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 30 May 2024 07:39:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CJGUQBYRMCA5SZIRZ2TU43BVEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최태원 SK그룹 회장(왼쪽)이 지난 3월 12일 서울 서초구 고등법원에서 열린 노소영 아트센터 나비 관장과의 이혼 관련 항소심 변론기일을 마치고 차량으로 향하고 있다. 오른쪽은 항소심 변론기일에 출석하는 노소영 아트센터 나비 관장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노소영 아트센터나비 관장 측이 30일 최태원 SK그룹 회장과의 이혼 소송 항소심 판결에 대해 “혼인의 순결과 일부일처주의에 대한 헌법적 가치를 깊게 고민한 아주 훌륭한 판결”이라고 했다.&lt;br&gt;&lt;br&gt;서울고법 가사2부(재판장 김시철)는 이날 최 회장과 노 관장의 이혼소송 항소심에서 “최 회장은 노 관장에게 재산분할로 1조3808억1700만원, 위자료로 20억원을 지급하라”고 판결했다. 이는 1심 법원이 인정한 재산분할액 665억원의 20배가 넘는 액수다. 위자료도 1억원에서 20억원으로 올렸다.&lt;br&gt;&lt;br&gt;이날 최 회장과 노 관장은 모두 법정에 모습을 드러내지 않았다. 변호인단 역시 노 관장 측만 출석했다.&lt;br&gt;&lt;br&gt;노 관장을 대리하는 김기정 변호사는 이날 오후 선고가 끝난 뒤 취재진에게 “거짓말이 굉장히 난무했던 사건이었는데 실체적 진실을 밝히느라고 애써주신 재판부에 감사드린다”고 말했다.&lt;br&gt;&lt;br&gt;김 변호사는 ‘SK 주식도 공동 재산’이라는 항소심 판단에 “SK 주식 자체가 혼인 기간에 취득한 주식”이라며 “실제 부부 공동재산으로 형성돼 30년간 부부생활을 거치면서 확대됐으니 같이 나누는 게 맞는다”고 했다.&lt;br&gt;&lt;br&gt;1심보다 대폭 오른 위자료에 대해선 “위자료는 재산 분할과 상관없이 잘못한 사람이 피해자에게 주는 금액”이라며 “(최 회장 측이) 잘못한 게 많다고 (재판부가) 초반에 굉장히 많이 말씀하신 것 같다. 그래서 많이 올라간 것 같다”고 했다.&lt;br&gt;&lt;br&gt;대법원 상고 여부에 대해선 “향후 판결문을 검토한 뒤 대응하겠다”고 했다.&lt;br&gt;&lt;br&gt;이날 재판부는 “노태우 전 대통령이 최종현 전 회장의 보호막이나 방패막이 역할을 하며 결과적으로 (SK그룹의) 성공적 경영활동에 무형적 도움을 줬다고 판단한다”며 SK그룹 경영에 노 관장의 기여분이 있다고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 또한 “최 회장은 혼인 관계가 해소되지 않았는데도 김희영 티앤씨재단 이사장과 재단을 설립하고 현재까지 공개 활동을 지속해 마치 배우자 유사 지위에 있는 것처럼 행동했다”며 “상당기간 부정행위를 계속하며 헌법이 존중하는 혼인의 순결과 일부일처제를 전혀 존중하지 않는 태도를 보였다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “최 회장은 소송 과정에서 부정행위를 진심으로 사과하거나 반성·인정하지 않고 있다”며 “이 같은 사정이 혼인 파탄으로 인한 손해배상 산정에 고려돼야 하므로 1심의 위자료는 너무 적고 증액하는 것이 맞다고 판단된다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/45TRBG6XCADMBCG3GTDMKOIFBM.jpg?width=2456&amp;height=1637&amp;auth=8bea34b127fa4dc6fdc34ddb29cb6bfaa493a9a329d2225454e1778b28c9d104&amp;smart=true" type="image/jpeg" height="1637" width="2456">
-        <media:description type="plain">노소영 아트센터 나비 관장이 12일 서울 서초구 고등법원에서 열린 최태원 SK그룹 회장과의 이혼 관련 항소심 변론기일에 출석하고 있다. 2024.3.12/뉴스1 ⓒ News1 이승배 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 이승배 기자</media:credit>
-      </media:content>
     </item>
     <item>
       <title>배달음식 통한 나트륨 섭취 급증... 어린이·청소년 당류 섭취 국제 기준 초과</title>
