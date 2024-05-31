@@ -174,11 +174,11 @@ def chMain():
     for i in newList:
         if '오늘의 운세' not in i.find('title').text:
             getContents(i)
-            curfeed.find('channel').insert(k, i) #이렇게 넣어버리니까 메타태그 - channel title 따위도 다 없어지네.
-            
-            k = k + 1
-            
-            time.sleep(random.uniform(5,10))
+        curfeed.find('channel').insert(k, i) #이렇게 넣어버리니까 메타태그 - channel title 따위도 다 없어지네.
+        
+        k = k + 1
+        
+        time.sleep(random.uniform(5,10))
             
             
             #if k == 20: break
