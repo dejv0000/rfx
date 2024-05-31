@@ -13,6 +13,105 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>스피또1000 발권 오류로 20만장 회수한 동행복권 전·현직 대표, 검찰 송치</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/31/SGBS6XS7DRFXNDC23VEGRLSFTA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/SGBS6XS7DRFXNDC23VEGRLSFTA/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 31 May 2024 09:51:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KQW57QJTTHGR2FSPODIDYSZMAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 2021년 즉석식 인쇄복권 ‘스피또1000′ 발권 오류로 복권 20만장이 회수된 사건과 관련, 동행복권 전직 대표와 현직 대표를 검찰에 송치했다.&lt;br&gt;&lt;br&gt;서울 서초경찰서는 김세중 전 동행복권 공동대표와 조형섭 동행복권 공동대표를 복권 및 복권기금법(복권법) 위반 혐의로 31일 서울중앙지검에 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;이들은 지난 2021년 9월 스피또1000 제58회 복권 6매에서 육안상 당첨 결과와 판매점 시스템상 당첨 결과가 일치하지 않는 것을 발견, 총 4000만장 중 오류로 추정되는 복권 20만장을 회수하기 위해 복권 정보를 이용한 혐의를 받는다. 이들은 인쇄 오류가 생겼음에도 비난과 경제적 손실을 피하기 위해 전체 4000만장을 회수하지 않고 일부만 회수한 채 나머지 3980만장은 판매한 것으로 전해졌다. 결국 복권 판매 후 1등 1매, 2등 5매에 대한 당첨자가 나오지 않는 문제가 있었음에도 이를 은폐함으로써 소비자들은 이 같은 사실을 모르고 판매한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 동행복권이 문제의 소지가 있는 복권을 추려 회수하는 과정에서 해당 회차의 당첨 복권 정보와 유통 정보를 이용한 것을 복권법 위반이라고 보고 있다. 동행복권이 인쇄오류 복권을 특정할 때 인쇄소 담당자가 복권 인쇄를 완료한 후 즉시 삭제해야 하는 ‘복권발행데이터’와 ‘복권유통데이터’를 개인 PC에 불법적으로 보관하고 있었다는 것이 문제의 요지다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국선변호인 없이 재판 받은 기초수급자…대법 “판결에 영향, 파기환송”</title>
+      <link>https://www.chosun.com/national/court_law/2024/05/31/XJV3TV6QGNH3LL3C5ZFDM4SSAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/31/XJV3TV6QGNH3LL3C5ZFDM4SSAI/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 31 May 2024 09:36:15 +0000</pubDate>
+      <content:encoded>기초생활수급자가 빈곤을 이유로 국선 변호인을 신청했을 때 재판부가 이를 받아들이지 않았다면 다시 재판을 열어야 한다는 대법원의 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MP2HBDP4CNB73ODWUW6X6LNYJI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대법원. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 1부(주심 서경환 대법관)는 상해 혐의로 기소된 A씨에 대한 상고심에서 징역 10개월에 집행유예 2년을 선고한 원심을 깨고, 사건을 파기환송했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;50대 남성 A씨는 2021년 인천 중구 한 도로에서 택시에 탑승하려던 도중 B씨가 먼저 뒷좌석에 탑승한 것에 화가 나 조수석을 차지한 뒤 B씨에게 욕설을 내뱉었다.&lt;br&gt;&lt;br&gt;이를 본 B씨의 일행 C씨와 D씨는 조수석 문을 열고 A씨의 팔을 잡아당겼다. A씨는 C씨와 D씨와 결국 시비가 붙고, 이들을 폭행해 전치 2주의 피해를 입힌 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;이후 1·2심은 A씨에게 징역 10월에 집행유예 2년, 보호관찰 1년을 선고했다. 다만 A씨는 작년 8월 2심 진행 중 국선변호인 선정 청구를 하면서, 자신이 국민기초생활 보장법에 따라 수급권자에 해당한다는 소명자료를 법원에 냈다. 하지만 2심 재판부는 선정 청구를 기각하고, A씨가 국선변호인 없이 재판에 출석한 상태에서 심리를 한 뒤 판결했다.&lt;br&gt;&lt;br&gt;대법원은 “수급자 증명서 등 소명자료에 의하면 빈곤으로 A씨가 변호인을 선임할 수 없는 경우에 해당하는 것으로 인정할 여지가 충분하다”며 “원심이 국선변호인 선정에 관한 형사소송법의 규정을 위반해, 피고인이 효과적인 방어권을 행사하지 못하도록 하는 결과를 가져왔고, 이것이 판결에 영향을 미쳤다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “원심은 특별한 사정이 없는 한 국선변호인 선정 결정을 해 선정된 변호인이 공판심리에 참여하도록 해야 했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>文정부 감찰부장 한동수, ‘박원순 피해자 신원공개’ 상고심 변호 맡는다</title>
+      <link>https://www.chosun.com/national/court_law/2024/05/31/MA5TUIV5QBEFPMQGICYEJHCLOA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/31/MA5TUIV5QBEFPMQGICYEJHCLOA/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 31 May 2024 09:19:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMBDHNOAMURXWEPCROUXGFOBTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한동수 전 대검 감찰부장./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 정부에서 대검찰청 감찰부장을 지낸 한동수 변호사가 고(故) 박원순 전 서울시장 성폭력 사건 피해자의 신원을 공개한 혐의로 기소된 김민웅 전 경희대 미래문명원 교수의 상고심 변호를 맡는 것으로 알려졌다. 한 변호사는 감찰부장으로 근무하며 박 전 시장 피해자 관련 사건 감찰을 미룬다는 비판을 받았었다.&lt;br&gt;&lt;br&gt;31일 법조계에 따르면, 김 전 교수는 지난 13일 대법원에 한동수 변호사를 변호인으로 지정해 선임계를 냈다. 김 전 교수는 2020년 12월 자신의 페이스북에 박 전 시장 피해자의 이름 등을 공개한 혐의(성폭력처벌법 위반)로 기소됐다. 김 전 교수는 1심에서 징역 6개월에 집행유예 1년을, 2심에서 징역 1년에 집행유예 2년을 선고받았다. 한 변호사는 이 사건 1, 2심에서 변호를 맡지 않았는데 상고심에서 추가로 선임됐다.&lt;br&gt;&lt;br&gt;한 변호사는 2019년 10월부터 2022년 7월까지 대검 감찰부장으로 근무했다. 조국 당시 법무부 장관이 사임 직전 한 변호사를 감찰부장에 임명 제청했고 문재인 전 대통령이 재가했다. 감찰부장 시절 한 변호사는 검찰총장이던 윤 대통령에 ‘판사 사찰 의혹’ 등을 제기하며 징계를 주도하며 갈등을 빚었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ML4UDHRVOJBGPEKH4IN74YJ6SA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2020년 12월 28일 '서울시장 위력 성폭력 사건 공동행동' 관계자들이 고 박원순 전 시장 성추행 피해자 정보 유포 사태 관련 긴급 기자회견을 열고 있다. 당시 김민웅 경희대 미래문명원 교수 등은 박 전 시장이 성추행한 피해자의 실명을 노출했다./ 장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 변호사는 또 감찰부장으로 근무하며 당시 박 전 시장 성추행 피해자에 대한 2차 가해 논란 사건의 감찰을 1년 넘게 끌어 논란을 빚었다. 진혜원 당시 대구지검 검사는 박 전 시장 사망 뒤인 2020년 7월 자신의 페이스북에 박 전 시장과 자신이 팔짱 낀 사진을 올렸다. 그러면서 “자수한다. (내가) 성인 남성 두 분을 동시에 추행했다”며 “페미니스트인 제가 추행했다고 말했으니 추행”이라고 했다. 박 전 시장에게 성추행을 당한 피해자를 조롱하고 비하하는 취지로 해석됐다.&lt;br&gt;&lt;br&gt;이에 한국여성변호사회는 진 검사에 대해 “피해자의 입장을 전혀 고려하지 않은 채 경솔하고 경박한 언사를 게재했다”며 대검에 징계를 요청했다. 그러나 한 전 부장이 이끌던 대검 감찰부는 1년 넘게 “검토 중”이라고 하며 미적였다. 감찰부는 2021년 8월에야 징계를 청구했고, 이듬해 3월 진 검사는 정직 1개월을 받았다.&lt;br&gt;&lt;br&gt;한 검찰 출신 법조인은 “한 변호사가 감찰부장 시절 ‘2차 가해’ 논란을 일으킨 검사의 징계는 뭉개더니, 피해자 신상을 공개한 2차 가해자 변호에 나선 셈”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“니가 했다 해라”…무면허 교통사고 후 운전자 바꿔치기한 30대 남녀 </title>
+      <link>https://www.chosun.com/national/incident/2024/05/31/UWK4VPOMVJDTRBU4WMZ2MNFBWI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/05/31/UWK4VPOMVJDTRBU4WMZ2MNFBWI/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 31 May 2024 09:16:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y3WFZ3HZFJWL2AHR3G366LI7O4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지검 상주지청/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무면허 운전 중에 교통사고를 낸 뒤 운전자를 바꿔치기 한 혐의로 30대 운전자와 동승자가 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대구지검 상주지청(지청장 김상현)은 운전자 A씨를 범인도피교사죄로, 동승자 B씨를 범인도피죄로 각각 불구속 기소했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2022년 10월 18일 경북 상주시에서 무면허로 운전을 하던 중 주차된 차량을 들이받은 뒤, B씨에게 “경찰이 물으면 네가 운전했다고 진술해라”고 지시한 혐의를 받고 있다. B씨는 경찰 조사에서 “내가 운전했다”고 허위 진술을 하며 A씨를 감싼 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;검찰은 A씨 등이 2년간 200여 차례에 걸쳐 졸피뎀(수면유도제) 4600여 정을 불법 처방받아 투약, 마약류관리법을 위반한 혐의에 대해서도 기소했다. 졸피뎀은 의료 외 목적으로 처방받을 경우 마약류관리법 위반으로 처벌받는 향정신성의약품이다. A씨 등은 지인 10명의 명의를 도용해 병원 처방을 받은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title> ‘오송참사’ 현장소장 징역 7년6개월 최고 형량</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/05/31/OEHCY7LI5NBLPDQHL6MIEAIDFQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/05/31/OEHCY7LI5NBLPDQHL6MIEAIDFQ/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 31 May 2024 08:57:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/75G773ZJXJFZNP2VAZGJWNL52U.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 오송참사 이후 도종환 의원실이 오송 지하차도 참사 1시간 40여분 전에 있었던 제방 공사 인부들의 영상을 공개했다. /도종환의원실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 7월 충북 오송 지하차도 참사의 원인으로 지목된 미호천교 임시 제방 공사를 한 현장소장과 감리단장이 중형을 선고받았다.&lt;br&gt;&lt;br&gt;청주지법 형사 5단독 정우혁 부장판사는 31일 업무상과실치사 등의 혐의로 기소된 현장소장 A(55)씨와 감리단장 B(66)씨에게 각각 징역 7년 6개월과 징역 6년을 선고했다. A씨에게 선고된 형량은 현행법상 업무상과실치사의 법정 최고치다.&lt;br&gt;&lt;br&gt;정 부장판사는 “피고인은 아무 근거 없이 기존 제방을 임의로 절개하고 흙더미를 쌓아 임시 제방을 만들었다”며 “집중호우에도 현장을 이탈했고 비상근무 지시도 내리지 않았다”고 밝혔다. 이어 “사고를 막을 수 있는 시간과 기회가 충분했었다”면서 “이번 사고는 자연재해가 아닌 피고인의 고의에 가까운 중대한 과실로 발생한 것”이라고 판시했다.&lt;br&gt;&lt;br&gt;그러면서 정 부장판사는 “A씨에게는 징역 15년, B씨에게는 징역 12년은 선고돼야 하지만 현행법의 규정상 그렇게 선고하지 못한다”며 “이런 형법 규정이 과연 정당한 것인가 진지하게 고민해야 할 때가 된 것 같다”고 말했다. 또 “피고인의 행태에 분노하고 합당한 형을 못 내려 한없는 무기력함을 느낀다”고도 했다.&lt;br&gt;&lt;br&gt;정 부장판사는 선고 과정에서 “피고인 가족이 임시 제방 근처에 살았어도 그렇게 건설했겠느냐”고 꾸짖기도 했다.&lt;br&gt;&lt;br&gt;A씨 등은 오송 궁평2지하차도 근처 미호천교 확장 공사를 하면서 기존 제방을 무단으로 철거하고 임시 제방을 부실하게 조성한 혐의 등으로 재판에 넘겨졌다. 앞서 검찰은 A씨와 B씨에게 각각 징역 7년6개월, 징역 6년을 구형했다.&lt;br&gt;&lt;br&gt;이 임시제방이 사고 당시 내린 집중호우에 터지면서 오송 지하차도 안으로 하천 물이 유입됐고 시내버스 등 차량 17대가 이 물에 잠기고 14명이 숨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김의철 前 KBS 사장 ‘해임 효력중단 신청’ 대법원서 최종 기각</title>
+      <link>https://www.chosun.com/national/court_law/2024/05/31/OZHR3ZWG35AWHCP5CZRRWMST7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/31/OZHR3ZWG35AWHCP5CZRRWMST7E/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 31 May 2024 08:58:14 +0000</pubDate>
+      <content:encoded>작년 9월 해임된 김의철(62) 전 KBS 사장이 해임 처분의 효력을 멈춰달라며 집행정지 신청을 냈으나 대법원에서 최종 기각됐다. 김 전 사장에 대한 해임 처분의 효력은 계속 유지된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5YP52NCGLJE4JNQ6A7C4TPCQLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 6월 8일 KBS아트홀에서 김의철 당시 KBS 사장이 수신료 분리 징수 권고와 관련해 기자회견에 참석해 발언하고 있다. /이태경 기자 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;31일 법조계에 따르면 대법원 3부(주심 이흥구 대법관)는 김 전 사장이 윤석열 대통령을 상대로 낸 해임처분 집행정지 신청을 기각한 원심 결정을 지난 29일 확정했다.&lt;br&gt;&lt;br&gt;김 전 사장은 문재인 정부 시절인 2021년 12월 임명됐다. 그러나 KBS 이사회는 무능·방만 경영으로 인한 심각한 경영 위기 초래, 불공정 편파 방송으로 인한 대국민 신뢰 상실, 편향된 인사로 인한 공적 책임 위반 등을 제시하며 김 전 사장 해임안을 제청했고, 윤 대통령은 작년 9월 이 해임안을 재가했다.&lt;br&gt;&lt;br&gt;김 전 사장은 이에 불복해 집행정지를 신청하고 본안 소송도 제기했다. 그러나 서울행정법원과 서울고법 모두 김 전 사장의 집행정지 신청을 받아들이지 않았다.&lt;br&gt;&lt;br&gt;항고심을 심리한 서울고법 재판부는 당시 “김 전 사장에 대한 해임 처분의 효력을 정지할 경우 KBS가 이른바 ‘2인 사장 체제’로 운영에 혼란을 겪고 갈등이 심화될 가능성이 높은 점 등을 종합하면 김 전 사장이 낸 신청을 받아들일 수 없다”고 밝혔다. 아울러 “김 전 사장이 KBS 사장으로 인사권을 행사할 때 KBS 주요 보직의 인적 구성이 특정 노조 내지 특정 이념을 내세우는 집단 출신에 편중되는 형태가 됐던 것으로 보인다”면서 “김 전 사장이 해임 처분을 받기 전에 이미 KBS 구성원 일부로부터 퇴임 요구가 있었고 KBS 내부 투표에서도 김 전 사장 퇴임을 원한다는 의견이 지배적이었다”고 했다.&lt;br&gt;&lt;br&gt;김 전 사장이 제기한 본안 소송은 서울행정법원에서 1심 재판 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“학생간 돈 거래 해결해주겠다” 학부모 돈 받아 꿀꺽한 고교 교사</title>
+      <link>https://www.chosun.com/national/regional/2024/05/31/KRGZDTPU5RCVRCYQL5WJVJWG3E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/05/31/KRGZDTPU5RCVRCYQL5WJVJWG3E/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 31 May 2024 08:26:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KNOGXTJGBFCTFMJ2CF3D7GETEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 한 고등학교 교사가 제자들에게 800여만원의 금품을 빌린 뒤 갚지 않은 혐의로 경찰 조사를 받고 있다.&lt;br&gt;&lt;br&gt;제주서부경찰서는 30대 교사 A씨를 횡령 및 사기 혐의로 입건해 조사하고 있다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 2년 동안 학생들 사이에서 일어난 채무관계를 해결해 준다며 학부모들에게 850여만원을 받아 가로챈 혐의를 받고 있다. 학생 B군은 지난 2년여 동안 동급생인 C과 D군에게 모두 850여만원의 돈을 빌려준 뒤 돌려받지 못하자 A교사에게 도움을 요청했다.&lt;br&gt;&lt;br&gt;A교사는 C군과 D군의 부모에게 “나에게 돈을 보내면 문제 삼지 않고 B군에게 전달하겠다”고 말하며 돈을 자신의 계좌로 받은 것으로 알려졌다. 하지만 A교사는 C군과 D군의 부모에게 각 800여만원과 50여만원의 돈을 받은 뒤 B군에게 돈을 전달하지 않았다.&lt;br&gt;&lt;br&gt;해당 사실을 알게 된 학부모는 학교 측에 항의하고 지난 27일 경찰에 고소장을 제출했다. 경찰 관계자는 “추후 조사를 통해 정확한 혐의를 특정할 계획”이라며 “추가 피해 가능성을 염두해 수사하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;한편 제주도교육청은 해당 학교를 상대로 사실관계 확인에 들어가는 한편 31일자로 A씨를 직위해제했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전북서 충남까지 100km 만취운전한 경찰관 벌금 1800만원</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/31/VE5DUZ2LXFEXPBSM2HZ2OWAJOY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/VE5DUZ2LXFEXPBSM2HZ2OWAJOY/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 31 May 2024 08:28:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RIFG3TNLCBHNFLVN75OUOVHNJE.png"&gt;&lt;figcaption&gt;&lt;small&gt;전주지법 청사 전경. /전주지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새벽에 만취 상태로 전북 익산에서 충남 공주까지 100㎞ 넘는 거리를 운전한 31년차 경찰관이 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;31일 법조계에 따르면, 전주지법 형사7단독 한지숙 판사는 도로교통법 위반 혐의로 기소된 전북경찰청 소속 A경감에게 벌금 1800만원을 선고했다.&lt;br&gt;&lt;br&gt;A경감은 지난해 12월 12일 오전 1시 44분쯤 술을 마신 채 전북 익산에서 충남 공주까지 차를 몬 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;A경감은 고속도로에서 역주행 방향으로 차를 세워놓고 잠을 자다가 다른 운전자의 신고로 출동한 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;당시 A경감의 혈중알코올농도는 면허취소 수치(0.08% 이상)를 훌쩍 뛰어넘는 0.206%로 측정됐다.&lt;br&gt;&lt;br&gt;그는 이후 전북경찰청 징계위원회에 넘겨져 정직 3개월 처분을 받았다.&lt;br&gt;&lt;br&gt;한 판사는 “당시 피고인의 혈중알코올농도는 매우 높았고 운전한 거리(100㎞)도 매우 길었다”며 “피고인은 경찰공무원으로서 누구보다 엄정하게 법질서를 준수해야 함에도 신분을 망각한 채 범행을 저질러 죄책이 무겁다”고 했다.&lt;br&gt;&lt;br&gt;한 판사는 그러면서도 “31년간 경찰로 재직하며 여러 차례 표창을 받고 성실하게 공직생활을 이어온 점, 이 사건으로 별도의 징계처분을 받은 점 등을 감안해 형을 정했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘LG·SK 배터리 전쟁’ 그 후... ‘기술 유출’ SK직원 7명 기소</title>
+      <link>https://www.chosun.com/national/court_law/2024/05/31/TTW72RRYNRCJXJYVDZA77YD2KQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/31/TTW72RRYNRCJXJYVDZA77YD2KQ/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 31 May 2024 08:43:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VZGS3A6FEFMVPFUTM3XJVFISZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;LG와 SK가 2017~2021년 4년간 벌인 ‘배터리 기술 유출’ 사건과 관련, 검찰이 SK이노베이션 직원 7명을 31일 기소했다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;LG와 SK가 2017~2021년 4년간 벌인 ‘배터리 기술 유출’ 사건과 관련, 검찰이 SK이노베이션 직원들의 기술 유출 혐의가 인정된다며 7명을 기소했다.&lt;br&gt;&lt;br&gt;서울중앙지검 정보기술범죄수사부(부장 이춘)는 LG화학(현 LG에너지솔루션)의 전기차 배터리 기술을 유출한 혐의로 SK이노베이션 직원 7명을 31일 불구속 기소했다고 밝혔다. 이들은 2017~2019년 LG전자에서 SK이노베이션으로 이직하면서 이차전지 설계와 제조공정 관련 정보를 빼돌린 혐의를 받는다.&lt;br&gt;&lt;br&gt;이 사건은 2019년 전기차 배터리 분야 국내 1위인 LG화학이 업계 2위 SK이노베이션 측을 배터리 기술 불법 유출 혐의로 고소하면서 시작됐다. 양측 갈등은 2017~2019년 LG 직원들 100여 명이 SK로 이직하면서 불거지기 시작했다. LG 측은 배터리 사업 후발 주자인 SK가 이직한 직원들로부터 LG의 배터리 납품 가격과 배터리 개발, 생산 등과 관련된 갖가지 영업 기밀을 빼돌렸다고 주장하며 국내외에서 소송·고소전을 시작했다. SK도 “근거없는 의혹제기”라며 명예훼손으로 국내 법원에 맞소송을 내기도 했다.&lt;br&gt;&lt;br&gt;LG는 당시 미국 국제무역위원회(ITC)에 SK를 상대로 영업 비밀 침해 소송을 냈는데, ITC는 LG 손을 들어줬다. 이후 지난 2021년 4월 ‘SK가 LG 측에 합의금 2조원을 지급한다’는 조건으로 양측이 합의해 사건은 일단락됐다. 하지만 LG가 국내에서 SK를 고소한 사건은 그 뒤에도 경찰 수사가 이어진 것이다. 산업 기술 유출은 ‘반의사 불벌죄(피해자가 원하지 않으면 처벌하지 않는 것)’가 아니기 때문에 피해 회사인 LG의 의사와 관계 없이 수사가 진행됐다.&lt;br&gt;&lt;br&gt;경찰은 2022년 4월 SK이노베이션 임직원 30여명을 검찰에 송치했다. 국내에서 기술 유출 혐의로 이 정도 인원이 한꺼번에 검찰에 송치된 것은 드문 일이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E6TA3SZFEJFKJLFZ7BNKZPBK5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;LG·SK 배터리 분쟁. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 약 2년간의 추가 수사 끝에 이 중 7명을 기소하고, 17명은 기소유예, 11명은 무혐의 처분을 했다. 벌금형만 가능한 법인에 대해선 이미 공소시효가 소멸해 ‘공소권 없음’ 처분을 내렸다. 검찰 관계자는 “양사 간에 합의가 이뤄져 고소가 취소된 사정 등을 고려해 침해된 정보의 가치와 행위가 중한 사안에 한정해 기소했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘송도 화물차 주차장’, 이젠 사용할 수 있나…인천항만공사 승소</title>
+      <link>https://www.chosun.com/national/regional/2024/05/31/M46ROBYKCZBVBDGQYRA3L23TSM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/05/31/M46ROBYKCZBVBDGQYRA3L23TSM/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 31 May 2024 08:21:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FTFN64EYYZC2DEQWYQVX6ORZSI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;인천항만공사가 지난 2022년 12월 인천시 연수구 송도국제도시 아암물류2단지 5만㎡ 부지에 조성한 화물차 주차장 전경. /인천항만공사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1년 5개월 넘게 사용하지 못하고 있는 인천 송도국제도시 ‘화물차 주차장’을 둘러싼 인천항만공사와 인천경제자유구역청 간 1심 소송에서 인천항만공사가 이겼다.&lt;br&gt;&lt;br&gt;인천지법 행정2부(재판장 호성호)는 31일 인천항만공사가 인천경제청을 상대로 제기한 가설건축물 축조신고 수리 반려처분 취소 소송에서 인천항만공사의 손을 들어줬다. 재판부는 이날 “인천경제청이 인천항만공사에 내린 가설건축물 축조신고 반려처분을 취소한다”고 판결했다.&lt;br&gt;&lt;br&gt;이 판결이 확정되면 인천항만공사는 송도 화물차 주차장 운영을 위한 무인 관제시설과 간이 화장실 등을 갖출 수 있게 된다. 인천항만공사 관계자는 판결 직후 취재진에게 “이번 판결을 토대로 인천경제청에 ‘화물차 주차장 가설건축물 축조신고 반려처분’을 재검토해달라는 공문을 보낼 예정”이라며 “인천경제청과 협의해 올 하반기엔 화물차 주차장을 운영할 수 있게 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;인천항만공사는 지난 2022년 12월 해양수산부 소유의 인천시 연수구 송도국제도시 아암물류2단지 내 5만㎡ 부지를 무상 임대해 402대의 화물차가 주차할 수 있는 화물차 주차장을 조성했다. 총 51억원의 사업비를 투입했다. 인천항국제여객터미널과 가까운 아암물류단지의 원활한 물류 처리를 위한 목적이 컸다.&lt;br&gt;&lt;br&gt;하지만 인천경제청은 화물차 주차장이 부지 용도에 맞지 않게 조성됐다는 이유 등으로 인천항만공사의 신청을 3차례 반려했다. 화물차 주차장이 들어선 부지는 항만법상 ‘지원시설’ 용지로, 화물차만이 아닌 모든 차량을 대상으로 하는 일반 주차장이 들어설 수 있는 땅이라는 게 주된 이유다. 소음과 먼지 등을 우려하는 인근 아파트 주민 민원을 고려해야 한다는 이유도 있었다.&lt;br&gt;&lt;br&gt;결국 지난해 9월 인천경제청을 상대로 ‘가설건축물 축조신고 수리 반려처분 취소’ 소송을 제기한 인천항만공사는 ‘지원시설’ 용지에도 화물차 주차장을 조성할 수 있다는 해수부 유권해석을 근거로 맞섰다. 인근 아파트도 화물차 주차장과 약 1㎞ 떨어져 있어 직접적인 피해가 발생하지 않는다며 입장 차를 나타냈다.&lt;br&gt;&lt;br&gt;이번 판결에 대해 인천경제청 관계자는 “일반 주차장이 들어설 수 있는 땅에 화물차 전용 주차장이 들어선 문제는 여전하다”며 “인천항만공사가 화물차 주차장의 문을 연다고 해도 부지 용도와 다른 시설이기 때문에 행정적 조치가 가능할 것”이라고 했다. 이어 “화물차 주차장 문제와 관련한 대응 방안을 검토할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>지갑 훔치고 “저기다!” 목격자인 척… ‘발 연기’로 잡힌 소매치기</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/31/JN6PMXQS35E5NFKB3J6FQKUHVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/JN6PMXQS35E5NFKB3J6FQKUHVU/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 31 May 2024 08:10:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z4ALSIWK3VEDFI3VADUN2A2HNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 21일 낮 12시 26분쯤 서울 지하철 1호선 서울역 승강장에서 피해자에게 범행이 발각되자, 목격자인 척 손짓을 하며 범인을 쫓아가라고 말하는 상습 소매치기범 50대 남성 A씨의 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지하철에서 상습적으로 소매치기를 한 50대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울경찰청 지하철경찰대는 31일 최근 전동차에서 잠금장치 없는 가방을 멘 여성을 노려 지갑과 현금 등을 훔친 혐의로 50대 남성 A씨를 검거했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 21일과 28일 두 차례에 걸쳐 180만원 상당의 금품을 훔친 것으로 조사됐다.&lt;br&gt;&lt;br&gt;특히 A씨는 지난달 21일 지갑을 훔치던 중 피해자에게 발각될 뻔 하자, 목격자인척 “저기 앞”이라고 소리치면서 다른 방향을 가리켜 주의를 분산시키곤 그대로 달아났다. 이후 들킬까 두려워 훔친 지갑에서 발견한 피해자 명함에 적힌 번호로 직접 전화를 걸어 경찰에 신고했는지를 묻기도 했다. 당시 피해자가 신고했다고 하자, A씨는 “범인이 지갑만 버리고 열차를 타고 가버렸다”고 둘러댄 뒤 범행 현장으로 돌아가 지갑을 역무실에 맡겼다.&lt;br&gt;&lt;br&gt;A씨는 전과 21범으로, 이 가운데 19건은 절도 전력인 것으로 확인됐다. 심지어 지난 2월 출소 뒤 3달도 지나지 않아 다시 같은 범죄를 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;결국 A씨는 지난 18일 구속됐다.&lt;br&gt;&lt;br&gt;한편 지하철경찰대는 지하철 내 편의점에서 담배 140만5000원어치와 현금 32만5000원을 훔친 B씨 검거에도 성공했다. B씨 역시 동종 전과 17범으로, 지난달 21일 출소 뒤 나흘만에 절도 행각을 벌인 것으로 드러났다. B씨는 훔친 현금과 담배를 생활비 등에 모두 쓴 것으로 조사됐다.&lt;br&gt;&lt;br&gt;지하철 내 소매치기 사건은 생각보다 빈번하게 발생한다. 최근에는 퇴근 시간 열차 내부가 혼잡한 틈을 노려 승객의 현금을 훔친 전과자들이 잇달아 검거되기도 했다. 이에 경찰은 “지하철 내 소매치기 예방을 위해 잠금장치가 없는 가방은 앞으로 메고 탑승하고 상가 침입 절도 예방을 위해 단순한 비밀번호를 사용하지 말아달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘4년째 열애중’ 하니·양재웅 9월 결혼설... 소속사 “확인 어려워”</title>
       <link>https://www.chosun.com/national/people/2024/05/31/OV7QDT3XDZASNBKMWVQJ3YIQPM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/05/31/OV7QDT3XDZASNBKMWVQJ3YIQPM/</guid>
@@ -735,15 +834,6 @@
       <content:encoded>이른바 ‘KT 일감 몰아주기’ 의혹을 수사한 검찰이 구현모 전 KT 대표에게 혐의가 없다고 보고 30일 불기소 처분을 내렸다. 같은 날 ‘현대차 계열사 고가 매입’ 의혹과 관련해 윤경림 전 KT 사장과 윤동식 전 KT클라우드 대표는 불구속 기소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNWINPNM2EYGK2IIHSNPLW6DFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 전경. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 의혹들을 수사한 서울중앙지검 공정거래조사부(부장 용성진)는 이날 구 전 대표가 취임 직후 시설관리(FM) 업무를 계열사인 KT텔레캅을 통해 재하청하는 과정에서, 기존 4개 하청업체가 나눠갖던 일감을 KDFS 등에 몰아줬다는 혐의에 대해 불기소 처분을 내렸다.&lt;br&gt;&lt;br&gt;그간 검찰은 이런 의사결정에 구 전 대표의 지시 또는 관여가 있다고 의심하며 수사를 진행해 왔다. 관련 업무를 총괄하는 신모 전 KT 경영지원부문장(부사장)이 KT텔레캅 임원에게 “KDFS에 시설관리(FM) 업무 물량을 몰아주라”고 말한 녹취파일도 확보했다.&lt;br&gt;&lt;br&gt;검찰은 그러나 이러한 일감 몰아주기에 구 전 대표의 의중이 반영되지 않았다고 판단한 것으로 전해졌다. 구속 기소된 황욱정 KDFS 대표의 청탁 등에 따라 이뤄졌다는 것이다. 검찰은 이 과정에 관여한 혐의를 받는 신 전 부사장을 공정거래법 위반 혐의로 기소했다. 황 대표에게 “KDFS의 건물관리 일감을 늘려달라”는 청탁과 함께 법인카드, 공유오피스 등 금품을 제공받은 홍모 전 KT 상무보, 김모 KDFS 본부장 등은 배임수재 등 혐의로 불구속 기소했다.&lt;br&gt;&lt;br&gt;구 전 대표에 대해 검찰은 하청업체 KS메이트 대표를 결정하는 등 계열사처럼 운영한 점에 대해서만 하도급법 위반 혐의를 적용해 기소했다고 한다.&lt;br&gt;&lt;br&gt;한편 검찰은 KT그룹이 계열사인 KT클라우드를 통해 차량용 소프트웨어 업체인 스파크어소시에이츠(스파크, 現 오픈클라우드랩)의 지분 100%를 시세보다 고가에 사들였다는 의혹과 관련해 투자 당시 의사결정을 지휘한 윤경림 전 사장을 불구속 기소했다. 윤 전 사장이 현대차 임원을 지낸 점 등을 고려할 때 개인적 이해관계에 따라 배임 행위를 저질렀다고 본 것이다. 스파크는 정의선 현대자동차그룹 회장의 동서 박모씨가 설립한 회사다.&lt;br&gt;&lt;br&gt;검찰은 앞서 스파크 투자에서 ‘가교’ 역할을 한 서정식 전 현대오토에버 대표를 이 사건과 별개의 8억원대 배임수재 혐의로 기소한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘민주당 전당대회 돈 봉투’ 송영길, 보석으로 풀려나…“재판 성실히 받을 것”</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/30/NS54EPCMJJH6PIBYILRP6BBQ6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/30/NS54EPCMJJH6PIBYILRP6BBQ6M/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 May 2024 09:44:38 +0000</pubDate>
-      <content:encoded>‘민주당 전당대회 돈 봉투’ 및 ‘먹사연 불법 정치자금 수수’ 등 혐의로 구속 기소된 송영길 전 민주당 대표가 30일 보석으로 풀려났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P5U3PGQ5RFO5BD7JSIAVH4E2SY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;보석 석방 소회 밝히는 송영길 전 민주당 대표./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;송 전 대표는 이날 오후 5시4분쯤 경기 의왕시 서울구치소에서 보석으로 석방됐다. 그는 취재진과 만나 “보석을 결정해 준 재판부에 감사드린다”며 “성실히 재판에 임하고, 최선을 다해 무죄를 입증하도록 노력하겠다”고 했다. 전날 재판에서 이 사건의 핵심 증인인 이정근(전 민주당 사무부총장)씨가 후원금 관련 보고를 했다고 증언한 데 대해선 “(이정근씨가 제출한 것으로 알려진 녹음 파일) 3만개는 돈 봉투 사건과 아무런 상관이 없는데 수사에 쓰였다”며 “영장 없이 임의로 쓴 것은 위법 수집 증거”라고 했다. 이날 검찰이 윤관석 의원에 대해 징역 5년을 구형한 것에 대해선 “아시다시피 잘못한 것이 맞다”면서도 “징역형 집행유예를 받아야 할 사안”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지법 형사21부(재판장 허경무)는 이날 송 전 대표의 보석 청구를 받아들였다. 송 전 대표는 지난 17일 보석 신청서를 제출했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JXDXLOQLWVI4LBINQKNDOBIHLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아들과 포옹하는 송영길 전 민주당 대표./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;송 전 대표가 보석 신청을 한 것은 처음이 아니다. 그는 4월 총선을 앞둔 지난 2월26일 재판부에 불구속 재판을 요청했지만, 재판부는 지난 3월29일 기각했다. 하지만 이날 보석 신청을 인용하며 송 전 대표는 지난해 12월19일 구속된 지 163일 만에 풀려나게 됐다. 1심 구속 만기가 다가오면서 그의 석방을 허가한 것이다.&lt;br&gt;&lt;br&gt;재판부는 보석 조건으로 보증금 3000만원을 내라고 명령했다. 송 전 대표의 주거를 제한하고, 출석 및 증거인멸·외국 출국 등에 관한 서약서 등도 내라고 했다. 공판 출석의 의무를 지며, 출국 내지 3일 이상의 여행을 할 경우 미리 법원에 신고해 허가받아야 한다고 했다. 아울러 이 사건 관계자들과 어떤 방식으로든 만나거나 연락해선 안 되며, 연락이 올 경우 사실과 경위·내용 등을 재판부에 즉시 알려야 한다고 명시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>헌재 “병역거부자 3년간 대체복무 조항 합헌”</title>
       <link>https://www.chosun.com/national/court_law/2024/05/30/J6IC5N5VENDSJIKDF2KCDJNDWA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/30/J6IC5N5VENDSJIKDF2KCDJNDWA/</guid>
@@ -804,60 +894,6 @@
       </media:content>
     </item>
     <item>
-      <title>온몸 멍든 채 교회서 숨진 여고생…경찰, 합창단장 등 2명 추가 구속</title>
-      <link>https://www.chosun.com/national/incident/2024/05/30/RQLBG2I3XVHHBCQNLGZUYW7ZNU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/05/30/RQLBG2I3XVHHBCQNLGZUYW7ZNU/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 May 2024 08:14:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QPBI4B22ECZ2O7AHPNV7XSWAVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천경찰청 전경. /인천경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온몸에 멍든 채 의식을 잃고 쓰러져 숨진 여고생 김모(17)양이 머무르던 인천의 한 교회 소속 50대 여성 합창단장과 40대 여성 합창단원 등 2명이 구속됐다.&lt;br&gt;&lt;br&gt;인천경찰청 여성청소년범죄수사계는 아동복지법상 아동학대 혐의로 박모(52)씨와 조모(41)씨 등 2명을 구속했다고 30일 밝혔다. 인천지법 송동선 영장당직 판사는 지난 27일 “증거인멸과 도주할 우려가 있다”며 이들의 구속영장을 발부했다. 박씨는 김양이 생활하던 교회 소속 합창단의 단장이고, 조씨는 합창단원으로 활동해 왔다. 박씨는 해당 교회 설립자의 딸이다.&lt;br&gt;&lt;br&gt;박씨와 조씨는 지난 3월부터 5월 15일까지 인천시 남동구의 한 교회에서 학대한 혐의를 받고 있다. 경찰은 앞서 아동복지법상 아동학대치사 혐의로 김양과 함께 생활하던 이 교회 신도 50대 여성 김모(55)씨를 구속해 검찰에 송치했다. 이후 경찰은 숨진 김양 주변 인물 등을 대상으로 수사를 확대해 왔다. 경찰은 김씨를 비롯해 박씨와 조씨 등 3명이 공범 관계라고 보고 있다. 경찰 관계자는 “여러 증거 등을 종합한 결과, 이들이 공범 관계에 있다고 보고 있다”고 말했다. 경찰은 구속된 박씨 등 2명을 검찰에 송치할 땐 아동학대치사로 죄명을 변경할 방침이다. &lt;br&gt;&lt;br&gt;박씨 등은 혐의 내용에 대해 부인하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 검찰에 구속 송치된 김씨는 지난 15일 오후 8시쯤 “(김양이)밥을 먹던 중 의식을 잃었다”며 직접 119에 신고했다. 김양은 구급대에 의해 병원으로 옮겨졌으나 4시간여 뒤 숨졌다. 발견 당시 김양의 신체 여러 곳에 멍 자국이 있었고, 두 손목에 보호대를 착용하고 있던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;국립과학수사연구원은 숨진 김양의 부검을 진행해 “학대 가능성이 있다”며 사인은 ‘폐색전증’으로 추정된다는 1차 구두 소견을 밝혔다. 폐색전증은 폐동맥에 피 찌꺼기나 다른 이물질이 생겨 막히는 증상이다.&lt;br&gt;&lt;br&gt;김양은 지난 3월부터 이 교회에서 생활했다. 김양의 어머니가 지난 1월 남편과 사별한 뒤 생활고를 이유로 이 교회에서 지내던 김씨에게 딸을 맡겼다는 게 교회 측 설명이다. 이 관계자는 김양이 숨졌을 당시 “김양이 정신적으로 힘들어 하면서 자해를 시도했는데, 이를 말리기 위해 (김씨가) 김양의 손을 묶었던 적이 있었던 것으로 안다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대전 중앙로 지하상가 입찰 중지 가처분 신청 ‘기각’ </title>
-      <link>https://www.chosun.com/national/regional/2024/05/30/QKU22R4UKJCUXJ46HITYXO4VHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/05/30/QKU22R4UKJCUXJ46HITYXO4VHI/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 May 2024 08:48:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OEP23TEMYVH2ZDUPWL7E4R6IAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전시가 중앙로 지하상가 점포 사용허가를 경쟁입찰로 강행하자 이를 정지해 달라며 상인들이 제기한 가처분 신청이 법원에서 기각됐다.&lt;br&gt;&lt;br&gt;대전지법 행정1부(재판장 김양규)는 30일 사단법인 중앙로1번가운영위원회(상가운영위원회)가 대전시장을 상대로 제기한 중앙로 지하상가 경쟁입찰 중지 가처분 신청을 기각했다. 법원이 경쟁입찰 절차를 진행 중인 대전시 손을 들어준 것이다.&lt;br&gt;&lt;br&gt;재판부는 “채권자 상가운영위원회는 공유재산법상의 행정재산에 대한 최대 사용허가 기간인 30년이 만료돼 입찰중지 가처분 신청의 피보전권리가 인정되지 않는다”며 “나머지 채권자들은 행정재산인 지하상가의 사용허가를 받은 당사자가 아니어서 피보전권리가 있다고 볼 수 없다”고 기각 결정 사유를 설명했다.&lt;br&gt;&lt;br&gt;상가운영위윈회는 지난 24일 대전시가 진행 중인 중앙로 지하상가에 대한 경쟁입찰 절차를 중지해 달라는 취지의 가처분 신청을 법원에 냈다.&lt;br&gt;&lt;br&gt;지난 29일 열린 심문에서 상인회 측 변호인은 “현재 채권자·상인들은 계약·법리상 지하상가 사용 수익 연장 신청 권리가 있다”며 “지하상가가 전통시장에 해당하기 때문에 무상 사용 만료 후 수의 계약 방법으로 횟수·기간에 제한을 두지 않고 연장할 수 있는데 채무자(대전시)가 재량을 남용하며 연장을 거부하고 있다”고 주장했지만, 법원은 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;법원 결정에 대해 대전시는 “입찰 절차를 마무리할 계획이고, 법과 원칙에 따라 향후 절차를 진행해 나갈 방침”이라고 밝혔다. 이장우 대전시장은 이날 오전 “공직자는 헌법을 준수해야 한다. 법적 검토를 통해 현재 계약이 연장 불가능하다는 것을 여러 차례 확인했다”고 밝혔다.&lt;br&gt;&lt;br&gt;반면 계약 연장 등을 주장해온 상인회 측은 “법원 결정 소식을 듣고 당황했다”면서 “상인회 회의를 열어 향후 대응 방안을 모색할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;대전 중구 중앙로 지하상가는 대전시 공유재산으로 1994년 건설된 이후 30년 동안 민간(사단법인 중앙로1번가운영위원회)에서 위탁 운영을 해왔다. 그러다 오는 7월 5일로 관리협약·개별점포 사용 허가 기간이 만료되면서 대전시는 관리 주체를 대전시설관리공단으로 변경하고, 경쟁입찰 방식으로 상가 사용자를 찾고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>거제 前여친 폭행남, ‘상해치사·스토킹’ 혐의로 재판행</title>
-      <link>https://www.chosun.com/national/2024/05/30/EQ2A5JOGE5DSVPSHEVRZJMF7RM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/05/30/EQ2A5JOGE5DSVPSHEVRZJMF7RM/</guid>
-      <dc:creator>거제=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 May 2024 08:41:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5H7I5RCTFBC3DAIXL3QPFZXMMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전 여자친구를 폭행해 숨지게 한 혐의로 구속된 20대 남성 A씨의 신상이 온라인상에 공개됐다. /온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 거제에서 전 여자친구를 때려 다치게 하고 결국 숨지게 한 혐의를 받는 20대 남성이 구속돼 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;창원지검 통영지청 형사2부(부장 최성수)는 상해치사 및 스토킹처벌법위반, 주거침입 혐의를 받는 A씨를 구속 기소했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 1일 전 여자친구 B씨의 주거지에 침입해 머리와 얼굴 등을 여러 차례 때리거나 목을 졸라 B씨를 다치게 해 결국 숨지게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨의 폭행으로 B씨는 외상성 경막하출혈 등 전치 6주의 상해를 입고, 병원에서 입원 치료를 받다가 지난달 10일 숨졌다.&lt;br&gt;&lt;br&gt;범행 당일 A씨는 헤어진 B씨에게 여러 차례 전화를 걸고, 전화를 받지 않자 미리 알고 있던 비밀번호로 B씨 집에 허락 없이 들어갔다. 집 안에서 잠을 자고 있던 B씨는 A씨에게 심한 폭행을 당했고, 이로 인해 병원에서 입원 치료를 받던 중 사망했다.&lt;br&gt;&lt;br&gt;A씨는 범행 직후인 지난달 11일 오전 1시 22분 긴급체포됐지만, 약 8시간이 지나 풀려났다. 검찰은 “최초 사건 발생 당일 A씨가 상해 사실을 인정했고, 체포될 당시 경찰에 자신의 위치를 밝히고, 응한 점 등에 비춰 긴급체포의 법률상 요건인 ‘체포영장을 받을 시간적 여유가 없는 때에 해당하지 않는다’고 보고 불승인했다”고 설명했다.&lt;br&gt;&lt;br&gt;A씨가 풀려난 다음 날인 지난달 12일 국립과학수사연구원이 B씨 사망 원인이 ‘패혈증에 의한 다발성 장기부전’이라는 1차 부검 소견을 밝히면서 A씨는 구속도 피할 수 있었다.&lt;br&gt;&lt;br&gt;하지만 B씨 유족 측은 A씨가 평소에도 B씨에 대한 폭행과 스토킹이 있었다면서 억울해하며 지난달 16일 A씨를 경찰에 고소했다. 경찰도 “A씨 폭행으로 B씨가 머리 등을 다쳐 병원에 입원해 치료를 받아왔고, 짧은 치료기간 내에 사망한 만큼 A씨 폭행과 B씨 사망 사이에 인과관계가 있는지를 수사하기 위해 국과수에 B씨 조직 검사 등 정밀 검사를 의뢰했다”고 수사 의지를 드러냈다.&lt;br&gt;&lt;br&gt;이후 국과수 정밀 부검 결과 “머리 손상에 의한 합병증으로 사망했을 가능성이 크다”고 나오면서 A씨는 결국 구속됐다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “피해자 유족에게 피해 상황을 충분히 청취하고 장례비·치료비·생계비 등을 지원했다”며 “향후 심리치료 연계 등 피해자 유족에 대한 보호·지원에 소홀함이 없도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;이어 “피고인에게는 죄에 상응하는 처벌이 이뤄질 수 있도록 공소 유지에 최선을 다하겠다”며 “교제폭력·강력범죄 등에 엄정 대응할 것이다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘민주당 돈 봉투’ 윤관석 2심서도 징역 5년 구형</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/30/2LKIDL4NPFFBVFS7S33JCQWEIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/30/2LKIDL4NPFFBVFS7S33JCQWEIE/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 May 2024 08:34:24 +0000</pubDate>
-      <content:encoded>검찰이 ‘더불어민주당 돈 봉투 살포 의혹’으로 기소된 윤관석 전 의원에게 징역 5년을 선고해달라고 2심 재판부에 요청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JUQUCV7SJ53NHK4GY4WCYVP4ZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤관석 전 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 30일 서울고법 형사3부(재판장 이창형) 심리로 열린 윤 전 의원의 정당법 위반 사건 2심 결심 공판에서 윤 전 의원에게 징역 5년을 구형했다. 앞서 검찰은 1심에서도 징역 5년을 구형했었다.&lt;br&gt;&lt;br&gt;검찰은 함께 기소된 강래구 전 한국수자원공사 상임감사위원에게는 정당법·정치자금법 위반 혐의에 대해 징역 10개월, 뇌물 수수 혐의에 대해 징역 1년 6개월과 벌금 1000만원을 각각 구형했다.&lt;br&gt;&lt;br&gt;검찰은 “이 사건은 헌법에서 규정한 정당 민주주의와 대의 민주주의의 근간을 훼손해 죄질이 극히 불량하다”고 구형 이유를 설명했다.&lt;br&gt;&lt;br&gt;이어 “선거권 매수를 위해 6000만원이 동원된, 유례를 살펴볼 수 없는 금권 선거”라면서 “윤 전 의원이 3선 의원으로서 헌법적 가치 수호에 대한 책임을 방기하고 범행을 주도한 점, 사무총장 취임 등 범행으로 대가를 취득하고 항소심까지 반성하지 않는 점 등을 고려해달라”고 했다.&lt;br&gt;&lt;br&gt;윤 전 의원은 2021년 더불어민주당 전당대회에서 송영길 전 민주당 대표를 당대표로 당선시키기 위해 국회의원 살포용 돈 봉투 20개(6000만원)를 받은 혐의로 기소됐다. 지난 1월 1심 재판부는 윤 의원에게 징역 2년을 선고했다.&lt;br&gt;&lt;br&gt;강씨 역시 송 전 대표 당선을 위한 각종 불법 자금 살포에 관여한 혐의로 1심에서 징역 1년 8개월을 선고받았다.&lt;br&gt;&lt;br&gt;한편 윤 전 의원은 허종식 의원과 이성만·임종성 전 의원 등에게 300만원씩 든 돈 봉투를 살포한 혐의로도 기소돼 재판받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>음주사고 두 달 뒤 성추행까지… ‘유연수 비극’ 가해자 2심 판결은</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/30/YBL7TQJ4LZGKPPKIWMOFUCXZWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/30/YBL7TQJ4LZGKPPKIWMOFUCXZWA/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 May 2024 08:34:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E2TA6OXGSNCMTU2RVVVPPPPTCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주유나이티드 전 골키퍼 유연수가 2023년 11월 11일 열린 은퇴식에서 휠체어에 앉은채 눈물로 팬들에게 작별인사를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주 운전 사고로 축구선수 유연수의 선수 생명을 앗아간 30대 남성이 2심에서도 실형을 선고받았다. 이 남성은 사고 2개월여 만에 여성의 신체 일부를 강제 추행한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;제주지법 형사1부(재판장 오창훈 부장판사)는 30일 특정범죄 가중처벌 등에 관한 법률 위반(위험운전치상)과 준강제추행 혐의로 기소된 A(36)씨 항소심 공판에서 피고인과 검찰 측 항소를 모두 기각하고 징역 4년을 선고한 원심을 유지했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인이 술을 마시고 과속 운전을 하다 낸 사고로 유연수는 회복이 어려운 장애 판정을 받았다”며 “이 사건이 없었다면 많은 행복을 누릴 수 있었던 26세 청년이 겪을 고통을 가늠하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;이어 “음주 사고 2개월여 만에 강제추행 사건을 저질렀고, 음주 관련 처벌 전력이 있는 점 등을 봤을 때 원심의 형이 가벼워 상향함이 마땅하다”며 “다만 피해가 중한 피해자들과 합의한 점 등을 고려했다”고 설명했다.&lt;br&gt;&lt;br&gt;앞서 A씨는 2022년 10월 18일 오전 5시40분쯤 제주 서귀포시 표선면 가시리사거리에서 만취 상태로 제한속도를 초과해 운전하다 차량을 들이받는 사고를 냈다. 당시 피해 차량엔 제주유나이티드 골키퍼인 김동준·임준섭·유연수와 트레이너 등이 타고 있었다. 이중 유연수는 하반신 마비 등 치명적인 상해로 1년간 재활 치료에 힘썼으나, 결국 현역 은퇴를 선택해야 했다.&lt;br&gt;&lt;br&gt;A씨는 이 사건 2개월여 만인 작년 1월 15일 여성의 신체 일부를 만진 혐의도 받는다. 당시 자신이 운영하던 게스트하우스에서 잠을 자던 여성을 강제 추행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울고법 “SK주식도 분할 대상... 최태원, 노소영에 1조3800억 줘야”</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/30/CHZAGX3YA5H47NGJWJHC6V6ZVA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/30/CHZAGX3YA5H47NGJWJHC6V6ZVA/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 May 2024 05:50:51 +0000</pubDate>
-      <content:encoded>최태원 SK그룹 회장이 노소영 아트센터 나비 관장과 이혼하면서 노 관장에게 재산 분할로 1조3800억원을, 위자료로 20억원을 지급하라는 2심 법원 판결이 30일 나왔다. 1심에서 재산 분할 대상으로 인정되지 않았던 최 회장이 보유한 그룹 지주사 SK㈜ 주식에 대해, 2심은 노 관장에게 기여분이 있다며 주식도 재산 분할 대상이라고 판단한 것이다.&lt;br&gt;&lt;br&gt;서울고법 가사2부(재판장 김시철)는 이날 두 사람의 이혼 소송 2심에서 이같이 판결했다. 이는 2022년 12월 1심이 인정한 재산분할 665억원과 위자료 1억원에서 대폭 늘어난 금액이다. 재산분할 규모만 놓고 보면 역대 최대 액수인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M7MGXWD65RD3PP7ML3DWGJHLAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최태원 SK그룹 회장(왼쪽)과 노소영 아트센터 나비 관장이 4월 16일 오후 서울 서초구 고등법원에서 열린 이혼 관련 항소심 변론기일에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판부는 “최 회장은 노 관장과 별거 후 김희영 티앤씨 재단 이사장과의 관계 유지 등으로 가액 산정 가능 부분만 해도 219억 이상을 지출하고 가액 산정 불가능한 경제적 이익도 제공했다”며 “혼인 파탄의 정신적 고통을 산정한 1심 위자료 액수가 너무 적다”고 판단했다. 이어 “노 관장이 SK그룹의 가치 증가나 경영활동의 기여가 있다고 봐야 한다”며 “최 회장의 재산은 모두 분할 대상”이라고 했다. 최 회장이 보유한 SK㈜ 주식은 분할 대상이 아니라는 1심 판단을 뒤집은 것이다. 재판부는 “노태우 전 대통령이 최종현 전 회장이 보호막이나 방패막이 역할을 하며 결과적으로 (SK그룹의) 성공적 경영활동에 무형적 도움을 줬다고 판단한다”며 SK그룹 경영에 노 관장의 기여분이 있다고 본 것이다. 재판부는 두 사람의 전체 재산을 약 4조원으로 보고 재산 분할 비율을 최 회장 65%, 노 관장 35%로 정했다.&lt;br&gt;&lt;br&gt;재판부는 또 최 회장에 대해 “혼인 관계가 해소되지 않았는데도 2019년 2월부터는 신용카드를 정지시키고 1심 판결 이후에는 현금 생활비 지원도 중단했다”며 “소송 과정에서 부정행위에 대해 진심으로 반성하는 모습을 보이지 않고 일부일처제를 전혀 존중하지 않는 태도를 보이고 있다”고 질타했다.&lt;br&gt;&lt;br&gt;최 회장은 고(故) 최종현 SK 선대 회장의 아들이고, 노 관장은 고(故) 노태우 전 대통령의 딸이다. 두 사람은 노 전 대통령 취임 첫해인 1988년 9월 결혼했고, 세 자녀를 뒀다. 하지만 2015년 최 회장이 언론을 통해 혼외자(婚外子)의 존재를 알리며 노 관장과 이혼하겠다는 의사를 밝혔다. 2017년 최 회장이 이혼 조정을 신청했지만, 양측이 조정에 이르지 못하면서 이혼 소송으로 이어졌다.&lt;br&gt;&lt;br&gt;노 관장은 한동안 최 회장의 이혼 요구를 받아들이지 않았지만 2019년 12월 ‘이혼에 응하겠다’며 맞소송을 냈다. 그러면서 최 회장이 보유한 그룹 지주사 SK㈜ 주식 중 42.29%(650만주)를 재산 분할로 요구했다. 이 주식을 당시 시세로 환산하면 약 1조3700억원이다. 위자료 3억원도 함께 청구했다. 하지만 2022년 12월 1심은 “노 관장이 SK㈜ 주식의 형성과 유지, 가치 상승 등에 기여했다고 보기 어렵기 때문에 해당 주식은 재산 분할 대상에서 제외한다”면서 최 회장에게 재산 분할 665억원, 위자료 1억원의 현금만 지급하라고 판결했다.&lt;br&gt;&lt;br&gt;노 관장은 항소하면서 2심 재판부에 재산분할 청구 액수를 약 2조원으로 늘리고, 위자료 청구 액수도 30억원으로 증액했다.&lt;br&gt;&lt;br&gt;노 관장 측은 2심 과정에서 1990년대에 부친인 노태우 전 대통령의 ‘비자금’ 가운데 약 343억원이 최종현 전 회장과 최 회장에게 전달됐으며, 1992년 증권사 인수, 1994년 SK 주식 매입 등에 사용됐다고 주장하기도 했다. 이에 최 회장 측은 SK그룹에 비자금이 유입된 적이 없다며, 이는 1995년 노 전 대통령 비자금 수사 때도 확인된 사실이라고 반박하기도 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>노소영 측 “혼인순결·일부일처제 헌법 가치 고민한 훌륭한 판결”</title>
       <link>https://www.chosun.com/national/national_general/2024/05/30/FGZN6U6XGBGBRMFYIS66UTMFJA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/30/FGZN6U6XGBGBRMFYIS66UTMFJA/</guid>
@@ -871,33 +907,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘역대 최고액’ 최태원-노소영 2심 판결한 김시철 부장판사는 누구?</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/30/7OWWW4Q745FOXMHPRFWY3NNY3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/30/7OWWW4Q745FOXMHPRFWY3NNY3E/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 May 2024 08:03:51 +0000</pubDate>
-      <content:encoded>최태원(63) SK그룹 회장이 노소영(63) 아트센터 나비 관장에게 재산분할로 1조 3800억원과 위자료로 20억원을 지급하라는 2심 법원 판단이 30일 나오면서, 이번 사건의 재판장이었던 김시철 서울고법 부장판사에게 관심이 쏠리고 있다.&lt;br&gt;&lt;br&gt;서울고법 가사2부를 이끌며 최 회장과 노 관장 간 이혼 소송에서 전례 없는 재산분할 액수를 결정한 김 부장판사는 과거에도 위자료 산정에 유책 배우자의 책임을 폭넓게 반영하고, 부부 중 한쪽이 단독 취득한 재산도 재산분할에 포함시키는 등 파격적 판결을 여러 차례 냈었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W7JEFEC45VWMGIAF33QLWZSUEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최태원 SK그룹 회장(왼쪽)과 노소영 아트센터 나비 관장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 부장판사는 지난해 6월 유책 배우자가 상대방에게 지급해야 할 위자료를 2억원으로 정한 판결을 내놨다. 이전까지 대부분의 소송에서 유책 배우자가 내는 위자료가 3000만원을 넘지 못했던 점을 감안하면 훨씬 높은 위자료를 책정한 것이다.&lt;br&gt;&lt;br&gt;이 재판에서 유책 배우자인 B씨는 A씨를 상대로 총 두 번의 이혼 소송을 냈고, 두 번째 소송에서 “유책배우자의 이혼청구가 예외적으로 허용될 수 있는 경우에 해당한다”는 판결이 나면서 두 사람이 이혼했다. 이후 A씨가 B씨를 상대로 “이혼청구가 인용됐기는 했으나 부부 사이의 혼인 파탄의 직접적인 책임은 B 씨에게 있다”며 손해배상 청구 소송을 냈다.&lt;br&gt;&lt;br&gt;재판부는 “B 씨는 경제적인 측면에서 A 씨로부터 상당한 도움을 받으면서도 상당한 기간 동안 다수의 여성들과 여러 차례 부정행위를 하는 등 정신적·육체적인 측면에서 우리 헌법이 특별히 보호하고 있는 혼인의 순결과 일부일처제도 등을 전혀 존중하지 않는 태도를 보였다”며 B씨를 질책하고 이례적으로 높은 위자료를 책정했다.&lt;br&gt;&lt;br&gt;김 부장판사는 작년 6월 가정주부인 아내가 결혼기간 중에 아버지에게 물려받은 주식을 재산 분할 대상에 포함하는 판결을 내놓기도 했다. 대다수의 경우 결혼 생활 도중 상속·증여 받은 재산은 재산 분할 대상에 포함하지 않는다.&lt;br&gt;&lt;br&gt;당시 재판부는 “남편이 혼인 기간 대부분 의사로서 경제활동을 했고, 그 소득 중 상당 부분을 아내가 관리해 온 점 등을 고려하면 아내가 혼인기간 중 지급받은 배당금 역시 부부 공동재산으로 인정하는 것이 형평에 부합하다”고 했었다. 이어 “아내가 지급받을 배당금을 원천으로 해 주식 수가 증가한 이상 이는 부부 공동재산을 통한 주식 수의 증가라고 보는 것이 타당하다”고 했다.&lt;br&gt;&lt;br&gt;법조계에선 이 같은 김 부장판사의 판결을 봤을 때 1심보다 노 관장 측에 유리한 판단이 나오지 않겠느냐는 관측이 많았었다. 최 회장 측은 재판 도중 가사2부 소속 판사의 친척이 다니는 김앤장을 추가 선임했었는데, 이 역시 김 부장판사의 성향을 고려해 다른 재판부로의 재배당을 기대한 것 아니냐는 관측이 있었다. 재판 당사자 중 한 명이 판사의 친척이 근무하는 법무법인을 선임할 경우 법원은 재배당을 검토할 수 있다. 다만 최 회장 측은 “변론권을 강화하는 차원”이라고 했고 실제 재배당도 이뤄지지 않았다.&lt;br&gt;&lt;br&gt;한편 김 부장판사는 서울 출신으로, 광성고와 서울대 법학과를 졸업하고 1987년 제29회 사법시험에 합격했다. 그는 1990년 서울형사지법(현 서울중앙지법)에서 판사 생활을 시작해 대법원 재판연구관, 서울중앙지법 부장판사, 수원지법 성남지원장, 사법연수원 수석교수 등을 지냈다. 2015년부터 서울고법 부장판사로 근무 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보]헌재 “KBS 수신료·전기료 분리 징수 합헌”</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/30/LOVHHY4VOFFMXB4GD7D3MBGVI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/30/LOVHHY4VOFFMXB4GD7D3MBGVI4/</guid>
-      <dc:creator>송원형 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 May 2024 07:31:06 +0000</pubDate>
-      <content:encoded>KBS 수신료를 전기요금과 분리 징수하도록 한 방송법 시행령은 헌법에 어긋나지 않는다는 헌법재판소 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YPSJC6GZLXLO2ZLPCRVLJTALVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 헌법재판소./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌재는 30일 KBS가 방송법 시행령 43조 2항에 대해 낸 헌법소원 심판 청구 사건에서 재판관 6(합헌)대3(위헌) 의견으로 기각했다.&lt;br&gt;&lt;br&gt;헌재는 “해당 조항은 청구인의 방송 운영의 자유를 침해하지 않는다”고 판단했다. KBS는 작년 7월 12일 시행된 이 조항이 공영방송사의 재정 안정성을 위협하고, 방송통신위원회가 시행령 개정 과정에서 입법예고 기간을 통상보다 짧게 정해 위헌이라며 헌법소원을 청구했다. TV 수신료가 전기요금에서 분리 징수된 것은 30년 만에 처음이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>지연 가장 잦은 항공사는 에어서울, 이용 만족도 높은 곳은 ANA</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/05/30/IBFISDE77ZBNXO3IA2JPY66WMI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/05/30/IBFISDE77ZBNXO3IA2JPY66WMI/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description>국내에 운항하는 항공사 중 가장 지연이 잦은 업체는 ‘에어서울’과 ‘제주항공’인 것으로 나타났다.</description>
-      <pubDate>Thu, 30 May 2024 07:46:59 +0000</pubDate>
-      <content:encoded>국내에 운항하는 항공사 중 가장 지연이 잦은 업체는 ‘에어서울’과 ‘제주항공’으로 나타났다. 탑승객들이 가장 만족한 항공사는 ‘전일본공수(ANA)’로 조사됐다.&lt;br&gt;&lt;br&gt;국토교통부는 이런 내용을 담은 ‘2023년 항공운송 서비스 평가’ 결과를 30일 발표했다. 평가 대상은 10개 국적 항공사와 36개 외국 항공사였다.&lt;br&gt;&lt;br&gt;평가에 따르면, 에어서울과 제주항공은 국내선이 16~30분 지연되는 비율이 각각 20.6%, 17.6%로 가장 높았다. 이 때문에 운항 신뢰성 부문에서 각각 C++와 B+로 낮은 등급을 받았다. 에어로케이는 해당 항목에서 국제선과 국내선 모두 A++를 받는 유일한 업체였다.&lt;br&gt;&lt;br&gt;내국인 탑승객 2만9147명이 지난해 9월부터 12월까지 직접 평가한 ‘이용자 만족도’ 부문에선 전일본공수(ANA)가 7점 만점에 6점으로 1위를 기록했다. 대한항공이 5.97점으로 2위, 에어로케이, 케세이퍼시픽항공이 5.92점으로 3위를 기록했다. 아시아나항공(5.88점)은 5위였다.&lt;br&gt;&lt;br&gt;안전성 부문에선 지난해 항공기 사고가 1건 발생한 아시아나항공, 이륙 중단 등 비정상 운항 발생이 잦았던 에어프리미아가 B+로 비교적 낮은 평가를 받았다. 다른 업체는 모두 A 이상 등급을 기록했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>배달음식 통한 나트륨 섭취 급증... 어린이·청소년 당류 섭취 국제 기준 초과</title>
       <link>https://www.chosun.com/national/national_general/2024/05/30/UWA5VGJ7WZAYJDHSX3X7A7MADU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/30/UWA5VGJ7WZAYJDHSX3X7A7MADU/</guid>
@@ -905,15 +914,6 @@
       <description/>
       <pubDate>Thu, 30 May 2024 07:46:33 +0000</pubDate>
       <content:encoded>한국인의 하루 평균 나트륨 섭취량이 세계보건기구(WHO) 권고 기준의 약 1.5배인 것으로 나타났다. 특히 코로나 이후 집에서 배달·포장 음식을 통한 나트륨 섭취가 급증했다. 당류 섭취량은 WHO 권고 기준보다 낮지만, 어린이와 청소년 등은 WHO 기준보다 달게 먹는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;식품의약품안전처는 2018~2022년 5년간 한국인의 하루 평균 나트륨·당류 섭취량 분석 결과를 30일 발표했다. 식약처에 따르면, 한국인의 하루 평균 나트륨 섭취량은 2018년 3274mg에서 2022년 3074mg으로 점점 줄어드는 추세다. 김치나 국, 탕, 찌개류를 덜 섭취했기 때문으로 분석된다. 하지만 여전히 한국인 평균 나트륨 섭취량은 WHO의 권고 기준(2000mg·소금 5g)의 약 1.5배에 달한다.&lt;br&gt;&lt;br&gt;섭취 장소별로 보면 식당에서 먹는 나트륨은 같은 기간 871g에서 631g으로 감소했지만, 집에서 먹는 나트륨은 1826g에서 1962g으로 늘었다. 특히 집에서 직접 해먹은 음식보다 배달·포장해서 먹은 음식을 통한 나트륨 섭취가 크게 늘었다. 2018년 166g에서 2022년 255g으로 100g 가까이 늘었다. 1인 가구는 149g에서 300g으로 2배가 됐다. 코로나 기간 배달 음식을 많이 이용한 것도 영향을 준 것으로 보인다.&lt;br&gt;&lt;br&gt;한국인이 과자, 음료수 등 가공식품을 통해 섭취한 당류는 2022년 하루 평균 34.6g(하루 총열량의 7.6%)으로 5년 간 비슷한 수준을 유지하고 있다. 이는 WHO 권고 기준보다 낮은 수치다. 하지만 2022년 6~29세 여성의 하루 평균 당류 섭취량은 총열량의 10.3~10.9%로, WHO 권고 기준보다 높았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>헌재 “문재인 정부서 확대된 종합부동산세 합헌”</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/30/QNRJHB4XC5BE5PIJFL3W7JP7CM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/30/QNRJHB4XC5BE5PIJFL3W7JP7CM/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 May 2024 06:15:59 +0000</pubDate>
-      <content:encoded>문재인 정부에서 납부 대상이 확대되고 세율이 높아진 종합부동산세가 헌법에 어긋나지 않는다는 헌법재판소 판단이 나왔다.&lt;br&gt;&lt;br&gt;헌재는 30일 옛 종합부동산세법 7조 1항, 8조 1항 등에 대한 헌법소원 심판 청구 사건에서 재판관 6(합헌)대3(위헌) 의견으로 합헌 결정을 내렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/32WK7IGE7ZNO3O4VWNWKGQL67Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종석 헌법재판소장을 비롯한 헌법재판관들이 30일 오후 서울 종로구 헌법재판소 대심판정에 입장해 자리에 앉아 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;해당 조항은 주택 공시가격 합산 금액이 6억원이 넘는 이를 종부세 납부 대상으로 명시하고, 공시가격 합산액에서 6억원을 공제한 금액에 대통령령으로 공정시장가액 비율을 곱해 종부세 과세표준을 정한다고 규정한다.&lt;br&gt;&lt;br&gt;청구인들은 문재인 정부 당시 종부세 납부 의무자가 대폭 확대되면서 재산권을 침해당했다고 주장했다. 또 납세 의무자, 과세표준, 세율, 주택 수 계산을 포괄적으로 대통령령에 위임하기 때문에 국회가 제정한 법률에 따라 과세 조건을 규정하도록 한 조세법률주의에 어긋난다고 주장했다. 그러면서 조정대상지역 내 2주택을 소유한 경우 세율이 지나치게 높아 과잉금지원칙과 평등 원칙에 위배된다고도 했다.&lt;br&gt;&lt;br&gt;헌재는 “법률이 직접 공시가격의 산정 기준 등을 정하지 않는다고 보기 어렵고, 국토교통부 장관 등에 의해 공시가격이 자의적으로 결정되도록 방치된다고 볼 수 없다”며 조세법률주의를 위반하지 않았다고 판단했다. 또 “종부세는 일정 가액 이상의 부동산 보유에 대한 과세를 강화해 부동산 가격 안정을 도모하고 실수요자를 보호하려는 정책적 목적을 위해 부과되는 것으로서 입법 목적은 정당하다”면서 “소유 주택 수와 조정대상지역 내 주택 소재 여부를 기준으로 세율 등을 차등해 종부세를 부과하는 것은 이런 입법목적 달성에 적합한 수단”며서 과잉금지원칙도 위반하지 않는다고 했다.&lt;br&gt;&lt;br&gt;헌재는 종부세가 주택이나 토지 소유자들과 그 이외 재산 소유자들을 차별한다는 주장에 대해선 “주택은 인간의 기본적인 생존 조건이 되는 생활공간인 만큼 주택과 토지를 다른 재산권의 대상과 달리 취급해 종부세를 부과하는 데 합리적 이유가 있다”고 했다.&lt;br&gt;&lt;br&gt;다만, 이은애·정정미·정형식 재판관은 조정대상지역 내 2주택 소유자에 대한 종부세 부과가 재산권을 침해한다는 반대의견을 냈다. 이 재판관 등은 “조정대상지역 지정 이전부터 해당 지역 내에 2주택을 소유해 온 자에게 투기적 목적을 인정하기 어렵다”며 “부모 부양, 자녀 학업 등의 이유로 2주택을 소유한 자에 대한 입법적 배려가 전혀 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>배우 구성환, 반려견 미용 논란에 “뭐라 하든 신경 안 써”</title>
