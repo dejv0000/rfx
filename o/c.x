@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>강변북로서 타이어 없이 ‘굴렁쇠 질주’…알고 보니 만취 운전</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/01/LMWSJOOVW5B7NF3S75R4UXLUVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/01/LMWSJOOVW5B7NF3S75R4UXLUVU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Jun 2024 13:55:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/24EQ7EOTNRHNXKVNM2PWGBKOCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;당시 A씨가 몰던 차량. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강변북로에서 타이어가 빠진 상태로 휠로만 도로를 주행하는 모습이 목격돼 온라인상에서 화제가 됐던 이른바 ‘굴렁쇠 질주’ 사건 운전자가 경찰에 체포됐다. 해당 운전자는 만취 상태에서 이 같은 일을 벌인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;1일 서울 강남경찰서는 지난달 30일 새벽 만취 상태에서 오른쪽 바퀴 두 개의 타이어가 모두 빠져 있는 검은색 승용차를 타고 강변북로에서 성수대교, 강남 방면으로 운전한 남성 A씨를 현행범 체포했다고 밝혔다.&lt;br&gt;&lt;br&gt;각종 온라인 커뮤니티와 소셜미디어 등에 올라온 영상을 보면 당시 A씨가 몰던 차량은 각각 우측 앞뒤 부분의 타이어가 빠져있었다. 그럼에도 빠른 속도로 질주해 휠과 아스팔트가 부딪히면서 시끄러운 쇳소리가 났다. 휠 부분에서 불꽃이 튀는 모습도 목격됐다.&lt;br&gt;&lt;br&gt;당시 A씨는 면허취소 수준의 만취 상태로 자신의 차량에서 타이어가 빠진 것도 몰랐던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 음주운전 혐의로 입건하는 한편, 도로 손상 등 추가 혐의를 적용할 수 있는지도 검토 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>EXID 출신 하니, 10살 연상 의사와 결혼발표 “행복하게 살겠다”</title>
+      <link>https://www.chosun.com/national/people/2024/06/01/M6YKFR4HAVBLXATVSN3Q2EAYCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/01/M6YKFR4HAVBLXATVSN3Q2EAYCE/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Jun 2024 11:47:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JA6YITBIT7VZV5YIBDYUAWURSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양재웅(왼쪽)과 하니. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 EXID 출신 배우 하니(본명 안희연·32)가 10살 연상인 정신건강의학과 의사 양재웅(42)과 결혼을 한다고 발표했다. 앞서 두 사람이 오는 9월 결혼한다는 보도가 나왔을 때 하니의 소속사는 “사생활이라 확인이 어렵다”고 했었다.&lt;br&gt;&lt;br&gt;하니는 1일 자신의 인스타그램을 통해 결혼 소식을 알리는 손편지를 공개했다.&lt;br&gt;&lt;br&gt;하니는 손편지에서 “감사하다. 운이 좋아 많은 분들께 넘치는 사랑을 받았다. 그 사랑을 먹고 무럭무럭 자란 저는 사랑을 나눌 수 있는 사람으로 무탈하게 성장했다. 예쁘게 키워주셔서 참 감사하다”며 “그런 제가 삶을 함께 하고 싶은 사람을 만났다. 그래서 결혼을 하기로 했다. 늘 감사한 마음으로 행복하게 살겠다. 축하해주신 모든 분들께 마음 깊이 감사드린다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLLTYRKZU5HVHOABWPFQFKODTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;하니의 손편지. /하니 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하니와 양재웅은 2022년 열애 사실을 공식 인정하고 공개 연애를 해왔다.&lt;br&gt;&lt;br&gt;2011년 걸그룹 EXID로 데뷔한 하니는 2014년 ‘위 아래’ 직캠 영상이 화제가 돼 이 노래가 역주행하며 큰 인기를 끌었다. 이후 배우로 전향해 영화 ‘어른들은 몰라요’와 각종 예능 프로그램에 출연해왔다.&lt;br&gt;&lt;br&gt;양재웅은 정신건강의학과 전문의로 다양한 방송 프로그램에 패널로 출연해 얼굴을 알렸다. 그는 정신건강의학과 전문의인 형 양재진과 함께 유튜브 채널도 운영 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>20대 이웃 남성집에 몰래 들어가 알몸으로 음란행위한 남성</title>
       <link>https://www.chosun.com/national/national_general/2024/06/01/PHQ37P3ERRCBPG3LECNMZQQNKQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/01/PHQ37P3ERRCBPG3LECNMZQQNKQ/</guid>
@@ -833,15 +851,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JCTWMLQNRBFC3M5WITW3HKRXZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=정다운. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자녀가 보는 앞에서 남편에게 흉기를 휘두른 40대 외국인 여성이 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;31일 법조계에 따르면, 광주지법 형사11단독 김성준 부장판사는 특수협박, 아동복지법위반(아동학대) 등의 혐의로 기소된 필리핀 국적 A(40)씨에게 징역 6개월에 집행유예 2년을 선고했다. 이와 함께 보호관찰과 40시간의 아동학대‧가정폭력 재범예방 수강을 명령했다.&lt;br&gt;&lt;br&gt;A씨는 작년 11월 20일 오후 2시 20분쯤 광주 광산구의 자택에서 한국인 남편 B(45)씨에게 흉기를 수차례 휘두르며 위협한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 사건 당일 남편이 10대 딸에게 ‘돈을 훔치는 등 손버릇이 나쁘다’고 훈계한 것에 화가나 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 또한 딸이 보는 앞에서 이같은 일을 벌여 공포감을 느끼게 하는 등 아이를 정서적으로 학대한 혐의를 받는다.&lt;br&gt;&lt;br&gt;김 부장판사는 “피고인은 위험한 물건으로 피해자를 협박하고 그런 모습을 아동에게 노출시켜 죄질이 좋지 않다”면서도 “다만 피고인이 피해자와 합의한 점, 피해자와 피해아동이 피고인에 대한 선처를 희망하는 점 등을 종합해 형을 정한다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“살 못빼서 혼나는 초딩”… 민희진, 뉴진스 뒷담 카톡 논란에 해명</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/31/6ITSAJ2XHVHV5AQTO4NO47UDGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/6ITSAJ2XHVHV5AQTO4NO47UDGA/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 07:10:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AAGMKIOWE5BMBC75FIQCRLO46Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민희진 어도어 대표가 31일 서울 중구 프레스센터에서 어도어 임시주주총회 관련 기자회견을 하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민희진 어도어 대표가 과거 뉴진스 멤버들을 비하하는 카톡을 주고받았다는 의혹에 대해, “기억나지 않는다”고 말했다.&lt;br&gt;&lt;br&gt;31일 오후 서울 중구 한국프레스센터에서 가진 기자회견에서 ‘뉴진스 멤버들에 대한 뒷담화 카톡이 공개됐는데, 그간 입장과 배치된다고 생각한다. 어떻게 생각하느냐’는 질문에 “그 내용이 기억도 안 난다”고 답했다.&lt;br&gt;&lt;br&gt;앞서 한 연예 전문 유튜버는 지난 17일 민 대표가 뉴진스 멤버들을 폄훼, 비하했다는 주장을 펼쳤다. 이 유튜버가 근거로 든 건 민 대표가 부대표와 나눴다는 카톡 대화였는데, 여기에는 민 대표가 부대표에게 “그냥 늘 겸손하라고 해. 돼지 같이 살 쪄도 인기몰이해 주고 있으니까” “쟤네가 멋진 척 한다고 멋있는 말 늘어놓으면서 정작 나한테 인사 안 하면 죽여버리고 싶을 것 같다” “살 하나 못 빼서 XX게 혼나는 초딩들” 등의 내용이 담겼다. 구체적인 주어는 언급되지 않았으나, 뉴진스를 향한 언급으로 해석됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UIVQHCAN6ZCAPC6YE3AQ5QQH3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 연예 전문 유튜버가 민 대표가 부대표와주고 받은 카톡을 재구성해 공개한 이미지. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이는 1차 기자회견을 비롯해 그간 민 대표가 뉴진스 멤버들에 대해 애정을 드러내온 행보와는 반대되는 내용이었기에, 온라인상에선 ‘충격적’이라는 반응이 나왔다. 다만 일각에선 지나치게 개인적인 사담을 끌어와선 안 된다는 의견도 있었다.&lt;br&gt;&lt;br&gt;이와 관련, 민 대표는 이번 기자회견에서 “3년전 카톡을 열어서 그런 이야기를 하는게... 솔직히 나온 이야기 보면 ‘그런 말을 했었나’ 기억도 잘 안난다”고 했다. 이어 “쟁점도 아니다. 무가치한 일이다. 내가 기자회견에서 뉴진스 멤버들을 언급했던게 여론을 돌리기 위한 것이 아니었다”며 “기자회견에서 나올 수 밖에 없었던 이야기였다. 내가 배우도 아니고 그런 연기를 하겠냐”고 했다. 그러면서 “멤버들을 끌어들이고 싶지 않다. 어른들이 참아줘야 한다. 쟁점이 아니니까. 난 그게 보호라고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;한편 이날 민 대표는 1차 회견과는 달리 밝은 표정과 복장으로 등장, 하이브를 향해 화해의 손길을 내밀었다. 민 대표는 ‘하이브 측에 화해를 제안하는거냐’는 질의에 “네”라고 답했다. 이어 “그건 당연하다”며 “지긋지긋하게 싸웠으니 이제 끝, 모두를 위해 다른 챕터로 넘어가야되지 않을까 하는 게 제 생각”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘강남 마지막 판자촌’ 구룡마을, 최고 35층·3520가구 아파트 단지로</title>
       <link>https://www.chosun.com/national/national_general/2024/05/31/CQCVPSVCHRBJ5JYLKKCSMKB75M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/CQCVPSVCHRBJ5JYLKKCSMKB75M/</guid>
@@ -850,15 +859,6 @@
       <pubDate>Fri, 31 May 2024 06:36:10 +0000</pubDate>
       <content:encoded>서울 강남구의 마지막 판자촌으로 불리는 구룡마을이 최고 35층·3520가구의 대규모 아파트 단지로 바뀐다. 서울시는 지난 29일 도시계획위원회를 열고 이 같은 내용의 도시개발구역 개발계획 변경 및 경관심의를 수정가결했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NHUFCFU63ZHAZIEGMDDQEPFLO4.png"&gt;&lt;figcaption&gt;&lt;small&gt;구룡마을 위치도 /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구 개포동 567-1번지 구룡마을은 2016년 도시개발구역으로 지정돼 재개발 과정을 밟고 있다. 구룡마을은 1970~80년대 서울시내 달동네들이 강제 철거 당한 후 모인 빈민들이 살고 있는 지역이다. 잦은 수해와 화재로 인명 피해도 많았다.&lt;br&gt;&lt;br&gt;서울시는 이번 심의를 거쳐 구룡마을 부지 중 공동주택용지의 용도지역을 제2종일반주거지역에서 제3종일반주거지역으로 올렸다. 용적률은 160~170%에서 230~240%로, 최고 층수도 20층에서 25층으로 올랐다. 구룡마을 부지 양재대로변은 최고 35층 주상복합을 짓는다. 다만 서울시는 “인근 대모산·구룡산의 경관 보전과 스카이 라인 조성을 위해 산림과 가까운 곳은 15층 이하로 지을 수 있다”고 했다.&lt;br&gt;&lt;br&gt;용적률과 높이 상향으로 가구 수도 늘었다. 2838가구(분양 1731·임대 1107)에서 3520가구(분양 1813·임대 1707)가 됐다. 서울시 관계자는 “늘어난 임대 가구 수는 신혼부부를 위한 장기임대주택으로 활용될 것”이라고 했다. 앞서 서울시는 지난 29일 신혼부부를 위한 장기임대주택(시프트) 도입을 발표했다. 이곳에 사는 신혼부부는 자녀를 낳으면 최대 20년 살 수 있고, 자녀 2명을 낳으면 시세의 10% 저렴하게 아파트 매입이 가능하다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D33PERMDHVADPOPS6W3CB3CN6E.jpg"&gt;&lt;br&gt;&lt;br&gt;서울시는 올해 하반기 중 실시계획을 변경 인가하고, 2025년 아파트 착공에 들어갈 계획이다. 2029년 완공이 목표다. 구룡마을 재개발을 담당하는 SH(서울주택도시공사) 관계자는 “다음 달 21일까지 구룡마을 거주민들을 대상으로 보상 협의를 하고 있는 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/NHUFCFU63ZHAZIEGMDDQEPFLO4.png?width=765&amp;height=864&amp;auth=ec193a0c3533e53689412370993f3842868dc1ac96da0fe760f87429d94e4fcc&amp;smart=true" type="image/png" height="864" width="765"/>
-    </item>
-    <item>
-      <title>아일릿‧르세라핌에 하고 싶은 말?… 민희진 대답은</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/31/RU4TACL2HNANDDPQQGOZUYTWUU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/RU4TACL2HNANDDPQQGOZUYTWUU/</guid>
-      <dc:creator>김가연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 06:57:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NB77Y5UG45G4BOKA3CA75U5NR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민희진 어도어 대표가 31일 서울 중구 프레스센터에서 어도어 임시주주총회 관련 기자회견을 하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민희진 어도어 대표가 “이번 사태에서 상처받은 아이돌들을 보호하기 위해서는 언급하지 않아야 한다”고 말했다.&lt;br&gt;&lt;br&gt;민 대표는 31일 오후 서울 중구 프레스센터에서 기자회견을 열어 임시주주총회 관련 입장을 전하고 질의응답을 진행했다.&lt;br&gt;&lt;br&gt;이날 한 기자는 “이번 논란 때문에 상처받은 다른 아이돌 그룹도 있다”며 “BTS(방탄소년단), 아일릿, 르세라핌도 상처를 받았을 것 같은데 해주고 싶은 말씀이 있나”라고 질문했다.&lt;br&gt;&lt;br&gt;이에 민 대표는 “제 생각에 뉴진스도 상처를 받았고, 모두가 상처를 받은 일이라고 생각한다”라며 “누군가만이 아니라, 저도 인간이고, 멤버들도 다 인간이기 때문에 누구를 특정해서 그런 얘기를 하고 싶지는 않다”라고 말했다.&lt;br&gt;&lt;br&gt;그는 “사실 기자들도 그렇고 모든 분들이 모두(다른 그룹)에게 상처를 안 주려면 이 언급을 그만해야 한다”며 “그냥 말을 안 하면 되는데 계속 끄집어내서 언급하는 것 자체가 상처가 된다”라고 했다. 이어 “그분들을 생각한다면 뭐든 언급을 하지 말아줬으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “상처를 봉합하고 씻어내기 위해서는 타협이 필요하다”라며 “대화를 통해 이 상황을 어떻게 해결해 나가야할지 새로운 모색안이 필요하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;민 대표는 이날 하이브 측에 화해의 손길을 내밀었다. 그는 “지긋지긋하게 싸웠으니 이제 끝, 모두를 위해 다른 챕터로 넘어가야되지 않을까 하는 게 제 생각”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>민희진 오늘은 모자 벗었다…기자회견룩 또 완판될까</title>
