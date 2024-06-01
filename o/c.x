@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>20대 이웃 남성집에 몰래 들어가 알몸으로 음란행위한 남성</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/01/PHQ37P3ERRCBPG3LECNMZQQNKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/01/PHQ37P3ERRCBPG3LECNMZQQNKQ/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Jun 2024 09:45:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이웃 남성 집에 몰래 들어가 알몸으로 음란행위를 한 30대 남성이 실형을 선고 받았다.&lt;br&gt;&lt;br&gt;1일 법조계에 따르면 수원지법 형사19단독 이재현 판사는 최근 주거침입 혐의로 재판에 넘겨진 30대 남성 A씨에게 징역 6개월을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 작년 11월 7일 오전 경기 화성시의 자신과 같은 아파트에 거주하는 20대 남성 B씨의 집에 무단 침입한 혐의로 기소됐다. 그는 당시 알몸으로 B씨의 집에 침입했고, 집 안에서 음란행위도 한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 B씨가 분실한 출입문 마스터키를 습득해 이 같은 범행을 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 나체 상태로 피해자 주거에 침입해 음란행위를 하는 등 죄질이 불량하며 피해자로부터 용서받지 못했다”면서 “피해자의 외출 시간을 노려 침입하는 등 계획적으로 범행을 저지른 점은 불리한 정상”이라고 했다.&lt;br&gt;&lt;br&gt;그러나 재판부는 “다만 주거침입 당시 피해자가 주거에 현존하지 않는 상태였다”며 “범행을 전부 인정하는 점 등을 유리한 정상으로 참작했다”고 밝혔다．&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 강남 오피스텔 모녀 살인범에 구속영장 신청</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/01/LL5UPKNQPFGGDOLGP3CGGGJ6XU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/01/LL5UPKNQPFGGDOLGP3CGGGJ6XU/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Jun 2024 09:19:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D7IO6LYGOFFCLNA3OJCFBZL77M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남의 한 오피스텔에서 모녀를 흉기로 찌르고 달아난 뒤 하루 만에 검거된 60대 남성 용의자가 31일 오전 서울 수서경찰서로 압송되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남의 한 오피스텔에서 모녀를 죽인 혐의를 받은 60대 남성이 1일 구속 기로에 놓였다.&lt;br&gt;&lt;br&gt;서울 수서경찰서는 이날 강남 모녀 살인 사건의 피의자 박모(64)씨에 대해 살인 혐의로 구속 영장을 신청했다고 밝혔다.&lt;br&gt;&lt;br&gt;박씨는 지난달 30일 강남구 선릉역 인근 한 오피스텔에서 60대 여성 A씨와 그의 30대 딸을 흉기로 살해한 혐의를 받는다. 소방 당국은 이날 오후 6시 52분쯤 “아내가 칼에 맞았다”는 A씨 사위의 신고를 받고 현장에 출동했으나 모녀는 이미 심정지 상태로 병원에 이송되자마자 사망했다.&lt;br&gt;&lt;br&gt;박씨는 범행 직후 서울 강남에서 택시를 타고 도주해 13시간 동안 서울 강북과 경기 지역 일대에서 수차례 택시를 갈아타며 경찰 추적을 따돌리다가 31일 오전 7시 45분쯤 서울 서초구 남태령역 인근에서 긴급 체포됐다. 박씨는 실시간으로 결제 흔적이 남는 신용카드를 전혀 사용하지 않은 채 현금으로만 이동한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;박씨는 31일 오전 수서경찰서로 압송되면서 이번 범행에 대해 “우발적 범행”이라고 했다. 흉기를 미리 준비했느냐는 취재진 질문에 대해선 “아니다. (원래) 거기 있던 것”이라고 했다.&lt;br&gt;&lt;br&gt;박씨와 A씨는 교제하던 사이였던 것으로 알려졌다. 경찰은 A씨의 이별 통보에 박씨가 ‘보복 살인’을 저질렀을 가능성을 염두에 두고 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주점 간판 달고 ‘불법 게임장’ 운영한 우즈벡인 검거</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2024/06/01/LLRCAHDYMNEJDOKXXA4GUZ2GIQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2024/06/01/LLRCAHDYMNEJDOKXXA4GUZ2GIQ/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Jun 2024 09:17:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3RNUGQ2TSLOBCU6JE3DTKPXOEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기남부지방경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주점으로 위장해 놓고 불법 게임장을 운영한 우즈베키스탄 국적의 30대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기남부경찰청 범죄예방대응과는 게임산업진흥에 관한 법률 및 교육환경 보호에 관한 법률 위반 혐의로 A(여·35)씨를 긴급체포했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 5월부터 최근까지 경기 안산시 단원구에서 PC 14대 규모의 무등록 게임장을 차리고 운영해 온 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 단속을 피하기 위해 건물에 주점 간판을 달고, 밖에서는 내부가 들여다보이지 않도록 창문 등을 가린 뒤 범행을 벌인 것으로 드러났다.&lt;br&gt;&lt;br&gt;기동순찰대는 도보 순찰 중 주민으로부터 “수상한 가게가 있다”는 제보를 입수해 지난달 31일 단속을 벌였다.&lt;br&gt;&lt;br&gt;경찰의 단속 당시 게임장 안에는 10여 명의 외국인이 있었으며, 이 중 1명은 불법체류자인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 해당 게임장이 청소년 유해업소 영업이 불가능한 학교 주변 50ｍ 이내의 ‘절대보호구역’인 점을 고려해 A씨에게 교육환경 보호법 위반 혐의도 적용했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “기동순찰대 소속 경찰관들이 배달 기사로 위장해 내부로 진입했고, 단속에 성공했다”고 말했다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 게임장에서 불법 환전이 이뤄졌는지에 대해서도 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/3RNUGQ2TSLOBCU6JE3DTKPXOEI.jpg?width=4449&amp;height=2962&amp;auth=47c3ffc9d3711f978776db882dec92ff7744f66cd328cd395f4aafe8aa98d65a&amp;smart=true" type="image/jpeg" height="2962" width="4449">
+        <media:description type="plain">경기남부지방경찰청. 2019.10.18/뉴스1 ⓒ News1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>민주노총, 대학로 집회서 “건강보험 보장성 강화하라”…국민연금 소득대체율 인상도 요구</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/01/FHO3W33AGZFDHHZ2KZL4OWJFTA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/01/FHO3W33AGZFDHHZ2KZL4OWJFTA/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Jun 2024 08:24:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2ITKNF6THJMY5IM7WNZQJHGVUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오후 서울 종로구 대학로에서 열린 사회보험 보장성 강화, 의료 공공성 쟁취 결의대회에 참가한 민주노총 조합원이 사전 집회를 하고 있다. 이들은 22대 국회에서 '사회보험 보장성 강화, 의료공공성 쟁취' 관련 입법을 촉구하며 거리 행진을 진행했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국민주노동조합총연맹(민주노총)은 1일 서울 대학로에서 집회를 열고 “22대 국회에서 국민연금·건강보험 등 사회보험의 보장성을 강화하라”고 주장했다. 22대 국회는 지난달 30일 개원했다. &lt;br&gt;&lt;br&gt;민주노총은 이날 오후 서울 종로구 대학로에서 연 2000명 규모(주최 측 추산)의 결의대회에서 “공적연금인 국민연금의 소득대체율 인상에 대해 국회 연금특위 공론화위원회에 참여한 시민대표단 56%가 동의했다”며 “이는 노후 빈곤 해결과 노후 소득 보장을 위해 공적연금의 보장성 강화가 필요하다는 사회적 공감대가 형성됐다는 뜻”이라고 했다. 이들은 “그럼에도 윤석열 대통령과 집권 여당인 국민의힘이 이를 무시해 지난 21대 국회에서 관련 법안이 처리되지 않았다”고 비판했다. &lt;br&gt;&lt;br&gt;앞서 국회 연금개혁특별위원회는 시민대표단 492명을 대상으로 한 설문조사를 발표했는데, 그중 56%가 ‘보험료율 13%, 소득대체율 50%’ 개혁안(소득보장론)을 선호하는 것으로 나타났다. 일명 ‘더 내고 더 받는’ 개혁안이다. 현행 국민연금은 보험료율 9%, 소득대체율 42.5%(2028년까지 40%로 하향 예정)다. 시민대표단 42.5%는 ‘보험료율 12%, 소득대체율 40%’인 ‘더 내고 그대로 받는’ 안(재정안정론)을 선택했다. &lt;br&gt;&lt;br&gt;이날 양경수 민주노총 위원장은 “공적연금을 강화하기 위해 연금의 고갈만 걱정할 게 아니라 국고를 투입해 국민들의 노후 소득 보장을 해야 한다”고 했다.&lt;br&gt;&lt;br&gt;민주노총은 건강보험의 보장성 강화도 필요하다고 주장했다. 이들은 “국민의 실질의료비는 지속적으로 증가하고, OECD 최저수준의 보장성을 보이고 있음에도 윤석열 정부는 건강보험 보장성 강화보다는 이를 낮추기 위한 정책만을 펼치고 있다”고 비판했다. 또 “전공의 집단행동이 100일 넘게 지속되면서, 시장 중심으로 만들어진 한국의 의료체계 문제점이 확인되고 있다”며 “이를 해결하기 위해서는 공공성에 기반한 의료체계가 구축돼야 함에도, 비대면 진료 전격 허용과 같은 의료 민영화, 시장화 정책만을 추진하며 이를 의료개혁이라고 정부는 호도하고 있다”고도 했다. 백소영 보건의료노조 부위원장은 “공공병원 확충, 공공병원 설립 예비타당성 조사 면제, 공공병원 국가 책임제, 공공병원 민영화 금지가 시급하다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>노소영 측 “SK 지배구조 흔들지 않을 것…방해할 생각 없어”</title>
       <link>https://www.chosun.com/national/national_general/2024/06/01/5D5NJF3FCVCUNNMLJJSM2R3NWA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/01/5D5NJF3FCVCUNNMLJJSM2R3NWA/</guid>
@@ -821,24 +861,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NB77Y5UG45G4BOKA3CA75U5NR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민희진 어도어 대표가 31일 서울 중구 프레스센터에서 어도어 임시주주총회 관련 기자회견을 하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민희진 어도어 대표가 “이번 사태에서 상처받은 아이돌들을 보호하기 위해서는 언급하지 않아야 한다”고 말했다.&lt;br&gt;&lt;br&gt;민 대표는 31일 오후 서울 중구 프레스센터에서 기자회견을 열어 임시주주총회 관련 입장을 전하고 질의응답을 진행했다.&lt;br&gt;&lt;br&gt;이날 한 기자는 “이번 논란 때문에 상처받은 다른 아이돌 그룹도 있다”며 “BTS(방탄소년단), 아일릿, 르세라핌도 상처를 받았을 것 같은데 해주고 싶은 말씀이 있나”라고 질문했다.&lt;br&gt;&lt;br&gt;이에 민 대표는 “제 생각에 뉴진스도 상처를 받았고, 모두가 상처를 받은 일이라고 생각한다”라며 “누군가만이 아니라, 저도 인간이고, 멤버들도 다 인간이기 때문에 누구를 특정해서 그런 얘기를 하고 싶지는 않다”라고 말했다.&lt;br&gt;&lt;br&gt;그는 “사실 기자들도 그렇고 모든 분들이 모두(다른 그룹)에게 상처를 안 주려면 이 언급을 그만해야 한다”며 “그냥 말을 안 하면 되는데 계속 끄집어내서 언급하는 것 자체가 상처가 된다”라고 했다. 이어 “그분들을 생각한다면 뭐든 언급을 하지 말아줬으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “상처를 봉합하고 씻어내기 위해서는 타협이 필요하다”라며 “대화를 통해 이 상황을 어떻게 해결해 나가야할지 새로운 모색안이 필요하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;민 대표는 이날 하이브 측에 화해의 손길을 내밀었다. 그는 “지긋지긋하게 싸웠으니 이제 끝, 모두를 위해 다른 챕터로 넘어가야되지 않을까 하는 게 제 생각”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>배윤정, 전남편 돌싱글즈 출연 언급 “현남편도 멋있다며 응원”</title>
-      <link>https://www.chosun.com/national/people/2024/05/31/2DTRSB65W5BIPG3WWXGIK6A4KM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/05/31/2DTRSB65W5BIPG3WWXGIK6A4KM/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 06:59:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QSTZOGDPFRFVDO6EHEBCJHJVK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안무가 배윤정. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안무가 배윤정(44)은 전 남편 제롬(47‧본명 도성민)이 이혼 남녀 연애 프로그램인 ‘돌싱글즈’에 출연한 것과 관련 “현 남편도 멋있다고 응원을 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;배윤정은 지난 30일 유튜브 채널 ‘밉지 않은 관종언니’에 출연해 “우리는 진짜 잘 지낸다”며 “우리는 친구처럼 얘기하다 좋게좋게 헤어졌다. 우리는 (이혼하러) 법원에 갔을 때도 사람들이 다 죽을상하고 있는데 우리끼린 핸드폰하고 있었다”고 했다.&lt;br&gt;&lt;br&gt;배윤정은 제롬이 돌싱글즈에 출연하기 전 자신에게 연락을 했었다며 “내가 결혼해서 아이 낳고 사니까 연락을 끊었다가 어느 순간 계속 DM이 오는 거다. 피했는데 오빠가 ‘쫄지 말고 전화 받아’라고 했다. 그래서 통화를 하게 됐다”고 당시 상황을 전했다.&lt;br&gt;&lt;br&gt;배윤정은 “(제롬이) 내가 미국에 있는데 ‘돌싱글즈’에 지원을 했다더라. ‘될지 안 될지 모르지만 나가면 네 남편, 시댁 식구들이 좋아하지 않을 거 같아서 네가 오케이하면 하겠다’더라”라며 “남편에게 제롬 오빠랑 통화했다면서 상황을 얘기하니까 ‘XX 멋있네? 당연히 나가셔야지’라더라”라고 했다.&lt;br&gt;&lt;br&gt;배윤정은 “(우리 부부가) 전혀 상관없고 응원한다 해서 나가게 된 것”이라며 “어차피 내가 지금 너무 행복하게 잘살고 있으니까 오빠도 그랬으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;배윤정과 제롬은 2014년 결혼했으나 성격 차이로 인해 2017년 이혼했다. 이후 배윤정은 2019년 지금의 남편인 축구 코치 서경환과 재혼했다.&lt;br&gt;&lt;br&gt;한편 배윤정의 전 남편인 제롬은 지난해 MBN ‘돌싱글즈4′ 미국 편에 출연해 여성 출연자 베니타와 실제 연인으로 발전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>민희진 “내가 건 싸움 아냐”…하이브에 화해의 손길</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/31/7Q2JHOPG3BE65BXSMG2E7MUYBI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/7Q2JHOPG3BE65BXSMG2E7MUYBI/</guid>
-      <dc:creator>김가연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 06:28:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SNCARCBDERFRTBERI6X27NSUHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민희진 어도어 대표가 31일 서울 중구 프레스센터에서 어도어 임시주주총회 관련 기자회견을 하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유임 성공 후 2차 기자회견에 나선 민희진 어도어 대표가 하이브에 화해의 손길을 내밀었다.&lt;br&gt;&lt;br&gt;민 대표는 31일 오후 서울 중구 프레스센터에서 임시주주총회 관련 기자회견을 진행했다.&lt;br&gt;&lt;br&gt;민 대표는 “하이브 측에 화해를 제안하시는 건가”라는 언론질의에 “네”라고 단호히 답했다. 이어 “그건 당연하다”라며 “제 입장에서는 제가 싸움을 일으킨 게 아니다”라고 했다. 그러면서 대표로서 계속 일하고 싶다는 의지를 피력하는 것이라고 했다.&lt;br&gt;&lt;br&gt;그는 “지긋지긋하게 싸웠으니 이제 끝, 모두를 위해 다른 챕터로 넘어가야되지 않을까 하는 게 제 생각”이라고 했다.&lt;br&gt;&lt;br&gt;이날 1차 회견과는 달리 밝은 표정으로 회견에 임한 민 대표는 “승소하고 인사드리게 돼 가벼운 마음”이라고 털어놨다. 그는 지난 기자회견 후 오늘까지 자신을 응원해준 뉴진스 팬들과 네티즌들에게 감사를 표했다.&lt;br&gt;&lt;br&gt;민 대표는 “생면부지의 사람을 응원해주신 분들이 제게 많이 힘이 돼주셨다”며 “응원해준 분들 덕분에 이상한 선택을 하지 않을 수 있었다”고 눈물을 쏟았다. 그러면서 “다짐한게 있는데 일이 잘 풀리고 정리되면 이분들께 보은할 생각”이라고 거듭 감사 인사를 전했다.&lt;br&gt;&lt;br&gt;민 대표는 재판부 판결문에 적힌 것으로 알려진 ‘배신은 했지만, 배임은 아니다’라는 표현에 대해 “배신일 지언정 배임은 아니다라는 표현이었다. 게다가 중요한 표현도 아니었다”고 했다. 그는 “신의가 깨진 것이 배신인데, 이건 한 사람으로 인해서 깨질 수 없다”며 “배신과 배임이라는 법률적 용어 사이에는 인과관계가 없다”고 했다. 하이브 측이 신의가 깨진 원인을 제공했다는 의미가 담긴 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>민희진 오늘은 모자 벗었다…기자회견룩 또 완판될까</title>
       <link>https://www.chosun.com/national/national_general/2024/05/31/LDDM5ZNUXNDNLDQ5HJ3GS5MY4I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/LDDM5ZNUXNDNLDQ5HJ3GS5MY4I/</guid>
@@ -846,15 +868,6 @@
       <description/>
       <pubDate>Fri, 31 May 2024 05:43:07 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2FVQINCSBGMLGJEMZ25UJAWTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민희진 어도어 대표가 31일 서울 중구 프레스센터에서 어도어 임시주주총회 관련 기자회견을 하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유임에 성공한 민희진 어도어 대표가 2차 기자회견에 나선 가운데, 민 대표의 ‘기자회견 룩’이 또 다시 화제를 모으고 있다.&lt;br&gt;&lt;br&gt;민 대표 측은 31일 오전 “오늘 오후 2시30분 임시주주총회 관련 입장을 설명하는 기자회견을 진행한다”라는 내용의 보도자료를 배포했다. 민 대표의 기자회견 예고는 그 즉시 여러 온라인커뮤니티와 소셜미디어로 퍼지며 화제가 됐다.&lt;br&gt;&lt;br&gt;앞선 기자회견에서 “개저씨(개+아저씨)들이 나 하나 죽이겠다고 온갖 카카오톡을 야비하게 캡처했다” “들어올 거면 맞다이로 들어와 뒤에서 X랄 떨지 말고” 등 속시원한 발언으로 화제가 된 만큼 네티즌들 사이에서는 “기대가 된다”는 반응이 나왔다.&lt;br&gt;&lt;br&gt;일부는 민 대표의 착장이 궁금하다는 반응을 보이기도 했다. 그도 그럴게 지난 기자회견 당시 녹색과 흰색의 럭비티셔츠와 파란색 볼캡을 착용했는데, 당시 온라인상에는 해당 제품 정보를 공유하는 글이 잇따라 게재됐다. 회견이 끝날 쯤엔 해당 제품이 쇼핑몰에서 품절되며 ‘완판’ 타이틀을 거머쥐었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5VIGW5BFLRGEDIYU5PKGQWFMOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민희진 어도어 대표가 31일 서울 중구 프레스센터에서 어도어 임시주주총회 관련 기자회견을 하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 기자회견에 등장한 민 대표는 1차 기자회견과는 사뭇 다른 모습이었다. 지난 회견에서는 민낯에 모자를 쓴 다소 수수한 모습이었다면, 이번에는 모자를 쓰지 않은 채 머리를 뒤로 묶고 밝은 노란색 상의에 청바지를 입었다.&lt;br&gt;&lt;br&gt;민 대표가 등장하자마자 온라인커뮤니티에는 “저 옷 어디거냐” “정보 나오면 링크 공유 좀” 등의 글이 쏟아졌다.&lt;br&gt;&lt;br&gt;민 대표가 입고 나온 노란색 상의는 한 일본 브랜드의 울 소재 가디건으로 알려졌다. 해당 제품은 한화로 약 34만원이며, 작년에 출시돼 이미 품절된 상태다.&lt;br&gt;&lt;br&gt;민 대표는 이날 밝은 표정으로 단상에 올라 마이크를 잡았다. 그는 “승소하고 인사드리게 돼서 가벼운 마음”이라며 “저의 상황과 생각을 말씀드리는 게 좋을 것 같아 기자회견을 열었다”고 말문을 열었다. 이어 “감사한 분들이 많아서 인사를 드리고 싶다. 생면부지의 사람을 응원해주신 분들이 제게 많이 힘이 돼주셨다”고 눈물을 글썽였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“라덕연은 종교야” 발언 임창정, 주가조작 혐의 불기소</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/31/SELQ6OCOHFBOLO3GN7VGAOCMUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/SELQ6OCOHFBOLO3GN7VGAOCMUQ/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 05:15:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMFBH6V36VD2TMF7DNDILFT4GA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 임창정. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프랑스 증권사 소시에테제네랄(SG)발 주가 폭락 사태에 연루됐다는 의혹을 받아온 가수 임창정(51)이 검찰에서 불기소 처분을 받았다.&lt;br&gt;&lt;br&gt;서울남부지검 금융·증권범죄합동수사부(부장 하동우)는 임창정을 무혐의 불기소 처분했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 임창정이 주가조작 세력으로 지목된 H투자자문 대표 라덕연(43)씨 일당에게 거액을 투자한 경위와 시세조종에 가담했는지 등을 수사했다.&lt;br&gt;&lt;br&gt;임창정은 H사에 30억원가량을 맡기며 라씨 등과 긴밀한 관계를 맺어온 것으로 알려졌다. 2022년 12월 라씨 관련 골프 업체가 연 투자자 모임에서 임창정은 라씨를 ‘종교’와 같다며 추켜세웠다. 그는 “저 XX한테 돈을 맡겨, 아주 종교야. 너 잘하고 있어. 왜냐면 내 돈을 가져간 저 XX 대단한 거야”라고 말했다. 청중들 사이에서는 “믿습니다! 할렐루야!” 등의 반응이 나왔다.&lt;br&gt;&lt;br&gt;임창정은 “너 다음 달 말까지, 한 달 딱 줄 거야. 수익률 원하는 만큼 안 주면 내가 다 이거 해산시키겠다”며 “위대하라! 종교가 이렇게 탄생하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XWLEHVFJZZHPZAWJVDVVKXXKJM.png"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 12월 투자컨설팅업체 H사 라덕연(43·구속) 대표 관련 회사의 행사에 참석한 임창정이 청중 앞에서 발언하고 있다. /JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임창정은 이후 이와 같은 발언이 문제 되자, 언론 인터뷰에서 “투자를 받아 인생을 건 엔터테인먼트 회사를 일으켜 세워야 하는 입장이었기에 라씨에게 잘 보이고 싶었다”며 “당시 과장된 발언을 한 것에 대해 후회하며 반성하고 있다”고 했다. 또 자신은 주가 폭락 사태로 수십억 원의 빚을 떠안게 된 피해자라고 주장했다.&lt;br&gt;&lt;br&gt;검찰은 계좌 등을 분석한 결과 임창정이 라씨 일당의 시세조종 범행을 알고 가담했다고 볼 수는 없다고 판단했다. 검찰은 “투자자 모임은 임창정이 시세조종 일당에게 돈을 투자하기 전에 이뤄졌고, 행사 진행 과정에서의 발언은 사전 계획 없이 라씨와의 친분 과시를 위해 즉흥적으로 이뤄진 것으로 조사됐다”고 밝혔다. 임창정이 라씨로부터 투자수익금이나 투자유치 대가를 받은 사실도 없는 것으로 나타났다.&lt;br&gt;&lt;br&gt;또한 임창정은 라씨와 엔터테인먼트 사업을 공동 추진할 계획을 세웠으나 주가 폭락 사태로 진행되지 않았고, 시세조종 일당의 투자 수익금을 정산하는 방법으로 저작인접권을 이용한 사실도 없는 것으로 확인됐다. 앞서 임창정은 걸그룹 ‘미미로즈’ 제작을 위해 자신의 대표곡인 ‘소주 한 잔’을 비롯해 160여곡의 저작권을 팔았다고 털어놨다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UHTS4PEEKVKHOSGKBN2VFJYNWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;소시에테제네랄(SG)증권발 폭락 사태와 관련해 주가조작을 주도한 의혹을 받는 라덕연 투자자문업체 대표가 작년 5월 11일 서울 양천구 서울남부지방법원에서 열린 영장실질심사에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 검찰은 라씨의 초기 동업자이자 주가조작 의혹을 언론사에 제보한 김모씨는 자본시장법 위반, 범죄수익은닉법 위반 등 혐의로 불구속 기소했다. 김씨는 2020년 3월부터 2022년 5월까지 라씨 등과 공모해 상장기업 주식을 시세조종하고 무등록 투자일임업을 한 혐의 등을 받는다.&lt;br&gt;&lt;br&gt;SG증권 사태는 작년 4월 24일부터 나흘간 대성홀딩스·서울가스·삼천리·다우데이타 등 8종목 주가가 하한가를 기록하며 최고 75% 폭락한 사건을 말한다. 검찰은 이날까지 라씨를 비롯해 주가조작 일당 등 57명을 재판에 넘겼다. 검찰에 따르면 이들 일당은 3년간 900명이 넘는 투자자를 모집했다. 이들에게 받은 투자금으로 상장기업 8개 종목의 시세를 조종해 7305억원 상당의 부당이득을 취한 혐의를 받는다. 주가조작 범행 사상 최대 규모로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>부산 마트서 휴대용 부탄가스 연쇄폭발…차량 10여대 불타</title>
@@ -950,14 +963,6 @@
       <description/>
       <pubDate>Thu, 30 May 2024 15:50:00 +0000</pubDate>
       <content:encoded>서울 강남에서 60대 남성이 모녀(母女)를 흉기로 살해하고 도주하는 사건이 발생했다.&lt;br&gt;&lt;br&gt;서울 수서경찰서는 30일 오후 6시 54분쯤 강남구 한 오피스텔에서 50대 여성과 그의 딸에게 흉기를 휘두른 박모(64)씨를 살인 등 혐의로 쫓고 있다(오후 10시 30분 기준)고 밝혔다.&lt;br&gt;&lt;br&gt;박씨 범행으로 모녀는 현장에서 심정지 상태에 빠진 상태로 소방 당국에 의해 인근 대형 병원으로 이송됐으나 모두 숨졌다. 박씨는 범행 직후 차량으로 도주했다. 이후 휴대전화를 끄고 도보로 이동한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;당초 박씨는 50대 여성과 부부 사이로 알려지기도 했으나 경찰은 “평소 알고 지내던 지인으로 파악됐다”고 했다. 경찰은 치정 등 구체적 범행 동기를 조사하는 한편, 감시카메라 화면 등을 확보해 박씨의 범행 전후 상황을 살펴보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2390] 초성 이어가기</title>
-      <link>https://www.chosun.com/national/nie/2024/05/31/5BWDXO7GQ5EO7ET3AVSDWS3NI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/05/31/5BWDXO7GQ5EO7ET3AVSDWS3NI4/</guid>
-      <description/>
-      <pubDate>Thu, 30 May 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ZZUTEQ5MZD5VJPWIHH7XIGAG4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>강남 오피스텔서 모녀 흉기 피살… 경찰, 60대 용의자 추적 중</title>
