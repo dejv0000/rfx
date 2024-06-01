@@ -13,6 +13,27 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>한동훈, 前기자 '허위사실 명예훼손' 손배소 패소 확정</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/01/DZ2SANJ4KNDIVAXIPNSRRMOBJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/01/DZ2SANJ4KNDIVAXIPNSRRMOBJY/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Jun 2024 04:09:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/76INC5S3O5CYVAV7WMEQX2XKJI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;한동훈 전 국민의힘 비상대책위원장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한동훈 전 국민의힘 비상대책위원장이 검사장 재직 시절 ‘한동훈이 과거 해운대 엘시티 수사를 덮었다’고 주장한 기자를 상대로 낸 손해배상 소송에서 최종 패소했다.&lt;br&gt;&lt;br&gt;1일 법조계에 따르면, 대법원 3부(주심 엄상필 대법관)는 한 전 위원장이 전직 경제지 기자 장모씨를 상대로 낸 손해배상 소송에서 원심의 원고 패소 판결을 지난달 30일 확정했다.&lt;br&gt;&lt;br&gt;장씨는 지난 2021년 3월 “그렇게 수사를 잘한다는 한동훈이 해운대 엘시티 수사를 왜 그 모양으로 했대? 초반에 대대적으로 압수수색해야 한다는 윤석열은 왜 엘시티에선 아무것도 안 했대”라는 글을 본인의 SNS에 올렸다. 장씨는 유튜브 방송에서도 유사한 주장을 이어갔다. 부산지검은 정관계 로비 의혹이 있던 엘시티 비리 의혹 수사에서 현기환 청와대 전 정무수석 등 일부 정치권 인사만 사법처리했다.&lt;br&gt;&lt;br&gt;당시 검사장이던 한 전 위원장은 “악의적인 가짜 뉴스를 SNS에 게시했다” “해운대 엘시티 수사에 전혀 관여한 바 없다”며 1억원 상당의 손해배상 소송을 제기했다.&lt;br&gt;&lt;br&gt;작년 5월 1심은 장씨가 한 전 위원장에게 1000만원을 지급하라며 원고 일부 승소 판결을 내렸다. 그러나 2심은 이를 뒤집고 한 전 위원장에게 패소 판결을 내렸다. 2심 재판부는 “한 전 위원장이 엘시티 수사에 있어 구체적 권한과 책임을 부여받지 않은 것이 사실이고, 장씨의 의혹 제기로 억울함과 분노를 느끼는 것은 자연스러울 수 있다”면서도 “언론으로서는 수사에 대해 추상적 권한을 가진 것처럼 보이는 주요 수사기관 고위 공직자에게 충분히 의혹 제기를 할 수 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;그러면서 “한 전 위원장은 공직자로서 그런 비판에 대해 해명과 재반박을 통해 극복해야 한다”며 “손해배상 소송을 통해 언론의 감시와 비판 기능을 제한하려고 하는 것은 신중해야 한다”고 했다.&lt;br&gt;&lt;br&gt;대법원은 지난달 30일 심리불속행 기각으로 항소심 판단을 그대로 확정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“쓰레기통에서 아기 울음 소리가”… 신생아 버린 친모</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2024/06/01/SA6AILZ4RNDPFMKDZ4L3ZX6GAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2024/06/01/SA6AILZ4RNDPFMKDZ4L3ZX6GAM/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Jun 2024 03:42:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WDSCSVY4EKH2S2F3H3FHROAIMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기남부지방경찰청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;갓 태어난 아기를 쓰레기 분리수거장에 버린 30대 친모가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기남부경찰청 여성안전과는 아동복지법 위반(유기) 혐의로 A(여·31)씨를 긴급체포해 조사 중이라고 1일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 31일 오후 7시쯤 경기 수원시 장안구 영화동의 한 쓰레기 분리수거장 내 종이류 수거함에 자신이 낳은 남자 아기를 유기한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 이날 오전 집에서 아이를 낳은 뒤 집 근처인 쓰레기 분리수거장에 아기를 버린 것으로 알려졌다.&lt;br&gt;&lt;br&gt;같은 날 오후 7시 8분쯤 이곳을 지나던 주민이 “쓰레기통에서 아기 울음소리가 난다”고 신고했고, 현장에 출동한 경찰이 검은 비닐봉지에 담겨있던 아기를 발견했다.&lt;br&gt;&lt;br&gt;아기는 병원으로 옮겨져 치료를 받고 있으며 건강한 상태로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 쓰레기 분리수거장 주변 방범카메라(CCTV) 영상 등을 분석해 오후 9시쯤 집에 있던 A씨를 붙잡았다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 범행 동기 및 친부 소재 등을 조사하는 한편, 구속영장 신청을 검토하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/WDSCSVY4EKH2S2F3H3FHROAIMM.jpg?width=3945&amp;height=2818&amp;auth=5abe34f856197abd690d56a4678fe56c14b0229e97cc9869d90c8b4ea4f8527c&amp;smart=true" type="image/jpeg" height="2818" width="3945">
+        <media:description type="plain">경기남부지방경찰청 전경. ⓒ News1</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>전통주에 빠진 MZ들, 직접 막걸리 빚고 소믈리에 자격증도 딴다</title>
       <link>https://www.chosun.com/national/national_general/2024/06/01/6CDEGQPSA5FV3N5AYWWF2I4KFU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/01/6CDEGQPSA5FV3N5AYWWF2I4KFU/</guid>
@@ -818,15 +839,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PXHAKEUO3BFMZOMTY4B3YL3P7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구 선릉역 인근 한 오피스텔에서 지난 30일 발생한 살인사건 현장에 핏자국이 선명하게 남아있는 모습. /강지은 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;서울 강남 한복판에서 모녀를 흉기로 살해하고 도주한 60대 남성이 13시간만에 경찰에 붙잡힌 가운데, 피해자가 운영하는 사무실이 있던 오피스텔 건물에는 당시 급박했던 상황을 나타내주는 흔적들이 생생하게 남아있었다.&lt;br&gt;&lt;br&gt;31일 오전 10시쯤 본지가 찾은 ‘강남 오피스텔 모녀 살인 사건’ 현장인 선릉역 인근 오피스텔에는 피해자들의 것으로 추정되는 핏자국들이 남아있었다. 이 건물 관리인에 따르면 모친이 운영하던 사무실은 6층에 위치해 있지만, 6층에서 발생한 범행의 흔적들은 밤 사이 모두 지워진 것으로 보였다.&lt;br&gt;&lt;br&gt;하지만 이 건물 4층과 4층에서 3층으로 내려가는 비상계단에는 수십개의 혈흔이 남아있었다. 먼저 4층 엘리베이터 옆 벽면에는 10여개의 핏자국이 튄 흔적이 보였다. 이 엘리베이터 앞 바닥에서 약 3m 떨어진 비상 계단까지는 작은 점 형태로 피가 떨어져 굳은 형태의 자국 수십개가 이어져 있었다. 피의자 박모(65)씨가 모녀를 공격하자 피해자들이 이를 피해 급히 달아난 흔적으로 보였다.&lt;br&gt;&lt;br&gt;4층에서 3층으로 내려가는 비상계단에는 성인 손바닥 만한 크기의 핏자국 여러개와 가로 50cm 정도 크기의 대형 혈흔도 발견됐다. 박씨에게 공격당한 피해자들이 이곳으로 피신한 것이라면, 이미 상당한 출혈이 있었을 것으로 보인다. 주변에 거즈 등 붕대가 널브러진 흔적으로 보아, 신고를 받고 출동한 구급대원들의 응급처치도 이곳에서 이뤄졌을 수 있다.&lt;br&gt;&lt;br&gt;사건이 발생한 현장은 공인중개사, 법무사, 소규모 회사 등의 사무실과 거주 목적으로 입주한 사람들이 섞여 있는 건물이다. 보통 3~6개월 단기로 입주하는 사람들이 많다고 한다. 31일 본지와 만난 사무실 직원들은 “오후 6시 이전에 이미 퇴근해 사건이 발생한 날 저녁엔 건물에 없었다”고 했다.&lt;br&gt;&lt;br&gt;경찰이 출동하는 장면을 목격했다는 인근 상인 A씨는 “여성 2명이 들것에 실려가며 밝은 색 상의를 풀어헤친 채 구급대원들로부터 심폐소생술을 받고 있더라”며 “전신에서 주목할 만한 핏자국은 목격하지 못했다”고 했다. 그는 “겉으로 보기엔 핏자국도 없고 멀쩡했다”며 “살인사건인 줄은 전혀 몰랐고, 작은 사고가 났나 싶었다”고 했다.&lt;br&gt;&lt;br&gt;한편 경찰에 따르면 박씨는 지난 30일 오후 6시 54분쯤 강남구 선릉역 인근 오피스텔에서 50대 여성과 그 딸에게 흉기를 휘둘러 죽인 혐의를 받는다. 경찰은 추적 끝에 31일 오전 7시 45분쯤 서초구 남태령역 인근 노상에서 박씨를 살인 혐의로 긴급체포했다. 살해 현장과 검거 지점은 직선 거리로 7km 떨어져 있다. 박씨는 경찰의 추적을 피하기 위해 택시를 수차례 갈아타는 등 주도면밀한 모습을 보인 것으로도 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>제트스키 타고 밀입국 시도 중국인…2심서도 집행유예</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/31/G2NQLURRUVAFPBSYWRJUYCEFMA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/31/G2NQLURRUVAFPBSYWRJUYCEFMA/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 04:16:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZVNSNAMTRHXBUT2M4LR4O3S4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중국 국적의 취안핑씨가 지난해 8월 중국 산둥성에서 인천 앞바다까지 타고 온 제트스키 모습. /인천해양경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제트스키(수상 오토바이)를 타고 중국에서 인천으로 밀입국하려 한 30대 중국인에게 2심에서도 징역형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;인천지법 형사항소 2-1부(재판장 차승환)는 31일 출입국관리법 위반 등 혐의로 기소된 중국 국적 취안핑(36)씨의 항소심 선고공판에서 원심과 같은 징역 1년에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인의 행위를 정당행위나 긴급피난 행위라고 볼 수 없다”며 “해양경찰관에게 말한 입국목적은 ‘단순한 모험심’이었고, 정치적 견해와 관련한 박해나 공포는 전혀 얘기하지 않았다”고 했다.&lt;br&gt;&lt;br&gt;이어 “(향후) 피고인이 난민으로 인정받는다고 해도 밀입국 시도가 적법했다고 볼 수 없다”며”양형을 바꿀만한 추가적 근거가 없어 피고인과 검사의 항소를 기각한다”고 했다.&lt;br&gt;&lt;br&gt;취안핑씨는 지난해 8월 16일 중국 산둥성에서 1800㏄ 제트스키를 타고 인천 앞바다로 밀입국하려 한 혐의로 구속돼 재판에 넘겨졌다. 당일 오전 7시쯤 출발한 그는 14시간여만인 오후 9시 33분쯤 인천항 크루즈터미널 인근 갯벌에 제트스키가 걸려 발이 묶이자 스스로 119에 신고해 해양경찰에 체포됐다.&lt;br&gt;&lt;br&gt;취안핑씨는 현지 인권운동가로 시진핑 중국 국가주석을 풍자하는 슬로건이 담긴 티셔츠를 입은 사진을 SNS에 올렸다가 체포돼 실형을 선고받고 복역한 것으로 알려졌다. 지난해 11월 1심 판결 후 취안핑씨의 아버지는 기자들에게 “아들이 출소한 뒤에도 (중국 당국의) 괴롭힘을 받아 살기 어려웠다”며 “아들이 자유와 평등을 찾아 생존하기 위해 한국에 왔다”고 주장했다.&lt;br&gt;&lt;br&gt;취안핑씨는 현재 우리나라에서 난민으로 인정받기 위한 절차를 밟고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>불법사이트 홍보하려 경복궁 낙서 테러한 총책 등 4명 송치</title>
       <link>https://www.chosun.com/national/national_general/2024/05/31/AYSHE4XZ7ZAGTJ4WLOL4F6JZYQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/AYSHE4XZ7ZAGTJ4WLOL4F6JZYQ/</guid>
@@ -844,15 +856,6 @@
       <description/>
       <pubDate>Fri, 31 May 2024 03:45:41 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YGGEVZK63ZIC2GGG6LHLR6MLQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남의 한 오피스텔에서 모녀를 흉기로 찌르고 달아난 뒤 하루 만에 검거된 60대 남성 용의자가 31일 오전 서울 수서경찰서로 압송되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남의 한 오피스텔에서 모녀를 흉기로 살해하고 도주한 끝에 경찰에 붙잡힌 60대 남성이 계획 범죄가 아닌 우발적 범행임을 주장하고 나섰다.&lt;br&gt;&lt;br&gt;강남 오피스텔 모녀 살인범 박모(64)씨는 31일 오전 11시쯤 서울 수서경찰서로 압송되면서 “범행을 왜 저질렀느냐” “피해자와 무슨 관계냐” “피해자에게 할 말 없느냐” 등의 질문에 “죄송하다”고 답했다.&lt;br&gt;&lt;br&gt;박씨는 이번 살인이 우발적 범행이라고 말했다. 그는 “계획적으로 범행을 저지른 것이냐”는 취재진 질문에 “아니다”고 했다. 또 “우발적으로 저질렀다는 것이냐”는 질문에는 “맞다”고 했다.&lt;br&gt;&lt;br&gt;박씨는 흉기를 미리 준비했느냐는 질문에 대해선 “아니다. (원래) 거기 있던 것”이라고 했다.&lt;br&gt;&lt;br&gt;그는 범행 후 왜 도주했는지, 이별을 통보해서 범행을 저지른 것인지 등 질문에는 답하지 않았다.&lt;br&gt;&lt;br&gt;경찰에 따르면 박씨는 30일 오후 6시 54분쯤 강남구 선릉역 인근 오피스텔에서 50대 여성과 그 딸에게 흉기를 휘둘러 죽인 혐의를 받는다. 경찰은 추적 끝에 31일 오전 7시 45분쯤 서초구 남태령역 인근 노상에서 박씨를 살인 혐의로 긴급체포했다. 박씨와 50대 피해여성은 교제하던 사이였던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘아트센터 공간 비워라’ SK-노소영 퇴거 소송 내달 21일 결론</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/31/QS6DPG27N5BZLHTQODBGGLFZXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/31/QS6DPG27N5BZLHTQODBGGLFZXY/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 03:04:54 +0000</pubDate>
-      <content:encoded>SK 측이 ‘SK 빌딩에서 나가달라’며 아트센터 나비를 상대로 낸 소송의 결과가 다음달 21일 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SROZHMSWQWYGXZHCMKSWFR3HOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최태원 SK그룹 회장(왼쪽)과 노소영 아트센터 나비 관장이 지난달 16일 오후 서울 서초구 고등법원에서 열린 이혼 관련 항소심 변론기일에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 민사36단독 이재은 부장판사는 31일 SK이노베이션 주식회사가 노소영 아트센터 나비 관장을 상대로 낸 부동산인도 등 청구 소송의 변론기일을 열고 선고 기일을 3주 뒤인 내달 21일로 잡았다.&lt;br&gt;&lt;br&gt;노 관장 측 대리인은 이날 재판에서 “원고 측이 여전히 조정 의사가 없는 입장이라면 저희는 기존 주장 외에 더 주장할 것이나 입증할 사안이 없다”며 “다만 어제 선고된 최태원 회장과 피고 사이의 서울고법 이혼 판결에서 이 사건과 관련해 재판부 언급이 있었다”고 했다. 그러면서 “그 부분(이혼 판결) 관련해서 저희는 원고 측이 그 취지를 검토해 적절한 조치를 취하는 것을 기대하는 입장”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QNQL6GVYK5LHTWGM6LOUYMCO2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 SK 서린빌딩의 모습. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아트센터 나비는 서울 종로구 SK서린빌딩 4층에 자리 잡고 있는 미디어아트 전문 미술관으로 최태원 SK그룹 회장과 현재 이혼 소송 중인 노소영씨가 관장을 맡고 있다. 아트센터 나비는 2000년 12월 이곳에 개관했다. SK서린빌딩은 SK그룹의 실질적 본사 역할을 하고 있다.&lt;br&gt;&lt;br&gt;앞서 SK이노베이션은 빌딩 임대차 계약이 2019년 9월 종료됐고, 리모델링 등을 한다며 지난해 4월 아트센터 나비 미술관을 상대로 사실상 공간을 비워달라는 부동산 인도 소송을 냈다.&lt;br&gt;&lt;br&gt;전날(30일) 최태원 SK그룹 회장과 노 관장의 이혼소송 항소심에서 재판부인 서울고법 가사2부(재판장 김시철)는 SK그룹의 가치 증가나 경영 활동에 노 관장의 기여가 있었다고 인정했다. 재판부는 SK 주식을 포함해 최 회장의 모든 재산은 분할 대상이라고 보고, 그 규모를 4조110억원이라고 봤다. 그중 35%를 노 관장에게 주라고 판결했다. 이에 따라 노 관장 몫은 분할 재산 1조3808억원과 위자료 20억원이 됐다. 앞서 1심에서 인정받은 분할 재산 665억원과 위자료 1억원에 비해 액수가 크게 증가했다.&lt;br&gt;&lt;br&gt;재판부는 이 과정에서 부동산 인도 소송과 관련해 언급하기도 했다. 재판부는 특히 위자료 20억원과 관련, 최 회장이 동거인인 김희영씨에겐 상당한 돈을 출연해 재단을 설립해줬지만, SK이노베이션은 퇴거를 요구하는 소송을 제기해 노 관장이 상당한 정신적 고통을 받았을 것이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“차 빼달라” 요구한 여성 폭행한 전직 보디 빌더, 법정 구속</title>
