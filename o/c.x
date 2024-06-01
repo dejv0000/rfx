@@ -13,6 +13,64 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>노소영 측 “SK 지배구조 흔들지 않을 것…방해할 생각 없어”</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/01/5D5NJF3FCVCUNNMLJJSM2R3NWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/01/5D5NJF3FCVCUNNMLJJSM2R3NWA/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Jun 2024 08:05:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TREZESODDTOQLUMVBVZLKMXY5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최태원 SK그룹 회장(왼쪽)과 노소영 아트센터 나비 관장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최태원 SK그룹 회장이 노소영 아트센터 나비 관장에 지급할 재산분할 금액을 마련하기 위해 SK(주) 보유 지분을 매각할 것이라는 전망이 나오는 것과 관련 노 관장 측은 “SK그룹 지배구조가 흔들리는 것은 원하지 않는다”는 입장을 1일 밝혔다.&lt;br&gt;&lt;br&gt;서울고법 가사2부(재판장 김시철)는 지난달 30일 최태원 회장과 노소영 관장의 이혼 소송 2심에서 ‘주식도 분할 대상’이라며 최 회장이 노 관장에게 재산 분할로 1조3808억원을, 위자료로 20억원을 지급하라고 판결했다. 국내 이혼 소송 사상 재산 분할 최고액이다.&lt;br&gt;&lt;br&gt;노 관장 측 법률대리인은 언론에 “(노 관장은)SK그룹의 선대회장 시절 좋은 추억만 갖고 있어 계속 우호지분으로 남기를 원한다”며 “SK그룹과 좋은 관계를 유지하고 SK그룹이 더 발전하기를 원한다”고 전했다.&lt;br&gt;&lt;br&gt;노 관장 측 법률대리인은 “노 관장은 SK그룹 지배권 확보와는 아무런 관계가 없다”며 “만약 최 회장 측에서 주식으로 재산을 분할해준다고 해도 이 주식으로 SK그룹을 방해할 생각은 없다”고 했다.&lt;br&gt;&lt;br&gt;지난달 30일 해당 판결이 나온 후 SK(주) 주가는 급등했었다. 당일 오후 SK(주) 주가는 전일 대비 9.26% 오른 15만8100원으로 장을 마감했다. 이날 장 초반 강보합세를 오가던 주가는 서울고법의 판단이 알려지면서 16만7700원까지 급등하기도 했다. 향후 경영권 분쟁 가능성이 부각된 영향이다.&lt;br&gt;&lt;br&gt;최 회장은 SK(주) 주식의 17.73%를 가지고 있다. 이어 SK(주)가 SK이노베이션·SK텔레콤·SK스퀘어·SK E&amp;amp;S·SKC·SK네트웍스·SK에코플랜트 등 자회사 지분을 들고 있는 형태다. 최 회장의 지분이 흔들리면 지배구조 자체가 흔들릴 수 있는 구조다.&lt;br&gt;&lt;br&gt;2심 판단이 그대로 유지된다면 재산분할액을 지급하는 과정에서 최 회장의 지분이 상당 부분 희석될 가능성이 있고, 앞으로 경영권 분쟁이 불거질 가능성도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 퀴어축제, 지난해 이어 올해도 서울광장 아닌 을지로서…도심 곳곳 맞불 집회도</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/01/3IURVVIJ7FFHFPTW7P2LQI5KKA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/01/3IURVVIJ7FFHFPTW7P2LQI5KKA/</guid>
+      <dc:creator>박정훈 기자, 김보경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Jun 2024 07:49:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LN3TBCDCXVJ6HGWJZ2XZLOBGUY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오후 서울 종각역 일대에서 열린 '2024 서울퀴어문화축제'에서 참가자들이 축제를 즐기고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내의 대표적 퀴어 축제 중 하나인 서울 퀴어축제가 지난해에 이어 올해도 서울시의 서울광장 사용 불허로 1일 을지로에서 개최됐다. 도심 곳곳에서는 퀴어축제에 반대하는 맞불 집회들도 열려 1일 서울 시내는 혼잡을 빚었다.&lt;br&gt;&lt;br&gt;서울퀴어문화축제조직위원회(조직위)는 1일 오전 11시부터 서울 중구 을지로입구역부터 종각역 일대에서 15만명 규모(주최 측 추산)의 ‘제25회 서울퀴어퍼레이드’ 행사를 개최했다.&lt;br&gt;&lt;br&gt;이날 오후 12시 30분쯤 찾은 서울퀴어퍼레이드 행사장에는 대학생 동아리·인권단체·대사관·후원기업 등 부스 61개, 성중립화장실 등이 설치된 가운데 무지개 깃발이나 부채, ‘Live Love Liberate’ 등 문구가 적힌 주황색 풍선을 들고 개성적인 화장과 복장을 한 사람들로 가득했다. 이날 한국인뿐 아니라 다수의 외국인 관광객들도 행사를 찾았고, 행사의 주제색인 주황색 드레스를 입은 드래그 퀸(옷차림이나 행동을 통해 과장된 여성성을 연기하는 남자)들도 눈에 띄었다.&lt;br&gt;&lt;br&gt;퀴어 커플에 대한 축복식을 진행하는 기독교 부스도 눈에 띄었다. 이곳에서는 교인들과 행사 참여자들이 무지개 천을 두른 채 눈을 감고 축복하는 문구를 읽어준 뒤 마치 성찬식을 하는 것처럼 미니 떡과 포도주를 먹기도 했다. 올해 퀴어퍼레이드를 처음 찾아 이 부스를 방문한 엄모(23)씨와 박모(27)씨 커플은 “동성연애를 하는 사람들이 자유롭고 행복하게 손잡고 다니는 이런 분위기가 인상 깊다”며 “축복식을 하고 나니 더 애틋해지는 것 같다”고 했다. 부산에서 연인과 함께 온 박모(25)씨도 “함께 읽은 서약서에 나온 ‘하나님은 실수하지 않는다’는 말을 듣고 위안을 받았다”며 “정식으로 결혼식을 올리고 우리도 다른 이들에게 ‘이렇게 사는 사람들도 있다’고 다양한 삶에 대해 보여줄 수 있는 ‘레퍼런스’가 되고 싶다”고 했다.&lt;br&gt;&lt;br&gt;지난해에 이어 올해도 서울광장에서 퀴어 축제를 열지 못해 아쉬움을 토로하는 이들도 있었다. 올해로 25회를 맞은 서울퀴어문화축제는 2015년부터 매년 서울광장에서 열렸으나 지난해와 올해는 서울시 불허로 을지로 일대로 장소를 옮겨 진행됐다. 지난해에는 서울시에서 중복 신고된 기독교 단체 CTS문화재단의 ‘청소년·청년 회복 콘서트’ 개최를 허용했고, 올해는 서울도서관 주관으로 ‘책 읽는 서울광장’이 열렸다. 내년에 애인과 결혼을 예정하고 있다는 김모(22)씨는 “퀴어 축제에 3번째 참가 중”이라며 “2년 전에 ‘마지막 시청 퀴어 축제’에 참여한 적 있는데 시청에서 할 때보다 부스 보기가 어려워 아쉽다”고 했다.&lt;br&gt;&lt;br&gt;퀴어 축제가 젊은층만의 축제였던 것도 아니었다. 올해 퀴어 축제에 처음 참여했다는 신모(62)씨는 “60대 이상은 독재 시대도 지내고 지금 젊은 세대보다 다양한 삶의 모습을 보지 못해서 축제를 잘 찾지 않는 것 같은데 생각을 열었으면 좋겠다”며 “사회가 발전하며 다양한 자유가 보장되고 확대되는 만큼, 이들이 어디서든 즐겁게 지낼 자유도 당연히 보장돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;조직위는 오후 4시부터 종각역에서 출발해 명동 일대·서울광장을 지난 뒤 다시 종각역으로 돌아오는 약 3km 거리의 행진도 진행한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V34IKFTJRQWP2YBJFTUHYG2EAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오후 서울 중구 서울시의회 인근에서 동성애 퀴어행사 반대를 위한 국민대회가 열리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;퀴어 축제에 대한 맞불 집회도 도심 곳곳에서 열렸다. 오후 12시쯤 퀴어 축제 현장으로부터 얼마 떨어지지 않은 을지로입구역 1~4번 출구 인근에서는 기독교 단체의 맞불 집회가 열렸다. 이들은 ‘동성애 동성혼 반대’ ‘차별금지법 반대’ 등 현수막을 단 트럭 6대를 동원한 채 집회를 진행했다. 군복이나 한복 차림을 한 이들이 동성 결혼 반대에 관한 문구가 적힌 종이를 등에 붙인 채 부채춤을 추거나 트럭에 실어온 북을 치며 노래를 부르는 모습 등도 목격됐다. 이들은 “동성애자 여러분 지금 행복하십니까?” “동성애는 돌이킬 수 있는 기회가 있습니다” “여러분은 사회적 편견이 아니라 영혼의 죄로 인해 고통받고 있습니다” 등 구호를 방송을 통해 송출하기도 했다.&lt;br&gt;&lt;br&gt;이날 오후 1시쯤 서울 광화문 일대에서도 ‘거룩한 방파제’라는 이름의 맞불 집회가 열렸다. 이 집회에는 1만5000여명이 참여해 ‘동성애 퀴어축제 반대’ 등 문구가 적힌 팻말을 들고 시위를 진행했다. 이들은 서울 중구 코리아나호텔부터 숭례문까지 행진을 진행한다.&lt;br&gt;&lt;br&gt;한편 서울경찰청은 “서울퀴어축제 조직위와 반대단체 등 집회·행진 및 여러 단체의 도심권 대규모 집회로 교통불편이 예상된다”며 “시민 불편을 최소화하기 위해 집회 행진 구간 주변에 가변차로를 운영하고 교통경찰 190여명을 배치했다”고 했다. 또 경찰은 “세종대로, 남대문로 일대에 교통정체가 예상되므로 가급적 지하철 등 대중교통을 이용하고, 부득이하게 차량을 이용해야 할 경우 교통정보 등을 미리 확인해달라”고 당부했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘훈련병 사망’ 중대장, 영내대기 대신 귀향조치…왜?</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/01/FB3W7GS52VD7ZHECSLKYP2S43Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/01/FB3W7GS52VD7ZHECSLKYP2S43Q/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Jun 2024 06:39:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RTTJDY6JXKXSJ2GO63Y2XZ42XY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 30일 오전 전남 나주시 한 장례식장 야외 공간에서 얼차려 중 쓰러졌다가 이틀 만에 숨진 훈련병에 대한 영결식이 열리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;훈련병 군기훈련(얼차려) 사망 사건 가해자인 중대장이 직무에서 배제된 후 개인 연가를 내고 고향에서 머물고 있는 것으로 알려졌다. 가해자를 별다른 조치 없이 귀향시킨 것은 부적절하다는 비판이 나왔지만 군은 연가 신청을 금지할 규정이 존재하지 않는다고 밝혔다. 같은 사건으로 조사를 받고 있는 부중대장은 현재 부대 숙소에 머무르고 있다고 한다.&lt;br&gt;&lt;br&gt;1일 육군 등에 따르면 훈련병 사망 사건 가해자인 해당 부대 중대장(대위)이 사건 이후 불안 증세를 보여 최근 개인 연가를 내고 고향집으로 내려갔다. 이 과정에서 고향이 같은 부사관이 동행했다.&lt;br&gt;&lt;br&gt;군 당국은 고향집에 있는 가족을 통해 매일 특이사항을 파악하고 있으며, 중대장은 경찰의 소환조사 통보가 있을 시 이에 적극적으로 응할 계획이다.&lt;br&gt;&lt;br&gt;부중대장(중위)은 원래 머무르던 상급 부대의 숙소에 남아 있으며, 주변 동료들과 상급 부대 측에서 부중대장의 상태를 살피고 있다고 한다.&lt;br&gt;&lt;br&gt;온라인상에선 “구속도 아니고, 영내 대기도 아니고 귀향을 시켜?” “구금 조치를 해도 시원찮을 판에 언제부터 군이 사고 친 간부를 집에 보냈나? 집밥 먹고 힘내라는 건가” “믿을 수가 없다” 등의 반응이 나왔다.&lt;br&gt;&lt;br&gt;앞서 군 수사 당국은 두 사람에게 과실치사 혐의 등을 적용해 민간 경찰로 사건을 이첩했다.&lt;br&gt;&lt;br&gt;가해자를 영내 대기 대신 귀향 조치 한 것에 대해 군 측은 “아직 입건되지도 않은 상황이라 연가 신청을 금지할 규정이 존재하지 않는다”고 설명했다.&lt;br&gt;&lt;br&gt;지난달에는 군 당국이 가해 중대장에게 멘토를 배정해 심리 상태를 관리하고 있다는 보도가 나와 논란이 일었었다.&lt;br&gt;&lt;br&gt;이에 대해 군 관계자는 심리 상태 관리 조치는 와전된 것이라며 “중대장이 사건 이후 불안 증세를 보였다. 통상적으로 군에서는 가해자라고 하더라도 극단적 행동의 우려가 있는 경우 ‘전우조’를 배정해 관리한다”며 “같은 여성인 군 간부 1명을 배치해 중대장 상태를 살핀 것으로 전문적인 심리 상담이나 치료는 아니었다”고 했다.&lt;br&gt;&lt;br&gt;육군에 따르면 지난달 23일 육군 강원도 모 부대에서 군기훈련(얼차려)을 받다가 쓰러진 훈련병 1명이 치료 중 이틀 만인 지난달 25일 숨졌다.&lt;br&gt;&lt;br&gt;사망한 훈련병은 간부 지시에 따라 완전군장한 상태로 연병장을 구보(달리기)로 돌았고 완전군장 차림으로 팔굽혀펴기도 했다고 한다. 군기훈련 규정에 따르면 완전군장 상태에서는 걷기만 시키도록 하고 있는데 이를 위반한 것이다. 육군은 사망한 훈련병이 군기훈련을 받은 이유에 대해 밝히지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“사람을 죽였다” 경찰에 자수한 30대 남성, 숨진 채 발견</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/06/01/3HTJQKWHKVEZHLB4HKGQNN6E7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/06/01/3HTJQKWHKVEZHLB4HKGQNN6E7E/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Jun 2024 06:46:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OIPGVGEQBNAI7SDRYROQIWNSRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신의 살인 범행을 경찰에 스스로 신고한 남성이 숨진 채 발견돼 경찰이 수사하고 있다.&lt;br&gt;&lt;br&gt;1일 경찰 등에 따르면 지난달 28일 오후 12시쯤 A(30대)씨는 “내가 사람을 죽였다. 자수한다”면서 경찰에 신고했다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 경남 창녕군 한 도로에 정차한 승용차에서 A씨를 발견했다. 스스로 목숨을 끊으려 한 A씨는 병원으로 이송됐지만 결국 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 신고 내용을 확인하기 위해 A씨의 동선 추적에 나서 지난달 30일 오후 2시쯤 창녕의 한 야산에서 숨진 B(여·30대)씨를 발견했다.&lt;br&gt;&lt;br&gt;경찰은 이들의 행적과 현장 감식 등을 통해 A씨와 B씨가 함께 차를 타고 이동했고, A씨가 B씨를 살해한 것으로 판단했다. B씨 사망 시점은 5월 22일로 추정된다.&lt;br&gt;&lt;br&gt;경찰은 B씨의 부검을 의뢰해 정확한 사망 원인을 확인하는 한편, A씨가 범행을 저지른 이유 등에 대해서도 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/OIPGVGEQBNAI7SDRYROQIWNSRE.jpg?width=3352&amp;height=2076&amp;auth=be481030b45be001014f076a9a920c2e8ff4bb3e6b8b3368708095de67bd0489&amp;smart=true" type="image/jpeg" height="2076" width="3352">
+        <media:description type="plain">경찰 마크.ⓒ 뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">phonalist@news1.kr              </media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>미끄럼틀 뚫은 주방가위… ‘화성 놀이터 테러’ 범인, 잡힌 뒤 한 말</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/01/742J2DG7WZA5NEG73FX6HHPXOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/01/742J2DG7WZA5NEG73FX6HHPXOM/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Jun 2024 05:52:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BZVDMHXDSRD45NNXJPRK56HJIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;놀이터 미끄럼틀에 꽂힌 뾰족한 가위. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어린이들이 사용하는 미끄럼틀에 가위를 꽂아두고 사라져 온라인상에서 ‘화성 놀이터 테러’로 불린 사건의 범인이 붙잡혔다. 10대 소년 두 명으로 이들은 단순 장난이었다는 진술을 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경기 화성동탄경찰서는 특수재물손괴 혐의로 A(16)군을 붙잡아 조사 중이라고 1일 밝혔다. A군은 전날 오전 3시쯤 화성시 송산동 한 어린이 놀이터에 있는 원통형 미끄럼틀을 라이터로 가열하고 주방용 가위를 꽂아둔 뒤 달아난 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰은 같은 날 오후 행인의 신고를 받고 수사에 착수했다. 주변 CCTV 분석을 통한 추적 끝에 A군을 특정했고 이튿날인 이날 오전 검거했다. A군은 혐의를 인정하면서도 “장난삼아 한 짓”이라는 진술을 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 공범인 B군의 신원도 파악해 연락을 취했다. B군은 현재 지방에 머물고 있어 오는 2일 경찰에 출석해 조사받을 예정이다. 이들은 촉법소년(만 10세 이상 14세 미만)이 아니어서 형사처벌 대상에 포함된다. 이번 사건으로 다친 사람은 다행히 없었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>치매 걸린 어머니 옆구리 식칼로 찌른 60대 男 실형</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/01/F3U52RMWQNCDTFPYKHOS62ANUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/01/F3U52RMWQNCDTFPYKHOS62ANUU/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Jun 2024 05:41:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FGZSR7ALDE2HPI6KNAP4BNWSSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 양천구 서울 남부지법의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;치매에 걸린 어머니 옆구리를 식칼로 찌른 60대 남성이 1심에서 실형을 선고받았다.&lt;br&gt;&lt;br&gt;서울남부지법 형사9단독 정우용 판사는 특수존속상해 혐의로 재판에 넘겨진 이모(61)씨에게 징역 1년 6개월을 선고했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;이씨는 지난해 12월 14일 오후 치매를 앓고 있는 모친 오모(82)씨와 집에서 다투던 중, 주방에서 32.5cm 길이의 식칼을 들고 와 오씨의 왼쪽 옆구리를 찌른 혐의를 받는다. 이씨는 평소 신경마비 등으로 자신의 처지를 비관하고 있었고, 어머니의 잔소리에도 불만을 가지고 있었던 것으로 조사됐다. &lt;br&gt;&lt;br&gt;재판부는 “피고인은 자신의 삶에 대해 비관적인 생각을 하던 중 관계가 좋지 않았던 피해자를 식칼로 찌르는 중대한 범행을 저질렀다”며 “피고인은 범죄를 저지른 후 별다른 조치도 취하지 않은 채 피해자를 내버려뒀고, 이에 칼에 찔린 고령의 취약한 상태에 있던 피해자는 도움을 요청하기 위해 집에서 약 20m나 떨어진 이웃집까지 힘겹게 이동해 구호를 받는 등 피고인에 대한 처벌 필요성이 크다”고 했다. &lt;br&gt;&lt;br&gt;다만 “피고인이 범행을 인정하고 있고, 칼로 공격한 결과에 비해 피해자의 상처가 매우 깊지는 않아 보인다”며 “피해자 역시 자녀인 피고인을 처벌받게 하려는 의사가 있지 않은 것으로 보인다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>한동훈, 前기자 '허위사실 명예훼손' 손배소 패소 확정</title>
       <link>https://www.chosun.com/national/court_law/2024/06/01/DZ2SANJ4KNDIVAXIPNSRRMOBJY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/01/DZ2SANJ4KNDIVAXIPNSRRMOBJY/</guid>
@@ -812,15 +870,6 @@
       </media:content>
     </item>
     <item>
-      <title>충주 원룸서  화재, 1명 부상...폭발음 들려</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/05/31/AWAKCL6UVNHZTDA7ZZRNFS3QZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/05/31/AWAKCL6UVNHZTDA7ZZRNFS3QZI/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 04:50:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PH4LB3NDML6YOD7LHOUJIYH5YQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오전 8시 22분쯤 충북 충주시 연수동의 4층짜리 다세대주택 4층에서 화재가 발생해 50대 여성이 전신에 화상을 입었다. /충주소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 충주의 한 원룸건물에서 불이 나 1명이 다쳤다.&lt;br&gt;&lt;br&gt;소방당국 등에 따르면 31일 오전 8시 22분쯤 충북 충주시 연수동의 4층짜리 원룸 건물에서 원인을 알 수 없는 화재가 발생했다.&lt;br&gt;&lt;br&gt;구조에 나선 소방당국은 4층 원룸에 쓰러져 있던 여성을 소방헬기를 이용해 청주의 한 병원으로 이송했다. 이 여성은 전신에 화상을 입은 것으로 전해졌다. 다른 주민들은 모두 대피해 또 다른 피해는 발생하지 않았다. 이날 불은 23.1㎡ 크기의 원룸 1개를 모두 태웠다.&lt;br&gt;&lt;br&gt;소방 당국은 ‘펑’ 소리가 난 뒤 연기가 치솟았다는 목격자의 진술에 따라 가스 폭발 등 정확한 화재 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>차두리 “이제 곧 경기장♥ 보고싶엉”…동시교제 의혹 문자 추가 공개</title>
       <link>https://www.chosun.com/national/national_general/2024/05/31/G77H3G3UNVADRF6KQKW6T7SXTI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/G77H3G3UNVADRF6KQKW6T7SXTI/</guid>
@@ -867,18 +916,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FNY7UV3LXNHDLBWJ7FOVZSGVGI.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;인천 남동구의 한 아파트 주차장에서 30대 여성을 폭행한 전직 보디빌더 A(39)씨가 31일 실형을 선고받고 법정 구소됐다. 인천지법은 이날 폭력행위 등 처벌에 관한 법률상 공동상해 등 혐의로 기소된 A씨에게 징역 2년을 선고하고 법정 구속했다. 사진은 지난해 A씨의 범행 모습./뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이중으로 주차한 차를 빼달라고 요구한 30대 여성을 폭행한 전직 보디빌더가 실형을 선고받고 법정 구속됐다.&lt;br&gt;&lt;br&gt;인천지법 형사5단독 홍준서 판사는 31일 폭력행위 등 처벌에 관한 법률상 공동상해 등 혐의로 기소된 A(39)씨에 대해 징역 2년을 선고하고 법정 구속했다. 홍 판사는 “법정 진술과 관련 증거를 종합하면 모두 유죄로 인정된다”며 “피해자를 일방적으로 폭행한 점 등을 고려하면 실형을 선고할 수밖에 없다”고 했다. 이어 “(A씨가) 도주할 우려가 있다고 보고 법정 구속한다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 “할 말이 있느냐”는 홍 판사의 질문에 “사회에 물의를 일으켜 죄송하고 반성하고 있다”고 말했다. 검찰은 앞서 지난 1일 결심 공판에서 A씨에게 징역 3년 6개월을 구형했다. A씨는 결심 공판에 앞서 피해자를 위해 1억원을 공탁하고, 선처를 바란다는 내용의 탄원서를 지인 등으로부터 받아 법원에 제출하기도 했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 5월 20일 오전 11시쯤 인천시 남동구의 한 아파트 상가 주차장에서 주먹과 발로 30대 여성 B씨를 마구 때려 다치게 한 혐의로 불구속기소 됐다.&lt;br&gt;&lt;br&gt;B씨는 당시 A씨의 차량이 자신의 차량 앞을 막고 있자 A씨에게 이중 주차를 한 차를 빼달라고 요구했다가 폭행당했다. A씨는 갈비뼈가 부러지는 등 전치 6주의 진단을 받았다.&lt;br&gt;&lt;br&gt;A씨는 전직 보디빌더로, 사건 발생 후 운영하던 체육관을 폐업한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“웃는 이유는?” 민희진 기자회견 함께한 변호사, 소송 후 올린 글</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/31/7TT6R2E3BRCXLO4II6QQB55ITI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/7TT6R2E3BRCXLO4II6QQB55ITI/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 01:44:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U562JACU6VIC3F5PRKRN372EEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 뉴진스의 소속사 어도어 민희진 대표가 지난달 25일 서울 서초구 한국컨퍼런스센터에서 하이브 경영권 탈취 시도와 관련한 배임 의혹에 관한 입장을 밝히는 긴급기자회견을 하고 있다. 오른쪽은 민 대표 측 이숙미 변호사. /뉴스1, 이숙미 변호사 페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민희진 어도어 대표의 법률대리인 이숙미 변호사(법무법인 세종)가 민 대표의 가처분 신청이 받아들여진 후 짧은 소회를 밝혔다.&lt;br&gt;&lt;br&gt;이 변호사는 31일 자신의 페이스북에 “은은하게 웃는 이유는, 이길 줄 알았으니까 ^^”라는 글을 올렸다. 지난달 25일 민 대표의 긴급 기자회견에서 찍힌 사진도 게재했다. 사진 속 민 대표는 일어서서 무언가를 열심히 말하고 있고, 그 옆에서 이 변호사는 서류를 내려보며 미소 짓고 있다.&lt;br&gt;&lt;br&gt;전날 서울중앙지법 민사합의50부(재판장 김상훈)는 민 대표가 하이브를 상대로 낸 의결권 행사 금지 가처분 소송을 인용했다. 재판부는 “현재까지 제출된 주장과 자료만으로는 하이브가 주장하는 해임 사유가 충분히 소명되지 않았다”고 했다. 이어 “민 대표가 어도어에 대한 하이브의 지배력을 약화시키고, 자신이 어도어를 독립적으로 지배할 수 있는 방법을 모색했던 것은 분명하다고 판단된다”면서도 “민 대표가 실행 행위까지 나아갔다고 보기 어렵고, 그 같은 행위가 하이브에 대한 배신적 행위가 될 수는 있겠지만, 어도어에 대한 배임 행위가 된다고 하기는 어렵다”고 했다.&lt;br&gt;&lt;br&gt;이러한 판결 내용을 두고 법조계에서는 사실상 민 대표의 승리라는 해석이 나왔다. 이 변호사도 이러한 의견에 힘을 보탠 것으로 보인다.&lt;br&gt;&lt;br&gt;한편, 하이브는 31일 임시주주총회를 열어 민 대표를 제외한 나머지 사내이사 2명을 해임했다. 그 자리에는 하이브 측이 추천한 신임 사내이사 3명이 선임됐다.&lt;br&gt;&lt;br&gt;민 대표가 낸 가처분 신청은 자신만을 대상으로 한 것이었고, 하이브가 어도어 지분 80%를 보유하고 있어 민 대표의 측근 2명의 해임은 예고된 수순이었다. 민 대표 측은 전날 이와 관련 “민 대표에게 이사 해임의 사유가 없는 이상 민 대표 측 사내이사 2명에게도 이사 해임의 사유가 없다”며 “하이브가 위 이사들을 해임할 경우 이는 법원의 결정을 존중하지 않고 정당한 이유 없이 해임하는 것”이라고 했다. 결국 민 대표는 자신을 반대하는 하이브 측 사내이사 3인과 ‘불편한 동거’를 해야 하는 상황을 맞았다.&lt;br&gt;&lt;br&gt;한편, 민 대표는 이날 오후 2시 30분 기자회견을 열고 임시주주총회 관련 입장을 밝힐 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/K3X3KDLVUJFYVDPMP4ZLCRBJFE.JPG?width=525&amp;height=295&amp;auth=f0f126485650e9b7ae129b3c49f27987c68c5ee84fc0cf29ee3e201c7aa6a427&amp;smart=true" type="image/jpeg" height="295" width="525">
-        <media:description type="plain">그룹 뉴진스의 소속사 어도어 민희진 대표가 25일 서울 서초구 한국컨퍼런스센터에서 하이브 경영권 탈취 시도와 관련한 배임 의혹에 관한 입장을 밝히는 긴급기자회견을 하고 있다. ⓒ News1</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>[단독] 강남 오피스텔 모녀 살인범, 추적 피하려 주도면밀하게 택시 여러 번 갈아타</title>
       <link>https://www.chosun.com/national/national_general/2024/05/31/UECN5QBYHBCG7GMSB7AY6A6PUI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/UECN5QBYHBCG7GMSB7AY6A6PUI/</guid>
@@ -886,15 +923,6 @@
       <description/>
       <pubDate>Fri, 31 May 2024 01:31:42 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T7OTQM4RNRAWTCTOW4PGZT4TWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 수서경찰서 전경/채제우 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남의 한 오피스텔에서 모녀를 흉기로 살해하고 도주한 끝에 경찰에 붙잡힌 60대 남성이 경찰 추적을 피하기 위해 택시를 수차례 갈아타는 등 주도면밀한 모습을 보인 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면 강남 오피스텔 모녀 살인범 박모(64)씨는 범행 현장인 강남구 선릉역에서 서초구 남태령역까지 도주하는 과정에서 택시를 수차례 갈아탄 것으로 파악됐다. 경찰은 “박씨가 처음엔 택시를 탔고 그 다음에는 걷기도 했다”며 “동선이 중간중간 끊겨 아직 정확한 전체 동선은 파악되지 않는다”고 했다.&lt;br&gt;&lt;br&gt;13시간의 도주극 동안 박씨는 혈흔이 묻은 옷을 갈아입지 않았던 것으로도 파악됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면 박씨는 30일 오후 6시 54분쯤 강남구 선릉역 인근 오피스텔에서 50대 여성과 그 딸에게 흉기를 휘둘러 죽인 혐의를 받는다. 경찰은 추적 끝에 31일 오전 7시 45분쯤 서초구 남태령역 인근 노상에서 박씨를 살인 혐의로 긴급체포했다. 살해 현장과 검거 지점은 직선 거리로 7km 떨어져 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>마사지하다 女손님 속옷 안에 손 넣은 마사지사…“마음이 갔다”</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/31/GDIXTSFIZVCTLNFM5VYIKHXWUU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/GDIXTSFIZVCTLNFM5VYIKHXWUU/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 01:05:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;체형 교정 마사지를 하던 중 여성 손님을 추행한 40대 남성 마사지사가 항소심에서도 실형을 선고 받았다.&lt;br&gt;&lt;br&gt;31일 광주지법 형사2부(부장판사 김영아)는 성폭력범죄의 처벌 등에 관한 특례법 위반(업무상위력 등에 의한 추행) 혐의로 재판에 넘겨져 1심에서 징역 6개월을 선고 받은 마사지사 A(46)씨의 항소심에서 A씨와 검사의 항소를 모두 기각했다고 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 원심과 동일하게 A씨에게 성폭력 치료프로그램 40시간 이수와 아동·청소년·장애인 관련 기관 취업제한 3년도 명령했다.&lt;br&gt;&lt;br&gt;A씨는 2021년 9월 자신이 운영하는 광주의 한 척추교정원에서 마사지 전용침대에 누운 여성 손님 B씨의 신체를 만진 혐의로 재판을 받아왔다.&lt;br&gt;&lt;br&gt;당시 A씨는 림프절 마사지를 해주겠다며 동의를 받지 않고 B씨의 속옷 안에 손을 넣은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;마사지 직후 B씨가 항의하자 A씨는 “개인적으로 마음이 가서 이렇게 풀어드렸다. 사과하겠다”고 답했다고 한다.&lt;br&gt;&lt;br&gt;재판 과정에서 A씨 측은 “치료 목적으로 동의를 얻어 허벅지 안쪽 근막 부위에 있는 멍울을 확인한 사실은 있지만 속옷 안으로 손을 넣거나 추행하지는 않았다”고 주장했다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 “마사지 영업 도중 손님을 추행한 것으로서 정도와 부위에 비춰 죄질이 매우 좋지 않다. 잘못을 인정하지 않는 등 범행 이후 정황도 좋지 않다”며 A씨 측 주장을 받아들이지 않았다.&lt;br&gt;&lt;br&gt;항소심 재판부도 “B씨 진술 신빙성을 인정할 수 있고 A씨가 B씨를 추행했음을 넉넉히 인정할 수 있다”며 “원심 판단을 그대로 유지하는 것이 현저히 부당하다고 볼 만한 사정 역시 발견할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>강남 선릉역 모녀 살해 도주범, 13시간만에 남태령서 검거</title>
@@ -906,15 +934,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T7OTQM4RNRAWTCTOW4PGZT4TWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 수서경찰서 전경/채제우 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남에서 모녀를 흉기로 살해하고 도주한 60대 남성이 경찰의 13시간 추적 끝에 31일 긴급체포됐다.&lt;br&gt;&lt;br&gt;서울 수서경찰서는 전날(30일) 서울 강남구 선릉역 인근 오피스텔에서 모녀를 살해한 혐의를 받는 박모(64)씨를 이날 오전 7시 45분쯤 서울 서초구 남태령역 인근 노상에서 살인 혐의로 긴급체포했다고 밝혔다. 살해 현장과 검거 지점은 직선 거리로 7km 떨어져 있다.&lt;br&gt;&lt;br&gt;경찰에 따르면 박씨는 30일 오후 6시 54분쯤 강남구 한 오피스텔에서 50대 여성과 그 딸에게 흉기를 휘둘러 죽인 혐의를 받는다.&lt;br&gt;&lt;br&gt;박씨의 범행으로 심정지 상태에 빠진 모녀는 소방 당국에 의해 인근 대형 병원으로 이송됐으나 모두 숨졌다. 박씨는 범행 직후 휴대전화를 끄고 도보로 이동한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 “구체적인 범행 동기 등에 대해서는 조사 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“민희진 해임하려 하면…” 가처분 인용된 날, 뉴진스 팬덤이 날린 경고</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/31/UKJWHXEIYVG3TAHOJ4VOAL7PRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/UKJWHXEIYVG3TAHOJ4VOAL7PRQ/</guid>
-      <dc:creator>김가연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 May 2024 21:54:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EW6ZIL6F54HIJPF2V2QUF5J4XY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 뉴진스의 소속사 어도어 민희진 대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민희진 어도어 대표가 모회사 하이브를 상대로 제기한 의결권 행사금지 가처분 신청이 인용된 가운데, 그룹 뉴진스의 팬들이 성명문을 냈다. 이들은 하이브를 향해 “민 대표를 해임하려 한다면 힘으로 맞설 것”이라며 경고했다.&lt;br&gt;&lt;br&gt;뉴진스 팬덤 버니즈는 30일 성명문을 내고 “법원의 결정을 환영한다”고 했다. 이어 “이번 결정을 계기로 민 대표와 하이브 간의 불필요한 분쟁이 종식되고, 민 대표가 이끄는 어도어의 현 체제가 안정적으로 유지되며 하이브도 뉴진스의 활동을 위해 정서적으로 안정된 환경을 포함한 최대한의 지원을 제공하기를 희망한다”고 했다.&lt;br&gt;&lt;br&gt;버니즈는 “법원은 현재까지 제출된 주장과 자료만으로는 하이브가 주장하는 해임 사유나 사임 사유가 충분히 소명되지 않았다고 판단했다”며 “31일에 개최되는 어도어 임시 주주총회에서 하이브가 민 대표의 해임을 의결하려는 시도 및 이사진 교체 후 이사회 결의를 통해 민 대표의 대표권을 상실시키려는 무리한 시도는 이번 법원의 결정을 실질적으로 훼손하는 행위로 용납될 수 없다”고 했다.&lt;br&gt;&lt;br&gt;이어 “뉴진스를 사랑하고 아끼는 팬으로서 저희는 어떠한 수단이라도 강구할 것”이라며 “대주주의 지위를 남용하며 신의성실의 약속을 저버리고 아티스트와 그 아티스트를 키운 민 대표를 버리는 시도를 한다면 저희도 힘으로 맞서 막아낼 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2HUTUIKWVGD457A4L4OHGGFEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 뉴진스. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 버니즈 1만명은 법원에 민 대표를 지지하는 탄원서(진성서)를 내기도 했다. 이들은 “그동안 민희진 대표가 뉴진스를 위해 이룩한 성과를 충분히 인정하고 있고, 뉴진스 멤버들과 또한 지금과 같이 돈독히 유지되기를 희망하고 있으며, 그것이 뉴진스의 성장을 위해 앞으로도 도움이 되는 최선의 방향이라고 생각한다”라는 내용을 탄원서에 썼다.&lt;br&gt;&lt;br&gt;한편 이날 서울중앙지법 민사합의50부(재판장 김상훈)는 민 대표가 하이브를 상대로 제기한 의결권 행사 금지 가처분 소송을 인용했다. 하이브가 이를 어길 경우 민 대표에게 200억원을 지급하라고 결정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>저수지 물도 빼놨다...여름 폭우 대비 ‘물그릇 만들기 대작전’</title>
       <link>https://www.chosun.com/national/national_general/2024/05/31/MFWE6WCFIVAE5CPYJTIUKXMISI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/MFWE6WCFIVAE5CPYJTIUKXMISI/</guid>
@@ -924,15 +943,6 @@
       <content:encoded>지난 20일 경기 과천시 서울대공원 호수. 평소 물이 찰랑찰랑했던 호숫가에 흰 자갈밭이 그대로 드러나 있었다. 21만7000㎡ 크기 호수에는 평소 109만t의 물이 차 있다. 그런데 지난달부터 서울대공원이 파이프를 이용해 호수 물을 양재천으로 흘려보내고 있다. 올여름 폭우가 쏟아지면 이 호수 전체를 빗물을 담을 그릇으로 사용하기 위해 미리 물을 빼 놓은 것이다. 현재 109만t 중 60만t의 물을 빼냈다. 호수의 수위도 5m에서 3m로 낮아졌다. 양재천으로 이어진 곳에서는 수문(水門)을 만드는 작업이 한창이었다. 서울시 관계자는 “서울대공원 호수를 ‘미니 댐’처럼 쓰기 위해 수문까지 만들고 있다”며 “6월 완공되면 빗물 60만t을 담을 수 있는 ‘물 그릇’이 생기는 셈”이라고 했다. 이는 서울에서 가장 큰 배수 시설인 양천구 신월 빗물터널(32만t)의 2배 규모다. 서울시 관계자는 “양재천이 지나는 서초구, 강남구 일대의 침수 피해가 크게 줄 것으로 예상한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UY7ZBWXN2JCLNMQWMREMUHJGSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시가 올여름 집중호우에 대비하기 위해 서울 관내 6개 저수지와 연못의 물을 미리 빼고 있다. 폭우가 쏟아지기 전에 수위를 낮춰 빗물을 담을 수 있는 '물그릇'으로 활용하려는 것이다. 사진은 물을 빼기 전 경기 과천 서울대공원 호수의 모습(왼쪽 사진)과 물을 뺀 후 흰 자갈밭이 드러난 모습(오른쪽 사진). /한국농어촌공사·남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 올여름 집중호우에 대비하기 위해 ‘물그릇 만들기 대작전’을 벌이고 있다. 서울대공원 호수뿐만 아니라 관악산 호수공원과 보라매공원 연못, 구로구 항동저수지 등 서울 관내 6개 저수지·연못의 물을 미리 빼고 있다. 서울시 관계자는 “시내 곳곳에 빗물을 담을 물그릇을 확보해 순간적으로 쏟아지는 ‘물폭탄’을 저장했다가 천천히 흘려 내보내려는 전략”이라고 했다.&lt;br&gt;&lt;br&gt;이는 올여름 일기예보가 심상치 않기 때문이다. 기상청은 최근 기상 전망에서 ‘올여름은 예년보다 강수량이 많거나 같을 확률이 80%’라고 예상했다. 기상 이변 등으로 서울에 시간당 30㎜ 이상 집중호우가 내린 날이 2016년에는 6일이었는데 2020년 이후에는 해마다 10일이 넘는다. 지하에 대심도 빗물 터널을 짓는 게 근본적인 대책이지만 서울 광화문과 강남역, 도림천에 지으려는 대심도 빗물 터널은 2028년에야 완공된다. 당장 쓸 물그릇이 필요한 이유다.&lt;br&gt;&lt;br&gt;저수지나 연못뿐만 아니라 원래 물을 담는 용도가 아닌 건물들도 동원되고 있다. 저지대라 침수가 잦은 사당역 인근 수도방위사령부 연병장(운동장)도 물그릇으로 쓴다. 서울시 관계자는 “6월 중 연병장 입구에 차수판을 설치할 계획”이라며 “빗물 6000t을 담을 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;관악구 신림동 버스 공영차고지 공사장도 임시 저류지(貯留池)로 활용한다. 지하에 차고지를 만들기 위해 땅을 파고 있는데 그 공간에 물을 받겠다는 것이다. 관악구 사당IC 근처에 있는 저류조는 바닥을 더 깊게 파 빗물 저장 용량을 1만8000t에서 3만t으로 키우고 있다.&lt;br&gt;&lt;br&gt;큰 물그릇을 만들기 어려운 강남역 등 도심에는 건물 옥상 배수구에 10㎝ 높이의 플라스틱 ‘배수 홈통’을 설치하고 있다. 배수 홈통을 설치하면 빗물이 건물의 배수관을 타고 바로 떨어지지 않고 천천히 내려오게 된다. 사실상 건물 옥상에 물을 저장하는 효과가 생기는 것이다. 서울시 관계자는 “서초구 서울시인재개발원, 강남구 한국과학기술회관, 관악구 수도방위사령부 등 공공 건물 옥상부터 설치할 계획”이라며 “배수 홈통 30개를 설치하면 빗물 400t 정도를 받아낼 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;양천구 신월 대심도 빗물 터널 내부에는 적외선 방범카메라(CCTV) 4대를 설치한다. 양천구 관계자는 “빗물이 차는 상황을 실시간으로 들여다볼 수 있게 된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“노태우 비자금·보호막으로 SK 성장”… 그걸 딸의 ‘기여’로 봐 논란</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/31/P3KUXJ3LK5GJJALBXSZ63INI34/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/31/P3KUXJ3LK5GJJALBXSZ63INI34/</guid>
-      <dc:creator>양은경 기자, 박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 May 2024 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SROZHMSWQWYGXZHCMKSWFR3HOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최태원 SK그룹 회장(왼쪽)과 노소영 아트센터 나비 관장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최태원 SK그룹 회장과 노소영 아트센터 나비 관장의 이혼 소송 2심 재판은 1조3808억원이라는 역대 최고 재산 분할 액수도 놀랍지만, 판결 근거로 SK그룹의 성장에 노 관장의 부친 고(故) 노태우 전 대통령이 상당한 역할이 있었다는 점을 들어 더 관심을 끌었다. 재판부는 노 전 대통령의 비자금 300억원이 SK에 유입된 정황도 인정했다.&lt;br&gt;&lt;br&gt;재판부는 SK 주식을 포함해 최 회장의 모든 재산은 분할 대상이라고 보고, 그 규모를 4조110억원이라고 봤다. 그중 35%를 노 관장에게 주라고 판결했다. 이에 따라 노 관장 몫은 분할 재산 1조3808억원과 위자료 20억원이 됐다. 앞서 1심에서 인정받은 분할 재산 665억원과 위자료 1억원의 20배에 달하는 액수다.&lt;br&gt;&lt;br&gt;1심은 “최 회장이 보유한 SK 주식은 부친인 최종현 회장에게 물려받은 특유재산”이라며 분할 대상이 아니라고 했다. 특유재산은 결혼 전 갖고 있던 재산으로, 배우자가 재산 형성에 기여한 경우에만 분할 대상이 된다. 이날 재판부는 결혼생활이 30년 넘게 이어졌고, SK가 사돈인 노태우 전 대통령 덕에 성장할 수 있었다며 최 회장의 상속재산 및 SK 주식의 늘어난 가치까지 분할 대상에 포함시켰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TITK4HKDYRB6RINGUTCEVBR7PA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇노태우 비자금 300억원 SK에 유입?&lt;/b&gt;&lt;br&gt;&lt;br&gt;노 관장은 1990년대에 부친인 노태우 전 대통령의 비자금이 증권사 인수, SK 주식 매입 등에 사용됐다고 주장했다. 그러면서 50억원짜리 약속어음 6장의 사진을 재판부에 제출했다. 반면 최 회장 측은 “SK그룹에 비자금이 유입된 적이 없고 이는 1995년 노 전 대통령 수사 때도 확인됐다”고 반박했다.&lt;br&gt;&lt;br&gt;그러나 재판부는 “노 전 대통령 부인 김옥숙씨가 작성한 메모에도 ‘선경 300억’이 들어가 있다”며 “태평양증권 인수 당시 출처 확인이 어려운 규모의 돈이 유입된 것을 보면 노 전 대통령 측이 금전적 지원을 하고 받은 증빙 어음이라는 주장이 설득력이 있다”고 했다.&lt;br&gt;&lt;br&gt;이 300억원은 노 전 대통령의 앞선 형사 재판에서 인정된 비자금과는 별개의 돈이라고 했다. 노 전 대통령은 대기업들에서 4100억여 원의 비자금을 받은 혐의로 1997년 대법원에서 유죄를 선고받고 2628억원이 추징됐다. 재판부는 “1991년도 기준으로 볼 때 300억원이 (분할 대상에 포함시킬 수 없을 만큼의) 불법적인 돈이라고 할 수는 없다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 한 법조인은 “불법 소지가 있는 부정한 자금이라는 것은 인정하면서도 재산 분할 대상에서 뺄 만큼은 아니라는 판단은 납득하기 어렵다”고 말했다. SK 측 변호인단도 “6공 비자금 유입 및 각종 유무형의 혜택은 전혀 입증된 바 없다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇SK, 노태우 도움으로 성장했다?&lt;/b&gt;&lt;br&gt;&lt;br&gt;재판부는 또 최종현 선대 회장의 태평양증권·한국이동통신 인수 등을 들어 “SK는 노 대통령과의 사돈 관계를 보호막, 방패막으로 해서 위험한 경영을 감행해 그동안 성공해 왔다”며 “돈세탁이라고 의심할 만한 정황이 드러났지만 국세청 등을 통한 자금 출처 조사가 이뤄지지 않았다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해서도 SK 측은 “한국이동통신은 김영삼 대통령 시절 인수했다. 재판부가 사실관계조차 모르고 있다”면서 “당시엔 오히려 6공의 압력으로 각종 재원을 제공했고, 노 관장 측에도 많은 지원을 해 왔다”고 반박했다.&lt;br&gt;&lt;br&gt;한 이혼 전문 변호사는 “자산 증식이 정경유착에서 비롯됐다고 보고 있으면서, 부정한 재산을 분할 대상으로 인정한 것”이라며 “회장 부부 외에 근로자나 임직원의 기여를 감안하지 않은 것은 비상식적인 판단”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇부정행위, 위자료 20배 증액에 감안&lt;/b&gt;&lt;br&gt;&lt;br&gt;최 회장이 혼인 생활 와중에 동거인인 김희영씨와의 관계를 지속해 온 것은 거액의 위자료를 산정한 이유가 됐다. 재판부는 “상당 기간의 부정행위를 지속하며 공식화하는 등 헌법이 보호하는 일부일처제를 전혀 존중하지 않았다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 또 “노 관장과 별거한 후 김씨와의 생활에서 최 회장의 자금이 219억원 이상 지출됐다”며 “1심 위자료 액수가 너무 적다고 판단해 증액하는 것이 맞다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>강남 오피스텔서 모녀 살해, 60대 도주</title>
       <link>https://www.chosun.com/national/national_general/2024/05/31/GCPE7EUOWVHAHG4YLWCUW6ZSTM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/GCPE7EUOWVHAHG4YLWCUW6ZSTM/</guid>
@@ -940,15 +950,6 @@
       <description/>
       <pubDate>Thu, 30 May 2024 15:50:00 +0000</pubDate>
       <content:encoded>서울 강남에서 60대 남성이 모녀(母女)를 흉기로 살해하고 도주하는 사건이 발생했다.&lt;br&gt;&lt;br&gt;서울 수서경찰서는 30일 오후 6시 54분쯤 강남구 한 오피스텔에서 50대 여성과 그의 딸에게 흉기를 휘두른 박모(64)씨를 살인 등 혐의로 쫓고 있다(오후 10시 30분 기준)고 밝혔다.&lt;br&gt;&lt;br&gt;박씨 범행으로 모녀는 현장에서 심정지 상태에 빠진 상태로 소방 당국에 의해 인근 대형 병원으로 이송됐으나 모두 숨졌다. 박씨는 범행 직후 차량으로 도주했다. 이후 휴대전화를 끄고 도보로 이동한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;당초 박씨는 50대 여성과 부부 사이로 알려지기도 했으나 경찰은 “평소 알고 지내던 지인으로 파악됐다”고 했다. 경찰은 치정 등 구체적 범행 동기를 조사하는 한편, 감시카메라 화면 등을 확보해 박씨의 범행 전후 상황을 살펴보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>교회서 숨진 여고생 ‘학대 혐의’ 합창단장 구속</title>
-      <link>https://www.chosun.com/national/incident/2024/05/31/KSU72P5ZRVAORH4TIEDICEDZ6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/05/31/KSU72P5ZRVAORH4TIEDICEDZ6I/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 May 2024 15:50:00 +0000</pubDate>
-      <content:encoded>인천의 한 교회에서 생활하던 여고생 김모(17)양을 학대해 숨지게 한 혐의로 50대 여성 신도가 검찰에 구속 송치된 가운데, 이 교회 소속 50대 여성 합창단장과 40대 여성 합창단원 등 2명이 아동 학대 혐의로 추가 구속됐다. 경찰은 이 3명이 함께 김양을 학대해 숨지게 한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;인천경찰청 여성청소년범죄수사계는 아동복지법상 아동 학대 혐의로 박모(52)씨와 조모(41)씨 등 2명을 구속했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;박씨는 숨진 김양이 생활하던 교회 소속 합창단의 단장으로, 이 교회 설립자의 딸인 것으로 알려졌다. 조씨는 합창단원으로 활동해 왔다. 박씨와 조씨는 지난 3월부터 5월 15일까지 이 교회에서 김양을 학대한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 앞서 지난 24일 아동 학대 범죄의 처벌 등에 관한 특례법상 아동 학대 치사 혐의로 김양과 함께 생활하던 여성 신도 김모(55)씨를 구속해 검찰에 송치했다. 경찰은 김씨의 범행 경위를 수사하는 과정에서 박씨와 조씨의 학대 정황을 확인하고 지난 25일 서울에서 이들을 체포했다. 경찰은 아동 학대 혐의로 구속된 박씨와 조씨의 죄명을 아동 학대 치사로 변경할 방침이다. 박씨 등은 혐의 내용에 대해 부인하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;지난 15일 오후 8시쯤 인천 남동구의 한 교회에서 밥을 먹던 중 쓰러진 김양은 병원으로 옮겨졌지만 4시간여 만에 숨졌다. 당시 김양의 신체 여러 곳에선 멍 자국이 발견됐고, 두 손목에 보호대를 착용하고 있었던 것으로 파악됐다. 두 손을 묶은 흔적도 발견됐다.&lt;br&gt;&lt;br&gt;국립과학수사연구원은 부검 이후 “학대 가능성이 있다”며 사인을 ‘폐색전증’으로 추정했다. 폐색전증은 폐동맥에 피 찌꺼기나 다른 이물질이 생겨 막히는 증상이다.&lt;br&gt;&lt;br&gt;김양은 지난 3월부터 이 교회에서 생활했다. 김양의 어머니가 지난 1월 남편과 사별한 뒤 생활고를 이유로 이 교회에서 머무르던 신도 김씨에게 딸을 맡겼다고 한다. 교회 관계자는 “김양이 자해를 시도해 이를 막기 위해 (김씨가) 손을 묶었던 적은 있지만 학대는 없었던 것으로 안다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[두근두근 뇌 운동] [2390] 초성 이어가기</title>
