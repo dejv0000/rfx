@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>의협, 시도 의사회장 긴급 회의… 내주 전체 의사 총파업 찬반 투표</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/06/02/CY65OME4CJF7TJBQE2BBREW42U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/02/CY65OME4CJF7TJBQE2BBREW42U/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Jun 2024 08:57:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UOVXSIYGTZEZPAUU2QOQN23L6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한의사협회와 시·도 의사회 회장단 긴급회의가 2일 서울 용산구 의협회관에서 비공개로 진행되고 있다. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한의사협회(의협)는 2일 서울 용산구 의협 회관에서 전국 16개 시·도 의사회 회장단 긴급회의를 소집해 총파업 등 대정부 투쟁 방안에 대해 논의했다. 의협은 조만간 전체 의사 회원을 상대로 총파업 찬반 투표를 하고, 이후 대표자 회의를 거쳐 결정하기로 했다.&lt;br&gt;&lt;br&gt;2일 의료계에 따르면 비공개로 진행된 이날 시·도 의사회 회장단 긴급회의에서는 개원가를 포함한 집단행동에 대해 논의가 이뤄졌다. 임현택 의협 회장은 지난달 30일 촛불집회에서 “6월부터 의료 농단을 막기 위한 큰 싸움을 시작한다”며 총파업을 시사한 바 있다.&lt;br&gt;&lt;br&gt;총파업 찬반 투표는 4~7일 온라인으로 진행될 것으로 알려졌다. 의협은 이후 9일쯤 전국 대표자 회의를 열어 총파업 시기와 방법 등에 대해 추가 논의를 이어간다는 계획이다.&lt;br&gt;&lt;br&gt;의협 내부에서는 지난달 촛불집회를 통해 투쟁 동력을 확보했다는 시각도 있다. 의협은 당초 서울에서만 600명이 집회에 참가할 예정이라고 신고했으나, 현장에는 이보다 많은 이들이 모였다. 의협은 5000여명이, 경찰은 2000여명이 집회에 참가한 것으로 추산했다.&lt;br&gt;&lt;br&gt;다만 의료계가 실제로 총파업에 돌입할 수 있을지는 미지수다. 이날 회의에서도 ‘실질적으로 개원가 휴진은 어렵다’는 의견도 제기된 것으로 전해졌다. 총파업에 대한 여론이 호의적이지 않은 데다, 개원의들이 파업으로 인한 경영난을 감당하기가 쉽지 않다는 이유에서다. 2020년 의료계가 정부의 의대 증원 추진에 반대하며 총파업에 돌입했을 때도 동네 병·의원의 집단 휴진 참여율은 10% 정도였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강남 모녀 ‘데이트 살인’ 60대 남성 구속</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/02/R4N4FOWFZ5CEXOQ4LZFM3LDSUY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/02/R4N4FOWFZ5CEXOQ4LZFM3LDSUY/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Jun 2024 08:26:27 +0000</pubDate>
+      <content:encoded>서울 강남의 한 오피스텔에서 모녀를 살해한 혐의를 받는 60대 남성이 2일 구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YIGHVWEHT5JD7I7YMLSRU6PLWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'강남 모녀 살인' 사건의 피의자 박모(64)씨가 2일 서울중앙지법에서 열린 영장실질심사에 출석하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 서울중앙지법 최민혜 영장전담 부장판사는 지난달 30일 오후 6시16분쯤 선릉역 인근 한 오피스텔 6층에서 60대 여성 A씨와 그의 딸 모녀를 살해한 혐의를 받는 박모(64)씨에 대해 “도망할 염려가 있다”며 구속영장을 발부했다. 앞서 서울 수서경찰서는 1일 박씨에 대해 살인 혐의로 구속 영장을 신청했다.&lt;br&gt;&lt;br&gt;박씨는 이날 오후 1시26분쯤 영장실질심사에 출석하며 “(피해자 모녀 중 딸이) 신랑에게 전화하는 바람에 범행이 이뤄졌다”는 취지로 말했다. 그는 취재진이 “범행 당일 피해자와 어떤 대화를 했느냐” 등의 질문에는 답을 하지 않았다. 박씨는 A씨와 교제하던 사이였던 것으로 알려졌는데, A씨는 박씨에게 그만 만나자는 뜻을 전하기 위해 자신의 사무실에서 딸과 함께 박씨를 만났다가 변을 당한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;소방당국은 범행이 일어난 30일 오후 6시52분쯤 “아내가 칼에 맞았다”는 B씨 남편의 신고를 받고 현장에 출동했으나, 모녀는 이미 심정지 상태였다고 한다. 모녀는 병원에 이송되자마자 사망했다.&lt;br&gt;&lt;br&gt;박씨는 범행 직후 현장에서 택시를 타고 도주한 것으로 조사됐다. 그는 13시간여 동안 서울 강북과 경기 지역 일대에서 수차례 택시를 갈아타며 경찰 추적을 따돌리다가, 지난달 31일 오전 7시45분쯤 서울 서초구 남태령역 인근에서 긴급 체포됐다. 박씨는 실시간으로 결제 흔적이 남는 신용카드를 전혀 사용하지 않은 채 현금만 사용한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;한편 박씨는 검거 직후부터 ‘우발적 범행’을 주장하고 있는 것으로 전해졌다. 그는 검거 후 경찰서로 압송되는 과정에서 취재진에게 “(흉기는 원래) 거기(A씨의 사무실)에 있던 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>법원 “압구정 한양2차, 입주자회의 별도 구성 가능”</title>
       <link>https://www.chosun.com/national/court_law/2024/06/02/CJPQ2EJ5R5EGTEW2GVFNXV2NQ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/02/CJPQ2EJ5R5EGTEW2GVFNXV2NQ4/</guid>
@@ -951,24 +969,6 @@
       <description/>
       <pubDate>Fri, 31 May 2024 11:07:58 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GZKW7KZEZKBZIJSBQH2FBJXEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 29일 서울 시내 한 상급종합병원 응급실에서 환자가 이송되고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의사가 없어 ‘응급실 뺑뺑이’를 돌고 있는 응급 환자를 받아준 병원엔 환자당 지원금 금액을 지금의 3배로 올린다. 전국의 47개 상급종합병원(대형 병원)뿐만 아니라 전국 응급 환자 진료가 가능한 전문병원도 지원 대상에 포함된다. 전공의 이탈로 병원 가동이 20~50%가량 줄어든 상황에서 각 병원의 응급·중증 환자의 수용을 유도하기 위한 차원이다.&lt;br&gt;&lt;br&gt;정부는 31일 응급 환자 치료 관련 보상액을 높이는 방안을 발표했다. 정부는 고난도 수술인 ‘신장 이식’ 수가(건보공단이 병원에 주는 돈)를 전면 인상하기로 했다. 기증자가 살아있는지, 뇌사 상태인지에 따라 신장 이식 수술의 난도가 달라지는데, 기존에는 수술 종류를 구분하지 않고 469만원의 수가가 동일하게 적용됐다. 오는 7월부터는 ‘생체 이식술’과 ‘뇌사자 이식술’ 수가가 기존 대비 120% 인상된 1032만원으로 오르게 된다. 한번 이식된 신장을 다른 환자에게 재이식하는 ‘재이식술’ 수가는 기존 대비 186% 인상된 1341만원으로 오른다.&lt;br&gt;&lt;br&gt;정부는 또 이날 이탈 전공의들을 향해 “이탈 기간이 다르면 그에 따른 처분 내용도 달라질 것”이라고 했다. 빨리 복귀한 전공의에 대해 불이익을 최소화하겠다는 것이다.&lt;br&gt;&lt;br&gt;이날 가톨릭의대 비상대책위원회는 서울 서초구 서울성모병원에서 ‘의정 갈등 넘어 미래 의료 환경으로’라는 주제로 심포지엄을 열었다. 김태근 가톨릭중앙의료원 전공의협의회 비대위 대표는 발표에서 “의사 부족이 문제가 아니라 이미 배출된 전문의들조차 자신이 전공한 분야가 아닌 다른 분야로 떠나도록 만드는 의료 시스템이 문제”라고 했다.&lt;br&gt;&lt;br&gt;김창수 전국의과대학교수협의회 회장은 이 행사에서 “내년 3월부터 (의과대학) 학생들이 유급되고 신입생마저 들어오게 되면 (함께 수업을 받는 유급생과 신입생은) 수업권이나 학습권이 침해받을 것”이라며 “그렇게 되면 (대학교) 총장에게 책임을 묻고 구상권을 청구해서 쪽박을 차게 만들어주겠다”고 했다. “3년간 끝까지 (투쟁)하려고 생각하고 있다”고도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘치정 살인’에 나이는 없다... 40~60대 데이트 폭력 34%</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/31/QAY4ICC7ONC6BCDGQN64QPUGGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/QAY4ICC7ONC6BCDGQN64QPUGGY/</guid>
-      <dc:creator>김수경 기자, 장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 12:01:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AAFQOUBOZVCL5EFC64B5XX3OZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여성 상대 폭력 행사. /일러스트=정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 30일 ‘강남 모녀 살인 사건’은 지난달 6일 서울의 한 의대생 최모(25)씨가 강남역 인근 건물 옥상에서 연인을 찔러 살해한 지 채 한 달도 지나지 않아 발생했다. 범죄 전문가들은 “데이트 폭력이 이젠 ‘교제 살인’으로 이어지고 있다”며 “범행 빈도도 높아지고 수법도 잔혹해지고 있다”고 했다. 지난 3월엔 경기 화성에서 김레아(26)가 연인과 그 모친에게 흉기를 휘둘러 연인을 살해하고 모친에게 중상을 입힌 사건이 일어났다.&lt;br&gt;&lt;br&gt;경찰청 통계를 보면 교제 폭력 검거 피의자는 매년 늘고 있다. 2020년 8951명이었던 수치가 2023년 1만3939명으로 늘었다. 연령대도 젊은 층에만 국한되지 않는다. 경찰대 치안정책연구소 자료를 보면 2022년 9월 기준 교제 폭력 피의자 연령대는 20대가 3631명(36.8%)으로 가장 높았다. 30대는 2526명(25.6%)이었다. 40대와 50대도 각각 1768명(17.9%), 1207명(12.2%)이었다. 60대도 404명(4.1%)이었다.&lt;br&gt;&lt;br&gt;김상균 백석대 경찰학부 교수는 “요즘은 과거에 비해 연인 사이에서 ‘헤어지자’ ‘그만 만나자’ 같은 의사 표현을 적극적으로 하고 있다”며 “이를 받아들이지 못하는 사람들이 데이트 폭력, 교제 살인을 벌이는 것으로 보인다”고 했다. 김 교수는 데이트 폭력, 교제 살인이 청년·중년·노년 연령층을 가리지 않고 발생하는 광범위한 범죄임을 지적하며 “데이트 폭력 등에 대한 처벌을 법을 보완해서라도 강화해야 한다”고 했다. 특히 경찰이 ‘두 성인 간의 사적인 다툼’ 정도로 치부하는 관행을 더욱 개선해야 한다는 지적도 나온다. 남녀 성평등 교육을 통해 상대의 의사를 이성적으로 존중하는 훈련을 어린 시절부터 해야 한다는 여성계 지적도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>민희진 오늘은 모자 벗었다…기자회견룩 또 완판될까</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/31/LDDM5ZNUXNDNLDQ5HJ3GS5MY4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/LDDM5ZNUXNDNLDQ5HJ3GS5MY4I/</guid>
-      <dc:creator>김가연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 05:43:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2FVQINCSBGMLGJEMZ25UJAWTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민희진 어도어 대표가 31일 서울 중구 프레스센터에서 어도어 임시주주총회 관련 기자회견을 하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유임에 성공한 민희진 어도어 대표가 2차 기자회견에 나선 가운데, 민 대표의 ‘기자회견 룩’이 또 다시 화제를 모으고 있다.&lt;br&gt;&lt;br&gt;민 대표 측은 31일 오전 “오늘 오후 2시30분 임시주주총회 관련 입장을 설명하는 기자회견을 진행한다”라는 내용의 보도자료를 배포했다. 민 대표의 기자회견 예고는 그 즉시 여러 온라인커뮤니티와 소셜미디어로 퍼지며 화제가 됐다.&lt;br&gt;&lt;br&gt;앞선 기자회견에서 “개저씨(개+아저씨)들이 나 하나 죽이겠다고 온갖 카카오톡을 야비하게 캡처했다” “들어올 거면 맞다이로 들어와 뒤에서 X랄 떨지 말고” 등 속시원한 발언으로 화제가 된 만큼 네티즌들 사이에서는 “기대가 된다”는 반응이 나왔다.&lt;br&gt;&lt;br&gt;일부는 민 대표의 착장이 궁금하다는 반응을 보이기도 했다. 그도 그럴게 지난 기자회견 당시 녹색과 흰색의 럭비티셔츠와 파란색 볼캡을 착용했는데, 당시 온라인상에는 해당 제품 정보를 공유하는 글이 잇따라 게재됐다. 회견이 끝날 쯤엔 해당 제품이 쇼핑몰에서 품절되며 ‘완판’ 타이틀을 거머쥐었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5VIGW5BFLRGEDIYU5PKGQWFMOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민희진 어도어 대표가 31일 서울 중구 프레스센터에서 어도어 임시주주총회 관련 기자회견을 하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 기자회견에 등장한 민 대표는 1차 기자회견과는 사뭇 다른 모습이었다. 지난 회견에서는 민낯에 모자를 쓴 다소 수수한 모습이었다면, 이번에는 모자를 쓰지 않은 채 머리를 뒤로 묶고 밝은 노란색 상의에 청바지를 입었다.&lt;br&gt;&lt;br&gt;민 대표가 등장하자마자 온라인커뮤니티에는 “저 옷 어디거냐” “정보 나오면 링크 공유 좀” 등의 글이 쏟아졌다.&lt;br&gt;&lt;br&gt;민 대표가 입고 나온 노란색 상의는 한 일본 브랜드의 울 소재 가디건으로 알려졌다. 해당 제품은 한화로 약 34만원이며, 작년에 출시돼 이미 품절된 상태다.&lt;br&gt;&lt;br&gt;민 대표는 이날 밝은 표정으로 단상에 올라 마이크를 잡았다. 그는 “승소하고 인사드리게 돼서 가벼운 마음”이라며 “저의 상황과 생각을 말씀드리는 게 좋을 것 같아 기자회견을 열었다”고 말문을 열었다. 이어 “감사한 분들이 많아서 인사를 드리고 싶다. 생면부지의 사람을 응원해주신 분들이 제게 많이 힘이 돼주셨다”고 눈물을 글썽였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
