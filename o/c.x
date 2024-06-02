@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>실업급여 수급자 30%가 ‘60세 이상’... 10년새 2배 </title>
+      <link>https://www.chosun.com/national/labor/2024/06/02/WJWFD6XGYFEJ3E5JXBWHCMJYPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/06/02/WJWFD6XGYFEJ3E5JXBWHCMJYPY/</guid>
+      <dc:creator>김윤주 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Jun 2024 10:42:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AH5RZ2CPQFICRQHGCSRTOBX3S4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 시민이 실업급여를 신청하기 위해 서울 구로구 고용노동부 관악고용센터를 찾았다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 실업급여 수급자 10명 중 3명은 60세 이상인 것으로 나타났다. 고령화와 노인 빈곤 문제가 심각한 상황에서 일하는 노인은 늘었지만 안정적인 일자리는 적다 보니 나타난 결과로 분석된다. 실업급여는 고용보험에 가입한 근로자와 자영업자 등이 실업 상태가 됐을 때 생활 안정과 구직 활동 촉진을 위해 고용보험기금에서 지급하는 돈이다.&lt;br&gt;&lt;br&gt;2일 고용노동부 고용행정통계에 따르면 지난 4월 실업급여 수급자 수는 모두 68만325명으로, 전체 연령대 중 60~69세가 19만2369명(28.3%)으로 가장 많았다. 70세 이상 8433명까지 더하면 4월 전체 수급자 중 29.5%(20만802명)가 60세 이상이었다. 이어 50~59세(22.5%), 40~49세(16.6%), 30~39세(16.3%), 20~29세(15%) 순이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N4LGSVZ4MVAYHHDTC3CTNBZXBE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;실업급여 수급자 중 60세 이상의 비율은 10년 동안 2배 이상으로 늘었다. 10년 전인 2014년 4월에는 60세 이상 수급자가 전체의 13.4%에 그쳤다.&lt;br&gt;&lt;br&gt;연도별로 집계해도 2013년엔 전체 수급자 121만명 중 60세 이상이 13만2000여 명(10.9%)이었는데, 지난해엔 177만명 중 44만5000여 명(25.1%)으로 늘었다.&lt;br&gt;&lt;br&gt;고령층의 실업급여 수급 증가는 환갑을 넘겨서도 일하는 노인이 많아지고 있기 때문이다. 노인 상당수는 비정규직 등 상대적으로 불안정한 일자리에서 실직을 반복한 것으로 분석된다. 통계청에 따르면 지난해 8월 기준 60세 이상 근로자 중 비정규직 비율은 68.7%로, 전체 임금 근로자의 경우(37.0%)보다 높았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 금천서 형사팀장 뇌물 수수 의혹…경찰 압수수색 </title>
+      <link>https://www.chosun.com/national/national_general/2024/06/02/LEEWE6HUV5E5HGWVKCHPOAW6ZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/02/LEEWE6HUV5E5HGWVKCHPOAW6ZU/</guid>
+      <dc:creator>김도연 기자, 김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Jun 2024 11:58:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WXARDIJ5QNBLZD2PES5NVVVNPQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울 금천경찰서 청사 전경. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현직 형사팀장이 사기범으로부터 뇌물을 받은 혐의로 경찰 수사를 받고 있다.&lt;br&gt;&lt;br&gt;경기남부경찰청 형사기동대는 서울 금천경찰서 소속 형사팀장 A 경감을 뇌물수수 혐의로 수사하고 있다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;A 팀장은 80억원대 불법 리딩방 사기 사건으로 수사를 받고 있는 자금 세탁책 30대 여성 피의자 B씨로부터 100만원 가량의 돈을 받은 혐의를 받는다.&lt;br&gt;&lt;br&gt;경기남부경찰청은 불법 리딩방 수사를 벌이다 입수한 피의자 B씨의 휴대전화를 포렌식하던 중 A 팀장과 B씨가 돈을 주고받은 문자 메시지 등 범죄 혐의점을 포착했다.&lt;br&gt;&lt;br&gt;이에 경찰은 지난달 22일 A 팀장의 사무실 등을 압수수색했고 이후 A 팀장은 형사팀장에서 직위해제됐다.&lt;br&gt;&lt;br&gt;A 팀장은 “사건 관련성은 없었다”며 뇌물수수 혐의를 강하게 부인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편 경기남부경찰청은 불법 리딩방 사건과 관련해 자금 세탁책 B씨 등 3명을 지난 4월 구속 송치했으며 총책을 추적하는 등 수사를 확대하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“천재적 재능 아까워”…김호중 감싸기 청원도 등장</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/02/2NZUJYJ3RVHSDHDS7TMCSAHE6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/02/2NZUJYJ3RVHSDHDS7TMCSAHE6A/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Jun 2024 12:06:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6CRMNKBWNBMMRNNBEL6ALM6E34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;트로트 가수 김호중이 검찰로 송치되는 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주 뺑소니 혐의로 검찰에 송치된 트로트 가수 김호중(33)의 방송 퇴출 여부를 두고 팬들 사이에서도 엇갈린 반응이 나오고 있다. 최근 KBS 청원 게시판에는 김호중을 두둔하는 글이 올라오는 한편, 그의 영구 퇴출을 바라는 글들도 올라오고 있다.&lt;br&gt;&lt;br&gt;지난달 26일 KBS 시청자 청원 게시판에는 ‘김호중 가수 퇴출에 관한 반박 내용. 약 100억 기부 나눔의 선한 영향력인 김호중 아티스트’라는 제목의 청원 글이 올라왔다. 앞서 KBS는 지난달 29일 김호중에 대해 ‘한시적 방송 출연 정지’를 결정했다. KBS 측은 “법원의 판결 전이지만 김호중이 음주운전 도중 사고와 관련해 거듭된 거짓말로 심각한 사회적 물의를 빚었다”며 그 이유를 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TPCXBR2CAWTGTTZF72U3IN34MM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 26일 KBS 청원 게시판에 올라온 트로트 가수 김호중을 두둔하는 글. /KBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작성자 A씨는 “제가 참 아끼고 사랑하는 스타가 현재 언론의 뭇매를 맞고 있다. 그의 잘못을 두둔하려는 것은 아니다. 그는 분명 잘못했다”면서도 “(그는) 세기에 한번 나올까 말까하는 세계적인 천재 목소리를 갖고 태어난 아티스트”라고 적었다.&lt;br&gt;&lt;br&gt;그는 “그렇다면 그의 천재적인 재능을 아깝게 여겨서 그가 자숙하며 새로운 사람으로 거듭날 수 있도록 법은 냉정한 판단이 필요하지만 사회는 한 번은 보듬고 안아주어야 하는 관용이 필요하다”고 주장했다.&lt;br&gt;&lt;br&gt;이어 “그의 어렸을 때의 불안한 가정 환경 속에서 제대로 되는 무슨 교육을 받을 수 있었을까. 오히려 상처투성이의 정신적 트라우마가 심하게 남았을 것”이라며 “그가 저지른 죄는 밉지만 그의 곁에 옳고 그름의 판단을 가지고 그를 도와줄 진실된 사람이 하나도 없다는 것이 너무나 안타깝다”고 전했다.&lt;br&gt;&lt;br&gt;또한 “팬들이 지금까지 4년 동안 약 100억 원 가까이 어려운 이웃에게 기부할 수 있었던 이유는 김 씨가 가진 이름의 선한 영향력”이라며 “지금까지 아티스트로서 사회를 향해 선한 기부를 한 일에 대해 정상참작 해야 한다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “이번 사태에서 트바로티는 개인의 이익을 위해서 거짓으로 시간을 끈 것이 아니”라며 “공연 약속을 지키지 못하면 세계 4대 오케스트라 단원들과 소프라노 프리마돈나들에게 큰 민폐를 끼치는 것으로 생각했을 것이고, 7~80대 어르신 팬들을 위해서도 어쩔 수 없이 이루어진 고통의 선택이었을 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;해당 글은 2일 오후 8시 기준 1351명의 동의를 얻었다. KBS 측은 30일 동안 1000명의 동의를 얻은 청원 글에 대해 답변을 해야 한다.&lt;br&gt;&lt;br&gt;반면 김호중 퇴출을 요구하는 글들도 여럿 있었다. 한 네티즌은 지난 31일 ‘김호중 한시적 출연 정지가 아니라 영구 퇴출해야 한다’는 제목의 글을 올렸다. 그는 “김호중이 음주운전, 뺑소니 등 국민들에게 너무 나쁜 영향력을 주고 있다”며 “앞으로 우리 아이들이 살아갈 세상을 만들어가는데 누구보다 앞장서야 하는 방송사에서 이런 결정을 내렸다는 것을 이해할 수 없다”며 김호중의 영구 퇴출을 주장했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>前의협회장 “훈련병 사망 중대장 살인죄로 처벌”…고발 이유는? </title>
+      <link>https://www.chosun.com/national/national_general/2024/06/02/LXCD3IJQZJAEZBZDDQWKX7G34U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/02/LXCD3IJQZJAEZBZDDQWKX7G34U/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Jun 2024 10:49:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F4IWMDUBOYLTXNV76TMC5OFC5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;군기 훈련(얼차려)을 받다가 쓰러져 숨진 육군 훈련병의 영결식이 지난달 30일 오전 전남 나주 한 장례식장에서 엄수되고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;얼차려를 받던 중 쓰러져 사망한 육군 훈련병 사건 관련, 수사 대상에 오른 중대장에 대해 미필적 고의에 의한 살인죄로 처벌해달라는 고발장이 접수됐다. 해당 중대장이 대학에서 신체와 관련된 학과를 전공한 만큼, 과도한 군기 훈련은 사람을 사망에 이르게 할 수 있다는 점을 인지했을 거란 이유에서다.&lt;br&gt;&lt;br&gt;2일 최대집 전 대한의사협회장은 지난달 31일 육군 12사단 신병교육대 중대장을 법상 살인죄·직무유기죄, 군형법상 가혹행위죄 등으로 대검찰청에 고발했다고 밝혔다.&lt;br&gt;&lt;br&gt;최 전 회장은 고발장에서 “중대장은 대학에서 인체의 해부학, 생리학, 스포츠의학, 운동생리학 등을 전공한 만큼 신체에 대한 지식과 군 간부로서의 경험을 지니고 있었다”며 “완전군장 상태에서 구보와 팔굽혀펴기, 선착순 달리기 등이 군기 훈련 규정을 위반한 것이라는 점을 분명히 알았을 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4634NAARG5A7DCB2UOXASS6JNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 최대집 전 대한의사협회장은 지난달 31일 육군 12사단 신병교육대 중대장을 법상 살인죄·직무유기죄, 군형법상 가혹행위죄 등으로 대검찰청에 고발했다고 밝혔다./페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그는 “사고 당일 기온 등 날씨 환경을 고려하면 과도한 군기 훈련의 강요는 사람을 충분히 사망에 이르게 할 수 있다는 점을 확정적으로 또는 미필적으로나마 인식하고 있었을 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “이는 통상적인 업무 수행 중 의도치 않은 과실에 의해 사람을 죽음에 이르게 한 것이 아니라 죽음에 이를 수 있음을 미리 확정적 내지 미필적으로 인식하고 행위를 강요한 것이므로 살인의 의도를 지니고 사람을 죽음에 이르게 한 살인죄에 해당한다”고 전했다.&lt;br&gt;&lt;br&gt;그러면서 “야간에 떠들었다는 이유로 군기 훈련을 시킨 6명의 훈련병에게 가해진 군기 훈련의 내용은 육군 군기훈련규정을 모두 위반하는 것들”이라며 “6명의 훈련병에게 명령, 강제한 활동들은 군기 훈련이 아니라 사실상 고문에 준하는 행위들”이라고 주장했다.&lt;br&gt;&lt;br&gt;뿐만 아니라 그는 중대장이 지휘관으로서 취했어야 할 환자 상태 평가, 즉각적인 군기 훈련 중지, 즉각적인 병원 이송 등 조처를 하지 않은 점에 비춰 직무 유기 혐의도 있다고 봤다.&lt;br&gt;&lt;br&gt;다만, 법조계에선 미필적으로만 살인의 고의를 인정하기 어렵다거나, 현재까지 알려진 정보만으로는 살인죄 판단이 어렵다고 보는 분위기다.&lt;br&gt;&lt;br&gt;육군에 따르면 지난달 23일 오후 5시20분쯤 강원도 인제군 12사단 신병교육대에서 군기훈련을 받던 훈련병 6명 중 1명이 쓰러졌다. 쓰러진 훈련병은 병원으로 응급 후송돼 치료를 받았으나 이틀 만인 25일 오후 사망했다. 사망 사건과 관련해 수사 대상에 오른 중대장은 현재 일시 귀향 조처됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>의협, 시도 의사회장 긴급 회의… 내주 전체 의사 총파업 찬반 투표</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/06/02/CY65OME4CJF7TJBQE2BBREW42U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/02/CY65OME4CJF7TJBQE2BBREW42U/</guid>
@@ -923,32 +959,6 @@
       <content:encoded>▲&lt;b&gt;이준희&lt;/b&gt; 별세, &lt;b&gt;이재열&lt;/b&gt; 제이앤디커머스 대표·&lt;b&gt;이선주&lt;/b&gt; 부친상, &lt;b&gt;정진오&lt;/b&gt; OBS경인TV 법조팀장 장인상=31일10시 이대목동병원, 발인 2일6시30분, (02)2650-5121&lt;br&gt;&lt;br&gt;▲&lt;b&gt;장재술&lt;/b&gt; 별세, &lt;b&gt;장현우&lt;/b&gt; 한국전기공사협회 회장 부친상=31일1시32분 대구전문장례식장, 발인 2일7시30분, (053)961-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정만수&lt;/b&gt; 별세, &lt;b&gt;김주영&lt;/b&gt; 남편상, &lt;b&gt;정유경&lt;/b&gt; 헤럴드경제 신문제작부 차장대우·&lt;b&gt;정재원&lt;/b&gt;·&lt;b&gt;정유진&lt;/b&gt; 부친상, &lt;b&gt;박성대&lt;/b&gt; 비즈니스플러스 산업팀장·&lt;b&gt;박승준&lt;/b&gt; 어니스트 인테리어 대표 장인상=31일6시 용인평온의숲장례식장, 발인 3일7시30분, (031)329-5959&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[인사] 방송통신위원회 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/06/01/MRD3G4HWGRCWRLK36WOGN5ECHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/06/01/MRD3G4HWGRCWRLK36WOGN5ECHI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;b&gt;▲방송통신위원회&lt;/b&gt;◇과장급 전보▷지상파방송정책과장 김영주▷국제협력담당관 엄정환&lt;br&gt;&lt;br&gt;▲&lt;b&gt;과학기술정보통신부&lt;/b&gt;◇실장급 임용▷국립중앙과학관장 권석민&lt;br&gt;&lt;br&gt;▲&lt;b&gt;행정안전부&lt;/b&gt;◇실장급 전보▷디지털정부혁신실장 이용석&lt;br&gt;&lt;br&gt;&lt;b&gt;▲고용노동부&lt;/b&gt;◇과장급 전보▷고양지청장 박철준▷목포지청장 이재희&lt;br&gt;&lt;br&gt;&lt;b&gt;▲산업통상자원부&lt;/b&gt;◇과장급 전보▷국가기술표준원 지원총괄과장 박상철▷국가기술표준원 표준정책과장 박종섭&lt;br&gt;&lt;br&gt;&lt;b&gt;▲국토교통부&lt;/b&gt;◇과장급 전보▷도시정비기획과장 김기대▷성장거점정책과장 윤준상&lt;br&gt;&lt;br&gt;&lt;b&gt;▲질병관리청&lt;/b&gt;◇과장급 승진▷희귀질환관리과장 김지영&lt;br&gt;&lt;br&gt;▲&lt;b&gt;국가유산청&lt;/b&gt;▷궁능유적본부장 이재필&lt;br&gt;&lt;br&gt;&lt;b&gt;▲한국핵융합에너지연구원&lt;/b&gt;▷토카막운전기술본부장 박영민▷핵융합공학기술본부장 김웅채▷핵융합디지털연구본부장 권재민▷정책전략본부장 정현경▷기획조정본부장 우명정▷경영지원본부장 오창영▷성과확산센터장 고호은&lt;br&gt;&lt;br&gt;&lt;b&gt;▲한국원자력연구원&lt;/b&gt;▷경영기획본부장 조창연▷기획부장 이영철▷성과확산부장 유연형▷디지털경영·정보보안부장 임창현▷감사부장 조섭기&lt;br&gt;&lt;br&gt;&lt;b&gt;▲한국재료연구원&lt;/b&gt;◇소장·본부장▷극한재료연구소장 이창훈▷경량재료연구본부장 염종택▷재료공정연구본부장 강성훈▷나노재료연구본부장 송인혁▷융·복합재료연구본부장 이상복▷에너지·환경재료연구본부장 최승목▷바이오·헬스재료연구본부장 윤희숙▷재료데이터·분석연구본부장 이호원▷정책기획본부장 박영조(겸임)▷경영전략본부장 박기범▷행정본부장 강성렬◇부장·본부장·센터장▷감사부장 박대석▷소재혁신선도본부장 이상관▷소재 국가기술전략센터장 채재우▷국가나노기술정책센터장 문희성◇단장·센터장·실장▷원자력안전연구단장 송상우(겸임)▷3D프린팅공정연구센터장 송상우▷항공우주재료연구센터장 권용남▷수소·전지재료연구센터장 이승건▷재료분석센터장 송경▷산업기술지원센터장 원순호▷전략연구실장 문병근▷연구기획실장 송명관(겸임)▷경영기획실장 박희범▷예산실장 정인석▷연구운영실장 최기남▷기술사업화실장 전성민▷정보전산실장 전윤구▷인재개발실장 김미화▷총무구매실장 최재홍▷대외협력실장 이동기&lt;br&gt;&lt;br&gt;&lt;b&gt;▲성신여대&lt;/b&gt;▷교학부총장 이원호▷대학원장 이성건▷연구산학협력단장 겸 연구윤리센터장 송재민&lt;br&gt;&lt;br&gt;▲&lt;b&gt;서울시&lt;/b&gt;◇국장급 승진▷언론담당관 이준형▷노동정책담당관 조완석▷경제정책과장 최판규▷자치행정과장 송광남▷재무과장 권순기▷재난안전정책과장 김희갑▷도시공간전략과장 정성국▷도시기반시설본부 영동대로복합개발추진단장 최병훈▷미래공간기획담당관 김창규&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 한국신문윤리위원회 수도권·강원 지역 일간신문 기자 대상 윤리 교육 개최</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/06/01/FDS4WS5TEJCOZI6PPAQDQARF6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/06/01/FDS4WS5TEJCOZI6PPAQDQARF6A/</guid>
-      <description/>
-      <pubDate>Fri, 31 May 2024 15:30:00 +0000</pubDate>
-      <content:encoded>▲한국신문윤리위원회(이사장 서창훈)는 4일 언론진흥재단 미디어교육원 가온에서 ‘신문윤리강령 위반 심의 사례’를 주제로 수도권·강원지역 일간신문 기자 대상 윤리교육을 개최한다. 윤리교육은 신문윤리강령 준수를 서약하고 심의를 받고 있는 언론사를 대상으로 한 것으로, 심의 실무를 맡고 있는 심의실장·심의위원이 주제 발표 및 질의응답 등을 진행할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주서 식당으로 돌진한 전기차 SUV...운전자 병원 이송</title>
-      <link>https://www.chosun.com/national/incident/2024/06/01/OFLY6RAYAJHQLMBUC5CGFLXNXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/01/OFLY6RAYAJHQLMBUC5CGFLXNXQ/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 15:21:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TQBTEB6BSZHYNKRPQPNTSUKURQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/제주도 소방안전본부 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 서귀포에서 60대 관광객이 몰던 차량이 식당으로 돌진하는 사고가 발생했다.&lt;br&gt;&lt;br&gt;제주도 소방안전본부에 따르면 31일 오후 8시 23분쯤 A(60)씨가 몰던 소형 전기차량이 서귀포시내 한 식당으로 돌진했다.&lt;br&gt;&lt;br&gt;이 사고로 A씨가 오른쪽 팔을 다쳐 인근 병원으로 옮겨져 치료받았다.&lt;br&gt;&lt;br&gt;사고 당시 식당에는 사람이 있었으나 차량이 돌진한 위치에는 다행히 아무도 없어 추가적인 인명피해는 없었다.&lt;br&gt;&lt;br&gt;경찰은 자세한 사고 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>60대의 데이트 살인... 헤어지자는 말에 母女 찔렀다</title>
       <link>https://www.chosun.com/national/national_general/2024/05/31/WLYJV5X4BZHALALYTVE5IU6ITA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/WLYJV5X4BZHALALYTVE5IU6ITA/</guid>
@@ -960,15 +970,6 @@
         <media:description type="plain">서울 강남의 한 오피스텔에서 모녀를 흉기로 찌르고 달아난 뒤 하루 만에 검거된 60대 남성 용의자가 31일 오전 서울 수서경찰서로 압송되고 있다. /뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 박정호 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>‘응급실 뺑뺑이’ 환자 받아준 병원, 정부가 지원금 3배 준다</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/05/31/RV4VJ7BEXZFP3BDST6MJBRJBX4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/05/31/RV4VJ7BEXZFP3BDST6MJBRJBX4/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 11:07:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GZKW7KZEZKBZIJSBQH2FBJXEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 29일 서울 시내 한 상급종합병원 응급실에서 환자가 이송되고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의사가 없어 ‘응급실 뺑뺑이’를 돌고 있는 응급 환자를 받아준 병원엔 환자당 지원금 금액을 지금의 3배로 올린다. 전국의 47개 상급종합병원(대형 병원)뿐만 아니라 전국 응급 환자 진료가 가능한 전문병원도 지원 대상에 포함된다. 전공의 이탈로 병원 가동이 20~50%가량 줄어든 상황에서 각 병원의 응급·중증 환자의 수용을 유도하기 위한 차원이다.&lt;br&gt;&lt;br&gt;정부는 31일 응급 환자 치료 관련 보상액을 높이는 방안을 발표했다. 정부는 고난도 수술인 ‘신장 이식’ 수가(건보공단이 병원에 주는 돈)를 전면 인상하기로 했다. 기증자가 살아있는지, 뇌사 상태인지에 따라 신장 이식 수술의 난도가 달라지는데, 기존에는 수술 종류를 구분하지 않고 469만원의 수가가 동일하게 적용됐다. 오는 7월부터는 ‘생체 이식술’과 ‘뇌사자 이식술’ 수가가 기존 대비 120% 인상된 1032만원으로 오르게 된다. 한번 이식된 신장을 다른 환자에게 재이식하는 ‘재이식술’ 수가는 기존 대비 186% 인상된 1341만원으로 오른다.&lt;br&gt;&lt;br&gt;정부는 또 이날 이탈 전공의들을 향해 “이탈 기간이 다르면 그에 따른 처분 내용도 달라질 것”이라고 했다. 빨리 복귀한 전공의에 대해 불이익을 최소화하겠다는 것이다.&lt;br&gt;&lt;br&gt;이날 가톨릭의대 비상대책위원회는 서울 서초구 서울성모병원에서 ‘의정 갈등 넘어 미래 의료 환경으로’라는 주제로 심포지엄을 열었다. 김태근 가톨릭중앙의료원 전공의협의회 비대위 대표는 발표에서 “의사 부족이 문제가 아니라 이미 배출된 전문의들조차 자신이 전공한 분야가 아닌 다른 분야로 떠나도록 만드는 의료 시스템이 문제”라고 했다.&lt;br&gt;&lt;br&gt;김창수 전국의과대학교수협의회 회장은 이 행사에서 “내년 3월부터 (의과대학) 학생들이 유급되고 신입생마저 들어오게 되면 (함께 수업을 받는 유급생과 신입생은) 수업권이나 학습권이 침해받을 것”이라며 “그렇게 되면 (대학교) 총장에게 책임을 묻고 구상권을 청구해서 쪽박을 차게 만들어주겠다”고 했다. “3년간 끝까지 (투쟁)하려고 생각하고 있다”고도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
