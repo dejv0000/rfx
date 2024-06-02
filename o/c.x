@@ -13,6 +13,128 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>북한 2차 오물 풍선...경찰 신고 밤사이 전국 514건</title>
+      <link>https://www.chosun.com/national/2024/06/02/N4YTFVYHRNFIVHG6AUGDKFTBO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/06/02/N4YTFVYHRNFIVHG6AUGDKFTBO4/</guid>
+      <dc:creator>주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Jun 2024 02:32:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XHZKVFECPUOU7J756YE67YWNLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 경기도 파주시 운정동에서 발견된 오물풍선 내용물./군 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한이 지난 1일 살포한 대남 오물 풍선과 관련해 전국에서 경찰 신고가 2일 기준 500건 넘게 접수됐다.&lt;br&gt;&lt;br&gt;2일 경찰청에 따르면 전날(1일) 오후 9시부터 이날 오전 5시까지 약 8시간 동안 오물 풍선과 관련해 들어온 112 신고는 총 514건이다.&lt;br&gt;&lt;br&gt;물체를 발견했다는 신고가 295건, 재난문자 내용 등 관련 문의 신고가 219건이다.&lt;br&gt;&lt;br&gt;서울의 경우 양천구·영등포구·마포구 등 서부지역에서 112 신고가 집중됐다. 서울 동대문구 한국외대 캠퍼스 교수연구동에선 나뒹굴고 있는 대남 전단이 발견됐다. 북한이 보낸 풍선에 담겨 있었던 것으로 추정된다. 서울 동대문경찰서 관계자는 “군부대 및 유관기관 간 합동 대응을 했고, 일부는 군부대 회수, 나머지는 단순 오물(담배꽁초 등)로 판단해 구청에서 수거 조치를 했다”며 “오물 외 폭발물 등 특이 사항은 없었다”고 밝혔다.&lt;br&gt;&lt;br&gt;경기는 고양·파주·부천·안양 등지에서, 인천은 미추홀구·부평구·서구·중구 등지에서 밤사이 신고가 이어졌다.이밖에 강원 홍천·원주와 경북 예천·안동 등 수도권 외 지역에서도 오물 풍선을 목격했다는 신고가 들어왔다.&lt;br&gt;&lt;br&gt;1차 오물 풍선 살포 당시에는 28일 오후 9시부터 29일 오후 5시까지 약 20시간 동안 총 299건의 경찰 신고가 접수된 바 있다. 서울시는 수도방위사령부, 서울경찰청, 서울소방재난본부와 연계해 24시간 상황실을 운영하는 등 실시간 상황 파악 및 대응 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/XHZKVFECPUOU7J756YE67YWNLE.jpg?width=960&amp;height=678&amp;auth=77320a2a8caf90ee19df9c5ce6356be0c83dcfe3aea5204a9079d91ae7619c3f&amp;smart=true" type="image/jpeg" height="678" width="960">
+        <media:description type="plain">1일 경기도 파주시 운정동에서 발견된 대남 오물풍선 내용물. (함참 제공) ⓒ News1 박지혜 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>인천 영종도서 발견된 실탄 모두 42발… “수출용 탄약 가능성 높아”</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/02/EBY3AX5JTJDGLAPKAASRFXRBRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/02/EBY3AX5JTJDGLAPKAASRFXRBRY/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Jun 2024 02:33:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VI7Z4HY2QOFQ25ZK2OW62QQROY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;발견된 실탄 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 영종도 해안가에서 무더기로 발견된 실탄이 수출용 탄약일 가능성이 높은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;2일 경찰 등에 따르면 지난달 29일 오전 10시 13분쯤 실탄을 발견했다는 낚시객의 신고를 받고 출동한 군 당국과 경찰은 주변 해안가를 수색해 실탄 27발을 확인했다. 이어 금속탐지기 등을 이용해 주변을 추가로 수색한 결과 모두 42발을 발견했다. 발견된 실탄은 38구경 권총탄 34발과 구경 5.56mm 소총탄 8발이다.&lt;br&gt;&lt;br&gt;군 당국이 실탄을 조사한 결과 권총탄 34발에서는 국내 방산업체의 수출용 탄약에 표기되는 일련번호가 확인됐다. 소총탄 8발에서는 방산업체 일련번호가 확인되지 않았으나 권총탄과 같은 지역에서 발견된 점을 토대로 출처가 동일한 곳일 가능성이 높은 것으로 보고 있다.&lt;br&gt;&lt;br&gt;군 당국은 인천 주둔 군부대를 대상으로 탄약 반·출입 현황을 확인했으나 외부 유출 사례는 확인되지 않았다. 다만 탄약이 수출 과정에서 유실된 것인지 해외에서 역반입된 것인지 등 구체적인 출처는 아직 확인되지 않았다. 이들 실탄은 대부분 원형 형태를 유지하고 있었으나 실제 발사가 가능한지도 확인되지 않은 상태다.&lt;br&gt;&lt;br&gt;해경은 실탄 제조사를 대상으로 탄약 수출과정 등 경위 파악에 나설 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>파경 후 하차 결심한 선우은숙, 눈물 쏟으며 전한 마지막방송 소감은</title>
+      <link>https://www.chosun.com/national/people/2024/06/02/G6K63CZMKZBQHHUN7G42ZXE6GA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/02/G6K63CZMKZBQHHUN7G42ZXE6GA/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Jun 2024 02:14:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IANMCKENZFEDNON5ACV6EBFZCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;파경을 맞은 배우 선우은숙이 지난 1일 방송된 MBN '동치미'에서 하차 소식을 밝히며 눈물을 흘리고 있다./MBN '동치미'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 선우은숙(64)이 아나운서 유영재(60)와의 파경 이후 고정 출연 중이던 방송에서 스스로 하차하면서 눈물을 보였다.&lt;br&gt;&lt;br&gt;지난 1일 방송된 MBN 토크쇼 ‘속풀이쇼 동치미(이하 동치미)’에서 MC 최은경은 “오늘 녹화하면서 마음 한편이 계속 무겁고 답답했다. 선우은숙이 마지막 방송을 하게 됐다”며 하차 소식을 전했다. 방송은 지난달 9일 녹화된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;선우은숙은 “제가 오랫동안 ‘동치미’에 앉아 있으면서 오늘 같이 불편했던 게 처음인 것 같다”며 입을 열었다.&lt;br&gt;&lt;br&gt;그는 “개인적인 일로 시청자 여러분들이나 동치미를 사랑하는 팬들에게 걱정과 염려를 끼쳐드렸다”며 “사회적으로 물의를 일으킨 건 아니지만, 여러분에게 피로감을 안겨드린 게 너무 죄송하다”고 했다.&lt;br&gt;&lt;br&gt;해당 방송분 녹화 전날 ‘동치미’ 제작진에 하차를 얘기했다는 선우은숙은 “‘나 정말 못 하겠다’고 얘기했다. 정말 미안하더라. 여러분과 보냈던 시간들이 값지고 행복했는데, 이게 누구나 겪는 아픔은 아니지 않나. 우선 절 추스를 필요가 있겠다 싶었다”며 눈시울을 붉혔다.&lt;br&gt;&lt;br&gt;이어 “부족하지만 사랑해 주고 걱정해 주는 팬들이 큰 힘이 됐다”며 “격려와 응원으로 이 자리에 앉게 해준 시청자 여러분께 감사드린다. 아쉽지만 오늘 방송을 끝으로 ‘동치미’에선 여러분을 잠깐 못 뵐 것 같다. 그동안 감사했다”고 말했다. 하차소감을 전한 선우은숙은 결국 눈물을 보였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M535JDRX6NF7RD2VRJAJETMWG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;파경을 맞은 배우 선우은숙이 지난 1일 방송된 MBN '동치미'에서 하차 소감을 전하고 다./MBN '동치미'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;선우은숙은 2019년 10월부터 4년 7개월 동안 ‘동치미’ 패널로 출연해왔다. ‘동치미’ 출연 도중인 2022년 4살 연하의 아나운서 유영재와 재혼했으나 지난 4월 1년6개월만에 파경을 맞았다.&lt;br&gt;&lt;br&gt;이후 유영재의 삼혼설 등이 제기되자 선우은숙은 “이혼 이틀 만에 언론보도를 통해 유영재씨가 사실혼을 숨기고 결혼했다는 사실을 알게 됐다”며 수원지방법원 성남지원에 혼인 취소소송을 제기했다.&lt;br&gt;&lt;br&gt;선우은숙은 또 이혼을 결심한 결정적 계기로 유영재가 자신의 친언니를 강제 추행했다고 주장하기도 했다. 선우은숙 법률대리인 측은 선우은숙 친언니 A씨가 강제추행 혐의로 유영재를 분당경찰서에 고소했다고 밝혔다.&lt;br&gt;&lt;br&gt;유영재는 자신에게 제기된 각종 의혹을 부인하고 있다. 극도의 우울감을 호소한 그는 지난달 수도권의 한 정신병원에 입원한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“밭에 오물 풍선” 강원서 북한 오물 풍선 20여개 신고</title>
+      <link>https://www.chosun.com/national/regional/2024/06/02/QIFZQUAYTJFU5FMD7LOB42Q6QM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/02/QIFZQUAYTJFU5FMD7LOB42Q6QM/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>북한이 밤사이 대남 오물풍선을 또다시 살포하면서 강원 곳곳에서 풍선을 발견했다는 신고가 잇따랐다.2일 강원소방본부에 따르면 이날 오전 9시 8분쯤 강원 홍천군 영귀미면에서 오물 풍선이 있다는 신고가 접수되는 등 강원도 내에서 총 4건의 신고가 접수됐다.</description>
+      <pubDate>Sun, 02 Jun 2024 02:22:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YIPRV6TWNBOHFFQJNBPNWWSAAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오전 강원 양구군 한 밭에 북한이 보낸 것으로 추정되는 대남전단·오물 풍선이 놓여 있다. / 연합뉴스
+
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한이 밤사이 대남 오물풍선을 또다시 살포하면서 강원 곳곳에서 풍선을 발견했다는 신고가 잇따랐다.&lt;br&gt;&lt;br&gt;2일 강원소방본부에 따르면 이날 오전 9시 8분쯤 강원 홍천군 영귀미면에서 오물 풍선이 있다는 신고가 접수되는 등 강원도 내에서 총 4건의 신고가 접수됐다. 지역별로는 홍천 2건, 원주 1건, 태백 1건 등이다. 대부분 “밭에서 오물 풍선을 발견했다” “풍선을 보이는 물체가 있다” 등의 내용으로 신고됐다.&lt;br&gt;&lt;br&gt;강원도 북한 오물 풍선 관련 신고가 잇따르자 이날 오전 7시쯤 ‘북한이 에서 오물 풍선을 다시 부양하고 있다. 주민들은 적재물 낙하에 주의하고 발견 시 접촉하지 말고 군부대나 경찰에 신고 바란다’는 재난안전문자를 발송했다.&lt;br&gt;&lt;br&gt;강원도 관계자는 “낙하한 풍선에 의한 인명피해는 현재까지 발생하지 않았다”면서 “전날 밤부터 이날 아침까지 도내에선 대남 오물 풍선 20여개가 식별됐다. 발견 시 접촉하지 말고 군부대나 경찰에 신고 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“나는 의사, 누나는 검사” 교제 여성 속여 돈 뜯어낸 40대, 2심서 형량 높아져</title>
+      <link>https://www.chosun.com/national/regional/2024/06/02/EYPJR6WEFBAUFGNT2XBUZ2A7UY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/02/EYPJR6WEFBAUFGNT2XBUZ2A7UY/</guid>
+      <dc:creator>수원=권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Jun 2024 02:20:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBNPV6H7FY7BFFZUDIRCOPTQGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의사라고 사칭하며 피해 여성과 결혼을 약속하고 약 1억9000만원을 뜯어낸 40대 남성이 항소심에서 원심보다 무거운 처벌을 받았다.&lt;br&gt;&lt;br&gt;2일 법조계에 따르면 수원지법 형사항소5-3부(재판장 홍득관)는 사기 혐의로 기소된 A씨에게 징역 3년 6월을 선고한 원심을 파기하고 4년 6월을 선고했다. 재판부는 A씨의 범행 동기와 범행 후 정황 등 모든 양형 조건을 종합해봤을 때 원심의 형이 가볍다고 판단했다.&lt;br&gt;&lt;br&gt;A씨는 2022∼2023년 지인의 소개로 만난 여성 B씨로부터 약 1억9000만원을 가로챈 혐의로 기소됐다. 그는 정형외과 의사이며 누나는 검사, 매형은 판사라고 속이며 결혼을 전제로 교제를 했다. 수원 광교 신도시에 아파트를 보유하고 있다며 재력가로 행세하기도 했다.&lt;br&gt;&lt;br&gt;A씨는 B씨에게 “병원에서 월급을 받지 못해 현금이 없으니 돈을 빌려달라”고 속이는 등 7300여만원 상당을 받았다. 또 2022년 7월에는 “결혼 비용을 지인에게 줬는데 도망갔다”고 속여 B씨가 약 1억1600만원을 결혼비용 명목으로 송금하도록 했다.&lt;br&gt;&lt;br&gt;A씨는 이전에도 두 차례 의사를 사칭하는 수법의 사기 범행을 저질러 형사 처벌을 받은 전력이 있는 것으로 조사됐다. 또 2013~2019년 6차례에 걸쳐 사기 및 사기미수 등 혐의로 벌금형과 징역형 등 처벌을 받았다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피고인은 피해자에게 계획적으로 접근해 학력·직업 등을 속여 신뢰관계를 형성한 뒤 결혼할 것처럼 행세하며 거액을 편취했다”면서 “동종 수법의 사기 범행으로 여러 차례 형사처벌을 받았음에도 누범기간에 의사를 사칭하는 수법의 이 사건 범행을 다시 저질렀다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “피고인은 이 사건 범행 이후에도 다른 피해자를 상대로 의사를 사칭해 금원을 편취하는 범행을 저질렀다”며 “피해자는 금전적 피해 뿐만 아니라 결혼 상대방인 피고인으로부터 입게 된 배신감과 정신적 충격이 매우 크며, 2심에 이르기까지 피해를 회복하지 못한 점을 종합하면 원심의 형은 너무 가벼워 부당하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>포항국제불빛축제 구경하던 요트 좌초...탑승객 6명 전원 구조</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/06/02/T4GDUGANONE3XDYJ7NOHDZ7HNU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/06/02/T4GDUGANONE3XDYJ7NOHDZ7HNU/</guid>
+      <dc:creator>포항=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Jun 2024 02:15:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3CCAJBWYDXTXCPODBVERPRLGRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오후 10시 30분쯤 경북 포항시 북구 환호동 인근 바다에서 선장과 승객 등 6명이 탄 레저용 요트가 좌초돼 해경과 민간 해양구조대가 구조 작업을 벌이고 있다. /뉴스1.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘포항국제불빛축제’가 열리고 있는 경북 포항 인근 바다에서 레저용 요트가 전복됐다. 다행히 선장과 승객 등 6명은 1시간여 만에 구조됐다.&lt;br&gt;&lt;br&gt;2일 포항해양경찰서 등에 따르면, 지난 1일 오후 10시 30분쯤 경북 포항시 북구 환호항의 인근 바다에서 포항국제불빛축제를 구경하고 항구로 돌아가던 레저용 요트가 좌초됐다. 이 요트에는 선장과 승객 등 6명이 타고 있었다.&lt;br&gt;&lt;br&gt;축제 중 비상 상황에 대비하고 있던 포항해양경찰서는 구조 보트를 투입해 사고 1시간여 만인 같은 날 11시 30분쯤 6명을 모두 구조했다. 이들은 저체온증 증상을 보였지만, 생명에는 지장이 없는 상태로 전해졌다.&lt;br&gt;&lt;br&gt;포항해경 관계자는 “항구로 돌아가던 중 선박 프로펠러가 암초에 걸려 좌초된 것으로 보인다”며 “자세한 사고 경위는 조사 중”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>도와주려던 경찰에 주먹 휘두른 50대 취객 ‘집행유예 2년’</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/02/UPREJHJF5RAERAWL3ZW2BT46NM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/02/UPREJHJF5RAERAWL3ZW2BT46NM/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>술 취한 자신을 도와주려는 경찰에게 폭력을 휘두른 50대 남성이 법원으로부터 집행유예를 선고받았다.춘천지법 원주지원 형사3단독 황해철 판사는 공무집행방해 혐의로 기소된 A(51)씨에게 징역 8개월에 집행유예 2년을 선고했다고 2일 밝혔다.</description>
+      <pubDate>Sun, 02 Jun 2024 02:09:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7M24CIDTEVXIWAYM4SOBZVJC3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술 취한 자신을 도와주려는 경찰에게 폭력을 휘두른 50대 남성이 법원으로부터 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 원주지원 형사3단독 황해철 판사는 공무집행방해 혐의로 기소된 A(51)씨에게 징역 8개월에 집행유예 2년을 선고했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월 20일 오후 9시 18분쯤 강원 횡성군 한 도로에서 자신을 도와주려던 경찰관 B(48)씨의 얼굴을 주먹으로 3차례 때리고 발로 배를 1회 걷어찬 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;B씨는 “술에 취한 아저씨가 길에 누워 있다”는 신고를 받고 출동했으며, 술 취한 A씨를 도와주기 위해 인적사항을 물어보던 중 이 같은 일을 당했다.&lt;br&gt;&lt;br&gt;황 판사는 “경찰을 향해 주먹질하고 현행범 체포 과정에서 발길질하는 등 죄질이 가볍지 않다”면서 “피고인이 건강상의 문제로 말미암아 말을 잘하지 못하는 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“저소득 고령층일수록 외출 적고 메신저 이용률 낮아… 고립 심화”</title>
+      <link>https://www.chosun.com/economy/industry-company/2024/06/02/H77GN2TREBF23L4VB5YSMMGD2A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/economy/industry-company/2024/06/02/H77GN2TREBF23L4VB5YSMMGD2A/</guid>
+      <dc:creator>성유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Jun 2024 02:08:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D2XUX2EYIBFJ5P2BOEDGW7NKZM.png"&gt;&lt;figcaption&gt;&lt;small&gt;/SK텔레콤&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고령층의 소득이 낮을수록 외출 빈도가 줄고 소셜미디어(SNS) 같은 메신저 이용량도 줄어드는 것으로 나타났다. SK텔레콤은 통계청, 창원시와 함께 ‘어르신 세대의 정보불균형과 고립 현상’을 데이터로 분석해보니 이런 결과가 나타났다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇스마트폰 생활편의 서비스 이용률 낮아&lt;/b&gt;&lt;br&gt;&lt;br&gt;우선 64세 이상 연령대에선 스마트폰 서비스 이용량이 크게 줄어들었다. 특히 75세 이상인 경우 전체 세대 평균 스마트폰 사용량의 20% 수준에 그치는 것으로 나타났다.&lt;br&gt;&lt;br&gt;어르신 세대는 정보·여가 관련 서비스는 비교적 많이 이용하지만 금융·쇼핑 같은 생활편의 서비스는 적게 이용했다. 예컨대 64~74세 스마트폰 서비스 이용량을 보면 정보·여가 서비스는 평균의 64.8%로 비교적 높은 편이었지만, 생활편의 서비스는 37.2%에 그쳤다. &lt;br&gt;&lt;br&gt;SK텔레콤은 “어르신들이 교통 앱을 이용해 표를 사거나 금융 서비스를 이용하는 데 어려움을 겪고 있는 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3HC2INYPR5FULCFZ6HG5OGZJTU.png"&gt;&lt;figcaption&gt;&lt;small&gt;/SK텔레콤&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 소득이 낮을수록 소셜미디어 같은 메신저 이용량이나 외출 빈도가 많이 줄어드는 것으로 조사됐다. 64~74세 고령층을 보면 연소득 5000만원을 넘으면 메신저 이용률이 평균 대비 105.3%로 높았지만, 무(無)소득인 경우엔 69.1%에 그쳤다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇스마트폰 이용 정보 등 사용해 분석&lt;/b&gt;&lt;br&gt;&lt;br&gt;이번 분석에는 SK텔레콤 스마트폰 이용 정보를 150여개 분야로 세분화한 데이터와 통계청의 가구·소득 정보가 가명 처리돼 사용됐다.&lt;br&gt;&lt;br&gt;분석 결과는 지난 30일 창원시정연구원에서 열린 창원미래포럼에서 공개됐다. 창원시는 이번 분석 결과를 활용해 어르신 대상 정보 교육 프로그램을 개선해 나갈 계획이다. 또 행정동별 어르신 세대의 고립 규모를 파악하고 관련 정책 수립에도 활용할 예정이다.&lt;br&gt;&lt;br&gt;SK텔레콤은 전국 지자체와 통신데이터 활용 분석 관련 협력을 지속적으로 확대한다는 계획이다. 회사 측은 “지금까지 ‘재해 발생 시 시민들의 대피 방법 분석’, ‘서울시 거주 1인 가구의 생활실태와 경제적 위기에 대한 분석’ 등을 수행했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘1000만원’ 알바 유혹에 마약 운반한 30대 ‘징역 7년’</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/02/47VM2LEEVJAZXFU2ZMEQPSLO5E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/02/47VM2LEEVJAZXFU2ZMEQPSLO5E/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Jun 2024 02:03:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AZWLNE2CUVC4BNXL5R7VBKVCJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지방법원 전경 인천지법 전경 /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고액 아르바이트 유혹에 이른바 마약을 운반하는 ‘지게꾼’ 역할을 제안받고 해외에서 마약을 밀반입한 30대 남성이 중형을 선고받았다. 지게꾼은 해외에서 마약을 몸이나 옷 속에 숨겨 한국으로 옮겨주는 운반책을 뜻한다.&lt;br&gt;&lt;br&gt;2일 법조계에 따르면 인천지법 형사15부(류호중 부장판사)는 특정범죄가중처벌법상 향정 혐의로 기소된 A(35)씨에게 징역 7년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 1월 26일 인천국제공항을 통해 시가 1억원 상당의 필로폰 1㎏가량을 밀반입한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;그는 인터넷 포털 사이트에서 고액 알바라는 단어를 검색했다가 알게 된 공범으로부터 마약 운반책 역할을 제안받았다. 그는 캄보디아에서 마약을 한국으로 몰래 갖고 들어온 뒤 지정된 장소 10곳에 하나씩 파묻으면 1000만원을 받기로 한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;그는 범행 하루 전 캄보디아에 있는 호텔에서 공범으로부터 필로폰을 넘겨받은 뒤 필로폰 1㎏을 100ｇ씩 10개로 나눠 진공 포장해 국내로 밀반입했다. 공범의 검거 여부나 처벌 여부는 확인되지 않았다.&lt;br&gt;&lt;br&gt;재판부는 “마약 관련 범죄는 중독성 등으로 인해 사회에 미치는 해악이 매우 크다”며 “특히 마약 밀수는 추가 범죄로 이어질 가능성이 높아 엄하게 처벌할 필요가 있다”고 설명했다. 다만 재판부는 “피고인이 잘못을 인정하면서 반성하고 있다”며 “밀수입한 필로폰은 모두 압수돼 시중에 유통되지 않은 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>동거녀 폭행도 모자라 목 졸라 기절 시킨 40대 ‘징역 2년’</title>
+      <link>https://www.chosun.com/national/2024/06/02/HWUXDW2SXJGAFJKXBYFFINUYFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/06/02/HWUXDW2SXJGAFJKXBYFFINUYFE/</guid>
+      <dc:creator>울산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Jun 2024 01:58:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KNRAE2CTG775ASD46BRTJ6W7QA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산지법 전경. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭행 피해자인 동거녀에게 합의서 작성을 요구하고, 들어주지 않자 목을 졸라 기절시킨 40대 남성에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;울산지법 형사11부(재판장 이대로)는 특수협박, 특정범죄 가중처벌 등에 관한 법률 위반(보복상해) 혐의 등으로 재판에 넘겨진 A씨에게 징역 2년을 선고했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 4월 말 경남 양산의 자택에서 동거녀인 50대 B씨의 목을 졸라 기절시키고, 흉기로 위협한 혐의를 받는다.&lt;br&gt;&lt;br&gt;판결문에 따르면 A씨는 앞서 지나 2022년 5월쯤 B씨를 때려 전치 4주의 상해를 입힌 혐의로 재판을 받고 있었다. 이와 관련해 A씨는 B씨에게 합의서 작성을 요구했지만, B씨가 거부하자 이 같은 폭행을 저질렀다.&lt;br&gt;&lt;br&gt;비슷한 시기 청구한 보험금이 제때 지급되지 않아 B씨가 보험 담당자와 통화한 사실을 알게 된 A씨는 “담당자와 무슨 얘기를 했느냐”며 B씨의 목을 조르는 등 폭행해 늑골 골절 등 전치 4주의 치료를 요하는 부상을 입혔다.&lt;br&gt;&lt;br&gt;2021년 8월에는 헤어져 달라는 B씨의 요구에 흉기를 들고 위협한 일도 있었다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 B씨에 대한 위협이나 폭행이 없었다는 취지로 주장했다. 하지만 B씨 휴대전화에는 A씨가 흉기를 들고 있던 모습이 그대로 담겨 있었다고 한다. A씨는 “B씨가 흉기를 들게 시키고 휴대전화로 촬영했다”는 주장을 했지만, 재판부는 받아들이지 않았다.&lt;br&gt;&lt;br&gt;이대로 부장판사는 “피고인은 피해자와 동거하면서 지속적으로 폭행하고 목을 졸라 기절시키는 등 죄질이 무겁다”면서 “납득하기 어려운 변명으로 일관하면서 근거 없이 피해자를 비난하고 있고, 다수의 폭력범죄 전력이 있는 점, 재판 중 추가 범행을 저지른 점 등을 종합하면 실형 선고가 불가피하다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시, 북한 ‘오물 풍선’ 초동대응반 가동...24시간 대응</title>
+      <link>https://www.chosun.com/national/regional/seoul/2024/06/02/47NL35LLJJF6REQCT5TZXMTINU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/06/02/47NL35LLJJF6REQCT5TZXMTINU/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Jun 2024 00:03:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5CJ5BUJCAVP3NLVZF4Q7WFN2PQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 경기도 고양시 일산서구 일산도서관 앞에 북한이 날려 보낸 것으로 보이는 대남 전단 살포용 풍선 잔해 추정 물체들이 흩어져 있다. 합동참모본부는 앞서 북한이 다시 대남 오물 풍선을 보내고 있다고 밝혔다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 북한의 대남전단 및 오물 살포 풍선으로부터 시민을 보호하기 위해 ‘서울시 초동대응반’을 설치·운영하고 있다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;서울시는 수도방위사령부, 서울경찰청, 서울소방재난본부와 연계해 24시간 상황실을 운영하는 등 실시간 상황 파악 및 대응 중이다.&lt;br&gt;&lt;br&gt;서울시에 따르면 1일 밤 9시부터 2일 오전 6시까지 서울 전역에서 36건의 풍선과 대남전단 신고가 들어왔다. 신고가 들어온 지역은 경찰 출동 후 현장 출입을 통제하고 군 등과 공조해 낙하물수거를 완료했다고 한다.&lt;br&gt;&lt;br&gt;김명오 서울시 비상기획관은 “북한 대남전단 및 오염물 풍선 발견시 신속한 신고(군 : 1338, 경찰 : 112, 서울시 다산콜센터 : 120)를 당부드리며, 안전을 위하여 접촉을 자제해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;앞서 북한은 지난달 28일 밤부터 29일 오후까지 10여 시간에 걸쳐 오물을 매단 대형 풍선 260여개를 남쪽으로 살포하기도 했다. 북한이 최근 한 대북 단체의 대북 전단 살포를 ‘도발’로 규정하고 지난달 26일 “휴지장과 오물짝을 살포하겠다”고 예고한 지 이틀 만이었다.&lt;br&gt;&lt;br&gt;서울시는 1일 오후 8시 53분, 오후 9시 12분 두 차례에 걸쳐 “북한이 대남 오물풍선을 다시 보내고 있다”는 내용의 재난 문자를 보내기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>새만금 국제 철인 3종 경기 참가 60대, 경기 도중 사망</title>
+      <link>https://www.chosun.com/national/incident/2024/06/02/CBSJ5YL7T5GWBDUQJNIKOSTVAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/02/CBSJ5YL7T5GWBDUQJNIKOSTVAI/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Jun 2024 01:53:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QGPRDP4BDDDTVBJTVCT36OFFUA.png"&gt;&lt;figcaption&gt;&lt;small&gt;군산해양경찰서 전경.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 군산시에서 열린 새만금 국제 철인 3종 경기에 참가한 60대가 경기 도중 숨졌다.&lt;br&gt;&lt;br&gt;2일 군산해양경찰서에 따르면 이날 오전 7시 35분쯤 군산시 비응도 앞 해상에서 A(62)씨가 물에 뜬 채로 발견됐다. 당시 수상 안전요원이 A씨를 발견해 병원으로 이송했지만 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 대회 관계자 등을 상대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>북한 2차 ‘오물 풍선’ 공격...경기·인천서도 신고 잇따라</title>
+      <link>https://www.chosun.com/national/regional/2024/06/02/DUFJ25GONVGLNNEIK6RZTR2DBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/02/DUFJ25GONVGLNNEIK6RZTR2DBA/</guid>
+      <dc:creator>수원=권상은 기자, 인천=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Jun 2024 01:00:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBV3KDLBTOPZ47NTGGMPD7RMSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오전 인천시 미추홀구 용현동 도로에 북한의 대남 오물 풍선이 떨어져 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한이 2차로 대남 오물 풍선을 보내면서 1일 오후부터 경기와 인천 지역에서도 풍선을 발견했다는 신고가 잇따랐다.&lt;br&gt;&lt;br&gt;2일 경기도 소방당국과 경찰 등에 따르면 1일 오후 9시 3분쯤 고양시 일산서구 일산동의 도서관에 오물 풍선이 있다는 신고가 접수됐다. 이 풍선에는 쓰레기가 들어 있었던 것으로 파악됐다. 오후 9시10분에는 고양시 덕양구 주교동의 골프연습장에서도 오물 풍선이 발견됐다.&lt;br&gt;&lt;br&gt;또 1일 야간에 파주시 목동동, 부천시 소사본동, 고양시 대화동, 안양시 박달동에서도 오물 풍선 발견 신고가 접수됐다. 소방당국과 경찰 등은 현장 확인 후 군부대에 인계했다. 이 밖에도 행정기관이 발송한 재난문자와 관련한 문의도 119에 다수 접수된 것으로 나타났다.&lt;br&gt;&lt;br&gt;인천 지역에서도 지난 1일 밤부터 2일 오전까지 모두 8건의 오물 풍선 관련 신고가 접수됐다. 1일 오후 9시 37분에는 월미공원에서 119 신고가 접수됐으며 이후 서구 청라동, 중구 운서동, 미추홀구 용현동 등에서도 신고가 잇따랐다. 소방당국과 경찰은 현장에 출동해 통제선을 설치해 안전 조치를 한 뒤 군부대에 인계했다. 이들 풍선에도 오물 등이 들어있는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM5OCZHBSFOIHGIY2VZPTCB4DY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오후 인천시 계양구 길가에 북한이 보낸  오물 풍선 잔해가 떨어져 있다. /인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;합동참모본부에 따르면 북한은 전날 오후 8시께부터 오물풍선을 띄웠다. 확인된 풍선 내용물은 지난달 처음 발견됐을 때와 유사하게 담배꽁초, 폐지, 비닐 등 오물·쓰레기인 것으로 파악됐다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“민희진 기자회견룩 120만원에 팔아요”…2배 웃돈까지 붙었다</title>
       <link>https://www.chosun.com/national/national_general/2024/06/02/CB4AHC3EXVERLDV25Q6DT6SR7Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/02/CB4AHC3EXVERLDV25Q6DT6SR7Q/</guid>
@@ -682,48 +804,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YZVKXCTK5VEL7CLP7QAJ3HYIYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 사상경찰서 전경. /부산 사상경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 특수학교 교사가 장애 학생을 삼단봉으로 폭행해 경찰 조사를 받게 됐다.&lt;br&gt;&lt;br&gt;부산 사상경찰서는 장애인복지법상 상해 혐의로 특수학교 교사 A씨를 입건했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 27일 오전 9시쯤 부산의 한 특수학교에서 장애 학생 10대 B군을 폭행해 다치게 한 혐의를 받고 있다. A씨는 B군이 조례 참석을 거부하고 수업 시간에 말을 듣지 않는다는 등의 이유로 삼단봉으로 B군의 엉덩이를 여러 차례 때린 것으로 알려졌다.&lt;br&gt;&lt;br&gt;B군은 현재 병원에서 치료를 받고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “조만간 A씨를 소환해 정확한 사건 경위 등에 대해 조사할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 운세] 6월 1일 토요일 (음력 4월 25일 丙申)</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/31/USIMCAEUXVENVEJH2HVLYZYI7I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/USIMCAEUXVENVEJH2HVLYZYI7I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 기적도 최선 다할 때 생긴다. 48년생 기도와 정성에는 무쇠도 녹는다. 60년생 친구 따라 강남 가 봐도 별것 없다. 72년생 100% 만족은 기대 말라. 84년생 윗사람 조언 따라보는 것도 좋을 듯. 96년생 말투 하나에 감정 상할 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 잘돼도 못돼도 일희일비할 것 없다. 49년생 감언이설에 현혹되지 않도록. 61년생 집이 답답해도 외출 삼가야. 73년생 어딜 가도 인정받을 수 있다. 85년생 내 실수도 있으니 시시비비 가리지 말라. 97년생 단 샘이 먼저 마른다 했다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 약간 장애가 앞길 막을 수도. 50년생 맹수는 함부로 발톱 보이지 않는다. 62년생 심리적 안정이 무엇보다 우선. 74년생 일에는 단계 있음을 명심. 86년생 큰 그물 아니면 고래 못 잡는다. 98년생 푸른색과 숫자 3, 8이 행운 부른다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 마른 나무에 새 싹이 돋는구나. 39년생 금전이나 사람 때문에 번민한다. 51년생 낙법(落法)이 권법(拳法)보다 먼저. 63년생 늦더라도 하는 게 안 하기보다는 낫다. 75년생 끝까지 긴장 풀지 말아야. 87년생 우회 도로 이용하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 현재는 제자리 지키기가 중요. 40년생 건강관리에 각별히 신경 쓰도록. 52년생 행복 속에선 행복 모른다. 64년생 사건 사고에는 분명한 원인 있다. 76년생 실리도 좋지만 명분을 먼저 생각하라. 88년생 남의 것이면 욕심 내지 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 주위에 범띠 있다면 그가 귀인. 41년생 미처 몰랐던 수완을 발휘할 듯. 53년생 소중함은 무엇보다 화목에 있음을 명심. 65년생 이동 과정에서 안전사고 유의. 77년생 숨 쉬고 살아 있는 한 희망은 있다. 89년생 급히 먹는 밥이 체하는 법.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 사탕발림으론 오래가기 어렵다. 42년생 격렬한 운동보다 가벼운 산책이 좋을 듯. 54년생 어떤 일 있어도 자존심 지키도록. 66년생 일단 움직이며 생각해도 늦지 않다. 78년생 1회뿐인 인생 재방송도 없다. 90년생 남쪽에 서기(瑞氣) 서린다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 언 발에 오줌 눠 봐야. 43년생 천천히 추진하라, 조급하면 손해. 55년생 상대방 의견 따르면 결과 좋다. 67년생 태양도 뜨지만 비 오는 날도 있다. 79년생 공부 관련은 학습 효과 배가되는 시기. 91년생 무더운 여름 있어야 곡식 여물지.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 행동보다 말이 앞서면 손해. 44년생 무엇이든 혼자보다는 친구 동료와 함께하라. 56년생 배우자와 다툼 주의. 68년생 굽힐 줄 알아야 펼 줄도 알지. 80년생 술자리, 회식 자리 언행을 각별히 주의. 92년생 이성적인 판단으로 대처해야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 다투지 말라, 訟事(송사)가 두렵다. 45년생 분주하고 번잡한 일이 많다. 57년생 매사 겸손한 자세를 견지하라. 69년생 문제는 속도가 아닌 완성도. 81년생 사람들과 맺은 관계에 자금과 시간 투자 필요. 93년생 궁하면 변하고 변하면 통하는 법.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 인내와 의지만이 모든 것을 가능케 한다. 46년생 만족을 알면 부족함 없다. 58년생 섣부른 투자는 손실만 초래. 70년생 중문(中門) 출입이 이롭다. 82년생 내일 걱정까지 미리 할 필요 있나. 94년생 하고 싶은 말 있어도 일단 참아라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 내일 일은 내일 생각하라. 47년생 우유부단한 처신이 이로울 수도. 59년생 발상 전환으로 상식의 틀 깨라. 71년생 이해와 관련한 부정 청탁은 과감히 거절하라. 83년생 새 자세로 임하면 나날이 새롭다. 95년생 인내로 못 받을 보상은 없다.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 6월 2일 일요일 (음력 4월 26일 丁酉)</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/31/UQ67L736WNGJRNW7YLOCL45DPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/UQ67L736WNGJRNW7YLOCL45DPA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 뇌·심혈관 계통 질환은 사전 주의. 48년생 기회 왔으니 시도해봐도 무방. 60년생 어려움 겪어야 기개 나타난다. 72년생 부뚜막 옆도 굶는 수 있다. 84년생 분에 넘치는 명예가 화 부를 수도. 96년생 누런색과 숫자 5, 10 행운 부른다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 융화 추구하되 동화되진 말아야. 49년생 포기도 또 다른 선택. 61년생 논란거리에 관여는 금물. 73년생 기대 크면 실망도 큰 법. 85년생 투자 방향에 재검토 필요한 시기. 97년생 남쪽에 사기(邪氣) 감도니 피하는 게 상책.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 동료가 시기하니 주위 경계하라. 50년생 성인 아닌 이상 실수는 늘 있는 법. 62년생 자금 사정 여유롭다면 투자는 좋다. 74년생 오랜 친구와의 언쟁 주의. 86년생 서쪽 대문은 귀인 오는 길목. 98년생 잊고 지낸 인연 찾아보면 좋을 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 하루가 일 년을 좌우 못한다. 39년생 이미 함께면 의심하지 마라. 51년생 지금 단계에 해야 할 일 진행하도록. 63년생 일꾼 박대하면 당일 망하는 법. 75년생 새 문서로 갈아타는 게 좋을 듯. 87년생 제 먹긴 싫고 남 주긴 아깝고.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 앉아서 준 돈 서서라도 받으면 다행. 40년생 요행·사행 관련은 밑 빠진 독 물 붓기. 52년생 한번 깨진 신뢰 복원 쉽지 않다. 64년생 문서와 도장 신중히 다루도록. 76년생 규칙적인 운동으로 삶의 활력을. 88년생 전반적 운세는 반흉반길.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 다급할수록 여유롭게 대처해야. 41년생 새 삶 개척하기에 늦지 않다. 53년생 매가 꿩 잡고 싶어 잡아주나. 65년생 상갓집은 가급적 멀리하는 게 상책. 77년생 의욕 충만하되 과욕은 금물. 89년생 한쪽 말만 듣고 섣부른 결정 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 문제 있다면 가족에게 해답 있다. 42년생 지금은 어려워도 머지않아 보상 따를 듯. 54년생 제 발등 제가 찍는구나. 66년생 세상은 먼저 날 버리지 않는다. 78년생 거지끼리 동냥 바가지 깨서야 쓰나. 90년생 희생 따라도 돌파하는 자세 필요.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 지금 당장은 아니어도 서서히 풀릴 듯. 43년생 움츠리지 말고 적극 실행하라. 55년생 여유로운 마음가짐이 행복 부른다. 67년생 백두산도 앞동산이 가릴 수 있다. 79년생 친구가 시기하니 주위를 경계. 91년생 내 편리만 고집하면 미움 받을 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 중요한 일 처리는 오전보다 오후에. 44년생 침착성과 안정 잃지 말아야. 56년생 자동차 등 노상(路上) 안전사고 조심. 68년생 적은 멀리 있지 않으니 등 뒤 살피도록. 80년생 외부 활동은 이익도 손실도 없다. 92년생 예감과 꿈 잘 맞는 하루.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 망망대해에서 나침반 잃은 격. 45년생 매가 꿩 잡고 싶어 잡아주나. 57년생 뒷배만 믿고 밀어붙이면 손해 보기 십상. 69년생 헛된 욕심에 무리수 두진 말아야. 81년생 빨리 다는 화로가 빨리 식는 법. 93년생 직장 변동과 주거 이동 많은 시기.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 지나간 일 미련 둘 것 없다. 46년생 요령과 잔꾀로 해결될 일 아니다. 58년생 친한 지인들과 기분 전환 시간 갖도록. 70년생 기도와 수행으로 마음과 정신 맑게. 82년생 농조(籠鳥)가 하늘로 나는구나. 94년생 두뇌 회전 활발해지는 시기.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 작은 실수는 덮고 가라. 47년생 오해 살 언행은 절대 삼가라. 59년생 무리하지 않는 선에서 투자도 좋을 듯. 71년생 푸른 옷 입은 사람을 조심하라. 83년생 이 덕(德) 저 덕 모두 하늘 덕임을 알라. 95년생 떡 주무르듯 주도적으로 끌고 갈 듯.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
       <title>스피또1000 발권 오류로 20만장 회수한 동행복권 전·현직 대표, 검찰 송치</title>
       <link>https://www.chosun.com/national/national_general/2024/05/31/SGBS6XS7DRFXNDC23VEGRLSFTA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/SGBS6XS7DRFXNDC23VEGRLSFTA/</guid>
@@ -823,46 +903,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z4ALSIWK3VEDFI3VADUN2A2HNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 21일 낮 12시 26분쯤 서울 지하철 1호선 서울역 승강장에서 피해자에게 범행이 발각되자, 목격자인 척 손짓을 하며 범인을 쫓아가라고 말하는 상습 소매치기범 50대 남성 A씨의 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지하철에서 상습적으로 소매치기를 한 50대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울경찰청 지하철경찰대는 31일 최근 전동차에서 잠금장치 없는 가방을 멘 여성을 노려 지갑과 현금 등을 훔친 혐의로 50대 남성 A씨를 검거했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 21일과 28일 두 차례에 걸쳐 180만원 상당의 금품을 훔친 것으로 조사됐다.&lt;br&gt;&lt;br&gt;특히 A씨는 지난달 21일 지갑을 훔치던 중 피해자에게 발각될 뻔 하자, 목격자인척 “저기 앞”이라고 소리치면서 다른 방향을 가리켜 주의를 분산시키곤 그대로 달아났다. 이후 들킬까 두려워 훔친 지갑에서 발견한 피해자 명함에 적힌 번호로 직접 전화를 걸어 경찰에 신고했는지를 묻기도 했다. 당시 피해자가 신고했다고 하자, A씨는 “범인이 지갑만 버리고 열차를 타고 가버렸다”고 둘러댄 뒤 범행 현장으로 돌아가 지갑을 역무실에 맡겼다.&lt;br&gt;&lt;br&gt;A씨는 전과 21범으로, 이 가운데 19건은 절도 전력인 것으로 확인됐다. 심지어 지난 2월 출소 뒤 3달도 지나지 않아 다시 같은 범죄를 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;결국 A씨는 지난 18일 구속됐다.&lt;br&gt;&lt;br&gt;한편 지하철경찰대는 지하철 내 편의점에서 담배 140만5000원어치와 현금 32만5000원을 훔친 B씨 검거에도 성공했다. B씨 역시 동종 전과 17범으로, 지난달 21일 출소 뒤 나흘만에 절도 행각을 벌인 것으로 드러났다. B씨는 훔친 현금과 담배를 생활비 등에 모두 쓴 것으로 조사됐다.&lt;br&gt;&lt;br&gt;지하철 내 소매치기 사건은 생각보다 빈번하게 발생한다. 최근에는 퇴근 시간 열차 내부가 혼잡한 틈을 노려 승객의 현금을 훔친 전과자들이 잇달아 검거되기도 했다. 이에 경찰은 “지하철 내 소매치기 예방을 위해 잠금장치가 없는 가방은 앞으로 메고 탑승하고 상가 침입 절도 예방을 위해 단순한 비밀번호를 사용하지 말아달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘4년째 열애중’ 하니·양재웅 9월 결혼설... 소속사 “확인 어려워”</title>
-      <link>https://www.chosun.com/national/people/2024/05/31/OV7QDT3XDZASNBKMWVQJ3YIQPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/05/31/OV7QDT3XDZASNBKMWVQJ3YIQPM/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 07:39:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G7TDC3F5URDJLGKRSLN4Z7EEDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 EXID 출신 배우 하니와 정신건강의학과 의사 양재웅. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 EXID 출신 배우 하니(본명 안희연·32)와 정신건강의학과 의사 양재웅(42)이 오는 9월 결혼한다는 보도가 나왔다. 하니의 소속사는 “사생활이라 확인이 어렵다”는 입장이다.&lt;br&gt;&lt;br&gt;31일 스포츠경향에 따르면 두 사람은 오는 9월 4년간의 열애 끝에 웨딩마치를 울릴 예정이다. 이 매체는 “서로 인생의 반려자로 여겨 결혼을 결정, 양가의 축복 속에서 본격적으로 결혼식을 준비하고 있다”고 했다.&lt;br&gt;&lt;br&gt;하니와 양재웅은 지난 2022년 열애 사실을 공식 인정하며 공개 연애를 해왔다. 열애설이 불거지자 당시 하니의 소속사 써브라임 측은 “하니 씨와 양재웅 씨가 좋은 만남을 갖고 있다”면서 “따뜻한 시선으로 바라봐 주시면 감사하겠다”고 인정했다. 10살의 나이 차이가 나는 두 사람이 열애설을 인정한 당시 이미 2년째 연애 중이라는 사실이 알려졌다.&lt;br&gt;&lt;br&gt;하니는 그동안 인스타그램을 통해 양재웅에 대한 애정을 공개적으로 표현해왔다. 지난해 11월에는 양재웅과의 만남 999일을 기념해 인스타그램에 함께 찍은 즉석 사진을 올렸다. 다음날에는 1000일을 기념해 양재웅과 손가락으로 숫자 1000을 표현하는 사진을 공개하기도 했다.&lt;br&gt;&lt;br&gt;하니 소속사 써브라임은 조선닷컴과의 통화에서 “배우의 사생활이라 확인하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;2011년 걸그룹 EXID로 데뷔한 하니는 2014년 ‘위 아래’ 직캠 영상이 화제가 돼 이 노래가 역주행하며 큰 인기를 끌었다. 이후 배우로 전향해 영화 ‘어른들은 몰라요’와 각종 예능 프로그램에 출연해왔다. 양재웅은 정신건강의학과 전문의로 다양한 방송 프로그램에 패널로 출연해 얼굴을 알렸다. 그는 정신건강의학과 전문의인 형 양재진과 함께 유튜브 채널도 운영 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오세훈 “지구당 부활, 제왕적 당 대표 강화할 뿐” </title>
-      <link>https://www.chosun.com/national/regional/seoul/2024/05/31/A2WCQUDVNJGJBKJOXFGNOOUKQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/05/31/A2WCQUDVNJGJBKJOXFGNOOUKQY/</guid>
-      <dc:creator>안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 05:57:10 +0000</pubDate>
-      <content:encoded>국회의원 시절 이른바 ‘오세훈법’으로 지구당을 폐지한 오세훈 서울시장이 정치권의 지구당 부활 움직임에 목소리를 냈다.&lt;br&gt;&lt;br&gt;오세훈 시장은 31일 본인의 페이스북에 ‘지구당은 국민을 위한 것이 아니라 일극 제왕적 당대표를 강화할 뿐이다’라는 제목의 글을 올렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AQ6WQFHIC3IRMEEJSMGCK6CHGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 “원외 정치인들이 겪는 어려움이나 형평성 문제를 알기 때문에 지난 며칠 고민에 고민을 거듭했다”면서 “그러나 여야가 함께 이룩했던 개혁이 어긋난 방향으로 퇴보하려는 것에 대해서는 분명히 짚고 넘어가려 한다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “오세훈법은 돈먹는 하마라고 불렸던 당 구조를 원내정당 형태로 만들어 고비용 정치 구조를 획기적으로 바꾸어 보자는 것이었다”고 했다. 이어 “미국처럼 당대표가 없고 원내대표가 당을 이끌어 가며 입법 이슈를 중심으로 정치가 흘러가게 하는 것이 이상적이다”라고 하며 “오세훈법 개정 후 20년이 지난 지금도 한국에선 당대표 중심의 구조가 여전하다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “솔직히 말해 보자. 당대표나 당 조직은 자기 당을 위한 선거 조직이며 특히 한국에서는 그로 인해 정쟁이 유발되며 격화한다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “과거 지구당은 지역 토호의 온상이었다”며 “지구당 위원장에게 정치 헌금을 많이 한 사람이 지방의원을 하는 사례가 비일비재했고, 그들은 지역 이권에 개입했다”고 했다. 이어 “선거와 공천권을 매개로 지역 토호-지구당 위원장-당대표 사이에 형성되는 정치권의 검은 먹이 사슬을 끊어내고자 하는 것이 오세훈법 개혁의 요체였다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PEWSGADRFJOR7GZENZC3SRDCVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제22대 국회 임기 시작일인 30일 오후 서울 여의도 국회의사당에 개원 축하 현수막이 걸려 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 “공천권이 당대표에게 있는 한국과 달리 미국은 완전국민경선제(오픈 프라이머리)를 통해 국민이 공천권을 행사한다”며 “미국 정치인은 국민을 바라보고 소신 정치를 할 수 있다”고 했다. 오 시장은 “이것이 얼마 전 국민의힘 당대표 선거에서 국민 100% 경선이 필요하다고 말한 이유”라고도 했다.&lt;br&gt;&lt;br&gt;오 시장은 “여야가 동시에 지구당 부활 이슈를 경쟁적으로 들고 나온 이유는 당대표 선거에서 이기고 당을 일사불란하게 끌고 가려는 욕심이 있다는 것이 나의 판단”이라며 “지구당은 당대표가 당 장악에는 도움이 되겠지만 그게 국민들에게는 무슨 도움이 되겠느냐”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/AQ6WQFHIC3IRMEEJSMGCK6CHGY.jpg?width=6259&amp;height=4173&amp;auth=7fc88d752860ea0693c4a148aebf3ae5177b2dc2563b175f37d06243a1ad029d&amp;smart=true" type="image/jpeg" height="4173" width="6259">
-        <media:description type="plain">오세훈 서울시장. (공동취재) 2024.5.28/뉴스1 ⓒ News1 박지혜 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 박지혜 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>의대교수협 “정원 늘린 대학 총장, 쪽박차게 하겠다…구상권 청구”</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/31/ACRDYB4I5RESDFQAR3QCAGRCQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/ACRDYB4I5RESDFQAR3QCAGRCQA/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 07:28:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VVQ7ITVBQJA5JJUUVAIVCN43FI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김창수 전국의과대학교수협의회장이 31일 오전 서울 서초구 서울성모병원에서 가톨릭대학교 의과대학 교수협의회와 비상대책위원회가 주최한 '의정갈등을 넘어 미래 의료 환경으로' 심포지엄에서 발언하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의대 교수들이 내년도 의대 입학 정원을 증원한 대학 총장들을 상대로 민사소송을 제기하고 구상권을 청구하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;전국 40개 의대 교수 단체인 전국의과대학교수협의회(전의교협)를 이끄는 김창수 회장은 31일 서울성모병원에서 열린 가톨릭의대 교수협의회 비상대책위원회 심포지엄에서 “(의대 증원된) 대학 총장을 대상으로 내년에 민사소송을 제기하려고 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;김 회장은 “고등법원은 (의대 증원으로) 학생들이 피해를 본다는 것을 일단 인정했다. 실제 학생들이 유급되고 내년 3월부터 신입생이 들어오면 학생들의 수업권과 학습권이 침해될 것”이라며 “2차전으로 총장을 대상으로 민사소송을 제기하려고 한다”고 했다.&lt;br&gt;&lt;br&gt;김 회장은 “소송 당사자 원고는 학생이 되고, 피고는 대학교 총장”이라며 “총장에게 책임을 묻고 구상권을 청구해서 쪽박을 차게 하겠다. 3년간 끝까지 (투쟁)하려고 생각하고 있다”고 했다.&lt;br&gt;&lt;br&gt;김 회장은 이와 더불어 의대 교수들이 대학과 근로계약을 할 때 대학에서 수행하는 교육·연구와 의사의 본래 업무인 진료를 분리해 계약하는 방안을 추진하겠다고도 밝혔다.&lt;br&gt;&lt;br&gt;김 회장은 “정부가 법적으로 의대 교수들에게 요구하는 것은 교육과 연구 두 가지”라며 “현재 계약 구조상 의대 교수는 (의사로서) 병원 진료에 대해 계약하지 않고 교수로서의 계약만 하고 있다. 진료하는 이유는 당연겸직이기 때문”이라고 말했다.&lt;br&gt;&lt;br&gt;김 회장은 “의대 교수 노조를 활성화해 병원 진료에 대해 교육·연구와 별도의 계약 관계를 만드는 것을 올해부터 내년 초 사이에 추진하려고 한다”며 “이를 통해 향후 유사한 사태가 벌어졌을 때 법적 신분을 보장받을 수 있고, 투쟁이나 파업 시 정당성을 확보할 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “현재 의대 교수들은 교수로서 교육과 연구만 하겠다고 해도 법적으로 아무런 문제가 없다. 다만 병원에 환자와 간호사 등 직원이 있기 때문에 진료하는 것”이라며 “앞으로는 규정과 제도를 명확히 해서 별도의 계약을 추진할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>충남대 의대 증원 학칙 개정안 확정…내년 158명 모집</title>
-      <link>https://www.chosun.com/national/regional/2024/05/31/ZN5RBFCCPFBJ7H3HU5QQPEFS5E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/05/31/ZN5RBFCCPFBJ7H3HU5QQPEFS5E/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 07:55:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GTY63HQB6NB2ROEQCFH22N3BOI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;충남대학교 정문 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 30일 대학평의원회에서 한차례 부결됐던 충남대 의대 정원 증원 관련 학칙 개정안이 31일 평의원회 재심의를 거쳐 최종 확정됐다.&lt;br&gt;&lt;br&gt;이에 따라 충남대 의대 의예과 입학 정원은 기존 110명에서 정부가 배정한 90명을 증원한 200명이 됐으며, 이를 학칙에 반영했다. 다만 2025학년도 신입생의 경우 증원 인원의 50%인 45명을 늘린 155명에 정원외 3명을 더해 158명을 모집한다.&lt;br&gt;&lt;br&gt;앞서 대학 측은 지난 23일 학무회의를 열고 이 같은 내용을 담은 학칙 개정안을 심의·의결한 바 있다. 이어 전날 개최된 대학평의원회 심의를 거쳐 의예과 입학정원 개정안을 확정하려 했다. 그러나 평의원회 참석 위원 20명 중 10명이 반대, 2명이 기권하면서 부결됐다. 김정겸 총장은 대학평의원회 부결 결과를 통보받고 즉각 재심의를 요청했다.&lt;br&gt;&lt;br&gt;김 총장은 이날 오전 열린 대학평의원회에 직접 참석해 학칙 확정 관련 중요성을 강조한 것으로 전해졌다. 교육부가 이날까지 학칙 개정을 마치지 않은 대학에는 추후 신입생 모집 인원을 5% 감축할 것이라고 한 것에 대한 조치로 보인다.&lt;br&gt;&lt;br&gt;충남대는 이날 오후 홈페이지 등을 통해 의대 증원이 반영된 모집 요강을 발표한다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“딸 혼내지마”… 훈계하는 남편에 흉기 휘두른 필리핀 아내</title>
       <link>https://www.chosun.com/national/court_law/2024/05/31/7US5A4NKIFABPDKFXXHA4YZCFM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/31/7US5A4NKIFABPDKFXXHA4YZCFM/</guid>
@@ -891,37 +931,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2FVQINCSBGMLGJEMZ25UJAWTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민희진 어도어 대표가 31일 서울 중구 프레스센터에서 어도어 임시주주총회 관련 기자회견을 하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유임에 성공한 민희진 어도어 대표가 2차 기자회견에 나선 가운데, 민 대표의 ‘기자회견 룩’이 또 다시 화제를 모으고 있다.&lt;br&gt;&lt;br&gt;민 대표 측은 31일 오전 “오늘 오후 2시30분 임시주주총회 관련 입장을 설명하는 기자회견을 진행한다”라는 내용의 보도자료를 배포했다. 민 대표의 기자회견 예고는 그 즉시 여러 온라인커뮤니티와 소셜미디어로 퍼지며 화제가 됐다.&lt;br&gt;&lt;br&gt;앞선 기자회견에서 “개저씨(개+아저씨)들이 나 하나 죽이겠다고 온갖 카카오톡을 야비하게 캡처했다” “들어올 거면 맞다이로 들어와 뒤에서 X랄 떨지 말고” 등 속시원한 발언으로 화제가 된 만큼 네티즌들 사이에서는 “기대가 된다”는 반응이 나왔다.&lt;br&gt;&lt;br&gt;일부는 민 대표의 착장이 궁금하다는 반응을 보이기도 했다. 그도 그럴게 지난 기자회견 당시 녹색과 흰색의 럭비티셔츠와 파란색 볼캡을 착용했는데, 당시 온라인상에는 해당 제품 정보를 공유하는 글이 잇따라 게재됐다. 회견이 끝날 쯤엔 해당 제품이 쇼핑몰에서 품절되며 ‘완판’ 타이틀을 거머쥐었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5VIGW5BFLRGEDIYU5PKGQWFMOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민희진 어도어 대표가 31일 서울 중구 프레스센터에서 어도어 임시주주총회 관련 기자회견을 하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 기자회견에 등장한 민 대표는 1차 기자회견과는 사뭇 다른 모습이었다. 지난 회견에서는 민낯에 모자를 쓴 다소 수수한 모습이었다면, 이번에는 모자를 쓰지 않은 채 머리를 뒤로 묶고 밝은 노란색 상의에 청바지를 입었다.&lt;br&gt;&lt;br&gt;민 대표가 등장하자마자 온라인커뮤니티에는 “저 옷 어디거냐” “정보 나오면 링크 공유 좀” 등의 글이 쏟아졌다.&lt;br&gt;&lt;br&gt;민 대표가 입고 나온 노란색 상의는 한 일본 브랜드의 울 소재 가디건으로 알려졌다. 해당 제품은 한화로 약 34만원이며, 작년에 출시돼 이미 품절된 상태다.&lt;br&gt;&lt;br&gt;민 대표는 이날 밝은 표정으로 단상에 올라 마이크를 잡았다. 그는 “승소하고 인사드리게 돼서 가벼운 마음”이라며 “저의 상황과 생각을 말씀드리는 게 좋을 것 같아 기자회견을 열었다”고 말문을 열었다. 이어 “감사한 분들이 많아서 인사를 드리고 싶다. 생면부지의 사람을 응원해주신 분들이 제게 많이 힘이 돼주셨다”고 눈물을 글썽였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>부산 마트서 휴대용 부탄가스 연쇄폭발…차량 10여대 불타</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/05/31/CS6YE36IOFFTHCMRO4YQ7CMOWY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/05/31/CS6YE36IOFFTHCMRO4YQ7CMOWY/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 04:56:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DMTBPWIQ6VDNHHCCCORJ6S4Z7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오전 11시36분쯤 부산 강서구 명지동 신도시의 한 식자재마트 공터에 쌓아둔 휴대용 부탄가스에 불이 붙어 가스통이 연쇄 폭발하면서 인접 주차장 차량 10여대가 불타 소방당국이 진화 작업을 벌이고 있다./부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 마트 공터에 쌓아 놓은 휴대용 부탄가스에 불이 붙어 가스통이 잇따라 터지면서 주변 차량 10여대가 불탔다.&lt;br&gt;&lt;br&gt;31일 오전 11시37분쯤 부산 강서구 명지동 신도시 안 식자재 마트 인근 공터에 쌓인 휴대용 부탄가스에서 불이 나면서 가스통이 연쇄 폭발했다. 폭발한 가스통이 인접한 주차장으로 날아가 차량 10여대가 불에 타고 마트 유리창이 파손됐다.&lt;br&gt;&lt;br&gt;마트 공터와 주차장은 부서진 휴대용 부탄가스 수백 개와 파편들이 나뒹굴고 자동차가 시커멓게 타버리는 등 아수라장을 방불케 했다. 또 ‘펑’하는 가스통 폭발음이 들리고 불기둥과 검은 연기가 치솟아 오르면서 100여건에 가까운 시민 신고가 119에 접수됐다.&lt;br&gt;&lt;br&gt;불이 나자 소방 당국은 소방관 97명과 펌프차 등 27대를 투입해 이날 오전 11시 55분쯤 불길을 잡았다. 소방당국은 “누군가 버린 담배꽁초 불씨로 인해 휴대용 부탄가스에 불이 붙은 것으로 추정된다”고 말했다. 경찰과 소방당국은 목격자 등을 상대로 정확한 화재 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/YTTUPVHY6ZNWHK4KZ6RNUOP4WU.JPG?width=1519&amp;height=973&amp;auth=89f2121d534c4f752622ae10aa28149c651d3a285e23ec67880d876e9acbc539&amp;smart=true" type="image/jpeg" height="973" width="1519">
-        <media:description type="plain">(부산=뉴스1) 윤일지 기자 = 31일 오전 부산 강서구 명지동의 한 식자재마트 인근 공터에 쌓아놓은 휴대용 부탄가스가 연이어 폭발해 화재가 발생한 가운데 소방대원들이 진화작업을 벌이고 있다. (부산소방재난본부 제공) 2024.5.31/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(부산=뉴스1) 윤일지 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>[단독] 강남 오피스텔 살인 현장 가보니, 엘리베이터·비상계단에도 핏자국 </title>
-      <link>https://www.chosun.com/national/national_general/2024/05/31/IM7A7CO5K5FVXAEDZ2YJT657PQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/IM7A7CO5K5FVXAEDZ2YJT657PQ/</guid>
-      <dc:creator>박정훈 기자, 강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 03:51:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PXHAKEUO3BFMZOMTY4B3YL3P7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구 선릉역 인근 한 오피스텔에서 지난 30일 발생한 살인사건 현장에 핏자국이 선명하게 남아있는 모습. /강지은 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;서울 강남 한복판에서 모녀를 흉기로 살해하고 도주한 60대 남성이 13시간만에 경찰에 붙잡힌 가운데, 피해자가 운영하는 사무실이 있던 오피스텔 건물에는 당시 급박했던 상황을 나타내주는 흔적들이 생생하게 남아있었다.&lt;br&gt;&lt;br&gt;31일 오전 10시쯤 본지가 찾은 ‘강남 오피스텔 모녀 살인 사건’ 현장인 선릉역 인근 오피스텔에는 피해자들의 것으로 추정되는 핏자국들이 남아있었다. 이 건물 관리인에 따르면 모친이 운영하던 사무실은 6층에 위치해 있지만, 6층에서 발생한 범행의 흔적들은 밤 사이 모두 지워진 것으로 보였다.&lt;br&gt;&lt;br&gt;하지만 이 건물 4층과 4층에서 3층으로 내려가는 비상계단에는 수십개의 혈흔이 남아있었다. 먼저 4층 엘리베이터 옆 벽면에는 10여개의 핏자국이 튄 흔적이 보였다. 이 엘리베이터 앞 바닥에서 약 3m 떨어진 비상 계단까지는 작은 점 형태로 피가 떨어져 굳은 형태의 자국 수십개가 이어져 있었다. 피의자 박모(65)씨가 모녀를 공격하자 피해자들이 이를 피해 급히 달아난 흔적으로 보였다.&lt;br&gt;&lt;br&gt;4층에서 3층으로 내려가는 비상계단에는 성인 손바닥 만한 크기의 핏자국 여러개와 가로 50cm 정도 크기의 대형 혈흔도 발견됐다. 박씨에게 공격당한 피해자들이 이곳으로 피신한 것이라면, 이미 상당한 출혈이 있었을 것으로 보인다. 주변에 거즈 등 붕대가 널브러진 흔적으로 보아, 신고를 받고 출동한 구급대원들의 응급처치도 이곳에서 이뤄졌을 수 있다.&lt;br&gt;&lt;br&gt;사건이 발생한 현장은 공인중개사, 법무사, 소규모 회사 등의 사무실과 거주 목적으로 입주한 사람들이 섞여 있는 건물이다. 보통 3~6개월 단기로 입주하는 사람들이 많다고 한다. 31일 본지와 만난 사무실 직원들은 “오후 6시 이전에 이미 퇴근해 사건이 발생한 날 저녁엔 건물에 없었다”고 했다.&lt;br&gt;&lt;br&gt;경찰이 출동하는 장면을 목격했다는 인근 상인 A씨는 “여성 2명이 들것에 실려가며 밝은 색 상의를 풀어헤친 채 구급대원들로부터 심폐소생술을 받고 있더라”며 “전신에서 주목할 만한 핏자국은 목격하지 못했다”고 했다. 그는 “겉으로 보기엔 핏자국도 없고 멀쩡했다”며 “살인사건인 줄은 전혀 몰랐고, 작은 사고가 났나 싶었다”고 했다.&lt;br&gt;&lt;br&gt;한편 경찰에 따르면 박씨는 지난 30일 오후 6시 54분쯤 강남구 선릉역 인근 오피스텔에서 50대 여성과 그 딸에게 흉기를 휘둘러 죽인 혐의를 받는다. 경찰은 추적 끝에 31일 오전 7시 45분쯤 서초구 남태령역 인근 노상에서 박씨를 살인 혐의로 긴급체포했다. 살해 현장과 검거 지점은 직선 거리로 7km 떨어져 있다. 박씨는 경찰의 추적을 피하기 위해 택시를 수차례 갈아타는 등 주도면밀한 모습을 보인 것으로도 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강남 오피스텔 모녀 살인범 “우발적 범행… 흉기는 현장에 있던 것”</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/31/5LLNGFKOAVHEFEC77XDC2YTPUA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/5LLNGFKOAVHEFEC77XDC2YTPUA/</guid>
-      <dc:creator>박정훈 기자, 강우석 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 03:45:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YGGEVZK63ZIC2GGG6LHLR6MLQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남의 한 오피스텔에서 모녀를 흉기로 찌르고 달아난 뒤 하루 만에 검거된 60대 남성 용의자가 31일 오전 서울 수서경찰서로 압송되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남의 한 오피스텔에서 모녀를 흉기로 살해하고 도주한 끝에 경찰에 붙잡힌 60대 남성이 계획 범죄가 아닌 우발적 범행임을 주장하고 나섰다.&lt;br&gt;&lt;br&gt;강남 오피스텔 모녀 살인범 박모(64)씨는 31일 오전 11시쯤 서울 수서경찰서로 압송되면서 “범행을 왜 저질렀느냐” “피해자와 무슨 관계냐” “피해자에게 할 말 없느냐” 등의 질문에 “죄송하다”고 답했다.&lt;br&gt;&lt;br&gt;박씨는 이번 살인이 우발적 범행이라고 말했다. 그는 “계획적으로 범행을 저지른 것이냐”는 취재진 질문에 “아니다”고 했다. 또 “우발적으로 저질렀다는 것이냐”는 질문에는 “맞다”고 했다.&lt;br&gt;&lt;br&gt;박씨는 흉기를 미리 준비했느냐는 질문에 대해선 “아니다. (원래) 거기 있던 것”이라고 했다.&lt;br&gt;&lt;br&gt;그는 범행 후 왜 도주했는지, 이별을 통보해서 범행을 저지른 것인지 등 질문에는 답하지 않았다.&lt;br&gt;&lt;br&gt;경찰에 따르면 박씨는 30일 오후 6시 54분쯤 강남구 선릉역 인근 오피스텔에서 50대 여성과 그 딸에게 흉기를 휘둘러 죽인 혐의를 받는다. 경찰은 추적 끝에 31일 오전 7시 45분쯤 서초구 남태령역 인근 노상에서 박씨를 살인 혐의로 긴급체포했다. 박씨와 50대 피해여성은 교제하던 사이였던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“차 빼달라” 요구한 여성 폭행한 전직 보디 빌더, 법정 구속</title>
       <link>https://www.chosun.com/national/court_law/2024/05/31/S5ZDSGRJMZC2NF5CGUAVZ2INDY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/31/S5ZDSGRJMZC2NF5CGUAVZ2INDY/</guid>
@@ -929,42 +938,6 @@
       <description/>
       <pubDate>Fri, 31 May 2024 02:12:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FNY7UV3LXNHDLBWJ7FOVZSGVGI.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;인천 남동구의 한 아파트 주차장에서 30대 여성을 폭행한 전직 보디빌더 A(39)씨가 31일 실형을 선고받고 법정 구소됐다. 인천지법은 이날 폭력행위 등 처벌에 관한 법률상 공동상해 등 혐의로 기소된 A씨에게 징역 2년을 선고하고 법정 구속했다. 사진은 지난해 A씨의 범행 모습./뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이중으로 주차한 차를 빼달라고 요구한 30대 여성을 폭행한 전직 보디빌더가 실형을 선고받고 법정 구속됐다.&lt;br&gt;&lt;br&gt;인천지법 형사5단독 홍준서 판사는 31일 폭력행위 등 처벌에 관한 법률상 공동상해 등 혐의로 기소된 A(39)씨에 대해 징역 2년을 선고하고 법정 구속했다. 홍 판사는 “법정 진술과 관련 증거를 종합하면 모두 유죄로 인정된다”며 “피해자를 일방적으로 폭행한 점 등을 고려하면 실형을 선고할 수밖에 없다”고 했다. 이어 “(A씨가) 도주할 우려가 있다고 보고 법정 구속한다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 “할 말이 있느냐”는 홍 판사의 질문에 “사회에 물의를 일으켜 죄송하고 반성하고 있다”고 말했다. 검찰은 앞서 지난 1일 결심 공판에서 A씨에게 징역 3년 6개월을 구형했다. A씨는 결심 공판에 앞서 피해자를 위해 1억원을 공탁하고, 선처를 바란다는 내용의 탄원서를 지인 등으로부터 받아 법원에 제출하기도 했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 5월 20일 오전 11시쯤 인천시 남동구의 한 아파트 상가 주차장에서 주먹과 발로 30대 여성 B씨를 마구 때려 다치게 한 혐의로 불구속기소 됐다.&lt;br&gt;&lt;br&gt;B씨는 당시 A씨의 차량이 자신의 차량 앞을 막고 있자 A씨에게 이중 주차를 한 차를 빼달라고 요구했다가 폭행당했다. A씨는 갈비뼈가 부러지는 등 전치 6주의 진단을 받았다.&lt;br&gt;&lt;br&gt;A씨는 전직 보디빌더로, 사건 발생 후 운영하던 체육관을 폐업한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 강남 오피스텔 모녀 살인범, 추적 피하려 주도면밀하게 택시 여러 번 갈아타</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/31/UECN5QBYHBCG7GMSB7AY6A6PUI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/UECN5QBYHBCG7GMSB7AY6A6PUI/</guid>
-      <dc:creator>김수경 기자, 장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 01:31:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T7OTQM4RNRAWTCTOW4PGZT4TWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 수서경찰서 전경/채제우 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남의 한 오피스텔에서 모녀를 흉기로 살해하고 도주한 끝에 경찰에 붙잡힌 60대 남성이 경찰 추적을 피하기 위해 택시를 수차례 갈아타는 등 주도면밀한 모습을 보인 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면 강남 오피스텔 모녀 살인범 박모(64)씨는 범행 현장인 강남구 선릉역에서 서초구 남태령역까지 도주하는 과정에서 택시를 수차례 갈아탄 것으로 파악됐다. 경찰은 “박씨가 처음엔 택시를 탔고 그 다음에는 걷기도 했다”며 “동선이 중간중간 끊겨 아직 정확한 전체 동선은 파악되지 않는다”고 했다.&lt;br&gt;&lt;br&gt;13시간의 도주극 동안 박씨는 혈흔이 묻은 옷을 갈아입지 않았던 것으로도 파악됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면 박씨는 30일 오후 6시 54분쯤 강남구 선릉역 인근 오피스텔에서 50대 여성과 그 딸에게 흉기를 휘둘러 죽인 혐의를 받는다. 경찰은 추적 끝에 31일 오전 7시 45분쯤 서초구 남태령역 인근 노상에서 박씨를 살인 혐의로 긴급체포했다. 살해 현장과 검거 지점은 직선 거리로 7km 떨어져 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강남 선릉역 모녀 살해 도주범, 13시간만에 남태령서 검거</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/31/JXI6DURSWRCLFCCSKGQ7KMEVZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/JXI6DURSWRCLFCCSKGQ7KMEVZQ/</guid>
-      <dc:creator>박정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 May 2024 23:47:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T7OTQM4RNRAWTCTOW4PGZT4TWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 수서경찰서 전경/채제우 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남에서 모녀를 흉기로 살해하고 도주한 60대 남성이 경찰의 13시간 추적 끝에 31일 긴급체포됐다.&lt;br&gt;&lt;br&gt;서울 수서경찰서는 전날(30일) 서울 강남구 선릉역 인근 오피스텔에서 모녀를 살해한 혐의를 받는 박모(64)씨를 이날 오전 7시 45분쯤 서울 서초구 남태령역 인근 노상에서 살인 혐의로 긴급체포했다고 밝혔다. 살해 현장과 검거 지점은 직선 거리로 7km 떨어져 있다.&lt;br&gt;&lt;br&gt;경찰에 따르면 박씨는 30일 오후 6시 54분쯤 강남구 한 오피스텔에서 50대 여성과 그 딸에게 흉기를 휘둘러 죽인 혐의를 받는다.&lt;br&gt;&lt;br&gt;박씨의 범행으로 심정지 상태에 빠진 모녀는 소방 당국에 의해 인근 대형 병원으로 이송됐으나 모두 숨졌다. 박씨는 범행 직후 휴대전화를 끄고 도보로 이동한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 “구체적인 범행 동기 등에 대해서는 조사 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>저수지 물도 빼놨다...여름 폭우 대비 ‘물그릇 만들기 대작전’</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/31/MFWE6WCFIVAE5CPYJTIUKXMISI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/MFWE6WCFIVAE5CPYJTIUKXMISI/</guid>
-      <dc:creator>최연진 기자, 안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 May 2024 15:50:00 +0000</pubDate>
-      <content:encoded>지난 20일 경기 과천시 서울대공원 호수. 평소 물이 찰랑찰랑했던 호숫가에 흰 자갈밭이 그대로 드러나 있었다. 21만7000㎡ 크기 호수에는 평소 109만t의 물이 차 있다. 그런데 지난달부터 서울대공원이 파이프를 이용해 호수 물을 양재천으로 흘려보내고 있다. 올여름 폭우가 쏟아지면 이 호수 전체를 빗물을 담을 그릇으로 사용하기 위해 미리 물을 빼 놓은 것이다. 현재 109만t 중 60만t의 물을 빼냈다. 호수의 수위도 5m에서 3m로 낮아졌다. 양재천으로 이어진 곳에서는 수문(水門)을 만드는 작업이 한창이었다. 서울시 관계자는 “서울대공원 호수를 ‘미니 댐’처럼 쓰기 위해 수문까지 만들고 있다”며 “6월 완공되면 빗물 60만t을 담을 수 있는 ‘물 그릇’이 생기는 셈”이라고 했다. 이는 서울에서 가장 큰 배수 시설인 양천구 신월 빗물터널(32만t)의 2배 규모다. 서울시 관계자는 “양재천이 지나는 서초구, 강남구 일대의 침수 피해가 크게 줄 것으로 예상한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UY7ZBWXN2JCLNMQWMREMUHJGSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시가 올여름 집중호우에 대비하기 위해 서울 관내 6개 저수지와 연못의 물을 미리 빼고 있다. 폭우가 쏟아지기 전에 수위를 낮춰 빗물을 담을 수 있는 '물그릇'으로 활용하려는 것이다. 사진은 물을 빼기 전 경기 과천 서울대공원 호수의 모습(왼쪽 사진)과 물을 뺀 후 흰 자갈밭이 드러난 모습(오른쪽 사진). /한국농어촌공사·남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 올여름 집중호우에 대비하기 위해 ‘물그릇 만들기 대작전’을 벌이고 있다. 서울대공원 호수뿐만 아니라 관악산 호수공원과 보라매공원 연못, 구로구 항동저수지 등 서울 관내 6개 저수지·연못의 물을 미리 빼고 있다. 서울시 관계자는 “시내 곳곳에 빗물을 담을 물그릇을 확보해 순간적으로 쏟아지는 ‘물폭탄’을 저장했다가 천천히 흘려 내보내려는 전략”이라고 했다.&lt;br&gt;&lt;br&gt;이는 올여름 일기예보가 심상치 않기 때문이다. 기상청은 최근 기상 전망에서 ‘올여름은 예년보다 강수량이 많거나 같을 확률이 80%’라고 예상했다. 기상 이변 등으로 서울에 시간당 30㎜ 이상 집중호우가 내린 날이 2016년에는 6일이었는데 2020년 이후에는 해마다 10일이 넘는다. 지하에 대심도 빗물 터널을 짓는 게 근본적인 대책이지만 서울 광화문과 강남역, 도림천에 지으려는 대심도 빗물 터널은 2028년에야 완공된다. 당장 쓸 물그릇이 필요한 이유다.&lt;br&gt;&lt;br&gt;저수지나 연못뿐만 아니라 원래 물을 담는 용도가 아닌 건물들도 동원되고 있다. 저지대라 침수가 잦은 사당역 인근 수도방위사령부 연병장(운동장)도 물그릇으로 쓴다. 서울시 관계자는 “6월 중 연병장 입구에 차수판을 설치할 계획”이라며 “빗물 6000t을 담을 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;관악구 신림동 버스 공영차고지 공사장도 임시 저류지(貯留池)로 활용한다. 지하에 차고지를 만들기 위해 땅을 파고 있는데 그 공간에 물을 받겠다는 것이다. 관악구 사당IC 근처에 있는 저류조는 바닥을 더 깊게 파 빗물 저장 용량을 1만8000t에서 3만t으로 키우고 있다.&lt;br&gt;&lt;br&gt;큰 물그릇을 만들기 어려운 강남역 등 도심에는 건물 옥상 배수구에 10㎝ 높이의 플라스틱 ‘배수 홈통’을 설치하고 있다. 배수 홈통을 설치하면 빗물이 건물의 배수관을 타고 바로 떨어지지 않고 천천히 내려오게 된다. 사실상 건물 옥상에 물을 저장하는 효과가 생기는 것이다. 서울시 관계자는 “서초구 서울시인재개발원, 강남구 한국과학기술회관, 관악구 수도방위사령부 등 공공 건물 옥상부터 설치할 계획”이라며 “배수 홈통 30개를 설치하면 빗물 400t 정도를 받아낼 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;양천구 신월 대심도 빗물 터널 내부에는 적외선 방범카메라(CCTV) 4대를 설치한다. 양천구 관계자는 “빗물이 차는 상황을 실시간으로 들여다볼 수 있게 된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강남 오피스텔서 모녀 살해, 60대 도주</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/31/GCPE7EUOWVHAHG4YLWCUW6ZSTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/GCPE7EUOWVHAHG4YLWCUW6ZSTM/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 May 2024 15:50:00 +0000</pubDate>
-      <content:encoded>서울 강남에서 60대 남성이 모녀(母女)를 흉기로 살해하고 도주하는 사건이 발생했다.&lt;br&gt;&lt;br&gt;서울 수서경찰서는 30일 오후 6시 54분쯤 강남구 한 오피스텔에서 50대 여성과 그의 딸에게 흉기를 휘두른 박모(64)씨를 살인 등 혐의로 쫓고 있다(오후 10시 30분 기준)고 밝혔다.&lt;br&gt;&lt;br&gt;박씨 범행으로 모녀는 현장에서 심정지 상태에 빠진 상태로 소방 당국에 의해 인근 대형 병원으로 이송됐으나 모두 숨졌다. 박씨는 범행 직후 차량으로 도주했다. 이후 휴대전화를 끄고 도보로 이동한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;당초 박씨는 50대 여성과 부부 사이로 알려지기도 했으나 경찰은 “평소 알고 지내던 지인으로 파악됐다”고 했다. 경찰은 치정 등 구체적 범행 동기를 조사하는 한편, 감시카메라 화면 등을 확보해 박씨의 범행 전후 상황을 살펴보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>강남 오피스텔서 모녀 흉기 피살… 경찰, 60대 용의자 추적 중</title>
