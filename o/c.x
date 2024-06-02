@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>마약사범 3만명 눈앞…2030이 절반 넘고, 10대도 6배 증가</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/02/5PDEPNCU7FBGDO374FYMFY7FWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/02/5PDEPNCU7FBGDO374FYMFY7FWU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Jun 2024 04:40:58 +0000</pubDate>
+      <content:encoded>작년 한 해 마약 사범이 3만명에 육박하는 것으로 나타났다. 20~30대 마약 사범이 전체 마약사범의 과반을 차지했는데, 최근 5년 사이 2배가량 증가한 것이라고 한다. 같은 기간 10대인 마약 사범은 6배 넘게 늘어났다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OUCUDQW4CPSTI4NALQBN7CNVEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북경찰청은 작년 6월 16일 외국인 노동자 밀집지역에서 마약류를 유통‧투약한 혐의(마약류 관리법 위반)로 마약사범 45명과 불법체류자 23명 등 68명을 붙잡아 이 중 마약을 상습적으로 유통‧투약한 27명을 구속했다고 밝혔다. 사진은 경찰 압수물. /경북경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 법무부에 따르면 작년 검찰과 경찰 등이 단속한 전체 마약류 사범은 2만7611명으로 전년도보다 50.1% 늘었다. 20~30대 마약 사범은 2019년 7647명에서 작년 1만5051명으로 증가한 것으로 나타났다. 작년 한해 마약 사범의 54.6% 수준이다. 이들은 올해 1분기에는 전체 마약류 사범의 61.7%를 차지했다.&lt;br&gt;&lt;br&gt;10대 청소년 마약 사범은 20~30대보다 더 급격히 늘고 있다. 2019년 239명(전체의 1.5%)에 불과했던 청소년 사범이 작년엔 1477명(5.3%)으로 6배 이상 증가했다. 마약류 전체 사범도 꾸준히 늘어 2019년 1만6044명에서 2022년 1만8395명, 2023년 2만7611명을 기록했다.&lt;br&gt;&lt;br&gt;검찰은 마약 사범의 급증에 대응하기 위해 2022년 서울중앙지검‧부산지검에 강력범죄수사부를 재구성하고 대검찰청에 마약·조직범죄부를 신설했다. 검찰이 2022년 9월부터 1년간 직접 단속한 마약사범은 1127명으로 전년 동기 대비 2배 가까이 늘었다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7O7E7NF25ZI2PK5AIAHX4OS7OQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 강력범죄수사부 수사관이 작년 4월 10일 오전 서울 서초구 서울중앙지방검찰청에서 마약 및 총기 밀수사범으로부터 압수한 마약, 총기류를 살펴보고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 작년 6월 마약범죄 사건처리 기준을 강화했다. 마약 공급 사범은 구속수사를 원칙으로 하고, 미성년자에게 마약을 공급한 경우엔 법정최고형을 구형하는 등 양형 강화를 추진하고 있다. 대법원 양형위원회는 양형기준 상향을 의결해 7월부터 시행할 예정이다.&lt;br&gt;&lt;br&gt;한편 법무부와 검찰은 미국 마약청(DEA) 등 해외 기관과 협업체계를 구축하고, 유엔마약범죄사무소(UNDOC) 등 4개 국제기구와 22개국이 참여하는 제30차 마약류퇴치국제협력회의 등에 참여하는 등 국제 공조를 강화하고 있다. 국내서 유통·소비되는 마약 대부분이 해외에서 들어오는 데 따른 것이다.&lt;br&gt;&lt;br&gt;검찰 등에서 작년 한 해 동안 압수한 마약류는 총 998㎏으로 나타났다. 2019년 362㎏에 비해 2.8배 증가한 것이다. 말레이시아, 캄보디아 등에 근거를 둔 국제 조직이 보디패커(Body packer·몸 속에 마약을 숨겨 들어오는 방식)·국제우편·해상 등 다양한 수법으로 반입하면서 큰 폭으로 증가했다는 분석이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AYCWAJOFSLIASFPIINQKCMJAUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사법·치료·재활 연계모델 체계도. /식품의약품안전처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 보건복지부, 식약처와 함께 단순 마약 사범을 대상으로 한 ‘사법·치료·재활 연계모델’을 4월부터 시행하고 있다. 또 △마약조직 내부제보자 형벌감면 제도 도입 △마약 거래 이용 계좌 즉시 정지 제도 마련 △마약류 신고 보상 대상 확대 및 보상금 증액(최대 1억원)에도 나설 예정이라고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>빌라에서 ‘층간 소음’ 다투다 이웃 살해한 40대 남성 체포</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/02/EYIPFZPV3JCCBIPAPVXVSTJMR4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/02/EYIPFZPV3JCCBIPAPVXVSTJMR4/</guid>
+      <dc:creator>김도연 기자, 고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Jun 2024 03:33:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJACOCQWWU5QCEDLXLXU6WACM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;층간 소음 시비 끝에 이웃 주민을 살해한 40대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 강서경찰서는 2일 오전 9시 40분쯤 살인 혐의를 받는 40대 남성 A씨를 현행범 체포해 조사하고 있다고 이날 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 서울 강서구 화곡동의 한 빌라에서 층간 소음 문제로 이웃 주민인 50대 여성과 다툼을 벌이다가 흉기를 휘둘러 해당 여성을 숨지게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;피해자는 심정지 상태로 병원에 이송됐으나 결국 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 구체적인 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>원종필 교수, 건국대 신임 총장 선임</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/02/5SBWTLDZJVFUPLDA6MROCD7WCM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/02/5SBWTLDZJVFUPLDA6MROCD7WCM/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Jun 2024 03:15:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H47NYUJ6XRBUZPGUBTU57QICYI.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;원종필 건국대 총장. /건국대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건국대학교는 오는 9월 1일 취임하는 제22대 신임 총장에 원종필(59) 사회환경공학부 교수가 선임됐다고 2일 밝혔다. 임기는 4년이다.&lt;br&gt;&lt;br&gt;원 신임 총장은 건국대 농공학과를 나와 미국 미시간주립대에서 구조공학 박사 학위를 받았다. 삼성물산을 거쳐 1997년부터 건국대 교수로 재직하며 생명환경과학대학장, 교무처장, 교학부총장, 학교법인 건국대학교 경영기획국장 등을 맡았다.&lt;br&gt;&lt;br&gt;대외적으로는 기획재정부 공공기관 경영평가단 평가위원, 국가과학기술위원회 위원, 정부 일자리·국정과제 평가단 평가위원, 한국복합신소재구조학회 부회장 등을 역임했다.&lt;br&gt;&lt;br&gt;원 신임 총장은 “건국대만의 지속가능한 발전 모델을 새롭게 제시해 세계 속에 우뚝 선 자랑스러운 미래의 대학을 만들겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대출 안 갚아 담보 잃자 ISDS 제기한 중국 투자자…우리 정부 첫 전부 승소</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/02/NQD3FFZKURHCTAASXGE7KSXYMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/02/NQD3FFZKURHCTAASXGE7KSXYMU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Jun 2024 04:43:50 +0000</pubDate>
+      <content:encoded>중국인 투자자가 우리 정부를 상대로 제기한 2600억원대 국제투자분쟁(ISDS) 사건에서 우리 정부가 지난달 31일 전부 승소했다. 이는 우리 정부가 ISDS에서 전부 승소 판정을 받은 첫 사례라고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TLCHBGY3JZCL2ZOUDUZNCJRN7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부과천청사 내 법무부 청사 전경. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 “중국 투자자 민모씨가 제기한 ISDS 사건에서 중재 판정부가 대한민국 전부 승소 판정을 내렸다”고 2일 밝혔다. ISDS는 해외 투자자가 투자국의 법령, 정책 등으로 피해를 봤을 때 손해배상을 받을 수 있는 장치다.&lt;br&gt;&lt;br&gt;중국인 사업가 민씨는 2007년 중국 베이징에 있는 부동산을 인수하기 위해 국내에 ‘Pi Korea’라는 회사를 설립하고, 사업 자금을 국내 금융회사들로부터 대출받았다. 민씨는 자금을 빌려준 우리은행이 채무 상환 기한을 6차례 연장했음에도 채무를 갚지 않았다고 한다. 우리은행은 근질권(담보물에 대한 권리)을 행사해 해당 회사의 주식을 외국 회사에 매각했다. 민씨는 우리은행이 위법하게 담보권을 실행했다며 국내 법원에 민사 소송을 냈지만 2017년 패소했다. 또 민씨는 한국에서 횡령, 배임, 사기 등으로 기소돼 같은 해 징역 6년을 선고받았다고 한다.&lt;br&gt;&lt;br&gt;이에 민씨는 2020년 7월 세계은행 산하 국제투자분쟁해결센터(ICSID)에 중재 요청서를 냈다. 민씨는 “우리은행의 담보권 실행으로 인해 주식의 소유권을 모두 상실했고, 이는 대한민국 정부가 내 투자를 위법하게 수용한 것”이라고 주장한 것으로 전해졌다. 민씨의 최초 청구액은 약 2조원, 최종 청구액은 약 2641억원이었다고 한다.&lt;br&gt;&lt;br&gt;그러나 중재 판정부는 민씨의 주장을 모두 받아들이지 않았다. 민씨 측에 우리 정부의 법률 및 중재비용 중 약 49억1260만원 및 그 지급 시까지의 이자를 지급하라고 지난달 31일 결정했다.&lt;br&gt;&lt;br&gt;중재 판정부는 민씨의 투자가 위법해 한-중 투자협정상 보호되는 투자에 해당하지 않는다는 우리 정부의 입장을 받아들였다. 중재 판정부는 “민씨가 설립한 회사인 Pi Korea는 민씨가 우리은행으로부터 부실 대출을 받으려는 위법한 목적으로 설립한 회사”라며 “투자협정의 보호를 받는 투자로 볼 수 없다”고 봤다. 이어 “본 사건에 대해 중재 판정부의 관할권이 인정되지 않으므로 다른 관할 및 본안 쟁점은 모두 기각한다”고 했다.&lt;br&gt;&lt;br&gt;정부는 “협정상 투자자 보호 의무를 위반한 사실이 없고, 민영기업인 우리은행의 행위는 국가 책임으로 귀속되지 않는다”는 입장이다. 또 “소송비용의 집행 등 판정에 따른 후속절차 대응에 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>북한발 대남 풍선, 대학 캠퍼스에도 떨어졌다</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/02/5WOZQLDHCVAI5B2PSJRH6ACT74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/02/5WOZQLDHCVAI5B2PSJRH6ACT74/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Jun 2024 03:23:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5BEFXT6KDFHRYWNWWF6RDVFBCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북한이 또 대남 오물 풍선을 무더기로 살포하고 있다고 군 당국이 2일 밝혔다. 합동참모본부는 북한이 전날 저녁 8시부터 오물 풍선을 띄우기 시작했고, 이날 오전까지 약 600개가 서울·경기 지역 등에서 식별됐다고 밝혔다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한이 살포한 대남 풍선 안에 들어있던 오물이 대학 캠퍼스에서도 발견됐다.&lt;br&gt;&lt;br&gt;2일 동대문경찰서에 따르면, 지난 1일 오후 10시쯤 서울 동대문구의 한국외대 캠퍼스 교수연구동에서 북한이 살포한 대남 풍선이 터지는 과정에서 흩뿌려진 것으로 보이는 쓰레기들이 발견됐다.&lt;br&gt;&lt;br&gt;한국외대를 포함해 1일 오후 9시쯤부터 오늘 오전 7시 30분쯤까지 서울 동대문구에서만 북한이 살포한 대남 풍선 12건이 발견됐다고 한다. 경찰 관계자는 “군부대 및 유관기관 간 합동 대응을 했고, 일부는 군부대 회수, 나머지는 단순 오물로 판단해 구청에서 수거 조치를 했다”며 “오물 외 폭발물 등 특이 사항은 없었다”고 밝혔다.&lt;br&gt;&lt;br&gt;합참은 “어제부터 대남 오물풍선 600여개를 또 살포했다”고 2일 밝혔다. 북한은 앞서 지난달 28일 밤부터 29일까지 거름, 쓰레기 등을 담은 오물 풍선 260여 개를 내려 보내기도 했다. 당시 우리 정부는 “도발을 멈추지 않으면 감내하기 힘든 모든 조치를 취해나갈 것”이라고 경고했지만, 북한이 다시 도발을 이어간 것이다.&lt;br&gt;&lt;br&gt;서울시는 2일 북한의 대남전단 및 오물 살포 풍선으로부터 시민을 보호하기 위해 ‘서울시 초동대응반’을 설치·운영하고 있다고 밝혔다. 시에 따르면, 지난 1일 오후 9시부터 2일 오전 6시까지 서울 전역에서 36건의 풍선과 대남전단 및 오물 쓰레기 신고가 접수됐다고 한다.&lt;br&gt;&lt;br&gt;북한이 살포한 대남 도발용 풍선은 서울 외에도 경기·인천 등에서도 발견되고 있다. 군 당국은 “풍선을 발견하면 접촉하지 말고 가까운 군부대나 경찰에 신고해달라”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시, 1인 점포 안전 위해 ‘안심 경광등’ 무료 지원</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/02/SYEPSMX73VC4LMFKR4VGPLNT5U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/02/SYEPSMX73VC4LMFKR4VGPLNT5U/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Jun 2024 03:26:41 +0000</pubDate>
+      <content:encoded>서울시가 미용실, 네일숍, 카페 등 범죄에 취약한 1인 점포를 위해 자동으로 경찰 신고까지 들어가게 하는 ‘안심 경광등’을 무료로 지원한다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;‘안심 경광등’은 긴급 상황이 발생했을 때 벨을 누르면 가계 외부의 점멸등이 커지면서 사이렌이 울리고, 자동으로 경찰 신고도 들어가게 하는 장치다. 안심 경광등이 울리면 자치구 관제센터에서 신고 위치와 인근 감시카메라를 확인하고, 경찰 출동을 요청하게 된다. 또 서울시 ‘안심이앱’에서 미리 지정해둔 보호자(최대 5명)에게 긴급상황 알림 문자가 발송된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRJYV5A5WFEC3E44EFRDH674Y4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시가 1인 점포에 '안심 경광등'을 제공한다고 밝혔다./서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안심 경광등 지원 대상은 서울시내 총 5000개 점포로, 시내 1인 가게 사업주라면 누구나 신청할 수 있다. 직원이 2명 이상이어도 교대근무로 한명이 장시간 일해야 하는 경우라면 신청 가능하다. 신청 기간은 3일부터 7일까지다.&lt;br&gt;&lt;br&gt;통계청 조사에 따르면 지난해 기준 서울시 자영업자는 총 81만5000명으로 이 중 직원이 없는 1인 자영업자는 51만6000명(63%)에 달한다. 카페, 피부관리숍, 부동산중개업 등 다양한 업종에 분포돼 있다.&lt;br&gt;&lt;br&gt;오세훈 서울시장은 “자영업자 등 혼자 영업하시는 분들의 안전을 위해서 위험 상황이 경찰서로 자동 신고되는 시스템을 구축하게 됐다”며 “보다 안전한 영업 활동이 되길 기대한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>북한 2차 오물 풍선...경찰 신고 밤사이 전국 514건</title>
       <link>https://www.chosun.com/national/2024/06/02/N4YTFVYHRNFIVHG6AUGDKFTBO4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/06/02/N4YTFVYHRNFIVHG6AUGDKFTBO4/</guid>
@@ -876,52 +930,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RIFG3TNLCBHNFLVN75OUOVHNJE.png"&gt;&lt;figcaption&gt;&lt;small&gt;전주지법 청사 전경. /전주지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새벽에 만취 상태로 전북 익산에서 충남 공주까지 100㎞ 넘는 거리를 운전한 31년차 경찰관이 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;31일 법조계에 따르면, 전주지법 형사7단독 한지숙 판사는 도로교통법 위반 혐의로 기소된 전북경찰청 소속 A경감에게 벌금 1800만원을 선고했다.&lt;br&gt;&lt;br&gt;A경감은 지난해 12월 12일 오전 1시 44분쯤 술을 마신 채 전북 익산에서 충남 공주까지 차를 몬 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;A경감은 고속도로에서 역주행 방향으로 차를 세워놓고 잠을 자다가 다른 운전자의 신고로 출동한 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;당시 A경감의 혈중알코올농도는 면허취소 수치(0.08% 이상)를 훌쩍 뛰어넘는 0.206%로 측정됐다.&lt;br&gt;&lt;br&gt;그는 이후 전북경찰청 징계위원회에 넘겨져 정직 3개월 처분을 받았다.&lt;br&gt;&lt;br&gt;한 판사는 “당시 피고인의 혈중알코올농도는 매우 높았고 운전한 거리(100㎞)도 매우 길었다”며 “피고인은 경찰공무원으로서 누구보다 엄정하게 법질서를 준수해야 함에도 신분을 망각한 채 범행을 저질러 죄책이 무겁다”고 했다.&lt;br&gt;&lt;br&gt;한 판사는 그러면서도 “31년간 경찰로 재직하며 여러 차례 표창을 받고 성실하게 공직생활을 이어온 점, 이 사건으로 별도의 징계처분을 받은 점 등을 감안해 형을 정했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘LG·SK 배터리 전쟁’ 그 후... ‘기술 유출’ SK직원 7명 기소</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/31/TTW72RRYNRCJXJYVDZA77YD2KQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/31/TTW72RRYNRCJXJYVDZA77YD2KQ/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 08:43:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VZGS3A6FEFMVPFUTM3XJVFISZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;LG와 SK가 2017~2021년 4년간 벌인 ‘배터리 기술 유출’ 사건과 관련, 검찰이 SK이노베이션 직원 7명을 31일 기소했다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;LG와 SK가 2017~2021년 4년간 벌인 ‘배터리 기술 유출’ 사건과 관련, 검찰이 SK이노베이션 직원들의 기술 유출 혐의가 인정된다며 7명을 기소했다.&lt;br&gt;&lt;br&gt;서울중앙지검 정보기술범죄수사부(부장 이춘)는 LG화학(현 LG에너지솔루션)의 전기차 배터리 기술을 유출한 혐의로 SK이노베이션 직원 7명을 31일 불구속 기소했다고 밝혔다. 이들은 2017~2019년 LG전자에서 SK이노베이션으로 이직하면서 이차전지 설계와 제조공정 관련 정보를 빼돌린 혐의를 받는다.&lt;br&gt;&lt;br&gt;이 사건은 2019년 전기차 배터리 분야 국내 1위인 LG화학이 업계 2위 SK이노베이션 측을 배터리 기술 불법 유출 혐의로 고소하면서 시작됐다. 양측 갈등은 2017~2019년 LG 직원들 100여 명이 SK로 이직하면서 불거지기 시작했다. LG 측은 배터리 사업 후발 주자인 SK가 이직한 직원들로부터 LG의 배터리 납품 가격과 배터리 개발, 생산 등과 관련된 갖가지 영업 기밀을 빼돌렸다고 주장하며 국내외에서 소송·고소전을 시작했다. SK도 “근거없는 의혹제기”라며 명예훼손으로 국내 법원에 맞소송을 내기도 했다.&lt;br&gt;&lt;br&gt;LG는 당시 미국 국제무역위원회(ITC)에 SK를 상대로 영업 비밀 침해 소송을 냈는데, ITC는 LG 손을 들어줬다. 이후 지난 2021년 4월 ‘SK가 LG 측에 합의금 2조원을 지급한다’는 조건으로 양측이 합의해 사건은 일단락됐다. 하지만 LG가 국내에서 SK를 고소한 사건은 그 뒤에도 경찰 수사가 이어진 것이다. 산업 기술 유출은 ‘반의사 불벌죄(피해자가 원하지 않으면 처벌하지 않는 것)’가 아니기 때문에 피해 회사인 LG의 의사와 관계 없이 수사가 진행됐다.&lt;br&gt;&lt;br&gt;경찰은 2022년 4월 SK이노베이션 임직원 30여명을 검찰에 송치했다. 국내에서 기술 유출 혐의로 이 정도 인원이 한꺼번에 검찰에 송치된 것은 드문 일이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E6TA3SZFEJFKJLFZ7BNKZPBK5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;LG·SK 배터리 분쟁. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 약 2년간의 추가 수사 끝에 이 중 7명을 기소하고, 17명은 기소유예, 11명은 무혐의 처분을 했다. 벌금형만 가능한 법인에 대해선 이미 공소시효가 소멸해 ‘공소권 없음’ 처분을 내렸다. 검찰 관계자는 “양사 간에 합의가 이뤄져 고소가 취소된 사정 등을 고려해 침해된 정보의 가치와 행위가 중한 사안에 한정해 기소했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘송도 화물차 주차장’, 이젠 사용할 수 있나…인천항만공사 승소</title>
-      <link>https://www.chosun.com/national/regional/2024/05/31/M46ROBYKCZBVBDGQYRA3L23TSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/05/31/M46ROBYKCZBVBDGQYRA3L23TSM/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 08:21:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FTFN64EYYZC2DEQWYQVX6ORZSI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;인천항만공사가 지난 2022년 12월 인천시 연수구 송도국제도시 아암물류2단지 5만㎡ 부지에 조성한 화물차 주차장 전경. /인천항만공사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1년 5개월 넘게 사용하지 못하고 있는 인천 송도국제도시 ‘화물차 주차장’을 둘러싼 인천항만공사와 인천경제자유구역청 간 1심 소송에서 인천항만공사가 이겼다.&lt;br&gt;&lt;br&gt;인천지법 행정2부(재판장 호성호)는 31일 인천항만공사가 인천경제청을 상대로 제기한 가설건축물 축조신고 수리 반려처분 취소 소송에서 인천항만공사의 손을 들어줬다. 재판부는 이날 “인천경제청이 인천항만공사에 내린 가설건축물 축조신고 반려처분을 취소한다”고 판결했다.&lt;br&gt;&lt;br&gt;이 판결이 확정되면 인천항만공사는 송도 화물차 주차장 운영을 위한 무인 관제시설과 간이 화장실 등을 갖출 수 있게 된다. 인천항만공사 관계자는 판결 직후 취재진에게 “이번 판결을 토대로 인천경제청에 ‘화물차 주차장 가설건축물 축조신고 반려처분’을 재검토해달라는 공문을 보낼 예정”이라며 “인천경제청과 협의해 올 하반기엔 화물차 주차장을 운영할 수 있게 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;인천항만공사는 지난 2022년 12월 해양수산부 소유의 인천시 연수구 송도국제도시 아암물류2단지 내 5만㎡ 부지를 무상 임대해 402대의 화물차가 주차할 수 있는 화물차 주차장을 조성했다. 총 51억원의 사업비를 투입했다. 인천항국제여객터미널과 가까운 아암물류단지의 원활한 물류 처리를 위한 목적이 컸다.&lt;br&gt;&lt;br&gt;하지만 인천경제청은 화물차 주차장이 부지 용도에 맞지 않게 조성됐다는 이유 등으로 인천항만공사의 신청을 3차례 반려했다. 화물차 주차장이 들어선 부지는 항만법상 ‘지원시설’ 용지로, 화물차만이 아닌 모든 차량을 대상으로 하는 일반 주차장이 들어설 수 있는 땅이라는 게 주된 이유다. 소음과 먼지 등을 우려하는 인근 아파트 주민 민원을 고려해야 한다는 이유도 있었다.&lt;br&gt;&lt;br&gt;결국 지난해 9월 인천경제청을 상대로 ‘가설건축물 축조신고 수리 반려처분 취소’ 소송을 제기한 인천항만공사는 ‘지원시설’ 용지에도 화물차 주차장을 조성할 수 있다는 해수부 유권해석을 근거로 맞섰다. 인근 아파트도 화물차 주차장과 약 1㎞ 떨어져 있어 직접적인 피해가 발생하지 않는다며 입장 차를 나타냈다.&lt;br&gt;&lt;br&gt;이번 판결에 대해 인천경제청 관계자는 “일반 주차장이 들어설 수 있는 땅에 화물차 전용 주차장이 들어선 문제는 여전하다”며 “인천항만공사가 화물차 주차장의 문을 연다고 해도 부지 용도와 다른 시설이기 때문에 행정적 조치가 가능할 것”이라고 했다. 이어 “화물차 주차장 문제와 관련한 대응 방안을 검토할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>지갑 훔치고 “저기다!” 목격자인 척… ‘발 연기’로 잡힌 소매치기</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/31/JN6PMXQS35E5NFKB3J6FQKUHVU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/JN6PMXQS35E5NFKB3J6FQKUHVU/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 08:10:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z4ALSIWK3VEDFI3VADUN2A2HNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 21일 낮 12시 26분쯤 서울 지하철 1호선 서울역 승강장에서 피해자에게 범행이 발각되자, 목격자인 척 손짓을 하며 범인을 쫓아가라고 말하는 상습 소매치기범 50대 남성 A씨의 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지하철에서 상습적으로 소매치기를 한 50대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울경찰청 지하철경찰대는 31일 최근 전동차에서 잠금장치 없는 가방을 멘 여성을 노려 지갑과 현금 등을 훔친 혐의로 50대 남성 A씨를 검거했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 21일과 28일 두 차례에 걸쳐 180만원 상당의 금품을 훔친 것으로 조사됐다.&lt;br&gt;&lt;br&gt;특히 A씨는 지난달 21일 지갑을 훔치던 중 피해자에게 발각될 뻔 하자, 목격자인척 “저기 앞”이라고 소리치면서 다른 방향을 가리켜 주의를 분산시키곤 그대로 달아났다. 이후 들킬까 두려워 훔친 지갑에서 발견한 피해자 명함에 적힌 번호로 직접 전화를 걸어 경찰에 신고했는지를 묻기도 했다. 당시 피해자가 신고했다고 하자, A씨는 “범인이 지갑만 버리고 열차를 타고 가버렸다”고 둘러댄 뒤 범행 현장으로 돌아가 지갑을 역무실에 맡겼다.&lt;br&gt;&lt;br&gt;A씨는 전과 21범으로, 이 가운데 19건은 절도 전력인 것으로 확인됐다. 심지어 지난 2월 출소 뒤 3달도 지나지 않아 다시 같은 범죄를 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;결국 A씨는 지난 18일 구속됐다.&lt;br&gt;&lt;br&gt;한편 지하철경찰대는 지하철 내 편의점에서 담배 140만5000원어치와 현금 32만5000원을 훔친 B씨 검거에도 성공했다. B씨 역시 동종 전과 17범으로, 지난달 21일 출소 뒤 나흘만에 절도 행각을 벌인 것으로 드러났다. B씨는 훔친 현금과 담배를 생활비 등에 모두 쓴 것으로 조사됐다.&lt;br&gt;&lt;br&gt;지하철 내 소매치기 사건은 생각보다 빈번하게 발생한다. 최근에는 퇴근 시간 열차 내부가 혼잡한 틈을 노려 승객의 현금을 훔친 전과자들이 잇달아 검거되기도 했다. 이에 경찰은 “지하철 내 소매치기 예방을 위해 잠금장치가 없는 가방은 앞으로 메고 탑승하고 상가 침입 절도 예방을 위해 단순한 비밀번호를 사용하지 말아달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“딸 혼내지마”… 훈계하는 남편에 흉기 휘두른 필리핀 아내</title>
-      <link>https://www.chosun.com/national/court_law/2024/05/31/7US5A4NKIFABPDKFXXHA4YZCFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/31/7US5A4NKIFABPDKFXXHA4YZCFM/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 07:45:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JCTWMLQNRBFC3M5WITW3HKRXZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=정다운. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자녀가 보는 앞에서 남편에게 흉기를 휘두른 40대 외국인 여성이 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;31일 법조계에 따르면, 광주지법 형사11단독 김성준 부장판사는 특수협박, 아동복지법위반(아동학대) 등의 혐의로 기소된 필리핀 국적 A(40)씨에게 징역 6개월에 집행유예 2년을 선고했다. 이와 함께 보호관찰과 40시간의 아동학대‧가정폭력 재범예방 수강을 명령했다.&lt;br&gt;&lt;br&gt;A씨는 작년 11월 20일 오후 2시 20분쯤 광주 광산구의 자택에서 한국인 남편 B(45)씨에게 흉기를 수차례 휘두르며 위협한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 사건 당일 남편이 10대 딸에게 ‘돈을 훔치는 등 손버릇이 나쁘다’고 훈계한 것에 화가나 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 또한 딸이 보는 앞에서 이같은 일을 벌여 공포감을 느끼게 하는 등 아이를 정서적으로 학대한 혐의를 받는다.&lt;br&gt;&lt;br&gt;김 부장판사는 “피고인은 위험한 물건으로 피해자를 협박하고 그런 모습을 아동에게 노출시켜 죄질이 좋지 않다”면서도 “다만 피고인이 피해자와 합의한 점, 피해자와 피해아동이 피고인에 대한 선처를 희망하는 점 등을 종합해 형을 정한다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘강남 마지막 판자촌’ 구룡마을, 최고 35층·3520가구 아파트 단지로</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/31/CQCVPSVCHRBJ5JYLKKCSMKB75M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/CQCVPSVCHRBJ5JYLKKCSMKB75M/</guid>
-      <dc:creator>안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 May 2024 06:36:10 +0000</pubDate>
-      <content:encoded>서울 강남구의 마지막 판자촌으로 불리는 구룡마을이 최고 35층·3520가구의 대규모 아파트 단지로 바뀐다. 서울시는 지난 29일 도시계획위원회를 열고 이 같은 내용의 도시개발구역 개발계획 변경 및 경관심의를 수정가결했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NHUFCFU63ZHAZIEGMDDQEPFLO4.png"&gt;&lt;figcaption&gt;&lt;small&gt;구룡마을 위치도 /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구 개포동 567-1번지 구룡마을은 2016년 도시개발구역으로 지정돼 재개발 과정을 밟고 있다. 구룡마을은 1970~80년대 서울시내 달동네들이 강제 철거 당한 후 모인 빈민들이 살고 있는 지역이다. 잦은 수해와 화재로 인명 피해도 많았다.&lt;br&gt;&lt;br&gt;서울시는 이번 심의를 거쳐 구룡마을 부지 중 공동주택용지의 용도지역을 제2종일반주거지역에서 제3종일반주거지역으로 올렸다. 용적률은 160~170%에서 230~240%로, 최고 층수도 20층에서 25층으로 올랐다. 구룡마을 부지 양재대로변은 최고 35층 주상복합을 짓는다. 다만 서울시는 “인근 대모산·구룡산의 경관 보전과 스카이 라인 조성을 위해 산림과 가까운 곳은 15층 이하로 지을 수 있다”고 했다.&lt;br&gt;&lt;br&gt;용적률과 높이 상향으로 가구 수도 늘었다. 2838가구(분양 1731·임대 1107)에서 3520가구(분양 1813·임대 1707)가 됐다. 서울시 관계자는 “늘어난 임대 가구 수는 신혼부부를 위한 장기임대주택으로 활용될 것”이라고 했다. 앞서 서울시는 지난 29일 신혼부부를 위한 장기임대주택(시프트) 도입을 발표했다. 이곳에 사는 신혼부부는 자녀를 낳으면 최대 20년 살 수 있고, 자녀 2명을 낳으면 시세의 10% 저렴하게 아파트 매입이 가능하다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D33PERMDHVADPOPS6W3CB3CN6E.jpg"&gt;&lt;br&gt;&lt;br&gt;서울시는 올해 하반기 중 실시계획을 변경 인가하고, 2025년 아파트 착공에 들어갈 계획이다. 2029년 완공이 목표다. 구룡마을 재개발을 담당하는 SH(서울주택도시공사) 관계자는 “다음 달 21일까지 구룡마을 거주민들을 대상으로 보상 협의를 하고 있는 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/NHUFCFU63ZHAZIEGMDDQEPFLO4.png?width=765&amp;height=864&amp;auth=ec193a0c3533e53689412370993f3842868dc1ac96da0fe760f87429d94e4fcc&amp;smart=true" type="image/png" height="864" width="765"/>
-    </item>
-    <item>
       <title>민희진 오늘은 모자 벗었다…기자회견룩 또 완판될까</title>
       <link>https://www.chosun.com/national/national_general/2024/05/31/LDDM5ZNUXNDNLDQ5HJ3GS5MY4I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/31/LDDM5ZNUXNDNLDQ5HJ3GS5MY4I/</guid>
@@ -938,15 +946,6 @@
       <description/>
       <pubDate>Fri, 31 May 2024 02:12:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FNY7UV3LXNHDLBWJ7FOVZSGVGI.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;인천 남동구의 한 아파트 주차장에서 30대 여성을 폭행한 전직 보디빌더 A(39)씨가 31일 실형을 선고받고 법정 구소됐다. 인천지법은 이날 폭력행위 등 처벌에 관한 법률상 공동상해 등 혐의로 기소된 A씨에게 징역 2년을 선고하고 법정 구속했다. 사진은 지난해 A씨의 범행 모습./뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이중으로 주차한 차를 빼달라고 요구한 30대 여성을 폭행한 전직 보디빌더가 실형을 선고받고 법정 구속됐다.&lt;br&gt;&lt;br&gt;인천지법 형사5단독 홍준서 판사는 31일 폭력행위 등 처벌에 관한 법률상 공동상해 등 혐의로 기소된 A(39)씨에 대해 징역 2년을 선고하고 법정 구속했다. 홍 판사는 “법정 진술과 관련 증거를 종합하면 모두 유죄로 인정된다”며 “피해자를 일방적으로 폭행한 점 등을 고려하면 실형을 선고할 수밖에 없다”고 했다. 이어 “(A씨가) 도주할 우려가 있다고 보고 법정 구속한다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 “할 말이 있느냐”는 홍 판사의 질문에 “사회에 물의를 일으켜 죄송하고 반성하고 있다”고 말했다. 검찰은 앞서 지난 1일 결심 공판에서 A씨에게 징역 3년 6개월을 구형했다. A씨는 결심 공판에 앞서 피해자를 위해 1억원을 공탁하고, 선처를 바란다는 내용의 탄원서를 지인 등으로부터 받아 법원에 제출하기도 했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 5월 20일 오전 11시쯤 인천시 남동구의 한 아파트 상가 주차장에서 주먹과 발로 30대 여성 B씨를 마구 때려 다치게 한 혐의로 불구속기소 됐다.&lt;br&gt;&lt;br&gt;B씨는 당시 A씨의 차량이 자신의 차량 앞을 막고 있자 A씨에게 이중 주차를 한 차를 빼달라고 요구했다가 폭행당했다. A씨는 갈비뼈가 부러지는 등 전치 6주의 진단을 받았다.&lt;br&gt;&lt;br&gt;A씨는 전직 보디빌더로, 사건 발생 후 운영하던 체육관을 폐업한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강남 오피스텔서 모녀 흉기 피살… 경찰, 60대 용의자 추적 중</title>
-      <link>https://www.chosun.com/national/national_general/2024/05/30/KOGG4QKG7VBBLAHO6C6MEISMEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/30/KOGG4QKG7VBBLAHO6C6MEISMEA/</guid>
-      <dc:creator>장윤 기자, 고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 May 2024 12:07:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T7OTQM4RNRAWTCTOW4PGZT4TWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 수서경찰서. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남에서 60대 남성이 모녀를 흉기를 휘둘러 숨지게 한 사건이 벌어졌다.&lt;br&gt;&lt;br&gt;30일 경찰과 소방당국에 따르면 서울 수서경찰서는 60대 남성 박모(64)씨를 살인 등 혐의로 쫓고 있다.&lt;br&gt;&lt;br&gt;박씨는 서울 강남구 한 오피스텔에서 이날 오후 6시 54분쯤 50대 여성 A씨와 그녀의 딸인 B씨에게 흉기를 휘두른 혐의를 받는다. 박씨와 A씨는 지인 관계라고 한다.&lt;br&gt;&lt;br&gt;박씨의 범행으로 A씨와 B씨는 심정지 상태로 병원으로 이송됐으나 끝내 숨졌다.&lt;br&gt;&lt;br&gt;박씨는 현재 휴대전화를 끄고 도보로 도주 중인 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 폐쇄회로(CC)TV를 분석해 박씨의 도주 경로를 파악하는 한편 구체적인 범행 동기를 파악하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
