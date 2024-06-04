@@ -13,6 +13,82 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>국방부 조사본부, 중간 보고서에 ‘임성근 혐의 있다’ 판단 </title>
+      <link>https://www.chosun.com/national/court_law/2024/06/04/TMNFG3RYAFBXDNMB6PO7Y33F5I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/04/TMNFG3RYAFBXDNMB6PO7Y33F5I/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 04 Jun 2024 13:09:45 +0000</pubDate>
+      <content:encoded>‘순직 해병대원’ 사건 기록을 회수한 뒤 재검토를 맡은 국방부 조사본부도 임성근 전 해병1사단장에게 혐의가 있다는 중간 판단을 내렸던 것으로 4일 전해졌다. 이는 사건 발생 직후 초기 조사를 맡았던 해병대 수사단과 같은 결론이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WTIIQA3CGFOG3AQPCWKDIL4TYQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;'순직 해병대원 사건' 관련 조사를 위해 경북 경산시 경북경찰청 형사기동대에 피의자 신분으로 소환된 임성근 전 해병1사단장/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 본지 취재를 종합하면, 국방부 조사본부는 ‘故 채수근 상병 사망사고 관계자별 사망의 원인이 되는 범죄의 단서가 되는 정황 판단’이라는 제목의 문서에 임 전 사단장 등 해병대 간부 8명에 대해 각각 혐의를 인정할 만한 정황이 있는지 판단한 결과를 담았다. 국방부 조사본부는 작년 8월 9일 이종섭 당시 국방장관의 지시로 해병대 수사단으로부터 ‘채수근 상병 사망’ 사건의 기록을 넘겨받아 이를 재검토한 바 있다. 해당 보고서는 그달 14일 국방부 검찰단 등의 의견을 회신받기 위해 전달한 법리 판단 결과라고 한다.&lt;br&gt;&lt;br&gt;조사본부는 임 전 사단장의 범죄 단서를 기록한 대목에서 “‘가슴 장화를 신어라’ 등 구체적 수색 방법을 거론하는 바람에 채 상병이 장화를 신고 수중 실종자 수색을 하게끔 함으로써 안전한 수색 활동의 의무를 다하지 않았다”고 했다. 조사본부는 이런 판단을 포함해 임 전 사단장 등 6명에 대해 혐의가 있다는 의견을, 2명에 대해서는 추가 조사가 필요하다는 의견을 보고서에 기재했다. 해병대 수사단의 초기 조사에서 업무상과실치사 혐의자 수가 2명 줄어든 것이다.&lt;br&gt;&lt;br&gt;국방부 조사본부는 지난해 8월 21일 임 전 사단장 등을 제외하고 대대장 2명만 혐의가 있다고 판단해 경찰에 이첩했다. 이첩 대상이 6명에서 2명으로 줄어든 것으로, 대통령실 등으로부터 외압이 작용했다는 것이 ‘순직 해병 조사 무마 외압’ 의혹의 골자다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XSLHQLCPILLJQF3GHED6VANRRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 의혹을 수사하는 고위공직자범죄수사처(공수처)는 최근 조사본부의 재검토 과정의 사실관계를 정리하는 데 주력하고 있다. 지난달 2일과 20일 조사본부 책임자였던 박경훈 전 조사본부장 직무대리를 피의자 신분으로 소환조사했고, 같은 달 25일과 지난 3일에는 조사본부 관계자 A씨를 참고인 신분으로 불러 조사했다.&lt;br&gt;&lt;br&gt;공수처 관계자는 이날 정례 브리핑에서 “재조사 실무에 관여한 국방부 조사본부 관계자들에 대한 참고인 조사는 계속 있을 예정”이라고 했다. 다만 임 전 사단장, 김계환 해병대 사령관 등 주요 관계자에 대한 소환 일정 조율은 “진행 중인 바가 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>약혼 발표한 조민, 이번엔 부케 받는 영상 공개... 지지자 환호</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/04/YDV7WMXRKZD5BPDB7MVEHLIDMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/04/YDV7WMXRKZD5BPDB7MVEHLIDMI/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 04 Jun 2024 13:05:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5XADRT57EZDKZJ2ASROYI3OFSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부케 받는 영상을 공개한 조국 조국혁신당 대표 딸 조민씨. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유튜브 채널을 통해 약혼을 발표했던 조국 조국혁신당 대표의 딸 조민(32)씨가 이번엔 인스타그램을 통해 부케 받는 영상을 공개했다.&lt;br&gt;&lt;br&gt;조씨는 2일 인스타그램에 ‘친구 부케 받는 날, 감동’이라는 짧은 글과 함께 결혼식에서 부케 받는 영상을 올렸다. 조씨는 받은 부케를 들고 활짝 웃고 있는 사진을 추가로 공개하기도 했다.&lt;br&gt;&lt;br&gt;이에 지지자들은 “내 딸도 아닌데 볼때마다 너무 예쁘고 기특하다” “예쁜 신부가 될 것” “장관님 흐뭇하실 것 같다” 등의 댓글을 남겼다.&lt;br&gt;&lt;br&gt;앞서 조씨는 지난 1월 30일 유튜브 채널을 통해 직접 남자친구와의 약속 소식을 전했다. 당시 조씨는 “약 8개월 정도 연애를 했고 결혼은 올해 하반기 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이후 조 대표 역시 페이스북에 “제 딸 조민이 유튜브 채널을 통해 본인의 약혼 사실을 밝혔다”며 “상대는 어려웠던 시절 딸 옆에서 굳건히 서 있었던 청년”이라고 전했다. “양가 축복 속에 약혼을 하게 됐다. 두 청춘의 앞길에 행복이 가득하길 빈다. 축하 인사를 보내주신 분들께도 깊이 감사드린다”고도 했다.&lt;br&gt;&lt;br&gt;이후 조씨는 유튜브와 인스타그램 등 자신이 운영하는 소셜미디어 계정을 통해 결혼 준비 과정 등을 공개했다. 지난달 19일엔 “종류별로 10벌 입어봤다”며 웨딩드레스를 선택하는 영상을 올렸다.&lt;br&gt;&lt;br&gt;한편 조씨는 지난 3월 22일 입시 비리 혐의에 대한 1심 재판에서 벌금 1000만원을 선고받았다. 서울중앙지법 형사16단독 이경선 판사는 이날 업무방해, 허위작성공문서행사 등의 혐의로 기소된 조씨에게 이같이 선고하면서 “입시의 공정성을 저해하고 입시 제도 전반에 대한 국민들의 불신을 야기하였으며 공정한 경쟁을 위하여 오랜 기간 성실히 노력하는 대다수의 사람들에게 허탈감과 좌절감을 주는 행위로 그 비난 가능성이 크다”고 했다.&lt;br&gt;&lt;br&gt;이후 같은 달 29일, 조씨 측과 검찰 모두 사건을 심리한 서울중앙지법에 항소장을 제출했다. 검찰은 “성인인 조씨가 다수의 허위 증빙 입시 서류를 직접 제출하고 허위 스펙에 맞춰 입시면접까지 하는 등 범행에 적극 가담한 입시 비리 사건에 대해 재산형인 벌금형 선고는 이례적이고 적정하지 않다”며 “1심 선고형은 범죄에 상응하지 않는다고 판단해 항소를 제기했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/R5J3MGAYKVC6LACCBGK6W3CEJA.jpg?width=282&amp;height=212&amp;auth=38c8aab6e6bf64361438b9c4ac0af25d7ee855f89093b0b04a625abd591dcfe6&amp;smart=true" type="image/jpeg" height="212" width="282">
+        <media:description type="plain">부케 받는 영상을 공개한 조국 조국혁신당 대표 딸 조민씨. /인스타그램</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>“30대에 출소, 인생 계획은...” 인천 초등생 살해범 옥중편지에 반응은</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/04/MAJYGGGTVBG7JLOW47FBZ6AKHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/04/MAJYGGGTVBG7JLOW47FBZ6AKHU/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 04 Jun 2024 12:03:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IG4JP56LP7TTDJALTW33T27WMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;’인천 초등생 살해’ 사건으로 재판에 넘겨진 박모(20·왼쪽)양과 김모(18)양이 2018년 항소심 선고공판에 출석하기 위해 서울고법에 들어서고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8살 초등학생을 자신의 집으로 유인해 살해, 시신을 훼손하고 유기까지 한 이른바 ‘인천 초등생 유괴 살해 사건’ 범인인 20대 여성의 옥중 편지가 공개됐다. 편지에서 이 여성은 “학업을 이어간 뒤, 이를 발판 삼아 타인에게 도움을 줄 수 있는 일을 하고 싶다”는 등 출소 이후의 계획을 밝혔다. 이에 온라인상에선 “어린아이를 무참히 살해해놓고 어떤 도움을 주겠다는 거냐” 등의 비판이 이어졌다.&lt;br&gt;&lt;br&gt;인천 초등생 유괴 살해 사건 범인 김모씨는 지난 2일 공개된 MBC ‘그녀가 죽였다’ 측에 보낸 옥중 편지에서 “제가 제 서사를 갖게 되고 목소리를 내는 것이 과연 옳은가 하는 고민 탓에 답장이 늦어졌다”고 운을 뗐다.&lt;br&gt;&lt;br&gt;앞서 김씨는 18살이던 2017년 3월 29일, 인천 연수구의 한 공원에서 같은 아파트에 사는 초등학교 2학년 여자아이를 집으로 유인해 살해했다. 당시 이 사건은 범인이 미성년자인 데다 수법이 잔혹해서 화제였다. 김양은 시신을 엽기적으로 훼손해 물탱크에 유기하고, 그중 일부를 공범으로 지목된 박모(당시 20세)씨에게 건넨 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김씨는 2018년 9월 대법원에서 미성년자 최고형인 징역 20년형을 받았다. 소년법에 따르면 18세 미만 최대 형량은 징역 15년이지만, 특정강력범죄의 처벌에 관한 특례법에 따라 더 높은 형량을 받았다. 박씨는 공범이 아닌 방조범으로 인정돼 징역 13년형을 받았다. 김씨와 박씨 모두 가석방 없이 형기를 채우더라도, 출소 후 30대에 불과한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FLDUYCZT3SE3EOG56P6PJMAGDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김모양이 초등학교 2학년 여자아이를 유인해 자신의 집으로 올라가고 있는 모습. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번에 공개된 옥중 편지에서 김씨는 출소 이후의 계획 등을 털어놨다. 김씨는 “이젠 제가 앞으로 무엇을 할 수 있는가에 집중하기로 했다”며 “제가 출소한 뒤 어떤 삶을 살게 될지는 아직 시기상조라 생각하지만 학업을 좀 더 이어간 뒤 이를 발판삼아 타인에게 도움을 줄 수 있는 일을 하고 싶은 소망이 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “이곳에서 하고 있는 여러 가지 공부들이 그 밑거름이 되어 주기를 기대하고 언젠가는 제가 작은 빛이 되어 그늘진 삶을 살아가는 사람들을 비춰주고 싶다”며 “그 사람들이 후회할 만한 선택을 하지 않아도 괜찮도록 도울 수 있는 사람이 되기를 꿈꾸고 있다”고 했다.&lt;br&gt;&lt;br&gt;이 같은 내용이 알려지자, 온라인상에선 비난 여론이 들끓었다. 네티즌 사이에선 “이런 잔인한 살해범이 교화가 되나” “출소해도 30대라는 점이 어처구니없다” “출소하면 또 어떤 범죄를 저지를지 무섭다” 등의 반응이 나왔다.&lt;br&gt;&lt;br&gt;한편 김씨가 복역 중 언론에 이름을 올린 건 이번이 처음은 아니다. 2022년에는 중학생 시절 성추행을 당했다며 60대 강사를 경찰에 고소하고 민사소송도 제기한 사실이 뒤늦게 전해져 이목을 끌었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>개인정보 빼내 트로트 가수 집 찾아간 30대 경찰 직위 해제</title>
+      <link>https://www.chosun.com/national/incident/2024/06/04/I7PF6K5L2NHIXACNHSTFU5DZCU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/04/I7PF6K5L2NHIXACNHSTFU5DZCU/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 04 Jun 2024 12:45:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UPW5K7S5GOUMFTUBRIEYTTUSRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/충남경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;트로트 가수의 개인정보를 빼내 집까지 찾아간 경찰이 징계를 받게 됐다.&lt;br&gt;&lt;br&gt;경찰은 개인정보보호법 위반 혐의로 충남경찰청 소속 경찰인 30대 여성 A씨를 입건해 조사 중이라고 4일 밝혔다. A씨는 지난 4월 경찰 내부망을 통해 한 트로트 가수 B씨의 집 주소를 알아낸 뒤 찾아간 것으로 조사됐다.&lt;br&gt;&lt;br&gt;놀란 B씨가 경찰에 신고했고 충남경찰청은 A씨를 직위해제하고 정확한 사건 경위를 조사 중이다. A씨는 B씨에게 별다른 위해를 입히진 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이재용 항소심 재판부, ‘집중 심리’ 위해 8월 말까지 새 사건 안 받는다</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/04/OZLAPFRRK5CI5LRQFFVWV3BLFI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/04/OZLAPFRRK5CI5LRQFFVWV3BLFI/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 04 Jun 2024 12:21:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RYTU2MFZ5BEVDOPWTTQ3LPNAIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재용 삼성전자 회장. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성그룹 경영권 승계와 관련된 부당 합병, 회계 부정 혐의 등으로 기소돼 1심에서 무죄를 선고받은 이재용 삼성전자 회장의 항소심 재판부가 다음 달부터 8월까지 새 사건 배당을 받지 않는다. 집중 심리에 따라 3년 5개월 걸렸던 1심 재판과 달리 2심 재판에 속도가 붙을 수 있을지 주목된다.&lt;br&gt;&lt;br&gt;4일 법조계에 따르면 서울고법은 형사13부(재판장 백강진)의 요청에 따라 내부 의견수렴을 거쳐 해당 재판부에 다음 달부터 8월까지 사건 배당을 하지 않기로 결정했다.&lt;br&gt;&lt;br&gt;이에 따라 재판부는 내달 1일부터 8월 31일까지 두 달간 새로운 사건을 배당받지 않는다. 필요할 경우 이러한 배당 중지 기간은 연장될 수도 있다. 이는 집중 심리가 필요하면 재판부가 신건 배당 중지를 요청할 수 있는 법원 예규에 따른 것이다.&lt;br&gt;&lt;br&gt;이와 같은 배당 중지 결정은 이 사건 쟁점이 복잡하고 항소심에서 추가 심리할 분량이 더 방대해진 점 때문인 것으로 해석된다.&lt;br&gt;&lt;br&gt;이 회장은 2015년 제일모직과 삼성물산을 합병하면서 경영권 승계와 그룹 지배력 강화에 유리한 방향으로 주식 시세를 조종했다는 혐의와 이 과정에서 제일모직 자회사였던 삼성바이오로직스에 대한 분식회계에 관여했다는 혐의(자본시장과 금융투자업에 관한 법률위반 등)를 받고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G3H7CEB3GZJ2HM3N2U5ERMDZG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재용 삼성전자 회장이 지난달 28일 오후 서울 중구 롯데호텔 서울에서 빈 자이드 알 나하얀 아랍에미리트 대통령과의 간담회에 참석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 올해 2월 약 3년 5개월의 심리 끝에 “제일모직과 삼성물산 합병은 두 회사 이사회의 합병 필요성 검토 등을 통해 결정됐으며 사업적 목적도 인정된다”면서 “검찰의 주장처럼 이 회장의 경영권 강화와 승계만이 합병의 목적이라고 볼 수 없다”고 판단했고, “두 회사 합병이 주주들에게 손해를 줄 의도가 있었다고 보기 어렵다. 분식회계 의도가 있다고 단정할 수도 없다”며 무죄를 선고했다. 이 회장과 함께 재판받은 전·현직 임원 10명도 모두 무죄 판결을 받았다.&lt;br&gt;&lt;br&gt;이에 불복해 항소한 검찰은 1300쪽에 달하는 항소이유서를 비롯해 2000건이 넘는 새로운 증거를 제출했고 증인도 열 명 넘게 신청했다. 이 회장 측은 지난달 27일 열린 2심 공판준비기일에서 “검찰이 신청한 증인 중 상당수는 이 사건을 직접 경험한 사람이 아니다. 검찰 의견에 맞는 진술을 법정에서 듣겠다는 게 항소심에서 적절한지 의문이다. 검찰이 신청한 증인이 적절한 지 잘 모르겠다”며 반박하기도 했다.&lt;br&gt;&lt;br&gt;재판부는 증인 신문 필요성에 대한 양측의 이견이 있다는 점과 변호인들이 검찰 측 증거를 열람·복사하는 데에도 시간이 소요된다는 사실을 감안해 오는 7월 22일에 한 차례 더 공판준비기일을 진행하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>지자체 여성 공무원 수, 처음으로 남성 역전</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/04/N4QXVA4QIRC6LCXAPA5UUWHZXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/04/N4QXVA4QIRC6LCXAPA5UUWHZXA/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 04 Jun 2024 11:38:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WV6ZKV63E2BQYPE43PSAP5PMWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;행정안전부 청사 전경. ⓒ News1 허고운 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 지방자치단체의 여성 공무원 수가 처음으로 남성 공무원 수를 앞지른 것으로 집계됐다.&lt;br&gt;&lt;br&gt;4일 행정안전부 ‘2023년도 지자체 공무원 인사통계’에 따르면, 작년 말 기준 전국 지자체 공무원 수는 31만3296명(현원 기준)이었다. 이 중 여성 공무원은 15만7935명으로 50.4%를 차지했다.&lt;br&gt;&lt;br&gt;지자체 여성 공무원 수가 절반을 넘긴 것은 이번이 처음이다. 여성 공무원 비율은 2021년 48.1%, 2022년 49.4% 등으로 해마다 상승하고 있다. 10년 전인 2013년에는 35.2%였는데 10년 새 15%포인트가 상승한 것이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “요즘은 서울시 공무원 시험 지원자의 3분의 2 정도가 여성”이라며 “여성 비율은 계속 상승할 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;지역별로는 부산의 여성 공무원 비율이 56%로 가장 높았다. 이어 서울(54.4%), 인천(53.6%), 경기(52.9%) 등의 순이었다. 여성 공무원 비율이 낮은 지자체는 강원(43.9%), 경북(44.1%), 제주(44.2%) 등이었다.&lt;br&gt;&lt;br&gt;지자체의 간부급 공무원인 1~4급 공무원(일반직) 중 여성 비율은 18.8% 수준이었다. 다만 그 비율은 2021년 13.3%, 2022년 15.4% 등으로 해마다 높아지고 있다.&lt;br&gt;&lt;br&gt;중앙 부처 국가 공무원 중 여성 공무원 비율은 2022년 말 기준 48.5%로 지자체보다 낮았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>동두천 점집서 여성 찌른 30대 남성...서울서 검서</title>
+      <link>https://www.chosun.com/national/incident/2024/06/04/XSODW3UKLFGEBODJXSH6QYXHKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/04/XSODW3UKLFGEBODJXSH6QYXHKE/</guid>
+      <dc:creator>동두천=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 04 Jun 2024 11:41:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z54UH5VJLZEXJEQW5HDFDSR5GQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;점집에서 50대 여성에게 흉기를 휘두르고 도주한 30대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 동두천경찰서는 강도상해 혐의로 30대 남성 A씨를 붙잡아 조사하고 있다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 오후 2시쯤 동두천시에 있는 점집에서 50대 여성 B씨에게 흉기를 휘둘러 다치게 한 혐의를 받는다. B씨는 목 부위를 다쳐 병원 치료를 받고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 범행 직후 택시를 타고 서울 강북구로 도주했으나 공조 요청을 받은 서울 종암경찰서 형사들에 의해 이날 오후 5시 15분쯤 체포됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 범행 동기를 조사한 뒤 구속영장을 신청할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아파트 단지서 승용차 돌진…초등학생 3명 부상</title>
+      <link>https://www.chosun.com/national/incident/2024/06/04/OBVJVSN6NRB7FFY72GKNUBX5IU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/04/OBVJVSN6NRB7FFY72GKNUBX5IU/</guid>
+      <dc:creator>의정부=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 04 Jun 2024 10:43:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PMNDU53DE52WKZVL2MG2EOLXC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급차량./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아파트 단지에서 승용차가 인도로 돌진해 초등학생 3명이 중경상을 입는 사고가 발생했다.&lt;br&gt;&lt;br&gt;4일 경찰 등에 따르면 이날 오후 4시 35분쯤 경기 의정부시 녹양동 한 아파트 단지에서 50대 여성 A씨가 몰던 승용차가 인도로 돌진해 초등학생 3명과 단지 기둥을 들이받았다. 이 사고로 초등학생 1명이 다리를 다치는 등 중상을 입었다. 나머지 2명은 경상을 입어 각각 병원으로 이송됐다. 이들 모두 생명에 지장은 없는 것으로 전해졌다. 사고 당시 아파트 입구로 들어선 A씨의 차량이 우회전을 하는 과정에서 갑자기 인도로 돌진한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 목격자들을 상대로 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>조희대 “스마트워크 주2회 시범 확대… 형사재판부 형평 고려”</title>
       <link>https://www.chosun.com/national/court_law/2024/06/04/DLUKMVZABNCK5BCMOURH5YZS3E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/04/DLUKMVZABNCK5BCMOURH5YZS3E/</guid>
@@ -854,75 +930,6 @@
       <description/>
       <pubDate>Mon, 03 Jun 2024 15:40:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JUXVXPMLCZHOJKCVHGCH47CSSU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 반목(反目)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/06/04/3E5O5GGQLFEVDGU4AMUHJ3BSWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/06/04/3E5O5GGQLFEVDGU4AMUHJ3BSWE/</guid>
-      <description/>
-      <pubDate>Mon, 03 Jun 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DMTKJD3IPZCERCZUPLVUJ6VFOU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2392] 오늘은 뭘 볼까</title>
-      <link>https://www.chosun.com/national/nie/2024/06/04/HIVT54OU4ZGABDURMALOZ24TWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/04/HIVT54OU4ZGABDURMALOZ24TWE/</guid>
-      <description/>
-      <pubDate>Mon, 03 Jun 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GPJBYKMHKNAA3ENPYKJS5SSQYY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [디자인·건축 이야기] ‘서울 한강 노들섬’ 바꿀 건축가… 21세기 레오나르도 다빈치로 불려요</title>
-      <link>https://www.chosun.com/national/nie/2024/06/04/XLUJNRWDQJHDJHYYGYXFABQGIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/04/XLUJNRWDQJHDJHYYGYXFABQGIU/</guid>
-      <dc:creator>전종현 디자인·건축 저널리스트</dc:creator>
-      <description/>
-      <pubDate>Mon, 03 Jun 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IVBGR2ZK2VBIFL2TRC5BZAKSSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헤더윅이 설계한 뉴욕 맨해튼의 ‘베슬’. /트위터&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 서울 한강 노들섬을 세계적인 명소로 만들기 위해 2022년부터 진행해온 국제 설계 공모의 최종 당선작이 지난달 29일 발표됐어요. 바로 토머스 헤더윅이 이끄는 헤더윅 스튜디오의 ‘사운드스케이프(Soundscape)’입니다. 다양한 높이의 기둥을 세워 곡선 보행로를 만든다고 해요. 한국의 산세를 형상화한 것이라고 합니다.&lt;br&gt;&lt;br&gt;토머스 헤더윅(54)은 영국 출신 세계적 디자이너이자 건축가입니다. 영국의 ‘국민 디자이너’로 불린 테런스 콘란(1931~2020)은 생전에 헤더윅을 ‘이 시대의 레오나르도 다빈치’라고 불렀어요. 가구부터 조각, 설치물, 건축까지 그가 진행한 다양한 프로젝트가 천재적인 디자인과 설계로 매번 사람들을 놀라게 만들었기 때문입니다.&lt;br&gt;&lt;br&gt;그는 맨체스터 폴리테크닉대에서 3D 디자인을, 영국 왕립예술대학에서 석사과정으로 가구 디자인을 배웠는데요. 공부를 하면서 디자인과 공예, 건축을 엄격하게 나누는 교육 시스템에 반감을 느꼈다고 해요. 그래서 그는 작업할 때 건축가, 디자이너, 조경가 등이 힘을 합쳐 당면한 문제를 해결하는 다학제적 접근을 강조해 왔어요.&lt;br&gt;&lt;br&gt;런던의 보행용 교량인 ‘롤링 브리지’는 그의 흥미로운 초기 작업물입니다. 배가 지나갈 때는 팔면체의 조각품처럼 조용히 있다가, 필요할 때마다 전갈 꼬리가 아래로 쭉 펴지듯이 움직이는 이 다리는 설치 이후 많은 사람이 찾아와 구경하는 명소가 됐어요. 헤더윅은 ‘2010 상하이 엑스포’ 영국관 작업으로 세계적인 주목을 받게 됩니다. 그는 당시 엑스포의 주제인 ‘더 나은 삶’과 영국다움의 교집합이 뭘까 생각하다가 정원에 주목했고 결국 씨앗을 떠올렸다고 해요. 헤더윅은 가로·세로 25m, 높이 20m짜리 파빌리온의 주재료로 광섬유를 포함한 반투명 아크릴 막대기를 사용했어요. 길이 7.5m에 달하는 막대기 끝에 씨앗을 넣고, 이것을 건물 안쪽을 향하도록 촘촘히 박았는데 굴절 효과 덕분에 씨앗을 크게 볼 수 있었어요. 파빌리온 외부로 돌출된 아크릴 막대는 바람이 불면 촉수처럼 흔들렸고, 낮에는 햇빛을 안으로 전달하고 밤에는 내부 조명을 밖으로 반사하며 황홀한 모습을 보였다고 해요.&lt;br&gt;&lt;br&gt;헤더윅이 싱가포르 난양공과대에 지은 ‘러닝 허브’도 유명합니다. 헤더윅은 네모 상자 모양의 강의실이 아닌, 조약돌 모양의 타원형 강의실을 층층이 쌓아 올린 독특한 건물을 설계해 지었어요. 남아프리카공화국 케이프타운의 90여 년 된 곡물 저장고를 리노베이션한 ‘자이츠 아프리카 현대 미술관’도 헤더윅의 작품입니다. 저장고의 뼈대는 최대한 살리고, 내부에는 여러 갤러리와 중앙 아트리움을 만들었어요. 이 미술관은 꼭 가봐야 할 여행지로 언급되는 장소 중 한 곳이기도 합니다.&lt;br&gt;&lt;br&gt;요즘 헤더윅은 랜드마크 전문가로 통합니다. 그가 2019년에 만든 전망대 ‘베슬’은 뉴욕 맨해튼의 풍경을 바꿨다는 평가를 받아요. 베슬은 높이 46m, 너비는 15m부터 시작해 최상부에서 46m에 이르는 솔방울 모양을 하고 있어요. 구리색 금속으로 마감한 외면이 눈길을 사로잡는 매력적인 건축물이랍니다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재미있는 과학] 유전자 조작으로 피 빨아먹는 암컷 모기 줄여요</title>
-      <link>https://www.chosun.com/national/nie/2024/06/04/EQYVN7LU3RFFHPSHICRY56YFPI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/04/EQYVN7LU3RFFHPSHICRY56YFPI/</guid>
-      <dc:creator>이윤선 과학 칼럼니스트, 기획·구성=오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 03 Jun 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DFCCIF47ORC2DMBGCVB3M2NIUQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘윙~ 윙~.’ 요즘 잠을 자다가 귓가에 울리는 이 소리에 뒤척이는 분들 많을 거예요. 올해는 모기가 작년보다 더 빨리 활동하고 있다고 해요. 모기와 전쟁이 벌써 시작된 것이죠. 서울시는 시내 54곳에 설치한 ‘디지털 모기 측정기’로 측정한 모기 수와 강우량, 기온 등 데이터를 이용해 ‘모기 활동 지수’를 예보하고 있는데요. 지난달 30일 서울 주거지 지역 모기 활동 지수는 66.8까지 오르며 5월 최고치를 기록했습니다. 작년 같은 날(20.3)의 3.3배 수준이에요. 작년 5월 최고치(41.5)보다 1.6배 높은 수치이기도 합니다.&lt;br&gt;&lt;br&gt;모기의 이른 등장을 걱정하는 사람도 많아요. 모기에 물리면 가려운 것도 문제지만, 모기는 사람의 생명을 위협하는 감염병을 전파하기 때문이에요. 말라리아와 뎅기열, 일본뇌염 등 모기가 옮기는 감염병의 종류도 다양해요. 이 때문에 많은 사람이 모기를 해롭기만 한 곤충이라며 생태계에서 사라져야 한다고 주장하고 있습니다. 실제로 모기 개체 수를 줄이는 방법도 다양하게 연구되고 있어요. 모기, 어떻게 없앨 수 있을까요?&lt;br&gt;&lt;br&gt;&lt;b&gt;유전자 변형으로 수컷 모기 유충만 살아남아&lt;/b&gt;&lt;br&gt;&lt;br&gt;인간을 무는 모기는 암컷입니다. 평소에는 식물의 즙이나 꽃의 꿀을 먹어요. 그러다 산란기가 되면 알을 낳는 데 필요한 단백질을 섭취하기 위해 인간의 피를 먹습니다. 영국의 생명공학 기업 옥시텍은 이 점에 주목했어요. 암컷 모기가 줄어들면 모기를 통한 감염병 발생률도 줄일 수 있다고 본 거예요.&lt;br&gt;&lt;br&gt;옥시텍은 이를 위해 유전자 변형 모기를 개발했어요. 우선 연구진은 ‘tTAV’ 단백질을 만들었는데요. tTAV 단백질은 모기의 몸에서 같은 단백질을 필요 이상으로 만들어 성장에 관여하는 세포의 활동을 방해해요. 모기 유충이 성충으로 자라는 걸 방해해 죽게 만드는 원리인 거죠.&lt;br&gt;&lt;br&gt;연구진은 이 단백질이 암컷 모기의 몸에서만 발현되도록 조작한 뒤 수컷 모기가 있는 알에 집어넣었어요. 그렇게 유전자가 변형된 수컷 모기는 자연으로 방사돼 암컷 모기와 짝짓기를 하고, 두 모기 사이에서 수컷 모기로부터 tTAV 단백질을 물려받은 모기 유충들이 태어나게 됩니다. tTAV 단백질은 암컷 모기의 몸에서만 발현되도록 조작됐기 때문에 암컷 모기 유충은 성충으로 자라지 못하고 죽게 돼요. 반면 수컷 유충들은 건강하게 살아남아 다른 암컷 모기와 짝짓기를 하죠. 그러면 tTAV 단백질을 물려받은 모기 유충들이 또 태어나고 그중에서 암컷 모기 유충은 또 죽게 돼요. 이러한 번식 과정을 통해 암컷 모기를 줄여 나가는 방식인 거예요.&lt;br&gt;&lt;br&gt;옥시텍 연구진은 2021년 미국 플로리다 인근 섬에 유전자 변형 수컷 모기가 있는 알을 방사했고, 1년 뒤 해당 지역에 있는 모기 알 2만2000여 개를 확보해 실험실로 가져왔어요. 그리고 이를 부화시킨 결과, 암컷 모기 유충은 성충이 되기 전에 죽었다고 합니다. 옥시텍은 지난달 23일 유전자 변형 수컷 모기를 아프리카 지부티 지역에 방사했는데요. 옥시텍은 이번 프로젝트가 해당 지역의 말라리아 퇴치에 도움이 될 수 있을 거라고 기대하고 있습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;박테리아로 모기 매개 감염병 막다&lt;/b&gt;&lt;br&gt;&lt;br&gt;박테리아(세균)를 이용해 모기 수를 조절하는 방법도 있어요. 주인공은 ‘볼바키아 박테리아’입니다. 볼바키아 존재가 처음 알려진 건 1920년대예요. 미국 과학자들이 볼바키아에 감염된 모기를 발견했답니다. 하지만 이 박테리아가 모기 연구에 활용되기 시작한 건 1990년대 당시 미국 예일대 스콧 오닐 교수가 볼바키아로 뎅기열 확산을 차단하는 연구를 진행하면서였어요.&lt;br&gt;&lt;br&gt;볼바키아는 곤충의 몸속에서 영양소를 얻어먹으며 사는 박테리아예요. 모기를 포함해 나방·초파리 등 곤충의 60%가 이 박테리아에 감염돼 있지요. 이들은 숙주의 몸에서 안정적으로 살아가기 위해 다른 세균이나 바이러스가 들어오는 걸 막아요. 즉 볼바키아에 감염된 모기는 뎅기열이나 말라리아와 같이 사람에게 해로운 감염병을 옮기지 못하게 되는 거예요.&lt;br&gt;&lt;br&gt;스콧 오닐 교수는 뎅기열을 옮기는 매개 모기인 이집트숲모기에 볼바키아 박테리아를 집어넣었어요. 브라질과 호주, 피지 등 여러 지역에 볼바키아에 감염된 모기를 방사했고, 해당 지역들에서 뎅기열과 지카 바이러스 등 모기를 통해 퍼지는 감염병 예방에 효과가 있다는 걸 확인했어요. 호주의 열대 도시 타운즈빌은 뎅기열이 사실상 박멸됐다고 해요.&lt;br&gt;&lt;br&gt;특히 주목할 점은 볼바키아에 감염된 수컷 모기와 일반 암컷 모기가 짝짓기해서 나온 모기 알은 부화하지 않는다는 것이에요. 모기 개체 수를 줄이는 효과가 있는 거예요. 반대로 암컷만 감염된 경우나 둘 다 감염된 경우에서 짝짓기해 나온 모기 유충들은 이미 볼바키아에 감염된 상태라, 다른 감염병을 옮기지 못해요. 스콧 오닐 교수가 설립한 비영리 기구 세계모기프로그램(WMP)은 브라질에 볼바키아 감염 모기를 대량으로 생산하는 공장을 만들어 모기 매개 감염병을 예방하겠다는 포부를 작년에 밝혔답니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;모기가 없어져도 괜찮을까?&lt;/b&gt;&lt;br&gt;&lt;br&gt;이처럼 모기 수를 줄이기 위한 여러 연구가 진행되고 있어요. 하지만 한쪽에선 우려하는 목소리도 있습니다. 모기가 사라지면 생태계가 교란될 수 있기 때문입니다.&lt;br&gt;&lt;br&gt;지구에 사는 생명체들은 ‘먹이사슬’로 연결돼 있어요. 만약 모기와 모기 유충이 사라지면, 이를 먹이로 하는 물고기나 곤충, 도마뱀 등이 생존하기 어려워집니다. 그러면 또 이들을 먹고 사는 상위 포식자 동물에게 연쇄적으로 영향을 미치게 되고, 모기 이외에 다른 생물들도 멸종될 수 있어요. 이처럼 모기는 감염병을 옮기는 위험한 존재이지만 동시에 생태계를 이루는 중요한 생명체입니다. 그런 만큼 앞으로 모기와 어떻게 공생해 나가야 할지 많은 고민과 논의가 이뤄져야 할 것 같습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [사소한 역사] 고대 로마에선 마을 중앙에 설치해 주민들에게 식수 공급했대요</title>
-      <link>https://www.chosun.com/national/nie/2024/06/04/4IZYS7V4I5BKZIZRWLY4VEQFUU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/04/4IZYS7V4I5BKZIZRWLY4VEQFUU/</guid>
-      <dc:creator>김현철 서울 영동고 역사 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 03 Jun 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K4BSNVDGMNEBLHJV5VTNAOYGBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이탈리아 로마에 있는 트레비 분수. 도시의 사람들에게 식수 등을 제공하기 위해 만들어지던 분수는 수도와 건축 기술이 발달하면서 장식 목적으로 많이 쓰이게 됐어요. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6월인데 벌써 한낮에는 날이 덥습니다. 여름이 가까워졌다는 사실이 실감 나는 요즘인데요. 주말 나들이 나온 사람들이 분수 앞에 앉아 더위를 식히거나, 어린이들이 공원이나 광장 분수에서 물놀이하는 모습도 종종 보입니다. 이처럼 분수는 사람들이 쉬거나 놀 때 많이 찾는 시설이에요. 하지만 분수가 과거에 설치된 목적은 달랐다고 해요. 분수는 어떤 역사를 가지고 있을까요?&lt;br&gt;&lt;br&gt;분수가 처음 설치된 목적은 도시의 사람들에게 식수 등을 제공하기 위해서였어요. 그래서 고대에 만들어진 분수들은 물을 위로 뿜어내기보다 중력에 따라 자연스레 물이 흐르도록 하는 형태가 대부분이었다고 합니다. 이런 형태의 분수들은 현재 고대 메소포타미아 문명의 지역에 분수터로 남아 보존되고 있어요. 고대 그리스에서는 돌이나 대리석으로 만든 분수에서 물이 흐르도록 했는데, 일부는 대기압 등을 이용해 물을 분출하도록 만들어지기도 했습니다.&lt;br&gt;&lt;br&gt;하지만 고대 국가들 중 분수로 가장 유명한 곳은 역시 로마입니다. 고대 로마 제국은 산에 있는 샘물이나 계곡물을 도시 곳곳으로 보내기 위해 수로를 만들었어요. 이 수로를 통해 흘러온 물은 마을 중앙에 있는 분수대로 보내졌어요. 마을 사람들이 물을 쉽게 떠서 갈 수 있도록 말이죠. 베수비오 화산 폭발로 화산재에 묻힌 고대 로마의 도시 폼페이에는 부유층 집 안에도 분수가 있었다고 해요. 이를 통해 부유층은 집의 정원에 설치된 분수대에서, 서민들은 마을 가운데의 분수대에서 물을 공급받았던 것으로 추정해볼 수 있어요.&lt;br&gt;&lt;br&gt;로마 제국이 망하고 중세로 넘어가면서 제국이 건설한 수로들은 파괴되거나 방치됐어요. 그러면서 분수에서도 더 이상 물이 흘러나오지 못하게 됐습니다. 이 시기 분수들은 주로 성당 등 종교 시설에 건설됐어요. 장식 기능과 함께 종교 행사에 사용됐다고 해요. 물이 가진 정화의 이미지 때문에 물로 손이나 몸을 씻거나, 이마에 물을 끼얹거나 하는 종교 의식들에 분수가 필요했던 것이죠.&lt;br&gt;&lt;br&gt;이후 14세기 르네상스 시대에 접어들면서 고대 그리스와 로마 문헌이 다시 연구됐고 로마 제국이 남긴 수로들이 조금씩 복원되기 시작했어요. 분수도 함께 재건됐죠. 또한 16~17세기 이뤄졌던 종교 개혁이 분수 제작에 영향을 미친 부분도 있다고 해요. 개신교 확산을 막기 위해 성당 인근에 광장과 분수를 만들어 사람들의 이목을 끌려고 한 것이죠. 이후 수도와 건축 기술이 발달하자 분수는 식수를 공급하는 역할은 하지 않고 장식 목적으로 많이 쓰이게 됐답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 6월 3일</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/04/GHFQ5DHSGRANHLDATBYXJT7KVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/04/GHFQ5DHSGRANHLDATBYXJT7KVI/</guid>
-      <description/>
-      <pubDate>Mon, 03 Jun 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RSJTSWBDBVE3ZPC7S4GUKHTT34.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“아저씨들, 女알바생에 고백하지 마라” 사장 당부에 와글와글</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/03/DLNQNY446FATLJHN3QX3NFOOQU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/03/DLNQNY446FATLJHN3QX3NFOOQU/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 03 Jun 2024 13:47:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YONVCSDJCJB2YNRMV7EN7OWAZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내의 한 편의점에서 아르바이트생이 물건을 정리하고 있다. 사진은 기사 내용과 직접적인 관련이 없음. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;나이 많은 남성 고객을 향해 서비스직 아르바이트생에게 사랑 고백을 자제해달라는 사장의 호소가 온라인에서 화제가 되고 있다. &lt;br&gt;&lt;br&gt;최근 한 온라인 커뮤니티에는 ‘아저씨들 여자 알바생에게 고백 좀 그만합시다’라는 제목의 글이 올라왔다. 가게 사장으로 보이는 글쓴이 A씨는 젊은 여성 아르바이트생을 대변해 “서비스직에 종사하면서 나이도 배로 많은 고객에게 고백을 받으면 기분이 어떨까? 자존심이 많이 상한다”며 “서비스직을 하다 보면 손님에게 상처를 꽤 많이 받는다. 늘 수많은 손님들을 대하기에 감정 소모가 심하고, 진상 손님들도 꽤 있어서 몇 번 상대하다 보면 자존감도 많이 낮아진다”고 했다. &lt;br&gt;&lt;br&gt;A씨는 “늘 그런 상황인데 40~60대 남성에게 고백까지 받으면 기분이 좋기는커녕 상대방이 내 직업과 내 자신을 쉽게 보는 것 같은 느낌이 든다”며 “고백을 하는 사람은 껄떡이 아니라고 하지만 고백을 받는 입장이나 옆에서 지켜보는 입장에서는 껄떡대고 추근대는 것”이라고 했다. &lt;br&gt;&lt;br&gt;그러면서 그는 “절대 고백 같은 거 하지 마라. ‘휴일에 일하셔서 남친이 많이 속상해하겠다’ 따위의 유도 질문도 절대 하지 말라”며 “듣는 입장에서는 그런 말을 왜 하는지 다 안다. 그냥 모른 척할 뿐”이라고 했다. 이어 “‘나는 아닐 거야’ ‘분명 저 알바도 내게 호감이 있어’ ‘혹시나 잘 될 수도 있는 거잖아’ ‘미인은 용기있는 사람이 얻는 거랬어’라는 자기 합리화로 당위성을 만들지 마라”며 재차 고백하지 말 것을 당부했다.&lt;br&gt;&lt;br&gt;A씨는 댓글로 해당 글을 쓴 이유에 대해 “아르바이트하는 여자애들에게 고백을 해버리니 그만두는 애들도 생긴다. 한 두 번도 아니다”라고 첨언했다. &lt;br&gt;&lt;br&gt;이 글에 대해 네티즌의 의견은 엇갈렸다. A씨의 이같은 당부가 불쾌하다는 반응이 나왔다. “개인 대 개인으로 고백하는 건데 나이 차이 나면 고백하지 말라는 법이 있나” “남자 손님은 받고 싶고 불편한 건 싫고. 그것도 보기 불편하면 남자 손님을 받지 마시라” “고백한 당사자에겐 아무 말도 못하면서 왜 애꿎은 40대 50대 남자들한테 화풀이냐” “그런 대시 받으면서 은근히 즐기는 사람도 있다” “남녀 갈라치기를 하다못해 이젠 젊은 여자, 늙은 남자로 갈라치기를 하네” 등이었다.&lt;br&gt;&lt;br&gt;그러나 A씨에 공감을 표하는 의견도 있었다. “쉽게 고백하는 건 서비스직은 약자라고 생각해서 우습게 보고 그러는 거다. 진상 중 하나” “나이 많은 사람의 고백이라니 직접 겪지 않고 글로만 읽어도 불쾌하다” “내 딸이나 동생한테 40~50대가 껄떡댄다고 생각해봐라” “입장 바꿔서 20대 남자가 환갑 여자한테 고백받으면 기분 좋겠나” “던지다 보면 하나 걸리겠지 하는 마음으로 고백하는 건 진짜 극혐” “상대가 거절하면 제대로 알아듣기라도 해라” 등의 반응이었다. &lt;br&gt;&lt;br&gt;아르바이트 구인·구직 플랫폼 ‘알바천국’은 지난해 알바생 763명을 대상으로 설문 조사한 결과, 10명 중 9명의 응답자(89.9%)가 근무 중 스트레스를 받았다고 답했다. 가장 극심한 스트레스 상황으로 ‘진상 손님 응대(39.4%)’를 꼽았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘김혜경과 식사비’ 결제 묻자...본인도 의원 아내도 “기억 안난다”</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/03/NWJUJMX2LBFSFKOY4O7UMKOLFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/03/NWJUJMX2LBFSFKOY4O7UMKOLFM/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 03 Jun 2024 10:32:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S22S7K6LAZK7BFI72V7SD7DEHQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;‘공직선거법 위반’ 혐의로 불구속 기소된 더불어민주당 이재명 대표의 배우자 김혜경 씨가 지난달 22일 오전 경기 수원시 영통구 수원지방법원에서 열린 7차 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 대선 경선 과정에서 ‘경기도 법인카드’로 식사를 제공한 혐의로 기소된 이재명 더불어민주당 대표의 배우자 김혜경씨의 재판에서 당시 식사 자리에 함께 있었던 김씨의 운전기사와, 민주당 의원의 배우자는 “기억이 나지 않는다”거나 “잘 모르겠다”고 말했다.&lt;br&gt;&lt;br&gt;김씨의 운전기사는 “밥값을 내야한다는 생각 자체가 없었다”고 했고, 민주당 의원 배우자는 “(결제를 누가 했는지)잘 모르겠다”면서도 “저쪽(김씨 측)에서 (식사비를)냈을 것”이라고 했다.&lt;br&gt;&lt;br&gt;수원지법 형사13부(재판장 박정호)는 3일 김씨의 공직선거법 위반 혐의에 대한 8차 공판을 열었다. 이날 재판에선 김씨와 함께 식사 모임을 했던 민주당 의원의 배우자 A씨와, 대선 기간 동안 김씨의 차량을 운전했던 B씨가 증인으로 나왔다. 이들은 문제가 된 식사 자리 당일 대부분의 상황을 구체적으로 기억하지 못 한다고 했다.&lt;br&gt;&lt;br&gt;김씨는 이 대표가 경기도지사로 재임하면서 당내 경선에 출마한 당시인 2021년 8월 2일 서울의 한 음식점에서 민주당 의원의 아내 등 3명 및 자신을 수행했던 운전기사·변호사 등에게 10만4000원 상당의 식사를 제공해 공직선거법상 기부행위 금지를 위반한 혐의를 받는다. 검찰은 김씨가 자신의 수행비서인 전 경기도 사무관 배모씨에게 지시해 당시 식사비를 경기도 법인카드로 결제하도록 한 것으로 보고 기소했다.&lt;br&gt;&lt;br&gt;이날 A씨는 “김혜경 여사가 대선 경선 때 (민주당)의원들을 잘 몰라서 잘 알고 있는 분들을 소개시켜줬다”는 취지로 진술했다. 문제의 식사 모임도 그 일환이었다는 것이다. A씨는 법정에서 “당시 식사 모임엔 전직 의장 출신인 민주당 전 원로 의원들의 배우자 2명과 함께했다”고도 증언했다.&lt;br&gt;&lt;br&gt;이날 검찰이 “피고인이 도움을 받는 자리였고, 피고인이 식비를 부담하는 게 맞지 않느냐”고 묻자, A씨는 “모르겠다. 그런 이야기한 적 없다”며 “제가 초청한 자리고, (음식값은)제가 내려고 했다”고 말했다. 그는 사전에 식비를 어떻게 할지 조율하거나, 김씨 측에서 각자 부담하자는 요청도 없었다고도 했다. A씨는 또 “제가 결제하려고 했는데, (결제가)돼 있었다”고 했다. 이에 검찰은 “결과적으론 이미 돼있었는데, 누가 결제했다고 생각했느냐”고 물었다. 이에 A씨는 “주차 문제 때문에 빨리 나가야 했기에 미처 생각 못했다”고 얼버무렸다.&lt;br&gt;&lt;br&gt;이날 A씨는 “다선 국회의원의 배우자로서, 식사모임 때 마다 현금으로 제 몫을 계산하는 게 일반적”이라면서도, 당시 식사값 결제에 대해선 “미처 생각하지 못했다”는 말을 반복했다.&lt;br&gt;&lt;br&gt;검찰은 “평소에 (음식값을)나눠 내는 게 일상화돼있는데, 누가 결제했다면 큰일났다고 생각해 사태파악을 해보려고 하거나 바로잡으려는 게 당연한 거 아니냐”고 하자, “미처 생각하지 못했다”거나 “잘 모르겠다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 또 “사전에 결제를 협의한 바 없고, 피고인이 먼저 (식당에서)나간다면 계산할 수도 있는데, 증인은 피고인이 결제할거라고 생각해서 아무런 조치도 안 한 거 아니냐”고 하자 A씨는 “아니다”라고 답했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVQH52SFTBISZEAH36ZS25NEN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표의 배우자 김혜경씨가 지난 달 4일 이 대표와 함께 인천 계양구 경인교대에서 열린 인천 어린이 놀이 축제와 계양아라온 행사에 참석한 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 재판부도 “나중에 밝혀지게 되면 문제가 생길 수도 있다는 생각은 했느냐”고 A씨에게 물었고, 그는 “그땐 못했다”고 했다. A씨는 김씨와 2021년 7월 20일 서울 모처에서 이미 한 차례 식사를 했고, 당시 자신의 식사비는 현금으로 따로 결제했다고 증언했다. 이에 재판부는 “이전엔 각자 계산해야 한다는 걸 알고 정확히 계산했는데, 보름 정도 지나고 문제가 생겼는데 인식을 못했다는 게 더 이상하지 않느냐”고 했다. A씨는 “(시간이) 지나서 알았다. 깊이 생각을 못 했던 거 같다”고 했다.&lt;br&gt;&lt;br&gt;이날 A씨가 7월 20일 김씨와 있었던 식사 자리를 두고 점심인지 저녁인지 여부 등 헷갈려 하자, 재판부는 김씨에게 직접 해당 모임에 대해 물었고 김씨는 “룸에 앉아있던 장면만 기억나고, (결제 등에 대해선)기억이 나지 않는다”고 답하기도 했다.&lt;br&gt;&lt;br&gt;이날 오전에 증인으로 나온 운전기사 B씨는 “당일 일을 기억을 전혀 못했다가 언론을 보고 알았다”며 “제가 밥값을 내야 되나 이런 생각 자체가 없었다”고 했다. 그러면서 “그 당시엔 제가 계산을 해야 한다는 생각은 못 했고, 기간이 얼마나 되는 지 모르는데, 다른 사람이 계산해준적도 있다고 생각했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘이혼 소송’ 티아라 출신 아름, 아동학대 혐의로 검찰 송치</title>
