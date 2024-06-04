@@ -6,6 +6,36 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>경주범죄예방위원, 월남전 참전 60주년 맞아 유공자 주거환경 개선 봉사</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/198821.jpg" alt="198821.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/198821_1.jpg" alt="198821_1.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무부 청소년 범죄예방위원 경주지역협의회의 한마음봉사단(단장 김정석)은 호국보훈의 달을 맞아 지난달 31일 경북 경주시 산내면의 월남참전 유공자 한모 씨(79)의 주거환경을 개선하는 ‘미소드림하우스‘ 봉사를 진행했다.&lt;br /&gt;&lt;br /&gt;한마음봉사단은 2003년 창단된 단체로, 목수와 도배, 전기 등 건축분야 기술 보유자들로 구성됐다. 이들은 2009년부터 경북남부보훈지청(지청장 김지현)과 업무협약을 체결하고 6월마다 국가유공자와 유족들을 위한 주거환경개선사업인 미소드림하우스 봉사를 진행하고 있다.&lt;br /&gt;&lt;br /&gt;올해는 월남전 참전 60주년을 맞아 월남참전 유공자인 한 씨 자택의  지붕 누수 보수와 실내 방한, 도배, 장판 교체 작업을 시행했다.&lt;br /&gt;&lt;br /&gt;한 씨는 “전문가들이 걱정거리를 해결해 주고 집도 깨끗해져서 기분이 참 좋다”며 감사의 마음을 전했다. 김정석 한마음봉사단장은 “국가를 위해 헌신한 분들에게 감사를 전할 수 있는 기회에 오히려 감사하다”고 답했다.</description>
+			<pubDate>Tue, 04 Jun 2024 06:25:00 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198821</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198821</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/198821.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] 업무상 스트레스로 극단 선택 이전 우울증 증상 있었다면…"보험금 미지급 약관 예외사항으로 인정해 보험금 지급해야"</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/198805.jpg" alt="198805.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;육아 및 업무상 스트레스 등으로 극단적 선택을 한 경우 그 이전에 우울증과 유사한 증상이 나타났다면 '자유로운 의사결정을 하지 못하는 상태'에서 사망한 것으로 보고 보험금 지급 사유로 인정해야 한다는 판결이 나왔다.&lt;p&gt;   &lt;b&gt;&lt;br /&gt;대법원 민사1부&lt;/b&gt;(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1658"&gt;오경미&lt;/span&gt;&amp;nbsp;대법관)는 5월 9일 A 씨의 유족이 현대해상화재보험과 DB손해보험, MG손해보험, KB손해보험, 메리츠화재해상보험을 상대로 낸 보험금 청구소송 상고심에서 원고패소한 원심을 파기하고 창원지법으로 사건을 돌려보냈다(&lt;b&gt;2021다297529&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;2018년 2월 A 씨는 회사에서 자정까지 야근을 마치고 귀가한 직후 자택에서 극단적 선택을 해 사망했다. 당시 수사기관은 A 씨가 육아와 회사 업무를 병행하면서 업무상 스트레스와 육아휴직문제 등으로 극심한 갈등을 겪다 순간적으로 극단적 선택을 한 것으로 판단했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;A 씨의 배우자 B 씨는 근로복지공단에 유족급여 및 장의비를 청구했고, 공단은 업무상 사유로 정상적인 인식(판단)능력이 저하된 상태에서 극단적 선택에 이르게 된 것으로 보인다며 업무상 재해에 해당한다고 판단했다. 이듬해 B 씨는 보험사에 대해 보험금 지급을 청구했으나 보험사들은 모두 "A 씨가 심신상실로 인한 자유로운 결정을 할 수 없는 상태에서 극단적 선택을 했다고 보기 어렵다"며 거절했다. 보험계약 약관에는 피보험자가 고의로 자신을 해친 경우에는 보험금을 지급하지 않는다는 내용이 포함됐기 때문이다. 다만 약관에서는 피보험자가 심신상실 등으로 자유로운 의사결정을 할 수 없는 상태에서 자신을 해친 경우에는 보험금을 지급한다는 예외 조항이 있었는데, 보험사들은 A 씨가 이에 해당하지 않는다고 판단한 것이다. 이에 불복한 B 씨 등 유족은 보험사들을 상대로 소송을 제기했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;1심은 "A 씨의 신체적·정신적 심리상황, 주위상황, 극단적 선택의 동기, 그 경위와 방법 등을 종합하면 A 씨가 당시 순간적이나마 자유로운 의사결정을 할 수 없는 상태였다고 보는 것이 타당하다"며 유족의 손을 들어줬다. 약관에서 정한 면책 예외 사유에 해당한다고 판단한 것이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;반면 항소심은 A 씨가 정신질환이나 심신상실 등으로 자유로운 의사결정을 할 수 없는 상태에서 극단적 선택을 한 것으로 보기 어렵다고 판단해 원고패소 판결했다.                  &lt;/p&gt;&lt;p&gt;   &lt;br /&gt;하지만 대법원은 이러한 항소심 판결을 취소하고 사건을 다시 돌려보냈다. 대법원은 A 씨가 극단적 선택에 이르기 전 주요우울장애를 진단받거나 치료받은 사실은 없지만, 그 무렵 극심한 업무 스트레스를 호소했고 주요우울장애와 비슷한 증상을 보였기 때문에 자유로운 의사결정을 할 수 없는 상태라고 판단했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;재판부는 "A 씨는 사망할 무렵 폭증한 업무량으로 인해 연장근무를 하는 일이 잦았고, 상당한 업무스트레스를 받았다"며 "업무 가중으로 예정하고 있던 육아휴직을 연기·철회하기도 했고 직장동료나 배우자에게 죽고 싶다는 말을 여러 차례 하는 등 심리적, 정서적으로 불안한 상태였다. 이러한 사정이 비춰 보면 자유로운 의사결정을 하지 못하는 상태에서 사망에 이르게 됐을 여지가 있다"고 설명했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이어 "원심은 A 씨가 생전에 정신질환 진단 또는 진료를 받은 적이 없고, 사망 직전 우울증이나 공황장애 등 정신질환이 있던 것으로 평가하는 의사의 진단서나 소견서 등이 없다는 사정만으로 당시 정신질환이나 심신상실 등으로 자유로운 의사결정을 할 수 없는 상태에서 자신을 해친 경우라고 보기 어렵다고 판단했다"며 "이러한 판단에는 보험계약 약관의 면책 예외 사유 해석 등에 관한 법리를 오해해 필요한 심리를 다하지 않은 잘못이 있다"고 판시했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Tue, 04 Jun 2024 06:22:58 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198805</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198805</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/198805.jpg</media:thumbnail>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
+			<title>지평법정책연구소, 로스쿨생 대상 ‘이민 입법·정책 아이디어 공모전’ 열어</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/198819.jpg" alt="198819.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;지평법정책연구소(이사장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8653"&gt;이공현&lt;/span&gt;)가 법학전문대학원 재학생 등을 대상으로 ‘2024년 우수 입법·정책 아이디어 공모전’을 진행한다. &lt;br /&gt;&lt;br /&gt;지평법정책연구소는 “법정책 연구 주제와 이슈를 발굴하고, 연구 심화 활동을 펼쳐 정부시책이나 행정제도 운영에 참고자료를 제공하고자 공모전을 기획했다”고 밝혔다.&lt;br /&gt;&lt;br /&gt;공모사업의 주제는 ‘이민정책 및 이민 관련 법제도’다. 이민정책에 관한 현황 및 개선 필요성, 실행방안과 그에 따라 기대되는 정책효과 등을  양식에 따라 작성 후 제출하면 된다. 접수 기간은 7월 1일부터 31일까지이다.&lt;br /&gt;&lt;br /&gt;신청대상은 법전원 재학생이나 졸업생, 일반대학원 재학생이다. 개인 또는 3인 이하의 팀단위로 모두 신청 가능하다. 최우수상 1팀에게는 200만 원, 우수상 2팀에게는 각각 100만 원이 지급된다. &lt;br /&gt;&lt;br /&gt;공모사업을 주최한 이공현 이사장은 “이민정책 관련 국내외 제도적 환경이 급변하는 현재, 올바른 이민정책과 법제도의 수립·운영이 그 어느 때보다 필요한 시점이라고 생각한다”며 “참신한 입법·정책 아이디어가 나올 수 있도록 많은 지원과 관심을 부탁드린다”라고 전했다.</description>
+			<pubDate>Tue, 04 Jun 2024 05:18:06 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198819</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198819</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/198819.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
 			<title>법무법인 YK, 성남지청장 출신 이기석 대표변호사 영입</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/198817.jpg" alt="198817.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.yklawfirm.co.kr/" target="_blank"&gt;&lt;b&gt;법무법인 YK&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="19296"&gt;강경훈&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="19307"&gt;김범한&lt;/span&gt;)가 전 수원지검 성남지청장 등을 역임한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8717"&gt;이기석&lt;/span&gt;(59·사법연수원 22기·&lt;b&gt;사진&lt;/b&gt;) 변호사를 대표변호사로 영입했다고 4일 밝혔다.&lt;br /&gt;&lt;br /&gt;이기석 변호사는 1990년 제34회 사법시험에 합격했다. 1996년 서울지검 검사로 임관해 대구지검 안동지청장, 서울중앙지검 부장검사, 부산지검 동부지청· 울산지검· 서울동부지검의 차장검사를 역임했다.&lt;br /&gt;&lt;br /&gt;2016년 1월부터 약 1년 7개월간 성남지청장으로 근무하며 SRT 비리 사건, 전 국회의원 공천 관련 정치자금 수수사건 등 다양한 분야의 수사 업무를 경험했다.&lt;br /&gt;&lt;br /&gt;이 변호사는 "젊고 활기찬 YK와 함께하게 돼 매우 기쁘게 생각한다”며 “YK와 구성원 모두가 성장할 수 있도록 힘을 보태겠다”고 전했다.&lt;br /&gt;&lt;br /&gt;법무법인 YK는 전국 28개 분사무소를 직영 운영 중이며 올해에는 경기 안양·성남 등 10개 분사무소를 추가로 열 계획이다.</description>
 			<pubDate>Tue, 04 Jun 2024 03:50:48 -0000</pubDate>
@@ -210,35 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198719</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/198719.jpg</media:thumbnail>
 			<dc:creator>홍윤지 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 무허가 건축물 철거 안 해 유죄 판결받고도 재차 철거명령 무시해 기소… “면소 안돼”</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/198723.jpg" alt="198723.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;지방자치단체장의 시정명령을 받고 이행하지 않아 이미 유죄 판결을 받은 사람들이, 재차 시정명령 받았음에도 이행하지 않아 다시 기소됐다면 사실관계가 같다는 이유로 면소를 선고할 수 없다는 대법원 판단이 나왔다. 위반행위에 이용된 건축물이 동일해도 이행하지 않은 시정명령이 다르다는 이유에서다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;대법원 형사1부&lt;/b&gt;(주심&amp;nbsp;&lt;span class="lawmanlink" serial="3170" style="font-weight: bold;"&gt;김선수&lt;/span&gt;&amp;nbsp;대법관)는 5월 9일 개발제한구역의 지정 및 관리에 관한 특별조치법 위반 혐의로 기소된 A 씨와 B 씨에 대해 면소 판결한 원심을 파기하고 사건을 창원지법으로 돌려보냈다(&lt;b&gt;2023도18732&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;개발제한구역의 토지를 갖고 있던 A 씨와 B 씨는 2015년 10월 자신들의 토지에 김해시의 허가를 받지 않고 철파이프 구조 축사 1동 등 건축물을 세웠다. 이에 김해시는 원상복구하라는 시정명령을 각각 내렸지만, A 씨와 B 씨는 이행하지 않아 재판에 넘겨져 2019년 5월 유죄 판결을 확정받았다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이후 김해시는 재차 원상복구하라는 취지의 다른 시정명령을 내렸으나 A 씨와 B 씨는 이행하지 않았고, 결국 또 다시 재판에 넘겨졌다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1심은 개발제한구역법 위반을 인정해 A 씨에게는 징역 6개월에 집행유예 2년을, B 씨에게는 벌금 700만 원을 선고했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;하지만 항소심은 “이 사건 공소사실과 종전 형사사건 확정판결의 범죄사실은 그 기초가 되는 사회적 사실관계가 기본적인 점에 있어 동일하다”고 판단해 유죄로 판단한 1심을 파기하고 면소 판결했다. 항소심 재판부는 “공소사실 중 시정명령은 앞선 시정명령을 반복한 것으로 이들에게 새로운 의무를 부과하는 것이 아니라, 기존 시정명령에 의한 의무이행을 독촉하거나 기한을 연기한다는 통지에 불과하다”고 설명했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;그러나 대법원은 이러한 원심 판단을 뒤집었다. 대법원은 앞서 유죄 확정 판결을 받은 사건과 이 사건에 대한 공소사실이 별개의 절차를 거쳐 이뤄졌으므로 기본적 사실관계가 다르다고 판단했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;재판부는 “종전 확정판결의 범죄사실은 2017년 10월 31일자 시정명령을 이행하지 않았다는 것이고, 이 사건 공소사실은 그와 별개의 절차를 거쳐 이뤄진 2020년 6월 29일자 시정명령을 이행하지 않았다는 것”이라며 “설령 위반행위에 이용된 건축물이 같더라도 기본적 사실관계가 동일하지 않다”고 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이어 “원심 판단에는 기본적 사실관계의 동일성 판단에 관한 법리를 오해해 판결에 영향을 미친 잘못이 있다”고 덧붙였다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Sun, 02 Jun 2024 00:25:23 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198723</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198723</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/198723.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>(금주 법조계 주요일정) 6월 3~7일</title>
-			<description>&lt;b&gt;△3일(월)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물)등  혐의' 송영길 전 더불어민주당 대표 16차 공판(오전 10시)&lt;br /&gt;-서울고법, '정치자금법위반 등 혐의' 대장동 불법 대선자금 의혹 김용 외 3명 6차 공판준비기일(오후 2시)&lt;br /&gt;-서울중앙지법, '정치자금법위반 등 혐의' 이성만 의원 3차 공판(오후 2시10분)&lt;br /&gt;-서울중앙지법, '정당법위반 혐의' 윤관석 의원 외 2인 3차 공판(오후 2시10분)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△4일(화)&lt;/b&gt;&lt;br /&gt;-대한법무사협회, 제23대 협회장선거(전자투표 오전 6시~오후 6시)&lt;br /&gt;-법무법인 광장·한국배터리산업협회, 'EU 배터리 정책 기업 활용' 세미나(오전 10시, 서울 중구 소공동 한진빌딩 1층 아카데미아실)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 이재명 더불어민주당 대표 외 1명 30차 공판(오전 10시30분)&lt;br /&gt;-헌법재판소 '경상남도 남해군과 경상남도 통영시 간의 권한쟁의 사건(2022헌라1)' 공개변론(오후 2시)&lt;br /&gt;-법무법인 태평양, '공정거래 재판의 모든 것' 세미나(오후 2시, 서울 종로구 공평동 센트로폴리스 B동 25층 세미나실)&lt;br /&gt;-법무법인 세종, '건설부동산 분쟁 아카데미(5회차)'(오후 3시, 서울 종로구 청진동 디타워 23층 세미나실)&lt;br /&gt;-법무법인 광장, '디지털 헬스와 AI 그리고 규제 혁신' 웨비나(오후 4시)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△5일(수)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물)등  혐의' 송영길 전 더불어민주당 대표 17차 공판(오전 10시)&lt;br /&gt;-법무법인 대륙아주·현대해상화재보험, 중대재해 보험 및 인증제에 관한 업무협약 체결(오후 4시, 서울 강남구 테헤란로 동훈타워 12층 대회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△6일(목)&lt;/b&gt;&lt;br /&gt;-현충일&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△7일(금)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정경제범죄가중처벌등에관한법률위반(배임) 등 혐의' 백현동 개발사업 관련 정바울 아시아디벨로퍼 대표 13차 공판(오전 10시10분)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 이재명 더불어민주당 대표 외 1명 31차 공판(오전 10시30분)&lt;br /&gt;-수원지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 이화영 전 경기도 평화부지사 외 1명 선고(오후 2시)</description>
-			<pubDate>Sat, 01 Jun 2024 22:05:26 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198748</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198748</guid>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>최 회장 “난 ‘자수성가형’ 아닌 ‘승계상속형’”</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/198749.jpg" alt="198749.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;i style="text-align: center;"&gt;&amp;nbsp;&lt;/i&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;i&gt;“‘자수성가형’ 사업가가 아니라 ‘승계상속형’ 사업가다.”&lt;/i&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: left; "&gt;최태원 SK 회장이 노소영 아트센터 나비 관장과의 이혼 소송 항소심에서 본인에 대해 이같이 설명했다고 한다. 승계상속형 사업가에 해당하므로 자신의 SK그룹 경영활동을 통한 기여와 노 관장의 기여는 최 회장의 보수· 상여와 이를 바탕으로 형성된 재산을 통한 이익에만 국한된다는 것이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;하지만 재판부는 이 같은 주장을 받아들이지 않았던 것으로 전해진다. 이 과정에서 고(故) 스티브 잡스 애플사 최고경영자나 고(故) 이건희 삼성전자 총수, 이재용 회장에 대한 언급도 있었던 것으로 파악됐다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;최 회장과 같이 지배주주와 경영자 지위를 겸유하는 사람은 이 같은 구분과 무관하게 경영자로서 연봉, 주주로서 배당이나 보유한 주식의 가치 상승 등 여러 방법으로 충분한 보상을 받을 수 있다는 것이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 과정에서 재판부는 고 스티브 잡스는 10년간 연봉을 1달러로 고수했고, 원고 주장에 따라 승계상속형 사업가에 해당하는 고 이건희 총수는 2010년 경영에 복귀하며 급여와 성과를 받지 않았다고 설명했다. 또 원고 스스로 원고와 유사한 ‘승계상속형 사업가’에 해당한다고 본 이재용 회장도 7년여간 무보수로 경영하고 있다고 지적했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;재판부는 세 사람이 연봉을 전부 또는 거의 받지 않은 것은 이들의 경영활동을 통한 기여가 미비했기 때문이 아니라 배당금이나 소유한 주식의 가치 상승 등을 통해 경영 활동에 대한 보상을 충분히 받을 수 있기 때문이라고 설명했다고 한다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;그러면서 원고인 최 회장의 SK그룹 경영활동을 통한 기여와 이에 따른 이익 창출에 대한 피고의 기여가 인정되는 경우엔 SK㈜ 주식의 가치 증가에도 원고의 경영활동과 이에 대한 피고의 기여가 상당 부분 영향을 끼친다고 봐야 한다고 설시했다는 것이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;</description>
-			<pubDate>Sat, 01 Jun 2024 01:11:42 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198749</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198749</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/198749.jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
