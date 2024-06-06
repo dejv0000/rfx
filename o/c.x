@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대법 “미르의 전설 둘러싼 IP분쟁, 준거법인 중국법으로 해결해야”</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/06/XYXBMMK2PFAKPIGQSXPM3GE5LM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/06/XYXBMMK2PFAKPIGQSXPM3GE5LM/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Jun 2024 04:47:55 +0000</pubDate>
+      <content:encoded>대법원이 게임업체 액토즈소프트와 위메이드가 온라인 게임 ‘미르의 전설’을 두고 벌이는 저작권 분쟁에서 국내법이 아닌 중국법을 기준으로 다시 재판하라고 판결했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MP2HBDP4CNB73ODWUW6X6LNYJI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대법원. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 1부(주심 서경환 대법관)는 지난달 9일 액토즈소프트가 위메이드와 전기아이피를 상대로 낸 저작권 침해금지 및 손해배상 등 사건에서 원심의 원고 일부승소 판결을 파기하고 사건을 서울고법으로 돌려보냈다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;미르의 전설은 대표적인 1세대 온라인 다중접속역할수행게임(MMORPG)으로 1990년대 후반~2000년대 초반 시리즈로 출시돼 2편과 3편이 국내와 중국에서 인기를 끌었다. 위메이드는 2015년 미르의 전설 지식재산권(IP)을 활용해 모바일 게임 ‘열혈전기’도 제작했는데, 이 역시 중국에서 크게 성공해 회사의 대표작으로 부상했다.&lt;br&gt;&lt;br&gt;특히 미르의 전설 2, 미르의 전설 3의 저작권은 액토즈소프트와 위메이드가 공동으로 소유하고 있다. 액토즈소프트는 1996년에 설립됐고, 위메이드는 박관호 현 위메이드 대표가 액토즈소프트에 근무하면서 미르의 전설 2를 개발하던 도중 액토즈소프트와 일정 지분을 나누기로 하면서 2000년에 설립했다.&lt;br&gt;&lt;br&gt;두 회사는 2000년부터 2002년까지 저작물과 관련해 수차례 합의 및 약정을 했고, 그 결과 미르의 전설 2와 미르의 전설 3과 관련해선 각각 2001년 5월 및 2002년 11월 공동저작권자로 등록을 마쳤다.&lt;br&gt;&lt;br&gt;그럼에도 두 회사는 이후 저작권 관련 분쟁을 계속 겪었다. 온라인 게임 시장이 커지는 과정에서 주로 해외 진출 관련 다툼이었다. 2003년 위메이드가 중국 회사 ‘광통’에 미르의 전설 3의 판매권을 독자적으로 부여하자 액토즈소프트가 반발해 컴퓨터프로그램사용금지가처분을 냈고, 두 회사는 계약 형태에 따라 수익의 20∼30％는 액토즈소프트가, 70∼80％는 위메이드가 가져가기로 했다.&lt;br&gt;&lt;br&gt;그러나 2014∼2016년 미르의 전설 IP를 활용한 모바일 게임이 중국에서 흥행하면서 양사는 다시 분쟁을 겪었다. 두 회사는 국제상공회의소 판정과 중국 최고인민법원 판결 등을 거친 끝에 작년 8월 화해에 이르렀으나, 국내 법원에 제기한 소송을 취하하진 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OGPMFVRLYF3SKD7WSVJZJTK5S4.png"&gt;&lt;figcaption&gt;&lt;small&gt; ‘미르의 전설 2’ 대표 이미지. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;액토즈소프트는 위메이드와 위메이드의 물적분할로 설립된 전기아이피가 독단적으로 중국 회사에 미르의 전설 IP를 이용할 수 있도록 허가해 자사의 저작권을 침해했다며 2017년 소송을 냈고 1·2심 법원은 액토즈소프트의 손을 들어줬다. 당시 법원은 위메이드·전기아이피가 저작권을 침해한 것은 아니지만, 미리 합의된 비율에 따라 액토즈소프트에 사용료 20％를 지급하라고 판결. 또 원심은 베른협약 제14조2 2항을 내세워 ‘영상저작물’은 저작권 침해가 발생한 국가의 법을 따라야 하지만, 게임과 같은 ‘일반 저작물’에는 해당 규정이 없다고 판단했다.&lt;br&gt;&lt;br&gt;하지만 대법원은 원심판결이 국내법을 기준으로 판결한 것이 잘못됐다며 사건을 파기환송했다. 대법원은 “저작권에 대한 보호의 범위와 구제의 방법은 오로지 보호가 주장되는 국가의 법률에 의한다”고 규정한 베른협약 제5조 2항에 따라 저작권 침해가 발생한 국가의 법이 준거법이 되는 것이 맞는다고 봤다.&lt;br&gt;&lt;br&gt;대법원은 “대한민국과 중국은 모두 베른협약의 가입국으로서 ‘중국 회사가 원고(액토즈소프트)의 중국 내 저작재산권을 침해하는 행위에 피고(위메이드·전기아이피)가 교사 또는 방조하여 저작재산권을 침해하였다’는 원고의 주장에 관하여서는 중국의 법률이 준거법이 된다. 그런데 원심은 원고가 어느 국가에서 자신의 저작재산권 침해가 발생해 그에 대한 보호를 주장하고 있는지에 관해선 살피지 않은 채 피고의 이용허락 행위만을 대상으로 삼아 원고의 저작재산권 보호에 관한 준거법을 모두 대한민국의 법으로 결정했다”고 지적했다.&lt;br&gt;&lt;br&gt;대법원은 아울러 저작권 계약 중 위메이드가 미르의 전설 IP를 전 세계에서 이용할 수 있도록 허락한 부분은 구체적으로 어느 국가에서 저작권이 침해되고 있는지도 추가로 살펴야 한다고 봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한강 ‘4인승 자전거’ 절반으로 줄이고 성인만 빌릴 수 있게 한다</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/06/DTWKMKUD6BGJLA6YKQ53KBL6UA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/06/DTWKMKUD6BGJLA6YKQ53KBL6UA/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Jun 2024 04:40:16 +0000</pubDate>
+      <content:encoded>서울시가 ‘4인승 자전거’를 탈 수 있는 장소를 제한하고, 빌려주는 대수도 줄이기로 했다. 또 성인만 4인승 자전거를 빌릴 수 있게 한다. 한강에서 4인승 자전거로 인한 안전 민원이 잇따라 제기된 탓이다.&lt;br&gt;&lt;br&gt;서울시는 이 같은 4인승 자전거 종합 안전대책을 가동한다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DGP4JG4HV6YVX7L32NHKHVGLEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여의도공원 내 4인 자전거./서울시 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 지난 4월부터 여의도, 반포, 뚝섬 한강공원에서 총 90대의 4인승 자전거를 시민에게 대여해줬다. 여의도에 60대, 반포와 뚝섬에 각각 15대씩 배치돼 있다. 3~5월 총 1만616건 대여가 이뤄졌다.&lt;br&gt;&lt;br&gt;그러나 이로 인한 민원도 잇따랐다. 4인승 자전거가 산책로에 멈춰서 있거나 급회전하는 경우가 있었기 때문이다. 5명 이상이 탑승하는 ‘정원 초과’, 자전거 지붕에 올라 타는 안전 문제도 있었다.&lt;br&gt;&lt;br&gt;이 때문에 서울시는 여의도 한강공원에서 빌려주는 자전거 수를 절반인 30대로 줄이기로 했다.&lt;br&gt;&lt;br&gt;뚝섬 한강공원에선 대여를 아예 중지하기로 했다. 서울국제정원박람회로 방문객이 많고, 공원에 경사로가 있어 사고 위험도 높기 때문이라고 서울시는 설명했다.&lt;br&gt;&lt;br&gt;서울시는 또 4인승 자전거를 탈 수 있는 구간을 ‘폭 5.2m 이상 평지’로 지정했다. 4인승 자전거 폭이 1.1m라 사람이든 자전거든 안전하게 4인승 자전거를 추월하려면 도로 폭이 5.2m 이상이어야 한다고 판단한 것이다.&lt;br&gt;&lt;br&gt;이에 따라 여의도 한강공원에선 국회 주차장~63빌딩 구간, 반포 한강공원은 서울 웨이브 자전거도로와 수변 산책로 구간에서 4인승 자전거를 탈 수 있다.&lt;br&gt;&lt;br&gt;대여 가능 연령도 기존 12세 이상에서 19세 이상으로 높아졌다. 성인이 아이들을 데리고 타는 것은 가능하나, 아이들끼리 빌릴 수는 없다.&lt;br&gt;&lt;br&gt;서울시는 또 음주운전 금지, 탑승 인원 준수 등 안전 수칙을 만들어 알리고 이를 제대로 지키지 않는 이용자는 자전거를 반납하게 할 계획이다.&lt;br&gt;&lt;br&gt;서울시는 오는 7월까지 4인승 자전거 시범 운영을 해보고 이후 정식 도입 여부를 결정하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>탯줄도 못 자르고 숨진 신생아...경찰, 20대 산모 붙잡아 조사</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/06/06/7UMVXHKE5VEOHDO3NUYRBGPEWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/06/06/7UMVXHKE5VEOHDO3NUYRBGPEWY/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Jun 2024 04:22:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VGYHVLNNCBGVJOAR7VDGWR6VKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충주경찰서 전경/충주경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;출산한 아이를 방치해 숨지게 한 20대 여성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;충북 충주경찰서는 갓 출산한 아이를 방치해 숨지게 한 혐의(영야유기치사)로 20대 여성 A씨를 입건해 조사하고 있다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 5일 오전 자신의 방에서 남자 아이를 출산한 뒤 아무런 조처를 하지 않고 방치해 숨지게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;미혼인 A씨는 가족에게조차 임신 사실을 숨겨오다가 홀로 집에서 출산했고, 곧장 지인에게 전화를 걸어 “아이를 낳았는데 죽었다”고 털어놓은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;지인의 신고로 경찰과 119구급대가 현장에 출동했지만, 아이는 탯줄이 붙은 채로 이미 숨져 있었다.&lt;br&gt;&lt;br&gt;경찰은 숨진 영아 시신의 부검을 의뢰하고, A씨를 상대로 정확한 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>삼성서울병원, 암·호흡기분야 ‘아태지역 최고병원’ 선정</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/06/06/6IDO4ZGLPBF6HE2W7UO3S5VDOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/06/6IDO4ZGLPBF6HE2W7UO3S5VDOQ/</guid>
+      <dc:creator>안준용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Jun 2024 04:19:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ANXYNTWK2I5TKGO4Q7GC5TDWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;삼성서울병원 전경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성서울병원이 아시아태평양 지역 암·호흡기 분야 최고 병원에 선정됐다.&lt;br&gt;&lt;br&gt;5일(현지 시각) 미 시사주간지 뉴스위크의 ‘2024 아시아·태평양 베스트 전문병원’ 발표에 따르면, 심장·내분비·암·소아·호흡기 등 총 9개 분야 가운데 삼성서울병원은 암 분야와 호흡기 분야 1위에 올랐다.&lt;br&gt;&lt;br&gt;이번 발표는 뉴스위크가 독일 글로벌 마케팅 전문 조사업체인 ‘스타티스타’에 의뢰해 한국, 일본, 호주, 인도, 인도네시아, 말레이시아, 싱가포르, 대만, 태국 등 아시아태평양 지역 9개국 의료진 8000여명을 설문 조사한 결과다.&lt;br&gt;&lt;br&gt;종합순위에선 일본 도쿄대병원, 일본 국립순환기질환연구센터, 서울아산병원이 1~3위에 올랐다. 하지만 암 분야에선 삼성서울병원과 서울아산병원이 1, 2위에 올랐고, 일본 국립암센터, 호주 피터 맥칼럼 암센터, 서울대병원 등이 뒤를 이었다. 호흡기 분야는 삼성서울병원, 서울아산병원에 이어 도쿄대병원, 서울대병원, 세브란스병원이 3~5위를 차지했다.&lt;br&gt;&lt;br&gt;2008년 당시 단일 건물로는 아시아 최대 규모로 개원한 삼성서울병원 암병원은 뉴스위크의 ‘글로벌 전문병원 평가’에서도 2022~2023년 2년 연속으로 아시아 병원 1위에 선정된 바 있다. 지난해 글로벌 순위는 5위였다.&lt;br&gt;&lt;br&gt;이와 관련해 삼성서울병원은 “CAR T-세포치료센터, 암 정밀치료센터, 양성자치료센터 등 암 분야 최첨단 치료를 이끌고 있다”며 “암 치료에 대한 아웃컴북(Outcome Book)도 발간, 암 치료 성적을 투명하게 공개해 세계적 신뢰를 쌓고 있다”고 했다.&lt;br&gt;&lt;br&gt;삼성서울병원은 지난해 유럽 최고 암병원으로 꼽히는 프랑스 귀스타브 루시(Gustave Roussy)병원, 독일 샤리떼(Charite) 병원과 각각 양해각서(MOU)를 맺기도 했다. 병원 측은 “귀스타브 루시 병원과는 차세대 정밀 의학을 선도하기 위한 공동 심포지엄을 정기 개최하고, 샤리떼 병원과 삼성서울병원 암병원 방사선 종양학과 의료진이 함께 토론하는 ‘썸머스쿨’을 열어 인적 교류를 통한 최신 의료 기술·연구 협력을 도모하고 있다”고 했다.&lt;br&gt;&lt;br&gt;한편 국내 병원 가운데 서울아산병원은 심장내과와 내분비 분야에서 1위, 세브란스병원은 정형외과 1위, 서울대병원은 소아과 1위에 올랐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강남구 외국인 환자수 역대 최고...진료과목 1위는 ‘피부과’</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/06/HH5ODWTYVRFDPLTSNN2GSCS4JY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/06/HH5ODWTYVRFDPLTSNN2GSCS4JY/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Jun 2024 04:16:17 +0000</pubDate>
+      <content:encoded>지난해 서울 강남구를 방문한 외국인 환자 수가 역대 최고치를 기록했다.&lt;br&gt;&lt;br&gt;6일 강남구에 따르면, 지난해 외국인 환자 18만5559명이 강남구에 있는 병·의원에서 진료를 받았다. 서울시를 방문한 외국인 환자가 총 47만3340명인데, 이중 39.2%가 강남구를 찾은 것이다. 강남구는 “역대 최다 실적인데다가, 강남구 목표치인 15만명도 훌쩍 넘는 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5QP4E752TLJYGLGM4X5U3ALNME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 성형외과와 피부과의 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가별로는 일본 환자가 7만1425명(38.5%)으로 가장 많았고, 중국(3만1336명·16.9%)과 미국(2만284명·12%)이 뒤를 이었다. 특히 일본 환자는 2022년 8415명에서 올해 750% 가까이 늘었다. 중국 환자수도 255% 증가했다.&lt;br&gt;&lt;br&gt;절반 가까이가 피부과(48.2%)를 찾았다. 성형외과를 찾은 경우는 22.7%, 내과 10.5%로 집계됐다.&lt;br&gt;&lt;br&gt;강남구 방문 외국인 환자 수는 2019년 13만1808명에 달했으나, 코로나 여파로 2021년 2만3734명으로 급감했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대검, ‘MZ조폭’ 엄정 대응한다… “무관용 원칙 적용”</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/06/XXZXL2GKX5BYBCEEZEQSUZRYAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/06/XXZXL2GKX5BYBCEEZEQSUZRYAQ/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Jun 2024 03:48:28 +0000</pubDate>
+      <content:encoded>작년 8월 서울 강남구 압구정역 인근에서 20대 남성이 고급 외제 승용차인 롤스로이스를 몰다 인도로 돌진해 행인을 치는 사고를 냈다. 이 사고로 행인은 결국 사망했다. 이른바 ‘MZ 조폭’으로 알려진 운전자 신모(29)씨는 당시 마약류에 취한 상태였다. 지난 4일엔 신씨가 불법 도박 사이트의 국내 총판이었던 점도 경찰 수사로 밝혀졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EXR23RI33NN23PUZBMAYCNX2KA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청의 검찰 깃발./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이렇듯 ‘MZ 조폭’의 세력이 커지고 범죄 유형이 다양해지자 대검찰청이 조직폭력 범죄를 무관용 원칙에 따라 엄정히 대응하라고 5일 일선 검찰청에 지시했다. 특히 신종 범행에 대해 구속수사를 원칙으로 하도록 했다. 부산지검 동부지청은 지난달 부산 해운대 도심에서 폭력조직들끼리 집단 난투극을 벌인 사건과 관련해 4명을 구속 송치 받아 수사하고 있다. 수원지검은 지난 4월 수원 ‘남문파’와 ‘역전파’ 조직원들이 집단 난투극을 벌인 사건으로 6명을 구속 기소했다.&lt;br&gt;&lt;br&gt;대검은 6일 “시민들의 안전과 일상을 위협하는 조직폭력 범죄를 뿌리 뽑기 위해 철저하게 수사·구형하고 자금을 박탈하는 등 엄단하라고 지시했다”고 밝혔다. 대검은 폭력·갈취 등 기존에 알려진 범죄 유형뿐 아니라 온라인 도박·불법사채·주식리딩방 사기 등 신종 조직폭력 범행에 대해서도 구속수사를 원칙으로 하라고 지시했다. 또 범행을 저지른 하위 조직원뿐 아니라 배후세력까지 공모공동정범, 범죄단체조직·활동 등의 혐의를 적극 적용하겠다고 했다. 새로운 MZ 조폭 범죄로 이어지지 않도록 불법 범죄수익과 자금원을 끝까지 추적해 박탈하라고도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T2QWAWVYDA24VJY6I7N7MIDD2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;향정신성의약품을 투약한 채 롤스로이스 차량을 몰다 행인을 치어 사망케 한 신모(29)씨./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검은 피의자들이 죄에 상응하는 중한 처벌을 받도록 공판 단계에서 적극적으로 구형한다는 방침도 세웠다. 피해자에게 합의를 강요하거나 회유를 시도할 경우 더 중한 형을 구형하겠다는 것이다. 형량이 적다고 판단될 경우 적극적으로 항소할 계획이라고 한다. 2022년 7월부터 검‧경이 운영해온 수사협의체를 통해 사건 발생 초기부터 강력 대응하라고도 했다.&lt;br&gt;&lt;br&gt;대검은 “소위 ‘MZ 조폭’이라 불리는 20~30대 젊은층이 SNS 등을 통해 조직을 넘나들며 각종 신종 범죄를 저지르고 세를 과시하는 등 사회의 새로운 범죄 세력으로 떠오르고 있다”며 “조직폭력 범죄는 법치국가에서 용납할 수 없는 반사회적 중대범죄이므로 모든 역량을 집결해 이를 뿌리뽑도록 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>美 금융사 국내 영업소로 꾸며 거액 수수료 챙긴 일당 1심서 무더기 징역형</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/06/SDJ7HW2YR5GQ3OPIZPKKLEO6KI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/06/SDJ7HW2YR5GQ3OPIZPKKLEO6KI/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Jun 2024 03:44:08 +0000</pubDate>
+      <content:encoded>미국의 유명 금융그룹 국내 영업소를 설립한 것처럼 속여 무허가 지급보증서를 발급하고 피해자들로부터 수수료 명목으로 15억원을 가로챈 일당이 징역형을 선고 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CIAZWHNIQBHMLASMXH66EZDRPU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 서울중앙지방법원. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 법조계에 따르면 서울중앙지법 형사23부(재판장 오세용)는 보험업법 위반, 특정경제범죄 가중처벌법상 사기 등 혐의로 기소된 주범 이모씨에게 징역 10년을 선고했다. 그리고 대출 브로커 B씨를 비롯한 공범 5명에게도 징역 10개월~4년의 실형을 선고했다.&lt;br&gt;&lt;br&gt;이씨 등은 2018~2022년 금융위원회에서 보증보험허가를 받지 않고도 마치 미국에 본사가 있는 금융기업의 국내 영업소인 것처럼 행세하며 영세·신생 업체와 유사 수신업체에 지급보증서 34장을 발급하고 5억원대의 수수료를 받아 챙긴 혐의를 받는다. 지급보증서는 금융회사가 채권자에게 채무자의 채무 지급을 보증하는 서류다.&lt;br&gt;&lt;br&gt;이들은 또 2019년 1월부터 2021년 2월까지 300만달러(약 41억원)와 2500만유로(약 373억원)를 대출해 주겠다고 속여 피해자들로부터 수수료 명목으로 10억원을 가로챈 혐의도 있다.&lt;br&gt;&lt;br&gt;이들은 거액의 해외자본을 유치한 것처럼 가장하기 위해 온라인 홈페이지에 세계 25위권 은행의 보증증권을 발행하고 있으며 우주항공분야·바이오헬스케어사업 등에 투자하고 있다는 내용을 올렸다. 또 대출 및 지급보증능력을 과시하기 위해 57명의 투자중개 및 자문전문가를 보유하고 있다고 주장했다.&lt;br&gt;&lt;br&gt;재판부는 혐의 대부분을 유죄로 인정하면서 “정상적으로 운영되는 회사인 것과 같은 외관을 형성하고, 위 회사들의 각종 서류들과 관련해 서류 조작·가짜 이메일 발송 등으로 범죄 수단·방법을 사전에 치밀하게 계획하는 등 범행 수법이 극히 불량하다”고 지적했다.&lt;br&gt;&lt;br&gt;이어 “피고인은 자신의 잘못을 전혀 인정하지 않고 그 책임을 공범, 피해자, 국내 금융기관 탓으로 돌리며 납득하기 어려운 변명으로 일관하고 있다. 피고인이 대부분 피해자들로부터 용서 받지 못했고, 이 사건 범행으로 인한 피해 회복도 거의 이뤄지지 못한 것처럼 보이는 점 등 피고인을 엄벌하지 않으면 계속해 유사한 범죄를 저지르고 다른 피해자를 양산할 위험성이 매우 커 보인다”며 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;한편 이씨 등은 이에 불복해 항소장을 제출했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>훔친 번호판 달고 무면허 운전한 불법체류자 도주하다 붙잡혀</title>
+      <link>https://www.chosun.com/national/incident/2024/06/06/ITLYLK27NBAXXLAXHB7LZV6ILU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/06/ITLYLK27NBAXXLAXHB7LZV6ILU/</guid>
+      <dc:creator>횡성=정성원 기자</dc:creator>
+      <description>훔친 번호판을 부착한 차량을 무면허로 몰던 30대 불법체류자 등 2명이 경찰에 붙잡혔다. 이들은 경찰의 검문을 불응한 채 도주를 시도했으나 경찰의 끈질긴 추격 끝에 긴급 체포됐다.</description>
+      <pubDate>Thu, 06 Jun 2024 03:32:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BKINFRPDKFABVBJBEWCTW5NCZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;훔친 번호판을 부착한 차량을 무면허로 몰던 30대 불법체류자 등 2명이 경찰에 붙잡혔다. 이들은 경찰의 검문을 불응한 채 달아났다가 경찰의 끈질긴 추격 끝에 긴급 체포됐다.&lt;br&gt;&lt;br&gt;강원 횡성경찰서는 특수절도 등 혐의로 카자흐스탄 국적 불법체류자 A(32)씨와 B(26)씨를 붙잡아 조사 중이라고 6일 밝혔다. A씨는 하루 전인 지난 5일 낮 12시 10분쯤 훔친 번호판을 부착한 그랜저 승용차를 무면허 상태로 운전한 혐의다.&lt;br&gt;&lt;br&gt;A씨가 운전하던 차량에 부착된 번호판은 지난해 9월 24일 충남 홍성군 한 폐차장에 주차해 있던 모닝 승용차의 번호판이었다. 해당 번호판은 도난 신고가 접수돼 수배차량 검색 시스템에 등록돼 있었다. &lt;br&gt;&lt;br&gt;A씨 등은 이날 도난 번호판을 단 차량을 타고 횡성군 둔내IC 인근을 지나다가 방범카메라(CCTV)에 도난 번호판이 인식돼 꼬리를 잡혔다. 이들은 경찰이 검문하자 도망갔다가 40여분 간의 도주 끝에 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;이들은 경찰에서 “정상 번호판인 줄 알았다” “번호판 도난 사실을 모른다”며 혐의 일부를 부인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 조만간 이들 신병을 충남 홍성경찰서로 인계할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>탈북민단체 “김정은 망언 규탄 전단 20만장 북한으로 날려”</title>
       <link>https://www.chosun.com/national/national_general/2024/06/06/FNFEILLEPFAALPTWIW4LG3F2WE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/06/FNFEILLEPFAALPTWIW4LG3F2WE/</guid>
@@ -832,15 +904,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R5IA7TVQJVDWSRK5RYPNES6ACI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 안선영. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홈쇼핑 누적 판매액 1조원을 달성한 개그우먼 출신 방송인 안선영(48)이 과거 자신이 홀어머니와 화장실도 없는 집에 살았었다고 고백해 화제가 되고 있다.&lt;br&gt;&lt;br&gt;안선영은 지난 3일 방송된 채널A ‘절친 토큐멘터리 4인용식탁’에 출연해 4살 때 아버지가 돌아가셨다며 “어느 정도로 가난했냐면 공중화장실을 쓰는 집이 다닥다닥 붙은 부산에서 제일 바닷가 종점 쪽에 빈민촌에서 살았다. 늘 단수가 돼서 물통에 물을 받아먹었고, 봉지쌀을 사 먹었다”고 했다.&lt;br&gt;&lt;br&gt;안선영은 전업주부였던 어머니가 아버지가 돌아가신 후 화장품 방문 판매를 시작했다며 “주말에는 엄마가 나를 맡길 데가 없으니까 나를 리어카에 태우고 방판을 갔다. 내가 눈치가 빠르니까 손님 집 아이를 데리고 나가서 놀았다. 그러면 어머니는 한 개 팔 거 다섯 개 팔았다”고 말했다.&lt;br&gt;&lt;br&gt;안선영은 “햇빛도 안 드는 집에 초등학교 4학년 때까지 살았다”며 어머니의 노력으로 집안 형편이 조금씩 나아졌고 고등학교 2학년 때는 아파트로 이사했다고 했다.&lt;br&gt;&lt;br&gt;그러나 IMF 외환위기 사태가 터지면서 어머니의 화장품 가게가 망해 안선영의 가족은 또 경제적 어려움을 겪게 됐다.&lt;br&gt;&lt;br&gt;안선영은 “빚이 억단위가 넘었다”며 개그맨 공채에 응모한 것도 당시 상금 때문이었고, 홈쇼핑에 출연한 것 역시 돈 때문이었다고 밝혔다.&lt;br&gt;&lt;br&gt;그는 홈쇼핑에 출연해 연예인이 물건을 판다고 선배들에게 혼나기도 했다며 “빈민층에 리어카로 방판하며 키운 딸인데, 내가 대한민국에서 화장품을 제일 많이 판 여자이지 않나. 화장품 1조원 이상 판 여자”라고 했다.&lt;br&gt;&lt;br&gt;최근 건물주가 된 안선영은 “건물주가 되고 나서 처음 매입하고 계약서에 사인할 때는 너무 행복했다”며 “건물 공사기간에 코로나가 터졌다. 행복하기만 할 줄 알았는데, 번아웃 증후군에 스트레스성 조기 폐경도 왔었다”고 했다.&lt;br&gt;&lt;br&gt;한편 홈쇼핑 쇼호스트로 활동하며 화장품 1조원 매출을 기록한 안선영은 광고 대행 및 제품 개발 회사를 차렸고, 지난해 서울 마포구에 4층짜리 사옥을 세웠다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>제주, 준공영제 대중교통 버스 55대 줄인다</title>
-      <link>https://www.chosun.com/national/regional/2024/06/05/F2FPI4JUOVCHLPB5LYPQVZKFJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/05/F2FPI4JUOVCHLPB5LYPQVZKFJI/</guid>
-      <dc:creator>오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Jun 2024 02:04:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KTA7XAEGUREYFBDDCRQHC2JZ7M.png"&gt;&lt;figcaption&gt;&lt;small&gt;제주도가 2017년부터 1단계 중앙버스차로제를 운영하고 있는 제주시청~아라초등학교 사거리 2.7㎞ 구간의 한 버스정류장./제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;준공영제로 운행하고 있는 제주지역 대중교통 버스 55대가 감차된다.&lt;br&gt;&lt;br&gt;제주도는 재정 절감과 버스 운영 효율화를 위해 현재 운행 중인 버스 680대 중 55대를 감차한다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;제주도에 따르면 지난해 9월부터 11차례에 걸친 버스운수업체와의 대표자회의 끝에 1차 협상에서 8개 업체 중 6개사(75%)가 63개 노선, 55대 운행 버스 감차에 동의했다. 이번 감차 규모는 당초 감차 계획인 84대의 65% 수준이다.&lt;br&gt;&lt;br&gt;감차 유형은 예비차 전환 18대, 소멸 감차 19대, 재정지원 배제 18대다. 이번 감차로 연간 재정지원금 절감액은 128억 원이며 10년간 1502억 원, 20년간 3610억 원의 예산을 아낄 것으로 기대된다.&lt;br&gt;&lt;br&gt;제주도는 감차에 따른 노선 및 운행 시간표를 조정하고 오는 8월 1일부터 노선을 개편할 계획이다. 또 감차에 동의하지 않은 2개 업체와는 지속적으로 협상해 2차 노선 개편을 추진할 방침이다.&lt;br&gt;&lt;br&gt;제주도 관계자는 “감차에 동의하지 않는 업체에게는 재정 지원을 중단할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“나 경찰이야”...부산·창원 주점 돌며 무전취식 일삼던 30대 실형</title>
       <link>https://www.chosun.com/national/2024/06/05/FZXJ7GN7A5FOJHHKUW2OVT4YIE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/06/05/FZXJ7GN7A5FOJHHKUW2OVT4YIE/</guid>
@@ -848,69 +911,6 @@
       <description/>
       <pubDate>Wed, 05 Jun 2024 01:21:24 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z6QPEFXGJNRPZ5XSGMLYBBG2IQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원지법. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰관 신분을 이용해 주점 등에서 무전취식을 일삼던 30대 남성에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;창원지법 형사1단독 정윤택 부장판사는 사기 및 업무방해 등의 혐의로 재판에 넘겨진 A(36)씨에게 징역 1년 2개월을 선고했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 경남 창원중부경찰서 가음정지구대 소속 경장 신분으로, 지난해 10월부터 11월까지 창원 성산구와 부산시 부산진구 일대 주점과 식당에서 200만 원 상당의 술값을 지급하지 않은 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 지난해 11월 7일 오전 2시 50분쯤 창원시 성산구 한 주점에서 술값 계산을 요청받자 “지금 돈 없다. 내가 경찰인데 8만원 때문에 이런 취급을 받아야 하느냐”며 “XX놈들아 합의서 쓰고 싸우자”고 욕설을 하면서 행패를 부렸다.&lt;br&gt;&lt;br&gt;A씨는 부산의 한 노래방에서는 술값을 결제하라는 종업원의 얼굴에 침을 뱉거나, 이를 말리는 다른 종업원의 뒷목을 잡아 누르고 깨진 양주병을 들이밀며 위협하는 등 위험한 물건으로 폭력을 행사한 혐의를 받는다. 이에 경남경찰청은 징계위원회를 열어 품위유지 위반 등을 이유로 지난해 11월 14일 A씨를 파면했다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 “말하던 중 침이 튀거나, 술의 양을 확인하기 위해 술병을 들었을 뿐 위험한 물건을 들어 물리력을 행사한 바 없다”는 등 일부 혐의에 대해 부인했다. 하지만 재판부는 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;정윤택 부장판사는 “피고인은 2015년부터 경찰관으로서 나름대로 성실하고 근면한 모습으로 복무했고, 배우자와의 이혼과 가정불화가 각 범행의 단초가 된 것으로 보여 다소나마 참작할 사정이 있다”면서도 “그러나 ‘경찰관’이라는 지위 등을 자신의 범법 행위를 무마 내지는 정당화시키려는 용도로 악용하는 등 범행이 불량하고, 단순히 재산상 손해를 넘어 일반 국민에 대한 경찰공무원들의 신뢰와 청렴성을 저해하는 등 훼손된 공익이 상당하다. 여러 분쟁을 일으키고도 자중하지 않고 더 대담하고 불량하게 범행을 저지르는 등 범행 반복성에 대해 정당성을 부여할 여지는 없다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>장애인등록 거부된 지적장애 진단 40대, 행정소송서 이례적 승소</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/05/CPGJP6ZT4FCUPNJ3WHC5SDYV7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/05/CPGJP6ZT4FCUPNJ3WHC5SDYV7U/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Jun 2024 02:00:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBNPV6H7FY7BFFZUDIRCOPTQGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장애인등록을 지방자치단체에 신청했다가 거부된 지능지수(IQ) 65 수준의 40대 남성이 변호인의 도움으로 행정소송을 제기해 승소했다.&lt;br&gt;&lt;br&gt;인천지법 행정1-2부(재판장 김원목)는 40대 A씨가 경기도 부천시장을 상대로 제기한 장애등급 외 결정처분 취소소송에서 원고 승소 판결을 했다고 5일 밝혔다. 2022년 1월 A씨가 장애에 해당하지 않는다고 판단한 결정을 취소한 것이다.&lt;br&gt;&lt;br&gt;A씨는 지난 2021년 11월 병원에서 지적장애 진단을 받아 자신의 주소지 지자체인 인천시 부평구에 장애인등록(지적장애)을 신청했다.&lt;br&gt;&lt;br&gt;지자체는 보통 장애인등록 신청 내용에 대한 국민연금공단 심사 결과를 토대로 장애인등록 여부를 결정하는데, 국민연금공단은 A씨의 상태가 장애에 해당하지 않는다고 판단했다. 국민연금공단은 “A씨의 진단서와 임상심리검사에서 지능지수가 현저히 낮게 나왔지만, 정신증상으로 인한 기능 저하가 가중된 상태인 점, 학교생활기록부상 교과학습 발달 상황과 행동 특성 등을 종합적으로 고려할 때 지적장애 기준에 해당하지 않는다”며 이같이 결정했다.&lt;br&gt;&lt;br&gt;A씨는 이후 이의신청을 했지만 같은 결과를 받았고, 행정심판청구도 했지만 기각되자 변호인의 도움을 얻어 행정 소송을 냈다. 소송 과정에서 A씨의 주거지가 부천시로 바뀌었고, 법원 결정에 따라 피고가 부천시장으로 변경됐다.&lt;br&gt;&lt;br&gt;재판부의 판단은 국민연금공단의 심사 결과를 토대로 한 지자체의 결정과 달랐다. 재판부는 “A씨를 직접 관찰하고 검사한 정신건강의학과 전문의 모두 원고가 지능지수 70 이하로서 지적장애 상태에 있다는 의학적 소견을 밝히고 있고, 이 검사 과정에서 오류가 있다고 볼 아무런 자료가 없다”며 “조현병 등 정신질환으로 인해 A씨의 지능이 저하된 측면이 있더라도 본래 지적능력 역시 현재와 동일한 수준(지능지수 65 전후)이었던 것으로 추정된다는 신체감정의의 견해도 있었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “A씨가 지적장애 등급에 해당하지 않는다는 견해를 밝힌 국민연금공단 측 자문의들은 학교생활기록부 등 간접적인 자료만으로 평가했을 뿐, A씨의 상태를 직접 확인하지 않은 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “(A씨는) 인지능력 부족으로 인해 초등학교 때부터 고등학교 졸업에 이르기까지 줄곧 또래들로부터 괴롭힘을 당해왔다고 한다”며 “학교생활기록부 학년별 석차가 최하위가 아니라는 학생부 내용만으로는 A씨가 지능지수 70을 넘는 지적능력을 가졌다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;장애정도 판정 기준에 따르면 지적장애는 선천적으로 지능이 낮은 경우와 뇌 손상 등으로 성인이 된 후 지능이 낮아진 경우로 나뉜다. 일반적으로 지능지수가 70 이하면 지적장애가 있는 것으로 판단된다.&lt;br&gt;&lt;br&gt;부천시는 이번 판결에 대한 항소를 포기했으며, 조만간 A씨늘 장애인으로 등록할 예정이다. 부천시에서 장애등급 외 결정이 행정소송으로 뒤집힌 건 8년만에 처음인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>"아가씨 덕분에 천국에 살아요"…노부부 쌀 옮겨준 공무원이 받은 손편지</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/05/7U355C3RC5FBFABP46WCC43EQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/05/7U355C3RC5FBFABP46WCC43EQA/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Jun 2024 01:16:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7EAKEMPFUZFALNYXMDNGR5JTS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남 천안 목천읍 행정복지센터에 근무하는 공무원 A씨가 노부부에게 받은 손편지./천안시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 천안시 소속 여성 공무원이 노부부를 위해 쌀 10㎏을 이고 버스정류장에 옮겨준 선행이 전해졌다.&lt;br&gt;&lt;br&gt;5일 천안시에 따르면 동남구 목천읍에 거주하는 한 노부부는 최근 공무원 A씨에게 감사의 마음을 담은 손편지를 보냈다.&lt;br&gt;&lt;br&gt;부부는 “나에게 천사 같은 아가씨에게”로 시작하는 편지를 통해 “아가씨 정말 고맙다. 물론 나라에서 하는 일이지만 아가씨의 노고가 없었다면 저희 늙은이 둘이 행복하게 살았겠나”며 “우리를 위해 힘써 줘서, 아가씨 덕분에 천국에서 살고 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “어느 누가 늙은이 힘들다고 쌀 10㎏을 버스 정류장까지 들어다 주겠느냐”며 “정말 고맙고 감사하다”고 했다.&lt;br&gt;&lt;br&gt;노부부는 “아가씨 복 많이 받고 꽃길만 걸어 주세요”라며 “우리 노부부가 이 세상 끝마칠 때까지 아가씨의 은혜 잊지 않겠다”고도 했다.&lt;br&gt;&lt;br&gt;끝으로 “정말 정말 감사하다”라며 “부디 복 많이 받고 영원한 꽃길만 걸어주세요”라고 했다.&lt;br&gt;&lt;br&gt;2022년 1월 목천읍 행정복지센터에 발령받은 A씨는 그간 다수의 민원인에게 친절을 베풀어 온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;지난달 8일에는 A씨가 담당하던 대상자가 세상을 떠나자 평소 A씨에게 감사한 마음을 가지고 있던 대상자의 자녀가 100만원 상당을 동 행정복지센터에 기부한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“내 신상 공개는 안돼”…밀양 성폭행범들, 서로 제보 중</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/05/76XPHRG3AJEVZJ4RRY6ZQUH4UY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/05/76XPHRG3AJEVZJ4RRY6ZQUH4UY/</guid>
-      <dc:creator>김가연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Jun 2024 01:36:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B4TUKF7CBF3U3AHD4ICPAMWKTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'밀양 여중생 집단 성폭행' 사건의 가해자로 지목된 남성들의 사진과 이름이 온라인상에 확산하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘밀양 여중생 집단 성폭행 사건’ 가해자들의 신상을 폭로하고 있는 유튜버가 여러 가해자들로부터 서로를 고발하는 제보를 받았다고 밝혔다.&lt;br&gt;&lt;br&gt;4일 유튜브 채널 ‘나락 보관소’ 운영자는 커뮤니티 댓글을 통해 “현재 밀양 사건 가해자들이 저에게 ‘서로’ 제보를 하고 있는 상황”이라고 알렸다.&lt;br&gt;&lt;br&gt;그는 가해자들을 향해 “저한테 사과하지 마시고 피해자에게 사과하라”고 했다. 가해자들이 범행에 연루된 다른 이들의 신상을 제보하겠다고 연락을 취하면서, 사과의 의미를 전하자 이 같은 말을 덧붙인 것으로 추정된다.&lt;br&gt;&lt;br&gt;이 유튜버는 지난 1일부터 제보 이메일 내용 등을 바탕으로 확인한 밀양 집단 성폭행 사건 가해자들의 신상을 공개하고 있다. 이 사건의 가해자로 지목된 이들의 실명과 직장까지 공개되자, 고용됐던 직장에서 해고되는 일도 벌어졌다.&lt;br&gt;&lt;br&gt;일각에서는 피해자에 대한 2차가해가 될 수 있다는 우려도 제기됐다. 이에 대해 유튜버는 “피해자 측과 직접 메일로 대화를 나눴고 44명 모두 공개하는 쪽으로 대화가 마무리된 상태”라고 했다. 또 가해자들로 추정되는 이들의 신상을 유포하는 네티즌들이 있다며 “저와 팩트체크 한번만 더 하시고 올리시는 것도 좋을 것 같다”고 당부하기도 했다.&lt;br&gt;&lt;br&gt;한편 밀양 사건은 2004년 경남 밀양에서 일어난 사건이다. 당시 44명의 남학생이 1년간 여자 중학생 1명을 집단으로 성폭행했다. 가해자들은 범행 당시 상황을 촬영해 ‘신고하면 유포하겠다’고 피해자를 협박하기도 했던 것으로 전해졌다. 가해자들은 1986년~1988년생으로, 범행 당시 고등학생이었던 것으로 알려졌다. 하지만 가해자들 중 형사처벌 받은 이들은 한 명도 없었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경북 문경 음식점서 화재...소방, 2시간 넘게 진화 중</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/06/05/F5CY66ZQU5GUPJGCVLQBI7WEFE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/06/05/F5CY66ZQU5GUPJGCVLQBI7WEFE/</guid>
-      <dc:creator>문경=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Jun 2024 01:35:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QUMHD3EG6ZBD3BNBBBI4PNJ6M4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 문경시 한 음식점 화재 현장. /경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 문경의 한 음식점에서 화재가 발생해 소방당국이 2시간 넘게 진화 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;5일 오전 7시 52분쯤 경북 문경시 문경읍 한 2층 짜리 철골 구조물로 된 음식점에서 불이 났다. 소방 당국은 소방대원 35명과 차량 13대를 투입해 오전 10시 현재까지 진화 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;경북소방본부 관계자는 “현재까지 인명피해는 확인되지 않았다”며 “불이 인접 건물로 번지는 막기 위해 총력을 기울이고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>캥거루족, 20대 후반보다 30대 초중반서 더 많이 늘었다</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/05/BRZ2KDJS2NHRZIMSTOKKUBVOKU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/05/BRZ2KDJS2NHRZIMSTOKKUBVOKU/</guid>
-      <dc:creator>김윤주 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Jun 2024 01:34:35 +0000</pubDate>
-      <content:encoded>학교를 졸업한 이후에도 부모에게 의존하며 사는 ‘캥거루족’이 30대 초중반에서 빠르게 늘고 있다는 분석 결과가 나왔다. 5일 한국고용정보원은 서울 관악구 서울대 호암교수회관에서 ‘2024 고용패널조사 학술대회’를 열고 이러한 내용의 조사 결과를 발표했다.&lt;br&gt;&lt;br&gt;황광훈 한국고용정보원 부연구위원은 청년패널 자료를 활용해 2030 청년층 캥거루족의 연도별 현황과 특징을 분석했다. 캥거루족이란 만 25세를 기준으로 학교를 졸업한 이후에도 취업 여부와 무관하게 부모에게 의존해 사는 세대를 말한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B6BTTGOWXJANZLXMKBRBQXCMIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;분석 결과 20대 후반보다 30대 초중반에서 캥거루족이 더 많이 늘어나고 있는 것으로 나타났다.&lt;br&gt;&lt;br&gt;25~34세 캥거루족 비중은 2012년 62.8%에서 2018년 68%까지 늘었다가 2020년 66%로 소폭 낮아졌다. 30세를 기준으로 나눠보면 25~29세 캥거루족은 2012년 81.8%에서 2020년 79%로 감소한 반면, 30~34세에선 2012년 45.9%에서 2020년 53.1%로 늘어났다.&lt;br&gt;&lt;br&gt;한국고용정보원은 “향후에도 30대 연령에서 캥거루족이 지속해서 증가할 가능성이 있다”고 분석했다.&lt;br&gt;&lt;br&gt;취업 여부별로는 취업자보다 미취업자의 캥거루족 비중이 급속히 증가했다. 취업자 내에서는 고용 지위가 불안정한 청년의 캥거루족 비중이 가장 높았고, 기업의 규모가 커질수록, 고임금 청년층일수록 캥거루족 비율이 낮은 것으로 확인됐다.&lt;br&gt;&lt;br&gt;또 남성, 미혼, 수도권 지역 거주, 경제적 지원을 받고 있는 경우, 미취업 청년층 등이 캥거루족이 될 가능성이 높았다. 반면 여성, 고학력층, 기혼, 비수도권 지역 거주, 경제적 지원을 받지 않고, 취업한 청년층의 경우 캥거루족에서 탈출할 가능성이 높게 나타났다.&lt;br&gt;&lt;br&gt;한국고용정보원은 “캥거루족 증가는 사회 구성원 개인의 정신·신체적 건강에 부정적 영향을 미치고 만혼이나 비혼주의와 맞물릴 수 있다”며 “또 경제적 기반 약화로 청년 니트족(NEET·일하지 않고 일할 의지도 없는 청년 무직자) 등 사회 취약 계층으로 전락할 가능성이 높고 부모 세대의 노후 설계에도 영향을 줄 수 있다”고 우려했다.&lt;br&gt;&lt;br&gt;황 부연구위원은 “청년 일자리 문제 개선을 통해 양질의 일자리에서 자신의 소득을 관리하며 경제적 독립이 가능한 환경을 마련해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>상가 여화장실서 불법촬영 30대, 현행범 체포돼</title>
-      <link>https://www.chosun.com/national/regional/2024/06/05/42KVPSHJVZAPJLAUIKZINPCZPI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/05/42KVPSHJVZAPJLAUIKZINPCZPI/</guid>
-      <dc:creator>수원=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Jun 2024 01:19:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XUHV4T4QI35IRVF5V5PBO7QHH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 화성동탄경찰서. /경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상가 안에 있는 여자 화장실에 몰래 들어가 불법 촬영을 한 30대 남성이 체포됐다.&lt;br&gt;&lt;br&gt;경기 화성동탄경찰서는 성폭력범죄의 처벌 등에 관한 특례법 위반(카메라 등 이용 촬영) 혐의로 A씨를 현행범 체포했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 전날인 4일 오후 11시 10분쯤 경기 화성 동탄신도시의 한 상가 여자 화장실에 들어가 20대 여성 B씨의 신체를 몰래 촬영한 혐의를 받고 있다. 그는 인적이 드문 틈을 타 화장실에 미리 들어가 있다가 피해여성이 들어오자 옆칸에서 휴대폰 카메라를 들이밀어 촬영을 시도한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 범행 직후 도주했으나 B씨의 신고를 받고 출동한 경찰은 상가 비상계단에 숨어있던 A씨를 오후 11시 26분쯤 검거했다. 당시 A씨의 휴대폰에서 불법촬영물은 발견되지 않았으나, 경찰은 디지털포렌식에서 범행 정황이 확인되면 조사를 거쳐 구속영장 신청을 검토할 방침이다.&lt;br&gt;&lt;br&gt;한편 이원석 검찰총장은 전날 공중화장실 내에서 발생한 불법촬영 범죄는 초범의 경우에도 재판에 넘겨 엄정 대응하라는 지침을 일선 검찰청에 전달했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인라인 前 국가대표 김대철씨...장기기증으로 3명의 생명 살리고 떠나</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/05/GPHI3P7QUFBINPA7QRDULDYQMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/05/GPHI3P7QUFBINPA7QRDULDYQMY/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Jun 2024 01:18:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7NCQLQXF7ZBQPJZZHWJSWJ7YQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2004년 국가대표로 출전한 말레이시아 국제대회에서 김대철씨의 모습./한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뇌사 상태에 빠진 전 인라인스케이트 국가대표 선수 김대철씨가 장기기증을 통해 3명의 생명을 살리고 세상을 떠났다.&lt;br&gt;&lt;br&gt;한국장기조직기증원은 지난 3월 15일 44세 김대철 씨가 가톨릭대 은평성모병원에서 뇌사 장기기증으로 3명에 간장과 좌우 신장을 기증하고 세상을 떠났다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;갑상선 수술을 받은 김씨는 수술 부위 이상으로 지난 2월 13일 병원으로 응급 이송됐다가 이송 중 심정지가 발생해 뇌사 상태에 빠졌다. 이후 김씨의 상태가 점점 악화하자 가족들은 김씨가 삶의 끝에서 누군가를 살리는 좋은 일을 하고 간 사람으로 남기를 바라는 마음에 기증을 결심했다.&lt;br&gt;&lt;br&gt;유족들은 고인이 책임감이 강하고 따뜻한 사람이어서 바쁜 부모를 대신해 동생을 잘 챙겨왔으며 어려운 사람을 보면 늘 먼저 다가가 도움을 줬다고 추억했다.김씨는 인라인스케이트에 애정과 소질이 있어 국가대표로도 활동했고 대한익스트림스포츠 연맹 이사로서 많은 사람들이 인라인과 스포츠에 관심을 가질 수 있도록 노력하기도 했다.&lt;br&gt;&lt;br&gt;김씨의 아내 김연희 씨는 “여보, 지난 19년 동안 함께 나눈 사랑과 행복한 기억들 잊지 않고 살아갈게, 당신과 함께한 모든 순간들이 우리에겐 선물이었어. 하늘나라에서 우리 가족 모두 지켜줘. 당신은 듬직하고 다정한 최고의 아빠이자 남편이었어. 사랑해”라며 마지막 인사를 전했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IGHZPU73KZCKJKZQZGI72U6AQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;故 김대철씨의 입관식 후 아내와 아이들이 관에 남긴 글/한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“부모로 최선 다할 것” 윤민수, 이혼한 전처와 윤후 졸업식 동행</title>
