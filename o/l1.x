@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>제너시스BBQ, 김태희 전 화우 미국변호사 영입</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/198894.jpg" alt="198894.jpg" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;제너시스BBQ(회장 윤홍근) 그룹&lt;/b&gt;은 7일 법무법인 화우 기업자문그룹에서 활동한 김태희 미국변호사를 최연소 상무보로 영입했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;김 변호사는 미국 조지타운대에 졸업하고 조지타운 로스쿨 법학석사 및 법무박사 과정을 밟았다. 그는 워싱턴D.C. 변호사 시험에서 상위 1% 성적을 거둔 인재로 알려져 있다. 로펌 레이텀 앤 왓킨스(Latham &amp; Watkins), 삼성바이오로직스 법무팀, 영국 MBS 그룹 한국지사 상무이사 겸 법무총괄 이사 등을 역임한 후 최근에는 법무법인 화우의 기업자문그룹에서 활동했다.&lt;br /&gt;&lt;br /&gt;그는 제너시스BBQ 그룹에서 글로벌 브랜딩 전략실 상무보 겸 글로벌 리걸 &amp; 브랜딩 팀장으로 해외 법무를 총괄하고 브랜드 마케팅 등을 담당할 예정이다.&lt;br /&gt;&lt;br /&gt;윤 회장은 "글로벌 시장의 지속적 확장을 통해 2030년까지 전 세계 5만개 매장을 오픈하는 것이 목표"라며 "최고의 외식 기업으로 도약하는 신(新)인재경영시대를 열겠다"고 강조했다.&lt;br /&gt;&lt;br /&gt;제너시스BBQ그룹은 1995년 9월 1일 설립된 대한민국 대표 외식프랜차이즈 전문기업으로 전세계 57개국에 진출해 있다.</description>
+			<pubDate>Fri, 07 Jun 2024 06:21:53 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198894</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198894</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/198894.jpg</media:thumbnail>
+			<dc:creator>안현 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 2심서 선임된 변호인에게 소송기록접수통지 안 하고 1심 때 변호인에게만 통지… 대법, '파기환송'</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/198863.jpg" alt="198863.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;경선을 앞두고 선거인 등에 금품을 제공한 혐의로 기소된 지방의원에게 당선무효형을 선고한 원심이 대법원에서 파기됐다. 피고인에 대한 적법한 소송기록접수통지가 이뤄지지 않은 상태에서 사선변호인이 선임되고 국선변호인 선정이 취소된 경우 사선변호인에게도 소송기록접수통지를 해야 한다는 취지로, 원심이 소송 절차를 위반했다는 것이다.&lt;p&gt;   &lt;b&gt;&lt;br /&gt;대법원 형사1부&lt;/b&gt;(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3170"&gt;김선수&lt;/span&gt;&amp;nbsp;대법관)는 공직선거법 위반 혐의로 기소된 이완식 충남도의원에게 벌금 200만 원을 선고한 원심을 파기환송했다(&lt;b&gt;2024도3298&lt;/b&gt;). 공직선거법위반 혐의로 100만 원 이상의 벌금형이 확정되면 당선이 무효가 된다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이 의원은 2022년 6월 실시한 제8회 전국동시지방선거를 앞두고 당내 경선 선거인과 그 배우자에게 식사와 현금 50만 원을 제공하려고 한 혐의로 기소됐다. 당시 이 의원을 지지하던 C 씨를 통해 선거인을 밖으로 불러내 현금을 주머니에 집어넣었으나 곧바로 반환된 것으로 조사됐다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;1심은 2022년 12월 이 의원의 공소장에 있는 주소지로 공소장 부본 등을 송달했다. 이 의원의 1심 변호인인 A 변호사는 이듬해 2월 이 의원을 대리해 자신을 송달영수인으로, 사무실을 송달장소로 기재해 1심 법원에 제출했다. 이후 2023년 9월 1심에서 벌금 200만원의 유죄 판결을 받자 이 의원과 검찰은 항소했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;2심은 2023년 9월 국선변호인 선정 결정을 한 뒤 10월 4일 국선변호인에게 소송기록접수통지서 등을 송달했다. 또 법원은 10월 5일 1심에서 선임됐던 A 변호사의 사무실로 관련 소송기록접수통지서를 송달했다. 이후 이 의원은 B 변호사를 선임하고 10월 10일 선임서를 2심 법원에 제출했다. 2심은 국선변호인 선정을 취소한 뒤 10월 16일 1회 공판기일 소환장을 A 변호사 사무실로 송달하였으나 B 변호사에게는 소송기록접수통지를 하지 않은 채 1~2회 공판기일을 진행한 뒤 변론을 종결하고 3회 공판기일에서 이 의원의 항소를 기각했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;재판부는 "1심 변호인의 사무소는 피고인의 주소·거소·영업소 또는 사무소 등의 송달장소가 아니고, 1심에서 한 송달영수인 신고의 효력은 원심법원에 미치지 않기 때문에 이 의원에게 소송기록접수통지서가 적법하게 송달되었다고 볼 수 없다"며 "이처럼 적법한 소송기록접수통지가 이루어지지 않은 상태에서 사선변호인이 선임되고 국선변호인 선정이 취소되었으므로 원심은 원심에서 선임된 변호인에게도 소송기록접수통지를 해야 하고, 그 통지가 이루어지기 전에는 항소이유서 제출기간이 진행하지 않으므로 그 기간의 경과를 기다리지 않고는 항소사건을 심판할 수 없다"고 판시했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;그러면서 "2심에서 선임된 변호인 B 씨에게도 소송기록접수통지를 해야 하는데, 원심은 이 의원에 대한 적법한 통지가 이루어지지 않은 상태에서 원심에서 선임된 변호인에게도 접수통지를 하지 않은 채 판결을 선고했다"며 "이는 소송절차의 법령위반으로 판결에 영향을 미친 위법이 있다"고 지적했다.&lt;/p&gt;</description>
 			<pubDate>Fri, 07 Jun 2024 03:03:35 -0000</pubDate>
@@ -230,16 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198818</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/198818.jpg</media:thumbnail>
 			<dc:creator>유지인 기자</dc:creator>
-		</item>
-		<item>
-			<title>이원석 총장, 서울현충원 임시정부요인 묘소 참배</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/198811_1(1).jpg" alt="198811_1.jpg" /&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/198811_3(1).jpg" alt="198811_3.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9175"&gt;이원석&lt;/span&gt;(55·사법연수원 27기) 검찰총장이 현충일을 앞두고 대한민국 임시정부요인 18위가 안장된 국립서울현충원 임시정부요인 묘소를 참배했다. 항일 독립운동에 헌신한 이들을 기린 뒤엔 묘역정화 봉사에 나섰다. 봉사에는 공공수사부장 등 대검 자원봉사단 27명이 함께 했다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;임시정부요인 묘소에는 1904년 법관양성소 졸업 후 충주재판소 검사로 근무하고 이후 임시의정원 의장, 임시정부 국무령을 역임한 홍진(洪震) 선생, 이상룡 임시정부 초대 국무령, 손정도 임시정부 2대 의장 등 18위가 안장돼 있다. 이 총장과 대검 자원봉사단은 마른 수건으로 비석을 닦고 묘소 주변의 잡초를 제거했다.   &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;이 총장은 지난해 8월 8일 광복절을 앞두고도 현충원 임시정부요인 묘역을 찾아 참배하고 묘소 정화를 위해 봉사했다. 이 총장은 이외에도 노숙인, 저소득층 대상의 무료 급식봉사, 김장나눔, 연탄나눔 등 꾸준히 봉사활동에 참여하고 있다. 지난 3월에는 현직 검찰총장으로는 처음으로  가정 밖 청소년 보호 시설인 청소년 쉼터를 방문해 직원들의 의견을 경청하고 쉼터 청소년을 위해 책을 직접 선물하기도 했다.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/198811_2(1).jpg" alt="198811_2.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Tue, 04 Jun 2024 20:06:07 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198811</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198811</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/198811_1(1).jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
