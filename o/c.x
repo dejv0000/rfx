@@ -13,6 +13,153 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“흉기로 때려 코뼈 부러뜨려”…만취 상태에 택시 기사 폭행한 남성 </title>
+      <link>https://www.chosun.com/national/national_general/2024/06/07/JZD2SYHF5FB2LD5SABDTCE63EU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/07/JZD2SYHF5FB2LD5SABDTCE63EU/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Jun 2024 00:06:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A6HKRBJJE5AWDL6AMABYHUEHZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 택시 기사인 아버지가 승객으로부터 폭행을 당했다며 공개한 사진./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 포항에서 택시 운전을 하던 70대 기사가 승객에게 폭행을 당해 코가 부러졌다는 주장이 제기됐다.&lt;br&gt;&lt;br&gt;지난 6일 한 온라인 커뮤니티에는 “포항 택시 기사 폭행 사건 택시 기사님 아들입니다”라는 제목의 글이 올라왔다.&lt;br&gt;&lt;br&gt;기사의 아들이라고 밝힌 작성자 A씨에 따르면 택시 기사 B씨는 지난달 31일 포항시 북구 항구동에서 한 승객을 태웠는데 이 승객이 B씨 옆자리에 앉으며 반말로 “흥해로 가자”라고 했다. 목적지에 다다르자 승객은 “손님한테 맞아 본 적 있냐”는 질문을 건넸고, B씨는 “그런 적 없다”며 도착했으니 요금을 지불해달라고 말했다고 한다.&lt;br&gt;&lt;br&gt;하지만 승객은 요금을 지불하지 않고 자는 척을 했고, 이런 승객의 행동에 B씨는 목적지에서 차를 움직여 파출소로 향했다. 그런데 갑자기 이 승객이 기어봉 쪽에 있는 돈 가방에 손을 대려고 했고, B씨는 이를 제지했다. 그러자 승객이 돈 가방을 운전석 쪽으로 던지며 운행을 방해했다고 한다.&lt;br&gt;&lt;br&gt;이후 폭행이 시작됐다는 게 A씨의 주장이다. A씨에 따르면 승객은 B씨의 귀를 잡아당겨 비틀고 주먹으로 얼굴을 가격했다. 또한 자동차 키 같은 날카로운 물건을 손에 쥐고 B씨 얼굴을 가격하고, 머리카락도 쥐어뜯는 등 폭행을 이어나갔다고 한다. B씨는 맞으며서도 2차 사고를 막기 위해 운전대를 놓지 않았다.&lt;br&gt;&lt;br&gt;B씨는 가까스로 아무도 없는 길가에 차를 주차한 후 경찰에 신고했다. 경찰이 도착하자 이 승객은 “손가락을 다쳤다”며 쌍방폭행을 주장했다고 한다.&lt;br&gt;&lt;br&gt;A씨가 공개한 사진을 보면 B씨 얼굴은 피범벅으로, 코와 눈가 주변 등에서 피가 흘러내리고 있었다. 또한 B씨가 입고 있던 파란색 셔츠와 베이지 색 바지도 핏자국이 물들어 있었다.&lt;br&gt;&lt;br&gt;A씨는 “아버지가 일방적으로 피해를 입었는데, 이게 어떻게 쌍방 폭행이 되는 사건인지 납득되지 않는다”며 “아버지는 손가락을 공격할 정신도 없었고, 폭행한 사실도 없다”고 했다. 이어 “블랙박스 영상만 보더라도 일방적인 폭행”이었다며 “지난 1일 아버지는 대구에서 봉합수술을 받았고 7일 코 골절 수술도 받을 예정”이라고 전했다.&lt;br&gt;&lt;br&gt;이 승객은 채널A와의 인터뷰에서 술에 취했던 건 맞다고 인정했다. 그는 “일방적으로 내가 (때린 건 아니다). B씨가 목적지를 제대로 가지 않아 실랑이를 벌인 것”이라며 자신도 폭행을 당했다고 주장했다. A씨는 “택시 기사가 자기가 말한 집을 제대로 못 찾아간다고 해서 폭행했다는 게 말이 되나. 아니 그렇다고 해도 사람을 저렇게 피투성이로 만들어도 되는 일인가”라며 분노했다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “진짜 욕 나온다. 아버님 얼마나 충격받으셨을까. 제대로 된 처벌 꼭 받기 바란다” “공론화될 수 있길 바란다” 피가 “거꾸로 솟는다. 힘내셔라” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“용이 승천하는 듯”… 경복궁서 일어난 모래바람의 정체</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/07/MHAEN4XR3VFYHD7SZVKDCSJKTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/07/MHAEN4XR3VFYHD7SZVKDCSJKTY/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Jun 2024 00:36:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FYME5CLMAFCJNMKQFCNMXNZZM4.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 경복궁에서 목격된 회오리 바람/ @freedive_santa&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 종로구 경복궁에서 용이 승천하는 모양의 회오리 바람이 일어나 온라인에서 화제가 되고 있다.&lt;br&gt;&lt;br&gt;최근 소셜미디어에는 ‘어제 경복궁 용오름’이라는 제목으로 20초분량의 영상이 올라왔다. 해당 영상에는 경복궁 내 흙바닥에서 모래 바람이 일며 회오리가 하늘 높이 솟구치는 모습이 담겼다. 당시 하늘은 구름이 거의 없는 맑은 날씨였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XJMUKLC7TVGGJN42PC4MG7KUVM.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 경복궁에서 목격된 회오리 바람/ @freedive_santa&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경복궁 관람객들도 가던 걸음을 멈추고 신기한듯 이 현상을 바라봤다. 영상 촬영자도 “우와 저게 뭐야. 용오름이다, 용오름”이라고 외쳤다. 이 회오리 기둥은 원을 그리며 수m 가량 이동하더니, 몇 초 뒤 나무와 부딪히면서 힘을 잃고 사라졌다.&lt;br&gt;&lt;br&gt;이 영상은 한 초등학생이 지난 3일 경복궁으로 체험학습을 갔다가 촬영한 것이라고 한다. 네티즌들도 “지금도 신기한데 옛날에는 얼마나 많은 의미부여를 했을까” “진짜 용이 승천하는 것 모습이다” “전우치가 등장했다” “이런 장면은 처음 본다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;다만 영상 속 현상은 주로 해안가에서 관측되는 용오름이 아닌 회오리바람으로 추정된다. 회오리바람은 지면에서 불려 올려진 먼지나 모래알들이 기둥 모양을 하고 선회하는 현상이다. 햇볕에 지면 부근의 공기가 데워지면 공기가 상승 기류를 일으키는데, 이때 흙먼지를 끌어들이면서 거대한 먼지 기둥이 생기는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EIF5YVR3TFHK3FV6ZVJZC3NC7A.gif?width=600&amp;height=337&amp;auth=b499caa7af28bd5a2fc7b9d12ecc0fe8eec414eb13e5419c28525f9d146c6792&amp;smart=true" type="image/jpeg" height="337" width="600"/>
+    </item>
+    <item>
+      <title>중국산 고사리를 ‘제주산’으로...원산지 표시 위반 업체 적발</title>
+      <link>https://www.chosun.com/national/regional/2024/06/07/SH3D2IHR3JEXBHFIXUDGTVGBXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/07/SH3D2IHR3JEXBHFIXUDGTVGBXA/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Jun 2024 01:25:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6Q6KEEDJHJM3IKBOGWU4X4B7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국립농산물품질관리원 제주지원은 지난달 고사리 원산지 표시 기획 단속을 실시, 5개 업체를 적발했다고 7일 밝혔다. /국립농산물품질관리원 제주지원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주지역 주요 관광지에서 중국산 고사리를 제주산으로 속여 판매한 업체들이 적발됐다.&lt;br&gt;&lt;br&gt;국립농산물품질관리원 제주지원은 지난달 고사리 원산지 표시 기획단속을 벌여 5개 업체를 적발했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;농관원 제주지원은 이 가운데 중국산 고사리를 제주산으로 위장 판매하거나 원산지를 거짓 표시한 4개 업체에 대해 수사를 의뢰했다. 중국산 고사리의 원산지를 표시하지 않고 판매한 1개 업체에는 과태료를 부과했다.&lt;br&gt;&lt;br&gt;서귀포시 소재 한 음식점은 중국산 고사리의 원산지를 표시하지 않고 고객이 물어보면 제주산이라고 위장 판매한 것으로 드러났다. 서귀포시의 또 다른 업체는 포장지 앞면에 ‘제주고사리’라는 표시를 한 뒤 원산지를 별도로 표시하지 않은 중국산 고사리를 판매하다 적발됐다.&lt;br&gt;&lt;br&gt;농관원 제주지원 관계자는 “수입 농축산물에 대한 상시 모니터링을 통해 단속과 관리를 강화할 계획”이라며 “원산지 표시위반이 의심될 경우 신고해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;농관원 제주지원은 올해 들어 지난달까지 농식품 표시사항 위반으로 24건을 적발했다. 주요 위반품목은 배추김치 12건, 고사리 5건, 쌀 4건이다. 위반업소는 음식점이 10건으로 가장 많았고, 농식품 판매업체 7건, 양곡 판매업체 4건, 식품제조업 2건, 축산물 판매업체 1건이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천항 도로에서 차량 3대 충돌하고 바다로 추락, 운전자는 숨져</title>
+      <link>https://www.chosun.com/national/incident/2024/06/07/IHENAOOD2RGLXOG2ZDXYH5TI3I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/07/IHENAOOD2RGLXOG2ZDXYH5TI3I/</guid>
+      <dc:creator>인천=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Jun 2024 01:37:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SMI42QM64MRE3GH4OIYKB7QWKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추돌사고를 일으킨 승용차가 바다로 추락해 운전자가 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;7일 소방당국에 따르면 이날 오전 4시 17분쯤 인천시 중구 항동7가 편도 3차로 도로에서 40대 남성이 운전하던 벤츠 차량이 QM3 차량을 추돌한 뒤 도로 옆 바다로 추락했다.&lt;br&gt;&lt;br&gt;바다에 빠진 벤츠 차량의 운전자는 해경에 구조돼 심정지 상태에서 병원으로 옮겨졌으나 숨졌다. QM3 차량 운전자는 입원 치료를 받고 있지만 생명에는 지장이 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;당시 벤츠 차량은 바다로 추락하기 전 도로변에 주차돼 있던 대형 화물차 2대와도 부딪쳤으나 화물차에는 승객이 없었다. 경찰은 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>술값 시비로 지인 폭행, 선고 공판에도 안 나온 50대 ‘징역 2년’</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/07/3AMIKAKZGNBPRHQ6EEPXNY522Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/07/3AMIKAKZGNBPRHQ6EEPXNY522Y/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>술값 문제로 지인을 폭행한 것도 모자라 선고 공판에 불출석하는 등 재판에 불성실한 태도를 보인 50대가 결국 실형을 선고받았다.춘천지법 형사1단독 신동일 부장판사는 특수상해 등 혐의로 기소된 A(53)씨에게 징역 2년을 선고했다고 7일 밝혔다.</description>
+      <pubDate>Fri, 07 Jun 2024 02:54:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NYXQNH4XDWMROHTCKQ7N43XCLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술값 문제로 지인을 폭행한 혐의로 불구소 기소됐으나 선고 공판에 출석하지 않는 등 성실하게 재판을 받지 않은 50대가 실형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사1단독 신동일 부장판사는 특수상해 등 혐의로 기소된 A(53)씨에게 징역 2년을 선고했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2022년 10월 3일 강원 춘천시 한 주점에서 술값 문제로 다툼을 벌이던 지인 B씨의 머리를 볼펜으로 내리찍는 등 폭행한 혐의를 받고 있다. A씨는 이를 말리던 다른 손님 C씨에게도 폭행을 휘둘렀다.&lt;br&gt;&lt;br&gt;이 사건으로 A씨는 불구속 상태로 재판에 넘겨졌지만, 선고기일에 계속해서 출석하지 않는 등 불성실한 태도를 보였고 재판부는 공시송달 절차를 거쳐 A씨가 불출석한 상태에서 징역 2년의 실형을 내렸다.&lt;br&gt;&lt;br&gt;공시송달은 피고인 등이 서류를 받지 않고 재판에 불응할 때 관보에 내용을 게재한 뒤 그 내용이 전달된 것으로 간주하는 제도다.&lt;br&gt;&lt;br&gt;신 부장판사는 “특수상해의 수법이 위험하고 비난 가능성이 크다”면서 “재판 과정에서 도주한 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울대병원 전체 휴진 선언에, 정부 “심각한 우려”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/06/07/JHLCN2WEARG5PH3BYDUFBKLT3E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/07/JHLCN2WEARG5PH3BYDUFBKLT3E/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Jun 2024 02:49:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I7M3UCHGCNNABH54I6VT5FTDMQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전공의 이탈이 100일을 넘긴 가운데 서울의 한 대학병원에서 의료진이 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의대·서울대병원 교수 비상대책위원회가 오는 17일부터 필수 부서를 제외한 전체 휴진을 하기로 결의한 것과 관련, 정부는 “깊은 유감과 심각한 우려를 표한다”고 했다.&lt;br&gt;&lt;br&gt;정부는 7일 “전공의 집단행동이 장기화돼, 국민과 환자의 고통이 커지고 있는 상황”이라며 이같이 밝혔다. 이어 “서울의대·서울대병원 교수님들은 환자의 곁을 지켜주실 것이라 생각하며, 복귀를 희망하는 전공의가 의료 현장으로 돌아올 수 있도록 힘을 함께 모아주길 바란다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “정부는 기 발표한 전공의 복귀 방안을 차질없이 추진하고, 진행 상황을 면밀히 살피면서, 국민의 생명과 건강을 보호하기 위한 모든 대책을 강구하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 비대위는 6일 “전공의를 향한 (정부의) 행정처분이 완전히 취소되고 이번 의료 사태의 정상화를 위한 합리적 조치가 시행되지 않는다면 17일부터 진료를 중단할 것”이라고 발표한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>폰 수리 기사가 몰래 사진첩 열람 후폭풍… ‘수리모드’ 검색량 폭증</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/07/N7JYPRIYL5H3BF4FPTFISLTFFI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/07/N7JYPRIYL5H3BF4FPTFISLTFFI/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Jun 2024 02:19:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DJT4IYTGCJDRNM7V7C7OGO7IHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공구로 분해된 스마트폰. 해당 사진은 기사와 관련 없음. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전자제품 서비스 기사가 젊은 여성 손님으로부터 수리를 의뢰받은 휴대전화를 무단으로 반출, 집에서 사진첩 등을 장시간 열람한 사건이 벌어지면서, 소비자 우려가 확산하고 있다. 특히 여성들 사이에서는 휴대전화에 저장된 각종 정보에 대한 수리 기사의 접근을 차단하는 ‘수리모드’에 대한 관심이 커지면서, 해당 키워드의 검색량이 폭증했다. 해당 회사는 고강도 대책 마련에 나섰다.&lt;br&gt;&lt;br&gt;최근 S전자 서비스 센터에서는 손님이 수리를 맡긴 휴대전화를 기사가 퇴근길에 들고 나가, 집에서 사진첩을 1시간 넘게 열람한 사건이 있었다고 KBS가 5일 밤 보도했다. 사진첩에는 다이어트 할 때 찍어 놓은 나체 사진 등이 있었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;그러자 소셜미디어 X(옛 트위터)와 더쿠 등 여성 중심 커뮤니티 사이트에서는 휴대전화의 ‘수리모드’에 관한 글이 잇달아 올라오고 있다.&lt;br&gt;&lt;br&gt;‘수리모드’란 기본으로 휴대전화 수리 등 다른 사람이 휴대전화를 사용하는 동안 개인정보를 보호하는 기능이다. 이 기능을 활성화하면 사진과 메시지 등 계정을 포함한 개인 데이터에 접근할 수 없게 된다.&lt;br&gt;&lt;br&gt;네이버 검색에서도 ‘수리모드’에 대한 관심은 나타난다.&lt;br&gt;&lt;br&gt;해당 키워드 검색량(상대값)은 최근 1개월간 0~3을 기록했지만, 첫 보도가 있었던 6월5일 24로 뛰어올랐고, 6일에는 100을 기록했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O5RVK2SC65DFRE2HPFPEWTLW2I.png"&gt;&lt;figcaption&gt;&lt;small&gt;네이버 '수리모드' 검색량 추이./네이버트렌드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여초 커뮤니티 여성시대와 더쿠 등에서는 ‘서비스센터 이용할 때 수리모드로 개인정보 보호’하라며 이 기능에 대한 설명이 잇달아 공유되고 있다.&lt;br&gt;&lt;br&gt;일각에선 서비스센터에서 수리모드 해제를 요구받은 일이 있었다는 불만 글이나, 액정이 깨지면 수리모드 설정 자체가 불가능하다는 불만 글도 올라왔다. “액정 교체할 때 수리모드 하니까 풀어달라던데...풀긴 했는데 찜찜했다” “수리모드 해 놓으면 수리 잘 됐는지 제대로 확인 못 한다고 풀라고 했었다” “두 번 수리 맡기러 갔었는데 그 때마다 수리모드 풀어달라고 했었다” 등이었다.&lt;br&gt;&lt;br&gt;외국 기업이라고 다르지 않다. 6년 전 A사 직영점에서 수리를 맡긴 적이 있다는 한 네티즌은 “수리 맡길 때 찜찜했다. 수리할 때 클라우드 아이디랑 비밀번호가 필요해서 알려줬는데, 나중에 보니까 직원들이 다 모여서 내 휴대전화가 연결된 컴퓨터를 보고 있어서 뭐지 싶었다”며 “나중에 보니 내 사진첩과 연락처 클라우드 연결을 안 했었는데 갑자기 다 연결돼 있어서 당황했었다”며 자신의 경험을 공유하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BOOOZB77ZJL4LL56QXPSNVILIA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해외에서도 비슷한 일이 있었다. 2021년 미국에서는 스마트폰 수리를 맡겼다가 그 안에 든 나체 사진과 성관계 영상 등이 수리 기사에 의해 온라인에 유출된 21세(당시 나이) 여성이 제조회사로부터 수백만달러(수십억원)의 합의금을 받았다. 정확한 합의 금액은 비밀 유지 조항 탓에 밝혀지지 않았으나, 피해 여성 측은 500만 달러(약 55억 5950만원)를 요구한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;S전자 서비스 측은 “이번 사안을 엄중하게 보고 있다”며 “고객이 맡긴 제품의 반출 통제부터 시작해서, 액정이 깨졌을 때 대처 방안 등 다양하고 강도높은 해결 방안 마련에 착수했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 경찰, 민주 이상식 의원 자택 등 압수수색...공직선거법 위반 혐의</title>
+      <link>https://www.chosun.com/national/incident/2024/06/07/KNBQQLMVVRDFPJQWSD7KVPUJMY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/07/KNBQQLMVVRDFPJQWSD7KVPUJMY/</guid>
+      <dc:creator>용인=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Jun 2024 02:06:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AB3SGBTRTNI37OLV7VJ6TWNCPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제22대 국회의원선거 용인갑에 출마한 더불어민주당 이상식 후보가 지난 4월 11일 경기 용인시 선거사무소에서 당선이 확실시되자 꽃다발을 받고 밝은 표정을 짓고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 더불어민주당 이상식(경기 용인갑) 국회의원의 공직선거법 위반 혐의에 대한 강제수사에 나선 것으로 확인됐다.&lt;br&gt;&lt;br&gt;7일 경찰에 따르면 경기 용인동부경찰서는 이날 오전부터 이상식 의원의 용인과 서울 자택과 배우자의 갤러리, 선거사무소 등 4곳을 압수수색 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 의원은 22대 국회의원 선거 출마를 위해 재산신고를 하면서 애초 현금 재산을 5억원으로 신고했다가 바로 다음날 3억5000만원으로 수정하는 등의 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “현재 압수수색 중인 상황으로 자세한 내용은 밝힐 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;한편 국민의힘은 지난 3월 공직선거법상 허위사실 유포 혐의로 당시 민주당 이상식 후보를 고발한 바 있다. 국민의힘 중앙선거대책위원회 클린선거본부는 “이 후보가 배우자 재산이 4년새 50억원 이상 증가했는데 세금은 1800만원 납부했다는 의혹에 대해 거짓 해명을 했다”며 고발 이유를 밝혔다. 이 후보는 입장문을 통해 “2020년 당시 배우자 미술품은 15억 원 가치였고 최근 이우환 작품 등 가액이 3∼4배 급등했지만, 2024년 현재 작품을 계속 보유하고 있어 미실현 이익일 뿐이므로 세금을 납부하지 않았다”고 해명했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/AB3SGBTRTNI37OLV7VJ6TWNCPA.jpg?width=2896&amp;height=3727&amp;auth=31c489a773e7206d9a5d81f4ff0248dbf25df5a5ece8cf8e6eda5f5aa877fa70&amp;smart=true" type="image/jpeg" height="3727" width="2896">
+        <media:description type="plain">&lt;YONHAP PHOTO-0233&gt; 꽃다발 받은 이상식 후보
+    (용인=연합뉴스) 제22대 국회의원선거 용인갑에 출마한 더불어민주당 이상식 후보가 11일 경기 용인시 선거사무소에서 당선이 확실시되자 꽃다발을 받고 밝은 표정을 짓고 있다. 2024.4.11 [경기사진공동취재단]
+    photo@yna.co.kr/2024-04-11 00:30:29/
+&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">박신휘</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>박정희 떠올린 심수봉 “내게는 귀한 분…당하는 것 보고 제정신 아니었다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/07/4WZVA47CK5HELLOSDM7THLSS3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/07/4WZVA47CK5HELLOSDM7THLSS3A/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Jun 2024 02:13:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TDIH7PGA2NEFFAUTYTBTSFECOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 심수봉이 10·26 사태 당시 사건 현장을 목도한 심경을 밝혔다. /tvN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10·26 사태 당시 사건 현장에 있었던 가수 심수봉이 고(故) 박전희 전 대통령을 떠올리며 “제게는 귀한 분”이라고 했다.&lt;br&gt;&lt;br&gt;심수봉은 지난 6일 방송된 tvN 스토리 ‘지금, 이 순간’에 출연해 10·26 사태 당시 사건과 관련 “그분이 그렇게 당하는 걸 보고 그때 제 정신이 아니었다”며 이 같이 말했다.&lt;br&gt;&lt;br&gt;심수봉은 박 전 대통령에 대해 “제 노래도 좋아해 주시고 따뜻하게 잘 해주셨으니 이것저것 떠나 저한테는 귀하게 생각이 되는 분이셨다”며 “특히 그런 자리에 제가 있어서 여러 가지 힘든 상황에 가기도 하고, 많이 슬픈 시간이었다”고 말했다.&lt;br&gt;&lt;br&gt;이 발언은 심수봉이 데뷔 후 큰 인기를 누리던 무렵 돌연 방송에서 4년간 자취를 감출 수 밖에 없었던 이유에 대해 털어놓던 중 나왔다.&lt;br&gt;&lt;br&gt;심수봉은 1978년 ‘제2회 MBC 대학가요제’에서 ‘그때 그 사람’을 발표해 인기를 누렸다. 최고의 인기를 누리던 1980년 심수봉은 세상에서 자취를 감췄다. 심수봉이 모습을 드러내지 않자 당시 사람들 사이에서 “그래서 심수봉은 살았대? 죽었대?”라는 말이 나올 정도였다.&lt;br&gt;&lt;br&gt;심수봉이 방송에 나올 수 없던 이유는 하나였다. 그가 1979년 10월26일 벌어진 박정희 전 대통령 암살 사건 현장을 목도한 인물이었다는 점이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SPK52VFYFBE7HGW6ZPA63Q6BLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10·26 사태 당시 사건 현장을 목도한 가수 심수봉이 박정희 전 대통령에 대해 떠올렸다. /tvN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사건 당시 심수봉은 대통령 만찬 자리에서 노래 공연을 하고 있었다. 심수봉이 노래를 부르던 와중 김재규 전 중앙정보부장이 박 전 대통령에게 총을 겨눴고, 심수봉은 박 전 대통령이 살해된 현장을 그대로 목격했다.&lt;br&gt;&lt;br&gt;1979년 12월 신군부 세력이 군사반란을 일으키자 사건 현장에 있던 심수봉은 수사를 받게 됐다. 심수봉은 무죄를 받았으나 이후 신군부 방침에 따라 방송에 나올 수 없게 됐다. 당시 신문 보도에 따르면 1980년 9월부터 ‘자율정화’를 이유로 물의를 일으키거나 혐오감을 심은 심수봉 등 연예인 20여명의 방송 출연이 4년간 금지 처분을 받았다.&lt;br&gt;&lt;br&gt;이후 심수봉은 1984년 ‘남자는 배 여자는 항구’로 복귀했다. 이 노래는 한달 인세로만 당시 돈 7000만원의 수익을 올리며 대성공을 거뒀다. 지금 가치로는 약 3억원 수준의 돈을 벌어들인 셈이다.&lt;br&gt;&lt;br&gt;심수봉은 “다시 활동할 수 있도록 해준 노래”라며 “제 음악을 좋아하는 분들이 없었다면 (4년간) 살아가기 힘들었을 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편 이날 심수봉은 히트곡 ‘그때 그 사람’의 주인공이 가수 나훈아라고 밝히기도 했다. 그는 “8년 여간 절절하게 나훈아를 짝사랑했다”며 데뷔 전 교통사고로 입원했던 당시 나훈아가 찾아와 병실에서 기타를 연주해준 일을 떠올렸다. 노래에 ‘외로운 병실에서 기타를 쳐주고’라는 대목도 그 일화를 바탕으로 쓴 가사라고 한다. 심수봉은 “웬 가수님이 병실에 오셔서 기타까지 쳐주면서 노래를 하나 (싶었고) 그래서 완전히 빠졌다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>집에서 혼자 출산한 아이 분리수거장에 버린 친모 ‘살인미수’ 적용</title>
+      <link>https://www.chosun.com/national/regional/2024/06/07/SMZXUKEUZ5EH5EQF7MLY4665M4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/07/SMZXUKEUZ5EH5EQF7MLY4665M4/</guid>
+      <dc:creator>수원=권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Jun 2024 02:17:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4IT2YWSFRDRLGSX5FAR72KIHA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경기남부경찰청 청사. /경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;집에서 혼자 아이를 낳은 뒤 비닐봉지에 넣어 쓰레기 분리수거장에 버린 30대 친모에게 경찰이 살인미수죄를 적용해 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;경기남부경찰청 여성안전과는 7일 살인미수 및 아동복지법 위반(신체적 학대) 혐의로 A(31) 씨를 검찰에 구속 송치했다.&lt;br&gt;&lt;br&gt;A씨는 지난달 31일 오후 7시쯤 수원시 장안구 영화동의 쓰레기 분리수거장 내 종이류 수거함에 신생아를 검정 비닐봉지에 넣어 유기해 살해하려 한 혐의를 받고 있다. A씨가 아이를 유기한 직후 지나던 주민이 “쓰레기통에서 아기 울음소리가 난다”며 경찰에 신고했고, 아이는 병원으로 옮겨져 건강을 회복한 상태이다.&lt;br&gt;&lt;br&gt;경찰은 방범카메라 추적 등을 통해 같은 날 오후 9시쯤 집에 있던 A씨를 검거했다. 경찰 조사에 따르면 A씨는 이날 오후 집에서 혼자 아이를 출산한 뒤 수건으로 얼굴을 덮어 봉지에 넣은 뒤 근처의 분리수거장에 버린 것으로 나타났다. A씨는 경찰에서 “아기를 키우기 힘들 것 같았고, 울어서 수건으로 얼굴을 덮어둔 채 버렸다”는 취지로 진술했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 수사하는 과정에서 적용 혐의를 아동복지법 위반(유기) 혐의에서 살인미수 혐의로 변경했다. 경찰은 당시 응급처치를 한 구급대원 및 병원에서 진료한 의사 등으로부터 “구조 당시 아기의 체온이 매우 낮아진 상태였다”, “병원에 조금만 늦었어도 위험했다”는 등의 진술을 받았다. 또 신생아를 봉지에 넣고 공기가 통하지 않도록 강하게 묶은 상태로 유기하는 행위는 일반의 상식으로도 살인의 고의에 해당하는 것으로 볼 수 있다고 설명했다.&lt;br&gt;&lt;br&gt;경찰은 아이의 친부인 50대 B씨도 조사했으며, A씨와 B씨 두 사람은 지난해 몇 달간에 걸쳐 만나다가 같은해 12월 헤어진 것으로 파악됐다. B씨는 “A씨가 임신을 한 줄은 전혀 알지 못했다”고 했으며, A씨가 B씨에게 임신 사실을 말한 정황은 드러나지 않았다. A씨는 지난해 8~9월쯤 임신을 했는데, 산부인과 등의 진료 기록은 발견되지 않았다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘쌍방울 불법 대북송금’ 이화영, 운명의 날…오늘 오후 1심 선고</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/07/QRLHJB3LAJEV3NWCPA3MTVDNXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/07/QRLHJB3LAJEV3NWCPA3MTVDNXY/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Jun 2024 01:53:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAXWHQT4QDXER4L6SBPG4TUOJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사. /경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쌍방울 그룹의 불법 대북 송금에 관여하고, 쌍방울로부터 수억원의 뇌물과 정치자금을 수수한 혐의 등으로 기소된 이화영 전 경기도 평화부지사에 대한 1심 선고가 7일 오후 나온다.&lt;br&gt;&lt;br&gt;지난 2022년 10월 14일 구속기소 된 지 약 1년 8개월 만, 일수로는 602일 만에 법원의 판단이 나오는 것이다. 대북송금 혐의와 관련한 이재명 더불어민주당 대표와의 연관성 여부에 대한 판단도 이뤄질 것으로 예상되면서 선고 결과에 관심이 집중된다.&lt;br&gt;&lt;br&gt;수원지법 형사11부(재판장 신진우)는 이날 오후 2시 이 전 부지사의 외국환거래법 위반, 특정범죄 가중처벌 등에 관한 법률상 뇌물, 정치자금법 위반, 증거인멸교사 등 혐의 사건 선고 공판을 진행한다.&lt;br&gt;&lt;br&gt;이 전 부지사는 이 대표가 경기도지사이던 2019년 도지사 방북 비용 300만달러와 북한 스마트팜 사업 비용 500만달러를 쌍방울이 대신 북한 측에 내게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;검찰은 이 전 부지사와 오랜 인연을 이어온 김성태 전 쌍방울 그룹 회장이 ‘경기도 대북사업 우선적 사업 기회 부여’ 등을 대가로, 이 전 부지사의 부탁을 받고 경기도를 대신해 800만 달러를 북한에 건넨 것으로 판단하고 기소했다.&lt;br&gt;&lt;br&gt;이 전 부지사는 또 쌍방울 측에서 법인 카드와 차량 등 법인카드 및 법인차량을 제공받고, 자신의 측근에게 허위 급여를 지급하도록 하는 등의 방식으로 모두 3억3400여만 원의 정치자금(뇌물은 2억5900여만원)을 받은 혐의도 있다. 검찰은 뇌물 및 정치자금 혐의에 대해선 법인카드 기록 등을 증거로 제시하며 유죄 입증에 자신감을 내비치고 있다.&lt;br&gt;&lt;br&gt;이날 선고의 관건은 대북 송금 혐의에 대한 판단이다. 특히 이 대표의 관여 여부가 쟁점이 될 전망이다. 이 전 부지사는 지난해 6월 검찰에 “쌍방울의 도지사 방북비 대납을 당시 이재명 지사에게 보고했다”는 취지로 여러 차례 진술한 것으로 알려졌다. 다만, 이 전 부지사는 이 같은 자신의 진술을 곧바로 번복하며 “검찰의 회유와 압박에 의한 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QQHD5Q3ONBAWZ4A7L7LUX5WZPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사가 2018년 7월 10일 당시 경기도지사로 재임하던 더불어민주당 이재명 대표로부터 임명장을 받고 있다. /경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 이 같은 진술을 바탕으로 이 대표를 대북송금 혐의 피의자로 전환했고, 이 대표는 수원지검에서 두 차례 출석해 소환 조사를 받았다. 검찰은 지난해 9월 이런 혐의 등에 대해 이 대표에 대한 구속영장을 청구했지만 법원은 기각했다. 이후 이 대표의 대북송금 혐의에 대한 수사는 잠시 멈춘 상태다.&lt;br&gt;&lt;br&gt;이날 재판부가 이 전 부지사의 대북송금 혐의를 유죄로 인정하게 되면, 검찰은 조만간 이 대표에 대한 수사를 마무리할 것으로 전망된다. 반대로 이 전 부지사가 대북송금 혐의와 관련해 무죄를 선고받거나, 이 대표에 대한 보고 여부에 대한 재판부 판단이 나오지 않으면 검찰은 민주당 등 정치권의 거센 반발에 직면할 것으로 보인다.&lt;br&gt;&lt;br&gt;한편, 검찰은 이 전 부지사에 대해선 징역 15년형과 벌금 10억원, 추징금 3억3400여만원을, 그와 함께 기소된 방용철 쌍방울 부회장에게는 징역 2년6개월을 구형했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이재명 대장동 재판 출석...’이화영 선고 입장’ 질문엔 묵묵부답</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/07/SBD44BJB2RHSRA26RHVUIBGMNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/07/SBD44BJB2RHSRA26RHVUIBGMNY/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Jun 2024 01:46:11 +0000</pubDate>
+      <content:encoded>이재명 더불어민주당 대표가 7일 대장동·위례·성남FC·백현동 사건 1심 재판에 피고인으로 출석했다. 이 대표는 이날 오후로 예정된 이화영 전 경기도 평화부지사의 대북 송금 의혹 1심 선고에 관한 입장을 묻는 취재진 질문에 아무 답도 하지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PDMXZW6KXRMLNL4KNPRDPSD5AQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 7일 오전 서울 서초구 서울중앙지법에서 열린 대장동 배임 및 성남FC 뇌물 관련 특정범죄가중처벌등에관한법률위반 등 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 대표는 이날 오전 10시 20분쯤 서울중앙지법에 도착했다. 이 대표는 “이 전 부지사 1심 선고에 관한 입장이 있느냐” “검찰은 이 대표를 대북송금 의혹의 공범으로 보고 있는데 어떤 입장인가” “대북송금 관련 추가 기소 가능성이 있다고 보느냐” 등 취재진 질문에 아무런 답을 하지 않았다.&lt;br&gt;&lt;br&gt;한편 이날 재판에선 지난 재판에 이어 대장동 민간업자인 정영학 회계사(천화동인 5호 소유주)에 대한 증인신문이 이어진다. 최근 이 대표와 함께 기소된 정진상 전 민주당 대표실 정무조정실장 측은 이른바 ‘정영학 녹취록’ 110여개의 조작 여부를 판단하기 위해 녹취 속 발언자를 전부 법정에 불러야 한다고 주장하기도 했다. 재판부는 “녹음파일 일부분을 듣는 건 몰라도 전체를 재생하는 건 불필요한 것 아니냐”고 했지만 정진상씨 측이 입장을 고수하자 결국 “검토해보겠다”고 했다.&lt;br&gt;&lt;br&gt;이 대표는 성남시장 시절 대장동 개발로 민간업자에게 특혜를 주고 성남도시개발공사에는 4895억원의 손해를 입힌 배임 혐의, 위례신도시 개발 정보를 남욱 등 민간업자에게 넘긴 혐의 등으로 작년 3월 기소됐다. 이 재판은 서울중앙지법 형사 33부(재판장 김동현)에서 진행 중이다. 이 재판부는 이 대표의 위증교사 사건도 맡고 있다. 지난 대선에서 대장동 실무자인 고(故) 김문기 전 성남도개공 개발사업처장을 몰랐다고 한 발언 등으로 공직선거법 위반으로 기소된 사건은 중앙지법 형사34부(재판장 한성진)에서 맡고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“토착왜구XX”…‘현충일 욱일기’ 건 아파트에 하루 동안 벌어진 일 </title>
+      <link>https://www.chosun.com/national/national_general/2024/06/07/3DPDY44YLRDKPCDVEYD2AVSV2E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/07/3DPDY44YLRDKPCDVEYD2AVSV2E/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Jun 2024 01:05:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YCC72XUBUJBHNGOZJGMOFJ3NNE.png"&gt;&lt;figcaption&gt;&lt;small&gt;현충일이었던 지난 6일 욱일기를 내걸어 여론의 뭇매를 맞았던 부산의 한 아파트 주민집 현관에 해당 주민의 행동을 비난하는 글이 부착돼 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현충일인 6일 부산 수영구의 고층 아파트에 욱일기를 내걸어 논란을 빚었던 주민이 슬그머니 꼬리를 내렸다. 주민들의 항의가 빗발친 데다, 현관 앞에 비난성 문구가 적힌 종이가 붙고 ‘오물 테러’까지 잇따르자 욱일기를 내린 것으로 보인다.&lt;br&gt;&lt;br&gt;7일 관리사무소 관계자 등에 따르면, 밤사이 해당 주민의 집 현관 앞은 음식물로 추정되는 오물과 비난글로 뒤덮였다. 논란이 확산하는 데도 해당 입주민과 연락이 닿지 않자, 격분한 몇몇 주민들이 항의의 표시로 이 같은 행동을 취한 것으로 보인다.&lt;br&gt;&lt;br&gt;집주인이 붙여놓은 ‘여행 가서 아무도 없다’는 내용의 종이 위에는 붉은 글씨가 프린팅 된 종이가 덧붙여졌다. 종이에는 “나잇값도 못하는 토착왜구XX” “제국주의나 찬양하는 쪽바리XX는 우리 아파트에서 꺼져라” 등의 글이 적혔다.&lt;br&gt;&lt;br&gt;또 현관문은 누군가가 던져놓은 달걀로 인해 더러워진 상태였다. 현관문 아래에는 흘러내린 달걀 노른자‧흰자와 깨진 달걀 껍질 등이 뒤섞여 있었다.&lt;br&gt;&lt;br&gt;관리사무소 측은 “항의 전화가 빗발쳤고, 외부인들도 찾아와 항의를 하기도 했다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DII3BTS2Q5JE3LWGGZHDFLUCRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제69회 현충일인 6일 부산 수영구의 한 43층짜리 주상복합건물 고층 창문에 일본 군국주의의 상징인 욱일기가 내걸려 시민들이 분노하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해당 아파트 창문 밖에 걸렸던 욱일기는 전날 늦은 밤 철거된 것으로 전해졌다. 현재는 창문에 ‘민관합동 사기극’이란 문구가 적힌 현수막만 붙어 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;논란은 앞서 전날 온라인상에 대형 욱일기가 걸린 사진이 여러 장 공유되며 불거졌다. 해당 주민의 집 창문에는 현수막을 사이에 두고 양쪽으로 욱일기가 걸려있었다. 이 주민은 지난 5월엔 비슷한 일장기를 내걸었다 걷었다가를 반복했던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 주민은 지방자치단체와 법적 갈등을 빚고 있는 문제를 공론화하기 위해 이런 일을 벌였다고 주장하는 것으로 전해졌다. 그는 일부 언론과의 통화에서 “반드시 알리고 싶은 일이 있어서 전국적인 관심을 끌기 위해 현충일에 맞춰 이 같은 행위를 준비했다”며 “제헌절, 광복절에도 욱일기를 내 걸 것”이라고 말하기도 했다.&lt;br&gt;&lt;br&gt;비난이 쏟아지면서 해당 주민의 신상을 터는 네티즌들까지 나왔다. 이 과정에서 동명이인인 의사가 해당 입주민으로 잘못 지목돼, 병원의 홈페이지가 다운되는 소동이 일기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YCC72XUBUJBHNGOZJGMOFJ3NNE.png?width=652&amp;height=1073&amp;auth=0da8470a57b1097d2b433a8f931427a8fb4e183ad641618e4c37043a3cee618a&amp;smart=true" type="image/png" height="1073" width="652">
+        <media:description type="plain">현충일이었던 지난 6일 욱일기를 내걸어 여론의 뭇매를 맞았던 부산의 한 아파트 주민집 현관에 해당 주민의 행동을 비난하는 글이 부착돼 있다. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>‘강남 모녀 살해’ 박학선 구속 송치… 경찰, 계획 범행 판단</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/07/O4HBOHDIKVDWNA2DZ2LAC4SYHA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/07/O4HBOHDIKVDWNA2DZ2LAC4SYHA/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Jun 2024 23:35:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SIVZYR22VVFMIXLLWQNEV236WM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남의 한 오피스텔에서 모녀를 흉기로 찔러 살해한 박학선이 7일 서울 강남구 수서경찰서에서 나와 검찰로 송치되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남 한 오피스텔에서 흉기로 모녀를 살해하고 달아난 박학선(65)이 7일 오전 구속 상태로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 수서경찰서는 이날 오전 박씨를 살인 혐의로 서울중앙지검에 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;박씨는 지난달 30일 오후 서울 강남구 선릉역 인근 한 오피스텔에서 60대 여성 A씨와 A씨의 30대 딸을 흉기로 살해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이날 오전 7시 40분쯤 모자와 마스크를 쓴 채 경찰서 유치장을 나온 박씨는 ‘이별 통보를 듣고 범행한 것이냐’는 취재진 질문에 “아니다”라고 답했다. 이어지는 질문에는 “죄송합니다”라고 말한 뒤 호송차에 올라탔다.&lt;br&gt;&lt;br&gt;박씨는 우발적 범행을 주장하고 있지만, 경찰은 폐쇄회로(CC)TV 영상 등 여러 증거를 토대로 사전에 계획한 범행으로 판단하고 있다.&lt;br&gt;&lt;br&gt;박씨는 A씨와 교제하던 사이로, A씨의 가족이 교제를 반대하고 A씨도 이별을 통보하자 앙심을 품고 A씨의 사무실인 오피스텔에서 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;그는 범행 뒤 달아났다가 13시간 만인 이튿날 오전 서초구 남태령역 인근에서 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;경찰은 지난 4일 신상정보공개심의위원회 심의 결과에 따라 범행의 잔인성과 피해의 중대성 등을 이유로 박학선의 머그샷과 이름·나이를 공개했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>남편 불륜 증거 잡으려 앱 깔아 몰래 녹음하면…</title>
+      <link>https://www.chosun.com/national/court_law/2024/05/20/IU3T6EWMZ5DCHGQIYYWPHTXUYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/05/20/IU3T6EWMZ5DCHGQIYYWPHTXUYQ/</guid>
+      <dc:creator>허욱 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 May 2024 16:00:00 +0000</pubDate>
+      <content:encoded>배우자 몰래 휴대전화에 ‘스파이 앱’을 설치해 불륜 정황이 담긴 통화 내용을 확보했더라도 재판 증거로 사용할 수 없다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;A씨는 2011년 의사인 남편과 결혼했다. A씨는 2019년 남편이 같은 병원에서 일하던 B씨와 바람을 피운 것을 알게 됐다. A씨도 외도를 했고, 이듬해 남편에게 들켰다. 두 사람은 2021년 이혼했고, A씨는 B씨를 상대로 3300만원의 손해배상을 청구하는 소송을 냈다.&lt;br&gt;&lt;br&gt;재판의 쟁점은 A씨가 제출한 남편과 B씨 간 통화 녹음 파일을 증거로 쓸 수 있는지였다. 이 파일은 A씨가 남편 휴대전화에 몰래 ‘스파이 앱’을 설치해 확보한 것이었다. 이 앱을 설치하면 해당 휴대전화의 통화 내용과 문자메시지 등을 확인할 수 있다. B씨는 위법하게 수집된 자료라서 증거로 쓸 수 없다고 주장했다.&lt;br&gt;&lt;br&gt;1·2심은 이 통화 녹음 파일을 증거로 인정할 수 있다고 판단했다. 1심은 “형사 재판은 위법하게 확보한 자료를 증거로 쓸 수 없지만 가사 재판은 다르다. 상대방 동의가 없이 확보된 자료라도 재판부 재량에 따라 증거로 인정할 수 있다”며 “B씨는 A씨에게 1000만원을 지급하라”고 했다. 2심 판단도 같았다.&lt;br&gt;&lt;br&gt;하지만 대법원 1부(주심 김선수 대법관)는 이 통화 녹음 파일을 증거로 사용할 수 없다고 19일 밝혔다. 대법원은 “A씨가 통화 당사자인 남편과 B씨의 동의를 받지 않고 녹음한 것은 감청에 해당해 통신비밀보호법을 위반한 것”이라며 “불법 감청에 의해 녹음된 통화 내용은 재판 증거로 쓸 수 없다”고 했다. 다만, 대법원은 나머지 증거로도 B씨의 부정행위가 인정된다며, B씨가 A씨에게 1000만원을 지급하라는 원심 판결을 확정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>직장 해고 밀양 가해자 “물 한모금 못넘겨, 심정지 온 듯 산다”</title>
       <link>https://www.chosun.com/national/national_general/2024/06/07/5QIOMF6SJVBYBJ2HDPNOVVU7AA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/07/5QIOMF6SJVBYBJ2HDPNOVVU7AA/</guid>
@@ -769,127 +916,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5AA3WLBRWBBNVNUYUIHNNYEC5Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 아도인터내셔널 일당으로부터 압수한 현금 다발./동작경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아도인터내셔널의 4400억원대 유사수신 범행에 가담한 일당 120명이 검거됐다. 이중 회사 대표, 계열사 대표 등 책임자 11명은 구속 송치됐다.&lt;br&gt;&lt;br&gt;서울 동작경찰서는 투자자 약 3만6000명을 모집하고 이들로부터 4467억원 가량을 수신한 유사수신업체 아도인터내셔널 일당 120명을 지난달 검찰에 송치했다고 5일 밝혔다. 이중 아도인터내셔널 대표 이모씨와 계열사 대표 등 책임자 11명은 구속됐다.&lt;br&gt;&lt;br&gt;경찰은 수사 과정에서 이씨와 계열사 대표들이 거주하던 고급 아파트에서 5만원권과 1만원권 등 28억원 상당의 현금 다발을 압수했다. 경찰은 현금 다발과 이씨 명의의 부동산 등 147억원 상당의 재산을 몰수 및 추징보전했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이씨와 계열사 대표, 상위 투자자 모집책들은 ‘땡처리 물건을 구입해 판매하면 200% 이상 수익이 생긴다’ ‘우리가 직접 개발한 코인을 구입하면 비트코인 만큼 수익을 얻을 수 있다’는 등의 내용으로 전국을 돌며 투자 설명회도 열어 투자자를 모집했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OQSWKX2VIOHIMHTGE6IFAUQBBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유사수신업체 '아도인터내셔널' 관계자와 피해자들이 한강 아라뱃길 유람선에서 파티를 즐기고 있다. /동작경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들은 ‘아도페이’라는 앱을 개발해 투자자들이 휴대전화에 설치하도록 한 뒤 투자자들에게 하루 이율 1%를 넘는 수익을 볼 수 있다고 투자를 유도하고 정상 거래가 진행되는 것처럼 투자자들을 속인 혐의도 받는다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이들은 수사기관의 추적을 피하기 위해 전산실 장소를 옮겨가며 앱을 운영한 것으로 확인됐다. 지난해 6월 말 아도페이는 전산실이 해킹당했다며 피해자들의 출금을 막았던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 수사가 시작되자 서울 성수동의 한 고급 아파트에서 거주하던 이씨가 은신처를 옮기며 도주했다고 했다. 이씨는 지난해 8월 중순쯤 부산 해운대구의 고급 아파트에서 경찰에 체포됐다. 이씨의 도주를 도왔던 조직폭력배 1명은 이씨의 체포 소식을 듣고 베트남으로 도주했지만 다음날 베트남 공항에서 체포됐다.&lt;br&gt;&lt;br&gt;투자금 2000만원을 잃었다는 피해자 김주연씨는 “피해자는 60대 이상 노인들과 주부들이 많았다”며 “노후자금과 대출금까지 받아서 1억원 이상을 잃은 장애 노인도 있다”고 했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “원금과 고수익이 보장된다는 말에 현혹돼 투자하는 경우 사기 등 범죄일 가능성이 크니 반드시 투자처를 확인하는 등 꼼꼼한 검토를 거쳐 건전하게 투자해야 한다”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>변우석 ‘소나기’ 美 빌보드도 뚫었다…글로벌 200 차트 진입</title>
-      <link>https://www.chosun.com/national/people/2024/06/05/QPL2LFK7ABFDXMWGCPHWBB5UWY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/05/QPL2LFK7ABFDXMWGCPHWBB5UWY/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Jun 2024 12:46:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NWXXTMC5TVLSVBSVYIDU7CQR4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;tvN '선재 업고 튀어'/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;드라마 ‘선재 업고 튀어’에서 배우 변우석(33)이 OST(배경음악)로 부른 ‘소나기’가 미국 빌보드 차트에 진입했다.&lt;br&gt;&lt;br&gt;4일(현지시각) 빌보드가 공식 홈페이지를 통해 발표한 최신 차트(6월 8일 자)에 따르면 ‘소나기’는 빌보드 글로벌 차트인 ‘글로벌200′에서 199위를 차지했다. 이 차트는 미국 현지 라디오 방송 점수 등을 포함하지 않고 전 세계 200개 이상 지역의 스트리밍과 음원 판매량을 토대로 순위를 정한다.&lt;br&gt;&lt;br&gt;‘선재 업고 튀어’는 아이돌 그룹 ‘이클립스’의 멤버 류선재(변우석)가 갑작스러운 죽음을 맞이한 뒤, 이를 바꾸기 위해 임솔(김혜윤)이 시간 여행을 하며 전개되는 이야기를 그렸다. 소나기는 극중 류선재가 첫사랑 임솔을 생각하며 쓴 자작곡이다. 이 노래는 국내 주요 음원 사이트 멜론 톱100 차트에서도 상위권에 오르며 화제를 모으기도 했다.&lt;br&gt;&lt;br&gt;이 드라마의 인기는 국내뿐 아니라 해외에서도 뜨겁다. 글로벌 OTT 라쿠텐비키에서 미국을 비롯한 133개 나라에서 주간 시청 1위를 차지했다. 또한 최근 미국 시사주간지 타임은 ‘선재 업고 튀어’에 대해 “현재까지 올해 최고의 K-드라마”라며 극찬하기도 했다. 타임은 지난달 30일 홈페이지를 통해 “‘선재 업고 튀어’가 피날레를 장식하며 올해 최고의 K드라마가 된 방법”이라는 제목의 글을 공개했다. 타임은 “2024년이 절반 남았지만, 앞으로 ‘선재 업고 튀어’로부터 ‘올해 최고작’이라는 타이틀을 훔치려 하는 한국 드라마는 모든 노력을 다해야 한다”고 호평했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>교감 뺨 때린 초등생... 그 부모, 아동학대로 고발당했다</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/05/3XAGS5CEQNFJBMLSCXUA22Q5CY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/05/3XAGS5CEQNFJBMLSCXUA22Q5CY/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Jun 2024 12:09:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SRAP6Y4S6NAKDB7QUE55UPBMWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 전북 전주의 한 초등학교에서 3학년 학생이 무단이탈을 막으려는 교감의 뺨을 때리는 사건이 발생했다. /전북교사노조&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북교육청이 전주의 한 초등학교에서 교감과 교사를 폭행한 초등학생의 부모를 고발했다. 전북교육청은 5일 교감 등에게 폭력을 휘두른 모 초등학교 3학년 A군의 어머니 B씨를 ‘교육적 방임에 의한 아동학대’ 혐의로 경찰에 고발했다고 밝혔다.&lt;br&gt;&lt;br&gt;전북교육청 관계자는 “A군에게 심리 치료 등의 조치가 필요한 상황인데, B씨가 동의를 하지 않아 치료를 할 수 없었다”며 “아동학대가 인정되면 부모 동의 없이도 치료가 가능하다”며 고발 이유를 설명했다. B씨는 그동안 “A군에 대한 치료가 필요하다”는 학교 측의 요구에 응하지 않았다고 한다.&lt;br&gt;&lt;br&gt;현재 도교육청은 A군을 분리조치하고, 또 다른 피해가 발생하지 않도록 전담인력도 배치했다. 피해 교원들의 피해회복을 위한 교권보호위원회를 개최할 예정이다.&lt;br&gt;&lt;br&gt;앞서 지난 3일 오전 전주의 한 초등학교에서 A군이 무단 조퇴를 하려 하자 이를 제지하는 과정에서 교사들이 폭행당했다.&lt;br&gt;&lt;br&gt;당시 촬영된 영상을 보면, A군은 담임교사 자리에 놓인 전화기를 통해 “데리러 오세요”라고 말한다. 부모에게 통화한 것으로 보인다.&lt;br&gt;&lt;br&gt;담임교사는 “네가 친구들한테 욕하고 선생님 때렸잖아”라고 말했고, A군의 두 팔을 잡고 아이를 제지하려고 했다. 그러나 A군은 “이거 놓으세요”라며 팔을 빼고는 자신을 촬영하던 카메라를 쳤다.&lt;br&gt;&lt;br&gt;이후 교감이 복도에서 A군의 무단 조퇴를 제지했다. 그러자 A군은 교감의 뺨을 때려. A군은 “그래 뺨 때렸다”라고 말한 후 뒷짐을 진 교감을 향해 “개XX야, 개XX야”를 반복하며 뺨을 다섯 차례 더 때렸다.&lt;br&gt;&lt;br&gt;이후 A군은 학교를 빠져나가 집으로 갔고, 잠시 뒤 A군의 어머니가 학교로 찾아와 담임교사를 폭행했다고 한다. 현재 담임교사는 A군의 어머니를 경찰에 고소한 상태다. 학교 측은 지난 4일 학교생활교육위원회를 열고 A군에 대해 출석정지 10일을 결정했다. 현재 A군은 학교에 나오지 않고 있다.&lt;br&gt;&lt;br&gt;전북교육청에 따르면 A군은 지난달 14일 이 학교로 강제 전학을 왔다. A군은 전에 다녔던 학교에서도 학생과 교사를 폭행해 강제 전학을 당한 것으로 알려졌다. A군은 강제 전학을 와서도 문제 행동을 이어갔다. 전학을 오자마자 학생들을 괴롭히고 교사들에게 폭력을 휘둘렀다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>벌초 갔다가 취한 채 지하철서 낫 휘두른 80대 男 체포</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/05/HV4YYQDLTFA3LILPYM6Y3TN5UA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/05/HV4YYQDLTFA3LILPYM6Y3TN5UA/</guid>
-      <dc:creator>김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Jun 2024 12:11:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3D5NYU4XYVYP2H6K6XKT5FRMAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지하철 1호선 종각역에서 낫을 든 채 난동을 부린 80대 남성이 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;서울 종로경찰서는 5일 오후 6시 3분쯤 종각역을 지나는 광운대행 지하철 1호선 열차 내에서 흉기 난동을 부린 80대 A씨를 현행범으로 체포했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 벌초를 다녀오는 길에 술에 취한 상태로 지하철에 탑승한 뒤 소지하고 있던 작은 낫을 꺼내 난동을 부린 것을 조사됐다. 서울교통공사 관계자는 “신고를 받고 종각역에서 대기하고 있던 역무원들이 A씨로부터 흉기를 압수했다“고 밝혔다. &lt;br&gt;&lt;br&gt;A씨가 난동을 부린 지 약 5분 만에 현장에 도착한 경찰이 A씨를 체포하면서 인명피해는 발생하지 않았다고 한다. 이 사고로 해당 열차는 약 5분간 정차한 뒤 이날 오후 6시 8분쯤 운행을 재개했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨에 대해 구체적인 범행 경위 등을 조사할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>퇴근길 지하철서 ‘낫’ 꺼낸 80대…경찰에 붙잡혀</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/05/3HAXX7ESDJG63NQUHU5X76V7K4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/05/3HAXX7ESDJG63NQUHU5X76V7K4/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Jun 2024 12:09:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JBHQYVL2SPRSSV362HH6Y4O2WE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 지하철에 출근하는 시민들로 붐비고 있다.기사와 관련 없음./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;퇴근길 지하철에서 낫을 꺼내든 80대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;5일 뉴스1과 경찰 등에 따르면 서울 종로경찰서는 이날 오후 6시쯤 종각역 인근을 지나는 지하철 1호선 열차 안에서 흉기를 꺼낸 A 씨를 특수협박 혐의로 체포했다.&lt;br&gt;&lt;br&gt;A씨는 벌초를 다녀온 후 술을 마시고 열차 안에서 낫을 꺼내든 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 현재까지 피해사항이 없는 것으로 보고 자세한 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이선균 수사 정보 언론사에 유출 검찰 수사관 영장 기각</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/05/6IKIIQWMCBANRKN4MQNURHG5OM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/05/6IKIIQWMCBANRKN4MQNURHG5OM/</guid>
-      <dc:creator>김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Jun 2024 11:48:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MBH47VQR656IGKECGYRX63WEEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고 이선균 배우./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마약 투약 혐의로 수사를 받다가 극단적 선택을 한 배우 이선균(48)씨가 경찰의 수사를 받고 있다는 내용을 처음 언론에 유출한 혐의를 받고 있는 검찰 수사관에게 청구된 구속영장이 기각됐다.&lt;br&gt;&lt;br&gt;수원지법 손철 영장전담 부장판사는 5일 공무상 비밀누설 혐의를 받는 인천지검 소속 수사관 A씨에 대한 사전구속영장을 기각했다.&lt;br&gt;&lt;br&gt;손 부장판사는 이날 A씨에 대한 구속 전 피의자 심문(영장실질심사)을 진행한 뒤 “피의자가 혐의 사실을 대체로 인정하고, 도주 우려 및 증거인멸의 우려가 없다”며 “중요 증거도 충실히 수집됐다”고 기각 사유를 밝혔다.&lt;br&gt;&lt;br&gt;앞서 경기남부경찰청 반부패·경제범죄수사대는 공무상 비밀 누설 혐의로 A씨에 대해 지난달 30일 사전 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;A씨는 이선균씨가 마약 투약 혐의로 인천경찰청 마약범죄수사계의 수사를 받고 있다는 내용의 정보를 알고 지내던 경기지역 언론사인 경기신문 기자에게 알려준 혐의를 받고 있다. 경기신문은 작년 10월 19일 ‘톱스타 L씨, 마약 혐의로 내사 중’이라는 제목의 기사로 이 사건을 단독 보도했다.&lt;br&gt;&lt;br&gt;이씨는 경기신문 보도보다 앞선 지난해 10월 14일 경찰에 형사 입건됐으며, 이후 세 차례에 걸쳐 경찰 소환 조사를 받았다. 그는 3차 소환 조사를 받은 지 나흘 뒤인 지난해 12월 27일 서울 종로구 와룡공원 인근에서 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;이씨가 숨진 이후 그가 경찰 출석을 앞두고 비공개 조사를 요청했으나 받아들여지지 않아 포토라인에 섰던 사실이 알려져 논란이 일었다. 또 문화예술계를 중심으로 수사정보 유출에 대한 진상 규명 요구가 제기되면서 경기남부경찰청이 맡아 수사를 진행하고 있다.&lt;br&gt;&lt;br&gt;경찰은 철저한 보안 유지 속에 수사 진행 중이던 사건의 정보를 유출했다는 점에서 A씨에게 공무상 비밀 누설 혐의 적용이 가능하다고 판단한 것으로 알려졌다. 그러나 일각에서는 수사기관을 상대로 한 언론의 취재 활동이 위축될 수 있다는 지적도 나온다.&lt;br&gt;&lt;br&gt;경기남부경찰청은 이 사건과 관련해 인천경찰청 마약범죄수사계가 작성한 수사진행 보고서를 외부에 유출한 혐의로 인천경찰청 소속 간부급 경찰관 B씨도 입건한 상태이다. 당시 B씨가 유출한 문건에는 이씨의 실명과 신분(피의자), 직업(영화배우) 등이 적시돼 있었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘김만배 허위 인터뷰’ 뉴스타파 대표, 대다수 질문에 묵비권 행사</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/05/OOMAJMC2JBGRDPUKGAQYZJSMVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/05/OOMAJMC2JBGRDPUKGAQYZJSMVM/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Jun 2024 11:39:12 +0000</pubDate>
-      <content:encoded>이른바 ‘대선 개입 여론 조작’ 사건과 관련해 “윤석열 대통령이 수사를 무마해줬다”는 취지의 ‘김만배-신학림’ 허위 인터뷰 보도에 관여한 혐의를 받는 김용진 뉴스타파 대표에 대한 검찰 조사가 출석 8시간여 만에 종료됐다. 김 대표는 이날 대다수의 질문에 진술 거부권을 행사한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UZXUOF7RVBIR5F6YRNTBR7MMV4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김용진 뉴스타파 대표(가운데)가 5일 오전 피의자 신분으로 소환 조사를 받기 위해 서울 서초구 서울중앙지검에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 본지 취재를 종합하면, 김 대표는 이날 오후 6시쯤 피의자 조사를 마치고 서울중앙지검을 떠났다. 앞서 그는 오전 10시쯤 출석해 취재진에게 입장을 밝힌 뒤, 10시10분쯤 조사실로 향했다. 이 사건을 수사하는 서울중앙지검 특별수사팀(팀장 이준동 반부패1부장)은 허위 인터뷰가 보도된 과정 등에 대해 물었으나, 김 대표는 대다수 질문에 진술 거부권을 행사했다고 한다.&lt;br&gt;&lt;br&gt;김 대표는 대선을 3일 앞둔 지난 2022년 3월 6일 ‘윤석열 당시 국민의힘 후보가 2011년 부산저축은행 수사를 무마했다’는 취지의 김만배-신학림 허위 인터뷰 보도에 관여한 혐의를 받는다. 김만배씨는 해당 인터뷰에서 ‘윤석열 대통령이 2011년 부산저축은행 사건의 주임검사이던 시절 대장동 대출 브로커 조우형(천화동인 6호 실소유주)씨의 수사를 무마해줬다’는 취지로 거짓 내용을 말한 것으로 조사됐다. 검찰은 김 대표가 해당 내용이 허위인 점을 알고도 보도를 승인한 것으로 의심하고 있다고 한다.&lt;br&gt;&lt;br&gt;김 대표는 이날 검찰에 출석하며 취재진과 만나 “명백한 보복수사”라며 “비판 언론의 입을 틀어막기 위한 정치적 수사”라고 했다. 그는 “유력한 대선 후보의 문제를 검증하고 비판적으로 보도한 것”이라며 “이 자리(검찰 정문)에 서야 할 사람은 김건희 여사와 ‘채수근 상병 사망’ 사건 책임자”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>10조 짜리 가덕도 신공항 부지 공사, 맡겠다는 건설사 없어 유찰</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/06/05/WACIVT4NNVAOVABP4NCTK6EW3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/06/05/WACIVT4NNVAOVABP4NCTK6EW3Y/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description>가덕도 신공항 건설 부지 조성 공사 입찰이 유찰됐다.</description>
-      <pubDate>Wed, 05 Jun 2024 11:05:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5RRER6CE67HYU6OTTYN2FS2XLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 가덕도신공항 조감도. /국토교통부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가덕도 신공항 건설 부지 조성 공사 입찰이 유찰됐다. 공사비만 10조5300억원으로 공항 건설 부문 중 규모가 가장 큰데, 이를 맡겠다는 건설사가 하나도 없었던 것이다. 유찰이 반복될 경우 2029년 12월 완공 목표에도 차질이 생길 수밖에 없을 거란 우려가 나온다.&lt;br&gt;&lt;br&gt;국토교통부와 조달청은 5일 가덕도 신공항 부지조성공사가 유찰됐다며 국가계약법에 따라 재입찰을 공고할 계획이라고 밝혔다. 업계에선 이날 유찰은 예견된 일이었다는 평가가 나온다. 국토부는 이번 사업을 시공능력평가액 상위 10대 건설사 중 2개사까지만 컨소시엄을 이뤄 공동도급을 허용하도록 제한했다. 업체들은 총공사비가 큰 데다 육지와 바다에 걸쳐 수행하는 공사의 난도가 높고, 공사 기간을 맞추는 것도 만만찮다며 3개사까지 공동 도급이 허용돼야 한다고 주장했다. 그러나 조건이 바뀌지 않으면서 결국 한 곳도 참여하지 않은 것이다.&lt;br&gt;&lt;br&gt;재공고는 오는 7일 실시될 예정이며, 참여를 원하는 업체는 사전심사 신청서 및 공동수급 협약서를 24일까지 제출하면 된다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘캐나다 학력 인정 가능’ 허위 홍보... 미인가 국제학교 이사장 송치</title>
-      <link>https://www.chosun.com/national/incident/2024/06/05/AHL263S6IJBQHNFNDPBJHMRAVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/05/AHL263S6IJBQHNFNDPBJHMRAVM/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Jun 2024 10:24:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z54UH5VJLZEXJEQW5HDFDSR5GQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캐나다 학력을 인정받을 수 있다고 속이고 학생들을 모집해 3억원대 학비를 가로챈 미인가 국제학교 이사장이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;인천 연수경찰서는 사기 혐의로 모 국제학교 이사장 40대 A씨를 불구속 입건해 검찰에 송치했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월부터 지난 1월까지 인천시 연수구 송도국제도시에서 미인가 국제학교를 운영하면서 학부모 16명으로부터 3억6000만원 상당의 학비를 가로챈 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 캐나다 온타리오주 중등학교 졸업 자격 등을 얻어 영미권 대학에 쉽게 진학할 수 있다며 학생을 모집했으나, 경찰 조사 결과 졸업 자격 인정과 관련한 승인을 받은 적이 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 지난 1월 학부모들로부터 A씨가 졸업생 진학에 대해 거짓 정보를 말하는 등 허위 홍보로 부당하게 학생을 모집해 학비를 가로챘다는 고소장을 접수해 관련 내용을 수사해왔다.&lt;br&gt;&lt;br&gt;경찰은 지난달 A씨를 체포해 구속영장을 신청했으나, 법원은 증거인멸의 우려가 없다며 기각했다. 경찰 관계자는 “A씨에 대한 수사를 진행했고, 현재 검찰에 송치한 상태”라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>어도어 “선처는 없다”…뉴진스 향한 악플 고소 예정</title>
-      <link>https://www.chosun.com/national/people/2024/06/05/ZPWS4NMHQJBMPE5G7MJ5XIZOUI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/05/ZPWS4NMHQJBMPE5G7MJ5XIZOUI/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Jun 2024 10:47:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3DPTPSVVM7AVGLEWECYS455TJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 뉴진스. /어도어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 뉴진스 소속사 어도어가 뉴진스 멤버들을 향한 악의적 비방 등에 법적 대응을 예고했다.&lt;br&gt;&lt;br&gt;5일 어도어는 “각종 커뮤니티 사이트들을 지속적으로 모니터링하여 뉴진스 멤버들과 관련한 악성 댓글, 역바이럴, 악의적 비방, 모욕, 허위사실 유포에 의한 명예훼손 등의 행위에 대해 파악해오고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “특히 최근 익명성을 이용하여 뉴진스를 향한 수위 높은 악성 게시글이 증가한 것도 파악하고 있다”며 “이에 민, 형사상의 소송 등 법적 대응을 준비 중에 있으며, 이 과정에서 어떠한 경우에도 선처와 합의는 없음을 알려드린다”고 전했다.&lt;br&gt;&lt;br&gt;또한 “통상적으로 적발하기 어렵다고 하는 익명 커뮤니티 사이트들의 글에 대해서도 모든 수단과 방법을 동원하여 찾아내 법적 조치를 진행할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “팬 여러분의 아낌없는 응원에 늘 감사드리며, 당사는 앞으로도 뉴진스 멤버들의 권익 보호를 위해 노력하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;한편, 뉴진스는 지난달 24일 새 더블 싱글 ‘하우 스위트(How Sweet)’를 발표하고 동명의 타이틀 곡으로 활동 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울교통공사 혈액암 집단 발병… 오세훈 “철저히 원인 규명”</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/05/LBEGMB6WJNDIZBD3EHIGN7G7YA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/05/LBEGMB6WJNDIZBD3EHIGN7G7YA/</guid>
-      <dc:creator>안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Jun 2024 09:37:11 +0000</pubDate>
-      <content:encoded>오세훈 서울시장이 5일 서울교통공사 근로자들의 혈액암 집단 발병에 철저한 원인 규명을 지시했다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “이날 오 시장이 오전 회의를 열고 서울교통공사에 철저히 혈액암 발병과 관련한 원인을 규명할 것을 지시했다”고 전했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NHE47ITXV632JMWCVJA5EWMH6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울교통공사 본사 전경. /김용재 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시 관계자는 이어 “오 시장이 이번 사안을 ‘어떻게 하면 피할 수 있을까’ 같이 방어적으로 접근해서는 안 된다며, 교통공사가 의지를 갖고 원인 규명을 위한 역학 조사 진행과 관련 조직 신설을 지시했다”고 했다.&lt;br&gt;&lt;br&gt;서울교통공사 관계자는 “현재까지 서울교통공사 근로자 8명이 혈액암 진단을 받은 것으로 확인됐고, 이중 2명이 혈액암으로 사망했다”고 전했다.&lt;br&gt;&lt;br&gt;8명 중 6명은 차량기지에서 근무했다. 지축차량기지에서 4명, 군자차량기지와 창동차량기지 각 1명 씩이다. 다른 2명은 기계 사업소에서 근무했다.&lt;br&gt;&lt;br&gt;서울교통공사노동조합은 이들의 혈액암 발병의 이유로 업무 과정에서 다수의 유기용제 사용을 꼽았다. 이들은 차량기지에서 도장 세척 작업을 했는데, 장기간 이 작업을 하면서 각종 유해 화학물질에 노출됐다는 것이다.&lt;br&gt;&lt;br&gt;서울교통공사 관계자는 “과거 차량 도색에 쓰이는 페인트에 ‘벤젠(벤졸)’같은 화학물질이 포함돼있었다”며 “현재는 모두 친환경 성분으로 교체했다”고 설명했다. 산업 현장에서 자주 쓰이는 유기용제 벤젠은 국제암연구소에서 지정한 1급 발암 물질이다.&lt;br&gt;&lt;br&gt;서울교통공사에 따르면 혈액암 진단을 받은 근로자 8명 중 4명이 산업재해 승인을 받았고, 1명은 현재 판정 진행 중이다.&lt;br&gt;&lt;br&gt;산재 승인을 받은 근로자의 질병 판정서에는 ‘도장 세척 작업을 장기간 수행하면서 각종 유해 화학물질에 노출된 것으로 추정돼 업무와 상병 간 상당인과관계가 인정된다’는 내용이 적힌 것으로 알려졌다. 상당인과관계는 특정 사안 사이에 타당하고 합리적인 인과관계 성립이 추정된다는 뜻이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/NHE47ITXV632JMWCVJA5EWMH6E.jpg?width=600&amp;height=400&amp;auth=532f18adc25ffad3e46caa1224654affdc05afdf60ebadf466cba4dcd228bb3a&amp;smart=true" type="image/jpeg" height="400" width="600">
-        <media:description type="plain">서울교통공사 본사 전경. photo 김용재 영상미디어 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">Yang Soo Yeul</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>베트남 며느리 성폭행하려던 80대… 남편은 “신고하면 같이 못 살아”</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/05/DRLIFOFWFRGYDOF4CR55QJ4WZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/05/DRLIFOFWFRGYDOF4CR55QJ4WZ4/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Jun 2024 09:55:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NYT7CHULQPDMBS5T3AX4J556IA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주지방법원 제201호 법정. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;베트남 출신 며느리를 성폭행하려던 80대 남성이 실형을 선고받고 법정 구속됐다. &lt;br&gt;&lt;br&gt;5일 법조계와 뉴스1 등에 따르면, 제주지방법원 제2형사부(재판장 홍은표 부장판사)는 성폭력 범죄의 처벌 등에 관한 특례법 위반(친족관계에 의한 강간) 혐의로 기소된 80대 A씨에게 징역 2년을 선고하고 법정구속했다. 이외에도 재판부는 A씨에게 성폭력 치료 프로그램 40시간 이수, 5년간 아동·청소년 관련기관 및 장애인 복지시설 취업 제한도 명령했다.&lt;br&gt;&lt;br&gt;A씨는 2021년 여름 베트남 출신 며느리 B씨를 성폭행하려다 미수에 그친 혐의를 받는다. 이 과정에서 “땅을 팔아 베트남에 집을 사주겠다” 등 회유를 시도한 것으로 알려졌다.  &lt;br&gt;&lt;br&gt;B씨는 사건 직후에는 아무런 조처를 하지 못했다고 한다. 남편의 “신고하면 더 이상 함께 살지 못한다”는 발언 때문이었다. &lt;br&gt;&lt;br&gt;B씨가 신고를 하게 된 건 작년 설 명절을 앞두고 결국 남편의 집을 나오게 되면서다. 당시 ‘음식을 제대로 하지 못한다’는 이유로 남편과 다퉜고, B씨는 남편의 요구로 집을 떠나게 됐다고 한다. 이후 B씨는 지인에게 A씨로부터의 피해 사실을 알린 뒤 경찰에 고소한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;재판부는 A씨 혐의를 유죄로 판단했다. 재판부는 “피해자 진술이 일관적이고 구체적이어서 모순되거나 부자연스러운 부분이 없어 신빙성을 의심할 사정이 없다”며 “범행 후 2년이 지나 고소하게 된 경위도 자연스럽다”고 했다. 그러면서 “범행이 이뤄진 공간에 4살, 5살 손주가 놀고 있었던 점 등 죄질이 불량하고 피해자는 불쾌감과 배신감을 느꼈을 것으로 보이지만 피고인은 (피해자) 스스로 옷을 벗었다는 등 납득할 수 없는 변명으로 범행을 부인하고 있다”고 지적했다. &lt;br&gt;&lt;br&gt;다만 재판부는 “범행이 미수에 그친 점, 피해자도 처벌보다는 사과를 원하는 점 등을 참작했다”고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 법정구속에 앞서 “(며느리에게) 강제로 그렇게 해 본 적이 없다” “며느리가 거짓말을 하는 것” 등 거듭 자신의 혐의를 부인한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘먹사연’은 송영길에게 무엇인가…법정서 성격 둘러싸고 공방</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/05/Q4KN52OOWNAIZOH55JT3TFAUYY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/05/Q4KN52OOWNAIZOH55JT3TFAUYY/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Jun 2024 09:55:25 +0000</pubDate>
-      <content:encoded>더불어민주당 전당 대회를 앞두고 다량의 ‘돈봉투’를 살포한 의혹의 정점으로 지목돼 재판을 받고 있는 송영길(61) 전 민주당 대표(현 소나무당 대표)가 검찰과 자신의 이른바 외곽 조직인 ‘평화와 먹고사는 문제 연구소(먹사연)’의 성격을 둘러싸고 공방을 벌였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54OWDPX3WZN7NENGFNOEP3U6HY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;돈봉투 살포 의혹을 받고 있는 송영길 소나무당 대표가 5일 오전 서울 서초구 서울중앙지방법원에서 열린 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;송 전 대표 측과 검찰은 5일 서울중앙지법 형사21부(재판장 허경무) 심리로 열린 특정범죄 가중처벌 등에 관한 법률위반(뇌물) 등 공판에서 전 먹사연 부소장 강모씨를 증인 신문하며 충돌했다. 송 전 대표는 먹사연이 정당한 싱크탱크라고 주장한 반면 검찰은 먹사연이 사실상 송 전 대표의 자금 수수 창구로 전락했다고 보고 있다.&lt;br&gt;&lt;br&gt;이날 송 전 대표는 강씨를 직접 신문하며 먹사연이 학술 단체였다는 점을 부각시키려는 질문을 했다. 그는 강씨에게 “저와 만나서 먹사연을 제2의 브루킹스 (연구소)처럼 진화시키자 얘기해봤나” “먹사연은 싱크탱크로서 재생에너지, 기후변화, 남북관계 등 여의도 싱크탱크 중 가장 많은 성과를 내지 않았냐”라는 질문을 했고, 강씨는 이에 “네”라고 대답했다. 나아가 “(먹사연은) 정치인과 결합해 실제 정책으로 입안하기 위한 싱크탱크로 봐야하지 않냐”라고 물었고, 강씨는 “그게 본질”이라고 답했다.&lt;br&gt;&lt;br&gt;송 전 대표는 또 “먹사연이 제 국회의원이나 인천시장, 서울시장 선거 등 공직선거에 개입한 적이 없고, 당직 선거와 관련해서는 당원 자격으로 개별적으로 참여했던 것 아니냐”라고 물었고, 강씨는 “네. 그럴 수 있다”고 했다.&lt;br&gt;&lt;br&gt;반면 검찰 측은 먹사연이 사실상 송 전 대표의 하부 조직이었다는 점을 파고들었다. 먹사연은 특정 개인 등을 지지하는 정치활동을 할 수 없는 공익법인으로 설립됐는데도 송 대표가 사적인 외곽 정치조직으로 변질시켜 자금 수수 창구로 활용했다는 것이다.&lt;br&gt;&lt;br&gt;검찰 측이 “먹사연은 피고인(송영길)의 정치적 영향력 미치는 단체이자 외곽조직이 맞느냐”고 묻자, 강씨는 “영향력이 어느 수준인지 모르나 일정하게 작용한다 생각한다. 설립자인데다 먹사연 이사인가 그랬을 것”이라고 했다. 또 “당시 증인이 먹사연 근무할 때 먹사연이 송 전 대표 개인 지원 역할에 치중한 사실이 있느냐”는 질문엔 “일정한 부분 그렇게 갈 수 밖에 없었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HNRNYJE4RFNW7OH2DD6ZZ2REOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송영길 소나무당 대표가 5일 오전 서울중앙지법에서 열린 '더불어민주당 전당대회 돈봉투 살포 의혹' 1심 공판에 출석하며 지지자들과 인사하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 “지금 와서 보면 먹사연이 실질적으로 진행해야 하는 사업을 제대로 안 한 것은 사실인 것 같다”는 강씨의 지난해 9월 조사 때 진술을 그 근거 중 하나로 봤다. 하지만 이날 강씨는 당시 진술이 사실과 다르다고 입장을 바꾸기도 했다. 그는 “장시간 조사에 자포자기하는 심정으로 이렇게 진술한 것인가”라고 송 전 대표 변호인이 묻자 “네”라고 했다.&lt;br&gt;&lt;br&gt;검찰은 또 “증인은 먹사연 부소장이었던 2020년 7월 송 전 대표의 당대표 불출마 선언 글이나 비판 언론보도 반박문을 작성하고, 여론조사 비용도 부담한 적이 있다”고 지적했다.&lt;br&gt;&lt;br&gt;이에 재판부는 “검사의 공소사실을 보면 증인은 의원실에서 월급을 받는 사람이 해야 할 일을 먹사연에서 월급 받으면서 대신했다는 취지”라고 했다.&lt;br&gt;&lt;br&gt;재판부는 이날 증인신문에 대해 “먹사연의 정치활동 여부가 정치자금법 위반 판단의 시발점으로, 강씨는 그 부분을 증언해 주는 증인으로 중요성이 높다”며 “양측의 주장은 개별적으로 피고인을 지지한 것이냐, 아니면 단체의 조직적 성격을 가지고 피고인을 지원한 것이냐의 차이”라고 평가했다.&lt;br&gt;&lt;br&gt;송 전 대표는 2020~2021년 먹사연을 통해 기업인 7명에게 불법 정치자금 및 뇌물 7억6300만원을 수수한 혐의, 2021년 5월 민주당 전당대회를 앞두고 민주당 의원 등에게 줄 6000만원 상당의 돈 봉투를 당시 윤관석 의원에게 전달한 혐의 등으로 재판을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>생후 5개월 아이 솜 베개에 재워 질식사⋅⋅⋅부모, 징역형</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/06/05/Q6KHD7BKLJCVBCTTZL7ETZD3JU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/06/05/Q6KHD7BKLJCVBCTTZL7ETZD3JU/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Jun 2024 09:29:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6KW6QQ7K4RACLFWZPZ35FNZVC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;베개에 눌려 저산소증으로 뇌손상을 입은 생후 5개월 아이를 또다시 방치해 이부자리에서 숨지게 한 부모가 징역형을 선고 받았다.&lt;br&gt;&lt;br&gt;청주지법 형사3단독 김경찬 판사는 아동복지법 위반(유기·방임)·과실치사 등 혐의로 기소된 친모 A(23)씨에게 징역 1년 6개월을 선고하고 친부 B(27)씨에게 징역 1년에 집행유예 2년을 선고했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2021년 8월 29일 충북 진천의 자택에서 당시 생후 3개월이었던 아이가 베개에 코를 박은 채 숨을 쉬지 않는 것을 발견하고 심폐소생술을 실시해 아이를 살렸다. 하지만 아이는 결국 병원에서 저산소성 허혈성 뇌 병변 진단을 받았다.&lt;br&gt;&lt;br&gt;당시 의사는 퇴원하는 아이의 부모인 A씨 부부에게 “아이에게서 눈을 떼지 말고 푹신한 곳에 두지 마라”고 충고했다. 그러나 이들은 같은 해 10월 27일 오전 2시쯤 아이를 또 다시 솜 베개 위에 눕혀 재웠고, 낮 12시 10분이 돼서야 아이가 베개에 얼굴을 묻고 숨져 있는 것을 발견했다.&lt;br&gt;&lt;br&gt;부부는 외에도 필수 예방접종도 하지 않았고, 아이를 생활 쓰레기와 반려견들의 배설물로 가득한 집에서 양육했던 사실이 경찰 조사 결과 드러났다. 특히 아이가 숨지기 전날엔 아이를 홀로 두고 2시간가량 외출도 했던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;A씨는 문구류와 스티커를 판다는 허위 게시글을 올려 73명의 피해자에게 1200여만원을 받아 챙긴 혐의까지 더해져 재판을 받았다.&lt;br&gt;&lt;br&gt;김 판사는 “의사의 충고를 듣고도 부모로서 안전한 수면 환경을 제공하거나 제대로 된 보호와 관찰도 하지 않았다”며 “특히 A씨는 사기죄로 처벌받은 전력이 있음에도 또다시 사기 범죄를 저질렀고, 피해자들의 피해 복구도 이뤄지지 않은 점을 고려해 형을 정했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘밀양 가해자 여친’이라며 헛저격... 마녀사냥된 도넘은 사적제재</title>
       <link>https://www.chosun.com/national/national_general/2024/06/05/DYUZH52325FT5FV2K7UW3Z6TOI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/05/DYUZH52325FT5FV2K7UW3Z6TOI/</guid>
@@ -899,15 +925,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YQ2KJ2ZAPRD4THM6YSNLOO2TQM.png"&gt;&lt;figcaption&gt;&lt;small&gt;가해자의 여자친구로 잘못 지목돼 네티즌의 공격을 당한 밀양의 한 네일숍 사장이 자신은 이 사건과 무관하다며 법적대응에 나섰다. /네이버 카페&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“저는 밀양 성폭행으로 거론된 사람의 여자친구가 아닙니다.”&lt;br&gt;&lt;br&gt;최근 온라인에서 벌어지고 있는 밀양 여중생 성폭행 사건 가해자에 대한 사적 제재가 마녀사냥으로 변질돼 결국 무고한 피해자를 만들었다. 가해자의 여자친구로 잘못 지목돼 네티즌에게 공격당한 밀양의 한 네일숍 사장이 자신은 무관한 인물이라며 법적 대응에 나섰다.&lt;br&gt;&lt;br&gt;밀양에서 네일숍을 운영 중이라고 밝힌 A씨는 5일 한 맘카페에 글을 올리고 “저는 밀양 성폭행 사건으로 거론된 B씨의 여자친구가 아니다”라며 “지금까지도 계속되는 마녀사냥으로 아무 상관 없는 제 지인이나 영업에 큰 피해가 되고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “어제 진정서를 제출하고 법적 조치를 시작했다”며 “(진정서) 사진을 첨부하는 이유는 상황을 정확히 공개해 제가 아무런 관련 없는 마녀사냥 피해자임을 공개하고자 함이다”라고 했다. 그는 “지금까지 상호를 언급한 유튜브와 댓글 등 정보를 공유한 모든 부분을 빠짐없이 처리하겠다. 모든 자료를 다 모아뒀다”며 “더 이상 마녀사냥으로 주변 분들에게 피해가 없길 바란다”고 호소했다.&lt;br&gt;&lt;br&gt;A씨가 공개한 진정서에 따르면, 유튜브 채널 ‘나락 보관소’에서 밀양 성폭행 사건의 가해자 B씨를 거론한 후 다른 유튜브 채널 운영자가 라이브 방송을 켜고 A씨의 가게에 찾아와 가게 위치를 언급하고 가게 문을 열어보거나 우편함을 뒤지는 행동을 했다. 이 과정에서 A씨의 실명까지 그대로 노출됐다. A씨는 이에 대해 업무 방해 등의 혐의로 경찰에 진정서를 제출했다.&lt;br&gt;&lt;br&gt;앞서 나락 보관소는 지난 3일 영상을 통해 밀양 여중생 성폭행 사건의 가해자로 추정되는 B씨의 신상과 근황을 공개했다. 관련 영상에서 B씨의 여자친구의 존재 여부나 A씨 관련 정보가 직접 언급되지 않았다.&lt;br&gt;&lt;br&gt;그러나 네티즌들 사이에서 밀양에서 네일숍을 운영하는 A씨가 B씨의 여자친구라는 확인되지 않은 주장이 나왔고, 일부 네티즌들은 A씨가 운영하는 네일숍 온라인 리뷰로 몰려가 “여기가 밀양 사건 가해자 여자친구의 네일숍이냐” 등의 악성 댓글을 쏟아냈다.&lt;br&gt;&lt;br&gt;A씨는 온라인에 올린 글을 통해 자신은 해당 사건의 가해자와 관련이 없다고 부인했다. 그러나 네티즌들의 공격에 A씨는 온라인 리뷰창을 닫았고, 손님을 위해 공개해뒀던 휴대전화 번호도 바꾼 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이에 대해 나락 보관소는 5일 오후 유튜브 채널 커뮤니티를 통해 “네일숍 사장님은 B씨의 여자친구가 아니다”라고 밝혔다. 이어 “제가 올린 글로 인해 네일숍 사장님이 공격을 받으셨다”라며 “전후 사정이 어떻든 간에 제가 잘못한 부분에 대해 욕하시면 달게 받겠다. 네일숍 사장님에 대한 공격을 멈춰달라”고 했다.&lt;br&gt;&lt;br&gt;네티즌들은 “애초에 여자친구를 왜 털며, 심지어 진짜 여자친구가 아닌 사람을 왜 공격하나” “이미 다 털어놓고 ‘그만 멈춰’하면 책임이 끝나나” “정의감에 도취된 이들이 아무 데나 들쑤시다가 애꿎은 사람이 봉변당했다” “이런 식으로 관련 없는 사람 마녀사냥 당하는 일 엄청 나올 것” “사적 제재 하면 결국 이렇게 된다는 결말과 교훈” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“논이라도 팔아”… 80대 노모 머리채 질질 끌고 발길질한 아들</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/05/BNA3MVFGZFCK3DCJPBLHF3DGEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/05/BNA3MVFGZFCK3DCJPBLHF3DGEY/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Jun 2024 08:18:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YOTJTRZPDJE3JLJM35T7CXBVB4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“돈을 달라”며 80대 노모의 머리채를 잡아 끌고 폭행한 40대 아들이 항소심에서도 실형을 선고받았다.&lt;br&gt;&lt;br&gt;5일 법조계에 따르면, 광주지법 제2형사부(재판장 김영아)는 존속상해 혐의로 기소돼 1심에서 징역 6개월을 선고받은 A(48)씨에 대한 항소를 기각하고, 원심판결을 유지했다.&lt;br&gt;&lt;br&gt;A씨는 작년 8월 4일 오후 8시14분쯤 전남 장흥군의 자택에서 어머니 B(80대)씨에게 욕설하며 폭행한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 어머니에게 “논이라도 팔아서 돈을 달라”고 말하며 폭행했다. 그는 늙은 모친의 어깨를 발로 차 넘어뜨렸고, 이후 머리채를 잡고 창고까지 끌고 가 시멘트 바닥에 던지며 폭행한 것으로 조사됐다. 이로 인해 그의 모친은 중상을 입고 병원에 이송됐다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피고인이 자기 잘못을 인정하며 반성하는 태도를 보이는 점, 피해자가 피고인의 처벌을 원하지 않는 점, 어머니에게 중상해를 입혀 죄책이 무거운 점 등을 종합적으로 고려한 원심의 형은 정당하다”며 기각 사유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 코로나 백신 접종자, 치매 발병률 23% 높았다</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/06/05/ZU2JFCHKHBA5JGT3QSCLJX3I24/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/05/ZU2JFCHKHBA5JGT3QSCLJX3I24/</guid>
@@ -915,15 +932,6 @@
       <description/>
       <pubDate>Wed, 05 Jun 2024 09:01:14 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WUBUQHFHDZMMYAXABMJFSOOVW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위험군과 65세 이상 고령자를 대상으로 코로나19 백신 무료접종이 시작된 지난해 10월 19일 서울 강서구 부민병원을 찾은 한 어르신이 코로나19 백신을 접종 받고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코로나19 예방을 위해 전 세계적으로 널리 쓰였던 화이자, 모더나의 코로나19 메신저 리보핵산(mRNA) 백신이 치매와 경도 인지 기능 장애 발생 위험을 높일 수 있다는 한국인 대상 연구 결과가 나왔다. 그동안 코로나19 감염 후유증으로 인지 기능이 떨어지는 이른바 브레인 포그(brain fog)가 생길 수 있다는 연구는 있었지만, 백신이 인지 기능을 떨어뜨릴 수 있다는 연구 결과는 처음이어서 그 연관성에 관심이 모이고 있다.&lt;br&gt;&lt;br&gt;노지훈 고려대 의대 의생명과학 신경과 교수, 김민호 이대서울병원 정보화과 교수 등 공동 연구팀은 치매 극복 연구개발 사업단 지원으로 mRNA 백신 접종과 알츠하이머 치매 및 경도 인지 장애(MCI)의 연관성을 조사했다.&lt;br&gt;&lt;br&gt;연구팀은 서울시 거주 65세 이상 55만8017명을 대상으로 mRNA 백신 접종 그룹과 미접종 그룹을 나눈 후 국민건강보험 데이터를 활용해 두 그룹 간 발병률 차이를 분석했다. 그 결과, mRNA 백신 접종자의 경도 인지 장애 발병 위험도가 미접종자에 비해 2.38배 높게 나왔다. 알츠하이머 치매 발생률은 백신 접종자가 23% 더 높았다. 반면 백신 접종과 혈관성 치매·파킨슨병은 연관성이 발견되지 않았다. 이번 연구는 영국 옥스퍼드대가 발간하는 저명 의학 국제저널 QJM 최신호에 실렸다.&lt;br&gt;&lt;br&gt;노지훈 교수는 “백신 접종과 인지 기능 저하 발생 위험 사이에 잠재적 연관성이 있다는 것을 시사한다”며 “백신이 인지 기능과 관련된 신경 변성에 어떻게 영향을 미치는지에 대한 신경의학적 연구와 백신의 신경학적 영향에 대한 지속적인 모니터링이 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>엘베에 갇힌 아이들 구조하며 “나와”... 반말한 소방관에 ‘와글와글’</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/05/YZZWHC7UCZANRMAOCT4HR362PU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/05/YZZWHC7UCZANRMAOCT4HR362PU/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Jun 2024 06:22:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OH2PYYURS5EEVMXCBH5POZHCAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작동이 멈춘 엘리베이터에 갇혀 있던 아이들을 구조한 소방관이 아이들에게 반말로 ‘나와’라고 말한 언행에 대해 네티즌들이 의견이 분분하다. /온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;엘리베이터에 갇혀 있던 아이들을 구조한 소방관이 아이들에게 반말로 ‘나와’라고 말한 언행에 대해 네티즌들이 의견이 분분하다.&lt;br&gt;&lt;br&gt;5일 한 온라인 커뮤니티에는 ‘현재 인스타에서 난리 난 소방관님’이라는 제목으로 영상이 공유됐다. 이 영상은 작동이 멈춘 엘리베이터에 갇혀 있던 아이들이 쪼그려 앉아 구조를 기다리던 중 한 소방관이 엘리베이터 바깥에서 강제로 엘리베이터의 문을 열어주며 “나와”라고 말하는 장면이 담겼다. 아이들이 안도의 한숨을 쉬며 엘리베이터에서 내리고 소방관이 이를 잡아주며 돕는 장면으로 끝난다.&lt;br&gt;&lt;br&gt;이 짧은 영상 속 뜻밖의 장면을 일부 네티즌들이 문제 삼았다. 소방관이 아이들에게 반말을 했다는 점을 짚어 불쾌감을 표시한 것이다. 이들은 “반말은 좀 그렇다” “징계 안 되나. 왜 반말을 하나” “애들이 장난치다가 갇힌 것도 아니고 왜 기분 나쁜 어조로 말을 하나” “구해줘서 고마운 건 고마운 거고 예의는 다른 문제” 등의 의견을 냈다.&lt;br&gt;&lt;br&gt;그러나 소방관을 옹호하는 목소리도 높았다. “소방관이 서비스직도 아니고, 구해주면 고마운 줄 알자” “문이 열렸으니까 나오라고 하지 뭐라고 해야 하나요” “아이들에게 반말했다고 불편하다 말하는 세상이 이상하다” “안전이 최우선인 상황에서 친절한 말투까지 신경 써야 하나” “정작 도움받은 아이들은 소방대원을 존경하고 있을 거다. 내가 갇힌 아이였다면 반말이고 뭐고 ‘살았다’라는 생각밖에 안 들 것 같다” 등의 반응이었다.&lt;br&gt;&lt;br&gt;짧은 영상 속 구조 전후 과정이 생략돼있어 이 장면만으로 함부로 판단해선 안 된다는 의견도 있었다. 구조 과정에서 소방관이 이미 아이들과 소통을 하며 말을 튼 후에 문을 열어 ‘나와’라고 말한 상황으로 이어졌을 수도 있다는 것이다.&lt;br&gt;&lt;br&gt;또 긴급 상황 시에는 명령조로 지시하는 게 바람직하다는 네티즌 의견도 나왔다. 그래야 사람들이 긴급 사항을 빠르게 인지할 수 있으며, 짧고 단호한 말이 직설적이고 명료해서 전달성이 높다는 의견이다.&lt;br&gt;&lt;br&gt;전국공무원노동조합 소방본부 관계자는 조선닷컴에 “일반적으로 소방관들은 현장에서는 존댓말을 쓴다”며 “이 사례의 경우 아이들이 어리다 보니 만약 해당 소방관이 자녀가 있다면 자녀 또래로 편하게 여겨 반말로 얘기했을 수도 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
