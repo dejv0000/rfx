@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 2심서 선임된 변호인에게 소송기록접수통지 안 하고 1심 때 변호인에게만 통지… 대법, '파기환송'</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/198863.jpg" alt="198863.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;경선을 앞두고 선거인 등에 금품을 제공한 혐의로 기소된 지방의원에게 당선무효형을 선고한 원심이 대법원에서 파기됐다. 피고인에 대한 적법한 소송기록접수통지가 이뤄지지 않은 상태에서 사선변호인이 선임되고 국선변호인 선정이 취소된 경우 사선변호인에게도 소송기록접수통지를 해야 한다는 취지로, 원심이 소송 절차를 위반했다는 것이다.&lt;p&gt;   &lt;b&gt;&lt;br /&gt;대법원 형사1부&lt;/b&gt;(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3170"&gt;김선수&lt;/span&gt;&amp;nbsp;대법관)는 공직선거법 위반 혐의로 기소된 이완식 충남도의원에게 벌금 200만 원을 선고한 원심을 파기환송했다(&lt;b&gt;2024도3298&lt;/b&gt;). 공직선거법위반 혐의로 100만 원 이상의 벌금형이 확정되면 당선이 무효가 된다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이 의원은 2022년 6월 실시한 제8회 전국동시지방선거를 앞두고 당내 경선 선거인과 그 배우자에게 식사와 현금 50만 원을 제공하려고 한 혐의로 기소됐다. 당시 이 의원을 지지하던 C 씨를 통해 선거인을 밖으로 불러내 현금을 주머니에 집어넣었으나 곧바로 반환된 것으로 조사됐다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;1심은 2022년 12월 이 의원의 공소장에 있는 주소지로 공소장 부본 등을 송달했다. 이 의원의 1심 변호인인 A 변호사는 이듬해 2월 이 의원을 대리해 자신을 송달영수인으로, 사무실을 송달장소로 기재해 1심 법원에 제출했다. 이후 2023년 9월 1심에서 벌금 200만원의 유죄 판결을 받자 이 의원과 검찰은 항소했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;2심은 2023년 9월 국선변호인 선정 결정을 한 뒤 10월 4일 국선변호인에게 소송기록접수통지서 등을 송달했다. 또 법원은 10월 5일 1심에서 선임됐던 A 변호사의 사무실로 관련 소송기록접수통지서를 송달했다. 이후 이 의원은 B 변호사를 선임하고 10월 10일 선임서를 2심 법원에 제출했다. 2심은 국선변호인 선정을 취소한 뒤 10월 16일 1회 공판기일 소환장을 A 변호사 사무실로 송달하였으나 B 변호사에게는 소송기록접수통지를 하지 않은 채 1~2회 공판기일을 진행한 뒤 변론을 종결하고 3회 공판기일에서 이 의원의 항소를 기각했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;재판부는 "1심 변호인의 사무소는 피고인의 주소·거소·영업소 또는 사무소 등의 송달장소가 아니고, 1심에서 한 송달영수인 신고의 효력은 원심법원에 미치지 않기 때문에 이 의원에게 소송기록접수통지서가 적법하게 송달되었다고 볼 수 없다"며 "이처럼 적법한 소송기록접수통지가 이루어지지 않은 상태에서 사선변호인이 선임되고 국선변호인 선정이 취소되었으므로 원심은 원심에서 선임된 변호인에게도 소송기록접수통지를 해야 하고, 그 통지가 이루어지기 전에는 항소이유서 제출기간이 진행하지 않으므로 그 기간의 경과를 기다리지 않고는 항소사건을 심판할 수 없다"고 판시했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;그러면서 "2심에서 선임된 변호인 B 씨에게도 소송기록접수통지를 해야 하는데, 원심은 이 의원에 대한 적법한 통지가 이루어지지 않은 상태에서 원심에서 선임된 변호인에게도 접수통지를 하지 않은 채 판결을 선고했다"며 "이는 소송절차의 법령위반으로 판결에 영향을 미친 위법이 있다"고 지적했다.&lt;/p&gt;</description>
+			<pubDate>Fri, 07 Jun 2024 03:03:35 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/198863</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198863</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/198863.jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2024년 6월 7일</title>
 			<description>&lt;b&gt;◇ 의원실 세미나&lt;/b&gt;&lt;br /&gt;10:00 민병덕 의원실 등, 자영업 민생입법 간담회(의원회관 제9간담회의실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 소통관 기자회견&lt;/b&gt;&lt;br /&gt;10:00 차규근 의원, [1호 법안 발의 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:40 전용기 의원, [더불어민주당 전국청년위원회, 해병대원 순직사건 국정조사 요구 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 박해철 의원, [해양생태계 보전 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:20 윤종군 의원, [원 구성 촉구를 위한 야5당 초선 국회의원 기자회견]&lt;br /&gt;&lt;br /&gt;15:00 모경종 의원, [인천 북부권 문화예술회관 유치 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
 			<pubDate>Thu, 06 Jun 2024 22:37:41 -0000</pubDate>
@@ -230,16 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198811</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/198811_1(1).jpg</media:thumbnail>
 			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>헌재, 공무원의 직권남용행위 형사처벌 규율하는 형법 조항은 '합헌'</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/745(38).jpg" alt="745.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;공무원이 직권을 남용해 의무없는 일을 하게 하는 경우 형사처벌하도록 하는 형법 조항은 헌법에 어긋나지 않는다는 헌법재판소 결정이 나왔다. 이전에도 헌재는 이 조항이 합헌이라고 결정한 바 있지만, "공무원의 직권남용행위를 행정상 제재가 아닌 형사처벌로 규율하는 것이 책임과 형벌 간의 '비례원칙'에 위반되지 않는다"고 판단한 것은 처음이다.&lt;p&gt;&amp;nbsp;&amp;nbsp;   &lt;p&gt;헌재는 지난 30일  A 씨가 이 같은 내용을 담은 형법 제123조는 위헌이라며 청구한 헌법소원사건(2021헌바55 등)에서 재판관 전원일치 의견으로 합헌 결정했다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;형법 제123조는 '공무원이 직권을 남용하여 사람으로 하여금 의무없는 일을 하게 하거나 사람의 권리행사를 방해한 때에는 5년 이하의 징역, 10년 이하의 자격정지 또는 1천만 원 이하의 벌금에 처한다'고 규정한다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;헌재는 "앞서 2006년 헌재는 제123조 중 '직권을 남용하여 사람으로 하여금 의무없는 일을 하게 하거나' 부분이 죄형법정주의의 명확성원칙에 위반되지 않는다는 결정을 선고한 바 있고(2004헌바46), 이러한 선례는 내용이 동일한 이 사건에도 그대로 적용될 수 있으며 달리 볼 만한 사정변경이나 필요성이 보이지 않는다"고 설명했다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;이어 "공무원이 직권을 남용하여 개인의 자유와 권리를 침해하는 행위는 그 비난이 공무원 개인에 대해서만 그치지 않고 국가작용 전반에 대한 일반 국민의 불신을 초래하여 국가기능의 적정한 행사를 위태롭게 할 가능성이 있으므로 처벌의 필요성이 크다"며 "직권남용행위의 폐해를 고려할 때 이 사건 형법조항의 입법목적인 국가기능의 공정한 행사에 대한 사회 일반의 신뢰 보호와 개인의 자유·권리 보호를 위해 가능한 수단들을 검토해 그 효과를 예측한 결과, 행정상 제재보다 단호한 수단을 선택하는 것이 필요하다고 본 입법자의 판단이 현저히 자의적이라고 보이지 않는다"고 판단했다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;그러면서 "이 사건 형법조항의 법정형은 형의 하한을 두고 있지 않은데, 이에 따라 법관은 제반 사정을 고려하여 형을 선택하고 적절히 양형을 정할 수 있고 행위의 개별성에 맞추어 책임에 부합하는 형벌을 선고하는 것이 가능하므로 이 조항은 책임과 형벌 간의 비례원칙에 위반되지 않는다"고 밝혔다.&lt;/p&gt;   &lt;/p&gt;</description>
-			<pubDate>Tue, 04 Jun 2024 12:33:35 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198761</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198761</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/745(38).jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
