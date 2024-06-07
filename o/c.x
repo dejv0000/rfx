@@ -13,6 +13,87 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>BMW·트럭 정면 충돌… 2명 사망, 1명 심정지</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/06/07/FKUGNLGCWZGVTLXBGB3GTPCGCM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/06/07/FKUGNLGCWZGVTLXBGB3GTPCGCM/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Jun 2024 10:04:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WEHMWP5YDRGRPJMQEYJ5NEOOVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오후 4시 4분쯤 충남 홍성군 광천읍 벽계리 21번 국도에서 BMW 승용차와 마주 오던 1t 트럭이 충돌해 불이 났다. /충남소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 홍성에서 중앙선 침범으로 추정되는 사고가 발생해 2명이 숨지고 1명이 심정지 상태로 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면 7일 오후 4시 4분쯤 충남 홍성군 광천읍 벽계리 21번 국도에서 BMW 승용차와 마주 오던 1t 트럭이 충돌했다.&lt;br&gt;&lt;br&gt;사고 충격으로 불이 나면서 BMW 차량이 모두 불에 탔고, 트럭도 엔진룸과 운전석 일부가 불에 탔다.&lt;br&gt;&lt;br&gt;이 사고로 트럭 운전자 1명과 BMW 동승자 1명이 숨졌다. 30대로 추정되는 BMW 운전자는 심정지 상태로 발견돼 병원으로 옮겨진 상태다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “두 차량의 운전석끼리 충돌했다”면서 “사고 충격이 커 탑승자들이 차량 밖으로 빠져 나오지 못한 상태에서 불이 나 인명 피해가 크게 난 것으로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;경찰은 차량 탑승자들에 대한 신원을 확인하는 한편, 중앙선 침범으로 인한 사고로 보고 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/WEHMWP5YDRGRPJMQEYJ5NEOOVQ.jpg?width=647&amp;height=364&amp;auth=ab6a660ac35342a932882d261d22e9492600ca69d1237a376df8e2f1cafc93e0&amp;smart=true" type="image/jpeg" height="364" width="647">
+        <media:description type="plain">7일 오후 4시 4분쯤 충남 홍성군 광천읍 벽계리 21번 국도에서 BMW 승용차와 마주 오던 1t 트럭이 충돌해 불이 났다. /충남소방본부</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>태국 파타야에서 한국인 살해... 20대 피의자 구속기소</title>
+      <link>https://www.chosun.com/national/regional/2024/06/07/MZV34QFPLNH4PCKXSZ2UHQWQPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/07/MZV34QFPLNH4PCKXSZ2UHQWQPA/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Jun 2024 09:45:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RXL33MQIE4ZRVSM5QKVVIEYL4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;태국 파타야에서 공범들과 한국 관광객을 납치 살해한 뒤 시신을 유기한 혐의를 받는 20대 피의자 A씨가 지난 5월 15일 오후 경남 창원 성산구 창원지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 7일 지난달 국내에서 붙잡힌 ‘태국 파타야 살인사건’의 20대 피의자를 강도살인죄와 시체은닉죄로 구속기소했다.&lt;br&gt;&lt;br&gt;창원지검 태국 파타야 살인사건 전담수사팀(부장 강호준)은 태국 파타야에서 30대 한국인 남성을 살해한 뒤 플라스틱 드럼통에 넣어 호수에 유기한 혐의를 받는 한국인 피의자 3명 중 가장 먼저 붙잡힌 A(24)씨를 구속기소했다고 이날 밝혔다.&lt;br&gt;&lt;br&gt;강도살인죄와 시체은닉죄는 법정 최저형이 무기징역으로 사형까지 선고될 수 있다.&lt;br&gt;&lt;br&gt;A씨는 공범인 B(27)씨, C(39)씨와 함께 관광 목적으로 태국에 입국한 피해자 D(34)씨를 납치해 살해한 후 사체를 유기한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 지난 5월 7일 D씨의 어머니에게 “아들이 마약을 물속에 버려 피해를 입었다. 8일 오전 8시까지 300만바트(약 1억1200만원)를 가져오지 않으면 살해하겠다”는 협박 전화를 걸었고, 신고를 받고 출동한 현지 경찰은 5월11일 파타야의 한 저수지에서 드럼통에 든 D씨의 시신을 발견했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “이 사건은 외국에서 관광객의 금품을 노리고 피해자에게 접근해 살해한 후 시체를 유기한 중대 강력사건”이라며 “도주했거나 타국에 구금 중인 공범들에 대한 검거와 송환을 위해 필요한 절차를 신속하게 밟고 있다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “다수의 참고인 조사와 사건 관계인의 계좌, 결제내역 분석 등 보완 수사를 통해 범행 동기와 경위 등 사안의 진상을 규명했다”며 “공범 검거와 송환 절차를 신속히 진행해 공범 모두 엄정한 처벌을 받도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 A씨는 지난 5월 12일 오후 7시 46분쯤 전북 정읍 거주지에서 경찰에 긴급 체포됐다. B씨는 같은 달 14일 캄보디아에서 붙잡혔다. C씨는 미얀마로 도주한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;지난달 15일 법원 구속 전 영장실질심사에 출석한 A씨는 법원에서 취재 중이던 기자들에 “내가 죽인 게 아니다. 아무것도 몰랐다”며 혐의를 부인했다．&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>밀양 성폭행 가해자 신상 공개 유튜버 피소…명예훼손 혐의</title>
+      <link>https://www.chosun.com/national/regional/2024/06/07/D5A7XGLZJ5GMFODVT4GSEESW5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/07/D5A7XGLZJ5GMFODVT4GSEESW5A/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Jun 2024 09:37:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7264BDXVTYK5S52EFED4W4IBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20년 전 경남 밀양에서 발생한 여중생 집단 성폭행 사건의 가해자와 관련 인물의 신상을 온라인상에 공개한 유튜버가 영상 관련자들에게 명예훼손 혐의로 고소당했다.&lt;br&gt;&lt;br&gt;경남 김해 중부경찰서와 밀양경찰서에 따르면 7일 오후 2시 기준 ‘밀양 성폭행 사건’ 가해자 신상을 공개한 유튜브 영상들과 관련해 명예훼손 혐의로 고소 2건·진정 3건이 접수됐다.&lt;br&gt;&lt;br&gt;고소 2건은 김해 중부경찰서에, 진정 3건은 밀양경찰서에 각각 접수됐다.&lt;br&gt;&lt;br&gt;고소인들은 한 유튜브 채널이 당사자 동의 없이 무단으로 개인 신상을 공개해 명예가 훼손됐다는 취지로 고소장을 냈다. 고소인 중에는 가해자로 지목돼 직장에서 해고된 남성과 가해자 여자친구라고 잘못 알려진 여성 등이 포함한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “유튜브 채널이 당사자들 동의 없이 무단으로 개인 신상을 공개한 것을 두고 고소장 등이 접수된 것은 맞다”며 “아직 본격적인 수사 단계는 아니다”고 말했다.&lt;br&gt;&lt;br&gt;밀양 여중생 집단 성폭행 사건은 지난 2004년 밀양에 살던 한 여중생이 남성 44명에게 성폭행 등을 당한 사건이다. 당시 수사 과정에서 피해자와 별거 상태였던 친부가 합의하면서 경찰이 기소한 44명 중 13명이 공소권 없음으로 풀려나 국민적 공분이 일었다.&lt;br&gt;&lt;br&gt;이번에 고소당한 유튜버의 채널은 이들 가해자 일부의 이름과 얼굴, 직장 등이 구체적으로 담긴 신상 공개 영상을 연이어 올렸다. 신상 공개 영상의 조회수는 합쳐서 370만회를 넘고 응원 댓글도 3만개 넘게 달렸다.&lt;br&gt;&lt;br&gt;가해자 신상을 최초 공개한 유튜브 채널이 수백만 건의 조회수를 올리자, 다른 유튜버들도 가해자들 신상을 공개하고 있다. 이러한 신상 공개 영상은 형법상 명예훼손, 정보통신망법, 개인정보 보호법 위반 등의 혐의로 처벌받을 수도 있어 주의가 필요하다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LS3L7OEJVKZE5XEYIPQF6ZPGZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 밀양시 한 공공기관 홈페이지에 네티즌들이 쓴 글. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 이 사건과 관련해 밀양시청 홈페이지에도 밀양시를 비판하는 글이 잇따라 게재돼 밀양시가 속을 끓이고 있다.&lt;br&gt;&lt;br&gt;페이스북과 인스타그램 등 밀양시 사회관계망서비스(SNS) 게시물에도 ‘이제 밀양에 가지 말아야겠다’라거나 ‘믿고 거르는 도시’라는 등의 댓글이 수백개씩 달렸다.&lt;br&gt;&lt;br&gt;특히 7일 한 유튜브 채널에서 가해자 중 한 명이 밀양시 한 공공기관에 근무한다고 공개하면서 가해자 인사 조처와 관련한 글들이 쏟아졌다.&lt;br&gt;&lt;br&gt;이에 시는 이날 부시장 주재로 회의를 열고 대책 방안을 논의했지만, 뾰족한 수는 없는 실정이다.&lt;br&gt;&lt;br&gt;밀양시 관계자는 “유튜브 채널은 언론이 아니니 언론중재위원회에 문제를 제기할 수 없고 피해는 있지만 피해가 불분명해 고발하기도 애매하다”며 “민원인들 심정은 충분히 이해하지만 시 입장에서도 마땅한 방안이 없으니 답답하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>퇴직 후 재취업 약속받고 태양광 사업 비리 저지른 前 태안군 공무원 구속 기소</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/07/ZOJXSHLBJRBJ7LJC6XMSRMP6LA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/07/ZOJXSHLBJRBJ7LJC6XMSRMP6LA/</guid>
+      <dc:creator>강우석 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Jun 2024 09:36:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JRLNPMYWCSQA5YZM6JE4PWYJPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울북부지검 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;퇴직 후 재취업과 딸의 로펌 연수 등을 약속받고 태양광 발전사업에서 사업자에게 각종 편의를 봐준 전직 공무원이 구속상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울북부지검 국가재정범죄 합동수사단(단장 이일규)은 前 충남 태안군 소속 공무원 A씨를 뇌물수수 등 혐의로 구속기소했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 A씨는 태안군 태양광 발전사업 실무를 총괄하며 사업자 B씨에게 각종 편의를 제공해주는 대가로 퇴직 후 B씨가 운영하는 회사에 취업해 연봉 5500만원 및 차량과 법인카드를 제공 받기로 약속했다.&lt;br&gt;&lt;br&gt;또한 검찰은 A씨가 B씨에게 변호사시험에 합격한 딸의 로펌 연수를 요구하며, 연수기간 로펌에서 지급해야 하는 급여를 B씨가 로펌에 대신 지급한 사실을 확인해 뇌물수수 혐의를 적용했다.&lt;br&gt;&lt;br&gt;A씨는 당시 태안군수와 담당 공무원 등이 자연훼손 등을 이유로 태양광 사업에 반대했음에도 B씨에게 자신의 취업을 먼저 제안하고 부하 공무원에게 태양광 사업을 적극 지원하도록 지시한 것으로 알려졌다. 이 과정에서 B씨와 군수의 만남을 주선하거나 B씨에게 유리한 법령해석을 후배 공무원에게 지시하기도 했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “향후 태안군 태양광 사업 비리와 관련해 엄정하게 수사를 진행할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘ㅆㅂ’...이화영 유죄 선고에 김광민 변호사가 페이스북에 남긴 글자의 뜻은?</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/07/EGZMUFNTVBC55KFXABM5DB25ZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/07/EGZMUFNTVBC55KFXABM5DB25ZE/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Jun 2024 09:36:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YWTMVMYMPXGU5OFELVWKN55J24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사에 대한 1심 선고 공판이 끝난 7일 오후 수원지법 앞에서 김현철 변호사(왼쪽)와 김광민 변호사가 기자회견을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 법원이 이화영 전 경기도 평화부지사의 ‘불법 대북 송금’ 혐의 등에 대한 사실관계를 모두 인정하는 판결을 내리자 이 전 부지사측 변호인들은 “편파적 판단”이라고 반발했다.&lt;br&gt;&lt;br&gt;이날 이 전 부지사의 변호인인 김현철 변호사와 김광민 변호사는 선고공판이 끝난 뒤 수원지법 청사 앞에서 취재진을 만나 “말도 안되는 김성태(전 쌍방울 그룹 회장)의 말을 (재판부가)받아들였다”고 했다.&lt;br&gt;&lt;br&gt;김현철 변호사는 “재판부가 편파적으로 증거를 취사선택했다”며 “재판부가 ‘이화영 때문에 쌍방울이 대북사업을 하게 됐고, 이화영이 쌍방울 대북사업에 영향력을 미쳤다’고 판단했는데 대단히 잘못된 것”이라며 “쌍방울 계열사 나노스는 2018년 4월 남북정상회담으로 주가가 폭등한 경험이 있기 때문에 대북사업을 하겠다는 의도로 이 사건이 시작된 것”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “김성태 쌍방울 전 회장은 주식담보 대출 여력을 높이려는 전략으로 대북사업을 시도했던 것인데, 재판부는 이런 정황을 모두 외면하고 검찰 의견서를 취사선택했다”며 “이화영이 쌍방울 대북사업에 관여했다면 국정원이 이를 놓쳤을 리 없다”고 했다.&lt;br&gt;&lt;br&gt;그는 “브라질 룰라 대통령을 부패 뇌물 사건으로 조작해 구속했던 세르지오 모루 판사가 떠오른다”며 " 굳이 특검 안 하더라도 이 사건 수사 기록에는 검찰이 자신이 주장하는 것과 모순되는 증거가 즐비하다. 다음 항소심에서 평균적인 법관이 판단한다면 (1심) 결과는 바뀔 것”이라고 했다. 항소 여부에 대해선 “형수님(이 전 부지사 아내 백모씨)과 상의해서 준비할 것”이라고 했다. 그는 “너무 긴 시간 동안 고생하는 이화영 선배님께 가슴이 아프다”며 말을 잇지 못하고 눈물을 보이기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UTOMNHZC4FB2TL3MRMRDD4IRJY.png"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사의 변호인인 김광민 변호사가 올린 페이스북 게시글. /김광민 변호사 페이스북 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김광민 변호사도 재판부 판결에 대해 “도저히 받아들일 수 없고, 인정할 수 없다”고 소리쳤다. 그는 “재판부는 ‘쌍방울 정도 되는 규모에서 CEO가 오로지 주가 상승을 위해 무모한 일을 했다고 보기 어렵다’고 했는데 귀를 의심했다”며 “김성태는 정직하고 이화영은 거짓말쟁이라는 전제를 깔고 재판했다. 이 판결은 전제 사실 자체가 잘못됐다. 이 재판이 어떻게 정당하고 정의로운 재판이라고 할수 있겠느냐”고 목소리를 높였다.&lt;br&gt;&lt;br&gt;이 전 부지사 측 지지자들은 변호인의 말 한마디 한마디에 호응하며, “맞습니다” “검찰이 짜고 쳤다” “정치검찰 해체하라”고 소리쳤다.&lt;br&gt;&lt;br&gt;이날 김광민 변호사는 선고 직후 자신의 페이스북에 “ㅆㅂ”이라는 욕설로 추정되는 자음을 게시하기도 했다. 이에 누리꾼들은 “XX(욕설)맞나” “하는 짓거리 보니 한심하다” “죄값을 받으라”는 등의 댓글을 달기도 했다. &lt;br&gt;&lt;br&gt;한편, 쌍방울 그룹의 불법 대북송금에 관여하고, 수억원 대 뇌물을 수수한 혐의를 받는 이 전 부지사는 이날 징역 9년6개월을 선고받았다. 재판부는 쌍방울이 당시 경기도지사였던 더불어민주당 이재명 대표의 방북비 등을 대신 북한에 지급했다고 판단했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>동화사 방장 의현대종사, 국민훈장 무궁화장 수훈</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/07/7CHUJPV4VNAMZDGAXEAWBDF6C4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/07/7CHUJPV4VNAMZDGAXEAWBDF6C4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Jun 2024 08:40:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BB7HFESEIJGPHNSZYFOZIFTXI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의현 스님이 지난 5일 경기 용인포은아트홀에서 개최된 ‘제29회 환경의날 기념식’에서 국민훈장 무궁화장을 받았다. /조계종&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한불교조계종 팔공총림 동화사 방장 임담 의현 대종사가 국민훈장 무궁화장을 수여받았다.&lt;br&gt;&lt;br&gt;의현 스님은 지난 5일 경기 용인포은아트홀에서 개최된 ‘제29회 환경의날 기념식’에서 팔공산 국립공원 지정에 기여한 공로를 인정받아 이 같은 영예를 안았다.&lt;br&gt;&lt;br&gt;조계종 제25대·26대 총무원장을 역임한 의현 스님은 한국불교 미래 요람인 중앙승가대학교 4년제 정규인가, 동국대학교 의과대학 설립 인가, 불교방송국 불교텔레비전 개국, 경승제도 도입, 목동 국제선센터 부지 확보, 조계사 도량 정비 등을 이끌며 한국불교 발전 및 전통문화 창달에 공헌한 공로도 인정받았다.&lt;br&gt;&lt;br&gt;의현 스님은 지난해 팔공총림 동화사 방장으로 추대돼 총림 대중들을 지도하며 팔공산 국립공원 지정에 힘을 보탠 바 있다. 이 같은 노력으로 지난해 5월 동화사를 품은 팔공산은 제23호 국립공원으로 지정됐다.&lt;br&gt;&lt;br&gt;한편 국민훈장은 정치, 경제, 사회, 교육, 학술 분야에 공을 세워 국민의 복지향상과 국가발전에 기여한 사람에게 수여하는 훈장이다. 이 중 무궁화장은 국민훈장 5개 등급 가운데 가장 높은 등급으로, 역대 무궁화장을 수여받은 스님은 자승 스님, 월주 스님, 법장 스님, 정대 스님, 청담 스님 등이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시민 40% “식생활에 만족 못해”</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/07/WBW3BNAYYFBWZDPWJ3HNVWFHB4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/07/WBW3BNAYYFBWZDPWJ3HNVWFHB4/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Jun 2024 08:46:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DTGJPDT7UVPJLASAUD2C7J2MBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오전 서울 한 대형마트에서 시민이 장을 보고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시민의 40%가 식생활에 만족하지 못하고 있는 것으로 나타났다.&lt;br&gt;&lt;br&gt;지난달 31일 서울시가 발표한 2023년 서울시먹거리통계조사에 따르면, 서울시민 중 식생활에 만족한다고 답한 비율은 59.8%에 그쳤다. 2022년 조사보다 25.5%포인트 줄어든 수치다. 보통이라고 답한 비율은 34.5%, 불만족한다고 답한 비율은 5.7%였다.&lt;br&gt;&lt;br&gt;식생활 만족도를 10점 만점으로 환산하면 만족도는 평균 6.52점이다. 2021년 6.95점, 2022년 6.85점으로 계속 내려가는 추세다.&lt;br&gt;&lt;br&gt;식생활 만족도는 연령과 가구 소득과도 연관이 있는 것으로 나타났다. 청년과 중장년은 ‘만족한다’고 답한 비율이 각각 58.9%, 63.8%였지만, 65세 이상 노년은 48.6%만 만족한다고 답했다.&lt;br&gt;&lt;br&gt;가구 소득 월 200만원 미만이라고 답한 응답자는 불과 29.7%만이 식생활에 만족한다고 답했다. 반면 월 700만원 이상이라고 답한 응답자의 77.6%는 식생활에 만족한다고 답했다.&lt;br&gt;&lt;br&gt;이 조사는 서울시의 물가 인식도 조사했다. 응답자 91.7%가 서울시의 체감 물가가 올랐다고 답했다. 이에 따른 식품비 부담은 전체의 86.7%가 식품비가 부담이 된다고 했다. 2022년 81.7%보다 5%포인트 오른 것이다. 가구 소득 200만원 미만 가구의 94.5%가 부담이 된다고 답했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VLSAVODJXNICBPM23P5PCV2DCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 15일 오전 서울 한 편의점에서 직원이 도시락을 정리하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양적·질적으로 충분한 식생활 상태를 나타내는 ‘먹거리 안정성’은 61.2%로 2021년 77.6%, 2022년 74.5%보다 하락했다. 물가 인상으로 인한 식품비 부담 상승, 조리 시간 부족 등이 이유로 꼽혔다.&lt;br&gt;&lt;br&gt;서울시는 이번 조사 결과에 대해 “노인과 저소득층 등 먹거리 취약계층을 위해 편의점 등에서 신선한 채소와 과일 등의 식품을 판매할 필요가 있다”고 분석했다.&lt;br&gt;&lt;br&gt;한편 이 조사는 지난해 9월 8일부터 10월 13일까지 서울시 거주 가구 내 만 18세 이상 가구원을 대상으로 실시했다. 총 조사 대상은 2050가구 3594명 가구원이다. 표본 오차는 가구의 경우 95% 신뢰 수준에서 최대 ±2.16%포인트, 가구원은 95% 신뢰 수준에서 최대 ±1.63%포인트다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/DTGJPDT7UVPJLASAUD2C7J2MBA.jpg?width=2196&amp;height=1542&amp;auth=109d5fe0d159707dcd6f79f70870233c55f8b0d75669a4e42004c0af5ae9eb2d&amp;smart=true" type="image/jpeg" height="1542" width="2196">
+        <media:description type="plain">[서울=뉴시스] 추상철 기자 = 5일 오전 서울 한 대형마트에서 시민이 장을 보고 있다. 
+
+지난달 소비자물가 상승률은 전년 대비 2.7%를 기록하면서 두 달 연속 2%대를 이어갔다. 사과(80.4%)와 배(126.3%)가 높은 상승률을 유지했다. 2024.06.05. scchoo@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">scchoo</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“가족은 건들지 말라” 황재균 아내 지연에 쏟아진 악플, 무슨 일?</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/07/NLOWHYC4O5BBDLAMK432QKIDJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/07/NLOWHYC4O5BBDLAMK432QKIDJU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Jun 2024 08:31:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OUH4NSXTRRHU5EIWAO627JJVRU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지연과 황재균 선수. /지연 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프로야구 KT위즈 황재균 선수(37)가 한화와의 경기 종료 후 벤치 클리어링(양팀 선수들이 그라운드로 뛰쳐나와 몸싸움을 벌이는 것)을 일으킨 것과 관련 아내인 그룹 티아라 출신 지연(본명 박지연‧31)이 악플 세례에 시달리고 있다.&lt;br&gt;&lt;br&gt;지난 5일 황재균 선수는 한화와의 경기가 종료된 이후 “야! 너 이리 와봐”라며 한화 투수 박상원(30)을 향해 소리치며 다가갔다. 이 과정에서 벤치 클리어링이 발생했다.&lt;br&gt;&lt;br&gt;이날 한화가 12-2로 크게 앞선 상황에서 올라온 박상원 선수가 두산 선두 타자 김상수 선수를 헛스윙 삼진으로 처리한 뒤 오른발을 높게 들어 올리며 기뻐한 것이 문제였다. 박상원 선수는 다음 타자 멜 로하스 주니어 역시 헛스윙 삼진으로 처리한 뒤 글러브로 박수를 치며 포효했다.&lt;br&gt;&lt;br&gt;한화 팬들로 추정되는 네티즌들은 황재균 선수가 박상원 선수를 위협한 것과 관련 아내 지연의 소셜미디어 등에 찾아가 악플을 달았다. 황재균 선수의 소셜미디어는 현재 비공개 상태다.&lt;br&gt;&lt;br&gt;네티즌들은 “남편 관리 잘해라” “황재균은 야구 때려치우고 격투기나 해라” “삼진 세리머니가 죄인가?” “황재균 왜 경기 다 끝나고 꼰대짓 하나?” “남편분 인성이 왜 그러나?” 등의 댓글을 남기며 지연에 항의했다.&lt;br&gt;&lt;br&gt;반면 “가족을 왜 건드리나?” “가족에게 이러는 건 선을 넘는 행동이다” “지연이 무슨 잘못인가” 등 지연을 옹호하는 네티즌들도 상당수 있었다.&lt;br&gt;&lt;br&gt;한편 야구에선 점수 차가 큰데 도루를 하거나 번트를 대는 작전은 비(非)매너로 간주한다. 세리머니도 비슷한 맥락이다.&lt;br&gt;&lt;br&gt;때문에 한화는 지난 6일 경기 전 정경배 수석코치와 박상원 선수가 KT 라커룸을 찾아가 황재균 선수와 장성우 선수에게 사과했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>이화영 1심 징역 9년6월...“쌍방울 대북송금, 이재명 방북 사례금”</title>
       <link>https://www.chosun.com/national/court_law/2024/06/07/22U3RMS55BBDFCRUWEGQV2R72Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/07/22U3RMS55BBDFCRUWEGQV2R72Y/</guid>
@@ -849,15 +930,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VGYHVLNNCBGVJOAR7VDGWR6VKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충주경찰서 전경/충주경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;출산한 아이를 방치해 숨지게 한 20대 여성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;충북 충주경찰서는 갓 출산한 아이를 방치해 숨지게 한 혐의(영야유기치사)로 20대 여성 A씨를 입건해 조사하고 있다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 5일 오전 자신의 방에서 남자 아이를 출산한 뒤 아무런 조처를 하지 않고 방치해 숨지게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;미혼인 A씨는 가족에게조차 임신 사실을 숨겨오다가 홀로 집에서 출산했고, 곧장 지인에게 전화를 걸어 “아이를 낳았는데 죽었다”고 털어놓은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;지인의 신고로 경찰과 119구급대가 현장에 출동했지만, 아이는 탯줄이 붙은 채로 이미 숨져 있었다.&lt;br&gt;&lt;br&gt;경찰은 숨진 영아 시신의 부검을 의뢰하고, A씨를 상대로 정확한 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>삼성서울병원, 암·호흡기분야 ‘아태지역 최고병원’ 선정</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/06/06/6IDO4ZGLPBF6HE2W7UO3S5VDOQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/06/6IDO4ZGLPBF6HE2W7UO3S5VDOQ/</guid>
-      <dc:creator>안준용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Jun 2024 04:19:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ANXYNTWK2I5TKGO4Q7GC5TDWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;삼성서울병원 전경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성서울병원이 아시아태평양 지역 암·호흡기 분야 최고 병원에 선정됐다.&lt;br&gt;&lt;br&gt;5일(현지 시각) 미 시사주간지 뉴스위크의 ‘2024 아시아·태평양 베스트 전문병원’ 발표에 따르면, 심장·내분비·암·소아·호흡기 등 총 9개 분야 가운데 삼성서울병원은 암 분야와 호흡기 분야 1위에 올랐다.&lt;br&gt;&lt;br&gt;이번 발표는 뉴스위크가 독일 글로벌 마케팅 전문 조사업체인 ‘스타티스타’에 의뢰해 한국, 일본, 호주, 인도, 인도네시아, 말레이시아, 싱가포르, 대만, 태국 등 아시아태평양 지역 9개국 의료진 8000여명을 설문 조사한 결과다.&lt;br&gt;&lt;br&gt;종합순위에선 일본 도쿄대병원, 일본 국립순환기질환연구센터, 서울아산병원이 1~3위에 올랐다. 하지만 암 분야에선 삼성서울병원과 서울아산병원이 1, 2위에 올랐고, 일본 국립암센터, 호주 피터 맥칼럼 암센터, 서울대병원 등이 뒤를 이었다. 호흡기 분야는 삼성서울병원, 서울아산병원에 이어 도쿄대병원, 서울대병원, 세브란스병원이 3~5위를 차지했다.&lt;br&gt;&lt;br&gt;2008년 당시 단일 건물로는 아시아 최대 규모로 개원한 삼성서울병원 암병원은 뉴스위크의 ‘글로벌 전문병원 평가’에서도 2022~2023년 2년 연속으로 아시아 병원 1위에 선정된 바 있다. 지난해 글로벌 순위는 5위였다.&lt;br&gt;&lt;br&gt;이와 관련해 삼성서울병원은 “CAR T-세포치료센터, 암 정밀치료센터, 양성자치료센터 등 암 분야 최첨단 치료를 이끌고 있다”며 “암 치료에 대한 아웃컴북(Outcome Book)도 발간, 암 치료 성적을 투명하게 공개해 세계적 신뢰를 쌓고 있다”고 했다.&lt;br&gt;&lt;br&gt;삼성서울병원은 지난해 유럽 최고 암병원으로 꼽히는 프랑스 귀스타브 루시(Gustave Roussy)병원, 독일 샤리떼(Charite) 병원과 각각 양해각서(MOU)를 맺기도 했다. 병원 측은 “귀스타브 루시 병원과는 차세대 정밀 의학을 선도하기 위한 공동 심포지엄을 정기 개최하고, 샤리떼 병원과 삼성서울병원 암병원 방사선 종양학과 의료진이 함께 토론하는 ‘썸머스쿨’을 열어 인적 교류를 통한 최신 의료 기술·연구 협력을 도모하고 있다”고 했다.&lt;br&gt;&lt;br&gt;한편 국내 병원 가운데 서울아산병원은 심장내과와 내분비 분야에서 1위, 세브란스병원은 정형외과 1위, 서울대병원은 소아과 1위에 올랐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>강남구 외국인 환자수 역대 최고...진료과목 1위는 ‘피부과’</title>
       <link>https://www.chosun.com/national/national_general/2024/06/06/HH5ODWTYVRFDPLTSNN2GSCS4JY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/06/HH5ODWTYVRFDPLTSNN2GSCS4JY/</guid>
@@ -865,24 +937,6 @@
       <description/>
       <pubDate>Thu, 06 Jun 2024 04:16:17 +0000</pubDate>
       <content:encoded>지난해 서울 강남구를 방문한 외국인 환자 수가 역대 최고치를 기록했다.&lt;br&gt;&lt;br&gt;6일 강남구에 따르면, 지난해 외국인 환자 18만5559명이 강남구에 있는 병·의원에서 진료를 받았다. 서울시를 방문한 외국인 환자가 총 47만3340명인데, 이중 39.2%가 강남구를 찾은 것이다. 강남구는 “역대 최다 실적인데다가, 강남구 목표치인 15만명도 훌쩍 넘는 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5QP4E752TLJYGLGM4X5U3ALNME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 성형외과와 피부과의 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가별로는 일본 환자가 7만1425명(38.5%)으로 가장 많았고, 중국(3만1336명·16.9%)과 미국(2만284명·12%)이 뒤를 이었다. 특히 일본 환자는 2022년 8415명에서 올해 750% 가까이 늘었다. 중국 환자수도 255% 증가했다.&lt;br&gt;&lt;br&gt;절반 가까이가 피부과(48.2%)를 찾았다. 성형외과를 찾은 경우는 22.7%, 내과 10.5%로 집계됐다.&lt;br&gt;&lt;br&gt;강남구 방문 외국인 환자 수는 2019년 13만1808명에 달했으나, 코로나 여파로 2021년 2만3734명으로 급감했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대검, ‘MZ조폭’ 엄정 대응한다… “무관용 원칙 적용”</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/06/XXZXL2GKX5BYBCEEZEQSUZRYAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/06/XXZXL2GKX5BYBCEEZEQSUZRYAQ/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Jun 2024 03:48:28 +0000</pubDate>
-      <content:encoded>작년 8월 서울 강남구 압구정역 인근에서 20대 남성이 고급 외제 승용차인 롤스로이스를 몰다 인도로 돌진해 행인을 치는 사고를 냈다. 이 사고로 행인은 결국 사망했다. 이른바 ‘MZ 조폭’으로 알려진 운전자 신모(29)씨는 당시 마약류에 취한 상태였다. 지난 4일엔 신씨가 불법 도박 사이트의 국내 총판이었던 점도 경찰 수사로 밝혀졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EXR23RI33NN23PUZBMAYCNX2KA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청의 검찰 깃발./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이렇듯 ‘MZ 조폭’의 세력이 커지고 범죄 유형이 다양해지자 대검찰청이 조직폭력 범죄를 무관용 원칙에 따라 엄정히 대응하라고 5일 일선 검찰청에 지시했다. 특히 신종 범행에 대해 구속수사를 원칙으로 하도록 했다. 부산지검 동부지청은 지난달 부산 해운대 도심에서 폭력조직들끼리 집단 난투극을 벌인 사건과 관련해 4명을 구속 송치 받아 수사하고 있다. 수원지검은 지난 4월 수원 ‘남문파’와 ‘역전파’ 조직원들이 집단 난투극을 벌인 사건으로 6명을 구속 기소했다.&lt;br&gt;&lt;br&gt;대검은 6일 “시민들의 안전과 일상을 위협하는 조직폭력 범죄를 뿌리 뽑기 위해 철저하게 수사·구형하고 자금을 박탈하는 등 엄단하라고 지시했다”고 밝혔다. 대검은 폭력·갈취 등 기존에 알려진 범죄 유형뿐 아니라 온라인 도박·불법사채·주식리딩방 사기 등 신종 조직폭력 범행에 대해서도 구속수사를 원칙으로 하라고 지시했다. 또 범행을 저지른 하위 조직원뿐 아니라 배후세력까지 공모공동정범, 범죄단체조직·활동 등의 혐의를 적극 적용하겠다고 했다. 새로운 MZ 조폭 범죄로 이어지지 않도록 불법 범죄수익과 자금원을 끝까지 추적해 박탈하라고도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T2QWAWVYDA24VJY6I7N7MIDD2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;향정신성의약품을 투약한 채 롤스로이스 차량을 몰다 행인을 치어 사망케 한 신모(29)씨./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검은 피의자들이 죄에 상응하는 중한 처벌을 받도록 공판 단계에서 적극적으로 구형한다는 방침도 세웠다. 피해자에게 합의를 강요하거나 회유를 시도할 경우 더 중한 형을 구형하겠다는 것이다. 형량이 적다고 판단될 경우 적극적으로 항소할 계획이라고 한다. 2022년 7월부터 검‧경이 운영해온 수사협의체를 통해 사건 발생 초기부터 강력 대응하라고도 했다.&lt;br&gt;&lt;br&gt;대검은 “소위 ‘MZ 조폭’이라 불리는 20~30대 젊은층이 SNS 등을 통해 조직을 넘나들며 각종 신종 범죄를 저지르고 세를 과시하는 등 사회의 새로운 범죄 세력으로 떠오르고 있다”며 “조직폭력 범죄는 법치국가에서 용납할 수 없는 반사회적 중대범죄이므로 모든 역량을 집결해 이를 뿌리뽑도록 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>美 금융사 국내 영업소로 꾸며 거액 수수료 챙긴 일당 1심서 무더기 징역형</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/06/SDJ7HW2YR5GQ3OPIZPKKLEO6KI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/06/SDJ7HW2YR5GQ3OPIZPKKLEO6KI/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Jun 2024 03:44:08 +0000</pubDate>
-      <content:encoded>미국의 유명 금융그룹 국내 영업소를 설립한 것처럼 속여 무허가 지급보증서를 발급하고 피해자들로부터 수수료 명목으로 15억원을 가로챈 일당이 징역형을 선고 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CIAZWHNIQBHMLASMXH66EZDRPU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 서울중앙지방법원. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 법조계에 따르면 서울중앙지법 형사23부(재판장 오세용)는 보험업법 위반, 특정경제범죄 가중처벌법상 사기 등 혐의로 기소된 주범 이모씨에게 징역 10년을 선고했다. 그리고 대출 브로커 B씨를 비롯한 공범 5명에게도 징역 10개월~4년의 실형을 선고했다.&lt;br&gt;&lt;br&gt;이씨 등은 2018~2022년 금융위원회에서 보증보험허가를 받지 않고도 마치 미국에 본사가 있는 금융기업의 국내 영업소인 것처럼 행세하며 영세·신생 업체와 유사 수신업체에 지급보증서 34장을 발급하고 5억원대의 수수료를 받아 챙긴 혐의를 받는다. 지급보증서는 금융회사가 채권자에게 채무자의 채무 지급을 보증하는 서류다.&lt;br&gt;&lt;br&gt;이들은 또 2019년 1월부터 2021년 2월까지 300만달러(약 41억원)와 2500만유로(약 373억원)를 대출해 주겠다고 속여 피해자들로부터 수수료 명목으로 10억원을 가로챈 혐의도 있다.&lt;br&gt;&lt;br&gt;이들은 거액의 해외자본을 유치한 것처럼 가장하기 위해 온라인 홈페이지에 세계 25위권 은행의 보증증권을 발행하고 있으며 우주항공분야·바이오헬스케어사업 등에 투자하고 있다는 내용을 올렸다. 또 대출 및 지급보증능력을 과시하기 위해 57명의 투자중개 및 자문전문가를 보유하고 있다고 주장했다.&lt;br&gt;&lt;br&gt;재판부는 혐의 대부분을 유죄로 인정하면서 “정상적으로 운영되는 회사인 것과 같은 외관을 형성하고, 위 회사들의 각종 서류들과 관련해 서류 조작·가짜 이메일 발송 등으로 범죄 수단·방법을 사전에 치밀하게 계획하는 등 범행 수법이 극히 불량하다”고 지적했다.&lt;br&gt;&lt;br&gt;이어 “피고인은 자신의 잘못을 전혀 인정하지 않고 그 책임을 공범, 피해자, 국내 금융기관 탓으로 돌리며 납득하기 어려운 변명으로 일관하고 있다. 피고인이 대부분 피해자들로부터 용서 받지 못했고, 이 사건 범행으로 인한 피해 회복도 거의 이뤄지지 못한 것처럼 보이는 점 등 피고인을 엄벌하지 않으면 계속해 유사한 범죄를 저지르고 다른 피해자를 양산할 위험성이 매우 커 보인다”며 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;한편 이씨 등은 이에 불복해 항소장을 제출했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>훔친 번호판 달고 무면허 운전한 불법체류자 도주하다 붙잡혀</title>
@@ -894,45 +948,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BKINFRPDKFABVBJBEWCTW5NCZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;훔친 번호판을 부착한 차량을 무면허로 몰던 30대 불법체류자 등 2명이 경찰에 붙잡혔다. 이들은 경찰의 검문을 불응한 채 달아났다가 경찰의 끈질긴 추격 끝에 긴급 체포됐다.&lt;br&gt;&lt;br&gt;강원 횡성경찰서는 특수절도 등 혐의로 카자흐스탄 국적 불법체류자 A(32)씨와 B(26)씨를 붙잡아 조사 중이라고 6일 밝혔다. A씨는 하루 전인 지난 5일 낮 12시 10분쯤 훔친 번호판을 부착한 그랜저 승용차를 무면허 상태로 운전한 혐의다.&lt;br&gt;&lt;br&gt;A씨가 운전하던 차량에 부착된 번호판은 지난해 9월 24일 충남 홍성군 한 폐차장에 주차해 있던 모닝 승용차의 번호판이었다. 해당 번호판은 도난 신고가 접수돼 수배차량 검색 시스템에 등록돼 있었다. &lt;br&gt;&lt;br&gt;A씨 등은 이날 도난 번호판을 단 차량을 타고 횡성군 둔내IC 인근을 지나다가 방범카메라(CCTV)에 도난 번호판이 인식돼 꼬리를 잡혔다. 이들은 경찰이 검문하자 도망갔다가 40여분 간의 도주 끝에 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;이들은 경찰에서 “정상 번호판인 줄 알았다” “번호판 도난 사실을 모른다”며 혐의 일부를 부인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 조만간 이들 신병을 충남 홍성경찰서로 인계할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>탈북민단체 “김정은 망언 규탄 전단 20만장 북한으로 날려”</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/06/FNFEILLEPFAALPTWIW4LG3F2WE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/06/FNFEILLEPFAALPTWIW4LG3F2WE/</guid>
-      <dc:creator>포천=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Jun 2024 02:00:22 +0000</pubDate>
-      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PTM4BEE36NBRBHTLZAUWHED2AI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 탈북민단체 자유북한운동연합이 6일 새벽 대북전단 20만장 등을 애드벌룬을 이용해 북한으로 날려보냈다고 밝혔다. /자유북한운동연합&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;탈북민 단체인 자유북한운동연합은 6일 0시쯤 경기도 포천에서 북한의 행태를 규탄하는 대북전단 20만장과 K-팝·나훈아·임영웅 노래, 드라마 ‘겨울연가’ 동영상 등을 저장한 USB 5000개, 1달러짜리 지폐 2000장을 대형풍선 10개에 담아 북한으로 날렸다고 밝혔다.&lt;br&gt;&lt;br&gt;이 단체는 지난달 10일에도 전단 30만장과 USB 2000개를 대형풍선 20개에 매달아 북한에 날려 보내는 등 지속적으로 대북전단 살포 활동을 펼쳐왔다.&lt;br&gt;&lt;br&gt;박상학 자유북한운동연합 대표는 ”그간 우리는 사실과 진실, 의약품과 1달러짜리 지폐, 드라마와 트로트를 보냈다”면서 ”지난 며칠간 김정은은 대한민국 전역에 1000개 애드벌룬에 15t의 오물쓰레기를 서울을 비롯한 전국에 무차별 살포하며 5천만 우리 국민에게 최악의 모욕과 수치를 줬다”고 말했다. 그러면서 그는 “김정은이 사과하지 않는 한 ‘자유북한운동연합’은 사랑하는 북한동포들에게 진실의 편지, 자유의 편지인 대북전단을 계속 보낼 것”이라고 했다. 대북 전단 살포 과정에서 경찰 측의 제지 등은 없었다고 자유북한운동연합 박상학 대표는 덧붙였다.&lt;br&gt;&lt;br&gt;대북전단 살포의 원조격으로 지난 2004년부터 활동해온 탈북민단체 북한동포직접돕기운동 측도 활동 재개를 검토 중인 것으로 알려졌다. 이민복 북한동포직접돕기운동 대표는 “바람이 북으로 향하는 시기를 기다리고 있다”고 말했다.&lt;br&gt;&lt;br&gt;이에 앞서 북한은 지난달 26일 대북 전단에 맞대응하겠다며 “수많은 휴지장과 오물짝들이 곧 한국 국경 지역과 중심 지역에 살포될 것”이라고 위협하고 이틀 뒤부터 1000개 가까운 ‘오물풍선’을 남측에 날려 보냈다. 또 GPS 교란 공격도 감행했다.&lt;br&gt;&lt;br&gt;북한이 도발적으로 나오자 우리 정부에서는 이에 맞서 대북 확성기 재개를 검토하는 등 강경대응을 경고했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/ZI35ANJXDBFLZKZIBYY4G7XC4M.jpg?width=1020&amp;height=765&amp;auth=f76381bbf7b9a29b70293d12f789eb859010b5186ee5130e42bc6dcfebd08d35&amp;smart=true" type="image/jpeg" height="765" width="1020">
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>교감 뺨 때린 초3…부모 “아이가 일방적으로 때렸다고 볼 수 없다”</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/06/7VPUPNSQ3RCJTB5QBKGIZ4NZDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/06/7VPUPNSQ3RCJTB5QBKGIZ4NZDA/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Jun 2024 01:52:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FD3DCOULKQ7LTDKR34SRY5FNJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북 전주의 한 초등학생이 무단 조퇴를 제지하는 교감의 뺨을 때리고 욕설을 하는 사건이 벌어졌다. /전북교사노동조합&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 전주의 한 초등학교에서 3학년 학생이 교감을 폭행한 사건과 관련하여 해당 학생의 학부모가 학교 측이 아들에 대해 편견을 갖고 차별한 것이 사건의 원인이었다고 주장했다.&lt;br&gt;&lt;br&gt;6일 전북교사노동조합 등에 따르면, 지난 3일 3학년에 재학 중인 A군은 등교하자마자 스스로 하교를 시도했다. 무단 조퇴를 제지하던 교감에게 A군은 “감옥에나 가라. 개XX야”라고 욕설하며 뺨을 수 차례 때렸다. 교감에게 침을 뱉고, “그래 침 뱉었어”라고 말하거나 팔뚝을 물기도 했다.&lt;br&gt;&lt;br&gt;이에 대해 A군의 어머니는 전날 JTV와의 인터뷰에서 “물론 아이가 어른을 때렸다는 점이 부모로서 참담하다”면서도 “진위를 가릴 가능성이 있다”고 했다. 이어 “저는 ‘아이가 일방적으로 선생님을 때렸다’는 걸 전제로 볼 수 없다고 생각한다”고 했다. A군이 아무런 이유 없이 일방적으로 교사를 폭행한 것이 아니라, 폭력적인 행동을 하기까지에는 별도의 원인이 있었다는 해명이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VCZERGSX4NECHJ4Q6U3JFKTYC4.png"&gt;&lt;figcaption&gt;&lt;small&gt;교감을 폭행한 초등학생의 어머니가 5일 JTV와 인터뷰하고 있다. /JTV&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문제의 사건이 발생한 날, A군은 끝내 학교를 빠져나갔고 A군의 어머니가 학교로 찾아와 담임교사를 폭행했다고 한다. 현재 담임교사는 A군의 어머니를 경찰에 고소한 상태다.&lt;br&gt;&lt;br&gt;지난달 14일 이 학교로 강제 전학을 온 A군은 평소에도 빈번한 지각 및 무단조퇴, 교원을 향한 폭행 및 욕설, 학생들에 대한 폭력 행사 및 욕설 등을 일삼았다고 한다. 이전 학교에서도 비슷한 상황이 발생해 채 3년이 되지 않는 재학 기간 이번이 일곱번째 학교인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이에 학교 측은 A군에게 상담과 심리 치료 등을 지원하려고 했지만 A군의 부모는 거절했다. 오히려 학교 측을 아동학대로 신고하겠다는 뜻을 밝힌 것으로 전해졌다.&lt;br&gt;&lt;br&gt;전주교육지원청은 5일 A군 보호자를 ‘교육적 방임에 의한 아동학대’ 혐의로 경찰에 고발했다. 아동학대 판결 시 보호자 동의가 없어도 A군에 대한 치료가 가능하다.&lt;br&gt;&lt;br&gt;전북특별자치도교육청은 A군을 분리 조치하고, 또 다른 피해가 발생하지 않도록 교사 또는 아동 전문가 2명이 A군의 학습을 별도 지도하기로 했다. 피해 교원에 대한 심리 치료와 치유를 돕기 위한 교권보호위원회를 개최할 예정이다. A군 학급 학생들의 심리 상담도 추진하기로 했다.&lt;br&gt;&lt;br&gt;도내 교육단체들은 위기 학생을 위한 치유 체계 마련을 촉구했다. 전북교사노조는 “학생이 학교를 옮긴다고 하더라도 소위 ‘폭탄 돌리기’가 될 뿐”이라며 “정서적 불안 등으로 치료가 필요한 학생이 치료받고 등교할 수 있는 시스템이 마련돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;전북교총도 “교육 당국이 해당 학생의 치유와 여타 학생의 학습권 보호를 위한 제도를 조속히 마련해야 한다”며 “교원 폭행이 심각한 범죄임을 사회적으로 인식하도록 학부모를 고발하고 엄중히 처벌해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>식당서 술 취해 옷벗고 문신 보이며 영업방해한 조폭, 징역형</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/06/06/CAGDTUECYRDNNFFUQQB6ETBV3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/06/06/CAGDTUECYRDNNFFUQQB6ETBV3E/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Jun 2024 01:57:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OEP23TEMYVH2ZDUPWL7E4R6IAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;식당에서 술주정을 저지당하자 윗옷을 벗어 문신을 드러내며 난동을 부리고 기물을 부순 조직폭력배 일당이 무더기 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;청주지법 형사4단독 강현호 판사는 업무방해·재물손괴·폭력행위처벌법 위반(공동재물손괴) 혐의로 재판에 넘겨진 A(26)씨에게 징역 6개월을 선고했다고 6일 밝혔다. 또 공범 B(26)씨와 C(22)씨에게는 각각 징역 4개월에 집행유예 2년, 징역 6개월에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 1월 30일 오전 4시 35분쯤 충북 음성군 맹동면의 한 음식점에서 상의를 벗어 문신을 보이며 위협감을 주고, 바닥에 침을 뱉고 기물을 부수는 등 1시간 30여분간 난동을 부려 음식점 영업을 방해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 또 손님들이 지나가지 못하도록 식당 화장실 통로를 막거나 아무런 이유 없이 욕설을 퍼부어 음식점에서 쫓아내기도 했다. 그들은 이런 장면을 자랑이라도 하듯 촬영하기도 했다. A씨 등은 큰 소리로 떠들고 욕설을 하며 술을 마시던 자신들을 종업원이 제지하자 이런 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;강 판사는 “아무 이유 없이 타인의 영업장에서 위화감을 조성하며 업무를 방해하는 등 죄질이 좋지 않다”며 “특히 동종 범죄 전력이 있는 A씨는 누범 기간에 또 다시 범행을 저질렀다”며 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>건설사 협박해 금품 뜯은 노조 간부 항소심도 실형</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/06/FD77YI4A5JEARCQFQICFWADCWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/06/FD77YI4A5JEARCQFQICFWADCWA/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Jun 2024 01:54:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RIFG3TNLCBHNFLVN75OUOVHNJE.png"&gt;&lt;figcaption&gt;&lt;small&gt;전주지법 청사 전경. /전주지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아파트 공사 현장을 돌며 시공사를 대상으로 수억원의 금품을 뜯어낸 노동조합 간부들이 항소심에서도 실형을 선고받았다. 이들은 금품 요구를 거절하면 집회·시위 등으로 공사를 방해하겠다고 협박까지 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;전주지법 형사3-2부(재판장 이창섭)는 폭력행위 등 처벌에 관한 법률 위반, 범죄수익은닉의 규제 및 처벌 등에 관한 법률 위반 혐의로 기소된 노조 간부 A(49)씨와 B(58)씨에 대한 항소심에서 징역 1년 6개월을 각각 선고한 원심판결을 유지했다고 6일 밝혔다. 같은 혐의로 기소된 C(44)씨에 대해서도 징역 1년 2개월의 원심판결을 유지했다.&lt;br&gt;&lt;br&gt;이들은 지난 2018∼2022년 아파트 공사 현장을 돌며 시공사 관계자를 협박해 금품을 뜯어낸 혐의 등으로 기소됐다. 이들이 이런 수법으로 빼앗은 금액은 2억7000만원에 달한다.&lt;br&gt;&lt;br&gt;A 씨 등은 “우리 조합원을 채용해달라. 채용할 수 없으면 건설 현장에 투입된 것으로 하고 전임비 명목으로 돈을 달라”고 업체들에 요구한 것으로 조사됐다. 이들은 업체들이 요구에 응하지 않을 경우 “현장 내 안전조치 미준수 사실을 촬영해 신고하겠다”, “집회를 열어 공사를 지연시키겠다” 등의 수법으로 업체들을 협박해 돈을 뜯어낸 것으로 조사됐다. &lt;br&gt;&lt;br&gt;이들은 노조의 지역 본부장과 사무국장, 조직국장 등의 직책을 맡아 조직적으로 범행을 저지른 것으로 파악됐다. &lt;br&gt;&lt;br&gt;1심 재판부는 “실체가 없는 유령노조를 설립한 뒤 사익을 취하기 위해 돈을 뜯어낸 피고인들은 엄벌이 불가피하다”며 각각 실형과 집행유예를 선고했다. 그러나 검사와 피고인들은 양형부당을 이유로 항소했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “유령노조를 설립한 뒤 노조 활동을 빌미로 피해 업체들을 협박해 금품을 갈취했다”며 “이는 건전한 고용관계를 왜곡하고 헌법상 보장된 노조 활동에 대한 불필요한 오해와 불신을 일으키는 범죄로 죄질이 상당히 나쁘다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>인천 목조 상가주택에 큰 불...4시간 만에 꺼져</title>
       <link>https://www.chosun.com/national/incident/2024/06/06/2FDX3EN3O5GC5DUKIOO6I34HDA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/06/2FDX3EN3O5GC5DUKIOO6I34HDA/</guid>
@@ -940,15 +955,6 @@
       <description/>
       <pubDate>Thu, 06 Jun 2024 01:08:45 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BIIXY4G3KZKXDNTSVW7JBKFEME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 오후 9시 59분쯤 인천시 중구 관동의 한 2층짜리 목조 상가주택에서 불이 나 소방당국이 진화작업을 벌이고 있다.(인천소방본부 제공)/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한밤 인천의 한 목조 상가주택에서 큰 불이나 4시간여 만에 꺼졌다.&lt;br&gt;&lt;br&gt;6일 인천소방본부에 따르면 전날 오후 9시 59분쯤 인천시 중구 관동의 한 2층짜리 목조 상가주택에서 화재가 발생했다. 이 불로 1층에 살던 A(65)씨가 온몸에 2~3도의 화상을 입었고, 행인 B(여‧49)씨가 왼쪽 발 부위를 다쳐 인근 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;“상가주택에서 불이 났다”는 119 신고를 받고 출동한 소방 당국은 화재 발생 20여분 만인 오후 10시 23분쯤 큰 불길을 잡았다. 소방 당국은 연소 확대 가능성을 우려해 10시 59분쯤 ‘대응 1단계’를 발령했다. 대응 1단계는 관할 소방 인력과 장비가 모두 투입되는 경보령이다. &lt;br&gt;&lt;br&gt;소방 당국은 펌프차 등 장비 36대와 소방관 등 인력 112명을 투입진화 작업을 벌였다. 6일 오전 0시 42분쯤 경보령을 해제한 소방 당국은 오전 2시 15분쯤 불을 모두 껐다.&lt;br&gt;&lt;br&gt;소방 당국은 정확한 화재 원인과 피해 규모를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>WMO “지구기온 마지노선 2028년까지 깨질 확률 80%”</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/06/06/L33UF7W6MNF4TDUJRWCZFS4HDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/06/06/L33UF7W6MNF4TDUJRWCZFS4HDA/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Jun 2024 00:59:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OOMT6O2Y4P3YEKBER2QDGDGIK4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;북극의 얼음이 녹으면서 사냥을 못해 굶주리는 북극곰이 늘고 있다. 한 북극곰이 고래고기를 입에 물고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지구의 연평균 기온 상승폭의 ‘마지노선’인 섭씨 1.5도를 2028년 안에 넘을 확률이 80%라고 세계기상기구(WMO)가 5일(현지시간) 밝혔다.&lt;br&gt;&lt;br&gt;WMO는 이날 발표한 보고서에서 2024년부터 2028년까지 5년 동안 지구 연평균 표면 기온이 산업화 이전 시기인 1850∼1900년 기준선보다 1.1~1.9도 더 높을 것으로 보인다고 분석했다. 이 기간 연평균 기온 상승폭이 1.5도를 넘어서는 해가 적어도 한 번 나올 확률은 80%로 계산됐다.&lt;br&gt;&lt;br&gt;작년에는 연평균 표면 기온이 산업화 이전 대비 1.45도 높아지면서 사상 최고치를 기록했다. WMO는 2024~2028년 사이에 이 기록이 적어도 한 해 이상 경신될 확률을 86%로 추정했다. 작년보다 더 뜨거운 해가 온다는 것이다.&lt;br&gt;&lt;br&gt;2015년 파리협약에서 각국은 산업화 이전 대비 기온 상승폭을 1.5도 이내로 막자는 데 합의했다. 그러나 파리협약 이후 기온 상승은 오히려 가파르게 오르고 있다. 연평균 기온 상승폭이 1.5도 제한선을 초과할 확률은 2017~2021년 기간엔 20%였지만, 2023~2027년엔 66%, 이번에는 80%대로 올라왔다.&lt;br&gt;&lt;br&gt;작년 6월부터 올해 5월까지 1년간 지구 평균 기온은 산업화 이전 대비 1.63도 높았던 것으로 파악됐다. 12개월 단위 측정으로는 이미 제한선을 깬 사례가 나온 것이다. 다만 코 배럿 WMO 사무차장은 “파리협약의 1.5도 제한선은 수십 년에 걸친 장기적 온난화를 의미하는 것이므로 이번 예측이 국제사회의 목표를 영구적으로 어겼다는 의미는 아니다”라고 했다.&lt;br&gt;&lt;br&gt;WMO는 보고서에서 북극 온난화의 가속화 문제도 다뤘다. 1991년~2020년과 비교할 때 북반구의 겨울철인 11월에서 이듬해 3월 사이의 북극 온난화는 2024~2028년 지구 평균보다 3배 이상 큰 폭으로 진행될 것이라고 예상했다.&lt;br&gt;&lt;br&gt;배럿 WMO 사무차장은 “온실가스 배출을 줄이기 위한 더 큰 노력을 시급하게 기울이지 않으면 수조 달러의 경제적 비용과 수백만 명의 인명 피해, 생물 다양성에 대한 광범위한 피해 등 큰 대가를 치르게 될 것”이라고 우려를 표했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“아내와 형 사이가 이상해요”…부정행위 증거 확보, 변호사의 조언</title>
