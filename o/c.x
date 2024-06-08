@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“이 여자 제정신이냐” 의사 유죄 내린 판사 저격한 의협회장</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/09/N6GNQHYMVZD2ZD3OWK7XTUEP6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/09/N6GNQHYMVZD2ZD3OWK7XTUEP6M/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Jun 2024 22:20:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q55NHTEVXZJAHJNW6N3RW7FFJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임현택 대한의사협회장이 지난달 30일 오후 서울 중구 덕수궁 대한문 앞에서 의사협회 주최로 열린 대한민국 정부 한국 의료 사망선고 촛불집회에 참석해 의료 정상화를 요구하는 연설을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임현택 대한의사협회장이 의사에게 업무상과실치상 혐의를 인정해 유죄를 선고한 판사를 향해 “이 여자 제정신이냐”며 공개 비판했다.&lt;br&gt;&lt;br&gt;임 회장은 8일 자신의 페이스북에 “환자 치료한 의사한테 결과가 나쁘다고 금고 10개월에 집유 2년이요? 창원지법 판사 윤민, 이 여자 제정신입니까?”라고 했다. 또 과거 윤 판사가 언론에 인터뷰했던 사진과 함께 “이 여자와 가족이 병의원에 올 때 병 종류에 무관하게 의사 양심이 아니라 반드시 ‘심평원 심사 규정’에 맞게 치료해 주시기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;임 회장이 비판한 판결은 이것이다. 창원지법 형사3-2부(재판장 윤민)는 최근 업무상과실치상 혐의로 기소된 의사 A(60대)씨에게 금고 10개월에 집행유예 2년을 선고한 원심을 유지했다.&lt;br&gt;&lt;br&gt;A씨는 2021년 1월 경남 거제시에 있는 한 의원에서 근무하던 중 내원한 80대 환자 B씨에게 멕페란 주사액(2㎖)을 투여해 부작용으로 전신쇠약과 발음장애, 파킨슨증 악화 등의 상해를 입힌 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;B씨는 병원을 찾기 1년 전 파킨슨병 진단을 받았고, 영양제 주사를 맞기 위해 해당 병원에 방문했다. 맥페란 주사액은 구역·구토 증상 치료를 위한 의약품이다. 다만 파킨슨병 환자에게 투여 시에는 파킨슨병 증상을 악화시킬 수 있어 투여가 금지되고, 고령자에게는 신중한 투여가 권고된다.&lt;br&gt;&lt;br&gt;1심은 A씨가 환자의 병력에 파킨슨병이 포함되는지 등을 확인해 투여하지 않았어야 할 맥페란 주사액을 투여해 B씨를 다치게 했다며 유죄를 인정했다. A씨와 변호인은 “의사로서 문진 의무를 제대로 이행했으므로 업무상과실이 없다”며 항소했다.&lt;br&gt;&lt;br&gt;하지만 2심 재판부는 “A씨 스스로도 ‘피해자가 파킨슨병을 앓고 있다는 점을 알았다면 멕페란 주사를 처방하지 않았을 것’이라는 취지로 진술하고 있어 피해자의 병력 등을 제대로 확인하지 않은 채 맥페란 주사액을 투여한 건 A씨의 업무상 과실이며 이에 따른 상해도 인정된다”고 판단했다.&lt;br&gt;&lt;br&gt;한편, 임 회장은 제42대 의협 회장 선거에 나가면서 내건 공약으로 작년 11월 20일 시행된 ‘의사면허 취소법 개정안’에 대해 반기를 들겠다고 밝혔다. 기존에는 의료 관련 법령을 위반해 금고형 이상의 형을 선고받았을 때 의사면허가 취소됐지만, 개정안에 따르면 ‘모든 범죄’에 대해 금고형 이상 형을 선고받으면 의사면허가 취소된다.&lt;br&gt;&lt;br&gt;임 회장은 “의사들이 공감할 수 있는 악질 중범죄에 대해서만 국한할 수 있게 (법을) 바꾸겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>하정우 ‘1500만원 그림’ 때문에…법정까지 간 헤어진 연인</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/09/YFSTOLOE4JBIRPHQIJ2JNGVIFU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/09/YFSTOLOE4JBIRPHQIJ2JNGVIFU/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Jun 2024 22:52:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EPB6WPYXJRPSWLTKZHVW3V4GII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;하정우가 그린 작품들. /네스프레소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 하정우의 미술작품을 놓고 헤어진 연인이 법정 다툼을 벌인 사연이 뒤늦게 알려졌다. 결혼을 약속했던 연인이 헤어지면서 1500만원짜리 하정우의 그림을 두고 누가 가져갈지를 놓고 소송까지 벌이게 됐다. &lt;br&gt;&lt;br&gt;9일 법조계에 따르면 창원지법 통영지원 민사1단독 조현락 부장판사는 지난달 8일 남성 이모씨가 여자친구였던 김모씨를 상대로 낸 유체동산인도 청구 소송에서 “김씨는 이씨에게 하정우 그림을 인도하라”고 판결했다. 양측이 항소하지 않아 판결은 그대로 확정됐다. &lt;br&gt;&lt;br&gt;두 사람의 사연은 2016년으로 거슬러 간다. 이씨는 그해 2월 여자친구 김씨에게 1500만원을 빌려 하정우에게 ‘October’ 그림을 구매했다. 이씨는 하정우와 대학 선후배 사이로, 하정우의 작업실을 방문해 직접 그림을 구매했다. &lt;br&gt;&lt;br&gt;이씨는 이 작품을 하정우에게 건네받은 뒤 부모님 집에 두고 있다가 2018년 2월부터는 김씨에게 그림을 맡겼다. 두 사람은 결혼을 약속한 사이였다. &lt;br&gt;&lt;br&gt;문제는 이들 결혼이 없던 일이 되면서 불거졌다. 이씨는 ‘맡겨놨던 하정우 그림을 돌려달라’고 했지만, 김씨는 ‘빌려준 돈부터 갚으라’며 돌려주지 않았다. &lt;br&gt;&lt;br&gt;결국 이씨는 2022년 4월 “그림을 돌려받게 해달라”며 소송을 제기했다. 반면 김씨는 “당시 이씨와 결혼할 예정이었으니 해당 그림의 공유자”라며 “소유자가 이씨라고 하더라며 빌려준 돈에 대한 담보로 그림을 점유할 권리가 있다”고 맞섰다. &lt;br&gt;&lt;br&gt;법원은 그림의 매수자인 이씨가 소유자라고 판단했다. 조 부장판사는 “이 그림을 누가 산 것인지 계약 당사자들 간에 의사가 합치되지 않는 경우에는 그림을 판매한 상대방인 하정우가 ‘누구를 계약 당사자로 이해했을 것인지’를 기준으로 봐야 한다”고 했다. &lt;br&gt;&lt;br&gt;재판부는 이씨가 하정우의 작업실을 방문해 그림을 사겠다고 했고, 하정우에게 그 매매대금을 지급한 것도 이씨라고 했다. 또한 “이씨가 하정우로부터 그림을 인도받아 부모님 집에 보관하고 있었다는 사실을 인정할 수 있다”며 “그림의 매매계약 경위 등을 미뤄 하정우는 계약 당사자를 이씨로 봤을 것이므로 해당 그림의 매수인은 이씨라고 봐야 한다”고 했다. &lt;br&gt;&lt;br&gt;조 부장판사는 “김씨와 이씨가 사귀면서 이씨 부탁으로 해당 그림을 보관하기 시작했을 뿐, 제출된 증거만으로는 그림의 공유자이거나 빌려준 돈에 대한 담보로 그림을 점유해 왔다고 보기 부족하다”고 판결했다. &lt;br&gt;&lt;br&gt;재판부는 김씨가 빌려준 돈 1500만원과 관련해서는 “김씨는 별개의 법률관계로서 이씨에게 그림의 매수 대금을 대여한 자라고 봐야 한다”고 했다. 두 사람 간 채무 관계에 대한 건은 별도의 소송에서 다뤄질 일이며, ‘그림의 소유자’를 다투는 본질과는 무관한 문제라고 판단한 것으로 보인다. &lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>줄줄이 멈춘 인천 1호선, 민원은 0건…13분간 무슨 일이</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/09/PZQGELU3ERCOVC4QFKYWPVTPKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/09/PZQGELU3ERCOVC4QFKYWPVTPKM/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Jun 2024 21:45:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VVHNXIYCBFAIND2G7ERCF3YGSA.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 28일 오후 10시 9분쯤 인천 1호선 동수역을 지나던 지하철 객실 안에서 20대 남성이 갑자기 쓰러졌다. /인천교통공사, SBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지하철에서 갑자기 쓰러진 20대 남성이 시민들의 신속한 대응으로 소중한 생명을 구했다.&lt;br&gt;&lt;br&gt;인천교통공사에 따르면, 지난달 28일 오후 10시 9분쯤 인천 1호선 동수역 객실 안에서 20대 남성 A씨가 쓰러졌다는 신고가 기관실에 접수됐다.&lt;br&gt;&lt;br&gt;기관사는 즉시 공사 종합관제실에 이 사실을 알렸다. 동수역 직원은 바로 구급장비를 갖춰 정차 중인 열차에 출동했다. 그 사이 기관사는 응급환자가 발생했다는 안내방송을 열차에 내보냈다.&lt;br&gt;&lt;br&gt;이후 현장에 도착한 직원이 본 건, 서너 명의 시민들이 이미 응급조치하는 모습이었다. 마치 훈련이 되어있는 것처럼 누군가에게는 ‘신고를 해 달라’고 부탁하고, 누군가에게는 다른 일을 도와달라고 하는 등 일사불란하게 움직이고 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JS6PKAQ2TFG3TB72JVMZY3BG3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 28일 오후 10시 9분쯤 인천 1호선 동수역을 지나던 지하철 객실 안에서 20대 남성이 갑자기 쓰러졌다. /인천교통공사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;침착하게 시민들에게 지시를 내리고 있던 건 마침 해당 지하철에 타고 있던 30대 여성간호사 B씨였다. 그는 응급환자가 발생했다는 안내방송을 듣고 바로 해당 칸으로 옮겨가 쓰러져 있는 A씨에게 심폐소생술(CPR)을 실시했다. 곧이어 도착한 역 직원과 함께 자동제세동기(AED)를 사용해 응급조치를 이어갔다.&lt;br&gt;&lt;br&gt;응급조치 후에도 119구급대가 도착할 때까지 보살핌은 계속됐고, 병원으로 옮겨진 A씨는 생명에 지장이 없는 상태로 전해졌다.&lt;br&gt;&lt;br&gt;응급환자 조치 과정에서 해당 열차는 물론 후속 열차 7편까지 13분쯤 열차 지연이 발생했다. 응급환자가 발생했다는 안내방송을 들은 승객들은 단 한 건의 민원도 제기하지 않았다.&lt;br&gt;&lt;br&gt;인천교통공사는 A씨의 생명을 구하는 데 가장 큰 공을 세우고 홀연히 떠난 간호사 B씨를 찾아 감사패를 전달할 예정이다. 인천교통공사 측은 “수고로움을 아끼지 않고 응급조치를 실시한 의인과 평소 교육받은 대로 행동한 직원들의 노력으로 소중한 생명을 구할 수 있었다”며 “앞으로도 지속적인 교육을 실시하고, 홀연히 떠난 의인을 찾아 감사패를 전달하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>중대장 성별은 문제가 아니다...훈련병 사망의 숨겨진 이유</title>
       <link>https://www.chosun.com/national/2024/06/09/F26LLQF5DRDZZDACMUBTRFFX6Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/06/09/F26LLQF5DRDZZDACMUBTRFFX6Q/</guid>
@@ -915,34 +942,6 @@
       <description/>
       <pubDate>Fri, 07 Jun 2024 00:06:35 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A6HKRBJJE5AWDL6AMABYHUEHZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 택시 기사인 아버지가 승객으로부터 폭행을 당했다며 공개한 사진./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 포항에서 택시 운전을 하던 70대 기사가 승객에게 폭행을 당해 코가 부러졌다는 주장이 제기됐다.&lt;br&gt;&lt;br&gt;지난 6일 한 온라인 커뮤니티에는 “포항 택시 기사 폭행 사건 택시 기사님 아들입니다”라는 제목의 글이 올라왔다.&lt;br&gt;&lt;br&gt;기사의 아들이라고 밝힌 작성자 A씨에 따르면 택시 기사 B씨는 지난달 31일 포항시 북구 항구동에서 한 승객을 태웠는데 이 승객이 B씨 옆자리에 앉으며 반말로 “흥해로 가자”라고 했다. 목적지에 다다르자 승객은 “손님한테 맞아 본 적 있냐”는 질문을 건넸고, B씨는 “그런 적 없다”며 도착했으니 요금을 지불해달라고 말했다고 한다.&lt;br&gt;&lt;br&gt;하지만 승객은 요금을 지불하지 않고 자는 척을 했고, 이런 승객의 행동에 B씨는 목적지에서 차를 움직여 파출소로 향했다. 그런데 갑자기 이 승객이 기어봉 쪽에 있는 돈 가방에 손을 대려고 했고, B씨는 이를 제지했다. 그러자 승객이 돈 가방을 운전석 쪽으로 던지며 운행을 방해했다고 한다.&lt;br&gt;&lt;br&gt;이후 폭행이 시작됐다는 게 A씨의 주장이다. A씨에 따르면 승객은 B씨의 귀를 잡아당겨 비틀고 주먹으로 얼굴을 가격했다. 또한 자동차 키 같은 날카로운 물건을 손에 쥐고 B씨 얼굴을 가격하고, 머리카락도 쥐어뜯는 등 폭행을 이어나갔다고 한다. B씨는 맞으며서도 2차 사고를 막기 위해 운전대를 놓지 않았다.&lt;br&gt;&lt;br&gt;B씨는 가까스로 아무도 없는 길가에 차를 주차한 후 경찰에 신고했다. 경찰이 도착하자 이 승객은 “손가락을 다쳤다”며 쌍방폭행을 주장했다고 한다.&lt;br&gt;&lt;br&gt;A씨가 공개한 사진을 보면 B씨 얼굴은 피범벅으로, 코와 눈가 주변 등에서 피가 흘러내리고 있었다. 또한 B씨가 입고 있던 파란색 셔츠와 베이지 색 바지도 핏자국이 물들어 있었다.&lt;br&gt;&lt;br&gt;A씨는 “아버지가 일방적으로 피해를 입었는데, 이게 어떻게 쌍방 폭행이 되는 사건인지 납득되지 않는다”며 “아버지는 손가락을 공격할 정신도 없었고, 폭행한 사실도 없다”고 했다. 이어 “블랙박스 영상만 보더라도 일방적인 폭행”이었다며 “지난 1일 아버지는 대구에서 봉합수술을 받았고 7일 코 골절 수술도 받을 예정”이라고 전했다.&lt;br&gt;&lt;br&gt;이 승객은 채널A와의 인터뷰에서 술에 취했던 건 맞다고 인정했다. 그는 “일방적으로 내가 (때린 건 아니다). B씨가 목적지를 제대로 가지 않아 실랑이를 벌인 것”이라며 자신도 폭행을 당했다고 주장했다. A씨는 “택시 기사가 자기가 말한 집을 제대로 못 찾아간다고 해서 폭행했다는 게 말이 되나. 아니 그렇다고 해도 사람을 저렇게 피투성이로 만들어도 되는 일인가”라며 분노했다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “진짜 욕 나온다. 아버님 얼마나 충격받으셨을까. 제대로 된 처벌 꼭 받기 바란다” “공론화될 수 있길 바란다” 피가 “거꾸로 솟는다. 힘내셔라” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“용이 승천하는 듯”… 경복궁서 일어난 모래바람의 정체</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/07/MHAEN4XR3VFYHD7SZVKDCSJKTY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/07/MHAEN4XR3VFYHD7SZVKDCSJKTY/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Jun 2024 00:36:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FYME5CLMAFCJNMKQFCNMXNZZM4.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 경복궁에서 목격된 회오리 바람/ @freedive_santa&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 종로구 경복궁에서 용이 승천하는 모양의 회오리 바람이 일어나 온라인에서 화제가 되고 있다.&lt;br&gt;&lt;br&gt;최근 소셜미디어에는 ‘어제 경복궁 용오름’이라는 제목으로 20초분량의 영상이 올라왔다. 해당 영상에는 경복궁 내 흙바닥에서 모래 바람이 일며 회오리가 하늘 높이 솟구치는 모습이 담겼다. 당시 하늘은 구름이 거의 없는 맑은 날씨였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XJMUKLC7TVGGJN42PC4MG7KUVM.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 경복궁에서 목격된 회오리 바람/ @freedive_santa&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경복궁 관람객들도 가던 걸음을 멈추고 신기한듯 이 현상을 바라봤다. 영상 촬영자도 “우와 저게 뭐야. 용오름이다, 용오름”이라고 외쳤다. 이 회오리 기둥은 원을 그리며 수m 가량 이동하더니, 몇 초 뒤 나무와 부딪히면서 힘을 잃고 사라졌다.&lt;br&gt;&lt;br&gt;이 영상은 한 초등학생이 지난 3일 경복궁으로 체험학습을 갔다가 촬영한 것이라고 한다. 네티즌들도 “지금도 신기한데 옛날에는 얼마나 많은 의미부여를 했을까” “진짜 용이 승천하는 것 모습이다” “전우치가 등장했다” “이런 장면은 처음 본다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;다만 영상 속 현상은 주로 해안가에서 관측되는 용오름이 아닌 회오리바람으로 추정된다. 회오리바람은 지면에서 불려 올려진 먼지나 모래알들이 기둥 모양을 하고 선회하는 현상이다. 햇볕에 지면 부근의 공기가 데워지면 공기가 상승 기류를 일으키는데, 이때 흙먼지를 끌어들이면서 거대한 먼지 기둥이 생기는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/EIF5YVR3TFHK3FV6ZVJZC3NC7A.gif?width=600&amp;height=337&amp;auth=b499caa7af28bd5a2fc7b9d12ecc0fe8eec414eb13e5419c28525f9d146c6792&amp;smart=true" type="image/jpeg" height="337" width="600"/>
-    </item>
-    <item>
-      <title>중국산 고사리를 ‘제주산’으로...원산지 표시 위반 업체 적발</title>
-      <link>https://www.chosun.com/national/regional/2024/06/07/SH3D2IHR3JEXBHFIXUDGTVGBXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/07/SH3D2IHR3JEXBHFIXUDGTVGBXA/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Jun 2024 01:25:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6Q6KEEDJHJM3IKBOGWU4X4B7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국립농산물품질관리원 제주지원은 지난달 고사리 원산지 표시 기획 단속을 실시, 5개 업체를 적발했다고 7일 밝혔다. /국립농산물품질관리원 제주지원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주지역 주요 관광지에서 중국산 고사리를 제주산으로 속여 판매한 업체들이 적발됐다.&lt;br&gt;&lt;br&gt;국립농산물품질관리원 제주지원은 지난달 고사리 원산지 표시 기획단속을 벌여 5개 업체를 적발했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;농관원 제주지원은 이 가운데 중국산 고사리를 제주산으로 위장 판매하거나 원산지를 거짓 표시한 4개 업체에 대해 수사를 의뢰했다. 중국산 고사리의 원산지를 표시하지 않고 판매한 1개 업체에는 과태료를 부과했다.&lt;br&gt;&lt;br&gt;서귀포시 소재 한 음식점은 중국산 고사리의 원산지를 표시하지 않고 고객이 물어보면 제주산이라고 위장 판매한 것으로 드러났다. 서귀포시의 또 다른 업체는 포장지 앞면에 ‘제주고사리’라는 표시를 한 뒤 원산지를 별도로 표시하지 않은 중국산 고사리를 판매하다 적발됐다.&lt;br&gt;&lt;br&gt;농관원 제주지원 관계자는 “수입 농축산물에 대한 상시 모니터링을 통해 단속과 관리를 강화할 계획”이라며 “원산지 표시위반이 의심될 경우 신고해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;농관원 제주지원은 올해 들어 지난달까지 농식품 표시사항 위반으로 24건을 적발했다. 주요 위반품목은 배추김치 12건, 고사리 5건, 쌀 4건이다. 위반업소는 음식점이 10건으로 가장 많았고, 농식품 판매업체 7건, 양곡 판매업체 4건, 식품제조업 2건, 축산물 판매업체 1건이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천항 도로에서 차량 3대 충돌하고 바다로 추락, 운전자는 숨져</title>
-      <link>https://www.chosun.com/national/incident/2024/06/07/IHENAOOD2RGLXOG2ZDXYH5TI3I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/07/IHENAOOD2RGLXOG2ZDXYH5TI3I/</guid>
-      <dc:creator>인천=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Jun 2024 01:37:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SMI42QM64MRE3GH4OIYKB7QWKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추돌사고를 일으킨 승용차가 바다로 추락해 운전자가 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;7일 소방당국에 따르면 이날 오전 4시 17분쯤 인천시 중구 항동7가 편도 3차로 도로에서 40대 남성이 운전하던 벤츠 차량이 QM3 차량을 추돌한 뒤 도로 옆 바다로 추락했다.&lt;br&gt;&lt;br&gt;바다에 빠진 벤츠 차량의 운전자는 해경에 구조돼 심정지 상태에서 병원으로 옮겨졌으나 숨졌다. QM3 차량 운전자는 입원 치료를 받고 있지만 생명에는 지장이 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;당시 벤츠 차량은 바다로 추락하기 전 도로변에 주차돼 있던 대형 화물차 2대와도 부딪쳤으나 화물차에는 승객이 없었다. 경찰은 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>술값 시비로 지인 폭행, 선고 공판에도 안 나온 50대 ‘징역 2년’</title>
