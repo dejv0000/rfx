@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“코노인줄 알았는데 VIP룸”… 유흥업소 사장이 지능장애 여중생에 한 짓</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/08/WBARZWK4UJFP3DDMAMUP4OIOCM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/08/WBARZWK4UJFP3DDMAMUP4OIOCM/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Jun 2024 10:43:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SSNK5XW6ZRNONLTRRWND2RMLUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5월 22일 오후 서울 영등포구 여의도한강공원에서 시민들이 그늘에 앉아 있다. 기사 내용과 관련 없음./ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장애가 있는 여중생 2명을 유흥업소로 유인해 성매매를 알선하는 등 범죄를 저지른 업주들이 검찰로 넘겨졌다.&lt;br&gt;&lt;br&gt;8일 연합뉴스에 따르면, 경기 오산경찰서는 전날 아동·청소년의 성보호에 관한 법률상 강간, 아동학대 등 혐의로 40대 A씨 등 2명을 검찰에 구속 송치했다. 또한 실종 신고가 접수된 피해자들을 경찰에 알리지 않고 데리고 있던 A씨의 여자친구 B씨를 실종아동법 위반 혐의로 불구속 송치했다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 4월 18일부터 지난달 5일까지 자신들이 공동으로 운영하는 유흥업소에 C양 등을 데리고 있으면서 직접 성폭행하거나 성매매 등을 시킨 혐의를 받고 있다. C양은 만 13세로 경계선 지능 장애가 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이들은 지난 4월 18일 여의도 한강공원에서 피해 학생들을 만나 “아르바이트 자리를 주겠다”며 유인했다. 이후 학생들을 서울과 오산 소재 유흥업소에 데리고 다니며 성범죄를 저지른 것으로 조사됐다. &lt;br&gt;&lt;br&gt;여학생들은 유흥업소 VIP룸에서 남성 손님들을 접대하고 강제로 성관계한 것으로 전해졌다. C양은 지난 1일 JTBC 인터뷰를 통해 “한강공원에서 만난 A씨가 ‘내가 운영하는 호빠 노래방 같은 게 있는데 가볼래?’라고 했다”며 “코인노래방인 줄 알고 갔는데 VIP룸이 있었다”고 당시 상황을 전했다.&lt;br&gt;&lt;br&gt;이어 C양은 “아가씨가 부족한데 저희보고 아가씨 자리 좀 채워주라고 했다. 남자들 비위 맞춰주고 술 따라주는 일이었다”며 “오산역에서 접대할 때 필요한 옷이랑 화장품 샀다. 50대 형님을 저희보고 대접하라고 했다”고 말했다. 학생들은 이곳에서 술을 마시고 담배를 피웠다고 한다. &lt;br&gt;&lt;br&gt;C양은 또 유흥업소 사장이 “너네 찾아서 죽여버린다” “말 안 들으면 중국에 보내버린다. 거기는 팔다리 잘려와서 죽어도 아무도 안 알려준다” 같은 발언으로 자신을 협박했다고 전했다.&lt;br&gt;&lt;br&gt;경찰 조사에서 A씨 등은 “동의 하에 성관계를 했고 18세 고등학생인 줄 알았다”고 진술했으나, 압수수색 결과 경찰은 이들이 아이들을 중학생으로 인지한 뒤 범행한 사실을  확인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;피해 학생들은 지난달 5일 가까스로 부모와 연락이 닿아 가족에게 인계됐다. 경찰은 수사 끝에 A씨 등을 지난달 30일 긴급체포했다. 경찰은 A씨의 알선으로 피해 학생들에게 성범죄를 저지른 성매수남 및 성범죄에 가담한 유흥업소 직원 등에 대해서도 수사를 확대하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>차출 안된 공중보건의 67% “업무 과중으로 스트레스”</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/06/08/7Q6HCAIVBBC5PMHR3MY7OPMMOA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/08/7Q6HCAIVBBC5PMHR3MY7OPMMOA/</guid>
@@ -949,22 +958,6 @@
       <description/>
       <pubDate>Fri, 07 Jun 2024 02:19:28 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DJT4IYTGCJDRNM7V7C7OGO7IHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공구로 분해된 스마트폰. 해당 사진은 기사와 관련 없음. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전자제품 서비스 기사가 젊은 여성 손님으로부터 수리를 의뢰받은 휴대전화를 무단으로 반출, 집에서 사진첩 등을 장시간 열람한 사건이 벌어지면서, 소비자 우려가 확산하고 있다. 특히 여성들 사이에서는 휴대전화에 저장된 각종 정보에 대한 수리 기사의 접근을 차단하는 ‘수리모드’에 대한 관심이 커지면서, 해당 키워드의 검색량이 폭증했다. 해당 회사는 고강도 대책 마련에 나섰다.&lt;br&gt;&lt;br&gt;최근 S전자 서비스 센터에서는 손님이 수리를 맡긴 휴대전화를 기사가 퇴근길에 들고 나가, 집에서 사진첩을 1시간 넘게 열람한 사건이 있었다고 KBS가 5일 밤 보도했다. 사진첩에는 다이어트 할 때 찍어 놓은 나체 사진 등이 있었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;그러자 소셜미디어 X(옛 트위터)와 더쿠 등 여성 중심 커뮤니티 사이트에서는 휴대전화의 ‘수리모드’에 관한 글이 잇달아 올라오고 있다.&lt;br&gt;&lt;br&gt;‘수리모드’란 기본으로 휴대전화 수리 등 다른 사람이 휴대전화를 사용하는 동안 개인정보를 보호하는 기능이다. 이 기능을 활성화하면 사진과 메시지 등 계정을 포함한 개인 데이터에 접근할 수 없게 된다.&lt;br&gt;&lt;br&gt;네이버 검색에서도 ‘수리모드’에 대한 관심은 나타난다.&lt;br&gt;&lt;br&gt;해당 키워드 검색량(상대값)은 최근 1개월간 0~3을 기록했지만, 첫 보도가 있었던 6월5일 24로 뛰어올랐고, 6일에는 100을 기록했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O5RVK2SC65DFRE2HPFPEWTLW2I.png"&gt;&lt;figcaption&gt;&lt;small&gt;네이버 '수리모드' 검색량 추이./네이버트렌드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여초 커뮤니티 여성시대와 더쿠 등에서는 ‘서비스센터 이용할 때 수리모드로 개인정보 보호’하라며 이 기능에 대한 설명이 잇달아 공유되고 있다.&lt;br&gt;&lt;br&gt;일각에선 서비스센터에서 수리모드 해제를 요구받은 일이 있었다는 불만 글이나, 액정이 깨지면 수리모드 설정 자체가 불가능하다는 불만 글도 올라왔다. “액정 교체할 때 수리모드 하니까 풀어달라던데...풀긴 했는데 찜찜했다” “수리모드 해 놓으면 수리 잘 됐는지 제대로 확인 못 한다고 풀라고 했었다” “두 번 수리 맡기러 갔었는데 그 때마다 수리모드 풀어달라고 했었다” 등이었다.&lt;br&gt;&lt;br&gt;외국 기업이라고 다르지 않다. 6년 전 A사 직영점에서 수리를 맡긴 적이 있다는 한 네티즌은 “수리 맡길 때 찜찜했다. 수리할 때 클라우드 아이디랑 비밀번호가 필요해서 알려줬는데, 나중에 보니까 직원들이 다 모여서 내 휴대전화가 연결된 컴퓨터를 보고 있어서 뭐지 싶었다”며 “나중에 보니 내 사진첩과 연락처 클라우드 연결을 안 했었는데 갑자기 다 연결돼 있어서 당황했었다”며 자신의 경험을 공유하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BOOOZB77ZJL4LL56QXPSNVILIA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해외에서도 비슷한 일이 있었다. 2021년 미국에서는 스마트폰 수리를 맡겼다가 그 안에 든 나체 사진과 성관계 영상 등이 수리 기사에 의해 온라인에 유출된 21세(당시 나이) 여성이 제조회사로부터 수백만달러(수십억원)의 합의금을 받았다. 정확한 합의 금액은 비밀 유지 조항 탓에 밝혀지지 않았으나, 피해 여성 측은 500만 달러(약 55억 5950만원)를 요구한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;S전자 서비스 측은 “이번 사안을 엄중하게 보고 있다”며 “고객이 맡긴 제품의 반출 통제부터 시작해서, 액정이 깨졌을 때 대처 방안 등 다양하고 강도높은 해결 방안 마련에 착수했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 경찰, 민주 이상식 의원 자택 등 압수수색...공직선거법 위반 혐의</title>
-      <link>https://www.chosun.com/national/incident/2024/06/07/KNBQQLMVVRDFPJQWSD7KVPUJMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/07/KNBQQLMVVRDFPJQWSD7KVPUJMY/</guid>
-      <dc:creator>용인=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Jun 2024 02:06:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AB3SGBTRTNI37OLV7VJ6TWNCPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제22대 국회의원선거 용인갑에 출마한 더불어민주당 이상식 후보가 지난 4월 11일 경기 용인시 선거사무소에서 당선이 확실시되자 꽃다발을 받고 밝은 표정을 짓고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 더불어민주당 이상식(경기 용인갑) 국회의원의 공직선거법 위반 혐의에 대한 강제수사에 나선 것으로 확인됐다.&lt;br&gt;&lt;br&gt;7일 경찰에 따르면 경기 용인동부경찰서는 이날 오전부터 이상식 의원의 용인과 서울 자택과 배우자의 갤러리, 선거사무소 등 4곳을 압수수색 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 의원은 22대 국회의원 선거 출마를 위해 재산신고를 하면서 애초 현금 재산을 5억원으로 신고했다가 바로 다음날 3억5000만원으로 수정하는 등의 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “현재 압수수색 중인 상황으로 자세한 내용은 밝힐 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;한편 국민의힘은 지난 3월 공직선거법상 허위사실 유포 혐의로 당시 민주당 이상식 후보를 고발한 바 있다. 국민의힘 중앙선거대책위원회 클린선거본부는 “이 후보가 배우자 재산이 4년새 50억원 이상 증가했는데 세금은 1800만원 납부했다는 의혹에 대해 거짓 해명을 했다”며 고발 이유를 밝혔다. 이 후보는 입장문을 통해 “2020년 당시 배우자 미술품은 15억 원 가치였고 최근 이우환 작품 등 가액이 3∼4배 급등했지만, 2024년 현재 작품을 계속 보유하고 있어 미실현 이익일 뿐이므로 세금을 납부하지 않았다”고 해명했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/AB3SGBTRTNI37OLV7VJ6TWNCPA.jpg?width=2896&amp;height=3727&amp;auth=31c489a773e7206d9a5d81f4ff0248dbf25df5a5ece8cf8e6eda5f5aa877fa70&amp;smart=true" type="image/jpeg" height="3727" width="2896">
-        <media:description type="plain">&lt;YONHAP PHOTO-0233&gt; 꽃다발 받은 이상식 후보
-    (용인=연합뉴스) 제22대 국회의원선거 용인갑에 출마한 더불어민주당 이상식 후보가 11일 경기 용인시 선거사무소에서 당선이 확실시되자 꽃다발을 받고 밝은 표정을 짓고 있다. 2024.4.11 [경기사진공동취재단]
-    photo@yna.co.kr/2024-04-11 00:30:29/
-&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">박신휘</media:credit>
-      </media:content>
     </item>
     <item>
       <title>박정희 떠올린 심수봉 “내게는 귀한 분…당하는 것 보고 제정신 아니었다”</title>
