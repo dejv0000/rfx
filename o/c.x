@@ -13,6 +13,106 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>미국 거주시 선물받은 권총·실탄 국내 집에 보관 70대 ‘집행유예’</title>
+      <link>https://www.chosun.com/national/regional/2024/06/09/C5X22DDU6REQPBBO74IUH2H2PU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/09/C5X22DDU6REQPBBO74IUH2H2PU/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Jun 2024 02:53:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YFMERL2TVFH3ZOE3O53YGE6HOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국에 거주할 때 선물로 받은 권총 1정과 실탄 50발을 국내 이삿짐에 탁송 후 허가 없이 소지하고 있던 70대가 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 원주지원 형사1부(재판장 이수웅)는 총포·도검·화약류 등의 안전관리에 관한 법률 위반 혐의로 기소된 A(79)씨에게 징역 1년 6개월에 집행유예 2년을 선고하고, 압수품을 몰수했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2014년 7월부터 지난해 10월까지 강원 원주시 자택 베란다 수납장에 무허가 총기류인 권총 1정과 실탄 50발을 소지한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 미국에 거주할 당시 선물로 받아 소지하고 있던 권총과 실탄을 2014년 7월 국내로 이사하면서 이삿짐에 넣어 탁송 받은 뒤, 주소지 관할 경찰서장으로부터 총기 소지 허가 등을 받지 않은 것으로 드러났다.&lt;br&gt;&lt;br&gt;재판부는 “총포 및 화약류는 자칫 사람의 생명과 신체에 위해를 끼칠 수 있는 위험한 물건인 만큼 그 소지와 사용이 엄격하게 규제되고 있다”며 “무허가 총포·화약류 소지 기간이 짧지 않은 점 등에 비춰 죄책이 가볍지 않다”고 판시했다.&lt;br&gt;&lt;br&gt;이어 “다만 범행을 인정하며 반성하고 있고, 처음부터 국내에서 사용할 목적으로 소지한 것이 아니고, 이사하면서 허가를 받지 않은 점 등을 고려했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>베트남 유학생 입학금 등 수억 가로채...유학 알선업자 구속</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/06/09/X6WJB6QTS5AFRP2VN3SRET5JZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/06/09/X6WJB6QTS5AFRP2VN3SRET5JZI/</guid>
+      <dc:creator>경주=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Jun 2024 02:11:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7264BDXVTYK5S52EFED4W4IBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 대학에 입학하려는 베트남 유학생의 입학금 등을 가로챈 50대 유학알선업자가 구속됐다.&lt;br&gt;&lt;br&gt;경북 경주경찰서는 사기 등의 혐의로 유학 알선업자 A씨를 구속했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 2022년 국내 한 대학과 베트남 유학생 어학연수 프로그램 관련 협약을 체결한 뒤, 베트남 현지 유학원을 통해 유학생들을 모집하고 지난해 1월 유학생 40명으로부터 입학금 명목으로 2억2800여 만원을 송금받아 횡령한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;또 대학 어학연수 프로그램과 별개로 지난해 4월 베트남 유학생 7명에게서 입학금 4500여 만원을 입금받아 편취한 혐의도 받는다.&lt;br&gt;&lt;br&gt;경찰 조사 결과, A씨는 피해자들이 베트남에 있어 국내 상황을 제대로 알기 힘든 점을 악용해 서류를 위조하고, 대학 측에 보낼 돈을 중간에서 가로채는 수법으로 돈을 빼돌린 것으로 드러났다. A씨는 또 비자 발급이 거부된 유학생의 입학금을 돌려주지 않기도 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “외국인 유학생 증가로 유사 범죄가 증가할 우려가 큰 만큼 외국인 유학생을 모집하려는 대학은 유학 알선업체 선정 때 각별히 주의할 필요가 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“청소년 입장 가능”...중고생 상대로 새벽까지 영업한 김포 유명 클럽 결국 ‘영업정지’</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/09/3WQC7OGLSJE5PMN2KQEVWA4LY4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/09/3WQC7OGLSJE5PMN2KQEVWA4LY4/</guid>
+      <dc:creator>김포=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Jun 2024 02:17:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SPS2YHOCIBCR5AVMCXJK2LOE3Q.gif"&gt;&lt;figcaption&gt;&lt;small&gt;SNS에 게시된 업소 홍보 영상 /연합뉴스
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일반음식점으로 둔갑해 청소년을 상대로 새벽까지 불법 영업을 해온 경기 김포 클럽이 적발돼 영업정지 처분을 받았다.&lt;br&gt;&lt;br&gt;9일 김포시에 따르면 청소년을 대상으로 운영되던 구래동 A 클럽에 영업정지 2개월 처분을 하기 위한 절차를 밟고 있다. 일반음식점으로 등록된 이 업소는 지난달부터 중·고등학교 청소년을 대상으로 춤을 출 수 있는 클럽을 운영하다가 시에 적발됐다.&lt;br&gt;&lt;br&gt;식품위생법 시행규칙에 따르면 일반음식점은 음향시설을 갖추고 손님이 춤을 출 수 없다. 앞서 경찰도 지자체와 합동 단속을 벌이면서 위법 사실을 확인, 업주인 20대 남성을 식품위생법 위반 혐의로 불구속 입건한 뒤 지난 7일 검찰에 송치했다. 앞서 이 업소는 ‘미친텐션 ○○ 청소년 클럽 오픈, 중학교 2학년∼고등학교 3학년 입장 가능’이라는 현수막을 내걸고 영업을 했다.&lt;br&gt;&lt;br&gt;시 관계자는 “현장을 확인한 결과 위법 영업 사실이 확인돼 현재 영업정지 처분을 위한 절차를 밟고 있다”며 “업소를 상대로 의견 제출 기간을 거쳐 행정 처분을 할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>파주, 고양, 이천... 北 오물풍선 경기서도 신고 잇따라</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/09/NLYEN2VZJFBWVJA3RRGRPJMXOY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/09/NLYEN2VZJFBWVJA3RRGRPJMXOY/</guid>
+      <dc:creator>파주=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Jun 2024 02:05:40 +0000</pubDate>
+      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WDNGNDENBFVASFSRTDRQJ2K46A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 새벽 파주시 금촌동의 한 도로에서 발견된 북한의 오물 풍선 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한이 엿새 만에 대남 오물풍선을 다시 날려 보내면서 경기지역 곳곳에서 관련 신고가 접수되고 있다.&lt;br&gt;&lt;br&gt;9일 경찰과 소방당국에 따르면 이날 오전 7시 기준 경기지역에 접수된 북한의 대남 오물 풍선 관련 신고는 5건이다. 이날 오전 고양시 덕양구 화전동 창릉천 인근과 파주시 금촌동에서 풍선이 발견됐다는 신고가 접수됐다. 발견된 풍선의 잔해에는 두엄(거름)으로 추정되는 물질이 담긴 비닐 봉투가 매달린 것으로 알려졌다.&lt;br&gt;&lt;br&gt;대남 풍선은 경기남부 지역에서도 잇따라 발견됐다. 이날 오전 6시 6분 이천시 신둔면 인후리에서 “밭에 하얀 풍선이 떨어져 있다”는 신고가 들어왔다. 관계 당국은 밭에서 발견된 대남 풍선 2개를 확인, 군 당국에 인계했다.&lt;br&gt;&lt;br&gt;앞서 오전 5시 39분에는 군포시 부곡동 대형마트 부근에서 대남 풍선은 발견되지 않았고, 대북 전단만 확인됐다. 오전 5시 27분 수원시 권선구 당수동에서도 “하늘에서 종이가 떨어졌다”는 신고가 들어왔다. 이곳 역시 대남 풍선은 없었고, 대북 전단만 나왔다.&lt;br&gt;&lt;br&gt;이들 신고 현장에서 보고된 인명·재산 피해는 아직 없다.&lt;br&gt;&lt;br&gt;경기도는 지난 8일 오후 11시 9분 안전 안내문자를 통해 “북한이 대남 오물풍선 다시 부양 중. 적재물 낙하에 주의하고, 오물풍선 발견시 군부대나 경찰에 신고해 달라”고 알렸다.&lt;br&gt;&lt;br&gt;앞서 북한은 국내 민간단체의 대북 전단 배포를 빌미로 지난달 28∼29일과 이달 1∼2일 등 두 차례에 걸쳐 대남 오물 풍선을 날려보냈다. 북한이 이 기간 보낸 풍선만 총 1000개가 넘는다. 이에 국내 민간 단체들은 지난 6일과 7일 등 대형 풍선에 대북 전단을 달아 북한으로 보내는 등 맞대응했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>야간 도로에 엎드린 사람 숨지게 한 운전자 무죄...법원 “예견 힘들어”</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/06/09/R43G3T6FC5HJZN464LK4BGX2L4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/06/09/R43G3T6FC5HJZN464LK4BGX2L4/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Jun 2024 02:28:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 전경/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;야간에 어두운 색깔의 옷을 입고 도로에 엎드려 있던 사람을 차로 치어 숨지게 한 40대가 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;청주지법 형사1단독 권노을 판사는 교통사고처리특례법상 치사 혐의로 재판에 넘겨진 40대 A씨에게 무죄를 선고했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 2월 21일 오후 10시 43분쯤 청주시 서원구 남이면의 한 도로를 시속 70㎞로 주행하던 도중 도로 위에 엎드려 고개를 들고 있던 B(70대)씨를 들이받았다. 승용차 앞 범퍼에 머리를 치인 B씨는 외상성 쇼크로 사망한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;사고 당시 도로에는 가로등도 없었고 B씨는 어두운 색깔의 옷을 입고 있었다.&lt;br&gt;&lt;br&gt;권 판사는 “차량 블랙박스를 보면 당시 B씨가 식별된 뒤 충격까지 불과 1∼2초 남짓 시간밖에 없어 제동장치를 조작할 겨를이 없던 것으로 보인다”며 “예견하기 어려운 이례적인 일에 대해서도 운전자에게 주의의무가 있다고 볼 수는 없다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“삼성 이병철 양자” 주장 허경영, 2034년까지 선거 못 나온다</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/09/MX6Z45IVS5EUDDARZT4RHMSVRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/09/MX6Z45IVS5EUDDARZT4RHMSVRU/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Jun 2024 01:32:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YXT35SHFKIV5ZXPIHYZDBVHFGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;허경영 국가혁명당 명예대표. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2022년 대통령 선거 기간 자신이 고(故) 이병철 삼성그룹 회장의 양자이며, 박정희 전 대통령의 비선 역할을 했다는 등의 주장을 한 허경영 국가혁명당 명예대표가 대법원에서 유죄 판결을 확정받았다.&lt;br&gt;&lt;br&gt;9일 법조계에 따르면, 대법원 1부(주심 서경환 대법관)는 공직선거법 위반 혐의로 기소된 허 대표에게 징역 2년에 집행유예 3년을 선고한 원심 판결을 지난 4월 25일 확정했다.&lt;br&gt;&lt;br&gt;허 대표는 2022년 제20대 대통령 선거에 출마해 TV 연설에서 “나는 이병철 삼성그룹 회장의 양자이고, 박정희 전 대통령의 비선 정책보좌역이었다”고 말해 허위 사실을 유포한 혐의로 기소됐다. 허 대표는 법정에서 이 같은 주장이 허위가 아니라며 혐의를 부인했지만, 1‧2심에 이어 대법원까지 유죄를 인정했다.&lt;br&gt;&lt;br&gt;1심 재판부는 “피고인이 이 사건 판결 이후에도 여전히 허위 사실을 사회공동체에 유포하거나 장차 이루어지는 선거에서 유권자들에게 공표할 가능성이 농후하다는 점에서, 일반 사회 구성원의 다양한 이해관계를 조정하고 국가의 정책과 목적을 실현해야 할 정치의 영역에서 피고인을 배제할 필요가 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;공직선거법에 따라 선거 범죄로 집행유예를 선고받으면 형이 확정된 때부터 10년간 피선거권이 박탈돼 선거에 출마할 수 없다. 이에 따라 허 대표는 2034년 4월까지 선거에 나올 수 없다.&lt;br&gt;&lt;br&gt;허 대표는 이전에도 공직선거법 위반 혐의로 구속 기소돼 징역형을 선고받았다. 그는 2007년 9월 17대 대통령 후보로 나서 “대통령이 되면 박근혜 전 한나라당 대표와 결혼하기로 했고, 조지 부시 대통령 취임 만찬에 한국 대표로 참석했다”고 말해 허위사실을 유포한 혐의를 받았다. 2008년 징역 1년6개월의 실형이 확정되면서 10년간 선거에 나오지 못했다. 피선거권을 회복한 2020년부터 다시 선거에 도전해왔다.&lt;br&gt;&lt;br&gt;허 대표는 최근 자신이 운영하는 종교시설 ‘하늘궁’에서 신도들을 추행했다는 혐의로도 경찰 수사를 받고 있다. 김도형 경기북부경찰청장은 지난 4월 기자간담회에서 허 대표 사건과 관련 “정치자금법 위반, 식품위생법 위반, 성추행 등 고소‧고발 사건이 많고 관계자도 많다”며 “정치자금법 위반 사건은 금전 거래 내역 등 조사가 필요해 시간이 걸리고, 성추행 부분을 먼저 속도감 있게 수사할 것”이라고 밝혔다. 이에 대해 허 대표 측은 “성추행당했다는 것은 사실이 아니다”며 “면담 과정에서 당사자의 동의를 얻고 영적 에너지를 준 것”이라고 반박했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 지하철 3호선 연신내역서 감전 사고…작업자 1명 사망</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/06/09/SHSMYMWBCJGHBEDKDJDL642DIM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/06/09/SHSMYMWBCJGHBEDKDJDL642DIM/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Jun 2024 02:01:21 +0000</pubDate>
+      <content:encoded>서울 지하철 3호선 연신내역에서 고압 전선 케이블 작업 도중 사망자가 발생했다.&lt;br&gt;&lt;br&gt;이날 국토교통부에 따르면, 9일 오전 1시 37분쯤 연신내역 지하 1층 전기실에서 서울교통공사 소속 A(53)씨가 작업 도중 감전되는 사고가 일어났다. A씨는 신고를 받고 출동한 119 구급대의 심폐소생술을 받고 병원으로 옮겨졌으나 오전 2시 40분쯤 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 전기실에서 진공차단기(VCB) 패널 단전 작업을 하던 중 사고를 당한 것으로 파악됐다고 국토부는 전했다. 공사는 사고가 난 연신내역에 현장 사고수습 대책본부를 차려 원인 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>음주운전 2차례 처벌받고 또 음주운전한 40대 ‘법정 구속’</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/09/OBRKX436EBF5HLXKICJA67LIPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/09/OBRKX436EBF5HLXKICJA67LIPI/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Jun 2024 01:52:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KHAA4DAMM5573O6SB675FZVYQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주 운전 단속하는 경찰. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주 운전으로 2차례 처벌을 받고도 술을 마시고 차량을 몰다 적발된 40대 남성이 실형을 선고받고 법정구속됐다.&lt;br&gt;&lt;br&gt;인천지법 형사1단독 김태업 판사는 도로교통법상 음주 운전 혐의로 불구속 기소된 A(44)씨에 대해 징역 8개월을 선고하고 법정구속했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;김 판사는 범인 도피 혐의로 A씨와 함께 기소된 지인인 40대 여성 B(45)씨에게는 벌금 300만원을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 8월 24일 오후 7시 50분쯤 인천시 부평구의 한 도로에서 술에 취한 상태로 승용차를 200m 정도 운전한 혐의로 불구속 기소됐다. 당시 차량에 함께 타고 있던 B씨는 A씨가 접촉 사고를 내 경찰에 적발되자 “여기까지 제가 운전했다”고 거짓말을 하며 A씨 대신 음주 측정을 받았다.&lt;br&gt;&lt;br&gt;사고 당시 A씨의 혈중알코올농도는 0.178%로, 면허 취소 기준(0.08%)을 2배 이상 넘긴 상태였다.&lt;br&gt;&lt;br&gt;A씨는 2017년 2차례나 음주 운전 혐의로 기소돼 각각 벌금 500만원과 징역 8개월에 집행유예 2년을 선고받기도 했다.&lt;br&gt;&lt;br&gt;김 판사는 “A씨는 음주 운전으로 벌금형과 징역형의 집행유예를 선고받은 전력이 있음에도 음주 운전하다 접촉 사고까지 내 죄질이 몹시 좋지 못하다”고 했다. 다만 “반성하고 있고 더 큰 사고로 이어지지는 않았다”며 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;B씨에 대해선 “A씨를 대신해 운전자로 나서 음주 측정까지 해 범죄 수사를 교란하려 했다는 점에서 죄질이 좋지 못하다”며 “다만 반성하고 있는 점, 처벌받은 전력이 없는 점 등을 고려해 형을 정했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 연안부두 앞바다·빌라옥상 등 오물 풍선 신고 잇따라</title>
+      <link>https://www.chosun.com/national/incident/2024/06/09/GA54Z3G5IVDQFM6AN5VAA474BU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/09/GA54Z3G5IVDQFM6AN5VAA474BU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Jun 2024 00:08:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NWWQXY5NKRL5PFPOFF6DVBNDUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오전 5시 40분쯤 인천시 중구 연안부두 앞바다에 떨어진 북한 대남 풍선. (세븐스타호 제공)/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천에서 북한의 대남 오물풍선이 떨어졌다는 신고가 잇따라 소방 당국 등이 대응에 나섰다.&lt;br&gt;&lt;br&gt;9일 인천소방본부 등에 따르면 전날 밤부터 이날 아침까지 북한의 대남 풍선 관련 신고 5건이 소방 당국에 접수됐다.&lt;br&gt;&lt;br&gt;지난 8일 오후 10시 54분쯤 인천시 서구 마전동 인근에서 대남 풍선이 발견됐다는 신고가 처음 접수됐다. 이어 9일 오전 4시 19분쯤 중구 중산동 해안가, 오전 5시 32분쯤 미추홀구 학익동 빌라 옥상에 대남 풍선이 떨어졌다고 각각 신고됐다.&lt;br&gt;&lt;br&gt;오전 7시 22분쯤엔 강화군 삼산면에서, 7시 46분쯤엔 서구 경서동에서 대남 풍선 신고가 있었다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방 당국은 안전 조치를 한 뒤 경찰과 군 당국에 대남 풍선을 인계했다.&lt;br&gt;&lt;br&gt;오전 5시 40분쯤엔 중구 연안부두 앞바다에서는 소방 당국에 신고되지 않은 대남 풍선이 관측되기도 했다.&lt;br&gt;&lt;br&gt;대남 풍선으로 인한 인명 피해나 재산 피해는 아직 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;인천시는 전날 오후 11시 14분쯤 재난문자를 보내 “북한이 대남 오물풍선을 다시 부양하고 있다”며 “시민들께선 낙하물에 주의해야 한다”고 공지했다. 이어 “오물풍선을 발견하면 접근하지 말고 군부대나 경찰에 신고해 달라”고 했다.&lt;br&gt;&lt;br&gt;북한은 앞서 국내 민간단체의 대북 전단 배포를 빌미로 지난달 28∼29일과 지난 1∼2일 등 2차례에 걸쳐 대남 오물풍선을 날렸다. 당시 전국에서 1000여 개의 대남 오물풍선이 발견됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울대 교수회 “의대 교수 총파업, 지켜온 원칙 수포로 돌리는 행위…재고해야”</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/09/7V5DUS7NNNAOBCI75CMFXQ2FTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/09/7V5DUS7NNNAOBCI75CMFXQ2FTQ/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Jun 2024 00:57:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3LWEWJIT3ADCB56SDDRZDMNKRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부의 의대 정원 확대에 반발하는 전공의를 비롯한 의료계의 집단행동이 이어지고 있는 7일 서울대병원 앞으로 시민이 지나가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의대·서울대병원 교수들이 17일부터 무기한 전체 휴진(총파업)에 돌입하기로 한 가운데 서울대 교수들이 이를 만류하는 호소문을 내고 나섰다.&lt;br&gt;&lt;br&gt;서울대 교수회는 9일 ‘의대 교수들에게 집단 휴진 재고를 간곡히 요청한다’는 내용의 호소문을 발표했다. 이들은 “환자를 지키며 모든 국민들이 찬성하는 의료 및 교육개혁을 교수회와 함께 추진할 것을 제안드린다”고 했다.&lt;br&gt;&lt;br&gt;서울대 교수회는 이날 의대 교수들에게 “환자들이 받을 피해를 생각해 집단 휴진에 동참하지 않는 대신 교수회와 함께 의료 및 교육 현장에서 개혁에 매진하자”고 간곡히 호소했다. 서울의대·서울대병원 교수들은 전공의에 대한 행정처분의 완전 취소를 요구하며 17일부터 총파업에 들어가기로 했고, 이에 대해 정부는 ‘수용 불가’ 의사를 명확히 한 바 있다.&lt;br&gt;&lt;br&gt;이들은 이번 파업으로 그간 서울의대 교수들이 지켜온 원칙을 무너뜨릴 수 있다고 경고했다. 이들은 “의대 교수들이 의료인으로서 환자를 지키려 최선을 다했기에 많은 전공의가 떠난 지금까지 진료 공백을 최소화할 수 있던 것”이라면서도 “환자에게 큰 피해를 주는 집단 휴진은 지금껏 의료인으로서 지켜온 원칙과 노력을 수포로 돌릴 수 있다”며 파업 자제를 호소했다. 또 “의료계의 강경한 조치는 다른 한쪽의 극단적 대응을 초래할 비민주적 위험성을 가지고 있다”고도 했다.&lt;br&gt;&lt;br&gt;서울대 교수회는 의대 교수들의 파업을 만류하는 한편 의대 정원 증원으로 파생될 여러 문제를 보완하기 위해 교육 개혁 등에 나서야 한다고도 했다. 이들은 “국민 다수가 의대 정원 증원에 찬성하지만 의료계는 물론 교육계, 산업계는 이를 수용할 준비가 되지 않은 것이 우려스럽다”며 “오죽하면 의대 교수들이 사회적 비판을 감수하면서까지 전공의들과 학생들을 지키기 위해 휴진을 고민하겠느냐”고 했다. 이들은 정부가 지난주 발표한 전공의 보호 대책뿐 아니라 의료, 교육, 입시를 망라한 개혁 정책이 조속히 마련돼야 한다는 입장이다.&lt;br&gt;&lt;br&gt;서울대 교수회는 의대 정원 증원이 이공계 생태계 파괴로도 이어질 수 있다는 점을 지적했다. 이들은 “급격한 의대 정원 증원은 이공계 공동화로 이어져 학문생태계를 파괴하고, 정부의 이공계 육성 정책을 무력화시킬 것”이라며 “막대한 사교육비 증가, 의대 내 또 다른 양극화 및 서열화 촉진, 지역대학 소멸 등도 우려되는 부분”이라고 했다.&lt;br&gt;&lt;br&gt;한편 이들은 “서울대는 우리나라 고등교육의 상징적 존재로 특별한 공적 책무를 가지고 있다”며 “교수회는 전공의·의대생 복귀에 힘을 보태고, 의대 증원을 포함한 의료문제 해결 및 교육개혁에 최선을 다할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>北오물 풍선 신고 서울서 29건...오세훈 “저열한 도발”</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/09/XM3VTCACAJGU5JGXRR57ILOAZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/09/XM3VTCACAJGU5JGXRR57ILOAZY/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Jun 2024 00:30:10 +0000</pubDate>
+      <content:encoded>북한이 또 다시 남쪽을 향해 살포한 오물 풍선이 8~9일 서울 시내 곳곳에서 발견됐다.&lt;br&gt;&lt;br&gt;9일 서울시에 따르면 이날 오전 8시 기준으로 29건의 오물 풍선 신고가 들어왔다. 서울시 관계자는 “강북, 강남 할 것 없이 곳곳에서 풍선 발견 신고가 들어왔다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYUW6DVGAZNDNCLQ7SOG5BKUVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오전 5시 40분쯤 북한이 날린 대남 풍선이 인천시 중구 연안부두 앞바다에 떨어지고 있다. 북한은 국내 민간 단체의 대북 전단 배포를 빌미로 지난달 28∼29일과 이달 1∼2일 등 2차례에 대남 오물 풍선을 날렸고, 총 1000개가량이 식별됐다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 전날 밤 풍선이 내려온다는 사실을 군이 발표하자 오후 11시9분쯤 ‘북한이 대남 오물풍선을 다시 부양하고 있다’ ‘적재물 낙하에 주의하고, 풍선을 발견하면 접근하지 말고 군부대나 경찰에 신고해달라’는 내용의 안전 안내 문자를 발송했다.&lt;br&gt;&lt;br&gt;오세훈 서울시장은 오후 11시40분쯤 페이스북에 글을 올려 “북한이 우리 민간 지역을 대상으로 또다시 오물풍선이라는 저열한 도발을 하고 있다”며 “서울시는 비상대응반을 가동해 시민 여러분의 안전에 만전을 기할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“이 여자 제정신이냐” 의사 유죄 내린 판사 저격한 의협회장</title>
       <link>https://www.chosun.com/national/national_general/2024/06/09/N6GNQHYMVZD2ZD3OWK7XTUEP6M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/09/N6GNQHYMVZD2ZD3OWK7XTUEP6M/</guid>
@@ -868,100 +968,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQTRSMXSVVTRUQ46ORLRBLBSDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안동시선거관리위원회/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 4월 제22대 국회의원 선거 당시 안동·예천 선거구에 출마한 한 후보자의 캠프에서 법정 수당 외 금품을 주고 받은 회계책임자 등 12명이 검찰에 고발됐다.&lt;br&gt;&lt;br&gt;안동시선거관리위원회는 당시 한 국회의원 후보자 캠프의 회계 책임자였던 A씨와 선거사무원 11명을 공직선거법 위반 등 혐의로 대구지검 안동지청에 고발했다. A씨는 자원봉사활동 대가 및 차량 유류비 등 명목으로 선거사무원 B씨 등 11명에게 총 770만 2000원을 건넨 혐의를 받고 있다. 공직선거법상 선거운동과 관련해 법정 수당과 실비 외엔 누구도 금품을 제공하거나 받을 수 없고, 이를 위반할 경우 5년 이하의 징역 또는 3000만원 이하의 벌금에 처해진다.&lt;br&gt;&lt;br&gt;A씨는 또 후보자 후원회 회계책임자가 아닌데도 후원회 경비를 임의로 썼고, 후원금 중 200만원은 허위 영수증을 첨부하는 방식으로 사적으로 지출한 혐의(정치자금법 위반)도 받고 있다. 현행 정치자금법상 후원회 정치자금은 담당 회계책임자만 수입·지출을 관리할 수 있으며, 이를 위반할 경우 2년 이하의 징역 또는 400만원 이하의 벌금형에 처해진다.&lt;br&gt;&lt;br&gt;다만 안동시선거관리위원회는 후보자 C씨가 A씨의 범행에 관계된 정황은 현재까지 없는 것으로 보고 있다. C씨는 7일 본지 통화에서 “(캠프 관계자들이)검찰에 고발돼 수사 중인 상황에서 딱히 드릴 말씀이 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>변호인에 소송접수 통지 누락…대법 “절차 위반, 다시 심리하라”</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/07/OVL7LTX4IZAMVDZEVGPIXVHQGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/07/OVL7LTX4IZAMVDZEVGPIXVHQGY/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Jun 2024 06:08:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7VSYKYLS5HW26CZ32OIB2ZEL3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;항소심에서 새로 선임한 변호인에게 재판 절차의 시작을 알리는 ‘소송기록접수 통지서’를 전달하지 않고 변론을 진행한 뒤 내린 판결은 위법이라는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 김선수 대법관)는 지난달 9일 공직선거법 위반 혐의로 기소된 이완식 충남도의원에게 벌금 200만원을 선고한 원심을 이같은 취지로 파기하고 사건을 대전고법으로 돌려보냈다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;이 의원은 2022년 6월 지방선거를 앞두고 당내 경선에서 후보자로 선출되기 위해 선거 구민에게 금품을 제공한 혐의 등으로 기소됐다. 이 의원은 재판 시작 후 A 변호사 등을 선임해 대응했지만, 작년 9월 1심에서 벌금 200만원을 선고받았다.&lt;br&gt;&lt;br&gt;이에 피고인과 검사 모두 항소했고, 2심 법원은 작년 9월 27일 이 의원에게 국선변호인을 선정했다. 그러고는 국선변호인과 1심의 A 변호사에게 소송기록접수 통지서를 보냈다. 그런데 이 의원이 국선 변호인이나 A 변호사가 아닌 다른 로펌의 B 변호사를 선임하며 문제가 됐다. 2심 법원은 이 의원과 2심 변호인에게 따로 통지서를 보내지 않은 채 재판을 진행했다. 피고인 소환장 등 나머지 서류는 제대로 전달돼 재판이 열렸고, 2심에서도 벌금 200만원이 선고됐다.&lt;br&gt;&lt;br&gt;이에 이 의원 측은 절차 위반을 문제 삼고 대법원에 상고했다. 피고인인 이 의원이나 새로 선임된 B 변호사가 적법한 소송기록접수 통지를 받지 못한 상태에서 재판을 진행한 것은 잘못이라는 취지다. 재판 시작 시 이뤄지는 소송기록접수 통지는 항소이유서 제출 기한 등을 결정하는 주요 절차다.&lt;br&gt;&lt;br&gt;대법원은 이 의원 측 주장을 받아들여 원심을 파기환송했다. 대법원은 “소송기록접수 통지서가 이 의원 측에게 적법하게 송달됐다고 볼 수 없다”며 “원심이 새로 선임된 B 변호사에게 통지를 했어야 하는데, 이를 하지 않은 판결에는 소송절차의 법령 위반으로 판결에 영향을 미친 위법이 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;대법원 관계자는 “피고인에 대한 적법한 소송기록접수 통지가 이루어지지 않은 상태에서 사선변호인이 선임되고 국선변호인 선정이 취소된 경우, 사선변호인에게도 소송기록접수 통지를 해야 한다고 판단한 사례”라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>일반도로인데 스쿨존 과태료 831건 부과...1년간 아무도 몰랐다</title>
-      <link>https://www.chosun.com/national/regional/2024/06/07/BIQWLGPBDNHOZBY6N5ABYJDZNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/07/BIQWLGPBDNHOZBY6N5ABYJDZNY/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Jun 2024 05:58:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E2QI4GBBKNDDXGMJYSMRREHVPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주지역 일반도로의 무인 교통단속장비에 적발된 운전자들에게 어린이보호구역에 해당하는 과태료가 1년 넘게 잘못 부과된 것으로 확인됐다.&lt;br&gt;&lt;br&gt;제주도 자치경찰단은 7일 서귀포시 영어교육도시 한 교차로에 설치된 무인교통단속장치 과태료 부과기준이 잘못 적용된 사실을 파악해 가중 부과된 과태료에 대해 환급 등 조치를 진행하고 있다고 밝혔다. 이 무인단속기는 일반도로에 제한속도가 시속 30㎞로 설정돼 지난해 4월 17일부터 운영됐다. 도로교통법에 따라 일반도로에서 승용차량이 시속 20㎞ 미만으로 제한속도를 위반하면 과태료 4만원, 신호를 위반할 때는 과태료 7만원을 내야 한다.&lt;br&gt;&lt;br&gt;하지만 ‘일반도로’가 아닌 ‘어린이보호구역’으로 과태료가 잘못 적용돼 위반 운전자에 대해 각각 과태료 7만원과 13만원이 부과됐다.&lt;br&gt;&lt;br&gt;자치경찰이 지난달 자체 점검 과정에서 오류를 확인하기까지 약 1년간 831건의 과태료가 가중 부과됐으며 이 중 700여 건이 납부된 것으로 확인됐다.&lt;br&gt;&lt;br&gt;자치경찰은 납부자에게 안내문을 발송하고 가중부과금을 환급 처리하는 절차를 밟고 있다. 또 아직 수납되지 않은 130여 건에 대해서는 다시 정정된 과태료를 부과할 방침이다.&lt;br&gt;&lt;br&gt;자치경찰은 “앞으로 과태료 부과 절차 과정의 내부 점검을 강화해 납부자들의 권익을 보호하고 신뢰를 높이겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>르세라핌 악플러, 200만원 벌금형 받았다…“선처는 없어”</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/07/MW4H4ZEPLVBBDIAXLZMJPPEDEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/07/MW4H4ZEPLVBBDIAXLZMJPPEDEY/</guid>
-      <dc:creator>김가연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Jun 2024 05:42:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WGWNILEOPILRR6V6T7UF6YZKYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 르세라핌. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아이돌 그룹 르세라핌 측이 악플러들을 상대로 진행한 고소 상황을 알리면서, 앞으로도 강경대응 하겠다는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;르세라핌 소속사 쏘스뮤직은 7일 글로벌 팬 커뮤니티 위버스를 통해 “당사는 아티스트 관련 국내외 소셜 계정과 온라인 커뮤니티를 포함한 모든 채널을 대상으로 전방위적인 악성 게시글 및 댓글 채증을 진행해 왔다”고 했다. 소속사는 수집한 증거를 토대로 모욕, 정보통신망법상 명예훼손, 성폭력처벌법상 통신매체이용음란 혐의로 수사기관에 고소장을 제출했다.&lt;br&gt;&lt;br&gt;쏘스뮤직은 “악의적 비방과 허위사실, 인신공격, 멸칭, 조롱, 저급한 악플을 모두 빠짐없이 법적 조치 대상에 포함했다”며 “해외 플랫폼에 게시된 악성 게시물과 댓글 및 채널 운영자에 대해서도 수사기관에 고소장을 제출했다”고 전했다. 소속사는 소장을 제출한 이후에도 지속적으로 증거를 수집해오고 있다고 했다.&lt;br&gt;&lt;br&gt;소속사는 앞서 진행했던 일부 소송 결과 악플러들이 벌금형 등 처벌을 받게 됐다고 밝혔다. 쏘스뮤직은 “악성 게시글 또는 댓글을 작성한 행위가 유죄로 인정되어, 다수의 피고인들이 최대 200만 원의 벌금형 등으로 형사처벌을 받았다”고 했다.&lt;br&gt;&lt;br&gt;이어 “사건 종결까지는 적게는 수개월에서 길게는 1년 이상의 긴 시간이 소요된다”며 “당사는 시일이 걸리더라도 아티스트에 대한 범법 행위를 근절하기 위해 지속적으로 노력하고 있다”고 했다. 그러면서 “아티스트의 권익을 침해한 고소 대상 건들은 기존과 동일하게 어떠한 경우에도 선처 없이 끝까지 강경하게 대응할 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;르세라핌 측은 작년 6월에도 악플을 단 네티즌이 처벌을 받았다고 전한 바 있다. 작년 12월에도 명예훼손, 악의적 비방 등 게시물에 대해 강경 대응을 하겠다는 공지를 올렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“우동 엎고 직원 가슴팍 툭툭”…기분 나쁘다며 난동 피운 진상 커플</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/07/V7RDOOXNN5ABXEDKHYPJHQ3ZZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/07/V7RDOOXNN5ABXEDKHYPJHQ3ZZ4/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Jun 2024 05:14:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CV2SHFP5WNHITEOKFPCPXCVRDI.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;커플 손님이 식당에서 기분이 나쁘다며 우동을 테이블에 엎어버렸다며 A씨가 올린 사진./자영업자 커뮤니티 ‘아프니까 사장이다’&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 커플 손님이 식당에서 기분이 나쁘다며 우동을 엎어버리고 직원의 가슴팍을 치는 등 난동을 피웠다는 주장이 나왔다.&lt;br&gt;&lt;br&gt;7일 자영업자 커뮤니티 ‘아프니까 사장이다’에는 ‘별일을 다 겪네요’라는 제목의 글과 함께 여러 사진이 올라왔다.&lt;br&gt;&lt;br&gt;자영업자라고 밝힌 작성자 A씨는 “남녀 손님이 우동과 소주를 시키곤 한 그릇에만 육수를 더 많이 달라고 했다”며 “그래서 아예 두 그릇 모두 정량보다 더 넣어줬는데 손님이 ‘적다고 더 달라’고 했다”며 당시 상황을 설명했다.&lt;br&gt;&lt;br&gt;이에 A씨는 “‘소주랑 드시니 우선 드시고, 육수는 팔팔 끓여서 더 드릴게요’라고 했더니 손님이 ‘당장 달라’고 하더라. 육수를 채워주니 여자 손님이 뭐가 그리 기분 나쁜지, 둘이 티격태격 싸웠다”며 “제가 전화통화 하러 자리 비운 사이 아르바이트생한테 시비 걸며 난리를 쳤다”고 했다.&lt;br&gt;&lt;br&gt;손님들은 남긴 우동을 테이블 위에 집어 던졌고, 나갔다 다시 들어와서 소주를 테이블에 부었다고 한다. A씨가 올린 사진을 보면 테이블 위에 우동 면발과 건더기가 널브러져 있었고, 국물도 바닥 아래로 흐르고 있는 모습이었다.&lt;br&gt;&lt;br&gt;A씨는 “남자 손님이 가자고 하는데도 여자 손님이 자기는 못 먹었다면서 아르바이트생에게 뭐라 하더니, 우동 두 그릇 모두 테이블에 쏟고 양념장까지 떠서 테이블에 던졌다”며 “바닥이 인조 잔디인데 육수며 소주며 난리가 났고 CCTV를 보니 여자 손님이 알바생 가슴팍을 두 번이나 쳤다”고도 했다.&lt;br&gt;&lt;br&gt;이어 “나가면서 남자 손님은 ‘여기 장사 못 하게 하겠다’고 소리치고 여자 손님은 ‘리뷰 제대로 남기겠다’고 협박했다”고 주장했다.&lt;br&gt;&lt;br&gt;그러면서 “결국 화가 안 참아져서 경찰을 불렀다. 이미 손님들은 갔지만 경찰들도 ‘뭐 이렇게 해놓고 가냐’면서 진술서 쓰라고 해서 썼다. 아르바이트생도 ‘폭행’으로 진술서를 작성했다”며 “앞으로 어찌 될지 모르겠지만 이런 일 겪으니 마음이 몹시 안 좋고 고되다”고 토로했다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “저런 사람들은 일상생활을 어떻게 하냐. 무조건 잡아서 벌금 물고 제대로 혼쭐 나면 좋겠다” “다른 식당 가서 또 저럴 것 같다” “금융 치료 해야 어디 가서 저런 짓 못 할 것 같다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;식당에서 행패를 부리거나 소란을 피울 경우 업무방해죄에 해당할 수 있다. 형법에 따르면 허위 사실을 유포하거나 기타 위계의 방법 또는 위력으로 사람의 업무를 방해한 자는 업무방해죄로 5년 이하의 징역 또는 1500만원 이하의 벌금에 처할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘대북송금’ 이화영 선고 앞두고...법원 앞 진보·보수단체 맞불집회 </title>
-      <link>https://www.chosun.com/national/incident/2024/06/07/QO6MYGYQFZHG5IWG5SF7KO7STQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/07/QO6MYGYQFZHG5IWG5SF7KO7STQ/</guid>
-      <dc:creator>수원=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Jun 2024 04:39:32 +0000</pubDate>
-      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XIAQSK6NAFBQRM4VP3EWLIPRZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사의 1심 선고공판이 예정된 7일 수원지법 앞에서 진보와 보수단체 회원들이 집회를 열고 있다. /김현수 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쌍방울 불법 대북 송금 사건 등과 관련해 기소된 이화영 전 경기도 평화부지사의 1심 선고 공판이 열린 7일 수원지법 앞에서 진보·보수단체가 장외 맞불 집회를 열었다.&lt;br&gt;&lt;br&gt;이날 오후 2시로 예정된 재판에 앞서 오후 1시쯤 수원지법 후문 앞에서는 10m 길이의 횡단보도를 사이에 두고 양측 단체 관계자들이 대치했다.&lt;br&gt;&lt;br&gt;유튜버 채널인 ‘정치한잔’ 등이 참여한 진보 단체 관계자 50여명은 ‘연어 회유’, ‘정치검찰 탄핵’ 등의 피켓을 들고 “윤석열 퇴진”을 외쳤다. 이들은 “올바른 판결로 정의를 바로 세워야 한다”며 “정치검찰은 해체해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;이에 맞서 보수단체인 ‘애국순찰팀’도 ‘이재명 구속하라’ ‘세금도둑 즉각 수사 특검하라’ 등의 피켓을 들고 시위를 벌였다. 이들은 “이화영은 물론 이재명도 즉시 구속해 수사해야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;이들 단체 회원들은 횡단보도를 사이에 두고 서로 욕설과 고함을 주고 받다가 일부 지지자들이 뒤엉키는 바람에 경찰이 제지에 나서기도 했다. 경찰은 충돌 사태에 대비해 기동대 1개 중대 100여명을 배치했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘자정 전 귀가’ 보석조건 어긴 정진상…재판부 “경각심 없는 것 같네”</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/07/6VJEATWRQBGQTAELYKPJOESV6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/07/6VJEATWRQBGQTAELYKPJOESV6E/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Jun 2024 04:41:47 +0000</pubDate>
-      <content:encoded>구속 상태로 재판받다 지난해 4월 보석 석방된 이재명 더불어민주당 대표의 최측근 정진상 전 민주당 대표실 정무조정실장이 보석 조건인 ‘자정 전 귀가’를 어겨 재판부로부터 “경각심이 없다”는 취지의 질책을 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7E7PBAGZENPI5KCQA4XD27YJLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정진상 전 더불어민주당 대표실 정무조정실장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 서울중앙지법 형사33부(재판장 김동현) 심리로 열린 ‘대장동·위례·백현동·성남FC’ 재판에서 정 전 실장이 지난 4일 재판을 마친 뒤 법원 인근에서 오후 9시 50분까지 저녁 식사를 하고 집 근처 주점에서 변호인과 재판에 대해 논의하다가 이튿날인 5일 자정을 넘어 귀가한 사실이 드러났다. 재판부가 이에 대해 긴급한 사유가 있었느냐고 묻자 정 전 실장은 “자정이 넘은 줄 몰랐다”고 해명했다.&lt;br&gt;&lt;br&gt;앞서 재판부는 지난 3월 정 전 실장 측에 “자정 이후 귀가를 하거나 1박 이상 외박을 할 경우에는 법원에 사전 신고를 하거나 허가를 받도록 하는 조건을 넣겠다”고 했는데, 정 전 실장은 결과적으로 이를 어겼다. 정 전 실장 변호인은 “그날 재판이 늦게 끝났고, 서울에서 식사를 하고 재판 논의를 하느라 밤 12시가 넘은 걸 모르고 있었다. 그 당시 변호인들과 같이 있었다”고 설명했다.&lt;br&gt;&lt;br&gt;검찰 측은 “재판장이 이전에도 위반이 의심된다는 검찰 요청에 따라서 자정 이후 귀가할 땐 사전 허가를 받도록 했다. 음주를 했는지 구체적으로 어떤 사정이 있었는지 확인할 수는 없지만 같이 있던 변호인은 당연히 자정 전에 귀가해야 한다는 사실을 누구보다도 잘 알고 있었을 것”이라며 “재발 방지를 위해 과태료 등 처분을 검토해 달라”고 촉구했다.&lt;br&gt;&lt;br&gt;재판부는 정 전 실장 측을 향해 “위반한 것 자체가 보석 조건에 대한 경각심이 부족해서일지도 모른다. 경각심이 없는 것 같다”며 “피고인의 일정을 구속하는 것처럼 제한하는 면도 있지만, (위반이) 반복되면 저희도 보석에 대한 고민을 해야 하지 않나 한다. 경각심을 좀 가지라”고 지적했다.&lt;br&gt;&lt;br&gt;정 전 실장은 김만배(화천대유 대주주)씨 등을 대장동 개발 사업자로 선정해 주는 대가로 대장동 수익 중 428억원을 약정받고, 유동규(전 성남도개공 본부장)씨에겐 2억4000만원의 뇌물을 받았다는 혐의 등으로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;정 전 실장은 당초 이 대표보다 먼저 기소돼 재판을 받아왔다. 그러던 중 이 대표가 ‘대장동·백현동·성남FC’ 의혹 등으로 기소됐고, 법원은 두 사람의 재판을 병합해 함께 심리를 진행하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/TYL3XBNW6NHBXDTXC4EGVP2BBY.JPG?width=1743&amp;height=980&amp;auth=c5b12ec58fca7ee57a158de7f24802c608006b417714a9f4fbc1cdf6d409070e&amp;smart=true" type="image/jpeg" height="980" width="1743">
-        <media:description type="plain">(서울=뉴스1) 박지혜 기자 = 이재명 더불어민주당 대표의 최측근인 정진상 전 당대표 정무조정실장이 21일 오전 서울 서초구 서울중앙지법에서 열린 대장동 개발비리와 성남FC 불법후원 의혹 사건에 대한 공판에 출석하고 있다. 2024.5.21/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 박지혜 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>성심당 망고시루 뭐길래…“3만원 드릴게요” 줄서기 알바까지 등장</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/07/6GC42CASOZHCRFNSV46NJHSEFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/07/6GC42CASOZHCRFNSV46NJHSEFU/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Jun 2024 03:23:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FKV3ZVXPFBFP5NTXF4FBDLU6AA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;성심당에서 여름 한정 판매 케이크로 지난 4월 출시한 '망고시루'./성심당 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전의 명물로 꼽히는 유명 빵집 성심당에 대신 줄을 서 달라고 요청하는 아르바이트 구인 글이 올라와 화제다.&lt;br&gt;&lt;br&gt;지난 6일 오전 지역 커뮤니티 플랫폼 당근에는 ‘성심당 망고시루 줄 서주기 알바’라는 제목의 글이 올라왔다.&lt;br&gt;&lt;br&gt;글 작성자는 성심당에서 판매 중인 망고시루 구매를 위한 줄을 대신 서달라고 요청했다. 그는 “40분만 서 주시면 될 것 같다”며 3만원을 제안했다. 올해 최저시급은 9860원으로, 최저시급의 3배를 뛰어넘는 값이다.&lt;br&gt;&lt;br&gt;이 글은 게재된 뒤 1시간도 채 안 돼 알바 거래가 성사된 것으로 전해졌다. 게시글에 따르면 해당 구인 글은 거래 성사 전까지 1600여명이 조회했으며 6명이 작성자에게 접촉해 거래를 시도했다.&lt;br&gt;&lt;br&gt;망고시루는 성심당의 겨울 인기 메뉴인 ‘딸기 시루’의 후속작이다. 4단의 시트 사이사이와 케이크 위에 생망고가 듬뿍 들어가 있는 생크림 케이크로, 판매가격은 4만3000원이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L5DIYQWF5JDJTKRG7JMBLXPCA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지역 커뮤니티 플랫폼 당근에 올라온 성심당 '망고시루' 줄서기 아르바이트 구인글./온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 4월20일 출시 후 입소문을 타면서 오픈런을 하거나 1시간 가량 줄을 서야 살 수 있는 인기 메뉴가 됐다. 당초 1인당 2개까지 구매 가능했으나 현재는 1인당 1개만 구매할 수 있다.&lt;br&gt;&lt;br&gt;온라인상에서도 관련 반응이 뜨겁다. 유명 먹방 유튜버들도 앞다퉈 망고시루를 맛본 후기를 촬영해 올리고 있으며, 네티즌들은 망고시루 구매 꿀팁을 서로 공유해주기도 한다.&lt;br&gt;&lt;br&gt;중고거래 앱에서는 일찍이  정가에 2~3만원 가량의 웃돈을 얹어 파는 ‘리셀’ 망고시루 판매글도 등장했다. 그런가 하면 “망고시루 대리 구매 해드린다” “대신 줄서드리겠다” 등의 글도 다수 올라와있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UK7H2JOXRPTHU756ZNYKLKFWHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 대표 빵집으로 꼽히는 ‘성심당’ 대전역점. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 최근 성심당은 대전역 입점 수수료 문제를 두고 코레일유통과 입장 차이를 좁히지 못하고 있다.&lt;br&gt;&lt;br&gt;성심당은 지난 5년간 코레일유통에 월 약 1억원의 수수료를 납부해왔다. 코레일유통은 대전역 매장의 임차계약이 만료 후 새 임대 조건으로 월 4억4100만원의 수수료를 제시했으나, 성심당은 이를 받아들일 수 없다는 입장이다.&lt;br&gt;&lt;br&gt;성심당이 비싼 수수료로 인해 철수까지 고심하고 있는 것으로 알려지자 이장우 대전시장도 나서서 “성심당은 지금도 월세를 어마어마하게 주는데 그걸 감당할 수 있는 업체가 어디 있겠나”며 “코레일은 국정감사 지적에 따라 법에 정해진 매출액 17% 입점료를 적용하겠다는 것이지만, 지역 업체는 규정을 융통성 있게 완화하는 것이 맞다고 본다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“흉기로 때려 코뼈 부러뜨려”…만취 상태에 택시 기사 폭행한 남성 </title>
-      <link>https://www.chosun.com/national/national_general/2024/06/07/JZD2SYHF5FB2LD5SABDTCE63EU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/07/JZD2SYHF5FB2LD5SABDTCE63EU/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Jun 2024 00:06:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A6HKRBJJE5AWDL6AMABYHUEHZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 택시 기사인 아버지가 승객으로부터 폭행을 당했다며 공개한 사진./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 포항에서 택시 운전을 하던 70대 기사가 승객에게 폭행을 당해 코가 부러졌다는 주장이 제기됐다.&lt;br&gt;&lt;br&gt;지난 6일 한 온라인 커뮤니티에는 “포항 택시 기사 폭행 사건 택시 기사님 아들입니다”라는 제목의 글이 올라왔다.&lt;br&gt;&lt;br&gt;기사의 아들이라고 밝힌 작성자 A씨에 따르면 택시 기사 B씨는 지난달 31일 포항시 북구 항구동에서 한 승객을 태웠는데 이 승객이 B씨 옆자리에 앉으며 반말로 “흥해로 가자”라고 했다. 목적지에 다다르자 승객은 “손님한테 맞아 본 적 있냐”는 질문을 건넸고, B씨는 “그런 적 없다”며 도착했으니 요금을 지불해달라고 말했다고 한다.&lt;br&gt;&lt;br&gt;하지만 승객은 요금을 지불하지 않고 자는 척을 했고, 이런 승객의 행동에 B씨는 목적지에서 차를 움직여 파출소로 향했다. 그런데 갑자기 이 승객이 기어봉 쪽에 있는 돈 가방에 손을 대려고 했고, B씨는 이를 제지했다. 그러자 승객이 돈 가방을 운전석 쪽으로 던지며 운행을 방해했다고 한다.&lt;br&gt;&lt;br&gt;이후 폭행이 시작됐다는 게 A씨의 주장이다. A씨에 따르면 승객은 B씨의 귀를 잡아당겨 비틀고 주먹으로 얼굴을 가격했다. 또한 자동차 키 같은 날카로운 물건을 손에 쥐고 B씨 얼굴을 가격하고, 머리카락도 쥐어뜯는 등 폭행을 이어나갔다고 한다. B씨는 맞으며서도 2차 사고를 막기 위해 운전대를 놓지 않았다.&lt;br&gt;&lt;br&gt;B씨는 가까스로 아무도 없는 길가에 차를 주차한 후 경찰에 신고했다. 경찰이 도착하자 이 승객은 “손가락을 다쳤다”며 쌍방폭행을 주장했다고 한다.&lt;br&gt;&lt;br&gt;A씨가 공개한 사진을 보면 B씨 얼굴은 피범벅으로, 코와 눈가 주변 등에서 피가 흘러내리고 있었다. 또한 B씨가 입고 있던 파란색 셔츠와 베이지 색 바지도 핏자국이 물들어 있었다.&lt;br&gt;&lt;br&gt;A씨는 “아버지가 일방적으로 피해를 입었는데, 이게 어떻게 쌍방 폭행이 되는 사건인지 납득되지 않는다”며 “아버지는 손가락을 공격할 정신도 없었고, 폭행한 사실도 없다”고 했다. 이어 “블랙박스 영상만 보더라도 일방적인 폭행”이었다며 “지난 1일 아버지는 대구에서 봉합수술을 받았고 7일 코 골절 수술도 받을 예정”이라고 전했다.&lt;br&gt;&lt;br&gt;이 승객은 채널A와의 인터뷰에서 술에 취했던 건 맞다고 인정했다. 그는 “일방적으로 내가 (때린 건 아니다). B씨가 목적지를 제대로 가지 않아 실랑이를 벌인 것”이라며 자신도 폭행을 당했다고 주장했다. A씨는 “택시 기사가 자기가 말한 집을 제대로 못 찾아간다고 해서 폭행했다는 게 말이 되나. 아니 그렇다고 해도 사람을 저렇게 피투성이로 만들어도 되는 일인가”라며 분노했다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “진짜 욕 나온다. 아버님 얼마나 충격받으셨을까. 제대로 된 처벌 꼭 받기 바란다” “공론화될 수 있길 바란다” 피가 “거꾸로 솟는다. 힘내셔라” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>술값 시비로 지인 폭행, 선고 공판에도 안 나온 50대 ‘징역 2년’</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/07/3AMIKAKZGNBPRHQ6EEPXNY522Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/07/3AMIKAKZGNBPRHQ6EEPXNY522Y/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>술값 문제로 지인을 폭행한 것도 모자라 선고 공판에 불출석하는 등 재판에 불성실한 태도를 보인 50대가 결국 실형을 선고받았다.춘천지법 형사1단독 신동일 부장판사는 특수상해 등 혐의로 기소된 A(53)씨에게 징역 2년을 선고했다고 7일 밝혔다.</description>
-      <pubDate>Fri, 07 Jun 2024 02:54:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NYXQNH4XDWMROHTCKQ7N43XCLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술값 문제로 지인을 폭행한 혐의로 불구소 기소됐으나 선고 공판에 출석하지 않는 등 성실하게 재판을 받지 않은 50대가 실형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사1단독 신동일 부장판사는 특수상해 등 혐의로 기소된 A(53)씨에게 징역 2년을 선고했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2022년 10월 3일 강원 춘천시 한 주점에서 술값 문제로 다툼을 벌이던 지인 B씨의 머리를 볼펜으로 내리찍는 등 폭행한 혐의를 받고 있다. A씨는 이를 말리던 다른 손님 C씨에게도 폭행을 휘둘렀다.&lt;br&gt;&lt;br&gt;이 사건으로 A씨는 불구속 상태로 재판에 넘겨졌지만, 선고기일에 계속해서 출석하지 않는 등 불성실한 태도를 보였고 재판부는 공시송달 절차를 거쳐 A씨가 불출석한 상태에서 징역 2년의 실형을 내렸다.&lt;br&gt;&lt;br&gt;공시송달은 피고인 등이 서류를 받지 않고 재판에 불응할 때 관보에 내용을 게재한 뒤 그 내용이 전달된 것으로 간주하는 제도다.&lt;br&gt;&lt;br&gt;신 부장판사는 “특수상해의 수법이 위험하고 비난 가능성이 크다”면서 “재판 과정에서 도주한 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>폰 수리 기사가 몰래 사진첩 열람 후폭풍… ‘수리모드’ 검색량 폭증</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/07/N7JYPRIYL5H3BF4FPTFISLTFFI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/07/N7JYPRIYL5H3BF4FPTFISLTFFI/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Jun 2024 02:19:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DJT4IYTGCJDRNM7V7C7OGO7IHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공구로 분해된 스마트폰. 해당 사진은 기사와 관련 없음. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전자제품 서비스 기사가 젊은 여성 손님으로부터 수리를 의뢰받은 휴대전화를 무단으로 반출, 집에서 사진첩 등을 장시간 열람한 사건이 벌어지면서, 소비자 우려가 확산하고 있다. 특히 여성들 사이에서는 휴대전화에 저장된 각종 정보에 대한 수리 기사의 접근을 차단하는 ‘수리모드’에 대한 관심이 커지면서, 해당 키워드의 검색량이 폭증했다. 해당 회사는 고강도 대책 마련에 나섰다.&lt;br&gt;&lt;br&gt;최근 S전자 서비스 센터에서는 손님이 수리를 맡긴 휴대전화를 기사가 퇴근길에 들고 나가, 집에서 사진첩을 1시간 넘게 열람한 사건이 있었다고 KBS가 5일 밤 보도했다. 사진첩에는 다이어트 할 때 찍어 놓은 나체 사진 등이 있었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;그러자 소셜미디어 X(옛 트위터)와 더쿠 등 여성 중심 커뮤니티 사이트에서는 휴대전화의 ‘수리모드’에 관한 글이 잇달아 올라오고 있다.&lt;br&gt;&lt;br&gt;‘수리모드’란 기본으로 휴대전화 수리 등 다른 사람이 휴대전화를 사용하는 동안 개인정보를 보호하는 기능이다. 이 기능을 활성화하면 사진과 메시지 등 계정을 포함한 개인 데이터에 접근할 수 없게 된다.&lt;br&gt;&lt;br&gt;네이버 검색에서도 ‘수리모드’에 대한 관심은 나타난다.&lt;br&gt;&lt;br&gt;해당 키워드 검색량(상대값)은 최근 1개월간 0~3을 기록했지만, 첫 보도가 있었던 6월5일 24로 뛰어올랐고, 6일에는 100을 기록했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O5RVK2SC65DFRE2HPFPEWTLW2I.png"&gt;&lt;figcaption&gt;&lt;small&gt;네이버 '수리모드' 검색량 추이./네이버트렌드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여초 커뮤니티 여성시대와 더쿠 등에서는 ‘서비스센터 이용할 때 수리모드로 개인정보 보호’하라며 이 기능에 대한 설명이 잇달아 공유되고 있다.&lt;br&gt;&lt;br&gt;일각에선 서비스센터에서 수리모드 해제를 요구받은 일이 있었다는 불만 글이나, 액정이 깨지면 수리모드 설정 자체가 불가능하다는 불만 글도 올라왔다. “액정 교체할 때 수리모드 하니까 풀어달라던데...풀긴 했는데 찜찜했다” “수리모드 해 놓으면 수리 잘 됐는지 제대로 확인 못 한다고 풀라고 했었다” “두 번 수리 맡기러 갔었는데 그 때마다 수리모드 풀어달라고 했었다” 등이었다.&lt;br&gt;&lt;br&gt;외국 기업이라고 다르지 않다. 6년 전 A사 직영점에서 수리를 맡긴 적이 있다는 한 네티즌은 “수리 맡길 때 찜찜했다. 수리할 때 클라우드 아이디랑 비밀번호가 필요해서 알려줬는데, 나중에 보니까 직원들이 다 모여서 내 휴대전화가 연결된 컴퓨터를 보고 있어서 뭐지 싶었다”며 “나중에 보니 내 사진첩과 연락처 클라우드 연결을 안 했었는데 갑자기 다 연결돼 있어서 당황했었다”며 자신의 경험을 공유하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BOOOZB77ZJL4LL56QXPSNVILIA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해외에서도 비슷한 일이 있었다. 2021년 미국에서는 스마트폰 수리를 맡겼다가 그 안에 든 나체 사진과 성관계 영상 등이 수리 기사에 의해 온라인에 유출된 21세(당시 나이) 여성이 제조회사로부터 수백만달러(수십억원)의 합의금을 받았다. 정확한 합의 금액은 비밀 유지 조항 탓에 밝혀지지 않았으나, 피해 여성 측은 500만 달러(약 55억 5950만원)를 요구한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;S전자 서비스 측은 “이번 사안을 엄중하게 보고 있다”며 “고객이 맡긴 제품의 반출 통제부터 시작해서, 액정이 깨졌을 때 대처 방안 등 다양하고 강도높은 해결 방안 마련에 착수했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>박정희 떠올린 심수봉 “내게는 귀한 분…당하는 것 보고 제정신 아니었다”</title>
       <link>https://www.chosun.com/national/national_general/2024/06/07/4WZVA47CK5HELLOSDM7THLSS3A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/07/4WZVA47CK5HELLOSDM7THLSS3A/</guid>
@@ -969,15 +975,6 @@
       <description/>
       <pubDate>Fri, 07 Jun 2024 02:13:33 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TDIH7PGA2NEFFAUTYTBTSFECOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 심수봉이 10·26 사태 당시 사건 현장을 목도한 심경을 밝혔다. /tvN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10·26 사태 당시 사건 현장에 있었던 가수 심수봉이 고(故) 박전희 전 대통령을 떠올리며 “제게는 귀한 분”이라고 했다.&lt;br&gt;&lt;br&gt;심수봉은 지난 6일 방송된 tvN 스토리 ‘지금, 이 순간’에 출연해 10·26 사태 당시 사건과 관련 “그분이 그렇게 당하는 걸 보고 그때 제 정신이 아니었다”며 이 같이 말했다.&lt;br&gt;&lt;br&gt;심수봉은 박 전 대통령에 대해 “제 노래도 좋아해 주시고 따뜻하게 잘 해주셨으니 이것저것 떠나 저한테는 귀하게 생각이 되는 분이셨다”며 “특히 그런 자리에 제가 있어서 여러 가지 힘든 상황에 가기도 하고, 많이 슬픈 시간이었다”고 말했다.&lt;br&gt;&lt;br&gt;이 발언은 심수봉이 데뷔 후 큰 인기를 누리던 무렵 돌연 방송에서 4년간 자취를 감출 수 밖에 없었던 이유에 대해 털어놓던 중 나왔다.&lt;br&gt;&lt;br&gt;심수봉은 1978년 ‘제2회 MBC 대학가요제’에서 ‘그때 그 사람’을 발표해 인기를 누렸다. 최고의 인기를 누리던 1980년 심수봉은 세상에서 자취를 감췄다. 심수봉이 모습을 드러내지 않자 당시 사람들 사이에서 “그래서 심수봉은 살았대? 죽었대?”라는 말이 나올 정도였다.&lt;br&gt;&lt;br&gt;심수봉이 방송에 나올 수 없던 이유는 하나였다. 그가 1979년 10월26일 벌어진 박정희 전 대통령 암살 사건 현장을 목도한 인물이었다는 점이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SPK52VFYFBE7HGW6ZPA63Q6BLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10·26 사태 당시 사건 현장을 목도한 가수 심수봉이 박정희 전 대통령에 대해 떠올렸다. /tvN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사건 당시 심수봉은 대통령 만찬 자리에서 노래 공연을 하고 있었다. 심수봉이 노래를 부르던 와중 김재규 전 중앙정보부장이 박 전 대통령에게 총을 겨눴고, 심수봉은 박 전 대통령이 살해된 현장을 그대로 목격했다.&lt;br&gt;&lt;br&gt;1979년 12월 신군부 세력이 군사반란을 일으키자 사건 현장에 있던 심수봉은 수사를 받게 됐다. 심수봉은 무죄를 받았으나 이후 신군부 방침에 따라 방송에 나올 수 없게 됐다. 당시 신문 보도에 따르면 1980년 9월부터 ‘자율정화’를 이유로 물의를 일으키거나 혐오감을 심은 심수봉 등 연예인 20여명의 방송 출연이 4년간 금지 처분을 받았다.&lt;br&gt;&lt;br&gt;이후 심수봉은 1984년 ‘남자는 배 여자는 항구’로 복귀했다. 이 노래는 한달 인세로만 당시 돈 7000만원의 수익을 올리며 대성공을 거뒀다. 지금 가치로는 약 3억원 수준의 돈을 벌어들인 셈이다.&lt;br&gt;&lt;br&gt;심수봉은 “다시 활동할 수 있도록 해준 노래”라며 “제 음악을 좋아하는 분들이 없었다면 (4년간) 살아가기 힘들었을 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편 이날 심수봉은 히트곡 ‘그때 그 사람’의 주인공이 가수 나훈아라고 밝히기도 했다. 그는 “8년 여간 절절하게 나훈아를 짝사랑했다”며 데뷔 전 교통사고로 입원했던 당시 나훈아가 찾아와 병실에서 기타를 연주해준 일을 떠올렸다. 노래에 ‘외로운 병실에서 기타를 쳐주고’라는 대목도 그 일화를 바탕으로 쓴 가사라고 한다. 심수봉은 “웬 가수님이 병실에 오셔서 기타까지 쳐주면서 노래를 하나 (싶었고) 그래서 완전히 빠졌다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘쌍방울 불법 대북송금’ 이화영, 운명의 날…오늘 오후 1심 선고</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/07/QRLHJB3LAJEV3NWCPA3MTVDNXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/07/QRLHJB3LAJEV3NWCPA3MTVDNXY/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Jun 2024 01:53:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAXWHQT4QDXER4L6SBPG4TUOJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사. /경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쌍방울 그룹의 불법 대북 송금에 관여하고, 쌍방울로부터 수억원의 뇌물과 정치자금을 수수한 혐의 등으로 기소된 이화영 전 경기도 평화부지사에 대한 1심 선고가 7일 오후 나온다.&lt;br&gt;&lt;br&gt;지난 2022년 10월 14일 구속기소 된 지 약 1년 8개월 만, 일수로는 602일 만에 법원의 판단이 나오는 것이다. 대북송금 혐의와 관련한 이재명 더불어민주당 대표와의 연관성 여부에 대한 판단도 이뤄질 것으로 예상되면서 선고 결과에 관심이 집중된다.&lt;br&gt;&lt;br&gt;수원지법 형사11부(재판장 신진우)는 이날 오후 2시 이 전 부지사의 외국환거래법 위반, 특정범죄 가중처벌 등에 관한 법률상 뇌물, 정치자금법 위반, 증거인멸교사 등 혐의 사건 선고 공판을 진행한다.&lt;br&gt;&lt;br&gt;이 전 부지사는 이 대표가 경기도지사이던 2019년 도지사 방북 비용 300만달러와 북한 스마트팜 사업 비용 500만달러를 쌍방울이 대신 북한 측에 내게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;검찰은 이 전 부지사와 오랜 인연을 이어온 김성태 전 쌍방울 그룹 회장이 ‘경기도 대북사업 우선적 사업 기회 부여’ 등을 대가로, 이 전 부지사의 부탁을 받고 경기도를 대신해 800만 달러를 북한에 건넨 것으로 판단하고 기소했다.&lt;br&gt;&lt;br&gt;이 전 부지사는 또 쌍방울 측에서 법인 카드와 차량 등 법인카드 및 법인차량을 제공받고, 자신의 측근에게 허위 급여를 지급하도록 하는 등의 방식으로 모두 3억3400여만 원의 정치자금(뇌물은 2억5900여만원)을 받은 혐의도 있다. 검찰은 뇌물 및 정치자금 혐의에 대해선 법인카드 기록 등을 증거로 제시하며 유죄 입증에 자신감을 내비치고 있다.&lt;br&gt;&lt;br&gt;이날 선고의 관건은 대북 송금 혐의에 대한 판단이다. 특히 이 대표의 관여 여부가 쟁점이 될 전망이다. 이 전 부지사는 지난해 6월 검찰에 “쌍방울의 도지사 방북비 대납을 당시 이재명 지사에게 보고했다”는 취지로 여러 차례 진술한 것으로 알려졌다. 다만, 이 전 부지사는 이 같은 자신의 진술을 곧바로 번복하며 “검찰의 회유와 압박에 의한 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QQHD5Q3ONBAWZ4A7L7LUX5WZPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사가 2018년 7월 10일 당시 경기도지사로 재임하던 더불어민주당 이재명 대표로부터 임명장을 받고 있다. /경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 이 같은 진술을 바탕으로 이 대표를 대북송금 혐의 피의자로 전환했고, 이 대표는 수원지검에서 두 차례 출석해 소환 조사를 받았다. 검찰은 지난해 9월 이런 혐의 등에 대해 이 대표에 대한 구속영장을 청구했지만 법원은 기각했다. 이후 이 대표의 대북송금 혐의에 대한 수사는 잠시 멈춘 상태다.&lt;br&gt;&lt;br&gt;이날 재판부가 이 전 부지사의 대북송금 혐의를 유죄로 인정하게 되면, 검찰은 조만간 이 대표에 대한 수사를 마무리할 것으로 전망된다. 반대로 이 전 부지사가 대북송금 혐의와 관련해 무죄를 선고받거나, 이 대표에 대한 보고 여부에 대한 재판부 판단이 나오지 않으면 검찰은 민주당 등 정치권의 거센 반발에 직면할 것으로 보인다.&lt;br&gt;&lt;br&gt;한편, 검찰은 이 전 부지사에 대해선 징역 15년형과 벌금 10억원, 추징금 3억3400여만원을, 그와 함께 기소된 방용철 쌍방울 부회장에게는 징역 2년6개월을 구형했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
