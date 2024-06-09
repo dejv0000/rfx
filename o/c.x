@@ -13,6 +13,36 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>충북 영동 야산서도 北 오물풍선 발견…“위험물질은 없어”</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/06/09/ACEFLQJ4UNG6FI5WNI2YGCQZZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/06/09/ACEFLQJ4UNG6FI5WNI2YGCQZZA/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Jun 2024 09:29:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2IYEFBJYZZCUJEWVZZQFJCB7OM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오전 충북 영동군의 한 야산에서 대남 오물풍선이 발견됐다/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 영동의 야산에서도 북한이 날린 대남 오물풍선이 발견됐다.&lt;br&gt;&lt;br&gt;충북도 소방본부에 따르면 9일 오전 11시 54분쯤 “충북 영동군 황간면의 한 야산에 북한에서 온 것 같은 풍선이 매달려 있다”는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;현장에 출동한 경찰과 소방 당국은 신고장소에서 풍선을 확인해 군 당국에 인계했다.&lt;br&gt;&lt;br&gt;군 관계자는 “풍선 안에는 오물 외 특별한 위험물질은 없었다”고 밝혔다.&lt;br&gt;&lt;br&gt;충북에서는 이날 오후 6시 현재 1건의 오물풍선 신고가 접수됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>작년 778만명 방문... 에버랜드 제친 전국 관광지 1위는</title>
+      <link>https://www.chosun.com/national/regional/honam/2024/06/09/7KXPOBJZKFELBOKXSTTYEE3P4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/06/09/7KXPOBJZKFELBOKXSTTYEE3P4M/</guid>
+      <dc:creator>순천=조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Jun 2024 08:58:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJ3N2UGQQC7NYM7BGUL7XSREWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 기준 가장 많은 방문객이 입장해 전국 1위 관광지점이 된 순천만국가정원 모습./순천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 전국 주요 관광지점 중 전남 순천시 ‘순천만국가정원·순천만습지’에 가장 많은 사람이 방문한 것으로 나타났다.&lt;br&gt;&lt;br&gt;9일 문화체육관광부 한국문화관광연구원에 따르면 2023년 1년간 순천만국가정원·순천만습지 입장객 수는 778만명으로 확인됐다. 이는 작년 전국 2752개 주요 관광지점 입장객 수를 집계한 결과 1위였다. 2위에 오른 경기 용인 에버랜드(588만명)보다 190만명이 많았다.&lt;br&gt;&lt;br&gt;우리나라 첫 국가정원이 들어선 ‘순천만국가정원’과 세계 5대 연안습지인 ‘순천만습지’는 인접해 있어 단일 유료 입장권으로 방문이 가능한 곳이다. 이 때문에 같은 관광지점으로 통계가 잡힌다.&lt;br&gt;&lt;br&gt;순천만국가정원에 방문객이 폭증한 것은 순천시가 지난해 4~10월 국가정원 등에서 개최한 ‘2023 순천만 국제정원 박람회’ 영향이 컸다. 이 행사는 7개월만에 누적 방문객 980만명을 끌어모았다. 순천시 관계자는 “당시 오천그린관장 등 무료 행사장 방문객을 뺀 유료 방문객만을 통계에 반영했다”고 말했다.&lt;br&gt;&lt;br&gt;순천만국가정원은 5월간의 개조 작업을 거쳐 지난 4월 ‘우주인도 놀러오는 순천’이라는 주제로 재개장됐다.&lt;br&gt;&lt;br&gt;노관규 순천시장은 “순천에는 ‘순천만’과 ‘국가정원’이라는 훌륭한 생태 자원이 있다”며 “올해는 정원에 디지털 기술과 애니메이션, 우주를 결합했다”고 말했다.&lt;br&gt;&lt;br&gt;이밖에 3위 경기 고양 킨텍스(584만명)를 비롯해 서울 종로 경복궁(558만명), 서울 잠실 롯데월드(519만명), 서울 용산 국립중앙박물관(418만명) 순으로 방문객이 많았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/JAPNZNVVS4VELDB6MLGES6XYMI.jpg?width=1708&amp;height=960&amp;auth=bbcd177e9f3da8ff30e4d4a6c060c90faaf3b602f8d5a0b94935b554b460cb65&amp;smart=true" type="image/jpeg" height="960" width="1708">
+        <media:description type="plain">순천만국가정원 전경. 뉴스1 DB</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>공수처, ‘순직 해병’ 기록 회수 관여한 경북청 관계자 들여다본다</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/09/7VGKORVEPBCK7FGCIBOQ32VRVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/09/7VGKORVEPBCK7FGCIBOQ32VRVM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Jun 2024 08:55:27 +0000</pubDate>
+      <content:encoded>‘순직 해병 조사 무마 외압’ 의혹을 수사하는 고위공직자범죄수사처(공수처)가 작년 8월 해병대 수사단의 ‘채수근 상병 사망’ 사건 초기 조사 기록을 회수하는 과정에 관여한 의혹을 받는 경북경찰청 관계자들에 대한 고발 사건을 수사팀에 배당한 것으로 9일 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RNDVO6QVXR34HN3LLW7EYZ5EXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 공수처는 최근 외압 의혹을 수사 중인 수사4부(부장 이대환)에 최주원 전 경북경찰청장, 노규호 전 경북경찰청 수사부장에 대한 직권남용권리행사방해 혐의 고발 사건을 배당했다.&lt;br&gt;&lt;br&gt;앞서 군인권센터는 지난달 23일 최 전 청장과 노 전 부장이 작년 8월 조사 기록을 이첩할 당시 적법한 권한이 없는 국방부 검찰단에 기록을 인계하는 과정에 관여한 것은 위법하다는 취지의 고발장을 공수처에 낸 것으로 전해졌다. 공수처는 고발장을 접수한 뒤 관련 수사를 맡고 있는 수사4부에 배당한 것이다.&lt;br&gt;&lt;br&gt;공수처는 해병대 수사단이 경북경찰청에 이첩했던 사건 기록이 회수되는 과정의 사실관계를 규명하고 있는 것으로 전해졌다. 당시 이첩, 회수 및 재검토 과정의 사실관계를 규명하는 작업이라고 한다. 공수처는 재검토에 관여한 것으로 알려진 국방부 조사본부 관계자를 두 차례 소환하는 등 수사를 이어나가고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세]  6월 10일 월요일 (음력 5월 5일 乙巳)</title>
       <link>https://www.chosun.com/national/national_general/2024/06/09/MS6T7RXMLJHPDAIDLADJAJZTUM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/09/MS6T7RXMLJHPDAIDLADJAJZTUM/</guid>
@@ -893,33 +923,6 @@
       <description/>
       <pubDate>Fri, 07 Jun 2024 11:18:10 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TZIZBH3IZQULBA6PHDO27TOARU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 7일 오전 서울 서초구 서울중앙지법에서 열린 대장동 배임 및 성남FC 뇌물 관련 특정범죄가중처벌등에관한법률위반(뇌물) 등 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표는 측근 이화영 전 경기도 평화부지사의 ‘쌍방울그룹 대북송금 의혹’에 관한 1심 중형 선고 당시 법정에 있었다. 대장동·위례·성남FC·백현동 사건 1심 재판에 피고인으로 출석한 것이다. 그는 재판을 마친 뒤 이에 대해 별다른 입장을 밝히지 않고 떠났다.&lt;br&gt;&lt;br&gt;이 대표는 7일 서울중앙지법 형사33부(재판장 김동현) 심리로 열린 ‘대장동 개발 특혜 의혹’ 재판을 마치고 취재진 질문에 아무런 답도 하지 않고 자리를 떴다.&lt;br&gt;&lt;br&gt;이 대표는 이날 오후 6시 43분쯤 재판을 마치고 나왔다. 곧바로 지지자들에게 고개를 숙여 인사했다. 이후 취재진이 이 대표에게 ‘이 전 부지사의 선고를 어떻게 보나’ ‘방북 대가인 점이 인정됐는데 여전히 자신과 상의 없이 진행했다는 입장인가’ ‘검찰이 추가 수사를 이어가겠다는데 어떻게 생각하느냐’라고 물었지만 이 대표는 입을 열지 않았다.&lt;br&gt;&lt;br&gt;이날 이 대표의 재판은 오후 3시 25분쯤 잠시 휴정됐는데, 공교롭게도 이때는 수원지법 재판부가 이 전 부지사에게 징역 9년 6개월 중형을 선고한 직후였다.&lt;br&gt;&lt;br&gt;휴정 시간에 재판부와 검찰, 변호인 측은 법정을 빠져나갔지만, 이 대표는 법정에 남아 재판이 재개되기까지 20여분 동안 안경을 벗고 휴대전화를 눈앞까지 가져다 대고 손가락을 바삐 움직이며 무언가 검색해 읽는 모습을 보였다. 이를 두고 당시 속보로 전해지던 이 전 부지사의 선고 결과에 대한 언론 보도를 확인한 것 아니냐는 해석이 나왔다. 이 대표는 이후 재판이 재개되자 피고인석 의자에 기댄 채 5분 넘게 눈을 질끈 감기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R6IWLLVS33KGLBAWNT52LDEYVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 근무 시절의 이재명(왼쪽) 현 민주당 대표와 이화영 전 경기도 평화부지사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수원지법 형사11부(재판장 신진우)는 이날 오후 이 전 부지사의 뇌물 수수·정치자금법 위반, 외국환거래법 위반, 증거인멸교사 등의 사건에 대한 선고 공판을 열고 그에게 징역 9년6개월과 벌금 2억5000만원, 추징금 3억2595만원을 선고했다. 지난 2022년 10월 구속 기소 후 1년 8개월 만에 1심 판결이 나온 것이다.&lt;br&gt;&lt;br&gt;이 전 부지사는 2019년 1월∼2020년 1월 쌍방울에 경기도 대북사업 비용 500만 달러와 이 대표의 방북 비용 300만 달러를 대납하게 한 혐의(외국환거래법 위반)로 2022년 10월 구속 기소됐다. 검찰은 경기도 공문과 관련 증언 등을 근거로 당시 경기도지사를 지낸 이 대표가 대북사업에 대해서 별도로 이 전 부지사의 보고를 받아온 만큼 공모 관계가 성립한다고 보고 있다.&lt;br&gt;&lt;br&gt;이 사건을 수사하는 수원지검은 선고 뒤 “불법 대북송금에 관하여 오로지 증거와 법리에 따라 남은 수사와 재판을 통해 실체적 진실을 명확히 밝혀 엄정한 책임을 묻도록 하겠다”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>태국 파타야에서 한국인 살해... 20대 피의자 구속기소</title>
-      <link>https://www.chosun.com/national/regional/2024/06/07/MZV34QFPLNH4PCKXSZ2UHQWQPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/07/MZV34QFPLNH4PCKXSZ2UHQWQPA/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Jun 2024 09:45:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RXL33MQIE4ZRVSM5QKVVIEYL4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;태국 파타야에서 공범들과 한국 관광객을 납치 살해한 뒤 시신을 유기한 혐의를 받는 20대 피의자 A씨가 지난 5월 15일 오후 경남 창원 성산구 창원지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 7일 지난달 국내에서 붙잡힌 ‘태국 파타야 살인사건’의 20대 피의자를 강도살인죄와 시체은닉죄로 구속기소했다.&lt;br&gt;&lt;br&gt;창원지검 태국 파타야 살인사건 전담수사팀(부장 강호준)은 태국 파타야에서 30대 한국인 남성을 살해한 뒤 플라스틱 드럼통에 넣어 호수에 유기한 혐의를 받는 한국인 피의자 3명 중 가장 먼저 붙잡힌 A(24)씨를 구속기소했다고 이날 밝혔다.&lt;br&gt;&lt;br&gt;강도살인죄와 시체은닉죄는 법정 최저형이 무기징역으로 사형까지 선고될 수 있다.&lt;br&gt;&lt;br&gt;A씨는 공범인 B(27)씨, C(39)씨와 함께 관광 목적으로 태국에 입국한 피해자 D(34)씨를 납치해 살해한 후 사체를 유기한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 지난 5월 7일 D씨의 어머니에게 “아들이 마약을 물속에 버려 피해를 입었다. 8일 오전 8시까지 300만바트(약 1억1200만원)를 가져오지 않으면 살해하겠다”는 협박 전화를 걸었고, 신고를 받고 출동한 현지 경찰은 5월11일 파타야의 한 저수지에서 드럼통에 든 D씨의 시신을 발견했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “이 사건은 외국에서 관광객의 금품을 노리고 피해자에게 접근해 살해한 후 시체를 유기한 중대 강력사건”이라며 “도주했거나 타국에 구금 중인 공범들에 대한 검거와 송환을 위해 필요한 절차를 신속하게 밟고 있다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “다수의 참고인 조사와 사건 관계인의 계좌, 결제내역 분석 등 보완 수사를 통해 범행 동기와 경위 등 사안의 진상을 규명했다”며 “공범 검거와 송환 절차를 신속히 진행해 공범 모두 엄정한 처벌을 받도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 A씨는 지난 5월 12일 오후 7시 46분쯤 전북 정읍 거주지에서 경찰에 긴급 체포됐다. B씨는 같은 달 14일 캄보디아에서 붙잡혔다. C씨는 미얀마로 도주한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;지난달 15일 법원 구속 전 영장실질심사에 출석한 A씨는 법원에서 취재 중이던 기자들에 “내가 죽인 게 아니다. 아무것도 몰랐다”며 혐의를 부인했다．&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>밀양 성폭행 가해자 신상 공개 유튜버 피소…명예훼손 혐의</title>
-      <link>https://www.chosun.com/national/regional/2024/06/07/D5A7XGLZJ5GMFODVT4GSEESW5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/07/D5A7XGLZJ5GMFODVT4GSEESW5A/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Jun 2024 09:37:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7264BDXVTYK5S52EFED4W4IBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20년 전 경남 밀양에서 발생한 여중생 집단 성폭행 사건의 가해자와 관련 인물의 신상을 온라인상에 공개한 유튜버가 영상 관련자들에게 명예훼손 혐의로 고소당했다.&lt;br&gt;&lt;br&gt;경남 김해 중부경찰서와 밀양경찰서에 따르면 7일 오후 2시 기준 ‘밀양 성폭행 사건’ 가해자 신상을 공개한 유튜브 영상들과 관련해 명예훼손 혐의로 고소 2건·진정 3건이 접수됐다.&lt;br&gt;&lt;br&gt;고소 2건은 김해 중부경찰서에, 진정 3건은 밀양경찰서에 각각 접수됐다.&lt;br&gt;&lt;br&gt;고소인들은 한 유튜브 채널이 당사자 동의 없이 무단으로 개인 신상을 공개해 명예가 훼손됐다는 취지로 고소장을 냈다. 고소인 중에는 가해자로 지목돼 직장에서 해고된 남성과 가해자 여자친구라고 잘못 알려진 여성 등이 포함한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “유튜브 채널이 당사자들 동의 없이 무단으로 개인 신상을 공개한 것을 두고 고소장 등이 접수된 것은 맞다”며 “아직 본격적인 수사 단계는 아니다”고 말했다.&lt;br&gt;&lt;br&gt;밀양 여중생 집단 성폭행 사건은 지난 2004년 밀양에 살던 한 여중생이 남성 44명에게 성폭행 등을 당한 사건이다. 당시 수사 과정에서 피해자와 별거 상태였던 친부가 합의하면서 경찰이 기소한 44명 중 13명이 공소권 없음으로 풀려나 국민적 공분이 일었다.&lt;br&gt;&lt;br&gt;이번에 고소당한 유튜버의 채널은 이들 가해자 일부의 이름과 얼굴, 직장 등이 구체적으로 담긴 신상 공개 영상을 연이어 올렸다. 신상 공개 영상의 조회수는 합쳐서 370만회를 넘고 응원 댓글도 3만개 넘게 달렸다.&lt;br&gt;&lt;br&gt;가해자 신상을 최초 공개한 유튜브 채널이 수백만 건의 조회수를 올리자, 다른 유튜버들도 가해자들 신상을 공개하고 있다. 이러한 신상 공개 영상은 형법상 명예훼손, 정보통신망법, 개인정보 보호법 위반 등의 혐의로 처벌받을 수도 있어 주의가 필요하다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LS3L7OEJVKZE5XEYIPQF6ZPGZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 밀양시 한 공공기관 홈페이지에 네티즌들이 쓴 글. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 이 사건과 관련해 밀양시청 홈페이지에도 밀양시를 비판하는 글이 잇따라 게재돼 밀양시가 속을 끓이고 있다.&lt;br&gt;&lt;br&gt;페이스북과 인스타그램 등 밀양시 사회관계망서비스(SNS) 게시물에도 ‘이제 밀양에 가지 말아야겠다’라거나 ‘믿고 거르는 도시’라는 등의 댓글이 수백개씩 달렸다.&lt;br&gt;&lt;br&gt;특히 7일 한 유튜브 채널에서 가해자 중 한 명이 밀양시 한 공공기관에 근무한다고 공개하면서 가해자 인사 조처와 관련한 글들이 쏟아졌다.&lt;br&gt;&lt;br&gt;이에 시는 이날 부시장 주재로 회의를 열고 대책 방안을 논의했지만, 뾰족한 수는 없는 실정이다.&lt;br&gt;&lt;br&gt;밀양시 관계자는 “유튜브 채널은 언론이 아니니 언론중재위원회에 문제를 제기할 수 없고 피해는 있지만 피해가 불분명해 고발하기도 애매하다”며 “민원인들 심정은 충분히 이해하지만 시 입장에서도 마땅한 방안이 없으니 답답하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>퇴직 후 재취업 약속받고 태양광 사업 비리 저지른 前 태안군 공무원 구속 기소</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/07/ZOJXSHLBJRBJ7LJC6XMSRMP6LA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/07/ZOJXSHLBJRBJ7LJC6XMSRMP6LA/</guid>
-      <dc:creator>강우석 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Jun 2024 09:36:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JRLNPMYWCSQA5YZM6JE4PWYJPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울북부지검 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;퇴직 후 재취업과 딸의 로펌 연수 등을 약속받고 태양광 발전사업에서 사업자에게 각종 편의를 봐준 전직 공무원이 구속상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울북부지검 국가재정범죄 합동수사단(단장 이일규)은 前 충남 태안군 소속 공무원 A씨를 뇌물수수 등 혐의로 구속기소했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 A씨는 태안군 태양광 발전사업 실무를 총괄하며 사업자 B씨에게 각종 편의를 제공해주는 대가로 퇴직 후 B씨가 운영하는 회사에 취업해 연봉 5500만원 및 차량과 법인카드를 제공 받기로 약속했다.&lt;br&gt;&lt;br&gt;또한 검찰은 A씨가 B씨에게 변호사시험에 합격한 딸의 로펌 연수를 요구하며, 연수기간 로펌에서 지급해야 하는 급여를 B씨가 로펌에 대신 지급한 사실을 확인해 뇌물수수 혐의를 적용했다.&lt;br&gt;&lt;br&gt;A씨는 당시 태안군수와 담당 공무원 등이 자연훼손 등을 이유로 태양광 사업에 반대했음에도 B씨에게 자신의 취업을 먼저 제안하고 부하 공무원에게 태양광 사업을 적극 지원하도록 지시한 것으로 알려졌다. 이 과정에서 B씨와 군수의 만남을 주선하거나 B씨에게 유리한 법령해석을 후배 공무원에게 지시하기도 했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “향후 태안군 태양광 사업 비리와 관련해 엄정하게 수사를 진행할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘ㅆㅂ’...이화영 유죄 선고에 김광민 변호사가 페이스북에 남긴 글자의 뜻은?</title>
