@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>꽃 한 송이 예뻐서 꺾었다가… 절도범된 80대 치매 할머니</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/12/7PFFPCNDKJHGHLGRJ5Z5DEPXAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/12/7PFFPCNDKJHGHLGRJ5Z5DEPXAQ/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Jun 2024 03:44:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LZ6NCTXDHFJKRBEUKIZQ4SYMPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4월 15일 오전 인천시청 앞 화단에 개양귀비꽃이 빗방울을 머금고 있다. 기사와 관련 없음. /뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;80대 치매 노인이 거주하고 있는 아파트 화단 꽃을 꺾었다가 검찰 수사를 받게 됐다.&lt;br&gt;&lt;br&gt;12일 뉴스1 등에 따르면,  대구 수성경찰서는 이날 아파트 화단에 핀 꽃을 꺾은 혐의(절도)로 80대 입주민 A씨 등 3명을 검찰에 송치했다.&lt;br&gt;&lt;br&gt;대구 수성구의 한 아파트에서 10년 넘게 거주해온 A씨는 지난 4월 아파트 화단에 핀 노란색 꽃 한 송이를 꺾은 혐의를 받는다.&lt;br&gt;&lt;br&gt;꽃이 없어진 사실을 알게 된 아파트 관리사무소는 경찰에 신고했다. 경찰은 CCTV를 통해  A씨를 비롯해 입주민이 아닌 70대 B씨와 80대 C씨 등 3명을 용의자로 특정했다.&lt;br&gt;&lt;br&gt;A씨는 당뇨와 치매 초기 증상을 겪고 있으며, 경찰에 “꽃이 예뻐서 꺾었다”고 진술한 것으로 전해진다.&lt;br&gt;&lt;br&gt;이 과정에서 관리사무소 측은 A씨 가족에게 KTX 무임승차 시 30배에 이르는 벌금을 부과하는 규정 등을 언급하며 합의금 명목으로 35만원을 요구했다고 한다. A씨 가족은 사과와 함께 관리사무소에 돈을 전달해 합의했고, B씨 등 2명은 합의하지 못한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;다만 절도 사건의 경우 피해자가 처벌을 원하지 않는다는 의사를 표시하면 처벌 할 수 없는 반의사불벌죄에 해당하지 않아, A씨 등은 합의 여부와 상관없이 검찰로 넘겨졌다.  &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 검찰, 이재명 ‘불법 대북송금’ 혐의 기소...제3자 뇌물죄 등 적용</title>
       <link>https://www.chosun.com/national/court_law/2024/06/12/WZDB2CPL55C5PE4ZJRYYSPGVMU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/12/WZDB2CPL55C5PE4ZJRYYSPGVMU/</guid>
@@ -878,15 +887,6 @@
       <description/>
       <pubDate>Tue, 11 Jun 2024 06:46:29 +0000</pubDate>
       <content:encoded>새벽에 서울 강남 일대에서 만취한 상태로 운전대를 잡은 뒤 오토바이 배달 기사를 치어 숨지게 한 20대 클럽 DJ 안모씨에게 검찰이 1심에서 징역 15년을 구형했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TRWPNMUNONL3PAZZVBUCTZ3MHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남 한복판에서 만취한 채 차를 몰다 사망사고를 낸 20대 여성 안모씨가 지난 2월 서울 서초구 서울중앙지법에서 열린 특정범죄 가중처벌 등에 관한 법률 위반(위험운전치사) 혐의에 대한 영장실질심사에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사25단독 김지영 판사 심리로 11일 열린 안씨의 특정범죄가중처벌법상 위험운전치사·도주치상, 도로교통법상 사고후미조치·음주운전 혐의 사건 결심 공판에서 검찰은 안씨에게 징역 15년을 선고해달라고 재판부에 요청했다. 검찰은 “피해복구가 이뤄지지 않았고, 수많은 국민의 엄벌 탄원이 있었다”며 “죄질이 무거워 반드시 엄중한 책임을 물어야 한다”고 했다.&lt;br&gt;&lt;br&gt;안씨는 “파티에서 주는 술을 거절하지 못해 주량을 넘어 술을 마셨고, 절대 해서는 안 되는 행동을 했다”며 “생명을 잃은 피해자께 진심으로 무릎 꿇고 사죄드린다. 고통을 감내하고 계실 유가족분들께도 죽을죄를 지었다. 잘못을 깊이 반성하며 같은 실수를 반복하지 않고, 낮은 곳에서 봉사를 통해 세상을 배워나가겠다”고 선처를 호소했다.&lt;br&gt;&lt;br&gt;한국과 중국을 오간 DJ였던 안씨는 지난 2월 3일 새벽 4시 35분쯤 서울 강남구 논현동에서 술을 마시고 자신의 벤츠 차량을 몰다 앞서 주행하던 오토바이를 뒤에서 들이받았다. 그 상태로 100m가량 더 이동한 뒤 멈췄다. 이 사고로 50대 배달 기사가 숨졌다. &lt;br&gt;&lt;br&gt;특히 안씨는 사고를 내기 이전엔 또 다른 교통사고를 내고 도주하다가 이와 같은 음주운전 사망사고를 낸 것으로 조사됐다. 당시 안씨의 혈중알코올농도는 0.221%로 면허 취소 수준이었는데, 안씨는 사고 이후 자신의 애완견을 끌어안은 채 피해자에 대한 구호 조치를 제대로 하지 않은 것으로 전해져 논란이 일기도 했다. &lt;br&gt;&lt;br&gt;안씨에 대한 선고기일은 다음 달 9일로 잡혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>여고생과 부적절 교제, 40대 체육교사 직위해제</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/11/7GS4GATI2RCNNEJ7XJEKVDFLOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/11/7GS4GATI2RCNNEJ7XJEKVDFLOE/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 11 Jun 2024 05:31:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBZHC4XHT4RPO2ULSADLQWWOLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전교육청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 한 고등학교의 40대 체육 교사가 여고생인 제자와 부적절한 교제를 한 것으로 밝혀져 시교육청이 조사에 나섰다.&lt;br&gt;&lt;br&gt;11일 대전시교육청 등에 따르면 40대 남성 체육 교사인 A교사는 최근까지 제자인 B양과 교제해오다 적발됐다. 이런 부적절한 교제는 학교 측이 B양과 상담하는 과정에서 알려졌다.&lt;br&gt;&lt;br&gt;학교 측은 이를 시교육청에 보고하고 경찰에도 신고했다. A교사는 현재 직위 해제된 상태다.&lt;br&gt;&lt;br&gt;B양은 현재 극심한 심리 불안을 겪고 있는 것으로 전해졌다. 시교육청과 학교 측은 외부 상담·치유기관과도 연계해 B양을 지원할 예정이다.&lt;br&gt;&lt;br&gt;시교육청 관계자는 조선닷컴과의 통화에서 “현재까지 A교사와 B양이 교제하는 과정에서 강제력이 동원된 정황은 발견되지 않았다. B양도 A교사의 처벌을 원치 않고 있는 상황”이라면서도 “교사가 미성년자인 제자와 부적절한 관계를 가진 것이기 때문에 엄중히 조치할 방침”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“밤에 와봐라 차 댈 곳 있나”…주차진상 분노의 글, 공감 받은 이유</title>
