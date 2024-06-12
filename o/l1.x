@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>檢, 쌍방울 대북송금 이재명 '제3자 뇌물' 혐의 추가 기소</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/LJM2_Y.jpg" alt="LJM2_Y.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;이재명 더불어민주당 대표가 쌍방울그룹의 불법 대북송금 의혹과 관련해 제3자 뇌물수수 혐의 등으로 재판에 넘겨졌다. 법원이 이화영 전 경기도 평화부지사의 대북 송금 혐의에 유죄를 선고한 지 5일 만이다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;수원지검 형사6부&lt;/b&gt;(&lt;span style="font-weight: bold;" class="lawmanlink" serial="13338"&gt;서현욱&lt;/span&gt;&amp;nbsp;부장검사)는 12일 이 대표를 특정범죄가중처벌법상 뇌물, 남북교류협력법위반, 외국환거래법위반 혐의 등으로 기소했다고 밝혔다. 이화영 전 부지사는 특정범죄가중처벌법상 뇌물 혐의로, 김성태 전 쌍방울그룹 회장은 뇌물공여 혐의로 추가 기소됐다.&lt;br /&gt;&lt;br /&gt;검찰은 이재명 대표가 이 전 부지사와 공모해 △북한 황해도 스마트팜 지원 명목으로 미화 500만 달러를, △경기도지사 시절 방북 의전비용 명목으로 미화 300만 달러를 김성태 회장이 대납하도록 하고, 대북송금을 했다고 봤다.&lt;br /&gt;&lt;br /&gt;이재명 대표는 2018년 10월 대북제재 상황에서 북한 측의 '황해도 스마트팜 지원'이 불가능한데도, 이행을 약속한 뒤 북한 측으로부터 이행을 독촉받자, 김성태 전 회장에게 쌍방울그룹의 대북사업에 대한 경기도의 지원과 보증'을 약속하며 2019년 1~4월 동 총 500만 달러를 북한에 대납하도록 한 혐의를 받는다. 통일부장관 승인 없이 북한 황해도 스마트팜 지원 협력사업을 시행한 혐의도 있다.&lt;br /&gt;&lt;br /&gt;이 대표는 김 전 회장의 500만 달러 대납 이후 2019년 5월 북한 측에 경기도지사 방북 초청을 요청하고, 북한 측으로부터 방북 의전비용을 추가 요구받자 다시 김 전 회장에게 같은 해 7월부터 이듬해 1월까지 300만 달러를 북한에 대납하도록 한 혐의도 받는다.&lt;br /&gt;&lt;br /&gt;앞서 7일 수원지법은 이 전 부지사에게 불법 대북송금 관련 1심 재판에서 징역 9년 6개월을 선고했다. 검찰은 "이를 통해 경기도와 쌍방울그룹이 결탁한 불법 대북송금의 실체가 확인됐다"며 "1심 판결문을 정밀 분석해 이재명 대표와 이화영 부지사를 특가법위반(뇌물) 등 혐의로, 쌍방울그룹 실사주를 뇌물공여 등 혐의로 기소했다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;이 대표는 이미 기소된 사건을 비롯해 7개 사건에서 11개 혐의로 재판을 받게 됐다. 이 대표는 이미 대장동·백현동·위례신도시 개발비리, 성남FC 불법 후원금 사건, 위증교사, 공직선거법상 허위사실공표 혐의 등으로 재판이 진행 중이다.</description>
+			<pubDate>Wed, 12 Jun 2024 03:21:51 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/199017</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199017</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/LJM2_Y.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] "막걸리 상표에서 '영탁' 떼라"… 가수 영탁, 막걸리 상표권 분쟁 최종 승소</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/199012.jpg" alt="199012.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;'영탁 막걸리'라는 상품표지를 두고 막걸리 제조사와 법적 분쟁을 벌여온 가수 영탁(본명 박영탁) 씨가 대법원에서 일부승소를 확정받았다.&lt;p&gt;&lt;br /&gt;대법원은 11일 박 씨가 예천양조를 상대로 낸 상품표지사용금지 등 청구 소송(&lt;b&gt;2024다228920&lt;/b&gt;) 상고심에서 예천양조 측의 상고이유서 부제출로 상고를 기각하고 원고일부승소한 원심을 확정했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;민사소송법 제427조에서는 상고인이 상고장에 상고이유를 적지 않은 때에는 소송기록접수 통지를 받은 날로부터 20일 이내에 상고이유서를 제출해야 한다고 규정하고 있다. 같은 법 제429조에서는 상고이유서를 제출하지 않은 때에는 변론 없이 판결로 상고를 기각해야 한다고 규정한다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;예천양조는 2020년 1월 '영탁'이라는 막걸리 상표를 출원하고 같은 해 4월 영탁 측과 1년간 모델계약을 맺었다. 이후 예천양조는 2020년 5월 '영탁막걸리'를 출시했다. 하지만 2021년 6월 예천양조와 영탁 측은 광고모델 재계약 협상이 결렬되며 갈등이 불거졌고, 영탁 측은 "계약이 종료됐는데도 예천양조 측이 막걸리 제품에 '영탁'이라는 상표를 사용한다"며 2021년 9월 소송을 냈다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;1심은 "예천양조가 '영탁'이라는 표지를 막걸리 제품이나 광고 등에 사용함으로써 일반수요자나 거래자가 박 씨와 예천양조 사이에 밀접한 관계가 있다고 혼동하게 했다고 보는게 타당하다"며 박 씨의 손을 들어줬다. 1심은 예천양조가 '영탁'이라는 표지가 표시된 막걸리 제품을 생산, 양도, 대여, 수입 등을 해선 안 되고 이미 제조한 막걸리 제품에서도 해당 표지를 제거하라고 명령했다. 다만 제3자가 점유 중인 막걸리 제품에 대한 폐기 청구는 받아들이지 않았다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;항소심도 같은 취지의 판결을 유지했다. 이후 예천양조 측은 상고했으나 상고이유서를 제출하지 않아 대법원에서 기각됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Wed, 12 Jun 2024 01:29:46 -0000</pubDate>
@@ -231,16 +241,6 @@
 			<link>https://www.lawtimes.co.kr/news/198996</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198996</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/198996_1.jpg</media:thumbnail>
-			<dc:creator>안현 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 대륜, "의료분쟁 강화한다"... 판사 출신 오경록 변호사 영입</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/198990.jpg" alt="198990.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.daeryunlaw.com/" target="_blank"&gt;&lt;b&gt;법무법인 대륜&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="37342"&gt;정찬우&lt;/span&gt;)이 판사 출신&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1746"&gt;오경록&lt;/span&gt;&amp;nbsp;변호사(54·사법연수원 28기)를 영입했다고 지난 10일 밝혔다.&lt;br /&gt;&lt;br /&gt;오경록 변호사는 1996년 제38회 사법시험에 합격하고 2002년 울산지방법원 판사로 임관한 뒤 수원지법 여주지원, 서울중앙지법을 거쳐 서울동부지법 판사를 역임했다. &lt;br /&gt;&lt;br /&gt;서울중앙지법·서울동부지법에서는 의료 및 부동산 사건을 전담했다. 이후 법무법인 세한, 에이프로 등에서 의료법에 관한 지식과 재판 경험을 토대로 의료분쟁 사건을 주로 맡았다.&lt;br /&gt;&lt;br /&gt;오 변호사는 "판사로 재직하며 다양한 분야의 사건을 맡아왔다”며 “앞으로 대륜에서 의료소송과 관련해 최적의 대응 해법을 찾아 제시하고 의뢰인에게 적합한 법률서비스를 제공하기 위해 최선을 다하겠다”고 말했다.</description>
-			<pubDate>Tue, 11 Jun 2024 06:25:43 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/198990</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/198990</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/198990.jpg</media:thumbnail>
 			<dc:creator>안현 기자</dc:creator>
 		</item>
 	</channel>
