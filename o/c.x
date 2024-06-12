@@ -13,6 +13,80 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“저금리 대출로 갈아탈 수 있게 해주겠다”…십수억원 가로챈 20대 구속</title>
+      <link>https://www.chosun.com/national/regional/2024/06/12/HVTBDEOW6VCHVDYSYF2OPWDYMM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/12/HVTBDEOW6VCHVDYSYF2OPWDYMM/</guid>
+      <dc:creator>김천=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Jun 2024 09:16:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HLIVMASL3NAFHEOQ76PNGHZFYQ.webp"&gt;&lt;figcaption&gt;&lt;small&gt;검찰로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소상공인 등에게 접근해 더 싼 이자로 대출을 갈아탈 수 있게 해주겠다고 속여 십수억원을 가로챈 20대가 구속기소됐다.&lt;br&gt;&lt;br&gt;대구지검 김천지청은 사기혐의로 A씨를 구속기소했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;대부업체에서 일했던 A씨는 기존 대출자 명단을 확보해 새로운 대부업체를 차렸다. 이후 지난 2022년 7월부터 지난 2월까지 대출자 명단에 있던 18명에게 전화해 “기존 대출금 및 대출 진행비를 입금하면 저금리 대환 대출을 해 주겠다”고 속여 12억2000만 원을 받아 가로챈 혐의로 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 기존 일했던 대부업체가 한국대부금융협회에 등록돼 있다는 점을 강조하며 피해자들을 안심시켰고, 피해자들이 1·2금융권의 대출을 받기 어려운 상황인 점 등을 노린 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 가로챈 돈을 자신의 빚을 갚거나 불법 사설 도박 등에 쓴 것으로 드러났다. 또 피해자들에게 “구속되면 돈을 안 갚을 테니 구속되지 않게 합의서를 써 달라”고 요구하기도 했다고 검찰은 밝혔다. &lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원, ‘우크라전 징집 거부’ 러시아인 난민 첫 인정… “일관되게 전쟁 반대”</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/12/KFKRUHRAWFER5KWFXM6IY6R2II/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/12/KFKRUHRAWFER5KWFXM6IY6R2II/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Jun 2024 08:34:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PN2FKJA7XJHIVLOA2K6VUFQYEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울가정법원·서울행정법원 청사./전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우크라이나 전쟁 징집을 거부해 한국에 들어온 러시아인의 난민 지위를 처음으로 인정하는 법원 판결이 나왔다.&lt;br&gt;&lt;br&gt;서울행정법원 행정6단독 윤성진 판사는 지난달 22일 러시아인 A씨가 서울출입국·외국인청장을 상대로 제기한 난민불인정결정취소 소송에서 원고 승소로 판결했다.&lt;br&gt;&lt;br&gt;A씨는 2022년 2월 러시아가 우크라이나를 침공하자 전쟁을 반대하는 글을 소셜미디어에 올리고 전쟁 반대 시위에 참여했다. 이후 강제 징집 통보를 받은 A씨는 같은 해 11월 러시아를 떠나 한국에 입국했다.&lt;br&gt;&lt;br&gt;A씨는 작년 1월 “평소 반대했던 전쟁에 징집되는 것을 피하기 위해 러시아에서 탈출했고, 다시 러시아로 돌아가면 처벌받을 수 있다”는 취지로 서울출입국에 난민 인정 신청을 했다. 하지만 출입국 당국은 “박해를 받게 될 것이라는 충분히 근거 있는 공포에 해당하지 않는다”며 난민 불인정 결정을 내렸다. A씨는 이에 불복해 작년 4월 행정 소송을 제기했다.&lt;br&gt;&lt;br&gt;소송의 쟁점은 A씨가 실제 러시아-우크라이나 전쟁에 반대하는 정치적 동기에 따라 징집을 거부한 것인지, 징집 거부에 따라 러시아에서 장기 구금돼 박해받을 우려가 있는지 등이었다.&lt;br&gt;&lt;br&gt;재판부는 A씨의 징집 거부를 ‘정치적 견해 표명’으로 판단했다. 재판부는 “A씨는 일관되게 전쟁 반대하는 글을 소셜미디어에 게시하거나 다른 사람 게시물에 댓글을 달았고, 우크라이나 전쟁 반대 시위에도 참석했다고 진술하고 있다”며 “전쟁 반대 의견을 적극적으로 개진하고 외부적으로 표시해왔다는 주장은 일관되고 설득력이 있다”고 설명했다. 이어 “징집 거부로 인해 본국에서 박해받을 수 있다는 공포가 있다고 인정된다”고 밝혔다.&lt;br&gt;&lt;br&gt;또 “러시아가 탈영하거나 전투를 거부한 병사에게 최대 10년까지 구금할 수 있도록 처벌을 강화하는 법안을 통과시켰고, 러시아군 당국이 전장에서 탈영한 병사를 살해했다”는 일부 언론 보도를 근거로 A씨가 러시아에서 박해를 받을 수 있다는 점도 인정했다.&lt;br&gt;&lt;br&gt;난민법과 난민협약 등에 따르면 인종·종교·국적 등 사회적 신분이나 정치적 견해를 이유로 박해를 받을 수 있다는 충분한 근거가 있는 경우 난민으로 인정될 수 있다. 대법원 판례는 단순히 강제 징집을 거부했다는 것만으로는 박해의 원인이 될 수 없지만, 징집 거부가 정치적 의견을 표명한 것으로 평가되는 경우에는 박해의 원인으로 인정될 수 있다고 본다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘부산원아시아페스티벌’ 온라인 관람 100만명 넘었다</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/06/12/ERMIXZ7IS5GJFFF6LG4RVMHBBE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/06/12/ERMIXZ7IS5GJFFF6LG4RVMHBBE/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Jun 2024 08:28:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YJW4IEW44FDHBMJ4MUPC6BUQHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8일 부산 연제구 부산아시아드주경기장에서 열린 '2024 부산원아시아페스티벌 빅콘서트' 현장./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 8~9일 이틀간 열린 ‘2024 부산원아시아페스티벌(BOF)’ 공연을 전 세계 100만명이 넘는 관객이 온오프라인으로 즐긴 것으로 집계됐다.&lt;br&gt;&lt;br&gt;부산시는 “올해 축제에는 179개국 110만명에 이르는 관람객들이 온오프라인으로 참여했다”고 12일 밝혔다. 지오디·빌리 등 케이팝(K-POP)을 이끄는 1세대부터 5세대 주역 9팀이 출연한 지난 8일 ‘빅(Big) 콘서트’에는 글로벌 한류팬 107만여명이 온오프라인으로 공연을 감상했다.&lt;br&gt;&lt;br&gt;오프라인 현장인 부산 연제구 거제동 부산아시아드주경기장에는 비가 내리는 궂은 날씨에도 형형색색 비옷을 입은 2만2000여명의 국내외 관람객이 참석했다. 이 공연을 실시간 중계한 엔터테인먼트사 하이브의 ‘위버스 라이브 스트리밍’을 통해선 179개국에서 105만명의 팬이 축제를 즐겼다.&lt;br&gt;&lt;br&gt;시 측은 “그 전엔 유튜브 등을 통해 중계했을 때 행사 당일 10만~50만명이 관람했으나 이번엔 105만명이 접속해 공연을 본 것으로 집계됐다”며 “온라인 관람객 수로 사상 최대”라고 말했다.&lt;br&gt;&lt;br&gt;9일 화명생태공원에서 멜로망스·픽보이 등 감성 보컬 5팀이 관람객들에게 감미로운 음악을 선사한 ‘파크콘서트’에는 2만여명의 관객이 곳곳에 돗자리를 펼치고 노을 속에서 여름밤의 낭만을 즐겼다.&lt;br&gt;&lt;br&gt;심재민 부산시 문화체육국장은 “BOF가 아시아 최대의 한류, K-컬처 축제로 자리를 잡아가고 있다”며 “부산이 세계를 향한 ‘K-컬처’ 발신의 중심이 될 수 있도록 열심히 뛸 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이화여대 이태영홀 현판식… 정대철 헌정회장 등 참석</title>
+      <link>https://www.chosun.com/national/people/2024/06/12/XQQYWCYKXZCGJJCAPFWNBLMJLQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/12/XQQYWCYKXZCGJJCAPFWNBLMJLQ/</guid>
+      <description/>
+      <pubDate>Wed, 12 Jun 2024 08:32:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HJIGA2Z7KNEBBCLJHS5SOKKQLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이태영홀 현판식. /이화여대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이화여대는 12일 오전 11시 법학관 405호실에서 고(故) 이태영 박사를 기리는 ‘이태영홀’ 현판식을 열었다.&lt;br&gt;&lt;br&gt;이태영홀은 이화여대 법정대학 학장을 지낸 국내 최초의 여성법조인 를 기리는 공간이다.&lt;br&gt;&lt;br&gt;이날 행사에는 장명수 학교법인 이화학당 이사장, 김은미 이화여대 총장, 이태영 박사의 아들인 대한민국 헌정회 정대철 회장 등이 참석했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>동료 수감자 얼굴 볼펜으로 찍은 70대 징역형</title>
+      <link>https://www.chosun.com/national/regional/2024/06/12/SQUY5ROISVHQDLG4KYI5IGDOL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/12/SQUY5ROISVHQDLG4KYI5IGDOL4/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Jun 2024 08:42:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CCYRGZDLF5HWHA2TJDTUCNCBYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지방·고등법원 전경. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동료 수감자의 얼굴 등을 볼펜으로 찔러 상처를 입힌 70대 남성에게 법원이 징역형을 선고했다.&lt;br&gt;&lt;br&gt;대구지법 형사11부(재판장 이종길)는 특수상해 혐의로 기소된 대구교도소 재소자 A씨에게 징역 1년 4개월을 선고했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 10월 대구교도소 내 거실에서 동료 수감자인 60대 B씨가 “조용히 해달라”고 말하자 볼펜으로 B씨의 얼굴과 목 등을 수차례 찔러 상해를 입힌 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;강간치사 혐의로 징역 7년을 선고 받고 지난해 3월 출소했던 A씨는 특수공무집행방해치상 혐의 등으로 징역 2년을 확정받아 복역하던 중이었다.&lt;br&gt;&lt;br&gt;재판부는 “A씨는 이전에도 폭력 범죄로 두차례 실형을 선고받았음에도 자숙하지 않고 누범기간에 범죄를 저질렀다”면서 “다만 피고인이 범행을 인정하고 반성하는 태도를 보이는 점 등을 참작했다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 6월 13일 목요일 (음력 5월 8일 戊申)</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/12/SFSN2JWBJFBUDPJM6QLWQOTVDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/12/SFSN2JWBJFBUDPJM6QLWQOTVDI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Jun 2024 08:41:05 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 작은 목적은 달성 가능. 48년생 처지를 가늠해 가면서 추진. 60년생 잃어버린 열정을 다시 불태워봐라. 72년생 시작하기 전 마무리도 생각하라. 84년생 오늘 선택의 영향이 나중까지 미침을 명심. 96년생 매매계약 관련이라면 결실 있다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 성급한 행동 득보다 실이 많다. 49년생 순간의 기분에 편승하지 마라. 61년생 귀가 얇으면 손해 볼 수도. 73년생 옛 인연 만나 회포를 풀게 될 듯. 85년생 문턱 높은 집에 정강이 긴 며느리 들어온다. 97년생 한배를 탔다면 마음도 하나여야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 무소의 뿔도 부러질 때가. 50년생 약간의 굴곡과 변색은 불가피할 듯. 62년생 능력이 발휘되는 날이니 최선 다하라. 74년생 불로소득은 나와 인연 없음을 명심. 86년생 소신대로만 추진하면 소기에 도달. 98년생 내 삶의 주인공은 바로 나 자신.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 밑 빠진 독에 물 부어봤자. 39년생 믿는 도끼에 발등을 찧을라. 51년생 독식(獨食)은 적을 만든다. 63년생 바른말과 옳은 의견이라고 무조건 환영받지는 않는다. 75년생 자신의 능력을 과소평가 마라. 87년생 평범하고 무료하게 시간 쓰지 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 뜻하지 않은 소득이 발생할 듯. 40년생 질병은 쾌락의 이자. 52년생 가까이 앉아야 정도 두터워진다. 64년생 일확천금 노리려다 억만금을 날릴 수도. 76년생 자기가 잘할 수 있는 방식으로 처리하라. 88년생 문서로 인한 근심이다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 난관을 만나면 해답은 아랫사람에게. 41년생 거절할 때는 단호하게. 53년생 안전사고와 관재구설이 염려. 65년생 지나고 보면 다 웃어넘길 수 있는 것. 77년생 먼저 주면 뒤에 더 크게 받을 수 있다. 89년생 손님이 도리어 주인 노릇.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 갈등과 분쟁이 화해와 단합으로. 42년생 양손에 떡을 쥐었구나. 54년생 계약과 거래에 최적의 시기. 66년생 한 우물만 파다 보면 맑은 물 솟아난다. 78년생 변화를 시도하기에 매우 긍정적. 90년생 먼 여행은 삼가라. 내 집이 명당이다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 놓친 고기가 크다더니. 43년생 장맛 본 사람이 흠잡는 법. 55년생 뭐든 지나치면 문제가 발생하기 마련. 67년생 인간관계와 금전거래에 어려움 예상. 79년생 우여곡절은 있으나 목표 달성은 무난. 91년생 희생과 봉사도 좋지만 제 앞가림부터.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 참는 것도 한계가 있음을 절감. 44년생 동쪽에서 서기(瑞氣)가 감돈다. 56년생 병이 있으면 약도 있다. 68년생 자신감과 자존감을 잃지 않도록. 80년생 하루가 일 년을 좌우하지 못한다. 92년생 인연을 소중히 여기면 인맥 형성은 저절로.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 횡재수가 아니면 슬하에 경사. 45년생 상사에 불만이 있어도 오늘만은 참아야. 57년생 뿔 있는 것은 이빨이 날카롭지 않다. 69년생 기회는 준비된 사람에게. 81년생 시비는 한 귀로 듣고 한 귀로 흘려라. 93년생 근심이 사라지니 웃음이 나는구나.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 귀중품 분실에 주의. 46년생 결과적으로는 무난히 해결될 듯. 58년생 낮 바람 오래 불면 밤바람은 잔다. 70년생 하나를 주니 두 개를 얻는구나. 82년생 신뢰보다 중요한 담보는 없다. 94년생 하나는 열을 꾸려도 열은 하나를 못 꾸린다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 옳지 않은 일에 욕심 부리지 마라. 47년생 주었다면 그것으로 끝. 59년생 고생은 많고 실속은 적구나. 71년생 독야청청(獨也靑靑)도 좋으나 맞출 줄도 알아야. 83년생 좋은 평판이 천금보다 낫다. 95년생 따라만 해서는 성공할 수 없다.	&lt;br&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>우회전 중 오른쪽으로 추월한 오토바이 들이받은 운전자 ‘무죄’</title>
+      <link>https://www.chosun.com/national/regional/2024/06/12/UN5HONA2SZGZJNPWVZZUDGDIQU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/12/UN5HONA2SZGZJNPWVZZUDGDIQU/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Jun 2024 08:26:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOIPX7HDNFCOHOGTNKRO6EMBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우회전 과정에서 오른쪽으로 추월하려는 오토바이를 들이받아 운전자를 숨지게 한 혐의로 1심에서 금고형을 선고받았던 화물차 운전자가 항소심에서 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;12일 법조계에 따르면 대전지법 형사4부는 오토바이 운전자를 숨지게 한 혐의(교통사고처리특례법 치사)로 기소된 화물차 운전자 A(30)씨에게 1심에서 선고한 금고 8개월 형을 파기하고 무죄를 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 1월 18일 낮 12시 34분쯤 충남 아산시 용화동의 한 도로에서 우회전하다가 오른쪽으로 추월하려고 진입한 오토바이를 들이받아 오토바이 운전자를 숨지게 한 혐의로 기소됐다. 검찰은 “A씨가 우측 방향지시등을 점등하지 않고, 후방을 제대로 살피지 않아 운전자가 사망에 이르렀다”고 판단했다.&lt;br&gt;&lt;br&gt;그러나 2심 재판부는 “A씨가 후방을 제대로 살피지 않은 채 우회전한 것이 교통사고의 직접적인 원인으로 볼 수 없고, A씨의 과실과 사고의 인과관계를 인정할 수 없다”고 밝혔다. &lt;br&gt;&lt;br&gt;재판부는 또 “추월 차량은 왼쪽으로 추월해야 하는 점, 사고 지점이 황색 실선이라 원칙적으로 추월이 금지된 구간인 점, 도로 폭이 좁아 차량 2대가 병행하기가 불가능하다는 점 등을 고려할 때 후방에서 따라오던 오토바이 운전자의 과실이 큰 것으로 보인다”고 했다. &lt;br&gt;&lt;br&gt;재판부는 이어 “운전자는 상대방 교통 관여자가 법을 지키며 운전할 것으로 믿고 있다”며 “통상적으로 예견하기 어려운, 이례적인 사태 발생에 대비한 주의 의무는 운전자에게 없다”고 밝혔다. &lt;br&gt;&lt;br&gt;그러면서 “뒤따라가던 오토바이 운전자가 전방을 주시했다면 화물차의 우회전을 충분히 예상할 수 있었고, 이런 동태를 관측하지 못했다면 사고 발생에 지배적 영향을 미친 과실이 있다고 봐야 한다”며 “앞서가던 차를 제대로 확인하지 않고 무리하게 우측 공간으로 진입한 오토바이 움직임으로 사고가 난 것으로 판단된다”고 무죄 선고 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘5·18, DJ 주도 내란’ 인쇄물 돌린 허식 前 인천시의회장 불송치</title>
       <link>https://www.chosun.com/national/national_general/2024/06/12/S675GGYOINHHJKXZFXK3FT5MAI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/12/S675GGYOINHHJKXZFXK3FT5MAI/</guid>
@@ -783,15 +857,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ECEG3PWBFHBDDJG4XERZW5BKI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 10일 서울 서대문구 세브란스병원에서 ’2024 의정갈등 현재와 미래‘를 주제로 열린 연세대 의과대학 교수평의회, 교수비상대책위원회 심포지엄에서 한 교수가 생각에 잠겨 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의대·서울대병원 교수들이 17일부터 무기한 전체 휴진을 하겠다고 선언한 데 이어 연세의대·세브란스병원 교수들도 오는 27일부터 무기한 전체 휴진에 들어간다고 밝혔다.&lt;br&gt;&lt;br&gt;연세대 의대 교수비상대책위원회(비대위)는 12일 결의문을 내고 “오는 27일부터 정부가 현 의료 및 의대교육 사태를 해결하는 가시적 조치를 취할 때까지 무기한 휴진을 시행한다”며 “응급실, 중환자실, 투석실, 분만실 등을 제외한 모든 외래진료와 비응급 수술, 시술을 중단한다”고 했다.&lt;br&gt;&lt;br&gt;비대위에 따르면, 9~11일 실시한 자체 조사에서 교수 735명 중 531명(72.2%)이 ‘무기한 휴진 입장을 취하고 이를 실행에 옮기겠다’고 답했다. 그렇게 하지 않겠다는 응답은 204명(27.8%)이었다.&lt;br&gt;&lt;br&gt;세부적으로는 무기한 휴진 방식 등과 관련해 비대위의 실행방안을 지지하고 동참하겠다는 응답이 448명(61.0%), 사안별로 결정하겠다는 응답이 219명(29.8%), 그렇지 않겠다는 응답이 68명(9.2%)이었다. 이에 따라 연세의료원 산하 세브란스병원, 강남세브란스병원, 용인세브란스병원의 모든 진료과목 외래 진료와 비응급 수술과 시술이 27일부터 중단된다.&lt;br&gt;&lt;br&gt;비대위는 “의과대학 교수들은 전공의와 학생이 떠난 병원과 대학에서 진료 외에 다른 업무를 사실상 모두 희생하며 묵묵히 기다렸다”며 “정부는 대화를 포함한 문제 해결에 어떠한 합리적인 접근도 보이지 않았다”고 했다. 이어 “정부는 전공의와 의대생에게 뿌린 덫을 가시적으로 제거하라”며 “정부는 분위기를 조성해서 직접 대화에 나서 전공의와 학생들을 복귀시켜야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4GT6HQOADOEMDZ4NRXOQ5RE6HA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연세대 의대 교수들이 4월 30일 서울 서대문구 세브란스병원 본관 앞에서 손팻말을 든 채 의대 정원 확대 등 정부 의료개혁 원점 재논의를 촉구하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의대 증원과 관련해선 “책임 있는 정부라면 근거를 제시하고 과정을 투명하게 공개해야 하며, 특히 정책의 중장기적 영향 중 어떤 부작용을 예상하고 해결 방안이 있는지 등에 대해서도 제시해야 한다”며 “우리 교수는 전문가들임에도 정부의 이런 중장기적 순기능과 역기능의 구체적인 지표를 듣지 못했고, 정부가 국민이 감수할 부담을 솔직하게 설명한 것을 보지 못했다”고 했다.&lt;br&gt;&lt;br&gt;특히 정부의 전공의 사직서 수리 허용 조치에 관해선 “문제 해결 없이 전공의의 복귀를 끌어내리려는 덫에 불과하다”며 “정부는 교수들에게 전공의 복귀를 종용하고 있는데, 이는 교수들을 정부의 하수인으로 행정명령 철회 등을 이용해 전공의에게 복귀 협박을 하는 것”이라고 했다. 그러면서 “덫을 놓고 협박하라는 인생관은 우리 사회 근간을 흔들 수 있는 매우 위험하고 잘못된 인생관”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>꽃 한 송이 예뻐서 꺾었다가… 절도범된 80대 치매 할머니</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/12/7PFFPCNDKJHGHLGRJ5Z5DEPXAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/12/7PFFPCNDKJHGHLGRJ5Z5DEPXAQ/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Jun 2024 03:44:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LZ6NCTXDHFJKRBEUKIZQ4SYMPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4월 15일 오전 인천시청 앞 화단에 개양귀비꽃이 빗방울을 머금고 있다. 기사와 관련 없음. /뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;80대 치매 노인이 거주하고 있는 아파트 화단 꽃을 꺾었다가 검찰 수사를 받게 됐다.&lt;br&gt;&lt;br&gt;12일 뉴스1 등에 따르면,  대구 수성경찰서는 이날 아파트 화단에 핀 꽃을 꺾은 혐의(절도)로 80대 입주민 A씨 등 3명을 검찰에 송치했다.&lt;br&gt;&lt;br&gt;대구 수성구의 한 아파트에서 10년 넘게 거주해온 A씨는 지난 4월 아파트 화단에 핀 노란색 꽃 한 송이를 꺾은 혐의를 받는다.&lt;br&gt;&lt;br&gt;꽃이 없어진 사실을 알게 된 아파트 관리사무소는 경찰에 신고했다. 경찰은 CCTV를 통해  A씨를 비롯해 입주민이 아닌 70대 B씨와 80대 C씨 등 3명을 용의자로 특정했다.&lt;br&gt;&lt;br&gt;A씨는 당뇨와 치매 초기 증상을 겪고 있으며, 경찰에 “꽃이 예뻐서 꺾었다”고 진술한 것으로 전해진다.&lt;br&gt;&lt;br&gt;이 과정에서 관리사무소 측은 A씨 가족에게 KTX 무임승차 시 30배에 이르는 벌금을 부과하는 규정 등을 언급하며 합의금 명목으로 35만원을 요구했다고 한다. A씨 가족은 사과와 함께 관리사무소에 돈을 전달해 합의했고, B씨 등 2명은 합의하지 못한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;다만 절도 사건의 경우 피해자가 처벌을 원하지 않는다는 의사를 표시하면 처벌 할 수 없는 반의사불벌죄에 해당하지 않아, A씨 등은 합의 여부와 상관없이 검찰로 넘겨졌다.  &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 검찰, 이재명 ‘불법 대북송금’ 혐의 기소...제3자 뇌물죄 등 적용</title>
       <link>https://www.chosun.com/national/court_law/2024/06/12/WZDB2CPL55C5PE4ZJRYYSPGVMU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/12/WZDB2CPL55C5PE4ZJRYYSPGVMU/</guid>
@@ -841,15 +906,6 @@
       </media:content>
     </item>
     <item>
-      <title>손목닥터 100만 돌파..4050이 절반, 여성이 남성 2배</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/12/PWN5KWIQWJGVTAUOOULAQENIQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/12/PWN5KWIQWJGVTAUOOULAQENIQY/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Jun 2024 02:40:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PTBUXLX42BHYVFI76HSLZFNUJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손목닥터9988을 사용하는 달리기 동호회 회원들이 지난달 서울 광화문광장에서 손목닥터 앱을 열어 자신의 걸음 수 기록을 보여주는 모습. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시 시민 건강 앱 ‘손목닥터9988′의 누적 가입자가 100만명을 돌파했다.&lt;br&gt;&lt;br&gt;서울시는 손목닥터 9988의 누적가입자와 향후 계획을 12일 밝혔다.&lt;br&gt;&lt;br&gt;서울시는 2021년부터 사업을 시작했다. 올해 3월부터는 모집방식을 선착순이 아닌 상시 모집으로 전환했다. 이때부터 가입 연령 제한을 없애고 스마트워치 없이도 참여할 수 있게 하며 가입자가 대폭 늘었다. &lt;br&gt;&lt;br&gt;손목닥터9988 가입자는 연령대별로 보면 40대가 24%로 가장 많았다. 이어 30대(20%), 40대(24.1%), 50대(23.7%), 60대(13.5%), 70대(4.1%) 순이다.&lt;br&gt;&lt;br&gt;성별로는 여성(65%)이 남성(35%)보다 많았다. 자치구별로 보면 송파구민(7%)이 가장 많이 쓰고 있다.&lt;br&gt;&lt;br&gt;가입자들의 하루 평균 걸음 수도 연령대가 높아질수록 많이 걷는 경향이 있었다. 40대는 7041보, 50대는 7681보, 60대는 8406보, 70~74세는 8650보 순으로 늘어났다.&lt;br&gt;&lt;br&gt;올해 9월부터는 대사증후군관리 서비스와 마음건강(블루터치) 서비스를 손목닥터9988 앱을 통해 이용할 수 있도록 할 계획이다. 내년엔 금연관리 서비스도 도입한다.&lt;br&gt;&lt;br&gt;서울시는 18일 광화문광장에서 100만 돌파 행사를 연다. 오세훈 서울시장 및 손목닥터 참여자들이 이곳에서 ‘무동력 트레드밀 걷기 챌린지’를 진행한다. 참여자들의 걸음 수에 따라 탄소 저감 분야에 기부금을 전달한다. &lt;br&gt;&lt;br&gt;오 시장은 “손목닥터9988은 사후 관리가 아닌 예방 중심으로 건강관리를 지원하기 위해 행정 패러다임을 바꾸는 도전이었다”며 “모든 시민이 건강한 일상을 누릴 수 있도록 지원을 아끼지 않겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>중장년 54% “뒷사람 눈치 보여 키오스크 이용 어렵다”</title>
       <link>https://www.chosun.com/national/national_general/2024/06/12/65ZILFD365DYNBK6MFD45VAX6Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/12/65ZILFD365DYNBK6MFD45VAX6Y/</guid>
@@ -860,51 +916,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/FM7CR6SEWZGQPGB7E4RNA7PQTU.jpg?width=4000&amp;height=2570&amp;auth=6f619d9414223bdf8a466cc800ad56e97e58030cc4bf92268e12e57e8f73889f&amp;smart=true" type="image/jpeg" height="2570" width="4000">
         <media:description type="plain">2023년 10월 17일 서울 종로구의 한 카페에서 김보옥씨가 음료 구매를 위해 키오스크를 조작하고 있다. 김씨는 초기화면부터 어디를 눌러야하는지 난감한 표정을 지었다. /남강호 기자</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>법원, ‘세 모녀 전세사기’ 모친 징역 15년·두 딸 징역 2년 선고</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/12/QKJBGLQ5AFAJ5EI364EXZEPWLE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/12/QKJBGLQ5AFAJ5EI364EXZEPWLE/</guid>
-      <dc:creator>박강현 기자, 박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Jun 2024 02:14:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FTGPTVCXJGOPCYLMP3UYTQ3YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수도권 일대에서 이른바 ‘갭 투자(전세 낀 주택 매매)’로 수백억원이 넘는 전세보증금을 가로챈 혐의 등을 받고 재판에 넘겨진 ‘세 모녀 전세사기’ 사건의 주범 김모(64)씨에게 징역 15년이 선고됐다. 자신들의 명의를 내주는 등 김씨와 공모한 혐의를 받는 두 딸에겐 각각 징역 2년이 선고됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사26단독 최민혜 판사는 12일 사기와 부동산 실권리자 명의 등기에 관한 법률위반 등으로 기소된 이들에 대한 1심 선고에서 “경제적으로 취약한 다수의 피해자들에게 막대한 재산상 손해를 끼치고, 피해자들의 주거 생활의 안정을 위협할 뿐만 아니라 주택 임대차 거래에 대한 사회적 신뢰를 훼손했다”며 이같이 판결했다. 함께 기소된 분양 대행업체 관계자 송모씨(징역 15년), 양모씨(징역 12년), 정모씨(징역 9년), 박모씨(징역 6년)에게도 실형이 선고됐다.&lt;br&gt;&lt;br&gt;재판부는 김씨 등이 빌라 임차인들을 기망해 보증금 등 재산상의 이득을 취했다고 판단했다. 재판부는 “김씨는 자신이 제대로 관리할 수 없을 정도의 약 400여 채 빌라 등을 자기 자본을 더 들이지 않고 취득한 후 소속 임차인에게서 임대차 보증금을 받을 것을 기대하거나 부동산 시가가 오를 것이라는 막연한 기대 하에 방만하게 임대 사업을 운영했다”며 “수많은 피해자가 임대차 보증금을 제때 반환받지 못하고 피해 금액 규모가 상당하다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “피고인은 이 법정에서 사기 범행을 부인하며 피해자들에게 손해를 변제하려는 노력을 전혀 기울이지 않았다”며 “주택도시보증공사(HUG) 등에서 피해자들이 임대차 보증금을 돌려 받은 것은 위 손해가 공사에 전가된 것일 뿐 피고인이 스스로 노력하여 피해자들의 손해를 회복한 것이 아님은 명백하다”고 지적했다.&lt;br&gt;&lt;br&gt;이어 “피고인 김씨의 경우엔 현행법상 사기죄, 법정의 병합범 가중을 한 처방형의 최고형이 징역 15년이기에 이러한 법적 한계에 따라 이와 같이 선고할 수 없음을 명확히 한다”고 밝혔다. 현행 사기죄의 법정최고형은 징역 10년 이하로, 2건 이상 사기를 저지르면 ‘경합범 가중’ 규정에 따라 법정 최고형의 절반까지 형이 추가될 수 있다.&lt;br&gt;&lt;br&gt;재판부는 딸들에 대해선 “피고인에게 자신들의 명의를 대여하여 피고인으로 하여금 무리한 투자로 수많은 전세 세입자들이 적시에 전세보증금을 반환받지 못하는 피해를 초래했다”고 질타했다.&lt;br&gt;&lt;br&gt;주범 김씨는 2017년부터 두 딸의 명의로 서울 강서구 등 수도권 빌라 500여채를 전세를 끼고 사들인 뒤 세입자의 보증금을 챙겨 이를 가로챈 사기 등 혐의를 받는다. 김씨는 신축 빌라 분양대행업자와 공모해 우선분양 서류를 작성해 임차인을 모집한 후 분양대금보다 많은 전세보증금을 받은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;앞서 김씨는 지난해 7월 세입자 85명에게 183억원 상당의 보증금을 편취한 혐의로 먼저 기소돼 징역 10년을 이미 선고 받았다. 이날 재판은 추가로 확인된 피해자 270명에게 612억원을 편취한 혐의로 검찰이 추가 기소한 사건이다. 이 사건 총 피해 규모는 임차인 355명, 전세보증금 795억원에 이르는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;지난달 20일 검찰은 “정보가 부족한 서민들 돈을 편취한 사기범”이라며 김씨에게 징역 15년을 구형했다. 부동산실명법 위반 혐의를 받는 두 딸에겐 각각 징역 3년을 선고해달라고 요청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>여고생 학대해 숨지게 한 50대 여성 신도…檢, 아동학대살해죄 적용 기소</title>
-      <link>https://www.chosun.com/national/incident/2024/06/12/NUNPHB4URBH4LFLWJ52X2PZOTY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/12/NUNPHB4URBH4LFLWJ52X2PZOTY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Jun 2024 02:06:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GWWUEAFMJFLTRNJIXVD6DIW6OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;교회에서 함께 생활하던 여고생을 학대해 숨지게 한 혐의로 재판에 넘겨진 김모(55)씨. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 교회에서 함께 생활하던 여고생을 학대해 숨지게 한 50대 여성 신도에 대해 검찰이 아동학대살해죄를 적용해 재판에 넘겼다.&lt;br&gt;&lt;br&gt;인천지검 여성아동범죄조사부(부장 정희선)는 아동학대 범죄의 처벌 등에 관한 특례법상 아동학대살해 등 혐의로 김모(55)씨를 구속기소 했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 지난달 24일 경찰로부터 사건을 송치받은 뒤 보완 수사를 거쳐 김씨의 죄명을 아동학대치사죄에서 아동학대살해죄로 변경했다. 아동학대살해죄는 사형이나 무기징역 또는 7년 이상의 징역형 선고가 가능하다. 무기징역 또는 5년 이상 징역형에 처할 수 있는 아동학대치사죄보다 형량이 무겁다.&lt;br&gt;&lt;br&gt;검찰은 “(김씨가) 피해자를 장기간 교회에 감금한 후 결박하는 방법 등으로 학대했다”며 “학대로 생명이 위독해진 피해자를 그대로 방치하는 방법으로 살해했다”고 판단했다.&lt;br&gt;&lt;br&gt;김씨는 지난 3월부터 지난달 15일까지 인천시 남동구의 한 교회에서 함께 생활하던 여고생 김모(17)양을 신체 여러 곳에 멍이 들 정도로 학대해 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;검찰은 학대에 가담한 교회 합창단장 박모(여‧52)씨와 단원 조모(여‧41)씨에 대해서도 수사하고 있다. 경찰은 앞서 이들을 아동학대 치사 혐의로 검찰에 송치했다. 이들은 “(김양이) 평소 자해를 해 막으려고 했고, 학대할 의도는 없었다”고 주장하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “구속 송치된 공범 2명에 대해서도 수사를 진행하고 있다”며 “피고인과 공범들에게 범죄에 상응하는 처벌이 이뤄지도록 수사에 만전을 기하겠다”고 말했다.&lt;br&gt;&lt;br&gt;김양은 지난달 15일 오후 8시쯤 인천시 남동구의 한 교회에서 밥을 먹던 중 의식을 잃고 쓰러져 병원으로 옮겨졌으나 4시간 뒤 숨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“후배들 위해 써달라”…문덕영 AJ네트웍스 부회장, 고려대에 1억</title>
-      <link>https://www.chosun.com/national/people/2024/06/12/VWO6TRTSEVGAXPXH57RHAHOOWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/12/VWO6TRTSEVGAXPXH57RHAHOOWI/</guid>
-      <dc:creator>김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Jun 2024 02:20:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E3JMYR2HI5GZLDLP64QGKUD5KI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 고려대에서 열린 ‘문덕영 AJ네트웍스 부회장 기금 기부식’에 참여한 문 부회장이 김동원 고려대 총장과 사진을 촬영하고 있다. /고려대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문덕영 AJ네트웍스 부회장이 모교인 고려대에 1억원을 기부했다. 문 부회장은 고려대 신방과 79학번 출신이다.&lt;br&gt;&lt;br&gt;고려대는 지난 10일 고려대 수당삼양 패컬티 하우스에서 ‘문덕영 AJ네트웍스 부회장 기금 기부식’을 열었다고 12일 밝혔다. 문 부회장이 내놓은 기부금은 미디어학부 해외 연수 프로그램인 ‘AJ 미디어 루키’ 프로그램을 지원하는 데 사용될 예정이다.&lt;br&gt;&lt;br&gt;고려대에 따르면 문 부회장은 2019년부터 6년간 총 5억5000만원을 들여 해당 연수 프로그램을 지원해왔다고 한다. 문 부회장은 “‘AJ 미디어 루키 프로그램’을 통해 미디어학부 후배들이 미디어 글로벌 산업 현장 탐방과 전문가와의 교류 기회를 얻고 있다고 들었다”며 “앞으로도 후배들이 다양한 경험을 통해 시야를 넓히고 미래 미디어 산업을 주도할 훌륭한 인재로 성장하길 바란다”고 했다.&lt;br&gt;&lt;br&gt;김동원 고려대 총장은 “미디어학부 후배들이 꿈을 키워나가는 데 항상 많은 도움을 주시는 문덕영 부회장님께 감사드린다”라며 “쾌척해 주신 장학금은 미디어학부 후배들이 넓은 세상의 경험을 통해 한 단계 성장하고, 나아가 혁신적인 미디어 산업을 주도하는 인재로 성장하는 데에 소중히 사용하겠다”라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고소인에게 “내게 한 만큼 갚아주겠다”는 문자… 대법 “협박 아냐”</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/12/YIIPPF7FUVEBTMUES3QEQWL6S4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/12/YIIPPF7FUVEBTMUES3QEQWL6S4/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Jun 2024 01:58:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMFW37QSVK2VJFCM5EMZFQVH2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부동산 투자 사기 사건으로 법적 다툼을 벌이던 동료 교수에게 “내게 한 만큼 갚아주겠다”는 내용의 문자 메시지를 보낸 사립대 교수를 보복 협박 혐의로 처벌할 수 없다는 취지의 대법원 판단이 나왔다. 보복성 내용이 담긴 문자를 보냈더라도, 메시지의 구체적 내용과 두 사람의 관계나 지위 등을 고려할 때 협박으로 보기는 어렵다는 취지다.&lt;br&gt;&lt;br&gt;12일 법조계에 따르면, 대법원 2부(주심 김상환 대법관)는 지난달 17일 특정범죄가중처벌법 위반(보복 협박 등) 혐의로 기소된 A씨에게 징역 1년 6개월에 집행유예 3년을 선고한 원심 판결을 깨고 사건을 대전고법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;이 사건은 충남의 한 사립대 교수로 근무하던 A씨가 2016년 B씨를 포함한 동료 교수들에게 부동산 투자를 제안했다가 사기 사건에 휘말린 것이 발단이다. B씨 등은 A씨가 소개해 준 부동산 사업가에게 2억4700여만원을 건네고 토지를 분양받았는데, 약속과 달리 개발이 되지 않았다. B씨 등은 부동산 사업가를 고소한데 이어 “A씨도 사기에 가담했다”며 고소 취지의 엄벌 탄원서를 제출했다. 검찰은 A씨 등을 사기 혐의로 기소했지만 지난 3월 대법원에서 무죄가 확정됐다.&lt;br&gt;&lt;br&gt;그런데 A씨는 사기죄로 기소된 후 동료 교수들이 낸 탄원서 내용을 알게 됐다. A씨는 2021년 10월 22일 자신의 1심 첫 재판이 열린 날, B씨에게 문자 메시지를 보냈다. “탄원서를 읽어봤다. 이제 저도 인간관계를 정리하려고 한다. 정든 학교를 떠나게 되실 수도 있다. 제게 한 만큼 갚아 드리겠다. 연구실로 찾아뵙겠다”는 내용이었다. 이후 A씨와 함께 고소당했던 사업가 C씨가 실제로 이 대학에 B씨의 연구비 횡령 등 각종 비리를 제보했다. 다만 B씨에 대한 제보에 A씨가 관여했다는 증거는 나오지 않았다.&lt;br&gt;&lt;br&gt;검찰은 A씨가 보낸 문자를 보복 목적의 위법한 협박으로 보고 기소했다. 1심은 무죄를 선고했으나 2심은 보복 목적을 인정해 징역 1년 6개월에 집행유예 3년을 선고했다. 2심 재판부는 “A씨가 신분상 불이익을 가하겠다는 구체적 해악을 고지했고, 그 내용도 공포심을 일으키기 충분하다”고 판단했다.&lt;br&gt;&lt;br&gt;그러나 대법원은 A씨의 보복 목적이 합리적 의심 없이 입증되지 않았다며 무죄 취지로 파기환송했다. 대법원은 “문자 메시지 내용만으로는 A씨가 구체적으로 B씨의 어떤 법익에 어떤 해악을 가하겠다는 것인지 알기 어렵다”며 “A씨가 B씨 대학 내 지위 등에 불이익을 줄 수 있는 위치에 있지 않은 점 등을 고려하면 불이익한 조치가 이뤄지도록 하겠다는 뜻이 암시됐다고 쉽게 단정할 수 없다”고 밝혔다. 문자 후 비리 제보에 A씨가 관여했다는 객관적인 증거가 없다는 점 등도 고려됐다.&lt;br&gt;&lt;br&gt;대법원은 또 “관련 사기 사건에서 A씨는 무죄를 선고받아 확정됐는데, B씨의 탄원서에 담긴 일방적인 범죄 의심, 평가, 엄벌 주장이 몹시 억울하고 서운했을 것을 넉넉히 짐작할 수 있다”며 “문자 메시지는 A씨 주장처럼 취중 상태에서 상당 기간 친분을 맺어왔던 B씨에게 자신의 감정들을 일시적·충동적으로 토로한 것으로 이해될 여지가 많아 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>활화산에서 흘러내린 마그마처럼 농밀했다</title>
-      <link>https://www.chosun.com/national/weekend/2024/06/08/6EIGSQSJIRHG5F4VDG6LHH5VHQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2024/06/08/6EIGSQSJIRHG5F4VDG6LHH5VHQ/</guid>
-      <dc:creator>정동현 음식칼럼니스트</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Jun 2024 15:45:00 +0000</pubDate>
-      <content:encoded>아버지가 돌아가신 것이 2년 전이다. 그 이후 어머니는 집에서 밥을 거의 하지 않는다. 같은 집에 있지 않기에 정확히 알 수는 없다. 하지만 어머니가 쌀을 사는 일이 거의 없는 것을 보아 거의 확실하다. 대신 어머니는 빵을 찾는다. 홀로 밥물을 안치고 불을 올려 국을 끓이는 것은 쉽지 않다. 이런 사정이 어머니만 겪는 것은 아닌 듯싶다. 일본에서도 빵 소비액이 쌀을 뛰어넘은 것이 벌써 2010년의 일이다. 한국도 사정은 비슷하여 소비액으로 치면 2015년 빵이 쌀을 뛰어넘었다. 나도 전보다 훨씬 자주 이런저런 곳에서 빵을 사 놓는다. 어머니 때문이다. 평생 그랬듯 어머니는 맛을 가지고 타박을 주지 않는다. 당신에게는 그저 싸고 적당하면 된다는 어머니 마음이 나이가 들수록 더 이해가 되면서도 한편으로는 또 괜히 서운하고 씁쓸하기도 한 것이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/67QKSTBMNJAGNB7P4STJ46L5WY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 동작구에 있는 ‘양씨네제빵소’의 에그타르트. /김용재 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상도동 성대시장 근처에 갔을 때만 해도 이 동네에 빵집이 있을 성싶지 않았다. 시장에는 고기를 썰고 생선을 토막 내는 손목 굵은 상인들이 목소리를 높였다. 성대시장 반대편 쪽으로는 5층을 넘지 않는 무표정한 건물들이 이끼가 긴 거목처럼 덤덤히 서 있었다. 그 도로가 살짝 고개를 틀며 꺾이는 곳에 ‘양씨네제빵소’라는 집이 보였다. 뜨내기 손님이 오기 힘든 곳이었다. 일찌감치 자리를 잡고 빵과 커피를 마시는 사람들의 편안한 표정은 단골티가 났다. 크지 않은 가게의 절반 이상은 주방이었다. 오븐 사이 비좁은 틈에 주인장이 혼자 서서 반죽을 넣고 빵을 꺼냈다. 손이 빠르고 붙임성 좋은 종업원 하나가 카운터에 서서 손님을 받았다. 매장 앞쪽에는 통통한 베이글이 있었다. 본래 기름기 없이 밀가루, 소금, 물, 이스트만 써서 만드는 베이글은 이에 착착 감기는 쫀득한 식감을 지녔다. 이 집 베이글은 통통한 외관에 밀가루의 고소한 맛이 은근히 느껴지는 담백한 맛을 지녔다. 크림이든 잼이든 어떤 것도 수더분하게 함께할 수 있을 듯했다.&lt;br&gt;&lt;br&gt;매대 위쪽에는 짙은 갈색을 한 피낭시에가 놓여 있었다. 프랑스어로 금융을 뜻하는 말에서 비롯된 피낭시에(financier)는 실제로 금괴 모양이 특징이다. 버터를 태우듯 끓여 반죽에 섞어 만드는데 덕분에 버터의 향이 극대화된 과자이기도 하다. 한입 머금었을 때 느껴지는 향이 심상치 않았다. 알고 보니 이 집은 프랑스산 버터만 따로 구입해 쓴다고 했다. 이런 작은 곳에서 쓰기에는 싸지 않은 종류의 버터였다. 버터를 거의 밀가루만큼 집어 넣어 굽는 브리오슈(Brioche) 식빵은 먹기 전에도 버터의 향이 느껴졌다. 영화 ‘줄리 앤 줄리아’에 이런 대사가 나온다. “당신은 내 빵의 버터이고 내 삶의 숨결이야.” 프랑스에서 버터는 단순 식재료 이상의 의미를 지닌다. 뭐랄까? 맛의 정점, 혹은 모든 맛이 지향해야 할 무언가 정도일까? 심장이 멎을 정도로 듬뿍 넣은 버터의 밀도는 그 자체로 맛과 향이 되어서 혈관 속으로 스며들었다. ‘바질 크런치’는 도넛 모양에 가로로 잘라 바질 크림을 발랐다. 언뜻 단단해 보였지만 씹는 순간 과자처럼 부서져 내렸다. 여기에 이국적인 바질 크림이 어우러져 산뜻한 팝 음악을 듣는 듯한 기분이 들었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L7W6OZ6FYZAHNEDOQURPP67MTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;달걀 노른자와 우유, 설탕 등을 졸여내듯 끓여 익힌 크림은 활화산에서 흘러내린 마그마마냥 끈적하고 농밀했다. /김용재 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;단추마냥 낮게 모양을 잡지 않고 높게 쌓아올린 이 집의 에그타르트는 보는 순간 ‘진품’이란 느낌이 왔다. 검은색에 가깝게 강하게 구워 타르트의 고소한 맛이 한계치 끝까지 올라왔다. 달걀 노른자와 우유, 설탕 등을 졸여내듯 끓여 익힌 크림은 활화산에서 흘러내린 마그마마냥 끈적하고 농밀했다. 오래된 성벽처럼 무너져 내리는 타르트와 그 속의 노란 크림은 어떤 도덕관념도 무시하는 쾌락주의의 현신(現身) 같기도 했다.&lt;br&gt;&lt;br&gt;이 집을 나설 때는 빵을 양손 가득 들고 나올 수밖에 없었다. 어머니는 ‘왜 이리 빵을 많이 샀냐’며 타박 아닌 타박을 했다. 나는 별 대꾸를 하지 않았다. 어머니에게는 재료와 솜씨를 아끼지 않은 빵이어야 했다. 홀로 있는 방, 아무도 없는 식탁에 앉아 흔한 빵을 먹기에 어머니의 인생은 소중하기 때문이었다. 한번도 당신의 인생에 불평을 하지 않은 어머니는 그럴 자격이 있기 때문이었다.&lt;br&gt;&lt;br&gt;#양씨네제빵소: 베이글 3500원, 브리오슈 식빵 6000원, 피낭시에 2500원, 에그타르트 3500원&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>부안 4.8 지진에 서울·경기서도 50건 신고…중대본 비상 1단계 가동</title>
