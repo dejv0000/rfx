@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“아들 잘 부탁드려요. 죄송합니다”…'노크귀순’ 엘리트 탈북민의 문자</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/14/OULPPTDMCVDAVMDAVFSTPCDRTA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/14/OULPPTDMCVDAVMDAVFSTPCDRTA/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Jun 2024 23:09:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M4RFQBXX6ZHC7FDGXRKTN5ALV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2008년 이른바 '노크 귀순'을 한 탈북민 A(45)씨가 지난 3월 투신 시도 후 척추 보호대를 착용하고 있다. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2008년 이른바 ‘노크 귀순’으로 한국에 온 탈북민 A(45)씨가 경제적 어려움으로 죽음의 문턱까지 갔다가 도움의 손길로 일상을 회복 중인 사연이 전해졌다.&lt;br&gt;&lt;br&gt;14일 이랜드복지재단에 따르면, A씨는 2008년 4월 파주 군사분계선을 넘어 귀순 의사를 밝혔지만 우리 군의 반응이 없자 직접 초소 문을 두드렸던 ‘노크 귀순’ 사건의 당사자다. 그는 북한군 보위사령부 중위 출신으로, 북한의 엘리트였다.&lt;br&gt;&lt;br&gt;A씨는 여러 차례 방송에 출연해 북한의 실상 등을 전하며 유명세를 치렀다. 하지만 한국 사회에 적응하지 못했고, 벨기에로 이민을 떠나기도 했지만 사기를 당해 정착금을 포함한 전 재산을 잃고 한국으로 돌아왔다. 이후 부부관계도 나빠지면서 아내를 살해하려 한 혐의로 실형을 선고받기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IERR2NH53VD6HIAFWFQKGE55KM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;귀순 이후 방송에 출연했던 A씨의 모습. /채널A&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2017년 출소한 A씨의 삶은 이후에도 녹록지 않았다. 이혼소송을 진행하며 아내와 처가의 빚 2억원가량을 떠안게 됐다. 두 명이 겨우 누울 수 있는 5평 이내의 작은 공간에서 아들과 단둘이 생활했다. 인력사무소를 통해 각종 노동일을 하며 생계를 유지했지만, 빚 독촉을 받으면서 심리적 어려움도 늘어갔다. 파산 신청을 하려고 했지만 신청 비용조차 감당할 수 없는 정도였다.&lt;br&gt;&lt;br&gt;올해가 되면서 A씨는 아들과 함께 지낼 작은 공간에서조차 내쫓기게 될 상황에 놓였다. 월세 57만원을 3개월째 내지 못해 집주인으로부터 독촉을 받았기 때문이었다. 엎친 데 덮친 격으로 A씨는 근로 도중 허리를 다쳐 일을 할 수 없게 됐다.&lt;br&gt;&lt;br&gt;생계유지가 불가능해지자 A씨는 지난 3월 3일 평소 다녔던 교회의 목사이자 이랜드복지재단 ‘SOS위고’ 현장매니저로 활동 중인 유성순 목사에게 문자를 보냈다. “목사님. 아들 잘 부탁드립니다. 죄송합니다.”라는 내용이었다.&lt;br&gt;&lt;br&gt;무언가 잘못됐음을 직감한 유 매니저는 경찰에 신고한 뒤 머릿속에 짚이는 장소로 무작정 뛰어갔다. 유 매니저와 경찰은 한 아파트 단지 내에서 온몸이 부서진 A씨를 발견할 수 있었다. 고층 건물에서 떨어진 탓에 A씨는 척추, 경추, 내장 등이 파열된 상태였다. 조금만 늦었으면 생명을 잃을 뻔한 위급한 상황이었다.&lt;br&gt;&lt;br&gt;큰 수술을 마친 A씨는 13일 만에 퇴원해 집으로 돌아왔다. 의사의 반대를 무릅쓰고 조기 퇴원한 것이었다. 아들을 하루라도 빨리 보기 위해서였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q7RRCPV37NBZXPVNPJP5IHKDDQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘SOS위고’ 봉사단 유성순 매니저와 A씨가 대화를 나누는 모습. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유 매니저는 A씨와 아들이 한 지붕 아래에서 살 수 있도록 발빠르게 행동에 나섰다. 우선, 식료품과 생필품을 즉시 지원했다. 직접 장을 보기도 힘들고, 빚으로 인해 온라인 쇼핑조차 하기 어려운 A씨에게 절실한 도움이었다. ‘SOS위고’ 봉사단은 위기 가정 접수 후 3일 이내에 주거비, 생계비, 치료비, 자립비 등을 신속하게 지원한다.&lt;br&gt;&lt;br&gt;일회성 지원에 끝나지 않고, 유 매니저는 지속적인 모니터링을 통해 A씨가 자립할 수 있도록 하고 있다. 현재는 A씨와 아들 앞에 놓인 밀린 월세와 재활 기간 필요한 생활비를 지원하기 위한 모금 활동을 진행 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GPL5L3IQX5ATLOALMGFKFMLJUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨의 아들이 사고 전 아버지에게 쓴 편지. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨의 아들은 판사가 꿈이다. A씨가 스스로 목숨을 끊으려고 하기 전 아들이 보낸 편지에는 “아빠, 저를 키워주셔서 고맙습니다. 사랑합니다”라며 “제가 꿈을 이루면 제일 먼저 아빠를 찾아가 감사하다고 하겠습니다. 만약 제가 꿈을 이루지 못하더라도 아빠를 찾아가 감사하다고 하겠습니다”라는 내용이 담겼다. 아들은 “판사가 되면 올바르게 판단하고 무죄는 무죄, 유죄는 유죄라고 판단하며 늘 아빠를 찾아가겠습니다. 다시 한번 고맙습니다. 사랑합니다”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>하남서 또 ‘교제 살인’…“이별통보 후 살해된 동생, 억울함 풀어달라”</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/14/YP44PNPWR5AS3M5SJDNGK6Y5YM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/14/YP44PNPWR5AS3M5SJDNGK6Y5YM/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Jun 2024 22:29:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IGEOZGUIL5BHBCJQN2TUQYZFX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 경기 하남시에서 발생한 사건 현장./SBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 하남시에서 20대 남성이 20대 여성을 살해하는 일이 벌어졌다. 피해자 유족은 이번 사건이 ‘교제 살인’이라고 주장하며 가해자에 대한 엄벌을 요구했다.&lt;br&gt;&lt;br&gt;14일 경찰에 따르면 경기 하남경찰서는 하남시 소재 20대 여성 A씨가 사는 아파트 인근에서 A씨를 찔러 살해한 혐의로 남성 B씨를 구속했다. &lt;br&gt;&lt;br&gt;이 사건 피해자의 친언니라고 밝힌 C씨는 인스타그램에 “사건이 축소되는 일이 없도록, 이 사건이 공론화되길 유족은 바라고 있다”며 사건 당일 동생이 겪은 일을 전했다.&lt;br&gt;&lt;br&gt;먼저 C씨는 “피해자와 가해자는 3주가량 교제한 사이다. 피해자인 동생의 휴대폰 잠금을 풀 수 없어서 동생이 친구들과 나눈 대화를 동생 친구들을 통해 확인한 사실”이라고 주장했다. 앞서 A씨와 B씨가 지인 사이라는 보도가 나왔으나, 이는 사실이 아니라는 취지다.&lt;br&gt;&lt;br&gt;C씨의 주장에 따르면 사건 당일인 지난 7일 오후 5시쯤 친구들에게 “이별 통보를 했는데 마음이 좋지 않다”는 내용의 메시지를 보냈다. 이후 B씨의 연락을 받은 A씨는 거주 중인 아파트 1층으로 내려갔다. 경찰에 따르면 A씨는 7일 오후 11시20분쯤 거주지 인근에서 가해자가 휘두른 흉기에 찔린 것으로 조사됐다. C씨는 “(동생이) 가족과 10시쯤까지 식사를 했기 때문에 아무리 길게 잡아도 둘이 만난 지 1시간 내외에 살해를 당한 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “(가해자가) 미리 준비한 흉기로, CCTV가 없는 사각지대에서 한 번이 아닌 수차례 흉기를 휘둘렀고 목과 안면, 손 등이 심하게 훼손되어 다량의 출혈이 있었고 심정지 상태로 병원 이송 후 사망했다”며 “119 연락을 받고 내려간 아빠와 오빠는 고통 속에 몸부림치는 제 동생을 직접 목격했다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “많은 분들이 이 사건이 얼마나 잔혹한지, 얼마나 안타깝고 무서운 사건인지 알았으면 좋겠다”며 “꽃다운 20세 피지도 못한 아이의 억울함은 어떻게 풀어줘야 하나. 부디 엄중한 처벌을 내려 그 누구도 다시는 이런 말도 안 되는 슬픔을 겪지 않아야 한다”고 호소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GOGRSCOHDFHY7BIK5GVEN3Y5WM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/엑스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;엑스에는 ‘하남교제살인사건공론화’라는 계정도 만들어졌다. 이 계정은 피해자의 대학 동기와 선배들이 개설한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;계정 측은 “피해자와 저희들은 대학교에서 법을 공부하던 사람들이었다”며 “소중한 친구가 법의 사각지대에 놓인 교제 폭력, 교제 살인 사건의 피해자가 됐다는 부분이 정말로 안타깝고 화가 난다”고 했다. &lt;br&gt;&lt;br&gt;이어 “현재 우리나라는 교제 폭력이나 살인에 대한 처벌 강화 법안이 7년째 국회에서 체류중인 상태로, 일반 범죄와 동일한 법률안으로 적용중인 것으로 알고 있다”며 “또한 이러한 범죄들에 대하여 판례들을 찾아보아도 강력한 처벌이 이루어진 판례가 희박하다는 사실이 유감”이라고 했다.&lt;br&gt;&lt;br&gt;이들은 “최근 교제 폭력 및 살인 사건이 연달아 발생하고 있다. 다시는 이런 끔찍한 일이 발생하지 않기를 바란다”며 “더이상 친구와 같은 피해자가 발생하지 않도록 강력한 법률안을 마련해주시길 바란다”고 덧붙였다.&lt;br&gt;&lt;br&gt;한편 가해자 B씨는 현장과 1㎞ 떨어진 곳에서 목격자 신고를 받고 출동한 경찰에 의해 범행 10여분 만에 현행범으로 체포돼 경찰 조사를 받고 있다. A씨는 병원으로 옮겨졌으나 결국 숨졌다. 경찰 관계자는 “아직 범행 동기나 경위는 확실하지 않은 상태”라며 “주변인 진술 등을 토대로 정확한 범행 동기를 조사하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전공의 대표 “의협회장은 대체 뭐 하는 사람?” 공개 저격</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/06/14/MB543G4N5BHJTMCBKKV6ZH7LSA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/14/MB543G4N5BHJTMCBKKV6ZH7LSA/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Jun 2024 21:55:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TXPT5W533BLXXHTE42NBSFEKEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박단 대한전공의협의회 비상대책위원장이 지난달 3일 오후 서울 서초구 서울행정법원 앞에서 조규홍 보건복지부 장관을 상대로 업무개시명령 취소, 진료유지명령 취소, 사직서 수리 금지 명령 취소 소송을 제기한 뒤 브리핑을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한의사협회(의협)가 18일 ‘전면 휴진’을 선언한 가운데, 전공의 대표는 임현택 의협 회장을 공개적으로 비판하며 내부에서 파열음이 나오고 있다.&lt;br&gt;&lt;br&gt;박단 대한전공의협의회(대전협) 비상대책위원회 위원장은 13일 오후 자신의 페이스북에 “임현택 회장은 도대체 뭐 하는 사람이죠?”라며 임 회장을 직접 거론했다.&lt;br&gt;&lt;br&gt;박 위원장은 이날 의협이 의대 교수 단체 등과 연석회의를 한 뒤 모든 직역이 의협 중심의 단일창구를 만들겠다고 뜻을 모았다는 기사의 링크를 걸었다. 이 자리에서 최안나 의협 대변인은 조만간 의료계의 통일된 요구안을 정부에 제시하고, 이에 정부가 전향적으로 답을 주는 경우 전면 휴진을 재고할 수도 있다는 입장을 내비쳤다. 다만, 정부 입장에 변화가 없다면 의협을 비롯해 전국의과대학교수협의회, 전국 의과대학 교수 비상대책위원회 등이 포함된 ‘범의료계 대책위원회’를 구성해 오는 18일 전국적인 휴진과 총궐기대회 등 강경 투쟁을 진행하겠다고 했다.&lt;br&gt;&lt;br&gt;전공의들과 소통하느냐는 질문에는 “전공의 단체와는 모든 내용을 공유한다. 박단 비대위원장이 의협 정책이사이기 때문에 모든 연락이 가고 있다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 박 위원장은 “중심? 뭘 자꾸 본인이 중심이라는 것인지”라며 “벌써 유월 중순인데 임현택 회장은 이제는 말이 아니라 일을 해야 하지 않을지. 여전히 전공의와 학생만 앞세우고 있지 않나”라고 했다. 이어 “단일 대화 창구? 통일된 요구안? 임현택 회장과 합의한 적 없다”며 “범의료계 대책위원회? 안 간다”고 못 박았다. 그러면서 “대한전공의협의회의 요구안은 변함없다”고 했다.&lt;br&gt;&lt;br&gt;대전협은 전공의 집단 사직에 앞서 ▲의대 증원 2000명 계획과 필수 의료 패키지 전면 철회 ▲의사 수계 추계 기구 설치 ▲수련병원 전문의 인력 채용 확대 ▲불가항력 의료사고에 대한 법적 부담 완화 ▲전공의 수련환경 개선 ▲부당명령 철회 및 사과 ▲업무개시명령 전면 폐지 등 정부에 7가지 요구사항을 제시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 빅5 간호사 “휴진하려면 교수가 직접 진료일정 바꿔라”</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/06/14/3LVG4NNB4FFBNGXH275SSWIIPE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/14/3LVG4NNB4FFBNGXH275SSWIIPE/</guid>
@@ -821,31 +848,6 @@
       <description/>
       <pubDate>Mon, 03 Jun 2024 15:40:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GL4O447UAZCVFHHNGV5EIQLXRI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] It must feel good to~</title>
-      <link>https://www.chosun.com/national/nie/english/2024/06/03/22OKVAEMKBEPDFTSIATMGUXYS4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/06/03/22OKVAEMKBEPDFTSIATMGUXYS4/</guid>
-      <description/>
-      <pubDate>Sun, 02 Jun 2024 20:01:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OHVFBCQMQBBZHG6AGWUIHHRGZE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] It’s doable!</title>
-      <link>https://www.chosun.com/national/nie/english/2024/06/12/YIDTHJZKGFEMPFXL52VWQZ3XYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/06/12/YIDTHJZKGFEMPFXL52VWQZ3XYQ/</guid>
-      <description/>
-      <pubDate>Tue, 11 Jun 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3LVE365BUZEX3IPIK7HZPKYCDM.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한밤에 벌통 훔쳤다가...부착해 둔 GPS에 덜미</title>
-      <link>https://www.chosun.com/national/incident/2024/06/13/ZIHJPJ3TKRDSBFT6Z6Y3UHDMV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/13/ZIHJPJ3TKRDSBFT6Z6Y3UHDMV4/</guid>
-      <dc:creator>홍천=정성원 기자</dc:creator>
-      <description>꿀 수확을 앞둔 벌통을 훔쳐 달아난 60대가 벌통 안에 설치된 위치정보시스템(GPS) 때문에 덜미가 잡혔다.강원 홍천경찰서는 절도 혐의로 60대 A씨를 붙잡아 조사 중이라고 13일 밝혔다.</description>
-      <pubDate>Thu, 13 Jun 2024 05:04:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z54UH5VJLZEXJEQW5HDFDSR5GQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;꿀 수확을 앞둔 벌통을 훔쳐 달아난 60대가 벌통 안에 설치된 위치정보시스템(GPS) 장치 때문에 덜미가 잡혔다.&lt;br&gt;&lt;br&gt;강원 홍천경찰서는 절도 혐의로 60대 A씨를 붙잡아 조사 중이라고 13일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 11일 새벽 3시쯤 강원 홍천군 남면 홍천강 인근 야산에서 나무 벌통을 훔쳐 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;벌통 주인인 B씨는 다음날인 12일 오전 11시쯤 도난 사실을 인지하고 경찰에 신고했다. 경찰은 벌통에 넣어둔 GPS 장치를 따라 벌통의 위치를 추적해 A씨를 붙잡았다.&lt;br&gt;&lt;br&gt;이에 앞서 A씨는 지난달에도 B씨의 벌통을 훔친 것으로 조사됐으며, 당시 현장에 출동한 경찰은 A씨에게 도난 방지를 위해 GPS 장치를 달아두라고 권유한 것으로 알려졌다. 경찰은 A씨를 상대로 범행 동기 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>서울시, 잠실·삼성·대치·청담 토지거래허가구역 1년 연장</title>
