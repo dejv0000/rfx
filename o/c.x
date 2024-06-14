@@ -13,6 +13,149 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘농구 전설’ 박찬숙 “12억 사업 빚에 파산, 극단적 생각도 했다”</title>
+      <link>https://www.chosun.com/national/people/2024/06/14/YVLUFI5KWBG5TMGP7BY5KQEQOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/14/YVLUFI5KWBG5TMGP7BY5KQEQOQ/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Jun 2024 02:31:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WGUMXPW45RHSJM27E64FXK43N4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전 농구선수 박찬숙. /채널A 시사·교양 프로그램 ‘오은영의 금쪽 상담소’ 방송 화면&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 여자농구의 전설 박찬숙(65)이 과거 사업 실패로 12억 원이 넘는 빚을 떠안고 극단적 선택까지 생각했다고 털어놨다.&lt;br&gt;&lt;br&gt;박찬숙은 13일 방송된 채널A 시사·교양 프로그램 ‘오은영의 금쪽 상담소’에 배우인 딸 서효명(38)과 함께 출연해 그동안의 순탄치 못한 경험들을 고백했다. 그는 “농구 코치 생활을 하던 중 친척 소개로 알게 된 지인이 동업을 제안했다”며 “대표 겸 투자자였는데 부도가 났다. 법원에서 출두 명령이 날아오고 채권자들이 돈을 받겠다면서 집에 찾아오기도 했다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “나중에는 부모님 집까지 담보로 했다. 답은 파산이더라”며 “평생 농구만 했기에 법원에서 뭐가 날아온다는 건 상상도 못 해봤다. 읽어보지도 않고 찢어버렸다”고 회상했다. 그러면서 “제가 생각하는 법원은 큰 죄를 지어야 가는 곳이었다. 나는 잘못한 게 없는데 왜 날 오라고 하지. 너무 힘들더라”고 했다.&lt;br&gt;&lt;br&gt;박찬숙은 “이렇게 살면 안 되는데, 내가 이렇게 가치 없는 사람이 아닌데 왜 이렇게 됐을까 라는 생각을 했다”며 “딱 한 번 이 세상에서 숨을 안 쉬어야겠다는 생각도 했다. 누구한테도 얘기할 수 없었다. 내가 저지른 일이었으니까. 지금까지 살면서 가장 힘들었다”고 말했다.&lt;br&gt;&lt;br&gt;극단적 선택까지 생각했던 그가 끝내 극복할 수 있었던 건 가족이었다. 박찬숙은 “아침에 눈을 떴는데 눈앞에 벽이 쳐진 듯 안 보이더라. 아 이래서 죽는구나 라는 생각을 했다. 그때 생각한 게 내 자식들”이라며 “우리 딸이 있고 아들이 있는데 내가 무슨 생각을 하나 싶어 바로 털고 일어났다. 할 수 있다고 생각하고 다시 힘을 내서 걸었다”고 했다.&lt;br&gt;&lt;br&gt;박찬숙은 190㎝의 큰 키와 독보적인 실력으로 국내 여자농구계 최정상급 센터로 불렸다. 숭의여자고등학교 1학년에 재학 중이던 1975년 최연소 국가대표로 발탁되기도 했다. 1979년 국제농구연맹(FIBA) 세계여자선수권대회 은메달과 1984년 로스앤젤레스 올림픽 여자농구 은메달 획득에 기여하며 당대를 대표하는 스포츠 스타로 전성기를 누렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김여사 건넨 ‘디올백’ 산 서울의소리 기자 “백 돌려달라”</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/14/YXZQBCP52ND5TJDFTSY5WIWGIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/14/YXZQBCP52ND5TJDFTSY5WIWGIY/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Jun 2024 02:18:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z432W3AKFJNKDKMMGKOZ4L4MRY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 명품백 수수 의혹을 보도한 이명수 서울의소리 기자가 14일 오전 서울 영등포경찰서에 출석하며 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 부인 김건희 여사에게 건네진 명품 가방을 직접 구매한 서울의소리 이명수 기자가 14일 경찰에 출석했다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 이날 오전 건조물침입, 정보통신망법상 명예훼손 등 혐의로 고발된 이 기자를 피고발인 신분으로 불러 조사하고 있다.&lt;br&gt;&lt;br&gt;이 기자는 김 여사에게 건넬 디올 백을 직접 구매하고, 전달자인 최재영 목사에게 몰래카메라 등을 제공한 것으로 알려진 인물이다.&lt;br&gt;&lt;br&gt;이 기자는 이날 경찰에 출석하며 “김 여사에게 요구한다. 디올백과 샤넬 화장품, 제가 제 돈으로 사준 것”이라며 “디올백과 샤넬 화장품 이제 돌려달라”고 말했다.&lt;br&gt;&lt;br&gt;이 기자는 “김 여사는 호위무사들에 숨어 더 이상 침묵하지 말고 자신의 정확한 입장을 밝혀달라”며 “명품백을 받은 사안에 대해 자신의 입장을 스스로 밝혀 국민 의혹을 해소해 달라. 그리고 스스로 처벌을 받겠다고 말씀해달라”고 했다.&lt;br&gt;&lt;br&gt;경찰은 명품 가방 등을 구매하고 선물한 경위, 취재 및 보도 과정, 최 목사와의 소통 내용 등을 조사할 것으로 보인다.&lt;br&gt;&lt;br&gt;이 기자는 지난 대선 직전 김 여사와의 7시간 분량 전화 통화 내용을 녹음해 공개하기도 했었다. 지난달 30일 정보통신망법상 명예훼손 등 혐의로 피의자 신분으로 검찰에 출석해 조사받기도 했다.&lt;br&gt;&lt;br&gt;한편 이 기자와 함께 고발된 최 목사도 전날 영등포경찰서에 출석해 약 7시간 동안 조사를 받았다. 그는 “이 사건의 본질은 김 여사가 저희의 언더커버 선물을 무분별하게 다 받은 것”이라며 “김 여사는 제공하는 선물을 다 받았고, 시도하는 청탁 중 일부를 들어주려 관계부처 직원 등과 연결해주는 등 노력했다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>탄광촌 애물단지 ‘검은 돌덩어리’...석탄 경석 2억t , 황금알되나</title>
+      <link>https://www.chosun.com/national/regional/2024/06/14/MAOBB4CCQVGDTB4TVMQ2DRP5TU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/14/MAOBB4CCQVGDTB4TVMQ2DRP5TU/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>폐기물로 취급받던 석탄 경석이 폐광지역을 살릴 새로운 산업 자원으로 떠오르고 있다.석탄 경석은 석탄을 캐는 과정에서 섞여 나오는 검은색 돌덩어리다. 그동안 마땅한 경제적 활용방안이 없어 폐기물로 관리됐다.</description>
+      <pubDate>Fri, 14 Jun 2024 01:06:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ASK3E25NWFLD5T5R3CZX25O7M4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;석탄 경석 규제 개선 업무협약식이 지난 13일 강원도청에서 이상호 태백시장, 한화진 환경부 장관, 이상민 행정안전부 장관, 김진태 강원지사(왼쪽부터) 등이 참석한 가운데 열렸다. / 뉴시스
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폐기물로 취급받던 석탄 경석이 폐광지역을 살릴 새로운 산업 자원으로 떠오르고 있다.&lt;br&gt;&lt;br&gt;석탄 경석은 석탄을 캐는 과정에서 섞여 나오는 검은색 돌덩어리다. 그동안 마땅한 경제적 활용방안이 없어 폐기물로 관리됐다. 태백과 정선 등 국내 탄광 지역을 중심으로 현재 2억t 이상이 쌓여 있는 것으로 추산되고 있다.&lt;br&gt;&lt;br&gt;그러나 최근 경량 골재나 단열재, 세라믹 원료 등으로 활용할 수 있는 기술이 개발되면서 애물단지 석탄 경석이 폐광지역을 먹여 살릴 새로운 미래 먹을거리로 떠오르고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OXYGCB3ECJA5RHTXRQNR53QT2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 태백시 일원 야산에 쌓여 있는 석탄 경석(석탄을 캐는 과정에서 섞여 나온 검은 돌덩이). 그동안 석탄 경석은 폐기물로 분류돼 애물단지 취급을 받아 왔지만, 최근 석탄 경석을 산업 자원으로 활용할 수 있는 기술이 개발되면서 폐광지역의 새로운 미래 먹을거리로 떠오르고 있다. / 강원도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 13일엔 행정안전부와 환경부, 강원도, 태백시가 강원도청에서 석탄 경석 규제개선을 위한 업무협약을 체결하면서 석탄 경석을 산업자원으로 활용할 수 있는 길이 본격적으로 열렸다. 석탄 경석을 폐기물에서 제외하고 산업적으로 활용하는데 상호 협력·지원하는 것이 이번 협약의 골자다.&lt;br&gt;&lt;br&gt;강원테크노파크 원료산업지원센터는 이번 규제 개선으로 원료 판매와 부산물 판매 등을 통해 1545억원의 직접적 수익이 발생할 것으로 기대했다. 또 개발 행위 재개 등으로 1838억원의 간접적 편익이 발생하는 등 총 3383억원의 경제적 편익이 발생할 것으로 추산했다.&lt;br&gt;&lt;br&gt;김진태 강원지사는 14일 “폐광지역이 재기의 기회를 얻게 될 것”이라며 “애물단지로 취급받던 석탄 경석을 가치 있게 활용해 나가도록 노력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>중국산 쭈꾸미 ‘국산’ 둔갑, 태안 로컬푸드매장에 납품…업체 대표 입건</title>
+      <link>https://www.chosun.com/national/regional/2024/06/14/XRX25Q5C45BPTFZ453EZ6WRTWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/14/XRX25Q5C45BPTFZ453EZ6WRTWU/</guid>
+      <dc:creator>태안=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Jun 2024 02:02:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DYWHNOYWQ65XHTLAE4BYQTVPXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;태안해양경찰서 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 태안군이 운영하는 로컬푸드매장에 국산으로 둔갑한 중국산 주꾸미가 납품됐고, 일부는 다른 지역 학교 급식용으로 유통된 것으로 드러났다.&lt;br&gt;&lt;br&gt;14일 태안군 등에 따르면 로컬푸드매장은 지난 4월 27일부터 4차례에 걸쳐 A업체에 1억500만원 상당의 주꾸미 4.23t을 납품받았다. 당시 납품 업체는 ‘수협에서 수매했다’는 서류를 제출했다.&lt;br&gt;&lt;br&gt;하지만 A업체가 태안로컬푸드매장에 납품한 주꾸미는 중국산인 것으로 확인됐다. A업체가 납품한 주꾸미 가운데 740㎏은 아산 등 다른 지역으로 유통됐고, 이 가운데 일부는 학교 급식용으로 쓰인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;국산 주꾸미는 1㎏당 3만∼3만5000원에 거래되는 반면 중국산 주꾸미 가격은 2만원 아래로 저렴하다.&lt;br&gt;&lt;br&gt;해경은 A업체 관계자 등을 원산지 표시 위반 등 혐의로 불구속 입건하는 한편 A업체의 중국산 주꾸미 구매 경로를 조사하고 있다. 남은 중국산 주꾸미 3.49t은 태안로컬푸드매장의 냉동고에 압류돼 있다.&lt;br&gt;&lt;br&gt;태안군 관계자는 “해당 업체가 수협 수매확인서까지 제출해 중국산이라고 생각도 못 했다”며 “납품대금은 돌려받을 것이고, 로컬푸드매장의 이미지 실추 책임을 물어 손해배상을 청구하는 등 엄정 대응할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>작년 노인 학대 10건 중 6건은 배우자·아들이 가해자</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/06/14/OVIHY7KX5FGBNET6OAXESMNZUQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/14/OVIHY7KX5FGBNET6OAXESMNZUQ/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Jun 2024 02:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B7KG26VL43HCF2UVDNCXC5JLME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2021년 6월 서울 종로구 탑골공원에서 어르신들이 휴식을 취하고 있다. /뉴스1 (기사와 무관한 사진)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 발생한 노인 학대 10건 중 6건은 피해 노인의 배우자와 아들이 저지른 것으로 14일 나타났다.&lt;br&gt;&lt;br&gt;보건복지부가 이날 발표한 ‘2023년 노인 학대 현황 보고서’에 따르면, 지난해 전국 37개 노인 보호 전문 기관에 신고된 노인 학대는 총 2만1936건이다. 지난 2022년(1만9552건)보다 12.2% 증가했다.&lt;br&gt;&lt;br&gt;지난해 신고 건수의 32%인 7025건이 학대로 판정 받았다. 학대 장소는 가정이 6079건(86.5%)으로 가장 많았고, 이어 시설 679건(9.7%), 병원 115건(1.6%) 등 순이었다. 학대를 한 사람은 배우자가 2830건(35.8%), 아들이 2080건(26.3%)이었다. 10명 중 6명(62.1%)은 배우자와 아들에게 학대를 당한 셈이다.&lt;br&gt;&lt;br&gt;69세 이하 어르신의 학대도 꾸준히 증가했다. 지난 2021년 1428건으로 전체 노인 학대의 21.1%를 차지하던 69세 이하 어르신의 피해 사례는 지난해 1655건(23.6%)로 증가했다. 치매 어르신의 노인 학대 또한 지난 2021년 1092건(16.1%)에서 지난해 1214건(17.3%)으로 늘어났다.&lt;br&gt;&lt;br&gt;한편 복지부는 이날 오전 서울 마포구 한 호텔에서 ‘제8회 노인 학대 예방의 날’ 행사를 열었다. 이번 행사에서 노인 인권을 위해 힘써 온 개인·단체가 포상·표창을 받았다. 이기일 복지부 1차관은 “노인 학대 범죄자의 취업 실태를 공개하고 재학대 위험군에 대한 사후 관리를 강화하겠다”며 “어르신들의 인권을 보호하고 어르신들이 안전한 노후를 보낼 수 있도록 앞으로도 노인 학대 예방과 근절을 위해 노력하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“구청 직원인데, 장사 망하게 할거야” 바닥에 술 버리고 ‘적반하장’</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/14/IDVVZZOSNRA5ZBNC7AIBF2KNYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/14/IDVVZZOSNRA5ZBNC7AIBF2KNYQ/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Jun 2024 01:55:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B6J25TLZC5FWHNHOVUH32WZ26I.gif"&gt;&lt;figcaption&gt;&lt;small&gt;한 치킨집에서 남성 손님이 잔에 든 맥주를 바닥에 버린 후 컵을 입에 가져다대고 있다. /'아프니까 사장이다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작은 치킨집을 운영하는 사장이 손님이 흘린 술을 앞에서 닦았다는 이유로 “장사를 망하게 하겠다”는 항의를 받았다고 주장했다.&lt;br&gt;&lt;br&gt;13일 자영업자 커뮤니티 ‘아프니까 사장이다’에는 ‘마음이 힘드네요’라는 제목의 글이 올라왔다.&lt;br&gt;&lt;br&gt;직원 없이 아내와 작은 치킨집을 운영하고 있다고 밝힌 글쓴이 A씨는 “며칠 전 홀 마감 직전에 이미 술을 마신 손님들이 들어오셨다”며 “30분만 먹고 가겠다고 하기에 경기도 어려우니 한 푼이라도 아쉬운 상황에 손님을 받았다”고 했다. 이어 “그런데 그게 이렇게 큰 화근이 될 줄은 몰랐다”고 했다.&lt;br&gt;&lt;br&gt;40~50대로 보이는 남성 4명은 치킨과 술을 주문했다. 음식을 내간 뒤 A씨 아내는 테이블 바닥에 맥주가 흥건한 모습을 보게 됐다. A씨가 올린 당시 CCTV 화면을 보면, 통로 쪽 테이블에 앉은 남성 한 명은 두 차례에 걸쳐 술을 바닥에 버렸다. 이후 술잔을 입에 가져다 댔다.&lt;br&gt;&lt;br&gt;바닥이 미끄러워 사고가 날까 봐 걱정된 A씨의 아내는 “물을 흘리셨나요?”라고 물었고, 손님 한 명은 자신은 모르는 일이라는 행동을 취했다고 한다. 다른 손님들은 “네가 그런 거 아니냐”며 대수롭지 않게 대화를 나눴다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DO26IK6EDFGOJGLUCACQ6HYWOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손님이 바닥에 흘린 맥주를 닦는 A씨의 아내(위), 가게 밖에서도 항의하는 손님을 일행이 말리는 모습. /'아프니까 사장이다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이후 CCTV 화면을 보면, A씨 아내는 키친타월로 테이블 쪽 맥주가 가득한 곳을 닦았다. 그러자 얼마 되지 않아 손님들이 자리에서 일어섰다. 계산을 마치고 가게를 나가는 줄 알았던 손님 중 한 명이 다시 가게로 들어오더니 A씨 아내에게 무언가를 말했다.&lt;br&gt;&lt;br&gt;A씨는 “처음에 손님 한 명이 다시 들어와서 ‘바닥 치우는 게 뭐 그리 대수냐?’고 했고, 그러는 와중에 다른 손님들도 다시 들어와서는 아내에게 고래고래 소리 지르고 삿대질했다”고 했다. A씨에 따르면, 손님들은 “내가 돈 주고 사 먹는데. 바닥에 오줌을 쌌냐? 맥주를 흘릴 수도 있지. 먹튀를 했냐? 이런 식으로 장사하면 부자 되겠다” 등의 발언을 했다. 손님 한 명은 “나 여기 구청 직원인데 동네에 모르는 사람 없다. 내가 이런 가게는 처음 본다. 장사 바로 망하게 해주겠다”는 이야기를 했다고 한다.&lt;br&gt;&lt;br&gt;A씨는 “저와 아내는 터무니없는 협박에 무서웠지만 순간적으로 겁이 나서 아무 말도 못했다”며 “CCTV를 돌려보니 손님은 실수가 아니라 맥주를 바닥에 뿌리는 수준이었다”고 했다. 이어 “그 순간 아무것도 할 수 없었던 저 자신이 너무 초라하고 아내에게 큰 상처를 준 것 같아 너무 마음이 아프다”며 “그날 이후로 저는 잠을 이루기 힘들고, 아내는 가게에 못 나오겠다고 한다”고 했다.&lt;br&gt;&lt;br&gt;이 글을 본 네티즌은 “술 마시기 싫어서 일부러 마신 척 몰래 버린 것 같은데 사장님 때문에 걸렸다 생각드니 진상부린 것 같다”고 추측했다. 또 다수의 네티즌들은 “CCTV 증거자료 있으니 구청, 시청에 민원 제기하라”고 조언했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>첸백시, SM 소송에 맞불…“칼 빼든 SM, 정당한 법의 판단받겠다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/14/AICVLIRDHBBM5HOBY3S6YGR45Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/14/AICVLIRDHBBM5HOBY3S6YGR45Q/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Jun 2024 01:40:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BDW7FFXTSSD26LRZDEHIXHKSM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;엑소 첸백시. 왼쪽부터 멤버 백현, 시우민, 첸. /SM엔터테인먼트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 엑소의 첸, 백현, 시우민(이하 첸백시)이 SM엔터테인먼트에 정산금 청구 소송을 내기로 했다. SM이 낸 ‘계약 이행 청구의 소’에 대한 맞불 소송이다.&lt;br&gt;&lt;br&gt;첸백시 측은 14일 입장문을 내고 “지난 12일 SM이 우리를 상대로 소송을 제기했다”며 “SM은 우리의 협상안에 대해 아무런 응답도 없이, 곧바로 법적 대응이라는 무시무시한 칼을 뽑아 들었다”고 했다.&lt;br&gt;&lt;br&gt;첸백시 측은 “우리는 기자회견에서 매출액의 10% 대신 SM의 음원 등 자산과 성명에 대한 사용료는 지급하는 합의안도 적극적으로 제안했는데 SM은 이를 무시했다”며 “SM이 먼저 소송을 제기한 만큼 저희는 작년의 협상 과정을 비롯한 모든 것을 공개하고 적극적으로 임하겠다”고 했다.&lt;br&gt;&lt;br&gt;첸백시 측은 “저희가 늘 의문을 가졌던 정산에 관해 SM에 대해 정산금 청구 소송을 제기하겠다”며 “해당 소송 절차를 통해 회계 자료와 정산 자료를 받아 저희의 정당한 권리를 주장하겠다”고 했다.&lt;br&gt;&lt;br&gt;첸백시 측은 “사랑과 응원을 보내 주시고 늘 행복만 받으셔야 하는 팬 분들께, 작년과 같은 문제로 불안감과 실망감을 안겨 드려서 정말 송구스러운 마음”이라며 “앞으로 입장문을 최소화하고, 이 상황을 빠르게 해결할 수 있도록 노력하겠다”라고 했다.&lt;br&gt;&lt;br&gt;첸백시는 SM과 재계약을 맺었지만 정산 자료 제출 등을 요구하며 갈등을 보였다. 이후 매출 10%를 로열티로 SM에 지급하기로 하고 지난해 6월 갈등을 봉합했다. 하지만 첸백시 측이 이런 요구가 부당하다며 최근 기자회견을 열면서 갈등이 다시 커졌다.&lt;br&gt;&lt;br&gt;첸백시 측은 SM이 음반·음원 유통사 카카오가 수수료율 5.5%를 적용하게 해 주겠다고 약속했는데 이를 지키지 않았다고 주장하고 있다.&lt;br&gt;&lt;br&gt;SM은 “당사와 첸백시와의 전속계약은 현재도 유효하다”며 “개인 법인을 통해 개인 활동을 하는 것을 허용하는 한편, 첸백시는 개인 법인 매출의 10%를 지급하는 등으로 합의서에 스스로 날인했다”며 계약을 이행하라는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>뇌전증 교수들도 총파업 불참… 의협 향해 “환자 겁주지 말라”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/06/14/IMYTMTF6TVC3FKQUT27FQCZHPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/14/IMYTMTF6TVC3FKQUT27FQCZHPI/</guid>
+      <dc:creator>안준용 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Jun 2024 00:53:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ROMGIP25K2XS7S5JEKP4UFT6LI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국환자단체연합회 등 환자 단체 관계자들이 13일 서울 여의도 국회 앞에서 환자의 생명과 건강을 위협하는 의료계 집단휴진 철회 촉구 환자단체 공동 기자회견을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뇌전증 전문 교수들이 18일로 예정된 대한의사협회(의협) 차원의 총파업(집단 휴진)에 참여하지 않겠다고 밝혔다. 분만병의원협회와 대한아동병원협회에 이어 의사 단체의 세 번째 불참 선언이다.&lt;br&gt;&lt;br&gt;대학병원 뇌전증 전문 교수들로 구성된 ‘전국 거점 뇌전증지원병원 협의체’는 14일 입장문을 내고 “뇌전증은 치료 중단 시 신체 손상과 사망 위험이 수십 배 높아지는 뇌질환으로, 약물 투여 중단은 절대 해선 안 된다”며 “협의체 차원에서 의협의 단체 휴진에 불참하기로 결정했다”고 했다.&lt;br&gt;&lt;br&gt;협의체는 “의협의 단체 휴진 발표로 많은 뇌전증 환자와 가족들이 혹시 처방전을 받지 못할까 불안과 두려움에 떨고 있다”면서 “약물 난치성 뇌전증 환자들은 갑자기 약물을 중단하면 사망률이 일반인의 50-100배로 높아진다”고 했다. 이어 “뇌전증 지식이 없고 치료하지 않는 의사들은 처방하기 어려우며 일반약국에서 대부분 (약물을) 구할 수도 없다”며 “항뇌전증약의 일정한 혈중 농도를 항상 유지해야 하기 때문에 단 한 번 약을 먹지 않아도 심각한 경련이 발생하여 환자의 생명을 위태롭게 할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;협의체는 의협 등의 집단 휴진과 관련해 “환자들의 질병과 아픈 마음을 돌봐야 하는 의사들이 환자들을 겁주고 위기에 빠뜨리는 행동을 하는 것은 삼가야 한다”며 “잘못이 없는 중증 환자들에게 피해와 고통을 주지 말고, 차라리 삭발하고 단식을 하면서 과거 민주화 투쟁과 같이 스스로를 희생하면서 정부에 대항하는 것이 맞는다”고도 했다.&lt;br&gt;&lt;br&gt;또 “전공의 사직 후 115일 동안 수많은 중증 환자들과 가족들이 극심한 고통과 피해를 보고 있다”며 “먼저 아픈 환자들을 살리고 전 세계 정보 수집, 전문가 토론회 및 과학적 분석을 통해 2026년 의대정원을 재조정하는데 초점을 맞춰야 한다. 그렇지 않으면 전 국민의 공분을 피할 수 없고, 나아가 전 세계 의료인들의 비난을 받게 될 것 같다”고도 했다.&lt;br&gt;&lt;br&gt;앞서 의협 총파업에는 전국의과대학교수협의회(전의교협), 전국의과대학교수비상대책위원회(전의비) 등 교수 단체가 동참 의사를 밝혔지만, 의사 단체들의 불참 선언도 잇따르고 있다. 분만병의원협회가 진료를 유지하겠다고 밝혔고, 대한마취통증의학회는 필수적인 수술에 필요한 인력은 병원에 남겠다는 입장을 냈다. 전날엔 전국 120여곳 아동병원이 속한 대한아동병원협회가 “의협의 투쟁에 공감하지만 환자를 두고 떠나기 어렵다”며 진료를 유지하겠다고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제대 앞둔 군인, 길가던 여중생 뒤따라가 몰카 찍다 '덜미'</title>
+      <link>https://www.chosun.com/site/data/html_dir/2019/12/18/2019121802548.html</link>
+      <guid isPermaLink="true">https://www.chosun.com/site/data/html_dir/2019/12/18/2019121802548.html</guid>
+      <dc:creator>이윤정 기자</dc:creator>
+      <description>전북 전주완산경찰서는 여중생의 신체 일부를 휴대전화로 몰래 촬영한 혐의(성폭력범죄의 처벌 등에 관한 특례법 위반)로 현역 군인 A씨를 불구속 입건했다고 18일 밝혔다.A씨는 지난 6일 오후 5시 50분쯤 전주 시내 한 거리를 걷던 여중생 B(15)양의 뒤를 따라가 휴대전화로 신체 일부를 불법 촬영한 혐의를 받고 있다. 경찰은 피해자 가족의 신고로 출동한 뒤</description>
+      <pubDate>Wed, 18 Dec 2019 07:21:06 +0000</pubDate>
+      <content:encoded>전북 전주완산경찰서는 여중생의 신체 일부를 휴대전화로 몰래 촬영한 혐의(성폭력범죄의 처벌 등에 관한 특례법 위반)로 현역 군인 A씨를 불구속 입건했다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 6일 오후 5시 50분쯤 전주 시내 한 거리를 걷던 여중생 B양의 뒤를 따라가 휴대전화로 신체 일부를 불법 촬영한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D4BF5K3BRT3J5R4WVXIFM6CUI4.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 피해자 가족의 신고로 출동한 뒤 폐쇄회로(CC)TV 영상 등을 분석해 이동경로를 추적, A씨를 검거했다.&lt;br&gt;&lt;br&gt;A씨는 이달 제대를 앞두고 있는 것으로 알려졌다. 경찰 관계자는 "헌병대와 논의한 끝에 제대 후 조사하기로 했다"며 "아직 정식 조사를 하지 않아 구체적인 사항은 말해줄 수 없다"고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/D4BF5K3BRT3J5R4WVXIFM6CUI4.png?width=599&amp;height=386&amp;auth=c156b440b54d560b602a0f582c5491b16944518c7457659c4956b26c9d50dc23&amp;smart=true" type="image/png" height="386" width="599">
+        <media:credit role="author" scheme="urn:ebu">일러스트=정다운</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>내일 전국 비…더위 잠시 주춤</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/06/14/DB3STOQILFBTRHHA6NG6ZTTD6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/06/14/DB3STOQILFBTRHHA6NG6ZTTD6M/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Jun 2024 01:21:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WATI2DRHBVMZRM4YNCDSG7NLTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 15일 전국에 비가 내리며 무더위가 잠시 해소되겠다고 기상청이 14일 밝혔다. 다만 열기를 완전히 식혀줄 만큼 많은 양이 내리는 것은 아니어서 비가 그치고 나면 다시 기온이 오를 수 있다.&lt;br&gt;&lt;br&gt;이날 기상청에 따르면, 15일 수도권과 강원도·제주도는 비구름대를 동반한 기압골의 영향, 충청·전라·경상권은 소나기 구름대의 영향으로 각각 비가 내리겠다. 예상 강수량은 수도권 5~10㎜, 강원·충청·전라·경상권과 제주도 5~20㎜다. 소나기가 내리는 지역에선 돌풍을 동반한 천둥·번개가 예상된다.&lt;br&gt;&lt;br&gt;최근 35도 이상으로 올랐던 한낮 기온은 비의 여파로 한풀 꺾이겠다. 14일 현재 전라·경상권을 중심으로 내려진 폭염특보도 비와 함께 해제될 가능성이 크다. 15일 아침 최저기온은 18~23도, 낮최고기온은 25~32도로 예보됐다. 16일은 최저 16~22도, 최고 24~31도로 예상된다. 다만 최근 때 이른 폭염(暴炎)을 감안할 때 기온이 다소 낮아진 것일뿐, 평년보다는 여전히 3도 가량 높은 기온이라 더위는 사실상 지속되겠다.&lt;br&gt;&lt;br&gt;다음주는 다시 전국이 고기압 영향권에 들면서 기온이 점차 오를 전망이다. 제주도만 19일과 21일에 남쪽 해상을 지나는 저기압의 영향으로 비가 예고됐다. 다음주 최고기온은 32도 수준에서 형성될 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>지리산서 가족 산삼 17뿌리 발견...감정가 1억3600만원</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/14/NT64YF3XDNGNJLQCJX7KPHESUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/14/NT64YF3XDNGNJLQCJX7KPHESUU/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Jun 2024 23:59:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FRMCPGYU4B5D72EH2PMHPX562Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지리산에서 발견된 가족 산삼. /한국전통심마니협회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지리산에서 모삼 수령만 약 70년으로 추정되는 가족 산삼 17뿌리가 발견됐다. 감정가는 1억3000만원을 넘었다.&lt;br&gt;&lt;br&gt;14일 한국전통심마니협회에 따르면 최근 경남 산청군 지리산 자락에서 60대 약초꾼이 총 17뿌리의 대형 가족 산삼을 채취했다.&lt;br&gt;&lt;br&gt;산삼 머리(뇌두) 부분 아래로 다른 산삼 16개 뿌리가 자라난 것을 캔 것이다. 이 산삼은 어미삼(모삼) 무게 45ｇ을 포함해 전체 무게는 135ｇ이다.&lt;br&gt;&lt;br&gt;모삼 수령은 약 70년으로 추정됐다. 감정가는 100년근 천종산삼의 절반 수준인 1억3600만원으로 책정됐다.&lt;br&gt;&lt;br&gt;한국전통심마니협회 관계자는 “잔뿌리를 떼어 직접 향과 맛 성질을 구분하는 등 철저한 감정을 통해 국내산 산삼인 것을 확인했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “최근 산에 미리 옮겨 심어놓은 중국삼이 국내산 진품으로 둔갑해 시장을 어지럽히는 경우가 있으니 반드시 올바른 감정을 거쳐야 한다”고 했다.&lt;br&gt;&lt;br&gt;한국전통심마니협회에 따르면, 국내산 진품 산삼은 짙은 박하 향에 단맛이 강하다. 인삼에 비하여 쓴 맛이 덜하고, 입에서 부드럽게 넘어가는 특징이 있다.&lt;br&gt;&lt;br&gt;산삼은 명칭 그대로 자연에서 자라는 인삼을 뜻한다. 산삼을 인공 재배한 것이 인삼, 인삼을 찌고 말린 것이 홍삼이다. 산삼은 통상 인위적으로 재배된 인삼이나 홍삼과 다르게 청정 자연에서 자란다. 인삼에 비해 생장도 더디고 크기가 작아서 가격이 비싸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘3명 인명사고’ 뺑소니 컨테이너 선박 중국인 선원 ‘긴급 체포’</title>
+      <link>https://www.chosun.com/national/regional/honam/2024/06/14/PNNEOKD2AFGJZMXF3SDROIZYXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/06/14/PNNEOKD2AFGJZMXF3SDROIZYXA/</guid>
+      <dc:creator>신안=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Jun 2024 00:51:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XGQIZTAGSJI3HBFZW752WTJ76Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 13일 오전 3시18분께 전남 신안군 가거도 북동방 18㎞ 해상에서 33t급 통영 선적 근해장어통발어선이 뒤집어져 목포해경이 수색 작업을 벌이고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1명의 사망자와 2명의 실종자가 발생한 전남 신안군 가거도 해상에서 선박 충돌사고와 관련해 해경이 사고 뒤 구호조치 없이 달아난 혐의로 컨테이너 선박 선원을 긴급체포했다.&lt;br&gt;&lt;br&gt;목포해양경찰서는 14일 “통영선적 33t급 근해통발어선 A호를 충격하고 달아나 인명피해를 낸 혐의(특정범죄가중처벌법상 선박 교통사고 도주)로 홍콩선적 9734t급 컨테이너선 중국 국적 선원 B씨 등 2명을 입건해 조사 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;해경에 따르면 전날 오전 0시35분쯤 전남 신안군 가거도 북동쪽 18㎞ 해상에서 A호가 전복돼 선원 9명 중 50대 한국인 선장이 숨지고 인도네시아 국적 선원 2명이 실종됐다. 나머지 선원 6명은 부유물을 잡고 버티다 인근 어선에 인해 구조됐다.&lt;br&gt;&lt;br&gt;해경은 A호가 전복된 원인이 컨테이너선에 있다고 본다. A호 생존 선원들은 해경 조사에서 “경적 등 경고에도 컨테이너선이 항로를 바꾸지 않아 충돌했다”고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;해경은 현재 함선 11척 등을 동원해 유관기관 및 민간선박과 인도네시아 국적 실종자 2명에 대한 수색을 계속하고 있다. A호는 현재 가거도항으로 옮겨져 있다. 해경은 크레인을 이용해 전복된 상태의 A호를 뒤집은 뒤 선내 수색을 할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/XGQIZTAGSJI3HBFZW752WTJ76Q.jpg?width=4000&amp;height=3000&amp;auth=e52a2ee4e6711d479b87745590850108e6ccc83afcd1e341cf5089b79655bb15&amp;smart=true" type="image/jpeg" height="3000" width="4000">
+        <media:description type="plain">[신안=뉴시스] 13일 오전 3시18분께 전남 신안군 가거도 북동방 18㎞ 해상에서 33t급 통영 선적 근해장어통발어선이 뒤집어져 목포해경이 수색 작업을 벌이고 있다. (사진=목포해양경찰서 제공) 2024.06.13. photo@newsis.com
+ *재판매 및 DB 금지</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>한밤 화훼농장 비닐하우스서 화재…60대 여성 온몸에 화상</title>
+      <link>https://www.chosun.com/national/incident/2024/06/14/7S7FUPX4E5CMVFBUEBCLNZHXWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/14/7S7FUPX4E5CMVFBUEBCLNZHXWE/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Jun 2024 00:55:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CRKNRMDLWFHY7ID4Q2X2FRS72A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오전 2시 14분쯤 인천시 연수구 선학동의 한 비닐하우스에서 발생한 불이 1시간 4분 만인 오전 3시 18분쯤 소방 당국에 의해 진화됐다. /인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한밤 인천 연수구의 한 비닐하우스에서 불이나 60대 여성이 온몸에 화상을 입었다.&lt;br&gt;&lt;br&gt;14일 인천소방본부에 따르면 이날 오전 2시 14분쯤 인천시 연수구 선학동의 한 비닐하우스에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;이 불로 비닐하우스 안에 있던 60대 여성 A씨가 화상을 입어 119 구급대에 의해 병원으로 옮겨졌다. A씨는 얼굴과 등, 팔, 다리 등에 2도 화상을 입은 것으로 파악됐다. 330㎡ 면적의 비닐하우스 2개 동과 집기류 등 소방서 추산 550만 원 상당의 재산 피해도 발생했다.&lt;br&gt;&lt;br&gt;화훼농장을 운영하는 A씨는 당시 비닐하우스에서 잠을 자고 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;“꽃집에서 불이 났다”는 신고를 받고 출동한 소방관 66명과 펌프차 등 장비 26대를 투입해 진화 작업에 나서 1시간 4분 만인 오전 3시 18분쯤 불을 모두 껐다.&lt;br&gt;&lt;br&gt;소방 당국과 경찰은 비닐하우스 안 냉장고에서 불이 시작된 것으로 보고 정확한 화재 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“보신용으로...” 키우던 개 불법 도축한 60대</title>
+      <link>https://www.chosun.com/national/regional/2024/06/14/ARXKZEJ4NFAQ3PF4C5QD5D5RXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/14/ARXKZEJ4NFAQ3PF4C5QD5D5RXE/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Jun 2024 00:32:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OQHJIG5JWVDQ3L3BLVQK4VDRVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주동부경찰서는 키우던 개를 불법 도축한 혐의(동물보호법 위반)로 60대 남성 A씨를 입건해 조사하고 있다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 12일 오전 10시쯤 제주시 조천읍 한 과수원에서 키우던 개 1마리를 불법 도축한 혐의를 받는다. 제보를 받은 동물보호단체가 현장을 찾았으며, 과수원에 있던 나머지 개 2마리는 구조된 것으로 확인됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “건강이 좋지 않아 보신탕을 해 먹으려고 했다”고 진술한 것으로 파악됐다. 경찰은 자세한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;한편 지난 2월 개 식용 종식 특별법 시행에 따라 개를 식용 목적으로 사육하거나 도살, 유통, 판매하는 행위 등은 모두 금지됐다. 식용 목적으로 개를 도살하면 3년 이하 징역 또는 3000만원 이하 벌금, 사육·증식·유통하면 2년 이하 징역이나 2000만원 이하 벌금에 처한다. 벌칙 조항은 공포 후 3년이 지나는 2027년부터 시행된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김남국 “내가 이재명과 코인 시세조작? 근거없는 마녀사냥”</title>
+      <link>https://www.chosun.com/national/national_general/2024/05/24/6PX77HA7VVB3RDBR2IMVI7QDQE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/05/24/6PX77HA7VVB3RDBR2IMVI7QDQE/</guid>
+      <dc:creator>박정훈 기자, 김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 24 May 2024 06:01:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J33WCMSGGTCXH5TDSS3B6WAZKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김남국 의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김남국 더불어민주당 의원은 24일 자신에게 ‘불법 코인거래 의혹’을 제기한 장예찬 전 국민의힘 청년최고위원에 대해 제기한 손해배상 소송 재판에 직접 출석했다. 김 의원은 “장 전 최고위원이 마녀사냥 식으로 말도 안 되는 의혹들을 부풀려 제기해 정치 공세를 한 사실이 있다”며 “허위 사실을 입증하고자 한다”고 했다.&lt;br&gt;&lt;br&gt;서울남부지법 민사3단독 한웅희 판사는 이날 오전 11시 10분 김 의원이 장 전 최고위원 측에 제기한 ‘불법 코인 거래’ 명예훼손 손해배상 청구소송 3차 변론기일을 진행했다. 이날 재판에는 원고 당사자인 김 의원이 직접 출석해 스스로를 변론했다.&lt;br&gt;&lt;br&gt;이날 오전 11시쯤 서울 양천구 서울남부지법 별관. 남색 셔츠에 정장 차림으로 모습을 드러낸 김 의원은 법정에 들어가기 전 큰 목소리로 “말도 안 되는 의혹 제기들이 있어 직접 법원을 찾았다”며 “허위 사실에 대한 입증을 위해, 그리고 공인에 대한 감독과 비판이 어느 정도까지 허용되는지에 대한 쟁점을 다투고자 한다”고 했다.&lt;br&gt;&lt;br&gt;법정에 들어선 김 의원은 손에 수십장 분량의 A4 용지를 들고 굳은 얼굴로 한 손엔 펜을 들고 준비해온 자료를 훑어보며 재판이 시작되길 기다렸다. 피고인 장예찬 전 최고위원은 직접 출석하지 않고 소송 대리인이 나섰다.&lt;br&gt;&lt;br&gt;김 의원은 재판에서 “이재명 대표와 가담해 시세 조작을 했다는 게시글을 올린 장 전 최고위원 측은 의혹과 관련한 충분한 근거를 제시하지 않고 있다”며 “게시글을 삭제한 것을 봤을 때 사후적으로도 허위라고 인식하는 것 아닌가”라고 장 전 최고위원이 제기한 의혹이 허위사실이라고 지적했다.&lt;br&gt;&lt;br&gt;이어 “피고 측이 라디오 방송에서 내가 내부 정보 거래를 이용한 불법행위 범죄를 저질렀다고 단정적으로 말했다”며 “사회자의 제지가 있었음에도 범죄자란 비난의 정도가 높은 표현을 써 발언했기 때문에 대법원 판례 등에 비춰봐도 불법 행위 구성 요건을 충족한다고 생각한다”고 했다. 대법원 판례에서 ‘공직자에 대한 감시나 비판을 벗어나서 악의적이거나 심히 경솔한 공격은 모든 상황을 종합해서 판단해야 된다’고 적시한 것을 언급한 것이다.&lt;br&gt;&lt;br&gt;반면 장 전 최고위원 측은 “위험자산인 코인 중에서도 가장 위험한 김치 코인, 잡코인 등을 60억~100억원 상당 보유했다는 것은 건전한 법상식을 가진 일반인 입장에서도 비정상적인 거래라고 추측할 수 있다”며 “같은 당의 조응천 의원도 (김 의원의) 미공개 정보 이용 의혹에 관한 의문이 해소되지 않았다고 하는 등 피고가 제기한 의혹은 합리적 근거가 있는 것으로 상당성을 잃었거나 악의적 공격에 해당하지 않아 이 사건 청구는 기각돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;김 의원은 과거 마브렉스 코인과 위믹스 코인 등을 대량으로 사들이는 과정에서 미공개 정보를 이용했다는 의혹을 받는다. 이 의혹이 지난해 불거지자 장 전 최고위원은 김 의원의 불법 코인거래 의혹을 제기했다. 라디오 프로그램에서도 김 의원을 가리켜 ‘범죄자’라고 했다. 장 전 최고위원은 작년 5월 국민의힘 최고위원회의에서 “이재명 민주당 대표가 작년 12월 ‘김남국 의원 돈봉투 받는 소리가 난다’고 말했다”며 “범죄전문가 이재명 대표의 선견지명은 탁월하다”고 주장하기도 했다. 이에 김 의원은 지난해 9월 장 전 최고위원에게 5000만원의 손해배상을 청구했다.&lt;br&gt;&lt;br&gt;한편 재판부는 손해배상 청구소송의 선고를 다음달 21일 오후 2시에 진행할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“아들 잘 부탁드려요. 죄송합니다”…'노크귀순’ 엘리트 탈북민의 문자</title>
       <link>https://www.chosun.com/national/national_general/2024/06/14/OULPPTDMCVDAVMDAVFSTPCDRTA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/14/OULPPTDMCVDAVMDAVFSTPCDRTA/</guid>
@@ -727,127 +870,6 @@
       <description/>
       <pubDate>Tue, 04 Jun 2024 15:40:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LOZVO3LPHZCFXLXS7XA2CN6WAY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 넘어지다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/06/04/7M3KLCXCO5A6XEJQWE27XVJLUE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/06/04/7M3KLCXCO5A6XEJQWE27XVJLUE/</guid>
-      <description/>
-      <pubDate>Mon, 03 Jun 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3NINESOLY5H5ZCJ4QBM5FTMPHQ.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 나를 알아주는 사람은 그대이다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/06/03/FLEMF7W5R5HR3E2GKON2NPOMTY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/06/03/FLEMF7W5R5HR3E2GKON2NPOMTY/</guid>
-      <description/>
-      <pubDate>Sun, 02 Jun 2024 20:01:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZLMAN2R6SRFSPO34MU4KILMVOM.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정신병원서 만난 70대와 동거… “아빠”라 부르다 살해한 20대, 왜?</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/13/O5M4FLTTBBDRNFAKAPGEJSRESM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/13/O5M4FLTTBBDRNFAKAPGEJSRESM/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Jun 2024 05:31:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHWE22LGVBCVHJU35XWRGTUTZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 중앙지방법원 로비에 법원 마크가 밝게 빛나고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정신병원에서 만나 한집에 살며 ‘아빠’라 부르던 70대 남성을 살해하고 시신을 훼손한 20대 지적장애 남성이 중형을 선고받았다. 동거 초반 70대 남성이 성행위를 강요하고 욕설과 폭행을 일삼자 이에 분노해 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;13일 법조계에 따르면 부산지법 형사5부(부장판사 장기석)는 살인 및 사체손괴 등 혐의로 기소된 A(20대)씨에게 징역 15년을 선고했다. 10년간의 위치추적 전자장치(전자발찌) 부착 명령과 40시간의 특정범죄 치료프로그램 이수 등 준수사항도 함께 내렸다.&lt;br&gt;&lt;br&gt;A씨는 작년 12월 10일 오후 부산 영도구의 한 아파트에서 동거하던 B(70대)씨를 수차례 폭행해 숨지게 한 혐의를 받는다. 흉기로 B씨 시신을 여러 번 찔러 훼손한 혐의도 있다.&lt;br&gt;&lt;br&gt;두 사람이 처음 만난 건 2022년 4월 부산의 한 정신병원이었다. A씨는 분노조절장애 치료를 위해, B씨는 알코올의존증으로 입원해 있었다. 당시 A씨는 B씨를 ‘아빠’라고 부르며 따랐고, 퇴원 후 같이 살자는 B씨 제안에 작년 1월부터 동거를 시작했다.&lt;br&gt;&lt;br&gt;그러나 생활은 예상과 달랐다. 초반 한 달간 B씨는 A씨에게 성행위를 강요했고 술 심부름을 시키고 말을 듣지 않으면 폭행과 욕설을 했다. 실제 B씨는 과거 청소년에 대한 유사 강간 행위로 처벌받는 등 다수의 성범죄 처벌 전력이 있었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이후 둘은 평소에도 잦은 다툼으로 수차례 경찰에 서로를 신고하기도 했다. 그러나 매번 화해를 반복하며 동거 생활을 유지해 왔는데, 기초생활수급비 등을 모아 사실상의 경제공동체로 생활했기 때문이다.&lt;br&gt;&lt;br&gt;하지만 A씨는 일련의 일들에 불만을 품고 있었고 범행 당일 역시 B씨가 술 심부름을 시키고 술을 사왔음에도 욕을 퍼붓자 폭행하기 시작했다. B씨는 그 자리에서 사망했지만, A씨는 분이 풀리지 않는다는 이유로 흉기를 이용해 B씨 시신을 훼손했다.&lt;br&gt;&lt;br&gt;A씨 측 변호인은 “B씨는 자신의 요구를 들어주지 않으면 A씨 몸에 상처를 내거나 경찰에 신고해 강제로 정신병원에 입원시키려 했다”며 “사건 당일에도 B씨가 ‘집에서 나가라’고 말하자 또다시 버림받는다는 생각에 순간 화를 참지 못한 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;이어 “A씨는 어릴 적 새아버지의 학대와 어머니의 방관 속에서 정서적·신체적 학대를 받아왔다. 노숙 생활을 하면서도 명의도용 사기를 당하고 B씨와 함께 생활하는 동안엔 부당한 일을 겪었다”며 “A씨가 겪어온 세상은 보호받을 곳 하나 없는 전쟁터 같은 곳이었고 스스로 살아남기 위해 공격적 태도를 보였을 것”이라고 선처를 호소했다.&lt;br&gt;&lt;br&gt;재판부는 " 이미 사망한 피해자의 사체를 반복해 흉기로 찌르는 등 분풀이하듯이 추가 범행을 저지르는 등 그 죄책이 무겁다”면서도 “살해를 계획한 정황도 확인되지 않고 정신질환이 범행에 영향을 끼친 것으로 보이는 점 등을 고려해 형을 정했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 공로를 기리다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/06/12/5TDPNCBMSZH73D5OFUWHTHXTJU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/06/12/5TDPNCBMSZH73D5OFUWHTHXTJU/</guid>
-      <description/>
-      <pubDate>Tue, 11 Jun 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DRCZ6MED2FEI5HVZCYIJBKUMCI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] ~에서 합류하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/06/11/CPAIT5K3PJFHHJBV62SSVJBHZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/06/11/CPAIT5K3PJFHHJBV62SSVJBHZE/</guid>
-      <description/>
-      <pubDate>Mon, 10 Jun 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUKSBEG5FREL7AAQRTOEHAZFQA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] ~와 교류하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/06/10/RIJABY4MPFDCRMBMTBNFJ5TOT4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/06/10/RIJABY4MPFDCRMBMTBNFJ5TOT4/</guid>
-      <description/>
-      <pubDate>Sun, 09 Jun 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DMOE7MHW3VEE7DGYFYDRVVF4EA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] ~에 빠지다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/06/07/5UE5TCWHIBDSRGH5YIKXR7LF24/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/06/07/5UE5TCWHIBDSRGH5YIKXR7LF24/</guid>
-      <description/>
-      <pubDate>Thu, 06 Jun 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZZK5BFL3NRDBFGBRNLFXVBKRL4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 한 건 해결되다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/06/05/YTRIGD4AORBVPLHZ7IZS3ISYS4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/06/05/YTRIGD4AORBVPLHZ7IZS3ISYS4/</guid>
-      <description/>
-      <pubDate>Tue, 04 Jun 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4JSEUXRRMBCHNG3YJDF7Y7MPZA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 후임을 찾다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/06/04/2OXZTY7XYZEGHDSHEU3U5QW2GY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/06/04/2OXZTY7XYZEGHDSHEU3U5QW2GY/</guid>
-      <description/>
-      <pubDate>Mon, 03 Jun 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JUXVXPMLCZHOJKCVHGCH47CSSU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 감기를 악화시키다(더치게 하다)</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/06/03/DBPMT75PYVFDVJB7AEWD3M3KU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/06/03/DBPMT75PYVFDVJB7AEWD3M3KU4/</guid>
-      <description/>
-      <pubDate>Sun, 02 Jun 2024 20:01:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QSWUDA6ZKZBIJKZWIZ7UISM2S4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] get in shape</title>
-      <link>https://www.chosun.com/national/nie/english/2024/06/11/QLWVL7PYGVBUZCUP7DWBFGTQYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/06/11/QLWVL7PYGVBUZCUP7DWBFGTQYQ/</guid>
-      <description/>
-      <pubDate>Mon, 10 Jun 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/43Z36XLZEFDEFDNFUSPI3WVPBY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] as I get to know him</title>
-      <link>https://www.chosun.com/national/nie/english/2024/06/10/MK7MY42WDNEQRIRPS3MO6FXN3I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/06/10/MK7MY42WDNEQRIRPS3MO6FXN3I/</guid>
-      <description/>
-      <pubDate>Sun, 09 Jun 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GPTL3AUBXFE5FAOQE7DMPQIEHU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] top-up</title>
-      <link>https://www.chosun.com/national/nie/english/2024/06/07/S7EHQT6KZ5CBRLGZSALORM6FIA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/06/07/S7EHQT6KZ5CBRLGZSALORM6FIA/</guid>
-      <description/>
-      <pubDate>Thu, 06 Jun 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X7WZX5POPFHXRGBK7KEVB4I4RM.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] I might as well ~</title>
-      <link>https://www.chosun.com/national/nie/english/2024/06/05/554AYM4UAZCDBL7PQIDWUB5CIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/06/05/554AYM4UAZCDBL7PQIDWUB5CIE/</guid>
-      <description/>
-      <pubDate>Tue, 04 Jun 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2EKPEJ437BC6HEMDOJW3FX4JEU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] come close to ~</title>
-      <link>https://www.chosun.com/national/nie/english/2024/06/04/AK7NXXGMAND3LHIJ5Q2KQPYNBE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/06/04/AK7NXXGMAND3LHIJ5Q2KQPYNBE/</guid>
-      <description/>
-      <pubDate>Mon, 03 Jun 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GL4O447UAZCVFHHNGV5EIQLXRI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>서울시, 잠실·삼성·대치·청담 토지거래허가구역 1년 연장</title>
