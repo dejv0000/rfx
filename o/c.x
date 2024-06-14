@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>해부 실습용 시신 없다더니… 카톨릭대 이어 연대도 非의료인에 ‘50만원’ 카데바 강의</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/14/4YVWZRLSMBA6ZD3BFHB2BX2HQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/14/4YVWZRLSMBA6ZD3BFHB2BX2HQI/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Jun 2024 04:40:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QBNPJVYII4CLEZIPYO46SDBVQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 연세대학교 의과대학. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가톨릭대 의대에 이어 또 다른 전국 5대 상급종합병원 의과대학인 연세대 의대에서도 비(非)의료인을 대상으로 한 카데바(Cadaver·해부 실습용 시신) 강의가 참가비 50만원의 유료로 진행된 사실이 드러났다. 이번에는 강사조차 법적 자격이 없는 조교 연구원이었다. 대한의사협회는 의대생 증원 반대 이유로 ‘카데바 부족’을 주장해왔다.&lt;br&gt;&lt;br&gt;14일 의료계에 따르면 의학 강의를 제공하는 사설업체 A사는 최근까지 ‘스페셜 카데바 코스’라는 이름의 유료 수업을 진행해 왔다. 연세대 의대 해부교육센터에서 열린 강의는 올해만 4차례 열렸고, ‘어깨와 무릎 집중 과정 증상과 해부학적 연결 고리를 찾아서’라는 부제를 달고 5시간30분씩 이뤄졌다. 대상자는 물리치료사와 트레이너 등 비의료인이며 수업료는 50만원이었다.&lt;br&gt;&lt;br&gt;문제는 시신 해부를 집도한 강의 담당자의 신분이다. 현행 시체해부법은 해부 행위가 가능한 사람을 ‘상당한 지식과 경험이 있는 의사 또는 의과대학의 해부학·병리학·법의학 교수 혹은 이들의 지도를 받는 학생’ 등으로 규정하고 있다. 그러나 이 강사는 해부학 박사 과정을 마치고 학교에서 조교 활동을 해온 연구원으로, 시신 해부를 진행할 법적 자격이 없는 인물이었다.&lt;br&gt;&lt;br&gt;현재 온라인상에는 지난달 11일 수업의 수강생을 모집하는 글과 홍보 이미지가 일부 남아있지만, 접속 시 모든 사이트와 게시물이 비공개 처리돼 있다. 연세대 의대 측은 해당 강의가 열린 사실 자체를 몰랐다는 입장이다. 그러면서 “박사 후 과정 연구원이 강의를 진행했다는 사실 정도까지만 파악된 상황”이라며 내부 조사를 벌이고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y27MNI5GB5H4PIXRTCWSJFKK2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;B사가 카데바 강의를 홍보하며 올린 문구. ‘카데바 클래스는 무조건 프레시 카데바(Fresh Cadaver)로 진행됩니다’라는 내용이 적혀 있다. /B사 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 이 같은 카데바 유료 강의 논란은 앞서 가톨릭대 의대에서도 불거진 바 있다. 마찬가지로 민간업체 B사가 헬스트레이너와 필라테스 강사 등 비의료인을 대상으로 마련한 강의였고 인당 60만원의 참가비를 받았다. 수업은 가톨릭대 응용해부연구소에서 가톨릭대 의대 소속인 현직 해부학자가 맡았다.&lt;br&gt;&lt;br&gt;당시 B사는 홍보 과정에서 ‘무조건 프레시 카데바(Fresh Cadaver)로 진행된다’는 문구를 사용해 더 큰 비난을 샀다. ‘프레시 카데바’란 포르말린 등 화학적 약물 처리를 하지 않고 살아있을 때와 비슷한 상태로 만들어 놓은 시신을 말한다. 해당 강의는 이미 작년에 2차례 진행됐고, 오는 23일 예정이던 강의는 취소됐다. 서울 서초경찰서는 시체해부법 위반 혐의를 받는 B사에 대한 수사에 착수한 상태다.&lt;br&gt;&lt;br&gt;의협은 지난 10일 ‘정부의 대책없는 의대 교육안 발표에 심히 우려’라는 제목의 보도자료에서 “카데바 확보는 가능한가? 나아가 의료시스템을 살리겠다고 시작한 의대 증원으로 인해 오히려 질 떨어지는 교육을 받은 의사 양성으로 인해 결국 국민들만 피해보는 것이 아닌가?”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>위증교사 혐의 박주원 전 안산시장에 징역 10월 법정구속</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/14/4M53AREZ6JDA7NY2ZZHV2UIHNM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/14/4M53AREZ6JDA7NY2ZZHV2UIHNM/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Jun 2024 04:15:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2IVFEDQUIHQD4XUYEB7SZYKOSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박주원 전 경기 안산시장. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박주원(66) 전 경기 안산시장이 사기 혐의로 재판을 받던 중 자신의 재판에 출석한 증인들에게 위증을 시킨 혐의로 실형을 선고받고 법정구속됐다.&lt;br&gt;&lt;br&gt;14일 법조계에 따르면 수원지법 형사9단독 장혜정 판사는 지난 13일 박 전 시장의 위증교사 혐의에 대해 징역 10월을 선고했다. 또 박 전 시장의 사기 사건 재판에서 위증을 한 증인 3명에게 각각 징역 6월을 선고했다.&lt;br&gt;&lt;br&gt;박 전 시장은 사기 혐의로 재판을 받고 있던 2022년 3월 증인 3명에게 위증을 시킨 혐의로 같은해 7월 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;박 전 시장은 2015년 9월 피해자 A씨에게 “강원도 태백의 풍력발전사업 허가를 받으려면 돈이 필요하다”며 로비자금 명목으로 3억원, 풍력발전사업 민원 해결 자금 명목으로 2000만원을 달라고 하는 등 10개월간 9차례에 걸쳐 6억6000여만원을 편취한 혐의로 기소돼 재판 중이었다. 박 전 시장의 재판에 증인으로 나온 이들은, 법정에서 “로비자금이 아니라 차용금이었다” “민원 해결 명목이 아니라 투자금이었다”며 박 시장에게 유리한 취지로 증언했다.&lt;br&gt;&lt;br&gt;검찰에 따르면, 박 전 시장은 증인들에게 위증을 연습시킨 것으로 파악됐다. 이들의 위증에도 박 전 시장의 사기 혐의에 대해 1심, 2심에서 잇따라 유죄가 선고됐고, 지난해 2월 징역 2년에 집행유예 3년 형이 확정됐다.&lt;br&gt;&lt;br&gt;박 전 시장은 검찰 수사관 출신으로, 한나라당(국민의힘 전신) 소속 후보로 2006년 지방선거에 출마해 안산시장에 당선됐다. 박 전 시장은 지난 2022년 제8회 지방선거에서도 안산시장에 출마했지만, 당내 경선에서 떨어졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대신 전화 받았더니 “엄마!”…이혼 사실 숨긴 아내, 아이까지 있었다</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/14/G6NPUTJ5QFBRBIJHRTPB5KGDQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/14/G6NPUTJ5QFBRBIJHRTPB5KGDQ4/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Jun 2024 04:43:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CVWQXLROBRP3XPCEOAVAAL73BY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 마포구 아현동 웨딩거리./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자녀가 있는 사실을 숨긴 채 결혼한 아내와 결혼을 무르고 싶다는 남편의 사연이 전해졌다.&lt;br&gt;&lt;br&gt;14일 방송된 YTN라디오 ‘조인섭 변호사의 상담소’에는 45세의 나이에 결혼했다는 남성 A씨의 사연이 전해졌다. A씨는 “아내는 혼자서 카페를 운영하고 있었는데, ‘혼자 산 지 오래됐다’고 했다”며 “늦게 만나서 결혼한 만큼 저와 아내는 행복한 시간을 보내고 있었다”고 운을 뗐다.&lt;br&gt;&lt;br&gt;행복한 결혼 생활을 보내던 어느날 A씨는 우연히 아내의 통화 내용을 엿듣게 됐다. 당시 아내는 누군가 통화를 하며 “엄마가 곧 갈게”라고 말했다. A씨는 의아했지만 대수롭지 않게 넘겼다고 한다.&lt;br&gt;&lt;br&gt;며칠 뒤에는 아내가 자리를 비운 사이 A씨가 아내의 전화를 대신 받았는데, 어떤 아이가 엄마를 찾는 일도 있었다. A씨는 “뒤늦게 온 아내가 당황해 하면서 휴대폰을 뺏었고 황급히 방 안에 들어가서 전화를 받았다”고 했다. 통화를 끝내고 거실에 나온 아내에게 자초지종을 물으니, 아내는 “친구의 아이인데 편의상 엄마라고 부른다”고 답했다고 한다.&lt;br&gt;&lt;br&gt;의심이 생긴 A씨는 결국 아내의 혼인관계증명서와 가족관계증명서를 발급받았고, 아내가 결혼한 적이 있었다는 걸 알게 됐다. 또 아내에게는 자녀도 한명 있었다.&lt;br&gt;&lt;br&gt;A씨는 “아내는 내게 그런 말 한 적이 없다. 믿고 있던 사람에게 배신당한 것 같아 너무 충격을 받았다”며 “혼인을 무효화시키거나 최소한 취소라도 하고 싶다”고 말했다. &lt;br&gt;&lt;br&gt;사연을 들은 서정민 법무법인 신세계로 변호사는 “혼인 당시 혼인의 합의가 있었고 아내와의 사이에 혈족관계나 직계 인척관계가 있었던 것이 아니기 때문에 민법상 혼인의 무효 사유에는 해당하지 않을 것”이라고 했다.&lt;br&gt;&lt;br&gt;다만 “아내가 전혼이 있었고 전혼 배우자와의 사이에 자녀가 있다는 사실을 숨기고 결혼을 한 것이기 때문에 혼인 취소 사유 중 사기에 의하여 혼인의 의사표시를 한 때에 해당한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “사기로 인해 혼인이 취소되려면 사기가 결혼 생활에 미치는 영향이 크고 당사자가 이런 사실을 알았더라면 결혼하지 않았을 것이라 인정되는 경우여야 한다”며 “(자녀 존재를) 소극적으로 고지하지 않거나 침묵한 경우에도 기망행위라고 볼 수 있다. 전혼 및 자녀가 있었다는 사실을 알았다면 혼인을 하지 않았을 것이므로 혼인 취소의 사유에 해당할 것”이라고 했다.&lt;br&gt;&lt;br&gt;아울러 “혼인취소는 엄격한 제척기간 제한을 받는다”며 아내에게 전혼 및 전혼 자녀가 있는지 안 시점부터 3개월 이내에 혼인 취소소송을 제기해야 한다고 덧붙였다.&lt;br&gt;&lt;br&gt;현행 민법에 따라 ‘혼인무효’와 ‘혼인취소’가 성립되면 혼인이 없었던 일이 된다. 다만 혼인무효의 경우 일반적인 혼인관계 증명서에는 혼인사실 및 무효 사실이 정확히 나타나지 않지만 상세 혼인관계 증명서를 출력할 경우 혼인 및 무효 사실이 기재된다. 혼인취소의 경우는 혼인관계 증명서에 혼인사실 및 혼인취소 사유가 기재된다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 국립중앙도서관 서버, 디도스 공격으로 3시간 30분 마비</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/14/LXTNTYSDKJCW3HTZFGGG73IUAU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/14/LXTNTYSDKJCW3HTZFGGG73IUAU/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Jun 2024 03:37:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/33VMIMIPO5GA5MPHXCIH3X7PTM.png"&gt;&lt;br&gt;&lt;br&gt;대한민국의 국가대표 도서관인 국립중앙도서관 서버가 13일 저녁 디도스(DDOS) 공격을 받아 마비된 것으로 나타났다.&lt;br&gt;&lt;br&gt;국립중앙도서관 측에 따르면 디도스 공격은 13일 오후 6시 35분쯤 시작됐다. 도서관 관계자는 “서비스 장애를 일으킬 만큼 대규모 디도스 공격을 받아 3시간 30분 동안 업무가 마비됐다”며 “국립중앙도서관이 디도스 공격을 받은 것은 이번이 처음”이라고 밝혔다.&lt;br&gt;&lt;br&gt;디도스 공격의 주체는 아직 밝혀지지 않은 상황이다. 도서관 관계자는 “현재 문화체육관광부 사이버안전센터와 함께 공격 주체가 어디인지 파악하고 있다”고 했다.&lt;br&gt;&lt;br&gt;현재 도서관 서버는 대부분 복구됐지만, 디도스 공격의 여파로 해외 서비스 등 일부 기능에서 지속적으로 크고 작은 장애가 나타나고 있다고 한다.&lt;br&gt;&lt;br&gt;디도스 공격이란 악성코드를 삽입한 좀비PC를 활용해 대규모 동시 접속요청을 일으키고, 시스템 마비를 일으키는 사이버 공격의 방식이다. 국내에 일어난 대규모 디도스 공격은 주로 북한 해커의 소행이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>중증환자들 “의사들 불법행동, 우릴 죽음 내몰고 있다”  </title>
+      <link>https://www.chosun.com/national/national_general/2024/06/12/FRPT2FR7FNHADL3R45QFQC6GCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/12/FRPT2FR7FNHADL3R45QFQC6GCE/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Jun 2024 06:20:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TRHIXFBIZJOWBFKGXUABEIN5FU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;환자단체인 한국중증질환연합회 회원들이 12일 서울 종로구 서울대병원 앞에서 기자회견을 열고 병원·서울의대 교수 비대위가 발표한 무기한 휴진 철회를 촉구하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;암환자 등 중증질환자들이 교수들이 무기한 집단행동을 예고한 서울대병원 앞에서 기자회견을 열고 휴진을 철회할 것을 요구했다. 이들은 단체 차원에서 의사들에 대한 고소·고발도 검토하겠다고 했다.&lt;br&gt;&lt;br&gt;12일 한국암환자권익협의회, 한국다발골수종환우회, 한국폐암환우회 등 6개 단체가 속한 한국중증질환연합회는 서울대병원 앞에서 기자회견을 열고 정부에 “법과 원칙에 입각해 의사집단의 불법 행동을 엄벌해 달라”고 촉구했다.&lt;br&gt;&lt;br&gt;28년째 루게릭병으로 투병 중인 김태현 한국루게릭연맹회 회장은 대독자를 통해 “100일 넘게 지속된 의료공백, 중증·응급환자들의 생명을 담보로 한 의사 집단행동의 결과로 골든타임을 놓친 많은 환자들이 죽음으로 내몰렸다”며 “특권을 유지하기 위해 국가와 국민을 혼란에 빠트리고 무정부주의를 주장하는 의사집단을 정부는 더 이상 용서해서는 안 된다”고 했다.&lt;br&gt;&lt;br&gt;김태현 회장은 “의사집단들의 조직폭력배와 같은 행동을 보고 죽을 때 죽더라도 의사집단에 의지하는 것을 포기하겠다”며 “정부와 대통령께 호소드린다. 이번 기회에 의료개혁을 하지 않으면 영원히 할 수 없다는 것을 잘 알고 있을 것이다. 어떤 희생을 감수하더라도 꼭 의료개혁을 성공시켜 달라”고 했다.&lt;br&gt;&lt;br&gt;변인영 한국췌장암환우회 회장은 교수들이 휴진을 결정한 것과 관련 “당신들이 지켜야 할, 살릴 수 있는 환자가 죽어가고 있다”며 “사랑하는 가족이 죽어가도 참고 숨죽여 기다렸지만 그 결과는 교수님들의 전면 휴진이었고 동네 병원도 문을 닫겠다는 것이었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “우리가 아픈 걸 선택했나, 그저 살다보니 병을 얻었는데 치료의 기회조차 얻지 못했다”며 “부디 생명의 가치를 존중해달라”고 했다.&lt;br&gt;&lt;br&gt;식도암 4기 환자인 김성주 연합회 회장은 “환우들이 왜 의료법을 위반하고 진료를 거부하는 의사들을 고소, 고발하지 않느냐고 전화하고 있다”며 “지금까지는 고소·고발을 생각해본 적이 없지만, 만약 환자들이 지속적으로 얘기를 하면 (단체 차원에서) 검토할 생각이 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>애인 이별 통보에 목졸라 살해한 前남친, 징역 10년 확정</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/14/EWZ3XH7P4VFIXKTAX4G3PSKTOY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/14/EWZ3XH7P4VFIXKTAX4G3PSKTOY/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Jun 2024 03:17:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SVI2PVTPR5JQ4OHOEPNVHBRV2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3년여간 동거한 애인에게 이별을 통보받자, 이를 받아들이지 못하고 상대를 살해한 남성에게 대법원이 징역 10년을 확정했다.&lt;br&gt;&lt;br&gt;14일 법조계에 따르면, 대법원 2부(주심 김상환 대법관)는 최근 살인 혐의로 기소된 A씨에게 징역 10년을 선고한 원심 판결을 확정했다.&lt;br&gt;&lt;br&gt;A씨는 2020년 자녀 2명을 키우고 있는 여성 B씨를 만나 사귀었다. 두 사람은 경기도 안산의 B씨 집에서 자녀들과 함께 동거 생활을 했다. 그러다 작년 5월 B씨가 다른 연인이 생겼다는 이유로 이별을 통보했다. A씨는 이를 받아들이지 못하고 설득했지만 B씨는 이를 거부했다.&lt;br&gt;&lt;br&gt;그런데도 A씨는 B씨를 계속 염탐하다가, 작년 5월 28일 새벽 3시쯤 B씨의 집에 몰래 들어갔다. A씨는 B씨를 껴안고 “돌아와라, 정신 차려라”라고 말했다. 그러나 B씨가 “미안해”라고 거부하자 A씨는 화가 나 상대의 목을 졸라 살해한 것으로 조사됐다. 범행 당시 곁에는 B씨의 자녀들이 자고 있었다.&lt;br&gt;&lt;br&gt;1심은 A씨에게 징역 10년을 선고했다. 1심 재판부는 “피해자는 이 사건 범행으로 극심한 공포심과 고통을 느꼈을 것으로 보인다”며 “피해자가 양육하던 2명의 자녀들은 큰 상처를 안고 살아갈 것”이라며 질책했다.&lt;br&gt;&lt;br&gt;다만 1심은 “A씨는 수사 초기 범행을 자백했고, 유족들에게 합의금 5000만원을 지급했다. 살해 후 뒤늦게 B씨를 구호하기 위해 심폐소생술도 실시했다”며 이를 양형에 고려한다고 했다. 또 피해자인 B씨 유족들이 A씨의 처벌을 원치 않는다는 점도 참작됐다.&lt;br&gt;&lt;br&gt;2심은 “여러 가지 사정들을 감안해도 원심의 선고형이 합리적 범위를 벗어나 너무 무겁다거나 너무 가벼워서 부당하다고 보기 어렵다”며 징역 10년을 유지했다. 이에 A씨가 형이 무겁다며 상고했지만, 대법원도 원심의 판단이 맞다고 보고 이를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘농구 전설’ 박찬숙 “12억 사업 빚에 파산, 극단적 생각도 했다”</title>
       <link>https://www.chosun.com/national/people/2024/06/14/YVLUFI5KWBG5TMGP7BY5KQEQOQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/14/YVLUFI5KWBG5TMGP7BY5KQEQOQ/</guid>
@@ -820,56 +874,6 @@
       <description/>
       <pubDate>Tue, 11 Jun 2024 15:45:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6BZ2DIYRN5AUDA6UXH3YWP7KGE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디]  지방을 제거하다, 무지방</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/06/11/ED2XJSUU2FEENCKCJLSER3Z2LA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/06/11/ED2XJSUU2FEENCKCJLSER3Z2LA/</guid>
-      <description/>
-      <pubDate>Mon, 10 Jun 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PKQBAZL2YNBPFOTU7IJIKC524U.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 단오절</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/06/10/72W2YITGDRCFNIEM3DL6ENMM5E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/06/10/72W2YITGDRCFNIEM3DL6ENMM5E/</guid>
-      <description/>
-      <pubDate>Sun, 09 Jun 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NPQS76J6XRCE5N7EILKCFL7M4I.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>새여친 생긴 前남친 집찾은 50대 여성, 세탁기·냉장고 훔쳐나와</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/13/NA32O33ZE5A4PHSIZFD5ZGIGYA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/13/NA32O33ZE5A4PHSIZFD5ZGIGYA/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Jun 2024 05:30:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OEP23TEMYVH2ZDUPWL7E4R6IAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20세 연하인 전(前) 남자친구 집에 들어가 식칼로 가구를 무더기로 훼손하고 세탁기와 냉장고, 전자레인지, 밥솥, 이불까지 훔쳐나온 50대 여성이 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;13일 법조계에 따르면, 인천지법 형사11단독 김샛별 판사는 공갈·절도·재물손괴 혐의로 기소된 A(여·56)씨에게 징역 8개월에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 5월 25일 오전 7시쯤 인천시 서구 옛 연인 B(남·36)씨의 집에 찾아가 거실장·침대·소파 등 시가 1364만원에 달하는 가구 10개를 식칼과 가위로 긋거나 물과 홍초 등을 뿌려 훼손한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;A씨는 같은 날 오후 2~3시에는 화물차를 끌고 B씨 집에 다시 왔다. 그는 B씨 집에서 가재도구를 훔쳐나왔다. 42개 품목으로 1799만원 상당의 물품들이었다. 그가 훔쳐 나온 물품 리스트는 판결문 범죄일람표에 적혔다.&lt;br&gt;&lt;br&gt;&lt;i&gt;세탁기(179만원) 냉장고(89만원) 건조기(123만원) 청소기(62만원) 스타일러(109만원) 의류 172점(가격 불상) 레고(46만원) 드론(249만원) 전자레인지(58만원) 전기렌지(11만원) 드라이기(6만원) 다리미(28만원) 차량키(15만원) 나이키 운동화(20만원) 크록스 슬리퍼(4만원) 밥솥(14만원) 베개(29만원) 선글라스(112만원) 냄비세트(20만원) 그릇세트(38만원) 이불(50만원) 빨래건조대(4만원) 목안마기(6만원) 커튼(15만원)...&lt;/i&gt;&lt;br&gt;&lt;br&gt;A씨는 이 외에도 당시 해외여행으로 집에 없던 B씨에게 전화한 뒤 “집과 차를 망가뜨리겠다”라고 협박해 1000만원을 뜯기도 했다. A씨는 B씨에게 새로운 여자친구가 생긴 사실을 알고 불만을 품고 있다가 그의 해외여행 사실을 알고 화가 나 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;김 판사는 “피고인의 범행 피해액 합계가 적지 않고 피해자도 엄벌을 탄원하고 있다”면서도 “피고인은 잘못을 인정하고 있고 피해 복구를 위해 300만원을 공탁한 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 기름을 끼얹다, 부채질하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/06/07/2GFPVIDHTBDDTL333PPT2WVYF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/06/07/2GFPVIDHTBDDTL333PPT2WVYF4/</guid>
-      <description/>
-      <pubDate>Thu, 06 Jun 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R7N4LBGT5FDALKCN7E77AWG7MY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강남대로 횡단보도 건너던 50대 여성, 신호 위반 버스에 치여 숨져</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/13/MPIP2EVGRFCODC3GMPSUIFGSUA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/13/MPIP2EVGRFCODC3GMPSUIFGSUA/</guid>
-      <dc:creator>최낙원 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Jun 2024 05:18:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VODVP3CJBXCUGOIACGVKTQZCK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남대로에서 횡단보도를 건너던 여성이 신호를 위반한 버스에 치어 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 버스 운전기사 A씨를 교통사고특례법 위반(치사) 혐의로 입건해 조사하고 있다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 12일 오후 6시 10분쯤 서울 강남구 논현동의 한 횡단보도에서 신호를 위반해 50대 여성을 친 혐의를 받는다.&lt;br&gt;&lt;br&gt;피해자는 보행 신호에 횡단보도를 건너다가 사고를 당했고, 인근 병원으로 이송됐으나 결국 숨졌다. 버스에 타고 있던 승객들과 주변 행인들의 추가적인 피해는 없었던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사 과정에서 보행자를 보지 못했다는 취지로 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 “신호를 위반해서 보행 신호에 건너고 있는 보행자를 친 건이라 엄중하게 보고 있다”며 구속영장 신청을 검토하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 눈이 부시다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/06/05/DMWAJMB53RF63FIKUSNYGPCI7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/06/05/DMWAJMB53RF63FIKUSNYGPCI7Y/</guid>
-      <description/>
-      <pubDate>Tue, 04 Jun 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LOZVO3LPHZCFXLXS7XA2CN6WAY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>서울시, 잠실·삼성·대치·청담 토지거래허가구역 1년 연장</title>
