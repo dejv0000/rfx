@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘결혼 왜 안 하니’ 엄마 잔소리에…흉기로 가족들 위협한 30대</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/15/CLIIB7SDDJEE5EANEIQAE2UQBE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/15/CLIIB7SDDJEE5EANEIQAE2UQBE/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Jun 2024 22:47:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WURPEWAUH2MGGCNFA3O7EDYBQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;결혼을 재촉하는 모친의 잔소리를 듣고 화가 나 흉기로 가족들을 위협한 30대가 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;15일 법조계 등에 따르면, 춘천지법 형사1단독 신동일 판사는 특수협박, 특수주거침입, 아동복지법상 아동학대 혐의로 기소된 A(36)씨에게 징역 8개월에 집행유예 2년을 선고했다. 40시간의 아동학대 재범 예방 강의 수강도 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 11월 양구군 외사촌 부부의 집에 들어가 외사촌의 10대 자녀가 있는 앞에서 주먹으로 거실 창문을 세게 두드리거나 욕을 하고, 흉기를 꺼내 보이며 위협한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 모친에게서 ‘왜 결혼하지 않느냐. 사촌 B씨도 결혼한다고 한다’는 말에 화가 나서 그 말에 대한 사실을 확인하기 위해 집안 어른들을 찾아가는 과정에서 이같이 범행했다.&lt;br&gt;&lt;br&gt;A씨는 길가에 서 있던 외사촌을 들이받을 것처럼 빠른 속도로 차를 몰다가 방향을 틀어 위협했는데, 이 같은 사실도 공소장에 포함됐다.&lt;br&gt;&lt;br&gt;신 판사는 “이 사건 각 범행의 내용, 행위 태양, 경위 등에 비추어 보면 그 죄책이 무거운 점은 불리한 정상”이라며 “피해자들과 원만히 합의해 피해자들이 피고인의 처벌을 원하고 있지 않은 점, 과거 아무런 범죄 전력이 없는 초범인 점 등을 참작해 형을 정했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“휴진 병원 블랙리스트 올리자” 동네 주민들 반발</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/06/15/HOIJC6SUUBDRDIGX7NR6T3CYCQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/15/HOIJC6SUUBDRDIGX7NR6T3CYCQ/</guid>
@@ -913,15 +922,6 @@
       <description/>
       <pubDate>Thu, 25 Aug 2022 15:00:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EG2BCJQU3BAWBIH5QXFD5FQFOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘예루살렘의 아이히만’ 초판. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“검찰에 또는 법정에서 말할 때 그의 말은 언제나 동일했고, 똑같은 단어로 표현되었다. 그의 말을 오랫동안 들으면 들을수록, 그의 말 하는 데 무능력함은 (…) 즉 타인의 입장에서 생각하는 데 무능력함과 매우 깊이 연관되어 있음이 점점 더 분명해진다.”&lt;br&gt;&lt;br&gt;1939년 9월 1일, 나치 독일은 폴란드를 침공하며 제2차 세계대전을 일으켜요. 이후 전 세계는 6년여 동안 전쟁이라는 끔찍한 재난을 겪어야만 했어요. 나치의 악독함은 아우슈비츠로 대표되는 유대인 학살에서 극명하게 드러났어요. 나치는 무려 600만명 이상의 무고한 생명을 학살했어요.&lt;br&gt;&lt;br&gt;독일 철학자 해나 아렌트(1906~1975)가 1963년 출간한 ‘예루살렘의 아이히만’은 유대인 학살을 주도한 전범(戰犯) 아돌프 아이히만에 대한 재판 과정을 기록한 책으로, ‘악의 평범성’(Banality of Evil)이라는 개념을 널리 알린 작품이에요. 아이히만은 1942년부터 유대인을 학살하는 실무 총책임자로 활동했는데, 전쟁이 끝나고 중동을 전전하다가 1958년 아르헨티나로 숨어들었어요. 하지만 1960년 5월, 나치 전범을 추적하는 한 단체에 의해 신분이 탄로 났고 곧 체포됐어요.&lt;br&gt;&lt;br&gt;곧장 이스라엘로 이송된 아이히만은 예루살렘 법정에 서게 돼요. 아렌트는 미국 잡지 ‘뉴요커’의 특파원 자격으로 이 재판을 참관하죠. 아이히만은 법정에서 “자신에게 주어진 맡은 바 임무를 성실하게 수행했을 뿐, 자신은 죄가 없다”고 주장해요. 상부의 명령을 성실하게 따른 것도 죄냐는 것이죠.&lt;br&gt;&lt;br&gt;유대인 학살 당시 나치는 자기들만의 상투어(늘 써서 버릇이 되다시피 한 말)를 만들어 사용했는데요. 이들은 추방을 ‘첫 번째 해결책’으로 불렀고, 수용은 ‘두 번째 해결책’으로, 학살은 ‘최종 해결책’으로 불렀어요. 아이히만은 법정에서 주장하는 내내 이 상투어를 사용해 말했고, 상투어를 쓰지 않고서는 말을 하기 어려워했어요.&lt;br&gt;&lt;br&gt;아렌트는 이 대목을 강하게 비판해요. 나치가 만든 상투어가 현실을 호도하고 자기가 하는 일과 현실에 눈감게 했다는 거예요. 악의 평범성이라고 하면 보통 ‘모든 인간의 내면에 아이히만과 같은 악마적 본성이 있다’는 개념을 떠올려요. 하지만 아렌트는 ‘남들이 무슨 일을 겪는지 상상하기를 꺼리는 단순한 심리’만 있는 상황, 역지사지(易地思之)하지 않는 것을 악의 평범성이라고 정의해요.&lt;br&gt;&lt;br&gt;아렌트가 보기에 아이히만은 책임을 면하기 위해 거짓말하는 것이 아니라 맹목적 충성심으로 뭉쳐진, 스스로 사유할 수 없는 한 평범한 인간일 뿐이었어요. 아이히만의 이런 모습이 악의 평범성을 잘 보여준다는 거지요. 타인의 생각과 감정을 종종 무시하는 우리도 실은 악의 평범성을 내포하고 있는 사람들인 셈이에요.&lt;br&gt;&lt;br&gt;이 책은 ‘악의 문제에 대한 20세기의 가장 중요한 철학적 기여’를 한 책으로 평가받고 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [예쁜 말 바른 말] [257] ‘미루나무’와 ‘미류나무’</title>
-      <link>https://www.chosun.com/national/nie/2022/08/24/7SSMBOQ7NREX3JQRZF62JR6FMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2022/08/24/7SSMBOQ7NREX3JQRZF62JR6FMU/</guid>
-      <dc:creator>조유미 기자, 류덕엽 교육학 박사·서울 양진초 교장</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Aug 2022 15:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KQJWM36FW5CY7LTXUGUYTZNJGA.jpg"&gt;&lt;br&gt;&lt;br&gt;지난 15일 제77회 광복절을 맞아 서대문형무소를 다녀왔어요. 사형장 앞에 쓰러져 있는 커다란 고목 옆에 ‘통곡의 미루나무’라는 문구가 적힌 표지판이 눈길을 끌었어요. 표지판을 보던 한 어르신이 “’미류나무’를 ‘미루나무’라고 잘못 쓴 거 아닌가?”라고 묻자 다른 어르신이 “맞아, 우리 어렸을 때 ‘흰 구름’ 노랫말도 ‘미류나무 꼭대기에 조각 구름 걸려있네’라고 되어 있었는데”라고 대답합니다.&lt;br&gt;&lt;br&gt;‘미루나무’는 버드나뭇과의 낙엽 활엽 교목으로 북아메리카가 원산지입니다. 높이는 30m 정도로 곧게 자랍니다. 잎은 삼각형이고 가장자리에 톱니가 있으며, 광택이 나지요. 3~4월에 꽃이 피고 5월에 열매가 익으며 종자(씨)에 털이 많아요. 시골에서는 가로수로 많이 심었다고 해요.&lt;br&gt;&lt;br&gt;이 나무는 미국에서 들어온 버드나무[柳]라는 뜻으로 ‘미류(美柳)’라는 이름이 붙었고, ‘미류나무’와 ‘미루나무’가 혼용되다가 ‘모음이 단순화한 형태를 표준어로 삼는다’는 표준어 규정 제10항에 따라 1988년 ‘미루나무’를 표준어로 정했어요. 북한에서는 이 나무를 ‘강선뽀뿌라’라고 부른대요.&lt;br&gt;&lt;br&gt;-’통곡의 미루나무’는 조국의 독립을 끝내 보지 못하고 사형선고를 받은 독립투사들이 생의 마지막 순간 이 나무를 붙잡고 통곡했다고 해서 붙여진 이름이다. 사형장 안쪽에도 같은 시기에 심어진 미루나무가 있었는데, 억울한 한(恨)이 많이 서려 잘 자라지 못했다는 일화가 전해지고 있다.&lt;br&gt;&lt;br&gt;-고향에 있는 미루나무 가로수는 시골길의 운치를 더해주었다.&lt;br&gt;&lt;br&gt;-강변이나 시골에 경치를 좋게 하려고 미루나무를 많이 심었는데, 지금은 봄철 꽃가루가 많이 날린다는 이유로 거의 심지 않는다.&lt;br&gt;&lt;br&gt;-미루나무 목재는 젓가락이나 성냥개비 등의 재료로 쓰인다.&lt;br&gt;&lt;br&gt;류덕엽 교육학 박사·서울 양진초 교장&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“아들 잘 부탁드려요. 죄송합니다”…'노크귀순’ 엘리트 탈북민의 문자</title>
