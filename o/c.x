@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“자율주행 아닌 자발주행”…한밤중 발로 핸들 잡고 달린 운전자 </title>
+      <link>https://www.chosun.com/national/national_general/2024/06/18/52T4PISYYJBTDFND2TCGJ4CJS4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/18/52T4PISYYJBTDFND2TCGJ4CJS4/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 22:07:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IJOTW5C4DNHI5ODLMXBKQYUWYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한밤중 발로 운전대 잡고 주행하는 운전자../인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한밤중 손이 아닌 발로 운전대를 조작하며 도로를 달리는 운전자의 모습이 포착됐다.&lt;br&gt;&lt;br&gt;17일 보배드림 인스타그램에는 ‘발로 스티어링휠(핸들) 조작하는 흰색 아반떼HD’라는 제목의 영상이 올라왔다. 영상에는 한밤중 창문을 활짝 내린 채 도로를 질주하는 흰색 승용차의 모습이 담겼다.&lt;br&gt;&lt;br&gt;영상을 보면 이 운전자는 손이 아닌 발로 운전대를 잡고 있었다. 운전석을 뒤로 젖힌 상태라 얼핏 누운 자세로 운전을 하는 듯 보인다. 이 운전자는 상황이 여유로운듯 손으로 머리를 쓸어 올리기도 했다.&lt;br&gt;&lt;br&gt;이 모습을 본 네티즌들은 “운전 足(족)같이 한다” “천국으로 가는 족이다” “자율주행 기능 없는 차로 보이는데 저러다가 조용히 혼자 가길. 남에게 피해 주지 말고” “자율주행이 아니라 자발주행” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;주행중 발로 운전대를 조작하는 운전자의 모습이 포착된 건 이번이 처음은 아니다.&lt;br&gt;&lt;br&gt;지난 2월에는 고속도로를 달리는 화물차 운전자가 발로 운전대를 돌리고 경적을 울리는 모습이 포착돼 다른 운전자들의 공분을 샀다.&lt;br&gt;&lt;br&gt;발로 운전하는 운전자의 모습과 관련 교통사고 전문 변호사 한문철은 한 방송을 통해 “실제 발로 운전하는 특수제작 차량일 수 있다. 팔이 없어 운전이 어려운 사람을 위한 것”이라면서도 “특수제작 차량이라면 문제 없지만 그렇지 않으면 발로 운전은 매우 위험한 일”이라고 말하기도 했다.&lt;br&gt;&lt;br&gt;실제로 주행중 발로 운전대를 조작하는 행위는 도로교통법에 따라 안전운전 위반으로 제재받을 수 있다. 이 법 제48조는 모든 운전자는 조향장치나 제동장치 등을 정확하게 조작해야 하고, 다른 사람에게 위험을 초래할 수 있는 속도나 방법으로 운전해서는 안 된다고 명시하고 있다. 이를 어길 시 20만원 이하의 벌금이나 구류 또는 과료에 처할 수 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>李 “안부수 판결땐 주가부양용 인정”… 재판부, 대북송금 쓰임새 판단 안해</title>
       <link>https://www.chosun.com/national/court_law/2024/06/18/7OOJWGFAIJFF7FFVX7JIW3EWLM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/18/7OOJWGFAIJFF7FFVX7JIW3EWLM/</guid>
@@ -889,14 +898,6 @@
       <description/>
       <pubDate>Sun, 16 Jun 2024 15:45:00 +0000</pubDate>
       <content:encoded>▲&lt;b&gt;김선옥&lt;/b&gt; 별세, &lt;b&gt;오상근&lt;/b&gt; 다물건설 대표·&lt;b&gt;오정근&lt;/b&gt; 에이티엔에스 대표·&lt;b&gt;오해근&lt;/b&gt; 한일시멘트 상무 모친상=16일17시30분 고대안산병원, 발인 19일6시30분, (031)411-4441&lt;br&gt;&lt;br&gt;▲&lt;b&gt;신동현 &lt;/b&gt;별세, &lt;b&gt;신흥섭&lt;/b&gt;·&lt;b&gt;신지용&lt;/b&gt;·&lt;b&gt;신준섭 &lt;/b&gt;한미사이언스 상무 부친상=15일9시58분 서울아산병원, 발인 17일12시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이남순&lt;/b&gt; 별세, &lt;b&gt;이영식&lt;/b&gt; 교사·&lt;b&gt;이한식 &lt;/b&gt;서강대 경제학과 명예교수 모친상, &lt;b&gt;김점룡&lt;/b&gt; 前 조선일보 판매국 부국장 장모상=15일17시 중앙대병원, 발인 18일9시, (02)860-3503&lt;br&gt;&lt;br&gt;&lt;b&gt;▲이준호&lt;/b&gt; 前 대신증권 사장 별세, &lt;b&gt;조복례&lt;/b&gt; 남편상, &lt;b&gt;이한우 &lt;/b&gt;JB우리캐피탈 상무·&lt;b&gt;이은주&lt;/b&gt; 삼성생명 근무·&lt;b&gt;이한세 &lt;/b&gt;케이인베스트먼트 대표 부친상=15일10시52분 삼성서울병원, 발인 18일8시30분, (02)3410-6917&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>새에덴교회, 미국 텍사스서 6·25 참전용사 초청 보은행사</title>
-      <link>https://www.chosun.com/national/people/2024/06/17/BPCWMNQAJJGR3OAEXAB4ZH5PKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/17/BPCWMNQAJJGR3OAEXAB4ZH5PKI/</guid>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VPI67N7PTVESBHN2G4Q5BG5TUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/새에덴교회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새에덴교회는 14일(현지 시각) 미국 텍사스주 댈러스의 한 호텔에서 6·25전쟁 참전용사 초청 행사를 진행했다고 밝혔다. 장진호 전투에 소대장으로 참전했던 리처드 캐리(97) 예비역 미군 중장을 비롯해 정영호 주휴스턴 총영사, 짐 로스 알링턴 시장 등 300여 명이 참석했다. 이 교회 소강석&lt;b&gt;&amp;lt;오른쪽&amp;gt;&lt;/b&gt; 목사는 “자유와 평화를 위해 목숨 걸고 싸워주신 우리의 영웅들을 모시고 보은 행사를 할 수 있게 된 것은 큰 영광이자 특권”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘암 투병’ 英 미들턴 왕세자빈, 찰스 3세 생일 기념행사에 등장</title>
