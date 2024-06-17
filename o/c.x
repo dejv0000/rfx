@@ -13,6 +13,64 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>만취한 중국인 女 관광객 성폭행한 호텔 직원... 경찰, 구속영장 신청</title>
+      <link>https://www.chosun.com/national/incident/2024/06/17/UWCCVD6NDRDLNHTW5HH6A4LLJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/17/UWCCVD6NDRDLNHTW5HH6A4LLJY/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 13:23:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z54UH5VJLZEXJEQW5HDFDSR5GQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취한 중국인 여성 관광객의 방에 몰래 들어가 성폭행한 혐의를 받는 호텔 직원에 대해 경찰이 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;제주서부경찰서는 성폭력범죄의 처벌 등에 관한 특례법상 주거침입준강간 혐의로 제주 모 호텔 직원 30대 남성 A씨의 구속영장을 신청했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 14일 오전 4시쯤 제주시 연동의 한 호텔에서 중국인 관광객 20대 여성 B씨의 객실에 몰래 들어가 성폭행한 혐의를 받고 있다. A씨는 호텔 마스터키를 이용해 B씨의 객실로 들어갔으며, B씨는 만취 상태여서 저항하지 못한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;B씨는 같은 날 아침 자신이 성폭행당했다는 사실을 우리나라에서 만난 중국인 지인 C씨에게 알렸고, C씨가 경찰에 이 내용을 신고했다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 B씨의 객실로 들어가는 장면이 찍힌 호텔 보안 카메라 영상과 B씨 진술 등을 토대로 A씨를 긴급 체포했다. A씨는 성폭행 혐의를 부인하고 있는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 사건 경위 등에 대해 추가로 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/LVAJPEG5DYHOZI2N7UZXGOYT2Y.jpg?width=435&amp;height=219&amp;auth=cc683fecc78c2ab53842bfec66dae4e2be486575e54a5ebad1ccc382320a208a&amp;smart=true" type="image/jpeg" height="219" width="435">
+        <media:description type="plain">제주서부경찰서. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>미혼男이 미혼女보다 20% 많다... 결혼하기 힘든 이유 있었네</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/06/17/CR3JIR6XI5E7XIEYKANEF55QGY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/17/CR3JIR6XI5E7XIEYKANEF55QGY/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 12:24:32 +0000</pubDate>
+      <content:encoded>과거 남아 선호 사상 등 영향으로 미혼 남성이 미혼 여성보다 20%가량 많은 것으로 나타났다. 미혼 남녀의 성비 불균형이 저출생 해결을 더 어렵게 만들 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YTPG7PNZIJF3BLJKWXJ5HCUR6Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 보건사회연구원 보고서 ‘한국의 출생 성비 불균형과 결혼 성비’에 따르면, 2021년 기준으로 전국의 미혼 남성이 미혼 여성보다 19.6% 많은 것으로 나타났다. 이는 인구 구조상 남성 여섯 명 중 한 명은 짝을 찾기 어렵다는 뜻이다.&lt;br&gt;&lt;br&gt;미혼 남녀 성비 불균형은 서울과 다른 지역 차가 컸다. 서울은 미혼 남성이 미혼 여성보다 2.5% 많아 거의 차이가 없었다.&lt;br&gt;&lt;br&gt;반면 경북은 미혼 남성이 미혼 여성보다 34.9% 많았고, 경남(33.2%), 충북(31.7%)도 미혼 남녀 차가 30% 이상이었다. 이어 전북(29.5%), 전남(26.9%), 충남(26%), 강원(25.3%), 대구(21.7%) 순이었다. 수도권인 경기(21.2%), 인천(21%)과 제주(19.9%)에서도 미혼 남녀 수 차이가 전국 평균(19.6%)을 넘었다. 부산은 16.2% 차이를 보였다.&lt;br&gt;&lt;br&gt;한국은 1970년대부터 2006년까지 자연 성비(여아 100명당 남아 104~107명 범위)보다 남성의 출생이 많았고 2007년부터는 자연 성비로 돌아왔다. 한때 한 아이만 낳도록 권장한 정책과, 출산 전 성별을 알 수 있게 된 초음파 검사의 발달 등이 영향을 미쳤다. 성비 불균형 등으로 인해 2020년 기준 1985년생(당시 35세) 남성 미혼율은 46.5%로 여성(29.1%)보다 높았다. 보고서는 “출생 성비 불균형이 앞으로도 상당 기간 결혼 실태에 큰 영향을 미칠 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고려제약 리베이트에 의사 1000여명 연루...최대 수천만원 받은 정황</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/17/BO23N6RCTZAI7EXBUIZCVKRPEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/17/BO23N6RCTZAI7EXBUIZCVKRPEE/</guid>
+      <dc:creator>김수경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 12:16:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EW4TD3TRLNILTE5CPCADK4TRDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구 고려제약 본사 앞 모습. 2024.4.29/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;고려제약의 불법 리베이트(뒷돈) 사건을 수사 중인 경찰은 이번 사건에 의사 1000여 명이 연루돼 있는 사실을 확인했다고 17일 밝혔다. 제약 업계 전반에 만연한 뒷돈 거래가 대규모 수사로 확대될 가능성도 있다.&lt;br&gt;&lt;br&gt;조지호 서울경찰청장은 이날 기자 간담회에서 “현재 확인이 필요한 대상은 의사를 기준으로 약 1000명 이상”이라며 “현금을 직접적으로 받거나, 가전제품 같은 물품을 받은 경우, 골프 관련 접대 등 여러 가지 메리트를 받은 정황들을 확인했다”고 했다.&lt;b&gt; &lt;/b&gt;리베이트 규모가 수백억 원대에 이를 수 있다는 관측이 나온다.&lt;br&gt;&lt;br&gt;경찰은 지난 4월 서울 강남구 고려제약 본사를 압수 수색했다. 이때 확보한 자료를 토대로 의사들이 제약 회사와 임직원들에게서 최소 수차례에 걸쳐 수백만 원에서 최대 수천만 원 상당의 금품을 제공받은 것으로 파악하고 있다. 조 청장은 “이들에 대해 금품을 제공받은 경위를 확인하는 작업을 곧 시작할 것”이라며 “소명 내용에 따라 입건자 수는 1000명이 넘을 수도 있지만, 덜 될 수도 있다”고 말했다.&lt;br&gt;&lt;br&gt;현행법상 의료인은 의약품 채택·처방 유도·거래 유지 등을 목적으로 제공되는 금전, 물품 등 경제적 이익을 받으면 안 된다. 다만 학술 대회 지원, 임상시험 지원 등 보건복지부령으로 정하는 범위 안에서는 경제적 이익 수수를 허용하고 있다. 조 청장은 이에 대해 “확인이 필요한 1000여 명은 그 범위를 넘는 금액으로 이해하면 된다”며 리베이트 연루 의사들이 소속된 병원에 대해서도 “대형 병원을 포함해 전국적으로 다양하게 있다”고 했다. 경찰 관계자는 “서울대병원·서울아산병원·서울성모병원·신촌세브란스병원·삼성서울병원 등 이른바 국내 대형 병원의 의사들 일부도 수사 선상에 올랐다”고 했다.&lt;br&gt;&lt;br&gt;고려제약은 전문 의약품을 만들어 병원에 납품하는 중소 규모의 제약 회사로, 주로 신경과, 신경외과, 피부과 수술 등에 사용되는 전문 의약품을 취급하는 회사다. 의료계에선 “고려제약보다 규모가 더 큰 제약사들의 리베이트를 경찰이 파헤치기 시작하면 연루된 의사와 약사 등이 엄청난 규모로 커질 수 있다”는 말이 나온다. 최근 서울서부지검 식품의약범죄조사부는 종근당 계열사인 경보제약이 약값 일부를 되돌려주는 방식으로 병원에 수백억 원대 불법 리베이트를 제공했다는 국민권익위원회 공익 신고를 넘겨받아 수사 중이다.&lt;br&gt;&lt;br&gt;경찰은 다른 제약사로까지 리베이트 수사가 확대될 가능성도 시사했다. 조 청장은 “굉장히 구조적인 문제가 아닌지 의심하지 않을 수 없는 정황이 여러 곳에서 발견됐다”며 “한 제약사의 문제라고 보기엔 적절하지 않은 면이 있어 더 들여다봐야 하기에, 세무 당국과 협의해 수사를 확대하는 것도 배제하지 않고 있다”고 했다. 경찰 관계자는 “현행법은 리베이트를 준 사람과 받은 사람 모두를 처벌하도록 하고 있기 때문에 꼼꼼하게 수사할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산·경남도 통합 시동... 9월까지 案 마련 후 공론화</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/17/FJAY6CUXC5CRPG2FVZGZEG5PHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/17/FJAY6CUXC5CRPG2FVZGZEG5PHY/</guid>
+      <dc:creator>부산=박주영 기자, 창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 12:12:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UKZE32LGINEOXIIMKPZW47CZAQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;17일 부산 연제구 부산시청에서 박형준 부산시장(왼쪽)과 박완수 경남지사(오른쪽)가 행정 통합 등 지역 공동 현안과 관련한 공동합의문에 서명하고 악수하고 있다./김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 4일 통합 계획을 발표한 대구·경북에 이어 부산·경남도 행정 통합을 본격 추진하기로 했다.&lt;br&gt;&lt;br&gt;박형준 부산시장과 박완수 경남도지사는 17일 오전 부산시청에서 만나 이러한 내용의 ‘미래 도약과 상생 발전을 위한 공동합의문’을 발표했다.&lt;br&gt;&lt;br&gt;공동합의문에서 양측은 “수도권 일극(一極) 체제를 극복하고 대한민국의 새로운 발전 축을 만들려면 행정 통합이 필요하다”며 “시·도민 공감대 형성을 통해 양 시·도 행정 통합을 추진할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;양측은 이를 위해 오는 9월까지 행정통합안을 마련하고 ‘부산·경남 행정통합 공론화위원회’를 발족해 공론화 작업을 하기로 했다. 이후 내년 3월까지 여론조사를 실시해 시·도민의 의사를 확인할 계획이다.&lt;br&gt;&lt;br&gt;양측은 이날 합의문에 “특별법에 행정통합체가 연방제 주(州) 정부에 준하는 실질적 권능과 권한을 갖도록 하겠다”는 내용을 명시했다. 박 시장은 “특별법에 각 지역에 필요한 내용을 과감하게 충분히 넣어서 연방제 수준의 지방자치를 하자는 것”이라고 말했다.&lt;br&gt;&lt;br&gt;이날 회동에 김두겸 울산시장은 참석하지 않았다. 박 지사는 “장기적으로는 울산이 참여해 부산·울산·경남이 하나가 되는 것이 우리 행정 통합의 목표”라고 말했다.&lt;br&gt;&lt;br&gt;앞서 홍준표 대구시장과 이철우 경북지사는 지난 4일 정부서울청사에서 이상민 행정안전부 장관, 우동기 지방시대위원회 위원장을 만나 2026년 7월 통합 자치단체를 출범한다는 계획을 발표했다. 올해 안에 특별법을 제정하는 것을 목표로 하고 있다.&lt;br&gt;&lt;br&gt;부산·경남을 합치면 인구는 660만명, 지역 내 총생산은 224조원에 이른다. 대구·경북 통합 자치단체보다 규모가 크다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충돌 당해 밀린 트럭에… 제초 작업 준비하던 1명 사망‧6명 중경상</title>
+      <link>https://www.chosun.com/national/incident/2024/06/17/F6MKKICNFRF23CPIGOP7XSXLI4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/17/F6MKKICNFRF23CPIGOP7XSXLI4/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 11:03:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4G23XRAU2SE3IL5XGVJ354RRKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오전 울산시 언양읍 국도에서 발생한 교통사고 현장.(울산경찰청 제공)./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도로 갓길에 멈춰있던 소형 트럭이 사고 충격으로 인부들을 덮치면서 작업을 준비하던 1명이 숨지고, 6명이 다쳤다.&lt;br&gt;&lt;br&gt;17일 울산경찰청에 따르면 이날 오전 9시 30분쯤 울산시 울주군 언양읍 국도 24호선을 달리던 2.5t 화물차가 갓길에 멈춰있던 소형 트럭을 들이받았다.&lt;br&gt;&lt;br&gt;충격을 받은 소형 트럭은 앞쪽으로 밀렸고, 차량 앞에서 제초 작업을 준비하던 인부들을 덮쳤다. 이 사고로 60대 여성 1명이 숨지고, 50~60대 6명이 다쳤다. 부상자 중 2명은 중상자로, 4명은 경상자로 분류됐다.&lt;br&gt;&lt;br&gt;경찰은 화물차 운전자 등을 상대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>50대 남매 숨지게 한 오토바이 운전자… 경찰, 구속영장</title>
+      <link>https://www.chosun.com/national/incident/2024/06/17/KR3WKEXBY5AFZCDDZ2KDQZH5DQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/17/KR3WKEXBY5AFZCDDZ2KDQZH5DQ/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 10:34:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2JO7RXV2GZW3HLI5RRAPCYZOLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;군산경찰서 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건널목을 건너던 50대 남매를 치어 숨지게 한 배달 오토바이 운전자에 대해 경찰이 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;전북 군산경찰서는 교통사고 처리특례법상 치사 혐의로 오토바이 운전자 20대 A씨의 구속영장을 신청했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 15일 오후 8시 40분쯤 군산시 나운동의 한 도로에서 건널목을 건너던 50대 B씨와 C씨 등 보행자 2명을 치어 숨지게 한 혐의를 받고 있다. 남매 관계인 B씨와 C씨는 인근 공원에서 산책하고 돌아가던 중 A씨의 오토바이에 치여, 병원으로 이송됐으나 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 정지 신호를 무시하고 건널목을 통과하다 이들을 들이받은 것으로 조사됐다. A씨는 경찰 조사에서 “횡단보도를 건너던 보행자를 보지 못했다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 사고 경위 등을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“숭고한 희생 기려” 이영애, 천안함재단에 5000만원 기부</title>
       <link>https://www.chosun.com/national/people/2024/06/17/V3FQ6BS2KJA3HCFTTLYIDVDPNM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/17/V3FQ6BS2KJA3HCFTTLYIDVDPNM/</guid>
@@ -867,36 +925,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEMRCJGGV5NS7OD5SEY3FNZOYI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오후 서울 중구 을지로1가 부림빌딩에 마련된 10·29 이태원 참사 기억·소통공간 '별들의 집'에서 유가족들이 영정을 보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 중구 서울광장에 설치된 ‘핼러윈 참사 희생자 합동 분향소’가 16일 서울시청 인근 부림빌딩 1층으로 이전했다. 작년 2월 유가족 측이 서울광장에 분향소를 설치한 이후 499일 만이다.&lt;br&gt;&lt;br&gt;새로운 분향소는 서울시청 인근 을지로1가 부림빌딩 1층에 ‘별들의 집’이라는 이름으로 마련됐다. 11월 2일까지 ‘임시 기억 공간’으로 사용될 예정이다. 별들의 집에는 핼러윈 참사 희생자들의 사진과 참사 당일의 기록 등이 전시돼 있다.&lt;br&gt;&lt;br&gt;앞서 이날 서울광장에서는 오후 1시쯤부터 합동 분향소 운영 종료식이 열렸다. 핼러윈 참사 유가족 90여명과 우원식 국회의장, 야당 국회의원들이 참석했다. 운영 종료식에서는 추모 의식, 묵념, 헌화 등이 진행됐다.&lt;br&gt;&lt;br&gt;종료식을 마친 유가족들은 희생자들의 영정을 받아 들고 새로운 분향소가 들어선 부림빌딩까지 행진했다.&lt;br&gt;&lt;br&gt;서울광장 분향소는 작년 2월 설치됐다. 당시 서울시는 용산구 녹사평역 지하 4층에 추모 공간 설치를 제안했지만, 유가족 측은 “지하는 분향소로 적절하지 않다”며 참사 100일 추모대회를 위해 세종대로로 행진을 하던 중 예고 없이 서울광장에 멈춰 분향소를 설치했다.&lt;br&gt;&lt;br&gt;작년 10월에는 서울시와 유가족 측이 합의해 서울광장에서 참사 1주기 시민 추모대회를 열었고, 유가족 측도 불법 점용 변상금 2900만원을 납부하면서 대화에 물꼬가 트였다. 서울시와 유가족 측은 50차례 넘는 대화 끝에 지난 5일 분향소 이전에 합의했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>대구시, 폐지수집 어르신 위한 복지 서비스 강화한다</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/16/RHG3EJB2LJGY7BQOCMNCOWYS2E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/16/RHG3EJB2LJGY7BQOCMNCOWYS2E/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 08:43:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BCEEALGWAVOAZM6CHY3PXSGLGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 12일 오후 대구 동성로 그늘진 골목길에서 한 고령의 시민이 폐지를 가득 실은 수레를 끌고 가고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시가 폭염 대비 선풍기 지급 등 폐지를 수거해 파는 고령자들을 위한 지원을 확대한다.&lt;br&gt;&lt;br&gt;대구시는 “무더위가 기승을 부리는 한여름을 앞두고 뙤약볕 아래 폐지 수집을 하는 60대 이상 고령자에 대해 공공일자리를 제공하거나 폐지 판매 수익을 보장해주는 등 지원책을 마련, 시행하기로 했다”고 16일 밝혔다. 시에 따르면 지역 내에서 폐지 수집을 하는 60대 이상 고령자들은 총 1189명이다. 이중 여성 708명(60%), 남성이 481명(40%)이다.&lt;br&gt;&lt;br&gt;시는 먼저 폐지 수집 어르신들의 건강 및 여건 등을 토대로 근무 강도가 낮은 공공 일자리를 제공해 안정적인 소득을 얻도록 도울 계획이다. 폐지 수집을 이어가길 원하는 어르신들의 경우 수집 폐지를 시니어클럽과 협약을 맺은 고물상 등으로 가져오면 판매 수익과 추가 지원금을 합해 월 30만원 정도를 급여로 보장해주기로 했다. 이는 현재 평균 수입의 2배 가량이다.&lt;br&gt;&lt;br&gt;시는 또 저소득 취약계층을 위한 찾아가는 복지 서비스인 ‘달구벌 복지기동대’에서 폐지 수집 어르신들의 생계와 건강 상태 등을 확인하고 긴급시 현금·현물·의료 서비스 등을 지원, 위기 상황을 예방할 방침이다. 폐지 수집 어르신 중 홀로 생활하는 독거노인의 경우 집안 내에 119와 연계해 대응할 수 있는 화재·활동 감지기 등을 설치해 주고 자원봉사자간 결연을 맺어 주기적으로 안부전화와 방문 등 맞춤형 돌봄 서비스를 제공하기로 했다.&lt;br&gt;&lt;br&gt;우울증 등 만성질환을 앓는 어르신에게는 방문간호사가 2개월에 1회씩 주기적인 건강 관리와 상담을 해줄 계획이다. 시는 이와 함께 폭염 및 혹한기엔 선풍기와 방한복 등 냉·난방 용품을 지원하고, 폐지수집 활동 중 교통 사고 예방을 위한 보호장비를 지급하는 한편 안전교육을 실시하기로 했다.&lt;br&gt;&lt;br&gt;정의관 대구시 보건복지국장은 “폭염이 본격화하는 계절에 폐지수집 어르신들이 사회에서 고립되지 않도록 필요한 복지 서비스를 지원하고, 일상생활에서 도움을 드릴 수 있도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 6월 17일 월요일 (음력 5월 12일 壬子)</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/16/SSQUQXZTWFG6TCPAC2DFJ54YZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/16/SSQUQXZTWFG6TCPAC2DFJ54YZA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 비 온 뒤 땅 굳어지는 법. 48년생 비상 상황 대비하여 비상금 마련해 둬라. 60년생 자신은 물론 가족 건강관리 신경 쓰도록. 72년생 버릴 줄 알아야 얻을 줄도 알지. 84년생 은혜는 은혜로 갚아라. 96년생 중간 점검이 필요한 시기.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 흐르는 물은 썩지 않는다. 49년생 금전 문제로 인한 갈등을 주의. 61년생 낙숫물이 댓돌 뚫듯 더디지만 목적 달성. 73년생 무위도식은 삶도 좀먹는다. 85년생 큰 동이는 더디게 채워지는 법. 97년생 처신에 융통성 발휘하도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 과욕으로 인한 망신 수를 조심. 50년생 상대를 자신의 스타일로 바꾸려 마라. 62년생 자본 잠식 불가피할 듯. 74년생 사욕 누르고 공의 따르도록. 86년생 처신을 가볍게 하지 마라. 98년생 윗사람의 도움으로 어려움 해결.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 붉은 옷 입은 사람이 귀인. 39년생 혀가 칼보다 많은 상처를 줄 수도. 51년생 매사 상황에 맞게 처신하도록. 63년생 배우자와의 관계에 이해와 배려 필요. 75년생 참고 가다 보면 목적지 다다를 때 있다. 87년생 능력의 한계 느끼는 시간.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 원숭이띠와의 거래에 이익 있다. 40년생 장인 손에는 버려질 나무가 없다. 52년생 일진 불리하니 상가 멀리하라. 64년생 맑은 샘에는 흙탕물이 나지 않는다. 76년생 뜻밖의 제안은 큰 이익 부른다. 88년생 이 보 전진을 위한 일 보 후퇴.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 소유할 수 없다면 포기하는 것이 상책. 41년생 임기응변으로는 근본적 해결 어렵다. 53년생 마음의 여유가 필요할 때. 65년생 화목한 가정에 만사가 순성(順成). 77년생 재물 운이 상승하는 시기. 89년생 숨을 깊이 들이쉬고 어깨에 힘을 빼라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 작은 밑천으로 큰 수확 본다. 42년생 변화와 변동이 많은 하루. 54년생 도랑 치고 가재 잡고. 66년생 허약한 육체는 마음도 허약하게 한다. 78년생 행복은 찾기보다 지키기가 더 어렵다. 90년생 쉽게 생각했던 일이 어렵게 풀릴 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 우왕좌왕하지 말고 한 길로만 가라. 43년생 망각이 때로는 행복일 수도. 55년생 웃자고 한 말에 초상 난다 했다. 67년생 바닷속 물고기는 물 고마운 줄 모른다. 79년생 자존감과 자신감을 가져야 할 시기. 91년생 상대방에게 맞추는 태도가 성취의 열쇠.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 신수는 무난하지만 집안에 근심이 염려. 44년생 푸른색과 숫자 3, 8 행운 부른다. 56년생 적당한 고립적 생활이 도움 될 듯. 68년생 북쪽은 이롭지 못하니 출입을 삼가도록. 80년생 분수를 알면 근심 없다. 92년생 황소 뒷걸음치다 쥐 잡는 격.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 때론 시비 구설도 결코 나쁘지만은 않다. 45년생 배우자 덕에 기분 좋은 하루. 57년생 안전사고와 관재 수를 주의. 69년생 취침 전 3분의 명상이 최고의 피로해소제. 81년생 수치심을 참고 후일을 기약하도록. 93년생 한 치 앞이 어둡구나.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 부지런한 물레방아는 얼 새가 없다. 46년생 감정적 대처는 구설과 잡음 야기. 58년생 어둠 속에서 실낱 같은 희망의 등불 보게 될 듯. 70년생 화해의 기운이 성공 부른다. 82년생 노상(路上) 횡액을 주의. 94년생 도전하지 않으면 고민도 없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 문서 거래는 다음 기회에. 47년생 격분할 때는 아무것도 하지 마라. 59년생 건강 상태를 수시로 체크하라. 71년생 다른 각도에서의 관조(觀照) 필요. 83년생 새로운 사업으로의 결정은 다음 기회에. 95년생 잦은 감정 변화는 관계를 꼬이게 할 수도.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
       <title>의정 갈등에 간호사 ‘불똥’… 경영난에 상반기 채용 대학병원 1곳뿐</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/06/16/APDNR2LL2JGIZAVAFBIXSQAOKY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/16/APDNR2LL2JGIZAVAFBIXSQAOKY/</guid>
@@ -904,33 +932,6 @@
       <description/>
       <pubDate>Sun, 16 Jun 2024 06:55:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QHE3JOTBEALYMJ6NTCYX3EFJA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 서구 부산대병원 간호사가 간호사실을 정리하는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전공의 이탈로 인한 의료 공백으로 경영난에 빠진 대형 병원들이 올해 신규 간호사 채용을 잠정 중단한 것으로 나타났다.&lt;br&gt;&lt;br&gt;16일 정부와 의료계에 따르면 올해 신규 간호사를 채용하겠다고 밝힌 대학 병원은 상반기에 중앙대병원, 하반기에 원광대병원 뿐이다. 빅5 병원(서울대·서울아산·세브란스·삼성서울·서울성모)은 그동안 거의 매년 세 자릿수 규모의 신규 간호사 채용을 해왔지만, 올해는 연내 채용이 가능할지도 미지수다. 지난 2월 간호사 국가고시 합격자 발표가 있었지만, 그 직후 전공의 사태가 터지면서 수개월간 병원 경영이 급속히 악화되자 간호사 채용도 끊긴 것이다.&lt;br&gt;&lt;br&gt;당초 7월 상급 종합병원 18곳이 동시에 간호사 최종 면접을 보도록 하겠다던 정부의 계획도 무산된 상태다. 복지부 관계자는 “대형 병원들이 기존 간호사들도 무급 휴직을 보낼 정도로 사정이 나빠져서 신규 간호사 채용을 계획하기 어려운 상황”이라며 “상반기에 신규 간호사를 채용하지 않은 병원들이 하반기에 채용 공고를 낼 수 있을지 알 수 없다”고 했다. 정부는 하반기에 간호사를 채용하는 병원들을 모아서 10월에 공고를 내도록 한다는 방침이지만, 경영난을 겪는 병원들이 얼마나 응할지는 미지수다. 간호협회에 따르면 간호대 4학년을 대상으로 하는 내년도 채용 공고 역시 올라오지 않고 있다.&lt;br&gt;&lt;br&gt;간호대에서는 재학생들의 휴학이 이어지면서 향후 취업에도 악영향을 미칠 수 있다는 전망이 나온다. 졸업 예정자만을 대상으로 하는 신규 채용에 지원하기 위해 고학년들이 졸업을 늦출 경우 저학년들의 취업 경쟁률도 올라갈 수 있다. 간호대생들이 모인 온라인 커뮤니티에는 ‘역대급 불취업(어려운 취업)’ ‘이러려고 4년 열심히 공부했나’ 등 반발이 담긴 글이 올라왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이승기, 장인 주가조작 논란에 “가족만은 건드리지 말아달라”</title>
-      <link>https://www.chosun.com/national/people/2024/06/16/FVNYGKIDJZH6TNOATITVIKTNNI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/16/FVNYGKIDJZH6TNOATITVIKTNNI/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 06:49:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZOUYP4GVJVYNJLVTZJDU3OQIAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 겸 가수 이승기(37)와 배우 이다인(32)./휴먼메이드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 겸 가수 이승기(37)측이 장인의 주가 조작 논란에 대해 “가족만은 건드리지 말아달라”는 입장을 내놓았다. 가짜뉴스와 악플에 대한 법적 대응도 예고했다.&lt;br&gt;&lt;br&gt;16일 이승기 소속사 빅플래닛메이드엔터테인먼트(이하 빅플래닛)는 “이승기 장인 A씨의 2016년 주가 조작 혐의와 관련 대법원이 최근 파기 환송 결정을 내렸다”며 “이번 사안은 이승기가 결혼하기 전의 일들이며, 가족들이 해결해야 할 문제”라고 했다.&lt;br&gt;&lt;br&gt;앞서 대법원 3부(주심 노정희 대법관)는 이날 자본시장법 위반 혐의로 기소된 이승기 장인 A씨 등 4명의 상고심에서 무죄를 선고한 원심을 파기하고 사건을 서울고법으로 돌려보냈다. 재판부는 일부 공시 내용이 투자자에게 손해를 줄 수 있는 ‘부정행위’에 해당한다고 봤다.&lt;br&gt;&lt;br&gt;빅플래닛은 “소속 아티스트인 이승기 씨가 배우로서, 가수로서 자신의 일에만 집중할 수 있도록 전폭적인 지원을 아끼지 않을 뜻을 우선 밝힌다”며 “당사는 데뷔 20주년을 맞은 아티스트로서 팬들에게 더 가까이 다가서고자 고심하는 이승기를 위해 가족만은 건드리지 말아 주길 간곡히 부탁한다”고 당부했다.&lt;br&gt;&lt;br&gt;이어 “이승기는 이제 한 가정을 책임진 가장으로서, 남편으로서, 한 아이의 아빠로서, 한 집안의 사위로서 책임을 다하고 있다. 또한 이승기의 장인, 장모 역시 새롭게 태어난 생명의 조부모가 됐다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “이승기는 빅플래닛메이드엔터에서 새로운 출발을 하면서 그 어느 때보다 의욕을 다지고 있다”면서 “당사는 향후 이승기와 이승기 가족에 대한 가짜 뉴스와 악의적 비하성 댓글에 대해서는 소속사 차원에서 더욱더 강력히 법적 대응에 나설 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;이승기는 작년 4월 견미리의 둘째 딸이자 배우인 이다인(32)과 결혼했다. 이들 부부는 지난 2월 딸을 품에 안았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울시, 폐교부지에 노인 요양시설 조성 추진</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/16/FK4TRDHE4FCWNON2HNTUOAG63A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/16/FK4TRDHE4FCWNON2HNTUOAG63A/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 06:48:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TSN3TW73MXRSSEKYJESPRY5ZVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 지난달 서울시 중구 서울시청 브리핑룸에서 미래서울의 도시경쟁력 강화를 위한 외국인주민 정책 마스터플랜을 발표하고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 향후 나올 초중고 폐교 부지에 노인요양시설 조성을 추진한다.&lt;br&gt;&lt;br&gt;서울시는 이같은 내용이 포함된 ‘인구정책 기본계획’을 16일 발표했다. 저출생고령화, 이민 전략 등을 담아 5년마다 발표하는 계획이다.&lt;br&gt;&lt;br&gt;인구정책 추진 방향으로 ‘지속 가능한 경제성장’, ‘콤팩트 도시 조성’, ‘건강·활력 생활 보장, ‘탄생응원 지원’을 설정하고 30개 핵심과제를 선정했다. 인구정책 기본계획은 시 인구변화대응위원회 자문과 서울연구원의 분석을 거쳐 마련했다.&lt;br&gt;&lt;br&gt;현재 비선호시설로 인식되는 요양시설을 복합시설로 조성할 방침이다. 어린이집처럼 생활필수시설로 인식되게하기 위해서다. 기부채납으로 시설을 조성하려 하지만 주민 반발로 부지 확보가 어려운 상황이라고 한다.&lt;br&gt;&lt;br&gt;이에 향후 폐교 부지를 우선적으로 확보해 요양시설 등 인구변화 대응에 활용한다. 서울시 관계자는 “지자체가 폐교 부지를 소유할 수 있도록 관계 기관과 논의할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;저출생 정책의 소득기준도 단계적 폐지를 추진한다. 보건복지부와 협의할 예정이다. 서울시 관계자는 “그동안 소득기준이 없는 저출생 정책을 추진하면 복지부 사회보장협의회에서 제동을 걸어 추진이 어려웠다”고 말했다.&lt;br&gt;&lt;br&gt;사회복지 서비스업 종사자를 중심으로 정년 연장 방안도 연구한다. 서울시는 2031년이 되면 전국 사회복지업에서 58만4천명의 인력이 부족할 것으로 보고 있다. 간병 등 돌봄 분야 외국인력을 늘리기 위해 2025년부터 준 전문인력 취업학교를 운영하고, 정부와 협력해 고용허가제(E-9)를 통해 외국인력 취업을 확대할 계획이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7PNKGSRSEZDSXIGXMJW2IJBTEM.png"&gt;&lt;figcaption&gt;&lt;small&gt;전국 출생아수 추이 / 서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;첨단기술을 활용해 인력 부족에도 대응한다. 오는 9월까지 서울의료원에 혈액·검체·약체 이송 로봇을 도입하고 올해 안에 서울어린이병원에 재활치료 로봇과 인프라를 구축한다.&lt;br&gt;&lt;br&gt;현재 185개소인 노인보호구역을 2028년까지 250개소로 늘린다. 고령 1인 가구 특성을 고려한 복지 서비스도 만들 예정이다.&lt;br&gt;&lt;br&gt;지난해 서울의 합계 출산율은 0.55명으로 세계 최하위 수준이다. 2005년 고령화사회에 진입했는데 2026년에는 초고령사회 진입이 예상된다.&lt;br&gt;&lt;br&gt;오세훈 서울시장은 “서울시 인구정책 기본계획은 새로운 관점에서 인구변화에 대응하기 위한 출발점”이라며 “효과 높은 인구정책에 집중 투자하고, 사회적 공론화가 필요한 정책과제를 지속해 제안하면서 정부와 소통하고 협력하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아이 부모가 놓고 간 ‘노란 액체’ 담긴 페트병…식당 업주 ‘경악’</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/16/5JTLEE7E2ZBMTPLH7K6I7XSOJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/16/5JTLEE7E2ZBMTPLH7K6I7XSOJI/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 05:41:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TCYOKZ7ORZHVDJJ74MPEER6XZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;식당 안에서 아이가 페트병에 소변을 보고 있는 장면. /JTBC 사건반장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도 원주시의 한 레스토랑에서 식사를 하던 부부가 어린 자녀에게 테이블에서 페트병에 소변을 보게 한 뒤 페트병을 그대로 두고 갔다는 사연이 알려졌다.&lt;br&gt;&lt;br&gt;지난 14일 JTBC 사건반장 보도에 따르면 지난 9일 강원도 원주의 한 레스토랑에 일하던 아르바이트생 A씨는 한 부부와 어린 자녀가 사용한 테이블을 치우던 중 테이블 밑에서 노란색 액체가 담긴 페트병을 발견했다.&lt;br&gt;&lt;br&gt;페트병은 따뜻하고 습기가 찬 상태였다. 이상하다고 생각한 A씨는 업주인 B씨에게 이 같은 사실을 알렸다. 이에 B씨가 페트병 뚜껑을 열어 보니 소변 냄새가 진동을 해 소변인 것을 알 수 있었다.&lt;br&gt;&lt;br&gt;업주 B씨는 당시 레스토랑 내부 CCTV 영상을 확인해봤다. CCTV에는 아이가 페트병에 소변을 누는 장면이 그대로 담겨있었다.&lt;br&gt;&lt;br&gt;당시 식사 도중 아이 엄마가 일어나 아이와 나가려 하자 맞은편에 앉아있던 아빠가 페트병을 건넸다. 그러자 엄마는 아이를 일으켜 세워 바지를 벗기더니 페트병에 소변을 누게 했다. 이후 아무 일도 없었던 것처럼 식사를 재개했다.&lt;br&gt;&lt;br&gt;CCTV를 통해 부부의 행동을 확인한 업주 B씨는 “열 발짝이면 가게 내부 화장실을 이용할 수 있었다”며 “다른 테이블 손님들이 (이 상황을 보고) 입맛을 잃었을까 봐 걱정”이라고 했다.&lt;br&gt;&lt;br&gt;업주 B씨가 해당 손님에게 전화해 항의했더니 “아이가 소변을 본 페트병을 치우는 걸 깜빡했다”는 답만 들었다고 했다. 공공장소에서 아이에게 소변을 누게 한 행동에 대해서는 사과하지 않았다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>무허가 건물주 “재개발 아파트 2채 달라”… 법원 “분양 대상 안 돼”</title>
@@ -949,15 +950,6 @@
       <description/>
       <pubDate>Sun, 16 Jun 2024 04:02:07 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3AQEJEYRSK7XTYAAVGOVKQ7VCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한의사협회(의협)가 전면 휴진을 예고한 오는 18일을 앞두고 의료계 균열이 감지된다. 임현택 대한의사협회(의협) 회장이 지난 9일 오후 서울 용산구 대한의사협회에서 열린 전국의사대표자대회에서 투쟁을 선포하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 18일 대한의사협회(의협) 차원의 하루 전면 휴진(총파업)을 이틀 앞두고, 의협이 정부 측에 의대 증원 등을 재논의하지 않으면 예정대로 집단 휴진에 들어가겠다고 16일 밝혔다. 의협은 정부를 향해 이날 오후 11시까지 답해달라고 요청했다.&lt;br&gt;&lt;br&gt;의협은 의대 증원안을 재논의하고, 필수 의료 패키지 정책의 쟁점 사안을 수정·보완할 것을 요구했다. 전공의 의대생 관련 모든 행정명령과 처분을 즉각 소급 취소하고 사법 처리 위협을 중단해달라고도 했다.&lt;br&gt;&lt;br&gt;의협은 “(이러한) 요구가 받아들여질 경우, 오는 17일 전체 회원 투표를 통해 ‘전면 휴진 보류’에 대해 결정한다”며 “받아들여지지 않을 경우, 18일 전국적으로 집단 휴진을 진행하며 이후 무기한 휴진을 포함한 전면적인 투쟁에 들어간다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>견미리 남편, 주가조작 유죄로 뒤집혔다… “거짓기재로 23억 이익”</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/16/3HWJ74LN2VAGXH2WJ5NEKAYAWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/16/3HWJ74LN2VAGXH2WJ5NEKAYAWM/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 02:48:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W2UGRN3KITGO2YIONKFV4KFDL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 견미리/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;허위 공시로 주가를 조작해 수십억원대 이익을 챙긴 혐의로 재판에 넘겨졌다가 무죄를 선고받은 배우 견미리씨의 남편 이모(57)씨가 다시 재판을 받게 됐다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 노정희 대법관)는 자본시장법 위반 혐의로 기소된 견미리씨 남편 이씨와, 그와 함께 회사를 운영했던 대표 김씨 등 4명에게 무죄를 선고한 원심을 파기하고 사건을 서울고법에 돌려보냈다고 16일 밝혔다. 이들은 2014년 1월부터 2016년 2월까지 코스닥에 상장된 A 회사를 운영하며 주가를 부풀린 뒤, 유상증자로 받은 주식을 매각해 약 23억 7000만원의 차익을 챙긴 혐의를 받는다. 이들은 유명인인 견미리씨의 자금과 중국 자본이 회사에 유입되는 것처럼 공시해 회사의 재무건전성이 호전되는 척 속인 혐의도 받는다.&lt;br&gt;&lt;br&gt;A 회사는 2015년 3월 유상증자 과정에서 견미리씨와 회사 대표 김씨가 각각 자기 돈 6억원을 들여 신주를 취득했다고 공시했다. 하지만 실제로 김씨는 보유하던 회사 주식을 담보로 대출받아 돈을 마련했고, 견미리는 6억 중 2억5000만원을 차용한 것으로 확인됐다. 같은 해 12월에도 견미리씨와 김씨는 각각 15억원을 차입해 전환사채를 취득했는데, 사측은 이들이 자기 자금으로 전환사채를 샀다고 허위 공시했다.&lt;br&gt;&lt;br&gt;재판의 쟁점은 주식과 전환사채 취득자금을 조성한 경위를 사실과 다르게 공시한 것이 자본시장법상 부정 거래행위에 해당하는지 여부다. 자본시장법은 투자자의 판단에 영향을 미칠 수 있는 ‘중요 사항’을 거짓으로 기재해 재산상 이익을 얻는 것을 부정 거래로 판단한다.&lt;br&gt;&lt;br&gt;앞서 1심은 허위 공시에 관여한 혐의를 인정해 견미리씨 남편 이씨에게 징역 4년과 벌금 25억원을, 대표 김씨에게 징역 3년과 벌금 12억원을 선고했다. 그러나 2심은 김씨와 견미리씨의 주식·전환사채 취득자금 조성 경위에 관한 공시를 ‘중요 사항’으로 볼 수 없다며 이들에게 무죄를 선고했다. 대법원은 이 판단에 ‘법리 오해’가 있다고 보고 사건을 파기 환송한 것이다.&lt;br&gt;&lt;br&gt;대법원은 “취득자금 조성 경위에 관한 공시는 회사의 경영이나 투자 판단에 영향을 미칠 수 있는 만큼 중요사항에 해당한다”며 “거짓으로 기재된 주식이 총주식의 1.56%에 이르고, 이는 변동 보고의무 발생 기준이 되는 1%를 초과하는 규모”라고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “회사 대표 등이 자기 자금으로 전환사채 등을 인수했다고 공시되면 투자자들은 경영진이 자기 재산을 회사 위기 극복과 성장에 사용할 의사와 능력을 가지고 있는 것처럼 받아들여, 주가를 부양하거나 하락을 막는 효과가 발생할 수 있다”며 “이는 회사의 중요 사항에 관한 거짓 기재를 통해 금전 등의 이익을 얻고자 한 행위”라고 파기 환송 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보] “폭발물 의심돼”...부산 2호선 도시철도 운행 중단</title>
