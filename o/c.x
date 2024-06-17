@@ -13,6 +13,205 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>李 “안부수 판결땐 주가부양용 인정”… 재판부, 대북송금 쓰임새 판단 안해</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/18/7OOJWGFAIJFF7FFVX7JIW3EWLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/18/7OOJWGFAIJFF7FFVX7JIW3EWLM/</guid>
+      <dc:creator>유종헌 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 15:55:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PKSSG3NP5YD5NX6SBPYL3ZLBH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 지난 14일 오후 서울 서초구 서울중앙지방법원에서 열린 공직선거법 위반 공판에 출석하며 입장발표를 하고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표가 최근 ‘쌍방울 불법 대북 송금’ 사건을 “희대의 조작 사건”이라며 지적한 문제점은 크게 세 가지다. 하지만 법조계에선 “사실과 다른 부분이 많다”는 말이 나온다. 한 법조인은 “법을 왜곡하는 판검사를 처벌하는 ‘법 왜곡죄’를 만들겠다는 정당의 대표가 사실을 왜곡해서 되겠느냐”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;①같은 사건인데 다르게 판결?&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LSFJD7AUVZHLJFDXWSZ47LU2MU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안부수&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 대표는 지난 14일 서울중앙지법에서 기자들과 만나 “안부수 전 아태평화교류협회 회장의 1심은 쌍방울이 주가 부양을 위해 북한에 돈을 보냈다고 판단했다”면서 “어떻게 같은 법원이 이화영 판결에선 ‘이재명과 경기도를 위한 송금’이라고 판결하느냐”고 했다.&lt;br&gt;&lt;br&gt;그러나 안씨의 1심은 ‘대북 송금’의 성격을 따로 판단하지 않았다. 판결문엔 “김성태 전 쌍방울 회장은 북한 측에서 경기도를 대신해 스마트팜 사업비를 지원해달라는 요청을 받았다” “안씨는 대북 중개업자로서 지위를 공고히 하고, 북한 협조를 구하기 위한 대가로 돈을 줬다” 등의 판단만 나온다. 안씨는 작년 5월 스마트팜 사업비로 14만5040달러와 180만위안을 북한에 보낸 혐의 등이 유죄로 인정돼 징역 3년 6개월을 선고받았다. 이화영씨 1심도 “쌍방울이 경기도를 대신해 800만달러를 북한에 대납했다”고 인정했다. 한 변호사는 “두 판결은 양립이 가능한 판결”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;②국정원은 주가조작이라는데&lt;/b&gt;&lt;br&gt;&lt;br&gt;이 대표는 “국정원 보고서에 쌍방울의 대북 사업을 위한 송금, 주가조작을 하고 있다 등의 내용이 있다”며 “국정원 보고서가 맞겠나, 조폭 출신 부도덕한 사업가 말이 맞겠느냐”고 했다. 실제 2020년 1월 국정원 문건에는 ‘대남공작원 리호남이 쌍방울 계열사 주가를 띄워주는 조건으로 수익금을 받기로 했다’는 내용이 나온다.&lt;br&gt;&lt;br&gt;그러나 이화영씨 1심은 이 문건에 대해 “제보자 진술에 기초해 내용이 구체적이지 않고 진술 내용을 검증하기 위해 국정원이 어떤 노력을 기울였는지도 불분명하다”고 했다. 오히려 재판부는 김 전 회장 진술의 신빙성을 인정해 이씨에게 징역 9년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;③안부수 진술 번복, 쌍방울이 매수?&lt;/b&gt;&lt;br&gt;&lt;br&gt;이 대표는 “안부수씨 진술이 바뀌는 사이에 (쌍방울이) 안씨 딸에게 집을 얻어주는 행위가 있었다는 보도가 있었는데, 왜 언론은 취재하지 않느냐”고 했다. 뉴스타파가 최근 의혹 보도한 기사를 말한 것으로 보인다. 그러나 이씨의 1심은 “안씨의 진술 번복 경위에 의심스러운 사정이 보이지 않고, 바뀐 진술이 다른 주요 관계자들 진술과 부합한다”고 했다. 안씨는 법정에서 “속인다고 될 게 아니라고 생각해서 사실대로 말하게 됐다”고 증언한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘전면 휴진’ 없었지만...진료 연기된 중환자 “안 아프길 바랄 뿐”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/06/17/262J7BD775HIDGZNDJ67NYJLLY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/17/262J7BD775HIDGZNDJ67NYJLLY/</guid>
+      <dc:creator>조백건 기자, 김병권 기자, 김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 14:09:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3STVIY73LBZD63KCCMP2PKMRTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의대 교수들의 집단 휴진 첫날인 17일 오후 서울 종로구 서울대학교병원 어린이병동에서 환자와 보호자들이 외래진료를 기다리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“진료를 받아 천만다행.”&lt;br&gt;&lt;br&gt;서울 종로구 서울대병원 본관 1층 신경과 앞에서 만난 70대 할머니는 “교수님께 고맙다”며 몇 번이나 허리를 숙였다. 할머니는 경북 김천에서 올라왔다. 그는 뇌 질환으로 지난 3월 쓰러졌다고 했다. 그는 “진료 예약을 한 날이 오늘이라 예약 취소가 될까 봐 며칠간 잠도 잘 못 잤다”고 했다.&lt;br&gt;&lt;br&gt;서울대 의대·병원 교수들은 17일 ‘전면 휴진’은 하지 않았다. 정상 진료를 하는 교수가 더 많았다. 다만, 일부 교수의 휴진으로 환자 진료율과 수술률이 일주일 전(10일)보다 20%가량 감소하면서 예약이 취소된 환자들은 큰 고통을 겪었다.&lt;br&gt;&lt;br&gt;이날 서울대병원 본관 1층 류마티스내과·신경외과·정형외과 등은 오전 9시 진료를 시작했다. 진료과마다 환자 5~20명이 대기 중이었다. 평소와 비슷했다. 지난해 인공 고관절 이식 수술을 받은 홍모(62)씨도 “원래 다음 주 진료였는데 주치의 선생님이 다음 주 학회 일정이 있다며 오늘로 진료를 바꿨다”며 “내 수술이 오늘이었다고 생각하면 정말 불안했을 것 같다”고 했다.&lt;br&gt;&lt;br&gt;이날 오전 10시쯤 서울대병원 본관 2층 순환기내과 진료 대기실에도 환자 약 80명이 외래 진료를 받으려 기다리고 있었다. 이날 이 과에서 휴진에 참여한 교수는 한 명밖에 없었다. 심방세동(심장이 불규칙하게 뛰는 병)으로 경기 양주에서 4~5개월에 한 번씩 서울대병원으로 검사를 받으러 온다는 조모(63)씨는 “중환자가 아니어서 진료를 못 받나 했는데, 정말 다행”이라고 했다.&lt;br&gt;&lt;br&gt;진료과별 대기실 출입문에는 서울대 의대·병원 교수협의회 비상대책위원회가 쓴 ‘사과문’이 붙어 있었다. 비대위는 이 글에서 “휴진 기간에도 응급·중증 환자, 희소·난치 질환 환자 진료는 유지된다”고 했다.&lt;br&gt;&lt;br&gt;하지만 사과문과 달리 이날 진료를 못 받은 중증·희소 질환 환자도 있었다. 이모(52·서울 구로)씨는 “호흡기 관련 희소 질환을 앓고 있는 아들이 원래 오늘 진료를 2개 보기로 했는데 폐 진료가 다음 주 월요일로 갑자기 연기됐다”며 “약을 꾸준히 먹어야 되는데 처방을 받지 못하게 됐다. 응급 상황이 없길 바랄 뿐”이라고 했다.&lt;br&gt;&lt;br&gt;작년 9월 서울대병원에서 유방암 수술을 받은 한 50대 여성은 이날 재발 우려 등을 가늠할 수 있는 첫 영상 검사를 받으러 왔지만, 받지 못했다. 담당 교수가 집단 휴진에 참여했기 때문이다. 다음 검사일을 27일로 다시 잡긴 했지만 병원 측은 “그때 가봐야 (검사 여부를) 안다”고 답했다고 한다.&lt;br&gt;&lt;br&gt;이날 경기도 성남시 분당서울대병원엔 휴진이나 진료 차질을 알리는 안내문은 보이지 않았다. 오전 9시쯤 대부분 진료과가 진료를 시작했다. 이 병원 관계자는 “오늘 문을 닫은 진료과는 없고 일상적으로 진료가 이루어졌다”고 했다. 서울 동작구 서울시보라매병원에서 만난 직원도 “휴진하는 교수가 많지 않고 대체로 정상 운영 중”이라고 했다. 다만 재활의학과 등 일부 진료과엔 ‘진료가 없습니다’라는 안내문이 붙어 있기도 했다.&lt;br&gt;&lt;br&gt;반면 교수들의 휴진 통보로 아예 병원에 오지 못한 환자들은 인터넷 환자 카페에 고통을 호소하는 글을 올렸다. 뇌 관련 장애아의 부모는 카페에 “지난 4월에도 서울대어린이병원 신경과 진료가 미뤄졌는데 이번(19일)에도 밀렸다”며 “어떻게 해야 하느냐”고 했다.&lt;br&gt;&lt;br&gt;이번 휴진을 주도한 서울대병원 비대위 교수들과 전공의, 의대생 등 60여 명은 이날 오후 1시부터 병원에서 ‘전문가 집단의 죽음’이란 제목의 심포지엄을 열었다. 이날 강연자로 나선 안덕선 고려대 의대 명예교수는 ‘전문가주의는 무엇인가’란 주제의 강연에서 “미국과 캐나다에선 의료 결과가 나쁘면 의사를 형사 처벌하느냐고 물어보면 대답을 못 한다. 본 적이 없기 때문”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 4대강 퇴비 야적장 10곳 중 4곳 방치</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/06/18/6223LDW37BFV3ODISDSRFPX7YY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/06/18/6223LDW37BFV3ODISDSRFPX7YY/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 20:04:00 +0000</pubDate>
+      <content:encoded>곧 장마가 시작되는 가운데 4대강 주변 퇴비 야적장은 10곳 중 4곳꼴로 여전히 방치돼 있는 것으로 17일 확인됐다. 야적 퇴비는 비가 오면 하천으로 흘러간 후 폭염 때 녹조를 발생시킨다. 퇴비 안에 든 인·질산 등이 높은 수온, 강한 햇볕과 만나면 녹조가 생성된다. 올여름 예년 대비 높은 기온과 많은 강수량이 예고됐는데도 야적 퇴비 관리에 소홀하다는 지적이 나온다.&lt;br&gt;&lt;br&gt;환경부에 따르면, 이날 기준 4대강 주변 공유지에 야적 퇴비가 확인된 397곳 중 225곳(56.7%)만 수거가 이뤄진 것으로 나타났다. 앞서 환경부는 지난 4월까지 야적 퇴비 조사, 5~6월 집중 수거 방침을 세운 바 있다. 우리나라 평년 장마 시작일은 6월 19일(제주도)이라 적어도 이달 중순까지는 야적 퇴비를 다 치워야 하지만 수거율이 미미한 것이다.&lt;br&gt;&lt;br&gt;환경부는 지난해 우리나라에서 녹조가 가장 심한 낙동강을 대상으로 부적정하게 적치된 퇴비를 주인이 수거하도록 하는 방안을 시행한 바 있다. 당시에도 녹조 원인 제거를 위해 장마 전에 퇴비를 전부 치우겠다고 나선 것이다. 하지만 장마가 시작하고 난 뒤인 지난해 6월 30일까지 수거율은 41%에 그쳤고 지난해 9월까지 최종 수거율도 81%에 그쳤다. 퇴비 주인이 수거 명령을 따르지 않아도 강제할 방법이 없었던 것이 저조한 실적의 원인으로 지적됐다.&lt;br&gt;&lt;br&gt;환경부는 이런 지적에 따라 올해는 공유지에 쌓아둔 퇴비를 수거하라는 명령을 이행하지 않으면 고발되고 가축분뇨법에 따라 처벌받을 수 있다는 점을 각 지자체에 안내하겠다고 했다. 그러나 지자체에서 인력 부족 등을 이유로 올해도 수거가 제대로 이뤄지지 않았다. 환경부는 “수거되지 않은 야적퇴비는 덮개를 설치해 침출수가 나오지 않도록 관리할 예정”이라고 했다. 하지만 덮개를 덮어도 땅이 젖으면 침출수가 나올 수밖에 없어 사실상 관리에 실패했다는 지적이 나온다.&lt;br&gt;&lt;br&gt;4대강 수질을 악화시키는 근본 원인은 이 일대 축사에서 나오는 가축 분뇨다. 국립환경과학원에 따르면 ‘4대강 사업’ 전후 16개 보(洑)의 수질을 비교한 결과, 낙동강 상류에 있는 구미보·상주보·낙단보 등 3곳에서만 수질이 악화했다. 과학원은 이 일대에 늘어난 가축 수만큼 가축 분뇨 처리 시설 확충이 미흡했던 것을 수질 악화의 원인으로 지적했다. 낙동강 상류 전 지역의 소·돼지 수는 2012년 89만 마리에서 2021년 103만 마리로 약 14만 마리(15.7%)나 증가했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사생대회가 죽기살기 대회?… 이게 고2 실력</title>
+      <link>https://www.chosun.com/national/education/2024/06/18/XB6MUY6PBBDYLNGMZ6GFOK6L7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/06/18/XB6MUY6PBBDYLNGMZ6GFOK6L7Y/</guid>
+      <dc:creator>표태준 기자, 윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 20:02:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WCS4FOG36VBZXBQAVUMQIZWVG4.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“선생님, 이해관계가 무슨 사이인데요? 친한 사이인가요?”&lt;br&gt;&lt;br&gt;광주광역시에서 한우리논술 학원을 운영하는 김영란 원장은 최근 중2 학생들에게 ‘두 집단의 이해관계를 따져 해결책을 제시하라’는 숙제를 냈다가 이런 질문을 들었다. 학생들이 이해(利害)의 뜻을 몰라 단체로 찾아와 질문을 쏟아냈다는 것이다. 김 원장은 “학생들이 ‘마음이 아리다’라는 말을 몰라 뜻을 설명해 주니 그냥 ‘헐’이라고 표현하면 되는 것 아니냐고 하더라”며 “온라인상에서 감탄사로 짧게 대화하는 문화에 익숙하다 보니 어휘력도 낮고 단어 뜻을 추론하는 능력 등 문해력도 낮아지고 있다”고 했다.&lt;br&gt;&lt;br&gt;학생들 기초학력 수준이 매년 추락하고 있다. 특히 국어 실력이 눈에 띄게 떨어지며 교육 현장에서는 “제대로 된 교육이 어려울 정도”라는 볼멘소리가 나온다. 중고생 대상 수업임에도 ‘물이 차오르다’라는 뜻을 몰라 “물을 어떻게 (발로) 차올려요?”라고 질문한다든지, “차후 충분한 사례를 할 예정”이라는 말에 대해 “예시를 들어 설명한다는 말인가요?”라고 해석하고, ‘조짐이 보인다’는 말에 “누굴 조져요? 욕 아닌가요?”라고 반문하는 등 기초적인 국어 실력을 갖추지 못하고 있다는 것이다.&lt;br&gt;&lt;br&gt;서울 강남구의 한 고교 교사는 “학생들이 사생대회(寫生大會) 뜻을 몰라 서로 ‘죽기 살기 대회인가?’라고 묻는 황당한 일도 있다”며 “지난 6월 수능 모의고사 국어 문제에 ‘지향하다’ ‘식별하다’ 같은 단어가 나왔는데 그 뜻을 몰라서 틀리더라”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AWY6XAXIWJCC7D4QLXL7Z3AFA4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;◇학생들 국어 실력 매년 추락&lt;br&gt;&lt;br&gt;실제 학생들 국어 실력은 매년 추락하고 있다. 교육부와 한국교육과정평가원은 17일 ‘2023년 국가 수준 학업 성취도 평가 결과’를 발표했다. 이 평가는 2017년부터 매년 중3·고2 학생의 약 3%를 대상으로 실시하고 있다. 성적에 따라 1수준(기초 학력 미달), 2수준(부분 이해), 3수준(보통 학력), 4수준(거의 모두 이해)으로 나뉜다.&lt;br&gt;&lt;br&gt;평가 결과에 따르면, 국어에서 보통 학력 이상(3·4수준)을 받은 중3 비율은 2017년만 해도 84.9%였다. 그러나 2019년(82.9%), 2021년(74.4%) 등 매년 떨어지더니 작년 61.2%까지 낮아졌다. 고2 비율도 2017년 75.1%에서 작년 52.1%까지 떨어져 이제 2명 중 1명은 보통 학력 기준에 못 미치는 것으로 나타났다.&lt;br&gt;&lt;br&gt;국어 기초 학력 미달(1수준)에 해당하는 중3 비율은 2017년 2.6%에서 작년 9.1%로 3배 넘게 늘었다. 고2 비율도 5%(2017년)에서 8.6%(작년)로 증가 추세다.&lt;br&gt;&lt;br&gt;교육 현장에서는 학생들 글 읽기 능력이 떨어진 것을 넘어 아예 독서 문화가 사라지고 있다는 우려도 나온다. 경기 평택의 한 고교 사서 교사는 “몇 년 전만 해도 점심때면 도서관이 학생들로 붐볐는데, 요즘은 아무리 돈을 들여 도서관을 꾸미고 책을 갖춰 놓아도 찾아오는 이가 없다”며 “독서 활동을 하고 감상문을 써오게 유도하고 있지만 긴 글 쓰는 것을 너무 견디기 어려워한다”고 했다.&lt;br&gt;&lt;br&gt;◇고2 ‘수포자’ 16.6% 역대 최고&lt;br&gt;&lt;br&gt;학생들 국어 실력 약화는 전반적인 학업 성취 능력 감소로 이어진다. 이른바 ‘수포자(수학 포기 학생)’라 불리는 수학 기초 학력 미달 고2 학생 비율이 작년 16.6%에 달해 역대 최고를 기록했다. 2017년(9.9%) 보다 크게 늘었다. 중2 수학 기초 학력 미달 비율도 작년 13%로 2017년(7.1%)에 비해 증가했다.&lt;br&gt;&lt;br&gt;최진규 충남 서령고 국어 교사는 “국어 기초가 안 돼 있으니 문해력이 중요한 수학이나 탐구 영역 등 다른 과목 수업도 이해를 못 해 공부에 손 놓는 학생이 늘어나고 있다”며 “스마트폰 보급에 코로나19로 비대면 수업까지 늘어나며 학생들 글 읽기 능력이 급락하는데, 교육과정이 사회 변화를 못 따라간다”고 했다.&lt;br&gt;&lt;br&gt;다만 조기 교육 열풍 등의 영향으로 학생들 영어 수준은 최근 몇 년간 반등하는 추세다. 지난해 중3의 영어 보통 학력 이상 비율은 62.9%로 2022년(55.9%)에 비해 크게 올랐다. 조사 시작 이래 처음으로 국어(61.2%)보다 영어에서 보통 학력 이상 점수를 받은 학생이 많아졌다. 고2의 영어 보통 학력 이상 비율도 작년 70.4%로 2022년(66.3%)보다 늘었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘폐교 위기’ 초등학교, 80대 신입생들이 살렸다</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/18/U3MTAPWZ4BCAJHX3WUNYJMNWUI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/18/U3MTAPWZ4BCAJHX3WUNYJMNWUI/</guid>
+      <dc:creator>김천=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 15:50:00 +0000</pubDate>
+      <content:encoded>경북 김천시 증산면. 주민 960명이 사는 작은 산골 동네다. 지난 5일 이곳에 하나뿐인 학교 증산초등학교에 들렀다. 오전 8시 50분. 21인승 노란색 스쿨버스 문이 열리자 책가방을 둘러멘 할머니·할아버지 10명이 차례로 내렸다. “학생 여러분, 혈압부터 재세요!” 선생님 정연우(37)씨가 소리치자 학생들은 교실에 앉아 측정기로 차례차례 혈압을 쟀다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L3FW3SJ6KFEB7C4JQDKNNORZK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;우린 같은 반 친구 - 지난 5일 경북 김천시 증산면 증산초등학교에서 1학년 김지환군이 평균 79세 노인 학생들과 함께 수업을 듣는 모습. 이 학교는 전교생 22명 중 15명이 만 65세 이상 노인이다. /김천=김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;증산초는 어린이 초등생보다 노인 초등생이 많은 학교다. 전교생 22명 중 15명이 만 65세 이상이다. 할머니가 14명, 할아버지가 1명이다. 이들의 평균연령은 79세, 65세가 막내다.&lt;br&gt;&lt;br&gt;‘노인이 다니는 초등학교.’ 어색한 말이지만 인구 유출 문제가 심각한 경북에서는 울진 온정초에 이어 두 번째다.&lt;br&gt;&lt;br&gt;동네 노인들이 초등학교에 다니는 일은 올해 학교가 폐교 위기에 놓이면서 생겼다. 1980년대 600여 명이나 되던 증산초 학생은 올해 7명까지 줄었다. 농사짓던 젊은이가 죄다 도시로 떠났기 때문이다.&lt;br&gt;&lt;br&gt;경북에서는 학생이 15명 이하로 줄면 분교나 폐교 대상이 된다. 1928년 문을 연 96년 전통 초등학교가 문 닫을 위기에 놓인 것이다. 증산초가 문을 닫으면 그나마 있던 학생들은 고개를 넘어 10㎞ 이상 떨어진 다른 초등학교를 다녀야 한다. 스쿨버스로 30분 이상 걸린다.&lt;br&gt;&lt;br&gt;이에 마을 이장들과 교사들이 학교 살리기에 나섰다. 김창국 증산면 이장협의회장은 “학교마저 사라지면 안 그래도 쪼그라든 마을이 사라질 수 있다는 위기감이 들었다”고 했다. 그렇게 ‘노인 학생이라도 받자’는 아이디어가 나왔다. 마침 경북도교육청은 2022년 노인도 교장이 허가하면 초등학교를 다닐 수 있게 하는 규정을 신설했다.&lt;br&gt;&lt;br&gt;증산면 마을 11곳 이장들이 경로당을 찾아다니며 “초등학교 졸업장 따고 싶은 분 없으시냐”고 수소문했다. 그렇게 노인 50여 명이 지원했고 면접을 거쳐 15명을 뽑았다.&lt;br&gt;&lt;br&gt;지난달 27일 열린 입학식에는 평균 연령 79세의 노인 신입생과 이들의 자녀 등 100여 명이 참석했다. 신입생 강순덕(86) 할머니의 딸은 교실 벽에 ‘똑똑한 우리 엄마, 더 똑똑해지시겠네요’라고 쓴 쪽지를 붙였다. 어린이 학생의 부모들도 노인 신입생의 입학을 반겼다. 학부모 조영우씨는 “할머니·할아버지 덕에 아이들 학교의 폐교를 막았다”며 “아이들도 어른 대하는 법을 배울 수 있어 좋은 기회라고 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;할머니·할아버지에게는 평생 학업의 한을 푸는 계기가 됐다. 아내와 함께 입학한 반장 이달호(80)씨는 “그동안 감사패, 공로패는 많이 받았지만 학교 졸업장이 없는 게 평생 한이었다”며 “배울 수 있다는 사실이 너무 기쁘다”고 했다. 최고령인 엄순영(89) 할머니는 “글을 배워서 손주들한테 문자도 보내고 싶네예” 하며 웃었다.&lt;br&gt;&lt;br&gt;고령 학생들이 입학하자 곳곳에서 기부금이 왔다. 이달호씨 자녀 5명은 100만원씩 500만원을 기부했다. 증산면 이장 11명도 10만원씩 110만원을 모았다. 고향을 떠난 증산초 졸업생들도 십시일반 기부금을 모았다. 그렇게 모인 돈이 4000만원이나 됐다. 학교 측은 “낡은 책걸상을 바꾸고 학용품과 교재 사는 데 쓸 계획”이라고 했다.&lt;br&gt;&lt;br&gt;이날 1교시 수업은 ‘현충일의 의미 되새기기’였다. 그림 그리기, 종이 접기 등 활동 수업은 할머니·할아버지와 아이들이 합반으로 한다. 이달호씨가 손을 번쩍 들더니 6·25전쟁에 참전했다 전사한 부친의 생생한 이야기를 풀어놨다. “6·25전쟁 때는 말이지예 우리 동네가….”&lt;br&gt;&lt;br&gt;이어 할머니·할아버지들은 손주뻘 되는 동기들과 무궁화를 그렸다. 할머니들이 예쁜 무궁화를 척척 그려내자 아이들이 “우리 할머니 최고!”라면서 손뼉을 쳤다. 박도연(7)군은 춤을 추며 재롱을 부렸다.&lt;br&gt;&lt;br&gt;2교시는 수업 진도가 달라 초등학교 1학년인 할머니·할아버지는 한글 모음 쓰기를, 1·2학년인 어린이 학생은 한글 단어 쓰기 수업을 했다. 할머니·할아버지 학생들은 연습장에 ‘ㅗ’ 자를 수십 번씩 쓰고 소리 내 읽었다.&lt;br&gt;&lt;br&gt;“소리 내서 읽어야 빨리 늡니데이.”&lt;br&gt;&lt;br&gt;학생들을 가르치던 정연우 교사는 “어르신들은 가끔 엉뚱한 질문을 하실 때도 있지만 집중력이 대단하다”며 “실력이 쑥쑥 늘어 가르치는 보람이 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한국계 첫 美화폐 인물 부모 “딸, 하늘서 기뻐할 것”</title>
+      <link>https://www.chosun.com/international/2024/04/20/CQBC52U4X5HYHAXVRT7MOYQ7ZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/international/2024/04/20/CQBC52U4X5HYHAXVRT7MOYQ7ZI/</guid>
+      <dc:creator>정지섭 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Apr 2024 18:00:00 +0000</pubDate>
+      <content:encoded>미국의 25센트(쿼터달러) 동전은 주차장·자동판매기·패스트푸드점 등 일상에서 가장 널리 쓰인다. 내년부터 한국계 미국인 장애인 인권 운동가 스테이시 박 밀번(1987~2020·한국 이름 박지혜)의 얼굴이 새겨진 25센트 동전을 볼 수 있게 된다. 미 연방 조폐국이 미국 사회에 공헌한 여성 20명을 선정해 2022~2025년 발행되는 25센트 뒷면(앞면은 조지 워싱턴 초대 대통령)에 얼굴을 새겨 넣어 기리는 ‘아메리칸 위민(American Women&lt;b&gt;·&lt;/b&gt;미 여성) 쿼터 프로그램’의 헌정 대상자로 지난해 선정됐기 때문이다. 미국 화폐에 한국계 인물이 등장하는 최초의 사례다. 밀번의 얼굴이 새겨진 동전은 총 5억개 이상 발행이 예정돼 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7RAO5XDILVCPTJ2H7H3L7YZ36M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;활짝 웃고 있는 스테이시 박 밀번. 부모는 "배려와 따뜻한 마음으로 모두를 행복하게 해주는 아이였다"고 회고했다.
+/스테이시 박 밀번 부모 제공. &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;밀번은 주한미군 아버지와 한국인 어머니 사이에 서울에서 태어났다. 지체장애를 앓으면서도 장애인 인권 운동에 앞장서다가 2020년 5월 신장 수술 합병증으로 서른셋에 세상을 떴다. ‘아메리칸 위민 쿼터 프로그램’ 선정 인물들이 대부분 19~20세기에 활동하며 세계적 명성을 쌓은 인물들이라는 점에서 밀번의 존재는 더욱 주목받고 있다. 장애인의 날(20일)을 이틀 앞둔 18일 미 노스캐롤라이나주(州) 페이에트빌에서 본지와 전화로 인터뷰한 어머니(진 밀번)와 아버지(조엘 밀번)는 “내년에 동전이 나오면 딸아이를 기억하는 가족·친구들에게 쥐여주고 싶다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SUZCCBJU7FCMNDZYCBKTARGIEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스테이시 박 밀번이 세상을 떠나기 1년전인 2019년 교회에서 세례식을 받고 난 후 찍은 사진.
+/스테이시 박 밀번 부모 제공 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어머니 진씨는 2년 전 연방 조폐국에서 연락받던 순간을 또렷이 기억한다고 했다. “25센트 동전 뒷면에 새길 여성 인물 후보로 (딸을) 추천했는데 동의해줄 수 있겠느냐는 거예요. 처음엔 ‘가짜 뉴스’인 줄 알았습니다.” 부부는 1년 반 정도 이어진 추천·심의·선정 결과를 차분히 기다리면서 딸과 함께한 33년을 돌아봤다. 1987년 5월 용산 기지 내 121 미군 병원에서 태아가 거꾸로 들어서 있다고 해 제왕절개로 얻은 첫딸이었다. 태어난 후 팔다리에 유난히 힘이 없던 아기가 근육 퇴행성 질환을 앓고 있다는 의사의 말을 들었다. 이후 진씨는 딸을 자전거나 휠체어에 태워 통학시켰다.&lt;br&gt;&lt;br&gt;진씨는 “힘들었지만 아이의 미소를 볼 때마다 기운이 솟아났다”고 했다. “햇살처럼 밝은 아이였어요. 말투에는 친절함과 배려가 있어 주변의 모두를 미소 짓게 했죠. 제 아빠를 닮아서 자기 생각을 조리 있게 말했죠. 글로 생각을 풀어 쓰는 솜씨는 또 얼마나 뛰어난데요. 인권 운동을 안 했으면 워싱턴 DC로 가서 정치인이 됐을 거예요.” 부모는 아이가 혹시라도 남들과 다른 처지에 주눅 들까 염려해 늘 성경 구절을 인용한 말로 용기를 북돋워줬다. “하나님께서 너를 만들어 엄마 배 속을 통해 세상에 보내주신 건 뜻하신 바가 있어서란다. 이 얼마나 놀랍고 신비한 일이니.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXI4JTG2JFEQPAZXJQLFZ2QKTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미국 수도 워싱턴DC에서 열린 장애인 인권 집회에 참석해서 연설하고 있는 스테이시 박 밀번.
+/스테이시 박 밀번 부모 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초등학생 때 학교에서 겪은 낙상 사고를 계기로 ‘장애인이 일상에서 겪는 불편함’의 문제에 눈뜬 밀번은 문제 의식을 담은 블로그 글을 쓰고 인터뷰를 하면서 청소년 장애인 인권 운동가로 지역사회의 주목을 받았다. 부모가 거주하는 노스캐롤라이나에서 대학을 마치고 4500㎞ 떨어진 캘리포니아주 샌프란시스코로 가서 장애인 인권 운동가로 활동했다.&lt;br&gt;&lt;br&gt;아버지 조엘씨는 “딸아이는 장애인들에게 ‘아무도 우리를 구해주러 오지 않는다’며 스스로 권익을 찾자고 독려했다”며 2019년 샌타크루즈 캘리포니아대에서 장애 학생들을 상대로 한 강연의 한 토막을 들려줬다. “우리의 지금 모습을 부끄러워할 이유가 없습니다. 있는 그대로의 우리 모습이니까요. (모습이 이렇다 해서) 우리가 성장할 수 없거나, 미래를 더 좋은 방향으로 바꿀 수 없다는 걸 뜻하진 않습니다. 우리는 사랑받아 마땅한 아름다운 인간이니까요.” 밀번은 미국 젊은이인 동시에 한국 젊은이였다. 1990년 걸프전이 발발한 이라크로 아버지가 급파되자 육아를 도우러 한국에서 건너온 외할머니와 가깝게 지냈다. (할머니는 이후 한국에 돌아가지 않고 미국에 머물렀다.) 덕분에 한국말도 곧잘 하고 호박을 숭숭 썰어 넣어 걸쭉하게 끓인 수제비에 환호하는 ‘된장 입맛’이었다. 캘리포니아에서 인권 운동을 할 때는 한인 입양 청년들을 집으로 불러 명절 음식을 먹이며 각별히 돌봤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C2OJI6RLBJEK5AWGY7IPMHCHWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내년 발행될예정인 25센트 동전의 시안.
+/미 연방 조폐국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2020년 코로나가 전 세계에 확산하고 미 전역이 봉쇄되자 밀번은 응급 의료에서 소외된 중증 장애인과 저소득층을 돌보기 위한 긴급 대응팀을 꾸려 활동했다. 하지만 지병인 신장 질환 수술 합병증으로 몸 상태가 급속히 나빠지면서 33살 생일이던 그해 5월 19일 세상을 떠났다. 밀번의 장례식 책자 표지에는 장애인 인권 운동을 함께 하는 동료들을 향해 하던 말이 인쇄됐다. “우리는 있는 모습 이대로 강하고 아름답습니다.” 외손녀에게 수제비를 끓여주던 외할머니도 그해 7월 눈을 감았다. 둘은 밀번 부부의 집 부근에 나란히 잠들어 있다.&lt;br&gt;&lt;br&gt;밀번은 고향 한국을 사랑해 생전에도 여러 차례 다녀갔다. 장애인 기반시설이 제대로 갖춰지지 않은 점을 늘 안타깝게 여겼다 한다. 지난해 11월 연방 조폐국이 스테이시 얼굴을 새긴 25센트 동전 발행을 공식 발표했을 때 부부는 마침 서울에 있었다. “예전에 비해 휠체어를 타고 자연스럽게 지하철을 이용하는 승객이 많았고, 몸이 불편한 분들을 위한 여러 시설들이 많이 생겼더라고요. 우리 딸이 하늘에서 이걸 보면 참 좋아하겠구나 싶었습니다.”&lt;br&gt;&lt;br&gt;🌎조선일보 국제부가 픽한 글로벌 이슈! 뉴스레터 구독하기 ☞ &lt;a href="https://page.stibee.com/subscriptions/275739" target="_blank"&gt;https://page.stibee.com/subscriptions/275739&lt;/a&gt;&lt;br&gt;&lt;br&gt;🌎국제퀴즈 풀고 선물도 받으세요! ☞ &lt;a href="https://www.chosun.com/members-event/?mec=n_quiz" target="_blank"&gt;https://www.chosun.com/members-event/?mec=n_quiz&lt;/a&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/QR4RCEV4CBG5PFELGXJSXN2R7Q.jpg?width=4800&amp;height=2700&amp;auth=4c2ed4520a4d062834c4499caa6b18673c49e9dbd56da3ded74bc09ff1cac1aa&amp;smart=true" type="image/jpeg" height="2700" width="4800"/>
+    </item>
+    <item>
+      <title>의사단체 인의협 “휴진, 벼랑끝 환자 등 떠미는 행위”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/06/18/CFZZK3IGTVHIHMABNKFP7MOOVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/18/CFZZK3IGTVHIHMABNKFP7MOOVQ/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 15:55:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HOWTFGZOMOHAPCHMZT35ZO73ZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 16일 오후 경기도 성남시 분당서울대병원에 '의사제국 총독부의 불법파업결의 규탄' 대자보가 게시돼 있는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인도주의실천의사협의회(인의협)는 17일 ‘시민의 생명과 건강이 가장 먼저다’라는 제목의 성명을 내고 의대 교수들의 집단 휴진과 의료 공백 상황에 대한 정부의 무(無)대책을 비판했다. 인의협은 ‘세상이 아프면 의사도 아파야 한다’는 신념 아래 1987년 창립된 의사 단체로, 회원 수는 500명 남짓으로 알려졌다.&lt;br&gt;&lt;br&gt;인의협은 의료계가 집단 휴진에 돌입한 것과 관련, “의대 교수들의 진료 중단은 벼랑 끝에 놓인 환자들의 등을 떠미는 행위가 될 수 있다”며 “일부 의대 교수들이 정부와 전공의 간 중재자 역할을 포기하고, 의사 증원 반대 투쟁에 앞장서는 현 상황에 대해 심각한 우려를 표하고 이에 반대한다”고 밝혔다. 이들은 18일 전면 휴진을 선언한 대한의사협회(의협)에 대해서도 “의협은 처음부터 지금까지 의사 증원은 1명도 안 된다는 주장만을 되풀이하며 상황 해결에 전혀 도움을 주지 못했다”고 했다. 인의협은 정부의 책임도 크다는 입장이다. 인의협은 “필수 의료 공백, 지역 간 의료 격차 해소, 응급실 뺑뺑이 문제를 공공 의료 중심으로 해결하려는 정부의 의지가 무엇보다 중요하다”고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C4K4AVDQ2JDCVGPV54XM2U2FLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;항의하는 의사 - 17일 오전 서울 종로구 연건동 서울대 의대 융합관에서 교수 비대위 주도로 열린 집회에서 파업에 참여한 의대 교수와 전공의, 의대생들이 정부 의료 정책에 항의하는 구호를 외치고 있다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FP75USA6ONFNROM6FBN7Y6JQEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;기다리는 환자  - 17일 경기 성남시 분당서울대병원에서 환자가 휠체어에 앉아 있는 모습. 이날 종로 본원을 비롯해 휴진에 돌입한 서울대병원 4곳에서는 일부 과 진료가 중단됐다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍승봉(삼성서울병원 신경과 교수) 거점 뇌전증지원병원 협의체 위원장도 의료계 집단 휴진 방침에 대해 반대하는 입장을 밝혔다. 홍 위원장은 “10년 후에 증가할 1%의 의사 수 때문에 지금 환자들이 죽게 내버려 두어도 된다는 말인가. 의사로서, 국민으로서 도저히 이해할 수가 없다”고 했다. 그는 “의사의 단체 사직과 휴진은 중증 환자들에게 사형선고와 다름없다”며 “뇌전증은 수술받으면 사망률이 3분의 1로 줄고, 10년 이상 장기 생존율이 50%에서 90%로 높아지는데, 지금은 전공의 사직으로 유발된 마취 인력 부족으로 예정됐던 수술의 40%도 못 하고 있다”고 했다.&lt;br&gt;&lt;br&gt;환자 단체도 이날 “지금 당장 휴진 결정을 철회할 것을 촉구한다”며 반발하고 나섰다. 한국환자단체연합회는 “정부를 압박하는 도구가 환자의 불안과 피해라면 그 어떤 이유도 명분도 정당화될 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울대병원 휴진 첫날… 진료 27% 감소, 예상보다 적어</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/06/18/DILNK4QJNVGT3HWZQCRQXJCS3M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/18/DILNK4QJNVGT3HWZQCRQXJCS3M/</guid>
+      <dc:creator>안준용 기자, 정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 15:55:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TQMFH2JFWBDSDFVABWY4EHPFQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오전 서울 종로구 연건동 서울대병원 어린이병원 로비가 대기 중인 환자나 보호자가 거의 없이 한산하다. 이날 서울대병원 종로 본원·분당서울대병원·서울시보라매병원·강남센터 4곳에서 ‘무기한 전면 휴진’이 시작됐다. 휴진을 주도한 서울 의대 교수 비대위는 “응급실·중환자실 등 필수 의료는 그대로 운영됐다”고 했지만, 진료 연기 통보를 받은 환자들은 분통을 터뜨렸다./ 고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대 의대·병원 교수들이 17일부터 집단 휴진에 들어갔지만, 예고한 것처럼 ‘전면 휴진’은 발생하지 않았다.&lt;br&gt;&lt;br&gt;휴진 첫날인 이날 서울대 의대 산하 네 병원(서울대병원·분당서울대병원·서울시보라매병원·강남센터) 진료과 대부분에서 ‘진료 대란’은 벌어지지 않았다. 이날 네 병원의 예약 환자 진료 건수는 일주일 전인 10일 대비 27% 감소한 것으로 나타났다. 수술 건수는 23% 줄었다고 한다. 휴진을 주도한 서울 의대 교수 비상대책위원회는 진료 40%, 수술 50% 감소를 예상했었다. 병원 측도 “일부 진료가 축소됐지만, 우려한 수준은 아니다”라고 했다. 진료 예약을 미룬 과들의 대기석은 텅 비었고, 교수들이 나온 과들은 평소처럼 붐볐다. 서울대병원 갑상선센터 등 일부 과는 대기 환자가 한 자릿수로 한산했으나 각 병원의 상당수 진료과는 평소처럼 20명 이상씩 대기하는 상태가 이어졌다.&lt;br&gt;&lt;br&gt;진료 연기 통보를 받은 환자들은 분통을 터뜨렸다. 서울대병원 소아 환자 보호자 A씨는 “이번 주 진료가 다음 달로 미뤄졌다는 문자 통보를 받았는데 우리 애는 어떡하느냐”고 했다. 신장병 환자 B씨는 “다음 주 진료가 취소됐다는 문자가 올까 봐 가슴이 떨린다”고 했다.&lt;br&gt;&lt;br&gt;서울 의대 교수 비대위는 이날 전공의 행정처분 완전 취소, 상설 의정협의체 설치, 의대 정원 재조정 등을 요구하며 “정부가 가시적 조치를 하면 휴진을 철회하겠다”고 했다. 이날 강희경 비대위원장이 “이번 주만 휴진하고, 다음 주부터 계획은 현재 없다”고 했지만, 비대위는 “공식 입장이 아니다”라고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;이날 서울아산병원(울산 의대) 교수들도 다음 달 4일부터 1주일 휴진을 결정했다. 지난 12일 연세 의대·세브란스병원 교수들이 오는 27일부터 무기한 전체 휴진에 들어가겠다고 밝힌 바 있다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;18일엔 대한의사협회(의협)의 하루 집단 휴진(총파업)이 예고돼 있다. 정부는 이날 임현택 의협 회장 등 수뇌부 17명에게 ‘집단행동 및 집단행동 교사 금지 명령’을 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘한동훈 명예훼손’ 유시민 벌금형 확정</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/18/Q56MPRDWRNGTZL4USWJQKT2BSI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/18/Q56MPRDWRNGTZL4USWJQKT2BSI/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJRZDA5IBNCIHDVUSQV6HWMSKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유시민&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한동훈 전 국민의힘 비상대책위원장이 대검 반부패강력부장으로 재직할 때 자신과 노무현재단 계좌를 추적했다는 허위 사실을 공개적으로 주장한 유시민 전 노무현재단 이사장에 대해 대법원에서 벌금 500만원을 확정했다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 노정희 대법관)는 17일 라디오에 의한 명예훼손 혐의로 기소된 유 전 이사장에 대해 벌금 500만원을 선고한 원심 판결을 확정했다고 밝혔다.&lt;br&gt;&lt;br&gt;유 전 이사장은 지난 2019년 12월 유튜브 채널 ‘알릴레오’에 이어, 2020년 7월 MBC 라디오에 출연해 “2019년 11~12월 사이 대검 반부패강력부가 나와 노무현재단 계좌를 불법 추적했다”는 취지의 주장을 했다가 한 시민단체로부터 고발당했다.&lt;br&gt;&lt;br&gt;유 전 이사장 주장은 사실무근으로 밝혀졌다. 유 전 이사장은 2021년 1월 노무현재단 홈페이지를 통해 자신의 주장이 사실이 아니었다고 사과했지만, 재판 과정에선 “전체적으로 허위 사실이 아니고, 비방의 목적이 없었다”며 혐의를 부인했다.&lt;br&gt;&lt;br&gt;1심과 2심은 “허위라는 인식이 있고, 비방의 목적도 있었다”며 유죄로 판단했다. 1심은 “유 전 이사장의 행위는 여론 형성 과정을 심하게 왜곡할 수 있다는 점에서 죄질이 좋지 않다”고 했고, 2심은 “공직자 개인에 대한 악의적이거나 경솔한 공격”이라고 지적했다. 대법원도 원심 판단에 잘못이 없다고 봤다.&lt;br&gt;&lt;br&gt;한편, 유 전 이사장의 허위 발언에 대해 한 전 위원장이 5억원의 손해배상을 청구한 민사 사건은 아직 1심 재판이 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>허위 인터뷰 의혹 김만배·신학림, 檢 구속영장 청구</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/18/DJK2MDFGI5ASRKVQSGCAPWZCYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/18/DJK2MDFGI5ASRKVQSGCAPWZCYE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 15:50:00 +0000</pubDate>
+      <content:encoded>‘대선 개입 여론 조작’ 의혹을 수사 중인 검찰이 허위 인터뷰 당사자인 화천대유 실소유주 김만배씨와 신학림 전 뉴스타파 전문위원에 대해 17일 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;서울중앙지검 특별수사팀(팀장 이준동 반부패1부장)은 김씨와 신씨가 짜고 윤석열 대통령의 과거 검사 시절 수사 무마 의혹에 대한 허위 인터뷰를 한 뒤, 그 내용을 신씨가 소속돼 있는 뉴스타파에서 보도해 주는 대가로 1억6500만원을 주고받은 혐의를 적용했다. 김씨에게는 배임증재와 정보통신망법상 명예훼손, 범죄수익은닉법·청탁금지법 위반 등을 적용했다. 돈을 받은 신씨에게는 배임수재를 비롯해 김씨와 같은 혐의를 적용했다.&lt;br&gt;&lt;br&gt;대통령 선거를 3일 앞둔 지난 2022년 3월 6일 신씨가 전문위원으로 있는 뉴스타파는 ‘윤석열 당시 국민의힘 후보가 2011년 대검찰청 중앙수사부 검사로 근무할 때, 부산저축은행 비리 사건을 수사하면서 대장동 대출 브로커이자 천화동인 6호 실소유주인 조우형씨의 수사를 무마해 줬다’는 내용의 인터뷰를 보도했다. 김씨와 신씨는 사전에 공모해 거짓 사실을 담아 가짜 인터뷰를 보도해 선거에 영향을 미치려고 한 것으로 검찰은 보고 있다.&lt;br&gt;&lt;br&gt;한편, 검찰은 신씨가 2022년 정기현 전 국립중앙의료원장에게 자신의 저서를 건넨 뒤 이 책이 전직 청와대 인사를 거쳐 문재인 전 대통령 측으로 건네진 사실이 알려지자 “계약을 위반했다”며 압박해 정 전 원장에게 5000만원을 받아낸 혐의(공갈)도 함께 적용했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>백두산 천지 에워싼 ‘구름 인파’</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/18/NQWTMIVISVBBHHJJSL573K7DCM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/18/NQWTMIVISVBBHHJJSL573K7DCM/</guid>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EBRXEWODRFGOZD53VBD5SCOKCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 11일 백두산을 찾은 관광객들이 천문봉에서 천지를 바라보고 있다. 이미 무더운 6월이지만 천지 너머 봉우리에는 아직도 녹지 않은 눈이 보였다. 관광 가이드는 “보통 6월 중순 백두산의 해빙이 시작되는데, 올해는 5월 중순부터 해빙이 시작됐다”라고 설명했다. 백두산은 지난 3월 중국 이름 ‘창바이산(長白山)’으로 유네스코 세계지질공원에 등재됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 권경숙 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/06/18/GSYBMRWJY5C5NJ7PUUJX66QVNA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/06/18/GSYBMRWJY5C5NJ7PUUJX66QVNA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 15:40:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;권경숙&lt;/b&gt; 별세, &lt;b&gt;허정회&lt;/b&gt;·&lt;b&gt;허경회&lt;/b&gt; 권진규 기념사업회 대표·&lt;b&gt;허명회&lt;/b&gt; 고려대 데이터과학원 석좌교수·&lt;b&gt;허중회&lt;/b&gt; JSB 대표 모친상=16일18시 중앙대병원, 발인 19일7시30분, (02)860-3508&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김진우&lt;/b&gt; 한양대 섬유공학과 명예교수 별세, &lt;b&gt;고영신&lt;/b&gt; 남편상, &lt;b&gt;김현주&lt;/b&gt;·&lt;b&gt;김도석&lt;/b&gt;·&lt;b&gt;김범석 &lt;/b&gt;부친상, &lt;b&gt;박석원&lt;/b&gt; 장인상, &lt;b&gt;조원란&lt;/b&gt;·&lt;b&gt;김로사&lt;/b&gt; 시부상, &lt;b&gt;김병훈&lt;/b&gt;·&lt;b&gt;김병준&lt;/b&gt;·&lt;b&gt;김병헌&lt;/b&gt; 조부상, &lt;b&gt;박성희&lt;/b&gt;·&lt;b&gt;박상진&lt;/b&gt; 외조부상=17일8시50분 중앙대병원, 발인 19일6시30분, (02)860-3501&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조명근&lt;/b&gt; 前 전주시장 별세, &lt;b&gt;정남례&lt;/b&gt; 남편상, &lt;b&gt;조성수·조인수·조정원·조성원&lt;/b&gt; 부친상=17일6시47분 전북대병원, 발인 19일9시30분, (063)250-2441&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[인사] 법제처 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/06/18/5YNG63N7NVCU3EYR2ANJ4SJYJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/06/18/5YNG63N7NVCU3EYR2ANJ4SJYJU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 15:40:00 +0000</pubDate>
+      <content:encoded>▲법제처◇고위공무원 전보▷법제정책국장 김진▷경제법제국장 윤재웅▷사회문화법제국장 채향석▷법령해석국장 손대수&lt;br&gt;&lt;br&gt;▲동북아역사재단▷정책기획관 최기수&lt;br&gt;&lt;br&gt;▲중소벤처기업진흥공단◇1급 승진▷홍보실 문준영▷온라인수출처 임지현▷연수사업처 윤영회◇2급 승진▷기획조정실 김현국▷기업금융처 위성우▷경기동부지부 이완희◇3급 승진▷온라인수출처 최일규▷인력지원처 이승형▷서울지역본부 박재휘▷경기서부지부 정도영▷부산지역본부 박해석◇부서장 전보▷기금관리실장 정연욱▷고객가치실장 최준영▷정보보안실장 김수영▷기업금융처장 임지현▷재도약성장처장 심찬보▷해외진출사업처장 전상규▷온라인수출처장 조병훈▷부산경남연수원장 정민정▷인천지역본부장 모혜란▷경기지역본부장 정동호▷강원지역본부장 정지창▷세종지역본부장 최민수▷광주지역본부장 조우주▷전남지역본부장 이병필▷경남동부지부장 시호문&lt;br&gt;&lt;br&gt;▲상명대▷정보통신처장 홍대기▷법무실장 김인철▷서울캠퍼스 융합공과대학장 겸 자연과학대학장 구상균▷천안캠퍼스 디자인대학장 유동관&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2401] 사다리를 타자</title>
+      <link>https://www.chosun.com/national/nie/2024/06/18/QUE264DEDNAZTIKVBTBZ7ZRABA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/18/QUE264DEDNAZTIKVBTBZ7ZRABA/</guid>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KL4GVS3SIJB45L6S5DFDGBNYJ4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 자숙(自肅)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2024/06/18/NWV3W3GYEVFNZNFFB57RVPY57A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/06/18/NWV3W3GYEVFNZNFFB57RVPY57A/</guid>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BOC4K5OVQVFINPXRY4LDIRU7UU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디] 우산을 (펴서) 쓰다</title>
+      <link>https://www.chosun.com/national/nie/chinese/2024/06/18/HEMCX5BORVDUDEXBYZQXFVWM4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/06/18/HEMCX5BORVDUDEXBYZQXFVWM4Y/</guid>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YSEPYKYTVFDPVFDXV2QDAWH7T4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[입에 착착 붙는 일본어] 도둑이 들다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2024/06/18/SDLPLAHUMVBI3ES7ODINSDTLXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/06/18/SDLPLAHUMVBI3ES7ODINSDTLXY/</guid>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ERWX4T2FLRE77FMZKS5R56DLZI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] open bar</title>
+      <link>https://www.chosun.com/national/nie/english/2024/06/18/7KPRNPT2DVHJ3I54MOYZ4COQ2E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/06/18/7KPRNPT2DVHJ3I54MOYZ4COQ2E/</guid>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OISPHWGNLZFY7M3LFZ6HNWUX6U.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2024년 6월 18일</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/18/ATDA3WEZ7RAY7BPU36NLZABNLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/18/ATDA3WEZ7RAY7BPU36NLZABNLM/</guid>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YH77MRJJMRHNPP4KZW4266QCK4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [철학·인문학 이야기] “사람을 언제나 목적으로 대하라” 칸트는 ‘도덕 법칙’ 따르라 주장했죠</title>
+      <link>https://www.chosun.com/national/nie/2024/06/18/KCZDIEDCTNH4BFI5V6WWD5NMKY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/18/KCZDIEDCTNH4BFI5V6WWD5NMKY/</guid>
+      <dc:creator>안광복 중동고 철학 교사</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XLNIOFRWWBACTBPACVLLQYRSKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이마누엘 칸트 초상화. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;과학이 크게 발전하던 서양의 18세기, 신이 인간을 특별하게 만들었기에 가장 소중하다는 믿음은 근거를 잃어갔습니다. 한편으로는 모든 인간이 평등하며 자유로워야 한다는 요구가 봇물 터지듯 나오고 있었어요. 인간이 존귀하다는 근거가 흐릿해지는데도, 다른 한쪽에서는 모든 사람의 인권은 소중하다는 주장이 호응을 얻고 있던 셈입니다. 이렇게 앞뒤가 안 맞는 상황을 어떻게 수습해야 할까요?&lt;br&gt;&lt;br&gt;이마누엘 칸트(1724~1804)의 ‘도덕 형이상학을 위한 기초 놓기’는 이 물음에 대한 해결책이 되는 책입니다. 칸트에 따르면 세상은 현상계와 예지계로 나뉘어 있어요. 현상계는 물리 법칙이 통하는 자연 세계입니다. 여기는 우리 인간의 지성이 원인과 결과를 따져 모든 일을 밝힐 수 있어요. 반면 예지계는 우리의 지성으로는 알기 어려운 곳이에요. 신·영혼·자유 등은 예지계에 속한 문제이지요. 인간은 현상계에 있으면서도, 예지계에도 속합니다. 그래서 자연의 원리에 따라 움직이며 호르몬 등으로 감정의 기복을 겪지요. 또한 인간은 ‘자유’에 따라 이 모두를 이겨내고 자신이 뜻한 바대로 올곧게 행동하기도 합니다.&lt;br&gt;&lt;br&gt;인간은 현상계에선 자연 법칙을 따라요. 예지계에선 어떤 원리를 따를까요? 칸트는 사람은 예지계에서 ‘도덕 법칙’의 지배를 받는다고 말합니다. 도덕 법칙은 ‘법칙’이기에 모든 인간에게 적용돼야 해요. 어떤 때는 통하고, 어느 경우에는 그렇지 않다면 법칙이 아니니까요. 이처럼 도덕 법칙은 모든 이에게 통해야 하기에 ‘무조건 따라야 하는 명령’, 정언명령(定言命令)이라 부릅니다. 그는 이를 몇 가지로 나눠 설명합니다.&lt;br&gt;&lt;br&gt;첫 번째 정언명령은 “네가 하려는 바가 보편적인 자연 법칙으로 여겨질 정도가 되게 하라”입니다. 칸트는 갚을 능력이 없는데도, 거짓말로 돈을 빌리는 상황을 예로 들어요. 이런 행동이 ‘법칙’이 될 만할까요? 남들도 똑같이 거짓말로 돈을 빌린다고 생각해보세요. 사회가 엉망이 될 겁니다. 그러니 무엇을 하려 할 때마다 내 행동이 누가, 어디서 해도 올바른지를 따져보아야 한다는 것이죠.&lt;br&gt;&lt;br&gt;두 번째는 “모든 사람을 수단으로만이 아니라 언제나 목적으로 대하라”입니다. 과학기술이건, 문화 활동이건 결국 ‘인간’이 모든 일의 최종 목적이어야 합니다. 게다가 모든 인간은 자유를 갖고 있어요. 모두가 상대의 자유를 소중히 여기며 도덕을 따른다면, 세상은 모든 이들이 무언가의 수단이 아닌 그 자체로 목적으로 존중받는 ‘목적의 왕국’이 될 수 있습니다.&lt;br&gt;&lt;br&gt;내용이 조금 어렵죠? 인간이 왜 존엄한지, 자유와 평등이 우리에게 왜 당연한지를 밝히는 작업은 결코 쉽지 않아요. 칸트는 이를 정교한 논변으로 해낸 위대한 철학자입니다. ‘도덕 형이상학을 위한 기초 놓기’에는 이런 칸트 사상의 고갱이가 담겨 있으니, 꼼꼼히 공들여 읽어보시기 바랍니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [사소한 역사] 중세 유럽 독일에선 공 굴려 악마 상징하는 곤봉 넘어뜨리는 종교 의식이었죠</title>
+      <link>https://www.chosun.com/national/nie/2024/06/18/R3HFE5XLI5GAJIJUCEWILRBI3Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/18/R3HFE5XLI5GAJIJUCEWILRBI3Y/</guid>
+      <dc:creator>김현철 서울 영동고 역사 교사</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 15:30:00 +0000</pubDate>
+      <content:encoded>지난달 30일부터 오는 19일까지 제25회 대한볼링협회장배 전국볼링대회가 열리고 있어요. 볼링은 무거운 공을 굴려서 마루 끝에 세워진 10개의 핀을 쓰러뜨리는 실내 스포츠입니다. 경기 규칙이 간단해 남녀노소 모두 쉽게 즐길 수 있는 운동이지요. 특히 요즘은 펍이나 카페 등에서 볼링장을 같이 운영하는 경우가 많아, 젊은 층에서 볼링을 즐기는 이들이 늘어나고 있다고 합니다. 볼링은 어떻게 시작됐을까요?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y7PRMBKYKVHSVLV4GXLVQR4QFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;볼링 핀들이 공에 맞아 쓰러지는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;볼링과 유사한 형태의 운동은 아주 오래전부터 있었던 것으로 보여요. 영국의 한 고고학자가 기원전 5000년쯤의 고대 이집트 유적에서 볼링 용구와 비슷한 공과 핀, 볼링과 비슷한 공놀이를 묘사한 벽화 등을 발견했다고 해요. 공의 무게가 가볍지 않기 때문에 공 던지기 놀이가 아닌 공을 굴리는, 오늘날의 볼링과 유사한 놀이였을 것으로 추정된대요.&lt;br&gt;&lt;br&gt;현대 볼링의 직접적인 기원은 중세 유럽의 독일에서 나타났다고 해요. 이때의 볼링은 스포츠라기보다는 종교 의식에 더 가까웠습니다. 독일의 성직자들은 둥근 물체를 굴려서 곤봉을 넘어뜨리는 종교적 의식을 행했다고 해요. 곤봉은 악마를 상징하는 것으로, 이를 쓰러뜨리면 깊은 신앙심으로 악마를 무찌른 사람으로 인정받았다고 합니다. 그러다 점차 시간이 지나면서 종교적 의미는 희석되고 흥미 위주의 오락이 되자 더 이상 수도원 내에서 볼링을 치는 것이 금지되었다고 해요. 하지만 볼링은 프랑스나 영국, 네덜란드 등 유럽 각지로 퍼져나갔습니다. 16세기 종교 개혁을 이끈 마르틴 루터도 볼링을 무척 즐겼다고 해요. 그리고 일정하지 않았던 볼링 핀의 숫자를 9개로 고정하는 규칙도 만들어냈대요.&lt;br&gt;&lt;br&gt;이후 볼링은 유럽에서 미국으로 전해졌어요. 미국에서도 볼링은 빠르게 인기를 끌었지만, 이내 금지됐습니다. 볼링의 승패와 쓰러지는 핀의 개수 등을 맞히는 도박이 이루어졌기 때문이에요. 도박 자체가 주는 해악도 문제였지만, 미국이라는 나라 자체가 박해를 피해 이주해온 청교도들이 세운 나라였기 때문이에요. 청렴과 검소함을 강조하는 청교도인들에게 볼링 도박은 용납할 수 없는 일이었죠. 이로 인해 결국 9핀 볼링은 금지됐지만, 도박과 별개로 볼링을 너무나 하고 싶었던 사람들이 핀을 하나 더 추가한 10핀 볼링을 만들어냈대요. 스포츠로서의 볼링은 1895년 미국볼링협회가 설립되면서 각종 규칙 등이 체계적으로 갖춰졌고, 세계 곳곳으로 보급될 수 있었답니다.&lt;br&gt;&lt;br&gt;한국에 볼링이 들어온 것은 6·25전쟁 이후 미군을 통해서였어요. 하지만 1969년 대한볼링협회가 만들어지기 전까지는 그렇게 활발하게 이뤄지지 않았다고 해요. 협회 설립 이후 볼링 인구가 늘고 각종 세계 대회에서 볼링 선수들이 우수한 성적을 내면서 우리나라에서도 볼링이 대중적인 스포츠로 자리 잡게 됐답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [재미있는 과학] 달이 사라진 지구는 소행성 충돌 위험 높아진대요</title>
+      <link>https://www.chosun.com/national/nie/2024/06/18/KDN3TQQADJGF7ILBFSMYU66LR4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/18/KDN3TQQADJGF7ILBFSMYU66LR4/</guid>
+      <dc:creator>김형자 과학칼럼니스트, 기획·구성=오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 15:30:00 +0000</pubDate>
+      <content:encoded>올해 1월과 2월 각각 일본과 미국의 달 탐사선이 달 앞면에 착륙한 데 이어 중국의 달 탐사선이 세계 최초로 달 뒷면에서 토양과 암석 등 표본 채취에 성공하고 지난 4일 이륙했어요. 달의 희귀 자원을 확보하고, 달에 유인 기지를 먼저 건설하려는 인류의 달 탐사 경쟁이 더욱 뜨거워지고 있습니다.&lt;br&gt;&lt;br&gt;그런데 만약 지구 주위를 돌며 캄캄한 밤하늘을 밝혀주는 달이 갑자기 사라진다면 어떤 일이 일어날까요? 달이 지구에 미치는 영향을 통해 달이 사라진 지구의 모습을 상상해 봅시다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AVBKKORT2JGLPEJQPXLBJBY7AE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;지구 자전축을 붙잡고 있는 달&lt;/b&gt;&lt;br&gt;&lt;br&gt;지구는 팽이처럼 빙글빙글 돌고 있어요. 이 회전을 ‘자전’, 회전할 때 기준이 되는 고정된 중심축을 ‘자전축’이라고 해요. 지구는 자전축을 중심으로 하루에 한 바퀴씩 자전해요. 또 태양을 중심으로 1년에 한 바퀴씩 공전해요.&lt;br&gt;&lt;br&gt;지구의 자전축은 23.5도 기울어져 있어요. 지구의 자전축이 더 기울어지는 등 변하지 않고 유지될 수 있는 건 지구를 끌어당기는 달의 인력이 자전축을 안정적으로 붙잡고 있기 때문이에요. 질량을 가진 물체들 사이에선 서로를 끌어당기는 힘인 인력(引力)이 작용하는데요. 달과 지구 사이에도 서로 당기는 힘, 인력이 작용합니다. 달이 지구를 잡아당기는 힘으로 인해 지구가 완만하게 기울어진 채 태양 주위를 돌면서, 계절이 생기고 생명체가 살기에 이상적인 온도가 유지되는 거랍니다.&lt;br&gt;&lt;br&gt;국제 학술지 ‘네이처’에 따르면, 달이 사라지면 지구 자전축의 각도는 0~85도 사이에서 크게 요동치게 된다고 해요. 마치 쓰러지기 직전의 팽이처럼 말이죠. 이렇게 자전축이 계속 바뀌면 지구에는 사계절이 없어지는 등 극심한 기후변화가 나타나게 돼요. 자전축이 흔들려서 지구가 똑바로 서서 돌면 적도 지방은 극심한 열대로, 북극과 남극 지방은 극심한 한대로 바뀔 거라고 과학자들은 전망해요. 그러다 지구가 지금보다 훨씬 옆으로 기울어지면 북극과 남극에 햇볕이 강하게 내리쬐어 빙하가 녹아내릴 거예요. 이 같은 급격한 변화에 적응하지 못한 생물들은 사라질 수도 있어요.&lt;br&gt;&lt;br&gt;&lt;b&gt;밀물과 썰물을 만드는 달&lt;/b&gt;&lt;br&gt;&lt;br&gt;달은 인력으로 지구의 바닷물도 끌어당깁니다. 이 때문에 지구에서는 주기적으로 해수면이 높아졌다 낮아졌다 하는 밀물과 썰물이 생겨요. 달과 가까이에 있는 바닷물은 달이 당기는 힘에 이끌려 물이 차오르는 밀물이 되고, 상대적으로 물이 빠져나간 부분은 썰물이 되는 거예요. 밀물과 썰물의 차이가 크고, 경사가 완만한 등의 조건이 갖춰진 곳에서는 밀물 때 물에 잠기고 썰물 때 드러나는 넓고 평평한 땅, 갯벌이 형성된답니다.&lt;br&gt;&lt;br&gt;태양도 밀물과 썰물 발생에 영향을 주지만 달보다는 영향력이 약해요. 태양은 달보다 지구에서 더 멀리 떨어져 있어, 지구의 바닷물을 당기는 힘이 달보다 약하기 때문이에요. 그래서 달이 사라지면 밀물과 썰물이 눈에 띄게 줄어들어 갯벌을 볼 수 없게 될지 몰라요.&lt;br&gt;&lt;br&gt;갯벌이 사라지면 어떤 일이 벌어질까요? 우선 터전을 잃은 갯벌 생물들이 자취를 감추고, 바다 생태계가 무너지게 됩니다. 갯지렁이, 작은 게 따위를 잡아먹으며 다음 여행을 준비하는 철새들도 식량난으로 힘이 없어 바다를 건널 수 없을 거예요. 갯벌이 일터인 어민들도 생계에 타격을 입게 되지요. 또 밀물과 썰물을 통해 이뤄지던 바닷물의 순환이 줄어들면서 오염 물질이 제대로 정화되지 않고, 산소와 영양분도 바다 골고루 퍼지지 못하게 될 거예요. 밀물과 썰물의 해수면 높이 차이를 이용해 전력을 생산하는 조력발전도 할 수 없을 거예요.&lt;br&gt;&lt;br&gt;&lt;b&gt;야행성 동물, 멸종 위험 높아져&lt;/b&gt;&lt;br&gt;&lt;br&gt;올빼미, 부엉이 같은 야행성 동물은 빛이 적은 밤에 활동하기에 적합한 눈의 구조를 갖고 있어요. 이들은 캄캄한 밤에 눈의 동공을 활짝 열어 달빛을 최대한 모아 사물을 인식해요. 그래서 달이 사라지면 야행성 동물들은 자신들이 활동하는 야간에 앞을 볼 수 없게 됩니다. 그러면 먹잇감을 찾지 못하고 굶어 죽을 수밖에 없겠지요.&lt;br&gt;&lt;br&gt;또 달이 사라지면 지구는 소행성의 습격을 고스란히 받게 될지도 몰라요. 달은 지구 가까이에 오는 소행성을 잡아당기는 힘이 있어요. 이 때문에 달에는 지구로 향하던 소행성들이 지구가 아닌 달에 부딪히면서 생긴 상처가 많아요. 소행성을 막아주는 달 덕분에 우리는 지금 지구에서 안전하게 살아갈 수 있는 거예요.&lt;br&gt;&lt;br&gt;&lt;b&gt;조금씩 멀어지는 달&lt;/b&gt;&lt;br&gt;&lt;br&gt;그런데 달이 매년 지구에서 조금씩 멀어지고 있대요. 과학자들이 1969년부터 1989년까지 20년에 걸쳐 지구와 달 사이 거리를 레이저로 측정했는데요. 그 결과 달이 1년에 3.8㎝씩 지구에서 멀어진다는 사실이 밝혀졌어요. 현재 지구와 달 사이 평균 거리는 약 38만㎞인데요. 과학자들은 45억년 전 지구가 생겨났을 때에는 둘 사이의 거리가 20만㎞ 초반에 달했을 거라고 추정해요.&lt;br&gt;&lt;br&gt;이런 현상은 달의 인력으로 밀물과 썰물이 발생하는 과정에서 바닷물이 해저면에 마찰을 일으켜 지구의 자전 운동을 조금씩 느려지게 만들기 때문이에요. 지구의 자전 속도가 느려지면 지구는 그만큼 운동에너지를 잃어요. 하지만 지구와 달, 둘의 총 운동에너지는 변하지 않기에 지구가 잃는 운동에너지를 달이 얻어 자신이 움직이는 속도를 높이기 때문에 지구에서 점점 멀어지는 거래요.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RT6ICYN3LVBBDEAHWPGD5CJNWI.png?width=1800&amp;height=1012&amp;auth=cfcac740599f9c9e42108d6f6909b4a9114f19ed60a0ef02ee3c0f57bb1a5b00&amp;smart=true" type="image/png" height="1012" width="1800">
+        <media:description type="plain">그래픽=진봉기</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>만취한 중국인 女 관광객 성폭행한 호텔 직원... 경찰, 구속영장 신청</title>
       <link>https://www.chosun.com/national/incident/2024/06/17/UWCCVD6NDRDLNHTW5HH6A4LLJY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/17/UWCCVD6NDRDLNHTW5HH6A4LLJY/</guid>
@@ -709,54 +908,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YHZQOWHGJZABRNIFVHEEENIG7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영국 왕실 가족이 15일 찰스 3세(오른쪽 둘째) 국왕 생일 기념 행사에서 버킹엄궁 발코니에 올라 손을 흔들고 있다. 케이트 미들턴(뒷줄 왼쪽 둘째) 왕세자빈은 작년 성탄절 이후 공식석상에 처음 나왔다. /AFP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;암 투병 중인 케이트 미들턴(42) 영국 왕세자빈이 6개월 만에 공식 석상에 모습을 드러냈다. 영국 언론들에 따르면 왕세자빈은 15일 버킹엄궁 인근에서 열린 찰스 3세 국왕 생일 기념 군기 분열식에 참석했다. 찰스 국왕과 미들턴 왕세자빈 모두 암 투병 사실을 공개하고 치료 중이다. 이날 비가 내리는 가운데 진행된 이 행사에는 군인 1000여 명, 군악대 250명, 말 200여 필이 동원됐다.&lt;br&gt;&lt;br&gt;이날 남색 띠가 둘러진 하얀색 원피스에 넓은 챙의 모자를 착용하고 나온 왕세자빈은 함께 참석한 세 자녀인 조지 왕자, 샬럿 공주, 루이 왕자와 행사 도중 웃으며 이야기를 나눴다. 세 자녀와 함께 마차를 타고 이동한 그는 마차에서 군중을 향해 환하게 웃으며 손을 흔들거나 퍼레이드를 가리키며 자녀에게 말을 거는 모습도 포착됐다. 왕세자빈은 지난 1월 복부 수술을 받은 뒤 대외 업무에 나서지 않았다. 이에 건강 이상설, 부부 불화설 등 각종 루머가 돌자 지난 3월 영상을 통해 암 투병 사실을 발표한 바 있다.&lt;br&gt;&lt;br&gt;왕세자빈의 군기 분열식 참석은 전날 왕실 소셜미디어를 통해 예고됐다. 왕세자빈은 자신의 몸상태와 관련해 “상당한 진전을 보이고 있다”며 “이번 주말 가족과 함께 국왕의 생일 퍼레이드에 참석하는 것을 고대하고 있다”고 했다. 다만 “아직 숲 밖으로 나온 것은 아니다. 항암 치료를 받는 사람이라면 알다시피 좋은 날도 나쁜 날도 있다”고 심경을 전했다.&lt;br&gt;&lt;br&gt;군기 분열식은 260여 년 전부터 국왕의 생일을 축하하기 위해 열린 전통 행사로, 영국 왕실은 국왕의 실제 생일과 관계없이 날씨가 좋은 6월에 개최하고 있다. 찰스 3세의 실제 생일은 11월이다. 영국 왕실은 왕세자빈이 재택으로 자선사업 관련 회의에 참석하는 등 일부 업무를 시작했고 여름 동안 일부 행사에 참석할 것으로 예상한다고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[입에 착착 붙는 일본어] 여유가 있다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/06/17/HFTGTCFEIJAXRL62OBEASVNTAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/06/17/HFTGTCFEIJAXRL62OBEASVNTAM/</guid>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WYPVBABZIVF7BFNKKJNHWOZCY4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 격무(激務)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/06/17/L2LUSSGQQRG65JWZDKLO56CNDU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/06/17/L2LUSSGQQRG65JWZDKLO56CNDU/</guid>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F3IEMFH5IJCGRKXAMYL5A22GFM.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 심란하다, 뒤숭숭하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/06/17/LBASAUHCYNDZ3DYS5IRR5B4644/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/06/17/LBASAUHCYNDZ3DYS5IRR5B4644/</guid>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EKJSF6PN6BCYTG26TTDH3ZNMKY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] over time</title>
-      <link>https://www.chosun.com/national/nie/english/2024/06/17/AJAXT2TFGZD43NVEYDZLEMODOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/06/17/AJAXT2TFGZD43NVEYDZLEMODOY/</guid>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LTIKFMH7GBAQDM5ZEXM2VVJUTI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2400] 양손으로 또박또박</title>
-      <link>https://www.chosun.com/national/nie/2024/06/17/DAAW4EZDM5BHLPKJ3B7FAXLTYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/17/DAAW4EZDM5BHLPKJ3B7FAXLTYQ/</guid>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JEAKSNLBMZDJTB6PZ5MBUBYNMQ.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울광장 핼러윈 참사 분향소 이전</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/17/CUSX2QWH4ZBXPJUJMXANSIY4RQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/17/CUSX2QWH4ZBXPJUJMXANSIY4RQ/</guid>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 15:43:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5TVA5LZ2MBBBDBTWEG5YOV73SE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 오후 서울 중구 서울광장에 있던 ‘핼러윈 참사 희생자 합동 분향소’가 근처 부림빌딩 1층으로 이전했다. 유가족 측이 작년 2월 서울광장에 분향소를 기습 설치한 이후 1년 4개월 만이다. 사진은 유가족이 이곳에 새로 만든 ‘10·29 이태원참사 기억·소통 공간 별들의 집’을 둘러보는 모습.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>제자 성폭행·성추행 혐의… 성신여대 前교수 징역 4년</title>
       <link>https://www.chosun.com/national/court_law/2024/06/17/XASYOTJVARDQRBUKPKBA5JCEIE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/17/XASYOTJVARDQRBUKPKBA5JCEIE/</guid>
@@ -773,50 +924,6 @@
       <description/>
       <pubDate>Sun, 16 Jun 2024 15:42:22 +0000</pubDate>
       <content:encoded>최근 때 이른 무더위가 이어지는 가운데 모기도 기승을 부리고 있다. 16일 서울시 ‘모기 예보’에 따르면, 서울의 모기 활동 지수는 지난 2일부터 15일까지 14일간 최고치인 100을 기록했다. 모기 활동 지수가 14일 연속 최고치를 찍은 것은 2018년 7월(18~31일) 이후 6년 만이다. 작년 같은 기간 평균은 &lt;b&gt;71.1&lt;/b&gt;이었는데 올해는 &lt;b&gt;1.4&lt;/b&gt;배 수준으로 상승한 것이다. 작년에는 6월 중 모기 활동 지수가 100을 기록한 날도 6월 30일 하루였다.&lt;br&gt;&lt;br&gt;서울시는 시내 54곳에 설치한 ‘디지털 모기 측정기’의 측정 결과와 강수량, 기온, 습도 등을 종합해 매일 모기 활동 지수를 발표하고 있다. 지수가 높을수록 모기가 왕성하게 활동하고 있다는 뜻이다. 최고치는 100이다.&lt;br&gt;&lt;br&gt;서울시에 따르면, 모기 활동 지수가 100인 날 밤 야외에서 10분 정도 서 있으면 &lt;b&gt;모기에게 5번 이상 &lt;/b&gt;물릴 수 있다고 한다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “모기는 고인 물에 알을 낳는데 올봄에는 평년보다 비가 자주 내린 데다 기온까지 일찍 &lt;b&gt;상승해&lt;/b&gt; 모기의 유충인 장구벌레가 서식할 수 있는 환경이 빨리 조성됐다”고 했다.&lt;br&gt;&lt;br&gt;서울 안에서도 지역에 따라 달라 아파트·주택 지역보다 한강공원 등 강·하천 주변에 모기가 더 많은 것으로 파악됐다. 아파트·주택 지역은 지난 3일 72를 기록한 이후 15일까지 &lt;b&gt;매일&lt;/b&gt; 70 이상을 기록했다. 15일에는 올 들어 최고치인 87.1을 찍었다.&lt;br&gt;&lt;br&gt;서울시는 7~8월에는 모기가 줄어들 것으로 예상했다. 서울시 관계자는 “낮 최고기온이 32도 이상으로 상승하고 장마 등 큰비가 내리면 모기의 기세가 누그러질 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>외국인 근로자 16만명 몰려왔는데… 지원센터 예산 삭감</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/17/4GZKQCMTUVDCLN4MB7RZOENOOQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/17/4GZKQCMTUVDCLN4MB7RZOENOOQ/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 15:41:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KAYFKZJIFRD77K4LTLZCVYJ5WE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내 차례는 언제… - 16일 인천 남동구 인천외국인근로자지원센터의 모습. 상담을 받기 위해 몰려든 외국인 근로자들로 가득 차 있다. 센터 직원 수가 줄면서 상담을 받으려면 한참을 기다려야 한다. /구동완 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 오후 3시 인천 남동구 인천외국인근로자지원센터. 교실 면적(90㎡) 남짓한 공간에 60명 넘는 외국인 노동자가 들어차 있었다. 출국 만기 보험 예상 수령액을 알아보려고 오후 1시쯤 센터를 찾았다는 필리핀인 헤이젤(33)씨는 두 시간을 기다린 끝에야 상담을 받을 수 있었다. 한국인을 고용하지 못해 ‘고용 허가제’를 통해 입국한 비전문 외국인 노동자(E-9 비자) 숫자가 지난해 16만명으로 사상 최다를 기록했지만 예산 삭감으로 대응에 어려움을 겪는 현장이었다.&lt;br&gt;&lt;br&gt;네팔인 힘시커 번다리(25)씨는 “비자 변경과 일상생활과 관련한 상담이 잘 이뤄지지 않아 너무 불편하다”고 했다. 캄보디아인 금차읏(32)씨는 “한국에 처음 왔을 때 업주가 얘길 안 해줘서 휴가의 존재 자체를 몰랐는데, 관련 상담을 하기가 어렵다”고 했다. 어눌한 한국어로 본지 인터뷰에 응한 이들이 불편을 호소한 이유는 지난해 전국 외국인근로자지원센터 관련 예산 71억원 전액 삭감에 따른 행정 혼선 때문이다.&lt;br&gt;&lt;br&gt;정부는 최근 외국인 근로자 입국자 수가 급증하는 등 정책 환경이 급변하다 보니 2000년대부터 20년 가까이 민간 단체 등이 운영해온 센터에 대한 정부 보조금 71억원을 전액 삭감했다. 이후 일선 센터를 폐쇄, 고용노동부가 외국인 노동자 고충 상담을 맡고, 고용노동부 산하 한국산업인력공단이 교육을 맡는 취지로 제도를 개편하려 했던 게 정부 구상이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L5BA2TZSYBAOFAIHTPSFC7AI4A.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 이후 노동 현장에서 반발이 일어났고, 정부는 다시 급히 예산을 끌어모아 민간 운영 센터를 지원하기 시작했다. 하지만 이 과정에서 센터당 6억원이 넘었던 예산은 4억원 수준으로 줄었다. 정부는 정책 효율성을 기하겠다는 취지로 개편을 추진했다지만, 현장의 혼란은 상당했다. 센터에서 상담·교육은 물론, 일상의 애로사항까지 일원화해 외국인 노동자들의 고충을 처리하던 노하우를 무시한 결과란 지적이 나왔다.&lt;br&gt;&lt;br&gt;이런 까닭에 예산과 인력이 줄어들었음에도 일선 센터 업무는 과거와 비교해 큰 차이가 없다고 한다. 김재업 인천센터장은 “직원은 13명에서 6명으로 줄었고, 6명이던 상주 통역 직원은 현재 3명에 불과하다”며 “업무량은 비슷한데 인력이 적어서 오후 8~10시까지 야근을 밥 먹듯이 한다”고 말했다. 창원과 대구는 각각 15명과 12명에서 6명이 됐고, 충남도 13명에서 6명으로 줄었다. 일선 현장에선 고용부가 상담을, 공단이 교육을 분담하겠다는 개편 취지가 전혀 구현되지 않는다는 지적이 나왔다.&lt;br&gt;&lt;br&gt;신혜영 대구센터 운영교육팀장은 “고용부가 상담 업무를 가져갔지만, 행정 상담 수준에 그치고 있어 외국인 노동자들이 다시 지원센터를 찾아오고 있는 실정”이라며 “이 때문에 제도 개편 전과 동일하게 상담, 교육, 문화 행사, 특성화 사업을 진행하고 있다”고 했다. “개편 전엔 외국인 노동자들이 센터에서 상담과 교육을 원스톱으로 받을 수 있었지만, 지금은 두 곳을 왔다 갔다 해야 해서 힘들어한다”고도 했다.&lt;br&gt;&lt;br&gt;이 와중에 민간이 운영하던 일선 센터는 임차료 추가 부담이라는 짐도 짊어졌다. 대구센터는 올해부터 1년 5500만원에 달하는 임차료를 고용부에 지불하고 있다. 고용부는 “제도를 정비하는 과정에서 지자체가 지원센터를 운영하는 형식으로 전환됐기 때문에 국유재산법에 따라 징수를 할 수밖에 없다”고 했다. 신 팀장은 “센터 입장에서는 임차료만 없어져도 사업비를 확보할 수 있어 근로자들에게 양질의 서비스를 제공할 수 있는데 현재 상황은 큰 압박”이라고 했다.&lt;br&gt;&lt;br&gt;한국산업인력공단이 외국인 근로자 교육을 맡겠다고 했지만 한국어 교육을 제대로 해본 적이 없는 41개 민간 직업훈련기관에 위탁을 한 것도 문제다. 창원지원센터 관계자는 “지원센터는 수준별로 12개 반이 운영되는 데 반해 직업훈련 기관은 2개 반에 불과해 수준별 학습도 사실상 불가능하다”며 “기관에서 한국어 강사와 교재도 구하지 못해 지원센터에 거꾸로 도움을 요청하고 있다”고 했다.&lt;br&gt;&lt;br&gt;센터를 찾는 외국인 근로자를 응대할 직원과 상주 통역가 수도 반 토막이 났다. 인천지원센터는 상담과 교육을 받으러 온 외국인 근로자가 일요일 하루에만 500명 이상이 찾지만 인력은 이전에 비해 50% 줄었다. 정부 관계자는 “외국인 노동자들이 큰 불편을 느끼지 않도록 정책 효율성을 높이겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [무대 위 인문학] 한센병 환자 40년 돌본 외국인 간호사들, 공연으로 재탄생</title>
-      <link>https://www.chosun.com/national/nie/2024/06/17/64E564CW25ATTOUZKR2AUI6ZC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/17/64E564CW25ATTOUZKR2AUI6ZC4/</guid>
-      <dc:creator>최여정 ‘이럴 때 연극’ 저자, 기획·구성=오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RRFV6D7TXJFVBPXPNKTNHJBJOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뮤지컬 ‘섬’ 공연 장면. /국립정동극장·라이브러리컴퍼니&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전라남도 고흥군 도양읍의 작은 섬, 소록도. 하늘에서 내려다본 섬의 모양이 ‘작은 사슴’을 닮았다 하여 소록도라는 이름이 붙었어요. 하지만 어여쁜 이름과 달리 이곳은 한센병 환자들이 모여 사는 외딴섬으로 오랫동안 기억돼 왔어요.&lt;br&gt;&lt;br&gt;한센병은 나균에 의해 발생하는 만성 감염병으로 신경의 변화를 동반한 피부병으로 나타나기 때문에 신체 외적인 변화가 눈에 띄지요. 한국한센복지협회에 따르면, 한센병은 세계보건기구(WHO)의 주도로 시작된 답손·클로파지민·리팜피신 등 3가지 약의 병용 치료를 조기에 받으면 완치가 가능하다고 해요. 또 한센균을 많이 배출하는 급성기 한센병 환자와 밀접한 접촉을 장기간 해야 전염이 되는 등 쉽게 전염되지는 않는다고 해요. 하지만 약물 치료 등이 제대로 이뤄지지 못했던 시기에 소록도라는 고립된 공간에 갇히면서 한센병 환자들은 사람들의 눈과 기억에서 사라진 존재가 되어 버렸어요.&lt;br&gt;&lt;br&gt;&lt;b&gt;한센병 환자들 돌본 두 명의 외국인&lt;/b&gt;&lt;br&gt;&lt;br&gt;기본적인 인권마저 박탈당하고 수난의 역사를 겪어온 한센병 환자들이 사는 소록도에 이들을 보살피러 온 외국인 간호사가 두 명 있었습니다. 1934년생인 마리안느 스퇴거(90)와 고(故) 마가렛 피사렉(1935~2023)입니다. ‘큰 할매’와 ‘작은 할매’라는 애칭으로 불린 마리안느 스퇴거와 마가렛 피사렉은 소록도에서 각각 43년, 39년간 봉사하며 한센병에 대한 세상의 편견에 맞섰지요. 한평생을 한센인들과 함께한 마리안느와 마가렛은 2005년 늦가을 소록도 사람들에게 마지막 편지를 남기고 고국으로 떠납니다. 나이가 들어 거동이 불편해지면서 자신들이 도움이 되기보다 오히려 짐이 될 것 같은 마음에 조용히 편지만 남기고 떠난 것이지요. 이들의 삶과 소록도에 착안한 뮤지컬 ‘섬’(5월 22일~7월 7일·국립정동극장)이 공연 중입니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AJ5GERLDQNEZLIFYEWW3MK4SCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1960년대 소록도병원에서 마리안느(오른쪽)와 마가렛이 환자를 돌보고 있는 모습. /김연준 소록도성당 주임신부 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뮤지컬은 이들이 산 90년가량의 시간을 세 시대로 나누고, 그 시대를 살다 간 각기 다른 주인공의 삶과 이야기를 전개해 나갑니다. 먼저 1930년대 소록도는 한센병 환자에 대한 차별과 잘못된 인식이 극에 달한 시기였어요. ‘낙원의 섬’이라는 말을 듣고 소록도로 찾아온 한센병 환자들은 불법 감금당하고, 아이를 낳지 못하도록 수술까지 받아야 하는 시절을 견뎌내야만 했지요. 하지만 그런 섬에서도 사랑은 피어났습니다. 한센인이었던 백수선과 박해봉은 연인이 되어 함께 섬을 탈출하려 하지만 간신히 백수선만 섬을 빠져나와요. 두 사람은 이별하게 되고 백수선은 다른 이와 결혼해 고영자라는 딸을 얻습니다. 시간은 1960년대로 흘러 소록도에 마리안느와 마가렛이 오게 됩니다.&lt;br&gt;&lt;br&gt;장성한 고영자는 소록도에서 마리안느, 마가렛과 함께 한센인을 보살피죠. 고영자의 딸 고지선은 지원을 낳지만 발달장애 판정을 받게 됩니다. 이처럼 백수선에서 고영자로 그리고 고지선으로 삼대에 걸쳐 소록도와 연관된 여성들은 고난 속에서도 희망을 노래하지요. 배우 12명이 30개 넘는 배역을 소화해 내고 독창에서 합창을 넘나들며 음악으로 감동을 전해주지요.&lt;br&gt;&lt;br&gt;&lt;b&gt;행동하는 지식인&lt;/b&gt;&lt;br&gt;&lt;br&gt;서양 역사에는 세상의 편견에 맞선 지식인이 많습니다. 19세기를 대표하는 프랑스 작가 에밀 졸라(1840~1902)가 그중 한 명입니다. 그가 1898년 1월 13일 프랑스 일간지 ‘로로르’에 발표한 ‘나는 고발한다’라는 제목의 글은, 세상의 편견에 맞서 진실을 밝히려는 에밀 졸라의 인생을 건 구호와도 같습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IESRKSPHBVA2TAOMAJMPPGUPZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;에밀 졸라 초상화. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;독일 간첩으로 몰린 유대인 장교 드레퓌스의 무죄를 주장한 이 글은 사건의 진실에 대한 세계적인 관심을 촉발했어요. 1894년 드레퓌스가 종신 유배형을 선고받고 1906년 복권되기까지 12년의 기나긴 시간 동안 진실을 밝히는 가장 중요한 도화선이 됐어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K56ILHYZVJEWDK7KETZGVQOQL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;에밀 졸라 초상화. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;드레퓌스가 독일에 전달했다는 편지는 사실 그의 필적과 일치하지도 않았고, 드레퓌스의 유죄 선고 후 진범이 밝혀졌음에도 국가와 군대는 철저히 침묵하며 자신들의 오판을 인정하지 않았어요. 증거가 명확하지 않았음에도 드레퓌스가 유죄를 받은 이유 중 하나는 그가 유대인이었기 때문이지요. 자유와 평등, 박애라는 프랑스 혁명 정신이 국가주의와 반유대주의로 처참히 무너지는 것을 본 졸라는 그동안 자신이 쌓아 올린 문학적 성과와 명예, 나아가 자신의 목숨까지 내걸고 글을 썼습니다. 실제로 졸라는 ‘나는 고발한다’ 발표 후 온갖 협박으로 영국에 망명을 떠났고, 결국 의문의 질식사로 생을 마감하는데요. 이런 졸라의 삶이 뮤지컬 ‘에밀’(6월 11일~9월 1일·대학로 예스24스테이지 3관)로 만들어졌지요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VFTVXLVPRJBBXOP56VITH5D6PY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뮤지컬 ‘에밀’ 무대 모습. /프로스랩&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뮤지컬은 에밀 졸라를 찾아온 클로드라는 한 청년과의 만남을 그립니다. 졸라와 유년 시절을 함께 보낸 친구 폴 세잔의 그림을 전하러 왔다는 그는 졸라와 같은 위대한 작가를 꿈꾸고 있다고 말하죠. 졸라는 클로드를 보며 자신의 지나간 젊은 날을 회상하고 드레퓌스 사건을 떠올립니다. 두 사람이 대화를 나누는 중에도 졸라는 끊임없이 살해 협박을 받고 목숨까지 위험해집니다. 뮤지컬은 드레퓌스의 무죄 선고를 4년 앞둔 1902년 졸라가 의문스러운 죽음을 맞이하는 것으로 막을 내립니다.&lt;br&gt;&lt;br&gt;뮤지컬은 에밀 졸라의 파란만장한 삶을 생의 마지막 시간들로 압축하고, 한 인간이 편견에 맞서는 고뇌는 다채로운 조명의 변화와 노래로 표현했습니다. 어느 시대든 차별과 편견은 넘쳐나요. 이에 맞서 진실의 편에 선다는 건 인생을 걸 정도로 위험한 일이 되기도 하지요. 하지만 언젠가는 진실이 밝혀지는 것을 보면, 에밀 졸라의 말처럼 진실은 전진하는 것 같습니다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재밌다, 이 책!] “우리는 모든 순간에 감정 느끼고 있어” 감정 없이 합리적 판단 내리기 어렵죠</title>
-      <link>https://www.chosun.com/national/nie/2024/06/17/EWBZNJDQCVGQ7DKNWFTTGJKEWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/17/EWBZNJDQCVGQ7DKNWFTTGJKEWQ/</guid>
-      <dc:creator>김미향 출판평론가·수필가</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QFLCW6YQNBEV7AHOMQEACQENHQ.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;감정의 철학 수업&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;겐카 도루 지음 l 박은주 옮김 l 출판사 필름 l 가격 1만6000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;‘감정’은 보통 부정적인 것으로 여겨지는 경우가 많아요. ‘그는 감정적인 사람이라 결정을 잘못 내릴 때가 많다’ ‘여러 감정들 때문에 머릿속이 혼란스럽다’처럼 말이죠. 한편 감정보다는 이성의 영역에 가까운 철학은 그동안 우리가 당연하게 받아들였던 것을 되돌아보게 만드는 힘이 있는데요. 저자는 철학적 관점에서 ‘감정’을 설명하며, 감정이 통상적으로 여겨져온 것처럼 부정적인 게 아니라고 얘기해줘요.&lt;br&gt;&lt;br&gt;저자는 감정과 관련해 철학적인 질문들을 던져요. 질문 중 특히 더 흥미로운 질문이 있어요. 바로 ‘감정과 이성은 대립하는 걸까?’입니다. ‘감정에 휘둘리지 말고 이성적으로 행동하라’거나 ‘이성으로 감정을 통제하라’는 말들은 감정이 이성보다 열등하고, 이성과 반대되는 것으로 여기는 생각이 바탕에 깔려 있어요. 하지만 저자는 감정 없이는 이성적일 수도 없다고 말해요. 감정을 배제하고는 합리적인 판단을 내릴 수 없다는 것이죠. 예컨대 ‘뱀은 맹독을 가졌고, 물릴 경우 위험하다’는 논리적 판단에 앞서 순간적으로 일어난 두려움의 감정이 뱀을 재빠르게 피할 수 있도록 해줍니다.&lt;br&gt;&lt;br&gt;슬픈 노래와 슬픈 감정에 대해서도 재미난 관점을 제시합니다. 우리는 슬픈 노래를 들으면 슬픈 감정이 생긴다고 생각하는데요. 저자는 슬픈 노래와 연결된 예전 기억이나 사건이 떠올라 슬퍼지는 거라고 설명해요. 같은 노래라도 그것이 불러일으키는 감정은 개인마다 다르게 느껴질 수 있다는 뜻입니다.&lt;br&gt;&lt;br&gt;저자는 “우리는 모든 순간에 감정을 느끼고 있다”고 말해요. 우연히 들어간 식당에서 먹은 음식이 맛있으면 행복해져요. 늦잠을 자면 지각을 하게 될까봐 초조해집니다. 이처럼 여러 상황에 감정이 동반됩니다. 때문에 감정은 우리의 생각과 행동, 다른 사람과의 관계에 큰 영향을 미칩니다. 감정에 관해 알고 있으면 자신의 생각과 행동을 어느 정도 관리할 수 있고, 타인과의 관계에서 어려움이 나타날 때도 보다 잘 대처할 수 있을 거예요.&lt;br&gt;&lt;br&gt;10대는 감정적으로 가장 예민할 때입니다. 방금 전까지는 행복했는데 갑자기 화가 나거나 슬픈 기분이 들기도 하고, 아무도 내 감정을 이해해주지 않는 것처럼 느껴지기도 하지요. 이는 청소년기가 정서적으로 급격한 성장이 이뤄지는 시기이기 때문이에요. 이 시기의 감정 변화는 정체성과 사회적 관계를 형성해나가는 과정으로 자연스러운 것입니다. 청소년기의 급격한 감정 변화를 어떻게 다스려야 할지 몰라 힘들어하는 학생이라면 이 책을 읽어보는 걸 추천해요. 감정을 더 잘 이해하고, 긍정적으로 바라보게 됨으로써 어른으로 성장하는 데 도움이 될 거예요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [식물 이야기] 열매에 물고기 일시적으로 마비시키는 성분… 시골에선 물고기 잡을 때 썼대요</title>
-      <link>https://www.chosun.com/national/nie/2024/06/17/OW3BGCSZRJDNVO4OTGAQBQUGFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/17/OW3BGCSZRJDNVO4OTGAQBQUGFU/</guid>
-      <dc:creator>김용식 전 천리포수목원 원장·영남대 조경학과 명예교수</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DVIQS6LOBFBXXBR2AXH2VBWUJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;때죽나무에 꽃이 핀 모습. /국립생물자원관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;때죽나무는 우리나라 숲 가장자리에서 아주 흔하게 보이는 나무입니다. 이맘때쯤 피우는 꽃의 향기가 아주 좋아요. 우리나라 이외에도 중국과 일본, 필리핀 등에서 때죽나무를 볼 수 있는데요. 우리나라에서 자라는 때죽나무가 세계에서 가장 우수한 것으로 취급된다고 해요. 꽃에서 달콤한 향이 아주 짙게 나고, 각종 공해와 병충해 그리고 추위에 강하기 때문이래요.&lt;br&gt;&lt;br&gt;때죽나무는 5~15m 높이까지 자라요. 계란 모양 또는 긴 타원형인 때죽나무 잎은 길이 2~8㎝, 너비 2~4㎝ 정도 크기입니다. 잎 가장자리는 밋밋하거나 톱니가 약간 있어요. 때죽나무는 5~6월에 종 모양의 흰색 꽃을 피웁니다. 나무 전체를 뒤덮을 정도로 풍성하게 꽃을 피워요. 때죽나무를 영어로는 ‘스노벨(Snowbell)’이라고 하는데요. 종(bell) 모양의 눈(snow) 같은 흰색 꽃 때문에 이런 이름이 붙여진 것으로 추정돼요.&lt;br&gt;&lt;br&gt;때죽나무 꽃과 쪽동백나무 꽃이 아주 비슷하게 생겨서 혼동하는 사람이 많은데요. 쪽동백나무 잎은 길이 7~20㎝, 너비 8~20㎝로 커서 잎의 크기로 비교하면 어느 것이 때죽나무이고 쪽동백나무인지 구별하기 쉬울 거예요.&lt;br&gt;&lt;br&gt;예로부터 때죽나무는 인간의 생활에 밀접한 나무였어요. 목재가 단단하면서도 탄력이 있어 목기나 지팡이, 장기알 등을 만드는 데 쓰였어요. 열매에는 ‘에고사포닌’이라는 성분이 들어 있는데, 이 성분이 물고기의 호흡을 일시적으로 마비시키는 효능이 있어 시골에서 물고기 잡을 때 이용하기도 했습니다. 물고기가 떼로 죽는다고 해서 때죽나무라 불렀다는 얘기도 있지요. 또 때죽나무 종자에는 기름 성분이 풍부해 종자에서 짜낸 기름을 등유나 머릿기름으로 사용했고, 꽃은 향수 원료 등에 쓰였다고 해요. 물이 귀했던 섬에서는 때죽나무 가지로 만든 띠를 타고 내린 빗물을 항아리에 받아놓고 식수로 사용했다고 해요. 이렇게 했을 때 보통의 물보다 더 오래 저장할 수 있을 뿐 아니라 물맛도 좋았다고 합니다.&lt;br&gt;&lt;br&gt;때죽나무는 햇빛이 잘 드는 곳뿐만 아니라 그늘이 진 곳에서도 잘 자라요. 또 추위와 공해 그리고 옮겨심기에도 강해서 도시의 공원에 조경수로 많은 사랑을 받고 있지요. 때죽나무는 병충해가 거의 없어요. 하지만 어린 가지 끝에 바나나 모양의 벌레혹이 생기기도 하는데요, 큰 문제는 아니라고 해요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 6월 17일</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/17/AR2VIQXEY5BJ7P2B3DUJ5QI6PM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/17/AR2VIQXEY5BJ7P2B3DUJ5QI6PM/</guid>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AWBMCZ7ZLJDJFIEHLXHRWJKSYY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>그알, 故구하라 금고 도둑 찾는다…”키 180cm에 면식범”</title>
@@ -837,28 +944,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CXDKYM7DKBF5ZF4EAMCBHYMYXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'나 혼자 산다' 박세리 집./MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박세리(47) 전 국가대표 골프팀 감독의 주택과 대지가 강제 경매에 넘어간 것으로 전해졌다.&lt;br&gt;&lt;br&gt;16일 여성동아에 따르면 법원이 박세리가 소유한 대전 유성구에 위치한 두 부동산에 대해 강제 경매 개시 결정을 내렸다.&lt;br&gt;&lt;br&gt;한 곳은 1785㎡ 규모 대지와 해당 대지에 건축된 주택과 차고, 업무시설 등이다. 이 주택엔 박세리 부모가 살고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;그 바로 옆에 위치한 박세리 소유의 539.4㎡ 규모 대지와 4층 건물도 경매에 나왔다. 이 건축물은 2019년 지어진 것으로, 2022년 5월 MBC ‘나 혼자 산다’에도 소개돼 화제를 모았다. 당시 박세리는 “4층 집은 직접 설계와 인테리어를 했다”며 “부모님 집 옆에 4층 건물을 지어 동생들과 함께 산다”고 말한 바 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GKESHDY6OC36MT3JFS2NS3OOPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박세리(46)전 국가대표 골프팀 감독/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;두 부동산은 2000년 박세리와 그의 부친이 절반씩 지분비율로 취득했으나, 2016년 13억원가량의 빚 문제로 경매에 넘어갔다. 해당 사건은 2017년 7월 취하됐고, 박세리는 같은 해 부친의 지분을 전부 인수했다.&lt;br&gt;&lt;br&gt;이후 2020년 또 다른 채권자가 나타나면서 강제 경매 개시 결정이 내려졌다. 박세리가 강제집행정지 신청을 제기했고, 법원이 이를 인용해 경매 집행은 정지된 상태다. 다만 소유권 이전 등기 말소 등 소송을 진행하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편 박세리희망재단 측에 따르면, 재단은 작년 9월 박세리 부친을 사문서위조 혐의로 대전 유성경찰서에 고소했다. 최근 경찰은 기소 의견으로 해당 사건을 검찰에 송치했다. 부친은 새만금에 국제골프학교를 설립하는 업체로부터 참여 제안을 받고 재단의 법인 도장을 몰래 제작해 사용한 것으로 전해졌다. 새만금 해양레저복합단지는 올해 10월 개장 예정이었지만, 박세리 부친의 위조문서 제출로 사업이 중단됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>오세훈 “의사들 집단행동 즉각 철회해야”</title>
-      <link>https://www.chosun.com/national/regional/seoul/2024/06/16/QF6NHKCZMFF4HJA76PRU3Z4MIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/06/16/QF6NHKCZMFF4HJA76PRU3Z4MIE/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 13:59:23 +0000</pubDate>
-      <content:encoded>오세훈 서울시장이 대한의사협회가 예고한 18일 전면 휴진을 앞두고 “집단행동 방침을 즉각 철회하고 환자 곁을 지켜달라”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2HA6UG4FPKTCBZVGUITUAHB2CQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오후 서울 서초구 연세 곰돌이 소아과 의원을 방문한 오세훈 서울시장/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 16일 자신의 페이스북에 올린 글에서 “서울 달빛어린이병원 중 하나를 다녀오는 길”이라며 “일요일 늦은 저녁인데도 환자들이 꽤 있었다”고 했다. 달빛어린이병원은 야간·휴일에 진료가 가능한 소아청소년과 의원으로 서울시는 현재 총 13곳을 운영하고 있다.&lt;br&gt;&lt;br&gt;이어 오 시장은 “늦은 저녁 아이가 갑자기 열이 나고 아플 때 긴급하게 갈 수 있는 소아과는 한 줄기 빛”이라며 “의료계 총파업이 예고된 상황에서도 아이들 진료만큼은 놓을 수 없다고 한 의사 선생님들께 진심으로 감사하다”고 했다.&lt;br&gt;&lt;br&gt;또 오 시장은 “지금 이 순간에도 병상에서 생사를 오가는 중증 환자들과 그 가족분들에게는 한 줄기 빛과 같은 의사 선생님들이 있다”며 “정부와 의료계는 하루빨리 테이블에 마주 앉아 대화의 끈을 놓지 말기를 바란다”고 썼다.&lt;br&gt;&lt;br&gt;서울대 의대·서울대병원 교수들은 17일부터 무기한 휴진에 돌입한다고 밝힌 상태다. 대한의사협회 등 의료계는 18일 하루 휴진을 예고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>지하주차장서 女운전자 흉기 위협… 900만원 뺏은 30대男</title>
-      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2024/06/16/ERIPBX3WPVFUPKKRHUB4CC3BAE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2024/06/16/ERIPBX3WPVFUPKKRHUB4CC3BAE/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 13:34:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUPAQBO77A5XY7C36PYWS5AR4Q.gif"&gt;&lt;figcaption&gt;&lt;small&gt;인천미추홀경찰서 전경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 상가건물 지하주차장에서 여성을 흉기로 위협해 납치한 후 금품을 빼앗아 달아난 30대 남성이 나흘만에 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;인천 미추홀경찰서는 특수강도 혐의로 A(30대)씨를 긴급 체포해 조사하고 있다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 12일 오후 8시 56분쯤 인천시 미추홀구 주안동 한 상가건물 지하주차장에서 B(여·30대)씨를 흉기로 위협해 납치한 뒤 900여만원을 빼앗아 달아난 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 A씨는 지하주차장 기둥 뒤에 숨어있다가 B씨가 자신의 차량에 탑승하자 조수석 문을 강제로 열고 침입해 흉기로 위협했다.&lt;br&gt;&lt;br&gt;이후 B씨를 결박해 뒷좌석에서 태운 A씨는 차량을 운전해 여러 현금자동인출기(ATM)을 돌며 B씨의 신용카드로 현금을 인출했다.&lt;br&gt;&lt;br&gt;1시간 정도 차 안에 갇혀있던 B씨는 감시가 소홀한 틈을 타 차량을 빠져나왔고, 이후 경찰에 “모르는 남자에게 납치를 당했다”며 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;신고 이후 수사전담팀을 편성한 경찰은 방범카메라(CCTV) 분석 등을 통해 범행 발생 나흘 만인 16일 오후 7시 24분쯤 인천시 부평구 한 길거리에서 A씨를 긴급 체포했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨를 상대로 구체적인 범행 경위를 조사하고 있다”면서 “조사를 마치는 대로 A씨에 대해 구속영장을 신청할 계획이다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MUPAQBO77A5XY7C36PYWS5AR4Q.gif?width=700&amp;height=352&amp;auth=20caa91f1c004c5d3a438db2b076731ac485fadff046e2de2c9c7693f4bccbfd&amp;smart=true" type="image/jpeg" height="352" width="700">
-        <media:description type="plain">인천미추홀경찰서 전경</media:description>
-        <media:credit role="author" scheme="urn:ebu">인천미추홀경찰서</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>“2~3배 더 연습”... 일반인 콩쿠르에서 자폐 피아니스트가 대상</title>
       <link>https://www.chosun.com/national/people/2024/06/16/QUK4TBX5IRA7PEVL43GQBNKUUQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/16/QUK4TBX5IRA7PEVL43GQBNKUUQ/</guid>
@@ -866,90 +951,6 @@
       <description/>
       <pubDate>Sun, 16 Jun 2024 13:28:19 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AILZTCOY2BDWTN6OIIYLQSP2AI.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 12월 서울 광진구 세종대 학생회관에서 피아노를 연주하는 신주용씨./이기주씨 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 6일 서울 서초구 서초동 모차르트홀에서 제4회 글로벌아츠 국제 피아노 콩쿠르가 열렸다. 헝가리 작곡가 프란츠 리스트(1811~1886)의 ‘타란텔라(Tarantella)’가 울려 퍼졌다. 8분의 6박자 춤곡에서 4·3·2번 손가락을 바꿔가며 초고속 연타(連打)를 해야 해 ‘극악 난도’로 유명한 이 곡의 연주자는 중증(발달장애 2급) 자폐 피아니스트 신주용(23)씨였다.&lt;br&gt;&lt;br&gt;8명이 경쟁한 일반부에서 신씨는 대상을 받았다. 비장애인 7명과 경쟁해 얻어낸 성과다. 대상 발표에 신씨는 어머니 이기주(53)씨를 껴안고 울었다. 어머니 이씨는 “일반인과의 경쟁에서 대상을 받은 것은 처음”이라고 했다. 이 콩쿠르는 올해가 4회로 역사가 짧다. 신씨를 제외한 수상자 전원이 중국인이었다. 신씨를 지도하는 안소연(59) 교수는 “다른 콩쿠르에서도 장애인이 대상을 받은 건 거의 없었던 것으로 안다”며 “‘피아노의 왕’이라고 불린 리스트의 어려운 곡을 마치 로봇처럼 정확히 연주하는 모습에 수상을 직감했다”고 했다.&lt;br&gt;&lt;br&gt;2001년 8개월 미숙아로 태어난 신씨는 두 살 때 자폐 판정을 받았다. 쉬운 동시(童詩) 하나 외우지 못하고, 행동도 어눌했다. 자폐 치료를 위해 여덟 살 때부터 음악 치료를 했다. 어린 신씨는 ‘음악 치료 받으러 가자’는 말에만 반응할 정도로 피아노에 관심을 가졌다. 이씨는 “당시 음악 치료 선생님이 ‘소질을 발견한 것 같다’며 꾸준한 피아노 연습을 추천한 것이 지금까지 이어졌다”고 했다.&lt;br&gt;&lt;br&gt;신씨는 2020년 세종대 미래교육원(음악학 전공)에 입학했다. 매주 금요일마다 안소연 교수에게 피아노 수업을 받는다. 안 교수는 “일반 학생들보다 2~3배는 열심히 연습해 일반인이 한 달 걸리는 악보 암기를 일주일 만에 해낸다”고 했다. 신씨는 수상 소감을 묻는 본지 질문에 “자폐가 있다고 일반인보다 뒤떨어진다는 것은 편견이라고 생각한다”며 “제 콩쿠르 대상으로 ‘편견이 없는 세상’이 됐으면 한다”고 했다. 어머니 이씨도 “이번 수상을 계기로 앞으로도 피아니스트의 꿈을 갖고 열심히 노력할 수 있도록 옆에서 열심히 도울 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>주말 설악산 산악사고 잇따라… 1명 사망·3명 부상</title>
-      <link>https://www.chosun.com/national/regional/gangwon/2024/06/16/6AE4RIZ5INF6XIJIBYH4VJ27FI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2024/06/16/6AE4RIZ5INF6XIJIBYH4VJ27FI/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 13:20:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/24DRAZ2UR6ORATIZTGJI6OWUA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헬기를 이용한 산악구조훈련 모습.(사진인 기사와 직접적인 관련 없음)/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말인 16일 설악산국립공원에서 산악사고 등이 잇따라 발생해 1명이 숨지고 3명이 다쳤다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면 이날 오전 11시 36분쯤 강원 인제군 설악산 봉정암에서 홀로 산행을 하던 A(61)씨가 심정지 증세로 쓰러졌다. A씨는 다른 등산객의 신고로 출동한 소방헬기에 의해 병원으로 옮겼지만 숨졌다. A씨는 국립공원관리공단에서 근무하는 직원으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 오전 8시25분쯤과 10시 24분쯤에는 영시암과 곰배령에서 각각 등산 중이던 60대 여성 2명이 넘어져 무릎을 다치거나 발목이 부러지는 부상을 입고 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;또 오후 1시59분쯤에는 인제군 1275봉에서 30대 등산객이 낙상으로 무릎과 얼굴을 다쳐 병원으로 옮겨져 치료를 받았다.&lt;br&gt;&lt;br&gt;소방당국 관계자는 “가파른 경사가 많은 등산에서는 항상 미끄러짐과 넘어짐에 주의해야 한다”면서 “충분히 휴식을 취하고 무리한 산행은 피해야 안전사고를 예방할 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/24DRAZ2UR6ORATIZTGJI6OWUA4.jpg?width=720&amp;height=1041&amp;auth=d04e76b6b28797d95d043276688c502ec5a0e8fa35417a1728a24872bc7611ed&amp;smart=true" type="image/jpeg" height="1041" width="720">
-        <media:description type="plain">헬기를 이용한 산악구조훈련</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>CCTV 사각지대서... 외국인 여직원들 껴안고 만진 공장 관리자</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/16/LMU2QHMBFBABBPMXB373OK2HBA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/16/LMU2QHMBFBABBPMXB373OK2HBA/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 12:54:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ZQRHFMJQRHIJLLW25DSNTXL2A.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;공장 관리자가 외국인 여직원을 뒤에서 껴안는 모습./JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 중소기업 공장의 공장 관리자가 외국인 여직원들을 상대로 엉덩이를 만지는 등 상습적으로 성추행을 한 것으로 드러났다.&lt;br&gt;&lt;br&gt;지난 14일 JTBC 사건반장은 해당 중소기업에 다니던 A씨가 제보한 성추행 장면이 담긴 영상을 공개했다. 해당 사건은 2022년 발생한 것으로, A씨는 외국인 여직원들에게 피해가 가지 않도록 하기 위해 이들이 고국으로 돌아갈 때까지 기다린 후 2년 만에 영상을 제보했다고 한다.&lt;br&gt;&lt;br&gt;공개된 영상을 보면, 50대 공장 관리자 B씨가 한 외국인 여직원을 뒤에서 끌어안았다. 그리고는 허리에 손을 얹거나 엉덩이를 쳤다. 그는 다른 직원에게도 다가가 백허그를 하면서 팔을 만지고, 여직원의 목에 자신의 어깨를 휘감기도 했다.&lt;br&gt;&lt;br&gt;A씨는 “피해자들은 20~50대까지 다양했다”며 “가장 어리고 불법체류자 신분이었던 베트남 여성이 주로 당했다”고 했다. A씨는 5~6개월간 성추행 당하는 모습을 직접 목격했고, 피해자들의 동의를 얻은 후 영상을 촬영했다고 한다.&lt;br&gt;&lt;br&gt;공장 곳곳에는 CCTV가 있었지만, B씨가 베트남 직원을 사각지대에 배치해 일을 시켰다고 한다. 피해자들은 불법체류자 신분이었기 때문에 사건이 커질 경우 추방될 것을 두려워해 성추행을 당하고도 신고를 하지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 “베트남 여성 분 같은 경우엔 처음에 되게 싫어했다. 제가 소리 질러라! 하지 마라! 이런 식으로 얘기를 하라고 했는데 (관리자가) 영 들어먹지도 않고 나중에 회사에 보고하다 보니까 경찰 개입하고 하면 무섭지 않겠나. 이 분은 추방 당할까봐”라며 “그때 이후로는 하지 말자고 했다. 자기 괜찮다고 참을 수 있다더라”고 말했다.&lt;br&gt;&lt;br&gt;B씨는 사건이 알려진 후 감봉 3개월 징계를 받은 것으로 전해졌다. 회사 측에 따르면 그는 격려 차원에서 토닥이고 안아줬을 뿐이라며 성추행 사실을 부인했다. B씨는 여전히 근무하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘몽골의 슈바이처’ 이태준 기념관, 울란바토르에 세운다</title>
-      <link>https://www.chosun.com/politics/diplomacy-defense/2024/06/16/LXAQAJQHMJHYRMMETMYAVE6N44/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/diplomacy-defense/2024/06/16/LXAQAJQHMJHYRMMETMYAVE6N44/</guid>
-      <dc:creator>양지호 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 11:43:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KSDPEFEAYNCRNKGV7LG7IWK2BQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대암 이태준 지사.(국가보훈부 제공)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의사 출신 독립운동가로 몽골에서 ‘한국의 슈바이처’로 존경받던 이태준 지사의 기념관이 몽골 수도 울란바토르에 우리 정부 예산으로 건립된다.&lt;br&gt;&lt;br&gt;국가보훈부는 총사업비 19억6000만원을 들여 지하 1층, 지상 2층 규모의 이태준기념관을 올해 말 완공을 목표로 건립하고 있다고 16일 밝혔다. 보훈부는 공사가 마무리되면 전문가 자문과 전시 콘텐츠 제작 등을 거쳐 광복 80주년인 내년 상반기에 기념관을 개관할 예정이다.&lt;br&gt;&lt;br&gt;보훈부는 “이태준 선생은 몽골에서 각지의 애국지사들과 연계해 독립운동을 전개한 애국지사로, 몽골에서는 ‘한국의 슈바이처’로 불리며 한·몽 우호 관계의 상징으로 여겨지는 인물”이라고 했다. 그러면서 “몽골 유일의 대한민국 독립운동 사적지인 이태준 기념공원 부지 내에 이태준기념관 신축을 통해 한·몽 관계를 더욱 공고히 하고 이태준 선생의 애국정신을 널리 알리는 계기가 될 수 있도록 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DS2BWD2VGZAATLLF7MLKCNRWPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;현재 기존 기념관은 철거, 임시 기념관이 설치 되어있다./대암 이태준선생 기념사업회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울란바토르에는 이 지사를 기념하는 민간 기념관이 있었지만 작고 낡아 새 기념관 건립에 대한 목소리가 높았다고 한다. 2000년 몽골 정부가 제공한 2200평 남짓 부지에 이 지사의 모교 격인 연세의료원이 2001년 기념공원을 만들었고, 이곳에 2010년에는 주몽골 한국대사관 주도로 기념관을 세웠다. 하지만 기념관이 약 20㎡(6평) 규모로 협소했다. 새 기념관은 기념공원 내에 건립된다.&lt;br&gt;&lt;br&gt;이 지사는 1883년 경남 함안군 군북면에서 출생해 1907년 세브란스 의학교에 입학했다. 재학 중 안창호 선생의 권유로 비밀 청년 단체인 청년학우회에 가담했다. 1911년 중국 난징으로 망명해 1912년 중국 기독회 의원에서 의사로 일하다가 1914년 몽골로 이주, ‘동의의국(同義醫局)’이라는 병원을 차렸다.&lt;br&gt;&lt;br&gt;당시 몽골인 대다수가 감염된 화류병(花柳病·성병)을 치료하면서 몽골인들에게 ‘까우리(고려) 의사’ ‘극락세계에서 강림한 여래불’이라고 불렸다. 몽골 마지막 황제였던 보그드 칸의 주치의가 됐다. 1919년 몽골로부터 귀중한 금강석이라는 뜻을 가진 ‘에르데니 인 오치르’라는 명칭의 최고 훈장을 받았다.&lt;br&gt;&lt;br&gt;이 지사는 1918년 9월 김규식에게 파리강화회의 참가 여비를 주는 등 항일 운동에 계속 참여했다. 1921년 몽골에 진주한 러시아 세력에 피살되며 생을 마감했다. 정부는 지사의 공적을 기려 1990년 대한민국 건국훈장 애족장을 추서했고 2017년 위패를 국립서울현충원에 모셨다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“사진 너무 이상해”…밀양 가해자, 폭로 유튜버에 연락한 이유 알고보니</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/16/M37LZ6PYOZH57HWBIXV6OVBUHY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/16/M37LZ6PYOZH57HWBIXV6OVBUHY/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 09:45:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/26ARUDJCUGXWBQAZ3CWAAIMIUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘밀양 여중생 집단 성폭행 사건’ 가해자 중 한 명이 유튜브 채널 ‘나락보관소’가 올린 영상에 나온 자신의 사진이 이상하다며 해당 채널 운영자에게 메일을 보낸 것으로 드러났다. /유튜브 채널 '나락보관소'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘밀양 여중생 집단 성폭행 사건’ 가해자 중 한 명이 유튜브 채널 ‘나락보관소’가 올린 영상에 나온 자신의 사진이 이상하다며 해당 채널 운영자에게 메일을 보낸 것으로 드러났다.&lt;br&gt;&lt;br&gt;지난 15일 유튜브 채널 ‘나락보관소’의 운영자 A씨는 CBS와의 인터뷰에서 ‘가해자들의 신상을 공개하며 협박이나 연락을 받은 적은 없었냐’는 질문에 이같이 답했다. 지난 1일 밀양 여중생 집단 성폭행 사건 가해자 신상을 처음으로 공개한 A씨는 현재 구독자 50만 명을 보유하고 있다.&lt;br&gt;&lt;br&gt;A씨는 “협박 수준의 연락을 받은 건 없었다. 다만 가해자 신상 공개 영상에 그 사람 사진을 하나 올렸는데 메일에서 ‘인간적으로 사진이 너무 이상하다’고 지적을 했다”면서 “한 마디로 ‘이왕이면 잘 나온 사진으로 써달라’는 메세지로 들리지 않나. 진짜 어처구니 없었다”고 했다.&lt;br&gt;&lt;br&gt;가해자들의 신상을 공개한 이유에 대해 A씨는 “어릴 때부터 미제 사건 등 사회적 이슈에 관심이 많았다”며 “올해 3월에 유튜브 채널을 만들고 나서 밀양 사건을 다루기 전에 사실 ‘거제 전 여친 폭행 사망’ 사건을 다뤘다. 이후 구독자들의 반응이 뜨거웠다. 밀양 사건도 관심 있게 지켜보며 자료를 모아놓고 있었는데 제보가 들어와서 시작했다”고 말했다.&lt;br&gt;&lt;br&gt;피해자 측의 동의 없이 영상을 공개한 것에 대해선 “피해자분과 사전 협의가 없었던 것이 맞다”면서 “이점 피해자분께 진심으로 사죄드린다”고 했다. 그는 “영상을 올린 후 피해자의 남동생분이 제게 주신 메일로 인해 오해가 있었지만, 피해자 측과 사전 협의는 없었다”고 설명했다.&lt;br&gt;&lt;br&gt;사건과 관련 없는 사람이 피해를 입은 것과 관련해서는 “검증 소홀로 인한 저의 잘못”이라며 “네일숍 사장님을 밀양 사건 가해자의 여자친구라고 제가 오인하면서 발생한 일”이라고 사과했다. 이어 “피해자분이 선처를 베풀어 주셔서 현재는 피해자와 합의를 했고, 양측 변호사가 조율해서 고소 취하하기로 했다”고 부연했다.&lt;br&gt;&lt;br&gt;결국 수익을 얻기 위해 영상을 올린 것 아니냐는 질문에는 “솔직히 그걸 부정할 순 없을 것 같다”면서도 “막상 사건을 파헤치면서 감정 이입이 되기도 했다. ‘진짜 가해자들이 피해자분들께 한 번이라도 진심 어린 사과를 하는 모습을 보고 싶다’는 게 처음 내 생각이었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “현재 ‘사이버 렉카들’을 보면 제가 처음 시작했던 그런 취지에서 많이 엇나가고 있는 것 같아서 많이 아쉽다”면서도 “개인적으로 가해자들에 대한 합당한 형벌, 국가의 처벌이 강해지면 지금 난무하는 이런 사적 제재 유튜브 영상이 이렇게 인기를 끌 가능성은 낮다고 본다”고 전했다.&lt;br&gt;&lt;br&gt;그러면서 그는 “저는 지금 가해자들을 포함해 여러 사람들로부터 명예훼손 등으로 8~9건의 고소‧고발을 당한 상태”라면서 “이번 신상 공개 영상을 만들면서 가장 크게 느낀 점이 있다면 이 가해자들은 정말 나쁜 사람들이란 것이다. 피해자분들 말씀처럼 이번 사건이 반짝 이슈로 끝나지 않았으면 좋겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경북도, ‘지역 비하 논란’ 유튜브 영상 맞서 영양군 매력 알린다</title>
-      <link>https://www.chosun.com/national/incident/2024/06/16/DZRRFNLMJBBQNFWN6Y64WOWBOM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/16/DZRRFNLMJBBQNFWN6Y64WOWBOM/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 09:08:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D4R4LKKO433O4RKJTP7F4IEJ4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영양 가득 힐링 여행 동영상 한 장면/경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북도가 영양군의 먹거리와 관광지 등을 소개하는 유튜브 콘텐츠를 선보다. 최근 불거진 유튜브 채널 ‘피식대학’의 영양군 비하 논란에 맞서 영양군의 매력을 다시 알리겠다는 목표다.&lt;br&gt;&lt;br&gt;16일 경북도 공식 유튜브 채널 ‘보이소 TV’에 올라온 ‘느리게 걷다보면 보이는 것들, 영양 여행 1편’은 조회수 1만 3000여회를 기록했다. 지난 13일 업로드 된 이 영상엔 ‘영양 가득 힐링 여행’을 주제로 조선 3대 민가 정원 중 한 곳인 서석지(瑞石池)를 비롯해 선바위와 남이포, 별이 가득한 밤하늘을 볼 수 있는 영양국제밤하늘보호공원 등 영양의 관광지가 주로 담겼다. 영상에는 “서석지 분위기가 예쁘다” “올해 여름 휴가는 영양으로 가야겠다” 등 댓글 160여개가 달렸다.&lt;br&gt;&lt;br&gt;이 영상은 경북도와 영양군이 협력해 만든 ‘영양 가득’ 시리즈 중 1편이다. 지난 5월 유튜브 채널 ‘피식대학’이 영양군을 소개한 영상에서 영양을 비하·폄하하는 발언으로 논란이 되면서 이를 극복하겠다는 취지로 지자체가 직접 소개 영상을 만들었다.&lt;br&gt;&lt;br&gt;당시 피식대학 출연진인 개그맨 김민수, 이용주, 정재형은 영양군을 돌아다니며 “(물이)똥물이네”, “여기 중국 아니냐” “젤리가 할매 맛이다. 내가 할머니 살을 뜯는 것 같다” “(내가)공무원인데 여기 발령 받으면…여기까지 하겠다” 등 발언을 이어가 비판을 받았다. 이후 피식대학 측은 사과문을 올리고 영상을 비공개 처리했으나, 지난 5월 318만 명이던 구독자 수가 16일 현재 295만 명으로 줄어들었다.&lt;br&gt;&lt;br&gt;도는 이 ‘유튜브 영상 반격’을 계속 이어갈 계획이다. 현재 영양 가득 시리즈 2편이자 영양군의 먹거리를 소개하는 ‘영양 가득 미식여행’을 촬영 중이다. 이 ‘2편’은 조만간 공개 예정이다. 도는 또 영양군 외에 도내 다른 시군에 대한 홍보 영상도 차례로 제작될 계획이다.&lt;br&gt;&lt;br&gt;임대성 경북도 대변인은 “자극적인 콘텐츠로 구독자와 조회수를 늘리려는 유튜버들이 지역을 비하하는 사례가 늘고 있다”며 “왜곡된 지역 콘텐츠 대응을 위한 제도적 체계를 만들겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울광장 ‘핼러윈 참사 분향소’ 499일 만에 이전</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/16/RAJDZPDJMBBIPM6TLM33J5MQKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/16/RAJDZPDJMBBIPM6TLM33J5MQKQ/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 09:24:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEMRCJGGV5NS7OD5SEY3FNZOYI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오후 서울 중구 을지로1가 부림빌딩에 마련된 10·29 이태원 참사 기억·소통공간 '별들의 집'에서 유가족들이 영정을 보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 중구 서울광장에 설치된 ‘핼러윈 참사 희생자 합동 분향소’가 16일 서울시청 인근 부림빌딩 1층으로 이전했다. 작년 2월 유가족 측이 서울광장에 분향소를 설치한 이후 499일 만이다.&lt;br&gt;&lt;br&gt;새로운 분향소는 서울시청 인근 을지로1가 부림빌딩 1층에 ‘별들의 집’이라는 이름으로 마련됐다. 11월 2일까지 ‘임시 기억 공간’으로 사용될 예정이다. 별들의 집에는 핼러윈 참사 희생자들의 사진과 참사 당일의 기록 등이 전시돼 있다.&lt;br&gt;&lt;br&gt;앞서 이날 서울광장에서는 오후 1시쯤부터 합동 분향소 운영 종료식이 열렸다. 핼러윈 참사 유가족 90여명과 우원식 국회의장, 야당 국회의원들이 참석했다. 운영 종료식에서는 추모 의식, 묵념, 헌화 등이 진행됐다.&lt;br&gt;&lt;br&gt;종료식을 마친 유가족들은 희생자들의 영정을 받아 들고 새로운 분향소가 들어선 부림빌딩까지 행진했다.&lt;br&gt;&lt;br&gt;서울광장 분향소는 작년 2월 설치됐다. 당시 서울시는 용산구 녹사평역 지하 4층에 추모 공간 설치를 제안했지만, 유가족 측은 “지하는 분향소로 적절하지 않다”며 참사 100일 추모대회를 위해 세종대로로 행진을 하던 중 예고 없이 서울광장에 멈춰 분향소를 설치했다.&lt;br&gt;&lt;br&gt;작년 10월에는 서울시와 유가족 측이 합의해 서울광장에서 참사 1주기 시민 추모대회를 열었고, 유가족 측도 불법 점용 변상금 2900만원을 납부하면서 대화에 물꼬가 트였다. 서울시와 유가족 측은 50차례 넘는 대화 끝에 지난 5일 분향소 이전에 합의했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>의정 갈등에 간호사 ‘불똥’… 경영난에 상반기 채용 대학병원 1곳뿐</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/06/16/APDNR2LL2JGIZAVAFBIXSQAOKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/16/APDNR2LL2JGIZAVAFBIXSQAOKY/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 06:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QHE3JOTBEALYMJ6NTCYX3EFJA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 서구 부산대병원 간호사가 간호사실을 정리하는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전공의 이탈로 인한 의료 공백으로 경영난에 빠진 대형 병원들이 올해 신규 간호사 채용을 잠정 중단한 것으로 나타났다.&lt;br&gt;&lt;br&gt;16일 정부와 의료계에 따르면 올해 신규 간호사를 채용하겠다고 밝힌 대학 병원은 상반기에 중앙대병원, 하반기에 원광대병원 뿐이다. 빅5 병원(서울대·서울아산·세브란스·삼성서울·서울성모)은 그동안 거의 매년 세 자릿수 규모의 신규 간호사 채용을 해왔지만, 올해는 연내 채용이 가능할지도 미지수다. 지난 2월 간호사 국가고시 합격자 발표가 있었지만, 그 직후 전공의 사태가 터지면서 수개월간 병원 경영이 급속히 악화되자 간호사 채용도 끊긴 것이다.&lt;br&gt;&lt;br&gt;당초 7월 상급 종합병원 18곳이 동시에 간호사 최종 면접을 보도록 하겠다던 정부의 계획도 무산된 상태다. 복지부 관계자는 “대형 병원들이 기존 간호사들도 무급 휴직을 보낼 정도로 사정이 나빠져서 신규 간호사 채용을 계획하기 어려운 상황”이라며 “상반기에 신규 간호사를 채용하지 않은 병원들이 하반기에 채용 공고를 낼 수 있을지 알 수 없다”고 했다. 정부는 하반기에 간호사를 채용하는 병원들을 모아서 10월에 공고를 내도록 한다는 방침이지만, 경영난을 겪는 병원들이 얼마나 응할지는 미지수다. 간호협회에 따르면 간호대 4학년을 대상으로 하는 내년도 채용 공고 역시 올라오지 않고 있다.&lt;br&gt;&lt;br&gt;간호대에서는 재학생들의 휴학이 이어지면서 향후 취업에도 악영향을 미칠 수 있다는 전망이 나온다. 졸업 예정자만을 대상으로 하는 신규 채용에 지원하기 위해 고학년들이 졸업을 늦출 경우 저학년들의 취업 경쟁률도 올라갈 수 있다. 간호대생들이 모인 온라인 커뮤니티에는 ‘역대급 불취업(어려운 취업)’ ‘이러려고 4년 열심히 공부했나’ 등 반발이 담긴 글이 올라왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>무허가 건물주 “재개발 아파트 2채 달라”… 법원 “분양 대상 안 돼”</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/16/SEEBS3W5NNDHRDR3KSFN5FNPHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/16/SEEBS3W5NNDHRDR3KSFN5FNPHI/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 05:07:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OA6LD72BPRHDNCJTNXZ53D7B2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울가정법원·서울행정법원 청사. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한남동 재개발 지역의 한 조합원이 자신이 소유한 무허가 건물을 근거로 아파트 한 채를 더 분양해달라고 소송을 냈지만 패소했다. &lt;br&gt;&lt;br&gt;서울행정법원 행정2부(재판장 고은설)는 무허가 건물주 김모씨가 서울 한남3구역 재개발 조합을 상대로 낸 관리처분계획 총회결의무효확인 소송을 기각했다고 16일 밝혔다. &lt;br&gt;&lt;br&gt;김씨는 한남동 재개발 지역에 토지와 3층짜리 무허가건축물의 소유자다. 김씨는 2021년 조합이 주택재개발정비사업에 들어가자 아파트를 2채 분양해달라고 조합에 신청했다. 김씨가 살고 있는 무허가건물 각 층의 면적을 더하면 2개 주택을 분양받을 자격이 된다는 게 이유다. 구 도시정비법은 주택의 ‘주거전용면적’을 기준으로 분양권을 결정한다.&lt;br&gt;&lt;br&gt;하지만 조합은 2022년 7월 “김씨는 무허가건축물을 소유하고 있기 때문에 주거전용면적을 확인할 수 없어 2주택 공급대상자에서 제외된다”며 김씨에게 1개 주택(84㎡)만을 분양하는 관리처분계획 수립·인가했다. 김씨는 “무허가건물 소유자도 분양대상자 지위에 있고 구 도시정비법상 분양신청 기준을 충족했으므로 2주택 분양대상자에 해당한다”며 행정소송을 제기했다.&lt;br&gt;&lt;br&gt;법원은 김씨가 무허가건물을 근거로 아파트 2채에 대한 분양권을 요구할 수 없다고 판단했다. 재판부는 “서울시 조례가 주거용 무허가건물의 소유자를 분양대상자로 포함하는 예외적인 이유는, 삶의 터전을 상실할 우려가 있는 사람들의 주거권을 보장하기 위해서”라며 “이 취지와 관련이 없는 경우에는 해당 규정을 확대 적용할 수 없다”며 김씨의 청구를 기각했다. 즉, 법원은 김씨가 재개발 지역의 토지 소유자로서 이미 아파트 1채에 대한 분양권을 받아 주거권이 보장됐기 때문에, 소유한 무허가건물을 활용해 1채를 추가로 요구할 수 없다고 본 것이다.&lt;br&gt;&lt;br&gt;이어 “무허가 건축물 소유자가 재개발사업에 따른 이익을 향유하게 하는 건 위법한 행위를 한 자가 이익을 받게 되는 것”이라며 “재개발 사업의 원활한 시행과 무분별한 무허가주택의 난립을 규제할 필요성을 고려할 때 무허가건물 소유자에겐 조합원의 자격이 부여되지 않는 게 원칙”이라고 지적했다. 또 “종전 건축물의 가격 산정을 위해 건축물 관리대장이 존재하지 않는 무허가건축물에 대해서는 재산세 과세대장, 측량성과가 그대로 주거전용면적의 산정 기준이 된다고 볼 근거가 부족하다”고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>의협 “증원 재논의 안하면 18일 집단 휴진, 오늘 밤까지 답 달라”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/06/16/6Q2ICS4GR5CXHKSEEDJASOQ3RI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/16/6Q2ICS4GR5CXHKSEEDJASOQ3RI/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Jun 2024 04:02:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3AQEJEYRSK7XTYAAVGOVKQ7VCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한의사협회(의협)가 전면 휴진을 예고한 오는 18일을 앞두고 의료계 균열이 감지된다. 임현택 대한의사협회(의협) 회장이 지난 9일 오후 서울 용산구 대한의사협회에서 열린 전국의사대표자대회에서 투쟁을 선포하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 18일 대한의사협회(의협) 차원의 하루 전면 휴진(총파업)을 이틀 앞두고, 의협이 정부 측에 의대 증원 등을 재논의하지 않으면 예정대로 집단 휴진에 들어가겠다고 16일 밝혔다. 의협은 정부를 향해 이날 오후 11시까지 답해달라고 요청했다.&lt;br&gt;&lt;br&gt;의협은 의대 증원안을 재논의하고, 필수 의료 패키지 정책의 쟁점 사안을 수정·보완할 것을 요구했다. 전공의 의대생 관련 모든 행정명령과 처분을 즉각 소급 취소하고 사법 처리 위협을 중단해달라고도 했다.&lt;br&gt;&lt;br&gt;의협은 “(이러한) 요구가 받아들여질 경우, 오는 17일 전체 회원 투표를 통해 ‘전면 휴진 보류’에 대해 결정한다”며 “받아들여지지 않을 경우, 18일 전국적으로 집단 휴진을 진행하며 이후 무기한 휴진을 포함한 전면적인 투쟁에 들어간다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보] “폭발물 의심돼”...부산 2호선 도시철도 운행 중단</title>
