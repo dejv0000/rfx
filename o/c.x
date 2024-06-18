@@ -13,6 +13,118 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>엄마와 단칸방 살던 배달 알바생, 불법유턴 택시에 숨졌다</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/18/7BRNYKYDGFB3JLR47AB7ZFLEJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/18/7BRNYKYDGFB3JLR47AB7ZFLEJI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 18 Jun 2024 13:24:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TBCRQPKMN5EDJDBY4KZDEDYVPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최태훈씨 빈소 모습. /JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;단칸방에서 어머니를 모시고 살던 20대 청년이 배달 아르바이트를 하다가 불법유턴을 한 택시에 치여 사망했다는 사연이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;17일 JTBC 보도 등에 따르면 지난 5월 23일 밤 강원 춘천시의 한 도로에서 오토바이로 배달 아르바이트를 하던 최태훈씨(22·남)가 불법유턴을 하던 택시와 충돌했다. 최씨는 사고 직후 병원으로 옮겨졌으나 나흘 뒤 숨졌다.&lt;br&gt;&lt;br&gt;최씨는 50대 어머니, 4살 위 형과 단칸방에서 살았다. 최씨의 부모는 최씨가 8살 때 이혼했고, 형제는 친척집과 보육원을 전전하다 어렵게 어머니와 함께 살게 됐다. 최씨는 어머니를 잘 모시고 싶어 성인이 되자마자 돈을 벌기 시작했다고 한다.&lt;br&gt;&lt;br&gt;군대에 다녀온 최씨는 지난해 작은 회사에 취업했지만 월급이 제대로 나오지 않아 지난 2월 말 그만뒀고, 최근 다른 직장을 구했다. 최씨는 새 직장에 출근하기 전 짧은 기간 단칸방 월세를 낼 돈을 벌기 위해 배달 일에 나섰다가 사고를 당했다고 한다.&lt;br&gt;&lt;br&gt;최씨의 유족은 택시 기사가 사고 이후 사과 한 번 하지 않았다고 주장하며 엄벌을 촉구했다.&lt;br&gt;&lt;br&gt;경찰은 택시 기사를 교통사고 처리 특례법 위반 혐의로 불구속 입건하고 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한국 학생들 ‘창의력’은 세계 2등, ‘자신감’은 평균 이하</title>
+      <link>https://www.chosun.com/national/education/2024/06/18/XKC57FBPLNG7LHKMB37THRGLPM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/06/18/XKC57FBPLNG7LHKMB37THRGLPM/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 18 Jun 2024 12:13:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WULCD7G3DJJXPJX4WZL3G5HVWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 교육부에 따르면 '국제 학업성취도 평가(PISA) 2022' 혁신적 영역 평가 분석 결과 우리나라 학생들은 60점 만점에 평균 38점을 획득했다. 조사 대상국 중 싱가포르(평균 41점)에 이어 두 번째로 높았고 캐나다(38점)와 같았다. 이번 평가에 참여한 OECD 회원 28개국 중 가장 높은 것이다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경제협력개발기구(OECD)가 주관하는 국제 학업 성취도 평가(PISA)에서 우리나라 학생들의 ‘창의적 사고력’이 세계 64국 가운데 2위를 기록했다. 하지만 학생들이 창의적인 문제 해결에 얼마나 자신감을 갖고 있는지를 뜻하는 ‘자아 효능감’은 64국 중 49위로 조사됐다.&lt;br&gt;&lt;br&gt;교육부와 한국교육과정평가원은 18일 이 같은 내용을 담은 ‘PISA 창의적 사고력 평가 결과’를 발표했다. 이 조사는 OECD 회원국(총 38국) 가운데 28국을 포함한 세계 64국의 만 15세 학생을 대상으로 이뤄졌다. 우리나라는 60점 만점에 38점을 기록, 64국 가운데 싱가포르(41점)에 이은 2위였다. 이어 캐나다, 호주, 뉴질랜드, 에스토니아, 핀란드 순이었다.&lt;br&gt;&lt;br&gt;창의적 사고력은 다양한 아이디어를 통해 효과적으로 문제를 해결하는 역량을 뜻한다. 창의적 사고력 평가는 총 32개 문항을 통해 ‘아이디어 형성 능력’과 ‘표현·해결 능력’을 측정했다. 예컨대 ‘하나의 그림을 보고 다른 제목 3개 만들기’ 문제에 다양한 아이디어를 적어낸 학생이 높은 점수를 받는 식이다. 평가원 측은 “창의적인 문제 풀이에도 기본적인 지식과 인지능력이 중요하기 때문에 어린 시절부터 학습량이 많은 우리 학생들이 높은 점수를 받은 것으로 보인다”고 밝혔다.&lt;br&gt;&lt;br&gt;그런데 우리나라 학생들은 ‘창의력을 발휘하는 과제 수행에 대한 자신감’을 뜻하는 창의적 사고력 자아 효능감은 64국 중 49위에 그쳤다. 자아 효능감은 ‘새로운 것 발명하기’ ‘자신의 생각을 창의적으로 표현하기’와 같은 설문 문항 10개를 통해 측정했다. 이런 문항에 ‘자신 있다’고 답한 학생들이 적었던 것이다. 입시 위주의 치열한 학업 경쟁이 영향을 미쳤다는 분석이다. 박남기 광주교대 교수는 “학생들은 항상 공부를 잘하는 학생들과 자신을 비교하면서 ‘내 능력이 부족하구나’라고 생각할 수밖에 없다”고 했다. 교육부 측은 “주로 동양권 국가들이 창의적 사고에 대한 자신감이 낮게 나타났는데, 이는 과도한 자신감을 경계하는 문화가 영향을 미쳤을 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>의협 4차 총파업...전면 휴진은 없어</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/06/18/O5ZRWXJUNJBHBLRHCQWBH2SHAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/18/O5ZRWXJUNJBHBLRHCQWBH2SHAM/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 18 Jun 2024 11:52:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/46WX3F5DVBB6TAI2F5M6N2FOLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 오후 서울 여의도에서 대한의사협회(의협) 주최로 열린 ‘의료농단 저지 전국의사 총궐기대회’ 참가자들이 여의도공원 옆 여의대로를 점거하고 있다. / 장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 동네 의원 중 14.9%인 5379곳이 18일 집단 휴진했다. 지난 2020년 파업 때(첫날 32.6%)의 절반도 안 되는 참여율이다. 전국 40곳 의대 교수와 이탈 전공의도 일부 참여했다. 하지만 자리를 지킨 의사가 더 많아 ‘전면 휴진’은 발생하지 않았다.&lt;br&gt;&lt;br&gt;윤석열 대통령은 이날 국무회의에서 “환자를 저버린 불법행위에 엄정 대처할 수밖에 없다”고 했다. 정부도 이날 오전 전국 3만6000여 개원의에게 업무 개시(복귀) 명령을 내리고, 불법 휴진을 한 개원의들에겐 예외 없이 행정처분(면허정지 등)과 형사 고발을 하겠다고 발표했다. 대한의사협회(의협)에 대해선 “해체도 가능하다”고 했다.&lt;br&gt;&lt;br&gt;의협은 이날 오후 2시 서울 여의대로에서 ‘의료 농단 저지 의사 총궐기 대회’를 열었다. 의협은 5만명이 참여했다고 밝혔지만, 경찰은 5000~1만2000명이 참여했다고 발표했다. 임현택 의협 회장은 이 자리에서 “독재에 맞서 힘을 모으자”며 “(의대 증원 백지화 등) 의사들의 정당한 요구를 정부가 수용하지 않으면 27일부터 무기한 휴진에 들어갈 것”이라고 했다. 27일은 세브란스 병원의 무기한 휴진 시작 일이다.&lt;br&gt;&lt;br&gt;환자들은 불편을 겪었다. 한 갑상선암 환자는 관련 카페에 글을 올려 “고대안암병원에서 18일 수술을 받기로 했는데 연기 통보를 받았다”며 “몇 달을 기다렸는데 이럴 수가 있느냐”고 했다. 각 지역 주민들은 “아이가 아파 동네 소아과에 갔는데 문을 닫아 놀랐다” “아이들 볼모로, 이건 아니다”라고 했다.&lt;br&gt;&lt;br&gt;하지만 자리를 지킨 대학 병원 교수와 개원의가 더 많았다. 중환자를 보는 빅5 병원 중 서울대병원과 서울아산병원은 수술 등이 20%가량 줄었지만, 세브란스병원과 삼성서울병원은 지난주와 비교해 진료·수술 건수가 변함 없었다. 서울성모병원도 진료만 5~10% 줄고, 수술은 변동 없었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>허영인 SPC 회장, 첫 재판서 민노총 탈퇴 강요 관여 혐의 부인</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/18/74XUN2A5BRFBNG7I37HARBGBHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/18/74XUN2A5BRFBNG7I37HARBGBHY/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 18 Jun 2024 10:25:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U2ABJ6UIV4YAL2HQMQFNOKXOIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;허영인 SPC그룹 회장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;파리바게뜨 제빵사들에게 민노총 탈퇴를 강요하는 관여한 혐의로 구속 기소된 허영인(75) SPC 회장이 첫 재판에서 혐의를 전면 부인했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사32부(재판장 조승우)는 18일 오후 노동조합 및 노동관계조정법 위반 혐의로 기소된 허 회장 등 SPC 관계자 19명에 대한 첫 재판을 진행했다.&lt;br&gt;&lt;br&gt;허 회장 변호인 측은 “민노총 조합(파리바게뜨 지회)이 불법 시위를 이어가며 회사의 이미지를 폄훼하자, 회사가 제빵기사들에게 민노총을 탈퇴하고 한노총 조합(PB파트너즈 노조)에 가입하라고 권유한 정도”라며 “민노총을 탈퇴하지 않으면 불이익을 주는 등 불법적 수단을 동원한 건 아니다”라며 탈퇴 종용 혐의를 부인했다.&lt;br&gt;&lt;br&gt;이어 변호인은 “민노총 소속이라는 이유만으로 인사 정성평가에서 무조건 낮은 점수를 주지 않았다”라며 “소속 노조와 상관없이 회사의 정책을 적극적으로 수용하고 어려운 일에 솔선수범하는 등 근무 태도가 좋은 사람은 높은 점수를 받았다”고 했다.&lt;br&gt;&lt;br&gt;허 회장 등이 한노총 조합을 사측 입장을 언론에 대변하는 ‘어용노조’로 활용했다는 점도 부인했다. 변호인은 “한노총 노조는 어용노조고, 민노총 노조는 근로자 권익을 대변한다는 검찰의 전제 자체가 잘못됐다”며 “한노총 노조가 어용노조라면 근로자 80%에 달하는 4000여명이 가입하는 일은 없었을 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;그러면서 “소수 노조가 느낄 수 있는 소외감에 대해 주의 깊게 챙기지 못해 깊이 반성하고 후회한다”며 “복수 노조를 처음 경험하는 회사 입장에서 세심한 주의를 기울이지 못해 벌어진 일로, 전형적인 부당 노동 행위와는 다르다”고 밝혔다.&lt;br&gt;&lt;br&gt;반면 허 회장과 함께 기소된 황재복(63) SPC 대표는 혐의를 대체로 인정했다. 황 대표 측 변호인은 “허 회장의 지시에 따라 제빵기사들에게 민노총 조합 탈퇴를 종용했다”며 “SPC의 미래를 위해서 범행에 관여한 당사자들이 처벌을 받고 노사 관행을 바로잡는 게 올바르다고 생각해 사실을 밝히고 책임을 질 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이날 재판에는 민노총 소속 조합원 30여명이 방청객으로 참석했다. 재판이 끝난 후 법정 앞에서 일부 조합원이 “잘못을 인정하라”며 고성을 질러 한때 소란이 빚어졌다. 피고인과 조합원들 사이에 몸싸움이 벌어지기도 했다.&lt;br&gt;&lt;br&gt;허 회장 등은 SPC 자회사인 PB파트너즈 내 민노총 화섬식품노조 파리바게뜨 지회가 회사에 비판적인 활동을 이어가자, 지난 2021년 2월~2022년 7월 조합원 570여명에게 탈퇴를 종용한 혐의를 받는다. 이들은 민노총 소속 조합원에게 승진 등에서 불이익을 주는 반면, 사측에 친화적인 한국노총 식품노련 PB파트너즈 노조를 지원한 혐의를 받는다. 검찰은 노조법 위반 혐의로 지난 3월 황 대표를, 4월에는 허 회장을 구속 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공정위 ‘SPC 647억 과징금’, 대법서 최종 취소</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/18/6QMB3FH7IFE37LO7WKKOH6J2B4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/18/6QMB3FH7IFE37LO7WKKOH6J2B4/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 18 Jun 2024 11:20:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NQGXI524FTDF35WA6KYES6CPDA.png"&gt;&lt;figcaption&gt;&lt;small&gt;공정위 관계자가 지난 2020년 7월 29일 SPC그룹에 총 647억원의 과징금을 부과하고 허영인 회장 등을 검찰에 고발한다고 밝히고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SPC그룹이 계열사를 부당하게 지원했다는 이유로 공정거래위원회(공정위)로부터 부과받은 647억원의 과징금 등이 대법원에서 최종 취소됐다.&lt;br&gt;&lt;br&gt;18일 법조계에 따르면, 대법원 3부(주심 엄상필 대법관)는 SPC그룹 계열사 5곳이 공정위를 상대로 낸 과징금 등 취소 소송에서 원심의 원고 일부 승소 판결을 전날 확정했다. 이에 따라 공정위가 SPC에 부과한 과징금 647억원 전액과, 시정 명령 대부분이 취소됐다.&lt;br&gt;&lt;br&gt;이 사건은 공정위가 2020년 7월 “SPC그룹 주요 계열사들이 삼립을 2011~2019년 부당 지원했다”며 과징금을 부과하고 부당 지원 행위를 금지하라는 시정 명령을 내린 것이 발단이다. 공정위는 SPC가 파리크라상 등 3개 계열사에 밀다원, 에그팜 등 8개 생산 계열사가 만든 밀가루 등 제빵 원재료를 삼립을 통해 구매하도록 하는 방식으로 삼립에 381억원의 이익을 제공했다고 봤다. 공정위는 또 계열사인 샤니가 삼립에 판매망을 저가에 넘기고 상표권을 무상 제공해 13억원의 이득을 제공하고, 파리크라상·샤니가 밀다원 주식을 삼립에 낮은 가격에 양도하면서 20억원을 부당 지원했다고 판단했다.&lt;br&gt;&lt;br&gt;SPC는 이에 불복해 2020년 서울고법에 과징금 등 취소 소송을 제기했다. 공정위 처분에 대한 소송은 서울고법이 1심을 전담하고, 대법원에서 최종 결론을 내린다.&lt;br&gt;&lt;br&gt;그러나 서울고법은 올해 1월 공정위의 과징금 부과 처분과 시정 명령 대부분을 취소하고, 2015년 이전의 일부 밀가루 거래에 대해 과징금을 재산정하라고 판결했다.&lt;br&gt;&lt;br&gt;서울고법 재판부는 “삼립이 밀가루 등 원재료 거래에서 실질적 역할이 전혀 없거나 미미하다고 단정하기 어렵다”며 “이점이 증명되지 않은 이상 (SPC의) 부당 지원 행위가 성립하지 않는다고 할 것”이라고 밝혔다. 재판부는 또 공정위가 과징금 산정 기준이 되는 밀가루의 ‘정상 가격’을 잘못 계산했다고 보고, 잘못된 가격을 기초로 부과한 과징금은 위법이라고 했다.&lt;br&gt;&lt;br&gt;양측이 판결에 모두 상고했지만, 대법원은 원심에 특별한 법 위반 등이 없다고 보고 심리불속행으로 기각했다.&lt;br&gt;&lt;br&gt;한편, 허영인 SPC 회장은 공정위가 문제삼은 밀다원 주식 저가 양도와 관련해 배임 혐의로 기소됐지만 올해 2월 1심에서 무죄를 선고받았다. 이 사건은 서울고법에서 2심 재판이 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정부 “의협 집단휴진 참여율 14.9%…4년 전의 절반 수준”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/06/18/HD6IVVCUAVGQ5NVLNZLP37OTG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/18/HD6IVVCUAVGQ5NVLNZLP37OTG4/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 18 Jun 2024 11:19:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WZIK5MXYZNEGZCAKKVKTC25ZBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 오후 서울 영등포구 여의도공원 옆 도로에서 대한의사협회가 정부의 의대 증원 등 의료개혁을 규탄하기 위한 집회를 갖고 있다. / 장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 동네 의원 중 14.9%인 5379곳이 18일 집단 휴진했다. 지난 2020년 파업 때(첫날 32.6%)의 절반도 안 되는 참여율이다. 이번 집단 휴진 사전 신고율은 4.0%였다. 전국 40곳 의대 교수와 이탈 전공의도 일부 참여했다. 하지만 자리를 지킨 의사가 더 많아 ‘전면 휴진’은 발생하지 않았다.&lt;br&gt;&lt;br&gt;윤석열 대통령은 이날 국무회의에서 “환자를 저버린 불법행위에 엄정 대처할 수밖에 없다”고 했다. 정부도 이날 오전 전국 3만6000여 개원의에게 업무 개시(복귀) 명령을 내리고, 불법 휴진을 한 개원의들에겐 예외 없이 행정처분(면허정지 등)과 형사 고발을 하겠다고 발표했다. 대한의사협회(의협)에 대해선 “해체도 가능하다”고 했다.&lt;br&gt;&lt;br&gt;의협은 이날 오후 2시 서울 여의대로에서 ‘의료 농단 저지 의사 총궐기 대회’를 열었다. 의협은 5만명이 참여했다고 밝혔지만, 경찰은 5000~1만2000명이 참여했다고 발표했다. 임현택 의협 회장은 이 자리에서 “독재에 맞서 힘을 모으자”며 “(의대 증원 백지화 등) 의사들의 정당한 요구를 정부가 수용하지 않으면 27일부터 무기한 휴진에 들어갈 것”이라고 했다. 27일은 세브란스 병원의 무기한 휴진 시작 일이다.&lt;br&gt;&lt;br&gt;환자들은 불편을 겪었다. 한 갑상선암 환자는 관련 카페에 글을 올려 “고대안암병원에서 18일 수술을 받기로 했는데 연기 통보를 받았다”며 “몇 달을 기다렸는데 이럴 수가 있느냐”고 했다. 각 지역 주민들은 “아이가 아파 동네 소아과에 갔는데 문을 닫아 놀랐다” “아이들 볼모로, 이건 아니다”라고 했다.&lt;br&gt;&lt;br&gt;하지만 자리를 지킨 대학 병원 교수와 개원의가 더 많았다. 중환자를 보는 빅5 병원 중 서울대병원과 서울아산병원은 수술 등이 20%가량 줄었지만, 세브란스병원과 삼성서울병원은 지난주와 비교해 진료·수술 건수가 변함 없었다. 서울성모병원도 진료만 5~10% 줄고, 수술은 변동 없었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YAWH37NQF5LC7MICRWRKBLQXEY.jpg?width=3612&amp;height=2368&amp;auth=5d993889d455d326b17bd0e3866795b030c4bbbf2a1206fc17bf90a4eb36d9f5&amp;smart=true" type="image/jpeg" height="2368" width="3612">
+        <media:description type="plain">[서울=뉴시스] 김진아 기자 = 18일 서울 영등포구 여의대로에서 '의료농단 저지 전국 의사 총궐기 대회'가 열리고 있다. (공동취재) 2024.06.18. photo@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">ryuhj</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>서울시, 대학에 5년간 6500억 투자한다</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/18/ISTCGGBZ2BAYDETJGRYGJ5THNQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/18/ISTCGGBZ2BAYDETJGRYGJ5THNQ/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 18 Jun 2024 11:43:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IA2Z336RDJISTHSHRI3QU7H6QI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 18일 오전 서울 중구 서울시청 브리핑룸에서 대학과 함께하는 서울 미래 혁신성장 계획 발표를 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 앞으로 5년간 시내 대학에 6500억원을 투자한다. AI·반도체 등 미래산업 인재를 양성하고, 대학 캠퍼스가 시민들에게 열린 공간이 되도록 지원한다.&lt;br&gt;&lt;br&gt;서울시는 이같은 내용의 ‘대학과 함께하는 서울 미래 혁신성장 계획’을 18일 발표했다. 내년부터 대학 지원에 관한 행·재정 권한이 정부에서 지방자치단체로 넘어가는 ‘지역혁신중심 대학지원체계’(RISE·라이즈)가 시행된다. 서울시는 이에 따른 서울 내 대학 지원 방안을 발표했다. 대학의 인적·연구 자원을 발전시켜 도시 경쟁력을 높이겠다는 내용이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇ 매년 1300억 투입…인재 3200명 양성&lt;/b&gt;&lt;br&gt;&lt;br&gt;서울시는 2025년부터 2029년까지 매년 1300억원, 5년간 6500억원을 투입해 산학협력 강화·미래산업 인재 양성·창업 활성화를 추진하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;글로벌 기술이전과 지식재산권 등 성과를 창출할 협력대학 12개교를 선정해 5년간 600억원을 투입한다. 창업 초기부터 해외 시장에 초점을 둔 기업도 60개 이상 배출하는 것이 목표다. 산학 공동연구, 기술개발 및 사업화 등에 초점을 맞춰 30개교를 선발해 서울시의 경제·산업전략과 연계한다.&lt;br&gt;&lt;br&gt;대학 간 시너지 효과를 창출하기 위해 AI·바이오 분야 혁신대학으로 구성된 컨소시엄 2곳을 선정하고 총 500억원도 지원한다. 현재 양재와 홍릉 중심의 AI·바이오 허브를 서울 전역으로 넓힐 계획이다.&lt;br&gt;&lt;br&gt;AI 등 신기술 분야 대학원 계약학과 20곳도 만든다. 서울시는 대학과 기업이 연결될 수 있는 중개 역할을 한다. 이후 현장 실습비, 기업 수요에 맞는 커리큘럼 개발 등도 지원할 계획이다. 신기술 분야 인재 1000명 이상을 양성하는 것이 목표다.&lt;br&gt;&lt;br&gt;이공계 석박사급 외국인 1000명도 유치한다. 이 인재들은 첨단산업 관련 중소기업에 연계한다. 서울시는 해외 인재 정착 비용, 외국인에게 맞는 반도체 교육과정 개발, 유학생 학비 일부를 지원할 계획이다.&lt;br&gt;&lt;br&gt;창업 활성화를 위해 2029년까지 서울캠퍼스타운에서 1300개 이상의 대학 창업기업을 배출하고 단계적 지원을 통해 성장을 돕는다. 이를 위해 2026년까지 5조원 규모로 조성하고 있는 ‘서울비전2030 펀드’의 일부를 투입할 계획이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇ 규제 완화하는 ‘혁신캠퍼스’, 시민에게 열린 ‘오픈캠퍼스’ 추진&lt;/b&gt;&lt;br&gt;&lt;br&gt;대학 도시계획 혁신 차원에서 각종 불필요한 규제는 완화해 대학이 다양한 융복합 연구 공간을 확보하게 할 계획이다.&lt;br&gt;&lt;br&gt;서울시가 앞서 2022년 대학 용지의 용적률을 완화해 연구 공간을 추가로 확보할 수 있도록 한 것의 후속 발표다.&lt;br&gt;&lt;br&gt;대학은 주차 수요가 높지 않다는 점을 고려해 연내에 조례를 개정, 대학 부설주차장 설치기준을 기존 200㎡당 1대에서 250㎡당 1대로 풀어주기로 했다. 이렇게되면 지하에 의무 주차 면수를 채운 대학은 지상 주차장 부지에 연구공간을 마련할 수 있다.&lt;br&gt;&lt;br&gt;공공·민간 기숙사를 늘리고 폐교나 미개설 학교 용지 등을 활용한 ‘행복기숙사’ 건립을 추진한다.&lt;br&gt;&lt;br&gt;또 대학의 담장을 철거해 대학과 도시 사이 경계를 허물 계획이다. 시민들의 접근성을 높여 대학 상권도 활성화할 계획이다. 서울시 면적의 2%를 차지할 만큼 넓은 대학 부지를 시민들이 우회하지 않고 자유롭게 통과할 수 있도록 한다.&lt;br&gt;&lt;br&gt;방학에는 비어있는 대학 기숙사를 해외 관광객에게 개방하는 ‘캠퍼스 스테이’도 도입한다. 도심과 가깝고 청결한 데다 안전한 기숙사에서 숙박은 물론 한국 문화를 체험할 수 있게 하겠다는 계획이다.&lt;br&gt;&lt;br&gt;현재 대학 도시계획 혁신에는 총 10개(고려대, 서강대, 서울시립대, 성균관대, 세종대, 연세대, 이화여대, 중앙대, 한국성서대, 홍익대) 대학이 참여하고 있다.&lt;br&gt;&lt;br&gt;오세훈 서울시장은 “국가 경쟁력은 대학으로부터 비롯된다”며 “대학이 보유한 다양한 가치자원을 서울의 성장판 확대 기반으로 삼고, 미래 혁신 성장의 거점인 대학과 함께 글로벌 톱 5 도시 목표 달성을 앞당기겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“의료파업에 피해? 의사 악마화” 반발에…배우 황보라 공개사과</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/18/7YPAOLLJAFBFFCW4KBQXOLKHCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/18/7YPAOLLJAFBFFCW4KBQXOLKHCE/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 18 Jun 2024 11:40:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WLV7GFTASSOKRS2LRNDJI3QFN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 황보라. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 황보라(41)가 제왕절개를 통해 출산하는 과정에서 의료파업 때문에 마취 주사를 제대로 맞지 못했다고 발언한 것에 대해 “오류가 있었다”며 사과했다.&lt;br&gt;&lt;br&gt;황보라는 18일 자신의 인스타그램을 통해 “제왕절개 출산 과정을 묘사하던 중 오해가 발생한 부분에 대해 직접 말씀을 드린다”며 “지난 5월 말 저는 제왕절개 후 무통 주사 PCA를 처방받았다. PCA는 ‘자가 통증 조절 장치’가 포함돼 있으며, 병원 측으로부터 자세한 사용법을 안내받았으나 수술 후 경황이 없어 인지의 오류가 있었다”고 했다.&lt;br&gt;&lt;br&gt;황보라는 “매 순간 최선을 다해 애써주셨던 담당 교수님과 병원 관계자분들께 죄송하다”며 “제왕절개 후 PCA 외에 (마취제인) 페인버스터를 문의드렸으나, 올해 초부터 인력난으로 인해 페인버스터 처방을 하고 있지 않다는 병원 측의 답변을 받았다. 이 과정에 대해 설명하던 중 ‘의료파업 때문’이라는 부적절한 표현을 사용했고, 신중하지 못했던 표현으로 인해 혼란을 드려 죄송하다”고 했다. 병원 자체의 인력난을 의료파업 때문인 것으로 착각했다는 설명이다.&lt;br&gt;&lt;br&gt;그러면서 황보라는 “향후 유튜브 제작 과정에서 더 신중을 기하고, 저의 발언에 더 책임감을 가지고 유의하도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;지난달 23일 출산한 황보라는 지난 16일 유튜브 채널 ‘웤톡’을 통해 의료파업 때문에 출산 과정에서 제대로 마취 주사를 맞지 못했다는 취지로 발언했다.&lt;br&gt;&lt;br&gt;이 같은 황보라의 주장에 대해 대한의사협회(의협)는 18일 “황보라가 제왕절개로 분만한 지난 5월 의사파업은 없었기 때문에 의사파업 때문에 무통주사를 맞지 못했다는 것은 명백히 잘못된 보도다”라며 “의료 정상화를 위해 의사들이 단체행동에 나선 엄중한 시국에 다수 언론이 사실관계가 틀린 내용을 보도해 의사를 악마화하고 잘못된 여론을 선동한 것에 유감을 표한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>교수 최대 파면, 학생은 입학 취소...음대 입시 비리 처벌 강화</title>
+      <link>https://www.chosun.com/national/education/2024/06/18/ABFXQ3OB55ADZJRGEFXPXE5CLQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/06/18/ABFXQ3OB55ADZJRGEFXPXE5CLQ/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 18 Jun 2024 11:37:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2372JC33HZJG3BCF57AGP7I3HY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오석환 교육부 차관이 18일 세종시 정부세종청사에서 열린 음대 입시비리 관련 음대 주요 대학 입학처장 영상회의에서 발언하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞으로 입시 업무를 맡은 대학교수가 자기 대학에 응시생과 ‘특수 관계(교육한 경우, 친족인 경우 등)’임에도 이를 사전에 대학에 알리지 않으면 형사처벌받을 수 있다.&lt;br&gt;&lt;br&gt;교육부는 18일 이러한 내용이 담긴 ‘음대 등 입시 비리 대응 방안’을 발표했다. 현행 고등교육법에 따르면, 학생 선발 과정에 투입된 교수 등 입학사정관은 수시 원서 접수 후 응시생이 자신과 특수 관계인 것을 인지하면 대학 총장에게 신고하고 해당 학생 평가, 면접 등 선발 과정에 관여하면 안 된다. 그런데 지금껏 이를 위반할 시 어떤 처벌을 내린다는 조항이 없어 실효성이 낮았다. 이에 교육부는 고등교육법을 개정해 지원자와 특수 관계에 있는 교수 등이 사전에 대학에 알리지 않으면 5년 이하의 징역 또는 5000만원 이하의 벌금에 처하도록 한다는 조항을 신설한다는 계획이다. 구체적 형량은 입법 과정에서 바뀔 수 있다.&lt;br&gt;&lt;br&gt;교육부령 규칙인 교육공무원 징계 양정 기준에 ‘입시 비위’ 항목도 신설한다. 기존에는 관련 항목이 없어 ‘그 밖의 성실 의무 위반’으로 징계했는데 수위가 약하다는 지적이 많았다. 이에 징계 항목을 신설해 중대 과실일 경우 파면할 수 있게 한다는 것이다. 또 앞으로 각 대학은 입시 비리 의혹이 제기되면 수사기관 등이 제대로 조사할 수 있도록 실기 고사 평가 현장을 녹음·녹화해야 한다.&lt;br&gt;&lt;br&gt;입시 비리로 부정 입학한 학생은 입학이 반드시 취소되도록 규정도 강화한다. 각 대학이 학칙에 ‘과외 등을 통해 평가자와 사전 접촉한 자의 입학 허가를 취소한다’ 등 구체적 내용을 추가토록 한다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>JTBC 떠난 손석희, 11년 만에 MBC로 복귀한다</title>
+      <link>https://www.chosun.com/national/people/2024/06/18/W2QUPFUUKJA2PMWEJRKAKSZNKI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/18/W2QUPFUUKJA2PMWEJRKAKSZNKI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 18 Jun 2024 11:00:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HVO3MBA33IMLF6OAZG6ZJNL6GA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손석희  전 JTBC 사장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;손석희 전 JTBC 사장이 MBC로 돌아가 특집 방송 진행을 맡는다. 2013년 MBC 라디오 ‘손석희의 시선집중’ 이후 11년 만이다. &lt;br&gt;&lt;br&gt;18일 MBC에 따르면 손석희 전 사장은 다음 달 13일부터 매주 토요일 밤 8시 45분에 방송하는 5부작 ‘손석희의 질문들’을 진행한다. 해당 프로그램은 파리 올림픽 기간 중단됐다가 8월에 마무리하게 된다.&lt;br&gt;&lt;br&gt;각각의 주제는 ‘자영업의 위기’, ‘디지털 시대 저널리즘의 고민’, ‘영화의 갈 길’, ‘나이듦에 대한 생각’, ‘텍스트의 쇠퇴’ 등 다양하다.&lt;br&gt;&lt;br&gt;제작을 맡은 MBC 시사교양국은 ‘아직 모두 확정되진 않았지만 출연 게스트들은 각 분야에서 일가를 이룬 사람들이며, 이들이 한 가지 주제를 놓고 텔레비전에서 긴 시간 대담을 나누는 것은 매우 보기 드문 장면들이 될 것’이라고 전했다.&lt;br&gt;&lt;br&gt;손석희 전 사장은 1984년 MBC 아나운서로 입사해 2006년 성신여대 교수로 자리를 옮겼으며, 이후 2013년 JTBC 보도부문 사장으로 취임해 메인뉴스인 ‘뉴스룸’ 앵커를 맡은 바 있다. 손석희 전 사장은 작년 9월까지 JTBC 순회특파원으로 일본에 머물다가 퇴사한 후, 올 4월부터 교토 리쓰메이칸 대학 객원교수로 재직 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, ‘훈련병 사망사건’ 얼차려 중대장 구속영장 신청</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/18/SZZZ5L5EYVEZNMN3VWXFHWN5SE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/18/SZZZ5L5EYVEZNMN3VWXFHWN5SE/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>육군 12사단 훈련병 사망 사건을 수사 중인 경찰이 18일 훈련병에게 규정 위반의 군기훈련(얼차려)을 지시한 중대장과 부중대장에 대해 구속영장을 신청했다.강원경찰청은 이날 업무상과실치사와 직권남용 가혹행위 혐의로 중대장 A씨와 부중대장 B씨 등 2명에 대해 구속영장을 신청했다고 밝혔다.</description>
+      <pubDate>Tue, 18 Jun 2024 10:55:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AGD6WUIYFVO7VYS344PAS2ZEGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;군기 훈련(얼차려)을 받다가 쓰러져 숨진 육군 훈련병의 영결식이 지난달 30일 오전 전남 나주 한 장례식장에서 엄수되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;육군 12사단 훈련병 사망 사건을 수사 중인 경찰이 18일 숨진 훈련병에게 규정 위반의 군기훈련(얼차려)을 지시한 중대장과 부중대장에 대해 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;강원경찰청은 이날 업무상과실치사와 직권남용 가혹행위 혐의로 중대장 A씨와 부중대장 B씨 등 2명에 대해 구속영장을 신청했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 이들이 지난달 23일 강원 인제군 육군 12사단 신병훈련소에서 숨진 C씨 등 6명의 훈련병에게 규정 위반의 군기훈련을 지시했다고 판단했다. A씨 등은 이들 훈련병에게 완전군장으로 연병장을 돌게 하거나 팔굽혀 펴기 등의 군기훈련을 지시했다. 군기훈련 규정에 따르면 완전군장 상태에선 걷기만 시킬 수 있다.&lt;br&gt;&lt;br&gt;이 과정에서 C씨는 A씨 등이 지시한 군기훈련을 받던 중 쓰러져 인근 병원으로 긴급 후송됐지만, 이틀 뒤인 지난달 25일 오후 3시쯤 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨 등이 살인의 고의성이 없다고 판단하고 살인 혐의 대신 업무상 과실치사 혐의를 적용한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;앞서 육군은 지난달 28일 이 사건에 대한 조사를 마치고 규정 위반 군기훈련을 지시한 A씨 등 2명에게 업무상과실치사와 직권남용 가혹행위 혐의가 있다고 판단, 경찰에 수사를 의뢰했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “구속영장을 신청한 것은 맞다”면서도 “사건 수사가 진행 중인 만큼 다른 내용은 확인해 줄 수 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대관령휴게소에 버려진 리트리버…“엉덩이·등 썩어있었다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/18/XNB4P7DQJRDMRLZVKQTSEZUFA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/18/XNB4P7DQJRDMRLZVKQTSEZUFA4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 18 Jun 2024 10:35:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HZJ5VE65JJHJNDJ5ZPQBXYU5ZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구조된 리트리버. /미소사랑 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도 강릉 대관령휴게소에서 버려진 리트리버가 발견됐다. 당시 리트리버의 엉덩이와 등쪽에서는 수십 마리의 구더기가 살을 파고들어 바글거리고 있었다.&lt;br&gt;&lt;br&gt;18일 강릉 동물보호소 ‘미소 사랑’에 따르면 최근 강릉 대관령휴게소 상행선 주차장 뒤편에서 버려진 리트리버가 끔찍한 상태로 발견됐다. 이 단체는 이 같은 사실을 알리며 리트리버를 살리기 위한 후원을 요청했다.&lt;br&gt;&lt;br&gt;단체가 공개한 영상을 보면 차량이 주차되어 있는 뒤편에 목줄을 찬 리트리버 한 마리가 옆으로 누워있다. 리트리버는 숨을 헐떡이고 있고, 엉덩이와 등쪽에는 수십 마리의 구더기가 살을 파고들어 바글거리고 있었다.&lt;br&gt;&lt;br&gt;단체 측은 “휴게소 뒤편에 버려진 것으로 추정된다. 엉덩이와 등쪽에 구더기가 바글거린 채 숨만 겨우 쉬면서 버티고 있었다”며 “아이가 치료를 받고 살아날 수 있게 후원을 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;단체 측은 구조된 리트리버가 현재 자궁축농증, 심장사상충 감염, 신부전, 빈혈, 탈수, 염증 등으로 힘들어하고 있다고 전했다.&lt;br&gt;&lt;br&gt;네티즌들은 “주인은 천벌을 받길” “정말 끔찍하다” “너무 마음이 아프다” “꼭 완쾌되었으면 좋겠다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“배달기사인 척 연기”…음식 재촉하더니 알고 보니 가짜였다 </title>
       <link>https://www.chosun.com/national/national_general/2024/06/18/Q3QQLNXJPJHNZIUSVRUOIXLZGQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/18/Q3QQLNXJPJHNZIUSVRUOIXLZGQ/</guid>
@@ -819,90 +931,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BOC4K5OVQVFINPXRY4LDIRU7UU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[매일매일 중국어 한마디] 우산을 (펴서) 쓰다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/06/18/HEMCX5BORVDUDEXBYZQXFVWM4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/06/18/HEMCX5BORVDUDEXBYZQXFVWM4Y/</guid>
-      <description/>
-      <pubDate>Mon, 17 Jun 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YSEPYKYTVFDPVFDXV2QDAWH7T4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 도둑이 들다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/06/18/SDLPLAHUMVBI3ES7ODINSDTLXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/06/18/SDLPLAHUMVBI3ES7ODINSDTLXY/</guid>
-      <description/>
-      <pubDate>Mon, 17 Jun 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ERWX4T2FLRE77FMZKS5R56DLZI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] open bar</title>
-      <link>https://www.chosun.com/national/nie/english/2024/06/18/7KPRNPT2DVHJ3I54MOYZ4COQ2E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/06/18/7KPRNPT2DVHJ3I54MOYZ4COQ2E/</guid>
-      <description/>
-      <pubDate>Mon, 17 Jun 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OISPHWGNLZFY7M3LFZ6HNWUX6U.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 6월 18일</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/18/ATDA3WEZ7RAY7BPU36NLZABNLM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/18/ATDA3WEZ7RAY7BPU36NLZABNLM/</guid>
-      <description/>
-      <pubDate>Mon, 17 Jun 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YH77MRJJMRHNPP4KZW4266QCK4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [철학·인문학 이야기] “사람을 언제나 목적으로 대하라” 칸트는 ‘도덕 법칙’ 따르라 주장했죠</title>
-      <link>https://www.chosun.com/national/nie/2024/06/18/KCZDIEDCTNH4BFI5V6WWD5NMKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/18/KCZDIEDCTNH4BFI5V6WWD5NMKY/</guid>
-      <dc:creator>안광복 중동고 철학 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 17 Jun 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XLNIOFRWWBACTBPACVLLQYRSKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이마누엘 칸트 초상화. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;과학이 크게 발전하던 서양의 18세기, 신이 인간을 특별하게 만들었기에 가장 소중하다는 믿음은 근거를 잃어갔습니다. 한편으로는 모든 인간이 평등하며 자유로워야 한다는 요구가 봇물 터지듯 나오고 있었어요. 인간이 존귀하다는 근거가 흐릿해지는데도, 다른 한쪽에서는 모든 사람의 인권은 소중하다는 주장이 호응을 얻고 있던 셈입니다. 이렇게 앞뒤가 안 맞는 상황을 어떻게 수습해야 할까요?&lt;br&gt;&lt;br&gt;이마누엘 칸트(1724~1804)의 ‘도덕 형이상학을 위한 기초 놓기’는 이 물음에 대한 해결책이 되는 책입니다. 칸트에 따르면 세상은 현상계와 예지계로 나뉘어 있어요. 현상계는 물리 법칙이 통하는 자연 세계입니다. 여기는 우리 인간의 지성이 원인과 결과를 따져 모든 일을 밝힐 수 있어요. 반면 예지계는 우리의 지성으로는 알기 어려운 곳이에요. 신·영혼·자유 등은 예지계에 속한 문제이지요. 인간은 현상계에 있으면서도, 예지계에도 속합니다. 그래서 자연의 원리에 따라 움직이며 호르몬 등으로 감정의 기복을 겪지요. 또한 인간은 ‘자유’에 따라 이 모두를 이겨내고 자신이 뜻한 바대로 올곧게 행동하기도 합니다.&lt;br&gt;&lt;br&gt;인간은 현상계에선 자연 법칙을 따라요. 예지계에선 어떤 원리를 따를까요? 칸트는 사람은 예지계에서 ‘도덕 법칙’의 지배를 받는다고 말합니다. 도덕 법칙은 ‘법칙’이기에 모든 인간에게 적용돼야 해요. 어떤 때는 통하고, 어느 경우에는 그렇지 않다면 법칙이 아니니까요. 이처럼 도덕 법칙은 모든 이에게 통해야 하기에 ‘무조건 따라야 하는 명령’, 정언명령(定言命令)이라 부릅니다. 그는 이를 몇 가지로 나눠 설명합니다.&lt;br&gt;&lt;br&gt;첫 번째 정언명령은 “네가 하려는 바가 보편적인 자연 법칙으로 여겨질 정도가 되게 하라”입니다. 칸트는 갚을 능력이 없는데도, 거짓말로 돈을 빌리는 상황을 예로 들어요. 이런 행동이 ‘법칙’이 될 만할까요? 남들도 똑같이 거짓말로 돈을 빌린다고 생각해보세요. 사회가 엉망이 될 겁니다. 그러니 무엇을 하려 할 때마다 내 행동이 누가, 어디서 해도 올바른지를 따져보아야 한다는 것이죠.&lt;br&gt;&lt;br&gt;두 번째는 “모든 사람을 수단으로만이 아니라 언제나 목적으로 대하라”입니다. 과학기술이건, 문화 활동이건 결국 ‘인간’이 모든 일의 최종 목적이어야 합니다. 게다가 모든 인간은 자유를 갖고 있어요. 모두가 상대의 자유를 소중히 여기며 도덕을 따른다면, 세상은 모든 이들이 무언가의 수단이 아닌 그 자체로 목적으로 존중받는 ‘목적의 왕국’이 될 수 있습니다.&lt;br&gt;&lt;br&gt;내용이 조금 어렵죠? 인간이 왜 존엄한지, 자유와 평등이 우리에게 왜 당연한지를 밝히는 작업은 결코 쉽지 않아요. 칸트는 이를 정교한 논변으로 해낸 위대한 철학자입니다. ‘도덕 형이상학을 위한 기초 놓기’에는 이런 칸트 사상의 고갱이가 담겨 있으니, 꼼꼼히 공들여 읽어보시기 바랍니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [사소한 역사] 중세 유럽 독일에선 공 굴려 악마 상징하는 곤봉 넘어뜨리는 종교 의식이었죠</title>
-      <link>https://www.chosun.com/national/nie/2024/06/18/R3HFE5XLI5GAJIJUCEWILRBI3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/18/R3HFE5XLI5GAJIJUCEWILRBI3Y/</guid>
-      <dc:creator>김현철 서울 영동고 역사 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 17 Jun 2024 15:30:00 +0000</pubDate>
-      <content:encoded>지난달 30일부터 오는 19일까지 제25회 대한볼링협회장배 전국볼링대회가 열리고 있어요. 볼링은 무거운 공을 굴려서 마루 끝에 세워진 10개의 핀을 쓰러뜨리는 실내 스포츠입니다. 경기 규칙이 간단해 남녀노소 모두 쉽게 즐길 수 있는 운동이지요. 특히 요즘은 펍이나 카페 등에서 볼링장을 같이 운영하는 경우가 많아, 젊은 층에서 볼링을 즐기는 이들이 늘어나고 있다고 합니다. 볼링은 어떻게 시작됐을까요?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y7PRMBKYKVHSVLV4GXLVQR4QFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;볼링 핀들이 공에 맞아 쓰러지는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;볼링과 유사한 형태의 운동은 아주 오래전부터 있었던 것으로 보여요. 영국의 한 고고학자가 기원전 5000년쯤의 고대 이집트 유적에서 볼링 용구와 비슷한 공과 핀, 볼링과 비슷한 공놀이를 묘사한 벽화 등을 발견했다고 해요. 공의 무게가 가볍지 않기 때문에 공 던지기 놀이가 아닌 공을 굴리는, 오늘날의 볼링과 유사한 놀이였을 것으로 추정된대요.&lt;br&gt;&lt;br&gt;현대 볼링의 직접적인 기원은 중세 유럽의 독일에서 나타났다고 해요. 이때의 볼링은 스포츠라기보다는 종교 의식에 더 가까웠습니다. 독일의 성직자들은 둥근 물체를 굴려서 곤봉을 넘어뜨리는 종교적 의식을 행했다고 해요. 곤봉은 악마를 상징하는 것으로, 이를 쓰러뜨리면 깊은 신앙심으로 악마를 무찌른 사람으로 인정받았다고 합니다. 그러다 점차 시간이 지나면서 종교적 의미는 희석되고 흥미 위주의 오락이 되자 더 이상 수도원 내에서 볼링을 치는 것이 금지되었다고 해요. 하지만 볼링은 프랑스나 영국, 네덜란드 등 유럽 각지로 퍼져나갔습니다. 16세기 종교 개혁을 이끈 마르틴 루터도 볼링을 무척 즐겼다고 해요. 그리고 일정하지 않았던 볼링 핀의 숫자를 9개로 고정하는 규칙도 만들어냈대요.&lt;br&gt;&lt;br&gt;이후 볼링은 유럽에서 미국으로 전해졌어요. 미국에서도 볼링은 빠르게 인기를 끌었지만, 이내 금지됐습니다. 볼링의 승패와 쓰러지는 핀의 개수 등을 맞히는 도박이 이루어졌기 때문이에요. 도박 자체가 주는 해악도 문제였지만, 미국이라는 나라 자체가 박해를 피해 이주해온 청교도들이 세운 나라였기 때문이에요. 청렴과 검소함을 강조하는 청교도인들에게 볼링 도박은 용납할 수 없는 일이었죠. 이로 인해 결국 9핀 볼링은 금지됐지만, 도박과 별개로 볼링을 너무나 하고 싶었던 사람들이 핀을 하나 더 추가한 10핀 볼링을 만들어냈대요. 스포츠로서의 볼링은 1895년 미국볼링협회가 설립되면서 각종 규칙 등이 체계적으로 갖춰졌고, 세계 곳곳으로 보급될 수 있었답니다.&lt;br&gt;&lt;br&gt;한국에 볼링이 들어온 것은 6·25전쟁 이후 미군을 통해서였어요. 하지만 1969년 대한볼링협회가 만들어지기 전까지는 그렇게 활발하게 이뤄지지 않았다고 해요. 협회 설립 이후 볼링 인구가 늘고 각종 세계 대회에서 볼링 선수들이 우수한 성적을 내면서 우리나라에서도 볼링이 대중적인 스포츠로 자리 잡게 됐답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재미있는 과학] 달이 사라진 지구는 소행성 충돌 위험 높아진대요</title>
-      <link>https://www.chosun.com/national/nie/2024/06/18/KDN3TQQADJGF7ILBFSMYU66LR4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/18/KDN3TQQADJGF7ILBFSMYU66LR4/</guid>
-      <dc:creator>김형자 과학칼럼니스트, 기획·구성=오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 17 Jun 2024 15:30:00 +0000</pubDate>
-      <content:encoded>올해 1월과 2월 각각 일본과 미국의 달 탐사선이 달 앞면에 착륙한 데 이어 중국의 달 탐사선이 세계 최초로 달 뒷면에서 토양과 암석 등 표본 채취에 성공하고 지난 4일 이륙했어요. 달의 희귀 자원을 확보하고, 달에 유인 기지를 먼저 건설하려는 인류의 달 탐사 경쟁이 더욱 뜨거워지고 있습니다.&lt;br&gt;&lt;br&gt;그런데 만약 지구 주위를 돌며 캄캄한 밤하늘을 밝혀주는 달이 갑자기 사라진다면 어떤 일이 일어날까요? 달이 지구에 미치는 영향을 통해 달이 사라진 지구의 모습을 상상해 봅시다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AVBKKORT2JGLPEJQPXLBJBY7AE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;지구 자전축을 붙잡고 있는 달&lt;/b&gt;&lt;br&gt;&lt;br&gt;지구는 팽이처럼 빙글빙글 돌고 있어요. 이 회전을 ‘자전’, 회전할 때 기준이 되는 고정된 중심축을 ‘자전축’이라고 해요. 지구는 자전축을 중심으로 하루에 한 바퀴씩 자전해요. 또 태양을 중심으로 1년에 한 바퀴씩 공전해요.&lt;br&gt;&lt;br&gt;지구의 자전축은 23.5도 기울어져 있어요. 지구의 자전축이 더 기울어지는 등 변하지 않고 유지될 수 있는 건 지구를 끌어당기는 달의 인력이 자전축을 안정적으로 붙잡고 있기 때문이에요. 질량을 가진 물체들 사이에선 서로를 끌어당기는 힘인 인력(引力)이 작용하는데요. 달과 지구 사이에도 서로 당기는 힘, 인력이 작용합니다. 달이 지구를 잡아당기는 힘으로 인해 지구가 완만하게 기울어진 채 태양 주위를 돌면서, 계절이 생기고 생명체가 살기에 이상적인 온도가 유지되는 거랍니다.&lt;br&gt;&lt;br&gt;국제 학술지 ‘네이처’에 따르면, 달이 사라지면 지구 자전축의 각도는 0~85도 사이에서 크게 요동치게 된다고 해요. 마치 쓰러지기 직전의 팽이처럼 말이죠. 이렇게 자전축이 계속 바뀌면 지구에는 사계절이 없어지는 등 극심한 기후변화가 나타나게 돼요. 자전축이 흔들려서 지구가 똑바로 서서 돌면 적도 지방은 극심한 열대로, 북극과 남극 지방은 극심한 한대로 바뀔 거라고 과학자들은 전망해요. 그러다 지구가 지금보다 훨씬 옆으로 기울어지면 북극과 남극에 햇볕이 강하게 내리쬐어 빙하가 녹아내릴 거예요. 이 같은 급격한 변화에 적응하지 못한 생물들은 사라질 수도 있어요.&lt;br&gt;&lt;br&gt;&lt;b&gt;밀물과 썰물을 만드는 달&lt;/b&gt;&lt;br&gt;&lt;br&gt;달은 인력으로 지구의 바닷물도 끌어당깁니다. 이 때문에 지구에서는 주기적으로 해수면이 높아졌다 낮아졌다 하는 밀물과 썰물이 생겨요. 달과 가까이에 있는 바닷물은 달이 당기는 힘에 이끌려 물이 차오르는 밀물이 되고, 상대적으로 물이 빠져나간 부분은 썰물이 되는 거예요. 밀물과 썰물의 차이가 크고, 경사가 완만한 등의 조건이 갖춰진 곳에서는 밀물 때 물에 잠기고 썰물 때 드러나는 넓고 평평한 땅, 갯벌이 형성된답니다.&lt;br&gt;&lt;br&gt;태양도 밀물과 썰물 발생에 영향을 주지만 달보다는 영향력이 약해요. 태양은 달보다 지구에서 더 멀리 떨어져 있어, 지구의 바닷물을 당기는 힘이 달보다 약하기 때문이에요. 그래서 달이 사라지면 밀물과 썰물이 눈에 띄게 줄어들어 갯벌을 볼 수 없게 될지 몰라요.&lt;br&gt;&lt;br&gt;갯벌이 사라지면 어떤 일이 벌어질까요? 우선 터전을 잃은 갯벌 생물들이 자취를 감추고, 바다 생태계가 무너지게 됩니다. 갯지렁이, 작은 게 따위를 잡아먹으며 다음 여행을 준비하는 철새들도 식량난으로 힘이 없어 바다를 건널 수 없을 거예요. 갯벌이 일터인 어민들도 생계에 타격을 입게 되지요. 또 밀물과 썰물을 통해 이뤄지던 바닷물의 순환이 줄어들면서 오염 물질이 제대로 정화되지 않고, 산소와 영양분도 바다 골고루 퍼지지 못하게 될 거예요. 밀물과 썰물의 해수면 높이 차이를 이용해 전력을 생산하는 조력발전도 할 수 없을 거예요.&lt;br&gt;&lt;br&gt;&lt;b&gt;야행성 동물, 멸종 위험 높아져&lt;/b&gt;&lt;br&gt;&lt;br&gt;올빼미, 부엉이 같은 야행성 동물은 빛이 적은 밤에 활동하기에 적합한 눈의 구조를 갖고 있어요. 이들은 캄캄한 밤에 눈의 동공을 활짝 열어 달빛을 최대한 모아 사물을 인식해요. 그래서 달이 사라지면 야행성 동물들은 자신들이 활동하는 야간에 앞을 볼 수 없게 됩니다. 그러면 먹잇감을 찾지 못하고 굶어 죽을 수밖에 없겠지요.&lt;br&gt;&lt;br&gt;또 달이 사라지면 지구는 소행성의 습격을 고스란히 받게 될지도 몰라요. 달은 지구 가까이에 오는 소행성을 잡아당기는 힘이 있어요. 이 때문에 달에는 지구로 향하던 소행성들이 지구가 아닌 달에 부딪히면서 생긴 상처가 많아요. 소행성을 막아주는 달 덕분에 우리는 지금 지구에서 안전하게 살아갈 수 있는 거예요.&lt;br&gt;&lt;br&gt;&lt;b&gt;조금씩 멀어지는 달&lt;/b&gt;&lt;br&gt;&lt;br&gt;그런데 달이 매년 지구에서 조금씩 멀어지고 있대요. 과학자들이 1969년부터 1989년까지 20년에 걸쳐 지구와 달 사이 거리를 레이저로 측정했는데요. 그 결과 달이 1년에 3.8㎝씩 지구에서 멀어진다는 사실이 밝혀졌어요. 현재 지구와 달 사이 평균 거리는 약 38만㎞인데요. 과학자들은 45억년 전 지구가 생겨났을 때에는 둘 사이의 거리가 20만㎞ 초반에 달했을 거라고 추정해요.&lt;br&gt;&lt;br&gt;이런 현상은 달의 인력으로 밀물과 썰물이 발생하는 과정에서 바닷물이 해저면에 마찰을 일으켜 지구의 자전 운동을 조금씩 느려지게 만들기 때문이에요. 지구의 자전 속도가 느려지면 지구는 그만큼 운동에너지를 잃어요. 하지만 지구와 달, 둘의 총 운동에너지는 변하지 않기에 지구가 잃는 운동에너지를 달이 얻어 자신이 움직이는 속도를 높이기 때문에 지구에서 점점 멀어지는 거래요.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RT6ICYN3LVBBDEAHWPGD5CJNWI.png?width=1800&amp;height=1012&amp;auth=cfcac740599f9c9e42108d6f6909b4a9114f19ed60a0ef02ee3c0f57bb1a5b00&amp;smart=true" type="image/png" height="1012" width="1800">
-        <media:description type="plain">그래픽=진봉기</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>만취한 중국인 女 관광객 성폭행한 호텔 직원... 경찰, 구속영장 신청</title>
-      <link>https://www.chosun.com/national/incident/2024/06/17/UWCCVD6NDRDLNHTW5HH6A4LLJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/17/UWCCVD6NDRDLNHTW5HH6A4LLJY/</guid>
-      <dc:creator>이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 17 Jun 2024 13:23:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z54UH5VJLZEXJEQW5HDFDSR5GQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취한 중국인 여성 관광객의 방에 몰래 들어가 성폭행한 혐의를 받는 호텔 직원에 대해 경찰이 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;제주서부경찰서는 성폭력범죄의 처벌 등에 관한 특례법상 주거침입준강간 혐의로 제주 모 호텔 직원 30대 남성 A씨의 구속영장을 신청했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 14일 오전 4시쯤 제주시 연동의 한 호텔에서 중국인 관광객 20대 여성 B씨의 객실에 몰래 들어가 성폭행한 혐의를 받고 있다. A씨는 호텔 마스터키를 이용해 B씨의 객실로 들어갔으며, B씨는 만취 상태여서 저항하지 못한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;B씨는 같은 날 아침 자신이 성폭행당했다는 사실을 우리나라에서 만난 중국인 지인 C씨에게 알렸고, C씨가 경찰에 이 내용을 신고했다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 B씨의 객실로 들어가는 장면이 찍힌 호텔 보안 카메라 영상과 B씨 진술 등을 토대로 A씨를 긴급 체포했다. A씨는 성폭행 혐의를 부인하고 있는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 사건 경위 등에 대해 추가로 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LVAJPEG5DYHOZI2N7UZXGOYT2Y.jpg?width=435&amp;height=219&amp;auth=cc683fecc78c2ab53842bfec66dae4e2be486575e54a5ebad1ccc382320a208a&amp;smart=true" type="image/jpeg" height="219" width="435">
-        <media:description type="plain">제주서부경찰서. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>미혼男이 미혼女보다 20% 많다... 결혼하기 힘든 이유 있었네</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/06/17/CR3JIR6XI5E7XIEYKANEF55QGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/17/CR3JIR6XI5E7XIEYKANEF55QGY/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 17 Jun 2024 12:24:32 +0000</pubDate>
-      <content:encoded>과거 남아 선호 사상 등 영향으로 미혼 남성이 미혼 여성보다 20%가량 많은 것으로 나타났다. 미혼 남녀의 성비 불균형이 저출생 해결을 더 어렵게 만들 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YTPG7PNZIJF3BLJKWXJ5HCUR6Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 보건사회연구원 보고서 ‘한국의 출생 성비 불균형과 결혼 성비’에 따르면, 2021년 기준으로 전국의 미혼 남성이 미혼 여성보다 19.6% 많은 것으로 나타났다. 이는 인구 구조상 남성 여섯 명 중 한 명은 짝을 찾기 어렵다는 뜻이다.&lt;br&gt;&lt;br&gt;미혼 남녀 성비 불균형은 서울과 다른 지역 차가 컸다. 서울은 미혼 남성이 미혼 여성보다 2.5% 많아 거의 차이가 없었다.&lt;br&gt;&lt;br&gt;반면 경북은 미혼 남성이 미혼 여성보다 34.9% 많았고, 경남(33.2%), 충북(31.7%)도 미혼 남녀 차가 30% 이상이었다. 이어 전북(29.5%), 전남(26.9%), 충남(26%), 강원(25.3%), 대구(21.7%) 순이었다. 수도권인 경기(21.2%), 인천(21%)과 제주(19.9%)에서도 미혼 남녀 수 차이가 전국 평균(19.6%)을 넘었다. 부산은 16.2% 차이를 보였다.&lt;br&gt;&lt;br&gt;한국은 1970년대부터 2006년까지 자연 성비(여아 100명당 남아 104~107명 범위)보다 남성의 출생이 많았고 2007년부터는 자연 성비로 돌아왔다. 한때 한 아이만 낳도록 권장한 정책과, 출산 전 성별을 알 수 있게 된 초음파 검사의 발달 등이 영향을 미쳤다. 성비 불균형 등으로 인해 2020년 기준 1985년생(당시 35세) 남성 미혼율은 46.5%로 여성(29.1%)보다 높았다. 보고서는 “출생 성비 불균형이 앞으로도 상당 기간 결혼 실태에 큰 영향을 미칠 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>고려제약 리베이트에 의사 1000여명 연루...최대 수천만원 받은 정황</title>
       <link>https://www.chosun.com/national/national_general/2024/06/17/BO23N6RCTZAI7EXBUIZCVKRPEE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/17/BO23N6RCTZAI7EXBUIZCVKRPEE/</guid>
@@ -912,15 +940,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EW4TD3TRLNILTE5CPCADK4TRDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구 고려제약 본사 앞 모습. 2024.4.29/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;고려제약의 불법 리베이트(뒷돈) 사건을 수사 중인 경찰은 이번 사건에 의사 1000여 명이 연루돼 있는 사실을 확인했다고 17일 밝혔다. 제약 업계 전반에 만연한 뒷돈 거래가 대규모 수사로 확대될 가능성도 있다.&lt;br&gt;&lt;br&gt;조지호 서울경찰청장은 이날 기자 간담회에서 “현재 확인이 필요한 대상은 의사를 기준으로 약 1000명 이상”이라며 “현금을 직접적으로 받거나, 가전제품 같은 물품을 받은 경우, 골프 관련 접대 등 여러 가지 메리트를 받은 정황들을 확인했다”고 했다.&lt;b&gt; &lt;/b&gt;리베이트 규모가 수백억 원대에 이를 수 있다는 관측이 나온다.&lt;br&gt;&lt;br&gt;경찰은 지난 4월 서울 강남구 고려제약 본사를 압수 수색했다. 이때 확보한 자료를 토대로 의사들이 제약 회사와 임직원들에게서 최소 수차례에 걸쳐 수백만 원에서 최대 수천만 원 상당의 금품을 제공받은 것으로 파악하고 있다. 조 청장은 “이들에 대해 금품을 제공받은 경위를 확인하는 작업을 곧 시작할 것”이라며 “소명 내용에 따라 입건자 수는 1000명이 넘을 수도 있지만, 덜 될 수도 있다”고 말했다.&lt;br&gt;&lt;br&gt;현행법상 의료인은 의약품 채택·처방 유도·거래 유지 등을 목적으로 제공되는 금전, 물품 등 경제적 이익을 받으면 안 된다. 다만 학술 대회 지원, 임상시험 지원 등 보건복지부령으로 정하는 범위 안에서는 경제적 이익 수수를 허용하고 있다. 조 청장은 이에 대해 “확인이 필요한 1000여 명은 그 범위를 넘는 금액으로 이해하면 된다”며 리베이트 연루 의사들이 소속된 병원에 대해서도 “대형 병원을 포함해 전국적으로 다양하게 있다”고 했다. 경찰 관계자는 “서울대병원·서울아산병원·서울성모병원·신촌세브란스병원·삼성서울병원 등 이른바 국내 대형 병원의 의사들 일부도 수사 선상에 올랐다”고 했다.&lt;br&gt;&lt;br&gt;고려제약은 전문 의약품을 만들어 병원에 납품하는 중소 규모의 제약 회사로, 주로 신경과, 신경외과, 피부과 수술 등에 사용되는 전문 의약품을 취급하는 회사다. 의료계에선 “고려제약보다 규모가 더 큰 제약사들의 리베이트를 경찰이 파헤치기 시작하면 연루된 의사와 약사 등이 엄청난 규모로 커질 수 있다”는 말이 나온다. 최근 서울서부지검 식품의약범죄조사부는 종근당 계열사인 경보제약이 약값 일부를 되돌려주는 방식으로 병원에 수백억 원대 불법 리베이트를 제공했다는 국민권익위원회 공익 신고를 넘겨받아 수사 중이다.&lt;br&gt;&lt;br&gt;경찰은 다른 제약사로까지 리베이트 수사가 확대될 가능성도 시사했다. 조 청장은 “굉장히 구조적인 문제가 아닌지 의심하지 않을 수 없는 정황이 여러 곳에서 발견됐다”며 “한 제약사의 문제라고 보기엔 적절하지 않은 면이 있어 더 들여다봐야 하기에, 세무 당국과 협의해 수사를 확대하는 것도 배제하지 않고 있다”고 했다. 경찰 관계자는 “현행법은 리베이트를 준 사람과 받은 사람 모두를 처벌하도록 하고 있기 때문에 꼼꼼하게 수사할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>부산·경남도 통합 시동... 9월까지 案 마련 후 공론화</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/17/FJAY6CUXC5CRPG2FVZGZEG5PHY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/17/FJAY6CUXC5CRPG2FVZGZEG5PHY/</guid>
-      <dc:creator>부산=박주영 기자, 창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 17 Jun 2024 12:12:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UKZE32LGINEOXIIMKPZW47CZAQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;17일 부산 연제구 부산시청에서 박형준 부산시장(왼쪽)과 박완수 경남지사(오른쪽)가 행정 통합 등 지역 공동 현안과 관련한 공동합의문에 서명하고 악수하고 있다./김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 4일 통합 계획을 발표한 대구·경북에 이어 부산·경남도 행정 통합을 본격 추진하기로 했다.&lt;br&gt;&lt;br&gt;박형준 부산시장과 박완수 경남도지사는 17일 오전 부산시청에서 만나 이러한 내용의 ‘미래 도약과 상생 발전을 위한 공동합의문’을 발표했다.&lt;br&gt;&lt;br&gt;공동합의문에서 양측은 “수도권 일극(一極) 체제를 극복하고 대한민국의 새로운 발전 축을 만들려면 행정 통합이 필요하다”며 “시·도민 공감대 형성을 통해 양 시·도 행정 통합을 추진할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;양측은 이를 위해 오는 9월까지 행정통합안을 마련하고 ‘부산·경남 행정통합 공론화위원회’를 발족해 공론화 작업을 하기로 했다. 이후 내년 3월까지 여론조사를 실시해 시·도민의 의사를 확인할 계획이다.&lt;br&gt;&lt;br&gt;양측은 이날 합의문에 “특별법에 행정통합체가 연방제 주(州) 정부에 준하는 실질적 권능과 권한을 갖도록 하겠다”는 내용을 명시했다. 박 시장은 “특별법에 각 지역에 필요한 내용을 과감하게 충분히 넣어서 연방제 수준의 지방자치를 하자는 것”이라고 말했다.&lt;br&gt;&lt;br&gt;이날 회동에 김두겸 울산시장은 참석하지 않았다. 박 지사는 “장기적으로는 울산이 참여해 부산·울산·경남이 하나가 되는 것이 우리 행정 통합의 목표”라고 말했다.&lt;br&gt;&lt;br&gt;앞서 홍준표 대구시장과 이철우 경북지사는 지난 4일 정부서울청사에서 이상민 행정안전부 장관, 우동기 지방시대위원회 위원장을 만나 2026년 7월 통합 자치단체를 출범한다는 계획을 발표했다. 올해 안에 특별법을 제정하는 것을 목표로 하고 있다.&lt;br&gt;&lt;br&gt;부산·경남을 합치면 인구는 660만명, 지역 내 총생산은 224조원에 이른다. 대구·경북 통합 자치단체보다 규모가 크다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>반도체 거점 도시 용인‧이천, 연결도로 신설 등 협력 나선다</title>
       <link>https://www.chosun.com/national/regional/2024/06/17/TBX5MJEJAZD7LKO44ZD6GS6BQ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/17/TBX5MJEJAZD7LKO44ZD6GS6BQ4/</guid>
@@ -928,24 +947,6 @@
       <description/>
       <pubDate>Mon, 17 Jun 2024 09:50:36 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YRKMWSDRIVARNK7NPXV4GJ26DQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 이천시청에서 '반도체산업 기반 공동발전을 위한 업무협약식'이 열렸다. 왼쪽부터 송석준 국회의원, 이상일 용인특례시장, 김경희 이천시장, 김하식 이천시의회 의장. /용인시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 용인시와 이천시가 17일 두 도시의 반도체 산업 핵심 거점을 연결하는 도로망을 구축하는 내용을 담은 ‘반도체 산업 기반 공동 발전을 위한 업무협약’을 체결했다. 작년 12월 두 도시가 반도체산업 육성‧지원을 위해 맺은 상생협력 업무협약의 후속 조치이다.&lt;br&gt;&lt;br&gt;이번 협약의 골자는 용인의 첨단 시스템반도체 국가산업단지와 반도체 클러스터 일반산업단지, 이천 SK하이닉스 등을 유기적으로 연결하는 도로망을 구축하는 내용이다. 또 용인에 조성되는 초대형 산업단지를 중심으로 반도체 소재‧부품‧장비 기업들이 생태계를 이룰 수 있도록 공동 노력하기로 했다.&lt;br&gt;&lt;br&gt;특히 두 도시는 반도체 산업에 필요한 인적·물적 자원의 원활한 이동을 위해 국지도 84호선과 지방도 318호선, 지방도 325호선 등 도로망 구축에 협력하기로 했다.&lt;br&gt;&lt;br&gt;우선 용인시 처인구 원삼면에 SK하이닉스가 조성 중인 용인 반도체 클러스터에서 SK하이닉스 이천캠퍼스까지 이어지는 국지도 84호선(용인 원삼~이천 대월면 구간 23.9km) 4차로 신설 계획이 국토교통부의 제6차 국도·국지도 건설계획에 반영될 수 있도록 협력하기로 했다.&lt;br&gt;&lt;br&gt;이에 앞서 두 도시는 용인 반도체 클러스터와 SK하이닉스 이천 캠퍼스 간 이동 편의를 위해 지방도 325호선(용인 백암~이천 호법 구간 4.8km)을 현재 왕복 2차로에서 4차로로 확장하는 계획도 지난 3월 경기도에 각각 건의했다. 이 노선은 적정 교통량 초과로 정체가 발생하고 있지만 제3차 경기도 도로 건설계획에 포함되지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3PSK2LDQ2NANTCTY43IZV2HJRA.png"&gt;&lt;figcaption&gt;&lt;small&gt;용인시-이천시의 반도체 산업 기반 도로망 구축 계획. /용인시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 이천시청에서 열린 협약식에는 이상일 용인시장, 김경희 이천시장, 송석준 국회의원 등이 참석했다.&lt;br&gt;&lt;br&gt;이 시장은 “반도체산업의 발전은 대한민국 미래 경쟁력을 강화시키는 일인 만큼 용인특례시와 이천시가 전국 유일의 반도체 산업 발전을 위한 협력 모델로서 국가 경제를 이끌도록 새로운 길을 개척해 나가겠다”고 말했다.&lt;br&gt;&lt;br&gt;또 김 시장은 “두 도시는 세계 시장을 상대로 경쟁해야 하는 동반자이자 운명 공동체인 만큼 앞으로 유기적으로 소통 협력하며 구체적 성과를 내도록 노력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정부, 공정위에 의협 신고...”개원의들 담합에 동원”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/06/17/W5LVOTUW7FASFHCTSVIZM2PH7I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/17/W5LVOTUW7FASFHCTSVIZM2PH7I/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 17 Jun 2024 08:51:00 +0000</pubDate>
-      <content:encoded>서울대병원이 전면 휴진(총파업)에 들어간 가운데, 18일에는 동네 병·의원과 서울아산병원, 서울성모병원, 삼성서울병원 등 주요 대학병원들이 휴진에 나선다. 대한의사협회(의협)의 총파업 선언에 의대 교수 단체들이 동참하면서다. 보건복지부는 공정거래위원회에 의협을 신고하는 등 엄정 대응에 나섰다.&lt;br&gt;&lt;br&gt;17일 의료계 등에 따르면, 복지부는 이날 공정거래위원회에 의협에 대한 사업자 단체 금지 행위 신고서를 냈다. 사업자 단체인 의협이 개별 사업자인 개원의를 담합(집단 휴진)에 동원했다고 본 것이다. 공정거래법상 금지된 행위로 판명될 경우 사업자는 10억원 이내 과징금을 물게 되고, 의협 회장 등 관련자들은 2년 이하 징역 또는 1억5000만원 이하 벌금형을 받을 수 있다고 정부 측은 설명했다. 공정위는 의협이 개원의들의 휴진을 직간접적으로 유도했는지 살펴볼 것으로 전해졌다.&lt;br&gt;&lt;br&gt;정부의 강경 대응에도 의협은 18일 전국 단위로 휴진하고, 이날 오후 2시에는 서울 여의도에서 총궐기대회를 개최한다. 이날 휴진에는 전국의대교수협의회(전의교협)와 전국의대교수 비상대책위원회(전의비)도 참여한다. 의협 관계자는 “휴진 참여율이 상당할 것으로 예상되며, 총궐기 대회에는 2만명 이상이 모일 것으로 예상하고 있다”고 했다.&lt;br&gt;&lt;br&gt;한편 정부 안팎에선 휴진 참여율이 예상보다 높지 않을 것이란 말이 나온다. 의료계 내부에서도 의협의 집단 휴진에 참여하지 않겠다는 선언이 연이어 나온 데다, 사전에 휴진을 신고한 의료기관도 전체의 4%에 불과하기 때문이다.&lt;br&gt;&lt;br&gt;한편 18일 문 여는 ‘동네 병원’은 전화와 인터넷, 스마트폰으로 확인할 수 있다. 전화를 이용하는 경우 보건복지콜센터(국번없이 129), 구급상황관리센터(119), 국민건강보험공단(1577-1000), 건강보험심사평가원(심평원) 콜센터(1644-2000)를 통해 확인할 수 있다. 인터넷으로는 응급 의료 포털을 이용하면 된다. 검색을 원하는 지역을 시·군·구 단위까지 선택한 뒤 진료 과목을 골라 검색하면 된다. 스마트폰으로는 ‘응급 의료 정보 제공(E-Gen)’ 앱을 내려받아 확인할 수 있다. 비대면 진료를 하는 의료기관은 심평원 홈페이지 ‘비대면 진료 시범 사업 진료 기관’ 메뉴 등을 통해 찾을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강남·용인 오가는 버스 운행 방향 바뀐다, 29일부터 22개 버스노선 조정</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/06/17/3JPL4EJPKBFPHCIFBBKYPGLL5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/06/17/3JPL4EJPKBFPHCIFBBKYPGLL5A/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description>수도권에서 강남으로 진입하는 버스의 운행 방향과 정류장이 대거 변경된다.</description>
-      <pubDate>Mon, 17 Jun 2024 02:17:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LWZSSZ6VH3YCHSVCGSVDTS655M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;용인,강남 오가는 버스 운행 변경 계획/국토교통부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수도권에서 강남으로 진입하는 버스의 운행 방향과 정류장이 대거 변경된다. 강남역~양재역 등 상습 정체 구간의 버스를 분산해 운행 소요 시간을 줄이겠다는 취지다.&lt;br&gt;&lt;br&gt;국토교통부 대도시권광역교통위원회와 서울특별시, 인천광역시, 경기도는 강남·명동 방향 출·퇴근길 속도 향상을 위해 22개 광역버스 노선을 오는 29일부터 분산·조정하기로 결정했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;결정안에 따르면 강남과 용인을 오가는 5개 노선(1560번, 5001번, 5001-1번, 5002B번, 5003번)은 오후 시간대 운행 방향이 바뀐다. 기존에 이 버스들은 경부고속도로에서 반포IC를 통해 신논현, 강남역, 양재역을 거쳐 다시 경부고속도로로 빠지는 시계 방향 운행을 했다. 29일부턴 오전엔 이 운행 방향을 그대로 유지하지만, 오후엔 양재역을 먼저 거친 후 강남역과 신논현으로 가는 반시계방향 운행으로 바뀐다.&lt;br&gt;&lt;br&gt;강남 일대에서 이 버스를 이용하는 이들은 기존과 반대 방향에서 버스를 타야 한다. 기존엔 경기도 쪽 하행 방향에서 탑승했지만, 서울 쪽 상행 정류장에서 버스를 타야 한다는 뜻이다. 국토부는 “노선을 이용하는 용인 거주 직장인 혼란 줄이기 위해 서울 출근 시와 퇴근 시 이용하는 노선번호(오전A, 오후B)가 구분된다”고 설명했다.&lt;br&gt;&lt;br&gt;국토부는 강남대로 중앙버스전용차로 정체를 완화하기 위해 15개 노선 정류장을 중앙에서 가로변으로 옮긴다. 인천·고양·김포·파주·포천에서 출발하는 9개 노선(9500번, 9501번, 9802번, M7412번, 9700번, M6427번, 6427번, G7426번, 3100번)은 가로변에 정차한다. 화성(동탄)에서 출발하는 6개 노선도 강남대로 중앙차로 대신 가로변 정류장으로 변경된다.&lt;br&gt;&lt;br&gt;성남에서 서울 명동으로 향하는 2개 노선(9003번, 9300번)은 혼잡이 심한 명동 일대와 남산 1호 터널을 우회하도록 회차 경로를 기존 남산 1호 터널에서 소월로로 조정한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
