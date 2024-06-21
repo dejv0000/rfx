@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>견학 나선 18개월 여아, 타고 온 어린이집 버스에 깔려 숨져</title>
+      <link>https://www.chosun.com/national/2024/06/21/2CTPCZ5JOJCYLBRW2H5B6HUVJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/06/21/2CTPCZ5JOJCYLBRW2H5B6HUVJQ/</guid>
+      <dc:creator>산청=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Jun 2024 09:11:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SPOWXJ4JFZGCVNVPNLJKHUNB3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19개월된 어린이집 원아 사망 사고를 낸 버스. /독자제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;체험 학습에 나선 1살 여자아이가 자신이 타고 온 어린이집 버스에 치여 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;21일 경남 산청경찰서에 따르면 이날 오전 10시 40분쯤 산청군보건의료원 주차장에서 생후 18개월 된 A양이 39인승 어린이집 버스에 깔리는 사고가 발생했다. A양은 사고 직후 병원으로 이송됐지만 끝내 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 당시 버스에서 내린 A양이 버스 우측 앞에 앉아 있는 것을 50대 버스 기사 B씨가 발견하지 못하고 그대로 출발하면서 사고가 난 것으로 보고 있다. B씨는 음주를 했거나, 무면허 상태는 아닌 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 B씨를 교통사고처리특례법 위반 혐의로 입건해 조사하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “도로가 아닌 주차장에서 사고가 났기 때문에 조사하면서 구체적인 혐의를 적용할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;해당 어린이집은 이날 견학차 인솔교사 5명, A양 등 원생 29명과 함께 산청군보건의료원을 찾은 것으로 알려졌다. 경찰은 교사 일부는 버스에서 순서대로 내리는 아이들을 챙겼고, 일부는 버스에서 조금 떨어진 곳에서 내린 아이들을 챙긴 것으로 파악했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “버스 기사에 대한 1차 조사는 마쳤다”면서 “사고 당시 A양이 버스 앞에 있는 것을 왜 챙기지 못했는지 등 교사와 원장을 상대로 과실 여부를 조사할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“공항에 폭발물 설치” 협박 전화...경찰, 김해공항 등 수색중</title>
+      <link>https://www.chosun.com/national/2024/06/21/E3YZEPHU6VBSNB4JBJM6TF7K5M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/06/21/E3YZEPHU6VBSNB4JBJM6TF7K5M/</guid>
+      <dc:creator>부산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Jun 2024 08:13:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V4YCRZYXFIWSB67IVID5WHLSCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김해공항. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국공항공사에 공항 테러를 예고하는 협박 전화가 걸려와 경찰이 김해공항에 대한 수색에 나섰다.&lt;br&gt;&lt;br&gt;21일 경찰에 따르면 이날 오후 1시 40분쯤 한국공항공사 콜센터로 신원을 알 수 없는 사람이 전화를 걸어 “공항에 폭발물을 설치했다”고 협박했다. 전화 당시 어느 공항을 대상으로 하는 지는 특정하지 않았던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;신고를 접수한 경찰은 전화 발신지가 김해에 위치한 한 공중전화인 것으로 확인하고 이 인물을 추적하고 있다. 또 만일의 상황에 대비해 김해공항 수색에 돌입했다. 국내 다른 지역 공항에도 테러 위협 정보를 전달하고, 수색을 진행하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김해공항에 따르면 아직까지 폭발물은 발견되지 않았다. 협박 전화에 따른 대피는 없었고, 비행기 운행도 차질을 빚지는 않았다.&lt;br&gt;&lt;br&gt;한편, 지난 14일에도 공항을 비롯해 전국 공공기관 등에 폭발물을 설치했다는 영문 협박 이메일이 발송돼 경찰이 수사 중이다. 경찰은 협박 내용이 허위일 가능성이 크다고 보고 IP 추적 등을 통해 메일 발신자를 추적하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>佛 법원, ‘라임 사태 주범’ 이인광 보석하며 여권 압수·주거 제한</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/21/2C4KT7TNW5DMPFHHGFGDQFBNTE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/21/2C4KT7TNW5DMPFHHGFGDQFBNTE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Jun 2024 08:46:39 +0000</pubDate>
+      <content:encoded>이른바 ‘라임 사태’의 주범인 이인광 전 에스모 회장이 최근 프랑스 법원에서 보석 결정을 받았으나 여권 압수 및 주거지 제한 조치를 받은 것으로 21일 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W7CMWIYLGKNMNPXIOJCX46SL4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1조6000억원대 라임자산운용 환매 중단 사태(라임 사태)의 주범 중 한명인 이인광 에스모 회장./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 프랑스 법원은 최근 범죄인 인도 재판을 받고 있는 이씨의 보석 신청을 받아들이는 대신 이씨의 여권을 압수하고 주거지를 제한했다. 보증금 5만유로(약 7448만원)를 납부하라는 명령도 내렸다. 이씨의 여권은 범죄인 인도 재판이 종료될 때까지 압류된다.&lt;br&gt;&lt;br&gt;이씨는 이 사건 또 다른 주범인 김봉현 전 스타모빌리티 회장, 김영홍 메트로폴리탄 회장 등과 함께 이른바 ‘라임 회장단’으로 불리는 기업 사냥꾼이다. 그는 라임자산운용 자금 1300억원을 동원해 동양네트웍스, 에스모, 에스모머티리얼즈 등 다수의 코스닥 상장사를 인수한 후 주가 조작을 벌인 혐의를 받는다.&lt;br&gt;&lt;br&gt;이씨는 검찰이 수사에 착수하자 4년 5개월여 동안 국외로 도피했다. 지난 2019년 10월 검찰 수사선상에 오르자 동양네트웍스 지분을 담보로 저축은행에서 수백억원대 대출을 받은 뒤 달아난 것이다.&lt;br&gt;&lt;br&gt;결국 이씨는 지난 3월 18일 프랑스 니스에 있는 측근의 집에 숨어 있다가 체포됐다. 라임 사태를 재수사하는 서울남부지검과 경찰청, 국제형사경찰기구(인터폴), 프랑스 경찰이 공조했다고 한다.&lt;br&gt;&lt;br&gt;앞서 검찰은 작년 하반기 라임 펀드 사태 수사팀을 재편성하고 이씨에 대해 본격적인 수사에 나섰다. 지난 4월에는 이씨와 공모해 주가조작과 횡령을 저지른 전 상장사 대표를 구속 기소한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>박세리가 해결한 서류상 빚만 30억... 父 채무 더 이상 못 갚는 이유</title>
       <link>https://www.chosun.com/national/national_general/2024/06/21/5HEXZTVOPJBLBBFKWMSOAKJMA4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/21/5HEXZTVOPJBLBBFKWMSOAKJMA4/</guid>
@@ -898,24 +925,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BSOH4HEFEJLMZNLFJTM53SFOUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 2월 부산지검 강력범죄수사부 마약범죄 특별수사팀이 압수한 1657억원 상당의 필로폰. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;약 165만명이 동시에 투약할 수 있는 필로폰을 대거 국내로 들여오려다 적발돼 징역 30년이 확정된 밀수사범이 구치소 수감 도중 숨진 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;21일 부산구치소와 경찰 등에 따르면 60대 A씨가 지난달 31일 오전 부산 사상구 부산구치소 화장실에서 위독한 상태인 것을 동료 수용자들이 발견했다. A씨는 당일 병원으로 옮겨져 치료를 받다가 10일이 지난 이달 12일 결국 숨졌다.&lt;br&gt;&lt;br&gt;A씨가 위중한 상태로 발견된 것은 대법원에서 징역 30년형을 최종 확정받은 다음 날이다.&lt;br&gt;&lt;br&gt;A씨는 지난 2022년 12월 필로폰 50kg을 다른 일당과 함께 태국에서 부산 용당세관으로 들여온 혐의(특정범죄 가중처벌 등에 관한 법률 위반) 등으로 지난해 9월 1심에서 징역 30년을 선고받았다. 이후 항소심과 상고심에서 원심 형량이 유지됐다.&lt;br&gt;&lt;br&gt;법원이 인정한 범죄 사실을 보면 A씨는 쓰레기통을 수입하는 척 화물 팔레트에 필로폰을 숨겨 들어왔다. 12L짜리 스테인리스 쓰레기통을 수입하는 것처럼 위장하고 이들 쓰레기통 포장 박스 밑에 놓인 팔레트에 필로폰을 숨기는 신종 수법이었다. 비닐봉지에 싸 팔레트 바닥 홈에 숨긴 필로폰은 세관의 엑스레이 투시기 등에도 감지되지 않았다. A씨는 이후 팔레트를 대구 수성구 빌라로 옮겼다. A씨의 마약 밀수 범행은 엉뚱하게 담배 밀수 때문에 덜미가 잡혔다. 검찰이 A씨가 관여된 담배 밀수 사건을 수사하려고 이 빌라를 찾았다가 현장에서 필로폰을 발견한 것이다.&lt;br&gt;&lt;br&gt;A씨 등이 밀수한 필로폰 50㎏은 약 165만명이 동시에 투약할 수 있는 양이다. 시가로 1657억원어치로, 국내 필로폰 밀수 사건 중 역대 3번째로 큰 규모였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>주말 제주·남부에 또 최대 200㎜ 물폭탄... 더위는 한풀 꺾여</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/06/21/LLKQQT5O2ZFNHK7BTROVJQPBUY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/06/21/LLKQQT5O2ZFNHK7BTROVJQPBUY/</guid>
-      <dc:creator>김윤주 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Jun 2024 01:43:34 +0000</pubDate>
-      <content:encoded>이번 주말 전국이 흐리고 비가 오겠다.&lt;br&gt;&lt;br&gt;22일은 전국이 대체로 흐린 가운데 남부 지방과 제주도를 중심으로 매우 강하고 많은 비가 내리겠다.&lt;br&gt;&lt;br&gt;제주와 남부 지방은 장마 정체전선의 영향으로 22일부터 비가 내리기 시작해 23일까지 이어지겠다. 비는 22일 새벽 전남권과 제주도에서 시작돼 오전에는 그 밖의 남부 지방으로 확대되겠다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4V6W2SDMX6XOP5B3JRXQRJFEM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주에 올해 첫 장맛비가 내린 20일 오전 제주국제공항에서 관광객들이 비를 피해 빠르게 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 오전 대부분 지역에서 비가 그치겠으나, 제주도는 오후까지 비가 내리겠다. 제주도에서는 200㎜ 이상 많은 비가 쏟아질 가능성이 높다.&lt;br&gt;&lt;br&gt;22일 수도권, 충청권 등 중부 지방에서도 비가 내리겠다. 그러나 이는 장마가 아닌 저기압의 영향이라고 기상청은 밝혔다. 오랜 기간 이어지는 장마와 달리 저기압 영향으로 인한 비는 오래 지속되지 않는다.&lt;br&gt;&lt;br&gt;오전부터 경기 남부와 강원 남부, 충청권에 비가 오겠고, 경기 남부와 강원 남부, 충청권 북부는 비가 밤에 대부분 그치겠다.&lt;br&gt;&lt;br&gt;22일 아침 최저 기온은 19~23도, 낮 최고 기온은 24~29도로 예보됐다. 한동안 35도까지 치솟았던 낮 최고 기온은 이날 평년 수준을 기록해 더위가 다소 누그러질 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>어머니의 한 마디에 ‘자수’.. 경찰, 보이스피싱 총책 10년만에 검거</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/21/YNZ6YF4NN5CTPAA4MQ7V5ZNW4A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/21/YNZ6YF4NN5CTPAA4MQ7V5ZNW4A/</guid>
-      <dc:creator>강우석 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Jun 2024 01:03:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5YLBYKPLNFDPFIT575PZLNWHQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 지난 14일 새벽 범행 10년만에 검거된 보이스피싱 총책 A씨를 공항에서 호송하고 있다. A씨는 필리핀, 말레이시아 등을 돌아다니며 수사망을 피한 것으로 알려졌다. /중랑경찰서 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰서 10곳, 검찰청 1곳 등 총 11개 수사기관이 수배 중이었던 보이스피싱 조직의 인출 총책이 범행 10년 만에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 중랑경찰서는 특경법상 사기·전자금융거래법위반 혐의를 받는 A(50)씨를 지난 14일 검거했다고 21일 밝혔다. A씨는 지난 20일 구속 송치됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 2014년 11월부터 2015년 3월까지 필리핀 북부 루손섬 앙겔레스 지역 등에서 고철판매와 대출 사업을 빙자한 보이스피싱 조직의 인출총책으로 활동하며 피해자 42명으로부터 총 5억1300만원을 가로챈 혐의를 받는다. A씨는 2015년 5월 이를 수사하던 경찰로부터 인터폴 적색수배 상태였다. 필리핀에 거주하던 A씨는 수배를 피해 2017년쯤 말레이시아로 밀입국해 대출 사업 등을 벌이며 생활을 이어갔다고 한다.&lt;br&gt;&lt;br&gt;그러나 지난달 28일 한국에 거주하는 어머니가 “이제 그만 들어와라”는 취지의 말을 하자 A씨는 주말레이시아 대한민국대사관에 자수했다. 경찰은 지난 14일 새벽 입국한 A씨를 공항에서 검거했다.&lt;br&gt;&lt;br&gt;중랑경찰서는 A씨를 적색수배할 당시인 2015년쯤 A씨의 하부 조직 인출책 45명을 검거, 10명을 구속하고 35명을 불구속해 검찰에 송치한 바 있다. 당시 A씨의 아내인 B(47)씨도 A씨와 같이 범행을 벌이다 2015년 10월 필리핀에서 붙잡힌 바 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>걸그룹 멤버에 “몸매 좋아, AV 배우 데뷔해달라”…선 넘은 방송</title>
       <link>https://www.chosun.com/national/national_general/2024/06/21/WCTVHEYF3ZDIFELQZBUWT5R7HA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/21/WCTVHEYF3ZDIFELQZBUWT5R7HA/</guid>
@@ -923,15 +932,6 @@
       <description/>
       <pubDate>Fri, 21 Jun 2024 01:19:26 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7JD3EF4REVG3XKUHQVRC5KXSPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일본 AV배우 오구라 유나가 시그니처 지원을 향해 “인기 많을 것 같다. 몸매가 좋으니까”라고 말하고 있다. /유튜브 채널 '노빠꾸탁재훈'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 탁재훈이 진행하는 유튜브 방송에서 걸그룹 멤버를 향해 ‘AV(성인 영상물) 배우로 데뷔해달라’는 발언이 나와 성희롱 논란이 불거졌다.&lt;br&gt;&lt;br&gt;19일 유튜브 채널 ‘노빠꾸탁재훈’에는 일본 AV배우 오구라 유나가 게스트로 출연했다.&lt;br&gt;&lt;br&gt;오구라 유나는 이날 “신작이 나왔으니 많이 봐 달라”며 자신의 AV 작품을 홍보하면서 스페셜 MC인 걸그룹 ‘시그니처’의 멤버인 지원을 향해 “인기 많을 것 같다. 몸매가 좋으니까. 꼭 데뷔해달라”고 말했다. 오구라 유나는 “진짜 톱톱배우가 될 수 있다. 진짜로. 내가 도와주겠다”고도 했다.&lt;br&gt;&lt;br&gt;이에 지원은 “한국에서 배우로 데뷔하긴 했다”고 상황을 무마하려 했지만 탁재훈은 “그거랑 다르다”며 오구라 유나가 언급한 배우가 ‘AV 배우’라고 시사했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHEVFNNGUBPITPNJ5QNKWGZKIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;걸그룹 시그니처의 지원. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영상이 공개된 후 네티즌들은 “AV 배우로 데뷔해달라는 발언은 성희롱이다” “지원이 난처해하는 표정을 봐라” “선을 넘은 농담이다” 등의 의견을 남기며 반발했다. 반면 “농담일 뿐인데 과민 반응을 하나” “저 정도 농담도 못하느냐”며 출연자를 옹호하는 의견도 다수 있었다.&lt;br&gt;&lt;br&gt;논란이 일자 유튜브 채널 ‘노빠꾸탁재훈’ 측은 해당 내용을 대부분 편집했다.&lt;br&gt;&lt;br&gt;한편 일본 AV배우 오구라 유나는 지난해 ‘노빠꾸 탁재훈’에 출연해 해당 방송분이 1000만이 넘는 조회수를 기록한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>﻿“문 닫지 말라” 간청에도 파업…환자, 휴진 의원 고소</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/06/21/KBNQA6F7KNHK5ELVG2PVEWYLBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/21/KBNQA6F7KNHK5ELVG2PVEWYLBQ/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Jun 2024 00:55:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XG7NEYQ24NPK3IJNUIEWX4ENTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의과대학 정원 증원안을 둘러싼 의정갈등이 계속되고 있는 가운데 20일 오후 서울 시내 한 대형병원 응급실 대기실에 한 환자가 대기하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문을 닫지 말아 달라는 환자의 요청에도 의원 문을 닫고 집단휴진에 참여한 의사가 환자에게 고소당했다. &lt;br&gt;&lt;br&gt;21일 환자단체 등에 따르면 경기도에 거주하는 A씨는 의료법 위반 혐의 등으로 본인이 다니던 경기도 광명시 소재 의원 원장을 경찰에 고소했다. &lt;br&gt;&lt;br&gt;안과 질환을 앓던 A씨는 대한의사협회(의협)가 집단 휴진과 전국 의사 총궐기대회를 벌인 지난 18일 해당 의원을 방문했으나 휴진으로 인해 진료받지 못했다. A씨는 의협의 집단 휴진 방침을 듣고 수일 전 해당 의원을 찾아가 “문을 닫지 말아 달라”고 부탁한 것으로 알려졌다. 그런데도 원장이 불법 파업에 참여했다며 A씨는 법적인 처벌을 요구했다. &lt;br&gt;&lt;br&gt;A씨는 “부인이 간질환으로 인해 간 이식 수술을 받은 환자라 의사들의 파업에 너무 화가 났다”고 주장한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;의협은 지난 18일 정부의 의대 정원 증원 등 의료정책 추진에 반발해 집단휴진을 강행했다. 정부가 파악한 이날 전국 의료기관 휴진율은 14.9%다. 정부는 휴진율이 30%를 넘었던 지역 등을 대상으로 현장 조사를 실시하고, 정당한 휴진 사유가 있는지 등 사실관계를 파악해 행정처분을 결정할 예정이다. &lt;br&gt;&lt;br&gt;의협은 의대 교수‧전공의 중심 범의료계 특위를 구성하고, ‘3대 요구안’에 대한 정부의 입장 변화가 없을 시 22일 무기한 휴진을 논의하겠다고 밝혔다. 3대 요구안은 ▲의대 증원 의료계와 재논의 ▲필수의료 정책 의료계와 논의 ▲전공의와 의대생 행정처분 즉각 소급 취소다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>에어컨 수리하다… 강남 아파트 7채 태웠다</title>
