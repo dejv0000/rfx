@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>바코드 찍는 척 ‘계산 연기’한 도둑… 지켜보던 점주는 문 잠갔다</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/22/NYTTNGE7KZBBRHWT4ARDQH3AVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/22/NYTTNGE7KZBBRHWT4ARDQH3AVM/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Jun 2024 21:52:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZOTUB7OWHNDPNPCRGS7OTNTTWY.gif"&gt;&lt;figcaption&gt;&lt;small&gt;무인점포를 찾은 한 남성이 키오스크 앞에서 계산하는 척하는 모습. 바코드를 찍는 듯한 행동을 하지만 정작 화면에는 아무 것도 뜨지 않고 있다. /경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무인점포에서 계산하는 척만 한 뒤 물건을 훔쳐 달아나려던 남성이 점주 신고로 경찰에 붙잡혔다. 이 모습은 계산대를 찍던 점포 내 CCTV에 고스란히 포착됐고 남성은 현장에서 체포됐다.&lt;br&gt;&lt;br&gt;남성 A씨의 절도 행각은 지난달 13일 서울의 한 무인점포에서 벌어졌다. 경찰청 유튜브 채널을 통해 공개된 당시 CCTV 영상을 보면, 반팔과 반바지 차림에 모자를 눌러쓴 A씨는 익숙한 듯 가게 안으로 들어와 물건들을 고르기 시작한다. 이어 계산대로 향한 뒤 키오스크 앞에서 분주히 움직인다.&lt;br&gt;&lt;br&gt;그러나 자세히 보면 상품 바코드를 찍는 A씨 행동과는 다르게, 키오스크 화면에는 아무런 내역이 뜨지 않는다. A씨의 ‘계산하는 연기’였다. A씨는 물건들을 추가로 더 가져와 같은 행동을 반복하더니 계산을 끝내지 않고 가게를 나서려 했다.&lt;br&gt;&lt;br&gt;하지만 점주는 이 모든 과정을 CCTV로 지켜보고 있었다. 계산대 맞은편에 설치된 카메라가 정확히 키오스크 화면을 촬영하고 있었기 때문에 A씨의 연기를 일찌감치 깨달았던 것이다. 게다가 A씨의 이번 범행은 처음이 아니었다. 점주는 A씨가 현장을 벗어나기 직전 원격으로 문을 잠그고 경찰에 신고했다.&lt;br&gt;&lt;br&gt;A씨는 문이 잠겨 도망치지 못하게 되자 태연하게 계산하지 않은 아이스크림을 먹기도 했다. 곧이어 경찰이 도착하자 아무 죄가 없다는 듯 경찰을 맞이하기까지 했다. 그는 처음엔 변명을 늘어놓으며 범행을 부인했으나, 경찰이 이전 범행 증거를 제시하자 결국 인정하고 현행범으로 체포됐다.&lt;br&gt;&lt;br&gt;최근 무인점포 사업이 업종을 가리지 않고 전국적으로 확대되면서 관련 범죄도 늘어나고 있다. 유통업계에 따르면 전국 무인점포 개수는 10만 개 이상인 것으로 추정된다. 다만 사업자등록만 하면 지방자치단체 신고 없이 개업할 수 있기 때문에 정확한 점포 수를 파악하기 어려운 상황이다.&lt;br&gt;&lt;br&gt;CCTV나 원격으로 절도·기물 파손 등에 신속한 대응이 가능하지만, 범법 행위를 강행하는 경우 사실상 제지할 방법은 없다. 앞서 범인을 잡기 위해 CCTV 영상 속 범행 장면을 공개하는 사례가 있었지만, 명예훼손에 해당한다는 법원 판결이 내려진 후 이런 방법도 어려워졌다. 결국 용의자가 초범이거나 미성년자로 보일 경우 손해를 감수하고 신고 자체를 하지 않는 경우도 많다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] “개체 수 조절” vs “생명 경시 법”… ‘비둘기 먹이 금지법’이 뭐길래</title>
       <link>https://www.chosun.com/national/transport-environment/2024/06/22/SDJK3BHEZBFIBFZDSE73RYI65M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/06/22/SDJK3BHEZBFIBFZDSE73RYI65M/</guid>
@@ -859,15 +868,6 @@
       <description/>
       <pubDate>Fri, 21 Jun 2024 02:42:42 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P5EHC4JXZJO7TLEHIAQNJIO63U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 오후 서울 강남구 역삼동 아이파크 아파트에서 발생한 화재에 대해 21일 오전 소방관들이 화재 현장감식을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구 역삼동 아이파크 아파트에서 지난 20일 발생한 화재의 원인으로 에어컨 용접 불꽃이 옮겨 붙은 것으로 추정되는 가운데, 해당 작업을 수행한 에어컨 기사는 삼성전자 자회사 소속 직원인 것으로 21일 밝혀졌다.&lt;br&gt;&lt;br&gt;본지 취재 결과 에어컨 기사 A(51)씨는 삼성전자의 자회사인 삼성전자서비스 정규직 직원인 것으로 확인됐다. 삼성전자서비스 관계자는 “해당 아파트는 16층 이상 아파트로, 책임보험 가입 의무라 화재 피해는 보험으로 배상이 가능할 것으로 보인다”며 “우리도 보험 가입이 돼 있어서, 아파트 측에서 먼저 책임 보험을 진행하고, 이후 회사 측에서 정산하는 식으로 해결할 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;화재 현장에서 부상을 당한 A씨에 대한 치료비도 삼성전자서비스 측에서 지원할 것으로 보인다. 이 관계자는 “우리 임직원이 일하다 다친 것이기 때문에 회사 가이드라인에 따라 치료비 등 지원할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;한편 앞서 A씨는 경찰 조사에서 당시 상황에 대해 에어컨 설치·수리 과정 중 용접을 하다가 에어컨 실외기 옆에 놓여있던 비닐봉지에 불이 붙었던 것으로 기억한다고 진술한 것으로 알려진 바 있다. 에어컨 배관에 쓰이는 동관 용접 과정에서 화재가 시작됐다는 것이다.&lt;br&gt;&lt;br&gt;A씨가 삼성전자서비스 직원으로 밝혀지면서 회사 측에 안전 규정과 가이드라인 등이 마련돼있는지, 또 작업 당시 해당 규정을 준수했는지 등으로 경찰 수사 범위가 확대 될 것으로 보인다.&lt;br&gt;&lt;br&gt;지난 20일 오후 1시 22분쯤 서울 강남구 역삼동 현대 아이파크 아파트 10층에서 불이 나 3시간여 만에 꺼졌다. 화재가 발생한 10층 아파트 세대는 전소했고 윗층 여섯 세대도 심하게 타거나 그을렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>갈등빚던 입주민 야구방망이로 폭행 아파트 경비원...2심도 ‘징역 3년’</title>
-      <link>https://www.chosun.com/national/regional/2024/06/21/HXOUBF55FRHIHOM7PZMAIG2JTQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/21/HXOUBF55FRHIHOM7PZMAIG2JTQ/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Jun 2024 03:05:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;갈등을 빚던 아파트 입주민을 야구방망이로 때려 살해하려 한 혐의로 기소된 80대 경비원에게 항소심에서도 1심과 같은 징역 3년 형이 선고됐다.&lt;br&gt;&lt;br&gt;대전고법 형사1부(재판장 박진환)는 21일 살인미수 혐의로 1심에서 징역 3년을 선고받은 A(80)씨에 대한 항소심 선고공판에서 “피고가 초범인 데다 범행을 자백하고 피해자와 합의하는 노력을 보였지만, 잔인하고 흉포한 범행 정황을 보면 1심 판결이 부당하다고 보이지 않는다”며 검사와 A씨가 각각 제기한 항소를 모두 기각했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 10월 2일 오후 7시 30분쯤 대전시 동구 자신이 경비원으로 일하는 아파트 복도 계단에서 입주민 B(여·66)씨를 여러 차례 야구방망이로 내리쳐 살해하려 한 혐의로 재판에 넘겨졌다. 당시 도움을 요청하는 B씨의 소리를 들은 남편이 제지해 범행은 미수에 그쳤고, B씨는 전치 3주의 상처를 입었다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 과거 B씨 남편과 아파트 관리비 문제를 놓고 갈등을 빚어 서로 112 신고를 하거나 고소를 하기도 했다. 관계가 악화한 상황에서 B씨가 자신에게 경비원 일을 그만두라고 하자 화가 나 B씨를 뒤따라가 범행을 저질렀다고 한다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 “살해의 고의가 없었다”고 주장했다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 “나무 재질 야구방망이로 머리를 집중적으로 가격한 점 등으로 볼 때 고의가 없었다는 주장은 받아들이기 어렵다”면서 “개인적 악감정으로 고령의 입주민을 뒤에서 습격하고, 피해자를 추격하며 계속 급소를 난타해 죄질이 나쁘다”며 A씨에게 징역 3년을 선고했다.&lt;br&gt;&lt;br&gt;1심 선고 후 검찰과 A씨는 모두 양형 부당을 이유로 항소했지만, 항소심 재판부는 “1심 형량이 부당하다고 보이지 않는다”며 항소를 모두 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>채용 거절하자…지인 흉기로 찌른 40대 男 체포</title>
