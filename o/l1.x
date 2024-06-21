@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>법제처, 법령정보 60만 건 오픈API로 개방…리걸테크 기업 지원</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/199289.jpg" alt="199289.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;법제처&lt;/b&gt;(처장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9236"&gt;이완규&lt;/span&gt;)가 법령데이터와 디지털 기술을 접목한 리걸테크 산업을 지원하기 위해 관련 기업들과 간담회를 갖고 기업과 민관 협력 방안, 지원 입법 방향을 모색했다. &lt;br /&gt;&lt;br /&gt;법제처는 21일 서울 양재동 엘타워에서 열린 간담회에서 "오는 12월 각 부처에 산재된 중앙부처 법령해석과 특별행정심판 재결례 60만 건을 국가법령정보센터에서 오픈API 형태로 개방해 리걸테크 서비스 개발에 활용할 수 있도록 할 계획"이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;이완규 법제처장은 "AI 일상화 시대를 맞이해 법률분야에서도 국내의 리걸테크 산업이 활성화될 수 있는 기반이 마련되어야 할 것"이라며 "앞으로도 리걸테크 지원 관련 법령을 개정하는 등 리걸테크 기업들과의 정기적인 협의를 통해 관련 지원을 계속하겠다"고 약속했다. &lt;br /&gt;&lt;br /&gt;또 베트남, 인도네시아 등 아시아 국가에서 공적개발원조(ODA) 사업으로 추진 중인 법령정보시스템 구축 사업을 소개하면서 리걸테크 기업들의 참여와 관심을 요청했다. &lt;br /&gt;&lt;br /&gt;특히 법제처 주관으로 11월 개최되는 제12회 아시아법제전문가회의(ALES)를 설명하고 주제인 '아시아 지역의 리걸테크 발전을 위한 협력 방안'에 대한 기업의 참여와 협조를 당부했다.&lt;br /&gt;&lt;br /&gt;리걸테크산업협의회 공동대표인 김본환 로앤컴퍼니 대표가 "전 세계적으로 생성형 AI가 법률분야에 급속도로 접목되어 법률리서치, 법률문서 요약·검토·작성 등 변호사를 보조하는 역할을 수행해 업무 효율성을 높이고 있다"면서 "경쟁력 있는 한국어 법률AI 개발을 위해서는 어떤 분야보다도 정확하고 방대한 공공데이터 제공이 필요하다"고 말했다.&lt;br /&gt;&lt;br /&gt;BHSN&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="42855"&gt;임정근&lt;/span&gt;&amp;nbsp;대표는 "법률 AI 서비스 개발 과정에서는 양질의 대규모 공공 데이터베이스가 필요하므로 법령 관련 정보 및 판결문 데이터의 추가적인 개방 확대를 기대한다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;한편 법제처는 '법령정보의 관리 및 제공에 관한 법률'에 따라 2021년 12월 리걸테크 관련 업체 4곳을 대상으로 간담회를 개최한 이후 정례적으로 리걸테크 기업을 찾아가 현장의 목소리를 듣고 있다.</description>
+			<pubDate>Fri, 21 Jun 2024 03:31:31 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/199289</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199289</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/199289.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 법원 "아트센터 나비, SK 본사 퇴거 및 10억 배상해야"</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/199287.jpg" alt="199287.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;최태원 SK그룹 회장 측이 서린동 SK 본사 건물에 있는 '아트센터 나비' 부동산을 인도하라며 제기한 소송에서 승소했다.&lt;p&gt;&amp;nbsp;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;&lt;b&gt;서울중앙지법 민사36단독&lt;/b&gt;&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8193"&gt;이재은&lt;/span&gt;&amp;nbsp;부장판사는 21일 SK이노베이션이 아트센터 나비 미술관을 상대로 낸 부동산 인도 등 청구소송에서 "아트센터 나비는 SK이노베이션에게 이 사건 부동산을 인도하고, 10억4560만 원을 지급하라"며 원고일부승소 판결했다(&lt;b&gt;2023가단5130890)&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이 부장판사는 "SK이노베이션이 계약에 정한 날짜에 따라 적법하게 계약이 해지됐으므로 아트센터 나비는 목적물(부동산)을 인도해야 한다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이 부장판사는 전대차계약이 SK그룹의 정신적 문화유산을 보전하고 SK의 문화경영에 이바지하기 위한 목적으로 체결됐고, 그 취지에 따라 같은 목적에서 벗어나는 활동을 하지 않는 한 일방적으로 해지될 수 없다는 것이 계약의 전제라는 아트센터 나비 측 주장을 받아들이지 않았다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;전대차계약의 취지에 벗어나지 않았는데도 이혼소송 1심 판결이 선고되자 돌연 이 사건 소송을 제기한 것은 계약위반이고, SK이노베이션의 이익에 반하는 배임 행위라는 아트센터 나비 측 주장도 받아들이지 않았다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이 부장판사는 "이 사건 소송은 양측의 전대차계약에 따른 해지 통보와 부동산 인도 청구이고, 달리 계약 위반이라거나 배임 행위에 해당한다고 볼 증거가 없다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이 부장판사는 노 관장의 이혼 소송과 불가분의 관계에 있어 이혼 소송의 종국 판단을 기다려야 한다는 아트센터 나비 주장에 대해서도 "특수성이 있다고 할 수 없다"며 받아들이지 않았다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;SK그룹이 2000년 워커힐 미술관을 계승해 설립한 아트센터 나비 미술관은 서울 종로구 서린동 SK서린빌딩 4층에 있다. SK서린빌딩에는 SK그룹 계열사들이 대거 입주해 있고, SK그룹의 실질적인 본사 역할을 하고 있다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;SK이노베이션은 아트센터 나비와의 계약이 2019년 종료됐다며 지난해 4월 소송을 제기했다. 당초 이 사건은 조정에 회부됐으나 SK이노베이션 측 대리인이 조정기일에 출석하지 않아 조정이 결렬됐다. 당시 SK이노베이션 측은 "받아들일 수 없는 조정안이 제출돼 조정이 불성립됐다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;한편, 이 사건은 최 회장과 노 관장의 이혼소송에서도 언급됐다. 이혼 항소심 재판부는 최 회장이 이혼 조정을 신청한 이후인 2019년 SK이노베이션이 리모델링을 이유로 아트센터 나비에 대해 임대차 계약 해지를 통보하고 퇴거를 요청했고 인도소송을 제기한 반면, 상당한 자금을 출연해 김희영 씨와 티앤씨재단을 설립하는 등 노 관장에게 정신적 고통을 줬다고 판단했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Fri, 21 Jun 2024 02:31:03 -0000</pubDate>
@@ -230,16 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199221</guid>
 			<media:thumbnail>http://image.lawtimes.co.kr/images/199221.jpg</media:thumbnail>
 			<dc:creator>이진영 기자</dc:creator>
-		</item>
-		<item>
-			<title> 이승태 법무법인 도시와 사람 대표변호사, 법률신문사 방문</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="http://image.lawtimes.co.kr/images/199219.jpg" alt="199219.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://dosalaw.net/main/main.html" target="_blank"&gt;&lt;b&gt;법무법인 도시와 사람&lt;/b&gt;&lt;/a&gt;&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="230"&gt;이승태&lt;/span&gt;(56·사법연수원 30기) 대표변호사가 19일 서울 서초동 법률신문을 찾아 경영진과 환담했다.&lt;p&gt;&lt;br /&gt;도시와 사람은 환경, 도시건설, 부동산, 집합건물, 토지보상과 관련한 사건을 전문적으로 다루고 있다. 특히 도시와 사람은 대표와 부대표를 제외하고 소속 변호사가 18명인데, 올 가을 여성과 남성 변호사 2명이 동시에 5개월 가량 육아휴직을 떠난다는 소식이 알려져 화제가 됐다《법률신문 5월 23일 자 보도 참조》. 이와 함께 최근 전 직원 설문조사를 거쳐 이달부터 유연근무제와 단축근무도 실시한다.   &lt;/p&gt;&lt;p&gt;&lt;br /&gt;이 대표변호사는 "구성원 수가 많지 않은 중소형 로펌에서는 좋은 인재가 가장 큰 자산"이라며 "쉽지 않은 결정이었지만, 구성원의 복지를 위한 결정인 만큼 이런 분위기가 다른 법률사무소와 로펌으로도 이어졌으면 좋겠다"고 말했다.   &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Wed, 19 Jun 2024 08:50:07 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/199219</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199219</guid>
-			<media:thumbnail>http://image.lawtimes.co.kr/images/199219.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
