@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>﻿“엄중하게 조치하겠다”…'밀양 가해자’ 근무 기업들도 진땀</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/22/EQERM3MQYRDH7OB22V2PCHVQOY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/22/EQERM3MQYRDH7OB22V2PCHVQOY/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Jun 2024 13:01:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AKNC4DE73NDWVAMPVW3WQ63JYM.png"&gt;&lt;figcaption&gt;&lt;small&gt;2004년 발생한 '밀양 여중생 집단 성폭행 사건'의 가해자로 지목된 남성. /유튜브 '전투토끼'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20년 전 발생한 ‘밀양 여중생 집단 성폭행 사건’이 최근 다시 화제를 모으며 공분을 산 가운데, 가해자로 지목된 이들이 근무하는 것으로 알려진 기업들도 대응에 나섰다.&lt;br&gt;&lt;br&gt;22일 울산 소재 한 중견기업은 홈페이지를 통해 “당사는 사회적 기업으로서 책임감을 갖고, 이슈가 된 사건 관련해 진위를 파악 중”이라며 “결과에 따라서 엄중하게 조치하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;전날 유튜버 ‘전투토끼’는 밀양 사건의 가해자 중 한 명이라며 박모씨의 실명과 얼굴을 공개했다. 해당 유튜버는 박씨가 10년 이상 근무했다는 회사의 이름과 함께 “1년 차 연봉이 4000만원에 달하며, 박씨 같은 경우 8000만원 이상의 연봉을 받을 것으로 추측된다”고 했다.&lt;br&gt;&lt;br&gt;해당 영상을 본 이들은 “방금 근무한다는 회사에 전화했다. 화력 집중해서 퇴사 처리되게끔 하자”는 반응을 보였다.&lt;br&gt;&lt;br&gt;유튜버들의 폭로로 밀양 사건 가해자로 지목돼 직장을 잃은 이들은 여럿 나왔다. 경북 청도의 한 식당은 무허가 건물에서 영업한 사실이 드러나며 식당을 철거했다. 개명 후 수입차 딜러사의 전시장에서 근무해 왔던 다른 가해자는 해고당했다.&lt;br&gt;&lt;br&gt;대기업에 다니는 것으로 알려진 가해자는 임시 발령 조치됐다. 해당 기업 측은 “법적 절차에 따라 조사중이며 사실관계에 따라 조치를 취할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;경남 김해 소재 전자제품 제조업체에 다니던 가해자와 밀양시 지방 공기업에서 근무하던 가해자 역시 사직 처리됐다.&lt;br&gt;&lt;br&gt;밀양 집단 성폭행 사건은 2004년 밀양지역 고교생 44명이 울산 여중생 1명을 밀양으로 꾀어내 1년간 지속해 성폭행한 사건이다. 이달 초부터 온라인 공간에서 가해자들의 신상이 잇따라 공개되면서 사건이 재주목받았다. 그와 동시에 ‘사적제재’ 논란도 일었다.&lt;br&gt;&lt;br&gt;사실 여부가 확인되지 않은 채 애꿎은 인물이 가해자로 지목돼 회사에서 대기발령 조치를 받은 일도 있었다. 그는 “가해자와 같은 학교에 다녔다는 이유로 가해자 명단에 올랐고, 싸이월드에 올려둔 번호가 공유됐다”며 억울함을 호소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>﻿“고3 학생에게 사랑한다 쪽지” 교총 신임 회장, 징계 전력 논란</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/22/Q7CQC7JL5NC7RBGIUQZJQAKO5Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/22/Q7CQC7JL5NC7RBGIUQZJQAKO5Q/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Jun 2024 11:07:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PEDDMUI4ANGNBKXQ6E6NCYNFF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박정현 한국교총 신임 회장. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박정현 한국교원단체총연합회(교총) 신임 회장이 과거 제자와의 관계 때문에 ‘품위유지 위반’으로 징계를 받은 사실이 알려지자 “당시 제자들에게 사과드린다”고 밝혔다.&lt;br&gt;&lt;br&gt;박 신임 회장은 22일 입장문을 내고 “2013년 제 실수와 과오로 당시 제자들에게 아픔을 준 데 대해 진심을 담아 사과드린다”며 “한 제자가 조금만 더 노력하면 입시에서 좋은 성과를 낼 수 있을 것 같아 쪽지를 보내 응원하고 격려했다. 그것이 과했던 것 같다”고 했다. 이어 “아직도 저의 부족함 때문에 일어난 일이라고 생각하며 항상 제자들에게 미안한 마음을 간직하고 있다”고 했다.&lt;br&gt;&lt;br&gt;다만 “일각에서 제기하는 의혹과 같은 부적절한 처신을 제자에게 한 일은 결코 없다”며 “지난 실수와 과오를 바로잡고 지금까지 오해가 발생하지 않도록 최선을 다해 아이들을 가르치고 있다”고 했다.&lt;br&gt;&lt;br&gt;박 신임 회장은 2013년 인천의 한 고등학교에서 3학년 담임을 맡던 도중 징계위원회에 회부돼 경징계인 ‘견책’ 조치를 받고, 인근 중학교로 전근을 갔다. 당시 해당 고등학교에 다녔던 학생은 연합뉴스에 “친구가 ‘사랑한다’고 적힌 쪽지를 발견하고 나한테 알려줬다”며 “이 사실을 부모님께 전화로 알려드렸고, 부모님이 당시 부장 선생님께 잘 처리해 주셨으면 좋겠다고 말씀하셨다”고 전했다.&lt;br&gt;&lt;br&gt;당시 함께 근무했던 교사에 따르면, 박 신임 회장은 한 학생에게 ‘자기’라고 칭하며 ‘어제보다 오늘 더 사랑한다’, ‘당장이라도 안아주고 싶다’, ‘보고 싶은 마음을 억누를 수 없다’ 등의 내용이 담긴 쪽지를 보냈다.&lt;br&gt;&lt;br&gt;박 신임 회장은 특정 학생에게 각별한 관심을 갖고 지도를 한 과정에서 편애라는 민원이 들어와 징계받았다는 입장이다. 교총 관계자는 “성비위가 아닌 품위 유지 위반으로 징계받은 것을 확인했다”며 “선생님들은 말 한마디 잘못하면 아동학대 신고를 당하는 것처럼 편애 의혹만으로도 품위유지 위반 징계를 받을 수 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>﻿아버지 빚 대신 갚아준 박세리, 증여세 ‘폭탄’ 논란</title>
       <link>https://www.chosun.com/national/national_general/2024/06/22/SZTEJH5JHZCOLIDGOSJHYBCH5M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/22/SZTEJH5JHZCOLIDGOSJHYBCH5M/</guid>
@@ -896,16 +914,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ILTINPV6TNAR5HEAFVF7XKQFCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰서 유치장 입감을 위해 대기하던 피의자가 도주했다가 50분 만에 다시 검거됐다.&lt;br&gt;&lt;br&gt;21일 경찰에 따르면 전날 오후 11시 20분쯤 경기 안양동안경찰서 유치장 입구 근처 화장실에서 피의자 신분인 20대 남성 A씨가 도주했다.&lt;br&gt;&lt;br&gt;앞서 A씨는 10만원어치 음식을 무전취식한 혐의로 안양만안경찰서에서 조사를 받고 있었다. 경찰은 조사 과정에서 A씨가 다른 지역에서 17만원 상당의 물품을 훔친 혐의(절도) 등으로 체포영장이 발부된 사실을 확인하고, A씨를 입감시키기 위해 그를 데리고 유치장이 있는 안양동안경찰서로 이동했다. 입감을 기다리던 A씨는 갑자기 “화장실에 가고 싶다”고 했고, A씨를 감시하던 안양만안경찰서 소속 경찰관 2명은 그의 수갑을 잠시 풀어줬다.&lt;br&gt;&lt;br&gt;화장실 내부 용변 칸에 들어간 A씨는 문 너머의 경찰관에게 “휴지를 달라”고 요청했는데, 이에 경찰관이 문을 열고 휴지를 건네는 순간 갑자기 도주해 경찰서를 빠져나갔다.&lt;br&gt;&lt;br&gt;경찰은 도주 57분 만인 이날 0시 17분쯤 안양시 만안구 석수동 노상에서 A씨를 검거했다. 경찰 관계자는 “피의자 도주 사건에 대한 재발 방지에 힘쓰겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘군기 위반 얼차려 훈련병 사망’ 중대장·부중대장 구속</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/21/EKZSR7VBIVBDNF7UO7W5665BWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/21/EKZSR7VBIVBDNF7UO7W5665BWQ/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>육군 12사단 훈련병 사망 사건과 관련해 숨진 훈련병에게 규정 위반 군기훈련(얼차려)을 지시한 중대장과 부중대장이 구속됐다.21일 춘천지법 신동일 영장 전담 판사는 중대장 A씨와 부중대장 B씨에 대한 구속 전 피의자 심문(영장실질심사)에서 “증거 인멸 우려가 있다”면서 구속영장을 발부했다.</description>
-      <pubDate>Fri, 21 Jun 2024 04:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DGA6OTZBGVPNBHWGKVR7CVRCBM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;육군 12사단 '훈련병 사망' 사건과 관련해 규정을 어긴 군기훈련(얼차려)을 지시한 혐의를 받는 중대장이 21일 강원도 춘천지법에서 열린 영장실질심사(구속 전 피의자 심문)를 마치고 나서고 있다. /뉴스1
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;육군 12사단 훈련병 사망 사건과 관련해 숨진 훈련병에게 규정 위반 군기훈련(얼차려)을 지시한 중대장과 부중대장이 구속됐다.&lt;br&gt;&lt;br&gt;21일 춘천지법 신동일 영장전담 판사는 중대장 A씨와 부중대장 B씨에 대한 구속 전 피의자 심문(영장실질심사)에서 “증거 인멸의 우려가 있다”면서 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난 19일 A씨와 B씨가 규정을 위반한 군기훈련을 명령·집행하고 이로 인해 실신한 훈련병에게 적절한 조치를 취하지 않아 사망에 이르게 했다며 직권남용 가혹행위와 업무상 과실치사 혐의로 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;A씨 등은 지난달 23일 강원 인제군 육군 12사단 신병 훈련소에서 숨진 C씨 등 훈련병 6명에게 규정 위반의 군기훈련을 지시한 혐의다. 이들은 C씨 등에게 완전군장으로 연병장을 돌게 하거나 팔굽혀 펴기 등의 규정 위반의 군기훈련을 시켰다. 군기훈련 규정엔 완전군장 상태에선 걷기만 가능하다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FBNKR64VBCJOZHM5EUDSGBKNTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;군기 훈련(얼차려)을 받다가 쓰러져 숨진 육군 훈련병의 영결식이 지난달 30일 오전 전남 나주 한 장례식장에서 엄수되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;숨진 C씨는 A씨 등이 지시한 군기훈련을 받던 중 쓰러져 인근 병원으로 후송됐지만, 이틀 뒤인 지난달 25일 숨졌다.&lt;br&gt;&lt;br&gt;이날 영장실질심사를 받으러 법원을 찾은 A씨는 “숨진 훈련병에게 할 말이 없느냐” 는 취재진의 질문에 말없이 법정으로 들어갔다. 뒤따르던 부중대장은 “죄송하다”는 짧은 답변을 남겼다.&lt;br&gt;&lt;br&gt;신 판사는 “피의자가 피의사실과 같은 죄를 범했다고 의심할 만한 타당한 이유가 있고, 증거 인멸의 우려가 있어 구속의 사유와 필요성이 인정된다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>사고 내고 음주측정 거부한 러시아 외교관 입건</title>
       <link>https://www.chosun.com/national/national_general/2024/06/21/WO2LPC7AIJCSBLRQLF2OJCTAUY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/21/WO2LPC7AIJCSBLRQLF2OJCTAUY/</guid>
@@ -913,15 +921,6 @@
       <description/>
       <pubDate>Fri, 21 Jun 2024 02:48:06 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5K3O2KPBZX6ZEKTF7NYNNZIWAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 남대문경찰서 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주한 러시아 외교관이 교통 사고를 낸 뒤 음주 측정을 거부해 경찰에 입건됐다. 서울 남대문경찰서는 주한 러시아 대사관 소속 외교관 A씨를 도로교통법 위반 혐의로 입건했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 20일 오후 8시 50분쯤 서울 중구 서소문동의 한 골목에서 차량을 운전하다 택시 뒤 범퍼를 들이받는 접촉사고를 냈다. 신고를 받고 현장에 출동한 경찰은 A씨에게서 술냄새가 나자 음주 측정을 시도했지만 A씨는 이를 거부했다고 한다.&lt;br&gt;&lt;br&gt;A씨에게 면책특권이 적용돼 현행범 체포는 되지 않았다고 밝혔다. 경찰은 “절차에 따라 수사를 진행할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 역삼동 아파트 화재, 에어컨 기사는 삼성전자 자회사 소속…“아파트에 배상할 것”</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/21/XAIXDMII4BGLLJ6ON7YQWC45PE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/21/XAIXDMII4BGLLJ6ON7YQWC45PE/</guid>
-      <dc:creator>안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Jun 2024 02:42:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P5EHC4JXZJO7TLEHIAQNJIO63U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 오후 서울 강남구 역삼동 아이파크 아파트에서 발생한 화재에 대해 21일 오전 소방관들이 화재 현장감식을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구 역삼동 아이파크 아파트에서 지난 20일 발생한 화재의 원인으로 에어컨 용접 불꽃이 옮겨 붙은 것으로 추정되는 가운데, 해당 작업을 수행한 에어컨 기사는 삼성전자 자회사 소속 직원인 것으로 21일 밝혀졌다.&lt;br&gt;&lt;br&gt;본지 취재 결과 에어컨 기사 A(51)씨는 삼성전자의 자회사인 삼성전자서비스 정규직 직원인 것으로 확인됐다. 삼성전자서비스 관계자는 “해당 아파트는 16층 이상 아파트로, 책임보험 가입 의무라 화재 피해는 보험으로 배상이 가능할 것으로 보인다”며 “우리도 보험 가입이 돼 있어서, 아파트 측에서 먼저 책임 보험을 진행하고, 이후 회사 측에서 정산하는 식으로 해결할 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;화재 현장에서 부상을 당한 A씨에 대한 치료비도 삼성전자서비스 측에서 지원할 것으로 보인다. 이 관계자는 “우리 임직원이 일하다 다친 것이기 때문에 회사 가이드라인에 따라 치료비 등 지원할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;한편 앞서 A씨는 경찰 조사에서 당시 상황에 대해 에어컨 설치·수리 과정 중 용접을 하다가 에어컨 실외기 옆에 놓여있던 비닐봉지에 불이 붙었던 것으로 기억한다고 진술한 것으로 알려진 바 있다. 에어컨 배관에 쓰이는 동관 용접 과정에서 화재가 시작됐다는 것이다.&lt;br&gt;&lt;br&gt;A씨가 삼성전자서비스 직원으로 밝혀지면서 회사 측에 안전 규정과 가이드라인 등이 마련돼있는지, 또 작업 당시 해당 규정을 준수했는지 등으로 경찰 수사 범위가 확대 될 것으로 보인다.&lt;br&gt;&lt;br&gt;지난 20일 오후 1시 22분쯤 서울 강남구 역삼동 현대 아이파크 아파트 10층에서 불이 나 3시간여 만에 꺼졌다. 화재가 발생한 10층 아파트 세대는 전소했고 윗층 여섯 세대도 심하게 타거나 그을렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>채용 거절하자…지인 흉기로 찌른 40대 男 체포</title>
