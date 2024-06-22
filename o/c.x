@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“170㎝ 후반· 광대 돌출”… 故구하라 금고도둑 몽타주 보니 </title>
+      <link>https://www.chosun.com/national/national_general/2024/06/23/XV3PUBXJNZB7ZFKD2HHAK2PZJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/23/XV3PUBXJNZB7ZFKD2HHAK2PZJI/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Jun 2024 22:04:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TMG3ESKUQJAYJJQUKAYFADTVJI.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;SBS '그것이 알고싶다'에서 복원한 고 구하라 금고털이범 용의자 몽타주(왼쪽), 2020년  1월 14일 구하라 자택에 침입한 용의자의 모습. /SBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고(故) 구하라의 자택에 침입해 고인의 휴대폰이 보관돼 있던 금고를 훔친 용의자의 몽타주가 공개됐다.&lt;br&gt;&lt;br&gt;SBS ‘그것이 알고 싶다’(그알)는 지난 22일 방송에서 고 구하라 금고 도난 사건의 용의자 몽타주를 공개했다. 이 사건은 구하라의 49재가 며칠 뒤인 2020년 1월 14일 자정쯤 발생했다. 누군가 서울 청담동의 구하라 자택에 침범해 고인의 휴대폰이 보관된 개인금고를 훔쳐 달아난 것이다. 당시 용의자가 벽을 타고 2층 베란다를 통해 자택에 침입하는 CCTV 영상이 언론에 공개되기도 했다.&lt;br&gt;&lt;br&gt;뒤늦게 금고 도난 사실을 안 유족은 경찰에 신고했으나, 용의자를 특정하지 못했고 ‘미제 편철’ 결정이 나면서 수사가 마무리 됐다. 미제 편철은 경찰이 수사의 실마리를 찾지 못했을 때 사건을 공소시효 만료까지 잠정 종결하는 것이다.&lt;br&gt;&lt;br&gt;그알은 이 사건을 재조명하며 화질 개선 및 전문가 자문을 통해 CCTV에 찍힌 범인의 모습을 특정해 나갔다. 화질을 개선하자 범인이 왼쪽 귀에 귀걸이를 착용한 모습이 포착됐다. 또한 전문가들은 범인이 당시 20대 후반에서 30대 초중반이며 근시 교정용 오목렌즈의 안경을 착용했다고 추정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7T55Y7QIY5E2XJ56NWO3TM4P4E.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 구하라 집 보안 CCTV에 찍힌 담을 넘는 남성 모습./SBS '그것이 알고싶다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그알은 복원된 영상을 통해 몽타주를 제작했고, 갸름한 얼굴형과 오뚝한 코를 가진 170cm 후반의 키와 건장한 체격을 가진 인물의 그림을 공개했다. 몽타주 전문 수사관으로 유명한 정창길 전 형사는 범인에 대해 “턱이 길고 광대뼈가 조금 돌출됐다”고 추정했다.&lt;br&gt;&lt;br&gt;이와 함께 용의자가 면식범이 아닌 누군가에게 범행을 사주받은 청부업자 혹은 심부름센터 인물일 것이라는 가능성도 방송에서 제기됐다. 범인이 디지털 숫자판을 활성화시키지 못해 몇 번 번호를 누르다 포기하는 모습이 CCTV에 포착된 것이다. 이에 전문가는 범인이 비밀번호를 알았지만 도어록 사용법을 몰랐던 것일 것이라고 추측했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IWRSJELNCNYOGSURGM3K3HYLOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 고(故) 구하라.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 영국 BBC의 버닝썬 게이트 다큐멘터리를 통해 고 구하라가 ‘버닝썬 게이트’와 연루된 고위 경찰의 정체를 폭로하는 데 도움을 줬다는 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;구하라는 2019년 11월 24일 스물여덟의 나이로 갑작스레 세상을 떠났다. 구하라의 49재를 치르고 이틀 뒤인 2020년 1년 13일 밤 구하라의 오빠 구호인씨는 유품 일부를 정리해 동생이 살던 청담동 집을 비웠다. 유족이 떠난 지 불과 몇 시간 뒤인 1월 14일 자정 무렵 한 남성이 구하라의 자택에 침입해 2층 옷방 안쪽에 있던 구하라의 개인금고를 훔쳐 달아났다. 다른 고가품은 건드리지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[인터뷰]고성균 전 육군훈련소장 “훈련병 사망사건은 직권남용”</title>
       <link>https://www.chosun.com/national/2024/06/23/JLQVFTOC5BH67P3JFHGBXXSPWA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/06/23/JLQVFTOC5BH67P3JFHGBXXSPWA/</guid>
@@ -897,15 +906,6 @@
       <description/>
       <pubDate>Fri, 21 Jun 2024 05:14:42 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XWZGCEKF4ZF2PP3P6Z5GMSJR4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;건물 계단을 오르던 여성이 갑자기 바지를 내리고 소변을 보고 있다. /JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울에 위치한 한 건물 계단을 오르던 여성이 갑자기 바지를 내리고 소변을 본 후 도망가는 장면이 CCTV에 포착됐다.&lt;br&gt;&lt;br&gt;20일 JTBC ‘사건반장’ 보도에 따르면 서울 영등포의 한 건물에서 미용실을 운영하고 있는 제보자 A씨는 이날 아침에 출근하다가 미용실 바로 밑쪽 계단에 소변이 있는 것을 확인했다.&lt;br&gt;&lt;br&gt;이를 이상하게 여겨 CCTV를 확인한 A씨는 한 젊은 여성이 계단을 오르다 소변을 본 후 그대로 도망가는 장면을 목격했다.&lt;br&gt;&lt;br&gt;A씨가 공개한 CCTV 영상을 보면 흰색 상의와 청색 바지를 입은 여성은 지난 19일 밤 11시쯤 건물 계단을 급히 오르다 갑자기 바지를 내리더니 쪼그려 앉아 볼일을 보기 시작했다.&lt;br&gt;&lt;br&gt;볼일을 해결한 여성은 바지를 올려 입고, 내려뒀던 짐을 챙긴 후 계단 아래쪽으로 사라졌다.&lt;br&gt;&lt;br&gt;제보자 A씨는 “당시 미용실 문이 열려있어서 문의했다면 화장실을 이용할 수 있었고, 인근에 개방 화장실도 있었다”며 “왜 그랬는지 모르겠다. 뒤처리하는 사람은 무슨 죄냐”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보]서울대병원 무기한 휴진 중단…교수 73.6% “지속 가능한 투쟁으로 전환”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/06/21/VQIBCMHQE5ES7DZTTLF2P3BATI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/21/VQIBCMHQE5ES7DZTTLF2P3BATI/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Jun 2024 05:08:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LDTWX23OGVPA5PH6L6YOEZDNIY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;의정갈등이 이어지고 있는 21일 오전 서울 소재 한 대학교병원에서 의료진들이 발걸음을 옮기고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>유치장 입감 대기 중 도주한 피의자...50분 만에 붙잡혀</title>
