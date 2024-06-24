@@ -13,6 +13,79 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>차주 몰래 차 몰다가 사고…대법 “차주도 일부는 책임”</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/24/3MEMPALDQFGB3OTB24JXNVPHEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/24/3MEMPALDQFGB3OTB24JXNVPHEE/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 24 Jun 2024 14:00:38 +0000</pubDate>
+      <content:encoded>아는 사람이 허락 없이 자신의 차를 몰다가 사고를 낸 경우, 차량 소유주에게도 손해배상 책임이 있다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XOOTEFTJBH4DLR4FZUCMQRA5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주 운전 사고 일러스트. 기사와는 관련 없음. /조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원3부(주심 이흥구 대법관)는 현대해상이 차주 A씨를 상대로 낸 구상금 청구 소송에서 원고 패소 판결한 원심을 파기하고, 사건을 서울중앙지법으로 돌려보냈다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2019년 10월 게임 동호회를 통해 알게 된 B씨의 집 인근 술집에서 B씨와 함께 술을 마신 뒤 B씨 집에 가서 잤다. A씨는 당시 차를 갖고 가서 B씨 집 부근에 주차했었다. A씨가 잠든 사이 B씨는 A씨의 차 열쇠를 몰래 들고 나가 운전하다 보행자를 치는 사고를 냈고, 보행자는 약 14주간의 치료가 필요한 오른쪽 발목 부상 등을 당했다. 현대해상은 피해자에게 1억4000여 만원을 지급한 후, 차주 A씨와 운전자 B씨를 상대로 구상금 청구 소송을 냈다. A씨는 B씨가 무단으로 운전해 자신은 책임이 없다고 주장했다. 그러나 1심은 A씨와 B씨 모두 책임이 있다며 공동으로 배상하라고 판결했다. 이후 A씨만 항소했고, 2심은 “A씨 입장에선 B씨가 몰래 차량 열쇠를 가지고 나가서 A씨 차량을 운전하는 상황을 예상할 수 없었을 것”이라며 A씨 손을 들어줬다.&lt;br&gt;&lt;br&gt;하지만 대법원은 “차량 소유자와 운전자의 관계, 차 열쇠 보관 및 관리 상태, 무단 운전 경위 등을 고려하면 A씨가 운전자의 책임을 완전히 상실했다고 보기 어렵다”며 “만약 이 사고가 일어나지 않았다면 B씨의 무단 운행에 대해 A씨가 사후에 승낙했을 가능성을 배제할 수 없다”고 판단했다. B씨가 차 열쇠를 쉽게 손에 넣을 수 있었기 때문에 A씨의 배상 책임도 있다는 취지다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>화성 일차전지 공장 화재, 사망자 상당수가 ‘중국인 여성’</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/24/LPGNEQD74BGXRCUW3ALF5FRIRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/24/LPGNEQD74BGXRCUW3ALF5FRIRY/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 24 Jun 2024 13:42:21 +0000</pubDate>
+      <content:encoded>24일 경기 화성시 일차전지 제조 공장에서 발생한 화재로 근로자 22명이 사망한 가운데, 사망자 대다수가 중국 출신의 여성들인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;이날 경찰과 소방당국 등에 따르면, 신원이 파악된 외국인 사망자 18명 중 17명이 중국인이고 1명이 라오스인이다.&lt;br&gt;&lt;br&gt;중국인 중 3명은 남성, 14명은 여성으로 파악됐다. 여성 중에는 1999년생, 2001년생 등 20대도 여럿이 있었다. 라오스 사망자도 1991년생 여성이다. 여성 사망자만 총 15명이다.&lt;br&gt;&lt;br&gt;사망자 중 13명은 재외동포(F-4) 비자 소지자로 나타났다. 방문취업(H-2) 비자를 가진 사망자가 2명, 결혼이민(F-6) 비자는 6명으로 파악됐다. 1명은 영주(F-5) 비자였다. 모두 합법적 체류 신분을 가졌다는 게 관계당국 설명이다.&lt;br&gt;&lt;br&gt;소방당국에 따르면 사상자들은 2층의 완제품 검수, 포장 작업실 내에서 발견됐다. 포장 작업실에는 대부분 손이 빠른 여성 근로자가 많이 배치돼있었다고 소방당국 등은 파악하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한국 온 팝스타 빌리 아일리시, 등산로 K-에어건 신기해 깜짝</title>
+      <link>https://www.chosun.com/national/people/2024/06/24/X3GEPWNO75GBBG44ZHEXFX2JPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/24/X3GEPWNO75GBBG44ZHEXFX2JPQ/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 24 Jun 2024 13:04:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DWDFIH2KXZF4HJLOXOXVIRACRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국의 공원이나 등산로 입구에서 흔히 볼수 있는 에어건이 세계적인 팝스타 빌리 아일리시를 깜짝 놀라게 했다. /엑스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국의 공원이나 등산로 입구에서 흔히 볼수 있는 에어건이 내한한 팝스타 빌리 아일리시를 깜짝 놀라게 했다.&lt;br&gt;&lt;br&gt;24일 엑스(트위터)에는 공원 혹은 등산로 입구에 있는 에어건을 발견하고 처음 사용해본 빌리 아일리시의 모습이 담긴 영상이 공유됐다. 이 영상을 올린 네티즌은 “한국에서 등산할 때 신발 정리하는 스프레이 처음 봐서 그냥 사용했다가 다른 분이 제대로 사용하는 것 보고 충격 받은 빌리가 왜 이리 웃기냐”는 코멘트를 달았다.&lt;br&gt;&lt;br&gt;30초 남짓의 짧은 영상을 보면, 에어건을 발견한 빌리 아일리시가 제대로 사용할 줄 몰라 엉뚱한 곳에 바람만 수초간 쏘다가 이내 에어건을 제자리에 놓는다. 그때 에어건을 향해 한 중년 남성이 다가오더니 에어건을 능숙하게 다루며 운동화에 묻은 흙먼지를 털어냈고, 이 장면을 빌리 아일리시 일행이 신기한 듯 멍한 표정으로 멀리서 지켜보는 모습으로 이어졌다.&lt;br&gt;&lt;br&gt;한국의 등산로 초입에서 흔히 볼 수 있는 에어건은 등산객의 신발에 묻은 모래, 먼지나 이물질을 쉽게 제거할 수 있어 각 지자체에서 앞다투어 도입했다. 사용법은 간단하다. 에어건을 옷이나 신발을 대고 버튼을 누르면 강력한 바람이 나와 수초만에 먼지를 날려 보낸다. 그러나 에어건에서 분사되는 공기의 압력이 높아 안전사고가 일어나지 않도록 사용 시 유의해야 한다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “월클이 한국에서 뭐하고 돌아다니는 거야” “빌리가 등산복 패션으로 내한해서 놀다가네” 등의 반응을 보였다. 빌리 아일리시가 에어건 사용을 목격한 장면을 두고는 “빌리와 아재의 조합이 실화냐” “외국인들이 잘 못하니까 아저씨가 일부러 와서 슬쩍 보여주는 것 같은데” “숙련자의 시범에 다들 벙쪄서 바라보네” “뭔가 깨달은 순간의 ‘유레카’ 표정이라 너무 웃기다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VI5LWG6TG5BLHJBQ3CNFMAAM7Q.gif"&gt;&lt;figcaption&gt;&lt;small&gt;에어건에 깜짝 놀란 빌리 아일리시. /엑스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;빌리 아일리시는 지난 18일부터 1박 2일간 짧은 내한 일정을 소화했다. 지난 18일 서울 광진구 워커힐호텔 내 빛의 시어터에서 정규 3집 ‘히트 미 하드 앤드 소프트’(HIT ME HARD AND SOFT) 발매 기념 청음회를 열고 600명의 팬들과 만났다.&lt;br&gt;&lt;br&gt;이밖에도 KBS2 ‘더 시즌즈-지코의 아티스트’ 녹화를 진행했으며, tvN ‘유 퀴즈 온 더 블럭’에도 출연해 방송인 유재석과 조세호와도 만남을 가졌다.&lt;br&gt;&lt;br&gt;빌리 아일리시는 2019년 첫 번째 정규 앨범 ‘When we all fall asleep, Where do we go?’로 반향을 일으키며 데뷔했으며, 데뷔 앨범을 통해 제62회 그래미 시상식에서 역대 최연소인 18세의 나이로 4대 본상을 휩쓰는 기록을 세웠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VI5LWG6TG5BLHJBQ3CNFMAAM7Q.gif?width=290&amp;height=362&amp;auth=4a4b3b76e41fe582d0012de365c73ffe230234ac19b781b40b63bdd61b637ac0&amp;smart=true" type="image/jpeg" height="362" width="290">
+        <media:description type="plain">에어건에 깜짝 놀란 빌리 아일리시. /엑스</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘김용 재판 위증’ 인정한 증인 “알리바이 판 짜여있다고 느꼈다”</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/24/XOCUEFE7QVBEFEHLP5MU7EJE3Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/24/XOCUEFE7QVBEFEHLP5MU7EJE3Q/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 24 Jun 2024 12:49:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TLFU454N5JNARCST6DXN5FQQBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용 전 민주연구원 부원장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김용 전 민주연구원 부원장의 재판에서 위증을 인정한 증인이 “요청을 받고 그렇게 했다”고 말했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사26단독 최민혜 판사는 24일 김 전 부원장의 불법 정치자금 수수 혐의 등에 대한 재판에서 증인에게 위증을 시켰다는 혐의를 받는 박모(45)씨와 서모(44)씨 등에 대한 재판을 진행했다. 이들의 요청으로 재판에서 위증을 한 이모(65)씨도 이날 출석했다.&lt;br&gt;&lt;br&gt;이씨는 “초창기에는 구속된 두 사람을 보호하려는 방법을 나름대로 세워 거짓말을 했던 것 같다”고 돌아봤다. ‘김용 대책팀’이 자신을 증인으로 세우기로 결정한 것과 관련해선 “알리바이를 짜맞추기 위한 판이 짜여있다는 느낌을 지울 수 없었고 배신감이나 섭섭함이 들기도 했다”고 했다.&lt;br&gt;&lt;br&gt;이씨는 지난해 4월 김씨의 정치자금법 위반 등 혐의 1심 재판에서 불법자금 수수 시점과 관련해 ‘거짓 알리바이’를 증언한 혐의로 불구속 기소됐다. 그는 검찰 수사 과정에서 위증을 했다고 인정했다.&lt;br&gt;&lt;br&gt;더불어민주당 이재명 대선 캠프 상황실장 출신인 박씨와 서씨는 이씨에게 김씨의 재판에서 허위 증언을 해달라고 부탁한 혐의(위증 교사)로 비슷한 시점에 구속 기소됐다. 이들은 김씨 구속 이후 ‘재판 대응 실무팀’을 만들고 기자와 유튜버가 참여한 텔레그램 대화방을 운영하는 등 언론을 관리해왔던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;박씨와 서씨는 이날 불구속으로 재판을 받게 해달라고 호소하기도 했다.&lt;br&gt;&lt;br&gt;검찰은 “수사에 대비해 텔레그램 메시지를 선택적으로 삭제하고 수사 상황까지 공유하며 대비했다는 점이 명백히 확인되는 등 증거인멸과 도주 우려가 있다”고 반대 의견을 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 “구속 만기인 내달 말까지는 보석 허가 여부 결정을 하겠다”고 했다.&lt;br&gt;&lt;br&gt;한편 김씨는 1심에서 징역 5년을 선고받고 법정 구속됐다. 다만 지난달 8일 항소심 과정에서 보석 청구가 받아들여져 현재 불구속 상태로 재판을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충남 올해 첫 SFTS 사망자 발생… 참진드기 주의보</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/06/24/YWW4W7RT4FAFJBTEOR6OAKCN74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/06/24/YWW4W7RT4FAFJBTEOR6OAKCN74/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 24 Jun 2024 12:36:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PEB7PSC27FHRNNWHRZL4AQB6XI.png"&gt;&lt;figcaption&gt;&lt;small&gt;작은소피참진드기. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남에서 올해 첫 중증열성혈소판감소증후군(SFTS) 사망자가 발생했다.&lt;br&gt;&lt;br&gt;충남도는 지난 13일 도내에서 처음 SFTS 확진을 받은 A(80대)씨가 발열·전신 쇠약·근육통과 함께 혈소판 감소 증상을 보여 대학병원에서 치료를 받다가 지난 22일 숨을 거뒀다고 밝혔다.&lt;br&gt;&lt;br&gt;충남도 관계자는 “A씨는 텃밭 작업 등 야외 활동을 하다 SFTS에 감염된 것으로 보인다”면서 “올해 국내에서 SFTS 관련 다섯번째 사망자로 집계됐다”고 말했다&lt;br&gt;&lt;br&gt;SFTS는 SFTS 바이러스에 감염된 참진드기에게 물려 발생한다. 농작업과 임산물 채취, 등산 등 야외 활동이 활발한 4∼11월에 자주 나타나는 것으로 알려졌다. 농촌지역에 거주하는 고령층은 고위험군에 속한다.&lt;br&gt;&lt;br&gt;이 감염병에는 치료제와 백신이 없어 진드기에 물리지 않도록 예방하는 것이 최선이다. 야외 활동시에는 진드기 기피제를 뿌리고 긴 소매 상의나 긴 바지를 입고 외출하는 게 도움이 된다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PEB7PSC27FHRNNWHRZL4AQB6XI.png?width=562&amp;height=358&amp;auth=b0bc12096e89f7fb7a57bffe8254f2fcc05f2145c27b40c95c1c6f48da1d70a8&amp;smart=true" type="image/png" height="358" width="562">
+        <media:description type="plain">작은소피참진드기. /조선DB</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>고용부, 공장 화재 수사전담팀 꾸려 “중대재해법·산업안전법 위반 조사”</title>
+      <link>https://www.chosun.com/national/labor/2024/06/24/GE7IIY3ZEJBUDMCVAZ4OLPKN6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/06/24/GE7IIY3ZEJBUDMCVAZ4OLPKN6A/</guid>
+      <dc:creator>김윤주 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 24 Jun 2024 11:48:31 +0000</pubDate>
+      <content:encoded>고용노동부가 24일 경기 화성시의 일차전지 제조 업체에서 난 화재 사고와 관련해 수사전담팀을 꾸리기로 했다. 고용노동부는 “사고 원인을 철저히 조사하고 중대재해처벌법과 산업안전보건법 위반 여부를 엄정하게 수사하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HR5KQCHHFBGI3OBZS6YSOCQ2CI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 6월 24일 경기 화성시에 위치한 일차전지 제조 공장 아리셀에서 화재가 발생하면서 소방대원들이 시신을 수습하고 있다. / 김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 화성의 한 리튬 전지 공장에서 불이 나 오후 6시 35분 현재까지 근로자 총 22명이 사망한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;이정식 고용노동부 장관은 관계 기관과 협력해 신속히 사고를 수습하고, 재해 발생 원인에 대해 최대한 신속하고 엄정하게 수사할 것을 지시했다.&lt;br&gt;&lt;br&gt;고용노동부는 산업안전보건본부와 경기고용노동지청에 수사전담팀을 구성했다. 또 사고 직후 이 장관을 본부장으로 하는 중앙사고수습본부를 구성해 행정안전부·소방청·환경부 등 관계 기관과 협조해 근로자 수색, 현장 수습, 피해 지원 등을 총괄 지원하고 있다.&lt;br&gt;&lt;br&gt;불이 난 업체는 중대재해법 적용 대상으로, 이전에 중대재해법 위반 사실은 없는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전 연인에게 “만나달라” 요구한 대학교수… 검찰에 넘겨져</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/06/24/K5JRBJFGDNHKDBRI5WAOPJO2QM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/06/24/K5JRBJFGDNHKDBRI5WAOPJO2QM/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 24 Jun 2024 11:31:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W4KTVTHXGRJJBGHUE6QYC34NVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 청주흥덕경찰서 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헤어진 연인의 가게를 찾아가 만남을 요구한 대학교수가 스토킹 혐의로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;청주 흥덕경찰서는 스토킹 처벌법 위반 혐의로 청주의 한 대학교수 A씨를 검찰에 불구속 송치했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 5일 0시 5분쯤 청주시 흥덕구의 한 술집에 찾아가 전 연인이자 술집을 운영하는 B씨에게 다시 만나줄 것을 요구했다. 당시 A씨는 술집 마감 시간이 지난 뒤에도 계속 자리를 지키다 신고를 받고 출동한 경찰에 의해 끌려 나온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;또 A씨는 B씨가 만남 요청을 지속적으로 거절했지만, 여러 차례 전화를 걸거나 가게를 찾아가 B씨의 퇴근을 기다린 것으로 확인됐다.&lt;br&gt;&lt;br&gt;A 교수는 이 사건이 대학 측에 알려지자 사직서를 제출한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/W4KTVTHXGRJJBGHUE6QYC34NVI.jpg?width=962&amp;height=638&amp;auth=753a82a21739a4da1f633b91768d390075c8659add69fe8508f55762f1bee8d2&amp;smart=true" type="image/jpeg" height="638" width="962">
+        <media:description type="plain">충북 청주흥덕경찰서 전경./뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>“대기업 관두고 공무원 되니 집에선 노비” 남편 토로에 와글와글</title>
       <link>https://www.chosun.com/national/national_general/2024/06/24/TRIBMJOHWVHTBBCRENAXZSP2PQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/24/TRIBMJOHWVHTBBCRENAXZSP2PQ/</guid>
@@ -876,73 +949,6 @@
       <description/>
       <pubDate>Sun, 23 Jun 2024 05:10:31 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AZWLNE2CUVC4BNXL5R7VBKVCJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지방법원./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대낮에 술에 취해 운전하다 추돌사고를 낸 뒤 그대로 도망친 50대 남성 뺑소니범이 법원에서 실형을 선고받고 법정 구속됐다. 이 남성을 대신해 운전자 행세를 한 초등학교 동창생 등에게도 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;인천지법 형사3단독 이동호 부장판사는 특정범죄가중처벌등에 관한 법률상 도주치상과 도로교통법상 사고 후 미조치 등 혐의로 불구속기소 된 A(53)씨에게 징역 1년 2개월을 선고하고 법정 구속했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;이 판사는 범인도피 혐의로 함께 기소된 B(54)씨와 C(64)씨에겐 각각 징역 6개월에 집행유예 2년을 선고했다. B씨에 대해선 80시간의 사회봉사를 명령하기도 했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 6월 20일 오후 1시 30분쯤 인천시 중구의 한 도로에서 술을 마시고 운전하다 사고를 낸 뒤, 아무런 조치를 하지 않은 채 그대로 도주한 혐의 등으로 기소됐다. 사고를 당한 40대 여성은 목뼈 등을 다쳐 전치 2주의 진단을 받았고, 70만원의 차량 수리비를 부담해야 했다.&lt;br&gt;&lt;br&gt;A씨는 사고 직후 초등학교 동창인 철물점 사장 B(54)씨에게 상황을 알렸고, B씨는 함께 있던 지인 C(64)씨에게 “친구가 술에 취한 상태에서 교통사고를 낸 것 같다. 같이 A씨 차량을 가지러 가자”고 했다.&lt;br&gt;&lt;br&gt;이들은 C씨 차를 타고 사고 장소로 이동하던 중 A씨 차량을 발견하고 멈춰 세웠다. A씨는 C씨 차량에 옮겨 타 철물점으로 향했고, B씨는 A씨 차량을 몰고 같은 곳으로 이동했다.&lt;br&gt;&lt;br&gt;C씨는 A씨를 철물점에 내려줬으나, B씨는 이동 중 신고를 받고 출동한 경찰에 붙잡혔다. C씨는 B씨가 붙잡힌 곳으로 이동해 경찰에 “(A씨를) 어떤 순대국밥집에 내려줬을 뿐 어디 있는지는 모른다”고 거짓말을 했다.&lt;br&gt;&lt;br&gt;경찰 수사 결과, 사고를 낸 운전자는 A씨였고 B씨는 2차례 음주운전으로 처벌받은 적이 있는 A씨를 대신해 운전자 행세를 한 것으로 뒤늦게 드러났다. 때문에 정확한 음주 수치 등이 나오지 않아 A씨에겐 음주운전 혐의가 적용되지 않았다. 최근 트로트 가수 김호중도 음주 수치가 확인되지 않아 특가법상 위험운전치상·도주치상 등 혐의로만 구속기소 됐다.&lt;br&gt;&lt;br&gt;이동호 판사는 “(A씨는) 과거 2차례의 음주운전 처벌 전력이 있음에도 음주운전을 하다가 교통사고를 일으켰다”며 “피해자를 구호하는 등의 조치 없이 도주해 비난 가능성이 크다”고 했다. 이어 “피해회복이 이뤄지지 않은 점 등에서 피고인의 죄책이 무거워 실형 선고가 불가피하다”며 “범행을 인정하고 반성하고 있는 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;B씨와 C씨에 대해선 “국가의 형사 사법기능을 해치는 행위를 해 죄질이 좋지 않아 엄한 처벌이 필요하다”며 “이 사건 범행으로 어떠한 대가나 이익을 취득한 것이 아닌 점 등을 고려했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김장겸, MBC 상대 손해배상 소송 2심도 패소…金 “노조 방송장악 면죄부 아냐”</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/23/ZGITICN3BFCADHAU77QIGOIIGE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/23/ZGITICN3BFCADHAU77QIGOIIGE/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 23 Jun 2024 05:07:07 +0000</pubDate>
-      <content:encoded>MBC 사장을 지낸 국민의힘 김장겸(63) 의원이 2017년 있었던 MBC의 해임 처분이 부당하다며 소송을 냈지만 2심에서도 패소했다. 김 의원은 상고 의사를 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BMCI4T3E5XYDYP2GBCOGGERCOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김장겸 국민의힘 의원. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 법조계에 따르면 서울고법 민사1-2부(재판장 이양희)는 김 의원과 최기화 EBS 감사가 MBC를 상대로 낸 손해배상 청구 소송에서 지난 19일 1심과 같이 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;김 의원은 2017년 2월 임기 3년의 MBC 사장으로 취임했으나 노동조합 활동을 방해하는 등 부당노동행위 논란이 일었고, MBC 노조는 같은 해 9월 총파업에 돌입했다. 김 의원은 그해 11월 MBC 관리·감독 기구이자 대주주인 방문진 이사회와 주주총회에서 해임안이 가결돼 자리에서 물러났다. 최 감사는 당시 MBC 기획본부장이었다.&lt;br&gt;&lt;br&gt;김 의원과 최 감사는 이듬해 3월 MBC를 상대로 각각 2억원의 손해배상 소송을 제기했다. 해고 자체가 불법이며 남은 임기를 채웠다면 받을 수 있었을 급여와 퇴직금을 달라는 취지였다. 그러나 1심 법원은 해임이 타당하므로 손해배상 청구도 이유가 없다며 전부 기각했고, 김 의원 등은 불복해 항소했다.&lt;br&gt;&lt;br&gt;2심 재판부는 “피고(MBC)가 방송의 공정성·공익성 훼손, 보도 신뢰도 및 사회적 영향력 하락, 부당노동행위, 조직관리 및 운영 능력 상실, 총파업에 따른 장기간 방송 파행 등을 이유로 원고들을 해임했다”며 “이 사건 각 해임에 정당한 이유가 인정된다”고 했다.&lt;br&gt;&lt;br&gt;한편 김 의원은 지난해 10월 대법원에서 노동조합 활동에 부당하게 개입한 혐의 등으로 징역 8개월에 집행유예 2년이 확정됐다. MBC 제1노조 조합원 9명을 MBC 본사 바깥으로 보내고자 신사업개발센터와 뉴미디어포맷개발센터 등으로 부당 전보한 혐의 등이 유죄로 인정됐다.&lt;br&gt;&lt;br&gt;금고 이상의 형을 선고받으면 형이 실효되기 전까지 선거에 출마할 수 없지만 김 의원은 지난 2월 설 명절을 앞두고 사면 받아 피선거권을 회복했다. 이후 국민의힘 비례대표 후보로 나서서 지난 4월 총선에서 당선됐다.&lt;br&gt;&lt;br&gt;이번 2심 판결에 대해 김 의원은 본인 소셜미디어에 “민노총 언론노조는 저를 사장직에서 끌어내리기 위해 온갖 거짓 선동을 했고, 문재인 정권은 특별근로감독을 실시해 취임한 지 6개월도 안 된 저를 부당노동행위 혐의로 조사했다”며 “당시 민주당에서 작성한 이른바 ‘방송장악문건’이 폭로됐고, 고대영 전 KBS 사장이 제기한 해임무효소송에서 법원은 이 문건의 실체를 인정했다. 방송장악문건대로 실현된 것은 똑같은데 이번 (항소심) 판결이 납득이 가시느냐. 당연히 상고할 것”이라고 반박했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>집으로 경찰 유인하더니… 사냥개 3마리 풀어 물리게 한 수배자</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/23/NYQ7ESOVPVFT3MEMDWDHGFPUC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/23/NYQ7ESOVPVFT3MEMDWDHGFPUC4/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Sun, 23 Jun 2024 04:45:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N3TDLFT4M5NCP3A6AXGIRUFREI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신을 붙잡으려는 경찰을 집으로 유인한 뒤 사냥개를 풀어 다치게 한 30대가 법원에서 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;23일 법조계에 따르면, 대구지법 형사4단독 김문성 부장판사는 지난 4월 공무집행방해, 상해 혐의로 기소된 A(32)씨에게 징역 10개월의 집행유예 2년을 선고했다. 이와 함께 160시간의 사회봉사를 명령했다.&lt;br&gt;&lt;br&gt;A씨는 작년 3월 16일 자신을 검거하려는 대구경찰청 소속 경찰 B(43)씨를 집으로 끌어들인 후 키우던 사냥개를 풀어 다치게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 B씨는 도로에서 운전 중이던 오토바이의 소유자 A(32)씨가 벌금 수배 중이라는 사실을 차량번호 조회로 확인했다. 30여분의 추적 끝에 B씨는 오토바이 소유자의 집 앞에서 형집행장이 발부돼 있다는 사실을 고지하고 이를 집행하려 시도했다. 형집행장은 사형, 징역, 금고 또는 구류 따위의 형을 받은 자가 불구속된 경우 형 집행을 위해 소환하는 명령서다.&lt;br&gt;&lt;br&gt;그러자 A씨는 “옷을 갈아입게 해달라”고 부탁했고, B씨는 동료와 함께 그의 집 안으로 함께 들어갔다. 그런데 A씨는 대문을 지나자 갑자기 “개를 풀어줘야 한다”며 창고 문을 열었고, 사냥개인 하운드 계열의 개 3마리가 이 안에서 튀어나왔다. 이로 인해 B씨는 개에 왼쪽 허벅지를 물리는 상해를 입었다.&lt;br&gt;&lt;br&gt;검찰은 A씨가 경찰관의 정당한 직무집행을 방해하고 개에게 물리도록 해 상해를 가했다며 그를 재판에 넘겼다.&lt;br&gt;&lt;br&gt;김 판사는 “국가의 법질서 확립과 공권력의 실효성 확보를 위해 엄정한 책임을 물을 필요가 있다”며 “범행 경위와 내용 등으로 볼 때 피고인의 죄가 가볍지 않고 피해자로부터 용서받지도 못했다”고 판시했다. 다만 B씨가 재판 마지막에 잘못을 인정하고 뉘우치는 태도를 보였으며 이 사건 이전에 벌금형을 넘어 처벌받은 전력이 없는 점 등은 유리한 정상으로 참작했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>교도소서 공범들에 위증시킨 조폭, 검찰에 적발</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/23/ZHIWJME6MZFUZJCQCFY2PWELMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/23/ZHIWJME6MZFUZJCQCFY2PWELMQ/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 23 Jun 2024 04:26:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TULNCWII2GM5OQKTEJDZKP7GIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검찰청이 위증⸱위증교사 등 사법방해 범죄를 적극적 수사로 밝혀내 사법정의를 구현한 사건 6건을 ‘5월 공판 우수 사례’로 선정했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;대검에 따르면, 원주지청 형사1부 신건호 부장검사와 류미래 검사 등 4개 수사팀이 밝혀낸 위증‧위증교사 사건 6건이 우수 사례로 선정됐다.&lt;br&gt;&lt;br&gt;원주지청 형사1부 신 부장검사와 류 검사는 투자 리딩방 사기 사건의 주범인 조폭 A씨가 자신의 범행을 숨기기 위해 같은 교도소에 수용된 공범들에게 “위증해 달라”고 부탁한 사실을 밝혀냈다. 류 검사는 공범들의 접견 녹음파일 300여개를 면밀히 분석해 이들이 교도소 내에서 증인 신문 질문지 등을 공유하고 위증을 교사한 것을 확인했다. 류 검사는 위증에 가담한 4명에게 범행을 자백 받고 이들을 추가 기소했다.&lt;br&gt;&lt;br&gt;류 검사는 또 교도소 동기에게 위증을 교사해 혐의를 벗고자 한 또 다른 사기 사건도 적발하는 등 2개월간 위증사범 8명을 인지·기소해 우수 사례로 뽑혔다.&lt;br&gt;&lt;br&gt;광주지검 공판부 기노성 부장검사와 신석규 검사는 고교 회식 자리에서 교생을 추행한 혐의로 기소된 교장의 항소심 재판에서 “성추행이 없었다”고 위증한 동료 교사 B씨의 진술이 거짓이라는 것을 밝혀내 기소했다. 신 검사는 피해 교생과 함께 회식에 참석한 다른 참고인들을 재조사한 결과, 교장의 추행 사실과 B씨가 허위 증언한 정황 등을 파악했다. 대검은 “공판 단계에서 실체 진실을 왜곡하고 성범죄 피해자에 대한 2차 가해를 저지른 사법질서 방해 사범을 엄단한 사례”라고 했다.&lt;br&gt;&lt;br&gt;경주지청 형사부 김지영 부장검사와 신승재 검사는 3개월간 2건의 위증 사건을 밝혀내 총 3명의 위증사범을 기소했다. 신 검사는 경매방해‧업무방해 등 사건에서 참고인이 위증한 사실을 통신기록 조회, 녹취파일 분석 등을 통해 적발했다.&lt;br&gt;&lt;br&gt;부산동부지청 형사2부 김정옥 부장검사와 안태민 검사는 강간 피해자에게 위증을 교사한 가해자의 범행을 적발해 추가 기소했다. 안 검사는 1개월간 위증사범 3명을 기소하고, 위증 수사 중 인지한 마약사범 등을 별도 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>삼성전자 퇴사 17년만 ‘발명 보상금’ 달라한 前직원</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/23/IH7N67KM35A7ROR2D4CKM37TC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/23/IH7N67KM35A7ROR2D4CKM37TC4/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 23 Jun 2024 03:40:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KGCUFYWWWZNU3LTGKZ4MVRV2VA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 삼성전자 서초사옥 딜라이트샵./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;회사에서 특허기술을 발명한 뒤 퇴사한 직원이 17년 만에 직무발명 보상금을 청구한다면, 퇴사 후 만들어진 지침이 아닌 재직 당시 규정을 기준으로 보상금 시효를 따져야 한다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;23일 법조계에 따르면, 대법원 특별2부(주심 권영준 대법관)는 지난달 30일 과거 삼성전자에 재직했던 A씨가 회사를 상대로 낸 직무발명 보상금 청구 소송에서 원고 패소 판결한 원심을 깨고 사건을 특허법원으로 돌려보냈다.&lt;br&gt;&lt;br&gt;A씨는 1989년 삼성전자에 입사해 선임연구원으로 일하면서 세탁기 필터와 관련한 기술 10건을 발명했다. 그는 1997년 회사에 특허권을 넘긴 후 이듬해 퇴사했다. 삼성전자는 A씨가 발명한 기술 특허권을 등록한 뒤 1999년부터 해당 필터를 장착한 세탁기를 판매했다.&lt;br&gt;&lt;br&gt;그런데 A씨는 퇴사로부터 약 17년이 지난 2015년 11월 직무발명 보상금을 달라고 뒤늦게 소송을 제기했다. A씨는 자신이 발명한 기술 6건에 대한 보상금을 요구했는데, 삼성전자는 이중 5건에 대해 직무발명 등급을 ‘B급’으로 정하고 총 5800만원을 보상하겠다고 2016년 10월 통지했다. 이에 A씨가 더 많은 보상금을 달라며 소송을 낸 것이다.&lt;br&gt;&lt;br&gt;재판의 쟁점은 A씨의 보상금 청구 권한이 아직 남아있는지였다. 일반적인 직무발명 보상금 청구권의 소멸시효는 10년이지만, 보상금 지급 시기가 따로 정해져있으면 지급 시기로부터 10년을 계산한다.&lt;br&gt;&lt;br&gt;그런데 A씨가 재직 중이던 1995년 삼성전자는 ‘특허가 회사 제품에 적용돼 회사 경영에 현저하게 공헌한 것으로 인정되고, 관련 부서 및 위원회 심의와 대표이사 재가가 있을 때’ 보상금을 지급하는 지침을 시행하고 있었다. 이에 따르면 회사가 보상금 지급을 결정한 이후 10년 이내에 소송을 낼 수 있다. 반면 A씨 퇴사 후 2001년 개정된 지침에는 보상금 지급 시기에 관해 아무런 규정을 두지 않았다.&lt;br&gt;&lt;br&gt;1심은 A씨의 주장을 일부 받아줬지만, 2심은 삼성전자의 손을 들어줬다. 2심은 2001년 개정된 지침을 적용해야 한다며, 그로부터 10년이 지났으니 A씨의 청구권이 이미 소멸됐다고 판단했다.&lt;br&gt;&lt;br&gt;하지만 대법원은 A씨가 이미 퇴사했기 때문에 이후 만들어진 2001년 보상 지침을 적용할 수 없다고 봤다. 대법원은 “A씨는 1998년 9월 퇴사했는데 삼성전자와 2001년 지침을 적용하기로 합의하는 등의 특별한 사정은 존재하지 않는다”며 “그러므로 A씨의 각 직무발명에 대한 보상금 청구권 행사에는 1995년 보상 지침이 적용된다”고 밝혔다.&lt;br&gt;&lt;br&gt;대법원은 이에 따라 A씨의 청구권 소멸시효가 지나지 않았다고 판단했다. 다만 대법원은 삼성전자가 A씨에게 얼마나 보상해야 하는지는 따로 밝히지 않고 다시 심리하라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>손연재, 72억 이태원 대사관 건물 매입… 남편과 공동명의</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/23/D7W3Z2BKNVBJBE5CEM7KZJF2RU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/23/D7W3Z2BKNVBJBE5CEM7KZJF2RU/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Sun, 23 Jun 2024 01:51:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AZ5J3JJTI777FWCMFXNUL7XSUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전 체조선수 손연재가 13일 서울 강남구 미우미우 청담 매장에서 열린 포토 행사에서 사랑스러운 미소를 짓고 있다. ⓒ News1 권현진 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 리듬체조 국가대표 손연재가 남편과 공동명의로 70억원이 넘는 이태원 주택을 매입한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;23일 매일경제에 따르면, 손연재는 작년 11월 서울 용산구 이태원동에 있는 단독주택을 남편과 함께 72억 원에 구매했다. 평당 가격은 5266만원이다. 손연재 부부는 지난 4월 말 소유권이전등기를 마쳤다. 등기부등본상 은행권 대출은 받지 않고 전액 현금 조달한 것으로 전해진다. &lt;br&gt;&lt;br&gt;손연재가 사들인 이 건물은 경리단길 인근에 있으며 현재는 대사관으로 사용 중이다. 이 지역은 각종 대사관이 몰려있어 치안이 좋고 사생활 보호와 쾌적한 주거 환경을 두루 갖췄다. 박명수, 박나래 등 연예인들도 다수 거주 중인 것으로 전해졌다. 이곳은 2022년부터 주택 거래사례로 평당가 5000만원이 형성된 지역으로, 손연재 부부의 매입가는 저렴한 수준으로 평가된다.&lt;br&gt;&lt;br&gt;손연재는 국가대표 리듬체조 선수 출신으로 현역 시절 2012년 런던올림픽 리듬체조 개인종합 5위, 2016년 리우데자네이루올림픽 개인종합 4위에 올랐다. 2017년 은퇴한 뒤 현재 리듬체조 유망주를 양성하고 있다. 그는 2022년 9월 금융인과 결혼해 작년 2월 아들을 출산했다.   &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>소강상태 접어든 광주·전남 장마…이틀간 최대 81㎜  </title>
-      <link>https://www.chosun.com/national/regional/honam/2024/06/23/JDC34LDAM5A3JMAGX4KBI2TMAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/06/23/JDC34LDAM5A3JMAGX4KBI2TMAI/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 23 Jun 2024 01:26:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MKZNNFNCKSO7EQNK3OJ5WWHUGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주에 올해 첫 장맛비가 내린 20일 오전 제주국제공항에서 관광객들이 비를 피해 빠르게 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주·전남지역에 내리던 장맛비가 소강상태에 들어섬에 따라 호우특보가 모두 해제됐다.&lt;br&gt;&lt;br&gt;23일 광주지방기상청에 따르면 광주·전남지역 장마가 시작된 지난 21일부터 현재까지 주요지역은 전남 구례(피아골) 81.5㎜, 여수(돌산) 76㎜, 해남(북일) 66㎜, 완도(금일) 65.5㎜, 고흥(도하) 61.5㎜, 장흥(관산) 61㎜, 강진(성전) 59㎜, 광주(광산) 50㎜ 등 누적 강수량을 기록했다.&lt;br&gt;&lt;br&gt;기상청은 지난 22일 낮 12시를 기점으로 광주·전남 모든 지역에 내렸던 호우특보도 모두 해제했다. 다만 전남 거문도와 초도는 강풍주의보, 남해 동부와 서부해상에는 풍랑주의보가 내려졌다.&lt;br&gt;&lt;br&gt;광주·전남 대부분 지역에서 비바람이 잦아들면서 육상·해상 교통의 통제도 일부 해제됐다. 전남은 여객선 53항로 78척 중 49항로 74척이 정상 운행 중이다. 무등산(동부) 지역을 제외한 광주·전남 지역 국립공원 입산 통제도 해제됐다.&lt;br&gt;&lt;br&gt;장맛비로 인한 인명피해는 발생하지 않았지만 소방당국으로 시설물 피해 신고가 잇따라 접수됐다. 광주에서는 장마 동안 나무 쓰러짐 4건과 도로 침수 우려 2건, 전남에서는 나무 쓰러짐 5건과 침수 우려 2건 등 비 피해 신고가 접수됐다.&lt;br&gt;&lt;br&gt;광주기상청 관계자는 “대부분 지역에서 비가 그치면서 소강상태를 보인다”며 “비는 이날 오전 중 그치지만, 내일 새벽부터 오후 사이 예상 강수량 5㎜ 내외의 비가 내리겠다”고 말했다.&lt;br&gt;&lt;br&gt;제주도는 이날 오전까지 강풍을 동반한 강한 비가 예보됐다. 제주지방기상청은 전날부터 이날까지 제주도 30~80㎜, 중산간과 산지 등 많은 곳은 100㎜의 강수량을 기록할 것으로 내다봤다.&lt;br&gt;&lt;br&gt;현재 제주는 호우주의보가 유지되고 있다. 또 순간풍속 초속 20m 이상(산지 25m 이상)의 강한 바람이 예상돼 돌풍을 동반한 시간당 30~50㎜의 강한 비도 우려된다. 기상청 관계자는 “제주는 오전까지 정체전선의 영향을 받다가 차차 벗어날 것으로 예상된다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/WQAPDMVDDUMEIU33CYWBYHSHGM.jpg?width=2146&amp;height=1239&amp;auth=94dc0518090ddfa69eb2c048f50d6b6bd77392e17b3433da36c78e399afd0b95&amp;smart=true" type="image/jpeg" height="1239" width="2146">
-        <media:description type="plain">제주국제공항에서 관광객들이 비를 피해 빠르게 이동하고 있다. 2024.6.20/뉴스1 ⓒ News1 오현지 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 오현지 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>스토킹에 강간까지…60대 법정 구속</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/23/5IO2XWIJ3NAJRDYGJCUQXIC2JE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/23/5IO2XWIJ3NAJRDYGJCUQXIC2JE/</guid>
-      <dc:creator>원주=정성원 기자</dc:creator>
-      <description>만남을 거절한 20세 연하의 여성을 지속적으로 스토킹하고 차에 태워 끌고 가 성폭행까지 일삼은 60대 남성이 법정구속됐다.춘천지법 원주지원 형사1부(재판장 이수웅)는 스토킹 범죄의 처벌 등에 관한 법률 위반 등 혐의로 기소된 A(61)씨에게 징역 3년을 선고하고 법정구속했다고 23일 밝혔다.</description>
-      <pubDate>Sun, 23 Jun 2024 00:49:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AFW4GCSK7TSZJGR7MARWVSZAFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 원주지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만남을 거절한 20세 연하의 여성을 지속적으로 스토킹하고 차에 태워 끌고 가 성폭행까지 일삼은 60대 남성이 법정구속됐다.&lt;br&gt;&lt;br&gt;춘천지법 원주지원 형사1부(재판장 이수웅)는 스토킹 범죄의 처벌 등에 관한 법률 위반 등 혐의로 기소된 A(61)씨에게 징역 3년을 선고하고 법정구속했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2022년 3월 지인을 통해 알게 된 B(40)씨로부터 “더는 연락하지 말아 달라”는 문자메시지를 받고 B씨의 자택을 찾아가 “너나 나나 한 명 죽어야지 끝난다. 그래서 죽이러 왔다”고 B씨를 협박한 혐의를 받고 있다. A씨는 또 B씨를 자신의 차량에 태워 속초로 이동할 때까지 2시간 30분간 감금하고, 속초의 한 호텔에서 B씨를 강제로 성폭행하기도 했다.&lt;br&gt;&lt;br&gt;A씨는 이 같은 범행 이후에도 48차례에 걸쳐 B씨에게 문자메시지를 전송하는 등 B씨를 스토킹하기도 했다.&lt;br&gt;&lt;br&gt;재판부는 “피해자의 의사와 인격을 존중하지 않은 채 피해자를 지속해서 괴롭힌 사실이 인정된다”며 “피해자가 계속된 괴롭힘으로 상당기간 고통을 받은 것으로 보이고 피고인에 대한 엄벌을 탄원하는 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>﻿아버지 빚 대신 갚아준 박세리, 증여세 ‘폭탄’ 논란</title>
