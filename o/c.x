@@ -13,6 +13,159 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘와인 자회사에 인력 부당지원’ 롯데칠성음료 벌금 1억원</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/25/HOXZYK6VYBE27N67FV6GL5XPLQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/25/HOXZYK6VYBE27N67FV6GL5XPLQ/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 08:39:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUQQLIZONFDHVJQHOXWTWREOF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;롯데칠성음료./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;와인을 판매하는 자회사에 본사 인력을 부당하게 지원한 혐의로 기소된 롯데칠성음료가 1심에서 약식명령액과 같은 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사5단독 박병곤 판사는 25일 독점규제 및 공정거래에 관한 법률 위반 혐의로 기소된 롯데칠성음료 법인에 벌금 1억원을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “롯데칠성음료가 자회사인 MJA와인에 인력 지원 행위를 한 것은 공정거래법이 금지하는 행위에 해당한다는 사실을 충분히 인정할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;롯데칠성음료는 자회사인 MJA와인에 본사 직원 26명을 보내 회계 처리, 매장 관리, 용역비 관리, 판매 마감 등 업무를 대신하도록 한 혐의로 2022년 12월 약식기소됐다. 약식기소는 검찰이 피의자를 정식 재판에 넘기지 않고 서면 심리 등을 통해 벌금형을 내려달라고 청구하는 것이다.&lt;br&gt;&lt;br&gt;당시 검찰은 2012~2019년 적자가 계속되거나 영업이익이 거의 없었던 MJA와인이 시장에서 퇴출되지 않고 살아남은 이유가 모기업의 지원이 있었기 때문이라고 보고 약식기소했다. 법원은 작년 3월 롯데칠성음료에 벌금 1억원의 약식명령을 내렸다. 롯데칠성음료는 이같은 처분에 불복해 정식 재판을 청구했지만, 정식 재판에서도 같은 결과를 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수도권매립지 대체 매립지 공모 또 실패</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/06/25/GRBJOMDUUZGZNKCPNTFKL4X2B4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/06/25/GRBJOMDUUZGZNKCPNTFKL4X2B4/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 09:45:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BCT7DI6Q64UAZTTNPYX2WTKBT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 서구에 있는 수도권매립지. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수도권매립지 대체 매립지 공모가 또 다시 실패로 끝났다.&lt;br&gt;&lt;br&gt;환경부는 환경부·서울시·인천시·경기도가 올 3월 25일부터 3개월간 진행한 수도권매립지 대체 매립지 공모에 응모한 지방자치단체가 없다고 25일 밝혔다. 새 수도권매립지를 찾으려는 세 번째 시도가 무산된 것이다.&lt;br&gt;&lt;br&gt;환경부와 수도권 광역지자체들은 공모 조건을 완화하고 인센티브를 재검토해 4차 공모를 진행하겠다고 밝혔다. 조건은 완화하고 혜택은 강화해 재공모하겠다는 입장이지만 응모하는 지자체가 나올 가능성은 적은 상황이다.&lt;br&gt;&lt;br&gt;완화 조건 중 핵심은 ‘후보지 경계에서 2㎞ 내 주민등록상 세대주 50% 이상의 동의’로 주민 동의율을 줄이겠다는 것이다. 매립지가 대표적 님비 시설인 만큼 주민 동의를 얻기가 사실상 불가능해 동의률을 낮추겠다는 것이다.&lt;br&gt;&lt;br&gt;4차 공모 구체적인 조건과 인센티브, 시기 등은 추후 발표된다. 하지만 조건과 인센티브를 조정해도 새 매립지를 유치할 지자체가 나오지 않을 것이라는 관측이 지배적이다.&lt;br&gt;&lt;br&gt;인천은 설계상 현재 사용 중인 수도권매립지 제3-1매립장이 포화하는 2025년에 매립지 사용을 종료해야 한다는 입장이다. 하지만 폐기물 매립량이 감소한 데다 2026년 수도권 생활폐기물 직매립 금지 조처에 따라 앞으로는 생활폐기물을 소각한 소각재만 묻게 돼 수도권매립지로 들어가는 피계물 양은 더 줄어들 전망이다. 2042년까지 현 매립장을 더 쓸 수 있다는 분석이 나온다.&lt;br&gt;&lt;br&gt;2015년 환경부와 서울시·인천시·경기도 4자 합의에 따라 신규 매립지를 못 찾을 경우 최대 106만㎡의 매립장을 추가로 사용할 수 있다. 당장은 대란이 없겠지만, 새 매립지 찾기를 언제까지 미룰 순 없는 상황이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수도권매립지 3차 공모도 불발...응모 지자체 ‘제로’</title>
+      <link>https://www.chosun.com/national/regional/2024/06/25/47DFY44T6FD3LGYSZF4Y6KULD4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/25/47DFY44T6FD3LGYSZF4Y6KULD4/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 09:11:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FXJLXKQD6FJEHDAQZ4XOEKKV2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오전 인천시 서구 수도권매립지에서 쓰레기 매립 작업이 이뤄지고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 서구 수도권매립지를 대신할 부지를 찾는 3번째 공모가 25일 결국 실패했다. 환경부와 인천시·서울시·경기도 등 수도권 자치단체는 공모 조건을 완화해 4차 공모를 추진할 방침이다.&lt;br&gt;&lt;br&gt;환경부 등은 이날 ‘수도권 자원순환공원 후보지 공모’를 마감한 결과, 응모한 지자체가 없었다고 밝혔다. 2021년 1월과 5월에 진행됐던 공모에 이어 세 번째 무산이다.&lt;br&gt;&lt;br&gt;환경부와 인천시 등 수도권 지자체들은 앞선 공모 때보다 500억 원 증가한 3000억 원 인센티브(보상)를 내걸고, 확보해야 할 부지 면적 등을 줄여 지난 3월 28일부터 90일간 대체 매립지를 조성할 지자체를 찾았으나 나서는 곳은 없었다.&lt;br&gt;&lt;br&gt;수도권매립지는 1992년 문을 열어 30년 넘게 인천과 서울, 경기지역에서 발생하는 쓰레기를 처리하고 있다. 애초에 2016년까지 운영될 예정이었지만, 대체 부지를 찾지 못해 환경부와 수도권 지자체 간 합의를 바탕으로 103만㎡ 크기의 매립장을 추가 조성해 사용 중이다. 현재 약 60%가 차 있다. 약 10년 정도 더 사용할 수 있을 것으로 예상되는데, 지금 대체 부지가 결정되더라도 실제 가동까지는 8~10년 걸리는 만큼, 서둘러 찾아야 한다.&lt;br&gt;&lt;br&gt;환경부와 수도권 지자체들은 공모 조건을 완화한 뒤 4차 공모를 진행하겠다는 계획이다. 앞선 공모 때와 달리 지자체들이 후보지 주변 주민 동의(50% 이상)를 얻지 않은 상태에서 응모할 수 있게 조건을 바꾸고, 정부 등이 주민 동의 업무를 지원해 공모 참여에 대한 지자체 부담을 최소화하겠다는 구상이다. 부지 면적 기준을 줄이고 인센티브를 확대하는 방안도 모색한다.&lt;br&gt;&lt;br&gt;환경부와 수도권 지자체들은 7월 중 회의를 열어 구체적인 공모 조건과 시기 등을 논의할 예정이다.&lt;br&gt;&lt;br&gt;수도권매립지 조기 종료를 주장하고 있는 인천시의 한 관계자는 “공모 대상을 지자체에서 민간으로 확대하는 방안, 국무총리실 산하에 전담 기구를 설치해 조정·결정하는 방안 등도 회의에서 함께 논의할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;또 대체 부지가 확보되지 않으면, 106만㎡ 범위 내에서 추가로 사용할 수 있도록 한 환경부와 수도권 지자체 간 2015년 합의를 근거로 매립지의 영구적 사용 가능성을 우려하는 목소리에 대해선 “합의의 기본 전제는 대체 부지를 찾는 것에 서로 최선을 다한다는 것”이라며 “지금은 그 부분을 거론할 단계가 아니다”라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘尹 명예훼손 허위 인터뷰 의혹’ 신학림 구속적부심 청구</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/25/OM7RPXFSYZDNTOIO6WKU4IHR2M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/25/OM7RPXFSYZDNTOIO6WKU4IHR2M/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 09:14:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S677KNVQRRN4FJY2TE4FCRPL6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신학림씨가 20일 서울 서초구 서울중앙지법에서 열린 영장실질심사를 받기 위해 법정으로 들어가고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 대선 국면에서 대장동 사건과 관련한 허위 인터뷰로 윤석열 대통령의 명예를 훼손하고 그에 대한 대가로 화천대유자산관리 실소유주 김만배(60)씨로부터 금품을 수수한 혐의를 받는 신학림(66) 전 언론노조 위원장이 법원에 구속이 합당한지 다시 판단해 달라고 요청했다. 구속영장이 발부된 지 나흘 만이다.&lt;br&gt;&lt;br&gt;25일 법조계에 따르면 신씨는 이날 서울중앙지법에 구속적부심을 청구했다. 신씨에 대한 구속적부심 심문 기일은 오는 27일 오후 2시 10분으로 잡혔다.&lt;br&gt;&lt;br&gt;구속적부심은 구속된 피의자가 구속이 합당한지 다시 판단해 달라고 요구하는 절차다. 형사소송법은 피의자의 방어권을 보장하기 위해 불구속 수사를 원칙으로 하고 있다. 구속적부심도 이런 원칙을 위한 절차 중의 하나로 해석할 수 있다.&lt;br&gt;&lt;br&gt;앞서 신씨는 김씨와 함께 지난 21일 구속됐다. 서울중앙지법 김석범 영장전담 부장판사는 배임수‧증재, 정보통신망법상 명예훼손, 범죄수익은닉규제법 위반, 청탁금지법 위반 등 혐의를 받는 신씨와 김씨에 대해 영장실질심사를 진행한 뒤 “증거 인멸 우려와 도주 우려가 있다”며 이들에 대한 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;신씨는 구속 적법성을 다투기 위해 구속적부심을 청구했지만, 김씨는 청구하지 않은 것으로 알려졌다. 신씨를 대리하는 조영선 변호사는 청구 사유에 대해 “검찰의 주장은 김씨가 언론 프레임을 전환하기 위해 허위 인터뷰를 하며 공작을 했다는 것인데, 신씨는 그에 대한 인식이 없었고 가담한 사실도 없다”고 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TZHIZHRHDZFZTJOI6GTUB6RNFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김만배·신학림. /뉴스1·연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신씨는 2021년 9월 15일 당시 뉴스타파 전문위원으로 재직하며 김씨와 함께 ‘윤석열 당시 국민의힘 후보가 2011년 대검찰청 중앙수사부 검사로 근무할 때, 부산저축은행 비리 사건을 수사하면서 대장동 대출 브로커이자 천화동인 6호 실소유주인 조우형씨의 수사를 무마해 줬다’는 취지의 인터뷰를 했고, 뉴스타파가 이를 대선 사흘 전인 2022년 3월 6일 보도했다.&lt;br&gt;&lt;br&gt;인터뷰 닷새 뒤인 9월 20일 김씨가 그 대가로 신씨 책 ‘대한민국을 지배하는 혼맥지도’ 3권 값 명목으로 위장해 1억6500만원을 줬다는 것이 검찰의 판단이다. 검찰은 신씨와 김씨가 사전에 공모해 가짜 인터뷰를 보도해 선거에 영향을 미치려고 한 것으로도 보고 있다.&lt;br&gt;&lt;br&gt;신씨는 허위 인터뷰 의혹과 별도의 공갈 혐의도 받고 있다. 검찰은 신씨가 2022년 정기현 전 국립중앙의료원장에게 자신의 저서를 건넨 뒤 이 책이 전직 청와대 인사를 거쳐 문재인 전 대통령 측으로 건네진 사실이 알려지자 “계약을 위반했다”며 압박해 정 전 원장에게 5000만원을 받아낸 혐의다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“가을에 결혼인데… 딸 목걸이라도 확인을” 70대 아버지의 절규</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/25/TBHEU5WEBNFBDKIHDA7VMCHSZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/25/TBHEU5WEBNFBDKIHDA7VMCHSZY/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 08:52:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BIEZ5MOSPVMWJHKVPPYOWB7ZN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 경기 화성시 서신면 소재 일차전지 제조 업체 공장 화재 현장에서 소방대원들이 현장 수습 및 실종자 수색을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전날 화재 사고가 발생한 경기 화성시 아리셀 공장 앞에서 조선족 채성범(73)씨는 25일 “딸을 찾아달라”며 애타게 요청하고 있었다. 사고 현장에 오기 전 그는 사망자들이 안치됐다는 장례식장 두 군데를 돌았으나 결국 딸의 시신을 보지 못했다고 했다.&lt;br&gt;&lt;br&gt;채씨는 목걸이를 착용한 시신이 있다는 것 하나만 듣고 화성 함백산장례식장 등과 화성시 서부경찰서까지 방문했다고 한다. “딸이 목걸이를 차고 다녔던 걸 기억하고 있다”고 했다.&lt;br&gt;&lt;br&gt;그러나 경찰에서는 시신을 확인해주기 어렵다고 했다. 채씨의 딸일지도 모르는 일부 시신은 부검을 위해 서울로 이송 준비 중이었다. 당연히 빈소도 차리지 못했다.&lt;br&gt;&lt;br&gt;채씨는 “시신을 보여달라고 한 것도 아니고 목걸이 사진만이라도 찍어 보여달라고 했다”며 “목걸이만 봐도 우리 딸인지 아는데 왜 보여주질 않느냐”고 한탄했다. 채씨는 “공장 인근에 딸이 타던 차가 있고, 그 안에 신분증 등이 있어 챙길 수 있을까 싶어 왔다”며 잿더미가 된 공장 인근을 서성였다.&lt;br&gt;&lt;br&gt;딸의 죽음을 가장 먼저 안 것은 중국에서 머물고 있는 채씨의 아내와 아들이었다고 한다. 중국 대사관으로부터 딸의 소식을 전해들은 아들이 채씨에게 딸의 사망 소식을 전했다. 채씨는 딸의 시신이라도 찾기 위해 24일과 24일 이틀 내내 사고 현장을 찾았지만, 사고가 발생한지 24시간이 훌쩍 넘었는데도 구청이나 경찰 등으로부터 딸의 소식을 듣지 못했다고 했다.&lt;br&gt;&lt;br&gt;채씨의 딸은 지난해 4~5월쯤부터 아리셀에서 임시직으로 근무했으며 지난 5월에 정직원으로 채용됐다고 한다. 근무 수당은 월 300만원이 조금 넘었으며, 화요일과 목요일에는 꼬박 12시간을 일해야 했다고 한다.&lt;br&gt;&lt;br&gt;채씨의 딸은 오는 가을에 결혼을 앞두고 있었다고 했다. 채씨는 “어제는 예비 사위와 함께 현장을 찾았으나 딸이 어딨는지 알 수 없었다”며 “오늘은 혹시 찾을 수 있을까 해서 나만 왔다”고 했다. 채씨는 “우리 딸은 효녀, 완전 효녀”라며 딸을 회상하며 말을 잇지 못했다.&lt;br&gt;&lt;br&gt;채씨는 대피로가 확보되지 않은 공장 내부에 대해서 격분했다. 그는 “계단 옆에 배터리를 쌓아뒀는데 불이 나면 일꾼들은 어디로 내려가나. 안전문이라도 만들어두면 하나도 안 죽었을텐데”라며 “생명 안전에 대해 책임감이 하나도 없는 사업주가 정말 한심하다”고 했다.&lt;br&gt;&lt;br&gt;채씨는 일주일 전에도 채씨가 근무한 공장에 불이 났었다고 했다. 채씨는 “딸의 말로는 일주일 전에도 일하던 곳에서 불이 나서 직원이 소화기로 불을 껐다”며 “불을 끈 직원은 손에 화상을 입었다고 했던 걸로 기억한다”고 했다.&lt;br&gt;&lt;br&gt;한편 이날 오전 화재 현장에서는 붕괴된 콘크리트 안에서 화재 당시 소재가 확인되지 않은 마지막 실종자의 시신이 하루 만에 발견돼 수습됐다. 이에 따라 이번 화재의 인명피해는 사망 23명, 부상 8명(중상 2명, 경상 6명) 등 31명으로 집계됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PXWQ4GLBXVBIZMOAM67KRIHOBY.gif?width=1400&amp;height=788&amp;auth=9c639b6d1208ae6fb41e2c6aaa5ecca07e6bb8fd669edbfebcba5d6d5c0b7e1f&amp;smart=true" type="image/jpeg" height="788" width="1400">
+        <media:description type="plain">화성화재 GIF</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>화재 현장 얼마나 처참했으면... 정부·장례식장, 시신 숫자 집계도 ‘혼란’</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/25/SUUUGD7JCNCS7P4K3GY5E7UR6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/25/SUUUGD7JCNCS7P4K3GY5E7UR6I/</guid>
+      <dc:creator>화성=김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 09:11:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PRXKTEAXBJHQDT4SZAMAMDJYN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;화성유일병원장례식장/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 24일 밤 9시 30분쯤, 경기 화성시 화성유일병원 장례식장에 들어온 리튬공장 화재 사망자들의 신체 부위를 두고 장례식장 내부의 혼란스러운 분위기가 감지됐다. 장례식장 측에선 초반에는 사망자 혹은 실종자 한 명의 신체 부위인 것처럼 말을 하다가, 이튿날 “사망자 7~8명의 신체 부위”라고 했다. 경찰 관계자는 “그만큼 시신 훼손이 심했다는 의미”라며 “참사 당시의 상황이 얼마나 처참했는지 가슴이 아프다”고 했다.&lt;br&gt;&lt;br&gt;화성유일병원 장례식장엔 시신 4구와 7명 내외 시신의 신체 부위 일부가 임시 안치됐다. 4명의 시신은 지난 24일 오후 3시 45분부터 5시 30분까지 차례로 들어왔고, 같은날 밤 9시 30분쯤에 신체 부위를 담은 봉투가 장례식장에 인계됐다. 그러나 신체 부위가 들어온 직후인 지난 24일 밤에 장례식장 측은 “이 신체 부위는 시신 1구의 것으로 보인다”며 “그러면 기존에 있던 4구에 더해 최대 5명의 시신이 있는 것으로도 볼 수 있지만, 확인된 것이 아니어서 일단 외부에는 시신 4구라고 알렸다”고 했다.&lt;br&gt;&lt;br&gt;그러나 수원출입국·외국인청이 24일 밤 배포한 자료에는 화성유일병원에 시신 4구가 아닌 5구가 안치돼있다고 쓰여 있다. 정부와 장례식장이 화재 사망자의 시신 숫자를 두고 이견을 보인 것이다.&lt;br&gt;&lt;br&gt;장례식장은 이러한 입장을 하루 만에 바꿨다. 한 명의 신체 부위가 아닌 여려 명의 신체 부위라는 것이다. 각 신체 부위들은 시신 수습 위치에 따라 ‘O번 사망자의 신체 일부로 추정됨’과 같은 내용이 적힌 봉투에 각각 담겨 들어왔고, 이러한 봉투가 7개 내외라는 것이다.&lt;br&gt;&lt;br&gt;화성유일병원에 안치된 시신 4구는 25일 오전 11시 국립과학수사연구원으로 옮겨져 오후 1시부터 부검 중이다. 그러나 7명 내외의 신체 부위는 아직 장례식장에 남아있다. 장례식장 관계자는 “경찰 측으로부터 국과수에 보내라는 말을 듣지 못했다”고 설명했다. 부검 대상에서 제외되면서 누군가의 신체 부위인지도 명확히 알 방법이 현재로서는 사라진 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PRXKTEAXBJHQDT4SZAMAMDJYN4.jpg?width=720&amp;height=540&amp;auth=218d2f1e8eb35caedcf3ca1f3179c00d175e1a7a8e14cd3332711e933a561052&amp;smart=true" type="image/jpeg" height="540" width="720">
+        <media:description type="plain">화성유일병원장례식장</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>세종대, 제15대 총장에 엄종화 교수 선임</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/06/25/XFBSVXMW75HEZGKUIXE5M3242A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/06/25/XFBSVXMW75HEZGKUIXE5M3242A/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 08:49:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VVS3CMSQVNAEDEO3GPJEKTB6AA.png"&gt;&lt;figcaption&gt;&lt;small&gt;엄종화 세종대 신임 총장./세종대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;엄종화 세종대 물리천문학과 교수가 세종대 제15대 총장으로 선임됐다.&lt;br&gt;&lt;br&gt;학교법인 대양학원은 세종대학교 제15대 총장으로 물리천문학과 엄종화 교수를 선임했다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;엄 신임 총장은 대구 능인고를 졸업하고, 서울대학교에서 물리학 학사, 석사를 받은 후 미국 노스웨스턴대학교에서 물리학 박사 학위를 취득했다. 2001년부터 세종대에서 교수 생활을 시작해 대외협력처장, 교무처장, 교학부총장 등 주요 보직을 역임하고 현재는 행정부총장을 맡고 있다. 작년 9월부터는 교육부 학술연구정책과의 램프(LAMP) 사업관리위원으로 활동중이다.&lt;br&gt;&lt;br&gt;엄 신임 총장은 세계 최초로 스핀 트랜지스터를 개발해 2009년 과학기술계 10대 뉴스에 선정된 바 있으며, 사이언스 논문 2편을 게재하는 등 연구활동을 꾸준히 해왔다.&lt;br&gt;&lt;br&gt;엄 신임 총장은 오는 7월 27일에 취임하며 임기는 3년이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>70대 교직원 사망에 충북도교육청 철제 교문 조사... 49개교가 ‘위험’</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/06/25/CKU3SZEWJFGSLMUPGNLYYVMFG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/06/25/CKU3SZEWJFGSLMUPGNLYYVMFG4/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 08:48:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DXVHEMKVOFHPDEC5ZMMHO4IT7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사고가 발생한 교문. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북도교육청이 지난 24일 청주의 한 고교에서 발생한 철제 교문 사고와 관련해 조치에 나섰다.&lt;br&gt;&lt;br&gt;도교육청은 철제 교문이 있는 258개교를 대상으로 전수조사를 벌인 결과 49개교가 안전사고 위험 있는 것으로 파악됐다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;학급별로는 유치원 1곳을 포함해 초등학교 21곳, 중학교 7곳, 고등학교 19곳, 기관 1곳 등이다. 도교육청은 이들 학교의 철문에 대해서는 정밀 현장 점검을 통해 재설치나 보수 및 보강 조치를 할 계획이다.&lt;br&gt;&lt;br&gt;또 이번 사고 이후 도교육청은 3차 긴급 비상대책회의를 열고 특별 안전점검을 진행하기로 했다. 윤건영 교육감은 “이번 사고를 계기로 학교 구성원의 안전을 최선으로 생각하고 적극적인 지원을 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;이에 앞서 24일 오전 6시 17분쯤 청주시 서원구의 한 고등학교에서 70대 당직 전담원 A씨가 철제 교문에 깔려 숨지는 사고가 발생했다. 경찰과 노동 당국은 관련자들을 상대로 정확한 사고 원인 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>23명 사망 아리셀 공장 관계자 등 5명 입건...1차 합동감식 발화 원인 등 조사</title>
+      <link>https://www.chosun.com/national/regional/2024/06/25/CGXODAANRBDDRD3B2HJDXNEJVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/25/CGXODAANRBDDRD3B2HJDXNEJVQ/</guid>
+      <dc:creator>수원=권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 08:21:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CJIE5UGNFFEM3CUQD2IYXKAQ5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오전 경기 화성시 아리셀 공장 화재 현장에서 경찰, 소방, 국립과학수사연구원 및 관계자 40여 명이 합동감식을 진행하고 있다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;사망 23명 등 31명의 인명피해가 난 경기 화성 리튬전지 제조업체 아리엘 화재사고를 수사하고 있는 경찰이 25일 이 회사 관계자 등 5명을 형사 입건했다.&lt;br&gt;&lt;br&gt;경기남부경찰청 수사본부는 업무상 과실치사상 등 혐의로 아리셀 박순관 대표 등 5명을 피의자 신분으로 전환하고 출국금지 조치를 했다고 밝혔다. 박씨에 대해서는 중대재해처벌법 위반 혐의도 적용됐다.&lt;br&gt;&lt;br&gt;입건 대상자의 직책은 정확히 알려지지 않았으나, 박 대표를 비롯해 본부장급 인사, 안전 분야 담당자, 그리고 인력공급 업체의 관계자 등이 포함된 것으로 알려졌다. 경기남부경찰청은 형사기동대 35명, 화성서부경찰서 형사 25명, 과학수사대 35명, 피해자 보호계 25명 등 130명 규모로 수사본부를 꾸려 수사를 진행하고 있다.&lt;br&gt;&lt;br&gt;경찰은 또 이날 소방당국, 국립과학수사연구원, 국토안전연구원, 고용노동부, 산업안전보건공단 등 9개 기관 40여 명이 참여해 화재 현장에 대한 합동감식도 진행했다. 합동감식은 낮 12시부터 오후 4시10분까지 진행됐으며 처음 화재가 발생하고 모든 사망자가 나온 공장 3동 2층을 집중 확인했다.&lt;br&gt;&lt;br&gt;이날 합동감식은 최초 발화지역을 중심으로 화재 원인 및 확산 경위를 규명하는 데 초점이 맞춰졌다. 또 내부에서 작업을 하던 근로자들이 고립돼 대피하지 못하고 인명 피해가 커진 이유를 확인하기 위해 대피 경로와 소화시설 등에 대한 점검도 진행됐다.&lt;br&gt;&lt;br&gt;오석봉 경기남부경찰청 과학수사대장은 합동감식을 종료한 이후 “정확한 화재 원인을 밝히기 위해 발화 장소와 다수 피해자 발생 장소를 중점적으로 살폈다”며 “단시간에 걸쳐 화재가 확산해 인명피해가 커진 이유에 대해서도 중점적으로 감식했다”고 설명했다. 추가 현장감식은 각 기관이 이날 감식한 부분을 분석하고 공유한 뒤에 실시 여부를 판단할 방침이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘하청 불법파견’ HD현대건설기계 전 대표이사 등 벌금형</title>
+      <link>https://www.chosun.com/national/regional/2024/06/25/GTMQRENNMVBWTDLHRBVBLUHBAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/25/GTMQRENNMVBWTDLHRBVBLUHBAM/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 08:52:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B6EHYZXJLP4ZQSGKQM4R4L4C6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;HD현대건설기계 사내하청노조 조합원들이 25일 울산지방법원 앞에서 기자회견을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사내 하청업체 근로자를 생산 공정에 불법 투입시킨 혐의로 기소된 HD현대건설기계 전 대표이사와 임원이 1심에서 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;울산지법 형사8단독 김정진 부장판사는 25일 파견 근로자 보호 등에 관한 법률 위반 혐의로 재판에 넘겨진 HD현대건설기계 전 대표이사 A씨와 회사 법인에 각 벌금 700만원, 전 임원 B씨에게 벌금 500만원을 선고했다고 밝혔다.&lt;br&gt;&lt;br&gt;또 하청업체 대표 C씨에게 벌금 700만원, 하청업체 법인에 벌금 500만원을 선고했다.&lt;br&gt;&lt;br&gt;이들은 지난 2017년 5월부터 2020년 8월까지 HD현대건설기계 울산공장 내 굴삭기 붐(Boom)과 암(Arm) 가공 공정 중 용접과 검사 작업 등에 하청업체 소속 근로자 46명을 파견해 근무하게 한 혐의로 기소됐다. 파견근로자법은 고용노동부의 허가 없이 제조업 직접 생산공정 업무에 근로자를 파견하는 것을 엄격히 금지하고 있다.&lt;br&gt;&lt;br&gt;재판부는 하청업체가 소속 근로자들을 HD현대건설기계에 파견했고, HD현대건설기계가 하청업체 근로자들에게 업무 수행을 지시했다고 판단했다. &lt;br&gt;&lt;br&gt;또 원청인 HD현대건설기계 근로자와 하청업체 근로자들의 업무에 특별한 차이가 없는 것으로 봤다. 하청업체가 독자적인 장비를 보유하고 있지 않아 근로자들이 근무 중 원청 소유의 장비와 공구를 사용한 점도 불법파견의 근거로 판단했다.&lt;br&gt;&lt;br&gt;재판부는 “외형상으로는 사내 도급 형태를 띠면서 실질적으로는 근로자 파견 사업을 영위하거나 그 역무를 제공받은 것으로, 파견법이 금지하는 직접 생산공정 업무에 대한 근로자 파견을 우회적으로 이뤄지게 했다”며 “다만 피고인들이 미필적 고의를 가지고 범행한 것으로 보이지 않고 위법성 인식 정도도 높지 않았던 것으로 보인다”고 밝혔다.&lt;br&gt;&lt;br&gt;이날 판결 직후 HD현대중공업 사내하청지회는 울산지법 앞에서 기자회견을 열고 “HD현대건설기계는 불법파견 범죄를 인정하고 피해자에게 사과하라”며 “모든 사내하청 노동자들에 대한 불법착취를 중단하고 모두 정규직으로 전환하라”고 주장했다.&lt;br&gt;&lt;br&gt;이번 판결에 대해 HD현대건설기계 측은 “법리적으로 다르게 해석할 수 있는 여지가 있어 항소를 통해 법원의 판단을 다시 받아보겠다”는 입장을 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>학부모 악성민원에 극단선택 대전 용산초 교사 ‘순직’ 인정</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/06/25/TR453TP3QND7FIQFTGNZE4UEYM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/06/25/TR453TP3QND7FIQFTGNZE4UEYM/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 08:45:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UNXEJBJCGB3T4D7TS7JLYOLGUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전용산초 교사 순직인정 촉구 기자회견. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수년간 학부모의 악성 민원에 시달리다 극단적 선택으로 한 대전 용산초등학교 교사 A씨에 대해 순직이 인정됐다.&lt;br&gt;&lt;br&gt;대전교육청은 인사혁신처 공무원재해보상심의회가 A씨 유족에게 순직유족급여 심의 ‘가결’ 결정을 통보했다고 25일 밝혔다. 지난해 12월 유족이 순직 청구를 한 지 6개월여 만이다. A씨는 지난해 9월 극단적 선택을 시도해 병원으로 옮겨졌지만 이틀 만에 숨졌다.&lt;br&gt;&lt;br&gt;대전교사노조 측에 따르면 A씨는 2019년 대전 유성구 한 초등학교에서 근무할 당시 친구를 폭행한 학생을 교장실에 보냈다는 이유 등으로 학부모로부터 아동학대로 고소를 당했다. 검찰 조사 결과 무혐의 처분이 내려졌지만, 학부모들은 2022년까지 A씨를 상대로 수차례에 걸쳐 악성 민원을 제기한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UNXEJBJCGB3T4D7TS7JLYOLGUE.jpg?width=720&amp;height=332&amp;auth=94b9b94866877d2d6b9c286473ec99393a5b8293f100f1e2f4362098b879ec90&amp;smart=true" type="image/jpeg" height="332" width="720">
+        <media:description type="plain">대전용산초 교사 순직인정 촉구 기자회견</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘이재명 수사 검사’ 탄핵심판 종결… 헌재 “신중히 검토”</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/25/OXZMEKDP2NBEPCNXDTRI5WANCI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/25/OXZMEKDP2NBEPCNXDTRI5WANCI/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 08:45:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W7OL36MVIVMY5KWWSHBD4U5ZM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종석(가운데) 헌법재판소장을 비롯한 헌법재판관들이 25일 오후 서울 종로구 헌법재판소에서 열린 이정섭 대전고검 검사 탄핵 사건 3차 변론기일을 진행하기 위해 자리하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주당 주도로 추진된 이정섭 전 수원지검 2차장검사(대전고검 검사)의 탄핵 심판 변론이 25일 종결됐다.&lt;br&gt;&lt;br&gt;헌법재판소는 이날 서울 종로구 헌재 심판정에서 이 검사 사건 3차 변론 기일을 열고 양측의 최후 변론을 들었다. 앞서 이 검사는 수원지검에서 이재명 민주당 대표가 관련된 쌍방울 불법 대북 송금 사건, 이 대표 부부의 법인 카드 유용 의혹 수사 등을 지휘하다가 탄핵소추를 당했다.&lt;br&gt;&lt;br&gt;국회 측은 이 검사의 탄핵 사유를 열거하며 “헌법과 법률에 대한 중대한 위반 사항이라 검사직에서 파면돼야 한다”고 주장했다. 민주당은 이 검사가 지난 2020년 12월 엘리시안강촌 리조트에서 한 대기업 고위 임원에게 접대를 받고, 처남 조모씨의 마약 사건에 영향력을 행사해 수사를 무마했다는 의혹 등을 제기하며 탄핵을 청구했다.&lt;br&gt;&lt;br&gt;국회 측은 특히 이 검사의 ‘일반인 무단 전과 조회’ 의혹과 관련해 “일반 공무원은 무단으로 열람하거나 출력하면 파면되고, 이런 행위에 대해 법원은 파면하는 것이 정당하다고 판단한다”며 “일반 공무원과 형평을 위해서라도 탄핵되어야 한다”고 강조했다.&lt;br&gt;&lt;br&gt;반면 이 검사 측은 “검사 징계 절차가 시작되기도 전에, 사실관계에 대한 제대로 된 특정이나 입증도 없이 탄핵소추부터 결의한 사건”이라며 “범죄 경력 조회든 처남 마약 사건 관련 부분이든 이 검사가 관여했다는 증거도 없고 관여한 사실도 없다”고 반박했다.&lt;br&gt;&lt;br&gt;그러면서 “검사 탄핵이 탄핵 제도 본래의 목적인 헌법 수호가 아닌, 수사 검사 개인에 대한 견제로 활용되고 있다”며 “탄핵으로 검사의 직무를 부당하게 제약해서 역으로 검찰권을 통제할 위험이 있다”고 반박했다.&lt;br&gt;&lt;br&gt;이종석 헌재소장은 “재판부는 쌍방이 주장한 내용과 증거를 토대로 신중히 검토해 결정하겠다”고 밝혔다. 선고 기일은 추후 양측에 통지될 예정이다.&lt;br&gt;&lt;br&gt;변론을 마친 헌재는 조만간 탄핵 여부를 결정할 예정이다. 법조계에서는 이은애 헌법재판관이 퇴임하는 오는 9월 전에 선고가 내려질 것이라는 전망이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구 지역 학교에 2급 감염병 ‘백일해’ 확산...10년만에 최다</title>
+      <link>https://www.chosun.com/national/regional/2024/06/25/JMOIJFESXVFFROUJD7PJY5624M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/25/JMOIJFESXVFFROUJD7PJY5624M/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 08:41:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EPCL6QJHCIUAXUUWR7HIPPTFII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구시 산격청사 전경./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 지역 학교에서 제2급 법정 감염병인 백일해가 확산하고 있다.&lt;br&gt;&lt;br&gt;25일 대구시에 따르면 올해 들어 지난 20일까지 지역에서 발생한 백일해 환자(의사환자 포함) 수는 73명을 기록했다. 이는 최근 10년 사이 가장 많이 발생한 것으로, 지난해 환자수(4명)와 비교하면 18배 이상 증가했다.&lt;br&gt;&lt;br&gt;올해 발생한 환자 가운데 65명(전체 89%)은 지역 초·중·고교에서 발생한 것으로 분석됐다. 특히 5월에 11명이던 학생 환자는 이달 들어 54명이 추가되는 등 증가세를 보이고 있다.&lt;br&gt;&lt;br&gt;백일해는 호흡기감염병으로, 콧물이나 경미한 기침으로 시작해 발작성 기침으로 진행하는 것이 특징이다. 하지만 최근 확진자들은 전형적인 백일해 임상 증상을 나타내지 않고 가벼운 기침으로 발견되는 경우가 많아 적기 진료로 정확한 진단을 받지 않으면 전파확산을 막기가 쉽지 않다고 대구시는 설명했다.&lt;br&gt;&lt;br&gt;이에 대구시는 이날 질병관리청, 대구시교육청, 지역 9개 구·군 보건소와 함께 백일해 확산방지 관계기관 대책회의를 갖고 대응 방안을 논의했다. 또 각급 학교에 교내 감염예방 개인위생 수칙 준수 당부, 적기 예방접종 독려 및 확진자 감시체계 강화 등을 요청했다.&lt;br&gt;&lt;br&gt;대구시 관계자는 “학교 내 2명 이상 확진자 발생 시 신속한 현장 역학조사를 실시하고, 구·군 역학조사관을 대상으로 초동대응 실무 교육을 실시하는 등 확산방지에 만전을 기하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“가장 무거운 고기 잡으면 상금”...도박 낚시터 운영한 업주 등 40명 송치</title>
+      <link>https://www.chosun.com/national/incident/2024/06/25/CNR7GEEC7ZHTXFHFGJRPYHWIAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/25/CNR7GEEC7ZHTXFHFGJRPYHWIAE/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 08:39:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ILTINPV6TNAR5HEAFVF7XKQFCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무게가 많이 나가는 물고기를 낚으면 상금을 주는 방식으로 낚시터를 운영한 업주 등 40명이 검찰에 송치됐다. &lt;br&gt;&lt;br&gt;경북 김천경찰서는 도박개장 등 혐의로 낚시터 주인인 40대 남성 A씨를 검찰에 구속 송치하고, 낚시터 관계자 3명을 불구속 송치했다. &lt;br&gt;&lt;br&gt;A씨 등은 지난 1월부터 5월까지 김천의 한 낚시터에서 손님들에게 판돈을 걸도록 하고 가장 무거운 물고기를 잡은 손님에게 돈을 주는 방식 등으로 낚시터를 도박판처럼 운영한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 입장료나 수수료 등 명목으로 판돈을 일부 챙긴 것으로 알려졌다. 불법 낚시 도박에 참여한 손님 36명도 도박 혐의로 불구속 송치됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨 등을 수사하는 과정에서 A씨가 갖고 있던 범죄수익금 1300만원을 압수했다. 경찰 관계자는 “도박 낚시터 근절을 위해 지속적으로 단속할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충북도의회 후반기 의장에 국민의힘 이양섭</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/06/25/VBZFM2LTDBHY5IRFRJBW5BJC2E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/06/25/VBZFM2LTDBHY5IRFRJBW5BJC2E/</guid>
+      <dc:creator>청주=신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 08:35:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NAOJELYB2LOY7A5AISPDOU6KWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12대 후반기 충북도의장에 선출된 이양섭 의원. /충북도의회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 이양섭(진천2) 의원이 충북도의회 후반기 의장으로 선출됐다.&lt;br&gt;&lt;br&gt;충북도의회는 25일 제417회 정례회 3차 본회의를 열고 12대 도의회 후반기 의장에 이 의원을 선출했다. &lt;br&gt;&lt;br&gt;재적 도의원 35명 모두 참석한 가운데 교황 선출 방식으로 진행된 투표에서 이 의원은 22표를 얻었다. 충북도의회는 국민의힘이 27석, 더불어민주당이 8석을 차지하고 있다.&lt;br&gt;&lt;br&gt;이 신임 의장은 당선 소감을 통해 “대화와 타협을 으뜸으로 삼고, 원칙과 상식에 따라 도민 행복과 충북 발전에 성심을 다하겠다”고 말했다. 그는 10대 도의원에 이어 2022년 지방선거에서 징검다리 재선에 성공했고, 한국자유총연맹 진천군 회장·도의회 산업경제위원장 등을 역임했다.&lt;br&gt;&lt;br&gt;이날 부의장으로는 국민의힘 유재목(옥천1)·민주당 이의영(청주12) 의원이 뽑혔다. 도의회는 다음달 4일 개회하는 제418회 임시회에서 6개 상임위원장을 선출하는 등 후반기 원 구성을 마무리할 예정이다.&lt;br&gt;&lt;br&gt;한편 이날 충북여성연대와 충북시민사회단체연대회의는 도의회 앞에서 기자회견을 열고 “과거 동료의원에게 성희롱성 발언을 해 논란을 샀던 인물이 의장으로 선출됐다”며 “의장으로서 민의를 대변하고 막중한 책무를 다하는지 똑똑히 지켜보겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“시신 훼손 상태 심각”...‘화성 화재’ 시신 국과수서 신원 확인</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/25/BK3T7PFFMVF25DVU7AOQZMAUTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/25/BK3T7PFFMVF25DVU7AOQZMAUTM/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 08:19:23 +0000</pubDate>
+      <content:encoded>25일 오전 11시쯤 서울 양천구 국립과학수사연구원에 운구차가 도착했다. 이 운구차엔 경기 화성 일차전지 화재로 숨진 희생자의 시신이 실렸다. 오후 1시까지 총 운구차 22대가 쉴 틈 없이 국과수 앞에 도착했다.&lt;br&gt;&lt;br&gt;국과수는 이날부터 화성 화재의 사망자들에 대한 부검을 진행할 예정이다. 지금까지 23구의 시신이 수습됐는데, 훼손 상태가 심각해 현재까지 파악된 사망자 23명 중 2명의 신원만 확인된 상태다. 소방당국은 국과수에 부검과 유전자(DNA) 감식을 의뢰해 신원 확인을 진행할 방침이다. 오늘 오전 11시 52분에 마지막으로 수습된 시신도 추후 국과수에 인계 될 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4C2KDLOGJBGXFL6VYWUZKRYH5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19번 불상자 운구차가 부검을 위해 서울과학수사연구소로 들어가고 있다./장윤 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 화재의 사망자들 대부분이 시신 및 옷가지 등이 다 타버려 외형 등으로 신원을 파악하기 어려운 상황이다. 시신을 구별하기 어려워 현장 수습 작업을 진행한 소방당국에선 ‘1번’ ‘2번’ ‘3번’ 등 시신이 발견된 순서대로 사망자 번호를 매겼다. 경기 화성의 장례식 업주들은 “이렇게까지 시신 훼손이 심한 경우는 처음 본다”며 안타까워 했다. 유족들은 애타는 마음으로 화성 지역의 장례식장과 화재 현장에서 가족의 시신이나마 볼 수 있을까 돌아다니기도 한다&lt;br&gt;&lt;br&gt;시신이 참혹하게 훼손돼 소방당국과 등은 유족들이 시신을 보지 못하도록 각별히 주의를 기울였다. 21번 시신을 운송한 기사 50대 이모 씨는 “소방관들이 화재 현장에서 시신을 수습해 바디백에 넣은 후 운구업체 직원들에게 넘겨줬다”며 “우리는 바디백 위에 흰 천을 덮은 후 바디백을 운구차에 실었다”고 했다. 이씨는 “유족 중 시신을 직접 확인하지 못한 걸 아쉬워하시는 분들이 있다”면서 “시체가 참혹하게 손상됐기 때문에 소방 측과 우리는 유족들이 시신을 보지 못하게 한다”고 말했다.&lt;br&gt;&lt;br&gt;이날 만난 운구업체 직원들에 따르면 시신은 연구소에 도착한 순서대로 네다섯 구씩 함께 부검됐다고 한다. 부검은 오늘 오후 5시쯤까지 계속 진행될 예정이다. 국과수 부검으로 신원이 파악되면 희생자들 빈소도 차려질 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QMWKI4XGKZGLZFJLCRD2K72S64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부검을 마친 운구차가 서울과학수사연구소를 나서고 있다./장윤 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>흉기 휘둘러 아버지 살해한 20대 男, 1심서 징역 17년</title>
       <link>https://www.chosun.com/national/court_law/2024/06/25/DRTYCYFCEZGZPK4QL2RXUJLEOM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/25/DRTYCYFCEZGZPK4QL2RXUJLEOM/</guid>
@@ -774,31 +927,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FLVXEK5F75A3NHHLQT243GV4VE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 경기 화성시에 위치한 일차전지 제조 공장 아리셀에서 화재가 발생해 많은 사상자들이 발생한 가운데 소방대원들이 내부를 수색하고 있다./김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소방 당국은 24일 경기 화성 일차전지 제조 업체 아리셀 공장 화재 사망자는 22명이라고 밝혔다. 이 중 20명은 외국인으로, 중국 국적 18명, 라오스 국적 1명, 미상 1명이다. 2명은 내국인으로 확인됐다. 사망이 확인된 외국인 근로자 18명 중 15명이 여성으로 나타났다. 2001년생·1996년생 남성을 비롯, 1999년생·1995년생·1991년생 여성 등 젊은 외국인 근로자가 다수 희생됐다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국자는 “시신 훼손이 심해 지문조차 확인할 수 없어 두개골 크기, 머리 길이, 옷이나 안경 등 유류품으로 정확히 신원을 확인 중”이라고 했다. 경찰은 희생자 시신의 훼손이 심각해 DNA 채취가 가능한 부위도 대퇴골 등으로 한정돼 있다고 밝혔다. DNA 분석을 위해 근로자 숙소에서 머리카락 등 시료를 수집하고 있다.&lt;br&gt;&lt;br&gt;희생자 시신은 화성장례문화원, 송산장례문화원, 화성중앙병원, 함백산장례식장, 남양유일병원 등에 분산 안치됐다. 그러나 시신 신원 확인이 지연돼 이날 밤까지도 빈소는 거의 꾸려지지 못했다. 장례식장엔 시신을 실은 구급차가 계속 몰려왔다. 희생자들을 담요로 급박하게 감싼 탓에 불에 탄 시신 일부가 드러나기도 했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “일단 부검을 통해 유전자(DNA) 감식을 거쳐야만 시신 신원을 최종 확인할 수 있다”며 “희생자가 대규모로 발생했기에 내일부터 개시하는 국과수 부검도 완료되려면 시일이 소요될 것”이라고 했다. 정부 당국은 외국인 근로자들이 한국에 홀로 일하러 온 경우가 많아 본국에서 가족이 오는 데 시간이 걸릴 것으로 보고 있다. 강인선 외교부 제2차관은 정부 차원에서 피해자를 지원하겠다고 밝혔다. 싱하이밍 주한 중국 대사도 이날 현장을 방문했다.&lt;br&gt;&lt;br&gt;한편 중상자 중 1명은 40대 남성으로 전신에 2도 화상을 입고 서울 한강성심병원으로 헬기로 이송됐다. 또 다른 40대 남성 부상자도 안면부에 화상을 입어 분당서울대병원으로 옮겨졌다가 서울 베스티안병원으로 재이송됐다.&lt;br&gt;&lt;br&gt;화성=고유찬·김도연·강우석 기자&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[알립니다] 조선일보 환경대상 고금숙씨 등 수상</title>
-      <link>https://www.chosun.com/special/announcement/2024/06/25/XYB4S7QW2VCOJOILVJV6UX42WE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2024/06/25/XYB4S7QW2VCOJOILVJV6UX42WE/</guid>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7PO3IAQIRBDXLB74HUSPX4SM3Q.jpg"&gt;&lt;br&gt;&lt;br&gt;국내 최고 권위의 환경상으로 자리매김한 조선일보 환경대상이 제32회 수상자를 배출했습니다. 시상식은 28일 조선일보 편집동 1층 ‘조이’ 행사장에서 열립니다. 수상자에게는 상패 및 상장, 상금 1500만원을 수여합니다.&lt;br&gt;&lt;br&gt;▲수상자 고금숙(알맹상점 공동대표), 한대곤(칸필터 대표), 원광에스앤티(대표이사 이상헌)&lt;br&gt;&lt;br&gt;▲주최: 환경부·조선일보사&lt;br&gt;&lt;br&gt;▲후원: 한국환경공단&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>리튬 화재에 물 뿌렸다… 적절성 논란</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/25/CKKLNWLZZFE2VOJU63RDXQLG7I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/25/CKKLNWLZZFE2VOJU63RDXQLG7I/</guid>
-      <dc:creator>김영우 기자, 강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VOFDB3DFZ5ICRM4IXQE6FMTRYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 경기도 화성시 서신면 소재 일차전지 제조 업체에서 화재가 발생해 소방관들이 진화작업을 하고 있다. /연합뉴스.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 경기 화성시 일차전지 제조 업체 아리셀 공장에서 발생한 화재에 소방 당국이 물로 진화 작업을 벌인 것을 두고 논란이 일고 있다. 일차전지에 포함된 리튬이 물과 닿으면 폭발 위험이 있는데 왜 소방수로 화재를 진압했느냐는 것이다.&lt;br&gt;&lt;br&gt;이에 대해 소방 당국 관계자는 “폭발 우려가 있었지만, 리튬이 극소량만 포함돼 있어 물을 사용했다”면서 “재난 현장 표준 작전 절차상 ‘화재 대응 공통 표준 작전 절차’와 ‘금속 화재 대응 절차’에 따라 이번 화재에 대응했다”고 밝혔다.&lt;br&gt;&lt;br&gt;리튬은 칼륨과 더불어 대표적 금수성(禁水性·물과 접촉하면 안 되는 성질) 물질이다. 물과 직접 접촉하거나 공기 중 습기를 일정 수준 이상 흡수했을 때는 발열·화재·폭발 등을 일으키는 성질이 있다고 한다. 이 때문에 리튬 금속을 사용하는 일차전지에 불이 붙으면 물을 뿌려도 꺼지지 않고, 일반 소화기도 소용없어서 마른 모래로 불을 덮거나 금속 화재에 적응성이 있는 소화 약제를 사용한 ‘D급 소화기’를 써야 한다.&lt;br&gt;&lt;br&gt;소방 당국도 마른 모래 등으로 진화하는 방식을 검토했으나, 배터리에 포함된 리튬이 소량인 것으로 확인돼 물을 활용한 일반적인 진압 방식을 택했다고 한다. 나용운 국립소방연구원 연구사는 “일차전지에는 리튬이 극소량만 들어갔기 때문에 물을 뿌려도 폭발적 반응을 보이지 않는다”고 했다.&lt;br&gt;&lt;br&gt;이창우 숭실사이버대 소방방재학과 교수는 “리튬 전지로 난 불은 ‘금속 화재’로, 화재 발생 시 물을 이용한 진화가 어렵다는 단점은 있다”고 했다. 다만 전문가들은 “극소량 리튬이 고체 케이스에 내장돼 있으니, 물을 뿌려도 화재 진압에 문제가 없다고 현장에서 판단한 것 같다”(이창우 교수, 이영주 서울시립대 교수)고 했다.&lt;br&gt;&lt;br&gt;다만 리튬과 물이 직접 접촉하면 일산화탄소·아황산가스 등 유독 가스가 발생하므로 인명 피해를 키웠을 개연성도 배제할 수는 없다(김상식 우석대 소방행정학과 교수)는 견해도 있다. 인세진 우송대 소방안전학부 교수는 “공장 안에 리튬이 어떤 상태로 있었는지가 중요하다”며 “리튬이 원재료 상태였는지, 고체 케이스로 포장된 상태였는지 확인하지 않고 물을 사용했다면 문제 소지가 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한미 해군, 6·25전쟁서 희생된 유엔군 추모</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/25/S64YFZBWKBCCBGR27P6KF6PVEI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/25/S64YFZBWKBCCBGR27P6KF6PVEI/</guid>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PEZ5YB7TXVFLXIOG5B6E5B47BI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·25전쟁 74주년을 하루 앞둔 24일 부산 남구 유엔기념공원을 찾은 해군작전사령부와 미 해군 제9항모강습단 지휘관과 참모들이 유엔군 추모비를 살펴보고 있다. 이 추모비에는 6·25전쟁에 참전해 숨지거나 실종된 유엔군 4만896명의 이름이 새겨져 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>겁먹지 말기·경제 공부… 공장서 숨진 19세 청년의 꿈</title>
       <link>https://www.chosun.com/national/national_general/2024/06/25/G6DUFNV2NFGA5MEDQBFUREBZSE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/25/G6DUFNV2NFGA5MEDQBFUREBZSE/</guid>
@@ -806,15 +934,6 @@
       <description/>
       <pubDate>Mon, 24 Jun 2024 15:50:00 +0000</pubDate>
       <content:encoded>전북 전주시 한 제지공장에서 설비 점검을 하다 숨진 19세 청년 근로자가 생전에 미래를 위한 인생 계획을 기록한 수첩 내용이 공개됐다. 고등학교 졸업 후 6개월 차 신입사원이었던 A(19)씨는 지난 16일 오전 9시 22분쯤 전주시 팔복동의 한 제지공장 3층 설비실에서 의식을 잃은 채 바닥에 쓰러진 상태로 발견됐다. 그는 병원으로 옮겨졌으나 결국 숨졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PRY3GV2DARC6HMVLEC6KBSZBSY.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;유족 측이 24일 본지에 공개한 A씨 메모장에는&lt;/b&gt; 올해 목표와 인생 계획 등에 대한 내용이 적혀 있었다. A씨는 올해 목표로 ‘남에 대한 얘기 함부로 하지 않기’ ‘하기 전에 겁먹지 말기’ ‘기록하는 습관 들이기’ ‘운동하기’ ‘구체적인 미래 목표 세우기’ 등을 적었다. 인생 계획도 구체적으로 짜뒀다. ‘다른 언어 공부하기’ ‘살 빼기’ ‘하고 싶은 게 무엇인지 생각해보기’ ‘편집 기술 배우기’ ‘카메라 찍는 구도 배우기’ ‘사진에 대해 알아보기’ ‘악기 공부하기’ ‘경제 공부하기’ 등 자기 계발 계획을 기록했다. 그러고는 ‘다른 언어 공부하기-일본어·영어-관련 언어 공부책 사기-인터넷 강의 찾아보기-독학 기간 정하기’ 식으로 꼼꼼하게 계획을 세웠다.&lt;br&gt;&lt;br&gt;A씨는 재테크를 위해 생활비 통장, 적금 통장, 교통비 통장, 비상금 및 경조사 통장 등을 분류했다. 그 아래엔 현재 자산과 필요한 생활비를 계산한 후 매달 목표 저축액을 기입했다. 또한 “조심히, 예의, 안전, 일하겠음. 성장을 위해 물어보겠음. 파트에서 에이스 되겠음”이라고 미래 각오를 다지는 문구도 있었다.&lt;br&gt;&lt;br&gt;이 메모장이 온라인에 공개되자 네티즌들은 “저렇게 미래에 대한 기대가 많은 사람이 너무 이른 나이에 이 세상에서 사라지다니 마음이 아프다” “성실하고 하고 싶은 거 많은 아이 같은데 정말 가슴 아프다”며 안타까워했다.&lt;br&gt;&lt;br&gt;유족은 신입사원인 A씨가 홀로 작업을 수행한 점과 안전 매뉴얼이 명확히 지켜졌는지 등에 대한 진상 규명을 촉구했다. 유족 측은 앞서 민주노총 전북본부 등과 함께 고용노동부 전주지청 앞에서 기자회견을 열고 “(이 사건을) 철저히 조사하라”고 했다. 유족 측 박영민 노무사는 기자회견에서 “종이 원료의 찌꺼기가 부패하면서 황화수소 등 유독가스가 발생할 수 있는 현장이었는데도 왜 설비실에 혼자 갔는지, 2인1조 작업이라는 원칙은 왜 지켜지지 않았는지 알고 싶다”고 말했다.&lt;br&gt;&lt;br&gt;제지공장 측은 A씨는 사건 당시 정상적인 오전 근무 중이었고, 현장에서 유독가스 등 위험성 물질도 확인되지 않았다는 입장을 냈다. A씨가 홀로 작업을 진행한 점 또한 2인1조가 필수인 업무가 아니었기 때문이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>태양광 폐패널서 유리만 따로 분리… 구리·은 등 회수율 높여</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/06/25/XOE3G56JRFEKDPD2WX6YV3KNXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/06/25/XOE3G56JRFEKDPD2WX6YV3KNXQ/</guid>
-      <dc:creator>김윤주 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 15:50:00 +0000</pubDate>
-      <content:encoded>환경을 보호하고 되살리기 위해 우리 사회 곳곳에서 다양한 방식으로 활동해 온 ‘제32회 조선일보 환경대상’ 수상자들을 소개합니다. ‘제로 웨이스트’ 문화 확산에 기여한 고금숙 알맹상점 공동대표, 디젤 매연 저감장치(DPF) 국산화와 요리 매연 저감 기술을 개발한 한대곤 칸필터 대표, 태양광 폐패널 재활용에 기여한 원광에스앤티(대표이사 이상헌)입니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KHRFPTVG3FCUNPGPSJFUP4M6ME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 인천 서구의 태양광발전 업체 원광에스앤티에서 이상헌(가운데) 대표가 한화진(오른쪽) 환경부 장관에게 폐패널 자원화 공정을 설명하고 있다. /원광에스앤티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신재생에너지인 태양광에 대한 수요가 전 세계적으로 커지면서 태양광 폐패널 재활용에 대한 관심도 높아지고 있다. 인천 소재 태양광 발전 업체 원광에스앤티는 폐패널에서 유리를 우선 분리한 뒤 나머지 부분만 파쇄해 재활용 효율을 높이는 기술을 개발해 산업기술혁신촉진법에 따른 신기술 인증을 받았다.&lt;br&gt;&lt;br&gt;태양광 패널은 여러 소재로 이뤄져 있다. 유리가 전체 무게 중 60~70%를 차지하고, 각종 금속과 실리콘, 플라스틱 등도 사용된다. 수명을 다한 폐패널은 통째로 파쇄한 뒤 일부를 재활용하거나 쓰레기로 매립한다. 그런데 파쇄 과정에서 유리가 가루처럼 부서져 섞인다. 이 유리 가루는 100% 제거하기가 어려워 나머지 소재를 재활용할 때 값어치를 떨어트린다.&lt;br&gt;&lt;br&gt;원광에스앤티가 개발한 기술을 활용하면 폐패널에서 유리를 제외한 나머지 소재를 재활용하기가 훨씬 쉬워진다. 우선 유리 가루가 섞이지 않기 때문에 그 자체로 값어치가 높아진다. 패널에 사용된 핵심 광물과 희소 금속인 구리, 은, 알루미늄을 깨끗하게 회수할 수 있어 재활용 효율을 높일 수 있다. 소재 재활용률은 90% 이상이다. 또 화학적 처리나 열 처리를 하지 않고 물리적 방법만으로 유리를 분리해낼 수 있어 환경오염이나 에너지 과소비 염려도 적다. 원광에스앤티는 관련 기술로 2018년부터 특허 24종을 등록했다.&lt;br&gt;&lt;br&gt;태양광 패널의 사용 기간은 통상 약 20년이다. 우리나라에서 태양광 1세대 업체가 2000년대 초부터 태양광발전에 뛰어들기 시작한 점을 고려하면, 2020년대 후반부터 폐패널 발생량이 폭발적으로 늘어날 것으로 예상된다. 환경부는 생산자가 폐기물 회수와 재활용 의무를 지도록 하는 생산자 책임 재활용 제도(EPR)를 작년부터 태양광 패널로 확대했다.&lt;br&gt;&lt;br&gt;태양광 폐패널 재활용은 국제적으로도 성장 가능성이 큰 시장이다. 원광에스앤티는 미주, 유럽, 동남아시아 등 태양광 사업이 활발한 국가를 중심으로 폐패널 수입과 처리 기술 수출 등 사업을 확대할 계획이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇본선 심사위원&lt;/b&gt;&lt;br&gt;&lt;br&gt;고철환(서울대 명예교수·심사위원장), 이병욱(전 환경부 차관), 이미경(환경재단 대표), 김용건(연세대 국제학대학원 교수), 김재영(서울대 건설환경공학부 교수), 이창흠(전 환경부 기후탄소정책실장), 김정환(환경부 대변인), 한삼희(전 조선일보 수석논설위원), 신은진(조선일보 사회정책부장)&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ZD3HL5NZBBJPOPNNV3VQYZK2Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 권혜인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘GTX 변전소’ 주민 반대에… 전자파 측정해 보여줬다</title>
@@ -826,15 +945,6 @@
       <content:encoded>지난 20일 서울 서초구 신분당선 양재시민의숲역. 지하철 승강장으로 내려가는 계단 중간의 ‘위험 접근 엄금’이라고 적힌 철문을 열고 안쪽으로 들어서자, 신분당선의 전력 공급원인 ‘매헌변전소’의 변압기 설비들이 나타났다. 높이 6ｍ, 폭 3ｍ가량의 거대한 이 장치는 154㎸(킬로볼트)의 고압 전력을 25㎸로 낮춰 서울 신사역~수원 광교역을 달리는 전동차에 전기를 공급하는 역할을 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/465S65SRQBBPDPIA7J6HKXYKKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 서울 서초구 신분당선 양재시민의숲역 제한구역 내 '매헌변전소'의 주변압기 앞에서 국가철도공단 관계자들이 전자파를 측정하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국토교통부는 이날 지하 25m에 위치한 변전소 시설을 언론에 공개했다. 최근 일고 있는 ‘변전소 전자파’ 논란 때문이다. GTX(광역급행철도) 노선 열차에 전기를 공급하는 변전소를 짓는 것을 두고 대상 지역 주민과 정부 갈등이 깊어지는 것이다. 갈등이 가장 첨예한 서울 청량리의 경우 이필형 동대문구 구청장이 지난달 박상우 국토부 장관을 만나 변전소 건립 계획을 취소하고 위치를 바꿔 달라고 요청하기도 했다. 청량리역 근처 한국철도공사가 소유한 테니스장 부지 지하에 변전소가 지어질 예정인데 지상 어린이집, 아파트 등과 불과 50m 떨어져 있기 때문이다. 이곳에 들어설 변압기는 매헌변전소에 있는 것과 유사한 설비다.&lt;br&gt;&lt;br&gt;철도 업계에선 변전소 전자파 논란이 앞으로 더 확대될 것으로 전망한다. GTX가 계속 건설될 예정인데 노선별로 변전소가 필요하기 때문이다. GTX-B가 지나는 부천에서도 주민 왕래가 잦은 부천상동호수공원 주변에 변전소가 들어설 예정이라 주민들이 반대하고 있다. 국토부는 주민 우려가 과장됐다고 판단하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EQ67DZBZTFHD3DLXPOGY2PD2MI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 국토부, 국가철도공단 관계자들은 변압기 주변에 전자파 측정기를 설치한 후 전자파를 측정했다. 김윤명 단국대학교 전자공학과 명예교수도 전문가 자격으로 참관했다.&lt;br&gt;&lt;br&gt;측정 결과 변압기에서 1m 떨어진 곳에선 2.7μT(마이크로테슬라), 5m 떨어진 곳에선 0.2μT의 전자파가 감지됐다. 변전소가 있는 곳에서 그대로 수직으로 올라와 지상에서 쟀을 땐 0.04μT였다. 이는 국내 전자파 인체 보호 기준인 83.3μT보다 크게 낮은 수치다. 국토부는 이날 전자레인지와 헤어드라이기를 준비해 이를 작동시킨 후 전자파를 측정하기도 했다. 이 측정치는 각각 35μT와 16μT였다. 국토부 관계자는 “일상생활에서 마주하는 전자파보다 변압기에서 나오는 전자파가 훨씬 낮다”고 했다. 김윤명 명예교수는 “전력 설비에서 발생하는 전자파는 인체에 축적되지 않고 거리가 멀어지면 급격하게 감소한다”고 했다.&lt;br&gt;&lt;br&gt;그러나 변전소 설치가 계획된 곳 주민들은 여전히 안전성이 입증되지 않았다는 입장이다. 한 지역 주민은 “전자파 관련 연구마다 결과에 차이가 있던데, 전자파와 질병의 인과 관계가 무조건 없는 것이라고 단정할 수 없는 것 아니냐”고 했다. 실제 휴대전화 전자파가 건강에 유해할 수 있다는 발표가 있었고, 어린이는 극저주파나 고주파 전자파 등에 노출을 줄여야 한다는 국제 권고가 나온 적도 있다는 것이다. 다른 주민은 “(변전소처럼) 매 분 매 초 나오는 상존 전자파가 우려된다”고 했다. 청량리 지역 변전소가 들어서게 될 장소 40m 거리엔 1425가구 대단지 아파트가 있고 50m 거리엔 국공립어린이집이 있다.&lt;br&gt;&lt;br&gt;동대문구는 변전소 입지 선정 과정에서 주민 의견이 제대로 전달되지 않았다는 입장이다. 동대문구 측은 “환경영향평가와 의견 수렴 절차가 인접 아파트 주민들이 본격적으로 입주하기 전인 지난해 8~9월 이뤄졌다”며 “의견 수렴 과정이 부족했다”고 주장했다.&lt;br&gt;&lt;br&gt;이에 대해 국토부 측은 “변전소에 대한 전자파 측정 결과 안전한 것으로 나타났다”며 “GTX 건설에 따른 수혜 지역에 변전소를 지었기 때문에 무리한 건설이 아니다”고 했다. 한국철도공단 관계자는 “수도권 내 12곳의 철도 변전소가 운영 중”이라며 “기존 변전소 주변에도 문제가 없는데 우려가 지나치게 증폭되고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘디젤 매연 저감’ 국산화 이어 ‘요리 매연’ 잡는 필터 세계 첫 개발</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/06/25/ISCBQXTWGJCQNJ3T6QIF2H2MV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/06/25/ISCBQXTWGJCQNJ3T6QIF2H2MV4/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 15:50:00 +0000</pubDate>
-      <content:encoded>환경을 보호하고 되살리기 위해 우리 사회 곳곳에서 다양한 방식으로 활동해 온 ‘제32회 조선일보 환경대상’ 수상자들을 소개합니다. ‘제로 웨이스트’ 문화 확산에 기여한 고금숙 알맹상점 공동대표, 디젤 매연 저감장치(DPF) 국산화와 요리 매연 저감 기술을 개발한 한대곤 칸필터 대표, 태양광 폐패널 재활용에 기여한 원광에스앤티(대표이사 이상헌)입니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TUI5JYIKNBHCZNHTAWXZ3QNK7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 미국 라스베이거스에서 열린 세계 최대 IT·가전 전시회 CES의 칸필터 부스에서 한대곤 대표가 CES 혁신상 상패를 들고 있다. /칸필터&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한대곤(58) 칸필터 대표는 업계에서 ‘숨(breath) 엔지니어’로 불린다. 엔지니어로서 그의 활동이 늘 인간의 숨 쉬는 문제와 결부돼 있기 때문이다.&lt;br&gt;&lt;br&gt;시작은 LG화학 연구원 시절이던 2002년 디젤 매연 저감 장치(DPF) 국산화 프로젝트였다. 당시 우리나라는 디젤차에서 발생하는 매연을 걸러주는 DPF 장치를 전량 일본에서 수입했다. 가격은 대당 240만원. 그는 8년간 DPF 핵심 부품인 세라믹 필터를 연구해 2010년 DPF 국산화에 성공했다. 이후 단가는 10분의 1 수준인 24만원까지 떨어졌다.&lt;br&gt;&lt;br&gt;LG화학을 나와 그가 ‘인생 2막’으로 택한 것은 ‘통닭’이었다. 섭씨 300도 숯불 사이에 닭을 가둬 심부 온도를 빠르게 끌어올리는 기술로 3분 만에 통닭을 구워내는 기계를 발명했다. 숯불을 써도 매캐한 연기가 나지 않는다는 게 이 통닭 사업의 핵심이었다. 통닭 기계에 DPF를 부착해 닭 껍질을 직화하며 발생하는 유증기를 잡아내는 아이디어였다.&lt;br&gt;&lt;br&gt;통닭 기계 발명을 끝내고 2014년 가족을 만나러 미국 샌디에이고에 간 그는 캘리포니아 주 정부 프로젝트로 요리 매연 필터 개발이 진행되고 있다는 소식을 듣게 된다. 요리 매연은 기름이 산화하며 나온 발암성 물질이 연기와 섞인 것이다. 캘리포니아주는 대형 레스토랑을 대상으로 요리 매연 규제 법안을 마련했지만 필터 기술이 없어서 법을 시행하지 못하고 있었다. 그는 디젤과 요리 매연이 같은 유증기라는 점에 착안해 통닭 사업을 잠시 미루고 ‘칸필터’를 창업한다. 그렇게 DPF를 이용한 요리 매연 공기 청정기 필터가 세계 최초로 개발됐다. 2014년부터 작년까지 9년간 조용히 특허를 쌓았다. 현재 5국에서 15개 특허를 획득했다.&lt;br&gt;&lt;br&gt;미국에선 비(非)미국 국가 중 유일하게 요리 매연 공인 저감 장치로 등록됐다. 올 1월 라스베이거스에서 열린 세계 최대 IT·가전 전시회 CES 2024에선 환경 기술로는 국내 최초로 인류 안보 부문 혁신상을 받았다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇본선 심사위원&lt;/b&gt;&lt;br&gt;&lt;br&gt;고철환(서울대 명예교수·심사위원장), 이병욱(전 환경부 차관), 이미경(환경재단 대표), 김용건(연세대 국제학대학원 교수), 김재영(서울대 건설환경공학부 교수), 이창흠(전 환경부 기후탄소정책실장), 김정환(환경부 대변인), 한삼희(전 조선일보 수석논설위원), 신은진(조선일보 사회정책부장)&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ZD3HL5NZBBJPOPNNV3VQYZK2Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 권혜인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>내용물만 채워가는 ‘리필 스토어’ 창업… ‘쓰레기 0′ 운동 확산에 기여</title>
       <link>https://www.chosun.com/national/transport-environment/2024/06/25/AGK6PW776FFM5BV6VGUVBE2Y4I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/06/25/AGK6PW776FFM5BV6VGUVBE2Y4I/</guid>
@@ -842,88 +952,6 @@
       <description/>
       <pubDate>Mon, 24 Jun 2024 15:50:00 +0000</pubDate>
       <content:encoded>환경을 보호하고 되살리기 위해 우리 사회 곳곳에서 다양한 방식으로 활동해 온 ‘제32회 조선일보 환경대상’ 수상자들을 소개합니다. ‘제로 웨이스트’ 문화 확산에 기여한 고금숙 알맹상점 공동대표, 디젤 매연 저감장치(DPF) 국산화와 요리 매연 저감 기술을 개발한 한대곤 칸필터 대표, 태양광 폐패널 재활용에 기여한 원광에스앤티(대표이사 이상헌)입니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M35UXMT4RJEPHEPZMDDHMZTLGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2019년 서울 마포구 망원시장 한 카페에서 고금숙(오른쪽) 알맹상점 공동대표가 우리은행 관계자와 비닐봉지 대신 에코백을 사용하는 내용의 캠페인 기념사진을 찍고 있다. /알맹상점&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고금숙(46) 알맹상점 공동대표는 국내 ‘제로 웨이스트(Zero waste)’ 문화를 확산시킨 주역이다. 손쉽게 쓰고 버리는 일회용품 중심 문화에서 벗어나 재활용·재사용을 일상화하는 데 기여하고 있다.&lt;br&gt;&lt;br&gt;2018년 서울 마포구 망원동에 문을 연 ‘알맹상점’은 다 쓴 용기를 가져와 내용물만 채워가는 ‘리필 스토어’의 원조 격이다. 알맹상점 창업은 2018년 ‘쓰레기 대란’이 계기가 됐다. 당시 수거 업체가 비용 부담을 이유로 비닐류 수거를 중단하고, 수거 거부 대상이 페트병·폐지로까지 확대되면서 전국 곳곳이 쓰레기 더미로 변했다.&lt;br&gt;&lt;br&gt;쓰레기 대란을 피하는 방법은 애초 쓰레기를 적게 만드는 것. 이에 ‘껍데기’인 용기는 그대로 쓰고, 내용물인 ‘알맹이’만 사 갈 수 있는 곳을 만들자는 아이디어를 냈다. 고 대표는 망원시장 한 카페에 6개월간 ‘무인 세제 리필숍’을 열었다. 당시만 해도 사람들에게 생소한 개념이었던 ‘리필 스토어’가 시장 안 작은 가게에 문을 연 것이다. 다 쓰면 바로 버려지던 플라스틱 세제 통이 재사용되기 시작했다. 특히 젊은 층 사이에 ‘알맹상점’에서 물건을 구입하는 친환경 활동에 대한 호응이 커졌다. 이 작은 시도가 플라스틱 저감을 위한 생활 실천 트렌드의 하나로 확산했다.&lt;br&gt;&lt;br&gt;고 대표가 운영하는 수리 상점 ‘곰손’도 망원동에서 인기를 끌고 있다. 손재주 없는 사람을 가리키는 ‘곰손’이 이 상점의 이름이 된 건, 아무리 곰손이라도 고쳐 쓰는 방법만 익히면 버려지던 가전이나 옷·우산 등을 다시 쓸 수 있기 때문.&lt;br&gt;&lt;br&gt;‘곰손’에선 저렴한 비용으로 전동 드릴 사용법, 전등 스위치·콘센트 교체 등 물건을 고쳐 쓰는 데 필요한 알찬 기술들도 가르치고 있다.&lt;br&gt;&lt;br&gt;고 대표는 2007년부터 여성환경연대 등에서 활동하며 미세 플라스틱이 배출되는 화장품 용기 사용 금지, 세안제·세제·치약 등 일상용품에 쓰이는 플라스틱 입자인 마이크로 비즈(beads·알갱이) 사용 금지, 영수증의 내분비 교란 물질 비스페놀A 검출 감시 등을 해왔다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇본선 심사위원&lt;/b&gt;&lt;br&gt;&lt;br&gt;고철환(서울대 명예교수·심사위원장), 이병욱(전 환경부 차관), 이미경(환경재단 대표), 김용건(연세대 국제학대학원 교수), 김재영(서울대 건설환경공학부 교수), 이창흠(전 환경부 기후탄소정책실장), 김정환(환경부 대변인), 한삼희(전 조선일보 수석논설위원), 신은진(조선일보 사회정책부장)&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ZD3HL5NZBBJPOPNNV3VQYZK2Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 권혜인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 전언을 지시받다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/06/25/EK6QHHIKIZGJJKF6JGF5AAZOTU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/06/25/EK6QHHIKIZGJJKF6JGF5AAZOTU/</guid>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QFT7GZ2X65CJBOPJHK2IPJAH74.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 이직(移職)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/06/25/JHFROV6Y6NDPHLZZFSGNXDMEAE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/06/25/JHFROV6Y6NDPHLZZFSGNXDMEAE/</guid>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W67XYLZ3WZCEHKKLDEACSDYED4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] few and far between</title>
-      <link>https://www.chosun.com/national/nie/english/2024/06/25/7ECSFOVIXRDF7FFLGVVV4FSB7I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/06/25/7ECSFOVIXRDF7FFLGVVV4FSB7I/</guid>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YBSQEAROEFGWRBNXT2CXR3DE3I.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디]  오븐</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/06/25/FQCZI7PHWZHTZM5PTV56RKQLIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/06/25/FQCZI7PHWZHTZM5PTV56RKQLIE/</guid>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CHC6AO4LFBHOBBDXOSVCLUOHUI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2406] 날짜 계산기</title>
-      <link>https://www.chosun.com/national/nie/2024/06/25/75XHRITWTJED3KQ53I6T5JWJRE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/25/75XHRITWTJED3KQ53I6T5JWJRE/</guid>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5MWHTZD2RBO5HF4YZXBKJTME4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 국무조정실·국무총리비서실 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/06/25/OFQ6TQIO2FEDDO4HSZZZOF3L6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/06/25/OFQ6TQIO2FEDDO4HSZZZOF3L6M/</guid>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 15:35:00 +0000</pubDate>
-      <content:encoded>▲국무조정실·국무총리비서실◇국장급 인사교류▷국제개발협력본부 개발협력지원국장 이규호&lt;br&gt;&lt;br&gt;▲산업통상자원부◇실장급 전보▷대변인 이원주&lt;br&gt;&lt;br&gt;▲문화체육관광부◇국장급 전보▷기획조정실 정책기획관 이정미▷국립국어원 기획연수부장 윤성천▷대한민국예술원 예술원사무국장 박위진&lt;br&gt;&lt;br&gt;▲과학기술정보통신부◇실장급 승진 및 파견▷국가과학기술자문회의 지원단장 김유식&lt;br&gt;&lt;br&gt;▲여성가족부◇과장급 전보▷기획재정담당관 신경식▷여성정책과장 김성철▷청소년정책과장 김민아&lt;br&gt;&lt;br&gt;▲기획재정부◇과장급 인사▷연금보건경제과장 배성현&lt;br&gt;&lt;br&gt;▲보건복지부◇국장급 승진▷첨단의료지원관 고형우&lt;br&gt;&lt;br&gt;▲법제처◇고위공무원 승진▷행정법제국 법제심의관 유철호◇부이사관 전보▷기획조정관실 기획재정담당관 오은하▷법령해석국 경제법령해석1과장 공은정◇과장급 승진▷법령해석국 경제법령해석2과장 안정임◇서기관 전보▷법령해석국 사회문화법령해석과 조연경&lt;br&gt;&lt;br&gt;▲공정거래위원회▷사무처장 남동일▷조사관리관 육성권▷비상임위원 오규성&lt;br&gt;&lt;br&gt;▲금융위원회▷디지털금융정책관 전요섭▷디지털금융총괄과장 신상훈▷자본시장총괄과장 이석란▷회계제도팀장 류성재&lt;br&gt;&lt;br&gt;▲서울시교육청◇지방이사관 승진▷정독도서관장 엄동환◇지방부이사관 승진▷총무과 서울특별시의회 교육협력관 파견 김창근▷총무과 학교안전공제회 파견 윤석만▷교육행정국장 정효영◇지방서기관 승진▷감사관 김영란▷학교지원과 김향숙▷보건안전진흥원 환경안전부장 송제인▷평생교육과 윤성원▷학생교육원 재정지원과장 이재철▷교육연구정보원 교육정보화부장 김경애◇지방기술서기관 승진▷보건안전진흥원 보건급식부장 조정용◇지방부이사관 전보▷총무과장 고영갑▷보건안전진흥원장 손영순▷마포평생학습관장 김덕희▷송파도서관장 문광철◇지방서기관 전보▷안전총괄담당관 정길중▷유보통합추진단장 이애자▷예산담당관 박우일▷청사이전추진단장 이정희▷동부교육지원청 행정지원국장 김동년▷중부교육지원청 행정지원국장 고경춘▷강서양천교육지원청 행정지원국장 구자신▷교육연구정보원 총무부장 이종오&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정철근 법조언론인클럽 회장</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/25/WHK35E5NB5AMPBCOPUVJYHYVAE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/25/WHK35E5NB5AMPBCOPUVJYHYVAE/</guid>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JVH5Z3PT7REJNDSAXO3SOLWQHY.jpg"&gt;&lt;br&gt;&lt;br&gt;정철근 중앙일보S 대표이사가 24일 법조언론인클럽 제10대 회장으로 취임했다. 법조언론인클럽은 중앙언론사 전·현직 법조 출입기자들이 참여한 사단법인으로 매년 법조계 발전에 이바지한 법조인·기자를 선정해 시상한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 정영애 광주대 상임이사 별세</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/06/25/WCEDAEDCNVACBB5LZDFPYHILBY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/06/25/WCEDAEDCNVACBB5LZDFPYHILBY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 15:35:00 +0000</pubDate>
-      <content:encoded>▲정영애 광주대 상임이사 별세, 김민호 前 인성고 이사장·김진 前 광주대 교수 모친상, 송숙남 광주대 패션주얼리디자인학부 교수·신윤정 전남대 대학원 인공지능융합학과 겸임교수 시모상, 김동진 광주대 총장 조모상=24일0시25분 광주광역시 VIP장례타운, 발인27일7시30분, (062)521-4444&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘국군포로 후손’이란 이유로… 탄광서 강제 노역하다 탈북한 모녀</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/25/HI2G6TAAA5DLFNNS222MGCGSCU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/25/HI2G6TAAA5DLFNNS222MGCGSCU/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 15:35:00 +0000</pubDate>
-      <content:encoded>“6·25전쟁 때 대한민국이라는 나라가 지도에서 사라졌다면, 우린 아오지 탄광의 암흑에 갇혀 삶을 끝내야 했을 겁니다.”&lt;br&gt;&lt;br&gt;24일 오후 12시 30분쯤 서울 동작구 국립서울현충원에서 만난 유지혜(54)·장은서(33) 모녀(母女)는 아버지이자 외할아버지인 유기준씨의 가묘(假墓) 격인 현충탑을 참배했다. 현충탑 지하의 위패봉안관 벽면에 새겨진 유기준씨의 이름을 한참 바라보던 두 사람은 말없이 눈시울을 붉혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/76HI47PBUZBX5NRACIFOQZSB7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 서울 동작구 국립현충원에서 국군포로 유기준씨의 가묘(假墓) 격인 위패 봉안관을 참배하는 딸 유지혜(오른쪽)씨와 외손녀 장은서(33)씨. 장씨가 외할아버지의 이름을 향해 고인이 6·25전쟁 금화지구 전투 등 전공으로 받은 화랑무공훈장을 들어 보이고 있다. '괴뢰군 포로의 후손'이란 낙인에 신음했던 모녀는 "탈북 후 대한민국 사회에서 원하는 삶을 살 자유를 얻었다"고 했다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고인은 전북 익산에서 1926년에 태어나 6·25에 참전했다. 6·25 내내 가장 치열했던 격전지인 ‘철의 삼각지(강원 철원·금화·평강)’ 금화 지구 전투에 참전, 화랑무공훈장까지 받았다. 그러나 1952년 북한 인민군에게 포로로 잡혔고 정전 이후에도 북으로 끌려가 아오지 탄광에서 강제 노역을 했다. 유기준씨는 평생 대한민국의 고향을 그리워하다 1990년대 후반 숨졌다.&lt;br&gt;&lt;br&gt;‘괴뢰군 포로’란 낙인이 찍힌 유기준씨는 물론, 딸 유지혜씨와 외손녀 장은서씨의 삶은 고난의 연속이었다. 유지혜씨는 교사가 꿈이었지만 ‘반동의 피’를 물려받은 그에게 북한 독재정권은 어떠한 자유도 허락하지 않았다. “그런 아버지를 두고 무슨 교사냐”라는 말을 듣기 일쑤였고 고교 졸업 이후 아오지 탄광으로 끌려갔다. 2004년 홀로 탈북해 한국에 왔다.&lt;br&gt;&lt;br&gt;장씨의 삶 역시 ‘반동 포로와 탈북자의 후손’이라는 이중의 족쇄가 채워졌다. 고등학교에 등록은 돼 있었지만 남의 집에서 식모 일을 하며 하녀처럼 살았다. 장씨도 고교 졸업 이후인 2008년부터 아오지 탄광에 끌려갔다. 장씨는 탄광의 삶을 “짐승보다 못한 삶”이라고 표현했다.&lt;br&gt;&lt;br&gt;헬멧 하나에 의지해 언제 무너질지 모르는 막장에 기어들어가 12시간 이상 일하는 것은 물론이고 전기가 섞인 물이 갱 내에 항상 흘러 감전의 위험도 컸다. 화장실도 마땅히 없어서 항상 폐갱에서 용변을 봤다고 한다. 석탄 마대를 들고 내려오다가 사다리에서 떨어져 허리를 다친 적도 있다. 국군 포로 외할아버지, 탈북한 어머니 때문에 그는 동네에서 ‘요주의 감시 대상’이었다. 이런 시선을 받기 싫어 남들보다 열심히 일했지만 이미 찍힌 낙인을 거둘 수가 없었다.&lt;br&gt;&lt;br&gt;2011년쯤 먼저 탈북해 한국에 정착한 어머니 유지혜씨와 연락이 닿은 장씨는 마침내 2012년 1월 한국에서 어머니와 재회했다. 2015년 탈북민에게 영어를 가르쳐주는 통일부 산하 법인 ‘프리덤스피커즈인터내셔널(Freedom Speakers International·FSI)’을 알게 됐다. 이곳에서 원어민 자원봉사자와 FSI 케이시 라티그 공동대표에게 영어를 배웠다.&lt;br&gt;&lt;br&gt;장씨가 아오지 탄광의 경험을 담은 영어 책 ‘검은 화장을 한 소녀(Girl with Black Makeup·FSI출판)’가 25일 아마존에 발매된다. ‘검은 화장’이란 탄광에서 묻은 석탄 가루로 인해 검게 된 얼굴을 뜻한다. FSI 이은구 공동대표의 권유로 출판할 수 있게 됐다. 장씨는 책에서 이렇게 썼다. “나는 검은 화장을 한 소녀였습니다. 나는 국군 포로의 후예였고, 다른 길을 선택할 자유 따위는 없었습니다.”&lt;br&gt;&lt;br&gt;장씨는 이날 “대한민국은 내게 자유와 새로운 삶을 선물했다”며 “내가 원하는 삶을 살아갈 수 있다는 것이 여전히 믿기지 않는다”고 했다. 북한에서 강제 노역으로 질병과 부상에 시달렸던 장씨는 지난해 9월부터 간호조무사 자격증 시험을 준비해왔다. “나처럼 몸이 아팠던 이들을 보살펴 주고 싶다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 6월 25일</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/25/N3MPJTATJ5CNRKUPSDX2Z53USE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/25/N3MPJTATJ5CNRKUPSDX2Z53USE/</guid>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z5ZRVH43RFAQ5EL4ZO7ZIP5CK4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>화성 배터리 화재 참사 달려간 진보당 “민노총과 공동 대응”</title>
@@ -942,19 +970,6 @@
       <description/>
       <pubDate>Mon, 24 Jun 2024 14:00:38 +0000</pubDate>
       <content:encoded>아는 사람이 허락 없이 자신의 차를 몰다가 사고를 낸 경우, 차량 소유주에게도 손해배상 책임이 있다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XOOTEFTJBH4DLR4FZUCMQRA5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주 운전 사고 일러스트. 기사와는 관련 없음. /조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원3부(주심 이흥구 대법관)는 현대해상이 차주 A씨를 상대로 낸 구상금 청구 소송에서 원고 패소 판결한 원심을 파기하고, 사건을 서울중앙지법으로 돌려보냈다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2019년 10월 게임 동호회를 통해 알게 된 B씨의 집 인근 술집에서 B씨와 함께 술을 마신 뒤 B씨 집에 가서 잤다. A씨는 당시 차를 갖고 가서 B씨 집 부근에 주차했었다. A씨가 잠든 사이 B씨는 A씨의 차 열쇠를 몰래 들고 나가 운전하다 보행자를 치는 사고를 냈고, 보행자는 약 14주간의 치료가 필요한 오른쪽 발목 부상 등을 당했다. 현대해상은 피해자에게 1억4000여 만원을 지급한 후, 차주 A씨와 운전자 B씨를 상대로 구상금 청구 소송을 냈다. A씨는 B씨가 무단으로 운전해 자신은 책임이 없다고 주장했다. 그러나 1심은 A씨와 B씨 모두 책임이 있다며 공동으로 배상하라고 판결했다. 이후 A씨만 항소했고, 2심은 “A씨 입장에선 B씨가 몰래 차량 열쇠를 가지고 나가서 A씨 차량을 운전하는 상황을 예상할 수 없었을 것”이라며 A씨 손을 들어줬다.&lt;br&gt;&lt;br&gt;하지만 대법원은 “차량 소유자와 운전자의 관계, 차 열쇠 보관 및 관리 상태, 무단 운전 경위 등을 고려하면 A씨가 운전자의 책임을 완전히 상실했다고 보기 어렵다”며 “만약 이 사고가 일어나지 않았다면 B씨의 무단 운행에 대해 A씨가 사후에 승낙했을 가능성을 배제할 수 없다”고 판단했다. B씨가 차 열쇠를 쉽게 손에 넣을 수 있었기 때문에 A씨의 배상 책임도 있다는 취지다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘순풍산부인과 미달이’ 김성은 깜짝 결혼 발표 “따스한 분 만났다”</title>
-      <link>https://www.chosun.com/national/people/2024/06/24/XLYNOGFHZFDHDCTYLI5J4US54Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/24/XLYNOGFHZFDHDCTYLI5J4US54Q/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 06:26:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6C52TE66KBA6HHZOMG6CUANXPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;순풍산부인과 출연 당시 김성은(왼쪽)과 결혼을 발표한 김성은(오른쪽). /조선DB, 김성은 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SBS 시트콤 ‘순풍산부인과’에 미달이 역으로 출연했던 아역 출신 배우 김성은(34)이 결혼을 발표했다.&lt;br&gt;&lt;br&gt;김성은은 23일 인스타그램을 통해 “떨리고 설레는 마음으로 기쁜 소식을 전하고자 한다”며 “제가 드디어 결혼을 한다”고 했다.&lt;br&gt;&lt;br&gt;김성은은 “저의 가장 낮은 모습도 사랑으로 감싸 안아주는 따스한 분을 만났다”며 “부족함이 많은 저에게 항상 큰 용기를 주는 그런 사람이다. 지금처럼 기쁠 때 같이 웃고, 어려울 때 서로에게 힘이 되고 싶은 마음에 가정이라는 울타리 안에서 둘이 함께 더 넓은 곳을 여행하려 한다”고 했다.&lt;br&gt;&lt;br&gt;김성은은 “결혼식은 양가 부모님과 친지들만 모시고 비공개로 올릴 예정”이라며 “소중한 지인분들께 미리 소식 전해드리지 못한 점 너른 양해 부탁드리며, 행복한 가정을 이루어 가는 모습으로 보답하겠다”고 했다.&lt;br&gt;&lt;br&gt;김성은은 예비 신랑이 누구인지 구체적인 신상은 밝히지 않았다.&lt;br&gt;&lt;br&gt;김성은은 1996년 광고모델로 연예계에 데뷔했다. 이후 ‘순풍산부인과’에 출연한 뒤 각종 아역 광고를 휩쓸었다. 그동안 ‘웰컴 투 두메산골’ ‘감자별2013QR3′ 등 다양한 작품에 출연했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/ASY7TA4JKFBCFHIRQQZMXBQT5E.jpg?width=732&amp;height=549&amp;auth=87ab4afa0debbcb87c949df3797c8f4cdca31b1bc1c06c605428a2d6214bff9a&amp;smart=true" type="image/jpeg" height="549" width="732">
-        <media:description type="plain">순풍산부인과 출연 당시 김성은(왼쪽)과 결혼을 발표한 김성은(오른쪽). /조선DB, 김성은 인스타그램</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>[속보] 화성 일차전지 공장 화재, 1명 사망...“10여명 고립 추정”</title>
