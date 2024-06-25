@@ -13,6 +13,158 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“지하철 핑크석 임산부 감지기 붙이자” 시민 제안… 서울시 입장은?</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/25/TCKGQPMJ5VH27EYFFZR52DFURI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/25/TCKGQPMJ5VH27EYFFZR52DFURI/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 04:38:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3JVE72P3ONG2XPZXDDPVYNHNFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지하철 5호선 내 임산부 배려석. /조인원 기자
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 서울시 정책 제안 사이트에 ‘지하철 임산부 배려석에 임산부 여부를 감지하는 센서를 설치하자’는 내용의 글이 올라왔다. 이에 대해 시와 서울교통공사는 일반 승객이 교통약자 배려석에 앉는 것을 제지할 법적 근거가 없으며 갈등을 더 조장할 수 있다는 입장으로 난색을 표하고 있다.&lt;br&gt;&lt;br&gt;서울시 정책 제안 사이트 ‘상상대로 서울’에는 지난 5일 이 같은 내용의 제안이 올라왔다. 작성자 김모씨는 “임산부가 아닌 일반 승객이 임산부석을 이용해 본래의 취지가 몰각되고 임산부석 제도가 형해화되고 있는 실정”이라며 “임산부석이 존재한다는 이유로 일반좌석에서 배려를 더 기대하기 어려운 것이 현실”이라고 했다.&lt;br&gt;&lt;br&gt;김씨는 그러면서 “임산부석에 착석 여부를 감지할 수 있는 센서를 부착하고, 임산부석 좌우 측면에 카드 태그기를 설치하자”고 했다. 이를 통해 임산부 카드를 소지하지 않은 승객의 착석이 감지되면 ‘삐’ 소리와 함께 “임산부 카드를 태그해 주시기 바랍니다”라는 음성을 내보내자는 것이다. 김씨는 카드를 태그하지 않으면 좌석 하단에 불빛이 나게하자고도 했다.&lt;br&gt;&lt;br&gt;해당 글에는 “첫째 임신 때 임산부석에 앉은 일반 승객들을 너무 많이 봤다. 시행됐으면 좋겠다”라는 공감 댓글이 달리기도 했다. 실제 부산, 광주 지역 도시철도에선 이와 비슷한 시스템을 도입하고 있다.&lt;br&gt;&lt;br&gt;뉴시스에 따르면 서울시는 당장 임산부석에 감지기를 부착하는 것은 어렵단 입장이다. 일반 승객이 임산부석에 앉는 것을 막을 법적 근거가 없으며, 반복적으로 불빛이나 경고음이 날 경우 다른 승객들이 불만을 제기할 수 있다는 설명이다.&lt;br&gt;&lt;br&gt;타 지역보다 규모가 큰 서울 지하철 특성상 임산부 배려석에 해당 장치를 모두 설치할 경우 큰 비용이 발생한다는 점도 있다. 서울교통공사는 인위적 장치 도입시 설치비 46억원과 유지보수비 연 2억원이 든다고 추정했다.&lt;br&gt;&lt;br&gt;서울 지하철 임산부 배려석은 임신과 출산을 장려하고 임산부 배려 문화를 확산하고자 2013년 서울 지하철에 도입됐다. 그러나 임산부 배려석과 관련된 민원은 끊이지 않고 있다. 서울 지하철 1~8호선을 운영하는 서울교통공사에 접수된 관련 민원은 2022년 7334건, 2023년 7086건으로 집계됐다. 올해 들어서는 지난달까지 2421건이 접수됐다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>증권사 고객정보 83만건 빼돌려 팔아넘긴 IT업체 대표</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/25/JM75KYI4YFFYVGOEFQASL3P6HY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/25/JM75KYI4YFFYVGOEFQASL3P6HY/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 05:03:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J336L26BFZEMDCHZ5ZMXZ3W4BY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;증권사 고객정보 83만 건을 몰래 빼돌린 혐의를 받는 IT업체 대표에게 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;인천지법 형사 14단독 공우진 판사는 정보통신망 이용촉진 및 정보보호 등에 관한 법률 위반 등 혐의로 구속기소 된 A(25)씨에 대해 징역 2년을 선고했다고 25일 밝혔다. 공 판사는 A씨에게 1770여만 원을 추징할 것도 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 1월부터 같은 해 5월까지 10차례에 걸쳐 B증권사 고객의 계좌번호와 전화번호 등 개인정보 83만7000여 건을 확보해 브로커 C씨 등에게 넘긴 혐의로 구속기소 됐다.&lt;br&gt;&lt;br&gt;프로그래머인 A씨는 IT 기업 대표로, 2019년부터 B증권사의 투자대회 플랫폼 유지‧보수 업무를 맡으면서 고객정보에 접근할 수 있었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 또 온라인 대부 중개 업체 등 보안이 취약한 10개 사이트를 해킹해 확보한 개인정보 47만여 건을 다른 사람에게 제공하고, 개인정보를 추출할 수 있는 악성 프로그램을 만들어 500만 원을 받고 판매하기도 한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;공 판사는 “상당한 기간에 걸쳐 계획적으로 다수의 범행을 반복했고, 이로 인해 다수의 개인정보가 침해됐다”고 했다. 이어 “C씨의 강압이나 위협이 범행을 지속하는 데 영향을 미쳤다고 보이나 C씨와의 공모 범행 외에도 혼자서 범행하거나 제3자와 공모하기도 한 상황 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“중국에 딸 두고 온 사촌누나들 연락 안돼...” 中동포의 눈물</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/25/VRZY7WRY45DTFOO2G3K5HP6KPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/25/VRZY7WRY45DTFOO2G3K5HP6KPI/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 04:33:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLE6IFE75VFFPNQCLUV46FFR6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 대형 화재가 발생한 경기도 화성시 서신면의 일차전지 공장에서 시뻘건 불길이 치솟고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 화성 일차전지 공장 화재 사고가 발생한 지난 24일, 한 중국 동포 남성은 “사촌 누나들이 사고를 당했다”며 “시신을 확인할 수 있냐”고 장례식장을 급히 찾았다.&lt;br&gt;&lt;br&gt;지난 24일 오후 8시 30분쯤 경기도 시흥시에 거주하는 중국 동포 남성 A씨가 눈시울을 붉힌 채 화성송산장례문화원에 들어섰다. A씨는 장례식장에 들어오자마자 “사촌 누나들이 사고를 당했다고 한다”며 “어디서 시신을 확인할 수 있냐”고 했다.&lt;br&gt;&lt;br&gt;A씨는 퇴근 후 친형으로부터 ‘사촌 누나들이 사고를 당했다더라’며 ‘지금 장례식장을 가면 볼 수 있을 것’이라는 연락을 받고 곧장 장례식장을 왔다. A씨의 친형과 사촌 누나 2명 강모(52)씨와 강모(45)씨가 이번 참사가 벌어진 아리셀 공장에서 함께 근무를 했다고 한다. A씨의 친형은 사고가 난 동과 다른 곳에서 이를 하고 있었기에 화를 면했다.&lt;br&gt;&lt;br&gt;A씨는 “사촌 누나들이 돌아가셨는지조차 아직 파악이 안 된다”며 “시신을 보려면 어디로 가야 하냐”고 재차 물었다. 하지만 경찰 입회가 이뤄지지 않아 A씨는 시신을 확인할 수 없었고 20여분만에 장례원을 떠났다.&lt;br&gt;&lt;br&gt;A씨의 사촌 누나 2명은 이번 참사 외국인 사망자 명단에서 이름을 찾아볼 수 있었다. A씨는 “누님들을 마지막으로 본 건 꽤나 됐지만 그래도 명절 때마다 꼭 찾아뵀다”며 “작은 누나는 이전에도 아리셀에서 일을 하다 중국에 잠시 머무른 뒤 다시 아리셀로 일하러 와 봉변을 당했다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 사촌 누나 2명 모두 결혼을 해 자녀를 두고 있다고 했다. 이중 나이가 많은 누나는 중국인 남편과 결혼한지 얼마 되지 않고 경기 시흥시 정왕동에서 지내고 있었다고 했다. 두 사망자 모두 슬하에 자녀를 두고 있고 그중 한명은 중국에서 지내는 딸이 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이번 참사 사망자 다수가 외국인 근로자로 파악된다. 중국인 18명, 라오스인 1명, 국적 불명 1명에 한국인 2명 등으로 대부분이 중국인이었다. 법무부의 출입국 통계에 따르면 한국 체류외국인 중에서도 중국인 비율은 최근 5년간 1위를 기록했으며 지난 2023년 한국 체류 중국인은 94만2395명에 달했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PXWQ4GLBXVBIZMOAM67KRIHOBY.gif?width=1400&amp;height=788&amp;auth=9c639b6d1208ae6fb41e2c6aaa5ecca07e6bb8fd669edbfebcba5d6d5c0b7e1f&amp;smart=true" type="image/jpeg" height="788" width="1400">
+        <media:description type="plain">화성화재 GIF</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>6·25 폭주족 구경하던 10대 3명, 인도로 돌진한 차량에 치여</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/25/FEHDKIUM2BCF3JCWEDTKA3QEL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/25/FEHDKIUM2BCF3JCWEDTKA3QEL4/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 04:17:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DFU457WWRKPI63XD4MZDDXQLUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 광주 서구 광천동 광천사거리에서 차량이 인도로 돌진하는 사고가 발생했다. /광주서부소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·25 전쟁 74주년 날 오토바이 폭주족을 구경하던 10대 학생들이 교통사고 충격으로 돌진한 차량에 치여 부상하는 사고가 발생했다.&lt;br&gt;&lt;br&gt;25일 광주서부경찰서에 따르면, 이날 오전 3시 2분쯤 광천사거리에서 40대 A씨가 몰던 그랜저가 좌회전하던 SUV 차량과 부딪혔다.&lt;br&gt;&lt;br&gt;중심을 잃은 A씨 승용차는 그대로 인도로 돌진해 그곳에 서 있던 B군 등 10대 3명을 들이받았다. B군 등은 발과 발목에 골절상을 입고 병원으로 옮겨져 치료를 받았다. 보행자 3명과 함께 A씨 등 차량 운전자 2명도 크고 작은 부상으로 병원에 이송됐다.&lt;br&gt;&lt;br&gt;당시 인도에는 B군 등 10여명이 6·25 전쟁 기념일을 맞아 난폭 운전을 하던 오토바이 폭주족을 구경하고 있었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;운전자들은 모두 음주·졸음 또는 무면허 상태는 아니었던 것으로 확인됐다. 사고가 난 두 차량에는 모두 블랙박스가 없었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “차대차 사고 원인을 먼저 조사해야 하는데, 일단은 신호위반인 것으로 보인다”며 “목격자 진술 등을 토대로 정확한 사고 경위를 조사 중”이라고 전했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘파타야 드럼통 살인’ 피의자 혐의 부인...국내 없는 공범에 책임 미뤄</title>
+      <link>https://www.chosun.com/national/2024/06/25/CBHCFBRED5DULDVPYSBZ6DC7RI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/06/25/CBHCFBRED5DULDVPYSBZ6DC7RI/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 04:56:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NDZMQZ7IXMUUYXDPJ3S7QKRUNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;태국 파타야에서 공범들과 한국 관광객을 납치 살해한 뒤 시신을 유기한 혐의를 받는 이씨가 지난달 15일 창원지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;태국의 유명 관광지인 파타야에서 벌어진 일명 ‘드럼통 살인’ 사건의 피의자가 법정에서 혐의를 전면 부인했다. 또 자신은 범행을 공모하지 않았고, 피해자를 구하려고 했다고 주장했다. 현재 체포된 공범 1명은 국내 송환이 지지부진하고, 나머지 공범은 해외에서 도주 중이어서 치열한 법정 다툼이 예상된다.&lt;br&gt;&lt;br&gt;25일 오전 창원지법 형사4부(재판장 김인택)는 강도살인과 시체은닉 혐의로 구속기소된 이모(26)씨에 대한 첫 공판을 열었다.&lt;br&gt;&lt;br&gt;이씨 측은 공소사실에 대해 인정하느냐는 재판부의 질문에 혐의를 모두 부인한다고 밝혔다. 이씨는 지난달 3~4일쯤 태국 파타야에서 일당 2명과 함께 금품 갈취 등을 목적으로 한국인 A(30대)씨를 납치 후 살해한 뒤 대형 플라스틱 통에 시멘트와 함께 넣어 호수에 유기한 혐의로 구속 기소됐다. A씨의 시신은 손가락 10개가 절단된 상태로 태국 경찰에 발견됐다.&lt;br&gt;&lt;br&gt;이날 검찰이 밝힌 공소사실에 따르면 이씨는 일당 2명과 A씨에 대한 강도살해 범행을 미리 계획했다. 태국의 한 클럽에서 A씨에게 약물이 든 술을 마시게 해 취하도록 만든 뒤 미리 준비한 차량에 태워 범행 장소로 예약한 콘도로 이동했다. 술에 취한 A씨가 숙소로 가는 방향이 다르다며 항의하자 목을 조르고 주먹 등으로 폭행해 살해했다.&lt;br&gt;&lt;br&gt;이 과정에서 이씨는 A씨가 움직이지 못하도록 팔과 다리를 잡고 있었던 것으로 조사됐다. 이씨 등은 범행 후 A씨 휴대전화를 이용해 계좌에서 총 370만원을 빼낸 것으로 드러났다.&lt;br&gt;&lt;br&gt;범행 직후 국내에 들어와 있던 이씨는 지난달 12일 전북 정읍 거주지에서 경찰에게 붙잡혔다. 이씨는 체포 직후 수사기관 조사에서도 혐의를 부인해왔다. 지난달 15일 구속 전 피의자 심문(영장실질심사)에 출석하면서는 취재진에게 “내가 죽인 게 아니다”고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JD3F3ANAMFDBZKBQCC3JVUX35I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;태국 현지 언론은 용의자 2명의 사진과 3명의 실명을 공개했다. /더 네이션&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이씨가 혐의를 전면 부인하자 재판장은 “(공범과) 같이 행동한 것 맞는가”라고 묻기도 했다. 이씨 변호인 측은 “피해자가 사망했을 때 현장에 있었던 것은 맞지만, 일부 말리는 행위를 하고 피해자의 상태가 이상해졌을 때는 응급 구호조치를 했다”고 주장했다.&lt;br&gt;&lt;br&gt;또 시신을 은닉했을 때는 이씨가 현장에 동행하지 않았다고 주장했다. 그러면서 “A씨 시체를 통에 넣어 밀봉하거나 유기한 것은 나머지 2명이 한 것으로 추정한다”며 “피고인은 살인 공모를 하지 않았고, 살해 행위에도 가담하지 않았다”고 말했다.&lt;br&gt;&lt;br&gt;이날 이씨 측은 경찰 수사 단계에서 이뤄진 피의자신문조서 등의 증거 채택도 부동의했다. 이 사건 공범 중 1명은 캄보디아에서 붙잡혔지만, 태국에서도 피의자 송환을 요구하면서 국내 송환이 이뤄지지 않고 있다. 나머지 1명은 도주 중으로, 현재 행방이 묘연한 상태다.&lt;br&gt;&lt;br&gt;검찰은 피해자 A씨가 납치됐을 당시 현장에 있었던 것으로 알려진 태국인 지인, 도주 중인 공범의 전처를 증인으로 신청했다. 이들은 태국 경찰 등에 참고인 진술을 했던 것으로 알려졌다. 이씨에 대한 2차 공판은 7월 23일로 잡혔다.&lt;br&gt;&lt;br&gt;이날 첫 재판 직후 피해자의 누나 B씨는 “자신의 형량을 줄이기 위해 대형 로펌 변호사 10명을 선임해 모든 혐의를 부인하고 있다”면서 “일면식도 없는 사람을 유인·납치·폭행·살해하는 현장에 함께 있었는데 서로의 동의가 없이 가능하냐”고 했다. 또 “가해자들에게 법이 허용하는 범위에서 가장 엄한 벌을 내려주시길 간곡히 부탁한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시 “폐지 수입 노인 일자리 소개...폐지값에 보조금도 지원”</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/25/L52PQLEITRAJVPDTNOWEBG3Y4Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/25/L52PQLEITRAJVPDTNOWEBG3Y4Q/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 04:58:16 +0000</pubDate>
+      <content:encoded>서울에서 폐지를 줍는 노인 3000여명이 앞으로 폐지수집 대신 담배꽁초 수거 같은 저강도 공익활동형 일자리를 소개받을 수 있게 된다. 폐지수집을 계속 하고 싶어하는 경우에는 서울시가 폐지 값에 보조금을 얹어줘서 월평균 30만원가량을 월급처럼 준다. 서울시는 이 같은 내용의 ‘폐지수집 어르신 지원 방안’을 올 하반기부터 확대 시행한다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;이번 지원책은 폐지를 주워 생계를 이어가는 60대 이상 노인들이 다른 일자리를 찾을 수 있게 하는 게 핵심이다. 서울시 관계자는 “자체 조사 결과 이들이 폐지를 주워서 얻는 소득은 월 15만원가량”이라며 “소득 자체가 낮을 뿐만 아니라 교통사고 등 위험도 있어 다른 일자리로 바꿀 수 있게 지원하려는 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6J6RP3HC6GZOY3KSGMXWKZ36LU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노인일자리 폐지수집 사업단 활동모습./서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 따라 서울시는 각 자치구 내 시니어클럽이나 노인종합복지관 등을 ‘어르신 일자리 전환 전담기관’으로 지정, 공공장소 담배꽁초 수거나 수변공원 환경미화원 등 일자리를 노인들에게 소개하기로 했다. 폐지수집과 일의 형태는 유사하지만, 노동 강도가 약하고 근로 시간도 월 30시간 내외인 일자리들이다.&lt;br&gt;&lt;br&gt;다만 폐지수집을 계속하고 싶어하는 노인들은 이 일을 계속하면서도 소득은 늘릴 수 있게 지원금을 주기로 했다. 서울시가 폐지수집 노인 433명을 대상으로 설문조사한 결과, 응답자의 60%가 폐지수집을 계속하고 싶다고 했다. ‘장소에 구애받지 않고 자유롭게 일하고 싶다’ ‘당일 현금으로 판매대금을 받고 싶다’ 등의 이유였다. 서울시 관계자는 “폐지를 줍는 분의 47%가 80대 이상이라 다른 일자리 찾기를 꺼린다”며 “이 경우 억지로 생업을 바꾸게 하는 것보다는 지원금을 주는 게 낫다는 판단”이라고 했다.&lt;br&gt;&lt;br&gt;서울시는 이런 경우엔 ‘폐지수집 일자리사업단’과 연결해준다. 자치구가 지정한 공동 판매처(고물상)에 폐지를 갖다주면 판매 금액에 보조금 최대 월 25만원을 더해 급여처럼 주는 것이다. 현재 서울시 13개 구에서 총 1253명이 이런 방식으로 일하고 있는데, 앞으로 전 자치구 1800명으로 확대할 계획이다. 서울시 관계자는 “보조금까지 월평균 30만원씩 받을 것으로 예상한다”고 했다.&lt;br&gt;&lt;br&gt;서울시는 또 ‘어르신 안전보험’ 상품을 설계·지원하고, 경량 손수레와 야광조끼 등을 지급해 야간에도 안전하게 폐지를 수집할 수 있게 도울 계획이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강릉 건물 공사현장서 70대 근로자 추락해 숨져</title>
+      <link>https://www.chosun.com/national/incident/2024/06/25/7HGWGGDJJZBINP66VX7PUHUIS4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/25/7HGWGGDJJZBINP66VX7PUHUIS4/</guid>
+      <dc:creator>강릉=정성원 기자</dc:creator>
+      <description>25일 오전 6시 50분쯤 강원 강릉시 대전동 한 건물 공사현장에서 70대 근로자 A씨가 4m 높이에서 추락했다. 이 사고로 A씨가 심정지 상태로 병원에 후송됐으나 끝내 숨졌다.</description>
+      <pubDate>Tue, 25 Jun 2024 04:57:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ILTINPV6TNAR5HEAFVF7XKQFCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 오전 6시 50분쯤 강원 강릉시 대전동 한 건물 공사현장에서 70대 근로자 A씨가 4m 높이에서 추락했다. &lt;br&gt;&lt;br&gt;이 사고로 A씨가 심정지 상태로 병원에 후송됐으나 끝내 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 작업 중 추락한 것으로 보고 목격자를 상대로 정확한 사고 경위와 안전조치 준수 여부 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“네가 직접 와야지!” 카페 사장에 음료 던진 손님</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/25/BIKVRNML5NGS5LNZKSQBXZINKY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/25/BIKVRNML5NGS5LNZKSQBXZINKY/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 04:55:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ITS6YZKDOZGMTJOCGK6JKMFVRM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손님이 음료를 던지는 장면. /JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기분이 나쁘다는 이유로 한 남성 손님이 여성 카페 사장에게 음료를 던진 CCTV 영상이 공개돼 공분이 일고 있다.&lt;br&gt;&lt;br&gt;24일 JTBC ‘사건반장’ 보도에 따르면 지난 21일 한 카페를 방문한 두 남성은 “카페에서 먹고 가겠다”며 음료 두 잔을 주문했다.&lt;br&gt;&lt;br&gt;음료 제조를 마친 사장은 “음료가 나왔다”고 손님들에게 두 차례 말했지만, 손님들은 음료를 가져가지 않았다.&lt;br&gt;&lt;br&gt;사장에 따르면 이후 두 남성 중 한 남성이 대뜸 반말로 “음료 언제 나와?”라고 묻고는 컵에 담긴 음료를 포장해달라고 요청했다.&lt;br&gt;&lt;br&gt;이 과정에서 해당 손님은 계속해서 화를 냈고, 사장은 “두 번이나 불렀는데 중요한 이야기를 하시는 것 같아 더 못 불렀다”고 해명했다.&lt;br&gt;&lt;br&gt;이에 손님은 “네가 직접 왔었어야지! 기분 나쁘게 하네”라며 사장을 향해 음료를 던졌다.&lt;br&gt;&lt;br&gt;손님이 던진 음료에 매장은 엉망이 됐고, 사장 옷도 흠뻑 젖었다. 사장이 경찰에 신고하자 음료를 던진 손님은 가게 밖으로 나가 4차선 도로를 무단 횡단해 도망쳤다고 한다.&lt;br&gt;&lt;br&gt;사장은 “사건 이후 성인 남성만 오면 무서워서 눈도 잘 못 쳐다본다”며 “공포감이 사라지지 않아 결국 폐업을 결정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“북한 여권으로 비행기 타고 들어와”…北외교관 가족의 전무후무 탈북경로 </title>
+      <link>https://www.chosun.com/national/national_general/2024/06/25/PML5IDZNKBCTHPOU5VF37UKMUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/25/PML5IDZNKBCTHPOU5VF37UKMUA/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 04:55:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C2D2ZYPCRVBT5IKYN65CLP6MQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북한 외교관 출신 김태산(왼쪽)씨가 2002년 북한여권으로 한국행 비행기를 탑승해 탈북한 일화를 밝히고 있다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도강과 위조여권 등을 이용해 수개월에 걸쳐 탈북에 성공하는 일반적인 탈북 경로와 달리, 20여년 전 유럽에서 북한 여권을 가지고 한국행 비행기에 탑승해 탈북한 북한 외교관 가족의 사연이 온라인에서 재조명받고 있다.&lt;br&gt;&lt;br&gt;25일 여러 온라인 커뮤니티에는 ‘전무후무한 경로로 탈북한 가족’이라는 제목으로 지난 1일 한 탈북민 유튜브채널에 올라온 영상 내용이 공유되고 있다.&lt;br&gt;&lt;br&gt;해당 영상에는 2000년 체코에서 북한-체코 신발 기술 합작 회사 사장으로 일하다 2002년 한국으로 망명한 김태산씨가 출연한다. 김씨는 북한 경공업성 관료 출신으로, 동유럽과 동남아 등 여러 국가를 방문하며 대사관 직원으로도 근무했다.&lt;br&gt;&lt;br&gt;영상에 따르면 김씨는 체코 체류 중 한국에 대한 궁금증이 생겨 한국행을 결심했다. 2002년 6월 주체코 한국대사관에 전화를 걸어 도움을 청하려 했지만, 마음처럼 쉽지 않았다. &lt;br&gt;&lt;br&gt;시간이 흘러 북한의 명절인 9월9일이 됐다. 김씨는 그날따라 아침에 눈을 뜨자마자 “오늘 가지 않으면 안되겠다”는 생각이 머릿속을 떠나지 않았다. 결국 김씨는 자고 있는 아내를 깨워 “남조선으로 가는 비행기표를 예약하라”고 했다.&lt;br&gt;&lt;br&gt;그사이 김씨는 직원들을 모아놓고 명절맞이 ‘충성의 선서식’을 진행했고, 회사 내 보위원과 통역관들을 ‘다른 공장에 가서 선서식을 진행하라’며 내보냈다.&lt;br&gt;&lt;br&gt;김씨 아내는 체코에서 독일을 경유해 한국으로 들어가는 루프트한자 항공편을 예약했다. 김씨는 가족들에게 “아무것도 가져가지 말고 사진첩만 가지고 빨리 준비하라”고 재촉했고, 가족들을 데리고 프라하 공항에 도착했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/32RI3OB375DTBEYNOQ2W3KVMB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북한 외교관 출신 김태산씨가 2002년 북한여권으로 한국행 비행기를 탑승해 탈북한 일화를 밝히고 있다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공항 직원에게 북한 공무여권을 보여줬다는 김씨는 “(직원은) 유럽 사람이니까 조선 사람이 조선에 간다고 하니까 의심하지 않고 표를 줬다”고 했다.&lt;br&gt;&lt;br&gt;남은 건 출입국 심사였다. 김씨는 “조선민주주의인민공화국 여권은 한국 여권하고는 다르지 않나”며 “비자란 뒤져보고 ‘노비자’하면 이제 죽는 거 아니냐. 체코가 북한하고 가까운데 전화 한통이면 다지 않나. 보위원이 달려오면 죽는 것”이라고 당시 느낀 심경을 떠올렸다.&lt;br&gt;&lt;br&gt;김씨는 가족들의 여권을 모아 직원에게 건넸다. 직원은 다행히 아무말 없이 도장을 찍고는, 아내 품에 안겨 있던 김씨의 네살배기 자녀에게 “굿바이”라며 인사를 했다. 김씨는 “그 3초가 300년 같았다”고 했다.&lt;br&gt;&lt;br&gt;무사히 독일에 도착해 한국행 비행기로 갈아탄 김씨는 처음 보는 광경에 깜짝 놀랐다고 한다. 비행기 좌석에 탄 사람들이 모두 북한 사람처럼 보였기 때문이다. 김씨는 “벌써 날 잡으러 왔나하고 한참 굳어서 보니까 우리한테 누구도 관심을 주지 않더라. 가슴을 보니까 (김일성일가) 초상 배지도 없더라. 여행 왔다가 돌아가는 한국 사람이었다”고 했다.&lt;br&gt;&lt;br&gt;김씨 아내는 장거리 비행 내내 연신 눈물을 쏟았다. 김씨는 “결심을 하고 떠나는 거였지만 50년을 산 고향을 떠나는 게 잘하는 일인가 싶었다”고 했다. 그렇게 인천공항에 도착한 김씨는 40분 동안 공항 곳곳을 둘러보며 깨끗하고 현대적인 시설과 한국의 기술력에 감탄했다.&lt;br&gt;&lt;br&gt;김씨는 차마 북한여권으로 입국심사를 하지 못하고 공항에 앉아 있었다. 아무도 가족들에게 관심을 갖고 물어보는 이가 없자 결국 김씨는 지나가던 직원에게 “평양에서 왔다”며 여권을 보여줬다. 김씨는 “(직원이) 범 본 놈처럼 뛰더라”고 떠올렸다.&lt;br&gt;&lt;br&gt;공항 직원들은 김씨 가족을 빈 방으로 데려가 A4 용지를 건네며 ‘한국에 온 이유’를 적으라고 했고, 이후 국정원 직원들이 도착해 김씨 가족들을 데리고 이동했다. &lt;br&gt;&lt;br&gt;김씨는 “국정원 직원들이 자꾸 비행기표를 보여달라고 하더라. 체코에서 독일 들어갔다가 여기까지 오는 거를 자기들 모르게 비자 없이 들어올 수 없다고 생각한 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M4O24VSJ55FOTL4XO2B6DDBQNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북한 외교관 출신 김태산씨가 2002년 북한여권으로 한국행 비행기를 탑승해 탈북한 일화를 밝히고 있다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김씨 가족은 국정원 직원들이 마련한 장소에서 보름간 머물며 간첩 취조 등을 받았다고 한다. 이 과정에서 김씨는 자신이 체코 한국대사관에 전화를 건 내용을 국정원 직원들이 파악하고 있었다는 사실도 알게 됐다.&lt;br&gt;&lt;br&gt;조사가 끝날 무렵 김씨는 국정원 직원으로부터 충격적인 이야기를 들었다. 김씨가 체코를 떠난 바로 다음날인 9월10일 김씨 자리를 대신할 신임 사장과 김씨 가족을 데리고 북한으로 돌아갈 관계자가 프라하 공항에 도착했다는 것이다. 김씨는 “그 소리를 듣는데 아찔하더라”며 “하루 늦게 떠나려고 했으면 (공항서) 잡혀서 못 들어오는 거였다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 “아내는 (한국에 입국한) 순간까지 ‘아버지랑 오빠들 다 죽게 생겼다. 평양에 있는 자식들은 어떻게 하냐’고 툴툴거렸지만 (국정원 직원) 이야기를 듣더니 ‘이젠 영감 말 잘 들을게’하더라. 내가 신이 됐다”고 덧붙였다.&lt;br&gt;&lt;br&gt;네티즌들은 “2002년이면 엄청 옛날도 아닌데 운이 정말 좋았던 거 같다” “번듯한 옷에 가족들까지 데리고 있으니까 당연히 귀국이라 생각했나보다” “공무여권 가지고 탈북할 거라고는 생각 못했겠지” “탈북 성공률 말도 안되게 낮던데 천운이다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“트라우마 생겼다”…치킨에서 나온 구더기 무더기에 ‘경악’</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/25/KEADYZPUMBCAPCH4EH27P5JDTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/25/KEADYZPUMBCAPCH4EH27P5JDTQ/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 04:32:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AVGAW3727RCK5JJC6TV5W5FALU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;닭다리 부위에 구더기가 붙어있는 모습./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 동네 치킨집에서 판매한 통닭에서 구더기가 무더기로 쏟아져 나왔다는 주장이 제기됐다.&lt;br&gt;&lt;br&gt;지난 23일 한 온라인 커뮤니티에는 ‘세상에 이런 일이’에 나올 만한 사건. 식사 중인 분들은 보지 마세요’라는 제목의 글이 올라왔다.&lt;br&gt;&lt;br&gt;작성자 A씨는 “친구가 새벽에 잠도 오지 않고 소주도 한 잔 생각난다고 해서 24시간 하는 분식집에서 닭 한 마리를 튀겨서 집으로 가져왔다고 한다”며 “먹으려고 다리를 뜯는 순간 하얀 무언가가 후두둑 떨어지면서 썩는 냄새가 진동했다고 한다”고 했다.&lt;br&gt;&lt;br&gt;그는 “친구가 닭을 자세히 쳐다보니 닭이 썩어서 구더기가 생긴 채로 튀겨진 것 같다”며 “요즘 같은 시대에 이게 가당키나 한 일인지 모르겠다. 너무 충격적이라 어디에 신고해야 할지 고민”이라며 의견을 구했다.&lt;br&gt;&lt;br&gt;A씨가 올린 사진을 보면 한 마리를 통으로 튀긴 치킨 오른쪽 다리 부위에 수십 마리의 구더기가 있는 모습이 담겨 있었다. 흰색 구더기들은 뜯어진 치킨 사이로도 삐져나왔다.&lt;br&gt;&lt;br&gt;한 네티즌은 “초벌 닭을 진열해놓고 안 팔린 거 폐기 안 하고 며칠 지난 거 판매한 것 같다”며 “양심의 문제이긴 하지만 저 가게는 그 수준을 넘어 위생 개념이 아예 없는 것 같다”고 남겼다. 이어 “조리 시 포장 할 때 썩은 음식 냄새도 못 맡을 정도면 음식 장사 하면 안 된다”면서 “저건 개념이 없는 거지 실수가 아니다”라고 했다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “이건 신고하면 바로 영업정지 같다” “저 닭 튀긴 기름은 이제 어쩌나” “이 정도면 트라우마 생겨서 치킨 못 먹을 것 같다. 정신적 피해 보상까지 받아야 한다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;이틀 후 25일 A씨가 올린 추가 글에 따르면 전날 구청 식품위생과에 고발했고, 담당자에게 문제의 사진을 보냈다. 구청 직원은 조치를 취한 후 진행 사항을 알려주기로 한 상황이라고 한다. A씨는 “친구는 트라우마가 생겼는지 밖에서 밥도 못 사먹겠다 한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;최근엔 한 유명 치킨 프랜차이즈 업체 점주가 피가 뚝뚝 떨어진 치킨을 판매한 사실도 뒤늦게 알려졌다. 전날 연합뉴스 보도에 따르면 충남 공주에 사는 한 대학생이 주문한 B사의 닭다리 구이 제품 닭뼈에서 시뻘건 피가 흘러나왔고, 치킨의 양념과도 구별할 수 있을 정도로 붉었다. 본사 확인 결과 치킨의 이물질은 피였다. 본사 측은 “뼈에 남은 피인데 먹어도 된다”고 공식 답변해 논란이 됐다. B사 담당자는 언론 취재가 이뤄지고서야 해당 대학생에게 연락해 치킨에서 피가 나오게 된 경위를 설명하고 제품을 먹으라고 잘못 안내한 데 대해 사과한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>지하철 공사장 60대 작업자...추락한 철제 부품 맞아 숨져</title>
+      <link>https://www.chosun.com/national/incident/2024/06/25/HXUWSNJUHZGRNHW7BGSDTNTRHI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/25/HXUWSNJUHZGRNHW7BGSDTNTRHI/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 04:31:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z54UH5VJLZEXJEQW5HDFDSR5GQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지하철 공사 현장에서 작업을 하던 60대 남성이 떨어진 철제 부품에 머리를 맞아 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;25일 인천경찰청에 따르면 이날 오전 6시 20분쯤 인천시 서구 청라동 서울도시철도 7호선 청라연장선 건설 공사 현장에서 A씨가 추락한 철제 부품에 머리를 맞는 사고를 당했다.&lt;br&gt;&lt;br&gt;이 사고로 크게 다친 A씨는 119 구급대에 의해 병원으로 옮겨졌으나 숨졌다. A씨는 지하 60m 깊이의 공사 현장에서 콘크리트 타설 작업을 하던 중 사고를 당한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 중대재해 처벌 등에 관한 법률 위반 여부와 함께 시공사와 하청업체 등을 상대로 구체적인 사고 경위를 조사할 예정이다. 경찰 관계자는 “A씨의 정확한 사인을 확인하기 위해 부검을 의뢰하고, 현장 안전 수칙 준수 여부 등도 함께 조사할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구시의회 이만규 의장 선출…1991년 개원 이래 첫 연임</title>
+      <link>https://www.chosun.com/national/regional/2024/06/25/W75FCL3QZJAQFENMXWLHQKITGY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/25/W75FCL3QZJAQFENMXWLHQKITGY/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 04:28:06 +0000</pubDate>
+      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OTTROPZFFNA6DG3X55JZXX6HJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구시의회 이만규 의장./대구시의회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이만규 제9대 대구시의회 전반기 의장(중구2)이 후반기 의장으로 선출됐다. 1991년 대구시의회 개원 이래 의장 연임은 이번이 처음이다.&lt;br&gt;&lt;br&gt;대구시의회는 25일 제309회 정례회 제3차 본회의를 열고 이 의장을 후반기 의장으로 선출했다. 재적의원 32명 전원이 참석한 가운데 이 의장은 24표를, 김대현 시의원(서구1)은 7표를 얻었다. 기권은 1표였다. 선거는 9대 전반기에 이어 두 번째로 ‘후보 등록제’로 진행됐다.&lt;br&gt;&lt;br&gt;이 의장은 “후반기에도 집행부를 견제해야 할 때는 하고, 협력할 때는 함께 힘을 모아 더 나은 대구, 더 나은 대한민국을 만드는 발판 역할을 하겠다”며 “제9대 대구시의회가 그 어느 때보다 성공적이고 뛰어난 의정활동 성과를 거둔 의회로 평가 받을 수 있도록 열정을 불사르겠다”고 말했다.&lt;br&gt;&lt;br&gt;이후 진행된 부의장 선거에서 제1부의장에는 이재화 시의원(서구2), 제2부의장에는 김원규 시의원(달성군2)이 각각 선출됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IDR4IGMAPVCRLC46UECOXQAAHA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대구시의회 이재화 제1부의장./대구시의회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UCDI725SN5ECTCXWXVKZ55NAZQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대구시의회 김원규 제2부의장./대구시의회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“軍 시절 추억하고 싶어서”... 장교라고 속여 민통선 침입한 20대</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/06/25/YCGOZA5YXVELDBBSOIDNZ3TMX4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/06/25/YCGOZA5YXVELDBBSOIDNZ3TMX4/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 04:25:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 전경. /신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군 복무를 추억한다며 현역 장교라고 신분을 속여 민간인 출입 통제선을 침입한 20대에게 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;청주지법 형사1단독 권노을 판사는 군사기지 및 군사시설보호법 위반 혐의로 재판에 넘겨진 A(28)씨에게 징역 6개월에 집행유예 1년을 선고했다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 2월 강원도 민통선의 한 검문소에서 자신을 상급 부대인 군단 소속 장교라고 속인 뒤 부대에 침입했다. 이후 그는 검문소 2곳을 통과한 뒤 약 20분 동안 부대에 머물며 사진을 촬영한 혐의 등으로 기소됐다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 민통선 내 자신이 근무했던 부대에 방문해 군 생활을 추억하려고 이같은 행위를 한 것으로 드러났다.&lt;br&gt;&lt;br&gt;권 판사는 “경계 근무하는 군인을 속이고 군사기지에 침입해 다수의 사진을 촬영한 것으로 죄질이 불량하다”며 “다만 국가 안보를 해할 목적으로 보이지는 않는 점 등을 고려해 형을 정했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘美대사관저 월담’ 대진연 7명 영장실질심사 출석…묵묵부답</title>
+      <link>https://www.chosun.com/site/data/html_dir/2019/10/21/2019102101590.html</link>
+      <guid isPermaLink="true">https://www.chosun.com/site/data/html_dir/2019/10/21/2019102101590.html</guid>
+      <dc:creator>고성민 기자</dc:creator>
+      <description>주한미국대사관저에 무단 침입한 한국대학생진보연합(대진연) 회원들이 21일 구속 전 피의자심문(영장실짐심사)을 받기 위해 서울 서초구 서울중앙지법에 출석했다. 이날 오후 1시 45분쯤 영장실질심사를 받는 7명 중 1명이 처음으로 도착한 데 이어, 나머지 6명도 2시 4분쯤 한꺼번에 법정에 도착했다. 이들은 "혐의를 인정하느냐", "폭력 진압 주장과 관련해 한</description>
+      <pubDate>Mon, 21 Oct 2019 06:18:01 +0000</pubDate>
+      <content:encoded>주한미국대사관저에 무단 침입한 한국대학생진보연합(대진연) 회원들이 21일 구속 전 피의자심문(영장실짐심사)을 받기 위해 서울 서초구 서울중앙지법에 출석했다.&lt;br&gt;&lt;br&gt;이날 오후 1시 45분쯤 영장실질심사를 받는 7명 중 1명이 처음으로 도착한 데 이어, 나머지 6명도 2시 4분쯤 한꺼번에 법정에 도착했다. 이들은 "혐의를 인정하느냐", "폭력 진압 주장과 관련해 한마디 해달라"라는 등 취재진 질문에 아무런 답변을 하지 않고 법정으로 향했다.&lt;br&gt;&lt;br&gt;영장실질심사를 한 시간 앞둔 이날 오후 2시 대진연과 민주노총 통일위원회, 민중당, 한국진보연대 등 단체 소속 30여명 회원은 법원 앞에서 기자회견을 열고 "구속을 반대한다"고 주장했다. 이들은 ‘미국을 규탄한 정의로운 대학생들 즉각 석방하라’는 피켓을 들고 "국민 목소리 대변한 대학생 즉각 석방하라" "평화의 시대 주한미군 필요 없다"는 구호를 외쳤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AZM5QLNSEWYPUEKVHSU3S3A3TU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오후 2시 서울 서초구 서울중앙지법 앞에서 대진연과 한국진보연대, 민중당, 민주노총 통일위원회 등 단체가 “대진연 회원 7명을 석방하라”는 기자회견을 열고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들은 기자회견문을 통해 "대학생들은 주한미군 지원금을 지금의 6배인 6조원으로 인상하라고 폭언한 해리스 주한미대사를 규탄한 의로운 학생들"이라며 "검찰은 대학생들이 주거침입을 했다고 하지만 진짜 주거침입은 바로 미국이 저질렀다"고 주장했다. 그러면서 "우리 국민을 쫓아내고 눌러앉아 임대료 한 번 내지 않고 주인행세를 하는 미국이야말로 주거침입 범죄자"라며 "기어이 대학생들을 구속한다면 우리는 앞으로도 미국의 호구, 노예의 처지에서 벗어날 수 없게 될 것"이라고 했다.&lt;br&gt;&lt;br&gt;김은진 민중당 공동대표는 기자회견을 통해 "민중당은 대학생들의 의롭고 상식적이며 지극히 정당한 투쟁을 전적으로 지지한다"며 "정부는 ‘외교공간에 대한 공격은 정당화할 수 없다’는 정신 나간 소리할 때가 아니다. 해리스 대사를 즉각 추방하고, 미국에게 이 땅을 뜨라고 당당히 요구하라"고 주장했다.&lt;br&gt;&lt;br&gt;대진연은 지난 18일부터 온라인을 통해 받아온 ‘석방 탄원서’ 서명을 법원에 제출할 예정이다. 이들은 탄원서에 "구속영장이 발부된다면, 굴욕적인 한미동맹이 자국민의 이익보다 우선된다는 것이 증명된 수치스러운 날로 역사에 기록될 것"이라며 "이제 곧 대학생들이 2학기 중간고사를 치르는 날이 다가온다. 경찰의 무리한 수사와 구속영장 신청으로 대학생들은 시험을 치르지 못해 학점마저 포기해야 하는 상황"이라고 적었다.&lt;br&gt;&lt;br&gt;서울중앙지법은 이날 오후 3시 대진연 회원 7명에 대한 구속영장 실질심사를 진행한다. 7명 중 6명은 조국 전 법무장관의 동생에 대한 구속영장을 기각해 논란의 중심에 섰던 명재권 부장판사가 심리한다. 나머지 1명은 송경호 부장판사가 심리한다. 이들 7명의 구속 여부는 이날 오후 늦게 결정될 것으로 보인다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이들은 지난 18일 오후 3시쯤 서울 중구 정동 주한미국대사관저에 무단 침입한 혐의를 받는다. 사다리 2개를 이용해 3m 높이 담벼락을 넘어 들어갔다. 경찰은 대사관저에 무단침입한 17명과 침입 시도한 2명 등 19명을 현행범으로 조사했고, 이중 재범 등을 고려해 9명에 대해 구속영장을 신청했다. 검찰은 이 중 7명에 대해서만 영장을 청구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/SIGMKZZYDXJSX5MA6XL6CEQBAU.jpg?width=601&amp;height=384&amp;auth=996966e1b2629e36cec7af13905fc6aaee225703990a32d4d7082159c5d79aba&amp;smart=true" type="image/jpeg" height="384" width="601">
+        <media:description type="plain">대진연 학생들이 21일 오후 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다.</media:description>
+        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>변호사 자격도 없이 법률사건 처리한 공정위 前간부들 1심서 유죄</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/25/ABABHFKH4VBJNAG4FHEGVNDBZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/25/ABABHFKH4VBJNAG4FHEGVNDBZY/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 04:03:13 +0000</pubDate>
+      <content:encoded>변호사가 아닌데도 돈을 받고 공정거래위원회 조사 관련 법률 대응 업무를 해 재판에 넘겨진 퇴직 공무원들이 1심에서 유죄를 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U62ZMN4E3ZUFFWQFVJQOZLHYJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사5단독 박병곤 판사는 변호사법 위반 혐의로 기소된 전직 공정위 본부 소비자안전정보과장 A씨에게 징역 3년에 집행유예 5년을 선고했다. 공정위 지방사무소 소비자과장 출신 B씨는 징역 1년 4개월에 집행유예 2년을 받았다. 법원은 A씨와 B씨에게 각각 2억여원, 1억여원을 추징할 것도 명령했다.&lt;br&gt;&lt;br&gt;2015년 공정위에서 퇴직한 A씨는 서울 강남에서 사무실을 열고 B씨 등과 함께 공정위 조사대상이 된 기업의 의뢰를 받고 대응 방향 등을 제시한 것으로 조사됐다. 변호사가 아닌 사람은 이익을 얻을 목적으로 법률 상담이나 그 밖의 법률사무를 취급하는 뜻을 표시하면 안 된다. 그럼에도 이들은 변호사 자격이 없는데도 2016년 5월부터 2021년 12월까지 총 25건의 법률 사건을 각각 또는 함께 처리하고 총 3억3600여만원의 보수를 챙긴 혐의를 받았다. 이들은 전문가 중개 온라인 사이트에 자신들의 경력을 앞세워 일정 금액을 받고 법률 상담을 제공한다는 취지의 광고를 한 혐의도 받았다.&lt;br&gt;&lt;br&gt;A씨 등은 재판에서 “용역보고서를 작성·제공하는 등 업무를 한 것은 사실이지만, 이는 행정사가 할 수 있는 일이고 광고 표시에도 ‘변호사’라는 표현을 사용한 적이 없다”며 혐의를 부인했다.&lt;br&gt;&lt;br&gt;하지만 재판부는 “행정사의 업무 범위는 행정기관 업무와 관련된 서류를 작성·제출하는 행위 및 그 과정에서 개별 법령 내용과 제도를 설명하며 기본적인 조언을 제공하는 행위”라며 “피고인들은 행정사의 업무 범위를 넘어 법 전반에 대한 전문적 지식을 바탕으로 가장 효과적인 법적 해결책을 제시한다는 변호사의 전형적인 직무를 그대로 했다”고 받아들이지 않았다. 불법 광고 혐의에 대해선 “변호사라는 표현을 사용하지 않은 것은 사실이지만, 변호사의 업무 범위에 포함되는 용역도 제공할 수 있는 전문가로 오인할 가능성이 충분하다”고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 지방사무소 과장 출신으로 공정위 조사 사건의 의견서를 작성해 보수를 받은 C씨에게는 벌금 100만원에 300만원 추징을 선고했다. 이어 A씨와 업무처리방향에 대해 논의하거나 사건 수임과 관련한 알선의 대가를 주고받기로 약속한 혐의로 재판에 넘겨진 변호사 2명에 대해선 “공소사실이 확실하게 증명됐다고 보기 어렵다”며 무죄를 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>화성 리튬전지 공장 화재 현장서 실종자 시신 수습...사망자 23명으로</title>
+      <link>https://www.chosun.com/national/regional/2024/06/25/L4QHGX53MZG3FAOQ64W6Z5VMDA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/25/L4QHGX53MZG3FAOQ64W6Z5VMDA/</guid>
+      <dc:creator>화성=김현수 기자, 김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 03:45:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TG3C3FBQYBJNDE5YY24ONTDVW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오전 경기도 화성시 서신면 리튬전지 공장 화재 현장에서 경찰과 소방, 국립과학수사연구원, 국토안전연구원, 고용노동부, 산업안전관리공단 등 관계자들이 화재 원인을 찾기 위한 합동 감식을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 화성시 리튬전지 공장에서 발생한 화재 당시 소재가 확인되지 않은 마지막 실종자의 시신이 하루 만에 발견돼 수습됐다. 이에 따라 이번 화재의 인명피해는 사망 23명, 부상 8명(중상 2명, 경상 6명) 등 31명으로 집계됐다.&lt;br&gt;&lt;br&gt;소방당국에 따르면 25일 오전 11시34분쯤 화재가 발생한 아리셀 공장 3동 2층에서 실종자가 발견됐다. 또 11시52분쯤 시신을 수습해 송산장례식장으로 이송했다. 소방당국은 이에 앞서 이날 오전부터 2차에 걸쳐 구조견 2마리를 투입해 실종자 수색 작업을 벌였다.&lt;br&gt;&lt;br&gt;화성소방서 김진영 화재예방과장은 “처음 구조견이 투입돼 지목한 곳을 구조대원들이 집중 수색해 유해를 발견했다”며 “발견 장소가 최초 발화 지점과 가깝고, 열을 받아 철근이 완전히 붕괴돼 발견에서 수습까지 시간이 걸렸다”고 밝혔다.&lt;br&gt;&lt;br&gt;소방당국이 수습한 시신은 훼손이 심해 신원을 확인하기는 어려워 DNA 채취와 유족 대조 등을 거쳐야 할 것으로 알려졌다. 이 시신은 실종자로 파악됐던 중국 국적 근로자일 가능성이 높은 것으로 보인다.&lt;br&gt;&lt;br&gt;마지막 실종자의 유해가 발견되면서 관계 기관은 화재 원인을 규명하기 위한 합동감식에 들어갔다. 합동감식에는 경찰, 소방, 국립과학수사연구원, 국토안전연구원, 고용노동부, 산업안전관리공단 등 관계자 40여명이 참여했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>백혈병 아내 잃고 28층서 자살 기도한 30대 구조한 경찰</title>
       <link>https://www.chosun.com/national/national_general/2024/06/25/6VNBE7SU4RHTNLMBOPVUAWNPME/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/25/6VNBE7SU4RHTNLMBOPVUAWNPME/</guid>
@@ -760,15 +912,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/247H63XU75F73ONTG4ME6REDYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 전지현이 편안한 옷차림으로 남편 최준혁 씨, 두 아들과 함께 독일의 축구 경기장에서 포착돼 화제가 되고 있다. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 전지현이 편안한 옷차림으로 남편 최준혁 씨, 두 아들과 함께 독일의 축구 경기장에서 포착되어 화제가 되고 있다. 평소 축구 팬으로 알려진 전지현은 UEFA 유로 2024를 관람하기 위해 독일을 방문한 것으로 보인다. &lt;br&gt;&lt;br&gt;24일 중국 현지 매체들은 한 중국 팬으로 보이는 네티즌이 찍은 전지현의 가족 사진이 최근 소셜미디어를 통해 공개됐다고 보도했다. 전지현은 지난 주말 가족들과 함께 독일의 한 축구 경기장에서 유로 2024 경기를 관람했다고 한다. &lt;br&gt;&lt;br&gt;전지현은 이날 경기를 관람하기 위해 화려한 연예인의 모습을 벗고 편안한 후드 집업 아우터와 티셔츠, 반바지를 입었다. 후드 집업에 달린 모자를 쓰고 있었지만, 선글라스나 마스크는 착용하지 않은 모습이었다. 전지현이 이날 입은 후드 집업도 온라인에서 화제가 됐다. T모 브랜드에서 20만원대에 발매한 이 제품은 현재 온라인몰에서 판매 중이다.&lt;br&gt;&lt;br&gt;전지현의 곁에는 남편과 두 아들이 있었다. 남편은 연예인 못지않은 훤칠한 키와 훈훈한 외모로 눈길을 끌었다고 한다. 두 아들은 네덜란드 대표팀의 오렌지색 유니폼을 입고 있었는데, 부모를 꼭 닮은 외모였다고 네티즌은 전했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/25IDMNJ2JZEKHFDTFLA7BVBUUI.png"&gt;&lt;figcaption&gt;&lt;small&gt;엘링 홀란의 사인을 받는 전지현. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전지현의 축구 사랑은 연예계에서 이미 유명하다. 전지현은 지난해 8월 쿠팡플레이 시리즈 3차전 전북 현대와 파리 생제르맹(PSG) 경기를 보러 경기장을 찾았다. 이날 경기는 이강인과 네이마르가 출전해 큰 관심을 모았는데, 지드래곤·정유미·손나은 등 유명 인사들이 관중석에서 포착됐다. &lt;br&gt;&lt;br&gt;비슷한 시기 영국 프리미어리그 축구팀 맨체스터 시티의 공식 유튜브 채널의 ‘THANK YOU SEOUL’ 영상에서도 전지현의 모습이 공개된 바 있다. 당시 맨체스터 시티는 서울 월드컵경기장에서 AT 마드리드와 친선 경기를 가졌다. 선수들이 팬들에게 다가가 유니폼 등에 사인을 해줬는데, 전지현은 유니폼에 엘링 홀란의 사인을 받은 후 유니폼으로 얼굴을 가리며 기뻐했다. 이런 모습을 뒤에서 남편 최 씨가 흐뭇한 표정으로 바라보는 모습도 찍혔다.&lt;br&gt;&lt;br&gt;전지현은 손흥민과의 만남에서도 축구에 대한 애정을 드러냈다. 버버리의 앰버서더인 두 사람은 지난해 2월과 9월 영국 런던에서 열린 다니엘 리의 버버리 컬렉션에서 두 차례 만났다. 올해 2월 영국 런던 버버리 2024 가을·겨울 패션쇼에서 다시 만난 두 사람은 함께 셀카를 찍기도 했다.&lt;br&gt;&lt;br&gt;전지현은 2012년 4월 한복디자이너 이영희 씨의 외손자이자 동갑내기 금융인인 최 씨와 결혼했으며, 결혼 4년만인 2016년 2월 첫 아들을, 2018년 1월 둘째 아들을 낳았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>낡은 철제 교문 열다가 깔려… 청주 한 고교 70대 경비원 사망</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/06/24/UUJQN6LX6ZH4DCKWTUVT3GD464/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/06/24/UUJQN6LX6ZH4DCKWTUVT3GD464/</guid>
-      <dc:creator>청주=신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 05:45:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DXVHEMKVOFHPDEC5ZMMHO4IT7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사고가 발생한 교문. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;철제 교문이 떨어져 경비용역업체 직원이 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;24일 소방당국 등에 따르면 이날 오전 6시17분쯤 청주시 서원구 분평동의 한 고등학교에서 70대 경비원 A씨가 떨어진 교문에 깔렸다. &lt;br&gt;&lt;br&gt;당시 A씨는 철제로 된 교문을 열다가 경첩 부분이  분리되면서 변을 당했다.   &lt;br&gt;&lt;br&gt;철문은 한쪽 당 높이 2m, 길이 1.3m, 폭 7cm로 약 300kg에 달하는데 A씨는 이 철문 두 쪽에 깔린 것으로 전해졌다. A씨는 인근을 지나던 행인의 도움을 받아 구조돼 인근 병원으로 옮겨졌지만 결국 숨졌다.&lt;br&gt;&lt;br&gt;해당 교문은 1999년 개교 이후 한 번도 보수를 받지 않은 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 학교 측의 시설물 관리에 문제가 있었는지 조사를 진행하고 있다. 이와 함께 노동 당국도 A씨가 소속된 경비용역업체 대표를 상대로 중대재해처벌법 위반 여부를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 경찰 “시신 대부분 불타, 성별만 확인 가능... DNA 감식 해야”</title>
       <link>https://www.chosun.com/national/2024/06/24/NUGJWF5C5JEN5DAPWTFVRNYDCU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/06/24/NUGJWF5C5JEN5DAPWTFVRNYDCU/</guid>
@@ -791,33 +934,6 @@
       </media:content>
     </item>
     <item>
-      <title> ‘재산 축소신고 의혹’ 양문석 의원 경찰 조사받아</title>
-      <link>https://www.chosun.com/national/regional/2024/06/24/J4UBO6JQR5GFXNYFTUZDCE563Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/24/J4UBO6JQR5GFXNYFTUZDCE563Y/</guid>
-      <dc:creator>수원=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 06:10:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JWFR5Z3WBZPCFM6DOZG546PP3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4·10 총선 과정에서 재산을 축소 신고한 혐의로 선관위에 의해 고발된 더불어민주당 양문석(경기 안산갑) 의원이 24일 오후 경기남부경찰청에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 4월 10일 실시된 제22대 총선에 출마하면서 재산을 축소 신고한 혐의를 받고 있는 더불어민주당 양문석(경기 안산갑) 의원이 24일 경찰 조사를 받았다.&lt;br&gt;&lt;br&gt;양 의원은 배우자와 공동명의로 보유한 서울 서초구 잠원동 아파트를 2020년 당시 매입가격(31억2000만원)보다 9억6400만원 낮은 공시가격(21억5600만원)으로 선관위에 재산 신고한 혐의를 받고 있다. 공직자윤리법 시행령은 공직선거 후보자가 소유 부동산을 신고할 때 공시 가격과 실거래 가격 가운데 높은 금액을 기재하도록 규정하고 있다.&lt;br&gt;&lt;br&gt;경기 안산시 상록구 선관위는 총선을 앞둔 지난 4월 5일 양 당시 후보를 공직선거법상 허위사실 공표 혐의로 경찰에 고발했다.&lt;br&gt;&lt;br&gt;양 당선자는 이 아파트를 구매하는 과정에서 사업을 하지 않는 딸 명의로 11억원대의 사업자 대출을 편법으로 받았다는 의혹도 받고 있다. 수원지검 안산지청은 지난달 14일 양 의원과 가족, 대출을 해 준 대구 수성 새마을금고, 대출알선 업체 등을 압수수색하는 등 수사를 진행하고 있다.&lt;br&gt;&lt;br&gt;양 의원은 이날 오후 1시 45분쯤 경기남부경찰청에 들어서면서 소감을 묻는 취재진의 질문에 “성실히 소명하겠다”고 짧게 답했다.&lt;br&gt;&lt;br&gt;경기남부경찰청은 양 의원이 지난 3월 당내 경선을 치를 당시 여론조사 과정에서 결과에 영향을 주기 위해 위법한 행위를 한 혐의로 양 의원의 선거사무장에 대해서도 압수수색을 진행하는 등 수사를 진행하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“엘베 적당히 잡아 XXX야”… 배달 뒤 돌아오니 적힌 ‘욕설 낙서’ </title>
-      <link>https://www.chosun.com/national/national_general/2024/06/24/GPXQVYK2PVDHTJMIKYGPH6JSXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/24/GPXQVYK2PVDHTJMIKYGPH6JSXU/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 06:14:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BBBP5AUHTJCZVFZOAA53VHFTRM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;택배차에 적힌 욕설 낙서. /보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 택배 기사가 아파트 주민으로부터 받은 ‘욕설 낙서’를 공개했다. 택배 배달을 하기 위해 잠시 자리를 비운 사이 누군가 택배차에 빨간색 매직으로 비속어 섞인 욕설을 적어둔 것이다. 이 기사는 “지워지지도 않는다”며 속상함을 토로했다.&lt;br&gt;&lt;br&gt;경기 안산 지역에서 택배 일을 한다는 A씨는 22일 온라인 커뮤니티 ‘보배드림’을 통해 이 같은 사연을 전했다.&lt;br&gt;&lt;br&gt;A씨는 “어제 아침 아내가 울먹거리며 누가 차에 낙서했다고 말을 전하는데 솔직히 먼지 있는 트럭에 손으로 장난친 줄 알았다”며 “직접 확인하니 빨간 매직으로 욕설을 해놨다”고 했다.&lt;br&gt;&lt;br&gt;A씨가 공개한 사진에는 흰색 택배차에 빨간색으로 ‘엘리베이터 좀 적당히 잡아 이 XXX야!’라는 욕설이 적힌 모습이 담겼다. 한 주민이 엘리베이터를 오래 잡아두는 택배 기사에 앙심을 품고 이 같은 낙서를 한 것으로 추정된다.&lt;br&gt;&lt;br&gt;A씨는 “물건이 많아 한번 가지고 올라가면 20~40개씩 가지고 엘베를 탈 때도 많다”면서도 “누가 타면 땀 냄새라도 날까 봐 민망해한 적이 한두번이 아니다. 차 앞에 연락처 남겨서 항의 들어오면 차량 이동을 하든지 죄송하다 사과를 드리는 편”이라고 했다. “민원에 최대한 신경 쓰고 친절하고 안전하게 배송하려 알아주지 않아도 나름 자부심을 가지며 열심히 일을 하고 있다”고도 했다.&lt;br&gt;&lt;br&gt;A씨는 “속상해하는 저 대신 아내가 인터넷을 찾아가며 지웠는데, 잘 안 지워진다”며 “굳이 지워지지 않는 매직으로 욕설하시는지”라고 털어놨다. 그러면서 “일단 사건 접수는 했지만 어떠한 기대도 하지 않는다”고 했다.&lt;br&gt;&lt;br&gt;이 같은 글에 네티즌들은 “자기들이 주문한 물건 배송하는 기사한테 왜 이런 짓을 하나” “그렇게 짜증 나면 택배 1층에서 찾아라” 등의 반응을 보였다. 반면 일부는 매직으로 욕설 낙서를 한 점은 잘못됐다면서도, 일부 택배 기사들이 택배를 한번에 많이 배달하기 위해 엘리베이터를 오래 잡아두는 점을 불평했다. “더운 여름에 택배 기사도 고생하지만, 1층에서 기다리는 사람도 짜증이 많이 난다” “솔직히 최상층에서부터 층수 전부 눌러놓은 것 보면 복장 터진다” 등이다.&lt;br&gt;&lt;br&gt;한편 엘리베이터 이용 문제로 택배 기사와 입주민 사이 분쟁이 생기는 사례는 종종 발생한다. 2020년엔 전남 영광의 한 아파트에서 몇몇 입주민이 택배 기사 부부가 물건을 배송하는 과정에서 승강기를 오래 잡아둔다는 이유로 사용을 아예 금지해 ‘갑질 논란’이 일었다. 당시 택배 기사 부부는 호소문을 통해 “일부 입주민들의 강력한 항의와 욕설, 불만 표출로 경찰까지 출동하는 상황이 발생했다”며 “앞으로 택배 물건을 경비실에 보관하도록 하겠다”고 했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>농산물 선물한 칠곡 주민들...6·25 유족은 성심당 빵으로 보답했다</title>
-      <link>https://www.chosun.com/national/people/2024/06/24/KGTQVIOTTBB3RIBAHMTK2HEHNM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/24/KGTQVIOTTBB3RIBAHMTK2HEHNM/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 06:15:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XJEVHIRZ4VBSDL7Q6YHGLIHEC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 23일 경북 칠곡군 가산면 응추리 마을회관에서 고(故)김희정 중위의 친조카인 김창식(오른쪽 끝), 김민경(오른쪽 두번째), 김국식(오른쪽 네번째)씨가 답례품을 들고 찾아와 주민들과 기념 사진을 찍었다. 지난 20일 이곳 마을 주민들은 김 중위에 대한 감사 표시로 유족들에게 응추리에서 키운 농산물을 선물했다./칠곡군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 칠곡군의 한 마을 주민들이 6·25 참전 용사의 유족을 위해 농산물을 보내자 이번엔 유족들이 선물을 들고 마을을 찾았다.&lt;br&gt;&lt;br&gt;24일 칠곡군에 따르면 전날 가산면의 응추리 마을회관에서 고(故) 김희정 육군 중위의 조카들인 김국식(73)·김민경(66)·김창식(64)씨 삼남매가 마을 주민들을 만났다. 지난 20일 주민들이 유족들에게 쌀과 마늘, 감자 등 농산물을 보내준 데 대해 감사의 뜻을 전하기 위해서다. 응추리 주민들은 6·25 전쟁 당시 가산~팔공산 전투에 참전해 응추리 야산에서 27세로 전사한 김 중위를 추모하고자 마을에서 직접 키운 농산물을 유족들에게 보냈다.&lt;br&gt;&lt;br&gt;농산물을 받은 유족들도 “우리도 뭔가 해 드리자”라며 뜻을 모았다. 대전에 거주하는 김민경씨는 대전의 명물 빵집인 성심당에서 구매한 답례용 선물 상품을 양손 가득 들고 왔다. 김씨는 “응추리 주민 분들이 농산물을 선물했으니, 저도 제가 사는 대전 지역 명물로 작게나마 보답하고 싶었다”고 했다. 김창식씨는 농번기에 고생하는 주민들을 위해 박카스와 비타민 음료 9박스를 준비했다.&lt;br&gt;&lt;br&gt;이에 질세라 응추리 주민들도 씨암탉을 잡아 유족들에게 점심 식사로 대접하고, 칠곡군의 특산물인 꿀을 선물했다. 김씨가 “삼촌이야 응추리에서 싸우셨다지만, 저희 유족들이 귀한 농산물을 받아도 될지 황송하다”고 하자, 응추리 주민들은 “(김씨가)시료를 제공한 덕분에 우리 마을 영웅을 알게 됐다” “유족들이 와주신 것도 선물이다”라고 맞받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NXK6M4NRBZFLSACWGP7UUMGY6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종록 칠곡군 가산면 응추리 이장(오른쪽)이 지난 23일 고 김희정 중위 유가족인 김국식씨에게 절하며 고인의 희생에 감사와 존경을 표했다./칠곡군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 유족들과 응추리 주민들은 유해 발굴 현장을 찾아 김 중위를 잠시 추모하는 시간을 가졌다. 3시간 정도의 만남을 가진 뒤 유족들은 주민들과 작별했다. 이종록(60) 응추리 이장이 “유족들을 응추리 명예 주민으로 위촉해 앞으로도 인연을 이어가고 싶다”고 하자 김국식씨 등 유족들이 동의하며 “앞으로 가족처럼 이웃처럼 잘 지냈으면 한다”고 말했다.&lt;br&gt;&lt;br&gt;응추리 주민들이 추모한 김 중위는 지난 1950년 9월 백선엽 장군이 이끌던 육군 1사단 15연대 소속으로 북한군에 맞서 분전하다 전사했다. 김 중위의 유해는 전사한 지 72년 뒤인 2022년 9월 응추리 야산에서 발굴됐고, 유족 김창식씨가 제공한 유전자 시료를 통해 신원이 확인되면서 지난 19일 국립대전현충원에 안장됐다. 김씨는 “주민들의 마음에 크게 감동해 감사 인사를 전하기 위해 마을을 찾았다”며 “많은 분들이 유전자 시료 채취에 동참해 산야에 묻힌 호국 영령들이 가족 품으로 돌아갈 수 있기를 바란다”고 말했다. 응추리 주민들은 멀지 않은 시기에 유족들을 다시 초청해 명예 주민증을 전달할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘순풍산부인과 미달이’ 김성은 깜짝 결혼 발표 “따스한 분 만났다”</title>
       <link>https://www.chosun.com/national/people/2024/06/24/XLYNOGFHZFDHDCTYLI5J4US54Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/24/XLYNOGFHZFDHDCTYLI5J4US54Q/</guid>
@@ -831,51 +947,6 @@
       </media:content>
     </item>
     <item>
-      <title>보라색 꽃다발 속에 ‘합성대마’가…국내 들인 베트남 유학생들</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/24/W5UGMLLOSRGWXONKX4MMGJABF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/24/W5UGMLLOSRGWXONKX4MMGJABF4/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 06:42:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IVHBGCM3LRBO5BLVWBJ5RNP7PE.png"&gt;&lt;figcaption&gt;&lt;small&gt;인조 꽃다발 속에 숨김 합성대마. /부산본부세관 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유학생 신분으로 국내에서 불법 체류하며 합성대마와 낙태약 등을 몰래 들여와 유통한 베트남 국적의 마약 조직이 세관당국에 적발됐다.&lt;br&gt;&lt;br&gt;부산본부세관은 마약류관리법 위반 등 혐의로 베트남 국적 20대 A씨 등 4명을 적발했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;세관에 따르면, 이들은 지난해 9월부터 올해 1월까지 ‘합성대마’로 불리는 총 460㎖ 분량의 JWH-018 46병, 낙태약 59정 등을 인조 꽃다발 등에 숨겨 특송화물로 밀수입한 혐의를 받는다. 주로 소셜미디어를 통해 마약 주문을 받았는데, 대구·창원·세종 등 전국 각지에 팔린 것으로 조사됐다.&lt;br&gt;&lt;br&gt;합성대마는 천연 대마의 향정신성 성분과 비교해 85배 이상의 환각 효과가 있다고 알려져 있다.&lt;br&gt;&lt;br&gt;물건 전달에는 속칭 ‘던지기 수법’이 이용됐다. 미리 약속한 장소에 가져다 놓으면 구매자가 뒤늦게 찾아가는 비대면 거래 방식이다.&lt;br&gt;&lt;br&gt;일당 가운데 대구와 창원 지역에서 마약을 공급한 2명은 현재 검찰에 구속 송치된 상태다. 또 당국은 베트남에 사는 공급 총책 주범에 대해서는 인터폴 적색 수배를 요청했으며, 세종지역 공급책은 체포 영장을 발부받아 지명수배 중이다.&lt;br&gt;&lt;br&gt;부산세관 관계자는 “일부 외국인 유학생이 국내에 들어와 돈을 벌 수 있는 손쉬운 방법으로 불법 마약 유통을 시도하고 있다”며 “이를 근절하기 위해 공급선과 유통망까지 끝까지 추적하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부천 아파트 신축 공사장서 60대 작업자 숨져</title>
-      <link>https://www.chosun.com/national/incident/2024/06/24/LR4EG73E2JCRNJHFB7MQ2LTJIM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/24/LR4EG73E2JCRNJHFB7MQ2LTJIM/</guid>
-      <dc:creator>부천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 07:03:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z54UH5VJLZEXJEQW5HDFDSR5GQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 부천의 한 아파트 신축공사 현장에서 60대 작업자가 철판에 깔려 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;24일 부천 오정경찰서 등에 따르면 지난 21일 오후 3시 40분쯤 경기 부천시 오정구 원종동의 한 아파트 신축공사 현장에서 작업을 하던 A씨가 무게 2.5t 철판에 깔리는 사고를 당했다. 이 사고로 A씨가 크게 다쳐 119 구급대에 의해 병원으로 옮겨졌으나 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 당시 화물차 짐칸에서 발판용 철판을 싣는 작업을 하다가 철판을 매단 크레인 케이블이 끊어지면서 사고를 당한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 원청 시공사와 하청업체 등을 상대로 중대재해 처벌 등에 관한 법률 위반 여부 등을 조사하고 있다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “(A씨가) 화물차 짐칸에 철판을 싣는 작업을 하던 중 사고가 난 것으로 보고 현장 관계자 등을 상대로 정확한 사고 원인을 확인할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘군인 조롱 논란’ 138만 유튜버, 결국 사과... “깊이 생각 못했다” </title>
-      <link>https://www.chosun.com/national/national_general/2024/06/24/3GFDWMEMQNG4FONNWG3FSVKXU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/24/3GFDWMEMQNG4FONNWG3FSVKXU4/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 06:45:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MH6FO4LWB5ALZLXUNWGCBGA2RA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;군인 조롱 논란이 불거진 유튜브 영상. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안마기 광고 영상에 “군대 가면 다리 아플 텐데 마사지기 좀 가져갈래?” “제품 스펙이 좋으면 뭐 하니 군대 가면 쓰지를 못하는데” 등의 대사를 넣어 군인 조롱 논란이 불거진 138만 구독자 유튜브 채널이 결국 사과했다.&lt;br&gt;&lt;br&gt;코미디 유튜브 채널 ‘싱글벙글’은 24일 유튜브 커뮤니티에 “무엇보다도 현재 사회적 이슈인 사건이 연상될 수 있는 영상으로 유가족분들께 상처를 입혔고, 시청자분들께 불쾌감을 드린 점 진심으로 사죄한다”고 했다.&lt;br&gt;&lt;br&gt;채널은 “현재 대한민국을 수호하고 계시는 국군장병들과 모든 군 관계자분께도 진심으로 사죄한다”며 “저희의 애초 기획 의도와는 다르게, 해당 영상이 누군가에게는 불쾌감을 줄 수 있고, 상처가 될 수 있는 점을 깊이 생각하지 못했다”고 했다. 그러면서 “저희 역시 대한민국 병역의 의무를 다한 군필자로서 국군의 노고를 항상 감사히 생각하고 있으며, 특정 성별을 희화화하고 조롱하거나, 특정 단체를 옹호 또는 비방하려는 의도는 없었다”고 했다.&lt;br&gt;&lt;br&gt;채널 출연진인 배우 이송경도 인스타그램에 “현재 정말 슬프고 안타까운 일에 대해 어제까지도 전혀 모르고 있었던 무지함을 고백하고 반성한다”며 “대본을 소화한 입장에서의 저는 군대를 비하하는 의도를 전혀 갖지 않았음을 맹세한다”고 고개를 숙였다.&lt;br&gt;&lt;br&gt;앞서 군인 조롱 논란은 싱글벙글 측이 전날 올린 안마기 광고 영상에서 비롯됐다. 군인이 전역 후 재입대하는 꿈을 꾸는 콘셉트의 영상이었는데, 여기에서 “군대 가면 다리 아플 텐데 마사지기 좀 가져갈래?” “제품 스펙이 좋으면 뭐 하니 군대 가면 쓰지를 못하는데” 등의 대사가 사용된 것이다.&lt;br&gt;&lt;br&gt;이 같은 영상은 군 관련 사망 사건이 이어지는 최근 상황과 맞물려 더욱 적절하지 않다는 비판이 일었다. 특히 군기훈련(얼차려)를 받다 쓰러져 숨진 육군 12사단 훈련병이 근육이 괴사하는 횡문근융해증 증상을 보였다는 소견이 나온만큼 ‘군대 가면 다리 마사지기를 쓰지 못한다’는 대사를 일종의 고인 모욕 연출로 받아들이는 네티즌도 있었다.&lt;br&gt;&lt;br&gt;논란이 커지자 싱글벙글 측은 하루도 지나지 않아 영상을 비공개 처리했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>무기한 휴진 외쳤던 의협, 한 발 물러섰다…”29일 회의서 결정”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/06/24/ISDBQDXYM5H55FEJDWAX5YI2G4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/24/ISDBQDXYM5H55FEJDWAX5YI2G4/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 06:46:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RBUYSHCS6VMQDOVTZPYQVYSKQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 서울 용산구 대한의사협회 로비에 의대 증원에 반대하는 포스터가 걸려 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 27일부터 ‘무기한 휴진’을 선언했던 대한의사협회(의협)는 향후 투쟁 방향을 29일로 예정된 ‘올바른 의료를 위한 특별위원회(올특위)’ 회의에서 결정하겠다고 밝혔다. ‘전면적인’ 무기한 휴진은 하지 않고, 범의료계 협의체에서 향후 계획을 논의하겠다는 것이다.&lt;br&gt;&lt;br&gt;의협은 24일 보도자료를 통해 “27일부터 시작되는 연세대학교 의료원 소속 교수들의 휴진 결정을 지지하고 존중한다”며 “모든 직역의 의사들이 각자의 준비를 마치는 대로 휴진 투쟁에 동참해 나갈 것”이라고 했다. 다만 “이후의 투쟁은 29일 올특위 2차 회의의 결정대로 진행하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;의협은 “국민들께서는 각자의 주치의에게 진료 일정을 확인하고 진료에 차질이 없도록 안내받기 바란다”며 “국민 불편과 불안에 진심으로 죄송하며, 정부가 야기한 의료붕괴 사태를 막으려는 의사들의 외침에 귀 기울여달라”고 했다.&lt;br&gt;&lt;br&gt;임현택 의협 회장은 지난 18일 전국 의사 총궐기대회에서 “의사들의 정당한 요구를 정부가 받아들이지 않을 경우 27일부터 무기한 휴진에 들어갈 것”이라고 밝힌 바 있다. 이후 임 회장의 발언을 놓고 시·도 의사회 등과의 사전 협의 없었던 돌발 발언이라는 것이 알려지며 논란이 일었다.&lt;br&gt;&lt;br&gt;의협은 지난 20일 임 회장이 참여하지 않는 범의료계 협의체인 올특위를 출범시켰다. 올특위 위원장은 김창수 전국의대교수협의회(전의교협) 회장과 임정혁 대전시의사회장이 공동으로 맡고 있다. 전공의 대표 몫의 공동위원장 자리는 여전히 공석이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대구시, 아프리카 유일 6·25 참전국 에티오피아에 1억원 전달</title>
-      <link>https://www.chosun.com/national/regional/2024/06/24/UR5T6ZGEIBFNZHQ7JRAI3XOIQM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/24/UR5T6ZGEIBFNZHQ7JRAI3XOIQM/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 06:39:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H2IL6UKUANBV3DEL2GF7O56YTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구시청 산격청사 전경. /대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시는 6·25전쟁 74주년을 맞아 에티오피아 난민 구호를 위해 국제구조위원회에 1억 원의 성금을 전달했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;아프리카 유일의 한국전쟁 참전국인 에티오피아는 기후변화로 인한 이상기후, 식량 위기, 역내 정세 불안정으로 국내외 난민 증가 등 복합적인 위기에 처해 있는 상황이다. 이에 대구시는 2000년부터 에티오피아 난민 프로그램 등을 운영하고 있는 국제구조위원회를 통해 지원에 나선 것이다. &lt;br&gt;&lt;br&gt;대구시가 지원하는 구호금은 오랜 기간 분쟁과 가뭄으로 힘든 에티오피아 난민들을 위해 깨끗한 물 공급, 위생키트 및 긴급 식량 제공, 필수의약품·의료장비 지원 등에 사용될 계획이다.&lt;br&gt;&lt;br&gt;홍준표 대구시장은 “6.25 전쟁 당시 마지막 보루였던 낙동강 전투에서 끝까지 싸워 준 아프리카의 혈맹 에티오피아에 은혜를 갚는 첫 출발이 되길 바란다”며 “앞으로도 에티오피아 재건과 난민 구호에 지원을 아끼지 않겠다”고 말했다.&lt;br&gt;&lt;br&gt;한편 국제구조위원회(International Rescue Committee)는 1933년 독일 나치 정권의 유대인 탄압을 피해 미국으로 망명한 천재 물리학자 알베르트 아인슈타인의 도움으로 설립된 기구로 2022년 기준 연간 1조7000억 원 규모의 인도주의 자금을 운용하고 있다. 또 전 세계 40개 이상 국가에서 구호 활동에 참여하고 있고, 2022년 11월에 아시아에서 처음으로 한국에 사무소를 개설했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 에티오피아 6·25 참전용사 손녀, 부천세종병원서 심장수술</title>
       <link>https://www.chosun.com/national/national_general/2024/06/24/EEAJXDXISJAJFE3SLCRLJHNRKU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/24/EEAJXDXISJAJFE3SLCRLJHNRKU/</guid>
@@ -884,64 +955,6 @@
       <pubDate>Mon, 24 Jun 2024 05:33:46 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5OQX2RAMLFASLC3KVXNCJJ6N6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;에티오피아 어린이 심장병환자 5명과 현지 심장외과 전문의 시블콤 탐랏이 에티오피아 공항에서 한국 출국을 앞두고 있는 모습./한국전쟁참전국 기념사업회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;참전용사 후손을 포함한 에티오피아 어린이 심장병 환자 5명이 24일 오후 4시 방한한다. 한국전쟁참전국 기념사업회가 주최하는 ‘한국전쟁 참전 보은 프로그램’으로, 6·25전쟁 74주년을 맞아 과거 우리나라를 위해 싸운 에티오피아 참전용사들의 노고에 보답하기 위한 행사다. 에티오피아는 아프리카 유일의 한국전쟁 지상군 파견국이다.&lt;br&gt;&lt;br&gt;이날 입국하는 어린이 환자 5명 중 1명은 참전용사 고(故) 타레켄 월대 아레가이(100)씨의 손녀 메흐릿 베즈아예후(8)양이다. 메흐릿 양은 선천성 심장병과 다운증후군 앓고 있다. 메흐릿 양의 오빠 프래재르 아세파(28)씨는 “동생이 하루종일 뛰어놀지도 못하고 밤이면 심장 통증으로 고생하는 걸 보면 마음이 아팠다”며 “캉뉴부대 선발대였던 할아버지는 한국의 겨울이 얼마나 추웠는지, 얼마나 어려운 전투에서 살아남았는지 얘기를 들려주곤 했다. 그런 한국에서 이런 기회를 줘 참으로 감사하다”고 소감을 밝혔다.&lt;br&gt;&lt;br&gt;에티오피아 1억2700만명 인구 중 심장병 의사는 전국에 4명 뿐이다. 심장수술이 가능한 병원은 수도 아디스아바바에 있는 국립 블랙라이온 심장센터 단 1곳이다. 어린이 심장병 대기 환자만 7000여명으로 10년이 걸려도 수술이 어려운 상황이라고 한다. 참전용사 후손 중 심장병을 앓고 있는 어린이는 딱 2명이 있는데, 그중 1명과 일반 어린이 4명을 뽑았다고 한다.&lt;br&gt;&lt;br&gt;이번 행사는 한국전챙참전국기념사업회와 한국늘사랑회가 함께 기획했다. 한국전쟁참전국기념사업회장 신광철씨는 “이번 행사는 과거 우리나라를 위해 싸운 참전용사들의 노고에 대한 보답일 뿐 아니라, 에티오피아 현지에서 참전용사들의 명예를 고양하는 의미가 있다”고 했다. 이번 수술비 총액 2억5000만원은 부천세종병원에서, 체류비는 한국전챙참전국기념사업회에서 부담한다.&lt;br&gt;&lt;br&gt;어린이 환자 5명은 오는 26일~28일 중 수술 받고 내달 8일까지 병원에 입원할 계획이다. 퇴원 후 내달 28일까지 한국에 머무르며, 회복 후 에버랜드, 강원 속초 등 관광도 예정돼 있다. 이날 한국을 찾을 예정인 세나 데메(10)군은 “평소 축구를 좋아해 손흥민의 팬이었다. 특히 놀이공원에 가서 놀 생각에 기대된다”고 했다.&lt;br&gt;&lt;br&gt;에티오피아는 아프리카 유일의 6·25 지상군 파병국이다. 당시 파병된 에티오피아군 3518명은 253회 전투를 전승(全勝)했다. 121명이 전사하고 536명이 다쳤다. 현재 에티오피아에 사는 생존 참전 용사는 62명이다.&lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/Y54N57NRHNEVFLQKZH5TXTHEOU.jpg?width=1209&amp;height=680&amp;auth=5a92e7fbebfe88672db285ef9b9fa4df422b4dfc0fcf79c0f0227ac90de927a5&amp;smart=true" type="image/jpeg" height="680" width="1209"/>
-    </item>
-    <item>
-      <title>“돈 있으면 때려봐”…김호중, 3년 전 몸싸움 무슨 일?</title>
-      <link>https://www.chosun.com/national/people/2024/06/24/LFSHDNMHCJFVLJSMRHS4ATSALU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/24/LFSHDNMHCJFVLJSMRHS4ATSALU/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 05:21:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KFDEEYO6SJGMJHWCA4DBOUFLPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김호중이 용역업체 직원을 향해 욕설하며 몸싸움을 벌이는 모습. /유튜브 채널 '가로세로연구소'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주 운전 뺑소니 사건으로 물의를 빚은 트로트 가수 김호중(32)이 3년 전 용역업체 직원을 향해 욕설하며 몸싸움을 벌인 영상이 공개됐다.&lt;br&gt;&lt;br&gt;지난 22일 유튜브 채널 ‘가로세로연구소’는 ‘쇠파이프 조폭 김호중’이라는 제목의 영상을 올렸다. 해당 영상은 2021년 7월에 촬영된 것이다.&lt;br&gt;&lt;br&gt;영상에 따르면 갈등이 번진 장소는 서울 강남구에 위치한 김호중의 소속사 생각엔터테인먼트 건물로, 김호중은 건물주와 건물 점유권을 놓고 갈등을 빚고 있던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;공개된 영상 속 덩치 큰 남성이 “야 이 시XX아”라며 욕설을 하자 김호중은 “개XX야. 시XX아. 너는 돈도 X도 없고”라고 했다. 쇠파이프로 추정되는 물체가 떨어지는 소리가 카메라에 잡히기도 했다.&lt;br&gt;&lt;br&gt;당시 생각엔터테인먼트 소속 가수 영기가 욕설을 심하게 내뱉은 김호중 입을 막기도 했으며, 최 모 이사는 김호중의 목을 붙잡고 진정시켰다.&lt;br&gt;&lt;br&gt;싸움은 건물 밖에서도 계속됐다. 한 남성이 “술 깨고 이야기하자”고 만류했지만, 김호중은 “너희가 날 못 치는 이유가 뭔지 아냐. 돈도 없으니까”, “(돈 있으면) 쳐라 XXX아. 따라와라”라는 소리도 영상에 담겼다.&lt;br&gt;&lt;br&gt;이후 영상은 심하게 흔들렸다. 캄캄한 화면 속 어수선한 소리가 들렸고 “112 신고해라. XX놈아” “아프지?” “동네 조폭이냐” 등의 목소리가 이어졌다.&lt;br&gt;&lt;br&gt;당시 서울 강남경찰서에 ‘시비가 붙었다’는 신고가 접수되기도 한 것으로 알려졌다. 다만 양측에서 처벌불원서를 내면서 별다른 조사 없이 내사 종결됐다. 폭행죄는 피해자의 처벌 의사가 없으면 형사처벌 할 수 없는 반의사불벌죄에 해당한다.&lt;br&gt;&lt;br&gt;김호중은 최근 음주 뺑소니 혐의로 기소됐다. 그는 지난달 9일 밤 11시40분쯤 서울 강남구 압구정동 도로에서 반대편 도로에 있는 택시를 들이받는 사고를 낸 뒤 달아난 혐의를 받는다. 특히 사고 이후 매니저가 김호중과 옷을 갈아입고 경찰서에 가서 자신이 운전했다고 허위로 자수하는가 하면 블랙박스 메모리카드 파손 등 사건을 은폐한 정황이 드러나 논란이 되기도 했다.&lt;br&gt;&lt;br&gt;이에 검찰은 지난 18일 특가법위반(위험운전치상, 도주치상), 도로교통법위반(사고후미조치), 범인도피교사 혐의로 구속기소 했다. 다만 김호중이 사고를 낸 직후 도주한 탓에 운전 당시 혈중알코올농도가 0.03% 이상이었음을 입증하기 어려워 기소단계에서 음주운전 혐의는 제외됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>청주 고교서 철제 교문 쓰러져 경비원 사망</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/24/QAONVROLANEZHKX5OUEW45BQNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/24/QAONVROLANEZHKX5OUEW45BQNY/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 05:51:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DXVHEMKVOFHPDEC5ZMMHO4IT7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사고가 발생한 교문. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주시의 한 고등학교에서 철제 교문이 쓰러지는 사고가 발생해 밑에 깔린 70대 경비원이 사망했다.&lt;br&gt;&lt;br&gt;24일 소방 등에 따르면 이날 오전 6시 31분쯤 충북 청주시 서원구의 한 고등학교에서 70대 경비원 A씨가 철제 교문에 깔리는 사고가 발생했다. A씨는 사고 직후 병원으로 옮겨졌으나 결국 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 당시 등교 시간을 앞두고 교문을 열고 있었는데 교문이 갑자기 A씨 쪽으로 쓰러졌다고 한다. 경찰은 철제 교문의 경첩 부분 노후화로 사고가 발생한 것으로 추정하고 있다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>장애여학생 접촉한 31년차 교사...法 “형사무죄여도 교육청 징계 정당”</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/24/IDFN4OSMLFEBFJ6FQWP4AHVHUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/24/IDFN4OSMLFEBFJ6FQWP4AHVHUQ/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 05:37:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOIPX7HDNFCOHOGTNKRO6EMBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지적장애 여학생에게 신체 접촉을 한 혐의로 기소된 교사가 최종적으로 무죄 판결을 받았더라도, 그 같은 행위가 있었던 자체는 공무원의 품위 유지 의무 위반에 해당하므로 교육청 징계 처분은 가능하다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;24일 법조계에 따르면, 광주지법 제1행정부(재판장 박상현)는 교사 A씨가 전남교육감을 상대로 낸 징계처분 등 무효 확인 소송에서 원고 청구를 기각했다. &lt;br&gt;&lt;br&gt;A씨는 전남교육청 소속 31년 차 교사다. 그는 전남 장흥군의 한 고등학교 교사로 재직하던 2021년 3월 지적장애 2급인 18세 여학생의 신체를 강제 추행한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;A씨는 담요를 두르고 교탁 아래에 앉아서 휴대전화를 보고 있던 피해학생에게 돌연 “온도 차이를 확인해 보자”고 말했다. 그러면서 자기 발을 담요 안으로 넣어 피해자 종아리와 허벅지를 만졌다.&lt;br&gt;&lt;br&gt;전남교육청은 검찰 강제추행 수사가 시작된 2021년 10월쯤 A씨 직위를 해제했다. 이듬해 4월에는 감봉 1개월 처분을 내렸다. 국가공무원법 제63조 품위유지의무를 위반했다는 이유에서다.&lt;br&gt;&lt;br&gt;1심을 맡은 광주지법 장흥지원은 그러나 A씨에게 무죄를 선고했다. A씨가 부적절한 신체 접촉을 한 것은 맞지만, “피고인에게 추행의 고의가 있었다고 단정하기 어렵다”는 것이다. 항소심도 원심 판단이 맞는다고 봤다.&lt;br&gt;&lt;br&gt;A씨는 그러자 “기소되었다는 사정만으로 징계 처분을 내렸다”며 전남교육감을 상대로 소송을 냈다. 무죄추정의 원칙에 반한 징계였고, 그 처분 사유가 없으므로 위법하다는 것이다. 그러면서 직위해제·감봉 기간에 받지 못한 봉급·정근수당 등 3937만원을 달라고 했다.&lt;br&gt;&lt;br&gt;그러나 이 사건 재판부는 “교육공무원인 원고의 직위, 담임업무를 수행 중이던 보직과 업무의 성격상 원고가 계속 직무를 수행함으로 인하여 공무집행의 공정성과 그에 대한 국민의 신뢰를 저해할 구체적 위험을 초래할 여지가 있었다”며 A씨 주장을 기각했다.&lt;br&gt;&lt;br&gt;재판부는 또 “원고는 피해학생의 담임교사였고 판결 미확정 이유만으로 계속 직무를 수행하도록 한다면 2차 가해도 우려됐기에 직위해제 처분이 무죄추정의 원칙에 반한다는 원고 주장도 이유가 없다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전 여자친구 성폭행하고 무단침입한 20대, 끝내 구속</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/24/IRK4XJEXNBFDDE6AESPVYWTRYM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/24/IRK4XJEXNBFDDE6AESPVYWTRYM/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 05:10:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4CEHXUOZBDSROWXNB7E5QNKBQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 관악경찰서 외관. / 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 여자친구를 성폭행하고 여자친구가 운영하는 카페에 무단으로 찾아간 20대 남성이 경찰의 영장 재신청 끝에 구속됐다.&lt;br&gt;&lt;br&gt;서울 관악경찰서는 강간, 감금, 스토킹, 주거침입 혐의를 받는 20대 남성 A씨를 지난 21일 구속했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 4월 전 여자친구였던 20대 B씨를 성폭행하고 서울 관악구에 위치한 B씨의 카페를 2차례 무단 침입한 혐의를 받는다. A씨는 피해 여성으로부터 이별 통보를 받은 뒤 전화 30통과 문자메시지 61개를 보내는 등 스토킹을 이어온 것으로 조사됐다.&lt;br&gt;&lt;br&gt;앞서 경찰은 지난 4월 A씨에 대해 구속영장을 신청했지만 법원은 “주거가 일정하고, 다툼의 여지가 있다”며 이를 기각했다.&lt;br&gt;&lt;br&gt;B씨는 풀려난 A씨가 다시 찾아올지 모른다는 불안감에 투신을 해 전치 14주의 중상을 입기도 했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “피의자가 범행을 부인해 첫 영장이 기각됐는데 국립과학수사연구원의 DNA 감정 결과 성범죄 관련 정황이 확인돼 영장을 재신청했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>故구하라 금고도둑 몽타주 공개 후, 지코에 불똥…“선처 없다”</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/24/KZICDYK5QJEPXICWVWDFUOVNMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/24/KZICDYK5QJEPXICWVWDFUOVNMY/</guid>
-      <dc:creator>김가연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 04:48:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ZKDDO2HLBMTHCN6IGAU65KF7A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;가수 지코. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고(故) 구하라의 자택에 침입해 고인의 휴대폰이 보관돼 있던 금고를 훔친 용의자의 몽타주가 공개된 뒤 가수 지코를 향한 악플이 잇따르고 있다. 지코는 명예훼손, 모욕, 허위사실 유포 등 악성 게시물 및 댓글에 법적 대응하겠다는 입장을 밝히고 나섰다.&lt;br&gt;&lt;br&gt;22일 방송된 SBS ‘그것이 알고 싶다’에서는 고 구하라 금고 도난 사건의 용의자 몽타주가 공개됐다. 이 사건은 구하라 사망 후인 2020년 1월 14일 자정쯤 발생했다. 당시 누군가가 서울 청담동 소재 구하라 자택의 벽을 타고 침입해 고인의 휴대폰이 보관된 개인금고를 훔쳐 달아났다. 뒤늦게 금고 도난 사실을 안 유족은 경찰에 신고했으나, 용의자를 특정하지 못했고 ‘미제 편철’ 결정이 나면서 수사가 마무리 됐다.&lt;br&gt;&lt;br&gt;‘그것이 알고 싶다’ 측은 당시 범인의 모습이 찍힌 CCTV 영상의 화질 개선작업과 전문가 자문을 통해 몽타주를 제작했다. 공개된 몽타주에 따르면, 용의자는 갸름한 얼굴형과 오뚝한 코를 가진 170cm 후반의 키와 건장한 체격을 가진 인물로 묘사됐다.&lt;br&gt;&lt;br&gt;방송 후 사건이 다시 화제가 되면서 의외의 인물에게 불똥이 튀었다. 일부 네티즌들이 범인의 몽타주가 지코의 모습과 닮았다는 주장을 펼친 것이다.&lt;br&gt;&lt;br&gt;이들은 지코가 버닝썬 게이트‧정준영 단톡방의 중심이 된 가수 정준영의 지인이었다는 점, 정준영의 핸드폰을 ‘황금폰’이라고 언급했던 사실이 그 근거가 된다고 주장했다. 당시 지코는 ‘황금폰’ 발언에 대해 “지인들의 연락처 목록이 전부였고, 사적으로 연락을 주고 받은 지도 오래됐다”고 해명했었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TMG3ESKUQJAYJJQUKAYFADTVJI.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;SBS '그것이 알고싶다'에서 복원한 고 구하라 금고털이범 용의자 몽타주(왼쪽), 2020년  1월 14일 구하라 자택에 침입한 용의자의 모습. /SBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이와 관련한 악성댓글이 쏟아지자 지코는 자신의 인스타그램에 의미심장한 글을 올리기도 했다. 그는 “이곳은 보금자리인가 어리석은 방어기제가 쌓은 울타리인가. 미색의 천정이 하늘같다. 햇빛이나 비를 희망하기엔 바깥세상을 남모르게 홀대했기에 적적한 그날의 기분이 못마땅해 날씨를 탓하는 건 스스로 자처한 공허함을 세상에 전가하는 투사. 가슴 편에 지어지는 수많은 표정을 여과 없이 드러내는 당신이 제일 사람답다. 더 이상 머뭇거림에 삶을 흘려보내지 않기를”이라는 의미를 알 수 없는 글을 적었다.&lt;br&gt;&lt;br&gt;그럼에도 논란이 잦아들지 않자 지코는 ‘법적 대응’이라는 칼을 빼 들고 나섰다.&lt;br&gt;&lt;br&gt;소속사 KOZ엔터테인먼트는 24일 공식입장을 통해 “아티스트와 전혀 관련이 없음이 명확히 드러난 악의적 루머와 허위사실 유포 행위가 묵과할 수 없는 수준으로 심각해지고 있어 이들에 대한 강력한 법적 조치가 시급하다고 판단했다”며 “게시글 및 댓글을 채증하여 수사기관에 고소장을 제출했다”고 밝혔다.&lt;br&gt;&lt;br&gt;소속사는 “향후에도 악성 게시글을 상시적으로 채증하여 정기적으로 고소장을 접수할 예정”이라며 “최근 제기된 아티스트 관련 루머 역시 사실이 아님을 명확히 말씀드린다. 이에 대해서도 강경히 대응할 것”이라고 강조했다. 이어 “시일이 걸리더라도 끝까지 책임을 물을 것”이라며 “어떠한 경우에도 선처와 합의는 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전 연인 집에서 주먹 휘두른 20대 실형…주거침입은 ‘무죄’ 내린 이유는</title>
-      <link>https://www.chosun.com/national/regional/honam/2024/06/24/M5PV3O47CRE4HOD2BDFDCVM2I4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/06/24/M5PV3O47CRE4HOD2BDFDCVM2I4/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 04:31:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZXTU26BV3DYSIQCLKIKYGVUHRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주지방법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사실혼 관계였던 전 연인의 집 문을 부수고 침입해 또다른 남성에게 주먹을 휘두른 20대 남성에게 법원이 실형을 선고했다. 다만 법원은 폭행으로 인한 ‘특수상해’ 혐의에 대해서는 유죄로 인정했지만 주거침입에 대해서는 ‘공동 생활관계가 끝나지 않았다’며 무죄 판단을 내렸다.&lt;br&gt;&lt;br&gt;광주지법 형사5단독 지혜선 부장판사는 24일 특수상해와 주거침입 등 혐의로 기소된 A씨에게 징역 7개월에 처하고 공소사실 중 주거침입은 무죄를 선고한다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 2월 28일 오전 6시 35분쯤 광주광역시 서구 한 아파트에 거주하는 전 연인의 자택에 침입해 함께 있던 남성 B씨를 수차례 때려 상해를 입힌 혐의로 재판에 넘겨졌다. A씨는 전 연인이 문을 열어주지 않자 출입문 잠금장치를 부수고 집 안에 들어간 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 특수상해 혐의에 대해서는 “피해자의 코뼈가 골절되고 전방안구출혈로 시력이 회복되지 않는 등 큰 피해를 입혔다”며 유죄로 판단했다. 하지만 주거침입에 대해서는 판단을 달리했다.&lt;br&gt;&lt;br&gt;재판부는 A씨가 지난 2022년 4월부터 10개월 동안 전 연인의 아파트 자택에서 동거하고 대부분의 생활비를 부담했던 ‘사실혼 관계’였다는 점을 지목했다. A씨는 사건 전날인 지난 2023년 2월 27일 전 연인의 자택에서 출근했고 같은 날 이별 통보를 받았다.&lt;br&gt;&lt;br&gt;또 전 연인의 자택에는 A씨의 물건이 남아 있었고 현관문 비밀번호는 바뀌지 않은 상태였다. A씨는 술에 취한 상태로 전 연인의 집에 찾아와 문을 두드렸지만 열어주지 않자 화가 나 현관문을 열 수 없도록 잠가둔 걸쇠를 부수고 침입한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;법원은 위 정황을 토대로 A씨와 전 연인이 공동 생활관계를 끝내기 위한 명확한 합의에 도달하지 못한 상태였기 때문에 양측을 전 연인의 아파트 공동거주자라고 본 것이다.&lt;br&gt;&lt;br&gt;재판부는 “공동거주자인 전 연인이 법률적 근거나 정당한 이유 없이 현관문에 걸쇠를 걸어 다른 공동거주자인 A씨가 공동생활 장소인 아파트 자택 출입과 이용을 금지할 수 없다”고 설명했다.&lt;br&gt;&lt;br&gt;이어 “A씨가 전 연인과 공동 생활관계에서 완전히 이탈했다고 보기 부족하다”며 “피고인이 힘으로 현관문의 시정장치를 파손하고 이 사건 주거지에 들어갔다 하더라도 주거침입죄가 성립한다고 보기는 어렵다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6HBABOHZSG2AIV4WF3YJKLMDWY.jpg?width=3104&amp;height=2062&amp;auth=e99292813b8f20de453a79d9f0381a0db11cabf71d2a11d2c0df50b017ec2fb4&amp;smart=true" type="image/jpeg" height="2062" width="3104">
-        <media:description type="plain">광주지방법원의 모습./뉴스1 DB ⓒ News1 이승현 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 DB ⓒ News1 이승현 기자</media:credit>
-      </media:content>
     </item>
     <item>
       <title>[속보] 화성 일차전지 공장 화재, 1명 사망...“10여명 고립 추정”</title>
@@ -955,15 +968,6 @@
         <media:description type="plain">24일 오전 경기 화성시 서신면 공장 화재 현장에서 진화 작업이 진행되고 있다. /경기도소방재난본부</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>“올해 목표, 살 빼고 미래 목표 세우기”…제지공장서 숨진 19살 청년 메모</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/24/KFIYWCCU3NGGZMU5IWFINS7IYY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/24/KFIYWCCU3NGGZMU5IWFINS7IYY/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Jun 2024 02:21:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AUN2YEW4RFE5ZFA5M35P3VIWV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;숨진 19세 노동자의 메모장./민주노총 전북본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 전주시 한 제지공장에서 설비 점검을 하다 숨진 19세 노동자가 생전 기록했던 수첩 내용이 공개됐다.&lt;br&gt;&lt;br&gt;지난 20일 유족 측은 고용노동부 전주지청 앞에서 기자회견을 갖고 철저한 진상규명과 사측의 공식사과를 촉구하며, 숨진 A씨의 메모장을 공개했다.&lt;br&gt;&lt;br&gt;앞서 고등학교 졸업 후 6개월 차 신입사원이었던 19세 노동자 A씨는 지난 16일 오전 9시 22분쯤 전주시 팔복동의 한 제지공장 3층 설비실에서 의식을 잃은 채 바닥에 쓰러진 상태로 발견됐다. 병원으로 이송됐으나 끝내 숨졌다. 특성화고등학교에 다니던 그는 작년 해당 공장으로 현장 실습을 나왔고, 이후 학교를 졸업하고 정규직으로 채용돼 근무했다.&lt;br&gt;&lt;br&gt;A씨 메모장에는 올해 목표, 인생 계획 등 향후 목표에 대한 내용이 적혀 있었다. ‘2024년 목표’라고 적은 부분에는 ‘남에 대한 얘기 함부로 하지 않기’ ‘하기 전에 겁먹지 말기’ ‘기록하는 습관 들이기’ ‘운동하기’ ‘구체적인 미래 목표 세우기’ 등의 내용이 담겨 있었다.&lt;br&gt;&lt;br&gt;‘인생 계획’ 항목에서는 ‘다른 언어 공부하기’ 살 빼기’ ‘내가 하고 싶은 게 무엇인지 생각해보기’ ‘편집 기술 배우기’ ‘카메라 찍는 구도 배우기’ ‘사진에 대해 알아보기’ ‘악기 공부하기’ ‘경제에 대해 공부하기’ 등 자기 계발 관련 내용들을 큰 항목으로 먼저 분류했다.&lt;br&gt;&lt;br&gt;이후 ‘다른 언어 공부하기-일본어·영어-관련 언어 공부책 사기-인터넷 강의 찾아보기-독학 기간 정하기’ 식으로 꼼꼼하게 자기 계획을 실현하기 위한 계획표를 적어뒀다. 이외에도 각 항목마다 세부 계획을 정성스럽게 기입했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O4L4N75TZRB5FJBMKIM6XIEOQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;숨진 19세 노동자의 메모장./민주노총 전북본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 ‘경제-통장 분리하기’라는 부분에서 생활비 통장, 적금통장, 교통비 통장, 비상금 및 경조사 통장 등 구체적으로 나눴다. 그 아래에는 자기 계발을 위한 준비물들을 나열하고, 자신의 현재 자산과 필요한 생활비를 계산한 후 매달 목표 저축액을 적었다.&lt;br&gt;&lt;br&gt;그는 메모장에 “조심히, 예의 있고, 안전하게 일하겠음. 성장을 위해 물어보겠음. 파트에서 에이스 되겠음”이라고 남기며 취업 후 다짐을 보여주는 글도 있었다.&lt;br&gt;&lt;br&gt;해당 메모장은 온라인상에 널리 공유됐다. 이를 본 네티즌들은 “저렇게 미래에 대한 기대가 많은 사람이 너무 이른 나이에 이 세상에서 사라지다니 마음이 아프다” “성실하고 하고 싶은 거 많은 아이 같은데 정말 안타깝다” “19살이라니 너무 어리다” 등 안타까워하는 반응을 보였다.&lt;br&gt;&lt;br&gt;유족은 신입사원인 A씨가 홀로 작업을 수행한 점과 안전 매뉴얼이 명확히 지켜졌는지에 대한 의문을 제기하고 있다. 유족은 지난 20일 민주노총 전북본부 등과 함께 고용노동부 전주지청 앞에서 기자회견을 열고 “(이 사건을) 철저히 조사하라”며 명확한 진상 규명을 촉구했다.&lt;br&gt;&lt;br&gt;유족 측 박영민 노무사는 기자회견에서 “종이 원료의 찌꺼기가 부패하면서 황화수소 등 유독가스가 발생할 수 있는 현장이었는데도 왜 설비실에 혼자 갔는지, 2인1조 작업이라는 원칙은 왜 지켜지지 않았는지 알고 싶다”고 했다.&lt;br&gt;&lt;br&gt;제지공장 측은 과로사 정황이 없고, 유독가스 등 위험성 또한 확인되지 않았다는 입장이다. A씨가 사고 전 열흘 동안 하루 8시간만 근무했고, 사고 후 이틀에 걸쳐 유해가스 농도를 측정했지만 검출되지 않았다고 했다. A씨가 홀로 작업을 진행한 점 또한 2인1조가 필수인 업무가 아니었기 때문이라고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
