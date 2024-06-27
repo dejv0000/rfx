@@ -13,6 +13,227 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>박세리 울린 가족 재산 분쟁... 처벌 어떻게 달라지나 Q&amp;A</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/28/KE7HZLBX6ZDNXLMWCJPKJRICN4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/28/KE7HZLBX6ZDNXLMWCJPKJRICN4/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 16:10:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6NKQGZEE55FSLJAG26CDNBD22A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;프로골퍼 출신 박세리(왼쪽)씨가 지난 18일 아버지 박준철씨를 고소한 것과 관련한 기자회견을 하다 눈물을 훔치고 있다. 앞서 박씨는 지난 11일 박세리희망재단의 법인 도장을 몰래 제작해 사용한 아버지를 사문서 위조 등 혐의로 고소했다. 친형을 횡령 혐의로 고소한 방송인 박수홍(오른쪽)씨가 지난해 3월 서울서부지법 앞에서 입장을 발표하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 27일 ‘친족상도례’(親族相盜例)’ 규정에 대해 헌법불합치 결정을 내리면서, 가족 간 재산 범죄 사건이 부쩍 늘어날 것이라는 게 법조계의 전망이다. 지금까지는 부모와 자녀 등 직계혈족과 배우자, 함께 사는 친족(8촌 이내의 혈족·4촌 이내의 인척) 등이 사기·절도·횡령 범죄를 저질렀을 때 검찰은 대부분 ‘공소권 없음’으로 처리했다. 피해자가 처벌해 달라고 해도 경찰이나 검찰은 합의를 종용하거나 불기소 처분하는 경우가 많았다. 한 법조인은 “사실상 위헌으로 판단된 이 조항이 국회에서 개정되면, 재산을 둘러싼 가족 간 고소가 크게 늘어날 것으로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;Q1 헌법불합치 결정된 핵심 이유는&lt;/b&gt;&lt;br&gt;&lt;br&gt;헌재가 형법 328조 1항이 규정한 친족상도례가 헌법에 맞지 않는다고 본 이유는 가족의 재산 범죄로 인한 피해자들의 권리를 보호해야 한다는 게 핵심이다. 가족이라는 이유로 면죄부를 받는 것은 피해자의 기본권을 크게 침해한다는 취지다. 헌재는 또 가족의 형태가 핵가족화되고 1인 가구가 증가하는 상황에서, 먼 친척의 범죄까지 처벌을 면해주는 것은 타당하지 않다고 했다. 헌재는 “넓은 친족 관계에서 일률적으로 형(刑)을 면제하는 것은 형사 피해자의 권리를 일방적으로 희생시키고, 가족·친족 제도의 형식적 면만 유지하는 것이 될 수 있다”고 지적했다.&lt;br&gt;&lt;br&gt;피해 금액이 크고 불법성이 중대한 경우에도 일괄적으로 처벌을 면제해 주는 점도 문제로 지적됐다. 50억원이 넘는 특정경제범죄가중처벌법상 횡령 사건에도 친족상도례가 적용돼 가족이라는 이유로 불기소 처분을 받아왔기 때문이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B2J2K2DAIZF57O4W3Q4SLXY5OE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Q2 박수홍 형, 박세리 아버지 처벌될까&lt;/b&gt;&lt;br&gt;&lt;br&gt;친족상도례는 유명인들이 가족에게 거액의 돈을 뜯겼다고 주장하는 사건에서도 늘 논란이 됐다.&lt;br&gt;&lt;br&gt;방송인 박수홍씨는 2021년 4월 친형이 자신의 출연료 등 61억여 원을 빼돌렸다고 고소했고, 이듬해 10월 검찰은 박씨의 친형을 구속 기소했다. 그즈음 갑자기 박씨의 아버지가 나서 “(박수홍의) 재산을 내가 관리했다”고 주장했다. 당시 박씨 측은 ‘아버지가 친족상도례 조항으로 형의 처벌을 막아주려고 한다”는 의혹을 제기했다. 실제 그렇게 인정됐으면, 아버지는 불기소되고, 형도 처벌을 면할 수 있었다. 박씨의 형은 같이 살지 않는 친족이기 때문에 처벌 면제 대상에 포함되지 않는다.&lt;br&gt;&lt;br&gt;프로 골퍼 출신 박세리씨도 최근 아버지와 금전 문제로 소송을 벌이고 있다. 아버지가 박세리씨가 운영하는 재단의 도장을 위조해 개인 사업에 몰래 사용했다는 의혹이 불거진 것이다. 이 사건의 경우, 박씨의 아버지가 재단의 돈을 횡령한 혐의를 받고 있어서 친족상도례와 상관없이 혐의가 확인되면 처벌받게 된다.&lt;br&gt;&lt;br&gt;&lt;b&gt;Q3 참았던 가족 범죄, 처벌로 이어질까&lt;/b&gt;&lt;br&gt;&lt;br&gt;헌재가 이날 심리한 사건 중에는 치매 노모의 예금을 자녀가 몰래 빼돌린 사건이 있었다. 아들 A씨는 치매에 걸린 노모를 돌보며 예금 계좌를 관리해 왔는데, 어머니가 사망하자 이를 자기 돈처럼 썼다는 의심을 받았다. 딸 B씨가 A씨를 횡령 혐의로 고소한 것이다. 그러나 경찰은 “횡령이 인정돼도 처벌할 수 없다”며 ‘공소권 없음’ 처분을 했다. 이 밖에 의붓아버지가 횡령을 저질렀다며 소송을 낸 딸의 사건도 모두 불기소 처분됐다.&lt;br&gt;&lt;br&gt;이처럼 그동안 처벌이 면제됐던 가족 간 재산 범죄가 줄줄이 재판으로 넘겨지게 됐다는 게 법조계의 전망이다. 검찰 출신 변호사는 “당장 친족상도례가 중지된 만큼 그동안 참았던 가족 간 고소가 크게 늘 것으로 보이고, 수사 기관도 적극 수사해 기소할 것으로 전망된다”고 했다. 또 다른 변호사는 “공소시효가 남은 범죄의 경우, 불기소 처분이 됐더라도 항고, 재항고 등으로 다시 수사가 진행되는 일도 벌어질 것 같다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;Q4 친족상도례, 어떻게 바뀌어야 하나&lt;/b&gt;&lt;br&gt;&lt;br&gt;헌법불합치 결정에 따라 국회는 내년 12월까지 새로운 법을 만들어야 한다. 법조계에선 “가족 간 친밀도나 범죄 피해 정도에 따라 처벌 대상이나 규정을 다르게 해야 한다”는 목소리가 나왔다.&lt;br&gt;&lt;br&gt;박수홍씨를 대리했던 노종언 변호사는 “친족 간 재산 범죄는 다른 범죄보다 은밀하고 잔인하게 장기간 이뤄지는 경향이 있다”면서 “친족을 살해하거나 추행하는 범죄는 가중 처벌하면서, 재산 범죄는 면해주거나 감경하는 것은 이치에 맞지 않는다”고 했다. 그러면서 “처벌 범위를 대폭 넓혀야 한다”고 했다. 부장판사 출신 한 변호사는 “가족이라 하더라도 실질적인 유대 관계가 어떻게 형성됐는지에 따라 재산 범죄의 처벌 여부를 달리 판단해야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞친족상도례(親族相盜例)&lt;/b&gt;&lt;br&gt;&lt;br&gt;친족 간 재산 범죄의 처벌을 면해주는 특례 규정으로, 형법 328조에 명시돼 있다. 직계혈족이나 배우자, 동거 친족(8촌 이내 혈족·4촌 이내 인척 등) 등이 사기·배임·횡령 등 재산 범죄에 대한 형이 면제되고 그 외 친족은 고소가 있어야 처벌할 수 있는 친고죄를 적용하고 있다. 1953년 형법이 제정될 때, 가까운 친족 내부 문제에 국가가 간섭을 최소화한다는 취지로 도입됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“출산 약속하면 1억 대출… 1명땐 50%, 2명은 전액 탕감을”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/06/28/P3ANS3MI7NAA3DXXGQY7ONM4BA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/28/P3ANS3MI7NAA3DXXGQY7ONM4BA/</guid>
+      <dc:creator>안준용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 15:50:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XHE4NKPOVE5NFEBQEJJ3WOOEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사진=연합뉴스, 그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“현재 주택 청약 제도는 결혼하면 오히려 더 불리한 ‘혼인 페널티(penalty·불이익)’가 있고, 자녀 수에 따른 보상도 없다. 가점 산정 때 신혼부부는 배우자 청약 통장 가입 기간을 전부 합산하게 해주고, 자녀가 1명이면 20점, 2명이면 30점, 3명이면 35점(부양가족 항목 만점)을 주자.”&lt;br&gt;&lt;br&gt;27일 서울 중구 프레스센터에서 열린 ‘저출생 위기 극복, 이제 실천이 답이다’ 세미나에서 발제자로 나선 김용민 학교법인 재능학원 상임이사(전 청와대 경제보좌관)는 “저출생의 핵심 원인인 주거 불안을 해소하려면 파격적인 대책이 필요하다”며 이같이 제안했다. 사단법인 차세대미래전략연구원과 미래지식사회연구회가 공동 주최하고 조선일보가 후원한 이날 세미나에선 김 이사를 비롯한 참석자들이 저출생 극복을 위한 다양한 아이디어를 쏟아냈다.&lt;br&gt;&lt;br&gt;주택 청약 가점제(84점 만점)는 무주택 기간(32점), 부양가족 수(35점), 청약 통장 가입 기간(17점)으로 항목이 나뉜다. 그런데 배우자의 청약 통장 가입 기간은 50%(최대 3점)만 인정한다. 이 때문에 결혼이나 혼인신고를 미루는 예비 신혼부부도 있다. 또 부양가족 항목에선 자녀를 부모님 등 다른 가족과 같이 한 명당 5점으로 인정한다. 부부 둘에 자녀가 1·2·3명이면 각각 15·20·25점을 받는다. 배우자·자녀 포함 부양가족이 6명 이상이어야 만점(35점)이다. 김용민 이사는 “혼인 기간 7년 미만 신혼부부는 배우자 청약 통장 가입 기간을 100% 인정해 주고, 아이가 셋이면 부양가족 항목 만점을 받도록 해야 한다”고 했다. 아이를 키우는 신혼부부들이 더 유리하게 바꾸자는 것이다. 김 이사는 또 세제와 관련해선 “자녀가 많을수록 소득세를 덜 내는 프랑스식 제도를 도입하자”고 했다. 보육과 관련해선 “4년 내 3분의 1 이상 문 닫을 것으로 보이는 어린이집·유치원을 긴급 돌봄 서비스까지 맡는 ‘지역 돌봄 거점’으로 활용해야 한다”며 “어린이집 야간 연장 보육 교사 등의 인건비 지원 연령 상한도 현재 60세에서 65세로 올릴 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EDSP7WXT2JGXNNHQWHNVNM5V2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구영훈 전 BNK금융경영연구소장은 헝가리의 ‘미래 아기 대출(Baby-Expecting Loan)’ 제도를 이제는 우리도 검토할 시점이 왔다고 했다. 헝가리는 부부가 출산을 약속하면 최대 약 4000만원을 대출해 주고, 5년 내 자녀를 낳으면 대출 이자를 면제해 준다. 2명 출산 시엔 대출액의 3분의 1, 3명 출산 시 대출 전액을 탕감해 준다. 구 전 소장은 “합계출산율 1.5명대인 헝가리보다 훨씬 심각한 상황인 만큼 우리도 소득·자산 규모와 상관없이 출산 의사가 있는 신혼부부에게 6년 만기로 1억원을 대출해 주는 제도를 검토해 보자”고 했다. 그러면서 “정부가 보증료를 부담하면 신혼부부는 6년간 이자만 내고, ‘첫째 출산 시 이자 100% 감면, 원금 50% 탕감’, ‘둘째 출산 시 전액 탕감’으로 설계할 수 있다”며 “우선순위가 떨어지는 다른 지출을 줄여서라도 일단 시행하면 반향이 상당할 것”이라고 했다.&lt;br&gt;&lt;br&gt;이강호 카이스트 문술미래전략대학원 교수는 “출산율을 높여가면서, 동시에 ‘생산가능인구(15~64세) 급감’이라는 미래 충격에 대비해야 한다”고 했다. 그는 “2030년까지 생산가능인구 240만명이 감소할 것으로 보이는데, 결국 인공지능(AI) 기술과 주 20시간 근무제 활성화로 노동력 부족 문제를 극복해야 한다”며 “병역 자원 부족도 AI 기술을 통한 군 첨단화 등으로 대비할 필요가 있다”고 했다. 남영희 남서울대 보건행정학과 교수는 “일본은 공직 사회부터 토·일요일을 제외한 평일 중 하루를 더 쉬는 ‘선택적 주휴(週休) 3일제’를 도입하고 있다”며 “결국 일·가정 양립이 핵심 과제”라고 했다.&lt;br&gt;&lt;br&gt;앞서 정부는 지난 19일 육아휴직 급여 상한을 현재 월 150만원에서 최대 250만원으로 올리는 내용 등이 담긴 ‘저출생 종합 대책’을 발표했다. 이날 세미나에 참석한 주형환 저출산고령사회위원회 부위원장은 “발표한 대책을 실행해 나가는 이제부터가 정말 중요한 때인 만큼 신속하게 후속 조치를 진행하겠다”고 했다. 법 개정이 필요하면 올 하반기 중 개정안을 국회에 제출해 협조를 구하고, 정부 차원의 시행령 개정은 연내 완료하겠다고 했다. 육아휴직 급여 상한 인상은 하반기 고용보험법 시행령 개정 등을 통해 내년부터 시행될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>세브란스도 큰 차질 없어… 꺼져가는 ‘빅5 휴진’ 불씨</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/06/28/5PNQ3KXQTBAS3HVXLB42VHBP2I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/28/5PNQ3KXQTBAS3HVXLB42VHBP2I/</guid>
+      <dc:creator>오유진 기자, 고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 16:04:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JGSDY34XCBBMZGRA2DZYEOAJ7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;휴진 시작했지만 북적이는 세브란스 - 일부 세브란스병원 교수가 27일 ‘무기한 휴진’을 시작했지만, 이날 서울 서대문구 세브란스병원엔 환자들로 붐볐다. 평소보다 외래는 약간 줄었지만 수술은 변함이 없어 평소와 비슷한 모습이었다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“정상 진료 중입니다.”&lt;br&gt;&lt;br&gt;27일 오전 찾은 서울 서대문구 세브란스병원 본관 3층 대형 전광판에는 이런 문구가 떠 있었다. 이날 세브란스병원은 외래진료와 비응급 수술 등을 무기한 중단하겠다고 했지만, 실제 외래진료는 지난해 같은 기간 대비 5∼10% 정도 감소했다. 서울 빅5(5대 대형 병원) 중 가장 먼저 무기한 휴진에 들어간 서울대병원은 휴진을 중단했고, 삼성서울병원과 서울성모병원은 휴진을 유예하기로 했다. 서울아산병원은 다음 달 4일 휴진 방침을 고수하고 있지만, 휴진 참여율이 높지 않을 전망이다. 의료계에선 빅5 병원 휴진 불씨가 거의 꺼졌다는 분석이 나왔다.&lt;br&gt;&lt;br&gt;세브란스병원 본관 6층 호흡기내과 진료 대기실에서 만난 윤모(78)씨는 “병원을 이용하는 데 특별히 불편한 느낌은 없었다. 평소와 비슷하다”고 했다. 작년 10월 유방암 수술을 받은 아내와 병원을 찾은 김모(53)씨는 “2주 전 외래진료를 예약한 후 파업 소식을 듣고 마음을 졸였는데 다행히 예약에 차질 없다는 연락을 받았다”고 했다.&lt;br&gt;&lt;br&gt;다만 일부 교수의 휴진으로 예약이 밀린 환자들은 큰 불편을 겪었다. 병원 본관 5층 뇌신경센터 앞에서 만난 한 여성 고령 환자는 “버스 타고 여기까지 왔는데…” 읊조리며 한숨을 내쉬었다. 혈액검사 결과를 보기로 한 날이었는데 담당 교수가 휴진하면서 다음 달 4일로 진료 일정이 연기된 것이다. 4개월 전 어깨 수술을 받았다가 상태가 안 좋아져서 병원을 찾았다는 최진기(67)씨도 예약이 밀린 사실을 모르고 병원을 방문했다. 최씨는 “새벽 일찍 일어나 경기 파주시에서 버스와 전철을 타고 2시간 넘게 걸려 왔는데 헛걸음했다”고 했다.&lt;br&gt;&lt;br&gt;이날 세브란스병원은 작년 같은 기간 대비 외래 휴진이 5~10% 정도 줄어든 것으로 잠정 집계됐다. 수술은 줄어들지 않았다. 김국일 보건복지부 보건의료정책관은 이날 브리핑에서 “세브란스병원의 집단 휴진 방침에도 정부는 대부분 교수님이 끝까지 환자 곁을 지켜주실 것이라 믿는다”고 했다.&lt;br&gt;&lt;br&gt;한편 이날 국회에선 ‘의료 공백 장기화 사태 병원·환자·산업계 긴급 간담회’가 열렸다. 서이슬 한국PROS(프로스)환자단체 대표는 이 자리에서 “2012년생인 저희 아이는 태어나자마자 프로스라는 희소 질환을 진단받았다. 아이에게 쓸 수 있는 임상 약물이 하나 있고 이 약물을 쓰려면 유전자 검사를 해야 하는데 전공의 이탈 사태로 검사가 4월에서 5월로, 다시 8월 말로 미뤄졌다”며 눈물을 터뜨렸다. 프로스는 10만명당 1명꼴로 발생하는 복합 혈관 희소 질환이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>4전5기 신화 쓴 파나마에 대통령 특사로 가는 ‘복싱 전설’</title>
+      <link>https://www.chosun.com/national/people/2024/06/28/CVZMBYUZJFDVTBLN6ECJ3RKBKI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/28/CVZMBYUZJFDVTBLN6ECJ3RKBKI/</guid>
+      <dc:creator>김동하 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 15:35:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OEVP25G47ZF75KTLBNM2GVSODA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;복싱 챔피언 출신 홍수환씨가 27일 본지와 인터뷰하며 파이팅 포즈를 취하고 있다. 윤석열 대통령은 다음 달 1일 개최되는 파나마 신임 대통령 취임식에 홍씨와 박상우 국토교통부 장관을 경축 특사단으로 파견했다. /이태경 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프로 복서 홍수환(74)씨가 1977년 파나마 원정 경기에서 ‘4전 5기’ 신화를 쓰며 거둔 역전 KO승은 한국 프로 복싱사에서 가장 극적인 장면으로 꼽힌다. 홍씨는 당시 스물일곱 나이에 적진인 파나마에서 세계복싱협회(WBA) 주니어페더급 초대 챔피언 타이틀을 획득했다. 그런 그가 47년 만에 대통령 특사 자격으로 다시 파나마를 찾는다. 윤석열 대통령은 다음 달 1일 개최되는 호세 라울 물리노 파나마 신임 대통령 취임식에 홍수환씨와 박상우 국토교통부 장관을 경축 특사단으로 파견했다.&lt;br&gt;&lt;br&gt;홍씨는 27일 본지 인터뷰에서 “올해가 ‘4전 5기’ 47주년이고, ‘엄마 나 챔피언 먹었어’ 50주년인데 파나마를 다시 방문할 수 있게 돼서 고마운 마음”이라고 했다. 홍씨는 1974년 남아공에서 WBA 밴텀급 챔피언 타이틀을 따고선 어머니 황농선 여사와 국제전화로 통화하면서 “엄마, 나 챔피언 먹었어”라는 유명한 어록을 남겼다. 1977년에는 파나마에서 열린 주니어페더급 챔피언 결정전에서 헥토르 카라스키야와 맞붙었다. 홍씨는 당시 2라운드 때 카라스키야 공격에 4번 다운됐지만 다시 일어났고 결국 3라운드에서 KO승을 거뒀다. 4전 5기 신화는 이때 탄생했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SFMRY2LGI5HSHI6SC74EBWUX6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍수환씨가 1977년 파나마에서 열린 챔피언 결정전에서 상대를 다운시키는 모습. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍씨는 “카라스키야와의 경기 전날(1977년 11월 26일) 나에게 엄청난 희망과 용기를 준 것이 한국 야구였다”고 했다. 당시 한국 야구 대표팀은 중앙아메리카의 니카라과 수퍼월드컵에서 미국과 일본을 제치고 최초로 국제 대회 우승을 차지했다. 홍씨는 “우리 야구가 종주국인 미국에 이어 일본을 이기는데 나도 먼 이국 땅에서 챔피언을 차지하지 못할 이유가 없다는 생각이 들었다”고 했다.&lt;br&gt;&lt;br&gt;홍씨가 파나마를 찾는 것은 이번이 네 번째다. 홍씨는 1998년 KBS ‘도전 지구탐험대’ 프로그램 주선으로 파나마에서 카라스키야와 만난 데 이어 2020년 다시 파나마를 찾아 4체급을 석권한 로베르토 두란과도 만났다. 카라스키야는 은퇴 후 정치인으로 데뷔했고, 국회의원 신분으로 한국을 수차례 찾아 홍씨와 만났다. 홍씨는 “파나마 대통령도 복싱을 상당히 좋아하는 것으로 알고 있다”며 “이번 특사단 방문에서 두란이나 카라스키야와 만나는 자리를 만들어 줄 것으로 기대하고 있다”고 했다. 홍씨는 지난 2017년 카라스키야가 한국을 찾았을 때 “카라스키야 덕에 먹고 산다”고도 했다.&lt;br&gt;&lt;br&gt;홍씨는 윤 대통령과도 남다른 인연이 있다. 홍씨는 2022년 3월 대선에 앞서 윤 대통령 지지를 선언하면서 당시 서울 신촌 유세장에서 윤 후보에게 글러브를 선물했다. 카라스키야가 2016년 방한 때 자신의 사인을 담아 홍씨에게 선물한 글러브였다. 윤 후보는 홍씨가 끼워준 이 글러브를 착용하고 ‘어퍼컷’ 세리머니를 선보였다. 홍씨는 “윤 대통령이 유세하면 할수록 라이트 어퍼컷이 정교해지는 걸 보고 놀랐다”고 했다. 홍씨는 “카라스키야도 자기 사인이 있는 글러브를 윤 대통령이 끼고 결국 대통령에 당선됐다고 아주 기뻐했다”고 했다.&lt;br&gt;&lt;br&gt;파나마는 중남미 해운·물류 중심지로 한국 기업의 중남미 진출을 위한 주요 관문이다. 양국은 1962년 수교했고 2023년 기준 양국 교역액은 14억2만달러다. 코스타리카·온두라스 등 중미 8국 전체 교역액(34억3400만달러)의 41%를 차지한다.&lt;br&gt;&lt;br&gt;윤 대통령은 이번 특사단을 통해 물리노 대통령에게 축하 인사를 전하면서 “양국 관계 강화를 위해 협력해 나가길 바란다”는 내용의 친서를 전달할 예정이다. 홍씨 등 특사단은 파나마 고위 인사를 면담하고 동포 간담회, 현지 한국 기업 방문 등을 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/OEVP25G47ZF75KTLBNM2GVSODA.jpg?width=5472&amp;height=3648&amp;auth=f387ad6d858adabb7cb9c961166e3bd68b22150d333c04678769b751d114bb04&amp;smart=true" type="image/jpeg" height="3648" width="5472">
+        <media:description type="plain">27일 복싱 챔피언 홍수환이 대통령 특사로 파나마를 방문하는 소감을 밝히고 있다./이태경기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">이태경 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘댕댕이’ 살맛 나겠네… 전용 캠핑장도 등장</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/06/28/JKTVZJTCBJE2ZDJSAXDNST7KBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/06/28/JKTVZJTCBJE2ZDJSAXDNST7KBM/</guid>
+      <dc:creator>김천=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 15:48:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K2KTHIWR6NB3NBU3CZK5JSTWGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;반려견 전용 야영장 국립김천숲속야영장의 모습. /경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 김천에 전국 최초의 국립 반려견 야영장이 생긴다.&lt;br&gt;&lt;br&gt;경북도와 산림청은 김천시 대덕면에 ‘국립 김천숲속야영장’을 조성한다고 27일 밝혔다. 2만8000㎡(약 8500평) 산골짜기에 20억원을 들여 반려견과 함께 캠핑을 즐길 수 있는 야영장을 만드는 것이다. 국공립 야영장 중 반려견을 데리고 와야 이용할 수 있는 야영장은 이곳이 처음이다.&lt;br&gt;&lt;br&gt;야영장은 하루 최대 15개 팀이 이용할 수 있다. 반려견은 2마리까지 데려올 수 있다. 평일·주말 1박에 2만5000원(오토캠핑장 기준)이다.&lt;br&gt;&lt;br&gt;반려견이 뛰어놀 수 있는 넓은 숲길을 갖추고 있다. 반려견 전용 놀이터 2곳도 조성한다. 덕유산국립공원, 가야산국립공원과도 가깝다.&lt;br&gt;&lt;br&gt;개장은 오는 7월 15일로, 야영장을 이용하려면 산림청 휴양림 사이트인 ‘숲나들e’에서 예약하면 된다.&lt;br&gt;&lt;br&gt;반려동물 카페나 장례식장 등에 이어 국립 반려견 전용 야영장까지 등장한 것은 최근 반려동물을 기르는 집이 증가하고 있기 때문이다. 농림축산식품부에 따르면, 반려동물을 기르는 가구는 2012년 364만 가구에서 2022년 602만 가구로 늘어났다.&lt;br&gt;&lt;br&gt;조현애 경북도 환경산림자원국장은 “반려견을 기르는 집은 크게 늘었는데 반려견과 캠핑을 할 야영장은 마땅치 않았다”며 “주변 이용객 눈치 보지 않고 마음 편하게 반려견과 캠핑을 즐길 수 있는 곳으로 만들었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2000만원짜리 한류체험… 럭셔리 관광객 온다</title>
+      <link>https://www.chosun.com/national/regional/2024/06/28/BENLIIB76JFKVB25A4U5EPE3RA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/28/BENLIIB76JFKVB25A4U5EPE3RA/</guid>
+      <dc:creator>최연진 기자, 김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 15:47:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H5W3GH4D45F75JYQUUDM25LECQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;보자기 공예 체험하는 해외 관광 전문가들 - 지난 25일 오후 서울 성북구 우리옛돌박물관을 찾은 해외 ‘럭셔리 관광’ 전문가들이 보자기로 두루마리 휴지를 싸는 체험을 하고 있다. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 25일 서울 성북구 우리옛돌박물관. 한복 차림의 하영준 동방문화대학원대 교수가 슥슥 선을 그어 수묵화 한 점을 완성해내자 지켜보던 외국인들이 “우아” 하고 탄성을 냈다. 수묵화 그리기 체험을 하는 자리였지만, 이 외국인들은 체험보다는 ‘관찰’에 무게를 두는 분위기였다. “우리 클라이언트(고객)를 꼭 모시고 와야겠다” “고객들이 동양화 수집에 관심이 많은데 이런 체험을 흥미로워할 것 같다” 등 반응이 쏟아졌다.&lt;br&gt;&lt;br&gt;옆 회의실에서는 외국인 참가자와 국내 한옥호텔 관계자가 심각한 표정으로 대화를 나누고 있었다. 호텔 관계자가 호텔 사진을 보여주자 “어떤 건축가가 지었느냐” “이 도자기는 어느 시대 도자기냐” 질문이 나왔다.&lt;br&gt;&lt;br&gt;이들은 미국, 브라질, 영국, 인도, 아랍에미리트 등 15국에서 온 관광 전문가들(travel designer)이다. ‘럭셔리 관광’ 프로그램을 전문적으로 설계·판매한다. 럭셔리 관광은 강남 의류 매장을 통째로 빌려 ‘싹쓸이 쇼핑’을 하거나 한강에 요트를 띄운 뒤 한식 셰프를 불러 가족 식사를 하는 등의 여행을 말한다. 업계에서는 보통 교통, 쇼핑 등 비용을 제외하고 체험 비용으로만 하루 300만~400만원 이상을 쓰는 관광을 럭셔리 관광이라고 한다.&lt;br&gt;&lt;br&gt;서울시가 지난 23~26일 ‘커넥션스 럭셔리 서울’ 행사를 개최해 서울의 호텔, 한식당 등 관계자들과 만날 수 있는 자리를 만들자 30명 전부 자기 돈으로 비행기표를 끊고 날아왔다. 2022년 “우리도 프리미엄 관광 시장을 개척해보자”며 처음 개최했는데 브라질, 멕시코 업체까지 참가한 것은 처음이다. 이들은 4일간 김밥 말기 등 한류 문화를 체험하고 국내 호텔 등과 비즈니스 미팅을 했다.&lt;br&gt;&lt;br&gt;이들은 “최근 ‘서울에 가보고 싶다’고 하는 고객이 눈에 띄게 늘었다”고 입을 모았다. 저마다 구체적인 사업 계획까지 들고 왔다.&lt;br&gt;&lt;br&gt;“우리 고객들은 파리, 런던, 두바이 같은 도시는 이제 질렸다고 해요. 그러면서 넷플릭스 드라마 ‘오징어 게임’에 나온 서울 쌍문동 시장을 가보고 싶다고 하더라고요. 저도 놀랐습니다.” 브라질에서 온 캐롤리나 빌렐라(50)씨의 말이다.&lt;br&gt;&lt;br&gt;멕시코에서 온 데이비드 페레즈(44)씨는 “예전에는 솔직히 한국 관광 문의가 0건이었는데 최근 2~3년 새 ‘일본·중국 말고 한국’이라고 하는 고객이 생겼다”며 “소갈비집 투어 같은 ‘미식 여행’ 프로그램을 만들어보려고 한다”고 했다.&lt;br&gt;&lt;br&gt;이들이 꼽은 럭셔리 관광의 핵심은 ‘차별성’이었다. “부자 고객들은 비용은 신경 쓰지 않는다. 누구나 할 수 있는 관광 말고 진짜(authentic) 체험을 원한다”고 했다.&lt;br&gt;&lt;br&gt;프랑스 여행사 대표 메건 압델리(29)씨는 “서울시 행사가 끝난 뒤 강원도 속초로 가 프랑스 고객들이 좋아할 만한 체험 포인트를 찾아볼 계획”이라고 했다. 그는 “설악산 사찰을 둘러보고 해변 식당을 대관해 해산물을 맛보는 상품이 어떨까 싶다”며 “프랑스 부자들은 여행지의 전통 문화와 미식에 열광하기 때문에 속초에서 하루 이틀 머무는 데 2000~3000유로(300만~450만원)는 기꺼이 쓸 것”이라고 했다.&lt;br&gt;&lt;br&gt;국내 여행사 관계자는 “한 럭셔리 관광객이 한국 로컬(주민)처럼 북한산 하이킹을 하고 싶다고 해 등산로의 나무 이름까지 속속들이 아는 전문 숲해설가를 섭외하고 한국식으로 등산 도시락까지 쌌다”며 “6시간 하이킹에 200만원을 내놓더라”라고 했다. 또 다른 관계자는 “한강에서 라면을 꼭 먹어봐야 한다고 해서 한강 편의점을 1시간 통째로 빌렸다”며 “자기 가족끼리만 템플 스테이를 하거나 한의원에서 침을 맞는 경우도 봤다”고 했다.&lt;br&gt;&lt;br&gt;한국관광공사에 따르면 지난해 한국을 방문한 럭셔리 관광객은 약 18만명으로 집계됐다. 그중 일등석 항공 좌석을 이용하거나 전용기를 타고 입국하는 ‘상위 1%’ 럭셔리 관광객은 1인당 평균 2116만원을 쓴 것으로 조사됐다. 교통, 쇼핑 비용을 제외한 ‘순수 체험비’만 집계한 것이다. 국내 관광 업계 관계자는 “이른바 ‘덤핑 관광’으로 관광객 100명을 유치하는 것보다 럭셔리 관광객 1명을 모셔 오는 게 더 남는 장사라는 말도 있다”고 했다.&lt;br&gt;&lt;br&gt;이번 서울시 행사에는 신라호텔과 조선호텔이 처음으로 참여해 호텔 스위트룸과 식사 메뉴 등을 소개했다. 호텔 업계 관계자는 “글로벌 체인 호텔들은 예전부터 소리 없이 럭셔리 관광객 유치에 힘을 쏟아왔는데 우리는 좀 늦은 편”이라고 했다.&lt;br&gt;&lt;br&gt;김동희 숙명여대 문화관광외식학부 교수는 “서울에서도 이제 럭셔리 관광 바람이 불기 시작했다”며 “공격적인 마케팅을 통해 시장을 확대해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>패륜자식 상속 배제, 딸도 제사… 시대 따라가는 法</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/28/HXU2RBFMN5HQNIRMMDULDTAJ4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/28/HXU2RBFMN5HQNIRMMDULDTAJ4M/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 16:11:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DOICCRBF5ZGV3NPHON7XUCVQQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종석 헌법재판소장이 27일 오후 서울 종로구 헌법재판소 대심판정에서 열린 ‘친족상도례’ 위헌소원 심판에 대한 선고를 위해 입장하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 헌법재판소가 ‘친족상도례’ 조항에 대해 헌법불합치 결정을 내린 것을 비롯해, 과거와 달라진 가족 관계와 문화를 반영해 기존 판례를 뒤집는 판결이 잇따르고 있다.&lt;br&gt;&lt;br&gt;헌재는 지난 4월 25일 ‘유류분’ 제도에 대해서도 위헌 및 헌법불합치 결정을 내렸다. 고인(故人)의 뜻과 관계없이 특정 가족에게 법정 상속분의 일정 비율을 보장하는 유류분 제도가 현실에 맞지 않는다는 것이다. 1977년 민법에 유류분 제도가 도입된 지 47년 만에 나온 위헌 결정이다.&lt;br&gt;&lt;br&gt;헌재는 고인의 형제 자매에게도 유류분을 인정하는 민법 제1112조 4호에 대해 위헌 결정을 내렸다. 또 유류분 제도에 상실 사유를 규정하지 않고 있는 조항(민법 1112조 1~3호)과 부모 부양과 재산 형성 기여분에 대한 고려가 없는 민법 1118조에 대해선 헌법불합치 결정을 내렸다. 헌재는 “피상속인을 장기간 유기하거나 정신적·신체적으로 학대하는 패륜적 행위를 일삼은 상속인에게도 유류분을 인정하는 것은 국민 법 감정과 상식에 반한다”고 했다.&lt;br&gt;&lt;br&gt;대법원 전원합의체는 작년 5월 부모의 제사에 대한 권리를 갖는 ‘제사 주재자’는 성별과 관계 없이 연장자가 맡아야 한다고 판단했다. 장남에게 제사 주재자 우선권을 줬던 대법원 판례가 15년 만에 깨진 것이다. 대법원은 “현대사회의 제사에서 부계 혈족인 남성 중심의 가계 계승 의미는 상당 부분 퇴색했고, 남성이 여성에 비해 제사 주재자로 더 정당하다고 볼 수 없다”며 “성별에 의한 차별을 금지하고 개인 존엄과 양성 평등에 기초한 혼인과 가족 생활을 보장하는 헌법 정신에 맞지 않는다”고 했다.&lt;br&gt;&lt;br&gt;친족의 범위를 새로 판단한 판례도 나왔다. 대법원 전원합의체는 2020년 6월 독립유공자 유족 자격을 구하는 소송(친생자 관계 부존재 확인 소송)에서 소송을 낸 독립유공자의 증손자에게 소송 당사자 자격이 없다고 판단했다. ‘8촌 이내 혈족은 소송 자격이 있다’는 기존 판례를 40년 만에 뒤집은 것이다. 대법원은 당시 “2005년 호주제가 폐지되면서 부부와 자녀를 중심으로 한 가족 제도로 재편되고 우리 사회 가족 형태도 이미 핵가족화됐다”며 “민법 777조의 ‘친족’이 밀접한 신분적 이해관계를 가진다고 볼 법률적·사회적 근거가 약해졌다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>佛·獨, 가족 刑면제 범위 좁아… 英·美, 일반 범죄로 처벌</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/28/GQI6M2GIAZGQ3DO3W646D6STFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/28/GQI6M2GIAZGQ3DO3W646D6STFE/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 16:10:33 +0000</pubDate>
+      <content:encoded>친족상도례를 직역(直譯)하면 ‘친족 간 도둑질에 대한 특례’다. 이 제도의 역사는 로마 시대로 거슬러 올라간다. ‘법은 가정의 문턱을 넘지 않는다’는 로마법에서 유래됐고, 이후 프랑스, 독일 등 유럽 각국의 형법에 영향을 미쳤다. 이는 일본을 거쳐 1953년 우리나라에는 형법이 만들어질 때 함께 도입됐다. 대륙법계 국가인 프랑스와 독일, 일본 등도 친족상도례와 비슷한 법 규정을 갖고 있지만 세부 내용은 조금씩 다르다. 영미법계 국가인 영국, 미국 등은 가족 간 재산 범죄에 대한 별도의 규정이 없다.&lt;br&gt;&lt;br&gt;국회 입법조사처의 ‘친족상도례 조항의 개정 검토’ 보고서에 따르면, 형법전에 친족상도례가 처음 명문화된 것은 1810년 프랑스 형법이었다. 프랑스는 부모, 조부모, 자녀, 손주, 배우자만을 대상으로 강요‧공갈‧사기 등 재산 범죄를 형사소추를 하지 않도록 규정하고 있다. 친족상도례의 가족 관계 적용 범위가 다른 나라들에 비해 좁은 편이다.&lt;br&gt;&lt;br&gt;독일은 ‘친족’ 개념에 친·인척, 배우자, 생활동반자(동성 배우자), 약혼자, 형제자매, 양부모자녀 관계 등을 모두 포함하고 있다. 혼인 관계에 있지 않더라도 친족상도례를 적용할 수 있다는 점에서 적용 범위가 상당히 넓다. ‘가족’의 개념이 다르기 때문이라고 한다. 다만 이들 범죄는 피해자가 고소를 해야만 처벌할 수 있는 ‘친고죄’로 규정돼 있다. 대상 범죄는 절도·횡령·사기·배임 등이다.&lt;br&gt;&lt;br&gt;일본의 경우 배우자와 직계혈족, 함께 사는 친족의 절도죄, 부동산침탈죄의 형을 면해주고 있다. 하지만 그 외 친족 범죄는 ‘친고죄’로 다룬다. 우리나라와 비슷한 구조이지만 민법상 친족 범위가 한국보다 좁아 실제로는 이 특례를 받는 경우는 많지 않은 것으로 알려져 있다.&lt;br&gt;&lt;br&gt;반면 영국과 미국 등 영미법계 국가는 친족상도례 조항을 별도로 두지 않고 있다. 가족 간 범죄라도 일반 범죄와 다를 바 없이 엄격하게 처벌하고 있는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘화성 화재 참사’ 희생자… 한국인 5명·외국인 18명</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/28/HSCPFBOMYZD77OX4FMD55XGQLU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/28/HSCPFBOMYZD77OX4FMD55XGQLU/</guid>
+      <dc:creator>김수언 기자, 구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 16:03:03 +0000</pubDate>
+      <content:encoded>경기 화성 리튬 배터리 공장 화재 사고 사망자 23명의 신원 확인이 참사 3일 만에 완료됐다고 경기남부경찰청이 27일 밝혔다. 사망자 23명의 국적은 한국인 5명(남성 3명, 여성 2명), 중국인 17명(남성 3명, 여성 14명), 라오스인 1명(여성)으로 최종 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 아리셀과 인력 공급 업체인 메이셀, 한신다이아에 대한 압수 수색을 벌여 확보한 증거물을 분석하고 있다. 경찰은 리튬 배터리 제조 공정 전반과 관련한 서류를 비롯, 주요 피의자의 휴대전화 등을 압수한 상태다. 사고수습본부는 “안전한 대피 등 화재 상황에 대비한 안전 보건 관리 체계 구축 및 이행이 적정했는지 등 책임 소재를 밝히기 위해 자료를 면밀하게 분석하고 있다”고 했다. 아리셀은 국내 최대 로펌인 김앤장 법률사무소 소속 기업 형사소송 분야 전문 변호사를 선임해 경찰 조사에 대응하고 있다고 한다.&lt;br&gt;&lt;br&gt;신원이 확인된 가족의 시신을 인수하며 유족은 통곡했다. 이날 오전 경기 화성 화성중앙종합병원에서 딸의 시신을 본 채성범(73)씨는 “이게 정말 우리 딸이냐. 팔이 다 타서 없어졌다”며 “아버지가 돼서 그 위험한 공장에 이때까지 딸을 출근시켰다”고 가슴을 쳤다. 가을에 결혼할 예정이었다던 예비 신랑도 눈물만 흘렸다. 최연소 사망자 김모(23)씨의 고모가 시신을 확인하려 하자 남편은 “여보, 보지 마”라고 막아섰다. 장례식장 곳곳에서 “보시면 큰 충격을 받는다”며 만류하는 관계자들과 “내 가족 마지막 모습은 꼭 봐야겠다”는 유족들이 엉켰다.&lt;br&gt;&lt;br&gt;이날 오후 중국 동포들이 밀집 거주하는 경기 안산 단원구 원곡동엔 ‘화성 공장 화재 이주민 공동 대책위원회’ 분향소를 설치했다. 이 과정에서 관할 파출소장이 “분향소는 나라를 지키다가 돌아가신 분들을 위해 설치하는 것 아닌가”라고 말한 것으로 알려졌다. 경기남부경찰청은 “큰 상처를 입었을 이주민 단체 측과 유족에게 사과하고 깊이 반성하고 있다”고 했다.&lt;br&gt;&lt;br&gt;화성=김수언·구동완 기자&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>신임 대법관 후보자에 박영재·노경필·이숙연</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/28/PS6Z5I7XGFEDDKJYQYYBUVIKLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/28/PS6Z5I7XGFEDDKJYQYYBUVIKLM/</guid>
+      <dc:creator>박강현 기자, 박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 16:02:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EPQ3ARM34JBTXMHT7RLO57FJJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박영재, 노경필, 이숙연&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조희대 대법원장은 27일 새 대법관 후보자로 박영재(55·사법연수원 22기) 서울고법 부장판사와 노경필(59·23기) 수원고법 부장판사, 이숙연(55·26기) 특허법원 고법판사를 윤석열 대통령에게 임명 제청했다. 윤 대통령이 이를 받아들이면 세 후보자는 국회 인사청문회와 본회의 인준 표결을 거치게 된다.&lt;br&gt;&lt;br&gt;박영재·노경필·이숙연 후보자는 8월 1일 퇴임하는 김선수·이동원·노정희 대법관의 후임이다. 중도 성향으로 평가되는 박·노·이 후보자가 대법관으로 임명되면 대법관 구성이 바뀐다. 대법원장과 대법관 12명으로 이뤄진 대법원 전원합의체의 ‘중도·보수’ 대 ‘진보’ 비율이 ‘8대5′에서 ‘10대3′으로 바뀐다.&lt;br&gt;&lt;br&gt;조 대법원장은 세 후보자에 대해 “국민의 재판받을 권리를 충실히 보장할 수 있는 법률 지식과 판단 능력, 사법부 독립에 대한 확고한 신념, 사회적 약자와 소수자 보호 의지를 갖췄다”고 했다.&lt;br&gt;&lt;br&gt;박 후보자는 부산 출신으로 1996년 판사로 임용돼 서울중앙지법 부장판사, 법원행정처 기획조정실장·차장 을 거쳤다. 사법연수원 교수를 지내 법률 지식도 해박하다는 평가다. 전남 해남 출신인 노 후보자는 1997년부터 법관이 됐고 서울고법 부장판사, 수원고법 수석부장판사를 지냈다. 5년간 대법원 재판연구관으로 헌법·행정 사건을 맡았으며, 재판 진행을 잘한다는 평가를 받는다. 두 사람 모두 서울대 법대를 졸업했다. 이 후보자는 인천 출신으로 포항공대와 고려대 법대를 나와 1997년 판사로 임용됐다. 2011년 여성 법관으로 처음 서울중앙지법 영장전담판사를 맡았고, 현재 대법원 산하 인공지능연구회장으로 활동하며 법학뿐만 아니라 기술에 대한 관심도 많다고 한다.&lt;br&gt;&lt;br&gt;27일 대법관 후보자로 임명 제청된 박영재 서울고법 부장판사는 법원행정처에서 근무하면서 재판연구원 증원, 형사 전자소송 시스템·미래 등기 시스템 구축, 민사 항소이유서 제출 도입을 맡아 대국민 사법 서비스 수준을 높이는 데 노력했다는 평가를 받는다.&lt;br&gt;&lt;br&gt;박 후보자는 2016년 부산고법 부장판사로 재직하면서 1세 영아를 살해한 혐의로 혐의로 기소된 18세 발달장애인에 대해 장애 특성과 정신 감정을 심층적으로 심리한 끝에 이 장애인이 범행 당시 심신 상실 상태였다고 판단해 무죄를 선고했다. 그러면서 치료감호를 명령했고, 심신 상실과 재범 위험성 및 치료 필요성에 대한 판단 기준을 제시했다.&lt;br&gt;&lt;br&gt;이날 대법관 후보자로 함께 임명 제청된 노경필 수원고법 부장판사와 이숙연 특허법원 고법판사는 재판 실무에 밝다는 평가를 받고 있다. 노 후보자는 지난 2022년 수원고법에서 ‘청담동 주식 부자’ 이모씨의 부모를 살해한 살인범의 항소심을 맡아 1심이 피고인에게 국민참여재판 의사를 물어보지 않아 절차적으로 잘못됐다고 지적한 바 있다. 노 후보자는 사건을 1심으로 돌려보내면서, 피해자에게 법원의 잘못으로 다시 재판하게 됐다며 사과했다. 작년에는 정신장애인이 ‘공무원 임용 면접 과정에서 차별을 받아 탈락했다’며 화성시를 상대로 낸 소송에서 “면접 과정에서 직무와 관련 없는 장애와 관련해 질문하는 것은 장애인 차별에 해당한다”고 판결했다.&lt;br&gt;&lt;br&gt;이 후보자는 2021년 서울고법 재직 시 긴급조치 9호 위반으로 체포·수감된 사람들이 정부를 상대로 낸 손해배상 청구 소송에서 “긴급조치는 위헌·무효이고 이와 관련된 공무원의 직무 행위도 위법하다”고 판단하며 국가의 배상 책임을 인정해 종전 판례의 변경을 이끌어 내는 계기를 만들었다. 이 후보자는 같은 해 피의자가 공인이거나 강력범죄 또는 성범죄를 저지른 경우 제한적으로 ‘포토라인’에 설 수 있다는 기준을 제시해 피의자 인권을 보호하는 판결을 하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가족 돈 떼먹은 가족, 이젠 처벌받는다</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/28/CMWGA25XJVDIPF2GGPNF3CFKX4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/28/CMWGA25XJVDIPF2GGPNF3CFKX4/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 16:01:35 +0000</pubDate>
+      <content:encoded>헌법재판소는 친족 사이에서 일어난 재산 범죄를 처벌하지 않고 있는 형법상 ‘친족상도례(親族相盜例)’ 규정에 대해 27일 재판관 전원 일치 의견으로 헌법불합치 결정을 내렸다. 내년 12월 31일까지 국회는 법을 개정하고, 그때까지 처벌을 면해주는 현행 규정을 중지하라고 해 사실상 위헌 결정을 내린 셈이다.&lt;br&gt;&lt;br&gt;형법 328조 1항이 규정하는 친족상도례는 직계 혈족과 배우자, 함께 사는 8촌 이내 혈족·4촌 이내 인척(동거 친족) 사이에서 발생한 절도와 사기, 횡령·배임 등 재산 범죄를 처벌하지 않도록 하고 있다. 1953년 형법 제정 때, 가족 간 재산 문제는 국가가 개입하지 않겠다는 취지로 만들어졌다. 이날 판결로 친족상도례는 도입 후 71년 만에 바뀌게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B2J2K2DAIZF57O4W3Q4SLXY5OE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌재는 이날 “현행 규정은 친족의 실질적 관계나 피해자의 처벌 의사, 피해 규모 등을 고려하지 않고 일률적으로 처벌을 면해주는 것은 불합리하다”면서 “이는 입법 재량을 일탈해 현저히 불합리하거나 불공정하다. 형사 피해자의 재판 참여 기회와 재판 절차에서의 진술권을 침해한다”고 했다. 그러면서 “과거 농경시대 대가족 사회와 달리, 핵가족과 1인 가구가 급격히 늘고 경제활동 양상도 변하면서 친족 간 경제적 유대 관계도 바뀌었기 때문에 이를 반영해야 한다”고 했다.&lt;br&gt;&lt;br&gt;법조계에선 “변화한 가족 형태와 문화 등이 반영된 결정이다” “가족 간 재산 분쟁이 급증할 것이다” 등 다양한 반응이 나왔다.&lt;br&gt;&lt;br&gt;한편, 헌재는 먼 친척이 재산 범죄를 저질렀을 때 피해자의 고소가 있어야 처벌할 수 있도록 돼 있는 친고죄 조항(형법 328조 2항)에 대해선 합헌 결정을 내렸다. 이에 대해 “친고죄 조항은 피해자의 의사에 따라 국가형벌권 행사가 가능하게 한 것으로, 헌법에 위배되지 않는다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“프랑스처럼 비혼출산 받아들일 때 됐다… 동거 등록제 검토해야”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/06/28/EEIZK2NPTZBUFNHVHR3JX463AM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/28/EEIZK2NPTZBUFNHVHR3JX463AM/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 15:50:59 +0000</pubDate>
+      <content:encoded>김병일 전 강남대 교수는 27일 ‘저출생 위기극복, 이제 실천이 답이다’ 세미나에서 “비혼출산율이 높을수록 합계출산율도 높게 나타난다”며 “프랑스 등 유럽 국가들처럼 비혼 출산을 받아들일 때”라고 주장했다.&lt;br&gt;&lt;br&gt;국내에서는 ‘결혼 없이는 아이도 없다’는 인식이 강하다. 이런 문화 때문에 비혼(非婚)이 확산하자 출산율도 덩달아 떨어졌다. 2013년엔 32만2807건이던 혼인 건수가 지난해에는 19만3657건으로 40% 줄어들었는데, 이 기간 합계출산율은 1.19명에서 0.72명으로 39.5% 하락했다.&lt;br&gt;&lt;br&gt;김 전 교수는 “비혼 가구 등 다양한 가족 형태의 등장으로 가족 개념이 확장되고 있고, 일단 태어난 아이에 대해서는 차별 없는 지원이 이뤄지는 것이 바람직하다”며 “비혼 출산을 지원하는 법과 제도를 마련할 필요가 있고, 법률 관계를 명확하게 하기 위해 ‘프랑스식 비혼 동거 등록제도’를 우선적으로 검토할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;‘프랑스식 비혼 동거 등록제도’는 지난 1999년 도입된 시민 연대 계약(Pacte civil de solidarité)이다. 이른바 ‘팍스(PACS)’로 불리는데, 결혼하지 않은 동거 커플에게도 결혼과 유사한 법적 권리와 의무를 주는 제도다. 결혼과 비교하면 각종 복지 혜택은 그대로 받으면서 사회적·법적 부담은 덜하다는 장점이 있다. 동거인 가족과의 인척 관계가 발생하지 않고, 헤어지는 것도 결혼보다 쉽다. 이런 제도를 도입해 결혼과 출산에 대한 허들을 낮추면 출산율을 끌어올릴 수 있을 것이라는 얘기다. 한국은행도 지난해 12월 발간한 보고서에서 비혼 출산을 OECD(경제협력개발기구) 수준으로 높이면 합계출산율을 0.15명 높일 수 있다는 분석을 내놓은 바 있다.&lt;br&gt;&lt;br&gt;이와 함께 한 부모 가정에 대한 지원을 강화해야 한다는 주장도 나왔다. 토론자로 나선 송효진 한국여성정책연구원 본부장은 “비혼 출산의 걸림돌인 혼인 외 자녀에 대한 편견과 차별을 철폐하기 위한 보호조항을 신설해야 한다”고 했다. 1인 양육자가 임신·출산·양육 전 과정을 책임지는 경우가 많은 미혼모 가족을 대상으로 한 지원이 강화돼야 한다고도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 복지 얼마나 좋나… ‘글로벌 약자 지수’ 개발</title>
+      <link>https://www.chosun.com/national/regional/seoul/2024/06/28/RI6JAM7HGZHDTJTZDIRUZAXE4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/06/28/RI6JAM7HGZHDTJTZDIRUZAXE4M/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 15:48:43 +0000</pubDate>
+      <content:encoded>서울시가 지난해 노인, 장애인 등 분야의 예산과 사업 등을 평가해 점수를 매긴 ‘약자 동행 지수’를 개발한 데 이어 일본 도쿄 등 해외 다른 도시와도 비교할 수 있는 이른바 ‘글로벌 약자 동행 지수’를 개발한다. 서울의 각종 복지 서비스가 해외 주요 도시와 비교해서 어느 정도 수준인지 한눈에 볼 수 있는 지표를 만들겠다는 것이다.&lt;br&gt;&lt;br&gt;서울시는 27일 중구 동대문디자인플라자(DDP)에서 열린 ‘2024 서울 약자 동행 포럼’에서 이 같은 방향을 밝혔다.&lt;br&gt;&lt;br&gt;서울시는 지난해 약자 동행 지수를 개발했다. 노인, 장애인, 저소득층, 임신부 등을 위한 복지 서비스를 평가·분석해 매년 점수를 매기는 것이다. 분야별로 서비스 수준을 한눈에 파악해 부족한 부분을 우선 개선하겠다는 취지였다.&lt;br&gt;&lt;br&gt;미국 뉴욕은 도시 인프라와 공공 안전, 교육 등 현황을 수치화해 시민에게 공개하는데 이를 ‘약자’ 버전으로 만든 것이다.&lt;br&gt;&lt;br&gt;지난해 지수에 반영할 데이터 50개를 정하고 연구를 거쳐 최근 지수를 발표했다.&lt;br&gt;&lt;br&gt;2022년을 100으로 보면 지난해 종합 지수는 111로 전년보다 11 상승했다.&lt;br&gt;&lt;br&gt;주거, 안전, 의료·건강 분야는 지수가 올랐지만 교육·문화, 사회 통합은 지수가 하락했다.&lt;br&gt;&lt;br&gt;서울시는 앞으로 이 지수를 확대해 세계 주요 도시들 간 순위를 매길 수 있게 할 계획이다. 장기적으로 일본 모리기념재단이 매년 발표하는 ‘도시 경쟁력 순위’처럼 ‘약자 동행 순위’를 만드는 게 목표다. 서울시 관계자는 “약자 지수 순위만큼은 서울시가 주도하려는 것”이라고 말했다.&lt;br&gt;&lt;br&gt;이를 위해 임대주택 수, 장애인 보조 기기 예산 등 도시 간 직접 비교가 가능한 항목을 선정할 예정이다. 연구는 서울연구원이 맡는다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] one step at a time</title>
+      <link>https://www.chosun.com/national/nie/english/2024/06/28/SJSNKY2TMNE4RH5R6R3ZHRXDJA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/06/28/SJSNKY2TMNE4RH5R6R3ZHRXDJA/</guid>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LJSCRVO2EBCWHB4TVI7DLRTNJE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디] 분명하지 않다, 흐릿하다</title>
+      <link>https://www.chosun.com/national/nie/chinese/2024/06/28/5GB5US4N4NCXRNZQMZ3MQ2AVMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/06/28/5GB5US4N4NCXRNZQMZ3MQ2AVMQ/</guid>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LWUVE4X7UZHKVMFTE5WYEIWXQY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[입에 착착 붙는 일본어] 가짜 뉴스에 현혹되지 않다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2024/06/28/EEXMDHTNHVEVVNJ3NCQPHGDBHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/06/28/EEXMDHTNHVEVVNJ3NCQPHGDBHU/</guid>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SMIJQ5H3LZCQPOALIMY4S3XRZI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 만물박사(萬物博士)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2024/06/28/X3QPWQFLMJHWVM7LDKYAAKMK6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/06/28/X3QPWQFLMJHWVM7LDKYAAKMK6I/</guid>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZZHEZSATJFGIZKGQMMECSWVCTU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2409] 칙칙폭폭 꼬리 잇기</title>
+      <link>https://www.chosun.com/national/nie/2024/06/28/PHSIGQZ7SZCT3MCUPHVR4ABWF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/28/PHSIGQZ7SZCT3MCUPHVR4ABWF4/</guid>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/273K6DRXZVDXPOCYAWP33SBFW4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“합의금 수억원 요구” “먼저 액수 말 안했다”</title>
+      <link>https://www.chosun.com/sports/football/2024/06/28/7PN2FDPE3JGEPJOHBA6GZGRZTE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/sports/football/2024/06/28/7PN2FDPE3JGEPJOHBA6GZGRZTE/</guid>
+      <dc:creator>이영빈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 15:36:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FDZG3XYCSFG3JGIDXFL6QSMNDQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 26일 서울 강남구에서 열린 저서 사인회에 참석한 손웅정 SON축구아카데미 감독. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;축구 선수 손흥민 아버지 손웅정 SON축구아카데미 감독이 아동 학대 혐의로 피소된 뒤 피해자 측으로부터 합의금을 요구받으면서 ‘손흥민 선수 이미지 마케팅 하는 비용이 얼만데, 돈이 아까운 것이냐’는 취지의 말을 들었다고 주장했다. 이에 손 감독은 “이 사건을 절대로 흥민이와 결부시키지 말라”고 강조했다고 한다. 피해 아동 측은 “사실과 다르다. 피해 부모는 합의 액수에 대해 먼저 이야기를 꺼낸 적 없다. ‘손흥민 이미지 비용’ 관련 이야기도 안 했다”고 반박했다.&lt;br&gt;&lt;br&gt;앞서 손 감독과 손흥민의 형 손흥윤 등 축구아카데미 코치 2명은 지난 3월 아카데미에서 축구를 배우던 중학생 A군으로부터 고소를 당했다. A군 측은 같은 달 일본 오키나와 전지훈련 중 경기에서 졌다는 이유로 코치들에게 엎드린 자세로 맞아 붓고 피멍이 들었다고 했다. 또, 손 감독에게 수시로 심한 욕설을 들었고, 목덜미를 붙잡히고 밀쳐졌다고 고소장에 적었다.&lt;br&gt;&lt;br&gt;A군이 지역 아동 상담센터에 진술한 내용을 보면 손흥윤 수석코치는 A군을 욕하고 때려 전치 2주 부상을 입혔다. A군은 “(손 코치가) 달리기로 시간 안에 못 들어오면 맞는다 했다. 장난인 줄 알았는데 네 명이 맞았다”고 했다. 손 감독도 A군에게 “X새끼 완전 또라이네” “한 번만 더 하면 진짜 짐 싸서 집에 보낼 거야. X새끼야” 등 강압적 태도로 욕설을 반복했다고 말했다. 경찰은 조사 결과 혐의가 있다고 보고 지난달 사건을 검찰로 넘겼다.&lt;br&gt;&lt;br&gt;손 감독 측은 “손 감독은 평소 훈련 분위기가 느슨해지면 ‘이 새끼들아, 너희 부모님이 주신 피 같은 돈으로 여기까지 왔어. 정신 바짝 차리고 하나라도 얻어 가. 계속 이렇게 슬렁슬렁 경기 뛸 거면 짐 싸서 집에 가. 내일부터는 똑바로 해! 알았어?’라는 식으로 독려한다. 이 과정에서 욕설이 나올 때도 있다. 다만 특정인에게 ‘또라이’ ‘X새끼’ 같은 말을 한 적은 없다”고 주장했다.&lt;br&gt;&lt;br&gt;또 전지훈련 당시 코치들이 선수들에게 체벌을 한 건 맞지만, 학부모들이 보는 앞이었다고 했다. 손 감독 측은 “처음 외국 전지훈련을 나오니 분위기가 너무 들떠 쇄신이 필요하다고 보고 체력 훈련을 했다. 막바지에 ‘하프라인 찍고 20초 안에 못 들어오면 한 대 맞는다’라고 했고, 다들 동의했다. 20초 안에 못 들어온 선수들을 코너킥 플라스틱 봉으로 한 대씩 때린 것”이라고 전했다. A군 측은 “그때 A군 부모는 현장에 없었고 실제 부모들이 함께 있었는지 아닌지 아직 알 수 없다”고 했다.&lt;br&gt;&lt;br&gt;A군 측은 “손 감독은 아무 연락 없이 변호사를 통해 ‘처벌 불원서를 작성해 제출할 것’ ‘언론에 절대 알리지 말고 비밀을 엄수할 것’ 등 3가지를 조건으로 제시하면서 약속을 지키면 주겠다는 합의금을 조금씩 올렸다. 이런 태도에 피해자 부모가 화가 나서 5억원을 달라고 대꾸했을 뿐 진지하고 구체적인 논의는 아니었다”고 했다.&lt;br&gt;&lt;br&gt;반면 손 감독 측에 따르면 A군 부모는 처음부터 합의금 수억원을 원했고 이 과정에서 손흥민 선수를 언급했다. 이후 손 감독 측이 3000만원 이상은 곤란하다는 태도를 고수했고, A군 측이 이후 합의금 금액을 조금씩 낮춰서 몇 차례 다시 수정 제안했지만 5월 말 합의가 최종 결렬됐다.&lt;br&gt;&lt;br&gt;손 감독 측 법률 대리인 김형우 법무법인 명륜 변호사는 “손 감독은 ‘우리가 한 행동이 잘못됐다고 하면 그냥 처벌받겠다. 굳이 많은 돈 주고 합의해서 나쁜 선례를 만들 필요 없다’는 입장”이라고 전했다.&lt;br&gt;&lt;br&gt;A군 측은 ‘손 감독이 사과도 하지 않았다’고 지적했고, 이에 대해 김 변호사는 “손 감독이 직접 연락하거나 찾아가면 더 큰 마찰이 생길 것을 우려해 대신 고소당한 며칠 뒤 손 코치 등 2명이 A군이 사는 곳에 가서 사과했다”고 해명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[인사] 교육부 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/06/28/AAWVLU3RQVHB3PZDQQ3PZKML2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/06/28/AAWVLU3RQVHB3PZDQQ3PZKML2Y/</guid>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 15:35:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;교육부&lt;/b&gt;▷영유아정책국장 강민규▷영유아지원관 박대림▷교원정책과장 이혜진▷영유아정책총괄과장 남점순▷영유아안전정보과장 이소영▷전남대 여수캠퍼스 행정본부장 박준성▷사회정책총괄담당관 나현주▷디지털인프라담당관 김도영▷글로벌교육정책담당관 나은종▷고등직업교육정책과장 김태경▷청년장학지원과장 이양주▷사학분쟁조정위원회지원팀장 이운식▷교실혁신지원과장 김한승▷학생맞춤통합지원과장 하진혜▷영유아재정과장 이승묵▷영유아기준정책과장 민미홍▷영유아교원지원과장 최경▷교육보육과정지원과장 유현종&lt;br&gt;&lt;br&gt;▲&lt;b&gt;보건복지부&lt;/b&gt;▷사회복지정책실장 이스란▷보건의료정책실장 정윤순&lt;br&gt;&lt;br&gt;▲&lt;b&gt;국토교통부&lt;/b&gt;▷해외건설지원과장 천재민▷항공운항과장 강정현▷공항건설팀장 이호준〈서울지방국토관리청〉▷도로관리국장 박국준〈대전지방국토관리청〉▷예산국토관리사무소장 전재이〈익산지방국토관리청〉▷광주국토관리사무소장 민인홍▷순천국토관리사무소장 정권일〈부산지방항공청〉▷항공관제국장 강경범&lt;br&gt;&lt;br&gt;▲&lt;b&gt;국세청&lt;/b&gt;◇국장급 전보▷감사관 김지훈&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 권말분씨 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/06/28/AOTES7CKMNDYDKJE3XEEZFVDR4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/06/28/AOTES7CKMNDYDKJE3XEEZFVDR4/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 15:35:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;권말분&lt;/b&gt; 별세, &lt;b&gt;김치영&lt;/b&gt; 前 경상북도청소년육성재단 대표·&lt;b&gt;김지미&lt;/b&gt;·&lt;b&gt;김선미&lt;/b&gt;·&lt;b&gt;김치규&lt;/b&gt; 경운대 에너지소재공학과 교수 모친상, &lt;b&gt;김태식&lt;/b&gt; 미국 시애틀대 교육학과 교수·&lt;b&gt;이성문&lt;/b&gt; 대경영상의학과 의원 원장 장모상, &lt;b&gt;박경순&lt;/b&gt; 시모상, &lt;b&gt;김정은&lt;/b&gt;·&lt;b&gt;김성훈&lt;/b&gt; 이종배 국회의원 보좌관 조모상=26일22시50분 대구성심병원, 발인 28일11시, (053)651-1024&lt;br&gt;&lt;br&gt;▲&lt;b&gt;노상준&lt;/b&gt; 별세, &lt;b&gt;노현숙&lt;/b&gt;·&lt;b&gt;노원옥&lt;/b&gt;·&lt;b&gt;노미오&lt;/b&gt; 부친상, &lt;b&gt;성기동&lt;/b&gt; 중소기업중앙회 홍보실장 장인상=27일9시 부산 동아대학교병원, 발인 29일7시30분, (051)256-7070&lt;br&gt;&lt;br&gt;▲&lt;b&gt;최진일&lt;/b&gt; 단국대 신소재공학과 명예교수 별세, &lt;b&gt;김계자&lt;/b&gt; 남편상, &lt;b&gt;최윤희&lt;/b&gt; 흥국증권 종합금융팀 부장·&lt;b&gt;최민수&lt;/b&gt; LG이노텍 DM개발팀 근무·&lt;b&gt;최윤영&lt;/b&gt; 서울 피아노앤공감 원장 부친상, &lt;b&gt;서동희&lt;/b&gt; 서울 같은마음정신건강의학과의원 정신과 전문의 장인상, &lt;b&gt;김유경 &lt;/b&gt;시부상=27일1시45분 국립중앙의료원, 발인 29일5시40분, (02)2262-4800&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[알립니다] 우리 아이 기부 소식, 액자에 담아 간직하세요</title>
+      <link>https://www.chosun.com/special/announcement/2024/06/28/57NTNE24CNBEXDT3KKJ456C57U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2024/06/28/57NTNE24CNBEXDT3KKJ456C57U/</guid>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/44FOFRTVTVFMZE3OLUDHKERKUE.jpg"&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 우리 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 21일 ‘우리 아이 이름으로 초록우산에 기부했어요’ 코너에 실린 유라미·조주환 부부 아이 조승윤&amp;lt;사진&amp;gt;이 이번 주 주인공입니다. 자세한 내용은 홈페이지(&lt;a href="http://reprint.chosun.com/" target="_blank"&gt;reprint.chosun.com&lt;/a&gt;)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2024년 6월 28일</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/28/MFX6EBLRBNGZZO7Q5WSSL63G6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/28/MFX6EBLRBNGZZO7Q5WSSL63G6A/</guid>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/63OU4M66XVFIZGDOFZKFHOCY5U.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>피겨 이해인 “미성년자 성추행? 연인이었다” 후배선수 “정신과 치료 중”</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/28/DDCE6QB5AND55M53DRF4OCOKU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/28/DDCE6QB5AND55M53DRF4OCOKU4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 15:18:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FA3Q7DDEZJO7NIW4KTTDX4J5KM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;피겨 이해인 선수. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해외 전지훈련 기간에 술을 마시고 미성년자 후배를 성추행한 혐의로 3년 자격정지 징계를 받은 여자 피겨 국가대표 이해인 선수(19)가 “후배와 연인 관계였다”고 주장했다. 이에 대해 해당 후배 선수 측이 입장문을 내고 반박에 나섰다.&lt;br&gt;&lt;br&gt;A선수 측 법률대리인은 27일 입장문을 통해 “두 사람의 교제는 사실이나, 이해인의 행동에 A선수가 매우 당황하고 놀랐으며 현재 정신적 충격으로 치료를 받고 있다”고 했다.&lt;br&gt;&lt;br&gt;법률대리인은 “두 선수는 2023년에 약 3개월 동안 교제한 뒤 이별했다”며 “피해자는 이후 이해인과 마주치지 않기 위해 노력했으나 지난달 해외 전지훈련 기간 이해인이 이야기를 하자며 숙소로 불렀고, 이해인이 다시 만나보자는 제안을 해 다음 날 그렇게 하자고 했다”고 설명했다.&lt;br&gt;&lt;br&gt;법률대리인은 “(해외 전지훈련 중) A선수가 이해인의 방을 방문한 날, 이해인은 A선수에게 성적인 행위를 했다”며 “A선수가 많이 당황하고 놀라서 곧바로 방에서 나왔다”고 했다.&lt;br&gt;&lt;br&gt;이후 A선수는 이해인에게 이별을 통보했지만 이달 중순 이해인이 A선수에게 비밀연애를 하자고 제안해 두 사람이 다시 교제를 하게 됐다고 설명했다.&lt;br&gt;&lt;br&gt;하지만 법률대리인은 “이해인은 비밀연애를 하면서 사후적인 증거 수집 등 대처를 위해 A선수에게 당시 상황에 관해 질의했다”며 “이런 사실을 깨달은 A선수는 충격을 받고 정신과 치료를 시작했다”고 주장했다.&lt;br&gt;&lt;br&gt;한편 이해인은 이날 해명문을 통해 “제가 술을 마신 것은 지금 생각해봐도 절대 해서는 안 되는 행동이었고, 계속해서 깊이 반성하고 있다”면서도 “기사에는 제가 미성년자를 성추행했다거나 성적가해를 했다고 되어 있는데, 이 부분은 사실이 아니다”라고 주장했다.&lt;br&gt;&lt;br&gt;이해인은 “서로를 좋아했던 감정이 남아 있었기 때문인지 그곳(전지훈련)에서 다시 사귀게 되었는데, 부모님께 알리고 싶지 않은 마음에 그 사실을 비밀로 하기로 했다”며 “이번 빙상연맹에서 조사를 받을 때에도 사실 그 친구와 사귀는 사이였다는 말을 할 수 없었다”고 했다.&lt;br&gt;&lt;br&gt;성적인 행위를 한 것에 대해서는 “연인 사이에 할 수 있는 장난이나 애정표현이라 생각했다. 우리가 사귀는 사이라는 것을 밝히지 못했다고 해도 이런 오해까지 받게 될 것이라고는 상상도 하지 못했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>두번째 임신에도 결혼 거부? 비난 일자... 허웅 “결혼 준비하다 갈등 생겨 무산”</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/27/WO2MRVQPBNHG3JFHRAJXXJSHS4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/27/WO2MRVQPBNHG3JFHRAJXXJSHS4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 14:27:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEB7F5ZYVRGLVCYLPVST4QHW4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;농구선수 허웅. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 여자친구를 협박 등 혐의로 고소한 프로농구 선수 허웅(31) 측은 임신한 여자친구와의 결혼을 미룬 것은 책임 회피라는 비판이 제기되자 전날 발표한 입장을 정정했다.&lt;br&gt;&lt;br&gt;허웅 측 법률 대리를 맡고 있는 김동형 변호사는 27일 국민일보와의 인터뷰에서 “허웅은 전 여자친구 A씨가 두 차례 임신했을 때마다 결혼하려 했었다”고 주장했다.&lt;br&gt;&lt;br&gt;허웅 측은 전날(26일) A씨를 공갈미수, 협박, 스토킹범죄의 처벌 등에 관한 법률 위반 등으로 고소했다는 사실을 알리면서 두 번째 임신 당시에는 A씨의 결혼 요구를 허웅 측이 거절했다는 취지로 설명했었다.&lt;br&gt;&lt;br&gt;허웅 측은 보도자료를 통해 “(두 번째 임신을 했을 때) 허웅은 A씨에게 책임질 생각이니 출산을 하자고 요청했지만 A씨는 출산을 하기 전에 결혼을 반드시 해야 한다고 주장했다. 허웅이 결혼은 조금 더 고민해 봐야 할 것 같다고 이해를 구하자 A씨는 갑자기 3억원을 요구하며 만약 자신의 요구를 들어주지 않을 경우 허웅의 사생활을 언론 등을 통해 폭로하겠다고 공갈 및 협박을 했다”고 주장했다.&lt;br&gt;&lt;br&gt;이 같은 내용이 알려진 후 온라인상에서는 “결혼을 하지 않고 어떻게 책임지겠다는 거냐?” “여자친구를 미혼모로 만들겠다는 건가?” “두 번이나 임신을 했으면 3억원 정도는 요구할 수 있는 것 아니냐” 등 오히려 A씨를 옹호하는 여론이 조성됐었다. 이 같은 비판이 쏟아지자 허웅 측이 기존 입장을 정정한 것이다.&lt;br&gt;&lt;br&gt;허웅 측에 따르면 허웅과 A씨는 2018년 말경 지인의 소개로 알게 돼 연인관계로 발전했다. 두 사람은 수차례 만남과 헤어짐을 반복하다가 2021년 12월경 최종적으로 결별했다. 이 기간 A씨는 두 번의 임신을 했으며 두 차례 모두 낙태를 했다. 첫 번째 임신 당시에는 허웅이 결혼 의사를 밝혔으나 A씨가 거절했고, 두 번째 임신 상황을 놓고 논란이 벌어진 것이다.&lt;br&gt;&lt;br&gt;김동형 변호사는 “두 번째로 임신한 2021년 5월쯤에도 허웅은 A씨에게 결혼하자는 뜻을 전했다”며 “A씨 역시 허웅의 제안에 동의해 결혼 준비를 시작했지만, 양가에 알리는 과정에서 여러 갈등이 생겼고 이에 결혼이 무산됐다”고 주장했다.&lt;br&gt;&lt;br&gt;김동형 변호사에 따르면 두 사람은 이후 주변의 도움으로 화해했고, 합의하에 두 번째 중절 수술을 진행했다. 그러다 결국 2021년 12월경 최종적으로 결별했다.&lt;br&gt;&lt;br&gt;한편 1993년생인 허웅은 ‘농구 대통령’이란 별명을 가진 허재의 큰아들로 부산 KCC 이지스에서 뛰고 있다. 동생은 수원 KT의 주전 가드인 허훈이다. 이 형제는 올스타 팬투표에서 각각 1위와 2위를 차지할 정도로 팬층이 두터운 농구계 스타다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>헌재 “뒤늦게 알게 된 상속 청구 기간, 10년 제한은 위헌”</title>
       <link>https://www.chosun.com/national/court_law/2024/06/27/7SHY57NUGJA77ALDPAXLWUSWLI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/27/7SHY57NUGJA77ALDPAXLWUSWLI/</guid>
@@ -708,55 +929,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KJUBA6KO427MMQ2BZLOEIUD7D4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;화성 리튬전지 제조공장 '아리셀' 화재 참사 사흘째를 맞은 26일 경기 화성시청 로비에 마련된 희생자 추모 합동분향소에서 추모객들이 헌화를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 24일 발생한 경기 화성 리튬전지 공장 화재 사고 사망자 3명의 신원이 추가로 확인됐다. 이로써 사망자 23명 가운데 17명의 신원이 확인됐다.&lt;br&gt;&lt;br&gt;경기남부경찰청 화성 화재사건 수사본부는 27일 “국립과학수사연구원으로부터 사망자와 유족에 대한 DNA 대조 조사 결과 추가로 3명의 신원이 확인됐다는 통보를 받아 유족들에게 알렸다”고 밝혔다.&lt;br&gt;&lt;br&gt;이들은 모두 중국인 여성으로 2명은 주거지에서 수거한 생활용품, 1명은 직계가족에게서 채취한 DNA를 통해 신원이 확인됐다. 생활용품을 통해 신원이 확인된 사망자들에 대해서는 직계가족의 DNA를 채취해 추가 확인 절차를 거칠 예정이다.&lt;br&gt;&lt;br&gt;지금까지 신원이 확인된 17명의 국적은 내국인 4명, 외국인 13명이다. 또 신원 확인을 기다리고 있는 사망자 6명은 내국인 1명, 외국인 5명이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>제주 기초질서 위반 단속했더니...적발된 9명 중 5명 중국인, 나머지는</title>
-      <link>https://www.chosun.com/national/regional/2024/06/27/W7GBRTRXNNFOLIK4ZNSKXJDKTQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/27/W7GBRTRXNNFOLIK4ZNSKXJDKTQ/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Jun 2024 00:26:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IO6YSHP47BD6DNIGEAAVLKDKYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 25일 오후 제주시내 번화가에서 중국인들이 무단횡단을 하고 있다./오재용 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에서 외국인의 기초질서 위반 행위가 이어진다는 지적이 나오자 경찰이 단속에 나섰다. 그 결과 외국 관광객과 내국인 구분없이 위반 행위가 줄줄이 적발됐다.&lt;br&gt;&lt;br&gt;제주경찰청은 지난 25일 오후 7부터 약 1시간 동안 제주시내 번화가인 신제주 제원아파트 일대 도로에서 기동순찰대 10여 명을 투입해 기초질서 계도 및 단속에 나선 결과 모두 9명을 적발했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;단속 대상 지역은 제주시 삼무공원 사거리에서 그랜드호텔 사거리까지 직선으로 약 420ｍ 거리 왕복 4차선 도로로, 횡단보도는 모두 13개가 설치돼 있다.&lt;br&gt;&lt;br&gt;경찰에 적발된 위반행위를 유형별로 보면 무단횡단 6명, 중앙선 침범 1명, 이륜차 보호장구 미착용 1명, 담배꽁초 투기 1명이다. 연령대로 보면 20대 5명, 30대 2명, 50대 1명, 60대 1명이고 성별로 보면 남성 5명, 여성 4명이다.&lt;br&gt;&lt;br&gt;특히 국적별로 보면 내국인 4명과 중국인 5명이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “영사관, 관광협회, 주요 여행사 등에 외국인 기초질서 유지 안내 관련 협조를 구하고 있다”며 “여름 관광철을 대비해 외국인 관광객 밀집지역 등을 중심으로 기동순찰대를 배치, 무질서 행위 단속을 이어가겠다”고 말했다.&lt;br&gt;&lt;br&gt;한편 올해 5월까지 제주도내 경범죄 단속 건수는 265건(외국인5)으로 이 가운데 226건에 범칙금이 부과됐고 38건에 대해선 현장 계도 등이 이뤄졌다.&lt;br&gt;&lt;br&gt;또 이달 21일까지 무단횡단 단속 건수는 353건이며 이 가운데 외국인이 248명으로 약 70.3%를 차지했다. 외국인 무단횡단 범칙금 징수율은 90.7%(248건 중 225건)로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“흥민이 훈련 시키다 신고당해”...손웅정 과거 발언 재조명</title>
-      <link>https://www.chosun.com/national/people/2024/06/27/WKRS2I6XYVG65CH4N7FQ72QRTY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/27/WKRS2I6XYVG65CH4N7FQ72QRTY/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 22:24:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B5RSMDLA3ZNULAPYGAXZHBODIU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;축구선수 손흥민의 아버지인 손웅정 SON축구아카데미 감독이 26일 서울 강남구 코엑스에서 열린 2024 서울국제도서전에서 사인회를 하고 있다. 손 감독은 소속 유소년 선수에 대한 욕설과 체벌 등 아동학대 혐의로 검찰 조사를 받고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;손흥민의 아버지 손웅정 감독과 코치진이 유소년 선수에 대한 아동학대 혐의로 고소당한 가운데, 아들을 향한 손 감독의 혹독한 훈련법이 재조명됐다.&lt;br&gt;&lt;br&gt;손 감독은 2022년 12월 방송된 tvN ‘유퀴즈 온 더 블럭’에서 신고당한 적이 있다고 밝혔다. 진행자 유재석은 “(손흥민이) 초등학교 3학년 때부터 중학교 3학년 때까지 6년간 매일 6시간씩 기본기만 했다고 한다”며 “이 훈련 모습을 보고 누가 신고를 하셨다고?”라고 질문했다.&lt;br&gt;&lt;br&gt;손 감독은 “제가 너무 혹독하니까”라며 “하루도 안 걸렀다. 추석, 설도 안 쉬었다. 친척 집에 간 일도 없다”고 답했다. 그는 “저는 아주 단순했다”며 “가장 중요한 건 행복이었다”고 했다. 그러면서 “행복하려면 자기가 운동장에서 축구를 잘해야 하지 않나. 저는 단순히 그 생각만 했다”고 했다.&lt;br&gt;&lt;br&gt;‘손흥민이 훈련에 대해 불만을 말한 적 없냐’는 물음에 손 감독은 “그런 생각이 있을 수도 있었겠지만, 자기가 좋아하는 걸 하다 보니까 열정이 나오지 않나. 성격이 저한테 엄청 혼나도 30초도 안 간다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMESCQWV3RGPJJ5R6AXSUBNUBY.png"&gt;&lt;figcaption&gt;&lt;small&gt;2018년 5월 MBC '스포츠탐험대'와의 인터뷰에서 손웅정 감독이 "흥민이를 많이 팼다"고 말하고 있다. /MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;손 감독은 2018년 5월 MBC ‘스포츠탐험대’와의 인터뷰에서는 “(손흥민은) 절대 월드클래스가 아니다”라며 “저는 흥민이를 많이 팼었다. 그래도 (흥민이는) 축구를 정말 좋아했고 지금도 그렇다”고 했다.&lt;br&gt;&lt;br&gt;손 감독은 2021년 발간한 저서 ‘모든 것은 기본에서 시작한다’에서 체벌에 관한 자신의 생각을 밝혔다. 그는 “성서를 보면 ‘아이의 마음속에 어리석음이 자리 잡고 있다’는 구절이 나온다. 유대인들은 아직도 아버지가 자식을 체벌한다. 체벌이 필요한 경우가 있다. 아이에게 ‘안 되는 건 안 되는 것’이라고 정해줘야 한다. 그리고 그에 대해서는 끝까지 타협해서는 안 된다”고 했다. 다만 “혼을 내더라도 반드시 사후 수습을 해야 한다. 감정에 휘둘려 혼을 내거나 인격을 훼손하지 않는 것. 어찌 보면 당연한 것들을 지켜야 한다”고 했다.&lt;br&gt;&lt;br&gt;손 감독은 지난 4월 그의 인터뷰집 ‘나는 읽고 쓰고 버린다’ 출간 기념 기자간담회에서는 “친구 같은 부모는 존재할 수 없다”고 자신의 교육관을 강조했다. 손 감독은 혹독한 훈련을 견뎌낸 손흥민에 대해 “자기 꿈이 여기 있는데 무슨 짜증을 왜 내겠느냐. 제가 무서워서 순순히 따랐는지도 모른다”면서 “집중력이 떨어지면 매섭게 혼냈다”고 말했다.&lt;br&gt;&lt;br&gt;손흥민 역시 어린 시절 “엄청 맞았다”고 말했다. 그는 데뷔 2년 차였던 2011년 ‘스포츠경향’과의 인터뷰에서 “아버지가 지금 와서 미안하다고 말할 정도로 많이 맞았다”며 “똑같은 실수를 반복시키지 않기 위한 ‘사랑의 매’였음을 깨달았다”고 했다. 이어 “아버지로서는 정말 자상하지만 지도자로 돌아서면 정말 무서운 분”이라며 손 감독에 대해 “축구 선배이자, 스승이며, 팬이고, 아버지”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C2U3RZLDCJJWXAOBJ4YBI3AIXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2018년 9월 12일 손흥민이 토트넘 복귀를 위해 아버지 손웅정 감독과 함께 인천국제공항 제2여객터미널 출국장으로 향하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;손 감독 교육법에 대한 평가는 엇갈린다. BBC 스포츠는 2019년 손 감독을 다룬 기사에서 “과거 손흥민에게 몇 시간이나 공을 바닥에 떨어뜨리지 않는 징벌적 연습을 시켰다. 더 혹독한 징벌도 있었다”며 ‘징벌’이라고 표현했다. 다만 “손흥민은 이를 부모의 사랑으로 받아들이고 자신의 경험으로 승화시켰다”며 “그 결과 손흥민은 어느 록스타보다 더 열광적인 한국 팬들의 열렬한 사랑을 받고 있다”고 분석했다.&lt;br&gt;&lt;br&gt;한편, 손 감독과 손흥민의 형 손흥윤 수석코치, A코치 등 ‘SON축구아카데미’ 코치진들이 아동복지법상 아동학대 혐의로 송치돼 검찰 조사를 받고 있다.&lt;br&gt;&lt;br&gt;지난 3월 이 아카데미를 다니던 중학생 B군은 고소장에서 “일본 오키나와 전지훈련 중 코치가 코너킥 플라스틱 봉으로 허벅지 부위를 때렸다”고 주장했다. 또 “경기 중 실수를 했다는 이유 등으로 심한 욕설을 들었고, 경기에 졌다는 이유로 일정 시간 안에 도착하지 못하면 엎드린 자세로 맞았다. 허벅지가 붓고 피멍이 들 정도였다”고 했다.&lt;br&gt;&lt;br&gt;손 감독은 입장문을 내고 “마음의 상처를 받은 아이와 가족들께 깊은 사과의 뜻을 전한다”며 “제 모든 것을 걸고 맹세컨대 아카데미 지도자들의 행동에 있어서 아이들에 대한 사랑이 전제되지 않은 언행은 없었다”고 했다. 그러면서 “원만한 해결을 위해 노력했지만, 수억 원의 합의금을 요구해 합의에 이르지 못했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“신병 앓고 신내림 받아”…10년 만에 등장한 박철 근황</title>
-      <link>https://www.chosun.com/national/people/2024/06/27/X7VZL5OXRZBXVJELALXV4SIGDI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/27/X7VZL5OXRZBXVJELALXV4SIGDI/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 22:03:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7XM4J5Q3YNFZROP6ID4PSMYNLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 박철이 연기 중단 10년 만에 방송에 출연해 근황을 밝혔다./MBN '가보자GO' 시즌2 예고편&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 박철(55)이 연기를 중단한 지 10년 만에 방송에 출연해 무속인이 된 근황을 밝혔다.&lt;br&gt;&lt;br&gt;박철은 최근 공개된 MBN ‘가보자GO’ 시즌2 예고편에 등장했다. 본방송은 오는 29일 방송된다.&lt;br&gt;&lt;br&gt;30초 분량의 이 영상에는 박철이 그동안 신병을 앓고 신내림을 받았다는 사실과 함께 그가 한복을 차려입고 굿을 하는 듯한 모습이 담겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MGA3FYXW4RBCXIGDQEENVM74U4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 박철./MBN '가보자GO' 시즌2 예고편&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박철은 드라마 ‘별은 내 가슴에’ ‘우리들의 천국’ 등에 출연하며 1990년대를 대표하는 스타로 손꼽혀왔으나, 지난 10년 간 돌연 방송에서 모습을 감췄다.&lt;br&gt;&lt;br&gt;예고편 영상 말미에는 박철이 “신내림을 받으신 건가요?”라는 질문에 “방송을 통해 처음 말씀 드린다”며 그간 어떤 삶을 살아왔는지에 대해 운을 떼는 모습이 담겼다.&lt;br&gt;&lt;br&gt;앞서 박철이 신내림을 받은 소식은 작년 12월 유튜브 채널 ‘베짱이엔터테인먼트’를 통해 전해졌다.&lt;br&gt;&lt;br&gt;그는 이 채널 영상을 통해 “23년째 힘들다. 잠도 못 자고 몸도 망가졌다”며 무속인을 찾아갔다. 이후 신내림 굿을 받은 박철은 “조상님들을 봤다”면서 “몸이 너무 가볍다. 나는 (무속을) 부정했던 사람인데 이제는 존중하기 시작했다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/HVLMUDFT35A6NKK4WTDC62YY7Q.jpg?width=421&amp;height=316&amp;auth=76923ea001f87a9f3560b4d71c3878f7c803740dcb72c80ed984a9c68d7c2d4d&amp;smart=true" type="image/jpeg" height="316" width="421">
-        <media:description type="plain">배우 박철이 연기 중단 10년 만에 방송에 출연해 근황을 밝혔다./MBN '가보자GO' 시즌2 예고편</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>작년 폭우에 무너진 제방, 14%만 복구… 충남은 0%</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/06/27/4NYUDEHNRBAUDHC5KOMHR5BA5Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/06/27/4NYUDEHNRBAUDHC5KOMHR5BA5Y/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 16:01:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SP4PJXLRR5E2ZEIVANDXZPS4LI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 24일 충남 청양군 인양리 지천 일대에서 포클레인이 작년 여름 집중호우 때 무너진 제방을 다시 쌓고 있다. 이곳을 포함해 작년 여름 터진 지방하천의 85.5%가 여전히 완전히 복구되지 않았다. /박상현 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 오후 충남 청양군 지천(之川) 일대 제방 공사 현장. 포클레인 한 대가 작년 집중호우 때 터진 제방을 다시 쌓고 있었다. 옆으로는 넓은 논이 펼쳐져 있었다. 물난리가 났던 작년 여름에 모두 잠겼던 곳이다. 제주와 남부 지방에 이미 장마가 시작됐고, 장마전선이 언제 북상할지 모르는 상황에서 아직도 하천 정비를 끝내지 못한 것이다.&lt;br&gt;&lt;br&gt;26일 환경부에 따르면, 작년 여름 집중호우 때 제방이 터진 지류·지천(지방하천) 372곳 가운데 현재 복구가 완료된 곳은 54곳(14.5%)에 불과한 것으로 나타났다. 지역별로는 충남이 131곳으로 피해가 가장 컸으나 현재까지 복구가 완료된 곳은 한 곳도 없다. 경북은 112곳 중 2곳, 충북은 61곳 중 22곳, 전북은 45곳 중 26곳, 세종은 23곳 중 4곳만 복구가 이뤄졌다. 기상청은 올여름 기상 전망에서 7~8월에 예년보다 많은 비가 내릴 것으로 예상했다. 이대로면 작년 ‘오송 참사’ 같은 피해가 반복될 수도 있는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SRNX4XOTDRG77LVR6NS4LEHS4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지류·지천의 복구가 더딘 것은 지자체 사업 우선순위에서 하천 관리가 밀리고 있기 때문으로 분석된다. 원래 하천 정비는 정부가 30~50%, 지자체가 50~70%의 비용을 부담해왔다. 그런데 문재인 정부 때 재정분권이 시행되면서 지자체 세수를 늘려주는 대신 하천 정비를 포함한 국가 주요 사업이 지자체로 넘어갔다. 그러자 하천 정비 같은 생색 나지 않는 사업들은 지자체가 신경을 쓰지 않고 있는 것이다. 작년에 제방이 무너진 지류·지천 중 복구가 끝난 것이 15%에 불과한 것도 이 때문으로 보인다. 작년 ‘오송 참사’가 발생한 세종·청주 일대 미호강은 환경부가 관리하는 국가 하천이라서 일찍이 복구가 끝났다.&lt;br&gt;&lt;br&gt;지난해 지방 하천의 홍수 피해가 컸던 것은 2013년 한강·금강·낙동강·영산강 본류(本流)를 정비한 ‘4대강 사업’이 끝나고 이를 지류·지천으로 확대하지 못한 것이 한 원인으로 꼽힌다. 4대강 사업은 강바닥을 준설해 ‘물 그릇’ 크기를 넓히고, 제방을 쌓아 올려 홍수를 예방하며, 보(洑)를 설치해 가뭄을 예방하는 것이 목적이다. 본류는 물그릇을 키우고 주변을 정비한 덕에 여름철 집중호우도 버틸 수 있었다. 하지만 4대강 사업에서 제외된 지방 하천은 흙으로 쌓아올린 제방 정도뿐이라서 집중호우에 속수무책으로 당한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6P4MLBFRFZBSBENIKV5YUIRODA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년에 뚫린 제방, 아직도 공사 중 - 지난 24일 충남 청양군 지천 일대에서 포클레인이 작년 여름 집중호우 때 무너진 제방을 다시 쌓고 있다. 이곳을 포함해 작년 여름 터진 지방하천의 85.5%가 아직도 완전히 복구되지 않았다. 하천 관리가 지자체 사업의 우선순위에서 밀리기 때문이라는 분석이 나온다. /박상현 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일부 지자체는 작년 홍수 때 제방이 터지고 민가와 농지가 물에 잠긴 원인을 댐 탓으로 돌리기도 했다. 작년 7월 14~15일 집중호우로 논산천과 산북천이 범람하자 충남도지사와 전북도지사는 110㎞ 상류에 있는 대청댐의 방류 때문이라고 밝혔다. 그러나 논산천은 이 일대에 많은 비가 내리면서 이미 14일에 최고 수위에 도달했고, 대청댐이 방류량을 늘린 것은 15일이었다. 논산천에서 14㎞ 떨어진 산북천도 비슷한 상황이었다. 오히려 대청댐이 물을 막아준 덕에 하류로 내려간 물이 초당 5178t에서 1300t으로 줄어든 것으로 나타났다.&lt;br&gt;&lt;br&gt;전문가들은 지방하천의 홍수 피해를 막기 위해선 지자체가 아니라 국가가 관리하는 하천을 늘려야 한다고 지적한다. 현재 우리나라 국가하천 비율은 13.75%로 일본(61%)의 4분의 1 수준이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“전공의 1명 대체하려면 전문의 2~4명 뽑아야”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/06/27/WL3VVEXGUVGXRIQRLIMENICVGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/27/WL3VVEXGUVGXRIQRLIMENICVGU/</guid>
-      <dc:creator>조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 20:02:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2W4EVCS44BPWRH2SDMFLFIZOJA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;26일 서울시내 한 대학병원에 전공의 이탈 관련 호소문이 붙어 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의대 증원에 반발해 지난 2월 전공의 1만명이 집단 이탈하자, 정부는 “중환자를 치료하는 대형 병원을 지금의 전공의 중심에서 전문의 중심 병원으로 만들겠다”고 발표했다. 그러자 의료계에선 “인건비가 훨씬 늘어날 것”이라고 지적했다.&lt;br&gt;&lt;br&gt;병원 상황과 규모에 따라 다르지만, 의료계 인사들은 “지금의 전공의 한 명을 대체하기 위해선 전문의 두 명에서 네 명이 필요하다”고 보고 있다. 현행법상 전공의는 주 80시간을 넘겨 일할 수 없게 돼 있지만, 입원실과 응급실을 지키며 장시간 초과 근무를 하는 경우가 비일비재했다. 서울의 한 대형 병원 외과 교수는 “지금은 전공의가 한 달에 야간 당직을 8번 정도 한다”며 “전문의가 한 달에 2번 당직 근무를 선다고 하면 4명이 필요한 셈”이라고 했다.&lt;br&gt;&lt;br&gt;전공의 1명을 전문의 2명으로 대체하면 임금은 최소 6배, 전문의 4명으로 대체하면 최소 12배 더 줘야 한다. 전문의 연봉이 전공의 연봉의 3~4배이기 때문이다. 전공의 연봉은 세전 6000만~7000만원 수준이다. 전문의 평균 연봉은 2020년 기준 2억3689만원(세전)이다.&lt;br&gt;&lt;br&gt;정부는 생명과 직결되는 응급의학과, 소아과, 산부인과 등 필수 진료과의 수가(건보공단이 병원에 주는 돈)도 대폭 올리겠다고 했다. 여기에 ‘전문의 중심 병원’까지 만들려면 건보 재정이 단기간에 고갈될 수 있다는 지적이다. 건보 재정은 현행 유지만 해도 올해 1조4000억원 적자를 시작으로, 2028년이면 25조원 규모의 적립금이 모두 고갈될 전망인데, 이렇게 되면 훨씬 빨리 동날 수 있다는 뜻이다.&lt;br&gt;&lt;br&gt;전문가들은 “경미한 증상에도 대형 병원을 찾는 ‘과다 의료 수요’부터 관리해야 한다”고 말한다. 경증 환자가 대형 병원의 외래진료나 응급실을 이용할 경우 본인 부담금을 대폭 늘리는 식으로 건보 재정 누수부터 막아야 한다는 얘기다.&lt;br&gt;&lt;br&gt;김한중 전 연세대 총장은 “필수 의료 수가 등을 올리려면 보험료도 인상할 수밖에 없다는 것을 국민에게 솔직히 알려야 한다”고 했다. 경제협력개발기구(OECD)의 2022년 통계에 따르면, 우리나라 국민이 한 해 동안 의료 서비스 이용에 지출한 돈의 총액인 ‘경상의료비’는 국내총생산(GDP)의 8.4%로 OECD 평균(9.7%)보다 낮다. 미국(18.8%)의 2분의 1 수준이다. 이철 전 연세의료원장은 “파이(건보 재정)가 일정하기 때문에 (의료 개혁을 위해선) 담뱃세든 복권기금이든 다른 재원을 마련해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“전공의 아닌 전문의 중심으로… 비용 더 들더라도 병원 변해야”</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/06/27/DS6BDFDKGVBFLLROR6CPKCPDUA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/27/DS6BDFDKGVBFLLROR6CPKCPDUA/</guid>
@@ -764,164 +936,6 @@
       <description/>
       <pubDate>Wed, 26 Jun 2024 20:00:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NIEGTAXXDJADZPAQQWREZUUSZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;병동 회진하는 입원의학과장 - 26일 경기 용인 기흥구 용인세브란스병원에서 경태영(가운데) 입원의학과장이 회진 도중 간호사와 함께 환자 다리를 붕대로 감고 있다. 전문의 중심으로 운영되는 용인세브란스병원은 의정 갈등으로 인한 전공의 이탈 사태에도 정상 진료 중이다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 오전 9시 경기 용인시 기흥구 용인세브란스병원 13층 병동. 각 병실 입구 화면엔 ‘환자 서○○, 교수 경태영·박윤수’처럼 환자 이름 옆에 교수 두 명의 이름이 나란히 적혀 있었다. 환자 한 명의 주치의가 전문의 두 명인 셈이다. 한 명은 환자를 처음 보고 진료·수술한 진료과 교수, 다른 한 명은 그 환자의 입원부터 퇴원까지 책임지고 전담하는 입원의학과 교수다.&lt;br&gt;&lt;br&gt;“이 환자 오늘 상태 괜찮으면 내일 퇴원 준비하시죠.”(경태영 입원의학과 교수) “좋습니다.”(박윤수 감염내과 교수)&lt;br&gt;&lt;br&gt;두 교수가 환자 상태에 관해 얘기하는 동안 옆에선 PA(진료 지원) 간호사가 차트에 내용을 받아 적었다. 경 교수는 “주치의들끼리 소통은 직접 만나서도 하고, 급할 땐 바로 문자나 전화를 하면서 환자 상태를 공유한다”며 “용인세브란스병원 입원의학과 교수 21명이 다른 진료과 교수 100여 명과 함께 이런 식으로 협업하며 꼼꼼히 환자들을 돌본다”고 했다.&lt;br&gt;&lt;br&gt;2020년 문을 연 용인세브란스병원은 국내에서 가장 대표적인 ‘전문의 중심 대학 병원’이다. 신생 병원이라 전공의인 레지던트 수는 17명밖에 안 된다. 그마저도 대부분 지난 2월 사직서를 내고 출근하지 않고 있다. 그럼에도 지난 4년간 잘 운영될 수 있었던 데는 이 병원 입원의학과 교수(입원 전담 전문의)들의 역할이 컸다.&lt;br&gt;&lt;br&gt;‘입원 전담 전문의’는 전국에 320여 명 있다. 이들을 두고 있는 병원은 60여 곳 되지만, 용인세브란스병원은 대부분 병원과 달리 ‘입원의학과’를 별도 과로 만들었다. 또 소속 전문의들을 계약직이 아닌 임상 교수로 채용했다. 김은경 병원장은 “환자, 기존 교수뿐만 아니라 교육·수련에 집중해야 할 전공의들을 위해서도 ‘전문의 중심 병원’이 뉴노멀(new normal·새 표준)이라고 믿고, 병원 차원에서 힘을 실었던 것”이라고 했다.&lt;br&gt;&lt;br&gt;용인세브란스병원 입원의학과 교수 21명은 내과·외과·소아청소년과 등 10개 진료과 전문의 자격증을 갖고 입원 환자 15~25명씩을 맡고 있다. 최초 진료·수술을 시행한 교수와 별도로 회진을 하고 입원 병동에서 계속 환자를 챙긴다. 환자 상태와 치료 계획은 기존 진료과 교수들과 수시로 상의한다. 무엇보다 환자들이 반긴다.&lt;br&gt;&lt;br&gt;지난 18일 폐렴으로 입원한 85세 환자의 아들 김모(52)씨는 “주치의 교수님은 (외래) 진료도 따로 보시기 때문에 회진 때를 빼면 뵙기 쉽지 않다”며 “입원의학과 교수님이 계속 병동에 계시니 중간중간 처치가 필요할 때마다 말씀드리고 치료 경과도 여쭤볼 수 있어서 좋다. 주치의가 바로 곁에 있다는 느낌이 든다”고 했다.&lt;br&gt;&lt;br&gt;2016년 시범 사업으로 시작한 ‘입원 전담 전문의’ 제도 자체에 대한 만족도도 높다. 지난해 환자단체연합회 조사에선 입원 전담 전문의의 치료를 경험한 환자 10명 중 8명(82.7%)이 “만족한다”고 응답했다. 또 지난해 건강보험심사평가원에 따르면, 입원 전담 전문의 제도 도입 후 ‘환자 재원 일수’와 ‘입원 1건당 비용’도 각각 0.36일, 9만717원 감소한 것으로 나타났다.&lt;br&gt;&lt;br&gt;하지만 용인세브란스병원처럼 성공적으로 정착한 경우는 드물다. 입원 전담 전문의가 그만두고 개원의로 돌아가는 경우도 많다. 낮은 수가(건강보험공단이 병원에 주는 돈), 계약직 등으로 불안정한 지위, 교수·전공의 관계로 대표되는 병원 내 수직적·경직적 문화 때문이다. 경태영 교수는 “건보 수가로는 인건비의 절반 정도만 보전되는 수준”이라며 “나머지 인건비는 병원에서 부담하는 식이라 병원 부담이 만만찮다”고 했다.&lt;br&gt;&lt;br&gt;용인세브란스병원도 개원 초기엔 기존 진료과 교수들과 입원의학과 교수들이 부딪히는 경우가 종종 있었다. 입원의학과 설립을 주도했던 김수정 교수는 “병원 차원의 추진 의지, 기존 진료과 교수님들의 양보·배려가 컸다”고 했다. 김은경 병원장은 “당장 눈에 보이는 수지만 따질 것이 아니라, 기존 교수들이 외래·수술에 더 집중할 수 있도록 하는 등 입원의학과가 ‘환자 안전’과 ‘의료의 질’에서 조용하지만 큰 기여를 하고 있다”고 했다.&lt;br&gt;&lt;br&gt;용인세브란스병원은 아직 적자를 보고 있지만, 매출·영업이익 모두 개선되고 있다. 지난해보다도 올해 더 나아졌다. 전문의 중심 병원인 만큼 전공의 이탈로 인한 타격이 적었다.&lt;br&gt;&lt;br&gt;다만 입원의학과 교수들은 “용인세브란스병원이 전공의가 많지 않은 전문의 중심 병원이지만, 우리 역할은 ‘전공의 대체’가 아니다”라고 말한다. 입원의학과 교수들은 환자 진료뿐만 아니라 논문 작성, 간호사 교육 등 다양한 영역을 담당한다. 전공의 교육까지 이들이 맡을 수 있다. 전공의는 교육·수련에 더 집중할 수 있는 환경인 셈이다. 전문의 중심 병원을 위해선 숙련된 PA 간호사는 물론 의료 인력의 부담을 덜어줄 스마트 병원 시스템도 필요하다. 용인세브란스병원은 중증 환자의 심전도·혈압 등 상태를 실시간으로 모니터링하면서 위험 징후가 뜨면 주치의들에게 바로 메시지를 보내는 IRS(통합반응상황실) 등도 갖추고 있다.&lt;br&gt;&lt;br&gt;정부는 이미 ‘전문의 중심 병원’으로의 전환을 추진하겠다고 선언한 상태다. 그러나 의료계에선 “대대적인 지원·투자 없이는 입원 전담 전문의 제도도 유지하기 어려울 것”이란 지적이 나온다. 정부의 지원 없인 값싼 전공의 인력에 의존할 수밖에 없는 구조를 탈피하기 어렵다는 것이다. 용인세브란스병원 신준재 신경외과 교수는 “전문의 중심 병원은 전공의 없는 병원이 아니라, 전공의가 ‘더 뛰어난 전문의’로 양성되도록 돕는 병원”이라며 “각 병원마다 처한 사정이 다르고, 기존 전공의 의존도가 컸던 병원은 입원 전담 전문의도 대거 채용하기엔 부담이 크다”고 했다.&lt;br&gt;&lt;br&gt;김수정 교수는 “같은 의료비 지출로 두 명의 교수 주치의가 생길 순 없다”며 “정부뿐만 아니라 환자와 국민도 전문의 중심 의료가 그냥 주어지는 서비스가 아니라 ‘더 비싼’ 의료라는 점을 받아들일 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞전공의·전문의·전임의&lt;/b&gt;&lt;br&gt;&lt;br&gt;의대를 졸업하고 국가고시를 치러 의사 면허를 받은 사람을 ‘일반의’라고 한다. ‘전공의’는 의대 졸업 후 전문의 자격을 따기 위해 종합병원 등에서 수련하는 인턴과 레지던트를 말한다. 레지던트를 거친 뒤 특정 분과에서 자격을 인정받으면 ‘전문의’가 된다. 이후 대형 병원에서 1~2년 세부 전공을 공부하며 진료하는 의사를 ‘전임의’(펠로)라고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘故구하라 금고털이’ 범인, 선명한 고화질 CCTV 사진 화제</title>
-      <link>https://www.chosun.com/national/people/2024/06/27/ULHNQAWVUBDLPNI2YBC6TTDWGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/27/ULHNQAWVUBDLPNI2YBC6TTDWGY/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 15:34:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V5CSCKAN2ZEITB2QXHB5A3PRVM.png"&gt;&lt;figcaption&gt;&lt;small&gt;고 구하라 자택에 침입해 금고를 훔쳐 달아난 용의자 모습이 담긴 CCTV 사진./온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 카라 고(故) 구하라의 자택에 침입해 고인의 휴대폰이 보관돼 있던 금고를 훔친 용의자의 고화질 사진이 공개돼 화제를 모으고 있다.&lt;br&gt;&lt;br&gt;26일 여러 온라인 커뮤니티에는 SBS ‘그것이 알고 싶다’(그알)에서 공개된 CCTV 속 용의자의 모습을 고화질로 복원한 사진이 올라왔다.&lt;br&gt;&lt;br&gt;공개된 사진을 보면 야간 촬영으로 인해 생긴 안광을 제거한 용의자의 모습이 포착됐다. 이 사진은 AI(인공지능) 업스케일링 기법으로 화질을 높여, CCTV 원본 화질보다 선명해 범인의 얼굴을 식별할 수 있는 게 특징이다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “대박이다. 범인 금방 잡힐 것 같다” “너무 끔찍하고 기괴하다. 어떻게 고인 집에 들어가서 뭘 훔칠 생각을 하냐” “누군지는 몰라도 진짜 나쁜 사람이다. 진범 꼭 잡히길 바란다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;앞서 지난 22일 방송된 그알에서는 고 구하라 금고 도난 사건의 용의자 몽타주가 공개됐다. 이 사건은 구하라 사망 후인 2020년 1월 14일 자정쯤 발생했다. 당시 누군가가 서울 청담동 소재 구하라 자택의 벽을 타고 침입해 고인의 휴대폰이 보관된 개인금고를 훔쳐 달아났다. 뒤늦게 금고 도난 사실을 안 유족은 경찰에 신고했으나, 용의자를 특정하지 못했고 ‘미제 편철’ 결정이 나면서 수사가 마무리됐다.&lt;br&gt;&lt;br&gt;그알 측은 당시 범인의 모습이 찍힌 CCTV 영상의 화질 개선작업과 전문가 자문을 통해 몽타주를 제작했다. 공개된 몽타주에 따르면, 용의자는 갸름한 얼굴형과 오뚝한 코를 가진 170cm 후반의 키와 건장한 체격을 가진 인물로 묘사됐다.&lt;br&gt;&lt;br&gt;방송 뒤 CCTV 영상이 공유되자 일부 네티즌들 사이에서는 범인의 몽타주가 가수 지코의 모습과 닮았다는 주장이 제기됐다.&lt;br&gt;&lt;br&gt;이에 지코 소속사 KOZ엔터테인먼트는 지난 24일 공식입장을 통해 “아티스트와 전혀 관련이 없음이 명확히 드러난 악의적 루머와 허위사실 유포 행위가 묵과할 수 없는 수준으로 심각해지고 있어 이들에 대한 강력한 법적 조치가 시급하다고 판단했다”며 “게시글 및 댓글을 채증하여 수사기관에 고소장을 제출했다”고 밝혔다.&lt;br&gt;&lt;br&gt;소속사는 “향후에도 악성 게시글을 상시적으로 채증하여 정기적으로 고소장을 접수할 예정”이라며 “최근 제기된 아티스트 관련 루머 역시 사실이 아님을 명확히 말씀드린다. 이에 대해서도 강경히 대응할 것”이라고 강조했다. 이어 “시일이 걸리더라도 끝까지 책임을 물을 것”이라며 “어떠한 경우에도 선처와 합의는 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/QP4H2CCY7NCUXESZG4M6VLKJ6I.png?width=404&amp;height=303&amp;auth=d70b69634e5bcfb4688a49f05a30d87e707792b36e5614d7758462d710d8fb49&amp;smart=true" type="image/png" height="303" width="404">
-        <media:description type="plain">고 구하라 자택에 침입해 금고를 훔쳐 달아난 용의자 모습이 담긴 CCTV 원본과 CCTV 원본을 선명하게  한 사진./온라인 커뮤니티</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>[인사] 목원대 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/06/27/RSYQCGVHMVCADFAP4CGO2TM5IU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/06/27/RSYQCGVHMVCADFAP4CGO2TM5IU/</guid>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 16:31:24 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;목원대&lt;/b&gt;▷비서실장 겸 안전관리처장 박성호▷스톡스대학 교학과장 겸 미술·디자인대학 교학과장 이향미&lt;br&gt;&lt;br&gt;▲&lt;b&gt;성균관대&lt;/b&gt;▷성과분석팀장 임재환▷자연학술정보팀장 겸 인문학술정보팀장 손태익&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한국신문윤리위원회&lt;/b&gt;▷심의실장 현창국&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 류장식씨 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/06/27/ZCCEZ2JLDJFDDOJYJN4F5R4CIQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/06/27/ZCCEZ2JLDJFDDOJYJN4F5R4CIQ/</guid>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 16:30:58 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;류장식&lt;/b&gt; 별세, &lt;b&gt;김반숙&lt;/b&gt; 남편상, &lt;b&gt;류현진&lt;/b&gt;·&lt;b&gt;류현경&lt;/b&gt; 배우 부친상, &lt;b&gt;심재규&lt;/b&gt; 장인상=26일5시 고려대안암병원, 발인 28일7시10분, (070)7816-0246&lt;br&gt;&lt;br&gt;▲&lt;b&gt;안경애&lt;/b&gt; 별세, &lt;b&gt;김진훈&lt;/b&gt; 수원삼성축구단 선수지원팀 프로 장모상=25일12시30분 이대서울병원, 발인 28일9시30분, (02)6986-4456&lt;br&gt;&lt;br&gt;▲&lt;b&gt;임영란&lt;/b&gt; 별세, &lt;b&gt;김준호&lt;/b&gt; 前 양주시 부시장 아내상, &lt;b&gt;김정헌&lt;/b&gt; 한국오츠카제약 매니저·&lt;b&gt;김지현&lt;/b&gt; 모친상, &lt;b&gt;한재무&lt;/b&gt; 버즈니 매니저 장모상, &lt;b&gt;고은영&lt;/b&gt; 시모상=26일9시53분 서울아산병원, 발인 28일6시40분, (02)3010-2000&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고종이 러 황제에게 선물한 장승업 그림 2점 첫 공개</title>
-      <link>https://www.chosun.com/national/people/2024/06/27/VGOGR4KDTBBMVOEQY7UPT2MYGM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/27/VGOGR4KDTBBMVOEQY7UPT2MYGM/</guid>
-      <dc:creator>정병선 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 16:28:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LSYIY4U2AZHXLD6H2PR3KOLAU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장승업 그림 ‘왕희지관아도(王羲之觀鵝圖·왼쪽)’와 ‘고사세동도(高士洗桐圖)’. 고종이 러시아 황제에게 보낸 선물 17점 중 일부로 모스크바 크렘린박물관이 소장하고 있다 /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선시대 3대 화가로 불리는 오원(吾園) 장승업(張承業·1843~1897)의 ‘고사인물도(故事人物圖)’ 2점이 128년 만에 처음 공개된다. 고사인물도는 역사 인물의 일화를 주제로 그린 그림. 이번에 공개된 고사인물도 2점은 고종이 1896년 5월 러시아 황제 니콜라이 2세 대관식을 맞아 보낸 선물 중 일부로 러시아 크렘린 박물관이 소장해온 것이다.&lt;br&gt;&lt;br&gt;러시아에 선물로 보낸 장승업의 고사인물도는 ‘노자출관도(老子出關圖)’ ‘취태백도(醉太白圖)’ ‘왕희지관아도(王羲之觀鵝圖)’ ‘고사세동도(高士洗桐圖)’ 등 총 4점이다. 고종이 니콜라이 2세에게 보낸 선물 17점에 포함된 것으로 이 중 ‘노자출관도’ ‘취태백도’ 2점은 작년 러시아에서 공개됐고, 이번에 ‘왕희지관아도’와 ‘고사세동도’가 새로 공개됐다.&lt;br&gt;&lt;br&gt;게오르기 지노비예프 주한 러시아 대사는 26일 “뿌쉬낀문화원(원장 김선명)과 함께 조러수호통상조약 140주년을 기념, 오는 7월 8일 배재학당 역사박물관에서 ‘조선과 러시아, 140년 전 맺어진 우정’을 주제로 특별 기획 전시에 나선다”며 “이 전시회를 통해 장승업의 고사인물도 미공개 작품 2점과 기존 공개된 2점 등 모두 4점이 모습을 드러낸다”고 했다. 대사는 “한국인에게 멋진 기회가 될 것으로 확신한다”고 했다.&lt;br&gt;&lt;br&gt;이번 전시회는 당초 조러수교통상조약문과 고종이 러시아 황제에게 보낸 15통의 친서 등 문서 위주로 전시회를 하려고 했다. 하지만 러시아와 문화 교류에 앞장서 온 김선명 원장이 크렘린박물관과 접촉해 장승업의 미공개 고사인물도 2점에 대한 전시 약속을 받아내면서 확대 성사됐다. 크렘린 박물관은 원본을 보내지는 않고, 영인본 전시에 합의했다.&lt;br&gt;&lt;br&gt;러시아 크렘린박물관은 앞서 지난해 2월 모스크바에서 열린 ‘한국과 무기고, 마지막 황제 대관식 선물의 역사’ 특별전을 통해 ‘노자출관도’ ‘취태백도’를 공개했다. ‘노자출관도’는 주(周)나라 벼슬을 내려놓은 노자가 함곡관을 지나 은거했던 고사를 그린 것이고, ‘취태백도’는 술을 마시고 나서야 시를 썼다는 당나라 시인 이백(이태백)을 묘사한 그림이다.&lt;br&gt;&lt;br&gt;이번 공개되는 ‘왕희지관아도’ ‘고사세동도’는 작년 2점이 공개된 지 1년 6개월 만에 추가 공개되는 것이다. ‘왕희지관아도’는 동진의 서예가 왕희지가 목이 유연하게 변하는 거위를 보고 서예의 영감을 얻은 고사를 그린 것이고, ‘고사세동도’는 원나라 화가 예찬이 집 뜰의 오동나무도 씻을 정도로 결벽증을 보인 일화를 소재로 그린 작품이다. 높이 174㎝에 이르는 대작으로 작품에 ‘吾園(오원) 張承業(장승업)’ 서명 앞에 ‘朝鮮(조선)’ 국호를 붙였다.&lt;br&gt;&lt;br&gt;윤범모 동국대 명예석좌교수는 “이번에 전시되는 장승업의 ‘고사인물도’ 2점은 존재는 알려져 있지만 실제 작품이 공개되는 것은 처음”이라며 “실물 크기의 해상도 높은 영인본 형태여서 원본을 보는 것과 다름없을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;고종은 명성황후 시해 넉 달 뒤인 1896년 2월 11일 일본군이 점령한 경복궁을 빠져나와 러시아 공사관으로 거처를 옮긴 ‘아관파천’으로 러시아를 믿고 의지해야 할 절박한 상황에서 5월 26일 러시아 황제 니콜라이 2세의 대관식을 맞아 민영환을 전권공사로 파견하며 선물 17점을 러시아 황제에게 전달했다.&lt;br&gt;&lt;br&gt;김선명 원장은 “고종이 니콜라이 2세에 보낸 선물 17점 중 13점은 크렘린박물관에, 나머지 2점은 동양박물관에 소장된 것으로 밝혀졌는데 나머지 2점(병풍)은 아직 행방이 묘연하다”고 했다. 전시 기간은 7월 8일부터 8월 31일까지.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>희생자 14명 신원 확인… 분향소에 시민들 추모 잇따라</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/27/2FU5GCUIIVHIXC6I4QIOYNWGTE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/27/2FU5GCUIIVHIXC6I4QIOYNWGTE/</guid>
-      <dc:creator>고유찬 기자, 김도연 기자, 강지은 기자, 김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 16:07:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZQXJK7LYDBCAZEW74ZOJZOYBD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 오전 경기 화성시청 로비에 마련된 화성 배터리 공장 화재 추모 분향소의 모습. 이날 오후까지 사망자 대부분의 신원이 확인되지 않아 영정도 이름도 걸리지 않았다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영정도 위패도 없었다. 26일 오전 경기 화성시청 로비에 설치된 리튬전지 공장 화재 참사 분향소는 적막했다. 이때까지 희생자 23명 중 신원 확인이 완료된 시신이 한국인 3명뿐이어서 분향소는 현수막과 국화로만 채워져 있었다. 한 중국인 어머니는 “스물여섯 살짜리 딸을 잃었는데 시신도 확인하지 못했다”고 했다. 남편을 잃은 또 다른 여성은 제단에 국화꽃을 놓다가 주저앉아 오열했다. 따라온 세 자녀도 같이 울었다.&lt;br&gt;&lt;br&gt;시민 김한종(55·서울 강남구)씨는 분향소를 찾은 뒤 “우리나라가 어려울 때 외국 나가서 고생을 많이 했다. 저분들도 똑같은 마음으로 가족을 위해 일하시다 돌아가셨다”며 “남 일 같지 않아 찾아왔다”고 했다. 윤호중(68)씨는 “중동과 말레이시아 건설 현장에서 12년간 일했던 젊은 시절이 떠올랐다”며 손수건으로 눈물을 닦았다. 참사가 발생한 아리셀 대표 박순관(64)씨도 이날 밤 분향소를 찾았다. 그는 압수수색 등과 관련한 취재진 질문에 대답하지 않고 “죄송하다”고만 했다.&lt;br&gt;&lt;br&gt;비보를 들은 중국인 유족들도 속속 입국하고 있다. 어머니를 잃은 중국인 남성 한 명은 지난 25일 밤, 인천국제공항으로 입국, 경기 화성서부경찰서에서 시신 신원 확인을 위한 유전자(DNA) 시료를 채취했다. 중국 국적 희생자 A씨의 어머니와 언니도 26일 밤 김포국제공항으로 입국했다. 화성시는 항공료와 입국 편의, 차량과 인력을 제공했다.&lt;br&gt;&lt;br&gt;유족 대부분은 시청 인근에 마련된 대기실에서 신원 파악을 기다렸다. 29세 외동딸을 잃은 한 아버지는 “사고 전날까지 딸과 연락했는데, 딸아이의 죽음을 믿을 수 없다”고 했다. 중국 헤이룽장성에서 왔다는 박모(65)씨는 이번 사고로 “조카 둘을 한꺼번에 잃었다”며 “아직 시신조차 확인하지 못해 괴롭다”고 했다.&lt;br&gt;&lt;br&gt;서울한강성심병원 중환자실에서 치료 중인 한국인 서모(45)씨는 전신 화상을 입어 의식 없이 위독한 상태다. 병원에서 만난 70세 노모는 “아들이 모르는 번호는 보이스피싱이니까 받지 말라고 해서 병원에서 오는 전화를 안 받았다”고 했다. 문자를 보고서야 뒤늦게 아들이 변을 당했다는 사실을 안 어머니는 “아이고, 우리 아들 얼굴과 다리가 퉁퉁 다 부었다. 얼마나 뜨거웠을까”라며 울었다.&lt;br&gt;&lt;br&gt;경기남부경찰청은 이날 오후 8시 56분 “사망자 11명의 신원을 DNA 대조 결과 확인했다”고 밝혔다. 한국인 여성 1명, 중국인 남성 2명, 여성 7명, 라오스인 여성 1명 신원이 추가로 확인됐다. 14명 신원이 확인됨에 따라 장례 절차 등도 본격 진행될 것으로 보인다. 경찰 관계자는 “사고 당일인 24일 국내 체류 중이던 희생자 가족 16명이 경찰에 신속한 DNA 감정을 요청해 결과가 예상보다 빨리 나왔다”고 했다.&lt;br&gt;&lt;br&gt;일부 유족은 화성시 공무원들의 해외 연락과 신원 확인 등 상담이 늦어지고 있다고 지적했다. 유가족 A씨는 본지 기자에게 “40분을 기다려 줄을 섰는데 상담은 5분 만에 끝났다”면서 “대회의실 안에 공무원이 20명 넘게 있던데, 대체 뭘 하고 있는지 모르겠다”고 했다. 지난 25일 유족들이 줄을 서서 상담을 기다리는 동안 고용노동부를 비롯한 부처 고위 관계자들이 참석한 회의 의전에 분주했다는 지적도 나왔다. 화성시 관계자는 “팀장급 공무원들을 유족들에게 일대일로 배치해 불편을 해소하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인권위 위원 6명, 사상 초유 전원위 회의 ‘보이콧’</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/27/42YUVDVVPFDULD3VPKMM22JPMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/27/42YUVDVVPFDULD3VPKMM22JPMM/</guid>
-      <dc:creator>김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 16:06:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E4NW3XSSQNL5XK2RHYALTRCSLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 오전 서울 중구 국가인권위원회에서 이충상 위원(사진 왼쪽)과 김용원 위원이 기자회견을 하는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여권(與圈)이 추천한 국가인권위원회 위원 6명(김용원·이충상·한석훈·김종민·이한별·강정혜)은 26일 서울 중구 인권위 청사에서 기자회견을 열고 “송두환 위원장의 편파적이고 법령에 어긋나는 회의 진행 방식에 항의하면서 향후 송두환 위원장이 주재하는 전원위원회 출석을 거부하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;인권위 전원위는 각종 업무 전반을 심의·의결하는 인권위 최고 기구다. 재적 인권위원 11명 중 과반 찬성으로 안건을 의결한다. 그런데 위원 6명이 출석을 거부하면 안건 의결은 물론이고 의사정족수 미달로 개회도 할 수 없다. 인권위 업무가 전원위 파행으로 마비되면 2001년 인권위 출범 이래 초유의 사태다.&lt;br&gt;&lt;br&gt;위원 6명은 지난 24일 전원위에서 ‘소위원회 의결정족수 안건’을 송두환 위원장이 표결에 부치지 않은 것을 문제 삼았다. 그동안 인권위는 인권침해 조사 등을 관장하는 소위원회에서 진정 사건을 기각하거나 각하할 때 소위원회 구성 위원 3인의 만장일치가 필요하다고 해석해 왔다. 합의 정신을 살리자는 취지로 2001년 출범 이후 이어진 전통이었다.&lt;br&gt;&lt;br&gt;하지만 이럴 경우 만장일치가 나올 때까지 가결도 부결도 아닌 교착 상태가 장기간 지속되는 문제가 있었다. 정치적으로 견해가 갈리는 진정 사건을 다룰 때면 긴장도는 더 높아졌다. 정의기억연대(정의연)가 낸 수요집회 보호 진정, 순직 해병대원 소속 대대장이 사령관을 상대로 낸 진정 등이 대표적 사례였다고 한다.&lt;br&gt;&lt;br&gt;이에 김용원·이충상 등 여권 추천 위원들은 소위에서 1명이라도 반대하면 ‘의결되지 않은 안건’으로 보류하는 안건을 제시했다. 그런데 송 위원장이 자의적으로 표결을 미뤘다는 것이 위원 6명의 주장이다. 하지만 인권위 안팎에선 이 안건이 통과되면 합의제 기구인 인권위 의사 결정이 왜곡되거나 피해자가 보호받지 못할 우려가 크다는 지적이 나왔다.&lt;br&gt;&lt;br&gt;인권위에선 오는 9월 위원장 교체를 앞두고 각종 잡음이 나오고 있다. 이충상 상임위원은 지난해 6월 전원위에서 핼러윈 참사를 두고 “놀기 위해 너무 많이 모였다가 발생한 것”이라고 말했다가 논란을 일으켰고, 김용원 상임위원은 지난 13일 공개회의를 취재하러 온 기자들을 향해 “기레기들이 들어와서 쓰레기 기사를 써 왔다”고 했다. 김 위원은 이날 이 발언에 대해 “극소수 기자를 염두에 둔 발언”이라고 했다.&lt;br&gt;&lt;br&gt;인권위는 이날 “내부의 문제로 국민께 심려를 끼쳐 매우 송구스럽다”며 “인권위원들의 의견을 들어 합리적 해결 방안을 모색하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“청담동 술자리 의혹 거짓말이라 했는데 뉴탐사서 계속 방송”</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/27/VWB4AZ2ZA5DJVOXMVPU4V5GN5U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/27/VWB4AZ2ZA5DJVOXMVPU4V5GN5U/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 16:06:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RDD6V3MSFRG5LPHEHB5KF4SJ44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'청담동 심야 술자리 의혹' 최초 발설자 첼리스트 A씨가 TV조선에 "윤석열 대통령과 한동훈 법무부장관을 본 적은 없다"고 말했다. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘청담동 술자리 의혹’의 발단이 됐던 첼리스트 A씨가 “(술자리에 대해) 거짓말한 것이라고 확실히 이야기했는데도 계속 방송하고 있다”고 26일 주장했다. A씨는 이날 서울중앙지법에서 열린 방송(보도)금지 가처분 신청 사건 심문 기일에 출석해 이같이 밝혔다. 그는 유튜브 채널인 시민언론뉴탐사와 강진구 뉴탐사 선임기자를 상대로 자신의 음성이 포함된 녹음 파일과 관련 영상, 사진 등을 게재하지 말라며 가처분 신청을 냈다.&lt;br&gt;&lt;br&gt;A씨는 “그날 술자리에 대통령과 법무부 장관 및 김앤장 변호사 30명이 있었다는 걸 남자친구에게 거짓말한 것이라고 확실히 이야기했는데도 저 (뉴탐사) 사람들은 계속 그 일이 있었던 것처럼 방송을 해왔다”며 “너무 큰 피해를 보고 있다”고 말했다.&lt;br&gt;&lt;br&gt;이에 대해 강진구씨는 “A씨는 어제도 출연한 (다른) 유튜브 방송에서도 스스로 음성을 드러내놓고 방송했다”며 “과연 음성권 침해라고 하는 주장의 진정성이 의심된다”고 했다. 뉴탐사 측은 “(A씨의) 음성을 변조했던 방송들까지 문제를 삼는 것인지, 변조가 안 된 상태에서 나갔던 방송들만 삭제를 구하는 것인지 그 부분을 명확히 해달라”고 요청했고, A씨 측 변호인은 “전부 포함되고, 전부 삭제해 달라”고 했다.&lt;br&gt;&lt;br&gt;‘청담동 술자리 의혹’은 김의겸 전 더불어민주당 의원이 2022년 10월 국회 법무부 국정감사에서 제기했다. 김 전 의원은 당시 한동훈 전 법무장관이 심야에 청담동 한 술집에서 윤석열 대통령, 김앤장 법률사무소 변호사 등과 술자리를 즐겼다고 했는데, 그 근거가 A씨가 전 남자친구 B씨와 통화한 녹음 파일이었다. A씨는 경찰에서 “늦게 귀가하는 것을 속이기 위해 B씨에게 거짓말했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>손흥민 아버지 손웅정, 아동학대 혐의 피소</title>
-      <link>https://www.chosun.com/national/incident/2024/06/27/E33W6VXFDJFUVKOP4ZRFCXKVLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/27/E33W6VXFDJFUVKOP4ZRFCXKVLA/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 16:05:50 +0000</pubDate>
-      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YXVIQTFQDK7CKPSGFSCHM7OHVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;축구선수 손흥민의 아버지인 손웅정 SON축구아카데미 감독이 26일 서울 강남구 코엑스에서 열린 2024 서울국제도서전에서 사인회를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;축구 선수 손흥민의 아버지 손웅정 SON축구아카데미 감독이 아동 학대 혐의로 피소됐다.&lt;br&gt;&lt;br&gt;26일 법조계에 따르면, 손 감독과 이 아카데미의 A 코치, B 코치 등 3명이 아동복지법상 아동 학대 혐의로 검찰 조사를 받고 있는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;이 사건은 지난 3월 이 아카데미를 다니던 중학생 C군이 경찰에 고소하며 시작됐다. C군 측은 고소장에서 “지난 3월 일본 오키나와 전지훈련 중 A 코치가 코너킥 플라스틱 봉으로 허벅지 부위를 때려 2주간 치료가 필요한 상처를 입혔다”고 주장했다. 또 “경기에 졌다는 이유로 선수들에게 일정 시간 안에 골대에서 중앙선을 찍고 되돌아오는 벌을 내렸고, C군 등 4명이 시간 안에 도착 못 해 엎드린 자세로 맞았다. 허벅지가 붓고 피멍이 들 정도였다”고 했다.&lt;br&gt;&lt;br&gt;C군 측은 또 “작년 11월 이후 손 감독 등으로부터 경기 중 실수를 했다는 이유 등으로 심한 욕설을 들었고, B 코치는 선수 숙소에서 C군의 엉덩이 등을 발로 차고 꿀밤을 때리기도 했다”고 주장했다.&lt;br&gt;&lt;br&gt;이에 손 감독은 입장문을 내고 “마음의 상처를 받은 아이와 가족들께 깊은 사과의 뜻을 전한다”며 “제 모든 것을 걸고 맹세컨대 아카데미 지도자들의 행동에 있어서 아이들에 대한 사랑이 전제되지 않은 언행은 없었다”고 했다. 그러면서 “고소인의 주장은 진실과 다른 부분이 많아 사실관계를 왜곡하거나 숨기지 않고 수사에 적극 협조하고 있다”며 “원만한 해결을 위해 노력했지만, 수억 원의 합의금을 요구해 합의에 이르지 못했다”고 했다.&lt;br&gt;&lt;br&gt;C군 측은 “거액의 합의금 요구 등은 2차 가해가 될 수 있다”고 했다. 경찰은 지난 4월 사건을 검찰에 송치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제자에게 “안아주고 싶다” “나의 여신님” 편지 보낸 교총회장</title>
-      <link>https://www.chosun.com/national/education/2024/06/27/OP2HP62WSZCW7EF4A2EADHAI3A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/06/27/OP2HP62WSZCW7EF4A2EADHAI3A/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 16:05:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FOIE6G4OZRD2XHAMFD6XHOIB6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월 20일 서울 서초구 한국교총회관에서 박정현 한국교총 신임 회장이 본지와 인터뷰를 갖고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 최대 교원 단체인 한국교총 박정현(44) 신임 회장이 과거 제자에게 ‘어제보다 오늘 더 사랑한다’ ‘안아주고 싶다’ 등 부적절한 내용이 담긴 편지를 보낸 사실이 드러나 교사들의 사퇴 요구가 빗발치고 있다. 인천 부원여중 국어 교사인 박 회장은 지난 20일 교총 77년 역사상 최연소로 당선됐고 취임식을 앞두고 있다.&lt;br&gt;&lt;br&gt;26일 교육계에 따르면, 이달 초 교총 회장 선거 과정에서 ‘박 회장이 제자와 부적절 관계였다’는 의혹이 불거졌다. 그가 2013년 인천의 한 고등학교 3학년 담임을 맡던 중 A 학생에게 보낸 애정 편지 때문에 ‘견책’ 징계를 받고 다른 학교로 전근을 갔다는 것이다. 당시 박 회장 반의 학생들이 A 학생 가방에서 그가 보낸 편지를 발견해 신고했다고 한다. 박 회장은 “학생을 편애해 징계받은 사실이 있지만, 이성 관계 등 부적절한 관계는 아니었다”고 해명했고, 선거에서 당선됐다.&lt;br&gt;&lt;br&gt;그런데 박 회장 당선 후 현재 20대가 된 당시 제자들이 인터넷 커뮤니티에 그의 사퇴를 촉구하는 글을 올리며 논란이 일파만파 번졌다. 한 제자는 “유부남이었던 해당 선생의 행태에 다른 학생들은 상처를 받았는데 교총 회장까지 하며 당당히 사는 것은 정의에 맞지 않는다”며 “당시 상대 여제자가 서울대 (진학) 유망주인 점, 해당 고교가 특목고라는 점 등의 이유로 경징계로 끝났다”고 주장했다.&lt;br&gt;&lt;br&gt;이후 박 회장이 A 학생에게 보낸 편지 내용이 언론에 추가로 공개되며 그가 ‘거짓 해명’을 했다는 비판이 쏟아졌다. 그는 편지에서 A 학생을 ‘나의 여신님’이라고 표현하며 “(기숙사) 점호가 진행되는 동안 당신이 늘 오는 시간에 엄청 떨렸어” “주변에 있는 다른 애들이 전부 소거된 채 당신만 보였어”라고 적었다. “사랑하고 또 사랑해” “어제보다 오늘 더 많이 깊이 사랑해” “차에 떨어지는 빗소리, 당신의 향기” “당신을 떠올리고 사랑하고 있다” 등의 내용도 있다.&lt;br&gt;&lt;br&gt;박 회장은 추가 내용이 공개되기 전인 22일 입장문에서 “제자를 응원하고 입시를 격려하는 차원이었다”고 해명했는데, 실제 내용은 단순 격려가 아닌 것이다.&lt;br&gt;&lt;br&gt;26일 교총 회원 게시판에는 박 회장 사퇴를 촉구하는 글이 150개 넘게 올라왔다. ‘제정신이냐’ ‘사퇴하지 않으면 회원 탈퇴 운동을 벌여야 한다’ 등이다.&lt;br&gt;&lt;br&gt;교육계는 그간 교사의 전문성과 도덕성을 강조해온 교총의 회장이 학생에게 연애편지를 보낸 것은 충격적이란 반응이다. 박 회장은 사퇴 여부를 묻는 본지 질문에 답하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“취업대신 창업할래” 20대 사장님 늘었다</title>
-      <link>https://www.chosun.com/national/education/2024/06/27/F4P6FINZEVEC7ON2LGHJ46EAQQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/06/27/F4P6FINZEVEC7ON2LGHJ46EAQQ/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 16:05:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/57ISWPDRCNMUPFQC3JQIJTLRXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;SK하이닉스와 서원대, 충북인재평생교육진흥원이 공동 주최한 'SK하이닉스 충북 대학생창업챌린지'가 지난 5월 27일∼28일까지 괴산자연드림파크에서 열렸다. /서원대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 대학생이 창업한 기업 수가 전년 대비 23.4%p 증가하며 역대 가장 많았던 것으로 나타났다. 취업 문이 좁아지는 가운데 인공지능(AI) 등 첨단 산업이 각광받으며 창업에 도전하는 학생이 늘어난 것으로 분석된다.&lt;br&gt;&lt;br&gt;26일 교육부와 한국대학교육협의회는 이런 내용의 ‘2024년 대학 정보 공시 분석 결과’를 발표했다.&lt;br&gt;&lt;br&gt;결과에 따르면, 작년 전국 4년제 일반·교육대학 재학생 또는 졸업생이 창업한 기업 수가 1951개였다. 2022년(1581개)보다 370개 늘었다. 2019년(1222개), 2020년(1509개), 2021년(1725개) 등 역대 가장 많은 수치다. 작년 각 대학에 있는 ‘창업 강좌’를 이수한 학생 수도 33만9890명에 달해 2022년(30만6390명)보다 10.9%p 늘어난 것으로 나타났다.&lt;br&gt;&lt;br&gt;서울대 창업지원단장 강건욱 교수는 “오랜 창업 지원 사업들을 해온 결과 학생들 사이에서 이제 창업이 어려운 것이 아니라는 분위기가 정착됐다”며 “인공지능(AI) 등 아직 미개척 분야가 많은 산업이 최근 크게 각광받는 것도 이유”라고 했다. 서울대 역시 작년 대학 내 창업 지원 사업을 통해 학생들이 창업한 기업 수가 42개로 2022년(15개) 대비 3배 규모로 증가했다.&lt;br&gt;&lt;br&gt;이런 ‘창업 붐’은 기업에 취업하기보다는 자기가 원하는 일을 하고 싶어 하는 ‘MZ세대(1980년대 초~2000년대 초 출생자)’ 특징 때문이라는 분석도 나온다. 작년 6월 취업 사이트 알바천국이 대학생 359명을 상대로 ‘창업 인식’ 설문을 한 결과 62.4%가 “취업 대신 창업을 고민한 적 있다”고 답했다. 2021년(52.9%)보다 9.5%p 증가한 수치다. 대학생들은 창업을 고민하는 이유로 ‘원하는 일을 할 수 있어서’(67.2%), ‘직장 생활에 얽매이지 않고 자유를 찾을 수 있어서’(40.9%) 등을 가장 많이 꼽았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>복지차관, ‘의새’ 논란에 “발음 샌 것… 의협 인사도 같은 실수”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/06/27/PHTW246KIRDKBEZ3JFDMV3GMBY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/06/27/PHTW246KIRDKBEZ3JFDMV3GMBY/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 16:02:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DRQKJRQ5XJJDFN2WCJXEQTJLRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 국회 보건복지위원회 청문회장에서 박민수(왼쪽) 보건복지부 2차관이 임현택(오른쪽) 대한의사협회 회장 앞을 지나고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 국회 보건복지위원회가 의료계 비상 상황에 대한 대책을 마련하기 위해 청문회를 열었다. 지난 2월 정부의 의대 증원에 반발한 전공의들이 병원을 집단 이탈한 지 넉 달 만에 처음이다. 이 자리에서 조규홍 보건복지부 장관과 임현택 대한의사협회 회장이 처음 대면했지만, 양측은 접점을 찾지 못하고 책임 공방만 벌였다.&lt;br&gt;&lt;br&gt;조 장관은 ‘의대 정원 2000명 증원’에 대한 의원들의 질문에 “(부족한) 1만명 수급을 맞추기 위해 복지부 장관 책임하에 정책적 판단을 한 것”이라고 말했다. 기존 입장을 재차 밝힌 것이다. 하지만 임 회장은 “현 사태는 멀쩡하게 잘 돌아가고 있는 시스템을 (손댄) 복지부 차관과 공무원들이 만든 것”이라며 “(현 사태를) 해결할 수 없다. 전공의와 의대생 등 젊은 의사들에게 복지부가 미래에 꿈이 없다는 메시지를 줬고 그들을 범죄자, 노예 취급했기 때문에 돌아올 가능성은 0이기 때문”이라고 말했다.&lt;br&gt;&lt;br&gt;이날 참석한 박민수 복지부 2차관은 ‘의새’ 발음 논란과 관련해 “발음이 샌 것이다. 의도한 것이 아니다”라고 설명했다. 박 차관은 지난 2월 브리핑에서 “독일, 프랑스, 일본에서 의대 정원을 늘리는 동안 의사들이 반대하며 집단행동을 한 일은 없다”고 말했는데, 이때 ‘의사’를 ‘의새’로 발음했다는 비판이 의료계에서 나왔다. ‘의새’는 의사를 비하하는 표현이다. &lt;b&gt;이어 박 차관은 “당시 (의협 비대위) 대변인 역할을 맡은 주수호 위원장도 그런 발언을 했다”고 말했다. 의료계도 비슷한 말실수를 한 적이 있다는 것이다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I3PYCQO3GNBMJNEL5XSGDHS7WA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 국회 보건복지위원회 청문회장에서 박민수(오른쪽) 보건복지부 2차관이 임현택 대한의사협회 회장 앞을 지나고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임현택 의협 회장의 과거 발언들도 도마에 올랐다. 강선우 더불어민주당 의원은 임 회장에게 “저한테 미친 여자라 그러셨죠?”라며 과거 발언에 사과할 것을 요구했다. 2021년 민주당 대변인이던 강 의원이 수면 내시경 환자를 성폭행한 의사에게 의협이 회원 자격정지 2년 조치에 그친 데 대해 비판 논평을 내자 임 회장이 소셜미디어에 ‘미친 여자’라고 올린 것을 지적한 것이다. 임 회장은 “유감으로 생각한다”면서도 “헌법상 표현의 자유 영역”이라고 말했다.&lt;br&gt;&lt;br&gt;한편 이날 연세대 의대 교수 비대위는 27일부터 세브란스·강남세브란스·용인세브란스병원에서 외래진료와 비응급 수술 등을 무기한 중단한다고 밝혔다. 지난 12일 예고했던 휴진을 강행하겠다는 것이다. 단, 입원 병동과 응급실, 중환자실, 투석실, 분만실 등 필수 의료 분야 진료는 중단되지 않는다. 다음 달 4일부터 일주일 집단 휴진을 하기로 한 서울아산병원 교수 비대위 측은 이날 “형태는 달라질 수 있지만 휴진은 진행한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디]  (소식이) 빠르다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/06/27/2FWNTIYY75CTJLT6XP5USNBNMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/06/27/2FWNTIYY75CTJLT6XP5USNBNMQ/</guid>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZQNPZS5ZVZHC3A5TNQNYOP65M4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 입이 무겁다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/06/27/YJZ55NFFDBAPTE77LOP5NRMNXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/06/27/YJZ55NFFDBAPTE77LOP5NRMNXU/</guid>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y4KDMGBKJNBSJETJFPRHV7D7TE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2408] 돌려라 룰렛 계산기</title>
-      <link>https://www.chosun.com/national/nie/2024/06/27/37DMHMGT2RC2RO4IN26YIEOC2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/27/37DMHMGT2RC2RO4IN26YIEOC2Q/</guid>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XOHG52BU5NABJF5P5QXSHV3QZE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] What gives?</title>
-      <link>https://www.chosun.com/national/nie/english/2024/06/27/XBZ7M2R7F5DVDJPL7VZDV6ZINI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/06/27/XBZ7M2R7F5DVDJPL7VZDV6ZINI/</guid>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BBXFVZFWINGSPGAKMZDILN5PRU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 호열자(虎列刺)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/06/27/SKYJN764JJFHJMANXJUTQAOCCY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/06/27/SKYJN764JJFHJMANXJUTQAOCCY/</guid>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3WQDAHRXLBGVFEWHBWWBSJBOJU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한국인 평균 IQ 세계 5위, 미국은 77위… 1위 국가는</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/26/CO45LS5HJZBMXHIVVKS5TLTCNE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/26/CO45LS5HJZBMXHIVVKS5TLTCNE/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 14:51:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EWPLLHIB2BML3PYDG27RJLECHE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;시험 공부를 하는 모습. 기사와 관련 없음./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세계에서 지능지수(IQ)가 가장 높은 나라는 일본이라는 조사 결과가 나왔다. 한국은 5위를 차지했다.&lt;br&gt;&lt;br&gt;25일(현지시각) 핀란드 지능 테스트 기관 윅트콤(Wiqtcom)이 109개국 IQ 테스트 결과를 토대로 한 ‘2024년 세계에서 가장 지적인 국가 순위’를 발표했다. 윅트콤은 2019년부터 세계 IQ 검사를 통해 100개국 이상의 사람들의 지능을 측정하고 국가별 평균 IQ를 랭킹 형식으로 발표하고 있다.&lt;br&gt;&lt;br&gt;결과에 따르면 일본은 평균 112.30으로 1위를 기록했다. 세계 평균 IQ 99.64보다 12점 이상 높은 수치다. 이어 헝가리(111.28) 대만(111.20) 이탈리아(110.82) 순이었다. 한국은 110.80으로 5위를 차지했다.&lt;br&gt;&lt;br&gt;주요 선진국으로는 독일(105.23)이 23위, 영국(97.63)은 66위, 미국(96.57)은 77위였다.&lt;br&gt;&lt;br&gt;최하위인 109위에는 모잠비크로, 이 나라 평균 IQ는 90.06으로 세계 평균보다 9.58점 낮았다.&lt;br&gt;&lt;br&gt;일본이 IQ 점수 최고를 받은 적은 이번만이 아니었다. 일본은 2019년 영국 얼스터연구소가 발간한 ‘국가의 지능’ 보고서에서도 평균 IQ 106.48로 세계 1위를 기록했다. 한국은 102.35로 6위였다.&lt;br&gt;&lt;br&gt;윅트콤에 따르면 IQ는 사람의 일반적인 지능을 추정하는 데 사용하는 지표다. 평균적으로 인간의 IQ는 100에 근접하며, 인간 중 95%는 70과 130 사이에 분포해 있다. 즉 IQ가 70 미만이거나 130을 초과하는 사람은 전체 인구의 5%에 불과하다.&lt;br&gt;&lt;br&gt;통상 90~109의 IQ를 ‘일반/정상’으로 분류하며, 119를 넘으면 매우 우수한 지능을 갖췄다고 본다. 반면 80 미만의 IQ는 경계선 인격 장애로 분류된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재밌다, 이 책!] 장애인 입장에서 세상 바라보면 진정한 삶의 의미를 알 수 있어요</title>
-      <link>https://www.chosun.com/national/nie/2024/06/27/KJ6VEDPQ65GCHLKXEWRFWJEF3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/27/KJ6VEDPQ65GCHLKXEWRFWJEF3U/</guid>
-      <dc:creator>김성신 출판평론가</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5N6NOYID3VBB3MO7TV5IDY22P4.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;오늘도 차별, 그래도 삶&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;김효진 지음 | 출판사 이후 | 가격 1만5000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;상대방의 입장이나 생각에 깊게 공감할 수 있는 이들로 우리 사회가 가득해진다면 어떨까요? 모두가 훨씬 행복한 세상이 되겠지요. 실현되기 어려운 일이라고 생각하는 사람들도 있을 거예요. 하지만 이 책은 그것이 불가능하지 않다고 말해요.&lt;br&gt;&lt;br&gt;저자는 우리가 ‘장애 공감 지수’를 높여가다 보면 사회를 전보다 더 나은 곳으로 변화시킬 수 있다는 메시지를 이 책을 통해 던지고 있어요. 저자는 세 살 무렵 소아마비에 걸려 열이 심하게 난 후 두 다리가 마비됐고, 지체 장애인이 됐다고 해요. 출판 편집인으로 일하다 장애 인권 운동에 뛰어들었어요. 자신처럼 ‘장애를 가진 여성’들의 인권 문제에 관심을 가지고 오랫동안 연구해 왔대요. 장애 여성이 평등한 권리를 누리는 사회, 차이와 다양성이 존중되는 사회를 만들기 위해 책과 미디어를 통해 꾸준하게 의견을 제시했죠. 이 책 역시 저자가 오랫동안 꾸준히 펼쳐온 장애 인권 활동의 과정이며 성과라고 할 수 있어요.&lt;br&gt;&lt;br&gt;‘장애인 입장으로 관점을 바꾸면 의외로 배울 것이 많아진다’는 대목이 가장 인상적이에요. 역지사지를 해보면 ‘장애’가 아니라 ‘삶’ 자체에 대한 이해가 깊어지고, 풍요로워질 것이란 의미예요. 저자는 이렇게 말해요. “‘위험해서 안 돼요’ ‘여긴 들어오기 힘드실 겁니다’ 장애인을 배제하는 언어는 하나같이 착한 얼굴을 하고 있다. 마치 장애인을 위하는 것처럼. 그래서 저항할 수 없게 만든다. 장애인이 있어야 할 장소를 기꺼이 내어주는 것이 진정한 환대다.” 여기서 배울 수 있는 ‘환대’는 장애인을 만날 때만 가질 수 있는 태도일까요? 저자는 그렇지 않다고 생각해요. 장애인의 입장이 되어보는 것만으로도 우리는 사람이 사람을 대할 때 어때야 하는지를, 그리고 진정한 환대가 무엇인지를 가장 쉽고 정확하게 배울 수 있다고 합니다.&lt;br&gt;&lt;br&gt;책에는 장애 인권에 관해 깊게 생각한 사람만이 들려줄 수 있는 이야기들이 많이 나와요. ‘자립’이라는 주제도 그중 하나예요. 자신은 자립적으로 살고 있다고 믿는 사람도 사실은 가족이나 지인, 제도나 서비스 등에 ‘의존’하며 살고 있다고 저자는 말해요. 또 아프거나 장애가 있거나 나이가 들면 자연스레 많이 의존하게 돼요. 타인에게 의존하지 않는 삶을 사는 건 불가능한 것이죠. 이런 이야기를 통해 저자는 자립의 의미를 다시 정리해요. “의존을 통해 스스로 결정하고 선택할 수 있는 게 자립이다”라고요. 장애인이 활동지원서비스 덕분에 자립할 수 있게 된 것처럼 말이죠.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“저장 안된 번호는 안받아서…” 뒤늦게 온 화성 부상자 가족의 눈물</title>
@@ -949,19 +963,6 @@
       </media:content>
     </item>
     <item>
-      <title>“임신 두번 빌미로 3억원 요구” 농구선수 허웅, 전 여친 고소 이유 밝혔다</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/26/2HHBUIPUR5HXBN3W5RGRH7DJ6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/26/2HHBUIPUR5HXBN3W5RGRH7DJ6M/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 09:08:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/62ZEYHGSTNARNBAIDBKKBYLBCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;농구선수 허웅. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프로농구 부산 KCC 이지스 소속 선수인 허웅(31)이 전 여자친구를 협박 등 혐의로 고소한 이유를 밝혔다. 당초 허웅 측 관계자는 허웅이 전 여자친구를 고소한 사실은 인정하면서도 “허웅이 도의적으로 잘못한 부분은 있으나 법적으로 잘못한 부분은 없다”며 “이와 관련한 자세한 내용은 밝힐 수 없다”고 했었다.&lt;br&gt;&lt;br&gt;26일 허웅 측 법률대리인은 보도자료를 통해 “오늘 서울강남경찰서에 공갈미수, 협박, 스토킹범죄의 처벌 등에 관한 법률 위반 및 마약류 관리에 관한 법률 위반 등의 혐의로 피해자의 과거 여자친구였던 A씨 및 그와 공모한 B씨에 대한 고소장을 제출했다”고 밝혔다.&lt;br&gt;&lt;br&gt;허웅 측은 “허웅은 전 여자친구인 A씨와 2018년 말경 지인의 소개로 알게 되었고 연인관계로 발전했다”며 “연애 초반에는 서로 사이가 좋았지만 A씨의 일탈행위, 성격 차이, 양가 부모님의 반대 등으로 수차례 만남과 헤어짐을 반복하다가 2021년 12월경 연인관계를 최종적으로 끝내게 되었다”고 했다.&lt;br&gt;&lt;br&gt;특히 허웅 측은 “3년 가까운 연애 기간 동안 A씨는 두 번의 임신을 하게 되었다”며 “허웅은 첫 번째 임신 사실을 알게 된 후, 비록 혼전임신이었지만 아이와 함께 A씨를 평생 책임지겠다고 약속했다. 하지만 A씨는 혼전 임신 및 출산에 대한 사회적 인식 때문인지 이를 거절했고 본인 스스로 결정에 따라서 낙태를 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;허웅 측은 “이후 허웅과 A씨는 수차례 만남과 헤어짐을 반복했으며, 2021년 5월경 두 번째 임신 사실을 알게 되었다”며 “첫 번째 임신과 마찬가지로 허웅은 A씨에게 책임질 생각이니 출산을 하자고 요청했지만 A씨는 출산을 하기 전에 결혼을 반드시 해야 한다고 주장했다. 허웅이 결혼은 조금 더 고민해 봐야 할 것 같다고 이해를 구하자 A씨는 갑자기 3억원을 요구하며 만약 자신의 요구를 들어주지 않을 경우 허웅의 사생활을 언론 등을 통해 폭로하겠다고 공갈 및 협박을 했다”고 주장했다.&lt;br&gt;&lt;br&gt;허웅 측은 A씨가 마약을 했다는 의혹도 제기하며 “허웅은 유명 운동선수라는 이유로 피고소인들에게 오랜 기간 지속적으로 공갈, 협박 및 스토킹을 당했다. 수사기관에 본 고소사건을 신속하게 진행해 주시길 간곡히 부탁드렸다”고 했다.&lt;br&gt;&lt;br&gt;한편 1993년생인 허웅은 ‘농구 대통령’이란 별명을 가진 허재의 큰아들로 부산 KCC 이지스에서 뛰고 있다. 동생은 수원 KT의 주전 가드인 허훈이다. 이 형제는 올스타 팬투표에서 각각 1위와 2위를 차지할 정도로 팬층이 두터운 농구계 스타다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LXKFPNWEY7F7HH2PGRDXQ6GQUI.jpg?width=4261&amp;height=2880&amp;auth=f137897e56066cd33e3778ca1477c1fac24d976bb89c85497d22354597c2484a&amp;smart=true" type="image/jpeg" height="2880" width="4261">
-        <media:description type="plain">부산 KCC 허웅은 우승 이후 바쁜 나날들을 보내고 있다. /뉴스1 DB ⓒ News1 김성진 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 DB ⓒ News1 김성진 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>“범죄 위해 입국” 러시아 상습 소매치기 3인방에 실형 선고</title>
       <link>https://www.chosun.com/national/court_law/2024/06/26/UFCIAMDCTNEKRCF2AKSHEK6TY4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/26/UFCIAMDCTNEKRCF2AKSHEK6TY4/</guid>
@@ -969,15 +970,6 @@
       <description/>
       <pubDate>Wed, 26 Jun 2024 07:16:30 +0000</pubDate>
       <content:encoded>국내에 입국해 상습적으로 소매치기 절도를 한 러시아 국적 일당에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FTGPTVCXJGOPCYLMP3UYTQ3YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사12단독 구창규 판사는 26일 특수절도 혐의로 기소된 러시아인 남성 A(46), B(46)씨와 여성 C(39)씨에게 각각 징역 6개월을 선고하고 이들을 모두 도주 우려를 이유로 법정 구속했다. C씨는 법정에서 선고 내용을 듣고 울먹이기도 했다.&lt;br&gt;&lt;br&gt;소매치기 일당은 작년 11월 1일에 입국한 뒤 인파가 모인 곳을 찾아 범행 대상을 물색했다. 그 다음 망을 보는 역할, 범행 대상 주변에 서서 다른 사람의 시선을 가리는 역할, 절취하는 역할 등을 나눠 소매지치 절도 범행을 모의한 뒤 이를 실행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이들은 작년 11월 6일 서울 서초구의 한 대형 백화점에서 이러한 역할 분담을 통해 피해자로부터 200만원 상당의 명품 지갑을 훔쳤다.&lt;br&gt;&lt;br&gt;또 이들은 이번 재판과는 별도의 같은 법원 1심 재판에선 그해 11월 4일과 8일에도 각각 사람들이 붐비는 9호선 및 3호선 지하철역에서 혼잡한 틈을 타 피해자들의 지갑을 가로챈 것으로 조사됐다. 이 재판부는 지난 3월 일당에게 징역 1년에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;구 판사는 “피고인들은 이 사건 범행 일시를 전후해 동종의 범죄를 2회 더 저지른 바, 범죄를 저지를 목적으로 한국에 입국한 것으로 판단된다”며 “범정이 매우 불량하다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;구 판사가 “구속된 사실은 누구에게 알리면 되느냐”고 묻자 이들은 “가족들이 모두 러시아에 있어 아무에게도 안 알려도 된다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>20대 외동딸 잃은 아버지... 한 살 어린 사촌동생도 참변 당했다</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/26/IOK3USSIC5CG7I5XEAM5FUVTAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/26/IOK3USSIC5CG7I5XEAM5FUVTAQ/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 04:27:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FYX3FRMLF5IQZJLZ22YCMQ5BMA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;31명의 사상자를 낸 화성 리튬전지 제조공장 '아리셀' 화재 참사 사흘째를 맞은 26일 오전 경기 화성시청 로비에 마련된 희생자 추모 합동분향소에서 추모객들이 희생자들을 추모하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“외동딸과 어젯밤까지도 연락했는데...”&lt;br&gt;&lt;br&gt;26일 오전 8시 경기 화성시 모두누림센터 5층 야외 정원에서 만난 화성 리튬배터리 공장 화재 희생자 A(29)씨 아버지 B씨는 초점 없는 눈으로 하염없이 먼 산만 바라보고 있었다. 다른 유족이 B씨에게 담배를 권했으나 극구 사양했다.&lt;br&gt;&lt;br&gt;그는 “아직도 너무 황망하고 믿을 수 없다”며 입을 열었다. 딸이 일하는 공장에 불이 났다는 걸 알게 된 건 사고 당일 오후였다. 평소와 같이 건설 현장에서 일을 하고 있었는데 오후 2시쯤에 동서한테서 연락이 왔다고 한다. 그는 서울의 살며 수도권 공사현장 등에서 막일을 한다.&lt;br&gt;&lt;br&gt;동서의 전화는 다급했다. “뉴스에서 아리셀 공장에 큰불이 났다고 한다. 따님이 일하는 회사 아니냐”는 내용이었다. 깜짝 놀라 딸에게 수 차례 전화를 걸었으나 연결되지 않았다. 다급한 마음에 공장에 전화도 걸었으나 역시 불통이었다. 결국 경찰에 연락했으나 ‘확인 중’이라는 말밖에 들을 수 없었다고 한다.&lt;br&gt;&lt;br&gt;그는 결국 하던 일을 접고 사고현장인 화성 공장으로 무작정 차를 몰았다고 한다. 그러다가 경찰에게 “딸이 사고현장에 있었던 것 같다”는 연락을 받았다고 한다. “순간 머리가 하얘졌습니다. 도저히 믿기 어려워 눈물도 안 나왔어요”.&lt;br&gt;&lt;br&gt;그의 딸 A씨는 지난 12월 중국 헤이룽장성 무단장에서 한국으로 들어왔다고 한다. 일자리를 찾아 한국으로 먼저 건너 온 부모님과 만나게 됐고, 직장도 구했다며 무척 기뻐했다고 한다.&lt;br&gt;&lt;br&gt;딸 A씨는 평소에 과묵한 성격이었다고 한다. 그는 “일이 많이 힘들었을텐데 평소에 내색도 안 하고 자기 할 일을 묵묵하게 했지요. 이런 딸이 늘 대견하고 안쓰러웠죠”라고 말하며 더 이상 말을 잇지 못했다.&lt;br&gt;&lt;br&gt;이번 사고로 A씨의 사촌인 C(28)씨도 함께 목숨을 잃었다고 한다. 외동딸인 A씨처럼 C씨 또한 외동아들로, 역시 미혼이라고 한다. C씨는 중국에서 대학교를 졸업하고 작년에 한국에 건너와 공부를 하다가 사촌누나인 A씨를 따라 같은 공장에서 일을 하다 이와 같은 참변을 당했다고 한다.&lt;br&gt;&lt;br&gt;A씨의 작은할아버지라 밝힌 박모(65)씨는 “조카사위들이 같은 공장에서 이런 참변을 당할 줄 몰랐다”며 “아직 시신조차 확인하지 못해 괴롭다”고 했다.&lt;br&gt;&lt;br&gt;지난 24일 경기 화성시 리튬 배터리 업체 아리셀에서 발생한 화재로 23명이 숨졌다. 다만 사망자의 시신 훼손이 심해 26일 오전 기준 수습된 시신 중 신원이 파악된 시신은 단 3구뿐으로, 모두 내국인이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
