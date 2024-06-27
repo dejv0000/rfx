@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“키스마크는 내 잘못”…이해인, 성추행 피해선수와 나눈 문자 공개</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/28/TJOMYJFWDFFKRBFLSUKLSVFB7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/28/TJOMYJFWDFFKRBFLSUKLSVFB7M/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 22:24:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OIS67IS4MBGYJOZMHABLDJMTFM.png"&gt;&lt;figcaption&gt;&lt;small&gt;이해인이 공개한 대화기록. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해외 전지훈련 기간에 술을 마시고 미성년자 후배를 성추행한 혐의로 3년의 자격정지 처분을 받은 여자 피겨 국가대표 이해인(19) 선수가 피해자와 나눈 대화 내역을 공개하며 재차 억울함을 호소하고 나섰다.&lt;br&gt;&lt;br&gt;이해인은 27일 자신의 인스타그램 스토리를 통해 대화 내역을 캡처한 사진 여러 장을 공개했다. 이 사진에는 5월21일, 5월24일의 대화 내용이 담겼는데, 이해인은 각각 ‘다시 사귀기로 한 날’ ‘키스마크를 선생님이 보신 날’이라고 설명했다.&lt;br&gt;&lt;br&gt;5월21일 대화 내용을 보면, 피해자인 A선수는 “다른 사람이 다시 사귀냐고 물으면 안 사귄다고 하라”고 말했다. 이에 이해인은 “그래도 너는 내꺼야 영원히”라고 답했다. 두 사람은 ‘자기’ ‘여보’ 등의 호칭으로 서로를 부르며 다정한 대화를 나눴다.&lt;br&gt;&lt;br&gt;5월24일 대화 기록에 따르면, A선수는 “우리 여기서는 최대한 안 만나고 한국 가서 만나도 돼? 여기서 내가 운동은 안 하고 키스마크 있었다고 하면 내 인생이 끝날 거 같아서”라며 “하지만 키스마크는 내가 잘못했고 책임지는 게 당연하지”라고 말했다.&lt;br&gt;&lt;br&gt;이해인은 “미안해. 네가 해달라고 해도 내가 하면 안 됐어. 나는 어른이니까”라며 “내 생각이 짧았어. 네가 한 말 다 이해했어. 그냥 만나지 말자”라고 했다.&lt;br&gt;&lt;br&gt;A선수가 “만나지 말자는 게 헤어지자는 뜻이 아니라 보지 말자는 뜻이었다. 자기도 그런 뜻이 맞지? 헤어진다는 게 아니지?”라고 묻자, 이해인은 “그런 뜻 아니다. 우리 절대 안 헤어져. 걱정마”라고 답했다. 이 사진들은 28일 현재는 삭제된 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OL3PIMM6PTZDGQ3UGR2KCLIVN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이해인 선수. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이해인이 대화 내용을 공개한 건, 이날 A선수 측이 “관계 정립이 명확하게 이뤄지지 않은 상황에서 이해인의 성적 행위가 있어 많이 당황해 자리를 피했다”는 취지의 입장을 밝힌 데 대한 반박으로 보인다.&lt;br&gt;&lt;br&gt;A선수 측 법률대리인은 이날 입장문을 내고 “두 선수는 2023년에 약 3개월 동안 교제한 뒤 이별했다”며 “피해자는 이후 이해인과 마주치지 않기 위해 노력했으나 지난 달 해외 전지훈련 기간 이해인이 이야기를 하자며 숙소로 불렀고, 이해인이 다시 만나보자는 제안을 해 다음 날 그렇게 하자고 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “이해인의 방을 방문한 날 해당 행위가 이뤄졌고, 피해 선수는 많이 당황하고 놀란 상태에서 곧바로 방에서 나왔다”며 “전지훈련을 마치고 귀국한 당일 부모에게 해당 사실을 알린 뒤 이해인에게 이별 통보를 했다가 이달 중순 ‘비밀 연애를 하자’는 이해인의 제안에 따라 다시 교제를 시작했다”고 전했다.&lt;br&gt;&lt;br&gt;A선수 측은 “이해인은 비밀연애를 하면서 한 번씩 해외 전지훈련 당시의 상황을 물어봤으며 사후적인 증거 수집 등 대처를 위해 당시 상황에 관해 질의했다”며 “이런 사실을 깨달은 피해자는 충격을 받고 정신과 치료를 시작했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>﻿“무단 횡단이 안 돼요?” 늘어난 中관광객에 제주 특별 단속</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/28/EKJKZKLOPFEQZML24UZUYEYTX4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/28/EKJKZKLOPFEQZML24UZUYEYTX4/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 22:14:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IO6YSHP47BD6DNIGEAAVLKDKYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 25일 오후 제주시내 번화가에서 중국인들이 무단횡단을 하고 있다. /오재용 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 제주를 찾는 외국 관광객이 많아지면서 이들이 무단횡단을 하거나 쓰레기를 투척하는 일이 늘자 경찰이 특별 단속에 나섰다.&lt;br&gt;&lt;br&gt;지난 25일 제주 경찰은 관광객 기초질서 위반 행위 근절 캠페인을 위해 외국인 관광객이 많이 오가는 제주시 제원사거리 일대에서 특별 단속을 벌였다.&lt;br&gt;&lt;br&gt;오후 7시부터 1시간 30분 동안 중국인 4명, 제주도민 2명 등 6명이 무단횡단으로 범칙금을 냈다. 경찰 눈앞에서 유유히 도로를 가로지른 커플은 단속 경찰관에게 “중국 공안은 무단횡단해도 범칙금을 부과하지 않는다”고 항의했다.&lt;br&gt;&lt;br&gt;무단횡단에 적발되자 눈물을 흘린 중국인 관광객도 있었고, 중국인들이 잇따라 적발되자 “왜 중국인만 단속하냐”고 되묻는 이도 있었다.&lt;br&gt;&lt;br&gt;제주도관광협회에 따르면, 올해 1월 중국인 관광객 8만6000여 명이 제주를 찾아 전년 대비 136배 늘어났다. 코로나 이전인 2020년 1월 대비 91% 수준으로 회복했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YFASUH3OW5H5VOFI6Z56DNLADE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중국인 관광객이 자주 찾는 제주의 한 편의점이 관광객들이 남긴 쓰레기로 몸살을 앓고 있다. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 단속은 최근 온라인 커뮤니티를 중심으로 중국인 관광객으로 추정되는 이들이 제주에서 벌인 비신사적인 행동이 논란이 되자 이뤄졌다. 앞서 중국인으로 추정되는 어린이가 거리 한복판에서 용변을 보는 모습이 공개됐고, ‘자신이 먹은 음식을 치워 달라’는 안내문에도 불구하고 편의점에 쓰레기를 그대로 두고 간 사진도 온라인에 올라왔다. 올해 들어 제주에서 무단횡단으로 적발된 350여 건 가운데, 70% 이상은 외국인으로 집계되기도 했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “적발된 외국인들과 대화해 보면 악의적이라기보다는 문화적 차이로 인한 것으로 보이는 사례가 많다”며 “무단횡단 외의 다른 기초질서 위반 사항 등에도 문화적 차이가 적용될 수 있다고 판단해 외국인 관광객을 대상으로 한 팸플릿 등을 제작해 홍보에 나설 예정”이라고 밝혔다. 이어 “한국인들도 기초질서를 지키기 위해 노력해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>박세리 울린 가족 재산 분쟁... 처벌 어떻게 달라지나 Q&amp;A</title>
       <link>https://www.chosun.com/national/court_law/2024/06/28/KE7HZLBX6ZDNXLMWCJPKJRICN4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/28/KE7HZLBX6ZDNXLMWCJPKJRICN4/</guid>
@@ -909,24 +927,6 @@
       <description/>
       <pubDate>Thu, 27 Jun 2024 01:23:47 +0000</pubDate>
       <content:encoded>법무부는 베트남, 필리핀, 인도네시아 등 동남아시아 3개국 단체관광 비자 발급대상 확대 제도의 시범 운영 기간을 2년 연장한다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMIKU47EYKGMSS6GOW7EZGE2SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 과천 법무부 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;단체관광 비자 발급대상 확대 제도는 비자 신청이 간소화된 단체관광 비자의 발급 대상을 기존 ‘5인 이상의 기업 인센티브 관광단 및 수학여행단’에서 ‘3인 이상 일반여행객’ 등으로 확대하는 내용이다. 동남아 관광객 유입을 위해 지난해 6월부터 시범 운영 중이다.&lt;br&gt;&lt;br&gt;시범 운영 결과, 작년 상반기 2만3781명이었던 3개국 단체관광 입국자가 작년 하반기에는 4만7397명으로 약 2배 증가했다. 또 올해 1~5월 입국자 수도 5만6427명으로 늘어나는 등 계속 증가 추세다.&lt;br&gt;&lt;br&gt;법무부는 관광객 중 일부가 불법 취업 등을 위해 단체에서 이탈하는 사례가 발생하는 만큼 무단이탈 사례를 지속적으로 관찰해 정식 시행 여부를 검토할 계획이라고 밝혔다.&lt;br&gt;&lt;br&gt;작년 하반기 동남아 3개국 단체관광객 중 이탈률은 평균 0.2%였다.&lt;br&gt;&lt;br&gt;법무부는 “관계부처 및 관광업계 의견을 수렴해 체계적이고 균형 잡힌 비자제도 개선을 추진할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이해인 “고등학교때 사귀었다 다시 만난 사이인데…”</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/27/WKIK23BFTRD25NE2SNGADHVLBA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/27/WKIK23BFTRD25NE2SNGADHVLBA/</guid>
-      <dc:creator>김가연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Jun 2024 01:21:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OL3PIMM6PTZDGQ3UGR2KCLIVN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;피겨 국가대표 이해인 선수. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해외 전지훈련 기간에 술을 마시고 미성년자 후배를 성추행한 혐의로 3년의 자격정지 처분을 받은 여자 피겨 국가대표 이해인 선수가 억울함을 호소했다.&lt;br&gt;&lt;br&gt;이해인은 27일 자신의 인스타그램을 통해 장문의 해명글을 올렸다. 그는 “정말 죄송하다. 저에게 실망하셨을 많은 팬분들께 어떤 말씀을 드려야 할지 막막하기만 하다”고 말문을 열었다.&lt;br&gt;&lt;br&gt;이해인은 최근 전지훈련 기간 중 음주, 이성 후배를 성추행 한 혐의로 대한빙상경기연맹으로부터 3년 자격정지라는 중징계를 받았다.&lt;br&gt;&lt;br&gt;그는 “국가대표로서 후배 선수들에게 더 좋은 모습을 보이고 전지훈련에 참가하지 못한 다른 선수들 몫까지 성실하게 훈련에만 매진했어야 했는데, 짧은 생각에 큰 잘못을 저질렀다”며 “제가 술을 마신 것은 지금 생각해봐도 절대 해서는 안 되는 행동이었고, 계속해서 깊이 반성하고 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “제가 왜 그런 잘못을 저질렀는지 매일 같이 후회하고 있다”면서도 “기사에는 제가 미성년자를 성추행했다거나 성적가해를 했다고 되어 있는데, 이 부분은 사실이 아니다”라고 주장했다.&lt;br&gt;&lt;br&gt;이해인은 성추행 피해자라고 보도된 미성년자인 후배 A씨가 “작년 제가 고등학생일 때 사귀었던 남자친구”라고 했다. 그러면서 “부모님의 반대로 헤어졌다가 이번 전지훈련에서 다시 만나게 된 사이”라고 주장했다.&lt;br&gt;&lt;br&gt;그는 “서로를 좋아했던 감정이 남아 있었기 때문인지 그곳(전지훈련)에서 다시 사귀게 되었는데, 부모님께 알리고 싶지 않은 마음에 그 사실을 비밀로 하기로 했다”며 “이번 빙상연맹에서 조사를 받을 때에도 사실 그 친구와 사귀는 사이였다는 말을 할 수 없었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “이렇게 제가 미성년자를 성추행했다는 이야기를 들으니 세상이 무너지는 것 같았다”며 “연인 사이에 할 수 있는 장난이나 애정표현이라 생각했다. 우리가 사귀는 사이라는 것을 밝히지 못했다고 해도 이런 오해까지 받게 될 것이라고는 상상도 하지 못했다”고 말했다.&lt;br&gt;&lt;br&gt;이해인은 “어렸을 때부터 과분한 기대와 사랑을 받았는데 이렇게 부족한 모습을 보여드려서 정말 죄송하다”며 “대한체육회에서 어떤 징계가 내려지든 깊이 반성하고 앞으로는 절대 이런 잘못을 저지르지 않도록 노력하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>화성 리튬전지 공장 화재 사망자 17명 ‘신원 확인’...미확인 6명만 남아</title>
-      <link>https://www.chosun.com/national/regional/2024/06/27/SWSZHQ3C75BQZNA2ULYCK4JB6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/27/SWSZHQ3C75BQZNA2ULYCK4JB6I/</guid>
-      <dc:creator>화성=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Jun 2024 01:04:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KJUBA6KO427MMQ2BZLOEIUD7D4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;화성 리튬전지 제조공장 '아리셀' 화재 참사 사흘째를 맞은 26일 경기 화성시청 로비에 마련된 희생자 추모 합동분향소에서 추모객들이 헌화를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 24일 발생한 경기 화성 리튬전지 공장 화재 사고 사망자 3명의 신원이 추가로 확인됐다. 이로써 사망자 23명 가운데 17명의 신원이 확인됐다.&lt;br&gt;&lt;br&gt;경기남부경찰청 화성 화재사건 수사본부는 27일 “국립과학수사연구원으로부터 사망자와 유족에 대한 DNA 대조 조사 결과 추가로 3명의 신원이 확인됐다는 통보를 받아 유족들에게 알렸다”고 밝혔다.&lt;br&gt;&lt;br&gt;이들은 모두 중국인 여성으로 2명은 주거지에서 수거한 생활용품, 1명은 직계가족에게서 채취한 DNA를 통해 신원이 확인됐다. 생활용품을 통해 신원이 확인된 사망자들에 대해서는 직계가족의 DNA를 채취해 추가 확인 절차를 거칠 예정이다.&lt;br&gt;&lt;br&gt;지금까지 신원이 확인된 17명의 국적은 내국인 4명, 외국인 13명이다. 또 신원 확인을 기다리고 있는 사망자 6명은 내국인 1명, 외국인 5명이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“전공의 아닌 전문의 중심으로… 비용 더 들더라도 병원 변해야”</title>
