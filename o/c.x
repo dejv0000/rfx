@@ -13,6 +13,107 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘尹 명예훼손 허위 인터뷰 의혹’ 신학림 구속적부심 기각</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/27/MJ4ESHBJM5FR7BC6IBR3LXZOTI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/27/MJ4ESHBJM5FR7BC6IBR3LXZOTI/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 09:30:28 +0000</pubDate>
+      <content:encoded>지난 대선 국면에서 대장동 사건과 관련한 허위 인터뷰로 윤석열 대통령의 명예를 훼손하고 그에 대한 대가로 화천대유자산관리 실소유주 김만배(60)씨로부터 금품을 수수한 혐의를 받고 최근 구속된 신학림(66) 전 언론노조 위원장이 법원에 구속 필요성을 다시 판단해달라고 요청했으나 받아들여지지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5KVPCQMVJ5OQFM7H2JQEAWECAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신학림 전 언론노조 위원장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사1-2부(재판장 안희길)는 27일 신씨에 대한 구속적부심을 비공개로 연 뒤 청구를 기각했다고 밝혔다. 그러면서 별도의 설명은 덧붙이지 않았다.&lt;br&gt;&lt;br&gt;구속적부심은 구속된 피의자가 구속이 합당한지 다시 판단해 달라고 요구하는 절차다. 형사소송법은 피의자의 방어권을 보장하기 위해 불구속 수사를 원칙으로 하고 있는데, 구속적부심도 이런 원칙을 위한 절차 중의 하나로 해석할 수 있다.&lt;br&gt;&lt;br&gt;앞서 신씨는 김씨와 함께 지난 21일 구속됐다. 당시 서울중앙지법 김석범 영장전담 부장판사는 배임수‧증재, 정보통신망법상 명예훼손, 범죄수익은닉규제법 위반, 청탁금지법 위반 등 혐의를 받는 신씨와 김씨에 대해 영장실질심사를 진행한 뒤 “증거 인멸 우려와 도주 우려가 있다”며 이들에 대한 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;그러나 신씨는 구속영장이 발부된 지 나흘 만인 지난 25일 ‘혐의를 인정하지 않는다’는 취지로 법원에 구속이 합당한지 다시 판단해 달라고 요청했다.&lt;br&gt;&lt;br&gt;신씨는 2021년 9월 15일 당시 뉴스타파 전문위원으로 재직하며 김씨와 함께 ‘윤석열 당시 국민의힘 후보가 2011년 대검찰청 중앙수사부 검사로 근무할 때, 부산저축은행 비리 사건을 수사하면서 대장동 대출 브로커이자 천화동인 6호 실소유주인 조우형씨의 수사를 무마해 줬다’는 취지의 인터뷰를 했고, 뉴스타파가 이를 대선 사흘 전인 2022년 3월 6일 보도했다.&lt;br&gt;&lt;br&gt;인터뷰 닷새 뒤인 9월 20일 김씨가 그 대가로 신씨 책 ‘대한민국을 지배하는 혼맥지도’ 3권 값 명목으로 위장해 1억6500만원을 줬다는 것이 검찰의 판단이다. 검찰은 신씨와 김씨가 사전에 공모해 가짜 인터뷰를 보도해 선거에 영향을 미치려고 한 것으로도 보고 있다.&lt;br&gt;&lt;br&gt;신씨는 허위 인터뷰 의혹과 별도의 공갈 혐의도 받고 있다. 검찰은 신씨가 2022년 정기현 전 국립중앙의료원장에게 자신의 저서를 건넨 뒤 이 책이 전직 청와대 인사를 거쳐 문재인 전 대통령 측으로 건네진 사실이 알려지자 “계약을 위반했다”며 압박해 정 전 원장에게 5000만원을 받아낸 혐의다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 불법 정치자금 수수 혐의 하영제 전 의원에 징역 5년 구형</title>
+      <link>https://www.chosun.com/national/2024/06/27/QAGKIUHUU5DCLCEVQ2ZRNWIOE4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/06/27/QAGKIUHUU5DCLCEVQ2ZRNWIOE4/</guid>
+      <dc:creator>진주=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 09:37:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V6RW2CIKPZA7BFFTPNH6JGNUIA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;하영제 전 국회의원. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 1억6000여만원의 불법 정치자금을 받은 혐의(정치자금법 위반)로 재판에 넘겨진 하영제 전 국회의원에게 징역 5년을 구형했다.&lt;br&gt;&lt;br&gt;27일 창원지법 진주지원 형사2단독 민병국 부장판사 심리로 열린 하 전 의원에 대한 결심공판에서 검찰은 “피고인의 행위는 공직 선거 추천 단계의 공정성과 투명성을 훼손해 대의민주주의 기반을 흔들었다”며 “궁극적으로 공직사회 부패를 불러와 그 죄질이 매우 무겁다”고 지적하면서 이같이 구형했다.&lt;br&gt;&lt;br&gt;하 전 의원은 지난 2020년 3월부터 지난 2022년 6월까지 국회의원 선거 비용과 지역 사무소 운영 경비 등 명목으로 경남지역 자치단체장과 도의원 등으로부터 총 1억6750만원을 받은 혐의로 불구속 기소됐다.&lt;br&gt;&lt;br&gt;검찰 수사 결과 하 전 의원은 국회의원 후보였던 지난 2020년 3~4월 하동군 선대본부장인 A(당시 현직 경남도의원)씨로부터 선거비용 명목으로 현금 2000만원씩 총 4000만원을 수수한 혐의를 받는다. 또 국회의원 당선 이후인 2020년 6월부터 2021년 8월 사이 당시 송도근 사천시장으로부터 지역 사무소 운영 경비 명목으로 15개월간 매달 200만원씩 총 3000만원을 수수한 혐의도 있다. 2021년 3월부터 9월, 2022년 3·4·6월 남해사무소 사무국장(4급 보좌관) B씨로부터 총 2750만원을 받은 혐의도 받는다. 지난 2022년 1월엔 국민의힘 경남도의원 선거 예비후보자의 국민의힘 도의원 후보자 공천을 돕는 대가로 예비후보자의 누나로부터 현금 7000만원을 수수한 혐의도 있다.&lt;br&gt;&lt;br&gt;검찰은 지난 2022년 10월과 지난해 2월 당시 현직이던 하 전 의원의 국회의원회관 사무실과 지역구 사무실 등을 압수수색했다. 지난해 3월 20일 하 전 의원에 대한 구속영장을 청구했고, 열흘 뒤인 3월 30일 국회에서 하 전 의원에 대한 체포동의안이 가결됐다. 하지만 법원은 “범행을 자백하고 있고, 증거인멸 및 도주우려가 없다”며 검찰이 청구한 구속 영장을 기각했다.&lt;br&gt;&lt;br&gt;하 전 의원에 대한 선고 공판은 오는 8월 8일 열릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>儉, 음주 뺑소니 후 운전자 바꿔치기한 연인에 구속 ‘철퇴’</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/27/T3XAP5CYIRDANBMQ5PJDWLQCFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/27/T3XAP5CYIRDANBMQ5PJDWLQCFY/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 09:36:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XOOTEFTJBH4DLR4FZUCMQRA5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전 사고를 내고 도주한 뒤 운전자를 바꿔치기한 혐의를 받는 연인이 구속된 채 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울남부지검 형사5부(부장 조재철)는 40대 남성 A씨를 특정범죄가중처벌법 위반(도주치상 및 위험운전치상), 범인도피방조 혐의로, 20대 여성 B씨를 범인도피 혐의로 각각 구속기소했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 A씨는 지난해 11월 28일 밤 지인들과 술자리를 가진 뒤 차를 몰다 서울 강서구의 한 도로에 술에 취해 누워있던 남성의 다리를 차 바퀴로 밟은 뒤 도주한 혐의를 받는다. 이 사고로 피해 남성은 전치 10주의 상해를 입은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;사고 현장을 벗어난 뒤 A씨 차량에 함께 타 있던 그의 연인 B씨는 A씨의 범행을 감춰주기 위해 자신이 운전한 것처럼 행세하며 경찰에 허위 진술한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이후 검찰은 CCTV 분석 등을 통해 A씨가 범행 당일 상당량의 음주 후 운전한 사실을 규명하고 위험운전치상 혐의를 추가로 적용해 기소했다.&lt;br&gt;&lt;br&gt;한편 검찰 관계자는 “무고한 시민의 생명과 안전을 위협하는 음주 교통사고 후 도주와 사법 시스템을 농락하는 사법 방해에 강력하게 대응하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>화성 리튬 전지 공장 사망자 23명 신원 확인 완료</title>
+      <link>https://www.chosun.com/national/regional/2024/06/27/73YGJFH5HFEQHJZQXNATAAZBME/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/27/73YGJFH5HFEQHJZQXNATAAZBME/</guid>
+      <dc:creator>화성=권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 08:35:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HHGC53YJP47C4QDWMQ75YEVY5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 오전 경기 화성시청 로비에 마련된 '화성 아리셀 공장 화재사고 추모분향소'에서 시민들이 희생자들을 추모하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 24일 발생한 경기 화성 리튬전지 공장 화재사고 사망자 23명의 신원 확인이 3일 만에 완료됐다.&lt;br&gt;&lt;br&gt;경기남부경찰청 화재 사건 수사본부는 27일 국립과학수사연구원으로부터 신원이 확인되지 않았던 6명의 DNA 대조 결과가 추가로 통보됐다고 밝혔다. 이에 따라 이번 화재사고의 사망자 23명의 신원이 모두 확인됐다. 경찰은 신원 확인 결과를 유족에 통보했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 사망자 23명의 국적은 한국인 5명(남성 3명, 여성 2명), 중국인 17명(남성 3명, 여성 14명), 라오스인 1명(여성)으로 최종 확인됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HHGC53YJP47C4QDWMQ75YEVY5M.jpg?width=4265&amp;height=3018&amp;auth=b82a70ed20d198998c133975a42bf0fd3328e379baa5578e212832af4a748021&amp;smart=true" type="image/jpeg" height="3018" width="4265">
+        <media:description type="plain">27일 오전 경기 화성시청 로비에 마련된 '화성 아리셀 공장 화재사고 추모분향소'에서 시민들이 희생자들을 추모하고 있다. 2024.6.27/뉴스1 ⓒ News1 김영운 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 김영운 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>손흥민, 청담동 ‘400억’ 최고급 펜트하우스 주인됐다 </title>
+      <link>https://www.chosun.com/national/people/2024/06/27/SK3JHORYFJAURHO2H5U7PK4KBE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/27/SK3JHORYFJAURHO2H5U7PK4KBE/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 09:15:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WGTCO6HDXBA5LC33LKP46TXVFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 마포구 상암월드컵경기장에서 중국의 경기에 참가한 손흥민 선수. / 조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 축구대표팀 주장으로 영국 프리미어리그 토트넘 홋스퍼에서 뛰고 있는 손흥민(31)이 강남구 청담동 초고가 주택인 ‘에테르노 압구정’을 분양받은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;27일 매일경제 보도와 분양업계 등에 따르면 손흥민은 ‘에테르노 청담’의 후속작인 ‘에테르노 압구정’의 그랜드 디럭스 펜트하우스를 최근 매입했다. 분양가는 약 400억원으로 전해졌다.&lt;br&gt;&lt;br&gt;에테르노 압구정은 분양가가 최소 200억원부터 시작하는 초고가 주택이다. 3개 층을 쓰는 수퍼 펜트하우스의 분양가는 700억원에 달한다.&lt;br&gt;&lt;br&gt;손흥민은 이보다 한 단계 낮은 2개 층의 그랜드 디럭스 펜트하우스를 구입한 것으로 알려졌다. 손흥민이 직접 머무는지에 대해선 확인되지 않았다. 다만, 업계는 잉글랜드에서 활약 중인 손흥민 본인보다는 그의 가족이 주로 머물 것으로 예상하고 있다.&lt;br&gt;&lt;br&gt;손 선수의 가족으로는 아버지 손웅정씨, 어머니 길은자씨, 형 손흥윤씨 등이 있다.&lt;br&gt;&lt;br&gt;현재 에테르노 압구정은 수퍼 펜트하우스와 일반 테라스 맨션 몇 가구를 제외하고는 펜트하우스 타입 전부 분양이 완료됐다.&lt;br&gt;&lt;br&gt;현대건설이 시공해 총 29가구 규모로 오는 2028년 준공 예정이다. 스페인 출신 세계적인 건축가인 라파엘 모네오가 아시아에서 처음 설계를 맡아 관심을 모으기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“내 딸 시신 맞아요?”…3일 만에 딸 찾은 父의 오열</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/27/MIRSXDSSJVCBTIQMF6ANRNASI4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/27/MIRSXDSSJVCBTIQMF6ANRNASI4/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 08:42:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JO5YTJKPHBO55JOY2O4DNAKIL4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;27일 경기 화성시청 로비에 마련된 '화성 아리셀 공장 화재사고 추모분향소'에서 시민들이 희생자들을 추모하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“아버지가 돼서 이때까지 (딸을) 위험한 공장에 출근시켰네..”&lt;br&gt;&lt;br&gt;27일 오전 10시 30분쯤 경기 화성 화성중앙종합병원. 화성 화재 참사 발생 3일이 지난 채 뒤늦게 딸의 시신을 확인한 아버지 채성범(73)씨는 연신 눈물을 흘렸다. 채씨는 “자식을 지켜주지 못한 내 자신이 원망스럽다”고 했다.&lt;br&gt;&lt;br&gt;올 가을 딸과 결혼을 약속했던 예비 사위와 함께 이날 장례식장을 찾은 채씨는 다른 가족의 부축을 받고 있었다. 걸을 힘조차 없다고 했다. 그는 떨리는 목소리로 “다 탄 그게 사람 시신이 맞느냐”며 “팔이 다 타서 없어졌다, 그 위험한 공장에 누가 출근하고 일하러 다니겠나. 아버지가 돼서 (딸을) 이때까지 출근시킨 거잖아”라며 울부짖었다.&lt;br&gt;&lt;br&gt;안치실에 들어서기 전 채씨는 “(딸이) 목걸이와 반지를 차고 있어서 그것만 봐도 내 딸인지 안다”고 말했다. 그러자 공무원은 “시신 훼손이 심해 반지가 빠졌을 수도 있다”며 확인을 만류했다. 그러나 채씨는 “손반지가 왜 빠지느냐”며 같이 온 유족 2명과 시신 확인을 위해 안치실로 향했다.&lt;br&gt;&lt;br&gt;하지만 채씨의 기대는 곧 절망이 됐다. 채씨가 안치실로 들어서자마자, 굳게 닫힌 안치실 문밖으로 통곡 소리가 새어 나왔다. 안치실을 나온 채씨는 다리가 풀려 그 자리에서 주저 앉았다. “위험한 공장이면 회사가 알려줬어야지” 채씨의 말에 바닥에 앉아 있던 예비 사위는 두 손으로 눈물을 훔쳤다.&lt;br&gt;&lt;br&gt;채씨의 딸은 작년 4~5월쯤 부터 아리셀에서 임시직으로 근무했고, 지난 5월에 정직원으로 채용됐다고 했다. 화요일과 목요일에는 꼬박 12시간을 일해 월 300만원이 조금 넘는 돈을 받았다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5JVB6PA6OVIPLLEB25BJS6FRE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31명의 사상자가 발생한 화성 리튬 배터리 공장 화재 참사 나흘째인 27일 경기도 안산시 단원구 다문화어울림공원에 마련된 추모 분향소에서 추모객이 조문을 마친 뒤 눈물을 훔치고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;채씨는 딸의 시신을 찾기 위해 지난 24일과 25일 이틀 내내 사고 현장을 찾았다. 그는 중국에 머물고 있는 아내와 아들로부터 딸의 사고 소식을 전해 듣고 곧바로 한국에 왔다고 한다. DNA 검사 결과가 나오기 전인 지난 25일, 본지와 만난 채씨는 “예비 사위와 함께 현장을 찾았으나 딸이 어디 있는지 알 수 없었다”고 안타까워했다. 채씨는 “우리 딸은 효녀, 완전 효녀”라며 딸을 회상하며 말을 잇지 못했다. 하지만 사흘이 지나서야 딸의 시신을 두 눈으로 확인한 것이다.&lt;br&gt;&lt;br&gt;경기 화성시 일차전지 제조업체 아리셀 공장 화재로 희생된 23명의 신원이 파악되며 화성 관내의 장례식장은 전날 밤부터 가족의 시신을 확인하러 온 유족들로 가득 찼다. 경기남부경찰청 수사본부는 27일 오전 기준 국립과학수사연구원으로부터 DNA 대조 작업을 통해 사망자 17명의 신원을 확인했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/JO5YTJKPHBO55JOY2O4DNAKIL4.JPG?width=4525&amp;height=3061&amp;auth=f3225be9f2a320fd3d6b86d0005941b5faced892c0fd60d372a60654d9f81115&amp;smart=true" type="image/jpeg" height="3061" width="4525">
+        <media:description type="plain">(화성=뉴스1) 김영운 기자 = 27일 오전 경기 화성시청 로비에 마련된 '화성 아리셀 공장 화재사고 추모분향소'에서 시민들이 희생자들을 추모하고 있다. 2024.6.27/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(화성=뉴스1) 김영운 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>검찰, ‘서울역 노숙인 흉기 살해’ 30대 구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/27/X3ROX5JZEVAHTGVJBXHODR6RTE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/27/X3ROX5JZEVAHTGVJBXHODR6RTE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 08:21:01 +0000</pubDate>
+      <content:encoded>서울중앙지검 형사3부(부장 최순호)는 이달 초 새벽시간대 서울역 지하보도 인근에서 노숙인을 흉기로 살해한 30대 남성을 살인 혐의로 구속 기소했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EKQG42EK5S6WRLMMILSRN5FU4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 전경.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰에 따르면, 범인 A씨는 ‘전쟁을 멈추기 위해서는 노숙인을 살해해야 한다’는 환각에 사로잡혀있었다고 한다. 그는 미리 준비한 흉기로 잠을 자던 노숙인을 여러 번 찔러 살해한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 조사 당시 “처음부터 피해자를 살해할 마음이 없었고, 피해자가 먼저 자신에게 달려들어 살해하게 됐다”고 주장한 것으로 알려졌다. 그러나 검찰은 폐쇄회로 영상 및 법의학 감정, 휴대폰 디지털포렌식 결과 등을 토대로 A씨가 미리 인터넷으로 범행 장소를 검색해 답사한 사실을 밝혀냈다고 한다. A씨가 흉기를 미리 준비한 사실도 파악됐다. A씨는 피해자를 발견하자마자 살해한 것으로 조사됐다. 계획 범행의 정황이 밝혀진 것이다.&lt;br&gt;&lt;br&gt;검찰은 “피고인에게 죄에 상응하는 형이 선고될 수 있도록 공소 유지를 철저히 하고, 타인의 생명과 안전을 위협하는 강력범죄에 엄정하게 대응하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“평생 안고 가야 할 짐”...아리셀 대표, 화재 희생자 유족 찾아 사죄</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/27/ZTIQC6IXI5EOPHSTDEQPPINZPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/27/ZTIQC6IXI5EOPHSTDEQPPINZPY/</guid>
+      <dc:creator>화성=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 08:22:18 +0000</pubDate>
+      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DRDFIVAXEZBK7GREOXOCKIYBEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박순관 아리셀 대표. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;31명의 사상자가 나온 경기 화성 리튬 일차전지 업체 아리셀의 박순관 대표가 사고 사망자 유가족들을 만나 사죄했다.&lt;br&gt;&lt;br&gt;박 대표는 27일 오후 3시 30분쯤 유가족들을 만나기 위해 유가족 대기실이 있는 모두누림센터로 이동했지만 만남을 거부당했다. 이후 박 대표는 건물 주차장에서 다수의 유가족을 만나 다시 건물 내 강당으로 들어와 고개를 숙였다.&lt;br&gt;&lt;br&gt;박 대표는 “이번 참사에 대해 저와 우리 회사 모두 평생을 안고 가야 할 짐이라고 생각한다”며 “조속한 시일 내에 여러분들의 장례나 나머지 후속 대책을 마련하겠다”고 말했다. 이어 “어떤 대책이나 조치를 취해도 여러분 마음에 들지는 않을 것”이라며 “그러나 저희가 최선을 다해 준비하고 있다. 죄송하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;유족들은 박 대표의 뒤늦은 사과에 울분을 토했다. 한 유가족은 “제대로 된 대책을 마련하지 않은 상태에서 고개만 숙이는 사과는 받아들일 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;한편 지난 24일 오전 10시 30분쯤 화성시 서신면 전곡리 아리셀 공장에서 리튬전지 폭발로 인한 화재로 23명이 숨지고, 8명이 다쳤다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“엄마 말 잘 듣고 있어” 6·25 전쟁 때 전사한 김명손 경사, 74년 만에 안장</title>
+      <link>https://www.chosun.com/national/2024/06/27/IWDXU4JVHZA6ZNOREJ45VSMMLQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/06/27/IWDXU4JVHZA6ZNOREJ45VSMMLQ/</guid>
+      <dc:creator>주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 08:17:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3PX3HAR3H43MVO2TW7WIMOALYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6·25 전쟁 당시 전사한 고(故) 김명손 경사에 대한 안장식이 27일 오후 국립 대전현충원에서 열렸다./경찰청 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여섯 살 딸을 두고 6·25전쟁에 참전해 전사한 경찰관 유해가 74년 만에 대전현충원에 안장됐다.&lt;br&gt;&lt;br&gt;경찰청은 27일 오후 국립 대전현충원에서 ‘6·25 전사자 유해발굴사업’을 통해 신원이 확인된 고(故) 김명손 경사(추서 계급)의 유해 안장식을 엄수했다. 유해는 유족의 뜻에 따라 충혼당에 안장됐다. 안장식에는 유가족과 윤희근 경찰청장, 박정보 전남경찰청장, 이근원 국방부 유해발굴감식단장 등 100여 명이 참석했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AN6UIGKFDOGA75TLETQ7SDJNHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 김명손 경사 초상화./국방부 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 경사는 1950년 6·25전쟁 당시 전남 영광군 삼학리 전투에 참여했다가 전사했다. 삼학리 전투에는 김 경사를 비롯한 전남경찰국 소속 경찰관 약 200명이 참전했으며 북한군 6사단의 남하를 막기 위해 격전을 벌이다 약 50명이 산화했다. 전쟁 발발 당시 27세의 젊은 가장이었던 김 경사는 “엄마 말씀을 잘 듣고 있어라”라며 어린 딸의 머리를 몇 번이나 쓰다듬고 집을 나섰다고 한다. 이 말이 가족에게 남긴 마지막 말이 됐다.&lt;br&gt;&lt;br&gt;그의 신원은 2007년 유해가 발굴된 뒤 올해 초 유가족 DNA의 시료 비교 분석을 통해 확인됐다. 유가족은 “그간 유해를 찾지 못해 안타까웠는데 마치 기적이 일어난 것 같아 더할 나위 없이 기쁘다. 국가에 충성을 다한 아버지가 자랑스럽다”며 “국가가 지속해서 전사 경찰관들에 대한 현양 사업에 신경을 써 주면 좋겠다”고 전했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 6·25전쟁 당시 경찰관 총 6만3427명이 참전해 3131명의 사망자와 7084명의 실종자가 발생했다. 경찰청은 전사·순직 경찰관을 기리고 기억하기 위해 매년 6월 6일 추념식 등 추모행사를 연다. 경찰청은 “6·25전쟁 당시 국가와 국민을 수호하다가 장렬히 산화한 전사 경찰관을 빠짐없이 찾아내고 그 공훈을 기리기 위해 유해 발굴사업, 현충 시설 정비사업 등의 노력도 지속할 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ELA2UVIVDRPSNEFQBG2VQQEISA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤희근 경찰청장이 27일 국립 대전현충원에서 열린 '6·25 전사 경찰관 유해 안장식'에서 추모사를 하고 있다./경찰청 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/AN6UIGKFDOGA75TLETQ7SDJNHU.jpg?width=569&amp;height=758&amp;auth=e68141d8a8d21c5c01b93f2250ec485075ffcf70f850a57503137543ccc3eda2&amp;smart=true" type="image/jpeg" height="758" width="569">
+        <media:description type="plain">고(故) 김명손 경사의 초상화.(국방부 제공)</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“가장 완벽한 APEC 개최할 것”...경주 개최 최종 선정</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/27/QI6LNYIEZJHTFDNTV7VD7CO7F4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/27/QI6LNYIEZJHTFDNTV7VD7CO7F4/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 08:14:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7VOB4MGD4NJSTBQC6KLJ5IEI6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 경북도청에서 열린 2025년 아시아태평양경제협력체(APEC) 정상회의 개최도시 경주 결정과 관련한 기자회견이 끝난 뒤 이철우(왼쪽) 경북도지사와 주낙영 경주시장이 성공 개최를 다짐하고 있다./경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경주시가 2025년 아시아태평양경제협력체(APEC) 정상회의 개최 도시로 최종 선정됐다. 이로써 APEC 정상회의는 지난 2005년 부산에서 개최된 이후 20년만에 한국에서 다시 열리게 될 전망이다.&lt;br&gt;&lt;br&gt;27일 경북도·경주시 등에 따르면 2025 APEC 정상회의 준비위원회는 이날 외교부에서 회의를 가진 뒤 경주시를 APEC 정상회의 개최 도시로 결정했다. 경주시와 함께 정상회의 개최 후보 도시로 선정됐던 인천, 제주 등엔 APEC 장관회의 및 고위관리회의 등이 각각 분산 개최될 전망이다.&lt;br&gt;&lt;br&gt;1989년 출범한 APEC은 미국, 일본, 중국, 러시아 등 21개 주요 국가가 회원국으로서 전세계 국내 총생산의 62%, 교역량 50%를 차지하는 세계 최대 규모 지역·경제 협력체다. 우리나라도 호주와 더불어 APEC 창설을 주도했다.&lt;br&gt;&lt;br&gt;경북도와 경주시는 지난 2021년 7월부터 APEC 정상회의 유치에 나섰다. 경주시는 가장 한국적인 도시, 정상 경호와 안전 최적지, 준비된 국제회의 도시 등을 장점으로 내세웠다. 경주시민은 물론 경북도민들 역시 APEC 정상회의 유치에 두 팔을 걷었다. 경주시민들은 ‘범시민추진위원회’를 구성해 유치 지지 선언을 이어갔다. 지난해 9월부터 진행한 APEC 정상회의 경주 유치를 위한 100만인 서명운동에는 85일만에 146만 3874명이 참여했다.&lt;br&gt;&lt;br&gt; 주낙영 경주시장은 이날 경북도청에서 열린 2025 APEC 개최도시 선정 브리핑에서 “다윗과 골리앗의 싸움이라는 불리한 여건에도 불구하고 천년고도의 문화 유산을 지켜온 자긍심 하나로 (유치)도전에 나섰다”며 “인구 25만의 지방도시 경주가 인구 300만의 수도권 도시와 경쟁해 이긴만큼, 역대 최고로 안전하고 완벽한 정상회의로 보답하겠다”고 말했다.&lt;br&gt;&lt;br&gt;경북도는 2025년 APEC 정상회의가 경주에서 열릴 경우 1조 8000억원 이상의 경제 유발 효과가 있을 것으로 추산했다. 경북연구원은 APEC 정상회의 개최시 경북 지역에만 9720억원의 생산 유발, 4654억원의 부가가치 유발, 7908명 상당의 취업 창출 효과 등을 가져올 것으로 분석했다. 정상회의 기간에는 21개국 정상을 비롯해 관료와 기업인 등 6000여명이 한국을 방문할 예정이다.&lt;br&gt;&lt;br&gt;경북도와 경주시는 APEC 정상회의 전까지 시설 및 환경 정비 및 홍보·마케팅 작업을 추진할 방침이다. 주요 회의장 및 숙박시설 등을 재정비하고, APEC 준비 지원단을 구성해 정상회의 개최에 차질이 없도록 하겠다는 방침이다. 경북연구원·경북문화관광공사·경주화백컨벤션센터 등 기관과 협력해 외국인 관광객 유치도 추진한다. 대구 상공회의소·경북상공회의소협의회·KOTRA대구경북지원단 등 경제단체는 무역·투자 활성화를 위한 공동 홍보에 나설 예정이다.&lt;br&gt;&lt;br&gt;이철우 경북도지사는 “1500년 전 세계 4대 도시였던 경주는 한국의 아름다움을 가장 빼어나게 보여줄 수 있는 곳”이라며 “멕시코 로스카보스, 러시아 블라디보스토크가 APEC을 계기로 큰 성장을 이룬 것처럼, 전세계가 감탄할 수 있는 정상회의 개최를 통해 경주를 세계적인 문화 도시로 만들겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>횡단보도에서 12살 아동 치고 달아난 40대에게 벌금형</title>
       <link>https://www.chosun.com/national/court_law/2024/06/27/LCZTMYMCHBDTHMASKFCELESUA4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/27/LCZTMYMCHBDTHMASKFCELESUA4/</guid>
@@ -797,55 +898,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOW7QRF67VGKVMUAOIPURWFCJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 오후 9시 47분쯤 박순관 아리셀 대표가 경기 화성 시청에 차려진 참사 분향소를 찾았다. /구아모 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 경기 화성시청 로비에 설치된 아리셀 공장 화재 참사 분향소에 박순관(64) 아리셀 대표가 방문해 “미안하다”며 조문했다.&lt;br&gt;&lt;br&gt;이날 분향소에 기습 방문한 박 대표는 “피해자 보상은 어떻게 진행할 계획이냐” “불법 파견에 대한 입장이 어떻느냐” 등 질문에는 답하지 않고 자리를 떠났다.&lt;br&gt;&lt;br&gt;박 대표는 이날 밤 9시 47분쯤 분향소에 수행 직원 등과 함께 방문했다. 분향소를 지키는 직원이 방명록을 안내하자 따로 쓰지 않고 분향소 앞에 섰다.&lt;br&gt;&lt;br&gt;상복 차림의 박 대표는 분향소 앞에 서서 “정말 죄송합니다”며 고개를 푹 숙였다. 그 이후로도 “죄송하다”를 나직이 두 번 더 반복하고 조문한 뒤 자리를 빠져나갔다.&lt;br&gt;&lt;br&gt;취재진이 “피해자 유족들에게 하실 말씀은 없냐” “피해자 보상은 어떻게 진행할 계획이냐”고 묻자 대표는 따로 답하지 않고 고개만 숙였다.&lt;br&gt;&lt;br&gt;이날 오후 4시부터 경찰에서 업무상과실치사 혐의로 아리셀 등 3개 업체와 박 대표의 자택 등을 압수한 것 “압수수색 및 불법 파견 논란에 대한 입장은 어떠냐” 등의 질문에도 따로 답하지 않고 분향소를 빠져나갔다.&lt;br&gt;&lt;br&gt;이날 화성 시청에 마련된 ‘화성 화재 피해자 통합지원센터’를 찾은 피해자 유족들은 “아리셀 대표는 전날만해도 대국민 사과를 하더니 정작 유족한텐 미안하다 한마디도 안했다”며 “유족들에 책임을 다하게끔 해달라”는 의견을 냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>서유리 前남편 최병길 PD, 목사인 父 메시지 공개 “그의 영혼을 불쌍히 여겨라”</title>
-      <link>https://www.chosun.com/national/people/2024/06/26/FRF4EI2PYJHJVPEYB4DH6PSVQE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/26/FRF4EI2PYJHJVPEYB4DH6PSVQE/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 12:48:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LKABOFXVZFZ2MZEAOUI62H2HIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;성우 겸 방송인 서유리(왼쪽), 최병길 PD./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성우 겸 방송인 서유리가 전 남편 최병길 PD와의 이혼 사유를 밝힌 가운데, 최병길 PD가 이에 대한 입장을 전했다.&lt;br&gt;&lt;br&gt;26일 최병길 PD는 자신의 인스타그램을 통해 “저희 아버지는 이렇게 말씀하셨다”라며 한 장의 사진을 올렸다.&lt;br&gt;&lt;br&gt;그는 “네. 저희 아버지는 목사님이십니다. 저는 아버지 말씀을 잘 들으려 합니다”라며 부친과 나눈 메시지를 캡처본을 올렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UAT3JHQMZNBG7HNTSIWOHI4D3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최병길 PD가 아버지에게 받은 문자 메시지 내용./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공개된 문자 내용에는 “이혼건 진흙탕 싸움으로 번지지 않도록 원만히 해결하라. 그의(서유리) 영혼을 불쌍히 여겨라”라고 적혀 있었다.&lt;br&gt;&lt;br&gt;앞서 이날 서유리는 자신의 소셜미디어를 통해 “이혼 결심을 한 후 노트북으로 변호사에게 제출할 이혼 사유를 작성했다. 약 20개 정도가 추려졌다”며 “20개가량의 이혼 사유들은 X(최병길 PD)에게 상당히 불리한 것들이다. 그래서 여기서 전부 밝힐 수는 없다. 나도 인간으로서의 도의는 있으니까”라고 했다.&lt;br&gt;&lt;br&gt;서유리는 최병길 PD가 결혼 초기 자신의 용산 아파트를 담보로 2금융권에서 대출을 받아달라고 요구했다며 몇 번의 대환 대출 끝에 자신의 아파트는 깡통 아파트가 됐다고 주장했다. 또한 5년간 6억 원가량을 빌려 갔고 그중 약 3억 원만 갚았다며 3억 2000만원 가량을 갚아야 한다고 했다.&lt;br&gt;&lt;br&gt;이와 관련 최병길 PD는 언론 인터뷰에서 “사실과 다른 부분이 상당히 많다. 이혼 협의 과정에서 서로 공개하거나 언급하지 않기로 한 부분들을 언급한 것도 이유를 모르겠다”고 전했다.&lt;br&gt;&lt;br&gt;이어 서유리가 보유한 용산 아파트를 담보로 대출을 받은 것 관련 “제 일방적인 요구로 대출을 받은 게 아니”라며 “결혼 이후 두 사람 다 수입이 불안정한 가운데 생활비 마련 차 대출을 받은 것이었고, 이후엔 해당 집에 전세 세입자 보증금을 돌려주기 위해 대출을 받아야 했던 것”이라고 했다.&lt;br&gt;&lt;br&gt;아울러 서유리에게 3억 2000만원을 갚아야 한다는 주장에 대해서는 “해당 금액 자체가 서유리씨의 일방적인 주장으로 성립됐다. 이혼 과정에서 제가 선의로 받아들인 부분들이 많다”고 했다.&lt;br&gt;&lt;br&gt;한편, 최병길 PD와 서유리는 2019년 결혼했으나, 5년 만인 지난 3월 이혼을 파경을 맞았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>화성 화재 사망자 11명 추가 신원 확인…내국인은 1명</title>
-      <link>https://www.chosun.com/national/incident/2024/06/26/EEW4GVLPQBCCXH433S5J3WHDU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/26/EEW4GVLPQBCCXH433S5J3WHDU4/</guid>
-      <dc:creator>화성=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 12:51:43 +0000</pubDate>
-      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JCHZ2TCGJBCO7G36N6D6IYUBMA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경찰과 소방 당국, 국립과학수사연구원, 고용노동부 등으로 구성된 합동감식단이 25일 경기 화성시 리튬전지 제조 업체 '아리셀' 공장 화재 현장에서 합동 감식을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 24일 31명의 사상자가 나온 경기 화성시 일차전지 제조업체 아리셀 공장 화재로 희생된 23명 중 11명에 대한 신원이 추가로 확인됐다. 현재까지 신원이 확인된 사망자는 14명이다.&lt;br&gt;&lt;br&gt;경기남부경찰청 수사본부는 26일 오후 6시 기준으로 국립과학수사연구원으로부터 DNA 일치작업을 통해 사망자 11명의 신원을 확인했다고 밝혔다. &lt;br&gt;&lt;br&gt;이번에 신원이 확인된 사망자는 국적별로 한국 1명(여성), 중국 9명(남성 2명, 여성 7명), 라오스 1명(여성) 등이다.&lt;br&gt;&lt;br&gt;현재까지 신원이 확인된 사망자는 총 14명으로, 국적별로는 한국인 4명, 중국인 9명, 라오스 1명이다.&lt;br&gt;&lt;br&gt;DNA 채취 및 대조를 통한 신원 확인은 화재 이후 이번이 처음이다. 경찰은 사망자 유족들에게 신원 확인 사실을 통보했다고 설명했다.&lt;br&gt;&lt;br&gt;사망자 대부분 건물 내에 고립돼 있다가 숨진 이들로, 시신의 훼손이 심해 지문 감정을 통한 신원 확인이 어려웠던 상황이다. 이에 경찰은 부검을 통해 사망자 본국의 가족 DNA를 채취해 비교하는 과정을 거쳐 신원을 특정하고 있다. 26일부터는 DNA 대조 대상을 직·방계 가족에서 직계 가족으로만 한정해 신원 파악에 속도를 내고 있다.&lt;br&gt;&lt;br&gt;한편 지난 24일 오전 10시 30분쯤 화성시 서신면 전곡리 아리셀 공장에서 리튬전지 폭발로 인해 23명이 숨지고, 8명이 다쳤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>신범철 전 국방차관, ‘순직 해병’ 기록 이첩 당일 尹에게 2차례 전화</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/26/NIRP7BEDLNHV3CUHD2VSF2R5Y4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/26/NIRP7BEDLNHV3CUHD2VSF2R5Y4/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 11:56:53 +0000</pubDate>
-      <content:encoded>해병대 수사단이 ‘순직 해병’ 사건 기록을 경북경찰청에 이첩하려던 작년 8월 2일, 신범철 당시 국방차관이 윤석열 대통령에게 두 차례 전화를 건 것으로 26일 나타났다. 앞서 신 전 차관은 당일 오후 윤 대통령으로부터 전화를 받은 것으로 알려진 바 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CBAMR3FK53PLBPAMXKTBIK6NEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국회 법제사법위원회 전체회의에서 호우 피해 실종자 수색 작전 중 순직한 고 채 상병 사건 수사 관련 질의에 답변하는 신범철 국방부 차관./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 군사법원에 제출된 통신기록에 따르면, 신 전 차관은 작년 8월 2일 오후 1시30분 윤 대통령의 개인 휴대전화로 전화를 걸어 8분45초간 통화했다. 그는 2시간 여가 지난 오후 3시40분 다시 윤 대통령에게 전화를 걸어 3분36초간 통화했다. 이후 40여 분이 지난 오후 4시21분 윤 대통령이 신 전 차관에게 전화해 10초간 통화했다.&lt;br&gt;&lt;br&gt;윤 대통령은 사건 기록 이첩 및 회수 당일 이종섭 전 국방장관에게 오후 12~1시 사이 총 세 차례에 걸쳐 개인 휴대전화를 이용해 통화한 것으로 알려진 바 있다. 윤 대통령은 오후 1시25분엔 임기훈 당시 국가안보실 국방비서관에게 전화를 걸어 4분51초간 통화하기도 했다. 윤 대통령의 통화 상대가 이 전 장관에서 임 전 비서관, 신 전 차관 순으로 이어진 것이다.&lt;br&gt;&lt;br&gt;신 전 차관은 당일 오전 11시29분부터 오후 1시54분 사이에 임 전 비서관과 세 차례 통화한 것으로 밝혀졌다. 이는 김계환 해병사령관이 이 전 장관에게 박정훈 전 해병대 수사단장의 항명 사실을 보고한 직후라고 한다. 신 전 차관과 윤 대통령이 처음 통화한 시각도 포함된다.&lt;br&gt;&lt;br&gt;신 전 차관은 이후 오후 2시17분부터 3시9분 사이 유재은 국방부 법무관리관에게 5차례 전화해 총 3분여 간 통화한 것으로 나타났다. 유 관리관은 오후 4시59분 대통령실 일반전화인 ‘02-800′으로 시작하는 번호로 걸려온 전화를 받아 2분 39초간 통화하기도 했다.&lt;br&gt;&lt;br&gt;이 의혹을 수사하는 고위공직자범죄수사처(공수처) 수사4부(부장 이대환)는 사건 기록 이첩 및 회수를 둘러싼 통화 기록을 토대로 어떤 대화가 오고 갔는지를 종합하고 있는 것으로 알려졌다. 이첩하려던 사건 기록이 회수되는 과정에서 대통령실 등으로부터 외압이 있었는지 규명하는 차원이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RNDVO6QVXR34HN3LLW7EYZ5EXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 정부과천청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 이날 군사법원엔 국방부 법무관리관실이 작성한 문건도 공개됐다. 이 문건의 제목은 ‘해병대 변사사건 관련 의견 요청에 대한 검토 결과’인데, A4용지 2페이지 분량이라고 한다. 법무관리관실은 국방부 조사본부로부터 해병대 수사단의 수사 결과에 대한 의견 제시를 요청받아 작년 8월 14일 이 문건을 작성했다.&lt;br&gt;&lt;br&gt;법무관리관실은 이 문건에서 해병대 수사단이 당초 혐의자로 포함했던 임성근 전 해병1사단장에 대해 “수색작전 관련 안전통제 대책을 제대로 강구하지 않는 등의 과실이 있으나, 사망과의 인과관계는 명확하지 않아 경찰에서 추가 검토가 필요하다”며 ‘사실관계 적시, 관련자로 기재 뒤 통보’해야 한다고 판단했다. 조사본부는 이 의견에 따라 임 전 사단장 등 4명에 대해선 사실관계만 적시하고, 대대장 2명을 혐의자로 판단해 같은 달 24일 사건을 경찰에 이첩했다. 공수처는 혐의자가 축소된 과정에 대해서도 들여다보는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고속도로서 부부싸움 중 하차한 아내 사망.. 남편, 버스기사 금고형</title>
-      <link>https://www.chosun.com/national/regional/2024/06/26/DZ2JGJOVAREPXH37WMWFISWN7A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/26/DZ2JGJOVAREPXH37WMWFISWN7A/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 12:10:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HDXIDSDZSZL656NFGC2VVJ4OEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전지방법원 전경. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고속도로에서 부부싸움을 해 차량에서 내린 여성을 차로 치어 숨지게 한 버스 기사와 차량을 세운 여성의 남편에게 금고형이 선고됐다. 금고형은 징역형과 마찬가지로 교도소에 수감되지만 강제 노역을 하지 않는다.&lt;br&gt;&lt;br&gt;대전지법 형사9단독 고영식 판사는 26일 교통사고 처리 특례법상 치사 혐의로 기소된 버스 기사 A(59)씨에게 금고 1년을, 업무상과실치사 혐의로 재판에 넘겨진 사망자 남편 B(66)씨에게 금고 2년을 각각 선고했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 3월 19일 오전 9시 25분쯤 충북 청주 서원구 남이면 경부고속도로 서울 방면 편도 4차로 중 1차로에서 고속버스를 운전하던 중 앞에서 정차 중이던 승용차의 뒤에 있던 B씨의 아내 C(65)씨를 들이받아 숨지게 한 혐의다.&lt;br&gt;&lt;br&gt;C씨는 남편 B씨가 운전하는 승용차를 타고 가다가 과속 문제로 부부싸움을 한 뒤 이 같은 변을 당한 것으로 조사됐다. B씨는 아내 C씨의 타박에 화를 내면서 “당신이 차 타고 가”라며 차선을 급변경해 버스 전용 차로인 1차로에 차량을 세운 것으로 알려졌다.&lt;br&gt;&lt;br&gt;정차 후 B씨가 운전석에서 내리자 조수석에 타고 있던 C씨가 차에서 내려 운전석으로 이동하던 중 뒤에서 달려오던 고속버스에 치여 목숨을 잃었다.&lt;br&gt;&lt;br&gt;재판부는 “A씨는 전방주시 의무를 하지 않아 C씨를 사망에 이르게 했고 C씨의 유족과 합의도 이뤄지지 않았다”며 “B씨는 홧김에 차선을 급변경한 뒤 정차해 아내를 숨지게 한 업무상 과실이 있는 데다 가족과 유족으로부터 용서도 받지 못했다”고 했다. 이어 “남편 B씨는 3000만원을 형사공탁했지만 유족이 이를 수령할 의사가 없기 때문에 제한적으로만 형량에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>신원 확인된 희생자 3명뿐... 영정도 이름도 없는 분향소</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/26/GHJWZ3WYPVHBVIOJMHVZTND37A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/26/GHJWZ3WYPVHBVIOJMHVZTND37A/</guid>
-      <dc:creator>고유찬 기자, 김도연 기자, 강지은 기자, 김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 11:36:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QEWDWJMQ26GPQ273N63MWKBTLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 경기 화성시청 로비에 마련된 화성 배터리 공장 화재 추모 분향소의 모습. 사망자 대부분의 신원이 확인되지 않아 영정도 이름도 걸리지 않았다. 한 유족이 분향소의 흰 국화를 바라보며 슬퍼하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영정도 위패도 없었다. 26일 오전 경기 화성시청 로비에 설치된 리튬전지 공장 화재 참사 분향소는 적막했다. 희생자 23명 시신 중 신원 확인이 완료된 사람은 한국인 3명뿐(26일 오후 8시30분 기준)이어서 분향소는 현수막과 국화로만 채워져 있었다. 오전 9시가 지나자 유족과 추모객들의 발걸음이 이어졌다. 한 중국인 어머니는 “스물여섯 살짜리 딸을 잃었는데 시신도 확인하지 못했다”고 했다. 남편을 잃은 또 다른 여성은 제단에 국화꽃을 놓다가 주저앉아 오열했다. 따라온 세 자녀도 같이 울었다.&lt;br&gt;&lt;br&gt;시민 김한종(55·서울 강남구)씨는 분향소를 찾은 뒤 “우리나라가 어려울 때 외국 나가서 고생 많이 했다. 저분들도 똑같은 마음으로 가족을 위해 일하시다 돌아가셨다”며 “남 일 같지 않아 찾아왔다”고 했다. 윤호중(68)씨는 “중동과 말레이시아 건설 현장에서 12년간 일했던 젊은 시절이 떠올랐다”며 손수건으로 눈물을 닦았다. 시공 업체를 운영한다는 이종화(55)씨는 “사용자 입장에서 이런 비극이 없도록 안전에 주의를 기울이겠다”고 했다.&lt;br&gt;&lt;br&gt;비보를 들은 중국인 유족들도 속속 입국하고 있다. 어머니를 잃은 중국인 남성 한 명이 지난 25일 밤 인천국제공항으로 입국, 경기 화성서부경찰서에서 시신 신원 확인을 위한 유전자(DNA) 시료를 채취했다. 화성시 관계자는 “26일 정오 기준 희생자 8명의 유족 약 30여 명에게 연락을 완료한 상황”이라며 “해외에서 입국하는 유족들의 편의를 돕고 있다”고 했다.&lt;br&gt;&lt;br&gt;유족 대부분은 시청 인근에 마련된 대기실에서 신원 파악을 기다렸다. 29세 외동딸을 잃은 한 아버지는 “사고 전날까지 딸과 연락했는데, 딸아이의 죽음을 믿을 수 없다”고 했다. 중국 헤이룽장성에서 왔다는 박모(65)씨는 이번 사고로 “조카 둘을 한꺼번에 잃었다”며 “아직 시신조차 확인하지 못해 괴롭다”고 했다.&lt;br&gt;&lt;br&gt;관내 장례식장 5곳엔 이름도 없이 번호로만 분류된 희생자들이 ‘신원 미상’ 상태로 안치됐다. 이날 시신 4구가 안치된 화성유일병원 장례식장은 빈소도 유족도 없이 고요했다. ‘당신의 고귀한 삶을 영원히 기억하겠습니다’고 적힌 모니터 화면만 어두운 실내를 비추고 있었다.&lt;br&gt;&lt;br&gt;서울한강성심병원 중환자실에서 치료 중인 한국인 서모(45)씨는 전신 화상을 입어 의식 없이 위독한 상태다. 병원에서 만난 70세 노모는 “아들이 모르는 번호는 보이스피싱이니까 받지 말라고 해서 병원에서 오는 전화를 안 받았다”고 했다. 문자를 보고서야 뒤늦게 아들이 변을 당했다는 사실을 안 어머니는 “아이고, 우리 아들 얼굴과 다리가 퉁퉁 다 부었다. 얼마나 뜨거웠을까”라며 울었다.&lt;br&gt;&lt;br&gt;일부 유족은 화성시 공무원들의 해외 연락·신원 확인 등 상담이 늦어지고 있다고 지적했다. 유가족 A씨는 본지 기자에게 “40분을 기다렸는데 상담은 5분 만에 끝났다”면서 “대회의실 안에 공무원이 20명 넘게 있던데, 대체 뭘 하고 있는지 모르겠다”고 했다. 지난 25일 유족들이 줄을 서서 상담을 기다리는 동안 고용노동부를 비롯한 부처 고위 관계자들이 참석한 회의 의전에만 집중한다는 지적도 나왔다. 화성시 관계자는 “팀장급 공무원들을 유족들에게 일대일로 배치해 불편을 해소하고 있다”고 했다.&lt;br&gt;&lt;br&gt;민주노총은 이날 오전 화재 현장에서 기자회견을 열었다. 이태환 수석부위원장은 “자본의 청구를 받아 각종 규제 완화만 골몰하는 윤석열 정부를 강력히 규탄하지 않을 수 없다”고 했다. 민노총 등이 참여한 대책위는 “(참사가 발생한) 아리셀의 원청은 에스코넥이며, 에스코넥은 삼성SDI의 협력업체”라며 이번 참사와 삼성의 연관성을 주장하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/UTEZDYXSEJGWFI7QEFQBT5U2AM.JPG?width=4011&amp;height=2256&amp;auth=eb2b6409656e24377d2577ea12880812f211c223c90f26fdb22274130a9f74bf&amp;smart=true" type="image/jpeg" height="2256" width="4011">
-        <media:description type="plain">31명의 사상자(23명 사망)를 낸 화성 리튬전지 제조공장 '아리셀' 화재 참사 사흘째를 맞은 26일 오전 경기 화성시청 로비에 마련된 희생자 추모 합동분향소에서 희생자 유가족들이 슬퍼하고 있다. 2024.6.26/뉴스1 ⓒ News1 오대일 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 오대일 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>“저장 안된 번호는 안받아서…” 뒤늦게 온 화성 부상자 가족의 눈물</title>
       <link>https://www.chosun.com/national/national_general/2024/06/26/HNBDNTHKJ5DQ7FY4Q23Y6NVNBM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/26/HNBDNTHKJ5DQ7FY4Q23Y6NVNBM/</guid>
@@ -859,31 +911,6 @@
       </media:content>
     </item>
     <item>
-      <title>대구지검, ‘외국인 여성 협박·성매매 강요’ 폭력조직원 등 5명 기소</title>
-      <link>https://www.chosun.com/national/regional/2024/06/26/HI24EIHG5JF2XKQCGY4R7LWEYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/26/HI24EIHG5JF2XKQCGY4R7LWEYU/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 11:15:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ERVVL6NTHWNX2BTWOMBAAHIKNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지검 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외국인 여성들을 감금하고 성매매를 강요한 폭력조직원 5명이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대구지검 여성아동범죄조사부(최희정 부장검사)는 성매매업소를 운영하며 외국인 여성들에게 성매매를 강요하고 흉기로 협박한 혐의(성매매처벌법 위반·감금치상 등) 등으로 폭력조직 행동대원 A씨와 운영자 등 3명을 구속 기소하고, 종업원 등 2명을 불구속 기소했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 경남 창원시에서 성매매업소를 운영한 A씨 등은 지난 4∼5월 종업원으로 고용한 태국인 여성 2명에게 성매매를 강요하고, 경찰에 신고하지 못하도록 휴대전화를 훔친 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;또 성매매를 거부하는 피해자들을 흉기로 위협하며 장시간 감금한 뒤 대구 동구에 있는 대구출입국·외국인사무소를 통해 강제 추방하려고 한 과정에서 피해 여성 1명에게 상해를 입힌 것으로 드러났다.&lt;br&gt;&lt;br&gt;A씨는 창원의 한 폭력조직 행동대원으로 성매매업소 업주들을 협박해 돈을 빼앗은 혐의로 재판을 받는 중인 것으로 나타났다.&lt;br&gt;&lt;br&gt;검찰은 피고인들의 계좌 내역을 분석해 성매매업소를 운영하며 얻은 범죄수익 3300만 원가량을 특정한 뒤 예금, 차량 등을 기소 전 몰수·추징보전 했다.&lt;br&gt;&lt;br&gt;대구지검은 “조직폭력 범죄에 엄정 대응하고 범죄수익도 철저히 환수해 관련 범죄를 근절할 수 있도록 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“피멍 들게 때린 코치, 손흥민 친형이었다”… 손웅정 父子 피소</title>
-      <link>https://www.chosun.com/national/people/2024/06/26/TYWWEZWEI5GFPPV77LEX2CQFFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/26/TYWWEZWEI5GFPPV77LEX2CQFFU/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 11:04:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SBR6BYLZ4FAIBDUQR7RCUMTVYI.png"&gt;&lt;figcaption&gt;&lt;small&gt;'2019 대한축구협회 시상식(KFA AWARDS)'에서 올해의 선수상을 수상한 손흥민을 대신 형 손흥윤이 대리수상을 하고 있다. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아동학대 혐의로 SON축구아카데미 손웅정 감독과 코치진들이 유소년 선수 부모로부터 고소를 당한 가운데, 그중 1명은 손흥민 선수의 친형인 손흥윤 수석코치인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;26일 피해 아동 A군이 인천 동부 해바라기센터에 진술한 내용에 따르면 손 수석코치는 A군에게 욕설을 하고 체벌을 가해 전치 2주의 부상을 입혔다. 진술서에는 손 수석코치가 아이들에게 가한 학대 내용이 구체적으로 나와 있었다.&lt;br&gt;&lt;br&gt;A군에 따르면 지난 3월 9일 오키나와 전지훈련 기간, 손 수석코치는 A군을 비롯한 4명의 아이들에게 폭행을 가했다. 당시 아이들이 제한 시간 안에 골대 사이를 반복해 뛰는 훈련 도중 코치진의 기준을 충족하지 못했다는 이유 때문이었다. 진술서에 따르면 그는 아이들을 엎드리게 한 뒤 코너킥 봉으로 엉덩이와 허벅지를 구타했다. A군은 “(손 수석코치가) 못 들어오면 맞는다 했는데, 장난으로 하신 말인 줄 알았는데 네 명이 맞았다”고 진술했다.&lt;br&gt;&lt;br&gt;진술서에는 손 수석코치가 웃으면서 허벅지에 멍이 든 A군에게 “너는 잘못 때렸다”고 말했다는 내용도 등장한다. A군은 구타로 인해 허벅지에 피멍이 들었고, 같이 구타당한 다른 아동은 한동안 걷지 못했다고 말했다.&lt;br&gt;&lt;br&gt;손 감독이 아이들에게 했다는 욕설도 진술서에 나온다. A군은 손 감독이 유소년 선수들에게 “X새끼 완전 또라이네” 등의 폭언을 반복했다고 진술했다. 또 훈련 도중 실수한 A군의 목을 잡고 “잘 살피라고 X새끼야”라고 말했으며 “너 한 번만 더 하면 진짜 짐 싸서 너 집에 보낼 거야. X새끼야” 등 강압적인 태도로 욕설을 반복했다고 했다.&lt;br&gt;&lt;br&gt;한편 손 감독은 이날 입장문을 내고 “마음의 상처를 받은 아이와 그 가족분들께 깊은 사과의 뜻을 전한다”면서도 “고소인의 주장 사실은 진실과는 다른 부분이 많다”고 했다.&lt;br&gt;&lt;br&gt;그는 “전지훈련 중 조기 귀국을 하는 바람에 철저히 관리를 하지 못한 상황에서 코치의 체벌이 있었던 것은 사실”이라면서도 “해당 사건은 선수를 특정해 체벌을 한 것도 아니고 체력훈련 과정에서 코치와 선수들 사이에서 ‘선착순 달리기 후 20초 안에 못 들어 오는 사람 한 대 맞기’로 합의하고 진행한 사안”이라고 설명했다.&lt;br&gt;&lt;br&gt;또한 “고소인 측이 수억 원의 합의금을 요구했고, 그 금액은 아카데미가 도저히 수용할 수 없어 안타깝게도 합의에 이르지 못했다”고도 주장했다.&lt;br&gt;&lt;br&gt;이와 관련, A군 변호를 맡은 법무법인 중심 류재율 변호사는 “가해자 측은 본인들 처지에서만 최선을 다해 미화하고 있다”라며 “마치 본인들은 잘못이 없는데 고소인 측을 거액의 합의금을 요구하는 사람으로 언급하고 있으나 이는 2차 가해”라고 했다.&lt;br&gt;&lt;br&gt;이어 “피해 아동은 한 번의 학대 행위로 이 사건을 신고한 것이 아니”라며 “손아카데미에 입소해 부모로부터 떠나 기숙까지 하며 훈련을 받았는데, 그 과정에서 지속적으로 이루어진 학대 행위를 참고 또 참고하다가 이 문제를 용기 내어 알리게 된 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;이번 사건을 수사한 강원경찰청은 손 감독 등 3명을 지난 4월 중순쯤 검찰에 송치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/HLYLFNS6GJPKNJ2UWL27I6EM2U.jpg?width=5363&amp;height=3575&amp;auth=d744852bc08b252fb04fdbd347be4d721a92ce438403d576c01930e8c0be56b4&amp;smart=true" type="image/jpeg" height="3575" width="5363">
-        <media:description type="plain">&lt;YONHAP PHOTO-2504&gt; 질문에 답하는 손웅정 감독
-    (서울=연합뉴스) 서대연 기자 = 축구 국가대표 손흥민의 아버지인 손웅정 SON축구아카데미 감독이 17일 오전 서울 중구 프란치스코회관에서 열린 본인의 인터뷰집 '나는 읽고 쓰고 버린다' 기자간담회에서 취재진 질문에 답하고 있다. 2024.4.17
-    dwise@yna.co.kr/2024-04-17 11:57:59/
-&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">서대연</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>여수산단 산재 근로자, 경기 시흥까지 이송돼 괴사로 다리 절단</title>
       <link>https://www.chosun.com/national/regional/honam/2024/06/26/WLXIRSCTTBCZHEJOL5EX5KSZFE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/06/26/WLXIRSCTTBCZHEJOL5EX5KSZFE/</guid>
@@ -894,15 +921,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/D5NKDJLMVFDQL5BHI57W3S766A.jpg?width=4032&amp;height=3024&amp;auth=d538e1e5543dacff538f48ace764db88839d099a4b0bb00c9e6771d23fb1f7c8&amp;smart=true" type="image/jpeg" height="3024" width="4032">
         <media:description type="plain">고용노동부 여수지청. 뉴스1 DB</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>스터디카페 무료 간식 싹쓸이한 학생… 사장 “절도죄 되나요”</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/26/2ABRH3MHLVED5JKKCJV5MIA4NA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/26/2ABRH3MHLVED5JKKCJV5MIA4NA/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 08:20:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5DQNKD6JWNGDDP6ERM5ISSU3PE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 4월 다른 스터디 카페 점주가 올린 안내문. /아프니까 사장이다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스터디 카페 내에 비치해 둔 무료 간식을 모두 가져간 학생 때문에 골머리를 앓고 있다는 사장의 사연이 전해졌다.&lt;br&gt;&lt;br&gt;자신을 스터디 카페를 운영 중인 사장이라고 밝힌 A씨는 24일 자영업자 커뮤니티를 통해 “학생이 스터디 카페 안에 있는 스낵바에서 싹 쓸어 담아갔다”며 “절도죄가 성립하느냐”고 물었다.&lt;br&gt;&lt;br&gt;A씨가 공개한 스터디 카페 내부 CCTV 영상에는 한 학생이 가방을 앞으로 멘 채 스낵바에 놓인 간식을 챙기는 모습이 담겼다. A씨는 “스낵바 간식을 내부에서만 드시라고 써 놨다”고 설명했다.&lt;br&gt;&lt;br&gt;A씨가 학생에게 연락해 이 같은 행동을 지적하자, 학생은 되레 “뭐가 문제냐”는 태도를 보였다고 한다. A씨가 공개한 문자메시지 내용을 보면, A씨가 “경찰서에 신고하겠다”고 경고하자, 학생이 “스낵바 간식은 가져가도 되는 걸로 알고 있는데 제가 무슨 절도를 한 것도 아니고 뭘로 신고하겠다는거냐”고 답한다.&lt;br&gt;&lt;br&gt;결국 A씨는 학생에게 간식값 1만원을 요구하며 “입금하지 않으면 그 뒤 일은 스스로 책임져라. 합의 없다”고 으름장을 놨다. 학생은 그제야 “입금했다”고 답했다.&lt;br&gt;&lt;br&gt;A씨는 “입금 안 받아도 되는데 이 학생은 정신 차려야 할 것 같아서 요구했다”며 “근데 지금 또 전화 와서는 간식이 1만원씩이나 하냐고 큰소리친다”고 했다.&lt;br&gt;&lt;br&gt;지속된 학생의 반발에 A씨는 끝내 돈을 환불해 줬으나, 해코지를 받을지 두렵다고 전했다. A씨는 “5명이 몰려와서 담배 피우고 왔다갔다 하길래 환불해주고 내보냈다. 보복할지 무섭기도 하고 학생들끼리 모여서 돌아가며 전화하고 문자 보내는데 돌 것 같다”며 “어떤 해코지를 할 지 무섭다. 그냥 달래야 하냐”고 했다.&lt;br&gt;&lt;br&gt;이 같은 A씨 글에 대부분 네티즌은 “학교에 전화하고 경찰에 신고하라” “지금 혼쭐 안 내 주면 바늘도둑 소도둑 된다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;한편 비슷한 일은 작년 4월에도 있었다. 당시 스터디 카페를 운영하는 점주는 안내문을 통해 “정말 오랜 시간 스터디카페에서 열심히 공부하시는 회원님들은 간식을 구경하지도 못할 만큼 싹쓸이해 가더라”며 “많은 고민 끝에 앞으로는 간식을 매일 의무적으로 내놓지 않기로 했다”고 밝혔었다.&lt;br&gt;&lt;br&gt;한편 영업장에서 제공하는 냅킨, 빨대, 음료 등 무료 비품을 가져가는 행위는 절도죄로 처벌받을 수 있다. 절도죄는 6년 이하의 징역 또는 1천만 원 이하의 벌금에 처할 수 있다. 대법원은 무료 배부 신문도 무더기로 가져가면 절도죄로 인정하는 판결을 낸 바 있다. 2010년 가판대에 있던 무료 신문을 훔친 혐의로 기소된 이모씨에게 벌금 50만원을 선고한 사례다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“임신 두번 빌미로 3억원 요구” 농구선수 허웅, 전 여친 고소 이유 밝혔다</title>
@@ -947,24 +965,6 @@
       <description/>
       <pubDate>Wed, 26 Jun 2024 07:16:30 +0000</pubDate>
       <content:encoded>국내에 입국해 상습적으로 소매치기 절도를 한 러시아 국적 일당에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FTGPTVCXJGOPCYLMP3UYTQ3YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사12단독 구창규 판사는 26일 특수절도 혐의로 기소된 러시아인 남성 A(46), B(46)씨와 여성 C(39)씨에게 각각 징역 6개월을 선고하고 이들을 모두 도주 우려를 이유로 법정 구속했다. C씨는 법정에서 선고 내용을 듣고 울먹이기도 했다.&lt;br&gt;&lt;br&gt;소매치기 일당은 작년 11월 1일에 입국한 뒤 인파가 모인 곳을 찾아 범행 대상을 물색했다. 그 다음 망을 보는 역할, 범행 대상 주변에 서서 다른 사람의 시선을 가리는 역할, 절취하는 역할 등을 나눠 소매지치 절도 범행을 모의한 뒤 이를 실행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이들은 작년 11월 6일 서울 서초구의 한 대형 백화점에서 이러한 역할 분담을 통해 피해자로부터 200만원 상당의 명품 지갑을 훔쳤다.&lt;br&gt;&lt;br&gt;또 이들은 이번 재판과는 별도의 같은 법원 1심 재판에선 그해 11월 4일과 8일에도 각각 사람들이 붐비는 9호선 및 3호선 지하철역에서 혼잡한 틈을 타 피해자들의 지갑을 가로챈 것으로 조사됐다. 이 재판부는 지난 3월 일당에게 징역 1년에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;구 판사는 “피고인들은 이 사건 범행 일시를 전후해 동종의 범죄를 2회 더 저지른 바, 범죄를 저지를 목적으로 한국에 입국한 것으로 판단된다”며 “범정이 매우 불량하다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;구 판사가 “구속된 사실은 누구에게 알리면 되느냐”고 묻자 이들은 “가족들이 모두 러시아에 있어 아무에게도 안 알려도 된다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천 송도 1만 가구 ‘음용 부적합’ 수돗물 24시간 넘게 공급</title>
-      <link>https://www.chosun.com/national/regional/2024/06/26/MTW3UEIQBFHJHP2GO5JAQSP26A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/26/MTW3UEIQBFHJHP2GO5JAQSP26A/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 06:43:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XFHOZULJNNPXNYSERYT33LCTBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;주민들이 비상급수 차량에서 물을 받아가고 있다.(사진은 기사 내용과 무관함) / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 송도국제도시 일부 아파트에 먹을 수 없는 물이 24시간 넘게 공급돼 주민들이 불편을 겪고 있다.&lt;br&gt;&lt;br&gt;26일 인천시상수도본부에 따르면 전날 오후 2시쯤부터 인천시 연수구 송도2동과 송도5동 일대 아파트 등에 음용수 기준치 0.5NTU(수질의 혼탁 정도를 측정하는 단위)가 넘는 수돗물이 공급되고 있다.&lt;br&gt;&lt;br&gt;이 일대 15개 수질 관측 지점 중 5개 지점에서 0.6~3.0NTU 정도의 수치가 나타나고 있는 것이다.&lt;br&gt;&lt;br&gt;시 상수도사업본부는 전날부터 최근까지 8t짜리 물탱크차 15대와 수돗물 병입수 2만1600병(1병당 2ℓ)을 이 지역 주민들에게 지원한 상태다. 전날 오후 이 일대 아파트 단지에선 식수를 지원받기 위해 주민들이 긴 줄을 서는 등 불편을 겪었다.&lt;br&gt;&lt;br&gt;현재 음용수 기준치를 넘어서는 수돗물이 공급되는 가구는 약 1만 가구로 파악됐다.&lt;br&gt;&lt;br&gt;시 상수도사업본부는 지난 20일 인근 상수도관이 파열돼 복구한 뒤 23일 물을 공급하는 과정에서 발생한 압력 차로 관에 있던 이물질이 수돗물에 유입된 것으로 보고 있다.&lt;br&gt;&lt;br&gt;시 상수도사업본부 “이 지역에 공급되는 수돗물은 청소나 빨래 등 생활용수로는 사용이 가능하다”며 “오후 6시 수돗물 정상 공급을 목표로 안정화 작업을 진행하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>맨몸에 여성 속옷 올리고…박재범 ‘19금’ 파격 행보에 팬들도 당황</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/26/JWDXP6RGYNBQVLWJ3EQDE2U3D4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/26/JWDXP6RGYNBQVLWJ3EQDE2U3D4/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Jun 2024 05:52:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K4FM4EEZQ5CVZKLQSPAOZI7FRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 박재범이 성인용 플랫폼인 '온리팬스' 계정을 개설했다./온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 박재범(37)이 성인용 플랫폼인 ‘온리팬스(OnlyFans)’ 계정을 개설했다. K팝 가수로는 처음이다. 성인용 콘텐츠가 주를 이루는 플랫폼인만큼 박재범의 온리팬스 진출을 두고 우려의 목소리가 나오고 있다.&lt;br&gt;&lt;br&gt;박재범은 지난 25일 SNS을 통해 ‘K팝가수 최초 온리팬스 진출’이라는 게시글을 올렸다. 함께 올린 사진에는 박재범이 주방을 배경으로 주방용품을 든 채 혓바닥을 내민 모습이 담겼다. &lt;br&gt;&lt;br&gt;앞서 박재범은 전날(24일) 온리팬스에 계정을 열고 첫 게시글로 “여러분의 지원에 감사드리고 모두가 약간 다른 것이 필요할 때 여기에 있을 수 있어 기쁘다”고 올렸다.&lt;br&gt;&lt;br&gt;이 계정에는 박재범이 상의를 탈의한 채 침대에 누워 빨간색 여성 속옷을 몸에 얹은 사진이 올라왔다. 또 속옷 차림으로 땀을 흘리며 말을 걸고 있는 영상도 게시됐다.&lt;br&gt;&lt;br&gt;온리팬스는 이용자들이 음란물을 자유롭게 제작해 올리고, 유료 구독자를 통해 수익을 얻는 플랫폼이다. 윤리적으로 문제되는 게시물을 제외하면 별도의 검열이 없어 유튜브에서 다룰 수 없는 성인용 음란 콘텐츠가 주로 올라온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V33U2FRQMJAW7OIMCPYUSQHUSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 박재범이 성인용 플랫폼인 '온리팬스' 계정을 개설했다./온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박재범은 음반활동 홍보 목적으로 해당 계정을 개설한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;다만 온리팬스가 그간 음지 문화로 여겨져 왔던 상황이라, 팬들 사이에서는 우려의 반응이 나왔다. 해외 팬들도 “K팝 아이돌이 도대체 왜” “내가 본 게 맞나” “팬들의 동의는 구했나” “충격적이다” 등의 부정적인 반응이 나왔다.&lt;br&gt;&lt;br&gt;특히 한 해외 네티즌이 “여자 아이돌이 이랬다면 경력은 끝났고 블랙리스트에 즉시 올라 평생 괴롭힘을 당했을 것”이라고 올린 SNS 글은 9만여개가 넘는 ‘좋아요’를 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K2WGQ6NJPNLS3KPVR3A46INETI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 김경욱(부캐 다나카)./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박재범의 온리팬스 진출 소식에 그간 음지 문화로 여겨진 성인문화가 유명 연예인을 통해 대중문화로 노출된 사례들이 재조명됐다.&lt;br&gt;&lt;br&gt;지난 19일엔 방송인 탁재훈이 출연하는 유튜브 채널에서 일본 성인 배우 오구라 유나가 걸그룹 시그니처 멤버 지원에게 “AV 배우로 데뷔해달라”고 말해 논란을 빚었다. 논란이 커지자 채널 측은 “불편함을 느끼셨을 모든 시청자분에게 어떠한 변명도 없이 고개 숙여 사과 말씀드린다”고 밝혔다. &lt;br&gt;&lt;br&gt;작년엔 그룹 블랙핑크 리사가 프랑스의 유명 성인쇼 크레이지호스 무대에 올라 논란을 빚었다. 또 개그맨 김경욱이 일본인 호스트 캐릭터 ‘다나카’로 활동하면서 호스트클럽 대중화 비판을 받기도 했으며, 방송인 신동엽이 일본의 성(性) 산업을 조명하는 넷플릭스 콘텐츠 ‘성+인물: 일본편’에 출연했다가 SBS ‘TV 동물농장’에서 하차해달라는 시청자 민원에 직면했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>20대 외동딸 잃은 아버지... 한 살 어린 사촌동생도 참변 당했다</title>
