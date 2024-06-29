@@ -13,6 +13,37 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>박철 “신내림 굿 받은 적 없어…조용히 기도하며 지내”</title>
+      <link>https://www.chosun.com/national/people/2024/06/30/6ENF4U74RNFHHLYPVY4O6URD4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/30/6ENF4U74RNFHHLYPVY4O6URD4U/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Jun 2024 22:18:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7XM4J5Q3YNFZROP6ID4PSMYNLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 박철이 연기 중단 10년 만에 방송에 출연해 근황을 밝혔다./MBN '가보자GO' 시즌2 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송 활동을 중단한 배우 박철이 최근 ‘신내림을 받고 무속인으로 지내고 있다’는 소문에 휩싸인 것과 관련 “신내림을 받은 적이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;박철은 지난 29일 방송된 MBN ‘가보자GO 시즌2′에 출연해 “방송에서 처음 말하는데 나한테 이 나라에서 신내림을 준 사람이 있으면 나와보라”며 “신내림을 준 사람은 아무도 없다”고 했다.&lt;br&gt;&lt;br&gt;지난 10년간 방송에서 모습을 감춘 박철은 작년 12월 유튜브 채널 베짱이엔터테인먼트에 출연해 무속인을 찾아 천신제를 지내고 재수굿을 받는 모습을 공개했다.&lt;br&gt;&lt;br&gt;당시 무속인은 “23년째 힘들다. 잠도 못 자고 몸도 망가졌다”며 찾아온 박철과 천신제를 지내며 “대단한 신줄을 가지고 어떻게 살았니. 여지껏 안 죽은 게 다행이다”고 말했다. 굿까지 마친 박철은 “몸이 너무 가볍다”며 만족해 했다. 무속인은 “무당 못지않은 신명을 가졌다. 사는 게 많이 힘드셨을 것”이라고 했다.&lt;br&gt;&lt;br&gt;아울러 박철은 “신내림을 받게 될 수 있냐”고 묻기도 했다. 이에 무속인은 “신적인 부분은 본인이 잘 빌어 가시든지 본인의 남은 숙제다. 본인의 선택이시니까 어떤 길이든 도와드리려고 한다”고 했다.&lt;br&gt;&lt;br&gt;해당 영상이 공개된 이후 그가 신내림을 받고 무속인이 됐다는 소문이 퍼졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XSDKIYWRD5HVPMAWF5PB3WBL4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 박철이 자신을 둘러싼 소문에 관해 "신내림 굿을 받은 적이 없다"고 밝혔다./MBN '가보자GO 시즌2'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 박철은 “천신이나 이런 것들은 그냥 올 수 있는데 신내림은 해줘야 한다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “(방송에서) 굿을 한 건데 그냥 한 거지 신내림 굿은 아니다”며 “불교 방송에 나가면 스님이냐. 무당 방송에 나가면 무당인 거냐. 나에 대해서 경험하고 싶었다”고 했다.&lt;br&gt;&lt;br&gt;다만 그는 “관상이나 수상을 오랫동안 공부했었다. 원래 영적인 것에 관심이 많다. 항상 내면에 관심이 많다”고 덧붙였다.&lt;br&gt;&lt;br&gt;박철은 근황에 관해 “TV를 전혀 안 본다. 조용히 기도하고 유튜브 하면서 지낸다”고 했다.&lt;br&gt;&lt;br&gt;신내림을 받았다는 소문을 달리 해명하지 않은 이유에 대해선 “정정 인터뷰를 안 하고 싶다”며 “대중에게 불리는 대로 살아가는 게 배우의 숙명이라고 생각한다. 나만 나대로 살아가면 된다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;박철은 1990년대의 대표적인 청춘스타로, 드라마 ‘우리들의 천국’ ‘별은 내 가슴에’ ‘별을 쏘다’ 등에 출연했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MGA3FYXW4RBCXIGDQEENVM74U4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 박철./MBN '가보자GO' 시즌2&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“신병 앓고 신내림 받아”…10년 만에 등장한 박철 근황</title>
+      <link>https://www.chosun.com/national/people/2024/06/27/X7VZL5OXRZBXVJELALXV4SIGDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/27/X7VZL5OXRZBXVJELALXV4SIGDI/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 26 Jun 2024 22:03:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7XM4J5Q3YNFZROP6ID4PSMYNLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 박철이 연기 중단 10년 만에 방송에 출연해 근황을 밝혔다./MBN '가보자GO' 시즌2 예고편&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 박철(55)이 연기를 중단한 지 10년 만에 방송에 출연해 무속인이 된 근황을 밝혔다.&lt;br&gt;&lt;br&gt;박철은 최근 공개된 MBN ‘가보자GO’ 시즌2 예고편에 등장했다. 본방송은 오는 29일 방송된다.&lt;br&gt;&lt;br&gt;30초 분량의 이 영상에는 박철이 그동안 신병을 앓고 신내림을 받았다는 사실과 함께 그가 한복을 차려입고 굿을 하는 듯한 모습이 담겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MGA3FYXW4RBCXIGDQEENVM74U4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 박철./MBN '가보자GO' 시즌2 예고편&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박철은 드라마 ‘별은 내 가슴에’ ‘우리들의 천국’ 등에 출연하며 1990년대를 대표하는 스타로 손꼽혀왔으나, 지난 10년 간 돌연 방송에서 모습을 감췄다.&lt;br&gt;&lt;br&gt;예고편 영상 말미에는 박철이 “신내림을 받으신 건가요?”라는 질문에 “방송을 통해 처음 말씀 드린다”며 그간 어떤 삶을 살아왔는지에 대해 운을 떼는 모습이 담겼다.&lt;br&gt;&lt;br&gt;앞서 박철이 신내림을 받은 소식은 작년 12월 유튜브 채널 ‘베짱이엔터테인먼트’를 통해 전해졌다.&lt;br&gt;&lt;br&gt;그는 이 채널 영상을 통해 “23년째 힘들다. 잠도 못 자고 몸도 망가졌다”며 무속인을 찾아갔다. 이후 굿을 받은 박철은 “조상님들을 봤다”면서 “몸이 너무 가볍다. 나는 (무속을) 부정했던 사람인데 이제는 존중하기 시작했다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HVLMUDFT35A6NKK4WTDC62YY7Q.jpg?width=421&amp;height=316&amp;auth=76923ea001f87a9f3560b4d71c3878f7c803740dcb72c80ed984a9c68d7c2d4d&amp;smart=true" type="image/jpeg" height="316" width="421">
+        <media:description type="plain">배우 박철이 연기 중단 10년 만에 방송에 출연해 근황을 밝혔다./MBN '가보자GO' 시즌2 예고편</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>전국에 바람 동반한 많은 비…오후엔 대부분 그쳐</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/30/KYU5QNIR7VC63LOS3YNMC5NEDA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/30/KYU5QNIR7VC63LOS3YNMC5NEDA/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Jun 2024 21:46:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4S7NB7YKQZL7TN7LQRWCX46GMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주시 이호테우해수욕장에 29일 비가 내리고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일요일인 30일은 장마의 영향으로 전국 대부분 지역에 강한 바람을 동반한 많은 비가 내릴 전망이다.&lt;br&gt;&lt;br&gt;기상청에 따르면 이날 정체전선과 정체전선상에서 발달한 저기압의 영향으로 전국 대부분 지역에 비가 내리다가 낮 12시~오후 6시에 대부분 그칠 것으로 예보됐다. 다만 전남 남해안·경북권남부·경남권·제주도는 밤6시~밤 12시까지 이어지겠다.&lt;br&gt;&lt;br&gt;전남권·경남권·제주도를 중심으로는 돌풍과 천둥·번개를 동반한 시간당 30~50㎜의 매우 강한 비가 내릴 것으로 전망됐다.&lt;br&gt;&lt;br&gt;이날 오전 6시10분 기준 호우특보가 발효된 충청권남부·전라권·경북 일부 지역·경남권을 중심으로 시간당 10~30㎜의 강한 비가 내리고 있으며, 강원도는 10㎜ 내외, 수도권(서울 포함)에는 시간당 5㎜ 미만의 비가 내리고 있다.&lt;br&gt;&lt;br&gt;전날부터 이날 오전 6시까지 전국 주요지역의 강수량은 △수도권 가평북면 111.5㎜·서울 70.4㎜·인천 62.4㎜·수원 46.8㎜ △강원도 서화(인제) 118.0㎜·간동(화천) 107.5㎜·춘천 98.7㎜·원주 45.4㎜·강릉 32.1㎜ △충청권 금산 86.1㎜·정안(공주) 83.5㎜·가곡(영동) 74.5㎜·노은(충주) 71.0㎜·세종 60.0㎜·홍성 59.8㎜·대전 51.7㎜ △전라권 학산(영암) 161.0㎜·유치(장흥) 158.0㎜·피아골(구례) 158.0㎜·뱀사골(남원) 90.5㎜·진안주천 83.5㎜·광주 72.2㎜ △경상권 금남(하동)㎜·169.0 지리산(산청)㎜·159.5㎜·창원 93.2㎜·석포(봉화) 87.5㎜·은척(상주) 76.0㎜·부산 71.4㎜·울산 38.2㎜ 등이다.&lt;br&gt;&lt;br&gt;오후에 그친 비는 다음달 1일부터 다시 오겠다. 2일에도 오전 전라권·경남권·제주도를 시작으로 오후에는 수도권과 강원도로 확대되겠다.&lt;br&gt;&lt;br&gt;이날 낮 최고기온은 24~32도로 예보됐다. 전날(29일) 밤사이 최저기온이 제주도를 중심으로 기온이 25도 이상 유지되는 곳이 있어 열대야가 나타날 가능성이 있겠으니 앞으로 발표되는 기상정보를 참고하기 바란다고 기상청은 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“학부모 보는 앞에서 체벌” 손웅정, 그래도 아동학대죄는 못 피한다?</title>
       <link>https://www.chosun.com/national/national_general/2024/06/30/TBVDZJGQ2ZCEBKBVOSHQOB26GY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/30/TBVDZJGQ2ZCEBKBVOSHQOB26GY/</guid>
@@ -897,28 +928,6 @@
       </media:content>
     </item>
     <item>
-      <title>광주 첨단지구 일대 최대 규모 보도방 업주 구속…4개월 동안 범죄수익 7억 달해</title>
-      <link>https://www.chosun.com/national/regional/honam/2024/06/28/PTS3KNHE6NBR3CHCEPHD5CQ4RQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/06/28/PTS3KNHE6NBR3CHCEPHD5CQ4RQ/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Jun 2024 04:44:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYWQDJAL56SKQE3O23MTRKWZJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 광산경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시 첨단지구 유흥가 일대에서 유흥업소에 접대부를 공급해 온 보도방 업주가 구속됐다.&lt;br&gt;&lt;br&gt;광주 광산경찰서는 28일 여성 접객원을 성매매 목적으로 불법 알선한 혐의(성매매알선 등 행위의 처벌에 관한 법률 위반·직업안정법위반)로 A(45)씨를 구속했다고 밝혔다. 경찰은 지난 7일 광주시 광산구 월계동의 한 유흥업소 앞에서 보도방 업주간 이권 다툼 때문에 발생한 흉기 난동 살인사건을 계기로 불법 보도방 영업에 대한 수사에 착수했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 최근 4개월 동안 여성 접객원에게 성매매를 알선하면서 7억원 상당의 범죄수익을 얻은 것으로 확인됐다. A씨는 여성 접객원 40여 명을 유흥주점에 알선했고 광주 첨단지구 일대에서는 가장 큰 규모였다고 한다.&lt;br&gt;&lt;br&gt;경찰은 A씨와 함께 유흥주점 업주 26명도 성매매 알선 혐의로 불구속 입건했다. 또 성매매 장소를 제공한 모텔업주와 보도방 이권에 개입해 온 배후세력까지 수사를 확대할 방침이다.&lt;br&gt;&lt;br&gt;강일원 광산경찰서장은 “성매매 알선 범행은 사회에 끼치는 해악이 무거운 범죄”라며 “이를 통해 경제적 이익을 얻는 불법 보도방과 유흥주점 업주들은 물론 이들의 배후세력까지 끝까지 추적해 엄단하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/E5HZ2HDATMCMZH665M5RMAHTU4.jpg?width=7087&amp;height=3986&amp;auth=1af1108eff398dd4abb9d46dbd692ba92291584d9726b8d1077251453283e051&amp;smart=true" type="image/jpeg" height="3986" width="7087">
-        <media:description type="plain">광주 광산경찰서.(광주경찰청 제공)/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“성행위 장면 유포하겠다”… 30대 몸캠피싱범 ‘징역 3년’</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/28/7M2TAXXCOFAWHASC35E2F3VTEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/28/7M2TAXXCOFAWHASC35E2F3VTEE/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>알몸 화상 채팅을 유도한 뒤 성행위 장면을 지인에게 유포하겠다고 협박해 돈을 뜯어낸 30대 여성이 법원으로부터 징역형을 선고받았다.춘천지법 형사2단독 김택성 부장판사는 폭력행위처벌법상 공동공갈 등 혐의로 기소된 A(38)씨에게 징역 3년을 선고했다고 28일 밝혔다.</description>
-      <pubDate>Fri, 28 Jun 2024 04:51:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z2YY2UD2HVIKZ3IVUUQN4KEJFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;알몸 화상 채팅을 유도한 뒤 성행위 장면을 지인에게 유포하겠다고 협박해 돈을 뜯어낸 30대 여성이 법원으로부터 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사2단독 김택성 부장판사는 폭력행위처벌법상 공동공갈 등 혐의로 기소된 A(38)씨에게 징역 3년을 선고했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 11월 라오스의 한 몸캠피싱 조직원 사무실에서 오픈 채팅방을 통해 B씨와 화상 채팅을 하면서 성행위 하는 모습을 녹화한 뒤 이를 빌미로 B씨에게 돈을 뜯어내려 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 B씨의 휴대전화에 악성프로그램 파일이 담긴 앱을 설치하게 한 뒤 이를 통해 B씨의 휴대전화에 저장된 연락처 등을 빼낸 것으로 드러났다.&lt;br&gt;&lt;br&gt;이후 B씨에게 지인들의 연락처와 성행위 영상 캡처 사진 등을 전송하면서 돈을 요구하는 등 협박했다.&lt;br&gt;&lt;br&gt;김 부장판사는 “몸캠피싱 형태의 공갈 범행은 수법이 매우 불량하고 피해자들에게 심각한 피해와 고통을 초래할 수 있는 매우 중대한 범죄”라며 “피고인은 전체 범죄에서 자신이 차지하는 역할에 대해 명확한 인식과 의사가 있었고 그 범행의 대가로 받은 실질적인 이득액도 적지 않아 엄한 처벌이 불가피하다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>대법 “용역업체 고용승계 조건으로 아파트 경비원 해고는 정당”</title>
       <link>https://www.chosun.com/national/court_law/2024/06/28/UQYM4EFOIJFPHDTAIY5TT6PH6A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/28/UQYM4EFOIJFPHDTAIY5TT6PH6A/</guid>
@@ -966,15 +975,6 @@
       <description/>
       <pubDate>Fri, 28 Jun 2024 01:44:07 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LKKLX3PGKYQ7YR6N3NR2IG7PWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구도시철도 1호선 하양 연장 구간 역사에 현재 설치된 '부호경일대호산대역'. 역명이 너무 길고 복잡하다는 지적에 따라 '부호(경일대·호산대)역’으로 변경된다. /뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;길고 복잡해 시민불편이 우려됐던 대구도시철도 1호선 경산지역 신설 역명이 단순화된다.&lt;br&gt;&lt;br&gt;28일 경산시와 대구교통공사 등에 따르면, 경산시는 27일 시정조정위원회를 열어 대구도시철도 1호선 하양 연장 구간 신설 역명을 변경하기로 했다.&lt;br&gt;&lt;br&gt;‘부호경일대호산대역’은 ‘부호역’으로, ‘하양대구가톨릭대역’은 ‘하양역’으로 간소화하기로 했다. 기존 역명에 포함돼 있던 대학이름들은 역명 옆에 ‘부호(경일대호산대)역’, ‘하양(대구가톨릭대)역’ 같은 형식으로 표기하기로 했다.&lt;br&gt;&lt;br&gt;앞서 경산시는 지역을 통과하는 대구도시철도 1호선 연장 노선 경산 구간 2개 역명을 ‘부호경일대호산대역’과 ‘하양대구가톨릭대역’으로 각각 결정했다. 하지만 지역명과 인근 대학명을 합쳐 8자로 대구 도시철도 역명 중 가장 길고, 복잡해 암호 같다는 지적이 나왔다. 이런 지적과 논란이 이어지자 홍준표 대구시장은 지난 7일 역명 간소화를 대구교통공사에 지시했고, 공사 측은 경산시에 이를 공식 요청했다. 역명 결정권을 가진 경산시가 이를 수용한 것이다.&lt;br&gt;&lt;br&gt;다만, 역명 변경 관련 비용은 대구시가 부담해야 한다는 게 경산시의 입장이다.&lt;br&gt;&lt;br&gt;대구도시철도 1호선 연장 구간은 오는 12월쯤 정식 개통할 예정이지만, 역사 등은 이미 완공됐고, 역명 간판등은 이미 설치된 상태다. 교체 비용은 각 역마다 1억 원 정도 들어갈 것으로 추산됐다.&lt;br&gt;&lt;br&gt;한편 현재 대구도시철도 1~3호선 92개 역 명 중 이름이 가장 긴 역은 3호선의 ‘수성구민운동장’역으로, 총 7자다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>지자체도 브랜딩 시대…충북도, 브랜딩 상품 내놓는다</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/06/28/D4TWQ3KPURDTVOW7VEIYGD3Z4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/06/28/D4TWQ3KPURDTVOW7VEIYGD3Z4Y/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Jun 2024 02:42:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P4VSNC2PWVGBDKHR6ODQZK5KWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충청북도BI/충북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북도가 BI(브랜드 슬로건) ‘중심에 서다’를 활용한 브랜딩에 나선다.&lt;br&gt;&lt;br&gt;도는 도내 기업과 민·관 공동브랜딩 사업을 추진한다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;이 사업은 충북도가 12년 만에 바꾼 새 BI(Brand Identity) 인지도를 높이기 위해 BI를 넣은 콜라보상품을 제작하는 것이다.&lt;br&gt;&lt;br&gt;도는 이 사업을 추진하기 위해 28일 충북도청에서 14개 기업과 사업 협약을 맺었다.&lt;br&gt;&lt;br&gt;참여기업은 공공디자인이즘, 새싹나라, 본정초콜릿, 뷰티콜라겐, 애여니의 행복한 쿠키, 에어로케이항공, 오드린, 올담, 유유제약, 이강내쌀찐빵, 충북소주, 커피미각, 탑디자인학원, 한국도자기 등이다.&lt;br&gt;&lt;br&gt;도는 지난 6월 5개 브랜드 기업을 발굴하고 도내 소상공인, 청년기업을 대상으로 공개 모집에 나서 9개 기업을 선정하는 등 모두 14개 기업을 협약 기업으로 선정했다.&lt;br&gt;&lt;br&gt;이번 협약을 통해 항공과제약, 주류, 팬시·문구, 제과, 식·음료 뷰티 등 다양한 분야의 업체가 충북도의 BI ‘중심에 서다’ 를 활용해 콜라보상품을 내놓을 계획이다. 이들 기업은 콜라보상품에 충북 브랜드 ‘중심에 서다’를 2년간 무상으로 사용하게 된다.&lt;br&gt;&lt;br&gt;충북도는 이들 기업에 상품 및 포장디자인 개발과 도청사 내 중소기업판매장 입점 등 협업 상품에 대한 홍보와 판로 개발을 지원한다.&lt;br&gt;&lt;br&gt;공동 브랜딩 상품은 충붇고의 디자인 및 마케팅 컨설팅을 거쳐 내달 중 출시한다.&lt;br&gt;&lt;br&gt;김영환 충북지사는 “충북의 새이름 ‘중심에 서다’가 성공적으로 정착해 나가기 위해선 도민에게 친숙하게 다가서는 것이 중요하다”며 “지역 기업과 충북의 브랜드가 함께 성장해 나갈 수 있는 좋은 계기가 됐으면 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>﻿“244만원 냈는데 70만원만 환불” 노인 울리는 임플란트 불만 급증</title>
