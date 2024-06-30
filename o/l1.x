@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 투자자문업 등록하지않고 체결…  자문계약 무효로 볼 수 없다</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/199505.jpg" alt="199505.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;투자자문업 등록을 하지 않고 투자자문에 관한 계약을 체결했더라도 그 계약을 무효로 볼 수는 없다는 대법원 판단이 나왔다. 금융투자업 등록을 하지 않고 투자자문업을 영위해선 안 된다는 자본시장법 제17조를 효력규정이 아니라 단속규정으로 해석해야 한다는 취지이다.&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;대법원 민사1부&lt;/b&gt;(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5554"&gt;서경환&lt;/span&gt;&amp;nbsp;대법관)는 6월 13일 A 사가 B 씨를 상대로 낸 약정금 소송에서 B 씨가 A 사에게 2003만 원을 지급하라는 원심 판결을 파기하고 사건을 서울동부지법으로 돌려보냈다(&lt;b&gt;2024다218978&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;증권정보 제공업 등을 목적으로 하는 A 사는 2021년 12월 B 씨와 같은 달부터 2022년 6월까지, 가입금액 1500만 원으로 주식매매를 위한 주식정보를 제공하는 ‘증권정보제공 VVIP 서비스 가입계약’을 체결했다. 해당 계약에는 서비스제공기간이 끝난 시점에 목표 누적수익률이 700%에 이르지 못할 경우, A 사가 B 씨에게 6개월 동안 추가로 서비스를 제공한다는 특약이 포함됐다. 또 목표 누적수익률이 200%에 이르지 못하면, A 사가 B 씨에게 이용요금 전액을 환급한다는 내용도 있었다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;2022년 3월경 B 씨는 계약 해지를 요청했고, A 사는 B 씨에게 계약 환불계산식에 따라 산정한 약 530만 원을 환불해주기로 했다. 또 향후 환불금액에 대해 B 씨가 일체의 이의제기를 하지 않기로 하고, B 씨가 이를 위반할 경우 A 사에게 환불금액의 2배에 해당하는 금액을 위약벌로서 지급하기로 하는 합의서를 작성했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;그러나 B 씨는 신용카드 회사에 환불금 중 약 530만 원을 제외한 나머지 약 960만 원에 대해 결제취소를 요청했고, 960만 원가량을 환불받았다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;이에 A 사는 “B 씨가 신용카드 회사로부터 환불받은 약 960만 원과 위약벌 약 1060만 원 등을 지급해야 한다”며 소송을 제기했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;반면 B 씨는 “A 사가 유사투자자문업으로만 신고했을 뿐, 자본시장법상 투자자문업자로 등록하지 않아 특정인을 상대로 투자자문행위를 할 수 없는데도 계약을 체결했으므로 해당 계약은 무효이고 합의서도 효력이 없다”고 맞섰다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;1심은 A 사의 주장을 받아들이지 않았다. 항소심도 “자본시장법을 위반한 미등록자의 투자자문계약은 강행규정을 위반한 것으로서 무효”라고 판단해 A 사의 항소를 기각했다. 합의서 또한 계약의 효력이 인정된다는 것을 전제로 한 것이므로, 마찬가지로 그 효력이 없다고 봤다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;그러나 대법원의 판단은 달랐다. 대법원은 금융투자업을 등록하지 않고 투자자문업 또는 투자일임업을 영위해선 안 된다고 규정하는 자본시장법 제17조에 대해 효력규정이 아니라 단속규정에 해당한다고 판단했던 대법원 판례에 따라 투자자문업 등록을 하지 않은 A 사가 투자자문에 관한 계약을 체결해 자본시장법을 위반했다고 하더라도, 그 이유만으로 B 씨와의 계약을 무효라고 할 수 없다고 봤다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;재판부는 “투자자문업자 내지 금융투자업자가 아니고 유사투자자문업자에 불과한 A 사가 체결한 계약의 일부인 특약사항이 투자자인 B 씨에게 손실보전 내지 이익보장을 하는 것에 해당한다고 볼 수 있는지 여부와 무관하게, 특약사항이 선량한 풍속 기타 사회질서 위반으로 민법 제103조에 따라 무효라고 볼 순 없다”고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;이어 “그 밖에 이 사건 특약사항이 사회질서를 위반했다는 등 이유로 사법적 효력을 부인할 만한 사정이 없다”며 “그런데도 원심은 자본시장법 제17조가 강행규정임을 전제로 이 사건 계약이 그 규정을 위반해 무효라고 판단해 판결 결과에 영향을 미친 잘못이 있다”고 설명했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;</description>
+			<pubDate>Sun, 30 Jun 2024 21:25:58 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/199505</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199505</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/199505.jpg</media:thumbnail>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
 			<title>고중석 前 헌법재판관 별세… 향년 87세</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/199522(1).jpg" alt="199522.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4311"&gt;고중석&lt;/span&gt;&amp;nbsp;전 헌법재판소 재판관이 30일 숙환으로 별세했다. 향년 87세.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;전남 담양 출신인 고 전 재판관은 서울대 법대를 졸업한 뒤 1962년 제14회 고등고시 사법과에 합격했다. 이후 부산지법 판사로 임관한 뒤 서울민사지법·서울형사지법·서울고법 판사, 대법원 재판연구관, 전주지법·서울가정법원·서울지법 남부지원 부장판사, 광주고법·서울고법 부장판사, 전주지법원장·대전지법원장·광주고법원장 등을 지&lt;/p&gt;&lt;p&gt;다. 1994년부터 2000년까지 헌법재판관을 역임한 뒤 2000년부터 변호사로 활동했다.   &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;빈소는 서울성모병원 장례식장 13호, 발인은 7월 2일 오전 9시 30분이다. 장지는 남양주 천주교 소화묘원이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;유족으로는 부인 문인자 씨와 딸 영은 씨, 아들 영목 씨와 며느리 이영지 씨, 딸 영선 씨와 사위 이정권 씨, 손자 동준, 동진, 이가온, 이나온 씨 등이 있다.   &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Sun, 30 Jun 2024 05:37:14 -0000</pubDate>
@@ -232,16 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199490</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/199490.jpg</media:thumbnail>
 			<dc:creator>김지현 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 대륜, 부장판사 출신 박정규 변호사 영입</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/199489.jpg" alt="199489.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=법무법인 대륜》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.daeryunlaw.com/" target="_blank"&gt;&lt;b&gt;법무법인 대륜&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3573"&gt;김국일&lt;/span&gt;)이 부장판사 출신인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="691"&gt;박정규&lt;/span&gt;&amp;nbsp;변호사(최고총괄)를 영입했다.&lt;br /&gt;&lt;br /&gt;&lt;span class="lawmanlink" serial="691" style="font-weight: bold;"&gt;박정규&lt;/span&gt;(57·사법연수원 28기) 변호사는 1996년 제38회 사법시험에 합격, 1999년 대구지법 판사로 임관해 수원지법·서울중앙지법·서울동부지법·서울고법 등을 거쳐 2012년 대법원 재판연구관, 2014년 청주지법 충주지원장, 2016년 수원지법 안산지원 부장판사를 끝으로 법복을 벗었다. &lt;br /&gt;&lt;br /&gt;박 변호사는 “20년 가까이 법관으로 근무하며 단순 민·형사 재판 뿐만 아니라, 다양한 건설·기업 관련 소송도 맡은 바 있다”며 “이러한 경험을 바탕으로 의뢰인 변호에 최선을 다하겠다”고 밝혔다.&lt;br /&gt;&lt;br /&gt;&lt;span class="lawmanlink" serial="3573" style="font-weight: bold;"&gt;김국일&lt;/span&gt;(56·34기) 대표변호사는 “풍부한 재판 경험을 갖춘 박 변호사의 합류로 보다 전문적인 법률 서비스 제공이 가능해졌다”고 전했다.&lt;br /&gt;&lt;br /&gt;한편 대륜은 오는 7월 인천본부 신규 개소를 앞두고 있다. &lt;br /&gt;</description>
-			<pubDate>Fri, 28 Jun 2024 05:23:45 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/199489</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199489</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/199489.jpg</media:thumbnail>
-			<dc:creator>안현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
