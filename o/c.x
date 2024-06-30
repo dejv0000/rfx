@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>검찰, 이재명 대선캠프 국방정책 담당자 소환조사</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/30/TIAG3SHPNJGLNCWS545VQ4B4AQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/30/TIAG3SHPNJGLNCWS545VQ4B4AQ/</guid>
+      <dc:creator>강우석 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Jun 2024 13:02:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D5IMAS2BFHOFAH43KPDRFQODT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 북부지검 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 지난 대선 당시 이재명 더불어민주당 후보 캠프에서 국방정책 자문을 맡았던 김정섭 세종연구소 부소장을 최근 소환조사한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;서울북부지검은 이달 중순 김 부소장을 공직선거법 위반 혐의로 소환해 조사했다고 30일 밝혔다. 김 부소장은 대선 당시 민주당 중앙선거대책위 국방정책특별위원회 부위원장을 맡았다. 검찰은 김 부소장이 국방대학교 A 교수와 함께 이 후보의 정책 관련 회의를 한 것을 두고 A교수의 공직선거법 위반 사건 공범으로 보는 것으로 전해졌다. A 교수는 특정직 공무원 신분인 국방대 교수임에도 불구하고 민주당 당원으로 가입하고 선거운동을 하는 등 공직선거법을 위반한 혐의로 검찰 수사를 받아왔다.&lt;br&gt;&lt;br&gt;김 부소장 측은 대선 당시 국방부 기획조정실장에서 퇴임한 민간인 신분이었기 때문에 공범 혐의를 부정하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 감사원은 지난 1월 국방부 산하 싱크탱크인 한국국방연구원이 2021년 당시 텔레그램 등을 통해 이재명 더불어민주당 대선 후보의 공약 수립을 불법 지원하고, 그 과정에서 국방 관련 기밀 자료를 무단으로 활용했 가능성이 있다고 보고, 검찰에 수사 자료를 보낸 바 있다.&lt;br&gt;&lt;br&gt;감사원은 당시 국방부 등에 김윤태 국방연구원 원장을 해임하고, 이 후보 공약 개발에 관여한 국방연구원 직원들을 징계하라고 통보하기도 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>르노코리아 신차 홍보 영상 속 여직원의 ‘집게 손’ 동작에 시끌</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/30/G2VUGDFJG5ABFKCVWSCRFFU3QM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/30/G2VUGDFJG5ABFKCVWSCRFFU3QM/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Jun 2024 13:24:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D5JNLNLJJBAWLGRF5I6JKGIMRY.png"&gt;&lt;figcaption&gt;&lt;small&gt;온라인에서 '남성 비하' 논란이 인 르노코리아 여성 직원의 집게 손 모양. /에펨코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 4년 만에 국내 시장에서 신차인 하이브리드 SUV ‘그랑 콜레오스’를 공개한 르노코리아가 ‘남성 혐오’ 논란에 휩싸였다. 신차 홍보 영상에 출연한 한 직원이 엄지와 검지로 물건을 잡는 ‘집게 손’ 동작을 한 것을 두고 온라인에서 갑론을박이 벌어진 것이다. 무언가를 집거나 가리킬 때 쓰는 이런 손 모양은 극단적 페미니즘 진영에선 남성 비하 의미로 사용된다.  르노코리아의 다른 영상에서도 같은 직원이 비슷한 손 모양이 한 사실이 드러나면서 논란은 커졌다. 결국 르노코리아는 해당 영상을 삭제하고 사과문을 올렸다.&lt;br&gt;&lt;br&gt;30일 르노코리아는 공식 유튜브 채널인 ‘르노 인사이드’ 커뮤니티 게시판을 통해 “최근 발생한 당사의 사내 홍보용 콘텐츠로 인해 불편함을 느끼셨을 모든 분께 다시 한번 진심으로 사과드린다”며 “당사는 최근 발생한 사내 홍보 콘텐츠와 관련된 논란에 대해 깊은 우려와 책임감을 느끼고 있다”고 했다.&lt;br&gt;&lt;br&gt;앞서 르노코리아의 한 여성 직원은 이 채널에 올라온 여러 영상에서 엄지와 검지 손가락을 모아 집게 모양으로 구부리는 손동작을 반복해서 보여준다. 차량 시승기나 신차의 기능을 소개하면서 이런 동작을 취하는데, 이 영상이 에펨코리아 등 남초 커뮤니티에서 확산하면서 남성 비하 논란이 불거졌다.&lt;br&gt;&lt;br&gt;당사자 A씨는 회사 유튜브 채널에 이런 연출에 대해 해명하는 글을 올렸다. A씨는 “특정 손 모양이 문제가 되는 혐오의 행동이라는 것을 알고 있었지만, 정작 제가 제작한 영상에서 표현한 손 모양이 그런 의미로 해석될 수 있다는 것을 미처 인식하지 못했다”며 “앞으로는 더 주의 깊게 행동하겠다”라고 했다.&lt;br&gt;&lt;br&gt;그러나 논란이 가라앉지 않자, 르노코리아는 자사 유튜브 채널의 모든 영상을 비공개하고 회사 명의로  사과문을 올렸다. 르노코리아는 “이번 사안 당사자에 대한 조사위원회는 인사, 법무 등 내부 구성원은 물론 필요시 외부 전문가도 포함해 객관적이고 명확한 사실관계를 파악할 예정이며, 조사 결과에 합당한 적절한 후속 조치를 마련할 예정”이라며 “조사위원회의 결과 도출 전까지 당사자에 대해서는 직무수행 금지 조치를 단행했다”고 했다.&lt;br&gt;&lt;br&gt;르노코리아는 “당사는 이번 사안을 매우 진지하게 바라보고 있으며, 여러 우려에 대한 깊은 반성과 함께 향후 재발 방지를 위해 진심을 다해 지속적으로 노력하겠다”며 “이번 사건으로 인해 불편함을 느끼셨을 모든 분께 다시 한번 진심으로 사과의 말씀을 드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>모발이식 권위자, 김정철 경북대 모발이식센터장 별세</title>
+      <link>https://www.chosun.com/national/regional/2024/06/30/OIU23T2H45A7HIU6KBMWPH2ILQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/30/OIU23T2H45A7HIU6KBMWPH2ILQ/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Jun 2024 12:03:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O3LOH6WMXRENNKIWFCYQAIDRA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북대병원 모발이식센터장을 지낸 김정철 교수./이재태 한국보건의료연구원장 페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;모발 이식 분야의 권위자로, 경북대병원 모발이식센터장을 지낸 김정철 교수가 30일 별세했다. 향년 65세.&lt;br&gt;&lt;br&gt;경북대 의대 피부과·면역학교실 교수이기도 한 김 전 센터장은 1992년 세계 최초로 모낭군 이식술을 개발했다. 이 기술은 탈모 부위에 건강한 모낭을 이식해 새로운 모발이 자라게 하는 것으로, 탈모 치료의 새로운 지평을 열었다는 평가를 받았다. 고인은 이 수술법으로 세계모발의과학회로부터 ‘플래티넘 모낭 상(Platinum Follicle Award)’을 수상했다.&lt;br&gt;&lt;br&gt;고인은 1996년 경북대병원 모발이식센터장으로 부임해 최근까지 칠곡경북대병원에서 제자 양성과 관련 분야 발전에 힘을 쏟았다.&lt;br&gt;&lt;br&gt;유족으로는 부인 이옥진씨와 아들 민규, 딸 보민, 자부 최선미, 손주 주원 등이 있다. 빈소는 경북대병원 장례식장 특 101호, 발인은 2일 오전 7시.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>태풍처럼 난폭해진 장마... 2~3일엔 수도권·충청 집중호우</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/06/30/N2TVGB6PCNDEDJ34KI74NCMAL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/06/30/N2TVGB6PCNDEDJ34KI74NCMAL4/</guid>
+      <dc:creator>김아사 기자, 제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Jun 2024 11:59:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U3ZPUAHS4F6HXTLKGQJWHRV4L4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 29일 오후 서귀포시 대정읍에서 1톤 트럭이 물이 가득 찬 도로에 빠져 경찰관과 소방관이 안전조치 하고 있다. /제주소방안전본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본격적인 장마철이 시작됐다. 주말(29~30일) 동안 이어진 장맛비로 전국 곳곳에 호우특보가 발령되고 제주 지역엔 이틀간&lt;b&gt; &lt;/b&gt;최고 360㎜가 넘는 폭우가 쏟아졌다. 이번 장마 기간엔 초반부터 작년보다 3배가량 많은 비가 내리고 태풍급의 거센 바람도 동반하고 있다. 수도권 지역에도 ‘물 폭탄’에 가까운 집중호우가 쏟아질 수 있다는 관측도 나온다.&lt;br&gt;&lt;br&gt;기상청에 따르면 지난 29일 제주 서귀포와 성산에는 시간당 각각 55.5㎜, 81㎜의 비가 내렸다. 이 지역 6월 시간당 강수량 역대 1위와 2위에 해당하는 기록이다. 주말 동안 한라산 진달래밭 대피소에 360㎜가 넘는 비가 내렸고, 서귀포와 성산 지역도 150~200㎜의 강수량을 기록했다. 전남 구례, 진도, 경남 하동 등 지리산 부근과 남해안 지역에도 200㎜가량의 비가 왔다. 뜨거운 바닷물로부터 열과 수증기를 얻어 발달한 저기압이 정체전선(장마전선)과 만나며 비가 짧은 시간에 강하게 퍼부은 것이라고 기상청은 설명했다. 장마가 시작된 지난 19일부터 29일까지 평균 강수량만 368.6㎜로 이미 평년의 3배를 넘었다. 한 기상 전문가는 “이상 기온으로 바다가 뜨거워지며 고온 다습한 바람이 불어오는 기압계를 형성해, 집중적으로 내리는 비의 양도 늘어나고 있다”고 했다.&lt;br&gt;&lt;br&gt;비와 동반되는 바람도 매우 강했다. 제주 지역 최대 순간 풍속은 한라산 삼각봉 지역이 초속 28.3m, 제주공항 24.7m 등을 기록했다. 풍속이 초속 20m 이상이면 사람이 제대로 걷기 어렵고, 25m를 넘으면 지붕 기왓장이 날아갈 수 있다.&lt;br&gt;&lt;br&gt;실제 전국 곳곳에서 도로가 침수되고 가로수가 넘어지는 등 폭우와 강풍으로 인한 피해가 속출했다. 제주도 소방안전본부에 따르면 29일부터 30일까지 기상 특보와 관련된 신고 50건가량이 접수됐다. 29일엔 제주시 노형동의 한 아파트 외벽이 떨어지고, 30일 새벽엔 제주시 연동의 한 공사장 대문이 날아가 소방 당국이 안전 조치했다. 광주광역시에선 29일 북구 운암동 476가구 아파트의 전기 공급이 1시간가량 끊겼다. 부산, 경북 예천 등에선 27가구 41명이 마을회관, 초등학교 등에 일시 대피했다가 귀가하기도 했다.&lt;br&gt;&lt;br&gt;강풍과 폭우로 항공기와 여객선도 줄줄이 멈췄다. 제주국제공항에 따르면 30일 오후 9시 기준 항공편 총 491편 중 출발 9편, 도착 10편 등 19편이 결항했으며, 160편이 지연됐다. 여객선은 울릉도~독도, 목포~홍도 등 72개 항로에서 91척이 결항했다.&lt;br&gt;&lt;br&gt;1일엔 전국이 흐린 가운데 남부와 제주엔 비가 잠시 멎었다가 다시 세찬 비가 내릴 것으로 전망된다. 예상 강수량은 제주도 30~150㎜, 전남 남해안·경남 남해안 30~120㎜, 광주·전남(전남 남해안 제외)·부산·울산·경남내륙 5~10㎜다. 늦은 오후부터는 경기 동부와 강원 내륙·산지에 대기 불안정으로 5~20㎜ 소나기가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;장맛비는 이번 주 내내 이어질 것으로 전망된다. 2일에는 새벽부터 서쪽에서 다가오는 저기압이 정체전선(장마전선)을 끌어올려 전국적으로 많은 비가 내리겠다. 2~3일엔 수도권과 충청에도 많은 양의 비가 전망되고 있다. 재작년 8월 서울에 시간당 141.5㎜의 집중호우가 내렸을 때와 비슷한 양상이 재현될 수도 있다. 기상청 관계자는 “장마전선의 위치에 따라 지역 강수량 편차가 크겠고, 비가 집중되는 곳에는 ‘극한 호우’가 쏟아질 것으로 예상된다”고 했다. 장마가 끝나는 시기는 평년과 비슷할 것으로 전망된다. 남부 지방은 7월 20일 전후, 중부 지방은 7월 25일 전후 장마가 끝날 것이라는 게 전문가들 견해다.&lt;br&gt;&lt;br&gt;1일 비가 내리지 않는 중부 지방 등은 기온이 30도 이상으로 크게 오를 것으로 예상된다. 전국 대부분 지역에서 높은 습도 탓에 체감 기온은 31도 이상이 될 것이라고 기상청은 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>새 대법관 후보에 노경필·박영재·이숙연 제청</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/27/GUFWZQIWJJCSDC2UUYF5L6OU5I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/27/GUFWZQIWJJCSDC2UUYF5L6OU5I/</guid>
+      <dc:creator>방극렬 기자, 박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 08:00:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HLYVDMIXJJBWDO37ZFIAEN7WJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 대법관으로 제청된 노경필(왼쪽)·박영재(가운데)·이숙연(오른쪽) 판사./대법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조희대 대법원장은 27일 새 대법관 후보자로 노경필(60·사법연수원 23기) 수원고법 부장판사·박영재(55·22기) 서울고법 부장판사·이숙연(56·26기) 특허법원 판사를 윤석열 대통령에게 임명 제청했다. 오는 8월 1일 퇴임하는 김선수·이동원·노정희 대법관의 후임이다. 세 후보자들이 국회 인사청문회와 국회 본회의 표결을 통과하면 윤 대통령이 대법관으로 최종 임명하게 된다.&lt;br&gt;&lt;br&gt;조희대 대법원장은 “후보자들은 법과 원칙에 충실한 재판으로 공정하고 신속하게 분쟁을 해결하여 국민의 재판받을 권리를 충실히 보장할 수 있는 전문적 법률 지식과 합리적이고 공정한 판단 능력을 갖췄다”고 했다. 또 “시대의 변화를 읽어내고 우리 사회의 다양한 가치를 반영할 수 있는 통찰력과 포용력, 국민의 눈높이에 맞는 도덕성과 훌륭한 인품을 두루 겸비했다”고 했다.&lt;br&gt;&lt;br&gt;전남 해남 출신인 노 후보자는 광주고와 서울대 법학과를 졸업, 1997년 서울지법 판사로 임관했다. 5년간 대법원 재판연구관으로 일하며 다수의 헌법·행정 사건을 맡았고 수원고법 수석부장판사를 지냈다. 법리에 해박하고 재판과 연구에 매진해 온 ‘정통 법관’으로 알려졌다.&lt;br&gt;&lt;br&gt;부산 출신인 박 후보자는 배정고와 서울대 법학과를 졸업, 1996년 서울지법 동부지원 판사로 시작했다.  대전고법·서울고법·부산고법에서 재판했고 2009년에는 사법연수원 교수로 일했다. 법원행정처 인사담당관·기획조정실장을 거쳤고, 김명수 전 대법원장 재임기 법원행정처 차장을 지내는 등 사법행정 능력이 뛰어나다는 평가를 받는다.&lt;br&gt;&lt;br&gt;인천 출신의 이 후보자는 여의도여고와 포항공대 산업공학과를 졸업하고 1997년 서울지법 서부지원 판사로 임용됐다. 서울서부지법, 서울남부지법 등을 거쳐 2007년 법원행정처 정보화심의관을 지냈다. 2011년 여성 법관으로선 처음으로 서울중앙지법 영장전담판사를 맡았다. 현재 대법원 산하 인공지능연구회 회장을 맡고 있고 카이스트 전산학부 겸직 교수로 일하는 등 정보통신 기술과 지식재산권 분야에 조예가 깊은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>건설사에 수사 정보 유출 의혹...부산경찰청 수사관 구속</title>
       <link>https://www.chosun.com/national/2024/06/30/VA77AJFFVZG25GL75MGDCQQ7UU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/06/30/VA77AJFFVZG25GL75MGDCQQ7UU/</guid>
@@ -849,23 +894,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMAV6KWOKNHPZPLF6Y2LOHOW54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“내가 받은 사랑, 그대로 아이들에게 전해주고 싶어요.”&lt;br&gt;&lt;br&gt;2000년 12월 7일 대전 동구의 한 파출소 앞. 눈이 내리는 영하 3.5도 날씨에 바구니에 담겨진 한 살짜리 여자아이가 발견됐다. 곧 대전 중구 한 영아 시설로 옮겨졌다. 시설에서는 아이의 이름도 태어난 날도 몰라 ‘빛나는 아이로 성장하라’는 뜻으로 금빛나라고 부르고, 생일은 발견한 날로 했다. 일곱 살 되던 해 아이는 근처 보육원으로 다시 이동했다. 그곳에서 자란 아이는 성인이 돼 대학을 졸업하고 사회복지사가 됐다. 그는 자신이 자란 보육원으로 돌아가 3년째 아이들을 돌보는 부모 역할을 하고 있다.&lt;br&gt;&lt;br&gt;사회복지사가 되겠다고 결심한 것은 보육원의 한 선생님 덕분이다. 금빛나(25)씨는 “평소에도 잘해주셨지만, 설이나 추석 같은 명절때 나를 집으로 데려가 전도 먹여주시고 전통놀이도 하게 하는 등 가족의 따뜻함을 느끼게 해주셨다”며 “입양을 생각해본 적이 없을 정도로 행복했다. 나중에 꼭 그 선생님처럼 아이들의 꿈과 희망이 되겠다고 다짐했다”고 말했다.&lt;br&gt;&lt;br&gt;금씨는 일곱 살이 되던 해부터 아동복지 전문기관인 초록우산에서 매월 10만원씩 지원을 받았다. 금씨는 열다섯 살 때부터 이 돈을 모아 문제집을 사서 공부해 대전의 한 대학 사회복지학과에 들어갔다. 그는 “후원자님들 덕분에 어린 시절을 잘 보낼 수 있었다”면서 “어릴 적 받은 사랑과 관심을 아이들에게 되돌려주고 싶다”고 했다.&lt;br&gt;&lt;br&gt;보육원 아이들과 같은 처지였기에 아이들을 더 잘 이해할 수 있다고 했다. 그는 “보육원 아이 중 학교에서 고아라고 놀림 받으며 왕따를 당하는 아이가 있는데 나도 중학생 때 같은 일을 당한 적이 있었다. 부모가 없는 건 본인이 선택한 길이 아니니 상처받지 말고 당당해지라고 했다”면서 “바뀌지 않는 과거에 얽매이지 말고 자신이 바꿀 수 있는 미래에 더 신경 써야 한다고 아이들에게 말하곤 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>이강천 대한법무사협회장</title>
-      <link>https://www.chosun.com/national/people/2024/06/29/65DPC6GVJVH47FBEBGQYFWPC6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/29/65DPC6GVJVH47FBEBGQYFWPC6A/</guid>
-      <description/>
-      <pubDate>Fri, 28 Jun 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6HK6BUGKRFSTCXRGFLZA7DYOI.jpg"&gt;&lt;br&gt;&lt;br&gt;이강천 법무사가 지난 27일 23대 대한법무사협회 회장으로 취임했다. 임기는 3년. 이 회장은 전국법원공무원노동조합 위원장을 역임했고, 법원 사법보좌관제 도입 및 시행 등을 주도했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 유성봉 前 연합뉴스 그래픽뉴스팀장 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/06/29/7OOJ3XUWJVBPBEY3HB7IFRDA6U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/06/29/7OOJ3XUWJVBPBEY3HB7IFRDA6U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Jun 2024 15:35:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;유성봉&lt;/b&gt; 前 연합뉴스 그래픽뉴스팀장 별세, &lt;b&gt;김은희&lt;/b&gt; 남편상, &lt;b&gt;유누리에&lt;/b&gt;·&lt;b&gt;유나은&lt;/b&gt; 원주MBC 기자·&lt;b&gt;유의준&lt;/b&gt; 前 샌드박스 게이밍 감독 부친상, &lt;b&gt;김명관&lt;/b&gt; 어패럴테크 경영지원부 과장 장인상=27일18시20분 신촌세브란스병원, 발인 30일7시, (02)2227-7556&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이근대&lt;/b&gt; 별세, &lt;b&gt;임태희&lt;/b&gt; 경기도교육감 모친상=27일22시30분 삼성서울병원, 발인 30일6시45분, (02)3410-3151&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이주헌&lt;/b&gt; 前 동부그룹 홍보담당이사 별세, &lt;b&gt;권용자&lt;/b&gt; 남편상, &lt;b&gt;이재우&lt;/b&gt; 삼성전자 VD사업부 프로·&lt;b&gt;이지영&lt;/b&gt; 부친상, &lt;b&gt;임성원&lt;/b&gt; 장인상=27일13시 서울성모병원, 발인 30일7시, (02)2258-5940&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>땡볕에 소금산 앞에서 삽질을 했다</title>
       <link>https://www.chosun.com/national/weekend/2024/06/29/DV3UHSFJY5AY5DBBVVJH7POG6M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2024/06/29/DV3UHSFJY5AY5DBBVVJH7POG6M/</guid>
@@ -880,14 +908,6 @@
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전쟁 시작이다, 덤벼라 태양아! 내게는 1만평(약 3만3000㎡)의 정사각형 염전 한 판이 맡겨졌다. 여기서 소금 약 1.5t이 생산된다. 긁개를 앞으로 밀며 바닥에 맺힌 소금을 긁어낼 때마다 무게감이 전해졌다. 소금이 간수를 흠뻑 머금어 2~3배 무겁다. 얼마 밀지도 않았는데 ‘소금 장벽’에 막힌 기분.&lt;br&gt;&lt;br&gt;왜, 그 ‘당나귀와 소금 장수 우화’ 들어보셨는지. 소금 짐을 지기 싫었던 당나귀가 연달아 여울에 넘어지며 소금을 녹이자, 화가 난 주인이 소금 대신 솜을 지게 했다는 이야기 말이다. 꾀를 부린 당나귀는 또다시 물에 빠졌고, 물을 머금어 무거워진 솜을 지고 가야만 했다. 나는 물에 젖은 솜을 밀고 있는 것 같다. 당나귀는 얼마나 힘들었을까. 이렇게 힘든 줄도 모르고 조롱해서 미안해, 당나귀야.&lt;br&gt;&lt;br&gt;힘 줘 밀다 보니 장화가 미끄러진다. 박씨는 “욕심내서 많이 미는 게 능사가 아니다. 위에서부터 살살 긁어내야 한다”고 말했다. 그래서 살살 긁었다. 소금 더미가 홍해 갈라지듯 긁개 옆으로 스르르 빠져나갔다. 새어 나간 소금을 다시 밀어야 했다. 미는 보람이 없었다. 이걸 덜 빠져나가게 하는 것이 실력이라고. 경력 4년 차인 조모(63)씨가 “채염 작업이 가장 힘들다”며 “얼마나 해야 요령이 생기는지 대중이 없기 때문”이라고 했다.&lt;br&gt;&lt;br&gt;한낮에 작업하면 워낙 고생이기 때문에, 한여름에는 주로 이른 새벽이나 해가 진 이후 3~4시간에 걸쳐 채염을 한다. 뙤약볕에서 작업하는 것보다 훨씬 수월하다고.&lt;br&gt;&lt;br&gt;“스무디 먹고 합시다.” 새참 시간, 반가운 소리가 들렸다. 살얼음처럼 생긴 소금 말고 진짜 살얼음 낀 음료수가 배달 왔다. 일용직 노동자인 우즈베키스탄 출신 오딜호노브(22)씨에게 “힘들지 않으냐” 묻자 “아직은 할 만해요. 스무디 맛있다”는 답이 돌아왔다. 한국에 온 지 2년째로 목포에서 살고 있다. 간혹 일손이 달릴 때 그와 같은 일용직을 쓴다. 일당은 8시간에 15만원. 양파 수확철인 이맘때는 노동력이 양파밭으로 빠져 일손을 구하기 어렵다고 한다.&lt;br&gt;&lt;br&gt;후쿠시마 오염 처리수 논란이 한창이던 지난해, 소금 값은 정점을 찍었다. 후쿠시마 괴담발(發) 사재기에 더해 작년 초여름부터 많은 비가 퍼부어 생산도 줄었기 때문이다. 근 3년 5㎏당 소매가 1만5000원(굵은 소금 기준) 가까이 올랐던 천일염 값은 올해 1만원 초반대가 됐다. 염전 입장에서는 억울하다. 원자인 삼중수소는 물과 결합해 ‘삼중수소수’로 존재하는데, 삼중수소수는 햇빛을 받으면 증발하기 때문에 소금에 남을 일이 없다는 것이 과학 전문가들의 의견이다.&lt;br&gt;&lt;br&gt;잠시 숨을 고르던 장인 박씨가 “결정 굵기를 보니 오늘 염도는 28도 정도”라고 했다. 이걸 딱 보면 안다고? 기상청 공무원 출신인 그는 명예퇴직 후 이 업에 뛰어들었다. 처음엔 ‘난 날씨 전문가이니 심심풀이로 해 봐도 괜찮겠지’라는 생각으로. 그런데 하면 할수록 도통 가늠이 되지 않는 것이 채염이었다. 박씨는 “바닷물이 증발되고 남은 게 소금이라고 단순하게 생각했다”며 “근데 태양광, 구름, 바람, 염도와 수온 등 고려할 것이 너무 많더라”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O4MVU7BKNFAWVMCMF2HGYJWPXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아, 무겁다. 채취한 소금을 수레에 싣고 창고로 이동하는 모습. /주민욱 영상미디어 기자
 
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공든 소금탑이 무너졌다. 긁어낸 소금을 수레로 옮기기 위해 한쪽 구석에 삽으로 쌓던 참이었다. 지금까지의 삽질이 그냥 삽질이 됐구나. 삽 한 술도 무거워 반 술씩 올린 건데. 한 직원이 스치듯 “삽을 이상하게 잡으니까 힘들지”라고 했다. 군미필자는 송구했다.&lt;br&gt;&lt;br&gt;이렇게 채염한 소금은 소금 창고로 향한다. 수레를 옮겨보기로 했다. 염전 부지에는 전날 저녁 채염한 소금 수레 십여 대가 운반을 기다리고 있었다. 소금 쌓인 수레의 무게는 대략 600㎏. 낑낑거리며 밀었다. 다행히 땅에는 창고까지 이어지는 레일이 깔려 있었다.&lt;br&gt;&lt;br&gt;과거에는 채염한 소금을 모두 삽으로 수레에 퍼 담았지만, 최근에는 소금을 퍼담는 자동화 기계가 만들어졌다고 한다. 다만 소금을 1m 너비로 고르게 일렬로 퍼 놔야 기계가 담을 수 있기 때문에 고된 건 비슷하다고. 소금을 소금 창고에 옮기면 작업은 끝난다. 소금들은 앞으로 평균 1~3년 간수 빼는 작업을 거쳐 시장에 나온다.&lt;br&gt;&lt;br&gt;“제가 작업한 양이 얼마나 될까요” 묻자, “600㎏ 정도”라는 답이 돌아왔다. 1t도 못 했구나, 수레 하나 정도 한 셈이다. 숙소로 돌아와 샤워를 하는데, 새삼 ‘짠맛’에 감사했다. 이날 밥 반찬으로 나온 젓갈을 먹을 때도, 김치를 먹을 때도 소금이 생각났다. 내가 채염한 소금도 몇 년 뒤 식탁에 오르겠지. 당분간 밥을 먹을 때 이날의 소복한 소금산과 내 삽질이 떠오를 것 같다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GSJVIOR3RANBI2DGX3DSJVMEA.png"&gt;&lt;figcaption&gt;&lt;small&gt;소금산을 바라보며 생각에 잠긴 조유미 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[아무튼, 픽] 영화 ‘콰이어트 플레이스: 첫째 날’ 외</title>
-      <link>https://www.chosun.com/national/weekend/2024/06/29/5ZLAZARYTFEXVKHL2JLMVJNFJU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2024/06/29/5ZLAZARYTFEXVKHL2JLMVJNFJU/</guid>
-      <description/>
-      <pubDate>Fri, 28 Jun 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2E5I2E27BGPXA5JPQBC54V4RA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;▶영화 ‘콰이어트 플레이스: 첫째 날’&lt;/b&gt;&lt;br&gt;&lt;br&gt;“소리 내면 죽는다”는 광고 카피로 유명한 공포물. 괴생명체가 출현해 세계가 침묵하게 된 그날, 모든 것의 시작을 그린 이야기다. 미국 뉴욕 하늘에서 섬광이 떨어지고, 정체불명 외계 생명체가 나타나 사람들을 닥치는 대로 죽이기 시작한다. “절대 소리 내지 말라”는 안내방송이 울려 퍼지는 가운데 맨해튼의 모든 다리가 폭격으로 끊어지고 사람들은 도시에 고립된다. 수화로 의사소통하는 남녀 주인공. 시각 대신 청각이 극도로 발달한 괴생명체를 피해 탈출할 수 있을까?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AFLP6FCSMVFD3H5OR3I2FTLNX4.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;▶연극 ‘빵야’&lt;/b&gt;&lt;br&gt;&lt;br&gt;한물간 드라마 작가가 소품 창고에서 낡은 장총 한 자루를 발견한다. 의인화한 이름이 ‘빵야’. 작가는 1945년 초 인천 조병창에서 태어난 빵야의 파란만장한 삶을 시대극으로 옮기기 시작한다. 일본 관동군 장교부터 여러 주인을 거쳐 6·25 전쟁의 국군 학도병과 인민군 의용대, 빨치산 토벌대와 빨치산 소녀 등을 체험한 이야기가 극중극으로 흘러나온다. 장총의 고단한 여정이 그 자체로 격동의 한국 현대사다. 9월 8일까지 대학로 예스24아트원1관.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEZJDIO73BCH3HXRM7H4MNJQW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;▶대구뮤지컬페스티벌&lt;/b&gt;&lt;br&gt;&lt;br&gt;대구는 지금 뮤지컬을 가장 먼저, 가장 저렴하게 볼 수 있는 특별시다. 대구국제뮤지컬페스티벌(DIMF)이 7월 8일까지 대구 주요 공연장에서 열린다. ‘홀리데이’ ‘싱잉 인 더 레인’ ‘비천’ 등 7국 뮤지컬 25편이 관객을 만난다. 대학생 뮤지컬페스티벌, 거리공연도 펼쳐진다. ‘만원의 행복’도 인기다. DIMF 관객 절반은 서울·부산·울산·창원·대전 등지에서 온 외지인. 서울역에서 KTX를 타면 동대구역까지 100분 거리다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“더 더 더 더 맵게!”… 빨간 맛에 중독된 한국</title>
@@ -909,14 +929,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N3D4PK2GQBHRVFFKLWR2AP2RPE.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=유현호&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;나는 ‘이소룡 키드’였다. 1973년 서른셋 이소룡(리 샤오룽)이 급사했을 땐 큰 충격을 받았다. 중학생 시절엔 무협소설로 밤낮을 지샜다. 김광주의 ‘비호’와 ‘정협지’, 와룡생의 ‘군협지’에 빠져 무림 고수가 돼 강호를 평정하는 공상에 잠긴 아이였다.&lt;br&gt;&lt;br&gt;이소룡은 1970년대 초 세계적 문화 영웅이 됐다. 세계가 ‘아시아로의 귀환’을 말하기 훨씬 전이다. 동양에 대한 서양인들의 판타지를 무술영화로 일깨웠다. 하지만 사실 그는 중국 전통무술의 신비주의를 깨트린 선구자다. ‘쿵후는 춤이다’라는 이소룡 발언이 중국 무술계를 격분시킨 건 유명한 일화다.&lt;br&gt;&lt;br&gt;무협은 판타지다. 공상과학소설처럼 특정 문법과 경향을 따르는 장르문학이다. 일반 대중을 겨냥한 장르문학이 순수문학보다 열등하다는 이분법은 깨진 지 오래다. ‘해리 포터’나 ‘반지의 제왕’처럼 대중성과 문학성을 겸비한 서양 판타지 작품이 대표적이다.&lt;br&gt;&lt;br&gt;무협 같은 동양 판타지가 구사하는 상상력과 신비주의는 우선 재미있다. 상상력은 삶의 윤활유이지만 무협소설에 빠진 사람도 하늘을 날거나 장풍을 쏠 수 있다고 생각진 않는다. 그러나 한국 사회는 무협은 경시하면서 풍수나 사주명리는 진지하게 받아들인다. 관상이나 역술을 통계적 지혜라고 주장하는 지식인들도 많다.&lt;br&gt;&lt;br&gt;집안에 우환이 이어져 부모님 묘를 이장했더니 문제가 풀리더라는 한 지인의 경험담에 놀란 적이 있다. 영화 ‘파묘’ 비슷한 얘기다. 역대 대선에서 대권을 노린 여러 정치인이 부모 묘를 명당으로 옮겼다는 뉴스도 있었다. 선거, 입시, 인사가 닥치면 점집이 문전성시인 게 우리네 현실이다.&lt;br&gt;&lt;br&gt;풍수와 사주는 전통문화의 지혜를 담고 있는 측면도 있고 흥미로운 서사이기도 하다. 하지만 검증과 반증이 불가능한 이야기들을 부풀려 일상에서 남용하면 혹세무민의 신비주의에 빠진다. 고삐 풀린 채 폭주하는 신비주의는 당사자의 삶과 사회에 두루 해롭다.&lt;br&gt;&lt;br&gt;현대과학이 모든 걸 설명하진 못한다. 과학이 절대적 진리를 주장하지 않는 이유다. 과학은 잠정적이며 증거 앞에 수정 가능하고 항상 비판에 열려 있다. 이와 달리 비전(祕傳)에 의존하는 신비주의적 전통 담론은 폐쇄적이고 교조적이다. 예컨대 풍수의 동기감응(同氣感應)설은 검증 자체가 불가능하다. 햇볕 잘 드는 집터 선택은 의미가 있지만 묫자리 잡는 음택풍수 효과는 황당하게 들린다. 한국적 자생 풍수를 세운 고 최창조 교수는 묫자리로 골머리를 앓느니 차라리 화장하라고 권했을 정도다.&lt;br&gt;&lt;br&gt;서양 판타지인 점성술·골상학처럼 풍수·관상·음양오행설 같은 동양 판타지도 매력이 없진 않다. 그러나 판타지에 미혹(迷惑)되면 삶의 중심이 흔들린다. 중국무술은 역사가 길고 유파도 많다. 이소룡은 그 화려한 허구를 폭로하면서 과연 실전성이 있는지 물었다. 동양 판타지 담론에 현혹되지 않기 위해서도 성찰적 질문을 던져야 한다.&lt;br&gt;&lt;br&gt;세상엔 수많은 도사(구루, 요기, 법사)와 수련법이 있다. 신비주의로 포장한 도사들은 어쩌다 맞는 말도 하지만 대부분 황당한 이야기이다. 그들의 영적 성취는 주관적 환상과 위태롭게 겹친다. 한반도 고유의 수련법을 계승한 한 도사는 하늘의 계시로 정치를 넘보다 80년대 전두환 신군부에게 호되게 경을 치렀다. 수많은 유력자의 운명을 짚어준 전설적 관상가는 자신이 화장실에서 급사할 운명임을 알지 못했다는 얘기도 전해 온다.&lt;br&gt;&lt;br&gt;이소룡의 사자후는 아직 유효하다. 서로 다른 맨손 무술끼리 대결하는 현대 이종(異種) 격투기에 쿵후 선수는 거의 없다. 중국 현대 격투가 쉬샤오둥은 전통무술의 자칭 천하제일 고수들을 주먹 한 방에 쓰러트려 이소룡의 말을 증명했다. ‘동양적인 것’의 매혹을 살리려면 미혹을 칼같이 잘라내야 한다. 예전에도 지금도 판타지는 판타지다. 건강한 어른의 삶은 도사를 거부한다. 도사는 없다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 날씨] 2024년 6월 29일</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/29/ISALCW2GVVE63B7TFGY74FNGNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/29/ISALCW2GVVE63B7TFGY74FNGNY/</guid>
-      <description/>
-      <pubDate>Fri, 28 Jun 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RCKHN2FNUVBV5GC7PX26PAN6O4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“진짜 안티팬이에요”… 손흥민 향한 남자 아이의 귀여운 고백 </title>
       <link>https://www.chosun.com/national/national_general/2024/06/28/526XVIY2P5DPHBD6GIBJIRNIXY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/28/526XVIY2P5DPHBD6GIBJIRNIXY/</guid>
@@ -933,23 +945,6 @@
       <description/>
       <pubDate>Fri, 28 Jun 2024 12:26:46 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4WMXKECTV63L2ERMRHL7LLKWSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 안성시 교통사고 현장.(경기도소방재난본부 제공)/ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 안성의 한 도로에서 화물차와 시내버스 2대가 추돌해 17명이 다쳤다.&lt;br&gt;&lt;br&gt;28일 경기 안성경찰서에 따르면 이날 오후 5시 37분쯤 경기도 안성시 삼죽면 38번 국도에서 2.5t 화물차와 시내버스 2대가 차례로 추돌했다.&lt;br&gt;&lt;br&gt;이 사고로 시내버스에 타고 있던 60대 여성 A씨 등 17명이 다쳐 치료를 위해 인근 병원으로 이송됐다. 경찰은 이들을 모두 경상으로 분류했다. 당시 사고 버스에는 총 43명이 타고 있던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 우회전을 하려고 속도를 줄이던 화물차를 시내버스 1대가 추돌했고, 뒤따르던 또 다른 시내버스가 이를 피하지 못하고 연이어 부딪힌 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “사고 차량 운전자 3명은 모두 음주 상태가 아니었다”며 “운전자 등을 상대로 정확한 사고 경위를 조사하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>4분만에 상공 130m... ‘서울달’ 타고 15분간 두둥실</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/28/C4DXWS3VBNBUVPYDALLYZN6ORY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/28/C4DXWS3VBNBUVPYDALLYZN6ORY/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Jun 2024 11:14:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CROPUVZN2RPBLKXWHKJRMVLQRU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시가 운영할 예정인 기구 ‘서울달’이 28일 서울 여의도 상공에 떴다. 다음 달 6일 시작되는 시범 운영에 앞서 언론에 공개한 것이다. ‘서울달’은 헬륨 가스를 이용해 위아래로 움직이는 기구로, 최고 130m까지 올라간다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울에 두둥실 기구(벌룬)가 떴다. 이름은 ‘서울달’. 보름달처럼 둥그렇게 생겼다고 해서 붙었다. 서울에 기구를 띄우는 건 처음이다. 그것도 여의도 도심 한가운데 뜬다.&lt;br&gt;&lt;br&gt;28일 오전 서울달이 처음 언론에 공개됐다. 서울달은 프로판 가스 등을 태워서 하늘 여기저기를 비행하는 열기구는 아니다. 기구의 풍선(기낭) 안에 공기보다 가벼워 둥둥 뜨는 헬륨 가스를 채우고 로프를 매달아 위아래로만 움직인다. 승객을 태우기 위해 땅에 내릴 때는 로프를 감았다가 상공에 올라갈 때는 푸는 식으로 운영한다. 프랑스 파리에 있는 명물 ‘발롱 드 파리’와 비슷하다.&lt;br&gt;&lt;br&gt;풍선 크기는 지름 22.5m다. 여기에 30명이 탈 수 있는 지름 5.8m 고리 모양의 바구니를 매달았다. 곤돌라와 달리 사방이 뻥 뚫려 있어 하늘을 나는 듯한 느낌을 받을 수 있다.&lt;br&gt;&lt;br&gt;풍선 표면에는 서울시의 브랜드인 ‘서울 마이 소울(SEOUL MY SOUL)’을 그렸다. 서울시 관계자는 “앞으로 서울시 마스코트인 ‘해치’ 그림도 그려 넣을 수 있다”고 했다.&lt;br&gt;&lt;br&gt;서울달을 타니 4분 만에 130m 상공까지 올라갔다. 별도로 동력을 쓰지 않다 보니 올라가는 내내 진동이나 소음이 없다. 가스 냄새도 없다. 천천히 달리는 시내버스 손잡이를 잡고 서있는 것 같았다.&lt;br&gt;&lt;br&gt;지상은 섭씨 28도로 더웠지만 상공은 살랑바람이 불어 시원했다. 130m 위에서 보는 여의도 일대는 지상과 달리 고요하고 평화로웠다. 서쪽으로는 국회의사당이 성냥갑처럼 조그맣게 내려다보였다. 서울시 관계자는 “날씨가 좋으면 경기 김포까지도 보인다”고 했다. 북쪽을 보니 한강과 남산서울타워, 북한산이 보였다. 동쪽 방향은 여의도 빌딩 숲 전망이다. 285m 높이 IFC 빌딩과 파크원(333m)에 가로막혀 63빌딩이나 롯데타워는 볼 수 없었다. 바로 아래는 기구가 출발한 여의도공원. 아찔하다.&lt;br&gt;&lt;br&gt;7분간 경치를 감상한 뒤 다시 지상에 내려오니 총 15분이 걸렸다.&lt;br&gt;&lt;br&gt;서울시는 관광객을 유치하기 위해 32억원을 들여 여의도공원에 서울달을 설치했다. 프랑스의 유명 기구 업체가 제작했다. 서울시 관계자는 “유럽, 미국 기준으로 안전 검증도 마쳤다”고 했다.&lt;br&gt;&lt;br&gt;서울달은 다음 달 6일부터 시범 운영한다. 낮 12시부터 밤 10시까지 15분 간격으로 오르내린다. 밤에는 도심 야경을 볼 수 있다. 월요일은 쉰다. 비가 오거나 바람이 세게 불면 운영하지 않는다. 요금은 어른 2만5000원, 어린이·노인 2만원이다. 서울시의 대중교통 정기권인 ‘기후동행카드’를 사용하면 10% 할인받을 수 있다.&lt;br&gt;&lt;br&gt;서울시는 “서울달을 묶어 관광상품을 만들고 싶다는 호텔, 여행사가 많아 협의 중”이라며 “서울의 경치를 새롭게 즐길 수 있는 명물이 되길 기대한다”고 말했다. 서울시는 매년 16만명의 관광객이 서울달을 탈 것이라고 예상한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/CROPUVZN2RPBLKXWHKJRMVLQRU.jpg?width=4815&amp;height=3280&amp;auth=cbf3a015378e00b85253a23e500062b093227a441b60f27a532273043ea574e9&amp;smart=true" type="image/jpeg" height="3280" width="4815">
-        <media:description type="plain">&lt;YONHAP PHOTO-2846&gt; 열기구 아닌 가스식 기구 '서울달'
-    (서울=연합뉴스) 김도훈 기자 = 28일 오전 서울 여의도공원에서 열린 계류식 가스기구 '서울달' 프레스투어 행사에서 취재진을 태운 '서울달'이 여의도 상공에 떠 있다.
-    '서울달'은 7월 시범 운영을 거쳐 8월부터 시민과 관광객 대상으로 정식 운영된다. 2024.6.28
-    superdoo82@yna.co.kr/2024-06-28 10:45:58/
-&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">김도훈</media:credit>
-      </media:content>
     </item>
     <item>
       <title>지인 딸 성폭행하고 허위 사실 유포... 檢, 50대 남성 구속기소</title>
