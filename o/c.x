@@ -13,6 +13,108 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>41명 한때 대피, 항공기 12편 결항...전국 호우특보, 중대본 1단계 가동 중</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/30/OBKGSSFU5NBBJCYX2IHBXM5OJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/30/OBKGSSFU5NBBJCYX2IHBXM5OJI/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Jun 2024 03:02:01 +0000</pubDate>
+      <content:encoded>29일부터 내린 비로 전국 대부분 지역에 호우특보가 내려진 가운데, 30일 오전까지 총 41명이 비 피해로 일시 대피한 것으로 집계됐다. 항공기 12편도 결항됐다.&lt;br&gt;&lt;br&gt;30일 중앙재난안전대책본부에 따르면 이날 10시 기준 전남, 전북, 경북, 경남, 제주, 광주, 부산, 울산 등에 호우주의보가 발효돼 있다. 제주 추자도는 예비 상태다.&lt;br&gt;&lt;br&gt;오전 10시 기준 누적 강수량은 제주 서귀포 310㎜, 전남 진도 192.5㎜, 전남 영암 181.5㎜, 경남 산청 171㎜, 강원 화천 110.5㎜ 등이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ELS2MR2L2RP7SEHUD7SRNXOKZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;호우주의보가 발효된 29일 광주 서구 화정동 한 거리에서 시민들이 빗길을 걸어가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중대본에 따르면 이번 비로 4개 시·도, 5개 시·군·구에서 27세대 41명이 일시 대피했다. 현재는 전원 귀가한 상태다.&lt;br&gt;&lt;br&gt;또 오전 9시30분 기준 김포 7편, 김해·여수·사천·울산·제주 각 1편 등 항공기 총 12편이 결항됐다.&lt;br&gt;&lt;br&gt;정부는 안전을 위해 북한산, 다도해, 무등산, 지리산, 속리산 등 20개 국립공원 615개 구간을 통제 중이다. 또 지자체 둔치주차장, 하천변 등 689개소도 통제하고 있다.&lt;br&gt;&lt;br&gt;정부는 전날 오후 5시부터 중대본 1단계를 가동 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원 “코로나 경영난으로 조종사 해고한 것 정당해”</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/30/G65GFMP6YBGJ3HSBSAZLSCNXS4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/30/G65GFMP6YBGJ3HSBSAZLSCNXS4/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Jun 2024 02:43:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2YFRBALZVRMRLAL3CNHIIDBY6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 19일 인천공항 전망대에서 바라본 인천국제공항 계류장./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코로나로 경영난을 겪은 LCC(Low Cost Carrier·저비용 항공사)가 조종사 다수를 해고한 것은 정당하다는 법원 판단이 나왔다. &lt;br&gt;&lt;br&gt;서울행정법원 행정13부(재판장 박정대)는 A항공사에서 해고된 조종사 29명이 부당해고가 아니라는 중앙노동위원회(중노위) 결정에 불복해 제기한 소송을 지난달 2일 원고 패소로 판결했다. &lt;br&gt;&lt;br&gt;A항공사는 2020년 10월 코로나로 경영 상황이 나빠지면서 근로자 605명을 해고했다. 이 중 조종사 29명은 “이 해고는 부당해고 및 부동노동행위에 해당한다”며 2020년 12월 서울지방노동위원회(노동위)에 구제를 신청했다. 노동위는 “회사가 해고회피 노력을 다하지 않았기 때문에 경영상 이유에 의한 해고 요건을 갖추지 못했다”며 부당해고를 일부 인정했다. &lt;br&gt;&lt;br&gt;하지만 A항공사는 이에 불복해 2021년 6월 중노위에 재심을 신청했다. 이후 중노위가 “부당해고라고 볼 수 없다”며 앞선 결정을 뒤집자, 해고된 조종사들은 소송을 제기했다.&lt;br&gt;&lt;br&gt;재판부는 “코로나 이전에도 누적된 적자로 경영 위기를 겪고 있던 A항공사는 코로나로 운항 수요가 수멸하자 부채가 급속도로 증가했다”며 “재정상 위기가 쉽게 해소되기 어려운 환경에 처해있었고, 운항 중단 및 영업손실의 확대가 언제까지 계속될지 예상이 불가능했다”며 A항공사의 손을 들어줬다.&lt;br&gt;&lt;br&gt;또 재판부는 A항공사가 자발적 무급 순환휴직, 경영진의 임금 삭감, 조종사 노조와의 급여 삭감 합의, 희망퇴직 등 해고회피를 위한 노력을 충실히 했다고 판단했다. A항공사가 최근 3년의 인사평가 평균, 징계 및 포상 여부로 해고 대상자를 선정한 것 역시 객관적 합리성과 사회적 상당성을 가졌다고 봤다.&lt;br&gt;&lt;br&gt;조종사들은 인사평가 점수로 해고 대상자를 선정한 것이 불합리하다고 주장했지만, 법원은 이를 받아들이지 않았다. 재판부는 “인사평가는 원칙적으로 인사권자인 사용자의 권한”이라며 “인사평가의 본질상 정성적인 요소가 포함돼 있더라도 이를 자의적이라거나 권한을 남용한 것이라고 쉽사리 단정할 수는 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>호남에 최고 180㎜ 폭우…도로 침수되고 국립공원 폐쇄</title>
+      <link>https://www.chosun.com/national/incident/2024/06/30/H4R7V7ZITBGJBOIOQTCOEMX6JY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/30/H4R7V7ZITBGJBOIOQTCOEMX6JY/</guid>
+      <dc:creator>광주광역시=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Jun 2024 01:33:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T5C72CZUFVPZHII3O7WE4JDVS4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 29일 오후 전남 영암군 미암면의 한 주택이 장맛비에 침수됐다는 신고가 접수돼 소방당국이 배수작업을 벌이고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장마전선의 영향으로 호남 지역에 많은 비가 내리고 강풍이 불면서 도로가 침수되는 등 피해가 발생했다. 30일 광주지방기상청에 따르면 이날 오전 8시 30분 기준 광주와 전남 22개 시·군 전역(거문도·초도 제외)에 호우주의보가 발효 중이다.&lt;br&gt;&lt;br&gt;전날부터 누적 강수량은 진도 186.5㎜, 구례 피아골 179.5㎜, 영암 학산 173.0㎜, 장흥 유치 165.0㎜, 광양 157.4㎜, 광주 광산 119.5㎜, 진안 주천 83.5㎜, 장수 번암과 정읍 내장산 74.5㎜ 등을 기록했다.&lt;br&gt;&lt;br&gt;많은 비와 강풍으로 피해 신고가 이어졌다. 광주시에는 도로 물 고임 8건, 나무 쓰러짐 3건, 토사 유출 1건, 도로 침수 1건, 담장 붕괴 1건 등 총 14건 피해 신고가 접수됐다. 전남에는 이날 자정쯤 화순군의 한 도로가 침수됐고, 전날에는 여수시 도로가 폭우에 파이는 등 모두 30건의 피해가 발생했다.&lt;br&gt;&lt;br&gt;광주시는 하상도로 8곳과 둔치 주차장 11개소를 통제하고 있으며, 무등산·월출산, 다도해상 등 광주·전남 지역 국립공원 5곳의 탐방로 출입도 전면 통제 중이다.&lt;br&gt;&lt;br&gt;전북 지역에선 정읍천 등 6개 둔치 주차장을 통제했으며 지리산, 덕유산, 변산반도, 내장산 등 10개 공원 133개 탐방로가 통제됐다. 군산~말도, 군산~어청도, 군산~개야도, 군산~연도, 격포~위도 등 전북 지역 전체 5개 항로 운항도 중단됐다.&lt;br&gt;&lt;br&gt;윤동욱 전북도 도민안전실장은 “계곡, 하천의 상류에 내리는 비로 인해 집중 호우로 수위가 급격하게 상승할 우려가 있으니, 야영을 자제하고 하천변 산책로 또는 지하차도 등은 고립될 수 있어 출입 금지와 야외활동 자제를 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>4살 딸, 아내 상습폭행한 20대… 징역 8개월에 법정구속</title>
+      <link>https://www.chosun.com/national/regional/gangwon/2024/06/30/T6A6Q7WDHVBUXBJVVG2FPQQRZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2024/06/30/T6A6Q7WDHVBUXBJVVG2FPQQRZA/</guid>
+      <dc:creator>춘천=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Jun 2024 02:35:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AFW4GCSK7TSZJGR7MARWVSZAFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 원주지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4살 딸을 수차례 걷어차고, 아내도 폭행한 20대 가장이 실형을 선고 받았다.&lt;br&gt;&lt;br&gt;춘천지법 원주지원 형사3단독 황해철 판사는 아동복지법 위반(아동학대), 폭행 혐의로 기소된 A (29)씨에게 징역 8개월을 선고하고 법정 구속했다고 30일 밝혔다. 황 판사는 또 A씨에게 아동학대‧가정폭력 치료프로그램 각 40시간 이수, 3년간 아동관련 기관 취업제한도 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 11월 18일 오후 8시쯤 강원 원주시 한 편의점 인근에서 딸 B(4)양을 수차례 걷어찬 혐의를 받는다. A씨는 딸이 용변관련 실수를 했다는 등의 이유로 화가나 폭행한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 또 아내(32)씨를 폭행한 혐의도 받는다. 그는 올해 1월 7일 0시쯤 원주시에 위치한 자신의 집에서 대화를 시도하는 아내의 머리채를 잡아 밀치고 때렸다.&lt;br&gt;&lt;br&gt;지난 1월 17일 오후 4시 30분쯤에는 경북 김천시의 한 병원 주차장에서 아내를 때리기도 했다. A씨는 부조금 명목으로 아내에게 5만원을 받았는데, 아내가 다시 돌려달라고 하자 이에 격분해 폭력을 휘두른 것으로 알려졌다.&lt;br&gt;&lt;br&gt;황 판사는 “피고인은 불과 4살인 아동의 복부를 걷어차고, 배우자를 폭행했다. 또 수사나 재판에 임하는 태도를 볼 때 진지하게 반성하거나 그 심각성을 인지하는 것으로 보이지 않는다”고 밝혔다.&lt;br&gt;&lt;br&gt;A씨 측은 1심 판결에 불복해 항소한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/AFW4GCSK7TSZJGR7MARWVSZAFA.jpg?width=4000&amp;height=3000&amp;auth=b09b038ef3b308b6f67ce5c700f54d790ce72a023094607cb143b898a5413dfb&amp;smart=true" type="image/jpeg" height="3000" width="4000">
+        <media:description type="plain">춘천지법 원주지원. (뉴스1 DB)</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>제주 310㎜ 물폭탄...항공편 결항, 강풍에 가로수 쓰러져</title>
+      <link>https://www.chosun.com/national/regional/2024/06/30/NU3LVQ4HKJASDMWFD4LN2ULSRI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/30/NU3LVQ4HKJASDMWFD4LN2ULSRI/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Jun 2024 00:29:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IR4VDIKCLZQ6MGKHILC3PLAB6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오후 제주시 연동에서 가로수가 쓰러져 소방 관계자들이 안전조치하고 있다./제주소방안전본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장마 영향으로 제주에 이틀간 270㎜ 넘는 많은 비가 내리고 강한 바람이 불면서 40여 건의 피해가 발생했다. 또 전국이 장마권에 들어가면서 제주를 연결하는 항공편 18편도 결항됐다.&lt;br&gt;&lt;br&gt;30일 제주지방기상청에 따르면 오전 7시 현재 제주도 산지에 호우주의보가 제주도 전역에 강풍 특보가 발효 중이다.&lt;br&gt;&lt;br&gt;전날부터 이날 오전 10시까지 주요 지점 누적 강수량은 한라산국립공원 삼각봉 310.0㎜, 진달래밭308.0㎜, 한라산남벽 225.0㎜, 서귀포시 남원읍 한남 171.5㎜, 표선면 가시리 146.5㎜, 표선 150.0㎜ 등이다&lt;br&gt;&lt;br&gt;바람도 강하게 불어 이날 오전 7시 기준 일 최대순간풍속은 한라산 삼각봉 초속 26m, 제주공항 24.7m, 제주 23m, 산천단 22.7m, 오등 19.8m 등이다.&lt;br&gt;&lt;br&gt;강한 비바람 속 피해도 잇따라 발생했고, 궂은 날씨로 한라산 입산은 전면 통제됐다. 제주도 소방안전본부에 따르면 전날부터 이날 오전 6시까지 기상특보와 관련된 신고 43건이 접수됐다.&lt;br&gt;&lt;br&gt;이날 오전 5시 21분쯤 제주시 연동 한 공사장 펜스가 날아갔다. 또 전날 오후 11시 38분쯤 제주시 노형동 한 아파트 외벽이 떨어지고, 오후 8시 7분쯤 제주시 연동 한 가로수가 쓰러져 도로를 덮쳤다. 서귀포시에서 도로 침수로 차량 5대가 고립돼 5명이 대피하기도 했다. 서귀포시 일부 지역에서는 하수구에서 물이 역류해 도로가 침수되기도 했다.&lt;br&gt;&lt;br&gt;이날 오전 10시 기준 제주공항과 김해공항, 여수공항, 포항경주공항 등에 기상 악화로 18편의 항공기가 결항됐다.&lt;br&gt;&lt;br&gt;기상청은 제주에 7월 1일까지 비가 내리겠고, 특히 이날 오전부터 낮 사이, 7월 1일 새벽에 시간당 30∼50㎜의 매우 강한 비가 내리는 곳이 있겠다고 예보했다. 또 7월 1일 새벽까지 바람이 순간풍속 20ｍ 이상으로 매우 강하게 불겠으니 시설물 관리와 안전사고에 유의하기를 바란다고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주택 잠기고 강풍에 나무 쓰러져 정전...부산·경남 비피해 잇따라</title>
+      <link>https://www.chosun.com/national/2024/06/30/VDCACJ7DGBBQ5FSMMZNDGVOZH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/06/30/VDCACJ7DGBBQ5FSMMZNDGVOZH4/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Jun 2024 02:27:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SENPK4GANRKIHMQKMBZZOPX3IA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 오전 호우·강풍특보 등이 내려진 부산에는 수영구의 한 육교 구조물이 떨어졌다는 신고가 119에 접수됐다. /부산소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;호우특보가 발효 중인 부산과 경남에서는 강한 비바람으로 크고 작은 피해가 잇따랐다.&lt;br&gt;&lt;br&gt;30일 부산소방재난본부에 따르면 지난 29일 오후 9시부터 이날 오전 9시까지 강풍과 폭우 관련 신고가 45건 접수됐다. 침수신고가 가장 많았다.&lt;br&gt;&lt;br&gt;오전 8시45분쯤 부산 남구 한 교회에서 지하층이 침수됐다는 신고가 접수돼 배수 조치가 이뤄졌다. 지난 29일 오후 8시28분 기장군 기장읍 마트 지하와 오후 9시40분쯤 금정구 장전동 주상복합건물 지하가 물에 잠겼다는 신고로 소방당국이 출동했다.&lt;br&gt;&lt;br&gt;강한 바람에 가로수 등 나무가 쓰러졌다는 신고도 이어졌다. &lt;br&gt;&lt;br&gt;오전 4시 39분 강서구 송정동 도로, 오전 6시34분 해운대구 반여동에 나무가 쓰러져 안전조치에 나섰다.&lt;br&gt;&lt;br&gt;건물 외벽에 떨어지기도 했다. 오전 6시 56분쯤 서구 한 건물 외벽에 떨어졌다는 신고가 접수됐고, 오전 5시 10분엔 수영구 한 육교에서 구조물이 떨어졌다는 신고가 119에 접수됐다. 이날 오전 2시 11분쯤엔 남구 대연동의 한 공사장에서 철근이 내려앉는 사고도 있었다.&lt;br&gt;&lt;br&gt;북구 금곡동에선 900여가구가 정전으로 불편을 겪기도 했다. 오전 4시 41분부터 약 7시 17분까지 2시간 30분간 전력공급이 중단됐다. 지중케이블 불량이 정전 원인으로 추정된다.&lt;br&gt;&lt;br&gt;부산기상청에 따르면 부산에서는 29일부터 이날 오전 9시까지 중구 대청동 공식 관측 지점 기준으로 76.6mm의 비가 내렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CFGIKSUI6VLDZJ5F7WDGCPC3JI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오후 호우·강풍특보 등이 내려진 부산에는 강서구 주택가 마당에 물이 찬다는 신고가 119에 접수됐다. /부산소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남에서도 강한 장맛비에 정전 등의 피해가 잇따랐다.&lt;br&gt;&lt;br&gt;이날 경남도에 따르면 오전 창원시 월영동의 한 아파트 992가구에서 정전이 발생해 현재 복구 작업이 진행 중이다. 인근 나무가 쓰러지면서 전선이 끊긴 것으로 추정된다. 오전 내로 복구가 마무리될 것으로 보인다.&lt;br&gt;&lt;br&gt;도로 19곳과 주택 1곳 등 26곳에서 침수 우려 또는 나무 쓰러짐으로 소방이 출동해 안전조치가 이뤄졌다. 통영에서는 침수 우려 등으로 1명이 대피했다가 이날 오전 귀가했다. 현재까지 인명피해는 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;오전 10시 기준 경남에서는 232곳에서 통제가 이뤄지고 있다. 진주·의령 각 3곳 등 도로 12곳의 차량 통행이 금지됐고, 하상 도로인 세월교 153곳이 통제됐다. 또 창원과 사천 등의 야영장·캠핑장 6곳, 산책로 43곳, 둔치 주차장 16곳은 접근이 금지됐다. 경남에서는 29일부터 이날 오전 10시까지 지리산(산청)에 200mm에 가까운 폭우가 쏟아졌고, 하동 146.5mm, 진주 129.5mm 등의 비가 내렸다.&lt;br&gt;&lt;br&gt;기상청은 30일 밤까지 부산과 경남에 30mm에서 80㎜의 비가 더 내릴 것으로 예보했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈 “팬덤 정치 악순환...사이다보다 생수 같은 정치 할 것”</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/30/5VORUTSP6JHTDHZNNQJXP2TU3M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/30/5VORUTSP6JHTDHZNNQJXP2TU3M/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Jun 2024 01:42:37 +0000</pubDate>
+      <content:encoded>오세훈 서울시장은 오는 7월1일 취임 2주년을 앞두고 “시민 일상의 행복에 도움되는 일에 매진하며 더욱 ‘낮은 곳’으로 임하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QF3YCZ2KMFIKLHQR72CWYKAUCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;[서울=뉴시스] 황준선 기자 = 오세훈 서울시장이 27일 오후 서울 중구 서울시청에서 열린 약자가구와의 동행을 위한 업무협약식에서 인사말 하고 있다. 2024.05.27. hwang@newsis.com&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 30일 자신의 페이스북에 올린 글에서 “지금 한국 정치의 대세는 ‘파이터’”라며 “파이터가 다른 파이터를 때리고, 그 과정에서 생겨난 팬덤이 파이터를 다시 극단으로 몰아간다”고 했다. 이어 “자질 부족, 비전 부실조차 한국 정치에서는 이제 흠이 아니다. ‘싸움의 기술’이 유일한 덕목”이라며 “결과적으로 파이터들이 서로의 존재 덕에 각광받으며 정치를 하는 적대적 공생을 우리는 지켜보고 있다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 또 “과거엔 거짓말이 들통나면 당사자도 사과하고 책임지는 게 당연했다”며 “이제는 유죄 판결을 받고도 태연히 선거에 나오고, 거짓이 탄로 나도 더욱 고개를 꼿꼿이 세운다”고 했다. 그는 “공론의 장은 날카로운 언어로 가득 찼고, 편 가르기 언어는 너무나 보편화돼 상식처럼 느껴질 정도”라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 그러면서 “참모들이나 주변에선 강성, 사이다 발언을 해야 한다고 누차 조언한다”며 “톡 쏘는 사이다보다, 밋밋해도 우리 몸에 꼭 필요한 생수 같은 정치를 해야 한다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “갈등의 골이 점점 깊어지고, 인구는 줄어 경제 활력이 떨어지고 있다”며 “지금은 경제도 정치도 모두 얼어붙은 절망의 겨울이 도래한 듯하다”고 했다.&lt;br&gt;&lt;br&gt;그는 “소설가 박완서 선생은 겨울을 버텨내고 피어나는 노오란 얼음새꽃을 ‘따뜻한 위로’라고 했다”며 “임기 3년차를 시작하는 지금 저는 얼음새꽃 같은 정치를 하겠노라 마음을 다진다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title> “유치원생 죽이겠다” 112에 4번 허위신고 50대 ‘징역 9개월’</title>
+      <link>https://www.chosun.com/national/regional/2024/06/30/AQMA654PUVEYNAOX45Z3DXMYMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/30/AQMA654PUVEYNAOX45Z3DXMYMQ/</guid>
+      <dc:creator>수원=권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Jun 2024 01:58:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y7OIWNNAHAB6EIA2AS3UZIQICY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민건강보험공단이 자신의 계좌에서 보험료를 인출해갔다며 112에 전화해 유치원생을 죽이겠다는 내용의 허위 협박 전화를 한 혐의로 기소된 50대가 실형을 선고받았다.&lt;br&gt;&lt;br&gt;30일 법조계에 따르면 수원지법 형사12단독 하상제 부장판사는 위계공무집행방해, 경범죄처벌법위반 등 혐의로 기소된 A씨에게 징역 9월 및 벌금 60만원을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 3월 2일 오전 10시40분쯤 112에 전화해 “국민건강보험공단에서 내 돈 300만원을 빼갔다”, “사회에 공론화시키기 위해 유치원에 가서 100명을 죽이고 싶다”며 4차례 허위 신고를 한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;이 때문에 당시 경찰 29명과 119구급대원 3명 등 공무원 32명이 동원돼 A씨의 주거지와 마지막 통화 기지국 위치 주변으로 출동해 수색하는 소동이 빚어졌다. A씨는 이에 앞서 작년 6월 30일 오전 0시32분에도 “수원의 모 건물에서 여성이 성매매하고 있다”는 취지로 거짓 신고를 한 혐의도 받는다.&lt;br&gt;&lt;br&gt;하 부장판사는 “피고인은 전과 17범으로 동종 범죄로 처벌받은 전력이 여러 차례 있음에도 전혀 자숙하지 않고 또다시 죄를 저지른 점을 고려하면 징역형 및 벌금형을 선택함이 합당하다”고 판시했다.&lt;br&gt;&lt;br&gt;이어 “비록 피고인이 불우한 환경 속에서 성장했으며, 평생 경제적 어려움과 정서적 유대감이 단절된 세상 속에서도 포기하지 않고 삶을 살아오던 중 한순간 화를 주체하지 못하고 범행을 저지르게 됐으나 현재는 반성하고 자백하는 점 등 유리한 정상을 감안하더라도 그 형의 집행을 유예할 만큼의 정상 참작 사유가 있다고 보기 어렵다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘이 단어’ 썼다고…“임영웅 실망, 불매합니다” 유튜브 댓글 테러</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/30/2Y5KIZPV7RGB3DPMB3VJTDNNRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/30/2Y5KIZPV7RGB3DPMB3VJTDNNRY/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Jun 2024 01:09:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2XL6HCU4ES2PQBB65CMCPZ5ZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 임영웅./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;트로트가수 임영웅이 유튜브 라이브 방송 도중 여초 커뮤니티에서 자주 사용하는 특정 단어를 사용했다가 악성 댓글에 시달리고 있다.&lt;br&gt;&lt;br&gt;30일 임영웅의 공식 유튜브 채널에는 그가 지난 16일 진행한 생일 기념 라이브 방송 도중 ‘드릉드릉’이라는 단어를 쓴 점을 지적하는 댓글들이 잇달아 올라왔다.&lt;br&gt;&lt;br&gt;댓글에는 “임영웅씨 실망입니다. 드릉드릉이라니, 페미(니스트) 용어인 건 알고 쓰시나요?” “뉴스만 봐도 드릉드릉이 뭔 말인 줄 알지 않나. 또 몰랐다고 할 건가. 잘나가니까 사고쳐서 입지 테스트해보는 건가” “전국민에게 사랑받는 스타의 입에서 국립국어원도 정확하게 설명하지 못하는 단어가 막 나온다는 게 안타깝다” 등의 내용이 담겼다.&lt;br&gt;&lt;br&gt;해당 악성 댓글들은 유튜브 채널에서 삭제됐으나, 기존에 남겨졌던 댓글의 캡처본이 여러 온라인 커뮤니티를 통해 확산중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SQRR3SPHH5DIJOF4IM7OX2HW7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'에펨코리아'에 올라온 임영웅 '드릉드릉' 발언 관련 게시글./'에펨코리아' 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일부 네티즌들이 임영웅의 2주 전 발언을 문제 삼은 건 지난 28일 그가 tvN ‘삼시세끼 어촌편’에 출연한다는 소식이 알려지면서부터다.&lt;br&gt;&lt;br&gt;임영웅 소속사 물고기뮤직 측은 임영웅이 7월 중순 촬영을 진행하는 것으로 알려진 ‘삼시세끼’에 출연한다고 밝혔다. 소식이 알려지자 임영웅이 16일 유튜브에서 진행한 라이브 방송에서 한 발언이 재조명됐다.&lt;br&gt;&lt;br&gt;이 방송에서 임영웅은 “입이 근질근질하다. 하고 싶은 말은 많지만 참도록 하겠다. 앞으로 여러분 만나 뵐 수 있는 기회, 만날 수 있는 시간 많이 마련할 예정이다. 저도 몸이 근질근질하고 마음이 드릉드릉한다. 여러분에게 좋은 모습 보여드릴 시간 많이 마련할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;이 발언은 ‘삼시세끼’ 출연을 앞두고 기대감을 나타낸 것으로 해석됐으나, 남초 커뮤니티 ‘에펨코리아’를 중심으로 임영웅이 사용한 ‘드릉드릉’이라는 표현에 문제가 있다는 지적이 제기됐다.&lt;br&gt;&lt;br&gt;해당 커뮤니티에는 “임영웅이 드릉드릉 발언을 했다”는 식의 게시글에 2000개에 가까운 비판 댓글이 달렸고, 관련 게시글도 수십개가 올라왔다. 한 회원은 “어머니한테 임영웅 불매하라고 알려드리고 싶은데 뭐라고 말씀드려야 할지 모르겠다”며 “’아들 성별인 남자 무시하는 발언을 썼다. 아들 생각해서라도 임영웅 소비 조금씩 줄이자’라고 말해도 안통할 거 같은데 머리아프다”고 고민글을 올리기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2TWYVDADGZBMLONF37VAMNEATA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국립국어원 표준국어대사전 '드릉드릉' 검색 결과./국립국어원 표준국어대사전 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국립국어원 표준국어대사전에 따르면 ‘드릉드릉’은 ‘크게 자꾸 울리는 소리’라는 부사다. 코를 고는 소리, 자동차 시동을 거는 소리 등을 표현할 때 주로 쓰인다. 그러나 최근 일각에서는 이 표현을 여초 커뮤니티 등에서 남성 비하 또는 혐오 맥락으로 쓰는 용례가 많아졌다는 주장이 나왔다.&lt;br&gt;&lt;br&gt;현재 임영웅의 유튜브 채널에는 이른바 ‘댓글 테러’ 소식을 접하고 찾아온 팬들의 대응 댓글이 줄잇고 있다.&lt;br&gt;&lt;br&gt;팬들은 “새벽부터 달린 악플 PDF 땄고 소속사에 메일 보내놨다” “이 일로 상처받을 팬은 없어요. 팬들한테 빨리 공개하고 싶은 마음 표현한 건데요” “악성 댓글 쓰더니 삭제하고 도망가네요. 합의나 선처없이 고소해주세요” 등의 댓글을 남겼다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>음란대화 유도 후 “내용 유포한다” 협박 돈 뜯은 20대, 징역 2년</title>
+      <link>https://www.chosun.com/national/regional/2024/06/30/IVU3CFPHAJAVBCPX2HQOQMAGCY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/30/IVU3CFPHAJAVBCPX2HQOQMAGCY/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Jun 2024 01:32:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOIPX7HDNFCOHOGTNKRO6EMBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음란한 대화를 유도한 뒤 대화 내용을 캡처해 유포하겠다고 협박하거나 만남 주선 등을 미끼로 돈을 받아 가로챈 20대가 실형을 선고받았다.&lt;br&gt;&lt;br&gt;30일 법조계에 따르면 대전지법 형사9단독 고영식 판사는 공갈, 사기, 협박 혐의로 재판에 넘겨진 A씨(27)에게 징역 2년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 1월 6일 서울 구로구에 있는 자신의 집에서 성관계를 주선하는 내용의 게시글에 댓글을 남긴 B씨(28)를 대상으로 음란한 대화를 유도한 뒤 ‘댓글과 대화 내용을 캡처했다. 다니고 있는 대학교 커뮤니티에 이를 올리겠다’고 협박해 총 15회에 걸쳐 3090만원을 뜯어낸 혐의를 받는다. A씨는 또 다른 피해자 2명에게는 ‘같이 여행을 가자. 예약금을 보내주면 월급이 들어오면 갚겠다’며 5회에 걸쳐 총 530만원을 받아 가로챈 혐의도 받는다.&lt;br&gt;&lt;br&gt;A씨는 다른 피해자에게 호텔 비용을 보내주면 자신의 여자친구와 상대방의 친구를 호텔에서 만나게 해주겠다고 거짓말하는 등 51회에 걸쳐 4790만원을 받아 가로채기도 했다.&lt;br&gt;&lt;br&gt;고 판사는 “피고인이 경제적으로 어려운 상황에서 범행한 것으로 보인다”면서도 “피해자들로부터 총 8420만원을 가로채고 용서받지도 못한 점, 사기 범행으로 3회 벌금형 처벌받은 전력이 있는 점 등을 고려해 엄한 처벌이 불가피하다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>골프장 회원권 사기 의혹 50대 개인사업자, 숨진 채 발견</title>
+      <link>https://www.chosun.com/national/regional/2024/06/30/DPLQGI6JSRCGTEIHU7AHJGIHFI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/30/DPLQGI6JSRCGTEIHU7AHJGIHFI/</guid>
+      <dc:creator>포항=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Jun 2024 01:08:20 +0000</pubDate>
+      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FO4LY3RLGMQPZFLUWPFBV5YFSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 포항북부경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;골프장 회원권 구입명목으로 돈을 받은 뒤 잠적해 사기의혹으로 경찰에 고소된 50대 개인사업자가 자신의 차량에서 숨진채 발견됐다.&lt;br&gt;&lt;br&gt;30일 경북 포항북부경찰서에 따르면, A씨는 지난 29일 오후 2시 30분쯤 포항 지역의 한 초등학교 인근에 주차된 자신의 차량 안에서 숨진채 발견됐다. 경찰은 타살 혐의점이 없는 것으로 파악했다.&lt;br&gt;&lt;br&gt;10여년 전부터 오션힐스 포항CC에서 개인 사업자형태로 회원권 거래 업무를 맡아 온 A씨는 최근 “회원권을 싸게 살 수 있게 해주겠다”며 구매자들에게 접근해 현금만 받아 챙긴 후 잠적했다. 잠적 이후 현재 10여 명이 A씨에게 사기를 당했다며 경찰에 고소장을 접수했다.&lt;br&gt;&lt;br&gt;경찰은 “A씨에 대한 사건은 공소권 없음으로 사건이 종결할 예정이다. 다만 회원권 피해와 관련해 또 다른 책임자가 있는지 여부에 대해서는 수사를 검토할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;한편 포항지역 골퍼들 사이에서는 회원권을 사기 위해 A씨에게 돈을 건넨 뒤 회원권이나 돈을 돌려받지 못한 피해자가 수십명, 피해금액은 수십억 원에 이른다는 말이 나돌고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>박철 “신내림 굿 받은 적 없어…조용히 기도하며 지내”</title>
       <link>https://www.chosun.com/national/people/2024/06/30/6ENF4U74RNFHHLYPVY4O6URD4U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/30/6ENF4U74RNFHHLYPVY4O6URD4U/</guid>
@@ -830,64 +932,6 @@
       </media:content>
     </item>
     <item>
-      <title>교차로 좌회전 하는 차 ‘쿵’… 65차례 사고 내고 4억원대 보험금 챙긴 일당</title>
-      <link>https://www.chosun.com/national/incident/2024/06/28/6ESAXUVSW5GODCJT3FSR7TLR4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/28/6ESAXUVSW5GODCJT3FSR7TLR4Y/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Jun 2024 05:43:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2RN3DYTBLBCNJKOGVHWCXVVZXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천경찰청 로고./인천경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교차로에서 일부러 접촉 사고를 내고 치료비 등 명목으로 4억여 원의 보험금을 챙긴 일당 6명이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;인천경찰청 교통범죄수사팀은 보험사기방지 특별법 위반 혐의로 30대 남성 A씨 등 2명을 구속했다고 28일 밝혔다. 경찰은 또 같은 혐의로 20~30대 남녀 4명을 불구속 입건했다.&lt;br&gt;&lt;br&gt;A씨 등은 2020년 6월부터 지난 2월까지 서울과 인천 등 수도권 도로 교차로 등에서 일부러 교통사고를 내고, 치료비 등 명목으로 보험사로부터 총 65차례에 걸쳐 4억2000만 원을 받아 챙긴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;친구‧선후배 관계인 이들은 교차로에 그려진 점선을 따라가지 않고 좌회전하는 차량 등을 대상으로 고의사고를 내고, 병원에 입원해 치료를 받은 뒤 보험금을 챙기는 방식 등으로 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A 씨 일당은 보험사나 수사기관 등으로부터 고의사고 의심을 받지 않기 위해 렌터카를 이용해 운전자를 바꿔가며 범행을 지속한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “앞으로도 교통사고 보험사기 범죄를 강력히 단속할 예정”이라며 “고의적인 교통사고로 인한 피해로 의심되는 경우엔 차량 블랙박스 원본 영상이 지워지지 않도록 보관하고, 가까운 경찰서에 신고해 달라”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 여자친구 살해한 남자친구, 檢 송치…“살해 인정”</title>
-      <link>https://www.chosun.com/national/incident/2024/06/28/KERPCM7T2VFU5OF3CNJBV432YE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/28/KERPCM7T2VFU5OF3CNJBV432YE/</guid>
-      <dc:creator>안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Jun 2024 05:16:57 +0000</pubDate>
-      <content:encoded>서울 광진경찰서는 광진구의 한 다세대주택에서 20대 여자친구를 살해한 혐의를 받는 남자친구 20대 A씨를 살인 혐의로 지난 14일 서울동부지검에 구속 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UJXCOUHBIOPYN6FKSXJLDEXY7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 광진경찰서의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 처음 경찰 조사에서 ‘사건이 기억이 나지 않는다’며 진술 대부분을 거부하는 등 혐의를 부인하다가, 결국 살해를 인정했다고 한다.&lt;br&gt;&lt;br&gt;A씨는 지난달 21일 오전 5시쯤 서울 광진구 자양동의 한 다세대주택에서 여자친구 B씨를 흉기로 찌른 뒤, 본인도 자해한 혐의를 받는다. 사건 현장에선 흉기도 함께 발견됐다.&lt;br&gt;&lt;br&gt;경찰과 소방은 “살려달라”는 A씨의 신고를 받고 출동했지만 B씨는 이미 발견 당시 숨졌다. 의식 불명 상태였던 A씨는 인근 대학 병원으로 옮겨져 치료를 받고 살았다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 이 둘은 연인 사이로 밝혀졌다. 경찰은 외부 침입 흔적이 없는 등의 정황을 토대로 A씨를 살인 용의자로 지난 7일 구속, 구체적인 범행 경위를 조사했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/UJXCOUHBIOPYN6FKSXJLDEXY7M.jpg?width=6000&amp;height=4000&amp;auth=d4b516eb57516db4673732cc5089dd55f74a9db5cf8e81fe96340e0e80886d34&amp;smart=true" type="image/jpeg" height="4000" width="6000">
-        <media:description type="plain">서울 광진경찰서의 모습. 2023.11.22/뉴스1 ⓒ News1 이재명 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 이재명 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“물 너무 많이 써 불편해”… 방송인 줄리안, ‘워터밤’ 축제 작심 비판 </title>
-      <link>https://www.chosun.com/national/national_general/2024/06/28/TLNJ2URYOBHMFFJLKTTJZJHTEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/28/TLNJ2URYOBHMFFJLKTTJZJHTEA/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Jun 2024 05:18:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OPDCUJZ555LLBOOWKGOFFSIIEI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;방송인이자 주한외국인자원봉사센터 공동창립자 줄리안 퀸타르트가 2022년 7월 12일 오후 서울 마포구 문화비축기지에서 진행된 ‘2022 글로벌 기후재난포럼’에서 기조연설을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;물놀이 공연으로 유명한 여름 축제 ‘워터밤’이 내달부터 전국 여러 지역에서 순차적으로 이어질 예정인 가운데, 또다시 물낭비 논란이 화두에 오르고 있다. 평소 환경 보호에 대한 소신을 드러내 온 벨기에 출신 방송인 줄리안 퀸타르트는 자신의 소셜미디어를 통해 물낭비 문제뿐만 아니라 일회용품 과사용을 지적하고 나섰다.&lt;br&gt;&lt;br&gt;줄리안은 27일 인스타그램에 워터밤 VVIP 초대장을 소개하는 영상을 올리곤 “초대장에... 일회용 LED?”라고 적었다. 줄리안이 올린 영상에는 초대장 상자 상단에 LED 화면이 부착되어 있고, 여기에서 워터밤 영상이 나오고 있는 모습이 담겼다. 이에 줄리안이 올린 글은 초대장만이 담긴 상자에 어차피 버려질 일회용 LED가 사용된 점을 지적하는 것으로 해석됐다.&lt;br&gt;&lt;br&gt;줄리안은 이 초대장은 자신이 받은 것은 아니라고 밝혔다. 줄리안은 “참고로 제가 받은 초대장 아니다”라며 “저는 올해도 안 갈 예정”이라고 했다.&lt;br&gt;&lt;br&gt;줄리안은 “물 과사용에 대해 사실 불편한 심리가 있다”며 워터밤에서 물이 많이 사용되는 점도 지적했다.&lt;br&gt;&lt;br&gt;워터밤은 물을 뿌리며 진행하는 대표적인 여름 음악 축제로, 2015년부터 시작돼 매년 수만명의 인파가 몰린다. 국내 페스티벌 중 처음으로 1년 내 여러 지역 투어를 시작했으며, 작년에는 해외 투어까지 개최했을 정도로 인기가 많다. 가수들이 역으로 섭외 언급을 할 정도다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KCXXKTGT45HHJIMHTZ62GKMSTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/줄리안 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GOVAXP5VSVPP5H56U6I6PNMFVQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;작년 6월 25일 오후 서울 잠실종합운동장 특설무대에서 열린 '워터밤 서울 2023'에 인파가 몰린 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다만 물이 많이 사용되는 탓에, 워터밤 시즌이 되면 어김없이 물낭비 지적이 제기돼왔다.&lt;br&gt;&lt;br&gt;기록적인 가뭄이 이어졌던 2022년에는 배우 이엘이 엑스(옛 트위터)를 통해 “워터밤 콘서트 물 300t(톤) 소양강에 뿌려줬으면 좋겠다”는 내용의 글을 올려 갑론을박이 벌어졌다. 당시 네티즌 사이에선 “워터밤에서 사용되는 물을 아낀다고 가뭄 해갈에 도움 되는 게 아니다” “워터밤이 문제면 워터파크 운영도 중단해야 한다” 등의 의견과, “가뭄 상황에서 굳이 물을 막 쓰는 축제를 이어가는 건 문제” “같은 공동체에 있는 구성원이 겪는 고통을 외면해선 안 된다” 등의 반박이 이어졌다.&lt;br&gt;&lt;br&gt;작년 극심한 가뭄으로 식수난 위기 직전까지 몰렸던 광주에선 실제로 워터밤 공연이 취소되기도 했다. 당시 ‘워터밤 광주 2023′ 측은 “광주광역시에서 가뭄이 해소되기를 소망하며 절수 운동에 동참하고자 한다”며 “현재 장맛비가 내릴 예상에도 불구하고 가뭄이 해갈되기 어렵다는 판단으로 워터밤 공연을 강행하기 어렵게 됐다”고 했었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YL55MN4QHVHPHNN32QXYB7HJTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 워터밤 관련 소신을 밝힌 배우 이엘. /X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 올해 워터밤은 오는 7월 5~7일 서울 공연을 시작으로 제주, 대구, 부산, 인천, 대전, 속초, 수원, 여수에서 개최될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>음주 사망사고 낸 포르쉐 운전자 그냥 보낸 경찰 ‘제2의 김호중 될 뻔’</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/28/65L3H4RVCFBTNJECUSRSFYUJWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/28/65L3H4RVCFBTNJECUSRSFYUJWA/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Jun 2024 06:11:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OIODXHI2ONGSVH4BOV7KRPRJKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 포르쉐 차량과 충돌해 전복된 스파크 차량. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 전주에서 포르쉐 차량이 경차를 덮쳐 10대 여성 운전자가 사망하는 사고가 발생했다. 가해 운전자는 만취 상태였는데 당시 경찰은 신분 확인이나 음주 측정도 하지 않고 운전자를 그냥 보내줬던 것으로 밝혀졌다.&lt;br&gt;&lt;br&gt;28일 경찰 등에 따르면 지난 27일 오전 0시 45분쯤 전북 전주시 덕진구 여의동 호남제일문 사거리에서 스파크 차량과 포르쉐 차량이 충돌하는 사고가 발생했다.&lt;br&gt;&lt;br&gt;이 사고로 스파크 차량이 뒤집혀 10대 여성 운전자가 숨졌고, 동승자는 크게 다쳐 병원에서 치료를 받고 있다. 포르쉐 운전자는 경상을 입었다.&lt;br&gt;&lt;br&gt;경찰은 포르쉐 차량 운전자가 고통을 호소해 일단 운전자를 병원으로 이송했다. 그런데 이 과정에서 신분 확인이나 음주 측정을 하지 않았다.&lt;br&gt;&lt;br&gt;뒤늦게 잘못을 인지한 경찰이 병원으로 찾아갔을 때 포르쉐 운전자는 사라지고 없었다.&lt;br&gt;&lt;br&gt;다행히 경찰은 운전자를 집 근처에서 찾아 음주 측정을 할 수 있었다. 그 결과 면허취소 수준인 만취 상태로 밝혀졌다.&lt;br&gt;&lt;br&gt;자칫 운전자가 사고 후 술을 더 마시는 일명 ‘술 타기’ 행위를 했다면 음주운전 혐의를 적용하지 못할 수도 있었다.&lt;br&gt;&lt;br&gt;트로트 가수 김호중의 경우 최근 음주운전 사실을 인정했음에도 ‘술 타기’ 행위를 해 음주운전 혐의를 적용하지 못했다.&lt;br&gt;&lt;br&gt;당시 출동했던 파출소 관계자는 조선닷컴과의 통화에서 부실대응 논란과 관련 “따로 입장이 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>KT희망나눔인상에 10년째 나눔 실천한 독립유공자 후손 양옥모씨 선정</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/28/OYOJO4QNYJA5VGY37F5VEXYNI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/28/OYOJO4QNYJA5VGY37F5VEXYNI4/</guid>
-      <dc:creator>성유진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Jun 2024 05:47:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UPQRD6SBZVDMXGXBIXNNQANCOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;KT그룹 희망나눔재단은 호국보훈의 달을 맞아 올해 4번째 희망나눔인상 주인공으로 독립유공자 후손 양옥모(79)씨를 선정했다. 그는 힘든 환경에서도 어려운 이웃을 위해 10년째 봉사하며 나눔을 실천하고 있다. /KT&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;KT그룹 희망나눔재단은 호국보훈의 달을 맞아 올해 4번째 희망나눔인상 주인공으로 독립유공자 후손 양옥모(79)씨를 선정했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;양씨의 부친 양승만 선생은 1927년 신숙 선생이 설립한 신창학교 교사로 활동하며 민족교육에 힘썼다. 1930년대 중국 길림민중자위군 제3군에 소속돼 한국독립군 상사로서 항일 운동에 참여했고 공훈을 인정받아 1990년 건국훈장 애족장이 추서됐다. 경기도 양평에서 인쇄소를 운영하던 증조부는 3∙1운동 당시 태극기·현수막을 직접 만들어 군중에 나눠줬고, 조부는 1920년 김좌진 장군이 이끈 청산리 전투에 참여했다.&lt;br&gt;&lt;br&gt;중국 하얼빈에서 자란 양씨는 2011년 한국으로 귀국해 2013년 한국 국적을 취득했다. 기초생활수급비와 유공자연금 등 월 100여만원으로 생계를 이어가고 있다. 어려운 형편에도 양씨는 2013년부터 노인복지관·장애인시설에서 식사·청소 등 봉사를 꾸준히 해오고 있다. 2017년부터는 사랑의열매 등 5개 기관에 월 8만원가량을 정기 후원하고 있다. 2020년 코로나 때는 정부지원금 50만원을 의료진을 위해 써달라고 기부하기도 했다.&lt;br&gt;&lt;br&gt;양씨는 “독립운동가 후손으로서 모국에서 건강하게 봉사할 수 있다는 것만으로도 큰 감사함을 느낀다”고 수상 소감을 밝혔다. 희망나눔인상은 나눔을 통해 우리 사회에 기여한 사람·단체에 주는 상이다. 평범한 이웃의 선행을 격려하는 상으로 홈페이지에서 상시 수상자를 추천받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한밤 과속 운전하다 작업 중이던 신호수 숨지게 한 20대…경찰, 구속영장</title>
-      <link>https://www.chosun.com/national/incident/2024/06/28/A6ITK2TNIFGY5EHUGZYWER7INA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/28/A6ITK2TNIFGY5EHUGZYWER7INA/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Jun 2024 05:09:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NY2UXVMWAOIWJ6SHX6445LRUBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 서부경찰서 전경. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한밤중 도로 시설물 교체 작업 중이던 60대 남성을 치어 숨지게 한 20대 남성 등이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;인천 서부경찰서는 교통사고처리 특례법상 치사와 도로교통법상 공동위험 행위 등 혐의로 20대 남성 A씨에 대해 구속영장을 신청했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 26일 오전 9시 40분쯤 인천시 서구 금곡동의 한 도로에서 자신의 승용차를 몰다 60대 남성 B씨를 치어 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;숨진 B씨는 교통정보 수집 카메라 교체 작업 신호수로 활동하다 사고를 당했다.&lt;br&gt;&lt;br&gt;A씨는 당시 다른 20~30대 4명이 각각 운전한 차량과 빠른 속도로 도심을 달리다 사고를 낸 것으로 파악됐다. 사고가 발생한 도로의 제한속도는 시속 50㎞다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “B씨와 함께 작업하던 분들의 진술 등을 토대로, A씨 일행 4명도 도로교통법상 공동위험 행위 혐의로 입건했다”며 “정확한 사고 경위 등을 조사할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>민주당 대표직 사퇴한 이재명, 선거법 재판 출석...취재진 질문엔 침묵</title>
       <link>https://www.chosun.com/national/court_law/2024/06/28/AG6H7P5CB5FV5BIO75UNLNMJZA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/28/AG6H7P5CB5FV5BIO75UNLNMJZA/</guid>
@@ -897,37 +941,6 @@
       <content:encoded>새 당 지도부를 선출하는 8·18 더불어민주당 전당대회 때 당대표직 연임을 위해 대표직을 잠깐 내려놓은 이재명 전 민주당 대표가 28일 ‘공직선거법 위반 사건’ 재판의 피고인으로 출석했다. 이 사건 1심 선고는 이르면 9월 나올 것으로 보인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2T2OW4IROJND5MOJXVELFDD5ZM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 전 더불어민주당 대표가 28일 오후 서울 서초구 서울중앙지방법원에서 열린 공직선거법 위반 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 전 대표는 이날 오후 1시 50분쯤 서울중앙지법에 도착했다. 취재진이 “증인 신문이 마무리되는데 한 말씀 부탁드린다” “9월 안에 1심 선고가 나온다는 전망에 대해서 어떻게 생각하시냐” “당대표 연임에도 지방선거 공천권은 행사하지 않을 것이라는 전망이 나온다”고 질문했지만 이에 답하지 않고 법정으로 향했다.&lt;br&gt;&lt;br&gt;이 전 대표의 공직선거법 위반 1심 재판은 막바지를 향해 가고 있다. 지난 14일 재판에서 재판부는 이날 마지막 증인신문을 하겠다고 밝혔다. 이후 다음 달 12일 기일에 서증조사 절차를 밟은 뒤, 그 다음 기일(미정, 8월 예상)엔 이 전 대표가 최후 진술을 하고 검찰이 구형하는 결심 공판이 될 것으로 보인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PLRMYJVYFBZULRVV6Z6UL7TWUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 전 대표(왼쪽)와 정청래 의원이 27일 오후 서울 여의도 국회에서 열린 제3차 본회의에서 대화하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통상 선고 결과는 결심 공판 이후 빠르면 1달 뒤에 나오기 때문에 이르면 9월 법원의 유무죄 판단이 나올 가능성이 있는 것이다. 이렇게 되면 현재 총 7개 사건·11개 혐의로 4개의 재판을 받고 있는 이 전 대표에 대한 첫 1심 선고가 될 전망이다.&lt;br&gt;&lt;br&gt;이 전 대표는 지난 대선을 앞두고 고(故) 김문기 전 성남도시개발공사 처장을 성남시장 시절 알았으면서도 몰랐다고 하고, 국토교통부 협박으로 백현동 개발 부지 용도를 상향 조정했다고 허위 사실을 말한 혐의(선거법상 허위사실 공표)로 2022년 9월 기소됐다. 작년 말까지 김 전 처장 관련 부분 심리를 마친 후, 현재 국토부 협박 발언 관련 심리가 진행 중이다.&lt;br&gt;&lt;br&gt;원래 선거법 위반 사건은 선거법상 6개월 내에 1심을 끝내도록 하고 있지만, 이 전 대표의 선거법 위반 사건은 법정 기한의 3배를 이미 넘어섰다. 그동안 그의 ‘단식 투쟁’과 흉기 피습 및 재판장 사직 등으로 재판이 지연됐기 때문이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>서정희, 故서세원 언급 “나랑 살았으면 안 죽었을 것”</title>
-      <link>https://www.chosun.com/national/people/2024/06/28/5XOLA3FZONE63DU3FYK4H5SPPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/06/28/5XOLA3FZONE63DU3FYK4H5SPPU/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Jun 2024 04:56:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/253LZSL27FHOTEDHYP6PKJSTL4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 서정희. /서정희 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 서정희(62)가 지난해 사망한 전 남편 故서세원을 언급했다. 서정희는 최근 남자친구인 6살 연하 건축가 김태현(56)과 함께 채널A 예능프로그램 ‘오은영의 금쪽 상담소’에 출연했다.&lt;br&gt;&lt;br&gt;27일 공개된 예고편에서 서정희는 故서세원을 언급하며 “분명히 나랑 살았으면 안 죽었을 것이다. 나를 많이 사랑했던 사람인데 죽기 전에 한 번이라도 만났었으면…”이라고 말했다.&lt;br&gt;&lt;br&gt;다만 ‘이전 결혼 생활이 트라우마라고 느껴지냐’라는 질문에는 “그렇다”라고 답변했다.&lt;br&gt;&lt;br&gt;서정희는 서세원과의 결혼 생활 이후 정신적 문제를 겪어왔다고 고백했다. 함께 출연한 서정희의 딸 서동주는 “엄마가 운전하다가 길을 잃고 갑자기 패닉이 온다”고 증언했다.&lt;br&gt;&lt;br&gt;이에 서정희는 “패닉도 보통 오는 게 아니라 이성을 잃는다. 공황장애가 온다”라고 했다.&lt;br&gt;&lt;br&gt;한편 서정희는 1982년 서세원과 결혼해 1남1녀를 뒀다. 연예계 잉꼬부부로 알려졌지만 2014년 서세원이 서정희를 폭행하는 모습이 담긴 CCTV 영상이 공개돼 충격을 줬다. 다음 해 두 사람은 합의 이혼했다.&lt;br&gt;&lt;br&gt;이후 서세원은 23세 연하 해금연주자와 재혼을 해 딸을 낳았다. 서세원은 재혼 후 캄보디아로 이주해 미디어 및 대규모 부동산 건설, 호텔, 카지노 사업 등을 한 것으로 알려졌으나 지난해 4월 현지에서 사망했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아버지 병시중하며 예금·부동산 빼돌린 딸 ‘징역형’</title>
-      <link>https://www.chosun.com/national/court_law/2024/06/28/SHCPMMN4ONG77KU5WWTKWQMUSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/28/SHCPMMN4ONG77KU5WWTKWQMUSU/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>아버지의 병시중을 하며 재산을 가로챈 딸에게 법원이 징역형을 선고했다. 딸은 재산 처분 권한을 위임받은 것처럼 문서를 위조해 범행을 저질렀다.춘천지법 형사3단독 박성민 부장판사는 사문서위조 등 혐의로 기소된 A(52)씨에게 징역 1년 6개월을 선고했다고 28일 밝혔다.</description>
-      <pubDate>Fri, 28 Jun 2024 04:37:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZBYTKCD3XRFVPO4SIQFBUUGJ2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 전경. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아버지의 병시중을 하며 재산을 가로챈 딸에게 법원이 징역형을 선고했다. 딸은 재산 처분 권한을 위임받은 것처럼 문서를 위조해 범행을 저질렀다.&lt;br&gt;&lt;br&gt;춘천지법 형사3단독 박성민 부장판사는 사문서위조 등 혐의로 기소된 A(52)씨에게 징역 1년 6개월을 선고했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;단 A씨가 도주의 우려가 없고 합의 기회를 주고자 법정에서 구속하지는 않았다.&lt;br&gt;&lt;br&gt;A씨는 지난 2019년 2월부터 2021년 3월까지 48차례에 걸쳐 아버지 B씨의 명의의 출금전표를 위조해 은행 직원에게 제출해 수억 원을 가로챈 혐의를 받고 있다. A씨는 B씨의 병시중을 위해 갖고 있던 B씨의 통장과 인감도장을 활용, 이 같은 범죄를 저질렀으며 찾은 금액만 2억9200여만원에 달했다. A씨는 또 B씨가 소유한 6억원 상당의 땅을 팔기 위해 B씨 명의의 부동산 매매계약서를 위조한 혐의도 공소장에 담겼다. 이번 사건은 ‘친족상도례’ 조항에 따라 사문서위조 등 혐의만 적용됐다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 “처분 권한을 위임받았다”고 주장했지만, 재판부는 B씨가 ‘위임한 적 없다’고 일관되게 진술한 점, A씨가 출금한 돈의 상당 부분을 생활비로 사용해 놓고도 B씨에게 알리지 않은 점 등을 이유로 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;박 부장판사는 “피고인의 범행으로 인해 피해자에게 많은 재산피해가 발생했고 피해회복을 위해 아무런 노력을 하지 않은 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;한편 헌법재판소는 지난 27일 친족 사이에서 일어난 재산 범죄를 처벌하지 않고 있는 형법상 ‘친족상도례’ 규정에 대해 재판관 전원 일치 의견으로 헌법불합치 결정을 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>또래 성착취물 117건 제작한 10대…”성인이었다면 실형” 고민 털어놓은 재판부</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/28/YTFRHJSWAZBMXCJCSCALMZ4UBI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/28/YTFRHJSWAZBMXCJCSCALMZ4UBI/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Jun 2024 04:37:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D3UBKPYQ45OEJWWLJD4PPS62AU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주지방법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“피고가 성인이었다면 실형을 선고했을 겁니다.”&lt;br&gt;&lt;br&gt;광주지법 11형사부(재판장 고상영)가 최근 아동·청소년의 성보호에 관한 법률 위반(성착취물 제작·배포등) 혐의로 기소된 A(17)군에게 징역 1년6개월에 집행유예 3년을 선고하고 40시간의 성폭력 치료강의 수강을 명령하기 앞서 꺼낸 말이다.&lt;br&gt;&lt;br&gt;28일 광주지법에 따르면 A군은 지난해 4월 인터넷 개인방송을 하면서 알게 된 10대 여학생에게 “인터넷 방송 매니저를 시켜주겠다”며 접근해 약 두 달 동안 성착취물 117개를 촬영하게 하고 자신에게 전송하게 한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;아동ㆍ청소년의 성보호에 관한 법률 제11조는 ‘아동 · 청소년성착취물을 제작ㆍ수입 또는 수출한 자는 무기 또는 5년 이상의 징역에 처한다’고 규정돼 있다. 하지만 A군은 미성년자이기 때문에 형량을 낮추는 소년범 감경 대상이다.&lt;br&gt;&lt;br&gt;A군은 재판과정에서 피해자를 위해 2000만원을 공탁했지만 용서받지 못했다. 재판부는 법정에 선 A군을 향해 117건에 달하는 성착취물 제작건수를 지적하며 “범행횟수가 너무 많다”며 “성인이라면 실형을 선고했겠지만 고심 끝에 부득이하게 집행유예를 선고한다”고 했다.&lt;br&gt;&lt;br&gt;죄질이 좋지 않지만 현행법상 소년에 대한 감경요소를 참작할 수밖에 없는 고민을 재판부가 직접 털어놓은 셈이다.&lt;br&gt;&lt;br&gt;재판부는 “피고인이 이 사건 범행을 모두 인정하고 반성하는 점, 피고인은 형사처벌을 받은 전력이 없는 초범인 점, 피고인도 이 사건 당시 성적 가치관과 판단능력이 제대로 정립되지 않은 만 15세의 소년이었던 점 등을 유리한 정상으로 참작했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/D3UBKPYQ45OEJWWLJD4PPS62AU.jpg?width=3104&amp;height=2062&amp;auth=4fbb887ccfa017c20946453633d31bce814cb10280504d8b1a2b5c6aeace153d&amp;smart=true" type="image/jpeg" height="2062" width="3104">
-        <media:description type="plain">광주지방법원의 모습./뉴스1 DB ⓒ News1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 DB ⓒ News1</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>대법 “용역업체 고용승계 조건으로 아파트 경비원 해고는 정당”</title>
       <link>https://www.chosun.com/national/court_law/2024/06/28/UQYM4EFOIJFPHDTAIY5TT6PH6A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/28/UQYM4EFOIJFPHDTAIY5TT6PH6A/</guid>
@@ -935,15 +948,6 @@
       <description/>
       <pubDate>Fri, 28 Jun 2024 04:27:41 +0000</pubDate>
       <content:encoded>아파트 관리를 용역업체에 맡기는 방식으로 변경하면서 고용승계를 조건으로 기존 경비원들을 해고하는 것은 정당한 정리해고라는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MP2HBDP4CNB73ODWUW6X6LNYJI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 법조계에 따르면 대법원 1부(주심 김선수 대법관)는 압구정현대아파트 입주자대표회의가 중앙노동위원회를 상대로 낸 ‘부당해고 구제 재심판정 취소’ 소송에서 원심의 원고승소 판결을 지난달 30일 확정했다.&lt;br&gt;&lt;br&gt;서울 강남구 압구정현대아파트는 원래 자치관리 방식으로 경비원을 직접 고용했다. 그러나 최저임금 인상으로 인한 금전적 부담 등을 덜기 위해 2017년 10월 외부 용역업체에 맡기는 위탁관리 방식으로 변경하고자 입주자대표회의를 개최해 이와 같은 내용을 의결했다. 앞서 2017년 시간당 6470원이었던 최저임금은 2018년 7530원으로 약 16.4% 올랐다.&lt;br&gt;&lt;br&gt;이에 따라 입주자대표회의는 2006년부터 입사해 경비반장으로 일하던 A씨에게 2018년 2월 해고를 통보했다. 다만 해고하면서 경비용역업체와 근로계약을 체결할 수 있으며 기존 근로조건도 유지된다는 내용을 함께 고지했다. 기존 경비원들과 계약을 종료하면서 새 업체로 고용이 승계되도록 한 것이다.&lt;br&gt;&lt;br&gt;그러나 A씨는 이 같은 근로조건 변경을 받아들이지 않고 아파트의 해고는 부당해고라며 노동위원회에 구제신청을 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OVQNARZGNRIJNNY3APVAYAZHKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 한 아파트에서 경비원이 업무를 보고 있다. 사진은 기사와 관련 없음. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 지방노동위원회에서는 졌으나 중앙노동위원회에서 “근로자를 해고할 긴박한 경영상의 필요성이 존재한다고 볼 수 없다”며 부당해고라는 판정을 받았다.&lt;br&gt;&lt;br&gt;아파트 측은 중노위 판정에 불복해 소송을 냈다. 원고패소로 판결한 1심과 달리 2심은 “아파트 경비업무 관리방식을 자치관리에서 위탁관리로 변경하기로 한 것은 객관적 합리성을 인정할 수 있다. 긴박한 경영상의 필요가 있다”며 아파트 측의 손을 들어줬다. 근로기준법에 따라 회사가 근로자를 경영상 이유로 해고하려면 ‘긴박한 경영상의 필요’가 있어야 하고 해고를 피하기 위한 노력을 다해야 하며, 합리적인 기준에 따라 대상자를 선정해야 한다.&lt;br&gt;&lt;br&gt;또 용역업체를 선정하면서 기존 경비원 전원의 고용 보장을 조건으로 내건 만큼 해고를 피하기 위한 노력을 다했고, 해고 기준도 합리적인 것으로 평가할 수 있다고 판단했다. 정리해고의 요건을 모두 갖췄으므로 합법이라는 취지였다.&lt;br&gt;&lt;br&gt;중노위가 2심 판결에 불복했으나 대법원은 “원심판결에 해고의 요건에 관한 법리오해 등 잘못이 없다”며 상고를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>'지옥철' 김포골드라인 9월까지 열차 5편 증차…하루 2000명 더 태워</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/06/28/PHNH43XWYVG5TKQNYQ6WHAZLHY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/06/28/PHNH43XWYVG5TKQNYQ6WHAZLHY/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Jun 2024 02:36:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GEKA7J324AOZEYORLMEZEYKJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 김포시 김포골드라인 구래역에서 출근길에 오른 시민들이 열차를 기다리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;출퇴근 시간대 이른바 ‘지옥철’로 불리던 김포골드라인에 오는 9월까지 열차 5편성(10량)을 추가 투입한다고 국토교통부가 28일 밝혔다. 하루 2000명의 승객을 더 태울 수 있는 정도여서 열차 혼잡이 줄어들 전망이다.&lt;br&gt;&lt;br&gt;국토부는 5편성 가운데 28일 1편성을, 2편성은 오는 8월 30일, 나머지 2편성은 9월 30일 투입한다고 밝혔다. 이에 따라 현재 총 23편성인 김포골드라인은 오는 9월까지 28편성으로 늘어난다.&lt;br&gt;&lt;br&gt;열차 증차로 출근 시간대(오전 7∼9시) 운행 횟수는 42회에서 51회로 늘어난다. 배차간격은 현재 3분에서 2분 30초까지 줄어든다. 하루 탑승 인원은 약 2000명(20%) 가량 증가할 전망이다.&lt;br&gt;&lt;br&gt;국토부와 경기 김포시는 오는 2026년 말까지 6편성을 추가 투입해 배차 간격을 2분 10초까지 단축한다는 방침이다. 김포골드라인의 최대 혼잡도(정원 대비 탑승 인원)는 작년 5월 224%에서 올해 3월 195% 수준으로 감소했다가 이달 200% 수준으로 다시 늘었다.&lt;br&gt;&lt;br&gt;또 국토부는 김포골드라인 승객 분산을 위해 서울과 이어지는 2개 광역버스 준공영제 노선을 추가 개통한다고 밝혔다. 이달 29일 김포 현대프라임빌에서 출발해 서울 당산역까지 운행하는 6601번 광역버스 운행이 시작된다. 이 노선에는 2층 전기버스를 4대 투입해 하루 28회 운하고, 승객 추이에 따라 하루 52회까지 증차한다는 계획이다.&lt;br&gt;&lt;br&gt;이밖에 마포구 상암DMC행 노선도 올해 하반기부터 운행할 수 있도록 차량과 차고지 등을 정비하고 있다.&lt;br&gt;&lt;br&gt;다음 달에는 지하철 2호선·9호선 환승역인 당산역에 회차형 환승센터가 준공되면서 광역버스와 지하철 환승 편의도가 높아질 전망이다.&lt;br&gt;&lt;br&gt;이번 김포골드라인 열차 추가 투입은 올 1월 윤석열 대통령 주재 민생토론회에서 발표된 혼잡 완화 방안에 따른 것이다.박상우 국토부 장관은 “안전하고 편리한 교통서비스를 제공하겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QOBFD65R3YGIEC6GOIX7RJOTME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/국토교통부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>주말 중부지방 장마 시작…다음주 내내 비</title>
@@ -984,15 +988,6 @@
       <description/>
       <pubDate>Fri, 28 Jun 2024 01:12:54 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H3HEJNM5ONI4LAYDV4NDDSRKTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오후 서울 강남구 코엑스에서 개막한 서울국제치과기자재전을 찾은 관람객들이 임플란트 시술 기기를 체험하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;#. &lt;/b&gt;60대 A씨는 ‘추가 부담 및 개수 제한 없이 임플란트 개당 38만원’이라는 광고를 보고 치과에서 상담받았다. 상담에서 무려 10개의 임플란트를 권유받은 A씨는 3개만 임플란트 식립을 하기로 했다. 뼈이식 비용을 포함해 244만원을 선납했다. 발치 및 1차 수술 후 A씨는 다른 치과에서 “아래턱 치아는 뼈이식이 필요 없다”는 소견을 들었던 것을 토대로 진료 중단 및 환급을 요구했다. 그런데, 위약금 40%를 공제한 70만원만 환불 가능하다는 답변을 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VLIMGHEDNZB4VJ7VHWJC5CKTPU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건강보험심사평가원 빅데이터에 따르면 65세 이후 노년기 의료비 지출 1위는 틀니와 임플란트다. 하지만 임플란트 시술이 늘어나면서 부작용을 호소하거나 환급금을 둘러싼 분쟁도 급증했다.&lt;br&gt;&lt;br&gt;한국소비자원은 2021년부터 최근 3년간 접수된 치과 임플란트 시술 관련 피해구제 신청은 총 179건으로, 매년 지속적인 증가 추세를 보인다고 28일 밝혔다. 구제 신청은 2021년 41건, 2022년 60건, 작년 78건 등 3년 새 90.2% 늘었다. 연령대별로는 60대(66건‧36.9%)가 가장 많았고, 70대(47건‧26.3%), 50대(36건‧20.0%), 40대(22건‧12.3%) 순이었다.&lt;br&gt;&lt;br&gt;주요 피해구제 신청 이유는 ‘시술 부작용(114건‧63.7%)’이었다. 부작용을 호소하는 피해 유형은 교합 이상 39건(21.8%), 임플란트 탈락 27건(15.0%), 임플란트 주위 염증 발생 25건(14.0%), 신경 손상 16건(9.0%) 순이었다.&lt;br&gt;&lt;br&gt;50대 여성 B씨는 2013년 좌측 상악 어금니 불편감으로 치과에서 해당 치아 발치 후 이듬해 임플란트 시술을 완료했다. 이후 임플란트 부위 통증이 지속되다가 보철물이 흔들리는 증상까지 발생했다. 2021년 결국 ‘임플란트 주위염’ 진단을 받고 임플란트를 제거했다.&lt;br&gt;&lt;br&gt;두 번이나 시술을 받았음에도 또 다른 보철물을 제작해야 하는 상황도 있었다. 80대 남성 C씨는 2020년 10월부터 이듬해 3월까지 좌측 상악 큰 어금니 2개에 대한 임플란트 시술을 받았다. 이후 보철물이 반복 탈락해 재부착 및 보철물 재제작 치료를 받았다. 그럼에도 교합이 맞지 않아 다른 치과를 찾은 C씨는 “보철물 재제작 치료가 필요하다”는 이야기를 들었다.&lt;br&gt;&lt;br&gt;임플란트 선납치료비 환급 분쟁도 2022년 11건에서 지난해 35건으로 2배 이상 증가했다. 치료 전 시술비 전액을 선납한 후 치료 중단 및 환불 요구 시 이미 시행한 검사 및 임시치아 제작 비용 등을 과도하게 공제해 실질적으로 환불받을 금액은 거의 없는 사례가 많았다. 그밖에 시술비 할인 광고를 보고 상담을 받았으나 뼈 이식 및 보철물 종류에 따른 추가 시술비를 요구하거나, 치료 전 치과의사의 구강 상태 점검 없이 보조 인력이 치료를 계획하고 상담한 데 대한 피해사례도 확인됐다.&lt;br&gt;&lt;br&gt;시술 금액대별로 살펴보면, ‘50만원 초과 100만원 이하’가 75건(41.9%)으로 가장 많았다. 소비자원은 “건강보험 평균 임플란트 금액 121만원과 비교해 낮은 금액대의 임플란트 시술에서 부작용 및 환급 관련 피해가 상대적으로 더 많았다”고 했다.&lt;br&gt;&lt;br&gt;소비자원은 관련 피해를 예방하기 위해 ▲임플란트 시술 계약 전 과도한 이벤트 할인 및 시술비 전액 선납을 요구하는 의료기관은 주의하고 ▲잇몸뼈 및 구강 상태에 대해 치과의사와 직접 상담하고 시술을 계획하며 ▲임플란트 치아에는 신경이 없어 합병증의 조기 발견이 어려울 수 있으므로 정기적인 검진을 통해 사후관리를 철저히 해야 한다고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공기청정기에 필로폰 숨겨 밀수입… 마약 유통 일당 검거</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/28/PRVBCMGO5RGDPOJV6UDMZC6LO4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/28/PRVBCMGO5RGDPOJV6UDMZC6LO4/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Jun 2024 01:19:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R5ACZ4CON45KPKVOIUQKNFO3P4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 압수한 공기청정기 필터 속 필로폰. /서울경찰청 마약범죄수사대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;586억원 상당의 필로폰을 공기청정기 필터에 숨겨 국제택배로 밀수입하고 야산에 묻어 전달하는 방식으로 국내에 유통시킨 일당이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;이들의 검거 과정에서 경찰은 필로폰 약 8.6㎏도 압수했다. 시가 286억원 상당으로, 약 28만6000명이 동시 투약할 수 있는 양이다.&lt;br&gt;&lt;br&gt;서울경찰청 마약범죄수사대는 특정범죄가중처벌등에관한 법률 위반(밀수), 마약류관리법 위반 등 혐의로 국내 총책 A씨 등 46명을 검거하고 이 중 12명을 구속했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 작년 11월 5일부터 같은 해 12월 23일까지 총 4차례에 걸쳐 시가 586억원 상당의 필로폰 17.6㎏을 국내로 몰래 들여와 일부를 유통한 혐의를 받는다.&lt;br&gt;&lt;br&gt;단속을 피하기 위해 이들은 공기청정기 필터 속에 필로폰을 숨긴 뒤 미국에서 출발하는 항공기에 국제택배로 실어 국내로 반입했다.&lt;br&gt;&lt;br&gt;수사기관의 추적을 피하기 위해 중간 유통책을 통해 플라스틱 통에 필로폰을 나눠 담은 뒤 야산의 땅속에 파묻어 하선 유통책에게 전달하는 치밀함도 보였다.&lt;br&gt;&lt;br&gt;또한 범행에 필요한 대화가 끝나면 소셜미디어(SNS) 대화 내용을 삭제하고, 수고비는 이른바 ‘던지기 수법’으로 전달하거나 가상 자산으로 전송해 현금으로 바꾸도록 했다.&lt;br&gt;&lt;br&gt;지난해 10월 경찰은 국가정보원으로부터 수도권 일대에 필로폰을 유통하는 조직이 있다는 첩보를 국가정보원으로부터 입수해 수사에 착수했다. 이후 위장 거래, 현장 CCTV 분석 등을 통해 피의자들을 순차적으로 특정했다.&lt;br&gt;&lt;br&gt;경찰은 검거된 피의자들의 진술 등을 토대로 해외에 체류 중인 총책인 중국 국적 A씨를 추적 중이다. 그는 과거 국내에서 마약 밀수 혐의로 적발돼 복역하다 중국으로 강제 추방된 바 있다. 경찰은 체포영장을 발부받아 인터폴에 적색수배를 요청할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
