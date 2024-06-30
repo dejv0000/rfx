@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>고중석 前 헌법재판관 별세… 향년 87세</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/199522(1).jpg" alt="199522.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4311"&gt;고중석&lt;/span&gt;&amp;nbsp;전 헌법재판소 재판관이 30일 숙환으로 별세했다. 향년 87세.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;전남 담양 출신인 고 전 재판관은 서울대 법대를 졸업한 뒤 1962년 제14회 고등고시 사법과에 합격했다. 이후 부산지법 판사로 임관한 뒤 서울민사지법·서울형사지법·서울고법 판사, 대법원 재판연구관, 전주지법·서울가정법원·서울지법 남부지원 부장판사, 광주고법·서울고법 부장판사, 전주지법원장·대전지법원장·광주고법원장 등을 지&lt;/p&gt;&lt;p&gt;다. 1994년부터 2000년까지 헌법재판관을 역임한 뒤 2000년부터 변호사로 활동했다.   &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;빈소는 서울성모병원 장례식장 13호, 발인은 7월 2일 오전 9시 30분이다. 장지는 남양주 천주교 소화묘원이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;유족으로는 부인 문인자 씨와 딸 영은 씨, 아들 영목 씨와 며느리 이영지 씨, 딸 영선 씨와 사위 이정권 씨, 손자 동준, 동진, 이가온, 이나온 씨 등이 있다.   &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Sun, 30 Jun 2024 05:37:14 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/199522</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199522</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/199522(1).jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 이혼소송서 연금 등 재산분할 기각됐다면 이혼 배우자는 분할연금 다시 청구 못해</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/199479.jpg" alt="199479.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;전 배우자가 자신의 공무원 퇴직연금을 분할받지 못하게 해달라며 소송을 낸 공무원이 행정법원에서 승소 판결을 받았다. 이혼 소송 담당 법원이 해당 공무원의 자산보다 빚이 더 많다는 이유로 재산분할 없이 이혼하라고 판결했으므로 다시 분할연금 청구권을 행사하는 건 부당하다는 판결이다.&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;서울행정법원 행정5부&lt;/b&gt;(재판장 김수열 부장판사)는 지난달 2일 A 씨가 공무원연금공단을 상대로 낸 분할연금 일시금 지급처분 취소 청구 소송에서 원고 승소 판결했다(&lt;b&gt;2023구합77511&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;공무원인 A 씨는 2004년 B 씨와 결혼했으나 2018년 이혼소송 끝에 2019년 2월 법원에서 이혼이 확정됐다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;2022년 2월 B 씨는 공무원연금공단에 A 씨의 퇴직연금 6100만 원 중 일부를 조기 분할한 1500만 원의 분할연금을 미리 청구했다. 공단은 B 씨 청구를 받아들이고 A 씨에게 통지했다. A 씨는 이혼소송 당시 법원이 B 씨의 재산분할 청구를 기각한 점을 들며 공단의 처분에 불복해 이 사건 소송을 냈다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;이혼소송에서 B 씨는 A 씨의 재산인 퇴직급여와 저축금 등 분할대상재산의 절반에 해당하는 1590만 원의 지급을 청구했다. 하지만 이혼사건을 맡은 법원은 A 씨의 순재산이 -469만 원인 점, B 씨가 이미 자신 몫을 초과하는 순재산을 보유한 점 등을 고려해 B 씨의 재산분할 청구를 기각했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;행정법원은 B 씨의 퇴직연금을 포함한 재산분할 청구가 법원에서 기각됐음에도 다시 분할연금 청구권을 행사하는 것은 부당하다고 판단했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;재판부는 “이혼 판결에 따라 재산분할 청구가 기각됐으므로 더 이상 B 씨가 A 씨 퇴직연금에 관해 이혼배우자로서 권리를 행사할 수 없다는 점이 확정됐다”며 “명시적인 문구가 없더라도 법원은 퇴직연금을 분할한 금액인 분할연금도 공무원연금법에서 정한 비율과 달리 모두 원고(A 씨)에게 귀속시키기로 한다는 점을 분명히 드러냈다고 봄이 타당하다”고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;</description>
 			<pubDate>Sun, 30 Jun 2024 00:29:48 -0000</pubDate>
@@ -232,16 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199489</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/199489.jpg</media:thumbnail>
 			<dc:creator>안현 기자</dc:creator>
-		</item>
-		<item>
-			<title>[2024 LTAS] 진성열 법틀 대표, "AI 선택이 기업 수익 결정할 것"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/199491.jpg" alt="199491.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;진성열 법틀 대표이사&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;진성열 법틀 대표이사&lt;/b&gt;가 28일 '2024 리걸 테크 AI 특별쇼(LTAS)'에서 ‘AI Application의 발전과 B2B Legal Cloud’를 주제로 강연했다. &lt;br /&gt;&lt;br /&gt;진 대표는 강연에서 ‘B2B 리걸 클라우드 공급사’로서 고객사의 법무 효율을 높일 수 있는 방법에 관해 고민한 내용을 공유했다. 그는 "현대 기업 환경에서 리스크 관리는 기업 자산의 중요한 요소로 자리 잡고 있다"며 "특히 용역 계약에서 발생한 사고로 인해 검수 과정이 길어지면서 회사가 큰 어려움을 겪는 사례가 증가하고 있다. 이러한 반복적인 리스크를 효과적으로 관리하기 위한 체계적인 시스템이 필요하다"고 강조했다. &lt;br /&gt;&lt;br /&gt;그는 AI의 생산성이 업무에 미칠 긍정적 효과를 강조했다. 그는 "AI는 할루시네이션(환각현상), 익스플레이너빌리티(설명가능성) 등 부작용이 크지만, 기업의 생산성은 폭발적으로 증가시킬 것이다"고 말했다. 그러면서 "앞으로 AI를 선택하느냐 마느냐에 따라 기업의 수익이 많이 좌우될 것"이라며 "특히 B2B 영역에서 AI를 빠르고 적극적으로 활용하는 태도가 필요하다"고 했다. &lt;br /&gt;&lt;br /&gt;진 대표는 ‘법틀 AI’ 출시에 관해서도 말했다. 법틀은 국내 최초 클라우드 기반의 기업용 법무관리 솔루션을 제공하는 리걸테크 기업이다. 회사의 보안 규정과 IT 인프라 구조에 맞춰 클라우드 서비스 등을 제공한다. 그는 "클라우드 UI, 체계적인 프레임워크를 통해 데이터를 정리하고, 그 데이터에 정교하게 의미를 부여하는 서비스를 제공하겠다"며 "궁극적으로 변호사들의 업무 시간을 대폭 줄여드리는 것이 목표"라고 덧붙였다. 법틀 AI의 오픈 베타 버전은 7월에 출시될 예정이다. &lt;br /&gt;&lt;br /&gt;진 대표는 삼성전자를 다니다 2017년 7월 법틀을 창업했다. 삼성전자에서는 콘텐트 프로바이더(앱 간의 데이터 공유를 목적으로 사용되는 컴포넌트, Content Provider) 계약 관리 업무 등을 맡았다.</description>
-			<pubDate>Fri, 28 Jun 2024 04:58:14 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/199491</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199491</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/199491.jpg</media:thumbnail>
-			<dc:creator>유지인 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
