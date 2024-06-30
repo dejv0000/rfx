@@ -13,6 +13,53 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>건설사에 수사 정보 유출 의혹...부산경찰청 수사관 구속</title>
+      <link>https://www.chosun.com/national/2024/06/30/VA77AJFFVZG25GL75MGDCQQ7UU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/06/30/VA77AJFFVZG25GL75MGDCQQ7UU/</guid>
+      <dc:creator>부산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Jun 2024 09:55:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LEJHTEUV2Z5O3H7PLUHPHFP6FU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산경찰청 전경. /뉴스1
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수사 정보를 유출한 의혹을 받는 부산경찰청 소속 경감이 구속됐다.&lt;br&gt;&lt;br&gt;30일 법조계와 경찰 등에 따르면 부산경찰청 A 경감에 대한 구속영장이 지난 28일 발부됐다.&lt;br&gt;&lt;br&gt;부산지검 동부지청은 지난달 수사 정보를 유출한 혐의로 부산경찰청 내 A경감의 소속 부서를 압수수색한 바 있다.&lt;br&gt;&lt;br&gt;A경감은 경영권 분쟁으로 법적 다툼 중인 부산의 한 중견 건설사 사주 일가 사건과 관련한 정보 등을 누설한 혐의를 받는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 사건은 부산지역 한 중견 건설업체 사주 일가가 경영권 다툼을 벌이면서 수십억원대 비자금을 조성하거나, 금융권·관가 등을 대상으로 한 로비 의혹이 드러나면서 검찰이 수사하고 있다. 검찰은 이 사건과 관련해 건설사와 금융기관, 공무원간 유착 의혹을 살펴보던 중 건설사 측에 수사 정보가 흘러간 혐의를 포착한 것으로 전해졌다. 수사 대상에는 부산경찰청 소속 수사관 외에도 부산청 인사로 분류되는 고위 간부도 포함된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;부산지검 동부지청 관계자는 “수사 중인 사안에 관해서는 혐의를 확인해 줄 수 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“경찰 발언 녹음 안 했다면 빨간줄”... 헬스장 성범죄 누명 벗은 청년</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/30/ZY2F6STZJVHPNNAKP7LFXZ4YT4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/30/ZY2F6STZJVHPNNAKP7LFXZ4YT4/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Jun 2024 09:16:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R5NXUJZL5JGRXJAJOUUKQNZR6U.png"&gt;&lt;figcaption&gt;&lt;small&gt;/유튜브 억울한 남자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아파트 헬스장 남자 화장실을 이용했다가 허위 신고로 성범죄 누명을 썼던 20대 남성 A씨가 무혐의 처분을 받은 가운데, A씨가 자기 유튜브 채널에 경찰에게서 받은 무혐의 통지 문자를 공개했다.&lt;br&gt;&lt;br&gt;A씨는 29일 유튜브 ‘억울한 남자’에 2분37초 분량의 영상을 올렸다. 그는 “사건 발생 직후부터 지금까지 잠도 제대로 못 자고, 식욕도 없고, 심장이 억죄이면서 숨도 막혀와 미칠 것 같았다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 “참다 못해 오늘 정신과 진료까지 받고 왔는데 집에 돌아오자마자 이런 메시지를 받았다. 덕분에 해방된 기분”이라며 경찰이 보낸 메시지를 캡처해 올렸다.&lt;br&gt;&lt;br&gt;“우선 문자 통지 드리고, 사건 종결 후에는 주소지로 우편 통지 예정입니다. 귀하의 사건은 허위 신고임이 확인돼 불입건 종결(혐의 없음) 예정임을 알려드립니다.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3GI2WXOVZJCW3FIXDUCMOKDPOA.png"&gt;&lt;figcaption&gt;&lt;small&gt;/유튜브 억울한 청년&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 “다만, 사건이 커지고 이러다 큰일나겠다 싶어서 급하게 대충 마무리짓는 듯한 느낌이 없잖아 있다”며 “사실 저는 혐의없음 문자만 달랑 받고 아무런 사과도 못 받았다”고 했다. 이어 “분명 수사에 잘못된 점 있었으면 사과하겠다고 공문 올라온 걸로 아는데 별말이 없다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 또 이 영상에 직접 댓글을 달아 “솔직히 제가 경찰 찾아오자마자 녹음하고 영상으로 만들어 퍼뜨리지 않았으면, 지금쯤 어떻게 됐겠나”라며 “좋은 분들도 만나지 못하고 여전히 강제추행 죄로 입건된 줄도 모른 채 손가락만 빨고 있었을 것이다. 그러다 강압적이고 범인으로 확정짓는 듯한 그분들의 압박에 빨간줄 찍찍 그어지지 않겠나”라고 했다.&lt;br&gt;&lt;br&gt;A씨는 “실제로 제 메일로 저와 비슷한 상황에 빠른 대처를 하지 못하고 억울하게 누명을 썼다는 분들도 사연 많이 보내주고 계신다”며 “안타깝게도 저는 온갖 난리를 치고 나서야 겨우 일상으로 돌아갈 기회를 얻은, 힘없는 20대 청년”이라고 썼다.&lt;br&gt;&lt;br&gt;네티즌들은 이 영상에 “이 사건은 그 여자 무고죄로 참교육 해야만 종결이다” “그 여자 무고죄로 고소 꼭 하시라” “해당 경찰은 파면시키고 무고 가해자는 반드시 엄벌해야 한다” 같은 내용의 댓글을 달고 있다.&lt;br&gt;&lt;br&gt;앞서 A씨는 지난 23일 오후 5시 10분쯤 경기도 화성시 자신이 사는 아파트 헬스장 옆 관리사무소 건물 여자 화장실에서 B씨가 용변을 보는 모습을 훔쳐봤다는 혐의(강제추행)로 입건됐다.&lt;br&gt;&lt;br&gt;A씨는 아파트 헬스장 화장실을 여러 차례 이용해 왔고, 남녀가 구분돼 착각할 수가 없다며 혐의를 부인했다. 그러나 출동한 화성 동탄경찰서 경찰관은 A씨의 혐의를 단정한 듯한 태도로 수사했다고 한다. A씨는 자신이 겪는 상황 전반을 녹음했고, 이를 유튜브에 공개했다. 당시 경찰관의 발언은 아래와 같다.&lt;br&gt;&lt;br&gt;&lt;b&gt;“방범카메라 확인해 보니까 본인이 확인됐어.”&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;“내용 다 아시면서 왜 그러세요…. 그럼 뭐 그런 적 없어요?”&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;“떳떳하시면 가만히 계시면 돼요. 기다리세요. 좀.”&lt;/b&gt;&lt;br&gt;&lt;br&gt;이 사연은 온라인 커뮤니티에 급속도로 퍼졌고, 네티즌 사이에선 ‘경찰이 무죄 추정의 원칙을 어겼다’는 비판 여론이 쏟아졌다. 이런 가운데 A씨를 신고한 B씨가 지난 27일 경찰에 “허위 신고를 했다”고 자백한 뒤 경찰은 다음날 A씨에 대한 입건을 취소했다.&lt;br&gt;&lt;br&gt;경찰은 B씨 자백에 대한 프로파일러 조사에서 “없었던 일을 허위로 꾸며낸 것으로 보는 것이 타당하다” “정신과 등 증상과는 관련 없는 것으로 판단된다”는 등의 결과를 토대로 입건을 취소하게 됐다고 설명했다.&lt;br&gt;&lt;br&gt;한편 온라인에서는 이번 사건 수사를 맡은 동탄경찰서와 수사팀에 대한 파면을 요구하는 서명 운동이 이어지고 있다.&lt;br&gt;&lt;br&gt;서명을 주도한 윤용진 변호사는 “동탄경찰서 조사관들은 이치에 맞지 않는 여성의 일방적 진술에 의존해 20대 초반의 남성을 성범죄 범인으로 단정하는 부적절한 처사를 했다”며 “여성의 허위신고 자인으로 남성은 누명을 벗었으나 이 명백한 부당 처사에는 누구도 책임을 지지 않고 있다”고 했다.&lt;br&gt;&lt;br&gt;윤 변호사는 그러면서 “성범죄의 수사와 처벌에 관한 사법 시스템의 심각한 오작동을 바로잡지 않는다면, 대한민국 남성들은 언제든지 성범죄자로 취급받을 위험에 노출될 것”이라며 “동탄서장과 수사팀장에게 파면을 요구한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원 예산 담당하는 ‘사법등기국장’, 다시 판사가 맡는다</title>
+      <link>https://www.chosun.com/national/court_law/2024/06/30/LXAWCH6ENNHP5DS24TW6WPB7H4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/06/30/LXAWCH6ENNHP5DS24TW6WPB7H4/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Jun 2024 08:37:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XKXHOF7LTTQNTT45BWHGHVFVRU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조희대 대법원장이 전국 법원의 예산 업무를 담당하는 사법등기국장에 현직 부장판사를 임명한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;30일 법조계에 따르면, 대법원은 지난 24일 법원행정처 사법등기국장으로 이국현 서울중앙지법 부장판사를 임명했다. 발령 일자는 7월 15일이다.&lt;br&gt;&lt;br&gt;일반직 공무원 출신인 조영 사법등기국장(2급)이 이달 말 명예퇴직하면서 생긴 공석에 이 부장판사가 임명된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;사법등기국장은 기획조정실장 등과 함께 법원의 예산 업무를 담당한다. 행정처장 직속 예산안심의위원회에도 참여한다. 김명수 전 대법원장은 ‘법관의 관료화’를 막겠다며 이 자리에 일반직 공무원을 임명해왔는데, 다시 전문성과 이해도가 높은 현직 법관에게 맡기는 것이다.&lt;br&gt;&lt;br&gt;조 대법원장은 이달 초 법원 내부망에 글을 올려 “법원 구성원들에게 실질적인 보상이 이뤄질 수 있도록 충분한 예산 확보와 함께 필요한 법률 개정을 위해 지속적으로 노력하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;행정처 관계자는 “대법원장이 법원 예산 확보를 강조한 만큼 관련 업무를 원활히 하기 위해 인력을 보강하는 차원에서 이뤄진 인사”라고 하면서도 “행정처가 향후에도 법관 중심으로 확대 개편될 것이라고 단정하기는 어렵다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김승제 한국사학법인연합회장 취임 </title>
+      <link>https://www.chosun.com/national/education/2024/06/30/IZ56RZDVGJCERMJ4L474TKWGXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/06/30/IZ56RZDVGJCERMJ4L474TKWGXE/</guid>
+      <dc:creator>김연주 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Jun 2024 08:36:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6QRN76USKVEJJCJOGRTZQ77W34.png"&gt;&lt;figcaption&gt;&lt;small&gt;/한국사학법인연합회 
+1일 취임하는 김승제 한국사학법인연합회장.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김승제 한국사립초중고등학교법인협의회 회장이 1일 한국사학법인연합회 회장으로 취임한다. 연합회는 초·중·고등학교법인, 전문대학법인, 대학법인 등 1200여 개 학교법인 이사장들의 협의체다. 김 신임 회장은 은성중학교·은광여자고등학교를 운영하는 국암학원의 이사장이다. 임기는 4년.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>北 오물풍선에 차 유리 깨지고 지붕 파손...서울 ·경기 2600만원 피해</title>
+      <link>https://www.chosun.com/national/national_general/2024/06/30/DK7MFCVHHRBWXK5VLNXPKFRAGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/30/DK7MFCVHHRBWXK5VLNXPKFRAGQ/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Jun 2024 08:20:56 +0000</pubDate>
+      <content:encoded>북한이 날려보낸 오물 풍선 때문에 서울·경기 등 수도권에서 총 2600여만원의 재산 피해가 발생한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;30일 더불어민주당 양부남 의원이 서울시·경기도에서 제출받은 자료에 따르면, 북한이 오물 풍선을 살포한 5월28일부터 6월12일까지 수도권에서 생긴 재산 피해 규모는 약 2678만1000원으로 집계됐다. 서울이 2017만원, 경기가 661만1000원이다.&lt;br&gt;&lt;br&gt;피해 신고 건수는 서울시 10건, 경기도 4건 등 총 14건이다. 이 중 피해 금액을 신고하지 않은 경우가 2건이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VFUIPDL4UXYOHV4S3NGORCJAEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 잠실대교 인근에 북한의 대남 오물풍선이 떨어져 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5월29일 서울 영등포구 물류센터에서 발생한 피해가 가장 규모가 컸다.&lt;br&gt;&lt;br&gt;물류센터에 세워둔 차에 오물 풍선이 떨어지면서 차 지붕이 파손돼 1572만원의 피해가 발생했다.&lt;br&gt;&lt;br&gt;6월2일 서울 양천구에선 주차된 차에 풍선이 떨어져 조수석 앞 유리와 보닛이 망가졌다. 이로 인해 100만~2000만원의 피해가 발생한 것으로 추정된다.&lt;br&gt;&lt;br&gt;같은 날 경기 부천시 공동주택에는 3개의 오물 풍선이 낙하, 지붕과 천장이 파손됐다. 피해 규모는 약 410만원이다. 또 같은 지역에서 일정 시간이 지나면 터지게 조작한 기폭 장치가 달린 풍선이 떨어져 차에서 불이 났다. 앞바퀴와 운전석이 그을려 약 121만원의 재산 피해가 발생했다.&lt;br&gt;&lt;br&gt;경기 김포시에선 비닐하우스 위로 오물 풍선이 떨어져 비닐이 찢어졌다. 수리 비용이 40만8000원 발생했다.&lt;br&gt;&lt;br&gt;행정안전부 등에 따르면 현재 북한 오물 풍선 살포로 발생한 피해를 지원할 수 있는 법적 근거는 없다. 관련 입법이 추진되고 있지만 속도를 내기 어려운 상황이다. 이에 행안부는 서울시와 경기도가 피해액을 산출하면 예비비를 활용해 지원할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>화재 난 목동 아파트서 11일만에 또 화재 신고 접수...”작업 중 불꽃 튀었다”</title>
       <link>https://www.chosun.com/national/national_general/2024/06/30/2H4OHU4F55D53K4ZLVMPW2BO3I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/30/2H4OHU4F55D53K4ZLVMPW2BO3I/</guid>
@@ -870,33 +917,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RCKHN2FNUVBV5GC7PX26PAN6O4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>박성광, ‘주식사기’ 이희진 결혼식 사회 해명… “친분 없어”</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/28/C5DOU2D5DVARNOKN2FFUFPLUPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/28/C5DOU2D5DVARNOKN2FFUFPLUPM/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Jun 2024 14:30:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IBZJQKJBFFKHNCG5V2W4RS5ZA4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 박성광이 14일 서울 마포구 스탠포드호텔코리아에서 열린 MBN 예능 '떴다! 캡틴 킴' 제작발표회에서 인사말을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개그맨 박성광이 주식 사기 등의 혐의로 실형을 살고 나온 이희진의 호화 결혼식에서 사회를 맡았다는 언론 보도에 대해 “이희진과 친분이 없으며 급히 부탁을 받았던 것”이라고 해명했다.&lt;br&gt;&lt;br&gt;박성광의 소속사 뭉친프로젝트는 28일 입장을 내고 “박성광은 2021년 본인 결혼식을 진행해 준 업체 관계자에게 급한 사회 부탁을 받았던 것”이라며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;소속사는 “이 결혼식 당일 인사도 없이 사회자석에 들어가 바로 진행을 시작했고 식 중간에 신랑이 이희진씨임을 알게 됐다”며 “당시 박성광은 당황했지만 신부가 일반인이라고 생각했고, 본인이 중간에 자리를 떠날 수는 없었기에 결혼식 사회를 진행했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “박성광은 이 결혼식을 진행한 것으로 어떠한 인사도 사례도 받고 싶지 않다고 의사 표현을 했고, 그렇게 어떤 대가도 사례도 받지 않은 채 마무리했다”며 “이와 관련해 의사소통을 한 모든 내용도 기록돼 있다”고 했다.&lt;br&gt;&lt;br&gt;소속사는 “그 어떤 것도 의도하지 않았지만 이런 일이 벌어진 것에 대해서는 박성광 본인도 유감스럽게 생각하고, 또 매우 조심스러워하는 상황”이라며 “박광성과 이희진 씨는 일면식도 없는 아무런 친분도 없는 사이”라고 했다.&lt;br&gt;&lt;br&gt;‘청담동 주식부자’로 알려진 이희진은 2019년 불법 주식 거래 및 투자 유치 혐의로 징역 3년 6개월과 벌금 100억원, 추징금 122억원을 선고받았다. 앞서 한 매체는 이희진이 2020년 3월 만기 출소한 뒤 2021년 12월 서울의 모 호텔에서 걸그룹 출신 여성과 결혼식을 올렸다고 보도했다. 당시 결혼식 사회는 박성광이, 축가는 그룹 VOS가 부른 것으로 알려져 논란이 일었다.&lt;br&gt;&lt;br&gt;이희진은 현재 코인 사기 혐의로 불구속 상태에서 재판을 받고 있다. 이희진은 유튜브 등으로 코인을 허위·과장하여 홍보하고 시세를 조종해 약 900억원을 가로챈 혐의를 받는다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘병원과 짜고 영수증 바꿔치기’... 보험사기 환자 170명 검찰 송치</title>
-      <link>https://www.chosun.com/national/incident/2024/06/28/KWLU26N6M5EXTFYAAFKCX74EFQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/06/28/KWLU26N6M5EXTFYAAFKCX74EFQ/</guid>
-      <dc:creator>이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Jun 2024 13:45:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7MRCIAWH56CESOMXXX2ZYBLLFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 군포경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;병원과 짜고 허위 영수증을 발급받아 실손 보험금을 타 낸 환자 170명이 무더기로 적발됐다.&lt;br&gt;&lt;br&gt;경기 군포경찰서는 보험사기방지 특별법 위반 혐의로 50대 A씨 등 170명을 불구속 송치했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 지난해 2021년 5월부터 지난해 12월까지 경기도의 한 양‧한방병원과 공모해 공진단이나 경옥고 등을 처방받은 뒤, 도수치료를 받은 것처럼 영수증을 바꿔치기하는 수법으로 부당하게 실손 보험금을 타 낸 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이들이 병원과 공모해 받은 실손 보험금은 약 30억 원으로, 환자는 이 가운데 3분의 1을 가져간 것으로 파악됐다. 나머지는 병원 측에 돌아갔다. 보험금을 받은 환자 중엔 100여 차례에 걸쳐 4800만 원을 타 낸 경우도 있는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 이런 방식으로 보험금을 타낸 환자 440여명이 더 있을 것으로 보고 수사를 확대하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “실손 보험에선 공진단 등 보약 처방에 대해 보상하지 않아 보험금을 받을 수 있는 도수치료 영수증으로 바꿔치기 했다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 경찰은 이들 환자와 공모해 부당하게 보험금을 타낸 혐의로 병원 측 관계자 50대 B씨 등 3명을 구속 송치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정가은 “전남편 132억 사기 연루? 나는 결백”… 이혼 7년 만에 해명</title>
-      <link>https://www.chosun.com/national/national_general/2024/06/28/PYW3CBUDHBCSBG3LWZZV2HATPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/28/PYW3CBUDHBCSBG3LWZZV2HATPA/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Jun 2024 13:21:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IE4HWOKYMBFQJKVE2P2YWEQT6Q.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;정가은 /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 정가은이 전남편 사기 사건에 연루됐다는 의혹에 대해 “경찰서 가서 조사받을 거 다 받았다. 나는 결백한다”고 밝혔다.&lt;br&gt;&lt;br&gt;정가은은 지난 27일 ‘유튜브 정가은의 놀go있네’를 통해 이 같은 심경을 전했다. 정가은은 이날 영상에서 나무위키에 공개된 자신의 프로필을 읽으면서 7년전 이혼한 전 남편에 대한 이야기를 꺼냈다. 그의 전 남편은 사기 전과 이력이 있으며 이혼 후에도 정가은 명의를 도용해 132억원을 편취한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이와 관련, 정가은은 “너무 후회되는 게 이 일이 터졌을 때 사람들한테 빨리 내 입장 표명을 했으면 좋았을 텐데, 옆에서 ‘이렇게 해라’, ‘이렇게 하면 안 된다’ 얘기해 주던 사람이 있었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “전 남편 때문에 피해 본 사람이 나한테도 막 연락을 했다. 그래서 핸드폰 번호도 바꾸고, 눈과 귀를 가리고 아무것도 안 보려고 했다”며 “그게 현명한 행동이었는지는 모르겠다. 한편으론 그때 그분들 전화를 다 받아서 내 입장을 설명해 줬어야 했나 싶기도 하다”고 털어놨다.&lt;br&gt;&lt;br&gt;정가은은 전 남편의 사기 사건으로 위장이혼한 것 아니냐는 일각의 의혹에 대해 “애가 있으니 애걸복걸해서 한 달에 한 번 본 것”이라고 해명했다. 그러면서 “내가 이 사람과 안 맞아서 이혼했지만, 애한테 아빠라는 존재를 뺏을 이유는 없었다”며 “그 당시에는 그 사람이 이렇게 나쁜 사람인지도 몰랐다”고 했다.&lt;br&gt;&lt;br&gt;정가은은 재차 “저는 절대 연루되지 않았다. 믿어주셔도 된다”며 “다시는 이 일로 아이가 상처받는 일은 생기지 않았으면 좋겠다. 다시 수면 위로 끄집어내고 싶지는 않은 얘기”라고 했다.&lt;br&gt;&lt;br&gt;정가은은 2016년 동갑내기 사업가 A씨와 결혼했으나 2년 만인 2018년 이혼했다. 둘 사이에서 낳은 딸은 정가은이 양육하고 있다. 정가은은 2019년 A씨를 특정경제범죄 가중처벌 등에 관한 법률 위반 등의 혐의로 고소했다. A씨는 결혼 후 정씨 명의의 통장과 인지도를 이용해 660여회에 걸쳐 약 132억원을 편취한 혐의를 받았다. A씨는 또한 사기죄로 처벌받았던 전과가 있음에도 이를 숨기고 정가은과 결혼했던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“진짜 안티팬이에요”… 손흥민 향한 남자 아이의 귀여운 고백 </title>
       <link>https://www.chosun.com/national/national_general/2024/06/28/526XVIY2P5DPHBD6GIBJIRNIXY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/06/28/526XVIY2P5DPHBD6GIBJIRNIXY/</guid>
@@ -913,15 +933,6 @@
       <description/>
       <pubDate>Fri, 28 Jun 2024 12:26:46 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4WMXKECTV63L2ERMRHL7LLKWSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 안성시 교통사고 현장.(경기도소방재난본부 제공)/ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 안성의 한 도로에서 화물차와 시내버스 2대가 추돌해 17명이 다쳤다.&lt;br&gt;&lt;br&gt;28일 경기 안성경찰서에 따르면 이날 오후 5시 37분쯤 경기도 안성시 삼죽면 38번 국도에서 2.5t 화물차와 시내버스 2대가 차례로 추돌했다.&lt;br&gt;&lt;br&gt;이 사고로 시내버스에 타고 있던 60대 여성 A씨 등 17명이 다쳐 치료를 위해 인근 병원으로 이송됐다. 경찰은 이들을 모두 경상으로 분류했다. 당시 사고 버스에는 총 43명이 타고 있던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 우회전을 하려고 속도를 줄이던 화물차를 시내버스 1대가 추돌했고, 뒤따르던 또 다른 시내버스가 이를 피하지 못하고 연이어 부딪힌 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “사고 차량 운전자 3명은 모두 음주 상태가 아니었다”며 “운전자 등을 상대로 정확한 사고 경위를 조사하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>65세 이상이 23%, 광역시 중 첫 ‘소멸 위험 지역’은 어디? </title>
-      <link>https://www.chosun.com/national/regional/2024/06/28/UGNN4B4PAZDCZOT5JBBCG6NQ4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/06/28/UGNN4B4PAZDCZOT5JBBCG6NQ4Y/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Jun 2024 11:12:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BFIE2O76TWBZKF3ZWWSBNYO3VQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산시청 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산이 광역시 중 최초로 지역 소멸 위험 단계에 들어선 것으로 나타났다.&lt;br&gt;&lt;br&gt;이상호 한국고용정보원 연구위원은 28일 발표한 ‘지방 소멸 2024: 광역 대도시로 확산하는 소멸 위험’ 보고서에서 지난 3월 기준 부산의 소멸위험지수가 0.490으로 광역시 중 처음 소멸 위험 단계에 진입했다고 밝혔다.&lt;br&gt;&lt;br&gt;소멸위험지수는 임신을 할 수 있는 20~39세 여성 인구 수를 65세 이상 노인 인구 수로 나눈 값이다. 지역의 소멸 가능성을 나타낸다. 지수가 0.2 이상 0.5 미만이면 소멸 위험 지역, 0.2 미만이면 소멸 고위험 지역으로 본다. 지난 3월 기준 부산의 20~39세 여성 인구는 36만8879명, 65세 이상 인구는 76만517명으로 소멸위험지수가 0.5 아래로 내려갔다.&lt;br&gt;&lt;br&gt;이번 보고서에서 전국 광역시도 평균 소멸위험지수는 0.615였다. 전남이 0.329로 가장 낮았고 경북(0.346), 강원(0.388), 전북(0.394) 등의 순으로 낮았다. 세종이 1.113으로 가장 높았고 서울은 0.810이었다.&lt;br&gt;&lt;br&gt;부산은 인구 감소와 고령화가 심각한 것으로 나타났다. 부산 인구는 1995년 388만3000명으로 400만명에 육박했으나 최근 329만명으로 줄었다. 부산의 65세 이상 인구 비율은 23%에 달했다. 4명 중 1명은 노인이라는 뜻이다. 65세 이상 인구 비율이 20% 이상이면 초고령사회로 분류하는데 부산은 광역시 중에서 유일하게 초고령사회로 진입했다.&lt;br&gt;&lt;br&gt;전국 228개 시·군·구 기준으로 보면, 지난 3월 새로 소멸위험 단계에 들어선 지역은 11곳이었다. 이 중 4곳이 부산 지역(북구·사상구·해운대구·동래구)이었다.&lt;br&gt;&lt;br&gt;이상호 위원은 “소멸위험 지역이 구도심이나 노후 산업 지역에서 해운대구 같은 신도심까지 확산되고 있다”고 말했다. 해운대구 중에서 반송 1·2동은 소멸위험지수가 각각 0.192와 0.194로 소멸 고위험 지역으로 꼽혔다. 이들 지역은 낙후된 주거 인프라와 생활 환경 때문에 인구 유출과 고령화가 급격히 진행되고 있다고 보고서는 분석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>4분만에 상공 130m... ‘서울달’ 타고 15분간 두둥실</title>
@@ -961,15 +972,6 @@
         <media:description type="plain">(화성=뉴스1) 김영운 기자 = 화성 아리셀 공장 화재사고 유가족 협의회가 28일 경기 화성시청 로비에서 기자회견을 하고 있다. (공동취재) 2024.6.28/뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">(화성=뉴스1) 김영운 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>주말 중부지방 장마 시작…다음주 내내 비</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/06/28/RDST3SQJQNA6PIQAHR75YI7QAA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/06/28/RDST3SQJQNA6PIQAHR75YI7QAA/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Jun 2024 02:41:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H6P5ATK4FVPZ5HS4CB4KVOS7AM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정체전선이 북상 중인 27일 오후 제주시 구좌읍 월정해수욕장 해상에서 레저객들이 서핑을 배우고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장마전선이 29일 밤 중부지방까지 북상하면서 한반도 전역이 장마 영향권에 들겠다고 기상청이 28일 밝혔다. 비는 이번 주말부터 시작돼 다음주 내내 쏟아질 전망이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 29일 새벽 제주도부터 정체전선(장마전선)에 의한 비가 시작돼 오전에 전남·경남권, 오후 충청·전북·경북권, 밤 수도권·강원도로 비가 확대되겠다. 이 비는 30일 오후 대부분 그치겠으나 강원도와 제주도에선 밤까지 이어지는 곳이 있겠다.&lt;br&gt;&lt;br&gt;29~30일 예상 강수량은 수도권·강원도·충청권 30~120mm, 전라권30~100mm, 경상권 30~100mm, 제주도 20~150mm 등이다.&lt;br&gt;&lt;br&gt;정체전선과 함께 강한 남풍에 동반된 많은 수증기가 유입되면서 전국적으로 100mm 이상의 강하고 많은 비가 내리겠다. 특히 이번 강수는 밤사이 취약 시간대에 내릴 것으로 보인다.&lt;br&gt;&lt;br&gt;고온다습한 공기가 대거 들어오면서 체감온도는 높아질 것으로 보인다. 29일 아침 최저기온은 18~23도, 낮 최고기온은 24~32도로 예보됐다. 30일도 최저 21~25도, 최고 25~31도로 비슷하겠다.&lt;br&gt;&lt;br&gt;비는 다음주 내내 이어지겠다. 다음달 1~3일 전국에 비가 내리겠고, 4~7일은 중부지방과 전북을 중심으로 비가 내리겠다. 이때도 낮 기온은 최고 33도로 후텁지근한 날씨가 이어질 것으로 전망된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
