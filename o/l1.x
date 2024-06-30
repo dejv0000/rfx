@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 이혼소송서 연금 등 재산분할 기각됐다면 이혼 배우자는 분할연금 다시 청구 못해</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/199479.jpg" alt="199479.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;전 배우자가 자신의 공무원 퇴직연금을 분할받지 못하게 해달라며 소송을 낸 공무원이 행정법원에서 승소 판결을 받았다. 이혼 소송 담당 법원이 해당 공무원의 자산보다 빚이 더 많다는 이유로 재산분할 없이 이혼하라고 판결했으므로 다시 분할연금 청구권을 행사하는 건 부당하다는 판결이다.&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;서울행정법원 행정5부&lt;/b&gt;(재판장 김수열 부장판사)는 지난달 2일 A 씨가 공무원연금공단을 상대로 낸 분할연금 일시금 지급처분 취소 청구 소송에서 원고 승소 판결했다(&lt;b&gt;2023구합77511&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;공무원인 A 씨는 2004년 B 씨와 결혼했으나 2018년 이혼소송 끝에 2019년 2월 법원에서 이혼이 확정됐다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;2022년 2월 B 씨는 공무원연금공단에 A 씨의 퇴직연금 6100만 원 중 일부를 조기 분할한 1500만 원의 분할연금을 미리 청구했다. 공단은 B 씨 청구를 받아들이고 A 씨에게 통지했다. A 씨는 이혼소송 당시 법원이 B 씨의 재산분할 청구를 기각한 점을 들며 공단의 처분에 불복해 이 사건 소송을 냈다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;이혼소송에서 B 씨는 A 씨의 재산인 퇴직급여와 저축금 등 분할대상재산의 절반에 해당하는 1590만 원의 지급을 청구했다. 하지만 이혼사건을 맡은 법원은 A 씨의 순재산이 -469만 원인 점, B 씨가 이미 자신 몫을 초과하는 순재산을 보유한 점 등을 고려해 B 씨의 재산분할 청구를 기각했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;행정법원은 B 씨의 퇴직연금을 포함한 재산분할 청구가 법원에서 기각됐음에도 다시 분할연금 청구권을 행사하는 것은 부당하다고 판단했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;재판부는 “이혼 판결에 따라 재산분할 청구가 기각됐으므로 더 이상 B 씨가 A 씨 퇴직연금에 관해 이혼배우자로서 권리를 행사할 수 없다는 점이 확정됐다”며 “명시적인 문구가 없더라도 법원은 퇴직연금을 분할한 금액인 분할연금도 공무원연금법에서 정한 비율과 달리 모두 원고(A 씨)에게 귀속시키기로 한다는 점을 분명히 드러냈다고 봄이 타당하다”고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;</description>
+			<pubDate>Sun, 30 Jun 2024 00:29:48 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/199479</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199479</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/199479.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
 			<title>(금주 법조계 주요일정) 7월 1~5일</title>
 			<description>&lt;b&gt;△1일(월)&lt;/b&gt;&lt;br /&gt;-서울고법, '정치자금법위반 등 혐의' 김용 전 민주연구원 부원장 외 3명 감정기일(오전 10시)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물)등  혐의' 송영길 전 더불어민주당 대표 22차 공판(오전 10시)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△2일(화)&lt;/b&gt;&lt;br /&gt;-서울중앙지법 '노동조합및노동관계조정법위반 등 혐의' 허영인 SPC그룹 회장 외 18명 3차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 이재명 더불어민주당 대표 외 1명 35차 공판(오전 10시30분)&lt;br /&gt;-법무법인 태평양·퀸 엠마누엘·딜로이트 안진회계법인, '미국에서의 IP 분쟁 및 대응 전략' 세미나'(오후 2시, 경기도 성남시 분당구 백현동 3층 코사이어티 타운홀 B 세미나실)&lt;br /&gt;-법무법인 태평양·IHCF 컴플라이언스 분과, '국내외 조사 대응 길라잡이' 세미나(오후 6시 30분, 서울 종로구 공평동 센트로폴리스 B동 25층 세미나실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△3일(수)&lt;/b&gt;&lt;br /&gt;-법무법인 대륙아주·헤럴드경제, '미래 산업 육성과 국회의 역할' 미래리더스포럼 7월 고동진 국민의힘 국회의원 초청강연(오전 7시 30분, 서울 중구 태평로2가 23 더플라자호텔 22층 다이아몬드홀)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△4일(목)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정경제범죄가중처벌등에관한법률위반(수재등) 등' 혐의 박영수 전 특검 외 1명 25차 공판(오전 10시)&lt;br /&gt;-법무법인 율촌·팡다파트너스, '한국-중국간 데이터 이전 및 인공지능' 세미나'(오후 2시, 서울 강남구 삼성동 파르나스타워 율촌 39층 렉처홀)&lt;br /&gt;-한중법학회, '중국 플랫폼-지식재산권' 제4회 법제포럼(오후 6시 30분, 서울 종로구 청진동 디타워 24층 법무법인 세종 GR회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△5일(금)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '직권남용권리행사방해 등 혐의' 서훈 전 청와대 국가안보실장 외 4명 29차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 이재명 더불어민주당 대표 외 1명 36차 공판(오전 10시30분)</description>
 			<pubDate>Sat, 29 Jun 2024 22:07:57 -0000</pubDate>
@@ -232,16 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199491</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/199491.jpg</media:thumbnail>
 			<dc:creator>유지인 기자</dc:creator>
-		</item>
-		<item>
-			<title>서초구, '사법정의 허브' 조성해 아시아‧태평양 지역 사법정의 중심지된다</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/199486.jpg" alt="199486.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/199486_1.jpg" alt="199486_1.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;서초구(구청장 전성수)는 다음달 1일 오후 3시 서울 서초구 서초동 흰물결아트센터 예술극장에서 서초동 법조단지를 아시아‧태평양 지역의 대표 사법거리로 조성하는 ‘사법정의 허브’ 지정 선포식 및 공청회를 개최한다.&lt;br /&gt;&lt;br /&gt;사법정의 허브는 대법원‧대검찰청‧대한변호사협회 등 전국 최대 법조단지가 위치한 서초역에서 누에다리에 이르는 반포대로와 서리풀터널부터 교대역까지의 서초대로를 중심축으로 한 지역이다. 서초구는 지난 3월 이 지역을 ‘사법정의 허브’ 거리로 지정 고시했다.&lt;br /&gt;&lt;br /&gt;1부에서는 법원·검찰·경찰 등 유관기관과 디자인전문가, 서초구민이 참여해 선포식을 연다. 2부는 사법 정의를 테마로 한 시설물의 디자인 및 경관 개선안에 관한 발표와 패널 토론 등 공청회가 진행된다. 법조단지 내에 난립하는 현수막과 화환 개선 방안과 같은 세부적인 주제로 토론을 나눈다.&lt;br /&gt;&lt;br /&gt;토론에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4513"&gt;황철규&lt;/span&gt;(60·사법연수원 19기) 법무법인 해광 변호사가 좌장을 맡고,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="27334"&gt;이하정&lt;/span&gt;(39·44기) 대법원 기획조정실 법무담당관·&lt;span style="font-weight: bold;" class="lawmanlink" serial="26207"&gt;이동훈&lt;/span&gt;(38·43기) 대검찰청 정책기획과 검찰연구관 등 7명이 패널로 참여한다.&lt;br /&gt;&lt;br /&gt;전성수 서초구청장은 “이번 공청회를 통해 구의 사법정의 허브 조성이 더욱 탄력을 받을 수 있을 것으로 기대한다”며 “서초구 법조단지 일대를 세계적인 법률 도시 헤이그에 버금가는 아시아-태평양 지역의 사법·정의 중심으로 거듭날 수 있도록 노력하겠다"고 말했다.</description>
-			<pubDate>Fri, 28 Jun 2024 04:17:40 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/199486</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199486</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/199486.jpg</media:thumbnail>
-			<dc:creator>안현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
