@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>국회의정연수원, 법학전문대학원생 국회실무수습 실시</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/199554.jpg" alt="199554.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;대한민국 국회 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;국회사무처 의정연수원은 전국 23개 법학전문대학원의 법학전문대학원생 70명을 대상으로 1일부터 12일까지 2주간 국회실무수습을 실시한다.&lt;br /&gt;&lt;br /&gt;법학전문대학원생 국회실무수습은 국회사무처와 법학전문대학원협의회 간 실무수습 협약에 따라 2010년부터 시행되고 있다. 지난해까지 법학전문대학원생 총 908명이 실무수습을 수료했다.&lt;br /&gt;&lt;br /&gt;이번 과정은 △입법과정론 △법제방법론 △법률안 심사의 이론과 실제 △행정입법 검토 이론과 실제 △우리나라 재정의 이해 △조사회답방법론 등 이론 과목과 △법제실무실습 △법률안 검토보고서 작성 등 분임별 실습 과목으로 구성됐다.&lt;br /&gt;&lt;br /&gt;또 국회 보좌직원과의 대화, 법조인 출신 국회직원과의 대화 등 국회 내 다양한 사람들과의 면담을 통해 입법부에서의 법조인의 역할과 향후 진로에 대해 탐색할 기회를 제공한다.&lt;br /&gt;&lt;br /&gt;국회사무처는 "법제, 법률안 심사 및 행정입법 검토, 조사 회답 등 국회 업무에 대한 이해도를 높이고 실무를 경험해 볼 수 있도록 했다"고 설명했다.&lt;br /&gt;&lt;br /&gt;한편 국회의정연수원은 앞으로도 법학전문대학원생 실무수습 과정을 통해 국회 업무와 관련한 이론 및 실습 교육 등을 제공해 우수한 법조인 양성에 기여할 계획이라고 밝혔다.</description>
+			<pubDate>Mon, 01 Jul 2024 04:21:37 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/199554</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199554</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/199554.jpg</media:thumbnail>
+			<dc:creator>김지현 기자</dc:creator>
+		</item>
+		<item>
+			<title>법원 예산 담당 '사법등기국장' 다시 판사로… 이국현 부장판사 임명</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/199531(1).jpg" alt="199531.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법원 예산 업무를 담당하는 법원행정처 사법등기국장에 다시 법관이 임명됐다.&lt;p&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;대법원은 지난달 24일 법원행정처 사법등기국장으로&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10038"&gt;이국현&lt;/span&gt;(47·사법연수원 32기·&lt;b&gt;사진&lt;/b&gt;) 서울중앙지법 부장판사를 임명했다. 발령 일자는 7월 15일이다.      &lt;/p&gt;&lt;p&gt;&lt;br /&gt;김명수 전 대법원장이 '사법행정권 남용 의혹' 사태 이후 법원행정처 탈법관화를 추진하면서 행정처 상근법관 수는 △2019년 10명 △2020년 6명 △2021년 5명씩 점차 줄어들었다. 이 과정에서 사법등기국장 역시 일반직 공무원으로 변경됐다.         &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;법원 내부에선 사법부 예산 확보가 어려워져 개선이 필요하다는 지적이 제기됐다. 사법등기국장은 행정처 내 예산 업무를 함께 담당한다. 법원행정처장 직속 예산안심의위원회에도 참여하는 것으로 알려진다.            &lt;/p&gt;&lt;p&gt;&lt;br /&gt;이번 인사를 두고 사법부의 예산 확충을 위한 조희대 대법원장의 의지가 전해진다는 의견이 나온다.               &lt;/p&gt;&lt;p&gt;&lt;br /&gt;조 대법원장은 지난달 서울고법에서 열린 법관 및 직원 간담회에서 "근래 몇 년 동안 사법부의 예산이 국가 예산에서 차지하는 비율은 0.43%에서 0.33%로 감소했다"며 "사법부의 예산이 감소한 시점과 맞물려 장기 미제 사건이 큰 폭으로 증가하는 등 사법부의 예산 감소는 재판 지연의 주요한 원인인 만큼 향후 지속적으로 관계 기관과의 협의를 통해 예산 확보를 위해 더 많은 노력을 기울이겠다"고 밝혔다.                  &lt;/p&gt;&lt;p&gt;&lt;br /&gt;이에 앞서 조 대법원장은 지난 1월 첫 조직개편과 인사를 통해 행정처 상근 법관을 7명 증원한 바 있다.                     &lt;/p&gt;&lt;p&gt;&lt;br /&gt;사법정보화실장을 비롯해 정보화기획심의관을 법관으로 보임했으며 민사지원심의관 1명, 형사지원심의관 1명, 특별지원심의관 1명, 인사심의관 1명이 증원됐다. 또 2020년 법원 정기인사 이후 4년 만에 일반직 공무원이 맡았던 공보관을 법관으로 보임했다.                     &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Mon, 01 Jul 2024 03:31:16 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/199531</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199531</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/199531(1).jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2024년 7월 1일</title>
 			<description>&lt;b&gt;◇ 국회의장&lt;/b&gt;&lt;br /&gt;09:30 국회의장 주재 기관장 업무보고(국회접견실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 국회사무총장&lt;/b&gt;&lt;br /&gt;08:50 주간업무보고(종합상황실)&lt;br /&gt;&lt;br /&gt;09:30 국회의장 주재 기관장 업무보고(국회접견실)&lt;br /&gt;&lt;br /&gt;14:00 8급 신규 임용자 임명장 수여식(국회접견실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 상임위원회&lt;/b&gt;&lt;br /&gt;10:00 국회운영위원회 전체회의(본관 319호)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;◇ 의원실 세미나&lt;/b&gt;&lt;br /&gt;09:00 나경원 의원실, 핵무장 3원칙 : 대한민국 안보의 새로운 비전을 위한 계획(의원회관 제2간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 이인선 의원실 등, 여성기업의 글로벌 진출 확대 정책토론회(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;10:00 전용기 의원실 등, 타워크레인 종사자 원청 직접계약 정책토론회(의원회관 대회의실)&lt;br /&gt;&lt;br /&gt;14:00 김영배 의원실 등, 2024 거버넌스의 날 기념식 및 세미나(의원회관 제2세미나실)&lt;br /&gt;&lt;br /&gt;14:00 박수영 의원실, [K-밸류업을 위한 연속 세미나 #1] 상속세, 왜 자본이득세로 가야 하나(의원회관 제3세미나실)&lt;br /&gt;&lt;br /&gt;14:00 차지호 의원실 등, 글로벌 보건의료 진단 형평성 개선과 한국의 역할(의원회관 제1세미나실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 소통관 기자회견&lt;/b&gt;&lt;br /&gt;09:00 용혜인 의원, [기본소득당 4기 신임 대표단 취임 기자회견]&lt;br /&gt;&lt;br /&gt;09:20 김재원 의원, [법안 발의 기자회견]&lt;br /&gt;&lt;br /&gt;09:40 김윤 의원, [법안 발의 기자회견]&lt;br /&gt;&lt;br /&gt;10:00 백승아 의원, [서이초특별법 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:20 정동영 의원, [더불어민주당 미국방문외교단 결과 보고 기자회견]&lt;br /&gt;&lt;br /&gt;10:40 이연희 의원, [오송참사 1주년 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 성소미 공보기획관, [7월 1주차 국회 정례브리핑]&lt;br /&gt;&lt;br /&gt;11:20 전종덕 의원, [돌봄노동자 임금가이드라인 제정 기자회견]&lt;br /&gt;&lt;br /&gt;11:40 이강일 의원, [법안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;12:00 이상식 의원, [1호 법안 발의 기자회견]&lt;br /&gt;&lt;br /&gt;13:00 박충권 의원, [북한인권법 개정 관련 기자회견]&lt;br /&gt;&lt;br /&gt;13:20 김승원 의원, [정치 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;13:40 강득구 의원, [정치 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;14:00 한준호 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;14:20 김민전 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;14:40 안도걸 의원, [국가재정법 개정안 발의 관련 기자회견]&lt;br /&gt;&lt;br /&gt;15:00 홍성규 진보당 대변인, [CJ대한통운 화성서브터미널 부당노동행위 고발 기자회견]&lt;br /&gt;&lt;br /&gt;16:00 모경종 의원, [5호선 인천 김포 연장 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;</description>
 			<pubDate>Sun, 30 Jun 2024 22:38:35 -0000</pubDate>
@@ -220,26 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199504</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/199504.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 이달의 소녀 출신 츄, 소속사 상대 전속계약 무효 소송 최종 승소</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="http://image.lawtimes.co.kr/images/190367.jpg" alt="190367.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;《사진=ATRP 제공》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&amp;nbsp;&lt;p&gt;그룹 이달의소녀 출신 츄(본명 김지우)가 전 소속사를 상대로 낸 전속계약 무효 소송에서 최종 승소했다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;대법원 민사3부&lt;/b&gt;(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1337"&gt;노정희&lt;/span&gt;&amp;nbsp;대법관)는 27일 츄가 블록베리 크리에이티브를 상대로 낸 전속계약 효력 부존재 확인 소송 상고심에서 원고 승소 판결한 원심을 심리불속행 기각으로 확정했다(&lt;b&gt;2024다230589&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;츄는 수익 정산과 수익배분율을 놓고 소속사 블록베리와 갈등을 겪다 2021년 12월 소속사를 상대로 이번 소송을 제기했다. 블록베리는 1심 재판이 진행 중이던 2022년 11월 팬카페를 통해 츄의 탈퇴를 공지했다. 그러면서 당시 츄를 갑질 등 명목으로 팀에서 퇴출했다고 주장했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;하지만 츄는 전속계약에서 수익배분율이 부당했다고 반박하며 갑질은 없었다고 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;1심 재판에서 츄 측은 "블록베리 전속계약은 계약 해지 시 소속사가 지출한 금액의 3배에 달하는 금액을 위약벌(손해배상액 이외에 별도로 약정한 금전적 제재)로 정한 데다 연예 활동 예상 매출액 15%를 배상액으로 지급하게 정해 과도한 손해배상책임을 부과하고 있다"고 주장했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;지난해 8월 1심 법원은 해당 계약이 전부 무효라고 판단했다. 재판부는 "이 사건 계약은 츄의 연예 활동으로 수익이 아무리 증가하더라도 그 수익이 매출액의 40%를 초과하지 않는 이상 정산금을 지급받지 못해 매우 불합리하다"고 판시했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;그러면서 "원고(츄)의 연예 활동으로 2016년부터 2021년 9월까지 약 8억 6000만 원의 순수익이 발생했으나 블록베리의 수익분배조항에 따를 경우 원고는 정산금을 전혀 지급받을 수 없다"고 지적했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;블록베리 측이 1심 판결에 불복해 항소했으나 항소심도 츄가 승소를 했다. 이날 대법원도 원심 판단을 유지했다.&lt;/p&gt;</description>
-			<pubDate>Fri, 28 Jun 2024 07:02:17 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/199503</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199503</guid>
-			<media:thumbnail>http://image.lawtimes.co.kr/images/190367.jpg</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
-		</item>
-		<item>
-			<title>공수처, 장시호 소환조사…'현직 검사 모해위증교사 의혹' 참고인</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/199501.jpg" alt="199501.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;장시호 씨《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;현직 검사의 모해위증교사 의혹 사건을 수사 중인 고위공직자범죄수사처가 최서원(개명 전 최순실)씨의 조카 장시호 씨를 불러 조사했다. &lt;br /&gt;&lt;br /&gt;공수처는 28일 수사2부(&lt;span style="font-weight: bold;" class="lawmanlink" serial="10696"&gt;송창진&lt;/span&gt;&amp;nbsp;부장검사)가 지난 24일 장 씨를 참고인으로 불러서 조사했다고 밝혔다. &lt;br /&gt;&lt;br /&gt;현직 검사의 모해위증교사 의혹은 2016년 국정농단 특검팀에 파견됐던 김영철 서울북부지검 차장검사가 당시 피의자였던 장 씨에게 진술을 외우라고 했다는 의혹이다. 장 씨는 국정농단 사건의 피의자이자 핵심 증인으로서 최 씨의 비리와 삼성 그룹의 연루 의혹 등을 청문회와 재판에서 증언했다.&lt;br /&gt;&lt;br /&gt;수사팀은 장 씨에게 국정농단 특검 당시 허위 증언 연습이 있었는지 여부 등을 물은 것으로 전해졌다. 장 씨는 조사에서 "검사가 증언 연습을 시킨 적이 없다"는 취지로 진술한 것으로 알려졌다. 더불어민주당은 김 차장검사가 장 씨에게 위증을 교사한 의혹이 있다며 탄핵소추를 추진 중이다. 장 씨가 이와 반대되는 내용을 진술한 셈이다.&lt;br /&gt;&lt;br /&gt;유튜브 채널 뉴탐사는 지난달 장 씨가 지인과 2020년에 대화한 녹취록을 근거로 김영철 현 서울북부지검 차장검사가 국정농단 특검 파견 당시 장 씨를 회유하거나 증언 연습을 시켰고, 사적으로 가깝게 지냈던 관계라는 의혹을 제기했다. &lt;br /&gt;&lt;br /&gt;김 차장검사는 "21년 검사 인생을 모두 걸고 피를 토하는 심정이다. 허위사실을 선정적으로 이용하여 악의적인 음해"라는 입장문을 냈다. 이어 장 씨가 2023년 11월 6일과 11월 26일 '지인에게 과시하기 위해 김 검사와 관련된 거짓말을 했으니 진심으로 용서해 달라'는 취지로 보낸 문자를 공개하기도 했다. &lt;br /&gt;</description>
-			<pubDate>Fri, 28 Jun 2024 06:49:34 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/199501</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199501</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/199501.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
