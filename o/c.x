@@ -13,6 +13,117 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“우리 아들 좀 살려주세요...” 30세 청년 어머니는 주저앉았다</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/02/WRPDN4RHOFBTBEWLMZDGHL6FOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/02/WRPDN4RHOFBTBEWLMZDGHL6FOI/</guid>
+      <dc:creator>김도연 기자, 박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Jul 2024 11:45:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LZ4DT6MYBJLRRG6GNMLVWOFFTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 지난 밤 대형 교통사고가 발생한 서울 중구 시청역 7번출구 인근 사고 현장에 추모객들의 발길이 이어지고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1일 밤 15명의 사상자를 낸 ‘서울 시청역 역주행 참사’는 서울시 공무원, 시중은행 직원뿐 아니라 용역 업체 소속 젊은 청춘들의 목숨도 앗아갔다. 사고 직후 서울 영등포장례식장에 임시 안치됐던 용역 업체 소속 직원 양모(30)씨와 박모(38)씨, 김모(30)씨는 2일 저녁 모두 서울 종로구 서울대병원으로 옮겨졌다. 1층과 2층에 위치한 시중은행 직원들의 빈소가 은행장 등이 보낸 화환 수십여개와 100여명의 조문객들로 붐볐던 것과 달리 지하 1층에 마련된 용역 업체 직원들의 빈소는 10여명의 조문객만이 쓸쓸히 지키고 있었다.&lt;br&gt;&lt;br&gt;2일 오후 7시 30분쯤 용역 업체 직원 양씨와 김씨의 빈소가 먼저 마련된 서울대병원 장례식장 지하 1층은 한산했다. 양씨 어머니의 절규 소리만이 지하1층을 가득 메우고 있었다. 양씨 어머니는 분향실 모니터에 양씨의 얼굴이 뜨자마자 다가와 벽을 끌어안고 “아이고 ○○아, 우리 ○○이가 어떻게...”라며 울었다. 그는 모니터를 손가락으로 조심히 쓰다듬더니 무릎을 꿇고 주저앉아 자신의 머리를 벽에 부딪혀댔다. 양씨의 동생은 그런 어머니에게 다가가 어깨를 감싸안고 형의 사진을 멍하니 쳐다봤다.&lt;br&gt;&lt;br&gt;양씨의 어머니는 취재진에게 “우리 아들 좀 살려주세요”라며 “우리 아들이 왜 죽어야해. 이렇게 잘생긴 내 새끼인데 왜 죽어야해. 미친 놈 때문에”라고 울부짖었다. 그는 영정사진이 보이는 장례식장 복도에 주저 앉아 있다가 다른 유족의 부축을 받고 접객실로 이동했다.&lt;br&gt;&lt;br&gt;양씨의 외삼촌인 최모(73)씨는 먼저 세상을 떠난 조카를 ‘1등 신랑감’이라고 기억했다. 최씨는 “엄마한테 살갑게 잘하고 10살 가까이 차이 나는 동생을 챙기는 효자였다”며 “우리 조카가 얼굴도 잘생기고 키도 크고 덩치도 있어서 인기도 많고 귀엽게 자랐다. 내가 우리 동생(양씨 어머니)이었으면 가슴이 미어졌을 것”이라고 말했다. 그는 울고있는 양씨의 어머니를 한동안 애처롭게 쳐다봤다. 이어 그는 “지난 1일 밤 교통사고 보도를 보고 이런 일이 다 있구나 하고 생각했는데, 오늘 오전 동생(양씨 어머니)이 조카의 비보를 전해 놀란 마음에 한달음에 달려왔다”고 했다.&lt;br&gt;&lt;br&gt;양씨 빈소 옆에 마련된 또 다른 용역 업체 직원 김씨의 빈소에도 유족들이 침통한 표정으로 자리를 지키고 있었다. 김씨 아버지는 “사고가 났다는 소식은 오늘 자정을 조금 넘겼을 때 뉴스로 접하고 잠들었는데 오늘 오전 1시 30분쯤 며느리를 통해 아들의 비보를 전해 들었다”고 했다. 그는 “사고차랑이 급발진인지 여부를 조사한 후에야 보험회사로부터 보상이 나온다는 것 외에는 손 쓸 방법이 없다고 안내를 받았다”며 체념한 듯한 표정을 지었다. 곁에 있던 김씨 어머니는 “이 상황이 믿기질 않아서 눈물도 나지 않는다”며 “영정도 내 눈으로 못 보는데 염하고 나면 아들 얼굴을 볼 수 있을런지 모르겠다”고 했다.&lt;br&gt;&lt;br&gt;한편 이날 오후 8시 20분쯤 서울 영등포장례식장에서 출발한 용역업체 직원 3명과 시중은행 직원 3명의 시신은 오후 9시쯤 서울대병원 장례식장 지하 1층 주차장에 도착했다. 시신을 실은 검은 색 차량과 앰뷸런스들에서 남색, 녹색 천에 싸인 시신들이 나오자 이곳에 모인 70여명의 유족은 손으로 입을 가리고 손수건으로 눈물을 연신 훔쳤다.&lt;br&gt;&lt;br&gt;일부 유가족은 시신 가까이로 다가와 천에 적힌 사망자 정보를 보고는 체념한 채 더 눈물을 흘리기도 했다. 파란 옷을 입은 장례식장 직원은 천으로 씌워진 시신의 발부터 머리까지를 손으로 만지며 시신 상태를 대강 확인했다. 눈물 바다 속에서 한 유족은 “○○아, 잘가라”고 외쳤다. 장례식장 직원들이 시신을 장례식장으로 옮기기 전에 잠시 애도할 시간을 주자 유족들은 눈물 고인 눈으로 시신을 바라보거나 시신 위에 손을 살포시 올리며 고인과 작별했다. 장례식장 직원들도 손으로 눈물을 닦아냈다.&lt;br&gt;&lt;br&gt;용역 업체 직원 양씨의 시신이 마지막으로 들어왔을 때, 지하 주차장엔 장례식장 직원과 양씨 아버지만이 우두커니 남아 있었다. 아버지는 더는 말할 수 없는 아들에게 “미안하다, 미안해”라고 읊조리며 흐느꼈다. 그는 아들의 몸에 “잘가, 조심히 가”라고 외쳤다. 부자(父子)는 그렇게 마지막 인사를 나눴다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>노측, 의사봉 뺏고 투표지 찢었다...최저임금 차등적용 부결</title>
+      <link>https://www.chosun.com/national/labor/2024/07/02/ZQQD53XZYBGBLB5DOUHL3HBP2M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/07/02/ZQQD53XZYBGBLB5DOUHL3HBP2M/</guid>
+      <dc:creator>김윤주 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Jul 2024 12:11:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6LOF6AQVIJKCLH3VMWRVU7PS7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오후 정부세종청사 최저임금위원회 회의실에서 제7차 전원회의가 열리고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년에도 업종에 관계없이 동일한 금액의 최저임금이 적용된다. 최저임금위원회는 2일 제7차 전원회의를 열고 최저임금을 사업 종류별로 다르게 적용할지 표결에 부쳤으나 찬성 11표, 반대 15표, 무효 1표로 부결됐다. 이날 회의에는 근로자위원 9명, 사용자위원 9명, 공익위원 9명 등 총 27명이 참석했다.&lt;br&gt;&lt;br&gt;앞서 경영계는 음식점, 편의점 등 일부 업종에 별도의 최저임금을 적용해야 한다고 요구했다. 소상공인, 자영업자의 어려움과 최근 몇 년간 최저임금이 인상돼 온 점 등을 이유로 들었다. 지난달 26일 열린 6차 전원회의에서 사용자위원 측은 한식 음식점업, 외국식 음식점업, 기타 간이 음식점업과 택시 운송업, 체인화 편의점을 최저임금 구분 적용이 필요한 업종으로 제시했다.&lt;br&gt;&lt;br&gt;사용자위원인 류기정 한국경영자총협회(경총) 전무는 이날 회의에 앞서 “영세 중소기업과 소상공인들의 어려운 상황에는 그간 누적된 최저임금 고율 인상과 일률적 적용이 중요한 요인 중 하나로 작용했음을 부인할 수 없다”며 최저임금 업종별 구분 적용이 필요하다고 밝혔다.&lt;br&gt;&lt;br&gt;반면 노동계는 구분 적용이 차별이라며 반대했다. 근로자위원인 류기섭 한국노총 사무총장은 “(최저임금 구분 적용으로) 경영 및 인력난, 지불 능력이 해결될 것이라는 보장이 없다”고 했다. 이미선 민주노총 부위원장도 “최저임금 차등 적용이 이뤄지면 저임금 장시간 고강도 노동에 시달리는 노동자들의 삶은 더욱 피폐해질 것”이라며 반대 입장을 밝혔다.&lt;br&gt;&lt;br&gt;한편 이날 표결 과정에서 민주노총 추천 근로자위원 일부가 투표를 막기 위해 위원장 의사봉을 뺏고 투표용지를 찢는 등 물리력을 행사해 논란이 일었다. 사용자위원들은 입장문을 내고 “일부 근로자위원의 무법적인 행태와 이를 방관한 위원장의 미온적인 대응을 강력히 비판한다”고 했다. &lt;br&gt;&lt;br&gt;최저임금위원회도 “위원장이 일부 근로자위원의 투표 방해행위에 대해 강한 유감을 표하고 향후 이러한 행동이 재발할 경우에는 발언 제한, 퇴장 명령 등을 포함하여 필요한 모든 조치를 적극 검토할 것임을 경고했다”고 전했다.&lt;br&gt;&lt;br&gt;최저임금 구분 적용 논의가 끝나면서 위원회는 본격적으로 내년 최저임금 수준을 논의할 예정이다. 지난해 결정된 올해 최저임금은 시간당 9860원으로, 여기서 140원만 올라도 처음으로 1만원을 넘어선다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/IMTYPFZFO5AORODCCNBCZ7EDMU.JPG?width=4032&amp;height=2268&amp;auth=3bf5e0bd21dab8e36da30a7897a01abb926c3e416902f3fa8a56861f49f9991b&amp;smart=true" type="image/jpeg" height="2268" width="4032">
+        <media:description type="plain">2일 최저임금위원회 제7차 전원회의에서 근로자위원이 찢어버린 투표용지가 회의장에 떨어져있다. ⓒnews1 나혜윤 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>시민들 “人道에서 대형 참사…이제 안전지대는 어디냐”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/02/ULQQGU7LV5F3VA6KVYXOBET65I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/02/ULQQGU7LV5F3VA6KVYXOBET65I/</guid>
+      <dc:creator>안준현 기자, 강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Jul 2024 12:26:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HQCWNV4ANDC757AOXFQ6ZN457M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 새벽 13명의 사상자가 발생한 서울 시청역 교차로 교통사고 현장에서 과학수사대원들이 현장감식을 하고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1일 밤 서울 시청역 역주행 참사 소식에 시민들은 “서울 한복판에서 어떻게 이런 일이 발생할 수 있느냐”며 불안을 호소했다. 서울시 공무원 최모(26)씨도 1일 심야와 2일 새벽 부재중 전화 10통과 100개가 넘는 메시지를 받았다. ‘괜찮은 거 맞지?’ ‘거기 없었지?’ 같은 내용이었다. 최씨는 “내가 그 자리에 있었으면 희생됐겠다는 생각에 가슴이 턱 막혔다”고 했다. 시청역 인근에서 일하는 회사원 김주영(28)씨도 “감시카메라 영상을 보니 피해자들은 인도에서 편안하게 대화를 나누다가 날벼락을 맞더라”며 “나도 언제든지 죽을 수 있다는 생각이 들어 무섭고 마음이 아팠다”고 했다.&lt;br&gt;&lt;br&gt;2일 찾은 사고 현장은 폐허 같았다. 가해 차량이 가드레일을 쓸어버린 현장 한쪽엔 찌그러진 오토바이가 번호판도 없이 나뒹굴고 있었다. 임시 울타리 앞에는 시민들이 고인을 추모하려고 놓고 간 국화꽃이 빗물에 젖어 있었다. 한 시민은 “고인들의 꿈이 저세상에서라도 이뤄지길 바랍니다. 명복을 빕니다”라고 적힌 메모를 붙였다. 지나가던 시민 대부분은 한동안 자리를 떠나지 못했다. 한 시민은 “어젯밤 사고 소식을 듣고 놀라 한숨도 잠을 못 잤다”며 “사람이 지나는 인도(人道)에서 사람이 죽었으니, 이제 어느 곳도 안전지대가 아닌 것 같다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“염산 뿌릴 거야”... 전국 악성 민원인 2784명 유형 분석해 보니</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/02/RTOVARTOKVFHBA2A6M3V5MQVBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/02/RTOVARTOKVFHBA2A6M3V5MQVBA/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Jul 2024 12:14:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6LWV52WNYBM3BP25DOE3YLJ52A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김태규 국민권익위 부위원장이 2일 오전 정부세종청사에서 지난 3월부터 5월까지 중앙행정기관, 지방자치단체 등을 대상으로 '악성 민원 실태조사' 한 결과를 발표하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일선 공무원들을 상대로 상습·반복적으로 민원을 넣거나 폭언·폭행하는 ‘악성 민원인’이 2784명으로 집계됐다고 국민권익위원회(권익위)가 2일 밝혔다.&lt;br&gt;&lt;br&gt;권익위는 지난 3월부터 5월까지 중앙행정기관 49곳, 지방자치단체 243곳, 시도 교육청 17곳을 대상으로 ‘악성 민원 실태조사’를 실시했다.&lt;br&gt;&lt;br&gt;권익위는 악성 민원인 규모를 총 2784명으로 파악했다. 유형별로는 업무 담당자 개인 전화로 여러 차례에 걸쳐 수백통의 문자를 발송하는 ‘상습·반복’ 유형이 1340명으로 가장 많았다. 악성 민원인 가운데 48%가 여기에 속했다.&lt;br&gt;&lt;br&gt;살해 협박이나 책상을 집어던지는 등 ‘폭언·폭행’ 유형은 40%(1113명)였고, 담당 공무원 실명을 공개한 뒤 항의 전화를 독려하는 등 ‘좌표찍기’를 하는 유형도 6%(182명)였다. 민원 처리 결과에 대한 불만으로 과도하게 정보 공개를 청구하거나 비이성적 주장을 하는 유형도 있었다.&lt;br&gt;&lt;br&gt;기관별로는 기초 지방자치단체(1372명)에서 악성 민원인이 가장 많은 것으로 나타났다. 뒤이어 중앙행정기관 1124명, 광역 지자체 192명, 교육청 96명으로 집계됐다.&lt;br&gt;&lt;br&gt;권익위가 공개한 악성 민원인 유형별 실제 사례를 보면, 국방부 악성 민원인 중에서는 자신이 조선시대 궁녀라면서 자기가 보유했던 전 재산을 일본 천황이 가져갔다고 주장하는 경우가 있었다. 상이등급 하향 조정에 불만을 품고 담당자에게 “유언장에 네 이름을 적고 자살하겠다, 고소하겠다, 퇴근할 때 조심해라”라며 협박한 사례도 있다.&lt;br&gt;&lt;br&gt;경기도에서는 다수 민원을 제기한 뒤 관련 공무원 징계를 요구하면서 “망할 X의 계집애”라고 폭언하는 민원인이 있었다. 부산 북구에서는 행정 처리에 불만을 품고 “염산을 뿌리겠다” “죽이겠다”며 협박하는 경우가 있었는데, 이 민원인은 공무집행 방해 혐의로 고발돼 징역 2년을 선고받았다고 한다.&lt;br&gt;&lt;br&gt;권익위에 따르면 전체 기관의 45%(140개 기관)는 최근 3년 내 악성 민원 대응 교육을 하지 않았다. 교육을 했더라도 적절한 악성 민원 대응 교육이 아닌 사례가 다수 확인됐다. 김태규 권익위 부위원장은 “일선 공무원들이 상습·반복 민원이나 폭행·협박 등과 같은 악성 민원으로 많이 고통받고 있음을 여실히 보여준다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>클럽서 구한 대마젤리 나눠먹은 대학원생 재판행</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/02/B6OO3IZ535F5VIMPVP6VN26FDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/02/B6OO3IZ535F5VIMPVP6VN26FDM/</guid>
+      <dc:creator>서보범 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Jul 2024 11:06:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6PBRR2B2Z2Q46K55I4G665XL2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지검. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;클럽 인근에서 대마젤리를 구해 섭취하고 이를 지인들에게 나눠 준 20대 대학원생이 구속 상태로 2일 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울동부지검 형사3부(부장 김지용)는 이날 마약류관리에관한법률위반(대마) 혐의로 대학원생 A씨(26)를 구속기소했다고 밝혔다. 검찰에 따르면 A씨는 지난해 12월 서울 마포구에 있는 한 클럽 인근에서 신원을 알 수 없는 외국인으로부터 건네 받은 대마젤리 약 20개를 복용하고, 일부를 지인들에게 나눠 준 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨로부터 대마젤리를 건네 받은 이들은 과거 직장생활을 하면서 알게 된 사이로, 해외 유학 경험이 있다는 공통점을 매개로 유대감을 쌓은 것으로 파악됐다. 이들 중 한 명은 “기분이 좋아지는 것”이라며 다른 지인들에게 대마 젤리를 다시 나눠준 혐의로 지난 5월 구속기소됐다. A씨는 지인들에게 대마젤리를 나눠준 뒤 나머지를 보관하기도 했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “우리 사회에 마약이 발붙일 수 없도록 앞으로도 마약 범죄에 강력히 대처하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>前 직장동료들과 ‘대마 젤리’ 나눠먹은 20대 대학원생</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/02/SFNK2EKTKVEALNW3HFTVEMXYQE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/02/SFNK2EKTKVEALNW3HFTVEMXYQE/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Jul 2024 10:50:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6LUBIBPIWYJLJRXSV4CJNMJ5RY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대마 젤리. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;젤리형 대마를 전(前) 직장 동료들과 나눠 먹은 20대 대학원생이 구속 상태에서 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;2일 서울동부지검 형사3부는 마약류관리법 위반 혐의로 대학원생 A(26)씨를 구속 기소했다.&lt;br&gt;&lt;br&gt;검찰에 따르면 A씨는 작년 12월 서울 마포구 클럽 인근에서 신원을 알 수 없는 외국인에게 받은 대마 젤리 약 20개 중 일부를 먹거나 지인들에게 건넨 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 해외 유학생활을 했다는 공통점을 매개로 친분을 쌓은 이전 직장동료들에게 대마 젤리를 제공한 것으로도 조사됐다.&lt;br&gt;&lt;br&gt;이들 가운데 한 명인 B씨는 “기분이 좋아지는 것”이라며 대학 동기 세 명에게 대마 젤리를 다시 나눠준 혐의로 지난 5월 구속기소된 바 있다.&lt;br&gt;&lt;br&gt;젤리를 먹고 어지럼증을 호소한 2명은 119에 신고해 병원으로 옮겨져 치료를 받았다. 검찰 관계자는 “우리 사회에 마약이 발붙일 수 없도록 앞으로도 마약 범죄에 강력히 대처하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;사탕이나 젤리형 대마는 대마를 삶아 줄기 등에서 나오는 오일을 농축시켜 일반 사탕과 젤리처럼 만든다. 섭취하면 대마를 흡연한 것과 같은 효과를 얻을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여성 신도 8명 당했다… 성범죄 저지른 前 교회 담임목사</title>
+      <link>https://www.chosun.com/national/regional/honam/2024/07/02/AGKUXCT4PBD4TO4E3XZFPHBKOA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/07/02/AGKUXCT4PBD4TO4E3XZFPHBKOA/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Jul 2024 11:34:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJACOCQWWU5QCEDLXLXU6WACM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여성 신도를 대상으로 성범죄를 저지른 전직 교회 담임목사가 구속됐다. 경기 의왕경찰서는 여성 신도만을 준강간하고 강제 추행한 혐의 등으로 전직 교회 담임목사 김모(69)씨를 구속했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;김씨는 2015~2021년 경기 군포시 한 교회에서 담임목사로 재직하면서 여성 신도 8명을 대상으로 성범죄를 저지른 혐의를 받고 있다. 김씨는 사건이 불거지고 나서 교회에서 해임된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 일부 피해자의 경우 미성년자 시절 피해를 본 사실을 확인하고, 김씨에게 ‘아동·청소년의 성보호에 관한 법률’ 위반 혐의도 적용했다. 경찰은 고소장을 접수해 수사한 끝에 이날 법원에서 김씨에 대한 사전 구속영장을 발부받았다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “김씨는 해당 교회에서 10년여간 담임목사로 재직했다”며 “범죄 혐의 일부는 공소시효가 지났기 때문에 처벌할 수 있는 혐의에 대해서만 구속영장을 신청했고, 법원이 영장을 발부했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/FJACOCQWWU5QCEDLXLXU6WACM4.jpg?width=562&amp;height=288&amp;auth=ec6046d150ab9030572c023f88c98edc4ab2c29a32a71a3fe0ed93a20d2d2dc9&amp;smart=true" type="image/jpeg" height="288" width="562">
+        <media:description type="plain">경찰 마크. /조선DB</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>내일 낮 잠깐 그친 뒤, 모레 또 장맛비</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/07/02/63EHHILTFVCPBBZATCXBWTN6NU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/02/63EHHILTFVCPBBZATCXBWTN6NU/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Jul 2024 11:38:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GCEFJUHSXNNZHBV6DSY7WEQYEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국적으로 장맛비가 내린 2일 오후 서울 종로구 일대에서 우산을 쓴 시민들이 이동하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장마전선(정체전선)의 영향으로 3일 낮까지 전국에 굵은 빗줄기가 쏟아지겠다고 기상청이 2일 밝혔다. 비가 그치고 제주와 경상권을 중심으로 잠시 찜통더위가 찾아왔다가 4일 다시 비가 오겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면 2일 중부지방으로 북상한 장마전선은 수도권을 중심으로 많은 비를 뿌렸다. 장마전선에 중국 쪽에서 온 저기압까지 합류하며 오후 5시까지 최대 90.5㎜(경기 이천)의 비를 뿌렸다. 한몸이었던 장마전선과 저기압은 2일과 3일 밤사이 둘로 쪼개지겠다. 장마전선은 남하해 전라·경상권에, 저기압은 강원도 쪽으로 향하면서 3일 낮까지 수도권·강원도·충청권·경상권에 최대 60㎜, 전라권에 최대 80mm의 비를 뿌리겠다. 비가 그친 후에는 남부지방을 중심으로 체감기온이 최고 31도 이상으로 오르며 무덥겠다.&lt;br&gt;&lt;br&gt;4일에는 새로운 장마전선이 형성되면서 수도권·강원도·경상권 최고 20mm, 충청권·전라권 최고 40㎜의 비가 내리겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘3400만원 보이스피싱’ 저지한 은행원들… 경찰, 포상금 지급</title>
+      <link>https://www.chosun.com/national/regional/honam/2024/07/02/NNNZ7EHSJZF43NRQFBXSHOGFTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/07/02/NNNZ7EHSJZF43NRQFBXSHOGFTU/</guid>
+      <dc:creator>순천=조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Jul 2024 11:52:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VREXIS66FFELJGM2WLRJ5TJYJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국승인 전남 순천경찰서장(가운데)이 최근 보이스피싱 피해를 막은 은행원들에게 감사장을 수여하고 기념 사진을 찍고 있다./순천경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전화금융사기(보이스피싱) 피해를 예방한 은행원이 경찰로부터 포상금 등을 받았다. 순천경찰서는 2일 보이스피싱 피해를 예방한 은행원 2명에게 감사장과 신고포상금 30만원씩을 수여했다고 밝혔다.&lt;br&gt;&lt;br&gt;은행원 A씨는 지난달 21일 60대 남성이 “지인을 구하기 위해 돈이 필요하다”며 2500만원을 대출받으려 하자 112에 보이스피싱 의심 신고를 했다. 다른 은행에서 일하는 B씨는 같은 달 20일 50대 남성 고객이 “무조건 현금으로 돈을 보내야 한다”는 말과 함께 900만원을 인출하려 하자 이를 제지하고 112에 도움을 청했다.&lt;br&gt;&lt;br&gt;경찰은 두 은행원의 순발력 있는 조치로 보이스피싱 피해 예방이 가능했다며 감사장과 신고포상금 수여를 결정했다.&lt;br&gt;&lt;br&gt;국승인 순천경찰서장은 “금융기관 직원의 세심한 주의와 관심으로 시민의 재산을 지킬 수 있었다”며 “앞으로도 금융기관과 유기적인 협조체제를 지속적으로 유지하고 보이스피싱 예방과 범인 검거에 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;'&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VREXIS66FFELJGM2WLRJ5TJYJU.jpg?width=1200&amp;height=800&amp;auth=d98cfa8452b775a607a21a8a9f563caa65072d3e8bb888d5193e3651ce596e2a&amp;smart=true" type="image/jpeg" height="800" width="1200">
+        <media:description type="plain">국승인 전남 순천경찰서장(가운데)이 최근 보이스피싱 피해를 막은 은행원들에게 감사장을 수여하고 기념 사진을 찍고 있다./순천경찰서</media:description>
+        <media:credit role="author" scheme="urn:ebu">순천경찰</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>가해차량 블랙박스 풍문 확산에, 경찰 “사실과 전혀 다르다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/02/CXKXJOIS7VGN5NC65JH44H7PCU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/02/CXKXJOIS7VGN5NC65JH44H7PCU/</guid>
+      <dc:creator>서보범 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Jul 2024 11:27:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2QZOMB72B5HBTGPMXNTCDPXMWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중구 시청역 부근에서 대형 교통사고가 발생했다./ 박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시민 9명이 죽고 6명이 다친 지난 1일 서울 시청역 역주행 참사와 관련 2일 가해차량의 블랙박스 내용과 관련한 소문이 일파만파 퍼졌다.&lt;br&gt;&lt;br&gt;해당 차량 블랙박스에 차량 운전자인 차모(68)씨와 조수석에 동승했던 아내 김모씨의 대화 내용이 담겼고 이 대화가 돌진과 이어지는 사고를 유발했다는 식의 내용이다. 이 내용은 소셜미디어와 메신저 등을 타고 2일 내내 마치 사건의 원인인 것처럼 일파만파 퍼졌다.&lt;br&gt;&lt;br&gt;이에 경찰은 2일 오후 6시쯤 공식적으로 이 내용을 부인하는 자료를 냈다. 사건을 수사 중인 서울 남대문경찰서는 “시청 교차로 교통사고 원인에 대해서는 구체적 결론이 나오지 않았으며, 관련 수사가 진행되고 있음을 알려드린다”며 “확인되지 않은 내용의 보도로 사실 왜곡을 불러 일으키지 않도록 유의 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;서울경찰청 고위급 관계자도 “블랙박스 내용은 대중에 공개하기에 부적절하기 때문에 공개하지 않는 것일 뿐 해당 풍문 내용은 사실과 전혀 다르다”며 “공정한 수사를 통해 원인을 철저히 밝혀낼 것”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 경찰은 운전자 차씨를 교통사고처리특례법 위반 혐의로 입건해 수사 중이라고 밝혔다. 지난 1일 밤 사고 직후 음주 측정, 마약 간이 검사에서 음성 판정을 받은 차씨는 본지 통화와 경찰 조사에서 “급발진 때문에 사고가 났다”고 주장했다.&lt;br&gt;&lt;br&gt;하지만 경찰은 “급발진 근거는 현재까지 피의자 진술 뿐”이라며 국립과학수사연구원에 차씨 차량 감식을 의뢰했다. 경찰 관계자는 “EDR(사고 기록 장치)를 보면 차씨가 사고 직전 가속페달을 90% 이상 밟은 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법무부, 민주당 검사 탄핵에 "형사사법 근간 뒤흔들어"</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/02/2B2WELADQRHBHJICNIR6I4S4GA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/02/2B2WELADQRHBHJICNIR6I4S4GA/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Jul 2024 10:19:05 +0000</pubDate>
+      <content:encoded>법무부는 2일 더불어민주당의 ‘이재명 수사 검사’ 탄핵소추안 발의에 대해 “검찰의 정치적 중립성과 형사사법의 근간을 흔드는 결과를 초래할 것”이라며 강력히 비판했다.&lt;br&gt;&lt;br&gt;법무부는 이날 “특정 정치인을 수사했다는 이유로 그 검사에 대해 보복적으로 탄핵이라는 수단을 꺼내드는 것은 헌법과 법률에 규정한 탄핵 제도 취지에 반하고, 검사들을 정치적으로 압박하는 모습으로 비춰진다”면서 이 같이 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y2RWFKKJWFYC5F5EBROWW2CPOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성재 법무부장관이 2일 오후 서울 여의도 국회에서 열린 대정부 질문에서 박범계 더불어민주당 의원의 질의에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 “법정에서 유무죄가 밝혀지면 그 결과에 따라 책임지면 된다”면서 “결과가 나오기 전에 수사검사를 탄핵하고, 법제사법위원회의 조사 대상자로 불러 조사한다는 것은 옳지 않다”고 했다.&lt;br&gt;&lt;br&gt;이어 “법제사법위원회로 탄핵안을 회부하는 것은 조사를 빌미로 피고인인 이재명 대표가 사실상 재판장을 맡고, 민주당 국회의원들이 소추관을 맡아 재판을 국회에서 일방적으로 하겠다는 것에 지나지 않는다”면서 “법무부 장관으로서 대단히 유감스럽게 생각한다”고 했다.&lt;br&gt;&lt;br&gt;앞서 박성재 법무부 장관은 이날 국회에서 열린 대정부 질문에서 “검사들을 정치적으로 압박하는 모습은 수사기관의 정치적 중립성과 형사사법 시스템의 근간을 흔드는 일”이라며 같은 취지의 말을 했었다.&lt;br&gt;&lt;br&gt;박 장관은 “특정 정치인을 수사했다는 이유로 검사에게 보복적으로 탄핵이란 수단을 내거는 것은 탄핵 제도의 취지에 맞지 않는다”고 비판했다. 법무부 장관을 지낸 박범계 더불어민주당 의원이 “전임 장관으로서 박 장관께 ‘그렇게 살지 말라’는 충고의 말씀을 드린다”고 하자, 박 장관은 “충고 감사히 듣겠다”고 답했다.&lt;br&gt;&lt;br&gt;이원석 검찰총장도 이날 대검찰청 기자실을 찾아 이번 탄핵을 “방탄 탄핵이자, 위헌 탄핵이며, 위법 탄핵, 사법방해 탄핵, 보복 탄핵”이라며 5가지로 정리해 비판했다.&lt;br&gt;&lt;br&gt;이 총장은 민주당이 ‘이재명 수사 검사’를 탄핵 대상으로 삼은 것에 대해 “피고인인 이 전 대표가 재판장을 맡고 이재명 대표의 변호인인 민주당 국회의원과 국회 절대 다수당인 민주당이 사법부의 역할을 빼앗아와 재판을 직접 다시 하겠다는 것과 같다”고 했다.&lt;br&gt;&lt;br&gt;한편 민주당은 이날 이 전 대표의 ‘불법 대북 송금 사건’ 수사를 담당한 박상용 검사와 대장동·백현동 수사를 맡았던 엄희준·강백신 검사 등 4명에 대한 탄핵소추안을 발의했다. 이들에 대한 탄핵소추안은 국회 본회의에 보고된 뒤, 국회 법제사법위원회로 회부됐다. 민주당은 국회 법사위에서 해당 검사들을 직접 ‘조사’하겠다는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>내년에도 최저임금 차등 적용 안 한다</title>
       <link>https://www.chosun.com/national/labor/2024/07/02/2QBSJKJ4RZCQHFJ5JKQXN2CGW4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/07/02/2QBSJKJ4RZCQHFJ5JKQXN2CGW4/</guid>
@@ -850,15 +961,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3KIQWTUASRK7RKBOBXAJLMVKGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고려대학교 의과대학 교수 비상대책위원회가 12일부터 무기한 자율 휴진을 하겠다고 예고한 1일 서울 성북구 고려대학교 안암병원에서 환자가 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전공의들이 지난 2월 집단 사직서를 내고 병원을 이탈한 지 6개월째에 접어든 가운데 의대 교수들의 ‘무기한 휴진’ 선언이 잇따르고 있다.&lt;br&gt;&lt;br&gt;세브란스병원 교수들이 지난달 27일부터 무기한 휴진에 들어간 데 이어 고려대의료원, 충북대병원 교수들도 각각 오는 12일, 오는 26일부터 응급·중증 환자를 제외한 일반 진료의 무기한 휴진을 시작한다고 1일 밝혔다. 이들에 앞서 울산의대·아산병원 교수들은 오는 4일부터 일주일 휴진에 돌입한다.&lt;br&gt;&lt;br&gt;고려대의료원 교수 비상대책위원회는 이날 입장문을 내고 “정부가 가장 힘없는 학생과 전공의를 억압하며 전공의와 적극적인 대화를 시도하지 않는 상황을 묵과할 수 없다”며 “전공의 사직 처리 등에 대한 억압을 철회하고, 전공의 요구안을 적극 수용할 것을 강력히 요구한다”고 했다. 충북대병원 교수 비대위도 “휴진 결정은 본인들의 미래를 걸고 싸우고 있는 전공의·의대생과 함께하기 위한 결단”이라고 했다.&lt;br&gt;&lt;br&gt;전공의들은 정부와의 대화는 물론 대한의사협회가 주도하는 범의료계 협의체인 ‘올바른 의료를 위한 특별위원회(올특위)’에도 참여하지 않고 있다. 서울아산병원 전공의협의회 한성존 비상대책위원장은 지난달 30일 서울시의사회 학술대회에서 “전공의들은 정부가 먼저 전향적인 태도를 보이지 않는 이상 협의에 나서는 건 의미가 없다고 판단한다”며 “선배 의사들은 침묵하지 말고 함께 싸워달라”고 했다. 의대 증원 전면 백지화 등 전공의들의 7대 요구 사항을 정부가 최대한 수용해야 한다는 것이다. 그는 전공의들의 열악한 처우를 언급하며 2021년 당시 시급이 8810원으로 정해진 병원과의 계약서를 일부 공개하기도 했다. 그해 최저임금(8720원)보다 90원 많은 금액이다.&lt;br&gt;&lt;br&gt;최근 의사·의대생 온라인 커뮤니티에는 병원에 복귀한 전공의 등의 정보가 담긴 ‘블랙리스트’도 지난 3월에 이어 다시 등장했다. 작성자는 병원별 ‘복귀 전공의’ 규모·진료과·연차 등 정보가 담긴 리스트를 올리고, 댓글을 통해 출근자 현황도 제보받았다. 동료 전공의의 복귀를 막기 위한 ‘압박용’이란 분석이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“윗돌 빼서 아랫돌 괴는 現 수가 체계, 근본적 재검토 필요”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/07/02/VGRXPA22YJAHVJ47R55OIOSD7Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/02/VGRXPA22YJAHVJ47R55OIOSD7Q/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Jul 2024 16:17:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OPOI4KIJK5HF5IEL734JPUF2I4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정순섭 대한외과학회 총무이사 겸 이대목동병원 외과 교수.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정순섭 대한외과학회 총무이사(이대목동병원 외과 교수)는 1일 본지 인터뷰에서 “현재 수가(건보공단이 병원에 주는 돈) 체계는 ‘윗돌 빼서 아랫돌 괴는’ 구조”라며 “현재 상태에서는 (필수 의료를 위한) 조정이 안 된다”고 했다. 그는 “그렇다면 (수가 산정 방식 등을) 근본적으로 재검토하는 방법밖에 없다”며 “제도에 대한 재검토를 해서라도 수가 불균형을 해소하는 등 합리적으로 해달라는 것”이라고 했다.&lt;br&gt;&lt;br&gt;현재 의료 수가는 보건복지부 2차관이 위원장을 맡고 건강보험 가입자, 의약계 및 공익 대표가 참여하는 건강보험정책심의위원회가 결정한다. 수가는 6000여 개 의료 행위에 대해 각각 업무량, 장비 수준, 위험도 등을 고려해 매긴 ‘상대가치점수’를 토대로 산출한다. 즉 법정 심의·의결 기구에서 이해 관계자 간 논의를 거치며, 국민 의료비 총액을 억제하는 가운데 필수 의료를 보장하기 위한 장치(상대가치점수)도 뒀다. 하지만 정 이사는 “(현실에서는) 과별로 ‘몫’이 나뉘어 있다. 과별 이해관계 때문에 수가 조정이 안 된다”고 했다.&lt;br&gt;&lt;br&gt;정 이사는 “진료·수술·검사 등 행위의 경중에 따라 상대가치점수를 매겨야 하는데 현실은 그렇지 않다”며 “쉬운 수술이나 검사에 상대적으로 높은 가치가 매겨져 있고, 난도가 높은 복잡한 수술은 저평가돼 있다”고 했다. 반면 미국은 외과 수술을 기준으로 다른 수술·검사의 경중을 평가해 수가를 매긴다고 한다.&lt;br&gt;&lt;br&gt;상대가치점수의 기계적 책정도 문제로 꼽았다. 정 이사는 직장암을 예로 들며 “재발했을 땐 조직 내 유착이 생겨 들러붙어 있는 경우도 있어 난도가 크게 올라간다”며 “이 재수술은 10시간 이상이 걸리는데, 2~3시간 걸리는 첫 수술과 수가가 같다”고 설명했다.&lt;br&gt;&lt;br&gt;정 이사는 수가의 ‘근본적 재검토’ 방식에 대해 “저평가돼 있는 항목과 고평가돼 있는 항목을 따져보고 저평가되어 있는 걸 올리자는 것”이라며 “진료과와 관계없이 중증 처치, 수술 등 행위에 대해서만 (수가를 더 주도록) 나누자는 의미다. 재평가를 통해 합리적으로 모자라는 데다가 더 주자는 것”이라고 했다. 정 이사는 “필수 의료 의사들은 항상 중환자와 맞닥뜨려야 하는데 보상이 충분하지 않아 지원자는 줄어들고 있다”며 “이를 당장 개선하지 않으면 우리나라 의료의 미래는 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>서울 도심 역주행… 13명이 쓰러졌다</title>
       <link>https://www.chosun.com/national/national_general/2024/07/02/6AZW2UOOKZFCBDEZPQ6XCKVLOU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/02/6AZW2UOOKZFCBDEZPQ6XCKVLOU/</guid>
@@ -866,91 +968,6 @@
       <description/>
       <pubDate>Mon, 01 Jul 2024 15:58:29 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/37LN3HQOF6JGEWOQ7BL7JAZLJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 저녁 서울 중구 시청역 교차로에서 60대 남성이 몰던 차가 인도로 돌진해 최소 15명 사상자가 발생, 구조대원들이 현장을 수습하고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 오후 9시 30분쯤 서울시청 인근 교차로에서 검은색 대형 승용차를 운전하는 68세 남성이 보행자를 쳐 9명이 사망하고 4명이 다치는 사고가 났다. 경찰·소방 당국은 이날 “해당 운전자가 횡단보도와 인도를 걸어가는 보행자 등을 친 것으로 보인다”고 했다. 운전자는 ‘급발진’을 주장하고 있는 것으로 알려졌다. 당국은 음주운전·약물 여부 등을 조사 중이다.&lt;br&gt;&lt;br&gt;이날 사고가 발생한 시각은 저녁 식사 시간이 끝나고도 시간이 한참 지난 뒤였다. 목격자 진술을 종합하면, 플라자 호텔 방향에서 시청 방향으로 서진하던 이 차량은 교차로에 진입한 뒤 갑자기 지그재그로 돌진, 횡단보도와 인도의 보행자를 덮치기 시작했다고 한다. 목격자 신모(27)씨는 “검은색 차량이 횡단보도 건너던 사람들은 물론, 인도에 있던 사람들도 쳤다”고 했다. 길에선 사람들이 쓰러지고, 뒤늦게 출동한 구급대원들이 심폐소생술을 하는 등 아비규환이었다고 신씨는 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M6ZOZHLSYBCDBLV5UYAN2CJFWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오후 9시 28분쯤 차량 역주행 사고가 발생한 서울 중구 시청역 교차로에서 경찰이 차량과 보행자 통행을 통제하고 있다. 사고 차량이 인도를 덮치면서 가드레일 30여m가 부서지거나 휘여 있었다. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 다른 목격자 김모(54)씨는 “웨스틴조선호텔 쪽에서 ‘다다다다’ 하는 소리가 나서 보니 차량이 역주행을 해서 가드레일은 물론, 사람도 다 쓸어버리고 있었다”고 했다. 보행자들은 ‘아아악!’ 비명을 지르며 가게 등 안쪽으로 도망갔지만 미처 피하지 못했던 사람들이 변을 당했다고 한다. 목격자들은 “시청 앞에서 집회 관련 대기 중인 전경들이 마구 뛰어가고, 구급차가 요란스럽게 달려왔다”고 했다. 횡단보도 여기저기서 심정지된 사람들이 널려있고, 이들에게 구급대원들이 달려갔다고 목격자들은 전했다. 여기저기서 “어떤 검은색 차가 역주행을 했어요!” “마구 역주행하고 다니면서 사람들을 쳤어요!”라는 비명이 들려왔다고 한다.&lt;br&gt;&lt;br&gt;인근 인도를 걸어가던 이모(64)씨는 “갑자기 쿵! 소리가 나더라”며 “사거리에서 차가 밀려 나가떨어지는 모습이 보일 정도였다”고 했다. 이씨는 “사거리에 차량이 일렬로 있었는데, 가드레일은 박살이 나 있고, 모두 범퍼가 찌그러져 있었다”고 했다. 70대 운전자가 고통스러워하고 있었고, 그의 아내로 보이는 여성이 울고 있었다는 목격담도 있었다. 한 편의점 앞에 오토바이와 자전거가 있었는데, 여기서 피해가 대량 발생한 것 같다는 이야기도 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2MUSTR4JB5HWZP33FHGKD45FJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오후 9시 28분쯤 대형 교통사고가 발생한 서울 중구 시청역 인근. 경찰과 소방대원들이 폴리스라인을 친 채 사고 현장을 수습하고 있다. 이날 사고로 9명이 숨지고, 중경상 4명 등 총 13명의 사상자가 발생했다. 경찰 관계자는 “60대 운전자가 차량 급발진으로 인한 사고를 주장하고 있다”고 했다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시민 최모(70)씨는 “시청 근처 갑자기 쾅! 소리가 나서 도로변으로 나와 봤더니, 차끼리 엄청나게 충돌했더라”며 “소리만 듣고도 큰 사고라는 것을 직감했다”고 했다. 그는 “2~3명이 도로에 튕겨 나가서 도로에 널브러진 채 쓰러져 있는 모습을 봤다. 심폐소생술로도 소용이 없어서, 흰 천으로 덮여 있더라”고 했다. 박모씨는 “사고 차량이 보행자고 뭐고 다 밀고 가더라”며 “참사 이후에도 조수석에 탄 여성은 운전자만 살리려 하고 다른 피해자들을 돕지 않았다”고 했다.&lt;br&gt;&lt;br&gt;사고 직후 현장은 구급대원과 차량 등이 엉켜 아비규환이었다. 여기저기서 비명과 울음 소리가 들려왔다. 평소 시민들이 오가던 인도의 가드레일은 처참하게 부서져 있었다. 경찰은 “급발진을 주장하는 운전자 상태를 비롯, 여러 상황을 염두에 두고 사고 원인을 조사하고 있다”고 했다. 사망자 시신은 국립중앙의료원·강북삼성병원·신촌세브란스병원·서울대병원·순천향대병원·고대안암병원·적십자병원에 분산 안치됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B4XP3MPAHNAYRALLWXTBNWHYAE.jpg"&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령은 이날 사고를 보고받고 행정안전부 장관과 소방청장에게 “피해자 구조 및 치료에 총력을 다하라”고 긴급 지시했다고 김수경 대통령실 대변인이 밝혔다.&lt;br&gt;&lt;br&gt;이번 사고와 관련, 고령자 운전에 대한 경각심을 고취해야 한다는 지적도 나온다. 도로교통공단에 따르면, 만 65세 이상 노인 운전자가 낸 교통사고는 해마다 증가하고 있다. 2020년 3만1072건에서 지난해 3만9614건으로 3년 새 27.5%(8542건) 증가했다.&lt;br&gt;&lt;br&gt;지난해 3월 전북 순창에서는 70대 운전자가 몰던 화물 트럭이 농협 조합장 투표 현장을 덮쳐 4명이 숨지고 16명이 다쳤다. 운전자는 경찰 조사에서 “브레이크를 밟으려다가 가속페달을 밟았다”고 진술했다. 지난 2월에는 서울 연신내역 인근 도로에서 79세 운전자가 몰던 승용차가 9중 연쇄 추돌 사고를 냈다. 횡단보도 근처에서 보행자 한 명을 친 뒤에도 계속 달려 가드레일을 산산조각 내고 앞차를 잇따라 들이받았다. 당시 70대 남성이 사망하고 10여 명이 다쳤다. 이 운전자는 음주 상태가 아니었지만 “사고 당시가 기억나지 않는다”고 경찰에 말했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RZUV26G4SRF67JRJQRUEF5WXWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 밤 서울 시청역 교차로에서 교통사고를 낸 승용차의 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 실효성 있는 고령 운전자 대책이 필요하다는 지적이 나온다. 지방자치단체들은 매년 증가하고 있는 노인 운전자 교통사고를 줄이기 위해 운전면허증 자진 반납을 유도하고 있다. 서울시는 10만원짜리 교통 카드, 충북 옥천은 30만원 상당의 지역상품권 등을 답례로 준다. 하지만 경찰청에 따르면, 운전면허증 자진 반납률은 2% 수준에 불과하다. 국회입법조사처는 내년에 65세 이상 운전자가 498만명이 될 것으로 추산했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2411] 알록달록 단어팔레트</title>
-      <link>https://www.chosun.com/national/nie/2024/07/02/3D66DT3ONNHTVCYAVEC7UE6OXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/02/3D66DT3ONNHTVCYAVEC7UE6OXE/</guid>
-      <description/>
-      <pubDate>Mon, 01 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DURWOBS4TNA2FLKB2AYBPLGVEU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 큰 것을[대짜를] 낚다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/07/02/ZVAKIPLKK5AXVBOL5FGWF5ISBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/07/02/ZVAKIPLKK5AXVBOL5FGWF5ISBQ/</guid>
-      <description/>
-      <pubDate>Mon, 01 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QJOU77VZWZDXZMEKVNCT5SFUPQ.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] lend an ear</title>
-      <link>https://www.chosun.com/national/nie/english/2024/07/02/DG7MJO3N2BBYDMKMNRUFJPZDDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/07/02/DG7MJO3N2BBYDMKMNRUFJPZDDE/</guid>
-      <description/>
-      <pubDate>Mon, 01 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4E6BT3MOVJB4JKCAR6NG6NCAD4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 꽃 박람회</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/07/02/BRZNEGXW3JHANHWSOAEHS3N6RY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/07/02/BRZNEGXW3JHANHWSOAEHS3N6RY/</guid>
-      <description/>
-      <pubDate>Mon, 01 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CDP3P6MBPBDCZCD3ZRHP7F77B4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 어항(魚缸)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/02/DRWFUSJWJNA5PPC3RSALBYNE4A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/02/DRWFUSJWJNA5PPC3RSALBYNE4A/</guid>
-      <description/>
-      <pubDate>Mon, 01 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PN6FUI4W5VDJJIZ4DEGU5PERGE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [고전 이야기] 학대·이별 겪는 말썽쟁이 꼬마 ‘제제’… 마음 나눌 친구 만나 한층 성장해요</title>
-      <link>https://www.chosun.com/national/nie/2024/07/02/TUH4ANZBQVD4FHRTRSC3C5X5ZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/02/TUH4ANZBQVD4FHRTRSC3C5X5ZY/</guid>
-      <dc:creator>장동석 출판도시문화재단 사무처장</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Jul 2024 15:37:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZLUCKEMEHZGHRB7UOCU3F6TCBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1968년 브라질에서 첫 출간한 ‘나의 라임오렌지나무’ 초판과 같은 표지로 2020년 한국에서 출간한 특별판. /출판사 동녘&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;“나는 깜짝 놀라 벌떡 일어나서 어린 나무를 자세히 살펴보았다. 지금까지 내가 사물들과 이야기할 수 있었던 것은 내 마음속의 작은 새가 말을 해 주기 때문이라고 생각했는데 신기한 일이었다.”&lt;/b&gt;&lt;br&gt;&lt;br&gt;브라질 작가 조제 마우로 데 바스콘셀로스(1920~1984)가 1968년 발표한 ‘나의 라임오렌지나무’는 주인공 소년 제제의 심리적 성장을 통해 삶을 관통하는 진리란 무엇인지 묻고 답하는 작품이에요. 브라질에서는 지금도 이 책보다 많이 팔린 책이 없을 만큼 국민적 사랑을 받고 있어요. 또 20개 이상 언어로 번역돼 전 세계 1500만명 이상 독자들이 읽은 작품이기도 해요. 브라질에서는 여러 번 영화와 드라마로 만들어졌고, 우리나라에서는 연극과 뮤지컬로 제작되기도 했어요.&lt;br&gt;&lt;br&gt;이 책은 포르투갈계 아버지와 인디언계의 어머니 사이에서 태어나 가난하고 불우한 어린 시절을 보낸 작가의 경험이 담긴 자전적 소설이에요. 바스콘셀로스는 이 작품을 무려 20여 년 동안 구상했는데 단 12일 만에 썼다고 합니다.&lt;br&gt;&lt;br&gt;다섯 살 꼬마 제제는 구김살 없는 소년이에요. 하지만 하루 종일 동네를 쏘다니면서 말썽을 피워 가족들에게 천덕꾸러기 취급을 받죠. 제제네 집은 가난했어요. 엄마는 공장에 다녔지만 아빠가 직장을 잃었기 때문이에요. 아빠는 순박한 사람이었는데 실직 상태가 오래되자 폭력적으로 변했어요. 말썽꾸러기 제제는 아빠에게 심한 매질을 당하기도 해요.&lt;br&gt;&lt;br&gt;그런 제제에게 친구가 생겼어요. 월세를 내지 못해 더 작은 집으로 이사를 했는데, 그곳에 작은 라임오렌지나무가 있었어요. 제제는 그 나무를 ‘밍기뉴’라고 불렀는데, 기분이 좋을 때는 특별히 ‘슈르르카’라고 불렀어요. 제제는 힘들 때마다 밍기뉴 위에 걸터앉아 영화 속 주인공이 되기도 했어요. 밍기뉴와 이런저런 대화를 나누면서 큰 위로를 받았어요. 밍기뉴는 제제가 시무룩할 때마다 말을 건네주는 좋은 친구였지요.&lt;br&gt;&lt;br&gt;제제가 마음을 터놓는 대상은 밍기뉴만이 아니었어요. 한번은 제제가 자동차에 매달리는 위험한 장난을 치다가 포르투가 아저씨에게 혼났어요. 하지만 포르투가 아저씨는 제제가 발을 다친 걸 알고 병원에 데려가 치료를 해줬고, 이 일을 계기로 둘은 친해졌어요. 무뚝뚝하고 폭력적인 아버지에게서는 느낄 수 없는 자상함 때문에 제제는 포르투가 아저씨가 좋았어요. 아저씨의 아들이 되고 싶다고 말할 정도였죠. 아저씨에게 잘 보이고 싶어서 욕도 하지 않고 사람들을 골탕 먹이는 일도 그만두었어요. 하지만 포르투가 아저씨와의 만남은 길지 않았어요. 아저씨가 철도 사고로 세상을 떠났기 때문이에요. 제제는 어린 나이에 죽음을 경험하면서 차츰 인생을 배워가기 시작해요.&lt;br&gt;&lt;br&gt;‘나의 라임오렌지나무’는 1960년대 브라질의 암울한 시대가 배경이에요. 당시 브라질에 들어선 군부 정권이 정치 안정과 경제 발전을 내세우며 사회를 강하게 통제했거든요. 온갖 불합리한 점이 많은 시대였지만, 어린 제제의 눈에 비친 세상은 오히려 눈부시게 아름다웠어요. 제제가 천진난만한 동심을 갖고 있었기 때문일 거예요.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [사소한 역사] 일제강점기 때 닭백숙에 인삼 가루 넣어… 올림픽 때 보신탕 금지되자 대표 보양식 됐죠</title>
-      <link>https://www.chosun.com/national/nie/2024/07/02/L7KBUTPJNRFTXNOIUDKO7BN6NA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/02/L7KBUTPJNRFTXNOIUDKO7BN6NA/</guid>
-      <dc:creator>김현철 서울 영동고 역사 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Jul 2024 15:36:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/43IRO32HGVHHNLLDAMZHHK3ST4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1988년 서울 올림픽을 앞두고 보신탕 판매가 금지되자 삼계탕집이 문전성시를 이룬다는 내용의 1984년 8월 15일 자 조선일보 기사. /조선일보 뉴스라이브러리&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 집에서 데워 먹는 간편식 삼계탕 판매량이 늘고 있다고 해요. 일찍 찾아온 무더위로 보양식 수요는 늘었지만 물가 상승으로 외식은 부담되니 비교적 저렴한 간편식이 인기를 끄는 거예요. 여름철 삼복더위를 이겨내는 대표적인 전통 보양식 삼계탕은 어떤 역사를 가지고 있을까요?&lt;br&gt;&lt;br&gt;과거에 고기는 양반 같은 상류층이 아니면 주로 제사 같은 특별한 날에만 먹었어요. 무더운 여름철 특별 건강식으로 먹기도 했어요. 예전에는 지금처럼 병아리를 사시사철 부화시키기 어려웠어요. 그래서 봄철에 부화한 병아리가 여름쯤 먹을 만한 크기로 크면 보양식 재료로 활용했대요. 병아리와 닭의 중간 정도 크기로 성장한 이런 닭을 예전엔 연계(軟鷄)라고 했어요. 세월이 지나 지금은 ‘영계’라고 부르죠. 오늘날 흔히 먹는 ‘영계백숙’도 예전부터 시작된 거예요.&lt;br&gt;&lt;br&gt;이렇게 만들어 먹던 닭백숙에 인삼을 넣어 만든 요리를 계삼탕(鷄蔘湯)이라고 불렀는데, 이 계삼탕이 삼계탕의 기원이라고 볼 수 있어요. 전통 음식이라 해서 역사가 길다고 생각하겠지만 우리나라 사람들이 오랫동안 먹어온 건 닭백숙이고, 계삼탕의 시작은 일제강점기로 보는 것이 정설입니다. 일제강점기 때 중추원(조선총독부의 자문 기관)이 조선의 풍속을 조사한 자료나 일제강점기에 편찬된 요리서 ‘조선요리제법’을 보면, ‘조선의 부유층들은 여름철 닭백숙을 만들 때 닭 안에 찹쌀과 인삼 가루를 넣어 먹는다’는 기록이 있어요. 인삼 뿌리를 통째로 쓰는 게 아니라 인삼 가루를 사용한다는 점만 빼면 지금의 삼계탕과 매우 유사하죠. 다만 조선 후기부터 인삼 생산량이 늘어났기 때문에 이때쯤 삼계탕이 등장했을 것으로 추측하기도 합니다. 닭과 인삼을 함께 달여 그 국물을 마시거나 환약으로 만들어 먹었다는 기록도 있어요.&lt;br&gt;&lt;br&gt;삼계탕이 인삼 가루 대신 지금처럼 인삼 뿌리를 그대로 넣어 먹는 음식으로 발전한 것은 1960년대 전후로 보여요. 6·25전쟁 이후 냉장고가 보급돼 수삼(인삼을 말리지 않고 자연 상태 그대로 둔 것)을 신선하게 보관했다가 요리에 쓸 수 있게 됐어요. 그 전엔 보관이 어려우니 인삼을 말려 가루로 만들었다가 먹었고요.&lt;br&gt;&lt;br&gt;삼계탕이 복날 보양식으로 인기가 높아진 건 1988년 서울 올림픽 전후라고 해요. 당시 보양식의 대표 주자는 보신탕이었는데, 올림픽을 앞두고 해외에서 ‘개 식용’이 논란이 되자 서울시가 보신탕 판매를 금지했어요. 결국 보신탕의 인기는 줄었고 그 자리를 삼계탕이 차지하게 됐다고 합니다. 과거엔 보신탕이 서민의 여름 보양식, 삼계탕은 상류층의 보양식으로 여겨졌는데 이젠 삼계탕이 대중적인 보양식이 됐지요.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재미있는 과학] ‘47세’ 최장수 탐사선… 지구 문명 소개한 레코드도 실었죠</title>
-      <link>https://www.chosun.com/national/nie/2024/07/02/HQK72CW6UZELPOAQWPKKQSXBQE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/02/HQK72CW6UZELPOAQWPKKQSXBQE/</guid>
-      <dc:creator>오가희 과학 칼럼니스트, 기획·구성=김윤주 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Jul 2024 15:36:01 +0000</pubDate>
-      <content:encoded>지난달 미국 항공우주국(NASA)이 반가운 소식을 전했습니다. 그동안 고장 난 줄 알았던 우주 탐사선 ‘보이저 1호’가 다시 깨어났다는 것이었죠. 보이저 1호는 작년 11월 탑재된 컴퓨터 1대가 고장 나면서 제대로 데이터를 전송하지 못했고, 사실상 임무가 끝났다는 평가를 받았어요. 하지만 과학자들이 끈질기게 ‘원격 수리’를 한 덕에 다시 정상적으로 데이터를 전송할 수 있게 됐다고 해요. 보이저 1호는 무엇이고, 어떻게 원격 수리가 가능했는지 알아볼까요?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TH745E7AZBAWJILNQIB5FAKQ5I.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;다시 살아난 보이저 1호&lt;/b&gt;&lt;br&gt;&lt;br&gt;보이저 1호는 태양계를 벗어나 먼 우주를 항해하고 있는 탐사선입니다. 인간은 지금까지 우주로 수많은 탐사선을 보냈어요. 보이저 1호는 그중 가장 멀리 나아갔어요.&lt;br&gt;&lt;br&gt;원래 NASA는 목성과 토성을 탐사할 목적으로 1977년 9월 5일 보이저 1호를 발사했어요. 보이저 1호는 1979년 목성, 1980년 토성 탐사에 성공했는데, 임무를 완수한 후에도 끝없이 나아갔죠. 그렇게 47년 동안 ‘최장수 탐사선’으로 활동하면서 우주에서 귀중한 정보를 지구로 보내주고 있답니다.&lt;br&gt;&lt;br&gt;우리가 일상에서 쓰는 TV나 냉장고, 스마트폰도 몇 년 쓰면 고장 나기 마련이에요. 탐사선도 기계인 만큼 고장이 날 수 있어요. 1972년 발사된 ‘파이어니어 10호’와 1973년 발사된 ‘파이어니어 11호’에게도 문제가 생겼어요. 파이어니어 10호는 화성과 목성 사이 소행성이 집중 분포하는 ‘소행성대’를 처음으로 탐사하고 목성을 관찰했어요. 11호는 목성 탐사에 더해 토성과 토성의 고리를 처음으로 탐사했죠. 그런데 당시 인류는 태양계 행성에 대한 자료가 부족해서 탐사선이 어떤 환경에 노출될지 잘 몰랐습니다. 그래서 목성이 내뿜는 강력한 방사선에 파이어니어 10호와 11호에 탑재됐던 배터리와 일부 기기가 고장 났죠. 특히 11호는 탑재했던 자력계가 고장 나 목성의 자기장을 정확하게 측정하기 어려웠다고 해요. 지구에서 워낙 멀리 떨어져 있었기 때문에 장비를 교체하거나 수리하지도 못했대요.&lt;br&gt;&lt;br&gt;보이저 1호는 파이어니어 때 얻은 경험을 토대로 만들어진 탐사선입니다. 그럼에도 역시 기계인 만큼 크고 작은 고장이 있었습니다. 파이어니어 계획을 토대로 대비를 했는데도 목성과 토성을 지날 때 방사선의 영향을 받아 센서가 고장 나거나 통신 장애를 겪었죠. 하지만 그럴 때마다 고비를 넘겼어요. 비결은 소프트웨어 업데이트를 통한 원격 수리입니다. 탐사선에는 관측 장비들뿐 아니라 복잡한 정보를 처리할 수 있는 컴퓨터가 있습니다. 컴퓨터에 설치된 여러 소프트웨어가 장비를 조종해 자료를 수집한 뒤, 통신 기능을 이용해 지구로 자료를 보내주죠. NASA는 기술적인 문제가 생기면 전파를 쏴서 원격으로 조치를 취했어요. 새로운 소프트웨어를 전송하거나, 문제 있는 코드를 수정한 거예요. 고장 난 기기에는 더 이상 전력을 쓰지 않도록 차단하기도 합니다.&lt;br&gt;&lt;br&gt;작년 11월 보이저 1호에 생긴 문제도 이렇게 해결했다고 해요. 컴퓨터 1대에서 메모리를 저장하는 반도체 하나가 작동하지 않았죠. 이 장치는 관측 데이터를 지구로 전송하기 전 정리하는 기능을 하는데, 여기에 문제가 생기면서 보이저 1호는 의미 없는 신호만 지구로 보냈다고 해요. 이에 NASA는 문제가 생긴 메모리를 다른 부분에 옮겨 원격 복구에 나섰고 문제를 해결했어요.&lt;br&gt;&lt;br&gt;앞에서 얘기했듯이 보이저 1호는 원래 태양계 행성을 탐사하는 목적으로 발사됐어요. 1979년 목성 근접 통과를 시작으로 보이저 1호는 다양한 자료를 지구로 전송했습니다. 목성과 토성의 대기 구성이나 기후, 자기장 등 정보를 수집해 우리가 사는 태양계에 대해 자세히 알 수 있게 해줬죠.&lt;br&gt;&lt;br&gt;보이저 1호의 예상 임무 기간은 4년 정도였지만, 과학자들은 보이저 1호가 예정된 탐사를 끝낸 이후에도 계속해서 탐사를 할 수 있을 것으로 전망했나봐요. 보이저 1호에 4년간 필요한 양보다 훨씬 많은 연료를 채워 넣었다는 사실에서 알 수 있죠.&lt;br&gt;&lt;br&gt;&lt;b&gt;창백한 푸른 점&lt;/b&gt;&lt;br&gt;&lt;br&gt;NASA는 보이저 1호가 최초 임무였던 태양계 탐사를 끝내자 태양계 밖 우주로 나가는 ‘인터스텔라’ 임무를 하도록 했어요. 보이저 1호는 1990년 태양계 끝을 향해 가다가 명왕성 인근에서 카메라로 지구의 모습을 담았어요. 사진 속 지구는 희미한 점처럼 아주 작았죠. 이 유명한 사진은 미국 천문학자 칼 세이건(1934~1996)의 제안으로 촬영했어요. 칼 세이건은 이 사진을 통해 지구는 광활한 우주에 떠 있는 보잘것없는 존재에 불과하다는 것을 사람들에게 가르쳐주고 싶었다고 해요. 우주에서 지구는 너무나 작은 존재이니 인간의 오만함을 반성해야 한다는 충고였죠. 그는 자신의 책에서 사진 속 지구를 ‘창백한 푸른 점’이라고 표현했죠. 이 표현은 그의 책 제목이기도 합니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;지구 문명 담은 ‘골든 레코드’&lt;/b&gt;&lt;br&gt;&lt;br&gt;보이저 1호 발사 계획에 참여했던 칼 세이건은 탐사선에 ‘골든 레코드’를 탑재했어요. 골든 레코드에는 55개 언어로 된 인사말과 지구 환경, 인류 문명을 담은 사진 110여 장, 지구를 대표하는 음악 27곡 등을 담았어요. 탐사선이 먼 우주로 나가 외계 문명을 만났을 때 그들에게 지구 문명을 알려주는 자료를 넣은 거예요.&lt;br&gt;&lt;br&gt;이후 보이저 1호는 2012년 8월 25일부터 태양계를 벗어나 성간(별과 별 사이) 우주를 탐사하며 자료들을 지구로 보내고 있어요. 과학자들은 보이저 1호의 남은 수명이 길어야 6년 남짓일 것으로 보고 있어요. 그때까지 보이저 1호는 우주를 탐사하며 우리들에게 우주에 대한 다양한 정보를 계속 보내줄 거예요.&lt;br&gt;&lt;br&gt;보이저 1호는 수명이 다해 지구에 정보를 보내주지 못하더라도 계속해서 우주를 떠돌아다닐 거예요. 그러다 언젠가 정말로 외계 문명을 만나 ‘골든 레코드’에 담긴 지구 정보를 전달할지도 모르겠습니다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 연세대학교 이승만연구원 세미나·토크쇼 개최</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/07/02/PIASDUQ6ZJGLHB42KBQHT5QQ3I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/07/02/PIASDUQ6ZJGLHB42KBQHT5QQ3I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;연세대학교 이승만연구원&lt;/b&gt;(원장 양준모)은 4일 오후 4시 서울 코리아나호텔 7층 글로리아홀에서 우남기억범국민운동본부와 함께 ‘대한민국의 발전과 건국 전쟁’을 주제로 세미나와 토크쇼를 개최한다. 1부에서는 이승만 대통령의 불교 정책과 불교계의 발전 과정, 2부에서는 김덕영 감독을 비롯해 영화 ‘건국 전쟁’ 출연진과 토크쇼를 진행한다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 감사원 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/07/02/ONJQIM24CZAEFCL777OE55IXA4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/07/02/ONJQIM24CZAEFCL777OE55IXA4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;감사원&lt;/b&gt;◇고위감사공무원 승진▷심사관리관 남우점◇과장 신규 보임▷재정·경제감사국 제2과장 박건율▷특별조사국 제2과장 박준욱▷국민제안감사1국 제2과장 김종동▷감사교육원 교육지원과장 서동원◇과장 전보▷공공기관감사국 제3과장 정광연▷지방행정감사1국 제1과장 박용준▷국민제안감사2국 제3과장 박득서▷운영지원과장 정영교◇3급 승진▷국토·환경감사국 제1과장 임경훈▷공공재정회계감사국 제1과장 김동진▷사회·복지감사국 제4과장 김영호▷외교·국방감사국 제1과장 유동욱▷지방행정감사2국 제3과장 임정혁▷디지털감사국 제1과장 안광용▷디지털감사국 정보시스템운영과장 김태익&lt;br&gt;&lt;br&gt;▲&lt;b&gt;교육부&lt;/b&gt;▷교육부 일반직 고위공무원 유지완▷대통령비서실 선임행정관 일반직 고위공무원 박지영&lt;br&gt;&lt;br&gt;▲&lt;b&gt;국토교통부&lt;/b&gt;◇실장급 전보▷항공정책실장 주종완◇국장급 전보▷도로국장 이우제◇과장급 전보▷국제협력통상담당관 공경화▷국가건축정책위윈회기획단 건축혁신기획팀장 김희천▷서울지방항공청 관리국장 조한석▷원주지방국토관리청 강릉국토관리사무소장 천호근▷부산지방국토관리청 진주국토관리사무소장 김웅영&lt;br&gt;&lt;br&gt;▲&lt;b&gt;대한불교조계종&lt;/b&gt;▷불교신문 사장 수불스님&lt;br&gt;&lt;br&gt;▲&lt;b&gt;고려대학교&lt;/b&gt;◇부처장 승진▷중앙도서관 부관장 겸 학술정보개발팀 부장 겸 학술정보기획팀 부장 이상오▷비서실장 이재철◇부장 승진▷경영전략실 부장 박종성▷연구진흥팀 부장 겸 국제연구협력센터 부장 겸 공동기기원행정팀 부장 정현민▷감사팀 부장 겸 연구감사팀 부장 설지영▷대외협력팀 부장 박용민◇부장 전보▷체육위원회 체육지원팀 부장 최한기▷건축팀 부장 김흥덕▷경영지원팀 부장 장휘진▷산학진흥팀 부장 겸 연구지원팀 부장 한재호▷학예팀 부장 겸 대학기록팀 부장 배성환▷사범대학 행정팀 부장 겸 교육대학원 행정팀 부장 겸 교직팀 부장 겸 교육연수원 부장 김영석▷생명과학대학 행정팀 부장 겸 생명환경과학대학원 행정팀 부장 겸 에코업혁신융합대학사업단 부장 홍준석▷안전관리팀 부장 조기찬▷정보개발팀 부장 장봉춘▷교수학습지원팀 부장 겸 원격교육센터 부장 겸 교육매체지원팀 부장 이상조&lt;br&gt;&lt;br&gt;▲&lt;b&gt;부산대학교&lt;/b&gt;▷캠퍼스 기획본부장 박수완▷미래정책실장 박상후▷융합교육부본부장 신지은▷재정전략부처장 김형준▷교무처 교무과장 이영섭&lt;br&gt;&lt;br&gt;▲&lt;b&gt;뉴시스&lt;/b&gt;▷정치부장 정녹용▷스포츠부장 문성대▷사회부장 남상훈▷동영상부장 우은식▷관광전문기자 김정환&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이코노텔링&lt;/b&gt;▷제작국장 이한원&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘최초의 한류’ 조선통신사 길 따라 ‘경요세계’ 정신 배우다</title>
