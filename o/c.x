@@ -13,6 +13,133 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>내년에도 최저임금 차등 적용 안 한다</title>
+      <link>https://www.chosun.com/national/labor/2024/07/02/2QBSJKJ4RZCQHFJ5JKQXN2CGW4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/07/02/2QBSJKJ4RZCQHFJ5JKQXN2CGW4/</guid>
+      <dc:creator>김윤주 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Jul 2024 09:23:54 +0000</pubDate>
+      <content:encoded>내년에도 모든 업종에 동일한 금액의 최저임금이 적용된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NHKK4XCJLS7NPINOOI3ICFWMRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 세종시 정부세종청사에서 열린 최저임금위원회 7차 전원회의에서 사용자위원, 근로자 위원들이 최저임금 구분적용 결정을 앞두고 팽팽한 긴장감 속에 회의를 시작하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 최저임금위원회는 세종시 정부세종청사에서 제7차 전원회의를 열고 최저임금의 사업 종류별 구분 여부를 표결에 부쳤으나 부결됐다고 밝혔다.&lt;br&gt;&lt;br&gt;근로자위원 9명, 사용자위원 9명, 공익위원 9명 총 27명이 참여한 표결에서 찬성 11표, 반대 15표, 무효 1표로 부결됐다.&lt;br&gt;&lt;br&gt;앞서 경영계는 음식점, 택시, 편의점에 별도의 최저임금을 적용할 필요가 있다고 주장했다. 지난달 26일 열린 제6차 전원회의에서 사용자위원 측은 한국표준산업분류 기준 한식 음식점업, 외국식 음식점업, 기타 간이 음식점업과 택시 운송업, 체인화 편의점을 최저임금 구분 적용이 필요한 업종으로 제시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>호우‧강풍주의보 내린 인천, 반지하 주택 침수 등 비 피해 잇따라</title>
+      <link>https://www.chosun.com/national/incident/2024/07/02/FF2CH33C65EODOMKBPJCKF3CRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/02/FF2CH33C65EODOMKBPJCKF3CRY/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Jul 2024 09:08:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FNLZOIZF3RGAVCWKCVX6FFRZKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;하수구 역류가 신고된 인천시 서구 청라동 도로. /인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;호우‧강풍주의보가 내려진 2일 인천에서 반지하 주택이 침수되는 등 피해가 잇따랐다. 다행히 인명피해는 없었다.&lt;br&gt;&lt;br&gt;인천소방본부에 따르면 이날 오전 9시부터 오후 5시 현재 강풍과 호우 관련 피해 신고가 12건 접수됐다.&lt;br&gt;&lt;br&gt;이날 오후 1시 30분쯤엔 인천시 중구 신흥동의 한 빌라 반지하 주택이 침수돼 배수 작업이 진행됐다. 이에 앞선 11시 54분쯤엔 인천시 남동구 장수동 인천대공원 앞 지하차도 일부가 물에 잠겨 안전조치가 이뤄졌다. 서구 청라동 도로와 남동구 남촌동 빌라에선 하수구가 역류했고, 부평구 청천동과 중구 운서동에선 강한 바람에 나무가 쓰러지기도 했다.&lt;br&gt;&lt;br&gt;인천지역엔 이날 오전 9시 호우주의보가, 오후 1시 강풍주의보가 각각 발효됐다. 호우주의보는 3시간 강우량이 60㎜, 12시간 강우량이 110㎜ 이상으로 예측될 때 내려진다. 강풍주의보는 10분 평균 풍속이 14㎧ 이상이거나 순간 풍속이 20㎧를 넘을 것으로 예상될 때 발효된다.&lt;br&gt;&lt;br&gt;인천지역 호우주의보는 오후 4시 기준 해제됐지만, 강풍주의보는 유지되고 있다. 강화도는 호우주의보와 강풍주의보가 모두 유지되고 있다. 인천의 누적 강수량은 지역 별로 44.5㎜에서 63.1㎜를 기록됐다.&lt;br&gt;&lt;br&gt;수도권기상청 관계자는 “인천의 경우 내일(3일) 낮까지 5~40㎜의 비와 평균 풍속 14㎧ 이상의 매우 강한 바람이 예상돼 주의가 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최태원 측, 법원에 ‘이혼 확정 증명’ 신청… 법원은 거부</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/02/A34J6IAMH5ENHGROGBWXESJ3KI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/02/A34J6IAMH5ENHGROGBWXESJ3KI/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Jul 2024 09:19:46 +0000</pubDate>
+      <content:encoded>최태원 SK그룹 회장이 노소영 아트센터 나비 관장과의 이혼 소송 항소심 재판부에 ‘확정 증명’ 신청서를 제출했다가 발급을 받지 못한 것으로 2일 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QR4Y4WSOR42V3KFH3R5WV3MWZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최태원 SK그룹 회장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면 최 회장 측은 지난달 21일 이혼 소송을 담당한 서울고법 가사2부(재판장 김시철)에 확정 증명을 신청했다. 최 회장 측은 지난달 20일 이혼 소송 상고장을 대법원에 제출했다. 반면 노 관장 측은 항소심 재판부의 판단을 받아들이겠다며 상고하지 않았다.&lt;br&gt;&lt;br&gt;확정이란 재판이 완전히 종료된 것을 뜻하며, 이에 대한 증명을 요청하기 위해 작성하는 문서를 확정 증명서라 한다. 판결이나 결정이 확정됐다는 것을 법원이 증명해달라는 것이다.&lt;br&gt;&lt;br&gt;다만 재판부는 최 회장 측의 신청을 받아들이지 않았다.&lt;br&gt;&lt;br&gt;앞서 서울고법 가사2부는 지난달 30일 최 회장이 노 관장과 이혼하면서 노 관장에게 재산 분할로 1조3808억원을, 위자료로 20억원을 지급하라는 판결을 내렸다. 최 회장 측이 상고장을 내면서 아직 이 판결은 ‘확정’되진 않았다.&lt;br&gt;&lt;br&gt;법조계에선 최 회장 측이 확정 증명을 별도로 신청한 것은 이례적이라는 반응이다. 한 변호사는 “아마 이혼 관련된 부분일 것”이라며 “상고심에서 안 다투고 항소심에서 확정짓고 싶어 하는 것 같다”고 했다. 최 회장 측이 대법원에서 재산 분할과 위자료 액수에 대해선 다투겠지만, 두 사람의 혼인 관계가 끝났다는 사실은 일찍 확정 지어 달라는 취지로 이런 확정 증명 신청을 했다는 것이다.&lt;br&gt;&lt;br&gt;이에 대해 또 다른 부장판사 출신 변호사는 “두 사람이 이혼하는 것은 기정사실화된 것 아니냐”며 “빨리 이혼 신고는 확정 받아서 이혼에 대해선 법적 다툼을 없게 하고 싶어 하는 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;본지는 최 회장 측의 입장을 듣기 위해 최 회장 측 대리인 측에 수차례 연락을 시도했으나 연결되지 않았다. SK 측은 “최 회장 관련 개인적인 건이라 입장이 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>역주행 車, 주차장 나올때부터 90% 속도로 내달렸다</title>
+      <link>https://www.chosun.com/national/2024/07/02/MXUPKLZ4OJH7FABHT2AH3E7B4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/07/02/MXUPKLZ4OJH7FABHT2AH3E7B4Y/</guid>
+      <dc:creator>주형식 기자, 구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Jul 2024 09:14:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X5Q7UVSMVRDIJE43WBW6COZCEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오전 서울 시청역 7번 출구 인근 교통 사고 현장에서 한 여성이 고인들을 추모하고 있다./ 장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시민 9명이 죽고 6명이 다친 서울 시청역 역주행 참사를 수사 중인 경찰은 운전자 차모(68)씨를 교통사고 처리 특례법 위반 혐의로 입건해 수사 중이라고 2일 밝혔다. 지난 1일 밤 사고 직후 음주 측정, 마약 간이 검사에서 음성 판정을 받은 차씨는 본지 통화와 경찰 조사에서 “급발진 때문에 사고가 났다”고 주장했다. 하지만 서울 남대문경찰서는 “급발진 근거는 현재까지 피의자 진술뿐”이라며 국립과학수사연구원에 차씨 차량 감식을 의뢰했다. 경찰 관계자는 “EDR(사고 기록 장치)를 보면 차씨가 사고 직전 가속페달을 90% 이상 밟은 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 1일 오후 9시 26분쯤 차씨가 운전하던 제네시스 G80(2018년식) 차량이 시청역 인근 웨스틴 조선 호텔 지하 주차장에서 빠져나온 후 일방통행 4차선 도로를 역주행하다 왼편 인도로 돌진했다. 차량은 인도에 설치된 가드레일을 뚫고 보행자 11명을 덮쳤다. 이후 다른 차량 2대를 연쇄 추돌한 뒤에야 멈췄다. 역주행 거리는 200m가량이었다. 사상자 상당수가 도심 한가운데서 회식을 하거나 퇴근하고 귀가하던 중 참변을 당했다. 사망자는 모두 30~50대 남성 직장인이었다. 은행 직원 4명은 동료 승진과 인사 발령을 축하하는 저녁 식사를 마친 뒤 인도에 있다가 희생됐다.&lt;br&gt;&lt;br&gt;경찰은 목격자 진술, 사고 지점 방범 카메라 영상, 사고 차량의 블랙박스와 EDR(사고 기록 장치)을 토대로 운전자 과실이나 차량 결함 등 여러 가능성을 열어두고 사고 원인을 조사 중이다. 특히 EDR 분석은 사고 당시 차량 주행 속도를 판단하는 중요 증거다. 경찰 관계자는 “EDR 데이터만으로 급발진 가능성을 배제할 수 없기 때문에 국과수 정밀 감식 결과를 기다릴 것”이라고 했다. 경찰은 차씨에 대해 구속영장을 신청하는 방안도 검토 중이다. 그는 경기 안산 한 버스 회사에서 근무하는 기사다. 1974년 버스 면허를 취득하고 버스·트레일러 등을 몰아왔다. 차씨와 동승했던 아내는 “남편이 그간 접촉 사고 한 번도 안 냈는데, 유족들께 너무 죄송하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/N3HPTLSMIVKYZATTN5S4DWT23E.jpg?width=4560&amp;height=3040&amp;auth=35529879a46694ff5bca84dd39cfd0315336e4774342b7588ac370e4e27fbb04&amp;smart=true" type="image/jpeg" height="3040" width="4560">
+        <media:description type="plain">&lt;YONHAP PHOTO-5124&gt; 국화 놓인 사고 현장
+    (서울=연합뉴스) 신현우 기자 = 2일 지난 밤 대형 교통사고가 발생한 서울 중구 시청역 7번출구 인근 사고 현장을 찾은 시민이 국화를 놓고 있다.
+    전날 밤 역주행하던 승용차가 인도로 돌진해 9명이 숨지고 4명이 다치는 사고가 발생한 바 있다. 2024.7.2
+    nowwego@yna.co.kr/2024-07-02 17:19:39/
+&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">신현우</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>180m 거리를 역주행... 단 1초만에 11명 덮쳤다</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/02/7YE6VXFJNFGMPOKD5HVBQWFDLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/02/7YE6VXFJNFGMPOKD5HVBQWFDLM/</guid>
+      <dc:creator>고유찬 기자, 서보범 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Jul 2024 09:16:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KI2HKCOARBF3DHESAZEXEIIVRM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중구 시청역 부근에서 대형 교통사고가 발생했다./ 박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 시청역 역주행 참사 가해자 차모(68)씨가 운전한 진회색 제네시스 G80(2018년식) 차량은 1일 오후 9시 25분쯤 서울 중구 웨스틴조선호텔 지하 주차장을 빠져나왔다. 소공로 교차로에서 우회전해 시청광장 방향으로 진입해야 할 차량은 돌연 그대로 직진해 세종대로 방면으로 역주행을 시작한다.&lt;br&gt;&lt;br&gt;180m가량을 빠른 속도로 역주행한 차씨 차량은 왼쪽 인도 가드레일을 들이받고 인도로 넘어간다. 감시 카메라 영상을 보면, 차량은 주행(走行)이라기보단 비행(飛行)이라는 표현이 맞을 정도로 쏜살같이 인도를 덮친다. 편의점·식당·주점 등이 밀집한 이 인도엔 행인 11명이 있었다. 한 편의점 앞엔 두 무리의 행인이 각각 세 명씩 무리를 지어 대화를 나누고 있었다.&lt;br&gt;&lt;br&gt;두 명은 편의점 방향으로 걸어오고 있었고, 세 명은 시청역 사거리 횡단보도 방면으로 걷고 있었다. 단 1초 만에 차량은 이들을 쓸어버리듯 덮쳤고, 대부분은 자신이 참변을 당하는지도 거의 인지하지 못했다. 한 남성이 차량이 덮치기 직전에야 사실을 알고 몸을 피하려 하지만 이미 늦은 뒤였다. 11명 중 9명이 사망했고 2명은 부상했다.&lt;br&gt;&lt;br&gt;이 과정에서 가드레일은 뿌리째 뽑히고, 인근에 주차된 오토바이 2대와 자전거 1대가 산산조각 나는 모습, 가게 앞에 쌓여있던 플라스틱 박스도 와르르 무너졌다. 인도는 부서진 오토바이와 각종 잔해로 순식간에 아수라장이 됐다. 목격자들은 “우당탕탕 소리가 순식간에 났다” “쾅 하는 굉음에 전쟁이 난 줄 알았다”고 말했다. 간발의 차로 화를 모면한 행인들도 있었다. 한 여성은 차량이 인도를 덮치기 직전 편의점으로 들어가 사고를 피했다. 또 다른 여성 역시 사고 직후 현장으로 걸어오다가 희생자가 쓰러져 있는 모습에 급하게 자리를 피했다.&lt;br&gt;&lt;br&gt;차씨 차량은 11명을 덮친 이후에도 멈추지 않았다. 시청역 사거리에 진입한 차량은 세종대로 서울역에서 시청 방면으로 이동하던 BMW와 쏘나타 2대를 차례로 들이받았다. 연쇄 추돌 이후에도 차씨의 차량은 부메랑 모양으로 방향을 틀며 9차선 도로를 가로질렀다. 질주를 계속하던 차량은 교차로 맞은편, 지하철 2호선 시청역 12번 출구 인근 교통섬에서 멈춰선다. 오후 9시 26분쯤이었다. 놀란 시민들이 비명을 지르며 몸을 피했다.&lt;br&gt;&lt;br&gt;총 200m를 역주행한 제네시스 차량은 사고 충격에 전면부가 모두 부서졌고 보닛과 측면도 심하게 찌그러진 상태였다. 경찰은 차씨가 일방통행 차로에서 역주행을 하게 되자 공황에 빠졌을 가능성을 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구 도심 상수도관 파열로 도로 침수, 수돗물 공급도 일시 중단</title>
+      <link>https://www.chosun.com/national/regional/2024/07/02/CVDXONDRARADDN43J6QXHUHE3Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/02/CVDXONDRARADDN43J6QXHUHE3Q/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Jul 2024 09:10:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IP2NINW2FNAPJIUQFON7DAZJCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오후 3시 58분쯤 대구 서구 평리네거리 인근 상수도관 파열로 침수된 도로 위를 한 시민이 소방관의 도움을 받아 건너고 있다.  /대구소방안전본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 도심 상수도관이 파열돼 도로가 물에 잠기고, 일대 수돗물 공급이 일시 중단됐다.&lt;br&gt;&lt;br&gt;2일 대구소방안전본부에 따르면, 이날 오후 3시 58분쯤 대구 서구 평리네거리 인근 상수도관(지름 약 50㎝)이 파열돼 일대 도로가 물에 잠겼다. 또 이로 인해 사고 지점 인근 가구에 수돗물 공급이 30분∼1시간가량 중단됐다.&lt;br&gt;&lt;br&gt;대구시 상수도사업본부 관계자는 “해당 상수도관을 지나는 수돗물을 다른 상수도관으로 우회 공급하는 형태로 수돗물 공급을 재개했다”면서 “정확한 파열 원인을 확인 중”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YIZPDNCHRZKDJGWKECZQANKG2Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대구 도심 상수도관이 파열돼 대구시 상수도사업본부 관계자들이 복구작업을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상수도사업본부는 상수도관이 파열된 3, 4차로를 통제하고 정확한 파열 원인 파악과 복구를 위해 굴착 작업을 진행하고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>빈소 찾은 오세훈 “일어나선 안될 사고…인명 보호할 보완점 찾겠다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/02/XJFTD2W6KZCRPCQ3XNWCZ4ULJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/02/XJFTD2W6KZCRPCQ3XNWCZ4ULJY/</guid>
+      <dc:creator>안준현 기자, 고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Jul 2024 08:26:25 +0000</pubDate>
+      <content:encoded>지난 1일 서울 시청역 역주행 참사로 서울시 공무원 2명이 숨진 가운데, 오세훈 서울시장이 이들의 빈소를 찾아 “이번 사고가 초고령자의 운전 면허 발급에 대한 공론화 계기가 되길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ISVDMX5HRTZJ3C54TYASYCEISQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 2일 오후 시청역 인근 사거리에서 전날 대형 교통사고로 숨진 서울시청 공무원 윤모씨의 빈소가 차려진 서울 서대문구 신촌세브란스 장례식장을 찾아 조문하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 오후 희생자들의 빈소가 차려진 신촌세브란스병원과 국립중앙의료원을 각각 방문한 오 시장은 조문을 한 뒤 기자들과 만나 “있어서는 안 되는 사고가 일어나서 많은 서울시민이 고인이 되셨다. 이들의 명복을 빈다”고 했다.&lt;br&gt;&lt;br&gt;이어 “그동안 고령자나 초고령자의 운전 면허 반납 내지는 조건부 면허 발급에 대한 공론화가 필요하다는 움직임이 있었는데, 이번 사고의 원인이 뭐로 밝혀지든 이번 기회에 이러한 공론화가 이뤄져서 합리적으로 이런 사고를 최소화할 수 있는 방안을 논의하는 계기가 됐으면 한다”고 했다.&lt;br&gt;&lt;br&gt;또 “페달 오작동 내지는 오조작 시에 이것을 기계적으로 방지할 수 있는 장치가 가능한데, 이러한 장치를 어떻게 의무화할지에 대해서도 이번 기회에 논의가 이뤄져서, 앞으로 이런 사고가 재발하지 않도록 전화위복의 기회로 삼을 수 있도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 이어 “사고 현장에 가보니 가드레일이 많이 손상이 돼있더라”며 “이번 기회에 점검을 한 번 해서, 어떤 점을 보완해야 이런 불측의 교통사고가 발생할 때 인명을 보호할 수 있는지 점검의 기회로 삼겠다”고 했다.&lt;br&gt;&lt;br&gt;한편 지난 1일 오후 9시 30분쯤 서울시청 인근 교차로에서 검은색 대형 승용차를 운전하는 68세 남성이 차량을 역주행 해 9명이 사망하고 6명이 다치는 사고가 발생했다. 사망자 중에는 서울시 직원과 시중은행 직원 등이 포함되어 있었다. 운전자는 경찰에 “급발진 사고였다”며 주장하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ISVDMX5HRTZJ3C54TYASYCEISQ.jpg?width=2784&amp;height=1960&amp;auth=099c9789981b9e1d421d595cdd9ea7c63b5d43c7502792e8d399e817a720a3e4&amp;smart=true" type="image/jpeg" height="1960" width="2784">
+        <media:description type="plain">오세훈 서울시장이 2일 오후 시청역 인근 사거리에서 전날 대형 교통사고로 숨진 서울시청 공무원 윤모 씨(31) 빈소가 차려진 서울 서대문구 신촌세브란스 장례식장을 찾아 조문하고 있다. 2024.7.2/뉴스1 ⓒ News1 박지혜 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 박지혜 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“데려다 줄게”… 모텔 가 강제추행한 前 충남교육청 간부</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/07/02/JCYOSGCOA5DKVFSXKHRZ7O6KQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/07/02/JCYOSGCOA5DKVFSXKHRZ7O6KQ4/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Jul 2024 08:36:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7DNUTP4NZOG3ALMZE5SZG2YPEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남교육청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여성 지인을 모텔로 데려가 강제추행한 전 충남교육청 간부 공무원이 구속됐다.&lt;br&gt;&lt;br&gt;충남경찰청은 강제추행 혐의를 받는 전직 교육장 A(60대)씨에 대해 구속영장이 발부됐다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 7월 충남 당진시에서 지인들과 술자리를 가진 뒤 B씨에게 “데려다 주겠다”면서 모텔로 데려가 강제로 추행한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;B씨의 고소로 수사에 착수한 경찰은 지난 3월 충남교육청에 수사 개시를 통보했고, 당시 충남의 한 교육지원청의 교육장으로 근무하던 A씨는 직위해제됐다.&lt;br&gt;&lt;br&gt;A씨는 강제추행 혐의에 대해 일부만 인정하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 피해자 B씨가 제출한 증거와 목격자 진술 등을 통해 A씨 혐의를 입증하는 한편 구체적인 범행 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/7DNUTP4NZOG3ALMZE5SZG2YPEE.jpg?width=1920&amp;height=1080&amp;auth=682d19f5b52a2812ea3f0a600b23ddf2350a92919ed3c8a7f8511cb52bef5d8e&amp;smart=true" type="image/jpeg" height="1080" width="1920">
+        <media:description type="plain">충남교육청 전경./뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“아기 사망 소식에도 방관”...불법 입양 후 숨진 신생아 친모도 구속</title>
+      <link>https://www.chosun.com/national/incident/2024/07/02/4DVMFLA53FFGLJZAFPNEUYRPIQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/02/4DVMFLA53FFGLJZAFPNEUYRPIQ/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Jul 2024 08:40:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L6DJIVDCTVWNXRJ5FFBDZL5GJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구동부경찰서 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경제적 이유 등으로 아기를 불법 입양시키고 아기가 사망했다는 소식을 접했음에도 별다른 조치를 취하지 않은 친모가 구속됐다.&lt;br&gt;&lt;br&gt;대구 동부경찰서는 아동복지법 위반(유기·방임)과 사체 유기 방조 등 혐의로 30대 여성 A씨를 구속했다고 2일 밝혔다. A씨는 지난해 2월 24일 오픈채팅방을 통해 만난 20대 남성 B씨와 30대 여성 C씨에게 생후 1년도 지나지 않은 친딸을 불법 입양한 혐의를 받고 있다. 앞서 대구지법은 A씨에게 “범행이 중대하며 도주 우려가 있다” 등의 이유로 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 B씨 등이 정식 입양 기관 관계자가 아님을 알고 있었음에도 “가정 형편상 키울 수 없다”며 대구에서 출생 신고만 한 뒤 이들에게 딸을 넘겼다. A씨와 B씨 등 사이에 금전 거래는 없었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨의 딸은 신생아 예방 접종 등을 받지 못한 채 입양 약 2주만인 올해 3월 7일 숨졌다. B씨 등은 아기의 시신을 경기도 포천 친척집 인근에 암매장했고, 이 과정에서 A씨에게 연락을 취했다. 하지만 경찰은 A씨가 딸의 사망 소식을 접했음에도 경찰에 신고하거나 별다른 조치를 취하지 않으면서 B씨 측의 암매장 행위를 방조한 것으로 보고 A씨에게 사체 유기 방조 혐의를 A씨에게 추가로 적용했다.&lt;br&gt;&lt;br&gt;이 사건은 대구 동구가 출생 신고된 아기의 정기 예방 접종 기록 등이 확인되지 않자 경찰에 수사를 의뢰하면서 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “오는 3일 중 A씨를 검찰에 송치할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>놀이터에서 아이들 노는데 “시끄러워”… 비비탄총 쏜 50대</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/02/HNREKANDDFHPVGLENXOXZMLXRI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/02/HNREKANDDFHPVGLENXOXZMLXRI/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Jul 2024 08:23:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WNWNTOVJ2NDEERTPP7KVR2KIAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 아파트 단지의 놀이터 모습. 기사 내용과 관련 없음. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아파트 놀이터에서 아이들이 떠든다는 이유로 비비탄총을 쏜 50대가 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;2일 법조계에 따르면, 수원지법 형사15단독 황운서 부장판사는 특수폭행 혐의로 기소된 A(55)씨에게 벌금 500만원을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 작년 10월 3일 오후 6시30분쯤 경기 용인시의 한 아파트 놀이터에서 아이들이 시끄럽게 떠들며 논다는 이유로 피해자 B(11)군과 C(9)군에게 비비탄 권총을 발사한 혐의를 받는다. 특히 C군은 비비탄에 얼굴 좌측 관자놀이 부분을 맞는 등의 피해를 본 것으로 조사됐다.&lt;br&gt;&lt;br&gt;범행 당시는 A씨가 협박죄 등으로 징역형의 처벌을 받아 집행을 종료한 지 불과 6개월 된 시점이었다.&lt;br&gt;&lt;br&gt;이에 재판부는 “피고인은 협박죄 등으로 징역형의 처벌을 받아 집행을 종료한 지 불과 6개월 만에 이 사건 범행을 저질렀다”며 “피해 아동들과 그 부모가 가질 불안감 등 정신적 피해를 고려할 때 죄질이 결코 가볍지 않다”고 판시했다.&lt;br&gt;&lt;br&gt;다만 “심각한 정신질환을 앓고 있어 치료가 절실한 상태이고, 피고인도 계속 치료를 받을 것을 다짐하고 있어 개전의 기회를 줄 필요가 있는 점 등 여러 사정을 종합했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세]  7월 3일 수요일 (음력 5월 28일 戊辰)</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/02/OCHLUPLOIJHDBC3AI332JWNOS4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/02/OCHLUPLOIJHDBC3AI332JWNOS4/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Jul 2024 08:30:00 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 억지로 하지 말고 순리 따르도록. 48년생 주변 이야기에 너무 신경 쓰지 마라. 60년생 양보하는 자세 필요. 72년생 동쪽에서 온 사람이 귀인. 84년생 현실에 갇히면 미래 놓칠 수도. 96년생 생각대로 되지 않더라도 아쉬워할 것 없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 옛것 무너지면 새것이 출현하기 마련. 49년생 주어진 일은 미루지 말고 오늘 당장 끝마치도록. 61년생 쉽고 가능한 것부터 시작하라. 73년생 경중과 선후 따져 진행하도록. 85년생 지난 일은 잊고 미래만 생각. 97년생 첫인상이 성패 좌우.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 작은 조짐 보면서 큰 흐름 읽을 수 있어야. 50년생 큰 문제 아니라면 그냥 넘어가주는 게 어른. 62년생 뜻있으면 길 열린다. 74년생 사람은 누구나 실수가 있는 법. 86년생 이성의 유혹에 넘어가기 쉬운 하루. 98년생 토끼 쫓다 사슴 놓칠라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 순조로워도 긴장의 끈 놓지 마라. 39년생 좋은 일에 금전 지출 있을 듯. 51년생 이무기가 변해 교룡 되는구나. 63년생 낙상 두려우니 한 걸음도 신중하게. 75년생 돼지띠와의 거래에 행운 따른다. 87년생 평소 먹은 마음 취중(醉中)에 난다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 어설픈 사냥꾼 상처입기 쉽다. 40년생 누런색과 숫자 5, 10이 행운 부른다. 52년생 추락한 것은 반드시 오른다. 64년생 희망을 주는 사람이 되도록. 76년생 수치심은 재앙 쫓는 지름길. 88년생 약속과 모임은 빠지지 말고 참석하도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 지혜로운 사람이라고 실수 없겠나. 41년생 운동과 활발한 활동이 최고 보약. 53년생 객관적인 입장에서 판단하도록. 65년생 사랑과 연기는 감출 수 없다. 77년생 꽃도 만개보다 반개했을 때 더 아름답다. 89년생 일렁이는 마음속 파도 잠재우도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 떠벌리지 말고 조용히 가라. 42년생 먼저는 근심스럽고 뒤에는 평안. 54년생 노력 헛되지 않을 터이니 심혈 기울이도록. 66년생 가어사(假御使)가 더 무서운 법. 78년생 가벼운 나들이로 삶의 활력을. 90년생 시운 도래하니 만사 순조롭다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 긍정적인 생각이 좋은 결과 낳는다. 43년생 흐름에 내맡겨두는 것도 한 방법. 55년생 보약도 지나치면 독약. 67년생 공과 사는 분명히 구분하라. 79년생 뛰어난 기교는 보잘것없는 법. 91년생 재물의 진정한 목적이 뭔지 생각해보도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 세상에 질투를 치료할 처방은 없다. 44년생 괜한 일로 마음고생할 수도. 56년생 자극과 고언 역시 격려로 여길 줄 알아야. 68년생 기쁨과 근심은 동전의 양면. 80년생 상사에게 밉보이면 오래간다. 92년생 재주만 믿지 말고 겸손한 자세로 임하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 젊은 군사에게는 늙은 말이 필요. 45년생 성공은 실수를 인정할 때 이룰 수 있다. 57년생 버리고 소유함에 연연해 마라. 69년생 세상에 옳지 않은 부모 계실까. 81년생 손에 쥐고도 모르는 행복이면 놓쳐야 알까. 93년생 문서 운 있으니 매매교환에 이익.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 오늘, 내일을 생각하라. 46년생 준마도 명장 만나야 천리마라 한다. 58년생 감정 누르고 이성 깨워야. 70년생 지나친 기대는 하지 않는 것이 상책. 82년생 오늘 당장 결과를 보려고 하지 마라. 94년생 노력만큼은 아니어도 대가는 있다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 버려야 새로 채우지. 47년생 눈앞에 현실만 보지 말고 이면 봐야. 59년생 일의 성패는 신속, 과감에 달렸다. 71년생 묘책 있으나 시운 역행하는구나. 83년생 무리만 하지 않으면 원만히 이뤄질 듯. 95년생 대인 관계에 당당한 자신감 갖도록.	&lt;br&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>학생 흉기 난동 벌어졌던 그 학교…”교장 바꿔달라” 교사들 서명운동 왜?</title>
       <link>https://www.chosun.com/national/regional/honam/2024/07/02/SS2ARTH5M5EB7FEGFX3EAY7AAU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/07/02/SS2ARTH5M5EB7FEGFX3EAY7AAU/</guid>
@@ -826,15 +953,6 @@
       <content:encoded>▲&lt;b&gt;감사원&lt;/b&gt;◇고위감사공무원 승진▷심사관리관 남우점◇과장 신규 보임▷재정·경제감사국 제2과장 박건율▷특별조사국 제2과장 박준욱▷국민제안감사1국 제2과장 김종동▷감사교육원 교육지원과장 서동원◇과장 전보▷공공기관감사국 제3과장 정광연▷지방행정감사1국 제1과장 박용준▷국민제안감사2국 제3과장 박득서▷운영지원과장 정영교◇3급 승진▷국토·환경감사국 제1과장 임경훈▷공공재정회계감사국 제1과장 김동진▷사회·복지감사국 제4과장 김영호▷외교·국방감사국 제1과장 유동욱▷지방행정감사2국 제3과장 임정혁▷디지털감사국 제1과장 안광용▷디지털감사국 정보시스템운영과장 김태익&lt;br&gt;&lt;br&gt;▲&lt;b&gt;교육부&lt;/b&gt;▷교육부 일반직 고위공무원 유지완▷대통령비서실 선임행정관 일반직 고위공무원 박지영&lt;br&gt;&lt;br&gt;▲&lt;b&gt;국토교통부&lt;/b&gt;◇실장급 전보▷항공정책실장 주종완◇국장급 전보▷도로국장 이우제◇과장급 전보▷국제협력통상담당관 공경화▷국가건축정책위윈회기획단 건축혁신기획팀장 김희천▷서울지방항공청 관리국장 조한석▷원주지방국토관리청 강릉국토관리사무소장 천호근▷부산지방국토관리청 진주국토관리사무소장 김웅영&lt;br&gt;&lt;br&gt;▲&lt;b&gt;대한불교조계종&lt;/b&gt;▷불교신문 사장 수불스님&lt;br&gt;&lt;br&gt;▲&lt;b&gt;고려대학교&lt;/b&gt;◇부처장 승진▷중앙도서관 부관장 겸 학술정보개발팀 부장 겸 학술정보기획팀 부장 이상오▷비서실장 이재철◇부장 승진▷경영전략실 부장 박종성▷연구진흥팀 부장 겸 국제연구협력센터 부장 겸 공동기기원행정팀 부장 정현민▷감사팀 부장 겸 연구감사팀 부장 설지영▷대외협력팀 부장 박용민◇부장 전보▷체육위원회 체육지원팀 부장 최한기▷건축팀 부장 김흥덕▷경영지원팀 부장 장휘진▷산학진흥팀 부장 겸 연구지원팀 부장 한재호▷학예팀 부장 겸 대학기록팀 부장 배성환▷사범대학 행정팀 부장 겸 교육대학원 행정팀 부장 겸 교직팀 부장 겸 교육연수원 부장 김영석▷생명과학대학 행정팀 부장 겸 생명환경과학대학원 행정팀 부장 겸 에코업혁신융합대학사업단 부장 홍준석▷안전관리팀 부장 조기찬▷정보개발팀 부장 장봉춘▷교수학습지원팀 부장 겸 원격교육센터 부장 겸 교육매체지원팀 부장 이상조&lt;br&gt;&lt;br&gt;▲&lt;b&gt;부산대학교&lt;/b&gt;▷캠퍼스 기획본부장 박수완▷미래정책실장 박상후▷융합교육부본부장 신지은▷재정전략부처장 김형준▷교무처 교무과장 이영섭&lt;br&gt;&lt;br&gt;▲&lt;b&gt;뉴시스&lt;/b&gt;▷정치부장 정녹용▷스포츠부장 문성대▷사회부장 남상훈▷동영상부장 우은식▷관광전문기자 김정환&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이코노텔링&lt;/b&gt;▷제작국장 이한원&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[부음] 고택영 前 경기 고양시 덕양구 부구청장 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/07/02/3MXAPRJTBJENFAXHZJVR4RGFMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/07/02/3MXAPRJTBJENFAXHZJVR4RGFMM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;고택영&lt;/b&gt; 前 경기 고양시 덕양구 부구청장 별세, &lt;b&gt;이금순&lt;/b&gt; 남편상, &lt;b&gt;고흥&lt;/b&gt; HD한국조선해양 준법경영실장·&lt;b&gt;고두&lt;/b&gt; 한영의료재단 행정부장 부친상, &lt;b&gt;홍지혜&lt;/b&gt;·&lt;b&gt;김대음&lt;/b&gt; 시부상=30일4시30분 서울아산병원, 발인 2일7시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김옥자&lt;/b&gt; 별세, &lt;b&gt;최용환&lt;/b&gt;·&lt;b&gt;박태준&lt;/b&gt; 모친상, &lt;b&gt;김희태&lt;/b&gt; 조선일보 CS북구미센터 대표 장모상=30일21시10분 경북 남구미요양병원, 발인 2일6시30분, (054)716-0044&lt;br&gt;&lt;br&gt;▲&lt;b&gt;장동훈&lt;/b&gt; 前 삼성전자 부사장 별세, &lt;b&gt;김미정&lt;/b&gt; 한국문화서비스 대표 남편상, &lt;b&gt;장윤수&lt;/b&gt;·&lt;b&gt;장이수&lt;/b&gt; 퀀팃 서비스 기획자 부친상=1일6시 건국대병원, 발인 3일6시, (02)2030-7940&lt;br&gt;&lt;br&gt;▲&lt;b&gt;장이분&lt;/b&gt; 별세, &lt;b&gt;김성열&lt;/b&gt; 조선일보 CS진안센터 대표 모친상=1일4시50분 전북 진안의료원, 발인 3일8시30분, (063)430-7070&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘최초의 한류’ 조선통신사 길 따라 ‘경요세계’ 정신 배우다</title>
       <link>https://www.chosun.com/national/people/2024/07/02/JPZTSP4DA5DFHHNAEEUD5EXF4Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/07/02/JPZTSP4DA5DFHHNAEEUD5EXF4Y/</guid>
@@ -842,31 +960,6 @@
       <description/>
       <pubDate>Mon, 01 Jul 2024 15:30:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RCIYGHI6RJHLHASETC4KQ6CC2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 24일 일본 시가현 히코네시(市)에 있는 절 소안지(宗安寺)에서 다케우치 신도(왼쪽) 주지 스님이 제7회 ‘청년 신(新)조선통신사’ 한국 대원들에게 절의 역사적 의미를 설명하고 있다. /서보범 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“세븐틴과 BTS에 빠져서 한국어를 전공했어요.(아라키 미노리·22)” “일본 애니 특유의 감성이 좋아 ‘기미노 나와(君の名は·너의 이름은)’를 두 번이나 봤어요(노승언·26·충북대 의학과 졸업).”&lt;br&gt;&lt;br&gt;지난달 22일 일본 오사카(大阪) 긴키대(近畿大) 히가시오사카 캠퍼스에서 한일 청년들이 만났다. 이 대학에서 한국어를 전공한 졸업·재학생 29명과 조선일보와 외교부가 공동 주최하는 ‘청년 신(新)조선통신사’ 한국 대원 20명이었다. 이들은 K팝과 일본 애니메이션 등을 놓고 이야기꽃을 피우며 금세 가까워졌다. 스즈카 나호(22)는 “재일교포셨던 할아버지와 동방신기를 좋아하셨던 할머니 영향으로 어려서부터 한국 문화에 관심이 많았다”고 했다.&lt;br&gt;&lt;br&gt;‘청년 신(新)조선통신사’는 올해로 7회째다. 코로나와 노 재팬(No Japan) 운동 등 여파로 2019년 중단됐다. 신조선통신사 한국 대원들과 일본 청년들이 만나 교류한 것은 5년 만이다. 신조선통신사 청년들은 임진왜란 이후 일본에 파견됐던 조선통신사의 경로를 따라 지난달 20일 부산항에서 페리로 출발, 11시간 만에 일본 시모노세키에 닿았다. 이후 히로시마·후쿠야마·오사카·교토·시즈오카·하코네 등을 거쳐 도쿄에서 8박 9일 여정의 막을 내렸다.&lt;br&gt;&lt;br&gt;16세기 동북아 판도를 바꾼 임진왜란(1592~1598). 조선이 비록 승전했지만 인구의 20%인 200만명이 희생됐다는 추산이 나올 만큼 처참한 전쟁이었다. 그러나 조선과 일본은 종전 9년 뒤인 1607년(선조 40년)부터 국교를 재개했다. 조선은 통신사(通信使·왕의 뜻을 전하는 사절단)를 1811년(순조 11년)까지 12회에 걸쳐 파견했다. 통신사가 가는 곳마다 성리학 등을 배우려는 일본인들의 발걸음이 이어졌다. 조선·일본 양측에서 남긴 조선통신사 기록물은 2017년 유네스코 세계유산으로 등재됐다.&lt;br&gt;&lt;br&gt;긴키대 일본인 교수·학생들은 ‘최초의 한류’라는 평가를 받는 통신사의 역사적 의미를 되짚으며 ‘한일 친선’을 강조했다. 사카와 야스히로(50) 교수는 “약 30년 전 학부생 때 서울에서 만난 한국인 친구와 지금도 교류하고 있다”면서 “오늘 단 하루에 그치지 않고 만남을 지속하면서 양국의 우호 관계를 수놓는 징검다리가 됐으면 좋겠다”고 했다. 히가시 도모야(22)는 “공항 내 편의점에서 아르바이트하다 만난 한국인들을 보면서 한국 패션과 문화에 관심을 가졌다. 한국 여행만 5번 이상 가봤다”며 “한국 문화를 일본에 전파하는 일을 하고 싶다”고 했다.&lt;br&gt;&lt;br&gt;이후 대원들은 일본 시즈오카(静岡)현의 사찰 세이켄지(淸見寺)를 찾았다. 정원에 1643년 조선통신사 일행이었던 박안기가 남긴 ‘경요세계(瓊瑤世界)’라는 현판이 걸려 있었다. 이치조 분쇼 주지스님은 “이는 ‘두 옥구슬이 서로를 비춘다’는 의미로 조선과 일본이 서로 신뢰하고 교류하면서 좋은 관계가 되자는 의미가 있다”며 “이는 지금도 유효한 정신이다”라고 했다. 한국 대원들은 이 설명에 고개를 끄덕거렸다.&lt;br&gt;&lt;br&gt;대원들은 이에 앞서 23일 교토(京都)의 귀무덤(耳塚·미미즈카)을 방문했다. 임진왜란 때 희생된 조선·명나라 사람 12만6000명의 귀와 코가 묻혀 있다. 침략자 도요토미 히데요시(豊臣秀吉)는 무장들에게 전공(戰功)을 증명하기 위해 조선인들의 귀와 코를 잘라 소금에 절인 뒤 전리품으로 본국에 보내게 했다. 김호영(24·단국대 정치외교학과)씨는 “책으로만 접했던 역사의 참상이 생생하다”며 “오늘날 한일 친선의 뒷면에 이런 아픈 과거가 있다는 사실도 결코 잊으면 안 되겠다”고 했다.&lt;br&gt;&lt;br&gt;윤덕민 주일대사는 “한일 관계가 최근 전방위적인 전환기를 맞이하고 있다”며 “양국 청년들의 교류는 후퇴하지 않는 한일 관계를 위한 토대가 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>알바니아의 비극 고발해온 작가 이스마일 카다레 별세</title>
-      <link>https://www.chosun.com/national/people/2024/07/02/Y6FB3RKINJB3FLME4F75UKUUJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/07/02/Y6FB3RKINJB3FLME4F75UKUUJM/</guid>
-      <dc:creator>윤수정 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BAGMRP6IJZESTOTZBIAR6GH7MY.jpg"&gt;&lt;br&gt;&lt;br&gt;모국 알바니아의 참혹한 현대사를 그리며 노벨상 수상 후보로 자주 거론됐던 세계적 작가 이스마일 카다레(88)가 1일(현지 시각) 별세했다. AP통신은 고인이 심장마비로 숨졌다고 전했다. 고인은 27세에 발표한 ‘죽은 군대의 장군’을 시작으로 대표작 ‘부서진 사월’ ‘돌의 연대기’ 등을 통해 나치와 파시스트에게 점령당했던 알바니아의 현대사를 국제 사회에 고발해 왔다. 정치적 탄압으로 고국을 떠나 1990년 프랑스로 망명했고, 프랑스 최고 권위 훈장 레지옹 도뇌르를 두 차례 받았다. 2019년 박경리문학상을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 7월 2일</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/02/YMN5U2FWYNCMXIEDIHPPXLFOBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/02/YMN5U2FWYNCMXIEDIHPPXLFOBQ/</guid>
-      <description/>
-      <pubDate>Mon, 01 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FFS2INPIEBDRVAHX4X6QN2GEEI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[리빙포인트] 다 쓴 치약은 세탁기에</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/02/UQB2GCLN5BEBTGQA7GDUI5S2VQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/02/UQB2GCLN5BEBTGQA7GDUI5S2VQ/</guid>
-      <description/>
-      <pubDate>Mon, 01 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ANM4Y2SU2VCP7DIKTA3OPVLYTY.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다 쓴 치약은 반으로 자른 뒤 세탁기에 넣고 돌려보자. 튜브 안에 남은 치약이 세탁기 내부의 찌든 때를 벗겨준다. 수건을 한 장 같이 넣어도 좋다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>서울 시청역서 역주행 돌진...보행자 덮쳐 사망 6명, 심정지 3명</title>
@@ -889,69 +982,6 @@
       <description/>
       <pubDate>Mon, 01 Jul 2024 13:45:25 +0000</pubDate>
       <content:encoded>2일 전국에 거센 장맛비가 내리겠다고 기상청이 1일 밝혔다. 지난 주말 제주도에 떨어진 ‘물 폭탄’이 이번에는 수도권을 향하겠다. 장마전선의 생성과 소멸이 반복되며 오는 11일까지 거의 매일 비가 내리겠다. 비가 소강상태를 보일 때는 폭염이 나타면서 폭우와 찜통더위가 반복될 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5MTNL33OFRD2FCVPBUICLLVSTU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김하경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청에 따르면, 1일 남해상에서 만들어진 장마전선이 제주도와 경상·전라권에 비를 뿌렸다. 이어 장마전선이 2일 내륙으로 북상해 전국에 비가 확대되겠다. 호우특보도 1일 밤 제주·남부지방부터 2일 중부지방 전역으로 확대된다.&lt;br&gt;&lt;br&gt;2일 오후에는 중국 쪽에서 다가온 저기압까지 장마전선에 달라붙으며 빗줄기가 더 거세지겠다. 2~3일 예상 강수량은 서울을 포함한 중부지방 30~150㎜, 남부지방 30~120㎜, 제주도 50~200㎜다. 비가 내리면서 2일 아침 최저기온은 20~24도, 낮 최고기온은 23~29로 한낮 더위가 주춤하겠다.&lt;br&gt;&lt;br&gt;이번 비는 지난 주말 이틀간 제주도에 360㎜ 넘는 비를 뿌렸던 양상과 비슷하다. 정체전선에 저기압이 붙으며 고온다습한 남풍(南風)을 대거 끌어들이고, 이에 많은 수증기가 유입되면서 비구름대 덩치를 키우는 것이다. 차이점은 제주 때보다 저기압 규모가 더 크다는 것이다. 장마전선에 저기압이 붙는 시점에 전선 아래에 있는 수도권·강원도에 특히 강하고 많은 비가 예상된다. 장마전선이 통과할 때에는 시간당 30㎜ 이상의 집중호우가 내리겠다. 시간당 30㎜ 이상은 ‘매우 많은 비’를 뜻한다. 비 때문에 전방 시야가 크게 방해받게 된다.&lt;br&gt;&lt;br&gt;지역별 강수 집중 시간은 수도권·강원도가 2일 오후부터 3일 새벽, 충청·전북·경북권은 2일 새벽~밤으로 예상된다. 장마전선의 영향을 두 번 받는 전남·경남권은 2일 오전과 2일 늦은 밤~3일 오전, 제주도는 2일 오전과 3일 오전에 많은 비가 내리겠다.&lt;br&gt;&lt;br&gt;비는 3일 오전 대부분 그치겠다. 장마전선은 다시 남부지방 쪽으로 남하하고, 저기압은 강원도 쪽으로 빠져나가는 등 장마전선과 저기압이 분리되면서 3일에는 비가 소강상태를 보이겠다.&lt;br&gt;&lt;br&gt;이 시기 전국에는 곧바로 폭염이 나타날 것으로 보인다. 경상권을 중심으로 한낮 수은주가 30도 이상, 체감 기온은 31도 이상으로 오르며 후텁지근하겠다. 지표가 축축한 탓에 습도가 높아 불쾌지수가 올라갈 것으로 전망된다.&lt;br&gt;&lt;br&gt;비는 앞으로 최소 열흘간 계속될 전망이다. 2~11일 기간에 서울은 4일 하루를 제외하곤 모두 비가 내리겠다. 비가 멈춘 날은 습식 사우나에 갇힌 듯 덥겠다. 4일 남해상에 새로운 장마전선이 발달하면서 제주도와 전남·경남권에 비를 뿌리겠고, 5일에는 장마전선이 북상하며 전국에 비가 내리겠다. 6~11일에도 장마전선의 영향으로 전국 대부분 지역에 비가 내리겠고, 8일 제주에서만 비가 소강상태를 보이겠다.&lt;br&gt;&lt;br&gt;이 기간 국지적으로 집중호우가 내리다가 간간이 맑은 날씨가 이어질 수 있다. 통상 장마전선은 건조한 북쪽 기단과 습윤한 남쪽 기단이 강하게 충돌하면서 형성된다. 남과 북의 기단이 물과 기름처럼 섞이지 않은 채 기싸움을 오랫동안 벌이면서 중간에 형성된 장마전선이 장기간 많은 비를 뿌리게 된다. 그런데 장마전선에 저기압이 추가로 유입되면 상대적으로 비가 짧고 굵게 끝날 수 있다. 장마전선에 저기압이 붙으면서 강한 소용돌이가 발생해 건조 공기와 습윤 공기를 섞어버리기 때문이다. 이 경우 짧은 비가 강하게 온 뒤에는 기류가 금세 안정화될 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>저출생 대응할 ‘인구전략기획부’ 부총리급 신설</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/01/NT4GDJRPCFATPJW6Y6IGEPHYVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/01/NT4GDJRPCFATPJW6Y6IGEPHYVM/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Jul 2024 12:44:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LUCJULBSVJIAZEWAY52QHRLHDQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 행정안전부 장관이 1일 서울 종로구 정부서울청사에서 인구전략기획부 신설방안 관련 관계부처 합동브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 우리나라의 저출생, 고령화 등 문제를 총괄할 전담 부처인 ‘인구전략기획부’를 신설한다. 장관은 부총리급으로 한다.&lt;br&gt;&lt;br&gt;기획재정부나 보건복지부 등 각 부처에 흩어져 있는 저출생, 고령화, 이민 등 인구 정책을 총괄하는 ‘컨트롤타워’를 새로 만드는 것이다. 그동안 저출생 등 문제 해결에 막대한 예산을 들였지만 효과를 보지 못한 것은 정부 부처 간 쪼개진 예산과 사업을 체계적으로 관리·평가하지 못했기 때문이라는 지적이 많았다.&lt;br&gt;&lt;br&gt;정부가 1일 발표한 ‘정부 조직 개편 방안’에 따르면, 기재부와 복지부의 인구 관련 조직과 기능을 가져와 인구전략기획부를 만든다. 대통령 소속인 ‘저출산·고령사회위원회’도 ‘인구위기대응위원회’로 이름을 바꾸고 인구전략기획부 소속이 된다. 현재는 교육부장관이 사회부총리를 겸하고 있지만 앞으로는 인구전략기획부 장관이 사회부총리를 맡는다. 대통령과 국무총리, 경제부총리에 이어 정부 서열 4위가 되는 것이다.&lt;br&gt;&lt;br&gt;앞으로는 정부 부처나 지방자치단체가 저출생 사업을 새로 시작하거나 내용을 바꾸려면 인구전략기획부와 사전에 협의해야 한다.&lt;br&gt;&lt;br&gt;인구전략기획부는 아울러 저출생 관련 예산을 각 부처로 배분하고 인구 정책을 평가하는 역할을 맡는다. 정부의 예산을 총괄하는 기재부는 특별한 경우를 제외하고는 이를 존중하도록 했다. 우리나라의 인구 관련 전략을 세우고 돈을 배분하고 평가하는 일까지 모두 할 수 있는 기능을 갖추는 것이다.&lt;br&gt;&lt;br&gt;행정안전부 관계자는 “그동안은 부처별로 사업을 분석·평가하다 보니 전체적으로 어떤 사업이 효과가 크고 적은지 비교 분석이 어려웠다”며 “앞으로는 가장 효과 있는 사업에 집중 투자할 수 있을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;이상민 행안부 장관은 “국가의 생존이 달린 인구 위기 상황에 대응하기 위해 부총리급의 강력한 전담 부처가 필요하다고 봤다”며 “7월 중 정부조직법 개정안을 발의해 조속히 통과되도록 노력할 것”이라고 했다.&lt;br&gt;&lt;br&gt;정부는 이 외에도 정무 장관직을 신설하기로 했다. 정무 장관은 대통령의 메시지를 여야에 전달하고 소통하는 역할을 맡게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 마포대교에서 경찰관 폭행한 전장연 활동가 2명 체포</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/01/NYSVKT2TJJGFVGTUTTANCLSC6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/01/NYSVKT2TJJGFVGTUTTANCLSC6A/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Jul 2024 11:56:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZTK35VCO4ZELZG2TR56PP3IJ4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오후 전장연 활동가들이 마포대교를 행진하고 있는 모습. /전장연&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행진 중 마포대교에서 경찰관을 폭행한 전장연 활동가 2명이 현행범 체포됐다.&lt;br&gt;&lt;br&gt;서울 마포경찰서는 공무집행방해 혐의로 1일 오후 6시쯤 전장연 활동가 2명을 마포대교에서 현행범 체포했다고 이날 밝혔다.&lt;br&gt;&lt;br&gt;전장연 측은 이날 국회의사당에서 서울지하철 5호선 서대문역으로 행진을 이어가던 도중 마포대교를 기습 점거했다. 이들 활동가들은 이를 제지하던 경찰관들을 휠체어로 들이받은 혐의를 받는다.&lt;br&gt;&lt;br&gt;전장연 측은 오세훈 서울시장이 취임 2주년을 맞는 이날 오후 2시부터 서울 영등포구 여의도 국회의사당 앞에서 시위를 벌였다. &lt;br&gt;&lt;br&gt;이날 주최측 추산 1200명은 주황색 조끼를 입고 휠체어를 탄 채 국회의사당 앞 3개 차로를 점거한 채 “22대 국회는 장애인자립생활권리보장법 1년 내로 제정하라” “장애인자립생활지원시설 국비로 지원하라” “자립생활센터 결성할 권리를 보장하라” 등의 구호를 외쳤다.&lt;br&gt;&lt;br&gt;이들은 이튿날인 2일 오전 국회의사당 앞에서 출근길 집회를 진행한다는 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘아리셀 화재’ 첫 추모제...세월호 유가족도 함께 </title>
-      <link>https://www.chosun.com/national/incident/2024/07/01/ZKESUREONZBINEQX2B4DDK5KSA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/01/ZKESUREONZBINEQX2B4DDK5KSA/</guid>
-      <dc:creator>화성=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Jul 2024 12:14:09 +0000</pubDate>
-      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NPGPQ46HIVOITDA2K5FV2P22H4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오후 경기 화성시청에서 열린 아리셀 중대재해 참사 시민 추모제에서 참가자들이 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 아리셀 공장 화재 사고 희생자들의 넋을 기리는 첫 시민 추모제가 열렸다.&lt;br&gt;&lt;br&gt;아리셀 공장 화재 사고 유가족들과 민주노총 등 시민사회 단체 모임인 시민대책위원회는 이날 오후 7시쯤 경기 화성시청 추모 분향소 앞에서 ‘아리셀 중대재해 참사 시민 추모제’를 열었다.&lt;br&gt;&lt;br&gt;이날 추모제는 유가족 30여명과 민주노총 소속 조합원 50여명 등 80여명이 참가한 가운데 50여분간 진행됐다.&lt;br&gt;&lt;br&gt;추모제에는 3년 전 화일약품 사고로 아들을 잃은 김익산 씨와 세월호 참사 유가족인 ‘윤희엄마’ 김순길 씨도 참석했다.&lt;br&gt;&lt;br&gt;김순길 씨는 “10년 전 우리는 세월호 참사로 소중한 가족을 잃었고, 이후 반복되는 참사를 막기 위한 싸움을 해왔다”며 “세월호 참사 가족협의회는 최악의 화재 사고인 이번 아리셀 참사 유족분들과 언제나 함께하겠다”고 말했다.&lt;br&gt;&lt;br&gt;아리셀 유가족협의회 관계자도 “사고 당시 CCTV 영상을 보면 현장 근로자들이 아무런 안전관리나 안전교육을 받지 못했다는 것을 알 수 있다”며 “유가족들은 진상조사위원회에 유족이 뜻을 함께하는 전문가가 참여해 진실을 함께 파헤치고, 사측이 진정성 있는 안을 가지고 와서 진심으로 사죄하길 바란다”고 전했다.&lt;br&gt;&lt;br&gt;참가자들은 ‘위험의 이주화·외주화를 중단하라’, ‘철저한 진상규명 책임자를 처벌하라’, ‘제대로 된 재발 방지 대책을 마련하라’ 등을 외치며 진상규명을 요구한 후 분향소 묵념을 마지막으로&amp;nbsp;추모제를 마무리했다.&lt;br&gt;&lt;br&gt;유족협의회와 대책위 등은 매일 오후 7시 추모제를 정례화할 계획이다.&lt;br&gt;&lt;br&gt;한편 지난달 24일 오전 10시 30분쯤 화성시 서신면 전곡리 아리셀 공장에서 리튬전지 폭발로 인한 화재로 23명이 숨지고, 8명이 다쳤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘만취해 159㎞로 사망사고’…경찰, 포르셰 운전자에 구속영장</title>
-      <link>https://www.chosun.com/national/incident/2024/07/01/COHMBDPXSZG5JG6HIZIK2P5OSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/01/COHMBDPXSZG5JG6HIZIK2P5OSU/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Jul 2024 10:28:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OIODXHI2ONGSVH4BOV7KRPRJKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 포르셰 차량과 충돌해 전복된 스파크 차량. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 전주덕진경찰서는 만취한 상태에서 과속으로 운전을 하다 사고를 내 1명을 숨지게 한 혐의(교통사고처리특례법상 치사 등)로 50대 A씨에 대해 구속영장을 신청했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 27일 0시 45분쯤 전주시 덕진구 여의동 호남제일문 사거리에서 술을 마시고 자신의 포르셰 차량을 몰다가 스파크 차량과 부딪혔다. 이 사고로 스파크 차량 운전자 B(19)씨가 숨졌고, 동승자(19)는 크게 다쳐 병원에서 치료받고 있다. A씨는 경상을 입은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;조사결과 A씨는 포르셰 차량을 시속 159㎞로 몰다가 맞은편에서 좌회전하던 스파크를 들이받은 것으로 조사됐다. 사고 당시 A씨는 면허취소 기준인 혈중알코올농도 0.08％ 이상의 만취 상태였다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이재명, ‘대장동 재판’ 내일 오후 출석 안한다</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/01/M4JJHZQJ25AKDKQYF6B6VPSZ4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/01/M4JJHZQJ25AKDKQYF6B6VPSZ4Y/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Jul 2024 09:54:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DRQYKYJ6SJODHHBBZ3TKEKUPIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 전 대표가 지난달 28일 서울 서초구 서울중앙지법에서 열린 '故김문기·백현동 허위 발언 공직선거법 위반 혐의' 관련 25차 공판에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 전 더불어민주당 대표가 2일 ‘대장동·백현동 개발비리 및 성남FC 후원금’ 의혹 재판에 출석하지 않겠다는 의사를 밝혔다.&lt;br&gt;&lt;br&gt;이 전 대표 측 변호인은 1일 이 전 대표와 정진상 전 민주당 대표실 정무조정실장의 특정범죄가중처벌등에관한법률위반(뇌물) 혐의를 심리하는 서울중앙지법 형사33부(재판장 김동현)에 불출석 사유서를 제출했다.&lt;br&gt;&lt;br&gt;변호인은 “2일 오후 국회에서 외교통일국방 대정부 질문 일정이 있어 재판에 나가지 못할 것 같다”고 했다. 다만 “일단 오후 사정을 들어 불출석 신청을 한 것이고, 오전 재판에는 출석할 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;이 전 대표는 성남시장 시절 대장동 개발로 민간업자에게 특혜를 주고 성남도개공에는 4895억원의 손해를 입힌 배임 혐의, 위례신도시 개발 정보를 남욱 등 민간업자에게 넘긴 혐의 등으로 작년 3월 기소됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“치킨서 나무 이쑤시개 나와” 주장에 반박한 점주 “우린 녹말만 써”</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/01/EIRDDS7FJBDK5G7AZ7DDTA64GQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/01/EIRDDS7FJBDK5G7AZ7DDTA64GQ/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Jul 2024 04:46:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CWWNWWON3VCZXBULRNKPI3POLE.png"&gt;&lt;figcaption&gt;&lt;small&gt;치킨에서 이쑤시개가 나왔다며  손님이 보내온 사진./자영업자 커뮤니티 ‘아프니까 사장이다’&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 손님이 “치킨에서 이쑤시개가 나왔다”며 거짓말로 재배달을 요구했다는 주장이 제기됐다. 해당 치킨집 사장에 따르면 손님이 불만을 제기한 이쑤시개는 가게에서 사용하지 않는 나무 제품으로, 양념 하나 묻지 않은 깨끗한 상태였다.&lt;br&gt;&lt;br&gt;지난달 29일 자영업자 커뮤니티 ‘아프니까 사장이다’에는 치킨 집을 운영한다는 작성자 A씨가 “참 황당한 일을 겪었다”며 토로한 글이 올라왔다.&lt;br&gt;&lt;br&gt;A씨에 따르면 한 손님은 배달받은 치킨 속에서 이쑤시개가 나왔다며 불만을 제기했다. 손님이 찍은 사진을 받은 A씨는 황당해 했다. A씨는 “(사진 속 이쑤시개는) 가게에서 쓰지 않는 나무 이쑤시개였다. 저희 가게는 녹말 이쑤시개만 사용한다. 나무 이쑤시개는 아예 없다”고 했다.&lt;br&gt;&lt;br&gt;공개된 사진을 보면, 손님이 들고 있는 이쑤시개는 양념 하나 묻지 않았으며, 깨끗해 보였다. A씨가 직접 이쑤시개와 치킨을 회수해 확인했을 때에도 마찬가지로 깨끗한 상태였다.&lt;br&gt;&lt;br&gt;A씨는 “한 개 더 먹으려는 속셈으로 그런다는 걸 알았지만 치사해서 다시 (치킨을) 해서 보냈다. 평소 저희 잘못으로 음식을 다시 해서 주면 먼저 간 음식은 그냥 드시라고 했지만, 오늘은 회수해 왔다”고 했다.&lt;br&gt;&lt;br&gt;이어 “역시나 (돌려받은) 이쑤시개는 너무 깨끗하다. 혹시나 해서 작업 과정을 CCTV로 다시 봤는데 (치킨을) 정성스레 만드는 손만 있다”며 억울해 했다. 그는 “오늘 하루 여러 사장님들 고생 많았다”며 글을 마무리했다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “요즘 배달 거지들이 많아졌다” “이쑤시개가 너무 새 것 아닌가” “저도 그런 일 있었다. 가게에 없는 날카로운 흰색 플라스틱이 나왔다고 사진을 보내왔는데, 실랑이 하기 싫어서 그냥 환불 처리 해드렸다. 공짜로 먹고 싶은 심보일까”등의 반응을 보였다.&lt;br&gt;&lt;br&gt;이처럼 배달 음식에서 이물질을 나왔다고 속여 환불 받는 사례는 종종 발생한다. 최근 부산에서는 배달 음식을 시킨 후 “실이 나왔다”며 수십 차례 환불을 받은 커플이 피해 업주들로부터 고소당한 일이 발생했다. 피해 업주들은 이들을 업무방해와 사기 등 혐의로 고소했다. 경찰은 사건을 조사 중이며, 현재 파악된 피해 업주는 50명 이상으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>떨어뜨린 우산 줍다가...인천 2호선 에스컬레이터에서 6명 넘어져 부상</title>
-      <link>https://www.chosun.com/national/incident/2024/07/01/NHUPJVK5DZHGLA73HBAMMUDFXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/01/NHUPJVK5DZHGLA73HBAMMUDFXY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Jul 2024 00:37:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K3OAMYT545FUDDUA6Y37OPTECM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지하철 2호선 석바위시장역 에스컬레이터. /인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천지하철 2호선 역사에 설치된 에스컬레이터를 타던 70대 여성 등 6명이 연쇄적으로 넘어지면서 다치는 사고가 발생했다.&lt;br&gt;&lt;br&gt;1일 인천소방본부 등에 따르면 전날 오전 10시 33분쯤 인천시 미추홀구 주안동 인천지하철 2호선 석바위시장역 에스컬레이터를 타고 있던 70대 A씨가 넘어졌다.&lt;br&gt;&lt;br&gt;이 사고로 A씨와 함께 에스컬레이터를 타고 있던 70대 남성 B씨 등 5명이 잇따라 넘어지면서 치료를 위해 병원으로 옮겨졌다. 이들은 다리와 팔꿈치 등을 다친 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 승강장에서 대합실로 올라가던 떨어뜨린 우산을 줍다가 중심을 잃고 넘어진 것으로 알려졌다. 경찰과 소방 당국은 보안카메라(CCTV) 영상 자료와 목격자 진술 등을 토대로 정확한 사고 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
