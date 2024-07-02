@@ -6,6 +6,46 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>강남일 전 대검 차장, 법무법인 화우 합류</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/199606.jpg" alt="199606.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4629"&gt;강남일&lt;/span&gt;(55·사법연수원 23기) 전 대검찰청 차장 검사가 법무법인 화우에 합류한다.&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.hwawoo.com/kor/main?lang=ko" target="_blank"&gt;&lt;b&gt;법무법인 화우&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8808"&gt;이명수&lt;/span&gt;)는 2일 강 전 고검장이 오는 8월부터 법무법인 화우에서 업무를 시작할 예정이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;경남 사천 출신인 강 전 고검장은 진주 대아고, 서울대 법대를 졸업하고 1991년 제33회 사법시험에 합격했다. 그는 1994년 제23기 사법연수원을 수료하고 육군 제68사단과 국방부 법무관리관실 군법무관을 지냈다. 이후 1997년 서울지검 남부지청 검사로 임관해 일선 청은 물론 대검 정책기획과장, 서울중앙지검 금융조세조사 1·2부장 등을 지냈다. 2017년 검사장으로 승진해 서울고검 차장검사, 법무부 기획조정실장을 거쳐 대검 차장검사를 역임하고  2020년 대전고검장을 지냈다.&lt;br /&gt;&lt;br /&gt;2021년 7월 20일자로 사직한 강 전 고검장은 이달 말부터 이른바 '3년 취업 제한'이 풀려 대형 로펌 취업이 가능해진다.&lt;br /&gt;&lt;br /&gt;그는 윤석열 대통령과 사법연수원 동기로 윤 대통령이 검찰총장으로 재직할 때 대검 차장을 지냈다. 강 전 고검장은 윤석열 정부의 초대 법무부장관과 민정수석 후보로 거론되기도 했다.&lt;br /&gt;&lt;br /&gt;일각에선 강 전 고검장이 대표변호사로 화우에 합류할 것이라고 전해진다. 그러나 법률신문과의 통화에서 화우 관계자는 "직위에 관해서는 검토된 바 없다"라고 말했다.</description>
+			<pubDate>Tue, 02 Jul 2024 06:23:05 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/199606</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199606</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/199606.jpg</media:thumbnail>
+			<dc:creator>안현 기자</dc:creator>
+		</item>
+		<item>
+			<title>최태원-노소영 이혼소송 심리하다 사망한 강상욱 고법판사 순직 인정</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/77441(8).jpg" alt="77441.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;최태원 SK 회장과 노소영 아트센터 나비 관장의 이혼소송 항소심을 담당하다가 지난 1월 돌연 사망한 고(故) 강상욱(사법연수원 33기) 서울고법 판사가 순직을 인정받았다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;2일 법조계에 따르면 인사혁신처는 지난달 24일 강 고법판사 유족이 신청한 순직 유족급여 청구를 승인했다. 강 고법판사는 1월 11일 저녁 식사를 마친 뒤 대법원 구내 운동장에서 탁구를 하다가 갑자기 쓰러져 병원으로 이송됐으나 숨졌다.   &lt;/p&gt;&lt;p&gt;&lt;br /&gt;강 고법판사는 평소에도 저녁 운동을 마친 뒤 사무실에 돌아와 야근을 하는 날이 잦았다고 한다. 사망 당일에도 사무실 책상 위 컴퓨터를 켜둔 채 운동을 하러 간 것으로 전해졌다. 윤준 서울고법원장은 강 고법판사의 과로사 가능성을 염두에 두고 사무실 모습을 촬영하고 현장을 보존하라고 지시하기도 했다.      &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;인사혁신처에 공무상 재해로 인한 순직을 신청한 유족은 강 고법판사의 업무 과중을 입증하기 위해 1만 페이지가 넘는 자료를 작성해 제출했다.         &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;강 고법판사가 사망하기 전까지 서울고법 가사2부에서 함께 근무한 김시철(59·19기) 부장판사와 이동현(43·36기) 고법판사도 강 고법판사의 출퇴근 시간과 결재 신청 내역 등을 정리한 경위조사서와 의견서를 혁신처에 제출해 순직 인정에 힘을 보탰다.            &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;최태원-노소영 이혼소송 항소심 재판과 관련해서는 "기록이 2만5000쪽이 넘고 위자료 청구금액이 30억 원, 재산분할 청구금액이 2조 원에 이르는 사건"이라며 "비록 강 고법판사가 주심 판사는 아니지만, 사건의 진행 방향을 논의하고 있었던 관계상 이 사건 역시 강 고법판사의 업무를 가중한 요인 중 하나"라는 의견도 적혔다고 한다.               &lt;/p&gt;&lt;p&gt;&lt;br /&gt;강 고법판사 사망 후 이 재판부는 김시철 부장판사, 이동현·김옥곤(48·30기) 고법판사로 재편돼 지난 5월 30일 판결을 선고했다.               &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Tue, 02 Jul 2024 06:22:32 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/199607</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199607</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/77441(8).jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
+			<title>[단독] 이시원 전 공직기강비서관, 법무법인 율촌 복귀</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/199609.jpg" alt="199609.jpg" /&gt;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7011"&gt;   &lt;p&gt;      &lt;span style="font-weight: bold;" class="lawmanlink" serial="7011"&gt;&lt;br /&gt;&lt;/span&gt;   &lt;/p&gt;   이시원&lt;/span&gt;(52·사법연수원 28기) 전 대통령비서실 공직기강비서관이 법무법인 율촌으로 복귀한다. &lt;br /&gt;&lt;br /&gt;2일 법률신문 취재에 따르면, 이 전 비서관은 8일부터 율촌에서 근무한다. 윤석열 정부 당시 초대 공직기강비서관을 지내기 전에 몸담았던 친정 로펌으로 다시 돌아가는 것이다. 이 전 비서관은 율촌 송무부문에서 폭넓게 활동할 예정이다. &lt;br /&gt;&lt;br /&gt;서울 영동고와 서울대 법대를 나온 이 전 비서관은 1996년 제38회 사법시험에 합격해 1999년 사법연수원을 제28기로 수료했다. 서울지검, 제주지검, 법무부 검찰과 검사 등을 거쳐 춘천지검 영월지청장, 서울남부지검 형사6부장, 법무연수원 기획과장 등을 지냈다. 2018년 8월 퇴직한 뒤 율촌에 합류했다. 윤석열 정부가 출범한 2022년 5월 초대 공직기강비서관을 지냈다.&lt;br /&gt;&lt;br /&gt;5월 공직기강비서관직에서 물러난 이 전 비서관은 현재 채 상병 사건 수사 외압 의혹으로 고위공직자범죄수사처의 수사를 받는 중이다.</description>
+			<pubDate>Tue, 02 Jul 2024 06:04:50 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/199609</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199609</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/199609.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>이재명, "쌍방울 대북송금 재판 서울중앙지법서 받게 해달라"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/199603.jpg" alt="199603.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;더불어민주당 이재명 전 대표가 수원지법에서 기소된 '쌍방울 대북송금' 관련 제3자뇌물죄 사건을 서울중앙지법에서 병합 심리해달라는 신청서를 대법원에 제출했다.&lt;br /&gt;&lt;br /&gt;이 전 대표의 병합심리 요청은 대장동 사건 등을 포함해 현재 진행 중인 재판 대부분이 서울중앙지법에서 진행되고 있는 만큼 수원지법 기소 건도 서울중앙지법에서 함께 진행될 수 있게 해달라는 취지로 해석된다.&lt;br /&gt;&lt;br /&gt;이 전 대표는 현재 대장동 개발 비리, 성남FC 후원금 의혹, 백현동 개발 특혜 의혹 등으로 서울중앙지법에서 재판을 받고 있다. 형사소송법에 따르면 토지관할이 다른 여러 관련 사건이 있을 경우, 대법원이 한 법원으로 병합 심리하도록 결정할 수 있다.&lt;br /&gt;&lt;br /&gt;검찰은 이 전 대표의 병합신청에 대해 반대의견을 낼 것으로 예상된다. 대북송금 사건이 벌어졌던 주 무대가 경기도지사로 재직하던 시절인 경기도청인 데다가 이미 김성태 전 쌍방울 회장이 수원지법에서 재판 중이고 이 대표가 서울중앙지법에서 재판을 받고 있는 사건은 대북송금과 무관하기 때문이다.&lt;br /&gt;&lt;br /&gt;이 전 대표는 이화영 전 경기도 평화부지사와 공모해 2019년 1월부터 4월까지 김성태 전 쌍방울 그룹 회장이 경기도가 북한에 지급하기로 약속한 '황해도 스마트팜 지원' 사업비 500만 달러를 대신 납부하게 했다는 혐의를 받고 있다. 또 2019년 7월부터 2020년 1월까지 북한 측이 요구한 도지사 방북 의전비용 명목으로 300만 달러를 대신 납부하게 한 혐의도 있다.&lt;br /&gt;&lt;br /&gt;이 전 대표는 제3자뇌물죄 혐의에 대해 "희대의 조작 사건"이라고 비판하며, 자신의 결백을 주장하고 있다.</description>
+			<pubDate>Tue, 02 Jul 2024 06:01:18 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/199603</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199603</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/199603.jpg</media:thumbnail>
+			<dc:creator>유지인 기자</dc:creator>
+		</item>
+		<item>
 			<title>검찰, 'KT 고가 매입 의혹' 박성빈 전 스파크 대표 무혐의</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/199597.jpg" alt="199597.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;고(故) 박태준 포스코 명예회장의 아들 박성빈 씨 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;검찰이 KT의 클라우드 기업 스파크앤어소시에이츠(이하 스파크)의 고가 매입 의혹과 관련해 스파크의 지분을 시세보다 고가에 매각했다는 혐의로 수사를 받은 박성빈 전 스파크 대표에 대해 검찰이 무혐의 판단을 내렸다. &lt;br /&gt;&lt;br /&gt;2일 법조계에 따르면 서울중앙지검 공정거래조사부는 박 전 스파크 대표의 배임증재 혐의를 증거 불충분을 이유로 '혐의없음' 처분했다. 스파크는 박 전 대표가 설립한 차량용 소프트웨어 업체다.&lt;br /&gt;&lt;br /&gt;검찰은 박 전 대표가 스파크를 KT에 팔면서 이득을 본 건 맞지만, 구체적으로 배임을 공모하지는 않았다고 보고 무혐의 결정했다.&lt;br /&gt;</description>
 			<pubDate>Tue, 02 Jul 2024 03:42:35 -0000</pubDate>
@@ -182,8 +222,8 @@
 			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 		<item>
-			<title>[판결] 증빙자료 없이 가족 간 금전 거래...법원 '증여세 부과 대상'</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/06(19).jpg" alt="06.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;가족끼리 차용증 등 증빙자료 없이 돈을 빌려주고 받았다면 증여세 부과 대상이라는 판결이 나왔다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;서울행정법원 행정5부&lt;/b&gt;(재판장 김순열 부장판사)는 A씨가 노원세무서장을 상대로 낸 증여세부과처분취소소송에서 최근 원고 패소 판결했다(&lt;b&gt;2023구합2524&lt;/b&gt;).&lt;br /&gt;&lt;br /&gt;B씨는 사망하기 전인 2018년 2월 5000만 원을 남동생 A씨의 계좌로 이체했다.&lt;p&gt;노원세무서는 A가 5000만 원을 증여받은 것으로 보고 635만 원의 증여세를 부과했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;A씨는 "누나에게 생전에 돈을 빌려줬다가 변제받은 것으로 증여세 부과는 부당하다"며 소송을 냈다.&lt;br /&gt;&lt;br /&gt;하지만 법원은 세무서의 손을 들어줬다.&lt;br /&gt;&lt;br /&gt;재판부는 "과세관청에 의해 증여자로 인정된 사람의 예금이 인출되어 납세자 명의의 예금계좌 등으로 계좌이체된 사실이 밝혀진 이상 그 예금은 납세자에게 증여된 것으로 추정된다"며 "예금의 인출과 납세자 명의로의 예금 등이 증여가 아닌 다른 목적으로 행해진 것이라는 등 특별한 사정의 입증 책임은 납세자에게 있다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;이어 "가족 간에 적지 않은 돈을 빌려주면서도 계약서나 차용증·영수증 등 객관적인 증빙자료를 전혀 남기지 않았다"며 "당시 A씨는 휴직 상태로 정기적으로 출근하거나 급여를 받고 있지 않아 수중에 거액의 현금을 가지고 있었다고 보기 어렵다"고 지적했다.&lt;br /&gt;&lt;br /&gt;그러면서 "B씨가 또 다른 동생인 C씨에게도 5000만 원을 입금한 점을 고려하면 단순히 돈을 빌려주고 받은 것이라고 보기 어렵다"며 "B씨의 상속재산가액이 7억 원 정도이고 생전에 월 130만원의 임대수익을 신고한 점을 비춰보면 증여할 만한 재산과 소득이 없었다고 단정할 수도 없다"고 판시했다.&lt;/p&gt;</description>
+			<title>[판결]행정법원, "가족 간 금전 거래, 증빙자료 없으면 증여세 대상"</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/06(19).jpg" alt="06.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;가족간 금전거래의 증빙자료가 없다면 증여세 부과 대상이라는 판결이 나왔다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;서울행정법원 행정5부&lt;/b&gt;(재판장 김순열 부장판사)는 A씨가 노원세무서장을 상대로 낸 증여세부과처분취소소송에서 최근 원고 패소 판결했다(&lt;b&gt;2023구합2524&lt;/b&gt;).&lt;br /&gt;&lt;br /&gt;B씨는 사망하기 전인 2018년 2월 5000만 원을 남동생 A씨의 계좌로 이체했다.&lt;p&gt;노원세무서는 A가 5000만 원을 증여받은 것으로 보고 635만 원의 증여세를 부과했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;A씨는 "누나에게 생전에 돈을 빌려줬다가 변제받은 것으로 증여세 부과는 부당하다"고 주장하며 소송을 냈다.&lt;br /&gt;&lt;br /&gt;하지만 법원은 세무서의 손을 들어줬다.&lt;br /&gt;&lt;br /&gt;재판부는 "과세관청에 의해 증여자로 인정된 사람의 예금이 인출되어 납세자 명의의 예금계좌 등으로 계좌이체된 사실이 밝혀진 이상 그 예금은 납세자에게 증여된 것으로 추정된다"며 "예금의 인출과 납세자 명의로의 예금 등이 증여가 아닌 다른 목적으로 행해진 것이라는 등 특별한 사정의 입증 책임은 납세자에게 있다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;이어 "가족 간에 적지 않은 돈을 빌려주면서도 계약서나 차용증·영수증 등 객관적인 증빙자료를 전혀 남기지 않았다"며 "당시 A씨는 휴직 상태로 정기적으로 출근하거나 급여를 받고 있지 않아 수중에 거액의 현금을 가지고 있었다고 보기 어렵다"고 지적했다.&lt;br /&gt;&lt;br /&gt;그러면서 "B씨가 또 다른 동생인 C씨에게도 5000만 원을 입금한 점을 고려하면 단순히 돈을 빌려주고 받은 것이라고 보기 어렵다"며 "B씨의 상속재산가액이 7억 원 정도이고 생전에 월 130만원의 임대수익을 신고한 점을 비춰보면 증여할 만한 재산과 소득이 없었다고 단정할 수도 없다"고 판시했다.&lt;/p&gt;</description>
 			<pubDate>Sun, 30 Jun 2024 22:28:42 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/199482</link>
@@ -200,45 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199505</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/199505.jpg</media:thumbnail>
 			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>고중석 前 헌법재판관 별세… 향년 87세</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/199522(1).jpg" alt="199522.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4311"&gt;고중석&lt;/span&gt;&amp;nbsp;전 헌법재판소 재판관이 30일 숙환으로 별세했다. 향년 87세.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;전남 담양 출신인 고 전 재판관은 서울대 법대를 졸업한 뒤 1962년 제14회 고등고시 사법과에 합격했다. 이후 부산지법 판사로 임관한 뒤 서울민사지법·서울형사지법·서울고법 판사, 대법원 재판연구관, 전주지법·서울가정법원·서울지법 남부지원 부장판사, 광주고법·서울고법 부장판사, 전주지법원장·대전지법원장·광주고법원장 등을 지&lt;/p&gt;&lt;p&gt;다. 1994년부터 2000년까지 헌법재판관을 역임한 뒤 2000년부터 변호사로 활동했다.   &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;빈소는 서울성모병원 장례식장 13호, 발인은 7월 2일 오전 9시 30분이다. 장지는 남양주 천주교 소화묘원이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;유족으로는 부인 문인자 씨와 딸 영은 씨, 아들 영목 씨와 며느리 이영지 씨, 딸 영선 씨와 사위 이정권 씨, 손자 동준, 동진, 이가온, 이나온 씨 등이 있다.   &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Sun, 30 Jun 2024 05:37:14 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/199522</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199522</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/199522(1).jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 이혼소송서 연금 등 재산분할 기각됐다면 이혼 배우자는 분할연금 다시 청구 못해</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="http://image.lawtimes.co.kr/images/199479.jpg" alt="199479.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;전 배우자가 자신의 공무원 퇴직연금을 분할받지 못하게 해달라며 소송을 낸 공무원이 행정법원에서 승소 판결을 받았다. 이혼 소송 담당 법원이 해당 공무원의 자산보다 빚이 더 많다는 이유로 재산분할 없이 이혼하라고 판결했으므로 배우자가 분할연금 청구권을 행사하는 건 부당하다는 판단이다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;서울행정법원 행정5부&lt;/b&gt;(재판장 김수열 부장판사)는 지난달 2일 A 씨가 공무원연금공단을 상대로 낸 분할연금 일시금 지급처분 취소 청구 소송에서 원고 승소 판결했다(&lt;b&gt;2023구합77511&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;공무원인 A 씨는 2004년 B 씨와 결혼했으나 2018년 이혼소송 끝에 2019년 2월 법원에서 이혼이 확정됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;2022년 2월 B 씨는 공무원연금공단에 A 씨의 퇴직연금 6100만 원 중 일부를 조기 분할한 1500만 원의 분할연금을 미리 청구했다. 공단은 B 씨 청구를 받아들이고 A 씨에게 통지했다. A 씨는 이혼소송 당시 법원이 B 씨의 재산분할 청구를 기각한 점을 들며 공단의 처분에 불복해 이 사건 소송을 냈다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이혼소송에서 B 씨는 A 씨의 재산인 퇴직급여와 저축금 등 분할대상재산의 절반에 해당하는 1590만 원의 지급을 청구했다. 하지만 이혼사건을 맡은 법원은 A 씨의 순재산이 -469만 원인 점, B 씨가 이미 자신 몫을 초과하는 순재산을 보유한 점 등을 고려해 B 씨의 재산분할 청구를 기각했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;행정법원은 B 씨의 퇴직연금을 포함한 재산분할 청구가 법원에서 기각됐음에도 다시 분할연금 청구권을 행사하는 것은 부당하다고 판단했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;재판부는 “이혼 판결에 따라 재산분할 청구가 기각됐으므로 더 이상 B 씨가 A 씨 퇴직연금에 관해 이혼배우자로서 권리를 행사할 수 없다는 점이 확정됐다”며 “명시적인 문구가 없더라도 법원은 퇴직연금을 분할한 금액인 분할연금도 공무원연금법에서 정한 비율과 달리 모두 원고(A 씨)에게 귀속시키기로 한다는 점을 분명히 드러냈다고 봄이 타당하다”고 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</description>
-			<pubDate>Sun, 30 Jun 2024 00:29:48 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/199479</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199479</guid>
-			<media:thumbnail>http://image.lawtimes.co.kr/images/199479.jpg</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
-		</item>
-		<item>
-			<title>(금주 법조계 주요일정) 7월 1~5일</title>
-			<description>&lt;b&gt;△1일(월)&lt;/b&gt;&lt;br /&gt;-서울고법, '정치자금법위반 등 혐의' 김용 전 민주연구원 부원장 외 3명 감정기일(오전 10시)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물)등  혐의' 송영길 전 더불어민주당 대표 22차 공판(오전 10시)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△2일(화)&lt;/b&gt;&lt;br /&gt;-서울중앙지법 '노동조합및노동관계조정법위반 등 혐의' 허영인 SPC그룹 회장 외 18명 3차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 이재명 더불어민주당 대표 외 1명 35차 공판(오전 10시30분)&lt;br /&gt;-법무법인 태평양·퀸 엠마누엘·딜로이트 안진회계법인, '미국에서의 IP 분쟁 및 대응 전략' 세미나'(오후 2시, 경기도 성남시 분당구 백현동 3층 코사이어티 타운홀 B 세미나실)&lt;br /&gt;-법무법인 태평양·IHCF 컴플라이언스 분과, '국내외 조사 대응 길라잡이' 세미나(오후 6시 30분, 서울 종로구 공평동 센트로폴리스 B동 25층 세미나실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△3일(수)&lt;/b&gt;&lt;br /&gt;-법무법인 대륙아주·헤럴드경제, '미래 산업 육성과 국회의 역할' 미래리더스포럼 7월 고동진 국민의힘 국회의원 초청강연(오전 7시 30분, 서울 중구 태평로2가 23 더플라자호텔 22층 다이아몬드홀)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△4일(목)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정경제범죄가중처벌등에관한법률위반(수재등) 등' 혐의 박영수 전 특검 외 1명 25차 공판(오전 10시)&lt;br /&gt;-법무법인 율촌·팡다파트너스, '한국-중국간 데이터 이전 및 인공지능' 세미나'(오후 2시, 서울 강남구 삼성동 파르나스타워 율촌 39층 렉처홀)&lt;br /&gt;-한중법학회, '중국 플랫폼-지식재산권' 제4회 법제포럼(오후 6시 30분, 서울 종로구 청진동 디타워 24층 법무법인 세종 GR회의실, 줌)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△5일(금)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '직권남용권리행사방해 등 혐의' 서훈 전 청와대 국가안보실장 외 4명 29차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 이재명 더불어민주당 대표 외 1명 36차 공판(오전 10시30분)</description>
-			<pubDate>Sat, 29 Jun 2024 22:07:57 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/199517</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199517</guid>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>서울고법 판례위원회 선정 중요 판결·결정</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/754(8).jpg" alt="754.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;span style="font-size: 18px;"&gt;&lt;b&gt;[ 민&amp;nbsp; &amp;nbsp; 사 ]&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;서울고등법원 2023나2035815 소유권이전등기말소등기절차이행청구확정&lt;/b&gt;&lt;br /&gt;&lt;b&gt;[제4민사부 2024. 5. 2. 선고] 《일반》 &lt;br /&gt;□ 사안 개요 &lt;/b&gt;&lt;br /&gt;- 원고는 피고를 상대로 이 사건 부동산에 관한 소유권이전등기의 말소등기절차이행을 구하는 소를 제기하였음.&lt;br /&gt;- 피고 공동소송참가인은 피고로부터 이 사건 부동산을 매수하여 그에 관한 소유권이전등기를 마쳤다면서 원고와 피고 사이의 이 사건 소송에 공동소송참가신청을 하였음.&lt;br /&gt;- 원고는 피고 공동소송참가인의 공동소송참가신청에 따라 원고가 피고 공동소송참가인에게도 이 사건 부동산에 관한 소유권이전등기의 말소등기절차이행을 구하는 소를 제기하는 취지로 청구취지를 변경하였음.&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;□ 쟁점&lt;/b&gt;&lt;br /&gt;- 피고 공동소송참가신청의 공동소송참가신청이 부적법한 경우, 주문 기재방법&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;□ 판단&lt;/b&gt;&lt;br /&gt;- 원고와 피고 사이의 이 사건 부동산에 관한 소유권이전등기의 말소등기절차이행 판결의 효력은 소송당사자인 원고와 피고 사이에서만 발생하는 것이고, 변론종결 전에 위 부동산을 양수한 피고 공동소송참가인에까지 그 효력이 미치지 않음. 소송목적이 당사자 일방과 제3자에 대하여 합일적으로 확정되어야 하는 경우가 아니어서, 제3자인 피고 공동소송참가인은 공동소송참가를 할 수 없음. &lt;br /&gt;- 피고 공동소송참가인의 공동소송참가신청은 그 요건을 갖추지 못하여 부적법함. 원고의 피고 공동소송참가인에 대한 소 역시 부적법한 공동소송참가인을 상대로 한 것이어서 부적법함.&lt;br /&gt;- 피고 공동소송참가인의 공동소송참가신청과 원고의 피고 공동소송참가인에 대한 소를 각 각하하였음. [원고패]&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;hr /&gt;&lt;p style="text-align: center;"&gt;   &lt;span style="font-size: 18px;"&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;span style="font-size: 18px;"&gt;&lt;b&gt;[ 형&amp;nbsp; &amp;nbsp; 사 ]&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;서울고등법원 2024노857 폭행 &lt;br /&gt;[제8형사부 2024. 5. 24. 선고] 《일반》 &lt;br /&gt;□ 사안 개요 &lt;/b&gt;&lt;br /&gt;- 피고인은 전투비행단 내 군관사에서 피해자를 폭행하였다는 범죄사실로 공소제기되었고, 피해자가 1심에서 피고인에 대한 처벌불원의사를 표시하였음.&lt;br /&gt;- 피고인는 이 사건 군관사는 군형법 제60조의6에 따라 형법 제260조 제3항의 적용이 배제되는 장소라고 볼 수 없다고 주장하면서, 공소기각판결을 하지 않고 유죄를 선고한 1심판결에 법리를 오해하여 판결에 영향을 미친 위법이 있다고 다투고 있음. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;□ 쟁점&lt;/b&gt;&lt;br /&gt;- 군관사가 군형법 제60조의6에 의하여 형법 제260조 제3항의 적용이 배제되는지 여부(적극)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;□ 판단&lt;/b&gt;&lt;br /&gt;- 군형법 제60조의6에 의하여 형법 제260조 제3항의 적용이 배제됨.&lt;br /&gt;① 군형법 제60조의6은 군사기지 및 군사시설 보호법(이하 ‘군사기지법’이라 한다)상 군사기지 등에서 발생한 군인에 대한 폭행에 관하여 반의사불벌 조항인 형법 제260조 제3항의 적용을 배제하고 있음. 군대 내 폭행과 협박을 근절하고 인권보장 등 건전한 병영 문화를 조성하기 위한 입법 목적 등을 고려하면, 군형법 제60조의6에서 규정한 군사기지를 군사목적과 구체적인 관련이 있는 임무가 ‘직접적’으로 이루어지는 장소에 한정된다고 좁게 해석할 것은 아님. &lt;br /&gt;② 군사기지법 제2조 제1호에서 군사기지에 대하여 ‘군사시설이 위치한 군부대의 주둔지 등’과 ‘그 밖에 군사작전을 수행하기 위한 근거지’로 정의하고 있음. 군인은 비상시 신속한 출동에 대비하여 군의 영내나 근접지 거주의 필요성이 크고 부사관 이상의 군인들이 군의 인사명령에 따라 수시로 근무부대를 이동하는 경우가 많은 점을 고려하면 이 사건 폭행이 발생한 이 사건 군관사는 단순한 사생활영역이나 군복지시설의 차원을 넘어서 군사상으로 필요한 시설임. 더구나 이 사건 군관사는 비상시 신속한 출동 등에 대비하기 위해 전투비행단의 울타리 안에 위치하고 있고, 초병에 의하여 엄격히 출입이 통제되며, 출입하기 위해서는 별도의 출입조치가 필요한 점 등에 비추어, 군부대의 주둔지 내지 위와 같은 군사작전을 수행하기 위한 근거지에 해당하고, 장교 등이 원칙적으로 내무생활을 하지 않고 영외에 거주할 수 있다는 사정만으로 이를 달리 볼 수는 없음 [항소기각(유죄판결)] &lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Fri, 28 Jun 2024 22:06:01 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/199494</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199494</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/754(8).jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
