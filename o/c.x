@@ -13,6 +13,121 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>박상용 검사, “‘대변 루머’는 허위사실.. 사과  않으면 고소할 것” </title>
+      <link>https://www.chosun.com/national/court_law/2024/07/03/TQV2WXI55RATJCOIV4MF7XW6FM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/03/TQV2WXI55RATJCOIV4MF7XW6FM/</guid>
+      <dc:creator>양은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Jul 2024 09:49:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZZKA6DCPU5EG5MHUYPB5Q3F4MA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 전용기(오른쪽부터), 장경태, 민형배, 김용민 의원이 2일 오후 서울 여의도 국회 의안과에서 비위검사 엄희준 탄핵소추안을 제출하고 있다.  이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당은 2일 쌍방울의 불법 대북 송금 사건을 수사한 박상용(사법연수원 38기) 수원지검 부부장검사를 비롯한 네 명의 검사에 대해 탄핵소추안을 발의했다. 박 검사에 대해서는 ‘대변 사건’을 적시했다. 민주당은 탄핵소추안에서 “2019년 1월 8일 저녁 울산지검 청사 내 간부식당에서 술을 마신 후 울산지검 청사 민원인 대기실 바닥에 설사 형태의 대변을 싸고, 남성 화장실 세면대 및 벽면에도 대변을 바르는 등의 행위를 통해 공용물을 손상했다”고 주장했다.&lt;br&gt;&lt;br&gt;박 검사는 최근 검사 내부게시판에 “이화영에 대한 1심 판결에서 중형이 선고되자 5년전에 있었던 청내 행사와 관련해 입에 담기조치 힘든 의혹이 제기되고 있다”며 “명백한 허위사실로 당시 울산지검에 근무한 검찰 구성원들을 상대로 확인해 보면 쉽게 알 수 있는 내용”이라고 했다. 이 글에는 당시 행사에 참석했던 이한울 검사가 “저는 그날 저녁식사부터 귀가할 때까지 박부장과 계속 같이 있었습니다. 완전한 허위사실임을 제가 보증합니다”라는 댓글을 썼다.&lt;br&gt;&lt;br&gt;박 검사는 현재 영국에 유학중이다. 그는 3일 본지 통화에서 “당시 행사는 울산지검 구내식당에서 개최된 청 전체의 조직 활성화 행사였고 송인택 검사장과 검사 직원 등 40~50명이 참석했다”고 했다. 박 검사는 업무를 보다 행사 시작시간보다 늦은 저녁 7시 반쯤 참석했고 공식 일정이 마무리된 후 밤 9시쯤 다른 검사 서너 명과 함께 청사 밖으로 이동해 뒷풀이를 한 후 자신의 차로 다른 검사들을 각자의 관사에 내려 주고 관사로 귀가했다고 한다.&lt;br&gt;&lt;br&gt;박 검사는 “다음날 정상 출근했고 대변 사건에 대해 알지도 못하고 있다가 나중에 얘기를 듣게 됐다”고 했다. 그는 “여러 사람이 당사자로 거론된 가운데 자신의 이름도 추측성 루머로 거론된 것을 알게 되었고, 동료들로부터 그런 일이 있었냐고 묻거나 놀리는 메시지를 수차례 받자 열흘 뒤 ‘저 아니예요 제발 좀 ‘라는 메시지를 카카오톡 프로필에 띄웠다”고 했다. 그는 “터무니없는 루머라 진지하게 대응할 가치를 크게 느끼지 못했다. 조금이라도 연루가 됐다면 오히려 수치심이나 진상 규명의 두려움으로 이런 메시지를 올리지도 못했을 것”이라고도 했다. 이후 이 사건을 잊고 지냈는데 5년만에 ‘탄핵 사유’ 맨 앞머리에 올라왔다는 것이다.&lt;br&gt;&lt;br&gt;이 문제를 제일 먼저 꺼낸 사람은 민주당 이성윤 의원이다. 그는 지난 14일 법사위 회의에서 “울산지검 검사 3여명이 지난 2019년 1월 특별활동비를 이용해 술을 마시고 추태를 부렸다”며 이 같은 일이 있었다는 의혹을 제기했다. 그는 박 검사의 실명을 거론하지는 않고 “‘저 아니예요’라고 한 검사가 쌍방울 압수수색 사건과 이화영 부지사 사건의 담당 검사”라고 하며 수원지검에서 술자리를 벌여 김성태 전 쌍방울 회장을 회유했다는 의혹을 함께 거론했다.&lt;br&gt;&lt;br&gt;이성윤 의원은 회식이 있었던 2019년 1월 대검 반부패부장이었고, 그해 7월부터 법무부 검찰국장, 이듬해 1월부터 서울중앙지검장을 지냈다. 박 검사는 “이 의원은 인사를 담당하는 검찰국장으로 해당 사건을 보고받아 알고 있었을 것”이라며 “당시에는 아무런 문제를 삼지 않았다”고 했다. 또한 “특활비를 이용해 술을 마셨으면 공공장소인 구내식당에서 회식을 했겠느냐”며 이 의원 주장이 사실이 아니라고 지적했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NP2GDRXV45DMPBBWS2DIFMYFPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'대변 사건'이 불거진 2019년 1월 울산지검 회식 사진. 구내식당에서 열렸고 송인택 당시 검사장(맨 왼쪽)주재 하에 검찰청 직원, 검사들이 참석했다. /박상용 검사 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 검사가 제공한 사진에 따르면 회식 장소는 울산지검 내 구내식당으로, 송인택 당시 울산지검장이 주재했으며 참석자 상당수가 일반 직원이었다.&lt;br&gt;&lt;br&gt;이후 서영교 의원이 지난 17일 민주당 최고위원 회의에서 박 검사의 실명을 밝혔고, 강미정 조국혁신당 대변인과 최강욱 전 의원은 유튜브 ‘강성범 TV에’ 출연해 박 검사의 실명을 거론하고 사진을 게시했다. 이들은 ‘X쳐바르고 다니게 안 생겼잖아’(최강욱) 등의 비하발언을 했고, 이미 예정된 박 검사의 영국 유학을 두고도 ‘네가 X칠한 거 알면 너 큰일 나니까 외국에 나가 있어 이래서 나랏돈으로 외국에 보낸 거야’등의 발언을 했다.&lt;br&gt;&lt;br&gt;박 검사는 “명백한 명예훼손성 발언”이라며 “이들이 발언을 수정하고 사과하지 않으면 고소할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국립중앙의료원에 택시 돌진… 3명 중·경상</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/03/GVCSLAQLMBFR7NVOIY53Z4ZZ4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/03/GVCSLAQLMBFR7NVOIY53Z4ZZ4E/</guid>
+      <dc:creator>서보범 기자, 강우석 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Jul 2024 09:12:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PXJZTTPZFJCMTLOC6YVRHJTEHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오후 서울국립중앙의료원에 택시가 돌진해 1명이 다치는 사고가 발생했다. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 오후 서울 중구 국립중앙의료원에 택시가 돌진해 보행자 1명이 다치는 사고가 발생했다.&lt;br&gt;&lt;br&gt;서울 중부경찰서는 이날 오후 5시 15분쯤 서울 국립중앙의료원 응급실 인근으로 택시 한 대가 돌진하는 사고가 발생했다고 밝혔다. 이 사고로 응급실 주변에 있던 시민 3명이 택시에 깔리거나 다친 것으로 파악됐다. 이들은 현재 국립중앙의료원에서 치료를 받고 있는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면 당시 택시 운전자는 음주 상태는 아니었던 것으로 조사됐다. 택시는 주변에 있던 차량 3~4대를 들이받았다고 한다. 경찰은 해당 택시 운전자의 신병을 확보해 마약 투약 여부 등을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수기 가짜 번호판 달고 뒤에서 ‘쾅’... 무면허에 무보험이었다</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/03/FB42ZFOSVZE65OBPUO6GOIXHZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/03/FB42ZFOSVZE65OBPUO6GOIXHZ4/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Jul 2024 09:46:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/35IAXAZCRBC6NOY3SGAROD4VEM.gif"&gt;&lt;figcaption&gt;&lt;small&gt;출근길에 초등학교 앞에서 서행하던 중 뒤따라오던 차량에 추돌 사고를 당한 차주가 사고 처리 과정에서 황당함을 금치 못했다. 상대방이 무면허, 무보험 상태였으며 조작된 번호판을 사용하고 있었다는 사실이 밝혀진 것이다. /보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;출근길에 초등학교 앞에서 서행하던 중 뒤따라오던 차량에 추돌 사고를 당한 차주가 사고 처리 과정에서 황당함을 금치 못했다. 상대방이 무면허, 무보험 상태였으며 수기로 쓴 가짜 번호판을 달고 있었다는 사실이 밝혀졌는데, 차주는 차량 수리와 병원 치료를 어떻게 해야 할지, 가해자와 합의를 해야 할지 막막하다고 토로했다.&lt;br&gt;&lt;br&gt;지난달 26일 온라인 커뮤니티 보배드림에 따르면, 피해 차주 A씨는 평소와 같이 출근길에 초등학교 앞을 지나가다가 모닝 차량에 후방 추돌사고를 당했다. 어린이 보호구역이라 시속 15km로 서행하던 중 길을 건너는 학생을 발견해 잠시 정지했는데, 뒤따라오던 모닝 차량이 그대로 추돌했다. 사고 직후, A씨는 경찰에 신고하고 보험사에 출동을 요청했다. 가해 차량 여성 운전자도 차에서 내려 사과하면서 순조롭게 사고가 마무리될 것으로 보였다.&lt;br&gt;&lt;br&gt;그러나 경찰 조사 결과, 상대방은 무면허 상태로, 보험에도 가입하지 않은 상태였다. 심지어 상대방 차량의 번호판은 수기로 작성된 가짜 번호판이었다.&lt;br&gt;&lt;br&gt;A씨는 차량 수리비로 약 250만원이 들 것으로 예상된다는 수리센터 연락을 받았다. 또한 병원 진료 결과 염좌와 디스크 소견을 받았다고 한다. 그러나 가해자 측은 한부모 가정이라며 사정을 봐달라고 호소하고 있다. A씨는 “차도 출고된 지 얼마 되지 않아서 더 짜증 난다”며 “상대방은 봐 달라고 하지만 합의가 쉽지 않아 보인다. 어떻게 해야 잘 처리될지 답답하다”고 했다.&lt;br&gt;&lt;br&gt;이 사연을 접한 네티즌들은 “무면허, 무보험, 번호판 조작까지 이때껏 본 사고 사례 중에 역대급” “저런 사람 불쌍하다고 절대 봐주면 안 된다. 운좋게 피해갔다 생각하고 똑같이 살 것” “대인은 무보험 특약으로, 대물은 자차로 처리 받고 보험사에서 상대 차주에게 구상권 청구해야 한다. 무면허, 무보험, 번호판 조작은 형사 조치해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이같은 조언에 A씨는 “인사사고 났다고 생각하면 정말 아찔하다. 자차처리하고 상대방은 법대로 형사 입건되도록 합의하지 않겠다”라고 했다. 또 “내일 경찰조사받으러 경찰서 오라고 한다. 피해자인데 출석하는 게 맞는지 잘 모르겠지만 치료진단서, 차량등록증, 신분증 등 자료 챙겨서 오라고 하신다”며 “가해자에게 합의 안 해주고 법적 처벌 달게 받도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;자동차 보험에 가입되지 않은 자동차를 운행한 자는 최대 40~200만 원의 범칙금이 부과되고 검찰에 송치돼 1년 이하의 징역 또는 1000만 원 이하의 벌금이 부과될 수 있다. 무면허 운전의 경우에는 1년 이하의 징역 또는 300만 원 이하의 벌금에 처해질 수 있다. 또 등록번호판을 조작하거나 알아보기 곤란한 상태로 자동차를 운행하면 300만원 이하의 과태료가 부과된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>학생 없는 대학들 스스로 문닫게… 정부 ‘사립대구조개선법’ 재추진</title>
+      <link>https://www.chosun.com/national/education/2024/07/03/ZBBZB7DI3NDUTLJYSO4KNPPDYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/07/03/ZBBZB7DI3NDUTLJYSO4KNPPDYY/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Jul 2024 09:33:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PY2ZT2R3ITZDI6IM6XOETS6PSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부세종청사 교육부 전경 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 올해 말 ‘사립대학의 구조개선지원 특별법’ 제정을 다시 추진한다. 사립대구조개선법은 지난 21대 국회에서 발의됐으나 무산됐다.&lt;br&gt;&lt;br&gt;기획재정부는 3일 ‘역동경제 로드맵’을 발표하며 대학의 자발적 구조개혁을 위해 사립대구조개선법 제정을 추진하겠다고 밝혔다. 학령인구 감소로 신입생을 충원하지 못해 문 닫을 위기에 처한 사립대가 늘고 있다.&lt;br&gt;&lt;br&gt;이 대학들이 단과대학이나 학과 단위 분리매각을 통해 다른 학교와 통폐합할 수 있도록 하고, 학교법인 해산 시 잔여 재산을 공익법인 등으로 출연할 수 있게 하는 내용 등이 법안 골자다.&lt;br&gt;&lt;br&gt;앞서 21대 국회에서 여야가 모두 사립대구조개선법을 발의했다. 그러나 자발적으로 문을 닫는 대학에 주는 ‘해산장려금’ 범위를 두고 여야가 이견을 좁히지 못했다.&lt;br&gt;&lt;br&gt;당시 정경희 국민의힘 의원이 대표 발의한 법안에는 스스로 폐교를 결정한 사학 설립자에게 대학 청산 후 남은 재산의 최대 30%를 해산장려금 형태로 지급하자는 내용이 담겼다. 하지만 사학 설립자·경영자의 이른바 ‘먹튀’를 보장하는 법안이라는 비판을 받아 상임위원회를 통과하지 못했다.&lt;br&gt;&lt;br&gt;대학 규제 완화도 추진한다. 최소한의 기본사항만 법령에 규정하고 나머지 규제는 풀어주는 ‘대학 규제 네거티브 전환’ 방안이다. 예컨대 대학·기업이 협약을 맺고 개설하는 계약학과의 경우 수업 장소를 자유롭게 하는 방안이 대표적이다. 산업 현장은 물론 그 외 지역에서도 대학수업이 가능하도록 하자는 것이다.&lt;br&gt;&lt;br&gt;대학 주요 보직은 대부분 교수가 맡고 있는데 필요한 경우 외부 전문가도 임용할 수 있도록 하자는 방안도 담겼다. 향후 마이스터고 선정에는 반도체 등 첨단분야를 중시하기로 했다. 특성화고 등이 마이스터고로 지정되면 2년간 총 50억원을 지원받을 수 있는데 앞으로는 첨단분야 위주로 마이스터고를 선정한다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PUQPFJ5LDYIKNPOIVBJWXK3SIY.jpg?width=3390&amp;height=1960&amp;auth=3769d6b25806dc91722a3daf4a2a6de5be76dbd92bf1edd5f359b673939a17de&amp;smart=true" type="image/jpeg" height="1960" width="3390">
+        <media:description type="plain">정부세종청사 교육부 전경. ⓒ News1 장수영</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“앗 이게 뭐야”...홀로 사는 여성 집 현관에 ‘정액 테러’ 20대 구속기소</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/07/03/ZJQAZNL4EVGAZKMW6FTBD6EP4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/07/03/ZJQAZNL4EVGAZKMW6FTBD6EP4U/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Jul 2024 09:07:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XTDDFXPNLDNX2SVQVOEPZC4ED4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지방검찰청 전경/청주지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 홀로 사는 여성 3명을 스토킹하고 이른바 ‘정액 테러’를 저지른 20대를 재판에 넘겼다.&lt;br&gt;&lt;br&gt;청주지검 형사2부는 지난해 11월부터 지난 3월까지 3차례에 걸쳐 같은 아파트에 혼자 사는 여성 3명을 스토킹하고, 이들의 집 현관문에 자신의 ‘정액’을 묻힌 20대 A씨를 재물손괴죄, 스토킹처벌법위반죄 등으로 구속 기소했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 애초 피해자들이 불쾌감 때문에 도어락을 한동안 사용하지 못해 재물손괴죄를 적용, 사건을 검찰로 넘겼다. 정액 테러는 ‘성범죄’ 혐의가 적용되지 않는다. 현행법상 형사처벌이 가능한 성범죄는 신체 접촉을 수반한 추행이나 강간, 디지털 성폭력에 한정하고 있는데, 정액테러는 직접적인 신체 접촉이 없기 때문이다.&lt;br&gt;&lt;br&gt;이러한 법의 사각지대를 없애고 정액 테러를 성범죄로 여겨 엄히 처벌하기 위해 백혜련 더불어민주당 의원은 최근 ‘성폭력 범죄의 처벌 등에 관한 특례법 일부개정법률안’을 대표 발의하기도 했다.&lt;br&gt;&lt;br&gt;사건을 넘겨받은 검찰은 A씨의 범행이 성범죄의 연장일 것으로 판단, 그의 휴대전화 메모장과 사진, 동영상 파일 등을 분석했다. 그 결과 A씨가 홀로 사는 여성들을 찾기 위해 다수인의 주거지를 관찰하고 피해여성 3명에게 범행을 저지른 사실을 확인, 스토킹 혐의를 추가 적용했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “피고인에게 범죄에 상응하는 형이 선고되도록 노력할 것”이라며 “불특정 다수 피해자를 상대로 불안감을 주는 스토킹범죄에 엄정 대응할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>베트남 총리 서울대서 “한반도 비핵화 지지... 메콩 지역과 협력 위한 다리 될 것”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/03/5LRASLMSGBGJHAIADTEHR5YIHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/03/5LRASLMSGBGJHAIADTEHR5YIHU/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Jul 2024 08:50:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B2Q3SRUMGRAENDDQ4PWONA4GMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공식 방한 중인 팜 민 찐 베트남 총리가 3일 서울 관악구 서울대에서 '베트남-한국 포괄적 전략적 동반자 관계 강화' 초청 강연을 하고 있다./서울대학교&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“베트남은 한반도 비핵화를 지지하고 평화적인 통일을 응원합니다. 메콩 지역과의 협력을 위해 베트남이 적극적인 다리 역할을 하겠습니다.”&lt;br&gt;&lt;br&gt;지난달 30일부터 한덕수 국무총리 초청으로 방한한 팜민찐 베트남 총리가 3일 서울 관악구 서울대 아시아연구소에서 특별 강연을 가졌다. 그는 이날 “러시아-우크라이나 전쟁 등 국지적인 분쟁으로 인한 공급망 위기와 세계적인 추세의 저출산·고령화는 어느 한 국가만의 노력으로는 극복이 어렵다”며 “한국과 베트남 양국의 협력이 어느 때보다 중요하다”고 했다.&lt;br&gt;&lt;br&gt;이날 찐 총리는 “윤석열 대통령, 한덕수 총리와 같은 훌륭한 인재를 배출한 서울대는 지난 70여년 간 한국 경제발전에 거대한 역할을 했다”며 말문을 열었다. 그러면서 “한국에 ‘교육은 백년대계’라는 말이 있듯 베트남의 국부인 호치민 주석께서는 ‘10년을 위해서는 나무를 심어야 하고 100년을 위해서는 사람을 키워야 한다’고 했다”며 “양국이 교육을 대하는 기본 자세가 유사하다”고 했다.&lt;br&gt;&lt;br&gt;이어 그는 한국과 베트남의 문화적 유사성을 강조했다. 찐 총리는 “베트남 청년들은 케이팝과 김치를 좋아하고, 한국 청년들은 베트남 식당에서 일상적으로 쌀국수를 즐겨 먹는다더라”며 “약 70개의 지방이 맺은 자매결연과 수많은 다문화가정이 양국의 협력관계에 기여했다”고 했다.&lt;br&gt;&lt;br&gt;찐 총리는 이날 과학기술 협력과 교역에 대한 입장도 밝혔다. 베트남에서 온 아시아연구소 연구원이 던진 “한국과 베트남의 관계는 불균형적이지 않냐”는 질문에 대해 “기본적인 원칙은 서로 조화롭고 서로를 위하는 것”이라면서도 “한국 제품은 품질이 좋고 가격이 합리적이라 베트남이 무역 적자를 보는 게 당연하다. 베트남은 수입품을 재가공함으로써 (결과적으로) 균형적인 무역 관계가 된다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BM2FSJZUUNDDLOG6D4U2BXKWXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공식 방한 중인 팜 민 찐 베트남 총리가 3일 유홍림 총장, 김대일 사회과학대학장을 비롯한 서울대 측 인사와 접견하고 있다./서울대학교&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유홍림 총장은 환영사에서 “지난 10년 동안 600여명의 베트남 학생이 서울대에서 공부했고 현재 46명의 학생들이 서울대 재학 중”이라며 “이러한 교육 협력 관계를 앞으로도 유지하고, 연구 협력 분야를 확장할 계획”이라고 했다. 그러면서 “우리나라는 출산율 급감으로 인구 위기에 봉착했고, 베트남에는 과학 분야 등에서 뛰어난 잠재력을 가진 젊은 인재가 많다. 양국이 직면한 시대적 과제를 완성하는 데 있어 협력하는 파트너 관계가 돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;팜민찐 총리는 지난 2021년 4월 취임했다. 공안부 차관, 꽝닌성(Quang Ninh) 당서기장, 당중앙 조직위원회 위원장 등을 지낸 그는 베트남 공산당의 주요 인물이다.&lt;br&gt;&lt;br&gt;이번 강연은 찐 총리의 공식 방한 일정의 일환이다. 2022년 12월 한-베트남 수교 30주년을 계기로 양국이 ‘포괄적 전략 동반자 관계’로 격상된 이후 베트남 최고위급 인사의 첫 공식 방문이다. 찐 총리는 한덕수 총리 초청으로 지난달 30일부터 이날까지 한국에 머문다.&lt;br&gt;&lt;br&gt;찐 총리는 이날 서울대를 방문해 유홍림 총장과의 면담 후 ‘베트남 - 한국 포괄적 전략적 동반자 관계 강화: 양국 국민의 행복, 지역과 세계의 평화, 협력과 발전의 결실’을 주제로 약 1시간 동안 강연했다. 또 강연 후 서울대 내 베트남 관련 인사 및 베트남 유학생들과의 만남도 가졌다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 40억대 사기 친 뒤 8년여간 도피한 50대 남성 구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/03/RV2ORUY77BAUJHKX2SJLOSEMGY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/03/RV2ORUY77BAUJHKX2SJLOSEMGY/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Jul 2024 09:14:27 +0000</pubDate>
+      <content:encoded>40억대 사기를 벌인 뒤 8년여간 해외 도피 생활을 해온 50대 남성이 검찰의 추적 끝에 체포돼, 구속 기소된 것으로 3일 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EXR23RI33NN23PUZBMAYCNX2KA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청의 검찰 깃발./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검찰청은 3일 서울중앙지검이 특정경제범죄가중처벌법상 사기 혐의로 권모(50)씨를 구속 기소했다고 밝혔다. 권씨는 2013년 주식 투자로 큰 수익을 올려주겠다고 속여 투자금 명목으로 42억여원을 갈취한 혐의를 받는다.&lt;br&gt;&lt;br&gt;수사 선상에 오른 권씨는 2015년 9월 캐나다로 도피했다. 당시 그는 6개월간 체류할 수 있는 비자가 만료돼 캐나다 당국으로부터 출국 명령을 받았음에도 불구하고 계속 머물렀다고 한다.&lt;br&gt;&lt;br&gt;검찰은 2016년 9월 권씨에 대한 체포영장이 발부되자 권씨의 소재를 파악하기 위해 캐나다 국경관리청(CBSA)과 적극적으로 공조해왔다. 특히 권씨의 부인과 자녀가 캐나다로 출국한 사실을 확인하고, 이들의 소재지와 동향에 관한 자료를 CBSA에 제공했다고 한다. 현지에서도 탐문 수사가 이뤄질 수 있도록 한 것이다. 권씨는 지난달 7일 밴쿠버 국제공항에서 CBSA에 검거돼 같은 달 18일 송환됐다.&lt;br&gt;&lt;br&gt;지난해 이후 캐나다에서 검거·송환된 국외 도피 사범은 권씨 외에도 전세 대출 사기범, 100억원대 업무상 배임 혐의자 등 총 3명이다.&lt;br&gt;&lt;br&gt;대검은 “향후에도 적극적인 국제공조 수사를 통해 반드시 죄에 상응하는 형벌이 집행되도록 노력하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>30년된 아파트 공동현관 지붕 ‘와르르’… 어라, 철근은 어디에? </title>
+      <link>https://www.chosun.com/national/national_general/2024/07/03/YTBLBYE7HJBQHPAVUT7FWD6HFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/03/YTBLBYE7HJBQHPAVUT7FWD6HFY/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Jul 2024 08:31:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BXTQEIWSEJBNRPGAAJNTSEHJZA.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;공동현관 지붕이 붕괴된 용인 수지의 한 아파트. /보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1일 용인 수지구의 한 아파트에서 공동현관 지붕이 무너지는 일이 발생했다. 당시 현장 사진은 온라인에 올라왔는데 지붕 단면에 철근이 보이지 않아 부실 시공이 아니냐는 의혹이 나왔다. 이에 구청 측은 “시공사 측에서 조사하고 있다”고 했다.&lt;br&gt;&lt;br&gt;3일 수지구 등에 따르면, 지난 1일 오후 2시30분쯤 용인 수지구 풍덕천동의 한 아파트의 공동현관 지붕이 무너져 내렸다. 붕괴 당시 굉음이 울린 것으로 전해진다. 이 사고로 인한 인명피해는 없었다.&lt;br&gt;&lt;br&gt;이 아파트 입주민은 온라인 커뮤니티 보배드림에 ‘용인 수지 아파트 1층 현관 붕괴’라는 제목으로 글을 올리기도 했다. 작성자는 “어제 아내가 집에서 설거지하다가 쿵 소리가 나서 나가봤더니 저렇게 돼 있었다”며 공동현관 지붕이 붕괴된 사진을 첨부했다. 이어 “사람이 안 지나가서 천만다행”이라고 했다.&lt;br&gt;&lt;br&gt;작성자가 공개한 사진에는 무너진 지붕이 구조물에 매달린 채 현관 입구를 절반가량 가리고 있는 모습이 담겼다. 특히 사진 속 붕괴된 지붕 단면에 철근이 보이지 않으면서 부실 시공이 아니냐는 반응이 나왔다.&lt;br&gt;&lt;br&gt;네티즌들은 “철근은 어디에?” “구축 같아 보이는데 몇십 년을 저렇게 버텨온 게 신기하다” “시멘트를 본드로 붙였네” 등의 반응을 보였다. 한 네티즌은 “저런 데(공동현관 지붕)는 나중에 타설하는 경우가 있다. 철근을 넣어 기존 건축물과 연결해야 하는데 철근이 없다는 건 잘못 공사한 게 맞다”고 적었다.&lt;br&gt;&lt;br&gt;이에 수지구 측은 조선닷컴에 “붕괴된 지붕을 조치할 때 철근이 있었다”면서도 “구조물이 이어지는 부분에는 철근이 없었는데, 설계도면에 있었는데 시공때 빠진건지 설계 때부터 빠진건지 시공사가 조사하고 있다”고 했다.&lt;br&gt;&lt;br&gt;이 아파트 측은 전체 공동현관을 조사하고 수리할 예정인 것으로 알려졌다. 한편 이 아파트는 1994년 준공된 곳으로, 현재 경찰과 수지구는 정확한 붕괴 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>채무자 죽음으로 내몬 ‘불법추심’ 사채업자 구속기소</title>
+      <link>https://www.chosun.com/national/regional/honam/2024/07/03/OPWO7JBUY5FU3HMXF7YPM3TGPE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/07/03/OPWO7JBUY5FU3HMXF7YPM3TGPE/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Jul 2024 08:58:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4O4QCWSSKRFMLFT7HBZJS5RGTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주고등지방검찰청 전경. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;악독한 불법 추심으로 40대 채무자를 죽음으로 몰고 간 사채업자가 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;광주지검 형사1부(부장 허성환)는 3일 대부업법 및 채권추심법 위반 혐의로 A(52)씨를 구속 기소했다고 밝혔다. 검찰에 따르면 A씨는 무등록 대부업체를 운영하면서 6년간 19명에게 약 6억원을 빌려주고 채무 변제가 늦어진다는 이유로 채무자들을 협박하는 등 불법추심을 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨의 불법추심으로 극단적 선택을 한 채무자도 있었다. A씨는 지난 2021년 9월부터 2023년 7월까지 6000만원을 빌려준 40대 여성 B씨의 직장에 찾아가 돈을 갚지 않는다는 이유로 ‘일을 못하게 해주겠다’ ‘죽어버려라’는 등 폭언을 하며 4개월 동안 불법추심을 했다. B씨는 A씨의 협박을 견디지 못하고 스스로 목숨을 끊었다.&lt;br&gt;&lt;br&gt;B씨는 2년 동안 A씨에게 원금보다 많은 9000만원 상당을 갚은 것으로 조사됐다. 검찰은 대면 조사와 금전 장부, 계좌 내역, 휴대전화 포렌식 등을 통해 A씨의 장기간 무등록 대부업체 운영 이력과 다수 피해자 협박 사실을 확인했다.&lt;br&gt;&lt;br&gt;광주지검 관계자는 “서민의 절박한 상황을 악용해 정상적인 경제활동과 일상생활을 위협하는 불법 사금융 범죄에 엄정하게 대응하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4O4QCWSSKRFMLFT7HBZJS5RGTI.jpg?width=890&amp;height=501&amp;auth=e45977eefd6b2734f3b188c81b5ce6bab6e3b55e4a315af7a162dc05cb87a70e&amp;smart=true" type="image/jpeg" height="501" width="890">
+        <media:description type="plain">광주고등지방검찰청 전경. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>공수처, '쪼개기 후원' 의혹 태영호 소환 조사</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/03/OIBTL2GZU5CDJBEOWQI4U34LBQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/03/OIBTL2GZU5CDJBEOWQI4U34LBQ/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Jul 2024 08:36:55 +0000</pubDate>
+      <content:encoded>‘쪼개기’ 방식으로 후원금을 받았다는 의혹을 받고 있는 태영호 전 국민의힘 의원이 3일 고위공직자범죄수사처(공수처)에 피의자로 출석했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFPCN3Z6HCS2Z4BEVPBUJQMIJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;태영호 국민의힘 최고위원이 서울 여의도 국회 소통관에서 공천 녹취록 사태와 쪼개기 정치후원금 의혹에 대해 입장 발표 기자회견을 마치고 침통한 표정으로 기자회견장을 나서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 이 의혹을 수사하는 공수처 수사3부(부장 박석일)는 이날 오전 태 전 의원을 정치자금법 위반 등 혐의 피의자로 소환해 조사했다. 수사팀은 태 전 의원에게 후원금을 제공받은 경위 등을 물은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 의혹은 한 시민단체가 “태 전 의원이 제8회 전국동시지방선거 전후로 자신의 지역구에서 당선된 기초의원에게서 정치 후원금을 받았고, 후원금 상한선인 500만원을 회피하기 위해 그 이하 금액으로 쪼개기 후원을 받았다”는 취지의 고발장을 공수처에 낸 것이 발단이다. 당시 정치권에선 지방선거 전후로 후원이 집중됐다며 공천 뒷거래 의혹도 제기됐었다.&lt;br&gt;&lt;br&gt;의혹 제기 직후 태 전 의원은 기자회견을 열고 “너무나 황당해 말이 나가지 않는다”며 “후원금 모금과 관련해 단 하나의 오점 없이 당당하다는 것을 이 자리에서 밝힌다”고 했었다.&lt;br&gt;&lt;br&gt;그러면서 “시·구의원들의 후원은 쪼개기에 해당하지도 않으며 시·구의원들이 언론에 자발적으로 후원한 것이라 밝혔다”며 “특히 공천헌금이라는 오해를 피하고자 지난해 지방선거를 앞두고 예비후보들이 낸 후원금도 반환했다”고 했다.&lt;br&gt;&lt;br&gt;공수처는 지난해 정치 후원금 회계 내역 확보를 위해 중앙선거관리위원회(선관위)를 압수 수색하고, 의원실 회계 책임자를 참고인 신분으로 불러 조사한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>CD플레이어 케이스 안에 골드바... 분리수거장에 누가 버렸나</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/03/CRFAIS6CH5D3HPN43JHBBAWAQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/03/CRFAIS6CH5D3HPN43JHBBAWAQI/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Jul 2024 08:22:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IBIG77OIHFKBLHASYQ4OHS45OM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;중동 정세 불안에 따른 안전자산 선호 등으로 금값이 상승한 작년 11월 13일 오후 서울 종로구 한국금거래소에서 직원이 골드바를 정리하고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의 대표적인 고가 아파트 중 하나로 꼽히는 서초구 반포동 반포자이 재활용 분리수거장에서 골드바가 나와 화제다.&lt;br&gt;&lt;br&gt;반포자이 생활지원센터는 지난달 28일 공고문을 통해 “전날 오후 3시 30분쯤 재활용 분리수거장에서 근무하던 직원이 CD 플레이어 케이스 안에 있던 골드바를 습득했다”며 “CD 플레이어를 버린 입주민께서는 생활지원센터에 연락해 확인 절차를 거친 귀 골드바를 찾아가시길 바란다”고 했다.&lt;br&gt;&lt;br&gt;센터 측은 확인 절차의 일환으로 CD 플레이어를 버린 재활용 분리수거장 위치와 CD 플레이어의 케이스 모양 등에 대한 설명이 필요하다고 했다.&lt;br&gt;&lt;br&gt;오는 5일까지 주인이 나타나지 않을 경우, 센터 측은 골드바를 경찰에 넘길 예정이다.&lt;br&gt;&lt;br&gt;이 같은 공고문은 3일 온라인상에 ‘반포자이의 위엄’ ‘흔한 반포자이의 분실물’ ‘반포자이 클래스’ 등의 제목으로 확산했다. 반포자이가 서울의 대표적인 고가 아파트 중 하나로 꼽히기 때문에, 분실물의 금액대도 상대적으로 크다는 취지의 제목들이다. 지난달 기준 반포자이 전용면적 244㎡가 73억 6000만원에 팔리며 신고가를 기록했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XKFSOIIOLVAA7I3FDCBNPZQKGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;골드바 습득 공고문. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 네티즌 사이에선 “비상금 숨겨놓은 걸 잊고 버린 거 아니냐” “골드바면 최소 수천만원 아니냐. 정직하게 보고한 직원도 대단하다” “남편의 비상금을 아내가 모르고 버린건가” “골드바를 CD 플레이어에 넣어두는 발상도 신기하다” 등의 반응이 나왔다.&lt;br&gt;&lt;br&gt;한편 한국금거래소에 따르면 3일 금 시세는 1돈(3.75g) 기준 팔 때 38만4000원, 살 때 44만원이다. 금값이 치솟으면서 중고거래 플랫폼에도 금반지, 목걸이, 팔찌 등을 거래하려는 글이 다수 올라와 있다. 최근엔 MBC ‘나 혼자 산다’에서 그룹 샤이니 키가 친구 자녀를 위한 2돈짜리 금팔찌를 83만원에 구매하는 과정에서 높은 가격에 놀라는 모습이 화제가 되기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“어떤 남자가 여자를 강제로 차에” 112 접수된 납치신고, 알고보니 부부싸움</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/03/WRPXSWJ3NZETNBO6QUM34PCQYM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/03/WRPXSWJ3NZETNBO6QUM34PCQYM/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Jul 2024 08:28:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“남자가 여자를 강제로 차에 태워서 가고 있어요.”&lt;br&gt;&lt;br&gt;지난달 30일 오후 11시 30분. 경기 고양시의 한 아파트 주차장에서 ‘납치 현장’을 목격했다는 112 신고가 접수됐다. ‘용의자’는 50대 남성 A씨였고, ‘피해자’는 50대 여성 B씨였다. A씨가 B씨를 조수석에 태우고선 차를 몰아 어디론가 사라졌다는 내용이었다. B씨가 차 내부에서 소리를 질렀다고도 했다.&lt;br&gt;&lt;br&gt;출동한 순찰차가 신고 지점에서 약 2km 떨어진 곳에서 A씨 차량을 발견해 멈춰세웠다. 차량을 들여다보니 112 신고 내용과는 달리 여성 B씨가 운전석에, A씨는 조수석에 앉아 있었다. 언뜻 봐도 납치범과 피해자 관계로 보이지 않았다.&lt;br&gt;&lt;br&gt;사실 두 사람은 부부였다. 사건 직전, 두 사람은 서울에서 저녁 자리를 했다고 한다. 남편 A씨는 반주를 곁들였고 아내 B씨는 술을 마시지 않았다. 자리를 마치고서는 자택인 고양시 아파트까지는 음주하지 않은 아내 B씨가 운전대를 잡았다.&lt;br&gt;&lt;br&gt;두 사람이 언성을 높이게 된 건 주차장에 차를 대면서다. 운전이 서툰 아내의 주차가 길어졌고, 취한 남편은 “제대로 못하느냐”며 짜증을 냈다. B씨도 여기에 지지 않고 맞서면서 이내 다툼이 시작됐다.&lt;br&gt;&lt;br&gt;그러다 남편 A씨가 갑자기 싫다는 아내를 차에 강제로 태우고 차를 운전하기 시작했다. 이 모습을 본 이웃 주민이 경찰에 납치 신고를 한 것이다. A씨는 술에 취한 상태에서 약 2km 차를 몰았다.&lt;br&gt;&lt;br&gt;결국 경찰의 추궁 끝에 A씨는 자백했다. 멀리서 따라오는 순찰차를 보고선 음주운전을 들키지 않기 위해 자리를 바꿨다고 했다. 음주 측정 결과 남편은 면허 취소 수준의 혈중알코올농도가 감지됐다. 경찰은 A씨를 음주 운전 혐의로 불구속 입건해 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경찰 "스키드마크와 기름자국 헷갈려 죄송" 부실 조사 논란</title>
       <link>https://www.chosun.com/national/national_general/2024/07/03/IXLU4WAYSZFRLDSALSO4RTAQU4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/03/IXLU4WAYSZFRLDSALSO4RTAQU4/</guid>
@@ -779,42 +894,6 @@
       </media:content>
     </item>
     <item>
-      <title>시민들 “人道에서 대형 참사…이제 안전지대는 어디냐”</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/02/ULQQGU7LV5F3VA6KVYXOBET65I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/02/ULQQGU7LV5F3VA6KVYXOBET65I/</guid>
-      <dc:creator>안준현 기자, 강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 02 Jul 2024 12:26:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HQCWNV4ANDC757AOXFQ6ZN457M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 새벽 13명의 사상자가 발생한 서울 시청역 교차로 교통사고 현장에서 과학수사대원들이 현장감식을 하고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1일 밤 서울 시청역 역주행 참사 소식에 시민들은 “서울 한복판에서 어떻게 이런 일이 발생할 수 있느냐”며 불안을 호소했다. 서울시 공무원 최모(26)씨도 1일 심야와 2일 새벽 부재중 전화 10통과 100개가 넘는 메시지를 받았다. ‘괜찮은 거 맞지?’ ‘거기 없었지?’ 같은 내용이었다. 최씨는 “내가 그 자리에 있었으면 희생됐겠다는 생각에 가슴이 턱 막혔다”고 했다. 시청역 인근에서 일하는 회사원 김주영(28)씨도 “감시카메라 영상을 보니 피해자들은 인도에서 편안하게 대화를 나누다가 날벼락을 맞더라”며 “나도 언제든지 죽을 수 있다는 생각이 들어 무섭고 마음이 아팠다”고 했다.&lt;br&gt;&lt;br&gt;2일 찾은 사고 현장은 폐허 같았다. 가해 차량이 가드레일을 쓸어버린 현장 한쪽엔 찌그러진 오토바이가 번호판도 없이 나뒹굴고 있었다. 임시 울타리 앞에는 시민들이 고인을 추모하려고 놓고 간 국화꽃이 빗물에 젖어 있었다. 한 시민은 “고인들의 꿈이 저세상에서라도 이뤄지길 바랍니다. 명복을 빕니다”라고 적힌 메모를 붙였다. 지나가던 시민 대부분은 한동안 자리를 떠나지 못했다. 한 시민은 “어젯밤 사고 소식을 듣고 놀라 한숨도 잠을 못 잤다”며 “사람이 지나는 인도(人道)에서 사람이 죽었으니, 이제 어느 곳도 안전지대가 아닌 것 같다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“염산 뿌릴 거야”... 전국 악성 민원인 2784명 유형 분석해 보니</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/02/RTOVARTOKVFHBA2A6M3V5MQVBA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/02/RTOVARTOKVFHBA2A6M3V5MQVBA/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 02 Jul 2024 12:14:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6LWV52WNYBM3BP25DOE3YLJ52A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김태규 국민권익위 부위원장이 2일 오전 정부세종청사에서 지난 3월부터 5월까지 중앙행정기관, 지방자치단체 등을 대상으로 '악성 민원 실태조사' 한 결과를 발표하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일선 공무원들을 상대로 상습·반복적으로 민원을 넣거나 폭언·폭행하는 ‘악성 민원인’이 2784명으로 집계됐다고 국민권익위원회(권익위)가 2일 밝혔다.&lt;br&gt;&lt;br&gt;권익위는 지난 3월부터 5월까지 중앙행정기관 49곳, 지방자치단체 243곳, 시도 교육청 17곳을 대상으로 ‘악성 민원 실태조사’를 실시했다.&lt;br&gt;&lt;br&gt;권익위는 악성 민원인 규모를 총 2784명으로 파악했다. 유형별로는 업무 담당자 개인 전화로 여러 차례에 걸쳐 수백통의 문자를 발송하는 ‘상습·반복’ 유형이 1340명으로 가장 많았다. 악성 민원인 가운데 48%가 여기에 속했다.&lt;br&gt;&lt;br&gt;살해 협박이나 책상을 집어던지는 등 ‘폭언·폭행’ 유형은 40%(1113명)였고, 담당 공무원 실명을 공개한 뒤 항의 전화를 독려하는 등 ‘좌표찍기’를 하는 유형도 6%(182명)였다. 민원 처리 결과에 대한 불만으로 과도하게 정보 공개를 청구하거나 비이성적 주장을 하는 유형도 있었다.&lt;br&gt;&lt;br&gt;기관별로는 기초 지방자치단체(1372명)에서 악성 민원인이 가장 많은 것으로 나타났다. 뒤이어 중앙행정기관 1124명, 광역 지자체 192명, 교육청 96명으로 집계됐다.&lt;br&gt;&lt;br&gt;권익위가 공개한 악성 민원인 유형별 실제 사례를 보면, 국방부 악성 민원인 중에서는 자신이 조선시대 궁녀라면서 자기가 보유했던 전 재산을 일본 천황이 가져갔다고 주장하는 경우가 있었다. 상이등급 하향 조정에 불만을 품고 담당자에게 “유언장에 네 이름을 적고 자살하겠다, 고소하겠다, 퇴근할 때 조심해라”라며 협박한 사례도 있다.&lt;br&gt;&lt;br&gt;경기도에서는 다수 민원을 제기한 뒤 관련 공무원 징계를 요구하면서 “망할 X의 계집애”라고 폭언하는 민원인이 있었다. 부산 북구에서는 행정 처리에 불만을 품고 “염산을 뿌리겠다” “죽이겠다”며 협박하는 경우가 있었는데, 이 민원인은 공무집행 방해 혐의로 고발돼 징역 2년을 선고받았다고 한다.&lt;br&gt;&lt;br&gt;권익위에 따르면 전체 기관의 45%(140개 기관)는 최근 3년 내 악성 민원 대응 교육을 하지 않았다. 교육을 했더라도 적절한 악성 민원 대응 교육이 아닌 사례가 다수 확인됐다. 김태규 권익위 부위원장은 “일선 공무원들이 상습·반복 민원이나 폭행·협박 등과 같은 악성 민원으로 많이 고통받고 있음을 여실히 보여준다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>클럽서 구한 대마젤리 나눠먹은 대학원생 재판행</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/02/B6OO3IZ535F5VIMPVP6VN26FDM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/02/B6OO3IZ535F5VIMPVP6VN26FDM/</guid>
-      <dc:creator>서보범 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 02 Jul 2024 11:06:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6PBRR2B2Z2Q46K55I4G665XL2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지검. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;클럽 인근에서 대마젤리를 구해 섭취하고 이를 지인들에게 나눠 준 20대 대학원생이 구속 상태로 2일 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울동부지검 형사3부(부장 김지용)는 이날 마약류관리에관한법률위반(대마) 혐의로 대학원생 A씨(26)를 구속기소했다고 밝혔다. 검찰에 따르면 A씨는 지난해 12월 서울 마포구에 있는 한 클럽 인근에서 신원을 알 수 없는 외국인으로부터 건네 받은 대마젤리 약 20개를 복용하고, 일부를 지인들에게 나눠 준 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨로부터 대마젤리를 건네 받은 이들은 과거 직장생활을 하면서 알게 된 사이로, 해외 유학 경험이 있다는 공통점을 매개로 유대감을 쌓은 것으로 파악됐다. 이들 중 한 명은 “기분이 좋아지는 것”이라며 다른 지인들에게 대마 젤리를 다시 나눠준 혐의로 지난 5월 구속기소됐다. A씨는 지인들에게 대마젤리를 나눠준 뒤 나머지를 보관하기도 했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “우리 사회에 마약이 발붙일 수 없도록 앞으로도 마약 범죄에 강력히 대처하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>前 직장동료들과 ‘대마 젤리’ 나눠먹은 20대 대학원생</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/02/SFNK2EKTKVEALNW3HFTVEMXYQE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/02/SFNK2EKTKVEALNW3HFTVEMXYQE/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 02 Jul 2024 10:50:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6LUBIBPIWYJLJRXSV4CJNMJ5RY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대마 젤리. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;젤리형 대마를 전(前) 직장 동료들과 나눠 먹은 20대 대학원생이 구속 상태에서 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;2일 서울동부지검 형사3부는 마약류관리법 위반 혐의로 대학원생 A(26)씨를 구속 기소했다.&lt;br&gt;&lt;br&gt;검찰에 따르면 A씨는 작년 12월 서울 마포구 클럽 인근에서 신원을 알 수 없는 외국인에게 받은 대마 젤리 약 20개 중 일부를 먹거나 지인들에게 건넨 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 해외 유학생활을 했다는 공통점을 매개로 친분을 쌓은 이전 직장동료들에게 대마 젤리를 제공한 것으로도 조사됐다.&lt;br&gt;&lt;br&gt;이들 가운데 한 명인 B씨는 “기분이 좋아지는 것”이라며 대학 동기 세 명에게 대마 젤리를 다시 나눠준 혐의로 지난 5월 구속기소된 바 있다.&lt;br&gt;&lt;br&gt;젤리를 먹고 어지럼증을 호소한 2명은 119에 신고해 병원으로 옮겨져 치료를 받았다. 검찰 관계자는 “우리 사회에 마약이 발붙일 수 없도록 앞으로도 마약 범죄에 강력히 대처하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;사탕이나 젤리형 대마는 대마를 삶아 줄기 등에서 나오는 오일을 농축시켜 일반 사탕과 젤리처럼 만든다. 섭취하면 대마를 흡연한 것과 같은 효과를 얻을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>여성 신도 8명 당했다… 성범죄 저지른 前 교회 담임목사</title>
       <link>https://www.chosun.com/national/regional/honam/2024/07/02/AGKUXCT4PBD4TO4E3XZFPHBKOA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/07/02/AGKUXCT4PBD4TO4E3XZFPHBKOA/</guid>
@@ -826,46 +905,6 @@
         <media:description type="plain">경찰 마크. /조선DB</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>내일 낮 잠깐 그친 뒤, 모레 또 장맛비</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/07/02/63EHHILTFVCPBBZATCXBWTN6NU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/02/63EHHILTFVCPBBZATCXBWTN6NU/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 02 Jul 2024 11:38:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GCEFJUHSXNNZHBV6DSY7WEQYEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국적으로 장맛비가 내린 2일 오후 서울 종로구 일대에서 우산을 쓴 시민들이 이동하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장마전선(정체전선)의 영향으로 3일 낮까지 전국에 굵은 빗줄기가 쏟아지겠다고 기상청이 2일 밝혔다. 비가 그치고 제주와 경상권을 중심으로 잠시 찜통더위가 찾아왔다가 4일 다시 비가 오겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면 2일 중부지방으로 북상한 장마전선은 수도권을 중심으로 많은 비를 뿌렸다. 장마전선에 중국 쪽에서 온 저기압까지 합류하며 오후 5시까지 최대 90.5㎜(경기 이천)의 비를 뿌렸다. 한몸이었던 장마전선과 저기압은 2일과 3일 밤사이 둘로 쪼개지겠다. 장마전선은 남하해 전라·경상권에, 저기압은 강원도 쪽으로 향하면서 3일 낮까지 수도권·강원도·충청권·경상권에 최대 60㎜, 전라권에 최대 80mm의 비를 뿌리겠다. 비가 그친 후에는 남부지방을 중심으로 체감기온이 최고 31도 이상으로 오르며 무덥겠다.&lt;br&gt;&lt;br&gt;4일에는 새로운 장마전선이 형성되면서 수도권·강원도·경상권 최고 20mm, 충청권·전라권 최고 40㎜의 비가 내리겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘3400만원 보이스피싱’ 저지한 은행원들… 경찰, 포상금 지급</title>
-      <link>https://www.chosun.com/national/regional/honam/2024/07/02/NNNZ7EHSJZF43NRQFBXSHOGFTU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/07/02/NNNZ7EHSJZF43NRQFBXSHOGFTU/</guid>
-      <dc:creator>순천=조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 02 Jul 2024 11:52:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VREXIS66FFELJGM2WLRJ5TJYJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국승인 전남 순천경찰서장(가운데)이 최근 보이스피싱 피해를 막은 은행원들에게 감사장을 수여하고 기념 사진을 찍고 있다./순천경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전화금융사기(보이스피싱) 피해를 예방한 은행원이 경찰로부터 포상금 등을 받았다. 순천경찰서는 2일 보이스피싱 피해를 예방한 은행원 2명에게 감사장과 신고포상금 30만원씩을 수여했다고 밝혔다.&lt;br&gt;&lt;br&gt;은행원 A씨는 지난달 21일 60대 남성이 “지인을 구하기 위해 돈이 필요하다”며 2500만원을 대출받으려 하자 112에 보이스피싱 의심 신고를 했다. 다른 은행에서 일하는 B씨는 같은 달 20일 50대 남성 고객이 “무조건 현금으로 돈을 보내야 한다”는 말과 함께 900만원을 인출하려 하자 이를 제지하고 112에 도움을 청했다.&lt;br&gt;&lt;br&gt;경찰은 두 은행원의 순발력 있는 조치로 보이스피싱 피해 예방이 가능했다며 감사장과 신고포상금 수여를 결정했다.&lt;br&gt;&lt;br&gt;국승인 순천경찰서장은 “금융기관 직원의 세심한 주의와 관심으로 시민의 재산을 지킬 수 있었다”며 “앞으로도 금융기관과 유기적인 협조체제를 지속적으로 유지하고 보이스피싱 예방과 범인 검거에 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;'&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/VREXIS66FFELJGM2WLRJ5TJYJU.jpg?width=1200&amp;height=800&amp;auth=d98cfa8452b775a607a21a8a9f563caa65072d3e8bb888d5193e3651ce596e2a&amp;smart=true" type="image/jpeg" height="800" width="1200">
-        <media:description type="plain">국승인 전남 순천경찰서장(가운데)이 최근 보이스피싱 피해를 막은 은행원들에게 감사장을 수여하고 기념 사진을 찍고 있다./순천경찰서</media:description>
-        <media:credit role="author" scheme="urn:ebu">순천경찰</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>가해차량 블랙박스 풍문 확산에, 경찰 “사실과 전혀 다르다”</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/02/CXKXJOIS7VGN5NC65JH44H7PCU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/02/CXKXJOIS7VGN5NC65JH44H7PCU/</guid>
-      <dc:creator>서보범 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 02 Jul 2024 11:27:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2QZOMB72B5HBTGPMXNTCDPXMWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중구 시청역 부근에서 대형 교통사고가 발생했다./ 박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시민 9명이 죽고 6명이 다친 지난 1일 서울 시청역 역주행 참사와 관련 2일 가해차량의 블랙박스 내용과 관련한 소문이 일파만파 퍼졌다.&lt;br&gt;&lt;br&gt;해당 차량 블랙박스에 차량 운전자인 차모(68)씨와 조수석에 동승했던 아내 김모씨의 대화 내용이 담겼고 이 대화가 돌진과 이어지는 사고를 유발했다는 식의 내용이다. 이 내용은 소셜미디어와 메신저 등을 타고 2일 내내 마치 사건의 원인인 것처럼 일파만파 퍼졌다.&lt;br&gt;&lt;br&gt;이에 경찰은 2일 오후 6시쯤 공식적으로 이 내용을 부인하는 자료를 냈다. 사건을 수사 중인 서울 남대문경찰서는 “시청 교차로 교통사고 원인에 대해서는 구체적 결론이 나오지 않았으며, 관련 수사가 진행되고 있음을 알려드린다”며 “확인되지 않은 내용의 보도로 사실 왜곡을 불러 일으키지 않도록 유의 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;서울경찰청 고위급 관계자도 “블랙박스 내용은 대중에 공개하기에 부적절하기 때문에 공개하지 않는 것일 뿐 해당 풍문 내용은 사실과 전혀 다르다”며 “공정한 수사를 통해 원인을 철저히 밝혀낼 것”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 경찰은 운전자 차씨를 교통사고처리특례법 위반 혐의로 입건해 수사 중이라고 밝혔다. 지난 1일 밤 사고 직후 음주 측정, 마약 간이 검사에서 음성 판정을 받은 차씨는 본지 통화와 경찰 조사에서 “급발진 때문에 사고가 났다”고 주장했다.&lt;br&gt;&lt;br&gt;하지만 경찰은 “급발진 근거는 현재까지 피의자 진술 뿐”이라며 국립과학수사연구원에 차씨 차량 감식을 의뢰했다. 경찰 관계자는 “EDR(사고 기록 장치)를 보면 차씨가 사고 직전 가속페달을 90% 이상 밟은 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내년에도 최저임금 차등 적용 안 한다</title>
-      <link>https://www.chosun.com/national/labor/2024/07/02/2QBSJKJ4RZCQHFJ5JKQXN2CGW4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/07/02/2QBSJKJ4RZCQHFJ5JKQXN2CGW4/</guid>
-      <dc:creator>김윤주 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 02 Jul 2024 09:23:54 +0000</pubDate>
-      <content:encoded>내년에도 모든 업종에 동일한 금액의 최저임금이 적용된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NHKK4XCJLS7NPINOOI3ICFWMRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 세종시 정부세종청사에서 열린 최저임금위원회 7차 전원회의에서 사용자위원, 근로자 위원들이 최저임금 구분적용 결정을 앞두고 팽팽한 긴장감 속에 회의를 시작하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 최저임금위원회는 세종시 정부세종청사에서 제7차 전원회의를 열고 최저임금의 사업 종류별 구분 여부를 표결에 부쳤으나 부결됐다고 밝혔다.&lt;br&gt;&lt;br&gt;근로자위원 9명, 사용자위원 9명, 공익위원 9명 총 27명이 참여한 표결에서 찬성 11표, 반대 15표, 무효 1표로 부결됐다.&lt;br&gt;&lt;br&gt;앞서 경영계는 음식점, 택시, 편의점에 별도의 최저임금을 적용할 필요가 있다고 주장했다. 지난달 26일 열린 제6차 전원회의에서 사용자위원 측은 한국표준산업분류 기준 한식 음식점업, 외국식 음식점업, 기타 간이 음식점업과 택시 운송업, 체인화 편의점을 최저임금 구분 적용이 필요한 업종으로 제시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>역주행 車, 주차장 나올때부터 90% 속도로 내달렸다</title>
@@ -907,24 +946,6 @@
       </media:content>
     </item>
     <item>
-      <title>“아기 사망 소식에도 방관”...불법 입양 후 숨진 신생아 친모도 구속</title>
-      <link>https://www.chosun.com/national/incident/2024/07/02/4DVMFLA53FFGLJZAFPNEUYRPIQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/02/4DVMFLA53FFGLJZAFPNEUYRPIQ/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 02 Jul 2024 08:40:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L6DJIVDCTVWNXRJ5FFBDZL5GJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구동부경찰서 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경제적 이유 등으로 아기를 불법 입양시키고 아기가 사망했다는 소식을 접했음에도 별다른 조치를 취하지 않은 친모가 구속됐다.&lt;br&gt;&lt;br&gt;대구 동부경찰서는 아동복지법 위반(유기·방임)과 사체 유기 방조 등 혐의로 30대 여성 A씨를 구속했다고 2일 밝혔다. A씨는 지난해 2월 24일 오픈채팅방을 통해 만난 20대 남성 B씨와 30대 여성 C씨에게 생후 1년도 지나지 않은 친딸을 불법 입양한 혐의를 받고 있다. 앞서 대구지법은 A씨에게 “범행이 중대하며 도주 우려가 있다” 등의 이유로 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 B씨 등이 정식 입양 기관 관계자가 아님을 알고 있었음에도 “가정 형편상 키울 수 없다”며 대구에서 출생 신고만 한 뒤 이들에게 딸을 넘겼다. A씨와 B씨 등 사이에 금전 거래는 없었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨의 딸은 신생아 예방 접종 등을 받지 못한 채 입양 약 2주만인 올해 3월 7일 숨졌다. B씨 등은 아기의 시신을 경기도 포천 친척집 인근에 암매장했고, 이 과정에서 A씨에게 연락을 취했다. 하지만 경찰은 A씨가 딸의 사망 소식을 접했음에도 경찰에 신고하거나 별다른 조치를 취하지 않으면서 B씨 측의 암매장 행위를 방조한 것으로 보고 A씨에게 사체 유기 방조 혐의를 A씨에게 추가로 적용했다.&lt;br&gt;&lt;br&gt;이 사건은 대구 동구가 출생 신고된 아기의 정기 예방 접종 기록 등이 확인되지 않자 경찰에 수사를 의뢰하면서 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “오는 3일 중 A씨를 검찰에 송치할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰총장 “검사 탄핵, 이재명이 재판장 맡아 재판하겠다는 것”</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/02/Z3HVMK7YLJE3THWB46QZ4PKDZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/02/Z3HVMK7YLJE3THWB46QZ4PKDZE/</guid>
-      <dc:creator>이슬비 기자, 방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 02 Jul 2024 05:50:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/53OK4UGLAUHCIUA34V7Q4EQ53I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이원석 검찰총장. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이원석 검찰총장이 더불어민주당의 ‘이재명 수사 검사’ 탄핵소추안 발의에 “피고인인 이재명 대표가 재판장을 맡아 재판을 직접 다시 하겠다는 것”이라며 “이 대표를 위한 방탄 탄핵”이라고 비판했다.&lt;br&gt;&lt;br&gt;이 총장은 2일 대검찰청 기자실을 찾아 민주당이 이재명 전 대표 사건을 수사한 검사들에 대해 탄핵소추안을 발의한 것에 대해 정면으로 반박했다. 이 총장은 이번 탄핵을 “방탄 탄핵이자, 위헌 탄핵이며, 위법 탄핵, 사법방해 탄핵, 보복 탄핵”이라며 5가지로 정리해 비판했다. &lt;br&gt;&lt;br&gt;이 총장은 민주당이 ‘이재명 수사 검사’를 탄핵 대상으로 삼은 것에 대해 “피고인인 이 대표가 재판장을 맡고 이재명 대표의 변호인인 민주당 국회의원과 국회 절대 다수당인 민주당이 사법부의 역할을 빼앗아와 재판을 직접 다시 하겠다는 것과 같다”고 했다.&lt;br&gt;&lt;br&gt;민주당은 이날 이 대표의 대북 송금 수사를 담당한 박상용 검사와 대장동·백현동 수사를 맡았던 엄희준·강백신 검사 등 4명에 대한 탄핵 소추안을 발의했다. 이들에 대한 탄핵소추안은 국회 본회의에 보고된 뒤, 국회 법제사법위원회로 회부됐다. 민주당은 국회 법사위에서 해당 검사들을 직접 ‘조사’하겠다는 입장이다.&lt;br&gt;&lt;br&gt;이에 대해 이 총장은 “민주당은 국회로 해당 검사와 사건관계인을 불러내 조사하겠다는 뜻을 공공연히 밝히고 있다”라며 “이는 탄핵소추를 통해 검사들의 직무를 정지시킴으로써 이재명 대표에 대한 수사와 재판을 곤란하게 만드는 사법방해를 넘어, 국회가 사법부의 기능과 역할을 빼앗아 오는 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 총장은 이날 민주당의 검사 탄핵을 두고 “야만” “해외토픽감”이라는 표현도 썼다. 이 총장은 “탄핵 사유도 없이 단지 권력자를 수사했다는 이유만으로 검사 탄핵이 현실화된다면, 우리는 문명사회에서 야만의 나락으로 떨어지는 것”이라고 했다. 또 “이런 위헌적 위법적 탄핵은 다른 법치주의가 확립된 국가에서는 해외 토픽으로 나올 것”이라고 했다.&lt;br&gt;&lt;br&gt;이날 브리핑에는 신자용 대검 차장과 양석조 반부패부장, 이진수 형사부장, 노만석 마약조직범죄부장, 김태은 공공수사부장, 정희도 공판송무부장, 허정 과학수사부장, 전무곤 기획조정부장 등 대검 부장 7명이 배석했다. 이 총장은 “검사들이 만약 탄핵당해서 수사와 재판을 못 하게 된다고 하면, 그러면 제 뒤에 있는 대검 검사들 보내서라도 그 업무에 지장이 없도록 하겠다”라며 “그게 제 의무이자 소명”이라고 했다.&lt;br&gt;&lt;br&gt;이 총장은 노자 도덕경의 ‘천망회회 소이불루(天網恢恢 疎而不漏· 하늘의 그물은 크고도 넓어서 성긴 듯하지만 결코 놓치는 법이 없다’를 인용하면서 “검사를 탄핵한다고 해도 있는 죄가 없어지거나 줄어들지 않는다”며 “검찰은 국회 절대 다수당의 외압에 절대 굴하지 않고, 범죄에 상응하는 처벌이 이뤄지도록 할 것”이라고 했다. 그러면서 “(검찰총장의) 입장 자료는 점심을 물리고 제가 직접 작성했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>별거 후 아내 혼자 번 돈 달라는 남편…이혼 시 재산분할 어떻게 될까</title>
       <link>https://www.chosun.com/national/national_general/2024/07/02/UAAATR3ROJA45FLMQC64PNSU7I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/02/UAAATR3ROJA45FLMQC64PNSU7I/</guid>
@@ -932,24 +953,6 @@
       <description/>
       <pubDate>Tue, 02 Jul 2024 05:55:43 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BFLD6GY4OE4CHAKD4T7XFLAMEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;결혼식 모습(기사와 직접적 관련 없음). /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20년 넘는 결혼 생활 동안 가정에 충실하지 않았던 남편이 재산분할을 요구한다면, 아내는 얼마나 떼어줘야 할까? 이 같은 고민을 하고 있다는 한 여성의 사연이 전해졌다.&lt;br&gt;&lt;br&gt;사연자 A씨는 2일 YTN라디오 ‘조인섭의 변호사 상담소’를 통해 “20년 넘게 이기적인 남편과 살면서 너무 힘들었다”고 토로했다. A씨에 따르면, 남편은 가정에 애정을 보이지 않았고 아이가 생긴 뒤에도 밖으로 돌았다고 한다. 그러다 남편이 해외발령을 받으면서 A씨 부부는 떨어져 지내게 됐다.&lt;br&gt;&lt;br&gt;A씨는 “남편이 자주 한국에 오겠다고 했고, 저도 진행하던 사업이 있기에 동의했다. 그런데 남편은 시간이 지날수록 연락을 뜸하게 하더니 한국에 1년 이상 오지 않기도 했다”고 말했다. 이어 “저와 아이에 대해 관심이 없었고, 양육비도 주다 말기를 반복했다”고 주장했다.&lt;br&gt;&lt;br&gt;그는 “몇 년 간의 해외 발령을 마치고 돌아왔지만 생활방식이 맞지 않아 다툼만 생겼다”고 했다. 그러던 중 A씨는 남편이 어떤 여자와 연인 사이처럼 다정하게 통화하는 걸 들었다고 한다. 이 때문에 두 사람은 크게 싸웠고, 남편이 집을 나가면서 별거하게 됐다고 한다.&lt;br&gt;&lt;br&gt;A씨는 “아이가 있어서 이혼 이야기는 하지 않다. 가족 대소사에도 참여했고, 아이를 위해 생일 때는 남편과 함께 식사를 했고, 해외여행도 몇 차례 갔다”고 했다. 이어 “그런 생활을 6-7년 하는 동안 제 사업은 승승장구해서 많은 수익을 냈다”며 “반면에 남편은 보증을 잘못 서서 피해를 입게 됐는데, 금전적으로 힘들어졌는지 도와달라고 하더라”라고 했다. A씨는 차용증을 쓰고 남편에게 돈을 빌려줬다.&lt;br&gt;&lt;br&gt;남편은 몇 개월 후 A씨에게 “목돈을 달라” “소유한 부동산을 매각해서 사업을 하자” 등의 말을 했다고 한다. A씨는 그 말을 듣고 이혼을 결심했다고 털어놨다.&lt;br&gt;&lt;br&gt;그는 “남편도 동의했는데, 지금 재산 중 반을 내놓으라고 하는 중”이라며 “별거 이후에 취득한 자산들은 모두 제 사업으로 번 것인데, 재산분할대상에서 빠져야 하는 것 아닌가”라고 했다. 그러면서 “제가 남편에게 빌려준 돈을 따로 받을 수 있나? 남편이 별거 이후에 양육비를 안 준 부분에 대해서는 청구할 수 있나?”라며 조언을 구했다.&lt;br&gt;&lt;br&gt;이에 대해 전문가는 “재산분할 시점을 언제로 보느냐에 따라 (금액이) 달라질 수 있다”고 했다.&lt;br&gt;&lt;br&gt;김미루 법무법인 신세계로 변호사는 “재판상 이혼에 따른 재산분할에 있어 분할의 대상이 되는 재산과 그 액수는 이혼소송의 사실심 변론종결일을 기준으로 하여 정하는 것이 원칙”이라면서도 “혼인관계가 파탄된 이후 변론종결일 사이에 생긴 재산관계의 변동에 대해 특별한 사정이 있는 경우 변동된 재산은 재산분할 대상에서 제외한다”고 했다. 즉 원‧피고의 혼인관계가 종국적으로 파탄이 되었다고 보는 시기를 기준으로 재산분할 시점을 산정한다는 것이다.&lt;br&gt;&lt;br&gt;김 변호사는 “사연자의 경우 별거를 하긴 했지만, 완전히 단절된 상태였다고 보기 힘들다”며 “별거 시점으로 재산분할 시점을 정하긴 어렵고 이혼의 소 제기 시점을 기준으로 분할대상을 산정할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “사연자가 별거 이후에 취득한 재산들도 분할대상에 포함된다”면서도 “사연자가 혼인기간 내내 경제활동을 하면서 가사와 양육을 전담하고, 남편이 별거 이후에 제대로 양육비를 지급하지 못하였다는 점 등을 강조한다면 더욱 사연자 분의 기여도가 높아질 수 있다”고 했다.&lt;br&gt;&lt;br&gt;혼인 기간 중 남편에게 빌려준 돈에 대해서는 “내가 남편에게 받을 대여금 채권을 적극재산으로, 상대방이 나에게 줘야 하는 대여금 채무를 상대방 소극재산으로 넣는 것은 타당하지 않다. 하지만 따로 민사로 대여금 소송을 진행할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;또 과거 받지 못한 양육비도 청구할 수 있다고 조언했다. 김 변호사는 “서울가정법원이 공표한 양육비산정기준표와, 원고와 피고의 나이, 직업, 재산상황 등을 고려한 금액을 기준으로 과거 양육비를 청구할 수 있다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>사고 후 서서히 멈추는 車...‘급발진 맞나’ 논란에 전문가 의견은</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/02/KORYEHW4K5AMBFJUQP2LMMQHHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/02/KORYEHW4K5AMBFJUQP2LMMQHHU/</guid>
-      <dc:creator>이가영 기자, 김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 02 Jul 2024 02:09:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IM6L3FYE4RHBRLXBJBLKPI4QOU.gif"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오후 9시 30분쯤 서울 시청역 인근에서 사고를 낸 검은색 제네시스 차량이 연기를 내며 멈추자 주변에 있던 시민들이 놀라 몸을 피하고 있다. /연합뉴스TV&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 13명의 사상자를 낸 서울 시청역 인근 인도 돌진 교통사고 가해 차량 운전자 차모(68)씨가 급발진을 주장했다. 하지만 사고 직후 가해차량이 횡단보도 앞에서 서서히 멈추는 영상이 공개되면서 “급발진이 맞느냐”며 의문을 제기하는 목소리가 나왔다. 전문가 사이에서는 “급발진 가능성은 제로”라는 의견과 “일부 장면만 보고 급발진 여부를 단정 지을 수는 없다”는 신중론으로 나뉘었다.&lt;br&gt;&lt;br&gt;경찰과 소방당국에 따르면 1일 오후 9시 30분쯤 서울 지하철 2호선 시청역 인근 교차로에서 검은색 대형 승용차를 운전하는 차씨가 보행자를 쳐 9명이 사망하고 4명이 다치는 사고가 났다.&lt;br&gt;&lt;br&gt;운전자 차씨는 2일 본지와의 통화에서 “100% 급발진”이라며 “브레이크를 계속 밟았으나 차량이 말을 듣지 않았다”고 했다. 차씨는 “운전을 오래 했고 현직 시내버스 기사”라며 “갑자기 차량이 튀어 나갔다”고 했다.&lt;br&gt;&lt;br&gt;이 사건을 수사 중인 서울 남대문경찰서는 이날 브리핑에서 “사고 원인이 급발진이라는 것은 피의자의 진술뿐”이라며 “정확한 사고 원인을 파악하기 위해 사고 차량을 국립과학수사연구원에 감정의뢰할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇ 사고 직후 서서히 멈춘 가해 차량 영상... 목격자들 “급발진 맞나”&lt;/b&gt;&lt;br&gt;&lt;br&gt;2일 연합뉴스TV에는 사고 직후 상황이 담긴 블랙박스 영상이 공개됐다. 영상 제보자는 “남편이 (현장 인근에서) 유턴 신호를 받고 있었다고 해서 블랙박스를 확인해 봤다”며 “(사고 차량이) 멈춰 서는 장면이 담겨 있어 제보했다”고 말했다.&lt;br&gt;&lt;br&gt;해당 영상에는 사고를 낸 차량이 사고 직후 감속하면서 멈추고, 갑자기 다가오는 차량에 놀란 시민들이 급히 몸을 피하는 장면이 담겼다.&lt;br&gt;&lt;br&gt;이 모습을 본 네티즌들은 일반적인 급발진 의심 사고와는 다른 모습이라고 지적했다. 한 네티즌은 엑스(X)에 “브레이크 밟고 차를 세우는데 급발진?”이라며 의혹을 제기했다. 온라인 커뮤니티에서도 “급발진이라기엔 차가 너무 부드럽게 멈춘다”는 반응이 많았다.&lt;br&gt;&lt;br&gt;사고 현장을 목격한 시민 역시 연합뉴스에 “급발진은 절대 아니었다”며 “급발진을 할 때는 (차량 운행이) 끝날 때까지 박았어야 했는데 횡단보도 앞에서 차량이 멈췄다”고 했다.&lt;br&gt;&lt;br&gt;그동안 급발진으로 의심받는 사고 차량들은 통상 도로 위 가드레일이나 전봇대 같은 구조물과 부딪힌 뒤 속도가 줄어 멈추는 모습을 보였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SDKSNMURMJGHNGX3TYSTEFBHKI.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4월 경남 함안의 한 도로에서 발생한 급발진 의심 사고. /JTBC '한블리'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 4월 경남 함안의 한 도로에서 발생한 급발진 의심 사고 역시 신호대기 중이던 차량이 굉음과 함께 앞차를 밀어내며 폭발적으로 질주하는 모습이 담겼다. 치솟는 속도를 제어하지 못하고 역주행까지 하며 곡예 운전을 하던 차량은 결국 전봇대를 충돌한 후 전복되며 멈췄다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇엇갈리는 전문가 의견… “급발진 가능성 제로” VS “소프트웨어 결함 가능성”&lt;/b&gt;&lt;br&gt;&lt;br&gt;전문가 역시 가해 차량이 서서히 속도를 낮춰 인도에서 멈추는 모습이 일반적인 급발진 사례에서 보인 상황과는 차이가 있다고 했다. 염건웅 유원대 경찰소방행정학 교수는 2일 CBS라디오 ‘김현정의 뉴스쇼’를 통해 “급발진 가능성은 제로에 가깝다”고 했다.&lt;br&gt;&lt;br&gt;염 교수는 “급발진은 급가속이 이뤄진다. 차량이 구조물을 추돌 또는 충돌하지 않는 이상 멈추지 않는다. 보통 급발진 차량들은 차량의 전자장치 이상으로 인해 오히려 가속이 붙는다”며 “차량이 정상화돼서 속도가 줄거나 운전자가 차량을 통제할 수 있는 수준으로 다시 전환되는 경우가 거의 없다”고 했다.&lt;br&gt;&lt;br&gt;이어 “급발진 차주들은 브레이크를 밟아도 브레이크가 딱딱해진다는 이야기를 많이 한다. 브레이크가 밟아지지 않기 때문에 제동할 수 없는 상태가 되는 것”이라며 “결국은 요리조리 차량과 보행자를 피하다 보면 구조물에 받혀서 속도가 멈추게 된다. 받히더라도 차량이 뱅글뱅글 돌거나 전복된다. 속도가 굉장히 빠르기 때문”이라고 했다.&lt;br&gt;&lt;br&gt;염 교수는 “급발진보다는 운전자의 어떤 부주의나 실수, 미숙 등으로 사고 원인이 나올 것으로 예상한다”며 “여러 가능성이 있지만 역주행으로 진입해 당황한 운전자가 브레이크 페달과 가속 페달을 헷갈려서 가속했을 가능성이 있다. 또 동승자와의 다툼으로 인해 역정이 난 운전자가 홧김에 들어가는 사고도 과거 종종 있었기 때문에 그런 가능성도 열어둬야 한다”고 했다.&lt;br&gt;&lt;br&gt;다만, 차량이 멈추는 장면만으로 급발진 여부를 섣불리 판단해서는 안 된다는 신중론도 있다. 2022년 12월 발생한 ‘강릉 급발진 의심 사고’ 피해자 측 변호를 맡은 하종선 변호사(법률사무소 나루)는 2일 조선닷컴에 “차량 소프트웨어 결함이 발생하면 운전자의 의도와 상관없이 가속 명령을 내려 급발진이 발생한다”며 “이러한 소프트웨어 결함을 막는 예방 장치로 차량 시스템을 정기적으로 리셋(reset)하도록 설계되어 있다”고 했다.&lt;br&gt;&lt;br&gt;하 변호사는 “사고 차량이 인도를 들이받은 후 충격에 의해 소프트웨어가 리셋되면서 다시 정상적으로 브레이크 장치 작동이 이뤄졌을 수 있다”며 “정확한 급발진 여부를 판단하기 위해서는 운전자의 잘못으로 페달 오조작이 이뤄졌을 때 차량의 가속도와 사고 당시 차량의 속도 데이터를 비교‧분석해야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GGFB6J6GYXF6UXJRUG4K3YFNRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 서울 중구 시청역 부근에서 한 남성이 몰던 차가 인도로 돌진해 13명의 사상자가 발생했다. 이번 사고로 파손된 차량이 현장에서 견인되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해당 차량은 사고 직전 웨스틴조선호텔을 빠져나와 일방통행인 4차선 도로를 역주행하다가 BMW와 소나타 차량을 차례로 추돌했다. 이후 횡단보도가 있는 인도 쪽으로 돌진해 신호를 기다리던 보행자들을 덮쳤다. 이 차량은 사고 이후에도 100m가량을 더 이동한 뒤에야 건너편에 있던 시청역 12번 출구 앞에서 멈춰 섰다. 역주행한 거리는 모두 200m에 달하는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“이렇게 가면 네 새끼들은 어떡해” 국립중앙의료원도 눈물바다</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/02/6OPKAVRBUVAF7N7YAS2HWYOQWY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/02/6OPKAVRBUVAF7N7YAS2HWYOQWY/</guid>
-      <dc:creator>구아모 기자, 안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 02 Jul 2024 01:19:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GGFB6J6GYXF6UXJRUG4K3YFNRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 밤 서울 중구 시청역 부근에서 한 남성이 몰던 차가 인도로 돌진해 최소 13명의 사상자가 발생했다. 이번 사고로 파손된 차량이 현장에서 견인되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 밤 서울 시청역 인근 교차로에서 벌어진 교통사고로 10여명이 사상(死傷)당하는 참변이 발생했다. 서울시 행정국 청사운영1팀장 김인병(52)씨와 시중은행 직원 이모(54)씨의 시신이 임시 안치된 서울 중구 국립중앙의료원도 2일 새벽부터 유족들의 통곡으로 눈물바다가 됐다.&lt;br&gt;&lt;br&gt;2일 새벽 서울 중구 국립중앙의료원에 시청 공무원 및 김씨의 형들 등 유족들이 망연자실한 표정으로 들어섰다. 이날 만난 김씨의 유족들은 김씨를 “가장 바쁜 부서에서 제일 일찍 출근해서 제일 늦게 퇴근하면서도 집에선 딸 밖에 모르던 따뜻한 가장”이라고 기억했다. 김씨에게는 20대 딸 2명이 있는데, 두 딸을 끔찍이 아끼는 ‘딸 바보’ 아버지였다고 한다. 김씨의 유족은 “김씨가 늘 성실해서 서울 신림에서 7시면 회사로 나가 9~10시까지 회사를 지켰다”고 했다. 김씨가 맡은 직책은 서울시청사를 관리하는 일이었기에 시청 앞에서 대규모 집회가 열릴 때마다 업무량이 몰려 야근이 잦았다고 한다. 유족들은 “이날도 시청에서 퇴근 후 지하철역으로 가다가 참변을 당한 것 같다”고 했다. 2일 오전 10시쯤 이곳을 찾은 김씨의 아내는 울음을 그치지 못했다.&lt;br&gt;&lt;br&gt;안동 출신인 김씨는 9급 말단 세금 공무원에서 시작해, 4급 사무관으로 승진한 입지전적인 인물이었다. 김씨의 큰형은 “동생이 구청에서 말단 세무직 공무원으로 시작, 38세금조사관으로 일하며 실력을 인정 받아 서울시로 전입했다”고 했다. 김씨는 과거 KBS에서 방영한 ‘좋은나라 운동본부’에도 출연했었다. 김씨의 평소 취미는 등산이었다고 한다. 김씨의 큰형은 “일이 힘드니 평소 등산을 하며 힐링을 했다”고 했다.&lt;br&gt;&lt;br&gt;2일 새벽 시중은행 직원 이씨의 가족들도 국립중앙의료원을 찾아 대성통곡했다. 이날 오전 2시 45분쯤 장례식장을 찾은 이씨의 어머니는 “아침에 출근할 때 늘 조심해라 그랬는데 어떻게 하필 왜 거기를 지나가서…”라더니 통곡하며 말을 잊지 못했다. 잠시 후 그는 “어떻게 날 버리고 가니. 우리 어떻게 사니”라며 “오늘 큰 교통사고가 났다고 했을 때만 해도 우리 OO가 당했을 거라고는 생각도 못했는데 아직 창창한 우리 OO를 어찌 데려가느냐”라며 한탄했다. 경기 의정부에 사는 이씨는 최근 팀장으로 승진한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;사고현장 CCTV를 봤다는 이씨 가족들은 참혹한 사고현장에 몸서리치기도 했다. 이씨 유족들은 “교통사고라 해서 남의 일일 줄만 알았는데” “전화를 안 받을 리가 없는 애가 전화를 안받더니”라며 드문드문 말했다. 유족들은 “급발진은 아니라는데” “브레이크가 안 된 거냐”며 사고 원인에 대해 이야기를 나누기도 했다. 이씨 어머니는 지인과 통화에서 “‘(아들이) 오후 10시 30분쯤 집에 올 거예요’ 하더니 그 시간에 가버렸다. 나 어떻게 살아 언니, OO야 네 새끼들은 어떻게 하라고”라며 계속해서 울었다.&lt;br&gt;&lt;br&gt;한편 지난 1일 오후 9시 30분쯤 서울시청 인근 교차로에서 검은색 대형 승용차를 운전하는 68세 남성이 보행자를 쳐 9명이 사망하고 4명이 다치는 사고가 발생했다. 사망자 중에는 서울시 직원과 시중은행 직원 등이 포함된 것으로 전해졌다. 운전자는 ‘급발진 사고’를 주장하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“아닐 수도 있잖아” “아빠 아니라고 해” 시청역 참변에 무너진 유족들</title>
