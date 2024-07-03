@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>법무법인 YK, 공공정책 연구원 개원...초대 원장에 김성수 전 민주당 의원</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/199635.jpg" alt="199635.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.yklawfirm.co.kr/" target="_blank"&gt;&lt;b&gt;법무법인 YK&lt;/b&gt;&lt;/a&gt;(대표 변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="19296"&gt;강경훈&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="19307"&gt;김범한&lt;/span&gt;)가 기업 및 단체의 공공정책 관련 업무를 전략적으로 지원하기 위해 공공정책 연구원을 개원했다.&lt;br /&gt;&lt;br /&gt;법무법인 YK는 지난 2일 서울 강남구 역삼동 YK 강남 주사무소에서 김성수 전 국회의원을 초대 연구원장으로 임명하고 공공정책연구원 개원식을 가졌다. &lt;br /&gt;&lt;br /&gt;YK는 공공정책연구원을 통해 ▲각종 제도 및 정책에 관한 현안 파악 및 분석 ▲국회 입법지원 ▲국회 국정감사·조사, 청문회 등에 대한 자문, 국회 청원 업무 지원 ▲정부 부처의 법령 제·개정 및 각종 규제에 관한 모니터링과 대응 ▲감사원 감사에 대한 자문 ▲새로운 정책·법안·제 등 위기 상황 발생에 따른 이슈 관리 등의 업무를 수행할 예정이다.&lt;br /&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/199635_0.jpg" alt="199635_0.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;김 연구원장은 1984년 MBC에서 기자 생활을 시작해 보도국 정치부장, 보도국 국장, 목포 MBC 사장을 역임했다. 2016년에는 더불어민주당 대변인을 맡은 동시에 비례대표로 국회에 입성했다. 국회 과학기술정보방송통신위원회 민주당 간사를 담당했으며 2020년엔 국무총리 비서실장을 맡았다.&lt;br /&gt;&lt;br /&gt;김 연구원장 외에도 기존 공공정책 업무를 수행해온&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5783"&gt;추원식&lt;/span&gt;(55·사법연수원 26기) 대표변호사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6620"&gt;이인석&lt;/span&gt;(55·27기) 대표변호사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="24048"&gt;김승현&lt;/span&gt;(44·변호사시험 1회) 변호사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="31216"&gt;이상영&lt;/span&gt;(43·2회) 변호사와 각 분야 전문가들이 공공정책 연구원에 힘을 보탠다.&lt;br /&gt;&lt;br /&gt;김 연구원장은 “언론인으로서 30년 간 공적 문제를 다룬 경험과 입법부·행정부에서 일한 경험을 바탕으로 YK 공공정책 연구원에서 우리 사회가 필요로 하는 공공정책 업무의 근간이 될 연구성과를 낼 것”이라고 비전을 밝혔다.&lt;br /&gt;&lt;br /&gt;강경훈 대표변호사는 ”정책 제안, 법률·규제 개선 등 공공정책 분야의 최적의 전문가인 김성수 전 의원을 연구원장으로 하는 공공정책 연구원을 통해 사회적 책임을 높이고 고객들의 핵심 이익을 지켜 사회적 가치를 창출할 수 있도록 노력하겠다”고 전했다.</description>
+			<pubDate>Wed, 03 Jul 2024 02:37:46 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/199635</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199635</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/199635.jpg</media:thumbnail>
+			<dc:creator>안현 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2024년 7월 3일</title>
 			<description>&lt;b&gt;◇ 국회의장&lt;/b&gt;&lt;br /&gt;10:30 국회사회혁신포럼 출범식(의원회관 제5간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 본회의(본회의장)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 국회사무총장 &lt;/b&gt;&lt;br /&gt;14:00 본회의(본회의장)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 본회의 및 상임위원회&lt;/b&gt;&lt;br /&gt;14:00 본회의(본회의장)&lt;br /&gt;&lt;br /&gt;09:20 국방위원회 전체회의(본관 419호)&lt;br /&gt;&lt;br /&gt;13:20 국토교통위원회 전체회의(본관 529호)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 의원실 세미나&lt;/b&gt;&lt;br /&gt;09:30 강훈식 의원실 등, 아동 삶의 질과 지역격차 대응방안 심포지엄(의원회관 제3세미나실)&lt;br /&gt;&lt;br /&gt;10:00 박충권 의원실, 북한 해킹의 실체와 대응 방안 세미나(의원회관 제2세미나실)&lt;br /&gt;&lt;br /&gt;13:30 윤건영 의원실 등, 대통령기록물법 개정전문가 간담회(의원회관 제4간담회의실)&lt;br /&gt;&lt;br /&gt;13:30 이만희 의원실, 지속가능한 농업·농촌을 위한 효율적 농지 제도 개선방안 모색(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;14:00 송옥주 의원실, 화성 갯벌 세계자연유산 등재 정책토론회(의원회관 제3간담회의실)&lt;br /&gt;&lt;br /&gt;18:30 김주영 의원실 등, [노동입법 세미나 3강] 노조할권리 보장 및 노조법 핵심내용(의원회관 306호)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 소통관 기자회견&lt;/b&gt;&lt;br /&gt;09:20 한창민 의원, [사회민주당 초대 대표단 출범 기자회견]&lt;br /&gt;&lt;br /&gt;09:40 정춘생 의원, [정치 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:00 염태영 의원, [청년처 신설의 필요성 제안 및 법안 통과 지지 요구 기자회견]&lt;br /&gt;&lt;br /&gt;10:20 김재원 의원, [법안 발의 기자회견]&lt;br /&gt;&lt;br /&gt;10:40 윤종군 의원, [국가인권위원회법 개정 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 신장식 의원, [금융당국의 OK금융그룹 봐주기감독 규탄 기자회견]&lt;br /&gt;&lt;br /&gt;11:20 김선민 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:40 이광희 의원, [박완희 청주시의원, 더불어민주당 최고위원 출마선언 기자회견]&lt;br /&gt;&lt;br /&gt;13:00 강득구 의원, [정치 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;13:40 이수진 의원, [정의로운 전환 3법 발의 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;&lt;b&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/b&gt;&lt;/span&gt;</description>
 			<pubDate>Tue, 02 Jul 2024 22:30:13 -0000</pubDate>
@@ -231,16 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199603</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/199603.jpg</media:thumbnail>
 			<dc:creator>유지인 기자</dc:creator>
-		</item>
-		<item>
-			<title>검찰, 'KT 고가 매입 의혹' 박성빈 전 스파크 대표 무혐의</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/199597.jpg" alt="199597.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;고(故) 박태준 포스코 명예회장의 아들 박성빈 씨 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;검찰이 KT의 클라우드 기업 스파크앤어소시에이츠(이하 스파크)의 고가 매입 의혹과 관련해 스파크의 지분을 시세보다 고가에 매각했다는 혐의로 수사를 받은 박성빈 전 스파크 대표에 대해 검찰이 무혐의 판단을 내렸다. &lt;br /&gt;&lt;br /&gt;2일 법조계에 따르면 서울중앙지검 공정거래조사부는 박 전 스파크 대표의 배임증재 혐의를 증거 불충분을 이유로 '혐의없음' 처분했다. 스파크는 박 전 대표가 설립한 차량용 소프트웨어 업체다.&lt;br /&gt;&lt;br /&gt;검찰은 박 전 대표가 스파크를 KT에 팔면서 이득을 본 건 맞지만, 구체적으로 배임을 공모하지는 않았다고 보고 무혐의 결정했다.&lt;br /&gt;</description>
-			<pubDate>Tue, 02 Jul 2024 03:42:35 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/199597</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199597</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/199597.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
