@@ -13,6 +13,105 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대검 “탄핵사유, 명백한 허위”…5장 자료로 野주장 일일이 반박 &lt;요약문&gt;</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/03/3TAGGOOMNVBWZNNDCYPCJXUK5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/03/3TAGGOOMNVBWZNNDCYPCJXUK5A/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Jul 2024 12:30:00 +0000</pubDate>
+      <content:encoded>민주당이 지난 2일 박상용·엄희준·강백신·김영철 검사에 대한 탄핵소추안을 발의한 데 대해 대검찰청이 3일 설명자료를 내고 각 검사의 탄핵 이유를 반박했다.&lt;br&gt;&lt;br&gt;대검찰청은 이날 ‘탄핵소추 사유의 부존재 설명자료’라는 제목의 A4 용지 5장 분량 문서를 배포했다. 전날 이원석 검찰총장이 기자회견에서 각 검사들의 탄핵 사유를 반박한 데 이어 대검 차원에서 사실상 공식 설명자료를 추가로 작성해 배포한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CFL45WWIABER35RKDDRMXXRCMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이원석 검찰총장이 2일 서울 서초구 대검찰청 기자실에서 더불어민주당의 '비위 의혹' 검사 4명에 대한 탄핵소추안 제출에 따른 입장 발표를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설명자료에는 강백신 수원지검 차장검사·김영철 서울북부지검 차장검사·박상용 수원지검 부부장검사·엄희준 인천지검 부천지청장이 탄핵당할 이유가 없다는 주장과 근거가 담겼다. 대검은 민주당이 ‘대선 개입 여론 조작’ 수사 당시 위법한 압수 수색을 벌였다는 의혹 등을 문제로 지적한 강 차장검사에 대해서는 “여러 차례에 걸친 법원의 영장실질심사, 외부 전문가들로 구성된 위원회 등을 통해 수사 개시·진행의 적법성이 이미 확인됐다”고 했다.&lt;br&gt;&lt;br&gt;최서원(개명 전 최순실)씨의 조카인 장시호씨에게 법정 증언을 연습시켰다는 등의 의혹 등이 제기된 김 차장검사에 대해서는 “의혹의 당사자로 지목된 사건 관계인(장씨)이 ‘과시를 위해 거짓을 지어냈고 어떤 벌도 달게 받겠다’며 스스로 허위임을 여러 차례 밝힌 바 있다”고 했다.&lt;br&gt;&lt;br&gt;아울러 김 검사가 윤석열 대통령과 배우자 김건희 여사의 뇌물 수수 등 의혹 사건을 봐주기 수사했다는 탄핵 사유에 대해서도 “전세금 명목 뇌물 등 사건들은 사건관계인의 진술과 객관적 증거 등을 충분히 검토했고 고발인조차 종국처분에 이의를 신청하지 않았다”고 했다.&lt;br&gt;&lt;br&gt;한편 ‘쌍방울 불법 대북 송금’ 수사 당시 이화영(전 경기도 평화부지사)씨를 회유했다는 의혹 등을 받은 박 검사에 대해서도 “‘술자리 회유’, 전관 변호사 등을 통한 허위 진술 유도 등 주장은 이미 사실무근임이 밝혀졌다”면서 “이재명 민주당 대표의 피의사실을 공표했다는 주장이나 울산지검 근무 당시 (대변으로) 공용물을 손상했다는 주장은 터무니없는 것으로 사실무근”이라고 반박했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OEPXVEBW4ZAXRBJ7II553VIOOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 전용기(오른쪽부터), 장경태, 민형배, 김용민 의원이 2일 오후 서울 여의도 국회 의안과에서 비위검사 엄희준 탄핵소추안을 제출하고 있다. /이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 엄 검사가 민주당이 한명숙 전 국무총리를 모해하는 위증을 교사했다는 의혹에 대해서는 “한 전 총리는 대법원 판결로 징역 2년 실형이 확정됐고, (뇌물) 공여자도 위증죄로 징역 2년이 확정됐다”고 설명했다.&lt;br&gt;&lt;br&gt;이어 “지난 정부에서 박범계 전 법무부 장관이 수사 지휘권을 발동해 재소자의 모해위증 혐의를 면밀히 다시 검토했으나 역시 불입건 종결됐다”며 “엄 검사의 위증교사, 검찰 지휘부의 수사 방해 사건도 고위공직자범죄수사처와 검찰에서 무혐의 처분했고 재정 신청도 대법원에서 최종 기각됐다”고 덧붙였다.&lt;br&gt;&lt;br&gt;대검은 강 검사와 김 검사, 박 검사의 피의사실 공표 의혹에 대해서도 각각 “피의사실을 공표한 사실이 없다” “명백한 허위”라거나 “터무니없는 허위 사실”이라며 적극 반박했다.&lt;br&gt;&lt;br&gt;다음은 대검 자료 요지.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>65세 이상 면허 완전 박탈? “운수 업계 마비” “신종 노인 혐오”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/03/CBGTRG6YIFFGBHQH7BV2KTFD3Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/03/CBGTRG6YIFFGBHQH7BV2KTFD3Q/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Jul 2024 13:31:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2K42BLEZ6YDDYSDBHW673IIVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 서울시 동작구 도로변에 '어르신 운전면허 반납하고 교통카드 지원 받으세요'라는 현수막이 걸려 있다. 시청역 교통사고로 고령운전자에 대한 논란이 커지는 가운데 서울시는 운전면허증을 자진 반납하는 70세 이상 어르신들에게 '선불형 교통카드' 10만원권을 지급하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;버스 기사 차모(68)씨가 지난 1일 일으킨 서울 시청역 역주행 참사를 두고 ‘고령(高齡) 운전자 자격 논란’이 확산하는 가운데 “단순 나이만 가지고 운전할 권리를 박탈하자는 식의 논의는 신종 노인 혐오”라는 반론이 나온다. 일각에서 ‘65세 이상 면허 완전 박탈’을 주장하는 데 대해서도 “그럼 운전할 사람이 없다”는 지적도 제기된다.&lt;br&gt;&lt;br&gt;서울 노원구에서 법인 택시를 모는 김영춘(68)씨는 “직장 동료 대부분 65세 이상 노인인데, 이들의 운전 면허를 박탈하면 아무도 택시를 운행하지 못해 새로운 ‘택시 대란’이 불거질 것”이라며 “정부에서 시행하는 자격유지검사도 모두 통과해 운전대를 잡아도 문제가 없다”고 했다.&lt;br&gt;&lt;br&gt;한국교통안전공단에 따르면, 2023년 12월 기준 택시 운수 종사자 23만5976명 중 10만7371명(45.5%)이 65세 이상이다. 버스는 13만6478명 중 2만3372명(17.1%)이다. 65세 이상 택시·버스 운수 종사자를 대상으로 하는 자격유지검사 합격률은 2023년 기준 택시 98.6%, 버스 99.0%다. 한국교통안전공단 관계자는 “시야와 주의력 등 7가지 검사를 거쳐 노인의 운전 능력에 문제가 없음을 정부가 인증하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;고령 운전자의 사고 비율은 매년 증가 추세이긴 하다. 도로교통공단에 따르면, 전체 교통사고 중 65세 이상 고령 운전자가 차지하는 비율은 2019년 14.5%에서 2023년 20%까지 증가했다. 이들이 일으킨 사고는 100건 중 1건꼴로 사망자가 발생하는 중대 사고였다.&lt;br&gt;&lt;br&gt;전문가들은 생물학적 나이만으로 일률적으로 운전 자격을 제한하기보단, 장비와 제도 보완으로 고령자의 운전 리스크를 과학적으로 줄여야 한다고 말한다. 65세 이상 인구가 전체 30%인 일본은 지난달부터 신차에 페달 오조작 방지 기능 설치를 의무화하기로 했다. 미국의 일부 주는 고령 운전자의 도로주행시험을 의무화하거나, 운전 능력에 따라 거주지 내에서만 운전이 가능한 ‘제한 면허’ 제도를 운영한다.&lt;br&gt;&lt;br&gt;김필수 대림대 교수(자동차학과)는 “65세 이상 운전자의 면허를 박탈하면 택시와 버스 산업의 유지 자체가 어려워질 것”이라며 “같은 나이라도 노쇠의 정도는 개인차가 크므로, 일정 연령 이상 운전자는 개인의 운전 역량을 측정해 면허를 갱신하는 제도를 확산시킬 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>56세 국가검진 때 무료로 C형 간염 검사</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/07/03/PLIHK77PQ5CZTFVZIX3DPB5HYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/03/PLIHK77PQ5CZTFVZIX3DPB5HYY/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Jul 2024 12:24:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WYMABQOYIDK6IZ6RFJRHTEQU7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 보건소에서 C형간염 검사를 위한 채혈을 하고 있다. 기사내용과 무관한 사진. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년부터 만 56세가 국가건강검진을 받을 때 C형 간염 검사를 함께 받게 된다. 보건복지부는 3일 국가건강검진위원회를 열어 내년부터 국민건강보험을 통해 생애 1회(만 56세) C형 간염 무료 검사를 도입한다고 밝혔다.&lt;br&gt;&lt;br&gt;혈액 등을 통해 감염되는 바이러스 질환인 C형 간염은 B형 간염과 함께 간암의 주요 원인이다. 만성 C형 간염의 30% 정도가 간경변증으로, 이후 간암으로 진행될 수 있다. 간암의 80~90%가 B형 또는 C형 간염 바이러스 감염 상태에서 발생한다. 과거 간암 환자의 1%대였던 C형 간염 간암은 현재 10%대로 올라섰다.&lt;br&gt;&lt;br&gt;B형 간염은 백신이 보급됐지만 C형은 아직 백신이 없다. 다만 일단 발견되면 먹는 항바이러스제를 통해 거의 완치된다.&lt;br&gt;&lt;br&gt;C형 간염은 지난해 7249건이 보고됐는데, 대부분 무증상이어서 지나치기 쉽다. 이에 C형 간염을 조기 발견, 국가 암검진 체계와 연계해 추적 관리하면서 중증 간질환을 줄여보자는 취지다. 현재 B형 간염에 대해서는 40세에 국가 검진 검사가 이뤄지고 있다.&lt;br&gt;&lt;br&gt;한편 현재 54세, 66세 여성에게 실시되는 골다공증 국가검진 검사는 내년부터 60세에도 추가 시행된다. 여성에 대한 총 2회 검사가 3회로 확대되는 것이다.&lt;br&gt;&lt;br&gt;골다공증은 뼈의 강도가 약해져 쉽게 골절되는 질환이다. 전체 환자 118만명(2022년 기준) 가운데 여성이 94.4%에 달한다. 여성 인구의 4.6%에 해당한다. 노화가 주원인이며 여성은 폐경이 이뤄지면서 진행되는 경우가 많다. 치료를 위해 골다공증 진행을 늦추는 약제 복용과 함께 적절한 운동과 스트레칭, 칼슘과 비타민D 섭취 등이 필요하다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 역주행 운전자 아내 “당황해 ‘어 어’ 소리만...부부싸움 말도 안 돼”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/03/NKXRAX6EJ5HH5MHFYONUBGDH6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/03/NKXRAX6EJ5HH5MHFYONUBGDH6Q/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Jul 2024 11:19:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G3DSL4QLO2R2H2KFCAAYU3YD4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 밤 서울 중구 시청역 부근에서 한 남성이 몰던 차가 인도로 돌진해 최소 15명의 사상자가 발생했다. 이번 사고로 파손된 차량이 현장에서 견인되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1일 서울 시청역 역주행 참사와 관련해 가해 차량 운전자인 차모(68)씨 아내 김모(66)씨가 사고 피해자들과 유족들에게 재차 사과하는 한편, 사고 원인이 ‘기계 오작동’이라고 주장했다.&lt;br&gt;&lt;br&gt;김씨는 3일 오후 본지와의 통화에서 “고인들과 유족분들께 다시 한번 죄송하다는 말씀을 드린다”며 입을 열었다.&lt;br&gt;&lt;br&gt;이어 그는 “사고 원인은 기계 오작동이고 저희도 어쩔 수가 없었다”며 “거짓말이 아니고 저희는 진실만 말했다”고 했다.&lt;br&gt;&lt;br&gt;블랙박스 영상을 가지고 있냐는 질문에 김씨는 “영상을 경찰에 제출해 지금 없다”며 “(사고) 당시 너무 당황스러워서 ‘어 어’ 하는 소리만 질렀는데 (블랙박스에) 다 녹음됐을 것”이라고 했다.&lt;br&gt;&lt;br&gt;사고 직전 차량에서 부부싸움 등 갈등이 있었다는 의혹에 대해서는 “말도 안 되는 주장”이라고 반박했다.&lt;br&gt;&lt;br&gt;그는 “남편이 왼쪽 갈비뼈 부근이 아프고 숨이 쉬어지지 않는다고 해 말을 잘 못하는 상황”이라며 “누구를 만나고 그럴 수 있는 상황이 아니라 보험사 직원이고 기자고 만남을 다 거절했다”고 했다. 이어 “병원이라 오래 통화하기 어렵다”며 서둘러 전화를 끊었다.&lt;br&gt;&lt;br&gt;사고 당일 가해 승용차를 몰았던 차씨는 현재 갈비뼈 골절상을 입고 서울대병원에 입원해 치료를 받고 있다. 경찰은 피의자 조사를 진행하기 위해 3일 오전 차씨가 입원한 병원의 담당 의사와 면담하고 소견을 듣는 등 차씨의 건강 상태를 확인했으나, 조사를 진행하지 못했다.&lt;br&gt;&lt;br&gt;이날 차씨의 자동차보험회사 측 관계자가 사고 조사를 위해 병원을 방문했지만, 차씨가 면회를 거절해 발길을 돌리는 일도 있었다.&lt;br&gt;&lt;br&gt;앞서 경찰은 전날인 2일 차씨 아내 김씨를 참고인 신분으로 불러 조사했다. 서울 남대문경찰서에 따르면 그는 “(사고 당시) 브레이크가 말을 듣지 않았다”고 진술했다. 경찰 관계자는 “진술로 미루어 볼 때 동승자(아내) 역시 남편처럼 급발진이라고 생각하고 있는 것으로 판단했다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “피의자의 몸 상태가 호전되면, 최대한 빠른 시일 내 조사를 진행할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“왜 여기 계세요?” 휴잭맨, 라이언 레이놀즈 고척돔서 포착</title>
+      <link>https://www.chosun.com/national/people/2024/07/03/E2T4TWWBVJDZBLCAVKMWT4ZJMY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/07/03/E2T4TWWBVJDZBLCAVKMWT4ZJMY/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Jul 2024 12:12:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JPTRAMOXUVM6NHWYSRYUCU7GMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 서울 구로구 고척스카이돔에서 열린 2024 KBO리그 LG 트윈스 대 키움 히어로즈의 경기, 영화 '데드풀과 울버린'의 휴 잭맨(왼쪽부터), 라이언 레이놀즈, 숀 레비 감독이 경기 관람을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영화 ‘데드풀과 울버린’ 홍보차 한국을 찾은 주연 배우 라이언 레이놀즈와 휴 잭맨, 숀레비 감독이 내한 첫 비공식 일정으로 KBO 리그 경기를 관람했다.&lt;br&gt;&lt;br&gt;3일 엑스(트위터)에는 이날 서울 구로구 고척스카이돔에서 열린 2024 KBO리그 LG 트윈스 대 키움 히어로즈의 경기 중계방송 중 관중석에서 세사람의 모습이 포착된 장면이 올라왔다. 영상에서 바지와 반팔티 등 편안한 차림을 한 이들은 자신들을 찍는 카메라를 의식하듯 손짓했으며 셋이 함께 경기장을 배경으로 셀카를 찍었다. 중계진은 “갑자기 놀라신 분 많으실 거다. 숀레비 감독과 라이언 레이놀즈, 휴 잭맨대배우들이 근처에 위치하고 있다”며 “영화 홍보 겸 (내한해) 야구장을 찾아주셨다”고 했다.&lt;br&gt;&lt;br&gt;언론에 포착된 사진에서도 이들은 집중해서 경기를 보거나, 즐겁게 박수를 치며 경기를 즐겼다. 신난 휴 잭맨은 승리의 V포즈를 취했고, 라이언 레이놀즈는 팬들에게 반갑게 인사하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VJGMMXOUHRJKPMCW6MLGNJCCWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 서울 구로구 고척스카이돔에서 열린 2024 KBO리그 LG 트윈스 대 키움 히어로즈의 경기, 영화 '데드풀과 울버린'의 휴 잭맨(왼쪽부터), 라이언 레이놀즈, 숀 레비 감독이 경기 관람을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들은 이날 오후 서울 김포 비즈니스 항공센터를 통해 내한했다. 전세기를 타고 온 세 사람은 오후 6시가 넘어서 김포공항에 도착, 당초 예정된 시간보다 늦게 비행기에서 내렸다. 전세기가 다소 지연되면서 경기에 불참할 뻔했지만, 뒤늦게라도 야구를 보기 위해 김포에 도착하자마자 고척돔을 향했다고 한다. 이들은 야구장을 방문한 뒤 휴식을 취할 예정이며, 오는 4일 오전부터 공식 일정에 돌입한다.&lt;br&gt;&lt;br&gt;영화 ‘데드풀과 울버린’ 배우와 제작진은 4일 오전 10시 포시즌스 호텔 서울 3층 그랜드볼룸에서 열리는 내한 기자간담회에 참석하며, 같은 날 오후 7시에는 서울 장충체육관에서 진행될 레드카펫에도 함께할 예정이다.&lt;br&gt;&lt;br&gt;‘데드풀과 울버린’은 히어로 생활에서 은퇴한 후, 평범한 중고차 딜러로 살아가던 데드풀이 예상치 못한 거대한 위기를 맞아 모든 면에서 상극인 울버린을 찾아가게 되며 펼쳐지는 액션 블록버스터 영화로 ‘데드풀’의 MCU(마블 시네마틱 유니버스) 공식 합류작이다. 오는 24일 개봉한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>갓난아기 밟아 살해한 20대 여성 구속</title>
+      <link>https://www.chosun.com/national/incident/2024/07/03/6CWX7HJTCVCDHPE7G5JG4B24HA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/03/6CWX7HJTCVCDHPE7G5JG4B24HA/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Jul 2024 11:55:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FYOXMLU654Z4HNTIEQZHUW7FME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 충주경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 낳은 아기의 얼굴을 밟아 숨지게 한 20대 친모가 구속됐다.&lt;br&gt;&lt;br&gt;충북 충주경찰서는 살인 혐의로 A씨를 구속했다고 3일 밝혔다. A씨는 지난 6월 5일 충주시 연수동의 한 아파트에서 홀로 아기를 출산한 뒤 이 아기가 울자 발로 얼굴을 눌러 숨지게 한 혐의를 받고 있다. 전날 청주지법 충주지원은 “범죄가 중대하며 도주 우려가 있다”며 A씨에게 구속 영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 지인에게 전화를 걸어 “아기를 낳았는데 숨을 쉬지 않는다”고 했으나, 이를 수상히 여긴 지인이 경찰에 신고했다. 경찰과 소방당국이 현장에 도착했을 때 아기는 탯줄이 붙은 채 숨져 있었다. 부검 결과 국립과학수사연구원은 “아기가 스스로 호흡하고 있었으나, 살아있을 당시 가해진 외력에 의해 숨졌다”는 1차 구두소견을 경찰에 전달했다. 임신 사실을 숨기고 있던 A씨는 아기 울음소리가 새어나가면 임신 사실을 들킬까봐 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 세부 조사가 모두 끝나는 대로 사건을 검찰에 송치할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘만취해 159㎞로 사망사고’…경찰, 포르셰 운전자에 구속영장</title>
+      <link>https://www.chosun.com/national/incident/2024/07/01/COHMBDPXSZG5JG6HIZIK2P5OSU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/01/COHMBDPXSZG5JG6HIZIK2P5OSU/</guid>
+      <dc:creator>전주=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 01 Jul 2024 10:28:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OIODXHI2ONGSVH4BOV7KRPRJKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 포르셰 차량과 충돌해 전복된 스파크 차량. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 전주덕진경찰서는 만취한 상태에서 과속으로 운전을 하다 사고를 내 1명을 숨지게 한 혐의(교통사고처리특례법상 치사 등)로 50대 A씨에 대해 구속영장을 신청했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 27일 0시 45분쯤 전주시 덕진구 여의동 호남제일문 사거리에서 술을 마시고 자신의 포르셰 차량을 몰다가 스파크 차량과 부딪혔다. 이 사고로 스파크 차량 운전자 B(19)씨가 숨졌고, 동승자(19)는 크게 다쳐 병원에서 치료받고 있다. A씨는 경상을 입은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;조사결과 A씨는 포르셰 차량을 시속 159㎞로 몰다가 맞은편에서 좌회전하던 스파크를 들이받은 것으로 조사됐다. 사고 당시 A씨는 면허취소 기준인 혈중알코올농도 0.08％ 이상의 만취 상태였다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] ‘민노총 탈퇴 강요’ SPC 황재복 대표, 법원에 보석 신청</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/03/M3562U36VRBGLL6FKPVJTMM7DA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/03/M3562U36VRBGLL6FKPVJTMM7DA/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Jul 2024 11:12:12 +0000</pubDate>
+      <content:encoded>파리바게뜨 제빵 기사들에게 민노총 탈퇴를 강요한 혐의로 구속 기소된 황재복(63) SPC 대표가 법원에 보석(保釋)을 신청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ESAFIIWNQTZME3FGXCZRLAX2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;황재복 SPC 대표. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 법조계에 따르면 서울중앙지법 형사32부(재판장 조승우)는 지난달 24일 황 대표 측이 낸 보석 신청서를 접수했다. 황 대표의 보석 심문 기일은 오는 4일로 잡혔다. 지난 3월 구속된 황 대표는 건강상의 이유로 보석 신청을 한 것으로 알려졌다. 법원은 통상 증거 인멸 우려가 없을 때 보석을 허가한다.&lt;br&gt;&lt;br&gt;황 대표는 허영인 SPC 회장 등과 함께 민노총 화섬노조 파리바게뜨 지회 소속 제빵기사들이 사측에 비판적인 입장을 보이자 2021년 2월~2022년 7월 해당 지회 소속 제빵기사 570여 명에게 “민노총을 탈퇴하고 한노총에 가입하라”고 강요한 혐의(노동조합 및 노동관계조정법 위반)를 받고 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;지난달 18일 열린 첫 재판에서 허 회장 측 변호인은 “민노총 조합이 불법 시위를 이어가며 회사의 이미지를 폄훼하자, 회사가 제빵기사들에게 민노총을 탈퇴하고 한노총 조합에 가입하라고 권유한 정도”라며 “민노총을 탈퇴하지 않으면 불이익을 주는 등 불법적 수단을 동원한 건 아니다”라며 탈퇴 종용 혐의를 부인했다.&lt;br&gt;&lt;br&gt;황 대표 측 변호인은 “SPC의 미래를 위해서 범행에 관여한 당사자들이 처벌을 받고 노사 관행을 바로잡는 게 올바르다고 생각해 사실을 밝히고 책임을 질 것”이라며 혐의에 대해 대체로 인정한다는 취지로 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>북부지검 부장검사단, '검사 탄핵' 野 향해 "형사사법 근본 훼손"</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/03/UIFLN4LWZJHZDDYQTBZBWS23CQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/03/UIFLN4LWZJHZDDYQTBZBWS23CQ/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Jul 2024 11:28:37 +0000</pubDate>
+      <content:encoded>민주당이 당론으로 발의한 ‘수사검사 탄핵’과 관련해, 서울북부지검 부장검사들이 단체로 반발하는 성명을 3일 냈다. 북부지검은 탄핵안이 발의된 네 명의 검사 중 김영철 검사가 차장검사로 근무하는 곳이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SM3LKXN5ZHVSJAZRGCYCO3OE2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울북부지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 북부지검 부장검사단은 이날 검찰 내부망에 ‘검사 탄핵소추안 발의에 관한 서울북부지검 인권보호관 및 부장검사들의 입장’이란 제목의 게시글을 올렸다. 이들은 “맡은 바 업무를 수행했다는 이유만으로 탄핵소추의 대상으로 삼아 직무를 정지시킨다면, 검사들은 권력자의 입김에서 벗어나 오직 법과 원칙에 따라 사건을 수사한다는 신념을 온전히 지키기 어렵게 된다”고 했다. 이어 “이는 결국 우리 사회와 국민에게 해를 끼치는 일”이라고 말했다.&lt;br&gt;&lt;br&gt;부장검사단은 민주당의 검사 탄핵 추진을 “공정한 수사와 재판이라는 형사사법제도의 근본을 훼손하는 것”이라며 “대한민국 국민이 일궈 온 법치주의와 민주주의를 뿌리째 흔드는 일이므로 즉각 거두어들여야 한다”고 했다.&lt;br&gt;&lt;br&gt;또 이들은 “우리 헌법이 국회에 탄핵소추권을 부여한 이유는 고위공직자의 중대한 헌법침해로부터 헌법을 수호하고 유지하기 위한 최후의 보루 역할을 기대했기 때문”이라며 “아무런 제한도 없이 행사하라는 뜻은 아닐 것으로 믿는다”고 했다.&lt;br&gt;&lt;br&gt;앞서 민주당은 지난 2일 박상용·엄희준·강백신·김영철 검사에 대한 탄핵소추안을 발의했다. 이에 현직 검사장을 포함한 검사 200여 명이 “야만적 사태” “광기어린 무도함”이라며 반발하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>신윤복의 ‘미인도’…대구간송미술관 개관전서 선보인다 </title>
+      <link>https://www.chosun.com/national/regional/2024/07/03/3FXNB6NXJ5HVTLMTCAHYFHT64M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/03/3FXNB6NXJ5HVTLMTCAHYFHT64M/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Jul 2024 10:41:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CRTXLEODV5BZZKKU3ZUSVO2JEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 무진동 차량을 이용해 대구간송미술관에 도착한 유물들을 관계자들이 내리고 있다. /대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오늘 9월로 예정된 대구간송미술관 개관전에서 훈민정음 해례본(국보 70호)과 신윤복의 ‘미인도(보물 1973호)가 전시된다. 개관전은 오는 9월 3일부터 12월 1일까지로 예정돼 있다.&lt;br&gt;&lt;br&gt;3일 대구시에 따르면, 지난 2일 대구간송미술관 개관전에서 선보일 국보·보물 등 국가문화유산 98점이 서울 성북구 간송미술관에서 대구간송미술관으로 이송됐다.&lt;br&gt;&lt;br&gt;국보와 보물 등 전시 출품 예정 유물들은 서울경찰청, 고속도로 순찰대, 대구경찰청 등의 호송 협조로 안전하게 이송됐다. 미술관에서 보존 처리 과정 및 전시 준비 작업을 거친 후 오는 9월 관람객에게 공개될 예정이다.&lt;br&gt;&lt;br&gt;이번 이송은 1938년 간송미술관 설립 이래 최대 규모로 ‘훈민정음 해례본(국보 70호)’, ‘청자상감운학문매병(국보 68호)’, 신윤복 ‘미인도(보물 1973호)’등의 국보급 문화유산이 포함돼 있다&lt;br&gt;&lt;br&gt;홍준표 대구시장은 “국내 최고 수준의 문화유산 전시를 통해 대구간송미술관이 세계적인 문화 랜드마크가 될 수 있도록 노력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NTI5HGXGCFD6RAO3CGHAZSDFZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구 간송미술관 전경./대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 대구간송미술관은 연면적 8003㎡에 지하1층·지상3층 규모로, 6개의 전시 공간을 갖추고 있으며 올해 4월 준공됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김호중 ‘호화 전관’ 조남관 변호사, 재판 일주일 앞두고 손 뗐다</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/03/JNONEIBZA5CDBPBY36YHD2JOTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/03/JNONEIBZA5CDBPBY36YHD2JOTU/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Jul 2024 10:17:59 +0000</pubDate>
+      <content:encoded>‘음주 뺑소니’ 혐의로 기소된 트로트 가수 김호중(33)씨를 변호하던 조남관 변호사(59)가 첫 재판을 일주일 앞두고 사임했다. 김씨는 전직 검찰총장 직무대행 출신인 조 변호사를 선임해 ‘호화 전관(前官)’을 끼고 여론전에 나섰다는 비판을 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FCNC26TBNZH5FJ6IDHJWG2RHYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주 뺑소니 등 혐의로 구속된 트로트 가수 김호중씨가 지난 5월 24일 오전 구속영장 실질심사를 받기 위해 서울 서초구 서울중앙지법에 도착했다. 김씨의 변호를 맡고 있는 조남관(왼쪽) 변호사가 몰려드는 기자들에게 비켜 달라는 듯 손짓을 하고 있다. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조 변호사는 3일 김씨의 사건을 심리하는 서울중앙지법에 사임서를 제출했다. 김씨가 경찰 조사를 받던 지난 5월부터 변호를 맡아왔던 조 변호사는 검찰 수사 단계까지만 김씨를 변호하기로 합의해, 재판 시작 전 사임한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;조 변호사는 제34회 사법시험 합격 후 27년간 검사로 활동했다. 노무현 청와대 사정비서관실 행정관, 문재인 정부 국가정보원 감찰실장을 지냈다. 2020년 윤석열 당시 검찰총장이 직무 정지되자 총장 직무대행을 맡기도 했다. 조 변호사는 2022년 4월 법무연수원장을 끝으로 검찰을 떠났다.&lt;br&gt;&lt;br&gt;앞서 김씨는 지난 5월 9일 오후 11시40분쯤 서울 강남구 압구정동에서 술에 취해 차를 몰다가 반대편 도로의 택시를 들이받고 도주한 혐의를 받는다. 김씨는 사고 17시간 만에 경찰에 출석했고 음주 측정에서 음성(혈중알코올농도 0.03% 미만)이 나왔다. 이후 김씨는 음주운전을 부인하다가, 범행 열흘 만인 5월 19일 음주운전 사실을 인정했다.&lt;br&gt;&lt;br&gt;김씨는 지난달 18일 특정범죄가중처벌법상 위험운전치상·도주치상, 도로교통법상 사고후 미조치, 범인도피방조 등 혐의로 구속 기소됐다. 경찰은 김씨의 운전 당시 혈중알코올농도를 유추하기 위해 ‘위드마크(Widmark) 공식’을 사용했으나, 정확한 음주 수치를 특정하지 못해 음주운전 혐의는 적용되지 않았다.&lt;br&gt;&lt;br&gt;김씨의 첫 공판은 오는 10일 오후 2시 30분 서울중앙지법에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>박상용 검사, “‘대변 루머’는 허위사실.. 사과  않으면 고소할 것” </title>
       <link>https://www.chosun.com/national/court_law/2024/07/03/TQV2WXI55RATJCOIV4MF7XW6FM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/03/TQV2WXI55RATJCOIV4MF7XW6FM/</guid>
@@ -750,74 +849,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PPKUXW6WFNDEJKXG5QJM5AHTS4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[두근두근 뇌 운동] [2412] 따르릉 글자교환소</title>
-      <link>https://www.chosun.com/national/nie/2024/07/03/2IF2VRHEDRCMFJGPKS3BHI6WXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/03/2IF2VRHEDRCMFJGPKS3BHI6WXQ/</guid>
-      <description/>
-      <pubDate>Tue, 02 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L726PIY5XZEAXLXX4S3AMSTLYM.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 박수용씨 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/07/03/M35EBG4WHNFN3BATMK4ZXRTHEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/07/03/M35EBG4WHNFN3BATMK4ZXRTHEY/</guid>
-      <description/>
-      <pubDate>Tue, 02 Jul 2024 15:35:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;박수용&lt;/b&gt; 별세, &lt;b&gt;김영희&lt;/b&gt; 모친상, &lt;b&gt;장용준&lt;/b&gt; 한국금융경제신문 편집국장 장모상=2일1시 경희의료원, 발인 4일8시30분, (02)958-9551&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이유&lt;/b&gt; 별세, &lt;b&gt;이종천&lt;/b&gt; 케이포렌식컴퍼니 대표 부친상=2일8시5분 건국대병원, 발인 4일9시, (02)2030-7901&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>편집기자협회 60주년 특별전</title>
-      <link>https://www.chosun.com/national/people/2024/07/03/YADPVOUITBD5VH4R6FQZZBNGAU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/07/03/YADPVOUITBD5VH4R6FQZZBNGAU/</guid>
-      <description/>
-      <pubDate>Tue, 02 Jul 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CHBSQSXOYBFPXH4V64JVCUV2LE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국편집기자협회 김창환 회장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국편집기자협회와 종로문화재단은 2일 서울 종로구 광화문광장 놀이마당에서 한국편집기자협회 창립 60주년 ‘언론의 지평’ 특별전 개막식을 열었다. 전시는 5일까지. 한국 편집기자의 60년 발자취를 볼 수 있는 한국 편집상 수상 지면과 53개 회원사 대표작 등을 선보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘3·1문화상’ 수상 후보 모집 공고</title>
-      <link>https://www.chosun.com/national/people/2024/07/03/BNSGOT2NMZGZVJFJM2MYN6X6TQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/07/03/BNSGOT2NMZGZVJFJM2MYN6X6TQ/</guid>
-      <dc:creator>윤수정 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 02 Jul 2024 15:35:00 +0000</pubDate>
-      <content:encoded>3·1문화재단(이사장 김기영)은 ‘제66회 3·1문화상’ 후보자를 9월 10일까지 모집한다고 1일 밝혔다. 내년 1월 중순에 수상자를 발표하고, 3월 1일에 시상식을 개최한다.&lt;br&gt;&lt;br&gt;3·1문화상은 우리나라 민간 재단이 창설한 최초의 학술문화상이다. 3·1정신을 이어받아 조국의 문화 향상과 산업 발전을 권장하기 위해 대한양회공업주식회사가 1959년 창설했고, 1960년 3월 1일 첫 시상식을 열었다. 이후 매년 3·1절에 맞춰 시상식을 개최해 왔다. 수상 부문은 자연과학 및 인문사회과학 학술상, 예술상, 기술·공학상, 비정기적으로 수여하는 특별상이 있다. 부문별 수상자에게는 상금 1억원과 상패가 주어진다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>故 김선혁·이타가키 류타 ‘백봉 한반도 문화상’ 수상</title>
-      <link>https://www.chosun.com/national/people/2024/07/03/E4SA73UA5FBZJPFMOIDN5GIMA4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/07/03/E4SA73UA5FBZJPFMOIDN5GIMA4/</guid>
-      <dc:creator>김광진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 02 Jul 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4E3YT7CGEBCULAR7Y74FYALWTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'평양에서 서울까지 47년'(1996)의 저자 고(故) 김선혁&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OABXXFTZ4VAMZDKHXNFFTP53AE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'북으로 간 언어학자 김수경'(2021/2024)의 저자 이타가키 류타 교수.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사단법인 백봉정치문화교육연구원은 제1회 백봉 한반도 문화상 공동 수상자로 ‘평양에서 서울까지 47년’(1996)의 저자 고(故) 김선혁과 ‘북으로 간 언어학자 김수경’(2021/2024)을 저술한 이타가키 류타 교수를 선정했다고 2일 밝혔다. 시상식은 오는 19일 오후 3시 30분 서울 중구 서울클럽 지리산룸에서 열린다.&lt;br&gt;&lt;br&gt;‘평양에서 서울까지 47년’과 ‘북으로 간 언어학자 김수경’은 분단이 야기한 이산가족들의 아픔이 이산에 그치지 않고, 재회했어도 다시 헤어질 수밖에 없는 현실이 있음을 기록한 작품들이다. 잊혀가는 옛 전쟁이 아니라, 전쟁이 초래한 ‘인륜과 인도주의의 대참사’가 재현되었다는 점에 주목했다.&lt;br&gt;&lt;br&gt;‘평양에서 서울까지 47년’은 평양에서 신탁통치 반대 운동에 동조해 강제노역을 선고받고 시베리아 강제 노동수용소와 이국을 떠돌게 되었던 김선혁의 수기이다. 1946년 17세였던 김선혁이 1993년 한·소 수교 후 러시아의 한 지방에서 반백의 노인으로 되어, 마침내 서울에서 가족들과 재회하기까지를 보여준다.&lt;br&gt;&lt;br&gt;‘북으로 간 언어학자 김수경’은 일본에서 출간된 언어학자 김수경(1918~2000)에 대한 평전으로 올해 한국에서 번역 출간됐다. 김수경의 삶과 언어학자로서의 성취를 정밀하게 복원하고 분단으로 이산하게 된 가족들이 김수경과 재회하기까지의 여정, 저자 이타가키 류타가 만난 김수경과 집필 과정을 담았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 환경부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/07/03/YLJWVSX5BBADFMK3SE2HNWLL2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/07/03/YLJWVSX5BBADFMK3SE2HNWLL2Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 02 Jul 2024 15:35:05 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;환경부&lt;/b&gt;▷대기환경정책관 오일영&lt;br&gt;&lt;br&gt;▲&lt;b&gt;고려대&lt;/b&gt;▷공과대학장 겸 공학대학원장 겸 테크노콤플렉스원장 장길수▷기술경영전문대학원장 조훈희▷학부대학장 이상진▷스마트모빌리티학부장 박신석&lt;br&gt;&lt;br&gt;▲&lt;b&gt;뉴스핌&lt;/b&gt;▷런던특파원 장일현&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 7월 3일</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/03/MPPTDFCDU5ERXI4SSR2KP6YVPQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/03/MPPTDFCDU5ERXI4SSR2KP6YVPQ/</guid>
-      <description/>
-      <pubDate>Tue, 02 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NZ5DJJRDWBGQDNLPFRKHKTEFJI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>의대생들 “의협 회장 막말 부끄럽다”</title>
-      <link>https://www.chosun.com/national/education/2024/07/03/CRX2DIOJ2FDK7NSYZLT4RDTCCU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/07/03/CRX2DIOJ2FDK7NSYZLT4RDTCCU/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 02 Jul 2024 16:35:05 +0000</pubDate>
-      <content:encoded>의대생 단체가 임현택 대한의사협회(의협) 회장에 대해 “의료계 지위를 실추시키고 학생들 목소리를 훼손했다”고 비판했다.&lt;br&gt;&lt;br&gt;대한의과대학·의학전문대학원학생협의회(의대협)는 2일 배포한 자료에서 “의협 회장이라는 무거운 자리에 있음에도 ‘표현의 자유’라며 부적절한 공적 발화를 일삼고 있다”며 “연이은 막말 때문에 의료계 이미지가 실추됐다”고 밝혔다. 그러면서 “무능, 독단의 의협 회장은 의료계를 멋대로 대표하려 하지 마라”고 했다. ‘의대 증원’으로 의정 갈등이 빚어진 지 다섯 달 만에 의대생 단체가 의협 회장에 대해 입장을 낸 것은 처음이다.&lt;br&gt;&lt;br&gt;지난 3월 의협 회장에 당선된 임 회장은 그동안 거친 언행으로 수차례 구설에 올랐다. 지난 5월 정부가 외국 의사 도입 방침을 내놓자 소셜미디어에 소말리아의 한 의대 졸업생들 사진을 올리고 ‘커밍 순(Coming soon)’이라고 했다가 인종차별이란 비판을 받았다. 지난달 전국 아동병원이 “아픈 아이들이 오갈 데가 없다”며 의협 주도의 집단 휴진에 불참 의사를 밝히자, 소셜미디어에 “멀쩡한 애 입원시키는 사람들”이라고 했다.&lt;br&gt;&lt;br&gt;지난달 26일 열린 국회 청문회에서 강선우 민주당 의원은 임 회장에게 그간 막말 행태를 지적하며 사과하라고 요구했다. 그러자 임 회장은 “표현의 자유”라고 반박했다. 이를 지켜본 의대생들이 더는 참지 못하고 이날 공개 비판한 것이다.&lt;br&gt;&lt;br&gt;의대협은 임 회장이 의대생 목소리를 무시하고 있다고도 주장했다. 의대협이 의대 증원 전면 백지화 등 ‘8대 대정부 요구안’을 제시했는데도 이를 무시한다는 것이다. 의대협은 “의협은 범의료계 협의체 구성부터 학생들을 철저히 배제했다”며 “앞으로 임 회장의 독단적 행보를 수용할 일은 없을 것”이라고 했다.&lt;br&gt;&lt;br&gt;의대 증원에 반대해 학교를 떠난 의대생들이 다섯 달째 돌아오지 않으며 의학교육학계에서도 “의대생 집단 유급이 현실화할 것”이라는 얘기가 나오고 있다. 권복규 이화여대 의대 의학교육학교실 교수(한국의학교육학회 이사)는 이날 오전 열린 한 강연에서 “이번 달이라도 의대생이 돌아오는 게 가장 희망적이지만, 현실적으로 이미 늦었다”며 “나머지 반년간 주말과 야간을 동원해 수업을 들어도 1년의 수업을 물리적으로 따라갈 수 없기 때문”이라고 했다.&lt;br&gt;&lt;br&gt;이어 정부가 의대생 복귀를 위해 미이수(F) 학점을 받은 의대생도 유급하지 않는 등 방안을 밝힌 것에 대해 “세계의학교육연합회(WFME)가 지켜보고 있는데 한국 의사들이 국제적으로 신뢰받을 수 있겠느냐”며 “있을 수 없는 일”이라고 했다. 권 교수는 9월 예정된 의사 국가시험에 대해서도 “4학년 중 준비된 학생이 거의 없어 파행으로 갈 수밖에 없을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“전공의 복귀하면 수련 허용하고 전문의 자격 취득 영향 최소화”</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/07/03/6V6FYFYNHNCS7K4IOCIMWKU4ZE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/03/6V6FYFYNHNCS7K4IOCIMWKU4ZE/</guid>
@@ -872,28 +903,6 @@
       <content:encoded>‘쌍방울 불법 대북 송금 사건’으로 수원지법에 기소된 이재명 전 더불어민주당 대표가 이 사건을 서울중앙지법에서 1년 넘게 진행 중인 ‘대장동 사건’에 병합해 달라고 요청했다.&lt;br&gt;&lt;br&gt;이 전 대표 측은 지난 1일 대법원에 ‘토지관할 병합 심리’ 신청서를 제출했다. 형사소송법에는 토지관할이 다른 여러 사건이 각각 다른 법원에서 열릴 경우, 상급법원 결정으로 한 법원에서 사건을 병합할 수 있도록 돼 있다. 이번 병합 신청은 수원지법과 서울중앙지법의 상급법원인 대법원이 병합할지를 결정한다.&lt;br&gt;&lt;br&gt;법조계에선 “이 전 대표 측이 이화영 전 경기도 평화부지사에게 중형을 선고한 재판부를 피하기 위해 병합을 요청했을 것” “재판을 지연시키려는 전략으로 보인다” 등 여러 해석이 나왔다. 수원지법은 지난달 이 전 대표의 대북 송금 사건을 형사11부(재판장 신진우)에 배당했다. 신 부장판사는 이화영씨 사건을 20개월간 심리한 뒤 지난달 이씨에게 징역 9년 6개월의 중형을 선고했다.&lt;br&gt;&lt;br&gt;대법원이 이 전 대표 측의 병합 신청을 받아들일 경우, 재판은 더 지연될 것으로 보인다. 이미 서울중앙지법에서는 대장동·위례신도시·백현동 개발 비리 및 성남FC 불법 후원금 사건이 병합돼 진행 중이다. 증거 기록만 20만쪽이 넘고, 1심에만 수년이 걸릴 것으로 예상되고 있다. 여기에 대북 송금 사건까지 합쳐지면 1심 결론은 더 늦어질 수밖에 없다는 게 법조계의 전망이다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “대장동 사건은 성남시장 시절 범행에 관한 것이고, 대북 송금 사건은 경기도지사 시절 일이어서 재판이 별도로 진행돼야 한다”며 “수원지법이 대북 송금 사건으로 이화영씨와 김성태 전 쌍방울 회장 등의 재판을 진행하고 있는 만큼 이 대표 재판도 수원에서 하는 게 맞는다”고 했다.&lt;br&gt;&lt;br&gt;한편 이 전 대표는 이날 국회 대정부 질문 참석을 이유로 대장동 오후 재판에 불출석했다. 검찰 측은 “피고인이 임의로 재판에 참석하고 안 하고 할 수 있는 것이 아니다”라며 반발했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“우리 아들 좀 살려주세요...” 30세 청년 어머니는 주저앉았다</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/02/WRPDN4RHOFBTBEWLMZDGHL6FOI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/02/WRPDN4RHOFBTBEWLMZDGHL6FOI/</guid>
-      <dc:creator>김도연 기자, 박정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 02 Jul 2024 11:45:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LZ4DT6MYBJLRRG6GNMLVWOFFTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 지난 밤 대형 교통사고가 발생한 서울 중구 시청역 7번출구 인근 사고 현장에 추모객들의 발길이 이어지고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1일 밤 15명의 사상자를 낸 ‘서울 시청역 역주행 참사’는 서울시 공무원, 시중은행 직원뿐 아니라 용역 업체 소속 젊은 청춘들의 목숨도 앗아갔다. 사고 직후 서울 영등포장례식장에 임시 안치됐던 용역 업체 소속 직원 양모(30)씨와 박모(38)씨, 김모(30)씨는 2일 저녁 모두 서울 종로구 서울대병원으로 옮겨졌다. 1층과 2층에 위치한 시중은행 직원들의 빈소가 은행장 등이 보낸 화환 수십여개와 100여명의 조문객들로 붐볐던 것과 달리 지하 1층에 마련된 용역 업체 직원들의 빈소는 10여명의 조문객만이 쓸쓸히 지키고 있었다.&lt;br&gt;&lt;br&gt;2일 오후 7시 30분쯤 용역 업체 직원 양씨와 김씨의 빈소가 먼저 마련된 서울대병원 장례식장 지하 1층은 한산했다. 양씨 어머니의 절규 소리만이 지하1층을 가득 메우고 있었다. 양씨 어머니는 분향실 모니터에 양씨의 얼굴이 뜨자마자 다가와 벽을 끌어안고 “아이고 ○○아, 우리 ○○이가 어떻게...”라며 울었다. 그는 모니터를 손가락으로 조심히 쓰다듬더니 무릎을 꿇고 주저앉아 자신의 머리를 벽에 부딪혀댔다. 양씨의 동생은 그런 어머니에게 다가가 어깨를 감싸안고 형의 사진을 멍하니 쳐다봤다.&lt;br&gt;&lt;br&gt;양씨의 어머니는 취재진에게 “우리 아들 좀 살려주세요”라며 “우리 아들이 왜 죽어야해. 이렇게 잘생긴 내 새끼인데 왜 죽어야해. 미친 놈 때문에”라고 울부짖었다. 그는 영정사진이 보이는 장례식장 복도에 주저 앉아 있다가 다른 유족의 부축을 받고 접객실로 이동했다.&lt;br&gt;&lt;br&gt;양씨의 외삼촌인 최모(73)씨는 먼저 세상을 떠난 조카를 ‘1등 신랑감’이라고 기억했다. 최씨는 “엄마한테 살갑게 잘하고 10살 가까이 차이 나는 동생을 챙기는 효자였다”며 “우리 조카가 얼굴도 잘생기고 키도 크고 덩치도 있어서 인기도 많고 귀엽게 자랐다. 내가 우리 동생(양씨 어머니)이었으면 가슴이 미어졌을 것”이라고 말했다. 그는 울고있는 양씨의 어머니를 한동안 애처롭게 쳐다봤다. 이어 그는 “지난 1일 밤 교통사고 보도를 보고 이런 일이 다 있구나 하고 생각했는데, 오늘 오전 동생(양씨 어머니)이 조카의 비보를 전해 놀란 마음에 한달음에 달려왔다”고 했다.&lt;br&gt;&lt;br&gt;양씨 빈소 옆에 마련된 또 다른 용역 업체 직원 김씨의 빈소에도 유족들이 침통한 표정으로 자리를 지키고 있었다. 김씨 아버지는 “사고가 났다는 소식은 오늘 자정을 조금 넘겼을 때 뉴스로 접하고 잠들었는데 오늘 오전 1시 30분쯤 며느리를 통해 아들의 비보를 전해 들었다”고 했다. 그는 “사고차랑이 급발진인지 여부를 조사한 후에야 보험회사로부터 보상이 나온다는 것 외에는 손 쓸 방법이 없다고 안내를 받았다”며 체념한 듯한 표정을 지었다. 곁에 있던 김씨 어머니는 “이 상황이 믿기질 않아서 눈물도 나지 않는다”며 “영정도 내 눈으로 못 보는데 염하고 나면 아들 얼굴을 볼 수 있을런지 모르겠다”고 했다.&lt;br&gt;&lt;br&gt;한편 이날 오후 8시 20분쯤 서울 영등포장례식장에서 출발한 용역업체 직원 3명과 시중은행 직원 3명의 시신은 오후 9시쯤 서울대병원 장례식장 지하 1층 주차장에 도착했다. 시신을 실은 검은 색 차량과 앰뷸런스들에서 남색, 녹색 천에 싸인 시신들이 나오자 이곳에 모인 70여명의 유족은 손으로 입을 가리고 손수건으로 눈물을 연신 훔쳤다.&lt;br&gt;&lt;br&gt;일부 유가족은 시신 가까이로 다가와 천에 적힌 사망자 정보를 보고는 체념한 채 더 눈물을 흘리기도 했다. 파란 옷을 입은 장례식장 직원은 천으로 씌워진 시신의 발부터 머리까지를 손으로 만지며 시신 상태를 대강 확인했다. 눈물 바다 속에서 한 유족은 “○○아, 잘가라”고 외쳤다. 장례식장 직원들이 시신을 장례식장으로 옮기기 전에 잠시 애도할 시간을 주자 유족들은 눈물 고인 눈으로 시신을 바라보거나 시신 위에 손을 살포시 올리며 고인과 작별했다. 장례식장 직원들도 손으로 눈물을 닦아냈다.&lt;br&gt;&lt;br&gt;용역 업체 직원 양씨의 시신이 마지막으로 들어왔을 때, 지하 주차장엔 장례식장 직원과 양씨 아버지만이 우두커니 남아 있었다. 아버지는 더는 말할 수 없는 아들에게 “미안하다, 미안해”라고 읊조리며 흐느꼈다. 그는 아들의 몸에 “잘가, 조심히 가”라고 외쳤다. 부자(父子)는 그렇게 마지막 인사를 나눴다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>노측, 의사봉 뺏고 투표지 찢었다...최저임금 차등적용 부결</title>
-      <link>https://www.chosun.com/national/labor/2024/07/02/ZQQD53XZYBGBLB5DOUHL3HBP2M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/07/02/ZQQD53XZYBGBLB5DOUHL3HBP2M/</guid>
-      <dc:creator>김윤주 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 02 Jul 2024 12:11:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6LOF6AQVIJKCLH3VMWRVU7PS7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오후 정부세종청사 최저임금위원회 회의실에서 제7차 전원회의가 열리고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년에도 업종에 관계없이 동일한 금액의 최저임금이 적용된다. 최저임금위원회는 2일 제7차 전원회의를 열고 최저임금을 사업 종류별로 다르게 적용할지 표결에 부쳤으나 찬성 11표, 반대 15표, 무효 1표로 부결됐다. 이날 회의에는 근로자위원 9명, 사용자위원 9명, 공익위원 9명 등 총 27명이 참석했다.&lt;br&gt;&lt;br&gt;앞서 경영계는 음식점, 편의점 등 일부 업종에 별도의 최저임금을 적용해야 한다고 요구했다. 소상공인, 자영업자의 어려움과 최근 몇 년간 최저임금이 인상돼 온 점 등을 이유로 들었다. 지난달 26일 열린 6차 전원회의에서 사용자위원 측은 한식 음식점업, 외국식 음식점업, 기타 간이 음식점업과 택시 운송업, 체인화 편의점을 최저임금 구분 적용이 필요한 업종으로 제시했다.&lt;br&gt;&lt;br&gt;사용자위원인 류기정 한국경영자총협회(경총) 전무는 이날 회의에 앞서 “영세 중소기업과 소상공인들의 어려운 상황에는 그간 누적된 최저임금 고율 인상과 일률적 적용이 중요한 요인 중 하나로 작용했음을 부인할 수 없다”며 최저임금 업종별 구분 적용이 필요하다고 밝혔다.&lt;br&gt;&lt;br&gt;반면 노동계는 구분 적용이 차별이라며 반대했다. 근로자위원인 류기섭 한국노총 사무총장은 “(최저임금 구분 적용으로) 경영 및 인력난, 지불 능력이 해결될 것이라는 보장이 없다”고 했다. 이미선 민주노총 부위원장도 “최저임금 차등 적용이 이뤄지면 저임금 장시간 고강도 노동에 시달리는 노동자들의 삶은 더욱 피폐해질 것”이라며 반대 입장을 밝혔다.&lt;br&gt;&lt;br&gt;한편 이날 표결 과정에서 민주노총 추천 근로자위원 일부가 투표를 막기 위해 위원장 의사봉을 뺏고 투표용지를 찢는 등 물리력을 행사해 논란이 일었다. 사용자위원들은 입장문을 내고 “일부 근로자위원의 무법적인 행태와 이를 방관한 위원장의 미온적인 대응을 강력히 비판한다”고 했다. &lt;br&gt;&lt;br&gt;최저임금위원회도 “위원장이 일부 근로자위원의 투표 방해행위에 대해 강한 유감을 표하고 향후 이러한 행동이 재발할 경우에는 발언 제한, 퇴장 명령 등을 포함하여 필요한 모든 조치를 적극 검토할 것임을 경고했다”고 전했다.&lt;br&gt;&lt;br&gt;최저임금 구분 적용 논의가 끝나면서 위원회는 본격적으로 내년 최저임금 수준을 논의할 예정이다. 지난해 결정된 올해 최저임금은 시간당 9860원으로, 여기서 140원만 올라도 처음으로 1만원을 넘어선다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/IMTYPFZFO5AORODCCNBCZ7EDMU.JPG?width=4032&amp;height=2268&amp;auth=3bf5e0bd21dab8e36da30a7897a01abb926c3e416902f3fa8a56861f49f9991b&amp;smart=true" type="image/jpeg" height="2268" width="4032">
-        <media:description type="plain">2일 최저임금위원회 제7차 전원회의에서 근로자위원이 찢어버린 투표용지가 회의장에 떨어져있다. ⓒnews1 나혜윤 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
       <title>여성 신도 8명 당했다… 성범죄 저지른 前 교회 담임목사</title>
       <link>https://www.chosun.com/national/regional/honam/2024/07/02/AGKUXCT4PBD4TO4E3XZFPHBKOA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/07/02/AGKUXCT4PBD4TO4E3XZFPHBKOA/</guid>
@@ -922,15 +931,6 @@
 &lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
         <media:credit role="author" scheme="urn:ebu">신현우</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>180m 거리를 역주행... 단 1초만에 11명 덮쳤다</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/02/7YE6VXFJNFGMPOKD5HVBQWFDLM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/02/7YE6VXFJNFGMPOKD5HVBQWFDLM/</guid>
-      <dc:creator>고유찬 기자, 서보범 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 02 Jul 2024 09:16:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KI2HKCOARBF3DHESAZEXEIIVRM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중구 시청역 부근에서 대형 교통사고가 발생했다./ 박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 시청역 역주행 참사 가해자 차모(68)씨가 운전한 진회색 제네시스 G80(2018년식) 차량은 1일 오후 9시 25분쯤 서울 중구 웨스틴조선호텔 지하 주차장을 빠져나왔다. 소공로 교차로에서 우회전해 시청광장 방향으로 진입해야 할 차량은 돌연 그대로 직진해 세종대로 방면으로 역주행을 시작한다.&lt;br&gt;&lt;br&gt;180m가량을 빠른 속도로 역주행한 차씨 차량은 왼쪽 인도 가드레일을 들이받고 인도로 넘어간다. 감시 카메라 영상을 보면, 차량은 주행(走行)이라기보단 비행(飛行)이라는 표현이 맞을 정도로 쏜살같이 인도를 덮친다. 편의점·식당·주점 등이 밀집한 이 인도엔 행인 11명이 있었다. 한 편의점 앞엔 두 무리의 행인이 각각 세 명씩 무리를 지어 대화를 나누고 있었다.&lt;br&gt;&lt;br&gt;두 명은 편의점 방향으로 걸어오고 있었고, 세 명은 시청역 사거리 횡단보도 방면으로 걷고 있었다. 단 1초 만에 차량은 이들을 쓸어버리듯 덮쳤고, 대부분은 자신이 참변을 당하는지도 거의 인지하지 못했다. 한 남성이 차량이 덮치기 직전에야 사실을 알고 몸을 피하려 하지만 이미 늦은 뒤였다. 11명 중 9명이 사망했고 2명은 부상했다.&lt;br&gt;&lt;br&gt;이 과정에서 가드레일은 뿌리째 뽑히고, 인근에 주차된 오토바이 2대와 자전거 1대가 산산조각 나는 모습, 가게 앞에 쌓여있던 플라스틱 박스도 와르르 무너졌다. 인도는 부서진 오토바이와 각종 잔해로 순식간에 아수라장이 됐다. 목격자들은 “우당탕탕 소리가 순식간에 났다” “쾅 하는 굉음에 전쟁이 난 줄 알았다”고 말했다. 간발의 차로 화를 모면한 행인들도 있었다. 한 여성은 차량이 인도를 덮치기 직전 편의점으로 들어가 사고를 피했다. 또 다른 여성 역시 사고 직후 현장으로 걸어오다가 희생자가 쓰러져 있는 모습에 급하게 자리를 피했다.&lt;br&gt;&lt;br&gt;차씨 차량은 11명을 덮친 이후에도 멈추지 않았다. 시청역 사거리에 진입한 차량은 세종대로 서울역에서 시청 방면으로 이동하던 BMW와 쏘나타 2대를 차례로 들이받았다. 연쇄 추돌 이후에도 차씨의 차량은 부메랑 모양으로 방향을 틀며 9차선 도로를 가로질렀다. 질주를 계속하던 차량은 교차로 맞은편, 지하철 2호선 시청역 12번 출구 인근 교통섬에서 멈춰선다. 오후 9시 26분쯤이었다. 놀란 시민들이 비명을 지르며 몸을 피했다.&lt;br&gt;&lt;br&gt;총 200m를 역주행한 제네시스 차량은 사고 충격에 전면부가 모두 부서졌고 보닛과 측면도 심하게 찌그러진 상태였다. 경찰은 차씨가 일방통행 차로에서 역주행을 하게 되자 공황에 빠졌을 가능성을 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>빈소 찾은 오세훈 “일어나선 안될 사고…인명 보호할 보완점 찾겠다”</title>
