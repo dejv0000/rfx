@@ -13,6 +13,116 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>인사 청탁 대가로 3500만원 받은 前 경북경찰청장 구속</title>
+      <link>https://www.chosun.com/national/incident/2024/07/05/OAXRRPSAFZBLZFSUF3XQOKZSLA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/05/OAXRRPSAFZBLZFSUF3XQOKZSLA/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Jul 2024 09:25:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U2PXWAYDCBMYPDYMINACHGVG4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;퇴직 이후 경찰관들의 인사 청탁을 들어주는 대가로 금품을 수수했다는 의혹을 받고 있는 전직 치안감이 5일 오전 대구시 수성구 대구지방법원에서 열린 영장실질심사(구속 전 피의자심문)를 마친 후 취재진의 질문에 답하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인사 청탁을 들어주는 대가로 수천만원을 받은 전직 경북경찰청장 A씨가 구속됐다.&lt;br&gt;&lt;br&gt;5일 대구지법 정석원 영장 전담 판사는 제삼자뇌물취득 혐의를 받고 있는 전 치안감 A씨에 대한 구속 전 피의자 심문(영장실질심사)에서 검찰이 청구한 구속 영장을 발부했다. 정 판사는 “(A씨가)증거 인멸 및 도주 우려가 있다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 경찰에서 퇴직한 뒤 2021년부터 지난해까지 경찰관들의 인사 청탁을 들어주는 대가로 인사 브로커 B씨에게 3500만원 상당을 받은 혐의를 받고 있다. B씨 또한 전직 경찰로서 현직 경찰관들의 인사 청탁을 중개한 혐의를 받고 있다. A씨는 이날 영장실질심사를 마친 뒤 취재진에게 “(돈을 받은 것을)인정한다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 대구지검은 지난해 7월 인사 청탁 대가로 돈을 주고 받은 전직 경찰관 2명에 대한 수사에 착수했다. 검찰은 이들을 수사하는 과정에서 인사 브로커 역할로 B씨가 관여한 또다른 인사 비리를 적발해 현직 경찰관 3명을 압수수색했다.&lt;br&gt;&lt;br&gt;현재 이 사건과 관련해 A씨와 B씨를 포함한 전·현직 경찰관 7명이 수사를 받고 있는 것으로 알려졌다. 검찰은 향후 인사 비리에 추가로 연루된 경찰관들이 있는지 수사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, 'LH 감리 담합' 뇌물 받은 심사위원 구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/05/4LFS4DL4TFD5BHY5W4PNMKGE4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/05/4LFS4DL4TFD5BHY5W4PNMKGE4M/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Jul 2024 09:27:51 +0000</pubDate>
+      <content:encoded>검찰이 한국토지주택공사(LH) 공공 발주 건설사업관리용역 입찰 심사 과정에서 이른바 ‘입찰 심사 장사’를 한 혐의를 받는 공기업 직원을 5일 구속 기소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XORTFIWAGSNLZHRLSW5RRFH7UY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검 청사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공정거래조사부(부장 김용식)는 이날 특정범죄가중처벌법상 뇌물 혐의를 받는 공기업 직원 이모(56)씨를 구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면, 이씨는 입찰 심사위원으로 활동할 때 입찰에 참여한 경쟁업체 두 곳으로부터 합계 7000만원의 뇌물을 받고, 더 많은 돈을 제공한 업체에게 1등 점수를 부여한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰은 LH와 조달청이 발주한 건설사업관리 용역 입찰에서 참가업체들이 담합하고 입찰 심사 과정에서 심사위원들에게 청탁 대가로 뇌물을 공여·수수했다고 보고 지난해 8월부터 수사를 이어오고 있다.&lt;br&gt;&lt;br&gt;검찰은 지난 4월 감리업체로부터 현금 5000만원씩을 받은 사립대 교수 박모씨와 정모씨, 시청 공무원 박모씨 등을 구속 기소했다. 이어 5월엔 심사에서 최고점을 주는 대가로 업체로부터 현금 8000만원을 수수한 혐의를 받는 국립대 교수 김모씨를 구속 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최태원 이혼소송 변호인단에 홍승면 前 고법 부장 합류</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/05/F6Z7FLCD65C47P4C5NYWPH4WBQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/05/F6Z7FLCD65C47P4C5NYWPH4WBQ/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Jul 2024 09:35:07 +0000</pubDate>
+      <content:encoded>최태원 SK그룹 회장의 이혼소송 변호인단에 홍승면(사법연수원 18기) 전 서울고법 부장판사가 합류했다.&lt;br&gt;&lt;br&gt;홍 전 부장판사는 5일 최 회장과 노소영 아트센터 나비 관장 간 이혼소송 상고심을 담당하는 대법원에 소송 위임장을 제출했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YGPLRICBY5DEFCVXIJNYLLGZSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍승면 전 서울고법 부장판사. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍 전 부장판사는 판사 시절 대법원 선임재판연구관, 대법원 수석재판연구관, 법원행정처 실장을 역임하는 등 손꼽히는 ‘엘리트 법관’으로 평가받았다. 홍 전 부장판사는 1983년 대입 학력고사에서 수석을 차지해 서울대 법대에 입학했고, 대학 재학 중 사법시험에 합격했다. 사법연수원도 수석으로 수료했다.&lt;br&gt;&lt;br&gt;홍 전 부장판사는 판사 임관 뒤 각급 법원에서 주요 재판 업무를 담당했고, 법원행정처에서 인사제도연구담당관, 사법지원실장 등도 지냈다. 또 ‘판례공보 스터디’ 회장을 12년 간 맡으며 전체 회원 수가 1000명이 넘는 파급력 있는 조직으로 성장시켰다. 조희대 대법원장은 대법관 시절 수석재판연구관으로 근무하는 홍 전 부장판사를 두고 다른 재판연구관들에게 “홍승면에게 배워라”라고 하기도 했던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;홍 전 부장판사는 지난 2월 정기 인사를 앞두고 법원에 사직서를 제출했고, 지난 5월 변호사로 개업했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6PQBY6LNNUVYHSMYBYL5NBAJ64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최태원 SK그룹 회장(왼쪽)과 노소영 아트센터 나비 관장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최 회장 변호인단에는 법원 내 손꼽히는 엘리트 법관 출신 변호사들이 다수 포진하고 있다. 홍 전 부장판사를 포함해 대법원 수석재판연구관 출신 변호사만 세 명이다. 김현석 전 수석재판연구관(현 법무법인 케이에이치엘 변호사)이 1심부터 관여했고, 2심 중간에는 김앤장 법률사무소 소속 유해용 전 수석재판연구관이 추가로 합류했다.&lt;br&gt;&lt;br&gt;한편 최 회장은 2심 패소 이후 법무법인 화우도 추가로 선임했다. 화우는 역시 법원 내 엘리트로 평가받는 이동근 전 서울고법 부장판사를 상고심에 투입했다.&lt;br&gt;&lt;br&gt;반면 노 관장 측은 2심에서 사상 최대 재산청구액을 이끌어 낸 변호사들이 그대로 상고심도 맡을 전망이다. 노 관장 측은 대법원 재판연구관 출신인 김기정 법무법인 율우 변호사, 서울고법 판사 출신인 이상원 법무법인 평안 변호사 등이 재판을 맡고 있다.&lt;br&gt;&lt;br&gt;서울고법 가사2부(재판장 김시철)는 지난 5월 최 회장과 노 관장의 이혼소송 항소심에서 사상 최고액수인 1조 3808억원의 재산분할 판결을 내렸다. 최 회장 측은 이에 상고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“학생 때 도움 받았다” 뉴질랜드 교민 부부, 고려대에 1억 기부</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/05/7ON6WXFL3VHD3NVECASB7M5ZKY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/05/7ON6WXFL3VHD3NVECASB7M5ZKY/</guid>
+      <dc:creator>서보범 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Jul 2024 09:17:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/32UMH5KL2VCRFGBTEEDUVEJ5SY.jpg"&gt;&lt;br&gt;&lt;br&gt;뉴질랜드 오클랜드에 거주하는 최형엽·임지영 부부가 모교인 고려대에 1억원을 기부했다.&lt;br&gt;&lt;br&gt;고려대는 지난달 26일 오후 6시(현지시각) 뉴질랜드 오클랜드에서 최형엽·임지영 부부의 장학금 기부식을 가졌다고 5일 밝혔다. 이날 기부식에는 현지에 거주하는 고려대 동문 20여명이 참석했다.&lt;br&gt;&lt;br&gt;최씨와 임씨는 각각 고려대 경영대학 86·88학번 출신으로, 현재 뉴질랜드에서 무역회사를 운영하고 있다고 한다. 이날 기부식에서 최씨는 “학부생 시절 학교로부터 장학금을 받아 많은 도움이 됐다”면서 “감사한 마음에 보답하고자 경영대학 후배들을 위한 장학금을 기부하게 됐다”고 했다. &lt;br&gt;&lt;br&gt;김동원 총장은 “후배들을 위한 성원에 감사드린다”며 “고려대를 빛낼 인재 양성에 소중하게 쓰이도록 하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법무부, 이원석 후임 검찰총장 인선 착수...15일까지 국민 천거</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/05/A5LT7I6WA5DVZMO2XHKPN3FEHE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/05/A5LT7I6WA5DVZMO2XHKPN3FEHE/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Jul 2024 08:23:59 +0000</pubDate>
+      <content:encoded>법무부는 신임 검찰총장 후보자 추천을 위해 검찰총장 후보 추천위원회를 구성했다고 5일 밝혔다. 오는 9월 15일 임기 만료로 퇴임 예정인 이원석 현 총장의 후임 인선에 들어간 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OPX4BL6IRIXCFLUSHQNTI7P34A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이원석 검찰총장이 5일 오전 서울 서초구 대검찰청에 출근하며 취재진의 질문에 답하고 있다. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰총장 후보 추천위원회는 당연직 위원 5명과 비당연직 위원 4명으로 구성된다. 당연직 위원은 배형원 법원행정처 차장, 김영훈 대한변호사협회장, 조홍식 한국법학교수회장, 이상경 법학전문대학원협의회 이사장, 송강 법무부 검찰국장이다. 비당연직 위원으로는 정상명 전 검찰총장, 이진기 성균관대 법학전문대학원 교수, 안수현 한국외대 법학전문대학원장, 김세동 문화일보 논설위원이 위촉됐다. 위원장은 정상명 전 총장이 맡는다.&lt;br&gt;&lt;br&gt;법무부는 또 오는 8일부터 15일까지 국민들로부터 검찰총장 제청 대상자를 천거받는다고 밝혔다. 개인, 법인, 단체 등 누구라도 방문 또는 우편 방식으로 천거서를 제출할 수 있다. 제청 대상자는 법조 경력 15년 이상인 사람이다.&lt;br&gt;&lt;br&gt;법무부 장관은 피천거인을 포함해 검찰총장 제청 대상자로 적합하다고 판단되는 사람을 검찰총장 후보 추천위원회에 심사 대상자로 제시하게 된다. 추천위가 3명 이상의 후보를 법무부 장관에게 추천하면 법무부 장관은 추천 내용을 존중해 검찰총장 후보자를 제청하게 된다.&lt;br&gt;&lt;br&gt;천거서 서식, 피천거인 자격 등은 법무부 홈페이지(&lt;a href="http://www.moj.go.kr/"&gt;www.moj.go.kr&lt;/a&gt;)를 참고하면 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 유원대 前 총장 ‘자녀 채용 비리’ 압수수색</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/07/05/6S3LZ7N62VDOBGAN4TH3Q7CPAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/07/05/6S3LZ7N62VDOBGAN4TH3Q7CPAM/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Jul 2024 08:33:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EVOHEI2NIUVYJ3Z4QAGJVW6BOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 깃발. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 4년제 사립대인 유원대학교 전 총장의 자녀 채용 비리와 교비 횡령 의혹에 대한 강제수사에 나섰다.&lt;br&gt;&lt;br&gt;5일 본지 취재를 종합하면 청주지검 영동지청은 지난 3일 영동군에 위치한 유원대학교를 압수수색해 관련 서류를 확보했다. 유원대 전 총장 A(60대)씨의 자녀 채용 비리와 교비 횡령 의혹을 확인하기 위한 추가 자료를 확보한 것으로 보인다.&lt;br&gt;&lt;br&gt;검찰은 2022년 3월 교직원 채용 과정에서 A씨가 딸 B씨를 부정 채용하는데 관여한 것으로 보고 수사를 벌이고 있다.&lt;br&gt;&lt;br&gt;당시 B씨는 채용 서류심사에서 지원자 5명 가운데 4순위에 올라 3순위까지 대상인 면접심사를 볼 수 없었다. A씨는 이 과정에서 B씨의 서류심사 점수를 높여 3순위로 면접심사 대상자에 넣었고, 면접심사에는 A씨의 처남이자 B씨의 외삼촌인 교직원이 심사위원으로 참여해 B씨에게 최고 점수를 부여했다. 결국 B씨는 최종 채용됐다.&lt;br&gt;&lt;br&gt;이와 관련해 고발장을 접수한 경찰은 지난해 12월 업무방해 혐의로 A씨와 B씨, 면접 위원 3명 등 총 5명을 검찰에 넘겼다. 또 검찰은 A씨가 연구비를 부적절하게 집행한 혐의에 대해서도 수사하고 있다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “수사 중인 사안이라 구체적인 내용을 말해줄 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EVOHEI2NIUVYJ3Z4QAGJVW6BOY.jpg?width=3948&amp;height=2564&amp;auth=e91304377fa793b651710f38c2019306c8aeafb4f6ea078e9410157b3fe5d7af&amp;smart=true" type="image/jpeg" height="2564" width="3948">
+        <media:description type="plain">서울 서초구 대검찰청 깃발이 바람에 휘날리는 모습. 2022.8.17/뉴스1 ⓒ News1 임세영 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 임세영 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“미친 여자 프레임 씌워 수익 창출”... ‘나는 솔로’ 출연자가 PD 공개 비판</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/03/7CV5HA4JDNGYLNHYI7QIOU2RCA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/03/7CV5HA4JDNGYLNHYI7QIOU2RCA/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Jul 2024 01:33:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAXKB5NJ35FU7G3O2H7K4BF3CA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘나는 솔로’ 16기 영숙. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;예능프로그램 ‘나는 솔로’ 16기 영숙(가명)이 해당 프로그램 연출자이자 제작사 촌장 엔터테인먼트 대표인 남규홍 PD를 공개 비판하고 나섰다.&lt;br&gt;&lt;br&gt;영숙은 지난 2일 자신의 소셜미디어를 통해 최근 나는 솔로 작가들이 불공정 계약을 주장하고 있는 사실을 언급하며 자신도 방송 출연 당시 계약서를 받지 못했다고 주장했다.&lt;br&gt;&lt;br&gt;영숙은 “내 의사와 상관없이 (나는 솔로 출연 당시) 내 영상을 우리고 우려 썼다”며 “미친 여자 프레임을 씌웠다. 난 악플과 온갖 쌍욕에 심장이 두근거려 집 밖을 못 나갔다”고 했다.&lt;br&gt;&lt;br&gt;돌싱 특집에 출연했던 영숙은 “(출연료) 꼴랑 400만원에 한 아이의 엄마를 사지로 몰며 죽일 듯 수익을 창출했다”며 “저 하나로 끝날 줄 알았는데 일반인을 많은 이들의 질타를 받게 하는 그런 쓰레기 방송을 계속 만드셨다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “내가 본인 딸이라도 그렇게 만들 수 있었을까?”라며 “전 아직도 심장이 두근거리고 눈물만 난다. 본인이 다 뿌린 대로 지금 거두는 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편 영숙이 출연한 ‘나는 솔로’ 16기는 방송 내내 높은 시청률을 기록하며 화제가 됐지만 방송 이후 출연자들끼리의 비방전이 이어졌었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PRMHZXJWGVDB7GA6ICOXHTM6P4.jpg?width=641&amp;height=361&amp;auth=c318402c8637c8d9cb16f3051a63df20bb66d4c97fbe8e757912aa1dfc5dd22b&amp;smart=true" type="image/jpeg" height="361" width="641">
+        <media:description type="plain">‘나는 솔로’ 16기 영숙. /인스타그램</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>금팔찌 차고 도주한 20대男, 다음날 자수해 “잃어버렸다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/05/LWMJDYK3OFGVJEGHAXR4HGHEAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/05/LWMJDYK3OFGVJEGHAXR4HGHEAM/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Jul 2024 08:34:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TJBBKSZOKBAN3LQCMEQI72OECM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 오전 10시50분쯤 전북 군산시 수송동의 한 금은방을 찾은 20대 남성이 순금 20돈 금팔찌를 훔쳐 달아나고 있다. /MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;손님을 가장해 금은방에서 귀금속을 훔쳐 달아난 20대 남성이 절도 혐의로 구속됐다. 그는 범행 뒤 자수했는데 도주 과정에서 훔친 팔찌를 잃어버렸다고 주장했다.&lt;br&gt;&lt;br&gt;5일 전북 군산경찰서는 절도 혐의로 20대 남성 A씨를 구속했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 1일 오전 10시 50분쯤 군산시 수송동 한 금은방에서 금팔찌를 훔쳐 달아난 혐의를 받는다. 순금 20돈이 들어간 약 900만원 상당 제품이었다.&lt;br&gt;&lt;br&gt;당시 손님인 척 금은방에 들어간 A씨는 “팔찌가 어울리는지 보고 싶다” “한번 차보겠다” “무게를 한번 느껴보고 싶다”고 말했다. 그러나 그는 업주에게 팔찌를 건네받아 착용한 뒤 매장 안을 몇 바퀴 돌다가 그대로 밖으로 도주했다.&lt;br&gt;&lt;br&gt;택시를 잡아타고 시내를 벗어나던 A씨는 중간에 하차해 도보와 대중교통으로 충남 보령시까지 갔다. 그런 뒤 범행 이튿날인 2일, 보령의 한 파출소를 찾아가 자수했다. 절도 행각을 벌였던 금은방에서 50여km 떨어진 곳이다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 광주의 한 금은방에서도 비슷한 수법으로 범행한 것으로 드러났다. 생활비를 벌기 위해 범행을 저질렀다고 진술한 A씨는 훔친 팔찌에 대해선 “잃어버렸다”고 주장한 것으로 알려졌다. 경찰은 금팔찌의 행방을 찾는 한편 A씨 여죄를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“중국 급부상, 3국 협력으로 대응하자” 한국·대만·일본 반도체 전문가 서울대서 모였다</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/05/BKEFGKX5RZBAXLWYETEHXBHLVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/05/BKEFGKX5RZBAXLWYETEHXBHLVQ/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Jul 2024 08:26:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RC7Z7YD64ZEPTEORAURUA2WJPA.png"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오전 9시 30분쯤 서울 관악구 서울대학교 우석경제관에서 한국, 미국, 일본의 반도체 관련 전문가 20여명이 '글로벌 반도체 공급망에서 한국, 대만, 일본의 역할 및 경제, 기술, 국가 안보 이슈'를 주제로 대화하기 위해 모인 모습./서울대학교&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미중 반도체 분쟁과 인공지능(AI) 혁명으로 반도체 공급망에 격랑이 이는 가운데 한국, 대만, 일본의 반도체 전문가들이 서울대에 모였다.&lt;br&gt;&lt;br&gt;서울대학교 국가미래전략원은 5일부터 이틀간 ‘글로벌 반도체 공급망에서 한국, 대만, 일본의 역할 및 경제, 기술, 국가 안보 이슈를 주제’로 3국 전문가들이 대화와 토론을 진행한다고 밝혔다. 의제는 크게 반도체, AI, 에너지 산업 부문으로 나뉜다. 반도체 대화는 웬링투 과학기술·민주주의·사회연구센터(DSET)장이, AI 대화는 박종희 서울대 정치외교학부 교수가, 에너지 대화는 히데키 시로야마 도쿄대 교수가 좌장을 맡는다.&lt;br&gt;&lt;br&gt;이날 환영사에서 정철 한국경제연구원장은 “AI의 발전은 방대한 양의 데이터를 빠르게 처리할 수 있는 반도체에 의존하며, 전력 수요를 충족하기 위해서는 다양한 에너지원의 개발과 충분한 공급이 필요하다”며 반도체와 AI, 에너지 안보의 연관성을 설명했다.&lt;br&gt;&lt;br&gt;그러면서 “한국은 메모리 반도체 분야에서 기술력을 바탕으로 최고의 위치를 차지하고, 대만은 AI 반도체를 공급하는 글로벌 허브로서 산업을 주도하고 있다. 또 일본은 반도체 소재 및 장비 분야의 독보적인 전문성을 바탕으로 공급망에서 중요한 역할을 담당한다”며 “한국, 대만, 일본의 3각 기술협력 체계는 가장 탄력적이고 안정적인 공급망을 구축할 것”이라고 3국의 협력을 강조했다.&lt;br&gt;&lt;br&gt;개회사를 맡은 김준기 국가미래전략원장은 “중국의 산업, 기술, 경제적 영향력이 급속히 확대되면서 3국의 전략적 환경은 더욱 복잡해지고 있다”며 “이번 컨퍼런스가 아이디어를 교환하고, 파트너십을 구축하고, 공동의 미래를 보장할 전략을 개발하는 의미 있는 자리가 되길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;한편 서울대 국가미래전략원은 지난 4일 서울대 호암교수회관에서 대만의 싱크탱크인 과학기술·민주주의·사회연구센터(DSET)와 기관 협력체계 구축을 위한 업무협약(MOU)을 체결하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘식당 운영’ 정준하 먹튀 토로… “친절하게 대했는데 도망”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/05/XXZ6MSE74BABDM2QVNYBYQOLNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/05/XXZ6MSE74BABDM2QVNYBYQOLNY/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Jul 2024 08:18:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YNZ25LJIDQZNVEQCWWFEJ7X5U4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정준하&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;식당을 운영 중인 방송인 정준하도 이른바 ‘먹튀’ 손님을 피하지 못했다.&lt;br&gt;&lt;br&gt;정준하는 지난달 소셜미디어에 “요즘 술 먹고 도망가는 애들 왜 이리 많을까? 아 진짜”라는 글과 함께 속상해하는 자신의 모습을 담은 사진을 올렸다.&lt;br&gt;&lt;br&gt;이 짧은 글은 네티즌들의 눈길을 끌었다. 최근 무전취식 피해를 당했다고 호소하는 자영업자들의 사례들이 화제가 됐지만, 유명 연예인이 운영하는 식당에서도 비슷한 일이 발생했다는 게 놀랍다는 반응이었다.&lt;br&gt;&lt;br&gt;이 글이 화제가 되자, 정준하는 지난 4일 유튜브를 통해 전말을 전했다. 그는 “그날 갑자기 밤에 장사하는데 화가 나더라”라며 “진짜 친절하게 잘 해줬던 사람이 갑자기 도망가고 이러니까”라고 했다.&lt;br&gt;&lt;br&gt;이어 “그게 기사가 날 줄 몰랐다”며 “사람들이 전화 와서 ‘누가 그렇게 도망가니’ 했는데, 사실 먹튀한 사람은 일부분이고 진짜 여길 찾아주시는 너무 고마운 분들이 많아서 감사 드리는 의미로 내 근황도 얘기하면서, 막판에는 선물도 챙겨 드리려 한 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;정준하는 최근 강남에 횟집을 오픈해 운영하고 있다. 그는 서울 압구정에서 6년간 꼬치 전문점을 운영하다 작년 10월부터 업종을 변경했다. 이에 대해 정준하는 “압구정동 꼬치집은 망하지 않았다”며 “거긴 리뉴얼해서 다른 브랜드로 장사를 하고 있다”고 했다.&lt;br&gt;&lt;br&gt;경찰청의 무전취식·승차 신고 건수 현황에 따르면 2022년 접수된 무전취식·승차 신고는 9만4752건으로 집계됐다. 코로나 팬데믹 때였던 2021년(6만5217건)을 제외하고 2016년부터 2020년까지 해마다 10만건을 넘은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;무전취식은 경범죄처벌법에 따라 10만 원 이하의 벌금·구류·과료 등에 처할 수 있다. 상습적이거나 고의성이 인정될 경우 형법상 사기죄가 적용돼 10년 이하 징역 또는 2000만원 이하 벌금이 부과된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YNZ25LJIDQZNVEQCWWFEJ7X5U4.jpg?width=720&amp;height=923&amp;auth=368fe85b23529755ab2eeeb5cb67b5cf855b9be47ba9ba3bc5d22be19e4e4319&amp;smart=true" type="image/jpeg" height="923" width="720">
+        <media:description type="plain">정준하</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>쿠팡 배송위탁업체 근로자 수만명 ‘개인사업자’로 둔갑 </title>
+      <link>https://www.chosun.com/national/labor/2024/07/03/CVOHDKSNGZCABPTR4PEPUKYHNU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/07/03/CVOHDKSNGZCABPTR4PEPUKYHNU/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>쿠팡 위탁 업체에서 택배 분류일을 하는 이들은 개인사업자가 아니라 근로자라는 판단이 나왔다.</description>
+      <pubDate>Wed, 03 Jul 2024 03:04:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UNOJBR7F2RITOLXAIPA7R4UHIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 송파구 쿠팡 본사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쿠팡 배송을 담당하는 위탁 업체들이 근로자들을 산재·고용보험에 가입시키지 않는 불법을 저질렀다가 적발됐다.&lt;br&gt;&lt;br&gt;3일 근로복지공단은 쿠팡로지스틱스서비스(쿠팡의 배송 전문 자회사)와 배송 위탁 계약을 맺은 택배 영업점, 물류센터 위탁업체 539개소를 전수 조사한 결과, 이 업체들에서 일하던 근로자 4만948명이 산재·고용보험에 가입하지 않았다고 밝혔다. 공단은 근로자들이 모두 산재·고용보험에 가입했을 시 지급했어야 할 누락 보험료 47억원을 위탁업체에 부과하고, 고용노동지청에 과태료 3억원 부과를 의뢰할 예정이다.&lt;br&gt;&lt;br&gt;이번 조사는 쿠팡 위탁 업체들이 상품 분류와 세척 등을 하는 근로자에게 ‘산재보험 포기 각서’ 등을 받고 개인사업자로 위장했다는 의혹이 불거지며 시작됐다. 회사와 근로계약을 맺고 일하는 사람이면 하루만 일하더라도 산재보험과 고용보험에 가입시켜 줘야 한다. 그런데 이 업체들은 보험료를 내지 않으려고 근로자들을 개인사업자로 등록시키고 사업소득세를 내게 했다는 것이다. 이는 불법행위다. 공단 조사 결과, 실제 많은 근로자가 ‘개인사업자’로 분류돼 사업소득세(3.3%)를 냈다.&lt;br&gt;&lt;br&gt;공단은 위탁 업체에서 택배 배송 일을 하는 특수형태근로종사자들도 산재·고용보험 가입을 하지 않은 것으로 조사돼 가입하도록 했다고 전했다. 근로자와 사업자 중간 성격인 이들 역시 산재·고용보험에 가입해야 한다. 이에 대해 쿠팡 측은 “위탁 업체가 산재·고용보험에 가입하도록 독려해 왔는데 일부 가입을 안 한 곳들이 있었다”면서 “보험 가입이 미비한 일부 위탁 업체에 대해서는 계약 해지 절차를 진행 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>故 권경미 이화여대 교수 유족, 장학금 1억원 기부</title>
       <link>https://www.chosun.com/national/national_general/2024/07/05/ZX64I723PZDSBDXZQ5NTHEIW7A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/05/ZX64I723PZDSBDXZQ5NTHEIW7A/</guid>
@@ -841,73 +951,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EKRJ2CJZCJFZHDKJ52PGPK3U2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 서울 강동구 KX이노베이션 사옥에서 열린 '최상주 KX이노베이션 회장 기금교수 기부 약정식’에서 최 회장(오른쪽)과 김동원 고려대 총장이 기념사진을 촬영하고 있다. /고려대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최상주 KX이노베이션 회장이 고려대로 10억을 기부했다.&lt;br&gt;&lt;br&gt;고려대는 지난 2일 KX이노베이션 사옥에서 ‘최상주 KX이노베이션 회장 기금교수 기부 약정식’을 가졌다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;기금교수 후원제도는 기업이나 기관으로부터 후원을 받아 경쟁력을 갖춘 교원을 채용하는 제도다. 최 회장이 전달한 교원초빙기금은 경제학 분야의 우수한 연구 경쟁력을 갖춘 교원을 채용하는 데 사용될 예정이라고 한다.&lt;br&gt;&lt;br&gt;고려대에 따르면, 고려대 경제학과 80학번 출신인 최상주 회장은 2020년 정경관 리모델링 기금, 장학금 등 정경대 후배들을 위해 기부를 계속해서 해오고 있다고 한다.&lt;br&gt;&lt;br&gt;최 회장은 기부 약정식에서 “올해 7월에 착공되는 정경관 리모델링과 더불어 경제학과가 발전했으면 하는 마음에 기부를 하게 됐다”며 “70주년을 맞이하는 정경대학과 개교 120주년을 맞이하는 고려대에서 앞으로도 인재가 많이 배출되도록 지원을 아끼지 않겠다”고 했다.&lt;br&gt;&lt;br&gt;김동원 고려대 총장은 “매번 정경대 후배들을 위해 아낌없는 성원을 보내주시는 최상주 회장님께 감사드린다”면서 “회장님께서 보내주신 후원을 통해 전임 교원을 초빙하고, 경제학 분야에서 글로벌 인재를 양성할 수 있도록 소중히 사용하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>끝이 보이는 선거법 재판, 이재명측 증인이 오히려 ‘독’ 되나 [판읽기]</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/04/TXSXQ7L2X5G2FPHOWN23V5GSUU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/04/TXSXQ7L2X5G2FPHOWN23V5GSUU/</guid>
-      <dc:creator>양은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Jul 2024 08:01:04 +0000</pubDate>
-      <content:encoded>이재명 전 민주당 대표의 공직선거법 재판 절차가 오는 9월 마무리된다. 지난달 28일 서울중앙지법 형사 34부(재판장 한성진)에서 열린 이 사건 재판에서 재판부는 “9월 6일 변론을 종결하겠다”고 밝혔다. 이날 검찰이 구형을 하고 이 전 대표가 최후진술을 한다. 재판 종결부터 선고까지 통상 한 달 정도 소요되는 점을 고려하면 이르면 10월에 선고될 전망이다.&lt;br&gt;&lt;br&gt;이 전 대표는 지난 대선에서 대장동 실무자인 고(故) 김문기 전 성남도개공 개발사업처장을 성남시장 시절에는 몰랐다고 한 발언과, 백현동 용도변경 특혜의혹에 대해 2021년 국감에서 ‘직무유기로 문제삼겠다는 국토부의 압박으로 용도변경이 이뤄졌다’고 한 발언으로 허위사실을 유포한 혐의(공직선거법 위반)로 재판중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MSRT2ZT32ZHGRDGGSDCW77RG54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 유튜브 '판결문 읽어주는 기자'.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 재판에선 이 사건 마지막 증인신문으로 이 전 대표 측이 신청한 증인에 대한 신문이 있었다. 이 전 대표 측은 성남시청 공무원인 오모 씨를 통해 2013~2015년 공공기관 이전 문제로 중앙부처와 성남시 사이에 갈등이 있었으며 이로 인해 공무원들이 압박을 받았다는 점을 입증하려 했다.&lt;br&gt;&lt;br&gt;역시 이날 이 전 대표 측 증인으로 법정에 선 한겨레신문 기자 김모씨는 당시 성남시장이던 이 전 대표로부터 ‘국토부가 말을 안 들으면 직무유기로 문제삼겠다고 했다’는 제보를 받았다는 인물이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YFUFRBMSBNFRJCQU5YWB2ZR3RY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 유튜브 '판결문 읽어주는 기자'.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그동안 이 사건의 증인으로 출석한 성남시나 국토부 공무원들은 주로 ‘직무유기로 문제삼겠다는 협박은 없었으며 용도변경은 지자체장 권한’이라고 증언했다. 그런데 이들이 이 대표측 의도대로 ‘국토부 협박이 있었다’ ‘이 대표로부터 제보를 받아 협박 사실을 확인했다’고 증언했다면 이 사건의 판도가 바뀔 수 있다.&lt;br&gt;&lt;br&gt;과연 이들은 어떻게 증언했을까. 4일 ‘판읽기’에서는 증인신문으로 판세를 뒤집으려는 이 전 대표측의 노력과 증인의 헛점을 노리는 검찰의 반대신문, 그리고 의도와는 다른 의외의 증언 내용이 가져올 파장을 분석한다. 또한 이날 공개된 이 전 대표와 김씨, 김씨와 오씨 사이의 석연찮은 전화통화 내역이 무엇을 의미하는지도 알아본다. 판결문 읽어주는 기자는 유튜브에서 ‘판읽기’를 검색하면 볼 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘돈 봉투 수수 의심’ 의원 출석 불응에 “강제 수사도 검토”</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/04/RUCDHXHPIZFJ5BGDLSXK3YI4XY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/04/RUCDHXHPIZFJ5BGDLSXK3YI4XY/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Jul 2024 07:30:52 +0000</pubDate>
-      <content:encoded>2021년 더불어민주당 전당대회를 앞두고 돈 봉투를 수수한 것으로 지목된 의원들이 검찰의 출석 요구에 거듭 불응한 데 대해 검찰이 강제수사도 검토하고 있다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;서울중앙지검 관계자는 이날 기자들과 만나 “출석을 담보할 방안을 강구할 수 있다”면서 이 같이 밝혔다. 이 관계자는 구속영장 청구 가능성에 대해서는 “너무 나갔다”면서도 “임의 수사가 있고 좀 더 나아가 강제 수사까지 검토할 수도 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4LITFQKUKDT557R5Q6DK3H2CSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤관석 전 더불어민주당 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 앞서 민주당 전현직 의원 7명에게 지난달 18~27일 사이 출석하라는 출석요구서를 발송했지만 모두 응하지 않았다. 검찰이 이들에게 정식 출석 요구서를 발송한 것은 이번이 세 번째인데 출석한 의원은 한 명도 없다.&lt;br&gt;&lt;br&gt;검찰은 이들 7명이 2021년 4월 28일 국회 본관 외교통일위원회 소회의실에서 열린 송영길 전 대표 지지 국회의원 모임에 참석해 윤관석 전 의원으로부터 각각 300만원이 든 돈 봉투를 받은 것으로 보고 있다. 검찰은 앞서 같은 혐의로 조사를 받은 허종식 민주당 의원과 이성만·임종성 전 의원은 먼저 조사 후 지난 2월 기소했다. 또 윤 전 의원도 의원 제공용 6000만원을 조성한 혐의 등으로 1심에서 징역 5년을 선고받고 복역 중이다.&lt;br&gt;&lt;br&gt;한편 검찰은 최근 기소한 윤 전 의원의 뇌물 혐의에 대해서는 “국회의원의 지위와 권한을 남용해 입법권 관련 뇌물 수수했다”면서 “중대 범죄”라고 했다. 윤 전 의원은 2017~2022년 욕실 자재 제조업체 대표로부터 법령 개정을 도와달라는 청탁과 함께 골프장 이용료 약 770만원을 대납받고, 같은 당 의원 12명에게 총 850만원의 후원금을 내게 한 혐의 등으로 최근 추가 기소됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>술 취해 119구급대원 폭행한 30대 집행유예</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/04/ZYVVAXJFHVFKXMWXNHGWSIGKRE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/04/ZYVVAXJFHVFKXMWXNHGWSIGKRE/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Jul 2024 07:33:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y7OIWNNAHAB6EIA2AS3UZIQICY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;출동한 119구급대원을 폭행한 30대가 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;전주지법 형사3단독 정재익 부장판사는 소방기본법 위반 및 폭행 혐의로 기소된 A(31)씨에게 징역 6개월에 집행유예 1년을 선고했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 11월 19일 오전 0시 45분쯤 전북 전주시 완산구에 있는 한 아파트 단지에서 119구급대원 2명을 폭행한 혐의 등으로 기소됐다.&lt;br&gt;&lt;br&gt;A 씨는 자신의 상태를 살피고 있던 소방관 B 씨의 목을 조르고, 또 다른 소방관 C 씨의 얼굴을 주먹으로 때린 것으로 조사됐다. 당시 A씨는 술에 취해 있었다고 한다.&lt;br&gt;&lt;br&gt;재판부는 “국민의 생명과 재산을 보호하는 소방대원의 사기를 꺾는 행위로 엄벌할 필요성이 있다”며 “다만 피고인이 범행을 인정하고 피해 복구를 위해 형사 공탁한 점 등을 고려해 형을 정했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>성범죄 누명 20대 “우울증이라고 거짓말 하나... 선처없다”</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/04/GWO7FZSQ2FADJNTDDPBFPLZIMI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/04/GWO7FZSQ2FADJNTDDPBFPLZIMI/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Jul 2024 07:25:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QF77NJ5OMBGVHB6LY2ODPKC2YM.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;성범죄자 누명을 썼던 20대 남성이 강제추행 무혐의 처분을 받은 뒤 지난 3일 무고죄 피해자로 경찰 조사를 받았다고 밝혔다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 50대 여성의 허위 신고로 성범죄자로 몰렸다가 무혐의 처분을 받은 20대 남성이 이번엔 무고죄 피해자로 조사를 받았다고 전했다.&lt;br&gt;&lt;br&gt;‘동탄 헬스장 화장실 사건’의 무고 피해자인 20대 남성 A씨는 지난 4일 유튜브 채널 ‘억울한 남자’를 통해 “전날 화성 동탄경찰서를 방문했다”며 “강제추행 혐의로 피의자가 됐던 이전과는 반대로 이번엔 무고죄 피해자로서 조사를 받았다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 이 자리에서 ‘한 남성이 화장실에서 자신이 용변보는 모습을 훔쳐봤다’며 경찰에 허위 신고한 50대 여성이 최대한 처벌을 받길 원한다는 입장을 밝혔다고 한다. 그는 “우울증을 변명으로 내세울 생각인지 모르겠는데, 경찰들이 판단해 줄 것”이라며 “우울증 걸린 모든 사람이 거짓말쟁이는 아니지 않나. 선처할 생각이 없고 엄벌을 원한다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 이날 조사에 앞서 강제추행 혐의를 받을 당시 자신을 용의자로 단정하듯 말하거나 반말을 해 강압 수사 논란을 빚은 경찰들로부터 사과를 받았다고도 했다. 그는 “‘사건 관련자들이 사과하고 싶어 하니 허락만 해주면 대면시키고 싶다’고 하길래 그러라고 했다”며 “‘떳떳하면 가만히 있으라’는 발언한 수사팀 팀원만 진정성 있게 사과하고 나머지는 변명만 계속했다”고 했다. 그는 일부 경찰이 사과를 마지못해 하는 느낌을 받았다며 “마치 내가 악성 민원인이 된 것 같았다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XVLWMWVMJBCG7GHX5ZCBBFFWRE.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;한 20대 남성이 아파트 관리사무소 내 화장실을 이용했다가 성범죄자로 경찰 수사를 받게됐다며 유튜브에 올린 사진./ 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 이 사건은 지난달 23일 오후 5시 10분쯤 화성시의 한 아파트 관리사무소 건물 내 여자화장실에서 발생했다. 50대 여성 B씨가 ‘신원 불상의 남성이 용변을 보는 자기 모습을 훔쳐보고 성적 행위를 했다’는 내용으로 112에 신고한 것이다.&lt;br&gt;&lt;br&gt;B씨는 경찰조사에서 A씨를 범인으로 지목했다. 경찰은 방범 카메라 분석 등을 통해 A씨를 강제추행 혐의로 입건해 수사에 나섰다. A씨는 “여자 화장실에는 들어간 적이 없다”며 혐의를 부인했다. 이 과정에서 일부 경찰들은 A씨에게 “방범 카메라 보니까 본인으로 확인됐어” “떳떳하면 가만히 기다리세요” 등의 말을 했고, 이 대화가 유튜브에 퍼져 논란이 일었다.&lt;br&gt;&lt;br&gt;이후 B씨가 지난달 27일 경찰에 “병원에서 처방받은 약을 다량 복용하면 없는 얘기를 할 때도 있다”며 허위 신고 사실을 자백하면서 반전이 일어났다. 화성동탄경찰서는 A씨에 대한 입건을 취소하고 지난 1일 최초 신고자 B씨를 무고 혐의로 입건했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정수장서 청소하던 40대, 깊이 2m 구조물에 빠져 숨져</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/07/04/Y5DQGO3AGBFDFN6NRHMDP7LZSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/07/04/Y5DQGO3AGBFDFN6NRHMDP7LZSM/</guid>
-      <dc:creator>공주=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Jul 2024 06:09:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HC2DX22S2JV4ADNUVP5QHLAEHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 한국수자원공사 공주정수장에서 구조 작업을 벌이는 119구조대. /공주소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국수자원공사 공주정수장에서 홀로 청소를 하던 40대 직원이 구조물에 빠져 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;4일 본지 취재를 종합하면 지난 3일 오후 7시 15분쯤 충남 공주시 월송동 수자원공사 공주정수장에서 직원 A(40대)씨가 구조물에 빠져 숨져 있는 것을 다른 직원이 발견해 119에 신고했다.&lt;br&gt;&lt;br&gt;현장에 출동한 119구급대는 이미 A씨가 심정지 상태로 시간이 흘러 사후강직 상태인 것을 확인하고 병원으로 이송 조치 없이 A씨의 시신을 경찰에 인계했다.&lt;br&gt;&lt;br&gt;A씨가 발견된 곳은 정수장에서 침전물(찌꺼기)이 빠져나가는 곳이다. A씨는 폭 18㎝, 깊이 2m 정도의 좁은 틈에 빠져 숨진 상태로 발견됐다.&lt;br&gt;&lt;br&gt;경찰은 방범카메라(CCTV)를 통해 A씨가 이곳에서 수 시간 동안 청소하는 모습을 확인했다. 하지만 A씨가 실제로 사고를 당한 모습은 CCTV에서 확인되지 않아 정확한 사고 시각은 알 수 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 수자원공사의 근무 수칙 등을 검토해 업무상 과실 혐의가 있는지 수사하고 있다.&lt;br&gt;&lt;br&gt;노동당국도 현장에 근로감독관을 보내 중대재해처벌법 적용 여부를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/HC2DX22S2JV4ADNUVP5QHLAEHE.jpg?width=4000&amp;height=1848&amp;auth=c5c993547cc4346ae658e4079a08c9836989b879faede0a860a48a29976505bb&amp;smart=true" type="image/jpeg" height="1848" width="4000">
-        <media:description type="plain">수자원공사 정수장 사고 현장.. (공주소방서 제공) / 뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“저 그 노래 부른 적 없어요”… 박명수·장윤정도 우려한 AI 커버곡, 결국</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/04/L6SVSXEHIZFR5G4MBNMED3NEX4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/04/L6SVSXEHIZFR5G4MBNMED3NEX4/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Jul 2024 06:22:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HCW53PXX7JF5LCBMPRKOGAJ6RE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박명수 밤양갱 AI 커버곡. 박명수가 실제로 부른 노래가 아닌데 현재 유튜브에서 조회수 53만회를 기록 중이다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유튜브가 생성형 인공지능(AI) 콘텐츠에 영향받는 당사자가 개인정보 침해를 근거로 콘텐츠를 삭제할 수 있도록 했다. 예를 들어 자신도 모르는 사이 목소리가 AI 커버곡 등에 이용됐다면, 삭제 요청을 할 수 있는 것이다. 이 같은 정책이 나오면서, 온라인상에선 과거 박명수와 장윤정 등 유명인들이 AI 커버곡을 두고 우려를 표했던 발언이 재조명되고 있다.&lt;br&gt;&lt;br&gt;1일(현지 시각) IT 전문 매체 테크크런치 등에 따르면, 유튜브는 개인정보 보호 가이드라인을 토대로 생성형 AI를 활용해 제작된 콘텐츠의 삭제를 요청할 수 있도록 정책을 변경했다. 유튜브 고객센터에는 ‘내 외모나 음성과 유사하게 AI로 생성되거나 합성된 콘텐츠 신고’라는 항목이 신설됐다. 유튜브는 “누군가 AI를 사용해 내 외모 또는 음성과 유사하게 콘텐츠를 변경하거나 생성한 경우 삭제를 요청할 수 있다”며 “콘텐츠가 삭제 대상이 되려면 AI를 사용해 사실적으로 변경되거나 생성된 버전의 내 초상이 묘사되어야 한다”고 설명했다.&lt;br&gt;&lt;br&gt;유튜브는 생성형 AI로 제작된 콘텐츠의 영향을 받는 당사자가 직접 삭제를 요청하도록 했다. 당사자가 미성년자이거나 컴퓨터를 사용하지 못하는 경우, 사망했을 경우 등은 예외다. 당사자는 유튜브 개인정보 침해 신고 절차를 따라 삭제를 요청할 수 있다.&lt;br&gt;&lt;br&gt;신고 요청이 들어온다고 즉시 삭제되는 건 아니다. ▲콘텐츠 변경·합성 여부 ▲해당 콘텐츠의 공개 여부 ▲개인 식별 가능 여부 ▲사실적인지 여부 ▲패러디·풍자 또는 기타 공익적 가치 여부 ▲범죄·폭력, 제품·정치인의 보증 등 민감한 행동에 가담한 유명인 등장 여부 등을 고려한다.&lt;br&gt;&lt;br&gt;조건이 충족되면 유튜브는 콘텐츠를 올린 게시자에게 신고에 관한 조처를 할 수 있는 시간(48시간)을 부여한다. 이 시간 안에 콘텐츠가 제거되면 사안은 종결된다. 여기서 말하는 ‘제거’는 영상 제목·설명·태그에서 개인의 이름 등 개인정보도 함께 제거하는 것을 의미한다. 게시자가 영상에서 얼굴을 흐리게 처리하는 방식으로 조처할 수 있다. 영상을 일시적으로 비공개로 돌리는 것은 해당하지 않는다.&lt;br&gt;&lt;br&gt;앞서 일부 유명인들은 AI 커버곡 등 생성형 AI 콘텐츠에 대해 우려의 목소리를 냈던 바 있다.&lt;br&gt;&lt;br&gt;가수 장윤정은 지난 3월 박명수 목소리로 녹음된 가수 비비의 ‘밤양갱’ AI 커버곡을 듣곤 “이건 좀 심각하다. 소름 돋는다. 엄청 디테일하다”라며 “노래까지는 AI가 안 될 거로 생각했는데 이러면 가수가 레코딩을 왜 해. 내 목소리로 AI 돌려서 음원을 팔면 되지. 그 기술 돈만 주면 되는 거 아니냐”고 했다. 이어 “호흡까지는 따라 하지 못했지만, 바이브레이션 스타일을 똑같이 한다”며 “공연을 하는 가수는 괜찮을 거다. 현장에서 느끼는 감동, 호흡, 눈빛이 있는데 그건 AI가 하지는 못한다. 그런데 립싱크는 AI가 할 수 있을 거 같다”고 했다.&lt;br&gt;&lt;br&gt;장윤정 남편인 도경완도 “박명수가 듣고 기절할 뻔했다고 하더라”라며 “AI 딥보이스라는 기술로 커버를 해서 논란이다. 수익을 가수가 가지고 못 가는 구조”라고 했다.&lt;br&gt;&lt;br&gt;박명수 역시 자신이 진행하는 라디오 방송에서 “저는 그 노래(밤양갱)를 부른 적이 없다”며 “그런데 (AI버전으로) 있더라. 그렇게 똑같을 줄은 몰랐다”고 했다. 그러면서 “우리 연예인들 어떻게 해야 하나. 저도 근래에 들은 AI버전 중 가장 싱크로율이 좋은 것 같다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“나이트클럽서 왜 내 나이 밝혀?” 직장동료 때린 20대 실형</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/04/HDUBIIZKNBEUZEYW5UQ255NDBE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/04/HDUBIIZKNBEUZEYW5UQ255NDBE/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Jul 2024 07:11:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F5VKLFP7I5XEXN4WCVHVONQ6EA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지법청사. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;나이트클럽에서 만난 여성들에게 자기 실제 나이를 밝혔다는 이유로 함께 클럽에 간 직장 동료를 폭행한 20대 남성이 실형을 선고받았다.&lt;br&gt;&lt;br&gt;4일 법조계에 따르면, 수원지법 형사15단독 황운서 부장판사는 상해 혐의로 기소된 A씨(28)에게 징역 6개월을 선고했다. 다만 추가 피해를 복구할 기회를 주기 위해 법정 구속은 하지 않았다.&lt;br&gt;&lt;br&gt;A씨는 지난해 7월15일 오전 5시50분쯤 경기 오산의 한 노래방에서 술을 마시던 중 화장실에서 직장 동료 B(26)씨의 얼굴 등을 여러 차례 때려 전치 8주의 치료가 필요한 상해를 입힌 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;그는 나이트클럽에서 만난 여성들과 노래방에서 술을 마시던 중 B씨가 여성들에게 자신의 실제 나이를 밝혀 화가 나 이런 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;황 부장판사는 “사건 범행의 경위, 폭력 행사의 횟수와 상해 정도 등에 비춰 보면 죄질이 상당히 무겁다”며 “피고인은 피해자로부터 용서를 받지 못했고 처벌 전력이 없는 점을 감안하더라도 실형에 처할 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>검사 24명 호명한 이원석 “상대가 저급하고 비열해도 외압 굴복 말라”</title>
       <link>https://www.chosun.com/national/court_law/2024/07/04/DXRG3TDUU5BBLFCZKHETYSLPQI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/04/DXRG3TDUU5BBLFCZKHETYSLPQI/</guid>
@@ -915,15 +958,6 @@
       <description/>
       <pubDate>Thu, 04 Jul 2024 06:16:13 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SQIACF3J7RF27GWVKU54I3DEWM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이원석 검찰총장이 4일 오전 서울 서초구 대검찰청으로 출근하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이원석 검찰총장은 민주당이 추진하는 ‘이재명 전 대표 수사 검사 탄핵’과 관련해 “상대가 저급하고 비열하게 나오더라도 위법하고 부당한 외압에 절대 굴복하지 말라”고 검사들에게 당부했다.&lt;br&gt;&lt;br&gt;이 총장은 4일 서울 서초구 대검찰청 청사에서 열린 월례 회의에서 이같이 말했다. 대검찰청은 이날 월례 회의 후 총장의 발언 요지를 공개했다.&lt;br&gt;&lt;br&gt;이 총장은 “(민주당의) 검사 탄핵 조치는 피고인들이 법정에서 패색이 짙어지자 법정 밖에서 거짓을 늘어놓으며 길거리 싸움을 걸어오고, 그마저도 뜻대로 되지 않자 아예 법정을 안방으로 들어 옮겨 자신들의 재판에서 판사와 검사, 변호인을 모두 도맡겠다 나선 것”이라고 비판했다.&lt;br&gt;&lt;br&gt;검찰총장은 ‘누구도 자신의 사건에서 재판관이 될 수 없다’는 법언을 인용하면서 “(탄핵 시도는) 사법부의 재판권과 행정부의 수사권을 침해하고 삼권분립 원칙에 정면으로 반하는 것”이라고 했다. 이어 “진실은 아무리 덮으려고 해도, 아무리 세월이 흘러도 반드시 그 진면목을 드러내게 되어 있다”고 했다.&lt;br&gt;&lt;br&gt;민주당이 이 전 대표 사건을 수사해 온 검사들에 대한 탄핵소추안을 발의한 지난 2일에도 이 총장은 긴급 기자회견을 열고 “방탄 탄핵이자, 위헌 탄핵이며, 위법 탄핵, 사법방해 탄핵, 보복 탄핵”이라며 비판했다.&lt;br&gt;&lt;br&gt;이 총장은 이날 야권에서 추진하는 ‘검찰청 폐지’ ‘수사-기소 분리’ 법안을 비판하며 이는 일선에서 묵묵히 일하는 검사들에 대한 방해라고 규정했다. 총장은 회의에서 ‘부산 돌려차기’ 사건을 재수사해 전모를 밝혀낸 검사를 비롯해 ‘계곡 살인’과 ‘세 모녀 전세 사기’, ‘SG증권발 주가조작’, ‘MZ 조폭 호텔 난동’ 사건 등을 수사한 검사 24명의 이름을 하나씩 불렀다.&lt;br&gt;&lt;br&gt;그러면서 “검찰청을 폐지하고 수사와 기소를 억지로 분리해 이처럼 밤낮없이 헌신하는 검사들의 모습을 더는 볼 수 없게 만들어 얻고자 하는 것이 무엇인지 알 수 없다”고 했다.&lt;br&gt;&lt;br&gt;이 총장은 “검사가 기소를 결정하려면 먼저 수사를 통해 팩트를 체크해야 한다”며 “직접 보고 듣고 수사해보지 않고 남이 만든 서류만으로 한 사람의 인생이 걸린 기소를 결정할 수는 없다”고 지적했다. 이어 “수사와 기소는 쪼갤 수 없는 것”이라며 “세계 어느 나라에도 없는 무모한 실험을 사람과 사회를 대상으로 아무런 책임감 없이 다시 고집스럽게 되풀이하는 것”이라고 비판했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강남 카페서 묻지마 식빵 테러…경찰, 수사 거부 의혹</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/04/P535EOXYY5ENFKTH5RWBUI65XE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/04/P535EOXYY5ENFKTH5RWBUI65XE/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Jul 2024 05:01:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7LYDZBGJTBDTFPKLD3NSXDNBKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정체를 알 수 없는 여성이 카페 손님들에게 식빵을 던지고 있는 모습. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남역 인근 한 카페에서 정체를 알 수 없는 여성이 손님들에게 식빵을 던지고 도망간 사건이 뒤늦게 알려졌다. 피해자는 당시 경찰이 “안 다쳤으면 된 것”이라며 사건 접수를 거부했다고 주장했다.&lt;br&gt;&lt;br&gt;4일 각종 온라인 커뮤니티에는 ‘강남역 식빵녀 테러’라는 제목의 글이 올라왔다. 피해자가 공개한 방범카메라 영상을 보면 한 여성이 카페 뒤쪽 문으로 들어와 갑자기 손님들에게 무엇인가를 던지고는 곧바로 도망쳤다. 피해자에 따르면 해당 사건이 발생한 것은 지난 2022년이다.&lt;br&gt;&lt;br&gt;피해자는 자신의 소셜미디어를 통해 당시 해당 여성이 던진 것은 식빵이었다며 칼이나 포크였다면 크게 다칠 뻔했다고 했다. 해당 여성이 손님들에게 식빵을 던진 이유는 밝혀지지 않았다.&lt;br&gt;&lt;br&gt;피해자는 “신고를 하려고 경찰서에 갔는데 담당 형사라는 분이 오셔서 지금 이거 말고도 중범죄 사건들, 바쁜 일도 많은데 안 다쳤으면 된 거 아니냐며 그냥 가라고 했다”고 주장했다.&lt;br&gt;&lt;br&gt;피해자는 언론 인터뷰에서 뒤늦게 당시 방범카메라 영상을 공개한 이유에 대해 “시간이 지났으니 이제 하나의 추억으로 남기자는 생각으로 영상을 올린 것”이라면서 “제가 대통령 딸이었다면 경찰이 당연히 범인을 잡으려고 하지 않았을까”라고 아쉬움을 드러냈다.&lt;br&gt;&lt;br&gt;네티즌들은 해당 사연을 접한 후 “식빵을 사람에게 던져도 죄가 안 되는 건가?” “경찰의 직무유기 아닌가” “경찰에게 식빵 던지고 도망가도 안 잡을 건가?” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;한편 당시 피해자가 사건 접수를 하려 했던 서울 강남경찰서 측은 조선닷컴과의 통화에서 “언론 보도를 통해 해당 사건을 인지하고 있다”면서 “실제 당시 경찰이 사건 접수를 거부했었는지 등은 저희가 확인을 해봐야 할 것 같다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>법원, 시청역 역주행 참사 가해 운전자 체포영장 기각</title>
@@ -942,38 +976,6 @@
       <description/>
       <pubDate>Thu, 04 Jul 2024 04:29:44 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PVUSLLZNA5AWDEWQP3THSUG2E4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭우가 내린 지난 2일 오전 서울 광화문 사거리를 시민들이 지나가고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 늦은 오후 수도권부터 비가 시작돼 오는 14일까지 열흘간 비가 계속 내리겠다고 기상청이 4일 밝혔다. 잠시 비가 멈추는 지역에선 체감기온이 33도까지 빠르게 치솟으며 찜통더위가 나타나겠다. &lt;br&gt;&lt;br&gt;기상청에 따르면, 4일 오후 장마전선(정체전선)과 저기압의 영향으로 수도권과 강원·충남권에서 비가 시작돼 밤사이 전국으로 확대되겠다. 이번 비는 장마전선에 저기압이 붙는 형태라 ‘짧고 굵게’ 비가 퍼붓고 그치겠다. 저기압 소용돌이가 북쪽 건조 공기와 남쪽 습윤 공기를 섞으며 한 차례 비를 뿌린 후 기류를 금세 안정시키기 때문이다. 4~5일 예상 강수량은 수도권 30~100㎜, 강원도 30~80㎜, 충청권 30~150㎜, 호남권 30~120㎜, 영남권 10~80㎜, 제주도 5㎜다.&lt;br&gt;&lt;br&gt;그러나 6일 새벽 곧바로 또 다른 정체전선이 형성되며 전국에 다시 비가 내리겠다. 6일 강수량은 중부지방 10~40㎜, 남부지방 5~20㎜, 제주도 5㎜로 예상된다. 이때도 장마전선에 저기압이 달라붙으며 비가 유지되는 시간이 길지는 않겠다. 간판이 흔들릴 정도인 순간풍속 초속 15m의 강한 바람도 동반할 것으로 보인다.&lt;br&gt;&lt;br&gt;비가 소강상태를 보이는 지역에선 찜통더위가 나타나겠다. 연이어 내린 비로 지표가 축축한 상태에서 강한 햇볕이 내리쬐며 습식 사우나에 들어간 듯 후텁지근하겠다. 습도가 높아지면 습기가 열을 머금어 밤사이 기온이 떨어지지 않기 때문에, 당분간 남부지방과 제주도를 중심으로 열대야(밤 최저기온 25도 이상)가 나타나는 곳이 많겠다. 5~6일 아침 최저기온은 21~26도, 낮 최고기온은 26~34도 수준을 보이겠다.&lt;br&gt;&lt;br&gt;장마전선이 생성과 소멸을 반복하면서 비는 다음주 일요일인 14일까지 계속될 전망이다. 관건은 저기압 발달 유무다. 최근 비가 잦은 것은 북쪽과 남쪽 기단이 서로 팽팽하게 맞서면서 그 사이로 전선이 형성됐기 때문이다. 올 장맛비는 장마전선이 만들어지고, 중국 쪽에서 저기압이 발달하면서 달라붙는 양상을 보이고 있다. 저기압이 붙지 않으면 기류를 안정화할 장치가 없어 강한 비가 오래 지속될 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 시청역 현장서 음주 측정했다더니...경찰, 병원 이송 후 진행</title>
-      <link>https://www.chosun.com/national/2024/07/04/RUCJAOCDVJH2NPTZE2WFBPXZBU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/07/04/RUCJAOCDVJH2NPTZE2WFBPXZBU/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Jul 2024 02:09:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XATENMV752NAPFKQCV7IK6XLJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 밤 서울 중구 시청역 부근에 차씨가 몰던 차가 인도로 돌진해 16명의 사상자가 발생, 조사관이 파손된 가해 차량을 살피고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1일 밤 9명이 죽고 7명이 다친 서울 시청역 역주행 참사 원인과 관련, 경찰은 운전자 차모(68)씨에 대한 1차 음주 측정을 병원 이송 후 진행 한 것으로 4일 확인됐다. 당초 경찰이 공식 브리핑에서 “현장에서 음주 감지 검사를 했다”고 밝힌 것과 상반된 것이다. 경찰은 “사고 현장에선 차씨 부상이 심각해 음주 측정을 할 수 없었을 뿐, 이후 병원에서 정상적으로 음주 측정이 이뤄졌다”며 “혼선을 드려 죄송하다”고 했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 사고를 낸 운전자 차씨는 사고 시각(오후 9시 26분)으로부터 1시간 37분이 지난 오후 11시3분 서울대병원에서 음주 측정을 했다. 경찰 관계자는 “차씨가 갈비뼈 부상 등으로 호흡 곤란이 있던 만큼 음주 측정이 사고 현장에서는 도저히 측정이 어려웠다”고 설명했다.&lt;br&gt;&lt;br&gt;실제로 차씨는 오후 11시3분 서울대병원에서 음주 측정을 할 당시에도 호흡 곤란 등 문제로 7차례 음주 측정을 시도한 끝에 음주 수치가 ‘0′으로 파악됐다고 한다. 이후 차씨는 11시35분 쯤 마약 간이 검사(소변)에서도 음성 판정을 받았다. 경찰은 추가적으로 차씨에 대한 채혈 검사도 했다고 한다. 경찰 관계자는 “채혈 검사는 영장을 받아야 하는 만큼 시간이 걸리기 때문에, 차씨 동의 하에 임의 제출 형식으로 채혈 검사가 이뤄졌다”고 했다.&lt;br&gt;&lt;br&gt;음주 측정은 사고 직후 이뤄줘야 결과 신뢰성이 그만큼 높아진다. 음주한 시간과 측정 시간 차이가 커질 수록 음주 수치는 낮게 나올 수 밖에 없기 때문이다. 경찰 관계자는 “사고 1시간 30분 후에 음주 측정이 이뤄졌기 때문에 음주 수치가 극명하게 낮아졌다고 보긴 힘들다”며 “그렇기 때문에 채혈 검사를 통해 보다 정확한 검사를 하려고 했던 것”이라고 했다.&lt;br&gt;&lt;br&gt;경찰의 브리핑 혼선은 이번이 처음이 아니다. 서울 남대문경찰서는 전날(3일) 기자회견에서 “마지막 사고 지점(BMW·쏘나타 충돌), 마지막 정지 지점(시청역 12번 출구 앞)에서 스키드 마크를 확인했다”고 했다. 회견 종료 30여분 뒤인 3시 5분, 스키드마크가 아니라 기름 자국이었다고 번복 입장을 냈다. 스키드 마크는 자동차가 급브레이크를 밟았을 때 도로 표면에 생기는 타이어 흔적이다. 브레이크를 밟았다는 증거로, 이번 참사의 쟁점인 급발진 여부를 가릴 수 있는 중대 단서다. 경찰 관계자는 “담당자가 긴장해서 말실수를 한 것 같다”고 했다.&lt;br&gt;&lt;br&gt;한편 경찰은 4일(오늘) 오후 차씨에 대한 첫 피의자 조사를 진행 할 계획이다. 사고 발생 약 2일 만이다. 그동안 차씨 부상 때문에 조사가 늦어질 수 밖에 없었다고 한다. 차씨는 지난 2일 본지 통화에서 “100% 급발진으로 인한 사고”라며 “브레이크를 계속 밟았으나 차량이 말을 듣지 않았다”고 했다. 경찰 관계자는 “병원에 방문해 피의자 조사를 할 계획이며 자세한 시간은 피의자 측과 조율 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RN5OSP2CHFB2HSHF3D3HYYE3YQ.jpg?width=4106&amp;height=2677&amp;auth=bbf7c2c42a95315694123a1e19a3e72eb0196b0281a3f79ac1b30c8c4c333076&amp;smart=true" type="image/jpeg" height="2677" width="4106">
-        <media:description type="plain">1일 밤 서울 중구 시청역 부근에서 한 남성이 몰던 차가 인도로 돌진해 최소 13명의 사상자가 발생, 조사관이 파손된 가해차량을 살피고 있다. 2024.7.2/뉴스1 ⓒ News1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“그 팀이 아닌데” 경찰 가족까지 신상털이… 화성동탄서에 무슨 일이</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/04/3T5DIYO4LNET3O2BHIZPEEERXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/04/3T5DIYO4LNET3O2BHIZPEEERXA/</guid>
-      <dc:creator>최훈민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Jul 2024 22:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXHKJIY2ZRHORIUZOE5WWD34WI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;화성동탄경찰서 뉴스1 자료사진&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“이번 일로 피해 입은 20대 남성을 비롯해 국민들께 가장 먼저 사죄의 말씀을 올린다. 하지만 무관한 우리 팀원들 신상이 털리고, 가족들을 향한 각종 욕설 및 조롱 댓글 등이 심해 누가 극단적 선택을 하지는 않을까 너무 우려스러운 상황이다. 팀원들을 상대로 한 사이버 테러는 멈춰 주시길 부탁 드린다.”&lt;br&gt;&lt;br&gt;경기 화성 동탄경찰서 여성청소년수사 4팀장 강동호 경감이 지난 1일 블로그에 장문의 글을 올렸다. 이 경찰서는 최근 50대 여성의 허위 신고로 무고한 20대 남성을 성범죄자로 단정해 강압 수사를 벌였다는 논란에 휩싸였는데 이 사건 수사와는 무관한 수사팀장이 네티즌의 ‘마녀사냥’ 중단을 요청하는 공개 입장문을 이례적으로 내놓은 것이다. 화성동탄서장은 “무고하게 상처 받은 팀원들에 대한 배려가 부족했다”며 사과했다. 대체 동탄서에선 무슨 일이 있었던 것일까.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇ 강압수사 논란 부른 성범죄 무고 사건&lt;/b&gt;&lt;br&gt;&lt;br&gt;일명 ‘동탄 헬스장 화장실 사건’은 지난달 23일 50대 여성 A씨의 신고로 시작됐다. A씨는 당일 오후 5시 10분쯤 화성시 한 아파트의 헬스장 옆 여자 화장실에서 한 남성이 용변을 보는 자신의 모습을 훔쳐보고 성적 행위를 했다고 신고했다. A씨는 20대 남성 B씨를 범인으로 지목했고, 다음날 경찰은 방범카메라 분석 등으로 B씨를 강제추행 혐의로 입건해 수사에 나섰다.&lt;br&gt;&lt;br&gt;B씨는 “여자화장실에 들어간 적이 없다”고 혐의를 강력 부인했다. 그러면서 경찰이 자신을 범인으로 단정하는 듯한 태도로 강압 수사를 했다는 취지의 주장을 유튜브에 올렸다. 당시 사건 담당 경찰관이 “방범 카메라 보니까 본인으로 확인됐어” “떳떳하면 가만히 계시면 돼요” 등의 말까지 했다는 것이다. 그러자 동탄서를 향해 “경찰이 무죄 추정 원칙을 어겼다” 등 비판이 쏟아졌다.&lt;br&gt;&lt;br&gt;이 사건은 지난달 27일 B씨를 신고한 A씨가 허위신고를 자백하면서 반전을 맞았다. 경찰은 다음날 B씨에 대한 입건을 취소하고 A씨를 무고 혐의로 입건했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇초기 수사팀은 비공개, 엉뚱한 곳으로 향한 네티즌의 마녀사냥&lt;/b&gt;&lt;br&gt;&lt;br&gt;3일 조선닷컴 취재에 따르면 당초 강압 수사 논란을 불러일으켰던 초기 수사팀과 사건을 종결한 수사팀, 가족까지 마녀사냥을 당한 팀은 모두 달랐다. 이 사건을 처음 맡았던 건 여청강력범죄팀이었다. 동탄서 여청과는 여청1·2·3·4팀과 여청강력범죄팀으로 각각 나뉘어 있다. 여청팀 4곳은 고소 등으로 피의자가 특정된 사건을, 여청강력범죄팀은 피의자가 특정 안 된 사건을 주로 담당한다. 당초 이 사건은 피의자가 특정되지 않아 여청강력범죄팀이 담당했다.&lt;br&gt;&lt;br&gt;동탄서는 강압 수사 논란이 일자 지난달 26일 ‘객관성을 갖고 사건을 다시 들여다봐야 한다’는 취지로 수사팀을 여청1팀으로 변경했다. 하지만 수사 주체가 바뀌었다는 사실은 공개하지 않았다.&lt;br&gt;&lt;br&gt;사건을 넘겨받은 여청1팀은 다음날인 27일 A씨가 허위신고를 자백하자 사건을 종결했다. 그리고 B씨에게 사건 종결 처분 문자를 보냈는데 이 문자가 여청1팀 명의로 나갔다.&lt;br&gt;&lt;br&gt;이 때문에 여청1팀이 이 사건을 처음부터 전담해 강압수사 논란을 빚은 것처럼 오인돼 네티즌의 공격 대상이 됐다. 불똥은 다른 곳으로도 튀었다. 앞서 지난달 26일 한 커뮤니티에 올라온 “동탄경찰서 1위 실적. 의심스러운데?”는 제목의 글이 네티즌의 오조준 시발점이 됐다. 동탄서 여청1팀이 지난해 전국 1위 여청수사팀에 올라 경찰청 선정 ‘베스트팀’으로 꼽혔다는 언론 보도 내용이었다. 이 글엔 “이번 사건과 같은 방식으로 사건을 처리해 실적 쌓기를 한 것 아니냐”는 비판이 쏟아졌다. 네티즌들은 기사에 나온 여청1팀 구성원 개인정보를 토대로 이들의 가족까지 찾아내 비난의 화살을 퍼부었다&lt;br&gt;&lt;br&gt;하지만 취재 결과 지난해 베스트팀에 선정됐던 여청1팀은 지난 2월 인사에서 여청4팀으로 바뀌었다. 과거 기사 때문에 사건과는 무관한 여청4팀 팀원들과 가족이 네티즌의 마녀사냥 대상이 된 것이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DSJVZMAYG4X5QT3FW4QI2EUB6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 26일 동탄경찰서에 올라온 입장문 /홈페이지 갈무리&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇ 동탄서장 “무고하게 상처 받은 팀원 배려 부족했다”&lt;/b&gt;&lt;br&gt;&lt;br&gt;여청4팀 강동호 팀장은 “우리 팀은 당사자 팀도 아닐뿐더러, 팀원 중 1명은 조부모 장례식으로 상중이었는데 이 사건으로 인해 온갖 욕설과 사이버 테러를 감당해야만 했고, 작년에 태어난 아기, 초등학생인 어린 자녀까지도 그 피해를 오롯이 감당해야만 했다”며 “심지어 저의 아내는 빨래방에 갔다가 그곳에 있던 주민들이 이번 사건에 있어 남편의 실명을 거론하며 욕설하고 조롱하는 것을 듣고 식사조차 못하고 있다”고 했다.&lt;br&gt;&lt;br&gt;그는 “저희 팀원들이 당한 것처럼 정작 당사자들이 감당해야할 부분을 다른 사람이 오인돼 고통받는 사례는 없어져야 하고, 아직 확인되지 않은 추측으로 인해 사이버 테러를 당하는 일 또한 없어져야 한다”고 했다.&lt;br&gt;&lt;br&gt;초기 수사를 맡았던 여청강력범죄팀장은 조선닷컴에 “그간 여청1팀에서 수사한 것으로 오해 받아 다른 팀장과 팀원이 비난받았다. 동료들이 상처를 입게 해 미안한 마음뿐”이라며 “아울러 우리 직원의 부적절한 언행으로 피해를 입게 된 B씨에게도 거듭 깊은 사과 말씀 드린다”고 했다.&lt;br&gt;&lt;br&gt;변창범 동탄서장은 “이 사건이 처음 공론화 됐을 때 내부에서 ‘어느 팀 잘못인데 다른 팀이 욕 먹고 있다’는 식으로 잘잘못을 가리기보다는 먼저 사건 자체를 제대로 해결하는 게 맞다고 생각했다”며 “이 때문에 무고하게 상처 받은 팀원들에 대한 배려가 부족했다. 부족한 점을 반성하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>﻿‘효리네 민박’ 유도소녀, 6년 후…파리 금메달 노린다</title>
-      <link>https://www.chosun.com/national/people/2024/07/04/Y3PFY5VY3BGPJICQWZ244S6AGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/07/04/Y3PFY5VY3BGPJICQWZ244S6AGQ/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Jul 2024 21:57:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FQVV4XTNNZE3DJF5LQSDA4572E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정예린(왼쪽에서 세 번째)이 대학교 재학 시절이던 2018년 '효리네 민박'에 출연해 소녀시대 윤아(왼쪽에서 네 번째)와 기념사진을 찍고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6년 전 ‘국가대표’를 목표로 했던 유도소녀가 파리올림픽 금메달을 노린다.&lt;br&gt;&lt;br&gt;유도 국가대표 정예린(28‧인천광역시청)은 용인대에 재학 중 유도부 동료들과 2018년 초 방영된 JTBC ‘효리네 민박’에 출연했다. 당시 친구들과 추억을 쌓기 위해 방송국에 출연 신청을 했고, 사연이 채택돼 ‘효리네 민박’에 초대받았다. 가수 이효리는 민박집 주인으로, 윤아는 민박집 직원으로 출연했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G3RR3XRGD5GFXJHS324IJW4QBU.png"&gt;&lt;figcaption&gt;&lt;small&gt;2018년 '효리네 민박'에 출연했을 당시 '나중에 국가대표가 되느냐'는 물음에 정예린이 크게 "네"라고 대답하고 있다. /JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당시 이효리의 남편 이상순은 용인대 유도부 선수들에게 “너희 나중에 국가대표 되고 그래?”라고 물었고, 정예린은 유독 크게 “네!”라고 대답했었다. 이를 들은 윤아는 “나중에 내가 자랑해야지. 얘네들과 같이 민박했었어”라고 했다.&lt;br&gt;&lt;br&gt;세월이 흘러 진짜 태극마크를 달게 된 정예린은 작년 항저우 아시안게임 유도 여자 52㎏급에서 동메달을 획득했다. 당시 윤아는 자신의 인스타그램에 정예린의 메달 획득 기사 사진을 올리고 “축하해! 멋지다 예린아!”라고 축하했다.&lt;br&gt;&lt;br&gt;이후 정예린은 파리올림픽을 위한 대표팀에도 선발됐고, 지난 5월 타지키스탄 두샨베에서 열린 2024 국제유도연맹(IJF) 그랜드슬램에서 동메달을 따면서 파리 올림픽 출전권을 얻었다. 올림픽 랭킹 상위 17위 안에 들거나 대륙별 자격 요건을 충족해야 출전권을 확보할 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3DS6ZIF7DBEBLL2NJ3A6VFVNKU.png"&gt;&lt;figcaption&gt;&lt;small&gt;2018년 '효리네 민박' 출연 당시 이상순이 "메달 따면 우리 집에 또 놀러오라"고 말하고 있다. /JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6년 전 방송에 함께 출연했던 친구 중 대부분은 은퇴했다. 정예린도 포기하고 싶던 순간이 많았지만, 못다 이룬 약속을 위해 참았다고 했다. 당시 이상순은 “너희들 메달 따면 우리 집에 또 놀러 와. 금메달 들고”라고 말했었다.&lt;br&gt;&lt;br&gt;정예린은 “지난번 (아시안게임) 동메달을 따고 축하는 받았지만 아직 초대를 못 받았다”며 “이번에는 꼭 메달 따서 초대받고 싶다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/22QHQ44W2FLKJLJRMIVCMN5CEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 13일 충북 진천국가대표선수촌에서 열린 2024 파리올림픽 유도 대표팀 미디어데이 기자회견에서 정예린이 취재진 질문에 답하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/2BJS6YHJKJE4JLEQG5GRHQ46BY.png?width=960&amp;height=573&amp;auth=8f765e761a50380dc08efab0786a4a7029ae391e6e06a55b617768ba41bcf330&amp;smart=true" type="image/png" height="573" width="960"/>
     </item>
   </channel>
 </rss>
