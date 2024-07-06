@@ -13,6 +13,27 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“욕하다 걸리면…” 음식점에 붙은 경고문, 무슨 일?</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/06/7ACZ3DUHDJDZXOLMJRCUGDXDRI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/06/7ACZ3DUHDJDZXOLMJRCUGDXDRI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Jul 2024 09:12:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZTNJMZEDVFCHBIBK5AJITB66JU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 음식점에 붙은 경고문. /아프니까 사장이다&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 음식점이 배달기사들을 겨냥해 ‘욕을 하다 걸리면 껍데기를 벗기겠다’는 거친 문구가 담긴 경고문을 부착한 사실이 알려졌다.&lt;br&gt;&lt;br&gt;지난 3일 국내 최대 자영업자 온라인 커뮤니티인 ‘아프니까 사장이다’에는 ‘어느 가게 사장님의 배달기사 경고문’이란 제목의 글이 올라왔다. 작성자는 한 음식점 유리문 앞에 붙어 있는 경고문을 찍은 사진을 공개했다.&lt;br&gt;&lt;br&gt;해당 음식점 업주는 경고문을 통해 “기사님들에게 말씀드린다”라며 “제가 (조리)완료 신호하기 전에 가게에서 재촉하지 말라. 저는 기사님들에게 배달료 드리는 고객이다”라고 했다.&lt;br&gt;&lt;br&gt;업주는 이어 “제가 기사님들 눈치 보면서 음식하고 싶지 않다”며 “제가 기사님들 시간을 맞출 의무는 없다. 불만 있으시면 저희 가게에 오지 마시라. 기사님들 시간 맞추다가 음식 망쳐서 고객에게 항의를 계속 받고 있다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “가게에서 나가면서 저에게 쌍욕 하지 말라. 쌍욕 하다가 저에게 다시 걸리면 껍데기를 벗기겠다. 경고한다”라고 했다.&lt;br&gt;&lt;br&gt;작성자는 해당 경고문을 언제, 어디에서 찍은 것인지 등은 밝히지 않았다.&lt;br&gt;&lt;br&gt;해당 경고문을 본 일부 자영업자는 “표현이 과하다” “제정신이 아닌 것 같다”며 업주를 비판했지만 상당수 자영업자들은 “이해가 된다”는 반응을 보였다.&lt;br&gt;&lt;br&gt;비슷한 경험을 해봤다는 자영업자들은 “준비완료도 안 눌렀는데 와서 음식 언제 나오냐고 재촉하는 기사님들이 많다” “왜 아직이냐고 화내고 다른 기사 잡으라는 분도 간혹 계시다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;반면 한 자영업자는 “어떻게 보면 서로 을인데 같이 상부상조해야 하는데 안타깝다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이들의 잘못된 만남…좋아하는 사람 만났다고 친구 폭행·감금한 20대</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/06/UPAJN26QAVHVRPMAGYELCSLBGA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/06/UPAJN26QAVHVRPMAGYELCSLBGA/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Jul 2024 08:17:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WXARDIJ5QNBLZD2PES5NVVVNPQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울 금천경찰서 청사 전경. /금천경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본인이 좋아하는 사람을 만난 친구를 불러내 4시간 가량 감금하고 폭행한 20대 남성 2명이 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;서울 금천경찰서는 지난 5일 친구를 감금 및 폭행한 혐의(감금치상)로 20대 남성 2명을 긴급체포했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;이 둘은 지인 사이로, 5일 새벽 피해자를 불러낸 뒤 자신들의 집으로 데려가 주먹과 도구 등으로 수차례 폭행했다. 가해자 2명과 피해자 모두 친구 사이로 알려졌다. 피해자가 탈출하려 하자 “휴대전화를 숨겼다”며 협박하며 4시간 넘게 감금한 혐의도 받는다. 피해자는 탈출에 성공했다고 한다.&lt;br&gt;&lt;br&gt;인근 주민의 신고를 받고 출동한 경찰은 이날 오전 11시 20분쯤 신고 지점에서 약 500m 떨어진 곳에서 이들을 붙잡아 긴급체포했다. 이들은 경찰 조사 과정에서 “피해자가 내가 좋아하는 사람을 만나 이 같은 범행을 저질렀다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 폭행 과정에서 도구가 동원된 만큼 특수폭행 혐의 적용 여부도 검토 중인 것으로 알려졌다. 경찰은 이들에 대한 범행 경위를 조사하는 한편, 구속영장 신청 여부를 검토 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/WXARDIJ5QNBLZD2PES5NVVVNPQ.png?width=405&amp;height=273&amp;auth=852540d650971fc499e9a7c115d5bde724358f691330ef1ee93bb5c571285394&amp;smart=true" type="image/png" height="273" width="405">
+        <media:description type="plain">서울 금천경찰서 청사 전경. /금천경찰서</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>‘갑질 의혹’ 강형욱, 사실상 본업 복귀…반려견 교육 유튜브 재개</title>
       <link>https://www.chosun.com/national/national_general/2024/07/06/D5AUK57TGNCEDPRYB7V4NVCFZU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/06/D5AUK57TGNCEDPRYB7V4NVCFZU/</guid>
@@ -934,15 +955,6 @@ photo@yna.co.kr
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JRIENCVM65GAJIM6N7XGI3LUSA.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 실종 신고가 접수된 최모 군 인상착의. /전북경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 전주의 한 고등학교에서 기말시험 중 교실을 나간 10대 학생이 실종 신고가 접수된 지 이틀 만에 경찰서 지구대로 찾아왔다.&lt;br&gt;&lt;br&gt;5일 전주완산경찰서에 따르면 지난 3일 오전 9시 40분쯤 최모(16)군이 학교에서 시험을 보던 중 교실 밖으로 나갔다. 키 178㎝에 몸무게 63㎏가량인 최군은 실종 당시 상고머리에 교복 차림이었다.&lt;br&gt;&lt;br&gt;최군은 기말고사 시험을 보던 중 가방 등 소지품을 놓고 교실을 나간 것으로 전해졌다. 학교는 최군이 보이지 않자 경찰에 실종신고를 했다.&lt;br&gt;&lt;br&gt;경찰은 방범카메라 분석 등을 통해 탐문 수사를 벌이는 한편, 실종 사흘째인 5일 오전 실종경보 문자를 발송했다.&lt;br&gt;&lt;br&gt;최군은 이날 낮 12시 30분쯤 직접 덕진지구대로 찾아왔다. 최군은 “내 이름으로 접수된, 나를 찾는 실종 신고가 있느냐”고 입을 뗐다. 그는 신고 내역을 본 뒤 “내가 그 사람이다”라며 자기 신원을 스스로 밝힌 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 “최군이 무사히 돌아와 보호자들에게 인계했다”며 “사춘기 시기에 학업 등으로 불안감이 심했던 것으로 파악된다. 이틀 동안 학교를 안 나가게 된 구체적인 경위 등을 확인해 볼 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘KT 일감 몰아주기’ 회삿돈 가족 생활비로 쓴 황욱정 KDFS 대표… 징역 2년 6개월</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/05/DPCKD3HXQ5G5JCV46RJVJMWWEI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/05/DPCKD3HXQ5G5JCV46RJVJMWWEI/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 03:07:44 +0000</pubDate>
-      <content:encoded>KT의 ‘일감 몰아주기’ 의혹 수사 중 횡령·배임 혐의가 드러난 KDFS 황욱정 대표에게 1심에서 실형이 선고됐다. KT 출신인 황 대표는 과거 인맥들에게 부정 청탁을 하고, 회삿돈을 가족의 생활비로 무단으로 이용한 혐의 등을 받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K2PVGLUOR5JFHCKCNWHV54QH3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;KT 일감 몰아주기 혐의를 받고 있는 황욱정 KDFS 대표가 작년 7월 13일 서울 서초구 서울중앙지방법원에서 열린 영장실질심사에 출석하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사24부(재판장 최경서)는 5일 특정경제범죄가중처벌법상 횡령·배임 등 혐의로 기소된 황 대표에게 징역 2년 6개월을 선고했다. 보석으로 풀려났던 황 대표는 이날 다시 수감됐다.&lt;br&gt;&lt;br&gt;재판부는 “공공적 성격을 갖는 KT로부터 수주를 받으면서 과거 인맥으로 알고 있던 이들에게 부정 청탁을 하며 법인카드 등 금전적 이익을 제공했다”며 “다분히 위법적인 방법으로 축적한 회사 이익을 자녀들이 무단으로 사용하도록 하는 등 회사를 개인 사업체처럼 운영했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “피고인은 혼자 12개의 법인카드를 사용하며 가족의 생활비와 여행경비를 지출한 일은 매우 비도덕적이다”며 “하지만 피고인은 수사 단계에서 법정에 이르기까지 진지한 반성을 하지 않았고, 무엇이 잘못인지 인식하지 못하는 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;황대표는 2017~2023년 외부인들에게 허위 자문료와 법인카드 등을 지급하고, 자녀 2명을 명목상 직원으로 KDFS에 등재시키는 등의 방법으로 회삿돈 48억원을 빼돌린 혐의로 작년 8월 기소됐다. 또 KT 임원들에게 용역 물량을 늘려달라고 청탁하며 수천만원의 금품을 제공하고, 시설관리 용역을 다른 업체로 불법 재하도급을 준 혐의도 받았다.&lt;br&gt;&lt;br&gt;하지만 이날 재판부는 황 대표의 일부 자문료, 특별성과급 지급 혐의는 증명되지 않는다며 일부 무죄로 판단해 약 26억원을 피해액으로 인정했다.&lt;br&gt;&lt;br&gt;앞서 검찰은 KT그룹이 2020년 구현모 전 대표 취임 후, KT 측이 기존 4개 하청업체에 나눠주던 일감을 KDFS에 의도적으로 몰아줬다는 의혹을 수사했다. 구 전 대표가 KDFS에 일감을 몰아주는 과정에서 수십억원대 비자금을 조성했을 가능성을 조사한 것이다. 검찰은 일감 몰아주기 특혜를 받은 것으로 의심한 황 대표를 수사하다가, 횡령·배임 혐의를 포착해 먼저 기소했다.&lt;br&gt;&lt;br&gt;검찰은 지난 5월 구 전 대표를 무혐의 처분했다. 다만 KT 전현직 임원 3명에게 건물관리 용역 물량을 늘려달라는 청탁과 함께 수천만원 상당의 금품을 제공한 혐의(배임증재)로 황 대표를 또다시 별도로 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>檢, 9일 카카오 창업주 김범수 소환 조사 예정</title>
       <link>https://www.chosun.com/national/national_general/2024/07/05/OS5PI6G64FCHPGIUYHMHSJB6QM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/05/OS5PI6G64FCHPGIUYHMHSJB6QM/</guid>
@@ -968,15 +980,6 @@ photo@yna.co.kr
       <description/>
       <pubDate>Fri, 05 Jul 2024 01:46:41 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C5Y67N3DJZE3ZNAIPKATDIWHW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 올여름 장마가 시작되면서 서울 광화문 사거리에서 폭우가 내리고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 주말 밤에는 거센 비가 퍼붓고 낮에는 무더위가 찾아올 것으로 보인다.&lt;br&gt;&lt;br&gt;5일 기상청에 따르면 토요일인 6일 새벽부터 중부 지방과 전북, 경북권에 비가 내리겠다. 비는 오전부터 오후 사이 소강상태를 보이다 밤이면 서울, 경기 북부, 강원중·북부 대부분 지역에서 그치겠다.&lt;br&gt;&lt;br&gt;6일 늦은 새벽에는 경남 북서 내륙, 오후에는 제주도, 늦은 밤부터는 전남 북부에 비가 내리겠다.&lt;br&gt;&lt;br&gt;6일 예상 강수량은 서울·인천·경기, 서해5도 10~50mm, 강원내륙·산지 10~40mm, 강원동해안 5mm 내외, 대전·세종·충남 10~40mm, 충북 5~20mm, 전북 5~20mm, 전남북부 5mm 미만, 경북북부 5~20mm, 경남북서내륙 5mm 미만, 제주도 5mm 미만이다.&lt;br&gt;&lt;br&gt;그러나 비가 더위를 식혀주지는 못할 것으로 보인다. 낮 최고기온은 26∼35도로 예보돼 평년(최고 25∼29도)보다 높을 것으로 예상된다.&lt;br&gt;&lt;br&gt;일요일인 7일은 수도권 북부와 강원중·북부를 제외한 전국 대부분 지역에 비 예보가 있고 전국이 대체로 흐리겠다. 비는 새벽에 경기 남부와 강원 남부에서 대부분 그치겠고, 곳곳이 소강 상태를 보이겠다.&lt;br&gt;&lt;br&gt;7일 낮 최고 기온은 26~33도로 예보됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TZ62CUBO3VJGZDMJ334CC2R6BU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산에 폭염주의보가 발효 중인 지난 4일 오후 남구 한 도로 위로 지열로 인한 아지랑이가 피어오르고 있다. 이날 울산의 낮 최고기온은 33도를 웃돌았다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“월급 올려줄게”... 편의점주, 40살 어린 20대 알바생에 성범죄</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/05/YT7IJ4UXOZAQRBYTQB6BKAEBRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/05/YT7IJ4UXOZAQRBYTQB6BKAEBRU/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Jul 2024 23:53:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;60대 편의점 업주가 자신보다 40살 어린 20대 여성 아르바이트생에게 성범죄를 저지른 혐의로 재판에 넘겨져 실형을 선고받았다. 해당 점주는 범행 후 ‘월급을 올려주겠다’며 피해 여성을 회유하기도 했다.&lt;br&gt;&lt;br&gt;5일 춘천지법 원주지원 형사1부(이수웅 부장판사)는 강제추행, 유사 강간 혐의로 구속기소 된 60대 A씨에게 징역 3년을 선고했다고 밝혔다. 또 40시간의 성폭력 치료 프로그램 이수와 아동·청소년·장애인 관련 기관에 각 5년간 취업제한을 명령했다.&lt;br&gt;&lt;br&gt;강원도 원주에서 편의점을 운영하고 있는 A씨는 지난해 8월 13일 새벽 3시쯤 아르바이트를 마치고 귀가하기 위해 짐을 챙기는 20대 여성 B씨에게 다가가 갑자기 신체 여러 곳을 만지고 옷을 강제로 벗기려고 하는 한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 같은 달 20일엔 노래방과 택시 뒷좌석에서 B씨를 강제 추행했고, 같은 달 28일엔 편의점에서 근무 중인 B씨를 강제로 등 뒤에서 껴안고 양손으로 몸을 만진 혐의도 있다.&lt;br&gt;&lt;br&gt;A씨는 앞서 같은 해 7월에는 아르바이트를 마친 B씨를 뒤따라가 손을 잡으면서 ‘보는 사람 없어, 한 번만’이라고 말하고 안으려 한 혐의도 있다.&lt;br&gt;&lt;br&gt;A씨는 추행이나 유사 성폭행 이후 B씨에게 ‘월급을 올려주겠다’고 하는 등 경제적 보상으로 사건을 무마하려 한 것으로 드러났다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 경제적으로 어려운 피해자의 상태를 인지한 상황에서 범행한 다음 월급을 올려주겠다고 하는 등 자신의 잘못을 경제적 보상으로 무마하려고 했다”며 “자신보다 40살 어린 피해자를 강제로 추행하고 유사 강간한 것으로 죄질이 나쁘다”고 양형이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“의사 늘린다고 응급실 뺑뺑이 안 없어져… 수가 현실화가 최우선”</title>
