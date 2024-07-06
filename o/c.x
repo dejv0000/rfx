@@ -13,6 +13,102 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울역 옆 코레일 서울본부서 화재…“인명피해 없어”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/06/7L2ZUO7WFRDAXPV47O55Z2GTHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/06/7L2ZUO7WFRDAXPV47O55Z2GTHY/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Jul 2024 01:36:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VVOKXQ5UABGF7EGJ7NGI3RT244.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오전 10시 40분쯤 서울 동자동 코레일 서울본부 앞 /네이버 지도 CCTV&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 오전 9시 40분쯤 서울 중구 봉래동 한국철도공사(코레일) 서울본부 지하 전산실에서 화재가 발생했다. 코레일 서울본부는 유동 인구가 많은 서울역 바로 옆에 있다. 과거 교통부와 철도청 본청 사옥으로 사용되어 온 건물이기도 하다.&lt;br&gt;&lt;br&gt;소방당국은 차량 46대와 인력 177명을 투입해 화재 시작 1시간 20분 만인 이날 오전 11시 3분쯤 큰 불길을 잡아 초진을 완료했다. 용산소방서 관계자는 “현재 건물 모든 층을 다니며 확인 중”이라고 했다. &lt;br&gt;&lt;br&gt;소방당국에 따르면 이 불로 인한 인명 피해는 없었고, 재산 피해는 집계 중이다. 소방당국은 불이 건물 안에 있는 배관(덕트)를 타고 올라 상층부까지 번진 것으로 보고 정확한 화재 원인을 조사할 예정이다.&lt;br&gt;&lt;br&gt;코레일 관계자는 “주말이라 이 건물에서 근무하던 인원이 적었다”며 “현장에 있던 인원 2명은 자력으로 대피했다”고 했다. 다만 현재 이 화재로 전산 장애가 발생, 역 창구에서 승차권 조회 및 발매·환불이 불가능하다. 코레일은 “창구 대신 애플리케이션 코레일톡을 이용해달라”고 당부했다.&lt;br&gt;&lt;br&gt;화재 여파로 숙명여대 앞 청파동삼거리에서 서울역 서부 교차로 방면 2·3차로는 전면 통제됐다가, 점차 정상화되고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KRVRFZVSWZOZNMRY5CYNTYZ2LA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오전 서울 중구 봉래동 한국철도공사(코레일) 지하 전산실에서 화재가 발생, 소방당국이 진화작업을 벌이고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KRVRFZVSWZOZNMRY5CYNTYZ2LA.jpg?width=524&amp;height=550&amp;auth=30a5b08a12821bee37078f020d26ca010565768edb2e411fa746b64363725e92&amp;smart=true" type="image/jpeg" height="550" width="524">
+        <media:description type="plain">&lt;YONHAP PHOTO-3582&gt; 코레일 서울본부 전산실 화재
+    (서울=연합뉴스)  6일 오전 서울 중구 봉래동 한국철도공사(코레일) 지하 전산실에서 화재가 발생, 소방당국이 진화작업을 벌이고 있다. 2024.7.6 [독자제공. 재판매 및 DB금지]
+photo@yna.co.kr
+(끝/2024-07-06 10:39:27/
+&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">사진부공용</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘순직 해병’ 대대장 측 변호사, 공수처에 임성근 추가 고발</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/06/OTPAKSKYNBDRHNM2ZV4XOXJEFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/06/OTPAKSKYNBDRHNM2ZV4XOXJEFM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Jul 2024 01:19:22 +0000</pubDate>
+      <content:encoded>‘순직 해병’ 사건 당시 실종자 수색 지휘에 참여한 이용민 해병1사단 포병여단 포7대대장의 변호를 맡은 김경호 변호사가 임성근 전 해병1사단장을 고위공직자범죄수사처(공수처)에 고발한 것으로 6일 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N55MQD3HI422G23IFQIOM7BOLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'순직 해병' 사건 관련 조사를 위해 지난 5월 경북 경산시 경북경찰청 형사기동대에 피의자 신분으로 소환됐던 임성근 전 해병대 1사단장이 14일 오전 22시간이 넘는 조사를 마친 뒤 나서며 취재진에게 입장을 밝히기 전 잠시 눈을 감고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 김 변호사는 이날 임 전 사단장을 직권남용권리행사방해, 업무상과실치사 등 혐의로 공수처에 고발했다. 그는 임 전 사단장을 위계에의한공무집행방해, 허위보고, 허위사실 명예훼손 등 혐의로 고발한 바 있다.&lt;br&gt;&lt;br&gt;김 변호사의 추가 고발은 경북경찰청 수사심의위원회가 임 전 사단장과 하급 간부 2명의 과실치사 혐의를 인정하기 어렵다는 결론을 내린 것으로 알려진 데 따른 것이라고 한다. 경북청은 5일 대학교수 5명을 포함해 법조인과 사회 인사 등 외부 위원 11명으로 구성된 심의위를 열었다. 위원들은 경찰의 수사 결과를 분석하고 피의자에게 적용할 혐의 적정성을 논의했다. 그 결과 채 상병 순직과 관련해 업무상 과실치사 혐의를 받는 피의자 9명 가운데 6명은 과실 치사 혐의로 송치하되, 임 전 사단장 등 3명은 혐의가 없다고 결론 내린 것으로 알려졌다.&lt;br&gt;&lt;br&gt;다만 심의위 결정을 따라야 하는 것은 아니다. 경북청은 오는 8일 오후 2시 순직 해병 사건의 최종 수사 결과를 발표할 예정으로, 임 전 사단장의 송치 여부도 이때 밝혀질 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ARFVP5U7ZIWHD6RC7H2CUHNW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;실종자 수색 도중 순직한 채 상병이 속했던 해병대 제1사단 7포병대대의 전 대대장 이용민 중령이 지난달 13일 오후 국립대전현충원 채상병 묘역을 찾아 참배하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법조계에선 임 전 사단장 불송치 결정이 내려질 경우 해병대 수사단의 당초 수사 결과가 과도했다는 의미가 될 수 있다는 분석이 나온다. ‘순직 해병 조사 외압’ 의혹을 제기한 박정훈 전 해병대 수사단장은 사건 기록을 경북청에 이첩하기 전 임 전 사단장 등에게 과실치사 혐의를 적용해야 한다고 이종섭 당시 국방장관에게 보고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;당시 이 장관은 경찰에 사건 이첩을 보류하라는 명령을 내렸지만 수사단은 이를 따르지 않았다. 국방부 검찰단은 수사 서류를 경찰에서 회수하고 박 대령을 항명 등 혐의로 고발했다. 이후 해병대 대대장 2명의 범죄 혐의만 적용해 사건을 경찰에 재이첩했다. 이 과정에서 임 전 사단장이 제외되면서 이른바 ‘수사 외압’ 논란이 본격화했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이틀새 울산 아파트 화단서 또 돈다발...2500만원 추가 발견</title>
+      <link>https://www.chosun.com/national/incident/2024/07/06/X27VDFWTEFEE7EY7R4EHSNSNNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/06/X27VDFWTEFEE7EY7R4EHSNSNNY/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Jul 2024 02:21:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LNGTBMGHPSHCICB4MOPFLKVMGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;위 사진은 기사 내용과 무관함. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5000만원의 돈다발이 발견된 울산 한 아파트 화단에서 또다시 2500만원의 현금이 발견돼 경찰이 경위를 파악하고 있다.&lt;br&gt;&lt;br&gt;6일 경찰에 따르면 이날 울산 남구 한 아파트 화단에서 환경미화원이 검정 비닐봉지 안에 든 현금 2500만원을 발견했다며 경찰에 신고했다. 현금은 모두 5만원권으로 100장씩 다섯 다발이었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이날 추가로 습득 신고된 현금은 이틀 전 5000만원이 담긴 비닐봉지가 발견된 곳과 불과&amp;nbsp;1m 정도 떨어진 곳이다. 앞서 지난 4일 오후 2시쯤 이 아파트 경비원이 순찰 도중 화단에서 현금 5000만원이 든 검정 비닐봉지를 발견한 바 있다.&lt;br&gt;&lt;br&gt;경찰은 형사팀과 과학수사대를 투입해 현장 수사를 벌이는 한편, 돈 소유자를 찾게 되면 범죄 관련성이 있는지를 살펴볼 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>접근금지 풀린지 하루 만에 또 스토킹한 20대 男, 집행유예</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/06/KYYYHR6ZQFA33OPBQCCQRVQLPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/06/KYYYHR6ZQFA33OPBQCCQRVQLPA/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Jul 2024 02:18:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LZSHYSOOQD45REJ3PPUVROF44A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지법 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원의 접근금지 명령이 풀린 지 하루 만에 10대 여성을 상대로 스토킹을 한 남성이 집행유예를 선고 받았다.&lt;br&gt;&lt;br&gt;서울남부지법 형사13단독 김재은 판사는 스토킹 범죄의 처벌 등에 관한 법률 위반 혐의로 기소된 20대 남성 A씨에 징역 6개월에 집행유예 2년을 선고하고, 보호관찰과 40시간의 스토킹 범죄 예방 강의 수강을 명령했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 10월 한 채팅 애플리케이션에서 알게 된 10대 여성 B씨가 원치 않음에도 13차례에 걸쳐 연락을 해 불안감과 공포심을 일으킨 혐의로 재판에 넘겨졌다. A씨는 B씨가 본인의 연락을 받지 않자, 송금 내용에 자신의 이름을 표기해 돈을 보내거나, 극단적 선택을 암시하는 내용의 사진을 보낸 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이후 A씨는 법원으로부터 B씨에 대한 접근금지 명령을 받았으나, 접근금지 명령이 끝난 지 하루 만에 또 다시 이 같은 범행을 저지른 것으로 파악됐다. A씨는 지난해 11월 같은 범죄로 이미 법원으로부터 벌금 300만원의 약식명령을 선고 받기도 했다.&lt;br&gt;&lt;br&gt;재판부는 “피해자가 상당한 정신적 충격과 고통을 받은 것으로 보이고, 피고인에 대한 엄벌을 탄원하고 있다”며 “피고인이 100만원을 공탁했으나 피해자 측이 이를 수령할 의사가 없다고 밝혔다”고 설명했다.&lt;br&gt;&lt;br&gt;이어 “피고인이 범행을 자백한 점, 범행 동기와 경위, 수단 등을 고려해 형량을 정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4CLTTVXP6Z5566DGKWTBCIIZYU.jpg?width=2997&amp;height=2997&amp;auth=9c19a7c8ab50d1410ad15dcc5226632340fc5a35fa73ecdf506494ba83c09968&amp;smart=true" type="image/jpeg" height="2997" width="2997">
+        <media:description type="plain">서울남부지법(서울남부지방법원) 입구 2020.6.15/뉴스1 ⓒ News1 황덕현 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 황덕현 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>이영지, 가정사 고백...”집 나간 아버지, 이젠 모르는 아저씨” </title>
+      <link>https://www.chosun.com/national/people/2024/07/06/54WWH6734BD75HJVV4RQ73LEEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/07/06/54WWH6734BD75HJVV4RQ73LEEQ/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Jul 2024 02:12:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O2GOWGA2TF547AWCSCT4W5FKRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 이영지(22)./KBS 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 이영지(22)가 아버지 없이 살아온 자신의 가정사를 털어놨다.&lt;br&gt;&lt;br&gt;이영지는 지난 5일 방송된 ‘KBS 2TV ‘더 시즌즈-지코의 아티스트’에 출연했다. 그는 최근 발매한 새 미니앨범의 더블 타이틀 곡 중 한 곡을 설명하면서 부친을 언급했다.&lt;br&gt;&lt;br&gt;이영지는 “제가 아버지랑 안 사는 가정 형태로서 살아왔다. 아버지가 집을 나가서 안 보인지 정말 오랜 시간이 지나서 이제는 거의 기억에 안 남아있다”고 말했다. 이영지는 부친 없이 할머니, 어머니와 오래 살아온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이어 “그 상태에서 저는 이미 남아있는 구성원들과 행복한 상태”라며 “사라진 그를 사라진 채로 모르는 아저씨라고 생각하고 싶다는 개인적인 뜻을 담아보고 싶어서 이 노래를 만들게 됐다”고 설명했다. &lt;br&gt;&lt;br&gt;이에 사회자 지코는 “화자는 냉소적인데 받아들이는 사람은 뭉클한 부분이 있다”고 반응했다. &lt;br&gt;&lt;br&gt;한편, 이날 이영지는 도경수와 함께 한 자신의 새 앨범 타이틀 곡 ‘스몰 걸’ 뮤직비디오 속 도경수와의 기습 뽀뽀신에 얽힌 비하인드 스토리를 밝혔다. &lt;br&gt;&lt;br&gt;이영지는 “뽀뽀 장면인데 고민을 많이 했다”며 “콘티를 보고 감독님에게 뽀뽀신에 대해 강력하게 항의를 했다”고 말했다. 이어 “하지만 전개상 괜찮고 뽀뽀신은 내가 거절하면 무례할 수 있으니 ‘저쪽(도경수 쪽)에서 하겠다고 하면 하자’라고 했다. 오히려 거절해주길 바랐었다고”했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원, “삼청교육대 ‘보호감호’ 피해자들에 국가배상하라”</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/06/FC7GUXQPXJBFPKJV4YAVRZCGAU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/06/FC7GUXQPXJBFPKJV4YAVRZCGAU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Jul 2024 01:25:57 +0000</pubDate>
+      <content:encoded>1980년대 군사정권 시절 ‘사회정화’를 명분으로 시민들을 강제 수용한 삼청교육대에서 순화교육과 근로봉사에 이어 불법적인 보호감호 처분까지 받아 인권을 침해당한 이들에게 국가가 배상하라는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYW56QFHN5ASRDOAYV7U5TDR6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지법에서 법원 직원들과 민원인들이 오가고 있다./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 민사23부(재판장 김동빈)는 삼청교육대 입소로 피해를 입은 김모씨 등 19명이 국가를 상대로 제기한 손해배상청구 소송에서 국가의 불법행위가 있었다며 1인당 300만~2억8000만원을 지급하라고 지난 3일 판결했다. 피해자 19명에게 인정된 손해배상액은 총 17억6000여만원이다.&lt;br&gt;&lt;br&gt;재판부는 “원고들은 계엄포고에 따라 영장 없이 체포·구금돼 삼청교육대에서 순화교육을 받았고, 근로봉사라는 미명하에 구금 상태에서 법률에 의하지 않은 강제노역을 했다”고 봤다. 이어 “이후에도 보호감호 처분을 받음으로써 신체의 자유와 인간으로서 존엄성을 침해당했다”고 했다. 또 “이는 공권력을 남용한 직무상 불법행위로서 법질서 전체의 관점에서 위법하다고 평가함이 타당하다”며 “위 행위에 관련된 공무원의 고의·과실도 인정할 수 있다”고 판단했다.&lt;br&gt;&lt;br&gt;삼청교육 사건은 1980년 전두환 대통령 시절 계엄포고 제13호에 의해 군부대에 삼청교육대를 설치하고, 4만여 명을 수용해 순화교육, 근로봉사 등을 시키며 대규모 인권 침해를 자행한 사건이다. 수용된 이들 중 재범 위험성이 있다고 분류된 7500여명은 사회보호법 부칙 제5조 1항에 따라 최장 40개월까지 보호감호 처분을 받았다.&lt;br&gt;&lt;br&gt;보호감호 처분이 내려진 이들은 군부대에 계속 수용돼 사회와 격리된 채 근로봉사, 순화교육을 명목으로 노역을 하면서 인권이 침해되는 불이익을 겪었다. 폐지된 옛 사회보호법에 규정돼 있던 보호감호는 상습범이나 재범 가능성이 있는 사람에게 사회 복귀를 위한 직업훈련을 시키던 제도였는데, 1980년대 군사정권 하에서는 부당 구금에 이어 수용 생활로 이어지는 위법한 공권력 실행 수단으로 악용됐다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가해車 사고 이력 보니…6년 간 6번 사고</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/06/45XO36F6VZCTJBLANSEVWXGDZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/06/45XO36F6VZCTJBLANSEVWXGDZQ/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Jul 2024 00:23:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F5IIXAPMXBF65CDDPZHYOJKTHY.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 밤 서울 시청역 인근에서 역주행 사고를 낸 차량. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1일 일어난 서울 시청역 역주행 참사의 가해 차량이 6년 간 6번의 사고를 낸 것으로 확인됐다.&lt;br&gt;&lt;br&gt;보험개발원이 운영하는 ‘카히스토리’에 따르면, 사고 당시 가해자 차모(68)씨가 몰았던 차량은 등록된 지난 2018년부터 이번 사고 이전까지 총 6번의 사고를 냈다.&lt;br&gt;&lt;br&gt;연도 별 사고 건수는 차량을 처음 등록한 2018년 9월 1건, 2019년 2월 1건, 2020년 10월 1일·27일 총 2건, 2021년 11월·12월 총 2건이다.&lt;br&gt;&lt;br&gt;해당 기간 이 차량에 대한 수리비 견적은 총 581만5418만원이다. 이 차량 사고로 인한 상대차 피해는 13회로, 차씨 측이 부담한 상대차 수리비 견적은 668만1847원이다.&lt;br&gt;&lt;br&gt;이 차량의 소유주는 사고 당시 동승자인 차씨의 부인이지만, 그간 차씨 부부는 이 차량을 함께 사용해온 것으로 알려졌다. 다만 과거 6번의 사고 당시 누가 운전을 했는지는 알려지지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AZH5QH5BD7TTIIOU3SKH4MHU3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 견인차로 시청역 역주행 참사 가해차량을 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;차씨는 1974년 버스 면허를 취득한 뒤, 서울과 안산 등지에서 버스 기사로 일했다. 작년 2월 3일 경기 안산 소재의 한 버스 운수 회사에서 촉탁직으로 채용돼 20인승 시내버스를 운전해왔다.&lt;br&gt;&lt;br&gt;앞서 지난 1일 오후 9시 27분쯤 발생한 시청역 역주행 참사로 9명이 숨지고 7명이 다쳤다. 경찰은 가해자 차씨를 교통사고처리특례법상 업무상 과실치사상 혐의를 적용해 입건했다. 차씨는 경찰에 “사고 당시 브레이크가 딱딱했다”며 급발진을 주장하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/F5IIXAPMXBF65CDDPZHYOJKTHY.png?width=1200&amp;height=675&amp;auth=f247c9697bc43032abccccf1262ed8f469e3512f9ef50b50fdbb2c4b98776191&amp;smart=true" type="image/png" height="675" width="1200">
+        <media:description type="plain">지난 1일 밤 서울 시청역 인근에서 역주행 사고를 낸 차량./사진=박상훈 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>수도권, 강원도에 비… 광주·전남 폭염특보 지속</title>
+      <link>https://www.chosun.com/national/education/2024/07/06/3FRDNQJYYBBMFOMLMPY2P7U4QY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/07/06/3FRDNQJYYBBMFOMLMPY2P7U4QY/</guid>
+      <dc:creator>김연주 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Jul 2024 00:23:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IDPOH4M4V5DIFAQCJESSTFUFLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 오전 올여름 장마가 시작되면서 서울 광화문 사거리에서 폭우가 내리고 있다. / 장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 6일 수도권과 강원도를 중심으로 비가 내리겠다. 충청권과 경북 지방엔 밤에 비가 오겠다. 남부와 중부 일부 지역엔 폭염 특보가 계속 되겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 이날 아침 기온은 서울 22도, 대전 23도, 광주 25도, 대구 25도, 부산 23도 등이었다.&lt;br&gt;&lt;br&gt;낮에는 서울 29도, 인천 27도, 세종 32도, 대전 32도, 전주 34도, 광주 33도, 강릉 31도, 대구 35도, 울산 32도 등으로 어제보다 1~2도 가량 높겠다.&lt;br&gt;&lt;br&gt;수도권과 강원도를 중심으로 비가 내리고, 충청권에는 저녁에 비가 내리기 시작해 늦은 밤엔 경북북부내륙에도 비가 오겠다. 내일은 충청권과 남부지방을 중심으로 비가 내리겠다.&lt;br&gt;&lt;br&gt;수도권은 시간당 10~30mm, 강원도는 10~20mm의 강한 비가 내리는 곳이 있겠다. 충북, 경북북부내륙, 전북동부, 전남권 북부에도 시간당 20~30mm의 강한 비가 내리는 곳이 있겠다. 충남권과 전북서부는 시간당 30mm 내외 매우 강한 비가 내리는 곳이 있을 전망이다.&lt;br&gt;&lt;br&gt;오전 9시 기준 광주와 전남 지역에 폭염 경보가, 경기·충남 일부 지역 등에 폭염 주의보가 발효 중이다.&lt;br&gt;&lt;br&gt;광주와 전남 일부 지역은 최고 체감 온도 35도 내외, 그 밖의 폭염주의보 지역은 33도 내외까지 오르겠다.&lt;br&gt;&lt;br&gt;기상청측은 “오늘 내일 비가 오는 지역은 일시적으로 기온이 조금 내려가겠지만, 비가 그친 후 습도가 높은 상태에서 낮 동안 다시 기온이 오르면 무덥겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;오전엔 남해안을 중심으로 바다 안개 낀 곳이많을 전망이다. 기상청측은 “덥고 습한 남서풍이 불어온 영항이다. 전남해안, 경남권 해안, 제주도 해안에는 짙은 안개가 끼는 곳이 많겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘욕설·고성’ 손아카데미 경기 영상 보니... “긴박한 상황서 과격한 표현” 해명</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/06/SBTY4MZY2ZGAZA2R3LE5BQWHFQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/06/SBTY4MZY2ZGAZA2R3LE5BQWHFQ/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Jul 2024 23:34:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C7Z55F6FZGM6WBR3Q7XQRNPHGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손웅정 SON축구아카데미 감독./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유소년 축구 훈련기관 ‘SON축구아카데미’의 손웅정 감독 등이 아동학대 혐의로 검찰 조사를 받는 가운데 실제 경기에서 욕설 등이 나왔던 정황이 포착됐다.&lt;br&gt;&lt;br&gt;5일 연합뉴스는 손아카데미 유소년 선수들의 경기 영상을 공개했다. 올해 초 일본 후쿠오카에서 있었던 U-13 경기 모습을 촬영한 이 영상에는 손 감독 등 코치진의 욕설과 고성, 질책 등이 담겨 있었다.&lt;br&gt;&lt;br&gt;경기 중 손아카데미 소속 선수가 중거리 슈팅을 시도했으나 크게 벗어났다. 이에 곧장 벤치에서 “야 이 ○○야”라는 욕설이 나왔다. 이어 “만들라니까”라고 호통치며 욕설과 함께 “X값 떨지 말라”고 했다.&lt;br&gt;&lt;br&gt;한 코치는 선수 이름을 언급하며 “야, 너는 벙○○야? 머릿수 채우려고 들어갔냐?”고 말했다. “하기 싫으면 나와 이 ○○야” “야 이 ○○야. 비실비실할 거면 나와”라는 발언을 하기도 했다.&lt;br&gt;&lt;br&gt;이외에도 “너 왜 미친놈처럼 벌려 있는 거야?” “욕먹기 싫은 거야? 욕먹는 게 두려운 거야?”라는 등 질책하는 음성도 있었다. 선수들의 경기력이 마음에 들지 않는 듯 매우 큰 목소리로 혼내거나 짜증 섞인 탄식도 있었다고 한다.&lt;br&gt;&lt;br&gt;해당 경기 영상과 관련 손아카데미 측은 당시 선수들은 정식 대회에 첫 참가를 하게 되었고, 처음으로 11인제 경기에 출전했다”며 “선수들이 과도하게 긴장해 감독님과 코치님들이 매일 강조하였던 사항(주변을 살피고, 서로 수시로 말하고, 수비 먼 쪽 발로 공을 전달하고 등)들이 전혀 이루어지지 않았다”고 했다.&lt;br&gt;&lt;br&gt;이어 “감독님과 코치들 입장에서는 몇 년 동안 훈련했던 내용이 실전에서 전혀 이루어지지 않다 보니 답답함이 큰 상황이었다”고 덧붙였다.&lt;br&gt;&lt;br&gt;또한 “과격한 표현은 경기장 바깥에서 선수들에게 지도하는 과정에서 나오는 것이고, 긴박한 상황에 신속하게 지시 사항을 전달하다 보니 표현이 정제되지 않았던 것”이라며 “결코 특정 아동을 지칭해 정서적으로 학대하기 위한 의도로 하는 언행들이 아니다”라고 주장했다.&lt;br&gt;&lt;br&gt;그러면서 “피해 아동(고소인 측)은 입단 2개월 차 기본기 훈련반이었던 관계로 다년간 기본기를 닦은 전술 훈련반 선수들 위주로 경기에 출전하다 보니 해당 아동은 위 경기에 거의 뛰지 못했고 영상에도 나오지 않았다”며 고소인 측 아동과는 무관한 영상이라고 했다.&lt;br&gt;&lt;br&gt;한편 연합뉴스는 손 감독이 경기 중에 선수를 걷어차는 모습이 담긴 영상도 입수했다고 전했다. 매체에 따르면 영상에는 공이 골라인 밖으로 나간 뒤 넘어진 손아카데미 소속 선수가 양말을 올려 신자, 손 감독이 해당 선수에게 달려가다가 발길질한 뒤 혼내는 듯한 모습이 담겼다.&lt;br&gt;&lt;br&gt;현재 손 감독 등은 아동 A군을 신체적 또는 정서적으로 학대한 혐의로 검찰 수사를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘단역배우 자매 사망 사건’ 母 “원수 갚고 따라갈게” 울분</title>
       <link>https://www.chosun.com/national/national_general/2024/07/06/4S66GWKMCZA3NFUCQLWC3OQH5A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/06/4S66GWKMCZA3NFUCQLWC3OQH5A/</guid>
@@ -865,70 +961,6 @@
       <content:encoded>한동훈 국민의힘 당대표 후보가 5일 오전 오세훈 서울시장과 만나 서울시의 ‘약자와의 동행’ 일부 사업을 전국화하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CGJZ6TUWRJJHLP5ERZYTRLN32M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 한동훈 당대표 후보(오른쪽)와 오세훈 서울시장이 5일 오전 서울 용산구 동자동 쪽방촌 동행식당에서 만나 조찬을 하고 있다. /공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 후보와 오 시장은 이날 서울 용산구 동자동 쪽방촌에 있는 ‘동행식당’에서 함께 식사했다. 동행식당은 지정된 식당에서 쪽방촌 주민에게 하루 한 끼를 제공하는 서울시 사업이다.&lt;br&gt;&lt;br&gt;이날 한 후보는 “오 시장님이 약자와의 동행을 꽃 피우고 계신다”며 “검증된 아이디어를 주시면 ‘서울런’ 같은 것을 전국으로 펼쳐보겠다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “서울런을 통해 대학에 들어가는 학생들의 숫자가 많이 늘었다”며 “전국으로 확산해도 의미가 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;한 후보와 오 시장은 서울런 지원 대상 확대에 대해서도 이야기를 나눴다.&lt;br&gt;&lt;br&gt;오 시장은 “중위소득 85% 이하까지 확대하려고 하는데, 저소득층 위주로 지원해야 한다는 정부 원칙이 있어 협의가 잘 안 되고 있다”고 했다.&lt;br&gt;&lt;br&gt;현재 서울런은 중위소득 60% 이하, 한부모가족, 북한이탈주민 자녀 등을 대상으로 하고 있다. 대상자에게 무료 인터넷 강의와 멘토링 서비스 등을 제공한다.&lt;br&gt;&lt;br&gt;이에 대해 한 후보는 “중간(계층)까지 (확대)할 수 있을 것 같다. 교육 문제이지 소득 문제는 아니지 않느냐”고 말했다.&lt;br&gt;&lt;br&gt;이날 만남은 한 후보가 먼저 요청해 성사됐고, 오 시장이 조찬 장소로 동행식당을 선택했다. 식사에는 김병민 서울시 정무부시장과 신지호 한동훈 캠프 상황실장이 함께했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘6차례 성추행’ 농협 조합장 제명… 대법 “정당”</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/05/WLRKDKNVPJDQZILJLWMAKIGDVA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/05/WLRKDKNVPJDQZILJLWMAKIGDVA/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 01:59:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IZ4M3KZUIDDGNAZWUL6HSOHIDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;농협 조합장이 여직원을 성추행한 혐의로 유죄가 확정돼 조합의 신용을 잃게 했다면, 조합에서 제명할 수 있다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;5일 법조계에 따르면, 대법원 2부(주심 권영준 대법관)는 최근 농업협동조합을 상대로 제명 무효 확인 소송을 낸 전직 조합장 A씨에 대한 상고심에서 원고 승소 판결을 내린 원심을 깨고 사건을 광주지법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;A씨는 2010년부터 2019년까지 한 지방 농협의 조합장으로 근무했다. 그는 재직 중 조합장의 지위를 이용해 직원을 6차례 추행한 혐의로 기소돼 2021년 징역 8개월에 집행유예 2년이 확정됐다.&lt;br&gt;&lt;br&gt;이듬해 농협 조합은 ‘고의 또는 중대한 과실로 조합에 손실을 끼치거나 조합의 신용을 잃게 한 경우 제명할 수 있다’는 정관에 따라 A씨를 제명했다. A씨는 형사사건과 조합원 제명은 무관해 부당하다며 조합을 상대로 소송을 냈다.&lt;br&gt;&lt;br&gt;1심은 A씨가 패소했지만, 2심은 이를 뒤집고 조합의 제명이 무효라고 판결했다. 2심 재판부는 A씨의 행위가 조합의 명예를 떨어뜨릴 수 있는 비위 행위일 뿐 ‘손실을 끼치거나 신용을 잃게 한 경우’라고 볼 수 없다고 판단했다. 그러면서 “A씨가 형사사건으로 처벌받았다고 하더라도 조합에 경제적 손실이 발생하거나 조합의 신용이 훼손되는 것은 아니다”며 “제명 조항에 규정된 신용도 ‘경제적 신용’으로 제한해 해석해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;대법원은 하지만 “해당 조항은 ‘조합의 신용을 잃게 한 경우’를 경제적 신용으로 한정하지 않고 있다”며 원심을 파기환송했다.&lt;br&gt;&lt;br&gt;대법원은 “A씨의 행위는 조합장으로 재직하면서 부하 직원을 여섯 차례에 걸쳐 성추행했다는 것이고, 이에 대한 유죄 판결이 확정됐다”며 “이는 조합의 명예를 실추시킬 뿐만 아니라 그 자체로 조합의 신용을 잃게 하는 행위이므로 제명 사유에 해당한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“10㎝ 뒤에서 계속 따라 붙어” 벤틀리 차주의 수상한 행동, 왜? </title>
-      <link>https://www.chosun.com/national/national_general/2024/07/05/X43WANLCO5ARTA67KRNQMJL5NQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/05/X43WANLCO5ARTA67KRNQMJL5NQ/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 00:51:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I4JU2ZNFCFA5XICU4ECGLPYX7E.gif"&gt;&lt;figcaption&gt;&lt;small&gt;수원의 한 상가에서 벤틀리가 앞차 꼬리물기를 통해 주차 요금을 내지 않고 빠져나가는 장면./ SBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고급 외제차를 모는 운전자가 앞차에 꼬리물기한 뒤 주차 요금을 내지 않고 건물을 빠져나가는 모습이 포착됐다.&lt;br&gt;&lt;br&gt;SBS ‘맨 인 블랙박스’는 지난달 30일 이 같은 장면이 담긴 차량 블랙박스 영상을 공개했다. 영상은 수원 영통구의 한 상가 지하주차장에서 찍힌 것이었다. 제보자 A씨는 사건 당일 상가를 이용한 뒤 지하주차장을 나서려고 했다.&lt;br&gt;&lt;br&gt;그런데 지하주차장부터 흰색 벤틀리 차량 한 대가 A씨 차량의 뒤를 쫓아오는 느낌이 들었다고 한다. 이 벤틀리는 주차장 출구로 향하는 통로에서도 ‘부릉’ 소리를 내며 A씨의 차에 바싹 다가갔다. A씨는 “왜 자꾸 내 차 뒤에 바싹 붙는지 불안했다. 10~50㎝ 정도 남기고 계속 따라붙었다”며 “위협을 느꼈다. 비싼 차와 부딪히면 안 되니까 신경쓰였다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 주차비를 결제하고 나오는 순간, 뒤따라오던 벤틀리 차주의 수상한 행동에 의문이 풀렸다고 했다. A씨가 주차비를 지불하고 차단기가 열리자, 다시 닫히기 전 그 틈을 노려 벤틀리 차주 역시 주차장을 빠져나온 것이었다. A씨는 “주차 요금을 안내고 도망가는 것이었다”며 “그 차는 다른 차들이 나가는 걸 기다리는 것 같았다. 주차장에서 이미 시동을 걸고 있는 상태였다”고 전했다.&lt;br&gt;&lt;br&gt;주차요금을 내지 않기 위한 운전자들의 얌체 행위는 종종 화제가 된 바 있다. 차단기가 완전히 내려오기 전 앞차에 따라붙는 꼬리물기는 잘 알려진 수법이다. 2022년 서울 강서구에선 이 수법을 이용해 차량 12대가 한 푼도 내지 않고 주차장을 빠져나가는 장면이 포착된 바 있다. 이마저도 맨 앞차량을 입차한 지 30분이 안 된 회차 차량을 앞세웠다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4EUDQNEM3BGN7BB6XHSH2ITRZE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;작년 제주시의 한 공영주차장에서 한 차량이 주차장에 들어서자마자 바로 출구쪽 차단기로 가 출차 차량으로 인식하게 한 뒤 후진으로 주차하는 모습./ 제주MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;회차 차량은 요금을 부과하지 않는다는 점을 악용한 사례도 있었다. 작년 제주시의 한 공영주차장에선 한 차량이 주차장에 들어오자마자 곧바로 출구로 향하는 모습이 포착됐다. 이 차는 차단기가 열리자 나가지 않고, 다시 후진을 해 주차장에 차를 댔다. 차단기가 열려 출차 차량으로 인식되면 공짜로 주차할 수 있는 점을 노린 것이었다.&lt;br&gt;&lt;br&gt;주차장을 편법 이용하면 편의시설부정이용죄에 의해 3년 이하의 징역이나 500만원 이하의 벌금에 처할 수 있다. 실제로 2022년 서울 송파구에선 K5 운전자가 한 건물 주차시설에서 이용료를 내지 않고 66차례에 걸쳐 부정 이용했다가 벌금형을 선고받은 바 있다. 이 운전자는 주차비 198만원을 결제하지 않았다가 300만원의 벌금형에 처했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“술은 마셨지만 음주운전은 안 했다” 발뺌한 운전자의 최후</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/05/O3AZMPG2SBEFHFIM72E7QAWVTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/05/O3AZMPG2SBEFHFIM72E7QAWVTA/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 01:13:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CET6DWO5CBB53M2DK53A7Y3RS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 검거되는 장면. /서울경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;몸을 제대로 가누지도 못하는 만취 상태에서 운전을 하고도 ‘술은 마셨지만, 음주운전은 안 했다’고 거짓말을 한 남성이 결국 현장에서 검거됐다.&lt;br&gt;&lt;br&gt;4일 경찰에 따르면 운전자 A씨는 최근 서울 번화가의 한 편의점 앞에서 음주운전을 했다가 적발됐다.&lt;br&gt;&lt;br&gt;공개된 방범카메라 영상을 보면 A씨는 편의점 앞에 차량을 세우고 내려 어딘가 다녀온 후 다시 차량에 탑승했다.&lt;br&gt;&lt;br&gt;A씨는 비틀거리며 몸을 제대로 가누지 못하는 모습이었다. 이 모습을 지켜본 시민이 신고해 잠시 후 경찰이 출동했다.&lt;br&gt;&lt;br&gt;A씨는 출동한 경찰의 추궁에 “술은 마셨지만, 음주운전은 하지 않았다”고 오리발을 내밀었다.&lt;br&gt;&lt;br&gt;이에 경찰은 A씨가 편의점까지 차를 몰고 온 장면이 담긴 편의점 방범카메라 영상을 확보해 보여줬다.&lt;br&gt;&lt;br&gt;명백한 증거를 들이밀자 A씨는 그제야 음주운전을 인정했고 현장에서 검거됐다.&lt;br&gt;&lt;br&gt;음주 측정 결과 A씨는 면허 취소 수준의 만취 상태였던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;사연을 접한 네티즌들은 “이런 사람은 바로 구속해라” “음주운전에 거짓말까지 하다니 뻔뻔하다” “음주운전 형량을 높여야 한다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>화성 아리셀 인근 ‘잉크 공장’서 또 화재...“인명 피해 없어”</title>
-      <link>https://www.chosun.com/national/incident/2024/07/05/TVXW2GW5JRA5LJ7BSGV3X3OH7I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/05/TVXW2GW5JRA5LJ7BSGV3X3OH7I/</guid>
-      <dc:creator>화성=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Jul 2024 23:51:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/52KOKSQ76FIK5OUFCRKQVAJIPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오전 경기 화성시 전곡산업단지 내 한 공장에서 불이나 검은 연기가 피어오르고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아리셀 공장 화재가 발생한 지 열흘 만인 5일 오전 경기 화성시 전곡산업단지 내 한 잉크 제조공장에서 불이 나 소방당국이 진화 중이다.&lt;br&gt;&lt;br&gt;경기도소방재난본부에 따르면 이날 오전 7시 15분쯤 화성시 서신면 전곡리 모 업체 공장에서 불이 났다는 신고가 접수됐다. 당시 작업 중이던 근로자 3명은 자력으로 대피했으며, 인명 피해는 없는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;소방당국은 펌프차 등 장비 40대와 특수대응단 및 화학구조대 등 인력 110명을 동원하고, 오전 7시 23분 대응 1단계를 발령했다. 7시 24분 선착대가 화재 현장에 도착해 진화에 나섰다. 소방당국은 화재 발생 1시간 15분여 만인 오전 8시30분 불길을 잡고, 대응 1단계를 해제했다.&lt;br&gt;&lt;br&gt;잉크를 제조하는 이 공장은 아세트산에틸, 메틸에틸케톤 등 유해화학화학물질을 취급 중이었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이날 불이 나자 검은 연기가 치솟았고, 소방당국엔 24건의 신고가 잇따라 접수됐다. 화성시는 이날 오전 8시 12분 “공장 화재로 연기가 많이 발생하고 있으니 인근 주민의 외출을 자제해달라”는 안전재난문자를 보냈다.&lt;br&gt;&lt;br&gt;한편, 전곡산업단지는 최근 23명의 사망자가 나온 리튬 배터리 제조업체 아리셀의 공장이 입주한 곳으로, 이날 불이 난 공장은 아리셀 공장에서 약 500m 떨어진 곳에 위치해있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>알바생 추행하고 “월급 올려줄게”… 60대 편의점 업주 ‘징역 3년’</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/05/UMGSLZDLRFCXLMGYHV442BKXIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/05/UMGSLZDLRFCXLMGYHV442BKXIU/</guid>
-      <dc:creator>원주=정성원 기자</dc:creator>
-      <description>20대 아르바이트생을 강제 추행한 후 “월급을 올려주겠다”며 범행을 무마하려 한 60대 편의점 업주가 사회로부터 격리됐다.5일 법조계에 따르면 춘천지법 원주지원 형사1부(재판장 이수웅)는 강제 추행과 유사 강간 혐의로 기소된 60대 A씨에게 징역 3년을 선고했다.</description>
-      <pubDate>Fri, 05 Jul 2024 00:44:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AFW4GCSK7TSZJGR7MARWVSZAFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 원주지원. /뉴스1
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20대 아르바이트생을 강제 추행한 후 “월급을 올려주겠다”며 범행을 무마하려 한 60대 편의점 업주가 사회로부터 격리됐다.&lt;br&gt;&lt;br&gt;5일 법조계에 따르면 춘천지법 원주지원 형사1부(재판장 이수웅)는 강제 추행과 유사 강간 혐의로 기소된 60대 A씨에게 징역 3년을 선고했다.&lt;br&gt;&lt;br&gt;원주에서 편의점을 운영하는 A씨는 지난해 8월 13일 새벽 아르바이트를 마치고 귀가를 준비하던 20대 B씨의 몸을 강제로 만지고 옷을 벗기려 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 또 지난해 8월 20일과 28일에도 노래방, 택시 뒷좌석, 편의점 등에서 B씨를 강제로 껴안거나 몸을 만지는 등 B씨를 강제 추행했다.&lt;br&gt;&lt;br&gt;A씨는 범행 이후 B씨에게 “월급을 올려주겠다”며 경제적 보상으로 혐의를 무마하려 한 것으로 드러났다.&lt;br&gt;&lt;br&gt;재판부는 “이번 사건은 자신보다 40살 어린 피해자를 강제로 추행하고 유사 강간한 것으로 죄질이 매우 나쁘다”면서 “자기 잘못을 경제적 보상으로 무마하려 했고, 피해자가 엄벌을 탄원한 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘접근금지 명령 받고도...’ 이혼한 전처 협박 20대 남성 구속 기소</title>
-      <link>https://www.chosun.com/national/incident/2024/07/05/JSKISETLHFHD5LGVHF6UDHA7K4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/05/JSKISETLHFHD5LGVHF6UDHA7K4/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 00:21:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PAWEVON5KV5RFB7PNMCSSNW6WE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지검/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;형사 사건을 합의해달라며 이혼한 전처를 협박하던 20대 남성이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대구지검 여성아동범죄조사부(부장검사 최희정)는 특수협박·보복협박 등 혐의로 A씨를 구속 기소했다고 5일 밝혔다. A씨는 지난 3~5월 사이 전처인 B씨를 흉기로 위협하는 등 여러 차례에 걸쳐 협박한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;검찰에 따르면 A씨는 이혼 전부터 B씨에게 “말이나 행동이 마음에 안 든다”며 가정 폭력을 지속적으로 이어갔다. 이로 인해 B씨가 이혼을 결심하며 관련 절차를 밟으면서부터는 “이혼은 안 된다” “이혼하면 너 죽고 나 죽는다”는 식으로 협박한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 이러한 범행으로 법원에서 B씨에 대한 접근 금지 명령을 받았지만 이후로도 17회 가량 B씨에게 전화하며 “형사 합의 안 해주면 보복한다”며 추가로 협박한 혐의도 받고 있다. 검찰은 B씨를 통해 이 같은 상황을 확인한 뒤, 접근금지 등 임시조치 불이행으로 인한 가정폭력처벌법 위반 등 혐의로 A씨를 추가 입건해 직접 구속했다.&lt;br&gt;&lt;br&gt;대구지검 관계자는 “가정 폭력과 교제 중 폭력 등에 엄정하게 대응하고 범죄에 맞는 처벌이 선고될 수 있도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>군복 입은 천사들 선행…“쓰러진 노인 구급차 이송 도왔다” </title>
-      <link>https://www.chosun.com/national/national_general/2024/07/05/4Q3YTHLQ3RELTBAQR5JSUTS7IY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/05/4Q3YTHLQ3RELTBAQR5JSUTS7IY/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Jul 2024 23:52:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZF5MLLHRWBDLXADTDUE4MOKHZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 인제의 한 마을에서 쓰러진 노인의 구급대 이송을 도운 군인들./페이스북 페이지 '육군훈련소대신전해드립니다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 인제의 한 마을에서 뇌경색으로 쓰러진 노인의 구급차 이송을 도운 군인들의 선행이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;최근 페이스북 페이지 육군훈련소대신전해드립니다(육대전)에 올라온 글에 따르면 지난달 27일 오전 9시쯤 인제 남면 어론리에서 한 노인이 뇌경색으로 쓰러졌다.&lt;br&gt;&lt;br&gt;당시 119 구급대원이 출동했지만, 보호자가 없어 환자를 구급차에 태워 이송하지 못하는 상황이었다고 한다.&lt;br&gt;&lt;br&gt;그때 군복을 입은 군인들이 환자의 보호자인 한 할머니를 데리고 나타났다. 이들은 구급대원을 도와 구급차에 환자를 싣고 자리를 떠났다.&lt;br&gt;&lt;br&gt;제보자는 “당연한 일을 한 것이라며 걱정 어린 말을 남기고 떠난 군인 분들께 감사의 말씀드리고 싶다”며 “빠른 이송을 위해 보호자가 빨리 오셨어야 했는데 정말 감사하다”고 했다.&lt;br&gt;&lt;br&gt;이어 “정신이 없는 급박한 상황이라 소령이라는 것 말고는 기억나지 않아 이곳에 감사 인사를 드린다”며 “언제나 국민의 가장 든든한 울타리는 대한민국 군인이라는 걸 느꼈다”고 했다.&lt;br&gt;&lt;br&gt;최근 위기에 빠진 국민의 생명을 구하거나 인명구조에 도움을 준 군인들의 선행이 잇따라 전해지고 있다.&lt;br&gt;&lt;br&gt;지난 3월에는 육군수도방위사령부 동원참모처 맹기홍 소령이 아파트 14층 베란다에서 투신하려는 여성을 구조했다. 맹 소령은 이 같은 선행이 당시 함께 여성을 구조한 119안전센터 소방대원의 국민신문고 제보로 알려지자 “군인으로서 당연히 해야 할 일을 했다”고 말했다.&lt;br&gt;&lt;br&gt;또 지난 4월 해군특수전전단 특수선박대 소속 성치덕 원사가 음식점에서 의식을 잃고 쓰러진 시민을 구한 일도 있었다. 당시 성 원사는 옆 테이블에서 식사를 하던 여성이 쓰러진 뒤 의식을 잃자 평소 군에서 교육받은 대로 심폐소생술(CPR)을 실시하고 119구급대가 도착하기까지 환자의 상태를 확인했다. 성 원사는 “앞으로도 국민의 생명과 재산을 보호하는 해군으로서 어떠한 상황에서도 앞장서 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“월급 올려줄게”... 편의점주, 40살 어린 20대 알바생에 성범죄</title>
       <link>https://www.chosun.com/national/national_general/2024/07/05/YT7IJ4UXOZAQRBYTQB6BKAEBRU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/05/YT7IJ4UXOZAQRBYTQB6BKAEBRU/</guid>
@@ -936,24 +968,6 @@
       <description/>
       <pubDate>Thu, 04 Jul 2024 23:53:22 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;60대 편의점 업주가 자신보다 40살 어린 20대 여성 아르바이트생에게 성범죄를 저지른 혐의로 재판에 넘겨져 실형을 선고받았다. 해당 점주는 범행 후 ‘월급을 올려주겠다’며 피해 여성을 회유하기도 했다.&lt;br&gt;&lt;br&gt;5일 춘천지법 원주지원 형사1부(이수웅 부장판사)는 강제추행, 유사 강간 혐의로 구속기소 된 60대 A씨에게 징역 3년을 선고했다고 밝혔다. 또 40시간의 성폭력 치료 프로그램 이수와 아동·청소년·장애인 관련 기관에 각 5년간 취업제한을 명령했다.&lt;br&gt;&lt;br&gt;강원도 원주에서 편의점을 운영하고 있는 A씨는 지난해 8월 13일 새벽 3시쯤 아르바이트를 마치고 귀가하기 위해 짐을 챙기는 20대 여성 B씨에게 다가가 갑자기 신체 여러 곳을 만지고 옷을 강제로 벗기려고 하는 한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 같은 달 20일엔 노래방과 택시 뒷좌석에서 B씨를 강제 추행했고, 같은 달 28일엔 편의점에서 근무 중인 B씨를 강제로 등 뒤에서 껴안고 양손으로 몸을 만진 혐의도 있다.&lt;br&gt;&lt;br&gt;A씨는 앞서 같은 해 7월에는 아르바이트를 마친 B씨를 뒤따라가 손을 잡으면서 ‘보는 사람 없어, 한 번만’이라고 말하고 안으려 한 혐의도 있다.&lt;br&gt;&lt;br&gt;A씨는 추행이나 유사 성폭행 이후 B씨에게 ‘월급을 올려주겠다’고 하는 등 경제적 보상으로 사건을 무마하려 한 것으로 드러났다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 경제적으로 어려운 피해자의 상태를 인지한 상황에서 범행한 다음 월급을 올려주겠다고 하는 등 자신의 잘못을 경제적 보상으로 무마하려고 했다”며 “자신보다 40살 어린 피해자를 강제로 추행하고 유사 강간한 것으로 죄질이 나쁘다”고 양형이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘떨어진 외벽에 다치고, 여객선 고립…’ 인천 강풍 피해 속출</title>
-      <link>https://www.chosun.com/national/incident/2024/07/05/AU4GS66M2ZCODBA77CHLFGL7DQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/05/AU4GS66M2ZCODBA77CHLFGL7DQ/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Jul 2024 23:55:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B3PYCLM2PAIV7L4U7FQYKRQJ24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오후 8시 26분쯤 인천시 남동구 만수동의 한 빌라 외벽이 바닥으로 떨어졌다는 신고가 소방 당국에 접수됐다. (인천소방본부 제공)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강풍 특보가 내려진 인천에서 강한 바람에 떨어진 건물 타일에 행인이 맞아 다치고 정전이 발생하는 등 피해가 잇따랐다.&lt;br&gt;&lt;br&gt;5일 인천소방본부 등에 따르면 전날 오후 8시 53분쯤 인천시 미추홀구 주안동에서 건물 외벽 타일이 강한 바람에 떨어져 주변을 지나던 행인 A씨가 다쳤다. 신고를 받고 출동한 소방 당국은 A씨를 인근 병원으로 이송했다. A씨는 경상인 것으로 파악됐다.&lt;br&gt;&lt;br&gt;같은 날 오후 8시 21분쯤엔 중구 영종도(삼목항)와 옹진군 장봉도를 오가는 600t급 여객선이 신도항 인근 갯벌에 얹혀있다는 신고가 접수돼 인천해양경찰서 소속 연안구조정이 출동했다.&lt;br&gt;&lt;br&gt;해경은 여객선에 타고 있던 승객 5명을 연안구조정에 태워 구조했다. 하지만 연안구조정도 갯벌에 얹히자, 해경특공대 단정을 투입해 5일 오전 1시 26분쯤 삼목항으로 이송했다. 당시 신도항 일대엔 초속 14~18㎧의 강한 바람이 불고, 2.5m의 높은 파도가 치는 등 기상 여건이 좋지 않았던 것으로 알려졌다. 구조된 승객 중 2명은 저체온증과 멀미 증상을 호소해 소방 당국이 병원으로 옮겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WHIAFJMFA2NNGWPVJAOOBRB2LQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오전 2시 15분 공사장 가림막이 쓰러진 인천시 강화군 선원면 현장. (인천소방본부 제공)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 오후 11시 46분쯤엔 인천시 남동구 만수동과 간석동 일대에 정전이 발생해 1시간여 동안 주민들이 불편을 겪었다.&lt;br&gt;&lt;br&gt;소방 당국엔 4일 오후 8시 20분쯤부터 5일 오전 5시 10분쯤까지 22건의 강풍 관련 피해 신고가 접수됐다.&lt;br&gt;&lt;br&gt;계양구 용종동과 미추홀구 학익동, 부평구 부개동 등에선 나무가 넘어졌고, 남동구 만수동, 부평구 십정동 등에선 건물 외벽 탈락 위험 신고가 접수됐다. 강화군 선원면에선 공사장 가림막이 쓰러지기도 했다. 소방 당국은 안전조치를 마친 상태다.&lt;br&gt;&lt;br&gt;기상청은 지난 4일 오후 11시 30분 인천 전역에 강풍주의보를 내렸다. 강풍주의보는 10분 평균 풍속이 14㎧ 이상이거나 순간 풍속이 20㎧를 넘을 것으로 예상할 때 발효한다. 강풍주의보는 5일 오전 6시 해제됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] ‘진보 교육감’ 울산은 중학생 2%만 학력평가</title>
-      <link>https://www.chosun.com/national/education/2024/07/05/RGYGK6YEDVHEPHOXFSPWY7CQJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/07/05/RGYGK6YEDVHEPHOXFSPWY7CQJM/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Jul 2024 20:04:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QTTSNIXUXC6FZECIEAAYDIDTYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 고등학생이 국가수준 학업성취도평가를 치르는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학생들의 기초학력을 진단하는 평가에 올해 전국 초등·중학교 10곳 중 8곳이 참여한 것으로 4일 확인됐다. 처음 실시된 2022년엔 참여율이 20%에 불과했는데 올해 크게 늘어난 것이다. 하지만 100%가 참여한 지역이 있는 반면 진보 성향 교육감이 이끄는 경남, 울산은 10%대만 참여하는 등 지역별로 참여율 차이가 컸다. 이 지역들은 기초학력 진단을 ‘일제 고사’라고 부르며 반대하는 전교조 의견을 수용한 것으로 풀이된다.&lt;br&gt;&lt;br&gt;본지가 김대식 국민의힘 의원실을 통해 입수한 교육부 자료에 따르면, 지난 2~4월 치러진 ‘맞춤형 학업 성취도 자율 평가(자율 평가)’에 전국 초등·중학교 9341곳 중 7477곳(80%)이 참여했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4TZ7HSYS5ZAZVA7ZGP4KOG7DBY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자율 평가는 초3부터 고2까지 기초학력을 진단하는 평가다. 다음 학년으로 올라가면 공부를 따라가기 어려운 수준의 학생들에게 맞춤 교육을 제공하자는 취지다. 원래 교육부는 2016년까지 &lt;b&gt;중3·고2&lt;/b&gt; 모든 학생을 대상으로 평가를 했다. 그런데 문재인 정부는 전수 평가를 폐지하고 3% 학생만 표집해 치르는 방식으로 바꿨다. 이후 학생들의 기초학력이 크게 떨어지자 2022년 자율 평가를 새로 도입한 것이다. 자율 평가는 학교가 참여를 결정한다. 그러다 보니 첫해 참여율이 20%에 그쳤다. 이에 교육부는 교과 학습이 심화되는 초3과 중1만큼은 학력 진단이 꼭 필요하다고 보고 작년 12월 교육청에 “모든 학교가 진단에 참여해 달라”고 권고했다.&lt;br&gt;&lt;br&gt;그 결과 올해 부산·대구·제주는 모든 초등·중학교가 평가에 참여했다. 경기·대전·충북·충남·세종·전북·광주·경북 등 8곳도 90% 이상 참여했다. 전남(86.9%), 강원(76.7%)도 높은 편이다. 부산시교육청 관계자는 “최소한의 학력 진단은 해야 뒤처지는 학생들에게 맞춤 교육을 제공할 수 있기 때문에 학교들에 참여를 끈질기게 요청했다”고 말했다.&lt;br&gt;&lt;br&gt;반면, 경남(15.3%)과 울산(15.7%)은 학교 참여율이 10%대에 불과했다. 전교조 출신이거나 친전교조 성향 교육감이 있는 지역이다. 중1의 경우 참여한 학생이 울산 2.2%, 경남 1.7%밖에 안 된다. 전교조는 자율 평가에 대해 “사실상 강제로 이뤄지며 교사 업무량 증가, 학생 스트레스 심화 등 문제가 일어나고 있다”며 반대해 왔다. 한 교육청 관계자는 “학교나 교사 입장에서 평가를 치면 부족한 학생을 지도해야 하니까 좋을 리 없다. 교육청이 독려하지 않으면 참여율이 낮을 수밖에 없다”고 말했다.&lt;br&gt;&lt;br&gt;교육부 측은 “자율 평가는 일제 고사도 아니고, 서열화를 조장하지도 않는다”는 입장이다. 실제 자율 평가는 컴퓨터로 치러지며 개인이나 학급마다 무작위로 문제가 출제된다. 시험 문제와 응시 시기가 다 다르기 때문에 학생 성적을 한 줄로 세울 수도 없다.&lt;br&gt;&lt;br&gt;교육계에서는 “교육감 성향에 따라 기초학력 진단 여부가 결정되면 지역별로 학력 격차가 심해질 수 있다”는 우려가 나온다. 신원태 울산교총 회장은 “다른 시도교육청은 적극적으로 평가 참여를 격려하고 학력을 끌어올릴 대책을 쏟아내는데, 이대로면 지역마다 학력 격차가 더 벌어질 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 현장서 음주 측정했다던 경찰, 97분 뒤에야 병원서 검사</title>
