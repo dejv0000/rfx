@@ -13,6 +13,62 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>손흥민, 월드컵 4강 대신 토트넘 우승 택했다…이유 들어보니</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/06/CTK6GN2MKVGNZGMWEEIWBA4IEM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/06/CTK6GN2MKVGNZGMWEEIWBA4IEM/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Jul 2024 13:53:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FRYOGFTIJJPBUPVKTO2GUCDSXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손흥민과 배우 정호연, 가수 박재범이 6일 열린 행사에서 포즈를 취하고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 축구 국가대표팀 주장 손흥민(32·토트넘)이 ‘한국의 월드컵 4강 진출과 토트넘의 우승 중 무엇을 택하겠느냐’는 질문에 망설임 없이 토트넘의 우승을 택했다.&lt;br&gt;&lt;br&gt;손흥민은 6일 서울 영등포구 타임스퀘어에서 열린 ‘SON IS COMING’ 행사에 참석해 팬들과 만났다. 이날 손흥민은 방송인 배성재, 가수 박재범, 배우 정호연과 토크쇼를 진행하고 사인회도 가졌다.&lt;br&gt;&lt;br&gt;손흥민은 토트넘의 우승을 택한 이유에 대해 “모든 스포츠는 위너(승자)를 기억하고 위너가 남는 것이다. 월드컵 4강도 너무 해보고 싶지만, 저는 항상 위너가 되고 싶다”면서 “만약 월드컵이 4강 진출이 아니라 우승이었다면 월드컵 우승을 선택했을 것”이라고 했다.&lt;br&gt;&lt;br&gt;손흥민은 지금까지 소속팀에서 단 한 번의 우승도 하지 못했다. 2018 자카르타‧팔렘방 아시안게임 금메달 획득이 손흥민이 유일하게 기록한 우승이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YFOBHKVXHY7YQFNVT2PGFESXIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손흥민이 6일 서울 영등포구 타임스퀘어에서 열린 행사에 참석해 포즈를 취하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;손흥민은 자신이 전날 저녁 경기도 용인 조기축구장을 찾았다가 인파가 몰려 경찰이 출동하는 소동이 벌어진 것에 대해서는 “훈련을 해야 소속팀에 가서도 좋은 몸 상태로 시즌을 잘 준비할 수 있으니 꾸준히 하고 있다”면서 “어제는 운동하러 간 거였고 상대 팀도 계셨는데 민폐를 끼친 것 같아서 죄송하다”고 했다. 손흥민은 최근 국내에 머물며 휴식을 취하고 있는 중이다.&lt;br&gt;&lt;br&gt;자신이 ‘월드클래스’라고 생각하느냐는 질문엔 “진정한 월드클래스는 논쟁 자체가 나오지 않는다. 저에 대해선 논쟁 있다는 것 자체가 아직은 아니라고 생각한다”면서 “논쟁 없이 자타공인 최고인 사람이 월드클래스다”라고 했다.&lt;br&gt;&lt;br&gt;손흥민은 이날 특히 “축구 선수를 은퇴하면 축구와 관련한 일은 안 할 것이라는 마음이 굳어지고 있다”면서 “따라서 최대한 오랜 기간 선수 생활을 이어가고, 팬들에게 실망을 끼치지 않겠다”고도 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국회 앞에 농기계 반입하다 경찰과 충돌…전농 간부 구속</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/06/ZLGHIT4UNJBS3K5N5YK2LXI5HY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/06/ZLGHIT4UNJBS3K5N5YK2LXI5HY/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Jul 2024 13:52:38 +0000</pubDate>
+      <content:encoded>지난 4일 오후 서울 여의도 국회의사당 앞에서 열린 ‘7·4 전국농민대회’ 당시 농기계를 실은 차량을 몰고 가려다 이를 막는 경찰과 충돌한 전농(전국농민회총연맹) 간부가 구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFONHGW3DJIHJGJ3TGRVUZRDXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 오후 경부고속도로 양재IC 인근에 전국농민대회 참가자들이 두고 간 농기계가 놓여있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 “전국농민회총연맹 부산경남연맹 김재영 사무국장을 특수공무집행방해 혐의로 구속했다”고 6일 밝혔다.&lt;br&gt;&lt;br&gt;김씨는 지난 4일 오후 3시 30분쯤 국회 앞에서 열린 7·4 전국농민대회 당시 농기계(트랙터)를 실은 차량을 몰고 가려다 이를 막는 경찰과 충돌을 빚어 특수공무 집행방해 혐의로 현행범 체포됐다. 일부 경찰은 연행 과정에서 부상을 입기도 했다. &lt;br&gt;&lt;br&gt;전농은 “김씨가 경찰의 연행 과정 중 부상을 입어 의식을 잃었지만 병원에서 간단한 치료만 받고 바로 경찰서로 이동했다”며 “제대로 된 치료를 받지 못했다”고 주장했다.&lt;br&gt;&lt;br&gt;전농 등 8개 농민단체들은 이날 정부의 수입 농산물 확대 정책 등을 규탄하기 위해 집회를 열었다. 이들은 “기후재난이 낳은 농업재해가 사시사철 반복돼 농민들은 삶과 죽음의 경계에 이르렀다”며 “정부의 수입 농산물 확대 등을 규탄한다”고 했다. &lt;br&gt;&lt;br&gt;시위 참여자 일부는 행진 중 양파를 흩뿌리거나, 서울 시내 진입을 제지 당한 트랙터와 이양기 등을 경부고속도로 양재IC 인근에 두고 가기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HFONHGW3DJIHJGJ3TGRVUZRDXI.jpg?width=5610&amp;height=3348&amp;auth=c89f06b5f82ee63006ad76b2b1a9b9578a057cb342dc305ec7bbd0f0158b1a66&amp;smart=true" type="image/jpeg" height="3348" width="5610">
+        <media:description type="plain">&lt;YONHAP PHOTO-3885&gt; 경부고속도로에 남겨진 농기계
+    (서울=연합뉴스) 한상균 기자 = 4일 오후 경부고속도로 양재IC 인근에 전국농민대회 참가자들이 두고 간 농기계가 놓여있다. 이날 농민단체들은 서울 여의도에서 정부의 정책을 규탄하는 집회를 개최했다. 2024.7.4
+    xyz@yna.co.kr/2024-07-04 16:35:51/
+&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">한상균</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>강남구 삼성동서 화학물질 누출 의심…8명 병원 이송</title>
+      <link>https://www.chosun.com/national/incident/2024/07/06/G6QT3OKUANG3TFTIFLRUMZJSGM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/06/G6QT3OKUANG3TFTIFLRUMZJSGM/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Jul 2024 11:24:39 +0000</pubDate>
+      <content:encoded>6일 오후 서울 강남구 삼성동의 한 지상 5층·지하 2층 건물에서 정체를 알 수 없는 화학물질이 누출됐다는 의심을 받는 사고가 일어났다. 이 건물은 1~2층은 상가, 3층은 고시원, 4층은 학원이 입주해있는 근린생활시설이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YO222Z54V5CV74KKDEH73GKTN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;소방안전본부 119구급차량. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오후 2시 4분쯤 이 건물에서 “가스 냄새가 난다”는 신고가 접수된 후 소방 화학구조대·경찰·군 등 90여 명이 현장에 출동했다. 현장에서 화학 물질을 들이마셔 목 통증을 호소한 시민 11명 중 8명이 병원으로 이송됐다. 이들은 병원에서 응급 처치를 받고 현재 모두 귀가했다. 이 건물 인근에 있던 시민 40여 명은 스스로 대피했다.&lt;br&gt;&lt;br&gt;소방 당국과 경찰은 이날 오후 8시 현재 현장 인근을 통제하고 화학 물질 누출 여부를 조사 중이다.&lt;br&gt;&lt;br&gt;소방 관계자는 “신고를 받고 출동한 당시에는 일반 집수정에서 나오는 정도의 황화수소가 검출됐지만 이후 실시한 1~2차 정밀 조사에서는 검출되지 않았다”며 “현재 3차 정밀 조사를 진행 중”이라고 설명했다.&lt;br&gt;&lt;br&gt;황화수소는 황과 수소로 이루어진 화학물질로, 정화조나 집수정에 모인 오염물질 속 유기물에서 나오는 유독 가스 중 하나다. 무색(無色) 악취인 황화수소는 흡입 시 기침과 두통, 현기증 등을 유발하고 심할 경우 질식으로 사망할 수 있는 유해 화학물질이다. 지난 2022년에도 대구 달성군의 한 저류조에서 직원 3명이 황화수소를 흡입하고 목숨을 잃었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YO222Z54V5CV74KKDEH73GKTN4.jpg?width=3049&amp;height=2018&amp;auth=d5f1d56c4ec27bc52f407156ab952e3f5ccfd02ca68dcfbfd4e0f8e575ab42d4&amp;smart=true" type="image/jpeg" height="2018" width="3049">
+        <media:description type="plain">소방안전본부 119구급차량. 2024.5.2/뉴스1 ⓒ News1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>푸틴·김정은, 미녀들에 둘러싸여 활짝 웃었다…이 사진 알고 보니</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/06/AOT443R5GVEVVLJU4AUYIL2RBE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/06/AOT443R5GVEVVLJU4AUYIL2RBE/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Jul 2024 12:37:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PXK5TNJRWFCRVN36D2YLNEU3AU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;AI로 생성된 푸틴 대통령과 김정은 위원장 이미지. /X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;블라디미르 푸틴 러시아 대통령과 북한 김정은 국무위원장이 지난달 평양에서 정상회담을 가진 이후 온라인상에서 AI로 생성된 두 사람의 사진이 화제가 되고 있다.&lt;br&gt;&lt;br&gt;6일 현재 X(옛 트위터) 등 소셜미디어에는 푸틴 대통령과 김정은 위원장이 즐거운 시간을 보내는 듯한 사진이 다수 올라왔다. 모두 AI로 생성한 이미지다.&lt;br&gt;&lt;br&gt;두 사람이 맥주를 들고 미녀들에 둘러싸여 활짝 웃는 모습, 함께 회전목마를 타는 모습, 자동차 안에서 담배를 피우고 있는 모습, 선글라스를 착용하고 관광지에서 배를 타고 있는 모습 등 종류도 다양했다. 상당수 이미지는 해외 네티즌들이 올린 것이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G67NRBFNP5F3HA7BLSNO2BLGUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;AI로 생성된 푸틴 대통령과 김정은 위원장 이미지. /X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사진을 본 네티즌들은 “이게 정말 AI로 생성한 이미지가 맞느냐” “이건 진짜 같다” “기술이 너무 발전해 무섭다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;지난달 푸틴 대통령은 24년 만에 방북해 김정은 위원장과 정상회담을 한 뒤 포괄적 전략 동반자 협정을 체결했다. 최근 온라인상에 두 사람의 AI 생성 이미지가 다수 올라온 것은 이 때문이다.&lt;br&gt;&lt;br&gt;한편 북한은 푸틴 대통령 방북 행사를 위해 러시아 국기 1만5000개로 평양을 장식했고, 푸틴 대통령의 전용차가 지나가는 곳마다 인사말이 적힌 배너도 설치했던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BZLRZKRIXNEULEF6774ZCE5ZTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;AI로 생성된 푸틴 대통령과 김정은 위원장 이미지. /X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김정은 위원장은 푸틴 대통령이 지각해 새벽 시간 북한에 도착했음에도 공항에 직접 나와 영접했고, 푸틴 대통령이 떠날 때도 공항에 직접 나와 환송하는 정성을 보였다.&lt;br&gt;&lt;br&gt;러시아 언론은 “시민들의 환송행렬은 20㎞ 넘게 이어졌다”며 “이 정도의 대규모 배웅을 받은 역대 러시아 대통령은 없었다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>배우 김지호, 시술 부작용 고백 “한때 턱 굳어서 안 움직여”</title>
+      <link>https://www.chosun.com/national/people/2024/07/06/KACMUO6D4JAYZNK675GN7R2TBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/07/06/KACMUO6D4JAYZNK675GN7R2TBM/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Jul 2024 11:09:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5K7ECNJLRRC75BVDEUNY5WE674.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김지호. /김지호 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 김지호(50)가 최근 피부과 시술을 받았다가 얼굴이 마비되는 등의 부작용을 경험했다고 밝혀 화제가 되고 있다.&lt;br&gt;&lt;br&gt;김지호는 5일 소셜미디어를 통해 오랜만에 화보를 찍게 됐다며 “평소엔 피부과 가는 것도 귀찮아하고 마사지는 요가 시작 후 몇 년에 한 번 하는 게 다인 게으르고 무딘 여자”라고 자신을 소개했다.&lt;br&gt;&lt;br&gt;김지호는 “그래서인지 요 몇 년은 일 시작하기 전 꼭 작은 탈이라도 났다”며 “울마지(리프팅 레이저 시술)를 하고는 턱이 볼거리처럼 붓거나 부은 채 굳어서 안 움직이거나, 콜라겐 재생을 시켜준다는 주사를 맞았는데 3주 후 얼굴이 퉁퉁 붓는 부작용을 겪었다”고 했다.&lt;br&gt;&lt;br&gt;김지호는 또 “턱 보톡스를 맞았는데 한쪽이 마비돼 웃으면 아수라 백작처럼 한쪽 입꼬리만 올라가는 기괴한 얼굴이 됐다”며 “걸어 다니는 부작용 케이스라고 해야 하나?”라고 하소연했다.&lt;br&gt;&lt;br&gt;김지호는 “그랬더니 평소 꾸준히 관리 안 하고 닥쳐서 갑자기 하니 그런 거라고 핀잔을 준다”면서도 “요가를 꾸준히 했던 그 시간들이 의상을 입고 카메라 앞에 섰을 때 나를 당당하게 해줬다. 공백 기간 동안 무너지지 않고 잘 지내고 있었다는 것을 증명해 주는 것 같아 감사했다”고 했다.&lt;br&gt;&lt;br&gt;한편 김지호는 배우 김호진과 2001년 결혼해 슬하에 딸을 두고 있다. 최근 TV조선 예능프로그램 ‘조선의 사랑꾼’에 출연했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“욕하다 걸리면…” 음식점에 붙은 경고문, 무슨 일?</title>
       <link>https://www.chosun.com/national/national_general/2024/07/06/7ACZ3DUHDJDZXOLMJRCUGDXDRI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/06/7ACZ3DUHDJDZXOLMJRCUGDXDRI/</guid>
@@ -906,19 +962,6 @@ photo@yna.co.kr
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZK5FXIUKE5BBNFHZRQLLMGE7ME.gif"&gt;&lt;figcaption&gt;&lt;small&gt;시청역 인근 역주행 사고 현장에 마련된 추모 공간에 피해자 조롱글을 작성한 30대 남성이 입건된 가운데, 이 남성으로 추정되는 인물이 쪽지를 놓고 가는 장면이 공개됐다. /JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 시청역 인근 역주행 사고 현장에 마련된 추모 공간에 피해자들을 조롱하는 쪽지를 남긴 20대 남성이 입건됐다. 이 남성으로 추정되는 당시 영상이 공개됐다.&lt;br&gt;&lt;br&gt;서울 남대문경찰서는 피해자 조롱 글을 작성한 20대 남성 A씨가 전날 경찰에 자진 출석해 자수 의사를 밝혔으며, 이에 따라 A씨를 사자명예훼손 혐의로 입건했다고 밝혔다. A씨는 자신이 작성한 쪽지가 온라인상에서 논란이 되고 이와 관련한 언론보도가 나오자 경찰에 자진해 출석한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;5일 JTBC는 희생자를 조롱한 20대의 행적이 담긴 방범카메라(CCTV)를 입수했다며 해당 영상을 공개했다. 영상에 따르면, 추모 공간에 접은 우산을 든 남성이 다가와 쪼그려 앉더니 무언가를 남기고 사라졌다. 음료수와 메모였다. 이 남성은 메모를 두고 한 바퀴 돌아보더니 곧바로 사라졌다.&lt;br&gt;&lt;br&gt;JTBC는 “남성이 사라진 자리에 남겨진 음료수와 메모가 어제 발견된 ‘희생자 조롱’ 메모와 장소가 일치한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JI2OCWRKMRGLTCV4BWEANWP42E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;시청역 역주행 사건 피해자를 조롱하는 내용으로 논란이 된 쪽지(붉은색 사각형). /김양혁 조선비즈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 3일 오후 6시쯤 역주행 사고 현장에 마련된 추모 공간에서 피해자들을 조롱하는 내용의 쪽지가 발견됐고, 온라인 커뮤니티 등에 쪽지 내용이 담긴 사진이 확산하며 논란이 일었다. 경찰은 범행동기 및 범행 과정에 대해 계속 수사할 예정이다.&lt;br&gt;&lt;br&gt;남대문서는 추모 공간에서 또 다른 모욕성 쪽지글을 발견해 수거하고 내사 중이다. 서울경찰청 사이버수사대도 모욕성 인터넷 게시글 3건에 대해 조사에 착수했다.&lt;br&gt;&lt;br&gt;경찰은 “현재 시청역 사고와 관련해 조롱, 모욕, 명예훼손성 게시글 등이 무분별하게 유포되고 있어 피해자와 유족에 대한 심각한 2차 피해가 우려되는 상황”이라며 “이러한 행위는 형법상 모욕죄와 사자명예훼손, 정보통신망법상 명예훼손죄 등으로 형사 처벌될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘21호 코미디언 부부’…김해준·김승혜, 10월 부부된다</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/05/Q2XNF44XDBDTXMYRZBCHIBDL6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/05/Q2XNF44XDBDTXMYRZBCHIBDL6E/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 05:10:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3BLRE7KBUV5OWAP6ZHVFWNVBW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김승혜(왼쪽), 김해준./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코미디언 김해준(37)·김승혜(37)가 오는 10월 백년가약을 맺는다. 코미디언 커플 21호가 탄생하게 됐다.&lt;br&gt;&lt;br&gt;5일 김해준 소속사 메타코미디는 “김해준과 김승혜는 오는 10월 서로 신뢰와 사랑을 바탕으로 특별한 인연이 되기로 약속했다. 예식은 양가 가족들과 가까운 지인들을 모시고 진행할 예정”이라며 “따뜻한 응원·축복을 보내달라”고 했다.&lt;br&gt;&lt;br&gt;김승혜는 지난 5월 동료 개그맨과 6개월 넘게 교제 중이라는 사실이 알려졌다. 하지만 그 상대가 누구인지는 밝히지 않았다. 두 사람은 작년 겨울부터 결혼을 전제로 만남을 이어온 것으로 전해졌다.&lt;br&gt;&lt;br&gt;동료들의 축하도 이어졌다. 코미디언 이은지는 라디오 진행을 하던 도중 이들의 결혼 소식을 듣고는 “코미디언 커플 21호다. 방송 끝나고 축하한다고 연락을 하겠다”며 “제가 가서 결혼식 사회를 볼 수 있냐고 물어보겠다. 모두의 동의가 필요하다. 제 비즈니스 커플로서 활약해 준 김해준 덕분에 돈을 잠깐 많이 벌었다. 축하드린다”고 말하기도 했다. 두 사람은 tvN ‘코미디빅리그’의 ‘환승연애’ 코너에서 커플 연기를 했던 인연이 있다.&lt;br&gt;&lt;br&gt;김해준은 2018년 tvN ‘코미디 빅리그’로 데뷔했다. 부캐릭터 최준 등으로 존재감을 알리며, 유튜브 채널 ‘피식대학’ 객원 멤버로 활약했다. 김승혜는 2007년 SBS 9기 공채 개그맨으로 데뷔했다. 최근에는 SBS TV 예능 ‘골 때리는 그녀들’에서 FC개벤져스 멤버로 출연하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/3BLRE7KBUV5OWAP6ZHVFWNVBW4.jpg?width=500&amp;height=500&amp;auth=fa5d561b4ae15bdc4d875fd576683027b84f4c9e9aaa432e066048eb3851557b&amp;smart=true" type="image/jpeg" height="500" width="500">
-        <media:description type="plain">김승혜(왼쪽), 김해준/뉴스1DB</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1DB</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>“와이프가 애 낳아도 혼인신고 말자더라”... 이유 보니 ‘미혼모 지원금’</title>
       <link>https://www.chosun.com/national/national_general/2024/07/05/PCBVMS7PQRADPN2NHQ3R4UO754/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/05/PCBVMS7PQRADPN2NHQ3R4UO754/</guid>
@@ -926,24 +969,6 @@ photo@yna.co.kr
       <description/>
       <pubDate>Fri, 05 Jul 2024 04:57:58 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4NJDATBGD56BRYICXX5GV6G7DI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사진은 서울의 한 구청에 비치된 혼인신고서 모습. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;혼인신고를 하지 않고 미혼모 지원금 부정 수급하려는 아내의 제안에 고민된다는 남편의 사연이 전해졌다. ‘위장 미혼’으로 정부의 미혼부모 정책을 악용하겠다는 꼼수인데, 네티즌들 사이에서는 의견이 분분했다. &lt;br&gt;&lt;br&gt;5일 온라인 커뮤니티에는 ‘와이프가 애 낳아도 혼인 신고하지 말자고 함’이라는 제목으로 이같은 사연이 공유됐다. 이 글은 전날 직장인 익명 커뮤니티에 처음 올라와 여러 커뮤니티로 확산된 것으로 보인다. 결혼 2년차 신혼부부의 남편이라 밝힌 글쓴이 A씨는 “와이프가 애 낳아도 혼인 신고하지 말자고 했다”며 “사유는 미혼모 지원금 타려고”라고 주장했다.&lt;br&gt;&lt;br&gt;그는 “내가 ‘제정신이냐’ 했더니 (아내가) ‘왜 자기를 이상한 사람 취급하냐. 언니도 이렇게 했고 주위 친구들도 몇명 이런 식으로 미혼모 지원금 타고 있다’고 하더라”며 “너무 충격적인데 이해해줘야 하나”라고 질문했다. 아내는 현재 임신 5개월차라고 한다.&lt;br&gt;&lt;br&gt;실제 지난 1일 MBC 예능 프로그램 ‘오은영 리포트-결혼 지옥’에 출연한 부부도 혼인신고를 하지 않아 의혹에 휩싸인 바 있다. 대구에 거주하는 이들 부부는 결혼 준비부터 가사와 육아, 생활비 등 결혼과 관련한 모든 돈과 시간은 반반으로 나눠 처리했고, 혼인 신고도 하지 않은 상태였다. 이를 본 시청자들이 이들 부부가 ‘미혼 부모 보조금’을 부정 수급한 게 아니냐는 의혹을 제기하며 지자체에 민원을 제기한 것으로 알려졌다. 그러나 MBC측은 해당 의혹에 대해 부인했다.&lt;br&gt;&lt;br&gt;이에 대해 네티즌들은 “그럼 아이는 엄마 호적에만 올리는 건가. 혼인신고하고 나면 어떻게 되는건가. 미혼모 지원금보다 떳떳한 가족으로 사는 게 낫지 않나” “아기는 무슨 죄인가. 아빠는 동거남이 되는 건데 아이가 받을 시선은 생각 못 하나” “미혼모 지원금 부정수급은 엄연한 범죄행위” “도대체 지원금을 얼마나 주길래 저렇게까지 하는 건가” “진짜 미혼모가 혜택을 받아야 하는데 저런 사람한테 세금이 가는 건 문제”라고 비판했다.&lt;br&gt;&lt;br&gt;반면 현행 신혼부부 지원 제도에 대한 지적도 많았다. “주택청약에서도 미혼모로 신청하면 프리패스다. 제발 법 좀 바꿔라. 혼인신고하면 손해인 게 말이 되나” “한부모가정이라고 정부에서 만든 정책이 워낙 지원 내용이 좋아서 여러 측면에서 신혼부부보다 이득일 수도 있음. 왜 혼인신고를 안 하려는지 이해도 간다” “저런 사례도 은근 많고 빚 청산 하려고 위장 이혼하는 것도 흔한 사례다” “단순 혼인 신고 안 하는 이유는 신혼부부 지원 정책에 있어서 부부합산소득 기준이 낮아서 그런 것”이라는 의견이었다.&lt;br&gt;&lt;br&gt;통계청 국가통계포털에 따르면, 2020년 결혼한 부부 중 2022년까지 접수된 혼인신고는 총 19만6483건으로, 이중 결혼 3년차인 2022년에 혼인 신고한 부부는 8377쌍이었다. 혼인 외 출생아 수도 늘고 있다. 통계청의 ‘2022년 출산 통계’에 따르면 지난해 혼인 외 출생아 수는 9800명(3.9%)으로 1년 전(7700명)보다 21.4% 늘었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“이재명 해치러 가겠다”... 낫 들고 지구대 찾아간 70대 입건</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/05/WDZWVUWPIZADJJQ7GRPQ3WSWLM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/05/WDZWVUWPIZADJJQ7GRPQ3WSWLM/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 04:15:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIYKKP2GJBFCNCX4SRAKVK4PKI.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 전 더불어민주당 대표를 해치러 가겠다며 낫을 들고 지구대를 찾은 70대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 서부경찰서는 특수공무집행방해 혐의로 70대 남성 A씨를 입건해 수사 중이라고 5일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 전날인 4일 오후 4시 40분쯤 서울 은평구의 한 지구대에 ‘이재명을 해치러 가겠다’는 취지로 말하며 낫을 들고 찾아간 혐의를 받는다. 이 과정에서 다친 경찰관은 없었다.&lt;br&gt;&lt;br&gt;범행 당시 A씨는 술에 취한 상태였으며 정당 관련성은 없는 것으로 조사됐다. 그는 지구대 인근 철물점에서 낫을 미리 구입한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 조사를 마친 뒤 전날 A씨를 석방했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“11년 만에 서울로 이사”…이효리, 유튜브 활동도 고민 중</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/05/3TULCFLTLBHPTMBJHNWPOMFBGM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/05/3TULCFLTLBHPTMBJHNWPOMFBGM/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 04:12:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/24Q43SYVLBCOLH2KTE6L7MCSHA.png"&gt;&lt;figcaption&gt;&lt;small&gt;가수 이효리. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 이효리(45)가 향후 계획 관련, 11년 만에 서울로 거처를 다시 옮길 예정이라고 밝혔다. 또한 유튜브 활동에 대해서 고민 중이라는 입장도 보였다.&lt;br&gt;&lt;br&gt;4일 유튜브 채널 풀무릉도원의 코너 ‘광집사’에는 가수 이효리가 게스트로 출연해 사회자 황광희(37)와 이야기를 나눴다.&lt;br&gt;&lt;br&gt;앞으로의 계획을 묻는 황광희 질문에 이효리는 “드디어 하반기에 서울로 이사를 온다. 이제 올 때가 된 것 같다”며 이사 계획을 전했다.&lt;br&gt;&lt;br&gt;이효리는 유튜브 채널에 대한 고민도 나눴다. 그는 “요즘에는 연예인보다 비연예인이 더 인기가 많더라. 인플루언서들에게 카메라가 더 붙는 것을 봤다. 예전엔 이효리 신드롬이 있었는데 요즘은 콘텐츠 홍수다. 시대 변화를 받아들이고 있다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “활동이라는 게 옛날 같지는 않을 것 같다. 유튜브를 해야 하나 생각도 한다”고 말했다. 그러면서 “(유튜브를) 한다면 뭘 해야 하나. 이제 이런 유튜브 초대석도 너무 많고. 브이로그도 너무 많아 식상하다”면서도 “거리에 나와서 사람들을 만나는 대민 방송을 너무 해보고 싶다”고 밝혔다.&lt;br&gt;&lt;br&gt;이효리는 2013년 가수 이상순과 결혼한 후 제주도에서 살고 있다. 특히 2017~2018년 JTBC 예능 ‘효리네 민박 1·2′을 촬영하면서 화제가 됐다. 방송 이후 일대가 유명해지면서 제주도를 찾는 관광객이 급증해 제주지역 관광산업에 미친 생산유발효과가 6000억원에 달하고, 취업자수도 8600명 이상 늘어난 것으로 나타났다.&lt;br&gt;&lt;br&gt;다만 방송 후 자택 위치가 노출되고 많은 관광객이 몰려 들어 무단 침입 등 사생활 침해 문제가 발생하기도 했다. 이에 JTBC가 2018년 이 집을 매입했다. 이후 이효리 이상순 부부는 제주의 다른 곳으로 거처를 옮겨 생활해왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>기말시험中 교실 나간 10대, 이틀 만에 지구대 나타나 한 말</title>
@@ -955,15 +980,6 @@ photo@yna.co.kr
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JRIENCVM65GAJIM6N7XGI3LUSA.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 실종 신고가 접수된 최모 군 인상착의. /전북경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 전주의 한 고등학교에서 기말시험 중 교실을 나간 10대 학생이 실종 신고가 접수된 지 이틀 만에 경찰서 지구대로 찾아왔다.&lt;br&gt;&lt;br&gt;5일 전주완산경찰서에 따르면 지난 3일 오전 9시 40분쯤 최모(16)군이 학교에서 시험을 보던 중 교실 밖으로 나갔다. 키 178㎝에 몸무게 63㎏가량인 최군은 실종 당시 상고머리에 교복 차림이었다.&lt;br&gt;&lt;br&gt;최군은 기말고사 시험을 보던 중 가방 등 소지품을 놓고 교실을 나간 것으로 전해졌다. 학교는 최군이 보이지 않자 경찰에 실종신고를 했다.&lt;br&gt;&lt;br&gt;경찰은 방범카메라 분석 등을 통해 탐문 수사를 벌이는 한편, 실종 사흘째인 5일 오전 실종경보 문자를 발송했다.&lt;br&gt;&lt;br&gt;최군은 이날 낮 12시 30분쯤 직접 덕진지구대로 찾아왔다. 최군은 “내 이름으로 접수된, 나를 찾는 실종 신고가 있느냐”고 입을 뗐다. 그는 신고 내역을 본 뒤 “내가 그 사람이다”라며 자기 신원을 스스로 밝힌 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 “최군이 무사히 돌아와 보호자들에게 인계했다”며 “사춘기 시기에 학업 등으로 불안감이 심했던 것으로 파악된다. 이틀 동안 학교를 안 나가게 된 구체적인 경위 등을 확인해 볼 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>檢, 9일 카카오 창업주 김범수 소환 조사 예정</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/05/OS5PI6G64FCHPGIUYHMHSJB6QM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/05/OS5PI6G64FCHPGIUYHMHSJB6QM/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 02:29:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V7XND3EH7Z7Y6THH6OZ3F6B6P4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 10월 김범수 카카오 경영쇄신위원장이 SM엔터테인먼트 주가 시세조종 의혹과 관련한 조사를 받기 위해 서울 여의도 금융감독원으로 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SM엔터테인먼트 시세조종 의혹을 받는 김범수 카카오 경영쇄신위원장이 다음 주 검찰 조사를 받는다.&lt;br&gt;&lt;br&gt;서울남부지검 금융조사2부(부장 장대규)는 오는 9일 김 위원장을 피의자 신분으로 소환 조사할 계획이다. 김 위원장은 지난해 2월 SM 경영권 인수전 경쟁자인 하이브의 공개 매수를 방해할 목적으로 2400여억원을 투입, SM 주가를 하이브 공개 매수 가격 이상으로 끌어올린 혐의를 받는다. 또한 사모펀드인 원아시아파트너스와 함께 SM 지분 5% 이상을 보유하고도 이를 금융 당국에 보고하지 않아 공시 의무를 어긴 혐의도 있다.&lt;br&gt;&lt;br&gt;하이브는 당시 주당 12만원에 SM엔터 주식을 공개 매수하려 했지만, 주가가 12만원 이상으로 치솟으면서 실패했다. 하이브의 공개매수 실패 직후 카카오는 카카오엔터와 함께 SM엔터 주식을 대량 확보하면서 SM엔터 최대주주로 올라섰다.&lt;br&gt;&lt;br&gt;금융감독원은 지난해 11월 김 위원장과 홍은택 전 대표 등 당시 카카오 최고 경영진들을 검찰에 넘겼다. 검찰은 같은 해 카카오 본사를 압수수색하며 해당 의혹에 대해 강제수사에 나섰다.&lt;br&gt;&lt;br&gt;검찰은 최근 김 위원장의 최측근인 황태선 카카오 CA 협의체 총괄대표를 조사하기도 했다. 검찰 관계자는 “사건관계인이 원할 경우 비공개 소환할 수밖에 없다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이재명 습격범 1심서 징역 15년 선고</title>
       <link>https://www.chosun.com/national/regional/2024/07/05/3H7PQVUBCRBRVJ2X2YWS6NYHMQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/05/3H7PQVUBCRBRVJ2X2YWS6NYHMQ/</guid>
@@ -971,15 +987,6 @@ photo@yna.co.kr
       <description/>
       <pubDate>Fri, 05 Jul 2024 01:19:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PLS7DRIMMKCQZK4O3CBGONCV3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 전 더불어민주당 대표를 살해하려고 흉기를 휘두른 혐의(살인미수)로 구속된 피의자 김모씨가 지난 1월 10일 오전 부산 연제구 연제경찰서에서 검찰로 송치되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 전 더불어민주당 대표를 흉기로 찔러 살해하려 한 혐의로 구속 기소된 김모(67)씨가 1심에서 징역 15년을 선고받았다. 범행을 도운 공범 A(75)씨에게는 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;부산지법 형사6부(재판장 김용균)는 이날 오전 10시 살인미수 및 공직선거법 위반 등의 혐의로 기소된 김씨에 대해 징역 15년을 선고했다고 밝혔다. 김씨의 범행을 도와 살인미수 방조와 공직선거법 위반 방조 혐의로 재판에 넘겨진 A씨는 징역 1년 6개월에 집행유예 3년을 선고받았다.&lt;br&gt;&lt;br&gt;김씨는 지난 1월 2일 오전 10시 29분쯤 부산 강서구 가덕도 대항전망대에서 흉기로 이 전 대표의 목을 찌른 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 지난해 5~12월 김씨로부터 전달받은 ‘남기는 말’ 메모를 언론 매체 등에 전달해 달라는 부탁을 받고, 범행 당일 메모가 담긴 우편 봉투 2부를 김씨의 가족 등에게 보낸 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;김씨는 국회의원 선거를 앞두고 이재명 전 대표의 공천권 행사와 출마를 막기 위해 범행을 치밀하게 준비한 것으로 드러났다.&lt;br&gt;&lt;br&gt;검찰은 지난 5월 열린 결심공판에서 김씨에게 징역 20년을 구형했다. 또 10년간 전자장치 부착명령도 내려줄 것을 재판부에 요청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이번 주말 밤에는 비, 낮에는 무더위</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/07/05/UUWDCW6AWJG5JNJ6KJPMYUGOPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/05/UUWDCW6AWJG5JNJ6KJPMYUGOPM/</guid>
-      <dc:creator>김윤주 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 01:46:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C5Y67N3DJZE3ZNAIPKATDIWHW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 올여름 장마가 시작되면서 서울 광화문 사거리에서 폭우가 내리고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 주말 밤에는 거센 비가 퍼붓고 낮에는 무더위가 찾아올 것으로 보인다.&lt;br&gt;&lt;br&gt;5일 기상청에 따르면 토요일인 6일 새벽부터 중부 지방과 전북, 경북권에 비가 내리겠다. 비는 오전부터 오후 사이 소강상태를 보이다 밤이면 서울, 경기 북부, 강원중·북부 대부분 지역에서 그치겠다.&lt;br&gt;&lt;br&gt;6일 늦은 새벽에는 경남 북서 내륙, 오후에는 제주도, 늦은 밤부터는 전남 북부에 비가 내리겠다.&lt;br&gt;&lt;br&gt;6일 예상 강수량은 서울·인천·경기, 서해5도 10~50mm, 강원내륙·산지 10~40mm, 강원동해안 5mm 내외, 대전·세종·충남 10~40mm, 충북 5~20mm, 전북 5~20mm, 전남북부 5mm 미만, 경북북부 5~20mm, 경남북서내륙 5mm 미만, 제주도 5mm 미만이다.&lt;br&gt;&lt;br&gt;그러나 비가 더위를 식혀주지는 못할 것으로 보인다. 낮 최고기온은 26∼35도로 예보돼 평년(최고 25∼29도)보다 높을 것으로 예상된다.&lt;br&gt;&lt;br&gt;일요일인 7일은 수도권 북부와 강원중·북부를 제외한 전국 대부분 지역에 비 예보가 있고 전국이 대체로 흐리겠다. 비는 새벽에 경기 남부와 강원 남부에서 대부분 그치겠고, 곳곳이 소강 상태를 보이겠다.&lt;br&gt;&lt;br&gt;7일 낮 최고 기온은 26~33도로 예보됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TZ62CUBO3VJGZDMJ334CC2R6BU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산에 폭염주의보가 발효 중인 지난 4일 오후 남구 한 도로 위로 지열로 인한 아지랑이가 피어오르고 있다. 이날 울산의 낮 최고기온은 33도를 웃돌았다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“의사 늘린다고 응급실 뺑뺑이 안 없어져… 수가 현실화가 최우선”</title>
