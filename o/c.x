@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>늦깎이 대학생, 10명 중 6명 “일·학습 병행 힘들다”</title>
+      <link>https://www.chosun.com/national/education/2024/07/06/4745FXPCAFHC7MIA2S4OKZXXGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/07/06/4745FXPCAFHC7MIA2S4OKZXXGE/</guid>
+      <dc:creator>김연주 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Jul 2024 03:30:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R2KII7O7EJAXBDNU6UNAWCOP2E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;일하는 대학생 이미지. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대학에서 공부하는 성인 10명 중 6명이 일과 공부를 병행하는 걸 힘들어하는 것으로 나타났다. 회사에서 도움을 받은 경우는 절반도 안됐다.&lt;br&gt;&lt;br&gt;6일 한국교육개발원이 홈페이지에 공개한 ‘대학에서 성인학습자가 경험하는 재교육에 대한 이해’ 연구 결과다. 연구진은 정부가 대학의 평생교육체제를 지원하는 사업(LiFE 1.0)에 참여한 4년제 일반 대학 재학생과 졸업생을 대상으로 2020~2023년에 걸쳐 실시한 설문조사 자료를 분석했다. 분석 대상 표본 수는 재학생 6313명, 졸업생 702명이다.&lt;br&gt;&lt;br&gt;연구 결과, 성인 학습자 가운데 59.5%가 일과 학습 병행에 어려움을 경험한 것으로 조사됐다. 전혀 힘들지 않다는 비중은 6% 정도에 불과했다.&lt;br&gt;&lt;br&gt;나이가 많을 수록, 비수도권 대학 졸업자일 수록 일과 학습을 병행하는 데 어려움을 느꼈다. 성별간 차이는 통계적으로 유의미하지 않았다.&lt;br&gt;&lt;br&gt;대학에 진학한 목적은 다양했다. 학위 취득이 56.2%(수도권 대학)로 가장 높았다. 이어 재취업 12.1%, 창업 8.7%, 취미생활 7.8%, 타직종 이직 5.2%, 승진 2.7%, 타직장 이직 2.2% 순이었다.&lt;br&gt;&lt;br&gt;연구진은 성인 학습자 중에 일과 학습을 병행하는 과정에서 가정과 회사, 대학 등의 주변으로부터 도움을 받았는지 물었다. 그 결과, 가정과 대학으로부터 도움을 받은 경우가 각각 62.0%, 63.0%였다. 회사의 도움을 받은 비중은 46.0%로 가장 낮았다. 도움에 만족했다는 답변인 71.4%였고, 불만족한 경우는 3.9%에 그쳤다.&lt;br&gt;&lt;br&gt;교육 과정에 대해선 77.0%가 만족하다고 답했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전북 남원 초중고 식중독 환자 1000명 넘어서...원인은 ‘노로바이러스’   </title>
+      <link>https://www.chosun.com/national/national_general/2024/07/06/YI5QOU7Y3NHNFH2JUV2KKPSDX4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/06/YI5QOU7Y3NHNFH2JUV2KKPSDX4/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Jul 2024 04:52:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DEKYNJMFDJ34CNBGJHXEO5CKXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북 남원 지역 24개 학교에서 식중독 의심환자가 대거 발생한 가운데 최경식 남원시장이 대책회의를 주재하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 남원지역 학교에서 발생한 식중독 의심 환자가 급속도로 확산하며 1000명을 넘어섰다. 첫 식중독 의심 신고가 접수된 지 나흘 만이다 &lt;br&gt;&lt;br&gt;6일 남원시에 따르면 관 내 초·중·고교의 식중독 의심 환자는 이날 오후 1시 기준 1024명으로 잠정 집계됐다. 지난 3일 오전 160여명에서 사흘 사이 800명 넘게 증가한 것이다. 의심 환자가 발생한 학교 수도 15곳에서 24곳으로 확대됐다.&lt;br&gt;&lt;br&gt;첫 식중독 의심 신고는 지난 2일 오후 6시께 접수됐다. 해당 학교의 학생들과 교직원들은 당일 점심 이후 오후부터 구토, 설사, 복통, 발열 등 증세를 보인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;남원시는 이들 학교가 공통으로 납품받은 김치에서 노로바이러스가 검출됨에 따라 해당 업체의 모든 제품에 대해 잠정적으로 제조·유통·판매 중단 조치했다. 또 남원시장을 본부장으로 하는 재난안전대책본부를 가동해 감염병에 대응하고있다. &lt;br&gt;&lt;br&gt;남원시 관계자는 “명확한 원인 규명을 위한 역학조사를 추가 진행할 계획이며 식중독 확산 방지에 총력을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서울역 옆 코레일 서울본부서 화재…“인명피해 없어”</title>
       <link>https://www.chosun.com/national/national_general/2024/07/06/7L2ZUO7WFRDAXPV47O55Z2GTHY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/06/7L2ZUO7WFRDAXPV47O55Z2GTHY/</guid>
@@ -925,15 +943,6 @@ photo@yna.co.kr
       </media:content>
     </item>
     <item>
-      <title>이재명, ‘대장동 재판’ 출석… 민주당 검사 탄핵 질문엔 “묵묵부답”</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/05/JM4PISZNINHLBNB4LAITDVXBHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/05/JM4PISZNINHLBNB4LAITDVXBHI/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 02:08:33 +0000</pubDate>
-      <content:encoded>이재명 전 더불어민주당 대표가 5일 오전 대장동·위례·성남FC·백현동 사건 1심 재판에 피고인으로 출석했다. 최근 민주당이 발의한 ‘검사 탄핵안’에 대해 묻는 취재진의 질문엔 답변 하지 않고 법정으로 향했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VUWQ6YQ55BNOTGJAMU7ZUI2TTQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 전 대표가 5일 서울 서초구 서울중앙지방법원에서 열린 '대장동 배임 및 성남FC 뇌물' 관련 특정범죄가중처벌등에관한법률위반(뇌물) 등 공판에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오전 10시 20분쯤 서울중앙지법에 도착한 이 전 대표에게 취재진이 “검사 탄핵은 직권남용, 명예훼손, 무고라는 지적에 한 말씀 부탁드린다” “이원석 검찰총장이 명백한 수사방해라는 점을 헌법재판소를 통해 밝히겠다 했는데 어떻게 보셨느냐”고 질문했지만, 이 전 대표는 답하지 않았다.&lt;br&gt;&lt;br&gt;앞서 더불어민주당은 지난 2일 이 전 대표 등을 수사한 박상용·엄희준·강백신·김영철 검사에 대한 탄핵소추안을 당론으로 발의했다. 이에 전·현직 검사 등은 “탄핵소추권 남용이자 위법 행위”라며 반발하고 나섰다.&lt;br&gt;&lt;br&gt;한편 이날 오전 9시쯤 이원석 검찰총장은 기자들과 만나 “민주당의 검사 탄핵소추는 입법권을 남용한 직권남용과 허위사실을 적시한 명예훼손에 해당한다”며 “권력자를 수사하고 재판했다고 해서 검사를 탄핵한다면 법치주의와 민주주의는 없는 것”이라고 비판했다. 이 총장은 “탄핵 심판이 이뤄진다면, 심판을 통해 검사들에게 탄핵 사유가 없다는 것을 밝히고 이 탄핵이 위헌적이고 위법, 보복, 방탄, 사법 방해라는 것을 명확히 밝히겠다”고 했다.&lt;br&gt;&lt;br&gt;이 전 대표는 성남시장 시절 대장동 개발로 민간업자에게 특혜를 주고 성남도시개발공사에는 4895억원의 손해를 입힌 배임 혐의, 위례신도시 개발 정보를 남욱 등 민간업자에게 넘긴 혐의 등으로 작년 3월 기소됐다. 이 재판은 서울중앙지법 형사 33부(재판장 김동현)에서 진행 중이다. 이 재판부는 이 전 대표의 위증교사 사건도 맡고 있다. 이 전 대표는 2018년 경기지사 선거 때 ‘검사 사칭’ 사건과 관련해 허위 사실 공표 혐의로 재판을 받는 과정에서 증인에게 거짓 증언을 요구한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;이 전 대표가 지난 대선에서 대장동 실무자인 고(故) 김문기 전 성남도개공 개발사업처장을 알았으면서도 몰랐다고 하고, 국토교통부 협박으로 백현동 개발 부지 용도를 상향 조정했다고 거짓말을 한 혐의를 받는 ‘공직선거법 위반 사건’은 서울중앙지법 형사34부(재판장 한성진)에서 담당하고 있다.&lt;br&gt;&lt;br&gt;이 전 대표의 선거법 재판에 대한 결심(結審) 공판은 오는 9월 예정돼 있다. 1심 판단은 이르면 10월 나올 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이번 주말 밤에는 비, 낮에는 무더위</title>
       <link>https://www.chosun.com/national/transport-environment/2024/07/05/UUWDCW6AWJG5JNJ6KJPMYUGOPM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/05/UUWDCW6AWJG5JNJ6KJPMYUGOPM/</guid>
@@ -968,15 +977,6 @@ photo@yna.co.kr
       <description/>
       <pubDate>Thu, 04 Jul 2024 23:53:22 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;60대 편의점 업주가 자신보다 40살 어린 20대 여성 아르바이트생에게 성범죄를 저지른 혐의로 재판에 넘겨져 실형을 선고받았다. 해당 점주는 범행 후 ‘월급을 올려주겠다’며 피해 여성을 회유하기도 했다.&lt;br&gt;&lt;br&gt;5일 춘천지법 원주지원 형사1부(이수웅 부장판사)는 강제추행, 유사 강간 혐의로 구속기소 된 60대 A씨에게 징역 3년을 선고했다고 밝혔다. 또 40시간의 성폭력 치료 프로그램 이수와 아동·청소년·장애인 관련 기관에 각 5년간 취업제한을 명령했다.&lt;br&gt;&lt;br&gt;강원도 원주에서 편의점을 운영하고 있는 A씨는 지난해 8월 13일 새벽 3시쯤 아르바이트를 마치고 귀가하기 위해 짐을 챙기는 20대 여성 B씨에게 다가가 갑자기 신체 여러 곳을 만지고 옷을 강제로 벗기려고 하는 한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 같은 달 20일엔 노래방과 택시 뒷좌석에서 B씨를 강제 추행했고, 같은 달 28일엔 편의점에서 근무 중인 B씨를 강제로 등 뒤에서 껴안고 양손으로 몸을 만진 혐의도 있다.&lt;br&gt;&lt;br&gt;A씨는 앞서 같은 해 7월에는 아르바이트를 마친 B씨를 뒤따라가 손을 잡으면서 ‘보는 사람 없어, 한 번만’이라고 말하고 안으려 한 혐의도 있다.&lt;br&gt;&lt;br&gt;A씨는 추행이나 유사 성폭행 이후 B씨에게 ‘월급을 올려주겠다’고 하는 등 경제적 보상으로 사건을 무마하려 한 것으로 드러났다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 경제적으로 어려운 피해자의 상태를 인지한 상황에서 범행한 다음 월급을 올려주겠다고 하는 등 자신의 잘못을 경제적 보상으로 무마하려고 했다”며 “자신보다 40살 어린 피해자를 강제로 추행하고 유사 강간한 것으로 죄질이 나쁘다”고 양형이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 현장서 음주 측정했다던 경찰, 97분 뒤에야 병원서 검사</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/05/MR2IUBJ5MBDXVNM5Z7LDLLNSZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/05/MR2IUBJ5MBDXVNM5Z7LDLLNSZI/</guid>
-      <dc:creator>주형식 기자, 강우석 기자, 김보경 기자, 강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Jul 2024 20:02:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XNRGVZWLEVPJDISFRD7H2O6ZIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘서울 시청역 역주행 사고’로 숨진 서울시 공무원 고(故) 김인병씨의 유족이 4일 영정을 들고 그가 일했던 서울시청사를 도는 모습. 서울시 공무원들도 뒤따랐다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 시청역 역주행 참사 피의자 차모(68)씨의 음주 측정이 사고 발생 97분 뒤에야 이뤄졌던 것으로 4일 나타났다. 지난 1일 오후 9시 26분 차씨가 몰던 제네시스 G80(2018년식) 차량이 시속 100km로 세종대로18길을 역주행, 시민 9명이 숨지고 7명이 다쳤다. 경찰은 사고 직후 “현장에서 음주 측정을 한 결과 음성이 나왔다”고 밝혔었다.&lt;br&gt;&lt;br&gt;하지만 이 설명은 거짓이었다. 차씨는 사고 97분 뒤인 오후 11시 3분, 서울대병원에 입원한 뒤에야 음주 측정을 받았다. 경찰 관계자는 “피의자가 ‘죽는 듯한’ 고통을 호소해 위독하다고 판단했다”며 “갈비뼈 골절로 숨도 못 쉬는 상황이라서 도저히 음주 측정기를 불 수가 없었다”고 했다.&lt;br&gt;&lt;br&gt;하지만 차씨는 사고 19분 뒤인 오후 9시 45분부터 자신이 근무하는 버스 회사 동료와 두 차례 전화를 하며 “형, 이거 급발진이야” 등이라고 말한 것으로 알려졌다. 경찰은 “출동한 경찰관이 피의자가 그 사이 통화를 했는지 알 수가 없다”며 “우리가 의사는 아니지 않나”라고 했다. 경찰은 피의자가 사고 직전 방문한 호텔 내 감시 카메라를 통해 차씨의 동선과 음주 여부 등도 확인 중이라고 했다.&lt;br&gt;&lt;br&gt;음주 측정은 사고 직후 해야만 신뢰할 수 있다. 가수 김호중씨 등 음주 운전 피의자들이 음주 사고 직후 도주하거나 측정 거부 사례가 잇따르는 이유는 혈중알코올농도가 시간이 지나면서 낮아지기 때문이다. 이에 따라 사고 직후 차씨가 객관적으로 음주 측정이 불가능한 상태였는지, 회사 동료와의 통화 녹음 등을 추가 조사할 필요성도 제기된다.&lt;br&gt;&lt;br&gt;경찰은 전날 기자회견에서도 “마지막 사고 지점(BMW·쏘나타 충돌), 마지막 정지 지점(시청역 12번 출구 앞)에서 스키드 마크를 확인했다”고 했다. 회견 종료 30여 분 뒤인 3시 5분, 스키드 마크가 아니라 기름 자국이었다고 입장을 번복했다. 급발진 여부를 가릴 수 있는 중대 단서를 제대로 확인도 하지 않고 발표한 것이다. 서울 한복판에서 시민 9명이 삽시간에 숨지는 참사가 발생했음에도 경찰의 부실 수사가 지나치다는 비판이 제기됐다.&lt;br&gt;&lt;br&gt;경찰은 이날 서울대병원에 입원 중인 차씨를 방문해 2시간가량 피의자 조사를 했다. 변호인을 대동한 차씨는 “사고 당시 브레이크를 밟았으나 딱딱했다”며 차량 상태 이상에 따른 급발진을 주장했다고 한다. 서울중앙지법은 전날 경찰이 신청한 차씨 체포 영장을 기각했다. 법원은 “(피의자가) 출석에 응하지 않을 이유가 있다거나 체포의 필요성을 단정하기 어렵다”고 했다. 경찰은 구속영장 신청도 계속 검토하겠다는 입장이다.&lt;br&gt;&lt;br&gt;한편 이날 새벽 참사 희생자 9명의 발인식이 엄수됐다. 서울시 공무원 김인병(62)씨와 윤모(30)씨의 유해는 오전 5시 40분, 6시 국립중앙의료원과 신촌세브란스병원에서 각각 열린 영결식을 마치고 고인들이 생전 근무했던 서울시청 건물로 운구됐다. 김씨의 딸이 빨갛게 부은 얼굴로 아빠의 영정을 들고 나오자 사람들은 얼굴을 손으로 가리고 울었다. 윤씨 부모는 아들의 관 위에 꽃을 올려두면서 울었다. 마지막 인사를 하러 온 동료의 영정을 보며 서울시 직원들 수십 명이 눈물을 흘렸다. 윤씨의 동생은 “저희 형이 너무 좋아하던 곳이었다. 감사드린다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HMHKN3MJOZO25B3ZCICJQVB4SQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘서울 시청역 역주행 사고’ 현장에 나란히 놓인 잔 9개. 사고 희생자 9명을 추모하기 위한 술잔으로 보인다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시중은행 직원 박모(42)·이모(52)씨와 또 다른 52세 이모씨, 54세 이모씨의 발인식은 오전 5시 20분과 9시 서울대병원에서 각각 진행됐다. 박씨는 사고 당일 승진했고, 동료들과 축하 회식을 하고 나오던 길에 참변을 당했다. 54세 이씨를 잃은 백발 노모는 운구차에 오르면서 기력을 잃은 듯 실신할 뻔했다. 은행 동료와 유족 100여 명이 고인들의 마지막 가는 길을 지켰다.&lt;br&gt;&lt;br&gt;서울의 한 대형 병원에서 용역 업체 직원으로 일하다 참변을 당한 김모(38)·양모(35)·박모(40)씨의 발인도 오전 9시 5분, 9시 20분, 10시에 차례로 엄수됐다. 양씨 유족들은 운구되는 관을 보며 “아아악” 통곡하며 절규했다. 김씨의 어머니는 땅에 고개를 떨구고 눈을 뜨지 못했고 아내는 입을 막고 울음을 삼켰다. 아들의 관에 두 손을 얹은 아버지는 끝내 울었다. 박씨 발인식은 시중은행 조문객이 모두 떠난 뒤 적막해진 장례식장에서 유족 8명이 모여 진행했다. 기진맥진한 박씨 유족들은 운구차에 시신을 안치한 뒤 팔을 늘어뜨린 채 터벅터벅 걸어 운구차에 탑승했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“의사 늘린다고 응급실 뺑뺑이 안 없어져… 수가 현실화가 최우선”</title>
