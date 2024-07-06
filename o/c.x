@@ -13,6 +13,73 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘갑질 의혹’ 강형욱, 사실상 본업 복귀…반려견 교육 유튜브 재개</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/06/D5AUK57TGNCEDPRYB7V4NVCFZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/06/D5AUK57TGNCEDPRYB7V4NVCFZU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Jul 2024 08:04:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BZMDZPMGF5FRVA2RI3CIX7LT3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강형욱이 6일 자신의 유튜브 채널에 반려견 교육 관련 영상을 올리며 활동을 재개했다. /유튜브 채널 강형욱의 보듬TV&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반려견 훈련사 강형욱이 6일 자신의 유튜브 채널에 반려견 교육 관련 영상을 올리며 활동을 재개했다.&lt;br&gt;&lt;br&gt;강형욱은 자신이 운영하던 보듬컴퍼니 직원들에게 갑질을 했다는 의혹이 불거진 후 모든 활동을 중단했었다. 강형욱이 자신의 유튜브 채널에 반려견 교육 관련 영상을 올린 것은 약 두 달여 만이다. 사실상 반려견 훈련사로의 본업 복귀다.&lt;br&gt;&lt;br&gt;강형욱은 영상에서 반려견 보호자의 고민을 듣고 이에 대한 해결 방안을 제시했다. 반려견이 다른 반려견에게 달려드는 경우, 반려견 운동장에서 보호자의 태도 등 반려견 교육법도 소개했다.&lt;br&gt;&lt;br&gt;앞서 강형욱은 보듬컴퍼니 직원들에 대한 갑질 의혹에 휩싸였다. 방범카메라로 직원들을 감시하고, 명절 선물로 배변봉투에 담은 스팸을 줬다는 등의 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;보듬컴퍼니 전 직원 2명은 실제로 강형욱 부부를 정보통신망법 위반 혐의로 고소했다. 이들은 부부가 직원들의 사내 메신저 내용을 무단 열람하고 다른 직원들에게 그 내용을 누설했다고 주장했다.&lt;br&gt;&lt;br&gt;강형욱은 지난달 26일 인스타그램을 통해 “최근 경찰서에 나와 아내에 관한 고소장이 접수되었다는 소식을 들었다. 성실히 조사에 임해 진실을 밝히겠다”면서도 “다만 사실 확인이 되지 않은 내용으로 나와 가족에게 불필요한 오해를 일으키거나, 근거 없는 허위사실을 유포하고 비방한 분들, 허위로 고소한 분들은 법적대응을 포함한 단호한 조치를 취할 것”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 강형욱은 “지난 한 달여간 많은 일을 겪으며 제 삶을 깊이 돌아보는 시간을 가졌다”며 “회사 대표로서의 삶은 접고, 제 본업인 훈련사로서의 삶에 전념하고자 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대전 첫 퀴어축제 개최...맞불집회 예고에 긴장감 고조</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/06/LI53OTDT3BFMVC2P7SLJSNX2UI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/06/LI53OTDT3BFMVC2P7SLJSNX2UI/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Jul 2024 07:12:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PLH2NNI7YAHCZ4ZGZZOOYWBTMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전퀴어문화축제조직위원회 구성원들이 1일 오전 대전역 서광장에서 오는 6일 대전 소제동 일원에서 열릴 '제1회 대전퀴어문화축제' 관련 기자회견을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염주의보가 내려진 6일 대전에서 처음으로 퀴어문화축제인 ‘사랑이쥬(사랑 is you), 우리 여기 있어’가 동구 소제동 전통나래관 일원에서 열렸다. 행사장 인근에서는 퀴어축제에 반대하는 맞불 집회도 예고돼 긴장이 고조되고 있다.&lt;br&gt;&lt;br&gt;대전 지역에서는 처음 열린 퀴어축제는 이날 오전 11시 부스 행사에 이어 오후 1시 개막 행사로 진행됐다. 주최 측은 20여개 부스를 설치하고 성소수자들의 목소리를 대변하는 다양한 행사를 했다. 참가자들은 이날 오후 4시 30분부터 도심 2.7㎞를 행진할 계획이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RGIKJKM5H3RKF3C7HEQMMDJZ74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;건강한가족시민대회준비위원회 구성원들이 1일 대전역에서 제1회 퀴어문화축제를 반대하는 기자회견을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같은 시각 행사장 인근에서는 퀴어축제 반대집회가 예고돼 있다. 건강한가족 시민대회 준비위원회는 이날 오후 4시 30분 대전역 동광장에서 ‘건강한가족 시민대회’를 연다. 대전학부모연합과 대전시기독교연합회 등 70개 단체로 구성된 준비위는 반사회적인 성혁명 교육, 가짜 차별금지법, 청소년 조기 성애화, 청소년 마약 중독 그리고 공공장소에서의 퀴어행사 확산 등을 반대하고 있다.&lt;br&gt;&lt;br&gt;경찰은 두 단체 간 물리적 충돌 등을 예방하기 위해 행사장 주변에 1280명의 인력을 투입했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공무원노조들 “저임금 탓 청년 공무원 이탈 심각” </title>
+      <link>https://www.chosun.com/national/labor/2024/07/06/OAKZXHI5PFAVBB7SOOLK7EO2MI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/07/06/OAKZXHI5PFAVBB7SOOLK7EO2MI/</guid>
+      <dc:creator>김연주 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Jul 2024 06:45:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IDH6C2AA7RJHZDNHVYUGTK7GCU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전국공무원노동조합과 대한민국공무원노동조합총연맹 등 공무원 노조 관계자들이 6일 오후 서울 종로구 세종대로 정부서울청사 일대에서 가진 공무원 임금인상 총궐기대회에서 구호를 외치고 있다. 공무원노조의 주요 요구안은 공무원 임금 기본급 31만 3천 원 정액 인상과 하위직 정근수당 인상, 점심값 1만 원을 위한 정액급식비 8만 원 인상(현 점심값 6,360 원), 직급보조비 3만 원 인상 등이다. 2024.7.6/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공무원 노동조합들이 청년 공무원들이 공직을 그만두는 걸 막기 위해 임금과 수당을 인상해야 한다고 주장했다.&lt;br&gt;&lt;br&gt;6일 전국공무원노동조합, 대한민국공무원노동조합총연맹, 전국교직원노동조합, 전국민주우체국본부, 교육청노동조합연맹, 전국경찰직장협의회는 정부서울청사 인근에서 ‘공무원 임금 인상 쟁취 총궐기대회’를 열었다.&lt;br&gt;&lt;br&gt;이들은 “공무원 임금 상승률은 물가 상승률에 터무니 없이 못미쳐 실질 임금이 삭감됐다”면서 “공무원과 교사에게 일방적 희생, 공짜 노동만 강요당하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;노조에 따르면, 공무원 임금 수준은 2022년 100인 이상 민간 사업체 사무관리직 대비 83.1%였다. 또 재직 기간 5년 미만 공무원 중 퇴사자가 지난해 1만3568명에 달한다.&lt;br&gt;&lt;br&gt;노조들은 공무원 임금 31만3000원 인상, 6급 이하 직급 보조비 3만5000원 인상, 저연차 공무원 정근 수당 지급 기준 개선, 급식비 8만원 인상 등을 요구했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울역 인근서 80대 운전자 인도 돌진…시민 2명 차로 치어</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/06/H6GQQLJ6SNCGTAMRDYRMDMZIYA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/06/H6GQQLJ6SNCGTAMRDYRMDMZIYA/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Jul 2024 06:15:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IANNDOFMBZECZILK5ZR2D5SY54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산구 서계동의 한 주유소에서 교통사고가 일어난 모습/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 오전 서울역 인근에서 한 80대 남성 A씨가 몰던 차량이 인도로 돌진, 걸어가던 시민 2명을 들이받는 사고가 났다. 지난 1일 시청역 역주행 참사에 이어 5일 만에 차량이 인도로 돌진한 사고가 난 것이다.&lt;br&gt;&lt;br&gt;6일 오전 9시 20분쯤 서울 용산구 서계동의 한 주유소 앞에서 A씨가 몰던 경차가 시민 2명을 들이 받았다. 사고가 난 곳은 공항철도 서울역 맞은 편이다.&lt;br&gt;&lt;br&gt;차량은 서울역에서 남영역 방향으로 가는 편도 3차선 도로 3차로에서 주유소 앞 인도 쪽으로 방향을 틀어 시민 1명을 쳤다. 이어 20m 안팎을 이동해 다른 시민 1명을 친 뒤, 근처 벽을 들이받고 차를 멈췄다.&lt;br&gt;&lt;br&gt;차량에 치인 시민 2명은 인근 병원으로 이송됐고, 생명에는 지장이 없는 것으로 알려졌다. A씨는 사고 당시 2명과 함께 타고 있었으며, 음주 상태는 아니었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 교통사고처리특례법상 치상 혐의로 입건하고, 급발진 여부와 함께 A씨가 주유소로 들어가려다 사고가 났는지 여부 등 자세한 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/IANNDOFMBZECZILK5ZR2D5SY54.jpg?width=500&amp;height=281&amp;auth=81cbc3c82717a54064b888ca947a9574c91b3018e810289d1d851af5e4b58bd8&amp;smart=true" type="image/jpeg" height="281" width="500"/>
+    </item>
+    <item>
+      <title>내일 충청·전라도 강한 비...남부 지방은 계속 무더위</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/07/06/3DCFQSKBXNGGTL5LQW7YMSLJZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/06/3DCFQSKBXNGGTL5LQW7YMSLJZY/</guid>
+      <dc:creator>김연주 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Jul 2024 06:16:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UVNDYJGWHFEI7I6OPCYQ3JRD3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오전 충청도와 전라도를 중심으로 강하고 많은 비가 내리겠다. 남부 지방과 제주도는 무더위가 계속될 전망이다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일요일인 7일 오전 충청도와 전라도를 중심으로 강하고 많은 비가 내리겠다. 남부 지방과 제주도는 무더위가 계속될 전망이다.&lt;br&gt;&lt;br&gt;6일 기상청 예보에 따르면, 일요일에 전국 대부분 지방이 흐리겠고, 중부 지방은 낮에 가끔 구름이 많겠다.&lt;br&gt;&lt;br&gt;이날 전국 대부분 지역에 비가 올 전망이다. 단, 서울, 인천, 경기 북부, 강원중·북부, 강원 남부 동해안 지역은 비는 오지 않을 전망이다. 경기 남부와 강원 남부 내륙 지역 등은 오전에 비가 오다가 오후 12~18시 사이에 대부분 그치겠다.&lt;br&gt;&lt;br&gt;월요일(8일)에도 전국이 대체로 흐리겠다. 자정부터 오전 6시 사이 경기남부와 충청권, 전북, 경상도 지역에 비가 시작되고, 오전에 수도권과 강원도, 제주도로 비가 확대될 것으로 보인다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘기억도 안 나는데…’ 부정주차 고지서 5000장 2년 만에 보낸 구청 </title>
+      <link>https://www.chosun.com/national/national_general/2024/07/04/MPN7QPWB7BHWHD5KSFA4TSVSQE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/04/MPN7QPWB7BHWHD5KSFA4TSVSQE/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Jul 2024 01:51:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S7H5MS727LTFGPFJRFW2QHVZEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영등포구청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 영등포구가 부정주차 요금 1차 납부고지서 수천 장을 단속 후 2년여 만에 발송한 것으로 알려져 논란이 되고 있다.&lt;br&gt;&lt;br&gt;4일 영등포구청 산하 영등포구시설관리공단(이하 공단) 등에 따르면 공단은 2022년 4월부터 12월까지 적발된 거주자 우선 주차구역 내 부정주차 5000여건에 대한 1차 요금 납부고지서를 지난달에야 발송했다. 부과금액은 약 1억 9700만원이다.&lt;br&gt;&lt;br&gt;영등포구에서는 거주자 우선 주차구역 내에 부정주차를 했다가 적발되면 주차 시간과 상관없이 주차요금 3만 6000원을 납부해야 한다.&lt;br&gt;&lt;br&gt;공단 측은 고지서에 단속요원이 적발 현장에서 찍은 차량 사진을 첨부해야 하는데 2022년 당시 전산시스템을 교체하는 과정에서 사진이 누락 되는 문제가 생겨 발송이 늦어졌다고 설명했다.&lt;br&gt;&lt;br&gt;당시 직원들은 일일이 적발 현장에서 찍은 사진을 전산에 입력하는 작업을 했는데 전산상 내용과 사진이 일치하는지도 대조해야 했기 때문에 시간이 오래 걸렸다는 것이다.&lt;br&gt;&lt;br&gt;2년여 만에 부정주차 요금 납부고지서가 도착하자 일부 시민은 구청과 공단 측에 ‘기억도 나지 않는다’는 취지로 항의하기도 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;공단 측 관계자는 조선닷컴과의 통화에서 “체납 지방세의 소멸시효가 5년이라 법적으로는 문제가 없다. 차량에 붙은 고지 스티커를 보고 이미 요금을 납부한 분들도 계시다”며 “이번에 고지서를 받은 분들은 가산금이 붙는 등 불이익을 보는 부분은 없다”고 설명했다.&lt;br&gt;&lt;br&gt;관계자는 “저희가 고지서를 늦게 보낸 부분은 인정하고 놀라셔서 항의하는 분들도 당연히 있을 것이라고 생각했다”면서도 “고지서 발송이 제때 안된다고 이 부분을 결손 처리해버릴 수도 없었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>만취한 지인 업었다 뒤로 넘어져 사망케 한 20대…法 판단은?</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/06/K254MDA6CRDHBGJPCJW6IPMIBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/06/K254MDA6CRDHBGJPCJW6IPMIBM/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Jul 2024 05:35:02 +0000</pubDate>
+      <content:encoded>만취한 지인을 업었다가 내려주려던 와중 뒤로 넘어져 숨지게 한 혐의를 받는 20대에게 금고형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;서울서부지법 형사7단독 마성영 부장판사는 과실치사 혐의로 기소된 A(27)씨에게 금고 6개월에 집행유예 1년을 선고했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFLHHFJBRFVGBR53K2OFYOIZ7A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지법 전경/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 6월 11일 새벽 5시쯤 서울 용산구 일대에서 일행 세 명과 함께 술을 마신 A씨는 이날 오전 10시 10분쯤 택시를 타고 한 일행의 집에 도착했다.&lt;br&gt;&lt;br&gt;이후 A씨는 만취한 일행 중 한 명인 B씨를 업고 집 거실 바닥에 내려놓으려다 뒤로 넘어졌다. 머리를 거실 바닥에 부딪힌 B씨는 폐쇄성 두개골 골절, 외상성 경막하출혈 등으로 병원 치료를 받다 외상성 뇌출혈로 8일 만에 사망했다.&lt;br&gt;&lt;br&gt;마 판사는 “피고인이 무릎을 꿇은 상태에서 업혀 있는 피해자의 손을 놓을 때 피해자의 머리가 거실 바닥에서 1m 높이에 있었고, 크게 ‘쿵’ 소리가 날 정도로 피해자의 머리가 바닥에 부딪힌 점을 볼 때 피고인의 과실을 인정할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;다만 “A씨가 B씨를 내려놓을 때 같이 있던 일행 2명이 도와줄 것이라 기대했던 점, B씨의 유족이 처벌을 원하지 않는 점 등을 양형에 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/6NJNCCUD3GVCQRAFBIFTJB52QQ.jpg?width=600&amp;height=272&amp;auth=9394f62d48ba006e8d56fdb1e6849ca73c08ad5de32ab9a5e0887c6d6a93bdc2&amp;smart=true" type="image/jpeg" height="272" width="600">
+        <media:description type="plain">서울서부지법 전경.</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>늦깎이 대학생, 10명 중 6명 “일·학습 병행 힘들다”</title>
       <link>https://www.chosun.com/national/education/2024/07/06/4745FXPCAFHC7MIA2S4OKZXXGE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/07/06/4745FXPCAFHC7MIA2S4OKZXXGE/</guid>
@@ -867,24 +934,6 @@ photo@yna.co.kr
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JRIENCVM65GAJIM6N7XGI3LUSA.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 실종 신고가 접수된 최모 군 인상착의. /전북경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 전주의 한 고등학교에서 기말시험 중 교실을 나간 10대 학생이 실종 신고가 접수된 지 이틀 만에 경찰서 지구대로 찾아왔다.&lt;br&gt;&lt;br&gt;5일 전주완산경찰서에 따르면 지난 3일 오전 9시 40분쯤 최모(16)군이 학교에서 시험을 보던 중 교실 밖으로 나갔다. 키 178㎝에 몸무게 63㎏가량인 최군은 실종 당시 상고머리에 교복 차림이었다.&lt;br&gt;&lt;br&gt;최군은 기말고사 시험을 보던 중 가방 등 소지품을 놓고 교실을 나간 것으로 전해졌다. 학교는 최군이 보이지 않자 경찰에 실종신고를 했다.&lt;br&gt;&lt;br&gt;경찰은 방범카메라 분석 등을 통해 탐문 수사를 벌이는 한편, 실종 사흘째인 5일 오전 실종경보 문자를 발송했다.&lt;br&gt;&lt;br&gt;최군은 이날 낮 12시 30분쯤 직접 덕진지구대로 찾아왔다. 최군은 “내 이름으로 접수된, 나를 찾는 실종 신고가 있느냐”고 입을 뗐다. 그는 신고 내역을 본 뒤 “내가 그 사람이다”라며 자기 신원을 스스로 밝힌 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 “최군이 무사히 돌아와 보호자들에게 인계했다”며 “사춘기 시기에 학업 등으로 불안감이 심했던 것으로 파악된다. 이틀 동안 학교를 안 나가게 된 구체적인 경위 등을 확인해 볼 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“전문의 5명중 2명 퇴사”… 속초의료원 응급실 1년 만에 또 문닫는다</title>
-      <link>https://www.chosun.com/national/regional/2024/07/05/RMVIBWPFKVHX3BGRO57F2FOPBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/05/RMVIBWPFKVHX3BGRO57F2FOPBM/</guid>
-      <dc:creator>속초=정성원 기자</dc:creator>
-      <description>강원 속초의료원이 응급실 전문의 부족으로 일주일 동안 응급실 운영을 제한하기로 했다. 속초의료원은 지난해에도 응급의학과 전문의들이 잇따라 퇴사해 응급실을 제한 운영한 적 있다.강원도는 지난 1일 속초의료원 응급실 전문의 5명 가운데 2명이 퇴사해 이달 중 총 7일간 응급실을 운영하지 않는다고 5일 밝혔다.</description>
-      <pubDate>Fri, 05 Jul 2024 03:35:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BTXZMICPPPO42YK6CBVKRGHJNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 속초의료원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 속초의료원이 응급실 전문의 부족으로 일주일 동안 응급실 운영을 제한하기로 했다. 속초의료원은 지난해에도 응급실 전문의들의 잇따른 퇴사로 인력이 부족, 응급실을 제한 운영했었다.&lt;br&gt;&lt;br&gt;강원도는 지난 1일 속초의료원 응급실 전문의 5명 가운데 2명이 퇴사해 이달 중 총 7일간 응급실을 운영하지 않는다고 5일 밝혔다. 응급실 미 운영일은 이달 8일부터 10일, 14일, 22일부터 24일까지다. 퇴사한 의사 2명은 질병과 개인 사정에 의한 것으로 이번 의대 증원 갈등과는 무관한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;강원도는 의료 공백을 막고자 지난 1월부터 10차례 채용 공고를 냈지만, 충원에 실패했다.&lt;br&gt;&lt;br&gt;강원도 관계자는 “지난 2월부터 시작된 의료계 집단행동의 여파로 의료진 채용에 더욱 어려움을 겪고 있다”고 했다.&lt;br&gt;&lt;br&gt;속초의료원의 구인난은 처음이 아니다.&lt;br&gt;&lt;br&gt;속초의료원은 지난해에도 응급실 전문의 5명 가운데 3명이 퇴사하면서 3개월가량 응급실을 제한 운영한 적 있다. 그러다 응급실 전문의 연봉을 4억원대로 올리는 등 파격 조건을 제시, 5차례의 채용 공고 끝에 3명의 전문의를 충원했다.&lt;br&gt;&lt;br&gt;강원도는 도내 다른 응급의료기관과 협의해 응급 환자 발생 시 후송 및 치료에 차질이 없도록 할 방침이다.&lt;br&gt;&lt;br&gt;이경희 강원도 복지보건국장은 “의료진 축소에 따른 업무 과중에 따라 불가피하게 응급실을 제한적으로 운영하기로 했다”면서 “중증환자 발생 시 강릉 아산병원, 원주 세브란스기독병원 등으로 긴급 이송이 원활하게 이뤄지도록 협력체계를 강화하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘불법 대북송금’ 유죄 이화영, 항소심 첫 재판 26일 열린다</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/05/PYRGISL5CFCVRDHOK4RHIIMCN4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/05/PYRGISL5CFCVRDHOK4RHIIMCN4/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 03:32:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GHNWRPRVTFAYFIBWLPJC235W4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사. /경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘쌍방울 불법 대북송금’과 불법 뇌물 및 정치자금 수수 등의 혐의로 1심에서 징역 9년6개월이 선고된 이화영 전 경기도 평화부지사의 항소심 재판이 이달 말 시작된다.&lt;br&gt;&lt;br&gt;5일 법조계에 따르면 이 전 부지사의 외국환거래법 위반, 뇌물 및 정치자금법 위반, 증거인멸교사 혐의에 대한 2심 재판을 맡은 수원고법 형사1부(재판장 문주형)는 오는 26일 오전 10시30분 첫 공판 기일을 연다.&lt;br&gt;&lt;br&gt;통상적인 공판절차에 따라, 이날 첫 재판에서는 검찰과 변호인의 항소 이유 진술 등이 있을 것으로 보인다.&lt;br&gt;&lt;br&gt;이 전 부지사는 이재명 전 더불어민주당 대표가 경기도지사이던 2019년 도지사 방북 비용 300만 달러와 북한 스마트팜 사업 비용 500만 달러를 쌍방울이 대신 북한 측에 내게 한 혐의를 받는다. 이 전 부지사는 또 경기도 평화부지사, 경기도 산하기관인 킨텍스 대표이사로 재임했을 당시 쌍방울 측에서 법인 카드와 차량 등 법인카드 및 법인차량을 제공받고, 자신의 측근에게 허위 급여를 지급하도록 하는 등의 방식으로 모두 3억3400여만 원의 정치자금(뇌물 2억5900여만원)을 받은 혐의도 받는다. 그는 자신의 법인카드 사용 등에 대한 자료를 쌍방울로 하여금 삭제하도록 한 혐의도 있다.&lt;br&gt;&lt;br&gt;이 사건의 1심 재판부인 수원지법 형사11부(재판장 신진우)는 지난 달 7일 이 전 부지사에 대한 불법 대북 송금 혐의(외국환거래법 위반)와 뇌물, 증거인멸교사 등을 모두 유죄로 판단하고, 징역 9년6개월에 벌금 2억5000만원, 추징금 3억2595만원을 선고했다. 재판부는 경기도가 지급해야 할 스마트팜 사업비와 당시 이재명 경기도지사 방북비용 등 800만 달러를 쌍방울이 북한 측에 전달한 사실을 모두 인정했다.&lt;br&gt;&lt;br&gt;이에 이 전 부지사 측은 1심 선고 사흘 만인 지난달 10일 “재판부가 편파적으로 판단했다”며 법원에 항고장을 냈다. 검찰은 이틀 후 맞항소하면서 “더 중한 형이 선고돼야 한다”고 했다. 앞서 검찰은 이 전 부지사에 징역 15년을 구형했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘KT 일감 몰아주기’ 회삿돈 가족 생활비로 쓴 황욱정 KDFS 대표… 징역 2년 6개월</title>
       <link>https://www.chosun.com/national/court_law/2024/07/05/DPCKD3HXQ5G5JCV46RJVJMWWEI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/05/DPCKD3HXQ5G5JCV46RJVJMWWEI/</guid>
@@ -892,15 +941,6 @@ photo@yna.co.kr
       <description/>
       <pubDate>Fri, 05 Jul 2024 03:07:44 +0000</pubDate>
       <content:encoded>KT의 ‘일감 몰아주기’ 의혹 수사 중 횡령·배임 혐의가 드러난 KDFS 황욱정 대표에게 1심에서 실형이 선고됐다. KT 출신인 황 대표는 과거 인맥들에게 부정 청탁을 하고, 회삿돈을 가족의 생활비로 무단으로 이용한 혐의 등을 받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K2PVGLUOR5JFHCKCNWHV54QH3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;KT 일감 몰아주기 혐의를 받고 있는 황욱정 KDFS 대표가 작년 7월 13일 서울 서초구 서울중앙지방법원에서 열린 영장실질심사에 출석하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사24부(재판장 최경서)는 5일 특정경제범죄가중처벌법상 횡령·배임 등 혐의로 기소된 황 대표에게 징역 2년 6개월을 선고했다. 보석으로 풀려났던 황 대표는 이날 다시 수감됐다.&lt;br&gt;&lt;br&gt;재판부는 “공공적 성격을 갖는 KT로부터 수주를 받으면서 과거 인맥으로 알고 있던 이들에게 부정 청탁을 하며 법인카드 등 금전적 이익을 제공했다”며 “다분히 위법적인 방법으로 축적한 회사 이익을 자녀들이 무단으로 사용하도록 하는 등 회사를 개인 사업체처럼 운영했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “피고인은 혼자 12개의 법인카드를 사용하며 가족의 생활비와 여행경비를 지출한 일은 매우 비도덕적이다”며 “하지만 피고인은 수사 단계에서 법정에 이르기까지 진지한 반성을 하지 않았고, 무엇이 잘못인지 인식하지 못하는 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;황대표는 2017~2023년 외부인들에게 허위 자문료와 법인카드 등을 지급하고, 자녀 2명을 명목상 직원으로 KDFS에 등재시키는 등의 방법으로 회삿돈 48억원을 빼돌린 혐의로 작년 8월 기소됐다. 또 KT 임원들에게 용역 물량을 늘려달라고 청탁하며 수천만원의 금품을 제공하고, 시설관리 용역을 다른 업체로 불법 재하도급을 준 혐의도 받았다.&lt;br&gt;&lt;br&gt;하지만 이날 재판부는 황 대표의 일부 자문료, 특별성과급 지급 혐의는 증명되지 않는다며 일부 무죄로 판단해 약 26억원을 피해액으로 인정했다.&lt;br&gt;&lt;br&gt;앞서 검찰은 KT그룹이 2020년 구현모 전 대표 취임 후, KT 측이 기존 4개 하청업체에 나눠주던 일감을 KDFS에 의도적으로 몰아줬다는 의혹을 수사했다. 구 전 대표가 KDFS에 일감을 몰아주는 과정에서 수십억원대 비자금을 조성했을 가능성을 조사한 것이다. 검찰은 일감 몰아주기 특혜를 받은 것으로 의심한 황 대표를 수사하다가, 횡령·배임 혐의를 포착해 먼저 기소했다.&lt;br&gt;&lt;br&gt;검찰은 지난 5월 구 전 대표를 무혐의 처분했다. 다만 KT 전현직 임원 3명에게 건물관리 용역 물량을 늘려달라는 청탁과 함께 수천만원 상당의 금품을 제공한 혐의(배임증재)로 황 대표를 또다시 별도로 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“할부지가 꼭 보러 올게” 약속한 강바오, 3개월만에 푸바오 재회 </title>
-      <link>https://www.chosun.com/national/national_general/2024/07/05/TR6AXQQZLRE6DIPB7G2JWD4ZTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/05/TR6AXQQZLRE6DIPB7G2JWD4ZTM/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 02:37:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T2LLONDJZ5BPNBYY4VL2XNWVVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;푸바오와 강철원 사육사./유튜브 채널 '말하는동물원 뿌빠TV'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;에버랜드 판다들의 ‘할부지’로 불리는 강철원 사육사가 푸바오와 이별한지 3개월만에 재회했다.&lt;br&gt;&lt;br&gt;5일 에버랜드는 강 사육사가 전날(4일)부터 이날까지 이틀에 걸쳐 중국 워룽 선수핑 판다기지를 방문해 푸바오와 만났다고 밝혔다.&lt;br&gt;&lt;br&gt;강 사육사는 푸바오가 생활하는 방사장을 둘러보고, 푸바오 이름을 불러보며 교감했다. 푸바오도 목소리에 반응하고 가까이 다가오는 등 강 사육사를 알아보는 듯한 모습을 보인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QK24BXPKCJCB5L4TNCHLPRCSB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;푸바오와 강철원 사육사./에버랜드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 만남은 2020년 7월 20일 국내 최초 자연 번식으로 태어난 푸바오가 지난 4월3일 중국으로 떠난 후 92일 만에 이뤄졌다.&lt;br&gt;&lt;br&gt;푸바오가 떠날 당시 강 사육사는 푸바오의 적응을 돕기 위해 중국 길에 동행했다. 모친상에도 불구하고 푸바오 곁을 지킨 강 사육사는 중국 도착 후 “사랑하는 푸바오. 할부지가 너를 두고 간다. 꼭 보러 올거야. 잘 적응하고 잘 먹고 잘 놀아라”는 글귀를 적은 편지를 푸바오에게 남기고 한국으로 돌아왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME6ACCNVLNGUPLEHJE6QX6ZX3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;푸바오와 강철원 사육사./에버랜드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국에서 약 2개월간 검역과 적응 과정을 무사히 마친 푸바오는 지난달 12일부터 야외 방사장에 공개됐다.&lt;br&gt;&lt;br&gt;푸바오와 재회한 강 사육사는 “푸바오가 사는 곳을 직접 보니 주변 환경이 너무 좋았다”며 “현지 사육사들도 푸바오를 위해 많이 노력하는 모습들을 볼 수 있어서 마음이 놓였다”고 했다.&lt;br&gt;&lt;br&gt;이어 “믿고 확신했던 대로 푸바오가 잘 적응하고 있는 모습을 보니 대견하다”며 “앞으로도 기회가 있을 때마다 푸바오를 만나러 오고 싶다”고 덧붙였다.&lt;br&gt;&lt;br&gt;유튜브 채널 ‘말하는동물원 뿌빠TV’ 측도 이날 강 사육사가 푸바오를 만나 찍은 사진을 공개하고 “드디어 할부지가 중국에 가서 푸바오를 만났다”고 알렸다. 아울러 강 사육사와 푸바오의 재회 장면을 다음주 공개한다고 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>檢, 9일 카카오 창업주 김범수 소환 조사 예정</title>
@@ -921,28 +961,6 @@ photo@yna.co.kr
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PLS7DRIMMKCQZK4O3CBGONCV3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 전 더불어민주당 대표를 살해하려고 흉기를 휘두른 혐의(살인미수)로 구속된 피의자 김모씨가 지난 1월 10일 오전 부산 연제구 연제경찰서에서 검찰로 송치되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 전 더불어민주당 대표를 흉기로 찔러 살해하려 한 혐의로 구속 기소된 김모(67)씨가 1심에서 징역 15년을 선고받았다. 범행을 도운 공범 A(75)씨에게는 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;부산지법 형사6부(재판장 김용균)는 이날 오전 10시 살인미수 및 공직선거법 위반 등의 혐의로 기소된 김씨에 대해 징역 15년을 선고했다고 밝혔다. 김씨의 범행을 도와 살인미수 방조와 공직선거법 위반 방조 혐의로 재판에 넘겨진 A씨는 징역 1년 6개월에 집행유예 3년을 선고받았다.&lt;br&gt;&lt;br&gt;김씨는 지난 1월 2일 오전 10시 29분쯤 부산 강서구 가덕도 대항전망대에서 흉기로 이 전 대표의 목을 찌른 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 지난해 5~12월 김씨로부터 전달받은 ‘남기는 말’ 메모를 언론 매체 등에 전달해 달라는 부탁을 받고, 범행 당일 메모가 담긴 우편 봉투 2부를 김씨의 가족 등에게 보낸 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;김씨는 국회의원 선거를 앞두고 이재명 전 대표의 공천권 행사와 출마를 막기 위해 범행을 치밀하게 준비한 것으로 드러났다.&lt;br&gt;&lt;br&gt;검찰은 지난 5월 열린 결심공판에서 김씨에게 징역 20년을 구형했다. 또 10년간 전자장치 부착명령도 내려줄 것을 재판부에 요청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>시청역 참사 현장에 조롱 쪽지 남긴 20대男, 경찰에 자수</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/05/MC7W4A2QSNC4LDSRVHKVB6FEKE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/05/MC7W4A2QSNC4LDSRVHKVB6FEKE/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 02:08:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/57PLV2WKYEDEAT5XIY26MBE3KQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 서울 중구 시청역 인근 역주행 참사 현장에 희생자를 추모하는 국화와 술 등이 놓여 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 시청역 인근 역주행 참사 현장에 마련된 추모 공간에 피해자들을 조롱하는 쪽지를 남긴 20대 남성이 경찰에 자진 출석해 자수했다.&lt;br&gt;&lt;br&gt;5일 경찰에 따르면, 서울 남대문경찰서는 전날 오후 20대 남성 A씨를 사자명예훼손 혐의로 입건해 조사 중이다.&lt;br&gt;&lt;br&gt;A씨는 지난 3일 오후 6시쯤 역주행 참사 현장 인근 추모 공간에 피해자들의 명예를 훼손하는 내용의 쪽지를 남기고 간 혐의를 받는다. 온라인 커뮤니티 등에 이 쪽지 내용이 담긴 사진이 확산하며 논란이 일었다.&lt;br&gt;&lt;br&gt;A씨는 자신이 작성한 쪽지가 온라인상에서 논란이 되고 이와 관련한 언론보도가 나오자 경찰에 자진해서 출석한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “상세한 범행동기 및 범행 과정에 대해서 계속 수사할 예정”이라고 말했다. 남대문서는 이날 오전 추모공간에서 모욕 조로 쓴 또 다른 쪽지글을 발견해 수거하고 입건 전 조사(내사) 중이라고 했다.&lt;br&gt;&lt;br&gt;서울경찰청 사이버수사대도 모욕성 인터넷 게시글 3건에 대해 입건 전 조사에 착수했다. 경찰은 피해자들에 대한 허위사실 유포 및 명예훼손 등 행위에 대해 적극 사법처리할 방침이다.&lt;br&gt;&lt;br&gt;앞서 경찰은 기자단 공지를 통해 “현재 시청역 사고와 관련해 조롱, 모욕, 명예훼손성 게시글 등이 무분별하게 유포되고 있어 피해자와 유족에 대한 심각한 2차 피해가 우려되는 상황”이라며 “이러한 행위는 형법상 모욕죄와 사자명예훼손, 정보통신망법상 명예훼손죄 등에 의해 형사 처벌될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이원석 “검사 탄핵안 낸 민주당, 직권남용‧허위사실 명예훼손 해당”</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/05/SWUWTDQ2NFHDPEO67PS3DXWBWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/05/SWUWTDQ2NFHDPEO67PS3DXWBWE/</guid>
-      <dc:creator>방극렬 기자, 이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 00:15:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WWNIF5A7JVOOXGI4R2DUM6WJE4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이원석 검찰총장이 5일 서울 서초구 대검찰청에 출근하며 취재진의 질문에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이원석 검찰총장이 5일 “민주당의 검사 탄핵소추는 입법권을 남용한 직권남용과 허위사실 적시한 명예훼손에 해당한다”고 비판했다.&lt;br&gt;&lt;br&gt;이 총장은 이날 출근길에서 기자들과 만나 민주당이 이재명 전 대표 등을 수사한 박상용·엄희준·강백신·김영철 검사에 대한 탄핵소추안을 당론으로 발의한 데 대해 이같이 말했다. 이 총장은 “민주당의 탄핵소추는 헌법과 법률을 위반해 타인에게 의무 없는 일을 하게하고 권리를 방해한 직권남용에 해당한다”며 “허위사실을 적시한 명예훼손에 해당될 뿐만 아니라 그 외에도 여러 법률적인 문제가 많다는 점을 분명히 말씀드린다”고 했다.&lt;br&gt;&lt;br&gt;이 총장은 “다만 국회의원들에게는 국회에서의 발언과 입법 활동에 대해서는 면책 특권이 주어진다”면서도 “면책 범위를 벗어난 위법한 부분에 대해서는 법률적으로 검토를 하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;이 총장은 또 “권력자를 수사하고 재판했다고 해서 검사를 탄핵한다면 법치주의와 민주주의는 없는 것”이라며 “검찰은 지금껏 해 오던 대로 수사와 재판을 오로지 증거와 법리, 원칙대로 수행해서 죄를 지은 사람에게 처벌이 뒤따른다는 ‘필벌 원칙’을 지키도록 하겠다”고 했다. 이어 “만약 탄핵소추가 되어 탄핵 심판이 이뤄진다면, 심판을 통해 검사들에게 탄핵 사유가 없다는 것을 밝히고 이 탄핵이 위헌적이고 위법, 보복, 방탄, 사법 방해라는 것을 명확히 밝히겠다”고 강조했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6LBA6TTZDVPSBPHTMSXN2VTATY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이원석 검찰총장이 5일 서울 서초구 대검찰청에 출근하며 취재진의 질문에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기자들이 “검사 탄핵이 현실화되지 않았는데 검찰이 정치적으로 대응하는 것 아니냐는 지적이 있다”고 묻자, 이 총장은 “탄핵소추를 통해 수사와 재판이라고 하는 검사 일을 못 하게 하면 손 놓고 두고만 볼 수 없지 않겠나. 검찰 일을 반듯하고 올바르게 하기 위해 부득이 말씀드리는 것”이라고 답했다.&lt;br&gt;&lt;br&gt;이 총장은 “탄핵소추가 자신 있고 당당하다면 (민주당이) 바로 국회에서 의결해서 헌법재판소에 보내지 않았겠느냐”면서 “민주당 안에서도 이 (검사) 탄핵안이 헌재에서 인용될 거라고 생각하는 의원이 없다고 생각한다”고 지적했다. 민주당은 검사 4명에 대한 탄핵소추안을 의결하지 않고 법제사법위원회로 보냈다. 민주당이 다수인 법사위는 탄핵 검사들을 불러 공개적으로 혐의를 추궁하겠다는 계획이다.&lt;br&gt;&lt;br&gt;“단순 검찰총장의 입장 발표로는 부족하다는 의견도 있는데 거취에 대해 고민하고 있느냐”는 질문에 이 총장은 “검찰의 모든 일은 말과 글로 하는 것이다. 법률에 정해진 절차와 양심에 따라서 제대로 일하겠다”고 말했다. 이어 “제가 하루라도 임기를 지키고 남아있는 이유는 제 안위를 위해서가 아니라 검찰에서 제대로 일하기 위한 것”이라며 “퇴직하는 날까지 다른 생각 없이 제 일을 하겠다”고 했다.&lt;br&gt;&lt;br&gt;한편, 윤석열 대통령의 배우자 김건희 여사에 대한 수사가 미진하다는 지적에 이 총장은 “앞서 대통령께서 ‘공정하고 엄정하게 수사가 이뤄질 것’이라고 말씀하셨다”며 “여러 차례 말씀드리지만 우리 법 앞에 성역도 예외도 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/FH4SMIQUB5BQHDUOYN74SCPQEY.JPG?width=3092&amp;height=1739&amp;auth=37c75a0b881aab3b975c8b3a463527363f4a0e1b17e88f30346094a6640f0522&amp;smart=true" type="image/jpeg" height="1739" width="3092">
-        <media:description type="plain">이원석 검찰총장이 5일 오전 서울 서초구 대검찰청에 출근하며 취재진의 질문에 답하고 있다. 2024.7.5/뉴스1 ⓒ News1 김도우 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 김도우 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>이번 주말 밤에는 비, 낮에는 무더위</title>
       <link>https://www.chosun.com/national/transport-environment/2024/07/05/UUWDCW6AWJG5JNJ6KJPMYUGOPM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/05/UUWDCW6AWJG5JNJ6KJPMYUGOPM/</guid>
@@ -950,24 +968,6 @@ photo@yna.co.kr
       <description/>
       <pubDate>Fri, 05 Jul 2024 01:46:41 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C5Y67N3DJZE3ZNAIPKATDIWHW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 올여름 장마가 시작되면서 서울 광화문 사거리에서 폭우가 내리고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 주말 밤에는 거센 비가 퍼붓고 낮에는 무더위가 찾아올 것으로 보인다.&lt;br&gt;&lt;br&gt;5일 기상청에 따르면 토요일인 6일 새벽부터 중부 지방과 전북, 경북권에 비가 내리겠다. 비는 오전부터 오후 사이 소강상태를 보이다 밤이면 서울, 경기 북부, 강원중·북부 대부분 지역에서 그치겠다.&lt;br&gt;&lt;br&gt;6일 늦은 새벽에는 경남 북서 내륙, 오후에는 제주도, 늦은 밤부터는 전남 북부에 비가 내리겠다.&lt;br&gt;&lt;br&gt;6일 예상 강수량은 서울·인천·경기, 서해5도 10~50mm, 강원내륙·산지 10~40mm, 강원동해안 5mm 내외, 대전·세종·충남 10~40mm, 충북 5~20mm, 전북 5~20mm, 전남북부 5mm 미만, 경북북부 5~20mm, 경남북서내륙 5mm 미만, 제주도 5mm 미만이다.&lt;br&gt;&lt;br&gt;그러나 비가 더위를 식혀주지는 못할 것으로 보인다. 낮 최고기온은 26∼35도로 예보돼 평년(최고 25∼29도)보다 높을 것으로 예상된다.&lt;br&gt;&lt;br&gt;일요일인 7일은 수도권 북부와 강원중·북부를 제외한 전국 대부분 지역에 비 예보가 있고 전국이 대체로 흐리겠다. 비는 새벽에 경기 남부와 강원 남부에서 대부분 그치겠고, 곳곳이 소강 상태를 보이겠다.&lt;br&gt;&lt;br&gt;7일 낮 최고 기온은 26~33도로 예보됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TZ62CUBO3VJGZDMJ334CC2R6BU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산에 폭염주의보가 발효 중인 지난 4일 오후 남구 한 도로 위로 지열로 인한 아지랑이가 피어오르고 있다. 이날 울산의 낮 최고기온은 33도를 웃돌았다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“드디어 사고 났다” “꼭 사고 나시길”...보험설계사가 보험 사기 주범</title>
-      <link>https://www.chosun.com/national/incident/2024/07/05/BJBDBQS5JNF35OTZFBPTJL6I3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/05/BJBDBQS5JNF35OTZFBPTJL6I3U/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 02:05:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2SH2B3KDXJWDW3RX4TZXD2TYJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고의 교통사고를 내는 등의 방법으로 보험금을 부정수급한 보험사기 피의자들이 단체 대화방에서 대화를 나누고 있다. /경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;A: “드디어 사고났다”&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;B: “꼭 사고 나시길”&lt;/b&gt;&lt;br&gt;&lt;br&gt;고의 교통사고 등의 방법으로 수억원의 보험금을 부정 수급한 보험설계사와 고객들이 무더기로 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기남부경찰청은 보험사기방지 특별법(보험사기죄) 위반 혐의로 보험설계사 20대 A씨 등 14명을 검거했다고 5일 밝혔다. 이중 혐의가 무거운 5명은 구속상태로, 나머지는 불구속 상태로 검찰에 송치했다. 또 A씨 등 보험설계사들의 지인과 고객, 자동차 공업사 관계자 등 39명을 불구속 입건해 검찰 송치했다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨 등은 경기도 내 한 보험대리점에서 일하던 보험설계사들로, 지난 2020년 6월부터 지난해 10월까지 서울·경기·인천 등 수도권 일대에서 고의로 교통사고를 내거나, 피해를 과장하는 등 이른바 ‘견적서 부풀리기’ 수법으로 66차례에 걸쳐 보험사로부터 5억4900만원을 받아 챙긴 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 또 자신들의 고객들과 지인들에게 깁스 치료 시 보험금이 지급되는 특약에 가입할 것을 권유한 뒤, 실제로 아프지 않거나 치료가 필요하지 않았지만 통깁스 치료를 받게 하는 등의 방법으로 50차례에 걸쳐 약 5870만원의 보험금을 타낸 것으로도 조사됐다. 이들은 이렇게 가로챈 보험금을 사무실 운영비나 채무변제 등에 쓴 것으로 파악됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WQSZIAHDDHON6MJPS7OMXNCLYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고의로 사고를 내는 상황이 담긴 블랙박스 영상 캡처/경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 보험사기가 의심된다는 내용을 제보받고 수사에 착수해 이들을 검거했다.&lt;br&gt;&lt;br&gt;경찰이 확보한 이들의 스마트폰 메신저 대화 내용 등을 살펴보면, 보험 사기를 시사하는 메시지가 오가기도 했다. 이들은 단체 대화방에서 “드디어 사고 났다” “요 며칠 사이에 자꾸 사고나려고 하는데 심장 떨리네요ㅋㅋㅋ” “절대 안 아프다” “꼭 사고 나시길”이라고 말하는 등, 고의 사고를 유발하려는 정황이 확인된다.&lt;br&gt;&lt;br&gt;또 한 보험설계사는 고객에게 깁스 치료 특약에 대해 권유하면서, “통깁스만 보험금이 나가고, 깁스 잘 해주는 병원도 알고 있어 걱정할 필요 없다” “바로 이용 가능한데 2주 뒤에 하는 것을 추천한다”고 하기도 했다.&lt;br&gt;&lt;br&gt;경기남부경찰청 교통범죄수사팀 관계자는 “경찰은 법인보험대리점 설계사들이 연루된 조직적 범행으로 판단해 해당 보험대리점 전체에 대해 수사를 확대했고, 약 19개월 간의 수사 끝에 범행사실과 총 53명의 피의자를 밝혀내 혐의를 입증했다”며 “보험사기는 시민의 안전과 선량한 제3자의 보험료 부담을 가중시키는 공동체를 위협하는 중대한 범죄”라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한동훈 “오세훈 ‘약자와의 동행’ 꽃 피워…전국으로 펼쳐보겠다”</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/05/3Y7NBIG4KZCAZJXWS4TOEEQVTE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/05/3Y7NBIG4KZCAZJXWS4TOEEQVTE/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 02:03:03 +0000</pubDate>
-      <content:encoded>한동훈 국민의힘 당대표 후보가 5일 오전 오세훈 서울시장과 만나 서울시의 ‘약자와의 동행’ 일부 사업을 전국화하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CGJZ6TUWRJJHLP5ERZYTRLN32M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 한동훈 당대표 후보(오른쪽)와 오세훈 서울시장이 5일 오전 서울 용산구 동자동 쪽방촌 동행식당에서 만나 조찬을 하고 있다. /공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 후보와 오 시장은 이날 서울 용산구 동자동 쪽방촌에 있는 ‘동행식당’에서 함께 식사했다. 동행식당은 지정된 식당에서 쪽방촌 주민에게 하루 한 끼를 제공하는 서울시 사업이다.&lt;br&gt;&lt;br&gt;이날 한 후보는 “오 시장님이 약자와의 동행을 꽃 피우고 계신다”며 “검증된 아이디어를 주시면 ‘서울런’ 같은 것을 전국으로 펼쳐보겠다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “서울런을 통해 대학에 들어가는 학생들의 숫자가 많이 늘었다”며 “전국으로 확산해도 의미가 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;한 후보와 오 시장은 서울런 지원 대상 확대에 대해서도 이야기를 나눴다.&lt;br&gt;&lt;br&gt;오 시장은 “중위소득 85% 이하까지 확대하려고 하는데, 저소득층 위주로 지원해야 한다는 정부 원칙이 있어 협의가 잘 안 되고 있다”고 했다.&lt;br&gt;&lt;br&gt;현재 서울런은 중위소득 60% 이하, 한부모가족, 북한이탈주민 자녀 등을 대상으로 하고 있다. 대상자에게 무료 인터넷 강의와 멘토링 서비스 등을 제공한다.&lt;br&gt;&lt;br&gt;이에 대해 한 후보는 “중간(계층)까지 (확대)할 수 있을 것 같다. 교육 문제이지 소득 문제는 아니지 않느냐”고 말했다.&lt;br&gt;&lt;br&gt;이날 만남은 한 후보가 먼저 요청해 성사됐고, 오 시장이 조찬 장소로 동행식당을 선택했다. 식사에는 김병민 서울시 정무부시장과 신지호 한동훈 캠프 상황실장이 함께했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“월급 올려줄게”... 편의점주, 40살 어린 20대 알바생에 성범죄</title>
