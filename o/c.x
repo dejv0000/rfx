@@ -13,6 +13,90 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>한국인 3명 탄 요트, 대만서 제주 오다 연락두절... 해경 수색</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/07/J2DSURBZ4VCPHKVEICIL2LDC7Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/07/J2DSURBZ4VCPHKVEICIL2LDC7Q/</guid>
+      <dc:creator>제주=진창일 기자, 제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Jul 2024 13:36:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/552JXACYKVGWXDEHUDMRPQ3GNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오후 5시 37분쯤 마라도 남서쪽 389㎞ 해상에서 잡힌 신호를 마지막으로 실종된 요트 A호의 모습. /서귀포해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대만에서 출항해 제주로 입항할 예정이던 요트의 연락이 두절돼 해경이 수색에 나섰다.&lt;br&gt;&lt;br&gt;서귀포해양경찰서는 7일 “대만에서 출항해 제주시 도두항으로 입항 예정이던 요트 A호(19.5t)가 이날 오후 4시42분쯤 실종돼 수색에 3000t급 경비함정 등 7척을 투입했다”고 밝혔다.&lt;br&gt;&lt;br&gt;해경은 “요트와 연락이 되지 않는다”는 요트협회의 신고를 받고 수색함정과 인력을 현장에 급파하고 인근 선박에 A호의 현재 상황 확인을 요청했다. A호는 지난 4일 대만에서 출항했던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;해당 요트의 마지막 신호가 잡힌 지점은 지난 6일 오전 10시쯤 마라도 남서쪽 389㎞ 해상이다. A호는 바람을 동력으로 쓰는 돛을 단 세일링 요트다.&lt;br&gt;&lt;br&gt;해경은 요트를 수색하기 위한 헬기도 투입했지만 난항을 겪고 있다. 요트가 연락두절된 해상은 초속 10~12m의 바람이 불고 파고도 최대 3m에 달해 기상조건이 좋지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/DLH37VKWFRDKLOISKICKGVOSW4.jpg?width=471&amp;height=265&amp;auth=6fddf589b83f0b69f74234dea79694105fe555d6c19117c55f3d54481677e74c&amp;smart=true" type="image/jpeg" height="265" width="471">
+        <media:description type="plain">7일 오후 5시 37분쯤 마라도 남서쪽 389㎞ 해상에서 잡힌 신호를 마지막으로 실종된 요트 A호의 모습. /서귀포해경</media:description>
+        <media:credit role="author" scheme="urn:ebu">서귀포해경</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>민주당 서울시의원 “한강투신 남성 늘어난 이유는 여성의 사회참여”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/07/SP4IRE7TYFEHPPGCIDOASCRJIU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/07/SP4IRE7TYFEHPPGCIDOASCRJIU/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Jul 2024 13:14:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5YOFPSBUTFAFXCLCIF65RWXO6Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 김기덕 서울시의원. /페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 김기덕 더불어민주당 서울시의원이 남성의 한강 투신 자살 시도가 늘어난 이유가 ‘여성의 사회 참여 증가’ 때문이라는 취지의 보도자료를 배포한 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;김 의원은 지난달 28일 ‘한강 교량 투신자살 시도 2년 연속 1000여 건 마포대교 압도적 1위, 대책 절실’이라는 제목의 보도자료를 냈다.&lt;br&gt;&lt;br&gt;보도자료에서 김 의원은 서울시가 제출한 ‘최근 6년간(2018~2023년) 한강 교량별 자살 시도 및 투신 현황’을 인용해 한강 투신 시도 건수는 코로나 이후인 2022년 1000건, 2023년 1035건으로 코로나 시기보다 2배 이상 확대됐다고 전했다.&lt;br&gt;&lt;br&gt;보도자료에 따르면 서울시가 관리하는 21개 한강 교량 중 투신 시도자가 가장 많은 곳은 마포대교였다. 지난 6년간 총 1178명이었다. 김 의원은 “2012년부터 마포대교에는 자살 방지를 위해 여러 노력을 하고 있지만 이와는 대비되는 결과가 나와 다소 아쉽다”고 했다.&lt;br&gt;&lt;br&gt;연령별로는 코로나 전후로 투신 시도 건수에 차이가 나타났다. 코로나 이전엔 2018년엔 20대가 151회로 가장 많았고, 그 뒤를 30대(87회), 40대(46회)가 이었다. 코로나 이후인 작년엔 30대가 277회로 가장 많았고, 20대는 61회로 줄었다.&lt;br&gt;&lt;br&gt;지난 6년간 성별에 따라서는 남성이 투신을 더 많이 시도한 것으로 나타났다. 투신 시도자 4069명 중 남성 2487명, 여성 1079명 등 남성이 2배 이상 많이 나타났다고 김 의원은 전했다.&lt;br&gt;&lt;br&gt;김 의원은 남성의 자살 시도자가 더 많이 나타난 이유로 여성 인구와 여성의 사회 참여 증가를 꼽았다. 김 의원은 보도자료에서 “과거 한국이 가부장제와 남존여비 사상이 만연했던 것과는 달리, 2023년 기준으로 여성이 남성보다 많은 여초 사회로 변화하기 시작했다”며 “여성의 증가에 따른 남성의 노동력 부족, 결혼 상대를 구하기 어려운 남성의 증가로 인한 결혼 시장의 변화, 여성의 사회 참여로 인한 남녀 역할의 변화 등 다양한 요인이 남성의 자살 시도가 증가한 일부 원인이 될 수 있다”고 언급했다.&lt;br&gt;&lt;br&gt;그러면서 김 의원은 “시대적인 배경 및 변화에 근거한 다양한 요인을 분석해 자살 시도자 수를 최소화하기 위한 전략을 마련해야 한다”며 “여초 현상 확대를 극복하기 위해 남성과 여성이 동등한 권리와 기회를 누릴 수 있도록 해야 하고, 남성의 사회 참여 확대를 통한 노동력 부족 문제를 해소해야 한다”고 했다.&lt;br&gt;&lt;br&gt;김 의원은 또 “결혼 시장의 불균형 완화와 출산율 제고를 통해 젊은 남성의 자살 비율을 최소화하기 위한 단계적인 대비책이 필요하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천에서 훼손된 길고양이 사체 발견…경찰, 부검 의뢰</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/07/JU45WFLKSRDRBPUEJEKVGXTUXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/07/JU45WFLKSRDRBPUEJEKVGXTUXA/</guid>
+      <dc:creator>인천=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Jul 2024 10:31:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YH3TF7XLUAEP6BNSU4BLHLZMDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천에서 사체 일부가 훼손된 길고양이가 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;인천 남동경찰서는 “지난 4일 오후 4시쯤 인천 남동구 구월동의 한 아파트단지에서 죽은 채 발견된 길고양이 4마리의 사인을 확인하기 위해 농림축산검역본부에 사체 부검을 의뢰했다”고 7일 밝혔다. 4마리의 고양이 사체 중 1마리는 일부가 훼손됐고 나머지는 비교적 온전한 상태로 발견됐다.&lt;br&gt;&lt;br&gt;경찰은 주변 방범카메라(CCTV) 영상 확인과 탐문수사 등을 통해 고양이들이 학대에 의해 살해됐는지 파악할 계획이다. 경찰 관계자는 “현재까지는 고양이들이 숨진 원인을 알 수 없는 상황”이라며 “부검 결과를 토대로 정확한 사건 경위를 조사할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YH3TF7XLUAEP6BNSU4BLHLZMDY.jpg?width=2012&amp;height=1276&amp;auth=534cd109c7d4f3e473d46e86b6562a54c2d369f53f6f65b040eb7201d542b4ac&amp;smart=true" type="image/jpeg" height="1276" width="2012">
+        <media:description type="plain">경찰 로고. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>수도권·중부 출근길 ‘집중호우’… 최대 100㎜ 쏟아진다</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/07/07/FTNF22SVTVC5NCNHZMTT6EENPE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/07/FTNF22SVTVC5NCNHZMTT6EENPE/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Jul 2024 12:14:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2AM7TERCEJEZ5NGSJ7HGA2A25Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 오전 폭우가 내리는 서울 광화문 광장을 시민들이 걷고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 출근길 서울을 비롯한 수도권에 많은 비가 내리겠다고 기상청이 7일 밝혔다. 장마전선(정체전선) 바로 아래 놓인 중부지방을 중심으로 최대 100㎜의 집중호우가 예고됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 장마전선과 저기압의 영향으로 8일 전국에 비가 내리겠다. 고온다습한 남풍(南風)이 비의 씨앗이 되는 수증기를 대거 공급하면서 강수량이 늘어날 전망이다. 예상 강수량은 수도권·강원도·충청권 30~100㎜, 호남·영남권 20~60㎜, 제주도 5~10㎜ 등이다.&lt;br&gt;&lt;br&gt;8일 아침부터 낮까지 중부지방에 시간당 30㎜ 내외의 강한 비가 쏟아지겠다. ‘매우 많은 비’의 기준이 ‘시간당 30㎜ 이상’이다. 장마전선의 폭이 좁아 전선 바로 아래 놓인 지역에 많은 비가 집중되겠고, 지역별 강수 편차가 크겠다.&lt;br&gt;&lt;br&gt;비가 잠시 소강상태를 보일 때는 기온이 큰 폭으로 올라 무덥겠다. 비의 영향이 덜 한 남부지방과 제주도엔 현재 대부분 지역에 폭염특보가 내려졌다. 8일 아침 최저기온은 22~27도, 낮 최고기온은 26~31도로 예보됐다. 폭염특보가 발효된 지역에선 체감기온이 33도 이상으로 오르겠다.&lt;br&gt;&lt;br&gt;기상청은 중기예보에서 비가 오는 17일까지 이어질 것으로 내다봤다. 9일에는 장마전선의 영향으로 수도권·강원도 10~40㎜, 충청권 20~60㎜, 호남·영남권 20~60㎜, 제주도 5~10㎜의 비가 예고됐다. 10~12일에는 북태평양고기압이 수축하면서 장마전선이 남하하며 남부지방에 폭우, 중부지방에 폭염이 찾아오겠다. 이때 중부지방엔 높은 습도에 낮동안 데워진 공기로 인해 대기 상·하층간 기온차로 소나기가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;14~17일엔 정체전선이 다시 북상하면서 비를 뿌리고 제주 등 남쪽에 비가 오지 않는 지역에는 폭염이 나타나겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>건국대 의대 등 12곳, 8일부터 재외국민 전형</title>
+      <link>https://www.chosun.com/national/education/2024/07/07/W5FOZ3J4HRCP5M3HBI3DJSJCMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/07/07/W5FOZ3J4HRCP5M3HBI3DJSJCMQ/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Jul 2024 11:49:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L7EOERUVXFA5DBEUAB2YBECMT4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;건국대 충주병원 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정원이 늘어난 2025학년도 의대 입시가 8일부터 재외국민·외국인 전형 원서 접수와 함께 시작된다. 교육부는 수업을 거부하고 있는 의대생들의 집단 유급을 막기 위해 대학들이 학사 일정을 탄력적으로 조정할 수 있도록 ‘비상 학사 운영 지침’을 발표할 예정이다.&lt;br&gt;&lt;br&gt;교육계에 따르면 8일부터 내년도 의대 수시 재외국민·외국인 입시 전형 신입생을 선발하는 대학은 모두 12곳으로, 총 29명을 뽑는다. 5명씩 뽑는 건국대(충주)·가톨릭관동대와 3명을 뽑는 가천대를 비롯해 고려대·성균관대·아주대·인하대·중앙대·한림대 등 아홉 대학은 8일부터, 가톨릭대는 9일부터 원서를 받는다. 동국대(경주)와 을지대는 일반 학생들의 수시 일정과 같게 오는 9월에 원서를 접수할 예정이다. 재외국민 전형은 해외에서 일정 기간 이상 공부한 한국 국적 학생을 선발하는 것이다.&lt;br&gt;&lt;br&gt;재외국민·외국인 전형은 모집 정원을 초과해 뽑을 수 있는 ‘정원 외’ 선발이다. 하지만 정원 외 모집 또한 학과 정원의 모집 인원에 비례해 결정된다. 올해 의대 입시(차의과대 제외)에선 전년 대비 1497명이 늘어난 4610명을 뽑는데 재외국민·외국인 전형 정원도 작년(21명)보다 8명(38%) 늘었다.&lt;br&gt;&lt;br&gt;재외국민·외국인 전형에 이어 9월에는 수시 모집, 12월은 정시 모집이 시작될 예정이다. 대학들은 수시에서 의대 신입생(4610명)의 대부분인 3118명(67.6%)을 선발하고, 정시에서 1492명(32.4%)을 뽑는다.&lt;br&gt;&lt;br&gt;내년도 입시가 시작되지만 의대생 대부분은 강의실로 돌아오지 않고 있다. 학생들의 집단 유급 가능성이 높아지자, 교육부는 조만간 ‘비상 학사 운영 지침’을 발표할 방침이다. 지침엔 1학기에 듣지 못한 과목을 2학기에 개설해 듣게 하거나, 1~2과목에서 F학점을 받아도 유급시키지 않고 2학기에 다시 들으면 학년 진급을 시켜주는 방안 등을 담을 예정이다. 학사 일정은 대학이 자체 조정할 수 있지만, 교육부가 예시를 주겠다는 것이다. 한 국립대 총장은 “학사 일정을 탄력적으로 조정하더라도, 7월 말까진 학생들이 돌아와야 제대로 교육과정을 마칠 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘함정 몰카 논란’ 최재영 목사 스토킹 혐의 경찰 출석 </title>
+      <link>https://www.chosun.com/national/national_general/2024/07/04/RZ63B4ZY4FFGZKEKQQL6DSZUTE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/04/RZ63B4ZY4FFGZKEKQQL6DSZUTE/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Jul 2024 01:15:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T26DXTNQNNPT7EBKM4QQEQ7P3M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;최재영 목사가 4일 오전 서울 서초경찰서에서 스토킹 혐의로 피고발인 조사를 받기 위해 출석하며 취재진 질문에 답하고 있다. 최 목사는 2022년 6월 부터 김건희 여사에게 10여 차례 만남을 요청하고 명품가방 등을 전달하는 장면을 몰래 촬영한 혐의를 받고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 부인 김건희 여사에게 명품 가방 등을 건네고 몰래 촬영한 영상을 공개한 최재영 목사가 스토킹 혐의로 서울 서초경찰서에 출석했다.&lt;br&gt;&lt;br&gt;최 목사는 10일 오전 10시 경찰 소환조사에 출석하기 전 청사 앞에서 “대북정책과 통일 정책을 자문하기 위해서 방문했을 뿐”이라며 “카카오톡을 통해 김 여사와 접견 일정을 잡아서 만난 것이라 스토킹이 아니다”고 주장했다. 이날 최 목사가 출석하는 현장에는 ‘최재영’ 이름을 연신 연호하거나 ‘김건희를 수사하라’며 연신 호응하는 좌파 성향 시민 단체 회원들도 있었다.&lt;br&gt;&lt;br&gt;최재영 목사는 스토킹 범죄 혐의와 관련해 “스토커가 준 선물이 어떻게 국가 기록물에 보존되겠냐, 궤변이다”며 “대북 정책과 통일 정책 자문하기 위해서 김 여사에게 방문 한 것이다”고 주장했다. 최 목사는 김 여사와 만난 이유와 관련해 “윤석열 대통령이 후보 시절 킬체인, 대북 선제 타격 등 남북평화 시스템을 깨는 그런 발언과 정책을 보고 충격을 받아, 미국 교포로서 진영 논리를 떠나 좋은 조언 해달라며 대통령 부부 연락처를 받았다”고 했다.&lt;br&gt;&lt;br&gt;최 목사는 김 여사와 대화 내용 등을 증거로 제출했다고 밝혔다. 최 목사는 “김건희 여사와 비서와 접견 일정을 정하고 안내를 받아 접견 이뤄진 것이기 때문에 스토킹이 아니다”며 “스토킹이 맞다면 만난 시점에서 신고했어야 한다”고 했다. ‘함정 몰카 논란’과 관련해서는 “공공의 영역에 대통령 배우자가 뇌물을 받은 것을 드러내기 위한 목적으로 위법성 조각 사유에 해당한다”고 주장했다.&lt;br&gt;&lt;br&gt;최 목사는 지난 2022년 9월 김건희 여사에게 300만 원 상당의 디올 파우치 가방을 건네고 이 장면을 자신의 손목시계에 달린 카메라로 몰래 촬영한 뒤 이를 유튜브 ‘서울의 소리’에 공개했다. 최 목사는 이 과정에서 지난 2022년 1월부터 몇 달에 걸쳐 김 여사에게 카카오톡 메시지를 보내 만남을 요구했다.&lt;br&gt;&lt;br&gt;이에 한 보수 성향 시민 단체가 최 목사를 스토킹 처벌법 위반 혐의로 처벌해 달라며 경찰에 고발했다. 지난 4월 19일 서초서는 최 목사를 스토킹 혐의로 지난 1월 입건해 수사 중이라고 밝혔다. 경찰은 최 목사가 몰래 영상을 찍기 위해 김 여사의 사무실을 방문하는 과정에서 스토킹 등 행위가 있는 지를 집중적으로 조사할 방침이다.&lt;br&gt;&lt;br&gt;최 목사에 이번 사건과는 별개로 건조물침입(서울 영등포경찰서)과 공직선거법 위반(경기남부경찰청 반부패·경제범죄수사대) 등의 혐의로 고발돼 소환 조사를 받았다.&lt;br&gt;&lt;br&gt;서울중앙지검도 김 여사에게 선물을 건네고 부정한 청탁 등을 한 혐의(청탁금지법 위반, 주거침입, 위계에 의한 공무집행 방해 등)로 고발된 최 목사를 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>첨단장비로 패 보고, 마약커피 먹이고... 영화 ‘타짜’ 뺨친 일당</title>
+      <link>https://www.chosun.com/national/2024/07/07/547AC2ZAERDXPN6IRZL4G3JAXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/07/07/547AC2ZAERDXPN6IRZL4G3JAXE/</guid>
+      <dc:creator>진주=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Jul 2024 10:21:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z54UH5VJLZEXJEQW5HDFDSR5GQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특수카메라 등 첨단장비와 마약까지 이용해 불법 사기도박을 한 일당이 경찰에게 붙잡혔다.&lt;br&gt;&lt;br&gt;경남 진주경찰서는 사기 및 마약류 관리에 관한 법률 위반 혐의로 50대 A씨 등 9명을 붙잡아 최근 송치했다고 7일 밝혔다. 총책인 A씨와 영상판독 기술자 등 4명은 구속 송치됐다. 나머지 5명은 단순가담자로 전해졌다.&lt;br&gt;&lt;br&gt;A씨 등 일당은 지난달 6일과 7일, 10일 등 총 3일간 진주시에 있는 피해자 B(50대)씨 집에서 도박하면서 커피에 마약을 타 B씨가 정신을 잃도록 하는 수법으로 총 6300만원을 속여 뺏은 혐의 등을 받는다.&lt;br&gt;&lt;br&gt;경찰 조사결과 이들이 한 도박은 한 사람당 5장의 화투 패를 쓰는 ‘도릿지고 땡’으로, 판돈은 회당 수백만원에 달한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨 등은 재력이 있는 범행 대상을 물색하던 중 B씨에게 접근해 B씨 집을 도박 장소로 빌렸다. 이들은 B씨 몰래 특수카메라를 장착한 옷과 비노출 송수신기, 판독용 모니터 등을 이용했다. 눈으로는 구별할 수 없는 마킹카드(목 카드)를 비치하고, 영상판독 기술자가 상대방 카드를 확인해 실시간으로 카드 정보를 소위 선수에게 전달했다. 이 과정에서 A씨 등 일당은 B씨에게 마약을 탄 커피를 몰래 마시게 해 정신을 흐리게 만들었다.&lt;br&gt;&lt;br&gt;A씨 등은 처음에는 일부러 져서 돈을 잃어주고 나서 판돈을 올려 이기는 방법으로 B씨 돈을 속여 뺏은 것으로 드러났다. 이들의 범행은 A씨 등 일당이 준 커피를 마신 후 몸에 이상을 느낀 B씨가 병원을 찾으면서 들통났다.&lt;br&gt;&lt;br&gt;B씨는 병원에서 받은 마약 검사에서 양성 반응을 확인하자 경찰에 신고했다. 경찰은 이틀간 잠복 끝에 도박판 현장을 덮쳐 A씨 등 일당을 붙잡았다.&lt;br&gt;&lt;br&gt;경찰은 현장에서 마약과 함께 첨단장비 40여점, 현금 6000만원 등을 압수했다. 경찰 관계자는 “A씨 등은 애초에 B씨를 범행 대상으로 삼아 계획적으로 범행한 것으로 보인다”면서 “마약을 어떻게 구했는지 진술하지 않고 있어 마약 상선에 대해서는 계속 수사 중이다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YH3TF7XLUAEP6BNSU4BLHLZMDY.jpg?width=2012&amp;height=1276&amp;auth=534cd109c7d4f3e473d46e86b6562a54c2d369f53f6f65b040eb7201d542b4ac&amp;smart=true" type="image/jpeg" height="1276" width="2012">
+        <media:description type="plain">경찰 로고. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘디올백’ 목사 “쇼핑백 청탁 더 있다”더니...서류 든 행정관이었다</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/07/UNBHY7RMVNDC7L5RGRSTHILXTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/07/UNBHY7RMVNDC7L5RGRSTHILXTQ/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Jul 2024 10:28:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X23R5F4MTTKC56U6Z6ZHPF6XKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최재영 목사가 지난 7월 4일 오전 서울 서초경찰서에 스토킹 혐의 피고발인 조사를 받기 위해 출석하며 입장을 밝히고 있다.  오른쪽은 서울의소리 백은종 대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 부인 김건희 여사의 ‘디올백 수수’ 의혹을 수사하는 검찰이 최재영 목사와 직접 연락해 일정을 조율한 대통령실 유모 행정관을 소환 조사한 것으로 전해졌다. 7일 본지 취재를 종합하면, 서울중앙지검 형사1부(김승호 부장검사)는 지난 3일 유 행정관을 조사해 김 여사와 면담을 조율한 경위 등을 조사했다. 코바나콘텐츠 직원 출신인 유 행정관은 최 목사가 2022년 9월 김 여사에게 카카오톡으로 명품 가방 사진을 보내며 접견을 거듭 요청하자 “여사님이 시간을 내 보시겠다고 하신다”며 일정을 조율한 인물이다. 검찰은 지난달 19일에도 김 여사를 보좌하는 대통령실 조모 행정관을 소환 조사했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“쇼핑백 안에 ‘보고 서류’ 넣고 대기한 것”&lt;/b&gt;&lt;br&gt;&lt;br&gt;검찰은 이들 행정관의 조사를 통해 ‘쇼핑백 들고 청탁하려 대기한 사람이 더 있다’는 최재영 목사의 주장은 허위라고 판단한 것으로 전해졌다. 김 여사에게 ‘디올백’을 전달한 최 목사는 지난 5월 13일 검찰 조사에 출석하면서 “(접견이 있었던 2022년 9월13일) 저 말고도 다른 대기자들이 복도에서 김 여사를 접견하려고 선물을 들고 서 있었다”며 “그들도 각자의 민원을 청탁하기 위해 왔을 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;그러나 검찰은 최근 대통령실 행정관을 조사하면서 “쇼핑백을 들고 복도에서 기다리던 사람은 대통령실 직원으로, 쇼핑백 안에 부속실 보고를 위한 서류를 넣고 기다렸던 것”이라는 진술을 확보한 것으로 전해졌다. 검찰은 이런 진술을 토대로 서울의소리 측이 촬영한 영상과 사진, 아크로비스타 출입 명단 등을 분석했다. 그 결과 외부인이 아닌 대통령실 행정관이 맞다는 사실을 확인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김 여사의 디올 백 수수 의혹은 작년 11월 서울의소리 측이 게시한 영상을 통해 불거졌다. 최 목사는 디올 백을 전달하면서 손목시계에 달린 몰래카메라로 이 장면을 촬영했고, 서울의소리는 이 영상을 공개했다. 공개된 영상에서는 최 목사 다음으로 ‘신라 면세점 가방’을 든 신원 불명의 남성과 여성 등 2명이 들어가는 모습이 나온다. 윤 대통령 부부를 청탁금지법 위반 등 혐의로 고발한 백은종 서울의소리 대표는 “(김 여사가) 같은 날 불특정 여성으로부터 신라면세점 것으로 추정되는 물건을 받은 혐의도 조사해야 한다”고 주장했다. 백 대표는 검찰 조사에서 ‘김 여사에게 선물을 전달하기 위해 당시 코바나 컨텐츠 복도에 대기 중이던 사람들’이라고 주장하며 이들의 사진도 제출했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇檢, 김 여사·최 목사 카톡 원본 확보&lt;/b&gt;&lt;br&gt;&lt;br&gt;한편, 검찰은 최근 김 여사가 대선 전부터 최 목사와 나눈 카톡 대화 내용 전체를 확보해 분석에 들어간 것으로 알려졌다. 최 목사는 검찰에 김 여사와의 카톡 대화를 제출했지만 상당 부분을 삭제한 채 일부만 제출한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;최 목사는 앞서 검찰 조사에서 “명품 백 수수 장면을 촬영한 손목시계형 몰래카메라, 김 여사와 연락을 주고받은 휴대전화, 노트북 등을 모두 잃어버리거나 팔아버려 현재는 아무것도 갖고 있지 않다”고 진술한 것으로 알려졌다. 조사실에 들어가기 전 기자들과 만났을 때는 “김 여사와 나눈 카카오톡 대화, 영상 원본 등을 제출할 것이냐”는 기자들 질문에 “모 기자에게 자료를 모두 넘겨줬고, 나는 안 갖고 있다”고 했었다.&lt;br&gt;&lt;br&gt;검찰은 김 여사에 대한 조사는 시기와 장소, 방식 등을 대통령실과 조율 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘10대 근로자 사망’ 전주페이퍼…유족과 22일 만에 장례절차 등 합의</title>
       <link>https://www.chosun.com/national/national_general/2024/07/07/M4Z2SIURZFAQXAM75556W2W3RY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/07/M4Z2SIURZFAQXAM75556W2W3RY/</guid>
@@ -901,78 +985,6 @@ photo@yna.co.kr
       <media:content url="https://www.chosun.com/resizer/v2/QEQOTSA5WVEIJIVUDZMYXPDV5Y.JPG?width=282&amp;height=212&amp;auth=9dfc79465f5ae74d827de5f28eeb88b435b4facccea97916b24e0532d494fd9b&amp;smart=true" type="image/jpeg" height="212" width="282">
         <media:credit role="author" scheme="urn:ebu">kang</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>경찰, ‘채 상병 순직 사건’ 수사 결과 오는 8일 발표</title>
-      <link>https://www.chosun.com/national/regional/2024/07/05/JLV7OATXKBB2TFGGF6ZR5XQQGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/05/JLV7OATXKBB2TFGGF6ZR5XQQGY/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description>해병대 채 상병 순직 사건을 수사 중인 경북경찰이 오는 8일 수사 결과를 발표한다.경북경찰청은 5일 수사심의위원회를 열고 피의자들에 대한 혐의 적용과 검찰 송치 여부 등을 논의했다.</description>
-      <pubDate>Fri, 05 Jul 2024 12:40:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K2KDUL277EL365A535BF4PW52U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북경찰청 전경 / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해병대 채 상병 순직 사건을 수사 중인 경북경찰이 오는 8일 수사 결과를 발표한다.&lt;br&gt;&lt;br&gt;경북경찰청은 5일 수사심의위원회를 열고 피의자들에 대한 혐의 적용과 검찰 송치 여부 등을 논의했다. 수사심의위원회는 피의자 9명 중 6명에 대해 송치 의견, 3명에 대해 불송치 의견을 낸 것으로 확인됐다.&lt;br&gt;&lt;br&gt;심의 과정에서 구체적인 심의 내용과 표결 결과는 공개하지 않는 것으로 결정됐다.&lt;br&gt;&lt;br&gt;이날 수사심의위원회엔 법과대학 교수 5명과 법조인 4명, 사회 인사 2명 등 11명이 참여해 논의를 벌였다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “이번 심의 결과를 참고해 최종 결론을 도출하고 오는 8일 오후 2시 최종 수사 결과를 발표할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“입 주변 자세히 보세요”… 난무하는 딥페이크 영상, 구별법은</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/05/QFYIOFHLUZGVRAPYLO4SYPSCLU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/05/QFYIOFHLUZGVRAPYLO4SYPSCLU/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 12:11:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JDZLHQBWTNOHHIETMZC5RCSOPQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;딥페이크 영상 제작을 위해 한 배우 얼굴에 프레임이 덮인 모습. /로이터 연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;딥페이크 등 생성형 인공지능(AI) 기술을 이용한 범죄가 증가하면서, 이를 구분하는 방법에 대한 관심도 높아지고 있다.&lt;br&gt;&lt;br&gt;방송통신심의위원회에 따르면, 지난 1~4월 연예인 얼굴을 포르노 영상과 합성한 딥페이크 영상물은 총 4691건으로 전년 총 946건 대비 약 400% 급증했다. 방심위는 “유명 연예인뿐 아니라 청소년과 일반인을 대상으로 한 성적 허위영상물도 확인되는 등 딥페이크 기술을 악용한 영상물 유포 증가가 심각하게 우려되는 상황”이라고 했다.&lt;br&gt;&lt;br&gt;가수 권은비도 딥페이크를 이용한 허구의 음란성 사진으로 인한 피해를 알렸다. 소속사 울림엔터테인먼트는 이날 낸 입장문에서 “무분별한 명예훼손, 모욕, 성희롱, 허위사실 유포, 악의적 비방 등 악성 게시물 게시, 아티스트의 초상을 합성해 허구의 음란성 사진을 유포하는 행위를 한 자들의 범죄 행위에 대해 다수 게시물을 취합해 고소장을 제출했다”며 “선처 없는 강력한 형사적 법적 조치를 취할 것”이라고 했다.&lt;br&gt;&lt;br&gt;딥페이크로 인한 유명인들의 피해는 국내뿐만 아니라 해외에서도 이어지고 있다. 지난 5월엔 인기 할리우드 남성 배우 제이콥 엘로디도 딥페이크 영상으로 피해를 입은 것으로 파악됐다. 이외에도 팝스타 스위프트, 래퍼 메간 디 스텔레온, 틱톡 스타 등 많은 여성 유명인들이 딥페이크로 인한 피해를 입었다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇ 손가락, 발가락이 6개?... 생성형 AI 영상 구별법은&lt;/b&gt;&lt;br&gt;&lt;br&gt;이에 따라 영국 일간 가디언은 지난 1일(현지 시각) 생성형 AI 영상 구별법을 상세하게 보도했다.&lt;br&gt;&lt;br&gt;우선 얼굴 중 입과 턱 부분을 자세히 살펴보면 된다. 딥페이크 특유의 어색함은 영상에 등장하는 인물의 입 주변에서 가장 도드라지기 때문이다. 얼굴의 다른 부위에 비해 입 주변 화질이 유독 떨어지거나 턱 주위가 잠시 일그러지는 순간이 포착된다면 조작된 영상일 가능성이 크다. 목소리와 입 모양이 일치하는지 확인하는 것도 힌트가 될 수 있다.&lt;br&gt;&lt;br&gt;딥페이크 영상은 텍스트를 음성으로 변환해주는 TTS(Text To Speech) 기술로 인물의 목소리를 구현하기 때문에, 자연스러운 구어 표현보다는 국어책을 읽듯 단조롭고 기계적인 말투를 구사할 확률이 높다. ‘1㎝’(일 센티미터)를 ‘일 씨엠’으로 읽거나 ‘￦1000′(천원)을 ‘원천’으로 발음하는 등 어법에 어긋나는 언어 표현을 사용한다면 AI 영상일 가능성을 의심해 볼 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WO3R5TXVKVCLNMTDDLIWNCRO4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;나이절 패라지 영국개혁당 대표의 마인크래프트 플레이 영상. 딥페이크 기술로 제작된 가짜 영상으로, 입이 부자연스럽게 일그러진 모습이 포착됐다. /가디언 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;얼굴과 몸의 전체적인 조화를 확인하는 것도 구별법 중 하나다. 2022년 5월 볼로디미르 젤렌스키 우크라이나 대통령이 자국 시민들에게 ‘무장을 해제하고 러시아군에 무기를 반납하라’고 종용하는 연설이 공개돼 큰 파장이 일었다. 물론 딥페이크 영상이었다. 당시 영상 속 젤렌스키 대통령 머리 크기는 덩치에 비해 다소 컸고, 목과 얼굴의 피부톤 차이도 심했다.&lt;br&gt;&lt;br&gt;딥페이크 영상은 일관성이 부족한 경우가 있다. 가령 영상 속 인물의 셔츠나 넥타이 색이 갑자기 변하는 식이다. 실제로 지난 5월 유포된 미국 국무부 대변인 매튜 밀러 영상에서, 카메라가 잠시 기자석을 비춘 뒤 돌아오자 흰 셔츠에 하늘색 넥타이 복장이던 밀러가 어느새 하늘색 셔츠에 빨간색 넥타이를 맨 모습으로 바뀌었다.&lt;br&gt;&lt;br&gt;이미지의 손가락과 발가락을 유심히 확인하는 것도 방법이다. 손가락, 발가락 개수가 6개 이상으로 나타나는 건 생성형 AI 기술의 대표적인 오류이자 치명적인 약점이다. 지난 4월 ‘트럼프 형사 기소를 축하하는 바이든과 해리스’라는 내용으로 조 바이든 미국 대통령과 카멀라 해리스 부통령이 활짝 웃으며 포옹하는 AI 생성 사진이 확산했는데, 당시 해리스 부통령 손가락이 6개로 나왔다.&lt;br&gt;&lt;br&gt;이외에도 생성형 AI 이미지는 문자와 숫자를 제대로 구현해 내지 못하는 경향이 있다. 기호의 의미를 이해하지 못해 읽을 수 없거나 왜곡된 글자를 생성하는 것이다. 작년 4월, 트럼프의 가짜 머그샷 이미지에서도 뒤로 보이는 키 측정용 자에 정확한 숫자 대신 무의미한 문자들이 적혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“살 빼려고”... 마약성 다이어트 약 셀프 처방한 간호사들</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/05/PGD52JBQANFKPP7XO7YBMMXMGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/05/PGD52JBQANFKPP7XO7YBMMXMGA/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description>마약류 식욕억제제를 스스로 처방해 복용한 간호사와 이를 알고도 고발하지 않은 의료원장, 전직 군수가 입건됐다.경기북부경찰청 형사기동대 마약범죄수사계는 마약류 관리에 관한 법률 위반(향정) 혐의로 간호사 A씨 등 5명을 검찰에 불구속 송치했다고 5일 밝혔다.</description>
-      <pubDate>Fri, 05 Jul 2024 12:24:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ILTINPV6TNAR5HEAFVF7XKQFCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마약류 식욕억제제를 스스로 처방해 복용한 간호사와 이를 알고도 고발하지 않은 의료원장, 전직 군수가 입건됐다.&lt;br&gt;&lt;br&gt;경기북부경찰청 형사기동대 마약범죄수사계는 마약류 관리에 관한 법률 위반(향정) 혐의로 간호사 A씨 등 5명을 검찰에 불구속 송치했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;경기 연천군 의료원 소속인 이들은 지난 2019년부터 2020년까지 다이어트 약인 ‘디에타민정’ 등을 의사 진료 없이 가족이나 지인 명의로 스스로 처방해 복용한 혐의를 받고 있다. 디에타민정은 향정신성 의약품으로 분류돼 의사의 처방 없이는 구할 수 없다.&lt;br&gt;&lt;br&gt;또 이들의 ‘셀프 처방’ 범행을 도운 같은 의료원 소속 의사인 C씨 등 2명과 범죄 사실을 인지하고도 고발하지 않은 의료원장, 당시 연천군수도 함께 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;현행법상 공무원은 업무 중에 범죄 사실을 인지하면 수사 기관에 고발해야 할 의무가 있지만, 의료원장과 당시 연천군수는 이를 이행하지 않았다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “의료원장은 보고받은 사실을 인정했다”면서 “당시 연천군수는 보고 기억이 뚜렷하지 않다는 취지로 진술했으나 물적 증거가 있어 이를 바탕으로 범죄 사실을 입증해 송치했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] ’얼차려’ 훈련병 응급 처치한 의사, 비판 여론에 병원 떠났다</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/07/05/O4GPZ4AZINBMDG7ANHKGL7PRCI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/05/O4GPZ4AZINBMDG7ANHKGL7PRCI/</guid>
-      <dc:creator>조백건 기자, 속초=정성원 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 11:58:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BTXZMICPPPO42YK6CBVKRGHJNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원도 속초의료원 자료사진./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;속초의료원은 5일 “응급실 의사(전문의) 5명 중 2명이 지난달 30일 퇴사했다”며 “인력난으로 응급실 운영을 이달 총 일주일간 중단한다”고 밝혔다. 그런데 떠난 의사 2명 중 1 명은 지난 5월 육군 12사단에서 얼차려를 받다 숨진 훈련병을 응급 처치한 A씨였던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, A씨는 지난 5월 16일부터 속초의료원 응급실에서 근무했다. 그는 근무 시작 일주일 만인 23일 오후 육군 12사단에서 ‘군기 훈련’을 받다 쓰러져 이 병원 응급실로 실려온 훈련병을 맡았다.&lt;br&gt;&lt;br&gt;A씨는 피 검사와 CT(컴퓨터 단층 촬영) 검사 등을 한 뒤 훈련병이 횡문근융해증에 걸렸을 가능성이 높다고 진단했다. 횡문근융해증은 무리한 운동, 과도한 체온 상승이 원인이 돼 발생한다. 근육이 괴사하고 신장 등 장기에 치명적 손상을 입힌다. A씨는 응급 처치를 마치고 같은 날 밤에 장비와 인력이 더 잘 갖춰진 강릉아산병원으로 훈련병을 이송했다. 필요한 검사와 응급 처치를 하고 더 큰 상급종합병원으로 환자를 보낸 것은 정상적인 조치로 분석된다. 하지만 이 훈련병은 이틀 뒤인 25일 오후 강릉아산병원 중환자실에서 사망했다.&lt;br&gt;&lt;br&gt;이후 A씨는 이 사건을 수사하는 경찰로부터 참고인 조사를 받았다고 한다. 속초의료원 관계자는 “응급실 의사가 신속 대응을 하지 않아 치료 ‘골든 타임’을 놓쳤다는 비판 여론까지 나오니까 A씨는 매우 괴로워했다”고 했다. 결국 A씨는 속초의료원 근무 한 달 만인 지난달 30일 ‘개인 사정’을 이유로 사표를 냈다. 응급실 의사들은 “한국의 바이털(환자의 생명을 다룸) 의사들이 처한 현실을 단적으로 보여주는 사례”라고 했다.&lt;br&gt;&lt;br&gt;그와 함께 근무하다 같은 날 사표를 낸 이 병원 응급실 의사 B씨도 ‘건강 악화’를 이유로 사표를 냈지만, 이 사건의 영향을 크게 받았다고 한다. B씨는 본인 소셜미디어 등을 통해 “경찰이 속초의료원에 와서 다 조사하고, CCTV 영상까지 가지고 갔다”며 “정작 가해자는 조사 한 번이 없다. 다 의사 때문이라는 건가. 군 장교는 잘못이 없나”라고 했다. 사건 발생 초기부터 군(軍)이 쓰러진 훈련병을 여러 장비가 더 잘 갖춰진 국군홍천병원으로 이송하지 않고, 소규모의 속초의료원으로 보낸 것 자체가 문제라는 지적이 많았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>野 “검사들, 법대로 강제소환”...법조계 “법대로하면 못 불러”</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/05/4EHNU4J5TBB6FLXVQWJVKMGVVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/05/4EHNU4J5TBB6FLXVQWJVKMGVVI/</guid>
-      <dc:creator>이슬비 기자, 방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 10:48:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/23FA5UC7YRLPDOD2Z234DX4IL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 21일 오전 국회 법제사법위원회에서 열린 '순직 해병 진상규명 방해 및 사건은폐 등의 진상규명을 위한 특별검사 임명법(채상병특검법)'에 대한 입법청문회에서 더불어민주당 소속 정청래 위원장이 의사봉을 두드리고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국회 법제사법위원장인 정청래 민주당 최고위원은 5일 당 최고위원회의에서 이재명 전 대표 관련 사건 등을 수사한 검사 4명을 국회 청문회에 강제로 출석시키겠다고 말했다. 정 최고위원은 “국회는 국회법대로, 법과 원칙대로 하겠다”면서 “증인 출석을 거부하면 동행명령장을 발부해 강제 구인할 수 있고, 증인 불출석에 대해 처벌할 수도 있다”고 했다.&lt;br&gt;&lt;br&gt;그러나 법조계에서는 검사들의 청문회 출석과 관련해 법사위가 동행명령을 내릴 권한은 없다고 보고 있다. 현행법상 동행명령장 발부 대상은 국정감사나 국정조사의 증인이고, 청문회 증인은 동행명령 대상이 아니기 때문이다. 한 법조인은 “민주당이 ‘법대로’ 하겠다면서 실제 법에도 없는 규정들로 검사들을 ‘협박’하고 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇청문회 안 나오면 강제로?... “법 규정 없어”&lt;/b&gt;&lt;br&gt;&lt;br&gt;민주당은 검사들이 청문회에 불출석할 경우, 동행명령장을 발부해 강제로 출석시키겠다고 하고 있다. 하지만 법에는 청문회 증인에 대해 동행명령장을 발부할 수 없게 돼 있다.&lt;br&gt;&lt;br&gt;‘국회에서의 증언·감정 등에 관한 법률’ 제6조에 따르면, 증인이 정당한 이유 없이 출석하지 않을 경우 의결을 통해 동행을 명령할 수 있다. 하지만 ‘동행명령’은 ‘국정감사나 국정조사를 위한 위원회’에 한해서만 제한적으로 쓰도록 규정하고 있다. 청문회 증인에게는 적용되지 않는 것이다. 한 법조인은 “사람을 강제로 구인한다는 것은 매우 큰 책임이 따르는 권력 행사이기 때문에 매우 제한적으로 쓰도록 하고 있는 것”이라고 했다.&lt;br&gt;&lt;br&gt;민주당도 청문회에서 동행명령장 발부를 할 수 없다는 사실을 이미 알고 있다고 한다. 민주당 정청래·장경태·이건태·박균택·김승원 의원 등 13명은 지난달 20일 청문회에도 증인 출석을 강제할 수 있도록, ‘정당한 이유 없이 출석하지 않는 증인에 대해 동행명령을 할 수 있다’는 내용이 담긴 국회 증언감정법 개정안을 발의했다. 현행 국정조사·국정감사로 제한돼 있는 규정을 청문회까지 확대하겠다는 것이었다.&lt;br&gt;&lt;br&gt;이런 상황에서 ‘동행명령’을 주장하는 이유에 대해 민주당 관계자는 “청문회가 아니고 국정조사에 준하는 조사”라며 “그만큼 강하게 조사의 필요성을 강조하면서 나온 말”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6EVOQDUR3JMK7C52ON6WIOJEVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이원석(가운데) 검찰총장이 지난 2일 대검 기자실에서 더불어민주당 검사 탄핵안에 대한 입장 발표를 하고 있다. 왼쪽에 신자용 대검 차장, 오른쪽에 전무곤 기획조정부장이 배석해있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇탄핵 당사자가 ‘국회 증인’ 될 수 있나&lt;/b&gt;&lt;br&gt;&lt;br&gt;탄핵의 당사자인 검사들은 ‘증인’이 될 수 없다는 법조계 견해도 있다. 실제 탄핵소추가 된다면 검사들은 헌법재판소에서 피청구인 신분이 된다. 피청구인은 소송의 당사자이며 제3자가 아니기 때문에 ‘증인’이 될 수 없다는 것이다. 한 법조인은 “일반적으로 형사 재판에서 피고인은 진술거부권이 보장돼 있고, 증인으로서의 증언 의무를 강제할 수도 없다”라며 “피고인이 증인이 될 수 없는 것과 마찬가지로, 탄핵의 당사자가 국회의 증인으로 나서 답하는 것은 맞지 않는다”고 했다.&lt;br&gt;&lt;br&gt;탄핵의 대상이 된 검사들은 국회 청문회에 출석하지 않는 방안을 유력하게 검토 중인 것으로 알려졌다. 이원석 검찰총장은 이날 “야당의 탄핵소추는 직권남용·명예훼손이며, 징계 처분(을 받게 할 목적)이었다면 무고에 해당할 가능성도 있다”며 위법성을 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘SM 시세조종’ 혐의, 카카오 김범수 9일 검찰 소환 조사</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/05/5BMPRJMKYZCCNIJIAYRVUZMKZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/05/5BMPRJMKYZCCNIJIAYRVUZMKZU/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 11:14:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A3KLOEHHZUZVMPSY6H5F3SZWKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김범수 카카오 창업자./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울남부지검 금융조사2부(부장 장대규)는 오는 9일 카카오 창업주 김범수 경영쇄신위원장을 소환 조사할 계획으로 5일 알려졌다. 그는 SM엔터테인먼트 인수를 위해 시세조종에 가담한 혐의를 받고 있다. 지난해 2월 카카오 측이 SM 경영권 인수전 경쟁자인 하이브의 공개 매수를 방해할 목적으로 2400여억원을 투입, SM 주가를 하이브 공개 매수 가격 이상으로 끌어올린 과정에서 김 위원장의 지시 또는 승인 사항이 있었는지 검찰은 살펴보고 있다.&lt;br&gt;&lt;br&gt;하이브는 당시 주당 12만원에 SM엔터 주식을 공개 매수하려 했지만, 주가가 12만원 이상으로 치솟으면서 실패했다. 하이브의 공개매수 실패 직후 카카오는 카카오엔터와 함께 SM엔터 주식을 대량 확보하면서 SM엔터 최대주주로 올라섰다. 카카오 법인은 또 사모펀드인 원아시아파트너스와 함께 SM 지분 5% 이상을 보유하고도 이를 금융 당국에 보고하지 않아 공시 의무를 어긴 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;금융감독원은 지난해 11월 김 위원장과 홍은택 전 대표 등 당시 카카오 최고 경영진을 검찰에 넘겼다. 검찰은 같은 달 카카오 판교아지트를 압수수색하며 해당 의혹에 대한 강제 수사에 나섰다. 앞서 SM 시세조종에 가담한 혐의를 받는 배재현 카카오 투자총괄대표와 원아시아파트너스 대표는 각각 지난해 11월, 지난 4월에 구속 기소돼 재판을 받고 있다. 직원과 회사에 함께 책임을 묻는 양벌 규정에 따라 카카오 법인과 원아시아파트너스 법인도 함께 기소됐다.&lt;br&gt;&lt;br&gt;카카오는 이외에도 배차 알고리즘을 조작해 자사 가맹 택시에 더 많은 호출이 가도록 한 ‘콜 몰아주기’ 의혹, 드라마 제작사 ‘바람픽쳐스’ 고가 인수 의혹, 가상 화폐 ‘클레이(Klay)’ 횡령·배임 의혹 등으로 남부지검에서 전방위 수사를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>군 가혹행위 사망을 ‘애인’ 때문이라며 수사 종결… 법원 “유족에 3000만원 지급”</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/05/KIYV62IW2NEX7JYMWO3BPKBWKM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/05/KIYV62IW2NEX7JYMWO3BPKBWKM/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 10:43:17 +0000</pubDate>
-      <content:encoded>전투경찰(전경)로 복무하다 생을 마감한 청년의 가족이 국가를 상대로 낸 위자료 소송에서 이겼다. 당시 경찰은 청년이 ‘여자친구의 변심’ 때문에 사망했다며 사건을 종결했다. 하지만 36년 후, A씨가 부대 내 가혹행위를 견디지 못해 목숨을 끊었단 사실이 밝혀졌다. 경찰 공무원의 부실 수사로 사망이 은폐됐다고 본 법원은, 국가가 A씨의 유족 5명에게 위자료를 각 600만원씩 지급해야 한다고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/27EYKHSXOBFKZLYKM66FX7CCWU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 서울중앙지방법원/조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 민사39단독 강신영 판사는 1986년 9월 전경으로 복무하다가 사망한 A씨의 유족이 국가를 상대로 낸 손해배상청구 소송에서 지난 2일 원고 일부 승소로 판결했다. 법원은 국가가 총 3000만원을 유족들에게 지급해야 한다고 판단했다.&lt;br&gt;&lt;br&gt;A씨는 20살이었던 1985년 11월, 군 입대 후 전투경찰로 배치됐다. A씨는 이듬해 9월 복무하던 서울 구로구의 한 지구대 옥상에서 뛰어내려 스스로 생을 마감했다. 당시 경찰은 “A씨가 애인의 변심과 가출로 충격을 받아 자살한 것”이라며 변사로 수사를 종결한 뒤 A씨의 유해를 화장했다.&lt;br&gt;&lt;br&gt;하지만 A씨 가족들은 A씨가 사망한 이유를 다시 밝혀달라고 군사망사고진상규명위원회에 요청했다. A씨 가족은 “당시 A씨가 학생 데모 진압에 투입돼 군 생활이 힘들고, 고참들의 가혹행위가 심하다고 했다”며 부대 내 가혹행위 때문에 A씨가 목숨을 끊었을 수 있다고 주장했다.&lt;br&gt;&lt;br&gt;조사에 나선 위원회는 2022년 9월 “A씨는 전투경찰 복무 중 구타 및 가혹행위 때문에 사망했다”고 다시 결론 내렸다. 위원회는 A씨의 군 동기로부터 “군기가 빠졌다며 기동대 버스에서 주먹으로 많이 맞았다. 아침에 일어나서 잠을 잘 때까지 10번 이상 맞지 않으면 잘 수가 없었다”는 진술 등을 확보했다. 당시 A씨에게 사귀던 여자가 있었다는 증거는 충분치 않다고 봤다. 이에 서울경찰청은 그해 12월 A씨의 순직을 인정했다.&lt;br&gt;&lt;br&gt;하지만 국가는 A씨 유족들이 이미 나라로부터 사망급여금과 보상금을 받았기 때문에, ‘이중배상금지원칙’에 따라 위자료를 청구할 수 없다고 했다. 하지만 재판부는 “전투경찰인 A씨가 집무 집행과 관련해 순직한 경우에 해당하는 손해배상 청구가 아니므로 국가배상법의 단서가 적용된다”며 국가에게 손해배상 책임이 있다고 판단했다.&lt;br&gt;&lt;br&gt;이어 재판부는 “경찰은 사고의 경위에 관해 면밀히 조사하여야 할 의무가 있음에도, 직무상 진실 규명을 위한 충분한 노력을 기울이지 않았다”며 “A씨 유족의 이해관계가 침해됐음이 명백하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인사 청탁 대가로 3500만원 받은 前 경북경찰청장 구속</title>
-      <link>https://www.chosun.com/national/incident/2024/07/05/OAXRRPSAFZBLZFSUF3XQOKZSLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/05/OAXRRPSAFZBLZFSUF3XQOKZSLA/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 09:25:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U2PXWAYDCBMYPDYMINACHGVG4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;퇴직 이후 경찰관들의 인사 청탁을 들어주는 대가로 금품을 수수했다는 의혹을 받고 있는 전직 치안감이 5일 오전 대구시 수성구 대구지방법원에서 열린 영장실질심사(구속 전 피의자심문)를 마친 후 취재진의 질문에 답하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인사 청탁을 들어주는 대가로 수천만원을 받은 전직 경북경찰청장 A씨가 구속됐다.&lt;br&gt;&lt;br&gt;5일 대구지법 정석원 영장 전담 판사는 제삼자뇌물취득 혐의를 받고 있는 전 치안감 A씨에 대한 구속 전 피의자 심문(영장실질심사)에서 검찰이 청구한 구속 영장을 발부했다. 정 판사는 “(A씨가)증거 인멸 및 도주 우려가 있다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 경찰에서 퇴직한 뒤 2021년부터 지난해까지 경찰관들의 인사 청탁을 들어주는 대가로 인사 브로커 B씨에게 3500만원 상당을 받은 혐의를 받고 있다. B씨 또한 전직 경찰로서 현직 경찰관들의 인사 청탁을 중개한 혐의를 받고 있다. A씨는 이날 영장실질심사를 마친 뒤 취재진에게 “(돈을 받은 것을)인정한다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 대구지검은 지난해 7월 인사 청탁 대가로 돈을 주고 받은 전직 경찰관 2명에 대한 수사에 착수했다. 검찰은 이들을 수사하는 과정에서 인사 브로커 역할로 B씨가 관여한 또다른 인사 비리를 적발해 현직 경찰관 3명을 압수수색했다.&lt;br&gt;&lt;br&gt;현재 이 사건과 관련해 A씨와 B씨를 포함한 전·현직 경찰관 7명이 수사를 받고 있는 것으로 알려졌다. 검찰은 향후 인사 비리에 추가로 연루된 경찰관들이 있는지 수사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘식당 운영’ 정준하 먹튀 토로… “친절하게 대했는데 도망”</title>
