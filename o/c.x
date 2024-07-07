@@ -13,6 +13,93 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>법원 “6·25전쟁 中 함평 민간인 총살 사건, 국가가 배상해야”</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/07/QOSOL3HNOVCRDJLVAMB7IIAMDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/07/QOSOL3HNOVCRDJLVAMB7IIAMDI/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Jul 2024 08:00:38 +0000</pubDate>
+      <content:encoded>6·25전쟁 당시 공산주의를 추종하는 빨치산에 협력했다는 이유로 민간인이 대규모 희생된 함평11사단 사건 피해자들에게 국가가 손해배상금을 지급하라는 판결이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FTGPTVCXJGOPCYLMP3UYTQ3YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 법조계에 따르면 서울중앙지법 민사48부(재판장 김도균)는 최근 함평11사단 사건 피해자들의 유가족이 낸 손해배상 소송에서 국가가 1인당 150만~7800만원을 지급하라고 판결했다. 총 27명의 원고에 대한 손해배상액 총액은 4억3600여만원이다.&lt;br&gt;&lt;br&gt;함평11사단 사건은 6·25전쟁 당시인 1950년 11월 20일부터 1951년 1월 14일까지 국군이 전남 함평군과 장성군, 광산군 등에서 빨치산에 협력했다며 주민 258명을 사살하고 다치게 한 사건이다.&lt;br&gt;&lt;br&gt;2007년 ‘진실화해를위한과거사정리위원회’는 이러한 사실을 발표했고, 희생자들에 대한 명예회복과 재발 방지 조치를 취할 것을 권고했다. 2009년 7월 함평군 해보면 광암리 가정마을 뒷산에서 암매장된 유골 100여 구가 발견되기도 했다.&lt;br&gt;&lt;br&gt;재판부는 “국가권력에 의해 집단적·조직적으로 자행된 사건”이라며 “희생자들은 국가에 의해 위법하게 살해당했다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 검찰, ‘법카 유용 의혹’ 이재명 부부 소환 통보</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/07/6UDWO6J3F5BHHDBEOCZUQTD4WI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/07/6UDWO6J3F5BHHDBEOCZUQTD4WI/</guid>
+      <dc:creator>권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Jul 2024 07:50:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SFIOYJXKB5IG3NMNSKSUUSBOAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4월 11일 제22대 국회의원 선거 인천 계양을에 출마한 이재명 더불어민주당 대표와 부인 김혜경씨가 인천 계양구 선거사무소에서 개표방송을 지켜보고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도 법인카드 유용 의혹을 수사 중인 검찰이 이재명 전 더불어민주당 대표와 아내 김혜경씨에게 소환 통보를 했다.&lt;br&gt;&lt;br&gt;수원지검 공공수사부(부장 허훈)는 지난 4일 경기도 법인카드 유용 의혹으로 배임 혐의를 받는 이 전 대표 부부에게 피의자 신분으로 검찰에 출석해 조사받을 것을 통보했다고 7일 밝혔다. 다만, 검찰은 소환 날짜를 특정하지는 않았으며, 이 대표 측과 조사 일정을 조율하기로 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김씨는 이 전 대표가 경기지사이던 2018년 7월~2021년 9월 수행비서인 배모씨를 통해 음식 값 등을 경기도 법인 카드로 결제해 경기도에 손해를 끼쳤다는 배임 혐의를 받고 있다. 검찰은 국민권익위원회가 작년 10월 이 대표가 김씨의 법인 카드 유용을 알고도 묵인했다며 이첩한 사건도 함께 수사 중이다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난 2월 김씨에 대해 지난 대선을 앞두고 배씨와 공모해 민주당 국회의원 부인들과의 식사 모임 비용 10만4000원을 경기도 법인카드로 결제한 혐의(공직선거법상 기부 행위 금지 위반)로 기소한 바 있다. 이 사건으로 먼저 기소된 배씨는 지난 2월 2심에서 1심과 같이 징역 10개월에 집행유예 2년을 선고받았는데, 대법원에 상고하지 않아 형이 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세]  7월 8일 월요일 (음력 6월 3일 癸酉)</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/07/GEPK2X6VDJD6ZEYRF26X462KLI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/07/GEPK2X6VDJD6ZEYRF26X462KLI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Jul 2024 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 기회와 위기는 자신에게 달렸다. 48년생 증오와 애정은 동전 양면. 60년생 자기 운명 사랑할 줄 알아야. 72년생 모르면 아랫사람에게라도 주저 말고 묻도록. 84년생 타인 단점은 눈감아 주는 게 미덕. 96년생 만족 아는 게 행복의 시작.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 행복은 무엇보다 건강에 있다. 49년생 뒤로 자빠져도 코 깨질 수 있다. 61년생 결과는 결심으로만 얻어지는 건 아니다. 73년생 때 아닌 우박을 대비. 85년생 낙상(落傷)수 있으니 발걸음 무겁게. 97년생 진척 없을 때는 잠시 휴식하는 것도 방법.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 심혈관 계통 질환 주의. 50년생 혀가 칼보다 많은 상처 줄 수도. 62년생 활동력 최대치로 높이도록. 74년생 안 될 일에 열심이면 추락이 가속. 86년생 아량과 포용으로 내 사람 만들어라. 98년생 솔개가 굶주렸다고 파리 쫓으랴.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 이웃집 개 덕에 도적을 면하는구나. 39년생 기도하는 마음으로 임하도록. 51년생 마른나무 타면 생나무도 탄다. 63년생 인연에도 유통기한이 있는 것인가. 75년생 예상 밖의 상황도 대비해야. 87년생 눈을 부릅뜨고 안전사고에 대비하라. 99년생 덥다고 찬 것만 먹으면 탈 나기 십상.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 사사로움은 금물. 공명정대하게 처리하라. 40년생 조급해 말고 느긋하게 때 기다려야. 52년생 개도 나갈 구멍 보고 쫓으라 했다. 64년생 잠자는 자는 꿈 이룰 수 없다. 76년생 주위를 기쁘게 하는 삶은 아름답다. 88년생 윗사람 충고에 귀 기울여야. 00년생 정리 정돈이 무엇보다 중요.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 큰 장사꾼은 작은 손해 연연해 않는 법. 41년생 재물이 하늘에서 내려오는구나. 53년생 남 의견도 참고하며 진행해야. 65년생 동쪽에서 시비 생기니 사전 주의. 77년생 쉽게 얻은 행복은 빨리 사라진다. 89년생 양보도 요령껏 하라. 01년생 어디에 있든 하찮고 궂은일 도맡도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 최선 다했다면 결과는 하늘에 맡겨라. 42년생 오래된 질환의 재발 염려. 54년생 침묵이 가장 좋은 대응법. 66년생 들뜬 기분에 섣부른 행동은 후회 부른다. 78년생 확장이나 벌이기보다 유지 관리에 집중. 90년생 난관 만나면 해답은 윗사람에게. 02년생 격분할 때는 아무것도 하지 말아야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 대수롭지 않게 여겼던 게 이처럼 소중할 때가. 43년생 책임감 갖고 꾸준히 밀고 가도록. 55년생 부질없는 미련은 버리는 게 상책. 67년생 욕심 버리고 능력 맞게 진행하라. 79년생 돌아가는 길이 지름길. 91년생 충동적인 소비로 지출 많은 시기. 03년생 부탁 들어주는 게 배려는 아니다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 잘 가꾼 꽃밭이 꿀 만드는 터전. 44년생 소금 수레 끄는 천리마 신세. 56년생 현재 생각이 옳은 판단의 기초. 68년생 100% 압도할 수 없다면 맞서지 마라. 80년생 질투 심하면 손해도 크다. 92년생 노력도 때에 맞아야 결실 본다. 04년생 부화뇌동 말고 주관 분명히 갖도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 외부 활동과 이동 과정에 안전사고 조심. 45년생 누런색과 숫자 5, 10 행운 부른다. 57년생 아랫사람에게 책잡히지 않도록 조심. 69년생 입은 화복 드나드는 문. 81년생 지금 처한 상황에 최선 다하도록. 93년생 구경꾼들은 자신만의 역사가 없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 조언은 조언일 뿐 확고한 주관 갖도록. 46년생 아끼는 게 버는 것. 58년생 손 놓고만 있을 수 없는 노릇. 70년생 재택(在宅)이 손재 막는 길. 82년생 꽉 채우지 말고 여백 두는 게 좋을 듯. 94년생 임시방편으로 해결은 될 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 명예는 주위에서 만들어 주는 것. 47년생 마음 다잡고 때 기다리면 좋은 소식 들릴 수도. 59년생 무방비는 무책임의 다른 말. 71년생 내가 맞추면 주변이 편안. 83년생 즐기지 않으면 고통만 따른다. 95년생 숫자 4, 9와 흰색은 행운 부른다.	&lt;br&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>환경운동가·흡연자들이 함께 담배꽁초 7500개 수거한 이유</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/07/3HHCI6RX7BD2HH2UCP4F6FLU7I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/07/3HHCI6RX7BD2HH2UCP4F6FLU7I/</guid>
+      <dc:creator>김보경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Jul 2024 07:09:47 +0000</pubDate>
+      <content:encoded>지난달 22일 오후, 서울 강남구 신논현역 일대에 집게로 담배꽁초 주우며 돌아다니는 사람들이 있었다. 길거리에 버려진 담배꽁초를 수거하는 ‘꽁초줍깅’ 활동 중인 ‘흡연자 인권연대(이하 흡인연)’ 회원 3명과 환경단체 ‘쓰레기 줍는 사람들(이하 쓰줍인)’ 회원 10명이었다.&lt;br&gt;&lt;br&gt;이날 모인 13명은 약 40분 동안 강남대로 일대를 약 800m 정도 걸으며 하수구 안쪽 등 길 곳곳, 넣을 수 있는 곳마다 버려진 담배꽁초를 집어 각자 들고 있는 일회용 컵이나 종량제 봉투에 모았다. 활동을 마치고 각자 수거한 양을 합치자 담배꽁초 약 7500개가 모였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VRABN33OUNCO7IYIH3LVG5XCUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 22일, 강남대로 일대에서 만난 '흡연자인권연대'와 '쓰레기를 줍는 사람들' 회원 13명이 길거리에 버려진 담배꽁초를 줍는 '꽁초 플로깅' 활동을 마친 후 단체 사진을 촬영하고 있다. 이날 이들이 약 40분 동안 강남대로 일대에서 수거한 담배꽁초는 약 7500개였다. /쓰줍인 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서로 대립할 것 같은 환경단체와 흡연자 모임이 의기투합하게 된 이유를 이들은 “‘탓’만 해서는 문제가 해결될 수 없기 때문”이라고 설명했다.&lt;br&gt;&lt;br&gt;현장에서 만난 ‘쓰줍인’ 대표 박현지(35)씨는 ‘걸어 다니는 담배꽁초’처럼 보이는 비닐 코스튬 옷을 입고는 강남대로 일대를 걸었다. 종이 상자를 잘라 ‘흡연자 환영’이라고 써서 만든 손팻말도 들고는 길에서 만난 흡연자들에게 다가가 활동 내용을 설명하기도 했다. 흡연자들은 대부분 떨떠름한 표정을 지으며 박씨를 외면했지만, 박씨는 “담배꽁초 투기 문제에 대해 흡연자들을 탓하기만 하면 반발이 더 심해져 건강한 논의를 할 수 없다”면서 “흡연자들을 설득하며 공존을 모색하는 것이 중요하다”고 강조했다.&lt;br&gt;&lt;br&gt;박씨는 지난 2020년 11월부터 전국 단위로 활동하는 환경단체인 ‘쓰줍인’을 결성하고 활동을 시작했다고 한다. 그는 “다가오는 기후 위기에 대응하는 방법의 하나가 ‘적응하는 것’”이라면서 “큰비가 오고 수해가 발생하고 있는데, 이런 현상을 보며 기후 위기만 탓하기보다는 할 수 있는 것을 찾아서 하는 것이 중요하다고 생각했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBHBDRZDSFCABEPSPYCISP6MEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 22일 강남대로에서 만난 박현지 '쓰레기를 줍는 사람들(쓰줍인)' 대표. 거대한 담배꽁초처럼 보이는 코스튬을 입고 '흡연자 환영'이라고 쓴 손피켓을 들고 있다. /쓰줍인 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 함께 만난 ‘흡인연’ 박상륜(60) 대표는 “담배꽁초 쓰레기가 하수구를 막아 수해를 더 심각하게 만드는 것은 부정할 수 없다”면서도 “문제 원인으로 지목되는 흡연자에 대한 인식을 개선하고 다른 흡연자들의 의식 변화도 모색하고자 ‘쓰줍인’과 함께 플로깅 활동을 하게 됐다”고 했다.&lt;br&gt;&lt;br&gt;박씨는 “흡연자 인식 개선에 힘쓰면서 흡연자 관련 정책도 제안하겠다며 지난 2019년 7월에 ‘흡연자 인권연대’를 결성했다고 한다. 흡인연은 온라인 기반으로 흡연 구역 위치를 안내하는 지도를 만들거나 담배꽁초 수거함에 담배꽁초를 버리는 사진을 촬영하는 ‘매너손 캠페인’ 등 활동을 하고 있다.&lt;br&gt;&lt;br&gt;박씨는 “흡연자는 제값을 지불하고 떳떳한 소비를 했기 때문에 흡연권을 보장받아야 마땅한데 금연을 요구받거나, 흡연자라는 이유만으로 환경문제의 원인으로 지목당하곤 한다”면서 “이럴수록 더 에티켓을 지키고, 흡연자가 나서서 비흡연자와 공존할 방안을 고민해야 한다고 생각했다”고 했다.&lt;br&gt;&lt;br&gt;두 단체는 “앞으로도 흡연자의 권리를 보호하면서도 환경문제를 개선할 방법을 함께 논의할 예정”이라고 했다. 이들은 지난 2022년부터 뜻 맞춰 함께 활동하면서 지난 5월에는 산불 방지 취지로 서울 관악구 등산로 일대에서 ‘꽁초줍깅’ 활동을 했다. 작년 12월에는 ‘담배연기·꽁초 쓰레기·화재 문제 해결을 위한 흡연구역 만들기 정책토론회’에도 참여했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VRABN33OUNCO7IYIH3LVG5XCUA.jpg?width=2000&amp;height=1125&amp;auth=fd9f4252ea8d8449dccb1c4d4e94504f90c943c444f23f618494effd6bad49dc&amp;smart=true" type="image/jpeg" height="1125" width="2000">
+        <media:description type="plain">지난달 22일, 강남대로 일대에서 만난 '흡연자인권연대'와 '쓰레기를 줍는 사람들' 회원 13명이 길거리에 버려진 담배꽁초를 줍는 '꽁초 플로깅' 활동을 마친 후 단체 사진을 촬영하고 있다. 이날 이들이 약 40분 동안 강남대로 일대에서 수거한 담배꽁초는 약 7500개였다. /쓰줍인 제공</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>韓총리 ‘김치찌개집 취업 100일’ 경계선 지능 청년 격려</title>
+      <link>https://www.chosun.com/politics/goverment/2024/07/07/W3D2MIF2E5DBBMDBWTVOQ3HEQY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2024/07/07/W3D2MIF2E5DBBMDBWTVOQ3HEQY/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Jul 2024 05:51:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7N7XLXM3HRJNNJZH6MPARZB7NI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 국무총리가 7일 서울 종로구 식당 ‘청년밥상문간 슬로우점’을 방문해 경계선 지능 청년 직원들과 함께 기념 사진을 찍고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한덕수 국무총리가 7일 식당에 취업한 지 100일이 되는 경계선 지능 청년들을 찾아가 격려했다.&lt;br&gt;&lt;br&gt;국무총리실에 따르면, 한 총리는 이날 오전 서울 종로구 대학로에 있는 식당 ‘청년밥상문간 슬로우점’을 방문했다. 청년밥상문간은 한 끼 밥값에 부담스러울 수 있는 서민들을 위해 김치찌개 단일 메뉴를 1인분 3000원에 파는 곳이다. 기업과 개인의 후원을 받아 청년 유동인구가 많은 대학가에서 협동조합 형태로 운영되고 있다. 서울에 4곳, 제주에 1곳이 있다.&lt;br&gt;&lt;br&gt;4월 1일 문을 연 슬로우점은 이날로 개업 100일이 된 곳으로, 홀 서빙과 주방 보조 담당 직원 10명을 모두 경계선 지능 청년으로 채용했다. 이들도 이날로 취업 100일이 됐다&lt;br&gt;&lt;br&gt;경계선 지능인은 지능지수(IQ)가 70 이하인 지적 장애는 아니지만, 평균 지능보다 약간 낮은 지능을 갖고 있다. IQ 71~84가 여기에 해당한다. 이로 인해 학업과 사회생활, 취업에 다소 어려움을 겪지만, 공식적으로는 장애에 해당하지 않아 사회적 지원을 받지는 못한다. 전체 국민 5129만명의 13.6%인 약 697만명이 경계선 지능인 것으로 추정된다.&lt;br&gt;&lt;br&gt;한 총리는 “저도 많은 일자리에 있어 봤고 많은 사람과 같이 일했지만, 모든 일을 빨리 하는 사람만이 일을 잘한다고 인정받고 사랑받는 것은 아닌 것 같다”며 “속도는 조금 느리더라도 성실하게 일에 임하고, 손님들에게 잘 봉사하는 정신을 가진 분들이 훨씬 더 중요하다”고 했다. 그러면서 직원들에게 “사회생활을 시작하기가 결코 쉽지 않았겠지만, 앞으로 200일, 300일, 1000일, 1만일에 걸쳐서도 잘하시리라고 믿는다”고 했다.&lt;br&gt;&lt;br&gt;한 직원은 “처음엔 잘할 수 있을까 생각했는데, 일하면서 자리를 잡고 익숙해지는 것 같다. 벌써 100일이 지났나 하는 생각이 든다”며 “열심히 일할 수 있게 된 것은 주변에서 응원해줬기 때문이다. 앞으로도 잘 부탁한다”고 했다. 한 직원의 어머니는 “아들이 일할 수 있게 돼 감사하게 생각하지만, 이런 기회를 갖지 못한 다른 (경계선 지능) 친구들에 대한 미안한 마음도 있다”며 “청년들이 활기차게 살 수 있도록 기회를 주셨으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;한 총리는 “지난 3일 사회부총리 주관으로 고용노동부·보건복지부·교육부 장관 세 분이 모여서 경계선 지능인 분들을 위해 어떻게 교육과 직업훈련, 취업을 연계시킬까 논의했다”며 “정부도 최선을 다해 여러분 부모님, 사회복지사님들과 힘을 합쳐, 여러분이 (사회생활의 부담을) 가볍게 느끼실 수 있도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;한 총리는 직원들에게 취업 축하 선물로 조리복을 선물했다. 이어 앞치마를 두르고 직원들과 함께 김치찌개를 날랐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘팬텀싱어2’ 조민웅, 37세에 심장마비로 숨져</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/07/ROMJD773PJAGZEY7HNSXVRVVGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/07/ROMJD773PJAGZEY7HNSXVRVVGI/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Jul 2024 05:32:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CSCUWJH372X4H3WM7LQ5OMSTAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;성악가 조민웅. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;JTBC ‘팬텀싱어2′에 출연했던 성악가 조민웅이 37세의 나이로 갑작스럽게 세상을 떠났다.&lt;br&gt;&lt;br&gt;7일 업계에 따르면, 조민웅은 지난달 29일 자택에서 숨진 채 발견됐다. 고인은 당시 자택에 혼자 있던 중 심장마비로 쓰러져 숨을 거둔 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 갑작스러운 비보는 6일 팬카페를 통해서도 알려졌다. 카페 운영진은 “믿기지 않는 슬픈 소식을 전하게 됐다”며 “저희의 영원한 스타인 조민웅님이 별세하셨다”고 밝혔다. 이어 “집에 혼자 계시다 심장마비로 돌아가셨고, 어머니가 늦게 발견하셔 화장을 하셨다”며 “장례는 절에서 49재로 진행되고 있다”고 전했다.&lt;br&gt;&lt;br&gt;고인과 친분이 있었던 동료 가수들은 자신의 인스타그램에 생전 함께 찍은 사진을 올리며 추모하기도 했다.&lt;br&gt;&lt;br&gt;성악가인 ‘흉스프레소’ 권서경은 “많이 좋아하고 항상 서로를 응원해주던 사랑하는 민웅이 형. 너무 마음이 아파서 정신 못 차릴 정도로 충격이다. 형이 좋아하는 음악 하늘에서 마음껏 해. 삼가 고인의 명복을 빕니다”라는 글을 적었다.&lt;br&gt;&lt;br&gt;가수 미스터붐박스도 고인의 인스타그램에 “우리 형. 곧 보자면서 뭐가 급하다고 그리 갔나”라며 “너무 슬프다. 하늘에서 멋지게 노래하고 있어. 미안하고 사랑해”라는 댓글을 남겼다. 팬들도 “고인의 명복을 빕니다” “너무 안타깝다” 등 댓글을 남기며 애도를 표했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경기도 리튬 사업장 48곳 전수점검서 위반 16건 적발 </title>
+      <link>https://www.chosun.com/national/national_general/2024/07/07/L5PRSLY5FJHR3EQAK76DIDJA54/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/07/L5PRSLY5FJHR3EQAK76DIDJA54/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Jul 2024 05:16:24 +0000</pubDate>
+      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6ZFSMHEKYZCJTJULK7VBKH55EE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도는 지난달 27일부터 이달 4일까지 기후환경에너지국, 소방재난본부, 특별사법경찰단 합동으로 도내 리튬 취급업소 전수를 대상으로 안전점검을 진행했다. /경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도가 화성 아리셀 공장 화재 사고를 계기로 도내 48개 리튬 취급 사업장에 대해 긴급 안전점검을 실시한 결과 위반사항 16건을 적발했다.&lt;br&gt;&lt;br&gt;7일 경기도에 따르면 지난달 27일부터 이달 4일까지 기후환경에너지국·소방재난본부·특별사법경찰단 합동으로 도내 리튬 취급업소 전체에 대해 안전점검을 진행했다.&lt;br&gt;&lt;br&gt;주요점검 내용은 ▲유해화학물질 취급·보관·저장 기준 위반 여부 ▲유해화학물질 관리자 선임 여부 ▲취급시설 안전진단 실시 여부 ▲화재안전 위험여부 ▲위험물 적정관리 여부 등이다.&lt;br&gt;&lt;br&gt;점검 결과 유해화학물질 관련 위반 사항 7건, 소방관련 위반 사항 9건 등 총 16건의 위반 사항이 확인됐다. 이 중 9건은 형사처벌 건에 해당돼 검찰에 송치할 예정이다.&lt;br&gt;&lt;br&gt;화성시 A공장은 현행 화학물질관리법상 종류가 다른 화학 물질은 물질 간 반응성을 고려해 간격을 두게 돼있음에도 화학 물질을 혼합해 보관하다가 적발됐다. 안산시 B공장은 위험물관리법에 따라 지정 수량 이상의 위험물은 저장소에 저장해야 하나 저장소가 아닌 공간에 지정 수량 이상의 위험물을 보관하다가 적발됐다. 평택시 C공장은 소방시설법에 따른 소방시설을 설치하지 않아 적발됐다.&lt;br&gt;&lt;br&gt;경기도 관계자는 “이번 점검에서는 단순한 단속 및 적발 뿐만 아니라 민간 전문가가 참여한 안전분야 컨설팅도 병행해 사업장을 지원했다”면서 “특히, 중‧소규모 사업장의 경우 유해화학물질 등 관리에 애로사항이 있어 향후 지속적인 관리와 지원이 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;경기도는 유사사고 재발방지 대책으로 기후환경에너지국·소방재난본부·민간전문가 등으로 구성된 ‘위험물 취급 사업장 안전점검 및 전문가 자문단’을 발족해 상설화하기로 했다. 이에 따라 자문단은 이달 12일부터 25일까지 리튬과 유사한 금속성물질을 취급하는 사업장 100개소를 대상으로 안전점검을 실시할 계획이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>309회 걸친 ‘파워볼’ 도박한 남성에게 벌금형</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/07/P3VEPQFW6VFTTDUAYRNVWU5PMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/07/P3VEPQFW6VFTTDUAYRNVWU5PMI/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Jul 2024 05:22:03 +0000</pubDate>
+      <content:encoded>불법적인 방식으로 이른바 ‘파워볼’ 도박을 수백차례 한 남성에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CTGM24Z25EX3A2HETGLAQPMMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사10단독 류경진 부장판사는 도박 혐의로 기소된 한모씨에게 벌금 500만원을 선고했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;한씨는 2022년 1월 한 불법 인터넷 도박사이트에 회원가입한 뒤 한씨와 그의 형 계좌를 통해 도박금인 사이버머니로 환전해 상습 도박을 즐겼다.&lt;br&gt;&lt;br&gt;이전부터 도박을 한 한씨는 2021년 10월부터 이듬해 4월까지 약 7개월 동안 총 309회에 걸쳐 1억1249만원을 입금하고 382만원 상당을 환전 받는 방법으로 파워볼 도박을 반복한 혐의를 받았다. 파워볼은 일반볼 5개와 파워볼 1개를 추첨해 선택한 숫자와 일치하거나 숫자 합이 일치하는 경우 일정 당첨금을 지급받는 게임이다.&lt;br&gt;&lt;br&gt;류 부장판사는 “한씨가 자신의 잘못을 반성하고 있는 점, 한씨에게 전과가 없는 점 등을 고려했다”면서도 “도박 기간, 횟수 밑 도박금액 등을 종합해 볼 때 벌금형이 지나치게 무겁다고 보이지 않는다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>9급 공무원 초임 월급, 최저임금 보다 16만원 많아</title>
       <link>https://www.chosun.com/national/labor/2024/07/07/QUIF5CMI5ZEJBLYXQH6JJMEAJA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/07/07/QUIF5CMI5ZEJBLYXQH6JJMEAJA/</guid>
@@ -884,77 +971,6 @@ photo@yna.co.kr
       <content:encoded>검찰이 한국토지주택공사(LH) 공공 발주 건설사업관리용역 입찰 심사 과정에서 이른바 ‘입찰 심사 장사’를 한 혐의를 받는 공기업 직원을 5일 구속 기소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XORTFIWAGSNLZHRLSW5RRFH7UY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검 청사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공정거래조사부(부장 김용식)는 이날 특정범죄가중처벌법상 뇌물 혐의를 받는 공기업 직원 이모(56)씨를 구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면, 이씨는 입찰 심사위원으로 활동할 때 입찰에 참여한 경쟁업체 두 곳으로부터 합계 7000만원의 뇌물을 받고, 더 많은 돈을 제공한 업체에게 1등 점수를 부여한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰은 LH와 조달청이 발주한 건설사업관리 용역 입찰에서 참가업체들이 담합하고 입찰 심사 과정에서 심사위원들에게 청탁 대가로 뇌물을 공여·수수했다고 보고 지난해 8월부터 수사를 이어오고 있다.&lt;br&gt;&lt;br&gt;검찰은 지난 4월 감리업체로부터 현금 5000만원씩을 받은 사립대 교수 박모씨와 정모씨, 시청 공무원 박모씨 등을 구속 기소했다. 이어 5월엔 심사에서 최고점을 주는 대가로 업체로부터 현금 8000만원을 수수한 혐의를 받는 국립대 교수 김모씨를 구속 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>최태원 이혼소송 변호인단에 홍승면 前 고법 부장 합류</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/05/F6Z7FLCD65C47P4C5NYWPH4WBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/05/F6Z7FLCD65C47P4C5NYWPH4WBQ/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 09:35:07 +0000</pubDate>
-      <content:encoded>최태원 SK그룹 회장의 이혼소송 변호인단에 홍승면(사법연수원 18기) 전 서울고법 부장판사가 합류했다.&lt;br&gt;&lt;br&gt;홍 전 부장판사는 5일 최 회장과 노소영 아트센터 나비 관장 간 이혼소송 상고심을 담당하는 대법원에 소송 위임장을 제출했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YGPLRICBY5DEFCVXIJNYLLGZSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍승면 전 서울고법 부장판사. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍 전 부장판사는 판사 시절 대법원 선임재판연구관, 대법원 수석재판연구관, 법원행정처 실장을 역임하는 등 손꼽히는 ‘엘리트 법관’으로 평가받았다. 홍 전 부장판사는 1983년 대입 학력고사에서 수석을 차지해 서울대 법대에 입학했고, 대학 재학 중 사법시험에 합격했다. 사법연수원도 수석으로 수료했다.&lt;br&gt;&lt;br&gt;홍 전 부장판사는 판사 임관 뒤 각급 법원에서 주요 재판 업무를 담당했고, 법원행정처에서 인사제도연구담당관, 사법지원실장 등도 지냈다. 또 ‘판례공보 스터디’ 회장을 12년 간 맡으며 전체 회원 수가 1000명이 넘는 파급력 있는 조직으로 성장시켰다. 조희대 대법원장은 대법관 시절 수석재판연구관으로 근무하는 홍 전 부장판사를 두고 다른 재판연구관들에게 “홍승면에게 배워라”라고 하기도 했던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;홍 전 부장판사는 지난 2월 정기 인사를 앞두고 법원에 사직서를 제출했고, 지난 5월 변호사로 개업했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6PQBY6LNNUVYHSMYBYL5NBAJ64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최태원 SK그룹 회장(왼쪽)과 노소영 아트센터 나비 관장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최 회장 변호인단에는 법원 내 손꼽히는 엘리트 법관 출신 변호사들이 다수 포진하고 있다. 홍 전 부장판사를 포함해 대법원 수석재판연구관 출신 변호사만 세 명이다. 김현석 전 수석재판연구관(현 법무법인 케이에이치엘 변호사)이 1심부터 관여했고, 2심 중간에는 김앤장 법률사무소 소속 유해용 전 수석재판연구관이 추가로 합류했다.&lt;br&gt;&lt;br&gt;한편 최 회장은 2심 패소 이후 법무법인 화우도 추가로 선임했다. 화우는 역시 법원 내 엘리트로 평가받는 이동근 전 서울고법 부장판사를 상고심에 투입했다.&lt;br&gt;&lt;br&gt;반면 노 관장 측은 2심에서 사상 최대 재산청구액을 이끌어 낸 변호사들이 그대로 상고심도 맡을 전망이다. 노 관장 측은 대법원 재판연구관 출신인 김기정 법무법인 율우 변호사, 서울고법 판사 출신인 이상원 법무법인 평안 변호사 등이 재판을 맡고 있다.&lt;br&gt;&lt;br&gt;서울고법 가사2부(재판장 김시철)는 지난 5월 최 회장과 노 관장의 이혼소송 항소심에서 사상 최고액수인 1조 3808억원의 재산분할 판결을 내렸다. 최 회장 측은 이에 상고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“학생 때 도움 받았다” 뉴질랜드 교민 부부, 고려대에 1억 기부</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/05/7ON6WXFL3VHD3NVECASB7M5ZKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/05/7ON6WXFL3VHD3NVECASB7M5ZKY/</guid>
-      <dc:creator>서보범 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 09:17:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/32UMH5KL2VCRFGBTEEDUVEJ5SY.jpg"&gt;&lt;br&gt;&lt;br&gt;뉴질랜드 오클랜드에 거주하는 최형엽·임지영 부부가 모교인 고려대에 1억원을 기부했다.&lt;br&gt;&lt;br&gt;고려대는 지난달 26일 오후 6시(현지시각) 뉴질랜드 오클랜드에서 최형엽·임지영 부부의 장학금 기부식을 가졌다고 5일 밝혔다. 이날 기부식에는 현지에 거주하는 고려대 동문 20여명이 참석했다.&lt;br&gt;&lt;br&gt;최씨와 임씨는 각각 고려대 경영대학 86·88학번 출신으로, 현재 뉴질랜드에서 무역회사를 운영하고 있다고 한다. 이날 기부식에서 최씨는 “학부생 시절 학교로부터 장학금을 받아 많은 도움이 됐다”면서 “감사한 마음에 보답하고자 경영대학 후배들을 위한 장학금을 기부하게 됐다”고 했다. &lt;br&gt;&lt;br&gt;김동원 총장은 “후배들을 위한 성원에 감사드린다”며 “고려대를 빛낼 인재 양성에 소중하게 쓰이도록 하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법무부, 이원석 후임 검찰총장 인선 착수...15일까지 국민 천거</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/05/A5LT7I6WA5DVZMO2XHKPN3FEHE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/05/A5LT7I6WA5DVZMO2XHKPN3FEHE/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 08:23:59 +0000</pubDate>
-      <content:encoded>법무부는 신임 검찰총장 후보자 추천을 위해 검찰총장 후보 추천위원회를 구성했다고 5일 밝혔다. 오는 9월 15일 임기 만료로 퇴임 예정인 이원석 현 총장의 후임 인선에 들어간 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OPX4BL6IRIXCFLUSHQNTI7P34A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이원석 검찰총장이 5일 오전 서울 서초구 대검찰청에 출근하며 취재진의 질문에 답하고 있다. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰총장 후보 추천위원회는 당연직 위원 5명과 비당연직 위원 4명으로 구성된다. 당연직 위원은 배형원 법원행정처 차장, 김영훈 대한변호사협회장, 조홍식 한국법학교수회장, 이상경 법학전문대학원협의회 이사장, 송강 법무부 검찰국장이다. 비당연직 위원으로는 정상명 전 검찰총장, 이진기 성균관대 법학전문대학원 교수, 안수현 한국외대 법학전문대학원장, 김세동 문화일보 논설위원이 위촉됐다. 위원장은 정상명 전 총장이 맡는다.&lt;br&gt;&lt;br&gt;법무부는 또 오는 8일부터 15일까지 국민들로부터 검찰총장 제청 대상자를 천거받는다고 밝혔다. 개인, 법인, 단체 등 누구라도 방문 또는 우편 방식으로 천거서를 제출할 수 있다. 제청 대상자는 법조 경력 15년 이상인 사람이다.&lt;br&gt;&lt;br&gt;법무부 장관은 피천거인을 포함해 검찰총장 제청 대상자로 적합하다고 판단되는 사람을 검찰총장 후보 추천위원회에 심사 대상자로 제시하게 된다. 추천위가 3명 이상의 후보를 법무부 장관에게 추천하면 법무부 장관은 추천 내용을 존중해 검찰총장 후보자를 제청하게 된다.&lt;br&gt;&lt;br&gt;천거서 서식, 피천거인 자격 등은 법무부 홈페이지(&lt;a href="http://www.moj.go.kr/"&gt;www.moj.go.kr&lt;/a&gt;)를 참고하면 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, 유원대 前 총장 ‘자녀 채용 비리’ 압수수색</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/07/05/6S3LZ7N62VDOBGAN4TH3Q7CPAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/07/05/6S3LZ7N62VDOBGAN4TH3Q7CPAM/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 08:33:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EVOHEI2NIUVYJ3Z4QAGJVW6BOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 깃발. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 4년제 사립대인 유원대학교 전 총장의 자녀 채용 비리와 교비 횡령 의혹에 대한 강제수사에 나섰다.&lt;br&gt;&lt;br&gt;5일 본지 취재를 종합하면 청주지검 영동지청은 지난 3일 영동군에 위치한 유원대학교를 압수수색해 관련 서류를 확보했다. 유원대 전 총장 A(60대)씨의 자녀 채용 비리와 교비 횡령 의혹을 확인하기 위한 추가 자료를 확보한 것으로 보인다.&lt;br&gt;&lt;br&gt;검찰은 2022년 3월 교직원 채용 과정에서 A씨가 딸 B씨를 부정 채용하는데 관여한 것으로 보고 수사를 벌이고 있다.&lt;br&gt;&lt;br&gt;당시 B씨는 채용 서류심사에서 지원자 5명 가운데 4순위에 올라 3순위까지 대상인 면접심사를 볼 수 없었다. A씨는 이 과정에서 B씨의 서류심사 점수를 높여 3순위로 면접심사 대상자에 넣었고, 면접심사에는 A씨의 처남이자 B씨의 외삼촌인 교직원이 심사위원으로 참여해 B씨에게 최고 점수를 부여했다. 결국 B씨는 최종 채용됐다.&lt;br&gt;&lt;br&gt;이와 관련해 고발장을 접수한 경찰은 지난해 12월 업무방해 혐의로 A씨와 B씨, 면접 위원 3명 등 총 5명을 검찰에 넘겼다. 또 검찰은 A씨가 연구비를 부적절하게 집행한 혐의에 대해서도 수사하고 있다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “수사 중인 사안이라 구체적인 내용을 말해줄 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/EVOHEI2NIUVYJ3Z4QAGJVW6BOY.jpg?width=3948&amp;height=2564&amp;auth=e91304377fa793b651710f38c2019306c8aeafb4f6ea078e9410157b3fe5d7af&amp;smart=true" type="image/jpeg" height="2564" width="3948">
-        <media:description type="plain">서울 서초구 대검찰청 깃발이 바람에 휘날리는 모습. 2022.8.17/뉴스1 ⓒ News1 임세영 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 임세영 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“미친 여자 프레임 씌워 수익 창출”... ‘나는 솔로’ 출연자가 PD 공개 비판</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/03/7CV5HA4JDNGYLNHYI7QIOU2RCA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/03/7CV5HA4JDNGYLNHYI7QIOU2RCA/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Jul 2024 01:33:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAXKB5NJ35FU7G3O2H7K4BF3CA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘나는 솔로’ 16기 영숙. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;예능프로그램 ‘나는 솔로’ 16기 영숙(가명)이 해당 프로그램 연출자이자 제작사 촌장 엔터테인먼트 대표인 남규홍 PD를 공개 비판하고 나섰다.&lt;br&gt;&lt;br&gt;영숙은 지난 2일 자신의 소셜미디어를 통해 최근 나는 솔로 작가들이 불공정 계약을 주장하고 있는 사실을 언급하며 자신도 방송 출연 당시 계약서를 받지 못했다고 주장했다.&lt;br&gt;&lt;br&gt;영숙은 “내 의사와 상관없이 (나는 솔로 출연 당시) 내 영상을 우리고 우려 썼다”며 “미친 여자 프레임을 씌웠다. 난 악플과 온갖 쌍욕에 심장이 두근거려 집 밖을 못 나갔다”고 했다.&lt;br&gt;&lt;br&gt;돌싱 특집에 출연했던 영숙은 “(출연료) 꼴랑 400만원에 한 아이의 엄마를 사지로 몰며 죽일 듯 수익을 창출했다”며 “저 하나로 끝날 줄 알았는데 일반인을 많은 이들의 질타를 받게 하는 그런 쓰레기 방송을 계속 만드셨다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “내가 본인 딸이라도 그렇게 만들 수 있었을까?”라며 “전 아직도 심장이 두근거리고 눈물만 난다. 본인이 다 뿌린 대로 지금 거두는 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편 영숙이 출연한 ‘나는 솔로’ 16기는 방송 내내 높은 시청률을 기록하며 화제가 됐지만 방송 이후 출연자들끼리의 비방전이 이어졌었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/PRMHZXJWGVDB7GA6ICOXHTM6P4.jpg?width=641&amp;height=361&amp;auth=c318402c8637c8d9cb16f3051a63df20bb66d4c97fbe8e757912aa1dfc5dd22b&amp;smart=true" type="image/jpeg" height="361" width="641">
-        <media:description type="plain">‘나는 솔로’ 16기 영숙. /인스타그램</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>금팔찌 차고 도주한 20대男, 다음날 자수해 “잃어버렸다”</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/05/LWMJDYK3OFGVJEGHAXR4HGHEAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/05/LWMJDYK3OFGVJEGHAXR4HGHEAM/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 08:34:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TJBBKSZOKBAN3LQCMEQI72OECM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 오전 10시50분쯤 전북 군산시 수송동의 한 금은방을 찾은 20대 남성이 순금 20돈 금팔찌를 훔쳐 달아나고 있다. /MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;손님을 가장해 금은방에서 귀금속을 훔쳐 달아난 20대 남성이 절도 혐의로 구속됐다. 그는 범행 뒤 자수했는데 도주 과정에서 훔친 팔찌를 잃어버렸다고 주장했다.&lt;br&gt;&lt;br&gt;5일 전북 군산경찰서는 절도 혐의로 20대 남성 A씨를 구속했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 1일 오전 10시 50분쯤 군산시 수송동 한 금은방에서 금팔찌를 훔쳐 달아난 혐의를 받는다. 순금 20돈이 들어간 약 900만원 상당 제품이었다.&lt;br&gt;&lt;br&gt;당시 손님인 척 금은방에 들어간 A씨는 “팔찌가 어울리는지 보고 싶다” “한번 차보겠다” “무게를 한번 느껴보고 싶다”고 말했다. 그러나 그는 업주에게 팔찌를 건네받아 착용한 뒤 매장 안을 몇 바퀴 돌다가 그대로 밖으로 도주했다.&lt;br&gt;&lt;br&gt;택시를 잡아타고 시내를 벗어나던 A씨는 중간에 하차해 도보와 대중교통으로 충남 보령시까지 갔다. 그런 뒤 범행 이튿날인 2일, 보령의 한 파출소를 찾아가 자수했다. 절도 행각을 벌였던 금은방에서 50여km 떨어진 곳이다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 광주의 한 금은방에서도 비슷한 수법으로 범행한 것으로 드러났다. 생활비를 벌기 위해 범행을 저질렀다고 진술한 A씨는 훔친 팔찌에 대해선 “잃어버렸다”고 주장한 것으로 알려졌다. 경찰은 금팔찌의 행방을 찾는 한편 A씨 여죄를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“중국 급부상, 3국 협력으로 대응하자” 한국·대만·일본 반도체 전문가 서울대서 모였다</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/05/BKEFGKX5RZBAXLWYETEHXBHLVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/05/BKEFGKX5RZBAXLWYETEHXBHLVQ/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 08:26:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RC7Z7YD64ZEPTEORAURUA2WJPA.png"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오전 9시 30분쯤 서울 관악구 서울대학교 우석경제관에서 한국, 미국, 일본의 반도체 관련 전문가 20여명이 '글로벌 반도체 공급망에서 한국, 대만, 일본의 역할 및 경제, 기술, 국가 안보 이슈'를 주제로 대화하기 위해 모인 모습./서울대학교&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미중 반도체 분쟁과 인공지능(AI) 혁명으로 반도체 공급망에 격랑이 이는 가운데 한국, 대만, 일본의 반도체 전문가들이 서울대에 모였다.&lt;br&gt;&lt;br&gt;서울대학교 국가미래전략원은 5일부터 이틀간 ‘글로벌 반도체 공급망에서 한국, 대만, 일본의 역할 및 경제, 기술, 국가 안보 이슈를 주제’로 3국 전문가들이 대화와 토론을 진행한다고 밝혔다. 의제는 크게 반도체, AI, 에너지 산업 부문으로 나뉜다. 반도체 대화는 웬링투 과학기술·민주주의·사회연구센터(DSET)장이, AI 대화는 박종희 서울대 정치외교학부 교수가, 에너지 대화는 히데키 시로야마 도쿄대 교수가 좌장을 맡는다.&lt;br&gt;&lt;br&gt;이날 환영사에서 정철 한국경제연구원장은 “AI의 발전은 방대한 양의 데이터를 빠르게 처리할 수 있는 반도체에 의존하며, 전력 수요를 충족하기 위해서는 다양한 에너지원의 개발과 충분한 공급이 필요하다”며 반도체와 AI, 에너지 안보의 연관성을 설명했다.&lt;br&gt;&lt;br&gt;그러면서 “한국은 메모리 반도체 분야에서 기술력을 바탕으로 최고의 위치를 차지하고, 대만은 AI 반도체를 공급하는 글로벌 허브로서 산업을 주도하고 있다. 또 일본은 반도체 소재 및 장비 분야의 독보적인 전문성을 바탕으로 공급망에서 중요한 역할을 담당한다”며 “한국, 대만, 일본의 3각 기술협력 체계는 가장 탄력적이고 안정적인 공급망을 구축할 것”이라고 3국의 협력을 강조했다.&lt;br&gt;&lt;br&gt;개회사를 맡은 김준기 국가미래전략원장은 “중국의 산업, 기술, 경제적 영향력이 급속히 확대되면서 3국의 전략적 환경은 더욱 복잡해지고 있다”며 “이번 컨퍼런스가 아이디어를 교환하고, 파트너십을 구축하고, 공동의 미래를 보장할 전략을 개발하는 의미 있는 자리가 되길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;한편 서울대 국가미래전략원은 지난 4일 서울대 호암교수회관에서 대만의 싱크탱크인 과학기술·민주주의·사회연구센터(DSET)와 기관 협력체계 구축을 위한 업무협약(MOU)을 체결하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘식당 운영’ 정준하 먹튀 토로… “친절하게 대했는데 도망”</title>
       <link>https://www.chosun.com/national/national_general/2024/07/05/XXZ6MSE74BABDM2QVNYBYQOLNY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/05/XXZ6MSE74BABDM2QVNYBYQOLNY/</guid>
@@ -965,16 +981,6 @@ photo@yna.co.kr
       <media:content url="https://www.chosun.com/resizer/v2/YNZ25LJIDQZNVEQCWWFEJ7X5U4.jpg?width=720&amp;height=923&amp;auth=368fe85b23529755ab2eeeb5cb67b5cf855b9be47ba9ba3bc5d22be19e4e4319&amp;smart=true" type="image/jpeg" height="923" width="720">
         <media:description type="plain">정준하</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>탄핵 소추된 검사, 이성윤‧서영교‧최강욱 명예훼손 고소</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/05/RJIDS4CN6VDXPFTS56NZ4G5BJQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/05/RJIDS4CN6VDXPFTS56NZ4G5BJQ/</guid>
-      <dc:creator>이민준 기자, 서보범 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 07:25:04 +0000</pubDate>
-      <content:encoded>5년 전 검찰청사 내 회식을 마치고 분변을 했다는 의혹을 근거로 야당이 탄핵소추안을 발의한 박상용 부부장검사가 5일 해당 의혹을 제기·확산한 이성윤‧서영교 더불어민주당 의원, 최강욱 전 더불어민주당 의원 등 8명을 허위사실 적시에 의한 명예훼손 등 혐의로 고소했다. 이 의원이 지난달 국회 법제사법위원회에서 처음 제기한 이 의혹을 근거로 민주당은 지난 2일 박 검사에 대한 탄핵소추안을 발의했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EVOHEI2NIUVYJ3Z4QAGJVW6BOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청 깃발이 바람에 휘날리는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 검사 측 대리인은 이날 서울경찰청에 이‧서 의원, 최 전 의원, 강미정 조국혁신당 대변인 및 유튜브 진행자 4명 등 총 8명에 대한 고소장을 접수했다고 밝혔다. 박 검사 측은 “이성윤 의원은 지난달 14일 법사위에서 박 검사가 울산지검에서 열린 회식 행사를 마치고 청사에 분변을 했다는 취지로 허위사실을 발언했다”며 “같은 달 17일엔 유튜브 ‘장윤선의 취재편의점’에서도 같은 내용의 허위 사실을 발언해 유포했다”고 고소장에 적었다.&lt;br&gt;&lt;br&gt;민주당은 지난 2일 박 검사 등 4명에 대한 탄핵소추안을 발의하면서, 박 검사에 대한 탄핵 사유로 ‘대변 사건’을 적시했다. 박 검사가 ‘울산지검 검사로서의 위법행위’를 저질렀다면서 “2019년 1월 8일 저녁 울산지검 청사 내 간부식당에서 술을 마신 후 울산지검 청사 민원인 대기실 바닥에 설사 형태의 대변을 싸는 등 행위를 통해 공용물을 손상했다”고 적은 것이다.&lt;br&gt;&lt;br&gt;서영교 의원에 대해선 “지난달 17일 더불어민주당 최고위원회의에서 이 의원의 발언을 언급하며 해당 검사의 이름이 박상용 검사라고 밝혔다”며 “허위 사실 발언을 강화하고, 유포했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XSUYOR3QSSEKBQ5HZCWQCDTCIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이성윤 더불어민주당 의원/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 최 전 의원, 강미정씨, 강성범씨에 대해선 “서 의원이 박 검사의 실명을 언급한 것을 근거로 지난달 17일 유튜브 ‘강성범TV’에서 박 검사의 사진을 띄운 뒤 ‘박 검사가 울산지검 청사에 분변을 한 사람이고, 이 사실이 이 의원에게 알려지자 도피성 유학을 떠났다’는 취지의 발언을 했다”고 지적했다.&lt;br&gt;&lt;br&gt;유튜브 ‘박시영TV’를 운영하는 박시영씨와, 해당 채널에 출연한 최 전 의원, 신유진씨에 대해선 “고소인이 만취 상태에서 분변을 했고, 이것이 검찰의 지저분하고 왜곡된 음주 문화를 보여주는 예”라고 허위 발언을 한 혐의가 있다고 적시했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IE6PSQOT3TYW7AIWYQ63HABUVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;발언하는 서영교 의원./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 검사 측은 “최 전 의원과 김용민씨는 유튜브 ‘스픽스’에 출연해 “박 검사가 일터에 대한 혐오감과 이중인격적 결함으로 인해 울산지방검찰청 청사에 분변을 한 것”이라는 취지로 허위발언을 했다”고도 적었다.&lt;br&gt;&lt;br&gt;박 검사 측은 “이 의원은 지난달 7일 이화영(전 경기도 평화부지사)씨에게 중형이 선고된 지 일주일만에 박 검사를 ‘울산지검 분변’ 사건의 당사자라고 지목했다”며 “이후 피고소인들은 일제히 유튜브를 통해 허위사실을 유포했다”고 했다. 이어 “박 검사는 같은 달 20일 울산지검의 회식 당시 사진 및 알리바이 등 객관적인 증거와 함께 관련이 없다는 사실을 분명히 밝혔다”며 “피고소인들은 아랑곳하지 않고 탄핵소추안을 발의했다”고도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ETFAHZC4HDMAFSCIITSZ52725Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최강욱 전 더불어민주당 의원 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 검사 측은 “이 의원에게 사과와 시정조치를 요구했지만, 오히려 검사들의 탄핵 반대 입장에 ‘대든다, 오만하다, 반성하라’고 호통만 쳤다”며 “울산지검 사건의 당사자가 박 검사라는 점에 대한 증거는 제시하지 못했다”고 했다. 이어 “이 의원의 확인되지 않은 발언, 서 의원의 실명 공개 이후 허위사실이 유포돼 박 검사의 명예가 심각하게 훼손됐다”며 “숙고 끝에 단호한 법적 조치를 취하기로 결정한 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/VR4GTCAWIJDJBNQIGTWCJUROYI.jpg?width=1354&amp;height=761&amp;auth=f16132d9ffccd3ef1c8662c2487b5b33947d9e798b8817e25cca703552149847&amp;smart=true" type="image/jpeg" height="761" width="1354"/>
     </item>
     <item>
       <title>아파트 화단서 비닐봉지에 든 5000만원 발견…경찰 수사 </title>
