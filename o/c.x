@@ -13,6 +13,19 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘10대 근로자 사망’ 전주페이퍼…유족과 22일 만에 장례절차 등 합의</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/07/M4Z2SIURZFAQXAM75556W2W3RY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/07/M4Z2SIURZFAQXAM75556W2W3RY/</guid>
+      <dc:creator>전주=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Jul 2024 10:01:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A46JZO3JEZNWDHN5EIKO3U4QDY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전주페이퍼 공장에서 일하다 숨진 19세 청년의 유족들이 지난 4일 전북자치도 전주시 전주페이퍼 공장 앞에서 단식농성을 하고 있다.  /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홀로 기계점검을 하다 숨진 10대 청년 근로자의 장례절차가 22일 만에 치러진다. 10대 근로자의 유족들은 진상규명과 재발방지대책 마련 등을 요구하며 단식농성 중이었다.&lt;br&gt;&lt;br&gt;전주페이퍼와 사망 근로자 유족 측은 7일 양측이 장례절차 등에 대한 합의를 마쳤다고 밝혔다. 지난달 16일 전북 전주시에 있는 제지공장 전주페이퍼 3층 설비실에서 홀로 기계점검을 하던 근로자 A(19)씨가 숨진 채 발견됐다. A씨는 6일 동안 멈춰있던 기계를 혼자 점검하다 숨졌다.&lt;br&gt;&lt;br&gt;유족은 “A씨가 숨진 장소에서 종이 원료 등 찌꺼기가 부패해 황화수소 등 유독가스가 발생할 수 있었고, A씨가 홀로 작업하면서 방치돼 사망했다”며 진상규명과 공식 사과를 요구해왔다. 사측은 사고 이튿날 고용노동부 등이 진행한 합동조사에서 황화수소가 검출되지 않았고 A씨가 맡은 업무가 2인 1조 작업이 필수적이지 않다는 입장이었다.&lt;br&gt;&lt;br&gt;하지만 7일 사측이 사고현장에서 황화수소를 재측정한 결과 4 가량의 황화수소가 검출됐다. 한국산업안전보건공단에 따르면 밀폐공간에서 2∼5 농도의 황화수소에 약 30분간 노출되면 몇 시간 내에 호흡곤란, 어지럼증 등이 나타날 수 있다. 500~600의 황화수소 농도에서 1시간 이내 혹은 30분 이상 노출되면 사망할 수도 있다.&lt;br&gt;&lt;br&gt;이번 재조사는 진상조사 및 재발방지 대책을 요구하는 유족 뜻에 따라 이뤄졌다. 전주페이퍼 측은 “재조사하러 갔던 회사 관계자 등이 사고 현장에 1시간 가량 머물렀는데 어지럼증 등은 현재까지 없기 때문에 인체에 해를 미치는 수준은 아니라고 보고 있다”면서도 “황화수소가 소량이라도 검출된 만큼 사고원인 등에 대해 논의할 것”이라고 했다.&lt;br&gt;&lt;br&gt;또 사측은 유족과 합의를 전하면서 “회사 관계자들이 장례식에 참석해 고인에 대한 애도와 함께 마지막 길을 배웅할 계획”이라며 “이번 사고를 계기로 다시는 안타까운 사고가 일어나지 않도록 안전관리에 온 힘을 쏟겠다”고 했다.&lt;br&gt;&lt;br&gt;유족들은 합의와 함께 단식농성도 마쳤다. 유족들은 “임직원들이 회사 앞에 차려진 분향소에서 분향하는 등 사과하고 고인에 대한 예우를 갖췄다”며 “재발 방지 대책 등 사측이 책임질 수 있는 부분에 대해서도 책임지기로 했다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/IYDAZEXWEBJKXJWKA5V2OSUNM4.JPG?width=6342&amp;height=3486&amp;auth=af8a8b9be2d387fb76c26aa02f82cfb3f3178b50c85b9c18366009c2784f7a9c&amp;smart=true" type="image/jpeg" height="3486" width="6342">
+        <media:description type="plain">(전주=뉴스1) 유경석 기자 = 전주페이퍼 공장에서 일하다 숨진 19세 청년의 유족들이 4일 전북자치도 전주시 전주페이퍼 공장 앞에서 단식농성을 하고 있다. 2024.7.4/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(전주=뉴스1) 유경석 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>법원 “6·25전쟁 中 함평 민간인 총살 사건, 국가가 배상해야”</title>
       <link>https://www.chosun.com/national/court_law/2024/07/07/QOSOL3HNOVCRDJLVAMB7IIAMDI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/07/QOSOL3HNOVCRDJLVAMB7IIAMDI/</guid>
@@ -960,15 +973,6 @@ photo@yna.co.kr
       <description/>
       <pubDate>Fri, 05 Jul 2024 09:25:02 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U2PXWAYDCBMYPDYMINACHGVG4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;퇴직 이후 경찰관들의 인사 청탁을 들어주는 대가로 금품을 수수했다는 의혹을 받고 있는 전직 치안감이 5일 오전 대구시 수성구 대구지방법원에서 열린 영장실질심사(구속 전 피의자심문)를 마친 후 취재진의 질문에 답하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인사 청탁을 들어주는 대가로 수천만원을 받은 전직 경북경찰청장 A씨가 구속됐다.&lt;br&gt;&lt;br&gt;5일 대구지법 정석원 영장 전담 판사는 제삼자뇌물취득 혐의를 받고 있는 전 치안감 A씨에 대한 구속 전 피의자 심문(영장실질심사)에서 검찰이 청구한 구속 영장을 발부했다. 정 판사는 “(A씨가)증거 인멸 및 도주 우려가 있다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 경찰에서 퇴직한 뒤 2021년부터 지난해까지 경찰관들의 인사 청탁을 들어주는 대가로 인사 브로커 B씨에게 3500만원 상당을 받은 혐의를 받고 있다. B씨 또한 전직 경찰로서 현직 경찰관들의 인사 청탁을 중개한 혐의를 받고 있다. A씨는 이날 영장실질심사를 마친 뒤 취재진에게 “(돈을 받은 것을)인정한다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 대구지검은 지난해 7월 인사 청탁 대가로 돈을 주고 받은 전직 경찰관 2명에 대한 수사에 착수했다. 검찰은 이들을 수사하는 과정에서 인사 브로커 역할로 B씨가 관여한 또다른 인사 비리를 적발해 현직 경찰관 3명을 압수수색했다.&lt;br&gt;&lt;br&gt;현재 이 사건과 관련해 A씨와 B씨를 포함한 전·현직 경찰관 7명이 수사를 받고 있는 것으로 알려졌다. 검찰은 향후 인사 비리에 추가로 연루된 경찰관들이 있는지 수사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, 'LH 감리 담합' 뇌물 받은 심사위원 구속 기소</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/05/4LFS4DL4TFD5BHY5W4PNMKGE4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/05/4LFS4DL4TFD5BHY5W4PNMKGE4M/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jul 2024 09:27:51 +0000</pubDate>
-      <content:encoded>검찰이 한국토지주택공사(LH) 공공 발주 건설사업관리용역 입찰 심사 과정에서 이른바 ‘입찰 심사 장사’를 한 혐의를 받는 공기업 직원을 5일 구속 기소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XORTFIWAGSNLZHRLSW5RRFH7UY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검 청사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공정거래조사부(부장 김용식)는 이날 특정범죄가중처벌법상 뇌물 혐의를 받는 공기업 직원 이모(56)씨를 구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면, 이씨는 입찰 심사위원으로 활동할 때 입찰에 참여한 경쟁업체 두 곳으로부터 합계 7000만원의 뇌물을 받고, 더 많은 돈을 제공한 업체에게 1등 점수를 부여한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰은 LH와 조달청이 발주한 건설사업관리 용역 입찰에서 참가업체들이 담합하고 입찰 심사 과정에서 심사위원들에게 청탁 대가로 뇌물을 공여·수수했다고 보고 지난해 8월부터 수사를 이어오고 있다.&lt;br&gt;&lt;br&gt;검찰은 지난 4월 감리업체로부터 현금 5000만원씩을 받은 사립대 교수 박모씨와 정모씨, 시청 공무원 박모씨 등을 구속 기소했다. 이어 5월엔 심사에서 최고점을 주는 대가로 업체로부터 현금 8000만원을 수수한 혐의를 받는 국립대 교수 김모씨를 구속 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘식당 운영’ 정준하 먹튀 토로… “친절하게 대했는데 도망”</title>
