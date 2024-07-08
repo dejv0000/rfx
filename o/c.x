@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경찰청장 “고령 아닌 고위험운전자, 조건부 면허 검토”</title>
+      <link>https://www.chosun.com/national/2024/07/08/LI5DRH6EXFAN5NB5YKE3BTRWSY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/07/08/LI5DRH6EXFAN5NB5YKE3BTRWSY/</guid>
+      <dc:creator>주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 08 Jul 2024 13:23:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XKAM25B5IDZSCX7E3NOQWJ4HEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 밤 서울 중구 시청역 부근에서 한 남성이 몰던 차가 인도로 돌진해 최소 13명의 사상자가 발생했다. 이번 사고의 가해 차량이 현장에서 견인되고 있다. 2024.7.2/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1일 밤 9명이 숨지고 7명이 다친 서울 시청역 역주행 참사와 관련, 윤희근 경찰청장은 8일 “연령과 관계없이 ‘고위험 운전자’를 대상으로 한 조건부 운전면허 제도 도입을 검토 중”이라고 말했다. 윤 청장은 이날 경찰청 기자간담회에서 이 제도를 위한 연구·개발을 진행 중이라며 이같이 밝혔다. 질병·장애 등으로 신체 인지 능력이 현저히 낮아져 사고 위험이 높은 고위험 운전자의 야간이나 고속도로 운전 등을 제한하겠다는 것이다.&lt;br&gt;&lt;br&gt;앞서 정부는 지난 5월 교통사고 사망자를 줄이기 위해 고령자에 대한 ‘조건부 운전면허’ 도입을 검토한다는 대책을 내놨었다. 하지만 고령 운전자의 이동권을 과도하게 침해한다는 지적에 이를 철회했다. 현재는 만 75세 이상 고령 운전자들의 운전면허 갱신 주기를 3년으로 하고, 면허를 갱신하려면 인지능력 검사, 교통 안전 교육을 의무적으로 받도록 하고 있다. 윤 청장은 “초기에 단순히 연령으로 제한해 차별을 둘 것처럼 비쳤으나 전혀 그렇지 않다는 점을 강조드린다”고 했다.&lt;br&gt;&lt;br&gt;윤 청장은 시청역 역주행 참사로 제기된 보행자 교통사고 대책과 관련해선 “지자체 등과 협의해 보행자 교통사고 우려가 크고 안전 확보가 필요한 곳에 철제나 나무로 된 방호 울타리를 강화하는 사업을 계획 중이고 일부 진행하고 있다”고 했다. 그러면서 “일방통행 도로와 관련해서는 일방통행이라는 인지도를 높이기 위한 진입 금지 안전 표지 등 시설물을 확충하고 홍보를 강화할 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편 경찰은 시청역 역주행 사고 피의자 차모(68)씨에 대한 추가 체포영장 계획에 대해 “현재로서 없다”고 밝혔다. 앞서 경찰은 차씨에 대해 체포영장을 신청했으나 법원은 “출석에 응하지 않을 이유가 있다고 단정하기 어렵다”며 기각했다. 경찰은 차씨 건강 상태에 대해 “(차씨의 갈비뼈가) 부러졌고, 기흉이 있으며, 폐에 피가 고여서 당분간은 퇴원이 안 된다”며 “동승자(차씨 아내) 조사는 추가 조사가 필요하지 않나 생각한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희 여사 측 “검찰 조사에 협조...구체적 방식 제안 받은 건 없어”</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/08/P2OJYD5275GHDB34XCJZMVND54/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/08/P2OJYD5275GHDB34XCJZMVND54/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 08 Jul 2024 11:31:58 +0000</pubDate>
+      <content:encoded>검찰이 윤석열 대통령의 배우자 김건희 여사의 ‘디올 백 수수’ 의혹을 수사하는 것과 관련해, 김건희 여사 측이 “검찰 조사에 최대한 협조하겠다”는 입장을 8일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V24ALG524EQQ4B2EVUUAQH4GVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 배우자 김건희 여사가 지난달 10일 오전 경기 성남시 서울공항에 도착해 윤 대통령과 함께 관용차에서 내리고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 여사 측 법률 대리인은 이날 본지 통화에서 “조사가 필요하다면 최대한 협조할 생각”이라고 했다. 다만 그는 “검찰이 최근 김 여사 측과 소환 일정 조율에 착수한 사실은 없다”며, “법률가로서 처벌규정이 존재하지 않는 행위(디올 백 수수)에 대한 소환조사 등은 법적으로 부적절할 수 있음을 검찰에 밝힌 것”이라고 했다. 이어 “검찰 측은 일반적인 조사방식에 대해 설명한 것”이라며 “구체적으로 조사 여부 및 조사 방식을 제안 받은 바는 없다”고 했다.&lt;br&gt;&lt;br&gt;법조계에선 김 여사에 대한 검찰 조사까지는 더 시간이 걸릴 것이란 전망이 나온다. 현행 청탁금지법에 따르면 김 여사는 ‘공직자의 배우자’ 신분으로, 별도의 처벌 규정은 없다.&lt;br&gt;&lt;br&gt;한편, 김 여사 측은 디올 백을 제공한 최재영 목사와의 카카오톡 대화 내역 일체를 제출하는 등 수사에 협조하고 있는 것으로 알려졌다. 이 내역에는 최 목사가 2022년 1월 말 “동향이신 것 같다”며 김 여사에게 처음 접근한 뒤 이재명 전 민주당 대표와 조국 전 조국혁신당 대표, 문재인 전 대통령의 부인 김정숙 여사를 비방하며 김 여사에게 접촉을 시도한 정황이 담긴 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 의혹을 수사하는 서울중앙지검 형사1부(부장 김승호)는 지난 3일 대통령실 유모 행정관을 소환해 조사하는 등 수사에 속도를 내고 있는 것으로 알려졌다. 김 여사가 운영하는 코바나콘텐츠의 직원 출신인 유 행정관은 최 목사가 2022년 9월 김 여사에게 카카오톡으로 명품 가방 사진을 보내며 접견을 거듭 요청하자 “여사님이 시간을 내 보시겠다고 하신다”며 일정을 조율한 인물이다. 수사팀은 지난달 19일에도 김 여사를 보좌하는 대통령실 조모 행정관을 소환 조사한 바 있다.&lt;br&gt;&lt;br&gt;한편, 김 여사가 가담했다는 의혹이 제기된 ‘도이치모터스 주가 조작’ 의혹을 수사하는 서울중앙지검 반부패수사2부는 작년 여름 김 여사를 상대로 2차 서면조사를 진행한 것으로 이날 전해졌다. 김 여사 측은 이에 대한 답변서를 제출했는데, 당시 수사팀에선 답변이 충분하지 않다고 판단한 것으로 알려졌다.  김 여사는 2021년 12월 검찰에 한 차례 서면 진술서를 제출한 바 있다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“두바이 초콜릿 재고없다”던 편의점 알바, 중고거래 현장에?  </title>
+      <link>https://www.chosun.com/national/national_general/2024/07/08/5PY32H377BES7D6YMLN7ICFTA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/08/5PY32H377BES7D6YMLN7ICFTA4/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 08 Jul 2024 11:44:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XAKKN7ILY2HHYRKGCWYQNLKONU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/유튜버 홍사운드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 편의점 CU에서 지난 6일 선보인 ‘두바이 초콜릿’의 초도 물량이 동난 가운데, 한 아르바이트생이 재고를 숨긴 뒤 제품에 웃돈을 붙여 중고로 판매했다는 주장이 나왔다.&lt;br&gt;&lt;br&gt;구독자 179만명을 보유한 먹방 유튜버 ‘홍사운드’는 지난 7일 “CU 두바이 초콜릿 구하려다가 소름 돋았다”며 이 같이 전했다. 홍사운드에 따르면, 그는 두바이 초콜릿을 구하기 위해 CU 앱을 통해 재고를 확인했고, 재고 8개가 남아 있다고 뜨는 편의점으로 재빠르게 향했다.&lt;br&gt;&lt;br&gt;홍사운드는 이 편의점에 도착 후 아르바이트생에게 “두바이 초콜릿 있느냐”고 물었다. 그런데 이 아르바이트생은 “도대체 어디에 재고가 있다고 뜨는 거냐”며 되물었다고 한다. 홍사운드는 CU앱을 켜서 직접 재고가 남아있음을 확인시켜 줬으나, 아르바이트생으로부터 “이상하다. 왜 자꾸 저렇게 뜨지? 현재 갖고 있는 재고는 없다”는 말을 들었다고 했다.&lt;br&gt;&lt;br&gt;그는 인근 편의점을 2시간 동안 돌아다녔으나 두바이 초콜릿을 구하지 못했고, 결국 중고거래 앱 ‘당근’을 이용하기로 했다. CU에서 판매되는 두바이 초콜릿의 정가는 4000원이지만 당근에선 2000원가량 웃돈을 주고 6000~8000원에 거래되고 있었다.&lt;br&gt;&lt;br&gt;홍사운드는 6000원에 구매하기로 한 뒤 판매자를 만나러 갔는데, 그곳에서 “재고가 없다”고 했던 편의점 아르바이트생을 만났다고 했다. 그는 “거래하러 갔더니 (판매자가) 아까 재고 많이 떠 있던 편의점에서 1분 떨어진 곳을 거래 장소로 잡더라”며 “그 아르바이트생이 초콜릿을 들고나오더라. 너무 소름 돋았다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VOPJ2UVEUWZG6ARV4AJFKIGEX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 서울의 한 CU편의점에 '두바이 스타일 초콜릿'이 진열돼 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;두바이 초콜릿은 아랍에미리트 두바이 ‘픽스 디저트 쇼콜라티에’라는 업체가 만든 것으로, 초콜릿에 피스타치오 스프레드와 카다이프(중동 지역에서 즐겨 먹는 얇은 국수)를 넣은 것이 특징이다. 다만 CU에서 만든 두바이 초콜릿은 카다이프 수급이 어려워 한국식 건면과 피스타치오 분말을 넣었다.&lt;br&gt;&lt;br&gt;CU가 유통업계 처음으로 두바이 스타일 초콜릿을 판매한다는 소식에 판매 개시일인 6일에는 상당수 점포에서 이 제품을 구매하려는 오픈런 현상이 빚어졌다. CU의 자체 앱은 이용자가 몰리면서 한 때 접속 대기가 걸렸다. 품귀 현상을 빚으면서 중고거래 사이트에는 정가의 2~3배 웃돈을 붙여 판매하는 게시글도 올라왔다.&lt;br&gt;&lt;br&gt;CU는 이날 하루 만에 초도 물량 20만 개가 모두 소진됐다고 밝혔다. CU 두바이 초콜릿은 수요일과 토요일마다 점포에 입고된다.&lt;br&gt;&lt;br&gt;편의점 업계는 두바이 초콜릿 출시에 열을 올리고 있다. 세븐일레븐은 실제 카다이프와 피스타치오 스프레드를 이용한 ‘두바이 카다이프 초콜릿’을 9일부터 사전 예약받을 예정이다. GS25와 이마트24도 이달 중 관련 제품을 선보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>호우에 옥천서 실종된 50대 숨진 채 발견</title>
+      <link>https://www.chosun.com/national/incident/2024/07/08/PRVODMUFONDRNNISQX5UV3PFSI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/08/PRVODMUFONDRNNISQX5UV3PFSI/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 08 Jul 2024 11:36:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BSUK5VWJMNGZRO26FOS42IMBEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오전 충북 옥천군의 한 주택 뒤편 산비탈면에 설치된 축대가 무너져 내렸다. 소방당국이 현장에서 실종신고 된 50대를 찾고 있는 모습./충북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;호우 경보가 발효된 충북 옥천에서 산 비탈면이 무너지면서 실종됐던 50대 남성이 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;8일 충북소방본부에 따르면 이날 오전 8시43분쯤 옥천군 옥천읍의 한 주택 뒤 산 비탈면에 설치한 축대가 무너져 50대 남성 A씨가 실종됐다는 신고가 접수됐다. 신고를 접수한 소방당국은 11시간의 수색 끝에 숨진 A씨를 발견했다.&lt;br&gt;&lt;br&gt;해당 축대는 높이 4m에 길이 30m가량인데, 이날 내린 비에 약 20m가량이 유실되며 약 300t가량의 토사가 흘러내린 것으로 알려졌다. 이 때문에 소방당국은 A씨에 대한 수색 작업에 어려움을 겪었다. 옥천 지역에는 한때 호우 경보가 발효됐으며 전날 오후 9시부터 현재까지 180㎜ 이상의 많은 비가 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 시청역 유족에 80만원 청구… 운구업체 “문제 있으면 처벌받겠다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/08/VCARN2YLJNC3JBR4ZNSQEFN4WA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/08/VCARN2YLJNC3JBR4ZNSQEFN4WA/</guid>
+      <dc:creator>강우석 기자, 김보경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 08 Jul 2024 11:09:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SL6EXUCJGFK5BPHHGO4AZDQZ24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 서울 시청역 인근에서 있었던 차량 역주행 사고 현장에 출동한 소방당국이 현장을 수습하고 있다. 이 사고로 피해자 9명이 사망하고 6명이 다쳤다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시청역 역주행 사고 피해자들의 시신을 수습하고 임시 안치실까지 이송한 한 운구업체가 피해자 유족들에 80만원 가량의 비용을 청구했다는 글이 온라인 커뮤니티에 게시되면서 이 운구업체의 비용 처리 절차가 논란이 되고 있다. 유족들의 심정을 세심하게 고려하지 않았다는 것이다. 해당 업체는 유족들에 요금 청구를 한 것이 맞냐는 본지 질문에 “답변할 수 없다”며 관련 답변을 일절 거부했다.&lt;br&gt;&lt;br&gt;지난 5일 한 온라인 커뮤니티 게시판에는 ‘현장 수습비를 가족들이 내는 게 맞나요?’ 라는 제목의 글이 게시됐다. 부상자가 아닌 사망자의 경우 원칙적으로 119구급차가 이송하지 않고 있어서 사설 구급업체를 불러야 하는데, 당시 시청역 사고 현장에서 시신을 이송한 사설 업체 중 한 곳이 유족들에게 80만원의 이송비를 청구했다는 것이다.&lt;br&gt;&lt;br&gt;이 글이 온라인 상에서 퍼지면서 ‘절차상 어쩔 수 없다’ ‘도의상 옳지 못하다’는 의견이 맞섰다. 현재 해당 글은 삭제된 상태다.&lt;br&gt;&lt;br&gt;해당 게시글에 등장하는 업체 측은 본지와의 통화에서 요금 청구 사실이나 절차 관련 질문에 답변을 일절 거부했다. 업체 관계자는 “문제가 있으면 처벌을 받겠다”, “잘못한 부분이 있으면 경찰 측과 이야기 하겠다”고 답했다. 이 업체는 특수여객을 운용하는 운구업체로, 법에 따르면 의사가 사망선고를 한 이후에는 특수여객만 시신을 운구할 수 있다. 따라서 빈소가 마련된 병원으로 이송할 때 시신을 운구한 운구업체가 그 비용을 청구했을 가능성이 있다.&lt;br&gt;&lt;br&gt;그러나 이날 시신을 이송한 다른 업체 관계자는 “비용 청구는 하지도 않았을 뿐더러 이번 경우에는 (비용이) 절차상 사설 구급업체 몫이 아니다”라고 했다. 현장에 출동했던 또 다른 업체도 “보험사의 배상 가능 금액을 통해 청구 금액을 조율하는 절차가 우선 돼야 한다”며 “아직 비용을 청구하지 않았다”고 했다.&lt;br&gt;&lt;br&gt;한편, 이번 논란으로 사고 현장에서 사망자 이송에 대한 정해진 절차나 금액 등이 제대로 마련돼있지 않은 점도 문제로 지적되고 있다. ‘응급의료에 관한 법률 시행규칙’에 제시된 ‘이송처치료의 기준’을 보면 응급환자를 이송할 때 일반구급차와 특수구급차가 이송 거리에 따라 요금을 산정하는 방식을 규정해두고 있다. 하지만 응급환자의 범주에 사망자가 포함되지 않기 때문에 사설업체가 자체적으로 금액을 산정하고 있다는 것이다.&lt;br&gt;&lt;br&gt;사고 현장마다 사망 피해자 양상이 다르니 요금 기준을 한 가지로 책정하기 어렵다는 목소리도 나온다. 한 사설구급업체에서는 “추락사나 사고사의 경우 시신을 수습하면서 출동한 구급업체가 사고 현장도 함께 수습한다”면서 “상황에 따라 사후 처리 방식이나 정도가 다르기 때문에 요금을 하나로 정하기는 어렵다”고 설명했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이재명 위증교사 재판, 9월 30일 결심...이르면 10월 말 선고</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/08/P6MPZ55SNRHPRHT3HNRXAJY374/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/08/P6MPZ55SNRHPRHT3HNRXAJY374/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 08 Jul 2024 10:15:50 +0000</pubDate>
+      <content:encoded>이재명 전 더불어민주당 대표의 ‘위증 교사’ 1심 재판이 9월 30일 마무리된다. 작년 10월 기소된 이후 약 1년 만이다. 보통 결심(結審) 공판 이후 선고까지 빠르면 한 달 정도 걸리는 걸 감안하면, 이르면 10월 말 선고가 나올 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YBHLGUKDJMEZXV2VQR7LHUJXSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 전 민주당 대표가 8일 오후 서울 서초구 서울중앙지법에서 열리는 '위증교사 혐의' 재판에 출석하기 위해 법정으로 향하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 전 대표의 위증 교사 사건을 심리 중인 서울중앙지법 형사33부(재판장 김동현)는 8일 증인 신문을 끝낸 후 이 전 대표 측 변호인에게 “9월 30일에는 최후변론을 할 수 있게 해달라”고 했다. 재판부는 앞으로 3번의 공판을 더 거친 후, 오는 9월 30일 이 전 대표의 최후 진술과 검찰의 구형 의견을 듣는 결심 공판을 열기로 했다.&lt;br&gt;&lt;br&gt;이 전 대표는 2018년 공직선거법 위반 혐의로 기소돼 재판을 받을 때 거짓 증언을 요구한 혐의(위증 교사)로 기소돼 재판을 받고 있다. 이 전 대표는 2002년 최철호 KBS PD와 함께 검사를 사칭해 ‘분당 백궁 파크뷰 의혹’을 취재했다가 벌금 150만원을 확정받았다.&lt;br&gt;&lt;br&gt;이와 관련해 이 전 대표는 2018년 경기지사 선거 방송 토론회에서 “PD가 사칭하는데 옆에 있다가 누명을 썼다”며 허위 사실을 말해 기소됐다. 이 재판 과정에서 이 전 대표는 김병량 전 시장의 비서였던 김진성씨에게 거짓 증언을 요구한 사실이 드러나 다시 기소됐다.&lt;br&gt;&lt;br&gt;검찰은 김진성씨에게 수차례 전화를 걸어 “김병량 전 시장과 KBS 사이에 나를 검사 사칭 사건의 주범으로 몰기로 한 협의가 있었다”고 해달라고 보고 있다. 하지만 이 전 대표 측은 혐의를 전면 부인 중이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>현직 프로야구 선수, 여자친구 폭행 혐의로 입건</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/08/FMQYDE6TNZDYLNEEEP3DIUQMBI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/08/FMQYDE6TNZDYLNEEEP3DIUQMBI/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 08 Jul 2024 11:10:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FTO64BTYOQVXQ7I5G3IRCC3CWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현직 프로야구 선수가 음식점에서 여자친구를 폭행한 혐의로 경찰에 입건됐다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 프로야구 선수 A씨를 폭행 혐의로 입건했다고 8일 밝혔다. 경찰은 조만간 A씨를 소환해 조사할 방침이다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 지난 7일 오후 10시쯤 서울 강남구의 한 식당에서 폭행 신고가 접수됐다. 신고자는 A씨의 여자친구인 20대 여성 B씨였다. B씨는 경찰에 “A씨에게 이별을 통보하자 갑자기 자신을 땅바닥에 넘어뜨리고 폭행했다”고 주장하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 현재 서울 소재 모 구단 소속 선수로 활약 중이다. 그러나 A씨는 B씨 주장과는 달리 “다툼은 있었지만, 폭행한 적은 없다”며 혐의를 부인하고 있는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨는 현장에서 귀가 조치된 것으로 알려졌다. 경찰은 곧 A씨를 대상으로 사건 경위 등을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구지검, 해병대원 사망사건 관련 수사팀 구성 마무리</title>
+      <link>https://www.chosun.com/national/regional/2024/07/08/TAW74S5ZTNA2JLLZSRAUYLOC5I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/08/TAW74S5ZTNA2JLLZSRAUYLOC5I/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 08 Jul 2024 10:48:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PAWEVON5KV5RFB7PNMCSSNW6WE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지검 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구지검은 해병대원 사망사건과 관련해 업무상과실치사 혐의로 송치된 해병대 현장 지휘관 수사를 담당할 수사팀 구성을 마쳤다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;해당 사건을 수사한 경북경찰청은 이날 업무상과실치사 혐의로 현장지휘관 6명에 대한 사건자료를 대구지검으로 넘겼다. 관련 혐의로 송치된 6명은 해병대 1사단 7여단장, 제11·7포병 대대장, 7포대대 본부 중대장, 본부중대 소속 수색조장, 포병여단 군수과장이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “해병대 1사단은 경북 포항에 있지만, 해병대원 사망 사고 발생지가 경북 예천인 점을 고려해 대구·경북 내 사건 전체를 관할하는 대구지검으로 사건을 송치했다”고 말했다.&lt;br&gt;&lt;br&gt;사건을 넘겨 받은 대구지검은 3개 검사실로 수사팀을 구성했다. 팀장은 유도윤 1차장검사, 부팀장은 김성원 형사2부장이 맡았다.&lt;br&gt;&lt;br&gt;대구지검 관계자는 “수사팀 구성을 마무리한 만큼 신속하고 철저하게 수사하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;다만 지난해 8월부터 수사를 벌여온 경찰이 검찰에 넘긴 수사 기록이 2만2000쪽에 달해 자료검토에 상당한 시간이 걸릴 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>반려견 배설물 악취가 원인?…부산 빌라 살인 사건 미스터리</title>
       <link>https://www.chosun.com/national/incident/2024/07/08/I7DAL5A6OFHJFHGD36KDAHVR74/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/08/I7DAL5A6OFHJFHGD36KDAHVR74/</guid>
@@ -873,68 +945,6 @@
       <content:encoded>기괴한 등장인물과 SF(공상과학) 같은 세계관을 보여준 공포 소설 ‘프랑켄슈타인’이 21세에 불과한 영국 여성 작가가 썼다는 걸 알고 있나요? 1816년 초여름, 스위스 제네바 근교에는 더위가 시작돼야 할 무렵인데 때아닌 추위와 폭우가 몰아쳤어요. 당시 19세이던 문학 소녀 메리 셸리는 제네바에 머물고 있던 유명 시인 조지 고든 바이런의 별장에 방문 중이었어요. 미래의 남편 퍼시 셸리와 함께 말이지요. 시대를 풍미했던 시인 바이런과 역시 시를 썼던 퍼시 셸리는 절친한 친구 사이였죠.&lt;br&gt;&lt;br&gt;&lt;b&gt;“무서운 이야기 하나씩 해볼까?”&lt;/b&gt;&lt;br&gt;&lt;br&gt;화창한 날씨를 기대했던 메리와 퍼시, 바이런 등은 계속 내리는 비에 밖으로 나가지 못하고 지루하게 시간을 보내야 했어요. 그러자 바이런이 무서운 이야기를 해보자는 제안을 합니다.&lt;br&gt;&lt;br&gt;메리는 한 과학자가 시체들을 모아 키가 240㎝가 넘는 인형을 만들고 전기 자극을 줘 괴물을 탄생시키는 이야기를 떠올려요. 그리고 2년 후 1818년 소설 ‘프랑켄슈타인’이 익명으로 출간됩니다. 당시 교육과 글쓰기는 남성의 전유물이었지만, 메리 셸리가 훗날 최초의 SF소설이자 고전으로 읽히는 소설을 완성한 것이죠. 그녀의 나이 불과 21세에 이뤄낸 일이에요. 이어 1831년 판본을 통해 작가의 본명을 세상에 밝히게 됩니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UAMTADELCNA4BIUINEJCNUE6SM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;메리 셸리가 43세인 1840년에 아일랜드 화가 리처드 로스웰이 그린 초상. 메리 셸리는 54세에 사망했어요. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;메리의 아버지는 급진적인 무정부주의 철학자였던 윌리엄 고드윈이었어요. 어머니는 여성이 남성과 동등하게 교육받을 권리를 주장한 자유주의 페미니즘의 대표적 인물로, ‘여성의 권리 옹호’를 쓴 메리 울스턴크래프트였죠. 어머니는 그녀를 낳고 10여 일 후 산욕열로 세상을 떠났지만, 메리 셸리는 어머니의 책들을 읽고 자라며 지식인으로 성장합니다.&lt;br&gt;&lt;br&gt;특히 과학에 큰 관심이 있었던 메리는 ‘갈바니의 실험’을 응용해서 프랑켄슈타인의 이야기를 쓰게 됩니다. 1780년대 이탈리아 볼로냐대 교수였던 루이지 갈바니는 해부한 개구리의 뒷다리에 전기가 흐르는 금속이 닿으면 경련을 일으킨다는 사실을 발견합니다. 훗날 자신의 이름을 붙여 ‘갈바니즘’이라는 이론을 만들어내는데요. 시체에 전기를 흐르게 하면 죽은 이를 살려내거나 새로운 생명을 창조할 수 있다는 주장이었죠. 메리는 이 주장에 매혹되었다고 해요.&lt;br&gt;&lt;br&gt;또 재미있는 건, 많은 이가 괴물 이름을 ‘프랑켄슈타인’으로 알고 있지만, 프랑켄슈타인은 괴물을 만들어 낸 제네바의 물리학자 이름이라는 사실이에요. 괴물은 그저 괴물로 불릴 뿐이죠.&lt;br&gt;&lt;br&gt;&lt;b&gt;괴물의 외로움과 분노 입체적으로 다뤄&lt;/b&gt;&lt;br&gt;&lt;br&gt;2014년 국내 창작 뮤지컬로 초연돼 큰 성공을 거둔 ‘프랑켄슈타인’이 오는 8월 25일까지 서울 한남동 블루스퀘어 신한카드홀에서 10주년 기념 공연을 하고 있습니다. 이 뮤지컬은 괴물과 프랑켄슈타인의 대결이라는 큰 구도만 남겨두고 많은 부분이 각색되었습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/43ZRF2PLKZFLZHNT6JS2AF22FE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뮤지컬 '프랑켄슈타인' 공연 장면. /EMK뮤지컬컴퍼니&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소설 원작에서는 프랑켄슈타인이 왜 갑자기 자신의 인생을 걸고 생체 실험에 매달리는지 이유가 명확하지 않다면, 뮤지컬에서는 프랑켄슈타인이 어린 시절 어머니의 죽음을 맞았고, 어머니를 다시 살려내고 싶은 마음에 실험을 시작하게 됐다는 인과 관계를 보여주면서 프랑켄슈타인에 대한 연민을 불러일으킵니다.&lt;br&gt;&lt;br&gt;또 흉측한 얼굴과 괴력을 가진 괴물이 인간 사회 어디에서도 환영받지 못하는 외로움과 분노의 심리를 연기를 통해 입체적으로 전해줍니다.&lt;br&gt;&lt;br&gt;다시 1816년 초여름 어느 날로 돌아가 볼까요. 무서운 이야기를 나누던 사람들 중에서 메리는 ‘프랑켄슈타인’을 완성했죠. 그런데 책을 완성한 또 다른 한 사람이 있습니다. 시인 바이런은 당시 유행하던 흡혈귀 이야기를 떠올려 글을 써보려 했지만 잘되지 않아 그만두었는데요. 그의 주치의였던 존 윌리엄 폴리도리가 1819년 ‘흡혈귀’를 발표합니다. 이 책은 흡혈귀의 대명사인 아일랜드 소설가 브램 스토커의 ‘드라큘라(1897)’보다 80년 가까이 먼저 쓰여 흡혈귀 이야기의 시조로 알려져 있지요.&lt;br&gt;&lt;br&gt;&lt;b&gt;여성 흡혈귀를 다룬 소설&lt;/b&gt;&lt;br&gt;&lt;br&gt;한편 잘 알려지지 않은 매력적인 흡혈귀 소설이 한 권 더 있습니다. 바로 아일랜드 작가 셰리든 르 파뉴가 1872년에 발표한 최초의 여성 흡혈귀 소설 ‘카르밀라’라는 작품이지요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QEIGXZFRJJBONGA7YVF4AJIJ7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뮤지컬 '카르밀라' 공연 장면. /네버엔딩플레이·라이브러리컴퍼니&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;카르밀라는 한 백작 부인의 이름으로, 흡혈귀가 되어 불멸의 삶을 살고 있지요. 주인공 소녀 로라는 신비롭고 아름다운 카르밀라를 만나고 가까운 사이가 됩니다. 하지만 카르밀라가 흡혈귀라는 사실이 주위 사람들에 의해 밝혀지면서 결국 카르밀라는 죽음을 맞이합니다.&lt;br&gt;&lt;br&gt;특히 카르밀라가 흥미로운 건 우리가 흡혈귀를 생각했을 때 자연스레 떠올리는 고정관념을 깨뜨리기 때문입니다. 흡혈귀는 보통 낮에는 잠을 자고 밤에 활동하지만, 카르밀라는 한낮의 햇볕도 문제없이 생활해요. 피를 마시지 못해 힘이 없고 핏기가 없는 낯빛을 하고 있지 않으며, 따뜻한 체온을 가지고 있어 일반인과 구별하기 힘들지요.&lt;br&gt;&lt;br&gt;뮤지컬 ‘카르밀라’(9월 8일까지·서울 대학로 링크아트센터드림) 역시 원작과 다르게 많은 부분이 각색됐습니다. ‘닉’이라는 또 다른 여성 흡혈귀 캐릭터가 등장해요. 닉은 카르밀라를 조종해서 로라를 흡혈귀로 만들려고 하죠. 로라를 아끼는 카르밀라는 로라를 닉의 위협에서 구해내지만, 결국 로라는 카르밀라와 영원히 함께하고자 흡혈귀의 삶을 선택합니다. 여성 흡혈귀라는 색다른 소재를 유쾌하고 밝은 분위기에서 풀어내면서도 격정적인 음악과 장면 전환으로 관객들이 긴장의 끈을 놓을 수 없게 만드는 뮤지컬입니다. 이번 여름 괴물과 흡혈귀를 다룬 소설을 읽고 공연을 보며 무더위를 잠시 잊어보는 것도 좋을 것 같습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“엘베 없어 죄송”… 택배기사 불러세운 2층 부부의 선물</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/07/PWAUB3JFWNGWVHG4ZOABAA5WZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/07/PWAUB3JFWNGWVHG4ZOABAA5WZA/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 07 Jul 2024 14:47:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VQIGJ42TSVEVTK7BZ6NG54WT3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 B씨 부부에게 선물받았다며 공개한 복숭아 사진. /온라인 커뮤니티 보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;엘리베이터 없이 계단을 오르내리며 일한 택배기사에게 고마움을 전한 부부의 사연이 공개돼 훈훈함을 안기고 있다.&lt;br&gt;&lt;br&gt;온라인 커뮤니티 보배드림에는 6일 ‘택배기사입니다’라는 제목의 짧은 글이 올라왔다. 충남 천안에서 13년째 택배기사로 근무 중이라는 글쓴이 A씨는 “택배가 자주 오는 2층 가정집이 있다”고 말문을 연 뒤 당일 배송 중 만났던 B씨 부부와의 대화를 전했다.&lt;br&gt;&lt;br&gt;A씨는 “오늘도 역시 1층 벨을 눌렀고 문을 열어주시길래 올라갔다. 원래 택배 일을 하면 2층 정도는 껌이다. 그런데도 갈 때마다 매번 음료수 챙겨주시고 2층이라 미안하다고 하시는 분들”이라며 B씨 부부와의 인연을 소개했다. 엘리베이터가 없는 건물이었기에, 부부는 늘 계단을 타며 일하는 A씨에게 작은 고마움을 전해왔다는 것이다.&lt;br&gt;&lt;br&gt;이날 역시 마찬가지였다. A씨가 배송할 물건은 복숭아 두 박스였다. 그는 여느 때처럼 계단을 통해 2층까지 올라갔고 물건을 전달한 뒤 내려가려 했다. 그 순간 B씨 부부는 돌연 A씨를 불러세웠고 방금 배송받은 복숭아 두 박스 중 한 박스를 A씨에게 선물했다고 한다.&lt;br&gt;&lt;br&gt;A씨는 “내려가려는데 아주머니랑 아저씨가 ‘2층이라 매번 죄송하다’면서 복숭아 한 박스를 제게 주시더라”며 “괜찮다고 안 받으려 했더니 ‘딸이 꼭 드리라고 시켰다’고 하셔서 받았다”고 했다. 그러면서 B씨 부부에게 받은 복숭아 사진과 “날씨가 많이 후덥지근한데 힘이 난다”는 말을 덧붙였다.&lt;br&gt;&lt;br&gt;이 경험담이 전해지자 댓글 창에는 사연만큼이나 훈훈한 댓글이 쏟아졌다. 네티즌들은 “주문할 때부터 ‘택배기사님 하나 드리자’ 했을 걸 생각하니 절로 미소가 지어진다” “이런 게 잊고 있던 한국인의 정” “이런 일들이 나비효과가 돼 웃음이 끊이지 않는 사회가 됐으면 좋겠다” 등의 글을 달았다.&lt;br&gt;&lt;br&gt;한 네티즌은 “남편도 택배 일을 한다. 어제는 퇴근 후 가방에서 음료수, 빵, 과자를 꺼내더라”라며 “(고객에게) 받은 거라면서 힘이 나고 즐겁다고 하더라. 모두 건강 챙기고 즐겁게 일하시길 바란다”는 응원 댓글을 남겨 공감을 받기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한국인 3명 탄 요트, 대만서 제주 오다 연락두절... 해경 수색</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/07/J2DSURBZ4VCPHKVEICIL2LDC7Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/07/J2DSURBZ4VCPHKVEICIL2LDC7Q/</guid>
-      <dc:creator>제주=진창일 기자, 제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 07 Jul 2024 13:36:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/552JXACYKVGWXDEHUDMRPQ3GNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오후 5시 37분쯤 마라도 남서쪽 389㎞ 해상에서 잡힌 신호를 마지막으로 실종된 요트 A호의 모습. /서귀포해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대만에서 출항해 제주로 입항할 예정이던 요트의 연락이 두절돼 해경이 수색에 나섰다.&lt;br&gt;&lt;br&gt;서귀포해양경찰서는 7일 “대만에서 출항해 제주시 도두항으로 입항 예정이던 요트 A호(19.5t)가 이날 오후 4시42분쯤 실종돼 수색에 3000t급 경비함정 등 7척을 투입했다”고 밝혔다.&lt;br&gt;&lt;br&gt;해경은 “요트와 연락이 되지 않는다”는 요트협회의 신고를 받고 수색함정과 인력을 현장에 급파하고 인근 선박에 A호의 현재 상황 확인을 요청했다. A호는 지난 4일 대만에서 출항했던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;해당 요트의 마지막 신호가 잡힌 지점은 지난 6일 오전 10시쯤 마라도 남서쪽 389㎞ 해상이다. A호는 바람을 동력으로 쓰는 돛을 단 세일링 요트다.&lt;br&gt;&lt;br&gt;해경은 요트를 수색하기 위한 헬기도 투입했지만 난항을 겪고 있다. 요트가 연락두절된 해상은 초속 10~12m의 바람이 불고 파고도 최대 3m에 달해 기상조건이 좋지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/DLH37VKWFRDKLOISKICKGVOSW4.jpg?width=471&amp;height=265&amp;auth=6fddf589b83f0b69f74234dea79694105fe555d6c19117c55f3d54481677e74c&amp;smart=true" type="image/jpeg" height="265" width="471">
-        <media:description type="plain">7일 오후 5시 37분쯤 마라도 남서쪽 389㎞ 해상에서 잡힌 신호를 마지막으로 실종된 요트 A호의 모습. /서귀포해경</media:description>
-        <media:credit role="author" scheme="urn:ebu">서귀포해경</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>민주당 서울시의원 “한강투신 남성 늘어난 이유는 여성의 사회참여”</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/07/SP4IRE7TYFEHPPGCIDOASCRJIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/07/SP4IRE7TYFEHPPGCIDOASCRJIU/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 07 Jul 2024 13:14:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5YOFPSBUTFAFXCLCIF65RWXO6Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 김기덕 서울시의원. /페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 김기덕 더불어민주당 서울시의원이 남성의 한강 투신 자살 시도가 늘어난 이유가 ‘여성의 사회 참여 증가’ 때문이라는 취지의 보도자료를 배포한 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;김 의원은 지난달 28일 ‘한강 교량 투신자살 시도 2년 연속 1000여 건 마포대교 압도적 1위, 대책 절실’이라는 제목의 보도자료를 냈다.&lt;br&gt;&lt;br&gt;보도자료에서 김 의원은 서울시가 제출한 ‘최근 6년간(2018~2023년) 한강 교량별 자살 시도 및 투신 현황’을 인용해 한강 투신 시도 건수는 코로나 이후인 2022년 1000건, 2023년 1035건으로 코로나 시기보다 2배 이상 확대됐다고 전했다.&lt;br&gt;&lt;br&gt;보도자료에 따르면 서울시가 관리하는 21개 한강 교량 중 투신 시도자가 가장 많은 곳은 마포대교였다. 지난 6년간 총 1178명이었다. 김 의원은 “2012년부터 마포대교에는 자살 방지를 위해 여러 노력을 하고 있지만 이와는 대비되는 결과가 나와 다소 아쉽다”고 했다.&lt;br&gt;&lt;br&gt;연령별로는 코로나 전후로 투신 시도 건수에 차이가 나타났다. 코로나 이전엔 2018년엔 20대가 151회로 가장 많았고, 그 뒤를 30대(87회), 40대(46회)가 이었다. 코로나 이후인 작년엔 30대가 277회로 가장 많았고, 20대는 61회로 줄었다.&lt;br&gt;&lt;br&gt;지난 6년간 성별에 따라서는 남성이 투신을 더 많이 시도한 것으로 나타났다. 투신 시도자 4069명 중 남성 2487명, 여성 1079명 등 남성이 2배 이상 많이 나타났다고 김 의원은 전했다.&lt;br&gt;&lt;br&gt;김 의원은 남성의 자살 시도자가 더 많이 나타난 이유로 여성 인구와 여성의 사회 참여 증가를 꼽았다. 김 의원은 보도자료에서 “과거 한국이 가부장제와 남존여비 사상이 만연했던 것과는 달리, 2023년 기준으로 여성이 남성보다 많은 여초 사회로 변화하기 시작했다”며 “여성의 증가에 따른 남성의 노동력 부족, 결혼 상대를 구하기 어려운 남성의 증가로 인한 결혼 시장의 변화, 여성의 사회 참여로 인한 남녀 역할의 변화 등 다양한 요인이 남성의 자살 시도가 증가한 일부 원인이 될 수 있다”고 언급했다.&lt;br&gt;&lt;br&gt;그러면서 김 의원은 “시대적인 배경 및 변화에 근거한 다양한 요인을 분석해 자살 시도자 수를 최소화하기 위한 전략을 마련해야 한다”며 “여초 현상 확대를 극복하기 위해 남성과 여성이 동등한 권리와 기회를 누릴 수 있도록 해야 하고, 남성의 사회 참여 확대를 통한 노동력 부족 문제를 해소해야 한다”고 했다.&lt;br&gt;&lt;br&gt;김 의원은 또 “결혼 시장의 불균형 완화와 출산율 제고를 통해 젊은 남성의 자살 비율을 최소화하기 위한 단계적인 대비책이 필요하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천에서 훼손된 길고양이 사체 발견…경찰, 부검 의뢰</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/07/JU45WFLKSRDRBPUEJEKVGXTUXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/07/JU45WFLKSRDRBPUEJEKVGXTUXA/</guid>
-      <dc:creator>인천=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 07 Jul 2024 10:31:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YH3TF7XLUAEP6BNSU4BLHLZMDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천에서 사체 일부가 훼손된 길고양이가 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;인천 남동경찰서는 “지난 4일 오후 4시쯤 인천 남동구 구월동의 한 아파트단지에서 죽은 채 발견된 길고양이 4마리의 사인을 확인하기 위해 농림축산검역본부에 사체 부검을 의뢰했다”고 7일 밝혔다. 4마리의 고양이 사체 중 1마리는 일부가 훼손됐고 나머지는 비교적 온전한 상태로 발견됐다.&lt;br&gt;&lt;br&gt;경찰은 주변 방범카메라(CCTV) 영상 확인과 탐문수사 등을 통해 고양이들이 학대에 의해 살해됐는지 파악할 계획이다. 경찰 관계자는 “현재까지는 고양이들이 숨진 원인을 알 수 없는 상황”이라며 “부검 결과를 토대로 정확한 사건 경위를 조사할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/YH3TF7XLUAEP6BNSU4BLHLZMDY.jpg?width=2012&amp;height=1276&amp;auth=534cd109c7d4f3e473d46e86b6562a54c2d369f53f6f65b040eb7201d542b4ac&amp;smart=true" type="image/jpeg" height="1276" width="2012">
-        <media:description type="plain">경찰 로고. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>수도권·중부 출근길 ‘집중호우’… 최대 100㎜ 쏟아진다</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/07/07/FTNF22SVTVC5NCNHZMTT6EENPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/07/FTNF22SVTVC5NCNHZMTT6EENPE/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 07 Jul 2024 12:14:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2AM7TERCEJEZ5NGSJ7HGA2A25Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 오전 폭우가 내리는 서울 광화문 광장을 시민들이 걷고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 출근길 서울을 비롯한 수도권에 많은 비가 내리겠다고 기상청이 7일 밝혔다. 장마전선(정체전선) 바로 아래 놓인 중부지방을 중심으로 최대 100㎜의 집중호우가 예고됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 장마전선과 저기압의 영향으로 8일 전국에 비가 내리겠다. 고온다습한 남풍(南風)이 비의 씨앗이 되는 수증기를 대거 공급하면서 강수량이 늘어날 전망이다. 예상 강수량은 수도권·강원도·충청권 30~100㎜, 호남·영남권 20~60㎜, 제주도 5~10㎜ 등이다.&lt;br&gt;&lt;br&gt;8일 아침부터 낮까지 중부지방에 시간당 30㎜ 내외의 강한 비가 쏟아지겠다. ‘매우 많은 비’의 기준이 ‘시간당 30㎜ 이상’이다. 장마전선의 폭이 좁아 전선 바로 아래 놓인 지역에 많은 비가 집중되겠고, 지역별 강수 편차가 크겠다.&lt;br&gt;&lt;br&gt;비가 잠시 소강상태를 보일 때는 기온이 큰 폭으로 올라 무덥겠다. 비의 영향이 덜 한 남부지방과 제주도엔 현재 대부분 지역에 폭염특보가 내려졌다. 8일 아침 최저기온은 22~27도, 낮 최고기온은 26~31도로 예보됐다. 폭염특보가 발효된 지역에선 체감기온이 33도 이상으로 오르겠다.&lt;br&gt;&lt;br&gt;기상청은 중기예보에서 비가 오는 17일까지 이어질 것으로 내다봤다. 9일에는 장마전선의 영향으로 수도권·강원도 10~40㎜, 충청권 20~60㎜, 호남·영남권 20~60㎜, 제주도 5~10㎜의 비가 예고됐다. 10~12일에는 북태평양고기압이 수축하면서 장마전선이 남하하며 남부지방에 폭우, 중부지방에 폭염이 찾아오겠다. 이때 중부지방엔 높은 습도에 낮동안 데워진 공기로 인해 대기 상·하층간 기온차로 소나기가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;14~17일엔 정체전선이 다시 북상하면서 비를 뿌리고 제주 등 남쪽에 비가 오지 않는 지역에는 폭염이 나타나겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>건국대 의대 등 12곳, 8일부터 재외국민 전형</title>
-      <link>https://www.chosun.com/national/education/2024/07/07/W5FOZ3J4HRCP5M3HBI3DJSJCMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/07/07/W5FOZ3J4HRCP5M3HBI3DJSJCMQ/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 07 Jul 2024 11:49:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L7EOERUVXFA5DBEUAB2YBECMT4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;건국대 충주병원 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정원이 늘어난 2025학년도 의대 입시가 8일부터 재외국민·외국인 전형 원서 접수와 함께 시작된다. 교육부는 수업을 거부하고 있는 의대생들의 집단 유급을 막기 위해 대학들이 학사 일정을 탄력적으로 조정할 수 있도록 ‘비상 학사 운영 지침’을 발표할 예정이다.&lt;br&gt;&lt;br&gt;교육계에 따르면 8일부터 내년도 의대 수시 재외국민·외국인 입시 전형 신입생을 선발하는 대학은 모두 12곳으로, 총 29명을 뽑는다. 5명씩 뽑는 건국대(충주)·가톨릭관동대와 3명을 뽑는 가천대를 비롯해 고려대·성균관대·아주대·인하대·중앙대·한림대 등 아홉 대학은 8일부터, 가톨릭대는 9일부터 원서를 받는다. 동국대(경주)와 을지대는 일반 학생들의 수시 일정과 같게 오는 9월에 원서를 접수할 예정이다. 재외국민 전형은 해외에서 일정 기간 이상 공부한 한국 국적 학생을 선발하는 것이다.&lt;br&gt;&lt;br&gt;재외국민·외국인 전형은 모집 정원을 초과해 뽑을 수 있는 ‘정원 외’ 선발이다. 하지만 정원 외 모집 또한 학과 정원의 모집 인원에 비례해 결정된다. 올해 의대 입시(차의과대 제외)에선 전년 대비 1497명이 늘어난 4610명을 뽑는데 재외국민·외국인 전형 정원도 작년(21명)보다 8명(38%) 늘었다.&lt;br&gt;&lt;br&gt;재외국민·외국인 전형에 이어 9월에는 수시 모집, 12월은 정시 모집이 시작될 예정이다. 대학들은 수시에서 의대 신입생(4610명)의 대부분인 3118명(67.6%)을 선발하고, 정시에서 1492명(32.4%)을 뽑는다.&lt;br&gt;&lt;br&gt;내년도 입시가 시작되지만 의대생 대부분은 강의실로 돌아오지 않고 있다. 학생들의 집단 유급 가능성이 높아지자, 교육부는 조만간 ‘비상 학사 운영 지침’을 발표할 방침이다. 지침엔 1학기에 듣지 못한 과목을 2학기에 개설해 듣게 하거나, 1~2과목에서 F학점을 받아도 유급시키지 않고 2학기에 다시 들으면 학년 진급을 시켜주는 방안 등을 담을 예정이다. 학사 일정은 대학이 자체 조정할 수 있지만, 교육부가 예시를 주겠다는 것이다. 한 국립대 총장은 “학사 일정을 탄력적으로 조정하더라도, 7월 말까진 학생들이 돌아와야 제대로 교육과정을 마칠 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>첨단장비로 패 보고, 마약커피 먹이고... 영화 ‘타짜’ 뺨친 일당</title>
       <link>https://www.chosun.com/national/2024/07/07/547AC2ZAERDXPN6IRZL4G3JAXE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/07/07/547AC2ZAERDXPN6IRZL4G3JAXE/</guid>
@@ -945,28 +955,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/YH3TF7XLUAEP6BNSU4BLHLZMDY.jpg?width=2012&amp;height=1276&amp;auth=534cd109c7d4f3e473d46e86b6562a54c2d369f53f6f65b040eb7201d542b4ac&amp;smart=true" type="image/jpeg" height="1276" width="2012">
         <media:description type="plain">경찰 로고. /뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“공깃밥 추가  1000원”에...음식점 종업원 때리고 난동 부린 60대 실형</title>
-      <link>https://www.chosun.com/national/2024/07/07/OOM7QNNLOZGQXAVQFXLYT6MEK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/07/07/OOM7QNNLOZGQXAVQFXLYT6MEK4/</guid>
-      <dc:creator>부산=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 07 Jul 2024 03:44:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추가로 주문한 공깃밥 값 1000원을 내기 싫어 난동을 피우다가 음식점 종업원을 때려 다치게 한 60대에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;부산지법 형사 11단독 정순열 부장판사는 특수상해, 폭행, 재물손괴, 업무방해 혐의로 재판에 넘겨진 A씨에게 징역 9개월을 선고했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 1월 25일 오후 9시30분쯤 부산 중구에 있는 한 식당에서 종업원 B(50대)씨에게 빈 소주병을 던지고, 손으로 얼굴을 때려 다치게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;판결문에 따르면 A씨는 이날 지인과 함께 해당 식당을 찾았다. 지인이 계산 후 먼저 식당을 떠났고, A씨는 이후 식사를 마치고 식당을 나섰다.&lt;br&gt;&lt;br&gt;그때 종업원 B씨가 계산 이후에 추가로 주문된 1000원 상당의 공깃밥 계산을 A씨에게 요청했다. 그러자 A씨는 욕설과 함께 “돈도 없는데 왜 돈 달라고 하느냐” “너 같은 건 죽여버리고 물어주면 된다”고 소리치며 빈 소주병을 B씨에게 던졌다. 또 B씨를 바닥에 넘어뜨리고 손으로 B씨 얼굴을 수차례 때리기도 했다.&lt;br&gt;&lt;br&gt;A씨의 폭행으로 B씨는 늑골이 부러지는 등 4주간의 치료를 요하는 상해를 입었다. A씨는 이날 자신을 말리려는 식당 손님 C(60대)씨의 멱살을 잡고, 얼굴을 때린 혐의도 받고 있다. A씨의 폭행으로 C씨가 착용하고 있던 93만원 상당의 안경이 망가지기도 했다.&lt;br&gt;&lt;br&gt;정 부장판사는 “식당 종업원의 ‘공깃밥 값 1000원을 내라’는 말에 위험한 물건인 소주병을 집어던져 다치게 하고, 이를 말리던 손님까지 때리는 등 피고인의 죄책이 무겁다”며 “범행을 모두 자백하는 점, 당시 술에 취해 판단력이 흐려진 상태에서 우발적으로 저지른 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>폭염 속 열린 ‘광주 싸이 흠뻑쇼’...온열질환 등 환자 4명 병원 이송</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/07/X7JSUG6ZNJHVTMBFIUC2SLUAGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/07/X7JSUG6ZNJHVTMBFIUC2SLUAGA/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 07 Jul 2024 02:25:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2L3F7ZCB7ROOBDZXFSALKZU3U4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 싸이가 지난해 6월 서울 잠실 올림픽주경기장에서 열린 '싸이 흠뻑쇼 SUMMER SWAG 2023'에서 무대를 선보이고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염 속에서 열린 가수 싸이의 광주광역시 ‘흠뻑쇼’에서 총 82명의 온열질환 등 의심 환자가 발생해 4명이 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;7일 광주소방본부에 따르면 전날 오후 4시30분부터 10시30분까지 광주월드컵경기장에서 열린 싸이의 ‘싸이흠뻑쇼 썸머스웨그(SUMMER SWAG) 2024′ 콘서트에서 온열질환 등으로 78명이 현장처치를 받았고 4명이 병원으로 옮겨져 치료를 받았다. 콘서트 과정에서 다중 밀집 안전사고는 발생하지 않았다.&lt;br&gt;&lt;br&gt;현장처치는 관객들이 탈수 현상으로 물이나 소금 등을 받아가거나 안전부스에서 쉬는 등 구급대원의 조치를 받은 사례이다.&lt;br&gt;&lt;br&gt;싸이 콘서트가 열린 전날 광주 대표지점 체감온도는 31.3도, 밤 사이 기온은 26.6도를 넘기면서 열대야 현상이 나타났었다. 기상청은 지난 5일 광주와 전남 담양, 화순, 장흥 지역에 발효했고 7일 현재는 폭염주의보로 하향된 상태이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/2L3F7ZCB7ROOBDZXFSALKZU3U4.jpg?width=4096&amp;height=2730&amp;auth=56462f813cb91f66f4f337ad01dee6d96845bc3aa784addb856a4fea1fbb1383&amp;smart=true" type="image/jpeg" height="2730" width="4096">
-        <media:description type="plain">[서울=뉴시스] 최동준 기자 = 가수 싸이가 30일 서울 잠실 올림픽주경기장에서 열린 '싸이 흠뻑쇼 SUMMER SWAG 2023'에서 멋진 무대를 선보이고 있다. 2023.06.30. photocdj@newsis.com</media:description>
-        <media:credit role="author" scheme="urn:ebu">photocdj</media:credit>
       </media:content>
     </item>
     <item>
