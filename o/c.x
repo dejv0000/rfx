@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 민희진 ‘경영권 탈취' 출석… “업무상 배임 말도 안 돼”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/09/ULZA335FN5CDLGNKGMILRTPTBQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/09/ULZA335FN5CDLGNKGMILRTPTBQ/</guid>
+      <dc:creator>강우석 기자, 서보범 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 09 Jul 2024 04:55:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X7NRDKBANRMWH3SXCPDSX3DN5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민희진 어도어 대표가 지난 5월 31일 서울 중구 프레스센터에서 열린 기자회견에서 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경영권 탈취 의혹을 받아 하이브로부터 고발당한 민희진 어도어 대표가 “업무상 배임 혐의는 말도 안 된다”고 9일 밝혔다.&lt;br&gt;&lt;br&gt;서울 용산경찰서는 이날 오전 1시 38분쯤 배임 혐의로 고발당한 민 대표를 소환해 첫 피고발인 조사를 진행하고 있다고 밝혔다. 이날 경찰에 출석한 민 대표는 “사실대로 말하면 될 것 같다”며 업무상 배임 혐의를 전면 부인했다.&lt;br&gt;&lt;br&gt;앞서 하이브는 내부 중간 감사결과를 발표하고 “민 대표 주도로 경영권 탈취 계획이 수립됐다는 사실을 확인했다”며 지난 4월 25일 민 대표와 어도어 측 관계자에 대해 고발장을 접수했다.&lt;br&gt;&lt;br&gt;경찰은 지난 5월 하이브 측 관계자를 고발인 조사했다. 지난달 17일에는 민 대표와 배임 혐의로 함께 고발된 어도어 측 관계자를 소환 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내일 새벽 중부 50㎜ 폭우 쏟아진다...전국 최대 150㎜ 장맛비</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/07/09/DZZUUUFVLZEIPCJVL52RDAY5WU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/09/DZZUUUFVLZEIPCJVL52RDAY5WU/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 09 Jul 2024 03:36:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IDGPBB7P5ZO2DLKXQ3WCOBCMAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 강원 춘천시 소양강에 잠시 장맛비가 소강상태를 보이자 물안개가 피어오르고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 밤까지 전국에 최대 150㎜의 많은 비가 쏟아지겠다고 기상청이 9일 밝혔다. 특히 서울을 비롯한 중부지방에 밤사이 시간당 30~50㎜의 집중호우가 쏟아질 것으로 보여 주의가 필요하다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 9일 서해상에서 발달한 저기압이 한반도로 접근해오면서 장마전선(정체전선)을 중부지방 쪽으로 밀어올리겠다. 밤사이 고온다습한 남풍(南風)의 유입이 늘어나며 비의 씨앗이 되는 수증기 공급이 원활해지겠고, 중부에 9일 저녁부터 10일 아침까지 장대비가 쏟아지겠다.&lt;br&gt;&lt;br&gt;이후 장마전선은 다시 남부지방으로 내려가겠다. 저기압이 우리나라를 통과하는 과정에서 유입된 건조공기가 전선을 남쪽으로 밀어내기 때문이다. 장마전선은 느리게 움직이면서 10일 새벽에서 오전까지 호남에 시간당 30~50㎜의 집중호우를 뿌리겠다.&lt;br&gt;&lt;br&gt;저기압은 10일 아침 동해상으로 빠져나가겠으나 비는 계속 내리겠다. 저기압이 몰고온 건조공기가 장마전선을 강화해 호남권을 중심으로 남부지방에 비가 내리겠고, 저기압 뒤에 남은 비구름대가 중부지방에 비를 뿌리겠다. 사실상 전국이 비의 영향권에 드는 것이다.&lt;br&gt;&lt;br&gt;9~10일 예상 강수량은 중부지방 50~150㎜, 남부지방 30~80㎜로 예보됐다. 전선 바로 아래 놓인 호남권과 경북권에선 150㎜ 이상, 전북·대구에선 120㎜ 비가 내리는 곳이 있겠다. 제주엔 20~80㎜ 비가 내리겠다.&lt;br&gt;&lt;br&gt;중부지방은 지난달 29일 장마가 시작돼 이달 7일까지 159.8㎜가 내렸다. 이 기간 평년(1990~2020년·30년 평균) 값인 94.6㎜보다 많은 양이다. 남부지방은 지난달 22일부터 이달 7일까지 173.5㎜의 강수량을 기록했다. 이 역시 평년 같은 기간 강수량(161.7㎜) 보다 많다. 제주는 지난달 19일 장마가 시작돼 이달 7일까지 398.2㎜가 내려 같은 기간 강수량(203.2㎜) 보다 2배 가까이 많았다.&lt;br&gt;&lt;br&gt;11~14일에는 정체전선이 제주도 부근까지 남하하겠다. 중부지방에선 낮동안 지표가 달궈지는 가운데 대기 상층으로 찬 공기가 지나가면서 대기 상·하층 온도차에 의해 습도가 높은 곳을 중심으로 소나기가 내리겠다. 정체전선은 15일부터 다시 북상할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>다먹은 청국장서 나온 바퀴벌레…주인은 “워낙 많아, 종종 있는 일”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/09/ZR2TRISK3FF5TAHEDJRLZRMTUY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/09/ZR2TRISK3FF5TAHEDJRLZRMTUY/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 09 Jul 2024 03:30:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M2BACXS7AFAFNJ4CHC47YQLTUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;쇼핑몰 식당서 주문한 청국장에서 바퀴벌레 추정 이물질이 나왔다./온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의 한 쇼핑몰 음식점 업주가 음식에서 바퀴벌레가 나왔다고 항의한 손님에게 “종종 있는 일”이라며 태연한 태도를 보인 사실이 전해져 다른 식당 주인들의 공분을 사고 있다.&lt;br&gt;&lt;br&gt;지난 7일 자영업자 온라인 커뮤니티 ‘아프니까 사장이다’에는 ‘식당 음식에서 바퀴벌레가 나왔다’는 내용의 글이 올라왔다.&lt;br&gt;&lt;br&gt;작성자는 자신의 남동생이 쇼핑몰에 입점한 식당에서 식사를 거의 마무리할 쯤 밥그릇 안에 있던 바퀴벌레를 발견했다며 사진을 첨부했다.&lt;br&gt;&lt;br&gt;사진에는 청국장 백반 식사 전후 모습이 담겼다. 식사 후 사진을 보면 텅빈 밥그릇 안에 밥풀 뭉치와 바퀴벌레로 추정되는 이물질이 함께 담긴 모습이다. 작성자는 댓글을 통해 “청국장을 밥에 비벼 먹었는데 (바퀴벌레는) 청국장에서 나왔다고 한다”고 설명했다.&lt;br&gt;&lt;br&gt;작성자는 “동생은 사장님이 죄송하다고 했고 식당 망하게 하기 싫다면서 참고 나왔다더라”며 “동생이 계속 속이 안좋다며 힘들어 하길래 화가 나서 식당 주인한테 전화했다”고 썼다.&lt;br&gt;&lt;br&gt;이어 “사장님은 죄송하다고는 하면서도 해충방역업체 불러도 바퀴벌레가 너무 많아서 어쩔 수 없다고 하더라”며 “본인도 다른 식당에서 비슷한 경험했는데 그냥 넘어가줬다며 식당에서 종종 있는 일이라고 하더라”고 주장했다.&lt;br&gt;&lt;br&gt;그러면서 “이해가 안 되는 말인데, 정말 맞는 말인가”라며 식당하는 자영업자들의 조언을 구했다. 아울러 “다음주쯤 식품위생과에 신고할까 하는데 너무 비정한 건가”라고도 물었다.&lt;br&gt;&lt;br&gt;이 글에 해당 커뮤니티 회원들은 “탕이랑 찌개 다 하는 식당을 하는데 어찌 들어갔는지 이해가 안 된다” “여름이면 쇼핑몰 자체 점검도 많이 하는데, 다른 매장 일반화하는 것도 이해 안된다. 매장 청결 신경쓰고 꼼꼼하게 장사하는 사장님들이 얼마나 많은데 어이없다” “사장님 대처가 참 아쉽다” “식당에 바퀴벌레가 나올 순 있어도 조리된 음식에서 나오는 건 말도 안된다” 등의 반응을 보이며 작성자에게 신고를 권유했다.&lt;br&gt;&lt;br&gt;식당 음식 이물 신고는 국번 없이 1399나 관할 지방자치단체를 통해 할 수 있다. 신고를 접수한 식품의약품안전처나 지자체 등 조사기관은 원인조사를 통해 식품위생법 위반 사실을 확인할 경우 해당 업주에게 시정명령이나 영업정지 등의 행정처분을 내릴 수 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘강남 학원가 마약 음료’ 주범 징역 23년…“죄질 극히 불량”</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/09/2TM654KTWJAS5DMXYA45DXSVYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/09/2TM654KTWJAS5DMXYA45DXSVYE/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 09 Jul 2024 03:51:58 +0000</pubDate>
+      <content:encoded>서울 강남구 대치동 학원가 일대에서 학생들을 상대로 이른바 ‘마약 음료’ 범행을 주도한 혐의로 재판에 넘겨진 주범에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CDH53ID3RFL4PJ2PNNCLDRDAE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'강남 학원가 마약 음료 협박 사건' 주범 이모씨가 지난해 12월 중국에서 송환돼 인천국제공항 제2터미널을 통해 들어오고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사34부(재판장 한성진)는 9일 ‘강남 마약 음료’ 사건을 주도해 마약류 관리에 관한 법률 위반(향정) 등 혐의로 기소된 이모(27)씨에게 징역 23년을 선고했다. 앞서 검찰은 사건 총책인 이씨에게 ‘영리목적 미성년자 필로폰 투약 혐의’를 적용해 기소했는데, 이 혐의 법정형이 최고 사형, 무기 징역 또는 10년 이상의 징역형이다.&lt;br&gt;&lt;br&gt;재판부는 “불특정 다수를 표적으로 삼아 사전에 치밀하게 계획한 다음 그 계획을 실행에 옮긴 범행으로 그 비난 가능성이 매우 크고 죄질이 극히 불량하다”며 “이 사건 범행의 중대성과 심각성을 고려해 피고인을 엄벌할 필요성이 매우 크다”고 지적했다.&lt;br&gt;&lt;br&gt;그러면서도 “대체로 범행을 인정하고 반성하는 점, 공갈은 미수에 그쳤고 수사 과정에 협조한 점을 유리한 정상으로 반영했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이씨는 2022년부터 중국에 머무르며 국내외 공범들에게 ‘마약 음료’ 제조와 배포를 지시한 혐의를 받는다. 필로폰과 우유를 섞은 마약 음료가 담긴 병 수백개를 제조하도록 지시해 사건을 설계하고 범행 계획을 짠 것으로 조사됐다. 먼저 기소된 마약 음료 제조자 길모씨는 지난 4월 항소심에서 징역 18년을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6CFSEPDT6FBPBBOTD4ZEGKW5TI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강남 대치동 일대 학원가에서 학생들에게 마약음료를 건넨 일당 중 일부가 CCTV에 찍힌 모습. / 강남경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이씨 일당은 지난해 4월 강남구 대치동 학원가 일대에서 중‧고교생에게 “최근 개발한 기억력 상승과 집중력 강화에 좋은 음료수인데, 시음 행사를 진행하고 있다”고 속여 마약류를 넣은 음료를 마시게 한 뒤, 이를 빌미로 부모를 협박해 돈을 뜯어내려 한 것으로 파악됐다. 이 과정에서 중‧고교생 13명에게 마약 음료를 나눠주고, 피해자 부모들을 협박해 갈취한 2억5000만여원을 중국에 있는 일당에게 송금했다고 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 국내에서 음료를 제조하고 나눠준 실행책들을 검거하고 주범인 이씨가 중국에 머무르고 있는 사실을 파악했고, 이씨는 사건 발생 50여일 만인 지난해 5월 중국 지린성 내 은신처에서 공안에 검거돼 그해 12월 국내로 강제 송환됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“구독 취소 좀”… 다크서클 가득한 LG 직원의 호소, 무슨 일</title>
       <link>https://www.chosun.com/national/national_general/2024/07/09/YCAUW2YVUNEQVJGYYKMCZAJPME/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/09/YCAUW2YVUNEQVJGYYKMCZAJPME/</guid>
@@ -902,19 +938,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4IT2YWSFRDRLGSX5FAR72KIHA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경기남부경찰청 청사. /경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마약 투약 혐의로 수사를 받다 숨진 배우 이선균(48)씨와 관련한 수사정보 유출 의혹을 조사해 온 경찰이 정보를 유출한 경찰관과 검찰수사관, 이들로부터 정보를 받은 기자들을 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;경기남부경찰청 반부패·경제범죄수사대는 공무상비밀누설 및 개인정보보호법 위반 혐의로 인천경찰청 경찰관 A씨, 인천지검 수사관 B씨를 각각 지난달 27일 검찰에 송치했다고 8일 밝혔다. 또 개인정보보호법 위반 혐의로 인터넷 연예매체 디스패치와 경기지역 신문사인 경기신문 등 언론사 기자 4명을 검찰에 송치했다.&lt;br&gt;&lt;br&gt;A씨는 작년 10월 당시 인천경찰청 마약범죄수사계가 작성한 수사 보고서 원본을 사진으로 찍어 디스패치 기자에게 건네준 혐의를 받고 있다. 이 보고서에는 이씨의 실명과 직업 등이 담겼다. 이 보고서는 디스패치 기자를 포함해 4명이 공유했던 것으로 파악됐다. 디스패치는 이씨 사망 이튿날인 작년 12월 28일 보고서 사진을 포함한 내용을 보도했다.&lt;br&gt;&lt;br&gt;또 B씨는 이씨가 마약 혐의로 경찰의 수사를 받고 있다는 정보를 경기신문 기자에게 전화로 알려준 혐의를 받고 있다. 경기신문은 지난해 10월 19일 ‘톱스타 L씨, 마약 혐의로 내사 중’이라는 제목의 기사로 이 사건을 처음 보도했고, 이후 여러 매체의 후속 보도가 잇따르면서 이씨의 실명이 대중에 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 기자 4명을 송치한 데 대해 유사 사례와 판례를 검토한 결과 정보를 취득한 기자들도 개인정보보호법 위반 혐의를 적용할 수 있다고 판단했다고 밝혔다. 경찰은 정보를 제공받은 기자가 기사화하지 않은 사례도 있지만 법령은 개인정보를 제공받은 사람도 처벌이 가능하다고 덧붙였다.&lt;br&gt;&lt;br&gt;이씨는 마약 투약 혐의로 지난해 10월 14일 형사 입건됐으며, 약 두 달간 세 차례에 걸쳐 경찰 소환 조사를 받았다. 그는 세 번째 소환 조사를 받은 지 나흘 뒤인 지난해 12월 27일 서울 종로구 와룡공원 인근에서 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>민노총 산하 광주글로벌모터스 복수노조, ‘단일노조’로 뭉치나</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/08/VFPSK7PESRGNDG7CUK2OUNKTP4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/08/VFPSK7PESRGNDG7CUK2OUNKTP4/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Jul 2024 05:24:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UPBYJ2D3JRDABBTHXBHU2R5ESY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민주노총 금속노조 광주전남지부와 광주글로벌모터스 노조가 지난 1일 광주광역시 북구 광주지방노동청사 앞에서 '부당노동행위 구제신청' 기자회견을 열고 구호를 외치고 있다. /진창일 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주노총 가입을 마친 광주글로벌모터스(GGM) 1·2노조가 단일노조로 본격적인 통합을 예고했다.&lt;br&gt;&lt;br&gt;민노총 금속노조 광주·전남지부는 8일 “광주글로벌모터스노동조합(1노조)가 금속노조 가입을 완료함에 따라 이날 ‘지회 결성총회’를 연다”고 밝혔다. GGM은 지난 2019년 노조 대신 상생협의회를 통해 노사 문제를 논의하는 노·사·민·정 대타협을 통한 ‘광주형 일자리’ 핵심사업으로 출범했다. 하지만 지난 1월 1노조가 설립됐고 3월 2노조인 ‘GGM 노조’가 출범했다.&lt;br&gt;&lt;br&gt;2노조가 지난 4월 23일 금속노조 가입을 먼저 마쳤고 1노조는 지난 4월 30일 민노총 가입 여부를 묻는 찬반투표 결과 노조원 92.3%의 찬성으로 지난 4일 금속노조 가입을 마쳤다. 1노조의 민노총 금속노조 지회 결성총회는 1·2노조가 민노총 산하 단일노조로 통합하기 위한 첫 단추다.&lt;br&gt;&lt;br&gt;민노총 관계자는 “한 사업장에 하나의 민노총 지회를 두도록 돼 있다”며 “1노조의 금속노조 가입으로 사실상 한 몸이 된 산별노조가 하나의 지회로 통합하기 위한 절차가 이번 결성총회”라고 설명했다.&lt;br&gt;&lt;br&gt;노조가 결성총회와 함께 사측을 향한 ‘단체교섭 규탄 결의대회’도 연다. 단체교섭은 노사가 임금, 복지 등 근로조건과 관련해 협상하는 절차를 말한다.&lt;br&gt;&lt;br&gt;노조는 “지난 4월 17일 1·2노조가 연합해 과반수 노조 자격으로 사측에 단체교섭을 요구했지만, 사측은 1노조가 단독 과반노조로 교섭 대표 노조에 해당한다며 단체교섭을 거부했다”며 “이에 전남지방노동위원회가 1노조를 과반수 노조로, 중앙노동위원회는 두 노조를 교섭 대표 노조로 결정했음에도 사측은 단일·공동교섭 모두 거부하고 있다”고 주장하고 있다.&lt;br&gt;&lt;br&gt;노조는 단체교섭을 통해 사측에 근로자들의 임금인상 등을 추진할 것으로 전망된다. 노조 측은 GGM 출범 당시 적정임금·적정노동, 지자체 등의 주거·교육 등 복지를 통한 실질임금 보전이란 ‘사회적 합의’를 통해 약속했던 초임 연봉 3500만원과 달리 실질적 임금은 주 44시간 기준 2940만원에 불과하다는 입장이다.&lt;br&gt;&lt;br&gt;반면 GGM은 “교섭거부는 사실이 아니다”며 “기술직 1년차 초봉은 주거지원비와 격려금 등을 포함하면 3748만원 수준”이라고 맞선다.&lt;br&gt;&lt;br&gt;GGM 관계자는 “1·2노조의 실질적인 통합절차가 마무리되지 않은 상황에서 교섭 요구가 있었고, 곧 중노위에서 공동교섭과 단일교섭 중 어느 방법이 타당한지 공식적인 결정이 내려질 것”이라며 “중노위의 판단이 담긴 결정문이 도착하면 그대로 이행하겠다”고 말했다.&lt;br&gt;&lt;br&gt;이날 결성총회를 열기 위한 장소 제공 여부를 두고도 노사의 신경전이 이어졌다. 금속노조 광주·전남지부 관계자는 “결성총회를 사내 강당에서 개최하고자 회사에 장소 협조를 요청했지만 거부했고 인접한 광주그린카진흥원도 거부했다”며 “조합원 총회 장소 제공조차 거부하는 태도가 과연 노사 상생인지 묻고 싶다”고 했다.&lt;br&gt;&lt;br&gt;GGM 측은 “노조가 설립됐더라도 시설물 협조 등에 관한 사항이 포함된 노사간 협약이 있어야 결성총회를 위한 공간 대여가 가능하다”며 “아직 조합원 명단 통보도 못 받았기 때문에 교섭을 통한 협약이 맺어지면 충실히 이행할 것”이라고 반박했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/H6NJCE2LEFARXHDIJWGWVGQHOQ.jpg?width=4000&amp;height=3000&amp;auth=a44eb74d8b585f7f9cd8b51e887a3c0556df0f6984e8aadd3cf6e3c0ad1e1dba&amp;smart=true" type="image/jpeg" height="3000" width="4000">
-        <media:description type="plain">민주노총 금속노조 광주전남지부와 광주글로벌모터스 노조가 1일 광주광역시 북구 광주지방노동청사 앞에서 '부당노동행위 구제신청' 기자회견을 열고 구호를 외치고 있다. 진창일 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">진창일 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>軍입대 앞두고 보훈회관에 기부한 세종대 학생들</title>
       <link>https://www.chosun.com/national/national_general/2024/07/08/TLY3AADSKJFWXGS2HYA7VPT6RI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/08/TLY3AADSKJFWXGS2HYA7VPT6RI/</guid>
@@ -925,28 +948,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/VJ6VRSDX5VHXRG7JYGYVN3EHME.jpg?width=1400&amp;height=1050&amp;auth=7236b897218446d764df690bf966ba61384978634553ccb272da327fe6e2de48&amp;smart=true" type="image/jpeg" height="1050" width="1400"/>
     </item>
     <item>
-      <title>현아·용준형, 10월 결혼설 …소속사 “확인중”</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/08/NDIDRIPM5FADPJVQTWIUZQTTXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/08/NDIDRIPM5FADPJVQTWIUZQTTXY/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Jul 2024 02:33:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S7G73BA5OJA2JONL6MSBQTFPTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 현아, 용준형./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;가수 현아(32)와 용준형(34)의 결혼설이 불거졌다.&lt;br&gt;&lt;br&gt;8일 YTN 보도에 따르면 현아와 용준형은 오는 10월11일 서울의 모처에서 결혼식을 올린다.&lt;br&gt;&lt;br&gt;해당 매체는 두 사람을 잘 아는 연예 관계자의 말을 빌려 “최근 연인으로 발전한 뒤 사랑에 대한 확신을 가져 결혼을 결정한 것 같다”며 “오랫동안 친구로 지내며 연예계 생활의 고충을 잘 이해하고 서로에 대한 위로와 공감으로 믿음과 신뢰가 돈독하다”고 전했다.&lt;br&gt;&lt;br&gt;이 같은 보도에 대해 양측 소속사는 “사실 확인 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUQJNWKXEZE5TBEOLAJ2ZWHE2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 현아가 인스타그램에 용준형을 태그하며 올린 사진. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현아와 용준형은 지난 1월 공개 열애를 시작했다.&lt;br&gt;&lt;br&gt;당시 현아는 자신의 SNS에 한 남성과 손을 잡고 있는 뒷모습을 공개한 뒤 “예쁘게 봐달라”라며 용준형을 태그해 열애설이 불거졌다. 다음날 용준형은 팬 커뮤니티를 통해 “서로 긍정적인 에너지 받으면서 잘 지내고 있다. 예쁘게 지켜봐 줬으면 좋겠다”며 현아와의 열애설을 인정했다.&lt;br&gt;&lt;br&gt;두 사람은 과거 각각 그룹 포미닛, 비스트로 활동할 당시 큐브엔터테인먼트에서 한솥밥을 먹었다. 2010년에는 용준형이 현아의 솔로곡 ‘체인지’ 피처링을 맡기도 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“딸 출산 선물 살 돈 필요”...부하직원 속여 1억1500만원 가로챈 前언론사 간부 ‘징역 1년2개월’</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/08/RHWWQCHFDJBHHKMOA7ZI2NDXXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/08/RHWWQCHFDJBHHKMOA7ZI2NDXXQ/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Jul 2024 01:56:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2JH54QIOSVGRTHWN627RBN5R7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주지방법원. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부하직원에게 1억1500만원을 빌리고 갚지 않은 전직 언론사 간부가 실형을 선고 받았다.&lt;br&gt;&lt;br&gt;광주지법 형사6단독(김지연 부장판사)은 8일 사기 혐의로 기소된 A(63)씨에게 징역 1년2개월의 실형을 선고했다고 밝혔다. 언론사 간부였던 A씨는 지난 2020년 11월부터 2021년 10월까지 3차례에 걸쳐 부하직원이었던 B씨에게서 1억1500만원을 가로챈 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 직장 상사였던 점을 이용해 B씨에게 “땅을 샀는데 중도금이 필요하다”, “딸의 출산 선물을 살 돈이 필요하다”, “사채 빚을 먼저 해결해야 네 돈을 갚을 수 있다”며 1500~5000만원씩 빌려간 뒤 갚지 않은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “A씨가 돈을 빌릴 당시 거액의 부채를 안고 있었고 자신의 월수입과 재산만으로 부채를 감당하기 어려워 피해자에게 돈을 상환할 의사나 능력이 없었다”며 “부하직원인 피해자와 신뢰관계를 이용해 거액을 편취했고 피해액 대부분도 회복되지 않아 실형 선고가 불가피하다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/2JH54QIOSVGRTHWN627RBN5R7E.jpg?width=600&amp;height=400&amp;auth=19b88e41c9b1072ea4fdc209357e93969f261e7346c469ca8176a439018f5f6f&amp;smart=true" type="image/jpeg" height="400" width="600">
-        <media:description type="plain">광주지방법원. /조선DB</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
       <title>美 유학중 ‘성착취물 제작·배포’로 체포영장…법원 “여권 반납 명령 정당”</title>
       <link>https://www.chosun.com/national/court_law/2024/07/08/42FVHKLE6FHJ7PCHBUO3RRSULQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/08/42FVHKLE6FHJ7PCHBUO3RRSULQ/</guid>
@@ -954,15 +955,6 @@
       <description/>
       <pubDate>Mon, 08 Jul 2024 01:51:54 +0000</pubDate>
       <content:encoded>성 착취물을 제작하고 배포한 혐의 등으로 체포영장이 발부된 피의자의 여권을 반납하게 하는 처분은 정당하다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J3MJAAINUZFP3PHIQXY7BTGCNE.png"&gt;&lt;figcaption&gt;&lt;small&gt;음란물 유포 성 착취 일러스트. /일러스트=정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 법조계에 따르면 서울행정법원 행정1부(재판장 양상윤)는 A씨가 외교부 장관을 상대로 “여권반납명령을 취소하라”며 제기한 소송을 최근 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;A씨는 2019년 4월에 발급받은 여권으로 그해 9월 미국으로 출국해 머무르고 있었다. 그러던 중 작년 4월 아동·청소년의 성보호에 관한 법률 위반(성착취물 제작·배포 등) 혐의 등으로 체포영장이 발부됐다.&lt;br&gt;&lt;br&gt;이에 따라 외교부는 경찰의 요청에 따라 작년 5월 A씨에게 여권반납명령을 내렸다. 여권법에 따르면 ‘장기 2년 이상의 형에 해당하는 죄로 기소된 사람 또는 장기 3년 이상의 형에 해당하는 죄로 기소중지 또는 수사중지 되거나 체포영장·구속영장이 발부된 사람 중 국외에 있는 사람’은 여권 반납 대상자가 된다.&lt;br&gt;&lt;br&gt;A씨는 “장기 3년 이상의 형에 해당하는 아동·청소년의 성보호에 관한 법률 위반죄를 범한 사실이 없고, 이 사건 체포영장의 발부 자체도 그 요건을 충족하지 못해 위법하다”면서 “여권반납명령으로 달성하려는 공익보다 내가 당하는 불이익이 훨씬 크므로 여권 반납 명령 처분은 취소돼야 한다”고 주장하며 소송을 제기했다.&lt;br&gt;&lt;br&gt;하지만 재판부는 A씨가 여권법상 여권반납명령 대상자인 ‘장기 3년 이상의 형에 해당하는 죄로 체포영장이 발부된 사람 중 국외에 있는 사람’에 포함된다며 A씨 주장을 받아들이지 않고, 외교부의 이러한 처분은 적법하다고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 “A씨는 장기 3년 이상의 형에 해당하는 아동·청소년의 성보호에 관한 법률 위반죄 등을 범했다고 의심할 만한 상당한 이유가 있고 혐의의 상당성을 뒤집을 만한 사정은 보이지 않는다”며 “이 사건 처분의 전제가 되는 이 사건 체포영장의 작성방식, 기재내용, 유효기간 등을 면밀히 살펴보더라도 그 발부 요건이나 절차에 있어 어떠한 위법이나 하자가 있다고 보이지 않는다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “A씨가 이 사건 처분으로 인해 몇년여 간 매진해온 학업을 중단하게 될 우려 등이 있다고 하더라도, 이러한 불이익이 국가의 형사사법권 확보라는 공익보다 결코 크다고 할 수는 없다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경기도 법카 유용 의혹 이재명 부부 소환 통보</title>
-      <link>https://www.chosun.com/national/regional/2024/07/08/343MCWI6GJH2BHMQJXLQBQLDDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/08/343MCWI6GJH2BHMQJXLQBQLDDE/</guid>
-      <dc:creator>수원=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 07 Jul 2024 15:50:00 +0000</pubDate>
-      <content:encoded>이재명 더불어민주당 대표와 배우자 김혜경씨의 ‘경기도 법인카드 사적 사용 의혹’을 수사하고 있는 검찰이 이 대표 부부를 소환 통보했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;수원지검 공공수사부(부장 허훈)는 지난 4일 업무상 배임 등 혐의를 받고 있는 이 전 대표 부부에게 피의자 신분으로 출석해 조사를 받으라고 통보했다. 검찰은 소환 날짜는 특정하지 않았고, 이 전 대표 측과 구체적인 일정을 협의하기로 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 사건은 2018∼2019년 경기도지사였던 이 전 대표와 김혜경씨가 당시 경기도 별정직 5급 공무원이면서 수행비서 역할을 한 배모씨 등에게 개인 음식값 등을 경기도 법인카드로 결제하도록 했다는 의혹이다. 결국 경기도 예산을 사적(私的)으로 유용했다는 것이다.&lt;br&gt;&lt;br&gt;당시 배씨의 지시로 음식값 등을 결제하고, 도지사 관사와 사택 등에 배달하는 역할을 맡았던 경기도 7급 공무원 조명현씨는 작년 8월 국민권익위원회에 이 전 대표의 법인카드 유용 지시 및 묵인 행위를 조사해달라고 신고했다. 권익위는 “이 대표가 배우자의 법인카드 유용 사실을 알았을 개연성이 있다”고 판단했고, 사건을 수원지검으로 넘겼다.&lt;br&gt;&lt;br&gt;이 전 대표 부부를 소환한 데 대해 민주당은 이날 기자회견을 열고 “순직 해병 특검법이 처리되고 비위검사 탄핵이 거론되는 이 시점에 갑자기 소환하겠다고 한다”며 “이번 출석 요구는 정권에 대한 국민의 분노와 ‘검찰 리스크’를 동시에 덮기 위한 ‘국면 전환 쇼’로 보인다”고 했다. 또 “대장동으로도, 성남FC로도, 백현동과 쌍방울로도 실패하자 돌려막기 하듯 다시 다른 건을 들춰내 이 전 대표를 망신 주고 음해해 기어이 범죄자의 낙인을 찍고 싶은 모양”이라고 주장했다.&lt;br&gt;&lt;br&gt;민주당 입장에 대해 수원지검은 별도의 입장문을 내고 “이번 출석 요구는 형사소송법에 근거한 통상의 수사 절차이고, 고발된 혐의 사실에 관해 당사자의 진술을 듣고 소명할 기회를 주는 차원”이라며 “검찰은 증거와 법리에 따라 사건을 처분할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
