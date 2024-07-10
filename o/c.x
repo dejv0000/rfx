@@ -13,6 +13,41 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>쯔양 “전남친이 4년간 폭행·협박, 40억 뜯겨...술집서 일 시키기도”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/11/LSB6LNXBLRCQ7HT7KBVJBUO7NI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/11/LSB6LNXBLRCQ7HT7KBVJBUO7NI/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Jul 2024 22:30:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ON4UFERDLBDGJMH4AZZVGZHWA4.png"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 쯔양이 피해사실을 털어놓으며 눈물을 보이고 있다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구독자 1000만명을 보유한 먹방 유튜버 쯔양(본명 박정원)이 4년간 전 남자친구로부터 폭행과 착취, 협박을 당했다고 밝혔다.&lt;br&gt;&lt;br&gt;쯔양은 11일 새벽 자신의 유튜브 채널을 통해 ‘모두 말씀드리겠습니다’라는 제목의 라이브 방송을 진행했다. 유튜브 채널 가로세로연구소 측이 ‘렉카 연합’으로 불리는 일명 ‘사이버 렉카(조회수를 올리기 위해 가짜뉴스를 퍼트리는 이들)’로부터 쯔양이 과거를 빌미로 협박당해 돈을 갈취 당했다고 주장하자 반박에 나선 것이다.&lt;br&gt;&lt;br&gt;쯔양은 쉬어서 제대로 나오지 않는 목소리로 “다른 방송에서 언급된 내용에 대해서 설명을 드려야할 것 같아서 급하게 방송을 켰다”고 말문을 열었다.&lt;br&gt;&lt;br&gt;쯔양은 방송 일을 시작하기 전, 대학교를 다니다 휴학을 한 상태에서 전 남자친구 A씨를 만났다고 밝혔다. 그는 “처음에 엄청 잘 해줬었는데, 시간이 얼마 지나지 않아서 폭력적인 모습을 보였다”며 “그래서 헤어지자고 얘기를 했는데, 그때부터 지옥 같았던 일들이 일어났다”고 했다.&lt;br&gt;&lt;br&gt;그는 “(A씨가) 저 몰래 찍은 불법촬영 동영상을 유포하겠다고 협박을 했고, 우산 등의 둔기로 폭행을 당하기도 했다”고 주장했다. 또 “A씨가 자신이 일하던 술집으로 데려가 ‘앉아서 술만 따르면 된다’며 강제로 일을 하게 했다. 그래서 잠깐 일을 했던 것”이라며 “그때 번 돈도 A씨가 모두 빼앗아갔다. 이체내역도 있다”고 했다.&lt;br&gt;&lt;br&gt;쯔양은 “무서워 말을 못하고 있다가 ‘일을 그만하겠다’고 얘기하자 (A씨가) 다시 폭력을 썼다. 매일같이 하루에 두 번씩은 맞았다. 가족에게도 이야기하겠다고 협박해 더 대들지 못했다”고 했다. A씨는 이후 “돈은 어떻게 벌어다 줄 거냐”고 물었고, 쯔양은 “방송으로 돈을 벌겠다”고 답했다고 한다. 쯔양은 “거의 매일 맞으며 방송을 했다. 얼굴은 티 난다며 몸을 때렸다”며 “방송 처음할 때 벌었던 돈도 모두 가져갔다”고 했다.&lt;br&gt;&lt;br&gt;그는 “방송이 커져서 잘 되기 시작하자 A씨가 소속사를 만들었다”며 “7(A씨)대3(쯔양) 비율의 불공정계약을 맺었지만, 그마저도 지키지 않았다. 그 당시 광고 수익도 하나도 받지 못했다”고 했다. 이어 “뒷광고 논란이 불거지자 방송을 그만두게 했다가, 이후 여론이 괜찮아지자 복귀를 하라고 시켰다”고 했다. 그는 이와 관련한 카톡 증거가 남아있다고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NB6JHWQIUBHUXH6SAHQPGDTBAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;쯔양. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쯔양은 “얼마 전에야 일이 해결됐다”며 “방송 시작한지 5년이 됐는데, 그중 4년 동안 매일 같이 이런 일이 있었다”고 했다. 그는 “A씨 주변인들에게도 협박을 당해 2억원이 넘는 돈을 뜯겼다”고 주장했다.&lt;br&gt;&lt;br&gt;쯔양은 A씨로부터 벗어나는 데 직원들의 도움을 많이 받았다고 했다. 그는 “도저히 버틸 수가 없어서 있는 돈을 다 줄테니 떠나달라고 부탁을 했는데 ‘이거 가지곤 성에 안 찬다’고 하더라. 이후 연락을 끊었더니 집 앞에 찾아오고, 직원들한테까지 연락해서 협박을 했다”라며 “A씨가 유튜버들에게 과거에 대해 과장된 사실이나 없던 일도 만들어 이야기하고 다녀 결국 고소를 진행했다”고 말했다.&lt;br&gt;&lt;br&gt;쯔양은 눈물을 보이면서도 말을 이어갔다. 그는 “사실 그만두고 싶다는 생각을 수천번도 더 했다. 차라리 몸이 아픈 건 괜찮았다. 맞는 거는 아무렇지도 않았고, 협박도 너무 익숙해져서 아무렇지도 않았다”며 “그런데 제가 상처입을까봐 최대한 말 조심해주고, 뭐든지 다 나서서 해주는 가족 같은 직원들 때문에라도 그만두고 싶지 않았다. 그래서 최근에서야 독립을 하게 됐다”고 했다. 그러면서 “저는 어떤 방식으로도 이 일이 알려지는 건 원하지 않았다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SYAVWOCQJ5C2LL4WOXTOCC7YYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;왼쪽부터 김태연, 김기백 변호사. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 방송에는 쯔양의 법률대리인인 김태연 태연법률사무소 변호사, 김기백 변호사도 함께했다. 김 변호사는 “쯔양의 피해사실도 컸고, 증거 사진도 많았다”며 “성폭행, 폭행상습, 상습협박, 상습상해, 공갈(미수죄 포함), 강요(미수죄 포함), 통신매체이용음란 등 혐의로 형사고소를 진행했다”고 했다. 이어 A씨가 쯔양 지인에게 보낸 협박 메시지, 폭행 당시 상황이 담긴 녹취, 폭행으로 인한 상해 증거사진 일부를 공개했다. 김 변호사는 “증거 녹취만 3000개가 넘었고, 사진 증거 양도 방대했다”고 했다.&lt;br&gt;&lt;br&gt;하지만 안타깝게도 사건 진행 중 A씨가 극단적 선택으로 사망하면서 형사 고소는 불송치, 공소권 없음으로 종결됐다. 김 변호사는 “쯔양이 못 받았던 정산금은 최소 40억원”이라며 “소송을 진행했을 때에는 이미 A씨가 임의로 사용한 부분들이 많았기 때문에 남은 금액이 미정산금에 미치지 못했다. 그래도 조금이나마 정산금을 받았다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “이번 사안으로 당사자들에 대한 억측이나 오해가 없기를 바라며, 유가족 등에 대한 2차 피해가 발생하지 않기를 바란다”고 당부를 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/DLNJMVFLGZABVOSAR6EDBZBE7I.png?width=1059&amp;height=795&amp;auth=b903c0069b405536e7848658ba85f02af8a1d66a91fdf2c0ea644771b2c502b7&amp;smart=true" type="image/png" height="795" width="1059">
+        <media:description type="plain">유튜버 쯔양이 피해사실을 털어놓으며 눈물을 보이고 있다. /유튜브</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>역주행 접촉사고 내자 “에라 모르겠다”…사이드미러 접고 달린 만취 車</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/11/IPYCILHGQJDI7IFQ33CCHQPF6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/11/IPYCILHGQJDI7IFQ33CCHQPF6Q/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Jul 2024 22:17:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7XW5DQ2UVG7XBOH77ULRC7WKA.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 관악구의 한 일방통행 도로에서 만취 상태의 운전자가 역주행을 하다 접촉사고를 내고 도주하고 있다./경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만취 상태로 차를 몰다 일방통행 도로를 역주행한 운전자가 접촉사고를 내고 달아났다가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;10일 경찰청 유튜브에는 ‘이건 범퍼카 아니야? 입이 떡! 벌어지는 상황’이라는 제목의 영상이 올라왔다.&lt;br&gt;&lt;br&gt;영상에 따르면 지난달 서울 관악구의 한 일방통행 도로에서 한 차량이 역방향으로 진입한다.&lt;br&gt;&lt;br&gt;그대로 도로를 역주행하던 차량은 마주 오는 차량을 보고 잠시 정차하더니 인도 위로 올라탔다. 인도 위에는 보행자들이 있었지만 아랑곳 않고 인도를 주행했다.&lt;br&gt;&lt;br&gt;이 과정에서 역주행 차량은 일방통행 도로를 정상주행하던 차량의 좌측 사이드미러를 치며 접촉사고를 냈다.&lt;br&gt;&lt;br&gt;이에 피해차주가 손을 뻗어 운전자를 불렀지만, 오랜 시간 미동도 없이 멈춰있던 가해 차량은 사이드미러를 접은 채 도주했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HIKZE6LKGJD6BHSBPZWD3SE47Q.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 관악구의 한 도로에서 만취 상태의 운전자가 접촉사고를 내고 도주하고 있다./경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일방통행 도로를 벗어난 차량은 잠시 뒤 차량들 사이를 무리하게 빠져나오다 또 다른 차량과 접촉사고를 냈다. 이번에도 이 차량은 별다른 조치 없이 현장을 떠났다.&lt;br&gt;&lt;br&gt;사고 후 미조치 차량이 있다는 신고를 받은 경찰은 수색 끝에 가해 차량을 발견했다.&lt;br&gt;&lt;br&gt;경찰은 운전자의 도주 방지를 위해 가해 차량 앞을 막아선 뒤 운전자를 하차시켰다. 경찰이 음주여부를 확인한 결과 운전자는 만취 상태였다.&lt;br&gt;&lt;br&gt;경찰은 해당 차량 운전자를 현장에서 검거했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>﻿“폭우에 다리 무너져” 신고에 경찰까지 나섰는데…합성사진이었다</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/11/FT7YPD6L65B2FHDRY7G6O54YLY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/11/FT7YPD6L65B2FHDRY7G6O54YLY/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Jul 2024 21:52:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMPI2534CVCRRE6F4CB24QZRAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;합성 사진 속 거창교(왼쪽)와 실제 거창교의 모습. /거창군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 거창군 거창읍에 있는 다리가 호우 때문에 일부 파손됐다는 합성 사진이 나돌아 경찰이 차량 통제까지 나서는 소동이 벌어졌다.&lt;br&gt;&lt;br&gt;거창군에 따르면 10일 SNS에 거창교 일부가 붕괴된 것 같은 사진이 잇따라 올라왔다. 사진 속 거창교 상판은 갈라져 기울어졌고, 마을 일부는 물에 잠겨 있었다.&lt;br&gt;&lt;br&gt;해당 사진이 퍼지자 ‘밤새 내린 비로 거창교가 무너진 것 같다’는 신고가 잇따랐다. 경찰은 안전 관리를 위해 인력 20여명을 동원해 이날 오전 9시부터 2시간가량 거창교를 통제했다.&lt;br&gt;&lt;br&gt;하지만, 교량을 자세히 확인한 결과 사진과 달리 거창교는 파손된 곳 없이 멀쩡한 상태였다. 실제로 접수된 피해 사례도 없었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/45RDITHYGPNLAGIFKQFNEI5SRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;거창군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군이 진상을 파악한 결과 합성 사진이 처음 유포된 곳은 한 거창군의원이 들어가 있는 카카오톡 단체 대화방이었다. 이곳에 한 군민이 합성 사진을 올렸고, 이후 인터넷에 일파만파 퍼져나간 것으로 전해졌다.&lt;br&gt;&lt;br&gt;누군가 올린 사진 한 장 때문에 경찰과 군청 직원들은 갑작스러운 교량 통제에 동원되고, 상당수 주민은 교통 통제로 인해 불편을 겪어야 했다.&lt;br&gt;&lt;br&gt;군 관계자는 “누가 어떤 목적으로 합성 사진을 만들어 배포했는지 경위는 밝혀지지 않았다”며 “경찰에 수사 의뢰하는 방안을 고려 중”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MMPI2534CVCRRE6F4CB24QZRAQ.jpg?width=647&amp;height=583&amp;auth=8e9ce800afc3ab4f1bc5d3219a523fa2974d45514bf49146b665eafcc0b0e9fa&amp;smart=true" type="image/jpeg" height="583" width="647">
+        <media:description type="plain">합성 사진 속 거창교(왼쪽)와 실제 거창교의 모습. /거창군</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>“경제자유구역에서 나갈 자유를 달라”</title>
       <link>https://www.chosun.com/national/transport-environment/2024/07/11/3N323NLLQJBKPKCUBXUILKDM4E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/11/3N323NLLQJBKPKCUBXUILKDM4E/</guid>
@@ -871,18 +906,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQIGDZR2Y5LC3OTRAP5EJVVFJU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;중부지방에 집중호우가 발생한 10일 서울 중구 서울역 대합실 전광판에 일부열차 운행 중단 안내문이 나오고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 밤사이 내린 집중호우로 10일 첫차부터 무궁화호·ITX-새마을 등 일반열차의 운행이 일부 중지됐다.&lt;br&gt;&lt;br&gt;한국철도공사(코레일)에 따르면, 장항선과 경북선은 오후 6시까지, 충북선은 낮 12시까지 전 구간 운행이 중지된다.&lt;br&gt;&lt;br&gt;경부선은 낮 12시까지 서울~동대구 구간을, 호남선은 오후 6시까지 서대전~익산 구간의 운행을 멈춘다. 익산~목포 구간은 운행 여부를 검토 중이다.&lt;br&gt;&lt;br&gt;코레일 측은 “선로 침수, 산사태, 낙석 등 위험 요소에 대한 안전 확보를 위한 선제적인 조치”라며 “운행 중지 노선에 대한 열차 승차권은 위약금 없이 자동 반환된다”고 했다.&lt;br&gt;&lt;br&gt;KTX 경부·호남선은 철로 상황에 따라 단계적으로 속도를 조절하며 정상 운행 중이지만, 일부 지연되거나 호우로 인해 서행할 수 있다.&lt;br&gt;&lt;br&gt;코레일 관계자는 “열차 운행 재개 등은 기상 상황에 따라 변동될 수 있다”며 “열차 이용고객은 반드시 코레일톡 앱과 코레일 홈페이지(&lt;a href="http://www.letskorail.com" target="_blank"&gt;www.letskorail.com&lt;/a&gt;), 철도고객센터(1544-7788)에서 열차운행 상황을 확인해 주시길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>파타야 시멘트통 살인 피의자, 검거 58일만에 국내 송환</title>
-      <link>https://www.chosun.com/national/2024/07/10/Q35S6FAAPBHBZLQJDSGMZIMITU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/07/10/Q35S6FAAPBHBZLQJDSGMZIMITU/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Jul 2024 00:01:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U7RJSUUCLRMJBLVTYI2FBPE6V4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청은 10일 오전 파타야 살인사건의 피의자 A(27)씨를 캄보디아 프놈펜에서 국내로 강제 송환했다고 밝혔다./경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;태국 파타야에서 30대 한국인 남성을 살해한 뒤 플라스틱 드럼통에 넣어 호수에 유기한 혐의를 받고 있는 일당 3명 중 한 명이 10일 국내로 강제송환됐다.&lt;br&gt;&lt;br&gt;경찰은 10일 오전 7시40분쯤 인천국제공항을 통해 피의자 A(27)씨를 송환했다고 밝혔다. A씨 등 3명은 지난 5월 3일 태국 파타야에서 피해자 D(34)씨를 살해한 뒤 시신을 200L짜리 플라스틱 드럼통에 넣고 시멘트를 채워 호수에 버린 혐의를 받고 있다. 태국 현지 매체에 따르면, D씨의 시신은 발견 당시 열 손가락이 모두 절단된 상태였다.&lt;br&gt;&lt;br&gt;A씨는 범행 직후인 5월 9일 캄보디아로 도주했고, 도주 5일 만인 5월 14일경 현지 첩보와 제보를 토대로 캄보디아 경찰주재관, 현지 경찰의 공조를 통해 프놈펜에서 검거됐다. 경찰청은 A씨의 신속한 한국 송환을 위해 그동안 태국ㆍ캄보디아 당국과 협의를 지속해 왔다고 한다. 캄보디아 당국은 범죄인인도 절차에 따르려던 당초 입장을 바꿔, 지난 7월 4일 피의자를 강제 추방 형식으로 우리 측에 인도한다는 방침을 정했고, 이에 경찰청은 송환팀 4명을 현지에 파견해 피의자 A씨를 인천국제공항으로 송환해 올 수 있었다.&lt;br&gt;&lt;br&gt;검찰에 따르면 이들 일당은 태국 등지에서 불법 스포츠 도박사이트를 운영하다 수익이 여의치 않자 한국인 관광객의 금품을 노리고 이런 범행을 저지른 것으로 조사됐다. A씨 송환으로 다소 교착 상태였던 파타야 드럼통 살인 사건 수사에도 탄력이 붙을 것으로 전망된다. 경찰청은 A씨에 대해 수사관서인 경남경찰청을 중심으로 수사를 집중할 방침이다. 지난 5월 12일 전북 정읍에서 검거돼 현재 재판 진행 중인 B(26)씨에 대한 혐의 입증에도 더욱 탄력이 붙을 것으로 보인다. 경찰은 아직 도피 중인 피의자 C(39)씨에 대해선 미얀마 등 도피 예상국가 경찰당국과 국제공조를 통해 조기에 검거하겠다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/DZ4VQQ5KZY5LEO26RDO5XIY7WY.jpg?width=720&amp;height=470&amp;auth=0cae4273804e2ea881be6ca6160895325d0e91477bf7935ef8b907e21d85ba24&amp;smart=true" type="image/jpeg" height="470" width="720">
-        <media:description type="plain">경찰청, 파타야 살인사건 피의자 이모씨 국내 강제송환</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>‘SM 시세조종’ 카카오 김범수 20시간 고강도 밤샘 조사 끝 새벽 귀가</title>
       <link>https://www.chosun.com/national/national_general/2024/07/10/RAAFJZLXO5H75GBNNMZ6VUBNVI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/10/RAAFJZLXO5H75GBNNMZ6VUBNVI/</guid>
@@ -890,15 +913,6 @@
       <description/>
       <pubDate>Wed, 10 Jul 2024 00:21:46 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EMYCTVKFWULQATJVFYK3WZIV5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김범수 카카오 미래이니셔티브센터장이 23일 오전 SM엔터테인먼트 주가 시세조종 의혹과 관련한 조사를 받기 위해 서울 여의도 금융감독원으로 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;’SM엔터테인먼트(SM) 시세조종’ 의혹을 받는 카카오 창업주 김범수 경영쇄신위원장이 첫 검찰 소환 조사에서 약 20시간 동안 고강도 밤샘 조사를 받은 뒤 10일 새벽에 귀가한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;검찰에 따르면 서울남부지검 금융조사2부(부장 장대규)는 9일 오전 8시 10분쯤 김 위원장을 자본시장법 위반 혐의로 소환했고, 10일 오전 3시 20분까지 조사를 진행했다. 이후 김 위원장은 본인이 조사받은 내용이 제대로 기록됐는지를 확인하는 조서 열람 작업을 마치고 4시 45분에야 퇴정했다. 첫 검찰 소환에서부터 20시간 이상 밤샘 조사를 받은 것이다.&lt;br&gt;&lt;br&gt;김 위원장은 이날 출석할 때와 마찬가지로 귀가할 때도 취재진을 피해 비공개로 검찰청을 나간 것으로 전해졌다. 앞서 검찰은 “공보 규정에 따라 사건 관계인이 원하는 경우에는 비공개 소환할 수밖에 없다”고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;김 위원장은 카카오의 SM엔터테인먼트(이하 SM) 인수 과정에서 경쟁사인 하이브의 공개 매수를 방해하기 위해 SM 주가를 높게 설정하는 방식의 시세조종을 벌인 혐의(자본시장법 위반)를 받는다. 검찰은 카카오의 시세조종 여부와 함께 이 과정에서 김 위원장이 지시 또는 승인 등 개입했는지를 들여다보고 있다.&lt;br&gt;&lt;br&gt;검찰이 김 위원장을 소환한 것은 지난해 11월 15일 금융감독원 특별사법경찰(특사경)이 김 위원장을 기소 의견으로 검찰에 송치한지 약 8개월만이다. 검찰은 그간 카카오 사무실 압수 수색과 함께 SM 인수에서 핵심 역할을 한 배재현 카카오 투자총괄대표와 이준호 전 카카오엔터테인먼트 투자전략부문장, 카카오와 시세조종을 공모했다고 지목된 사모펀드 운용사 원아시아파트너스의 지창배 회장 등을 수사해왔다. 인수전 당시 800억원을 들여 SM 주식(2.9%)을 매집했던 원아시아파트너스는 과거 카카오 계열사(카카오VX)에 투자했고, 손자 회사(그레이고)를 인수하기도 했던 곳이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>女 따라 계단 오르는 男...불법촬영하다 시민에게 붙잡혔다</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/10/GP7VMSNH3ZDHJDU247DCHV6QJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/10/GP7VMSNH3ZDHJDU247DCHV6QJI/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Jul 2024 00:08:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GV55UNCMR5GV7PAQ3VSDTJFWQA.gif"&gt;&lt;figcaption&gt;&lt;small&gt;도망가려는 불법촬영범과 몸싸움을 하는 시민./유튜브 채널 '경찰청'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의 한 지하철 역에서 여성 뒤를 따라가며 불법 촬영한 남성이 한 시민의 도움으로 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;9일 유튜브 채널 경찰청에 ‘시민에게 멱살 잡힌 지하철 불법촬영범’이라는 제목의 영상이 올라왔다. 영상은 강남경찰서에서 제공했다.&lt;br&gt;&lt;br&gt;공개된 영상을 보면, 서울의 한 지하철역에서 한 남성은 여성의 뒤를 따라 계단을 올라 출구 쪽 계단까지 따라간다. 그러더니 잠시 후 이 남성은 한 시민에게 붙잡혀 다시 역사 안으로 붙잡혀 왔다.&lt;br&gt;&lt;br&gt;알고 보니 이 남성이 여성을 뒤따라 간 이유는 불법 촬영을 하기 위해서였다. 시민은 이 남성의 행동을 눈치채고 따라가 그를 붙잡은 것이었다.&lt;br&gt;&lt;br&gt;이후 시민은 역무원에게 신고를 하기 위해 이 남성을 데리고 지하철역 계단을 내려가려 했다. 하지만 남성이 저항하면서 몸싸움으로까지 번지고 말았다.&lt;br&gt;&lt;br&gt;잠시 후 이들을 발견한 역무원이 경찰에 신고했고, 신고를 받은 경찰이 현장에 출동했다. 처음에 남성은 범행을 부인했지만, 끝내 “사진 몇 장이 있다”고 시인했다. 확인 결과, 이 남성의 휴대 전화 속에서 수백 개의 불법 촬영물이 발견됐다.&lt;br&gt;&lt;br&gt;이 남성은 현장에서 검거됐고, 검거에 도움을 준 시민에게는 신고 포상금이 주어졌다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “멋진 시민 분이다. 도와주셔서 내가 다 감사하다” “진짜 멋있다” “이런 분들이 더 많아져서 안심할 수 있는 나라가 되길 바란다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;성폭력범죄의 처벌 등에 관한 특례법 제14조(카메라 등을 이용한 촬영)에 따르면 카메라나 그 밖에 이와 유사한 기능을 갖춘 기계장치를 이용해 성적 욕망 또는 수치심을 유발할 수 있는 사람의 신체를 촬영 대상자의 의사에 반해 촬영할 경우 7년 이하의 징역 또는 5000만원 이하의 벌금에 처할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>구독자 1000만 기념… ‘먹방 여신’ 쯔양, 2억원 통 큰 기부</title>
@@ -920,15 +934,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/CKF4WKAKRVBKLBNX37RXR4HDSA.gif?width=1400&amp;height=800&amp;auth=5e3f064c0f9e40b33c08af68c9ec6929081b8393d8e285365b9b3b96663059a2&amp;smart=true" type="image/jpeg" height="800" width="1400">
         <media:description type="plain">폭우 GIF 짤</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>이영표, 또 소신발언 “홍명보 선임, 행정적으로 상당히 문제”</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/09/BTLITL7GCBAG5J3TOHCPGFLZF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/09/BTLITL7GCBAG5J3TOHCPGFLZF4/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 09 Jul 2024 14:23:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KUDEKRBERZHGZJKX2H54H2RI4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이영표 KBS 축구 해설위원. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한축구협회가 홍명보 울산HD 감독을 국가대표팀 감독으로 선임한 것과 관련 이영표 KBS 축구 해설위원이 재차 비판의 목소리를 냈다.&lt;br&gt;&lt;br&gt;축구협회 부회장을 지낸 이영표 해설위원은 9일 JTBC와의 인터뷰에서 “우리가 포옛(전 그리스 국가대표 감독), 바그너(전 노리치 감독), 홍명보 감독님 이렇게 세 분에게 의사를 물었었고 원래의 절차는 기존에 있는 전력강화위원들과 소통을 하고 난 이후에 발표를 했어야 된다”며 “그 과정이 생략됐다는 것이 가장 큰 문제라고 할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;이영표 해설위원은 또 감독을 뽑는 대한축구협회 전력강화위원회의 보안 문제가 제기된 점을 언급하면서 “제가 볼 때는 이것은 행정적으로 상당히 문제가 있다는 생각이 들었다”고 했다.&lt;br&gt;&lt;br&gt;애초에 국내 감독을 뽑으려 했던 게 아니냐는 지적에 대해서는 “제가 확인한 바로는 그건 분명히 아니었다”면서 “저는 2002년 월드컵 때 좋은 외국인 감독 1명이 팀을 어떻게 바꾸는지를 직접 경험을 했다. 20년 만에 지금 손흥민, 황희찬, 황인범, 김민재, 이강인, 이재성 이렇게 황금세대가 나타났는데 이 황금세대에다가 정말 외국인 감독이 한 분 오시면 ‘2026년 월드컵에서 정말 좋은 일이 일어나지 않을까’라는 기대가 저는 있었다. 저는 사실 엄청난 기대를 했었다”고 했다.&lt;br&gt;&lt;br&gt;특히 이영표 해설위원은 “이번 감독 선임 과정에서 협회가 여러 가지 행정적인 실수를 했다”며 “실수가 반복되면 그것은 실수가 아니라 실력이 될 수도 있다. ‘어떤 전체적인 변화가 필요하겠구나’라는 생각을 하게 됐다”고 했다.&lt;br&gt;&lt;br&gt;이영표 해설위원은 전날(8일) KBS 뉴스와의 인터뷰에서도 홍명보 감독 선임에 대해 “K리그 팬들이 도저히 받아들일 수 없고, 이해할 수도 없는 결정”이라며 “이런 결정이 과연 대표팀에 대한 지지로 이어질 수 있을지 상당히 의문이 든다”고 했다.&lt;br&gt;&lt;br&gt;한편, 홍명보 감독은 2026년 6월 열리는 북중미 월드컵이 끝나도 감독직을 이어간다. 2027년 1월 사우디아라비아에서 열리는 아시안컵까지 임기가 보장됐다. 홍명보 감독은 정확한 액수는 알려지지 않았지만 외국인 감독 수준의 연봉을 받기로 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>새벽 택배 나간 40대 경산 아줌마, 급류에 휩쓸려갔다</title>
