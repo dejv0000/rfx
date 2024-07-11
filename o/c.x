@@ -13,6 +13,106 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘테라·루나 폭락’ 권도형 아내, 부동산 지분 추징보전 막았다…국가 상대 승소 </title>
+      <link>https://www.chosun.com/national/national_general/2024/07/11/JYFG5NGBXFGAPEZGJCLMPGYKAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/11/JYFG5NGBXFGAPEZGJCLMPGYKAM/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Jul 2024 11:28:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JIGUJFUKFVAULD7J46FZD7H4PQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3월 가상화폐 ‘테라·루나’ 폭락 사태의 핵심 인물인 권도형 테라폼랩스 대표가 몬테네그로의 교도소에서 출소하고 있다./EPA 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가상화폐 테라·루나 폭락 사태의 핵심 인물인 권도형(33) 테라폼랩스 대표의 아내가 자신의 명의로 된 부동산 지분과 오피스텔 분양권 등에 대한 국가의 추징보전 결정에 반발해 제기한 소송에서 승소했다.&lt;br&gt;&lt;br&gt;서울남부지법 민사12부(재판장 주채광)은 지난달 19일 권씨의 아내인 이모씨가 국가를 상대로 낸 제3자 이의 소송에서 원고 이씨의 승소로 판결했다. 재판부는 “아파트 지분 및 분양권 등에 대한 가압류 집행을 사건 판결이 확정될 때까지 정지한다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “원고가 자신의 명의로 지난 2021년 아파트 지분과 분양권 등을 취득했고, 취득 시점이 모두 원고와 권 대표의 혼인 기간(2020년 결혼) 내이므로 원고의 특유재산으로 추정된다”며 “원고의 특유재산으로 추정되는 제3자의 재산에 대한 것으로서 가압류 집행이 불허해야 한다”고 판단했다.&lt;br&gt;&lt;br&gt;특유재산이란 부부 일방이 혼인 전부터 가진 고유재산과 혼인중 자기 명의로 취득한 재산을 뜻한다. 재판부가 부동산 지분과 분양권 등을 이씨의 자기 명의(단독 명의)로 추정한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X32WC5KC2JLGNT74VVCTEZY6NE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 양천구 서울남부지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이어 재판부는 “성수동 아파트 매매대금 42억원 중 계약금 4억2000만원이 원고 이씨 명의의 예금계좌에서 매도인의 계좌로 이체됐다”며 “이 예금계좌를 원고 이씨가 아닌 권 대표가 실질적으로 지배·관리했다고 볼만한 사유가 없다”고 판단했다. 성수동의 이 아파트는 2021년 3월 각각 10%(아내 이씨), 90%(권 대표) 비율로 소유권 이전 등기를 마쳤다. 논현동 오피스텔 분양권 등에 대해서도 재판부는 “실질적으로 권씨의 소유라고 인정하기에 증거가 부족하다”고 했다.&lt;br&gt;&lt;br&gt;국가는 “아파트와 분양권에 들어간 자금 모두 권 대표가 부담하고, 명의만 아내 이씨에게 한 것”이라며 지난 1일 항소했다.&lt;br&gt;&lt;br&gt;앞서 지난해 4월 서울남부지법 형사12단독 윤찬영 판사는 권 대표의 재산에 대한 검찰의 기소 전 추징보전 청구를 받아들였다. 이로 인해 권 대표가 보유한 서울 성동구 소재 주상복합 아파트와 논현동 소재 신축 오피스텔 분양권 등의 처분이 금지됐었다.&lt;br&gt;&lt;br&gt;한편 지난달 권 대표는 미국 증권거래위원회(SEC)가 제기한 민사소송을 해결하기 위해 약 46억7800만달러 규모의 환수금 및 벌금 납부에 합의한 것으로 전해졌다. 월스트리트저널(WSJ)는 권 대표가 합의한 금액이 “암호 화폐와 관련한 가장 큰 규모의 벌금에 해당한다”고 평가했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>홍제역 버스정류장서 70대 여성 버스에 깔려... 퇴근길 시민들이 구조</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/11/7DUN4T4YSFC6FOC4H4UXOVRFT4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/11/7DUN4T4YSFC6FOC4H4UXOVRFT4/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Jul 2024 13:36:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X3H7FKXNBNOQ5GEO7DSYJZI5P4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 홍제역 인근 버스정류장에서 70대 여성이 버스에 깔리는 사고가 발생했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;버스에서 내린 노인이 출발하려는 버스에 깔리는 사고를 당하자 주변 시민들이 달려와 노인을 구조했다.&lt;br&gt;&lt;br&gt;서울 서대문경찰서는 11일 오후 6시 22분쯤 서대문구 홍제역 인근 버스정류장에서 70대 여성이 버스 바퀴에 깔리며 부상을 입는 사고가 발생했다고 이날 밝혔다.&lt;br&gt;&lt;br&gt;당시 목격자들과 경찰 진술에 따르면 이 여성은 버스에서 내린 뒤 도로 연석에 미끄러지며 넘어졌고, 50대 남성인 버스 기사가 이 사실을 모른 채 출발했다. 여성이 버스에 깔려 위험한 상황에 처하자 주변 시민들이 달려와 버스를 한쪽으로 기울여 구조한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;구조된 여성은 곧바로 병원으로 이송됐다. 여성은 팔과 갈비뼈, 쇄골이 골절되는 부상을 입었지만 생명에는 지장이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;버스 기사는 무언가 버스에 부딪히는 소리를 듣고 버스를 세웠다고 경찰에 진술했다. 경찰은 사고 당시 버스 기사가 음주 상태는 아니었다고 밝혔다. 경찰은 버스 내부 블랙박스 영상 등을 토대로 자세한 사고 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘8년만에 논란 종지부’... 마린시티에 길이 500ｍ 수중 방파제 세운다</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/07/11/B4CLIYEGSND6BNXY6VMR6TKGF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/07/11/B4CLIYEGSND6BNXY6VMR6TKGF4/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Jul 2024 13:28:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CEAWWLV7SNBUZCWFAEUG37SO4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해운대구 마린시티/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;태풍 등으로 속수무책 피해를 입었던 해운대구 마린시티에 방재시설을 짓는 공사가 8년 만에 마침내 시작된다.&lt;br&gt;&lt;br&gt;해운대구는 수영만 자연재해위험개선지구 정비사업의 실시계획 수립을 공고했다고 11일 밝혔다. 자연재해위험개선지구로 지정된 지 8년 동안 특혜논란으로 방재 방안이 세워졌다가 무산되길 반복한 끝에 부산시와 해운대구는 ‘수중 방파제’로 방재시설을 설치하기로 결정했다.&lt;br&gt;&lt;br&gt;월파를 막기 위한 방재 시설을 설치하는 것으로 방식은 ‘수중 방파제’로 불리는 이안제를 쌓을 계획이다.  마린시티 연안과 150ｍ 떨어진 해상에 길이 500ｍ, 전체 14ｍ(해수면에서 4ｍ) 높이 방파석(테트라포드)를 쌓아 파도 높이를 낮춘다는 방침이다. &lt;br&gt;&lt;br&gt;이안제가 생기면 5ｍ 높이 파도를 3ｍ까지 낮출 수 있을 것으로 보고 있다.  공사비는 696억 원(국비 299억 원·시비 266억 원·구비 131억 원)이 투입된다. &lt;br&gt;&lt;br&gt;시는 오는 10월에 착공할 계획으로 예상 공사 기간은 36개월이다.  &lt;br&gt;&lt;br&gt;마린시티는 매년 여름 태풍 때마다 파도가 제방을 넘어오는 월파에 시달린다. 2016년 태풍 차바에 큰 피해를 입고 해운대구는 이곳을 수영만 자연재해위험개선지구로 지정했다. 마린시티 앞바다에 길이 650ｍ짜리 방파제를 짓고 호안을 매립하는 방안을 추진했지만, 행정안전부는 경제성과 환경 문제 등을 이유로 ‘기립식 차수벽’ 설치를 제안했다. 이 차수벽은 보통 때는 눕혀져 있다가 피해가 예상되면 일으켜 세우는 방식이다. 그러나 비용문제로 무산됐다. &lt;br&gt;&lt;br&gt;이후 여러 방안이 제시됐지만, 매번 무산됐다가 마침내 이번에 제시한 방안으로 착공을 앞두게 됐다.&lt;br&gt;&lt;br&gt;김성수 해운대구청장은 “육상과 맞닿은 방파제는 이미 태풍 차바 이후 보강을 한 상태여서 확장하는 것은 조망권 외 여러 이유로 어렵다고 판단됐다”며 “이안제는 파도가 육상에 닿기 전 미리 파도를 부수기 때문에 방재 효과가 크다는 장점이 있다. 시와 함께 조속히 공사를 마쳐 월파 등의 피해를 줄이도록 하겠다”고 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전공의 의존 줄여...전문의·PA 간호사 중심 병원으로</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/07/11/F6XGVW3JERBUJL52NYGRY6GE2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/11/F6XGVW3JERBUJL52NYGRY6GE2Y/</guid>
+      <dc:creator>안준용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Jul 2024 12:41:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VSOUDTI4CBIUZA4SYA6GHVRN7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 한 대학병원 진료실 모니터에 전문의 진료 관련 안내가 표시되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전공의 비율이 최고 40~50%에 이르는 서울 5대 병원 등 상급 종합병원의 인력 구조를 전문의와 진료 지원(PA) 간호사 중심으로 개편하는 방안을 정부가 본격적으로 추진한다. 전공의들의 당직 부담 등을 줄여주고, 근무가 아닌 수련에 더 집중하도록 하겠다는 것이다.&lt;br&gt;&lt;br&gt;정부는 11일 ‘제5차 의료개혁특별위원회’ 회의 후 “상급 종합병원은 전공의의 과중한 근로에 의존하지 않고 전문의 등 숙련된 인력 중심 진료 체계로 확 바꿀 것”이라고 밝혔다. 그간 상급 종합병원이 전문의를 채용하는 대신 전공의들의 장시간 근로를 바탕으로 병상과 진료를 급속히 늘려온 만큼 이를 손보겠다는 것이다.&lt;br&gt;&lt;br&gt;먼저 전문의와 PA 간호사 비율을 높여 이들을 중심으로 병원을 운영한다. 당직도 종전 전공의 중심 체제에서 전문의와 PA 간호사 팀이 참여하는 방식으로 개선해 전공의 진료 비중을 낮출 예정이다. 전공의의 근로시간은 주당 80시간에서 60시간으로, 연속 근무시간도 36시간에서 24시간으로 단계적으로 줄인다. 연속 근무 시범 사업에 참여하는 상급 종합병원은 전공의 연속 근무시간을 24∼30시간으로 줄여야 한다.&lt;br&gt;&lt;br&gt;업무 부담을 낮춰주는 대신 전공의 수련 프로그램을 대폭 강화한다. 장기적으로는 전공의 수련 비용 등을 국가가 책임지는 ‘전공의 수련 국가 책임제’를 추진한다. 우선 연내 전공의 교육 계획을 수립하고 국가 재정 지원을 대폭 강화해 나가기로 했다. 최근 기획재정부가 심의 중인 보건복지부 예산안에는 ‘전공의 국가 책임제’ 관련 예산도 포함됐다.&lt;br&gt;&lt;br&gt;구체적으로는 현재 수련 병원에서 전공의 수련을 지도하는 ‘지도 전문의’ 인건비 지원을 확대하는 방안 등이 검토되고 있다. 지금은 지도 전문의가 실제 전공의 교육에 시간을 얼마나 투입하는지 등에 관한 규정이 없어 교육 부담에 대한 평가와 보상이 이뤄지지 않고 있다는 지적이 많다.&lt;br&gt;&lt;br&gt;정부는 전공의들이 기본 수련 병원 외 다른 의료 기관에서 지역 의료, 공공 의료, 의과학 등 다양한 분야를 경험하도록 하는 이른바 ‘네트워크 수련’도 추진할 예정이다.&lt;br&gt;&lt;br&gt;정부는 “상급 종합병원 인력 운영 개편 과정에서 인력 감축이나 무급 휴가 등으로 고용이 단절되지 않도록 병원별 인력 운용 계획을 수립·이행토록 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>초중고 교사·직원, 학생 대상 성범죄 6년간 448건</title>
+      <link>https://www.chosun.com/national/education/2024/07/11/2PX7N6QJL5EMXD77KAHYA7X26Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/07/11/2PX7N6QJL5EMXD77KAHYA7X26Y/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Jul 2024 12:05:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IIRGW4FHXVEGVHUKA5E5YGABTQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 6년간 초·중·고 교원(강사, 행정 직원 포함)이 학생을 대상으로 저지른 성범죄가 448건에 달하는 것으로 나타났다. 이 중 작년 발생한 성범죄가 111건으로 가장 많았다.&lt;br&gt;&lt;br&gt;진선미 더불어민주당 의원이 시도교육청 17곳에서 받은 자료에 따르면, 교원이 학생에게 저지른 성범죄는 2019년 100건, 2020년 52건, 2021년 59건, 2022년 91건, 2023년 111건, 2024년 상반기 35건이었다. 코로나가 확산하던 2020·2021년 비대면 수업 실시로 줄었다가 2022년 수업이 재개되면서 증가 추세다.&lt;br&gt;&lt;br&gt;유형별로는 성희롱이 239건으로 가장 많았다. 그다음은 성추행 133건, 성폭력 31건, 기타(불법 촬영 등) 12건 순이었다.&lt;br&gt;&lt;br&gt;교육청들이 제출한 사례를 보면 교원이 자신의 지위를 이용해 학생을 심리적으로 지배하는 방식의 이른바 ‘그루밍 성범죄’가 많은 것으로 분석됐다. 교사가 학생에게 옷과 음식을 사주겠다며 손을 만지는 등 성추행하거나, 학생에게 ‘너와 결혼하겠다’고 약속하며 지속적으로 성관계를 요구하는 경우도 있었다. 카카오톡으로 학생에게 ‘사랑한다’ ‘키스하고 싶다’고 메시지를 보낸 사례도 있다. 한 교사는 수업 시간 초등학생에게 다가가 귓속말로 “사랑해”라고 말했다.&lt;br&gt;&lt;br&gt;지난달에는 대전의 한 중학교 교사가 동성인 제자와 부적절한 교제를 한 사실이 알려지며 직위 해제되기도 했다. 경찰은 그루밍 성범죄 가능성이 크다고 보고 해당 교사를 아동 학대 혐의로 수사 중이다.&lt;br&gt;&lt;br&gt;문제는 교육부가 이런 학생 대상 성범죄 현황을 지금껏 별도 관리하지 않았다는 것이다. 성폭력 방지법 등에 따라 교내에서 발생하는 성범죄는 여성가족부로 보고하게 돼 있어 교육 당국은 파악하지 못한 것이다. 학생 대상 성범죄 예방 대책도 제대로 마련된 적이 없다.&lt;br&gt;&lt;br&gt;진 의원은 “성범죄 사례를 보면 교원이 자신의 지위를 이용하면 어린 학생이 저항하기 어렵다는 것을 알고 성범죄를 저지른 경우가 많았다”며 “늘어나는 이런 그루밍 성범죄에 대해 교육부와 교육청이 대책을 마련해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>용인판 ‘디올백’ 의혹...시의회 의장 민주 후보, 선물 주며 “뽑아달라”</title>
+      <link>https://www.chosun.com/national/regional/2024/07/11/BLCWNU3COZCTPNM4XPAO6F27EU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/11/BLCWNU3COZCTPNM4XPAO6F27EU/</guid>
+      <dc:creator>용인=권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Jul 2024 12:00:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/43ANZCM5WBEL7GAXXNEAUMTLAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제9대 후반기 원 구성을 마친 용인시의회 의장단, 상임위원장 등이 2일 현충탑을 찾아 헌화와 분향을 하고 있다. /용인시의회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;경기도 용인 시의회 민주당의 의장 후보 경선 과정에 명품 선물 로비가 있었다는 의혹이 제기돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;11일 용인서부경찰서에 따르면, 경찰은 지난 10일 용인 시의회 민주당 소속 A 시의원과 B 시의원의 자택과 사무실을 압수 수색했다. 이들은 지난달 민주당 의장 후보 경선을 앞두고 “A 시의원을 뽑아 달라”며 같은 당 C 시의원에게 명품 선물을 준 혐의를 받고 있다. A 의원이 B 의원을 통해 C 의원에게 명품인 ‘디올(Dior)’ 쇼핑백을 전달한 것으로 파악되고 있다.&lt;br&gt;&lt;br&gt;쇼핑백에 명품 가방이나 화장품이 들어 있었을 것이라는 의혹이 제기됐으나 C 시의원은 “내용물은 확인하지 않고 바로 돌려보냈다”고 경찰에서 진술했다고 한다.&lt;br&gt;&lt;br&gt;이런 의혹은 C 시의원이 이 사실을 경찰에 제보하면서 알려졌다. 이와 관련해 A 시의원이 다른 의원에게도 금품 로비를 했다는 의혹도 나오고 있다.&lt;br&gt;&lt;br&gt;지난달 27일 당내 경선에서 A 시의원은 8표를 얻어 9표를 얻은 유진선 시의원에게 한 표 차로 밀렸다. 유 시의원은 지난 1일 의장에 최종 선출됐다. 용인 시의회는 민주당이 17석, 국민의힘이 14석으로 민주당이 다수당이다.&lt;br&gt;&lt;br&gt;경찰은 압수물 분석을 마치는 대로 A 시의원과 B 시의원을 소환 조사할 계획이다. 명품 로비 의혹이 일자 민주당 경기도당도 이날 직권 조사에 들어갔다. 민주당 경기도당은 “금품이 오간 사실이 밝혀지면 수사 결과와 상관없이 가장 강력한 책임을 묻겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;용인 시의회 의장은 시의원 연봉(의정 활동비) 5600만원 외에 업무 추진비 4400만원을 &lt;b&gt;쓸 수 있다. &lt;/b&gt;각종 행사에서 시장 못지않은 예우와 의전을 누린다. 카니발 차량과 운전 기사, 비서 4명이 배정되며 시의회 직원 80여 명의 인사권도 갖고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경산서 폭우에 실종된 40대 여성...끝내 숨진 채 발견</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/07/11/YHVWGPJCC5HPNLOULKJQOPK5LE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/07/11/YHVWGPJCC5HPNLOULKJQOPK5LE/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Jul 2024 11:28:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BQYRHKBNA2PLZCNY6GZL2YZSYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;집중호우가 쏟아진 9일 오후 경북 경산시 진량읍 평사리 평사교에서 소방구조대가 실종자 수색을 하고 있다. /뉴스1
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이틀 전 폭우에 실종됐던 40대 여성이 끝내 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;경북도소방본부는 11일 오후 5시 6분쯤 경산시 진량읍 문천지에서 실종됐던 40대 여성 A씨의 시신을 드론으로 발견했다고 밝혔다.&lt;br&gt;&lt;br&gt;소방당국은 발견 1시간여 만인 오후 6시 4분쯤 시신은 수습해 인근 병원으로 옮겼다.&lt;br&gt;&lt;br&gt;A씨는 지난 9일 오전 진량읍 평사리 소하천인 부기천 일대에서 불어난 물에 휩쓸려 실종됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대전 주차타워 화재... 300명 대피, 인명피해 없어</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/07/11/R26DUQ3MVREUZBXD5W5HFB6YKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/07/11/R26DUQ3MVREUZBXD5W5HFB6YKQ/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Jul 2024 11:19:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XHJTBPHC3FORRJVG556JPNWHUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오후 5시 12분께 대전시 중구 대흥동 한 기계식 주차타워에서 불이 나 소방대원들이 진입하기 위해 대기하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전의 한 주차타워 지하주차장에서 불이 나 소방당국이 진화에 나섰다.&lt;br&gt;&lt;br&gt;11일 오후 5시 12분쯤 대전시 중구 대흥동 한 주차타워 지하주차장에서 원인을 알 수 없는 불이 났다.&lt;br&gt;&lt;br&gt;화재 진압에 나선 소방당국은 화재 발생 2시간여 만에 불길을 잡았다. 이불로 50대 남성이 연기를 마셔 인근병원으로 옮겨졌지만 큰 부상은 아닌 것으로 전해졌다. 외에 현재까지 추가 인명피해는 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;해당 건물에 근무하던 300명은 화재 발생 방송을 듣고 모두 대피했다.&lt;br&gt;&lt;br&gt;소방당국 관계자는 “초진은 완료했으며, 주차타워 상부 개구부를 파괴해 진압 중”이라며 “혹시 대피를 하지 못한 이들이 있는지 함께 수색하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 화재 진화가 완료되면 정확한 사고 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이재명 “일제시대 檢 권한 부여”... 법무부 “갑오개혁 때” 반박</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/11/W7QR632HVBHX7FIYOFPG6SMGEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/11/W7QR632HVBHX7FIYOFPG6SMGEY/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Jul 2024 10:13:56 +0000</pubDate>
+      <content:encoded>10일 출마를 선언한 이재명 더불어민주당 대표 후보가 검사 권한이 일제시대 때 부여됐다고 주장한 데 대해 법무부가 “갑오개혁 때 도입된 것”이라고 반박했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5T4YEOO4JK464CZHD7UKP2ZAMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 11일 입장문을 내고 “검사의 권한 부여는 일제시대와 무관하다”며 이 같이 밝혔다. 법무부는 “우리 역사에서 근대적 의미의 사법제도가 도입된 시초는 갑오개혁으로 평가된다”며 “1895년 재판소구성법을 제정하면서 ‘검사’ 개념이 처음 등장했다”고 설명했다. 수사기관과 재판기관이 분리된 구조인 탄핵주의 소송 구조가 도입되며 공소권·수사권·재판 집행권·사법경찰관에 대한 지휘권을 가지고 있는 검사제도가 출범했다는 것이다.&lt;br&gt;&lt;br&gt;법무부는 “오히려 일제강점기 경찰 파쇼(권위주의 독재)로 인한 국민 피해를 극복하기 위해 해방 이후 제정 형사소송법과 헌법에서 검사에게 경찰에 대한 사법통제 권한을 강화했다”고 했다. 이어 “일제시대 통감부·총독부 시대를 거쳐 중앙집권적 국립경찰체제가 구성됐고, 전쟁 이후 혼란한 치안 상황에서 경찰의 불법구금·고문 등 폐해가 심해지자 경찰권력에 대한 통제 필요성이 사회 각계에서 지속적으로 대두됐다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K7FYQWHNIFNIFPVVBUQ3NU4UVA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 전 대표가 10일 서울 여의도 당사에서 8·18 전당대회 당 대표 출마를 선언한 뒤 취재진 질문에 답하던 중 태극기 배지를 거꾸로 달았다는 한 기자의 지적에 고쳐달고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1953년 휴전 이후엔 “경찰의 인권유린을 통제하기 위해 1954년 제정 형사소송법 및 1962년 제5차 개정 헌법에서 검사의 전속적 영장청구권이 도입되는 등 검사의 역할이 강화됐다”고도 했다.&lt;br&gt;&lt;br&gt;이 후보는 전날 대표직 출마 선언 기자회견에서 “일제시대 독립군을 때려잡기 위해 검사들에게 온갖 재량 권한을 부여했는데 지금도 유지되고 있다”며 민주당이 추진하는 ‘검사 탄핵’의 당위성을 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이숙연 대법관 후보자 딸, 부모 차용·증여금으로 7억 집 ‘갭투’</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/11/JXL5TM3RWJEOFOZJUZ4OPXPZL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/11/JXL5TM3RWJEOFOZJUZ4OPXPZL4/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Jul 2024 10:17:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AUPP2IC3MNDOFA2YNJGKJ3ND6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이숙연 대법관 후보자./법원행정처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이숙연 대법관 후보자의 20대 딸이 서울 용산구의 7억원대 다세대주택을 전세를 끼고 사는 ‘갭투자’로 매입한 것으로 나타났다.&lt;br&gt;&lt;br&gt;11일 법조계에 따르면, 이 후보자는 국회에 제출한 임명동의안에서 장녀 조모(26)씨가 서울 용산구 효창동의 9평짜리 신축 다세대주택을 보유하고 있다고 신고했다. 조씨는 2022년 8월 이 집을 7억7000만원을 주고 매수했다고 한다.&lt;br&gt;&lt;br&gt;이 후보자 측에 따르면, 조씨는 2억6000만원의 전세보증금을 끼고 해당 주택을 구입했다. 전세금을 제외한 5억1000만원 중 3억800만원은 이 후보자의 배우자인 아버지로부터 증여받았다. 2억200만원은 아버지에게 빌렸다. 증여 신고와 세금 납부는 적법하게 이뤄졌다고 한다.&lt;br&gt;&lt;br&gt;조씨는 아버지로부터 빌린 2억200만원을 주식 투자를 통해 작년 5월에 갚았다. 그는 아버지의 추천으로 2017년 스타트업인 A사의 비상장주식 1200만원어치(800주)를 매수했는데, 당시 주당 1만5000원이던 주가가 6년만에 주당 50만5000원으로 올랐다. 조씨는 급등한 주식 일부를 부친에게 양도하는 방식으로 차용금을 모두 상환했다.&lt;br&gt;&lt;br&gt;이 후보자는 “A사는 기술력과 성장 가능성을 인정받아 단기간에 유망한 기업으로 성장했다”며 “그에 따라 후보자의 딸이 보유한 주식 가치도 상승한 것”이라고 설명했다. A사는 후보자 배우자의 옛 부하 직원이 설립한 회사다. 이 후보자는 “후보자의 배우자가 A사를 믿고 투자한 것”이라면서도 “5년 만에 주식 가격이 급등할지 예측할 수 없었다. 비상장 스타트업에 투자했다 실패한 적도 많다”고 했다. 조씨는 2022년 12월부터 3개월간 A사에서 인턴으로 근무하기도 했다.&lt;br&gt;&lt;br&gt;이 후보자가 신고한 딸의 재산은 6억6000만원이다. 이 후보자는 딸의 재산 형성 경위에 대해 “성년이 된 자녀들의 자립을 지원하기 위해 일부 금액을 증여했다”며 “신생 회사의 주식 취득 기회를 갖게 됐고 회사 가치가 상승한 부분이 있다”고 설명했다.&lt;br&gt;&lt;br&gt;그러면서 “결과적으로 자녀들이 나이와 경력에 비해 많은 재산을 보유하게 됐는데, 국민들의 입장에서 생경함과 의구심을 느끼셨을 것 같아 마음이 무겁다”며 “자녀들에 대한 재정적 지원 과정에서 성실히 증여세 등 세금을 납부했다”고 말했다.&lt;br&gt;&lt;br&gt;한편, 이 후보자 부부는 2019~2023년 사이 총 3억8040만원을 사회복지법인, 대학 발전기금 등에 기부했다. 대법관 후보자 제청 전인 올해 4~5월에는 사랑의열매에 총 3억원을 추가로 기부했다. 이밖에 청소년 단체에 13년 간 매달 정기 후원도 하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;이 후보자는 “자녀들에 대한 지원 못지않게, 꾸준한 기부와 봉사활동으로 어려운 이웃들을 돕기 위해 노력했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“사랑 받고파 무엇이든 했다” 전청조에, 검찰 징역 15년 구형</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/11/IXOKAIPBCBASXAEN54GYMYF3KE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/11/IXOKAIPBCBASXAEN54GYMYF3KE/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Jul 2024 10:09:24 +0000</pubDate>
+      <content:encoded>재벌 3세를 사칭하며 사기 행각을 벌인 혐의로 1심에서 징역 12년을 선고받은 전청조(28)씨의 항소심에서 검찰이 징역 15년을 구형했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QNR24ADZSXMOSZOZOPBFZJXVOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'재벌 3세'를 사칭하며 사기 행각을 벌인 혐의로 구속된 전청조씨(27)가 지난해 11월10일 서울 송파경찰서에서 검찰로 송치되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사합의13부(재판장 백강진)는 11일 특정경제범죄가중처벌법상 사기 등 혐의로 기소된 전씨와 그의 경호실장 이모(27)씨의 결심 공판을 진행했다. 이날 검찰은 전씨에게 징역 15년, 이씨에게 징역 7년을 구형했다. 항소심 선고 공판은 오는 9월 12일 열린다.&lt;br&gt;&lt;br&gt;전씨는 최후 진술에서 “잘못된 행동을 진심으로 반성하며 사죄한다”며 “피해자에게 제 사죄가 와닿을 때까지 고개 숙여 죄송하다고 할 것이며 있는 힘껏 피해 회복을 위해 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;이어 “유년 시절 온전하지 못한 가정 환경 때문에 사랑이 결핍됐던 탓에 사랑을 잘 알지 못했는지 남의 사랑을 받기 위해 무엇이든지 해야 했다”며 “사랑받겠다고 피해자들에게 금전적 피해를 입혔다”고 말하며 울먹였다.&lt;br&gt;&lt;br&gt;전씨는 이씨를 향해 “제가 올바른 사람이었다면 이 자리에 앉아 있지 않았을 것”이라며 “나쁜 행동을 시킨 제가 더 나쁜 사람이다”라고 했다.&lt;br&gt;&lt;br&gt;전씨는 재벌 혼외자이자 재력가로 행세하면서 온라인 부업 세미나 강연 등을 통해 알게 된 수강생과 지인 27명에게서 30억원가량을 편취한 혐의를 받는다. 전씨의 경호실장을 하다가 함께 구속 기소된 이씨는 범행 사실을 알고도 전씨와 공모한 혐의를 받는다.&lt;br&gt;&lt;br&gt;앞서 1심은 지난 2월 전씨에게 징역 12년, 이씨에게 징역 1년 6개월을 각각 선고했다. 1심은 “가슴은 물론 성별까지 왔다 갔다 하는 막장의 현실이 소설가의 상상력을 훌쩍 뛰어넘었다”며 “인간의 탐욕·물욕을 경계하는 반면교사가 될 수 있었다면 하는 씁쓸한 소회가 든다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>이상민 장관 “전 국민 25만원 지원법은 지방재정에 큰 부담”</title>
       <link>https://www.chosun.com/national/national_general/2024/07/11/65QPWYSQHVAY7PUSHOFZGHVFNU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/11/65QPWYSQHVAY7PUSHOFZGHVFNU/</guid>
@@ -777,22 +877,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7RM4N53KKBHYDDP2MBB24PY33I.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[매일매일 중국어 한마디] 다크서클</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/07/11/WWTPPM7HKRFMLFM6KYI6M4AMKU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/07/11/WWTPPM7HKRFMLFM6KYI6M4AMKU/</guid>
-      <description/>
-      <pubDate>Wed, 10 Jul 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/POWOU2UNANAIVMHXI7XQHEDXYQ.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] dress accordingly</title>
-      <link>https://www.chosun.com/national/nie/english/2024/07/11/FA3G5AQZ2RG37H6SPSOQOEKBRM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/07/11/FA3G5AQZ2RG37H6SPSOQOEKBRM/</guid>
-      <description/>
-      <pubDate>Wed, 10 Jul 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UACUSADFIVD2PESPDQABXT2HC4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>검찰 안팎 “검사 탄핵 청문회 때 이재명도 불러야”</title>
       <link>https://www.chosun.com/national/court_law/2024/07/11/66JMJU6OJBBHZIUHQYYPBWO3Y4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/11/66JMJU6OJBBHZIUHQYYPBWO3Y4/</guid>
@@ -800,15 +884,6 @@
       <description/>
       <pubDate>Wed, 10 Jul 2024 15:55:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JPMQXUTEUVHMJEWDSRIVEECMQE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 오후 국회에서 열린 법제사법위원회 전체회의에서 윤석열 대통령 탄핵소추안 즉각 발의 요청에 관한 청원 관련 청문회 실시계획서 채택의 건을 통과시켰다./이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주당이 윤석열 대통령 탄핵 청원 청문회의 증인으로 김건희 여사와 김 여사 모친 최은순씨 등 39명을 신청하자, 검사 탄핵 청문회가 예고돼 있는 검찰 안팎에서는 “민주당이 법정을 국회로 옮겨 재판하려고 한다는 우려가 현실이 되고 있다”는 반응이 나왔다. 특히 “검사들의 탄핵 사유를 따지려면 이재명 전 대표는 물론, 한명숙 전 총리, 송영길 전 대표, 이정근씨, 장시호씨 등 관련자 모두를 증인으로 부르라”는 말도 나왔다.&lt;br&gt;&lt;br&gt;10일 법조계에 따르면, 민주당이 탄핵 대상 검사 4명을 증인으로 부르겠다는 근거는 국회법 131조다. 법제사법위원회는 탄핵안이 오면 증거 조사를 위해 청문회를 열 수 있고, 그 방법은 국정감사 및 조사법에 따르도록 하고 있다. 이 법에 증인과 감정인 등의 출석을 요구할 수 있게 돼 있는 것이다.&lt;br&gt;&lt;br&gt;민주당은 이재명 전 대표 관련 수사를 한 강백신·김영철·박상용·엄희준 등 검사 4명에 대한 탄핵 사유로 △한명숙 전 총리 불법 정치자금 사건 관련 허위 진술 강요 △이정근 전 민주당 사무부총장 개인 비리에서 전당대회 돈봉투 사건으로 별건(別件) 수사 △이재용 삼성그룹 회장 처벌 위해 최순실 조카 장시호씨 증언 강요 △이재명 대표 처벌 위해 이화영씨 ‘술자리 회유’ 의혹 등을 제시했다.&lt;br&gt;&lt;br&gt;이에 대해 한 검찰 간부는 “검사들의 탄핵 사유를 조사하려면, 탄핵안에 적시한 사건 관련인을 모두 불러 조사해야 한다”면서 “한명숙은 물론, 업자에게 전세금을 받은 한명숙 동생도 불러 사실관계를 따져야 할 것”이라고 했다. 이어 “이정근도 불러 돈 받은 의원들을 다 이야기하고, 장시호도 왜 거짓말했는지 물어야 하지 않겠느냐”고 했다.&lt;br&gt;&lt;br&gt;특히 박상용 검사의 탄핵 사유인 ‘술자리 회유’는 ‘쌍방울 불법 대북 송금 사건’과 관련돼 있는 이재명 대표와 이화영씨, 김성태 전 회장 등도 국회에 출석해야 한다는 게 법조계 시각이다. 한 검사 출신 변호사는 “탄핵 사유를 보면 이미 법적 처리가 끝난 옛날 사건이거나 한창 재판이 진행 중인 사건”이라며 “이런 식으로 증인을 마구 채택하면, 청문회가 ‘여론 재판’으로 변질할 것”이라고 말했다. 또 다른 한 법조인은 “재판 당사자가 자기 재판의 증인이 될 수 없듯이, 탄핵 소추 검사를 탄핵 청문회의 증인으로 부른다 함은 법적 근거가 없는 얘기”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>학교 이탈 의대생, F학점 받더라도 집단 유급 막기로</title>
-      <link>https://www.chosun.com/national/education/2024/07/11/FQJURCAZEFD3FOUJ32YDANJ7F4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/07/11/FQJURCAZEFD3FOUJ32YDANJ7F4/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Jul 2024 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZHF7A6IAAX3GZUYHR276SLA7M4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3월 22일 대구의 한 의과대학 강의실이 의대 증원 정책에 반발하는 의대생들의 동맹휴학으로 텅 비어 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의대 증원에 반발해 수업을 거부하고 있는 의대생들이 집단으로 유급되는 것을 막기 위해, 학교별로 ‘추가 학기’를 개설해 1학기 때 듣지 않은 수업을 보충해주는 방안이 추진된다. 대학들은 학기 단위로 운영되는 학사 일정을 학년 단위로 바꾸고, 1학기 때 F학점을 받은 과목에 대해선 학년 말까지 재이수 기회를 줄 수 있게 된다.&lt;br&gt;&lt;br&gt;교육부는 10일 이러한 내용을 담은 ‘의대 학사 탄력 운영 가이드라인’을 발표했다. 여기엔 의대생 집단 유급을 막기 위해 학사 일정 및 수업 운영 방식을 학교별 상황에 맞게 조정할 수 있는 방안들이 담겼다. 구체적으론 학기 단위로 이뤄지는 학사 일정과 성적 평가를 ‘학년제’로 바꿔 운영할 수 있다고 제시했다. 의대생들의 수업 거부가 길어지며 대부분 학생이 1학기 수업을 듣지 못한 만큼, 학년이 끝나기 전까지만 보강하면 된다는 것이다. 1학기에 듣지 못한 과목엔 F학점 대신 ‘I(Incomplete·미완)학점’을 주고, 학년 말까지 추가 수업을 개설해 듣게 하는 방법 등이 가능하다.&lt;br&gt;&lt;br&gt;학기 운영과 관련해선 현행 2학기제를 ‘3학기제’로 바꾸고, 한 학기는 학생들이 듣지 못한 수업을 보충하도록 하는 방안이 담겼다. 교육부는 대학이 ‘올해 의대생들에 한해선 F학점을 받아도 유급 대상에서 제외한다’는 특례 조항을 만들 수 있다고도 언급했다.&lt;br&gt;&lt;br&gt;교육부는 또 “내년도 신입생의 학습권을 우선적으로 보호하라”고 각 대학에 당부했다. 의대생들이 유급돼 내년도 신입생과 함께 학교를 다녀야 하는 경우, 수강 신청 시 내년 입학생들에게 우선권을 줘 원하는 수업을 듣지 못하는 일이 없도록 하라는 것이다.&lt;br&gt;&lt;br&gt;정부가 의대생 구제에 나섰지만 이들은 수업 복귀는커녕 의사 국가시험 응시조차 하지 않을 가능성이 크다. 이날 대한의과대학·의학전문대학원학생협회(의대협)는 의사 국가시험 응시 예정자인 전국 40개 의과대학 본과 4학년(3015명)을 대상으로 설문조사한 결과, 응답자(2903명)의 95.52%(2773명)가 국가시험을 위한 개인 정보 제공 동의서 제출을 거부한 것으로 집계됐다고 밝혔다. 사실상 국가시험 응시 예정자 대부분이 응시 거부 의사를 밝힌 셈이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>한 뿌리인데… 이대부고 자사고 포기, 이화여고는 입학 1위</title>
@@ -838,56 +913,6 @@
       <content:encoded>수면제를 대리 처방 받아 국가대표 출신 전 프로야구 선수 오재원(39)씨에게 전달한 혐의를 받는 피의자 29명이 검찰에 넘겨졌다. 이 중에는 두산 베어스 소속 현역 선수 8명과 트레이너 1명이 포함됐다. 프로야구 42년 역사상 한 구단에서 현역 선수 등이 이처럼 대규모로 마약 범죄에 연루된 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 향정신성의약품인 스틸녹스정·자낙스정과 제2의 프로포폴로 알려진 에토미데이트 등을 대신 처방 받아 오씨에게 전달한 29명을 마약류 관리법 위반 등 혐의로 검찰에 송치했다고 10일 밝혔다. 오씨는 4월 마약류 관리법 위반, 사기, 보복 협박 등의 혐의로 구속 기소돼 현재 서울중앙지법에서 1심 재판을 받고 있다. 오씨 측은 지난 5월 1일 열린 첫 공판에서 마약 투약 혐의를 모두 인정했다.&lt;br&gt;&lt;br&gt;대리 처방 받은 수면제를 오씨에게 전달한 두산 소속 현역 선수 중에는 1군 경기에도 출전해온 준주전급 선수 김모(30)씨, 김모(28)씨, 박모(28)씨, 장모(30)씨가 포함된 것으로 나타났다. 이 외에도 박모(24)씨, 안모(32)씨, 이모(29)씨, 제모(24)씨도 오씨에게 수면제를 전달한 혐의를 받는다. 2022년까지 두산에서 뛰었던 임모(22)씨와 황모(28)씨, 타 구단에서 은퇴한 국가대표 출신 전 프로야구 선수 차모(37)씨도 같은 혐의를 받고 있는 것으로 알려졌다. 두산 관계자는 “사건에 연루된 현역 선수들은 피의자 신분일 때부터 경기 출전을 배제하고 있다”며 “재판 결과를 지켜보고 있는 상황”이라고 했다.&lt;br&gt;&lt;br&gt;경찰은 오씨가 마약류를 대신 처방받아 복용한 시점을 지난 2020년 초부터로 보고 있다. 2022년 10월 은퇴한 오씨가 현역 선수 시절부터 마약류를 상습 복용했을 가능성이 있다는 것이다. 구단 자체 조사에서 일부 선수는 “오씨가 지난 2021년 초부터 수면제를 받아오라고 시켰다”며 “팀의 주장(主將)이자 선배라 부탁을 거절하기 어려웠다”고 진술했다고 한다. 오씨는 대리 처방을 거절한 선수의 정강이를 때리거나 이를 누설하면 “흉기로 찌르겠다”는 식으로 협박하기도 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;오씨 측에 에토미데이트를 불법으로 대량 판매한 수도권의 한 병원장 A씨도 적발됐다. 경찰은 오씨가 투여받은 에토미데이트의 출처를 찾던 과정에서 오씨 측이 A씨 등 2명에게서 에토미데이트 앰풀 수천 개를 정상적 진료와 처방 없이 구매한 사실을 확인했다고 한다. 에토미데이트는 마약류는 아니지만, ‘제2의 프로포폴’로 불리는 전신 마취제다. 이들에게는 마약류 관리법 위반과 더불어 정상적 진료와 처방을 거치지 않고 판매한 혐의로 약사법 위반도 적용됐다.&lt;br&gt;&lt;br&gt;오씨가 운영하던 야구 아카데미 수강생 학부모도 오씨의 부탁을 받고 범행에 가담한 것으로도 나타났다. 오씨는 지난해 야구 아카데미를 열었는데, 경찰 조사 결과 오씨는 이곳에서도 마약을 투약한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[두근두근 뇌 운동] [2418] 그때를 기억하시나요</title>
-      <link>https://www.chosun.com/national/nie/2024/07/11/INN4AHWBRVBDVFBDPIAF3I53FM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/11/INN4AHWBRVBDVFBDPIAF3I53FM/</guid>
-      <description/>
-      <pubDate>Wed, 10 Jul 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TFYCKMDGI5GONPXAWMVW4H7HBE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>관정재단, 500명에 장학금 125억</title>
-      <link>https://www.chosun.com/national/education/2024/07/11/K4HU7JLHRBGKLDMDJTVF4LIB3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/07/11/K4HU7JLHRBGKLDMDJTVF4LIB3E/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Jul 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3SKMTXVRPVGS7GBEU3GIIYVACQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/관정이종환교육재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아시아 최대 규모 장학 재단인 관정이종환교육재단(관정재단)이 10일 서울대 관정도서관 관정마루에서 ‘2024년도 장학증서 수여식’을 열고 국내외 장학생 500명에게 총 125억원의 장학금을 지급했다고 밝혔다. 국내 장학생은 최대 1200만원, 국외 유학 장학생은 최대 6만달러(약 8307만원)를 받는다. 이석준 관정재단 이사장은 “장학생들이 도전, 창조, 기여라는 관정재단 정신을 실천해 올바른 인성을 갖춘 세계적인 학문 선도자가 되길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>本紙 전근영 기자 ‘이달의 편집상’</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/11/5Y5VKB3OKJDADNTG4CQ4Q64AXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/11/5Y5VKB3OKJDADNTG4CQ4Q64AXM/</guid>
-      <description/>
-      <pubDate>Wed, 10 Jul 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5BKEXPJ3XZD2VHJEKA4SNRULJA.jpg"&gt;&lt;br&gt;&lt;br&gt;한국편집기자협회(회장 김창환)는 10일 조선일보 전근영 기자의 &amp;lt;’가족 벙커’에 빠지다&amp;gt;(6월 19일 자 A10면) 등 다섯 편을 제 273회 이달의 편집상 수상작으로 선정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 곽수자 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/07/11/GC4IZ47KDFDOZP2ETE6GPBEAJE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/07/11/GC4IZ47KDFDOZP2ETE6GPBEAJE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Jul 2024 15:35:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;곽수자 &lt;/b&gt;별세, &lt;b&gt;구본영 &lt;/b&gt;아내상, &lt;b&gt;구희진&lt;/b&gt;·&lt;b&gt;구희정 &lt;/b&gt;모친상, &lt;b&gt;민승배 &lt;/b&gt;BGF리테일 대표·&lt;b&gt;이선호 &lt;/b&gt;JATCO KOREA 시스템&amp;amp;제어개발실장 장모상=10일2시20분 삼성서울병원, 발인 12일10시, (02)3410-3151&lt;br&gt;&lt;br&gt;▲&lt;b&gt;전양자 &lt;/b&gt;별세, &lt;b&gt;허동현 &lt;/b&gt;국사편찬위원장·&lt;b&gt;허연심&lt;/b&gt;·&lt;b&gt;허연미 &lt;/b&gt;모친상, &lt;b&gt;유대영&lt;/b&gt;·&lt;b&gt;김용준 &lt;/b&gt;장모상, &lt;b&gt;구희란 &lt;/b&gt;시모상, &lt;b&gt;허세열&lt;/b&gt;·&lt;b&gt;허세연 &lt;/b&gt;조모상, &lt;b&gt;유용상&lt;/b&gt;·&lt;b&gt;김다혜 &lt;/b&gt;외조모상=9일13시50분 서울성모병원, 발인 12일7시, (02)2258-5940&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조영건 &lt;/b&gt;경남대 명예교수 별세, &lt;b&gt;차창순 &lt;/b&gt;남편상, &lt;b&gt;조인식&lt;/b&gt;·&lt;b&gt;조금주 &lt;/b&gt;부친상=9일9시 서울대병원, 발인 12일6시30분, (02)2072-2011&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>박명성 여수세계섬박람회 총감독</title>
-      <link>https://www.chosun.com/national/people/2024/07/11/HPAF4ABA5FE6HLDR4CNDSU4VKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/07/11/HPAF4ABA5FE6HLDR4CNDSU4VKY/</guid>
-      <description/>
-      <pubDate>Wed, 10 Jul 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LFQZ6RYBDRF6LLYJ2NBKMUCGOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신시컴퍼니 박명성 예술감독&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2026여수세계섬박람회 조직위원회는 9일 신시컴퍼니 박명성 예술감독을 박람회 총감독으로 위촉했다. 여수시와 전남도가 주최하는 이번 박람회는 2026년 9월 5일~11월 4일 여수시 돌산읍 진모지구, 여수세계박람회장 및 섬 지역 일원에서 개최된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 법무부</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/07/11/MZYB4K6D75BSDI5VYGNXZRMS2E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/07/11/MZYB4K6D75BSDI5VYGNXZRMS2E/</guid>
-      <description/>
-      <pubDate>Wed, 10 Jul 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;b&gt;▲법무부&lt;/b&gt;◇고위공무원 승진▷서울동부지검 사무국장 정영운▷서울북부지검 사무국장 이상남▷수원지검 사무국장 조병민▷울산지검 사무국장 손주근▷제주지검 사무국장 정민수◇고위공무원 전보▷서울고검 사무국장 곽명규▷대구고검 사무국장 박순우▷부산고검 사무국장 김용관▷서울서부지검 사무국장 유정민▷인천지검 사무국장 백종동▷춘천지검 사무국장 이운연▷대전지검 사무국장 정연익▷광주지검 사무국장 장병인▷전주지검 사무국장 김영헌◇검찰부이사관 승진▷대검찰청 집행과장 장정호▷부산고검 총무과장(대검찰청 검찰총장실) 정연철▷광주고검 총무과장 배은호▷서울중앙지검 총무과장 이승희▷수원지검 안산지청 사무국장 이택근▷대구서부지청 사무국장 홍석표▷광주지검 순천지청 사무국장 김철곤◇검찰부이사관 전보▷대검찰청 운영지원과장 오은택▷인천지검 부천지청 사무국장 김승호▷수원지검 안양지청 사무국장 최수종▷대전지검 천안지청 사무국장 홍흥표◇검찰수사서기관 승진▷법무부 형사기획과 김호진▷법무부 여성아동인권과(인권조사과) 권주헌▷법무부 범죄피해자통합지원센터 안용석▷법무부 범죄피해자원스톱지원팀 이경운▷법무부 북한인권기록보존소 유혜원▷법무부(공직기강비서관실) 최혁권▷법무부(정부합동부패예방추진단) 송학수▷법무부(세월호후속대책추진단) 김영환▷법무부(진실화해를위한과거사정리위원회) 김경미▷서울중앙지검 검사직무대리 문상수▷서울중앙지검 검사직무대리 남호현▷서울동부지검 검사직무대리 김진형▷서울남부지검 집행과장 임주형▷의정부지검 집행과장 유인진▷인천지검 사건과장 조기호▷인천지검 검사직무대리실(대검찰청 집행과) 천영심▷수원지검 성남지청 총무과장 소재열▷수원지검 성남지청 검사직무대리실 구영회▷춘천지검 사건과장 안해룡▷대전지검 수사과장 강용묵▷대구지검 안동지청 사무과장 박순영▷부산지검 총무과장 강석한▷부산지검 공판과장 이필재▷부산지검 검사직무대리 이경두▷부산서부지청 사무과장 이응현▷부산서부지청 수사과장 이상만▷창원지검 사건과장 김재철▷창원지검 통영지청 사무과장 김형오▷광주지검 순천지청 총무과장 윤한평▷전주지검 군산지청 사무과장 최호준▷전주지검 정읍지청 사무과장 이종석▷제주지검 사건과장 장정훈▷제주지검 집행과장 최병주◇검찰수사서기관 전보▷법무부 국가소송과(법무과) 김형국▷법무부 검찰과 이재진▷법무부 검찰과(인천공항분실) 김정호▷법무부(공직기강비서관실) 김상우▷법무부 박종섭▷법무연수원 일반연수과장 주도경▷대검찰청 운영지원과 변영욱▷대검찰청 공공수사기획관실 이창균▷대구고검 사건과장 김원철▷부산고검 사건과장 조승래▷수원고검 사건과장 윤치기▷서울중앙지검 집행제2과장 김원석▷서울중앙지검 형사증거과장 우원구▷서울중앙지검 피해자지원과장 김용욱▷서울중앙지검 수사제1과장 정관영▷서울중앙지검 수사제2과장 박남규▷서울중앙지검 수사지원과장 차현수▷서울중앙지검 마약수사과장 김태현▷서울동부지검 집행과장 이창영▷서울남부지검 사건과장 박광수▷서울남부지검 수사과장 이정용▷서울서부지검 집행과장 강윤정▷서울서부지검 조사과장 이동영▷서울서부지검 검사직무대리실 김금숙▷인천지검 수사과장 윤대규▷인천지검 조사과장 이형근▷인천지검 마약수사과장 김영상▷인천지검 부천지청 총무과장 홍지항▷수원지검 사건과장 이종철▷수원지검 성남지청 수사과장 황성철▷수원지검 안양지청 총무과장 박준▷춘천지검 총무과장 왕선중▷대전지검 총무과장 김태경▷대전지검 사건과장 주영수▷대전지검 집행과장 이은승▷대전지검 서산지청 사무과장 김병준▷청주지검 총무과장 신익수▷청주지검 사건과장 변의복▷대구지검 사건과장 황재화▷대구지검 검사직무대리 이동희▷대구지검 경주지청 사무과장 이상범▷대구지검 포항지청 사무과장 김재곤▷대구지검 김천지청 사무과장 송재동▷부산지검 수사과장 박용선▷부산지검 조사과장 추영종▷부산지검 마약수사과장 안경석▷부산지검 권경원▷부산동부지청 총무과장 최정인▷창원지검 수사과장 하도겸▷창원지검 진주지청 사무과장 이승환▷광주지검 총무과장 이상조▷광주지검 사건과장 명관호▷광주지검 조사과장 김선철◇과학기술서기관 승진▷대검찰청 정보통신과 정영민◇검찰사무관 승진▷법무부 법조인력과(통일법무과) 김도언▷법무부 인권정책과 오형석▷법무부 범죄피해자원스톱지원팀 김원진▷법무연수원(용인분원) 법무교육과 주용수▷대검찰청 복지후생과 김영근▷부산고검(금융위원회) 배윤엽▷서울남부지검 김광태▷서울남부지검(금융위원회) 고석환▷인천지검(대검찰청 반부패기획관실) 함상욱▷대구지검(방위사업청) 고재욱▷창원지검 황선우◇마약수사사무관 승진▷광주지검 이영훈◇방송통신사무관 승진▷서울고검 채용▷서울중앙지검(대검찰청 사이버·기술범죄수사과) 홍훈모&amp;lt;교정공무원&amp;gt;◇고위공무원 전보▷인천구치소장 민낙기◇서기관 승진▷마약사범재활팀 승영근▷서울구치소 총무과장 권익광▷수원구치소 총무과장 이민희▷인천구치소 총무과장 오희순▷인천구치소 보안과장 임용희▷대구교도소 보안과장 최근동▷부산구치소 보안과장 정식영▷대전교도소 총무과장 구민규▷대전교도소 보안과장 김승한▷전주교도소 총무과장 오병각◇서기관 전보▷여주교도소장 배경석▷원주교도소장 조관성▷강릉교도소장 주기남▷강원북부교도소장 김희곤▷서울구치소 부소장 김선희▷서울구치소 보안과장 권혁규▷안양교도소 부소장 류일열▷서울남부구치소 부소장 정상필▷대구지방교정청 사회복귀과장 조형근▷대구지방교정청 분류센터장 김홍대▷진주교도소장 장귀남▷김천소년교도소장 이일환▷경북북부제3교도소장 오선호▷경주교도소장 박은옥▷대구교도소 총무과장 김영춘▷부산구치소 부소장 임유정▷경북북부제1교도소 부소장 이희동▷경북북부제1교도소 총무과장 유시록▷경북북부제1교도소보안과장 권영복▷부산교도소 총무과장 이현국▷충주구치소장 김승▷대전교도소 부소장 조영혁▷대전교도소 논산지소장 김만헌▷광주지방교정청 총무과장 조항덕▷광주지방교정청 보안과장 박승률▷광주지방교정청 사회복귀과장 이병훈▷광주지방교정청 분류센터장 김종곤▷목포교도소장 김남진▷군산교도소장 정진우▷제주교도소장 허덕환▷해남교도소장 윤대하▷정읍교도소장 지경선▷광주교도소 부소장 황인균▷전주교도소 보안과장 김현철&amp;lt;출입국‧외국인정책본부&amp;gt;◇서기관 승진▷인천공항출입국·외국인청 총무과장 이은경▷서울출입국·외국인청 온라인체류·사증민원센터장 이향숙▷인천출입국·외국인청 관리과장 조승래▷청주외국인보호소장 서영군◇서기관 전보▷이민통합과장 김기락▷인천공항출입국·외국인청 지원국장 유현송▷인천공항출입국·외국인청 심사2국장 최문정▷부산출입국·외국인청 관리과장 이상한▷서울남부출입국·외국인사무소장 이승현▷김해공항출입국·외국인사무소장 류인성▷양주출입국·외국인사무소장 이호원▷김포공항출입국·외국인사무소장 구병모&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>다문화 출신 교사? 그냥 아이들 좋아하는 선생님이죠</title>
       <link>https://www.chosun.com/national/national_general/2024/07/11/GZCMT7XFY5BMRBZ6U6Z36TCDUQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/11/GZCMT7XFY5BMRBZ6U6Z36TCDUQ/</guid>
@@ -895,15 +920,6 @@
       <description/>
       <pubDate>Wed, 10 Jul 2024 15:35:00 +0000</pubDate>
       <content:encoded>“선생님, 제가 그린 그림 봐 주세요.” “선생님, 이가 블록탑을 저렇게 높게 쌓았어요.”&lt;br&gt;&lt;br&gt;10일 경기 고양 성저초 3학년 1반. 학생들에게 둘러싸여 웃고 있는 담임 교사 바수데비(29)씨의 모습은 여느 선생님과 똑같았다. 그는 인도인 아버지와 한국인 어머니를 둔, 한국 태생의 한국인이다. 그래서 자신에게 붙는 ‘다문화 교사’라는 딱지가 그리 반갑지는 않다고 했다. “저는 ‘그냥 선생님’이라고 생각해요.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N3BLGA3MH5BGPIGYEUPN5OEAZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 경기 고양시 성저초 3학년 1반 교실에서 담임 교사 바수데비씨가 스케치북을 든 학생들에게 둘러싸여 웃고 있다. 인도인 아버지와 한국인 어머니 사이에서 태어난 그는 한국 국적의 다문화 출신 교사다. 바수데비씨는 "'다문화'라는 획일적인 틀로만 학생들을 바라보는 고정관념을 버려야 한다"고 했다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“어린 시절 저는 전형적인 한국 모범생으로 자랐어요. ‘다문화 학생’이라는 정체성도 별로 없었죠.” 외국어고등학교와 교대를 졸업한 그가 교사가 된 이유 역시 다른 교사들과 다르지 않다. 아이들을 좋아했고, 친구들 공부를 도와주는 일이 즐거웠다. 바수씨는 2018년 교사 발령을 받을 때까지만 해도 다문화 교육에 이바지하겠다는 사명감은 달리 없었다. 자신이 만날 학생들을 최선을 다해 가르치겠다는 생각뿐이었다고 한다.&lt;br&gt;&lt;br&gt;그랬던 바수씨가 다문화 교육에 관심을 가진 계기는 초임 교사 시절 교과서 속 “피부색으로 차별하면 안 된다” “한국어를 못 한다고 따돌리면 안 된다”는 지시어들을 접하면서였다. 그는 “이런 표현은 주어를 ‘한국인인 우리’로 상정하고 다문화 학생들을 타자화하는, 시혜적인 문구”이라고 했다. 바수씨는 학생들에게 ‘~하지 말라’ ‘~해라’라고 지시하는 대신 수업 중에 자연스럽게 다양한 나라의 예시를 학생들에게 보여줌으로써 다문화 학생을 포함한 모든 학생의 참여를 이끌었다.&lt;br&gt;&lt;br&gt;바수씨는 다문화 학생 입학 상담을 도맡고 있다. 그는 “인도뿐 아니라 베트남·중국 등 다문화 학생도 제가 상담하러 들어가면 안도하는 눈빛”이라며 “아무래도 편견 없이 대해줄 것이란 기대가 있더라”고 했다. 세계 각국의 음식 문화나 인사 예절을 공유하는 수업도 다문화 학생들에게 인기가 좋다. 필리핀·러시아 출신 학생들이 자국의 레촌(필리핀식 새끼 돼지 통구이 요리), 스트로가노프(러시아식 쇠고기 국물 요리) 같은 음식을 소개할 때는 그렇게 신날 수가 없었다는 것이다. 2021년 말레이시아의 한 학교와 온라인으로 교류하며 현지 학생들이 추천해준 ‘나시르막(코코넛 밀크로 지은 쌀밥 요리)’을 직접 학생들과 만들어 먹었던 일도 즐거운 추억이다.&lt;br&gt;&lt;br&gt;‘다문화 학생은 어떻게 상담해야 하느냐’고 묻는 교사가 많다. 바수씨는 “우리 반에도 다문화 학생이 3명 있지만, 나는 친밀감이 형성되기 전에는 학생들에게 ‘너 다문화지? 선생님도 다문화야’라며 접근하지 않는다”고 했다. 오히려 그는 다문화 학생들이 먼저 친구 관계나 집에서 있었던 시시콜콜한 사건 등을 먼저 이야기할 때까지 기다린다고 한다. “주류 한국 사회는 다문화 학생들을 바라보며 ‘한국어 학습 어려움’ ‘피부색 등을 이유로 한 따돌림’ 같은 것만 떠올리지만, 다문화 학생들도 친구·가족·학업이 주 관심사인 보통 학생이라는 사실을 가장 중요하게 인식해야 합니다.” 바수씨는 “다문화 학생도 학생마다 성향이 다르고, 학업 성취도나 경제 수준도 다르다”며 “다문화라는 획일적인 틀로 뭉뚱그리지 않고, 있는 그대로의 ‘존재’로서 학생을 대하는 일이 중요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재밌다, 이 책!] 이름·서식지부터 역사 이야기까지… 책 펼치면 피어나는 ‘풀꽃의 모든 것’</title>
-      <link>https://www.chosun.com/national/nie/2024/07/11/AEZPY2JCQND5DJNA5LSETKHVOM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/11/AEZPY2JCQND5DJNA5LSETKHVOM/</guid>
-      <dc:creator>김성신 출판평론가</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/43VY3CBET5BTTJKDFOOQWGCCTI.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;이동혁 지음 | 출판사 이비락 | 가격 2만5000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;풀과 꽃과 나무를 사랑하는 식물 동호인 사이에서 ‘혁이삼촌’이라는 별명으로 유명한 저자가 우리나라의 아름다운 풀꽃들을 소개하는 책이에요. 풀꽃 사진과 함께 이름, 학명, 서식지, 자라는 시기, 생김새 등 식물 특성을 잘 정리하고 있어 마치 식물도감처럼 보이기도 합니다. 하지만 그 외에도 기후변화에 따른 생태계 현상부터 식물과 관련한 문화·역사 이야기, 저자의 개인적 경험과 감상까지 함께 들려주니 이 책은 과학 에세이라고 할 수 있어요. 쉽고 재미있는 이야기들을 통해 식물 세계를 들여다볼 수 있도록 구성한 거예요.&lt;br&gt;&lt;br&gt;저자는 식물을 연구하고 기록한 것을 바탕으로 강의하고 글을 쓰는 사람입니다. 야생화 사진가이자 식물 칼럼니스트, 국립수목원 현장 전문가로 활동하고 있어요. 물리학과 국문학을 전공한 저자는 어떤 계기를 통해 풀꽃의 세계에 매료된 걸까요?&lt;br&gt;&lt;br&gt;대학 시절 안도현 시인의 ‘시 쓰기와 시 읽기’ 수업을 들은 것이 계기가 되었다네요. “나 서른다섯 될 때까지 / 애기똥풀 모르고 살았지요 / 해마다 어김없이 봄날 돌아올 때마다 / 그들은 내 얼굴 쳐다보았을 텐데요 // 코딱지 같은 어여쁜 꽃 / 다닥다닥 달고 있는 애기똥풀 / 얼마나 서운했을까요. (생략)” 안도현 시인의 작품 ‘애기똥풀’이에요. 시를 읽다 보면 어떤 꽃인지 자연스레 궁금해집니다. 우리가 알아볼 수 있다면, 길을 걷다가 그 꽃을 만날 때 아름답고 문학적인 생각들을 떠올릴 수 있을 테니 말이죠. 시를 배우다가 풀꽃에 반했다는 저자의 마음이 충분히 이해가 됩니다.&lt;br&gt;&lt;br&gt;저자도 처음엔 애기똥풀과 괭이밥을 구별하지 못했다고 해요. 둘 다 노란색 꽃에 모양도 크기도 비슷한 바람에 매번 잎을 잘라 확인했다고 합니다. 그런데 점점 더 연구하면서 꽃잎이 네 장이면 애기똥풀, 다섯 장이면 괭이밥이라는 것을 알 수 있었다네요. 잎 모양으로도 쉽게 구별할 수 있었어요. 애기똥풀 잎은 깃 모양으로 갈라지고 괭이밥은 하트 모양이거든요. 관심을 가지고 살펴보니, 간단하게 구별할 수 있었던 것이죠. 그걸 몰라 만날 때마다 잎을 자른 것이 미안했다고 합니다. 책에는 애기똥풀과 괭이밥을 쉽게 알아볼 수 있도록 사진과 함께 자세한 구별법이 정리돼 있어요. 이 책을 읽은 사람들은 풀꽃에게 미안할 행동을 하지 않을 수 있겠어요.&lt;br&gt;&lt;br&gt;책은 풀꽃과 다른 동·식물의 공생 관계를 자세히 다루고 있어요. 또 교과서 속 문학작품에 등장하는 풀꽃과 여기에 얽힌 이야기를 들려주기도 해요. 우리의 일상생활에서 쓰임새를 가진 풀꽃들의 이야기도 흥미로워요. 깊게 들여다본 사람만이 들려줄 수 있는 풀꽃 이야기로 가득 채워진 재미있는 과학책입니다. 이 책을 들고 숲으로 바다로 여행간다면 이번 여름 방학은 훨씬 풍성하고 흥미진진해질 거예요.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>빗물 들어찬 지하주차장, 차 빼러 갔다 못 나왔다</title>
@@ -923,15 +939,6 @@
       <description/>
       <pubDate>Wed, 10 Jul 2024 13:55:28 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TDRFRAR7WVGBXERNSQJ6N7OCTU.png"&gt;&lt;figcaption&gt;&lt;small&gt;임성근 전 해병대 1사단장.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임성근 전 해병대 1사단장이 ‘해병대원 사망 사건’과 관련한 자신의 구명 로비 의혹에 대해 10일 반박했다. 고위공직자범죄수사처(공수처)는 지난주 임 전 사단장 구명 로비 정황이 담긴 녹음 파일을 확보했는데, 이 내용이 사실인지 여부를 확인 중이다.&lt;br&gt;&lt;br&gt;이 사건은 작년 7월 고(故) 채수근 상병이 순직한 뒤, 해병대 수사단이 임 전 사단장에게 과실치사를 적용한 것이 발단이 됐다. 당초 혐의자에 포함돼 있던 임 전 사단장이 이종섭 당시 국방장관의 재조사 지시로 빠지게 됐는데, 이 과정에서 김건희 여사와 관련이 있는 이모씨가 구명 로비를 해준 것 아니냐는 의혹이다. 이씨는 ‘도이치모터스 주가조작 사건’으로 기소된 인물이다.&lt;br&gt;&lt;br&gt;공수처가 확보한 녹음 파일은 작년 8월 9일 이씨와 김모 변호사가 통화한 내용이다. 김 변호사가 “사단장 난리 났대요”라고 하자, 이씨가 “임 사단장이 사표 낸다고 A씨에게 전화 와서, 내가 ‘절대 내지 마라. 내가 VIP한테 이야기를 하겠다’고 했다”고 답한 것이다. 이씨는 “(임 전 사단장을) 해병대 별 4개(4성 장군) 만들 거거든”이라는 말도 했다. A씨는 해병대 출신의 전직 청와대 경호처 직원으로 알려졌다.&lt;br&gt;&lt;br&gt;박찬대 민주당 당대표 직무대행은 “해병대원 사건의 결정적 실마리가 드러났다. 사건의 몸통이 윤석열 대통령 부부라는 자백이자, 스모킹 건”이라고 했다. 이씨가 김 여사를 통해 임 전 사단장의 구명을 로비했고, 이에 따라 윤 대통령이 외압을 행사해 임 전 사단장이 과실치사 혐의에서 빠졌다고 의심하는 것이다. 민주당은 “주가조작범의 로비에 의한 국정 농단” “로비 창구는 김 여사” 등을 주장하며 의혹을 키우는 중이다.&lt;br&gt;&lt;br&gt;이에 대해 임 전 사단장은 “작년 7월 28일 사의를 표명하기 전, 어떤 민간인과도 사표 관련 얘기를 나눈 적이 없다”고 했다. 그러면서 “이씨와는 한 번도 통화하거나 만난 적 없고, 사의 표명 사실이 언론에 보도된 8월 2일 이후 A씨로부터 ‘언론 통해 사의 표명을 들었다. 건강 잘 챙겨라’라는 문자 메시지를 받은 게 전부”라고 했다. 이어 “로비가 있었다면, 이 전 장관이 7월 31일 수사단의 (초동 조사 결과에 대한) 결재를 번복하기 전에 이뤄졌어야 한다”면서 “부대 내부 상황을 전혀 모르는 이씨나 A씨가 로비한다는 자체가 불가능하다”고 했다.&lt;br&gt;&lt;br&gt;구명 로비설 당사자인 이씨도 직접 해명했다. 그는 본지에 “해병 후배인 김씨가 임 전 사단장에 대해 자꾸 물어 오버스러운(과장된) 표현을 써서 얘기한 건데, 그걸 녹취해서 발표했다”면서 “김 여사와 통화할 사이도 아니고, 임 전 사단장은 본 적도 없다”고 했다. 또 “김씨가 ‘선배님 VIP(대통령)하고 연락이 되냐’고 자꾸 유도를 해서 ‘쓸데없는 얘기하지 말라’고 했다”고 했다.&lt;br&gt;&lt;br&gt;대통령실은 이날 “대통령실은 물론 대통령 부부도 전혀 관련이 없다”고 했고, 이 전 장관 측도 “누구로부터도 임 전 사단장을 구명해달라는 이야기를 들은 바 없다”고 했다.&lt;br&gt;&lt;br&gt;한편, 이씨와 통화한 김 변호사는 민주당 국회의원 보좌관 출신으로, 지난 4월 총선에서 민주당 후보로 출마하려다가 경선에서 탈락했다. 지난 5월부터 박정훈 전 해병대 수사단장의 변호를 맡고 있다. 김씨는 이씨와 A씨 등과 해병대 출신들이 모인 단체 채팅방에서 임 전 사단장과의 골프 모임을 논의한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이번엔 전공의 사직 시점 놓고 갈등... 의료계 “2월” 정부 “6월”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/07/10/MWZMIICF3ZC2XHKDD2DIGYUAXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/10/MWZMIICF3ZC2XHKDD2DIGYUAXU/</guid>
-      <dc:creator>안준용 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Jul 2024 11:53:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EX7OHXGKBNMIJOCLHTOVVBFNYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 서울시내의 한 대학병원에서 의료진이 이동하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘2월이냐, 6월이냐.’&lt;br&gt;&lt;br&gt;전공의들의 사직 수리 시점을 놓고 의료계와 정부가 맞서고 있다. 전국 수련병원장 모임인 대한수련병원협의회는 지난 9일 회의를 갖고 전공의가 사직을 원할 경우 2월 29일 자로 수리하기로 했다. 그간 다수 전공의는 “만약 6월로 사직 처리되면 2~6월 무단 이탈을 인정하는 것이나 다름없고, 퇴직금도 못 받을 수 있다”며 2월 사직 수리를 주장해왔다.&lt;br&gt;&lt;br&gt;그러나 정부는 “2월 사직 수리는 병원·전공의 간 사적 합의일 뿐”이라는 입장이다. 병원이 2월로 수리할 수는 있지만, 병원과 전공의 간 계약에서 퇴직금과 4대 보험료 정산 등에 적용되는 것일 뿐 정부가 공식 인정하는 사직 수리 시점은 아니라는 얘기다. 보건복지부는 이날 “사직 효력은 원칙적으로 (사직서 수리 금지 명령을 철회한) 6월 4일 이후 발생한다”며 “사직 후 9월 하반기 모집에 복귀하지 않는 전공의에겐 ‘수련 특례’도 적용되지 않는다”고 했다.&lt;br&gt;&lt;br&gt;현 규정상 사직서 수리 시 1년 내 같은 과·연차로는 복귀할 수 없다. 하지만 복지부는 올 하반기 모집에 한해 복귀를 허용한다고 했다. 복지부 관계자는 “6월에 사직 효력이 발생한다는 것은 병원에서 ‘2월 사직 수리’를 하더라도 사직 전공의는 내년 3월이 아닌 내년 9월 이후 복귀할 수 있다는 얘기”라고 했다. 병원 경영난이 가중되는 상황에서 정부는 올해 9월 전 최대한 전공의들을 복귀시키겠다는 구상인 만큼 ‘2월 사직 수리 후 내년 3월 복귀’는 불가하다는 입장이다.&lt;br&gt;&lt;br&gt;일각에선 2월로 사직 수리 시, 병원·정부를 상대로 한 전공의들의 손해배상 소송이 크게 늘 것이란 전망도 나온다. ‘정당하게 낸 사직서의 수리가 지연돼 금전·정신적 피해를 입었다’며 소송을 낼 수 있다는 것이다. 전공의·의대생 소송 대리인 이병철 변호사는 이날 소셜미디어에서 “2월 사직서 수리를 소급해 민사상 허용한다면, 2~6월 사직서 수리 금지 명령은 위법·무효”라며 “전공의들은 의사 경력 1년을 날렸으므로, (정부를 상대로) 일반의 평균 연봉 3억원, 1만명이면 3조원의 손해배상 소송을 낼 수 있다”고 주장했다.&lt;br&gt;&lt;br&gt;복지부는 수련병원협의회가 ‘사직서 처리 기한을 15일에서 22일로 연장해달라’고 한 데 대해선 “검토할 것”이라고 했다. 일부 병원은 기한 내 복귀하지 않는 전공의들의 사직서를 일괄 처리하는 방안도 검토 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>학생식당서 ‘쿵’ 쓰러진 직원…“달려와 구해준 학생 3명 찾습니다”</title>
