@@ -94,7 +94,7 @@ ESG 대응 수요 증가는&lt;br&gt;
 			<dc:creator>윤재필</dc:creator>
 		</item>
 		<item>
-			<title>공익을 위하여 : ‘뒷담화’와 멘탈 관리 - 피해 사실 &lt;br&gt;
+			<title>공익을 위하여 : 대리외상과 대나무숲 - 피해 사실 &lt;br&gt;
 들을 때 느끼는 &lt;br&gt;
 불편·혼란·괴리감·부조화&lt;br&gt;&lt;br&gt;
 피해자와 유사한 ‘대리외상’ &lt;br&gt;&lt;br&gt;
