@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>검찰, '이정근 취업청탁 의혹' 노영민·김현미 압수수색</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/199856.jpg" alt="199856.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size: 14px; line-height: 1.6em;"&gt;노영민(오른쪽) 전 청와대 비서실장과 김현미 전 국토교통부 장관. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;검찰이 이정근 전 더불어민주당 사무부총장의 취업 과정에 부당하게 개입한 혐의로 노영민 전 청와대 비서실장과 김현미 전 국토교통부 장관에 대한 압수수색에 나섰다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;서울중앙지검 반부패수사2부&lt;/b&gt;(&lt;span style="font-weight: bold;" class="lawmanlink" serial="11669"&gt;최재훈&lt;/span&gt;&amp;nbsp;부장검사)는 12일 오전부터 노 전 실장과 김 전 장관의 주거지, 국토교통부 사무실 등에 검사와 수사관을 보내 자료를 확보하고 있다. &lt;br /&gt;&lt;br /&gt;검찰은 노 전 실장과 김 전 장관에게는 업무방해 혐의를 적용했다. &lt;br /&gt;&lt;br /&gt;이 전 부총장은 2020년 21대 총선에서 낙선한 뒤 국토교통부의 추천으로 1년간 한국복합물류에서 상근 고문으로 일하며 1억 원 가량의 연봉을 받았다. &lt;br /&gt;&lt;br /&gt;검찰은 이 전 부총장은 방송작가 출신으로 물류 전문성이 없었는데도 고문으로 선임된 배경에 노 전 실장과 김 전 장관이 위력을 행사한 것으로 보고 수사를 진행하고 있다.&lt;br /&gt;&lt;br /&gt;한편 이 전 부총장은 사업가 박모씨로부터 공공기관 인사 등 각종 청탁 대가 및 21대 총선 선거 비용 명목으로10억 원의 금품을 수수한 혐의로 구속기소돼 지난해 12월 대법원에서 징역 4년 2개월을 확정받고 복역 중이다.</description>
+			<pubDate>Fri, 12 Jul 2024 04:42:12 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/199856</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199856</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/199856.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>법무부 '제6회 통일법제 논문 공모전' 개최</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/199849.jpg" alt="199849.jpg" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;법무부&lt;/b&gt;가 '제6회 법무부 통일법제 논문 공모전'을 연다. &lt;br /&gt;&lt;br /&gt;통일·남북관계법제 및 북한법제 관련 자유 주제로 응모 자격은 따로 없다. &lt;br /&gt;&lt;br /&gt;논문 접수는 오는 9월 12일부터 10월 1일까지이며 심사는 10월 2일부터 17일까지 진행된다.&lt;br /&gt;&lt;br /&gt;최우수상 1편에는 상장과 상금 300만 원이, 우수상 2편에는 각각 상장과 상금 150만 원이 수여된다. 당선작은 《통일과 법률》 학술지에 게재되고, 법무부 주최 학술대회에서 발표 기회가 제공된다.&lt;br /&gt;&lt;br /&gt;문의사항은 통일법제DB(&lt;a href="http://www.unilaw.go.kr" target="_blank"&gt;&lt;b&gt;링크&lt;/b&gt;&lt;/a&gt;) 사이트를 참조하거나, 법무부 통일법무과(02-2110-3230)로 문의하면 된다.</description>
 			<pubDate>Fri, 12 Jul 2024 02:20:09 -0000</pubDate>
@@ -228,16 +238,6 @@
 			<link>https://www.lawtimes.co.kr/news/199771</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199771</guid>
 			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>민사본안 사건 10건 당 7건… 대법서 심리불속행 기각</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/199766.jpg" alt="199766.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대법원이 올해 1~5월에 처리된 민사 본안 사건 가운데 72.3%를 심리불속행으로 기각한 것으로 나타났다(소송남용인 사건 제외). 10명 중 7.2명의 사건 당사자가 이유도 모른 채 상고를 기각당했다는 것이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;법률신문 취재를 종합하면, 2024년 1~5월 대법원에 접수된 민사 본안사건은 모두 4845건으로, 같은 기간 동일인의 과다 소송 제기 사건을 제외한 처리 건수는 5687건이었다. 이 가운데 72.3%에 달하는 4112건이 심리불속행 기각으로 종결된 것으로 파악됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;심리불속행이란 민사나 가사·행정·특허 분야 상고 사건에서 상고 이유에 관한 주장이 헌법이나 법률, 대법원 판례 위반이나 중대한 법령 위반에 관한 사항 등을 포함하지 않는 경우 더 이상 심리하지 않고 상고를 기각하는 제도이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;문제는 민사 본안 상고심 사건의 심리불속행 기각률이 2016년 이후 70% 정도를 유지하는 선에 그치며 줄어들지 않고 있다는 점이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;2014년 54.5%에서 2015년 60.7%로 오른 후 2016년 70%로 70%대에 돌입한 뒤 2017년 77.3%로 급증했고 2018년 75%로 조금 줄었다. 2019년 69.6%, 2020년 69.8%로 조금 줄었지만 2021년 72.7%로 증가했고 2022년 69.3%, 2023년 70.5%로 다시 올랐다. 지난해 기준으로 10년 새 16%p가 증가한 것이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;행정 본안 상고심과 특허 본안 상고심 심리불속행 기각률 역시 올 상반기 73.1%와 76.8%를 기록했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;가사 본안사건 심리불속행 기각률은 더 심각한 상황이다. 대법원이 올해 1~5월에 처리한 가사 본안 사건(345건) 가운데 82.3%(284건)를 심리불속행 기각한 것으로 나타났다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;가사 사건의 경우에는 법률심인 대법원에서 판단할 만큼 법리적으로 중요한 문제를 상고 이유로 내세우기보다는 대부분 위자료 산정이나 재산 분할 비율 등 ‘사실인정’ 부분을 문제 삼기 때문에 구조적·본질적으로 당연한 결과라는 분석도 있다. 그러나 가사 사건에 대해 대법원이 법률심임을 내세워 가정사 문제를 다루는 것을 지나치게 기피한다는 지적도 있다. 당사자 간에 가장 첨예하게 대립하는 사건이 가사 사건인 만큼 당사자 입장에서는 두 번밖에 법원 판단을 받지 못하고 사건이 끝났다고 느껴져 불만이 높을 수밖에 없다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;법조에선 민사 본안 상고심의 심리불속행 기각률이 70%대를 유지하는 것이 적정한 수준이라는 분석도 나오지만, 이유도 모른 채 마지막 상고심에서 기각 판결을 받는 당사자 입장에서는 납득하기가 어렵다는 지적이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;심리불속행 기각 판결을 받았던 모 기업가는 “당사자는 마지막 기회라는 생각으로 상고를 하는 것인데, 아무런 이유도 없이 ‘심리불속행 기각’ 판결을 받으면 대법원이 제대로 심리는 한 것인지, 내 사건을 보기는 본 것인지 의문이 생길 수밖에 없지 않겠느냐”며 “솔직히 보지도 않았을 거라는 의심이 들 수밖에 없다”고 토로했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;가사 사건의 경우에는 심리불속행 기각률이 매우 높은 탓에 항소심이 사실상 최종심 역할을 한다는 인식이 지배적인 만큼 더 책임감을 갖고 재판에 임해야 한다는 지적도 제기되고 있다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;가정법원 판사 출신의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7892"&gt;이현곤&lt;/span&gt;(55·사법연수원 29기) 변호사는 “가사 사건은 사실인정이나 재산분할 비율 등은 사실심 재량의 영역으로 보는 경향이 높고 특히 이혼 사건은 법률심에서 판단할 쟁점이 상고 이유로 다뤄지지 않는 경우가 많다”며 “다만 이혼 사건은 항소심이 최종심 비슷하게 운영이 되고 있기 때문에 당사자의 불만이 있을 수 있는 만큼 하급심의 정확하고 공정한 판단이 중요하다”고 말했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;대법원은 밀려드는 상고 사건에 따른 업무 경감과 심리 속행 사유에 대한 충실한 심리를 위해 사건 당사자가 상고이유서를 대법원이 아니라 원심법원에 먼저 제출하게 하는 제도 입법을 위해 노력 중이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;현재 심리 속행 사유 심사 기간은 대법원에 기록이 접수되었을 때부터 4개월이다. 그런데 대법원 기록 접수 후 상고 기록 접수 통지(약 5일)와 상고 이유서 제출 기간(20일)이 진행되기 때문에 상고이유서가 제출될 때까지의 기간이 최소 25일 이상이 소요되는 셈이어서 심사 기간의 20% 이상이 불필요하게 허비된다고 볼 수 있다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;그런데 제21대 국회에서 기동민 당시 의원이 대표발의해 추진했던 민사소송법 개정안에 따르면 사건 당사자가 60일 내에 상고이유서 를 원심법원에 제출하도록 하고 있어 상고권 보장을 강화할 수 있을 뿐 아니라 실질적으로 대법원에서 사건 을 들 여다볼 4개월 기간이 충분히 확보 돼 대법관 소부 합의기일이 필요에 따라 2~3회 추가 실시도 가능해질 수 있다. 다만 이 개정안은 지난 국회에서 임기만료로 폐기돼 제 22대 국회에서 통과될지 법조 안팎의 기대가 쏠 린다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</description>
-			<pubDate>Tue, 09 Jul 2024 20:06:44 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/199766</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199766</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/199766.jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
