@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘강남 뺑소니’ 전직 축구선수 “술 마시고 운전했다” 인정</title>
+      <link>https://www.chosun.com/national/incident/2024/07/12/CE4GPBDQTRDTTBOGRKVBHN3BFQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/12/CE4GPBDQTRDTTBOGRKVBHN3BFQ/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 12 Jul 2024 09:54:25 +0000</pubDate>
+      <content:encoded>서울 강남구에서 교통사고를 내고 달아났다가 검거된  축구선수가 이날 경찰 조사에서 음주 사실을 인정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6SYCU3BGFZADJMRPYGJT5E6M6Q.jfif"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 서울 강남경찰서는 전직 축구선수 A(35)씨를 사고후미조치 등 혐의로 입건했다. A씨는 이날 오전 6시 6분쯤 서울 강남구 논현동의 한 인도 위 변압기와 가로수를 들이받고 도주했다가 주거지에서 긴급체포됐다.&lt;br&gt;&lt;br&gt;2010년 강원FC에 입단한 A씨는 독일과 일본, 말레이시아 등지에서 선수로 활동했다. U16 청소년 국가대표로도 뛰었다. 현재는 축구 선수로 뛰지 않는 상태다.&lt;br&gt;&lt;br&gt;음주 혐의를 부인하던 A씨는 이날 경찰 조사에서 “술을 마시고 운전했다”고 진술했다. 경찰은 사고 현장에서 A씨의 음주를 감지해 음주 측정을 하고자 했으나 A씨는 음주운전 측정기 사용을 거부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>法, 70대 노모 상습 폭행한 ‘인면수심’ 아들에 3년6개월 실형</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/12/FKV26YW4ARDUJGFD2IIUVI72ZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/12/FKV26YW4ARDUJGFD2IIUVI72ZU/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 12 Jul 2024 09:25:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6C75ZQHUYSSZPLQCCY5EHT7TQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;70대 어머니를 상습적으로 폭행한 혐의로 재판에 넘겨진 50대 남성이 3년 6개월의 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;서울서부지법 형사6단독 지충현 판사는 지난 3일 특수존속상해, 존속폭행 등 혐의로 기소된 A(51·남)씨에 대해 3년 6개월의 실형을 선고했다.&lt;br&gt;&lt;br&gt;검찰에 따르면 A씨는 2022년 2월 서울 은평구 자택에서 어머니 B(75)씨가 설거지를 하겠다고 고집을 부린다는 이유로 밀쳐 머리를 스테인리스 냄비에 부딪히게 한 혐의를 받는다. B씨는 두피가 찢어지는 부상을 입었다.&lt;br&gt;&lt;br&gt;지난해 7월에는 B씨가 자신과 대화를 나누던 중 외출하려고 하자 B씨의 얼굴을 주먹으로 두 차례 가격했다. 그해 10월에도 20cm 길이 거실 리모컨으로 B씨의 머리를 내리치고 발로 허리를 걷어차 넘어뜨린 것으로 파악됐다.&lt;br&gt;&lt;br&gt;결심 공판에 참석한 A씨는 폭행 혐의를 부인한 것으로 알려졌다. A씨 측 변호인은 “B씨에게 생긴 상처는 스스로 넘어지거나 발을 헛디뎌 식탁 모서리에 턱을 부딪히거나, 침대에서 낙상하면서 발생했다”며 “이는 A씨의 폭력행위로 발생한 것이 아니다”고 주장했다.&lt;br&gt;&lt;br&gt;그러나 재판부는 A씨 측 주장을 받아들이지 않았다. 재판부는 “증거로 드러나는 상해 사실과 피해자의 진술 등에 비추어 볼 때 A씨의 범죄 사실은 모두 유죄로 인정된다”며 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰 “이재명 재판, ‘대장동’ 먼저 선고해야...‘대북송금’ 합쳐선 안돼”</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/12/D2RIOKEOXJB4JDRHAHFYXYMIGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/12/D2RIOKEOXJB4JDRHAHFYXYMIGE/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 12 Jul 2024 09:17:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/64YS6GMTG5I4XOTJNEHATBIEQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 이재명 전 대표가 12일 오후 서울 서초구 서울중앙지방법원에서 열리는 공직선거법 위반 재판에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 전 더불어민주당 대표가 자신의 ‘쌍방울 그룹 불법 대북 송금’ 사건 재판을 수원지법이 아닌 서울중앙지법에서 받게 해 달라는 신청 사건에 대해 검찰이 반대 의견을 냈다. 서울중앙지검은 지난 10일 대법원과 서울중앙지법에 병합 반대 의견서를 제출했다고 12일 밝혔다. 같은 날 수원지검도 반대 의견서를 제출했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 검찰은 의견서에서 “이 전 대표 관련 사건을 병합 심리하고 있는 재판부가 오히려 대장동·위례 개발비리 사건은 쪼개서 별도로 신속하게 선고해야 할 필요성이 높다”라며 “재판부가 심리하는 사건과는 전혀 무관한 ‘대북 송금’ 사건을 병합해달라는 것은 오직 재판 지연과 선고 회피를 위한 것으로 허용되어서는 안 된다”고 했다.&lt;br&gt;&lt;br&gt;이 전 대표는 현재 서울중앙지법에서 ①대장동·위례 특혜 개발, 백현동 특혜 개발, 성남FC 불법 후원금 사건 ②위증 교사 사건 ③공직선거법 위반 사건 등 3개 재판을 동시에 받고 있다. 이 전 대표는 ‘쌍방울 불법 대북 송금 사건’으로 수원지법에 기소되자, 이 사건을 서울중앙지법 ‘대장동 사건’에 병합해 달라고 지난 1일 요청했다.&lt;br&gt;&lt;br&gt;‘대장동 사건’ 담당 재판부인 서울중앙지법 형사 33부(재판장 김동현)는 이미 1년 넘게 대장동·위례 특혜 개발, 백현동 특혜 개발, 성남 FC 불법 후원금 사건을 하나로 묶어 심리하고 있다. 증거 기록만 20만쪽이 넘고, 1심에만 수년이 걸릴 것이라는 예측이 나온다. 여기에 대북 송금 사건까지 합쳐지면 1심 결론은 더 늦어질 수밖에 없다는 게 법조계의 우려다.&lt;br&gt;&lt;br&gt;검찰은 반대 의견서에서 “해당 재판부에 ‘대북 송금’ 사건을 합칠 게 아니라, 해당 재판부가 오히려 대장동·위례 개발 비리 사건을 따로 떼서 먼저 선고할 필요성이 있다”고 강조했다. 검찰은 “중앙지법 사건 중 대장동·위례 사건은 범행시기와 사건 관련자가 겹친다”라고 했다. 대장동 민간 업자인 남욱 변호사(천화동인 4호 소유주)와 정영학 회계사(천화동인 5호 소유주) 회계사, 김만배씨(화천대유 대주주) 등이 대장동·위례 사건에 똑같이 등장한다는 것이다. 또 “대장동·위례 사건은 쟁점 및 사건의 구조 등이 유사해 그 심리가 마쳐진 경우에는 신속히 변론을 분리해 직접 심리한 재판부가 해당 사건을 먼저 선고할 필요성이 높은 상황”이라고 했다.&lt;br&gt;&lt;br&gt;검찰은 “반면 수원지법의 대북송금 사건과 대장동·위례 사건은 범행 시기와 쟁점, 관련자들이 전혀 다르다”고 밝혔다. 대북송금 사건은 이 전 대표가 경기지사 시절 발생한 제3자 뇌물 사건이지만, 대장동·위례 사건은 이 전 대표가 성남시장 시절 발생한 부동산 개발비리 사건으로 그 성격이 다르다는 것이다. 검찰 관계자는 “수원지법이 대북 송금 사건에 연루된 이화영 전 경기도 부지사와 김성태 전 쌍방울 회장 등의 재판을 했기 때문에 이 전 대표의 대북 송금 사건 재판도 수원에서 하는 게 맞는다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>박수홍 형수 “딸 너무 힘들어해 정신과 치료 중” 선처 호소</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/12/36USTDWUAJHIZLEB4XLAUL6XDQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/12/36USTDWUAJHIZLEB4XLAUL6XDQ/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 12 Jul 2024 09:11:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ISHQHPH2TD5WQBHO2DSXWGFTSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 박수홍. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 박수홍에 대한 명예훼손 혐의로 재판에 넘겨진 형수 이모씨가 12일 “딸이 공황 증세로 정신과 치료를 받고 있다”며 선처를 호소했다.&lt;br&gt;&lt;br&gt;이날 오후 서울서부지법 형사9단독 강영기 판사 심리로 열린 공판에 참석한 이씨는 “딸이 너무 힘들어 한다. 지하철을 타면 앞이 보이지 않는 증상을 보여 정신과 치료와 심리 상담을 병행하고 있다”며 이같이 말했다. 이씨는 박수홍과 그의 아내 김다예씨에 대한 명예훼손 혐의로 작년 10월 기소됐다.&lt;br&gt;&lt;br&gt;검찰에 따르면 이씨는 박수홍을 비방할 목적으로 카카오톡 단체 대화방에서 허위사실을 유포한 혐의를 받는다. 이씨는 자신과 남편 박모씨가 박수홍의 돈을 빼돌렸다는 주장은 허위라는 취지의 메시지를 포함, ‘박수홍이 방송 출연 당시 한 여성과 동거했다’는 등의 메시지를 유포한 것으로 검찰은 보고 있다.&lt;br&gt;&lt;br&gt;이날 이씨는 “피해자 여성과 박씨가 동거하는 모습을 목격했느냐”는 검찰 측 질문에 “목격한 적 없다. 시부모로부터 전해들었다”고 답했다. 이어 “2019년 10월쯤 ‘미우새’ 촬영이 있어 청소하러 갔는데 집 현관에 여성 구두가 있었다”며 “옷방에 여성 코트가 걸려 있었고 안방에도 여성용품이 있었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “미혼 중년 남성 연예인의 일상을 다룬 예능에 박수홍이 출연한 만큼, 동거 사실이 유포될 경우 여론이 나빠질 것을 염두에 둔 것이 아니냐”는 질문에 이씨는 “거기까지 생각하진 못했다”고 답했다. 또 횡령이 허위라는 메시지와 “박씨가 동거 중”이라는 취지의 메시지를 함께 유포한 경위를 묻자, 이씨는 “마음이 힘들어서 이성적인 생각을 할 수 없었다”고 답했다.&lt;br&gt;&lt;br&gt;이같은 메시지를 단체 채팅방에 유포한 동기와 관련, 이씨는 “유튜브에 댓글이 달리면서 (우리 부부가) 횡령범이 됐다”며 “딸이 학교를 갈 수 없을 정도로 힘들어 하는 상황 속에서 (횡령은) 사실이 아니라는 걸 지인들에게 얘기하고 싶었다”고 답했다. 이때 이씨는 눈물을 흘리기도 했다.&lt;br&gt;&lt;br&gt;앞서 이씨 부부는 2011년~2021년 박수홍의 매니지먼트를 전담하면서 회삿돈과 박수홍의 개인 자금 등 약 48억원을 횡령한 혐의로 기소돼 별도로 재판을 받고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“지금 X신된 새끼”...유튜버 이근 모욕한 男 유튜버 벌금형</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/12/3COOXTC53VDPZEUTPRB37XGHOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/12/3COOXTC53VDPZEUTPRB37XGHOQ/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 12 Jul 2024 08:56:58 +0000</pubDate>
+      <content:encoded>자신의 유튜브 방송에서 또 다른 유튜버인 해군특수전전단 출신 이근(40) 전 대위를 향해 거친 말을 내뱉은 40대 남성 유튜버에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EXT3RXKANVAXZO7O4JRBX35J5M.png"&gt;&lt;figcaption&gt;&lt;small&gt;유튜브 일러스트. /일러스트=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사23단독 양진호 판사는 모욕 혐의로 기소된 송모(44)씨에게 벌금 150만원을 선고했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;유튜브 채널 ‘깔롱튜브’를 운영하는 송씨는 지난 2022년 5월 29일 채널 영상을 통해 “X새끼야 네가 제대한 지가 언젠데 X발, 이근 대위를 X랄...아직도 대위...하”라며 “이 새끼 그냥 민간인이야 민간인”이라고 이씨를 비난했다.&lt;br&gt;&lt;br&gt;이어 “저 새끼 잘 나갈 뻔하다가 지금 X신된 새끼잖아. 그런 놈이 자꾸 나는 방송에 나오는 것을 달갑게 여기지 않아. 이런 X신 물고 빨고 있는 사람들도 나는 이해가 안 되고”라는 내용의 영상 등을 게시하며 이씨를 모욕한 혐의를 받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QHRCL2AO3BNWVJW54GA64RIHAQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이근 전 대위. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양 판사는 “피고인이 경제적 이득을 얻기 위해 이 사건 범행을 저지른 점, 피고인이 동종범죄로 처벌받거나 벌금형을 넘는 처벌을 받은 전력은 없는 점 등을 고려했다”며 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사당동 횟집에 차량 돌진해 1명 경상… 70대 운전자는 급발진 주장</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/12/MSSYT3FPW5FC7D2UU4QCGSG6KQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/12/MSSYT3FPW5FC7D2UU4QCGSG6KQ/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 12 Jul 2024 08:29:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J3P27UOPWFHQVHSJAEFSRO4RE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 서울 동작구 사당동에서 70대 여성이 운전한 차량이 횟집으로 돌진해 횟집 사장이 경상을 입었다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 동작구에서 70대 여성 운전자가 몰던 차량이 식당으로 돌진해 중년 남성이 다치는 사고가 12일 발생했다.&lt;br&gt;&lt;br&gt;서울 동작경찰서는 이날 오전 10시 20분쯤 동작구 사당동 남성사계시당 인근에서 70대 여성 A씨가 운전하던 차량이 시장 내 횟집으로 돌진했다고 밝혔다. 이 사고로 횟집 사장인 50대 남성 B씨는 손가락 골절 등 경상을 입었고, 식당 유리창이 깨지고 내부 집기가 파손되는 등 재산 피해도 생긴 것으로 파악됐다. 다만 B씨 이외 인명 피해는 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “사고 원인은 차량 급발진”이라고 주장한 것으로 알려졌다. A씨에게 음주나 마약 정황은 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;한편 경찰은 “급발진 여부 감정을 위해 사고 차량을 국립과학수사연구원으로 인계했다”며 “이후 조사를 통해 입건 여부를 결정할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“나 구청장 딸인데”...150억대 투자 사기 40대女 징역 10년</title>
       <link>https://www.chosun.com/national/2024/07/12/GW6JIIXPVFG5HEJ3W6JAQWNF3Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/07/12/GW6JIIXPVFG5HEJ3W6JAQWNF3Q/</guid>
@@ -818,23 +872,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NHP6FFAZVV2SRPMCGVT3RXFJGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신장질환을 앓는 여덟살 난 아들을 방치해 숨지게 한 30대 부부에게 검찰이 징역 15년을 구형했다.&lt;br&gt;&lt;br&gt;11일 춘천지법 강릉지원 형사2부 심리로 열린 결심공판에서 검찰은 아동학대처벌법 위반(아동학대치사) 등 혐의로 기소된 A(36)씨와 B(여·34)씨에게 각각 징역 15년을 구형했다.&lt;br&gt;&lt;br&gt;또 아동복지법위반(상습아동학대) 혐의로 기소된 C(33)씨와 D(35)씨에게 징역 7년과 징역 5년을 각각 구형했다. C씨와 D씨는 B씨의 지인으로, 이들 부부와 동거를 해왔다.&lt;br&gt;&lt;br&gt;A씨 부부는 숨진 자녀 E(8)군이 신장 관련 질병이 있다는 사실을 알고도 장기간 방치해 숨지게 한 혐의를 받고 있다. E군은 지난 4월 4일 강원 강릉시 노암동 자택에서 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;이들 부부는 또 E군의 동생인 F(4)양의 눈 질환도 외면해 중상해에 이르게 했으며, 지난해 1월부터 올해 4월까지 숨진 E군 등 7명의 자녀를 상습적으로 폭행하기도 했다.&lt;br&gt;&lt;br&gt;이들과 함께 기소된 C씨와 D씨 역시 이들 부부의 자녀를 상습적으로 폭행하고 협박했다.&lt;br&gt;&lt;br&gt;조사 결과 A씨 부부는 난방도 되지 않는데다 쓰레기로 가득 찬 집에서 아이들을 양육해 왔다. 특히 아이들 앞으로 나온 양육지원금을 유흥비로 탕진했으며, 생활비가 부족하자 아이들 명의로 휴대전화를 개통한 뒤 이를 되팔아 돈을 챙기기도 했다.&lt;br&gt;&lt;br&gt;A씨 부부는 이날 검찰의 공소 사실을 모두 인정하면서 “아이들에게 미안하고 아이들에게 돌아가고 싶다. 다시는 이런 일이 없도록 하겠다”며 고개를 숙였다.&lt;br&gt;&lt;br&gt;한편 A씨 부부 등에 대한 선고 공판은 다음 달 22일 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[반론보도]([단독]“이재명, 방북 비용 합의 직후 北과 접촉 시도”) 관련</title>
-      <link>https://www.chosun.com/national/2024/07/11/OJERIK2NFNCGZKZZ3JFB7WQQIM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/07/11/OJERIK2NFNCGZKZZ3JFB7WQQIM/</guid>
-      <description/>
-      <pubDate>Thu, 11 Jul 2024 09:00:00 +0000</pubDate>
-      <content:encoded>본 신문은 지난 6월 17일자 사회면에 ([단독]”이재명, 방북 비용 합의 직후 北과 접촉 시도”)라는 제목으로 이재명 전 대표가 방북 비용 합의 직후에 북과 접촉을 시도했다고 보도했습니다. &lt;br&gt;&lt;br&gt;이와 관련해 이 전 대표 측은 “당시 경기도와 북한과의 교류 사업의 일환으로 북측과 접촉을 시도한 것이다. 쌍방울이 북한에 전달한 돈과는 무관한 일이며 방북비용을 합의한 적도 없다”고 밝혀왔습니다.&lt;br&gt;&lt;br&gt;이 보도는 언론중재위원회의 조정에 따른 것입니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“이재명이 내게 건설 마피아 지칭”...건설업자, 명예훼손 소송 2심도 패소</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/11/UA5KDJ3KCNHMRMFQI46LBD5ZEM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/11/UA5KDJ3KCNHMRMFQI46LBD5ZEM/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Jul 2024 08:46:17 +0000</pubDate>
-      <content:encoded>경기도 평택 현덕지구 민간개발 사업자가 더불어민주당 이재명 전 대표로부터 ‘건설 마피아’로 지칭돼 명예가 훼손됐다며 낸 소송에서 1심에 이어 2심에서도 패소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QSCSIVUFPRNA5IYKISC7HUQTHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 이재명 전 대표가 10일 오전 서울 여의도 중앙당사에서 당대표 출마 선언 기자회견을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 법조계에 따르면 서울중앙지법 민사6-2부(재판장 지상목)는 이날 평택 현덕지구 개발 초기 민간사업자인 A사가 이 전 대표를 상대로 낸 1억원 상당 손해배상소송 항소심에서 원고 패소 판결했다.&lt;br&gt;&lt;br&gt;A사는 2014년 1월 현덕지구 개발사업시행자로 지정됐다. 하지만 이 전 대표가 경기지사로 취임한 직후인 2018년 8월 토지매수 지연, 시행명령 불이행 등의 이유로 사업자 지정 취소처분을 받았다. A사는 행정소송을 벌였지만, 2020년 9월 최종 패소했다.&lt;br&gt;&lt;br&gt;이 전 대표는 이와 관련해 2020년 12월 소셜미디어에 ‘투기세력 배불리는 개발을 국민이 이익 보는 개발로’라는 글을 올렸다. 그러면서 이 글에서 현덕지구 사업을 민간개발 방식에서 민관 합동 방식으로 변경한다며 ‘개발 마피아들과 싸워야 하는 어려운 공약’이라는 표현을 썼다.&lt;br&gt;&lt;br&gt;A사는 이 전 대표가 자신들을 겨냥해 허위사실을 유포해 명예를 훼손했다며 2021년 손해배상 소송을 냈다.&lt;br&gt;&lt;br&gt;앞서 1심은 이 전 대표가 “실명을 거론하지 않아 피해자를 특정할 수 없다”고 한 부분은 받아들이지 않았다. 그러면서도 “비록 ‘건설마피아’등으로 지칭하고 폄훼했다고 하나 전체 내용은 개발이익 도민환원제를 경기도 전체로 확장하고 구체화해 현덕지구에 적용한 성과를 강조한 것”이라며 게시글이 공적인 목적을 가진 만큼 명예훼손 또는 인격권 침해로 볼 수 없다고 판단했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6B6R26E7MREFBO7OQIZ5FYKHZI.png"&gt;&lt;figcaption&gt;&lt;small&gt;평택 현덕지구 개발 예정 지역. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 2심 재판부는 법정에서 선고 이유를 따로 밝히진 않았지만, 1심과 비슷한 취지로 판단한 것으로 보인다.&lt;br&gt;&lt;br&gt;현덕지구 개발은 평택시 현덕면 장수·권관리 일원 231만6000㎡에 주거·산업·문화시설을 조성하는 사업이다. 2008년 5월 이 지구는 경제자유구역으로 처음 지정됐지만, 16년 넘게 사업이 제대로 진척되지 않고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>참전유공자 유족이 놓친 수당, 정부가 챙겨준다</title>
       <link>https://www.chosun.com/politics/goverment/2024/07/11/2577N7YDENAD5JSSLDCNL7YGCM/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2024/07/11/2577N7YDENAD5JSSLDCNL7YGCM/</guid>
@@ -842,36 +879,6 @@
       <description/>
       <pubDate>Thu, 11 Jul 2024 08:38:01 +0000</pubDate>
       <content:encoded>6·25전쟁 또는 베트남전쟁 참전 유공자가 사망한 경우, 앞으로는 정부와 지방자치단체가 그 배우자를 찾아 보훈수당을 계속 지급하게 된다.&lt;br&gt;&lt;br&gt;국민권익위원회는 이런 내용을 담은 ‘지자체 참전 유공자 유가족 수당 지급 사각지대 해소 방안’을 국가보훈부와 전국 243개 지방자치단체에 권고했다고 11일 밝혔다. 보훈부와 각 지자체는 권고를 수용해 관련 제도를 고치기로 했다.&lt;br&gt;&lt;br&gt;현재 정부는 살아 있는 참전 유공자 22만6492명(지난해 5월말 기준)에게 참전유공자법에 따라 월 42만원의 참전명예수당을 지급하고 있다. 이와 별도로 각 지자체가 조례를 제정해, 참전 유공자에게 월 2만~22만원의 보훈수당을 추가로 지급하고 있다. 지자체 중 163곳은 참전 유공자가 사망한 경우에도 배우자 등 유가족에게 보훈수당을 계속 지급하도록 규정하고 있다.&lt;br&gt;&lt;br&gt;그러나 실제로는 해당 지자체 163곳에 사는 참전 유공자 유가족이라도 수당을 받지 못하는 경우가 많았다. 보훈부가 가진 참전 유공자 정보 중 살아 있는 참전 유공자 정보만이 지자체와 공유되고 있었기 때문이다. 특히 지자체가 참전 유공자 유가족에게 수당을 지급한다는 조례를 만들기 전에 참전 유공자가 사망한 경우에는, 해당 지자체가 관내에 참전 유공자 유가족이 있다는 것을 알 수 없어 유가족에게 수당을 지급하지 못했다.&lt;br&gt;&lt;br&gt;권익위는 사망한 참전 유공자가 41만여명에 달하고, 유가족 상당수가 수당을 받지 못하고 있는 것으로 추정했다. 2022년 보훈부 전북서부보훈지청이 익산·군산·정읍·김제시와 부안·고창군 등 6개 시·군에서 수당을 받지 못하고 있었던 참전 유공자 유가족을 찾아봤더니 660명이 발견됐다. 지난해 경기 안양시도 보훈지청과 함께 수당 미수령 유가족을 찾아봤더니 135명이 나왔다.&lt;br&gt;&lt;br&gt;권익위는 보훈부에 사망한 참전 유공자의 정보를 지자체와 공유하고, 각 지자체에 이 정보를 바탕으로 지역 내에 거주하는 참전 유공자 유가족을 찾아 유가족에게 보훈수당 신청을 안내하도록 했다. 또 참전 유공자 유가족이 신체적·정신적 장애로 보훈수당을 신청하기 어려운 경우에는 지자체가 직권으로 보훈수당 지급 대상으로 등록하도록 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 7월 12일 금요일(음력 6월 7일 丁丑)</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/11/VGTKHNWRDVGDXMEEN6B75XDQGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/11/VGTKHNWRDVGDXMEEN6B75XDQGA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Jul 2024 08:33:26 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	 36년생 일단 한걸음 내딛는 것부터 시작. 48년생 있는 역량 다 쓰지 마라. 60년생 저평가된 종목 눈여겨봐야. 72년생 팔자 도망은 못 하는 것인가. 84년생 애정 운 살아나는 시기. 96년생 어설픈 완벽주의는 자신과 주변만 힘들게 할 뿐.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	 37년생 동업은 손해 적지 않을 듯. 49년생 자기 운명 사랑할 줄 알아야. 61년생 음주 주의하면 몸이 편안. 73년생 돈 떨어지니 용기도 떨어지는가. 85년생 일방적 밀어붙이기보다 상황 봐가면서. 97년생 괴로움 뒤 즐거움은 더 값진 법.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	 38년생 영웅호걸도 때 만나야 영웅. 50년생 다급해도 오리는 홰에 오르지 않는다. 62년생 남 좋은 일 되더라도 남는 장사. 74년생 꿈 실현 위해선 간절한 도전 필요. 86년생 쓰러졌을 때 내일을 생각하라. 98년생 금전적 허비 불가피할 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	 27년생 비우고 내려놓고 흘려보내고. 39년생 아무도 거들떠보지 않는 것에 소중한 가치 있다. 51년생 전력투구하니 종내 기쁨 온다. 63년생 주변 사람과 충돌 주의. 75년생 책임감 갖고 꾸준히 밀고 가라. 87년생 미움과 증오 벗어나도록. 99년생 내 돈 주고 사람 잃는다 했다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	 28년생 기다려라 조금만 더 기다려라. 40년생 돕겠다 말한 사람을 조심. 52년생 진정한 행복은 잘 드러나지 않는 법. 64년생 큰 기대는 큰 실망 초래. 76년생 과음 과식은 탈 부른다. 88년생 전체를 보고 큰 줄기 파악해야. 00년생 접어뒀던 작은 계획 실현해 봐도 좋다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	 29년생 좋고 싫고를 분명히 표현해야. 41년생 아무도 예상 못 한 곳을 공략하라. 53년생 망설이지 말고 적극 나서보도록. 65년생 독선적으로 보이지 않도록 언행 조심. 77년생 가만히 있어선 냉수도 못 먹는다. 89년생 능력 감추지 말고 적극 나서라. 01년생 원인 해결하면 문제는 자동 정리.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	 30년생 집 안 상서로운 기운이 가득. 42년생 우유부단으로는 사태 해결 어렵다. 54년생 앞장서지 말고 조용히 뒤따라가라. 66년생 바늘 쥐고 바늘 찾는 사람 되지 마라. 78년생 컨디션 조절 각별히 신경 쓰도록. 90년생 상가(喪家)는 피하는 게 상책. 02년생 준마도 명장 만나야 천리마라 한다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	 31년생 뜻밖 제안은 즉시 응하라. 43년생 결정적 순간 위해 침묵하라. 55년생 가보지 않은 길 가게 될 수도. 67년생 닭도 홰에서 떨어지는 날 있다. 79년생 분수와 처지 벗어나는 행동은 절대 삼가도록. 91년생 기회 놓쳤다고 한탄만 할 것인가. 03년생 타인과의 활발한 교류에 이익 있다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	 32년생 겉모습 아닌 속마음 보는 거울 필요. 44년생 시간 따라 움직이지 말고 시간을 주도하라. 56년생 안 될 일 열심히 하면 추락 가속. 68년생 소통하지 않으면 고립될 수도. 80년생 외부 활동으로 이익 생길 듯. 92년생 긍정적인 생각 갖도록. 04년생 겸손하지 못한 권한은 위험천만.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	 33년생 소소한 일은 문제 삼지 마라. 45년생 삼수갑산 가더라도 임 따라 가랬다. 57년생 항해하지 않으면 풍파 만날 것도 없다. 69년생 이왕 시작한 것 유종의 미 거둬야. 81년생 구설 있다면 잘되고 있는 것. 93년생 시작할 때 마무리도 생각하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	 34년생 누굴 막론하고 무조건 친절하라. 46년생 사또보다 이방이 더 무섭다. 58년생 예상 적중하니 직감대로 추진하라. 70년생 칭찬 아끼지 말고 아랫사람 챙기도록. 82년생 진솔한 마음으로 상대 배려해야. 94년생 동서 양방에 반드시 기쁜 일이.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	 35년생 삼 년 먹여 기른 강아지 주인 발등 문다. 47년생 선무당이 장구만 나무란다. 59년생 머지않아 보상 따를 듯. 71년생 선택 기로에서 갈팡질팡 마라. 83년생 소나기는 피하고 보랬다. 95년생 좋은 충고는 항상 무시되기 마련.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘대통령실 합창 영상’ 풍자 가수 ‘백자’에 소환 통보</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/11/JO4PVW2GJJERTJTS3V7BLNHRDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/11/JO4PVW2GJJERTJTS3V7BLNHRDQ/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Jul 2024 08:27:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VKURLL2FJYRMFDKTKAZAUR67AI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 마포경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문화체육관광부 산하 KTV 국민방송이 대통령실 합창 영상을 풍자한 가수에 대해 고소장을 접수해 경찰이 수사에 착수했다.&lt;br&gt;&lt;br&gt;서울 마포경찰서는 가수 백자(본명 백재길)를 저작권법 위반 혐의로 수사 중이라고 11일 밝혔다. 또한 전날 해당 가수에 경찰에 출석해 조사받을 것을 통보했다고도 이날 밝혔다.&lt;br&gt;&lt;br&gt;그는 지난 2월 ‘사랑이 필요한 거죠’라는 노래 가사를 ‘특검’이나 ‘탄핵’으로 바꿔 부른 풍자 영상을 배포하는 과정에서 KTV의 공공저작물을 불법적으로 활용한 혐의를 받는다.&lt;br&gt;&lt;br&gt;앞서 KTV는 지난 2월 8일 설 명절을 맞아 윤석열 대통령과 대통령실 직원들이 변진섭의 ‘사랑이 필요한 거죠’를 합창하는 영상을 올렸다. 가수 백자는 이 영상의 일부를 가져와 ‘앞서가신 장모님과 뒤에서 따라 들어갈 마누라. 구속이 필요한 거죠’ ‘도이치모터스 주가조작, 디올백 받고서 입 닫을 때. 특검이 필요한 거죠’ ‘탄핵이 필요한 거죠’ 등의 내용의 가사로 바꿔 직접 노래를 부르고 자막도 넣었다.&lt;br&gt;&lt;br&gt;KTV는 이를 저작권 위반으로 판단, 지난 4월 고소장을 접수하며 “영상의 본래 의도와 달리 (가수 백자가) 조롱할 목적으로 영상을 왜곡했다”라고 고소 이유를 밝힌 것으로 알려졌다. 현재 해당 영상은 KTV의 요청으로 삭제된 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“요즘 기상청 예보 안맞는 이유”... 원주서 포착된 국지성 호우 비구름</title>
@@ -883,16 +890,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LVBXFF6XWBERVMIOWJYI3UXD6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 한 온라인 커뮤니티에는 '요새 기상청 예보 안 맞는다고 욕할 수 없는 이유'라는 제목으로 강원도 원주 국지성 호우가 내리는 모습을 찍은 사진 한 장이 올라왔다. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도 원주의 한 아파트 밀집지역에 소나기가 쏟아지는 사진 한 장이 국지성 호우의 실상을 보여줬다. 특정 지역에만 비가 쏟아지는 모습에 네티즌들은 ‘합성같다’는 반응까지 보였다.&lt;br&gt;&lt;br&gt;11일 한 온라인 커뮤니티에는 ‘요새 기상청 예보 안 맞는다고 욕할 수 없는 이유’라는 제목으로 강원도 원주에 국지성 호우가 내리는 모습을 찍은 것으로 추정되는 사진 한 장이 올라왔다. 사진에는 10일 원주종합운동장과 원주종합체육관 뒤편 아파트 밀집 지역에 국지성 호우를 퍼붓는 비구름대가 포착됐다. 원주시 전역의 하늘에 비구름이 넓게 펼쳐져 있는 가운데 아파트가 몰려있는 일부 지역에만 국지적으로 소나기가 쏟아지는 모습이 그대로 담겼다. &lt;br&gt;&lt;br&gt;원주 시민인 네티즌은 댓글로 “어제 저래서 비가 엄청 쏟아지다가 10분 지나니까 화창하더라” “어제 내가 있던 지역이다. 어쩐지 갑자기 비 엄청 내리고 바람도 엄청 불어서 매장 외부 현수막까지 찢어졌다”고 했다.&lt;br&gt;&lt;br&gt;국지성 호우는 지형적인 특징과 강우 전선 상의 문제 등으로 인하여 특정 지역에만 국한되어 집중적으로 내리는 비를 의미한다. 구름대 속에는 호우를 형성하는 작은 구름덩이인 ‘호우세포’가 있는데, 대형 비구름대 속에는 여러 개의 호우세포가 형성되어 습한 공기를 빨아들이면서 더욱 강해진다. 호우세포는 수명이 단 2~3시간에 불과하고 크기는 3~5km밖에 안 되어 국지성 호우를 일으키는 원인이 된다. 예보가 어렵다는 것도 국지성 호우의 특징 중 하나다.&lt;br&gt;&lt;br&gt;네티즌들은 “하늘에서 폭포가 떨어지는 것 같다” “바로 옆동네는 비가 하나도 안 오는데 딱 저 지역에만 비가 온 거냐? 진짜 신기하다” “외국 영상에서만 보던 걸 한국에서 겪다니” “요새 내리는 비 경향성을 보면 예측이 힘들겠구나 싶다. 진짜 동남아 스콜처럼 내린다” “그동안 기상 중계라고 놀린 게 죄송하네” 등의 반응을 보였다. “합성 같다”며 믿을 수 없다는 반응을 보이기도 했다.&lt;br&gt;&lt;br&gt;국지성 호우를 만난 경험을 공유하는 네티즌들도 많았다. “어제 야탑에서 비 쏟아지길래 버스 탔더니 3정거장 지나니까 거짓말처럼 비 잦아들면서 5정거장 지나니까 비가 아예 안 오더라” “예전에 신호등 기다리고 있는데 내가 있는 쪽엔 비 한방울도 안 내리는데 건너편에 소나기 내린 적도 있었음”이라고 했다.&lt;br&gt;&lt;br&gt;강원지방기상청 관계자는 조선닷컴과의 통화에서 “10일 원주 지역에 소나기가 강하게 내린 바 있다. 오후 5시 21분~오후 6시 20분까지 1시간 가량 원주 관측소 강수량이 30.1mm로 나타났다”고 했다. 장마전선에 의한 비는 아니었고, 대류가 불안정해지면서 비가 강하게 내린 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>집에서 대마 불법 재배한 30대 남성, 구속 기소</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/11/UVTPWSITEBA2VHBTFECDEHDB7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/11/UVTPWSITEBA2VHBTFECDEHDB7U/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Jul 2024 05:31:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XSNFPCSDA5CAXOTUCJLG6EDXTQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 24일 경찰이 A씨의 집에서 발견한 대마초 재배 현장. /송파경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본인의 집에서 대량의 대마초를 불법 재배한 남성이 11일 구속 기소됐다.&lt;br&gt;&lt;br&gt;서울동부지검 형사3부(부장 김지용)는 경기 남양주시 자택에서 대마초를 재배한 혐의(마약류관리법 위반)를 받는 30대 남성 A씨를 구속기소했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;앞서 서울 송파경찰서는 한 시민의 제보를 첩보를 받아 지난달 24일 오전 10시쯤 경기 남양주시의 한 빌라에서 대마초를 키우던 A씨를 현행범으로 체포하고, 대마초 101주(뿌리)를 압수한 바 있다. 이후 지난 2일 A씨를 동부지검에 구속 송치했다.&lt;br&gt;&lt;br&gt;대마초 재배는 섬유나 종자를 채취하기 위한 목적으로 지자체에 허가를 받은 경우를 제외하면 모두 마약류관리법 위반이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨의 빌라 안에는 약 1~2m의 대마초들이 빽빽하게 재배돼 있었다”고 밝혔다. 경찰에 따르면 A씨는 보일러를 통해 대마초를 키우기에 적절하게끔 온도와 습도를 조절하고, 빛 조절 장치 등 재배시설도 갖췄다고 한다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 현행범 체포한 다음 날 도주 우려를 이유로 구속영장을 신청했고, 지난달 26일 법원으로부터 구속영장을 발부 받았다. A씨는 경찰서 유치장에 있다가 현재 구치소로 이감됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “현재까지 공범은 없다고 보고 있지만, 대마초를 SNS 등을 통해 불법 유통했을 가능성을 열어두고 수사를 이어가는 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XSNFPCSDA5CAXOTUCJLG6EDXTQ.png?width=658&amp;height=419&amp;auth=0a0fd1bcb6d52394ccf91ee1891a7e76795d0da91c075becac7a560fb3834549&amp;smart=true" type="image/png" height="419" width="658"/>
-    </item>
-    <item>
       <title>[단독] 검찰, 쯔양 협박해 수천만원 뜯어낸 혐의 유튜버들 들여다본다</title>
       <link>https://www.chosun.com/national/court_law/2024/07/11/T5KUS5OHQRGZBKVOPCAXJMR4J4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/11/T5KUS5OHQRGZBKVOPCAXJMR4J4/</guid>
@@ -901,15 +898,6 @@
       <pubDate>Thu, 11 Jul 2024 07:56:34 +0000</pubDate>
       <content:encoded>검찰이 구독자 1020만명을 보유한 ‘먹방’ 유튜버 쯔양(본명 박정원)의 과거 이력을 폭로하겠다고 협박한 뒤 수천만원에 달하는 계약을 맺은 유튜버들의 혐의를 들여다보는 것으로 11일 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OOZ6CVJI5BHYBOC3NAW5HUI7WU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;/유튜브 캡처
 쯔양이 11일 자신의 유튜브 채널에서 남자친구로부터 그동안 협박받았던 일 등에 대해 이야기하고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 본지 취재를 종합하면, 서울중앙지검 형사3부(부장 최순호)는 쯔양을 협박하거나, 협박에 가담한 것으로 알려진 유튜버들에 대한 공갈 혐의 고발 사건을 배당 받았다. 유튜브 등을 통해 공개된 음성녹취에 언급되는 것처럼 쯔양으로부터 수억원을 뜯어낼 계획을 세웠는지, 수천만원에 달하는 계약의 체결 전후 사정 등을 폭넓게 들여다 볼 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 한 시민은 쯔양을 협박하거나 이에 가담한 의혹을 받는 유튜버 ‘구제역’ ‘전국진’ ‘카라큘라’ 등에 대해 수사해달라며 검찰에 고발장을 낸 것으로 알려진 바 있다.&lt;br&gt;&lt;br&gt;이 사건은 유튜브 ‘가로세로연구소’(가세연)을 통해 10일 공개됐다. 2023년 2월 유튜버들이 “이번 거는 터뜨리면 쯔양 은퇴해야 돼” “그냥 몇천 시원하게 당기는 게 낫지 않나?” “내가 봤을 때 이건 2억은 받아야 될 것 같은데 현찰로”라고 대화한 내용 등이 담겼다.&lt;br&gt;&lt;br&gt;쯔양은 가세연 방송이 나온 직후인 11일 새벽 ‘모두 말씀드리겠습니다’라는 제목의 라이브 방송을 했다. 쯔양은 해당 방송에서 대학 휴학 중 만나게 된 전 남자친구 A씨에 대해 “몰래 찍은 불법촬영 동영상을 유포하겠다고 협박했고, 우산 등의 둔기로 폭행하기도 했다”며 “자신이 일하던 술집으로 데려가 ‘앉아서 술만 따르면 된다’며 강제로 일을 하게 했다. 그때 번 돈도 A씨가 모두 빼앗아 갔다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SYAVWOCQJ5C2LL4WOXTOCC7YYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;왼쪽부터 김태연, 김기백 변호사. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이후 돈을 벌기 위해 유튜브 먹방을 시작한 쯔양은 “(방송을 시작한 후에도) 거의 매일 맞았다”며 “방송이 커져서 잘 되기 시작하자 A씨가 소속사를 만들었다”고 했다. 이어 “방송 시작한 지 5년이 됐는데, 그중 4년 동안 매일 같이 이런 일이 있었다”고 했다.&lt;br&gt;&lt;br&gt;쯔양 측 법률 대리를 맡은 김태연 변호사는 “쯔양은 정산금 청구, 전속계약 해지, 상표출원 이의 등을 포함해 상습폭행, 상습협박, 상습상해, 공갈, 강요, 성폭력처벌법 위반 등으로 (A씨에 대한) 형사 고소를 진행했다”고 했다. 김 변호사는 “혐의 사실이 많았기에 징역 5년 이상의 처벌을 예상하는 상황이었다”며 “다만 이후 A씨는 안타깝게도 극단적 선택에 이르렀고, 결국 ‘공소권 없음’이라는 불송치 결정으로 형사 사건은 종결됐다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“원금 보장에  18% 수익” 속여 투자금 가로챈 40대, 징역 7년</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/11/2F2LEEK2CJBLFDJJUHK3MA5T3A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/11/2F2LEEK2CJBLFDJJUHK3MA5T3A/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Jul 2024 06:34:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IBHFNJMPTBCKRE2HZOPH7DOVPQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;인천지법 청사 전경. /인천지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주식투자 전문가 행세를 하며 교회 지인 등을 상대로 660억 원대 투자금을 모아 일부를 가로챈 40대 남성에게 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;인천지법 형사15부(재판장 류호중)는 11일 특정경제범죄가중처벌법상 사기와 유사 수신행위 규제에 관한 법률 위반 등 혐의로 구속기소 된 A(43)씨에 대한 선고공판에서 징역 7년을 선고했다. A씨와 함께 재판에 넘겨진 A씨의 회사 법인에 대해선 벌금 2000만 원을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “(피고인이)공소사실을 인정하고 있고 제출된 증거에 비춰 보면 유죄로 인정된다”고 했다. 이어 “5년이 넘는 기간 14명으로부터 55억 원을 투자금 명목으로 받아 가로챘다”며 “교회 등 지역사회에서 얻은 신뢰관계를 이용해 주식투자 전문가 행세를 하며 안정적으로 고액의 수익을 올릴 수 있는 것처럼 속였다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 또 “피고인은 법인을 세워 체계적으로 더 많은 피해자들 현혹할 수 있도록 범행을 이어 나갔다”며 “범행 과정에서 일부 편취한 금액을 반환하긴 했지만 ‘돌려막기’ 방식으로 해 완전한 피해회복 노력으로 인정하긴 어렵고, 피해자들도 피고인의 엄벌을 탄원하고 있다”고 했다.&lt;br&gt;&lt;br&gt;다만 “범행을 인정하고 반성하는 점, 2018년 벌금형을 받은 것 외에 형사처벌 전력이 없는 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;검찰은 앞서 지난 6월 결심 공판에서 A씨에게 징역 15년을, A씨 법인엔 벌금 5000만 원을 각각 구형했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2016년부터 지난해까지 인천시 계양구의 한 교회 지인 등 425명으로부터 불법으로 668억 원을 모아 주식 투자를 한 혐의로 기소됐다. A씨는 이들 중 14명으로부터 받은 투자금 약 55억 원은 돌려주지 않고 가로챈 혐의도 받았다.&lt;br&gt;&lt;br&gt;A씨는 “원금은 물론, 연 최소 18%의 수익금을 돌려주겠다”며 피해자들을 속이고, 돌려막기 방식으로 장기간 범행한 것으로 조사됐다. 피해자 대부분은 자신이 권사로 활동하던 교회의 신도와 지인 등으로 파악됐으며, 유명 중견 배우도 포함된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“2억은 받아야”...쯔양 고백 뒤엔 ‘렉카 유튜버’ 폭로 협박 있었다</title>
