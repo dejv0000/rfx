@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>김동연 채상병 1주기 앞두고 대전현충원 묘역 참배</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2024/07/13/F3I54LD5V5BZPMOJDD5JF3AHVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2024/07/13/F3I54LD5V5BZPMOJDD5JF3AHVQ/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Jul 2024 06:16:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VLRYFTICC5O2JBHSNHM327XYLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동연 경기도지사는 13일 대전국립현충원을 찾아 집중호우 실종자를 수색하다 순직한 해병대 채 모 상병 등의 묘역을 참배했다./연합뉴스
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김동연 경기도지사는 13일 대전 장동 대전국립현충원을 찾아 집중호우 실종자 수색 중 순직한 해병대 채 모 상병 등의 묘역을 참배했다.&lt;br&gt;&lt;br&gt;김 지사는 전날 전남 신안군 하의도 김대중 전 대통령 생가와 경기도농업기술원의 상생협약 사업지인 퍼플섬을 방문한 뒤 이날 경기도로 돌아오며 대전현충원을 들렀다. 김 지사는 채 상병 묘역 앞에 무릎을 꿇고 채 해병대 동기들의 추모글을 읽으며 고인을 애도했다.&lt;br&gt;&lt;br&gt;그는 채 상병 묘역 외에 연평도 포격도발 희생자 묘역, 천안함 46용사 묘역, 천안함 피격 실종자 수색 도중 순직한 한주호 준위 묘역 등도 참배했다. 김 지사는 이날 대전현충원 방명록에 “숭고한 헌신과 희생을 받드는 길, 정의롭고 공정한 대한민국 만들기에 매진하겠습니다”라고 썼다.&lt;br&gt;&lt;br&gt;경기도 관계자는 “김 지사가 채 상병 순직 1주기(7월 19일)를 앞두고 채 상병 묘역과 함께 천안함 46용사 등 순직 장병들의 묘역을 참배했다”고 말했다.&lt;br&gt;&lt;br&gt;김 지사는 대전현충원 참배 후 자신의 SNS에 “채상병 순직 1주기가 다가오지만 밝혀진 것이 없고, 누구 하나 사과하고 책임지는 사람도 없다”며 “반드시 진상을 밝히고 다시는 이런 일이 일어나지 않는 안전한 사회를 만들겠다고 스무살, 젊은 해병의 묘소 앞에서 굳게 다짐했다”는 글을 올렸다.&lt;br&gt;&lt;br&gt;앞서 김 지사는 지난 9일 윤석열 대통령이 ‘채상병 특검법’에 재의요구권(거부권)을 행사하자 “본인이 결자해지할 기회를 걷어차 버렸다. 경제도 민생도 국정도 모두 걷어차 버렸다”며 “열흘 후면 채상병 1주기이다. 이제 국회가 응답해 달라”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2살 손녀와 탄 SUV 신차 ‘시속 165km’ 급발진 의심...국과수 “차량 결함 발견 못 해”</title>
+      <link>https://www.chosun.com/national/2024/07/13/RJX2P65LYVHFXJTQ3UE32ABLNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/07/13/RJX2P65LYVHFXJTQ3UE32ABLNE/</guid>
+      <dc:creator>주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Jul 2024 06:20:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7OTRFDA3CBKFPCKGA6RKDBQ44Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4월 두 살배기 손녀를 태우고 출고된 지 한 달도 안 된 신차를 몰다 전복 사고를 낸 60대 운전자의 '급발진 사고' 주장이 국립과학수사연구원(국과수)에서 받아들여지지 않았다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 4월 두 살배기 손녀를 태우고 출고된 지 한 달도 안 된 SUV를 몰다 전복 사고를 낸 60대 운전자가 ‘급발진 사고’라고 주장했지만, 국립과학수사연구원(국과수)은 “차량에서 별다른 결함을 발견하지 못했다”는 정밀 검사를 발표했다. 경찰은 이러한 감정 결과에 따라 60대 운전자 A씨의 급발진 주장은 신빙성이 낮은 것으로 보고, 운전자 과실 여부 등을 추가로 조사할 계획이다.&lt;br&gt;&lt;br&gt;13일 경남 함안경찰서에 따르면 이 사고는 지난 4월 17일 오후 1시 10분 함안군 칠원읍 한 교차로에서 A씨가 몰던 투싼 SUV가 앞에 있던 승용차를 추돌하면서 발생했다. 이후 이 SUV는 약 1.3㎞를 질주하다 칠서나들목(IC) 인근 지방도 교통 표지판을 충격한 뒤 주변 논에 전복됐다.&lt;br&gt;&lt;br&gt;국과수 감정 결과 교통표지판과 충돌하던 당시 이 SUV 속도는 시속 약 165㎞로 파악됐다. 이 사고로 A씨는 갈비뼈가 골절됐고, 함께 차에 타고 있던 손녀(2)도 다쳤으나 생명에 지장은 없었다. 최초 추돌 사고와 교통 표지판 충격 여파로 인근 차량 6대가 일부 파손됐다. 전복된 SUV는 당시 출고 한 달이 채 안 된 신차로, 사고 후 완전히 부서졌다. A씨는 “당시 브레이크 페달을 밟았으나 작동하지 않았다”는 취지로 경찰에 진술하며 차량 급발진 사고라고 주장한 바 있다.&lt;br&gt;&lt;br&gt;하지만 최근 국과수는 전복 사고가 난 차량에서 별다른 결함을 발견하지 못했다는 내용의 정밀 감정 결과를 보내왔다고 한다. 국과수는 EDR(사고기록장치)과 블랙박스 등 전복 차량 전체를 분석한 결과 운전자가 제동장치를 조작한 이력은 없으며 사고 직전 가속 페달을 작동했을 가능성이 있다고 추정했다.&lt;br&gt;&lt;br&gt;국과수는 또 사고 현장 인근 방범용 폐쇄회로(CC)TV에도 사고 차량 제동 등에 불이 들어오지 않은 것으로 파악해 급발진 가능성은 적다고 봤다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/7OTRFDA3CBKFPCKGA6RKDBQ44Y.jpg?width=1424&amp;height=1068&amp;auth=25da7b25f267f600f1719405322a4ec5ac6d86dc069f743794eee6492b3878ad&amp;smart=true" type="image/jpeg" height="1068" width="1424">
+        <media:description type="plain">&lt;YONHAP PHOTO-2360&gt; 함안서 SUV 신차 1.3㎞ 질주 후 전복, 60대 운전자 급발진 주장
+
+    (함안=연합뉴스) 정종호 기자 = 지난 4월 두 살배기 손녀를 태우고 출고된 지 한 달도 안 된 신차를 몰다 전복 사고를 낸 60대 운전자의 '급발진 사고' 주장이 국립과학수사연구원(국과수)에서 받아들여지지 않았다.
+    13일 경남 함안경찰서에 따르면 최근 국과수는 전복 사고가 난 차량에서 별다른 결함을 발견하지 못했다는 내용의 정밀 감정 결과를 보내왔다. 2024.7.13 [독자 제공. 재판매 및 DB 금지]/2024-07-13 14:36:23/Media Only
+&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">정종호</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>대구 금호강서 60대 추정 시신 발견</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/07/13/LDTTUJXD7VHPZMAMWPX65PA5CM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/07/13/LDTTUJXD7VHPZMAMWPX65PA5CM/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Jul 2024 06:00:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JM6WAGR23M5V45G2OL7DUILUIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;집중호우가 쏟아진 지난 10일 물이 불어난 대구 동구 금호강 주변이 흙탕물로 변해 있다.(기사와 직접 관련 없음)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 오전 8시 20분쯤 대구시 동구 금강동 금강잠수교 인근 금호강에서 60대로 추정되는 남성의 시신이 발견됐다.&lt;br&gt;&lt;br&gt;금강잠수교 인근을 지나던 시민이 강에 있는 시신을 발견, 119에 신고했다. 신고를 받고 출동, 시신을 건져 올린 소방당국은 “시신은 부패가 상당히 진행된 상태였다”고 말했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “경산 쪽에서 흘러 내려온 것 같다”며 “현재까지는 호우 관련 피해도 아니고 범죄 연관성도 없는 것으로 파악됐다”고 말했다. 경찰은 이 60대 남성의 신원을 확인하는 한편 정확한 사망 원인을 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주서 차량 4대 충돌 무면허 뺑소니 40대 구속돼</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/07/13/CITO2NY7HNGYBJTJDBRR2YG7DU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/07/13/CITO2NY7HNGYBJTJDBRR2YG7DU/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Jul 2024 05:36:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TY73CFXQDFLFDKTACBBQQEPLNU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 오후 6시40분쯤 제주 성판악 탐방안내소 인근 5·16 도로에서 소나타 차량이 버스 등과 충돌했다. 이 소나타 차량은 여러 대의 차량을 들이받은 뒤 달아났다.(제주소방안전본부 제공)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무면허 운전을 하다 차량 4대를 잇따라 들이받고 사람들을 다치게 해놓고 달아난 40대가 결국 구속됐다.&lt;br&gt;&lt;br&gt;제주동부경찰서는 특정범죄가중처벌법상 도주치상과 도로교통법(사고 후 미조치), 자동차손해배상 보장법 위반 등 혐의로 40대 남성 A씨를 13일 구속했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 10일 오후 6시 39분쯤 한라산 성판악 탐방안내소 인근 5·16 도로에서 서귀포 방면으로 쏘나타 승용차량을 몰다 중앙선을 침범해 승용차 3대를 잇달아 들이받았다. 사고 후 잠시 멈췄던 A씨는 부서진 차를 몰고 달아나다가 중앙선을 침범, 반대편 차선의 간선버스와 충돌했다.&lt;br&gt;&lt;br&gt;이 사고로 버스 승객 등 3명이 다쳐 인근 병원으로 옮겨졌고 이 도로와 그 주변에 한때 극심한 차량 정체가 빚어졌다. 버스와 충돌한 뒤 차에서 내린 A씨는 사고로인해 어수선한 상황을 틈타 경찰과 소방 당국이 출동하기 전 차량을 놔둔 채 인근 수풀 속으로 달아났다.&lt;br&gt;&lt;br&gt;A씨는 그 다음 날인 11일 오전 8시 20분쯤 사고 현장에서 약 13㎞ 떨어진 제주시 양지공원 인근 도로에서 경찰에 긴급 체포됐다. 경찰은 “사고 당시 A씨 차량 뒤에 있던 차량의 운전자가 이날 출근하다 한라생태숲에서 제주시 방면 도로를 걷고 있던 A씨를 발견, 신고를 해와 검거했다”고 말했다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 무면허로 지인 차를 몰다 사고를 냈고 당시 음주 상태는 아니었던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>옆방 투숙객이 마스터키로 문 벌컥… 호텔 측은 ‘나몰라라’</title>
       <link>https://www.chosun.com/national/national_general/2024/07/13/TDPBSZBIDVD5ZA6VTAQZXOKXIU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/13/TDPBSZBIDVD5ZA6VTAQZXOKXIU/</guid>
@@ -902,24 +947,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XGJOPSAARVHHVCXZW7QIOZB4QI.png"&gt;&lt;figcaption&gt;&lt;small&gt;입주민이 엘리베이터에 남긴 메모./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신을 무속인이라고 밝힌 한 익명의 입주민이 건물 엘리베이터에 붙인 경고문을 두고 논란이 일고 있다. &lt;br&gt;&lt;br&gt;11일 한 온라인 커뮤니티에는 ‘엘베(엘리베이터)까지 진출한 무당 아저씨’라는 제목의 글과 사진 한 장이 올라왔다. 사진 속 메모에는 “현직 무당입니다. 실외기에서 담배 피우는 분, 살 넣기 전에 그만 하세요”라고 적혀 있었다. 살은 무속 전통에서 사람이나 재물 따위를 해치는 모진 기운을 통칭하는 말이다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “흡연 중독자들은 무당이 아니라도 이미 불특정의 많은 사람들에게 ‘살’(원망)을 받고 있을 것이다” “오죽했으면 그럴까” “저렇게 담배 막 피우는 사람들은 본인이 피해 입기 전까지 절대 안 고친다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;흡연은 여름철 에어컨 실외기 화재의 주요 원인 중 하나로 꼽힌다.  보통 실외기는 건물 외부 협소한 장소에 설치하기 때문에 불길이 건물 전체로 크게 번질 위험이 있다.&lt;br&gt;&lt;br&gt;소방청 자료에 따르면 작년 기준 지난 5년간 아파트 화재는 총 1만 4112건 발생했다. 이중 여름철(6∼8월) 화재가 4018건으로 28.5%를 차지해 3555건(25.2%)인 겨울철(12∼2월)보다 많았다. 소방청은 “여름철에는 에어컨 등 전기용품 때문에 화재가 자주 발생한 것으로 보인다”며 “실외기 주변에 가연물을 놔두지 않고, 이물질이 발화 물질로 작용하지 않도록 청소하는 등 주기적으로 관리해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“개X야 너만 좋은 거 보냐”…홍석천, 다짜고짜 욕설한 악플러에 보인 반응</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/12/HVX22TXZRRBM3NFS2MFYPYCELU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/12/HVX22TXZRRBM3NFS2MFYPYCELU/</guid>
-      <dc:creator>김가연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 02:40:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PNKP4D7WKRG267M2PSYPDULJPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 홍석천, 그가 공개한 네티즌의 욕설 메시지. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 홍석천이 한 네티즌으로부터 받은 욕설을 공개하고 법적 대응을 예고했다.&lt;br&gt;&lt;br&gt;홍석천은 11일 자신의 인스타그램을 통해 한 네티즌과 나눈 DM(다이렉트 메시지) 대화 내용 캡처본을 공유했다.&lt;br&gt;&lt;br&gt;사진을 보면, 이 네티즌은 다짜고짜 홍석천에게 “야 이 개X아. 너만 좋은 거 보면 다냐”라는 메시지를 보냈다.&lt;br&gt;&lt;br&gt;이에 홍석천은 “고소하겠다. 변호사가 이런 거 고소감이라고 하던데 기다려라”라고 답했다.&lt;br&gt;&lt;br&gt;그러자 이 네티즌은 “죄송합니다. ‘보석함’ 형만 좋은 거 보는 것 같아서 그랬어요”라고 사과하더니, 갑자기 태도를 바꿔 “근데 뭘로 고소하나. 고소해라. 무고죄로 역으로 날려버릴 테니까”라고 했다.&lt;br&gt;&lt;br&gt;이 네티즌이 말한 ‘보석함’은 홍석천이 운영하는 유튜브 채널 ‘홍석천의 보석함’을 가리킨다. 네티즌들 사이에서 수년 간 홍석천이 모델, 배우, 가수 가리지 않고 매력적인 ‘원석’을 잘 알아본다는 반응이 나온 데 따라 생성된 채널이다. 홍석천이 자신이 볼 때 매력적인 남성 연예인들을 초대해 대화를 나누는 콘텐츠가 게재된다.&lt;br&gt;&lt;br&gt;이 사진을 올리면서 홍석천은 “보석함 보면서 이런 느낌이냐”라며 “이런 악플 오랜만이다”라고 적었다.&lt;br&gt;&lt;br&gt;홍석천이 이 같은 상황을 공식적으로 알린 만큼 예고대로 고소를 진행할 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>용인시의회 민주당 의장 후보 선출 과정서 ‘금품 포섭’ 의혹...경찰 수사</title>
-      <link>https://www.chosun.com/national/regional/2024/07/11/VM2W4S73CRESBLVP5GEHN7WGNM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/11/VM2W4S73CRESBLVP5GEHN7WGNM/</guid>
-      <dc:creator>수원=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Jul 2024 00:53:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/43ANZCM5WBEL7GAXXNEAUMTLAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제9대 후반기 원 구성을 마친 용인시의회 의장단, 상임위원장 등이 2일 현충탑을 찾아 헌화와 분향을 하고 있다. /용인시의회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 용인시의회 다수당인 더불어민주당이 의장 후보 내정을 위한 당내 경선 과정에서 의원들 사이에 명품 선물이 오갔다는 의혹이 제기돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;11일 경기 용인서부경찰서에 따르면 전날인 10일 뇌물공여 혐의를 받는 용인시의회 민주당 소속 A·B 의원의 자택과 사무실에 대한 압수수색을 진행했다.&lt;br&gt;&lt;br&gt;이들은 지난달 27일 실시된 민주당의 의장 후보 당내 경선을 앞두고 같은 당 소속 C 의원에게 지지를 호소하며 선물을 제공한 혐의를 받고 있다. 당시 전달된 선물 박스에는 외국 명품 기업의 로고가 있었으며, C의원은 열어보지 않고 돌려보낸 것으로 전해졌다.&lt;br&gt;&lt;br&gt;용인 지역 정가에 따르면 3선인 A의원은 민주당 의장 후보 경선에 출마하면서 B의원을 통해 동료 의원에게 로비를 했으며, C의원 뿐 아니라 더 많은 의원에게 선물을 전달했다는 의혹도 제기되고 있다. A의원은 당내 경선에서 8표를 득표, 9표를 얻은 유진선(3선) 의원에 한 표 차이로 밀려 의장 후보가 되지 못했다.&lt;br&gt;&lt;br&gt;용인시의회는 이달 1일 제9대 의회 후반기 의장에 유 의원을 선출했다. 유 의원은 무기명 투표에서 26표를 얻어 당선됐다. 용인시의회는 현원 31석에 민주당이 17석, 국민의힘이 14석을 보유하고 있다.&lt;br&gt;&lt;br&gt;경찰은 선물을 전달받고 반환한 C의원에 대한 참고인 조사를 마쳤으며, 압수물 분석을 마치는대로 A·B 의원 등에 대한 소환조사를 이어갈 방침이다.&lt;br&gt;&lt;br&gt;한편 금품 수수 파동과 관련해 민주당 경기도당은 11일 직권조사에 들어갔다. 경기도당은 “조사 결과 민주 질서를 위배하고 금품이 오간 것이 사실로 밝혀진다면 수사 결과와 상관없이 가장 강력한 응당의 책임을 묻겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>'조카 살인 사건' 유족, 이재명 상대 손배소 최종 패소</title>
       <link>https://www.chosun.com/national/court_law/2024/07/12/LSH7XYDQ75EI5GU22M2WHX227I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/12/LSH7XYDQ75EI5GU22M2WHX227I/</guid>
@@ -929,15 +956,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JNYMJLGOT3YVPSF53KOGXYTOWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 전 대표가 지난 10일 서울 여의도 당사에서 8·18 전당대회 당 대표 출마를 선언한 뒤 취재진 질문에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 전 대표 조카의 ‘모녀 살인’ 사건 유족이 이 전 대표를 상대로 낸 1억원대 손해배상 청구 소송에서 최종 패소했다.&lt;br&gt;&lt;br&gt;이 사건은 이 전 대표가 2021년 11월 SNS에 자신이 변론했던 조카의 살인 사건을 ‘데이트 폭력 중범죄’라고 지칭한 것이 발단이다. 이 전 대표는 “제 일가 중 일인(한 명)이 과거 데이트 폭력 중범죄를 저질렀는데 그 가족이 변호사를 선임할 형편이 못 돼 제가 변론을 맡을 수밖에 없었다”고 적었다.&lt;br&gt;&lt;br&gt;이 전 대표의 조카 김모씨는 지난 2006년 5월 만나던 여성이 헤어지자고 하자 서울 강동구에 있는 집에 찾아가 미리 준비한 흉기로 상대방과 모친을 살해했다. 이 전 대표는 당시 김씨의 형사 재판 1·2심 변호를 맡았다. 이 사건이 지난 대선 국면에서 다시 불거지자, 이 전 대표가 ‘데이트 폭력’이라면서 해명한 것이다.&lt;br&gt;&lt;br&gt;이에 피해자 유족들은 “살인 범행을 데이트 폭력이라고 지칭해 정신적 고통을 받았다”며 1억원을 청구하는 손해배상 소송을 냈다. 이 전 대표는 유족의 주장을 부인했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C2QSTO56EZBOJJQON3FNLSS6WU.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 2월 이재명 당시 더불어민주당 대선 후보가 '조카 살인 사건 손해배상 소송' 1심 법원에 제출한 답변서 일부./이병철 변호사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 1심 법원은 “데이트 폭력이라는 용어는 가해자와 피해자의 관계 특성을 근거로 해 범죄유형을 구분하는 용어”라며 “게시글의 전체 내용과 취지를 비춰 보면 조카 범행으로 인한 피해를 축소, 왜곡해 허위 사실을 적시했다고 보기 어렵다”며 기각했다.&lt;br&gt;&lt;br&gt;2심은 같은 판단을 내렸고, 대법원 2부(주심 신숙희 대법관)도 11일 심리불속행으로 상고를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[단독] “국군과 싸우다 숨진 빨치산, 민간인 학살 피해자로 둔갑”</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/12/O5LRG3ERQFANPIS5BPUOVTFHUY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/12/O5LRG3ERQFANPIS5BPUOVTFHUY/</guid>
-      <dc:creator>서보범 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Jul 2024 20:04:00 +0000</pubDate>
-      <content:encoded>1기 진실·화해를 위한 과거사정리위원회(진실화해위·2005~2010)가 6·25전쟁 전후 우리 국군과 교전하다 죽은 빨치산(조선인민유격대) 대원 등 적대 세력이 ‘민간인 학살 피해자’라는 결정을 내린 것으로 11일 나타났다. 조선노동당 산하에서 활동한 조선인민유격대는 흔히 빨치산으로 불리는데, 노동당 지시를 받아 소백·태백산맥, 지리산 등지에서 무장 활동을 하며 대한민국 후방 교란, 민간인 학살 등을 자행했다.&lt;br&gt;&lt;br&gt;1기 진실화해위는 2008~2009년 빨치산 등 적대 세력 소속 인물 최소 8명에 대해 ‘민간인 학살 피해자’라고 판단한 것으로 나타났다. 이 중엔 대한민국 국군과 교전 중 사망한 빨치산 대원 2명도 포함됐다. 진실화해위의 활동 근거인 과거사정리기본법은 6·25 전후 불법적으로 벌어진 민간인 집단 사망·상해·실종 사건을 진실 규명 대상으로 규정한다. 그런데 전투 중 상대방을 죽이는 행위는 적법 행위로 간주, 이때 사망한 전투원은 민간인으로 분류하지 않는다. 빨치산은 북한 소속 군인으로 간주하는데, 이들을 ‘민간인’으로 판단한 것이 적합했느냐는 지적이 제기된다.&lt;br&gt;&lt;br&gt;2009년 12월 발간한 1기 진실화해위 보고서를 보면, 전남 영광 불갑산에서 빨치산 대원으로 활동하며 1949년 2월 국군과 전투 중 사망한 정모(24)씨를 민간인 학살 피해자로 판단했다. “불갑산에서 좌익 활동을 하던 중 밤에 내려왔다가 경찰에 연행돼 총살당했다”는 참고인 진술이 인정됐다. 역시 빨치산 대원으로 활동하면서 1951년 2월 우리 군과 교전하다가 죽은 김모(26)씨 역시 ‘민간인 피해자’로 인정됐다. 빨치산 활동 사실은 보고서에 포함되지 않았고 “피난을 가던 중 토벌 작전 후 국군 총격으로 행방불명됐다”는 진술이 근거가 됐다.&lt;br&gt;&lt;br&gt;이 밖에 대한민국 정부의 경찰서를 습격하고 빨치산 치하 분주소장(파출소장)을 지낸 정모(24)씨도 우리 군경 민간인 학살의 피해자로 판단됐다. 자살로 사망한 빨치산 대원 정모(27)씨가 경찰에게 총살당했다고 판단하기도 했다. 경찰에 자수하러 갔다가 총격으로 사망했다는 참고인 진술이 근거다.&lt;br&gt;&lt;br&gt;이들의 빨치산 행적은 ‘전남 로동신문’ 주필을 지낸 고 정관호씨의 ‘전남유격투쟁사’(2008)에 기술돼 있다. 이 책은 6·25 전후 빨치산의 활동 내용, 인명록 등을 망라한 사료(史料)로 꼽힌다. 진보 진영의 저명 학자 한홍구 교수가 “빨치산 투쟁사에 대한 제대로 된 역사서가 아직 없다. 이런 모든 어려움을 뚫고 나온 역사서”라고 평가할 정도다. 하지만 이 책이 출간된 뒤에도 진실화해위는 사료 교차 검증을 하지 않고 유족 등 참고인 진술에만 의존, 빨치산이 ‘민간인 학살 피해자’로 둔갑했다는 지적이 나온다.&lt;br&gt;&lt;br&gt;진실화해위의 검증 논란은 이번이 처음이 아니다. 1950년 전북 고창 일대에서 11사단이 민간인 273명을 집단 학살했다고 2008년 판단했으나, 가해 주체엔 빨치산도 포함돼 있는 것 아니냐는 지적이 나왔다. ‘국군에게 총살됐다고 들었다’는 진술이 ‘사실은 빨치산이 총살했다’는 식으로 번복됐다는 것이다. 2009년 국방부는 이 결정에 이의 제기를 했고, 이후 진실화해위는 오류를 인정했다.&lt;br&gt;&lt;br&gt;유호열 고려대 북한학과 명예교수는 “피아(彼我) 식별이 명확하지 않았던 대혼란기가 조사 대상인 만큼, 객관적이고 균형 잡힌 시각으로 접근해야 한다”고 했다. 김광동 진실화해위원장 역시 “우리 군경에 의한 억울한 희생을 반드시 가려내야 한다”면서도 “진술뿐 아니라 정확한 기록에 근거해 구체적으로 상황을 검증해야 한다”고 했다. 일각에선 “빨치산 신분이었음에도 국군과 직접 교전 중 사망한 경우가 아니라면 민간인으로 인정해야 한다”는 주장도 나온다. 그러나 대한민국 국가 전복을 목표로 한 빨치산 소속 인물을 민간인으로 보기 어렵다는 반론도 만만치 않다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞빨치산&lt;/b&gt;&lt;br&gt;&lt;br&gt;정식 명칭은 조선인민유격대. 1946~1955년 태백·소백산맥, 지리산 일대에서 국가 전복을 목적으로 게릴라전을 수행한 조선노동당 산하 무장 테러 조직. 빨치산은 러시아어 ‘파르티잔(비정규 저항군)’이 변형된 말이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞과거사정리기본법&lt;/b&gt;&lt;br&gt;&lt;br&gt;진실·화해를위한과거사정리위원회의 존립 근거. 일제강점기부터 권위주의 통치 때까지 대한민국에 적대적인 세력이나 대한민국 정부의 부당한 공권력 행사로 희생된 사람들의 진실을 규명하는 것을 목표로 한다. 그러나 대한민국 국군과 북한군의 교전 중 사망한 적군은 ‘민간인’이 아니라고 보므로 진실 규명에 포함하지 않는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>내년 최저임금 1만원 넘었다… 1만30원으로 결정</title>
       <link>https://www.chosun.com/national/labor/2024/07/12/ASUPE4KCXBHIPPV6EFVNMEDSSM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/07/12/ASUPE4KCXBHIPPV6EFVNMEDSSM/</guid>
@@ -945,15 +963,6 @@
       <description/>
       <pubDate>Thu, 11 Jul 2024 17:43:23 +0000</pubDate>
       <content:encoded>내년 최저임금이 올해(9860원)보다 1.7% 오른 시간당 1만30원으로 결정됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7BAOHLMS5MN3D5JLBYLPXCPOU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;12일 세종시 정부세종청사 최저임금위원회에서 열린 제11차 전원회의에서 내년 최저임금이 1만30원으로 의결됐다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 최저임금위원회는 11차 전체 회의에서 표결 결과 내년 최저임금이 시간당 1만30원으로 결정됐다고 밝혔다. 근로자위원이 제시한 1만120원(전년 대비 2.6% 인상)과 사용자위원이 제시한 1만30원(전년 대비 1.7% 인상) 두 가지 안 중 근로자위원안이 9표, 사용자위원안이 14표를 받아 사용자위원안으로 의결됐다. 최저임금위원회는 근로자·사용자·공익위원 각 9명으로 이뤄지나, 투표 과정에서 민주노총 측 근로자위원 4명이 공익위원이 제시한 심의 촉진구간에 반발하며 투표에 불참하면서 23명만 참여했다.&lt;br&gt;&lt;br&gt;최저임금이 1만원대를 기록하는 것은 1988년 최저임금 제도 도입 이후 37년 만이다.&lt;br&gt;&lt;br&gt;최저임금은 근로자 1명 이상 모든 사업장에 대해 근로기준법상 정규직·비정규직과 파트타임·아르바이트, 청소년 근로자, 외국인 근로자 등에게 모두 적용된다. 최저임금은 매년 근로자·사용자·공익위원 9명씩 27명으로 구성된 법정 심의기구인 최저임금위원회에서 심의·의결한다. 노사 양측이 최초 제시안을 낸 뒤 양측이 서로 격차를 좁히는 방식으로 진행된다.&lt;br&gt;&lt;br&gt;지난 9일 최초 요구안으로 근로자위원 측은 1만2600원(27.8% 인상)을, 사용자위원 측은 동결을 제시했다.&lt;br&gt;&lt;br&gt;이후 양측은 네 차례 수정안을 내며 간극을 좁혀 왔다.&lt;br&gt;&lt;br&gt;12일 오전 1시쯤 공익위원 측이 심의촉진구간으로 1만~1만290원을 제시했고, 이 구간 내에서 양측이 5차 수정안을 내 표결을 진행했다.&lt;br&gt;&lt;br&gt;표결에서 사용자위원이 제시한 시간급 1만30원이 의결되면서 내년 최저임금이 결정됐다. 최저임금은 지난 정부 초기인 2018년 16.4%, 2019년 10.9%로 2년 연속 10% 이상 올랐고, 이어 2020년 2.87%, 2021년 1.5%, 2022년 5.05%, 2023년 5%, 2024년 2.5%가 올랐다.&lt;br&gt;&lt;br&gt;내년 최저임금 인상률 1.7%는 지난 2021년 1.5%에 이어 역대 두 번째로 작다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>용인판 ‘디올백’ 의혹...시의회 의장 민주 후보, 선물 주며 “뽑아달라”</title>
-      <link>https://www.chosun.com/national/regional/2024/07/11/BLCWNU3COZCTPNM4XPAO6F27EU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/11/BLCWNU3COZCTPNM4XPAO6F27EU/</guid>
-      <dc:creator>용인=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Jul 2024 12:00:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/43ANZCM5WBEL7GAXXNEAUMTLAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제9대 후반기 원 구성을 마친 용인시의회 의장단, 상임위원장 등이 2일 현충탑을 찾아 헌화와 분향을 하고 있다. /용인시의회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;경기도 용인 시의회 민주당의 의장 후보 경선 과정에 명품 선물 로비가 있었다는 의혹이 제기돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;11일 용인서부경찰서에 따르면, 경찰은 지난 10일 용인 시의회 민주당 소속 A 시의원과 B 시의원의 자택과 사무실을 압수 수색했다. 이들은 지난달 민주당 의장 후보 경선을 앞두고 “A 시의원을 뽑아 달라”며 같은 당 C 시의원에게 명품 선물을 준 혐의를 받고 있다. A 의원이 B 의원을 통해 C 의원에게 명품인 ‘디올(Dior)’ 쇼핑백을 전달한 것으로 파악되고 있다.&lt;br&gt;&lt;br&gt;쇼핑백에 명품 가방이나 화장품이 들어 있었을 것이라는 의혹이 제기됐으나 C 시의원은 “내용물은 확인하지 않고 바로 돌려보냈다”고 경찰에서 진술했다고 한다.&lt;br&gt;&lt;br&gt;이런 의혹은 C 시의원이 이 사실을 경찰에 제보하면서 알려졌다. 이와 관련해 A 시의원이 다른 의원에게도 금품 로비를 했다는 의혹도 나오고 있다.&lt;br&gt;&lt;br&gt;지난달 27일 당내 경선에서 A 시의원은 8표를 얻어 9표를 얻은 유진선 시의원에게 한 표 차로 밀렸다. 유 시의원은 지난 1일 의장에 최종 선출됐다. 용인 시의회는 민주당이 17석, 국민의힘이 14석으로 민주당이 다수당이다.&lt;br&gt;&lt;br&gt;경찰은 압수물 분석을 마치는 대로 A 시의원과 B 시의원을 소환 조사할 계획이다. 명품 로비 의혹이 일자 민주당 경기도당도 이날 직권 조사에 들어갔다. 민주당 경기도당은 “금품이 오간 사실이 밝혀지면 수사 결과와 상관없이 가장 강력한 책임을 묻겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;용인 시의회 의장은 시의원 연봉(의정 활동비) 5600만원 외에 업무 추진비 4400만원을 &lt;b&gt;쓸 수 있다. &lt;/b&gt;각종 행사에서 시장 못지않은 예우와 의전을 누린다. 카니발 차량과 운전 기사, 비서 4명이 배정되며 시의회 직원 80여 명의 인사권도 갖고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>의대 본과 4학년 96%가 “국시 거부”... 내년 의사 배출 비상</title>
