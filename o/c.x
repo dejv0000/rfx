@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>양주 태권도장 5세아 심정지 …관장이 CCTV 영상 삭제 정황 </title>
+      <link>https://www.chosun.com/national/incident/2024/07/13/46NU5O3GK5BPBDFHBGVBXNNFO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/13/46NU5O3GK5BPBDFHBGVBXNNFO4/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Jul 2024 02:52:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7UGH63LXQLCLVNNVT3JR6DJMPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 양주시 한 태권도장에서 5살 남자아이가 심정지 상태로 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;13일 경찰과 소방 당국에 따르면 지난 12일 오후 7시 40분쯤 경기 양주시 덕계동의 한 태권도장에서 “5살 남자아이가 숨을 쉬지 않는다”는 신고가 들어왔다.&lt;br&gt;&lt;br&gt;소방 당국이 출동해 현장에 도착했을 당시 A군은 심정지 상태였다. 소방 측은 “심폐소생술(CPR)을 하면서 A군을 인근 병원으로 옮겼다”고 말했다. 병원으로 옮겨진 A군은 중환자실에서 치료를 받고 있으나 의식을 회복하지 못하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;역시 신고를 받고 출동한 경찰은 이 태권도장에서 30대 남성 관장을 긴급 체포했다. 경찰은 “관장 B씨가 말아서 도장 한 켠에 세워둔 매트 사이에 A군을 거꾸로 넣고 10~20분 가량 방치한 것으로 추정된다”고 말했다.&lt;br&gt;&lt;br&gt;B씨는 매트 사이에 넣은 A군이 잠시 뒤 숨을 쉬지 않자 태권도장과 같은 건물에 있는 의원에 A군을 데려간 것으로 전해졌다. 이후 신고를 받고 출동한 소방 구조대가 A군을 큰 병원으로 옮겼다. B씨는 소방 당국에 의해 A군이 큰 병원으로 이송된 뒤 당시 장면이 담긴 태권도장 방범카메라(CCTV) 영상을 삭제한 것으로 경찰에 파악됐다.&lt;br&gt;&lt;br&gt;B씨는 경찰에서 “장난으로 그랬다”고 진술한 것으로 알려졌다. 경찰은 B씨를 아동학대범죄의 처벌 등에 관한 특례법상 아동학대 중상해 혐의로 입건, 자세한 사건 경위를 조사하고 있다. 경찰은 “관장 B씨의 태권도장 방범카메라(CCTV) 영상 삭제 여부와 경위, 이유 등에 대해서도 확인 중”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 아파트 주차장 승용차 방화…20대 중상</title>
+      <link>https://www.chosun.com/national/regional/2024/07/13/JXXLIJ2P5FDMXMFKMEA2PLEEJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/13/JXXLIJ2P5FDMXMFKMEA2PLEEJQ/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Jul 2024 02:36:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R4TXZKIT3KYUVEC67Q56LKA2SE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오전 0시 29분쯤 인천 부평구 십정동의 한 아파트 지하 주차장에 주차된 지프 루비콘 차량에서 불이 났다.(인천소방본부 제공)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 한 아파트 지하 주차장에서 방화로 추정되는 불이 나 20대 남성이 크게 다쳤다.&lt;br&gt;&lt;br&gt;13일 오전 0시 29분쯤 인천 부평구 한 아파트 지하 주차장에 주차된 스포츠유틸리티차(SUV)에서 불이 났다. 당시 차 안에는 20대 A씨가 타고 있었다. 소방 당국은 “A씨가 술을 먹고 차에 불을 질렀다”는 A씨 지인 신고를 받고 현장에 출동, 18분 만에 불을 끄고 A씨를 구조했다. &lt;br&gt;&lt;br&gt;소방당국은 “A씨는 구조 당시 의식 저하 증상을 병원으로 옮겨 치료를 받고 있다”며 “생명에 지장은 없는 상태”라고 말했다. 경찰과 소방 당국은 A씨가 차 안에서 불을 지른 것으로 보고 정확한 사건 경위와 화재 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;경찰은 “병원 치료를 마치는 대로 A씨의 방화 혐의에 대해 수사할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 오토바이·대형 트럭 충돌…오토바이 20대 운전자 숨져 </title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2024/07/13/YKU2MUDR55AWTHC55V7CKEIRCA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2024/07/13/YKU2MUDR55AWTHC55V7CKEIRCA/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Jul 2024 02:14:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DREMCEIOWKP5TYP3EBTBTRLDOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오전 3시29분쯤 인천시 서구 오류동 한 도로에서 11.5톤 카고트럭과 배기량 1043cc 오토바이가 추돌, 오토바이 운전자가 숨졌다./인천소방본부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 오전 3시 29분쯤 인천시 서구 오류동 교차로에서 20대 A씨가 몰던 오토바이가 11.5t 화물차와 부딪혔다. 이 사고로 A씨가 머리 등을 크게 다쳐 숨졌다.&lt;br&gt;&lt;br&gt;사고 당시 A씨 오토바이는 교차로에서 직진하고 있었고 화물차는 맞은편에서 좌회전하던 중이었던 것으로 파악됐다. 오토바이는 사고 후 불이나 모두 탔고 화물차는 일부가 타 8850만원 상당(소방서 추산)의 재산 피해가 났다.&lt;br&gt;&lt;br&gt;소방 당국은 소방관 48명과 펌프차 등 장비 19대를 투입해 10분 만에 완전히 불을 껐다. 경찰과 소방당국은 현장 주변 방범카메라(CCTV) 영상 등을 토대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘온라인 게임’ 상대방 상습 비방 20대 벌금형</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/13/GHIRJ3AJSFHODLJEYENJLJJLO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/13/GHIRJ3AJSFHODLJEYENJLJJLO4/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Jul 2024 01:52:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZVOG5YSCWSTYFRGQ42YM7NXIME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 전경 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온라인 게임 상대방을 헐뜯는 내용이 담긴 메시지(채팅)를 계속해서 보낸 20대가 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;청주지법 형사5단독 정우혁 부장판사는 스토킹 범죄의 처벌 등에 관한 법률 위반 혐의로 기소된 A(27)씨에게 벌금 300만원을 선고했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 6월 18일부터 약 한 달 동안 온라인 게임 속에서 만난 피해자 B씨에게 게임 실력을 비하하는 등의 메시지를 221차례에 걸쳐 보낸 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;정 부장판사는 “A씨가 책임을 인정하나 계획적이고 악의적으로 범행을 저지른 것으로 죄질이 좋지 않다”며 “용서받지 못한 점, 초범인 점 등을 고려해 형을 정했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>심야 해운대서 뒤집어진 벤츠 승용차…운전자는 달아나</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/07/13/B7O4NOPHBBBJBBRR3UR6XPF6YE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/07/13/B7O4NOPHBBBJBBRR3UR6XPF6YE/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Jul 2024 02:00:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LT44TQQ4QRGL5G2KNH5D5N7WBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오전 1시쯤 부산 해운대구 중동 해운대구청 인근 도로를 달리던 벤츠 승용차가 가로수를 들이받고 뒤집어져 있다./부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 오전 1시쯤 부산 해운대구 중동 해운대구청 어귀 삼거리에서 구청 방향을 달리던 벤츠 승용차가 갑자기 가로등을 들이받고 뒤집어졌다. &lt;br&gt;&lt;br&gt;신고를 받은 경찰이 현장에 출동했을 때 승용차 운전자는 자리에 없었다. 경찰은 “운전자가 곧바로 택시를 타고 도주한 것으로 보인다”고 말했다. 경찰은 해당 승용차의 차적 조회와 인근 방범카메라(CCTV) 영상 분석 등을 통해 운전자를 추적하고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>현대차 6년째 무파업 임금협상 타결…역대 최장 기록  </title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/07/13/6H24CGJJNJFSBEU2CE5VULWMYM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/07/13/6H24CGJJNJFSBEU2CE5VULWMYM/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Jul 2024 01:45:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/643DSOL5M5OJVMU4DST3O2XXCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;현대자동차 노사 관계자들이 지난 5월 23일 현대차 울산공장 본관 동행룸에서 2024년 임금협상 교섭 상견례를 하고 있다.(현대자동차 제공)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현대자동차 노사가 6년 연속 파업 없이 단체교섭을 타결했다.&lt;br&gt;&lt;br&gt;현대차 노조는 “전체 조합원(4만3285명)을 대상으로 올해 임금협상 잠정 합의안 찬반 투표를 벌인 결과, 투표자 3만6588명(투표율 84.53%) 중 2만1563명(58.93%)이 찬성해 합의안이 가결됐다”고 13일 밝혔다.&lt;br&gt;&lt;br&gt;올해 합의안은 기본급 11만2000원(호봉승급분 포함) 인상, 성과금 500%+1800만원, 주식 25주 지급 등을 담았다. 이같은 임금 인상 폭은 역대 최대 수준이다.&lt;br&gt;&lt;br&gt;이와 별도로 기술직 총 800명 추가 채용(내년부터 2026년까지 총 1100명 채용), 특별사회공헌기금 15억원 조성, 퇴직 후 계약직으로 바꿔 다시 일할 수 있는 숙련재고용 제도(촉탁계약직) 기간을 기존 1년에서 총 2년으로 연장 등의 사안에도 합의했다.&lt;br&gt;&lt;br&gt;합의안이 투표를 통과하면서 현대차 노사는 2019년 이후 6년 연속 파업 없이 단체교섭을 타결했다. 이로써 1987년 현대차 노조 창립 이후 무파업 타결 최장 기록을 세우게 됐다. 노사는 15일 올해 임협 조인식을 할 예정이다.&lt;br&gt;&lt;br&gt;현대차가 있는 지역의 지방자치단체들은 이같은 노사 협상 타결에 대해 모두 환영했다. 김두겸 울산시장은 이날 입장문을 내고 “산업수도 울산의 대표기업인 현대자동차 노사가 올해 임금협상에 원활히 합의한 것을 크게 환영한다”고 밝혔다.&lt;br&gt;&lt;br&gt;박천동 북구청장은 “6년 연속 무분규 타결을 이룬 노사의 결단을 환영한다”며 “지역 경제와 협력사에 큰 선물이 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>노모 폭행해 살해 후 옆에서 TV보고 잠든 아들...2심 징역 27년</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/13/W7Z65RTJDZD5TLRIP4BGYEMZMM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/13/W7Z65RTJDZD5TLRIP4BGYEMZMM/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Jul 2024 00:45:21 +0000</pubDate>
+      <content:encoded>자택에서 어머니를 무참히 폭행해 살해한 후 시신 옆에서 TV를 보거나 잠을 잔 남성이 2심에서 중형을 선고받았다.&lt;br&gt;&lt;br&gt;서울고법 형사2부(재판장 설범식)는 지난 11일 존속살해 등 혐의로 기소된 이모(52)씨에게 징역 27년을 선고했다. 징역 22년을 선고한 1심보다 형량이 늘었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FWVKJ6E7ECWRHGOCADSEFAOAPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중앙지법 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이씨는 작년 9월 21일 자신의 집을 방문한 모친 A(78)씨를 밀쳐 바닥에 넘어뜨린 다음 수차례 폭행해 사망하게 한 혐의 등으로 재판에 넘겨졌다. 그는 같은 달 25일 숨져 있던 어머니를 발견한 형의 신고로 붙잡혔다. 발견 당시 A씨는 갈비뼈 21개가 부러진 상태였다.&lt;br&gt;&lt;br&gt;이씨는 2016년 이웃 주민을 폭행한 혐의로 실형을 살았고 이후 별다른 수입 없이 지내온 것으로 조사됐다. A씨는 이씨를 돌보기 위해 이씨 집을 찾았다가 참변을 당했다.&lt;br&gt;&lt;br&gt;이씨는 수사와 재판 과정에서 피해자가 자신의 어머니도 아니라고 주장하고, 범행 경위 등에 대해 답변을 회피하기도 했다.&lt;br&gt;&lt;br&gt;1심은 “피해자는 요양보호사로 일하며 성실히 생계를 이어왔고 피고인의 폭력적 성향 발현을 걱정하며 돌보기 위해 노력했다”며 “그럼에도 이씨는 죄책감은커녕 애도의 감정조차 보이지 않고 범행을 부인하며 무책임한 태도로 일관했다”고 했다.&lt;br&gt;&lt;br&gt;2심은 “사회와 단절된 상태를 유지하면서 무위도식하는 50대 아들이 모친을 상대로 이유 없이 폭언하고 폭행을 일삼다가 급기야 갈비뼈 대부분이 부러질 정도로 반복적으로 폭행하고 살인한 사건”이라며 “패륜의 정도가 극에 달했다고 볼 수 있다”고 했다. 2심 재판부는 “원심 형은 지나치게 가벼워 부당하다”며 1심보다 중한 형을 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>개랑 겸상하고 개랑 라운딩하고</title>
       <link>https://www.chosun.com/national/weekend/2024/07/13/K4MFOO34S5BLDG6BBYRNXY636A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2024/07/13/K4MFOO34S5BLDG6BBYRNXY636A/</guid>
@@ -857,15 +920,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QWY5O4VJ7BFKRPS7UKRXQ554QU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 상반기(1~6월) 국내 ‘불법 체류자’ 중 4만 4247명이 출국한 것으로 나타났다. 법무부가 2000년대 불법체류 외국인을 본격적으로 단속한 이후로 역대 가장 많은 숫자다.&lt;br&gt;&lt;br&gt;법무부는 올해 상반기 국내 불법체류자 2만3724명을 적발해 강제 출국 조치했다고 12일 밝혔다. 불법 체류자 2만 523명은 자진 신고를 하고 출국했다. 강제 출국당하면 입국금지 조치가 돼 앞으로 입국할 수 없지만, 자진 신고를 하면 범칙금이 부과될 뿐 입국금지가 되지는 않는다. 법무부 관계자는 “단속 기조가 거세지자 자진해서 신고하고 출국하는 불법 체류자가 늘어나는 것”이라고 했다.&lt;br&gt;&lt;br&gt;불법체류자에 대한 정부합동단속(4월 15일~6월 30일) 결과, 불법 체류자들은 주로 유흥업소에서 적발됐다. 광주광역시 광산구의 외국인 전용 클럽에서 불법체류자 61명이 적발돼 강제 출국 조치됐다. 경기 수원 외국인 전용 유흥업소에서는 불법체류자 13명이 적발됐는데, 이 중 4명은 마약 양성반응이 나와 경찰 조사를 받고 있다. 법무부 관계자는 “마약·도박 사범, 대포차 유통 등 범죄 관련 사범도 여럿 있다”고 했다.&lt;br&gt;&lt;br&gt;건설현장에도 불법 체류자가 다수 있었다. 경기 시흥시 한 아파트 건설현장에서 일한 일용직근로자 37명이 불법 체류자로 확인돼 전원 출국 조치됐다.&lt;br&gt;&lt;br&gt;국내 불법체류자는 작년 43만명이었다가 올해 41만명 수준으로 떨어졌다. 올해 6월 기준 국내 불법체류자는 41만6000명이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>음주운전 다섯 번째 걸린 한의사 “자격정지는 안 돼” 선처 애원</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/12/P2W7RXFI2ZFXLHXWD2QAIKKGXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/12/P2W7RXFI2ZFXLHXWD2QAIKKGXM/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 01:56:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHWE22LGVBCVHJU35XWRGTUTZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 중앙지방법원 로비에 법원 마크가 밝게 빛나고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전으로 철창신세를 진 적 있는데도 또 술에 취해 운전대를 잡은 한의사에게 법원이 징역형을 선고했다.&lt;br&gt;&lt;br&gt;12일 법조계에 따르면 서울북부지법 형사2단독 임정엽 부장판사는 도로교통법상 음주운전 혐의로 기소된 한의사 박모(48)씨에게 지난 4일 징역 8개월에 집행유예 2년을 선고하고 준법운전강의 40시간 수강을 명령했다.&lt;br&gt;&lt;br&gt;박씨는 작년 12월 22일 오전 1시 22분쯤 서울 노원구에서 면허 취소 수준(0.08% 이상)인 혈중알코올농도 0.100% 상태로 차를 몬 혐의를 받는다. 운전 중 정차돼 있던 다른 차량을 들이받는 사고를 내기도 했다.&lt;br&gt;&lt;br&gt;박씨가 음주운전으로 적발된 건 이번이 무려 다섯 번째다. 그는 과거 2004년, 2008년, 2009년에도 음주운전으로 각각 100만 원의 벌금형을 받은 바 있다. 이후 2017년 9월엔 음주운전과 공무집행 방해 등 혐의로 징역 8개월을 선고받기도 했다.&lt;br&gt;&lt;br&gt;박씨 측은 재판에서 집행유예 이상의 형이 내려지면 한의사 자격이 정지될 수 있다며 벌금형의 선처를 요청했다. 그러나 재판부는 “벌금형을 선고받을 경우 다시 음주운전을 해 다른 사람의 생명과 신체에 위험을 초래할 가능성이 높다”며 받아들이지 않았다.&lt;br&gt;&lt;br&gt;다만 이번 사건으로 인명 피해가 발생하지 않은 점, 박씨가 어린 자녀와 어머니를 부양하고 있는 점 등을 유리한 양형 요소로 고려했다고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>'조카 살인 사건' 유족, 이재명 상대 손배소 최종 패소</title>
       <link>https://www.chosun.com/national/court_law/2024/07/12/LSH7XYDQ75EI5GU22M2WHX227I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/12/LSH7XYDQ75EI5GU22M2WHX227I/</guid>
@@ -873,42 +927,6 @@
       <description/>
       <pubDate>Fri, 12 Jul 2024 01:59:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JNYMJLGOT3YVPSF53KOGXYTOWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 전 대표가 지난 10일 서울 여의도 당사에서 8·18 전당대회 당 대표 출마를 선언한 뒤 취재진 질문에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 전 대표 조카의 ‘모녀 살인’ 사건 유족이 이 전 대표를 상대로 낸 1억원대 손해배상 청구 소송에서 최종 패소했다.&lt;br&gt;&lt;br&gt;이 사건은 이 전 대표가 2021년 11월 SNS에 자신이 변론했던 조카의 살인 사건을 ‘데이트 폭력 중범죄’라고 지칭한 것이 발단이다. 이 전 대표는 “제 일가 중 일인(한 명)이 과거 데이트 폭력 중범죄를 저질렀는데 그 가족이 변호사를 선임할 형편이 못 돼 제가 변론을 맡을 수밖에 없었다”고 적었다.&lt;br&gt;&lt;br&gt;이 전 대표의 조카 김모씨는 지난 2006년 5월 만나던 여성이 헤어지자고 하자 서울 강동구에 있는 집에 찾아가 미리 준비한 흉기로 상대방과 모친을 살해했다. 이 전 대표는 당시 김씨의 형사 재판 1·2심 변호를 맡았다. 이 사건이 지난 대선 국면에서 다시 불거지자, 이 전 대표가 ‘데이트 폭력’이라면서 해명한 것이다.&lt;br&gt;&lt;br&gt;이에 피해자 유족들은 “살인 범행을 데이트 폭력이라고 지칭해 정신적 고통을 받았다”며 1억원을 청구하는 손해배상 소송을 냈다. 이 전 대표는 유족의 주장을 부인했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C2QSTO56EZBOJJQON3FNLSS6WU.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 2월 이재명 당시 더불어민주당 대선 후보가 '조카 살인 사건 손해배상 소송' 1심 법원에 제출한 답변서 일부./이병철 변호사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 1심 법원은 “데이트 폭력이라는 용어는 가해자와 피해자의 관계 특성을 근거로 해 범죄유형을 구분하는 용어”라며 “게시글의 전체 내용과 취지를 비춰 보면 조카 범행으로 인한 피해를 축소, 왜곡해 허위 사실을 적시했다고 보기 어렵다”며 기각했다.&lt;br&gt;&lt;br&gt;2심은 같은 판단을 내렸고, 대법원 2부(주심 신숙희 대법관)도 11일 심리불속행으로 상고를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>성인방송 강요당하다 숨진 아내...군인 출신 남편에 징역 3년</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/12/CTPJGKSVJJERHGPKDHXL6IIUV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/12/CTPJGKSVJJERHGPKDHXL6IIUV4/</guid>
-      <dc:creator>인천=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 01:52:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XXBJE6BZWFB4RYQ23B4SC3A4EI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아내에게 성인방송 출연을 강요하고 자택에 감금한 혐의를 받는 전직 군인 A씨가 지난 2월 4일 인천 미추홀구 인천지방법원에서 열린 구속 전 피의자심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아내에게 성관계 영상 촬영과 성인방송 출연 등을 강요한 혐의로 재판에 넘겨진 30대 전직 군인이 12일 1심에서 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;인천지법 형사5단독 홍준서 판사는 이날 강요·감금·협박 등의 혐의로 기소된 A(37)씨에게 징역 3년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2021년부터 지난해까지 아내 B씨를 자택에 감금하고, 성관계 영상 촬영과 성인방송 출연 등을 강요한 혐의 등을 받는다. A씨는 이를 거부하는 B씨에게 “나체 사진을 장인어른에게 보내겠다”고 협박한 것으로 알려졌다. 그는 또 B씨를 여러 차례 집에 감금한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;B씨는 지난해 초 피해를 호소하는 내용의 유서를 남긴 채 숨졌고, 유족이 경찰에 A씨를 고소하면서 사건이 알려졌다.&lt;br&gt;&lt;br&gt;검찰은 지난달 14일 열린 결심공판에서 “죄질이 매우 불량하다”며 A씨에게 징역 7년을 구형했다.&lt;br&gt;&lt;br&gt;홍 판사는 “피고인의 범행은 피해자가 스스로 목숨을 끊은 원인이 됐고, 피해자 아버지를 포함한 유가족은 극심한 정신적 고통을 겪고 있다”며 “피고인은 피해자의 방송 수입에 의존하다가 이혼을 요구받자 협박했다. 범행 동기를 보면 비난받을 가능성이 커 실형으로 엄벌해야 한다”고 판시했다.&lt;br&gt;&lt;br&gt;이날 형이 선고되자, 피해자 유족은 법정 밖에서 주저앉아 울음을 터뜨리기도 했다.&lt;br&gt;&lt;br&gt;한편, 전직 군인이었던 A씨는 불법 음란물을 온라인에 공유했다가 2021년 강제 전역 조치된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>父 김구라 몰래  외가에 돈 보낸 그리... “월 300만~400만원 지원”</title>
-      <link>https://www.chosun.com/national/people/2024/07/12/XJXASMGU6VFNBOM5KXPY6JWA6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/07/12/XJXASMGU6VFNBOM5KXPY6JWA6I/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 00:43:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OD3FGQJ5OJE45KNJNHYINC5XGI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;가수 그리(왼쪽), 방송인 김구라./그리 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 그리(25)가 아버지인 방송인 김구라(53) 몰래 수년간 외가에 병간호비와 생활비를 지원했던 사실을 고백했다.&lt;br&gt;&lt;br&gt;11일 채널A 예능 프로그램 ‘아빠는 꽃중년’에는 그리와 김구라가 대화를 나누는 모습이 공개됐다.&lt;br&gt;&lt;br&gt;김구라는 이달 말 해병대 입대를 앞둔 그리에게 “군대 가는 동안 쓸 모아둔 돈은 있지?”라고 물었다. 이에 그리는 “쓸 돈? 주식에 돈은 있다”고 답했다. 김구라는 “그래. 재테크 잘 하고. 얘(그리)가 그렇게 허투루 쓰는 건 없다. 남지 않아서 그렇지”라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UYHBKJ76ZJETPPM6WBLRASZABM.png"&gt;&lt;figcaption&gt;&lt;small&gt;차 안에서 대화를 나누는 가수 그리와 김구라./채널A&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이를 들은 그리는 자신이 돈을 모으지 못한 이유에 대해 설명했다. 그리는 “도와주고 그러느라 많이 썼다”며 “외할머니 병원비랑 이런 걸로 엄청 썼다. 한 달에 300만~400만 원씩 썼다. 2~3년씩 했다. 장도 봐주고”라고 했다.&lt;br&gt;&lt;br&gt;김구라는 “그리가 그 나이 또래에 비해 나름대로 돈을 많이 모아 놨었다. 그런데 여러 가지 집안 일 때문에도 그렇고”라며 “그런데 달에 300만~400만 원씩 용돈을 (외가에) 주는 줄 몰랐다”고 했다.&lt;br&gt;&lt;br&gt;이후 김구라는 제작진과의 인터뷰에서 “어르신(전 장모)이 고생한 걸 안다”라며 “(최근 돌아가셔서) 상가(喪家)에 가려고 했는데 그리가 오지 말라고 해서 대신 장례 비용을 같이 조금씩 부담했다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H7KHL7KMUVAHDKEUYMYH2F6HSI.png"&gt;&lt;figcaption&gt;&lt;small&gt;유튜브 채널 '다까바'에 출연해 이야기를 하는 가수 그리./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그리는 지난달 유튜브 채널 ‘다까바’에 출연해서도 “부가 많이 축적 안 됐다. 집안에 아픈 가정사가 있었다”며 “어머니 빚도 많이 갚아주고 생활비 좀 드리고 외할머니가 4일 전 돌아가셨는데 그때까지 간병인이랑 그런 걸 붙여드리느라 효도하는 데 돈을 좀 더 썼다”고 털어놓기도 했다.&lt;br&gt;&lt;br&gt;한편, 김구라는 채무 문제로 2015년 전처와 18년 결혼 생활을 끝냈다. 전처 사이엔 아들 그리를 두고 있다. 이후 2020년 12살 연하의 비연예인과 재혼했고 이듬해 늦둥이 딸을 얻었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이근 “쯔양 협박 녹취록, 내가 구제역 핸드폰 박살내 유출” </title>
-      <link>https://www.chosun.com/national/national_general/2024/07/12/36MGGIFCJBEPFCHYNJ5QRDBPO4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/12/36MGGIFCJBEPFCHYNJ5QRDBPO4/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 00:13:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RHOHU4FRM5FBTMYOC6RBRQBPCE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;작년 3월 이근 전 대위가 서울중앙지법 열린 첫 재판이 끝난 뒤 유튜버 구제역의 휴대폰을 손으로 쳐내고 있다./TV 조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭로 콘텐츠를 다루는 이른바 ‘사이버 레커’ 유튜버들이 먹방 유튜버 쯔양의 과거를 빌미로 금전 협박을 공모한 정황이 담긴 녹취록이 공개된 가운데, 이들과 법정 다툼을 벌이고 있는 이근 전 대위가 녹취록이 세간에 공개된 것은 자신의 행동 때문이라고 주장했다. &lt;br&gt;&lt;br&gt;이 전 대위는 12일 유튜브 채널 ‘ROKSEAL’ 커뮤니티를 통해 “(유튜버) 구제역이 내 얼굴에 카메라를 들이대서 그의 핸드폰을 박살 낸 적이 있다”며 “그 핸드폰을 맡기다가 녹음 파일들이 유출돼 세상에 공개됐다”고 주장했다.&lt;br&gt;&lt;br&gt;그러면서 “내가 쏘아 올린 핸드폰이 어디까지 가는지 모두 기대하시라. 날 건드렸던 사람들은 다 죽게 돼 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;구제역은 유튜브 채널을 통해 이 전 대위의 탈세 의혹 등 각종 의혹을 제기해온 ‘레커’ 유튜버로, 작년 3월 여권법 위반 혐의로 재판에 넘겨진 이 전 대위의 재판을 방청하러 갔다가 이 전 대위와 물리적 충돌을 빚었다.&lt;br&gt;&lt;br&gt;당시 이 전 대위는 구제역이 탈세 의혹 관련 질문을 반복해 묻자 욕설과 함께 주먹으로 그의 얼굴을 때렸다. 이후에도 구제역이 자신을 따라와 휴대폰을 들이밀고 촬영하자 재차 욕설을 하며 손으로 그의 휴대폰을 쳐 땅에 떨어뜨렸다.&lt;br&gt;&lt;br&gt;구제역이 이때 파손된 휴대폰을 사설 복구업체에 맡겼고, 이 과정에서 다른 레커 유튜버들과 쯔양 협박을 공모한 녹취록이 유출됐다는 게 이 전 대위의 설명이다. 이 전 대위는 구제역 폭행으로 1심에서 벌금 500만원을 선고받은 뒤 2심 재판을 받고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YJKGQRNPQ5G5HBA5GZVKDD77CM.png"&gt;&lt;figcaption&gt;&lt;small&gt;10일 유튜브 '가로세로연구소'에 올라온 2023년 2월 20일 이뤄진 유튜버 구제역과 전국진의 통화 내용. /유튜브 '가세연'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재 구제역은 일부 레커 유튜버들과 함께 쯔양의 과거를 빌미로 금전을 요구했다는 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;앞서 유튜브 채널 가로세로연구소는 이런 정황이 담긴 통화 녹취록을 공개했는데, 녹취록에는 구제역이 “쯔양이 입막음 비용으로 예전에 같이 일했던 여성들에게 매달 600만원씩 주는 걸로 알고 있다” “고소당해봤자, 벌금 몇백만원만 나올 것” “한 번 크게 하려면 이건 2억원은 현찰로 받아야 한다” 등의 발언을 하는 내용이 담겼다.&lt;br&gt;&lt;br&gt;해당 녹취와 관련 이 전 대위는 쯔양에게 “그동안 엄청 괴로웠을텐데 더이상 협박당하지 마시라. 돈을 주면 계속 노예가 되고 끝이 없다”며 “당당하게 이겨내길 바란다”는 응원의 글을 남기기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLNJMVFLGZABVOSAR6EDBZBE7I.png"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 쯔양이 피해사실을 털어놓으며 눈물을 보이고 있다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 쯔양은 녹취 공개 이후 유튜브 라이브 방송을 통해 자신의 과거를 털어놨다.&lt;br&gt;&lt;br&gt;방송 내용에 따르면 쯔양은 대학 휴학 중 만난 전 남자친구 A씨로부터 4년간 폭행·착취·협박을 당했다. 먹방 초기 A씨에게 매일 폭행을 당하며 방송을 진행했으며, 방송 수익을 갈취당했다. 또 쯔양은 A씨가 불법촬영 영상으로 협박해 과거 잠시 유흥업소에서 일한 적이 있다고도 했다.&lt;br&gt;&lt;br&gt;이후 A씨로부터 벗어난 쯔양은 A씨를 상대로 고소를 진행했으나 A씨가 사망하면서 형사고소 건은 공소권 없음으로 종결됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>폭우로 무너진 거창교? 가짜입니다</title>
-      <link>https://www.chosun.com/national/2024/07/12/QWLSDW7HVJBSLB2BVFH72Q2XW4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/07/12/QWLSDW7HVJBSLB2BVFH72Q2XW4/</guid>
-      <dc:creator>김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Jul 2024 15:45:00 +0000</pubDate>
-      <content:encoded>경남 거창에서 마치 폭우에 다리가 무너질 듯한 사진이 유포돼 경찰이 한때 차량 통제에 나서는 등 소동이 벌어졌다. 실제 다리는 멀쩡했고, 이 사진은 가짜였다. 거창군은 주민들을 불안하게 한 가짜 사진 유포자를 수사해 달라고 경찰에 수사를 의뢰했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JKJWEXX55RDFNFCQI6ZN7BQMXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 경남 거창 지역에 퍼진 '거창교' 사진(왼쪽). 폭우에 다리가 무너지는 것처럼 보인다. 하지만 이 사진은 가짜였고 당시 실제 거창교(오른쪽)는 멀쩡했다. /거창군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 거창군에 따르면, 지난 10일 수백 명이 참여하고 있는 지역의 한 단체 채팅방에 거창읍 거창교 일부가 무너진 것처럼 보이는 사진이 올라왔다. 하천은 흙탕물이 불어나 있고, 다리는 상판이 갈라져 곧 무너질 듯한 모습이었다. 거창 지역엔 9~10일 이틀 동안 171.5mm의 비가 쏟아졌다. 10일 오전에는 거창교가 있는 황강에 홍수 주의보도 발효됐다.&lt;br&gt;&lt;br&gt;이 사진은 소셜미디어 등으로 빠르게 확산했고, 이를 본 한 주민이 경찰에 신고했다. 군청 상황실에도 주민 신고가 빗발쳤다. 현장에 출동한 경찰은 오전 9시쯤 거창교를 통제하고, 거창군과 함께 약 2시간 동안 긴급 안전 점검을 벌였다. 사진과 달리 다리는 균열 없이 멀쩡했다. 거창교는 오전 11시쯤 통행이 해제됐다.&lt;br&gt;&lt;br&gt;거창군이 조사한 결과, 이 사진은 거창군의회 한 의원 지지자 900여 명이 참여하고 있는 단체 채팅방에 처음 올라왔다고 한다. 이 사진은 지역의 한 기자가 500여 명이 모인 또 다른 채팅방에 옮겼고, 이내 소셜미디어 등으로 빠르게 확산된 것으로 파악됐다. 사진은 70대 전직 공무원인 A씨가 올렸는데, 논란이 되자 그는 “손이 떨려서 사진이 왜곡됐다. 많은 분께 불편을 드려 죄송하다”는 사과글도 올렸다.&lt;br&gt;&lt;br&gt;이에 따라 거창군은 A씨가 최초 유포자가 맞는지, 고의로 가짜 사진을 올렸는지 등을 확인하기 위해 경찰에 수사를 의뢰했다. 거창군 관계자는 “이 사진으로 당시 주민들 불안감이 컸고, 직원 20여 명이 현장 통제에 나서는 등 행정력도 낭비됐다”면서 “재발 방지 차원에서라도 정확한 진상을 파악해 달라고 경찰에 의뢰했다”고 했다. 경찰은 전문가를 통해 이 사진의 조작 및 합성 여부를 확인하는 한편, A씨를 불러 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] “국군과 싸우다 숨진 빨치산, 민간인 학살 피해자로 둔갑”</title>
@@ -929,15 +947,6 @@
       <content:encoded>내년 최저임금이 올해(9860원)보다 1.7% 오른 시간당 1만30원으로 결정됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7BAOHLMS5MN3D5JLBYLPXCPOU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;12일 세종시 정부세종청사 최저임금위원회에서 열린 제11차 전원회의에서 내년 최저임금이 1만30원으로 의결됐다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 최저임금위원회는 11차 전체 회의에서 표결 결과 내년 최저임금이 시간당 1만30원으로 결정됐다고 밝혔다. 근로자위원이 제시한 1만120원(전년 대비 2.6% 인상)과 사용자위원이 제시한 1만30원(전년 대비 1.7% 인상) 두 가지 안 중 근로자위원안이 9표, 사용자위원안이 14표를 받아 사용자위원안으로 의결됐다. 최저임금위원회는 근로자·사용자·공익위원 각 9명으로 이뤄지나, 투표 과정에서 민주노총 측 근로자위원 4명이 공익위원이 제시한 심의 촉진구간에 반발하며 투표에 불참하면서 23명만 참여했다.&lt;br&gt;&lt;br&gt;최저임금이 1만원대를 기록하는 것은 1988년 최저임금 제도 도입 이후 37년 만이다.&lt;br&gt;&lt;br&gt;최저임금은 근로자 1명 이상 모든 사업장에 대해 근로기준법상 정규직·비정규직과 파트타임·아르바이트, 청소년 근로자, 외국인 근로자 등에게 모두 적용된다. 최저임금은 매년 근로자·사용자·공익위원 9명씩 27명으로 구성된 법정 심의기구인 최저임금위원회에서 심의·의결한다. 노사 양측이 최초 제시안을 낸 뒤 양측이 서로 격차를 좁히는 방식으로 진행된다.&lt;br&gt;&lt;br&gt;지난 9일 최초 요구안으로 근로자위원 측은 1만2600원(27.8% 인상)을, 사용자위원 측은 동결을 제시했다.&lt;br&gt;&lt;br&gt;이후 양측은 네 차례 수정안을 내며 간극을 좁혀 왔다.&lt;br&gt;&lt;br&gt;12일 오전 1시쯤 공익위원 측이 심의촉진구간으로 1만~1만290원을 제시했고, 이 구간 내에서 양측이 5차 수정안을 내 표결을 진행했다.&lt;br&gt;&lt;br&gt;표결에서 사용자위원이 제시한 시간급 1만30원이 의결되면서 내년 최저임금이 결정됐다. 최저임금은 지난 정부 초기인 2018년 16.4%, 2019년 10.9%로 2년 연속 10% 이상 올랐고, 이어 2020년 2.87%, 2021년 1.5%, 2022년 5.05%, 2023년 5%, 2024년 2.5%가 올랐다.&lt;br&gt;&lt;br&gt;내년 최저임금 인상률 1.7%는 지난 2021년 1.5%에 이어 역대 두 번째로 작다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘17년 표류’ 위례신사선, 내달 사업자 재공고</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/12/775NTQJUIBHNTHCVV6QL5WLGUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/12/775NTQJUIBHNTHCVV6QL5WLGUQ/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Jul 2024 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKCZYXOKAJGI5BJTHN6FACKTIE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 장기 표류할 위기에 놓였던 위례신사선 경전철 사업을 오는 8월 다시 추진한다. 오세훈 서울시장은 지난 10일 본지 인터뷰에서 “8월 중 민간 사업자 공고를 다시 낼 것”이라며 “관심을 갖는 사업자가 있는 것으로 안다”고 말했다.&lt;br&gt;&lt;br&gt;이와 관련, 서울시 관계자는 “원자재 값, 인건비 등이 오른 상황을 고려해 공사비 등 총사업비를 조정할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;위례신사선은 서울 송파구, 경기 성남·하남시 일대에 조성한 위례신도시와 강남구 신사역을 연결하는 길이 14.7㎞ 경전철이다. 2008년 위례신도시 계획 초기부터 신도시 교통 대책으로 추진됐지만 아직 설계도도 그리지 못했다. 최초 사업자인 삼성물산 컨소시엄이 2016년 수익성이 낮다는 이유로 중도 포기했고, 이어 우선 협상 대상자가 된 GS건설 컨소시엄도 공사비 문제로 지난달 사업을 포기했다. 서울시 관계자는 “8월 중 공고를 내면 이르면 올해 우선 협상 대상자를 다시 선정할 수 있을 것으로 본다”며 “최대한 서두를 계획”이라고 했다. 다만 업계에서는 올해 우선 협상 대상자를 선정한다고 하더라도 개통이 2~3년은 늦어질 가능성이 크다고 예상한다. 당초 2029년 개통이 목표였다. 서울시는 사업비를 증액해도 민간 사업자를 선정하지 못할 경우 시 재정을 들여 사업을 추진할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>용인판 ‘디올백’ 의혹...시의회 의장 민주 후보, 선물 주며 “뽑아달라”</title>
       <link>https://www.chosun.com/national/regional/2024/07/11/BLCWNU3COZCTPNM4XPAO6F27EU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/11/BLCWNU3COZCTPNM4XPAO6F27EU/</guid>
@@ -945,15 +954,6 @@
       <description/>
       <pubDate>Thu, 11 Jul 2024 12:00:54 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/43ANZCM5WBEL7GAXXNEAUMTLAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제9대 후반기 원 구성을 마친 용인시의회 의장단, 상임위원장 등이 2일 현충탑을 찾아 헌화와 분향을 하고 있다. /용인시의회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;경기도 용인 시의회 민주당의 의장 후보 경선 과정에 명품 선물 로비가 있었다는 의혹이 제기돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;11일 용인서부경찰서에 따르면, 경찰은 지난 10일 용인 시의회 민주당 소속 A 시의원과 B 시의원의 자택과 사무실을 압수 수색했다. 이들은 지난달 민주당 의장 후보 경선을 앞두고 “A 시의원을 뽑아 달라”며 같은 당 C 시의원에게 명품 선물을 준 혐의를 받고 있다. A 의원이 B 의원을 통해 C 의원에게 명품인 ‘디올(Dior)’ 쇼핑백을 전달한 것으로 파악되고 있다.&lt;br&gt;&lt;br&gt;쇼핑백에 명품 가방이나 화장품이 들어 있었을 것이라는 의혹이 제기됐으나 C 시의원은 “내용물은 확인하지 않고 바로 돌려보냈다”고 경찰에서 진술했다고 한다.&lt;br&gt;&lt;br&gt;이런 의혹은 C 시의원이 이 사실을 경찰에 제보하면서 알려졌다. 이와 관련해 A 시의원이 다른 의원에게도 금품 로비를 했다는 의혹도 나오고 있다.&lt;br&gt;&lt;br&gt;지난달 27일 당내 경선에서 A 시의원은 8표를 얻어 9표를 얻은 유진선 시의원에게 한 표 차로 밀렸다. 유 시의원은 지난 1일 의장에 최종 선출됐다. 용인 시의회는 민주당이 17석, 국민의힘이 14석으로 민주당이 다수당이다.&lt;br&gt;&lt;br&gt;경찰은 압수물 분석을 마치는 대로 A 시의원과 B 시의원을 소환 조사할 계획이다. 명품 로비 의혹이 일자 민주당 경기도당도 이날 직권 조사에 들어갔다. 민주당 경기도당은 “금품이 오간 사실이 밝혀지면 수사 결과와 상관없이 가장 강력한 책임을 묻겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;용인 시의회 의장은 시의원 연봉(의정 활동비) 5600만원 외에 업무 추진비 4400만원을 &lt;b&gt;쓸 수 있다. &lt;/b&gt;각종 행사에서 시장 못지않은 예우와 의전을 누린다. 카니발 차량과 운전 기사, 비서 4명이 배정되며 시의회 직원 80여 명의 인사권도 갖고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이숙연 대법관 후보자 남편, 복권법 위반 혐의로 경찰 수사 중</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/11/G3JOQB7C55APFP6BXXPK2HEZSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/11/G3JOQB7C55APFP6BXXPK2HEZSQ/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Jul 2024 09:36:08 +0000</pubDate>
-      <content:encoded>새 대법관 후보자로 임명제청된 이숙연(사법연수원 26기) 대법관 후보자의 남편이 복권 및 복권기금법(복권법) 위반 혐의로 경찰 수사를 받고 있는 것으로 11일 알려졌다.&lt;br&gt;&lt;br&gt;서울중앙지검 형사1부(부장 김승호)는 이 후보자의 남편인 조형섭 동행복권 대표가 복권법 위반 혐의로 송치된 사건에 대해 최근 경찰에 보완수사를 요구했다. 앞서 서울 서초경찰서는 지난 5월 조 대표와 김세중 전 동행복권 공동대표를 서울중앙지검에 송치했었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AUPP2IC3MNDOFA2YNJGKJ3ND6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이숙연 대법관 후보자. /법원행정처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조 대표 등은 2021년 9월 스피또1000 제58회 복권 6매에서 육안상 당첨 결과와 판매점 시스템상 당첨 결과가 일치하지 않는 것을 발견하자 총 4000만장 중 오류로 추정되는 복권 20만장을 회수하기 위해 복권 정보를 이용한 혐의를 받는다.&lt;br&gt;&lt;br&gt;인쇄 오류가 생겼음에도 전체 4000만장을 회수하지 않고 일부만 회수한 채 나머지 3980만장은 판매한 것이다. 결국 복권 판매 후 1등 1매, 2등 5매에 대한 당첨자가 나오지 않는 문제가 발생한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 동행복권이 문제의 소지가 있는 복권을 추려 회수하는 과정에서 해당 회차의 당첨 복권 정보와 유통 정보를 이용한 것을 복권법 위반이라고 판단했다. 동행복권은 2018년부터 국내 모든 복권의 발행 및 유통을 담당하고 있다.&lt;br&gt;&lt;br&gt;이 후보자 측은 “이 사건은 동행복권이 외주 계약한 인쇄복권업체의 인쇄 오류에 대해 동행복권이 오류 복권 범위를 특정해 회수해 사고를 수습한 것의 법적 평가를 두고 다툼이 있는 사건”이라면서 “기획재정부 담당 부서도 수사 과정에서 동행복권의 조치에 복권법 위반 소지가 없다는 입장을 거듭 밝힌 것으로 알고 있다”고 했다.&lt;br&gt;&lt;br&gt;이 후보자 측은 또 “조 대표는 경쟁업체의 반복되는 고소·고발에 회의를 느끼고 동행복권의 대표이사직에서 사임하는 것을 고려 중”이라고 했다. 이 후보자 측에 따르면, 복권수탁사업자 입찰 과정에서 탈락한 경쟁업체가 조 대표를 총 4차례 고발했고 이중 2건은 이미 불송치 결정이 났다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>의대 본과 4학년 96%가 “국시 거부”... 내년 의사 배출 비상</title>
