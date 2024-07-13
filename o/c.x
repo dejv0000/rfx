@@ -13,6 +13,55 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“야외활동 주의”… 서울 7개구·경기 13개 시군 오존주의보 발령</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/07/13/SNCVWDOXHRBTPKS37YKJYU2NXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/13/SNCVWDOXHRBTPKS37YKJYU2NXE/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Jul 2024 09:26:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XQZXCKBHRVPCDCFKUWFSQ4VK5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 낮 최고기온이 33도까지 오르면서 무더운 날씨를 보인 13일 서울 영등포구 여의도 한강공원 물빛광장에서 어린이들이 물놀이를 하며 더위를 식히고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;환경부 한국환경공단이 13일 오후 6시를 기해 서울 서남권 7개 구와 경기 남부·북부권 13개 시군에 오존주의보를 내렸다.&lt;br&gt;&lt;br&gt;오존주의보가 발령된 서울 지역은 강서구·구로구·영등포구·동작구·관악구·금천구·양천구이다. 발령 지역 시간 평균 오존 농도는 오후 6시 현재 0.1300ppm(100만분의 1)을 기록하고 있다.&lt;br&gt;&lt;br&gt;경기 지역은 용인·평택·이천·안성·여주·고양·의정부·파주·김포·양주·포천·동두천·연천이다. 시간 평균 오존 농도는 오후 6시 현재 남부권 0.1389ppm(100만분의 1), 북부권 0.1211ppm을 기록하고 있다.&lt;br&gt;&lt;br&gt;1시간 평균 공기 중 오존(O₃) 농도가 0.12ppm 이상이면 오존주의보가, 0.30ppm 이상이면 오존경보가, 0.50ppm 이상이면 오존중대경보가 각각 발령된다.&lt;br&gt;&lt;br&gt;오존농도가 높으면 눈과 코, 호흡기를 자극하며, 오래 노출되면 폐 질환과 천식 등 호흡기 질환을 일으킬 수 있다. 오존주의보가 발령되면 노약자와 어린이, 호흡기·심장질환자는 실외활동을 자제해야 한다. 일반인도 실외활동이나 과격한 운동을 하지 않는 것이 좋다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주서 ‘동성애 반대’ 현수막 대거 훼손 20대 붙잡혀 </title>
+      <link>https://www.chosun.com/national/regional/jeju/2024/07/13/6I3QQPY75FFA7EBXZ3LQ62MVEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/jeju/2024/07/13/6I3QQPY75FFA7EBXZ3LQ62MVEQ/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Jul 2024 09:37:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JOUNILJTW5M7DAXZANWQEMRR6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제5회 제주퀴어프라이드 행사가 열린 13일 제주 서귀포시 송산동 자구리공원 일대에 설치된 동성애 반대 현수막이 훼손돼 있다.(독자 제공)/연합
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 서귀포에서 성소수자 행사를 앞두고 동성애 반대 단체들이 설치한 반대 현수막을 무더기로 훼손한 20대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서귀포경찰서는 13일 오전 제주 서귀포시 송산동 자구리문화예술공원 일대에 설치된 현수막 20여개를 훼손한 혐의로 A씨를 검거했다고 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 이날 오후 열린 ‘제주퀴어프라이드’ 행사 개최와 동성애를 반대하는 내용이 담긴 현수막을 칼로 찢는 등 훼손한 혐의를 받고 있다. 경찰은 A씨를 재물손괴 혐의로 입건해 조사하고 있다.&lt;br&gt;&lt;br&gt;2024제주퀴어프라이드 집행위는 이날 오후부터 자구리문화예술공원 일대에서 제5회 제주퀴어프라이드 행사를 열고 행진 등을 하며 성소수자 차별철폐를 주장했다. 비슷한 시각 인근에서는 이 행사와 동성애를 반대하는 교육·종교·지역 단체 관계자들이 맞불 집회를 열었다. &lt;br&gt;&lt;br&gt;서귀포경찰서는 이날 양측의 집회장 주변에 경찰력을 대거 배치, 집회 참가자들 간 충돌 등 만일의 사태에 대비했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>화성 아리셀 희생자 7명 빈소 차려져</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2024/07/13/K6R3JHGTOZE2HKS7BWL6OLNOL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2024/07/13/K6R3JHGTOZE2HKS7BWL6OLNOL4/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Jul 2024 09:10:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UWMHVGF5XSIW3AJEHJZIHL2NZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 화성시청에 로비에 마련된 '화성 아리셀 공장 화재사고 추모분향소'. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 오후 경기도 화성시의 한 장례식장에 ‘아리셀 화재 사고’ 희생자 23명 가운데 6명의 빈소가 마련됐다. 사고 발생 19일 만이다. 이날 빈소가 마련된 희생자는 중국 국적 사망자 3명과 라오스 국적 사망자 1명, 한국인 남편과 중국인 아내 부부 등이다.&lt;br&gt;&lt;br&gt;빈소 앞에는 “유가족의 사생활 보호를 위해 언론사 및 사측 관계자의 출입을 금지하오니 협조해 주시기 바랍니다”라고 적힌 입간판이 놓여 유족과 조문객 외에 취재진이나 아리셀 측 관계자는 보이지 않았다.&lt;br&gt;&lt;br&gt;충북지역의 한 장례식장에도 사망자 1명의 빈소가 차려져 이날 모두 7명의 장례 절차가 시작됐다. 앞서 지난달 28일 사망자 1명의 장례가 치러진 이후 다른 사망자 유족들은 책임자 처벌과 진정한 사죄를 요구하며 장례 절차를 미뤄왔다. 이날 다시 장례 절차가 시작됨에 따라 이번 사고 사망자 가운데 장례 절차가 마무리됐거나 진행 중인 사망자는 현재까지 8명이다.&lt;br&gt;&lt;br&gt;아리셀 산재 피해 가족협의회 관계자는 “장례를 치르기로 한 가족들은 진실 규명을 위해 함께 해 온 협의회에 감사의 마음을 전하면서 진실규명과 재발 방지를 위한 활동에 더 적극적으로 함께 하겠다는 의지를 밝혔다”며 “나머지 희생자 15명의 유족은 참사 해결 이후 장례를 치르기로 했다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아파트 단지 주차된 차 들이받고 전복…운전자 "급발진" 주장</title>
+      <link>https://www.chosun.com/national/2024/07/13/U6W3NFZNHJCKLCHKURVVP2BSII/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/07/13/U6W3NFZNHJCKLCHKURVVP2BSII/</guid>
+      <dc:creator>주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Jul 2024 08:59:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PUNIE6TSJUVLXKX2M5RHWAO5L4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 서울 성북구 돈암동의 한 아파트 단지에서 차량이 전복된 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 오후 2시 8분쯤 서울 성북구 돈암동의 한 아파트 단지에서 일가족을 태운 승용차가 주차돼 있던 차량을 들이받은 뒤 전복돼 4명이 다쳤다. 운전자는 현장에서 “차가 급발진했다”는 취지로 주장한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;서울 성북소방서, 성북경찰서에 따르면 이 사고로 운전자 70대 남성 A씨와 조수석에 탔던 A씨의 50대 아들 B씨, 뒷좌석에 탔던 B씨의 50대 아내와 10대 아들 등 4명이 다쳐 각각 병원으로 이송됐다. A 씨는 머리와 팔에 피를 흘리는 등 중상을 입었지만 의식은 있는 상태였고 사고 뒤 자력으로 차를 빠져나와 생명에는 지장이 없는 것으로 알려졌다. 뒷좌석에 탔던 가족들도 자력으로 빠져나왔고 경상을 입고 병원에서 치료받고 있다고 한다. &lt;br&gt;&lt;br&gt;이 사고로 현장 인근에 주차돼 있던 승용차 1대와 오토바이 3~4대 등이 파손됐다. 경찰 조사 결과 음주 운전은 아닌 것으로 확인됐다. 경찰은 A 씨의 건강 상태를 확인한 뒤 자세한 사건 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PUNIE6TSJUVLXKX2M5RHWAO5L4.jpg?width=1400&amp;height=1050&amp;auth=b84f0c2f8e80f6afcf80df6cfaa373ae26fc167649ad93206e6946b342cdf614&amp;smart=true" type="image/jpeg" height="1050" width="1400">
+        <media:description type="plain">독자 제공</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“공황장애 앓았다” 유명 연예인 고백 이후, 진단율 9.4배 급증</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/07/13/TJJEGFITK5FRHKFNBTSPTGUXGM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/13/TJJEGFITK5FRHKFNBTSPTGUXGM/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Jul 2024 08:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N3JHAHCSMJAQHHJW6PGULZCPMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울아산병원 정신건강의학과 신용욱(좌)·예방의학교실 조민우(우) 교수. /서울아산병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유명 연예인들이 “공황장애가 있다”고 대중 앞에 고백한 이후, 공황장애로 병원을 찾은 사람들이 꾸준히 늘어났다는 연구 결과가 나왔다. 공황장애 등 정신질환 진단에 대한 편견이나 거부감이 줄어든 영향으로 풀이된다.&lt;br&gt;&lt;br&gt;13일 서울아산병원은 신용욱 정신건강의학과·조민우 예방의학교실 교수 연구팀이 지난 2004년부터 2021년까지 17년 동안 공황장애 진단율을 분석한 결과를 밝혔다.&lt;br&gt;&lt;br&gt;공황장애의 주요 특징은 특별한 이유 없이 예상치 못하게 나타나는 극단적인 불안 증상인 ‘공황발작’이다. 갑작스러운 죽음에 대한 공포, 숨이 가빠지거나 막힐 듯한 느낌, 땀이 나거나 손발이 떨리는 등의 증상이 짧은 시간 동안 반복적으로 나타난다.&lt;br&gt;&lt;br&gt;연구진은 국민건강보험공단 데이터를 기반으로 2004년 1월부터 2021년 12월까지 인구 10만명당 공황장애를 새롭게 진단받은 환자의 비율을 분석했다. 그 결과 여러 영화나 드라마의 주연으로 출연한 유명 배우가 ‘공황장애를 앓았다’는 사실을 공개한 2010년 12월 이후 공황장애를 새로 진단받은 환자 비율이 약 9.4배 급증한 것으로 나타났다.&lt;br&gt;&lt;br&gt;유명 연예인이 공황장애 투병 사실을 고백하기 전인 2004년 1월부터 2010년 11월까지 이러한 비율은 10만명당 5.4명 수준이었지만, 고백 직후인 2010년 12월에는 6.5명 수준으로 증가했다. 이어 2011년 1~2월 8.4명, 3월 18명, 4월 26명으로 가파르게 늘었다. 2021년에는 2004년에 비해 진단율이 9.4배 늘었다.&lt;br&gt;&lt;br&gt;연구진은 “2011년 10월과 2012년 1월 유명 가수와 개그맨도 공황장애를 앓았다는 사실을 고백해 공황장애에 대한 사람들의 관심이 증폭됐었다”고 했다.&lt;br&gt;&lt;br&gt;이번 연구는 미국 국제학술지 ‘자마 네트워크 오픈’에 최근 게재됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>김동연 채상병 1주기 앞두고 대전현충원 묘역 참배</title>
       <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2024/07/13/F3I54LD5V5BZPMOJDD5JF3AHVQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2024/07/13/F3I54LD5V5BZPMOJDD5JF3AHVQ/</guid>
@@ -884,15 +933,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CIGJZ4LVOVB27LODQ7XZLJUQWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 오전 경기 고양시 마두동의 한 아파트 6층에서 발생한 화재로 연기가 발생하고 있다. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 오전 11시 20분쯤 경기 고양시 일산동구 마두동의 15층짜리 아파트 6층에서 불이 났다.&lt;br&gt;&lt;br&gt;이 불로 아파트 주민 20명이 자력으로 대피했고, 이 과정에서 10명이 연기를 마셨지만 병원으로 이송되지는 않았다.&lt;br&gt;&lt;br&gt;불이 난 아파트에는 당시 거주자 3명 모두 외출한 상태로 파악됐다. 소방당국은 “아파트 6층에서 검은 연기가 많이 나온다”는 신고를 접수하고 인력 75명과 장비 30대 등을 동원해 약 20분 만에 화재를 진압했다.&lt;br&gt;&lt;br&gt;소방 당국은 화재 원인과 피해 규모 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>검찰, ‘취업청탁 의혹’ 노영민·김현미 압수수색</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/12/XY7DEICQS5BLBEPDNH6SQ5ZJFA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/12/XY7DEICQS5BLBEPDNH6SQ5ZJFA/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 03:43:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BOKVSUBIFBEULNXCPP35PY274M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노영민(오른쪽) 전 대통령 비서실장과 김현미 전 국토교통부 장관. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 12일 이정근 전 더불어민주당 사무부총장의 취업 과정에 부당하게 개입한 혐의로 노영민 전 청와대 비서실장과 김현미 전 국토교통부 장관에 대한 압수수색에 나섰다.&lt;br&gt;&lt;br&gt;서울중앙지검 반부패수사2부(부장 최재훈)는 이날 오전부터 노 전 실장과 김 전 장관의 주거지, 국토부 사무실 등에 검사와 수사관을 보내 자료를 확보하고 있다. 노 전 실장과 김 전 장관에게는 업무방해 혐의가 적용됐다.&lt;br&gt;&lt;br&gt;이 전 부총장은 2020년 21대 총선에서 낙선한 뒤 국토교통부의 추천으로 1년간 한국복합물류에서 상근 고문으로 일하며 1억원가량의 연봉을 받았다. 이 전 부총장은 방송작가 출신으로 물류 전문성이 없는데 검찰은 노 전 실장과 김 전 장관이 국토부 공무원을 통해 민간기업에 위력을 행사한 것으로 보고 수사를 진행하고 있다.&lt;br&gt;&lt;br&gt;한편 이 전 부총장은 공공기관 인사 등 각종 청탁 대가 및 21대 총선 선거 비용 명목으로 사업가 박모씨로부터 10억원의 금품을 수수한 혐의로 구속기소돼 지난해 12월 대법원에서 징역 4년 2개월을 확정받고 복역 중이다. 그의 휴대전화에서 나온 각종 녹음파일들은 이른바 ‘민주당 전당대회 돈 봉투 살포 사건’ 수사의 단초가 되기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>익산 MT왔다가 폭우에 실종된 의대생 숨진 채 발견</title>
       <link>https://www.chosun.com/national/incident/2024/07/12/EL7F75HC3BAPBLTZPVI6WXJ3DA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/12/EL7F75HC3BAPBLTZPVI6WXJ3DA/</guid>
@@ -900,15 +940,6 @@
       <description/>
       <pubDate>Fri, 12 Jul 2024 03:58:59 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXCIAQUA7FMSRCYFHMMRV4CVAM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전북경찰청 소속 경찰관들이 12일 오전 전북 익산시 금마면 일대에서 동아리 MT를 왔다가 폭우로 실종된 대학생을 수색하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 10일 새벽 시간당 60㎜가 넘는 폭우가 쏟아진 전북 익산에 MT를 왔다가 실종된 의대생이 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;12일 전북경찰청에 따르면 이날 오전 11시 11분쯤 익산천 창평교 인근에서 A(22)씨 시신이 발견됐다. 발견된 지점은 A씨가 실종됐던 곳에서 2.7㎞ 정도 떨어져 있다. 경찰 관계자는 “신원 확인 작업을 통해 실종자와 시신의 지문이 일치하는 것으로 파악했다”고 설명했다.&lt;br&gt;&lt;br&gt;A씨는 지난 9일 익산시 금마면의 한 팬션으로 대학생 20여명과 동아리 MT를 왔다가 10일 오전 4시쯤 팬션을 나선 뒤 실종됐다. 당시 팬션 인근엔 호우 특보가 발효돼 시간당 60㎜ 이상의 장대비가 내리고 있었다. A씨가 팬션에서 나올 때는 이미 배수로에서 물이 넘쳐 도로가 침수됐던 상황이었다. 함께 온 대학생들은 술을 마시다가 잠이 들었고, 잠에서 깬 뒤 A씨가 보이지 않자 경찰에 신고했다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“니 와그라노” 한 마디에 친구 살해한 60대, 징역 18년 확정</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/12/EZKB3DXSXFCQDEPMAL4F5B6JLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/12/EZKB3DXSXFCQDEPMAL4F5B6JLA/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 03:53:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X3DWKKO633K5H7KE5K62XKG32Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술자리에서 주사를 부린 자신의 행동을 지적한 초등학교 동창을 흉기로 살해한 60대가 대법원에서 징역 18년을 확정받았다.&lt;br&gt;&lt;br&gt;12일 법조계에 따르면, 대법원 3부(주심 오석준 대법관)는 살인 혐의로 기소된 A씨(61)에게 징역 18년을 선고한 원심을 확정했다.&lt;br&gt;&lt;br&gt;경남 김해에 거주하는 A씨는 평소 술을 마시면 욕설을 하는 버릇이 있었다. 그는 2023년 6월 27일 저녁 김해의 한 식당에 술에 취한 채 방문했다. A씨는 이곳에서 초등학교 동창인 B씨가 평소 자신과 사이가 좋지 않은 C씨 등과 술자리를 하는 것을 목격했다.&lt;br&gt;&lt;br&gt;A씨는 오랜만에 만난 B씨와 반갑다며 악수했다. 이후 옆 테이블에 앉아 큰 소리로 욕을 하기 시작했다. 이에 C씨가 “욕 좀 그만해라”라고 하자 A씨는 흥분해 말다툼을 하다가 부엌에서 흉기를 꺼내왔다. 흉기를 가져오는 사이 C씨가 자리를 비우자, A씨는 갑자기 자해를 했다. 이에 동창 B씨가 삿대질하며 “니 와그라노”라고 지적하자, A씨는 갑자기 격분해 그를 찌른 것으로 조사됐다. B씨는 병원으로 이송됐으나 끝내 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 수사기관과 법정에서 자신의 범행을 인정했다. 그러나 B씨 유족들의 피해 회복을 위한 별다른 조치는 하지 않았다. 유족들은 엄벌을 내려달라고 법원에 요청했다.&lt;br&gt;&lt;br&gt;1심과 2심은 징역 18년을 선고했다. 2심 재판부는 “살인 범행에 참작할 만한 동기나 경위가 거의 존재하지 않고, 피고인의 죄책이 매우 무겁고 비난가능성 또한 크다”고 질책했다. A씨가 불복했지만 대법원도 원심의 판단이 맞다고 판결했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘폐지 줍는 어르신 라면 무료’ 써붙인 식당…“좋은일 아냐” 손사래 친 까닭</title>
@@ -920,15 +951,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QVAUOOPFO5HI3CFGHB7HUH5QBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 구미 황상동의 한 칼국수 가게 앞에 붙은 안내문./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폐지 줍는 어르신들에게 무료로 라면을 제공하는 식당의 사연이 전해져 네티즌들에게 훈훈함을 안겼다. 해당 식당 측은 당연한 일을 했을 뿐이라는 반응을 보였다.&lt;br&gt;&lt;br&gt;지난 10일 한 온라인 커뮤니티에는 ’폐지 어르신께 라면 나눔 행사를 하는 가게, 칭찬합니다’라는 제목의 글이 올라왔다.&lt;br&gt;&lt;br&gt;이 글에 첨부된 사진에는 한 식당의 유리 출입문에 ‘폐지 수집하시는 할머니, 할아버지 라면 무료로 드립니다’라고 적힌 박스가 붙어 있는 모습이 담겼다. 사진을 보면 해당 안내문 위쪽에는 대한적십사의 희망풍차 나눔사업장 명패도 붙어 있다.&lt;br&gt;&lt;br&gt;작성자는 “우리 동네 특성상 폐지 줍는 어르신들이 많다”며 “오늘 길을 걷고 있는데, 한 식당에서 폐지를 줍는 어르신들에게 라면을 무료로 제공한다는 푯말이 붙어있었다”고 설명했다.&lt;br&gt;&lt;br&gt;이어 “가뜩이나 장사도 잘 안되는 동네인데, 이렇게 나눔을 실천하는 사장님이 계셔서 뿌듯하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이 식당의 17년 단골이라고 밝힌 네티즌은 “이집 맛집이다. 사장님이 음식에 대한 자부심도 대단한데 동네 어르신들 잘 챙기는 분이다”고 했고, 또 다른 네티즌도 “저 집 사장님 오래전부터 다른 봉사활동도 꾸준히 하시는 분”이라고 댓글을 달았다.&lt;br&gt;&lt;br&gt;사연을 접한 네티즌들은 “좋은 일 칭찬, 복받으실 거다” “가까운 곳이면 가고 싶다” “다른 사람 돕는다는 것이 쉬운일이 아닌데 번창하시길” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;해당 식당은 경북 구미시 황상동에 위치한 칼국수 가게로 확인됐다. 식당 측은 12일 조선닷컴과의 통화에서 “안내문을 붙인 게 맞는다”면서도 온라인상에 식당 사연이 소개된 것을 모르고 있다고 했다.&lt;br&gt;&lt;br&gt;이어 네티즌들의 반응을 전해 들은 식당 측은 “좋은 일 한다고 생각하지 않는다. 배고프면 먹어야 하지 않나. 배고프면 눈물 나는 게 사람인데 밥이라도 한끼 먹어야 살아갈 수 있다”고 했다. 그러면서 “봉사라고 하기 보다는 평소에 배고픈 어르신들 오면 국수도 한그릇 내주고 라면도 하나 끓여주고 하는 것”이라며 당연한 일을 했을 뿐이라는 식의 이야기를 남겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, ‘납품비리 의혹’ 서울교통공사 압수수색</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/12/WTRQ5FVF7FG2VIREZUOPJS6WWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/12/WTRQ5FVF7FG2VIREZUOPJS6WWE/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 02:58:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFUQCEXWHCAWI3477DCTHEUTBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울교통공사 본사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울교통공사의 납품 계약 비리 의혹을 수사 중인 경찰이 12일 압수수색을 벌이고 있다.&lt;br&gt;&lt;br&gt;서울경찰청 반부패수사대는 이날 오전부터 서울 성동구 용답동 서울교통공사 본사 계약처와 기계처 사무실 등을 압수수색 중이라고 밝혔다. 경찰은 최근 불거진 공사의 납품 비리 의혹과 관련해 공사 임직원들의 연루 여부를 파악하기 위해 자료를 확보 중인 것으로 확인됐다. &lt;br&gt;&lt;br&gt;서울교통공사 임직원 일부는 기계 납품계약 과정에서 비리 행위를 저지른 것으로 경찰은 보고 있다. 최근 경찰이 수사 중인 서울교통공사 임직원의 뇌물 수수 의혹과는 별건인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 경찰은 서울교통공사 기술본부 소속 처장 등 임직원 3명이 납품 계약 과정에서 골프 접대 등 뇌물을 받은 정황을 포착, 지난달 17일 본사를 압수수색했다. 이같은 비위 행위 제보를 접수한 공사는 지난달 서울 성동경찰서에 이들을 고발한 뒤 직위해제했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘청담동 술자리 의혹’ 장소 지목된 카페 주인, 손배소 1심서 패소</title>
       <link>https://www.chosun.com/national/court_law/2024/07/12/EQPOZAMNKJEDBGCUUAJV7JBFFY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/12/EQPOZAMNKJEDBGCUUAJV7JBFFY/</guid>
@@ -938,15 +960,6 @@
       <content:encoded>이른바 ‘청담동 술자리 의혹’과 관련해 심야 술자리 장소로 지목된 카페 주인이 이를 보도한 인터넷 매체와 직원 등을 상대로 제기한 손해배상 청구 소송의 1심에서 패소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/23HT2CCHY2MTDFIH6CFCZR6B3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김의겸 전 더불어민주당 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 민사25부(재판장 송승우)는 12일 카페 주인인 가수 이미키씨 외 1명이 열린공감TV와 강진구 전 더탐사 대표(현 뉴탐사 선임기자) 등을 상대로 제기한 동영상 삭제 및 손해배상 청구 소송에서 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;재판부는 “원고들의 피고들에 대한 청구를 모두 기각한다”고 밝혔다. 다만 판결 이유는 법정에서 따로 설명하진 않았다.&lt;br&gt;&lt;br&gt;‘청담동 술자리 의혹’은 김의겸 전 더불어민주당 의원이 2022년 10월 국회 법무부 국정감사에서 한동훈 당시 법무부 장관을 상대로 제기한 의혹이다. 한 전 장관이 그해 7월 청담동의 한 고급 술집에서 윤석열 대통령, 김앤장 법률사무소 변호사 30명 등과 심야 술자리를 즐겼다는 것인데, 김 전 의원은 당시 그 자리에 있었다던 여성 첼리스트 A씨가 전 남자친구 B씨에게 이런 내용을 말하는 통화 녹음을 근거로 제시했다.&lt;br&gt;&lt;br&gt;그러나 A씨는 이후 경찰 조사에서 “늦게 귀가하는 것을 속이기 위해 B씨에게 거짓말을 한 것”이라고 진술했고, 이 사건을 수사했던 경찰은 청담동 술자리 자체가 실체가 없는 허위임을 밝혀냈다. A씨는 지난달 26일 이 사건 관련 다른 재판에 출석해 “그날 술자리에 대통령과 법무부 장관 및 김앤장 변호사 30명이 있었다는 걸 남자친구에게 거짓말 한 것이라고 확실히 이야기했다”는 입장이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y36IKOKGJQDC7OBOKSPFREOWYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강진구 전 더탐사 대표(현 뉴탐사 선임기자). /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이후 술자리 장소로 지목된 카페 주인 이씨는 매출에 타격을 입고 명예훼손과 인격권 침해 등 불법행위로 손해를 입었으니 위자료를 받아야 한다는 취지로 지난해 6월 강 전 대표와 소속 기자·직원 등을 상대로 이번 소송을 제기했다.&lt;br&gt;&lt;br&gt;선고 이후 이씨 측은 대리인을 통해 “유사 언론의 ‘마녀사냥’식 보도에 재판부가 면죄부를 주고, 피해자 보호의 책무를 방기한 판결”이라며 “판결문을 검토한 후 조만간 항소 여부를 확정하겠다”고 했다.&lt;br&gt;&lt;br&gt;이에 앞서 이씨 측은 이 사건 관련 게시물 삭제 및 게시 금지 가처분 신청도 냈고 법원은 “이 사건 방송은 그 내용이 진실이 아니거나 진실이라고 인정할 만한 합리적이고도 타당한 근거가 없이 한 언론보도라고 판단된다. 객관적 근거 없이 이 사건 바가 청담동 술자리의 장소로 유력하다고 계속 방송해 이씨가 진실을 은폐하는 사람으로 낙인찍혔고, 이씨의 사회적 평가가 실추됐음이 명백하다”며 청구를 인용한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“실외기서 흡연하면 살 넣는다”… 무속인이 엘베에 남긴 쪽지</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/12/TKJIB3PSRRH4DALPZKCCZ5ZJSI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/12/TKJIB3PSRRH4DALPZKCCZ5ZJSI/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 02:22:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XGJOPSAARVHHVCXZW7QIOZB4QI.png"&gt;&lt;figcaption&gt;&lt;small&gt;입주민이 엘리베이터에 남긴 메모./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신을 무속인이라고 밝힌 한 익명의 입주민이 건물 엘리베이터에 붙인 경고문을 두고 논란이 일고 있다. &lt;br&gt;&lt;br&gt;11일 한 온라인 커뮤니티에는 ‘엘베(엘리베이터)까지 진출한 무당 아저씨’라는 제목의 글과 사진 한 장이 올라왔다. 사진 속 메모에는 “현직 무당입니다. 실외기에서 담배 피우는 분, 살 넣기 전에 그만 하세요”라고 적혀 있었다. 살은 무속 전통에서 사람이나 재물 따위를 해치는 모진 기운을 통칭하는 말이다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “흡연 중독자들은 무당이 아니라도 이미 불특정의 많은 사람들에게 ‘살’(원망)을 받고 있을 것이다” “오죽했으면 그럴까” “저렇게 담배 막 피우는 사람들은 본인이 피해 입기 전까지 절대 안 고친다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;흡연은 여름철 에어컨 실외기 화재의 주요 원인 중 하나로 꼽힌다.  보통 실외기는 건물 외부 협소한 장소에 설치하기 때문에 불길이 건물 전체로 크게 번질 위험이 있다.&lt;br&gt;&lt;br&gt;소방청 자료에 따르면 작년 기준 지난 5년간 아파트 화재는 총 1만 4112건 발생했다. 이중 여름철(6∼8월) 화재가 4018건으로 28.5%를 차지해 3555건(25.2%)인 겨울철(12∼2월)보다 많았다. 소방청은 “여름철에는 에어컨 등 전기용품 때문에 화재가 자주 발생한 것으로 보인다”며 “실외기 주변에 가연물을 놔두지 않고, 이물질이 발화 물질로 작용하지 않도록 청소하는 등 주기적으로 관리해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>'조카 살인 사건' 유족, 이재명 상대 손배소 최종 패소</title>
       <link>https://www.chosun.com/national/court_law/2024/07/12/LSH7XYDQ75EI5GU22M2WHX227I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/12/LSH7XYDQ75EI5GU22M2WHX227I/</guid>
@@ -954,15 +967,6 @@
       <description/>
       <pubDate>Fri, 12 Jul 2024 01:59:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JNYMJLGOT3YVPSF53KOGXYTOWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 전 대표가 지난 10일 서울 여의도 당사에서 8·18 전당대회 당 대표 출마를 선언한 뒤 취재진 질문에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 전 대표 조카의 ‘모녀 살인’ 사건 유족이 이 전 대표를 상대로 낸 1억원대 손해배상 청구 소송에서 최종 패소했다.&lt;br&gt;&lt;br&gt;이 사건은 이 전 대표가 2021년 11월 SNS에 자신이 변론했던 조카의 살인 사건을 ‘데이트 폭력 중범죄’라고 지칭한 것이 발단이다. 이 전 대표는 “제 일가 중 일인(한 명)이 과거 데이트 폭력 중범죄를 저질렀는데 그 가족이 변호사를 선임할 형편이 못 돼 제가 변론을 맡을 수밖에 없었다”고 적었다.&lt;br&gt;&lt;br&gt;이 전 대표의 조카 김모씨는 지난 2006년 5월 만나던 여성이 헤어지자고 하자 서울 강동구에 있는 집에 찾아가 미리 준비한 흉기로 상대방과 모친을 살해했다. 이 전 대표는 당시 김씨의 형사 재판 1·2심 변호를 맡았다. 이 사건이 지난 대선 국면에서 다시 불거지자, 이 전 대표가 ‘데이트 폭력’이라면서 해명한 것이다.&lt;br&gt;&lt;br&gt;이에 피해자 유족들은 “살인 범행을 데이트 폭력이라고 지칭해 정신적 고통을 받았다”며 1억원을 청구하는 손해배상 소송을 냈다. 이 전 대표는 유족의 주장을 부인했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C2QSTO56EZBOJJQON3FNLSS6WU.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 2월 이재명 당시 더불어민주당 대선 후보가 '조카 살인 사건 손해배상 소송' 1심 법원에 제출한 답변서 일부./이병철 변호사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 1심 법원은 “데이트 폭력이라는 용어는 가해자와 피해자의 관계 특성을 근거로 해 범죄유형을 구분하는 용어”라며 “게시글의 전체 내용과 취지를 비춰 보면 조카 범행으로 인한 피해를 축소, 왜곡해 허위 사실을 적시했다고 보기 어렵다”며 기각했다.&lt;br&gt;&lt;br&gt;2심은 같은 판단을 내렸고, 대법원 2부(주심 신숙희 대법관)도 11일 심리불속행으로 상고를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내년 최저임금 1만원 넘었다… 1만30원으로 결정</title>
-      <link>https://www.chosun.com/national/labor/2024/07/12/ASUPE4KCXBHIPPV6EFVNMEDSSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/07/12/ASUPE4KCXBHIPPV6EFVNMEDSSM/</guid>
-      <dc:creator>김윤주 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Jul 2024 17:43:23 +0000</pubDate>
-      <content:encoded>내년 최저임금이 올해(9860원)보다 1.7% 오른 시간당 1만30원으로 결정됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7BAOHLMS5MN3D5JLBYLPXCPOU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;12일 세종시 정부세종청사 최저임금위원회에서 열린 제11차 전원회의에서 내년 최저임금이 1만30원으로 의결됐다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 최저임금위원회는 11차 전체 회의에서 표결 결과 내년 최저임금이 시간당 1만30원으로 결정됐다고 밝혔다. 근로자위원이 제시한 1만120원(전년 대비 2.6% 인상)과 사용자위원이 제시한 1만30원(전년 대비 1.7% 인상) 두 가지 안 중 근로자위원안이 9표, 사용자위원안이 14표를 받아 사용자위원안으로 의결됐다. 최저임금위원회는 근로자·사용자·공익위원 각 9명으로 이뤄지나, 투표 과정에서 민주노총 측 근로자위원 4명이 공익위원이 제시한 심의 촉진구간에 반발하며 투표에 불참하면서 23명만 참여했다.&lt;br&gt;&lt;br&gt;최저임금이 1만원대를 기록하는 것은 1988년 최저임금 제도 도입 이후 37년 만이다.&lt;br&gt;&lt;br&gt;최저임금은 근로자 1명 이상 모든 사업장에 대해 근로기준법상 정규직·비정규직과 파트타임·아르바이트, 청소년 근로자, 외국인 근로자 등에게 모두 적용된다. 최저임금은 매년 근로자·사용자·공익위원 9명씩 27명으로 구성된 법정 심의기구인 최저임금위원회에서 심의·의결한다. 노사 양측이 최초 제시안을 낸 뒤 양측이 서로 격차를 좁히는 방식으로 진행된다.&lt;br&gt;&lt;br&gt;지난 9일 최초 요구안으로 근로자위원 측은 1만2600원(27.8% 인상)을, 사용자위원 측은 동결을 제시했다.&lt;br&gt;&lt;br&gt;이후 양측은 네 차례 수정안을 내며 간극을 좁혀 왔다.&lt;br&gt;&lt;br&gt;12일 오전 1시쯤 공익위원 측이 심의촉진구간으로 1만~1만290원을 제시했고, 이 구간 내에서 양측이 5차 수정안을 내 표결을 진행했다.&lt;br&gt;&lt;br&gt;표결에서 사용자위원이 제시한 시간급 1만30원이 의결되면서 내년 최저임금이 결정됐다. 최저임금은 지난 정부 초기인 2018년 16.4%, 2019년 10.9%로 2년 연속 10% 이상 올랐고, 이어 2020년 2.87%, 2021년 1.5%, 2022년 5.05%, 2023년 5%, 2024년 2.5%가 올랐다.&lt;br&gt;&lt;br&gt;내년 최저임금 인상률 1.7%는 지난 2021년 1.5%에 이어 역대 두 번째로 작다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>의대 본과 4학년 96%가 “국시 거부”... 내년 의사 배출 비상</title>
