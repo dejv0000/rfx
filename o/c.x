@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>옆방 투숙객이 마스터키로 문 벌컥… 호텔 측은 ‘나몰라라’</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/13/TDPBSZBIDVD5ZA6VTAQZXOKXIU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/13/TDPBSZBIDVD5ZA6VTAQZXOKXIU/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Jul 2024 03:51:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WIOASP6MANHMBENNQMR45SSYCI.png"&gt;&lt;figcaption&gt;&lt;small&gt;네티즌 A씨는 지난 4월 14일 아내와 함께 인천의 한 호텔에 투숙했다가 낯선 남자가 객실에 무단 침입하는 황당한 일을 겪었다. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 호텔에서 무단 침입 사건을 겪었지만 호텔 측이 책임을 회피하고 있다는 부부의 주장이 나왔다. 옆방 투숙객이던 남성이 객실 문이 열리지 않자 호텔로부터 마스터키를 받았는데, 방을 착각해 부부의 객실에 들어온 황당한 일이 벌어졌다는 주장이다.&lt;br&gt;&lt;br&gt;12일 온라인 커뮤니티 ‘보배드림’에 따르면, 네티즌 A씨는 지난 4월 14일 아내와 함께 인천 중구의 한 호텔에 투숙했다. 당일 오전 7시 30분경, 누군가 객실 문을 열고 들어온 소리에 눈을 뜬 A씨는 처음 보는 남성 B씨가 서 있는 것을 보고 깜짝 놀랐다. B씨는 “문이 열리기에 들어왔다”고 말한 뒤 돌아나갔다. 당시 A씨와 아내는 알몸 상태였는데, 특이 아내는 놀란 마음에 수치심까지 느껴 벌벌 떨었다고 한다.&lt;br&gt;&lt;br&gt;A씨는 즉시 로비로 내려가 호텔 관계자에게 강하게 항의했지만 호텔 측은 미온적인 태도로 일관하며 법적으로 항의하라고 응대했다는 게 A씨의 주장이다. A씨는 증거 확보를 위해 경찰 입회 하에 해당 층의 방범카메라 확인을 요청했고, 확인 결과 옆방 투숙객이었던 B씨가 마스터기로 A씨의 객실로 들어와 약 7초간 머물다 나간 것으로 파악됐다. A씨는 “정말 어처구니 없는 상황에 말문이 막혔다”며 “일반 투숙객이 마스터키를 가지고 있었던 이유가 뭘까. 생각만 해도 소름이 끼치고 무섭다는 생각마저 든다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 이를 경찰에 신고했다. 경찰 조사 결과, 호텔 안내데스크에서 B씨에게 마스터키를 줬으며 B씨가 객실을 착각해 A씨의 객실로 들어간 것으로 확인됐다. 당시 B씨는 객실 문이 열리지 않아 프론트에 문의했는데, 직원이 바쁘다는 이유로 B씨에게 마스터키를 건넸다고 한다. 따라서 B씨의 주거침입 혐의가 성립되지 않아 사건은 그대로 종결됐다. 호텔 관계자는 당시 사과와 함께 정신적 피해 보상을 약속했으나 현재 연락을 회피하고 있다고 A씨는 주장했다.&lt;br&gt;&lt;br&gt;A씨의 아내는 이 사건으로 정신적 충격을 받아 장기간 정신건강의학과 치료를 받고 있다고 한다. A씨는 “그날 빚어진 사건으로 인한 정신적 충격은 정말 오래간다”며 “형사로 안된다면 민사를 통해서라도 호텔 측에 항의하려 한다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 네티즌들은 “B씨 고의성이 인정되지 않아 무혐의가 나온 듯 하다” “마스터키는 호텔 관계자 외엔 손댈 수 없는 게 원칙” “호텔 측에서 마스터키 관리를 잘못한 건데 기본적으로 사과와 피해보상을 해줘야 하는 거 아닌가” “병원 다니셨으니 진단서 있을 것이고, 그로 인한 피해보상 근거가 충분하다. 민사 소송 진행하라” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;투숙객 동의 없이 무단으로 객실에 들어갈 경우 ‘주거침입’으로 처벌을 받을 수 있다. 형법 제319조에 따르면 사람의 주거, 관리하는 건조물, 선박이나 항공기 또는 점유하는 방실에 침입한 자는 3년 이하의 징역 또는 500만원 이하의 벌금에 처할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>양주 태권도장 5세아 심정지 …관장이 CCTV 영상 삭제 정황 </title>
       <link>https://www.chosun.com/national/incident/2024/07/13/46NU5O3GK5BPBDFHBGVBXNNFO4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/13/46NU5O3GK5BPBDFHBGVBXNNFO4/</guid>
@@ -909,15 +918,6 @@
       <description/>
       <pubDate>Thu, 11 Jul 2024 00:53:05 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/43ANZCM5WBEL7GAXXNEAUMTLAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제9대 후반기 원 구성을 마친 용인시의회 의장단, 상임위원장 등이 2일 현충탑을 찾아 헌화와 분향을 하고 있다. /용인시의회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 용인시의회 다수당인 더불어민주당이 의장 후보 내정을 위한 당내 경선 과정에서 의원들 사이에 명품 선물이 오갔다는 의혹이 제기돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;11일 경기 용인서부경찰서에 따르면 전날인 10일 뇌물공여 혐의를 받는 용인시의회 민주당 소속 A·B 의원의 자택과 사무실에 대한 압수수색을 진행했다.&lt;br&gt;&lt;br&gt;이들은 지난달 27일 실시된 민주당의 의장 후보 당내 경선을 앞두고 같은 당 소속 C 의원에게 지지를 호소하며 선물을 제공한 혐의를 받고 있다. 당시 전달된 선물 박스에는 외국 명품 기업의 로고가 있었으며, C의원은 열어보지 않고 돌려보낸 것으로 전해졌다.&lt;br&gt;&lt;br&gt;용인 지역 정가에 따르면 3선인 A의원은 민주당 의장 후보 경선에 출마하면서 B의원을 통해 동료 의원에게 로비를 했으며, C의원 뿐 아니라 더 많은 의원에게 선물을 전달했다는 의혹도 제기되고 있다. A의원은 당내 경선에서 8표를 득표, 9표를 얻은 유진선(3선) 의원에 한 표 차이로 밀려 의장 후보가 되지 못했다.&lt;br&gt;&lt;br&gt;용인시의회는 이달 1일 제9대 의회 후반기 의장에 유 의원을 선출했다. 유 의원은 무기명 투표에서 26표를 얻어 당선됐다. 용인시의회는 현원 31석에 민주당이 17석, 국민의힘이 14석을 보유하고 있다.&lt;br&gt;&lt;br&gt;경찰은 선물을 전달받고 반환한 C의원에 대한 참고인 조사를 마쳤으며, 압수물 분석을 마치는대로 A·B 의원 등에 대한 소환조사를 이어갈 방침이다.&lt;br&gt;&lt;br&gt;한편 금품 수수 파동과 관련해 민주당 경기도당은 11일 직권조사에 들어갔다. 경기도당은 “조사 결과 민주 질서를 위배하고 금품이 오간 것이 사실로 밝혀진다면 수사 결과와 상관없이 가장 강력한 응당의 책임을 묻겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국내 불법 체류하다 출국한 외국인, 상반기만 4만4000명...역대 최다</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/12/PETXBY6F5VBWVDE5CWLFDDYSYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/12/PETXBY6F5VBWVDE5CWLFDDYSYI/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 02:07:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QWY5O4VJ7BFKRPS7UKRXQ554QU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 상반기(1~6월) 국내 ‘불법 체류자’ 중 4만 4247명이 출국한 것으로 나타났다. 법무부가 2000년대 불법체류 외국인을 본격적으로 단속한 이후로 역대 가장 많은 숫자다.&lt;br&gt;&lt;br&gt;법무부는 올해 상반기 국내 불법체류자 2만3724명을 적발해 강제 출국 조치했다고 12일 밝혔다. 불법 체류자 2만 523명은 자진 신고를 하고 출국했다. 강제 출국당하면 입국금지 조치가 돼 앞으로 입국할 수 없지만, 자진 신고를 하면 범칙금이 부과될 뿐 입국금지가 되지는 않는다. 법무부 관계자는 “단속 기조가 거세지자 자진해서 신고하고 출국하는 불법 체류자가 늘어나는 것”이라고 했다.&lt;br&gt;&lt;br&gt;불법체류자에 대한 정부합동단속(4월 15일~6월 30일) 결과, 불법 체류자들은 주로 유흥업소에서 적발됐다. 광주광역시 광산구의 외국인 전용 클럽에서 불법체류자 61명이 적발돼 강제 출국 조치됐다. 경기 수원 외국인 전용 유흥업소에서는 불법체류자 13명이 적발됐는데, 이 중 4명은 마약 양성반응이 나와 경찰 조사를 받고 있다. 법무부 관계자는 “마약·도박 사범, 대포차 유통 등 범죄 관련 사범도 여럿 있다”고 했다.&lt;br&gt;&lt;br&gt;건설현장에도 불법 체류자가 다수 있었다. 경기 시흥시 한 아파트 건설현장에서 일한 일용직근로자 37명이 불법 체류자로 확인돼 전원 출국 조치됐다.&lt;br&gt;&lt;br&gt;국내 불법체류자는 작년 43만명이었다가 올해 41만명 수준으로 떨어졌다. 올해 6월 기준 국내 불법체류자는 41만6000명이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>'조카 살인 사건' 유족, 이재명 상대 손배소 최종 패소</title>
