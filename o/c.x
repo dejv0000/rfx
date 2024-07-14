@@ -13,6 +13,152 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 文정부 때 댐 중단 안 했다면 충청권 올여름 수해 막았다</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/07/15/UO33EDZQKJBRLELIUQ6NF7G2VQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/15/UO33EDZQKJBRLELIUQ6NF7G2VQ/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Jul 2024 20:13:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IVZAKYIOLVO65LIFMQQGYLJHTQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;밤 사이 집중호우로 인해 충청을 비롯한 남부지방에 침수 피해가 발생한 지난 10일 서울 서초구 한강홍수통제소 상황실에서 직원들이 AI홍수예보시스템을 통해 충청과 경북 지방에 대한 홍수위험 감지 실시간 모니터링을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;댐 건설이 추진됐지만 환경 단체와 주민 반대로 무산된 지역에서 올여름 큰 홍수가 발생한 것으로 나타났다. 제때 댐을 지었다면 물난리를 막을 수 있었다는 지적이 나온다.&lt;br&gt;&lt;br&gt;14일 환경부에 따르면, 최근 폭우가 내려 물난리가 발생한 충청 지역에는 과거 상촌댐과 지천댐 등 댐 2개 건설이 예정됐었다. 해당 댐들은 2012년 이명박 정부의 ‘댐 건설 장기 계획’에 따라 추진됐다가 2018년 문재인 정부의 ‘국가 주도 댐 건설 중단’ 발표 등을 계기로 건설이 무산됐다.&lt;br&gt;&lt;br&gt;상촌댐은 충북 영동군 초강천 부근에 지어질 예정이었다. 총 저수량은 1900만t, 홍수조절량은 300만t으로 계획됐다. 그러나 ‘4대강 사업’ 이후 대규모 토목 사업을 반대했던 전임 정부는 상촌댐을 포함해 장기적으로 계획했던 댐 건설을 모두 중단했다. 환경 단체 등이 반대한 것도 한 이유였다. 충청권에 장마가 시작된 지난달 23일부터 현재까지 영동군에는 428.5㎜의 비가 내렸다. 충청권 평년 장마 기간 전체 강수량(360.7㎜) 보다 많은 양이다. 특히 지난 6~10일 충청권을 강타한 장마전선의 영향으로 5시간 동안 120㎜의 집중호우가 퍼부으면서 하천이 범람해 1명이 실종되고, 경부선 영동선 기차 운행이 중단되기도 했다. 예정대로 상촌댐이 지어졌다면 상류에서 지방 하천으로 내려가는 물을 잡아둘 수 있어 피해를 최소화했을 것이라는 분석이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLJWAYIKQ5FORABVE3EGYCCQH4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김의균&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 청양에 계획됐다가 무산된 ‘지천댐’ 일대에도 올해 홍수가 발생했다. 지천댐은 총 저수량 2100만t, 홍수조절량 400만t으로 계획됐다. 8~9일 밤 사이 시간당 100㎜가 넘는 집중호우가 쏟아지면서 저수지 제방이 붕괴되고 주택 5채가 침수된 충남 부여도 지천댐의 영향권이다. 부여는 2021년부터 올해까지 3년 연속 물난리가 났다. 만약 지천댐이 예정대로 건설됐다면 지천 수위를 낮추고 제방 붕괴를 막을 수 있었다고 전문가들은 말한다.&lt;br&gt;&lt;br&gt;2020년 이후 큰 물난리가 올해까지 세 차례나 발생했다. 환경부는 작년 홍수를 계기로 10개 안팎의 신규 댐 건설과 리모델링을 추진한다는 입장이지만, 아직 대상 지역은 발표하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] “전공의, 빅5 병원부터”… 권역 제한 않기로</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/07/15/OV7OH3BLZNCAHMM34SJ2MADQLA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/15/OV7OH3BLZNCAHMM34SJ2MADQLA/</guid>
+      <dc:creator>오경묵 기자, 정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Jul 2024 20:10:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S2N2LSF6E5LG7IG6M3FO2GANIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부가 각 수련병원에 제시한 전공의 복귀 데드라인을 하루 앞둔 14일 서울의 한 대학병원에서 의료진이 이동하고 있다. 이달 11일 기준 전체 수련병원 211곳의 레지던트 사직률은 0.66%(1만506명 중 69명)에 그쳤다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 오는 9월부터 수련을 시작하는 하반기 전공의 모집 때 지방의 사직 전공의들이 서울 빅5(주요 5대) 병원 등에 지원할 수 있도록 이른바 ‘권역 제한’은 하지 않기로 방침을 정한 것으로 14일 확인됐다.&lt;br&gt;&lt;br&gt;앞서 정부는 지난 8일 수련병원장들에게 “7월 15일까지 미복귀 전공의 사직 처리를 완료해달라”고 요청했다. 그러면서 사직 후 올 하반기에 복귀하는 전공의의 경우 ‘1년 내 같은 과·연차로는 복귀할 수 없다’는 기존 규정을 적용하지 않겠다고 했다. 9월부터 바로 다른 병원에서 같은 과·연차로 수련을 이어갈 수 있도록 하겠다는 취지다. 이에 수련병원장들이 “지방 병원 전공의들이 수도권으로 빠져나가면 지역 의료에 더 큰 공백이 생길 수 있다”며 기존 수련병원과 같은 권역에만 지원할 수 있도록 하는 ‘권역 제한’을 요청했다. 하지만 정부가 이를 받아들이지 않기로 한 것이다.&lt;br&gt;&lt;br&gt;정부 관계자는 “15일까지 수련병원별 전공의 결원을 확인해야겠지만, 현재로선 권역 제한을 생각하지 않고 있다”고 했다. 정부가 지방 의료 공백 우려에도 이런 방침을 정한 것은 올 하반기 전공의 복귀율을 최대한 끌어올리고 전공의 이탈로 가장 큰 타격을 받은 빅5 병원 의료 공백을 최소화하기 위해서다.&lt;br&gt;&lt;br&gt;빅5 전공의 충원율은 향후 의료대란의 향배를 가를 핵심 요소다. 빅5 병원은 심·뇌혈관과 암 환자 등 중증·응급 치료를 전담하고 있다. 빅5는 전공의 비율이 최고 40%로 다른 병원에 비해 높은데, 전공의 이탈로 수술·입원율이 절반 수준으로 감소했다. 빅5 전공의 빈자리부터 채워지면 일단 가장 급한 불은 끌 수 있다는 것이 정부 판단이다. 반대로 빅5 전공의 충원율이 낮으면 의료대란 장기화가 불가피하다.&lt;br&gt;&lt;br&gt;정부가 제시한 전공의 복귀 데드라인은 7월 15일이다. 수련병원 대부분은 지난주 전공의들에게 15일까지 거취를 결정해달라고 공지했지만, 대다수 전공의는 아직 묵묵부답이다. 이달 11일 기준 전체 수련병원 211곳의 레지던트 사직률은 0.66%에 그쳤다. 빅5 병원 한 관계자는 “데드라인 당일(15일)까진 지켜봐야겠지만, 현재까지 뚜렷한 복귀 움직임은 없다”고 했다. 다만 일각에선 빅5 인기과 위주로 일부 전공의가 복귀할 것이란 전망도 나온다. 빅5 등 주요 수련병원들은 15일까지 복귀하지 않거나 사직·복귀 여부 응답을 하지 않은 전공의들은 복귀 의사가 없는 것으로 간주하고 일괄 사직 처리할 것으로 보인다.&lt;br&gt;&lt;br&gt;빅5 등 주요 병원은 6월부로 전공의 사직서를 처리하기로 가닥을 잡은 상태다. 이런 상황에서 서울의대·서울대병원 교수협 비대위는 전공의 복귀·사직 데드라인인 15일 ‘조규홍 보건복지부 장관께 드리는 의견’을 주제로 기자회견을 연다. ‘6월 전공의 사직 처리’가 부당하다고 주장하면서 정부에 사태 해결을 촉구하는 내용이 담길 것으로 보인다. 삼성서울병원은 사직서 수리 시점을 ‘6월 4일 이후 본인이 희망하는 퇴직 일자’로 하되, 인턴과 1년 차 신규 전공의는 2월 29일 자로 수리하는 방안을 검토 중이다.&lt;br&gt;&lt;br&gt;이런 가운데 16개 시·도 의사회 회장들은 13일 비공개 회의를 갖고 범의료계 협의체인 ‘올바른 의료를 위한 특별위원회’(올특위)의 해체를 권고했다. 올특위에 전공의·의대생이 빠지면서 유명무실해졌다는 이유다. 이에 의협 측은 “올특위 관련 사안은 내부 논의를 거쳐 15일 발표할 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주·남부 오늘부터 장맛비… 중부는 찜통</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/07/15/SB4DIJPTTFEURGARPZI5XEBEEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/15/SB4DIJPTTFEURGARPZI5XEBEEU/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Jul 2024 16:15:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JOQQZOXKONLMVFGSSZY6QSM4IA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 12일 오후 부산 해운대구 일대에 해무가 짙게 껴 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장마전선(정체전선)이 북상하면서 15일 남부지방과 제주도를 중심으로 거센 장맛비가 내리겠다고 기상청이 14일 밝혔다. 중부지방은 찜통더위가 지속되겠고, 천둥·번개를 동반한 소나기가 간간이 내리겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 15일 예상 강수량은 강원 영동 5~20㎜, 남부지방·제주도 50~100㎜, 수도권·강원도·충청권 5~40㎜다. 지난 10일부터 폭염특보가 발효된 중부지방은 15일 최고 체감온도가 33도 이상으로 오르는 등 폭염특보가 이어질 전망이다. 장맛비가 내리는 지역에서도 비가 소강상태를 보일 때 기온이 가파르게 오르며 무더위가 나타나겠다. 15일 아침 최저기온은 20~24도, 낮 최고기온은 23~31도로 예보됐다.&lt;br&gt;&lt;br&gt;16일엔 전국에 장맛비가 내리겠다. 제주도는 낮, 전라권과 경남권은 늦은 오후, 경북권은 저녁에 비가 대부분 그치겠으나, 중부지방은 17일까지 비가 이어질 것으로 보인다. 16일 예상 강수량은 전국에서 10~40㎜ 수준이다. 제주도엔 5~30㎜가 내리겠다. 18일에는 새로운 장마전선이 발생해 전국에 다시 비가 내리겠다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국제선 美·日 탑승객 수, 코로나 전 뛰어넘어</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/07/15/VRGDVUKGHZETNNZPIPNEPLZQ24/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/15/VRGDVUKGHZETNNZPIPNEPLZQ24/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Jul 2024 16:15:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEBQPZ7LOVJDPNNGKBYVPMURBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8일 인천국제공항에 이륙하는 대한항공 뒤로 LCC 여객기가 주기되어 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올 상반기 우리나라에서 일본과 미국편 국제선에 오른 승객이 역대 최다를 기록한 것으로 나타났다. 전체 국제선 탑승객도 코로나 팬데믹 이전인 2019년 수준에 육박한 것으로 집계됐다.&lt;br&gt;&lt;br&gt;14일 국토교통부 항공 통계에 따르면, 올 1~6월 국적 항공사와 외항사의 국제선 항공편을 이용한 승객은 총 4277만여 명(출발·도착 합산)으로, 작년 같은 기간(2950만명) 대비 45% 증가한 것으로 나타났다. 전체 국제선 승객 수는 2019년 상반기(4556만명)에 못 미쳤지만 일부 지역은 오히려 더 많았다.&lt;br&gt;&lt;br&gt;승객이 가장 많이 증가한 국가는 일본이었다. 올 상반기 1217만명이 오가며 2019년 상반기(1122만명)보다 100만명 가까이 늘었다. 관련 집계를 시작한 2005년 이후 역대 최다를 기록했다. 작년 상반기(846만명)보다는 40% 이상 늘었다. 엔저 현상으로 일본을 찾는 관광객이 급증하고, 이에 맞춰 항공사들이 비행편을 늘렸기 때문으로 풀이된다. 올 상반기 일본 노선 항공편은 6만5900편으로 작년 상반기보다 35.7% 늘었다.&lt;br&gt;&lt;br&gt;미국 노선 역시 264만명이 이용해 상반기 기준 역대 최다를 기록했다. 2019년 같은 기간(227만명)보다 15.5% 증가한 것이다. 출장·관광 수요가 늘고 인천공항을 거친 아시아 환승객이 증가한 데 따른 것으로 파악된다. 베트남은 2019년 465만명에서 올해 527만명, 싱가포르는 76만명에서 111만명으로 팬데믹 이전보다 승객이 늘어났다. 베트남·싱가포르에 대한 관광 수요뿐 아니라 사업차 방문하는 경우도 증가했기 때문으로 항공업계는 보고 있다.&lt;br&gt;&lt;br&gt;반면 중국과 유럽 노선 승객 수는 5년 전에 미치지 못했다. 중국 노선의 경우 올해 상반기 627만명이 이용해 지난해 상반기보다는 3배 이상으로 늘었지만, 2019년 상반기(875만명)의 71.7% 수준에 그쳤다. 중국의 경기 부진이 이어지면서 한국을 찾는 중국 여행객의 회복세가 여전히 더딘 점이 원인으로 꼽힌다.&lt;br&gt;&lt;br&gt;유럽 노선 이용객도 217만명으로, 2019년의 70.7% 수준이었다. 유럽에 포함된 러시아 노선의 운항이 지난 2022년 2월 러시아·우크라이나 전쟁 발발 이후 대부분 중단된 영향이 큰 것으로 분석된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>복날, 개고기 떠난 자리 염소 고기가 채웠다</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/15/AIB5BQV64FAXVG4TFVIYIOPGRE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/15/AIB5BQV64FAXVG4TFVIYIOPGRE/</guid>
+      <dc:creator>김도연 기자, 강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Jul 2024 16:12:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YJX5SGCL65AMTE25L45QU26OIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대목인데… 텅 빈 보신탕 골목 - 지난 12일 오후 서울 동대문구 경동시장의 보신탕 골목. 무더위에도 한산한 모습이다. /강지은 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초복을 사흘 앞둔 지난 12일 점심 시간. ‘보신탕 거리’로 유명한 서울 동대문구 경동시장의 한 가게엔 손님이 3명뿐이었다. 45년 동안 보신탕집을 운영해왔다는 윤모(73)씨는 “개 식용 금지법의 위력을 실감한다”고 했다. 지난 1월 국회에서 통과된 이 법률은 식용 목적으로 개를 사육·도살·유통·판매하는 행위를 금지한다. 처벌은 2027년까지 유예되지만 윤씨는 “3년 시한부 인생이나 다름없다”고 했다.&lt;br&gt;&lt;br&gt;개고기 도매점을 운영 중인 A씨는 담배를 피우며 유튜브를 보고 있었다. A씨는 “복날이나 다른 날이나 사람이 없기는 매한가지”라고 했다. 청량리역 인근에서 50년 넘게 보신탕집을 해온 배모(75)씨도 “예전 복날엔 직원을 5명까지 고용했는데 올 복날은 집사람과 나 둘이서도 일손이 남을지도 모르겠다”고 했다.&lt;br&gt;&lt;br&gt;하지만 ‘개고기 마니아’들이 복날 보양(保養)을 완전히 포기한 것은 아니다. 개고기가 떠난 자리를 염소 고기가 채웠다. 14일 오후 2시. 서울 강남구의 한 염소 전문점에서 점심을 먹은 손님들이 “잘 먹고 갑니다”라며 배를 툭툭 쳤다. 30개가량 식탁은 손님들이 비우고 간 그릇으로 가득했다. 이정교(76·경기 김포)씨는 “옛날엔 개고기를 더 즐겼는데 금지법도 통과됐고 사회적 인식도 변했으니 먹기가 좀 그렇다”며 “염소 고기도 담백하고 기력 보충에도 좋아 자주 먹으러 다닌다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YGVGK2ISLZH25NNAGHDNSTWEWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구 한 염소 고깃집의 염소탕. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;염소 고기 업주들은 개고기 금지법 통과에 따른 반사이익을 톡톡히 누리고 있다. 11년째 이 염소 고기집을 운영해온 신동수(57)씨는 “한 달 전부터 복날 예약 문의가 몰려와 다 마감했다”고 했다. 과거 복날에도 예약하는 손님이 거의 없었던 것과는 다른 풍경이다. 신씨는 “개고기를 먹지 말라니 염소 고기를 먹으러 왔다는 손님이 많다”며 “개고기 특유의 식감과 감칠맛이 유사하다는 평가가 많다”고 했다. 서울 영등포구에서 30년 넘게 흑염소 전문점을 운영 중인 성모(66)씨 역시 “보신탕과 염소탕은 레시피도 거의 같다”며 “개고기를 즐겨 먹던 손님들이 대거 유입되고 있다”고 했다.&lt;br&gt;&lt;br&gt;농림축산식품부 통계를 보면, 국내 사육 염소 숫자는 2010년 24만마리에서 2022년 43만마리까지 늘었다. 호주에서 수입되는 염소 고기도 2019년 1250t에서 2023년 5995t으로 증가했다. 호주축산공사는 ‘한국의 개고기 금지’를 자국 염소 고기 수출의 호기로 판단한다는 보고서까지 냈다. 정부 관계자는 “개고기 금지 논란이 뜨거워지면서 기존 개고기 업자들도 염소로 상당수 갈아탔다”고 했다.&lt;br&gt;&lt;br&gt;정부는 다음 달까지 전국 5625곳의 개 사육 농장과 음식점 등의 폐업 계획서를 받겠다는 방침이다. 하지만 개고기 업계 일각에선 “5년에 걸쳐 마리당 200만원을 보상해야 한다”고 주장하고 있어 폐업 지원에만 수조원가량의 국민 세금이 들어갈 수도 있다는 전망도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>4살 혼수상태 만든 태권도 관장 구속</title>
+      <link>https://www.chosun.com/national/incident/2024/07/15/LJD47LIJHBDWRNVKEVNRN573WE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/15/LJD47LIJHBDWRNVKEVNRN573WE/</guid>
+      <dc:creator>양주=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Jul 2024 16:10:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PRP4ZY2HNZJABL2C25KKLW7JRA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;자신이 운영하는 태권도장에서 5살 남자아이를 심정지 상태로 빠뜨린 관장이 14일 오후 경기 의정부지방법원에서 열리는 구속 전 피의자 심문(영장실질심사)을 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 양주의 한 태권도장에서 4세 남자아이를 혼수상태에 빠트린 30대 관장이 14일 구속됐다. 의정부지법은 이날 “증거인멸과 도주의 우려가 있다”며 관장 A씨에 대한 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;경기북부경찰청 등에 따르면, 사건은 지난 12일 오후 7시 20분쯤 양주시 덕계동의 한 태권도장에서 발생했다. A씨는 유아부 수업 도중 돌돌 말아서 세워 놓은 매트 안에 B군을 거꾸로 넣은 채 10분 이상 방치한 혐의를 받고 있다. A씨는 B군이 숨을 쉬지 않자 같은 건물 아래층에 있는 이비인후과 의원으로 데리고 갔고 이 의원 의사가 심폐소생술을 실시하며 119에 신고한 것으로 파악됐다. 의정부의 종합병원으로 옮겨진 B군은 이날까지도 의식을 회복하지 못하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 현장에 있던 목격자 진술 등을 통해 A씨가 B군을 학대한 정황을 확인하고 A씨를 긴급체포했다. 경찰은 또 A씨가 B군을 의원에 옮긴 이후 자신의 범행 장면이 담긴 태권도장 방범카메라 영상을 삭제한 정황도 파악했다. A씨는 “장난으로 그랬다”며 아동 학대 혐의를 부인하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 이전에도 A씨가 B군을 학대한 정황이 있다는 목격자 진술을 토대로 수사를 이어가고 있다. 다만 A씨에게 아동 학대 전과는 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;온라인 학부모 커뮤니티에는 불안하다는 글이 잇따라 올라오고 있다. ‘아이 부모가 어쩔 수 없이 맡겼을 텐데 안타깝다’ ‘아이가 얼른 깨어나길 바란다’ ‘아이를 믿고 맡길 곳이 없다’ 등의 반응이 쏟아졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 전략(戰略)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/15/YGHE6QPG3NAN3PCTTVAHO5FLFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/15/YGHE6QPG3NAN3PCTTVAHO5FLFM/</guid>
+      <description/>
+      <pubDate>Sun, 14 Jul 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6RVXDB3F2NBWZH7AVCDFJKXCVU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디] 해가 갈수록, 해마다</title>
+      <link>https://www.chosun.com/national/nie/chinese/2024/07/15/CC64B6Y7YZBEVN5XDKDA2DGSNM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/07/15/CC64B6Y7YZBEVN5XDKDA2DGSNM/</guid>
+      <description/>
+      <pubDate>Sun, 14 Jul 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXUFWJFVIRD5RCV7FQUOPLRGXM.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] be eager to</title>
+      <link>https://www.chosun.com/national/nie/english/2024/07/15/TEVEED55LNHNFEC4O2SE3FDWEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/07/15/TEVEED55LNHNFEC4O2SE3FDWEQ/</guid>
+      <description/>
+      <pubDate>Sun, 14 Jul 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NGAYLZPBKNCK3CGFHJ6KQSTL4E.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[입에 착착 붙는 일본어] 말끝을 흐리다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2024/07/15/4326M4LJCRDIBF3T7NF755PV2A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/07/15/4326M4LJCRDIBF3T7NF755PV2A/</guid>
+      <description/>
+      <pubDate>Sun, 14 Jul 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TZ4GBJZKLJBDLGSOJ2CSRQMR4Q.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2420] 신문은 스케치북</title>
+      <link>https://www.chosun.com/national/nie/2024/07/15/X3NDV27JYZH5VMVOSVTD6KT7NA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/15/X3NDV27JYZH5VMVOSVTD6KT7NA/</guid>
+      <description/>
+      <pubDate>Sun, 14 Jul 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4IL7L6AWJBY5OPY4RUJ7FMP7Q.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [클래식 따라잡기] 19세기 사라졌던 악기 되살려 다채로운 음악 들려줘요</title>
+      <link>https://www.chosun.com/national/nie/2024/07/15/4ZWP533OCZCXRJFCCBAQ6UM22Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/15/4ZWP533OCZCXRJFCCBAQ6UM22Y/</guid>
+      <dc:creator>김성현 문화전문기자, 기획·구성=오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Jul 2024 15:36:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A4UJEP6EXZFIHBWOMYH77WBK5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;프랑스의 바로크 명문 악단인 ‘루브르의 음악가들’이 지난달 내한 공연에서 모차르트의 협주곡과 교향곡을 옛 악기들로 들려주었어요. /아트센터인천&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;바흐와 헨델 같은 바로크 작곡가들의 작품을 연주하는 음악회에 가면 간혹 낯선 악기들을 볼 수 있습니다. 피아노의 전신(前身)에 해당하는 하프시코드나 학교 음악 시간에 배웠던 리코더를 연주하고요. 기타를 닮은 옛 악기인 류트와 테오르보가 무대에 등장하기도 하지요. 이처럼 시간을 거슬러 올라가서 작곡가가 활동했던 바로크 시대 악기와 연주법을 되살리는 방식을 ‘시대 악기(period instrument)’나 ‘시대 연주’라고 부릅니다. 고음악이나 원전 연주, 당대 연주나 ‘역사적 사실에 기반한 연주’라고도 하지요. 명칭은 다소 복잡하지만 시간 여행을 떠나는 듯한 묘미가 있지요.&lt;br&gt;&lt;br&gt;지난달에도 프랑스 지휘자 마르크 민코프스키와 고음악 전문 연주 단체인 ‘루브르의 음악가들(Les Musiciens du Louvre)’이 내한해서 모차르트의 교향곡·협주곡들을 시대 악기로 연주했어요. 올가을에도 영국 지휘자 존 엘리엇 가드너가 자신이 창단한 ‘혁명과 낭만 오케스트라’와 함께 방한해서 베토벤 교향곡 전곡(9곡)을 시대 연주 방식으로 들려줄 예정입니다. 고음악 열풍이 한국에도 불어닥친 셈입니다. 과연 시대 악기는 오늘날 어떻게 부활한 것일까요.&lt;br&gt;&lt;br&gt;&lt;b&gt;시대의 흐름에 따라 변화하는 악기들&lt;/b&gt;&lt;br&gt;&lt;br&gt;악기도 시대의 흐름에 따라서 변합니다. 예전에 있었던 악기들이 퇴장하고 새로운 악기들이 등장하기도 하지요. 같은 악기라고 해도 재질이나 연주법이 달라지는 경우도 적지 않습니다. 피아노가 대표적인 예입니다. 현대식 피아노는 건반을 누르면 악기 뚜껑 안에 있는 해머가 현을 때려서 소리를 내는 ‘타현(打絃) 악기’입니다. ‘피아노포르테(pianoforte)’의 줄임말인 피아노는 이름처럼 ‘여리게(piano)’부터 ‘강하게(forte)’까지 강약을 자유롭게 표현할 수 있지요. 이 때문에 화려하고 웅장한 소리를 내는 건반 악기의 대명사로 꼽혀요.&lt;br&gt;&lt;br&gt;하지만 바로크 시대까지만 해도 피아노는 하프시코드·쳄발로·클라브생 등으로 이름부터 달랐습니다. 하프시코드는 건반을 눌러서 소리를 내는 점은 같지만 기타의 피크를 닮은 장치가 현을 뜯어서 소리를 내는 ‘발현(撥絃) 악기’입니다. 강약 조절은 불가능하지만 찰랑거리는 듯한 우아한 음색을 내지요. 리코더도 지금은 값싼 플라스틱 재질의 ‘교육용 악기’로만 알려져 있지만, 바로크 시대까지만 해도 궁정에서 사랑받았던 목관 악기였습니다. ‘사계’로 유명한 비발디 역시 적잖은 리코더 협주곡을 남겼지요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EQMCFEHVORBY5FKHINMD75APWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인기 트럼펫 연주자 앨리슨 발솜이 현대식 밸브가 없는 바로크 시대의 트럼펫을 연주하고 있어요. /워너 클래식&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;악기 모양이나 재질이 달라진 경우도 있습니다. 오늘날과 달리 바로크 시대의 트럼펫이나 호른은 관의 길이를 조절해서 음높이를 바꾸는 장치인 밸브(valve)가 없어서 생김새부터 무척 투박했지요. 바이올린이나 첼로 같은 현악기들도 지금은 금속 현(絃)을 쓰지만 바로크 시대에는 양의 창자를 꼬아서 만든 거트(gut)현을 사용해서 훨씬 부드럽고 따뜻한 소리를 냅니다. 이렇듯 시대 악기는 음악의 역사학이자 고고학에 해당한다고 볼 수 있지요.&lt;br&gt;&lt;br&gt;유럽에서 악기들의 개량과 변화가 급속하게 일어난 건 19세기 무렵입니다. 이전까지는 주로 궁정이나 살롱, 교회나 성당에서 세속 음악과 종교 음악을 연주했지요. 하지만 산업 혁명과 시민 혁명이 일어나면서 사회적 신분이나 계층을 떠나서 시민들이 자유롭게 음악을 즐길 수 있는 공연장들이 속속 들어섰지요. 오스트리아 빈의 무지크페어아인(1870년), 네덜란드 암스테르담의 콘세르트헤바우(1888년) 등이 이 시기에 개관한 대표적인 공연장들입니다. 공연장 규모가 커지면서 더욱 큰 음량을 빠르고 손쉽게 낼 수 있도록 악기도 개량을 거듭했고, 오케스트라 규모도 오늘날처럼 최대 100여 명까지 커졌지요. 그 과정에서 안타깝게도 바로크 시대 작품이나 악기, 연주법들이 많이 사라지기도 했습니다. 바흐와 헨델의 작품들과 비발디의 ‘사계’ 같은 몇몇 인기곡을 제외하면 바로크 음악은 드문드문 연주되는 편이었지요.&lt;br&gt;&lt;br&gt;&lt;b&gt;이론과 실천이 결합한 시대 악기&lt;/b&gt;&lt;br&gt;&lt;br&gt;시대 악기의 부활은 대략 20세기 중반부터 본격적으로 일어난 현상입니다. 1950~1960년대부터 유럽 전역에서 구스타프 레온하르트와 니콜라우스 아르농쿠르, 크리스토퍼 호그우드와 트레버 피넉 같은 ‘고음악의 선구자’들이 속속 등장했어요. 특히 이들은 “악보와 문헌 연구, 악기 수집과 복원을 통해서 바로크 시대의 옛 악기와 연주 방식을 되살리자”고 목소리를 모았습니다. 현악이나 건반 악기들은 바로크 시대의 악기를 그대로 쓰기도 했지만, 대부분은 문헌과 도판을 보면서 예전 스타일로 다시 제작했지요. 박물관이나 역사책에만 존재하는 줄 알았던 악기들을 찾아내서 다시 만들고 연주법까지 익혀서 무대에서 직접 들려줬다는 점에서 ‘이론과 실천의 결합’이라고 볼 수 있지요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SO2J2OE5HRGHDJIALC3E2Z2OSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영국 고음악 연주 단체인 ‘잉글리시 콘서트’는 옛 건반 악기인 하프시코드(가운데) 등을 복원해서 연주하는 것으로 명성이 높지요. /잉글리시 콘서트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;처음에는 괴상한 악기들을 들고나와서 낯선 곡들을 연주하는 이들의 모습에 반발도 적지 않았어요. ‘이단’이나 ‘반골’이라고 노골적인 비난을 퍼붓기도 했습니다. 하지만 이들의 등장 이후에 클래식 음악계에도 적잖은 변화가 생겼습니다. 우선 모차르트·베토벤부터 쇼팽·라흐마니노프까지 고전·낭만주의 인기곡들을 쳇바퀴처럼 맴돌던 관행에서 벗어나서 연주 곡목이 급속하게 확대됐지요. 중세와 르네상스, 바로크 음악까지 무대에서 선사하는 ‘음악의 밥상’이 한층 풍성해진 것입니다.&lt;br&gt;&lt;br&gt;시대 악기도 가랑비에 옷 젖듯이 서서히 호응을 얻기 시작하더니 지금은 이들의 연주 방식이 시대적 트렌드로 부상했습니다. 가정 살림이 좋아지면 다채로운 별미를 찾게 되는 심리처럼, 음악에서도 다양성이 화두로 떠오른 것이지요. 녹음 기술과 음반 산업의 발전 덕분에 더 많은 곡을 더 쉽게 녹음할 수 있게 된 것도 ‘고음악 부활’의 원인으로 꼽힙니다. 최근에는 현대식 악기를 사용하면서도 시대 악기의 장점을 수용하는 연주 방식을 ‘절충주의’라고 부르기도 합니다. 21세기에는 클래식 음악계도 공존과 포용이 대세가 된 셈입니다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [재밌다, 이 책!] 이유없는 통증에 침대 밖 못 벗어나도 즐거움을 찾는 일 포기하지 않았죠</title>
+      <link>https://www.chosun.com/national/nie/2024/07/15/TN2SWTK2KNAWHE7X73JJ5ZG7AY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/15/TN2SWTK2KNAWHE7X73JJ5ZG7AY/</guid>
+      <dc:creator>김미향 출판평론가·수필가</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Jul 2024 15:36:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LVTGKHWZFJEF3BSWP3GPW4EBCY.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;천장의 무늬&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;이다울 지음 l 출판사 웨일북 l 가격 1만4000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;눈에 보이지 않는 만성적인 통증을 겪는 저자가 고통 속에서 희망과 위로를 찾는 이야기를 담고 있는 책이에요. 저자는 이 통증과 함께하는 삶을 기록했어요. 통증이 저자의 감정과 연애 관계, 노동, 학업, 취미 생활 등 일상에 어떻게 개입하고 있는지 말하고 싶었기 때문입니다.&lt;br&gt;&lt;br&gt;눈에 보이는 통증을 가진 이들에겐 함부로 그 통증에 대해 말하지 못해요. 하지만 겉으로 드러나지 않는 통증을 가진 이들에겐 “그래도 견뎌보라”거나 “요즘 다들 그렇다”며 별일 아닌 것으로 치부합니다. 이런 사회에선 아픔을 드러내고 말하는 일이 엄살이나 나약함으로 인식되곤 해요. 하지만 저자는 자신의 통증과 고통에 대해 말하는 것은 결코 엄살이 아니며, 오히려 솔직하게 털어놓는 것이 중요하다는 메시지를 전합니다. 숨기지 않고 표현해야 더 많은 이해와 공감을 얻을 수 있으니까요.&lt;br&gt;&lt;br&gt;저자는 어릴 적 활발하고 용감한 소녀였어요. 훌라후프 대회에서 당당하게 1등을 차지하고, 씨름판에서 자신보다 두 배나 몸집이 큰 상대를 넘기기도 했지요. 하지만 어느 날 갑자기 찾아온 통증은 모든 것을 바꾸어 놓았습니다. 양치를 할 때 턱이 벌어지지 않았어요. 이불을 털다가, 신발을 신다가, 병뚜껑을 열다가 온몸에 쥐가 나는 이상한 통증이 저자를 괴롭혔어요. 걸을 수도, 앉아 있을 수도 없는 상황에서 저자는 온갖 병원을 다니며 병명을 찾으려 했지만, 아무도 이 고통을 명확히 진단할 수 없었습니다.&lt;br&gt;&lt;br&gt;자신의 아픔을 설명할 수 없다는 사실은 저자에게 또 다른 고통으로 다가왔어요. 그때부터 저자는 기록하기 시작했습니다. 불안과 공포를 마주하며 글로 풀어낸 것이죠. ‘천장의 무늬’라는 이 책의 제목에는 저자가 통증으로 인해 누워 지낸 시간과 그때 느낀 불안이 오롯이 담겨 있습니다. 가만히 침대에 누워 천장을 보고 있으면 이러다 아무것도 아닌 사람이 되는 건 아닌지, 아무것도 못한 채 삶을 탕진하는 건 아닌지 하는 불안과 걱정이 찾아왔다고 해요. 하지만 저자는 우울과 비관에 빠지기보다 통증과 함께 하며 자신만의 삶의 방식으로 한 걸음씩 나아갑니다.&lt;br&gt;&lt;br&gt;“매일 많은 양의 콘텐츠를 게걸스레 감상하다 보니 어느새 그 농담들을 따라잡고 있었다. 뭐가 됐든 체력이 바닥나도 침대에 누워 웃을 수 있고 배울 수 있다는 사실이 그저 좋았다. 하지만 나는 침대에 누워 이런 생각을 한다. 더 많은 즐거움을 누릴 수는 없을까? 침대 위에서의 낭독회나 파티, 배달이 가능한 전시는 불가능한 것일까?” 이처럼 저자는 통증과 불안 속에서도 작은 즐거움을 발견하기 위한 노력과 고민을 포기하지 않습니다.&lt;br&gt;&lt;br&gt;이 책은 단순히 아픈 일상을 보여주는 것을 넘어, 자신의 약점을 인정하고 그것을 성장의 발판으로 삼는 과정을 보여줍니다. 신체·정서적으로 다양한 변화를 겪는 청소년 시기는 자신의 부족한 점들로 인해 불안과 공포를 느끼기 쉬운 때인데요. 이 책을 통해 저자처럼 불안을 마주하고, 불안 속에서도 희망을 찾으며 성장해가는 용기를 가질 수 있게 되길 바랍니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [식물 이야기] 정신 멍하게 만드는 꿀처럼 단 열매… ‘멍꿀’서 이름 변한 걸로 추정</title>
+      <link>https://www.chosun.com/national/nie/2024/07/15/6ZJZY44FYBCLZALRDIPHMJQRJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/15/6ZJZY44FYBCLZALRDIPHMJQRJ4/</guid>
+      <dc:creator>김용식 전 천리포수목원 원장·영남대 조경학과 명예교수</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Jul 2024 15:36:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RRFDD2MX2BFL3E65R5ZW62P2FE.png"&gt;&lt;figcaption&gt;&lt;small&gt;멀꿀 꽃. /국립생물자원관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;멀꿀은 추위를 견디는 능력이 약해요. 그래서 일본이나 중국 남쪽 지방의 난대(열대와 온대의 중간 지대) 지역에 많이 분포해 있어요. 우리나라에선 전북의 방축도, 전남의 나로도·가거도·거문도나 대흑산도, 제주도 등에서 자란답니다. 최근엔 충남 태안의 가의도에도 멀꿀이 자라는 것으로 알려졌어요. 우리나라에서 가장 북쪽에 자라는 멀꿀 자생지가 발견된 것이라 식물 지리 측면에서 큰 의미가 있습니다.&lt;br&gt;&lt;br&gt;멀꿀은 높이 15m 안팎으로 자라요. 심은 지 약 5~10년이면 높이 8~12m까지 크는 등 꽤 빨리 자라는 나무랍니다. 나무 껍질은 짙은 갈색으로, 오래되어도 잘 벗겨지지 않아요. 타원형 또는 달걀 모양의 잎은 윤기가 나며, 길이는 6~10㎝, 너비는 2~4㎝ 정도입니다. 꽃은 4~6월에 피며 대체로 흰색이지만, 꽃 안쪽은 홍자색 또는 갈색을 띠고 있어요.&lt;br&gt;&lt;br&gt;멀꿀의 열매는 10~11월에 자줏빛으로 익으며, 꿀 같은 액으로 차 있는 등 수분이 많지요. 멀꿀 열매는 귤이나 사과, 홍시만큼 달다고 합니다. 멀꿀이라는 이름은 열매가 꿀처럼 너무 달아 정신이 멍해질 정도라고 해서 ‘멍꿀’이라 부르던 것이 변한 것으로 추정된다고 해요. 그만큼 맛있는 멀꿀의 열매는 일본 등에서 디저트용으로 인기가 있다고 해요.&lt;br&gt;&lt;br&gt;멀꿀은 병해충의 피해가 거의 없어서 키우기 쉬워요. 또 씨앗을 심는 것뿐만 아니라 꺾꽂이로도 쉽게 번식합니다. 그래서 월동이 가능한 남부 지방 및 서해안에서 생울타리 등의 조경수로 많이 쓰이지요. 멀꿀이 자라기 적합한 기후 조건을 가진 지역에서 정원이나 마당이 있는 집에 살고 있다면 키워볼 만한 나무입니다. 다른 식물이나 구조물에 의지하여 살아가는 덩굴식물이기에 여러 형태로 심어 즐길 수 있어요.&lt;br&gt;&lt;br&gt;멀꿀은 전통적으로 관상용으로 많이 키워 왔습니다. 하지만 한방에서는 멀꿀의 줄기와 뿌리를 소변을 잘 못 보는 증상에 쓰기도 했다고 합니다. 또 진통 완화·진정 효과가 있는 것으로 보고 있지요. 또 다른 연구들에 따르면 멀꿀은 관절염과 술로 손상된 간 보호 등에 효과 있는 것으로 알려져 앞으로 그 활용이 더욱 늘어날 것 같습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JNFTN737RZGNVM7FENRKZX5J34.png"&gt;&lt;figcaption&gt;&lt;small&gt;멀꿀 열매. /국립생물자원관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[인사] 교육부</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/07/15/5S5E4X2LQ5HHXNVLRFR6MUCPEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/07/15/5S5E4X2LQ5HHXNVLRFR6MUCPEQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Jul 2024 15:35:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;교육부&lt;/b&gt;▷UNESCO 파견 부이사관 강정자▷인재양성정책과장 서기관 김주연▷국외 훈련 파견 서기관 박소하 이정규▷디지털교육기획관 과학기술서기관 서혜숙▷영유아기준정책과 지원근무행정사무관 이승영▷교육자치협력안전국 전산사무관 남기범&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] ‘민세상’ 한형조 한중연 교수 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/07/15/KTT6KX3KW5AURAWGKNAWA6BQNQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/07/15/KTT6KX3KW5AURAWGKNAWA6BQNQ/</guid>
+      <description/>
+      <pubDate>Sun, 14 Jul 2024 15:35:00 +0000</pubDate>
+      <content:encoded>&lt;b&gt;‘민세상’ 한형조 한중연 교수&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXVFWOTU6RCDZK7WJHU7YFYNBE.jpg"&gt;&lt;br&gt;&lt;br&gt;한국 철학의 대중화에 힘써온 한형조(65·&lt;b&gt;사진&lt;/b&gt;) 한국학중앙연구원 교수가 13일 별세했다. 서울대 철학과를 졸업하고, 한국학중앙연구원 한국학대학원에서 석박사 학위를 받은 뒤 30년간 교수로 재직했다. 한국 유학에 대한 현대적 해석과 연구에 힘써 온 공로를 인정받아 2013년 민세상, 2022년 퇴계학술상을 받았다. 유족으로 아내 이경숙씨와 아들 한결씨가 있다. 빈소는 한림대성심병원 장례식장, 발인은 16일 6시 30분, (031)382-5004&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;▲&lt;b&gt;고옥희&lt;/b&gt;&amp;nbsp;별세,&amp;nbsp;&lt;b&gt;이성용&lt;/b&gt;&amp;nbsp;前 강남대 교수·&lt;b&gt;이원용·이경용&lt;/b&gt;&amp;nbsp;모친상,&amp;nbsp;&lt;b&gt;허영섭&lt;/b&gt;&amp;nbsp;前 이데일리 논설실장·&lt;b&gt;지승욱&lt;/b&gt;&amp;nbsp;장모상,&amp;nbsp;&lt;b&gt;주혜자&lt;/b&gt;&amp;nbsp;시모상,&amp;nbsp;&lt;b&gt;이해민&lt;/b&gt;&amp;nbsp;조모상,&amp;nbsp;&lt;b&gt;허태윤&lt;/b&gt;&amp;nbsp;LG전자 책임연구원·&lt;b&gt;허태경&lt;/b&gt;&amp;nbsp;외조모상=13일19시 여의도성모병원, 발인 15일8시, (02)3779-1924&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김복수&lt;/b&gt;&amp;nbsp;별세,&amp;nbsp;&lt;b&gt;이복순&lt;/b&gt;&amp;nbsp;남편상,&amp;nbsp;&lt;b&gt;김지연·김희진·김국헌&lt;/b&gt;&amp;nbsp;포인트데일리 산업부장 부친상,&amp;nbsp;&lt;b&gt;이권복&lt;/b&gt;&amp;nbsp;장인상,&amp;nbsp;&lt;b&gt;김문수&lt;/b&gt;&amp;nbsp;뉴스저널리즘 산업팀장 시부상=13일8시30분 은평성모병원, 발인 16일6시30분, (02)2030-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김태중&lt;/b&gt;&amp;nbsp;별세,&amp;nbsp;&lt;b&gt;김도형·김용운&lt;/b&gt;&amp;nbsp;TBC 미디어사업이사·&lt;b&gt;김선희·김정아&lt;/b&gt;&amp;nbsp;부친상,&amp;nbsp;&lt;b&gt;김병규&lt;/b&gt;&amp;nbsp;장인상,&amp;nbsp;&lt;b&gt;한동숙·이윤경&lt;/b&gt;&amp;nbsp;대구시교육청 장학사 시부상=14일5시23분 영남대의료원, 발인 16일5시, (053)620-4647&lt;br&gt;&lt;br&gt;▲&lt;b&gt;임민자&lt;/b&gt;&amp;nbsp;별세,&amp;nbsp;&lt;b&gt;김언성&lt;/b&gt;&amp;nbsp;기획재정부 재정관리관 장모상=14일2시15분 서울성모병원, 발인 16일7시30분, (02)2258-5940&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2024년 7월 15일</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/15/XB4ZD7OK4NCIFMY2CV2FGRL2RU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/15/XB4ZD7OK4NCIFMY2CV2FGRL2RU/</guid>
+      <description/>
+      <pubDate>Sun, 14 Jul 2024 15:31:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YSMXCAEYGNGIFM4JN27L3QT3BY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>16년 장기미제…시흥 슈퍼마켓 살인사건 유력 용의자 검거 </title>
       <link>https://www.chosun.com/national/incident/2024/07/14/DDG2AVEZOVEDTHZ4VSKL6EMFEM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/14/DDG2AVEZOVEDTHZ4VSKL6EMFEM/</guid>
@@ -804,166 +950,6 @@
       <description/>
       <pubDate>Fri, 12 Jul 2024 15:20:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJF7K5KZFRHTDGM36DRYVOQYXQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;12일 발간된 민주노총 금속노조 HD현대중공업지부 소식지 ‘민주항해’ 3201호에 실린 글. 페미니스트를 원색적으로 비난하는 표현이 담겼다. /금속노조 현대중공업지부 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민노총 금속노조 HD현대중공업지부가 노조 소식지에 회사 건물 옥외 광고물에 ‘집게 손가락’ 모양이 있다고 지적하면서 페미니스트를 일컬어 “정신적 문둥병에 오염된 지진아들”이라고 표현한 글을 썼다가 논란이 일자 삭제했다. 현대중공업지부장은 “여성과 여성운동에 대해 조금의 비하 의도가 없었다”며 사과했다.&lt;br&gt;&lt;br&gt;12일 현대중공업지부 등에 따르면, 이날 발간된 현대중공업지부 ‘민주항해’ 3201호에는 ‘수구 꼴페미의 나쁜 광고 즉시 철거하라’는 제목의 글이 실렸다.&lt;br&gt;&lt;br&gt;문제의 글은 “정신적 문둥병에 오염된 지진아들이 한국 남성을 혐오하기 위해 만들어진 손가락 기호 모양이 아무런 여과 없이 사내 옥외 광고판에 등장했다”며 “혐오를 상징하고 그렇게 보이는 광고를 사용해서는 안 된다”고 시작한다.&lt;br&gt;&lt;br&gt;노조가 문제삼은 것은 울산조선소 서부문에서 정문으로 가는 길에 붙은 안전 캠페인 광고다. ‘내일은 더 안전한 하루! 현대중공업 여러분 365일 안전하세요’라는 문구와 함께 TOMORROW(내일)라는 단어를 엄지와 검지로 강조하는 이미지가 포함됐다.&lt;br&gt;&lt;br&gt;노조는 이어 글에서 “안전을 강조하기 위한 광고를 내보내면서 한국 사회에서 끊임없이 논란을 일으키며 소동을 부리는 수구 꼴페미들의 손가락 광고는 남성비하 광고”라면서 “얼마 전 논란이 됐던 르노 광고 또한 많은 논란이 뒤따랐다”고 했다.&lt;br&gt;&lt;br&gt;노조는 그러면서 “한국 사회에 퍼져가고 있는 페미들의 불장난이 현대중공업 야드에 등장해서야 되겠는가”라며 “페미들은 병원에서 정신과 진료받게 하고 약물 처방으로 격리시키면 되지만 건강한 사람들에게 불식간에 무비판으로 볼 수밖에 없도록 방치해서는 안 된다”고 했다. &lt;br&gt;&lt;br&gt;이런 글이 담긴 소식자가 노조 홈페이지에 공개되자 비판이 잇달았다. 현대중공업지부 홈페이지 자유게시판에는 “문둥병 지진아요? 이게 사회적 약자와 함께하는 노동조합의 모습입니까?” “대기업 노조에서 나온 소식지 맞소? 참 개탄스럽네요” “현중노조 역사에 X칠을 했다” 같은 글이 올라왔다.&lt;br&gt;&lt;br&gt;논란이 커지자 현대중공업지부 노조는 소식지에서 그 내용을 삭제하고 지부장 명의로 된 사과문을 공개했다.&lt;br&gt;&lt;br&gt;백호선 지부장은 사과문에서 “여성과 여성운동에 대해 조금의 비하 의도가 없었다”면서 “분단사회 70여 년, 재벌독재가 지배하는 사회에서 이만큼의 민주화 된 기저에는 여성운동의 역할의 지대함을 잘 알고 있다”고 했다.&lt;br&gt;&lt;br&gt;백 지부장은 이어 “다시 한 번 오늘 소식지로 상처받고 힘들어 하시는 모든 분에게 그리고 윤석열 정권에서 맞서 처절하게 투쟁하며 노동계급의 단결로 한국사회 변혁을 고민하시는 모든 분에게 유감을 표한다”고 했다.&lt;br&gt;&lt;br&gt;상급단체인 금속노조 여성위원회도 입장문을 내고 “소식지에는 여성, 장애인, 정신질환자, 한센병 환자 등을 혐오하는 말들로 가득 차 있다. 노조에서 사측을 규탄하기 위해 사용하는 가벼운 ‘해프닝’으로 취급할 수 없는 표현들”이라며 “상처받으신 모든 노동자, 민중, 연대단위 동지들께 사과드린다. 사태가 재발하지 않도록 대책을 마련하도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이우재 前 체신부장관 별세</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/07/12/ZR3BIQGDIZABJMRU2TGLHHTD5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/07/12/ZR3BIQGDIZABJMRU2TGLHHTD5A/</guid>
-      <dc:creator>진중언 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 14:00:40 +0000</pubDate>
-      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;KT의 전신인 한국전기통신공사 초대 사장과 체신부(현 과학기술정보통신부) 장관 등을 지낸 이우재 전 국회의원이 12일 오후 별세했다.&lt;br&gt;&lt;br&gt;고인은 육군사관학교(13기)를 졸업하고 제2통신단장, 육군본부 통신감실 차감 등 통신 분야에서 복무했다. 1980년 국가보위비상대책위원회 상임위원을 거쳐 이듬해 육군 준장으로 예편했다. 이어 정계에 입문해 제11대 국회의원(민주정의당·전국구)을 지냈다. 국회의원 생활 도중 한국전기통신공사가 출범하자 사장에 임명돼 1988년까지 일했다. 1989~1990년에는 체신부 장관을 지내기도 했다.&lt;br&gt;&lt;br&gt;유족은 부인 장지선씨와 자녀 이승연·종호(삼성디자인교육원 교수)씨, 사위 차상훈(충북대 의대 교수)씨 등이 있다. 빈소는 분당 서울대병원에 마련됐다. 발인은 14일 오전 7시. 장지는 국립서울현충원.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘소음 자제 좀’ 20대 이웃 쪽지에 “문 열어” ‘쾅쾅’ 80대男</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/12/FAS2L4Z6BJHE5HT27RSPEXECMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/12/FAS2L4Z6BJHE5HT27RSPEXECMU/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 13:30:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VV7JNDUYMU3BUDJTY6DHGV26OA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘소음에 주의해달라’는 내용의 쪽지를 자기 집 현관문에 붙였다는 이유로 이웃인 20대 여성 집을 찾아가 현관문을 두드리며 소란을 피운 80대 남성이 선고유예 판결을 받았다.&lt;br&gt;&lt;br&gt;12일 법조계에 따르면 춘천지법 형사2단독 김택성 부장판사는 주거침입미수 혐의로 기소된 A(83)씨에게 벌금형 150만원의 선고를 유예했다. 선고유예는 유죄는 인정되지만, 경미한 경우 선고를 미뤄 일정 기간 범죄를 짓지 않으면 없던 일로 해주는 판결이다.&lt;br&gt;&lt;br&gt;A씨는 지난해 4월 B(여·29)씨의 집 현관문을 주먹으로 여러 차례 두드리며 “문 열어봐, 이 X들아” “내가 여기 밤새도록 있을 거야” “안 열어주기만 해봐. 문 열어주기 전엔 안 내려가!”라고 소리치고, 현관문 손잡이를 여러 차례 잡아당겨 집에 들어가려고 한 혐의로 약식 기소됐다.&lt;br&gt;&lt;br&gt;그는 B씨가 자기 집 출입문에 ‘소음에 주의해달라’는 내용의 쪽지를 붙인 것에 화가 나 이같이 범행한 것으로 조사됐다. A씨는 벌금형 약식명령에 불복해 정식재판을 청구했다.&lt;br&gt;&lt;br&gt;김 부장판사는 “피고인이 잘못을 인정하면서 반성하고 있는 점, 초범으로 형사처벌을 받은 전력이 없는 점 등을 종합해 판단했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>의대 교수들 “F학점도 유급 않는 가이드라인은 편법 백과사전”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/07/12/B2XTMZRNUNE2XC4MKDHTEUAMII/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/12/B2XTMZRNUNE2XC4MKDHTEUAMII/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 12:49:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YIUDT7CQMVL3LIBQGFJUH33UDQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;고려대학교의료원 교수들이 오늘부터 진료 축소에 돌입했다. 사진은 12일 서울 성북구 고려대학교 안암병원의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 40개 의대 74곳 수련병원 교수 대표들은 12일 “교육부의 ‘의대 탄력 운영 가이드라인’은 의학 교육의 질을 심각하게 떨어뜨릴 어불성설 편법 대잔치”라고 비판했다. 교육부가 지난 10일 의대 증원에 반발해 수업을 거부하고 있는 의대생들이 집단으로 유급되는 것을 막기 위해 내놓은 방안에 문제가 있다고 지적한 것이다.&lt;br&gt;&lt;br&gt;교수들은 이날 입장문을 내고 “대학 교육 ‘편법 백과사전’이라 불릴 만한 가이드라인은 과연 누구를 위한 것이냐”며 “’의료 수급과 의료 안정을 위한 공익적 조치’를 위해서라는 이주호 교육부 장관의 발언은 ‘부실 교육을 해서라도 의사 숫자만 늘리면 된다’는 것과 다름없다”고 했다.&lt;br&gt;&lt;br&gt;교육부가 지난 10일 발표한 ‘의대 탄력 운영 가이드라인’에는 유급 판단 시기를 학기 말에서 학년 말인 내년 2월 말로 변경하고, F학점을 받아도 유급 대상에서 제외한다는 특례 조항 신설 등이 포함됐다. 수업 일수 확보를 위해 기존 2학기제를 3학기제로 조정하는 내용도 담겼다. 의대생들이 복귀만 한다면 불이익을 주지 않겠다는 것이다. 이를 놓고 “국민 입장에서는 부실 의사를 양성하는 졸속 대책일 수 있다”는 지적이 나왔는데, 의대 교수들도 같은 취지로 비판한 것이다. 교수들은 “진정 환자와 국민을 위한 선진 의학 교육에는 교육부가 전혀 관심이 없었음에 안타까움을 금할 수 없다”면서 “정부는 전공의, 의대생에 대한 압박과 회유에만 관심이 있을 뿐 해결책을 내놓지 않고 있다”고도 했다.&lt;br&gt;&lt;br&gt;한편 고려대의료원 교수들은 이날부터 응급·필수 의료를 제외한 일부 ‘진료 축소’에 돌입했다. 다만 현장에서는 외래 진료와 수술 등이 큰 차질 없이 이뤄졌다. 의료원 측은 “안암·구로·안산 등 3개 병원 모두 정상 진료했다”고 밝혔다. 세브란스병원은 지난달 27일부터 무기한 자율 휴진 중이지만, 추가적인 진료 차질은 거의 없는 상황이다. 오는 26일부터는 충북대병원도 응급·중증 의료를 제외한 무기한 휴진에 들어간다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>청주서 차량이 매장 돌진해 1명 사망·2명 부상</title>
-      <link>https://www.chosun.com/national/incident/2024/07/12/T2BQOXO6XJC2XPXOMEVOFQD3YA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/12/T2BQOXO6XJC2XPXOMEVOFQD3YA/</guid>
-      <dc:creator>이승규 기자, 신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 13:10:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/27PXV36CGZLZNH72VWEAROETRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 오후 8시쯤 청주시 상당구 금천동에서 승용차가 상가로 돌진하는 사고가 났다. 사진은 사고 현장의 모습. /청주 동부소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주에서 승용차가 상가로 돌진해 1명이 숨지고 2명이 다쳤다.&lt;br&gt;&lt;br&gt;12일 충북 청주 상당경찰서 등에 따르면 이날 오후 8시쯤 상당구 금천동에서 A(26)씨가 몰던 승용차가 한 전자제품 매장으로 돌진했다. 이 사고로 매장 직원인 여성 B(56)씨가 심정지 상태로 병원으로 옮겨졌으나 숨졌다. 인근을 걷고 있던 C(18)군과 운전자 A씨도 경상을 입었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5YI2QQBI3FFHLBZZWXZKVRUHAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 오후 8시쯤 충북 청주시 상당구 금천동 한 전자제품 매장으로 A 씨가 몰던 승용차가 돌진했다. 사진은 사고 현장 처리 중인 모습. /신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 사고 당시 음주 상태는 아닌 것으로 파악됐다. A씨는 경찰 조사에서 “도로에서 무단횡단하려던 보행자(C군)을 피하려다 핸들을 잘못 꺾었다”고 진술한 것으로 알려졌다. 경찰 관계자는 “차량 블랙박스와 인근 방범카메라 등을 확인해 정확한 사고 원인을 파악할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LRIUB7VTN5FA7PHLSJUAMTLEIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 부산 해운대구 중동에서 80대 여성이 몰던 승용차가 공원 산책로 나무를 들이받고 멈춰 섰다. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 이날 부산에서도 80대 여성이 운전하던 승용차가 공원 나무를 들이받는 사고가 발생했다.&lt;br&gt;&lt;br&gt;부산경찰청에 따르면 12일 오전 10시 32분쯤 해운대구 중동에서 A씨가 몰던 승용차가 공원 산책로로 진입해 나무를 들이받았다. 당시 산책로엔 행인이 없었고 A씨도 크게 다치지 않은 것으로 파악됐다. 경찰은 A씨가 음주 상태는 아니었던 것으로 확인하고 정확한 사고 경위를 파악 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“아빠처럼 따랐더니”... 초등생 아들 친구 성폭행한 40대男 징역 8년</title>
-      <link>https://www.chosun.com/national/incident/2024/07/12/RWGCNBX34ZCSBBSRQ5RVKWEJVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/12/RWGCNBX34ZCSBBSRQ5RVKWEJVI/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 10:59:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U4YH7IIIRKLSNCX5EJWICXA2AA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주지방법원 청사. /제주지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초등학생인 아들의 같은 반 여학생을 성폭행하고 성착취물을 만든 40대 남성에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;제주지법 형사2부(재판장 홍은표)는 아동·청소년의 성보호에 관한 법률 위반 등 혐의로 구속 기소된 A씨에게 징역 8년을 선고하고 아동·청소년·장애인 관련 기관 취업 제한 10년 등도 명령했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 12월부터 올해 1월까지 10대인 B양을 성적으로 학대한 혐의 등을 받고 기소됐다. A씨는 범행 과정을 담은 영상과 사진 등 성착취물 200여개를 만든 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 아들의 친구였던 B양이 자신을 아버지처럼 따르는 등 친한 관계를 유지하자 이를 악용해 아들이 집에 없는 사이 범행을 저지른 것으로 조사됐다. A씨는 수사 초기 범행을 모두 부인했고, 휴대폰 포렌식 등을 통해 삭제했던 성착취물이 복구된 이후에도 “우발적으로 찍은 것”이라며 증거가 제시된 범행 사실에 대해서만 뒤늦게 인정하는 등, 혐의 대부분을 부인했다.&lt;br&gt;&lt;br&gt;재판부는 “B양의 피해 진술이 일관되고 구체적이었으며, 직접 경험하지 않고서는 말할 수 없는 내용이었고, 허위 진술이라고 의심할 정황도 발견되지 않았다”며 “A씨는 평소 자신을 아빠처럼 믿었던 B양을 상대로 범행을 저지른데다, 납득할 수 없는 변명으로 일관하며 반성하지 않았고, B양으로부터 용서받지도 못했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>구제역 “쯔양 측서 받은 돈은 용역비...전액 돌려주겠다”</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/12/VKRT4MICVVAT3OSIBOWIJ4P42E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/12/VKRT4MICVVAT3OSIBOWIJ4P42E/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 11:44:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YLLKU5FFWJFAJP7NORM2HDXSAA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 구제역. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유튜버 ‘구제역’이 12일 유튜버 ‘쯔양’에게서 5500만원을 받아냈다는 논란과 관련해 “쯔양님의 과거를 지켜주는 업무의 대가로 받은 것”이라며 “빠른 시일 내에 용역비용으로 받은 금원 전액은 돌려드리도록 하겠다”라고 밝혔다.&lt;br&gt;&lt;br&gt;구제역은 이날 자기 유튜브 채널 커뮤니티에 글을 올리고 이같이 밝히며 “다시 한번 쯔양님의 잊혀질 권리를 지켜드리지 못한 점, 유튜버들에게 후원금을 지불하며 쯔양님의 폭로 영상을 막은 점 깊이 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;구제역은 돈을 받게 된 경위에 대해 “작년 2월 경 쯔양님의 전(前) 소속사 대표로 추정되는 자에게 쯔양님에 대한 익명 제보를 받은 사실이 있다”며 “제보 내용은 쯔양님에 대한 음해성 제보였고 이를 뒷받침하는 근거가 너무나 구체적이었기에 사실관계 확인을 위해 쯔양님 소속사 측에 해당 내용을 알렸다”고 했다.&lt;br&gt;&lt;br&gt;구제역은 “쯔양님이 전 소속사 대표로 추정되는 자에게 협박을 당하고 있다는 사실 또한 알게 됐다”며 “하지만 안타깝게도 익명 제보였기에 제보자 신상을 밝힐 수 없어 전 소속사 대표에 대한 고소는 진행 할 수 없는 상황이었다”라고 했다.&lt;br&gt;&lt;br&gt;구제역은 “이에 따라 쯔양님 소속사에서는 저에게 제보자의 신상을 특정해달라는 부탁과 해당 내용이 폭로되는 것을 막아줄 수 있느냐는 부탁을 해주셨다”며 “전 소속사 대표로 추정되는 자는 저 외에도 수십 명의 익명 유튜버들에게 관련 내용을 제보한 상태였고 저는 제보자의 신상을 특정하기 위해 유튜버들에게 접촉하여 제보내용을 취합, 그 자료를 소속사에 전달해 제보자의 신상을 특정 할 수 있었다”라고 했다.&lt;br&gt;&lt;br&gt;구제역은 “문제가 된 (유튜버 전국진과 나눈) 녹취는 제보자의 정보를 받기 위해 쯔양님에 대한 부정적인 감정을 가진 유튜버들과 친분을 쌓는 과정에서 벌어진 상황이었다”며 “실제로 그 과정에서 입수한 제보자 신상 정보는 전부 쯔양님 소속사에 전달했다”고 했다.&lt;br&gt;&lt;br&gt;구제역은 “하지만 이미 제보 내용은 널리 퍼진 상태였고 유튜버들의 영상 제작을 만류하기 위해 불가피하게 그들에게 후원금을 건네주며 쯔양님의 폭로영상이 제작되는 것을 막았다”며 “당시 어리석은 생각으로는 쯔양님의 폭로 영상을 막기 위해서는 유튜버들에게 후원금을 지급하는 방법 밖에 없다고 생각했다”고 했다.&lt;br&gt;&lt;br&gt;구제역은 “그래서 제 사비로 후원금을 지급했고 이후 영상 제작을 하지 않는 조건으로 후원금을 요구하는 유튜버들이 기하급수적으로 늘어나 저의 재산으로는 감당이 어려워 쯔양님의 소속사에 지원을 요청하여 유튜버들의 영상 제작을 막을 수 있게 됐다”고 했다.&lt;br&gt;&lt;br&gt;구제역은 그러면서 “후원금의 경우 쯔양님의 과거를 지켜주는 업무의 대가로 받은 금원이었지만 현재 저는 해당 업무를 제대로 수행하지 못했기 때문에 제가 쯔양님께 받은 금원 전액은 빠른 시일내에 돌려드리도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전국으로 퍼지는 ‘초등 의대 입시반’... 교육부 특별 점검 나선다</title>
-      <link>https://www.chosun.com/national/education/2024/07/12/K7KVCBMLARD6VKK4L7GNVA546E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/07/12/K7KVCBMLARD6VKK4L7GNVA546E/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 11:50:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ANEOTFG4CNIMTDDGQOOMTWFY7I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구 대치동 학원가에 의대 입시 홍보 현수막이 세워져 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육부가 전국 17개 시도교육청과 함께 과도한 선행학습을 조장하는 ‘초등 의대 입시 준비반’에 대한 합동 특별 점검에 나선다고 12일 밝혔다. 서울 강남에서나 성행하던 초등 의대반이 의대 증원 정책과 지역 인재 전형 확대 등 영향으로 전국으로 퍼져 나가기 시작하자 칼을 빼든 것이다.&lt;br&gt;&lt;br&gt;교육부는 이달 초부터 교육청들과 함께 지역별 초등 의대반 설립 현황, 선행학습 유발 광고 현황 등을 파악하고 있다. 교육부는 이달 안에 현황 파악을 끝내고 오는 8월 말까지 현장 점검을 실시한다는 계획이다. ‘의대에 진학하려면 초등학생 때부터 준비해야 한다’는 식으로 학부모를 자극해 과도한 선행학습을 부추기는 학원을 집중 점검할 예정이다. ‘의대 입시반’이라는 명목으로 교육청에 신고한 교습비 외 비용을 추가로 받고 있는지도 점검 대상이다.&lt;br&gt;&lt;br&gt;시민 단체 사교육걱정없는세상(사걱세)은 지난 1일 초등 의대반 운영 실태를 공개하며 ‘초등 의대반 방지법 제정’ 서명운동을 시작했다. 사걱세가 서울 지역 학원들의 초등 의대반 커리큘럼을 분석했더니, 초5를 대상으로 39개월 만에 고3 이과 수학을 끝내도록 하고, 심지어 초3에게 고2 수학 과정인 미적분을 가르치는 경우도 있었다. 의대 증원 여파로 이런 의대 초등반이 서울을 넘어 충청과 강원 지역에서도 생겨나고 있다.&lt;br&gt;&lt;br&gt;교육 당국은 이번 합동 점검으로 위반 사항이 발견된 학원에 대해서는 시정 명령을 내리거나 과태료 부과 등 행정 처분을 한다는 계획이다. 그러나 교육계에서는 “법령상 처벌 조항을 만들지 않는 한 의대 입시반 등 사교육 선행학습이 근절되지 않을 것”이라는 지적이 나왔다. 현행법상 선행학습을 금지하는 조항이 없기 때문이다. 공교육정상화법에 ‘선행학습을 유발하는 광고 또는 선전을 해서는 안 된다’는 조항은 있지만 위반 시 처벌 조항이 없다. 결국 교육청이 시정 명령을 내리는 정도의 ‘솜방망이’ 처분에 그칠 수밖에 없다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>박지성 “슬프고 참담... 감독 선임 번복, 협회·홍명보 선택 남았다”</title>
-      <link>https://www.chosun.com/national/people/2024/07/12/DZI4SB4AA5D33GQIBADCTKSGYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/07/12/DZI4SB4AA5D33GQIBADCTKSGYQ/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 10:11:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CCKM5DPJUJJMZAV7SKQ7CPZ2ZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전 축구선수 박지성이 12일 오후 서울 종로구 국립현대미술관 서울관에서 열린 문화행사 'MMCA: 주니어 풋살'에서 미래세대 토크를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;축구 국가대표팀 주장을 지냈던 박지성이 홍명보 축구대표팀 감독 선임을 둘러싼 논란에 대해 “슬프고 참담하다”는 심경을 밝혔다. 정몽규 대한축구협회장 스스로 사퇴 여부를 결정해야 한다며, 감독 선임 번복에 대해서도 협회와 홍 감독 본인의 선택이 남았다고 했다.&lt;br&gt;&lt;br&gt;박지성은 12일 서울 국립현대미술관에서 열린 문화행사를 마친 뒤 취재진과 만나 “슬프다. 한국에서 축구를 시작했고 아직도 축구라는 분야에 있지만 우리가 이거밖에 되지 않았나 생각이 가장 먼저 든다”며 “아쉬움이 크고 마음이 상당히 아프다”고 했다.&lt;br&gt;&lt;br&gt;그는 “가장 슬픈 것은 뭐 하나 답이 없다는 사실”이라며 “2002년 월드컵을 통해 상당히 많이 변했고 앞으로 변해갈 거라는 기대가 있었는데, 그때와 달라진 것이 무엇인가라는 답을 이렇게 받았다는 것이 참담한 기분”이라고 했다. 이어 “저 역시도 순전히 자유로울 수 없다는 걸 알고 있으며 이것을 맞이하는 많은 축구인들도 가슴이 아플 것”이라며 “문제는 과연 어디까지 이래야 하는 건가 하는 생각이 든다”고 했다.&lt;br&gt;&lt;br&gt;또 “이번 사안이 너무 커서 과연 결과가 이 상황을 바꿀 수 있을까 저로서는 가늠이 되지 않는 상황”이라며 “결국 감독 선임을 번복하느냐 마느냐는 협회와 홍명보 감독의 결정이 남아 있는 상황이다. 지금의 분위기에서 쉽사리 앞으로 나아갈 수 있을지에 대한 걱정을 가지고 있다”고 했다.&lt;br&gt;&lt;br&gt;박지성은 대한축구협회를 향해 “협회에서 일한다는 것이 누구에게나 의미 있고 하고 싶어야 하는데 현재 아무도 하고 싶지 않은 일이 됐고 제대로 된 일을 할 수는 있나 의문이 든다”며 “협회에 대한 신뢰는 떨어졌고 회복하는데 오랜 시간이 걸릴 것이다. 진실을 말하며 앞으로 나아가야 한다”고 했다.&lt;br&gt;&lt;br&gt;또 이번 감독 선임 과정에 대해 “절차대로 밟아서 감독을 선임해야 한다는 약속 자체가 무너졌기 때문에 당장 사실을 말해도 그 사실을 받아들일 사람이 많지 않을 것”이라며 “시간이 걸리더라도 사실에 입각해 일을 진행하고 그 과정 속에서 투명하다는 것을 사람들이 지켜보고 나아지고 있다는 믿음이 쌓여야 한다”고 했다.&lt;br&gt;&lt;br&gt;정몽규 축구협회장 사퇴 여론 관련 질문에는 “상당히 어려운 부분이며 외부의 압력으로 어디까지 할 수 있는지 모르겠다”라며 “정 회장 스스로 선택해야 하는 사안인 건 분명하다. 정 회장이 그만둔다고 했을 때 다른 대안이 있는가 또한 고민을 해봐야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/CCKM5DPJUJJMZAV7SKQ7CPZ2ZI.jpg?width=4970&amp;height=3313&amp;auth=3e8d6dceb623a85213d1789c0443867587e16ea2f4b6764f9711d1b45105e170&amp;smart=true" type="image/jpeg" height="3313" width="4970">
-        <media:description type="plain">&lt;YONHAP PHOTO-4855&gt; 박지성이 말하는 축구
-    (서울=연합뉴스) 진연수 기자 = 전 축구선수 박지성이 12일 오후 서울 종로구 국립현대미술관 서울관에서 열린 문화행사 'MMCA: 주니어 풋살'에서 미래세대 토크를 하고 있다. 2024.7.12
-    jin90@yna.co.kr/2024-07-12 15:11:14/
-&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">진연수</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>‘강남 뺑소니’ 전직 축구선수 “술 마시고 운전했다” 인정</title>
-      <link>https://www.chosun.com/national/incident/2024/07/12/CE4GPBDQTRDTTBOGRKVBHN3BFQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/12/CE4GPBDQTRDTTBOGRKVBHN3BFQ/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 09:54:25 +0000</pubDate>
-      <content:encoded>서울 강남구에서 교통사고를 내고 달아났다가 검거된  축구선수가 이날 경찰 조사에서 음주 사실을 인정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6SYCU3BGFZADJMRPYGJT5E6M6Q.jfif"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 서울 강남경찰서는 전직 축구선수 A(35)씨를 사고후미조치 등 혐의로 입건했다. A씨는 이날 오전 6시 6분쯤 서울 강남구 논현동의 한 인도 위 변압기와 가로수를 들이받고 도주했다가 주거지에서 긴급체포됐다.&lt;br&gt;&lt;br&gt;2010년 강원FC에 입단한 A씨는 독일과 일본, 말레이시아 등지에서 선수로 활동했다. U16 청소년 국가대표로도 뛰었다. 현재는 축구 선수로 뛰지 않는 상태다.&lt;br&gt;&lt;br&gt;음주 혐의를 부인하던 A씨는 이날 경찰 조사에서 “술을 마시고 운전했다”고 진술했다. 경찰은 사고 현장에서 A씨의 음주를 감지해 음주 측정을 하고자 했으나 A씨는 음주운전 측정기 사용을 거부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>法, 70대 노모 상습 폭행한 ‘인면수심’ 아들에 3년6개월 실형</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/12/FKV26YW4ARDUJGFD2IIUVI72ZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/12/FKV26YW4ARDUJGFD2IIUVI72ZU/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 09:25:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6C75ZQHUYSSZPLQCCY5EHT7TQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;70대 어머니를 상습적으로 폭행한 혐의로 재판에 넘겨진 50대 남성이 3년 6개월의 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;서울서부지법 형사6단독 지충현 판사는 지난 3일 특수존속상해, 존속폭행 등 혐의로 기소된 A(51·남)씨에 대해 3년 6개월의 실형을 선고했다.&lt;br&gt;&lt;br&gt;검찰에 따르면 A씨는 2022년 2월 서울 은평구 자택에서 어머니 B(75)씨가 설거지를 하겠다고 고집을 부린다는 이유로 밀쳐 머리를 스테인리스 냄비에 부딪히게 한 혐의를 받는다. B씨는 두피가 찢어지는 부상을 입었다.&lt;br&gt;&lt;br&gt;지난해 7월에는 B씨가 자신과 대화를 나누던 중 외출하려고 하자 B씨의 얼굴을 주먹으로 두 차례 가격했다. 그해 10월에도 20cm 길이 거실 리모컨으로 B씨의 머리를 내리치고 발로 허리를 걷어차 넘어뜨린 것으로 파악됐다.&lt;br&gt;&lt;br&gt;결심 공판에 참석한 A씨는 폭행 혐의를 부인한 것으로 알려졌다. A씨 측 변호인은 “B씨에게 생긴 상처는 스스로 넘어지거나 발을 헛디뎌 식탁 모서리에 턱을 부딪히거나, 침대에서 낙상하면서 발생했다”며 “이는 A씨의 폭력행위로 발생한 것이 아니다”고 주장했다.&lt;br&gt;&lt;br&gt;그러나 재판부는 A씨 측 주장을 받아들이지 않았다. 재판부는 “증거로 드러나는 상해 사실과 피해자의 진술 등에 비추어 볼 때 A씨의 범죄 사실은 모두 유죄로 인정된다”며 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰 “이재명 재판, ‘대장동’ 먼저 선고해야...‘대북송금’ 합쳐선 안돼”</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/12/D2RIOKEOXJB4JDRHAHFYXYMIGE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/12/D2RIOKEOXJB4JDRHAHFYXYMIGE/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 09:17:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/64YS6GMTG5I4XOTJNEHATBIEQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 이재명 전 대표가 12일 오후 서울 서초구 서울중앙지방법원에서 열리는 공직선거법 위반 재판에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 전 더불어민주당 대표가 자신의 ‘쌍방울 그룹 불법 대북 송금’ 사건 재판을 수원지법이 아닌 서울중앙지법에서 받게 해 달라는 신청 사건에 대해 검찰이 반대 의견을 냈다. 서울중앙지검은 지난 10일 대법원과 서울중앙지법에 병합 반대 의견서를 제출했다고 12일 밝혔다. 같은 날 수원지검도 반대 의견서를 제출했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 검찰은 의견서에서 “이 전 대표 관련 사건을 병합 심리하고 있는 재판부가 오히려 대장동·위례 개발비리 사건은 쪼개서 별도로 신속하게 선고해야 할 필요성이 높다”라며 “재판부가 심리하는 사건과는 전혀 무관한 ‘대북 송금’ 사건을 병합해달라는 것은 오직 재판 지연과 선고 회피를 위한 것으로 허용되어서는 안 된다”고 했다.&lt;br&gt;&lt;br&gt;이 전 대표는 현재 서울중앙지법에서 ①대장동·위례 특혜 개발, 백현동 특혜 개발, 성남FC 불법 후원금 사건 ②위증 교사 사건 ③공직선거법 위반 사건 등 3개 재판을 동시에 받고 있다. 이 전 대표는 ‘쌍방울 불법 대북 송금 사건’으로 수원지법에 기소되자, 이 사건을 서울중앙지법 ‘대장동 사건’에 병합해 달라고 지난 1일 요청했다.&lt;br&gt;&lt;br&gt;‘대장동 사건’ 담당 재판부인 서울중앙지법 형사 33부(재판장 김동현)는 이미 1년 넘게 대장동·위례 특혜 개발, 백현동 특혜 개발, 성남 FC 불법 후원금 사건을 하나로 묶어 심리하고 있다. 증거 기록만 20만쪽이 넘고, 1심에만 수년이 걸릴 것이라는 예측이 나온다. 여기에 대북 송금 사건까지 합쳐지면 1심 결론은 더 늦어질 수밖에 없다는 게 법조계의 우려다.&lt;br&gt;&lt;br&gt;검찰은 반대 의견서에서 “해당 재판부에 ‘대북 송금’ 사건을 합칠 게 아니라, 해당 재판부가 오히려 대장동·위례 개발 비리 사건을 따로 떼서 먼저 선고할 필요성이 있다”고 강조했다. 검찰은 “중앙지법 사건 중 대장동·위례 사건은 범행시기와 사건 관련자가 겹친다”라고 했다. 대장동 민간 업자인 남욱 변호사(천화동인 4호 소유주)와 정영학 회계사(천화동인 5호 소유주) 회계사, 김만배씨(화천대유 대주주) 등이 대장동·위례 사건에 똑같이 등장한다는 것이다. 또 “대장동·위례 사건은 쟁점 및 사건의 구조 등이 유사해 그 심리가 마쳐진 경우에는 신속히 변론을 분리해 직접 심리한 재판부가 해당 사건을 먼저 선고할 필요성이 높은 상황”이라고 했다.&lt;br&gt;&lt;br&gt;검찰은 “반면 수원지법의 대북송금 사건과 대장동·위례 사건은 범행 시기와 쟁점, 관련자들이 전혀 다르다”고 밝혔다. 대북송금 사건은 이 전 대표가 경기지사 시절 발생한 제3자 뇌물 사건이지만, 대장동·위례 사건은 이 전 대표가 성남시장 시절 발생한 부동산 개발비리 사건으로 그 성격이 다르다는 것이다. 검찰 관계자는 “수원지법이 대북 송금 사건에 연루된 이화영 전 경기도 부지사와 김성태 전 쌍방울 회장 등의 재판을 했기 때문에 이 전 대표의 대북 송금 사건 재판도 수원에서 하는 게 맞는다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>박수홍 형수 “딸 너무 힘들어해 정신과 치료 중” 선처 호소</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/12/36USTDWUAJHIZLEB4XLAUL6XDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/12/36USTDWUAJHIZLEB4XLAUL6XDQ/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 09:11:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ISHQHPH2TD5WQBHO2DSXWGFTSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 박수홍. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 박수홍에 대한 명예훼손 혐의로 재판에 넘겨진 형수 이모씨가 12일 “딸이 공황 증세로 정신과 치료를 받고 있다”며 선처를 호소했다.&lt;br&gt;&lt;br&gt;이날 오후 서울서부지법 형사9단독 강영기 판사 심리로 열린 공판에 참석한 이씨는 “딸이 너무 힘들어 한다. 지하철을 타면 앞이 보이지 않는 증상을 보여 정신과 치료와 심리 상담을 병행하고 있다”며 이같이 말했다. 이씨는 박수홍과 그의 아내 김다예씨에 대한 명예훼손 혐의로 작년 10월 기소됐다.&lt;br&gt;&lt;br&gt;검찰에 따르면 이씨는 박수홍을 비방할 목적으로 카카오톡 단체 대화방에서 허위사실을 유포한 혐의를 받는다. 이씨는 자신과 남편 박모씨가 박수홍의 돈을 빼돌렸다는 주장은 허위라는 취지의 메시지를 포함, ‘박수홍이 방송 출연 당시 한 여성과 동거했다’는 등의 메시지를 유포한 것으로 검찰은 보고 있다.&lt;br&gt;&lt;br&gt;이날 이씨는 “피해자 여성과 박씨가 동거하는 모습을 목격했느냐”는 검찰 측 질문에 “목격한 적 없다. 시부모로부터 전해들었다”고 답했다. 이어 “2019년 10월쯤 ‘미우새’ 촬영이 있어 청소하러 갔는데 집 현관에 여성 구두가 있었다”며 “옷방에 여성 코트가 걸려 있었고 안방에도 여성용품이 있었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “미혼 중년 남성 연예인의 일상을 다룬 예능에 박수홍이 출연한 만큼, 동거 사실이 유포될 경우 여론이 나빠질 것을 염두에 둔 것이 아니냐”는 질문에 이씨는 “거기까지 생각하진 못했다”고 답했다. 또 횡령이 허위라는 메시지와 “박씨가 동거 중”이라는 취지의 메시지를 함께 유포한 경위를 묻자, 이씨는 “마음이 힘들어서 이성적인 생각을 할 수 없었다”고 답했다.&lt;br&gt;&lt;br&gt;이같은 메시지를 단체 채팅방에 유포한 동기와 관련, 이씨는 “유튜브에 댓글이 달리면서 (우리 부부가) 횡령범이 됐다”며 “딸이 학교를 갈 수 없을 정도로 힘들어 하는 상황 속에서 (횡령은) 사실이 아니라는 걸 지인들에게 얘기하고 싶었다”고 답했다. 이때 이씨는 눈물을 흘리기도 했다.&lt;br&gt;&lt;br&gt;앞서 이씨 부부는 2011년~2021년 박수홍의 매니지먼트를 전담하면서 회삿돈과 박수홍의 개인 자금 등 약 48억원을 횡령한 혐의로 기소돼 별도로 재판을 받고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“지금 X신된 새끼”...유튜버 이근 모욕한 男 유튜버 벌금형</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/12/3COOXTC53VDPZEUTPRB37XGHOQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/12/3COOXTC53VDPZEUTPRB37XGHOQ/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 08:56:58 +0000</pubDate>
-      <content:encoded>자신의 유튜브 방송에서 또 다른 유튜버인 해군특수전전단 출신 이근(40) 전 대위를 향해 거친 말을 내뱉은 40대 남성 유튜버에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EXT3RXKANVAXZO7O4JRBX35J5M.png"&gt;&lt;figcaption&gt;&lt;small&gt;유튜브 일러스트. /일러스트=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사23단독 양진호 판사는 모욕 혐의로 기소된 송모(44)씨에게 벌금 150만원을 선고했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;유튜브 채널 ‘깔롱튜브’를 운영하는 송씨는 지난 2022년 5월 29일 채널 영상을 통해 “X새끼야 네가 제대한 지가 언젠데 X발, 이근 대위를 X랄...아직도 대위...하”라며 “이 새끼 그냥 민간인이야 민간인”이라고 이씨를 비난했다.&lt;br&gt;&lt;br&gt;이어 “저 새끼 잘 나갈 뻔하다가 지금 X신된 새끼잖아. 그런 놈이 자꾸 나는 방송에 나오는 것을 달갑게 여기지 않아. 이런 X신 물고 빨고 있는 사람들도 나는 이해가 안 되고”라는 내용의 영상 등을 게시하며 이씨를 모욕한 혐의를 받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QHRCL2AO3BNWVJW54GA64RIHAQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이근 전 대위. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양 판사는 “피고인이 경제적 이득을 얻기 위해 이 사건 범행을 저지른 점, 피고인이 동종범죄로 처벌받거나 벌금형을 넘는 처벌을 받은 전력은 없는 점 등을 고려했다”며 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>사당동 횟집에 차량 돌진해 1명 경상… 70대 운전자는 급발진 주장</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/12/MSSYT3FPW5FC7D2UU4QCGSG6KQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/12/MSSYT3FPW5FC7D2UU4QCGSG6KQ/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 08:29:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J3P27UOPWFHQVHSJAEFSRO4RE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 서울 동작구 사당동에서 70대 여성이 운전한 차량이 횟집으로 돌진해 횟집 사장이 경상을 입었다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 동작구에서 70대 여성 운전자가 몰던 차량이 식당으로 돌진해 중년 남성이 다치는 사고가 12일 발생했다.&lt;br&gt;&lt;br&gt;서울 동작경찰서는 이날 오전 10시 20분쯤 동작구 사당동 남성사계시당 인근에서 70대 여성 A씨가 운전하던 차량이 시장 내 횟집으로 돌진했다고 밝혔다. 이 사고로 횟집 사장인 50대 남성 B씨는 손가락 골절 등 경상을 입었고, 식당 유리창이 깨지고 내부 집기가 파손되는 등 재산 피해도 생긴 것으로 파악됐다. 다만 B씨 이외 인명 피해는 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “사고 원인은 차량 급발진”이라고 주장한 것으로 알려졌다. A씨에게 음주나 마약 정황은 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;한편 경찰은 “급발진 여부 감정을 위해 사고 차량을 국립과학수사연구원으로 인계했다”며 “이후 조사를 통해 입건 여부를 결정할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘불법 대북송금·이화영 뇌물’ 김성태 실형, 법정구속은 면해</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/12/M6GHZOQB7BDF5KNIGSIZGB7OSA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/12/M6GHZOQB7BDF5KNIGSIZGB7OSA/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 05:40:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SPQCSA6ZQBFSBKXS6YDVVZSZBA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대북송금 관련 혐의로 기소된 김성태 전 쌍방울그룹 회장이 12일 오후 경기 수원시 영통구 수원지방법원에서 열린 선고 공판을 마치고 나와 취재진의 질문에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 전 더불어민주당 대표가 경기도지사이던 2019년 도지사 방북비용 등 800만 달러를 불법으로 북한 측에 전달하고, 이화영 전 경기도 평화부지사에게 수억원 대 뇌물을 준 혐의 등으로 기소된 김성태 전 쌍방울 그룹 회장에게 징역 3년6개월이 선고됐다.&lt;br&gt;&lt;br&gt;수원지법 형사11부(재판장 신진우)는 이날 오후 김 전 회장의 뇌물공여 및 정치자금법 위반, 외국환거래법 위반, 남북교류협력법 위반 등의 사건에 대한 1심 선고 공판을 열고 정치자금법 위반에 대해서는 징역 1년에 집행유예 2년, 뇌물공여죄 등 나머지 혐의에 대해서는 징역 2년6월을 선고했다. 다만 법정 구속은 하지 않았다. 검찰은 앞서 김 전 회장에 대해 징역 3년6개월을 구형했다.&lt;br&gt;&lt;br&gt;김 전 회장은 2018년 7월부터 2022년 7월까지 4년 동안 이 전 부지사에게 쌍방울 그룹의 법인카드와 법인차량을 제공하고, 이 전 부지사의 측근에게 허위 급여를 지급하는 방법으로 3억3400여만원의 정치자금 및 뇌물(2억5900여만원)을 공여한 혐의를 받았다.&lt;br&gt;&lt;br&gt;그는 또 이 전 부지사의 부탁을 받고 2019년 경기도가 내야 할 스마트팜 사업비 500만 달러와 이재명 경기도지사의 방북비용 300만 달러를 대신 북한에 전달한 혐의(외국환거래법·남북교류협력법 위반)도 받는다. 그는 지난해 1월 구속기소 됐으며, 올해 1월 보석 석방됐다.&lt;br&gt;&lt;br&gt;이날 재판부는 ‘800만 달러’가 북한 측에 전달됐다는 사실은 모두 인정하고, 이 전 부지사에게 뇌물과 정치자금을 준 혐의 등에 대해서도 대부분 유죄로 봤다.&lt;br&gt;&lt;br&gt;스마트팜 사업비 500만 달러의 경우, 통일부 장관의 승인을 받지 않고 북한 조선아태위에 500만 달러를 전달한 것은 ‘미승인 협력사업’을 시행한 것으로, 남북교류협력법을 위반했다고 재판부는 판단했다. 그러나, 법리상 ‘금융제재대상자’인 조선노동당에 전달된 사실이 입증되지 않아 외국환거래법 위반은 일부 무죄라고 봤다. 재판부는 500만 달러 중 법리적으로 외국환거래법을 위반한 금액은 164만 달러 만으로 판단했다. 나머지는 이른바 ‘환치기’ 수법 등으로 국외로 빼돌린 돈이어서, 검찰이 기소한 외국환거래법 위반은 아니라는 해석이다.&lt;br&gt;&lt;br&gt;도지사 방북비용 300만 달러 전달은, 통일부 장관의 승인을 받아야 하는 협력 사업의 ‘시행’이 아니라 ‘준비’에 불과해 남북교류협력법을 위반한 것은 아니라고 재판부는 봤다. 그러나 송명철 조선아태위 부실장을 통해 200만 달러를 북한에 지급한 것은 김 전 회장 등 관계자 등의 진술 등에 의해 사실로 판단돼 외국환거래법을 위반했다고 판단했다. 또 리호남을 통해 조선노동당에 100만 달러를 지급한 부분은 이 돈이 실제로 조선노동당에 전달된 사실이 입증되지 않아 무죄라고 판단했다. 방북비용 300만 달러 중 재판부가 실제로 법을 위반했다고 본 금액은 230만 달러 만이다. &lt;br&gt;&lt;br&gt;재판부는 김 전 회장이 이 전 부지사에게 건넨 정치자금은 검찰의 공소사실인 3억3400여만원 중 2억1800여 만원을 유죄로 인정했다. 이씨가 2018년 지방선거 전 이재명 당시 경기지사 후보 캠프에서 비서실장을 맡은 기간, 부지사 사임 후 민주당에서 활동한 기간 수수한 금액만 인정한 것이다. 이중 김 전 회장이 이 전 부지사에게 건넨 뇌물 2억5900여만원 중에서는 1억700여만원만 유죄로 인정했다. 부지사를 그만둔 시기 받은 돈은 뇌물이 안 된다고 본 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U2SN6YVVYFCDZUQRK4TH5FANK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사(오른쪽)과  이재명 전 경기도지사(전 더불어민주당 대표). .뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판부는 또 김 전 회장이 뇌물공여로 쌍방울그룹에 2억2000여만원의 손해를 입히고(배임), 회사 자금 1억100여만원을 횡령한 것으로도 판단했다. 또 김 전 회장이 이 전 부지사와 공모해 쌍방울 직원들로 하여금 PC하드디스크 등을 파쇄하도록 하는 등 이 전 부지사의 법인카드 사용 내역 등 증거를 인멸한 점도 유죄로 봤다.&lt;br&gt;&lt;br&gt;재판부는 쌍방울 그룹의 대북 송금 혐의에 대해 “남북평화 조성에 기여하려는 목적과 쌍방울 그룹의 사업을 확장하려는 목적이 있더라도 통일부 장관 승인없이 시행하고 남북한 교류협력 질서를 심각하게 침해해 비난 가능성이 높다”고 밝혔다.&lt;br&gt;&lt;br&gt;그러면서 “해외에 도피한 사정 등을 비춰볼 때 실형 선고가 불가피하나 사실관계를 인정하고 이화영 요청에 의해서 범행에 이르게 된 거로 보인다”며 “피고인에게 실형을 선고하나, 증거인멸 우려가 있다고 보기 어렵고 재판 성실하게 임한 태도를 고려해 법정구속은 하지 않는다”고 판시했다.&lt;br&gt;&lt;br&gt;김 전 회장은 선고 후 심경을 묻는 취재진 질문에 “나중에 기회가 있으면 (이야기)하겠다”고 짧막하게 대답한 후 법원을 떠났다.&lt;br&gt;&lt;br&gt;한편, 김 전 회장은 이외에도 쌍방울 임직원 명의로 세운 5개 페이퍼 컴퍼니 자금 538억원을 횡령하고, 그룹 계열사에 약 11억원을 부당하게 지원하도록 한 혐의(배임)로도 기소됐다. 재판부는 지난 6월 7일 1심 선고를 내린 이화영 전 경기도 평화부지사와 연관된 대북송금 및 뇌물 혐의들에 대해서만 사건을 분리해 이날 선고했다. 나머지 혐의에 대한 심리는 계속 진행된다.&lt;br&gt;&lt;br&gt;수원지법 형사11부는 불법 대북송금 및 쌍방울 뇌물수수 및 정치자금법 위반 등 혐의로 기소된 이 전 부지사에게 징역 9년 6월, 벌금 2억5000만원의 중형을 선고했다. 재판부는 쌍방울이 경기도가 북한에 냈어야 할 스마트팜 사업비와 경기도지사 방북비용을 대납한 사실을 모두 인정했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>주말 수도권 33도 찜통더위, 남부에는 100㎜ 장맛비</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/07/12/DISIRIG6KRAH7IDEMBHWH3HD2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/12/DISIRIG6KRAH7IDEMBHWH3HD2A/</guid>
-      <dc:creator>선정민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 05:12:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VE3ODYLJTHCHZYWCC25BVJPDMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;집중호우로 물에 잠긴 부여군 비닐 하우스. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말인 13~14일 수도권과 강원·충청 등 중부지방은 낮 최고기온이 33도에 달하는 찜통 더위가 이어지는 가운데 일부 지역은 짧고 강한 소나기가 올 수 있다고 기상청이 12일 예보했다. 주말 남부지방(영호남)에서는 제주도 남쪽에 머물던 장마전선이 서서히 올라오면서 최대 100㎜의 많은 비가 내릴 전망이다. 다음주부터는 장마전선이 본격 중부로 북상하면서 비가 전국으로 확대되고 며칠간 계속될 전망이다.&lt;br&gt;&lt;br&gt;토요일(13일) 중부에는 한때 소나기가 내리는 일부 지역을 제외하면 대부분 맑거나 다소 흐리겠다. 낮 최고기온은 서울 33도, 수원 32도, 춘천 33도, 대전 32도 등이다. 14일에도 중부는 다소 흐리거나 맑은 가운데 낮 최고기온이 30~31도에 달할 전망이다. 장마전선이 한반도 남부로 내려가 있는 상황에서 강한 햇볕과 높은 습도로 인해 폭염이 나타나는 것이다. 다만 중부 상공에서도 한반도 북쪽의 찬 공기와 남쪽의 뜨거운 공기가 충돌하면서 천둥과 번개를 동반한 시간당 20㎜ 내외의 강한 소나기가 내리는 곳이 일부 있겠다.&lt;br&gt;&lt;br&gt;제주도에서는 13일 오전부터 장마전선에 의한 비가 시작돼 오후에 전남·경남 남해안으로 옮겨가겠다. 14일에는 전북 남부와 경북 남부, 경남 내륙까지 장마전선의 영향이 커질 전망이다. 13~14일 이틀간 남부 지역 예상 강수량은 제주도 50~100㎜(많은 곳 150㎜ 이상), 부산·울산과 경남·전남 남해안 30~80㎜(많은 곳 100㎜ 이상), 경남 내륙 20~60㎜, 광주·전남·대구·경북 남부 5~40㎜다.&lt;br&gt;&lt;br&gt;월요일인 15일은 남부와 제주도를 중심으로 비가 이어지다가, 16~22일엔 장마전선이 본격 북상하면서 전국 대부분 지역에서 비가 계속되겠다. 동서로 길게 뻗은 띠 모양 장마전선의 아래에선 강하고 많은 비가 집중적으로 오는 반면, 전선에서 벗어난 지역은 낮 최고기온이 최대 33도에 달하고 열대야도 나타나겠다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>현역 축구선수, 교통사고 내고 도주…주거지에서 체포</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/12/GB5GXOJWONC33KKFQGLJJP4WRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/12/GB5GXOJWONC33KKFQGLJJP4WRA/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 04:12:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZT7LYKAVP24S6NVPJ5KEHEKLCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현역 축구선수가 서울 강남구에서 교통사고를 내고 달아났다가 검거됐다.&lt;br&gt;&lt;br&gt;12일 서울 강남경찰서는 현역 축구선수로 뛰고 있는 A(35)씨를 사고후미조치 등 혐의로 입건했다. A씨는 이날 오전 6시 6분쯤 서울 강남구의 한 인도 위 변압기와 가로수를 들이받고 도주했다가 주거지에서 긴급체포됐다.&lt;br&gt;&lt;br&gt;2010년 강원FC에 입단한 A씨는 독일과 일본, 말레이시아 등지에서 선수로 활동했다. U16 청소년 국가대표로도 뛰었다.&lt;br&gt;&lt;br&gt;경찰은 사고 현장에서 A씨의 음주를 감지해 음주 측정을 하고자 했으나 A씨는 음주운전 측정기 사용을 거부했다. 경찰은 A씨의 동의를 받아 채혈을 했고, 현재 검사 결과를 기다리고 있다. 경찰 관계자는 “음주 감지기 테스트에서는 음주 반응이 나왔다”고 했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “현재 정확한 범행 경위를 조사 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
