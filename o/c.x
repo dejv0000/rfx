@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>16년 장기미제…시흥 슈퍼마켓 살인사건 유력 용의자 검거 </title>
+      <link>https://www.chosun.com/national/incident/2024/07/14/DDG2AVEZOVEDTHZ4VSKL6EMFEM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/14/DDG2AVEZOVEDTHZ4VSKL6EMFEM/</guid>
+      <dc:creator>시흥=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Jul 2024 13:42:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R5MJBIGNXBVLKU3ADFHNGNN2OA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;시흥 강도살인 용의자 수배 전단. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 시흥에서 벌어진 미제 살인 사건의 유력 용의자가 16년 만에 검거됐다.&lt;br&gt;&lt;br&gt;14일 경찰에 따르면 시흥경찰서는 이날 오후 8시쯤 A 씨를 자택인근에서 붙잡아 시흥서로 압송했다.&lt;br&gt;&lt;br&gt;앞서 A 씨는 지난 2008년 12월 9일 오전 4시쯤 시흥시 정왕동의 한 24시간 슈퍼마켓에 침입해 점주 B 씨를 흉기로 살해하고 금품을 훔쳐 달아난 혐의를 받는다.&lt;br&gt;&lt;br&gt;이 사건은 경찰이 A씨의 신원파악에 실패하는 등 수사에 어려움을 겪다 미해결 장기미제 사건으로 남았다. 경찰 관계자는 “수사 중이라 자세한 내용은 확인해줄 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HPGKY6HIYFE5JCZFRXSS52HEDQ.JPG?width=416&amp;height=312&amp;auth=54ae10ee7affcefcc562365ae618944bbccac915bf6736b08610dea0559e175d&amp;smart=true" type="image/jpeg" height="312" width="416">
+        <media:description type="plain">시흥 강도살인 용의자 수배 전단.</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>울산 노상에 주차된 차량서 40대 남녀 쓰러진 채 발견...여성은 숨져</title>
+      <link>https://www.chosun.com/national/incident/2024/07/14/WGMTD3JAS5EPXMBWU3IMM7ZRJA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/14/WGMTD3JAS5EPXMBWU3IMM7ZRJA/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Jul 2024 13:20:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7UGH63LXQLCLVNNVT3JR6DJMPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14일 오후 4시 35분쯤 울산 동구 화정동 노상에 주차된 차 안에서 40대 남녀가 쓰러진 채 발견됐다.&lt;br&gt;&lt;br&gt;경찰이 출동했을 당시 여성은 이미 숨진 상태였다. 남성은 의식을 잃은 채 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;경찰은 이들의 관계, 범죄 가능성 등 구체적인 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;※ 우울감 등 말하기 어려운 고민이 있거나 주변에 이런 어려움을 겪는 가족·지인이 있을 경우 자살예방 상담전화 ☎109에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조원희도 축구협회 저격… “박주호 법적 대응 소식, 말이 안 나와” </title>
+      <link>https://www.chosun.com/national/national_general/2024/07/14/DNL4DD6UMFHIBKTVLTULYNLHKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/14/DNL4DD6UMFHIBKTVLTULYNLHKQ/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Jul 2024 12:41:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4XV7NP5SAFCDXP3YET4X4KPIAM.png"&gt;&lt;figcaption&gt;&lt;small&gt;'이거해조 원희형' 유튜브에서 축구 국가대표팀 감독 선정 과정과 관련해 입을 연 조원희 전 축구선수. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이영표·이천수·박지성·이동국 등 전 국가대표 축구선수들이 잇달아 대표팀 감독 선정 과정과 관련해 대한축구협회를 비판하고 나선 가운데, 조원희 전 선수도 입을 열었다.&lt;br&gt;&lt;br&gt;조원희는 14일 오후 자신의 유튜브 채널 커뮤니티를 통해 “한국 축구가 혼란스러웠던 5개월의 시간이었다”며 “축구인이자 한국 축구를 사랑하는 한 사람으로서 매우 안타까운 마음이 드는 게 사실”이라고 했다. 그러면서 “대한민국 국가대표 축구 감독 선임 과정 및 박주호 선수에 대한 축구협회의 법적 대응 소식을 접하고 차마 말이 나오지 않았다”고 했다.&lt;br&gt;&lt;br&gt;조원희는 이어서 축구협회를 향해 “그동안 응원의 목소리가 모두 묻혀버리고 말았다”며 “이 상황에 대해 많은 사람이 궁금해하는 내용을 정확하고 확실하게 답변해 드려야 한다고 생각한다. 대한민국 축구를 미치게 응원하고 지지할 수 있도록 조금 더 옳은 결정을 내려주시길 마음 깊이 기대하고 있다”고 했다.&lt;br&gt;&lt;br&gt;조원희는 2020년 현역 생활을 마친 뒤 유튜버로 활동해왔다. 현재 채널 구독자는 약 47만명이다. 작년 1월부턴 축구협회 사회공헌위원장을 맡았으나, 같은 해 4월 승부 조작 연루 등 사유로 징계 중인 축구인들에 대한 협회의 ‘기습 사면’을 놓고 공분이 커지자 3개월 만에 자리에서 내려왔다.&lt;br&gt;&lt;br&gt;한편 이영표, 이천수, 박지성, 이동국 등 전 국가대표 선수들은 잇달아 축구협회를 저격했다. 축구협회가 홍명보 울산 감독을 대표팀 사령탑으로 선임한 것을 이해할 수 없다는 취지였다.&lt;br&gt;&lt;br&gt;이영표는 “K리그 팬들이 도저히 받아들일 수 없고, 이해할 수도 없는 결정”이라며 “이런 결정이 과연 대표팀에 대한 지지로 이어질 수 있을지 상당히 의문이 든다”고 했다. “이번 감독 선임 과정에서 협회가 여러 가지 행정적인 실수를 했다”며 “실수가 반복되면 그것은 실수가 아니라 실력이 될 수도 있다. ‘어떤 전체적인 변화가 필요하겠구나’라는 생각을 하게 됐다”고도 했다.&lt;br&gt;&lt;br&gt;박지성은 “역사상 이렇게 많은 외국인 감독이 한국 축구 대표팀 감독직을 원한 적이 있었나를 생각하면 아쉽다”며 “대표팀 선수들도 당황했을 것”이라고 했다. 이어 “지금은 체계가 완전히 무너졌다”며 “마땅한 규정이 없는 상황에서 내려올지 말지는 결국 회장이 스스로 선택해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이천수는 “솔직히 백날 얘기하면 뭐하냐. 얘기해도 바뀌지도 않는다”고 했다.&lt;br&gt;&lt;br&gt;대표팀 감독 선임 과정이 허술했다고 폭로한 박주호 축구협회 전력강화위원에게 축구협회가 법적 대응을 시사한 점에 대한 지적도 있었다. 이동국은 “지금의 이슈에서 한 단어가 제 머릿속을 강타한다. ‘법적 대응’이다”라며 “누구보다 노력해 온 사람에게 이런 단어를 사용하는 것은 아니라고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>설민석 “공포스러웠다”… 논문 표절 논란 3년만에 방송 복귀 </title>
+      <link>https://www.chosun.com/national/national_general/2024/07/14/2ZJ3BFS475ACZHNA43YDW3AVGA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/14/2ZJ3BFS475ACZHNA43YDW3AVGA/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Jul 2024 11:20:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NHXC3WDPYFGOJHTG5YF5KGWQZE.png"&gt;&lt;figcaption&gt;&lt;small&gt;논문 표절 논란 이후 3년 6개월만에 공중파 방송에 복귀한 한국사 강사 설민석. /MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;석사 논문 표절을 인정하고 모든 방송에서 하차했던 한국사 강사 설민석씨가 약 3년 6개월 만에 공중파 방송에 복귀했다.&lt;br&gt;&lt;br&gt;설씨 모습이 공중파 방송에서 포착된 건 지난 12일 첫 방송한 MBC 예능 프로그램 ‘심장을 울려라 강연자들’(강연자들)에서다.&lt;br&gt;&lt;br&gt;강연자들은 각 분야 일인자 7명이 같은 주제를 일곱가지 시선으로 해석해 강연하는 쇼 프로그램이다. 설씨를 포함해 오은영 정신의학과 박사, 김성근 전 프로야구 감독, 김영미 PD, 금강스님, 한문철 변호사, 코미디언 박명수가 강연자로 나선다.&lt;br&gt;&lt;br&gt;설씨는 이날 방송이 끝날 때쯤 등장했다. 제작진은 설씨를 ‘한국사 열풍을 일으킨 주역’이라고 소개했다. 박명수가 “어떤 강의를 준비하셨나. 오랜만에 나오니 궁금해서 그런다”고 묻자, 설씨는 다소 긴장한 얼굴로 “어디에서도 하지 못한 이야기를 최초로 공개하겠다”고 답했다. 강연 1시간 전 진행된 리허설에선 실수를 연발했다.&lt;br&gt;&lt;br&gt;이윽고 무대에 올라 청중 앞에 선 설씨는 “안녕하세요. 설민석입니다. 반갑습니다”라고 인사를 건넸다. 이후 설씨는 한동안 뜸을 들이다 “저는 이 자리에 서기까지 너무 떨리고 공포스러웠습니다”라며 운을 뗐고, 이 장면으로 첫 방송은 끝났다.&lt;br&gt;&lt;br&gt;예고편에서 설씨 모습이 한 차례 더 공개됐는데, 여기에서 설씨는 “어린이 팬들이 주마등처럼 스쳐 가는데...”라며 한숨을 내쉬었다. 김영미 PD가 “이번 석사 논문이 저번 석사 논문과 같은 주제이시냐”며 다소 날카로운 질문을 던지기도 했다. 설씨의 전체 강연은 오는 19일 전파를 탈 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AH4ACB3NQFHFPH6APADPTVFP34.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2020년 논문 표절을 인정하며 모든 방송에서 하차하겠다고 밝힌 설민석. /페이스북 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 설씨는 2020년 12월 역사 왜곡 논란에 이어 석사 논문 표절 의혹까지 불거지면서 모든 방송에서 하차했다.&lt;br&gt;&lt;br&gt;당시 국내 이집트고고학 전문가로 알려진 곽민수 한국이집트학연구소장이 tvN ‘설민석의 벌거벗은 세계사’ 이집트 클레오파트라 편에 대해 “사실관계 자체가 틀린 게 너무 많아서 하나하나 언급하기가 힘들 지경”이라며 공개 저격했고, 얼마 지나지 않아 설씨의 연세대 교육대학원 석사 논문 ‘한국 근현대사 교과서 서술에 나타난 이념 논쟁연구’(2010)의 표절률이 52%로 나타났다는 언론 보도까지 나왔다.&lt;br&gt;&lt;br&gt;이에 설씨는 자신의 페이스북을 통해 “석사 논문 표절 사태로 많은 분들께 불편과 심려를 끼쳐드려 죄송하다. 석사 논문을 작성함에 있어 연구를 게을리하고 인용과 각주 표기를 소홀히했음을 인정한다”며 “책임을 통감하며 앞으로 출연 중인 모든 방송에서 하차하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>檢, ‘불법 촬영’ 황의조 수사기밀 유출한 현직 경찰 구속 기소</title>
       <link>https://www.chosun.com/national/court_law/2024/07/14/ETQHJ5QSJFEH3HQA4FKD3RKUWE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/14/ETQHJ5QSJFEH3HQA4FKD3RKUWE/</guid>
@@ -915,42 +955,6 @@
       <description/>
       <pubDate>Fri, 12 Jul 2024 05:12:48 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VE3ODYLJTHCHZYWCC25BVJPDMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;집중호우로 물에 잠긴 부여군 비닐 하우스. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말인 13~14일 수도권과 강원·충청 등 중부지방은 낮 최고기온이 33도에 달하는 찜통 더위가 이어지는 가운데 일부 지역은 짧고 강한 소나기가 올 수 있다고 기상청이 12일 예보했다. 주말 남부지방(영호남)에서는 제주도 남쪽에 머물던 장마전선이 서서히 올라오면서 최대 100㎜의 많은 비가 내릴 전망이다. 다음주부터는 장마전선이 본격 중부로 북상하면서 비가 전국으로 확대되고 며칠간 계속될 전망이다.&lt;br&gt;&lt;br&gt;토요일(13일) 중부에는 한때 소나기가 내리는 일부 지역을 제외하면 대부분 맑거나 다소 흐리겠다. 낮 최고기온은 서울 33도, 수원 32도, 춘천 33도, 대전 32도 등이다. 14일에도 중부는 다소 흐리거나 맑은 가운데 낮 최고기온이 30~31도에 달할 전망이다. 장마전선이 한반도 남부로 내려가 있는 상황에서 강한 햇볕과 높은 습도로 인해 폭염이 나타나는 것이다. 다만 중부 상공에서도 한반도 북쪽의 찬 공기와 남쪽의 뜨거운 공기가 충돌하면서 천둥과 번개를 동반한 시간당 20㎜ 내외의 강한 소나기가 내리는 곳이 일부 있겠다.&lt;br&gt;&lt;br&gt;제주도에서는 13일 오전부터 장마전선에 의한 비가 시작돼 오후에 전남·경남 남해안으로 옮겨가겠다. 14일에는 전북 남부와 경북 남부, 경남 내륙까지 장마전선의 영향이 커질 전망이다. 13~14일 이틀간 남부 지역 예상 강수량은 제주도 50~100㎜(많은 곳 150㎜ 이상), 부산·울산과 경남·전남 남해안 30~80㎜(많은 곳 100㎜ 이상), 경남 내륙 20~60㎜, 광주·전남·대구·경북 남부 5~40㎜다.&lt;br&gt;&lt;br&gt;월요일인 15일은 남부와 제주도를 중심으로 비가 이어지다가, 16~22일엔 장마전선이 본격 북상하면서 전국 대부분 지역에서 비가 계속되겠다. 동서로 길게 뻗은 띠 모양 장마전선의 아래에선 강하고 많은 비가 집중적으로 오는 반면, 전선에서 벗어난 지역은 낮 최고기온이 최대 33도에 달하고 열대야도 나타나겠다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘김만배와 돈거래 혐의’ 前 언론인 15일 영장실질심사</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/12/3PANJUTTRVEYNHSIUEQNAFAMPI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/12/3PANJUTTRVEYNHSIUEQNAFAMPI/</guid>
-      <dc:creator>송원형 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 05:14:15 +0000</pubDate>
-      <content:encoded>‘대장동 사건’의 핵심 인물인 화천대유 대주주 김만배씨에게 억대 금품을 수수한 혐의(배임수재 등)로 구속영장이 청구된 전직 언론사 간부 2명에 대한 영장실질심사가 오는 15일에 열린다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZIVALRDCI6USPYKPZTP25SNTI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;화천대유자산관리 대주주 김만배씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 법조계에 따르면 서울중앙지법 김석범 영장전담 부장판사는 15일 오전 전직 한겨레신문 간부 A씨와 중앙일보 간부 B씨에 대한 영장실질심사를 열고 구속 필요성을 심리한다.&lt;br&gt;&lt;br&gt;두 사람은 김씨에게 대장동 개발 사업과 관련한 비판 기사는 막고, 유리한 기사가 보도될 수 있게 해 달라는 부탁을 받고, 각각 8억9000만원과 2억100만원을 받은 혐의를 받고 있다. 김씨에게 1억원을 받은 혐의로 이들과 함께 수사를 받던 한국일보 전직 간부 C씨는 지난달 말 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;검찰은 김씨가 대장동 개발 사업으로 벌어들인 돈을 어디에 썼는지 추적하는 과정에서 이들과의 돈 거래를 확인하고 수사를 이어왔다. 지난 4월 A씨 등 3명의 자택을 압수 수색한 데 이어 최근까지 조사를 벌였다. 검찰은 B씨가 김씨에게 유리한 기사가 보도되도록 한 정황도 다수 확보한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편 검찰은 김씨가 지난 대선 당시 다른 언론에도 ‘윤석열 후보가 검사 시절 대장동 대출 브로커 조우형씨 사건을 무마해줬다’는 허위 사실이 보도되도록 영향력을 행사했다고 보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법 “대학 시간강사 수업준비도 근로시간 포함”</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/12/4WT3G2QTNZEZXCHAUPBIMASTQM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/12/4WT3G2QTNZEZXCHAUPBIMASTQM/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 05:20:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DUQ5GHIOSOPNQLBT2TD4KZUZ3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대학교에서 일하는 시간강사의 근로시간에는 실제 강의 시간뿐 아니라 강의를 준비하고, 학생을 관리하는 시간도 포함된다는 대법원의 판단이 나왔다. 이를 합친 주당 근로시간이 15시간이 넘으면 시간강사도 주휴수당 등을 지급받을 수 있다.&lt;br&gt;&lt;br&gt;12일 법조계에 따르면, 대법원 1부(주심 김선수 대법관)는 전날 시간강사 8명이 국가를 상대로 낸 임금 등 청구 소송에서 원심 판결의 주휴수당과 연차휴가수당 부분을 파기하고 서울고법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;이 사건은 국립대 비전업 시간강사들이 2020년 10월 수당과 강의료 등을 적법하게 달라며 소송을 낸 것이 발단이다. 시간강사들은 해당 대학에서 주 12시간 이하로 수업을 진행했다. 이들은 전업 시간강사가 아니라는 이유로 더 낮은 강의료를 받았고, 연차휴일수당과 주휴수당 등은 일절 받지 못했다.&lt;br&gt;&lt;br&gt;재판의 쟁점은 시간강사들이 주 15시간 미만 일하는 ‘초단시간 근로자’에 해당하는지였다. 현행 근로기준법 18조는 초단시간 근로자에게는 주휴와 연차휴가에 관한 규정을 적용하지 않는다고 규정한다. 대학 강사들의 근무 시간을 강의 시간으로 한정하면 주 15시간을 넘기기가 어려워, 수당 지급을 두고 학교와 갈등을 빚어왔다. 시간강사들은 “강의 준비 시간과 행정 업무 시간 등도 근로시간에 포함해야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;1심은 시간강사들에게 수당을 지급해야 한다고 봤지만, 2심은 수당 관련 청구는 기각했다. 2심 재판부는 “강사들이 계약 당시 정한 주당 수업시간 수가 12시간 이하이므로 초단시간 근로자라고 봐야한다”고 했다. 다만 1, 2심은 모두 전업과 비전업 강사 간 강의료에 차등을 두는 것은 위법이라고 판단했다.&lt;br&gt;&lt;br&gt;대법원은 “원심이 초단시간 근로자와 근로시간에 관한 법리를 오해한 잘못이 있다”며 수당 부분을 다시 심리하라고 했다.&lt;br&gt;&lt;br&gt;대법원은 “원고들은 강의를 하기 위해 강의계획서를 작성하고, 학생 상담, 지도, 시험 출제 및 채점 업무 등을 수행해야 했다”면서 “이는 시간강사가 강의할 때 필연적으로 수반되는 업무”라고 지적했다.&lt;br&gt;&lt;br&gt;이어 “원심이 원고들을 일률적으로 초단시간 근로자로 본 것은 강의 수반 업무에 필요한 시간을 거의 인정하지 않은 것과 마찬가지”라며 “강의 수반 업무의 구체적인 내용과 소요되는 시간 등을 심리한 다음, 총 근로시간이 1주 15시간 이상인지를 살펴서 원고들이 초단시간 근로자에 해당하는지 판단해야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>쯔양 변호사 “쯔양 무기력한 상태… 녹취 공개 협의 없었다”</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/12/JVS2AI4EOBFDLHCCBOLC6NKM2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/12/JVS2AI4EOBFDLHCCBOLC6NKM2A/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 05:02:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XPUDAPYHQM6DQVETSKFDNO2HVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1030만 구독자를 보유한 ‘먹방 유튜버’ 쯔양(본명 박정원). /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;먹방 유튜버 쯔양(본명 박정원)이 전 남자친구로부터 폭행‧갈취 피해를 당했다고 고백한 이후, 자신에게 쏟이지는 관심을 버거워하고 힘들어하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;쯔양의 법률대리인 김태연 변호사는 12일 YTN 뉴스FM ‘슬기로운 라디오생활’에 출연해 쯔양의 상태와 쯔양이 피해 사실을 고백하게 된 이유 등에 대해 설명했다.&lt;br&gt;&lt;br&gt;앞서 쯔양은 전날 새벽 유튜브 라이브를 통해 ‘전 남자친구이자 전 소속사 대표로부터 수년동안 폭행당했고’고 폭로했다. 남자친구의 협박으로 과거 한 유흥주점에서도 일했으며, 그동안 번 수십억원을 부당계약 등으로 갈취당했다고도 했다. 이 사태는 쯔양의 과거를 알게 된 일부 유튜버가 이 사실을 돈벌이에 어떻게 활용할지 모의하는 정황이 담긴 녹취 파일을 유튜브 채널 ‘가로세로연구소’(가세연)가 공개하면서 시작됐다.&lt;br&gt;&lt;br&gt;김 변호사는 “사건이 종결된 지 1년 이상 지났고, 이걸 공개할 생각이 전혀 없었다”며 “그런데 사전에 어떤 협의 없이 쯔양 측 입장은 배제하고 유튜버 구제역 등의 녹음파일이 공개됐고, 저희 쪽 입장은 반영이 되지가 않았다”고 했다.&lt;br&gt;&lt;br&gt;이어 “그렇다 보니 방송에서 추측했던 부분과 진실, 사실관계가 좀 다른 부분들이 있었다”며 “계속되는 오해나 억측 같은 걸 방지하기 위해 본인 피해 사실을 진술하는 걸로 결정하게 됐다”고 했다.&lt;br&gt;&lt;br&gt;김 변호사는 쯔양의 상태에 대해 “방송 이후에는 저랑도 연락이 어려울 정도로 거의 무기력한 상태에다 많이 힘들어한다. 많은 분들이 관심을 가지다 보니 그거 자체가 좀 많이 버거운 상황”이라고 했다.&lt;br&gt;&lt;br&gt;김 변호사는 ‘쯔양 측에 과거 일을 밝히지 않는 조건으로 돈을 뜯어냈다’고 지목된 이른바 렉카 유튜버들에 대해선 “어떻게 대응하겠다는 의견이 아직 있지 않다”며 “향후 의견을 정리해 말할 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/73VG22IZJVWPXL3L3RVFDEFET4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 쯔양이 2020년 7월 22일 올린 영상. 쯔양의 오른손 팔뚝과 손가락에 상처를 치료한 뒤 붙인 듯한 밴드가 보인다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 변호사는 쯔양이 전 남자친구 A씨를 고소하게 된 배경도 설명했다. 그는 쯔양이 소속사와의 전속계약을 수정하는 과정에서 만나게 됐다고 했다. 김 변호사는 “당시 쯔양은 이 계약에서 벗어날 수 없다고 판단했던 것 같다. 다만 계약서가 너무 불공정한 부분이 있으니까 그 부분을 수정하고 싶어서 저희한테 자문을 요청을 했던 것”이라고 했다. 그러면서 “그 때도 소속사 직원이 익명으로 진행해 (계약 당사자가) 쯔양인 걸 몰랐다”고 했다.&lt;br&gt;&lt;br&gt;그는 “그런데 계약서를 검토하니 아티스트가 이렇게 불리하게 진행되는 계약이 상황이 통상적으로 납득이 안 됐다”며 “이후 (아티스트가) 쯔양인 걸 알게 됐고, 이렇게 (계약한) 경위, 정산 등 계약 자체가 굉장히 불공정한데도 수년간 지속됐던 이유를 설명하는 과정에서 쯔양의 피해를 알게 됐다”고 했다.&lt;br&gt;&lt;br&gt;그러나 쯔양은 당초 A씨를 고소할 생각이 없었다고 했다. 쯔양은 고소를 진행하면 피해 사실이 알려지게 되고 직원들도 피해를 입어 차라리 자신이 A씨의 폭행을 감수하는 게 더 낫다는 입장이었다고 한다. 김 변호사는 “쯔양이 뭔가 이성적으로 올바른 판단을 못하고 있다는 생각이 들었다”며 “그때부터 수차례 쯔양과 소속사 직원분들이랑 면담했고 결국 법적 조치를 결심하게 됐다”고 했다.&lt;br&gt;&lt;br&gt;그는 “A씨의 폭행은 비일비재 했다. 성범죄 같은 피해도 있었다”고 했다. 이어 “쯔양은 광고 수익이 가장 큰 데 광고 수익 일체가 회사 계좌로 지급돼 쯔양은 광고에 출연하더라도 대가가 얼마인지 정확하게 전혀 알지 못했다”고 했다.&lt;br&gt;&lt;br&gt;쯔양은 A씨를 상습폭행, 상습협박, 상습상해, 공갈, 강요, 성폭력처벌법 위반 등으로 고소했다. 이와 함께 정산금 청구, 전속계약 해지, 상표출원 이의 등을 포함한 민사 소송을 진행했다.&lt;br&gt;&lt;br&gt;김 변호사는 쯔양이 남자친구 A씨를 형사고소한 건 2022년 11월쯤이며, 사건이 ‘공소권 없음’이라는 불송치 결정난 건 2023년 3~4월쯤이라고 했다. 정산금 문제의 경우, 쯔양이 정산받지 못한 금액은 40억원으로 추정됐는데 A씨와 합의로 사건을 종결했다고한다. 다만 A씨가 당시 금전적 여유가 없어 40억원에 못 미치는 금액을 돌려받았다고 한다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 검사·금감원 과장 사칭해 4억9200만원 가로챈 보이스피싱 조직원 검거</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/12/FNTZKBUIQFHKBKQUTGZXPCW3EQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/12/FNTZKBUIQFHKBKQUTGZXPCW3EQ/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jul 2024 05:02:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DYDPM4IXTJFWVO2VJOG474SSSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 동작경찰서는 남부지검 검사와 금융감독원 과장을 사칭해 사기를 친 보이스피싱 조직원을 검거했다고 12일 밝혔다. 30대 여성 A씨는 지난 6월 11일부터 이달 4일까지 피해자 3명으로부터 약 4억9200만원을 편취한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;조직원 A씨는 범행 과정에서 남부지검 박모 검사와 금융감독원 최모 과장 행세를 하며 “해외로 30억원을 빼돌린 범죄 사건에 당신의 계좌가 대포통장으로 이용됐다. 현금카드를 주거지 우편함에 넣어 두고 대출을 받으면 계좌를 원상복구해 주겠다”고 피해자들을 속였다고 한다. A씨는 피해자들이 우편함에 넣어 둔 현금카드를 꺼내 4억9200만원을 인출, 중국 보이스피싱 조직에 넘겼다. A씨가 받기로 약속된 범행 대가는 착수금 569만원과 피해금의 15~20%였던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 17일간의 추적 끝에 A씨의 은신처를 특정해 A씨를 붙잡았다. 경찰은 현재 A씨에게 여죄가 없는지 살펴보는 한편 보이스피싱 조직의 총책을 추적 중이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “수사기관 및 금융기관을 사칭하면서 현금 및 카드를 요구한다면 보이스피싱 범죄일 가능성이 크므로 각별히 주의해야 한다”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>현역 축구선수, 교통사고 내고 도주…주거지에서 체포</title>
