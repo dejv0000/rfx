@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘비계 삼겹살’ ‘바가지’...“제주관광 불편 신고 여기로 하세요”</title>
+      <link>https://www.chosun.com/national/regional/2024/07/15/UJZMFTZDRBFF3HFR7TUPOTONBE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/15/UJZMFTZDRBFF3HFR7TUPOTONBE/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Jul 2024 04:58:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DTKZOTLP6DLP4EPSE4DESVJK6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 제주시 아라동 제주종합비즈니스센터에 설치된 '제주관광 불편신고센터' 개소식 참석자들이 '제주관광 이미지 개선 및 수용태세 확립을 위한 결의'를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주를 찾는 관광객들의 민원과 바가지 논란 등에 대응하기 위해 제주도가 전용 신고센터를 운영한다.&lt;br&gt;&lt;br&gt;제주도는 15일 오전 제주시 아라동 제주종합비즈니스센터 3층에 ‘제주관광 불편신고센터’를 개소했다. 제주도관광협회가 운영하는 제주관광 불편신고센터는 여행객들의 불편을 원스톱으로 접수하고 신속하게 처리하는 역할을 맡는다. 도는 관광 불편신고센터를 통해 분산돼 있던 여행객 소통창구를 일원화하고 ‘현장 신속대응팀’을 도입, 관광객의 불편을 즉각적으로 해결할 수 있는 체계를 갖췄다고 설명했다.&lt;br&gt;&lt;br&gt;그동안 제주 관광객들은 제주도 누리집, 120 만덕콜센터, 제주관광정보센터 등 다양한 경로로 문제점을 제기하면서 민원 처리의 일관성과 효율성에 제약이 있었다는 것이다.&lt;br&gt;&lt;br&gt;여행객들은 앞으로 전용 전화(1533-0082)나 온·오프라인을 통해 간편하게 여행 과정에서의 불편이나 문제점을 신고할 수 있다. 온라인으로는 제주도관광협회 누리집과 큐알(QR) 코드로, 오프라인은 관광협회가 위탁 운영하는 관광안내소(제주국제공항, 연안여객터미널, 국제여객터미널, 성산항)에서 접수할 수 있다.&lt;br&gt;&lt;br&gt;또 제주도 관광교류국장이 총괄하는 ‘제주관광 이미지 리브랜딩 전담팀(TF)’도 가동한다. 전담팀은 제주관광 이미지 개선을 위한 정책의 실효성 확보와 신뢰도 회복을 목표로 관광 현장의 이슈에 대응할 계획이다.&lt;br&gt;&lt;br&gt;이날 개소식에서는 관광인들이 제주관광 이미지 개선을 위한 결의문을 낭독하고 공항에서 홍보 캠페인을 펼쳤다.&lt;br&gt;&lt;br&gt;오영훈 지사는 “제주의 가치를 온전히 느낄 수 있는 여행 경험을 제공하기 위해 공정한 가격, 향상된 서비스 제공에 힘쓰면서 여행객과 지역주민의 목소리에 귀를 기울이겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>울산 아파트 화단 7500만원 돈다발 주인 찾았다</title>
+      <link>https://www.chosun.com/national/2024/07/15/TBUYJCP3NZAMLDCZNR7SPQSSSU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/07/15/TBUYJCP3NZAMLDCZNR7SPQSSSU/</guid>
+      <dc:creator>울산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Jul 2024 04:41:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T76JRZAW525W3WVBDQ2JAM63WM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산 한 아파트 화단에서 발견된 돈다발. /울산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산시 남구의 한 아파트 화단에서 두 차례에 걸쳐 발견된 총 7500만원 돈다발의 주인은 울산 내 다른 구에 거주하는 80대 노인으로 밝혀졌다. 당초 이 돈의 범죄 연관성을 살펴보던 경찰은 은행 인출자 조사와 주변 방범카메라 분석 등을 통해 범죄 혐의점은 없는 것으로 판단했다.&lt;br&gt;&lt;br&gt;울산 남부경찰서는 5만원 지폐로 발견된 총 7500만원의 돈다발 주인인 남성 A(80대)씨를 찾았다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 남구 옥동의 한 아파트 화단에서 지난 4일 5000만원, 지난 6일 2500만원의 돈다발을 각각 발견해 수사에 나섰다.&lt;br&gt;&lt;br&gt;경찰은 돈다발 띠지에 찍힌 은행 입고 날짜인 ‘3월 26일’과 담당자 직인을 확인하고 현금 인출 은행을 특정했다. 이후 고액 현금 인출자를 대상으로 조사를 벌였다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “해당 은행에서 ‘5000만원’을 찾은 사람 중 사용처가 확인되지 않은 유일한 사람이 A씨였다”고 했다. A씨는 가족은 있지만 울산 내 다른 지역에서 혼자 거주하는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 조사했고, A씨는 “정확한 일자는 모르겠고, 아파트 화단에 놓아두었다”는 취지로 진술했다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 지난 3월부터 6월까지 수차례 자신의 계좌에 있던 돈을 인출했다. 이후 지난 6월 16일쯤 검정 비닐봉지에 돈다발을 넣어 가방에 담은 채 울산 남구 한 아파트를 1시간 정도 배회했다. 경찰은 아파트 주변 방범카메라(CCTV)를 분석해 A씨가 돈다발이 발견된 아파트를 배회하는 장면을 확인했다. A씨는 이곳 아파트 주민은 아니다.&lt;br&gt;&lt;br&gt;A씨는 이후 아파트 화단에 돈을 놔둔 것으로 추정된다. A씨는 치매 판정 등을 받은 이력은 없었지만, 경찰이 A씨 진술을 받는데 어려움을 겪은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰이 국립과학수사연구원에 맡긴 검사에서는 해당 지폐에 A씨 지문 등 DNA가 검출되지는 않았다. 하지만 경찰은 A씨가 해당 아파트 주변 감시카메라에 실제로 포착되는 점, 수 년 전 받은 수억원의 개발보상금을 계좌에 보관하다가 인출하고 평소 지니고 다녔던 점, 인출한 지폐와 화단에서 발견된 지폐에 동일한 특징이 있는 점 등을 근거로 A씨가 돈의 주인이고, 범죄 관련성은 없는 것으로 결론을 지었다. 경찰은 보관 중인 현금 전액을 A씨에게 돌려줄 예정이다.&lt;br&gt;&lt;br&gt;앞서 지난 4일 오후 2시쯤 남구 옥동의 한 아파트에서 경비원이 순찰 도중 화단에 놓여 있던 검정 비닐봉지 속에서 현금 5000만원을 발견했다. 봉지 안에 5만원을 100장씩 묶은 돈다발 10개가 있었다. 이어 6일 오전 7시 45분쯤에 같은 아파트 화단에서 환경미화원이 검정 비닐봉지 안에 든 현금 2500만원을 추가로 발견했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시 ‘광화문 국가상징공간’ 한달간 시민 의견 수렴한다</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/15/GJJEXPOH5NB3NCTAEMOEMHM3SA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/15/GJJEXPOH5NB3NCTAEMOEMHM3SA/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Jul 2024 04:42:32 +0000</pubDate>
+      <content:encoded>서울시가 광화문광장에 국가 상징 공간을 조성하고 상징물을 설치하는 것과 관련, 15일부터 시민 의견을 수렴하기로 했다.&lt;br&gt;&lt;br&gt;서울시는 이날부터 8월15일까지 한달간 시 홈페이지를 통해 시민 의견을 듣는다고 밝혔다. 참여를 원하는 시민은 자유롭게 제안서를 작성해 내면 된다.&lt;br&gt;&lt;br&gt;서울시는 시민과 전문가 의견을 모은 뒤 설계 공모를 추진할 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SVDUSMKTXAEVOAFPHGX2UGNZPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 11일 오전 서울 중구 서울시청에서 열린 국가상징 공간 조성 관련 기자설명회에서 발언하고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 6월 오세훈 서울시장은 광화문광장 국가상징공간에 높이 100m짜리 태극기 게양대를 설치하는 방안을 발표했다.&lt;br&gt;&lt;br&gt;그러나 ‘지나친 애국주의’ ‘조망을 해친다’ ‘여론 수렴 절차를 거치지 않았다’ 등의 비판이 잇따랐다.&lt;br&gt;&lt;br&gt;이에 오 시장은 지난 11일 설명회를 열고 “국가 상징 조형물의 형태, 높이, 기념할 역사적 사건과 인물 등 모든 부문에서 가능성을 열어두고 시민 의견을 수렴할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국과수, ‘시청역 참사’ 운전자 과실에 무게...“액셀 90% 이상 밟아”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/15/FGRNDPNJRZBTHOYMJTBFBNXWKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/15/FGRNDPNJRZBTHOYMJTBFBNXWKQ/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Jul 2024 03:32:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2MUSTR4JB5HWZP33FHGKD45FJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 오후 9시 28분쯤 대형 교통사고가 발생한 서울 중구 시청역 인근. 경찰과 소방대원들이 폴리스라인을 친 채 사고 현장을 수습하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시청역 역주행 참사와 관련해 국립과학수사연구원(국과수)은 사고 원인이 차량 결함보다 운전자 과실일 가능성이 높다는 감정 결과를 경찰에 통보한 것으로 15일 알려졌다.&lt;br&gt;&lt;br&gt;조지호 서울경찰청장은 이날 정례 간담회에서 시청역 역주행 사고 원인 조사 등 진행 상황에 대해 “지난주 목요일(11일) 국과수 통보를 받아 분석을 마무리했다”며 “실체적 진실에 근접했다고 보면 된다”고 했다.&lt;br&gt;&lt;br&gt;앞서 경찰은 가해 차량 운전자 차모(68)씨가 몰던 제네시스 G80 차량과 차량의 사고기록장치(EDR) 등을 사고 다음 날인 지난 2일 국과수에 보내 정밀 감식·감정을 의뢰했다.&lt;br&gt;&lt;br&gt;국과수는 차량과 EDR 분석 결과 차씨가 가속페달(액셀)을 90% 이상 밟았다는 취지 등의 감정 결과를 경찰에 보내온 것으로 전해졌다.&lt;br&gt;&lt;br&gt;국과수는 또 사고 당시 브레이크등(燈)이 켜져 있는 것처럼 보인 것은 가로등이나 건물의 빛이 반사돼 보이는 난반사나 플리커 현상일 것으로 판단했다.&lt;br&gt;&lt;br&gt;조 청장은 “운전자의 진술이 어떻게 나오든, 운전자 진술을 확인 안 할 수는 없지만, 확인하고 더 이상 (실체적 진실에 대해서는) 수사할 게 없을 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;조 청장은 “운전자의 진술은 진술대로 존중하고 우리(경찰)가 확인해야 할 것은 최종적 진실”이라며 “국과수 감정 결과 통보 내용으로 운전자 진술을 확인해야 한다”고 했다.&lt;br&gt;&lt;br&gt;운전자 차씨는 지난 4일 첫 피의자 조사에서 “사고 당시 브레이크를 밟았으나 딱딱했다”고 진술하는 등 차량 이상에 따른 급발진을 주장해왔다.&lt;br&gt;&lt;br&gt;‘(운전자가) 진술에서 인정을 안 하면 구속영장 신청이 불가피한가’라는 질문에는 “조사 과정과 내용이 신병을 판단하는 중요한 판단 요소가 될 수 있다”고 답했다.&lt;br&gt;&lt;br&gt;사고 직후 갈비뼈 골절 등 치료를 위해 종로구 서울대병원에 입원 중인 운전자 차씨는 이날 다른 병원으로 옮겨 다시 입원할 예정이다.&lt;br&gt;&lt;br&gt;조 청장은 “(차씨를) 조사하러 갔는데 계속 통증을 호소하고 진술이 어렵다고 이야기해 조사 진행이 많이 못 된 상태에서 멈췄다”며 “상급 종합병원 입원 기간인 2주가 오늘 만료해 전원(환자가 치료받던 병원에서 다른 병원으로 옮김)해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;그는 “조사할 내용이 많아서 전원 상태나 경과 등을 봐서 (추후) 조사할 생각”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;조 청장은 시청역 사고 피해자에 대한 모욕성 글 작성 논란과 관련해서는 “현장에 모욕성 글을 놓고 간 분에 대해서는 조사를 마쳤고, 인터넷 댓글 모욕은 확인 중”이라고 말했다.&lt;br&gt;&lt;br&gt;경찰은 역주행 사고 현장에 마련된 추모공간에 피해자들을 조롱하는 쪽지를 남긴 20대 남성과 40대 남성 두 명을 지난 5일 사자명예훼손 혐의로 입건해 조사한 바 있다.&lt;br&gt;&lt;br&gt;서울경찰청 사이버수사대는 모욕성 인터넷 게시글 5건에 대해서도 입건 전 조사(내사)에 착수한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>4세 혼수상태 만든 태권도 관장...학대 더 있었나</title>
+      <link>https://www.chosun.com/national/incident/2024/07/15/TYGCUFHTCZBGLCWN7WD3N2DOL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/15/TYGCUFHTCZBGLCWN7WD3N2DOL4/</guid>
+      <dc:creator>양주=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Jul 2024 04:07:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F33H7QC2FO3WJOWRRRFLUA3LPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;자신이 운영하는 태권도장에서 4세 남자아이를 심정지 상태로 빠뜨린 관장이 14일 오후 경기 의정부지방법원에서 열리는 구속 전 피의자 심문(영장실질심사)을 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 양주의 한 태권도장에서 4세 어린이를 의식불명 상태에 빠지게 한 혐의로 구속된 30대 태권도 관장이 다른 어린이도 학대했다는 주장이 경찰에 접수됐다.&lt;br&gt;&lt;br&gt;15일 경기북부경찰청에 따르면 이날 관장인 30대 남성 A씨로부터 자녀가 학대를 당했다는 내용의 고소장이 경찰에 접수됐다.&lt;br&gt;&lt;br&gt;고소장에는 ‘우리 아이도 태권도장에서 여기저기 맞았고 다른 아이가 이를 봤다’는 취지의 내용이 담긴 것으로 전해졌다. 경찰은 A씨의 추가 학대 행위가 있었는지를 파악하기 위해 태권도장에 다니는 관원 전체를 대상으로 전수조사를 벌이는 중이다.&lt;br&gt;&lt;br&gt;앞서 A씨는 지난 12일 오후 자신이 운영하는 양주 덕계동 소재 태권도장에서 관원인 B(4)군을 들어 올려 말아 세워놓은 매트에 거꾸로 넣고 방치해 심정지 상태에 이르게 한 혐의를 받는다. B군은 이날까지도 의식을 차리지 못한 상태다.&lt;br&gt;&lt;br&gt;현장에서 긴급체포된 A씨는 경찰 조사에서 “장난으로 그랬다”며 고의성을 부인하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 범행 장면이 담긴 태권도장 방범카메라 영상을 삭제한 정황을 포착, 디지털 포렌식 작업을 진행하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>식당서 전자 담배 피우는 중국인...종업원 경고에도 무시</title>
       <link>https://www.chosun.com/national/national_general/2024/07/15/XVPRJH2SCZCOTIXDA47W447MQQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/15/XVPRJH2SCZCOTIXDA47W447MQQ/</guid>
@@ -795,15 +840,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WIOASP6MANHMBENNQMR45SSYCI.png"&gt;&lt;figcaption&gt;&lt;small&gt;네티즌 A씨는 지난 4월 14일 아내와 함께 인천의 한 호텔에 투숙했다가 낯선 남자가 객실에 무단 침입하는 황당한 일을 겪었다. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 호텔에서 무단 침입 사건을 겪었지만 호텔 측이 책임을 회피하고 있다는 부부의 주장이 나왔다. 옆방 투숙객이던 남성이 객실 문이 열리지 않자 호텔로부터 마스터키를 받았는데, 방을 착각해 부부의 객실에 들어온 황당한 일이 벌어졌다는 주장이다.&lt;br&gt;&lt;br&gt;12일 온라인 커뮤니티 ‘보배드림’에 따르면, 네티즌 A씨는 지난 4월 14일 아내와 함께 인천 중구의 한 호텔에 투숙했다. 당일 오전 7시 30분경, 누군가 객실 문을 열고 들어온 소리에 눈을 뜬 A씨는 처음 보는 남성 B씨가 서 있는 것을 보고 깜짝 놀랐다. B씨는 “문이 열리기에 들어왔다”고 말한 뒤 돌아나갔다. 당시 A씨와 아내는 알몸 상태였는데, 특이 아내는 놀란 마음에 수치심까지 느껴 벌벌 떨었다고 한다.&lt;br&gt;&lt;br&gt;A씨는 즉시 로비로 내려가 호텔 관계자에게 강하게 항의했지만 호텔 측은 미온적인 태도로 일관하며 법적으로 항의하라고 응대했다는 게 A씨의 주장이다. A씨는 증거 확보를 위해 경찰 입회 하에 해당 층의 방범카메라 확인을 요청했고, 확인 결과 옆방 투숙객이었던 B씨가 마스터기로 A씨의 객실로 들어와 약 7초간 머물다 나간 것으로 파악됐다. A씨는 “정말 어처구니 없는 상황에 말문이 막혔다”며 “일반 투숙객이 마스터키를 가지고 있었던 이유가 뭘까. 생각만 해도 소름이 끼치고 무섭다는 생각마저 든다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 이를 경찰에 신고했다. 경찰 조사 결과, 호텔 안내데스크에서 B씨에게 마스터키를 줬으며 B씨가 객실을 착각해 A씨의 객실로 들어간 것으로 확인됐다. 당시 B씨는 객실 문이 열리지 않아 프론트에 문의했는데, 직원이 바쁘다는 이유로 B씨에게 마스터키를 건넸다고 한다. 따라서 B씨의 주거침입 혐의가 성립되지 않아 사건은 그대로 종결됐다. 호텔 관계자는 당시 사과와 함께 정신적 피해 보상을 약속했으나 현재 연락을 회피하고 있다고 A씨는 주장했다.&lt;br&gt;&lt;br&gt;A씨의 아내는 이 사건으로 정신적 충격을 받아 장기간 정신건강의학과 치료를 받고 있다고 한다. A씨는 “그날 빚어진 사건으로 인한 정신적 충격은 정말 오래간다”며 “형사로 안된다면 민사를 통해서라도 호텔 측에 항의하려 한다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 네티즌들은 “B씨 고의성이 인정되지 않아 무혐의가 나온 듯 하다” “마스터키는 호텔 관계자 외엔 손댈 수 없는 게 원칙” “호텔 측에서 마스터키 관리를 잘못한 건데 기본적으로 사과와 피해보상을 해줘야 하는 거 아닌가” “병원 다니셨으니 진단서 있을 것이고, 그로 인한 피해보상 근거가 충분하다. 민사 소송 진행하라” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;투숙객 동의 없이 무단으로 객실에 들어갈 경우 ‘주거침입’으로 처벌을 받을 수 있다. 형법 제319조에 따르면 사람의 주거, 관리하는 건조물, 선박이나 항공기 또는 점유하는 방실에 침입한 자는 3년 이하의 징역 또는 500만원 이하의 벌금에 처할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>양주 태권도장 5세아 심정지 …관장이 CCTV 영상 삭제 정황 </title>
-      <link>https://www.chosun.com/national/incident/2024/07/13/46NU5O3GK5BPBDFHBGVBXNNFO4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/13/46NU5O3GK5BPBDFHBGVBXNNFO4/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 13 Jul 2024 02:52:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7UGH63LXQLCLVNNVT3JR6DJMPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 양주시 한 태권도장에서 5살 남자아이가 심정지 상태로 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;13일 경찰과 소방 당국에 따르면 지난 12일 오후 7시 40분쯤 경기 양주시 덕계동의 한 태권도장에서 “5살 남자아이가 숨을 쉬지 않는다”는 신고가 들어왔다.&lt;br&gt;&lt;br&gt;소방 당국이 출동해 현장에 도착했을 당시 A군은 심정지 상태였다. 소방 측은 “심폐소생술(CPR)을 하면서 A군을 인근 병원으로 옮겼다”고 말했다. 병원으로 옮겨진 A군은 중환자실에서 치료를 받고 있으나 의식을 회복하지 못하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;역시 신고를 받고 출동한 경찰은 이 태권도장에서 30대 남성 관장을 긴급 체포했다. 경찰은 “관장 B씨가 말아서 도장 한 켠에 세워둔 매트 사이에 A군을 거꾸로 넣고 10~20분 가량 방치한 것으로 추정된다”고 말했다.&lt;br&gt;&lt;br&gt;B씨는 매트 사이에 넣은 A군이 잠시 뒤 숨을 쉬지 않자 태권도장과 같은 건물에 있는 의원에 A군을 데려간 것으로 전해졌다. 이후 신고를 받고 출동한 소방 구조대가 A군을 큰 병원으로 옮겼다. B씨는 소방 당국에 의해 A군이 큰 병원으로 이송된 뒤 당시 장면이 담긴 태권도장 방범카메라(CCTV) 영상을 삭제한 것으로 경찰에 파악됐다.&lt;br&gt;&lt;br&gt;B씨는 경찰에서 “장난으로 그랬다”고 진술한 것으로 알려졌다. 경찰은 B씨를 아동학대범죄의 처벌 등에 관한 특례법상 아동학대 중상해 혐의로 입건, 자세한 사건 경위를 조사하고 있다. 경찰은 “관장 B씨의 태권도장 방범카메라(CCTV) 영상 삭제 여부와 경위, 이유 등에 대해서도 확인 중”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>인천 아파트 주차장 승용차 방화…20대 중상</title>
       <link>https://www.chosun.com/national/regional/2024/07/13/JXXLIJ2P5FDMXMFKMEA2PLEEJQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/13/JXXLIJ2P5FDMXMFKMEA2PLEEJQ/</guid>
@@ -813,24 +849,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R4TXZKIT3KYUVEC67Q56LKA2SE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오전 0시 29분쯤 인천 부평구 십정동의 한 아파트 지하 주차장에 주차된 지프 루비콘 차량에서 불이 났다.(인천소방본부 제공)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 한 아파트 지하 주차장에서 방화로 추정되는 불이 나 20대 남성이 크게 다쳤다.&lt;br&gt;&lt;br&gt;13일 오전 0시 29분쯤 인천 부평구 한 아파트 지하 주차장에 주차된 스포츠유틸리티차(SUV)에서 불이 났다. 당시 차 안에는 20대 A씨가 타고 있었다. 소방 당국은 “A씨가 술을 먹고 차에 불을 질렀다”는 A씨 지인 신고를 받고 현장에 출동, 18분 만에 불을 끄고 A씨를 구조했다. &lt;br&gt;&lt;br&gt;소방당국은 “A씨는 구조 당시 의식 저하 증상을 병원으로 옮겨 치료를 받고 있다”며 “생명에 지장은 없는 상태”라고 말했다. 경찰과 소방 당국은 A씨가 차 안에서 불을 지른 것으로 보고 정확한 사건 경위와 화재 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;경찰은 “병원 치료를 마치는 대로 A씨의 방화 혐의에 대해 수사할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>인천 오토바이·대형 트럭 충돌…오토바이 20대 운전자 숨져 </title>
-      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2024/07/13/YKU2MUDR55AWTHC55V7CKEIRCA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2024/07/13/YKU2MUDR55AWTHC55V7CKEIRCA/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 13 Jul 2024 02:14:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DREMCEIOWKP5TYP3EBTBTRLDOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오전 3시29분쯤 인천시 서구 오류동 한 도로에서 11.5톤 카고트럭과 배기량 1043cc 오토바이가 추돌, 오토바이 운전자가 숨졌다./인천소방본부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 오전 3시 29분쯤 인천시 서구 오류동 교차로에서 20대 A씨가 몰던 오토바이가 11.5t 화물차와 부딪혔다. 이 사고로 A씨가 머리 등을 크게 다쳐 숨졌다.&lt;br&gt;&lt;br&gt;사고 당시 A씨 오토바이는 교차로에서 직진하고 있었고 화물차는 맞은편에서 좌회전하던 중이었던 것으로 파악됐다. 오토바이는 사고 후 불이나 모두 탔고 화물차는 일부가 타 8850만원 상당(소방서 추산)의 재산 피해가 났다.&lt;br&gt;&lt;br&gt;소방 당국은 소방관 48명과 펌프차 등 장비 19대를 투입해 10분 만에 완전히 불을 껐다. 경찰과 소방당국은 현장 주변 방범카메라(CCTV) 영상 등을 토대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘온라인 게임’ 상대방 상습 비방 20대 벌금형</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/13/GHIRJ3AJSFHODLJEYENJLJJLO4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/13/GHIRJ3AJSFHODLJEYENJLJJLO4/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 13 Jul 2024 01:52:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZVOG5YSCWSTYFRGQ42YM7NXIME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 전경 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온라인 게임 상대방을 헐뜯는 내용이 담긴 메시지(채팅)를 계속해서 보낸 20대가 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;청주지법 형사5단독 정우혁 부장판사는 스토킹 범죄의 처벌 등에 관한 법률 위반 혐의로 기소된 A(27)씨에게 벌금 300만원을 선고했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 6월 18일부터 약 한 달 동안 온라인 게임 속에서 만난 피해자 B씨에게 게임 실력을 비하하는 등의 메시지를 221차례에 걸쳐 보낸 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;정 부장판사는 “A씨가 책임을 인정하나 계획적이고 악의적으로 범행을 저지른 것으로 죄질이 좋지 않다”며 “용서받지 못한 점, 초범인 점 등을 고려해 형을 정했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>심야 해운대서 뒤집어진 벤츠 승용차…운전자는 달아나</title>
       <link>https://www.chosun.com/national/regional/yeongnam/2024/07/13/B7O4NOPHBBBJBBRR3UR6XPF6YE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/07/13/B7O4NOPHBBBJBBRR3UR6XPF6YE/</guid>
@@ -838,24 +856,6 @@
       <description/>
       <pubDate>Sat, 13 Jul 2024 02:00:32 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LT44TQQ4QRGL5G2KNH5D5N7WBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오전 1시쯤 부산 해운대구 중동 해운대구청 인근 도로를 달리던 벤츠 승용차가 가로수를 들이받고 뒤집어져 있다./부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 오전 1시쯤 부산 해운대구 중동 해운대구청 어귀 삼거리에서 구청 방향을 달리던 벤츠 승용차가 갑자기 가로등을 들이받고 뒤집어졌다. &lt;br&gt;&lt;br&gt;신고를 받은 경찰이 현장에 출동했을 때 승용차 운전자는 자리에 없었다. 경찰은 “운전자가 곧바로 택시를 타고 도주한 것으로 보인다”고 말했다. 경찰은 해당 승용차의 차적 조회와 인근 방범카메라(CCTV) 영상 분석 등을 통해 운전자를 추적하고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>현대차 6년째 무파업 임금협상 타결…역대 최장 기록  </title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/07/13/6H24CGJJNJFSBEU2CE5VULWMYM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/07/13/6H24CGJJNJFSBEU2CE5VULWMYM/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 13 Jul 2024 01:45:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/643DSOL5M5OJVMU4DST3O2XXCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;현대자동차 노사 관계자들이 지난 5월 23일 현대차 울산공장 본관 동행룸에서 2024년 임금협상 교섭 상견례를 하고 있다.(현대자동차 제공)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현대자동차 노사가 6년 연속 파업 없이 단체교섭을 타결했다.&lt;br&gt;&lt;br&gt;현대차 노조는 “전체 조합원(4만3285명)을 대상으로 올해 임금협상 잠정 합의안 찬반 투표를 벌인 결과, 투표자 3만6588명(투표율 84.53%) 중 2만1563명(58.93%)이 찬성해 합의안이 가결됐다”고 13일 밝혔다.&lt;br&gt;&lt;br&gt;올해 합의안은 기본급 11만2000원(호봉승급분 포함) 인상, 성과금 500%+1800만원, 주식 25주 지급 등을 담았다. 이같은 임금 인상 폭은 역대 최대 수준이다.&lt;br&gt;&lt;br&gt;이와 별도로 기술직 총 800명 추가 채용(내년부터 2026년까지 총 1100명 채용), 특별사회공헌기금 15억원 조성, 퇴직 후 계약직으로 바꿔 다시 일할 수 있는 숙련재고용 제도(촉탁계약직) 기간을 기존 1년에서 총 2년으로 연장 등의 사안에도 합의했다.&lt;br&gt;&lt;br&gt;합의안이 투표를 통과하면서 현대차 노사는 2019년 이후 6년 연속 파업 없이 단체교섭을 타결했다. 이로써 1987년 현대차 노조 창립 이후 무파업 타결 최장 기록을 세우게 됐다. 노사는 15일 올해 임협 조인식을 할 예정이다.&lt;br&gt;&lt;br&gt;현대차가 있는 지역의 지방자치단체들은 이같은 노사 협상 타결에 대해 모두 환영했다. 김두겸 울산시장은 이날 입장문을 내고 “산업수도 울산의 대표기업인 현대자동차 노사가 올해 임금협상에 원활히 합의한 것을 크게 환영한다”고 밝혔다.&lt;br&gt;&lt;br&gt;박천동 북구청장은 “6년 연속 무분규 타결을 이룬 노사의 결단을 환영한다”며 “지역 경제와 협력사에 큰 선물이 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>노모 폭행해 살해 후 옆에서 TV보고 잠든 아들...2심 징역 27년</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/13/W7Z65RTJDZD5TLRIP4BGYEMZMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/13/W7Z65RTJDZD5TLRIP4BGYEMZMM/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 13 Jul 2024 00:45:21 +0000</pubDate>
-      <content:encoded>자택에서 어머니를 무참히 폭행해 살해한 후 시신 옆에서 TV를 보거나 잠을 잔 남성이 2심에서 중형을 선고받았다.&lt;br&gt;&lt;br&gt;서울고법 형사2부(재판장 설범식)는 지난 11일 존속살해 등 혐의로 기소된 이모(52)씨에게 징역 27년을 선고했다. 징역 22년을 선고한 1심보다 형량이 늘었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FWVKJ6E7ECWRHGOCADSEFAOAPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중앙지법 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이씨는 작년 9월 21일 자신의 집을 방문한 모친 A(78)씨를 밀쳐 바닥에 넘어뜨린 다음 수차례 폭행해 사망하게 한 혐의 등으로 재판에 넘겨졌다. 그는 같은 달 25일 숨져 있던 어머니를 발견한 형의 신고로 붙잡혔다. 발견 당시 A씨는 갈비뼈 21개가 부러진 상태였다.&lt;br&gt;&lt;br&gt;이씨는 2016년 이웃 주민을 폭행한 혐의로 실형을 살았고 이후 별다른 수입 없이 지내온 것으로 조사됐다. A씨는 이씨를 돌보기 위해 이씨 집을 찾았다가 참변을 당했다.&lt;br&gt;&lt;br&gt;이씨는 수사와 재판 과정에서 피해자가 자신의 어머니도 아니라고 주장하고, 범행 경위 등에 대해 답변을 회피하기도 했다.&lt;br&gt;&lt;br&gt;1심은 “피해자는 요양보호사로 일하며 성실히 생계를 이어왔고 피고인의 폭력적 성향 발현을 걱정하며 돌보기 위해 노력했다”며 “그럼에도 이씨는 죄책감은커녕 애도의 감정조차 보이지 않고 범행을 부인하며 무책임한 태도로 일관했다”고 했다.&lt;br&gt;&lt;br&gt;2심은 “사회와 단절된 상태를 유지하면서 무위도식하는 50대 아들이 모친을 상대로 이유 없이 폭언하고 폭행을 일삼다가 급기야 갈비뼈 대부분이 부러질 정도로 반복적으로 폭행하고 살인한 사건”이라며 “패륜의 정도가 극에 달했다고 볼 수 있다”고 했다. 2심 재판부는 “원심 형은 지나치게 가벼워 부당하다”며 1심보다 중한 형을 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>난 민속촌 ‘인턴 귀신’… 손님들이 비명 지를수록 짜릿했다</title>
