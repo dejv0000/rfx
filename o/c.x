@@ -13,6 +13,35 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“손대면 톡 하고”...’봉선화 연정’ 부른 가수 현철 별세</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/07/16/UPICC45FBZBUTPGSR7M6D3TIWQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/07/16/UPICC45FBZBUTPGSR7M6D3TIWQ/</guid>
+      <dc:creator>윤수정 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Jul 2024 22:22:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IDGFRQIGT4R3FT6LXUJLNACJXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 현철. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘봉선화 연정’ ‘싫다 싫어’ 등 1980~1990년대 히트곡들로 이름을 알린 가수 현철(본명 강상수·82)이 15일 별세했다. 16일 과거 고인의 매니저로 함께 일한 정원수 작곡가는 ‘현철이 15일 밤 서울 광진구 소재 혜민병원에서 지병으로 투병 중 세상을 떠났다’고 전했다.&lt;br&gt;&lt;br&gt;고인은 1969년 곡 ‘무정한 그대’로 데뷔했다. 하지만 당대 인기를 끈 가수 남진, 나훈아 등과 달리 오랜 무명생활을 거쳐야 했다. 고인은 1974년 팝송 리메이크 그룹 ‘현철과 벌떼들’을 결성해 고향인 부산을 중심으로 활동하기도 했다.&lt;br&gt;&lt;br&gt;고인의 전성기는 1980년대 곡 ‘앉으나 서나 당신 생각’ ‘사랑은 나비인가봐’를 연이어 히트시키며 피어나기 시작했다. 그가 1985년 가수 나훈아와 함께 리메이크한 ‘청춘을 돌려다오(원곡 가수 신행일)’는 대중에게 고인의 이름을 각인시키는 계기가 됐다.&lt;br&gt;&lt;br&gt;1988년 발표곡 ‘봉선화 연정’은 고인을 정상급 가수 반열에 오르게 한 히트곡이었다. ‘손대면 톡하고 터질 것만 같은 그대~’로 유명한 가사를 고인 특유의 구성진 창법으로 잘 소화해냈다는 호평이 잇따랐다. 고인은 이 곡과 1989년 대표곡 ‘싫다 싫어’로 ‘KBS가요대상’의 영예를 2년 연속 품에 안기도 했다. 그는 첫 가요대상 수상 당시 20년 간 무명 시절을 겪은 경험을 회상하며 “한 달 전 아버지가 돌아가셨다. 한 달만 더 사셨으면 좋았을 것”이라며 눈물을 쏟아냈다.&lt;br&gt;&lt;br&gt;고인은 이후에도 ‘사랑의 이름표’ ‘당신 없인’ 등 왕성한 신곡과 방송 활동을 펼쳤고, 설운도, 태진아, 송대관 등 동료 가수들과 ‘트로트 가수 4대 천황’이란 수식어로 불렸다. 하지만 2020년대부턴 가요 무대와 방송 활동 대부분을 멈췄다. 뇌경색과 경추 디스크 수술 후유증으로 오랜 기간 투병을 이어온 탓으로 전해졌다. 가요 관계자들에 따르면 고인은 수년 전부턴 ‘KBS 전국 노래자랑’에 다수 출연하며 각별한 연을 맺은 고(故) 송해, 가수 현미의 장례식도 함께 하지 못 할 정도로 병세가 악화됐다고 한다.&lt;br&gt;&lt;br&gt;고인의 빈소는 서울아산병원장례식장에 마련될 예정이다. 유족으로는 1남 1녀가 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HJDWRED7SVGFLJKEG5UITHUFQI.jpg?width=499&amp;height=281&amp;auth=bd682ae2bb66a67195bfdc2b391ea14d8540f25d4e2d1ddbebb1ada899b0568f&amp;smart=true" type="image/jpeg" height="281" width="499">
+        <media:description type="plain">&lt;YONHAP PHOTO-0585&gt; '봉선화 연정'·'싫다 싫어' 부른 가수 현철 별세
+    (서울=연합뉴스) '봉선화 연정' 등으로 1980∼90년대 큰 인기를 누린 트로트 가수 현철이 15일 오후 지병으로 별세했다. 항년 82세.
+    과거 현철의 매니저를 지낸 작곡가 정원수는 16일 연합뉴스에 "현철이 지병으로 세상을 떠났다"며 "아직 장례 절차가 정해지지 않아 임시로 안치된 것으로 알고 있다"고 전했다. 2024.7.16 [연합뉴스 자료 사진]
+    photo@yna.co.kr/2024-07-16 03:04:52/
+&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">이태수</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>﻿홍대 미대 꿈꾸던 삼둥이 만세, 공모전 동상 받은 그림은</title>
+      <link>https://www.chosun.com/national/people/2024/07/16/PBSEVRZASFGPRBGIMU5SE2CKPM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/07/16/PBSEVRZASFGPRBGIMU5SE2CKPM/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Jul 2024 22:26:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZSWZISKILJGHNFU7A6ZVIO42YE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 송일국의 아들 대한민국만세가 좋아하는 아이스크림을 선물받고 인증 사진을 찍었다. /디시인사이드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 송일국의 아들 만세가 그림 공모전에서 동상을 수상했다.&lt;br&gt;&lt;br&gt;한국건강관리협회(건협)는 지난 5월 31일 세계 금연의 날을 맞아 ‘제29회 전국 초등학생 금연 글짓기‧그림 공모전’ 입상자를 발표했다. 입상자 명단을 보면, 그림 부문 동상에 6학년 송만세의 이름이 올라와 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HVX3HVDBUVB4ZABJSAZK22NM5E.png"&gt;&lt;figcaption&gt;&lt;small&gt;제29회 전국 초등학생 금연 글짓기&amp;그림 공모전 동상 수상작. /한국건강관리협회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건협은 지난 11일 수상 작품집을 공개했다. 만세는 게임기를 손에 쥔 인물이 게임 속 화면을 보는 모습을 그렸다. 인물의 앞에는 담배꽁초와 담뱃갑이 놓여 있다. 게임 캐릭터가 담배를 택하게 되면, 결국 그 끝은 불구덩이다. 실제처럼 정교하게 표현한 그림 하단과 픽셀화해 단순하게 표현한 게임 화면과의 대비가 두드러진다. 그림에는 ‘정말 이 길로 가시겠습니까?’라는 문구가 적혔다.&lt;br&gt;&lt;br&gt;건협과 소년한국일보가 공동주최하고 교육부와 보건복지부가 후원한 이번 공모전에는 전국에서 1만1213편(글짓기 6620편‧그림 4593편)이 응모됐다. 부문별로 대상 1명, 금상 2명, 은상 5명, 동상 12명, 가작 20명, 장려상 50명, 입선 160명이 뽑혔다.&lt;br&gt;&lt;br&gt;만세의 수상 소식은 지난 10일 온라인 커뮤니티를 통해 알려졌다. 글쓴이 A씨는 “역대 최고 시청률을 보였던 송대디와 삼둥이가 나온 유퀴즈 방송을 본 팬이 대한민국만세가 너무나도 좋아한다는 아이스크림을 선물하고 싶다고 해서 도와드렸다”며 “인증사진을 보내와서 삼둥이의 허락을 받고 공개한다”고 했다. 지난 3일 방송된 tvN ‘유 퀴즈 온 더 블럭’에서 대한이는 “우리가 없었으면 아버지께서 더 많은 작품을 하셨을 거다. 얼마 전에도 민국이가 아이스크림 때문에 아버지에게 전화를 걸어 뮤지컬 연습 중 집에 빨리 오셨다”고 말했다.&lt;br&gt;&lt;br&gt;이 아이스크림을 선물 받은 대한민국만세는 사진 속에서 환하게 웃고 있다. 대한이와 민국이는 포장된 아이스크림을 들고 있지만, 만세는 한입 깨문 아이스크림을 손에 쥐고 있다. A씨는 “송일국과 식성도 똑같다는 만세는 ‘양치질을 아직 안 했다’면서 사진을 찍으며 한 개 먹고, 대한이랑 민국이는 ‘이미 양치질했다’면서 계속 보기만 했다는 뒷얘기가 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “살짝 만세의 소식을 하나 더 전하면, 공공기관과 메이저 신문사에서 주최했던 초등학생 금연 그림 공모전에서 우리 만세가 동상을 받았다는 소식이 있다”며 “우리 만세가 그림에 정말 진심이래”라고 전했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CHNE6Z4E55BX3AU25QQ2F43XRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 방송에서 공개된 만세의 최근 작품들. /tvN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만세는 ‘유퀴즈’를 통해 “저는 홍대 입학을 목표로 한다”며 미대 진학을 꿈꾸고 있다고 했다. 만세의 최근 작품들도 함께 공개됐었다. 그런 만세가 금연 그림 공모전에서 수상했다는 소식이 전해지자 댓글을 통해 축하가 쏟아졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/B3TOLZL6KBAERL3OTBKSU5MTMM.jpg?width=580&amp;height=326&amp;auth=446714eeba2eab6ddbc60081e9ee623b5423bebc5745784514de4c656a57de22&amp;smart=true" type="image/jpeg" height="326" width="580">
+        <media:description type="plain">배우 송일국의 아들 대한민국만세가 좋아하는 아이스크림을 선물받고 인증 사진을 찍었다. /디시인사이드 슈퍼맨이 돌아왔다 갤러리</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>연예인이 인천공항 전세냈나… 경호원이 승객 막고 여권까지 검사</title>
       <link>https://www.chosun.com/national/national_general/2024/07/15/NQF2WDSX2BATFFC7QDV77QXUTA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/15/NQF2WDSX2BATFFC7QDV77QXUTA/</guid>
@@ -896,24 +925,6 @@
       <description/>
       <pubDate>Mon, 15 Jul 2024 01:18:14 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BIOE44N3ZB2YMNKQYGLTXPCTCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·25 전쟁 당시 국군 지시로 쌀을 옮기는 작업에 동원됐다가 북한군에 체포돼 총살당한 마을 이장에 대해 국가유공자 등록을 거부한 처분은 정당하다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;15일 법조계에 따르면 서울행정법원 행정8부(재판장 이정희)는 사망한 마을 이장 A씨 자녀가 서울지방보훈청장을 상대로 낸 국가유공자 등록거부처분 취소 소송을 최근 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;A씨는 6·25 전쟁 당시 국군의 지시로 공용창고에 보관 중인 쌀을 옮겼고, 이후 마을을 습격한 북한군에 의해 부역자로 몰려 총살을 당했다.&lt;br&gt;&lt;br&gt;유족은 A씨가 국가유공자법에 따른 전몰군경 또는 순직군경에 해당한다며 국가유공자 유족 등록 신청을 했다. A씨가 ‘전투 또는 이에 준하는 행위 중 사망한 사람’이라는 것이다.&lt;br&gt;&lt;br&gt;하지만 보훈심사위원회는 이를 받아들이지 않았고, 유족은 중앙행정심판위원회 심판 청구도 기각되자 행정소송을 제기했다.&lt;br&gt;&lt;br&gt;하지만 재판부 역시 “제출된 자료들만으로는 A씨가 전몰군경 또는 순직군경에 해당한다고 보기 부족하고, 이를 인정할 증거가 없다”며 받아들이지 않았다.&lt;br&gt;&lt;br&gt;재판부는 A씨가 국가유공자법이 규정한 ‘전투 또는 이에 준하는 행위 중 사망한 사람’이거나 ‘국가의 수호·안전보장 또는 국민의 생명·재산 보호와 직접적 관련이 있는 직무수행’을 한 사람에 해당하지 않는다고 봤다.&lt;br&gt;&lt;br&gt;진실화해를위한과거사정리위원회가 작성한 6·25 사변 피살자 명부에 A씨의 이름이 기재돼 있는 것과 관련해서는 “6·25 사변 중에 사망했다는 것 외에 전투, 이에 준하는 행위 또는 이와 관련된 교육훈련 중 사망했다는 점까지 증명하는 건 아니다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘억대 수익’ 버는 1020 유튜버들, 1000명 넘었다</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/15/UNLIYL64QJCTFCX2CM77B4X32M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/15/UNLIYL64QJCTFCX2CM77B4X32M/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Jul 2024 00:53:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P3FTLYXZNNKGTETSCREEQWR2UI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜브 자료사진. /로이터 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연간 1억원이 넘는 소득을 올리는 1인 미디어 창작자 중 20대 이하가 가장 많은 비중을 차지하는 것으로 나타났다.&lt;br&gt;&lt;br&gt;15일 국세청이 조국혁신당 차규근 의원실에 제출한 자료에 따르면 2022년 1억원 초과 수입을 신고한 1인 미디어 창작자는 2781명이었다. 1인 미디어 창작자에는 유튜버나 BJ(개인방송 진행자), 크리에이터 등이 포함된다.&lt;br&gt;&lt;br&gt;2022년 수입을 신고한 1인 미디어 창작자는 3만 9366명이었다. 이 중 1억원을 초과한 수입을 올린 이들은 2781명으로, 7% 수준이었다. 연령대별로 보면 20대 이하가 1324명으로 가장 많았다. 이어 30대(1071명), 40대(273명), 50대 이상(113명) 등 순이었다. 반면 전체의 80%에 해당하는 3만 1481명은 2500만원 미만의 수입을 신고했다.&lt;br&gt;&lt;br&gt;특히 1인 미디어 창작자 중 1억원이 넘는 소득을 올린 20대 이하 유튜버가 2년 만에 2배 넘게 늘어난 것으로 나타났다. 2022년 1억원 넘는 연간 수익을 올린 20대 이하 1인 창작자는 2020년 528명과 비교해 보면 약 2.5배 증가했다.&lt;br&gt;&lt;br&gt;이날 공개된 수입신고 자료에는 유튜버들이 방송 중에 개인 계좌를 노출하는 방식으로 받는 후원금은 포함되지 않았다. 사실상 과세 사각지대에 방치됐다는 지적도 나온다. 구독자들이 후원금을 개인 계좌로 송금할 경우 거래 내역을 포착하는 것이 현실적으로 어렵다고 과세 당국은 설명한다.&lt;br&gt;&lt;br&gt;소셜미디어 관련 데이터 분석을 제공하는 눅스인플루언서에 따르면 15일 기준 한국 TOP 100 유튜브 채널 중 유명 K팝 가수들 소속사에서 운영하는 채널 외에도 20대 커플들이 이끄는 ‘CuRe 구래’, 숏츠를 중심으로 한 채널 ‘승비니Seungbini’ 등이 높은 순위를 차지했다. ‘CuRe 구래’는 국내 유튜브 채널 구독자수 11위로 2470만명, ‘승비니Seungbini’는 12위로 2370만명의 구독자를 보유하고 있다.&lt;br&gt;&lt;br&gt;10대 유튜버들의 성장세도 가파르다. 올해 4월 웹예능 ‘아침먹고 가2′에 출연한 배우 이종혁 아들 이준수는 자신의 유튜브 채널 ‘10준수’ 수익에 대해 “가장 많이 나왔을 때가 한 달에 800만원 정도였다”고 말했다. 작년 KBS 2TV ‘자본주의학교’에도 출연한 10대 유튜버이자 15세 사장 ‘쭈니맨’도 당시 월수입이 800만원 정도라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘초복’ 수도권·중부 찜통더위…서울 오늘밤 열대야</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/07/15/UN4FJRB56VEQ7J7MYSAMYMNR2Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/15/UN4FJRB56VEQ7J7MYSAMYMNR2Y/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Jul 2024 00:44:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6EU5WI4C2B4KPHROVO7OPQIOW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북자치도 전주시 찬새암공원에서 학생들이 물놀이를 즐기며 더위를 식히고 있다. 2024.7.3/뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초복인 15일 전국에 무더위가 이어지겠다. 특히 지난 10일부터 폭염특보가 발효 중인 수도권과 중부지방을 중심으로 찜통더위가 나타나겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 15일 수도권과 강원·충청권에서 최고 체감기온이 33도 안팎까지 오르며 덥겠다. 남부지방과 제주도 역시 최고 체감기온이 31도 내외로 오르겠다. 15일 낮 최고기온은 24~32도로 예보됐다.&lt;br&gt;&lt;br&gt;장마전선(정체전선) 영향으로 15일 제주와 전남, 경남에는 비가 이어지겠다. 예상 강수량은 제주 30~80㎜, 남해안 20~60㎜, 광주·전남내륙·부산·울산·경남내륙 10~40㎜ 등이다. 강원영동엔 동풍이 불어 들면서 5~10㎜의 비가 내리겠고, 수도권·강원영서·충청·전북·경북엔 오후 들어 5~40㎜의 소나기가 내리겠다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XDFE42SCZFORPAD2R24REMPJVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더운 날씨를 보인 14일 오후 서울 광화문광장 분수대에서 아이들이 물놀이하며 더위를 식히고 있다. 2024.7.14 /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본 쪽 북태평양고기압 세력이 확장하면서 장마전선이 북상해 16일에는 전국 대부분 지역에 가끔 비가 오겠다. 제주와 남부지방은 16일 대부분 비가 멎겠고, 중부지방은 17일까지 이어지겠다. 비의 씨앗이 되는 수증기를 머금은 남서풍이 유입되면서 강수량이 많아지겠다.&lt;br&gt;&lt;br&gt;서울과 주변 지역은 14일에서 15일로 넘어가는 밤에 열대야를 겪었다. 16일과 17일에는 대부분 지역에서 열대야가 나타날 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>40대 유명 개그맨, 음주운전하다 가드레일 받고 전복 사고</title>
