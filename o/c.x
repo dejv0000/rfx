@@ -13,6 +13,180 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>미복귀 4년 차 소아과 전공의, 내년엔 돌아갈 곳 사라질 수도</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/07/17/2ZDQLYY5PBEJND67AL6SUXQIWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/17/2ZDQLYY5PBEJND67AL6SUXQIWA/</guid>
+      <dc:creator>오유진 기자, 정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Jul 2024 20:03:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7X3MG5N2RRJMNBYZP7RQEOC5AM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 18일 서울 동작구 서울특별시보라매병원 소아청소년과가 비어있는 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 서울대병원 소아청소년과는 소속 전공의(인턴·레지던트)들에게 “레지던트 4년 차는 내년에 재입사가 가능한지 불명확하다”는 취지의 이메일을 보낸 것으로 16일 확인됐다. 서울대병원은 15일 발송한 이메일에서 “내년 3월 이후에는 ‘레지던트 3년 차’까지만 정원이 발생하고, ‘레지던트 4년 차’는 병원의 독특한 정원이 된다”고 했다.&lt;br&gt;&lt;br&gt;요즘 의료계에선 소아청소년과 ‘레지던트 4년 차’가 내년에도 복귀할 수 있는지가 자주 화제에 오르고 있다. 정부가 2022년 소아과 전공의 수련기간을 4년제에서 3년제로 단축했기 때문이다. 이로 인해 그 직전 해인 2021년 소아과 레지던트 1년 차로 입사한 이들은 ‘마지막 소아과 4년 차’인 것이다. 원래대로라면 이들은 올해 레지던트를 졸업하고 내년부터 전문의가 된다.&lt;br&gt;&lt;br&gt;하지만 이들 대부분이 정부의 의대 증원 발표에 반발해 올 2월 병원을 떠나면서 내년 초 전문의 시험을 보기 위한 수업 일수를 채우지 못했다. 만일 이들이 내년에 복귀한다 해도, 병원에는 이미 ‘레지던트 4년 차’라는 수련 연차가 존재하지 않게 되는 것이다. 레지던트지만 ‘4년 차’라고 할 수 없는 ‘붕 뜬 처지’가 될 수 있다는 얘기다.&lt;br&gt;&lt;br&gt;다른 수련 병원들도 이 문제로 고심하고 있다. 가뜩이나 의사가 부족한 필수 진료과인 소아과에서 수련 시스템에 문제가 생겨 신규 전문의 배출에 차질이 생기면 소아 의료 현장에 또 다른 공백이 생길 수 있다는 우려 때문이다. 2019년부터 매년 거의 모든 수련병원의 소아과에선 지원자가 정원에 못 미치는 미달이 발생하고 있다.&lt;br&gt;&lt;br&gt;정부는 ‘소아과 레지던트 4년 차’가 내년에 복귀하겠다면 별도 정원을 만들어 받아줄 수 있다는 방침이다. 올해 소아과 4년 차 레지던트는 71명이다. 보건복지부 관계자는 “4년 차 전공의가 들어올 때 별도 정원을 책정해 수련을 받게 하면 된다”고 했다. 하지만 의료계에선 “내년에라도 이들이 병원에 복귀할 때 애매해지지 않도록 수련 지침을 명확히 마련해 공지해야 한다”는 지적이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>복귀한 전공의 1만명 중 60명</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/07/17/YKNFZN5NQVCD3DX2IDP7TLCA6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/17/YKNFZN5NQVCD3DX2IDP7TLCA6E/</guid>
+      <dc:creator>조백건 기자, 안준용 기자, 정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Jul 2024 16:02:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LP7IPLFRDEIGSO2TFLOHHP57KA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부가 정한 전공의 복귀 시한일인 15일 서울의 한 대학병원에 전공의 이탈 관련 호소문이 붙어 있다. 정부가 ‘데드라인’으로 제시한 사직 처리 시한이 임박했지만 수련병원으로 복귀하는 전공의(인턴, 레지던트)는 거의 없는 상황이다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘미복귀 전공의’ 1만여 명은 정부가 제시한 전공의 사직 처리 데드라인(7월 15일)까지도 사직·복귀 여부를 밝히지 않은 것으로 16일 확인됐다. 이에 따라 전공의 1만여 명 무더기 사직이 현실화할 가능성이 커졌다. 정부는 일단 사직 처리한 후 이들이 9월 하반기 수련 때 복귀하도록 설득하겠다는 계획이다. 하지만 대부분 복귀를 거부할 것으로 보여 지난 2월 전공의 집단 이탈로 시작된 의료 공백이 최소 내년 초까지 이어질 것이란 전망이 나온다.&lt;br&gt;&lt;br&gt;정부 고위 관계자는 이날 “15일까지 사직 여부를 답하지 않은 전공의가 대부분”이라면서도 “각 병원이 미복귀 전공의 사직 처리를 완료하고 결원 규모를 확정해 17일까지 하반기 전공의 모집 인원을 신청해야 한다는 기본 방침엔 변함이 없다”고 했다. 22일부터는 하반기 전공의 모집을 진행한다. 이에 서울대병원 등 ‘빅5(5대 대형 병원)’는 사직·복귀 여부를 밝히지 않은 전공의들을 일괄 사직 처리할 방침이다. 다만 수리 시점은 각 병원이 자체적으로 정한다.&lt;br&gt;&lt;br&gt;보건복지부에 따르면 15일 정오 기준 수련병원 211곳에 출근한 전공의(인턴·레지던트)는 1155명이다. 전체 전공의 1만3756명 중 8.4%에 불과하다. 정부가 지난 8일 각 수련병원에 “15일까지 미복귀 전공의 사직 처리를 완료해달라”며 ‘최후통첩’을 했지만, 이날부터 15일까지 출근자는 60명 늘어나는 데 그쳤다. 사직 처리가 완료된 레지던트(86명)는 전체의 0.8%에 불과하다. 인턴도 전체 3250명 중 109명(3.4%)만 출근하고 있는 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W5QTQCEG6FFFRCJW265OJCVKT4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김하경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부는 전공의 집단 사직서 제출이 시작된 2월 19일 ‘진료 유지 명령’을 발동하면서 강경 대응에 나섰다. 그러나 전공의 등 의사 집단이 거세게 저항하자 3월 하순부터는 유화책을 잇따라 꺼내 들었다. 지난달 4일엔 각 수련병원에 내렸던 전공의 사직서 수리 금지 명령 등을 철회했다. 복귀하는 경우엔 면허 정지 등 어떤 처벌도 하지 않겠다고 했다.&lt;br&gt;&lt;br&gt;그래도 반응이 없자 지난 8일엔 복귀하지 않는 전공의도 처벌하지 않겠다고 발표했다. 또 사직 전공의가 9월부터 바로 다른 병원에서 일할 수 있게 하는 ‘수련 특례’도 제시했다. 암 환자 등 중환자의 불편이 커지는 상황에서 전공의 복귀율을 연내 최대한 끌어올리기 위해서였다.&lt;br&gt;&lt;br&gt;하지만 이런 유화책에도 전공의들의 ‘단일대오’를 깨진 못했다는 평가다. 서울의 한 대학병원 관계자는 “전공의들은 여전히 내년도 의대 증원을 백지화해야 한다는 입장”이라며 “이것이 관철되지 않았기 때문에 이들은 복귀·사직 의향을 물으려는 병원의 연락도 받지 않고 있다”고 했다.&lt;br&gt;&lt;br&gt;대다수 수련 병원은 ‘무응답 전공의’를 사직처리 할 방침이다. 서울대병원은 16일 전공의들에게 ‘사직 합의서’를 보내면서 “응답하지 않으면 사직서를 수리할 예정”이라고 통보했다. 다만 일부 병원은 “전공의들이 거취 의사를 확실히 밝힐 때까진 사직 처리를 유보하겠다”는 입장이다.&lt;br&gt;&lt;br&gt;정부는 각 병원이 ‘미복귀 전공의’ 사직 처리를 완료하면 오는 22일부터 시작되는 하반기 전공의 모집에 응시하도록 최대한 설득하겠다는 계획이다. 하지만 하반기 모집에 지원할 전공의 숫자는 미미할 것이란 분석이 지배적이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KZM5YC3K6RB5PMJZC3N47WCHKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부가 제시한 전공의 사직 처리 마감일인 15일 서울 시내의 한 대형 병원 복도에 이탈한 전공의들의 복귀를 촉구하는 인쇄물이 붙어 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의료계 인사들은 “이탈 전공의 1만2000여 명 대부분이 복귀나 사직 의향을 밝히지 않고 버티는 ‘단일대오’가 깨지지 않았다”며 “이런 상황에서 당장 다음 주 시작되는 하반기 모집에 지원할 전공의는 거의 없을 것”이라고 했다. 서울대병원 내과 전공의들은 내과 교수들에게 보낸 서신에서 “정부와 병원에서 강제로 사직 처리를 하더라도 정부의 전향적 입장 변화 없이는 병원으로 돌아가지 않기로 했다”고 했다.&lt;br&gt;&lt;br&gt;이로써 지난 2월 전공의 이탈로 시작된 ‘전공의 없는 대형 병원’ 체제는 장기화 국면에 들어가게 됐다. 전공의 이탈 후 중환자를 치료하는 ‘빅5′를 중심으로 수술과 입원 건수가 반 토막 났다. 외래 진료도 30~40% 줄었다. 정부는 전공의들의 빈자리를 전문의로 채우겠다고 하고 있지만, 대형 병원 근무는 동네 병의원보다 소득은 낮고 일은 더 힘든 편이라 지금도 충원이 잘 되지 않고 있다. 환자들이 제때 대형 병원에서 수술을 못 받는 상황이 내년 초까지 이어질 가능성이 높다는 뜻이다.&lt;br&gt;&lt;br&gt;정부는 전공의 복귀율이 낮을 경우, 전국 47개 상급종합병원(대형 병원)을 전문의 중심의 중환자 치료 기관으로 만들 방침이다. 대통령실 고위 관계자는 이날 기자들과 만나 “빠르면 9월부터라도 상급 종합병원에 대해 구조 전환 시범 사업을 추진할 계획”이라며 “상급 종합병원을 전문의 중심 병원으로, 중증이나 희소 질환 위주의 진료를 하는 곳으로 구조 전환한다는 게 큰 방향”이라고 했다.&lt;br&gt;&lt;br&gt;이를 위해 PA(진료 지원) 간호사부터 확충할 계획이다. 현재 수술실 등에서 집도의를 돕는 숙련된 PA 간호사는 1만여 명이다. 정부 관계자는 “간호법을 개정해 PA 간호사가 전공의 업무 일부를 할 수 있도록 법제화할 것”이라며 “인원도 지금의 두 배 정도로 늘리는 방안을 검토 중”이라고 했다.&lt;br&gt;&lt;br&gt;또 경증 환자는 중·소형 병원에 가도록 해 대형 병원 의료진의 부담을 줄일 계획이다. 이미 대형 병원이 비(非)중증 환자를 중형 병원으로 보내면 두 병원 모두에 ‘회송 수가(건보공단이 병원에 주는 돈)’를 주고 있다. 정부 관계자는 “대형 병원이 중환자만 봐도 병원 유지가 가능하도록 관련 수술·입원 수가도 올렸다”고 했다. 정부는 2월부터 최근까지 ‘전공의 공백’을 메우기 위해 예비비와 건보재정을 합쳐 총 1조2000억원을 투입했다. 세브란스병원의 한 교수는 “지친 교수들은 시간이 갈수록 지금보다 수술·진료 건수를 줄일 가능성이 크다”고 했다.&lt;br&gt;&lt;br&gt;그동안 낮은 수가 구조에서 환자를 최대한 많이 보는 ‘박리다매’ 진료로 수익을 올렸던 빅5 등 대형 병원들의 경영 상황도 악화할 수밖에 없다. 지난 2월부터 빅5는 하루 10억~20억원씩 적자를 봤다. 지금까지 누적 적자액은 병원당 1000억원이 넘을 것이란 전망이 많다. 한 빅5의 외과 교수는 “병원장이 내부 회의에서 ‘10월이 되면 아마 교수들 월급 지급이 어려울 것’이라고 하더라”고 말했다. 한양대학교를 운영하는 학교법인 한양학원은 최근 한양증권을 매각하겠다고 발표했다. 한양학원 산하 건설사인 한양산업개발이 건설 경기 악화로 경영난에 시달리고 있는 데다, 전공의 이탈로 직격탄을 맞은 한양대병원도 지원하기 위해 매각을 결정한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오리고기 먹은 4명 중태… 알고 보니 음식에 농약</title>
+      <link>https://www.chosun.com/national/regional/2024/07/17/67NICDLYZZE6PLMB2KOCWJYULA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/17/67NICDLYZZE6PLMB2KOCWJYULA/</guid>
+      <dc:creator>봉화=권광순 기자</dc:creator>
+      <description>초복을 맞아 오리고기를 나눠 먹고 중태에 빠진 경북 봉화군 60~70대 여성 3명에게서 농약 성분이 검출돼 경찰이 수사에 나섰다.</description>
+      <pubDate>Tue, 16 Jul 2024 16:28:41 +0000</pubDate>
+      <content:encoded>초복에 오리고기를 나눠 먹고 중태에 빠진 경북 봉화 노인들에게서 농약 성분이 검출됐다. 당초 식중독을 의심했던 경찰은 누군가 고의로 이들이 먹은 음식에 농약을 넣은 것으로 보고 범인을 추적하고 있다.&lt;br&gt;&lt;br&gt;16일 경북경찰청 등에 따르면, 전날 경북 봉화군 봉화읍의 한 식당에서 오리고기를 나눠 먹고 중태에 빠진 60·70대 여성 3명의 위에서 농약 성분이 검출됐다. 경찰은 “응급처치를 위해 사용한 위세척액을 국립과학수사연구원에 보내 정밀 감정한 결과 농약(살충제) 성분인 유기인제를 확인했다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “3명 모두 호흡 곤란을 호소하면서 의식을 잃었다”며 “농약을 먹으면 나타나는 증상”이라고 했다. 또 다른 관계자는 “유기인제는 음식에 소량 섞인 정도로는 검출되지 않는다”며 “누군가 고의로 다량의 유기인제를 음식에 넣은 것으로 보인다”고 했다. 다만 이들의 혈액과 소변에서는 농약 성분이 검출되지 않아 국립과학수사연구원이 재검사를 하고 있다.&lt;br&gt;&lt;br&gt;피해자들은 안동병원 중환자실에서 치료받고 있으며 이틀째 의식을 찾지 못하고 있는 것으로 알려졌다. 병원 관계자는 “마땅한 해독제가 없어 몸에서 분해되기를 기다리고 있다”고 했다.&lt;br&gt;&lt;br&gt;한편, 이들과 같은 테이블에서 오리고기를 먹었던 다른 여성 한 명도 이날 오전 안동병원 응급실로 이송됐다. 봉화군의 병원에서 치료받던 중 상태가 악화됐다고 경찰은 전했다.&lt;br&gt;&lt;br&gt;사건 당일 이들을 포함한 마을 경로당 회원 41명은 초복을 맞아 오리고기를 나눠 먹었다. 피해자 4명은 식당에 늦게 도착해 같은 테이블에서 음식을 먹은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “용의자를 특정하기 위해 경로당 회원 등을 상대로 탐문 조사를 벌이고 방범카메라를 분석하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>변우석 ‘황제 경호’ 경찰 내사 착수</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/17/4RQ2HOSDAFHGZCQO6CTDFWPK7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/17/4RQ2HOSDAFHGZCQO6CTDFWPK7M/</guid>
+      <dc:creator>구아모 기자, 인천=구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Jul 2024 16:28:24 +0000</pubDate>
+      <content:encoded>인천공항경찰단은 ‘황제 경호’ 논란을 일으킨 배우 변우석(33)씨의 경호원들에 대해 입건 전 조사(내사)에 착수했다고 16일 밝혔다. 경찰은 12일 출국 당시 변씨를 경호한 사설 업체 직원 6명 중 3명에 대해 폭행·강요 등 혐의를 적용할 수 있는지 조사 중이다.&lt;br&gt;&lt;br&gt;경찰은 또 변씨를 경호한 직원들이 보안 구역(에어사이드) 내부에서 일반 탑승객들의 에스컬레이터 이동을 통제하고 여권·탑승권을 검사하거나, 라운지 입구에서 강력한 플래시를 발사한 행위 등을 한 것과 관련해서도 라운지 운영사 업무 방해 등 혐의가 없었는지도 살펴보고 있다.&lt;br&gt;&lt;br&gt;인천국제공항은 국가에서 지정한 ‘가’급 보안 시설이다. 그런데 공항 경비를 총괄하는 인천국제공항공사 측은 이날도 ‘경호는 우리가 아니라 경찰 관할’이라는 식의 해명을 내놨다. 변씨를 경호한 사설 업체는 본지 통화에서 “공항 건물인데 어떻게 협의 없이 우리 마음대로 하겠느냐”며 “인명 피해나 일반인 인명 피해 우려가 있으니 협의하에 경호를 진행했다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 인천국제공항공사 측은 “공항 경비는 공항 경찰단과 협의해야지, 인천공항과 협의했다고 하느냐”고 했다. 하지만 인천공항의 일반 경비는 ‘인천국제공항보안’이라는 업체가 맡고 있다. 인천국제공항공사의 자회사다. 경찰청 소속 인천공항경찰대는 “경찰은 대통령 등 국가 경호 지정 대상만 경호한다”며 “경찰이 공항 보안 구역에서 개인을 경호하는 일은 없다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;변씨는 이날 외국 일정을 마친 뒤 인천공항으로 귀국했다. 경호를 맡은 사설 인력은 절반 수준으로 줄었고, 변씨가 출국할 때처럼 별도의 울타리를 설치하는 등 행동도 보이지 않았다. 오후 7시 10분쯤 입국장으로 들어온 변씨는 차분한 표정이었다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>유튜브에 ‘36주 낙태 영상’ 버젓이… 불붙은 낙태 논란</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/17/SV3W5GK7MBHQTP63QIGCCC6YEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/17/SV3W5GK7MBHQTP63QIGCCC6YEQ/</guid>
+      <dc:creator>고유찬 기자, 박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Jul 2024 16:27:35 +0000</pubDate>
+      <content:encoded>임신 36주 차에 낙태 수술을 받았다고 주장하는 유튜브 영상 파문이 커지고 있다. 자신을 20대 여성이라고 밝힌 A씨는 지난달 27일 올린 영상에서 병원에 갔다가 임신 사실을 알았다고 말한다. 의사는 초음파 검사 결과를 설명하며 “심장 뛰는 것을 보라” “아이를 낳아야 한다. 못 지운다”고도 한다. 하지만 A씨는 “결국 낙태 수술을 받았다”고 말하는 내용이다.&lt;br&gt;&lt;br&gt;영상의 진위 여부는 아직 확인되지 않았다. 경찰은 “아직 사실이 확인됐다고 말하긴 성급하다”고 했다. 문제의 유튜브 운영자는 현재 낙태 영상을 삭제하고 채널 이름을 바꿔 일상·요리 영상 등을 올리고 있다. 일각에선 영상 조작 가능성도 제기하는 가운데 보건복지부는 살인 혐의로 A씨와 영상 속 의사에 대해 경찰에 수사를 의뢰했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;복지부 관계자는 이날 본지 통화에서 “2019년 낙태죄가 폐지돼 현행법상 적용할 수 있는 혐의가 살인죄밖에 없다”고 했다. 복지부는 2019년 서울의 한 산부인과 의사가 임신 34주 차 태아를 낙태한 행위에 대해 징역 3년을 선고한 판례를 근거로 들고 있다. 당시 법원은 의사가 태아가 살아서 태어날 것을 알면서도 제왕절개를 하고, 이후 물에 넣어 질식사시키고 사체를 소각한 것이 살인·사체 유기라고 판단했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBQ3H7UMNFCLHA7CVV6MP276AI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조지호 서울경찰청장은 지난 15일 기자 간담회에서 이 사건 수사와 관련, “영상 속 인물이 자궁 밖으로 태아를 꺼낸 뒤 사망케 했다면 영아살해죄로 처벌할 가능성이 있다”고 했다. 34~36주 차 미숙아라 할지라도 일단 산모의 자궁에서 나와 생존해 독립 개체가 됐다면 살인죄가 규정하는 ‘사람’으로 볼 수 있다는 논리다. 하지만 A씨의 낙태 영상이 사실이라 해도, 자궁 안에서 죽은 채 적출됐다면 살인죄를 적용하기 어렵다는 시각도 있다.&lt;br&gt;&lt;br&gt;이번 사건을 계기로 ‘태아는 언제부터 인간으로 인정할 수 있는가’라는 물음이 확산하고 있다. 기독교(가톨릭·개신교)는 정자와 난자가 만나 수정(受精)한 순간부터 신이 보낸 영혼이 깃든다고 생각한다. 따라서 태아도 사람이고, 이를 죽이는 낙태 역시 살인이라고 본다. 불교·원불교도 기본적으로는 같은 입장이다. 다만 여성 인권을 고려, 강간 등으로 인한 낙태는 불가피하게 허용할 수도 있다고 본다.&lt;br&gt;&lt;br&gt;법학계에서도 태아의 인간 존엄에 대한 의견이 엇갈린다. 한 부장판사 출신 변호사는 “모체(母體)에서 완전히 분리될 때 사람이 된다는 것이 민법상 다수설”이라며 “다만 형법에선 출산이 임박했을 때 사람으로 보는 판례도 있다”고 했다. ▲심장이 뛰기 시작하는 6주 ▲모든 장기가 완성되고 뼈 형성이 끝나는 10주 ▲사고나 자아 인식 능력이 생기기 전인 14주 등이 기준으로 제시되지만 합의된 ‘인간 기준’은 아직까지 없다.&lt;br&gt;&lt;br&gt;유럽 국가의 경우 스페인은 14주, 프랑스는 16주, 스웨덴은 18주다. 태아의 ‘체외 생존 가능성’에 주목하는 법안도 있다. 태아가 모체를 떠나 생존이 가능한 최소한의 시점인데, 세계보건기구는 태아의 생존 능력을 임신 22~24주 이상으로 정의하고 있다. 이에 따라 영국과 네덜란드는 24주까지 낙태를 허용하고 있다. 이번 36주 낙태 영상에 ‘살인 논란’이 제기된 이유도 이 때문이다.&lt;br&gt;&lt;br&gt;헌법재판소는 2019년 모든 낙태를 처벌하는 형법 조항에 대해 헌법불합치 결정을 내렸다. 특수한 사정 때문에 하는 낙태도 있으니 법을 현실에 맞게 고치라는 취지였다. 헌재는 2020년 말까지 보완 입법을 해달라고 했지만 4년이 지나도록 낙태 허용 시기 등을 규정하는 국회·정부 입법은 이뤄지지 않았다. 전삼현 숭실대 법학과 교수는 “법과 제도의 공백으로 임신부와 태아 모두 고통받는 상황”이라고 했다. 전문가들은 태아의 생명권과 여성의 자기 결정권 사이에서 국회·정부가 균형을 잡고 입법을 서둘러야 한다고 지적한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UYANQ2NS6REDDN3PRIXQMSPE5Q.png?width=1600&amp;height=900&amp;auth=4ed67b5ce2148bfcb86d70a622276ea405518f2f973df8a8403405a2d28a98c7&amp;smart=true" type="image/png" height="900" width="1600"/>
+    </item>
+    <item>
+      <title>‘金여사 디올백’ 놓고 엇갈리는 해명</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/17/MLPDNBKL2FCZXHPGSUWRFJ6NRM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/17/MLPDNBKL2FCZXHPGSUWRFJ6NRM/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Jul 2024 16:20:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OHGEP7APRU2MX6JQKNJZXEUY3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령과 함께 하와이를 방문한 김건희 여사가 8일(현지시간) 미국 하와이 히캄 공군기지에 도착해 공군 1호기에서 내린 뒤 하와이 주지사 부부 등 영접 인사를 만나기 위해 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령의 부인 김건희 여사의 ‘디올백 수수 의혹’을 수사 중인 검찰이 16일 대통령실에 해당 ‘디올백’ 제출을 요구하는 공문을 보낸 것으로 알려졌다. 이에 따라 검찰은 조만간 임의제출 형식으로 대통령실로부터 ‘디올백’을 확보할 것으로 보인다.&lt;br&gt;&lt;br&gt;재미교포 최재영 목사와 유튜브채널 ‘서울의소리’가 이른바 ‘함정 취재’로, 김 여사에게 전달된 이 ‘디올백’은 작년 11월 영상으로 공개되면서 큰 논란을 불렀지만, 이후 김 여사 측과 대통령실의 엇갈리는 해명이 논란을 키우기도 했다. 당초 “포장도 뜯지 않고 보관 중”이라는 해명은 “풀어보긴 했으나 다시 포장해놨다”로 바뀌었고, “김 여사가 돌려주라고 지시했다”는 부분도 “기분 나쁘지 않게 추후에 돌려주라고 지시했다”고 말이 바뀌었다. 의혹과 비판이 커질 때마다 해명이 달라지거나, 구체화되고 있는 것이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇김 여사, 디올백 반환 지시했나&lt;/b&gt;&lt;br&gt;&lt;br&gt;김 여사가 최 목사로부터 300만원 상당의 디올백을 받은 것은 2022년 9월 13일, 용산구 한남동 관저에 입주하기 전 서초구 코바나컨텐츠 사무실에서다. 최 목사는 손목시계에 달린 몰래 카메라로 전달 장면을 몰래 촬영했고, 이듬해 11월 서울의소리는 이 영상을 공개했다. 가방은 서울의소리 기자가 사비(私費)로 산 것이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6XBVV2WNBCAZHJH32QOLUYTCI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 김 여사는 그날 최 목사가 떠난 뒤 유 행정관에게 선물을 풀어보라고 지시했다. 김 여사는 선물을 보고 “명품 가방이어서 내가 직접 쓸 수도 없고, 받아서도 안 될 것 같다”며 “최 목사가 미국, 한국을 왔다 갔다 하니까 나중에 한국 들어올 때 기분 나쁘지 않게 (백을) 돌려주라”고 했다는 것이다. 그러나 유 행정관은 지난 3일 검찰 조사에서 “돌려주라는 지시는 받았는데, 깜빡해서 돌려주지 못했다”고 진술은 했지만, “기분 나쁘지 않게 추후에 돌려주라고 지시했다”는 것까지는 말하지 않았다고 한다.&lt;br&gt;&lt;br&gt;유 행정관 진술 내용이 언론을 통해 알려지자, 16일 박찬대 더불어민주당 원내대표는 “꼬리 자르기” “윤석열 정권은 도마뱀 정권이냐” 등 비판을 쏟아냈다. 그러자 김 여사 측 최지우 변호사는 “영부인은 유 행정관에게 ‘바로 돌려주면 기분이 상할 수도 있으니 기분 나쁘지 않도록 추후 돌려주라’고 지시했다”면서 “이미 상당한 도덕적 비난을 받았는데 이제 와서 거짓 해명을 할 이유가 없다. 꼬리 자르기라는 지적은 어불성설”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇디올백 포장과 보관 진실은&lt;/b&gt;&lt;br&gt;&lt;br&gt;‘디올백 의혹’이 불거진 초기 대통령실은 “포장도 뜯지 않은 채 선물 창고에 보관하고 있다”고 했었다. 물론 공식 입장은 아니었지만, 대통령실 관계자들을 통해 전해졌다. 정진석 비서실장도 이달 1일 국회에서 “디올백은 있는 포장 그대로 청사 내에 보관 중인 것으로 알고 있다”고 했다.&lt;br&gt;&lt;br&gt;그러나 16일 디올백의 포장과 보관이 다시 논란이 됐다. 최 변호사는 이날 김 여사의 ‘디올백 반환 지시’에 대해 해명하며 “포장지도 버리지 않고 포장 그대로 계속 보관하고 있다. 이는 사용할 의사가 없었고, 반환 의사가 있었다는 사실을 방증한다”고 했다. 2시간쯤 뒤에는 “포장을 풀어보긴 했으나 반환하기 위하여 그대로 다시 포장하여 가지고 있다는 취지”라고 재차 해명을 했다. 디올백은 유 행정관이 두 번 포장만 풀어봤고, 가방은 사용하지 않고 재포장한 상태로 쭉 보관됐다고 한다.&lt;br&gt;&lt;br&gt;한편, ‘디올백’은 2022년 9월 13일 받은 뒤 작년 11월 중순까지 1년 2개월가량 용산구 한남동 대통령 관저 창고에 보관돼 있었던 것으로 전해졌다. 작년 11월 영국 순방 도중 김 여사가 한 기자의 질문을 받고서 뒤늦게 ‘디올백’이 어디 있는지를 확인했고, 이후 대통령실과 협의해 대통령실 창고로 옮겼다는 것이 김 여사 측 설명이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[인사] 금융위원회 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/07/17/XKK5BJKRBNFB7J4AB3ZTTF4C5U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/07/17/XKK5BJKRBNFB7J4AB3ZTTF4C5U/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Jul 2024 15:55:37 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;금융위원회&lt;/b&gt;◇과장급 전보▷가상자산과장(전담직무대리) 김성진&lt;br&gt;&lt;br&gt;&lt;b&gt;▲방위사업청&lt;/b&gt;◇과장급 전보▷개발사업담당관 이정숙▷계약제도발전과장 허준▷전투지원함사업팀장 윤성욱▷해상유도무기사업팀장 길계호▷첨단기술총괄계약팀장 장현호&lt;br&gt;&lt;br&gt;&lt;b&gt;▲특허청&lt;/b&gt;◇부이사관 승진▷국제협력과장 정대순&lt;br&gt;&lt;br&gt;&lt;b&gt;▲삼육대&lt;/b&gt;▷사무처 사무부처장 장성일(이상 7월 1일부)▷국제교육원장 최승년▷취업진로지원센터장 겸 현장실습지원센터장 정성진▷기획처 IR센터장 겸 AI대학혁신센터장 겸 기획팀장 신동석▷교육혁신원 교수학습개발센터장 겸 교육인증센터장 겸 비교과통합센터장 겸 원격교육지원센터장 김영상▷브랜드전략실 부속팀장 겸 커뮤니케이션팀장 이재동▷교목처 교목팀장 최원신▷학생처 학생복지팀장 박순봉▷기획처 대학혁신지원사업단 팀장 송미정▷기획처 IR센터 팀장 겸 AI대학혁신센터 팀장 김기석▷입학처 입학관리팀장 김재현▷사무처 총무인사팀장 김현호▷대외국제처 대외협력팀장 박주영▷학술정보원 학술정보팀장 박명화▷생활교육원 팀장 최정환(이상 8월 1일부)&lt;br&gt;&lt;br&gt;&lt;b&gt;▲인천일보&lt;/b&gt;▷인천본사 편집국장 김칭우▷경기본사 편집국장 김기원&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 강장희 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/07/17/GWSMRQC2RZCYDKEWU64Z6FWEMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/07/17/GWSMRQC2RZCYDKEWU64Z6FWEMA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Jul 2024 15:55:12 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;강장희&lt;/b&gt; 별세, &lt;b&gt;강경신&lt;/b&gt; 서초구립방배숲환경도서관장·&lt;b&gt;강윤주&lt;/b&gt; 한국일보 정치부 차장 부친상, &lt;b&gt;정윤철&lt;/b&gt; 동아일보 스포츠부 기자 장인상, &lt;b&gt;신영희&lt;/b&gt; SAT어학원 강사 시부상=15일14시12분 이대목동병원, 발인 17일10시30분, (02)2650-2741&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김미선&lt;/b&gt; 별세, &lt;b&gt;고규대&lt;/b&gt; 이데일리 디지털미디어센터장 부인상=15일19시 삼성서울병원, 발인 18일7시30분, (02)3410-3151&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김진채&lt;/b&gt; 별세, &lt;b&gt;최무연&lt;/b&gt; 남편상, &lt;b&gt;김영훈&lt;/b&gt; 동광제약 연구소 부소장·&lt;b&gt;김지현&lt;/b&gt; 부친상, &lt;b&gt;이춘기&lt;/b&gt; MBN 경영지원국장 장인상, &lt;b&gt;박정희&lt;/b&gt; 큐롬바이오사이언스 비임상개발팀장 시부상=16일15시47분 아주대병원, 발인 18일11시30분, (031)219-4604&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김효식&lt;/b&gt; 별세, &lt;b&gt;김진엽&lt;/b&gt;·&lt;b&gt;김진원&lt;/b&gt;·&lt;b&gt;김진권&lt;/b&gt; 동인법무법인 대표·&lt;b&gt;김진웅&lt;/b&gt;·&lt;b&gt;김진동&lt;/b&gt; 모친상=15일23시15분 서울아산병원, 발인 18일5시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박지현&lt;/b&gt; 별세, &lt;b&gt;최기억&lt;/b&gt; 연합인포맥스 대표 부인상=16일14시22분 서울대병원, 발인 18일7시30분, (02)2072-2020&lt;br&gt;&lt;br&gt;▲&lt;b&gt;장도연&lt;/b&gt; 별세, &lt;b&gt;정기수&lt;/b&gt; 부산 북구의회 의장 모친상=15일8시4분 한중프라임장례식장, 발인 17일7시30분, (051)305-4000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정민정&lt;/b&gt; 별세, &lt;b&gt;김지헌&lt;/b&gt; 헤럴드경제 콘텐츠혁신팀장 모친상=16일6시28분 강남세브란스병원, 발인 18일9시30분, (02)2019-4002&lt;br&gt;&lt;br&gt;▲&lt;b&gt;진덕철&lt;/b&gt; 여주중앙교회 집사 별세, &lt;b&gt;진상현&lt;/b&gt;·&lt;b&gt;진보현&lt;/b&gt; 컨슈머타임스 경영지원국장·&lt;b&gt;진주현&lt;/b&gt; 부친상, &lt;b&gt;김상임&lt;/b&gt;·&lt;b&gt;최지현&lt;/b&gt;·&lt;b&gt;장은숙&lt;/b&gt; 시부상=16일0시9분 삼성서울병원, 발인 18일8시, (02)3410-6903&lt;br&gt;&lt;br&gt;▲&lt;b&gt;최경석&lt;/b&gt; 별세, &lt;b&gt;김춘화&lt;/b&gt; 남편상, &lt;b&gt;최정우&lt;/b&gt;·&lt;b&gt;최주희&lt;/b&gt; 부친상, &lt;b&gt;박병관&lt;/b&gt; 경남경찰청 홍보계장 장인상, &lt;b&gt;강민정&lt;/b&gt; 시부상, &lt;b&gt;최유성&lt;/b&gt; 조부상, &lt;b&gt;박하준&lt;/b&gt;·&lt;b&gt;박시현&lt;/b&gt; 외조부상=16일7시 동창원장례식장, 발인 18일8시, (055)233-2213&lt;br&gt;&lt;br&gt;▲&lt;b&gt;홍태성&lt;/b&gt; 전 동해중앙초 교장 별세, &lt;b&gt;홍윤기&lt;/b&gt; 동국대 철학과 명예교수·&lt;b&gt;홍명기&lt;/b&gt; 지에이코리아 지사장·&lt;b&gt;홍선미&lt;/b&gt; 前 바르질라코리아 부장 부친상=16일2시22분 분당서울대병원, 발인 18일6시, (031)787-1503&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>17개 시민단체 힘 모아 이승만 59주기 추모식… 누구나 참여 가능한 첫 행사</title>
+      <link>https://www.chosun.com/national/people/2024/07/17/EBA6JFVCKNGWLIZSVAJTD33BRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/07/17/EBA6JFVCKNGWLIZSVAJTD33BRQ/</guid>
+      <dc:creator>양지호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Jul 2024 15:54:55 +0000</pubDate>
+      <content:encoded>17개 시민단체가 오는 19일 오전 10시 서울 국립현충원 이승만 대통령 묘역에서 이 전 대통령 59주기 추모식을 거행한다. 그동안 사단법인 이승만 대통령 기념사업회가 국립현충원 내 현충관에서 추모식을 해왔지만, 야외에서 시민 누구나 참여할 수 있는 형태로 시민단체가 힘을 합쳐 행사를 진행하는 것은 처음이라고 한다.&lt;br&gt;&lt;br&gt;이날 추모식을 주관하는 이승만건국대통령동상 광화문광장 건립추진위원회의 변정일 회장은 “자유롭게 시민들이 추모식에 참석할 수 있도록 하면서 이승만 대통령을 국민 마음속에서 다시 부활시키기 위한 것”이라고 본지 통화에서 말했다. 이 밖에도 자유헌정포럼, 대한언론인회, 트루스포럼, 대한민국수호예비역장성단, 나라지킴이 고교연합, 대한민국지킴이 리박스쿨 등 단체가 함께한다.&lt;br&gt;&lt;br&gt;이날 추모식에서는 변 회장, 손효숙 대한민국지킴이 리박스쿨 대표, 김은구 트루스포럼 대표 등이 추모사를 할 예정이다. 야외 추모식에 이어 오전 11시부터는 (사)이승만건국대통령 기념사업회 주최로 현충관에서도 추모식이 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디] 매운맛을 없애다</title>
+      <link>https://www.chosun.com/national/nie/chinese/2024/07/17/4HV5HETNB5HY7C2QV7PKNEEVZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/07/17/4HV5HETNB5HY7C2QV7PKNEEVZQ/</guid>
+      <description/>
+      <pubDate>Tue, 16 Jul 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RZH7KHFGRBH2PNRZK2XSP3BBYY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[입에 착착 붙는 일본어] 머리에서 떠나지 않다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2024/07/17/7EYCHXQ7MNAMXKQ2JPN3KVKQDY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/07/17/7EYCHXQ7MNAMXKQ2JPN3KVKQDY/</guid>
+      <description/>
+      <pubDate>Tue, 16 Jul 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JVTWFYT2QZAUDLCL6Q3BOPGYNQ.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 알현(謁見)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/17/WCIMQIKSRBBQBGY2KPFSBLC34U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/17/WCIMQIKSRBBQBGY2KPFSBLC34U/</guid>
+      <description/>
+      <pubDate>Tue, 16 Jul 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMUZ45CCTVFM7OACOT6E34ZNYA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2422] 로꾸거 암송클럽</title>
+      <link>https://www.chosun.com/national/nie/2024/07/17/ODWCFLN3DFDUHDXNPGNHBJDKM4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/17/ODWCFLN3DFDUHDXNPGNHBJDKM4/</guid>
+      <description/>
+      <pubDate>Tue, 16 Jul 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UTH5NZMJYVEAHAAGI64ZVF2KVE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] to make matters worse</title>
+      <link>https://www.chosun.com/national/nie/english/2024/07/17/7A427VBSRBAAJDGDLMDRUEZV6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/07/17/7A427VBSRBAAJDGDLMDRUEZV6U/</guid>
+      <description/>
+      <pubDate>Tue, 16 Jul 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q27RBNRYHBBDFJNUD3WW5MI25E.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [알립니다] 올 여름방학에는 내가 바로 기자!</title>
+      <link>https://www.chosun.com/national/nie/2024/07/17/DLGKBUU3TBAWLKJ3W5KSN3OX3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/17/DLGKBUU3TBAWLKJ3W5KSN3OX3A/</guid>
+      <description/>
+      <pubDate>Tue, 16 Jul 2024 15:34:32 +0000</pubDate>
+      <content:encoded>조선일보 여름방학 1일 기자 체험에 참여해보세요. 신문사를 견학하고 기사 작성 실습도 해보는 체험 학습 프로그램입니다. 서울 광화문 조선일보 본사와 TV조선을 견학하고 현장 취재 체험을 합니다. 흑석동 뉴지엄(NEWSEUM)에서 직접 신문과 방송 뉴스도 만들면서 기자 체험을 합니다. 참가 학생들에겐 직접 만든 신문과 수료증을 드립니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C3ZIH3B7EFHEJCXRWX7ROIP3G4.jpg"&gt;&lt;br&gt;&lt;br&gt;▲&lt;b&gt;대상:&lt;/b&gt; 초3~고3 &lt;br&gt;&lt;br&gt;▲&lt;b&gt;일정:&lt;/b&gt; 7월 23일(화)~8월 30일(금) &lt;br&gt;&lt;br&gt;▲&lt;b&gt;비용:&lt;/b&gt; 1일 기자 체험 5만원(중식 포함), 금요 기자 체험 3만원 &lt;br&gt;&lt;br&gt;▲&lt;b&gt;문의:&lt;/b&gt; 02-3280-3244&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [예쁜 말 바른 말] [354] ‘대자’와 ‘대짜’</title>
+      <link>https://www.chosun.com/national/nie/2024/07/17/TSIT6C37O5DUBFTTN7Y3MUVQEA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/17/TSIT6C37O5DUBFTTN7Y3MUVQEA/</guid>
+      <dc:creator>류덕엽 교육학 박사·전 서울 양진초 교장</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Jul 2024 15:33:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LW3BWZNAP5FHFEQDQELFW2BX2I.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;*”시원한 나무 그늘에 놓인 평상에 (대자, 대짜)로 누워 쉬는 모습, 상상만 해도 기분 좋지?”&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;*”매운탕 (대자, 대짜)를 시키면 네댓 명은 충분히 먹을 수 있을 거야”&lt;/b&gt;&lt;br&gt;&lt;br&gt;괄호 안에 들어갈 말을 골라 보세요. 평소 자주 쓰는 낱말인데, 무척 헷갈리지요? 정답은 차례대로 ‘대자’와 ‘대짜’입니다.&lt;br&gt;&lt;br&gt;‘대자(大字)’는 ‘큰 글자’를 뜻하는 말입니다. 반대말은 작은 글자라는 뜻의 ‘소자(小字)’입니다. 또 한자 ‘大’ 자와 같이 팔과 다리를 양쪽으로 크게 벌린 모양이라는 뜻도 있어요. 이때는 주로 ‘대자로’ 꼴로 써요. 예를 들면 ‘대자로 누워 있던 취객이 경찰관 도움을 받아 귀가했다’와 같이 써요.&lt;br&gt;&lt;br&gt;‘대짜(大짜)’는 ‘큰 것’을 뜻하는 말이에요. 예를 들면 ‘대짜 잉어를 낚아 기분이 좋았다’와 같이 써요. ‘중짜(中짜)’ ‘소짜(小짜)’라는 말도 있지요.&lt;br&gt;&lt;br&gt;‘대자’와 ‘대짜’ 둘 다 [대짜]로 발음하는 경우가 많은데요. 하지만 ‘대짜’만 [대짜]로 발음해요. ‘대자’는 [대자]로 발음해야 함을 잊지 마세요.&lt;br&gt;&lt;br&gt;&lt;b&gt;[예문]&lt;/b&gt;&lt;br&gt;&lt;br&gt;-”원하는 장난감을 사 줄 때까지 가게에 대자로 누워서 우는 아이는 어떻게 달래야 할까요?”&lt;br&gt;&lt;br&gt;-의식을 잃고 대자로 누워 있는 사람을 심폐 소생술로 구한 사람은 전직 소방관이다.&lt;br&gt;&lt;br&gt;-우리는 전골을 대짜로 주문했다.&lt;br&gt;&lt;br&gt;-대짜배기는 대짜인 물건, 즉 아주 큰 물건을 뜻하는 말이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [동물 이야기] 7000만년 전 원시적인 토끼와 닮아… ‘살아있는 화석’으로 불려요</title>
+      <link>https://www.chosun.com/national/nie/2024/07/17/3Q5DDYGVMNDVFHAIIX3P3YY77E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/17/3Q5DDYGVMNDVFHAIIX3P3YY77E/</guid>
+      <dc:creator>정지섭 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Jul 2024 15:32:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LC4ME3PH55AGJNICC7P4W2V2UM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여느 토끼들과 달리 귀가 작은 아마미검은토끼. /히라카와 동물원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본 가고시마 히라카와 동물원이 요즘 소셜미디어에 깜찍한 동물 친구가 식사하는 모습을 찍어 올리고 있어요. 몸은 짙은 회색이고 동그란 눈과 앞발보다 크고 튼튼해 보이는 뒷발을 가지고 있어요. 토끼와 아주 비슷하게 생겼지만 귀는 훨씬 작아요. 토끼의 한 종류인 아마미검은토끼랍니다.&lt;br&gt;&lt;br&gt;아마미검은토끼는 가고시마에서 남쪽으로 각각 400km, 500km쯤 떨어진 아마미오섬과 도쿠노섬의 숲에서 살고 있어요. 세계에서 오직 이 두 섬에서만 볼 수 있는 진귀한 동물이지요. 아마미검은토끼는 다 자라면 몸길이가 43~47cm정도 됩니다. 여느 토끼들과 크기는 비슷한데 눈과 귀는 상대적으로 작고 발톱은 크답니다. 머리뼈나 이빨 등 형태도 보통 토끼들과 달라요. 오랜 옛날에 살았던 원시적인 토끼를 아주 빼닮았대요. 그래서 ‘살아있는 화석’이라고도 불리지요.&lt;br&gt;&lt;br&gt;토끼의 조상은 약 7000만년 전에 나타났어요. 주변 환경에 맞춰 적응하면서 기다란 귀에 튼튼한 뒷발을 가진 지금의 토끼가 됐죠. 이 과정에서 원시적인 토끼들은 생존경쟁에서 점차 밀려나 자취를 감췄어요. 하지만 지형이 험난하거나 고립된 일부 지역에서는 옛날과 비슷한 모습으로 살아가는 원시적인 토끼들이 있어요. 아마미검은토끼는 300만년 전에는 동아시아 곳곳에 살았대요. 하지만 아마미오섬과 도쿠노섬이 육지에서 떨어져 나오면서, 고립된 섬 안에서 독자적인 생태계가 만들어졌고, 크게 변하지 않은 모습으로 지금까지 살아올 수 있었답니다.&lt;br&gt;&lt;br&gt;이런 생태적 가치 때문에 일본 정부는 1921년에 아마미검은토끼를 천연기념물로 지정했어요. 1984년에는 영국 엘리자베스 여왕의 남편 필립공이 세계자연기금 대표 자격으로 일본을 방문하면서 아마미검은토끼의 서식 실태를 살피기 위해 아마미오섬까지 가서 화제가 됐죠.&lt;br&gt;&lt;br&gt;아마미검은토끼 암컷은 번식철이 되면 다른 토끼들보다 더 바빠진답니다. 아마미검은토끼는 숲속 비탈진 언덕에 굴을 파고 생활을 하는데요. 출산을 앞두고서는 육아용 굴을 따로 만들어요. 그리고 이곳에서 새끼를 낳고 밤이 되면 와서 젖을 물리죠. 새끼를 떠날 때면 굴 입구를 흙으로 막아서 뱀 등 천적이 침입하지 못하게 하죠. 새끼가 숨을 쉴 수 있도록 숨구멍은 뚫어놓아요. 아마미검은토끼는 한 배에 새끼를 여러 마리 낳는 다른 토끼들과 달리 한두 마리씩만 낳거든요. 그래서 최대한 생존율을 높이기 위해 이처럼 별도 공간을 만드는 것으로 추측돼요.&lt;br&gt;&lt;br&gt;아마미검은토끼는 일본의 대표적 토종 야생동물로 사랑받고 있지만 생존 위협에도 직면해 있어요. 사람들이 키우다 버린 개나 고양이에게 잡아먹히는 경우가 잇따르고 있어요. 더 무서운 천적은 몽구스예요. 아프리카가 원산지인 몽구스가 왜 여기에 사는지 궁금하죠? 40여 년 전 독사 퇴치용으로 풀어놓았던 몽구스가 완전하게 야생에 정착하면서 아마미검은토끼를 비롯한 초식동물들을 닥치는 대로 사냥하고 있거든요. 도로를 달리는 자동차에 치여 죽는 로드킬 사고도 끊이지 않고 있고요.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [숨어있는 세계사] 볼리바르의 나라… 과거 ‘銀 말발굽’ 썼을 만큼 천연자원 많죠</title>
+      <link>https://www.chosun.com/national/nie/2024/07/17/J4QMRBEWQNAVHKLONWY3LSKP6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/17/J4QMRBEWQNAVHKLONWY3LSKP6U/</guid>
+      <dc:creator>정세정 장기중 역사 교사, 기획·구성=오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Jul 2024 15:32:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQO67FGD5ZCQ3NVJMOIFQMJ3EY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 볼리비아 시민들이 쿠데타 군의 장갑차를 막아선 모습. /AFP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 라틴아메리카의 볼리비아에서 군부가 민주주의 회복 등을 요구하며 탱크와 장갑차를 동원해 행정 수도 라파스에 있는 대통령궁에 진입하는 쿠데타 시도가 벌어졌어요. 후안 호세 수니가 장군(전 합참의장)이 주도한 것으로 알려졌는데요. 이날 쿠데타는 시민들의 거센 반발과 정부의 강경 대응으로 3시간 만에 진압됐다고 해요. 그런데 수니가 장군이 체포 현장에서 취재진에게 루이스 아르세 대통령의 지시로 이런 일을 벌였다고 주장해, 후폭풍이 쉽게 가라앉지 않고 있대요. 오늘은 이런 볼리비아의 역사에 대해 알아보겠습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;잉카 제국, 스페인에 무너지다&lt;/b&gt;&lt;br&gt;&lt;br&gt;과거 라틴아메리카 지역에는 아즈텍·잉카·마야 문명이 발달해 있었어요. 볼리비아 지역은 잉카 제국에 속해 있었어요. 13세기 무렵 세워진 잉카 제국은 오늘날 페루, 에콰도르, 볼리비아, 칠레 북부 등의 지역을 지배한 문명이에요. 스페인 정복자들이 나타나기 전까지는 라틴아메리카에서 가장 강력한 제국이었어요.&lt;br&gt;&lt;br&gt;그런데 잉카를 비롯한 라틴아메리카 지역의 문명들은 스페인 사람들이 들어온 지 50여 년 만에 멸망해요. 1530년대 초 스페인 탐험가 프란시스코 피사로는 잉카 제국의 마지막 황제를 죽이고 수도 쿠스코를 점령했어요. 당시 피사로의 군대는 200명도 되지 않았다고 해요. 잉카 제국 군대는 8만명이었고요. 피사로는 어떻게 잉카 제국의 군대를 이길 수 있었을까요?&lt;br&gt;&lt;br&gt;여러 이유 중 하나로 스페인 군대는 총과 대포를 가지고 있었지만 원주민들은 활과 화살, 나무와 돌로 된 창이나 몽둥이, 청동과 흑요석으로 만들어진 칼 정도의 무기밖에 없었기 때문으로 추정돼요.&lt;br&gt;&lt;br&gt;‘엘도라도’는 전설 속에 나오는 황금의 땅을 말해요. 엘도라도는 원래 ‘황금빛이 나는 사람’이라는 뜻으로, 온몸에 황금 가루를 칠한 원주민 추장을 가리켰어요. 그런데 ‘황금을 칠한 사람’이 ‘황금의 나라’를 가리키는 말로 바뀌어 유럽에 전달되면서, 많은 유럽 사람이 라틴아메리카로 황금을 찾아 떠나게 만들었지요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/55VKONL56NHENJM4W6V72N5GJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;잉카 제국을 무너뜨린 스페인 탐험가 프란시스코 피사로. 볼리비아 지역은 과거에 잉카 제국에 속해 있었어요. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;먼저 움직인 곳은 스페인이었어요. 피사로와 코르테스를 비롯한 수많은 스페인 탐험가가 금과 은을 찾아 라틴아메리카로 향했지요. 황금을 찾으러 온 유럽 사람들은 라틴아메리카 대륙 전체를 바꾸어 놓았어요. 은맥이나 금광이 발견된 곳은 순식간에 거대한 스페인식 도시로 변했어요. 가톨릭교회가 세워지고, 관공서가 들어서고, 시장이 만들어졌죠.&lt;br&gt;&lt;br&gt;볼리비아의 포토시도 그런 곳이었어요. 안데스산맥에 있는 작은 마을이었던 포토시는 산에서 엄청난 은맥이 발견되면서 커다란 도시로 변모했어요. 17세기에는 16만명에 이르는 사람이 사는 거대 도시가 됐어요. 말발굽도 은으로 만들어 쓸 정도였다는 얘기가 전해질 만큼 은이 많았다고 해요. 당시 스페인에서는 ‘포토시’가 그 자체로 ‘막대한 부’를 뜻하는 말로 유행했다고 하네요.&lt;br&gt;&lt;br&gt;하지만 은으로 돈을 번 사람들은 백인 광산업자나 사업가들이었어요. 원주민이나 광부들은 힘든 노동에도 가난한 삶을 살아야 했습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;은과 주석, 천연가스 등 천연자원 풍부&lt;/b&gt;&lt;br&gt;&lt;br&gt;19세기 시몬 볼리바르는 스페인에서 베네수엘라, 에콰도르, 콜롬비아, 페루, 볼리비아 등이 독립하도록 도왔어요. 그는 ‘해방자 볼리바르’라고 불렸어요. 특히 볼리비아는 ‘볼리바르의 나라’라는 뜻이에요. 나라 이름으로 시몬 볼리바르를 기리고 있는 것이죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YKU6YAFQPNDFJFLMVRMFGXXKLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안데스산맥에 있는 작은 마을이었던 포토시의 은광을 묘사한 그림. 산에서 엄청난 은맥이 발견되면서 포토시는 커다란 도시로 변모했어요. /Hispanic Society of America&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해방된 볼리비아는 풍부한 천연자원을 통해 나라를 발전시키고자 했어요. 볼리비아는 은과 주석, 천연가스와 같은 천연자원이 풍부해요. 하지만 국내총생산(GDP)은 라틴아메리카 국가 중 하위권에 속해요. 천연자원 수출이 활발할 때는 괜찮았지만, 천연자원 가격이 하락하거나 천연자원 대체재이 개발되는 등의 이유로 경제가 흔들렸어요. 또 볼리비아 국내에 제조업이 발달하지 못하면서 국가 경제가 발전하기 어려웠죠. 이런 환경으로 인해 볼리비아는 반복적으로 경제 위기를 겪었고, 이는 정치 혼란으로 이어졌어요.&lt;br&gt;&lt;br&gt;볼리비아에선 쿠데타가 자주 일어났어요. 가장 큰 원인은 경제적 위기 때문이었습니다. 가난했던 농민과 노동자들은 경제 위기 속에서 살아남기 위한 투쟁에 나섰는데요. 좌파 정당들이 만들어지면서 이들의 투쟁은 좀 더 조직적으로 진행됐어요.&lt;br&gt;&lt;br&gt;경기 침체를 해결하고자 정부가 시행한 정책들이 노동자들의 삶을 오히려 어렵게 만들자, 저항의 움직임이 계속 이어지게 됩니다. 정부는 농민과 노동자들의 저항을 무자비하게 진압했어요. 이러한 상황 속에서 극단적인 정치 변화가 쿠데타의 형태로 반복됐습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJM63RIOVVE4JCVCG4PYMJO37A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;볼리비아 최초의 원주민 출신 대통령 에보 모랄레스. /오종찬 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러다 2005년 원주민 출신 대통령이 최초로 나옵니다. 에보 모랄레스예요. 13년간 집권한 그는 수세기 동안 이어진 사회적 계급 구조를 뒤집기 위해 노력했어요. 또 천연자원은 볼리비아 국민의 배타적 소유물로 국가에 의해 운영되어야 할 자산이라고 선언했죠. 부유층의 땅을 몰수해 가난한 원주민들에게 나눠주기도 했습니다.&lt;br&gt;&lt;br&gt;2019년 4선 연임에 도전한 그는 대선에서 승리했지만, 부정선거 의혹이 제기되면서 시위 등 거센 저항에 직면하게 됩니다. 결국 대통령직에서 물러나 멕시코로 망명해요. 그러다 2020년 다시 볼리비아로 돌아와 목소리를 내고 있어요.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2024년 7월 17일</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/17/I52LQLHTAVHGRKVCMHYLFTS6FA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/17/I52LQLHTAVHGRKVCMHYLFTS6FA/</guid>
+      <description/>
+      <pubDate>Tue, 16 Jul 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/73UPDZTKTRAJDNCE2Z6S5WHROE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘36주 낙태’ 영상에 의사들도 분노…“거짓이어도 엄중 처벌”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/16/RVXYN22JBRE4BKCODQZSIKRKOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/16/RVXYN22JBRE4BKCODQZSIKRKOM/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Jul 2024 14:57:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WUONFYGZ5HQXTN6JE6OC2ETB3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임신 36주차에 낙태 수술을 받았다고 주장하는 여성의 유튜브 영상 캡처. 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임신 36주 차에 낙태 수술을 받았다고 주장하는 내용의 유튜브 영상이 논란이 되는 가운데, 16일 한 의사단체가 “철저한 수사와 강력한 처벌이 필요하다”라는 내용의 성명을 냈다.&lt;br&gt;&lt;br&gt;서울시의사회는 이날 성명에서 “임신 36주차에 뒤늦게 임신을 알고 수술을 받았다는 한 유튜버 영상 내용을 모두 믿을 수는 없지만, ‘태아 살인’이란 국민적 의구심을 불러일으키는 사안이기에 철저한 사실관계 확인이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;서울시의사회는 “만일 이 같은 의혹이 사실로 밝혀진다면, 임신 36주 상태에서 임신중절수술을 감행한 의료진에 대한 강력한 처벌이 필요하다는 입장을 밝힌다”며 “아울러 전문가평가단 등의 철저한 조사를 통해 본회 자체적으로 강력한 징계 조치를 내리고자 한다”고 했다.&lt;br&gt;&lt;br&gt;서울시의사회는 “만일 이 같은 의혹이 사실이 아닌 경우, 이는 유튜브를 이용한 경제적인 이득을 위해 거짓사실로 국민을 호도하고, 의사와 환자 사이의 신뢰를 무너뜨림으로써, 국민의 생명까지 위협하는 심각한 범죄 행위이므로 엄중하게 처벌 해줄 것을 강력하게 요청한다”고 했다.&lt;br&gt;&lt;br&gt;서울시의사회는 “불법적이고 비윤리적인 행위가 있었음이 밝혀지는 경우, 신속하고 강력한 징계 조치 등 전문가 윤리 준수와 자율 관리에 최선을 다할 것이며, 만일 사실이 아닌 경우 국민을 기망한 행위에 대해 법정 최고형으로 다스려 줄 것을 강력하게 요청한다”고 했다.&lt;br&gt;&lt;br&gt;앞서 자신을 20대 여성이라고 밝힌 A씨가 지난달 27 유튜브에 “임신 36주 차에 낙태 수술을 받았다”는 내용으로 ‘낙태 브이로그(일상 영상)’를 올린 뒤 온라인에서 파문이 일었다. 임신 36주가 사실상 만삭에 가깝다는 점에서 ‘영아 살인’으로도 볼 수 있다는 것이다.&lt;br&gt;&lt;br&gt;다만 영상의 진위 여부는 아직 확인되지 않았다. 보건복지부는 34주 태아를 낙태한 의사에게 징역 3년을 선고한 판례를 참조해 A씨와 수술을 집도한 의사에 대해 살인 혐의로 경찰에 수사 의뢰했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>충청·경상 호우 특보... 경기북부 모레까지 최대 250㎜ 퍼붓는다</title>
       <link>https://www.chosun.com/national/national_general/2024/07/16/UX6NPJMOBVA7TAYHCVJGYDO22I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/16/UX6NPJMOBVA7TAYHCVJGYDO22I/</guid>
@@ -789,180 +963,6 @@
       <description/>
       <pubDate>Mon, 15 Jul 2024 15:55:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WACM77MCTNDOJE7CJ2NO7I7DRU.png"&gt;&lt;figcaption&gt;&lt;small&gt;/사진=연합뉴스 그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충청도의 한 아동 병원 현관에 들어서면 엘리베이터까지 이어지는 15m 길이의 복도가 있다. 이 복도 양쪽엔 어른 허리 높이의 황색 철제 손잡이가 설치돼 있다. 15일 이곳을 찾은 소아 환자들은 자기 눈높이보다 높은 이 손잡이를 이용하지 않았다. 이 병원 원장은 “뛰어다니는 아이들에게 이 손잡이는 위험물”이라며 “아이들이 복도에서 뛰다가 손잡이에 부딪혀 얼굴 피부가 찢어지는 사고가 종종 발생한다”고 했다. 경기도 한 아동 병원 원장도 “우리 병원도 매년 1~2명의 아이들이 복도 손잡이에 부딪혀 얼굴을 다친다”며 “아동 병원엔 이 손잡이를 잡을 성인이나 노인, 장애인이 거의 오지 않지만 손잡이 설치 의무 규제 때문에 없앨 수가 없다”고 말했다.&lt;br&gt;&lt;br&gt;아동 병원이 ‘위험물’인 복도 손잡이를 철거하지 못하는 건 ‘장애인·노인 등의 편의 증진 보장에 관한 법률’의 세부 내용을 담은 정부의 시행 규칙 때문이다. 이 시행 규칙에 따르면 모든 병원(병상 30개 이상)은 성인 장애인이나 노인, 임산부가 이용하는 0.8~0.9m 높이의 손잡이를 복도에 설치해야 한다. 아동 병원도 예외가 아니다. 최용재 대한아동 병원협회장은 “위험해서 이 손잡이를 철거하면 병원 지정이 취소될 수 있다”며 “이런 규제가 왜 있는지 모르겠다”고 했다. 환자 생명을 다루는 ‘바이털(생명) 의사’들은 “의료 발전을 위해선 낮은 수가(건보공단이 병원에 주는 돈)와 잦은 소송 문제뿐 아니라 현장을 옥죄는 ‘민폐 규제’도 없애야 한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XZ6BLU6RFBFDRAV4C6OKRUELIQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부의 의료 규제는 매년 50~100건씩 추가된다. 촌각을 다투는 환자를 보는 응급실에도 이런 ‘손톱 밑 가시’ 규제가 곳곳에 박혀 있다. 이경원 대한응급의학회(용인세브란스병원 응급의학과 교수) 공보이사는 “응급 진료 거부 금지 조항이 대표적”이라고 했다.&lt;br&gt;&lt;br&gt;응급 의료에 관한 법률 6조 2항엔 ‘응급실 의사와 간호사는 응급 환자 발견 즉시 응급 의료를 해야 하고 정당한 사유 없이 이를 거부하지 못한다’고 돼 있다. 이를 위반하면 의료진은 3년 이하 징역이나 3000만원 이하 벌금을 선고받을 수 있다. ‘정당한 사유’가 무엇인지는 법에 적혀 있지 않다. 응급실 의사들은 “이 법 때문에 환자가 응급실에서 난동을 부려도 진료를 해주지 않으면 의사만 징역형을 받을 수 있다”고 말한다.&lt;br&gt;&lt;br&gt;정부도 이런 문제를 인식하고 지난 2020년 의료진에게 폭행·폭언 등을 하는 환자에 대해선 진료 거부를 할 수 있다는 유권해석을 내놨다. 세브란스병원 한 교수는 “정부의 유권해석일 뿐 진료 거부 사유가 법에 명시돼 있지 않기 때문에 응급실 의사·간호사들은 폭행·폭언을 견디며 환자를 치료하는 경우가 비일비재하다”고 했다.&lt;br&gt;&lt;br&gt;서울 대학 병원의 한 응급실 전공의는 “경증 환자인데도 입원을 시켜주지 않는다며 의사 멱살을 잡거나 명찰을 잡아 떼는 일이 거의 일상”이라고 했다. 이경원 용인세브란스병원 교수는 “법에 ‘응급 의료 종사자에게 폭행·협박·모욕 등을 행사하는 경우엔 진료를 거부할 수 있다’는 예외 조항을 넣어야 한다”고 말했다.&lt;br&gt;&lt;br&gt;의료 규제로 인해 뇌 수술 전문 병원에 쓰지도 않을 분만실이 들어서기도 한다. 국내 대표적인 한 뇌 질환 전문 병원은 2022년 병원 수술실 3개 중 1개를 수술실 겸 분만실로 만들었다. 3000여 만원을 들여 분만대, 인큐베이터 등을 구입했다. 정부의 의료질 평가 때 가점(최대 2점)을 받기 위해서였다고 한다. 지금은 사용하지 않는다. 전문 병원의 전문성을 고려한 별도 평가 기준을 마련하지 않고, 분만실이 필요한 다른 일반 종합병원과 같은 기준으로 평가하기 때문에 벌어진 일이다.&lt;br&gt;&lt;br&gt;이 병원이 필요 없는 분만실까지 설치하면서 평가 점수를 잘 받으려는 데도 이유가 있다. 심·뇌혈관 질환처럼 수가가 낮은 필수 진료과 전문 병원들은 정부가 평가 등급에 따라 지급하는 ‘의료질 평가 지원금’에 거의 전적으로 의존하고 있기 때문이다. 전문 병원 관계자들은 “평가 등급에 따라 환자당 지급되는 지원금 액수가 수십 배 차이가 난다”며 “더구나 정부 평가는 상대평가여서 2점 가점도 등급에 큰 영향을 미치기 때문에 필요 없는 분만실을 만들 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;암 수술과 관련한 불합리한 규제도 있다. 정부는 2014년부터 간암·대장암·위암·유방암·폐암 등 5대 암에 대해 병원들을 상대로 주기적으로 ‘암 적정성 평가’를 해왔다. 이 평가 결과에 따라 정부 지원금이 차등 지급된다. 이 평가 항목 중엔 ‘암 확진 후 30일 이내 수술받은 환자 비율’이 있다. 30일 이내 수술 환자 비율이 높을수록 점수를 더 준다는 뜻이다. 암 환자들이 가능한 한 빠르게 치료를 받을 수 있게 하려는 취지로 도입한 지표다.&lt;br&gt;&lt;br&gt;하지만 의료계에선 “환자 유출이 심한 지역 병원들이 오히려 불이익을 받는 평가 기준”이라는 비판이 나온다. 현재 많은 환자들이 지방 병원에서 암 확진 판정을 받더라도 수술은 수도권 대형 병원에서 받는다. 수도권 대형 병원이 더 큰 혜택을 받을 수밖에 없는 구조다. 의료계 인사들은 “지금도 빅5(5대 대형 병원) 암 환자의 절반가량은 비수도권 환자들”이라면서 “수술 환자를 뺏기는 지역 병원은 암 수술 의료진을 줄이고 결국 지방 의료가 더 취약해질 것”이라고 했다.&lt;br&gt;&lt;br&gt;같은 진료를 해도 병원 규모에 따라 받는 돈이 달라지는 경우도 있다. 예컨대, 임신부가 출혈이나 복통으로 대형 병원 응급실을 찾으면 병원은 정부로부터 응급 가산료를 받는다. 하지만 그보다 규모가 작은 분만 병의원은 야간에 임신부 응급 환자를 진료해도 응급 가산료를 못 받는다고 한다. 신봉식 대한분만병의원협회장은 “같은 일을 해도 어떤 병원은 지원을 받고 어떤 곳은 지원을 못 받는 불합리한 차별은 가뜩이나 고사 직전인 분만 병의원을 더 어렵게 하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“의정 갈등, 규제 중심 의료정책 곱씹는 기회로”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/07/16/EBZYSIYZGRFQ7KOZSYB3RZOEFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/16/EBZYSIYZGRFQ7KOZSYB3RZOEFY/</guid>
-      <dc:creator>안준용 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Jul 2024 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DZTNMZH3EVFXNN4PUJZGSR6X5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강대희 전 서울대 의대 학장.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“이번 의정 갈등을 수십 년간 쌓여온 해묵은 ‘규제 중심 의료 정책’을 찬찬히 곱씹어보는 기회로 삼아야 한다.”&lt;br&gt;&lt;br&gt;민간 의료 싱크탱크 ‘한국미래의료혁신연구회’의 강대희 회장(전 서울대 의대 학장)은 15일 본지 인터뷰에서 한국 의료 정책 근간에 깔려 있는 규제 문제를 지적하면서 이렇게 말했다. 그는 “의료 발전을 가로막는 과도한 규제는 혁파하고, 의료계와 정부가 하루빨리 신뢰를 회복해 함께 나아가야 의사과학자 양성 등 미래 의료를 좌우할 핵심 과제에 대비할 수 있다”고 했다. 그는 윤석열 정부 국정 과제에도 인공지능(AI)·빅데이터 의료 등 미래 의료 과제가 다수 포함돼 있지만, 정부의 규제 기조와 의정 갈등 사태로 속도를 못 내고 있다고 했다.&lt;br&gt;&lt;br&gt;강 회장은 “우리나라 의료 정책은 일본에서 들여온 것이 많아 기본 기조가 ‘규제 중심’”이라고 지적했다. 그 대표적인 예로 ‘비대면 진료’를 들었다. 한국원격의료학회장도 맡고 있는 그는 “코로나 팬데믹 때 비대면 진료 3400만 건 중 심각한 부작용은 10건 정도밖에 안 됐는데 ‘진료 허용 범위’를 계속 논의하느라 시행도 못 하다가 2월 의료 파행 때 갑자기 허용한다고 했다”고 했다. 그러면서 “의료 정책의 큰 그림을 그리고 국민 필요에 따라 추진하는 게 아니라 그때그때 돌려막는 땜질식 정책이 반복되는 것이 문제”라고 했다.&lt;br&gt;&lt;br&gt;이를 막으려면 의료 정책을 만들 때 현장 의견이 제대로 반영되도록 지금의 보건의료정책심의위원회(보정심) 등을 대한의사협회·대한의학회·KAMC(한국의과대학·의학전문대학원협회)가 함께 참여하는 ‘의료정책협의회’로 확대 개편할 필요가 있다고 했다.&lt;br&gt;&lt;br&gt;강 회장은 “의료 정책은 과학에 기반하고 미래지향적이어야 한다”고 했다. 규제는 더 풀고 의료계와 정부가 더 많이 소통해야 지역 의료 등 현재 과제는 물론 미래 과제도 풀 수 있다는 것이다. 그는 “지역 의료를 살리기 위해선 지역 의료수가 차등화뿐만 아니라 수도권 대학병원과 지역 병원들 간 원격 협진도 활성화돼야 한다”고 했다. 또 “미래 의료 분야에선 질병 진료만큼 원격 환자 모니터링 장치 등을 발전시켜 질병을 예방하고 국민 의료비를 낮추는 것이 중요해질 것”이라고 말했다.&lt;br&gt;&lt;br&gt;의사과학자 양성도 그가 꼽는 핵심 과제다. 강 교수는 “중국만 해도 의료·과학 인재 육성에 막대한 투자를 하고 있다”며 “우리가 의료 산업을 키우고 글로벌 의료 리더가 되려면 1년에 의사 과학자를 최소 100명 이상 양성하는 걸 목표로 정부가 공격적으로 지원해야 한다”고 했다. 그는 의사과학자들이 병원에서 진료를 보지 않고 연구에만 집중할 수 있는 구조를 만드는 것이 중요하다고 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘쯔양 협박 의혹’ 전국진 “생활고 때문에... 구제역에 300만원 받아”</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/16/4YAOI5FTMZAFLFAHHQ7EV47JMI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/16/4YAOI5FTMZAFLFAHHQ7EV47JMI/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Jul 2024 16:01:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PUN5LO6AKJEHDCRSQFV4MEQDJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/전국진 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사생활 폭로를 빌미로 구독자 수 1040만명 유튜버 쯔양을 협박했다는 의혹을 받는 ‘사이버 레커’ 유튜버 중 한명인 전국진이 “구제역에게 300만원을 받았다”며 혐의를 인정했다.&lt;br&gt;&lt;br&gt;전국진은 15일 자신의 유튜브 채널에 올린 영상에서 “2023년 2월 27일 구제역에 300만 원을 (입막음 대가로) 받았다”면서도 “유튜브를 하면서 불순한 의도로 받은 처음이자 마지막 돈”이라고 했다.&lt;br&gt;&lt;br&gt;영상에 따르면 전국진은 2020년 11월 처음 쯔양 사생활에 대한 제보를 받았다. 제보자가 쯔양의 지인이라며 방 사진까지 제공한 탓에 신빙성이 있다고 판단했다고 한다. 당시에는 이를 공론화할 계획이 없었지만, 2~3년 뒤 코로나 여파로 생활고에 시달리면서 생각을 바꿨다는 게 전국진의 주장이다.&lt;br&gt;&lt;br&gt;전국진은 “쯔양과 전 소속사 대표가 과거를 세탁하고 짝짜꿍해서 채널을 운영한다고 부정적으로 생각했다”며 “그러다 제가 경제적으로 어려운 시기가 왔고 그 제보가 생각나 2023년 이번에 유출된 구제역과 통화를 하게 됐다”고 했다. 그러면서 “유출된 통화 내용대로 구제역이 쯔양 측과 연락했다”고 했다. 당시 구&lt;br&gt;&lt;br&gt;전국진은 쯔양이 전 남자친구로부터 받은 피해의 자세한 내막을 몰랐다고도 주장했다. 전국진은 “당시 쯔양님이 피해를 입었다는 말을 들었을 때도 경제적인 손해 정도 생각했지 심각한 피해를 입은 피해자라는 걸 전혀 몰랐다”며 “쯔양의 자세한 상황을 쯔양의 라이브 방송을 통해 알게됐다”고 했다.&lt;br&gt;&lt;br&gt;전국진은 뒤늦게 입장을 밝힌 이유에 대해선 “가세연 통해 녹취록이 나갔다는 말을 전해 듣고 3~4일 정도 잠만 자면서 회피해왔다. 이후에 다른 유튜버와 전혀 교류하지 않았다”며 “어제서야 가세연 방송을 다시 듣고 제가 무슨 말을 했는지 돌이켜봤다”고 했다. 그러면서 “녹취록이 노출되면서 숨기고 싶은 과거가 공개되어 버린 쯔양님께 진심으로 죄송하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ET7A4TACZ7Y5LVHFRWWDWVJASQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구독자 1000만여 명을 보유한 유튜버 쯔양(본명 박정원)의 과거를 폭로하겠다고 협박한 혐의로 고발당한 유튜버 구제역(본명 이준희)이 15일 오후 서울 서초구 서울중앙지검에 자진 출석하며 취재진의 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 전국진 영상 속 언급된 구제역은 쯔양을 협박해 5500만원을 뜯어낸 혐의로 고발당한 상태다. 이날 사전 조율 없이 조사를 받겠다며 검찰에 출석했으나, 조사를 받지 못하고 돌아갔다. 구제역은 이날 서울중앙지검 앞에서 “쯔양님과 팬분들께 고개 숙여 사과드린다”면서도 “저는 쯔양님을 공갈·협박한 적 없다. 돈은 쯔양 측에서 (폭로를 막아 달라고) 먼저 요구한 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이재명 재판 병합 안 받아준 대법원</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/15/DN7NTVG5WNBXHEWLF5HOL7SUK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/15/DN7NTVG5WNBXHEWLF5HOL7SUK4/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Jul 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J5KGKYF7WAH6PSETS4KV7JERAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 전 대표가 12일 서울 서초구 중앙지방법원에서 열린 공직선거법위반 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘쌍방울 불법 대북 송금 사건’으로 기소된 이재명 전 민주당 대표가 이 사건을 서울중앙지법에서 진행 중인 ‘대장동 사건’에 병합해달라고 신청했지만 대법원에서 기각됐다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 서경환 대법관)는 15일 이 전 대표가 신청한 ‘토지관할 병합 심리’를 기각했다. 대북 송금 사건은 수원지검이 기소해 관할 법원인 수원지법에서 재판이 열릴 예정이었는데, 이 전 대표는 지난 1일 서울중앙지법에서 진행 중인 대장동‧위례‧성남FC‧백현동 재판과 병합해달라고 요청했다.&lt;br&gt;&lt;br&gt;대법원은 2주 만에 이 신청을 기각했다. 별도 기각 사유는 밝히지 않았다. 한 부장판사는 “이 전 대표 사건 재판 지연을 방지하기 위해 대법원이 기각했을 것”이라며 “지금도 대장동 재판이 늘어지고 있는데, 증거가 많고 복잡한 불법 대북 송금 사건까지 병합하면 1심 선고에만 몇 년이 걸릴 수밖에 없다”고 말했다. 대장동‧위례‧성남FC‧백현동 사건은 1심 재판이 시작된 지 1년 4개월째지만, 아직도 첫 사건인 위례 개발 비리를 심리 중이라 선고가 언제 이뤄질지 기약이 없는 상황이다.&lt;br&gt;&lt;br&gt;대법원 결정에 따라 이 전 대표는 서울중앙지법과 수원지법을 오가며 대장동, 위증 교사, 선거법 위반, 대북 송금 등 총 4건의 재판을 받게 됐다. 일주일에 최소 2회, 많게는 4회까지 재판에 출석해야 한다. 대북 송금 사건은 수원지법 형사11부(재판장 신진우)에서 계속 맡는다. 이 재판부는 같은 사건으로 기소된 이화영 전 경기도 평화부지사에게 징역 9년 6개월의 중형을 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, 김여사 ‘디올백’ 확보 나섰다</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/16/3FVWPSYAIJGI5PV5SBPPJNFXOQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/16/3FVWPSYAIJGI5PV5SBPPJNFXOQ/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Jul 2024 15:50:00 +0000</pubDate>
-      <content:encoded>검찰이 윤석열 대통령의 부인 김건희 여사가 재미 교포 최재영 목사로부터 받은 ‘디올백’ 확보에 나선 것으로 15일 알려졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울중앙지검 형사1부(부장 김승호)는 최근 김 여사를 보좌한 행정관 3명을 연이어 조사했다. 검찰은 지난 3일 유모 행정관을 조사하며 “최 목사와 면담한 당일(2022년 9월 13일) 저녁, 김 여사가 ‘최 목사에게 가방을 돌려주라’고 지시했다”는 진술을 확보한 것으로 전해졌다. 다만 유 행정관 본인이 업무상 착오로 ‘디올백’을 관저 창고에 넣어두고, 실제 최 목사에게 반환하지 않았다고 진술했다고 한다.&lt;br&gt;&lt;br&gt;실제 ‘디올백’은 언론 취재가 시작되자 관저에서 대통령실로 옮겨진 것으로 알려졌다. 취재 요청을 받은 김 여사가 유 행정관에게 가방을 돌려줬는지를 확인한 뒤에야 관저 창고에 넣어둔 사실이 확인됐고, 이후 대통령실과 협의해 옮겨졌다는 것이다. 정진석 대통령 비서실장은 지난 1일 국회 운영위에서 “디올백은 있는 포장 그대로 청사 내에 보관 중인 것으로 알고 있다”고 했다. 이에 따라 검찰은 조만간 대통령실에 “해당 백을 제출해달라”고 요청할 계획이다.&lt;br&gt;&lt;br&gt;김 여사의 디올백 수수 의혹은 작년 11월 유튜브 채널 ‘서울의소리’를 통해 불거졌다. 최 목사는 디올백을 전달하면서 손목시계에 달린 몰래카메라로 이 장면을 촬영했고, 서울의소리는 이 영상을 공개한 것이다. 디올백은 서울의소리 관계자가 사비(私費)로 구매한 것으로 드러났다.&lt;br&gt;&lt;br&gt;한편, 검찰은 김 여사 측 변호인과 조사 방식과 시기 등을 조율하고 있다. 검찰은 서면 조사가 아닌 대면 조사가 필요하다는 입장을 전한 것으로 알려졌다. 다만 대면 조사를 하더라도 경호 문제 등으로 검찰 청사로 출석하기보다는 제3의 장소에서 조사가 이뤄지지 않겠느냐는 것이 법조계의 전망이다. 김 여사 측도 조사에 협조한다는 입장이어서, 조만간 조사 시기와 방법 등이 구체화될 것으로 보인다.&lt;br&gt;&lt;br&gt;청탁금지법에 따르면 공직자의 배우자는 공직자의 ‘직무와 관련해’ 1회 100만원 또는 연간 300만원을 초과하는 금품 등을 받아서는 안 된다고 돼 있다. 디올백이 윤 대통령의 직무와 관련이 있는지가 불투명한 것은 물론, 이 조항은 직무 관련성이 있더라도 윤 대통령을 처벌하는 조항이지, 김 여사가 처벌 대상은 아니다. 김 여사 법률대리인 최지우 변호사는 “김 여사가 백을 받은 것이 적절하다고 말할 수는 없지만, 비열한 정치 공작이었다는 점은 참작해달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국과수도 시청역 참사 ‘운전자 과실’에 무게</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/16/BNYEB3KBVNG5LAJZQDTQUO7M6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/16/BNYEB3KBVNG5LAJZQDTQUO7M6M/</guid>
-      <dc:creator>김수경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Jul 2024 15:50:00 +0000</pubDate>
-      <content:encoded>서울 시청역 역주행 참사의 원인을 조사 중인 경찰이 국립과학수사연구원으로부터 사고 원인에 대해 가해 차량 운전자 차모(68)씨의 과실로 판단 내릴 만한 결정적 증거들을 추가 확보했다고 15일 밝혔다. 차씨가 브레이크를 전혀 밟지 않았거나, 엑셀로 브레이크를 착각하고 힘껏 밟았다는 여러 정황을 국과수가 확보했을 가능성이 거론된다.&lt;br&gt;&lt;br&gt;지난 1일 사고가 발생한 지 14일 만이다. 조지호 서울경찰청장은 이날 오전 종로구 서울경찰청에서 열린 기자간담회에서 “지난주 목요일(11일) 오후 국과수 감정 결과를 통보받았다, 차량 결함 또는 운전자 과실 중 하나인데 국과수도 운전자 과실에 무게를 실었다”며 “(국과수 감정 결과를 토대로) 실체적 진실에 근접했다고 보면 된다. 더 이상 수사할 게 없을 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DRJYQ2PSANFSLJDKVTLBMXY5MY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 서울 중구 '시청역 역주행 사고' 현장의 모습. 시민들이 희생자들을 추모하기 위해 놓고 간 국화와 음료수 등이 보인다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 경찰이 차씨가 운전한 제네시스G80 차량의 EDR(사고 기록 장치)을 1차적으로 분석한 결과, 사고 직전 가속 페달을 90% 이상의 강도로 밟은 것으로 확인한 바 있다. 그러나 차씨는 “계속 브레이크를 밟았다”며 차량 결함으로 인한 급발진을 주장해 왔다. 국과수는 EDR을 더 면밀하게 분석한 자료와 함께 차씨가 브레이크를 밟았는지 여부, 차량 내 블랙박스 영상과 음성을 분석한 자료 등을 함께 경찰에 전달한 것으로 보인다.&lt;br&gt;&lt;br&gt;조 청장은 “EDR 분석 결과뿐만 아니라 기대하지 않았던 데서도 결정적인 것(증거)이 나왔다”며 “가해 차량 운전자 조사가 이뤄지면 수사가 마무리될 것으로 본다”고 했다. 경찰은 갈비뼈 10여 곳 골절로 서울대병원에 입원 중인 차씨와 대면 조사를 두 차례 시도했지만 통증을 호소해 본격적인 조사가 어려웠다고 한다. 사고 당시 촬영된 동영상에는 켜진 것처럼 보이는 차량 후미 브레이크 등에 대해 경찰 관계자는 이날 “국과수 감정 결과, 외부의 빛이 투영돼 생긴 난반사 혹은 외부 충격으로 인한 전자적 결함일 가능성이 있다”고 했다.&lt;br&gt;&lt;br&gt;한편 경찰은 시청역 추모 공간에 피해자들의 명예를 훼손하는 내용의 쪽지를 두고 간 20대와 40대 남성을 사자명예훼손 혐의로 조사했다. 경찰은 또 온라인상에서 댓글로 피해자들을 모욕한 6명을 특정해 조사할 계획이라고 밝혔다.&lt;br&gt;&lt;br&gt;지난 1일 오후 9시 26분쯤 차씨가 운전한 제네시스 G80 차량이 서울 소공동 웨스틴 조선호텔 지하 주차장에서 빠져나온 후 일방통행로이자 4차선 도로인 세종대로18길을 역주행하다 왼편 인도로 돌진했다. 차량은 인도에 설치된 가드레일을 뚫고 보행자 11명을 덮쳤고, 다른 차량 두 대를 연쇄 추돌한 뒤에야 멈췄다. 역주행 거리는 200m쯤이었다. 이 사고로 9명이 사망하고 차씨 부부 포함 7명이 다쳤다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰총장 “유튜버 중대 범행 구속수사하라”</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/16/RQH2KFSFDFDDXEYN2JG45MHNIA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/16/RQH2KFSFDFDDXEYN2JG45MHNIA/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Jul 2024 15:50:00 +0000</pubDate>
-      <content:encoded>이원석 검찰총장은 15일 ‘쯔양 협박 사건’ 등 이른바 ‘사이버 레커’ 유튜버들의 악성 콘텐츠 유포에 엄정 대응하라고 일선 검찰청에 지시했다.&lt;br&gt;&lt;br&gt;이 총장은 “피해자의 약점을 이용해 금품을 갈취하고 허위 영상을 게시하거나 ‘사적 제재’를 내세워 2차 가해를 하는 등의 범행이 계속되고 있다”면서 “반복적·악의적·중대 범행은 적극적으로 구속 수사 하라”고 했다. 또 “피해 정도가 중한 경우에는 원칙적으로 공판에 회부하고, 범죄 수익은 철저히 추적 후 몰수·추징 보전과 민사소송 등을 활용해 환수하라”고 강조했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GG377Y3LVNBUHBIWI6JS65MV5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 구제역&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유명 먹방 유튜버 쯔양은 이날 자신을 협박해 돈을 뜯어낸 유튜버 구제역과 전국진, 카라큘라 등을 직접 고소하겠다고 밝혔다. 쯔양 측은 “공갈 사건 발생 당시 쯔양은 심신이 매우 피폐해진 상태였고, 유튜버들의 금원 갈취에 대응할 여력이 없었다”며 “(최근) 일부 사건이 공론화되며 2차 피해가 확산했고, 깊은 고민 끝에 고소 진행을 결정했다”고 했다.&lt;br&gt;&lt;br&gt;한편 쯔양을 협박해 5500만원을 뜯어낸 혐의로 고발당한 구제역은 이날 사전 조율 없이 조사를 받겠다며 검찰에 출석했지만 조사를 받지 못하고 돌아갔다. 구제역은 이날 서울중앙지검 앞에서 “쯔양님과 팬분들께 고개 숙여 사과드린다”면서 “저는 쯔양님을 공갈·협박한 적 없다. 돈은 쯔양 측에서 (폭로를 막아 달라고) 먼저 요구한 것”이라고 했다. 그는 검찰에 자신의 휴대전화를 임의 제출했지만 조사를 받진 못했다.&lt;br&gt;&lt;br&gt;서울중앙지검은 이날 구제역 등의 ‘쯔양 협박 의혹’ 사건을 수원지검에 이송했고, 구글코리아는 이날 유튜브 카라큘라, 구제역, 전국진 등 세 채널에 대해 ‘수익 정지’ 결정을 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>학교 급식도 ‘푸드뱅크’로</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/07/16/ZHZDLN3I7VCPZPEJCJSDQ7ZK6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/16/ZHZDLN3I7VCPZPEJCJSDQ7ZK6M/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Jul 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WXKRPCWBE5H4TKVCTMTMY5UVCI.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 오후 경기도 수원시 조원고등학교 급식실. 학생들이 급식을 다 먹은 후 아직 김이 모락모락 나는 남은 음식을 조리사들이 커다란 스테인리스 통에 종류별로 옮겨 담았다. 복지 시설에서 나온 자원봉사자가 음식을 도시락 용기에 담고 포장했다. 금세 도시락 100여 개가 만들어졌다. 도시락은 독거노인, 노숙인 등 식사가 필요한 사람에게 전달됐다.&lt;br&gt;&lt;br&gt;조원고에선 한 달에 3~4t(톤) 정도 급식 잔반이 나온다. 2021년부터 고교 무상 급식이 실시되면서 남는 음식이 늘기 시작했다. 급식 신청 여부와 상관없이 학생 수만큼 음식을 만드니 급식을 안 먹거나 남기는 학생이 많아졌다. 버려지는 음식이 아까웠던 조원고는 작년 10월부터 급식을 ‘푸드 뱅크’에 기부하기로 했다. 조원고 관계자는 “멀쩡한 음식을 버리면 음식물 쓰레기가 되지만, 도시락에 포장해 나누면 따뜻한 음식이 되지 않느냐”고 말했다. 조원고는 지난달에만 음식 990㎏을 기부했다.&lt;br&gt;&lt;br&gt;조원고처럼 남는 음식을 기부하는 학교가 늘고 있다. 작년 10월 ‘경기도교육청 잔식 기부 활성화에 대한 조례’를 시행하면서부터다. 보건복지부는 1998년 IMF 외환 위기를 계기로 노숙인과 결식아동의 식사 문제를 해결하기 위해 음식을 기부받는 ‘푸드 뱅크’를 시행 중인데, 학교는 그동안 대상이 아니었다. 그런데 경기도 조례로 ‘푸드 뱅크’에 참여할 수 있는 길이 열리면서 학교들이 호응하고 있는 것이다. 작년 기준 경기도 전체 학교(2247곳) 중 176곳(7.8%)이 참여하고 있다. 134곳은 푸드뱅크에 기부하고, 42곳은 교회·복지 기관 등 시설에 직접 전달한다. 서울시와 세종시에서도 지난달 같은 내용의 조례가 제정됐기 때문에 앞으로 학교들의 음식 기부는 늘어날 전망이다.&lt;br&gt;&lt;br&gt;15일 교육부에 따르면, 2022년 한 해 동안 국내 초·중·고교 전체에서 발생한 음식물 쓰레기는 총 51만1000t으로 추정된다. 음식물 쓰레기 처리 비용만 한 해 511억원에 이른다.&lt;br&gt;&lt;br&gt;이렇게 버려지는 급식 문제가 심각한데도 기부가 활성화되지 않은 것은 식품의약품안전처에서 식중독 등 우려로 급식을 외부로 유출하는 것을 우려했기 때문이다. 경기도교육청 관계자는 “남은 음식은 당일 몇 시간 이내에 바로 소비하게 돼있어 식중독이 발생할 가능성은 작다”며 “혹여 식중독 문제가 발생하더라도 잔반을 받아 간 복지 시설에서 책임지는 것으로 계약을 맺기 때문에 학교에 피해가 가진 않는다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>빨간불 몇 초 남았나</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/16/UYTSBLLBEJCTVNWBQ2EZBNNADU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/16/UYTSBLLBEJCTVNWBQ2EZBNNADU/</guid>
-      <description/>
-      <pubDate>Mon, 15 Jul 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRO46NHPLJB4TPESTPIK7XN3VE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 오후 서울 시청역 앞 횡단보도에 설치된 신호등의 모습. 빨간색 신호가 몇 초 남았는지 숫자로 보여주는 신호등이다. 서울시는 연말까지 시내 350곳에 이 신호등을 설치할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 취향이 다르다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/07/16/CXQE5UUAC5C5JNM5C6YB7IHKYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/07/16/CXQE5UUAC5C5JNM5C6YB7IHKYQ/</guid>
-      <description/>
-      <pubDate>Mon, 15 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5HQF53HKJFPXFC5A5OOZV3LAI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] hang over one's head</title>
-      <link>https://www.chosun.com/national/nie/english/2024/07/16/GL3XPSN4AJHGJFVHR3AF26SG6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/07/16/GL3XPSN4AJHGJFVHR3AF26SG6M/</guid>
-      <description/>
-      <pubDate>Mon, 15 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QYEJ3DXY7ZDJBDQGP6U34WHBUI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2421] 문장 꽈배기</title>
-      <link>https://www.chosun.com/national/nie/2024/07/16/2SSQYD2HYFHWZPNBSKN64YZ6IM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/16/2SSQYD2HYFHWZPNBSKN64YZ6IM/</guid>
-      <description/>
-      <pubDate>Mon, 15 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JYZGDVZ2DRCOFEED3P4RHIOAZ4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 식사 시간, 밥때</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/07/16/E4DJWTQMOBFVNFRUZ3GUBDGFJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/07/16/E4DJWTQMOBFVNFRUZ3GUBDGFJY/</guid>
-      <description/>
-      <pubDate>Mon, 15 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/62HMPX6FU5CR5P3DS6JWQJ4FIE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 면박(面駁)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/16/M5QT3LITBZBZDJPY66DYOOGF3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/16/M5QT3LITBZBZDJPY66DYOOGF3E/</guid>
-      <description/>
-      <pubDate>Mon, 15 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA4BXMGTCRBEFE4KQDW36CM4P4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 공정거래위원회 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/07/16/ACIPY4LC4ZH23EUQPLO6MVJY5Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/07/16/ACIPY4LC4ZH23EUQPLO6MVJY5Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Jul 2024 15:35:00 +0000</pubDate>
-      <content:encoded>▲공정거래위원회◇과장급 전보▷심판총괄담당관 권혜정▷소비자안전교육과장 김민지▷공시점검과장 이하나▷국제기업결합과장 황태호▷OECD대한민국정책센터 파견 박종배◇과장급 승진▷서울지방공정거래사무소 제조하도급과장 윤지원&lt;br&gt;&lt;br&gt;▲인사혁신처◇국장급 승진▷공무원노사협력관 이경한▷국가공무원인재개발원 연구개발센터장 신현미◇국장급 전보▷인재채용국장 손무조▷국가공무원인재개발원 리더십개발부장 오영렬◇과장급 전보▷윤리복무국 복무과장 김재선▷윤리복무국 재산심사기획과장 김창주▷윤리복무국 재산심사관리과장 김명근▷윤리복무국 취업심사과장 황일청▷국가공무원인재개발원 기획부 교육지원과장 이창현&lt;br&gt;&lt;br&gt;▲방위사업청◇과장급 전보▷개발사업담당관 이정숙▷계약제도발전과장 허준▷전투지원함사업팀장 윤성욱▷해상유도무기사업팀장 길계호▷첨단기술총괄계약팀장 장현호&lt;br&gt;&lt;br&gt;▲한국폴리텍대학▷기획부장 김태우▷예산부장 신상재▷인사부장 유지연▷CEO지원부장 송경호&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>순직 제복 근무자 자녀 위한 역대 최대 규모 멘토단 출범</title>
-      <link>https://www.chosun.com/national/2024/07/16/M4HUTNESNNEZBIFAMQ3M4YKH2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/07/16/M4HUTNESNNEZBIFAMQ3M4YKH2U/</guid>
-      <dc:creator>양지호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Jul 2024 15:35:00 +0000</pubDate>
-      <content:encoded>전투 또는 직무를 다하다 숨진 군인·경찰·소방관 등 제복 근무자의 자녀 ‘히어로즈 패밀리’를 돕기 위한 역대 최대 규모 멘토단이 출범한다.&lt;br&gt;&lt;br&gt;국가보훈부는 15일 “요리연구가·성우·유명 강사 등 멘토 37명을 추가로 위촉해 총 75명이 활동하게 된다”며 “오는 16일 멘토단과 히어로즈 패밀리가 첫 만남을 갖고 본격 활동에 들어간다”고 했다. 역대 최대 규모인 멘토단에는 유명 수학 강사 정승제, 한국사 강사 최태성씨 등도 합류했다고 한다.&lt;br&gt;&lt;br&gt;히어로즈 패밀리는 국가를 위해 희생한 군경 가족을 응원하는 프로그램으로, 지난해 4월 출범했다. 2018년 제11전투비행단 비행 임무 수행 중 순직한 고 최필영 공군 소령 자녀인 최모(10)양 등이 16일 ‘첫 만남’ 행사에 참석한다. 요리사가 꿈인 최모양은 멘토 김아리 요리연구가와 결연을 맺는다고 보훈부는 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 이훈 前 대구동구청장 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/07/16/DFXMKXBDQFBAFKNMP43FTK2E4U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/07/16/DFXMKXBDQFBAFKNMP43FTK2E4U/</guid>
-      <description/>
-      <pubDate>Mon, 15 Jul 2024 15:35:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;이훈&lt;/b&gt; 前 대구동구청장 별세, &lt;b&gt;이원혁 &lt;/b&gt;대구시치과의사회 부회장·&lt;b&gt;이은경&lt;/b&gt; 영남일보 한국스토리텔링연구원장·&lt;b&gt;이은현&lt;/b&gt; 미플러스치과 원장·&lt;b&gt;이현주&lt;/b&gt; 신세계약국 약사 부친상, &lt;b&gt;민정식&lt;/b&gt; 경운대 산학협력단장·&lt;b&gt;이민호&lt;/b&gt; 경북대 교수·&lt;b&gt;권도훈&lt;/b&gt; 한국중독정신의학회장 장인상, &lt;b&gt;이미정&lt;/b&gt; 강남성심신경과 원장 시부상=14일22시20분 계명대 대구동산병원, 발인 16일10시, (053)258-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;전하철&lt;/b&gt; 별세, &lt;b&gt;강금심&lt;/b&gt; 남편상, &lt;b&gt;전정수&lt;/b&gt;·&lt;b&gt;전창수&lt;/b&gt; 한화 건설부문 인사지원실장·&lt;b&gt;전장미&lt;/b&gt;·&lt;b&gt;전유미&lt;/b&gt; 부친상=15일4시 안양장례식장, 발인 17일5시30분, (031)456-5555&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한용석&lt;/b&gt; 별세, &lt;b&gt;방명자&lt;/b&gt; 남편상, &lt;b&gt;한광수&lt;/b&gt; 前 청주대 일어일문학과 교수·&lt;b&gt;한웅수&lt;/b&gt; 한국프로축구연맹 부총재·&lt;b&gt;한인수&lt;/b&gt;·&lt;b&gt;한연수&lt;/b&gt; 부친상=15일7시35분 안성 도민장례식장, 발인 17일10시30분, (031)692-4444&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [디자인·건축 이야기] 부드러운 글꼴, 시원시원한 글꼴… 구구절절 설명없이 분위기 표현하죠</title>
-      <link>https://www.chosun.com/national/nie/2024/07/16/UPXNXP32NNEZNMAFRXWRKTU6A4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/16/UPXNXP32NNEZNMAFRXWRKTU6A4/</guid>
-      <dc:creator>전종현 디자인·건축 저널리스트</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>지난 5월 23일 석금호 산돌 이사회 의장이 별세했어요. 그는 1978년부터 6년간 잡지 ‘리더스 다이제스트’ 한국판에서 디자이너로 일하며 당시 인쇄 기계와 한글 폰트를 일본에서 수입해 사용한다는 사실에 큰 충격을 받았어요. 그는 한글 폰트를 직접 만들어내겠다는 마음으로 회사를 그만두고 1984년 국내 최초 폰트 기업 산돌을 창업했죠. 산돌은 마이크로소프트 윈도 최초의 한글 기획 폰트인 ‘맑은 고딕’과 네이버에서 무료 배포해 국민 폰트가 된 ‘나눔 고딕’ ‘나눔 명조’를 개발하며 명성을 얻었어요.&lt;br&gt;&lt;br&gt;폰트는 디자인적 일관성을 갖춘 글자의 묶음을 뜻해요. 우리말로는 ‘글꼴’이라고 하죠. 폰트를 구분하는 기준은 다양하지만, 가장 크게 세리프(serif) 폰트와 산세리프(sans serif) 폰트로 나눠요. 세리프는 글자 획 끝부분에 돌출된 돌기를 말해요. 우리에게 익숙한 바탕체·명조체가 세리프 폰트예요. 반면 산세리프 폰트는 ‘없다’라는 뜻의 프랑스어 ‘산(sans)’과 세리프가 결합된 것에서 알 수 있듯이, 세리프가 없는 폰트를 말하는 것이죠. 한글의 돋움체·고딕체를 생각하시면 됩니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WM5TEKUSEVADTKT2IJ47YR2WAE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배달의민족 '을지로체'에 영감을 준 을지로 일대 간판들. /우아한형제들&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폰트는 각자 다른 개성을 가진 사람과 비슷해요. 세리프의 유무와 생김새, 굵기에 따라 분위기가 미묘하게 다르죠. 이를 잘 이용하면 구구절절 설명하거나 특별한 이미지를 보여주지 않고 폰트만으로도 원하는 분위기를 효과적으로 표현할 수 있어요.&lt;br&gt;&lt;br&gt;예컨대 세리프 폰트는 15세기 인쇄 혁명 이후 오랜 시간 발전해온 산물입니다. 그 덕에 전통과 유산을 대변하고 고전적인 아름다움을 갖고 있죠. 우아하고 부드러운 느낌과 격식을 차린 듯한 느낌을 풍깁니다.&lt;br&gt;&lt;br&gt;패션 잡지 ‘보그’와 미국 시사 주간지 ‘타임’부터 세계 최초로 내연기관 자동차를 만든 기업이자 독일의 대표 고급차 브랜드 ‘메르세데스 벤츠’ 등은 세리프 폰트로 로고를 만들어 브랜드를 홍보하는 데 성공했어요.&lt;br&gt;&lt;br&gt;반면 산세리프 폰트의 매력은 간결한 느낌입니다. 사람으로 예를 들면 또렷하고 시원시원한 인상이라고 할 수 있죠. 과거에 얽매이지 않는 현대적인 이미지도 강해요. 그래서 20세기 중반 이후 수많은 브랜드에서 산세리프 폰트를 굉장히 애용했어요. 대표적인 산세리프 폰트 중 하나인 헬베티카(Helvetica)는 BMW와 맥도널드, 3M 등 수많은 글로벌 브랜드 로고에 쓰였죠.&lt;br&gt;&lt;br&gt;서구에선 ‘무슨 폰트를 써야 할지 모를 때는 그냥 헬베티카를 써라’ ‘헬베티카를 보지 않고 하루를 보내는 건 불가능하다’라는 농담까지 있답니다. 최근 몇 년간 세리프 폰트에서 산세리프 폰트로 바꾸는 로고 리뉴얼이 유행하면서 다양성이 사라지고 있다는 목소리들이 나오기도 했습니다.&lt;br&gt;&lt;br&gt;브랜드 전용 폰트를 개발해 무료로 배포하는 경우도 있습니다. 배달의민족은 1970년대 을지로 일대 간판 글자들에서 영감을 받아 만든 ‘을지로체’ 등 여러 폰트를 만들어 대중에게 선보이고 있답니다. 2020년 조선일보도 창간 100주년을 맞아 1920년대 조선일보 지면 글꼴을 현대적 감각으로 되살린 ‘조선100년체’를 무료 배포하기도 했어요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재미있는 과학] 로봇이 미소 지은 비결은? ‘인대’ 역할하는 콜라겐 젤 덕분</title>
-      <link>https://www.chosun.com/national/nie/2024/07/16/A5TTNR7RW5BEHL7M53PXGH42EE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/16/A5TTNR7RW5BEHL7M53PXGH42EE/</guid>
-      <dc:creator>이윤선 과학 칼럼니스트, 기획·구성=오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>분홍색 슬라임을 넓게 펼쳐 놓은 것처럼 보이는 동그란 물질에 두 개의 눈이 달려 있어요. 그 아래로 어렴풋이 미소 짓는 입과 그로 인해 볼이 볼록하게 솟은 모습이 보입니다. 웃을 때 볼살이 튀어나오는 인간의 얼굴을 재현했지요. 이것은 인공 피부가 부착된 2차원 얼굴 로봇입니다. 이 인공 피부는 과학자들이 사람 피부 세포를 이용해 만든 거예요. 점점 더 인간을 닮아가고 있는 로봇 이야기, 지금부터 알아볼게요.&lt;br&gt;&lt;br&gt;&lt;b&gt;움직여도 찢어지지 않는 인공 피부&lt;/b&gt;&lt;br&gt;&lt;br&gt;일본 도쿄대 다케우치 쇼지 교수팀이 지난달 인공 피부를 입힌 얼굴 로봇을 공개했어요. 다케우치 쇼지 교수는 생물학과 기계공학이 결합된 바이오하이브리드 로봇을 연구해요.&lt;br&gt;&lt;br&gt;평소 다케우치 쇼지 교수의 고민은 인공 피부를 어떻게 로봇에 붙이느냐였습니다. 사람 몸 전체가 피부로 덮여있는 것처럼 로봇의 몸도 인공 피부로 빈틈없이 감싸고 싶었는데 쉽지 않았어요. 또 이전 연구에서 사람의 피부 세포를 이용해 만든 인공 피부를 가진 로봇 손가락을 개발했는데, 손가락을 움직이면 인공 피부가 찢어지는 문제가 발견됐어요.&lt;br&gt;&lt;br&gt;다케우치 쇼지 교수는 이 문제를 해결하기 위해 사람의 피부 구조를 들여다봤어요. 그리고 피부와 인대의 구조에 주목했습니다. 근육 위로 근막과 피부가 쌓여있는데, 인대는 근육과 근막, 피부 사이에서 이들을 연결하는 역할을 하고 있었어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KGA4VPRGB5D5PBBGIX4OR7E5BM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여기서 연구진은 인공 피부와 로봇 골격을 연결하는 것이 필요하다는 아이디어를 떠올렸습니다. 이를 위해 로봇 골격에 ‘V자 모양’ 구멍들을 만들었어요. 그리고 그 위에 인대 역할을 할 젤을 바르고, 그 위에 사람 피부 세포를 이용해 만든 인공 피부층을 쌓아 올렸습니다. 인대 역할을 하는 젤은 콜라겐 등으로 만들었죠. 젤은 구멍 사이로 스며들었고 시간이 지나 굳으면서 로봇 골격에 고정됐습니다. 동시에 위에 있던 피부층에도 잘 붙었죠. 젤 덕분에 로봇의 얼굴 골격이 움직여도 인공 피부가 찢어지지 않고 움직일 수 있게 된 거예요.&lt;br&gt;&lt;br&gt;로봇의 인공 피부는 잡아당겨도 잘 붙어 있었고, 미소 짓는 표정을 만들기 위해 움직여도 찢어지지 않았어요. 또 실제 사람 피부 세포를 이용해 만든 만큼 진짜 피부처럼 부드러울 뿐 아니라, 상처를 입어도 스스로 재생할 수 있다고 해요. 실제로 상용화가 되려면 추가 실험이 더 필요하지만, 연구진은 휴머노이드 로봇 생산에 긍정적인 영향을 줄 연구 결과라고 평가했어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JA4QSKB6DFE7TDQ3ZKOGAQH22A.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;로봇에 피부가 필요한 이유&lt;/b&gt;&lt;br&gt;&lt;br&gt;최근 로봇은 우리 생활에 밀접하게 활용되고 있어요. 서빙을 하고, 커피를 만들고, 청소를 하지요. 이런 단순한 일들은 피부가 없는 로봇도 할 수 있어요. 하지만 갈수록 인간이 로봇에 원하는 일들이 복잡해지고 많아지고 있어요. 그러면서 피부를 가진 로봇이 필요해지고 있죠.&lt;br&gt;&lt;br&gt;사람이 일할 수 없는 위험한 공사 현장에서 일하는 로봇을 생각해볼게요. 이 현장에서 로봇은 무언가에 부딪히거나 충돌할 수 있는 위험이 많아요. 이때 피부는 로봇 본체에 가해질 충격을 흡수해줘요. 로봇이 부서지는 걸 막을 수 있는 거예요. 나아가 정말 사람 피부처럼 온도 변화, 외부 자극 등을 감지할 수 있다면 사고를 미리 피할 수도 있을 거예요.&lt;br&gt;&lt;br&gt;또 어떤 물체가 닿았을 때 느껴지는 감각 정보를 파악하고, 쓰다듬거나 포옹처럼 사람과 감정적 교류를 하려면 부드러운 피부가 필요해요. 이러한 이유 때문에 많은 과학자들이 실제 사람 피부처럼 촉감을 느끼고, 상처가 나도 회복 가능한 인공 피부 연구에 집중하고 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NNU2ELGDR5CGTPUKQ7XPCXEXWQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;인간과 비슷해지는 로봇, 불편한 이유는?&lt;/b&gt;&lt;br&gt;&lt;br&gt;이번에 공개된 인공 피부 로봇이 미소 짓는 모습을 보고, 신기함보다 기괴함과 무서움을 느꼈다는 반응도 있었어요. 이런 심리를 설명하는 현상이 ‘불쾌한 골짜기’입니다.&lt;br&gt;&lt;br&gt;불쾌한 골짜기란 1970년 일본의 로봇 공학자 모리 마사히로가 소개한 이론이에요. 로봇의 모습이 인간과 비슷할수록 호감도가 증가하는데, 닮은 정도가 일정 수준에 다다르면 호감도가 떨어지고 거부감을 느끼게 된다고 해요. 그런데 기술 발전으로 닮은 정도가 일정 수준을 뛰어넘어 인간과 구별할 수 없는 정도가 되면 다시 호감도가 증가한다고 해요. 여기서 ‘일정 수준’을 ‘불쾌한 골짜기’라고 부릅니다.&lt;br&gt;&lt;br&gt;불쾌한 골짜기를 뛰어넘는 로봇이 만들어지려면 어떤 기능이 필요할까요? 아마도 다양한 표정일 겁니다. 전문가들은 로봇이 인간과 매우 닮았지만, 인간처럼 다양하고 자연스러운 표정을 만들 수 없다 보니 불쾌한 골짜기 현상이 발생한다고 봤거든요.&lt;br&gt;&lt;br&gt;정서와 얼굴 표정 등에 대해서 연구하는 미국의 폴 에크만 교수는 인간은 얼굴에 있는 40여 개의 근육을 이용해 1만 가지가 넘는 표정을 만들 수 있다고 했어요. 이 가운데 감정과 관련된 것은 3000여 개라고 합니다.&lt;br&gt;&lt;br&gt;해외 연구진이 31국 사람들의 자료를 분석한 결과 지역과 문화 등 차이를 넘어 감정을 전달할 수 있는 보편적 표정은 35개였다고 해요. 어쩌면 로봇이 이 정도 표정만 표현할 줄 알아도 인간이 불쾌한 골짜기를 넘어 로봇을 좀 더 가깝게 느낄 수 있지 않을까 싶습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/DXH4QCGQDVFG5CMEJKBYHKVGYE.png?width=1600&amp;height=900&amp;auth=4e1ccd74b9c6ca13eb489ceca601f94288099fcd1feca14da51d1de30a2a26dc&amp;smart=true" type="image/png" height="900" width="1600"/>
-    </item>
-    <item>
-      <title>외국인 건보, 작년 7400억 흑자… 무임승차 많은 중국만 적자</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/07/15/JLTCE64B3FDM5NZ66IXLXGMQF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/15/JLTCE64B3FDM5NZ66IXLXGMQF4/</guid>
-      <dc:creator>안준용 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Jul 2024 12:12:27 +0000</pubDate>
-      <content:encoded>건강보험의 ‘외국인 가입자 재정수지’가 지난해 7403억원 흑자를 기록했다. 외국인이 건보료로 낸 돈보다 건보 급여(혜택)를 적게 받아갔다는 뜻이다. 그러나 중국인은 납부한 건보료보다 급여를 많이 받아가 640억원 적자로 나타났다.&lt;br&gt;&lt;br&gt;15일 더불어민주당 남인순 의원실이 건보공단에서 받은 ‘외국인 보험료 부과 대비 급여비 현황’ 자료에 따르면, 작년 전체 외국인이 낸 보험료는 2조690억원이었다. 외국인이 국내 병원을 이용하고 건강보험에서 급여로 받은 총 금액은 1조3287억원으로, 7403억원 흑자였다. 2021년(5251억원), 2022년(5560억원)보다 흑자 규모가 더 커졌다. 건보 외국인 재정수지는 매년 흑자를 기록해 최근 5년간 누적 흑자가 총 2조7825억원이다.&lt;br&gt;&lt;br&gt;작년 말 기준 외국인 건보 가입자는 약 146만명으로, 중국 국적 가입자가 70만명가량(48%) 된다. 이어 베트남(15만명), 우즈베키스탄(7만명), 네팔(5만명) 순이다. 외국인 가입자 상위 10국 가운데 유일하게 중국인만 ‘부과된 건보료(8103억원)’보다 ‘받아간 급여(8743억)’가 더 많았다. 적자 규모는 2021년 109억원, 2022년 229억원에서 지난해 640억원까지 불어났다. 반면 중국 다음으로 건보 가입자가 많은 베트남(714억원), 우즈베키스탄(310억원), 네팔(715억원)은 모두 흑자를 기록했다. 건보공단은 “코로나 이후 중국인 지역가입자가 늘면서 건보 급여비도 증가하는 추세”라고 했다.&lt;br&gt;&lt;br&gt;정부는 지난 4월부터 국내에 들어오는 외국인·재외국민은 6개월 이상 체류해야만 건보 피부양자가 될 수 있도록 기준을 강화했다. 외국인이 입국 직후 한국에 사는 가족의 피부양자로 건강보험에 가입해 건보료는 한 푼도 안 내고, 병원 치료 뒤 돌아가는 ‘외국인 무임승차’ 사례를 막기 위해서다. 이에 따라 6개월 미만 단기 거주 외국인은 피부양자 자격을 얻지 못하게 돼 건보 혜택을 받는 외국인 수가 연 1만명 정도 줄어들 것으로 건보공단은 추산하고 있다. 다만 6개월 체류 조건만으로 무임승차를 차단하긴 어렵다는 지적도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘핼러윈 참사’ 박희영 용산구청장 징역 7년 구형</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/15/FC7LDGBFHVGP5MUPGNMYEN6WYA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/15/FC7LDGBFHVGP5MUPGNMYEN6WYA/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Jul 2024 05:55:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HSIOGULDQFK5XIVU57YRV3MWIE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이태원 참사 부실 대응 혐의로 구속 기소됐다 보석 석방된 박희영 용산구청장이 지난 2023년 11월 6일 서울 마포구 서울서부지방법원에서 열린 공판기일에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 핼러윈 참사 부실 대응으로 구속 기소된 박희영(63) 용산구청장에게 징역 7년을 구형했다.&lt;br&gt;&lt;br&gt;검찰은 15일 오후 서울서부지법 형사합의11부(재판장 배성중) 심리로 열린 결심 공판에서 박 구청장에게 징역 7년을 구형했다.&lt;br&gt;&lt;br&gt;함께 재판을 받는 최원준(60) 전 용산구 안전재난과장에게는 징역 3년, 유승재(58) 전 용산구 부구청장과 문인환 전 용산구 안전건설교통국장에게는 각각 금고 2년이 구형됐다.&lt;br&gt;&lt;br&gt;박 구청장 등은 지난 2022년 10월 29일 서울 용산구 이태원역 부근에 모인 많은 인파로 참사 발생을 예견할 수 있었는데도 안전관리계획을 세우지 않고, 재난안전상황실을 적정하게 운영하지 않은 혐의(업무상과실치사상) 등으로 기소됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
