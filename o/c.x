@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>파주에 시간당 100㎜ 쏟아졌다…경기 북부에 호우 긴급 재난문자 </title>
+      <link>https://www.chosun.com/national/transport-environment/2024/07/17/NGDHJISKSFBR3K3WZ72HNV64PI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/17/NGDHJISKSFBR3K3WZ72HNV64PI/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Jul 2024 22:25:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PI34LEAA5ZKBVGNZAOMMM25U6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장맛비가 내린 16일 오후 서울 종로구 광화문 광장에서 시민들이 우산을 쓰고 이동하고 있다. 2024.7.16 /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장마전선(정체전선)의 영향으로 17일 새벽 경기북부에 올해 첫 호우 긴급재난문자가 발송됐다고 기상청이 밝혔다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 재난문자가 발송된 곳은 파주 군내면·진서면(오전 4시22분), 연천 백학면(오전 6시), 연천 장남면(오전 6시22분), 파주 파평면·진동면(오전 6시22분), 파주 문산읍(오전 6시38분), 파주 적성면(오전 6시40분) 등 7곳이다. 기상청 관계자는 “빗줄기가 거세 재난문자 추가 발송 가능성이 높다”고 전했다.&lt;br&gt;&lt;br&gt;17일 오전 6시 기준 장마전선은 산동반도~옹진반도~경기북부에 위치하고 있다. 북쪽 건조 공기가 남하하면서 비구름 덩치를 키우고 있다. 이 영향으로 경기북부엔 시간당 최대 100㎜의 비가 쏟아지고 있고, 대부분 지역에서 시간당 30~70㎜의 집중호우가 내리고 있다. 강원북부 내륙에도 시간당 30㎜ 내외의 강한 비가 내리고 있다.&lt;br&gt;&lt;br&gt;주요 지점 1시간 강수량 현황은 파주 시간당 100.9㎜, 양주 51.5㎜, 연천 48.5㎜, 동두천·포천 46.0㎜ 등이다. 15일 오후 5시부터 17일 오전 7시까지 누적 강수량은 파주 판문점 274.5㎜, 파주 도라산 193㎜, 연천 144.5㎜ 등이다.&lt;br&gt;&lt;br&gt;현재 경기북부 대부분 지역에 호우경보가 발효됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“엄마 잘못이지만 억울”…송종국 딸 골프대회 출전 무산, 무슨일?</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/17/EJV5XDDSM5GXHFSJKSRZNAZU4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/17/EJV5XDDSM5GXHFSJKSRZNAZU4E/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Jul 2024 22:21:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OPMVEJMXWZDD7EFYWMGRKIK3ZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 박연수의 딸 송지아양./박연수 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가대표 축구선수 출신 송종국의 딸 송지아가 한국여자프로골프협회(KLPGA) 회장배 대회 출전을 못하게 됐다. 송종국의 전 아내이자 송지아의 엄마인 배우 박연수는 신청서에 타수를 잘못 기재해 생긴 일이라며 주최 측에 억울함을 호소했다.&lt;br&gt;&lt;br&gt;박연수는 지난 16일 자신의 인스타그램에 “(골프) 늦게 시작한 지아는 프로 입문을 최대한 빨리 하는 게 소원”이라며 장문의 글을 올렸다.&lt;br&gt;&lt;br&gt;이어 딸이 “왜 아빠처럼 국대를 해보고 싶지 않겠나. 엄마 고생 덜어준다고 국가대표나 상비군 패스하고 빨리 프로 되는 게 목표였다”며 “아직 생일이 안지나서 프로턴을 못하는 선수들에게 세미(프로)를 미리주는 시합에서 5등 안에 들겠다는 마음 뿐이었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U2DYUCKRN5CRFJKGYB7EFN5WKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 박연수의 딸 송지아양./박연수 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박연수는 “KLPGA회장배를 위해 요즘 열심히 두 배 더 열심히 살고 있었는데 시합 일주일 남겨 놓고 참가를 못한다고 KLPGA에서 전날밤 전화를 줬다”며 “KLPGA 회장배 참가신청서는 한 달 전에 접수했는데 타 시합 스코어를 기재해야 해서 74타로 기재했는데 찾아봤더니 71타라서 못나간다 하신다”고 설명했다.&lt;br&gt;&lt;br&gt;이어 “고창시합과 스코어가 헷갈려서 더 많이 써서 냈다. 물론 100% 내 잘못 맞는다”면서도 “이 시합이 열 번 있는 것도 아니고 수정 할 수 있는 기회조차 주지 않고 바로 컷이라니 회사에 입사 서류 내놓고 면접도 못 본 건데 억울하다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “다른 협회들은 수정 할 수 있게 연락 준다. 스코어 확인 절차는 선수들이 자기 스코어 보다 적게 적어서 문제가 되기 때문인데 스코어를 더 많이 써서 시합에 못나간다니 어떻게 이런 일이 있나”며 “자격이 적합한지 부적합한지 미리 알려줘야 수정도 할 수 있지 않나. (주최 측에선) 수정할 수 있는 시간이 있었는데 왜 안했냐고 하는데 뭘 잘못 쓴지 모르고 있었는데 어떻게 수정을 하나”고 했다.&lt;br&gt;&lt;br&gt;박연수는 “간절했던 시합에 못나가는 지아 마음은 또 어떻게 해야 할지…바보 엄마라 진짜 미안하다”며 “제발 관행을 얘기 마시고 발전 있는 KLPGA가 되길 바란다. 누군가한테는 정말 간절할 수 있는 시합”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;한편 박연수는 2002 한일월드컵 4강 신화 주역인 송종국과 2006년 결혼해 슬하에 딸 지아양과 아들 지욱군을 뒀다. 이들 가족은 MBC ‘아빠 어디가’에 출연해 사랑을 받았다. 이후 2015년 송종국과 이혼한 박연수는 양육권을 가져와 아이들을 키우고 있다. 지아양은 프로 골프선수, 지욱군은 축구선수를 준비 중이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>미복귀 4년 차 소아과 전공의, 내년엔 돌아갈 곳 사라질 수도</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/07/17/2ZDQLYY5PBEJND67AL6SUXQIWA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/17/2ZDQLYY5PBEJND67AL6SUXQIWA/</guid>
@@ -906,15 +924,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T5GQHH6N76ABTWTOY6AHJ7DYMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;불법촬영 혐의를 받은 A씨의 모습. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지하철 역사에서 여자 친구와 통화하던 중 다른 여성의 신체를 불법 촬영한 남성이 현행범으로 체포되는 장면이 포착됐다.&lt;br&gt;&lt;br&gt;지난 14일 구독자 약 13만명을 보유한 유튜브 채널 ‘감빵인도자’에는 “남자친구의 불법촬영 소식을 듣고 달려온 여자친구. 과연 남자친구의 최후는?”이라는 제목의 영상이 게재됐다.&lt;br&gt;&lt;br&gt;영상에 따르면, 남성 A씨는 한 지하철 역사 내에서 여자친구와 통화를 하며 계단을 걸어 내려가고 있었다. A씨는 치마를 입은 한 여성이 개찰구를 나와 출구 쪽으로 향하는 것을 보고, 그 여성을 빠르게 뒤쫓았다. 여자친구에게 “잠깐만”이라고 말한 뒤 휴대전화를 조작한 A씨는 여성의 뒤를 따라 오르면서 불법촬영을 했다고 감빵인도자는 주장했다.&lt;br&gt;&lt;br&gt;그리곤 A씨는 계단을 올라가는 척 하다 다시 돌아 내려왔다고 한다. 감빵인도자는 A씨를 따라가 “휴대전화 확인 좀 하자”고 요구했다. A씨는 “왜 이러시냐”며 당황해하다가 “차라리 경찰을 부르라”고 했다. A씨는 통화를 끊지 않고 있다가 여자친구에게 “지하철역인데 자기 만나려고 잠깐 여기 왔거든? 나 산책하다가 화장실 들리고 계단 올라가고 있는데 이상한 사람이 (붙잡았다) 자기야, 잠깐만 와 줄래?”라고 했다.&lt;br&gt;&lt;br&gt;감빵인도자는 경찰에 즉시 전화를 걸어 이를 신고했다. 경찰을 기다리는 동안 A씨는 “그런 적 없다. 내가 왜 이런 취급을 받나” “억울하다”라며 범행 사실을 계속 부인했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4GQRNWAB33LR4WY42Q33IPATQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;잠시 뒤 경찰과 A씨의 여자친구가 차례로 도착했다. 경찰은 감빵인도자에게 “신고해주셔서 너무 감사드린다. (A씨는) 현행범 인수로 진행될 거고, 지하철 경찰대에서 전문 담당 수사관이 곧 도착할 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;수사관은 A씨의 휴대전화를 건네받아 살펴본 뒤 “어차피 (불법촬영) 영상이 확인돼서 방범카메라는 안 봐도 될 것 같다”며 “현행범으로 선생님(감빵인도자)이 잡으신 거 저희가 인수하겠다”고 했다. 감빵인도자는 자세한 상황을 묻는 A씨 여자친구에게도 자신이 목격한 범행 장면을 설명했다.&lt;br&gt;&lt;br&gt;이후 A씨는 혐의가 인정돼 검찰로 송치된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “통화하다가 잠깐만하고 찍는 게 정상이냐. 소름끼친다” “여자친구를 무슨 방패처럼 내세우냐” “어떻게 통화하다가 저런 짓을 하나” 등 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, 16년전 시흥 슈퍼마켓 강도살인 용의자 구속영장 신청</title>
-      <link>https://www.chosun.com/national/regional/2024/07/16/CYEBLUJWZZH33D4ULAFQ56UVOQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/16/CYEBLUJWZZH33D4ULAFQ56UVOQ/</guid>
-      <dc:creator>수원=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Jul 2024 23:45:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RB6O6THGUULO7GOUSH25J5K3HY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 시흥경찰서가 2017년 미제사건 수사에 착수하면서 배포한 강도살인 용의자 수배 전단. /시흥경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2008년 경기 시흥시에서 발생한 슈퍼마켓 점주 강도살인 사건의 유력 용의자에 대해 경찰이 구속영장을 신청했다. 이 용의자는 지난 14일 밤 경남 지역에서 긴급체포됐다.&lt;br&gt;&lt;br&gt;경기 시흥경찰서는 16일 강도살인 혐의로 40대 A씨에 대해 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;A씨는 16년 전인 2008년 12월 9일 오전 4시쯤 시흥시 정왕동의 한 슈퍼마켓에 침입해 점주 B(당시 40대) 씨를 흉기로 살해하고 금품을 빼앗아 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;당시 A씨는 검은 트레이닝을 입고 복면을 하고 침입했으며, 범행 장면은 매장 안 보안카메라(CCTV)에 포착됐다. 경찰은 A씨가 이보다 이틀 앞서 방문한 영상을 확보해 공개 수배했으나 신원 파악에 어려움을 겪으면서 장기 미제사건이 됐다.&lt;br&gt;&lt;br&gt;경찰은 2017년 장기미제사건 수사팀을 발족하면서 재수사를 벌였으며, 지난 2월 A씨에 대한 결정적 제보를 받고 본격 수사에 착수해 지난 14일 오후 8시쯤 A씨를 체포했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “구속영장을 신청한 것 외에 혐의 인정 여부 등에 대해선 아직 밝힐 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“손대면 톡 하고”...’봉선화 연정’ 부른 가수 현철 별세</title>
       <link>https://www.chosun.com/national/obituary-personnel/2024/07/16/UPICC45FBZBUTPGSR7M6D3TIWQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/07/16/UPICC45FBZBUTPGSR7M6D3TIWQ/</guid>
@@ -929,18 +938,6 @@
     photo@yna.co.kr/2024-07-16 03:04:52/
 &lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
         <media:credit role="author" scheme="urn:ebu">이태수</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>﻿홍대 미대 꿈꾸던 삼둥이 만세, 공모전 동상 받은 그림은</title>
-      <link>https://www.chosun.com/national/people/2024/07/16/PBSEVRZASFGPRBGIMU5SE2CKPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/07/16/PBSEVRZASFGPRBGIMU5SE2CKPM/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Jul 2024 22:26:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZSWZISKILJGHNFU7A6ZVIO42YE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 송일국의 아들 대한민국만세가 좋아하는 아이스크림을 선물받고 인증 사진을 찍었다. /디시인사이드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 송일국의 아들 만세가 그림 공모전에서 동상을 수상했다.&lt;br&gt;&lt;br&gt;한국건강관리협회(건협)는 지난 5월 31일 세계 금연의 날을 맞아 ‘제29회 전국 초등학생 금연 글짓기‧그림 공모전’ 입상자를 발표했다. 입상자 명단을 보면, 그림 부문 동상에 6학년 송만세의 이름이 올라와 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HVX3HVDBUVB4ZABJSAZK22NM5E.png"&gt;&lt;figcaption&gt;&lt;small&gt;제29회 전국 초등학생 금연 글짓기&amp;그림 공모전 동상 수상작. /한국건강관리협회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건협은 지난 11일 수상 작품집을 공개했다. 만세는 게임기를 손에 쥔 인물이 게임 속 화면을 보는 모습을 그렸다. 인물의 앞에는 담배꽁초와 담뱃갑이 놓여 있다. 게임 캐릭터가 담배를 택하게 되면, 결국 그 끝은 불구덩이다. 실제처럼 정교하게 표현한 그림 하단과 픽셀화해 단순하게 표현한 게임 화면과의 대비가 두드러진다. 그림에는 ‘정말 이 길로 가시겠습니까?’라는 문구가 적혔다.&lt;br&gt;&lt;br&gt;건협과 소년한국일보가 공동주최하고 교육부와 보건복지부가 후원한 이번 공모전에는 전국에서 1만1213편(글짓기 6620편‧그림 4593편)이 응모됐다. 부문별로 대상 1명, 금상 2명, 은상 5명, 동상 12명, 가작 20명, 장려상 50명, 입선 160명이 뽑혔다.&lt;br&gt;&lt;br&gt;만세의 수상 소식은 지난 10일 온라인 커뮤니티를 통해 알려졌다. 글쓴이 A씨는 “역대 최고 시청률을 보였던 송대디와 삼둥이가 나온 유퀴즈 방송을 본 팬이 대한민국만세가 너무나도 좋아한다는 아이스크림을 선물하고 싶다고 해서 도와드렸다”며 “인증사진을 보내와서 삼둥이의 허락을 받고 공개한다”고 했다. 지난 3일 방송된 tvN ‘유 퀴즈 온 더 블럭’에서 대한이는 “우리가 없었으면 아버지께서 더 많은 작품을 하셨을 거다. 얼마 전에도 민국이가 아이스크림 때문에 아버지에게 전화를 걸어 뮤지컬 연습 중 집에 빨리 오셨다”고 말했다.&lt;br&gt;&lt;br&gt;이 아이스크림을 선물 받은 대한민국만세는 사진 속에서 환하게 웃고 있다. 대한이와 민국이는 포장된 아이스크림을 들고 있지만, 만세는 한입 깨문 아이스크림을 손에 쥐고 있다. A씨는 “송일국과 식성도 똑같다는 만세는 ‘양치질을 아직 안 했다’면서 사진을 찍으며 한 개 먹고, 대한이랑 민국이는 ‘이미 양치질했다’면서 계속 보기만 했다는 뒷얘기가 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “살짝 만세의 소식을 하나 더 전하면, 공공기관과 메이저 신문사에서 주최했던 초등학생 금연 그림 공모전에서 우리 만세가 동상을 받았다는 소식이 있다”며 “우리 만세가 그림에 정말 진심이래”라고 전했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CHNE6Z4E55BX3AU25QQ2F43XRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 방송에서 공개된 만세의 최근 작품들. /tvN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만세는 ‘유퀴즈’를 통해 “저는 홍대 입학을 목표로 한다”며 미대 진학을 꿈꾸고 있다고 했다. 만세의 최근 작품들도 함께 공개됐었다. 그런 만세가 금연 그림 공모전에서 수상했다는 소식이 전해지자 댓글을 통해 축하가 쏟아졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/B3TOLZL6KBAERL3OTBKSU5MTMM.jpg?width=580&amp;height=326&amp;auth=446714eeba2eab6ddbc60081e9ee623b5423bebc5745784514de4c656a57de22&amp;smart=true" type="image/jpeg" height="326" width="580">
-        <media:description type="plain">배우 송일국의 아들 대한민국만세가 좋아하는 아이스크림을 선물받고 인증 사진을 찍었다. /디시인사이드 슈퍼맨이 돌아왔다 갤러리</media:description>
       </media:content>
     </item>
     <item>
