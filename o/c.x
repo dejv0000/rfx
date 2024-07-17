@@ -13,6 +13,130 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경주 토함산 등에 사방댐 건설키로</title>
+      <link>https://www.chosun.com/national/regional/2024/07/17/WQPXKGJPZZFOFNCLWBMW6HM4B4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/17/WQPXKGJPZZFOFNCLWBMW6HM4B4/</guid>
+      <dc:creator>경주=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Jul 2024 09:20:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TRKV633GRP36T752FFHT3FBEB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경주 황용동의 땅밀림이 진행중인 현장 모습, 산지의 급경사 지반이 내려앉고 있다.(녹색연합 제공)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경주 토함산 일대에 땅밀림 현상이 진행 중인 것과 관련해 경주시가 사방댐 건립 등 대책 마련에 나섰다.&lt;br&gt;&lt;br&gt;경주시는 땅밀림 현상이 진행 중인 문무대왕면 범곡리에 사방댐을 건립하기로 했다고 17일 밝혔다. 또 황용동 2곳에도 사방댐을 조성하기 위해 관계기관과 협의에 나섰다.&lt;br&gt;&lt;br&gt;이와 함께 땅밀림 현상이 진행 중인 지역에 감시카메라(CCTV)를 설치하고, 주민 대피 기준도 마련하기로 했다. 또 산사태 대책 상황실도 상시 운영해 위험 징후가 발견되면 신속하게 주민 대피가 이뤄질 수 있도록 할 방침이다.&lt;br&gt;&lt;br&gt;경주시 관계자는 “땅밀림 현상이 진행 중인 곳에 사방댐 건립을 추진하는 동시에 CCTV관찰 등을 통해 집중 호우 등 위험 시기에 주민피해가 생기지 않도록 할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;한편 산림청은 16일 경주시 황용동 2곳과 문무대왕면 1곳에 ‘땅밀림’ 현상이 발견됐다고 밝혔다. 땅밀림은 폭우가 내리면서 지하 암반층 위로 한꺼번에 많은 빗물이 쌓이고, 점토층이 서서히 미끄러지면서 산이 통째로 이동하는 현상으로, 산사태 보다 위험한 것으로 알려져 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 오늘밤 또 ‘호우 특보’... 중부 19일까지 200㎜ 퍼붓는다</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/07/17/3TAHNPQKZFA63KRGRBDEKR6QM4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/17/3TAHNPQKZFA63KRGRBDEKR6QM4/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Jul 2024 08:56:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J7IVYYCD3WVVWIT5TFPIZVD42Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울을 비롯한 수도권지역에 호우특보가 내려진 17일 서울 중구 청계천 산책로가 물에 잠겨있다. 2024.7.17/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울을 비롯한 수도권 전역에 호우예비특보가 발효됐다고 기상청이 17일 밝혔다. 장마전선(정체전선)이 17일 새벽~오전 수도권을 강타하면서 호우경보가 발령됐다가 비구름대가 북한 쪽으로 넘어가며 해제됐는데, 다시 호우특보가 내려지는 것이다. 서울의 호우특보는 17일 늦은 밤 발효될 것으로 예상된다.&lt;br&gt;&lt;br&gt;기상청에 따르면 수도권과 강원도는 17일에서 18일로 넘어가는 밤사이, 충청권은 18일 새벽부터 시간당 70㎜가 넘는 집중호우가 쏟아지겠다. 비는 19일까지 이어질 것으로 보인다. 수도권과 충청권에는 최대 200㎜ 이상의 비가 더 내릴 것으로 예상된다.&lt;br&gt;&lt;br&gt;현재 인천과 경기·강원도 일대에 호우특보가 발효됐다. 나머지 수도권 전역과 충북권 일대에는 호우예비특보가 내려진 상태다.&lt;br&gt;&lt;br&gt;수도권에는 앞으로 18일 오전까지 시간당 30~60㎜, 많게는 시간당 70㎜ 이상 비가 쏟아질 때가 있겠다. 강원도와 충청권에도 각각 17일 밤부터 18일 오전까지, 18일 새벽에서 오후까지 수도권과 비슷한 강도의 집중호우가 내리겠다.&lt;br&gt;&lt;br&gt;전북은 18일 새벽에서 오전까지 시간당 30㎜ 내외, 광주와 전남북부엔 같은 시간 시간당 20~30㎜씩 비가 오겠다. 경북내륙에는 18일 오전에서 오후까지 시간당 20~30㎜ 비가 내리겠다.&lt;br&gt;&lt;br&gt;18일과 19일 사이에도 곳곳에 집중호우가 내리겠다. 18일 늦은 오후부터 19일 새벽까지 서울과 경기남부에 시간당 30~60㎜, 같은 시간 경기북부에 시간당 30㎜ 내외 호우가 올 것으로 예상된다. 강원도와 충청권엔 18일 밤에서 19일 새벽까지 시간당 30~60㎜씩 비가 내리겠다. 광주·전남·전북권과 대구·경북권엔 19일 새벽과 오전 사이 각각 시간당 30~50㎜와 30㎜의 비가 내리겠다.&lt;br&gt;&lt;br&gt;19일엔 경우 충청권과 남부지방에 강수가 집중되고, 수도권과 강원내륙·산지는 소강상태가 이어지는 가운데 가끔 비가 내리겠다.&lt;br&gt;&lt;br&gt;앞으로 19일까지 더 내릴 비의 양은 충청권 80~200㎜, 수도권 50~200㎜, 강원도 50~180㎜, 호남권과 경북북부 30~150㎜, 대구와 경북남부 30~80㎜, 부산·울산·경남권 20~60㎜, 제주 5~40㎜ 등이다.&lt;br&gt;&lt;br&gt;기상청은 지난 5월 올여름(6~8월) 강우량이 예년보다 많이 내릴 것으로 예상했다. 제주에서 장마가 시작한 지난달 19일부터 이달 16일까지 전국 평균 누적 강수량은 342.5㎜로, 평년(1990~2020년·30년 평균) 같은 기간 강수량(243.5㎜)을 이미 훌쩍 넘었다. 현재까지 누적 강우량만으로 1973년 이후 52년 사이 상위 7위에 해당할 정도로 많은 비가 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 ‘구덕운동장 복합개발’ 속도 붙는다 </title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/07/17/2G24KOBQCVF6NGG2267RIDNAQY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/07/17/2G24KOBQCVF6NGG2267RIDNAQY/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Jul 2024 08:52:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GKSWDFICFFGDVMDLG4YRZ7Q6TM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 서구 서대신동 구덕운동장 전경./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시의회 의견청취 절차를 마침에 따라 부산 서구 구덕운동장 도시재생혁신지구 조성에 속도가 붙게 됐다. 다만 시의회가 “시민 의견에 대한 충분한 검토 과정을 거친 개발계획안을 마련하라”는 등 조건부 추진 의견을 내 사업 계획은 당초와 달라질 것으로 전망된다.&lt;br&gt;&lt;br&gt;부산시는 “시의회 건설교통위원회가 ‘구덕운동장 일원 도시재생혁신지구 계획에 대한 의견청취’ 재심의에서 조건부 추진 승인을 함에 따라 다양한 의견수렴 방안을 마련, 이 사업을 추진한다”고 17일 밝혔다.&lt;br&gt;&lt;br&gt;‘구덕운동장 도시재생혁신지구 조성’은 서구 서대신동 3·4동과 동대신동 3동 등 현 구덕운동장 일대 1만1577㎡ 부지에 1만5000석 규모 축구전용 구장과 문화·생활체육시설, 상업·업무시설, 주상복합시설, 실버복합 문화공간 등으로 이뤄진 ‘스포티플렉스’(Sports+Multiplex)를 건립하고 내부 보행 생활가로를 재정비하는 것 등을 내용으로 하고 있다.&lt;br&gt;&lt;br&gt;이중 축구장은 관람석 1만5000석 규모로 현재 1만2349석보다 더 키우고 내부 육상트랙을 없애 축구 관람을 보다 가까이서 박진감있게 즐길 수 있는 전용구장으로 조성된다. 또 시설을 현대식으로 해 K팝 공연·e스포트 경기 등 다용도로 활용할 수 있게 할 계획이다.&lt;br&gt;&lt;br&gt;현재는 없지만 새로 들어서는 문화시설엔 북카페·키즈카페·도서관·스터디룸·컬처 라운지 등 시민들이 일상 속에서 여가를 즐길 수 있는 공간들이 설치된다. 지식산업·스포츠융복합 스타트업이나 기업들이 입주하는 업무시설을 둬 산업과도 연계시킨다는 게 시의 구상이다. 대형 마트와 850가구의 아파트·70실의 오피스텔 등도 지어진다.&lt;br&gt;&lt;br&gt;부산시 이오순 체육진흥과장은 “수영장·테니스장·풋살장·실내게이트볼장 등 기존 야외에 있던 체육시설을 모두 실내로 들여 날씨와 상관없이 즐길 수 있도록 하고 외곽 여유부지를 활용해 조깅트랙·실외 체육공간·휴식공간 등을 조성할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;시는 이 사업 내용으로 국토부 ‘도시재생 국가시범지구’ 지정 공모에 신청했다. 부산이 공모에 당선될 경우 국비·시비 각 250억원과 주택도시보증공사(HUG) 자금 등 8000억원가량을 투입, 내년 착공에 들어가 2028년 완공하겠다는 계획이다. &lt;br&gt;&lt;br&gt;시 측은 “아파트 건립은 막대한 투입자금을 다 부담할 수 없는 시의 재정여건과 서구 지역 활성화 필요성 등을 따져보고 결정한 합리적이고 현실적인 대안”이라며 “때문에 국·시비와 저금리 공공자금 등을 투입한 공동주도형 복합개발을 하기로 한 것”이라고 말했다. &lt;br&gt;&lt;br&gt;구덕운동장은 1928년 9월 부산공설운동장으로 시작, 차차 축구장·야구장·실내체육관·수영장 등을 갖췄고 1985년 사직운동장이 건립되기 전까지 시민종합운동장으로 역할을 했다. 그러다 2017~2018년 재개발사업으로 야구장·실내체육관을 철거하고 그 자리에 테니스장·풋살장·게이트볼장·농구장 등으로 이뤄진 체육공원이 만들어졌다.&lt;br&gt;&lt;br&gt;그러나 1978년 지어진 주경기장(축구장)은 그대로 남아 프로축구 아이파크, 실업축구 부산교통공사의 홈구장으로 사용돼 왔으나 낢고 협소하고 시설 수준이 요즘 트렌드에 뒤떨어져 새로 지어야 한다는 주장이 지속적으로 제기돼 왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L2HG7HZP4RC2LHUHSXNFSDMYNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 서구 서대신동 구덕운동장 복합개발 시설계획./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구덕운동장이 위치한 서구 또한 부산 법조타운이 자리하고 경남중·고, 부산여중·고 등 명문고들이 즐비한 부산의 중심지에서 갈수록 인구가 줄고 지역 경제도 쇠락하는 곳으로 바뀌었다. 서구의 인구는 2003년 14만4305명에서 2023년 10만4089명으로 거의 3분의 1 가량이 줄었고, 합계출산율도 2003년 0.903명에서 2023년 0.57명으로 뚝 떨어졌다.&lt;br&gt;&lt;br&gt;또 지난 6월 말 한국고용정보원이 발표한 전국 시·군·구의 소멸위험지수에 따르면 서구는 소멸위험 진입단계인 0.38로 전국 4번째로 높았다. 공한수 서구청장은 “지금 이대로 두면 서구는 소멸해갈 것”이라며 “구덕운동장 복합개발은 이런 몰락, 추락을 막을 수 있는 기폭제”라고 말했다.&lt;br&gt;&lt;br&gt;공 구청장은 “우선 8000억원이란 엄청난 돈이 풀리고, 완공 후엔 프로축구 뿐만 아니라 K-팝·E-스포츠 등을 위한 문화공간으로 활용될 축구장, 지식 및 스포츠융복합 기업 센터, 쇼핑몰 등으로 지역에 큰 활기를 불어넣을 것”이라며 “새로운 구덕운동장은 쪼그라드는 서구가 확장하는 서구로 바뀌는 모멘텀을 줄 앵커시설”이라고 말했다.&lt;br&gt;&lt;br&gt;부산시 심재민 문화체육국장은 “향후 주민 밀착 설명회와 간담회 등을 통해 주민과 시민의 의견을 수렴하고 반영해 이 혁신지구의 세부 내용에 대한 구체적인 계획을 짜고 실행하는 방식으로 사업을 추진할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;그러나 이를 반대하는 주민들은 ‘구덕운동장 아파트 건립 반대 주민협의회’는 를 구성, “부산시는 노후화된 구덕운동장 재개발을 명목으로 서구 도심의 유일한 공원에 아파트를 건설하려는 계획을 철회하라”며 “도시재생 등 각 분야 전문가들이 모이고 시민 누구나 참여할 수 있는 공론화의 장을 마련해 충분한 숙의 과정을 거쳐야 한다”고 반발하고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>축협 고위인사, 문체부 조사에 “정치 압박받으면 월드컵 못 나갈 수도…”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/17/L667ABW2YVEF7FO56HYB7WN24M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/17/L667ABW2YVEF7FO56HYB7WN24M/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Jul 2024 08:59:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XFG5YTBGJVPHBEN6ZFLR4RJKFU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 신문로에 위치한 축구회관 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한축구협회 고위 관계자는 문화체육관광부가 잡음이 일고 있는 축구대표팀 감독 선임 과정을 직접 조사하겠다고 밝힌 것에 대해 “국제축구연맹(FIFA)의 제재를 받을 수 있다”고 우려했다.&lt;br&gt;&lt;br&gt;이 관계자는 17일 뉴스1과의 익명 인터뷰에서 “문체부가 대표팀 감독 선임 절차 등에 대해 조사한다고 해서 당황스럽다”며 “아직 문체부 쪽에서 구체적인 내용이 전달된 것은 없다. 앞으로 조사가 들어오면 협조하고 따르겠다”고 했다.&lt;br&gt;&lt;br&gt;그러나 이 관계자는 “계속 정치적으로 압박을 받으면 FIFA의 제재를 받을 수 있다”며 “최악의 경우엔 (협회 자격 정지로 국제대회 출전권을 뺏겨) 월드컵 본선에 못 나갈 수 있다”고 했다.&lt;br&gt;&lt;br&gt;FIFA의 정관에는 회원 협회는 정치적 간섭으로부터 독립적이어야 한다고 명시돼 있는데 문체부 조사가 자칫 이 규정을 어기는 것이 될 수 있다는 것이다.&lt;br&gt;&lt;br&gt;일례로 2015년 쿠웨이트 정부가 자국 체육단체의 행정에 개입할 수 있도록 체육 관련 법률을 개정하자 FIFA는 쿠웨이트축구협회의 자격을 정지해 국제대회 출전권을 회수해갔다.&lt;br&gt;&lt;br&gt;이 관계자는 축구대표팀 감독 선임 과정에 대한 비판여론에는 “(절차상 큰 문제가 없는데) 시간이 지나면 모든 것이 다 밝혀지지 않겠나”라고 했다.&lt;br&gt;&lt;br&gt;한편 축구협회는 위르겐 클린스만 전 감독과 결별한 뒤 5개월간 새 감독을 물색하다가 지난 7일 프로축구 울산 HD 홍명보 감독을 대표팀 사령탑으로 선임했다. 이 과정에서 다수의 외국인 감독이 한국 축구 대표팀 사령탑 자리를 원했음에도 뚜렷한 이유 없이 홍명보 감독에게 지휘봉을 맡겼다는 이유로 비판 여론에 시달렸다.&lt;br&gt;&lt;br&gt;축구 국가대표 감독을 뽑는 대한축구협회 전력강화위원회에 위원으로 참여했던 전 축구 국가대표 박주호는 홍명보 감독 선임 과정에 문제가 있었다고 폭로하기도 했다. 이후 이영표, 박지성, 이동국, 이천수 등 홍명보 감독과 함께 선수 생활을 했던 축구계 인사들도 공개비판에 나섰다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국회 앞에 농기계 반입하다 경찰과 충돌…전농 간부 구속</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/06/ZLGHIT4UNJBS3K5N5YK2LXI5HY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/06/ZLGHIT4UNJBS3K5N5YK2LXI5HY/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Jul 2024 13:52:38 +0000</pubDate>
+      <content:encoded>지난 4일 오후 서울 여의도 국회의사당 앞에서 열린 ‘7·4 전국농민대회’ 당시 농기계를 실은 차량을 몰고 가려다 이를 막는 경찰과 충돌한 전농(전국농민회총연맹) 간부가 구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFONHGW3DJIHJGJ3TGRVUZRDXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 오후 경부고속도로 양재IC 인근에 전국농민대회 참가자들이 두고 간 농기계가 놓여있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 “전국농민회총연맹 부산경남연맹 김재영 사무국장을 특수공무집행방해 혐의로 구속했다”고 6일 밝혔다.&lt;br&gt;&lt;br&gt;김씨는 지난 4일 오후 3시 30분쯤 국회 앞에서 열린 7·4 전국농민대회 당시 농기계(트랙터)를 실은 차량을 몰고 가려다 이를 막는 경찰과 충돌을 빚어 특수공무 집행방해 혐의로 현행범 체포됐다. 일부 경찰은 연행 과정에서 부상을 입기도 했다.&lt;br&gt;&lt;br&gt;전농은 “김씨가 경찰의 연행 과정 중 부상을 입어 의식을 잃었지만 병원에서 간단한 치료만 받고 바로 경찰서로 이동했다”며 “제대로 된 치료를 받지 못했다”고 주장했다.&lt;br&gt;&lt;br&gt;전농 등 8개 농민단체들은 이날 정부의 수입 농산물 확대 정책 등을 규탄하기 위해 집회를 열었다. 이들은 “기후재난이 낳은 농업재해가 사시사철 반복돼 농민들은 삶과 죽음의 경계에 이르렀다”며 “정부의 수입 농산물 확대 등을 규탄한다”고 했다.&lt;br&gt;&lt;br&gt;시위 참여자 일부는 행진 중 양파를 흩뿌리거나, 서울 시내 진입을 제지 당한 트랙터와 이양기 등을 경부고속도로 양재IC 인근에 두고 가기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HFONHGW3DJIHJGJ3TGRVUZRDXI.jpg?width=5610&amp;height=3348&amp;auth=c89f06b5f82ee63006ad76b2b1a9b9578a057cb342dc305ec7bbd0f0158b1a66&amp;smart=true" type="image/jpeg" height="3348" width="5610">
+        <media:description type="plain">&lt;YONHAP PHOTO-3885&gt; 경부고속도로에 남겨진 농기계
+    (서울=연합뉴스) 한상균 기자 = 4일 오후 경부고속도로 양재IC 인근에 전국농민대회 참가자들이 두고 간 농기계가 놓여있다. 이날 농민단체들은 서울 여의도에서 정부의 정책을 규탄하는 집회를 개최했다. 2024.7.4
+    xyz@yna.co.kr/2024-07-04 16:35:51/
+&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">한상균</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>승진대가로 금품 주고받아...경찰서장 등 전·현직 경찰 구속</title>
+      <link>https://www.chosun.com/national/regional/2024/07/17/OKWKIGAVKVFGDDKW74K7ZB3QJM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/17/OKWKIGAVKVFGDDKW74K7ZB3QJM/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Jul 2024 08:51:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UVDRG6CEGFJXJF2IZIK66ZHWDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;승진 등을 대가로 금품을 주고받은 혐의를 받는 전·현직 경찰관 2명이 구속됐다.&lt;br&gt;&lt;br&gt;대구지방법원 정석원 영장 전담 부장판사는 17일 뇌물수수·공여 혐의를 받는 전직 총경 A씨와 현직 경감 B씨에 대한 구속 전 피의자 심문(영장실질심사) 후 “증거 인멸 우려가 있다”며 검찰이 청구한 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;검찰 등에 따르면, A 전 총경은 대구 한 경찰서장으로 재직하던 2020년 승진을 대가로 부하 직원이던 B씨로부터 현금 1000여만 원을 받았다가 애초 약속한 승진 인사가 이뤄지지 않자 돈을 돌려준 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;하지만 A씨 등은 “인사청탁을 하면서 은행 계좌로 돈을 주고받겠느냐”는 등 입장을 밝히며 혐의를 부인해 온 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편 검찰은 이들을 수사하는 과정에서 또 다른 경찰 내부 인사 비리 정황을 추가로 포착해 대구경찰청과 경북경찰청 2곳의 최근 3년 치 인사 자료를 확보해 분석하는 등 수사를 확대하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“성매매로 돈 벌어와”... 여중생이 가출 여고생 협박·폭행</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/17/G642W7NYMJECFDHTMAFM62QJRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/17/G642W7NYMJECFDHTMAFM62QJRQ/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Jul 2024 08:42:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가출한 여고생을 모텔로 끌고 가 성매매를 강요하고 거부하자 폭행한 여중생이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;17일 경찰 등에 따르면, 전북 익산경찰서는 폭행과 성매매처벌법 위반 혐의로 A(15)양을 조사 중이다.&lt;br&gt;&lt;br&gt;A양은 지난 10일 익산시 인화동의 한 모텔에서 여고생 B양에게 성매매를 강요하고, 거부하는 B양을 주먹으로 때리거나 헤어 드라이어를 이용해 학대한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;전남 목포에 사는 B양은 가족과 다투고선 가출했다가 A양을 우연히 만났다. 그 뒤 A양은 ‘여행을 가자’고 B양을 꼬드겨 익산으로 데리고 간 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이후 여행 경비가 떨어지자 A양은 B양에게 성매매로 돈을 벌어오라고 협박했다고 한다. A양은 B양이 거부하자 그의 옷을 벗기고 때렸다.&lt;br&gt;&lt;br&gt;이 과정에서 A양은 지인에게 영상 통화를 걸어 폭행 장면을 생중계했다. 영상을 본 A양 지인이 B양 가족들에게 이 같은 상황을 알렸고, A양은 신고를 받고 출동한 경찰에 긴급체포됐다.&lt;br&gt;&lt;br&gt;경찰은 A양에 대해 구속영장을 신청했으나 법원은 ‘소년범이라는 특수성을 고려해야 한다’며 기각했다. A양은 현재 인근 청소년쉼터에 머물고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “해당 사안을 추가 수사 중인 데다가 2차 피해 등이 우려돼 자세한 내용을 밝히기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“군대 갔다 오니 연락두절”… 8년째 사라진 친누나 찾는 아이돌</title>
+      <link>https://www.chosun.com/national/people/2024/07/17/2FSB53XA5NHPNMM37RXP254BP4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/07/17/2FSB53XA5NHPNMM37RXP254BP4/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Jul 2024 08:17:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFNYUGJP2JDNTFRYOIKXJIOCBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜브 채널 '특종세상 - 그때 그 사람'에서 김태헌이 사라진 친누나를 언급하며 눈물을 보이고 있다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 ‘제국의 아이들’ 출신 김태헌(35)이 사라진 누나를 8년째 찾고 있다는 사연이 전해져 눈길을 끌고 있다.&lt;br&gt;&lt;br&gt;김태헌의 안타까운 가정사는 지난 11일 방송된 MBN 시사·교양 프로그램 ‘특종세상’을 통해 공개됐다. 그는 8살 때 아버지를 여의고 7년 후 어머니마저 유방암으로 세상을 떠났다. 부모님을 모두 잃고 남은 가족은 하나뿐인 누나였지만 2016년부터 연락이 닿지 않는다는 사연이었다.&lt;br&gt;&lt;br&gt;김태헌은 당시 방송에서 “갑자기 누나와 연락이 두절됐다. 제가 군대에 있을 때 누나가 무슨 일이 생겼다고 해서 휴가 내고 만나러 간 적 있었다”며 “그리고 나서 전역했는데 그 뒤로 지금까지 누나와 연락이 아예 안 된다”고 했다.&lt;br&gt;&lt;br&gt;누나가 사라진 시점은 누나가 운영하던 가게가 폐업한 이후였다. 김태헌이 데뷔 후 정산받은 돈으로 아버지가 남긴 빚을 청산한 뒤 남은 돈으로 차려준 가게였다. 김태헌은 “돈 때문일 것 같다는 생각이 든다. 가게가 망한 뒤 연락이 끊겼고 그게 벌써 8년 전”이라며 누나가 죄책감 탓에 잠적한 것 같다고 추측했다.&lt;br&gt;&lt;br&gt;김태헌은 불과 1년 전까지만 해도 지독한 생활고에 시달렸다고 한다. 최근에야 원룸살이를 시작하고 서울 한 식당에서 근무 중이다. 그런 그가 수입이 생기자마자 시작한 일도 누나 찾기였다. 경찰에 도움을 청하기도 했지만, 개인정보 보호 의무에 따라 알려줄 수 없다는 답변을 받았다. 첫 실종신고 당시 누나가 ‘가족과 만나고 싶지 않다’는 의사를 전했기 때문이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WPDC5HG27VGRHEKZWMQ5JWZWU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜브 채널 '특종세상 - 그때 그 사람'에서 김태헌이 친누나의 친구에게 전화를 걸어 누나의 소식을 묻고 있는 모습. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김태헌은 “돈보다 누나가 더 중요하다. 돈을 잃는 건 아무것도 아니다. 돈은 다시 벌면 된다. 이제는 숨바꼭질 그만했으면 좋겠다”며 “저도 4년 후면 마흔이다. 가족 하나 없이 마흔을 맞이하는 게 무섭다. 돈이나 명예보다는 가족이 옆에 있으면 좋겠다. 누나가 보고 싶다”고 했다.&lt;br&gt;&lt;br&gt;또 “내년에 솔로 앨범을 내려 한다”며 “연예인이라는 직업을 포기할 수도 있지만 그러지 못하는 건 누나를 찾기 위한 것도 있다”고 고백했다. 방송 말미에는 누나를 향해 “혹여나 이 영상을 본다면 바로 연락 줬으면 좋겠어. 제발 나를 꼭 찾아와 줘”라고 말하며 눈물을 보이기도 했다.&lt;br&gt;&lt;br&gt;김태헌은 2010년 아이돌 그룹 ‘제국의 아이들’ 메인 래퍼로 데뷔했다. 전속 계약 만료로 그룹 활동을 마무리하고는 생활고를 겪었고 물류센터 아르바이트 등으로 생계를 이어간다는 소식이 전해지기도 했다. 과거 연예계 활동 시절 팬들 사이에서는 선한 인성으로 유명했다고 한다.&lt;br&gt;&lt;br&gt;이번 방송을 통해 공개된 근황은 일부 장면을 캡처한 이미지가 여러 온라인 커뮤니티로 퍼지며 널리 알려지고 있다. 안타까운 사정에도 밝고 성실하게 생계를 꾸려나가는 모습에 네티즌들은 “다른 방송에서도 자주 봤으면 좋겠다” “예능에서 이분 좀 섭외해 달라” 등의 응원 메시지를 보내고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>남태평양 피지서 ‘타작마당’...교회 목사 ‘징역 6년’</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/17/MUXCG47KGBGONPD7FHCFRBXRHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/17/MUXCG47KGBGONPD7FHCFRBXRHM/</guid>
+      <dc:creator>안양=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Jul 2024 08:21:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/24EUKQTT72QFBFN6VSTVDMNHOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지검 안양지청 전경.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;남태평양 섬나라인 피지 현지에서 교회 신도들을 서로 폭행하게 하는 등의 혐의로 재판에 넘겨진 경기 과천 은혜로교회 목사 등이 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;17일 법조계에 따르면 수원지법 안양지원 1심 재판부는 지난 10일 과천 은혜로교회 설립자이자 목사인 신모씨와 관계자 등 7명에 대한 아동복지법 위반(아동학대) 등 사건과 관련, 신씨에게 징역 6년을 선고했다. 또 공범인 나머지 피고인들에게는 각각 징역 1년에 3년간 집행유예, 징역 3년 6월 등의 징역형을 선고했다. 앞서 검찰은 징역 10년을 구형했다.&lt;br&gt;&lt;br&gt;검찰에 따르면 신씨 등은 지난 2014년 말부터 과천 은혜로교회 교인들을 남태평양 피지로 이주시키고, 2015년 1월부터 2018년 4월까지 현지 교회시설에서 여러 차례에 걸쳐 미성년자를 포함한 25명의 신도들을 폭행하거나 신도 간 폭행을 지시한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 귀신을 쫓는 종교의식을 명목으로 범행한 것으로 조사됐다. 이들은 이 의식을 ‘타작마당’이라 불렀다고 한다. 타작마당은 곡식을 타작해 쭉정이를 골라내듯 ‘사람의 신체와 정신을 때려 사람의 몸에서 귀신을 떠나가게 한다’는 취지의 의식으로, 손바닥 등으로 죄를 고백한 신도의 얼굴 등을 때리는 행위라고 검찰은 설명했다.&lt;br&gt;&lt;br&gt;신씨는 ‘타작마당’과 관련한 공동상해, 특수폭행, 특수감금, 아동학대 등의 혐의로 2019년 11월 징역 7년을 선고받고 2020년 2월 대법원에서 판결이 확정됐다. 그는 다른 피해자들에 대한 추가 범죄사실로 2019년 7월 기소됐다.&lt;br&gt;&lt;br&gt;검찰은 1심 판결에 불복, 지난 16일 법원에 항소장을 냈다. 이 사건을 수사한 수원지검 안양지청 형사3부(부장 김희영)는 “피고인들이 25명에 달하는 피해자들에게 장기간 트라우마를 발생시킬 수 있는 신체적·정신적 고통을 초래해 사안이 중대한 점, 피해자들이 피고인들에 대한 엄벌을 탄원하는 점, 피고인 신씨가 수감 중임에도 서신으로 은혜로교회 신도들에게 영향을 미치는 등 여전히 활동하고 있어 재범의 위험성이 매우 높은 점 등을 고려해 더 중한 형의 선고를 구하기 위해 항소했다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>성인방송 출연 등 아내 협박한 전직 군인 징역 3년…檢, “형량 낮다” 항소</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/17/QLD2ZW6DMJBEDP47CRQUEQMVC4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/17/QLD2ZW6DMJBEDP47CRQUEQMVC4/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Jul 2024 08:32:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XXBJE6BZWFB4RYQ23B4SC3A4EI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;성인방송 출연 아내 협박한 전직 군인 A씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아내에게 성관계 영상 촬영과 성인방송 출연 등을 강요한 혐의로 재판에 넘겨진 전직 군인에게 징역 3년이 선고되자 검찰이 항소했다.&lt;br&gt;&lt;br&gt;인천지검 공판송무2부(부장 장진성)는 최근 강요·감금·협박 등의 혐의로 기소된 A(37)씨에 대해 징역 3년을 선고한 1심 판결에 불복해 법원에 항소장을 제출했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 “피해자와 불화가 생기자 지속적으로 피해자를 감금하거나 사생활을 공개하겠다고 협박하는 등 범행 동기와 내용이 매우 불량하다”며 “피해자가 스스로 목숨을 끊어 유가족들이 극심한 정신적 고통을 겪고 있는 점을 고려할 때 피고인을 더욱 엄벌할 필요가 있다”며 항소 배경을 설명했다.&lt;br&gt;&lt;br&gt;검찰은 앞서 A씨의 결심 공판에서 징역 7년을 구형했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2021년부터 지난해까지 아내 B씨를 집에 감금하고, 성관계 영상 촬영과 성인방송 출연 등을 강요한 혐의 등으로 구속기소 됐다. A씨는 이를 거부하는 B씨에게 “나체 사진을 장인어른에게 보내겠다”고 협박하기도 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;B씨는 지난해 초 피해를 호소하는 내용의 유서를 남기고 숨졌다.&lt;br&gt;&lt;br&gt;군인이었던 A씨는 지난 2011년 불법 음란물을 온라인에 공유했다가 강제 전역한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>환경부 “北황강댐 방류 예의주시…국내 홍수조절량 53억t 확보”</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/07/17/3EZPBVTKJVHHVETPHFPDO34QIU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/17/3EZPBVTKJVHHVETPHFPDO34QIU/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Jul 2024 08:27:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MOY4MOZ6X5OMDFTOWAWFFTDNKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한화진 환경부 장관이 17일 서울 서초구 한강홍수통제소에서 영상회의를 통해 관계기관과 홍수예보 및 강우대처 상황점검회의를 주재하고 있다. /환경부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 새벽 장마전선(정체전선)이 우리나라 수도권과 중부지방을 강타한 후 오후부터 북한 쪽으로 북상한 가운데, 환경부가 북한에서 사전 통보 없이 무단 방류할 가능성이 있는 임진강 황강댐을 모니터링 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;환경부는 이날 오후 서울 서초구 한강홍수통제소에서 한화진 장관 주재로 집중호우에 따른 관계기관 긴급 상황 점검 회의를 열고 이같이 밝혔다.&lt;br&gt;&lt;br&gt;17일 새벽 형성된 장마전선은 경기북부와 수도권에 많은 비를 뿌린 뒤, 서해상에서 들어온 저기압에 의해 이날 오후 북한 쪽으로 올라갔다. 황해도 등 북측 접경지역에 100㎜가 넘는 비가 내렸을 것으로 예상되고 있다.&lt;br&gt;&lt;br&gt;북한은 2013년까지만 황강댐 방류 전 사전에 통보했고 이후에는 우리 정부의 요구에도 통보 없이 방류해왔다. 지난 9일에도 사전 통보 없이 황강댐에서 물을 방류한 바 있다. 남측 임진강 상류에 군남댐이 준공(2011년 6월)되기 전인 2009년 북한이 임진강 상류 황강댐을 무단으로 방류하면서 우리나라에서 인명사고가 발생한 바 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SBOCWUICM77QGM5FCZLGLGAHYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임진강 최북단 필승교 수위가 급상승해 경기도 연천군 군남댐이 물을 쏟아내는 모습. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;환경부는 남측 임진강의 최상류에 있는 필승교 수위가 이날 오전 0.5ｍ 안팎에서 오후 3시 30분 기준 1.23ｍ로 상승했지만, 위성영상 등을 토대로 분석했을 때 북한이 임진강 상류 황강댐 수문을 열고 물을 내보내는 상황은 아닌 것으로 판단된다고 밝혔다.&lt;br&gt;&lt;br&gt;한편 환경부는 전국 다목적 댐 20곳에 지난 16일 기준 약 53억t의 홍수조절용량이 확보된 상태라고 설명했다. 환경부는 “댐에 물을 최대한 저장해 하천 수위 상승을 최소화하도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한동훈 자택 앞 흉기 둔 40대 男, 2심도 징역 1년…스토킹은 무죄</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/17/M2H3FLSPCJAPZN5QV4ZBZWL3WI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/17/M2H3FLSPCJAPZN5QV4ZBZWL3WI/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Jul 2024 08:23:48 +0000</pubDate>
+      <content:encoded>한동훈 국민의힘 대표 후보가 법무부 장관이던 시절 한 후보의 집 앞에 흉기를 두고 간 혐의로 구속기소된 40대 남성에게 2심도 실형을 선고했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5CNNHTDZNW2MYXUW24OWE6HFBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한동훈 법무부 장관의 집 앞에 흉기를 두고 간 혐의를 받는 홍모씨가 작년 16일 오후 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자심문(영장실질심사)을 마친 후 법정을 나서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사14-2부(재판장 오영상)는 특수협박·스토킹처벌법 위반 등 혐의로 기소된 홍모(43)씨에게 1심과 같이 징역 1년을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “원심은 국가 고위공무원을 상대로 한 범행이 죄질이 불량해 비난 가능성이 높은 점, 범행 수법이 불량한 점, 사실관계를 대체로 인정하는 점, 심신미약이 있던 점 등을 고려해 선고했고 이는 적정한 것으로 판단된다”고 했다.&lt;br&gt;&lt;br&gt;1심에서 무죄로 판단한 스토킹처벌법 위반 혐의에 대해선 “피고인은 피해자와 일면식이 없고 연락하거나 접촉한 적도 없으며, 두 차례 사전 답사에서는 자정 시간 이후에 방문해 피해자와 마주치거나 피고인이 이 행위를 인식하기 어려운 시간대”라며 “불안감과 공포심을 일으켰다고 보기 어렵다”며 무죄로 판단했다. &lt;br&gt;&lt;br&gt;홍씨는 작년 10월 11일 새벽 3시쯤, 서울 강남구에 있는 한 후보의 자택 현관 앞에 흉기와 점화용 라이터 등을 두고 간 혐의로 구속기소됐다. 범행 당일은 한 후보가 법무장관 자격으로 국회 법제사법위원회의 법무부 국정감사에 출석한 날이었다.&lt;br&gt;&lt;br&gt;앞서 지난 3월 1심 재판부도 홍씨에게 징역 1년을 선고했다. 1심은 “피고인은 두 차례나 주거지를 답사하는 등 계획적으로 범행을 저질렀고, 특수주거침입이 야간에 이뤄졌다”며 “피해자의 아파트 현관문 앞에 흉기를 두고 나온 것은 상대방으로 하여금 불행한 사태를 구체적으로 고지한 것에 해당하고 이는 공포심 일으키기에 충분하다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“족적 99.9% 일치”…영월 영농조합 간부 살인사건 피의자 20년 만에 구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/17/FPE6YUDDMZGI5CA4UVHIDBGFQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/17/FPE6YUDDMZGI5CA4UVHIDBGFQ4/</guid>
+      <dc:creator>영월=정성원 기자</dc:creator>
+      <description>지난 2004년 강원도 영월에서 발생한 살인 사건의 피의자가 20년 만에 법정에 서게 됐다.춘천지검 영월지청(지청장 김현우)은 살인 혐의로 A(59·당시 39세)씨를 구속 기소했다고 17일 밝혔다.</description>
+      <pubDate>Wed, 17 Jul 2024 08:22:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OOGAG4RWTNKULCJN6QSHKZAWP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20년 전 강원 영월에서 발생한 이른바 '영월 농민회 간부 살인사건'의 피의자 A(59·당시 39세)씨가 지난달 28일 영장실질심사에 앞서 춘천지검 영월지청 현관에서 취재진을 향해 입장을 밝히고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2004년 강원도 영월에서 발생한 살인 사건의 피의자가 20년 만에 법정에 서게 됐다.&lt;br&gt;&lt;br&gt;춘천지검 영월지청(지청장 김현우)은 살인 혐의로 A(59·당시 39세)씨를 구속 기소했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2004년 8월 9일 오후 강원 영월군 영월읍 한 영농조합 사무실에서 영농조합 간부 B(당시 41세)씨를 흉기 등으로 수차례 찔러 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 사건 직후 범인 검거를 위해 수사를 벌였으나, 결정적 증거를 찾지 못했고 사건은 장기 미제로 남았었다.&lt;br&gt;&lt;br&gt;그러던 중 지난 2020년 6월 경찰은 국립과학수사연구원으로부터 당시 사건 현장의 족적과 유력 용의자였던 A씨의 족적이 99.9% 일치한다는 의견을 전달받았고, 같은 해 11월 A씨를 검찰에 송치했다.&lt;br&gt;&lt;br&gt;검찰 수사 결과 A씨는 교제하던 여성이 B씨와 사귀게 되자 B씨에 대한 각종 정보를 수집해 사전에 범행을 계획한 것으로 드러났다.&lt;br&gt;&lt;br&gt;또 수사 초기 용의 선상에 올랐던 A씨는 사건 발생 시각에 영월의 한 계곡에서 가족 등과 휴가를 보내고 있었다고 알리바이를 대며 용의 선상에서 제외된 바 있으나, 검찰은 계곡에서 물놀이 중 A씨가 술을 사오겠다고 자연스럽게 계곡을 나온 뒤 차량을 운전해 30여분 거리에 있는 B씨의 사무실로 이동, B씨를 살해하고 다시 계곡으로 복귀했다는 결론을 내놨다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “피해자 유족에 대한 법률 구조 등 피해자 지원 절차를 개시했으며, 피고인에게 범죄에 상응하는 중형이 선고될 수 있도록 공소유지에 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;한편 이날 구속 기소된 A씨는 여전히 결백을 주장하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>백종원 편든 홍콩반점 점주들 “돈볼카츠 사태로 매출 뚝”</title>
       <link>https://www.chosun.com/national/national_general/2024/07/17/LYWA7SMZRRETZG543NYI2RCH7Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/17/LYWA7SMZRRETZG543NYI2RCH7Y/</guid>
@@ -815,98 +939,6 @@
       <content:encoded>17개 시민단체가 오는 19일 오전 10시 서울 국립현충원 이승만 대통령 묘역에서 이 전 대통령 59주기 추모식을 거행한다. 그동안 사단법인 이승만 대통령 기념사업회가 국립현충원 내 현충관에서 추모식을 해왔지만, 야외에서 시민 누구나 참여할 수 있는 형태로 시민단체가 힘을 합쳐 행사를 진행하는 것은 처음이라고 한다.&lt;br&gt;&lt;br&gt;이날 추모식을 주관하는 이승만건국대통령동상 광화문광장 건립추진위원회의 변정일 회장은 “자유롭게 시민들이 추모식에 참석할 수 있도록 하면서 이승만 대통령을 국민 마음속에서 다시 부활시키기 위한 것”이라고 본지 통화에서 말했다. 이 밖에도 자유헌정포럼, 대한언론인회, 트루스포럼, 대한민국수호예비역장성단, 나라지킴이 고교연합, 대한민국지킴이 리박스쿨 등 단체가 함께한다.&lt;br&gt;&lt;br&gt;이날 추모식에서는 변 회장, 손효숙 대한민국지킴이 리박스쿨 대표, 김은구 트루스포럼 대표 등이 추모사를 할 예정이다. 야외 추모식에 이어 오전 11시부터는 (사)이승만건국대통령 기념사업회 주최로 현충관에서도 추모식이 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[매일매일 중국어 한마디] 매운맛을 없애다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/07/17/4HV5HETNB5HY7C2QV7PKNEEVZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/07/17/4HV5HETNB5HY7C2QV7PKNEEVZQ/</guid>
-      <description/>
-      <pubDate>Tue, 16 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RZH7KHFGRBH2PNRZK2XSP3BBYY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 머리에서 떠나지 않다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/07/17/7EYCHXQ7MNAMXKQ2JPN3KVKQDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/07/17/7EYCHXQ7MNAMXKQ2JPN3KVKQDY/</guid>
-      <description/>
-      <pubDate>Tue, 16 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JVTWFYT2QZAUDLCL6Q3BOPGYNQ.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 알현(謁見)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/17/WCIMQIKSRBBQBGY2KPFSBLC34U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/17/WCIMQIKSRBBQBGY2KPFSBLC34U/</guid>
-      <description/>
-      <pubDate>Tue, 16 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMUZ45CCTVFM7OACOT6E34ZNYA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2422] 로꾸거 암송클럽</title>
-      <link>https://www.chosun.com/national/nie/2024/07/17/ODWCFLN3DFDUHDXNPGNHBJDKM4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/17/ODWCFLN3DFDUHDXNPGNHBJDKM4/</guid>
-      <description/>
-      <pubDate>Tue, 16 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UTH5NZMJYVEAHAAGI64ZVF2KVE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] to make matters worse</title>
-      <link>https://www.chosun.com/national/nie/english/2024/07/17/7A427VBSRBAAJDGDLMDRUEZV6U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/07/17/7A427VBSRBAAJDGDLMDRUEZV6U/</guid>
-      <description/>
-      <pubDate>Tue, 16 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q27RBNRYHBBDFJNUD3WW5MI25E.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [알립니다] 올 여름방학에는 내가 바로 기자!</title>
-      <link>https://www.chosun.com/national/nie/2024/07/17/DLGKBUU3TBAWLKJ3W5KSN3OX3A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/17/DLGKBUU3TBAWLKJ3W5KSN3OX3A/</guid>
-      <description/>
-      <pubDate>Tue, 16 Jul 2024 15:34:32 +0000</pubDate>
-      <content:encoded>조선일보 여름방학 1일 기자 체험에 참여해보세요. 신문사를 견학하고 기사 작성 실습도 해보는 체험 학습 프로그램입니다. 서울 광화문 조선일보 본사와 TV조선을 견학하고 현장 취재 체험을 합니다. 흑석동 뉴지엄(NEWSEUM)에서 직접 신문과 방송 뉴스도 만들면서 기자 체험을 합니다. 참가 학생들에겐 직접 만든 신문과 수료증을 드립니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C3ZIH3B7EFHEJCXRWX7ROIP3G4.jpg"&gt;&lt;br&gt;&lt;br&gt;▲&lt;b&gt;대상:&lt;/b&gt; 초3~고3 &lt;br&gt;&lt;br&gt;▲&lt;b&gt;일정:&lt;/b&gt; 7월 23일(화)~8월 30일(금) &lt;br&gt;&lt;br&gt;▲&lt;b&gt;비용:&lt;/b&gt; 1일 기자 체험 5만원(중식 포함), 금요 기자 체험 3만원 &lt;br&gt;&lt;br&gt;▲&lt;b&gt;문의:&lt;/b&gt; 02-3280-3244&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [예쁜 말 바른 말] [354] ‘대자’와 ‘대짜’</title>
-      <link>https://www.chosun.com/national/nie/2024/07/17/TSIT6C37O5DUBFTTN7Y3MUVQEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/17/TSIT6C37O5DUBFTTN7Y3MUVQEA/</guid>
-      <dc:creator>류덕엽 교육학 박사·전 서울 양진초 교장</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Jul 2024 15:33:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LW3BWZNAP5FHFEQDQELFW2BX2I.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;*”시원한 나무 그늘에 놓인 평상에 (대자, 대짜)로 누워 쉬는 모습, 상상만 해도 기분 좋지?”&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;*”매운탕 (대자, 대짜)를 시키면 네댓 명은 충분히 먹을 수 있을 거야”&lt;/b&gt;&lt;br&gt;&lt;br&gt;괄호 안에 들어갈 말을 골라 보세요. 평소 자주 쓰는 낱말인데, 무척 헷갈리지요? 정답은 차례대로 ‘대자’와 ‘대짜’입니다.&lt;br&gt;&lt;br&gt;‘대자(大字)’는 ‘큰 글자’를 뜻하는 말입니다. 반대말은 작은 글자라는 뜻의 ‘소자(小字)’입니다. 또 한자 ‘大’ 자와 같이 팔과 다리를 양쪽으로 크게 벌린 모양이라는 뜻도 있어요. 이때는 주로 ‘대자로’ 꼴로 써요. 예를 들면 ‘대자로 누워 있던 취객이 경찰관 도움을 받아 귀가했다’와 같이 써요.&lt;br&gt;&lt;br&gt;‘대짜(大짜)’는 ‘큰 것’을 뜻하는 말이에요. 예를 들면 ‘대짜 잉어를 낚아 기분이 좋았다’와 같이 써요. ‘중짜(中짜)’ ‘소짜(小짜)’라는 말도 있지요.&lt;br&gt;&lt;br&gt;‘대자’와 ‘대짜’ 둘 다 [대짜]로 발음하는 경우가 많은데요. 하지만 ‘대짜’만 [대짜]로 발음해요. ‘대자’는 [대자]로 발음해야 함을 잊지 마세요.&lt;br&gt;&lt;br&gt;&lt;b&gt;[예문]&lt;/b&gt;&lt;br&gt;&lt;br&gt;-”원하는 장난감을 사 줄 때까지 가게에 대자로 누워서 우는 아이는 어떻게 달래야 할까요?”&lt;br&gt;&lt;br&gt;-의식을 잃고 대자로 누워 있는 사람을 심폐 소생술로 구한 사람은 전직 소방관이다.&lt;br&gt;&lt;br&gt;-우리는 전골을 대짜로 주문했다.&lt;br&gt;&lt;br&gt;-대짜배기는 대짜인 물건, 즉 아주 큰 물건을 뜻하는 말이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [동물 이야기] 7000만년 전 원시적인 토끼와 닮아… ‘살아있는 화석’으로 불려요</title>
-      <link>https://www.chosun.com/national/nie/2024/07/17/3Q5DDYGVMNDVFHAIIX3P3YY77E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/17/3Q5DDYGVMNDVFHAIIX3P3YY77E/</guid>
-      <dc:creator>정지섭 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Jul 2024 15:32:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LC4ME3PH55AGJNICC7P4W2V2UM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여느 토끼들과 달리 귀가 작은 아마미검은토끼. /히라카와 동물원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본 가고시마 히라카와 동물원이 요즘 소셜미디어에 깜찍한 동물 친구가 식사하는 모습을 찍어 올리고 있어요. 몸은 짙은 회색이고 동그란 눈과 앞발보다 크고 튼튼해 보이는 뒷발을 가지고 있어요. 토끼와 아주 비슷하게 생겼지만 귀는 훨씬 작아요. 토끼의 한 종류인 아마미검은토끼랍니다.&lt;br&gt;&lt;br&gt;아마미검은토끼는 가고시마에서 남쪽으로 각각 400km, 500km쯤 떨어진 아마미오섬과 도쿠노섬의 숲에서 살고 있어요. 세계에서 오직 이 두 섬에서만 볼 수 있는 진귀한 동물이지요. 아마미검은토끼는 다 자라면 몸길이가 43~47cm정도 됩니다. 여느 토끼들과 크기는 비슷한데 눈과 귀는 상대적으로 작고 발톱은 크답니다. 머리뼈나 이빨 등 형태도 보통 토끼들과 달라요. 오랜 옛날에 살았던 원시적인 토끼를 아주 빼닮았대요. 그래서 ‘살아있는 화석’이라고도 불리지요.&lt;br&gt;&lt;br&gt;토끼의 조상은 약 7000만년 전에 나타났어요. 주변 환경에 맞춰 적응하면서 기다란 귀에 튼튼한 뒷발을 가진 지금의 토끼가 됐죠. 이 과정에서 원시적인 토끼들은 생존경쟁에서 점차 밀려나 자취를 감췄어요. 하지만 지형이 험난하거나 고립된 일부 지역에서는 옛날과 비슷한 모습으로 살아가는 원시적인 토끼들이 있어요. 아마미검은토끼는 300만년 전에는 동아시아 곳곳에 살았대요. 하지만 아마미오섬과 도쿠노섬이 육지에서 떨어져 나오면서, 고립된 섬 안에서 독자적인 생태계가 만들어졌고, 크게 변하지 않은 모습으로 지금까지 살아올 수 있었답니다.&lt;br&gt;&lt;br&gt;이런 생태적 가치 때문에 일본 정부는 1921년에 아마미검은토끼를 천연기념물로 지정했어요. 1984년에는 영국 엘리자베스 여왕의 남편 필립공이 세계자연기금 대표 자격으로 일본을 방문하면서 아마미검은토끼의 서식 실태를 살피기 위해 아마미오섬까지 가서 화제가 됐죠.&lt;br&gt;&lt;br&gt;아마미검은토끼 암컷은 번식철이 되면 다른 토끼들보다 더 바빠진답니다. 아마미검은토끼는 숲속 비탈진 언덕에 굴을 파고 생활을 하는데요. 출산을 앞두고서는 육아용 굴을 따로 만들어요. 그리고 이곳에서 새끼를 낳고 밤이 되면 와서 젖을 물리죠. 새끼를 떠날 때면 굴 입구를 흙으로 막아서 뱀 등 천적이 침입하지 못하게 하죠. 새끼가 숨을 쉴 수 있도록 숨구멍은 뚫어놓아요. 아마미검은토끼는 한 배에 새끼를 여러 마리 낳는 다른 토끼들과 달리 한두 마리씩만 낳거든요. 그래서 최대한 생존율을 높이기 위해 이처럼 별도 공간을 만드는 것으로 추측돼요.&lt;br&gt;&lt;br&gt;아마미검은토끼는 일본의 대표적 토종 야생동물로 사랑받고 있지만 생존 위협에도 직면해 있어요. 사람들이 키우다 버린 개나 고양이에게 잡아먹히는 경우가 잇따르고 있어요. 더 무서운 천적은 몽구스예요. 아프리카가 원산지인 몽구스가 왜 여기에 사는지 궁금하죠? 40여 년 전 독사 퇴치용으로 풀어놓았던 몽구스가 완전하게 야생에 정착하면서 아마미검은토끼를 비롯한 초식동물들을 닥치는 대로 사냥하고 있거든요. 도로를 달리는 자동차에 치여 죽는 로드킬 사고도 끊이지 않고 있고요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [숨어있는 세계사] 볼리바르의 나라… 과거 ‘銀 말발굽’ 썼을 만큼 천연자원 많죠</title>
-      <link>https://www.chosun.com/national/nie/2024/07/17/J4QMRBEWQNAVHKLONWY3LSKP6U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/17/J4QMRBEWQNAVHKLONWY3LSKP6U/</guid>
-      <dc:creator>정세정 장기중 역사 교사, 기획·구성=오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Jul 2024 15:32:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQO67FGD5ZCQ3NVJMOIFQMJ3EY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 볼리비아 시민들이 쿠데타 군의 장갑차를 막아선 모습. /AFP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 라틴아메리카의 볼리비아에서 군부가 민주주의 회복 등을 요구하며 탱크와 장갑차를 동원해 행정 수도 라파스에 있는 대통령궁에 진입하는 쿠데타 시도가 벌어졌어요. 후안 호세 수니가 장군(전 합참의장)이 주도한 것으로 알려졌는데요. 이날 쿠데타는 시민들의 거센 반발과 정부의 강경 대응으로 3시간 만에 진압됐다고 해요. 그런데 수니가 장군이 체포 현장에서 취재진에게 루이스 아르세 대통령의 지시로 이런 일을 벌였다고 주장해, 후폭풍이 쉽게 가라앉지 않고 있대요. 오늘은 이런 볼리비아의 역사에 대해 알아보겠습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;잉카 제국, 스페인에 무너지다&lt;/b&gt;&lt;br&gt;&lt;br&gt;과거 라틴아메리카 지역에는 아즈텍·잉카·마야 문명이 발달해 있었어요. 볼리비아 지역은 잉카 제국에 속해 있었어요. 13세기 무렵 세워진 잉카 제국은 오늘날 페루, 에콰도르, 볼리비아, 칠레 북부 등의 지역을 지배한 문명이에요. 스페인 정복자들이 나타나기 전까지는 라틴아메리카에서 가장 강력한 제국이었어요.&lt;br&gt;&lt;br&gt;그런데 잉카를 비롯한 라틴아메리카 지역의 문명들은 스페인 사람들이 들어온 지 50여 년 만에 멸망해요. 1530년대 초 스페인 탐험가 프란시스코 피사로는 잉카 제국의 마지막 황제를 죽이고 수도 쿠스코를 점령했어요. 당시 피사로의 군대는 200명도 되지 않았다고 해요. 잉카 제국 군대는 8만명이었고요. 피사로는 어떻게 잉카 제국의 군대를 이길 수 있었을까요?&lt;br&gt;&lt;br&gt;여러 이유 중 하나로 스페인 군대는 총과 대포를 가지고 있었지만 원주민들은 활과 화살, 나무와 돌로 된 창이나 몽둥이, 청동과 흑요석으로 만들어진 칼 정도의 무기밖에 없었기 때문으로 추정돼요.&lt;br&gt;&lt;br&gt;‘엘도라도’는 전설 속에 나오는 황금의 땅을 말해요. 엘도라도는 원래 ‘황금빛이 나는 사람’이라는 뜻으로, 온몸에 황금 가루를 칠한 원주민 추장을 가리켰어요. 그런데 ‘황금을 칠한 사람’이 ‘황금의 나라’를 가리키는 말로 바뀌어 유럽에 전달되면서, 많은 유럽 사람이 라틴아메리카로 황금을 찾아 떠나게 만들었지요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/55VKONL56NHENJM4W6V72N5GJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;잉카 제국을 무너뜨린 스페인 탐험가 프란시스코 피사로. 볼리비아 지역은 과거에 잉카 제국에 속해 있었어요. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;먼저 움직인 곳은 스페인이었어요. 피사로와 코르테스를 비롯한 수많은 스페인 탐험가가 금과 은을 찾아 라틴아메리카로 향했지요. 황금을 찾으러 온 유럽 사람들은 라틴아메리카 대륙 전체를 바꾸어 놓았어요. 은맥이나 금광이 발견된 곳은 순식간에 거대한 스페인식 도시로 변했어요. 가톨릭교회가 세워지고, 관공서가 들어서고, 시장이 만들어졌죠.&lt;br&gt;&lt;br&gt;볼리비아의 포토시도 그런 곳이었어요. 안데스산맥에 있는 작은 마을이었던 포토시는 산에서 엄청난 은맥이 발견되면서 커다란 도시로 변모했어요. 17세기에는 16만명에 이르는 사람이 사는 거대 도시가 됐어요. 말발굽도 은으로 만들어 쓸 정도였다는 얘기가 전해질 만큼 은이 많았다고 해요. 당시 스페인에서는 ‘포토시’가 그 자체로 ‘막대한 부’를 뜻하는 말로 유행했다고 하네요.&lt;br&gt;&lt;br&gt;하지만 은으로 돈을 번 사람들은 백인 광산업자나 사업가들이었어요. 원주민이나 광부들은 힘든 노동에도 가난한 삶을 살아야 했습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;은과 주석, 천연가스 등 천연자원 풍부&lt;/b&gt;&lt;br&gt;&lt;br&gt;19세기 시몬 볼리바르는 스페인에서 베네수엘라, 에콰도르, 콜롬비아, 페루, 볼리비아 등이 독립하도록 도왔어요. 그는 ‘해방자 볼리바르’라고 불렸어요. 특히 볼리비아는 ‘볼리바르의 나라’라는 뜻이에요. 나라 이름으로 시몬 볼리바르를 기리고 있는 것이죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YKU6YAFQPNDFJFLMVRMFGXXKLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안데스산맥에 있는 작은 마을이었던 포토시의 은광을 묘사한 그림. 산에서 엄청난 은맥이 발견되면서 포토시는 커다란 도시로 변모했어요. /Hispanic Society of America&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해방된 볼리비아는 풍부한 천연자원을 통해 나라를 발전시키고자 했어요. 볼리비아는 은과 주석, 천연가스와 같은 천연자원이 풍부해요. 하지만 국내총생산(GDP)은 라틴아메리카 국가 중 하위권에 속해요. 천연자원 수출이 활발할 때는 괜찮았지만, 천연자원 가격이 하락하거나 천연자원 대체재이 개발되는 등의 이유로 경제가 흔들렸어요. 또 볼리비아 국내에 제조업이 발달하지 못하면서 국가 경제가 발전하기 어려웠죠. 이런 환경으로 인해 볼리비아는 반복적으로 경제 위기를 겪었고, 이는 정치 혼란으로 이어졌어요.&lt;br&gt;&lt;br&gt;볼리비아에선 쿠데타가 자주 일어났어요. 가장 큰 원인은 경제적 위기 때문이었습니다. 가난했던 농민과 노동자들은 경제 위기 속에서 살아남기 위한 투쟁에 나섰는데요. 좌파 정당들이 만들어지면서 이들의 투쟁은 좀 더 조직적으로 진행됐어요.&lt;br&gt;&lt;br&gt;경기 침체를 해결하고자 정부가 시행한 정책들이 노동자들의 삶을 오히려 어렵게 만들자, 저항의 움직임이 계속 이어지게 됩니다. 정부는 농민과 노동자들의 저항을 무자비하게 진압했어요. 이러한 상황 속에서 극단적인 정치 변화가 쿠데타의 형태로 반복됐습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJM63RIOVVE4JCVCG4PYMJO37A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;볼리비아 최초의 원주민 출신 대통령 에보 모랄레스. /오종찬 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러다 2005년 원주민 출신 대통령이 최초로 나옵니다. 에보 모랄레스예요. 13년간 집권한 그는 수세기 동안 이어진 사회적 계급 구조를 뒤집기 위해 노력했어요. 또 천연자원은 볼리비아 국민의 배타적 소유물로 국가에 의해 운영되어야 할 자산이라고 선언했죠. 부유층의 땅을 몰수해 가난한 원주민들에게 나눠주기도 했습니다.&lt;br&gt;&lt;br&gt;2019년 4선 연임에 도전한 그는 대선에서 승리했지만, 부정선거 의혹이 제기되면서 시위 등 거센 저항에 직면하게 됩니다. 결국 대통령직에서 물러나 멕시코로 망명해요. 그러다 2020년 다시 볼리비아로 돌아와 목소리를 내고 있어요.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 7월 17일</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/17/I52LQLHTAVHGRKVCMHYLFTS6FA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/17/I52LQLHTAVHGRKVCMHYLFTS6FA/</guid>
-      <description/>
-      <pubDate>Tue, 16 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/73UPDZTKTRAJDNCE2Z6S5WHROE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘36주 낙태’ 영상에 의사들도 분노…“거짓이어도 엄중 처벌”</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/16/RVXYN22JBRE4BKCODQZSIKRKOM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/16/RVXYN22JBRE4BKCODQZSIKRKOM/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Jul 2024 14:57:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WUONFYGZ5HQXTN6JE6OC2ETB3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임신 36주차에 낙태 수술을 받았다고 주장하는 여성의 유튜브 영상 캡처. 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임신 36주 차에 낙태 수술을 받았다고 주장하는 내용의 유튜브 영상이 논란이 되는 가운데, 16일 한 의사단체가 “철저한 수사와 강력한 처벌이 필요하다”라는 내용의 성명을 냈다.&lt;br&gt;&lt;br&gt;서울시의사회는 이날 성명에서 “임신 36주차에 뒤늦게 임신을 알고 수술을 받았다는 한 유튜버 영상 내용을 모두 믿을 수는 없지만, ‘태아 살인’이란 국민적 의구심을 불러일으키는 사안이기에 철저한 사실관계 확인이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;서울시의사회는 “만일 이 같은 의혹이 사실로 밝혀진다면, 임신 36주 상태에서 임신중절수술을 감행한 의료진에 대한 강력한 처벌이 필요하다는 입장을 밝힌다”며 “아울러 전문가평가단 등의 철저한 조사를 통해 본회 자체적으로 강력한 징계 조치를 내리고자 한다”고 했다.&lt;br&gt;&lt;br&gt;서울시의사회는 “만일 이 같은 의혹이 사실이 아닌 경우, 이는 유튜브를 이용한 경제적인 이득을 위해 거짓사실로 국민을 호도하고, 의사와 환자 사이의 신뢰를 무너뜨림으로써, 국민의 생명까지 위협하는 심각한 범죄 행위이므로 엄중하게 처벌 해줄 것을 강력하게 요청한다”고 했다.&lt;br&gt;&lt;br&gt;서울시의사회는 “불법적이고 비윤리적인 행위가 있었음이 밝혀지는 경우, 신속하고 강력한 징계 조치 등 전문가 윤리 준수와 자율 관리에 최선을 다할 것이며, 만일 사실이 아닌 경우 국민을 기망한 행위에 대해 법정 최고형으로 다스려 줄 것을 강력하게 요청한다”고 했다.&lt;br&gt;&lt;br&gt;앞서 자신을 20대 여성이라고 밝힌 A씨가 지난달 27 유튜브에 “임신 36주 차에 낙태 수술을 받았다”는 내용으로 ‘낙태 브이로그(일상 영상)’를 올린 뒤 온라인에서 파문이 일었다. 임신 36주가 사실상 만삭에 가깝다는 점에서 ‘영아 살인’으로도 볼 수 있다는 것이다.&lt;br&gt;&lt;br&gt;다만 영상의 진위 여부는 아직 확인되지 않았다. 보건복지부는 34주 태아를 낙태한 의사에게 징역 3년을 선고한 판례를 참조해 A씨와 수술을 집도한 의사에 대해 살인 혐의로 경찰에 수사 의뢰했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>충청·경상 호우 특보... 경기북부 모레까지 최대 250㎜ 퍼붓는다</title>
       <link>https://www.chosun.com/national/national_general/2024/07/16/UX6NPJMOBVA7TAYHCVJGYDO22I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/16/UX6NPJMOBVA7TAYHCVJGYDO22I/</guid>
@@ -914,15 +946,6 @@
       <description/>
       <pubDate>Tue, 16 Jul 2024 13:53:55 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DKVVOHOERZLBVFWLYVKQKAJVG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭우가 내린 16일 전남 진도군 의신면 한 농경지가 침수돼 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부가 충청권과 경상권을 중심으로 호우 특보가 발효됨에 따라 16일 오후 7시 30분 부로 중앙재난안전대책본부 1단계를 발령했다고 밝혔다. 호우 위기경보 수준도 ‘관심’에서 ‘주의’로 상향했다.&lt;br&gt;&lt;br&gt;기상청에 따르면 이날부터 18일까지 수도권 80~120㎜(경기북부는 250㎜ 이상), 강원도 50~100㎜(많은 곳 150㎜ 이상), 충청권 30~100㎜(많은 곳 120㎜ 이상), 전라권 30~80㎜, 경상권 30~80㎜ 등 전국 각지에서 많은 비가 내린다.&lt;br&gt;&lt;br&gt;중대본은 폭우로 피해가 생기지 않도록 취약지역 주민 대피에 최선을 다하고, 지하차도나 둔치 주차장 등 침수 취약시설은 선제적으로 통제해달라고 관계 기관에 주문했다. 특히 지난 호우로 피해가 발생한 지역에서 추가 피해가 발생하지 않도록 안전관리를 철저히 해달라고 강조했다.&lt;br&gt;&lt;br&gt;서울시도 16일 밤9시부로 재난안전대책본부 1단계를 발령했다.&lt;br&gt;&lt;br&gt;시청과 구청, 시설공단 등 유관기관 직원 3400여명이 비상 근무에 돌입했다. 빗물받이와 배수로 등이 막힌 곳이 있는지 확인하고 급경사 지역 490여곳에 대한 점검도 진행한다. 서울 시내 하천 29곳의 출입도 전면 통제했다.&lt;br&gt;&lt;br&gt;중대본부장인 이상민 행안부 장관은 “정부는 중대본을 중심으로 철저한 대비와 비상 대응 태세를 확립하는 등 안전관리에 온 힘을 쏟겠다”며 “국민 여러분께서는 실시간 기상 상황을 확인하고 산지, 강가, 저지대 등 위험지역 접근을 자제해 달라”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한밤에도 대낮에도 번쩍 번쩍...전남, 하루동안 낙뢰 4500번 쳤다</title>
-      <link>https://www.chosun.com/national/regional/honam/2024/07/16/FPB4LXCJVFFR7OCNG364TAWVFI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/07/16/FPB4LXCJVFFR7OCNG364TAWVFI/</guid>
-      <dc:creator>여수=조홍복 기자, 박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Jul 2024 12:07:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AYKJNT6DARMIZIKE7RW5DTQE5Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;(해남=뉴스1) 김태성 기자 = 16일 오전 전남 해남군 화산면 일대에 124㎜ 폭우가 내린 가운데 면사무소 직원들과 관계자들이 마을길 복구작업을 하고있다. /해남군 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 새벽 전남 진도 등에 시간당 최고 100㎜가 넘는 집중호우가 쏟아져 주택 124채가 침수되는 등 피해가 속출했다. 이날 진도에는 시간당 103.5㎜ 비가 쏟아졌고 고흥(85.5㎜)과 해남(78.1㎜)에도 거센 비가 내렸다. 해남 지역은 7월 기준 1시간 최다 강수량 기록을 세웠다.&lt;br&gt;&lt;br&gt;시간당 50㎜가 넘는 비가 내리면 길에 물이 차올라 차량 운행이 어렵고 80㎜가 넘으면 와이퍼를 켜도 앞이 잘 보이지 않는다.&lt;br&gt;&lt;br&gt;15~16일 하룻밤 사이 강수량은 진도가 168.5㎜, 완도가 156.5㎜, 고흥이 142.5㎜였다.&lt;br&gt;&lt;br&gt;전남도 등에 따르면, 이날 전남 지역에서는 주택 124채가 침수돼 주민 65명이 마을회관 등으로 대피했다. 이날 접수된 피해 신고는 128건이었다. 인명 피해는 없었다. 전남도는 산사태 발생 우려가 큰 지역 주민 197명을 대피시켰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEM6WJWROWUFYJXOIKWXKYN2ZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오전 전남 해남군 화산면 일대에 124㎜ 폭우가 내린 가운데 면사무소 직원들과 관계자들이 마을길 복구작업을 하고있다. /해남군 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 0시 21분쯤 신안군 흑산면에서는 소방대원들이 물에 잠긴 주택에서 일가족 4명을 구조했다. 완도군 완도읍에서는 아파트 지하 주차장에 빗물이 차 차량 10여 대가 침수됐다. 해남군 송지면에서는 흙더미가 주택을 덮쳐 주민이 인근 행정복지센터로 대피했다. 전통시장도 빗물에 잠겼다. 진도군 고군면에서는 굴착기 1대가 하천에 추락했다.&lt;br&gt;&lt;br&gt;농경지 피해도 컸다. 이날 진도 150㏊, 완도 100㏊ 등 전남 지역 농경지 279㏊가 물에 잠겼다. 축구장 390개 크기다.&lt;br&gt;&lt;br&gt;전남 지역에는 이날 하루 4500번 낙뢰가 관찰됐다. 작년 7월 한 달간 전남 지역에 친 낙뢰가 총 4916번인데 그 92%에 달하는 낙뢰가 하루에 몰린 것이다. 기상청은 “비구름이 전남 상공에 정체된 가운데 고온다습한 공기가 남쪽에서 대거 유입됐다”며 “뜨거운 수증기가 상승해 비구름 속에 있는 얼음 알갱이와 잇따라 충돌하면서 낙뢰가 발생한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UDNWJT3AMRPL5MAALM3AOKWJOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;역대급 폭우가 내린 16일 전남 진도군 의신면 한 농경지가 침수돼 있다. 2024.7.16 /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;잇따른 낙뢰로 기상청 자동 기상관측 장비(AWS)에도 오류가 발생했다. 여수국가산업단지의 한 석유화학 공장에서는 낙뢰로 정전 사고가 발생했다. 이 공장 배관이 파손돼 기름이 바다로 유출되기도 했다.&lt;br&gt;&lt;br&gt;이날 새벽 전남 지역에 많은 비를 뿌린 장마전선은 경남을 거쳐 밤에 동해로 빠져나갔다. 경남에서는 남해, 하동 등에 많은 비가 내려 주택이 침수되는 등 피해가 났다.&lt;br&gt;&lt;br&gt;17일부터는 새로운 장마전선이 형성돼 중부 지방에 많은 비를 뿌릴 것이라고 기상청은 예보했다. 기상청 관계자는 “수도권에 올 들어 가장 많은 비가 내릴 것으로 예상된다”고 했다.&lt;br&gt;&lt;br&gt;17일 새벽 경기 북부 지역에는 시간당 70㎜ 이상의 많은 비가 내릴 것으로 보인다. 그 외 수도권과 충청 지역에는 시간당 30~60㎜ 비가 내릴 것으로 예보됐다. 16~18일 예상 강수량은 경기 북부가 80~250㎜, 그 외 수도권이 80~150㎜, 강원도가 50~150㎜, 충청이 30~150㎜ 등이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>환자단체 “전공의 대체할 의사 인력 확충에 힘써야”</title>
@@ -950,15 +973,6 @@
       <description/>
       <pubDate>Tue, 16 Jul 2024 09:39:38 +0000</pubDate>
       <content:encoded>후쿠시마 방류수와 수산물 안전성을 홍보하기 위해 만든 정부 광고의 조회 수에 의혹을 제기한 MBC 보도가 허위 사실이라는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;서울서부지법 제12민사부(재판장 김진영)는 지난 12일 MBC ‘뉴스데스크’의 ‘후쿠시마 오염수의 진실… 두달 만에 1600만 이례적’(지난해 8월 25일) 보도와 관련해 문화체육관광부가 MBC를 상대로 제기한 정정 보도 청구 소송에서 “이 사건 보도는 허위 사실로 인정된다”며 “MBC는 언론중재법에 따라 정정 보도를 할 의무가 있다”고 판결했다고 문체부가 16일 밝혔다.&lt;br&gt;&lt;br&gt;지난해 7월 공개된 ‘국내 최고 전문가들이 말하는 후쿠시마 오염수의 진실’ 영상은 정부의 수산물 정책 광고를 위한 4분 26초짜리 영상이다. 정부는 이 영상에서 “삼중수소는 먹어도 기준치 이하면 인체에 별 영향이 없다” “괴담이 아니라 과학적 진실을 바탕으로 국민 안전에 최선을 다할 것”이라고 했다. 당시 조회 수 1600만회를 기록했다. 현재는 1925만회다.&lt;br&gt;&lt;br&gt;MBC는 당시 ‘뉴스데스크’에서 “영상이 (게시된 지) 두 달이 채 안 됐는데 1600만이 넘는 조회 수를 기록했다”며 “이 중 대다수는 초반 5~6초만 시청한 걸로 나타났다”고 보도했다. 하지만 영상의 조회 수는 최소 30초 이상 시청한 경우만 집계한 것이고, 평균 시청 시간은 3분 3초였던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;문체부는 당시 보도 직후 정정 보도를 요청했고, MBC는 뉴스 홈페이지와 유튜브 뉴스 채널에서 보도 내용이 사실과 다르다는 보도를 했다. 하지만 ‘뉴스데스크’에선 정정 보도를 하지 않았다. 이에 문체부는 언론중재위원회에 ‘뉴스데스크’에서 정정 보도를 해야 한다는 취지로 정정 보도를 신청했으나 MBC가 거부해 작년 10월 법원에 정정 보도 청구 소송을 제기했다.&lt;br&gt;&lt;br&gt;재판부는 “이 사건 보도는 허위 사실로 인정되고, 문체부의 사회적 평가를 저하시킬 만한 내용에 해당한다”며 “MBC는 판결 확정 후 3일 이내에 ‘뉴스데스크’에 진행자로 하여금 정정 보도문을 통상적인 진행 속도로 낭독하도록 해야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고된 아버지의 순정을 노래했다...가수 현철 별세  </title>
-      <link>https://www.chosun.com/national/national_general/2024/07/16/6AMDJVM5PJDSBAZL3ZFNGM66GI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/16/6AMDJVM5PJDSBAZL3ZFNGM66GI/</guid>
-      <dc:creator>박은주 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Jul 2024 07:33:10 +0000</pubDate>
-      <content:encoded>리비아 사막을 옥토로 만드는 대형 프로젝트 ‘리비아 대수로’ 공사. 80년대 초 동아건설이 1차 공사를 독점 수주해 한국에서 근로자가 대거 파견됐다. 1987년 KBS 가요무대가 처음으로 리비아 사리르 건설현장으로 해외 촬영을 나갔다. 김세환, 조용필, 김연자, 최진희 등 특대형 가수를 이끌고 김동건 아나운서가 사회를 봤다. 가수 현숙이 첫 곡 ‘정말로’, 이어 나미가 ‘빙글빙글’을 불러 분위기를 띄웠다.&lt;br&gt;&lt;br&gt;“앉으나 서나 당신 생각/ 앉으나 서나 당신 생각/ 떠오르는 당신 모습 피할 길 없는 내 마음.” 부산 출신 중년 가수 현철이 ‘앉으나 서나 당신 생각’을 부르자 열사의 땅에 ‘눈물 비’가 떨어졌다. 몇 년씩 못 본 부모와 아내, 자식의 얼굴을 떠올리며 ‘중동 근로자’들이 울었다. 이어 ‘사랑은 나비인가봐’를 불렀다. 언제 울었냐는 듯 남자들이 노래를 따라 불렀다.(방송에는 이 노래만 나왔다.) TV 노출이 없던 현철의 인기에 제작진도 깜짝 놀랐다. 한국 가족들이 부친 ‘짜깁기 테이프’ 속에서 현철은 이미 인기 가수였던 것이다. “뒤쪽에 모르는 사람이 있어서 주현미씨랑 나는 ‘저분은 누구시지? 산업역군이신가보다’ 했다니까.” 현철과 오누이처럼 지낸 현숙은 그의 소식을 접하고, 이렇게 추억했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HJDWRED7SVGFLJKEG5UITHUFQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'앉으나 서나 당신 생각' '봉선화 연정' 등 1980, 90년대 한국 트로트의 대표였던 가수 현철이 15일 오후 지병으로 별세했다. 오랜 무명을 거쳐 중년에 큰 인기를 얻은 그는 수그러들지 않는 가창력으로 유명했다. / 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;산업화 시대의 주역, 그 세대의 우직한 순정을 노래한 트로트 가수 현철(본명 강상수)이 15일 오후 지병으로 별세했다. 수년 전 디스크 수술을 받은 뒤 신경 손상으로 건강이 악화해 오랜 기간 투병을 이어왔고 두 달전 폐렴으로 중환자실에 입원했다고 한다.&lt;br&gt;&lt;br&gt;1942년 경남 김해에서 태어난 현철은 부산 동성고 졸업 후 동아대 경영학과에 입학했으나 중퇴하고, 1966년 ‘태현철’이라는 이름으로 서울에서 음반 ‘무정한 그대’를 냈다. 하지만 남진과 나훈아가 점령한 가요판에 그의 자리는 좁았다. 부산으로 내려가 고군분투하다 작곡가 박성훈(73)과 기획사 사무실을 열었다. 1976년 레이프 개럿의 노래를 번안한 곡 ‘다 함께 춤을’을 비롯, ‘사랑은 나비인가봐’ 등이 들어간 음반이 ‘벌떼들’이란 이름으로 발매됐다. 이후 ‘현철과 벌떼들’로 활동하다 솔로로 독립했다.&lt;br&gt;&lt;br&gt;‘사랑은 나비인가봐’ ‘내 마음 별과 같이’ ‘싫다 싫어’ ‘보고싶은 여인’ 등 현철의 대표곡을 작곡한 ‘55년 인연’ 박성훈 작곡가는 현철을 “한국 가수의 생명력을 연장시킨 가수”라고 했다. “당시만 해도 서른이 넘으면 가수를 못 하는 풍토였는데, 집념 하나로 45세에 비로소 인기를 얻었다”고 했다. 꺾는 대목에서 정확하게 꺾어주는 창법이 현철식 트로트의 매력이다. 130곡 이상을 발표했고, 송대관, 태진아, 설운도와 함께 트로트 4대 천황으로 불렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZOSN47MZEVGNTFCNAHEMVZXZBU.png"&gt;&lt;figcaption&gt;&lt;small&gt;1987년 KBS가 방송한 가요무대 리비아 사리르 건설현장 공연 모습. 가수 현철과 근로자가 '사랑은 나비인가봐'를 함께 부르고 있다. /KBS유튜브캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1986년 8월부터 7개월 방송된 드라마 ‘내 마음 별과 같이’의 주제곡으로 지명도가 높아진 현철은 87년 리비아 공연 후 ‘전국구’ 스타가 됐다. “손대면 톡 하고 터질 것만 같은 그대 / 봉선화라 부르리 / 더 이상 참지 못할 그리움을 / 가슴 깊이 물들이고.” 화려한 장미가 아닌 시골마당에 쉽게 피는 꽃으로 ‘중년의 순정’을 노래한 ‘봉선화 연정’은 1989년 최고 히트곡이었다.&lt;br&gt;&lt;br&gt;“싫다 싫어 꿈도 사랑도 / 싫다 싫어 생각을 말자” ‘싫다 싫어’는 직장인들이 주정 대신 부르는 노래가 됐다. 현철은 두 곡이 잇달아 히트하며 1989년, 1990년 KBS ‘가요대상’ 대상을 2년 연속 수상했다. 1998년 ‘사랑의 이름표’는 이전의 ‘순정남’ 콘셉트에서 한발 나갔다. ‘이름표를 붙여 내 가슴에 / 확실한 사랑의 도장을 찍어 / 이 세상 끝까지 나만 사랑한다면 / 확실하게 붙잡아’. 초등학생까지 부르는 노래이자, 선거 출마자들이 너도나도 달려드는 초대형 히트곡이 됐다.&lt;br&gt;&lt;br&gt;“성공을 했지만 마음을 비우고 살겠다”고 약속한 그는 누구건 반겨주고, 성실하게 인생을 살았다. 셋이 합쳐 이름이 여섯 자밖에 안 되는 송해, 현철, 현숙은 여의도의 친한 친구들이었다. 현숙이 말했다. “아빠(송해)랑 오빠(현철)가 여의도 순댓국집에서 국 하나, 소주 한 병 시켜두고 이런저런 이야기를 했는데, 이제 두 분이 하늘에서 다시 만날 것 같다.”&lt;br&gt;&lt;br&gt;중환자실에서 떠난 현철의 마지막 길은 부인 송애경씨와 1남 1녀, 손주들이 지켜봤다. ‘내 마음 별과 같이’를 함께 들었다고 한다. 부인 송애경씨는 이렇게 전했다. “말씀은 못 하시는데, 떠나기 전 하염없이 눈물을 흘리셨다.” 그 눈물에는 고생과 영광, 슬픔과 기쁨, 긍지와 안타까움이 녹아 있었을 것 같다. 빈소는 서울아산병원 장례식장 1호. 발인은 18일 오전 8시 20분.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>23개 인구감소지역 방문하면 철도 운임 50% 할인</title>
