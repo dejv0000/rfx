@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“창문 열고 퇴근했는데 폭우 쏟아져”…여고생들 선행에 감동한 사연</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/19/F6KSUJSV4ZBMBHYSSDOFYCLJPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/19/F6KSUJSV4ZBMBHYSSDOFYCLJPA/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 18 Jul 2024 22:21:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UBPQCIYY3RD7BIT2RMJPHICFGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭우가 오자 스터디카페 창문을 닫고 청소하는 여고생들./YTN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;창문을 열어 놓고 퇴근한 스터디카페 사장이 갑작스러운 비 소식으로 곤란을 겪을 뻔했으나 여고생들의 선한 행동 덕분에 비 피해를 막을 수 있었다는 사연이 전해졌다.&lt;br&gt;&lt;br&gt;경북 경산에서 스터디카페를 운영하는 A씨는 지난달 겪은 훈훈한 일화를 최근 YTN을 통해 전했다.&lt;br&gt;&lt;br&gt;보도에 따르면 A씨는 지난달 15일 밤 카페를 마감한 뒤 창문을 연 채 퇴근했다. 전날 밤까지만 해도 비예보가 없었지만 다음날 아침 예상치 못한 폭우가 내렸다는 사실을 알게 됐다.&lt;br&gt;&lt;br&gt;휴게실이 엉망이 되었을 거라고 생각하며 출근한 A씨의 예상과 달리 휴게실 창문은 모두 닫혀 있었고, 휴게실은 깨끗했다.&lt;br&gt;&lt;br&gt;의아한 A씨는 곧장 방범카메라(CCTV) 영상을 살펴보다가 깜짝 놀랐다. 영상에는 인근 고등학교에 다니는 여학생 두 명이 창문을 닫고 빗물로 어질러진 테이블을 손수 닦아낸 모습이 담겨 있었다. 학생들은 모든 정리가 끝난 뒤 조용히 휴게실을 떠났다.&lt;br&gt;&lt;br&gt;A씨는 “다른 사람들은 그냥 지나쳤을 수도 있지만, 두 학생은 마치 자기 일처럼 정리해 줘서 정말 고마웠다”며 “학생들에게 인사와 함께 조각 케이크를 선물로 드렸다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “학생들에게 감사함을 전하니 오히려 당연한 일을 했을 뿐이라며 겸손하게 반응을 보이더라. 행동뿐만 아니라, 말도 예쁘게 해서 너무 감동하였다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“하루 5마리는 잡혀요” 러브버그 들끓자 이 식물 인기</title>
       <link>https://www.chosun.com/national/national_general/2024/07/19/SUPLUFHJWZBORBG4VBJMUDEESE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/19/SUPLUFHJWZBORBG4VBJMUDEESE/</guid>
@@ -890,15 +899,6 @@
       <pubDate>Thu, 18 Jul 2024 02:52:26 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z4PAQMX4X5A57EI6HFQ2VVGAFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 오전 11시 10분쯤 강원 춘천시 사북면 원평리 한 도로 일부가 무너지는 사고가 발생했다. 다행히 인명피해는 없었다.  /강원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 16일부터 사흘간 철원 동송에 389.5mm의 비가 쏟아지는 등 강원도 중북부지역을 중심으로 많은 비가 내리면서 크고 작은 피해가 잇따라 발생하고 있다.&lt;br&gt;&lt;br&gt;18일 오전 11시 10분쯤 강원 춘천시 사북면 원평리 한 도로 일부가 무너져 내렸다. 신고를 받고 출동한 경찰은 차량 통행을 통제하고 응급 복구 작업을 진행 중이다. 다행히 인명피해는 없었다. 이날 오전 7시 4분쯤엔 춘천시 남산면 수동리 한 야산에선 산사태가 발생해 나무와 돌 등이 인접 도로로 덮쳤다.&lt;br&gt;&lt;br&gt;또 이날 오전 7시 40분쯤 양구 방산면에서 나무가 쓰러지면서 도로를 덮쳤고 철원읍 갈말읍 지포리에선 연립주택 지하실에 물이 들어찼다는 신고가 접수돼 소방당국이 긴급 배수 작업을 벌였다.&lt;br&gt;&lt;br&gt;강원지방기상청에 따르면 16일 오전 0시부터 18일 오전 11시까지 철원 동송 389.5mm, 철원 354.8mm, 철원 장흥 331mm, 철원 양지 310mm, 화천 광덕산 287.9mm 등의 폭우가 쏟아졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3S33RWN67ZA4JMCGOPGTDSBQXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 중북부 지역을 중심을오 많은 비가 내리고 있는 가운데 지난 17일 춘천댐이 수문을 개방하고 수위 조절에 나섰다. /뉴스1
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;춘천댐과 의암댐 등 북한강 수계 댐들은 수문을 열고 수위 조절에 나섰다. 춘천댐은 현재 초당 1500t의 물을 방류하고 있으며 의암댐도 초당 1800t의 물을 하류로 흘려보내고 있다.&lt;br&gt;&lt;br&gt;강원지방기상청은 19일까지 내륙과 산지에 최대 120mm의 비가 더 내릴 것으로 예상했다.&lt;br&gt;&lt;br&gt;기상청 관계자는 “영서 내륙과 산지엔 시간당 최대 70mm 이상의 강한 비가 내리는 곳이 있겠다”면서 “북한에도 많은 비가 내리면서 한탄강 등 강원 북부의 하천 수위가 급격하게 상승할 수 있는 만큼 주의가 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘해외직구 간이통관제도’ 악용해 세금 탈루…명품 구매대행업자 2명 송치</title>
-      <link>https://www.chosun.com/national/incident/2024/07/18/FZT53IKZQZHNXBPRK4KIMXH5EE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/18/FZT53IKZQZHNXBPRK4KIMXH5EE/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 02:47:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5YRIDDMLFVCQBPI6G43WESUWAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;관세청 인천본부세관 전경./인천본부세관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비교적 낮은 가격인 개인용 수입 물품의 신속한 통관을 돕기 위한 ‘해외직구 간이통관제도’를 악용해 3억여 원의 세금을 포탈한 구매대행업자가 세관 당국에 붙잡혔다.&lt;br&gt;&lt;br&gt;인천세관은 관세법 위반 혐의로 구매대행업자 30대 남녀 A씨와 B씨 등 2명을 검찰에 불구속 송치했다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;남매 사이인 이들은 지난 2018년 5월부터 2023년 4월까지 프랑스에서 103억 원 상당의 명품 의류와 가방 등을 국내로 반입하면서 관세와 부가가치세 등 3억7000만 원을 포탈한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이들은 미화 150달러 이하 자가 사용 물품에 대해선 수입신고를 생략하고, 관세와 부가세를 면제해 주는 ‘해외직구 간이통관제도’를 악용하는 방법으로 7억원 상당의 의류 등 1600여 점을 수입했다. 또 정식 수입신고를 하더라도 실제 가격보다 30% 정도 낮은 가격으로 허위 신고하는 방식으로 96억 원 상당의 의류 등 8200여 점을 반입한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;인천세관 관계자는 “해외직구 대행업자의 밀수‧관세 포탈 행위는 국가재정 손실일 뿐만 아니라 수많은 국내 소비자에 대한 기만행위”라며 “해외직구 소액 면세 제도를 악용한 불법행위에 대해 철저히 단속하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경기남부도 극한 호우...수위 상승에 오산천·진위천 등 홍수경보 잇따라</title>
