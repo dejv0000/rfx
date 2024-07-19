@@ -13,6 +13,103 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>국내도 IT대란 피해 발생...저비용 항공 발권시스템 먹통</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/07/19/YPTLRY2ZUJAPTNPQKGFLVMSMTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/19/YPTLRY2ZUJAPTNPQKGFLVMSMTU/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Jul 2024 08:15:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IKABSEQL6FJAHZTPJRUJR2LEP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 16일 인천공항 1터미널/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국 마이크로소프트(MS)의 클라우드 서비스에 장애가 발생하면서 이스타항공, 제주항공, 에어프레미아 등 일부 국내 저비용항공사(LCC)의 항공권 발권·예약 시스템이 먹통이 됐다.&lt;br&gt;&lt;br&gt;19일 항공업계에 따르면 이들 업체의 항공권 발권·예약 시스템이 작동하지 않아, 공항에서 직원들이 수기로 티켓을 발권하고 체크인을 진행하는 것으로 알려졌다. 이들 3사가 사용하는 독일 아마데우스 자회사 나비테어 시스템은 MS의 클라우드 서비스를 기반으로 운영되는데 여기서 장애가 발생한 탓이다. 델타, 아메리카에어라인, 젯스타, 홍콩익스프레스 등도 같은 문제를 겪고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2TDXRGPAUBCFJCN2XA45EKWMPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 인천공항에서 수기로 발권된 제주항공 비행기 티켓. 이날 MS의 클라우드 서비스에 장애가 발생하면서 제주항공 등 발권 시스템에 오류가 생겼다/이미지 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 발권 시스템 고장으로 아직 결항이 생긴 것은 아니다. 다만 발권과 수속 대기 시간 등이 길어지면서 일부 항공기가 지연되고 이에 따라 결항이 발생할 가능성도 있다. 제주항공 관계자는 “언제 시스템이 정상 작동할지는 알기 어렵다”며 “수기 발권 등을 통해 운항이 정상적으로 이뤄지도록 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘고문 기술자’ 전직 경찰 이근안, 국가에 33억 물어내야</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/19/BYXNUYZEQ5FVJJXE6SJSJFGKME/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/19/BYXNUYZEQ5FVJJXE6SJSJFGKME/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Jul 2024 10:05:31 +0000</pubDate>
+      <content:encoded>군사정권 시절 각종 고문을 일삼은 ‘고문 기술자’로 알려진 이근안(86)씨가 ‘김제 가족 간첩단 조작사건’ 피해자에게 국가가 배상했던 돈을 물어내야 한다는 판결이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FTGPTVCXJGOPCYLMP3UYTQ3YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2019년 1월 24일 양승태 전 대법원장 구속으로 사법부가 뒤숭숭한 가운데 서울 서초구 중앙지법에서 법원 직원들과 민원인들이 오가고 있다./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 민사합의20부(재판장 이세라)는 국가가 이씨를 상대로 제기한 구상금 청구 소송에서 국가의 손을 들어줬다. 이로써 이씨는 국가에 33억 6000만원을 지급해야 한다. &lt;br&gt;&lt;br&gt;이씨는 이 재판에서 아무런 변론도, 대응도 하지 않았다. 이에 따라 법원은 이씨가 자백한 것으로 간주하고, 국가가 청구한 33억 6000만원 전액을 그대로 인용했다.&lt;br&gt;&lt;br&gt;김제 가족 간첩단 사건은 1982년 전북 김제에서 농사를 짓던 최을호씨가 북한에 납치됐다가 돌아온 뒤 발생했다. 최씨는 조카 최낙전·최낙교씨를 포섭해 함께 간첩 활동을 한 혐의로 경찰에 붙잡혔다. 이는 이근안이 서울 남영동 대공분실에서 40여일 간 이들에게 고문을 해 허위로 자백을 받아낸 결과다.&lt;br&gt;&lt;br&gt;최을호씨는 사형이 확정돼 1985년 10월 집행됐고, 조카 최낙교씨는 검찰 조사 중 구치소에서 숨졌다. 징역 15년을 선고받았던 최낙전씨는 9년간 복역하다 석방된 뒤 극단적 선택으로 생을 마감했다.&lt;br&gt;&lt;br&gt;이후 유족들은 재심을 청구했다. 재심을 맡은 법원은 최을호씨와 조카들에게 경찰의 고문·가혹 행위가 있었음을 인정해 2017년 무죄를 선고했다. 이후 유족은 2018년 국가를 상대로 제기한 114억원대 손해배상 소송에서도 이겼다. &lt;br&gt;&lt;br&gt;이근안 때문에 수백 억원을 지출하게 된 정부는 이씨를 상대로 배상금 중 일부를 부담하라며 지난해 이 구상금 소송을 제기했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 서울대 인문대 49년 역사상 첫 여성 학장 탄생…영문과 안지현 교수</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/19/LQRL3SS67ZGGTIPHWCFRHU6F3I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/19/LQRL3SS67ZGGTIPHWCFRHU6F3I/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Jul 2024 08:48:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DWBQCXSXTNCQPJB7ZHPCSZ3D4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대 영어영문학과 안지현 교수/본인 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대 인문대에 첫 여성 학장이 탄생했다. 미국 문학을 전공한 안지현(55) 영어영문학과 교수가 그 주인공으로 오는 23일 2년 임기를 시작한다.&lt;br&gt;&lt;br&gt;서울대 관계자에 따르면 안 신임 학장은 지난 5월 말 신임 인문대학장 선거에서 결선투표 끝에 당선됐다. 안 신임 학장은 1975년 출범한 서울대 인문대의 49년 역사상 첫 여성 학장이다. 안 신임 학장은 인문대 학장 선거에 출마한 첫 여성 교수였다고 한다.&lt;br&gt;&lt;br&gt;서울대 인문대는 1946년 출범한 문리과대학의 후신이다. 같은 문리대 후신인 사회대는 2022년 권숙인 인류학과 교수가 최초 여성 학장에 당선됐다. 자연대에선 아직 여성 학장이 나오지 않았다.&lt;br&gt;&lt;br&gt;안 신임 학장은 이날 본지 통화에서 “선거 운동 기간에 한 번도 여성임을 부각한 적은 없었다”고 했다. 그는 “젊은 여성 학장의 탄생으로 인문대가 전환점을 맞이해 새로운 변화를 모색할 수 있을 것이란 기대감이 느껴진다”며 “책임감이 막중하다”고 했다. 그는 “인문대는 인공지능(AI) 시대라는 새로운 도전에 직면한 상황”이라며 “인문대의 교육 혁신, 차세대 인문학자 양성을 위해 힘쓰겠다”고 했다.&lt;br&gt;&lt;br&gt;안 신임 학장은 서울대 영어영문학과에서 1992년 영문학 학사를, 1994년 석사 학위를 취득했다. 2003년 미국 시카고대에서 박사 학위를 받았다. 2004년부터 서울대 영문과 교수로 일해온 그는 서울대 발전기금 본부장, 인문대 국제화지원센터장, 서울대 미국학연구소장 등을 지냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>평택 세교지하차도 차단 20분 후 물바다...오송 참사 재발 막았다</title>
+      <link>https://www.chosun.com/national/regional/2024/07/19/RUBLD43CFZAFPFQQ5ZG3PTLKKY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/19/RUBLD43CFZAFPFQQ5ZG3PTLKKY/</guid>
+      <dc:creator>평택=권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Jul 2024 08:40:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UCYQCHJCQZFJJOH6MOLW5RU6HU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 18일 길이 760m에 왕복 4차로인 평택 세교지하차도가 완전히 물에 잠겨 있다. /평택시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;극한 호우가 중부지역을 휩쓸던 지난 18일 오전 9시30분 쯤 평택시에도 장대비가 내리고 있었다. 평택시 남부권의 도로 유지보수 용역을 맡고 있는 대기토건 직원들은 담당 구역을 돌며 예비순찰에 분주했다. 그런데 세교동 세교지하차도 바닥의 침수가 심상치 않았다. 하부에 설치된 집수정의 수위에 맞춰 펌프 4대가 단계적으로 가동되지만 발목 높이까지 물이 차오르고 있었다.&lt;br&gt;&lt;br&gt;이 업체 직원 4명은 곧바로 평소 훈련 내용과 매뉴얼대로 ‘선 조치, 후 보고’ 지침에 따라 출입 통제에 나섰다. 서둘러 길이 760m, 왕복 4차로 지하차도를 비우고 양쪽 입구에 출입통제 표시 전광판이 달린 사인카를 한 대씩 배치했다. 지하도 입구에는 ‘출입금지’ 테이프도 둘렀다. 당시 대기하고 있던 차량 40여대도 통제에 따랐다. 9시40분쯤 차단조치가 완료됐다.&lt;br&gt;&lt;br&gt;그런데 불과 20분만인 10시쯤 지하차도는 완전히 물에 잠겨 버렸다. 약 300m 근처의 하천인 도일천이 범람해 주변 농경지의 물이 밀려들었기 때문이다. 자칫하면 지난해 청주 오송지하차도와 유사한 재난이 일어날 수도 있었다. 신속한 판단과 대응으로 참사를 막은 평택시와 관리업체 직원들은 가슴을 쓸어내렸다.&lt;br&gt;&lt;br&gt;평택시에 따르면 이날 새벽 2시30분 호우주의보가 발령되자 도로관리과 도로정비팀 직원 6명은 비상근무에 들어갔다. 또 용역업체들과 공조해 15개 지하차도를 중심으로 감시카메라(CCTV) 화면을 확인하며 예찰 활동에 나섰다. 특히 세교지하차도는 규모가 컸기 때문에 더욱 주의를 기울였다. 이곳은 자동 진입차단 시설도 정상 가동을 시작하기 전이었다.&lt;br&gt;&lt;br&gt;도로관리과 조병훈 주무관은 “오전 6시30분 호우경보로 격상되고 8시쯤에는 빗줄기가 굵어져 용역업체 직원 4명을 세교지하차도에 배치했다”며 “밀려든 강물이 6만톤이나 되는데 철저히 대비한 덕분에 사고를 예방할 수 있었다”고 말했다. 평택시는 밤샘 작업을 거쳐 19일 오전 11시10분쯤에야 배수 작업을 완료했다. 토사 제거와 청소, 전기·펌프시설 정비 등을 마치고 20일쯤 다시 개통 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OFC4QLC2P5OKZNNSAKEYD7XFQM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;집중 호우로 물에 잠긴 경기 평택시 세교동 세교지하차도에서 19일 배수 작업이 진행되고 있다. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정장선 평택시장은 “작년 오송 참사 이후 호우예비특보 발효 시부터 지하차도 진입 차단 훈련을 10여 차례 실시하는 등 체계적으로 대비해 온 결과”라고 말했다. 18일 저녁 현장을 방문했던 김동연 경기도지사도 19일 경기도 지역 기관장 등이 참석한 기우회(畿友會) 월례회에서 “오송 지하차도 사고의 재판이 될 뻔 했는데 평택시에서 빨리 조치를 하고, 사전 차단을 해서 인명피해가 없었다”고 소개했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“가덕도 신공항 공사 기간 1년 늘린다”... 개항은 2029년 그대로인데?</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/07/19/HAPOKO7ZJBGULCD2EJGCQV3AG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/19/HAPOKO7ZJBGULCD2EJGCQV3AG4/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>정부가 오는 31일 ‘가덕도 신공항 부지 조성 공사’의 입찰 조건을 완화해 3차 입찰을 진행한다고 19일 밝혔다.</description>
+      <pubDate>Fri, 19 Jul 2024 08:49:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BJDJJPZRZBCF7GPJTIULK33QYA.png"&gt;&lt;figcaption&gt;&lt;small&gt;가덕도 신공항 조감도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 부산 가덕도 신공항 건설 기간을 1년 늘리기로 했다. 그동안 건설사들이 짧은 공사 기간 자체가 리스크(위험)라며 입찰 자체에 참여하지 않자 조건을 완화한 것이다. 그러나 2029년 12월 개항은 그대로 추진한다고 밝혔다. 활주로와 여객터미널 등을 우선 시공해 개항하고, 전체 공사는 이후 마무리하겠단 것이다. 업계에선 “핵심은 바뀐 게 없다”는 비판도 나온다.&lt;br&gt;&lt;br&gt;국토교통부는 19일 가덕도신공항 부지 조성 공사의 입찰 조건을 완화해 31일 재입찰을 진행한다고 밝혔다. 사업비 10조5300억원 규모인 이 공사의 입찰은 앞서 두 차례 유찰됐다. 건설사들은 공사 난도는 높은데 공사 기간은 짧아 리스크가 크다며 참여를 꺼려왔다.&lt;br&gt;&lt;br&gt;이에 정부는 공사 기간을 기존 착공 후 6년에서 7년으로 변경했다. 주무 부처인 국토부는 이날 “제한된 공간에서 다양한 공사가 동시 진행되고, 대규모 해양 매립 등 난도가 높다는 점을 고려했다”고 밝혔다. 설계 기간 역시 10개월에서 12개월로 늘어났다. 기본 설계와 실시 설계 기간이 1개월씩 연장된 것이다.&lt;br&gt;&lt;br&gt;다만, 2029년 12월 개항 계획은 유지하기로 했다. 애초 가덕도 신공항은 2035년 6월 개항으로 추진됐지만 2030 부산 세계 박람회(엑스포) 유치를 앞두고 5년 이상 당겨졌다. 국토부는 “주요 공항 시설이 들어설 동측 매립지 공사와 활주로, 여객터미널 등 개항에 필수적인 시설을 우선 시공하고, 서측 부지 및 전체 공사는 공사 기간 내 마무리하겠다”고 했다.&lt;br&gt;&lt;br&gt;‘10대 건설사 중 2개사까지만 공동 도급 허용’이라는 기존 조건도 ‘3개사 허용’으로 바꾸기로 했다. 이에 따라 상위 10개사 중 3개사가 참여한 컨소시엄이 꾸려진다. 국토부는 “높은 난도에 따른 위험 분담이 필요하다는 건설사 주장을 받아들인 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>”홀가분하게 외국 가려고”...설 연휴 어머니 살해한 30대 ‘징역 20년’ </title>
+      <link>https://www.chosun.com/national/incident/2024/07/19/PHTAP67SIRDCDLTRKCPZLG4F7I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/19/PHTAP67SIRDCDLTRKCPZLG4F7I/</guid>
+      <dc:creator>의정부=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Jul 2024 08:47:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XRWNITF3W6BB4SFDEONCXK2VQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설날 술에 취해 어머니를 살해한 30대 탈북민에게 1심 법원이 중형을 선고했다.&lt;br&gt;&lt;br&gt;19일 법조계에 따르면 의정부지법 고양지원 형사합의1부(재판장 김희수)는 존속살해 혐의로 기소된 A(33)씨에게 징역 20년을 선고했다. 또 10년간의 위치추적 전자장치(전자발찌) 부착을 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2월 9일 경기 고양시 아파트 자택에서 50대 어머니를 흉기로 살해한 혐의로 구속기소됐다.&lt;br&gt;&lt;br&gt;A씨는 범행 전 구치소에서 알게 된 지인으로부터 함께 베트남으로 가자는 제안을 받고, 유일한 가족인 모친을 살해하면 홀가분한 마음으로 베트남으로 갈 수 있다는 생각에 범행을 저지른 것으로 밝혀졌다. 지난 2006년 부모와 함께 탈북한 A씨는 아버지가 사망하고 어머니와 둘이서 살았던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;재판부는 “사람의 생명을 빼앗는 행위는 피해가 회복에 이를 수 없어 엄한 처벌을 하지 않을 수 없는데, 특히 부모를 살해한 행위는 반인륜·반사회적 범죄”라면서 “피고인은 다른 사건으로 실형을 선고받은 전과가 있고 누범 기간인데 범행을 저질렀다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;이어 “재범 위험성이 ‘높음’ 수준으로 평가된 점, 미혼이고 형제가 없으며 부모가 모두 사망해 가족이 없는 점 등에 비추어 피고인이 살인 범죄를 다시 범할 위험성이 있다”면서 “다만 범행을 인정하고 있는 점 등을 참작했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 검찰은 “범행 수법이 잔인하고 패륜적이라 엄중한 처벌이 불가피하다”며 무기징역을 구형했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법, 신체·진료기록 감정료 2배로 인상 “재판 지연 해소책”</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/19/P3ZOZ5Z4FNE5FK3U64M7LWJEKA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/19/P3ZOZ5Z4FNE5FK3U64M7LWJEKA/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Jul 2024 09:00:01 +0000</pubDate>
+      <content:encoded>대법원이 재판 지연의 주 원인으로 지목돼 온 ‘신체 및 진료기록 감정 비용’을 각각 2배씩 인상하기로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VWPUDKDU6CZ5VNXUZSMG6TYWNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원은 지난 18일 대한의사협회(의협)와 ‘재판 의료감정절차 개선을 위한 간담회’를 개최했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;이날 간담회에서 대법과 의협은 다른 분야에 비해 의료 감정료가 낮다는 지적에 따라 신체감정을 과목당 40만원에서 80만원으로, 진료기록 감정을 60만원에서 120만원으로 각각 2배씩 올리기로 결정했다.&lt;br&gt;&lt;br&gt;민사상 손해배상 사건 등에선 신체 및 진료기록 감정이 필요한 경우가 많다. 감정 자료가 사건·사고로 발생한 피해를 입증하는 객관적 증거가 되기 때문이다. 하지만 낮은 감정료와 감정기관의 부족으로 감정이 지연되면서, 재판 지연으로 이어진다는 지적이 제기됐다.&lt;br&gt;&lt;br&gt;이에 대법과 의협은 감정 가능한 병원 수를 확대하기 위해 국공립병원, 대학부속병원, 종합병원 소속 의사들에게 감정인 명단 등재를 독려하겠다고 밝혔다. 또 의사 등 전문가로 이뤄진 감정관리위원을 위촉하고, 고등법원 권역별로 감정절차 관리 기구를 설치해 감정 지연을 개선하겠다고 했다.&lt;br&gt;&lt;br&gt;대법과 의협은 “앞으로도 의료감정을 통해 국민들의 정당한 권리구제에 적극 참여할 수 있도록 협력하고, 의료감정제도 개선과 관련 교육에 관해 지속적으로 소통할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;한편 대법원장 자문 기구인 사법정책자문위원회도 지난 16일 의료 감정 제도 개선을 조희대 대법원장에게 건의했다. 사법정책자문위는 지연이 잦은 의료 감정의 기본 감정료를 높여 적정한 보상책을 마련하고, 진료 기록 감정의 경우 일정 자격을 갖춘 개인도 감정인이 될 수 있게 하자고 제안했다. 감정 절차를 관리하는 별도 기구를 설치하고, 감정인에 대한 평정을 활성화하는 방안 등도 제시됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>도주 18년만에 꼬리밟힌 성폭행 수배자… 혐의 인정 질문에 “네”</title>
+      <link>https://www.chosun.com/national/regional/honam/2024/07/19/2224FYQJLNFNRKZ4EQHES7FQNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/07/19/2224FYQJLNFNRKZ4EQHES7FQNE/</guid>
+      <dc:creator>목포=조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Jul 2024 08:52:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KNOV3RX45O26423LV6PYKNCNKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;성범죄를 저지르고 18년간 도망 다니다 붙잡힌 김모씨가 19일 오전 광주지법 목포지원에서 영장실질심사를 받기 위해 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성범죄를 저지르고 18년간 도주 행각을 이어온 중요 지명수배 피의자가 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;전남 목포경찰서는 특수강간 등 혐의로 체포한 김모(54)씨에 대해 19일 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;김씨는 이날 오전 10시 30분쯤 영장실질심사를 받기 위해 광주지법 목포지원에 출석했다. 검은 뿔테 안경과 마스크를 쓴 그는 아무런 말 없이 법원으로 들어갔다. 영장실질 심사는 약 20분간 진행됐다. “혐의를 인정하느냐” 는 취재진의 질문에 고개를 끄덕이며 “네”라고 답했다. 도피 이유와 이후 생활을 묻는 질문에는 대답하지 않았다.&lt;br&gt;&lt;br&gt;김씨는 2006년 9월 목포시 한 주택에 침입해 여성을 성폭행한 혐의를 받고 있다. 2012년부터 올해 7월까지 12년간 전국 각 경찰서의 중요 지명 피의자로 공개수배됐다. 공개수배 전단에는 ‘신장 170㎝, 보통 체격, 안색이 흰 편, 전라도 말씨’ 등의 특징이 적혀 있다. 공소 시효는 2028년 만료될 예정이었다.&lt;br&gt;&lt;br&gt;김씨는 수배 전단을 본 시민의 신고로 18년 만에 덜미가 잡혔다. 지난 17일 서울 동대문구 한 내과의원에서 실명을 사용하며 치료를 받다 검거됐다고 경찰은 밝혔다. 김씨는 서울에서 일용직을 전전하며 도피행각을 벌였고, 병원 등에서는 타인의 이름을 썼던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 사건이 발생했던 목포로 김씨를 압송해 사건 경위, 도주 과정 등을 조사하고 있다. 사안의 중대성 등을 고려해 곧바로 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/BHMKH6POYNOHJJG34YKIKA5GJ4.JPG?width=1877&amp;height=1247&amp;auth=5c175910c6b261cfd9d75817614d31b43cebe83880e3a908c20556b8be01c327&amp;smart=true" type="image/jpeg" height="1247" width="1877">
+        <media:description type="plain">(목포=뉴스1) 이승현 기자 = 성범죄를 저지르고 18년간 도망 다닌 중요 지명수배 피의자가 김 모씨가(54) 19일 오전 광주지법 목포지원에서 영장실질심사를 받기 위해 법원으로 이동하고 있다. 
+
+김 씨는 지난 2006~2007년 전남 등지서 성폭행·특수강도 등을 저질러 2012년부터 지명수배가 내려졌다. 2024.7.19/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(목포=뉴스1) 이승현 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘국산 마늘빵’ 한봉지 1960원...우체국 쇼핑몰에 ‘중증 장애인 생산품’ 코너 입점</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/07/19/5IT7EY6HS5BKNBYGUFB7GD4Q6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/19/5IT7EY6HS5BKNBYGUFB7GD4Q6A/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Jul 2024 08:41:53 +0000</pubDate>
+      <content:encoded>우체국 쇼핑몰(&lt;a href="http://mall.epost.go.kr" target="_blank"&gt;mall.epost.go.kr&lt;/a&gt;)에 최근 중증 장애인들이 만든 쿠키, 세탁 세제 등을 파는 ‘꿈드래 중증장애인생산품 온라인 브랜드관’이 입점했다. 일부 온라인 쇼핑물에서 중증 장애인들이 만든 일부 품목이 판매된 적은 있지만, 전용 브랜드관을 만들어 다양한 중증 장애인 생산품을 팔게 된 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;한국장애인개발원(원장 이경혜)에 따르면, 지난 8일 오픈한 ‘꿈드래 중증장애인생산품 온라인 브랜드관’에서는 커피 원두, 세탁·주방 세제, 홍삼, 조미김, 빵, 과자 등 41개 품목을 판매하고 있다. 현재 이 쇼핑몰의 지역 브랜드관에 들어가면 중증 장애인 생산품 구매 전용 ‘30% 할인 쿠폰’도 지급하고 있다. 박영순 한국장애인개발원 소통홍보팀장은 “판매 상품의 가격은 2000원부터 3만원대여서 구매 부담이 높지 않을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DSO5Z5RBYVGDLFE4AHXJLWEPB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;우체국 쇼핑몰에서 판매되고 있는 중증 장애인 상품 중 하나인 빵. 원료 대부분이 국내산이다. /우체국 쇼핑몰 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중증 장애인 생산품은 일반 기업 생산품에 비해 판매 수량은 적지만, 품질은 더 뛰어나다는 평가를 받을 때가 많았다. 보건복지부 관계자는 “중증 장애인들이 만든 화장지, 면장갑, 향초 등은 상대적으로 저렴하면서도 품질이 좋다는 평가를 받았다”고 했다.&lt;br&gt;&lt;br&gt;한국장애인개발원은 지난 4월 한국우편사업진흥원과 우체국 쇼핑몰 내 중증 장애인 생산품 전용 쇼핑몰을 신설하는 업무협약을 체결했었다.&lt;br&gt;&lt;br&gt;이경혜 한국장애인개발원 원장은 “공공기관 우선 구매 담당자만 구매할 수 있는 중증 장애인 생산품 전용몰인 ‘꿈드래’와는 달리, 우체국 쇼핑몰에선 국민 누구든 중증 장애인이 만든 제품을 구입할 수 있다”며 “더 많은 민간 온라인 쇼핑몰에도 중증 장애인 생산품 브랜드관이 신설돼, 장애인의 일자리와 소득이 늘어나길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“엄마만 믿어” 자녀 학대하고 학교도 안 보내...50대 친모 구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/19/K4Z6GRPQZ5B5XPNAYBG7LB7FRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/19/K4Z6GRPQZ5B5XPNAYBG7LB7FRQ/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>자신의 자녀를 다섯살 때부터 장기간 학대하고 홈스쿨링을 명목으로 학교까지 보내지 않은 50대 여성이 구속 상태로 재판에 넘겨졌다.춘천지검 형사2부(부장 홍승현)는 아동복지법상 아동학대 등 혐의로 A(52)씨를 구속 기소하고 친권상실 재판을 청구했다고 19일 밝혔다.</description>
+      <pubDate>Fri, 19 Jul 2024 08:43:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F2MSZP55RRX7GS4YYF4AJI3KFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지검. /뉴스1
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;친자녀를 다섯살 때부터 장기간 학대하고 홈스쿨링을 명목으로 학교도 보내지 않은 50대 여성이 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;춘천지검 형사2부(부장 홍승현)는 아동복지법상 아동학대 등 혐의로 A(52)씨를 구속 기소하고 친권상실 재판을 청구했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 4월 12일 오후 8시쯤 ‘1주일에 2시간의 TV 시청 시간제한을 어겼다’는 이유로 중학생 아들인 B군을 수차례 때린 혐의를 받고 있다. A씨는 이튿날 새벽에도 잠자던 B군을 깨워 또다시 폭행을 가했다. A씨는 B군이 다섯살일 때부터 방을 치우지 않았다는 등의 이유로 폭행해 온 것으로 조사됐다.&lt;br&gt;&lt;br&gt;또 A씨는 B군을 두 달에 한번 외출시키고 초등학교 2학년 때부터 ‘홈스쿨링’을 명목으로 학교에 보내지 않는 등 폐쇄적인 환경에서 양육하고, “아무도 믿지 말고, 엄마만 믿어야 한다”며 B군의 심리적 지배를 지속해 온 것으로 드러났다.&lt;br&gt;&lt;br&gt;A씨는 이와 함께 지난해 7월 교통사고를 낸 뒤 “피해자가 자해했다”고 주장하며 허위 고소장을 낸 혐의(무고)도 적용돼 함께 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “아동학대 범죄에 엄정하게 대응하고 피해 아동을 다각도로 지원하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세]  7월 21일 일요일 (음력 6월 16일 丙戌)</title>
       <link>https://www.chosun.com/national/national_general/2024/07/19/ZLXQC55NFJD5PFC6C5ABZPO5GI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/19/ZLXQC55NFJD5PFC6C5ABZPO5GI/</guid>
@@ -834,15 +931,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OEL47APBY5PCTCDRDTCIFZX5UY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;축구대표팀 감독 선임 과정에 공개적으로 문제를 제기한 전 국가대표 박주호가 18일 서울 송파구 롯데월드몰에서 열린 세븐일레븐, K리그·산리오캐릭터즈 팝업스토어 오픈 행사에서 취재진 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한축구협회의 홍명보 축구 국가대표 감독 선임 과정에 대해 문제를 제기한 박주호 전 국가대표팀 전력강화위원이 “공정하게 선임됐다면 이런 일 없었을 것”이라며 소신 발언을 이어나갔다.&lt;br&gt;&lt;br&gt;박주호 전 위원은 18일 서울 송파구 롯데월드타워에서 열린 ‘FC세븐일레븐 with K리그x산리오캐릭터즈 프리오픈데이’에서 취재진을 만나 “한국 축구 발전에 있어서 ‘이 사안은 꼭 얘기해야겠다’고 판단을 했기 때문에 영상을 올렸다”라며 “대한축구협회 관계자분들 중 개인적으로 아는 분들의 연락은 많이 받았지만 공식적인 연락을 받은 바 없다”고 했다.&lt;br&gt;&lt;br&gt;그는 ‘이 정도의 파장을 예상했느냐’는 질문에는 “(전력강화위원회)안에서 있었던 5개월간의 얘기를 전하는 데 초점을 뒀고 한국 축구 발전에 도움이 된다고 판단해서 얘기했지 다른 복잡한 생각은 안 했다”고 말했다.&lt;br&gt;&lt;br&gt;그는 “(감독 선임 과정에서) 체계적인 시스템이 필요했다. 공정성과 투명성을 갖고 공개되는 부분이 있어야 했는데 공정성과 투명성 같은 부분들이 정확하지 않았기 때문에 복잡한 상황이 나왔다”고 했다.&lt;br&gt;&lt;br&gt;이영표, 박지성 등 선배들이 힘을 실어주고 있다는 말에는 “모두가 저와 똑같은 마음이지 않나 생각한다. 개인적인 생각에서 나오는 이야기지만 한국 축구 발전을 위해 조금 체계적으로 변한다면 더욱 성장하는 한국 축구가 되지 않을까, 그리고 발전할 수 있지 않을까 라는 모두의 바람”이라고 했다. 다만 현역 선수인 후배들이 어떤 반응을 보였는지 묻자 “따로 말씀드릴 내용은 없는 것 같다”고 짧게 답했다.&lt;br&gt;&lt;br&gt;‘감독이 이미 선임된 만큼 힘을 실어줄 때’라는 취지의 이회택 원로의 발언에 대해선 “정상적으로 공정하게 선임이 됐으면 이런 문제가 일어나지 않았을 것”이라며 “앞으로 행보를 지켜보며 객관적으로 판단해야 할 것 같다”고 했다.&lt;br&gt;&lt;br&gt;올해 2월부터 전력강화위원으로 활동한 박주호는 지난 8일 자신의 유튜브 채널을 통해 전력강화위원회 활동과 감독선임 과정이 공정한 절차로 이뤄지지 않았다는 취지로 문제를 제기했다. 이에 협회 측은 “박주호 전 위원이 자의적인 시각으로 왜곡한 바 언론과 대중에게 커다란 오해를 불러일으키고 있는 상황에 대해 심각한 우려와 유감을 표한다”며 법적 대응을 시사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“바가지 없앤다” 제주 해수욕장 10곳, 파라솔 대여 ‘2만원’ 통일</title>
-      <link>https://www.chosun.com/national/regional/jeju/2024/07/18/HZY47UWNUNEEDALOA3RG6NVUQU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/jeju/2024/07/18/HZY47UWNUNEEDALOA3RG6NVUQU/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 07:40:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V5IYT3WXJGQFICNLMVKQLQY6M4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 23일 제주시 조천읍 함덕해수욕장에서 관계자들이 파라솔을 설치하고 있다. / 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주도가 파라솔 등 해수욕장 편의용품 가격을 18일부터 내렸다. 제주 내 12개 해수욕장 중 10개소에서 파라솔을 2만원에 이용할 수 있다.&lt;br&gt;&lt;br&gt;제주도에 따르면 이날부터 파라솔 하루 대여 가격은 함덕해수욕장의 경우 기존 4만3000원에서 2만원으로 2만3000원 내렸다. 화순금모래와 삼양해수욕장은 3만원에서 2만원으로 1만원 인하했다.&lt;br&gt;&lt;br&gt;금능·협재·이호테우·김녕·월정·신양섭지·표선 해수욕장의 파라솔 대여 가격은 기존대로 2만원이 유지된다. 중문색달해수욕장과 곽지해수욕장 등 2곳의 파라솔 대여 가격은 기존대로 3만원을 받는다.&lt;br&gt;&lt;br&gt;제주도는 해수욕장 편의시설 대여 요금이 비싸다 등의 여론에 따라 해수욕장을 관리하는 각 마을회 관계자와 17일 회의를 열어 편의시설 요금 인하 문제를 논의했다.&lt;br&gt;&lt;br&gt;제주 해수욕장이 위치한 지역의 마을회 등은 해수욕장 개장 기간 제주도로부터 백사장 등 공유수면에 대해 점용·사용 허가를 받아 해수욕장을 관리 운영하고 있다.&lt;br&gt;&lt;br&gt;제주도는 요금 인하 정책에 참여하는 마을회 등에 대해 보조사업 등의 혜택을 제공할 방침이다.&lt;br&gt;&lt;br&gt;정재철 제주도 해양수산국장은 “해수욕장 편의용품 요금 인하 정책에 적극 협조해준 마을과 청년회에 감사드린다”며 “해수욕장 여행객의 만족도와 재방문 효과가 높아질 것으로 기대된다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>핵심기술 빼간 中 ‘위장 연구소’...경찰, 올해 해외 기술유출 12건 적발</title>
       <link>https://www.chosun.com/national/2024/07/18/KKI75LGACNDU3P3XLF7SQEDPEQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/07/18/KKI75LGACNDU3P3XLF7SQEDPEQ/</guid>
@@ -857,52 +945,6 @@
 &lt;저작권자 ⓒ 1980-2021 ㈜연합뉴스. 무단 전재 재배포 금지.&gt;</media:description>
         <media:credit role="author" scheme="urn:ebu">이정훈</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>충주 여중생 집단 성폭행 피고인들...항소심서 ‘유죄’ 판결</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/07/18/TRZJWS25NRDF5OXCHGCMPLEXLE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/07/18/TRZJWS25NRDF5OXCHGCMPLEXLE/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 07:46:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 전경/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고교 시절 여중생을 집단 성폭행한 혐의로 기소돼 1심에서 무죄를 받았던 20대 남성들이 항소심에서 유죄를 선고 받았다.&lt;br&gt;&lt;br&gt;대전고법 청주 제1형사부(재판장 박은영)는 18일 아동·청소년의 성보호에 관한 법률 위반(위계 등 간음) 등 혐의로 기소된 A(20대)씨 등 5명에 대한 항소심에서 징역 2년 6개월에 집행유예 3년을 선고했다고 밝혔다.&lt;br&gt;&lt;br&gt;범행을 주도한 혐의로 함께 재판에 넘겨져 징역 3년 6개월~징역 5년을 선고받은 또 다른 피고인 3명에 대해서는 피해 보상을 위해 노력한 점이 인정돼 징역 2년 6개월~징역 4년으로 감형됐다. 원심에서 무죄를 받았던 피고인 1명에 대해서는 원심과 같은 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;A씨 등은 고등학생이던 2020년 10월 충북 충주의 한 숙박업소에서 평소 알고 지내던 또래 여중생을 집단 성폭행한 혐의로 재판에 넘겨졌다. 이들은 피해자가 집에 보내달라는 요구도 무시하고 강압적으로 성폭행했다.&lt;br&gt;&lt;br&gt;하지만 1심 재판부는 피해자의 진술이 일관되지 않고, 유죄를 확신할 정도로 범행이 입증되지 않았다며 이들 5명에 대해서는 무죄를 선고했다.&lt;br&gt;&lt;br&gt;이에 불복한 검찰은 예비적 공소사실에 아동·청소년의 성보호에 관한 법률 위반(위계 등 간음) 혐의를 더해 항소했다.&lt;br&gt;&lt;br&gt;2심 재판부는 “피의자들이 실제적인 폭행 또는 협박을 했다고 보긴 어렵지만 피해자가 평소 선배들의 과격한 모습을 보며 두려운 마음을 가지고 있었던 점 등을 비춰보면 위력으로 피해자를 간음한 것으로 판단된다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제27대 새마을중앙회 회장에 김광림 전 국회의원</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/18/DACFBAANYFEIVBC53OARIJAOJA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/18/DACFBAANYFEIVBC53OARIJAOJA/</guid>
-      <dc:creator>성남=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 07:40:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3OCN2NM3KVEEJE4KTFIJOG355Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김광림 제27대 새마을운동중앙회장이 18일 오후 경기 성남시 새마을운동중앙회 사옥 대강당에서 열린 임시대의원 총회에서 당선증과 꽃다발을 들고 기념 촬영하고 있다. /새마을운동중앙회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김광림(76) 전 국회의원이 18일 제27대 새마을운동중앙회 회장으로 선출됐다.&lt;br&gt;&lt;br&gt;새마을운동중앙회는 이날 경기 성남시에 있는 중앙회 사옥 대강당에서 임시 대의원총회를 열고 김 전 의원을 신임 회장으로 선출했다고 밝혔다.&lt;br&gt;&lt;br&gt;김광림 새마을운동중앙회장은 영남대학교 경제학과를 졸업하고, 서울대학교와 미국 하버드대학교 케네디스쿨에서 행정학 석사, 경희대학교에서 행정학 박사학위를 받았다. 그는 1973년 제14회 행정고시에 합격해 공직에 입문했으며, 청와대 기획조정비서관, 재정경제부 차관, 세명대학교 총장 등을 역임했다. 제18·19·20대 국회의원과 자유한국당 최고위원 등도 지냈다.&lt;br&gt;&lt;br&gt;김 회장은 “그 어느 때보다도 근면·자조·협동의 새마을정신이 절실하다”며 “새마을정신을 계승하면서, 함께 잘 사는 따뜻한 세상과 인류 공동 번영을 위해 새로운 다짐과 각오로 힘을 모아달라”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“시비건다”유흥주점 손님 폭행한 조폭 구속</title>
-      <link>https://www.chosun.com/national/regional/2024/07/18/63IUE5HCPJAIZOODVJZIOUBAO4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/18/63IUE5HCPJAIZOODVJZIOUBAO4/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 07:39:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LTF2E3XD6RVXNXG6SJEGDM3ZEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“시비를 건다”는 유흥주점 업주의 연락을 받고 찾아가 손님을 폭행한 경북 지역 조직폭력배들이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대구지검 강력부(부장 소창범)는 18일 폭력행위 등 처벌에 관한 법률상 공동상해 혐의 등으로 경북 영천 지역 폭력조직 ‘팔공파’ 소속 조직원 40대 A 씨를 구속 기소하고, 범행에 가담한 폭력조직 ‘우정파’ 소속 조직원 40대 B 씨 등 3명을 불구속 기소했다.&lt;br&gt;&lt;br&gt;검찰에 따르면, 이들은 지난 1월 경북 영천시 한 유흥주점에서 술을 마시고 있던 40대 손님 C씨의 옷을 벗긴 뒤 주점 인근 공터로 끌고 가 폭행해 기절시키고, 손가락을 부러뜨리는 등 상해를 가한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;이들은 유흥주점 업주로부터 “손님이 시비를 건다”는 연락을 받고 찾아가 이 같은 짓을 저지른 것으로 조사됐다. 이들은 또 수사가 시작되자 C 씨에게 합의를 종용하기도 한 것으로 밝혀졌다.&lt;br&gt;&lt;br&gt;검찰은 “조직폭력범죄에 대해 철저하게 수사하고 죄책에 맞는 구속 수사를 하는 등 엄정하게 대응하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보]대법 "코로나 유행 시기 대면 예배 금지 처분은 적법"</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/18/VIN5R6G2M5FELI4F7R5KEJO55U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/18/VIN5R6G2M5FELI4F7R5KEJO55U/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 05:25:38 +0000</pubDate>
-      <content:encoded>[속보]대법 “코로나 유행 시기 대면 예배 금지 처분은 적법”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QC4QROLCNJDHXDXJMFYZSBY2S4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2020년 9월 1일 광주광역시 북구의 한 교회 앞 주차장에 세워진 현수막이 눈길을 끈다. 최근 일부 교회에서 코로나 확진자가 대량 발생하고 일부 교회가 방역에 비협조적인것에 대한 사죄의 뜻을 담았다. 이 교회는 정부방침대로 비대면 예배를 한다고 밝혔다. /김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코로나 확산 방지를 위해 대면 예배를 금지한 지방자치단체의 처분은 적법하다는 대법원 전원합의체 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 전원합의체(주심 이동원 대법관)는 18일 광주 안디옥교회가 광주광역시장을 상대로 제기한 집합금지 취소 청구 소송에서 원고 패소 판결한 원심을 확정했다.&lt;br&gt;&lt;br&gt;대법원은 “비례의 원칙과 평등의 원칙을 위반함으로써 재량권을 일탈하거나 남용해 종교의 자유를 침해한다고 보기 어렵다”며 “이 사건 처분으로 제한되는 원고들의 종교의 자유가 이를 통하여 달성하고자 하는 공익보다 중하다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;대법원은 그러면서 “재량권 일탈·남용의 위법 여부를 판단할 때는 감염병의 특성과 확산 추이, 예방 백신이나 치료제의 개발 여부, 예방 조치를 통해 제한 또는 금지되는 행위로 인한 감염병의 전파 가능성 등 객관적 사정을 기초로 예방 조치가 행정 목적을 달성할 효과적이고 적절한 수단인지, 합리적인 대안은 없는지를 봐야 한다”며 “행정청이 해당 예방 조치를 선택함에 있어서 다양한 공익과 사익의 요소들을 고려했는지, 예방 조치를 통해 달성하려는 공익과 이에 따라 제한될 상대방의 권리나 이익이 정당하고 객관적으로 비교형량이 되었는지 등을 종합적으로 고려해야 한다”고 기준을 제시했다.&lt;br&gt;&lt;br&gt;광주시장은 2020년 8월 27일 코로나 예방과 지역사회의 전파를 막기 위해 9월 10일까지 관내 교회 내 대면 예배를 금지하는 행정 명령을 발동했다. 당시 광주에는 코로나 확진자가 345명에 달했는데, 이중 54명이 26∼27일에 확진됐으며 30명은 특정 교회에서 발생했다. 하지만 교회는 대면 예배를 진행했고, 시 당국이 수사를 의뢰하자 교회는 행정 소송을 냈다. 1·2심은 지자체의 손을 들어주며 교회의 주장을 받아들이지 않았다.&lt;br&gt;&lt;br&gt;대법원 관계자는 “앞으로 반복될 수 있는 감염병 유행 국면에서 국민의 기본권을 제한하는 예방 조치를 할 때 고려해야 할 요소, 전문적인 위험예측에 관한 재량권 일탈·남용 위법에 대한 판단 기준을 제시했다는 판결 의의가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>만인이 외로운 시대…취준생·치매 노인도 동물로 위안 받는다</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/18/U3W5QEBMIFHJDGDVRD2PZOTQ7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/18/U3W5QEBMIFHJDGDVRD2PZOTQ7U/</guid>
-      <dc:creator>안준현 기자, 김나연 인턴기자(서울대 언론정보학 4년)</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 06:05:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6YO5JWLIBJCEPMCNE454H2CHTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오후 서울 광진구 건국대학교 상허도서관에서 학생들이 치료매개견 도담이와 있는 모습/건국대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“도담이. 언니 안아줘. 옳지. 귀엽다 우리 공주!”&lt;br&gt;&lt;br&gt;16일 오후 건국대 상허도서관 1층. 책장이 있어야 할 복도 자투리 공간에 몸무게 27㎏ 강아지 도담이(7)의 발소리와 숨소리가 울렸다. 핑크색 리본과 꽃무늬 스카프를 매고 마치 학생처럼 익숙하게 도서관에 들어온 도담이는 건국대가 초청한 치료매개견. 이곳에선 매주 학업과 취업에 지친 대학생들이 강아지를 쓰다듬거나 함께 행복한 시간을 보내는 ‘해피 타임’ 행사가 열린다.&lt;br&gt;&lt;br&gt;동물과의 교감(交感)을 통해 스트레스를 줄이는 ‘동물매개치료’가 인기다. 대인 관계와 사회 생활에 어려움이나 외로움을 느끼는 남녀노소 모두가 치료 대상이다. 공격성이 적고 사회성이 좋은 강아지, 조랑말, 기니피그, 토끼 등이 활용된다. 이날 건국대를 찾은 도담이는 사회성 훈련과 둔감화 훈련을 거쳐 한국인간동물상호작용연구회의 치료매개견 인증 평가를 받았다. 도담이는 사람을 잘 따르는 온순한 성격의 리트리버와 푸들의 믹스견이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DX6B7YPMHRANPMEIGAWVJY6C3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오후 서울 광진구 건국대학교 상허도서관에서 학생들이 치료매개견 도담이와 있는 모습/김나연 인턴기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해피 타임 행사가 열린 2평 남짓한 공간에는 15명의 대학생·대학원생 참가자들과 훈련사, 도담이가 있었다. 2시간의 짧은 시간 내내 이들은 “귀엽다. 예쁘다”를 연신 말했다. 도담이에게 우스꽝스러운 안경을 씌운 뒤 그 모습을 사진에 담기도 했다. 도담이의 특별한 개인기는 ‘안아줘’. 두 팔을 벌리고 안아달라고 하면 사람 폼 안에 쏙 안긴다.&lt;br&gt;&lt;br&gt;지친 얼굴의 참가자들은 행사가 끝나자 웃음기 가득한 얼굴로 도서관을 나왔다. 건국대 기계항공학부 4학년 이승연(26)씨는 “취업을 위해 자기소개서를 쓰다가 스트레스를 받아 신청했다”며 “강아지 덕분에 마음이 편안해졌다. 스트레스가 풀려 자기소개서를 잘 쓸 수 있을 것 같다”고 말했다. 건국대 응용통계학과 석사과정 정수진(25)씨는 “지난달 행사는 신청이 이틀 만에 마감돼 못 왔는데, 오늘 행사는 기다렸다가 신청 링크가 올라오자마자 예약했다”고 말했다. 이번 행사는 신청 5시간 만에 신청이 마감됐다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KK7Z7D5TXBC4TOIMM3VIUCQES4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오후 서울 광진구 건국대학교 상허도서관에서 학생들이 치료매개견 도담이와 있는 모습/건국대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국 대학교엔 이미 치료를 위한 라이브러리 독(Library dog) 문화가 있다고 한다. 하버드대 카운트웨이 도서관 1층에는 학업에 지친 학생들을 위한 치료용 강아지와 기니피그가 있다. 하버드대는 라이브러리 독을 소개하면서 “번아웃(burnout·극도의 피로)과 스트레스, 불안에 대처하기 위해 반려동물 치료를 제공한다”고 했다.&lt;br&gt;&lt;br&gt;한진수 건국대 교수(수의학과)는 “스트레스가 가장 많은 학생들이 모인 곳이 바로 도서관이라 이런 프로그램을 준비했다”며 “강아지와 교감하면 사랑을 느낄 때 분비되는 옥시토신이 늘어나고 스트레스 호르몬인 코르티솔이 감소한다는 사실은 이미 많은 연구로 증명된 바 있다”고 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EECVWKFTLFAI7DIPZMLYGE7YQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문 내품애센터에서 동물 치료를 하는 모습/서대문구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이같은 동물 치료는 대학뿐 아니라 관(官)에서도 한다. 서울 서대문 내품애센터는 전국 지자체 최초로 동물매개치유를 시작했다. 서울문화예술대학교와 협업해 매주 화요일은 경증 치매 노인을, 수요일은 젊은 층과 어린이를 대상으로 동물매개치유교실을 운영한다. 박성철 서울문화예술대학교 교수(반려동물학과)는 “강아지의 이름을 부르고 기억하는 것으로도 경증 치매 노인들의 인지 훈련에 큰 도움이 된다”고 설명했다. 또 “치료매개견은 사람을 좋아하는 견종”이라며 “매개치유는 사람 뿐 아니라 강아지도 행복하게 만든다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HCQ42MKGLNH3JKSCN2U444LHUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노인들이 조랑말을 쓰다듬는 홀스테라피를 하는 모습/한국마사회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강아지 대신 조그마한 조랑말을 쓰다듬으며 마음을 안정시키기도 한다. 한국마사회 부산경남공원은 조랑말을 활용한 ‘홀스테라피’를 제공한다. 원래 치매로 어려움을 겪는 노인이 대상이었는데, 입 소문을 타며 대상을 늘려가고 있다. 지난 5월과 6월엔 교권침해를 당한 교원을 대상으로, 이번 달엔 외상 후 스트레스장애(PTSD)를 겪는 소방공무원과 그 가족이 대상이다. 이 행사에 참가한 소방공무원 가족들은 “귀여운 말과 함께 즐거운 시간을 보낼 수 있어 PTSD로 인한 고통을 잊을 수 있었다”고 했다.&lt;br&gt;&lt;br&gt;한국마사회 부산운영지원부 관계자는 “소방공무원처럼 우리 사회를 위해 노력하지만, 심리적 지원이 필요한 분들을 대상으로 도움을 드리기 위해 노력하고 있다”며 “앞으로 사업 대상을 확대해나갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VJ66YDF4NJC4PPDDKOR2JRJNWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홀스테라피를 하는 모습/한국마사회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6YO5JWLIBJCEPMCNE454H2CHTU.jpg?width=4885&amp;height=3257&amp;auth=a6e9ccb7954c0aa3eea722f8bd889ce38a97c9d965e58073bd00f5b29aaea8b2&amp;smart=true" type="image/jpeg" height="3257" width="4885"/>
     </item>
     <item>
       <title>“어르신과 같이 주무시면 월급 120만원”…논란 부른 간병인 공고글</title>
@@ -921,48 +963,6 @@
       <description/>
       <pubDate>Thu, 18 Jul 2024 05:40:35 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J2LOVR72PNOZXMTYRLNAGJ6DL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 집중호우로 인천시 강화군 갑곳리의 한 아파트 옹벽이 무너져 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천에 내린 집중호우로 주택 주변의 옹벽 등이 무너지는 사고가 잇따랐다.&lt;br&gt;&lt;br&gt;18일 인천소방본부에 따르면 이날 오전 10시 3분쯤 인천시 강화군 강화읍 갑곳리의 한 아파트 담장이 무너졌다. 다행히 인명피해는 없었다. 사고 현장 접근을 통제한 경찰과 소방 당국은 계속된 폭우로 지반이 약해져 사고가 발생한 것으로 보고, 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;이날 오전 1시 35분쯤엔 강화군 내가면 외포리 주택가 주변 옹벽의 붕괴 위험으로 주민 5명이 대피하기도 했다. 이날 낮 12시 30분 기준 강화군 불은면이 최대 396㎜의 누적 강수량을 기록하는 등 강화군 지역에 많은 비가 내렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KATL4HQZTJCNBI7D5A6YT566SY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 17일 오후 7시 25분쯤 옹벽이 무너진 인천시 중구 송월동 현장. /이현준기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전날 오후 7시 25분쯤엔 인천 중구 송월동의 한 주택 옹벽 일부가 무너져 옹벽 위 주택에 사는 3가구 주민 8명이 인근 노인정과 지인 집 등으로 거처를 옮겼다. 소방 당국은 붕괴된 옹벽 주변에 대한 출입을 통제하고 있다. 또 서구 왕길동 사월마을 일대가 침수되는 등 인천 지역 비 피해가 잇따르고 있다.&lt;br&gt;&lt;br&gt;인천과 강화, 옹진 등 지역엔 이날 현재 호우경보가 발효돼 있다. 수도권에는 이날 오후까지 시간당 30∼60㎜의 매우 강하고 많은 비가 내릴 것으로 예보됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/44AI7ZSMHNCIBLPCT2GF4JZDXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 오전 9시 15분쯤 인천시 서구 왕길동 사월마을 일대가 침수됐다. /인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전남대·조선대병원, 전공의 사직처리 유보하고 복귀 설득키로</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/18/L6CTXNAX3JEDJOITE6ZX6NVOEM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/18/L6CTXNAX3JEDJOITE6ZX6NVOEM/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 04:44:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4NUDLD2ZVNIAJLFVOD35ZGWHAM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;18일 서울 한 대학병원에서 환자와 보호자가 진료를 기다리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주·전남지역 상급종합병원인 전남대병원과 조선대병원이 전공의 사직서 수리를 유보하기로 결정했다.&lt;br&gt;&lt;br&gt;18일 전남대병원에 따르면 병원은 소속 전공의 231명이 제출한 사직서 수리를 유보하기로 했다. 조선대병원도 소속 전공의 96명의 사직 처리를 미루기로 했다. 각 병원은 사직서 처리 유보 방침과 함께 전공의들의 복귀 설득에 나설 방침이다.&lt;br&gt;&lt;br&gt;전남대병원과 조선대병원 전공의들은 정부의 의대 정원 확대 방침 발표 이후 수개월째 병원에 사직서를 내고 출근하지 않고 있다. 정부는 지난 15일을 전공의 사직서 수리 마감시한으로 지정했었다. 사직서를 제출한 전남대·조선대병원 전공의들은 병원의 사직 혹은 복귀 여부에 응답하지 않고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;각 병원은 “사직의사가 명확히 파악되지 않아 사직 처리를 보류한 상황”이라며 “전공의 사직 유보 마감시한은 정하지 않았다”고 설명했다. 이어 “전국 수련병원과 전공의 사직 처리 부분이나 설득 작업에 대해 전반적인 논의를 진행 중”이라고 했다.&lt;br&gt;&lt;br&gt;전남대병원은 전날까지 수령환경평가위원회(이하 수평위)에 제출할 하반기 전공의 모집 대상 인원으로 소아청소년과, 흉부외과 등 상반기에 확보하지 못한 전공의 정원 28명을 신청했다. 조선대병원은 임용포기 인턴 36명, 정원 미확보 레지던트 4명 등 40명 정원만 수평위에 신청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4NUDLD2ZVNIAJLFVOD35ZGWHAM.JPG?width=3392&amp;height=1988&amp;auth=d3c6a84203636fd9d5bd0c40ac1fcdf85d0f80efff1ddeac4a9ac3a19b2b6c8c&amp;smart=true" type="image/jpeg" height="1988" width="3392">
-        <media:description type="plain">(서울=뉴스1) 김명섭 기자 = 18일 서울 한 대학병원에서 환자와 보호자가 진료를 기다리고 있다. 
-
-18일 의료계에 따르면 각 수련병원은 정부 요청에 따라 전날(17일)까지 미복귀 전공의들을 사직 처리하고, 결원 규모를 확정해 보건복지부 직속 수련환경평가위원회에 제출 한다. 2024.7.18/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 김명섭 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>수도권 집중호우 19일까지 계속…최대 150㎜</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/07/18/HHHDLRNRGVB37BYEANMAYDQDOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/18/HHHDLRNRGVB37BYEANMAYDQDOY/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 04:37:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z4CXMBK5EAOPAD4UBDEIOK7SDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수도권 지역에 많은 비가 내린 18일 오후 경기 오산시 오산천이 폭우로 인해 범람해 있다. 2024.7.18/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한반도 상공에서 북쪽 건조 공기와 남쪽 북태평양고기압이 ‘강 대 강’ 충돌을 이어가며 19일까지 수도권·전북권에 150㎜ 이상의 집중호우가 이어지겠다고 기상청이 18일 밝혔다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 북태평양고기압이 남부지방까지 세력을 확장하고 한반도 북쪽 기압골의 영향으로 건조공기가 대거 내려오면서 중부지방에 비구름대가 강하게 발달하겠다. 여기에 비의 씨앗이 되는 수증기를 대거 품은 남서풍이 강하게 밀려들어 비구름대 덩치를 키우겠다. 장마전선에 건조 공기가 붙으며 중규모 저기압까지 발달하면서 폭우로 이어지겠다.&lt;br&gt;&lt;br&gt;18일 중부지방에는 늦은 오후까지 시간당 30~70㎜의 비가 쏟아지겠다. 이후 19일 새벽에는 장마전선이 북태평양고기압 수축에 맞춰 남부지방 쪽으로 내려가겠고, 중규모 저기압도 들어오면서 남부에 19일 새벽까지 시간당 강수량 20~30㎜ 비가 이어지겠다.&lt;br&gt;&lt;br&gt;토요일인 20일 새벽에는 북태평양고기압이 다시 확장하면서 장마전선이 북상하겠고, 서해상에서 또 저기압이 들어와 많은 비를 뿌리겠다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IO2NA2HVR5KXNOPO34JOCSRJHM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;중부지방에 폭우가 내리고 있는 18일 충남 당진전통시장이 침수 돼있다. 2024.7.18/당진시 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청은 19일까지 중부지방을 중심으로 최대 150㎜의 비가 더 내리고 20일에도 많게는 80㎜의 비가 쏟아져 내릴 것으로 예상했다. 19일까지 예상 강수량은 수도권·강원내륙·강원산지·충청·호남권 30~150㎜, 경북북부·대구·경북남부·부산·울산·경남 30~120㎜, 제주 5~40㎜ 등이다.&lt;br&gt;&lt;br&gt;20일은 수도권·충청권 30~80㎜, 강원도·전북권 20~70㎜, 광주·전남권 20~60㎜, 대구·경북권 10~60㎜, 부산·울산·경남권 5~40㎜, 제주 5~10㎜로 예보됐다. 다만 20일은 북태평양고기압 확장세나 서쪽에서 들어오는 저기압 강도에 따라 강수량이 달라질 수 있다.&lt;br&gt;&lt;br&gt;일요일인 21일까지는 정체전선이 남북으로 오르락내리락하면서 중부지방과 남부지방에 모두 비를 뿌리다가 22일부터는 수도권~강원도 일대에 장마전선이 걸치며 이 지역에만 장맛비가 내릴 것으로 예상된다. 남부지방은 이때부터 낮 최고기온이 33도를 넘고 열대야가 반복되는 폭염이 이어질 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 경기 안성 고삼저수지에서 낚싯배 전복...2명 실종</title>
-      <link>https://www.chosun.com/national/regional/2024/07/18/LLLYVTB5TFF5XM27IXJHSGFJOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/18/LLLYVTB5TFF5XM27IXJHSGFJOY/</guid>
-      <dc:creator>수원=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 02:53:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CV6GFCMMXRANPEDAYFP5PLKPUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 안성시 고삼저수지 낚시터에서 18일 전복사고가 발생해 2명이 실종됐다. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 오전 10시 46분쯤 경기도 안성시 고삼면 고삼저수지 낚시터에서 낚싯배가 전복되는 사고가 발생해 2명이 실종됐다.&lt;br&gt;&lt;br&gt;이날 사고는 낚시터 좌대에서 낚시꾼들이 타고 나오던 배가 갑자기 뒤집어지면서 일어난 것으로 알려졌다. 이 사고로 배에 타고 있던 3명 중 1명은 스스로 대피해 신고했으며, 60대와 40대 남성 2명은 실종된 상태이다.&lt;br&gt;&lt;br&gt;현재 사고 현장은 거센 비로 인해 수위가 높아진 데다 흙탕물이어서 시야 확보가 어려운 것으로 전해졌다. 소방 당국은 특수대응단 등을 투입해 구조 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경기남부도 극한 호우...수위 상승에 오산천·진위천 등 홍수경보 잇따라</title>
-      <link>https://www.chosun.com/national/regional/2024/07/18/W2AO72TQNJFU5A4EV7WCAI2EJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/18/W2AO72TQNJFU5A4EV7WCAI2EJY/</guid>
-      <dc:creator>수원=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 02:43:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UIHAI7I5LRJOTCB6OA2BNU4L2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 오전 수도권 지역에 내린 폭우로 경기도 평택시 송탄로 한 부지에 주차된 차량이 물에 잠겨 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 경기남부 전역에도 호우특보가 발효된 상태에서 시간당 최대 88.5㎜의 폭우가 쏟아지면서 주택이 침수되고 도로가 통제되는 등 피해가 잇따랐다.&lt;br&gt;&lt;br&gt;수도권기상청에 따르면 이날 오전 0∼9시 지역별 누적 강수량은 화성(향남) 169㎜, 오산 128.5㎜, 평택(서탄) 118㎜, 수원 110.4㎜, 안양(박달) 103.5㎜, 군포(산본) 95㎜, 시흥 76㎜ 등이다.&lt;br&gt;&lt;br&gt;특히 시간당 최대 강수량은 오전 10시 기준 평택 현덕면 88.5㎜, 안성 공도읍 78.5㎜, 화성 향남 65.5㎜, 평택 서탄 60.5㎜, 오산 53㎜ 등을 기록했다.&lt;br&gt;&lt;br&gt;기상청은 이날 오전 7시 47분 화성시 향남읍 인근, 오전 8시 1분 화성시 진안동 인근. 오전 8시 9분 오산시 신장동 인근에 시간당 50㎜ 이상의 강한 비로 침수 등이 우려된다는 호우 긴급재난문자를 잇달아 발송했다.&lt;br&gt;&lt;br&gt;하천 수위가 상승하면서 이날 오전 8시 50분을 기해 오산천 탑동대교 지점에 홍수경보가 내려졌다. 오산시는 오산천 인근 궐동과 오색시장 일대 주민에게 주민대피명령을 내리고 매홀초등학교 및 오산고등학교로 대피할 것을 안내했다. &lt;br&gt;&lt;br&gt;평택시도 18일 오전 10시 40분쯤 통복동 6·7통 주민들에게 재난문자를 보내 “통복천 범람위험으로 저지대 주민들은 즉시 기계공고 산학협력관으로 대피하기 바란다”고 알렸다.&lt;br&gt;&lt;br&gt;오전 11시30분 현재 평택시 진위천(진위교), 오산시 오산천(탑동대교)에는 홍수경보가 내려졌다. 또 여주시 복하천(흥천대교), 광주시 경안천(경안교), 평택시 진위천(동연교)에는 홍수주의보가 내려진 상태이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“현금 3만~4만원 훔쳤다” 16년 만에 붙잡힌 시흥 수퍼마켓 강도살인범</title>
