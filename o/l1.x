@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>국회서 '법관임용자격 개선방안' 토론회 25일 개최</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/200013.jpg" alt="200013.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;국회에서 25일 법관임용자격의 바람직한 개선 방안을 논의하는 토론회가 열린다.&lt;p&gt;   &lt;br /&gt;국회 법제사법위원회 소속&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2925"&gt;김승원&lt;/span&gt;(55·사법연수원 28기)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="13701"&gt;김용민&lt;/span&gt;(48·35기) 더불어민주당 의원은 오는 25일 오전 10시 서울 영등포구 국회 의원회관 제2소회의실에서 '국민으로부터 신뢰받는 재판을 위한 바람직한 법관임용자격 개선방안' 토론회를 공동 개최한다.&lt;br /&gt;&lt;br /&gt;토론회는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5046"&gt;홍기태&lt;/span&gt;(62·17기) 전 사법정책연구원장의 사회로 진행된다. 발표는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="745"&gt;배용준&lt;/span&gt;(50·30기) 서울고등법원 고법 판사가 맡았다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2187"&gt;어영강&lt;/span&gt;(61·29기) 대한변호사협회 부협회장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="34148"&gt;김기원&lt;/span&gt;(36·변호사시험 5회) 한국법조인협회장, 이국운 한동대 법학부 교수,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4989"&gt;한애라&lt;/span&gt;(52·27기) 성균관대 로스쿨 교수, 김자현 동아일보 기자가 토론한다.&lt;/p&gt;</description>
+			<pubDate>Fri, 19 Jul 2024 03:46:06 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/200013</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200013</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/200013.jpg</media:thumbnail>
+			<dc:creator>김지현 기자</dc:creator>
+		</item>
+		<item>
+			<title>변협, '전관예우 암시 광고' 변호사 정직 3개월 결정</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/465293(2).jpg" alt="465293.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대한변호사협회가 판사 출신임을 내세워 광고한 변호사 A 씨에게 징계를 결정했다.&lt;br /&gt;&lt;br /&gt;변협 징계위원회는 15일 회의를 열고 품위유지의무 등 변호사법을 위반한 변호사 A 씨에 대해 정직 3개월, A 씨가 속한 법무법인에게는 과태료 3000만 원의 징계를 결정했다. &lt;br /&gt;&lt;br /&gt;A 씨는 지하철역에서 'OO법대 판사 출신'을 내세워 음성 광고해 징계위에 회부됐다. 근무했던 법원 앞에 차린 법무법인 건물에 '전 ○○지법 판사 출신'이라는 간판을 건 것도 징계 사유다.&lt;br /&gt;&lt;br /&gt;변호사법 제23조 제2항 4호는 '소비자에게 업무수행 결과에 대하여 부당한 기대를 가지도록 하는 내용의 광고'를 해서는 안 된다고 규정하고 있다. &lt;br /&gt;&lt;br /&gt;변협 관계자는 "A 씨의 광고는 '전관예우'를 노골적으로 암시하는 행위"라며 "앞으로 변호사 광고 위반 등에 대해서 선처 없이 대응할 것"이라고 전했다.</description>
+			<pubDate>Fri, 19 Jul 2024 03:43:56 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/200010</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200010</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/465293(2).jpg</media:thumbnail>
+			<dc:creator>안현 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] '선거법 위반' 이정근 전 민주당 사무부총장, 징역형 집행유예 확정</title>
 			<description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="http://image.lawtimes.co.kr/images/194505.jpg" alt="194505.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;이정근 전 민주당 사무부총장 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;2022년 3·9 국회의원 재·보궐선거와 6·1 지방선거 당시 선거운동원들에게 금품을 지급하고 불법 정치자금을 수수한 혐의로 기소된 이정근 전 더불어민주당 사무부총장이 대법원에서 징역형의 집행유예 판결을 확정받았다.&lt;p&gt;&lt;b&gt;&lt;br /&gt;대법원 형사1부&lt;/b&gt;(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5554"&gt;서경환&lt;/span&gt;&amp;nbsp;대법관)는 공직선거법·정치자금법 위반 혐의로 기소된 이 전 부총장에게 징역 6개월에 집행유예 1년과 벌금 200만 원을 선고한 원심을 지난달 27일 확정했다(&lt;b&gt;2024도5538&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이 전 부총장은 2022년 3월 국회의원 재·보궐선거에서 서울 서초갑 지역구 민주당 후보로 출마해 당시 선거운동원 7명에게 총 804만 원을 지급한 혐의로 재판에 넘겨졌다. 또 같은해 6월 지방선거를 앞두고 공천과 관련해 출마 예정자들로부터 수백만 원의 금품을 받은 혐의도 받았다.&lt;/p&gt;&lt;p&gt;1심은 징역 1년에 집행유예 2년, 벌금 200만 원을, 항소심은 징역 6개월에 집행유예 1년, 벌금 200만 원을 선고했다. 대법원도 원심과 마찬가지로 이 전 부총장의 혐의를 모두 유죄로 인정하고 상고를 기각했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이 전 사무부총장은 공공기관 인사 청탁을 빌미로 사업가 박모 씨로부터 금품 10억 원을 수수한 혐의(특정범죄가중처벌법상 알선수재 및 변호사법 위반, 정치자금법 위반 등)로 기소돼 지난해 12월 대법원에서 징역 4년 2개월 및 8억9000여만 원 추징 판결을 확정받고 복역 중이다. 이 전 사무부총장의 휴대전화에서 확보된 녹음파일은 '민주당 전당대회 돈봉투' 사건 수사의 도화선이 됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Fri, 19 Jul 2024 00:33:51 -0000</pubDate>
@@ -219,25 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199954</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/763(68).jpg</media:thumbnail>
 			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>대법원, 19일부터 '출생통보제·보호출산제' 첫 시행</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/199952.jpg" alt="199952.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;아동의 출생 등록될 권리 보장을 위해 19일부터 출생통보제와 보호출산제가 처음으로 시행된다.&lt;p&gt;   &lt;br /&gt;대법원은 17일 태어나 갖는 첫 번째 권리인 '출생등록' 보장을 위해 이 제도를 시행한다고 밝혔다. 보호출산제는 출생통보제에 대한 보완책으로 함께 실시된다.   &lt;p&gt;      &lt;br /&gt;부모는 출생통보제가 시행되더라도 기존처럼 출생신고를 해야 한다. 19일부터는 부모가 출생 후 1개월 내 출생신고를 하지 않으면 관할 시(구)·읍·면의 장이 부모에게 출생신고서를 제출하도록 최고서를 보낸다. 부모가 최고서를 받지 않거나 받고 난 뒤 7일 이내 출생신고를 하지 않을 경우엔 의료기관이 통보한 출생 정보로 관할 시(구)·읍·면의 장이 감독법원의 허가를 받아 출생등록을 하게 된다.      &lt;p&gt;         &lt;br /&gt;다만 부모가 출생신고를 하지 못하는 정당한 이유가 있다면 신고 의무자 등은 시(구)·읍·면의 장에게 직권기록 유예 신청을 할 수 있다.         &lt;p&gt;            &lt;br /&gt;보호출산제는 출산 사실이 드러나는 것을 꺼리는 여성이 의료기관에서 출산을 기피할 수 있다는 우려와 이로 인해 어려움을 겪고 있는 여성을 보호하고, 그 자녀에 대한 안전한 출산과 양육 환경을 보장하기 위해 마련했다.            &lt;p&gt;               &lt;br /&gt;임산부가 지역상담기관에서 상담을 받고 보호출산 신청을 하면 임산부는 지역상담기관의 장이 통지한 비식별화된 가명과 관리번호로 원하는 의료기관에서 산전검사와 출산을 하게 된다. 출산 후에는 출생정보를 통보받은 지역 상담기관 소재지 시(구)·읍·면의 장이 아동의 부모를 기록하지 않고 보호출산 아동을 출생등록한다.               &lt;p&gt;&amp;nbsp; &lt;br /&gt;또 출생신고를 마치지 않고 출산일로부터 1개월 내 지역상담기관에 아동보호신청을 할 수 있다.&lt;br /&gt;&lt;/p&gt;            &lt;/p&gt;         &lt;/p&gt;      &lt;/p&gt;   &lt;/p&gt;&lt;/p&gt;</description>
-			<pubDate>Wed, 17 Jul 2024 02:44:16 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/199952</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199952</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/199952.jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>【오늘의 국회일정】 2024년 7월 17일</title>
-			<description>&lt;b&gt;◇ 국회의장&lt;/b&gt;&lt;br /&gt;10:00 제76주년 제헌절 경축식(국회의사당 중앙홀)&lt;br /&gt;&lt;br /&gt;13:30 국회로 간 6411의 목소리(의원회관 제2소회의실)&lt;br /&gt;&lt;br /&gt;14:00 오송참사 1주기 국회토론회(의원회관 9간담회의실)&lt;br /&gt;&lt;br /&gt;15:00 채상병1주기 청계광장 추모 분향소 방문(청계광장 추모 분향소)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 국회사무총장&lt;/b&gt;&lt;br /&gt;10:00 제76주년 제헌절 경축식(국회의사당 중앙홀)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 상임위원회&lt;/b&gt;&lt;br /&gt;11:00 국토교통위원회 전체회의(본관 529호)&lt;br /&gt;&lt;br /&gt;15:00 외교통일위원회 전체회의(본관 401호)&lt;br /&gt;&lt;br /&gt;16:00 정무위원회 전체회의(본관 604호)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 의원실 세미나&lt;/b&gt;&lt;br /&gt;07:30 조승환 의원실 등, 국회 바다와미래 연구포럼 창립기념 초청특강(의원회관 의원식당)&lt;br /&gt;&lt;br /&gt;10:00 강훈식 의원실 등, 기업혁신을 위한 스타트업M&amp;A 활성화 방안 토론회(국회도서관 소회의실)&lt;br /&gt;&lt;br /&gt;10:00 박지혜 의원실 등, 탄소중립산업 육성의 필요성과 과제 정책토론회(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;10:00 이헌승 의원실 등, 해상공급망 안정화 방안 : COVID 19사태를 교훈으로(국회도서관 강당)&lt;br /&gt;&lt;br /&gt;12:00 김주영 의원실 등, [노동입법 세미나 7강] 양노총 입법요구과제 설명(의원회관 306호)&lt;br /&gt;&lt;br /&gt;14:00 이연희 의원실 등, [오송참사 1주기 국회토론회] 사회적 참사에서 정부의 역할과 오송 참사의 해법 모색(의원회관 제9간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 김용만 의원실 등, 강제동원 귀국선 우키시마호 폭침사건 진상규명 한·일공동 대응과 전략모색(의원회관 제7간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 강선우 의원실 등, 건강보험 보장성 강화 및 국가책임 확대(국회도서관 소회의실)&lt;br /&gt;&lt;br /&gt;14:00 황운하 의원실, 윤 대통령 탄핵소추 국민청원 130만 돌파 국회는 어떻게 답해야 하는가(의원회관 제3간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 서영석 의원실 등, 의료개혁에서의 지역의료기관의 역할과 과제(의원회관 제8간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 김소희 의원실 등, 저탄소 경제사회를 위한 《탄소중립 녹색성장 금융특별법》 입법토론회(의원회관 제3세미나실)&lt;br /&gt;&lt;br /&gt;15:00 백승아 의원실 등, 2023 교사 대투쟁이 남긴 과제 교육 정책 및 입법의 전문성 강화(의원회관 제1소회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;◇ 소통관 기자회견&lt;/b&gt;&lt;br /&gt;09:00 구자근 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;09:20 김대식 의원, [청소년 약물 오남용 보호 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;09:40 임광현 의원, [월급쟁이 소확행 법안 시리즈 발의 기자회견]&lt;br /&gt;&lt;br /&gt;10:00 권성동 의원, [채상병 사망사고 제보공작 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:20 강준현 의원, [정치 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:40 임이자 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:20 강경숙 의원, [서이초 1주기, 교권보호 정책 관련 설문조사 결과 발표 기자회견]&lt;br /&gt;&lt;br /&gt;13:20 정혜경 의원, [쿠팡 산재사고 관련 기자회견]&lt;br /&gt;&lt;br /&gt;13:40 강득구 의원, [정치 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;14:00 강득구 의원, [경기도의회 조례안 재의 요구 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;</description>
-			<pubDate>Tue, 16 Jul 2024 22:40:14 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/199943</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199943</guid>
-			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
