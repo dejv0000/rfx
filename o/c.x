@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“신청곡 왜 안틀어줘” 주점 직원 때린 60대, 다시 철창행...출소 7개월만</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/20/QK74MLFODZF5NIPLANZKAL7DGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/20/QK74MLFODZF5NIPLANZKAL7DGQ/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Jul 2024 21:58:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOIPX7HDNFCOHOGTNKRO6EMBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주점에서 신청한 노래를 틀어주지 않는다는 이유로 직원을 때린 60대에게 실형이 선고됐다. 이 남성은 폭행죄로 복역하고서 출소한지 얼마 되지 않아 다시 철창 신세를 지게 됐다.&lt;br&gt;&lt;br&gt;20일 법조계 등에 따르면 서울서부지법 형사합의12부(재판장 권성수)는 폭력행위처벌법상 특수폭행 재범·폭행 재범, 절도 등 혐의로 기소된 정모(60) 씨에게 징역 1년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;정씨는 지난 1월 9일 용산구에 있는 한 주점에서 노래를 신청했다. 그러나 직원이 ‘다른 손님들도 있어 당신의 신청곡만 계속 틀어줄 수 없다’는 취지로 답하자 직원에게 욕설하며 테이블 위에 있던 사기그릇을 얼굴을 향해 던졌다.&lt;br&gt;&lt;br&gt;직원이 경찰에 신고하자 정씨는 또다시 맥주병을 집어 들어 그를 향해 던졌다. 정씨는 경찰이 출동한 뒤에도 양주 케이스와 종이컵을 직원에게 던지며 행패를 부렸다.&lt;br&gt;&lt;br&gt;정씨는 이 외에도 작년 12월 6일 송파구 한 지하철역에서 앞서가던 사람에 바짝 붙어 무임 승차하려다가 앞선 사람이 빨리 지나가지 않는다는 이유로 손으로 등을 떠밀어 폭행한 혐의(폭행), 같은 달 24일 광진구의 한 안경 매장에서 시가 20만원 상당의 선글라스 1개를 훔친 혐의(절도)로도 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 동종 폭력 범죄나 절도 범죄 등으로 여러 차례 형사처벌을 받은 전력이 있을 뿐만 아니라 출소 후 얼마 지나지 않은 시점에 범행을 연이어 저질렀다는 점에서 죄책이 가볍지 않다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 그러면서도 “피고인이 범행을 모두 인정하면서 반성하고 있다”면서 “피해가 비교적 크지 않고 피고인이 계획적으로 범행을 저지른 것으로 보이지는 않는다”고 했다.&lt;br&gt;&lt;br&gt;앞서 정씨는 특수폭행죄 등으로 징역 1년 8개월, 폭행죄 등으로 징역 10개월, 상해죄 등으로 징역 8개월을 선고받고 복역해 지난해 12월 출소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“여름휴가 속초 가성비 코스는?” 챗GPT 켜고 떠난 팩트체크 여행</title>
       <link>https://www.chosun.com/national/weekend/2024/07/20/RH6XCPRRZFB23AE7WSHQIMYHRM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2024/07/20/RH6XCPRRZFB23AE7WSHQIMYHRM/</guid>
@@ -941,15 +950,6 @@
       <description/>
       <pubDate>Thu, 18 Jul 2024 15:40:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JLF36X25BRBLFPDO3A2U3URXLM.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내일 전라에 최대 100㎜, 경상엔 80㎜ 쏟아진다</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/07/18/N5TA72FCMJAI5GJCGFJSHIYGLU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/18/N5TA72FCMJAI5GJCGFJSHIYGLU/</guid>
-      <dc:creator>김윤주 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 12:59:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BH34RRFYERAKROTOEIN2SCGMFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 오전 폭우가 쏟아진 충남 당진시 당진읍 당진전통시장이 물에 잠겨 있다. 당진에는 이날 오전 5시 30분을 기해 '호우경보'가 발효됐다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 오전 남부 지방에 많은 비가 올 것으로 예상된다. 18일 수도권에 많은 비를 내린 정체전선(장마전선)이 남쪽으로 이동할 것으로 보이기 때문이다.&lt;br&gt;&lt;br&gt;18일 밤부터 19일 새벽 사이 광주, 전남과 경북 일부 지역에선 시간당 20~30㎜의 강한 비가 예보됐다. 기상청에 따르면 18~19일 예상 강수량은 광주·전남 30~100㎜(많은 곳은 120㎜ 이상), 전북 30~80㎜(많은 곳은 100㎜ 이상), 경상권은 30~80㎜다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7TVVGHVG45F3FNYTZCTF3WGQ2E.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이틀 동안 최대 600㎜의 집중 호우가 쏟아진 중부 지방에선 비가 잠시 소강상태를 보이겠다. 수도권과 충청, 강원은 날씨가 대체로 흐리고 가끔 비 오는 곳이 있겠다. 대신 낮 최고기온이 서울 31도, 경기 30~31도, 강원 31~33도로 예보돼 찜통더위가 찾아올 것으로 보인다.&lt;br&gt;&lt;br&gt;20일 이후 주말에는 정체 전선이 북상하며 중부 지방에 다시 장맛비가 내리겠다. 집중 호우가 또 찾아올 가능성도 있다. 기상청 관계자는 “현재 우리나라 대기에 수증기가 매우 많아서 작은 충격에도 강한 비구름이 발달할 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“현금 3만~4만원 훔쳤다” 16년 만에 붙잡힌 시흥 수퍼마켓 강도살인범</title>
