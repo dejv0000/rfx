@@ -6,6 +6,36 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>법률구조공단·국민연금공단 '법률복지 증진' 위해 '맞손'</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/200018.jpg" alt="200018.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;이종엽 이사장(오른쪽)과 김태현 이사장이 업무협약을 체결한 뒤 기념촬영을 하고 있다.&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대한법률구조공단(이사장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7859"&gt;이종엽&lt;/span&gt;)은 19일 국민연금공단(이사장 김태현)과 '국민 생활안정과 법률복지 증진을 위한 업무협약'을 체결했다.&lt;br /&gt;&lt;br /&gt;같은 날 서울 강남구 논현동 국민연금공단 서울남부지역본부에서 열린 업무협약식에는&amp;nbsp;&lt;span class="lawmanlink" serial="7859" style="font-weight: bold;"&gt;이종엽&lt;/span&gt;(61·사법연수원 18기) 이사장, 김태현 이사장과 관계자들이 참석했다. &lt;br /&gt;&lt;br /&gt;법률구조공단은 이번 협약으로 국민연금 가입자의 자격이나 연금보험료 등의 권리 또는 이익에 침해가 있는 경우 등에 관해 신속히 권리를 구제할 수 있도록 국민연금공단과 상호협력 및 지원체계를 구축하기로 했다.&lt;br /&gt;&lt;br /&gt;이종엽 이사장은 “이번 협약을 발판으로 국민의 생활안정 및 법률복지를 증진해 권리구제를 강화하는 데 최선을 다하겠다"고 말했다.</description>
+			<pubDate>Fri, 19 Jul 2024 06:15:37 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/200018</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200018</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/200018.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
+			<title> 법무법인 YK, 디지털 자산센터 발족··· "가상자산 규제 대응 선도"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/199997.jpg" alt="199997.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;법무법인 YK ‘디지털 자산센터’를 이끌어 가는 (왼쪽부터)김도형, 추원식 센터장과 이상목 부센터장&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.yklawfirm.co.kr/" target="_blank"&gt;&lt;b&gt;법무법인 YK&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="19296"&gt;강경훈&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="19307"&gt;김범한&lt;/span&gt;)가 ‘가상자산 이용자보호 등에 관한 법률’(가상자산 이용자보호법) 시행에 따른 금융 당국의 규제에 대응하기 위해 ‘디지털 자산센터’를 발족했다고 18일 밝혔다. &lt;br /&gt;&lt;br /&gt;YK는 ‘디지털 자산센터’를 출범해 디지털 자산 관련 법률 시장 형성 초기부터 차별화된 전문 법률서비스를 제공할 방침이다. &lt;br /&gt;&lt;br /&gt;센터는 ▲투자 자문(디지털 자산의 공개(ICO), 거래지원, 투자 관련 자문) ▲과세 자문(절세 등 자문 및 과세 처분 대응 등 맞춤형 지원) ▲규제 대응(규제 당국의 감독·검사, 행정처분 대응) ▲수사 대응(디지털 자산 이용 범죄 수사 대응, 피해자 조력) ▲입법 컨설팅(법령안 마련, 의견 제출 등 맞춤형 지원) 등 5개의 팀으로 운영된다.&lt;br /&gt;&lt;br /&gt;YK는 센터 설립 이전부터 원화 거래소, 기타 가상자산 사업자들을 대상으로 한 법률자문과 가상자산이용자보호법 시행에 따른 체계구축, 규제대응, 신규 사업 자문 등을 수행했다. 이외에도 가상자산거래 회사의 거래정지 사건 대응, 코인사기 불송치결정 등의 업무를 수행해왔다.&lt;br /&gt;&lt;br /&gt;이를 바탕으로 YK는 분야별 이슈 대응 능력을 갖춘 디지털 자산 전문가 30여 명이 법률자문, 수사 등 디지털 자산 관련 종합적인 법률서비스를 제공할 예정이다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5783"&gt;추원식&lt;/span&gt;(55·사법연수원 26기)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="3416"&gt;김도형&lt;/span&gt;(55·30기) 대표변호사가 공동센터장을 맡는다. &lt;br /&gt;&lt;br /&gt;추 대표변호사는 기업 상장 및 투자 분야의 ‘베테랑’으로 20여 년 동안 국내외 유수 기업들의 상장을 이끌었다. 또 우정사업본부 펀드심의위원, 교보증권, 대신자산운용, 리딩증권 고문변호사, 금융위원회 ‘BDC’ 추진 자문위원, 거래소 코넥스 이전 상장 자문위원, 건설근로자공제회 투자심의위 위원, 공무원연금공단 대체투자위원회 위원 등을 역임했다.&lt;br /&gt;&lt;br /&gt;김 대표변호사는 차장검사 출신으로 부산지검 외사부장검사, 인천지검 외사부장검사, 서울중앙지검 외사부장검사 등 3대 외사부장을 모두 역임했다. 검사 시절 외사 및 공안 분야 전문가로 명성을 떨쳤다.&lt;br /&gt;&lt;br /&gt;부센터장은 부장검사 출신으로 금융정보분석원(FIU)에서 디지털 자산 관련 입법, 규제 등을 총괄해온&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13848"&gt;이상목&lt;/span&gt;(48·36기) 변호사가 맡는다. &lt;br /&gt;&lt;br /&gt;이밖에 중국은행 출신의 이현정 변호사가 투자 자문, 국세청 출신의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="34282"&gt;강상우&lt;/span&gt;(34·변호사시험 5회) 변호사가 과세 자문, 금융감독원 출신의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="17851"&gt;최진홍&lt;/span&gt;(43·39기) 변호사가 규제·행정, 경찰청 출신의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="42619"&gt;김경태&lt;/span&gt;(44·7회) 변호사가 수사 대응, 국회 입법 보좌관 출신의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="31216"&gt;이상영&lt;/span&gt;(43·2회) 변호사가 입법 컨설팅 부문을 맡고 있다.&lt;br /&gt;&lt;br /&gt;추 센터장은 “디지털 자산센터는 가상자산 분야에서의 대응 역량을 높여 가상자산 사업자 및 이용자들의 법률적 리스크를 해소하는 데 기여하고 가상자산 시장의 발전에도 적극적 역할을 하고자 개설됐다”며 “규제·수사 대응은 물론 투자자문, 조세, 입법 등 디지털 자산과 관련된 모든 분야를 망라해 깊이 있고 고객 친화적인 자문과 조력을 제공할 수 있는 최상의 전문가들이 법률서비스를 제공할 예정”이라고 밝혔다.</description>
+			<pubDate>Fri, 19 Jul 2024 05:25:51 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/199997</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199997</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/199997.jpg</media:thumbnail>
+			<dc:creator>유지인 기자</dc:creator>
+		</item>
+		<item>
+			<title>국내 최초 전자증거개시제도 전문 기업 인텔렉추얼데이터, 창립 5주년 맞아 CI 공개</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/200014.jpg" alt="200014.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;국내 최초의 해외 소송 전자증거개시제도(eDiscovery) 전문 기업이자 글로벌 전자서명 솔루션 도큐사인(Docusign)의 한국 공식 파트너인 인텔렉추얼데이터가 창립 5주년을 맞아 새로운 CI를 19일 공개했다.&lt;br /&gt;&lt;br /&gt;인텔렉추얼데이터는 "이번 CI 개편을 통해 글로벌 경쟁력 강화와 고객 중심적 가치를 제공하는 새로운 비전을 제시하고자 한다"며 "신뢰성과 전문성이 중요한 전자증거개시제도 서비스를 제공하는 만큼 새로운 CI는 회사의 핵심 가치를 강조하는 방향으로 개편됐다"고 말했다.&lt;br /&gt;&lt;br /&gt;증거개시제도(Discovery)는 영미 소송법상의 제도로 재판 개시 전 소송당사자가 가진 증거와 서류를 상호 공개하며 소송의 쟁점을 정리하고 명확히 하는 제도다. 전자증거개시제도는 증거개시제도라는 법적 절차에 활용되는 증거의 범위를 이메일, 데이터베이스 등 전자정보에까지 확대해 적용한 것을 뜻한다.&lt;br /&gt;&lt;br /&gt;최근에는 국내 기업의 해외 진출이 활발해지고 해외 특허소송 등 관련 분쟁이 증가하며 수요가 계속 증가하고 있다.&lt;br /&gt;&lt;br /&gt;인텔렉추얼데이터는 2019년 설립된 전자증거개시제도 전문 기업으로 최근 이디스커버리 호스팅 누적 데이터가 50TB를 돌파했다.</description>
+			<pubDate>Fri, 19 Jul 2024 05:21:58 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/200014</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200014</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/200014.jpg</media:thumbnail>
+			<dc:creator>안현 기자</dc:creator>
+		</item>
+		<item>
 			<title>국회서 '법관임용자격 개선방안' 토론회 25일 개최</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/200013.jpg" alt="200013.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;국회에서 25일 법관임용자격의 바람직한 개선 방안을 논의하는 토론회가 열린다.&lt;p&gt;   &lt;br /&gt;국회 법제사법위원회 소속&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2925"&gt;김승원&lt;/span&gt;(55·사법연수원 28기)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="13701"&gt;김용민&lt;/span&gt;(48·35기) 더불어민주당 의원은 오는 25일 오전 10시 서울 영등포구 국회 의원회관 제2소회의실에서 '국민으로부터 신뢰받는 재판을 위한 바람직한 법관임용자격 개선방안' 토론회를 공동 개최한다.&lt;br /&gt;&lt;br /&gt;토론회는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5046"&gt;홍기태&lt;/span&gt;(62·17기) 전 사법정책연구원장의 사회로 진행된다. 발표는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="745"&gt;배용준&lt;/span&gt;(50·30기) 서울고등법원 고법 판사가 맡았다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2187"&gt;어영강&lt;/span&gt;(61·29기) 대한변호사협회 부협회장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="34148"&gt;김기원&lt;/span&gt;(36·변호사시험 5회) 한국법조인협회장, 이국운 한동대 법학부 교수,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4989"&gt;한애라&lt;/span&gt;(52·27기) 성균관대 로스쿨 교수, 김자현 동아일보 기자가 토론한다.&lt;/p&gt;</description>
 			<pubDate>Fri, 19 Jul 2024 03:46:06 -0000</pubDate>
@@ -209,36 +239,6 @@
 			<link>https://www.lawtimes.co.kr/news/199958</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199958</guid>
 			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>檢, 카카오 김범수 구속영장 청구...김 "불법행위 지시 없었다"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/193858(4).jpg" alt="193858.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;SM엔터 경영권 인수 과정에서 주가조작 혐의를 받는 카카오 창업주 김범수 경영쇄신위원장이 구속 기로에 놓였다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;서울남부지검 금융조사2부&lt;/b&gt;(&lt;span style="font-weight: bold;" class="lawmanlink" serial="15653"&gt;장대규&lt;/span&gt;&amp;nbsp;부장검사)는 17일 자본시장법 위반 혐의로 김 위원장에 대한 구속영장을 청구했다. 김 위원장이 지난 9일 검찰 소환조사를 받은 지 8일 만이다.&lt;br /&gt;&lt;br /&gt;검찰에 따르면, 김 위원장은 SM엔터 경영권 인수 과정에서 하이브의 공개 매수를 방해할 목적으로 2400여억 원을 투입해 SM엔터 주가를 하이브의 공개매수가보다 높게 고정시키는 방법으로 시세를 조종한 혐의를 받는다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;김 위원장 측 변호인단은 이날 입장문을 내고 "검찰이 구속영장까지 청구한 점에 대해 유감스럽게 생각한다"며 혐의를 부인했다. 변호인단은 "김 위원장은 지난해 SM엔터 지분 매수에 있어 어떠한 불법적 행위도 지시·용인한 바가 없다"며 "이 건은 사업 협력을 위한 지분 확보의 목적으로 진행된 정상적 수요에 기반한 장내매수였다"고 말했다. 그러면서 "향후 영장 심문 과정에서 이를 성실히 소명하겠다"고 밝혔다.&amp;nbsp;&lt;br /&gt;&lt;br /&gt;앞서 검찰은 9일 오전 김 위원장을 피의자 신분으로 불러 20시간이 넘는 고강도 밤샘 조사를 했다. 김 위원장은 조사 과정에서 혐의를 대체로 부인한 것으로 전해졌다.&lt;br /&gt;&lt;br /&gt;금융감독원 자본시장특별사법경찰은 지난해 11월 김 위원장과 홍은택 전 카카오 대표, 김성수·이진수 전 카카오엔터 대표, 이준호 카카오엔터 투자전략부문장 등 당시 카카오 최고 경영진들을 SM엔터 인수 과정에서 시세조종에 가담한 혐의로 검찰에 기소의견으로 송치했다.&lt;br /&gt;&lt;br /&gt;먼저 기소된 배재현 카카오 전 투자총괄대표는 재판을 받고 있다. 검찰은 최근까지 김 위원장의 최측근인 황태선 카카오 CA협의체 총괄대표 등에 대한 조사를 진행했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;다음은 김 위원장 측 변호인단 입장 전문.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;카카오 CA협의체 김범수 경영쇄신위원장은 지난해 SM 지분 매수에 있어 어떠한 불법적 행위도 지시·용인한 바가 없습니다. 이 건은 사업 협력을 위한 지분 확보의 목적으로 진행된 정상적 수요에 기반한 장내매수였습니다. 그럼에도 검찰이 구속영장까지 청구한 점에 대해 유감스럽게 생각합니다. 향후 영장 심문 과정에서 이를 성실히 소명하겠습니다.&lt;/p&gt;</description>
-			<pubDate>Wed, 17 Jul 2024 02:52:03 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/199955</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199955</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/193858(4).jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>이원석 총장, 尹탄핵 청문회 증인채택에 "사법을 정쟁으로 몰아"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/199950.jpg" alt="199950.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9175"&gt;이원석&lt;/span&gt;&amp;nbsp;검찰총장이 야당 주도로 추진되고 있는 '윤석열 대통령 탄핵소추안 발의 요청' 청원의 청문회 증인으로 채택되자 "정치가 사법을 정쟁으로 몰아넣는 것"이라고 비판했다. &lt;br /&gt;&lt;br /&gt;이 총장은 16일 오후 "대통령 탄핵 청문이라는 유례없는 정치적 사안에 사법을 담당하는 검찰총장을 끌어들이는 것은 정치가 사법을 정쟁으로 몰아넣는 것"이라며 "이런 처사가 온당하지 못하다는 것은 국민 여러분께서 잘 알고 계시리라 믿고 이에 대해서는 역사가 평가하리라고 생각한다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;실제 출석 여부에 대해서는 "어떤 것이 옳고 또 정의에 부합하는지 차차 생각해보겠다"고 신중한 태도를 보였다. &lt;br /&gt;&lt;br /&gt;이 총장은 윤 대통령의 배우자 김건희 여사 관련 수사에 대해서도 "수사팀에서 원칙대로 절차를 지켜 기준을 잘 갖춰 수사할 것이라고 보고받았고 그렇게 믿고 있다"고 재차 원론적인 입장을 취했다. &lt;br /&gt;&lt;br /&gt;이 총장은 퇴임 후 탄핵 소추안이 발의된 4명의 검사들을 위해 직접 변론하겠다는 말을 주변에 한 것으로 알려졌다. 그는 이에 대해 "4명 검사의 탄핵은 검찰총장의 탄핵과 다름없다고 생각한다. 또한 검찰 전체에 대한 탄핵"이라며 "언제 어떤 자리에 있든 무엇이 옳고 그른지 정확하게 결론이 날 수 있도록 제가 할 수 있는 최선을 다하겠다"고 말했다.&lt;br /&gt;&lt;br /&gt;앞서 국회 법제사법위원회는 이 총장과 정진석 대통령실 비서실장 등을 오는 26일 열리는 윤 대통령 탄핵 청원 청문회 증인으로 채택하는 안을 야당 단독으로 의결했다.</description>
-			<pubDate>Wed, 17 Jul 2024 02:47:15 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/199950</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199950</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/199950.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>檢, 김상철 한컴 회장 구속영장 청구...'가상자산으로 비자금 조성'</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/763(68).jpg" alt="763.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;가상자산으로 비자금을 조성하고 96억 원어치를 임의로 사용한 혐의를 받는 김상철 한컴그룹 회장이 구속기로에 놓였다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;수원지검 성남지청 형사3부&lt;/b&gt;(&lt;span style="font-weight: bold;" class="lawmanlink" serial="15325"&gt;강성기&lt;/span&gt;&amp;nbsp;부장검사)는 16일 김 회장에 대해 특정경제범죄가중처벌등에관한법률위반(배임) 혐의로 구속영장을 청구했다고 17일 밝혔다. 김 회장에 대한 영장실질심사는 18일 오전 11시 수원지법 성남지원에서 진행된다.&lt;br /&gt;&lt;br /&gt;김 회장은 한컴그룹 계열사인 블록체인 전문기업 한컴위드가 지분을 투자한 가상자산 '아로와나토큰'을 이용해 비자금을 조성한 사건을 주도했다는 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;아로와나토큰은 2021년 4월 20일 국내 가상자산거래소에 처음 상장된 지 30여 분 만에 최초 거래가인 50원에서 5만3800원까지 치솟았다. 당시 토큰 발생 개수는 5억 개였다. 이후 2022년 8월 9일 가상자산거래소에서 상장 폐지됐다.&lt;br /&gt;&lt;br /&gt;이에 아로와나토큰에 대해 시세 조작 의혹과 김 회장이 가상자산을 이용해 비자금을 조성했다는 의혹이 제기됐다.&lt;br /&gt;&lt;br /&gt;이 사건을 수사한 경기남부경찰청 반부패·경제범죄수사대는 김 회장에 대해 지난달 구속영장을 신청했다. 이에앞서 경찰은 2022년 10월 한컴그룹 회장실과 한컴위드 본사, 김 회장 자택을 압수수색하며 이 사건 수사에 착수했다.&lt;br /&gt;&lt;br /&gt;지난해 12월 김 회장의 차남인 한컴위드 사내이사 김모 씨와 아로와나테크 대표 정모 씨는 김 회장의 비자금 조성에 관여한 혐의로 구속됐다. 아로와나테크는 한컴그룹 자금으로 인수된 암호화폐 운용사다.&lt;br /&gt;&lt;br /&gt;이들은 2021년 12월부터 이듬해 6월까지 국내 가상자산 컨설팅 업자에게 아로와나토큰 1457만 1000여 개 매도를 의뢰해 수수료 등을 공제한 정산금 80억3000만 원어치의 이더리움과 비트코인을 김 씨 개인 전자지갑으로 전송받는 수법으로 비자금을 조성한 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;검찰은 김 씨가 이 같은 방식으로 조성한 비자금이 약 96억 원에 이르고, 이를 NFT(대체불가능토큰) 구매, 주식 매입, 신용카드 대금 지급, 백화점 물품 구매 등 개인적으로 사용했다고 보고 있다.&lt;br /&gt;&lt;br /&gt;수원지법 성남지원 제1형사부(부장판사 허용구)는 이달 11일 특정경제범죄가중처벌법상 배임 혐의로 기소된 김 씨에게 징역 3년을, 정 씨에겐 징역 2년 6월을 각각 선고했다.&lt;br /&gt;</description>
-			<pubDate>Wed, 17 Jul 2024 02:45:57 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/199954</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/199954</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/763(68).jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
