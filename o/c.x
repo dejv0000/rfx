@@ -13,6 +13,27 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>중부지방, 밤부터 강한 비 예보</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/07/20/47246Y4ALFDKDBS74C3HFBQJZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/20/47246Y4ALFDKDBS74C3HFBQJZY/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Jul 2024 00:57:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4O3CQFNDX2T5MEILO27GG46PE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장맛비. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말인 20~21일 전국 대부분 지역에 비가 내리면서 전국이 대체로 흐리겠다. 중부지방은 20일 밤부터 21일 오전 사이에 매우 강한 비가 내리겠다.&lt;br&gt;&lt;br&gt;매우 강한 비는 1시간에 30mm 이상의 비가 내리는 경우를 뜻한다. 이 경우엔 작은 하천이나 하수에서 물이 넘치며, 자동차 와이퍼를 사용해도 시야를 확보하기 어려울 수 있다.&lt;br&gt;&lt;br&gt;20일 기상청에 따르면 정체전선(장마전선)의 영향으로 수도권은 이날 밤부터 21일 아침까지 시간당 30~50mm의 비가 내리겠다. 강원도는 이날 밤부터 21일 오전까지 시간당 30~50mm의 비가 내리겠다.&lt;br&gt;&lt;br&gt;충청권은 20일 낮까지 시간당 20~30mm의 비가 내리다가, 21일 새벽부터 오전까지 시간당 30mm 내외의 비가 내리겠다.&lt;br&gt;&lt;br&gt;다만 남부지방은 20일 오후부터 밤 사이 소강 상태를 보이는 곳이 많겠다. 전라권은 20일 낮까지 시간당 20~30mm의 비가 내릴 전망이다. 이후 21일 새벽~오전 시간당 30mm 내외의 비가 예보됐다. 경북권은 20일 오전~낮 시간당 10~30mm 정도 비가 내리다가 그치겠다. 이후 21일 새벽~오전 시간당 30mm 내외의 비가 내릴 전망이다. 제주도는 20일 오전에 비가 그칠 전망이다.&lt;br&gt;&lt;br&gt;기상청은 폭염특보가 발효된 강원영동과 경상권, 제주를 중심으로 매우 무더울 것이라고 예보했다. 우리나라로 유입된 고온다습한 공기로 기온이 올라, 이들 지역에선 최고체감온도가 33도 내외가 전망된다고 밝혔다. 일부 제주도 동부 지역은 35도 내외로 올라 매우 덥겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/X4O3CQFNDX2T5MEILO27GG46PE.jpg?width=3528&amp;height=2073&amp;auth=0dfe66b6616506a6d5ab08b5aecd8724e3e0761f98227a77c659bdb571045883&amp;smart=true" type="image/jpeg" height="2073" width="3528">
+        <media:description type="plain">장맛비.(뉴스1 DB)</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“축하드려요” 여성에게 새벽에 익명으로 생일문자·속옷 선물한 男</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/20/CBKRDCJ7DZA23MTOMZUNKLICLE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/20/CBKRDCJ7DZA23MTOMZUNKLICLE/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Jul 2024 01:52:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y3LV6GP5CNGD5FBITVG4P3CUZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자기 정체를 숨기고 새벽에 여성에게 생일 축하 문자를 보내고 집으로 속옷 선물을 배달보낸 남성이 항소심에서도 스토킹 혐의로 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;20일 법조계에 따르면 서울중앙지법 형사항소2-3부(재판장 조은아)는 스토킹처벌법 위반 혐의로 기소된 A(30)씨에게 1심과 같이 벌금 300만원을 선고하고 40시간의 스토킹 치료프로그램 이수를 명령했다.&lt;br&gt;&lt;br&gt;A씨는 2022년 2월 오전 4시 26분쯤 자신이 다니던 스포츠시설을 운영하는 B씨에게 “생일 축하드려요”라는 문자 메시지를 보냈다. 그는 생일을 몰래 축하하기 위해 휴대전화 번호를 새로 개설해 인적사항도 밝히지 않은 채 문자를 보냈다.&lt;br&gt;&lt;br&gt;닷새 뒤엔 오전 2시 58분쯤B씨에게 “그날 생일은 잘 보내셨나요? 오늘 오후 복도를 확인해보세요~ 예쁘게 입으세요”라는 문자를 보냈다. 그러면서 여성 속옷 세트를 B씨 자택으로 배달했다.&lt;br&gt;&lt;br&gt;스토킹 혐의로 기소된 A씨는 법정에서 “생일을 몰래 축하해주고 싶었고, 문화 차이에서 오는 오해일 뿐”이라며 무죄를 주장했다. “메시지와 속옷을 보낸 행위가 스토킹 행위에 해당하더라도 1회에 불과하므로 스토킹 범죄를 구성하지 않는다”고도 했다.&lt;br&gt;&lt;br&gt;1심 재판부는 그러나 “A씨가 한 일련의 행위는 객관적으로 상대방에게 불안감과 공포감을 일으키기에 충분하다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “B씨는 숙면을 취할 깊은 새벽에 낯선 사람으로부터 문자 메시지를 며칠 간격으로 반복해 받았고, 메시지에는 나이와 생일 등 본인의 사적인 정보가 담겼다”며 “자신을 밝히지 않은 채 속옷 선물을 주는 행위는 불쾌감을 일으키는 것임이 분명하다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 항소했지만 2심은 원심 판단에 오류가 없다며 기각했다. 2심 재판부는 “A씨의 행위는 객관적·일반적으로 불안감 또는 공포심을 일으키기에 충분하다고 보인다”며 “나아가 이 같은 행위가 단기간 내 지속되거나 반복됐으므로 스토킹 범죄를 구성한다고 보는 것이 타당하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“신청곡 왜 안틀어줘” 주점 직원 때린 60대, 다시 철창행...출소 7개월만</title>
       <link>https://www.chosun.com/national/national_general/2024/07/20/QK74MLFODZF5NIPLANZKAL7DGQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/20/QK74MLFODZF5NIPLANZKAL7DGQ/</guid>
@@ -934,22 +955,6 @@
       <description/>
       <pubDate>Thu, 18 Jul 2024 15:40:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OHGNT37W5VABTNUTMU22QFXYBE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 언어도단(言語道斷)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/19/RYSJ2BLCUJG35L6LU7FJZEXF6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/19/RYSJ2BLCUJG35L6LU7FJZEXF6E/</guid>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RKG5YW3MHVFUXKQQVQZDYXOEBQ.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2424] 양손으로 또박또박</title>
-      <link>https://www.chosun.com/national/nie/2024/07/19/SQCIISZ4WRANZHC4IUUOBYWL74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/19/SQCIISZ4WRANZHC4IUUOBYWL74/</guid>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JLF36X25BRBLFPDO3A2U3URXLM.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“현금 3만~4만원 훔쳤다” 16년 만에 붙잡힌 시흥 수퍼마켓 강도살인범</title>
