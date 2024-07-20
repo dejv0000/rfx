@@ -13,6 +13,58 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>유럽 출장 간 홍명보, 英런던서 손흥민과 1시간 독대</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/20/T2IHVSCXDZFIVFOT6UX4T7DTFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/20/T2IHVSCXDZFIVFOT6UX4T7DTFY/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Jul 2024 08:04:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WLCCIFA63ZE5XGE2DCOVXIRDII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍명보 축구대표팀 감독(왼쪽)과 토트넘의 손흥민. /연합뉴스·로이터 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍명보 축구대표팀 감독이 손흥민(토트넘)과 단둘이 1시간가량 만나 이야기를 나눴다.&lt;br&gt;&lt;br&gt;20일 대한축구협회에 따르면 홍 감독은 현지 시각으로 전날 오후 영국 런던 모처에서 손흥민과 만났다.&lt;br&gt;&lt;br&gt;축구협회 관계자는 “손흥민이 토요일(20일)에는 팀 연습경기가 있어 19일 오후에 만남이 이뤄졌다. 한 시간여 동안 단둘이서 대화를 나눴다”며 “무슨 얘기를 나눴는지는 향후 홍 감독이 직접 얘기할 사안”이라고 말했다.&lt;br&gt;&lt;br&gt;홍 감독은 현재 자신을 보좌할 외국인 코치 물색차 유럽을 찾았다. 출국 당시 유럽파 선수들을 만날 계획이냐는 물음에 “유동적이다. 선수들이 프리시즌을 치르고 있어서 만날 수 있을지는 지금 말하기 어렵다”고 답했다.&lt;br&gt;&lt;br&gt;홍 감독은 유럽 일정에 스페인에 능통한 수행 직원 한명과 동행하고 있다. 다만 손흥민을 만난 자리에서는 이 직원을 물리고 독대한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;홍 감독이 대표팀 사령탑에 오른 뒤 선수와 면담한 건 손흥민이 처음이다. 2014 브라질 월드컵 때 감독과 선수로 만난 두 사람은 홍 감독이 10년 만에 대표팀 감독으로 복귀하면서 재회하게 됐다.&lt;br&gt;&lt;br&gt;홍 감독은 이날 독일로 이동해 각각 대표팀 수비와 중원의 핵심인 김민재(뮌헨), 이재성(마인츠)을 만날 예정이다. 이어 세르비아에서 츠르베나 즈베즈다에서 한솥밥을 먹는 황인범과 설영우를 만날 계획인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NAC6LUNLHDOQECGQT5O34VWZTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2014 브라질월드컵 준비 당시 홍명보 감독과 손흥민./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 대한축구협회는 최근 홍 감독 선임을 두고 논란에 휩싸였다.&lt;br&gt;&lt;br&gt;지난 2월 위르겐 클린스만 전 감독이 경질된 뒤 5개월 넘게 새 사령탑을 물색하던 축구협회는 지난 7일 홍 감독을 신임 감독으로 내정했는데, 푹구팬들 사이에서는 축구협회가 외국인 감독을 알아보다가 뚜렷한 이유를 밝히지 않은 채 국내파 감독을 선임한 점에 의문을 제기했다.&lt;br&gt;&lt;br&gt;특히 감독 선임 과정에 직접 참여한 박주호 대한축구협회 전력강화위원이 홍 감독 발탁은 “절차 안에서 이뤄진 게 없다”고 폭로하면서 논란은 거세졌다. 여기에 박지성·이영표·이천수·이동국·조원희·김영광 등 한국 축구를 대표하는 인물들까지 축구협회를 비판하며 소신 발언을 이어와 논란이 거세진 상황이다.&lt;br&gt;&lt;br&gt;이에 문화체육관광부는 대한축구협회에 대한 감사를 하기로 결정했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>설민석 “논문표절 이후 역사기꾼 손가락질…진짜 사기꾼 될 순 없었다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/20/IGSDADZMP5CKRIATQPROSJEIRE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/20/IGSDADZMP5CKRIATQPROSJEIRE/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Jul 2024 06:56:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S57IAABTINGQ7A2ZZGP2O7OLFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;MBC '강연자들'에서 논문표절 논란 후 복귀한 역사강사 설민석. /MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;논문표절 논란으로 방송 활동을 중단했던 한국사 강사 설민석(54)이 3년 반만에 지상파 방송 강연 무대에 올라 논란 당시 심정을 털어놨다.&lt;br&gt;&lt;br&gt;설민석은 19일 MBC ‘심장을 울려라 강연자들(강연자들)’에 강사로 출연해 “52세가 되던 그해 최강 절정 지옥을 맛보게 됐다”며 논문 표절 논란을 언급했다.&lt;br&gt;&lt;br&gt;당시 상황과 관련해 설민석은 “회사에서 일하고 있는데 대표님이 휴대폰을 건네주더라. 내 얼굴이 있는데 기사가 논문 표절이었다”며 “사람이 엄청나게 큰일을 겪으면 어떻게 될 것 같나. 눈앞이 하얘지고 멍해지고 다운이 되더라”고 했다.&lt;br&gt;&lt;br&gt;이어 “저를 사랑해주시던 분들 앞에서 이대로 가는 건 제가 안 되겠더라. 그래서 제가 ‘물러나야 할 것 같다’고 했다”며 “출연하던 프로그램 제작진에 전화해 잘못했다고 말씀드리고 논문 지도 교수님들 일일이 다 통화하고 가족한테 전화했다. 가족이 두려워하는데 괜찮다고 일찍 들어갈 거니까 걱정하지 말라고 했다”고 했다.&lt;br&gt;&lt;br&gt;설민석은 “직원들에게 고개 숙이고 사과하고 입장문을 써서 발표했다. 주저앉고 싶은데 여기서 주저앉으면 직원들, 가족들이 있으니 심호흡하고 마음 다잡고 가족들 안심시키고 잠이 들었는데 다음날 깨보니 온 세상이 하얬다. 꿈이었으면 싶었다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “가족들이랑 외식하러 가면 손가락질 당하는 느낌이었다. 진짜 손가락질하는 건지 제가 그렇게 느끼는 건지 몰라 더 미치겠더라”며 “가장 많은 악플이 ‘역사기꾼(역사+사기꾼)’이었다”고 했다.&lt;br&gt;&lt;br&gt;설민석은 석사학위가 취소된 연세대 교육대학원 역사교육 전공에 지난해 재입학해 현재 석사 과정을 밟고 있다. 다시 공부를 결심한 이유에 대해서는 “이대로 외면하거나 도망가면 지금까지 강의한 정도전, 정조대왕, 이순신 등 역사 속 위인들이 다 거짓말 된다”며 “(도망치면) 진짜 사기꾼 되는데 비판은 받을지언정 그런 삶을 살면 안 될 것 같았다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NHXC3WDPYFGOJHTG5YF5KGWQZE.png"&gt;&lt;figcaption&gt;&lt;small&gt;MBC '강연자들' 출연한 역사강사 설민석. /MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스타 역사강사로 유명해진 설민석은 방송 활동도 왕성하게 하며 큰 사랑을 받아왔다. 그러나 2020년 12월 그의 연세대 교육대학원 석사 논문 표절 의혹이 제기됐고, 설민석은 “다른 논문들을 참고하는 과정에서 인용과 각주 표기를 소홀히 했음을 인정한다”며 사과했다. 이후 고정 출연 중이던 프로그램에서 모두 하차하며 방송 활동을 중단했다.&lt;br&gt;&lt;br&gt;앞서 설민석은 논란 2년 만인 2022년 MBN ‘그리스 로마 신화-신들의 사생활’로 방송에 복귀했다.&lt;br&gt;&lt;br&gt;복귀 방송에서 그는 “석사 논문 표절 및 방송 중 부정확한 정보 전달로 인해 모든 방송에서 하차한 후 깊은 반성의 시간을 가졌다”며 “이렇게 짧은 자숙의 기간으로 제 과오가 쉽게 씻길 것이라고 생각하지 않는다. 앞으로 더욱 철저하고 책임감 있는 자세로 정보 전달자로서의 역할에 충실하도록 하겠다”고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘전공의 집단사직 공모’ 의협 전 비대위원장 경찰 4차 조사</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/20/EV6JHKQ2FBGD7NZHLOP5Z3THE4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/20/EV6JHKQ2FBGD7NZHLOP5Z3THE4/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Jul 2024 05:33:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S6VQ3KKMS5LHJIUURTR7AUO7X4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전공의 집단사직 공모 혐의를 받는 김택우 대한의사협회(의협) 전 비대위원장이 20일 오후 소환조사를 위해 서울 마포구 서울경찰청 공공범죄수사대에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전공의 집단사직 공모 혐의를 받는 김택우 대한의사협회 전 비대위원장이 20일 경찰에 출석 했다.&lt;br&gt;&lt;br&gt;서울경찰청 공공범죄수사대는 이날 오후 2시쯤부터 김 전 비대위원장에 대한 소환 조사를 진행 중이다. 김 전 위원장은 앞서 경찰에 세 차례 소환 조사를 받아왔다. 경찰은 전공의 집단 사직과 관련해 업무 방해 혐의에 대해 추가 조사를 진행할 방침이다.&lt;br&gt;&lt;br&gt;경찰은 김 전 비대위원장을 비롯해 임현택 의협 회장, 박명하 의협 비대위 전 조직강화위원장, 주수호 전 비대위 언론홍보위원장, 노환규 전 의협 회장 등을 의료법상 업무개시명령 위반, 업무방해 교사·방조 혐의로 수사 중이다.&lt;a href="https://www.chosun.com/nsearch/?query=%EC%9E%84%ED%98%84%ED%83%9D&amp;siteid=&amp;sort=1&amp;date_period=all&amp;writer=&amp;field=&amp;emd_word=&amp;expt_word=&amp;opt_chk=false&amp;app_check=0&amp;website=www,chosun"&gt; &lt;/a&gt;&lt;br&gt;&lt;br&gt;지난 18일 기준 전국 수련 병원의 ‘미복귀 전공의’ 7648명이 사직 처리된 것으로 집계됐다. 전체 전공의(1만3531명)의 절반 이상인 56.5%다. 아직 사직 처리되지 않은 전공의 상당수도 조만간 사직서가 수리될 가능성이 커 사직 규모는 1만명을 넘어설 것이란 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WC2PW5X6DFM4JJ5U3WUEXYOD6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의정갈등이 이어지고 있는 가운데 지난 19일 오전 서울 시내 한 대형병원에서 한 의료 관계자가 휴식을 취하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 김 전 위원장은 의사 면허 정지 3개월 처분을 받기도 했다. 정부는 김 전 위원장이 지난 2월 15일 의대 정원 증원 반대 궐기대회에서 ‘집단행동 교사 금지 명령’을 위반하는 발언을 했다며 지난 3월 15일 의사 면허 3개월 정지 처분을 내렸다. 이에 면허정지 처분을 멈춰 달라는 집행정지를 신청했지만 기각됐다.&lt;br&gt;&lt;br&gt;의협 전·현직 간부들에 대한 수사는 이번 달 중으로 마무리 될 방침이다. 앞서 경찰청장에 내정된 조지호 서울경찰청장은 지난 15일 정례 기자 간담회에서 “두 명 정도 더 불러 조사하면 이번 달 안에 의협 관련 수사는 마무리될 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법 “동성 커플, 부부는 아니지만 건보 피부양자로 인정”  </title>
+      <link>https://www.chosun.com/national/court_law/2024/07/18/BVSUJU4O6RFUHCCZJYKMW434OU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/18/BVSUJU4O6RFUHCCZJYKMW434OU/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 18 Jul 2024 05:36:08 +0000</pubDate>
+      <content:encoded>동성(同性) 커플의 상대방을 사실혼 배우자로 인정할 수는 없지만 건강보험 피부양자로 받아줘야 한다는 대법원 전원합의체 판결이 나왔다. 민법상 권리가 인정되지 않는 ‘동성 결합’에 대해서도 건강보험 피부양자 제도가 적용돼야 한다는 대법원의 첫 판단이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PV7LFXVZWFMURHK64NDVCMX3WI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월 대법원 전원합의체 판결 선고 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 전원합의체(주심 김선수 대법관)는 18일 소성욱(33)씨가 국민건강보험공단을 피부양자 등록 취소가 부당하다며 낸 소송의 상고심에서 원고 승소 판결한 원심을 확정했다. 조희대 대법원장 등 대법관 9명은 다수 의견을 통해 “동성 동반자의 피부양자 자격을 인정하지 않는 것은 헌법상 평등원칙을 위반한 것”이라고 밝혔다. 반면 대법관 4명은 “동성 간 결합은 혼인으로 볼 수 없어 피부양자로 인정할 수 없다”는 별개 의견을 냈다.&lt;br&gt;&lt;br&gt;조 대법원장을 포함한 대법관 9명은 “건보공단은 사실상 혼인 관계에 있는 (이성) 집단에 대해서는 피부양자 자격을 인정하면서, 동성 동반자 집단에는 이를 인정하지 않아 달리 취급하고 있다”며 “이는 성적 지향을 이유로 본질적으로 동일한 집단을 차별하는 행위”라고 말했다.&lt;br&gt;&lt;br&gt;이어 “함께 생활하고 서로 부양하는 동성 동반자의 관계가 기본적 사회보장제도인 건강보험에서조차 인정받지 못하는 것은 인간의 존엄과 가치, 행복추구권, 사생활의 자유, 평등권을 침해하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;다수 의견은 또 “동성 동반자는 단순히 동거하는 관계를 뛰어넘어 동거∙부양∙정조 의무를 바탕으로 부부 공동생활에 준할 정도의 경제적 생활공동체를 형성하고 있는 사람”이라며 “건보공단이 피부양자로 인정하는 ‘사실상 혼인관계에 있는 사람’과 차이가 없다”고 했다.&lt;br&gt;&lt;br&gt;남성인 소씨는 다른 남성인 김용민(34)씨와 2017년부터 동거하다 2019년 결혼식을 올렸다. 건보공단은 2020년 김씨의 신청에 따라 소씨를 사실혼 배우자로 보고 피부양자 등록을 해줬다. 이 사실이 언론을 통해 알려지자 공단은 ‘착오’라며 등록을 취소했고, 이에 소씨는 소송을 냈다.&lt;br&gt;&lt;br&gt;서울행정법원은 지난 2022년 1월 소씨에게 패소 판결을 내렸다. 이성(異性) 간 사실혼 배우자만 피부양자가 될 수 있다는 취지였다. 하지만 서울고법은 작년 2월 “사실혼 배우자와 동성 결합 상대방은 이성인지 동성인지만 다를 뿐 동일한 정도로 밀접한 생활 공동체 관계”라며 “동성 결합에만 피부양자를 인정하지 않는 것은 성적 지향을 이유로 한 차별”이라고 판결했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>시도의사회장협의회 “파행 운영되는 올특위 해체해야”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/20/3GF6VI3XXJFJVGCI5RYENGSBHI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/20/3GF6VI3XXJFJVGCI5RYENGSBHI/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Jul 2024 06:29:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SGNSAPIXGBNV5DQ4RMLHHAX6H4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의정갈등이 이어지고 있는 19일 오전 서울 시내 한 대형병원에서 의료진이 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국광역시도의사회장협의회가 ‘올바른 의료를 위한 특별위원회(올특위)’ 해체를 요청했다.&lt;br&gt;&lt;br&gt;올특위는 대한의사협회(의협)가 정부와 의료계의 단일 소통 창구를 만들기 위해 지난달 20일 출범한 범의료계 기구다. 하지만 전공의와 의대생들이 참여하지 않으면서 유명무실해졌다는 비판이 나오고 있다.&lt;br&gt;&lt;br&gt;20일 의료계에 따르면 협의회는 의협에 올특위 해체를 요청하는 입장문을 전날 발송했다.&lt;br&gt;&lt;br&gt;협의회는 입장문에서 “올특위를 전국의과대학교수협의회(전의교협)와 전국의대교수비상대책위원회(전의비)를 주축으로 전공의와 의대생을 포함해 진행하겠다고 했지만, 전공의와 의대생 대표들의 올특위 불참으로 파행적 운영이 지속되고 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “7월 13일 시도의사회장단은 회의를 통해 올특위 지속 여부 및 존폐에 관한 다양한 논의를 했다”며 “회장단 전체 투표를 실시한 결과 현시점에서 올특위 해체에 대한 의견이 찬성 13, 반대 3으로 취합돼 이 결과를 집행부에 권고 형태로 전달하기로 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;다만 협의회는 올특위 해체 후 대표성 있는 대한의과대학·의학전문대학원학생협회(의대협) 및 전공의협의회가 정부를 상대로 투쟁할 수 있도록 전폭적인 지지와 지원을 아끼지 않겠다는 입장이다. 또 향후 의협 집행부가 전면에 나서 의대 증원 저지 투쟁에 모든 역량을 쏟아부어야 한다고 했다.&lt;br&gt;&lt;br&gt;더불어 협의회는 초기부터 제기돼 왔던 의협 집행부와 시도의사회장단 간의 소통 부재에 대한 강력한 우려를 다시 한 번 표명한다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/SGNSAPIXGBNV5DQ4RMLHHAX6H4.jpg?width=4419&amp;height=3276&amp;auth=246746c73f83ca40b613ddd57ebe738b0954d19ed92ed5a239b92dc61ea69163&amp;smart=true" type="image/jpeg" height="3276" width="4419">
+        <media:description type="plain">&lt;YONHAP PHOTO-4264&gt; '병원 운영 정상화는 언제쯤?'
+    (서울=연합뉴스) 김성민 기자 = 의정갈등이 이어지고 있는 19일 오전 서울 시내 한 대형병원에서 의료진이 이동하고 있다. 2024.7.19
+    ksm7976@yna.co.kr/2024-07-19 14:30:18/
+&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">김성민</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>중부지방, 밤부터 강한 비 예보</title>
       <link>https://www.chosun.com/national/transport-environment/2024/07/20/47246Y4ALFDKDBS74C3HFBQJZY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/20/47246Y4ALFDKDBS74C3HFBQJZY/</guid>
@@ -913,48 +965,6 @@
       <description/>
       <pubDate>Thu, 18 Jul 2024 16:24:18 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WVP7DF3IUVH27MQZK3JFOQEZ44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 대법원 판결로 건강보험 피부양자 자격이 인정된 소성욱(왼쪽)씨와 동성 동반자인 김용민씨가 서울 서초구 대법원 앞에서 기자들 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 대법원이 동성 동반자의 건강보험 피부양자 자격을 인정하자, 소송 당사자인 소성욱(33)씨는 “오늘의 기쁜 소식이 성소수자의 혼인 평등을 실현할 수 있는 징검다리가 됐으면 좋겠다”고 말했다. 그러면서 “다음은 평등하게 혼인제도를 이용하며, 배우자로서의 모든 권리를 가지는 것이 순서”라고 덧붙였다. 소씨의 동성 동반자인 김용민(34)씨는 “오늘, 우리의 사랑이 이겼다”고 했다.&lt;br&gt;&lt;br&gt;이들을 대리한 장서연 변호사도 선고 이후 민주사회를위한변호사회(민변) 대회의실에서 기자회견을 열고 “큰 희망을 주는 판결”이라며 “정부와 국회가 나서서 동성 커플들 앞에 있는 제도적 차별들을 모두 철폐할 것을 촉구한다”고 했다. 정의당도 이날 입장문을 내고 “이제 동성혼 법제화와 차별금지법 제정 차례”라고 했다.&lt;br&gt;&lt;br&gt;반면 일부 종교단체와 보수단체들은 “동성결합 문제에 있어서 판도라의 상자를 열어준 폭거”라며 반발했다. 동성애동성혼반대국민연합 등 5개 시민단체는 성명을 내고 “헌법이 보장하는 남성과 여성으로 이뤄진 가족제도의 근간을 흔드는 판결”이라며 “민법의 가장 중요한 상속법에서의 상속제도, 국민연금보험과 고용보험, 산재보험 등에도 동성결합 상대방을 포함·적용하는 것으로 확장될 수 있어 사회 혼란을 초래할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 법무부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/07/19/OZELV2TJ2JA7LB4RFDIF25NHAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/07/19/OZELV2TJ2JA7LB4RFDIF25NHAI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 15:47:37 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;법무부&lt;/b&gt;◇서기관 승진▷법무부 치료처우과 권태호▷대구소년원 분류보호과장 배영준▷광주소년원 교무과장 김인수▷전주소년원 교무과장 임춘덕▷대전소년원 의료재활과장 김형식▷대전소년원 분류보호과장 박우근▷서울소년분류심사원 분류심사과장 이맹숙◇서기관 전보▷서울소년원 교무과장 성봉호▷서울보호관찰소 행정지원과장 배종상▷대구보호관찰소 행정지원과장 이경민▷부산보호관찰소 서부지소장 최배근▷광주보호관찰소 행정지원과장 이래강▷광주보호관찰소 관찰과장 김정렬▷광주보호관찰소 순천지소장 홍재성&lt;br&gt;&lt;br&gt;▲&lt;b&gt;고용노동부&lt;/b&gt;◇실장급 승진▷노동정책실장 김유진▷산업안전보건본부장 김종윤▷중앙노동위원회 상임위원 김은철&lt;br&gt;&lt;br&gt;▲&lt;b&gt;우주항공청&lt;/b&gt;◇과장급▷임무지원단장 박훤▷인공위성부문 인공위성임무설계프그램장 김응현&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 박종선 前 비알컴 대표 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/07/19/OP7DAMEHHJFXBF22VJ6Q4GDIUI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/07/19/OP7DAMEHHJFXBF22VJ6Q4GDIUI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 15:47:06 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;박종선&lt;/b&gt; 前 비알컴 대표 별세, &lt;b&gt;강미해&lt;/b&gt; 남편상, &lt;b&gt;박영인&lt;/b&gt; 인사이트 알앤컴 과장·&lt;b&gt;박소영&lt;/b&gt; 부친상=18일2시 중앙대병원, 발인 20일6시30분, (02)860-3503&lt;br&gt;&lt;br&gt;▲&lt;b&gt;신행선&lt;/b&gt; 별세, &lt;b&gt;김승덕&lt;/b&gt; 참저축은행 감사·&lt;b&gt;김승철&lt;/b&gt;·&lt;b&gt;김영희&lt;/b&gt;·&lt;b&gt;김정희&lt;/b&gt;·&lt;b&gt;김영주&lt;/b&gt; 모친상=17일21시34분 서울아산병원, 발인 20일9시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정문숙&lt;/b&gt; 별세, &lt;b&gt;정지영&lt;/b&gt; 영화감독 아내상,&lt;b&gt; 정상민&lt;/b&gt; 아우라픽처스 대표 모친상=17일21시40분 신촌세브란스병원, 발인 20일8시, (02)2227-7590&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] distant future</title>
-      <link>https://www.chosun.com/national/nie/english/2024/07/19/6D4LQYHTYJDA5OIQSSZNNPTTZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/07/19/6D4LQYHTYJDA5OIQSSZNNPTTZM/</guid>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O2JHNZX6TVDJPGB2NCLK4MKYKU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 숨을 죽이다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/07/19/Z4J6A2N3U5BFTK34AUMJLY442Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/07/19/Z4J6A2N3U5BFTK34AUMJLY442Y/</guid>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/737FNEX2RNDHNKXSLHBU2K4FMA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 땀이 비 오듯 하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/07/19/FD25YVZ3XFB3XM5P4WXKOYNDKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/07/19/FD25YVZ3XFB3XM5P4WXKOYNDKI/</guid>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OHGNT37W5VABTNUTMU22QFXYBE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“현금 3만~4만원 훔쳤다” 16년 만에 붙잡힌 시흥 수퍼마켓 강도살인범</title>
