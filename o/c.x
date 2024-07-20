@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>필리핀 여친 임신에 잠적한 한국인…“유부남 아냐, 친자확인 필요”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/20/DOXANX3OG5ALPK4SK2EBFCKHDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/20/DOXANX3OG5ALPK4SK2EBFCKHDI/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Jul 2024 13:54:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y6WRYPXTZRB2PN7UEEFWGFIWOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국인 남성 A씨가 필리핀 여자친구 B씨가 임신하자 낙태를 종용하고 잠적했다는 주장이 제기됐다./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 한국인 남성이 필리핀 여자친구가 임신하자 돌연 잠적했다는 주장이 제기됐다. 이 남성이 유부남이라는 의혹까지 나온 가운데, 당사자 남성은 일부 잘못을 인정하는 한편 여러 의혹들을 부인하고 나섰다.&lt;br&gt;&lt;br&gt;지난 18일 한 유튜브 채널에는 필리핀 여성과 교제한 남성 A씨가 자신의 소셜미디어(SNS)를 통해 공개한 해명문이 담긴 영상이 올라왔다.&lt;br&gt;&lt;br&gt;앞서 A씨 관련 의혹은 JTBC ‘사건반장’을 통해 알려졌다. 30대로 알려진 A씨는 데이팅 애플리케이션을 통해 알게 된 23세 필리핀 여성 B씨에게 20대라고 속여 교제하고, B씨가 임신하자 낙태를 종용한 후 잠적했다는 의혹이 제기됐다. 관련 보도가 나간 이후 한 유튜버는 ‘A씨가 아이를 둔 유부남’이라는 주장을 내놓기도 했다.&lt;br&gt;&lt;br&gt;이 같은 의혹에 A씨는 “물의를 일으킨 점 죄송하게 생각한다”면서도 자신을 둘러싼 각종 의혹에 대해 해명했다.&lt;br&gt;&lt;br&gt;먼저 A씨는 “나이를 속인 것은 일부러 그런 게 아니라 생각 없이 만남 앱에 20대로 설정한 거고 B씨가 신분증을 보여달라고 하지 않아서 굳이 보여주지 않았다”고 주장했다.&lt;br&gt;&lt;br&gt;B씨의 임신 관련해서는 제대로 된 피임을 하지 않았다면서도 “임신 소식을 들었을 때 관계한지 얼마 안 됐는데 임신이라고 하길래 기분이 묘하면서도 이상한 의심도 들었다. 쓰레기 같은 생각일 수도 있겠지만 친자확인까지 생각했다”고 했다.&lt;br&gt;&lt;br&gt;유부남이라는 의혹에 대해서는 “사실이 아니다”고 했다. 그러면서 “비밀번호 설정이 안 된 휴대전화를 분실했는데 그걸 누군가 주워서 거주지, 결혼 여부, 자녀 등 모두 거짓으로 장난을 친 것 같다”고 해명했다.&lt;br&gt;&lt;br&gt;A씨는 “아이가 태어나면 친자 확인하고 결과에 따라 책임지겠다”며 “내 아이가 맞으면 필리핀으로 가서 육아하겠다”고 했다. 또 “피해 여성에게 직접 찾아가서 나머지 말을 전하겠다”며 “사적인 것이니 만나서 해결하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;올해 1월 임신 사실을 알게 돼 A씨에게 알렸다는 B씨는 오는 9월 30일 출산할 예정이다. B씨의 인스타그램에는 A씨의 신상정보는 물론 A씨와 함께 데이트를 하며 찍은 사진, 임신으로 배가 불러온 자신의 사진 등이 올라와있다.&lt;br&gt;&lt;br&gt;A씨의 해명 관련 B씨는 20일 인스타그램을 통해 “거짓 변명 잘 봤다. 끝까지 비겁하고 무책임하다”며 “넌 필요 없으니 양육비만 해결하라”고 썼다. 그러면서 “전화 좀 받고 메일이나 톡을 달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>유럽 출장 간 홍명보, 英런던서 손흥민과 1시간 독대</title>
       <link>https://www.chosun.com/national/national_general/2024/07/20/T2IHVSCXDZFIVFOT6UX4T7DTFY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/20/T2IHVSCXDZFIVFOT6UX4T7DTFY/</guid>
@@ -956,15 +965,6 @@
       <description/>
       <pubDate>Thu, 18 Jul 2024 16:24:47 +0000</pubDate>
       <content:encoded>‘민주당 전당대회 돈봉투 사건’으로 재판에 넘겨진 윤관석 전 의원이 2심에서도 실형을 선고받았다.&lt;br&gt;&lt;br&gt;서울고법 형사3부(재판장 이창형)는 18일 정당법 위반 혐의로 기소된 윤 전 의원에게 1심과 같이 징역 2년을 선고했다. 법원은 또 정당법 및 정치자금법 위반, 뇌물 수수 혐의를 받는 강래구(전 한국수자원공사 상임감사위원)씨에게도 1심과 같이 징역 1년 8개월에 벌금 600만원, 추징금 300만원을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “선거인을 돈으로 매수하는 행위는 민주주의의 뿌리를 흔드는 중대 범죄”라며 “윤 전 의원은 3선 국회의원으로서 정당법 등 관련 법제를 충분히 인식했으면서도 선출직 공직자에게 요구되는 기대를 스스로 저버렸다”고 했다. 그러면서 “이 사건 관련 보도가 나오자 강씨와 연락해 사건 축소를 시도한 점도 고려했다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 윤 전 의원이 민주당 전당대회를 앞둔 2021년 4월 송영길 전 대표 당선을 위해 강씨 등에게 민주당 의원들에 대한 금품 제공을 요청하고, 300만원씩 담긴 돈봉투 20개(6000만원)를 두 차례에 걸쳐 받았다는 혐의를 유죄로 판단했다. 강씨가 경선 캠프의 실질적 조직총괄본부장 역할을 맡으면서, 이성만 전 민주당 의원과 사업가 김모씨에게 각각 1000만원, 5000만원을 받아 현역 의원과 지역본부장들에게 줄 금품을 마련한 혐의도 유죄로 인정됐다.&lt;br&gt;&lt;br&gt;한편, 윤 전 의원은 이번에 2심 결과가 나온 재판과 별개로 이 사건 돈봉투를 허종식 의원과 이성만·임종성 전 의원에게 준 혐의로도 기소돼 재판을 받고 있다. 내달 30일 1심 선고가 예정돼 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>시민단체 5곳 “가족제도 근간 흔드는 판결”</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/19/3ICTWBRE65B3BHQ2WWJKB46PA4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/19/3ICTWBRE65B3BHQ2WWJKB46PA4/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 16:24:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WVP7DF3IUVH27MQZK3JFOQEZ44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 대법원 판결로 건강보험 피부양자 자격이 인정된 소성욱(왼쪽)씨와 동성 동반자인 김용민씨가 서울 서초구 대법원 앞에서 기자들 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 대법원이 동성 동반자의 건강보험 피부양자 자격을 인정하자, 소송 당사자인 소성욱(33)씨는 “오늘의 기쁜 소식이 성소수자의 혼인 평등을 실현할 수 있는 징검다리가 됐으면 좋겠다”고 말했다. 그러면서 “다음은 평등하게 혼인제도를 이용하며, 배우자로서의 모든 권리를 가지는 것이 순서”라고 덧붙였다. 소씨의 동성 동반자인 김용민(34)씨는 “오늘, 우리의 사랑이 이겼다”고 했다.&lt;br&gt;&lt;br&gt;이들을 대리한 장서연 변호사도 선고 이후 민주사회를위한변호사회(민변) 대회의실에서 기자회견을 열고 “큰 희망을 주는 판결”이라며 “정부와 국회가 나서서 동성 커플들 앞에 있는 제도적 차별들을 모두 철폐할 것을 촉구한다”고 했다. 정의당도 이날 입장문을 내고 “이제 동성혼 법제화와 차별금지법 제정 차례”라고 했다.&lt;br&gt;&lt;br&gt;반면 일부 종교단체와 보수단체들은 “동성결합 문제에 있어서 판도라의 상자를 열어준 폭거”라며 반발했다. 동성애동성혼반대국민연합 등 5개 시민단체는 성명을 내고 “헌법이 보장하는 남성과 여성으로 이뤄진 가족제도의 근간을 흔드는 판결”이라며 “민법의 가장 중요한 상속법에서의 상속제도, 국민연금보험과 고용보험, 산재보험 등에도 동성결합 상대방을 포함·적용하는 것으로 확장될 수 있어 사회 혼란을 초래할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“현금 3만~4만원 훔쳤다” 16년 만에 붙잡힌 시흥 수퍼마켓 강도살인범</title>
