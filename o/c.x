@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘뺑소니’ 김호중, 경찰 수사받던 중 1500만원 기부했다…왜?</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/21/L3NMJQIBQBBVBASKXC5PFGNBBQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/21/L3NMJQIBQBBVBASKXC5PFGNBBQ/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Jul 2024 22:50:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MPRLYUOLYVS5WZVS6BG4MKMWEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;트로트 가수 김호중. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주 뺑소니 사실을 인정하고 구속 재판을 받고 있는 트로트 가수 김호중(33)씨가 지난 5월 노숙자 시설에 1500만원을 기부한 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;21일 서울역 노숙자 임시보호시설 등에 따르면 김호중씨는 지난 5월 시설에 1500만원을 기부했다.&lt;br&gt;&lt;br&gt;당초 김호중씨는 5월 말에 시설에서 봉사활동을 진행할 예정이었다. 그런데 음주 뺑소니 사고로 적발되면서 봉사를 할 수 없는 상황이 되자 대신 1500만원을 기부한 것이다.&lt;br&gt;&lt;br&gt;시설 관계자는 김호중씨가 수사를 받고 있는 만큼 봉사활동과 관련해 김씨 측에 연락도 할 수 없었는데 갑자기 소속사 측이 1500만원을 보내왔다며 “김호중씨가 봉사를 하고 싶지만 그렇게 못해서 죄송하다”라는 사과 메시지도 전해왔다고 했다.&lt;br&gt;&lt;br&gt;김호중씨는 지난 5월 9일 오후 11시 40분쯤 서울 강남구 압구정동의 한 도로에서 차를 몰던 중 마주 오던 택시와 충돌한 뒤 달아났다.&lt;br&gt;&lt;br&gt;김호중씨 측은 운전자 바꿔치기, 차량 블랙박스 메모리카드 파손 등은 인정하면서도 음주운전 의혹만은 강하게 부인해왔다. 그러다 여러 증거가 쏟아져 나오자 사고 열흘 만인 지난 5월 19일 음주운전 사실을 뒤늦게 인정했다. 다만 김호중씨가 도주 후 추가로 술을 마시는 바람에 정확한 혈중알코올농도 측정이 불가능해져 재판에서 음주운전 혐의는 적용되지 않았다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사26단독 최민혜 판사는 지난 10일 특정범죄가중처벌법상 위험운전치상·도주치상, 도로교통법상 사고후미조치 혐의 등으로 구속기소 된 김씨의 첫 재판을 진행했다.&lt;br&gt;&lt;br&gt;이날 법정 안팎은 김호중씨의 팬들로 가득 찼고, 이들은 수백 개의 탄원서를 재판부에 제출한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[이별전쟁] 2억7000만원 가져간 새 아내, 나를 가정 폭력범으로 신고했다</title>
       <link>https://www.chosun.com/national/court_law/2024/07/21/RIT37C6GIBFKLGMOUVBFZM55KY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/21/RIT37C6GIBFKLGMOUVBFZM55KY/</guid>
@@ -954,15 +963,6 @@
       <description/>
       <pubDate>Thu, 18 Jul 2024 20:28:42 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ON3VZE6GARGA7NH4RRPXFBGB3I.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘사라진 아이’ 더 이상 없게… 출생통보제 오늘부터 시행</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/07/19/BHMMUSBRSJFMLPVPJA5I7UOI7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/19/BHMMUSBRSJFMLPVPJA5I7UOI7U/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 16:30:06 +0000</pubDate>
-      <content:encoded>19일부터 병원에서 아이가 태어나면 관련 정보가 지방자치단체로 자동 통보되는 ‘출생통보제’가 시행된다. 여성이 가명으로 병원에서 출산할 수 있는 ‘보호출산제’도 함께 시행된다. 신생아 등록과 여성의 안전한 출산을 국가가 책임지는 시스템이 마련된 것이다.&lt;br&gt;&lt;br&gt;출생통보제와 보호출산제는 이른바 ‘사라진 아이’를 방지하기 위한 것이다. 기존엔 병원에서 출산하더라도 부모가 출생 신고를 하지 않으면 국가가 출생 사실을 알 수 없었다. 지난해 감사원 감사 결과 2015~2022년 사이 태어났지만 출생신고가 되지 않아 국가의 보호를 못 받는 ‘미등록 영유아’가 2236명에 달한다는 사실이 드러났다. 또 이들을 조사하는 과정에서 영아 살해, 유기 사건이 잇따라 밝혀졌다. 이런 비극을 막기 위해 정부·국회가 함께 출생통보제와 보호출산제를 전격 도입한 것이다.&lt;br&gt;&lt;br&gt;19일부터 병원은 아이가 태어나면 출생 사실과 생모의 성명, 출생 일시 등 정보를 지방자치단체에 의무적으로 통보해야 한다. 병원이 전자 시스템에 아이 정보를 입력하면 자동으로 지자체의 가족관계등록시스템으로 넘어가게 된다.&lt;br&gt;&lt;br&gt;지자체에 통보된 정보는 부모가 출생 신고를 하지 않았을 때 사용된다. 병원에서 출생 정보를 지자체에 통보한 후 한 달 안에 부모가 출생 신고를 안 하면 지자체는 7일 안에 부모에게 출생신고를 하라고 통지한다. 이후에도 부모가 출생신고를 안 하면 지자체가 법원의 허가를 받아 직권으로 출생을 등록하게 된다. 더 이상 출생신고를 부모에게만 맡겨두는 게 아니라, 병원과 지자체가 직접 나서는 것이다.&lt;br&gt;&lt;br&gt;출생통보제의 문제점을 보완하기 위한 ‘보호출산제’도 함께 시행된다. 출생통보제만 시행되면 신원 노출을 꺼리는 임산부들이 ‘병원 밖 출산’으로 내몰릴 수 있고, 버려지는 아기가 더 많아질 것이라는 우려가 있었다. 보호출산제는 경제적·사회적 이유로 아이를 키우기 어려운 임산부들은 가명으로 병원에서 출산을 할 수 있는 제도다. 임산부는 보호 출산을 신청하기 전에 양육 지원 제도와 친권 포기가 아이에게 미치는 영향 등에 대해 상담을 받아야 한다. 상담 후에도 임산부가 보호 출산을 원하면 가명과 주민등록번호 대체용 관리번호가 만들어지고, 임산부는 이를 이용해 신원을 밝히지 않고 병원에서 출산을 하게 된다. 이후 아이는 보육시설이나 위탁가정에서 보호하고, 입양이 추진된다.&lt;br&gt;&lt;br&gt;임산부는 보호 출산을 신청할 때 이름, 연락처, 보호 출산을 선택하기까지의 상황 등을 기록해야 한다. 이 기록은 복지부 산하 아동권리보장원에 영구 보존된다. 아이가 성인이 되거나, 미성년자라도 법정 대리인의 동의를 받으면 해당 기록의 공개를 요청할 수 있다. 생모가 동의하면 서류 전체가 공개되고, 동의하지 않거나 동의 여부를 확인할 수 없을 때는 인적 사항을 제외하고 보호 출산 선택 이유 등만 공개된다.&lt;br&gt;&lt;br&gt;보호 출산을 신청한 후 출산하더라도 임산부는 아이를 정말 국가에 맡길지 숙고하는 일주일간의 시간을 갖는다. 아이가 향후 입양 허가를 받기 전까지는 보호 출산을 철회할 수 있다.&lt;br&gt;&lt;br&gt;일각에선 보호출산제가 도입되면 ‘음지 출산’과 ‘양육 포기’ 사례가 늘어날 수 있다는 지적도 있다. 장애아나 미숙아를 합법적으로 유기하는 통로가 될 것이란 우려도 있다. 보건복지부 관계자는 “지금은 갑작스러운 임신과 출산으로 당황해서 유기하는 경우가 많은데, 보호출산제를 통해 정부에서 충분히 상담하고 지원 제도를 알려주면 오히려 아이를 키우려는 경우가 늘 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;정부는 위기 임산부가 언제든 상담받을 수 있는 상담전화(1308)도 마련했다. 도움이 필요한 경우 직접 임산부를 만나서 돕고, 생계·주거·고용·법률 서비스도 지원할 예정이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞출생통보제&lt;/b&gt;&lt;br&gt;&lt;br&gt;부모가 출생 신고를 안 해 ‘사라진 아이’가 생기는 것을 방지하기 위해 병원이 아동 출생 사실을 지방자치단체에 통보하도록 한 제도.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞보호출산제&lt;/b&gt;&lt;br&gt;&lt;br&gt;경제·사회적 이유로 출산과 양육에 어려움을 겪는 위기 임산부가 익명으로 출산하도록 하고 아이는 국가가 보호하는 제도.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘민주당 돈봉투’ 윤관석, 2심에서도 징역 2년</title>
