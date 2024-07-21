@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>위스키 성지 남대문시장, 불법 상품권 사전 단속 ‘0′</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/21/NMUO6UF73JFCFMSUG2R3VQ7W7I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/21/NMUO6UF73JFCFMSUG2R3VQ7W7I/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jul 2024 10:06:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D7TU2FVS6NFT7JFYUTFMYEC2G4.png"&gt;&lt;figcaption&gt;&lt;small&gt;위스키 마니아들 사이에서 인기를 끌고 있는 '발베니 더블우드12년(왼쪽)'과 '맥캘란 12년 쉐리오크(오른쪽)'/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 11일 오전 11시 서울 중구 남대문시장의 한 지하상가. 이곳은 위스키를 다른 곳보다 싸게 팔아 마니아들 사이에서 ‘위스키 성지’로 불리는 곳이다.&lt;br&gt;&lt;br&gt;기자가 찾은 총 8곳의 위스키 판매점 중 5곳이 온누리상품권을 받고 있었다. 현행 전통시장 및 상점가 육성을 위한 특별법에 따르면, 전국 전통시장과 상점가 등의 부흥을 위해 중소벤처기업부에서 발행하는 온누리상품권은 주류 소매업, 주류 도매업을 하는 이들이 활용할 수 없다.&lt;br&gt;&lt;br&gt;현행법상 ‘주류 소매업’은 온누리상품권 가맹점으로 등록될 수 없는데, 전통시장 내에서 리쿼샵(주류 판매점)을 운영하는 이들이 사업자등록은 다른 업종으로 해두고 온누리상품권 가맹점으로 등록하는 ‘꼼수’를 부리는 것이다.&lt;br&gt;&lt;br&gt;온누리 상품권으로 다른 매장들보다 5~10% 싸게 구입할 수 있어 소비자들 사이에서 ‘위스키 성지’로 불리는 전통시장 내 일부 주류 판매점들이 탈세 등 불법을 저지르고 있는 것으로 21일 파악됐다.&lt;br&gt;&lt;br&gt;세무 당국의 추적을 피할 목적으로 상대적으로 탈세가 용이한 ‘지류 온누리상품권’만 받는 업장도 있었다. 남대문시장에선 온누리상품권을 받는 리쿼샵 5곳 중 3곳은 ‘지류 온누리상품권’만 취급하고 있었다. 내부 사정을 잘 아는 한 상점 관계자는 “온누리상품권은 지류, 충전식 카드형, 모바일의 형태로 발행되는데, 지류 온누리상품권은 다른 두 가지 상품권에 비해 세무 당국의 추적을 피하기 쉽다”고 했다&lt;br&gt;&lt;br&gt;지류만 받는 한 주류 판매점 측은 “최근에 주류판매점이 온누리상품권을 받은 게 문제가 돼 현재는 기록이 남는 모바일이나 카드형 온누리는 안 받고, 지류만 받고 있다”며 “원래는 지류도 받으면 안 되는데 원하면 결제할 수 있게 해주겠다”고 했다. 이 업장 측은 “카드나 모바일 온누리 결제는 국세청에서 다 보고 있는데, 지류는 건물 임대료나 관리비를 낼 때 쓸 수 있어서 받고 있다”고 덧붙였다. 지류 상품권만 받는 다른 주류 판매점 직원 A씨는 “모바일이나 카드형은 소득이 잡혀서 세금 계산에 불리해 지류만 받고 있다”며 “카드형 온누리가 아닌 단순 카드결제는 부가세 10%가 더 붙는다”고 말했다. 상품의 현금가와 카드 가격이 다른 것 역시 불법이다.&lt;br&gt;&lt;br&gt;서울 동작구 남성사계시장의 B업체, 서울 동대문구 경동시장의 C업체, 서울 강남구 영동시장의 D업체 모두 지류, 카드형, 모바일 온누리상품권을 받고 있었다. B업체, D업체는 인스타그램에서 “모든 종류의 온누리상품권을 다 받는다”고 홍보를 하고 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4YQSS2NFDBGYZABGFN55R65A6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내의 한 전통시장 안에 위치한 리쿼샵의 인스타그램 게시물. /인스타그램 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그런데 온누리상품권을 발행하는 중소벤처기업부는 이런 실태에 대한 단속 여부를 묻는 본지 질의에 “사전 단속을 한 적은 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;중기부 관계자는 “신고가 들어오면 업체 측에 소명을 요구하고, 실제로 사업자등록이 어떻게 되어 있는지 등을 살펴본다. 환전 보류 조치를 하는 경우도 있다”면서도 “제보가 들어오기 전에 선제적으로 온누리상품권 단속을 한 적은 없다”고 밝혔다. 관계자는 “전통시장에 입점한 모든 온누리 가맹점을 단속할 수가 없어서 시장 상인회를 통해 주류 소매업자가 온누리상품권을 받을 수 없다는 점을 교육하고 있고, 이 문제와 관련해 국세청과도 협의를 할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;온누리상품권을 받지 않고 술을 판매하는 자영업자들 사이에선 볼멘소리가 나온다. 서울 시내에서 한 주류 판매점을 운영하는 유모(40)씨는 “일반 주류 판매 자영업자들은 제 살 깎아먹기식으로 마진을 줄여가며 경쟁하는데, 시장 내에 위치한 리쿼샵들은 온누리상품권을 받아서 우리보다 낮은 가격에 손님을 끌어모아 ‘위스키 성지’로 떠오른 걸 보면 화가 난다”며 “솔직히 나도 지난 3월에 시장 쪽으로 자리를 옮겨 온누리상품권을 받아보려 했었다”고 했다. 유씨는 “하지만 조만간 이러한 위스키 불법 영업이 막힐 거란 소문을 듣고 일단 지켜봤는데 아직도 상황이 똑같아 이를 지켜만 보는 중기부에게도 화가 치민다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>박완규 “고1때 인신매매 납치당해... 차 안에 여학생 2명 있었다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/21/VM7WF5YDMBFM5NRGAV2LXFNUTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/21/VM7WF5YDMBFM5NRGAV2LXFNUTU/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jul 2024 09:46:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D7EVVJ4ULNYU7LEEX3RVX7NHXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 박완규./MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 박완규(51)가 과거 인신매매범에게 납치당했던 사연을 털어놔 눈길을 끌고 있다.&lt;br&gt;&lt;br&gt;지난 20일 MBN ‘속풀이쇼 동치미’에 출연한 박완규는 “89년도였다. 당시 대한민국에 말도 안되는 게 유행이었다. 인신매매였다”며 “그때는 TV를 틀면 인신매매를 당했다는 내용이 많이 나왔다”며 이야기를 시작했다.&lt;br&gt;&lt;br&gt;당시 고등학교 1학년으로 아침 등교 중이던 박완규는 ‘차 좀 밀어 달라”는 누군가의 부탁에 은색 승합차를 손으로 밀어줬다고 한다. 그런데 갑자기 그의 뒤로 흉기가 들어온 것이었다. 박완규는 “’소리 지르면 죽인다’는 인신매매범의 협박과 함께 차에 탑승했다. 몸무게가 45kg이었다”며 “납치를 당한 곳은 경기도 평택시로, 과거엔 송탄시로 불리던 곳”이었다고 말했다.&lt;br&gt;&lt;br&gt;박완규는 “차량에는 이미 여학생 두 명이 잠들어 있었다”며 “인신매매범은 내게 자양강장제를 마시라고 권유했다”고 했다. 이후 음료를 마신 박완규는 죽을 수도 있다는 생각에 몸에 계속 상처를 내면서 참았고, 이후 나중에 병원에서 혈액 검사하니 수면제 성분이 들어있었다고 한다.&lt;br&gt;&lt;br&gt;그는 “결국 대전까지 끌려갔다. 대전 터미널 근처 어느 골목에서 인신매매범들이 밥을 먹으려고 차를 주차했다. 그때 잠든 척하고 있다가 도망을 나와 택시를 바로 탔다”고 했다.&lt;br&gt;&lt;br&gt;이어 “택시 기사님에게 평택(송탄)까지 가달라고 하니, 처음에는 거리가 너무 멀어 기사님도 ‘뭐야’라고 했지만, 제 상태가 이상한 걸 알고 출발했다”며 “가면서 자초지종을 설명했다. 이후 휴게소에 들러서 기사님이 경찰에 신고를 해줬다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “당시 관할 경찰서가 평택 경찰서였는데, 나중에 4인조 범인 대질까지 했다. 이후 인신매매범들이 잡혔다고 해서 갔는데 그 4인조가 아니었다”면서 “당시 인신매매가 너무 유행이었다. 왜소한 남자들을 많이 잡아서 멸치잡이 배로 노예처럼 팔아넘기려고 했던 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;한편, 박완규는 1997년부터 1999년까지 3년간 부활의 5대 보컬로 활동하다 탈퇴했다. 이후 2019년 부활의 10대 보컬 김동명의 후임으로 재영입됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘봉화 농약중독 사건’ 치료 중인 할머니 5명 중 3명 상태 호전</title>
+      <link>https://www.chosun.com/national/regional/2024/07/21/ZD5D4LT2PFACDKTRBN7STNLGYU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/21/ZD5D4LT2PFACDKTRBN7STNLGYU/</guid>
+      <dc:creator>봉화=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jul 2024 08:57:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DAHQ2ZLT2BI6KJ3QIJ4YVZNSHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북경찰청 감식반이 지난 17일 경북 봉화군 봉화읍 내성4리 경로당을 찾아 감식하고 있다. 지난 15일 복날 이곳 경로당에 다니는 41명이 함께 오리고기 식당에서 점심을 먹고 난 뒤 60∼70대 4명이 중태에 빠졌고, 이들의 위세척액에서는 살충제 성분이 나왔다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘봉화 복날 농약중독 사건’으로 병원에서 치료를 받던 할머니 5명 중 3명의 상태가 호전됐다. 이중 일부는 대화를 나눌 수 있을 정도로 회복됐다.&lt;br&gt;&lt;br&gt;21일 경북경찰 등에 따르면, 경북 봉화군 봉화읍 한 여성경로당에서 살충제를 음용해 병원에서 치료 중인 60대 A씨와 70대인 B씨와 C씨가 의식을 되찾았다. 이중 C씨는 현재 대화도 가능한 상태다.&lt;br&gt;&lt;br&gt;이들 외에 사건 당일 심정지가 왔던 60대 D 할머니와 지난 18일 자택에서 안동병원으로 이송된 80대 E할머니는 현재 의식 저하 상태를 보이고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “피해 할머니 중 일부가 의식을 되찾는 등 호전됐고, 대화가 가능할 정도로 회복된 할머니도 있다”며 “하지만 수사보다는 할머니들의 건강과 가족 동의 등의 문제가 있어 이들을 상대로 구체적인 문답을 하지는 못하고 있다”고 전했다.&lt;br&gt;&lt;br&gt;한편 지난 15일 낮 경북 봉화군 봉화읍 내성4리 경로당을 이용하는 주민 41명이 복날을 맞아 인근 식당에서 점심으로 오리고기와 쌈 등을 먹었고, 그 중 60~70대 여성 4명이 중태에 빠졌다. 이후 이들의 가검물에서 농약(살충제) 성분인 유기인제가 검출됐다. 경북경찰청은 형사기동대·봉화경찰서 등 총 57명으로 구성된 수사전담팀을 편성해 이 사건을 수사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>1심 이어 2심도 “국가, 삼청교육대 피해자·가족 24명에 13억원 배상”</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/21/AYQXP2FDNVBFVIL64I35C75RP4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/21/AYQXP2FDNVBFVIL64I35C75RP4/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jul 2024 08:15:47 +0000</pubDate>
+      <content:encoded>1980년대 초 삼청교육대에 수용됐던 피해자와 그 가족 총 24명에게 국가가 배상해야 한다는 판결이 2심에서도 유지됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CTGM24Z25EX3A2HETGLAQPMMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 법조계에 따르면 서울고법 민사19-2부(재판장 김유경)는 피해자 A씨 등 24명이 국가를 상대로 낸 손해배상 소송에서 최근 원고 일부승소로 판결했다. 재판부는 정부가 이들에게 총 13억1600여만원을 배상하라고 판단했다. 피해자 7명에겐 1000만~2억여원, 나머지 형제자매나 자녀 등 가족들에겐 200만~5500만여원을 지급하라고 했다.&lt;br&gt;&lt;br&gt;앞서 1심은 지난 3월 국가가 13억여원을 지급해야 한다고 판결했다. 당시 이들에게 11억여원을 지급하라는 보도 등이 나왔지만, 실제 액수는 13억여원인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;피해자들은 1980년대 초 경찰에 불법 구금됐다가 군부대에 설치된 삼청교육대로 인계됐다. 이후 유격 훈련과 자아 반성 교육 등 강제로 순화 교육을 받은 뒤 근로봉사대에서 강제노역을 하고 보호감호소에도 수감됐다. 당시 정부는 ‘불량배 소탕’ 등을 위해 계엄령을 내리고, 영장 없이 6만여명을 잡아들여 대다수를 삼청교육대에 수용했다.&lt;br&gt;&lt;br&gt;1심은 “피해자들은 국가 기관에 의해 불법 구금돼 상당 기간 동안 강제노역 등을 했다”며 “(삼청교육대에 대한) 사회적 인식 등에 비추어 보면 가족들도 상당한 정신적 고통을 겪었을 것으로 보인다”며 피해자 측 손을 들어줬다.&lt;br&gt;&lt;br&gt;국가는 1심에 이어 2심에서도 손해배상 소멸시효(3년)가 끝나 피해자들이 소송을 할 수 없다고 주장했다.&lt;br&gt;&lt;br&gt;하지만 법원은 “원고들은 본인들에 대한 진실·화해를 위한 과거사정리위원회의 진실규명 결정이 이뤄진 지난해 2월 이후 결정 통지서를 받음으로써 손해와 가해자를 명백히 인식했다고 봄이 타당하다”며 이를 받아들이지 않았다. 이 사건 피해자들에 대한 과거사정리위원회의 진실규명 결정은 작년 2월 나왔는데, 결정이 송달된 이후부터 소멸시효를 계산해야 한다고 본 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>시도의사회장·전공의 대표 “올특위 해체하라”</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/07/21/6TNIFVJMWZHVPGKEWBVDWELS2E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/21/6TNIFVJMWZHVPGKEWBVDWELS2E/</guid>
@@ -965,33 +1001,6 @@
       <content:encoded>여자친구의 이별 통보를 받은 뒤 집요하게 만남을 요구한 현역 해병대 장교가 스토킹 혐의 피의자로 수사를 받은 것으로 19일 파악됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CDOLHQCICJAQJG6BEEF5GXXYHI.jfif"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 성동경찰서에 따르면 20대 여대생 A씨는 작년 5월부터 B씨와 1년 가까이 교제하다가 지난 4월 B씨에게 이별 의사를 전했다. 그러자 B씨는 하루 최대 100통 전화하는 등 집요하게 연락한 것으로 조사됐다. 심지어 A씨의 거주지와 학교, 자주 방문하는 카페까지 찾아와 만남을 요구했다.&lt;br&gt;&lt;br&gt;A씨가 거부 의사를 밝혀도 B씨의 스토킹은 반복됐다. A씨가 경찰에 신고하겠다고 경고하자 B씨는 “경찰에 신고하려면 신고해라” “난 더 이상 잃을 게 없다”면서 위협적인 행위를 계속했다. 결국 A씨는 지난 5월 30일 B씨를 스토킹처벌법 위반 혐의로 경찰에 신고했다.&lt;br&gt;&lt;br&gt;법원은 지난 달 A씨를 향한 온·오프라인 접근을 모두 금지하는 명령을 B씨에게 내렸으며, A씨는 현재 사회복지시설에서 심리 치료를 받고 있다.&lt;br&gt;&lt;br&gt;A씨를 상대로 조사를 마친 경찰은 B씨가 현역 해병대 장교라는 신분을 고려해 지난 6월 해병대 수사단으로 사건을 이첩했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>검찰, '마약 투약' 야구선수 오재원에 징역 5년 구형</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/19/OU3UYGJTWVALHH7S2JUCM7YN7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/19/OU3UYGJTWVALHH7S2JUCM7YN7U/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Jul 2024 07:22:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7GHK7MQZCJIOC56RRB5DJ7UNCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;마약 투약 혐의로 체포된 전직 프로야구 선수 오재원이 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. 2024.3.21/뉴스1 ⓒ News1 이재명 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 마약 투약 혐의로 구속기소된 국가대표 출신 전 야구선수 오재원(39)에게 징역형을 구형했다.&lt;br&gt;&lt;br&gt;검찰은 19일 서울중앙지법 형사합의28부(재판장 한대균) 심리로 열린 결심 공판에서 오씨에게 징역 5년과 2474만원 추징을 선고해달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;오씨는 2022년 11월부터 작년 11월까지 필로폰을 11번 투약하고, 작년 4월에는 지인의 아파트 복도 소화전에 필로폰 약 0.4ｇ을 보관한 혐의로 지난 4월 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;또 작년 1월부터 올해 3월까지는 89차례에 걸쳐 지인 9명으로부터 향정신성의약품인 스틸녹스정(수면유도제) 2242정을 받고, 지인 명의를 도용해 스틸녹스정 20정을 구매한 혐의를 받는다.&lt;br&gt;&lt;br&gt;오씨는 지인이 투약 사실을 경찰에 신고하려 하자, 그의 휴대전화를 망치로 부수는 등 협박한 혐의도 받는다. 두산 베어스 소속 선수와 관계자들에게 대리 처방을 시켰고, 이를 거부한 선수의 정강이를 때리거나 마약 복용 사실을 누설하면 “흉기로 찌르겠다”며 협박했다고 알려졌다.&lt;br&gt;&lt;br&gt;한편 경찰은 지난 10일 오씨에게 향정신성의약품 스틸녹스정·자낙스정 등을 대신 처방받아 전달하거나 에토미데이트를 다량 공급한 29명을 마약류관리법 위반 등 혐의로 검찰에 송치했다. 이들 중에는 현직 두산 베어스 선수 9명이 포함됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>8년형 받고 전자발찌 차고...출소 5개월 만에 또 성폭행한 40대 </title>
-      <link>https://www.chosun.com/national/national_general/2024/07/19/FFF7M3WSBBACLL3XOTA5FEXUFI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/19/FFF7M3WSBBACLL3XOTA5FEXUFI/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Jul 2024 06:55:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V52JIITDEVEJIAGQJPT345DA6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지법/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성범죄로 징역 8년형을 받고 전자발찌를 찬 상태에서 출소 5개월 만에 모르는 여성의 집에 따라 들어가 성폭행한 40대 남성이 1심에서 징역 15년을 선고받았다.&lt;br&gt;&lt;br&gt;서울동부지법 형사합의11부(재판장 김민호)는 19일 성폭력처벌법상 주거침입강간 등 혐의로 재판에 넘겨진 김모(45)씨에게 징역 15년을 선고했다. 재판부는 위치추적 전자장치(전자발찌) 20년 부착과 10년간 신상정보 공개, 아동·장애인 관련 기관 10년 취업 제한도 명령했다.&lt;br&gt;&lt;br&gt;재판부는 “다수의 성폭력 전과가 있는 점과 위험 평가를 종합해 볼 때 재범 위험성이 있다”며 “일면식 도 없는 피해자를 뒤따라가 침입, 강간해 피해자의 공포심이 극심하고 성적 수치심으로 현재까지 정신건강의학과 내원과 약물·상담치료를 받고 있지만 범행 이전의 상태로 회복을 못했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “피고인은 동종전과 포함해 형사처벌받은 게 수십회에 이르고 수사 단계에서 공격적이고 불량한 태도를 보였다”며 “조사 도중 경찰에게 거짓말하고 피해자 전화 시도하는 등 범행 정황 좋지 않다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 지난 1월 1일 오후 1시 50분쯤 서울 송파구에서 처음 보는 여성을 집까지 쫓아가 도어락을 부수고 침입한 뒤 성폭행을 저지른 혐의를 받는다. 경찰을 피해 달아나다 인근의 한 노래방에서 붙잡혔다.&lt;br&gt;&lt;br&gt;당시 신고를 받고 출동한 경찰은 CCTV 영상 등을 토대로 동선을 추적해 3시간만에 A씨를 성폭력처벌법상 주거침입강간 혐의로 체포했다. 범행 당시에도 A씨는 성범죄 전과로 전자발찌를 착용하고 있었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>새벽 3시까지 조명 테러… 싸이 흠뻑쇼 리허설에 “잠 좀 자자”</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/19/UAIKEG7XRBDLPDXNTGWL6RAXAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/19/UAIKEG7XRBDLPDXNTGWL6RAXAI/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Jul 2024 06:32:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BRQGUXMAEZBJZF3WLHFKHSPXE4.png"&gt;&lt;figcaption&gt;&lt;small&gt;가수 싸이의 흠뻑쇼 과천공연을 앞두고 한밤중에 과천 공연이 열리는 서울대공원에서 진행된 조명 테스트 때문에 잠을 설쳤다는 지역 주민의 토로가 나왔다. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 싸이의 흠뻑쇼 과천공연을 앞두고 한밤중에 공연이 열리는 서울대공원에서 진행된 조명 테스트 때문에 잠을 설쳤다는 지역 주민의 호소가 나왔다.&lt;br&gt;&lt;br&gt;19일 한 온라인 커뮤니티에서 ‘흠뻑쇼 지금 시간에 조명 리허설 하는 게 맞냐’는 제목의 글이 화제가 됐다. 글쓴이 A씨는 관련 사진을 올리고 “밤 10시부터 저런 조명 쏘는 게 맞냐. 새벽 1시반까지 이러고 있다. 커튼을 쳐도 빛이 들어온다”고 호소했다. A씨는 “색깔별로 레이저 쏘고 등대 같이 돌아가는 조명을 쏴서 잠을 못 자겠다”며 “제발 잠 좀 자게 해달라”고 하소연했다.&lt;br&gt;&lt;br&gt;사진을 보면 A씨가 거주하는 곳의 정면으로 멀리서 강한 조명빛이 비추고 있었다. 흠뻑쇼 과천 공연을 앞두고 서울대공원 주차광장에서 조명 테스트를 진행한 것으로 보인다. 싸이 흠뻑쇼 과천공연은 오는 20, 21일 양일간 서울대공원에서 열릴 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NC4SIVG7W5HVVJ4JARLBWNWD2Q.gif"&gt;&lt;figcaption&gt;&lt;small&gt;가수 싸이의 흠뻑쇼 과천공연을 앞두고 한밤중에 공연이 열리는 서울대공원에서 진행된 조명 테스트 때문에 잠을 설쳤다는 지역 주민의 호소가 나왔다. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨가 경찰에 신고하고 120콜센터에 민원을 넣은 이후에도 조명 테스트가 계속됐다고 한다. A씨는 경찰 신고 후 새벽 3시경에 재차 글을 올리고 여전히 조명 테스트가 진행 중인 상황이 담긴 영상을 공개했다. 이번에는 조명이 A씨 집 정면을 비추지 않고 서쪽으로 방향을 바꾼 상태였는데, 일부 조명은 사방으로 움직이기도 했다. A씨는 “잠들려는 찰나에 다시 조명이 반짝하더니 저렇게 해버린다. 조명이 돌아갈 때마다 빛이 다 들어온다”며 “경찰에 신고하면 뭐하나. 방향만 바꿔서 다시 쏘는데. 정말 너무하다”며 불만을 쏟아냈다.&lt;br&gt;&lt;br&gt;이 소식을 접한 네티즌들은 “흠뻑쇼는 매번 이런 잡음이 나오네” “흠뻑쇼가 아니라 민폐쇼 아니냐” “이 정도면 민폐 수준을 넘어섰다. 근처 사는 사람들 다 피해봤을 것” “주민들에게 암막 커튼이라도 사줘야 하는 거 아니냐” “대한민국 연예인들은 법 위에 있나. 연예인 공화국에 사는 천룡인이라 생각하는 거 같다” “미국이었으면 소송감” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;서울대공원 관계자는 조선닷컴과의 통화에서 “대공원에서 새벽에 조명 테스트가 진행된 것은 맞다”면서도 “대공원 측에서 계도는 할 수 있으나, 직접적으로 제재를 할 순 없다. 빛 공해 관련해선 과천시청의 소관”이라고 했다.&lt;br&gt;&lt;br&gt;과천시청 관계자는 “현재 해당 건으로 모두 현장에 나가 있어서 당장 답변을 드릴 수가 없다”고 말했다.&lt;br&gt;&lt;br&gt;싸이의 소속사 피네이션 측은 전화를 받지 않았으며, 메일에도 답변이 없었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘바가지 논란’ 제주 용두암 해산물 판매, 무허가 영업이었다</title>
       <link>https://www.chosun.com/national/regional/2024/07/19/AFCTOAI4TJHIFJ3FGEVSPSLD4M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/19/AFCTOAI4TJHIFJ3FGEVSPSLD4M/</guid>
@@ -999,14 +1008,6 @@
       <description/>
       <pubDate>Fri, 19 Jul 2024 00:16:25 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YQNB7JG7ABEVBJIWZAOFYOIDMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜브 '부산여자하쿠짱TV'의 유튜버가 제주 용두암에서 해녀들로부터 5만원을 주고 구입했다고 밝힌 해산물. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;바가지 가격 논란을 일으킨 제주시 용두암 해안의 해산물 판매자들이 무허가 영업에 원산지 표시 위반도 한 것으로 드러났다.&lt;br&gt;&lt;br&gt;19일 제주도와 제주시, 자치경찰단에 따르면 지난 15일 유명 관광지인 제주시 용두암 해안가에서 천막을 치고 해산물을 파는 상인들을 단속했다.&lt;br&gt;&lt;br&gt;이날 단속은 제주에 거주하는 유튜버 A씨가 지난달 용두암에서 해산물을 구입하는 과정을 영상으로 촬영해 공개한 이후 안전신문고에 위법 판매행위가 의심된다는 민원이 제기돼 진행됐다.&lt;br&gt;&lt;br&gt;단속의 계기가 된 영상에는 A씨가 현금 5만원을 주고 구매한 해산물이 플라스틱 용기에 담겨 나오자 아쉬워하는 모습, A씨와 합석한 손님이 “(제주로 오는) 비행기값이 2만원이다. 다신 안 오고 싶다”고 말하는 장면이 나온다.&lt;br&gt;&lt;br&gt;이 영상이 공개되자 누리꾼들은 “횟집 밑반찬 같은데 5만원이라니 너무 비싸다”, “이러니 제주도 갈 바엔 해외여행 가는 거다” 등의 비난을 쏟아냈다.&lt;br&gt;&lt;br&gt;이번 단속에서는 원산지 표시와 영업 규정에 대한 점검이 이뤄졌다. 점검 결과 50~60대 여성 상인 6명이 해안가 천막 안에서 소라, 해삼 등을 원산지를 표시하지 않고 판매한 것으로 드러났다.&lt;br&gt;&lt;br&gt;무허가 영업도 확인됐다. 해산물을 판매한 용두암 해안가는 공유수면이면서 절대보전지역으로 영업을 하려면 공유수면 점용 사용 허가를 받아야 한다. 하지만 이들 상인은 점용 허가를 받지 않고 무허가로 장사를 했다. 허가 없이 공유수면에서 장사를 하면 3년 이하 징역이나 3000만원 이하 벌금에 처해진다.&lt;br&gt;&lt;br&gt;또 해산물을 직접 잡은 게 아니라 인근 해산물 판매점에서 구입해 영업한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;제주시 관계자는 “상인들이 정확히 언제부터 용두암 해안가에서 무허가로 영업했는지 등을 조사할 계획”이라며 “용두암 천막 영업이 해녀촌으로 소개되다보니 엉뚱하게 해녀들의 이미지를 떨어뜨린 측면도 있는 것 같다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 7월 19일</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/19/4NB7ND2AFFEZBO5XOO6FCEOPDU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/19/4NB7ND2AFFEZBO5XOO6FCEOPDU/</guid>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 20:28:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ON3VZE6GARGA7NH4RRPXFBGB3I.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
