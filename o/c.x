@@ -13,6 +13,45 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>전공의 모집 22일부터 접수... 일부 교수들은 “교육 보이콧”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/07/21/5XYYKTBISNE3TATJGTJXRDAQ5Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/21/5XYYKTBISNE3TATJGTJXRDAQ5Q/</guid>
+      <dc:creator>오경묵 기자, 오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jul 2024 11:51:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMIMLHHGK5L5HMNLHCKS6Q4TV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전공의 대다수가 뚜렷한 복귀 의사를 밝히지 않음에 따라 전체 전공의 1만3천여명 중 1만 명 이상이 사직 처리될 것으로 보인다. 사진은 지난 18일 오후 서울 시내 한 대형병원 전공의 전용공간에 붙어 있는 신입 전공의 모집 안내문. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일부터 하반기 전공의 모집과 의사 국가시험(국시) 접수가 시작되는 가운데, 의료계에서는 파행이 불가피할 것이라는 예상이 나왔다. 전공의 대다수가 복귀하지 않겠다는 입장을 유지하고 있고, 국시 대상인 의대 본과 4학년들은 응시 거부를 예고한 상황이다. 이런 상황에서 일부 대학교수는 하반기 임용 전공의에 대한 교육을 거부하겠다는 움직임을 보이고 있다.&lt;br&gt;&lt;br&gt;21일 정부와 의료계에 따르면, 9월부터 수련을 시작하는 하반기 전공의 모집 접수가 22일 시작해 31일까지 진행된다. 전체 수련 병원이 보건복지부에 신청한 모집 인원은 7707명. 지난 18일 기준 사직 처리된 ‘미복귀 전공의’ 7648명은 하반기 모집에 응할 수 있다. 정부는 이들이 동일 과목·연차로 복귀 가능하도록 하면서 권역 제한도 두지 않기로 했다. 전공의 대거 이탈로 타격을 받은 ‘빅5′ 병원의 전공의를 충원하고 올 하반기 전공의 복귀율을 최대한 끌어올리기 위한 것이다.&lt;br&gt;&lt;br&gt;의료계 안팎에서는 하반기 모집에 지원하는 전공의들이 극소수에 불과할 것이라는 전망이 나왔다. 사직 전공의들이 병·의원 취업이나 군 입대 등 다른 길을 선택할 것이라는 얘기다. 이런 가운데 일부 대학교수는 하반기 모집 전공의에 대한 ‘수련 보이콧’ 의사를 밝혔다. 서울성모병원 등을 수련 병원으로 둔 가톨릭의대 영상의학교실 교수들은 지난 19일 성명을 내고 “하반기에 입사한 전공의에 대한 교육과 지도를 거부할 것”이라고 했다. 이에 대해 병원 측은 “앞서 정부에 신청한 대로 전공의를 선발할 것”이라며 일부 교수가 반발하더라도 전공의를 모집하고 수련·교육할 방안을 마련하겠다는 입장을 밝혔다. 일각에서는 하반기 전공의 모집을 놓고 병원 측과 교수들 사이의 갈등이 커질 것이라는 예상도 나온다. 정부는 “하반기 전공의 수련이 원활하게 진행될 수 있도록 (병원과 교수들을) 최대한 설득하겠다”고 했다.&lt;br&gt;&lt;br&gt;의사 국가시험 접수도 22일 시작된다. 한국보건의료인국가시험원(국시원)은 이날부터 26일까지 의사 국시 실기시험 응시를 접수한다. 의사 면허를 취득하려면 매해 9~11월 순차적으로 진행되는 국시 실기와 이듬해 1월 필기에 합격해야 한다. 하지만 국시 대상인 의대 본과 4학년 대부분은 응시하지 않겠다는 입장으로 알려졌다. 이들이 국시 응시를 거부할 경우 매년 3000명가량 배출되던 신규 의사 공급이 끊기기 때문에 의료 현장의 인력 공백이 더 커질 것이라는 우려가 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한센인 아픔 서린 소록도 보전, 국립공원 등 지정 검토</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/07/21/QG2WG7PN65CCNM3REUEJHG7L7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/21/QG2WG7PN65CCNM3REUEJHG7L7Y/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jul 2024 11:55:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BHR4RCMETVCQJNBV4MQSZDLQCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한센인과 병원 직원만이 거주해 섬 전체가 의료기관인 전남 고흥군 도양읍 소록도 풍경. /고흥군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한센인의 아픔이 서린 전남 고흥군 소록도를 보호 지역으로 지정하는 방안을 추진한다고 환경부가 21일 밝혔다. 한센인을 차별하고 배제한 역사를 기억하고 섬의 아름다운 자연을 보호하자는 취지다.&lt;br&gt;&lt;br&gt;환경부는 최근 소록도 자연환경을 보호하고 섬에 남은 한센인 격리·치료 시설을 유산으로 활용하는 방안을 담은 마스터플랜 수립에 착수했다. 소록도를 국립공원이나 생태경관보전지역 등 보호 지역이나 자연공존지역(OECM), 유네스코 생물권보전지역 등으로 지정하는 방안도 검토할 것으로 알려졌다. 환경부는 “소록도는 한센인 치료를 위해 외부인 접근이 제한된 곳으로, 우수한 자연환경과 특별한 역사·문화 자산이 있어 보전과 발전을 위한 종합 계획이 필요한 상황”이라고 했다.&lt;br&gt;&lt;br&gt;한센병은 과거에는 치료할 수 없는 전염병으로 여겨졌으나, 이제는 2주에서 2개월 정도 약만 먹으면 감염성이 사라지고 꾸준히 치료하면 완치되는 병이 됐다. 한센병 환자가 급감함에 따라 이들의 격리·치료를 위해 마련된 소록도 시설도 방치·훼손돼 보전 필요성이 제기되는 것이다.&lt;br&gt;&lt;br&gt;또 소록도는 그동안 한센인 격리 공간이 되면서 외부와의 왕래가 거의 없어 자연환경이 잘 보전돼 있다. 2009년 소록대교가 개통돼 차로도 갈 수 있는 연륙섬이 됐지만, 섬 전체가 한센병 치료를 위한 병원과 마찬가지여서 일반적으론 소록도중앙공원과 한센병박물관, 해수욕장 등만 방문할 수 있다. 코로나 팬데믹으로 2020년 2월부터 일반인 출입이 통제됐다가 올해 4년 만에 개방되기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>우산 쓴 관객 난입에 이승엽 “말도 안되는 일...부끄럽다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/21/N2LWARYQNVH2FN6HSTEEL7U644/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/21/N2LWARYQNVH2FN6HSTEEL7U644/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jul 2024 11:07:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/32W27SWKDZM5ZJG6W6TWSU4XSA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;(서울=뉴스1) 김진환 기자 = 19일 오후 서울 송파구 잠실야구장에서 열린 프로야구 '2024 신한 SOL 뱅크 KBO리그' 두산 베어스와 LG 트윈스의 경기, 5회말 2사 LG 오지환 타석 상황에서 경기장에 관중이 난입해 소동을 벌이고 있다. 2024.7.19/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 한 관객이 야구 경기 도중 난입해 그라운드를 달린 사건과 관련해 이승엽(47) 두산 베어스 감독이 “말도 안 되는 것”이라고 말했다.&lt;br&gt;&lt;br&gt;21일 스포츠계에 따르면 이 감독은 지난 20일 서울 송파구 잠실구장에서 열린 LG 트윈스와 2024 신한 SOL 뱅크 KBO리그 홈 경기를 앞두고 취재진과 만나 이같이 밝혔다.&lt;br&gt;&lt;br&gt;이 감독은 “말도 안 되는 것이다. 부끄럽다”라며 “그런 행동은 진짜 하지 않았으면 좋겠다”라고 말했다. 이어 “예전에는 좀 당황스러웠다. 다른 많은 분은 또 다른 재미라고 할 수 있겠다. 그렇지만 선수 입장에선 바람직하지 않은 행위다. 다시는 야구장에 안 들어오면 좋겠다”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OU32PNTORVEABIICWY4AIHFNQU.gif"&gt;&lt;figcaption&gt;&lt;small&gt;/티빙 중계화면, 크보짤 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 19일 잠실구장에서 열린 LG트윈스와 두산 베어스의 경기에는 관객이 난입해 그라운드를 달리는 소동이 벌어졌다. 5회 말 LG 공격이 이어지던 중 한 남성이 외야 쪽에서 우산을 펼친 채 갑자기 등장해 그라운드를 달리기 시작한 것이다. 양복 차림의 남성은 두 팔을 하늘로 번쩍 든 채 질주했고 외야를 가로질러 내야까지 내달렸다.&lt;br&gt;&lt;br&gt;1루 쪽에서는 안전요원들과 술래잡기하듯 몸을 이리저리 피하기도 했다. 다만 이런 돌발 행동은 오래가지 않았고 그는 관계자들에게 붙들려 그라운드를 떠났다. 남성은 현장을 벗어나며 선수단이 있는 더그아웃을 향해 손 인사를 하기도 했다.&lt;br&gt;&lt;br&gt;이 모든 과정은 경기를 중계하던 방송사 카메라에 고스란히 담겼다. 해설진도 연신 헛웃음을 지었다. 중계 화면에는 이 광경을 바라보던 염경엽 LG 감독과 코치진이 황당하다는 듯 웃음을 터뜨리는 모습도 찍혔다.&lt;br&gt;&lt;br&gt;이 남성의 돌발 행동으로 인해 이날 경기는 1분여간 중단됐다. 당시 남성은 술에 취한 상태였던 것으로 전해졌다. LG 구단 관계자는 “관객이 우산을 떨어뜨려 이를 줍기 위해 외야에서 뛰어내렸다고 진술했다”며 “경찰에 신고했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/OU32PNTORVEABIICWY4AIHFNQU.gif?width=495&amp;height=320&amp;auth=f317a1709b005ed67a0c4666a2e3b32e91fb25a829619b978582e0c76c23f773&amp;smart=true" type="image/jpeg" height="320" width="495">
+        <media:description type="plain">/티빙 중계화면, 크보짤 인스타그램</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>태풍이 밀어올린 장마전선…내일 중부 또 비</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/07/21/PFA6USXRIJG2DLKF26PHEZ6EPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/21/PFA6USXRIJG2DLKF26PHEZ6EPI/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jul 2024 10:29:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZW7TBNSA6OMQHFNTD6MZLN7OI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 폭우로 수위가 상승한 서울 잠수교에서 관계자들이 통행 재개를 위한 복구 작업을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국을 향해 북상하는 3호 태풍 ‘개미’의 영향으로 22일 중부지방에 장마전선(정체전선)이 다시 찾아오겠다고 기상청이 21일 밝혔다.&lt;br&gt;&lt;br&gt;기상청에 따르면 태풍 ‘개미’는 20일 오후 3시쯤 필리핀 마닐라 동쪽 770㎞ 해상에서 발달해 21일 현재 대만 방향으로 서서히 북상 중이다. 이어 주말쯤엔 중국 상하이 남쪽에 닿을 전망이다.&lt;br&gt;&lt;br&gt;예상 경로상 ‘개미’가 우리나라에 상륙하진 않겠으나, 북진 과정에서 한반도 주변 북태평양고기압을 밀어 올리면서 장마전선도 남부에서 중부로 올라갈 것으로 예상된다. &lt;br&gt;&lt;br&gt;21일 남부에서는 장마전선의 영향으로 전남에 100㎜ 가까운 비가 내렸다. 새벽~아침까지 전남 보성에 95.5㎜가 내렸고, 신안(80.5㎜), 장흥(76.2㎜), 영암(66.5㎜), 목포(46㎜)에 많은 비가 내렸다. 이 전선이 중부를 향하는 것이다.&lt;br&gt;&lt;br&gt;장마전선이 북상하는 22일 오후까지 수도권을 포함한 중부지방 곳곳에 비가 내릴 전망이다. 이어 22일 밤부터 23일까지는 수도권을 중심으로 간간이 비를 뿌리다가 서서히 걷힐 예정이다.&lt;br&gt;&lt;br&gt;21~22일 예상 강수량은 수도권·강원도 20~60㎜, 충청권 10~60㎜로 예보됐다. 21일에 비가 오는 전라·경상권과 제주도는 각각 20~80㎜, 5~40㎜가 예상된다. 23일은 경기 북부 20~80㎜, 서울·인천·경기 남부 10~60㎜, 강원도 5~40㎜다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NO255GCRXZKSHPDRJGIOHX5GJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭염특보가 발효 중인 21일 오후 제주시 협재해수욕장을 찾은 관광객들이 시원한 바닷물에 몸을 담그며 즐거운 시간을 보내고 있다. 2024.07.21. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 기간 장마가 걷히는 남부 지방 전역과 중부 일부 지역에는 폭염 특보가 발효됐다. 21일 기준 수도권과 강원·충청 일부 지역을 제외하곤 최고 체감 기온이 33도 이상으로 높은 상황이다. 22~23일 아침 전국 최저기온은 23~27도, 낮 최고기온은 28~34도로 예보됐다. 이틀간 서울의 낮 최고기온은 29도 안팎으로 전망됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>위스키 성지 남대문시장, 불법 상품권 사전 단속 ‘0′</title>
       <link>https://www.chosun.com/national/national_general/2024/07/21/NMUO6UF73JFCFMSUG2R3VQ7W7I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/21/NMUO6UF73JFCFMSUG2R3VQ7W7I/</guid>
@@ -948,57 +987,6 @@
       <description/>
       <pubDate>Fri, 19 Jul 2024 07:54:41 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XFNE4LFMCJE2B2R5AKZ444Z52M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;허경영 국가혁명당 명예대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여성 신도들을 성추행한 혐의로 피소된 허경영 국가혁명당 명예 대표가 19일 2차 조사를 받기 위해 경찰에 출석했다.&lt;br&gt;&lt;br&gt;조사에 앞서 허 명예대표는 이날 오후 2시 40분쯤 경기북부경찰청 별관 앞에서 기자회견을 열고 “공갈 세력들이 하늘궁을 망하게 하겠다며 성추행 기획 고소를 한 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;그러면서 그는 “공갈 계획이 담긴 녹취록이 있다”며 “(나는) 40년간 강의하면서 1년에 70억씩 정부에 세금을 내는 기업을 운영하고 있고, 한 번도 성추행으로 고소당한 적이 없다”고 주장했다.&lt;br&gt;&lt;br&gt;이에 대해 고소인 측은 ‘허경영을 협박한 공갈 세력은 없다’는 내용의 반박 자료를 냈다. 이들은 “다수의 피해자로부터 피해 사실을 상담하고 신속하게 고소장을 접수한 것”이라며 “허경영에게 협박한 사실이 없다”고 강조했다.&lt;br&gt;&lt;br&gt;앞서 지난 2월 하늘궁 신도들은 허 대표가 상담을 핑계로 여자 신도들의 신체를 접촉하는 등 추행했다며 경찰에 고소장을 제출했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “불공정 수사 등 언급은 피의자의 일방적 주장에 불과하며, 경찰은 절차에 따라 공정하게 수사를 진행하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세]  7월 20일 토요일 (음력 6월 15일 乙酉)</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/19/QPLQ6OW5GZB3HPN3HQ23Q724FM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/19/QPLQ6OW5GZB3HPN3HQ23Q724FM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Jul 2024 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 체면 때문에 말 앞서면 큰 손해. 48년생 힘장사, 꾀 장사 못 당하는 법. 60년생 판단력 잃지 않도록. 72년생 작은 이익에 시비 두렵다. 84년생 있는 역량 다 쏟아내지 마라. 96년생 섣불리 움직이다가 가진 것마저 잃을 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 따듯한 말 한마디 필요. 49년생 환희의 크고 작음에 따라 고뇌도 비례. 61년생 건져주니 보따리 내놓으라 한다. 73년생 남의 돈 천 냥이 내 돈 서푼만 못하다. 85년생 배우자 위로가 산삼보다 낫다. 97년생 이른 충만은 그릇 작다는 반증.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 궤도 수정 불가피할 듯. 50년생 혈압과 심장 질환에 주의. 62년생 말했다면 문제는 실천. 74년생 만족 아는 삶은 행복하다. 86년생 앞면만 말고 뒷면도 볼 줄 알아야. 98년생 지금 눈앞에 있는 사람이 가장 중요한 사람.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 체념도 좋은 선택일 수도. 39년생 돈이 장사요 제갈량이라더니. 51년생 과로나 스트레스는 그때그때 풀도록. 63년생 이동과 변화에 적극 대처하라. 75년생 원숭이띠와의 거래는 득실상반. 87년생 남는 힘과 재물은 비축해 두어라. 99년생 야망은 원대하되 방식과 목표는 구체적이어야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 자신을 과소평가 마라. 40년생 차면 넘치고 넘치면 기우는 것이 세상 이치. 52년생 질환 있다면 서쪽 의사에게. 64년생 기회는 충분히 준비했을 때 잡을 수 있는 것. 76년생 행복한 인간관계는 관심과 사랑뿐. 88년생 금전으로 인한 구설은 피하라. 00년생 현재 위치에서 최선 다하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 생각지 못한 동료나 친구의 도움이 기대. 41년생 비슷할 뿐 진짜가 아니다. 53년생 여행·여가 생활로 삶의 여유를. 65년생 외출은 이롭지 않으니 재택이 상책. 77년생 포장 잘해야 결점 가릴 수 있다. 89년생 결심했으면 미루지 말고 실행하라. 01년생 해외 출장이거나 장거리 이동할 일.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 본심은 절대 드러내지 마라. 42년생 당당하고 대범하게 밀고 나가도록. 54년생 자녀와의 관계에 정성 다하라. 66년생 시기·질투는 가까울수록 더 심한 법. 78년생 방해 공작 있더라도 참고 이겨내라. 90년생 성장통 없이 성장한 것 봤나. 02년생 나간 며느리 효부인 줄 알겠구나.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 동료 사이에도 저의(底意)는 적당히 감춰야. 43년생 주어진 현실에 전력 쏟아야. 55년생 생각처럼 진행되기는 어려울 듯. 67년생 기다리던 소식은 언제 오려나. 79년생 모든 일에는 마무리 중요. 91년생 언쟁은 피하는 게 상책. 03년생 상대 따라 술맛이 달기도 쓰기도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 문서 거래는 오늘이 적기. 44년생 늘 다니던 길이지만 안전에 주의. 56년생 매사 계획대로 이뤄지니 성취감이 곱절. 68년생 양식은 머슴이 먹고 장작은 소가 때고. 80년생 감정 죽이고 이성 깨워라. 92년생 명예 아니면 금전적 보상 뒤따를 듯. 04년생 괜한 일로 심사 언짢아지기 쉬운 하루.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 투자 문제면 한번 더 고민해 봄이. 45년생 겉이 좋다고 속까지 좋을까. 57년생 가급적 바깥출입 삼가도록. 69년생 부인과, 비뇨기과에 문진. 81년생 즉흥적으로 대처 마라. 93년생 손에 쌀 쥐지 않고 불러봐야 닭은 오지 않는다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 순간 기분에 좌우되지 말아야. 46년생 엎어진 김에 쉬어 가라. 58년생 노력에 비해 성과 적을 수도. 70년생 일시적 조정 국면 예상되니 경거망동 마라. 82년생 눈먼 망아지도 명마 낳는다. 94년생 잠자코 있는 게 무식 면한다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 절망의 순간 귀인 도움 있을 듯. 47년생 기다리지 말고 먼저 다가가라. 59년생 잘될 때는 넘어져도 떡함지 엎어지는 법. 71년생 차량과 노상에 주의 필요. 83년생 구분하여 편 가르지 마라. 95년생 적당한 고집은 사태 해결에 불가결한 조건.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘파타야 드럼통 살인사건’ 국내 송환 피의자 구속 송치</title>
-      <link>https://www.chosun.com/national/regional/2024/07/19/GB5DXJ5ZQZEJRDHCPVSZKBCD7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/19/GB5DXJ5ZQZEJRDHCPVSZKBCD7E/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Jul 2024 07:48:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JCNZ66D3YSGDN4W4VP6YKN76E4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;태국 파타야에서 공범 2명과 함께 한국인 관광객을 납치 살해한 혐의를 받는 피의자 이모(27)씨가 지난 12일 경남 창원 성산구 창원지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아에서 국내로 송환된 태국 파타야 살인사건 피의자가 구속 송치됐다.&lt;br&gt;&lt;br&gt;경남경찰청은 19일 강도살인·시체유기·시체손괴·공갈미수 등의 혐의를 받는 이모(27)씨를 검찰에 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;이씨는 지난 5월 3일 태국 파타야에서 공범 2명과 함께 30대 한국인 관광객 A씨를 살해하고, 시신을 유기한 혐의를 받고 있다. 그는 국내에 있는 A씨 가족에게 전화와 문자 등으로 A씨를 살해할 것처럼 협박해 태국 돈 300만밧(약 1억1200만원)을 요구했으나, 미수에 그친 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;이씨는 캄보디아로 달아났다가 경찰 주재관과 현지 경찰 공조로 검거돼 지난 10일 국내로 강제 송환됐으며, 도주와 증거인멸 우려로 구속됐다.&lt;br&gt;&lt;br&gt;한편 지난 5월 검거된 공범 이모(26)씨는 오는 23일 창원지방법원에서 2차 공판이 예정돼 있다. 전북 정읍에서 가장 먼저 체포돼 구속 상태로 재판을 받고 있는 그는 지난 공판에서 혐의를 부인한다는 취지의 입장을 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 현재 도주 중인 김모(39)씨에 대한 추적도 계속하고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>치킨집 사장에 “술 먹자” 동석 강요… 거절하자 손님이 벌인 일</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/19/ICWM27WQABAIPKKYBK3FLJ7424/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/19/ICWM27WQABAIPKKYBK3FLJ7424/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Jul 2024 07:08:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZE6LC7EDCREOFJ3O5XZQVHRCJQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;계산을 요구하자 치킨집 사장을 폭행한 손님(오른쪽). /채널A&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“같이 술 마시자”는 손님의 제안을 거절했다가 폭언을 들은 치킨집 사장의 사연이 전해졌다. 이 손님은 치킨집 영업시간이 끝날 때까지 홀에서 졸다가, 사장이 깨워 계산을 요구했을 땐 폭행을 한 것으로도 알려졌다.&lt;br&gt;&lt;br&gt;이 같은 사연은 치킨집 사장 A씨가 지난 15일 온라인상에 ‘2만원 벌려다 폭행당했다’는 제목의 글을 올리면서 알려졌다.&lt;br&gt;&lt;br&gt;A씨에 따르면, 손님 B씨는 전날 혼자 매장을 찾아 치킨과 술을 주문했다. A씨가 주문한 메뉴를 가져다주자, B씨는 A씨에게 ‘술을 함께 마시자’고 요청했다. 이에 A씨가 ‘술을 못 마신다’고 둘러대자, B씨는 바닥에 침을 뱉고 욕설을 하는 등 소란을 피웠다. 당시엔 A씨가 B씨를 상대하지 않은 채 넘어가 폭행 상황은 발생하지 않았다. B씨는 그렇게 홀로 술을 마시다 잠들었다.&lt;br&gt;&lt;br&gt;폭행이 시작된 건 A씨가 영업시간 종료로 B씨를 깨운 뒤부터다. 당시 B씨는 A씨가 계산 이야기를 꺼내자 “이미 계산했다”고 주장하며 폭행했다고 한다. A씨는 “경찰에 신고하고 들어왔더니 그 뒤로 폭행이 이어졌다”며 “안경 쓴 얼굴과 목, 배 등을 10회 이상 풀스윙으로 가격해 얼굴에 상처가 나고 안경도 부러졌다”고 했다. A씨가 공개한 사진 속엔 얼굴과 가슴팍, 팔 등에 손톱자국이 남아있는 모습이 담겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OWTD6BR4JZFEJK4XLMIAHI75OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;치킨집 사장이 공개한 폭행의 흔적. /보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;B씨는 A씨는 신고로 경찰이 출동한 이후에도 약 30분간 난동을 부린 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 17일 재차 올린 글에서 사건이 검찰 송치됐다고 밝혔다. 이 과정에서 B씨가 합의서를 요구했으나, A씨는 거절했다고 한다. A씨는 “언론에 제보한 영상을 보면 알겠지만, 주먹을 부르르 떨면서 참아야 했다”며 “정말 주먹이 울고 울었던 순간이었는데, 경찰 조사관님의 친절과 방송 인터뷰를 통해 털어놓은 분한 감정으로 답답함은 풀어졌다”고 했다. 그러면서 “죗값 받고나면 그때 후회나 반성은 할까”고 했다.&lt;br&gt;&lt;br&gt;A씨는 언론 인터뷰에서 “(손님에게서) 반성의 기미가 보이지 않았다”며 “합의할 마음 없고 법적 처벌 받게 할 생각”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/OWTD6BR4JZFEJK4XLMIAHI75OY.jpg?width=640&amp;height=376&amp;auth=4bb0ef83b1359e83c8dccbd651f29c212b2220b2b31c0cc28a9953b28c4c511a&amp;smart=true" type="image/jpeg" height="376" width="640">
-        <media:description type="plain">치킨집 사장이 공개한 폭행의 흔적. /보배드림</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>“신고하려면 해” 前여친에 전화 100통...해병대 중위의 스토킹</title>
-      <link>https://www.chosun.com/national/incident/2024/07/19/RQJOBKZR3NGSJJAPIVFJLG4F5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/19/RQJOBKZR3NGSJJAPIVFJLG4F5A/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Jul 2024 07:21:30 +0000</pubDate>
-      <content:encoded>여자친구의 이별 통보를 받은 뒤 집요하게 만남을 요구한 현역 해병대 장교가 스토킹 혐의 피의자로 수사를 받은 것으로 19일 파악됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CDOLHQCICJAQJG6BEEF5GXXYHI.jfif"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 성동경찰서에 따르면 20대 여대생 A씨는 작년 5월부터 B씨와 1년 가까이 교제하다가 지난 4월 B씨에게 이별 의사를 전했다. 그러자 B씨는 하루 최대 100통 전화하는 등 집요하게 연락한 것으로 조사됐다. 심지어 A씨의 거주지와 학교, 자주 방문하는 카페까지 찾아와 만남을 요구했다.&lt;br&gt;&lt;br&gt;A씨가 거부 의사를 밝혀도 B씨의 스토킹은 반복됐다. A씨가 경찰에 신고하겠다고 경고하자 B씨는 “경찰에 신고하려면 신고해라” “난 더 이상 잃을 게 없다”면서 위협적인 행위를 계속했다. 결국 A씨는 지난 5월 30일 B씨를 스토킹처벌법 위반 혐의로 경찰에 신고했다.&lt;br&gt;&lt;br&gt;법원은 지난 달 A씨를 향한 온·오프라인 접근을 모두 금지하는 명령을 B씨에게 내렸으며, A씨는 현재 사회복지시설에서 심리 치료를 받고 있다.&lt;br&gt;&lt;br&gt;A씨를 상대로 조사를 마친 경찰은 B씨가 현역 해병대 장교라는 신분을 고려해 지난 6월 해병대 수사단으로 사건을 이첩했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘바가지 논란’ 제주 용두암 해산물 판매, 무허가 영업이었다</title>
