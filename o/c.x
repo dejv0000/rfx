@@ -13,6 +13,83 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>검찰, 김건희 여사 오늘 새벽까지 11시간50분 대면조사</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/21/J3YRRR7PSFEGHE6TLUVOMUJMPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/21/J3YRRR7PSFEGHE6TLUVOMUJMPI/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Jul 2024 23:59:38 +0000</pubDate>
+      <content:encoded>윤석열 대통령의 부인 김건희 여사가 지난 20일 ‘명품 백 수수 의혹’과 ‘도이치모터스 주가 조작 의혹’과 관련해 검찰 조사를 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I6TTH4FRRO7V4KRWTN54R3BT7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사가 11일(현지시간) 미국 워싱턴DC 민주주의진흥재단(NED)에서 진행된 북한인권간담회에 참석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 반부패수사2부(부장 최재훈)와 형사1부(부장 김승호)는 전날 김 여사를 정부 보안청사에서 대면 조사했다고 21일 밝혔다. 검찰은 “김 여사에 대한 출석을 요구했고, 협의 결과 경호와 안전상의 이유로 서울중앙지검 관할 내 정부 보안청사로 소환해 대면 조사를 실시했다”고 했다.&lt;br&gt;&lt;br&gt;검찰 조사는 전날 오후 1시 30분에 시작해 21일 새벽 1시 20분까지 총 11시간 50분 가량 이뤄졌다고 한다. 김 여사도 심야 조사에 동의한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;서울중앙지검 형사1부는 김 여사가 최재영 목사로부터 명품 백을 수수한 경위, 최 목사가 주장하고 있는 청탁 문제 등을 주로 조사한 것으로 전해졌다. 반부패수사2부는 김 여사가 도이치모터스 주식을 보유하게 된 경위와 주가 조작 관여 여부 등을 조사했다. 김 여사 측 변호인은 “김 여사는 성실히 조사에 임하여 사실 그대로 진술했다”고 했다.&lt;br&gt;&lt;br&gt;현직 대통령의 부인이 검찰 대면 조사를 받은 것은 유례가 없다. 검찰 관계자는 조사 시기·장소 협의 과정에 대해서는 “구체적 수사 상황이라 밝힐 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VGIBFRZOGVFAXLYS3E6KGCWZLY.jpg?width=857&amp;height=482&amp;auth=bdee35cb7e9dfa53744916afd0df77b7411bc9f1ee0e536830e270be061c29e1&amp;smart=true" type="image/jpeg" height="482" width="857">
+        <media:description type="plain">[성남=뉴시스] 최진석 기자 = 윤석열 대통령과 부인 김건희 여사가 12일 북대서양조약기구(NATO·나토) 75주년 정상회의 등 미국 안보순방을 마치고 귀국, 성남 서울공항에서 황우여 국민의힘 비상대책위원장 등 환영 인사들과 인사를 나누고 있다. 2024.07.12. myjs@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">MYJS</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>전남에 밤 사이 최대 95.5㎜ 폭우…도로 침수·주민 대피 잇따라</title>
+      <link>https://www.chosun.com/national/regional/honam/2024/07/21/HFUXIXJHZJCRJA3X2W2CI4ZYSA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/07/21/HFUXIXJHZJCRJA3X2W2CI4ZYSA/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jul 2024 02:46:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/67PL6TLLAVNS5H2LR324BJUX6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 전남 영암군 삼호읍 한 도로가 침수돼 배수 작업이 이뤄지고 있다.  /영암소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남지역에 밤 사이 최대 95.5㎜의 장맛비가 내리면서 도로 침수와 주민 대피가 이어졌다.&lt;br&gt;&lt;br&gt;21일 광주기상청에 따르면 이날 0시부터 오전 8시까지 전남지역에 장마전선의 영향으로 보성 95.5㎜, 신안군 장산도 80.5㎜, 장흥군 76.2㎜, 영암군 66.5㎜, 목포시 46㎜ 등의 강수량을 기록했다. 시간당 강수량은 신안군 옥도 67.5㎜, 보성군 59.5㎜, 장흥군 43.7㎜, 해남군 산이면 42.5㎜ 등으로 강한 비가 내렸다.&lt;br&gt;&lt;br&gt;전남 곳곳에서 내리던 비는 소강상태에 접어들어 13개 시군에 내려졌던 호우특보도 이날 오전 6시30분을 기준으로 모두 해제됐다. 하지만 비가 내리는 동안 도로·주택 침수, 토사 유출 등 27건의 피해 신고가 접수됐다.&lt;br&gt;&lt;br&gt;이날 오전 4시 4분쯤에는 전남 영암군 삼호읍의 한 도로가 침수돼 운전자와 동승자 등 3명이 소방당국에 구조됐고 주변에 있던 시민 5명도 대피했다. 계속된 장맛비로 전남 장흥군은 산사태 경보, 해남군과 보성군, 영광군, 신안군 등에는 산사태 주의보가 발령 중이다.&lt;br&gt;&lt;br&gt;전남지역은 이날 오후까지 10~60㎜의 비가 더 내릴 것으로 전망된다. 기상청 관계자는 “많은 비가 내려 지반이 약해져 있어 산사태나 토사 유출, 시설물 붕괴 등 사고에 유의해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/67PL6TLLAVNS5H2LR324BJUX6Q.jpg?width=1293&amp;height=970&amp;auth=936dc86480b6bf3ac7b3a739dcc6d4a27e7a20eca9df51a64840a87117e5a397&amp;smart=true" type="image/jpeg" height="970" width="1293">
+        <media:description type="plain">&lt;YONHAP PHOTO-1504&gt; 폭우로 영암 도로 침수
+    (영암=연합뉴스) 21일 전남 영암군 삼호읍 한 도로가 침수돼 배수 작업이 이뤄지고 있다. 2024.7.21 [영암소방서 제공. 재판매 및 DB 금지]
+    iny@yna.co.kr/2024-07-21 08:38:39/
+&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">광주전남취재본부</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>차로 카페 들이받고, 여주인 흉기로 살해한 50대 체포</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/07/21/U7APXS6FINFRZLRQIPIXKYNDM4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/07/21/U7APXS6FINFRZLRQIPIXKYNDM4/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jul 2024 02:04:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FYOXMLU654Z4HNTIEQZHUW7FME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 충주경찰서 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 충주경찰서는 차량으로 건물을 들이받고 흉기를 휘둘러 카페 주인을 살해한 혐의(살인)로 A(50대)씨를 현행범으로 체포해 조사하고 있다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 20일 오후 6시 20분쯤 충주시 수안보면의 한 카페 건물을 자신의 SUV(스포츠유틸리티)로 들이받은 후 차에서 내려 카페 주인 B(여·50대)씨에게 흉기를 휘두른 혐의를 받는다. B씨는 심정지 상태로 병원에 옮겨졌지만 결국 숨졌다.&lt;br&gt;&lt;br&gt;당시 카페에는 손님이 없어 다른 인명피해는 없었다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 현장에서 술에 취한 A씨를 붙잡았다. A씨는 경찰에 범행 동기 등에 대한 진술을 거부하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 B씨에 대한 부검을 진행하는 한편, A씨를 상대로 정확한 범행 경위 등을 확인할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/FYOXMLU654Z4HNTIEQZHUW7FME.jpg?width=432&amp;height=279&amp;auth=b922ed42783483cc1e2afafab2952c129a10983d1b5034b6aa57c01ca2ea1897&amp;smart=true" type="image/jpeg" height="279" width="432">
+        <media:description type="plain">충북 충주경찰서 ⓒ News1 장인수 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>집행유예 기간 또 음주운전… 法, 20대 남성 ‘법정 구속’</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/21/2JIU5ZFVUVB4NNXK23NMCPOWPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/21/2JIU5ZFVUVB4NNXK23NMCPOWPA/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jul 2024 01:53:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D6F23UEIQJ22NYUU24NNUELD7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주운전을 단속하는 경찰. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전으로 징역형의 집행유예를 선고받은 상태에서 또 술을 마시고 무면허 운전을 하다 사고를 낸 20대 남성이 결국 법정 구속됐다.&lt;br&gt;&lt;br&gt;인천지법 형사9단독 강태호 판사는 도로교통법상 무면허운전, 음주운전 등 혐의로 기소된 A(24)씨에 대해 징역 1년을 선고하고 법정 구속했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 10월 27일 오전 3시 56분쯤 인천시 미추홀구의 한 도로에서 술을 마시고 운전하다 사고를 낸 혐의로 기소됐다. 그는 당시 면허 취소 수준(0.08% 이상)인 혈중알코올농도 0.179%의 만취 상태에서 운전한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 앞서 지난해 2월 음주운전 혐의로 벌금 800만원의 약식명령을 받았다. 그는 3개월 뒤 무면허 음주운전 혐의로 징역 10개월에 집행유예 2년을 선고받기도 했다.&lt;br&gt;&lt;br&gt;강 판사는 “피고인은 집행유예 기간 중에 자숙하지 않고 얼마 지나지 않아 재차 범행을 저질렀다”며 “당시 혈중알코올농도 수치도 높은 편”이라고 했다. 이어 “범죄 전력을 보면 법을 무시하는 태도를 알 수 있다”며 “죄책에 상응한 처벌이 불가피하다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>자녀 휴대폰 사진 등 빼내 이혼소송 증거로 쓴 40대 아빠 ‘벌금형’</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/07/21/MXYOW63TB5G7FPQMEJZHX3N7KQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/07/21/MXYOW63TB5G7FPQMEJZHX3N7KQ/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jul 2024 01:46:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QZJ55AZDUJGV3K6KO6YUOREPFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법 등 법원 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아내와 이혼소송 중인 40대가 자녀의 방치된 휴대전화 정보를 소송 증거로 사용했다가 벌금형을 받았다.&lt;br&gt;&lt;br&gt;부산지법 형사6부(재판장 김용균)는 정보통신망 이용 촉진 및 정보보호 등에 관한 법률 위반 혐의로 기소된 40대 남성 A씨에게 벌금 200만원을 선고했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 7월 자녀가 휴대전화를 바꾸며 두고 간 기존 기기에 동기화된 사진, 동영상, 연락처, 통화 내역 등을 이혼 소송과 관련된 접근금지 가처분 민사소송의 증거자료로 제출해 타인의 휴대전화에 보관되거나 전송된 비밀을 침해, 누설한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 재판에서 “자녀의 휴대전화가 사용하지 않는 미개통된 상태라 정보통신망이 아닌 단순 저장매체에 불과하고 그 내부 정보도 타인의 비밀에 해당하지 않으며, 전화기 잠금 설정도 돼 있지 않아 무단 열람한 것도 아니다”며 무죄를 주장했다.&lt;br&gt;&lt;br&gt;재판부는 “미개통 상태인 휴대전화라 해도 와이파이를 통해 동기화돼 있는 정보를 열람하고 취득한 것은 관련 법령에서 정하는 정보통신망에 의해 처리, 보관, 전송되는 타인의 비밀을 침해·누설한 것에 해당한다”며 “A씨가 빼낸 정보 대부분은 피해자의 사생활에 관한 것이고 가처분 사건과 직접적인 관련성이 높지 않아 그 행위를 정당한 것으로 볼 수도 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>63세 최화정 “결혼 반대한 전 남친母 가장 고맙다”…왜?</title>
+      <link>https://www.chosun.com/national/people/2024/07/21/U3KBQLIW7BCK5GTHPL6WL37GBI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/07/21/U3KBQLIW7BCK5GTHPL6WL37GBI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jul 2024 01:34:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LGJS63LRRBIJRPPRBYU66XPR2M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 최화정. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 최화정(63)이 결혼을 반대한 전 남자친구의 어머니가 너무 감사했다고 발언해 화제가 되고 있다.&lt;br&gt;&lt;br&gt;미혼인 최화정은 지난 18일 한 유튜브 채널에 출연해 “(결혼 질문은) 우리나라 문화상 ‘오늘 날씨 좋죠?’랑 같은 의미인 것 같다”며 “나는 심지어 ‘결혼 안 하고 뭐 하냐’고 야단도 맞았다. (나를 야단친) 그 선배는 그게 애정인 거다”라고 말했다.&lt;br&gt;&lt;br&gt;최화정은 “한 번은 누구랑 모였는데, (나를 향해) ‘됐어. 결혼 안 했잖아’ 이러더라. 결혼 안 한 인생 그냥 봐주자 이런 식으로”라며 “나는 (혼자 사는 게) 진심으로 좋다. 추석날 늦게까지 잠자는 게 너무 좋다. 그런데 이런 얘기를 하면 정서상 비호감이 된다”고 했다.&lt;br&gt;&lt;br&gt;최화정은 “어떤 사람은 나이 들어서 외로운데 결국 남편이 있어야 한다고 하더라”며 “그런데 아들 셋이 다 박사면 뭐하냐. 다 독일에 가 있어서 죽을 때 뛰어올 수 있는 사람이 없다”라고 했다.&lt;br&gt;&lt;br&gt;최화정은 과거 ‘결혼을 반대한 구남친 어머님께 영광을 돌린다’라는 말로 화제가 됐던 것에 대해서는 “나는 전 남자친구 어머니께 너무 감사했다”며 “’내일 지구 종말이 와서 고마운 사람 한 사람을 꼽으라면 누굴까’라는 생각을 했었는데, 나는 결혼을 반대한 구남친 어머니가 떠오르더라”라고 말했다.&lt;br&gt;&lt;br&gt;최화정은 “그쪽에서 반대를 안 해서 결혼을 했으면 나는 지금 X됐다. 결혼이 성사가 안 된 게 너무 다행이다”라며 “사랑이라는 건 사실 순간적인 매혹이다. 외모나 매력은 찰나다. 겉보다 사람의 깊은 인성이나 매력을 볼 줄 알아야 한다. 그런데 어렸을 땐 그게 안 보인다”라고 말했다.&lt;br&gt;&lt;br&gt;‘정말 깊이감 있는 남자가 나타나면 결혼할 거냐’라는 질문에는 “결혼은 안 하고 (아파트) 옆동에 살고 이러면 좋을 것 같다. 그럼 너무 이상적일 것 같다. 위아래층은 너무 부담스럽다”라고 답했다.&lt;br&gt;&lt;br&gt;1979년 TBC의 공채 탤런트로 데뷔한 최화정은 지난 1996년부터 SBS라디오 파워FM ‘최화정의 파워타임’을 27년간 진행했다. 최화정은 지난달 라디오 ‘파워타임’에서 하차했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>무대 조명 와르르... 싸이 흠뻑쇼, 폭우·낙뢰로 1시간 만에 중단</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/21/YIBGEO5N35DD7JZEQDKF6BXLE4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/21/YIBGEO5N35DD7JZEQDKF6BXLE4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jul 2024 00:05:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LYVDHXZKLFCPLA6JDOXDQLX7Z4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 싸이 흠뻑쇼 공연 도중 조명이 추락하는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 싸이(본명 박재상·47)의 여름 콘서트 ‘흠뻑쇼’ 과천 공연이 폭우와 낙뢰 등으로 중단됐다.&lt;br&gt;&lt;br&gt;싸이는 20일 오후 과천 서울대공원에서 ‘싸이흠뻑쇼 SUMMERSWAG 2024(썸머스웨그 2024)’를 진행했다.&lt;br&gt;&lt;br&gt;공연 시작 전부터 비가 내리고 있었는데 공연 시작 후에는 비바람이 몰아치고 벼락까지 떨어졌다. 이날 공연 과정에서 무대 조명이 비바람에 떨어지는 아찔한 장면이 연출되기도 했다.&lt;br&gt;&lt;br&gt;결국 안전상의 이유로 공연은 1시간여 만에 취소됐다. 관객들은 모두 무사히 귀가했다. 이날 스태프와 관객들 중 다친 사람은 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;싸이의 소속사 피네이션은 “강한 돌풍을 동반한 국지성 폭우 및 낙뢰 등 악천후로 인해 정상적인 공연 진행이 어렵다고 판단돼 관객과 스태프의 안전을 최우선으로 하고자 공연 중단 결정을 내리게 됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;피네이션은 과천 공연 관객에게 티켓 환불 조치를 진행할 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BID6BI5VMVEXLLZTRZ6YGEWAVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;싸이 흠뻑쇼 무대 조명이 떨어진 모습. /소셜미디어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;싸이는 자신의 소셜미디어를 통해 “순간적으로 몰아치는 비바람과 낙뢰. 예측할 수도 없었고 겪어 보지도 못한 상황이었다”며 “그 순간 가장 중요한 건 관객과 스태프의 안전이었다. 침착하게 대처해 주신 관객들께 너무 큰 감사드린다”고 했다.&lt;br&gt;&lt;br&gt;싸이는 “오늘 하루 저마다 기대를 갖고 먼 길을 찾아와 주셨다. 하지만 예기치 못한 기상 상황에 공연을 중단할 수밖에 없었다”며 “저 역시 돌아가는 뒷모습을 보면서 속상했다. 그러나 관객분들의 안전보다 중요한 건 없었다. 양해해 주셔서 다시 한번 너무 감사하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘뺑소니’ 김호중, 경찰 수사받던 중 1500만원 기부했다…왜?</title>
       <link>https://www.chosun.com/national/national_general/2024/07/21/L3NMJQIBQBBVBASKXC5PFGNBBQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/21/L3NMJQIBQBBVBASKXC5PFGNBBQ/</guid>
@@ -891,15 +968,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/COMP3MJF3NGBPFP4SN2PQGZOMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만취 상태에서 차량을 몰다 오토바이를 치는 사고를 낸 뒤 차량이 고가교 밑으로 떨어지자 현장에서 달아났던 40대 운전자가 구속 전 피의자 심문(영장실질심사)에 불출석해 경찰이 소재 파악에 나섰다.&lt;br&gt;&lt;br&gt;19일 인천 미추홀경찰서에 따르면 음주운전, 특정범죄가중처벌 등에 관한 법률 위반(도주치상) 등의 혐의로 사전구속영장이 청구된 40대 남성 A씨는 전날 열린 법원의 영장실질심사에 출석하지 않았다.&lt;br&gt;&lt;br&gt;A씨는 이에 앞서 긴급체포 됐으나 검찰의 구속영장 기각으로 지난 15일 석방됐다. 경찰은 이에 불구속 상태에서 조사를 진행한 뒤 사전구속영장을 검찰에 신청했다. 그러나 A씨는 불출석 사유도 설명하지 않고 법원에 오지 않았다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 신병을 확보한 뒤 사전구속영장 청구와 함께 발부된 구인장을 집행해 다시 영장실질심사를 받도록 할 방침이다.&lt;br&gt;&lt;br&gt;A 씨는 지난 14일 오후 9시 23분쯤 인천시 미추홀구 도화동의 한 도로에서 음주 운전을 하다 오토바이를 들이받은 뒤 도주한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;당시 오토바이 운전자가 위협 운전을 이유로 A 씨에게 항의하다 음주 운전을 의심해 경찰에 신고했다. 이후 A 씨는 동구 송림고가교에서 차량이 추락해 도랑으로 빠지는 사고를 낸 뒤 현장에서 도주했고, 1시간 30분쯤 지난 뒤 사고지점에서 350m 떨어진 곳에서 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[단독] 서울대, 교수 호봉제 철폐...누적식 성과연봉제 검토</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/19/WPXVAJTGTJDSLC3IICRJ45NWWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/19/WPXVAJTGTJDSLC3IICRJ45NWWQ/</guid>
-      <dc:creator>박정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Jul 2024 00:35:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FM6SXMUNX536TUZ3GIGYNRHNO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대 정문./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대가 교수 철밥통의 상징인 호봉제를 철폐하고 성과연봉제 도입을 준비 중인 가운데 과거에 받은 성과가 다음해 성과에도 꾸준히 반영되도록 하는 ‘누적식’ 성과연봉제를 추진하는 쪽으로 무게가 실린 것으로 19일 알려졌다. 서울대는 이날 오후 교수들을 대상으로 설명회를 열고 성과연봉제 방향을 논의한다.&lt;br&gt;&lt;br&gt;최근 서울대는 교수들의 성과에 따라 연봉을 차등 지급하는 성과연봉제 도입을 준비 중이다. 서울대에서 추진 중인 성과연봉제의 가장 큰 핵심은 성과연봉제의 방식이 비누적식이 아닌 누적식으로 가도록 방향이 잡혔다는 것이다. 누적식은 전년도에 낸 성과로 받은 성과급이 다음해에도 영향을 미치도록 하는 것이고 비누적식은 매년마다 성과가 초기화돼 새로이 경쟁하는 방식이다. 앞서 2016년에 성과연봉제를 도입한 국립대들은 정년보장 교원에 대해선 비누적식 성과연봉제를 진행하고 있다. 당초 교육부 등은 누적식을 원했으나 국립대 내에서 상대적으로 경쟁의 강도가 높은 누적식에 대한 반발이 있어 비누적식으로 결정된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;서울대 본부는 성과에 따라 연봉 차등을 두는 성과연봉제의 본 취지를 살리기 위해선 누적식이 필요하다는 입장이다. 누적식이 그간의 성과를 꾸준히 반영할 수 있고, 비누적식의 경우에는 매년 성과가 초기화되기에 교수들끼리 돌아가면서 성과를 내는 담합이 이뤄질 수도 있다는 우려에서다.&lt;br&gt;&lt;br&gt;다만 서울대 내 일각에서는 누적식에 대한 반대 입장도 나온다. 한 서울대 교수는 “누적식이 성과를 더 확실하게 반영하는 효과는 있지만, 단점으로 젊을 때 열심히 성과를 내고 말년에 노는 사람에 비해 젊을 때 헤매다가 말년에 성과 잘 낸 사람이 손해를 볼 여지가 있다”고 했다. 이에 대해 서울대 본부에서는 “계산 방식을 세밀히 짜면 후반부에 잘한 사람도 충분히 (초반에 잘한 사람을) 따라갈 수 있는 구조”라고 반박했다. 누적식의 경우 시간이 오래 지날 경우 교수들 간의 연봉 격차가 더 커지기에 이 같은 경쟁에 더 크게 노출된다는 점에서 부담을 갖는 이들도 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;성과 평가 방식을 어떻게 가져가야 할지를 두고도 앞으로 논쟁이 이어질 전망이다. 특히 연구, 교육, 사회공헌 중 교육에 대한 평가 지표를 만드는 것이 가장 난관이 있을 전망이다. 교수 연구를 평가하는 것에 관해선 그간 국제적으로 나온 평가 방식들이 있고 서울대도 국제 표준을 따라가는 것에 대해 크게 거부감이 없는 상태로 전해졌다. 하지만 교육의 경우 이 같은 명확한 평가 방식이 상대적으로 부족한 것이 문제다. 가령 단순히 수업을 들은 수강생의 강의평가에만 의존한다면 성적을 잘 받은 학생이 점수를 잘 주는 ‘결과평가’의 문제가 있을 수 있어 과정에 대한 평가도 세밀히 잘할 수 있는 보완책이 필요하단 것이다. 한 서울대 관계자는 “학생들이 이해하기 용이하게 쉬운 내용을 강의하는 교수와 내용 자체는 어렵더라도 전문적인 지식을 강의하는 교수를 어떻게 비교 평가할지 등이 관건”이라고 했다.&lt;br&gt;&lt;br&gt;한편 서울대 관계자는 “단순히 성과연봉제를 통해 상대평가를 실시하고 교수 사이의 성과급 차이를 얼마나 두는지를 넘어 학교 이름에 걸맞게 경쟁력을 갖춘 보수 체계를 만들어 우수한 교원이 서울대로 오게끔 만드는 것이 핵심”이라며 “현재는 서울대 교수 임금이 전체적으로 낮은 편이라 키 작은 사람을 줄 세우는 것과 같은데 이는 결국 찻잔 속 태풍으로 끝날 것”이라고 했다. 이어 “서울대는 세금을 받는 곳이고, 성과연봉제 또한 세금 지원을 통해 이뤄지는 것”이라며 “사회에서 (서울대에) 투자해주는 만큼 효과가 나도록 좋은 안을 고민하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘바가지 논란’ 제주 용두암 해산물 판매, 무허가 영업이었다</title>
       <link>https://www.chosun.com/national/regional/2024/07/19/AFCTOAI4TJHIFJ3FGEVSPSLD4M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/19/AFCTOAI4TJHIFJ3FGEVSPSLD4M/</guid>
@@ -907,45 +975,6 @@
       <description/>
       <pubDate>Fri, 19 Jul 2024 00:16:25 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YQNB7JG7ABEVBJIWZAOFYOIDMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜브 '부산여자하쿠짱TV'의 유튜버가 제주 용두암에서 해녀들로부터 5만원을 주고 구입했다고 밝힌 해산물. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;바가지 가격 논란을 일으킨 제주시 용두암 해안의 해산물 판매자들이 무허가 영업에 원산지 표시 위반도 한 것으로 드러났다.&lt;br&gt;&lt;br&gt;19일 제주도와 제주시, 자치경찰단에 따르면 지난 15일 유명 관광지인 제주시 용두암 해안가에서 천막을 치고 해산물을 파는 상인들을 단속했다.&lt;br&gt;&lt;br&gt;이날 단속은 제주에 거주하는 유튜버 A씨가 지난달 용두암에서 해산물을 구입하는 과정을 영상으로 촬영해 공개한 이후 안전신문고에 위법 판매행위가 의심된다는 민원이 제기돼 진행됐다.&lt;br&gt;&lt;br&gt;단속의 계기가 된 영상에는 A씨가 현금 5만원을 주고 구매한 해산물이 플라스틱 용기에 담겨 나오자 아쉬워하는 모습, A씨와 합석한 손님이 “(제주로 오는) 비행기값이 2만원이다. 다신 안 오고 싶다”고 말하는 장면이 나온다.&lt;br&gt;&lt;br&gt;이 영상이 공개되자 누리꾼들은 “횟집 밑반찬 같은데 5만원이라니 너무 비싸다”, “이러니 제주도 갈 바엔 해외여행 가는 거다” 등의 비난을 쏟아냈다.&lt;br&gt;&lt;br&gt;이번 단속에서는 원산지 표시와 영업 규정에 대한 점검이 이뤄졌다. 점검 결과 50~60대 여성 상인 6명이 해안가 천막 안에서 소라, 해삼 등을 원산지를 표시하지 않고 판매한 것으로 드러났다.&lt;br&gt;&lt;br&gt;무허가 영업도 확인됐다. 해산물을 판매한 용두암 해안가는 공유수면이면서 절대보전지역으로 영업을 하려면 공유수면 점용 사용 허가를 받아야 한다. 하지만 이들 상인은 점용 허가를 받지 않고 무허가로 장사를 했다. 허가 없이 공유수면에서 장사를 하면 3년 이하 징역이나 3000만원 이하 벌금에 처해진다.&lt;br&gt;&lt;br&gt;또 해산물을 직접 잡은 게 아니라 인근 해산물 판매점에서 구입해 영업한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;제주시 관계자는 “상인들이 정확히 언제부터 용두암 해안가에서 무허가로 영업했는지 등을 조사할 계획”이라며 “용두암 천막 영업이 해녀촌으로 소개되다보니 엉뚱하게 해녀들의 이미지를 떨어뜨린 측면도 있는 것 같다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>22일 만의 北 오물풍선...경기북부에서 66건 신고</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/19/I2YAIWNICFGQJA673SH3BCGJG4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/19/I2YAIWNICFGQJA673SH3BCGJG4/</guid>
-      <dc:creator>의정부=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 23:23:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SMXUXDG3BRFM7RJCAKABLNGPDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북한의 대남 오물풍선. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 18일 북한이 살포한 대남 오물풍선이 경기북부 지역에서 다수 발견됐다.&lt;br&gt;&lt;br&gt;19일 경기북부경찰청에 따르면 이날 오전 5시 기준 오물풍선 관련 신고는 총 66건이 접수됐다. 경찰은 이 중 42건을 군 당국에 인계했다. 관할 경찰서별로 보면 의정부 19건, 파주 11건, 양주 10건, 일산서부 1건, 연천 1건 등 42건이다.&lt;br&gt;&lt;br&gt;경기북부 관내에서 지난 5월 28일 이후로 접수된 오물 풍선 관련 112신고는 총 720건이다. 한편 경기남부에서도 부천 지역에서 오물풍선이 발견됐다는 신고 1건이 있었으나 오인신고로 판명됐다. &lt;br&gt;&lt;br&gt;합참은 “떨어진 풍선을 발견하면 접촉하지 말고 가까운 군부대나 경찰에 신고해 주기 바란다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“창문 열고 퇴근했는데 폭우 쏟아져”…여고생들 선행에 감동한 사연</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/19/F6KSUJSV4ZBMBHYSSDOFYCLJPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/19/F6KSUJSV4ZBMBHYSSDOFYCLJPA/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 22:21:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UBPQCIYY3RD7BIT2RMJPHICFGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭우가 오자 스터디카페 창문을 닫고 청소하는 여고생들./YTN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;창문을 열어 놓고 퇴근한 스터디카페 사장이 갑작스러운 비 소식으로 곤란을 겪을 뻔했으나 여고생들의 선한 행동 덕분에 비 피해를 막을 수 있었다는 사연이 전해졌다.&lt;br&gt;&lt;br&gt;경북 경산에서 스터디카페를 운영하는 A씨는 지난달 겪은 훈훈한 일화를 최근 YTN을 통해 전했다.&lt;br&gt;&lt;br&gt;보도에 따르면 A씨는 지난달 15일 밤 카페를 마감한 뒤 창문을 연 채 퇴근했다. 전날 밤까지만 해도 비예보가 없었지만 다음날 아침 예상치 못한 폭우가 내렸다는 사실을 알게 됐다.&lt;br&gt;&lt;br&gt;휴게실이 엉망이 되었을 거라고 생각하며 출근한 A씨의 예상과 달리 휴게실 창문은 모두 닫혀 있었고, 휴게실은 깨끗했다.&lt;br&gt;&lt;br&gt;의아한 A씨는 곧장 방범카메라(CCTV) 영상을 살펴보다가 깜짝 놀랐다. 영상에는 인근 고등학교에 다니는 여학생 두 명이 창문을 닫고 빗물로 어질러진 테이블을 손수 닦아낸 모습이 담겨 있었다. 학생들은 모든 정리가 끝난 뒤 조용히 휴게실을 떠났다.&lt;br&gt;&lt;br&gt;A씨는 “다른 사람들은 그냥 지나쳤을 수도 있지만, 두 학생은 마치 자기 일처럼 정리해 줘서 정말 고마웠다”며 “학생들에게 인사와 함께 조각 케이크를 선물로 드렸다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “학생들에게 감사함을 전하니 오히려 당연한 일을 했을 뿐이라며 겸손하게 반응을 보이더라. 행동뿐만 아니라, 말도 예쁘게 해서 너무 감동하였다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“하루 5마리는 잡혀요” 러브버그 들끓자 이 식물 인기</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/19/SUPLUFHJWZBORBG4VBJMUDEESE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/19/SUPLUFHJWZBORBG4VBJMUDEESE/</guid>
-      <dc:creator>서보범 기자, 김도균 인턴기자(충남대 사회학 수료)</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 16:25:23 +0000</pubDate>
-      <content:encoded>무더위와 장마로 벌레가 기승을 부리자 각종 식충(食蟲)식물이 주목받고 있다. 서울 서대문구에 사는 정모(44·여)씨는 지난 5월 에셀리아나(벌레잡이제비꽃류)와 필리포미스(끈끈이주걱류)라는 식충식물 두 종을 분양받았다. 최근 집 안에 뿌리파리, 러브버그 등 날벌레들이 들끓었기 때문이다. 정씨는 “동네 꽃집에 가서 ‘벌레 잘 잡는 놈으로 달라’고 했다”며 “실제로 러브버그나 모기 같은 벌레들이 한가득 잡히고 있다”고 했다.&lt;br&gt;&lt;br&gt;서울시에 따르면 지난해 러브버그 민원(5600건)은 2022년(4418건)보다 약 27% 증가했다. 이상기후로 인해 벌레 떼가 급증하면서 일부 시민이 10여 종에 이르는 각종 식충식물에 관심을 보이고 있다. 필리포미스로 대표되는 끈끈이주걱류는 잎에서 향기가 나는 점액질을 분비해 벌레를 유인, 소화액을 내뿜어 영양분으로 흡수한다. 필리포미스는 연분홍색 꽃을 피우기 때문에 미관상으로도 좋아 가장 인기가 많다고 한다. 에셀리아나·아그나타 등 벌레잡이제비꽃류 역시 점액질을 분비하는 방식을 이용한다. 가장 흔하게 알려진 식충식물 ‘파리지옥’은 잎에 난 감각모 세 쌍에 벌레가 닿으면 잎을 닫고 소화액을 분비하는데, 벌레를 잘 잡지는 못한다는 평가다.&lt;br&gt;&lt;br&gt;인천 부평구에 사는 김모(31·여)씨는 “반려견이 있어 벌레 퇴치제를 쓰기는 곤란한 상황이었다”면서 “그러던 중 식물 관련 온라인 커뮤니티에서 식충식물을 추천받았다”고 했다. 김씨는 지난 4월부터 아그나타를 키우고 있는데, 러브버그나 날파리가 하루에 최소 5마리씩은 잡힌다고 했다. 그는 “결과가 만족스러워 화분 수도 늘리고, 카펜시스·필리포미스 등 다른 종도 추가했다”고 했다.&lt;br&gt;&lt;br&gt;경기 광주시 한국벌레잡이식물원 관계자는 “보통 식충식물 구입 문의는 한여름에 종종 있었는데 이상기후 탓인지 올해는 5월부터 찾는 손님이 많다”며 “식충식물 매출이 작년보다 50%가량 늘었다”고 했다. 경기 고양시 한국화훼농협 식물판매처 관계자는 “어떤 종이 가장 벌레를 잘 잡는지 문의하시는 분이 많다”며 “첫 구매 이후 만족한다며 재방문하는 손님도 많다”고 했다. 임기병 경북대 원예과학과 교수는 “식충식물은 본래 극소수 마니아층에서 관상용으로 소비해왔는데, ‘벌레 퇴치’를 목적으로 한 재배는 기존의 화훼 문화와는 다른 양상”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>파주부터 당진까지 휩쓴 물폭탄, 오늘은 다시 남부 친다</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/18/WU35ZOARDFFRBIV6Y2RZ4ENCEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/18/WU35ZOARDFFRBIV6Y2RZ4ENCEA/</guid>
-      <dc:creator>파주=김현수 기자, 당진=김석모 기자, 김윤주 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 14:33:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TQLWRCVNTVNOZNL3ZEII33IBO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;파주 지역에 폭우가 내린 18일 경기 파주시 월롱면 인근의 한 마을이 물에 잠겨 있다. 2024.07.18. 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수도권 등 중부지방에 17~18일 이틀간 최대 600㎜가 넘는 폭우가 쏟아지면서 곳곳이 물에 잠겼다. 특히 파주에는 이틀간 비가 600.1㎜ 내려 도로가 잠기는 등 피해가 속출했다. 파주 1년 강수량(1295.8㎜)의 절반에 달하는 양이 단 이틀 만에 쏟아진 것이다.&lt;br&gt;&lt;br&gt;이날 오전 4시 50분쯤 파주 월롱면에서는 “도로에 물이 넘쳐 차 문이 열리지 않는다”는 신고가 접수돼 119 구조대가 출동했다. 오전 10시쯤에는 공장들이 침수되면서 외국인 근로자 5명이 고립되기도 했다. 이날 파주 주민들은 “하늘에 구멍이 뚫린 것 같았다” “이틀 내내 불안해서 잠을 설쳤다”고 했다.&lt;br&gt;&lt;br&gt;이날 오전 시간당 최대 87㎜ 폭우가 쏟아진 충남 당진시는 거리 곳곳이 흙탕물에 잠겼다. 당진전통시장은 점포 175곳이 침수 피해를 봤다. 상인 신상욱(32)씨는 “손쓸 틈도 없이 빗물이 무릎까지 차올랐다”고 말했다. 당진천 근처에 있는 탑동초와 당진정보고는 운동장과 학교 1층이 침수돼 학생 1900명이 일시적으로 고립됐다.&lt;br&gt;&lt;br&gt;경기 오산에서는 오산천 탑동대교의 수위가 오전 한때 홍수 경보 기준인 4.20m를 넘어 4.96m까지 치솟았다. 오산시는 이날 오전 9시 20분 오산천 인근 주민들에게 주민 대피 명령을 내렸다.&lt;br&gt;&lt;br&gt;경기 안성시 고삼저수지 낚시터에서 낚싯배가 뒤집히면서 2명이 실종됐다.&lt;br&gt;&lt;br&gt;중부지방에 집중호우를 내린 장마전선은 남쪽으로 이동해 19일 오전부터는 남부 지방에 많은 비를 뿌릴 것이라고 기상청은 예보했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MBECHK4OGVBB3IVQFQUWEB6P6A.gif?width=1400&amp;height=788&amp;auth=20f615bd2cbdcd4a1f41fd1abfb3170f046e59f5b282a4f1b9c2d5abb807f851&amp;smart=true" type="image/jpeg" height="788" width="1400">
-        <media:description type="plain">평택 폭우-GIF-3</media:description>
-      </media:content>
     </item>
     <item>
       <title>동성 커플도 사실혼 배우자처럼 건보 혜택 준다</title>
@@ -963,24 +992,6 @@
       <description/>
       <pubDate>Thu, 18 Jul 2024 20:28:42 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ON3VZE6GARGA7NH4RRPXFBGB3I.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘민주당 돈봉투’ 윤관석, 2심에서도 징역 2년</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/19/ETINCEGA3FA4NK6IKQKAUVEO4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/19/ETINCEGA3FA4NK6IKQKAUVEO4I/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 16:24:47 +0000</pubDate>
-      <content:encoded>‘민주당 전당대회 돈봉투 사건’으로 재판에 넘겨진 윤관석 전 의원이 2심에서도 실형을 선고받았다.&lt;br&gt;&lt;br&gt;서울고법 형사3부(재판장 이창형)는 18일 정당법 위반 혐의로 기소된 윤 전 의원에게 1심과 같이 징역 2년을 선고했다. 법원은 또 정당법 및 정치자금법 위반, 뇌물 수수 혐의를 받는 강래구(전 한국수자원공사 상임감사위원)씨에게도 1심과 같이 징역 1년 8개월에 벌금 600만원, 추징금 300만원을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “선거인을 돈으로 매수하는 행위는 민주주의의 뿌리를 흔드는 중대 범죄”라며 “윤 전 의원은 3선 국회의원으로서 정당법 등 관련 법제를 충분히 인식했으면서도 선출직 공직자에게 요구되는 기대를 스스로 저버렸다”고 했다. 그러면서 “이 사건 관련 보도가 나오자 강씨와 연락해 사건 축소를 시도한 점도 고려했다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 윤 전 의원이 민주당 전당대회를 앞둔 2021년 4월 송영길 전 대표 당선을 위해 강씨 등에게 민주당 의원들에 대한 금품 제공을 요청하고, 300만원씩 담긴 돈봉투 20개(6000만원)를 두 차례에 걸쳐 받았다는 혐의를 유죄로 판단했다. 강씨가 경선 캠프의 실질적 조직총괄본부장 역할을 맡으면서, 이성만 전 민주당 의원과 사업가 김모씨에게 각각 1000만원, 5000만원을 받아 현역 의원과 지역본부장들에게 줄 금품을 마련한 혐의도 유죄로 인정됐다.&lt;br&gt;&lt;br&gt;한편, 윤 전 의원은 이번에 2심 결과가 나온 재판과 별개로 이 사건 돈봉투를 허종식 의원과 이성만·임종성 전 의원에게 준 혐의로도 기소돼 재판을 받고 있다. 내달 30일 1심 선고가 예정돼 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“현금 3만~4만원 훔쳤다” 16년 만에 붙잡힌 시흥 수퍼마켓 강도살인범</title>
-      <link>https://www.chosun.com/national/regional/2024/07/18/NGRKTW6JJVCGLJYQAFCE2RTO5Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/18/NGRKTW6JJVCGLJYQAFCE2RTO5Y/</guid>
-      <dc:creator>수원=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 02:42:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3LU4MBIOK4PP2XIPE2WVS5IPCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16년전 발생한 시흥 슈퍼마켓 강도살인 사건 용의자 검거에 결정적인 단서가 된 수배전단. 경찰은 2017년 장기미제사건에 대한 재수사에 들어가면서 새로 제작해 배포한 이 전단을 보고 지난 2월 제보가 들어왔다고 밝혔다. /시흥경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 경기 시흥 수퍼마켓 살인강도 용의자를 16년 만에 검거하는 과정에서 2017년 장기미제사건에 대한 재수사를 시작하며 새로 제작해 배포한 수배전단이 결정적인 역할을 한 것으로 나타났다. 경찰에 따르면 용의자 A(49)씨는 당시 수퍼마켓 점주를 살해하고 3만~4만원을 훔쳤다고 자백했다.&lt;br&gt;&lt;br&gt;경기 시흥경찰서는 18일 강도살인혐의로 구속된 A씨를 검거하게 된 경위에 대한 브리핑을 갖고 “2017년 제작해 배포한 수배전단을 보고 지난 2월 담당 형사에게 ‘전단에 나오는 사람이 맞는 것 같다’는 내용의 제보가 접수됐다”고 밝혔다. 또 신빙성이 있다고 판단해 전담팀을 편성, 재수사를 진행해 지난 14일 검거에 성공했다고 소개했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2008년 12월 9일 오전 4시쯤 시흥시 정왕동의 한 수퍼마켓에 침입해 점주 B(당시 40대) 씨를 흉기로 살해한 뒤 금품을 빼앗아 달아난 혐의를 받고 있다. 당시 범인은 검정색 트레이닝복 차림에 복면을 쓰고 침입했으며, 범행 장면은 매장 안 보안카메라(CCTV)에 포착됐다. 경찰은 A씨가 이보다 이틀 앞서 얼굴이 드러내고 방문한 영상을 확보해 유력한 용의자로 공개 수배했으나 신원 파악에 어려움을 겪으면서 장기 미제사건이 됐다.&lt;br&gt;&lt;br&gt;A씨는 이번 경찰 조사에서 “담배를 구입하기 위해 수퍼를 찾았을 당시 B씨가 깊이 잠이 들어 불러도 잘 깨지 않았고, 금고에 들어있던 만원권 지폐를 보고 절도를 결심했다”고 진술했다. 이어 이틀 뒤 새벽 시간에 흉기를 가방에 넣고 마스크, 장갑을 착용한 상태로 들어가 금고를 털다가 발각되자 B씨를 찌르고 도주했다고 자백했다.&lt;br&gt;&lt;br&gt;그는 범행 직후 시흥에 있던 지인의 집에 들어 옷을 갈아입고 경남 마산의 본가로 도주했다고 진술했다. 또 훔친 돈은 3만~4만원으로 피가 묻어있어 버렸다고 한다. 국립과학수사연구원 감식에서 B씨는 목 등 7곳을 찔린 것으로 파악됐다. A씨는 도주하면서 범행도구인 흉기는 대전의 고속도로에 유기하고, 옷가지는 진주에서 쓰레기통에 버렸다고 진술했다.&lt;br&gt;&lt;br&gt;A씨는 당시 경남 지역에서 생활했으며 시흥에는 약 1~2개월 지인의 집에 묵었던 것으로 파악됐다. 경찰은 범행 당시 검거에 실패한 이유에 대해서는 “직접 증거가 없어 탐문조사를 했으나 용의자가 시흥에 잠시 거주했기 때문에 포착되지 않았던 것으로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 자백 이외에 범행 현장에 남긴 지문이나 DNA 등 직접 증거는 부족한 상황이어서 보강수사에 주력하고 있다. A씨가 범행 시점을 전후로 광명, 화성 등 인근지역에서 현금 인출 등 금융거래 내역이 있었던 것을 확인했다. 또 A씨 주변의 참고인 등이 당시 방범카메라에 포착된 영상 등을 근거로 A씨가 맞다고 지목하고 있다고 전했다.&lt;br&gt;&lt;br&gt;특히 영상분석 전문업체에 의뢰해 16년 전 방범카메라에 포착된 얼굴을 다른 사진도 대조했다. 범행 이전인 2006년 운전면허증 사진과는 92.919% 이상 동일인 가능성이 있다는 분석 결과도 나왔다. 경찰은 제보 이후 검거까지 5개월이 걸린 것은 장기 미제사건이라 확인할 내용이 많았고 피의자의 행적에 대한 조사에 시간이 소요됐기 때문이라고 설명했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 검거 직후 조사에서 범행을 부인했다. 그러나 경찰관의 설득과 프로파일러 면담 과정에서 심경의 변화를 느끼고 17일 오전 6시에 경찰관 면담을 자청해 자백을 했다고 한다. 그는 범행을 자백하면서 “가족들이 살인자 가족으로 지목될까지 걱정돼 부인했다”는 말을 했다고 경찰은 전했다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 2008년 강도살인 범행 이후에도 절도 등의 범죄를 저질렀다는 정황이 있는 만큼 지난 16년간의 행적과 여죄에 대해서도 확인할 방침이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
