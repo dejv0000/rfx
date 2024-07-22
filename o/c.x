@@ -13,6 +13,73 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘핼러윈 참사 부실대응’ 이임재 前 용산서장 징역 7년 구형</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/22/2OYDRWF27RDNTLDFV3QATJIFCQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/22/2OYDRWF27RDNTLDFV3QATJIFCQ/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 22 Jul 2024 10:33:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJLV6J5VYNJX5PFNB7R65O4XTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이임재 전 용산경찰서장이 22일 오전 서울서부지방법원에서 열린 핼러윈 참사 관련 업무상과실치사 혐의 등에 관한 15차 공판에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 핼러윈 참사 부실대응 혐의로 재판에 넘겨진 이임재(54) 전 서울 용산경찰서장에게 실형을 구형했다.&lt;br&gt;&lt;br&gt;검찰은 22일 서울서부지법 형사합의11부(재판장 배성중) 심리로 열린 결심공판에서 업무상과실치사 혐의 등으로 기소된 이 전 서장에게 징역 7년을 선고해달라고 요청했다. 같은 혐의로 기소된 송병주(53) 전 용산서 112 상황실장과 박인혁 전 112치안종합상황실 팀장에게는 각각 금고 5년과 2년6개월을 구형했다. 허위공문서 작성 등 혐의를 받는 정현우(54) 전 여성청소년과장과 최모 전 생활안전과 경위에 대해서는 각각 징역 1년6개월과 징역 1년을 선고해달라고 했다.&lt;br&gt;&lt;br&gt;검찰은 이 전 서장이 “이번 사고를 막을 가장 큰 책임이 있는 사람 중 한 명”이라며 “법령과 매뉴얼에 따라 사고를 예측해 대책을 마련하고 사고 현장에서 인명피해를 막아야 할 권한과 책임을 가진 지역 경찰의 컨트롤 타워”라고 지적했다. 이어 “자신의 책임을 전혀 이행하지 않고 사고를 막기 위한 실질적 조치도 하지 않았다”며 “피고인은 신속한 초동 조처를 한 것처럼 보고서를 만들어 자신의 과오를 은폐하기에 바빴다”고 했다. 검찰은 “피고인의 과실로 인한 결과가 중대해 준엄한 처벌이 필요하다”고 구형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;이 전 서장은 유가족이 있는 방청석을 향해 “그날 그 거리에 국민을 지켜드리지 못해 죄송하다”며 “모든 비판과 비난을 겸허히 받아들이겠다”고 고개를 숙였다. 이어 “함께 재판받는 동료 직원들에게 책임을 묻지 말고 서장에게 물어달라”며 “고인과 유족들에게 죄송하다. 날이 갈수록 그리움과 슬픔이 얼마나 크실지 생각하며 겸허한 마음으로 모든 것을 내려놓겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MTYHUWXYAZOYBEVXCZGQ5XLH5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이정민 10·29 핼러윈 참사 유가족협의회 운영위원장이 22일 서울서부지방법원 앞에서 책임자 엄벌 등을 촉구하며 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 이날 재판에서 이 전 서장 측은 대규모 압사 사고를 예상할 수 없었다는 점을 들며 대책 마련과 참사 발생 후 조처에 소홀했다는 검찰에 지적에 대해 반론을 제기했다. 또 이 전 서장의 변호인이 참사를 방화에 비유하며 “소방 설비를 하지 않은 건물에 방화범이 불을 질러 사람이 사망했을 경우 설비를 하지 않은 사람에게 인과관계를 물을 수 있느냐”는 취지의 변론을 펴 유가족이 거세게 반발하기도 했다.&lt;br&gt;&lt;br&gt;이 전 서장은 핼러윈 참사 당일 이태원 일대에 대규모 인파로 인한 안전사고 발생을 예견할 수 있었으나 사고 방지 대책을 세우지 않고, 경비 기동대 배치와 도로 통제 등 조치를 제때 취하지 않아 인명피해를 키운 혐의로 지난해 1월 기소됐다. 이 전 서장은 부실 대응을 은폐하기 위해 자신의 현장 도착 시간을 허위로 기재하도록 직원들에게 지시한 혐의(허위공문서작성·행사)와 국회 청문회에서 참사를 더 늦게 인지한 것처럼 증언하고 서울경찰청 경비기동대 지원 요청을 지시했다고 허위 증언한 혐의(국회에서의증언·감정등에관한법률위반죄)도 받는다.&lt;br&gt;&lt;br&gt;검찰은 참사 직전 압사 위험을 알리는 112 신고에도 적절한 안전조치를 취하지 않은 혐의를 받는 송 전 실장과 인파 관련 안전조치를 제대로 하지 않은 혐의를 받는 박 전 팀장에게도 업무상과실치사상 혐의를 적용했다. 정 전 과장과 최모 경위는 참사 당시 이 전 서장과 관련해 허위 보고서를 작성한 혐의로 기소됐다. 앞서 이 전 서장과 송 전 실장은 지난해 7월 보석으로 풀려난 뒤 불구속 상태로 재판을 받아왔다. 이들에 대한 선고기일은 오는 9월 30일이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>유튜브 압수수색했다는 경찰 “美구글 답신 못받아”</title>
+      <link>https://www.chosun.com/national/2024/07/22/ZBRT3SOTBFFI7MSAUIMNRCBKUE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/07/22/ZBRT3SOTBFFI7MSAUIMNRCBKUE/</guid>
+      <dc:creator>주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 22 Jul 2024 12:32:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XYDFIM436BRRPRXZFGPYY7PO6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 경찰청 국가수사본부./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“36주 된 태아를 낙태했다”고 주장해 논란이 된 유튜브 영상과 관련, 경찰은 최근 미국 구글 본사 측에 압수수색 영장 공문을 보냈다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;경찰청 국가수사본부 관계자는 22일 정례 기자간담회에서 “지난주에 게시자 특정을 위해 영상이 올라온 매체에 대해 압수수색 영장을 집행했다”고 밝혔다. 이와 관련해 일부 매체는 ‘유튜브 코리아’에 대해 압수 수색을 실시한 것으로 보도했다.&lt;br&gt;&lt;br&gt;논란이 불거지자 국수본은 브리핑이 끝난 지 9시간 후쯤 ‘자료 협조를 위한 압수수색 영장을 법원에서 발부받았고 경찰이 이를 미국 구글 본사, 유튜브 측에 보냈다’고 설명했다. 그러면서 경찰은 “아직 구글에서 회신을 받지 못한 상태”라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/XYDFIM436BRRPRXZFGPYY7PO6Q.jpg?width=3623&amp;height=2609&amp;auth=7463138d5717bc1592d65baa22e80ea1d0d07cb3fd2ee78d2aee0ce3c49f5fd6&amp;smart=true" type="image/jpeg" height="2609" width="3623">
+        <media:description type="plain">서울 서대문구 경찰청 국가수사본부./뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>공수처, '임성근 구명 로비’ 의혹 前경호처 직원 소환 조사</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/22/UKMFR623CBFYNN4IOV7EFQRWW4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/22/UKMFR623CBFYNN4IOV7EFQRWW4/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 22 Jul 2024 12:36:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMCYKXH6INZFKSUKNRBRBZHD7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자수사처 현판. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해병대원 순직 사건을 수사하는 고위공직자범죄수사처가 임성근 전 해병대 1사단장의 ‘구명 로비’에 관여했다는 의혹을 받는 전직 청와대 경호처 직원을 22일 소환 조사했다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 공수처 수사4부(부장 이대환)는 이날 청와대 경호처 출신 송모씨를 참고인 신분으로 불러 조사했다. 송씨는 ‘도이치모터스 주가 조작’ 공범 이종호씨, 김규현 변호사 등과 함께 모임을 운영하며 임 전 사단장 구명을 도왔다는 의혹을 받고 있다. 송씨는 또 2022년 6월 경기 화성시 해병대 골프장에서 임 전 사단장과 골프를 함께 치기도 했다.&lt;br&gt;&lt;br&gt;공수처는 송씨가 작년 8월 임 전 사단장의 사의 표명을 만류하는 메시지를 보낸 경위와 구명 시도 여부 등을 확인한 것으로 전해졌다. 송씨는 작년 8월 2일 임 전 사단장의 사의 표명 소식을 언론에서 보고 안부 연락을 했을 뿐이라는 취지로 답했다고 한다. 일각에서 제기된 임 전 사단장에 대한 구명 로비 의혹도 부인한 것으로 전해졌다. 송씨는 임 전 사단장과 2022년 6월 골프를 친 사실은 있지만, 그 이후 이종호씨 등과 골프를 친 적은 없다고 공수처에 밝혔다고 한다.&lt;br&gt;&lt;br&gt;앞서 김규현 변호사는 작년 8월 9일 이씨가 “(임 전 사단장의 사퇴와 관련해) 내가 VIP에게 얘기하겠다”고 말하는 녹취록을 공개하며 구명 로비설을 제기했다. 김건희 여사와 과거 친분이 있던 이씨가 김 여사를 통해 임 전 사단장 구명을 청탁했을 것이란 주장이다. 김 변호사는 또 같은 날 송씨가 자신과 통화하면서 “나는 사단장만 잘 살피고 있다. 내가 통화도 하고 그랬다”고 말한 녹취록도 공개했다. 송씨는 이에 대해 “후배(김규현 변호사)와의 사적인 통화로 심하게 왜곡되고 부풀려졌다”는 입장이다.&lt;br&gt;&lt;br&gt;송씨는 이날 공수처 조사를 마친 후 “어둠이 순간은 가릴 수 있어도 진실은 가릴 수 없을 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>음성 폐수처리장서 작업하던 60대, 가스 중독으로 사망…당국 조사</title>
+      <link>https://www.chosun.com/national/incident/2024/07/22/RR3KWXPM25HTNHXR6NRDXKR2BU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/22/RR3KWXPM25HTNHXR6NRDXKR2BU/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 22 Jul 2024 11:38:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LZUVJEDVWARPIOEATKJP3IZ3UU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음성 폐수처리장 사고 현장. /음성소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 음성군의 한 폐수처리장에서 60대 작업자가 가스 중독으로 쓰러져 사망하는 사고가 발생해 당국이 조사에 나섰다.&lt;br&gt;&lt;br&gt;22일 음성소방서와 고용 당국 등에 따르면 지난 16일 오전 10시 38분쯤 충북 음성군 맹동산업단지 공공폐수처리장에서 전처리 설비 내부 철거 작업을 하던 60대 남성 A씨와 30대 남성 B씨가 가스에 중독돼 쓰러지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;이들은 신고를 받고 출동한 소방 당국에 의해 병원으로 옮겨졌다. 하지만 A씨는 사고 3일 만인 지난 19일 숨졌다.&lt;br&gt;&lt;br&gt;이들은 유기물이 부패하는 과정에서 생성되는 유독가스인 황화수소에 중독된 것으로 추정되고 있다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 마스크 등 보호장구를 착용하지 않고 작업했던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;고용 당국은 공사 발주처인 음성군을 상대로 산업안전보건규칙과 중대재해처벌법 위반 여부를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>野 단독으로 ‘노란봉투법’ 환노위 통과...25일 본회의서 처리 방침  </title>
+      <link>https://www.chosun.com/national/labor/2024/07/22/YV6O3FOKWFFXVJJGL74IJQNWSQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/07/22/YV6O3FOKWFFXVJJGL74IJQNWSQ/</guid>
+      <dc:creator>김윤주 기자</dc:creator>
+      <description>22일 국회 환경노동위원회에서 ‘노동조합 및 노동관계조정법 개정안’(이른바 ‘노란봉투법’)이 의결됐다. 이정식 고용노동부 장관은 “특정 소수 노동조합의 불법 행위에 대한 책임을 감면하고, 기득권을 강화하며, 노동 현장의 갈등과 혼란을 초래할 것”이라며 “정부는 반대 입장을 분명히 표명할 수 밖에 없다”고 밝혔다.</description>
+      <pubDate>Mon, 22 Jul 2024 10:53:08 +0000</pubDate>
+      <content:encoded>22일 국회 환경노동위원회에서 ‘노동조합 및 노동관계조정법 개정안’(이른바 ‘노란봉투법’)이 의결됐다. 이정식 고용노동부 장관은 “특정 소수 노동조합의 불법 행위에 대한 책임을 감면하고, 기득권을 강화하며, 노동 현장의 갈등과 혼란을 초래할 것”이라며 “정부는 반대 입장을 분명히 표명할 수 밖에 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “그동안 법을 준수하면서 노동기본권을 보호하고 상생의 노사관계를 지향해 온 우리 사회의 노력이 일부 노조의 특권화와 파업의 일상화로 물거품이 되지 않도록 앞으로 남은 국회의 심의과정에서 충분한 협의가 이루어지기를 요청한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D44HHD3TNUYD3VCOQXC762OYIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이정식 고용노동부장관이 지난달 27일 오후 서울 여의도 국회에서 열린 환경노동위원회 전체회의 노동조합 및 노동관계조정법 일부개정법률안에 대한 입법청문회에 증인으로 출석해 자료를 살펴보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국회 환노위는 이날 야당 의원들만 참여한 상태에서 ‘노란봉투법’을 의결했다. 국민의힘 의원들은 처리에 반대해 퇴장했다.&lt;br&gt;&lt;br&gt;노란봉투법은 파업 노동자에 대한 기업의 손해배상 청구를 제한하는 내용이 핵심이다. 앞서 21대 국회에서 윤석열 대통령의 거부권(재의요구권) 행사로 폐기됐다가 이번 국회 들어 다시 발의됐다.&lt;br&gt;&lt;br&gt;환노위 의결 직후 이 장관은 입장문을 내고 “정부가 그동안 우리 노사관계와 국민 경제에 미치는 부작용이 큰 노동조합법 개정안에 대한 우려를 지속적으로 표명해왔음에도 환노위에서 의결돼 유감”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이어 이 장관은 “대한민국 헌법은 근로자의 기본권을 보장하고 있으며, 노동조합법은 헌법상 노동3권의 보호범위 내에서 정당한 조합활동에 대해 민·형사상 책임을 면책하고 있다”며 “그러나 개정안은 헌법상 기본권 간 균형을 깨뜨리고 있다”고 지적했다. 이어 “개정안은 불법행위자가 노동조합이라는 이유로 특혜를 부여하고, 피해자의 손해배상 청구를 사실상 제한하고 있어 재산권을 과도하게 침해한다”고 했다.&lt;br&gt;&lt;br&gt;또 “개정안은 특정 소수 노조의 기득권을 강화한다”며 “2009년부터 2022년 8월까지 노동조합 불법 행위에 대한 손해배상 실태를 살펴보면 대다수 노동조합은 법을 잘 준수하고 있는데 반해 손해배상 인용액 대부분이 특정 노조 소속 사업장에 집중돼 있다”고 지적했다.&lt;br&gt;&lt;br&gt;이 장관은 노란봉투법이 시행되면 “파업 등 실력 행사를 통해 노사 문제를 해결하려는 관행이 고착화될 것”이라며 “그 피해와 불편함은 고스란히 국민에게 전가될 것”이라고 우려했다.&lt;br&gt;&lt;br&gt;한국경영자총협회도 이날 입장문을 내고 “개정안이 통과될 경우 우리나라 법체계의 근간이 흔들리고, 노사관계는 돌이킬 수 없는 파탄 국면에 이르게 될 것”이라며 “경영활동을 크게 위축시킬 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;한편 민주당은 이 법안을 법사위를 거쳐 오는 25일 본회의에서 처리한다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이별 통보한 여성 살해... 50대 남성 구속</title>
+      <link>https://www.chosun.com/national/incident/2024/07/22/BM5UHBUP75F3HGMC4AKTLUZJEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/22/BM5UHBUP75F3HGMC4AKTLUZJEI/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 22 Jul 2024 10:37:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4R6O2W3HSZENVO54TI4AZUMSO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이별을 통보한 여성을 흉기로 찔러 숨지게 한 50대 남성이 경찰에 구속됐다.&lt;br&gt;&lt;br&gt;충북 충주경찰서는 살인 혐의로 50대 남성 A씨를 구속했다고 22일 밝혔다. A씨는 지난 20일 오후 6시 20분쯤 충북 충주시 수안보면의 한 카페에서 50대 여성 B씨를 흉기로 여러 차례 찔러 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 술을 마신 채 자신의 SUV를 몰고 B씨가 운영하는 카페로 이동해 카페 건물을 들이받은 뒤, B씨에게 흉기를 휘두른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 B씨가 전날 모임에서 다툰 뒤 이별을 통보하자 범행한 것으로 파악됐다. 경찰 관계자는 “A씨가 범행 후 ‘내가 사람을 죽였다’고 112에 자수했다”며 “조만간 검찰에 송치할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘전세계 50마리’ 멸종 직전 희귀새, 청주에서 유기된 사연</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/22/EJ27ELPNAZB3NJOIZSIBBAJM4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/22/EJ27ELPNAZB3NJOIZSIBBAJM4U/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 22 Jul 2024 10:40:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMWMUYJH4VGWTCY3A5ALAVMD64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세계자연보전연맹 적색 목록 절멸 직전의 희귀새인 ‘댕기흰찌르레기(발리미나)’ 한 쌍이 충북 청주에서 유기된 채로 발견됐다. /국가동물보호정보시스템&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전세계적으로 멸종 직전의 희귀새인 ‘댕기흰찌르레기(발리미나)’ 한 쌍이 충북 청주에서 유기된 채로 발견됐다.&lt;br&gt;&lt;br&gt;22일 국가동물보호정보시스템에 따르면, 댕기흰찌르레기 한 쌍이 지난 19일 청주 동물원 부근에서 발견됐다. 이 개체는 지난 19일 유기동물 입양플랫폼 ‘포인핸드’에도 올라왔는데, 공고기간인 19일부터 오는 29일까지 10일간 보호하게 된다. 개인 입양은 불가능하며, 청주동물원에서 보호하다 국립생태원으로 인계할 예정이다.&lt;br&gt;&lt;br&gt;댕기흰찌르레기는 몸길이 약 25cm, 100g의 작은 새로, 깃털은 날개 끝과 꽁지 끝의 검은색을 제외하고는 거의 흰색이며 눈 주위에 파란색 피부가 살짝 보인다. 2020년 기준 약 50마리 미만의 성조만이 야생에 존재하는 것으로 추정되며, 인도네시아 발리섬 북서부의 자연보호구역에서 매우 적은 수가 분포하는 것으로 알려졌다. 세계자연보전연맹(IUCN) 적색목록 야생절멸 직전 단계인 ‘위급’에 등재된 심각한 멸종위기종이다.&lt;br&gt;&lt;br&gt;댕기흰찌르레기는 ‘멸종위기에 처한 야생 동·식물종의 국제거래에 관한 협약’(CITES) 부속서 1급의 멸종위기종으로 상업목적의 국제거래는 일반적으로 금지돼있으며, 학술연구목적의 거래만 가능하다. 즉 CITES 부속서 1급에 해당하는 모든 동물은 개인이 기를 수 없다.&lt;br&gt;&lt;br&gt;CITES종을 소유하거나 거래할 때는 ‘야생생물 보호 및 관리에 관한 법률(야생생물법)’에 따라 담당 환경청의 허가를 받거나 신고를 해야 한다. 또한, CITES종을 타인에게 분양하거나 받고자 할 경우, 폐사한 경우에도 담당 환경청에 거래내용을 신고해야 한다.&lt;br&gt;&lt;br&gt;야생생물법 제68조에 따르면 CITES 1급을 가공·유통·보관·수출·수입·반출·반입한 경우 3년 이하의 징역 또는 300만원 이상 3000만원 이하의 벌금에 처한다.&lt;br&gt;&lt;br&gt;환경부는 불법 유통되는 CITES 종의 시장 공급을 사전차단하기 위해 신고포상제도를 시행하고 있다. 허가 없이 CITES 1급을 취득·양도·양수·운반·보관하거나 이런 행위를 알선한 자, 허가 없이 CITES 1·2 급을 수출·수입·반출·반입한 자를 신고하면 포상금을 받을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘SM 시세조종’ 혐의 카카오 김범수, 영장실질심사 종료</title>
       <link>https://www.chosun.com/national/national_general/2024/07/22/ERHQIR7AXFFW5AX7YOAZOSXIZI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/22/ERHQIR7AXFFW5AX7YOAZOSXIZI/</guid>
@@ -844,64 +911,6 @@
       <description/>
       <pubDate>Sun, 21 Jul 2024 15:50:33 +0000</pubDate>
       <content:encoded>▲&lt;b&gt;이설리&lt;/b&gt; 별세, &lt;b&gt;윤종곤&lt;/b&gt; 목사 아내상, &lt;b&gt;윤정현&lt;/b&gt; 작가·&lt;b&gt;윤주현&lt;/b&gt; 서울대 미대 교수·&lt;b&gt;윤정주&lt;/b&gt; 산본 명문치과 원장 모친상, &lt;b&gt;이범균&lt;/b&gt; 법무법인 송우 대표변호사·&lt;b&gt;김승련&lt;/b&gt; 동아일보 논설위원 장모상, &lt;b&gt;백경혜&lt;/b&gt; 성남중앙병원 치과 과장 시모상=20일11시 서울성모병원, 발인 23일9시, (02)2258-5925&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한덕구&lt;/b&gt; 별세, &lt;b&gt;한경선&lt;/b&gt; 국세공무원교육원장 부친상=20일17시30분 중앙대광명병원, 발인 23일5시30분, (02)2610-9489&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 적당한 시기를 (가늠) 보다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/07/22/66N67EE2GVGZ5N4LVPGFH35H74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/07/22/66N67EE2GVGZ5N4LVPGFH35H74/</guid>
-      <description/>
-      <pubDate>Sun, 21 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BGBKVUNRDVBW3PJ54LR3J6NZUY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 익충(益蟲)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/22/PXM73KEKI5AB5KBHGCN5WRI2IA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/22/PXM73KEKI5AB5KBHGCN5WRI2IA/</guid>
-      <description/>
-      <pubDate>Sun, 21 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LQ3XYTAEFVDV5LDKWN4P7EWTOU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2425] 사다리를 타자</title>
-      <link>https://www.chosun.com/national/nie/2024/07/22/AM7MSO7LANF5NPEIM6N62LZ7YE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/22/AM7MSO7LANF5NPEIM6N62LZ7YE/</guid>
-      <description/>
-      <pubDate>Sun, 21 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RFW7NFRCRZHL3JUDHQE2CVNW7I.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 씹는 맛</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/07/22/CZOGSVTRPVANZAH2DHKNNWQ2GA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/07/22/CZOGSVTRPVANZAH2DHKNNWQ2GA/</guid>
-      <description/>
-      <pubDate>Sun, 21 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXBHSDBYZRDABGQYHZUVDOTE3A.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] line of work</title>
-      <link>https://www.chosun.com/national/nie/english/2024/07/22/XSKMWK7EOVFLZPFFHFGVM6NKCM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/07/22/XSKMWK7EOVFLZPFFHFGVM6NKCM/</guid>
-      <description/>
-      <pubDate>Sun, 21 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NLOKAVVBYJGYPGCVVADYIUV36I.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재밌다, 이 책!] 추억의 알제리서 지나간 청춘 회상 후 내면에 ‘불굴의 여름’ 있다는 것 깨달아</title>
-      <link>https://www.chosun.com/national/nie/2024/07/22/VTLXSSJ7URARLB5TWIV3U4YDNQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/22/VTLXSSJ7URARLB5TWIV3U4YDNQ/</guid>
-      <dc:creator>김미향 출판평론가·수필가</dc:creator>
-      <description/>
-      <pubDate>Sun, 21 Jul 2024 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PGCVNB7TPRGAPCIG752XTC6C5I.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;여름&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;알베르 카뮈 지음 l 박해현 옮김 l 출판사 휴머니스트 l 가격 1만3000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;알베르 카뮈의 깊은 사색을 엿볼 수 있는 책이에요. 1957년 마흔넷의 나이에 노벨문학상을 수상한 그가 각기 다른 시기에 쓴 8편의 에세이를 모아 출간했어요.&lt;br&gt;&lt;br&gt;알베르 카뮈는 알제리의 소도시 몽도비에서 태어난 프랑스인이에요. 생후 8개월부터 ‘태양의 도시’라고 불리는 알제리의 또 다른 도시 ‘알제’의 빈민가에서 자라며 청년기를 보냈어요. 그는 알제를 ‘진정한 고향’으로 여겼지요. 알제에서 고등학교를 다닌 카뮈는 졸업반 때, 자신이 평생 스승으로 모시게 되는 철학자 장 그르니에를 만나기도 했어요.&lt;br&gt;&lt;br&gt;이 책에 실린 첫 번째 에세이 ‘미노타우로스 또는 오랑에서 멈춘 발걸음’은 이렇게 카뮈가 애정을 가지고 있는 알제리를 배경으로 해요. ‘오랑’은 알제리 북서부에 있는 항구 도시인데요. 카뮈는 촌스럽고 소박한 오랑의 기성세대와 할리우드 배우를 추종하는 젊은 세대의 모습을 희극적이면서도 사랑스러운 시선으로 묘사하고 있지요. 이는 ‘지중해인’이라는 자의식을 가진 카뮈가 오랑 사람들의 정서와 그들이 미래를 위해 노력하는 삶의 태도를 잘 알고 소중히 여겼기 때문이에요.&lt;br&gt;&lt;br&gt;이 글의 부제는 ‘피에르 갈랭도에게’인데요. 피에르 갈랭도는 카뮈가 청년 시절부터 평생을 가까이한 친구예요. 오랑 출신이죠. 피에르 갈랭도는 우람한 몸집에 과묵하고 냉담한 성격을 가졌는데, 오랑의 해변에서 아랍인들과 충돌한 적이 있었어요. 카뮈는 피에르 갈랭도의 이 경험을 듣고, ‘이방인’에 나오는 살인 장면을 구상했다고 해요.&lt;br&gt;&lt;br&gt;카뮈에게 여름과 태양은 중요한 의미를 가지고 있어요. 여름은 청춘이고, 태양은 영원한 청춘을 밝히는 아름다운 존재이면서 지나치게 아름다운 나머지 억압적인 존재이기도 합니다. 이 책의 ‘티파사에 돌아오다’에선 전자의 태양을 엿볼 수 있어요. 카뮈는 젊은 날 찾았던 알제리 도시 티파사를 다시 방문한 여정을 이 글로 기록했는데, 이곳에서 짧은 여름처럼 지나간 청춘의 일부를 회상해요. 그리고 현실은 겨울처럼 냉혹하지만, 그의 내면에 ‘불굴의 여름’이 버티고 있음을 다시 깨닫게 돼요. 겉은 아름답지만 안으로는 메마른 과육만 남은 오렌지가 되지 않으려면 자기 내면에 신선함과 기쁨의 샘터를 보존하고, 불의에서 벗어나는 한낮을 사랑하고, 그렇게 성취한 빛을 휘둘러 다시 투쟁해야 한다는 진실도 자각하죠.&lt;br&gt;&lt;br&gt;이처럼 책에 실린 카뮈의 에세이들엔 세상이 혼란스럽고 어려움이 많더라도, 우리는 우리만의 희망을 세우고 그 희망을 현실로 만들어야 한다는 긍정적인 메시지가 잘 녹아 있어요. “우리는 제정신을 잃은 하늘에 우리가 희망하는 태양들을 밝혀두고 있다”는 카뮈의 문장처럼, 힘든 세상 속에서도 자신의 길을 찾아 나아가 보세요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [식물 이야기] 연보라색 꽃잎 활짝 펼친 야생화… 이름에 ‘풀’ 있지만 나무랍니다</title>
-      <link>https://www.chosun.com/national/nie/2024/07/22/GOIE4URTEVGVFOHFITPVCVPXMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/22/GOIE4URTEVGVFOHFITPVCVPXMY/</guid>
-      <dc:creator>김민철 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 21 Jul 2024 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YASTWR2KWRC2ZFKFDBOWOE7NZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;자주조희풀에 꽃이 핀 모습. /김민철 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;요즘 산에 가면 두꺼운 연보라색 화피(꽃잎과 꽃받침)를 활짝 펼치고 있는 꽃, 자주조희풀을 만날 수 있습니다.&lt;br&gt;&lt;br&gt;만나면 탄성이 절로 나오는, 원예종에서 느낄 수 없는 야생화만의 아름다움을 유감없이 보여주는 대표적인 꽃입니다. 생소할 수 있지만 산에 가면 어렵지 않게 만날 수 있답니다.&lt;br&gt;&lt;br&gt;자주조희풀의 꽃 색을 연보라색으로 표현했지만 짙은 하늘색, 남색, 남청색, 청자색이라고도 할 수 있는 다양하고 고운 색입니다. 꽃이 벌어지기 전엔 전체적으로 원기둥 모양이었다가 꽃봉오리 윗부분이 4개로 갈라져 넓게 수평으로 펼쳐집니다. 꽃잎 가장자리에는 구불거리는 주름이 있습니다. 꽃대가 짧아 꽃이 줄기에 다닥다닥 붙어 핀 것처럼 보이죠.&lt;br&gt;&lt;br&gt;병조희풀은 이름에서 짐작할 수 있듯이 자주조희풀과 비슷하게 생겼습니다. 둘은 꽃이 피기 전에는 구분하기가 어려울 정도로 비슷합니다. 둘 다 잎이 3개의 작은잎으로 이루어졌는데, 작은잎 가장자리에는 거친 톱니가 있습니다.&lt;br&gt;&lt;br&gt;꽃이 피면 둘을 구분하는데 어려움이 없습니다. 병조희풀은 꽃 모양이 아래쪽이 볼록한 것이 청자병 또는 호리병을 닮았습니다. 또 화피의 끝이 좁고 뒤로 젖혀져 있습니다. 반면 자주조희풀은 꽃 아래쪽이 볼록하지 않고 화피가 깊이 갈라져 있습니다.&lt;br&gt;&lt;br&gt;조희풀이라는 특이한 이름은 어디에서 유래했을까요. ‘종이풀’에서 변한 것으로 보는 견해가 많습니다. 옛날에 조희풀 잎과 줄기 껍질로 종이를 만든 데서 유래했다는 얘기도 있고, 이 식물 잎을 묵나물로 만들어 먹으면 종이를 씹는 맛이 나기 때문이라는 주장도 있습니다.&lt;br&gt;&lt;br&gt;특이한 것은 두 조희풀 이름에 ‘풀’이 들어가 있지만 줄기의 아래쪽은 목질화해 겨울에도 남아있기 때문에 나무라는 점입니다. 골담초·낭아초 등도 이름에 ‘풀 초(草)’가 들어 있지만 나무로 분류하는 식물입니다.&lt;br&gt;&lt;br&gt;두 조희풀은 으아리, 사위질빵, 원예종 클레마티스 등과 함께 으아리속입니다. 속(屬)이 같으면 계통적으로 밀접한 관계를 가진 형제 식물이라고 할 수 있습니다.&lt;br&gt;&lt;br&gt;자주조희풀은 열매도 개성 만점입니다. 꽃이 지면 긴 털들이 소용돌이치듯 모여 있는 독특한 열매가 생기는 것을 볼 수 있습니다. 이 모양이 클레마티스·사위질빵 열매와 비슷하게 생겨 같은 속이라는 것을 실감할 수 있습니다. 열매에 긴 털이 있는 것은 씨앗을 조금이라도 더 멀리 날려 보내려는 식물의 전략입니다.&lt;br&gt;&lt;br&gt;병조희풀은 전국적으로 자생하지만 자주조희풀은 경기·강원 등 중부지방을 중심으로 분포합니다. 그래서 여름이면 북한산·천마산 등 서울 주변 산에서도 자주조희풀꽃을 만날 수 있습니다. 특히 남한산성 성곽 길을 걷다 보면 싱싱하고 예쁜 자주조희풀꽃을 자주 만날 수 있답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>전공의 모집 22일부터 접수... 일부 교수들은 “교육 보이콧”</title>
