@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>친구 음주운전 유도 후 고의사고...신고 빌미 돈 뜯은 일당 송치</title>
+      <link>https://www.chosun.com/national/regional/2024/07/23/TUQHPKXFURFPJE6ZGPRJQYOBGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/23/TUQHPKXFURFPJE6ZGPRJQYOBGE/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Jul 2024 05:10:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ILTINPV6TNAR5HEAFVF7XKQFCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전중부경찰서는 친구를 상대로 음주운전하게 유도한 뒤 고의로 사고를 내고 수천만원을 편취한 혐의(공갈)로 A(20대)씨 등 2명을 구속 송치하고, 나머지 공범 2명을 불구속 송치했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 친구인 피해자 B(20대)씨의 돈을 갈취할 목적으로 다른 친구 3명과 함께 고의로 음주운전 교통사고를 내고 음주운전을 한 B씨로부터 3100만원을 뜯어낸 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰 조사 결과, 이들은 범행 전 역할을 나눠 A씨 등 2명은 B씨와 함께 술을 마시고 음주운전을 유도하기로 하고, 나머지 2명은 차에 대기하다가 B씨가 음주운전하는 차량을 고의로 들이받는 사고를 내기로 공모했다.&lt;br&gt;&lt;br&gt;B씨는 지난달 10일 오전 6시 10분쯤 함께 술을 마신 A씨 등이 ‘운전해도 괜찮다’ ‘단속 안 한다’며 꼬드기는 바람에 대전 중구의 한 상가 주차장에서 만취 상태로 운전대를 잡았다. A씨 일당은 계획한 대로 B씨가 몰던 차량을 뒤따라가다 대전 중구 대사동 충대병원네거리 부근에서 일부러 B씨 차량을 들이받았다.&lt;br&gt;&lt;br&gt;이들은 경찰에 음주운전 사실을 신고할 것처럼 B씨를 협박해 3200만원을 받아냈다. 이후에도 이들은 합의금으로 1억원가량을 요구하며 B씨를 지속적으로 협박했고, 이를 못 이긴 B씨가 결국 경찰에 신고하면서 범행이 드러났다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 친구 B씨가 부유하다는 점을 노려 돈을 빼앗을 목적으로 범행을 계획했다”며 “A씨 친구였던 공범 3명은 피해자 B씨와는 모르던 사이였다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“명품 치장한 손님엔 비싸고 안팔리는 와인 권해”…레스토랑 응대 논란</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/23/LXK7APFLWBASHH6BSFZCLXGQA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/23/LXK7APFLWBASHH6BSFZCLXGQA4/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Jul 2024 04:53:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JNDZ2AKGXFKQ3DYVWE2PHAWJHA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 도심의 한 백화점 쇼윈도에 샤넬 핸드백과 액세서리가 전시돼 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남의 한 고급 레스토랑에서 명품으로 치장하고 온 손님에게 의도적으로 고가의 와인을 권한다고 밝혀 온라인상 공분을 사고 있다.&lt;br&gt;&lt;br&gt;23일 한 온라인 커뮤니티에는 ‘청담동 레스토랑에 비싼 차에 명품을 하고 갔을 때 받는 대우’라는 제목으로 최근 한 유튜브에 올라온 영상 내용이 공유됐다.&lt;br&gt;&lt;br&gt;영상에는 강남 청담동의 한 레스토랑 대표가 출연했다. 그는 ‘진짜 부자와 어설픈 부자의 차이’라는 주제로 레스토랑 손님들의 특징에 대해 이야기 했다.&lt;br&gt;&lt;br&gt;그는 ‘비싼 차를 타고 머리부터 발끝까지 명품을 착용하고 방문한 손님’에 관한 질문을 받자 “레스토랑에서 비싼 와인을 사주는 감사한 손님”이라고 답했다.&lt;br&gt;&lt;br&gt;이유를 묻자 그는 재벌 손님은 비싼 와인을 “잘 안 사 먹는다”며 “본인이 소장한 와인을 가져온다”고 했다. 이에 질문자가 비싼 와인을 콜키지(잔 제공)값 3만원만 내고 먹는 것이냐고 재차 묻자 그는 “(재벌들이) 현명하다”고 말했다.&lt;br&gt;&lt;br&gt;이어 명품으로 치장한 손님이 방문했을 때 상황을 재연했다.&lt;br&gt;&lt;br&gt;그는 “손님이 ‘여기 와인이 어떤 게 있냐’고 물으면 ‘제일 비싼 걸로 추천해드릴까요?’라고 한다”며 “손님이 ‘사장님이 알아서’라고 하면 ‘그럼 그럴까요?’라고 말한 뒤 죄송하지만 비싸고 안 팔리는 와인을 권하게 된다”고 말했다.&lt;br&gt;&lt;br&gt;해당 영상이 공개되자 온라인상에서는 이 같은 발언과 레스토랑 운영 방식 등이 부적절하다는 반응이 주를 이뤘다.&lt;br&gt;&lt;br&gt;네티즌들은 “손님 급을 나누는 것도 문젠데 손님한테 재고 떨이 하는 걸 아무렇지 않게 얘기한다” “명품 매장에서 일하면 본인이 명품인 줄 안다는 유명한 말이 생각난다” “손님 가리는 거 너무 무례하다” “영상까지 촬영하는데 손님 뒷담화라” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>허웅 전 연인, 카라큘라 고소 “유흥업소 출신‧낙태 반복 사실 아냐”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/23/IL363DIZHNGKZDKD5AV2L3EF74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/23/IL363DIZHNGKZDKD5AV2L3EF74/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Jul 2024 04:44:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MAWL7MDPC5GOJAWKVA32INNDS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 카라큘라. /유튜브 채널 '카라큘라 미디어'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프로농구 선수 허웅(31)의 전 여자친구 A씨가 유튜버 카라큘라(본명 이세욱)를 명예훼손 혐의로 고소했다.&lt;br&gt;&lt;br&gt;A씨의 법률 대리를 맡고 있는 노종언 변호사는 23일 “유튜브 채널에서 A씨에 대한 허위 사실을 유포한 카라큘라를 정보통신망법상 명예훼손 혐의로 서울 서초경찰서에 고소했다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 허웅은 A씨를 협박 등 혐의로 경찰에 고소했다. A씨가 허웅과 교제하는 기간 두 번의 임신을 한 것을 빌미로 3억원을 요구했다는 주장이다.&lt;br&gt;&lt;br&gt;카라큘라는 이후 A씨가 유흥업소 출신이며, 다른 남성과의 사이에서도 임신했다가 낙태한 이력이 있다는 등의 주장이 담긴 영상을 만들어 공개했다.&lt;br&gt;&lt;br&gt;노종언 변호사는 조선닷컴과의 통화에서 “카라큘라 영상에 나온 주장은 모두 사실이 아니다”라며 “저희가 사실이 아니라고 밝혔음에도 카라큘라 측은 이후 아무런 조치를 취하지 않았다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 앞서 해당 영상에 제보자로 등장하는 인물도 명예훼손 혐의로 경찰에 고소했다. A씨가 허웅을 강간상해 혐의로 맞고소한 사건은 경기 용인서부경찰서로 이첩된 상태다.&lt;br&gt;&lt;br&gt;한편 카라큘라는 유명 유튜버 쯔양을 협박한 의혹도 받고 있다. 카라큘라는 전날 모든 영상을 비공개 처리하고 활동을 중단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구 도심에 호텔신라가 운영하는 호텔 들어선다.</title>
+      <link>https://www.chosun.com/national/regional/2024/07/23/XLGPUGPOJ5CORFKP2RDPVZS2HU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/23/XLGPUGPOJ5CORFKP2RDPVZS2HU/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Jul 2024 04:17:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D6KKWX7HXFBPNKMILCNQE3KWNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구시, 호텔신라와 케이케이, 신라 호텔 건립 투자 및 협력 협약식 체결./대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구에 호텔신라가 위탁운영하는 250실 규모의 도심레저형 호텔이 들어선다.&lt;br&gt;&lt;br&gt;대구시는 23일 지역기업인 케이케이, 호텔신라와 ‘프리미엄급 호텔건립 투자·협력협약(MOU)’을 체결했다.&lt;br&gt;&lt;br&gt;이날 협약식에 홍준표 대구시장과 대구상공회의소 회장이자 케이케이 대표이사인 박윤경 회장, 그리고 호텔신라의 이정호 부사장 등이 참석했다.&lt;br&gt;&lt;br&gt;호텔 투자와 건립은 올해로 창립 97년을 맞은 대구지역 납세 1호 기업인 케이케이가, 운영은 호텔신라가 맡을 예정이다.&lt;br&gt;&lt;br&gt;호텔은 현재 케이케이 본사가 있는 중구 공평네거리 부지 2016㎡(610평)에 지상 29층 지하 5층의 250여 객실 규모로 건립될 예정이다. 총 투자 금액은 약 1800억 원 규모로 추산된다. 케이케이 측은 올해 하반기 설계에 들어가 연내 인·허가 신청을 거쳐 2025년 하반기 첫 삽을 뜰 계획이다. 이후 2028년 9월 준공, 2029년 3월 영업개시를 목표로 호텔 건립을 추진할 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CITKQPDRVFG2LI5W4YSFUE24TM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;호텔 건립 부지 위치도./대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시는 원스톱 투자지원단을 구성해 교통영향평가, 건축인·허가, 관광숙박업허가 등의 행정절차 지원에 나설 예정이다.&lt;br&gt;&lt;br&gt;박윤경 케이케이 대표이사는 “오랜 향토기업으로서 대구의 자랑이 될 수 있는 호텔을 건립해 그동안 시민들에게 받은 사랑에 보답하겠다”고 말했고, 이정호 호텔신라 부사장은 “호텔신라의 노하우를 집중해 차별화된 서비스를 이곳 대구에서 제공할 것이다”고 밝혔다.&lt;br&gt;&lt;br&gt;홍준표 대구시장은 “이번 호텔 건립은 지역기업인 케이케이와 삼성그룹의 호텔신라가 대구에 투자하는 협력 사업인 점에서 의미가 크다”라며 “5성급 프리미엄 호텔 건립이 동성로 부활의 계기가 될 것”이라고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘왕복 116km’ 제주~서귀포, 자율주행 버스 다닌다</title>
+      <link>https://www.chosun.com/national/regional/2024/07/23/GQYCNARYZNB5ZPWJRUZMNRJSPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/23/GQYCNARYZNB5ZPWJRUZMNRJSPU/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Jul 2024 04:10:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2QSQXNH7VZI4ZFA24QTHQX3AY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주시청과 서귀포시청을 왕복하는 제주 첫 노선버스형 자율주행차가 서비스를 시작한다. 양구간은 왕복 116㎞에 달한다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주시와 서귀포시를 왕복하는 제주 첫 노선버스형 자율주행 서비스를 시작한다.&lt;br&gt;&lt;br&gt;23일 제주도에 따르면 자율주행 대중버스인 ‘탐라자율차’가 제주시청에서 서귀포 제1청사까지 왕복 116km 구간(편도 운행시간 1시간 40분)을 자율주행으로 운행한다.&lt;br&gt;&lt;br&gt;이 서비스는 국토교통부의 ‘자율주행차 시범운행지구 서비스 지원 사업’에 선정되면서 추진되고 있다.&lt;br&gt;&lt;br&gt;탐라자율차는 오는 24일부터 12월까지 운행되며 안전요원이 탑승한 채로 평일에만 운영된다. 안전관리자는 비상·돌발상황 발생 시, 어린이보호구역 등 교통약자 보호구역에서 수동으로 직접 운전하게 된다.&lt;br&gt;&lt;br&gt;운행 노선은 제주시청~제주국제공항~서귀포시청 1청사 구간 901번(58㎞, 17개 정류소)과 제주시청~제주국제공항 902번(9.3㎞, 5개 정류소)이다. 운행 구간에는 신제주로터리 등 교통이 혼잡한 도심 일반 도로뿐만 아니라 고속화도로인 평화로(최대 제한속도 시속 80km)도 포함돼 있다. 운행 차량은 12석 규모의 승합차 1대다. 이용요금은 성인 1150원, 청소년은 850원으로 다른 대중교통 버스와 환승도 가능하다.&lt;br&gt;&lt;br&gt;제주도 관계자는 “현재 자율주행 기능이 레벨3 수준이어서 운전대에 안전관리자가 앉아 있어야 한다”며 “레벨4 이상은 돼야 완전한 자율주행이 가능하다”고 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZBTX2CUVEJCKXG3QCGZAS6EZ3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일부터 운행하는 제주 자율주행 버스 노선도./제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>이원석 검찰총장, ‘尹 탄핵 청문회’ 불출석… “정치적 중립 훼손”</title>
       <link>https://www.chosun.com/national/court_law/2024/07/23/XVGJTGENXBERZG55JKNI5Z3MCU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/23/XVGJTGENXBERZG55JKNI5Z3MCU/</guid>
@@ -873,55 +918,6 @@
       <description/>
       <pubDate>Mon, 22 Jul 2024 06:59:41 +0000</pubDate>
       <content:encoded>법무부 장관 자문 기구인 ‘형사사법특별위원회’가 22일 출범했다고 법무부가 밝혔다.&lt;br&gt;&lt;br&gt;형사사법특위는 형사사법 제도의 운영 실태를 점검하고 개선안을 마련해 장관에게 건의하는 기구다. 최근 형사사법 시스템의 급격한 변화로 수사·재판 지연 등 국민 불편이 발생하고 있고, 범죄의 고도화에도 형사사법 시스템이 제대로 대응하지 못하는 등 형사사법 시스템 개선의 필요성이 적극 대두되고 있다는 게 법무부 설명이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMIKU47EYKGMSS6GOW7EZGE2SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 과천 법무부 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특위는 헌법·형사사법 전문가인 강일원 전 헌법재판관을 위원장으로 위촉하고, 교수·판사·검사·변호사 등 전문가 22명을 위원으로 위촉했다. 박성재 법무부 장관은 위촉식에서 “이른바 ‘검수완박’을 거치며 범죄 대응 역량은 약화됐고 많은 국민들은 지연된 수사와 재판으로 큰 불편을 호소하고 있다”면서 “국민들께서 진정으로 원하는, 그리고 가장 만족하실 만한 바람직한 형사사법시스템이 무엇인지 충분히 고민해 개선 방향을 제시해야 할 때”라고 했다.&lt;br&gt;&lt;br&gt;한편 특위는 이날 열린 첫 회의에서 수사권 조정 등 형사사법 시스템 변화 이후 발생한 문제점 등을 논의했고, 우선 확인된 통계 자료를 공개할 것을 의결했다.&lt;br&gt;&lt;br&gt;특위에 따르면 경찰이 처리한 사건 중 6개월 이상 걸린 사건은 2018년에는 10만4291건(전체 사건 중 5.8%)에 그쳤지만, 2023년에는 19만5889건(14%)으로 크게 늘었다. 같은 기간 전체 사건 수가 178만4000여건에서 139만8000여건으로 감소한 것과는 대조적이다. 특히 복잡한 법리 판단이 필요한 배임 혐의의 경우 6개월 이상 걸린 사건 수가 2018년 1294건(13.5%)에서 2023년 3375건(49.8%)로 크게 증가했다.&lt;br&gt;&lt;br&gt;또 대법원 사법연감에 따르면 2022년 형사합의부 기준 사건 접수부터 1심 선고까지 평균 6.8개월이 걸렸다. 2020년 5.9개월, 2021년 6.6개월에서 점차 증가한 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>소방청, 전지공장 413곳 긴급 화재안전조사...119건 위반 적발</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/22/UOZUNFTRQZBGPNG76LL55POU6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/22/UOZUNFTRQZBGPNG76LL55POU6M/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 22 Jul 2024 05:42:58 +0000</pubDate>
-      <content:encoded>소방청이 전국 배터리 관련 시설 88곳에서 위험물 취급 관리 소홀 등 119건의 법규 위반 사항을 적발했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3NCXAVF5HJHZFIFXCO3UEHS37Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 6월 24일 경기 화성시에 위치한 일차전지 제조 공장 아리셀에서 화재가 발생하면서 소방대원들이 시신을 수습하고 있다. / 김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 소방청은 지난달 24일 발생한 경기 화성 리튬 전지 공장 화재를 계기로 배터리 관련 시설 413곳에 대한 전수 조사에 나섰다.&lt;br&gt;&lt;br&gt;구체적인 위반 사항으로는 허가 받지 않은 장소에 지정된 수량 이상의 위험물을 저장하거나 취급한 경우, 불법 가설 건축물을 사용한 경우 등이 있었다.&lt;br&gt;&lt;br&gt;소방청은 이 중 허가 받지 않은 장소에 지정된 수량 이상의 위험물을 저장·취급한 4건을 입건 조치했다. 소량 위험물의 저장·취급 기준을 위반한 10건에 대해서는 과태료를 부과했다.&lt;br&gt;&lt;br&gt;이외에 불법 가설 건축물 사용 등 10건에 대해서는 기관에 위반 사실을 통보했고, 소화 설비 등 소방 시설 불량 95건에 대해서는 시정 조치 명령을 내렸다.&lt;br&gt;&lt;br&gt;소방청 관계자는 “이번 조사에서 전지 저장 공간과 작업장의 구분이 모호하다는 점과 외국인 근로자에 대한 소방·산업 안전 교육 미흡 등 개선 사항도 파악했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>백윤식 허위 고소한 前 연인, 1심서 징역형 집행유예</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/22/IIVFAQTNUNDBNAKHVCA4FOV66I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/22/IIVFAQTNUNDBNAKHVCA4FOV66I/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 22 Jul 2024 05:50:18 +0000</pubDate>
-      <content:encoded>배우 백윤식(77)씨를 허위 고소한 혐의로 기소된 백씨의 전 연인이 1심에서 징역형 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HO2AAOBHNVLPHNFBUDD63T45GY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배우 백윤식이 작년 11월 15일 오전 서울 광진구 아차산로 롯데시네마 건대입구에서 열린 영화 ‘노량 : 죽음의 바다’ 제작보고회에서 진행자의 질문에 답변하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사6단독 백우현 판사는 22일 무고 혐의로 기소된 백윤식씨의 전 연인 곽모(47)씨에게 징역 1년에 집행유예 2년을 선고하고, 사회봉사 120시간을 명령했다.&lt;br&gt;&lt;br&gt;백 판사는 “피고인은 본인이 부담하게 될 민사상 책무를 피하고자 정당한 합의서가 위조됐다고 주장해 죄질이 매우 불량하다”며 “합의서 작성 경위와 과정 등을 보면 피고인에겐 무고의 확정적 고의가 있었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “이 사건으로 피무고자는 형사처벌을 받을 위험에 놓였고, 본인의 무고함이 밝혀질 때까지 상당한 정신적 고통을 받았을 것으로 보인다”면서 “피고인이 그간 수사와 재판에 이르기까지 보여준 태도를 볼 때 진심으로 반성하고 있는지 의문”이라고 지적했다.&lt;br&gt;&lt;br&gt;방송 기자 출신인 곽씨는 지난 2022년 백씨와의 교제 내용과 사생활이 담긴 에세이를 출간했다. 이에 백씨는 곽씨가 사생활을 공개하지 않겠다는 내용으로 작성한 합의서를 어기고 책을 출간했다며, 출판 및 판매 금지 소송을 제기했다. 곽씨는 이 소송에서 “백씨가 합의서를 위조해 재판에 증거로 제출했다”며 백씨를 사문서위조 등 혐의로 고소했다.&lt;br&gt;&lt;br&gt;그러나 검찰 조사 결과 곽씨는 2013년 ‘백윤식과 결별 후 사생활을 누설하지 않고, 이를 위반할 시 배상한다’는 취지의 합의서를 직접 작성한 것으로 밝혀졌다. 검찰은 곽씨가 백씨를 허위로 고소했다고 판단, 지난 1월 곽씨를 무고죄로 불구속 기소했다.&lt;br&gt;&lt;br&gt;앞서 2022년 4월 법원은 백씨가 출판사를 상대로 낸 출판금지 가처분 신청을 인용했다. 출판 및 판매금지 본안 소송 1, 2심도 백씨의 손을 들어줬다. 1심은 곽씨가 쓴 에세이가 백씨의 사생활을 침해한다며 문제가 된 부분을 모두 삭제하라고 했다. 2심도 에세이가 백씨의 명예, 사생활의 비밀과 자유를 침해한다고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>지인 상대 ‘16억 사기’ 전청조 父, 2심도 징역 5년 6개월</title>
-      <link>https://www.chosun.com/national/regional/2024/07/22/PXQNRZAZZJD65MODPCV5RPUANQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/22/PXQNRZAZZJD65MODPCV5RPUANQ/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 22 Jul 2024 06:19:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지인에게 회사 설립 자금 명목으로 빌린 16억원을 가로챈 혐의로 기소된 전창수(61)씨가 항소심에서도 원심과 같은 징역 5년 6개월을 선고받았다. 전씨는 재벌 혼외자이자 재력가 행세를 하며 피해자 27명에게 30억원 넘는 돈을 받아 가로챈 혐의로 1심 재판에서 징역 12년을 선고받은 전청조(28)씨의 부친이다.&lt;br&gt;&lt;br&gt;22일 법조계에 따르면 대전고법 형사1부(재판장 박진환)는 특정 경제범죄 가중처벌 등에 관한 법률 위반(사기) 등 혐의로 기소된 전씨에 대한 항소심에서 1심 선고와 같은 징역 5년 6개월을 유지했다.&lt;br&gt;&lt;br&gt;전씨는 지난 2018년 2월부터 6월 사이 피해자 B씨에게 6회에 걸쳐 총 16억 1000만원을 가로챈 혐의를 받고 있다. 당시 부동산개발 회사를 운영하던 전씨는 부동산 매매계약을 중개하면서 알게 된 B씨로부터 회사 공장 설립 자금 명목으로 돈을 빌린 뒤 가로챈 것으로 조사됐다.&lt;br&gt;&lt;br&gt;범행이 발각되자 5년여 동안 도피 생활을 하던 전씨는 지난해 12월 25일 오후 3시 20분쯤 전남 보성 벌교읍의 한 인력중개 사무실에서 휴대전화를 훔쳐 달아나다가 긴급 체포됐다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 “피해 금액이 16억원이 넘는 고액인 점, 범행 후 피해자와 연락을 끊고 잠적한 점, 피해 회복이 전혀 이뤄지지 않은 점 등을 고려했다”며 전씨에게 징역 5년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;1심 선고 후 검찰과 전씨는 모두 양형 부당을 이유로 항소했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “제출된 증거를 토대로 살펴봤을 때 1심의 판단이 너무 무겁거나 가벼워 부당하다고 볼 수 없다”며 검찰과 전씨가 제기한 항소를 모두 기각하고 원심 형량을 유지했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>3일 동안 음주측정 두번 거부한 50대 공무원에 집행유예</title>
-      <link>https://www.chosun.com/national/regional/2024/07/22/XAMRJ3YDGVD5RMZMOYLGT3QTAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/22/XAMRJ3YDGVD5RMZMOYLGT3QTAQ/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 22 Jul 2024 05:43:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IGBGHFM5PZFO5GIHQUZHCFH4HE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전을 한 것으로 의심되는 공무원이 3일 동안 두 번이나 경찰에 적발되고, 음주 측정까지 모두 거부했다가 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;22일 법조계에 따르면 대전지법 형사8단독 이미나 판사는 도로교통법 위반(음주 측정 거부) 혐의로 기소된 대전시 공무원 A(54)씨에게 징역 1년 6개월에 집행유예 3년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 12월 1일 오후 11시 22분쯤 대전 서구 탄방동의 한 빌라 주차장에서 차를 몰고 3ｍ가량 운전을 하다 잠들었다. 현장에 출동한 경찰이 술 냄새가 나서 음주 측정을 하려 했지만, A씨는 17분 동안 4차례 측정을 거부했다.&lt;br&gt;&lt;br&gt;A씨는 이틀 뒤인 같은달 3일 오후 7시쯤 서구의 비슷한 지역에서 3㎞ 가량을 운전하다 경찰에 또 적발됐다. 당시 A씨에게서 술 냄새가 나는 것을 느낀 경찰관이 음주 측정을 요구했지만, A씨는 또 음주 측정을 거부했다.&lt;br&gt;&lt;br&gt;이 판사는 “피고인이 처음 음주 측정을 거부하고 이틀 뒤에 재차 측정을 거부하는 등 죄질이 매우 좋지 않다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>광주시교육청 감사관 채용비리 의혹…경찰, 인사담당 팀장 구속영장 신청</title>
-      <link>https://www.chosun.com/national/regional/honam/2024/07/22/FSLEV7CZVFDBXDFTTG5U3YQ4LE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/07/22/FSLEV7CZVFDBXDFTTG5U3YQ4LE/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 22 Jul 2024 06:23:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXZW76LVNBSCKPCCHTIAGNNN3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주경찰청 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주시교육청 감사관 채용 비리를 수사 중인 경찰이 당시 인사담당 팀장에 대해 사전구속영장을 신청했다.&lt;br&gt;&lt;br&gt;광주경찰청 반부패경제범죄수사대는 22일 광주시교육청 감사관 채용 과정에서 부당한 외압을 행사한 혐의(위계에 의한 공무집행방해·지방공무원법 위반)로 시교육청 팀장급 간부 A씨에 대해 구속영장을 신청했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 2022년 8월 광주시교육청 감사관 선발 당시 이정선 교육감의 고교 동창 유모 전 감사관이 임용되도록 선발위원들의 평가점수를 바꾸도록 압력을 행사한 혐의를 받고 있다. 유 전 감사관은 이 교육감의 고교 동창이란 점에서 부적절 논란이 불거지자 지난해 4월, 임용으로부터 약 7개월 만에 자진 사퇴했었다.&lt;br&gt;&lt;br&gt;앞서 감사원은 유 전 감사관에 대한 채용비리 의혹이 담긴 광주교사노조의 공익감사 청구를 받고 A씨가 평가위원들 면접 평가점수를 변경하게 한 것으로 보고 지난해 8월 경찰에 고발했다.&lt;br&gt;&lt;br&gt;유 전 감사관은 면접평가 당시 후보자 점수에서 2순위 내에 들지 못했지만 최종 임용됐던 것으로 전해졌다. 경찰은 A씨를 포함해 광주시교육청 공무원 등 6명에 대한 감사관 채용비리 수사를 진행 중이다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사과정에서 “평가위원들에게 학교장 연령대가 대부분 60대이기 때문에 감사관은 너무 젊은 사람이 아니면 좋겠다는 취지로 말했을 뿐 외압을 행사한 것은 아니다”며 자신의 혐의를 부인하고 있다. A씨에 대한 구속 전 피의자 심문(영장실질심사)은 오는 23일 오전 광주지법에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/PNLI53COP4OJQ3QOUJNU7H2VXI.jpg?width=3951&amp;height=2630&amp;auth=4e6a4aec8a5fd8d56d7fbcb81fc8e85b3137155fdd4d87d04fee4e3ddb71e974&amp;smart=true" type="image/jpeg" height="2630" width="3951">
-        <media:description type="plain">광주경찰청 전경./뉴스1 DB</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 DB</media:credit>
-      </media:content>
     </item>
     <item>
       <title>경찰, ‘36주 낙태’ 영상 관련 유튜브 서버 압수수색</title>
