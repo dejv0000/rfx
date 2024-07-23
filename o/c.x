@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>부산항서 몰래 드론 띄워 ‘찰칵’…美 항공모함 찍은 중국인들</title>
+      <link>https://www.chosun.com/national/regional/2024/07/24/IT3B2YQJMNCYLKP3SQOFULM2B4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/24/IT3B2YQJMNCYLKP3SQOFULM2B4/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Jul 2024 21:39:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JTKNN4NEQVCJHKC7JRUGJ5ZG2I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;6월 22일 오전 미국 해군의 핵추진 항공모함 '시어도어 루스벨트'(CVN-71·10만t급)가 부산 남구 해군작전사령부 부산작전기지에 입항하고 있다. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 부산에 입항한 미국 항공모함을 드론으로 불법 촬영한 중국인들이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;부산경찰청은 군사기지 및 군사시설 보호법 위반 혐의로 30~40대 중국인 유학생 3명을 조사하고 있다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이들은 지난달 25일 부산 남구 용호동 해군작전사령부 부산작전기지 인근 야산에서 드론을 띄워 정박 중인 미국 항공모함 시어도어 루스벨트호(10만t급)를 5분여간 촬영한 혐의를 받는다. 루스벨트호는 한국‧미국‧일본의 첫 다영역 군사훈련 ‘프리덤 에지’에 참여하기 위해 지난달 22일 오전 부산작전기지에 입항했다.&lt;br&gt;&lt;br&gt;이들은 항공모함을 촬영하던 중 순찰하던 군인에게 붙잡혔다. 유학생 신분인 이들은 호기심에 대형 항공모함을 촬영했다고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 이들이 불법 촬영한 영상을 유포하는 등 대공 혐의점은 없는 것으로 파악했지만 보다 구체적인 촬영 이유를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 533억원어치 필로폰 소지한 태국인 검거...일부는 수도권 등서 유통</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/24/4YTH5OPJTRFLFOHE2TTRQ3LY5U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/24/4YTH5OPJTRFLFOHE2TTRQ3LY5U/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Jul 2024 21:47:08 +0000</pubDate>
+      <content:encoded>수도권 한가운데서 53만명이 투약할 수 있는 분량의 필로폰을 소지하고 그중 일부를 유통한 태국인이 경찰에 검거된 것으로 23일 전해졌다. 세관 검역 과정에서 대규모의 마약이 밀반입되다 적발되는 사건은 종종 있지만, 이 정도 규모 마약이 수도권 주택가까지 침투한 것은 이례적이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4QRIZ5CBSBDCTET4H3J5455KCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;태국인 A씨가 자택에서 캐리어 내부에 필로폰을 보관하고 있는 사진. /안양동안경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 경기 안양 동안경찰서는 태국 국적의 A(29)씨를 마약류관리법 위반 등 혐의로 구속해 최근 검찰로 송치했다. A씨는 경기 화성시에 있는 주거지에 약 16kg의 필로폰을 보관하고, 그중 2kg을 한국인 B(44)씨에게 판매한 혐의 등을 받는다. 경찰은 국가정보원과의 공조 수사로 A씨를 검거한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 텔레그램을 통해 만난 B씨에게 마약을 특정 장소에 숨겨놓는 이른바 ‘던지기’ 수법으로 필로폰을 판매한 것으로 조사됐다. 현재 B씨도 구속돼 수원지검 안양지청 형사2부(부장 기노성)의 조사를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 반죽기에 다량의 필로폰을 숨겨 한국으로 밀반입한 것으로 조사됐다. 그는 반죽기 내부 빈 공간에 1kg씩 비닐 포장한 뒤, 외부를 필로폰 냄새가 나지 않도록 차단하는 방법을 썼다.&lt;br&gt;&lt;br&gt;일반적으로 필로폰 1회 투약량이 0.03g인 점을 감안하면, A씨가 반입한 필로폰 16kg은 약 53만3000명이 한 번에 투약할 수 있는 양으로 시가 533억원어치다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RIPHPSWD3NEKHC6TQQJIAAK4RM.png"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 국내에 마약을 밀반입할 때 이용한 반죽기. /안양 동안경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 2023년 2월 국내에 입국해 충남 아산 지역의 공장에 취업했었다. 그는 태국에 있는 총책에게 5000만원을 받는 조건으로 국제탁송화물로 밀반입한 마약을 소지해온 것으로 조사됐다. 그는 “총책에게 텔레그램을 통해 유통 지시를 받았고, 마약은 다른 외국인을 통해 전달받았다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이번에 밀수된 필로폰은 경기남부경찰청의 단일 압수물 중 역대 최대 규모다. 경찰은 “국가정보원과 공조해 태국에 체류 중인 총책에 대해 인적사항을 특정, 국제공조를 통해 추적 검거할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;한편 B씨는 A씨로부터 매수한 필로폰을 이미 국내에 유통한 것으로 조사됐다. 마약 수사 경험이 많은 한 차장검사는 “과거엔 외국인이 국내에 마약을 들여오더라도 외국인 커뮤니티 안에서 주로 소비가 이뤄져서 한국인들은 큰 영향을 받지 않았는데, 이제는 외국인이 한국인을 상대로 ‘마약 도매상’ 역할까지 하고 있어 상당히 우려스럽다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>사우나 걷는 느낌… 서울 곳곳 습도 100%</title>
       <link>https://www.chosun.com/national/transport-environment/2024/07/24/6Y3IQQ3LDFEELO3RWTENS3GQ6E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/24/6Y3IQQ3LDFEELO3RWTENS3GQ6E/</guid>
@@ -903,24 +921,6 @@
       <description/>
       <pubDate>Tue, 23 Jul 2024 00:25:51 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/447W5SFJNAH7QR3FG742FL7AT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강서소방서 신호119안전센터 소속 김주신 소방교가 지난 9일 베트남 호치민행 비행기에서 의식을 잃고 쓰러진 60대 여성에게 응급조치를 시행하고 있다. /부산소방재난본부 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;베트남으로 여행을 가던 소방대원이 여객기 안에서 의식을 잃은 60대 여성을 응급처치로 구했다.&lt;br&gt;&lt;br&gt;23일 부산소방재난본부에 따르면 지난 9일 오전 11시쯤 김해공항에서 출발한 베트남 호치민행 비행기 안에서 60대 여성 A씨가 의식을 잃고 쓰러졌다. 비행기가 이륙한 지 약 1시간이 지난 때였다.&lt;br&gt;&lt;br&gt;당시 휴가 중 여행을 위해 비행기에 올랐던 강서소방서 신호119안전센터 소속 김주신 소방교는 의료인을 찾는 다급한 기내 방송을 듣고 A씨가 쓰러진 화장실 쪽으로 달려갔다. 의식을 잃고 쓰러진 A씨는 심폐소생술을 받고 있었지만, 손목에서 맥박이 확인되고 혈압이 낮은 상태였다.&lt;br&gt;&lt;br&gt;순간적으로 혈압이 떨어져 쇼크가 온 것으로 판단한 김 소방교는 A씨 다리를 심장보다 높이는 하지 거상 응급처치를 실시했다. 김 소방교의 응급처치 후 A씨는 의식을 되찾았고 혈압과 맥박도 정상으로 돌아왔다.&lt;br&gt;&lt;br&gt;건강을 되찾은 여성은 지난 20일 김 소방교를 찾아 감사 인사를 전하기도 했다. 김 소방교는 “기내에서 의료인을 찾는 방송에 몸이 무의식적으로 움직였다”며 “환자 상태를 살피며 내가 꼭 도움을 드려야 겠다고 생각했고 환자가 무사히 건강을 되찾아 큰 보람을 느꼈다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경기도 집중호우로 건물·도로 침수 잇따라...인명 피해 없어</title>
-      <link>https://www.chosun.com/national/regional/2024/07/23/VZ3JMSYWGFES5KJVZMSTYRDKWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/23/VZ3JMSYWGFES5KJVZMSTYRDKWE/</guid>
-      <dc:creator>김수언 기자, 김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 22 Jul 2024 23:35:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3WXJSPQKPRCRDI3FYBOVCLKRXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 0시쯤 경기 과천시 갈현삼거리 근처 도로가 집중호우로 인해 물에 잠겨 있다. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 새벽 경기지역에 집중호우가 내리면서 곳곳에서 도로가 물에 잠기거나 건물 지하가 침수됐다. 인명 피해는 없었다.&lt;br&gt;&lt;br&gt;경기도와 경기도소방재난본부에 따르면, 전날(22일) 0시부터 이날 7시까지 지역별 누적 강수량은 포천 147.5㎜, 동두천 124.5㎜, 연천 115.5㎜, 파주 108.0㎜, 양주 101.0㎜ 등이다. 경기 북부를 중심으로 100㎜가 넘는 비가 왔다.&lt;br&gt;&lt;br&gt;이날 0∼7시 강수량은 여주 76.5㎜, 양평 65.0㎜, 광주 58.0㎜, 이천 50.0㎜, 용인 49.5㎜, 성남 44.5㎜, 수원 41㎜ 등 경기 남부에 집중됐다.&lt;br&gt;&lt;br&gt;경기도소방재난본부는 전날(22일)오후 5시부터 이날 오전 6시까지 장비 75대와 대원 등 인력 298명을 동원해 모두 74건의 현장 조치를 했다고 밝혔다. 경기남부지역에선 배수지원, 주택 및 도로장애 안전조치 등 모두 30건의 출동이 있었다. 북부지역에선 인명구조, 배수지원, 등 44건을 조치했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NLDFUZYKV5GZLLS2RQAZJW2PAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 0시30분쯤 경기 의정부시 금오동의 한 상가가 침수되자 소방당국이 펌프차와 수중펌프로 배수작업을 진행하고 있다. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오전 0시 28분쯤 의정부시 금오동의 한 건물에선 지하 1층이 침수돼 엘리베이터가 고립됐다. 현장에 출동한 소방대원들은 지하 1층에 위치한 음악학원 내부에서 자고 있던 시민을 깨워서 대피를 유도하는 등 모두 4명을 구조했다. 당시 발목이 잠길 정도로 물이 차올랐고, 소방은 배수작업을 벌여 물을 빼냈다.&lt;br&gt;&lt;br&gt;0시 10분쯤에는 경기 가평군 가평역 사거리 인근 거리에 폭우로 나무가 쓰러졌다. 0시 16분에는 안양시 동안구 관양동의 한 건물 지하가 침수돼 배수 조치했다.&lt;br&gt;&lt;br&gt;남양주에서는 이날 오전 1시 강풍에 나무가 넘어지면서 퇴계원 지역 일대 20가구에 한때 전력공급이 중단됐다가 복구됐다. &lt;br&gt;&lt;br&gt;오전 3시에는 이천시 마장면 표교리 기아교 인근 도로 80m 구간이 침수됐다. 4시 12분쯤에는 이천시 신둔면 도봉리의 한 도로에서, 5시 28분쯤에는 파주시 월롱면의 한 도로가 물에 잠겨 소방당국이 출동했다. 이에 앞서 전날 오후 11시 58분쯤에는 과천 갈현삼거리 학의JC 부근도 물에 잠겨 안전조치 했다.&lt;br&gt;&lt;br&gt;기상청 관계자는 “비구름이 빠르고 강하게 지나가 특정 시간에 많은 비가 쏟아졌다”며 “서해상에 있는 구름 떼가 더 유입될 가능성이 있어 오늘 계속 비가 내릴 것으로 예상된다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ALS4NWMSWBHSNKQLYZTGPT7SXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 0시10분쯤 경기 가평군 가평역 사거리 인근 거리에 폭우로 나무가 쓰러지자 소방대원들이 안전조치를 하고 있다. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘음주측정 거부’ 재판 중 또 음주운전...고교 야구코치에 실형</title>
-      <link>https://www.chosun.com/national/regional/2024/07/23/FBDTS6R7YRDTHJKQQDTF7E4LNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/23/FBDTS6R7YRDTHJKQQDTF7E4LNY/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Jul 2024 00:11:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주 측정을 거부해 불구속 재판을 받던 고등학교 야구부 코치가 재판 시작 3개월 만에 음주운전을 해 실형을 선고받았다.&lt;br&gt;&lt;br&gt;23일 법조계에 따르면 대전지법 형사10단독 김태현 판사는 도로교통법 위반(음주운전, 음주측정 거부) 혐의로 기소된 현직 고등학교 야구부 코치 A(40대)씨에게 징역 8개월을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 12월 6일 대전 서구 용문로 한 식당 앞 주차장 인근에서 운전하다 건물 담을 들이받았다. 현장에 출동한 경찰이 음주운전을 의심해 음주 측정을 요구했지만, A씨는 이를 거부한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;검찰은 지난 2월 1일 음주측정 거부 혐의로 A씨를 기소했고, A씨는 불구속 상태로 재판을 받아왔다.&lt;br&gt;&lt;br&gt;재판에 넘겨진 지 3개월 후인 지난 5월 2일 오전 4시 35분쯤 A씨는 또 서구 탄방동 네거리에서 1.4㎞가량 음주운전을 하다 3차선 도로 위에 정차한 차 안에서 그대로 잠들었다. 당시 경찰이 측정한 A씨의 혈중알코올농도는 0.075%로 면허정지 수준이었다.&lt;br&gt;&lt;br&gt;두 사건을 병합한 재판부는 “피고인이 재판을 받아오던 도중 자숙하지 않고 또 범행을 저질렀다”며 실형 선고 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“아빠, 지나가던 아저씨가 다리 부러뜨렸어”…테니스선수가 받은 전화</title>
