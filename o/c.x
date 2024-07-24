@@ -13,6 +13,96 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>주차된 차량에 쇠구슬 발사한 10대…경찰 수사</title>
+      <link>https://www.chosun.com/national/incident/2024/07/24/F3NFKYJG5NFT7C7Q44PLHVIOVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/24/F3NFKYJG5NFT7C7Q44PLHVIOVY/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Jul 2024 14:00:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K6BO7QIPO3DEEONENG3QDYGBQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;쇠구슬(사진은 기사 내용과 무관함) / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아파트 지상 주차장에 주차된 차량을 향해 쇠구슬 수십 발을 쏴 차량 유리창을 파손한 10대 청소년이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;인천 미추홀경찰서는 특수재물손괴 혐의로 10대 A군을 수사하고 있다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A군은 지난 22일 오전 4시 30분쯤 인천시 미추홀구의 한 아파트에서 지상 주차장에 주차된 차량을 향해 지름 6㎜의 쇠구슬 수십 발을 쏴 차량 10대의 유리창 등을 파손한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 주변 방범카메라(CCTV) 영상 등을 토대로 수사를 진행해 A군을 검거했다.&lt;br&gt;&lt;br&gt;A군은 만 14세 미만의 촉법 소년은 아닌 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A군을 상대로 구체적인 범행 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘재산 축소’ 의혹 이상식 의원 노트북 들고 도망간 처제·비서관 구속영장 기각</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/24/UEVJJB2UDVAITNTCWW45AKUTI4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/24/UEVJJB2UDVAITNTCWW45AKUTI4/</guid>
+      <dc:creator>수원=김수언 기자, 용인=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Jul 2024 13:29:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JYMV6CWV2NAOFKGGPQRY5RBY7A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제22대 국회의원 선거 경기 용인갑에 출마한 이상식 더불어민주당 후보가 지난 4월 10일 오후 경기 용인시 처인구에 위치한 선거사무소에서 개표방송을 보며 기뻐하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 4·10 총선에서 재산 등 선거 자금을 축소 신고한 의혹을 받고 있는 이상식 더불어민주당 의원(경기 용인갑)과 관련해 증거를 숨기려 한 그의 처제와 비서관에 대한 구속 영장이 24일 기각됐다.&lt;br&gt;&lt;br&gt;수원지법 손철 영장전담 부장판사는 이날 오후 2시 15분 이 의원의 처제 김모씨와 비서관 문모씨의 증거은닉 혐의에 대한 구속 전 피의자심문(영장실질심사)을 진행하고, 같은날 오후 10시 20분쯤 이들에 대한 영장을 각각 기각했다. &lt;br&gt;&lt;br&gt;손 부장판사는 김씨에 대해 “증거가 제출됐고, 경위를 사실대로 진술했으며, 형법 제155조 4항 적용 여부가 다툼의 여지가 있다”고 영장 기각 사유를 밝혔다. 형법 제155조 제4항은 친족 또는 동거의 가족이 본인을 위해 범인도피죄, 증거인멸죄 등을 범한 때에는 처벌하지 않는다고 규정하고 있다.&lt;br&gt;&lt;br&gt;또 손 부장판사는 문씨에 대해선 김씨와 마찬가지로 증거가 제출됐고, 경위를 사실대로 진술했다며 “증거수집 상황과 사건의 경위를 고려하면 구속해야 할 상당성을 인정하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;이들은 이 의원의 ‘선거 자금 축소’ 등 공직선거법 위반 혐의를 수사하는 경찰이 지난달 7일 이 의원의 자택과 배우자의 서울 한남동 갤러리 등을 압수수색하자, 관련 증거를 은닉하려 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;당시 김씨는 “노트북을 들고 도망치라”고 문씨에게 지시했고, 이에 문씨는 경찰의 압수수색을 피해 이 의원의 재산 및 선거 자금 관련 자료가 담겨 있는 노트북을 챙겨 달아난 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이 의원은 이날 오후 3시 경기 용인동부경찰서에 소환돼 재산 축소 의혹 등 선거법 위반 혐의로 조사를 받았다.&lt;br&gt;&lt;br&gt;이 사건은 22대 총선을 앞둔 지난 3월 국민의힘이 “이 후보가 고가의 미술품 등의 가액을 고의로 축소 신고했다”고 주장하면서 불거졌다. 국민의힘은 “이 후보는 4년 만에 배우자 재산이 50억원 이상 증가했는데, 세금은 1800만원 납부했다는 의혹 제기에 대해서 거짓 해명을 해 허위 사실을 유포했다”고도 했다.&lt;br&gt;&lt;br&gt;국민의힘은 검찰에 그를 고발했고, 수원지검은 이 사건을 경찰에 넘겼다.&lt;br&gt;&lt;br&gt;경찰은 이 의원이 애초 현금 재산으로 5억원을 신고했다가 바로 다음날 3억5000만원으로 수정을 한 부분, 배우자의 재산으로 미술품 14점과 그에 대한 가액으로 31억7400만원을 신고했다가, 하루 만에 미술품 13점, 17억8900만원으로 축소 신고한 것을 중점적으로 수사해 온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;국민의힘 측은 문제가 됐던 재산·미술품과 관련해 “하루만에 14억원에 달하는 미술품 한 점을 처분한 것인지, 또 처분했다면 신고는 제대로 한 것인지 밝히라”고 했다. 국민의힘이 경찰에 제출한 자료에 따르면 이 의원이 추후 제출한 미술품 목록에서 빠진 작품은 이우환 작가의 ‘다이얼로그 그레이(2011)’다. 이 의원은 최초 재산 신고 당시 해당 작품의 가액을 8억원으로 신고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“10년만에 펑펑 울었다”… ‘정산 지연’ 위메프 직원의 심경 글 </title>
+      <link>https://www.chosun.com/national/national_general/2024/07/24/SDIDPWVX7VEATO3GTTC4NUSE2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/24/SDIDPWVX7VEATO3GTTC4NUSE2Y/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Jul 2024 12:55:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHLBLW7UAZPYFFMO2EC62RPSYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 오전 서울 강남구 위메프 사옥 모습. /뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이커머스 플랫폼 큐텐의 계열사 위메프와 티몬에서 정산 지연 사태가 발생한 가운데, 위메프 직원의 심경 글이 알려져 눈길을 끌었다. 이 직원은 이번 사태로 피해를 본 판매자와 업체 등을 향해 ‘너무 죄스러워 펑펑 울었다’고 했다.&lt;br&gt;&lt;br&gt;24일 업계에 따르면, 싱가포르 기반 큐텐의 유동성 부족에서 불거진 위메프와 티몬의 판매자 정산 지연 사태가 점차 확산하고 있다. 피해는 소비자에게까지 번졌다. 결제 승인·취소를 대행하는 PG사(결제대행업체)들까지 발을 빼면서 소비자들이 결제뿐 아니라 환불도 제때 받지 못하는 상황이 된 것이다. 주요 은행들은 판매자에 대한 선정산대출도 일시 중단한 상태다.&lt;br&gt;&lt;br&gt;이번 사태는 지난 7일 위메프 입점 업체들이 대금을 받지 못했다는 사실이 온라인상에서 공론화되면서 알려지기 시작했다. 이후 상황은 큐텐의 다른 계열사 티몬으로까지 번졌고, 현재 온라인상엔 피해 사례가 이어지는 중이다. 일부 판매자들은 상품 판매를 중단하거나 이미 판매한 상품의 구매를 취소하도록 안내하고 있다.&lt;br&gt;&lt;br&gt;이 가운데 직장인 익명 커뮤니티 ‘블라인드’의 ‘커머스 라운지’ 게시판에는 위메프로 직장 인증을 마친 한 네티즌 A씨의 심경 글이 올라왔다.&lt;br&gt;&lt;br&gt;A씨는 “성인 된 이후 울어본 기억이 없는데 오늘 술 마시고 집에 오는 길에 10여년 만에 펑펑 운 것 같다”며 “단지 회사가 망하고 내 앞길이 막막해서가 아니라, 오후 팀미팅 자리에서 회사의 일방적인 통보를 전해 들었을 때 어린 팀원들의 멍한 표정이 생각난다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 “정산금 몇십억이 물려있어 거듭 죄송하다고 말씀드리는데, 오히려 ‘MD님이 잘못한 게 아니다’라며 위로하는 업체 대표님의 떨리는 목소리가 생각나 진짜 한시간은 펑펑 울었다”며 “큐텐에 인수되고 거래액 키운다고 업체들 독려했던 모든 프로모션들이 다 죄스러워 너무 괴롭다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TVK6Y4K3PFEVDK333YYDYY2TUA.png"&gt;&lt;figcaption&gt;&lt;small&gt;정산 지연 사태와 관련, 위메프 직원으로 추정되는 네티즌의 심경 글. /X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨의 글은 캡처돼 X(옛 트위터) 등 다른 소셜미디어로 확산했고, 네티즌들은 “직원들은 무슨 죄냐” “안타깝다” 등의 반응을 보였다. 한 X 계정에 올라온 캡처 글은 올라온 지 9시간만에 조회수가 38만회를 넘길 정도로 화제였다.&lt;br&gt;&lt;br&gt;이외에도 현재 온라인상에선 위메프와 티몬 정산 지연과 관련한 내용이 지속해서 화두에 오르고 있다. X 실시간 트렌드에는 ‘위메프 탈퇴’ 등의 검색어가 올랐고, 물건 구매 시 주의해야 하는 쇼핑몰 리스트’ ‘위메프, 티몬 여행사 미수금 현황’ 등의 글도 공유됐다. “파산하면 개인정보 팔아먹을 수 있으니 위메프랑 티몬 미리 탈퇴해라” 등의 주장도 나왔다.&lt;br&gt;&lt;br&gt;일부 네티즌 사이에선 “본사에 가서 가구라도 들고 와야 한다”는 자구책까지 거론됐다. ‘실시간 위메프 본사 상황’이라는 제목으로 “(피해자들이) 돈 떼먹혔다고 가구랑 전자기기 떼가다가 경찰 출동했다”라는 목격담까지 등장했다.&lt;br&gt;&lt;br&gt;실제로 24일 서울강남경찰서에 따르면, 이날 오후 7시 기준 약 30~40명 규모의 피해자들이 강남구 삼성동 위메프 본사에 항의 방문했다. 이에 경찰은 안전사고 대응 차원에서 현장에 출동했고, 아직까진 별다른 피해 상황은 없는 것으로 파악됐다. 강남구 신사동에 위치한 티몬에도 일부 피해자들이 항의 방문했지만, 티몬 측은 건물을 폐쇄한 상태라고 한다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 신혼부부 ‘반값 전세’에 1만8000명 몰려</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/24/22RM5YJCH5A4JEBVXDOJ3XMRW4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/24/22RM5YJCH5A4JEBVXDOJ3XMRW4/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Jul 2024 12:45:48 +0000</pubDate>
+      <content:encoded>서울주택도시공사(SH공사)는 신혼부부를 위한 장기전세주택2 프로젝트로 ‘올림픽파크 포레온(둔촌주공아파트 재건축 단지)’의 입주자를 모집한 결과 59.8대 1의 경쟁률을 기록했다고 24일 밝혔다. 총 300세대 모집에 1만7929명이 신청한 것이다.&lt;br&gt;&lt;br&gt;유형별로 보면 49㎡(무자녀) 우선공급이 45세대 모집에 9591명이 몰렸다. 경쟁률 213.1대 1이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X6MYTJXWQVMRPAAF2OITN5SLAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시는 신혼부부를 위한 장기전세주택Ⅱ '올림픽파크포레온' 입주자 300세대를 23일부터 이틀간 모집한다. 장기전세주택Ⅱ는 이른바 '시프트'로 불리는 오세훈표 주택정책의 대표 브랜드인 장기전세주택의 두 번째 버전으로 출산 또는 결혼을 계획 중인 신혼부부에게 안정적 주거와 내 집 마련 기회를 제공하는 파격적 저출생 대책이다. 24일 서울 강남구 SH공사 내 현장 접수처에 장기전세주택Ⅱ 입주자 모집공고물이 놓여져 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같은 평형 일반공급은 105세대 공급에 2325명이 신청해 22.1대 1의 경쟁률을 보였다.&lt;br&gt;&lt;br&gt;59㎡(유자녀) 우선공급은 45세대 모집에 5479명이 신청해 경쟁률 121.8대 1을 기록했다. 일반공급은 105세대 모집에 534명(5.1대 1)이 신청했다.&lt;br&gt;&lt;br&gt;SH공사는 다음 달 9일 서류심사대상자를 발표하고 입주 자격·소득·자산·무주택 등 기준에 부합하는지 추가로 심사해 10월 7일 최종 당첨자를 확정할 계획이다.&lt;br&gt;&lt;br&gt;장기전세주택2는 서울시 장기전세주택의 두 번째 버전으로, 출산 또는 결혼을 계획 중인 신혼부부에게 안정적 주거와 내 집 마련 기회를 제공하는 것이다.&lt;br&gt;&lt;br&gt;출산가구에게 거주기간을 최장 20년까지 연장해주고, 주변 시세보다 10~20% 저렴한 가격에 내 집 마련의 기회를 준다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘슈링크플레이션’ 꼼수 막는다…식품 용량 바뀌면 석 달간 표시</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/07/24/CE3OGSWIGRGCDPRYDHZ757I3J4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/24/CE3OGSWIGRGCDPRYDHZ757I3J4/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Jul 2024 11:56:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H7NMFRD2GFIU3BM725BUE3AVUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 한 마트에서 직원이 유제품을 정리하고 있다. 기사 내용과 무관한 사진. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 견과류 업체는 지난해 아몬드 상품 한 봉지 용량을 210g에서 190g으로 바꿨다. 한 우유 업체는 기존 1000mL였던 1팩 용량을 900mL로 줄였다. 한국소비자원 조사 결과 밝혀진 ‘슈링크플레이션’ 사례들이다. 슈링크플레이션은 양을 줄이는 슈링크(shrink)와 물가 상승을 뜻하는 인플레이션(inflation)의 합성어다. 제품 가격은 그대로 두는 대신 용량이나 크기를 줄여 꼼수로 가격을 인상하는 효과를 거두는 것이다.&lt;br&gt;&lt;br&gt;식품의약품안전처는 슈링크플레이션을 막기 위해 용량 변경이 있는 제품에 대해 정보 제공을 강화하는 내용의 ‘식품 등의 표시기준’을 제정·고시한다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;이에 따라 내년 1월부터 내용량이 줄어든 식품은 최소 3개월간 변경된 내용을 제품 겉면에 표시해야 한다. 100g에서 90g으로 내용량이 줄었다면 제품 겉면에 ‘100g→90g’이나 ‘10% 감소’ 등의 표기를 해야 하는 것이다. 다만 출고 가격이 조정돼 단위 가격이 오르지 않는 경우나 5% 이하로 용량을 조절하는 경우에는 표시 대상에서 제외된다. 일각에서는 “올 연말까지 ‘꼼수 인상’을 하는 사례가 많아질 것”이라는 우려도 나온다.&lt;br&gt;&lt;br&gt;‘제로 슈거’ 제품의 표시법도 달라진다. 이전에는 ‘제로 슈거’로만 표기해도 됐지만, 앞으로는 ‘제로 슈거(감미료 함유, ○○kcal)’ 식으로 표시해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산에 ‘최고 60㎜'라더니 171㎜ 물폭탄...기상청 또 헛발질 예보</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/07/24/W3M3N7AIUNBPLG5UZIOJVICMZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/24/W3M3N7AIUNBPLG5UZIOJVICMZQ/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Jul 2024 11:54:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HLMFDVGPHZIZ5IMKW66L7ASGHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 새벽에 내린 집중호우로 사하구 장림동 도로가 침수된 모습. /부산시소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 새벽 부산에 최고 171㎜의 비가 내리며 침수 피해가 속출했다. 앞서 기상청이 예상한 강수량은 최고 60㎜였다. 보통 이 정도 강수량이면 호우예비특보를 발효해 큰비에 대비하지만 이런 조치도 없었다. 기상청 예보가 또 어긋난 것이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 이날 새벽 부산 중구에 시간당 83㎜의 집중호우가 쏟아지는 등 부산 일부 지역에 폭우가 내렸다. 이날 12시간 동안 서구에 가장 많은 171㎜의 비가 내렸고, 중구·사하구·영도구에도 150㎜가 넘는 강수량이 기록됐다. 반면 서구에서 22㎞ 떨어진 금정구엔 비가 11㎜밖에 내리지 않았다.&lt;br&gt;&lt;br&gt;이 비로 80대 남성이 집에 고립됐다가 구조됐고, 주택·건물·상가가 침수됐다는 신고가 16건 들어왔다.&lt;br&gt;&lt;br&gt;기상청은 비가 본격적으로 내리기 시작한 24일 오전 0시 45분에서야 호우주의보를 발표했고, 45분 뒤인 1시 30분에 호우경보로 격상했다. 기상청이 당초 강수량을 20~60㎜로 예상하면서 예비특보가 내려지지 않았다.&lt;br&gt;&lt;br&gt;이번 부산 극한 호우의 원인은 북쪽에서 내려온 예상치 못한 건조 공기 때문이다. 부산 지역엔 3호 태풍 ‘개미’와 북태평양고기압 사이로 바람길이 열리면서 고온다습한 남풍이 불어들고 있었는데, 여기에 북쪽 건조 공기가 닿으며 큰 비구름대가 갑자기 형성됐다. 이날 12시간 동안 수도권과 강원도에도 경기 가평(109㎜), 강원 횡성(128㎜) 등에 100㎜ 넘는 비가 내렸다.&lt;br&gt;&lt;br&gt;중복인 25일은 전역에 5~40㎜의 소나기나 비가 예고됐다. 25일 아침 최저기온은 23~28도, 낮 최고기온은 30~35도로 대부분 지역에서 폭염이 나타나겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘임성근 구명 로비 의혹’ 제보한 변호사 피소</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/24/OFOUF3A5PZBEPOOV5MSJJGBFTI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/24/OFOUF3A5PZBEPOOV5MSJJGBFTI/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Jul 2024 12:06:04 +0000</pubDate>
+      <content:encoded>‘도이치모터스 주가조작 사건’의 공범 이종호씨가 자신이 임성근 전 해병대 1사단장의 구명 로비에 관여했다는 의혹을 제기한 김규현 변호사를 허위 사실에 의한 명예훼손 혐의로 24일 고소했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 이씨와 전직 청와대 경호처 직원 송모씨, 사업가 최모씨 등은 이날 경기 수원중부경찰서에 구명 로비설을 주장한 김 변호사와 김종대 전 정의당 의원, 이를 보도한 JTBC 등을 처벌해달라는 고소장을 냈다. 김 변호사는 박정훈 전 해병대 수사단장 변호를 맡고 있으며, 민주당 보좌관 출신으로 지난 총선 때 민주당 공천을 받으려고 했다.&lt;br&gt;&lt;br&gt;이씨와 송씨, 최씨는 김 변호사와 함께 작년 3월부터 ‘해병대 골프 모임’을 만들고 카카오톡 단체대화방에 참여했다. 김 변호사는 최근 이들과 주고받은 메시지, 통화 녹취록을 고위공직자범죄수사처(공수처)에 내고 “작년 7월 해병대원 순직 사건 이후 이씨 등이 임 전 사단장 구명에 나섰다”고 주장했다.&lt;br&gt;&lt;br&gt;이씨 등은 “지난 한 달여간 근거 없는 의혹 제기와 실체 없는 음모론으로 인생이 망가졌다”며 “제3의 수사 기관(경찰)에서 사실관계 확인을 통해 (구명 로비설을) 교차 검증 받겠다”고 밝혔다. 이들은 고소와 별개로 손해배상 청구도 진행하겠다고 했다.&lt;br&gt;&lt;br&gt;김 변호사와 이씨의 작년 8월 9일 통화 녹취록에 따르면, 이씨는 “임 사단장이 사표 낸다고 송씨에게 전화 와서, 내가 ‘절대 내지 마라. 내가 VIP한테 이야기를 하겠다’고 했다”고 말했다. 송씨도 같은 날 김 변호사와의 전화에서 “나는 사단장만 잘 살피고 있다”고 했다. 김 변호사와 김 전 의원은 방송과 유튜브 등에서 “이씨가 말한 VIP는 김건희 여사나 윤석열 대통령”이라는 취지로 주장했다. 이에 임 전 사단장은 “작년 7월 28일 사의를 표명하기 전, 어떤 민간인과도 사표 관련 얘기를 나눈 적이 없다”고 반박했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사표 낸 ’金여사 수사팀’ 검사, 이원석 총장 전화에 복귀하기로</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/24/JL3SI7Z2FVAGLNAYYTJQWLVL34/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/24/JL3SI7Z2FVAGLNAYYTJQWLVL34/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Jul 2024 11:29:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SEATC72NWLYKN2H5OSMRVGLMBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이원석(왼쪽) 검찰총장과 이창수 서울중앙지검 검사장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 ‘디올백 수수 의혹’ 사건 조사 관련 대검찰청의 진상 파악에 반발해 사표를 냈던 수사팀 검사가 이원석 검찰총장의 설득에 사직 의사를 철회했다.&lt;br&gt;&lt;br&gt;대검찰청은 24일 “이 총장은 이날 서울중앙지검 형사1부 수사 실무를 총괄하는 김경목 부부장 검사에게 사직 의사 철회와 복귀를 당부했다. 김 부부장 검사는 현안 사건에 대한 신속하고 공정한 수사와 처리를 위해 복귀하기로 했다”고 밝혔다. 김 부부장 검사는 김 여사의 ‘디올백 수수’ 사건 수사를 담당하며 대면 조사에도 참여했다.&lt;br&gt;&lt;br&gt;앞서 김 부부장 검사는 22일 대검이 서울중앙지검에 대한 감찰을 한다는 소식을 듣고 “회의를 느낀다”며 사표를 냈다. 서울중앙지검은 지난 20일 김 여사를 서울 종로구 창성동 대통령경호처 부속청사로 불러 조사하면서, 김 여사 출석 10시간이 지난 밤 11시 10분쯤 이 총장에게 조사 사실을 보고했다. 이 총장은 사후 보고가 이뤄진 것에 대해 이창수 서울중앙지검장을 강하게 질책했다. 이 총장은 지난 22일 이 지검장에게 1시간가량 대면 보고를 받은 뒤 진상 파악을 지시했다. 이에 일선 수사팀이 동요했고 김 부부장 검사가 사표를 낸 것이다. 이 지검장은 “관련 수사가 마무리될 때까지 진상 파악을 미뤄달라” “나만 조사하라”는 입장을 전달했다.&lt;br&gt;&lt;br&gt;대검과 중앙지검의 갈등이 깊어지자 법조계에서는 여러 뒷말과 우려가 나왔다. 이에 이 총장은 이날 휴가 중인 김 부부장 검사에게 직접 전화해 “사직 의사를 철회해 줬으면 좋겠다”고 설득한 것으로 알려졌다. 김 부부장 검사도 이에 “잘하겠다”고 답하며 휴가를 마치고 복귀하겠다고 한다. 이 총장은 주변에 “김 여사를 수사한 평검사들에게 책임을 물으려는 것이 아니다. 보고가 늦어지게 된 상황을 파악하는 것이 우선”이라고 말했다고 한다.&lt;br&gt;&lt;br&gt;수사팀 검사들의 반발이 잦아들면서 김 여사 조사를 둘러싼 검찰 내 내홍도 잦아들 것이라는 전망이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>박영재 대법관 후보자, 딸 변호사 시험 때 시험 관리위원...“송구하다”</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/24/XVDG72FP4JA7HFEDIGMQILFB6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/24/XVDG72FP4JA7HFEDIGMQILFB6E/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Jul 2024 11:42:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D473JJ26ZZJHVHNL2WPUUCB45Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박영재 대법관 후보자가 24일 국회에서 열린 국회인사청문특별위원회 인사청문회에서 위원 질의에 답변하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박영재(55·사법연수원 22기) 신임 대법관 후보자가 24일 국회 인사청문회에서 과거 법무부 산하 변호사시험(변시) 관리위원으로 있을 때 딸이 변호사시험에 응시했던 것에 대해 “공정성에 대한 의심이 갈 수 있다는 점에 대해선 무겁게 받아들이고 송구하게 생각한다”고 말했다. 박 후보자는 재판 지연 지적에 대해선 “소송 지휘권을 적극적으로 행사해서 신속하게 진행해야 한다”고 했다.&lt;br&gt;&lt;br&gt;박 후보자는 이날 국회 인사청문회에서 2021년 4월부터 2년 간 변시 관리위원회 위원으로 활동했고, 그의 장녀가 2023년 1월 변시에 응시했다는 백혜련 더불어민주당 의원의 지적에 “딸이 치른 시험에 직접 관여하거나 영향을 끼칠 순 없었다고 해도, 정보가 (딸에게) 갈 수 있는 것은 아닌가 하는 우려는 있을 수 있다고 본다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 박 후보자는 관행적으로 관리위원으로 추천되는 점을 고려해 달라고 강조했다. 그는 “관례에 따라 제가 맡은 직책이 위원으로 위촉되는 자리였다”고 말했다. 박 후보자는 2021년 2월부터 2년 동안 법원행정처 기획조정실장으로 근무했는데, 기조실장은 관행적으로 관리위원으로 추천된다고 한다.&lt;br&gt;&lt;br&gt;실제로 박 후보자의 딸은 해당 연도 변시엔 불합격했고, 이듬해 다시 시험에 응시해 합격했다고 한다. 현재 서울 서초구 소재 신광렬 변호사 사무실에서 근무하고 있다.&lt;br&gt;&lt;br&gt;박 후보자는 법무부가 대법원에 보낸 변시 관리위원 추천 요청 공문에 ‘직계비속이 3년 내 변호사시험 응시 예정이라면 추천 제외해 달라’는 문구가 적혀있는 질의에 대해선 “공문을 못 봤고 이 내용에 대해 안내 받은 적이 없다. 당연히 위원 추천 전 저런 내용을 알려주고 해당 사람은 배제하는 게 맞는다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ERUEJZN6WNWKYFMXYQQZY6DYSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박영재 대법관 후보자가 24일 국회에서 열린 국회인사청문특별위원회 인사청문회에서 선서하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 후보자는 박준태 국민의힘 의원의 “법원의 문제점과 우선순위 해결과제는 무엇이냐”의 질문에 “국민의 법원에 대한 신뢰가 저하돼 있다는 점”이라며 “다른 견해가 있는 사람도 있겠지만 그 이유 중 하나가 사법재판의 지연인데, 이것에 대한 해결이 중요하다”고 했다.&lt;br&gt;&lt;br&gt;박희승 민주당 의원이 “사건이 지연되는 원인 중에 하나가 우수한 법관이 (사법부에) 못 들어와서라고 보는가”라고 묻자 “전적으로 동의한다. 예전에 인사 업무도 했다. 우수한 인력이 가장 중요한데, 현재 우수한 인력 유치가 상당히 어려워졌다”고 했다. 경력법관제에 대해선 “법조 경력이 긴 경우 법원에 오기 어려운 상황이다. 앞으로 (인력 수급 차원에서) 어려움을 예상한다”고 했다.&lt;br&gt;&lt;br&gt;박 후보자는 이날 정치적 현안과 관련한 질의에 대해선 말을 아꼈다. “판결 과정에서 유력자들이 항의를 하는 것은 사법권의 독립을 어기는 것으로 대단히 부적절한데, 어떻게 생각하느냐”는 김기표 민주당 의원 질의에는 “전적으로 동의한다”고 말했다. 그러나 ‘국민의힘이 최근 대법원에 방문했는데, 그것이 이재명 전 민주당 대표 재판 병합 기각 결정에 영향을 줬다고 생각하느냐’는 질문에 대해선 “대법관들이 그것에 영향을 받아서 결정했다고 생각하진 않는다”고 답했다.&lt;br&gt;&lt;br&gt;유상범 국민의힘 의원이 “이화영 전 부지사 재판과 관련해 이 전 대표가 관련돼있다는 진술이 나오면서 많은 민주당 의원이 해당 지법에 가서 항의한 전례도 부적절하지 않느냐”라고 묻자 “그렇다”라고 대답했다.&lt;br&gt;&lt;br&gt;박은정 조국혁신당 의원이 김건희 여사를 언급하며 “청탁을 받고 명품백을 받았다면 범죄행위라는데 어떻게 생각하느냐”는 질의엔 “그렇게 볼 수 있다”고 했다.&lt;br&gt;&lt;br&gt;박 후보자는 허영 민주당 의원의 “적절한 대법관 수(현행 14명)는 몇 명이라고 보는가”라고 묻자 “너무 많아선 안 되고, 다만 지금보단 (숫자가) 늘 수 있다고 생각한다. 5명 이내로 늘어야 되는 것 아닌가 생각한다”고 했다.&lt;br&gt;&lt;br&gt;조배숙 국민의힘 의원이 “난민 신청자가 난민 인정에 대한 법원 결정이 확정될 때까지 한국에 체류할 수 있어 난민에 해당되지 않으면서도, 신청을 해서 계속 체류하는 등 악용 소지가 있다”고 지적하자 “판결 절차를 빨리 해야 할 필요가 있다”고 했다. 이민청 설치에 대해선 “외국인 근로자에 대한 필요성이 커진 반면에 사회 불안의 문제가 생길 우려도 있다. 전체적으로 고려해 장단점을 분석한 다음에 이민청을 실시하는 게 바람직하다고 생각한다”고 했다. &lt;br&gt;&lt;br&gt;아울러 판사·검사가 증거와 사실관계를 조작하거나 법령을 부당하게 적용하는 등 법을 왜곡하면 처벌하는 이른바 ‘법 왜곡죄’에 대해선 “재판의 독립에 침해가 되거나 논란의 소지가 될 것에 대한 우려가 있다”고 했다.&lt;br&gt;&lt;br&gt;서울대 법대를 졸업한 박 후보자는 부산 출신으로 1996년 판사로 임용돼 서울중앙지법 부장판사, 법원행정처 기획조정실장·차장 등을 거쳤다. &lt;br&gt;&lt;br&gt;인사청문회를 마친 박 후보자는 앞으로 국회 본회의 표결 등을 거쳐 최종 임명될 전망이다.&lt;br&gt;&lt;br&gt;국회 대법관 인사청문특별위원회는 25일엔 이숙연 대법관 후보자에 대한 인사청문회를 이어간다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“저희가 살게요”... 270만원어치 ‘노쇼’ 고기 품절시킨 네티즌들 </title>
+      <link>https://www.chosun.com/national/national_general/2024/07/24/7QBBU4MPXFA2LBIUH3UVHFOBKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/24/7QBBU4MPXFA2LBIUH3UVHFOBKE/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Jul 2024 11:17:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VOUJ3W7PRZGN3DFXPUPEUGWSKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고깃집 측이 전한 270만원어치 노쇼 고기 완판 소식. /X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;270만원어치 고기를 주문해 놓고 노쇼(예약 부도)한 손님 때문에 피해를 봤다는 고깃집 사연이 전해진 가운데, 네티즌들이 업주 피해 회복을 위해 직접 고기를 구매하고 나섰다. 결국 고기는 품절됐고, 업주 측은 “은혜를 어찌 갚아야 할지 모르겠다”며 감사 인사를 전했다.&lt;br&gt;&lt;br&gt;피해 사연은 지난 23일 고깃집 딸 A씨가 자신의 X(옛 트위터)를 통해 “약 270만원어치 고기를 노쇼 당했다”는 내용의 글을 올리면서 알려졌다.&lt;br&gt;&lt;br&gt;A씨에 따르면, 지난 19일 자신을 군 상사라고 소개한 B씨는 삼겹살 40㎏, 목살 10㎏, 한우 등심 10㎏를 주문하면서 사흘 뒤인 22일 오후 5시 가져가겠다고 약속했다. 이에 A씨 가족은 품목과 수량을 다시 확인해 가며 주문 수량에 맞춰 고기 작업을 마쳐놨으나, 예약 당일 B씨는 나타나지 않았다. A씨는 “오랜만에 대량 주문이라 긴가민가 하면서도 손으로 일일이 칼집까지 넣어가며 반나절을 작업했지만 결국 노쇼 장난질에 당해버렸다”고 토로했다.&lt;br&gt;&lt;br&gt;A씨가 이런 내용의 글을 올린 뒤, 일면식도 없는 네티즌들이 고기를 대신 구매하겠다고 나섰다. 한우 등심 10㎏을 전부 구매하겠다는 사람, 가족이 운영하는 식당을 통해 모든 고기를 사겠다는 사람도 나타났다. A씨 글에는 “도울 수 있게 기회를 달라” “장사하는 입장이라 어려움을 잘 안다” 등의 댓글이 이어졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4NB76LJ7RVDNVMPLY5ZWIGFWQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;군 상사라고 밝힌 한 손님이 군부대에서 먹을 고기 60㎏을 주문한 뒤 '노쇼'를 했다는 피해 사연이 전해졌다. /X(옛 트위터) &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;결국 A씨는 같은 날 오후 소분해 판매하겠다며 ‘노쇼 고기’를 구매할 수 있는 링크를 올렸고, 270만원어치 고기는 판매를 시작한 지 1시간도 지나지 않아 전부 팔렸다. 빠르게 전해진 매진 소식에, 고기를 구매하지 못한 네티즌들은 “구매하려고 했는데 (품절로) 결제 중 취소됐다” “잠깐 사이에 구매 기회를 놓쳤다” 등 아쉬움을 드러내기도 했다.&lt;br&gt;&lt;br&gt;A씨는 품절 소식을 전하며 “감사하다. 열심히 살겠다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 24일 재차 글을 올리고 “저와 일면식도 없고 교류조차 없던 분들이 이렇게 많은 도움 주셨다”며 “이 은혜를 어찌 갚아야 할지 모르겠다”고 했다. 그러면서 “다들 정말 감사드린다고 저희 엄마도 꼭 전해달라고 하셨다. 다시 한번 감사드린다”고 했다.&lt;br&gt;&lt;br&gt;이에 네티즌들은 “사람 냄새가 난다” “정말 기분 좋은 소식” “아직은 살 만한 세상” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;현재 A씨는 경북 영천경찰서에 B씨를 영업방해와 사기죄로 고소한 상태다. 고의적인 노쇼를 한 경우 가게 운영업무를 방해한 행위로 간주하기 때문에 형법에서 규정하고 있는 ‘위계에 의한 업무방해죄’가 성립될 수 있다. 혐의가 인정되면 5년 이하 징역 또는 1500만 원 이하 벌금형을 받을 수 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>검찰, ‘돈봉투 수수’ 민주당 허종식 의원 징역 1년 구형</title>
       <link>https://www.chosun.com/national/court_law/2024/07/24/J55WDK6V6FA4VNW55HCCEUWWQM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/24/J55WDK6V6FA4VNW55HCCEUWWQM/</guid>
@@ -773,27 +863,6 @@
       <content:encoded>서울대·울산대·연세대·성균관대·가톨릭대·고려대 6개 의대 교수들은 23일 입장문을 내고 “전공의들의 온전한 복귀 없이 일부 충원에 의존하는 미봉책으로는 양질의 전문의 배출이 어려우며, 특히 상급 연차 전공의가 없는 상황에서는 1년 차 전공의 수련의 질 저하가 매우 우려된다”며 “하반기 전공의 모집에 동의하기 어렵다”고 밝혔다. 삼성서울병원 영상의학과 교수들도 “하반기 전공의 모집에 우려를 표한다”고 했다.&lt;br&gt;&lt;br&gt;주요 병원 교수들의 이 같은 입장 표명은 가뜩이나 하반기 모집에 관심을 보이는 전공의가 많지 않은 상황에서, 9월 전공의 복귀 움직임을 더 위축시킬 것으로 예상된다. 정부 고위 관계자는 본지에 “각 병원은 전공의법에 따라 수련 계약과 수련 규칙의 내용을 성실히 이행해야 한다”며 “임용한 전공의들을 제대로 수련시키지 않으면 수련 환경 평가를 통해 수련 병원 자격이 박탈되거나 전공의 정원이 줄어들 수 있다”고 했다. 전공의법 시행령에 따르면 수련 환경 평가 결과가 2년 연속 기준에 미달하거나 평가 자료 제출을 거부하는 경우 수련 병원 지정이 취소될 수 있다.&lt;br&gt;&lt;br&gt;정부는 지난 17일까지 올 하반기 전공의 모집 인원을 신청하지 않은 수련 병원에 대해 ‘내년 전공의 정원 감원’을 검토할 예정이다. 전공의 비중이 높은 수련 병원 입장에선 불이익일 수밖에 없다.&lt;br&gt;&lt;br&gt;수련 병원들은 지난 22일부터 새롭게 하반기에 수련할 전공의를 모집하고 있지만, 전공의들은 수련 병원으로 돌아가지 않겠다는 기조를 유지하고 있다. 서울 대형 병원의 한 전공의는 “하반기 전공의 모집에 응하지 않으려고 한다. 주변에도 복귀할 의사가 있는 전공의는 없는 것 같다”고 했다.&lt;br&gt;&lt;br&gt;환자 단체는 일부 의대 교수가 신규 전공의 수련을 거부하겠다는 입장을 보인 것을 비판했다. 한국중증질환연합회는 논평을 내고 “지방에서 서울로 지원하는 전공의 진로를 원천적으로 봉쇄하겠다는 것”이라며 “환자의 생명을 포기하고 국민의 치료권을 방해하는 행동은 자랑스러운 학풍이 아니라 몰염치하고 반인륜적 학풍임을 부끄럽게 생각하고 철회하기 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>남부는 주말 장마 끝, 중부는 태풍 ‘개미’에 달렸다</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/07/24/AE54OK6VMVGLDE3URTN6WUYKJQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/24/AE54OK6VMVGLDE3URTN6WUYKJQ/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Jul 2024 16:19:45 +0000</pubDate>
-      <content:encoded>올해 장마가 끝을 향해 가고 있다. 한반도에 폭염을 몰고 오는 북태평양고기압의 영향권에 든 남부 지방과 제주도는 이번 주말쯤 장마가 끝날 것으로 보인다. 중부지방은 현재 대만 부근에서 북상 중인 3호 태풍 ‘개미’가 장마 종료의 변수가 될 전망이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 중국 남동부를 향해 북상 중인 ‘개미’의 영향으로 23일 장마전선(정체전선)이 중부지방을 지나 북한 쪽으로 이동했다. 거대한 저기압인 태풍이 북쪽으로 이동함에 따라 장마전선까지 북쪽으로 밀어낸 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IN7NH7XA6NCSTKPJU7MQM53SNE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;남부 지방과 제주도는 26일을 전후해 내리는 비가 마지막 장맛비가 될 가능성이 높다. 북상하는 태풍과 북태평양고기압 사이에 잠시 바람길이 열리는데, 이때 전라·경상권과 제주도 일부 지역에 강한 비가 예상된다. 이 비가 그친 후 북태평양고기압이 남부 지방 상공까지 세력을 넓힐 것으로 전망된다. 이렇게 되면 새로운 장마전선이 생기더라도 북태평양고기압에 진로가 막혀 남부 지방 아래로는 내려가기가 힘들어진다. 장맛비는 더 이상 내리지 않고, 소나기나 저기압 등에 의한 비만 내리게 된다.&lt;br&gt;&lt;br&gt;중부지방 장마 종료는 이르면 24일, 늦으면 이달 말로 전망된다. 태풍 ‘개미’의 경로와 소멸 시점이 변수다. ‘개미’는 이번 주말을 전후해 중국 허난성 신양시 인근에서 열대저압부로 약화해 소멸할 것으로 전망된다. 태풍은 소멸하면서 다량의 수증기를 남긴다. 이 수증기는 서풍에 실려 이동하면서 비구름대를 형성하고 한반도 어딘가에 비를 뿌린다. 기상청은 현재 태풍의 예상 경로대로면 29일~다음 달 1일 북한 쪽에 위치한 장마전선을 강화해 수도권과 강원 영서에 마지막 장맛비를 뿌릴 수 있다고 보고 있다.&lt;br&gt;&lt;br&gt;다만 이번 태풍 경로가 점점 서쪽으로 이동하는 경향을 보이고 있어 수증기가 우리나라까지 오기 전에 중국 내륙에서 비로 소진될 수도 있다. 그러면 수도권과 강원도에 약한 비가 내리는 24일이 중부지방의 장마 종료 시점이 된다.&lt;br&gt;&lt;br&gt;지난달 말 시작한 올 장마는 지난 22일까지 전국 평균 누적 강수량 기준 432㎜를 기록해 평년(286.9㎜)을 크게 웃돌았고, 1973년 이후 역대 6위를 기록했다. 중부는 451.6㎜, 남부는 417.9㎜, 제주는 518.3㎜로 각각 평년 값인 262.8㎜, 304.2㎜, 308.5㎜보다 많았다. 특히 장마전선이 오래 머문 충청권에 평년(245.4㎜)의 배 이상인 520.7㎜가 쏟아지면서 역대 둘째로 많은 비가 내렸다. 비도 자주 내렸는데 전국 평균 강수 일수는 17.8일로 평년(13.9일)보다 4일가량 많았다. 특히 수도권은 장맛비가 내린 날이 18일로 평년보다 6일 많았다.&lt;br&gt;&lt;br&gt;한편 23일 기준 수도권과 강원도 일부 지역을 제외한 전국에 내려진 폭염 특보는 24일 전역으로 확대할 전망이다. 전국 대부분 지역에서 열대야(밤 최저기온 25도 이상)도 예상된다. 24일 아침 최저기온은 23~28도, 낮 최고기온은 29~34도로 예보됐다. 25일은 낮 기온이 소폭 올라 최고 35도가 예상된다. 습도가 높아 체감 기온은 실제 기온보다 2~3도 높기 때문에 본격적인 ‘한증막 더위’가 시작되는 셈이다.&lt;br&gt;&lt;br&gt;낮 동안 기온이 가파르게 오르는 영향으로 24~25일 내륙을 중심으로 강한 소나기가 쏟아질 전망이다. 24일 강수량은 수도권 5~30㎜, 강원도 5~40㎜, 충청·전라·경상권 5~50㎜로 예보됐다. 25일은 내륙에 5~40㎜, 제주에 5~60㎜의 비가 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/TDUE2HKRMVC6LBI7HQ3P3X3HXA.png?width=1200&amp;height=675&amp;auth=30356c39a0575f6f40efa000d59c585602324fabc6cd69cc260962ef8c5dc130&amp;smart=true" type="image/png" height="675" width="1200">
-        <media:description type="plain">그래픽=박상훈</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>벼랑 끝 몰린 카카오… 사법 리스크 줄줄이</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/24/A2IN6KJH2REUVFFB7RU4OG2N6Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/24/A2IN6KJH2REUVFFB7RU4OG2N6Y/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Jul 2024 16:10:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/236GZMC6CVLCDPYVPL4JN4SH3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 성남시 카카오 판교 아지트 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;카카오 창업주 김범수 경영쇄신위원장이 23일 ‘SM엔터테인먼트(SM) 시세 조종’ 혐의로 구속되면서, 검찰의 다른 카카오 관련 수사에도 탄력이 붙을 것이라는 전망이 나온다.&lt;br&gt;&lt;br&gt;서울남부지검은 ‘SM 시세 조종’ 사건을 포함해 카카오 관련 사건 4건을 수사 중이다. 금융조사1부(부장 김수홍)는 카카오엔터테인먼트의 ‘드라마 제작사 고가 인수 의혹’을 수사하고 있다. 이 사건은 2020년 당시 카카오엔터테인먼트 김성수 대표와 이준호 투자전략부문장이 드라마 제작사 ‘바람픽쳐스’를 시세보다 비싼 200억원에 인수했다는 것이다. 검찰은 이들이 제작사 인수 과정에서 기업 가치 평가서를 허위로 작성해 인수 대금을 부풀려 바람픽쳐스에 시세 차익을 몰아주고 회사에 손해를 끼쳤다고 보고 있다. 바람픽쳐스의 대주주는 이 전 부문장의 아내 배우 윤정희씨였다. 다만 검찰은 올해 초 김 전 대표와 이 전 부문장에 대해 두 차례 구속영장을 청구했지만 모두 기각됐다.&lt;br&gt;&lt;br&gt;금융조사1부는 또 카카오모빌리티가 택시 호출 앱(카카오T)의 알고리즘을 조작해 자사 가맹 택시에 더 많은 호출이 가도록 했다는 이른바 ‘콜 몰아주기’ 사건도 수사 중이다. 공정위는 작년 2월 콜 몰아주기 혐의로 카카오모빌리티에 시정 명령과 함께 과징금 271억원을 부과했고, 중소벤처기업부 요청에 따라 이 사건을 검찰에 고발했다. 카카오모빌리티는 이에 불복해 공정위를 상대로 행정소송을 냈다.&lt;br&gt;&lt;br&gt;가상자산범죄합동수사단(단장 박건욱)은 김범수 위원장이 가상 자산 횡령·배임 혐의로 고발된 사건도 맡고 있다. 시민단체 경제민주주의21은 작년 9월 김 위원장과 카카오의 블록체인 플랫폼 ‘클레이튼’ 관계사 임원들이 2019년 가상 화폐 ‘클레이’를 만들어 1500억∼3000억원의 투자금을 모은 뒤 횡령했다며 검찰에 고발했다. 클레이튼 재단은 “근거 없는 일방적 주장”이라는 입장이다.&lt;br&gt;&lt;br&gt;한편, SM 시세 조종 사건을 수사 중인 금융조사2부(부장 장대규)는 작년 11월 배재현 카카오 투자총괄대표를 자본시장법 위반 혐의로 먼저 기소하면서, 회사에 함께 책임을 묻는 양벌(兩罰) 규정에 따라 카카오 법인도 함께 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title> 인파 몰린 ‘도봉산역’에 경찰까지 출동...무슨 일이길래?</title>
       <link>https://www.chosun.com/national/national_general/2024/07/24/5XSENCTIKNEQ3OSHGL6GDNEYO4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/24/5XSENCTIKNEQ3OSHGL6GDNEYO4/</guid>
@@ -801,64 +870,6 @@
       <description/>
       <pubDate>Tue, 23 Jul 2024 16:01:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AXLXIJ5F2FHGJJNAZOKIHNA4EU.gif"&gt;&lt;figcaption&gt;&lt;small&gt;23일 서울경찰 공식 유튜브 채널에 '폭우로 운행 중단된 도봉산역…경찰 총출동해 인파 안전관리'이라는 제목의 영상이 올라왔다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭우로 인해 지하철 운행이 중단된 후 인근에 450여 명의 인파가 몰리자 경찰이 현장에 출동했다.&lt;br&gt;&lt;br&gt;23일 서울경찰 공식 유튜브 채널에는 ‘폭우로 운행 중단된 도봉산역…경찰 총출동해 인파 안전관리’이라는 제목의 영상이 올라왔다.&lt;br&gt;&lt;br&gt;영상에 따르면 지난 18일 오후 5시쯤 집중 호우로 도봉산역 지하철 운행이 중단되자 경찰에 신고가 접수됐다. “사람이 너무 많아 위험하다. 다칠 것 같다” 등의 내용이었다. 이에 52명의 경찰관들은 약 450여 명의 시민들이 밀집해 있는 현장으로 출동했다.&lt;br&gt;&lt;br&gt;공개된 영상을 보면 버스를 기다리는 시민들은 공간이 좁은 탓에 도로까지 내려와 있었다. 경찰들은 직접 도로에 서서 시민들의 버스 탑승을 유도했다. 하지만 인파는 계속해서 쏟아져 나왔다.&lt;br&gt;&lt;br&gt;결국 버스와 택시마저 수용이 어려워지자 관할 구청 재난안전과에 버스에 협조를 요청했다. 버스로 시민 130여 명을 2차례 수송시키며, 안전사고 예방 활동을 한 지 약 3시간 만에 다시 본래의 모습을 되찾을 수 있었다.&lt;br&gt;&lt;br&gt;서울경찰 측은 “협조해 주신 시민분들께 감사드린다”고 전했다．&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>6600억대 부당이익 ‘영풍제지 주가조작’ 사건 공범 추가 구속</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/15/REZYBVQ5NRAAHNQP7WI6RTIFQ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/15/REZYBVQ5NRAAHNQP7WI6RTIFQ4/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Jul 2024 01:24:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L3FW6FV54HY55XZUMWR4HAZOGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 ‘영풍제지 주가조작’에 가담한 시세조종 일당 1명을 추가 구속했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;서울남부지검 금융·증권범죄합동수사부(부장 공준혁)는 지난 12일 ‘영풍제지 주가조작’ 사건의 자금책 김모(69)씨에 대한 구속영장을 발부받았다고 이날 밝혔다. 1인 기업 대표 김씨는 영풍제지 주가조작 사건의 총책 이모씨에게 100억원대의 자금을 제공하고 시세조종 주문을 제출해 수백억원을 챙긴 혐의(자본시장법 위반)를 받는다.&lt;br&gt;&lt;br&gt;영풍제지 주가조작 일당은 2022년 10월부터 작년 10월까지 증권계좌 330여개를 이용해 매수·매도가를 미리 정해놓고 주식을 거래하는 방식 등으로 주가를 끌어올린 것으로 조사됐다. 이에 따라 영풍제지 주가는 2022년 10월 25일 3484원에서 이듬해 10월 4만8400원까지 약 14배 상승했다가 이후 30%가량 급락한 바 있다. 일당이 취한 부당이득은 총 6616억원으로 알려졌다. 이는 단일 종목 주가조작 범행 가운데 역대 최대 규모다.&lt;br&gt;&lt;br&gt;검찰은 작년 10월부터 올 5월까지 총책 이씨를 비롯한 관련자 23명을 기소했다. 19명은 구속 상태로, 4명은 불구속 상태로 1심 재판을 받고 있다. 검찰 관계자는 “향후에도 시세조종 사범 등 금융·증권 범죄를 엄단함으로써 선량한 개미투자자를 보호하고 시장질서를 어지럽히는 금융·증권사범은 대가를 치르게 됨을 알리겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 입맛, 식욕</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/07/24/VFK4VT266BBUDBXRTWFKJOMTHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/07/24/VFK4VT266BBUDBXRTWFKJOMTHI/</guid>
-      <description/>
-      <pubDate>Tue, 23 Jul 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PN7MFJPMZZFWRO36J3ILLZVYZU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] through and through</title>
-      <link>https://www.chosun.com/national/nie/english/2024/07/24/7GMOPKZLFRBL7KDUIKFCACSCYE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/07/24/7GMOPKZLFRBL7KDUIKFCACSCYE/</guid>
-      <description/>
-      <pubDate>Tue, 23 Jul 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J3TKVCZOH5DHROI4ZH47NNC2SA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 사기가 오르다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/07/24/TFJED2JJSNCN3BM4ZWLF3URGEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/07/24/TFJED2JJSNCN3BM4ZWLF3URGEY/</guid>
-      <description/>
-      <pubDate>Tue, 23 Jul 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QSRFWC7YZ5FHTMHMK4PJB2SNHQ.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2427] 바꿔 부르기</title>
-      <link>https://www.chosun.com/national/nie/2024/07/24/BAGCETDTZVA3BFIS7TSUPOWD2M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/24/BAGCETDTZVA3BFIS7TSUPOWD2M/</guid>
-      <description/>
-      <pubDate>Tue, 23 Jul 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5W6NZINR5VDRXBVZECHNGF3CBA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 토호(土豪)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/24/DX5AQUII3VHO7EGAM25FWQB3YI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/24/DX5AQUII3VHO7EGAM25FWQB3YI/</guid>
-      <description/>
-      <pubDate>Tue, 23 Jul 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EKJ6WCD3IRC3NCEO7AFCPNZ33U.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [숨어있는 세계사] 공화정 지키려 카이사르 암살… 결과는 제국의 탄생</title>
-      <link>https://www.chosun.com/national/nie/2024/07/24/VQXRAX72JNHEXPWHBBGDNORHN4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/24/VQXRAX72JNHEXPWHBBGDNORHN4/</guid>
-      <dc:creator>서민영 계남고 역사 교사, 기획·구성=오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>지난 13일(현지 시각) 도널드 트럼프 전 미국 대통령이 대선 유세 도중 총격을 받아 오른쪽 귀를 다치는 사건이 발생했어요. 언론들은 끔찍한 정치 테러가 벌어졌다며 이번 총격 사건을 자세히 다루었는데요. 트럼프 지지자들이 이번 일을 계기로 더욱 결집할 것으로 보인다는 분석도 나와요. 만약 암살이 성공했다면 미국 역사의 흐름도 바뀌었을 거예요. 실제로 역사를 살펴보면 유명인의 암살로 역사가 크게 바뀐 경우가 많습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBHHDX7GMBAZBA26QFJ3GMDT4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 13일 도널드 트럼프 전 미국 대통령이 총격 사고 이후 무대에서 퇴장하면서 청중을 향해 주먹을 쥐어 보였어요. /AP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;사라예보의 총성&lt;/b&gt;&lt;br&gt;&lt;br&gt;가장 유명한 암살은 아마도 제1차 세계대전의 도화선이 된 사라예보 사건이 아닐까 싶습니다. 1914년 6월 28일 오스트리아-헝가리 제국의 황태자 프란츠 페르디난트와 그의 아내가 보스니아의 사라예보에서 열혈 세르비아 민족주의자에게 암살된 사건이죠.&lt;br&gt;&lt;br&gt;세르비아는 1878년 오스만 제국에서 독립한 나라예요. 하지만 그들은 완전한 ‘민족국가’가 되지는 못했어요. 많은 세르비아인이 당시 오스트리아-헝가리 제국의 영토에 속한 보스니아에 살았거든요. 세르비아 민족주의자들은 보스니아와의 통합을 세르비아 민족국가의 완성으로 생각했어요. 따라서 이를 가로막는 오스트리아에 대한 분노가 강했지요. ‘젊은 보스니아’ ‘검은 손’과 같은 비밀단체를 만들어 오스트리아에 맞서는 과격한 젊은이들도 있었어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JG4RYJ567BEO3L6NQYXENACFL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오스트리아-헝가리 제국의 황태자 부부가 세르비아 민족주의자에게 암살된 사라예보 사건이 일어난 현장 모습. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;황태자 부부를 향해 총을 쏜 이는 ‘검은 손’ 소속의 19세 청년 가브릴로 프린치프였어요. 총에 맞은 황태자 부부는 결국 사망했고, 오스트리아-헝가리 제국은 세르비아 정부에 책임을 추궁하며 최후통첩을 보냅니다. 세르비아 내 반오스트리아 단체를 해산하고, 암살과 관련된 자들을 처벌하라는 내용이었죠. 하지만 이에 대한 세르비아의 답변이 마음에 들지 않자, 결국 선전포고를 합니다.&lt;br&gt;&lt;br&gt;그러자 러시아가 세르비아를 돕겠다며 군대 총동원령을 내립니다. 이를 보고 있던 오스트리아의 동맹국 독일도 러시아에 총동원령 해제를 요구하며 러시아에 선전포고를 하게 됩니다. 이후 동맹 관계로 얽혀 있던 각국이 이런 식으로 선전포고를 하며 유럽 전체가 전쟁에 휩싸이게 됐어요. 황태자 부부를 향해 쏜 총탄이 제1차 세계대전의 신호탄이 된 거예요.&lt;br&gt;&lt;br&gt;&lt;b&gt;고대 로마 정치가 율리우스 카이사르&lt;/b&gt;&lt;br&gt;&lt;br&gt;암살로 한 나라의 정치체제가 바뀐 경우도 있습니다. 바로 고대 로마의 정치가 율리우스 카이사르의 죽음이에요. 카이사르는 폼페이우스, 크라수스와 손잡고 삼두(三頭)정치로 국가를 통치했어요. 또 카이사르는 갈리아 지역 총독으로 부임해 약 8년 동안 일대를 정복하며 대중의 인기를 얻게 됐지요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7UH57NNMARHDXO3BTHNABRCRBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;카이사르가 암살당하는 순간을 묘사한 그림. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;카이사르의 높은 인기를 경계한 원로원은 삼두정치에 금이 간 사실을 알고 폼페이우스와 결탁해 카이사르를 몰아내려 했어요. 하지만 카이사르는 무너지지 않았고 로마로 돌아와 최고 권력자 자리를 차지하게 됩니다. 더하여 그는 평생을 임기로 하는 종신 독재관이 되었지요.&lt;br&gt;&lt;br&gt;카이사르의 생일은 국경일이 되었고 신전들에 그의 동상이 세워졌어요. 로마 공화정을 지지하는 세력은 왕이나 다름없었던 카이사르의 존재에 불안함을 느끼기 시작했어요. 그래서 원로원 의원들과 카이사르를 질투하고 미워하던 사람들은 그를 죽이기로 결심합니다. 그렇게 기원전 44년 3월 15일 카이사르는 칼에 찔려 숨졌습니다.&lt;br&gt;&lt;br&gt;하지만 그의 죽음이 로마 공화정의 부활로 이어지지는 못했습니다. 원로원 의원들은 카이사르파의 복수가 두려워 뿔뿔이 흩어졌고, 로마 시민에게 유산을 나눠준다는 카이사르의 유언장이 공개되자 대중은 카이사르를 죽인 이들에게 분노했어요.&lt;br&gt;&lt;br&gt;그런데 카이사르의 유언장에는 자기 누이의 손자인 가이우스 옥타비아누스를 양자로 지정해 유산을 물려준다는 내용도 담겨 있었어요. 어리고 존재감이 크지 않았던 옥타비아누스는 이후 주목을 받았고, 실력을 길러 반대파를 제거하고 고대 로마 초대 황제가 됩니다. ‘존엄한 자’라는 뜻의 ‘아우구스투스’라는 칭호도 받았죠. 카이사르의 죽음이 로마 제국의 탄생에 영향을 미친 것이에요.&lt;br&gt;&lt;br&gt;&lt;b&gt;청나라 황제 광서제&lt;/b&gt;&lt;br&gt;&lt;br&gt;암살이 한 왕조의 운명에 영향을 주기도 했습니다. 바로 청나라 이야기예요. 19세기 내우외환의 위기에 처한 청나라는 개혁을 실시했어요. 서양의 과학기술, 특히 군사기술을 받아들여 근대화를 꾀한 양무운동이 그 시작이었죠. 하지만 청일전쟁(1894~1895)에서 패하며 양무운동은 한계를 드러내게 돼요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHDIRJSJLFETBARLYRZU2BP3CM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청나라 황제 광서제. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이후 청에선 낡은 제도를 벗어던지고 일본의 메이지 유신을 본받아 모든 분야에서 근대 개혁을 추진하자는 ‘변법자강’ 운동이 힘을 얻게 됩니다. 이 중심에는 캉유웨이와 량치차오가 있었어요. 당시 캉유웨이는 황제였던 광서제에게 제도 개혁의 필요성을 주장하는 상서를 보냈는데, 이는 광서제의 마음을 흔들었어요. 당시 실권은 광서제의 큰어머니였던 서태후에게 있었어요. 서태후는 막대한 권력을 휘두르며 사사건건 정무에 간섭했죠.&lt;br&gt;&lt;br&gt;광서제는 이번이 서태후와 그의 세력에서 벗어날 기회라고 생각했어요. 그는 변법자강 운동을 실시하면서 서태후를 따르는 신하들을 파직하고 그 자리에 개혁파 관리들을 앉힙니다. 이렇게 광서제가 서태후를 배제하는 분위기가 조성되자 서태후와 그 세력들은 불안감을 느꼈고, 광서제와 변법자강 운동을 이끄는 관리들을 감시했어요. 그리고 마침내 이들은 정변을 일으켰고, 광서제를 궁중에 감금했습니다.&lt;br&gt;&lt;br&gt;감금된 채 허수아비 황제로 지내던 광서제는 1908년 37세 나이에 요절합니다. 지병으로 사망했다는 이야기, 독살됐다는 이야기 등 무수한 설이 나돌았죠. 특히 바로 다음 날 서태후도 사망하면서 의혹은 더욱 커지기만 했어요.&lt;br&gt;&lt;br&gt;그런데 지난 2008년 그가 독살당해 숨졌다는 사실이 과학적으로 입증됐다는 보도가 나왔어요. 광서제의 유골과 모발로 독극물 화학 실험을 했더니 치명적 분량의 비소가 검출됐다는 거예요. 물론 그를 죽인 자가 누구인지는 확실하지 않아요. 하지만 광서제와 서태후가 연이어 사망하고, 청나라는 이후 1911년 일어난 신해혁명으로 무너져요. 광서제가 서태후보다 더 오래 살았다면 청나라의 운명이 달라졌을지도 모르겠습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>1200만원 vs 732만원...반려견 유치원보다 싼 대학등록금</title>
@@ -877,19 +888,6 @@
       <description/>
       <pubDate>Tue, 23 Jul 2024 11:06:04 +0000</pubDate>
       <content:encoded>이숙연 대법관 후보자의 20대 딸이 아버지 돈을 받아 산 비상장 주식을 다시 아버지에게 양도하는 방식으로 약 63배의 시세 차익을 거둔 것으로 나타났다.&lt;br&gt;&lt;br&gt;23일 이 후보자가 더불어민주당 허영 의원실에 제출한 자료에 따르면, 후보자의 딸 조모(26)씨는 만 19세이던 지난 2017년 아버지의 추천으로 화장품 개발 스타트업 A사의 주식 800주를 1200만원에 샀다. 구입 자금 중 300만원은 조씨가 저축한 돈이었고, 나머지 900만원은 아버지에게 증여받았다.&lt;br&gt;&lt;br&gt;조씨는 매입 6년 만인 작년 5월 이 주식의 절반인 400주를 아버지에게 3억8529만원에 양도했다. 주식 가격은 시가(市價)에 따랐는데, 시세 차익만 약 3억8000만원으로 투자금(600만원)의 63배에 달했다. 이 후보자 측은 “A사는 배우자 지인이 설립한 신생 기업으로, 조씨 투자 이후 회사 가치가 상승했다”고 설명했다.&lt;br&gt;&lt;br&gt;조씨는 이렇게 번 돈으로 아버지에게 추가로 빌린 부동산 투자금을 갚았다고 한다. 그는 2022년 서울 용산구의 신축 다세대주택을 전세를 끼고 ‘갭투자’로 구입했는데, 이때 아버지에게 3억800만원을 증여받고, 약 3억원을 빌렸다. 이 중 대여금을 A사 주식 판 돈으로 갚았다는 것이다. 이에 대해 사실상 아버지 돈으로 주식과 부동산을 사들인 ‘아빠 찬스’라는 지적이 나온다. 이 후보자의 남편은 법조인 출신 사업가로, 제주반도체 및 동행복권의 공동대표를 맡고 있다.&lt;br&gt;&lt;br&gt;이 후보자의 딸과 아들 조모군은 또 아버지의 친형이 운영하는 B사의 주식을 2006년 각각 300만원씩 주고 샀다가, 작년 11월 4100만원에 팔아 수천만 원의 차익을 남기기도 했다. 허 의원은 “법적으로 문제가 없더라도, 서민들에게는 괴리감이나 위화감을 느끼게 한다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 이 후보자는 “자녀들에 대한 재정적 지원 과정에서 성실히 증여세 등을 납부했다”면서도 ”결과적으로 자식들이 나이와 경력에 비해 많은 재산을 보유하게 됐다. 국민들 입장에서 생경함과 의구심을 느꼈을 것 같아 마음이 무겁다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울 학생인권조례 효력 당분간 유지... 대법, 집행정지 인용</title>
-      <link>https://www.chosun.com/national/education/2024/07/23/YR3BZLLLVRFB3J3TTZ6DATNFWY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/07/23/YR3BZLLLVRFB3J3TTZ6DATNFWY/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Jul 2024 10:10:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6JTFG7FSTED4IRJ3QGAN4ENDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6월 25일 서울 중구 서울시의회에서 열린 제324회 정례회 제4차 본회의에서 서울특별시 학생인권 조례 폐지조례안 재의의 건이 재석 의원 111명 중 찬성 76명, 반대 34명, 기권 1명으로 가결된 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시의회에서 폐지 절차를 밟은 ‘서울시 학생인권조례’의 효력이 당분간 유지된다.&lt;br&gt;&lt;br&gt;대법원은 23일 서울시교육청이 낸 ‘서울 학생인권조례 폐지 조례안(폐지안)’의 수리·발의에 대한 집행정지 신청을 인용했다. 이번 결정은 폐지안에 대한 무효 확인 본안 소송 결과가 나올 때까지 유지된다.&lt;br&gt;&lt;br&gt;2010년 경기도에서 처음 제정된 학생인권조례는 이후 진보 성향 교육감을 주도로 서울과 인천, 광주, 전북, 제주 등 6곳에 도입됐다. 지역마다 세부 내용은 다르지만 체벌, 두발·복장 규제 등을 금지하는 내용이 공통적으로 포함됐다.&lt;br&gt;&lt;br&gt;교육계에선 학생인권조례가 학생 권리만 지나치게 강조해 교권을 추락시키는 결과를 불렀다며 반발이 크다.  이에 올해 4월 서울시의회에서 국민의힘 주도로 폐지안이 통과됐다. &lt;br&gt;&lt;br&gt;서울시교육청은 5월 재의를 요구했지만, 시의회는 이를 재의결한 뒤 이달 들어 의장 직권으로 폐지안을 공포했다. 서울시교육청은 시의회가 재의결한 폐지안이 민주적 논의나 입법예고 과정 없이 무리하게 속전속결로 의결·재의결돼 적법절차의 원칙을 위반했다는 등의 이유로 집행정지 신청을 냈다. &lt;br&gt;&lt;br&gt;서울시교육청은 “본안 판결이 있을 때까지 폐지안의 효력이 정지됨에 따라 기존 서울 학생인권조례의 효력이 재개된다”라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/J6JTFG7FSTED4IRJ3QGAN4ENDU.jpg?width=3500&amp;height=2333&amp;auth=297547095dee741cfc1f15a61c287b143084d8ac157133e600bffa0bae82af46&amp;smart=true" type="image/jpeg" height="2333" width="3500">
-        <media:description type="plain">25일 서울 중구 서울시의회에서 열린 제324회 정례회 제4차 본회의에서 서울특별시 학생인권 조례 폐지조례안 재의의 건이 재석 의원 111명 중 찬성 76명, 반대 34명, 기권 1명으로 가결되고 있다. 2024.6.25/뉴스1 ⓒ News1 유승관 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 유승관 기자</media:credit>
-      </media:content>
     </item>
     <item>
       <title>검찰, ‘쯔양 공갈 협박’ 구제역·전국진 사전구속영장 청구...압색 닷새만</title>
