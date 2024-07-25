@@ -13,6 +13,92 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>내 개인정보가 중국으로...中 알리에 과징금 19억원</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/25/AKCK4LINBJHVNGRD6N5VKN7IAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/25/AKCK4LINBJHVNGRD6N5VKN7IAQ/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jul 2024 14:07:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4FYUOLJOAH4DAB3TJALOP2EWZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/알리익스프레스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국의 해외 직구 온라인 쇼핑몰인 알리익스프레스가 국내 개인정보보호법을 위반해 19억여 원의 과징금을 물게 됐다. 개인정보보호위원회는 알리에 과징금 19억7800만원과 과태료 780만원을 부과하기로 의결했다고 25일 밝혔다. 시정명령과 개선권고 조치도 함께 내리기로 했다. 위원회가 중국 해외 직구 온라인 쇼핑몰을 제재하는 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;알리는 소비자와 판매 업체를 연결하고 중개 수수료를 받는 일종의 ‘오픈마켓’이다. 물건을 사면 배송, 결제 등을 위해 주문자의 주소, 전화번호 등 개인정보가 판매 업체에 넘어간다.&lt;br&gt;&lt;br&gt;개인정보보호법에 따르면, 개인정보를 해외 업체에 넘길 경우 주문자에게 해당 업체가 속한 국가, 법인명, 연락처 등을 고지한 뒤 동의를 받아야 하는데 알리는 이러한 내용을 명확히 알리지 않은 채 개인정보 제공(이전) 동의를 받은 것으로 조사됐다. 위원회에 따르면, 작년 말 기준 국내 소비자들이 이용한 알리의 판매업체는 18만여 개로 대부분 중국 업체다. 위원회 관계자는 “두루뭉술한 개인정보 처리 방침을 제시하고 포괄적인 동의를 받아온 것으로 파악됐다”고 했다.&lt;br&gt;&lt;br&gt;알리는 또 판매업체와 입점 계약을 할 때 계약서에 주문자의 개인정보를 어떻게 보호할지 등 방법을 명시하지 않은 것으로 조사됐다. 예를 들어 계약서에 ‘일정 기간이 지나면 주문자의 개인정보를 파기한다’ ‘개인정보가 유출될 경우 민·형사상 책임을 질 수 있다’ 같은 내용이 담겨 있지 않다는 것이다.&lt;br&gt;&lt;br&gt;아울러 알리는 회원 탈퇴 메뉴를 찾기 어렵게 만들어 소비자들의 탈퇴를 어렵게 하고 회원 계정을 삭제하기 위한 홈페이지도 영문으로만 운영한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;위원회는 작년 10월 국회 국정감사에서 “중국 해외 직구 이용자의 개인정보가 중국으로 유출될 우려가 있다”는 지적이 나오자 조사에 착수했다. 하지만 실제로 국내 소비자들의 개인정보가 유출됐는지 여부는 파악하지 못했다. 알리 측은 “개인정보 처리 방침을 개정하는 등 자진 시정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;위원회는 또 다른 중국 해외 직구 쇼핑몰인 테무의 개인정보보호법 위반 여부에 대해서도 심의·의결할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>시각 장애인이 걸어서 500㎞ 국토 종주…“올 여름 자전거로 도전”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/23/URSDITOXF5FBZDSVAIGNQZIY7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/23/URSDITOXF5FBZDSVAIGNQZIY7A/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Jul 2024 08:50:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FLOWCSNGQBCYPIBXKGU233RFLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3월 국토 종주 후 서울역에 도착한 최성훈(사진 왼쪽)씨와 유동현(사진 오른쪽)씨. /유동현씨 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“매일 밤 발에 생긴 물집을 보면서 국토 종주를 포기할까도 했습니다. 그럴 때마다 “이것마저 포기하면 이 어렵고 험난한 세상을 어떻게 헤쳐나갈 것이냐”는 어머니 말씀을 되새겼어요.”&lt;br&gt;&lt;br&gt;지난 3월 부산~서울 국토 종주를 마친 시각 장애인 대학생 최성훈(21)씨와 러닝 메이트 유동현(27)씨는 춥고 힘들었던 국토 종주 때를 생각하면 아직도 눈에 눈물이 고인다고 했다. 선천적으로 백내장을 갖고 태어난 최씨는 시각장애 4급이다.&lt;br&gt;&lt;br&gt;맹학교를 졸업한 뒤 대학에서 컴퓨터 코딩을 공부하는 최씨는 국토 종주가 인생 목표였다. 그랬던 최씨가 유동현씨를 만났다. 지난해 여름, 네덜란드 감자 생산 회사 팜프리츠가 하는 ‘일상의 빛’ 프로그램에서다. 시각 장애인과 비장애인을 서로 연결해주는 멘토-멘티 프로그램이다.&lt;br&gt;&lt;br&gt;유씨는 최씨에게 본인이 그동안 해왔던 도전들을 얘기하면서, 뭔가 할 수 있다는 자신감을 심어주었다고 한다. “험난한 도전을 성공하면, 장애가 있어도 원하는 삶을 살 수 있다고 말했습니다” 유씨는 평소에도 인간 한계를 시험하는 도전을 해왔다. 한양대 전기공학전공에 진학 후 슬럼프와 번아웃이 온 그는 무릎 추벽증후군으로 군 면제 대상이었지만 해병대에 자원 입대했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q7WDFUZMINGUJFT7FXGBWNN5VU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유씨가 2018년 12월 남극 마라톤을 완주한 모습. /유동현씨 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군대에서 극지 마라톤 기사를 읽은 유씨는 바로 고비 사막 극지 마라톤에 도전했다. 세계 4대 극지 마라톤(사하라·고비·아타카마·남극)을 모두 완주했다. 세계 최연소로 4대 극지 마라톤 완주에 성공한 것이라고 한다. 유씨는 “극지마라톤 완주는 남들이 정해준 꿈이 아닌, 내 자신이 정한 첫 번째 꿈이었다”고 했다. 유씨는 이후에도 국민조종사 선발이나 미국 자전거 횡단도 성공했다.&lt;br&gt;&lt;br&gt;그런 유씨에게 국토 완주를 인생 목표로 삼은 최씨가 눈에 들어왔다고 한다. 하지만 전문적인 체력 훈련도 한 번 하지 않은 최씨에게 국토 종주는 어려운 벽이었다. 최씨 부모도 ‘걱정이 된다’며 반대했다. 준비 기간은 불과 1주일이었지만, 유씨는 “완벽한 준비는 없다”며 설득에 성공했다.&lt;br&gt;&lt;br&gt;지난 2월 21일 부산역은 생각보다 더 춥고 쌀쌀했다고 한다. 부산역에서 김해, 밀양, 대구 등을 거쳐 충주, 여주, 그리고 서울까지 500㎞ 길을 11일 동안 걸었다. 국토 종주에서 고난도로 꼽히는 문경새재 이화령 고개를 넘을 때가 가장 힘들었다고 회상했다. 가시에 얼굴이 긁히기도 했고, 돌멩이에 발도 넘어졌다. 눈이 보이지 않아 차에 치일 뻔한 일도 있었다고 한다. 눈과 비가 내리는 악천후, 발바닥에 잡힌 물집 때문에 걸음을 내딛기조차 힘들었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZX64JSI7CJAXHHA7VAZ7DXXC24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최씨가 국토 종주를 하던 중 힘들어 길에 앉은 모습. /유동현씨 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국토 종주를 하면서 받은 많은 사람들의 응원이 힘이 됐다고 이들은 말했다. 국도를 걸어가는데 지나가는 트럭 기사가 “젊음을 응원한다”며 오렌지를 건네주고, 소고기를 사주며 이들 도전을 도와준 지인도 있었다. 부산역을 떠난 지 11일 째인 3월 3일, 서울역에 도착한 이 둘은 눈물을 흘리며 성공을 자축했다. 이 기간 동안 유씨와 최씨는 SNS를 통해 255만원 상당 기부금을 모으기도 했는데, 이 돈은 최씨 모교인 한빛맹학교에 점자교육키트와 지팡이 구입에 쓰인다.&lt;br&gt;&lt;br&gt;유씨는 “혼자서 4대 극지 마라톤을 완주했을 때보다 더욱 성취감이 컸다”며 “국토 종주 후 일상에 감사하는 마음이 생겼고, 장애를 더욱 존중하고 이해할 수 있게 됐다”고 했다. 최씨도 “앞으로 인생에 있을 난관은 거뜬히 넘어갈 수 있을 것 같다”며 “올 여름에는 서울~부산 자전거 완주를 계획하고 있어 체력 훈련에 돌입했다”고 말했다.&lt;br&gt;&lt;br&gt;“젊음을 아깝게 쓰고 싶지 않다”는 유씨의 다음 목표는 에베레스트산 정복이다. “제가 느꼈던 이 성취감을 다른 이들도 느끼게 해주고 싶어요. 책도 쓰고 강연도 나가서 ‘성공의 행복’을 설파하고 싶습니다.”&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KLBQYELZ5JFXXKKKQI5S2YRWDA.jpg?width=2198&amp;height=2930&amp;auth=1ea1ae6f989141b7b6dd9f23d0ec467aa3d0e91ff4e5edd21fac7e6de8b26c39&amp;smart=true" type="image/jpeg" height="2930" width="2198"/>
+    </item>
+    <item>
+      <title>인천공항, ‘변우석 과잉 경호’ 경비업체 고소</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/25/ZSU76R3RAZE5ZA6PHQX2KGCYBQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/25/ZSU76R3RAZE5ZA6PHQX2KGCYBQ/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jul 2024 12:38:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PIJFAZUDGAFORN5IZGMGVWX4HM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;과잉 경호 논란에 휩싸인 배우 변우석이 홍콩에서 열린 아시아 팬미팅 일정을 마치고 지난 16일 오후 인천국제공항 제2터미널을 통해 입국하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천국제공항공사가 배우 변우석(33)에 대한 ‘과잉 경호’ 논란을 일으킨 사설 경비업체를 고소했다.&lt;br&gt;&lt;br&gt;25일 공사에 따르면 공사 소속 경비대는 이날 변우석의 경호를 맡았던 사설 경비업체에 대한 고소장을 인천공항경찰단에 제출했다.&lt;br&gt;&lt;br&gt;앞서 변우석은 지난 12일 홍콩에서 열리는 아시아 팬 미팅 투어에 참석하기 위해 인천공항을 이용하는 과정에서 과도한 경호를 받아 논란이 됐다. 당시 사설 경호원들은 팬들이 몰리자 공항 게이트를 통제하고 다른 이용객에게 플래시를 쏘기도 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;공사의 고소와 별개로 인천공항경찰단은 해당 업체 소속 경호원들을 내사하고 있다. 경찰은 당시 현장 책임자 역할을 맡은 사설 경호원을 전날 참고인 신분으로 불러 조사했다.&lt;br&gt;&lt;br&gt;경찰은 이후 추가 조사를 거쳐 경호원들에게 폭행을 비롯해 강요나 업무방해 혐의를 적용할 수 있는지 확인할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>지팡이에 ‘바들바들’ 할아버지, 어디로 향하나 했더니 ‘운전석’</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/25/KV6O2AIYGZCZDAUI77MYG3DZNU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/25/KV6O2AIYGZCZDAUI77MYG3DZNU/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jul 2024 12:10:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IHKDDTKESFCALMOP7KLMWG64LM.png"&gt;&lt;figcaption&gt;&lt;small&gt;한 손엔 지팡이를 들고 한쪽은 부축을 받은 채 자기 차로 향하는 노인. /보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부축을 받고도 정상적인 보행이 어려운 노인이 차를 모는 영상이 공개돼 논란이 되고 있다.&lt;br&gt;&lt;br&gt;지난 24일 온라인 커뮤니티 보배드림에는 ‘할 말이 없게 만드는 운전자’라는 제목의 영상이 올라왔다. 이 영상은 지난 12일 경기 성남시 중원구 단대전통시장 앞 도로에서 촬영된 블랙박스 영상이다.&lt;br&gt;&lt;br&gt;영상에는 한 손에 지팡이를 든 채 다른 한 쪽은 부축을 받고 있는 노인 A씨가 나타난다. A씨는 지팡이를 들었지만 잘 걷지 못했다. 그렇게 걸어간 곳은 세워진 차의 조수석이 아닌 운전석이었다. A씨는 차에 타려고 하지만 이마저도 힘겨워하는 모습을 보였다. 마침내 운전석에 탄 A씨는 그대로 출발해 사라졌다. A씨가 자신의 차에 도착하기까지는 약 2분의 시간이 걸렸다.&lt;br&gt;&lt;br&gt;이 영상을 본 네티즌들은 우려를 표했다. 네티즌들은 “심각하다. 저런 상태로 운전을 할 수 있나. 고개 돌릴 힘도 없어 보인다” “저 정도로 거동이 불편하신 분이 직접 운전하는 게 맞냐” “노인 운전자라고 무조건 비판하는 게 아니라 보행조차 힘들어 보이는데 운전을 하는 건 아닌 것 같다” 등의 반응을 보였다. 일부는 고령화에 직면한 한국 사회를 보여주는 장면이라며 대책 마련에 대한 의견도 내놨다.&lt;br&gt;&lt;br&gt;한편, 우리 사회에서는 고령 운전자의 ‘면허 자격 논란’이 다시금 수면 위로 떠올랐다. 지난 1일 밤 서울 시청역 인근에서 발생한 인도 돌진 사고로 9명을 숨지게 한 운전자의 나이가 68세로 확인됐기 때문이다. 이 운전자는 차량 결함에 따른 급발진 사고였다고 주장했지만, 일각에서는 고령 운전자를 대상으로 한 운전면허 제한이 필요하다는 의견도 나오고 있다.&lt;br&gt;&lt;br&gt;도로교통공단에 따르면, 만 65세 이상 운전자가 낸 교통사고는 해마다 증가해 2020년 3만1072건에서 작년 3만9614건으로 3년 새 27.5%(8542건) 증가했다. 국회입법조사처는 내년에 65세 이상 운전자가 498만명이 될 것으로 추산했다.&lt;br&gt;&lt;br&gt;정부는 현재 만 75세 이상 고령 운전자들의 운전면허 갱신 주기를 3년으로 하고, 면허를 갱신하려면 인지능력 검사와 교통안전교육을 의무적으로 받도록 하고 있다. 만 65세 이상 고령 운전자도 교통안전교육 권장 대상이다.&lt;br&gt;&lt;br&gt;지방자치단체들은 매년 증가하고 있는 노인 운전자 교통사고를 줄이기 위해 운전면허증 자진 반납을 유도하고 있지만 경찰청에 따르면, 운전면허증 자진 반납률은 2% 수준에 불과하다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>중앙지검장 “金여사 사건 수사, 대검과 긴밀 소통” 檢내분 봉합 수순</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/25/H6XYB3P365HSHAHDAWEWSGIZZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/25/H6XYB3P365HSHAHDAWEWSGIZZM/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jul 2024 12:04:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4XORPIA6PBC4BNS6IBTQSGUZQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이원석 검찰총장과 이창수 서울중앙지검장. /연합뉴스·뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이원석 검찰총장이 25일 김건희 여사에 대한 조사 장소, 보고 시점을 두고 갈등을 빚었던 이창수 서울중앙지검장에게 “현안 사건을 신속하고 공정하게 수사하라”고 지시했다. 이에 이 지검장은 “대검과 긴밀히 소통해 수사를 진행하겠다”고 보고했다.&lt;br&gt;&lt;br&gt;대검찰청과 서울중앙지검에 따르면, 이 총장과 이 지검장은 이날 진행된 주례 정기보고에서 이같이 지시하고 답했다. 법조계에서는 지난 20일 김 여사의 ‘도이치모터스 주가조작 의혹’ ‘디올 백 수수 의혹’ 조사를 둘러싼 대검과 중앙지검의 충돌이 봉합되는 수순이라는 분석이 나온다.&lt;br&gt;&lt;br&gt;이 총장은 전날 ‘김 여사 조사’에 대한 대검의 진상 파악 지시에 반발해 사표를 제출한 디올 백 사건 수사팀 김경목 부부장 검사에게 직접 전화해 사직 의사를 철회하라고 설득했다. 김 부부장 검사도 이에 “잘하겠다”고 답했다고 한다.&lt;br&gt;&lt;br&gt;김 여사 조사를 두고 불거진 검찰의 내홍은 김 여사 조사 다음 날인 지난 21일 알려졌다. 이 지검장은 지난 20일 김 여사를 서울 종로구 창성동 대통령경호처 부속청사로 불러 조사하면서, 김 여사가 출석한 지 10시간이 지난 뒤 이 총장에게 조사 사실을 보고했다. 이 총장은 사후 보고가 이뤄진 것에 대해 이 지검장을 강하게 질책했다. 이런 내용이 21일 언론에 전해졌고, 이 총장은 다음 날 “국민과의 약속을 지키지 못했다”며 사과한 뒤 진상을 파악하라고 지시했다. 이후 대검의 면담 조사 시도와 중앙지검 수사팀의 반발이 이어지며 갈등이 깊어졌다.&lt;br&gt;&lt;br&gt;두 사람의 정면충돌에 대해 검찰 안팎에서는 “빠르게 봉합해야 한다”는 의견이 나왔다. 이날 대면 보고 이후 김 여사 수사 처리를 두고 대검과 중앙지검이 소통하기로 하면서 갈등은 일차적으로 봉합된 것으로 보인다. 이 지검장은 이 총장에게 거듭 사과한 것으로 알려졌다. 이 지검장은 또 이날 김 여사의 디올 백 수수 사건을 담당하는 수사팀과 도시락을 곁들인 회의를 하면서 독려한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;다만 향후 대검 감찰부의 진상 파악과 수사팀의 김 여사 사건 처리 과정에서 갈등이 다시 재현될 것이라는 관측도 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김혜경 “꼬투리 잡히지 말자고 했는데 제 불찰” 최후진술</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/25/BOGNRXLXFZCSPA7IXK24P3H4I4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/25/BOGNRXLXFZCSPA7IXK24P3H4I4/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jul 2024 10:18:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OVIYPLCS6OEQAYKKEIV2Z5ODR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공직선거법 위반 혐의로 불구속 기소된 더불어민주당 이재명 전 대표의 배우자 김혜경 씨가 25일 오전 경기 수원시 영통구 수원지방법원에서 열린 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;“어찌 됐든 간에 제가 이 자리까지 서 있는 건 제 불찰이라고 생각한다. 조금 더 제 주변을 관리하고 철두철미하게 통제했어야 했는데…그런 부분에 있어서 많이 부족했다고 깊이 반성하고 있다.”&lt;/b&gt;&lt;br&gt;&lt;br&gt;지난 대선 경선에서 ‘경기도 법인카드’로 더불어민주당 의원 배우자 등에게 식사를 제공해 공직선거법을 위반한 혐의로 재판 중인 이재명 전 민주당 대표의 아내 김혜경씨가 25일 최후 진술에서 한 말이다.&lt;br&gt;&lt;br&gt;지난 2월 불구속 기소 후 5개월 동안 13차례에 걸친 재판 과정에서 공식적으로 발언한 적이 없던 김씨가 이날 처음으로 입을 연 것이다. 그는 지난 15일 검찰의 피고인 신문에도 ‘포괄적 진술거부권’을 행사하겠다며 응하지 않았다.&lt;br&gt;&lt;br&gt;이날 수원지법 형사13부(재판장 박정호)심리로 열린 공직선거법 위반 사건 결심 공판에서, 김씨는 피고인석에서 일어나 약 4분 동안 진술했다. 최후진술은 재판이 종결되기 전 마지막 절차다. 김씨는 경기도지사였던 이 전 대표가 당내 경선 출마를 선언한 이후인 2021년 8월 2일 서울 종로구의 한 중식당에서 민주당 중진 의원의 아내 등 3명과 자신의 운전기사, 수행원 등에게 10만4000원 상당의 식사를 제공해 공직선거법상 기부행위 금지를 위반한 혐의를 받고 있다. 검찰은 김씨가 당시 사실상 자신의 사적 수행비서인 전 경기도 사무관 배모씨에게 경기도 법인 카드로 식사비를 결제하도록 시킨 것으로 보고, 지난 2월 14일 그를 불구속 기소했다.&lt;br&gt;&lt;br&gt;이날 김씨는 고개를 꾸벅 숙이며 “저로 인해서 검사님들도 긴 시간 고생했는데, 감사하다는 말씀을 드린다”며 운을 뗐다. 그는 “저로 인한 사건으로 인해서 지난 대선에 지대한 영향을 미쳤다는 말씀을 듣고, 정말 가슴이 너무 아팠다”며 “평범한 주부로 살았고, 또 남편이 변호사 활동도 했고, 정치인으로 비주류 정치인으로 하면서 많은 탄압을 받았다”며 울먹거렸다.&lt;br&gt;&lt;br&gt;김씨는 발언 중간중간 법정 천장을 바라보며 울음을 참는 듯한 모습이었다. 김씨는 떨리는 목소리로 “수없이 많은 압색(압수수색)도 당했고, 남편이 구속되는 일도 있었다. 그래서 긴장하고 살았다. ‘꼬투리 잡히지 말자’라는 말을 남편과도 수없이 다짐하며 살았다”고 했다. 그는 또 “정치에 입문하면서 돈 없는 선거를 치르자는 남편의 신념이 너무 강했고, 처음 2006년 지방선거에 나갔을 때 욕을 정말 많이 먹었다”며 “밥값을 안 내고 식사 자리에 가서 ‘밥만 먹고 가냐’고 해서 밥을 안 먹고 선거운동을 했다. 차에서 김밥으로 때우던지 인사만 하고 나가던지 그랬다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OLKFKT4U3RPW7H7BVKQ66YI4JQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표의 배우자 김혜경 씨의 '법인카드 유용 의혹'과 관련 공직선거법 위반 등의 혐의로 기소돼 1심에서 유죄를 선고받은 전 경기도청 사무관(별정직) 배모씨가 지난 2월 14일 오후 경기 수원시 영통구 수원고등법원에서 열린 항소심 선고 공판을 마친 뒤 법원을 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김씨는 “식사값에 대한 의논이나 협의나 이런 것들은 예전이나 지금이나 있을 수 없는 일이었고, 외부에서 보기엔 ‘어떻게 그게 가능한 일이냐’고 검사님이 주장하시는데 그건 너무나 큰 원칙이었기 때문에 따로 얘기하거나 지시하거나 그럴 상황이 아니었다. 이번 선거도 마찬가지였다”고 했다. 당시 식사 대금 결제는 본인이 모르는 일이고, 배씨가 했다는 취지다. 김씨 측은 재판 내내 “배씨의 단독범행”이라고 주장해왔다.&lt;br&gt;&lt;br&gt;김씨는 비서 배씨와의 관계에 대해서도 발언했다. 그는 “배 비서는 (이 전 대표가)성남시장인 2010년부터 선거 과정에서 만난 사람이었고, 얌전하고 소리도 지르지 못하고 성실하게 자기 일하는 비서관이었다”면서 “(남편이)도지사에 당선되고 나선 공관이라는 특별한 공간이 있어서, 제 일까지 관장해줬고, 모든 걸 배 비서관을 통해서 했던 거 같다”고 했다. 배씨는 김씨의 사적 비서로, 김씨가 있는 경기 성남시 수내동 자택에 경기도 법인카드로 결제한 초밥과 샌드위치 등의 각종 음식을 배달한 것으로도 알려졌다.&lt;br&gt;&lt;br&gt;김씨는 “그런데 이번 사건이 언론에 터지면서 정말 깜짝 놀랐다”며 “과연 언론에 비친 저 사람이 내가 그동안 알고 있는 배 비서인가. 혹시 다른 사람 아닌가 정말 많이 놀랐다”고 했다. 그는 “비상식적이고 선거도 해봤는데 왜 그런 일을 했는지…답답해서 눈 마주치고 물어보고 싶었다”며 “재판 과정에서 제가 모르던 여러 가지 일도 알게 됐고, (배씨가)왜 (본인)몰래 지방을 쫓아다녔나, 왜 집요하게 (자신과 관련한 사안들을 캠프 사람들에게)물었나. 왜 캠프 구성원들과 불화를 일으키면서까지 큰 소리를 냈을까. 조금은 이해를 하는데, 아직도 완벽하게 이해하진 못하겠다”라고도 했다.&lt;br&gt;&lt;br&gt;김씨의 최후진술에 앞서 검찰은 김씨에게 벌금 300만원을 구형했다. 검찰은 “피고인이 배우자인 이재명 전 경기도지사를 대선 후보로 당선되게 하기 위해 유력 정치인들인 전·현직 국회의원 배우자를 매수하려 한 사건”이라며 “금액과 상관없이 죄질이 중하고, 자신의 수하인 배씨에게 모든 책임을 전가하는 등 반성의 기미가 보이지 않는다”고 했다.&lt;br&gt;&lt;br&gt;김씨에 대한 1심 판결은 다음달 13일 오후 2시에 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울교통공사, 사물함 납품 비리 의혹…경찰 입건</title>
+      <link>https://www.chosun.com/national/incident/2024/07/25/7SZY37S7EJCRPGLDYBBMB4AOF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/25/7SZY37S7EJCRPGLDYBBMB4AOF4/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jul 2024 11:54:04 +0000</pubDate>
+      <content:encoded>서울지하철 1~8호선을 운영하는 서울교통공사에서 지하철 사물함을 새로 설치하는 과정 중 납품 비리 의혹이 불거졌다. 경찰은 관계자들을 업무상 배임 혐의로 입건하고 수사에 나선 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V4EM6DBYKNEIIPUONMNYC3QD7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 성동구 서울교통공사 본사 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 성동경찰서는 지하철 사물함 납품 계약 과정에 관여한 서울교통공사 관계자, 서울교통공사의 자회사인 서울도시철도ENG 관계자, 납품 업체 관계자를 업무상 배임 혐의로 입건했다고 25일 밝혔다. 서울도시철도ENG는 서울교통공사가 지분 100%를 보유한 자회사로, 외부 민간위탁 시행 도급 용역을 담당한다.&lt;br&gt;&lt;br&gt;서울교통공사는 작년 2월부터 지하철 1~8호선 승강장에 OTP(일회용 비밀번호) 기술이 적용된 신형 사물함을 설치하고 있다. 그런데 공사 내부 감사 결과, 사물함 관리를 담당하는 서울도시철도ENG 관계자들이 해당 OTP 기술의 특허권을 소유하고 있는 것으로 나타났다.&lt;br&gt;&lt;br&gt;또, 이들은 서울도시철도ENG에 입사하기 전 해당 납품 업체 대표와 같은 회사에서 일한 것으로 조사됐다. 해당 업체는 시중 가격보다 높은 가격에 설비를 납품한 의혹도 받는다.&lt;br&gt;&lt;br&gt;한편, 서울교통공사 기술본부에서 근무하던 처장 A씨가 납품 계약 과정에서 업체로부터 골프 접대를 받은 의혹을 받고 지난달 직위해제한 사실도 알려지며 서울교통공사 내 직원들의 기강 해이에 대한 지적도 나온다.&lt;br&gt;&lt;br&gt;경찰은 처장 A씨와 납품 관련 수의 계약 업체를 각각 뇌물 수수와 공여 혐의로 입건한 한편, 지난 12일 서울경찰청 반부패수사대는 서울교통공사 본사 경영지원실 계약처 사무실과 전산서버실을 압수수색했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HK3IQJ6P43RP5DKEG6ON5EA6ZI.jpg?width=3264&amp;height=1672&amp;auth=eec66d25aaf1a1e1b15d0779bf28e3c918bd5b0ea9e5ffee3579fb3c0e2583ef&amp;smart=true" type="image/jpeg" height="1672" width="3264">
+        <media:description type="plain">2021년 9월 13일 서울 성동구 서울교통공사 본사 모습. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>서울에 첫 폭염 특보...체감기온 35도 육박</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/07/25/K42UX3PYF5F25PPX2TP4A7K6GQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/25/K42UX3PYF5F25PPX2TP4A7K6GQ/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jul 2024 11:50:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QQKE2YJR35EEFK7V5FMK4QAGWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무더운 날씨를 보인 25일 오전 대전 서구 한 초등학교 수돗가에서 어린이들이 운동 후 얼굴에 물을 뿌리며 더위를 식히고 있다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 전국에 폭염특보가 발효됐다. 최고 체감 기온이 35도를 넘으면 폭염 경보가 발효되는데, 서울은 올여름 첫 폭염경보가 내려졌다. 한동안 찜통더위가 이어지고, 열대야(밤 최저기온 25도 이상)도 기승을 부릴 전망이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 대만과 중국 사이 해협을 지나는 3호 태풍 ‘개미’와 북태평양 고기압 사이로 고온다습한 남풍이 대거 유입되는 바람길이 만들어지면서 25일 전국의 한낮 수은주가 크게 치솟았다. 습도가 높아 밤에도 열기가 식지 않으면서 전국 대부분 지역에서 열대야가 나타났다. 26일도 최저 24~27도, 최고 29~34도의 기온 분포를 보이며 전국이 펄펄 끓을 것으로 예보됐다.&lt;br&gt;&lt;br&gt;이날 일부 산간 지방을 제외하고는 대부분 지역에 폭염특보가 내려졌다. 폭염경보가 내려진 곳이 106곳으로 폭염주의보(70곳)보다 많다. 폭염주의보는 최고 체감 기온이 33도 이상일 때 내려진다.&lt;br&gt;&lt;br&gt;26일과 27일엔 전국에 소나기가 내릴 전망이다. 지역별 예상 강수량은 광주·전남 30~80㎜, 부산·울산·경남 30~80㎜, 제주도 80~150㎜로 예보됐다.&lt;br&gt;&lt;br&gt;현재 태풍 ‘개미’의 예상 경로상 장마전선(정체전선)에 의한 비가 이달 말 수도권과 강원 영서에 내릴 것으로 전망된다. 이렇게 되면 27일 남부에 내리는 비, 29일~다음 달 1일 중부에 내리는 비가 각각 올해 마지막 장맛비가 될 가능성이 크다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>70대 친할머니 살해 후 도주한 20대 손자 구속</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/25/7ZT5LQ2HXFHODDZCEGZTU74MDU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/25/7ZT5LQ2HXFHODDZCEGZTU74MDU/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>70대 조모를 살해한 후 도주했던 20대 손자가 구속됐다.춘천지법 강릉지원은 25일 존속살인 혐의를 받는 20대 A씨에 대한 구속 전 피의자심문(영장실질심사)에서 “증거 인멸과 도주 우려가 있다”며 구속영장을 발부했다.</description>
+      <pubDate>Thu, 25 Jul 2024 10:50:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SWDBBSCJZRGU5OJXNOZ4Q3F234.webp"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;70대 조모를 살해한 후 도주했던 20대 손자가 구속됐다.&lt;br&gt;&lt;br&gt;춘천지법 강릉지원은 25일 존속살인 혐의를 받는 20대 A씨에 대한 구속 전 피의자심문(영장실질심사)에서 “증거 인멸과 도주 우려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 지난 22일 오후 11시쯤 강원 강릉시 강동면 한 주택에서 함께 설던 친할머니 B씨를 흉기로 살해한 혐의를 받고 있다. A씨는 범행 직후 택시를 타고 도주했으며 청량동 한 거리에서 경찰에 붙잡혔다. 경찰은 “흉기를 소지한 남성이 거리를 배회한다”는 신고를 받고 현장에 출동해 A씨를 체포했으며 조사 과정에서 A씨의 범행임을 파악했다.&lt;br&gt;&lt;br&gt;A씨는 정신 질환을 앓아 왔던 것으로 조사됐다. 경찰은 조사를 마치는 대로 사건을 검찰에 넘길 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>5년보다 10년 경력 판사가 훌륭? “경력보다 능력있는 법관 뽑아야”</title>
       <link>https://www.chosun.com/national/court_law/2024/07/25/NGGOJNGKUJDJTK5HDMKN2V3OOI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/25/NGGOJNGKUJDJTK5HDMKN2V3OOI/</guid>
@@ -858,80 +944,6 @@
       <description/>
       <pubDate>Wed, 24 Jul 2024 15:50:00 +0000</pubDate>
       <content:encoded>야당이 초·중·고교 교사의 업무를 수업과 연구로 한정한 법안을 발의하자, 학교 행정 직원들은 “우리에게 업무를 모두 떠넘기려는 것 아니냐”며 크게 반발하고 있다. 최근 수년간 행정 업무를 둘러싸고 지속됐던 교사와 다른 직원들 간 갈등이 수면 위로 떠오른 것이다.&lt;br&gt;&lt;br&gt;지난 8일 백승아 더불어민주당 의원은 교사들의 업무 범위를 수업과 연구로 한정하는 내용의 ‘초·중등교육법’ 개정안을 대표 발의했다. 행정 업무가 너무 많아서 아이들 교육에 집중하기 어렵다는 교사들의 불만이 쏟아지자 아예 법으로 교사 업무를 분명히 정하려 한 것이다. 초등 교사 출신인 백 의원은 초등교사노조 수석부위원장으로 당선된 직후 민주당 비례대표 후보로 발탁됐다.&lt;br&gt;&lt;br&gt;백 의원은 법안에서 교사의 교육 활동 업무가 무엇인지 9개 조항에 걸쳐 구체적으로 나열한다. 수업·수업 연구, 학생 생활 지도, 생활기록부 관리, 상담 등이다. ‘교육부 장관은 교사가 교육 활동에 전념할 수 있도록 해야 한다’는 조항도 있다.&lt;br&gt;&lt;br&gt;법안이 발의되자 학교 행정직 공무원들이 들고일어났다. 이들이 속한 교육청노동조합연맹은 18일 성명을 내고 “(개정안은) 교사들이 수업 외 잡무는 하지 않겠다는 것”이라며 “학교에서 해야 하는 일은 줄어들지 않는데, 결국 행정실 직원들에게 일을 떠넘기겠다는 것이 아니냐”라고 했다. 전국 학교 행정 공무원 수는 5만4000명으로, 교사(43만2000명)의 8분의 1 수준이다.&lt;br&gt;&lt;br&gt;국회 홈페이지에는 24일 기준 이 법안에 대한 의견 3만5000건이 달렸다. 교사들이 올린 것으로 보이는 찬성 의견이 많지만, 반대 의견도 상당수다. “한국에 행정 업무를 안 하는 공무원도 있나” “교사 이익만을 대변해 ‘(행정직에) 업무 몰아주기’ 하려 한다” 등이다.&lt;br&gt;&lt;br&gt;전문가들은 교사·행정직 간 갈등은 최근 10년간 학교에서 방과후학교·돌봄 등 다양한 프로그램이 들어오면서 과거에 없던 업무들이 늘어났기 때문으로 본다. 행정 업무가 어디까지인지 분명하게 선을 긋기 쉽지 않은 가운데 교사와 행정 직원 양측 모두 업무가 늘어나 불만이 생긴 것이다. 특히 최근 학교들은 행정직뿐 아니라 급식·돌봄 등을 맡는 무기계약직(공무직)을 대거 채용해 ‘교사 대 비교사’ 갈등은 갈수록 커지고 있다. 전국교육공무직본부도 최근 성명을 내고 “특정 직군에 대해서만 업무 경감 대책을 수립하면 다른 직군의 업무 부담이 가중된다”고 반발했다. 현재 학교 공무직은 15만1000명에 달한다.&lt;br&gt;&lt;br&gt;서울의 한 대학 교육학과 교수는 “수업을 하다 보면 교사가 꼭 해야 하는 행정 일도 있는데, 업무 범위를 법으로 정하면 오히려 갈등이 커질 수 있다”면서 “차라리 어쩔 수 없이 행정 업무를 하는 교사에게 인센티브를 많이 줘야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2428] 암호로 바꿔 쓰기</title>
-      <link>https://www.chosun.com/national/nie/2024/07/25/DBBRHYEADRAWLGNRSKN56BGOJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/25/DBBRHYEADRAWLGNRSKN56BGOJI/</guid>
-      <description/>
-      <pubDate>Wed, 24 Jul 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P7RS6K4QIBEWDN7VZ64M52THXI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 체납자(滯納者)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/25/REQ64RLBZFEOJF4U2T26HGBS3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/25/REQ64RLBZFEOJF4U2T26HGBS3E/</guid>
-      <description/>
-      <pubDate>Wed, 24 Jul 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GPX7IVWTEZGVTGJOLN63W3IFRA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 문턱이 높다, (면목이 없어) 찾아가기 겸연쩍다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/07/25/YN6UTLIYCBAXZDJEG7MJFZ3M4A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/07/25/YN6UTLIYCBAXZDJEG7MJFZ3M4A/</guid>
-      <description/>
-      <pubDate>Wed, 24 Jul 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M6FVCAHL6JHRFKEGHTGAWXDFUY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 눈이 호강하다, 눈이 정화되다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/07/25/A744YT7PABB6XIFOVGISXFJ46A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/07/25/A744YT7PABB6XIFOVGISXFJ46A/</guid>
-      <description/>
-      <pubDate>Wed, 24 Jul 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BPVPJHFKQRF7RNXSFS63JNYJ7U.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] It's now or never.</title>
-      <link>https://www.chosun.com/national/nie/english/2024/07/25/2BITYMMO2VGPLOPEIBJKPCHV3I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/07/25/2BITYMMO2VGPLOPEIBJKPCHV3I/</guid>
-      <description/>
-      <pubDate>Wed, 24 Jul 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T4CZCR7YUVGZFJKETZYLWJFWC4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김종옥 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/07/25/JADUU66GYRE2JOU35AZJZGTRVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/07/25/JADUU66GYRE2JOU35AZJZGTRVQ/</guid>
-      <description/>
-      <pubDate>Wed, 24 Jul 2024 15:35:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김종옥&lt;/b&gt; 별세, &lt;b&gt;김승필&lt;/b&gt; 5·18민주화운동 서울기념사업회 홍보대사 모친상=23일7시46분 용인 보정장례식장, 발인 25일9시, (031)276-4001&lt;br&gt;&lt;br&gt;▲&lt;b&gt;오우영&lt;/b&gt; 별세, &lt;b&gt;오도규&lt;/b&gt;·&lt;b&gt;오지연&lt;/b&gt; 부친상, &lt;b&gt;목주승&lt;/b&gt; 울산MBC 경영기술국장 장인상=23일19시2분 울산대학병원, 발인 26일8시, (052)250-8444&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 웅진재단 ‘제16기 웅진수학영재 장학생 하계 멘토링’ 개최</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/07/25/6KWSXV6HY5EVZB7WMDGFFIJL7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/07/25/6KWSXV6HY5EVZB7WMDGFFIJL7Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Jul 2024 15:35:00 +0000</pubDate>
-      <content:encoded>웅진재단(이사장 신현웅)은 26일 오전 8시 30분 서울 중구 한국프레스센터 20층 내셔널프레스센터에서 ‘제16기 웅진수학영재 장학생 하계 멘토링’을 개최한다. 김민형 영국 에든버러대 수리과학 석좌교수, 김진영 연세대 노어노문학과 교수가 강의한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>박준희 HKP파트너스 대표, 남편 모교 고려대에 1억 기부</title>
-      <link>https://www.chosun.com/national/people/2024/07/25/Y5R6ZHP6YBFENJ6DPDN5EZNTL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/07/25/Y5R6ZHP6YBFENJ6DPDN5EZNTL4/</guid>
-      <dc:creator>김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Jul 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6C27LRB4NCQVGHXLGZTMEQDAA.jpg"&gt;&lt;br&gt;&lt;br&gt;박준희 HKP파트너스 대표가 고려대에 ‘인봉장학금’ 1억원을 기부했다고 고려대가 24일 밝혔다. 박 대표는 지난 22일 열린 기부식에 참석해 “대학 시절 인봉장학금 1기였던 남편이 그 덕에 학업에 정진하며 꿈을 이뤄나갈 수 있었기에, 아내로서 감사의 인사를 전하고 싶었다”고 했다. 행사에 함께 참석한 박 대표의 남편이자 ‘인봉장학금 교우 모임’ 회장을 맡고 있는 허준열씨도 “후배들이 인봉장학금을 통해 좌절하지 않고 미래로 계속해서 나아갔으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;김동원 고려대 총장은 “고려대 학생들이 미래를 견인할 창의적 인재로 성장하는 데 큰 힘이 될 것”이라고 했다. 인봉장학금은 1985년 김경은 금한산업 회장의 기부로 조성, 매 학기 학생 10명에게 장학금을 지급한다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 7월 25일</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/25/HWUK62X23ZG35BGHOJGDSVZVWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/25/HWUK62X23ZG35BGHOJGDSVZVWA/</guid>
-      <description/>
-      <pubDate>Wed, 24 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RCXGEOM6VRCYBGRFNA5TJT425Y.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>흔한 시세조정 수법 아니었다...김범수 구속영장 보니</title>
