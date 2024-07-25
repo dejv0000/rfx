@@ -13,6 +13,161 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이숙연, 딸 비상장 주식 매수에 “요즘은 돌에 금반지 아닌 주식 사줘”</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/25/XZIKW4JBWRGKLLCZPQI7DUABVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/25/XZIKW4JBWRGKLLCZPQI7DUABVM/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jul 2024 05:05:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IYDINLBKXFLHXJ77A2AU4DO3XI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이숙연 대법관 후보자가 25일 국회에서 열린 인사청문회에서 위원들 질의에 답변하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이숙연(56·사법연수원 26기) 대법관 후보자가 어린 자녀에게 아버지 돈으로 비상장 주식을 매입한 것에 대해 “요즘은 아이들 돌일 때 금반지를 사주지 않고 주식을 사준다”고 말했다.&lt;br&gt;&lt;br&gt;이 후보자는 25일 국회에서 열린 대법관 후보자 인사청문회에서 자녀들의 주식 매수에 대한 질문에 대해 이같이 답했다. 이 후보자의 딸과 아들은 8살, 6살 때인 2006년 각각 300여만원을 증여받아 이 후보자 남편 친형이 운영하는 버스회사의 비상장 주식을 샀다. 자녀들은 작년 11월 주식을 4000만원에 팔아 13배가 넘는 시세 차익을 봤다. 또 투자 금액보다 훨씬 많은 돈을 배당금으로 받았다.&lt;br&gt;&lt;br&gt;더불어민주당 백혜련 의원이 “자녀가 10살도 되기 전 ‘알짜 황제주식’으로 자녀들이 배당받게 하고, 팔아서는 13배의 시세 차익을 누렸다”고 지적하자, 이 후보자는 “(주식을) 매수할 때는 시세 차익을 얻을 것이라 생각하지 못했다”고 답했다. 그러면서도 “요즘 아이들 돌일 때 금반지 대신 주식을 사준다. 아이들 미래 위해 투자하는 것이고 저희도 마찬가지”라며 “이를 편법 증여로 폄하하면, 자녀들에게 주식을 사서 주는 부모들 마음은 다 그렇게 비난받아야 하는 것인지 여쭤보고 싶다”고 항변했다.&lt;br&gt;&lt;br&gt;이후 민주당 허영 의원이 “후보자는 여러 재산상의 문제에 대해 소명하고 잘못을 인정해 기부하겠다고 했는데, 이 답변이 맞는다고 생각하느냐”고 질책하자 이 후보자는 “매우 부적절했다고 생각한다”고 사과했다. 이 후보자는 “자녀들에 대한 말씀을 하셔서 제가 평정심을 잃은 것 같다”고 해명했다.&lt;br&gt;&lt;br&gt;이 후보자는 “자녀가 부모 찬스로 너무 큰 자산을 형성했다는 비판이 있다”는 국민의힘 박준태 의원의 지적도 받아들였다. 이 후보자는 “국민 눈높이에 맞지 않는 부분 때문에 심려를 끼쳐 송구하다”면서 “남편이 나이도 많고 건강도 좋지 않은데, 늦게 본 딸자식에 대해 경제적으로 자립할 기반을 마련해준다는 마음에 조급해서 이런 잘못을 한 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘학폭 의혹’ 지수 前 소속사, ‘달뜨강’ 제작사에 14억 배상 판결</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/25/WTFJVEQLEBGEXKXOFYM4QYUMC4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/25/WTFJVEQLEBGEXKXOFYM4QYUMC4/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jul 2024 05:09:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JGBBYKLYVNAYZD3Z6TNNDO7ZYM.png"&gt;&lt;figcaption&gt;&lt;small&gt;배우 지수. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;KBS2 드라마 ‘달이 뜨는 강’에 주연으로 출연하다 학교 폭력 가해자 논란으로 중도 하차한 배우 지수(본명 김지수)의 전(前)소속사 키이스트가 드라마 제작사에 14억원을 배상해야 한다는 법원 판결이 나왔다.&lt;br&gt;&lt;br&gt;25일 법조계에 따르면 서울중앙지법 민사합의31부(재판장 김상우)는 드라마 제작사 빅토리콘텐츠가 지수의 전 소속사인 키이스트를 상대로 낸 손해배상 소송에서 “피고는 원고에게 14억2000만여원과 지연이자를 지급하라”며 원고 일부승소로 판결했다. &lt;br&gt;&lt;br&gt;앞서 지수는 KBS2 월화드라마 ‘달이 뜨는 강’에 남주인공 온달 역으로 출연하던 중, 2021년 3월 온라인 커뮤니티발로 학교 폭력 가해자 의혹이 불거지며 방송에서 하차했다.&lt;br&gt;&lt;br&gt;당시 네이트판에는 네티즌 십수 명이 지수에게서 당한 학교 폭력 피해 사실을 올렸다. “교실 쓰레기통에 방뇨했다” “중1 때 체험학습 후 돌아가는 지하철에서 기분이 나쁘다는 이유로 따귀를 때렸다” “시험지를 주고 대신 시험을 치르게 했다” 등의 내용이었다.&lt;br&gt;&lt;br&gt;지수는 이후 자필 사과문을 인스타그램에 올려 “용서받을 수 없는 행동들이었다”며 “저로 인해 피해를 본 모든 분께 무릎 꿇어 진심으로 사죄드린다”고 했다. 키이스트는 “지수는 배우로서 계획된 모든 활동을 즉각 중단하고 통렬한 반성의 시간을 가질 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 드라마는 사전제작으로 촬영은 총 20회 중 18회 분량까지 마친 상태였고, 지수가 나오는 방송은 6회까지 나간 시점이었다. 재촬영이 불가피해진 빅토리콘텐츠는 배우를 나인우로 교체한 후 모든 회차를 다시 촬영해 방영했다.&lt;br&gt;&lt;br&gt;그 뒤 드라마 제작사 빅토리콘텐츠는 “주연 교체에 따라 발생한 추가 제작비로 피해를 봤다”며 키이스트를 상대로 30억원대 손해배상 청구 소송을 냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] '재산 축소신고' 혐의 이상식 "아내 말 믿었다.. 단순 실수" 주장</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/25/LUSS2OP35RAIZGWDL73DQ5FNQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/25/LUSS2OP35RAIZGWDL73DQ5FNQI/</guid>
+      <dc:creator>김수경 기자, 김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jul 2024 05:09:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KZLNJSOKYLIUGZAPLULPFE7XXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상식 더불어민주당 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 총선 당시 재산을 축소 신고한 혐의를 받고 있는 이상식 민주당 의원이 지난 24일 경찰 소환 조사에서 재산 축소는 “단순 실수”라며 혐의를 전면 부인한 것으로 25일 알려졌다. 경찰에 따르면 이 의원은 약 9시간의 조사와 조사 기록 확인을 마치고 25일 오전 1시 40분쯤 경기 용인동부경찰서를 떠났다. &lt;br&gt;&lt;br&gt;경찰 조사에서 이 의원은 당선 인사와 관련한 현수막 게시 등과 관련한 법률을 위반한 사실은 인정하면서도, 재산 축소 관련한 혐의에 대해서는 “배우자의 말을 전적으로 믿었다”, “단순 실수이며 고의성이 없었다”고 주장한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;법조계에 따르면 공직선거법상 허위사실유포에는 과실범 처벌규정이 없기 때문에 과실 주장을 하는 것이 일반적이다. 하지만 경찰은 지난 6월 이 의원 자택과 배우자의 서울 한남동 갤러리 등 4곳의 압수수색을 통해 주요 증거를 확보한 것으로 보인다. 경찰이 자료를 통해 확인한 액수만 10억원 이상인 것으로 알려졌으며, 액수는 추가될 가능성이 있는 것으로 보인다.&lt;br&gt;&lt;br&gt;전날 경찰은 이 의원을 소환해 애초 현금 재산으로 5억원을 신고했다가 바로 다음날 3억5000만원으로 수정을 한 것, 배우자의 재산으로 미술품 14점과 그에 대한 가액으로 31억7400만원을 신고했다가 하루만에 미술품 13점과 가액 17억8900만원으로 축소해 신고한 것 등을 집중적으로 조사한 것으로 알려졌다. 특히 이 의원 배우자 재산 중 미술품 목록에서 빠진 가액 8억원 상당의 이우환 화백의 ‘다이얼로그 그레이(2011)’ 작품에 대해 물은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;총선 당시 이 의원은 해당 의혹에 대해 입장문을 통해 “2020년 당시 배우자 미술품은 15억원 가치였고 최근 이우환 작품 등 가액이 3∼4배 급등했지만, 2024년 현재 작품을 계속 보유하고 있어 미실현 이익일 뿐이므로 세금을 납부하지 않았다”고 해명한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>삼겹살 시켰더니 사탕 한알 달랑 보내고…“정산 받으면 보내주겠다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/25/6NJJRAEJX5EYFLUQKIGM5G3DBQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/25/6NJJRAEJX5EYFLUQKIGM5G3DBQ/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jul 2024 05:06:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HYCRZVY32NEKXFLU2AXAXHKKUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;위메프를 통해 삼겹살을 주문한 고객이 삼겹살 대신 사탕이 담긴 택배 상자를 배송받았다./온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;싱가포르 기반 전자상거래 플랫폼 큐텐의 계열사인 티몬·위메프의 대금 정산 지연 사태와 관련 주문한 상품을 제대로 받지 못했다는 소비자 불만이 잇따르고 있다.&lt;br&gt;&lt;br&gt;25일 여러 온라인 커뮤니티에는 ‘티몬 사태 삼겹살이 캔디로 변하고 있다’는 제목의 글이 공유되고 있다. 이 글에는 위메프에 등록된 업체에서 구이용 냉장 삼겹살 1㎏을 주문했는데, 삼겹살 대신 청포도 사탕을 배송받았다는 소비자들의 주장이 담겼다.&lt;br&gt;&lt;br&gt;네티즌 A씨가 공개한 사진을 보면 삼겹살이 담겨있어야 할 택배 상자 안에는 청포도 사탕 한알이 덩그러니 놓여있다.&lt;br&gt;&lt;br&gt;판매자는 “위메프 자금 상황 때문에 저희와 같은 판매자가 정산을 못 받을 수 있는 상황이어서 주문한 상품을 보내드리는 게 아닌 다른 상품을 보내드렸다”며 “위메프에서 자금을 돌려받을 수 있는 상황이 되면 주문하신 상품으로 다시 출고를 도와드릴 예정”이라고 문자 안내를 보냈다.&lt;br&gt;&lt;br&gt;이 판매자는 “지금이라도 취소 처리를 원하시는 경우 취소 접수해 주시면 빠른 취소 처리를 도와드릴 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;이 상품의 문의페이지는 전날부터 판매자 문자를 받았다는 소비자들의 불만 글이 잇따라 올라왔다.&lt;br&gt;&lt;br&gt;이들은 “삼겹살 2㎏을 시켰는데 청포도 사탕 하나가 왔다” “취소문의 남겼는데 배송보내셨다더니 박스에 사탕 하나 딸랑 보내고 뭐하는 거냐” “다른 상품 배송했다는 게 무슨말인가. 받기 전까지 모르는 랜덤 박스냐” “이거 사기 아닌가요?” 등의 글을 남기고 있다.&lt;br&gt;&lt;br&gt;사연을 접한 네티즌들도 “소비자한테 폭탄 떠넘기기 한 거냐” “판매자도 돈 못받는 상황이라 답답하겠지만 그래도 이건 아니다” “판매자 사정도 안타깝지만 엄연한 사기다. 판매자가 위메프랑 직접 해결해야 할 일” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;한편 티몬과 위메프는 최근 입점 판매자들을 대상으로 정산금 지급 지연을 공지했다. 이에 판매 상품에 대한 대금을 지급받지 못할 수 있다는 우려가 커지면서 판매자들이 기존 주문건을 취소하기 시작했으나, 소비자들은 티몬과 위메프로부터 취소에 따른 환불금을 받지 못하고 있는 상황이다. 설상가상 전날 결제대행업체(PG사)들이 결제와 승인 취소 기능을 막으면서 홈페이지상 환불이 사실상 불가능해진 상황이다.&lt;br&gt;&lt;br&gt;불안이 커지자 환불금을 받으려는 피해 고객들이 티몬과 위메프 본사로몰려가는 일도 빚어졌다.&lt;br&gt;&lt;br&gt;이에 류화현 위메프 공동대표는 “최우선적으로 1~2일 내로 소비자 환불을 마무리하고, 그 다음으로 판매 대금을 정산받지 못한 영세 소상공인에게도 정산을 마무리하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>언쟁 도중 실리콘건으로 피해자 실명하게 한 60대 남성 실형</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/25/WFSYSTPUGFHZNNF6WSJBS2MRZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/25/WFSYSTPUGFHZNNF6WSJBS2MRZU/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jul 2024 05:08:19 +0000</pubDate>
+      <content:encoded>60대 남성 김모씨는 작년 9월 18일 오후 5시쯤 서울 서초구 한 건물 앞 노상에서 이 건물 소유자인 A씨(60대 남성)와 말다툼을 벌였다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AQGABZ3A3JBOZBBCPCP2XWSKZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;말싸움 일러스트. /일러스트=조선디자인랩 권혜인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공사대금 지급과 관련해 언쟁을 했는데, A씨가 갈등을 피해 건물 안으로 들어가려고 하자 김씨는 A씨를 건물 밖으로 끌어냈다. 이어 오른손에 쥐고 있던 작업 실리콘건을 A씨 얼굴을 향해 휘두르고, 왼손으론 A씨 목과 가슴 부위를 수차례 때렸다. &lt;br&gt;&lt;br&gt;흥분한 A씨는 김씨의 뺨을 때리며 응수했다. 그러자 김씨는 격분해 실리콘건으로 A씨의 안면부를 가격해 왼쪽 눈을 파열시켜 시력을 영구적으로 잃게 했다. A씨는 치과기공소를 운영하며 직접 치과기공물을 제작하는데, 시력 장애가 생기며 정교한 작업을 요하는 이 일을 하기 어려워졌다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 지난 23일 특수중상해 혐의로 기소된 김씨에게 징역 2년 6개월을 선고했다. 김씨는 1979년 횡령죄로 징역형을 선고받은 것을 비롯해 다른 범죄로 여러 차례 형사처벌을 받았던 것으로 나타났다. &lt;br&gt;&lt;br&gt;재판부는 “김씨는 위험한 물건인 실리콘건으로 A씨의 눈을 가격해 왼쪽 눈이 실명(失明)되는 중대한 결과를 발생하게 하는 등 그 범행 방법과 수단 및 결과가 매우 중하다”며 “A씨에 대한 피해 회복이 이뤄지지 않았고, 피해자는 물론 가족 및 지인들 모두 김씨에 대한 엄벌을 강하게 탄원하고 있다”고 지적했다. 김씨는 선고 다음 날인 24일 판결에 불복해 항소장을 제출했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>1시간 20분 ‘병원 뺑뺑이’...발목 절단 교통사고 부상자 숨져</title>
+      <link>https://www.chosun.com/national/incident/2024/07/25/V43UXQFNJVF37GWULHNK5U27IE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/25/V43UXQFNJVF37GWULHNK5U27IE/</guid>
+      <dc:creator>전주=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jul 2024 05:07:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/733CH62HZE5O475QPWAE5NR2DE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급대. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;발목이 절단된 70대 교통사고 환자가 수술 받을 곳을 찾지 못해 ‘병원 뺑뺑이’를 돌다 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;25일 전북소방본부 등에 따르면 지난 18일 오전 11시 55분쯤 전북 익산시 여산면의 한 도로에서 70대 A씨가 몰던 차량이 전복되는 사고가 발생했다. 이 사고로 A씨가 차량 밖으로 튕겨 나가면서 발목이 절단되고 머리와 허리 등을 크게 다쳤다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방대원들은 A씨의 상태를 살핀 뒤 익산 원광대병원에 있는 권역외상센터에 수술 가능 여부를 물었다. 하지만 원광대병원은 발목 접합 전문의가 당직 근무 뒤 퇴근해 수술을 할 수 없는 상태였다. 이어 소방대원들은 전주의 전북대병원에도 문의했지만 당장 치료가 어렵다는 답변을 들었다.&lt;br&gt;&lt;br&gt;결국 소방대원들은 A씨를 사고 장소에서 35㎞쯤 떨어진 전주의 한 병원으로 이송했는데, 이 병원에서도 “다발성 손상으로 수술이 어려워 종합병원으로 이송해야 한다”는 권고를 받았다.&lt;br&gt;&lt;br&gt;소방대원들은 A씨를 오후 1시 19분쯤 전주예수병원으로 이송했지만, A씨는 이곳에서 결국 숨을 거뒀다. 119 신고 시점으로부터 1시간 20여분 만이다. 예수병원엔 당시 수술할 수 있는 전문의가 있었으나 A씨의 상태가 위중해 인공호흡 등의 처치밖에 할 수 없었다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘입찰비리 의혹’ 대전 서구청장 비서실장 압수수색</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/07/25/C3AUZVHF7NGJZEQVQJD3KEO3WY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/07/25/C3AUZVHF7NGJZEQVQJD3KEO3WY/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jul 2024 05:03:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KHOBFUYZFNONJOV5QMJKEZQTCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 서구청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 입찰비리 의혹 수사와 관련해 최근 대전 서구청 비서실장실을 압수수색한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;25일 본지 취재를 종합하면 둔산경찰서는 지난 22일 서구청 비서실장실을 압수수색해 컴퓨터 등 관련 자료를 확보했다. 경찰은 이에 앞서 비서실장 A씨의 자택과 차량, 휴대폰 등에 대해서도 압수수색을 진행했다.&lt;br&gt;&lt;br&gt;경찰은 현직 비서실장인 A씨의 입찰 계약 관련 비리 의혹에 대해 수사 중인 것으로 알려졌다. 대전 서구 관계자는 “압수수색 영장은 A씨 개인 앞으로 발부된 것으로 알고 있다”면서 “정확한 혐의 내용에 대해서는 구청 내부에서도 알지 못하는 상황”이라고 말했다.&lt;br&gt;&lt;br&gt;A씨는 현재 휴가를 내고 출근하지 않고 있는 것으로 나타났다. A씨는 지난 2022년 전국동시지방선거에서 서철모 서구청장이 당선돼 취임한 이후 비서실장으로 근무해오고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KHOBFUYZFNONJOV5QMJKEZQTCI.jpg?width=4293&amp;height=2928&amp;auth=c2e1486979c6df60a5521a4326c3be4ab579687e870835425bb97e70e252a8b2&amp;smart=true" type="image/jpeg" height="2928" width="4293">
+        <media:description type="plain">대전 서구청 전경. ⓒ News1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“내 것 안되면 죽어야...” 여친 살해 김레아, 법정서 범행 당시 녹음 재생</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/25/74T5W4F5WZEATLGVPXRRSEXOTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/25/74T5W4F5WZEATLGVPXRRSEXOTM/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jul 2024 04:51:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B32XBSUYAAWKDYTIPJIEAYL3RI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이별을 통보한 여자친구를 흉기로 찔러 살해하고 그의 어머니도 숨지게 하려 한 혐의로 재판에 넘겨진 26세 김레아의 머그샷. /수원지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이별을 통보한 여자친구를 흉기로 여러차례 찔러 살해하고, 그의 어머니까지 중상을 입히는 범행을 저질러 신상이 공개된 김레아(26)의 재판에서 범행 당시 현장 상황에 대한 구체적인 증언이 나왔다.&lt;br&gt;&lt;br&gt;사망한 A(사망 당시 21세)씨의 어머니인 B(46)씨가 법정에 나와 당시 경위를 설명한 것이다. B씨는 “(김레아가 범행 당시) ‘내 것이 안 되면 죽어야 한다’고 했다”고 말했다.&lt;br&gt;&lt;br&gt;25일 수원지법 형사14부(재판장 고권홍) 심리로 진행된 김레아의 살인 및 살인미수 두 번째 공판에서 B씨는 딸이 목숨을 잃고 자신은 중상을 입은 과정을 증언했다.&lt;br&gt;&lt;br&gt;B씨에 따르면 사건 발생 전날인 지난 3월 24일 딸의 몸에 든 멍과 목 부위에 난 손자국을 보고 데이트 폭력을 당하고 있다는 사실을 알게 됐다. 또 딸로부터 김레아에 신체 사진을 찍혀 협박을 당하고 있다는 얘기도 들었다.&lt;br&gt;&lt;br&gt;이에 B씨는 이튿날 아침 딸의 짐을 빼러 A씨와 함께 김레아가 거주하는 경기 화성시 봉담읍의 오피스텔에 찾아갔다. 당시 B씨는 딸의 사진을 유포하지 않겠다는 내용 등을 담은 확인서를 들고 김레아를 기다렸다.&lt;br&gt;&lt;br&gt;김레아가 귀가하자 B씨는 “딸 몸에 있는 멍 자국과 상처들은 어떻게 된거냐”고 캐물었다. 그런데 김레아는 갑자기 한숨을 쉬더니 일어나 싱크대 위에 있던 칼을 잡고 B씨와 딸을 차례로 찔렀다고 한다. B씨는 “경찰에 신고하려 했더니 휴대전화를 차버렸다”고 했다.&lt;br&gt;&lt;br&gt;B씨는 “딸이라도 살리려고 따라가지 못하게 붙잡자 김레아가 내 어깨를 몇 번 찔러 정신을 잃었다”며 “눈을 떠 보니 도망간 딸을 김레아가 쫓아간 뒤였고 112에 신고했다”고 했다. B씨는 “당시 딸이 밖으로 도망치려 하니 김레아가 딸의 머리를 붙잡고 ‘내 것이 안 되면 죽어야 한다’고 했다”고 말했다.&lt;br&gt;&lt;br&gt;B씨는 증언을 하면서 한동안 몸을 떨며 눈물을 멈추지 못했다.&lt;br&gt;&lt;br&gt;이날 법정에서는 B씨가 사건 당시 상황을 녹음한 파일도 재생됐다. 약 5분 분량 녹음에는 집안에서 김레아에게 폭행을 추궁하는 내용, 김레아가 범행을 저지르며 발생한 소음과 비명이 그대로 담겨있었다.&lt;br&gt;&lt;br&gt;B씨는 재판부에 “김레아는 당시 내가 죽었다고 생각하고 (수사기관에) 딸과 자신은 가만히 있는데 나 혼자 새벽에 쳐들어 왔다고 거짓 진술한 것으로 안다”며 “김레아가 하는 말은 하나부터 열까지 거짓말이라는 사실을 말씀드리고 싶다”고 했다.&lt;br&gt;&lt;br&gt;김레아는 이날 마스크를 착용한 상태로, 앞머리를 길게 늘어뜨려 얼굴 대부분을 가린 모습이었다. 그는 공판이 진행되는 내내 고개를 푹 숙이고 있다가 녹취 파일이 재생되자 눈물을 보이기도 했다.&lt;br&gt;&lt;br&gt;김레아는 지난 3월 25일 오전 9시 35분쯤 화성시 봉담읍에 있는 자신의 오피스텔에서 여자친구인 A씨와 그의 어머니 B씨에게 과도를 휘둘러 A씨를 살해하고, B씨에게 전치 10주 이상의 중상을 입힌 혐의(살인 및 살인미수)를 받는다. 그는 신고를 받고 현장에 출동한 경찰에 의해 현행범으로 체포됐다.&lt;br&gt;&lt;br&gt;검찰의 공소사실에 따르면 김레아는 A씨에 대해 강한 집착을 하며 폭력적인 성향을 보여왔다. A씨를 같은 대학에서 만난 김레아는 평소 A씨의 휴대전화를 수시로 확인하며 남자 관계를 의심했던 것으로 파악됐다. 그는 평소 “여자친구와 이별하게 되면 죽이고 나도 죽겠다”고 말하는 등 A씨에 대해 강한 집착을 보여왔다고 검찰은 밝혔다. 김레아는 A씨와 다투던 중 휴대전화를 던져 망가뜨리거나, 주먹으로 팔을 때려 큰 멍이 들게 했던 것으로도 파악됐다.&lt;br&gt;&lt;br&gt;김레아 측은 그가 과거 정신질환을 앓고 있었다며 범행 당시 심신미약 상태에 있었다는 취지로 주장했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법 “한국GM ‘불법파견’ 인정...하청노동자 직접 고용해야”</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/25/IFUH2WQ5GNC5PDIPN3ZMJHAY7U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/25/IFUH2WQ5GNC5PDIPN3ZMJHAY7U/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jul 2024 04:55:23 +0000</pubDate>
+      <content:encoded>한국지엠(GM)을 상대로 직접 고용을 요구하며 소송을 낸 사내 하청 노동자들이 약 9년 만에 최종 승소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MP2HBDP4CNB73ODWUW6X6LNYJI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 3부(주심 엄상필 대법관)는 한국GM 사내협력업체 근로자 98명이 한국GM을 상대로 낸 근로자 지위 확인 소송에서 원심의 원고승소 판결을 25일 확정했다.&lt;br&gt;&lt;br&gt;소송을 낸 근로자들은 1차 또는 2차 협력업체 소속으로 한국GM의 부평·군산·창원 공장 등에서 생산공정 및 서열·보급·방청·포장 등 간접 생산공정 업무에도 종사했다. 이에 근로자들은 한국GM이 불법 파견으로 자신들을 사용했다고 주장하며 회사가 직접 고용하라는 취지로 2015년부터 소송을 여러 차례 제기했다.&lt;br&gt;&lt;br&gt;파견 근로자는 하청업체 소속이지만, 현장에서는 원청의 지시를 받아 일한다. 파견법에 따라 최대 2년까지만 사용할 수 있으며 이를 초과하면 직접 고용해야 한다. 제조업의 직접 생산 공정 업무에는 파견이 금지된다.&lt;br&gt;&lt;br&gt;반면 도급 계약을 맺으면 하청업체 소속으로 하청업체의 지시를 받아 일하게 되고 이 경우에는 직접 고용 의무가 발생하지 않는다. 이 때문에 산업계에선 겉으로는 도급 계약을 맺어놓고, 실제로는 파견근로자처럼 사용하는 ‘불법 파견’ 문제가 발생한다.&lt;br&gt;&lt;br&gt;1심과 2심은 모두 근로자들의 손을 들어줬다. 특히 2심 법원은 “직접 생산공정에 종사한 원고들뿐 아니라 간접 생산공정 업무에 종사한 원고들도 피고(한국GM)의 사내 협력업체에 고용된 후 피고의 사업장에 파견돼 피고로부터 직접 지휘·감독을 받는 근로자파견 관계에 있었다”고 판단했다.&lt;br&gt;&lt;br&gt;이날 대법원은 2심 판결에 잘못이 없다고 보고 한국GM이 불복해 낸 상고를 기각했다. 이어 한국GM 협력업체 근로자들이 낸 다른 소송 3건에 대해서도 유사한 결론을 내렸다. 일부 2차 협력업체 근로자들의 파견 관계만 인정되지 않았다.&lt;br&gt;&lt;br&gt;배성도 금속노조 한국GM창원비정규직지회 비대위원장은 선고가 끝난 뒤 기자회견에서 “근로자 지위 하나를 받기 위해 10년 넘게 걸린 게 한스럽다. 100％의 승리를 만들 때까지 계속 투쟁을 이어 나가겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경북 포항 한 여고서 학생이 흉기 휘둘러…학생 1명 다쳐</title>
+      <link>https://www.chosun.com/national/regional/2024/07/25/DTTKEWPRP5BX7G3BDPTCNYAAXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/25/DTTKEWPRP5BX7G3BDPTCNYAAXA/</guid>
+      <dc:creator>포항=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jul 2024 04:19:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FO4LY3RLGMQPZFLUWPFBV5YFSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 포항북부경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 포항의 한 여고에서 학생이 다른 학생에게 흉기를 휘두르는 사건이 일어나 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;25일 포항북부경찰서에 따르면 이날 오전 8시 25분쯤 포항 한 여고에서 A양이 B양에게 흉기를 휘둘렸다. 이 사건으로 B양은 손목 등 여러 곳을 다쳐 병원으로 옮겨졌지만, 생명에는 지장이 없는 상태라고 경찰은 전했다.&lt;br&gt;&lt;br&gt;경찰은 A양이 흉기를 휘두른 이유 등 자세한 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제자 논문 대신 써주고 금품 받은 전직 대학 교수 ‘집유’</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/25/UQJVWZ47SNFHVPTZYEMXRS3SX4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/25/UQJVWZ47SNFHVPTZYEMXRS3SX4/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jul 2024 04:18:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YNMOTWQAITXLQNULCQTGWDUJ24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주지법 전경. / 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수백만원을 받고 제자의 논문을 대신 써 준 국립대 전직 교수가 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;광주지법 형사5단독 지혜선 부장판사는 25일 부정청탁, 금품 등 수수의 금지에 관한 법률 위반, 제삼자 뇌물취득 등 혐의로 기소된 국립대 전직 교수 A씨에게 징역 5개월에 집행유예 2년, 추징금 600만원을 선고했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2020년 교수 재직 당시 600만원을 받고 자신이 지도한 대학원생의 논문을 대신 써준 혐의로 재판에 넘겨졌다. 또 같은 해 석사학위 논문 심사 신청자 8명에게 심사위원(교수)들에게 ‘심사비’를 전달해주겠다며 480만원을 받은 혐의도 받고 있다. A씨는 유사 논문을 짜깁기하는 방식으로 제자의 논문을 대필한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 이같은 사안으로 대학에서 해임됐다. 그가 대필한 논문은 심사에서 탈락했다. A씨는 재판 과정에서 “거마비로 불리는 심사비는 논문 심사 과정에서 관행적으로 이뤄지는 일”이라며 “관행에 따른 것인 만큼 논문 심사 결과가 달라지지는 않는다”고 주장했다.&lt;br&gt;&lt;br&gt;하지만 재판부는 A씨의 주장을 받아들이지 않았다. 재판부는 “A씨가 주장하는 심사비 등 관행이 있다고 단정하기 어렵고 암암리에 행해졌다고 해도 정당화할 사유는 아니다”며 “대학원생들로부터 받은 돈 역시 개별적으로 받은 점으로 미뤄 직무 관련성이 인정된다”고 지적했다.&lt;br&gt;&lt;br&gt;이어 “높은 청렴성이 요구되는 국립대학교 교원으로서 관행이라는 명목으로 스스로 금품을 받거나 다른 교수들에게 전달하려 했고 ‘논문 컨설팅’이라며 지도 학생의 논문 작성에 깊이 관여해 논문 심사에 대한 정당한 직무 집행을 방해해 가볍게 볼 수 없다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YNMOTWQAITXLQNULCQTGWDUJ24.jpg?width=601&amp;height=445&amp;auth=4f73481e62487a45dffbd4d23662f8df3ab329469755464c995dec2e09cf52ae&amp;smart=true" type="image/jpeg" height="445" width="601">
+        <media:description type="plain">광주지법 전경. / 연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“고객은 은인…티몬 환불 안 되면 책임지겠다” 약속한 제과점</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/25/DLJBSMDQURGSRF4PND2QGAA4A4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/25/DLJBSMDQURGSRF4PND2QGAA4A4/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jul 2024 03:09:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YUGW2YKFPZPHFNRUGAQORVBZS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;큐텐 계열 플랫폼들의 미정산 사태가 확산하는 25일 서울 강남구 위메프 본사에 티몬 환불이 불가함을 알리는 안내문이 붙어있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;티몬·위메프의 판매대금 미정산 사태가 발생한 가운데 플랫폼에 입점한 판매자로부터 물건을 구매한 소비자들의 피해가 잇따르고 있다. 이 가운데 “자체 자금으로 전액 환불해주겠다”며 고객의 불안감을 달래고 나선 한 제과점이 화제가 되고 있다.&lt;br&gt;&lt;br&gt;25일 소셜미디어 등에 따르면, 수원에 있는 A제과점 대표는 전날 고객들에게 안내 문자를 발송했다.&lt;br&gt;&lt;br&gt;그는 “티몬 사태에 깊은 유감을 표하며, 고객님들께 불편을 끼쳐드려 대단히 죄송하다”고 말문을 열었다. 이어 “미정산된 금액은 티몬과 A제과의 문제로, 고객님들께 번거로움과 불안감을 주어서는 안 된다고 판단했다”고 말했다.&lt;br&gt;&lt;br&gt;그는 “현재 (티몬) 서버가 매우 불안정하여 지금 환불 시도를 하면 정신적 고통을 받으실 수 있다”며 “지금은 환불 시도를 자제하시고 고객님의 정신 건강을 위해 기다려주시길 부탁드린다”고 했다. 이어 “사태가 진정되기까지 약 한 달 정도 소요될 것으로 예상된다. 두 달 뒤인 9월24일까지도 티몬에서 환불이 되지 않을 경우, 제과점 자금으로 전액 환불해드리겠다”고 했다.&lt;br&gt;&lt;br&gt;A제과점 측은 “카카오톡을 통해 1:1 상담이 가능하다. 9월25일 이후에도 환불을 받지 못하신 고객님들께서는 환불 미정산 캡처화면과 계좌번호를 보내주시면 전부 송금해드리겠다”고 안내했다.&lt;br&gt;&lt;br&gt;마지막으로 “32년 전 수원에서 시작해 지금까지 A제과를 성장시켜주신 고객님들은 저의 은인”이라며 “부디 이번 사태로 인해 제 은인인 고객님들이 고통받지 않기를 바란다. 다시 한 번 심려 끼쳐드려 정말 죄송하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K2OASN4FWJBATEBORZXXFG6AKA.png"&gt;&lt;figcaption&gt;&lt;small&gt;수원의 A제과점이 24일 고객들에게 발송한 문자. /엑스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재 티몬·위메프 판매대금 정산이 지연되면서 영세 판매자들은 심각한 자금난에 시달리며, 일부는 도산 위기에 처해있다. 이러한 상황에서 A제과 측이 자신들이 입은 손해에도 불구하고, 고객을 ‘은인’으로 칭하며 피해 복구에 힘쓰겠다는 입장을 내놓은 것이다. 이에 A제과를 향한 네티즌들의 박수가 쏟아지고 있다.&lt;br&gt;&lt;br&gt;네티즌들은 “정말 고마운 업체” “사장님 책임감이 대단하시다” “이런 어려운 상황에서 은인이라며 고객먼저 생각해주시다니” 등 반응을 보였다. 일부 네티즌들은 A제과의 온라인몰 링크를 공유하며, 구매로 응원하겠다고 입을 모으기도 했다. 이른바 ‘돈쭐’(’돈으로 혼쭐을 낸다’는 의미의 신조어)을 내주겠다는 것이다.&lt;br&gt;&lt;br&gt;A제과점 문자를 공유한 엑스 게시물은 25일 오후 12시 기준 43만회 넘게 조회됐으며 6400회 이상 재공유됐다. 같은 시각 A제과점 온라인판매 사이트의 방문자 수는 9400명에 달한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘한증막 더위’에 서울 올여름 첫 폭염경보</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/07/25/CVPSMIB6MBHKBATDDQFMAYS3KQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/25/CVPSMIB6MBHKBATDDQFMAYS3KQ/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jul 2024 04:03:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z3UTPUHTSZPTFJK4KYMDAI2BLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국 곳곳에 폭염경보가 내려진 25일 경기 과천시 서울대공원에서 호랑이가 특식을 먹으며 더위를 식히고 있다. 2024.07.25. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 한낮 최고 체감기온이 35도를 넘어설 것으로 예상되면서 25일 오전 10시를 기해 서울 전역에 올여름 첫 폭염경보가 내려졌다고 기상청이 밝혔다.&lt;br&gt;&lt;br&gt;폭염경보는 일 최고 체감온도가 35도 이상인 상황이 이틀 이상 지속할 것으로 예상되면 내려진다. 서울을 비롯해 전국이 펄펄 끓을 전망이다.&lt;br&gt;&lt;br&gt;기상청은 서울 전역과 경기·강원도 대부분 지역, 충남 천안, 전남 고흥·해남, 전북 부안·군산, 경북 안동·영주에 내려진 폭염주의보를 폭염경보로 격상했다.&lt;br&gt;&lt;br&gt;현재 전국 183개 육상 특보구역 가운데 176곳에 폭염특보가 발효됐다. 폭염경보가 내려진 곳이 106곳으로 폭염주의보가 발효된 곳(70곳)보다 많다.&lt;br&gt;&lt;br&gt;폭염의 원인은 대만과 중국 사이 해협을 지나는 3호 태풍 ‘개미’와 북태평양고기압 사이로 바람길이 열리면서 고온다습한 남풍이 거세게 불어 들고 있기 때문이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>세종대, 제15대 엄종화 총장 취임</title>
+      <link>https://www.chosun.com/national/people/2024/07/25/IYW4RCFE2RAXLIDJA66GXRMMIA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/07/25/IYW4RCFE2RAXLIDJA66GXRMMIA/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jul 2024 03:45:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MN6Y2EORX267RF7UJYFTA5VOAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세종대 제15대 엄종화 총장이 취임식에서 취임사를 하고 있다. /세종대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;엄종화 세종대 제15대 총장이 25일 취임했다.&lt;br&gt;&lt;br&gt;25일 세종대 애지헌 교회에서 열린 취임식에 참석한 엄 총장은 취임사에서 “세종대의 건학 이념인 애지(愛知), 기독교, 훈민 정신을 되새기고자 한다”며 “오늘날의 진리인 과학을 통해 세종대를 세계 최고의 대학으로 도약시키겠다”고 했다.&lt;br&gt;&lt;br&gt;엄 총장은 “사랑과 섬김, 정직과 진리, 희망과 용기의 가치를 중심으로 하는 기독교 정신을 바탕으로 학교가 어려운 이웃을 돕는 따뜻한 공동체가 되도록 노력하고, 정직한 연구와 교육을 실천하는 신뢰받는 기관이 되기 위해 투명하고 공정하게 대학을 운영할 것”이라고 약속했다.&lt;br&gt;&lt;br&gt;이어 엄 총장은 “최근 스위스 국제경영개발대학원(IMD)에서 발표한 ‘국가경쟁력 평가’를 보면 우리나라는 1인당 소득 3만 달러 이상, 인구 5000만명 이상인 30-50클럽에서 미국에 이어 2위를 차지했다”며 “실리콘벨리의 기적을 이끈 스탠포드대처럼 세종대를 한국의 G2 위상을 이끄는 선도적인 대학이 되도록 나아가자”고 했다.&lt;br&gt;&lt;br&gt;1965년생인 엄 총장은 대구 능인고를 졸업한 뒤 서울대에서 물리학 학·석사 학위를 받았다. 이어 1998년 미국 노스웨스턴대에서 물리학 박사 학위를 취득한 뒤 2001년부터 세종대 물리천문학부 교수로 재임 중이다. 엄 총장은 세종대 대외협력처장, 교무처장, 교학부총장, 행정부총장 등 주요 보직을 역임했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MN6Y2EORX267RF7UJYFTA5VOAU.jpg?width=3804&amp;height=2561&amp;auth=29dea2979febd0471d043f160bf2513b10337484a2ac26c6d1a74f8c4f60a14a&amp;smart=true" type="image/jpeg" height="2561" width="3804">
+        <media:description type="plain">세종대 제15대 엄종화 총장이 취임식에서 취임사를 하고 있다. /사진= 세종대학교</media:description>
+        <media:credit role="author" scheme="urn:ebu">사진= 세종대학교</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>대법 “‘타다’ 운전기사, 플랫폼 근로자 맞다”</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/25/BISMX32XPJC47F3QCN7IS4LV2I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/25/BISMX32XPJC47F3QCN7IS4LV2I/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jul 2024 03:09:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYNFYMFLXFJM3DVKITVCATZIGQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;작년 6월 1일 서울 중구 서울역 인근을 지나는 타다 차량의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;차량 호출 플랫폼 서비스 ‘타다’의 프리랜서 운전기사를 플랫폼 근로자로 인정할 수 있다는 대법원 판단이 25일 나왔다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 이흥구 대법관)는 이날 타다 운영사 VCNC의 모회사였던 쏘카가 중앙노동위원회를 상대로 “운전기사 A씨에 대한 부당 해고 구제 심판을 취소하라”며 낸 소송에서 쏘카에 패소 판결을 내린 원심을 확정했다.&lt;br&gt;&lt;br&gt;이 사건은 2019년 타다의 프리랜서 운전기사로 일했던 A씨가 “쏘카로부터 부당 해고를 당했다”고 주장한 것이 발단이다. A씨는 2019년 5월 VCNC에 운전기사를 공급하는 협력업체와 ‘프리랜서 드라이버’계약을 체결한 뒤 타다 애플리케이션 이용자들의 호출에 따라 차량을 운전하며 근무했다. 그런데 같은 해 7월 B사는 운전기사들이 모여있는 카카오톡 단체대화방에 “부득이하게 인원 감축을 진행하게 됐다”고 메시지를 올리며 A씨 등의 계약을 해지했다.&lt;br&gt;&lt;br&gt;이에 A씨는 “인원 감축 통보가 부당해고에 해당한다”면서 구제 신청을 냈다. 중앙노동위원회는 쏘카가 A씨를 부당 해고한 것으로 인정하자, 쏘카가 불복해 소송을 낸 것이다.&lt;br&gt;&lt;br&gt;재판의 쟁점은 A씨가 근로기준법상 쏘카의 근로자에 해당되는지였다. 1심은 “근로자가 아니다”고 봤지만, 2심은 “근로자가 맞다”고 판단했다. 2심은 “A씨의 업무 내용은 기본적으로 타다 서비스 운영자가 애플리케이션 등을 통해 만들어 놓은 틀 안에서 정해졌고, A씨가 이를 벗어나 자신의 업무 내용을 스스로 정할 수 있는 부분은 없었다”면서 “근무 수락 여부, 근무 시간 등에 관하여 참가인에게 자유로운 선택권이 있었다고 할 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;대법원도 A씨를 쏘카 근로자로 볼 수 있다고 판단했다. 대법원은 “쏘카는 협력업체와 운전 용역 제공 계약을 체결해 프리랜서 드라이버를 공급받았지만, 임금과 업무 내용은 직접 결정했다”면서 “자회사 VCNC는 앱을 통해 드라이버의 근태를 관리했고, 근무 시간과 장소는 자회사가 최종적으로 결정했다”고 했다.&lt;br&gt;&lt;br&gt;대법원은 “온라인 플랫폼을 매개로 한 노무 제공 관계의 경우 직접적으로 개별적 근로 계약을 맺을 필요성이 적은 사업 구조, 일의 배분과 수행 방식 결정에 플랫폼 알고리즘이나 복수의 사업 참여자가 관여하는 등의 특성을 고려해야 한다”고 판시했다.&lt;br&gt;&lt;br&gt;재계와 노동계에서는 타다 운전기사처럼 플랫폼에 간접 고용된 노동자의 근로자성을 둘러싼 분쟁이 계속되고 있다. 다만 플랫폼 업계의 근로형태가 직종, 회사에 따라 다양해 이번 판결이 일반적으로 적용되긴 어려울 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>10년 넘게 여성 신도 9명 성폭행...전직 교회 담임목사 구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/25/W5SGKCA455BW7FOSS3NXOVPE2E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/25/W5SGKCA455BW7FOSS3NXOVPE2E/</guid>
+      <dc:creator>안양=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jul 2024 03:09:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QONLYBNKN34EPLELEKFXX5SUZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지검 안양지청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여성 신도 여러 명을 대상으로 이른바 ‘그루밍 성범죄’를 저지른 혐의를 받는 60대 전직 담임목사가 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;수원지검 안양지청 형사2부(부장 기노성)는 여성 신도를 대상으로 성폭행을 저지른 혐의(준강간, 아동·청소년의 성보호에 관한 법률 위반 등)로 김모(69)씨를 지난 23일 구속기소했다고 25일 밝혔다. 검찰은 김씨에 대한 전자장치 부착 명령도 청구했다.&lt;br&gt;&lt;br&gt;검찰에 따르면, 김씨는 경기 군포시에 있는 한 교회에서 담임목사로 재직하던 2008년부터 2021년까지 13년간 여성 신도 9명을 지속적으로 성폭행한 혐의를 받고 있다. 김씨는 여성 신도로 구성된 단체를 만들고, 각종 규율을 통해 이들을 심리적으로 지배해 범행한 것으로 검찰은 파악했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “충실한 보완수사를 통해 범행을 부인하는 피고인의 혐의를 명백히 하고, 피해자들에 대한 개별면담을 실시해 심각한 정신적 피해를 호소하는 피해자들에 대해 심리치료 및 법정동행 안내 등 보호 지원 조치를 취했다”며 “범죄에 상응하는 처벌이 이뤄질 수 있도록 만전을 기하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>미공개 정보로 주식 미리 매수해 50억원 챙긴 KB국민은행 직원 재판行</title>
       <link>https://www.chosun.com/national/national_general/2024/07/25/ZM3IPYQ2AVFJRHC7T2ZLX366ZE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/25/ZM3IPYQ2AVFJRHC7T2ZLX366ZE/</guid>
@@ -705,34 +860,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HTHWV3JA4BVYY424TI7NNU36GA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;생후 49일 된 쌍둥이 자매를 숨지게 한 혐의로 기소된 친모 A씨. 지난 18일 1심에서 징역 6년을 선고받았지만, 최근 항소했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;생후 49일 된 쌍둥이 자매를 엎어 재워 숨지게 한 20대 엄마가 징역 6년을 선고한 1심 판결에 불복해 항소했다. 검찰은 오히려 1심 양형이 범행에 비해 가벼웠다며 맞항소 했다.&lt;br&gt;&lt;br&gt;24일 법조계에 따르면 아동학대 범죄의 처벌 등에 관한 특례법상 아동학대치사 혐의로 최근 징역 6년을 선고받은 A(여‧24)씨가 최근 항소장을 변호인을 통해 인천지법에 제출했다. A씨는 자신에게 선고된 형량이 지나치게 무거워 부당하다는 입장인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;반면, 검찰은 A씨에 대한 형량이 범행에 비해 가볍다며 이날 법원에 항소했다.&lt;br&gt;&lt;br&gt;검찰은 “피해자들은 생후 49일의 신생아로, 자기 보호 능력이 없는 아동에 대한 범죄를 특별히 엄하게 다스릴 필요가 있다”며 “A씨의 범행으로 2명이 사망에 이른 점 등을 고려했다”고 항소 이유를 설명했다.&lt;br&gt;&lt;br&gt;검찰은 지난 5월 A씨의 결심 공판에서 “(피고인은) 보이스피싱 범행으로 구속됐다가 출산으로 인해 구속 집행정지가 된 상태에서 범행했다”며 징역 15년을 구형했다.&lt;br&gt;&lt;br&gt;A씨에 대한 2심 재판은 서울고법에서 열릴 예정이다.&lt;br&gt;&lt;br&gt;A씨는 지난 2월 1일 새벽 인천시 미추홀구 주안동의 한 모텔에서 생후 49일 된 쌍둥이 자매 2명을 엎어 재워 모두 숨지게 한 혐의로 구속기소 됐다. A씨는 “새벽 3시쯤 아이들이 울어 얼굴을 침대 매트리스로 향하게 엎어 놨다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>검사 친분 과시해 수임료 2억원 챙긴 전관 변호사, 2심도 무죄 </title>
-      <link>https://www.chosun.com/national/court_law/2024/07/24/ABDBXUE52FA4ZESHOORGM2LJHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/24/ABDBXUE52FA4ZESHOORGM2LJHU/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Jul 2024 08:51:06 +0000</pubDate>
-      <content:encoded>검사와의 친분을 과시해 선처를 받게 해주겠다며 피의자로부터 약 2억원을 받은 혐의로 기소된 변호사들이 2심에서도 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYW56QFHN5ASRDOAYV7U5TDR6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지법/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사5-3부(재판장 김지선)는 24일 변호사법 위반 혐의로 기소된 검찰 출신 변호사 김모(68)씨와 이모(54)씨에게 1심과 마찬가지로 무죄를 선고했다. 재판부는 “피고인들에 대한 공소사실이 합리적 의심 없이 증명됐다고 볼 수 없어 검찰의 항소를 기각한다”고 했다.&lt;br&gt;&lt;br&gt;이들은 2014년 6월 사기 대출과 횡령, 주가조작 등 혐의로 검찰 수사를 받던 한국전파기지국 장병권 전 부회장 사건을 정식 선임계를 제출하지 않은 채 몰래 변론한 혐의를 받았다.&lt;br&gt;&lt;br&gt;김씨는 장씨에 “수사 라인 검사와 친하다” “불구속‧무혐의를 받게 해주겠다”며 2억 5000만원을 받은 혐의, 이씨는 자신이 해당 사건을 수사하는 부장검사와 대학 선후배 관계라는 점을 내세우며 장씨에게 2억 7000만원을 받아챙긴 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;1심 재판을 맡은 서울중앙지법 형사4단독 이환기 판사는 작년 10월 이들에게 무죄를 선고했다. 이 판사는 김씨에 대해 “의뢰인에게 선처를 약속하고, 불구속을 받게 해주겠다고 말했는지 명확하지 않다”고 했다. 이씨에 대해선 “부적절한 처신이지만 돈을 받은 것은 변호사 직무 범위와 무관하다 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>가출 청소년 때리고 성매매 시킨 무서운 10대들 </title>
-      <link>https://www.chosun.com/national/2024/07/24/UGJ4SNSBTNDNJHQ2SCEH6YYSOA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/07/24/UGJ4SNSBTNDNJHQ2SCEH6YYSOA/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Jul 2024 08:28:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5WSKST576I3USE7KZYGQV3RFLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원지검 통영지청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가출 청소년을 상습 폭행, 학대하고 성매매까지 강요한 일명 10대 ‘가출팸’ 일당이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;창원지검 통영지청 형사1부(재판장 임연진)는 특수폭행 및 청소년성보호법상 알선 영업행위 등의 혐의로 가출팸 리더인 A군, A군의 여자친구인 B양, 20대 남성 1명 등 3명을 구속기소 했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A군 등은 지난 2월부터 4월까지 경남 거제시 일대에서 같은 10대인 가출 청소년 C양을 폭행, 협박하고 여러 차례 성매매를 알선한 혐의 등을 받는다.&lt;br&gt;&lt;br&gt;검찰에 따르면 이들은 모텔 등에서 C양과 숙식하며 C양 신체를 담뱃불로 지지거나, 얼굴에 비비탄 총을 쏘며 폭행과 학대를 이어갔다고 한다. 한 번에 비비탄 총알 30개를 C양에게 먹이기도 했으며, 말을 듣지 않으면 폭행한 것으로 드러났다.&lt;br&gt;&lt;br&gt;특히 C양에게 성매매하도록 강요하고, 그 대금 전부를 가로채기도 했다. 검찰이 확인한 성매매 횟수만 26차례로, 약 200만원 상당의 돈을 가로챈 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A군 등은 C양과 가출팸에 속한 20대 남성 D씨가 서로 성관계를 하도록 시키고, 이를 C양 휴대전화로 촬영하기도 했다. 검찰 관계자는 “D씨는 가출팸에서 유일한 성인으로, 모텔에 들어가거나 술을 살 때 주민등록증을 제공한 역할을 했다”고 말했다. A군 등은 C양 외 또 다른 10대 가출 청소년을 때리고 학대한 혐의도 받는다.&lt;br&gt;&lt;br&gt;이들의 범행은 C양 부모가 C양 휴대전화에 저장된 영상을 우연히 보면서 탄로 났다. 다행히 영상은 유포된 흔적은 없는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;당초 A군은 가담 정도가 경미하다는 이유로 구속영장이 기각됐다. 하지만 사건을 넘겨받은 검찰은 계좌 거래내역과 녹취자료 분석, A군 대면 조사 등 보완수사를 통해 A군이 성매매를 알선하는데 주도적인 역할을 하고, 성매매 대금을 자신의 계좌로 이체해 착복한 사실을 확인해 직접 구속해 재판에 넘겼다.&lt;br&gt;&lt;br&gt;검찰은 또 C양이 미성년자인 것을 알고도 성매매를 한 14명에 대해서는 청소년성보호법 위반(성 매수 등) 혐의로 각각 기소했다. 이들은 대부분 20대였으며, 60대 남성도 있었다고 한다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “아동과 청소년을 대상으로 한 성범죄에 엄정히 대응하고 피고인들 죄질에 상응하는 형이 선고되도록 공소 유지에 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘46억 횡령’ 건보공단 전 팀장 ‘범죄수익은닉’ 무죄에 항소</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/24/C2FRODK2JVFQXJLQ2TP3RXEVAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/24/C2FRODK2JVFQXJLQ2TP3RXEVAQ/</guid>
-      <dc:creator>원주=정성원 기자</dc:creator>
-      <description>전 국민건강보험공단 재정관리팀장인 최모(46)씨가 46억원을 횡령한 혐의로 지난 18일 1심에서 징역 15년을 선고받은 가운데 검찰이 24일 항소했다. 1심 법원이 최씨의 범죄수익은닉 혐의에 대해 “혐의를 인정할 만한 증거가 없다”며 무죄로 판단, 검찰의 추징 명령을 받아들이지 않았기 때문이다.</description>
-      <pubDate>Wed, 24 Jul 2024 08:33:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6JP2H4IOWSIEAQSJYEISYHU3PM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민건강보험공단 재정관리팀장으로 재직하며 총 46억 원을 횡령한 혐의를 받는 최모(46)씨가 지난 1월 17일 오전 인천공항에 도착해 송환되고 있다. / 뉴스1
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 국민건강보험공단 재정관리팀장인 최모(46)씨가 46억원을 횡령한 혐의로 지난 18일 1심에서 징역 15년을 선고받은 가운데 검찰이 24일 항소했다.&lt;br&gt;&lt;br&gt;춘천지검 원주지청은 이날 “1심 법원이 최씨의 범죄수익은닉 혐의에 대해 ‘혐의를 인정할 만한 증거가 없다’”며 무죄로 판단했으나 피고인이 가상화폐를 취득해 송금한 경위, 가상화폐 거래에 타인 명의 계정을 이용한 점 등을 종합하면 범죄수익은닉 범행이 충분히 인정된다고 판단해 항소했다”고 밝혔다.&lt;br&gt;&lt;br&gt;1심 선고에 앞서 열린 결심공판에서 검찰은 “최씨가 횡령한 자금을 가상화폐로 환전해 범죄 수익을 은닉했다”며 징역 25년에, 39억원을 추징해달라고 재판부에 요청한 바 있다.&lt;br&gt;&lt;br&gt;국민건강보험공단 역대 최대 규모 횡령 사건을 저지른 최씨는 지난 2022년 4월부터 9월 사이 공단 내부 전산망을 조작하는 방법 등으로 18차례에 걸쳐 46억원을 횡령한 혐의를 받고 있다. 최씨는 범행 후 필리핀으로 도주했으나 범행 1년 4개월 만인 지난 1월 9일 필리핀 마닐라 고급 리조트에서 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;최씨는 횡령한 자금을 가상화폐로 환전해 범죄 수익을 숨긴 것으로 수사 과정에서 드러났다. 한편 국민건강보험공단은 민사 소송 등을 통해 지난해 횡령액 46억원 중 7억 2000여만원을 회수했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>KCC 울산공장서 드럼통 절단 중 폭발해 1명 중상</title>
       <link>https://www.chosun.com/national/regional/2024/07/24/F2PBVCUON5FSZHUQAQK6LGE6QM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/24/F2PBVCUON5FSZHUQAQK6LGE6QM/</guid>
@@ -749,46 +876,6 @@
       <description/>
       <pubDate>Wed, 24 Jul 2024 06:39:17 +0000</pubDate>
       <content:encoded>“좁은 공간에서 동물들이 서로 싸우며 스트레스를 받는 모습을 볼 때마다 제 마음이 아파요.”&lt;br&gt;&lt;br&gt;“재활·야외 적응 훈련시설의 부재로 방생 준비를 못해 동물들이 폐사(斃死)될 때마다 좌절감을 느껴요.”&lt;br&gt;&lt;br&gt;서울시야생동물구조센터에서 근무하는 직원들은 플라스틱 박스 속에 갇힌 동물을 보며 이렇게 말했다. 이곳은 서울 시내 유일 야생동물구조센터다.&lt;br&gt;&lt;br&gt;지난 2017년 78평 규모의 서울대 수의대병원의 반지하 창고를 개조해 문을 열었다. 하루에도 20~30건 정도의 신규 동물이 내원한다. 현재 센터에는 멧비둘기, 너구리, 고라니 등 비교적 흔한 야생동물부터 수리부엉이, 황조롱이, 새매 등 천연기념물까지 동물 총 198마리가 진료를 받고 있다. 센터가 개원한 2017년 입소 건은 293건이었으나 지속적으로 입소 동물이 증가해 지난 2023년 1784건에 이르렀다. 작년 기준 전국 16개 야생동물센터 중 서울야생동물센터 구조 건수는 3위다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CDBPV5VMVZDFPIZ3KATXSW5OVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시야생동물구조센터 진료처치실의 케이지 하나에 까치 여섯 마리가 함께 수용돼 있다./장윤 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5QSD67VRVRERXHN7IRCRGU7XRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시야생동물구조센터 진료처치실의 케이지 하나에 소쩍새 세 마리가 함께 수용돼 있다./장윤 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문제는 늘어나는 입소 동물에 비해 센터 공간은 턱 없이 부족하다는 점이다. 동물 한 마리당 케이지 하나를 쓰는 게 원칙이지만, 비좁은 공간 탓에 센터에 비치된 케이지는 50개뿐이다. 진료처치실 내 폭 50cm 정도의 케이지들에는 새들이 두세 마리씩 수용되고 있다. 최석균(29) 재활치료사는 “좁은 공간에서 동물 여러 마리가 먹이경쟁 싸움을 하다 보니 다치고 스트레스를 받는다”며 “이전 직장인 서울대공원에서는 넓은 공간 여러 군데에 먹이를 뿌려줘 이런 일이 없었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7R2ZEE6KI5HD7BLPRZO72RXIRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시야생동물구조센터 복도에 동물들이 수용된 플라스틱 수납박스가 늘어서 있다./장윤 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TRVLMKK4LRFLXJEFAHP26S3NY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시야생동물구조센터 복도에 동물들이 수용된 플라스틱 수납박스가 늘어서 있다./장윤 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;늘어나는 동물들을 감당하기가 어려워지자, 센터 측은 복도에 옷 수납용 플라스틱 박스 20여개를 3층으로 줄지어 쌓아 동물들을 받고 있다. 센터 직원들은 동물들이 숨을 쉴 수 있도록 박스에 구멍을 뚫고 동물들을 넣었다. 이 박스들 안에도 동물 두세 마리가 함께 수용되고 있다.&lt;br&gt;&lt;br&gt;반지하 창고를 개조해 만들어진 센터에는 창문이 없어 악취가 코를 찔렀다. 서영덕(28) 수의사는 “동물들이 분변을 계속하고 먹이 냄새도 심하다보니 환기가 잘 돼야 하는데, 현재 센터에는 창문이 없어 환풍구에 의존하는 상황”이라고 지적했다. 서 수의사는 “센터 측에서 하루에 두 번씩 케이지들을 청소하는데도 악취가 워낙 심하다 보니 동물을 구조해 데려온 시민들이 ‘센터가 불결하다’며 민원을 넣는다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMY3DGDSYZAC7HMTOMPT7H5U4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시야생동물구조센터에는 비행장이 없다. 센터 측은 하루에 한번 센터 복도에 비행용 장애물을 설치하고 새들에게 비행 훈련을 시키고 있다./장윤 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;센터에는 야생동물이 자연으로 돌아가기 위해 필수적인 자연 적응 훈련장도 없어 방생 준비도 제대로 이루어지지 못하고 있다. 특히 이 센터에는 새들이 많지만 비행장이 없어서, 센터 측은 센터 복도에 비행용 장애물을 설치하고 새들에게 비행 훈련을 시키고 있다. 연성찬 센터장은 “대형 맹금류는 최소 높이 30m, 가로 세로 길이가 각각 6m 크기인 비행장을 마련해주어야 하며, 물새들을 위한 전용 훈련시설도 마련돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;센터 근무자들은 “돌봄을 제대로 받지 못하는 야생동물들을 치료하기 위해 이 센터에서 일하고 있지만, 센터의 열악한 환경이 사명감을 갉아 먹고 있다”고 말했다. 서 수의사는 “일반 동물병원보다 월급을 훨씬 적게 받아야 한다는 사실을 알면서도 작년에 센터 근무를 지원했다”며 “그런데 비좁은 환경에서 고통스럽게 지내는 동물들의 모습, 겨우 직원 여섯 명이 주말도 없이 동물 200마리를 돌보는 노동환경 등은 회의감을 들게 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M5SQMHSSNNDNBOMRCASVASRQAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;키가 180cm인 최석균 재활치료사가 낮은 천장 밑으로 몸을 굽혀 동물들을 돌보고 있다. 천장에는 '머리조심' 문구가 붙어 있다./장윤 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비좁은 공간 때문에 스트레스를 받는 건 동물뿐만 아니다. 반지하 창고를 개조해 만들어진 센터의 높이는 170cm가 조금 넘어 직원들은 온종일 허리를 굽히고 지낸다. 키가 180cm인 최 재활치료사는 “입사 초반 하루에도 너댓 번씩 머리를 찧었고, 작년 9월에는 머리를 크게 찧어 봉합 수술을 했다”고 말했다.&lt;br&gt;&lt;br&gt;연 센터장은 “서울은 산으로 둘러싸인 데다 중심부에 음식이 많기 때문에 서울야생동물구조센터는 야생동물 구조 건수가 많다”며 “서울야생동물센터의 확장·재건축이 시급하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>새우잡이 배 위에서 벌어진 선원 살인…가혹행위에 시신유기까지</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/24/GQ2OTSV3QBCURB36XCSDS4BLI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/24/GQ2OTSV3QBCURB36XCSDS4BLI4/</guid>
-      <dc:creator>목포=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Jul 2024 07:57:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/26PON2FAQIUBIMAOAVACHZGYII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주지방검찰청 목포지청/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수개월간 가혹행위 끝에 동료선원을 숨지게 하고 시신을 유기한 새우잡이 배 선장과 선원이 구속 기소됐다.&lt;br&gt;&lt;br&gt;광주지검 목포지청 형사2부(부장 이경석)는 24일 살인·시체유기 혐의로 새우잡이 배 선장 A(45)씨와 조리장 B(48)씨를 구속기소했다고 24일 밝혔다. 검찰은 또 이 어선의 다른 선원 3명을 폭행 등 혐의로 불구속 송치했다. &lt;br&gt;&lt;br&gt;검찰에 따르면 이들은 지난 4월 30일 전남 신안군 해상에서 가혹행위 끝에 숨진 선원 C씨의 시신을 그물에 감아 해상에 유기한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 3~4월 출항 뒤 2개월에 걸쳐 C씨를 구타하고 선실 밖에서 자게 하거나 밥을 주지 않는 등 가혹행위를 했다. 이들은 지난 4월 30일 제대로 먹지 못한 상태에서 당한 가혹행위로 의식을 잃은 C씨의 옷을 벗겨 청소용 호스로 바닷물을 끼얹었다.&lt;br&gt;&lt;br&gt;검찰은 C씨가 바닷물이 끼얹어진 지 약 15분 만에 저체온 증상 등을 보이며 사망한 것으로 보고 있다. A씨는 수사 과정에서 살해 혐의를 부인했지만 검찰은 선박 방범카메라(CCTV) 영상 9700개를 분석해 범행을 규명했다.&lt;br&gt;&lt;br&gt;A씨의 새우잡이 배는 전남 목포시 선적으로 확인됐다. B씨는 선상 가혹행위를 신고하지 못하도록 C씨의 휴대전화를 빼앗고 A씨를 도와 C씨의 시신을 해상에 유기했다. 단순 폭행 혐의로 송치된 동료 선원 3명도 평소 상습적으로 C씨를 폭행하고, 바닷물을 끼얹는 등 가혹행위를 한 것으로 드러났다.&lt;br&gt;&lt;br&gt;A씨 등은 C씨가 일을 못 하고 보기 싫다는 이유로 범행을 저지른 것으로 조사됐다. 검찰 관계자는 “과학수사 기법을 이용해 영상을 복원하고 범행의 전모를 밝혔다”며 “선원 근로감독 기관에 선상에서 휴대전화를 빼앗는 행위를 금지하도록 하는 등 지도를 당부했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/26PON2FAQIUBIMAOAVACHZGYII.jpg?width=1400&amp;height=1050&amp;auth=bd906183f55854e500d2f02e6296e81b73d70ea8d135bd5fd80d37980f264276&amp;smart=true" type="image/jpeg" height="1050" width="1400">
-        <media:description type="plain">[자료사진] 광주지방검찰청 목포지청/뉴스1 DB</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 DB</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>‘상습 마약투약’ 유아인, 징역 4년 구형…“죄질 불량”</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/24/QJAEBB6NOVFELFV3RCOQRQH56Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/24/QJAEBB6NOVFELFV3RCOQRQH56Y/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Jul 2024 06:53:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OPBVLMTC2RO4NGUJD4JITSIMDA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;마약 투약 혐의를 받는 배우 유아인(본명 엄홍식)이 24일 오후 서울 서초구 서울중앙지법에서 열린 공판에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 마약 상습 투약 혐의로 기소된 배우 유아인(38·본명 엄홍식)씨에 징역 4년을 구형했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 24일 마약류관리법 위반(향정) 등 혐의로 기소된 유아인씨와 그의 지인 최모(33)씨의 결심 공판을 진행했다. 이날 검찰은 유씨에게 징역 4년에 벌금 200만원, 추징금 154만원을 선고해달라고 재판부에 요청했다. 최씨에게도 징역 4년을 구형했다.&lt;br&gt;&lt;br&gt;검찰은 “피고인은 유명 연예인으로서 재력과 직업적 우위를 이용해 의사들을 속여 일반인은 엄두를 낼 수 없는 5억 원 상당의 돈을 들여 손쉽게 상습적으로 의료용 불법 마약을 취득했다”며 “폐쇄적인 인적 네트워크를 이용해 해외에서 마약을 흡입했다”고 했다. 또 “사회적 영향력을 이용해 입막음을 시도하고 지인들을 해외 도피시키는 등 한국의 사법 시스템을 경시해 죄질이 극히 불량하다”고 했다.&lt;br&gt;&lt;br&gt;유씨는 2020년 9월~2022년 3월 서울 일대 병원에서 프로포폴 등을 181회 투약하고, 2021년 5월~2022년 8월에는 타인의 명의로 수면제를 44회 불법 처방받아 100정 가량 사들인 혐의를 받는다. 작년 1월 공범인 지인 최씨 등 4명과 미국에서 대마를 하고, 다른 이에게도 흡연을 부추긴 혐의도 있다. 범행을 은폐하기 위해 공범을 해외로 도피시키고, 다른 공범들에게 진술을 번복하도록 회유·협박한 혐의도 받는다.&lt;br&gt;&lt;br&gt;유씨 측은 재판 과정에서 “우울증을 오래 앓으며 수면마취제에 의존성이 생겼고, 그런 상황에서 투약이 이뤄진 점을 인정하고 깊이 반성한다”고 밝혔다. 대마 흡연 사실도 인정했지만, 주변 사람들에게 대마 흡연과 증거 인멸을 교사했다는 의혹에 대해선 부인해왔다.&lt;br&gt;&lt;br&gt;앞서 검찰은 작년 5월과 9월 두 차례에 걸쳐 법원에 구속영장을 청구했으나 모두 기각되면서 유씨와 최씨를 불구속 기소했다. 당시 서울중앙지법 윤재남 영장전담 부장판사는 “유씨가 범행 상당 부분을 인정하고, 증거도 상당 부분 확보돼 있다”며 영장을 기각한 이유를 밝혔다.&lt;br&gt;&lt;br&gt;유씨에 대한 선고는 오는 9월 3일 이뤄질 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울시, 잠수교 ‘야외 미술관’ 계획 재검토</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/24/MSHDO2XEZNDE3HFDG42HM6KYPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/24/MSHDO2XEZNDE3HFDG42HM6KYPA/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Jul 2024 07:51:10 +0000</pubDate>
-      <content:encoded>서울시가 한강 잠수교에 공중 보행다리를 설치해 야외 미술관으로 바꾸려던 계획을 재검토하기로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UM24VJVDCNHFBEMSXLCHCBTS7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시가 지난 5월 발표한 잠수교 설계 공모 당선작. 서울시는 당선작의 구조와 안전성 등에 문제가 제기돼 계획을 재검토하기로 했다고 24일 밝혔다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 “당선작의 구조와 안전성에 문제가 제기돼 전문가와 함께 개선안을 검토하고 있다”고 24일 밝혔다.&lt;br&gt;&lt;br&gt;앞서 서울시는 지난 5월 잠수교를 서울에서 가장 긴 800m 길이의 야외 미술관으로 바꾸는 설계안을 공개했다. 잠수교 위에 분홍색 공중 보행다리를 조성해 시민들이 걸어 다닐 수 있게 했다. 네덜란드 아치 미스트 사(社)가 제안했다.&lt;br&gt;&lt;br&gt;서울시에 따르면 당선작 발표 이후 공중 보행다리가 하천 설계 기준에 어긋난다는 이의 제기가 들어왔다고 한다.&lt;br&gt;&lt;br&gt;잠수교는 하천 설계 기준에 따라 홍수 발생 시 예상되는 최고 수위보다 2m 높은 18.1m 높이부터 구조물을 설치할 수 있다. 원래 설계안에서는 공중 보행다리를 그보다 낮은 14.7m 높이에 조성하기로 했다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “아치 미스트 사와의 계약을 앞두고 설계안을 재검토하는 과정에서 문제가 불거졌다”며 “향후 위원회 등을 통해 최종 계획안을 확정하고 사업을 추진하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한국 여권 파워 세계 3위, 191곳 무비자 입국… 2년 연속 1위국은</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/24/URB55KI5IJD33ABM26FZMDSROI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/24/URB55KI5IJD33ABM26FZMDSROI/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Jul 2024 05:19:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2O5UEYGCPCTV22ESCK5GMWQHY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여권을 든 해외여행객이 지난 1일 인천국제공항 제1터미널 출국장에서 이동하고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국의 ‘여권 파워’가 세계 3위를 기록한 것으로 나타났다. 여권 파워가 가장 강한 여권은 싱가포르 여권으로 조사됐다.&lt;br&gt;&lt;br&gt;23일(현지시간) 영국 런던에 본사를 둔 글로벌 시민권 및 거주 자문 회사 ‘헨리 &amp;amp; 파트너스’가 발표한 ‘헨리 여권 지수(Henley Passport Index)’에 따르면 싱가포르 여권은 195개 국가를 무비자로 입국할 수 있다. 2년 연속 1위다.&lt;br&gt;&lt;br&gt;한국 여권으로는 현재 191곳에 무비자 입국이 가능해 공동 3위에 올랐다. 공동 3위에는 오스트리아, 핀란드, 아일랜드, 룩셈부르크, 네덜란드, 스웨덴이 자리했다.&lt;br&gt;&lt;br&gt;공동 2위는 일본, 독일, 프랑스, 이탈리아, 스페인 등으로 192곳을 비자 없이 여행할 수 있다.&lt;br&gt;&lt;br&gt;공동 4위는 무비자로 190곳을 여행할 수 있는 벨기에, 덴마크, 뉴질랜드, 노르웨이, 스위스, 영국이 꼽혔다. 미국은 올해 8위(무비자 186곳)에 그쳤다.&lt;br&gt;&lt;br&gt;북한은 지난해 97위(무비자 39곳)에 이어 올해 96위(41곳)로 하위권에 머물렀다.&lt;br&gt;&lt;br&gt;올해 최하위는 지난해에 이어 아프가니스탄(26곳)이 차지했다.&lt;br&gt;&lt;br&gt;헨리앤파트너스 회장 크리스찬 케일린은 성명을 통해 “여행객이 비자 없이 갈 수 있는 글로벌 평균 목적지 수는 2006년 58개에서 2024년 111개로 거의 두 배로 증가했다”며 “그러나 지수 상위와 하위 간의 글로벌 이동성 격차는 그 어느 때보다 더 커졌다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>인권위 “B형 간염 보균자 학생에 대한 기숙사 입사 제한은 차별”</title>
@@ -813,64 +900,6 @@
       </media:content>
     </item>
     <item>
-      <title>4살 원생 학대해 숨지게 하고 “제발 합의 좀”…유족 분노</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/24/RC3YA6J6WJHLZHS2S4JYO7JVH4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/24/RC3YA6J6WJHLZHS2S4JYO7JVH4/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Jul 2024 07:17:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LMPTPDGTUNKTDP4EIRXEC7EYEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 오전 경기 의정부경찰서에서 경찰이 구속된 태권도 관장 B씨를 의정부지검으로 송치하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 운영하는 태권도장에서 관원인 4세 어린이를 학대해 사망케 한 관장이 유족에게 합의를 요구한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;24일 수사 당국에 따르면 의식불명 빠졌던 4세 남아 A군은 지난 23일 끝내 사망 판정을 받았다.&lt;br&gt;&lt;br&gt;앞서 지난 12일 오후 7시 20분쯤 양주시 덕계동의 한 태권도장에서 30대 관장 B씨가 매트를 말아놓고 그 사이에 A군을 거꾸로 넣은 채 20분 이상 방치해 심정지 상태에 이르게 한 사건이 발생했다. 당시 현장에 있던 목격자 등에 따르면, A군은 버둥거리며 “꺼내달라”고 소리쳤다. 그러나 B씨는 이를 외면하고 20분 동안 아무 조치도 하지 않은 것으로 조사됐다. A군은 의식을 잃은 채 발견돼 병원으로 옮겨졌지만 의식 불명 상태였다.&lt;br&gt;&lt;br&gt;B씨는 경찰 조사에서 “장난으로 그랬다”고 진술한 것으로 알려졌다. B씨는 A군이 숨을 쉬지 않자 인근 병원으로 옮겼고, 곧바로 도장으로 돌아와 당시 정황이 담긴 방범카메라 녹화 영상을 삭제했다.&lt;br&gt;&lt;br&gt;A군의 외삼촌은 언론 인터뷰에서 “(관장이) 동생한테 했던 얘기는 ‘제발 합의 좀 해주세요’였다”며 “이게 먼저 나오는 건 아니지 않나? 진짜 법이 내릴 수 있는 최고의 형벌을 줬으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;A군의 할머니는 “(이전에도) 아마 서너 번 그 속에 들어갔던 모양”이라며 “애가 어떤 때 오면 ‘엄마, 나 여기가 아파’ ‘파란 매트에다가 관장이 집어 던졌어’라고 말을 했다”고 전했다.&lt;br&gt;&lt;br&gt;경찰은 B씨로부터 학대를 당한 어린이가 더 있을 것으로 보고 원생 258명을 전부 조사하기로 했다. 실제 이 사건이 알려진 이후 B씨에게 학대를 당했다는 고소가 3건 접수됐다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>유니폼 사진 한 장에… 정몽규,  토트넘 경기 시축 루머 확산</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/24/XJ3EYUZCFJANZCTJOD4QKIWA6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/24/XJ3EYUZCFJANZCTJOD4QKIWA6E/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Jul 2024 06:46:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WSSNFJMBYFDUJIQJXQGMCLXGTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한축구협회 정몽규 회장(왼쪽), 토트넘의 주장 손흥민. /뉴스1·연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정몽규 대한축구협회 회장이 이달말 한국을 방문하는 잉글랜드 프리미어리그(EPL) 토트넘 홋스퍼의 내한 경기에서 시축을 할 것이라는 루머가 최근 인터넷에서 확산했으나 이는 사실이 아닌 것으로 확인됐다.&lt;br&gt;&lt;br&gt;축구계 사정에 정통한 한 관계자는 24일 조선닷컴에 “정 회장이 토트넘 내한 경기에서 시축을 할 것이라는 추측은 사실이 아니다”라고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 온라인커뮤니티 에펨코리아에는 지난 20일 ‘토트넘 유니폼에 정몽규 회장의 이름을 새겼다’는 취지의 글이 올라왔다. 토트넘 스토어 직원이라고 소개한 한 작성자는 “한국 투어를 앞두고 K리그, 그분, 스폰서 임원의 프린트 주문이 진짜로 들어왔다”며 2장의 사진을 공개했다.&lt;br&gt;&lt;br&gt;사진에는 토트넘 유니폼에 정 회장의 영문 이름인 ‘CHUNG MONG GYU’라고 적힌 모습이 담겼다. 등번호는 토트넘 캡틴 손흥민의 7번이었다. 또 다른 사진은 ‘K LEAGUE’와 24번 등번호가 새겨진 유니폼이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/75E5FAJMUZEANBF4XEIYPJKT2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'CHUNG MONG GYU' 'K LEAGUE'라고 각각 새겨진 토트넘  유니폼. /에펨코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사진을 접한 네티즌들은 정 회장이 오는 30일부터 8월 3일까지 열리는 ‘2024 쿠팡플레이 시리즈’의 토트넘 내한 경기에서 시축자로 나서는 것 아니냐고 추측했다. 이후 각종 온라인커뮤니티에 “정 회장이 토트넘 유니폼을 입고 시축하나 보네요” “지금 이 상황에서 시축인가요” 등의 글이 다수 올랐다.&lt;br&gt;&lt;br&gt;특히 홍명보 축구 국가대표팀 감독 선임 과정을 둘러싸고 정 회장에 대한 비판과 사퇴 요구가 커지는 상황이어서 ‘정몽규 시축’ 소문은 급속히 확산했다.&lt;br&gt;&lt;br&gt;한편, 토트넘 선수단은 프리시즌 아시아 투어에 나선다. 오는 27일 일본에서 J1리그 우승팀인 비셀 고베를 상대한다. 이후 한국으로 이동해 서울월드컵경기장에서 오는 31일에는 팀 K리그와 8월 3일에는 바이에른 뮌헨(독일)과 쿠팡플레이 시리즈를 치른다.&lt;br&gt;&lt;br&gt;토트넘은 전날 공식 홈페이지에 이번 아시아 투어에 나설 선수 31명 명단을 공개했다. 명단에는 손흥민을 비롯해 티모 베르너, 히샤를리송, 에메르송 로얄, 이브 비수마, 벤 데이비스, 데얀 쿨루세브스키 등 국내 축구 팬들에게 익숙한 선수들이 대부분 포함됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6WNSS2O37RFUZJFFXQLO3ARXMA.jpg?width=523&amp;height=392&amp;auth=bfb8d38c9a70e3980c215c39d88e15989934ee1dcacfb5c3b4066cb948d63224&amp;smart=true" type="image/jpeg" height="392" width="523">
-        <media:description type="plain">'CHUNG MONG GYU' 'K LEAGUE'라고 각각 새겨진 토트넘  유니폼./ 에펨코리아</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>보육원 아동·청년들, 진로 설계부터 취업까지 지원한다</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/24/KUWB23NP6BHJJCVHDZDKZYJDGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/24/KUWB23NP6BHJJCVHDZDKZYJDGU/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Jul 2024 05:33:07 +0000</pubDate>
-      <content:encoded>서울시가 보육원 등 아동 양육 시설에서 자립하는 청년들의 지원을 확대한다. 기존에는 자립 직후인 만 18~22세에 지원이 집중됐지만, 앞으로는 아직 자립하지 않은 초·중·고생 아동·청소년과 자립을 마친 만 23세 이상 청년도 지원한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4AJ23CNTBRHZFOAKYOY65YXBPI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 24일 이 같은 내용을 담은 ‘자립준비청년 자립지원 마스터플랜’을 발표했다.&lt;br&gt;&lt;br&gt;우선 서울시는 자립하지 않은 학생들이 진로를 설정할 수 있도록 돕는다. 이를 위해 흥미·적성 검사를 매년 700명에게 지원한다. 초등학교 3학년~중학교 3학년이 대상이다. 이 중 미술, 음악, 체육 등 예체능 분야에 특기를 가진 아동에게는 월 30만원의 레슨비도 지급한다.&lt;br&gt;&lt;br&gt;또 이들이 진학이나 취업 등 자신의 진로를 준비할 수 있도록 전문 상담을 지원한다. 직업 체험 교육 등을 실시하고, 먼저 자립해 취업에 성공한 선배와 대화할 수 있는 자리도 마련한다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “‘양육 시설에서 자라면서 꿈이 뭔지, 내가 잘할 수 있는 게 뭔지 모르고 자랐다’는 당사자들의 의견을 반영했다”고 말했다.&lt;br&gt;&lt;br&gt;아이들의 마음 건강도 지원한다. 종합 심리 검사와 치료 서비스 지원 대상을 18세 미만까지 확대하고, ADHD나 우울증 등 치료가 필요한 아동에게 서비스를 제공할 수 있는 ‘서울아동힐링센터’도 내년부터 운영을 시작한다. 서울시 관계자는 “전체 아동의 42.7% 정도가 심리적 어려움을 겪고 있다”며 “연간 60명이 센터에서 치료를 받을 수 있다”고 했다.&lt;br&gt;&lt;br&gt;기존에 진행하던 만 18~22세 청년 지원도 확대한다. 우선 내년부터 월세나 기숙사비 등 주거비를 월 20만원까지 지원한다. 단체 상해보험에 가입하도록 하고, 매달 7만원 상당의 보험료를 지원한다. 서울시 관계자는 “의료비가 부담돼 병에 걸려도 치료를 받지 않는 청년들이 있어, 이들을 위해 보험료를 지원하기로 했다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 서울시는 올 초부터 청년들을 위한 자립 정착금을 기존 1500만원에서 2000만원으로, 자립 수당도 월 40만원에서 50만원으로 올렸다.&lt;br&gt;&lt;br&gt;청년들을 위해선 취업 지원을 강화한다. 서울시는 취업을 희망하는 청년들에게 취업 상담과 인턴십 기회를 제공한다. 비즈니스 매너와 같은 직무 교육도 실시한다. 취업에 성공한 청년들에겐 ‘새 출발 응원금’ 50만원을 지급한다.&lt;br&gt;&lt;br&gt;앞으로는 자립을 마친 만 23세 이상 청년도 지원하기 시작한다. 서울시는 이를 위해 ‘SOS 자금’을 마련하기로 했다. 청년들이 위기 상황에 처했을 때 사용할 수 있도록 하기 위해서다. 오는 2028년까지 민간 후원으로 2억원을 모으는 게 목표다.&lt;br&gt;&lt;br&gt;이외에도 서울시는 자립한 청년들이 모여 대화를 나누거나 자원봉사에 참여할 수 있는 기회를 마련한다. 서울시 관계자는 “자립 이후에도 청년들은 여전히 기댈 곳을 필요로 한다”며 “서로가 서로에게 버팀목이 될 수 있게 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전북도, 지방시대위원회에 전주·완주 통합건의서 제출</title>
-      <link>https://www.chosun.com/national/regional/honam/2024/07/24/C2JQWLFIZZF6PLUDS3IS6BYB7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/07/24/C2JQWLFIZZF6PLUDS3IS6BYB7U/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Jul 2024 06:59:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54NPLIZ425JXVEATOQ7VKIENJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 세종특별자치시 지방시대위원회에서 김관영 전북특별자치도지사(오른쪽)가 우동기 지방시대위원회 위원장에게 전주·완주 통합건의서 및 도지사 의견서를 제출하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북도가 24일 전주·완주 통합건의서와 김관영 전북도지사 의견서를 대통령 직속 지방시대위원회에 제출했다. 전주·완주 통합 주민투표는 지방시대위원회와 행정안전부의 통합 방안 마련 등을 거쳐 이르면 내년 상반기에 진행될 것으로 전망된다.&lt;br&gt;&lt;br&gt;김관영 지사는 이날 우동기 지방시대위원장을 만나 “완주·전주 통합방안 마련과 범정부 차원에서 특례시 지정, 재정 지원 등 제도적 장치를 적극적으로 논의해 달라”고 했다.&lt;br&gt;&lt;br&gt;앞서 김관영 지사는 전주와 완주가 통합하면 ‘통합 특례시’를 추진하겠다는 입장을 내놨다. 특례시로 지정되면 광역시급 자치 권한과 재량권을 부여받고 행정 효율성이 향상된다는 판단에서다.&lt;br&gt;&lt;br&gt;현재 ‘지방자치법’은 특례시 지정과 관련해 인구 100만명 이상 등을 지정 기준으로 규정하고 있다. 전주와 완주가 통합하더라도 이 기준을 충족하지 못하기 때문에, 전북도는 인구 50만명 이상 등으로 기준 완화를 요구하고 있다.&lt;br&gt;&lt;br&gt;김 지사는 “주민 서명에 의한 통합 건의는 전국 최초의 사례로, 행정 통합에 주민들이 직접 참여하고 해법을 모색하는 선진모델이 전북에서 시작됐다”면서 “통합이 되면 특례시 지정을 최대한 신속하게 추진하고, 도지사 권한을 대폭 특례시로 이양해 더 많은 자율성과 다양한 발전 기회를 제공하겠다”고 했다.&lt;br&gt;&lt;br&gt;우동기 위원장도 “통합에 적극 공감하고 범정부 차원에서 제도적 장치를 충분히 논의하겠다”는 의사를 밝혔다. 이날 익산시 수해 현장을 찾은 이상민 행정안전부 장관은 “통합을 통해 지역 생활권 불일치를 해소하는 등 긍정적인 효과가 기대되기 때문에 정부는 행정·재정적으로 적극 지원하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;한편 전주·완주 통합은 1997년, 2007년, 2013년 세 차례 추진됐지만 완주군민의 반대로 무산된 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이임생 축구협 이사 입건… 경찰, 홍명보 선임 과정 수사 시작</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/24/4OBO4CGFHZEQLGEJL7FKYWLKEQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/24/4OBO4CGFHZEQLGEJL7FKYWLKEQ/</guid>
-      <dc:creator>김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Jul 2024 05:55:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MGNP4RK4VYWQX2LS2UDN3SR4ZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이임생 대한축구협회(KFA) 기술본부 총괄이사가  지난 8일 서울 종로구 신문로 축구회관에서 축구 국가대표팀 감독 선임과 관련한 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 이임생 대한축구협회(KFA) 기술본부 총괄이사에 대한 고발장을 접수해 수사를 시작했다.&lt;br&gt;&lt;br&gt;서울 종로경찰서는 이 이사에 대한 고발장을 지난 17일 접수해 수사를 하고 있다고 24일 밝혔다. 국민신문고를 통해 접수된 고발장에는 대한축구협회가 홍명보 감독을 지난 13일 공식 선임하며 이 이사가 위계와 위력을 사용했다는 고발 취지가 담겨 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 사건의 고발인은 온라인 커뮤니티 ‘에펨코리아’에 이 이사를 업무방해죄로 고발한 후 해당 사건이 종로경찰서에 입건됐다는 내용이 담긴 글을 24일 오전에 게시했다. 그는 종로서에 지난 17일 사건이 배당됐다는 사실을 오늘 오전에 전달받았다고 밝혔다.&lt;br&gt;&lt;br&gt;게시글에 첨부한 진술서에서 고발인은 “이임생 대한축구협회 기술발전위원장이 홍명보 감독을 선임하는 과정에서 대한축구협회 정관 및 국가대표축구단 운영규정 등을 위반한 사실이 명백하다”면서 “대한축구협회 국가대표전력강화위원회 및 기술발전위원회의 감독 선임 및 추천 업무를 위계와 위력을 사용하여 방해했다”고 고발 이유를 밝혔다.&lt;br&gt;&lt;br&gt;앞서 축구협회는 2026 북중미 월드컵을 앞두고 지난 13일 홍 감독을 공식 선임했다. 이 과정에서 축구협회가 홍 감독에 대해 면접 등 과정을 거치지 않았다는 사실이 드러나면서 ‘특혜 논란’이 일고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“비수기에도 글램핑 1박 40만원… 돈 없어서 해외여행 간다”</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/24/UWS6MSX7GZCLPJHUK7VXUR5YRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/24/UWS6MSX7GZCLPJHUK7VXUR5YRA/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Jul 2024 05:24:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UC3GOYORPNJXVNQJTSJQNQ6A4Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;여름휴가철인 21일 오전 인천국제공항 제1여객터미널 출국장이 이용객들로 북적이고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여름 휴가철을 맞아 국내 대신 해외로 향하는 여행객들이 늘고 있다. 이들은 국내 여행지의 바가지 요금이 부담돼 해외 여행을 택한 것으로 나타났다.&lt;br&gt;&lt;br&gt;24일 SK커뮤니케이션즈 시사 폴 서비스 ‘네이트Q’에 따르면 최근 성인남녀 6311명을 대상으로 ‘여름 휴가철 국내 여행이 꺼려지는 이유’에 대해 조사한 결과 응답자의 72%(4561명)가 ‘갑자기 올리는 바가지 숙박 요금’ 때문이라고 답했다.&lt;br&gt;&lt;br&gt;이 설문조사 관련 게시글에 한 네티즌은 “돈 없어서 해외여행 간다”며 “휴가철 아닌 비수기 주말 국내 글램핑 1박 가격이 35~40만원대라 포기하고 지난 5월 중국 싼야에 개인 수영장 딸린 특급 리조트로 1박 20만원에 다녀왔다”고 댓글을 달았다.&lt;br&gt;&lt;br&gt;‘성수기에 유독 비싸지는 음식값’도 17%(1116명)로 나타났다. 이 외에도 여행객들은 ▲관광지 자릿세 징수 ▲관광지 주차난 ▲주차장 자리 선점 등을 국내여행 기피 사유로 꼽았다.&lt;br&gt;&lt;br&gt;네티즌들은 “숙박비, 식비 따지면 조금 더 보태서 동남아 가서 노는 게 더 이득이다” “치솟는 숙박비, 비싼 음식값, 자릿세, 주차난, 주차장 자리 선점 등 국내여행은 뭐하나 해당 안 되는게 없다” “국내 여행 관련 종사자들 한철 장사하지 말고 사계절 장사하면 얼마나 좋을까” 등의 의견을 냈다.&lt;br&gt;&lt;br&gt;안지선 SK컴즈 미디어서비스 팀장은 “비용 대비 만족도가 중요한 선택 기준이 되는 여행에서 국내 관광지 기피에 대한 목소리들을 곱씹어 보며 실질적인 개선 노력이 필요하다”고 밝혔다.&lt;br&gt;&lt;br&gt;한편 인천국제공항공사에 따르면 올 상반기 3404만 8517명이 공항 국제선을 이용했다. 이는 코로나 유행 이전이던 2019년 상반기(3525만 8765명) 대비 96.6%까지 회복한 수준으로, 작년 상반기(2440만 1190명)와 비교했을 땐 39.5% 증가했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이숙연 대법관 후보, 장녀 ‘아빠 찬스’ 사과…“비상장주식 37억 기부하겠다”</title>
       <link>https://www.chosun.com/national/court_law/2024/07/24/W54ONYVFZ5HWJFI246GEQFL5V4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/24/W54ONYVFZ5HWJFI246GEQFL5V4/</guid>
@@ -880,24 +909,6 @@
       <content:encoded>이숙연 대법관 후보자는 자신의 20대 딸이 이른바 ‘아빠 찬스’로 비상장주식에 투자해 막대한 시세차익을 거둔 것에 대해 사과했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TM6WRYFH7DDPWM76CLZJINU3WQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이숙연 대법관 후보자. /대법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 후보자는 24일 입장문을 내고 “가족 간 문제를 좀 더 살펴보고 대처했어야 하는데 미리 챙기지 못한 불찰임을 인정한다”며 “저의 불찰로 심려를 끼쳐드려 다시 한 번 죄송하다는 말씀을 드린다”고 했다. 이어 “가족회의를 거쳐 막대한 시세차익으로 지적받은 배우자와 장녀 보유의 비상장주식을 우리 사회의 어려운 이웃을 위해 기부하기로 결정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이 후보자의 딸 조모(26)씨는 2017년 아버지의 추천으로 화장품 개발 스타트업 A사의 비상장주식을 샀다. 구입 자금 중 300만원은 조씨가 저축한 돈이었고, 나머지 900만원은 아버지에게 증여받았다. 조씨는 작년 5월 이 주식의 절반을 아버지에게 되팔아, 원금(600만원) 63배에 달하는 3억8000여 만원의 시세차익을 얻어 논란이 됐다.&lt;br&gt;&lt;br&gt;조씨는 이렇게 주식으로 번 돈으로 아버지에게 추가로 빌린 부동산 투자금을 갚았다고 한다. 그는 2022년 서울 용산구의 신축 다세대주택을 ‘갭투자’로 구입하기 위해 아버지에게 3억800만원을 증여받고, 약 3억원을 빌렸다. 이 중 대여금을 A사 주식 판 돈으로 갚았다는 것이다. 조씨가 사실상 ‘아빠 찬스’로 주식과 부동산을 사들였다는 지적이 나왔다.&lt;br&gt;&lt;br&gt;이 후보자는 “다세대주택 매입 과정이나 비상장주식 취득 및 양도 과정에서 탈법이나 위법이 없었고 관련 세금도 모두 성실히 납부했다”면서도 “법적으로 문제가 없다 하더라도 국민의 눈높이에 맞지 않고 건전한 가치관에 부합하지 않는다는 점을 이번 기회에 절감했다”고 밝혔다.&lt;br&gt;&lt;br&gt;또 법조인 출신 사업가인 이 후보자의 남편은, 맡고 있던 제주반도체 및 동행복권의 공동대표 자리에서 모두 물러나기로 했다. 이 후보자는 “후보자의 공직 수행에 오해나 장애가 없도록 배우자가 현재 맡고 있는 회사의 대표이사직을 사임하기로 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;한편 이 후보자의 남편은 복권법 위반 등 혐의로 경찰 수사를 받고 있다. 그는 2021년 ‘스피또1000′ 발권 오류로 추정되는 복권 20만장을 회수하기 위해 복권 정보를 이용한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이 후보자의 인사청문회는 오는 25일 열린다. 이 후보자는 “저와 제 가족에 대한 여러 문제가 제기된 점에 대해 국민 여러분께 송구하다는 말씀을 드린다”며 “청문회에서 공직 후보자로서의 소신과 식견에 관한 검증에 성실하고 겸손하게 임하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“학생들 좌절하지 않고 꿈 이루길” 박준희 대표, 남편 모교인 고대에 1억원</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/24/53NKJYIZ7NHMXNGL3CNAQNXOTU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/24/53NKJYIZ7NHMXNGL3CNAQNXOTU/</guid>
-      <dc:creator>김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Jul 2024 05:04:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6W6PDUGA2NGKBGU2BAAOVBXKUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 22일 오후 고려대 총장실에서 열린 ‘박준희 에이치케이피파트너스 대표 인봉장학금 기부식’에 참여한 허준열씨(왼쪽), 박준희 에이치케이피파트너스 대표와 김동원 고려대 총장이 기념사진을 촬영하고 있다. /고려대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대는 박준희 에이치케이피파트너스 대표가 남편의 모교인 고려대에 ‘인봉장학금’ 1억원을 기부했다고 밝혔다.&lt;br&gt;&lt;br&gt;고려대는 지난 22일 오후 총장실에서 ‘박준희 에이치케이피파트너스 대표 인봉장학금 기부식’을 열었다고 24일 밝혔다. 인봉장학금은 1985년 김경은 금한산업 회장의 기부로 시작된 장학금으로, 매 학기 학업 성적이 우수하고 학비 조달이 어려운 학생 10명을 선발해 지급된다.&lt;br&gt;&lt;br&gt;박 대표의 남편인 허준열씨는 고대 식품공학과 82학번 출신으로, 인봉장학금 1기 장학생이자 2012년부터 ‘인봉장학금 교우 모임’ 회장도 맡고 있다. 박 대표는 기부식에서 “대학 시절 남편이 인봉장학금을 받으며 학교를 다녔다고 들었다”면서 “고려대 학생들이 인봉장학금을 통해 학업에 정진하며 남편처럼 꿈을 이뤄가길 바란다”고 밝혔다.&lt;br&gt;&lt;br&gt;함께 기부식에 참여한 남편 허씨는 “버스비조차도 아꼈던 그 시절, 인봉장학금은 나에게 피 같은 장학금이었다. 인봉장학금 덕분에 무사히 졸업을 했다”면서 “후배들이 인봉장학금을 통해 좌절하지 않고 미래로 계속해서 나아갔으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;김동원 고려대 총장은 “남편을 따라 고려대에 장학금을 기부해 주신 박준희 대표님께 깊은 감사의 말씀 전한다”면서 “대표님께서 보내주신 인봉장학금은 고려대 학생들이 미래를 견인할 창의적 인재로 성장하는 데 큰 힘이 될 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>'아내 살해' 로펌 美변호사 2심서 휠체어 타고 등장</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/24/E4ZRMZR4RZFXBEOQC6EMB6ACLY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/24/E4ZRMZR4RZFXBEOQC6EMB6ACLY/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Jul 2024 04:51:17 +0000</pubDate>
-      <content:encoded>별거 중이던 아내를 둔기로 마구 때려 숨지게 한 혐의로 재판에 넘겨진 미국 변호사가 2심 첫 재판에 휠체어를 타고 출석했다. 그의 변호인은 ‘우발적 범행’임을 주장하며 형이 너무 무겁다고 호소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UHETNFSDFBOBAEBITOFYQ7SK7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;둔기로 아내를 살해한 혐의를 받는 대형 로펌 출신 미국 변호사 현모 씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사11-1부(재판장 박재우)는 24일 살인 혐의로 기소된 미국 변호사 현모씨의 2심 첫 재판을 진행했다. 앞서 1심은 “일반인들이 상상할 수 없을 만큼 범행 수법이 너무나 잔혹하다”며 현씨에게 징역 25년을 선고했다. 이후 양측 모두 판결에 불복해 항소했다.&lt;br&gt;&lt;br&gt;현씨는 이날 수의를 입은 채 휠체어를 타고 출석했다. 재판부가 생년월일 등 인적 사항을 묻자 낮은 목소리로 대답했다. 재판 내내 눈은 줄곧 감고 있었다. 변호인은 “A씨가 범행을 자책하느라 구치소 내에서 식사도 제대로 못하는 등 졸도해 실려 갔다”고 말했다.&lt;br&gt;&lt;br&gt;이어 현씨 변호인은 “피고인의 행위로 참혹한 결과가 생긴 것에 대해 반성하고 있다. 본인이 왜 그런 행위를 했는지 스스로 납득을 못하고 자책하고 있다”며 우발적 범행이라는 취지로 주장했다. 그러면서 재판부에서 이 사건 범행 동기에 대해 면밀히 살펴봐달라고 했다.&lt;br&gt;&lt;br&gt;피해자 측 변호인은 “납득하기 어렵다. 1심 과정에선 이런 모습을 보이지 않았다. 진지한 반성의 모습인지 아니면 1심이 중형을 선고해 세상에 나갈 수 없다는 두려움 때문인 것인지 재판부가 살펴봐달라”고 강조했다.&lt;br&gt;&lt;br&gt;국내 대형 로펌 소속 미국 변호사였던 현씨는 작년 12월 서울 종로구의 한 주상복합아파트에서 별거 중인 40대 아내를 살해한 혐의를 받는다. 검찰 조사 등에 따르면, 현씨는 자녀의 옷과 책가방을 가져가려고 찾아온 아내와 말다툼을 벌이게 됐고, 이 과정에서 아내를 금속 막대 모양의 둔기로 수차례 가격한 뒤 ‘살려달라’는 호소도 무시한 채 아내 목을 졸라 살해했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] ‘재산 축소’ 이상식 의원 오늘 소환...처제, 비서관에 “노트북 들고 도망쳐라”</title>
       <link>https://www.chosun.com/national/national_general/2024/07/24/GIDGPRC7VFBP5A5SYBKF5VLPLI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/24/GIDGPRC7VFBP5A5SYBKF5VLPLI/</guid>
@@ -905,15 +916,6 @@
       <description/>
       <pubDate>Wed, 24 Jul 2024 04:16:17 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FNFAHCMFIXTGVQ7AIGOCHJBZKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제22대 국회의원 선거 당시 경기 용인갑 이상식 더불어민주당 후보가 개표방송을 보며 기뻐하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4·10 총선에서 선거 자금을 축소 신고한 혐의를 받고 있는 이상식 더불어민주당 의원(경기 용인갑)이 24일 오후 경찰에 소환돼 조사를 받는다. 경찰에 따르면 이 의원은 이날 오후 3시 경기 용인동부경찰서에서 공직선거법 위반 혐의로 조사를 받을 예정이다.&lt;br&gt;&lt;br&gt;경찰은 이 의원이 22대 국회의원 선거 출마를 위해 재산 신고를 하는 과정에서 축소 신고를 한 정황을 포착하고 수사를 진행해 왔다. 이번 소환 조사는 지난 6월 이 의원의 자택과 배우자의 서울 한남동 갤러리 등 4곳의 압수수색 이후 이뤄지는 것인만큼, 경찰은 지난 강제수사를 통해 주요 증거를 확보한 것으로 보인다. 특히 경찰이 자료를 통해 확인한 액수만 10억원 이상인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 이 의원이 애초 현금 재산으로 5억원을 신고했다가 바로 다음날 3억5000만원으로 수정을 한 부분, 배우자의 재산으로 미술품 14점과 그에 대한 가액으로 31억7400만원을 신고했다가, 하루만에 미술품 13점, 17억8900만원으로 축소 신고한 것을 중점적으로 들여다 본 바 있다.&lt;br&gt;&lt;br&gt;앞서 국민의힘 측은 문제가 됐던 재산·미술품과 관련 “하루만에 14억원에 달하는 미술품 한 점을 처분한 것인지, 또 처분했다면 신고는 제대로 한 것인지 밝히라”고 한 바 있다. 국민의힘 측이 경찰에 제출한 자료에 따르면 이 의원이 추후 제출한 미술품 목록에서 빠진 작품은 이우환 작가의 ‘다이얼로그 그레이(2011)’ 작품이다. 이 의원은 최초 재산 신고 당시 해당 작품의 가액을 8억원으로 신고했다.&lt;br&gt;&lt;br&gt;경찰은 이날 소환 조사와 추가 조사를 통해 이 의원이 축소한 재산이 늘어날 가능성이 있는 것으로 보고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B5VQLAG4RNGHHMQ7AOKS7MXCLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이우환 작가의 다이얼로그 그레이(2011)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 이날 오후 2시쯤 수원지법에서는 이 의원의 처제 김모씨와 비서관 문모씨의 구속영장실질심사도 진행될 예정이다. 두 사람은 증거인멸 혐의로 입건돼 경찰 수사를 받고 있다.&lt;br&gt;&lt;br&gt;김씨는 지난 6월 경찰이 이 의원 배우자의 갤러리를 압수수색할 당시 “노트북을 들고 도망치라”고 문씨에게 지시했고, 이에 문씨는 실제로 경찰의 압수수색을 피해 선거 자금 관련 자료가 담겨 있는 노트북을 챙겨 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;앞서 이 의원은 자신의 자택과 배우자 갤러리 등에 대한 경찰의 압수수색을 두고 “압수수색을 하지 않아도 확보 가능하며, 임의제출도 얼마든지 가능하다”고 한 바 있다.&lt;br&gt;&lt;br&gt;이 의원은 부산지방청장 출신으로 경찰 계급 중 경찰청장 다음으로 높은 치안정감까지 오른 바 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>야당 ‘교사 업무 선긋기’ 법안에 행정직들은 부글부글..갈라진 학교</title>
-      <link>https://www.chosun.com/national/education/2024/07/24/CFGY7DKYX5F7HA72YFZX2WW7YY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/07/24/CFGY7DKYX5F7HA72YFZX2WW7YY/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Jul 2024 02:37:12 +0000</pubDate>
-      <content:encoded>야당이 초·중·고교 교사의 업무를 수업과 연구로 한정한 법안을 발의하자, 학교 행정 직원들은 “우리에게 업무를 모두 떠넘기려는 것 아니냐”며 크게 반발하고 있다. 최근 수년간 행정 업무를 둘러싸고 지속됐던 교사와 행정 직원 간 갈등이 수면 위로 떠오른 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PSPFDMUGK4PZ63MCUPLG3GT3UY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 8일 백승아 더불어민주당 의원은 교사들의 업무 범위를 수업과 연구로 한정하는 내용의 ‘초·중등교육법’ 개정안을 대표 발의했다. 행정 업무가 너무 많아서 아이들 교육에 집중하기 어렵다는 교사들의 불만이 쏟아지자 아예 법으로 교사 업무를 분명히 정하려 한 것이다. 초등교사 출신인 백 의원은 초등교사노조 수석부위원장으로 당선된 직후 민주당 비례대표 후보로 발탁됐다.&lt;br&gt;&lt;br&gt;백 의원은 법안에서 교사의 교육 활동 업무가 무엇인지 9개 조항에 걸쳐 구체적으로 나열한다. 수업·수업 연구, 학생 생활지도, 생활기록부 관리, 상담 등이다. ‘교육부장관은 교사가 교육 활동에 전념할 수 있도록 해야 한다’는 조항도 있다.&lt;br&gt;&lt;br&gt;법안이 발의되자 학교 행정직 공무원들이 들고일어났다. 이들이 속한 교육청노동조합연맹은 18일 성명을 내고 “(개정안은) 교사들이 수업 외 잡무는 하지 않겠다는 것”이라며 “학교에서 해야 하는 일은 줄어들지 않는데, 결국 행정실 직원들에게 일을 떠넘기겠다는 것이 아니냐”라고 했다. 전국 학교 행정 공무원 수는 5만4000명으로, 교사(43만2000명)의 8분의 1 수준이다.&lt;br&gt;&lt;br&gt;국회 홈페이지에는 19일 기준 이 법안에 대한 의견 3만5000건이 달렸다. 교사들이 올린 것으로 보이는 찬성 의견이 많지만, 반대 의견도 상당수다. “한국에 행정 업무를 안 하는 공무원도 있나” “교사 이익만을 대변해 ‘(행정직에) 업무 몰아주기’ 하려 한다” 등이다.&lt;br&gt;&lt;br&gt;전문가들은 교사·행정직 간 갈등은 최근 10년간 학교에서 방과후학교·돌봄 등 다양한 프로그램이 들어오면서 과거에 없던 업무들이 늘어났기 때문으로 본다. 행정 업무가 어디까지인지 분명하게 선을 긋기 쉽지 않은 가운데 교사와 행정 직원 양측 모두 업무가 늘어나 불만이 생긴 것이다. 특히 최근 학교들은 행정직뿐 아니라 급식·돌봄 등을 맡는 무기계약직 공무직을 대거 채용해 ‘교사 대 비교사’ 갈등은 갈수록 커지고 있다. 공무직들이 속한 전국교육공무직본부에서도 22일 성명을 내고 “특정 직군에 대해서만 업무 경감 대책을 수립하면, 다른 직군의 업무 부담이 가중된다”고 반발했다. 현재 학교 교육공무직은 15만1000명에 달한다.&lt;br&gt;&lt;br&gt;서울 지역 한 교육학과 교수는 “수업을 기획하고 운영하다보면 교사가 꼭 해야 하는 행정 일도 있는데, 업무 범위를 법으로 정해 놓으면 오히려 학교 안에서 갈등이 커질 수 있다”면서 “차라리 행정 일까지 하는 교사에게 인센티브를 많이 줘야 한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘명백한 표절 vs 수상 취소 정도 아냐’ 울산미술대전 논란 점입가경</title>
