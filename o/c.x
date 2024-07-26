@@ -13,6 +13,67 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>무더위 속 밭일 나간 80대 숨진 채 발견…경찰 “온열질환 추정”</title>
+      <link>https://www.chosun.com/national/regional/honam/2024/07/26/3PH236RC6FFVZIWULRNHUOMHCA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/07/26/3PH236RC6FFVZIWULRNHUOMHCA/</guid>
+      <dc:creator>장흥=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 26 Jul 2024 04:44:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2FON4BP32A2Z4UHXZEP6TRU25Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 장흥경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 장흥에서 무더위 속에 밭일을 나갔던 80대 여성이 숨진 채 발견됐다. 이 여성에게서 외상 등 범죄 정황은 확인되지 않았다.&lt;br&gt;&lt;br&gt;26일 전남 장흥경찰서 등에 따르면 전날 오후 8시 34분쯤 장흥군 관산읍의 한 밭에서 80대 여성 A씨가 숨진 채 발견됐다. A씨는 밭일을 나간 뒤 귀가하지 않아 실종 신고가 접수됐고, 수색 과정에서 발견됐다. 전남 장흥지역은 A씨가 숨진 채 발견된 지난 25일 폭염주의보가 발효됐었다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨에게 외상 등 타살 흔적이 없었고 무더위에 밭일을 나갔다가 온열질환으로 사망한 것으로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/2FON4BP32A2Z4UHXZEP6TRU25Y.jpg?width=3636&amp;height=1960&amp;auth=eaad4f21a0c320f95759d8eb08ae418694ac8bfe6e7ff965bf22d64c7e9cf38c&amp;smart=true" type="image/jpeg" height="1960" width="3636">
+        <media:description type="plain">전남 장흥경찰서의 모습.(전남지방경찰청 제공)/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>﻿유일한 창문 위엔 하수구?…월세 42만원 서울 지하방 현실</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/26/WPFB3LNWB5HQZLJI2BTXHK4IOA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/26/WPFB3LNWB5HQZLJI2BTXHK4IOA/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 26 Jul 2024 04:00:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4RSB2PNARNF7VKXGAV2GDYHOOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 유튜브 채널에 소개된 서울 관악구 신림동의 한 원룸. /유튜브 '집공략'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 관악구에 있는 한 다세대주택 지하 원룸이 하수구 빗물받이 밑에 마련되어 있어 온라인에서 논란이 일고 있다.&lt;br&gt;&lt;br&gt;부동산 유튜브 채널 ‘집공략’은 지난 5월 ‘서울대 붙은 흙수저가 현실적으로 살 수 있는 집’이라는 제목으로 서울 관악구 신림동과 서울대입구역 인근 지역에서 구할 수 있는 저렴한 매물을 소개했다.&lt;br&gt;&lt;br&gt;부동산 중개업자는 “제일 저렴한 동네, 대학동에서도 보증금이 싼 곳으로 소개하겠다”고 했다. 이어 “고시원 가격인데 풀옵션”이라며 보증금 300만원에 월세 42만원짜리 방으로 안내했다.&lt;br&gt;&lt;br&gt;건물 입구에 들어가기 전, 중개업자는 건물 외부를 먼저 보여줬다. 그곳에는 보통 처마에 설치하는 초록색 빗물받이가 있었다. 영상을 촬영하는 PD는 “여기는 그냥 하수구가 아니냐”며 의문을 가졌다. 빗물받이 일부는 본래의 모습 대신 철망으로 가려져 있었다. 철망 사이사이 컵 모양 크기의 구멍이 뚫려 있었는데, 그 구멍으로 들여다보자 하수구에 설치하는 철제 덮개가 보였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QBI6ZKYIGFHTPKPBB3KWLXUM5E.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 유튜브 채널에 소개된 서울 관악구 신림동의 한 원룸. /유튜브 '집공략'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;집 안에 들어가 촬영하자 목소리가 마치 동굴처럼 울렸다. 창문이 없어서였다. ‘환기를 어디서 시키냐’는 물음에 중개업자는 손가락으로 부엌 위쪽 천장을 가리켰다. 천장에는 창문이 하나 있었다. 그 위에는 앞서 봤던 철제 하수구 덮개가 보였다.&lt;br&gt;&lt;br&gt;중개업자는 “(외부로) 뚫려 있는 곳은 여기가 하나”라며 멋쩍은 듯 웃었다. PD가 “거미줄도 엄청 많고, 정체가 뭐냐? 비 오면 물 다 새겠네”라고 말하며 영상은 마무리됐다.&lt;br&gt;&lt;br&gt;최근 전국에서 폭우가 잇따르면서 이 영상이 온라인 커뮤니티에서 회자됐다. 네티즌들은 “창문도 없고, 그나마 부엌 천장에 하수구가 실화냐” “물난리나면 바로 사고 날 집 같은데 저게 합법이냐” “하수구 창문 집은 비 오면 침수당하라는 설계 같다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;이곳의 정확한 주소가 나오지 않아 영상 속 주택이 언제 지어졌는지 알 수는 없지만, 건축법 위반 소지가 크다. 서울 관악구청 관계자는 한국일보에 “영상에서 빗물받이와 이어진 부엌은 집주인이 불법 증축했을 가능성이 있다”고 했다. 채광, 환기, 방습 등을 위해 지하실에 마련된 외부와 이어지는 별도 공간을 주거 공간으로 사용하는 건 불법이다.&lt;br&gt;&lt;br&gt;다만, 지자체 단속은 쉽지 않다. 구청 관계자는 “관내에 너무나 많은 주택이 있는 만큼 수시 단속을 통해 위법 사항을 적발하긴 불가능하다”며 “민원이나 신고가 들어오면 현장에 가서 시정명령을 내리고, 조치하지 않을 경우 이행강제금을 부과하고 있다”고 했다.&lt;br&gt;&lt;br&gt;반지하 주택의 열악한 환경으로 장마철 목숨을 잃은 사건은 불과 2년 전 일어났다. 2022년 서울 관악구 신림동의 한 반지하 주택에서 폭우로 인해 일가족 3명이 집에 갇혀 숨지는 안타까운 사건이 발생했다. 이후 정부와 서울시는 취약지역에 물막이판 등 침수 방지시설을 설치하는 대책을 내놨다. 그러나 지난달 6월 기준 침수 피해 우려가 큰 서울의 반지하주택 약 2만호 중 침수 방지시설 설치가 이뤄진 곳은 약 30%에 그친다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ISR3YK3ZNDRZG22BYLARN7R6U.gif"&gt;&lt;figcaption&gt;&lt;small&gt;원룸 내부의 유일한  통로는 천장에 있는 창문으로, 그 위에는 하수구가 있다. /유튜브 '집공략'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“심평원, 산부인과에 수술 전·후 사진 요구” 의료계 논란</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/26/3PPBKNRYBJAZLAKKMPRLS573X4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/26/3PPBKNRYBJAZLAKKMPRLS573X4/</guid>
+      <dc:creator>최훈민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 26 Jul 2024 04:19:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OUUJ5RN2ZZANDDMXIGVRZV4NQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여성 환자의 주요 부위 사진을 요청하고 있는 심평원 공문 /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;진료비 과다책정 여부를 심사하는 건강보험심사평가원(심평원)이 한 산부인과 의원에 여성 질환 환자의 수술 전후 사진을 요구해 의료계에서 논란이 일고 있다. 의료계에서는 “환자의 동의도 없는데 신체 주요 부위가 촬영된 사진을 제출하라고 하는 것은 말도 안 되는 요구이자 월권행위”라는 반발이 나왔다. 심평원은 “관련 법령에 따라 정확하고 공정한 심사를 위해 제출가능한 자료를 요청한 것일뿐”이라고 했다.&lt;br&gt;&lt;br&gt;25일 의료계에 따르면 서울 강남구 A 산부인과의원은 최근 심평원 서울본부로부터 ‘심사 참고자료 요청’이란 제목의 공문을 받았다. 공문에는 지난 1일 A 산부인과에서 진료를 본 여성 환자 관련 추가 정보 요청이 담겨 있었다. 심평원은 A 의원에 경과기록지, 마취기록지, 수술기록지 조직병리검사결과지 등을 요청하면서 ‘수술 전후 사진’도 요청했다.&lt;br&gt;&lt;br&gt;A 의원 원장은 조선닷컴에 “우리 의원은 다른 산부인과와 달리 여성 주요 부위에 생긴 종양 시술·수술을 전문적으로 한다. 시술과 수술이 다른 산부인과 병·의원에 비해 많은 편이다 보니 심평원에서 허위 청구를 의심하는 것 같다”며 “그 전에도 시술·수술 실재 여부를 입증하라는 요구를 많이 받았는데 ‘수술 전후 사진’을 요구 받은 건 처음”이라고 말했다. 이어 “병변을 보기 위해 환자에게 어렵게 동의를 받고 ‘수술 전 사진’을 찍을 때가 있지만 수술 후 사진을 찍는 일은 없다”며 “그런데 사진을 요구하니 황당하다. 우린 환자를 보호할 의무가 있다”고 했다.&lt;br&gt;&lt;br&gt;A 의원 원장이 이 내용을 소셜미디어에 올리자 임현택 대한의사협회 회장은 페이스북에 “심평원이 의사를 도둑놈, 사기꾼 취급한 거고 환자가 알면 절대 용납하지 않을 말도 안 되는 요구를 한 것”이라고 적었다. 김재연 대한산부인과의사회 회장도 “조직검사 결과만으로도 진료가 확인되는데 사진 같은 추가 자료를 요구해 병·의원을 압박하려는 의도로 보인다”며 “이는 월권이자 직권남용”이라고 했다. 국회 보건복지위원장인 박주민 더불어민주당 의원도 “상식 밖의 일”이라며 “사실관계를 확인하겠다”고 했다.&lt;br&gt;&lt;br&gt;심평원 측은 “요양급여비용 심사의 정확하고 공정한 수행을 위해 관련 법령에 따라 자료 제출을 요청한 것”이라고 했다.&lt;br&gt;&lt;br&gt;심평원은 “A의원이 지난 2023년 11월 청구한 내역 중에 외음부 종양 적출술과 피부양성 종양적출술 두가지를 동시에 청구해 심사한 결과 종양적출술이 아닌 농양절개술로 인정된 사례가 있었다”며 “A의원이 이번달에도 동일한 유형으로 청구해 반드시 수술 전·후 사진은 아니더라도 입증 가능한 범위의 자료를 제출하도록 요청한 것”이라고 했다.&lt;br&gt;&lt;br&gt;국민건강보험공단은 농양을 짜주는 시술엔 1만원을, 종양 수술엔 20만원 정도를 보험료로 책정해놨다.&lt;br&gt;&lt;br&gt;심평원 관계자는 “산부인과 외 다른 과도 수술 부위 사진을 요청한다”며 “수가 조정을 다시 하려는 목적이었을 뿐 다른 의도는 없었다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>25억 상당 리베이트 받은 병원장 부부 재판행</title>
+      <link>https://www.chosun.com/national/regional/gangwon/2024/07/26/KH4L6EGBCVF6HOSXOLMZDDS4JI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2024/07/26/KH4L6EGBCVF6HOSXOLMZDDS4JI/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 26 Jul 2024 04:28:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6RCEUKU3ILRA4WU7G33VB7LM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지검 속초지청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의약품 도매업자로부터 25억원 상당의 리베이트를 챙긴 병원장과 아내가 구속돼 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;춘천지검 속초지청은 의료법 위반과 배임수재 혐의로 병원장 A씨와 그의 아내이자 병원 재무이사인 B씨를 구속 기소했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 부부는 2019년 9월부터 2023년 5월까지 의약품 도매업자 C씨로부터 특정 제약사의 의약품을 사용하는 조건으로 구매 대금의 일정 비율을 현금으로 상납받거나 신용카드를 제공받아 사용한 혐의를 받는다. 또 C씨로부터 병원 인수자금을 무이자로 차용해 쓰는 등 총 25억원 상당의 리베이트를 받았다.&lt;br&gt;&lt;br&gt;검찰은 도매업자 C씨도 약사법 위반과 배임증재 혐의로 불구속 기소했다.&lt;br&gt;&lt;br&gt;검찰이 보건복지부를 통해 파악한 결과 지난 5월 말까지 의사 1인의 리베이트 수수 최고 금액은 약 22억원으로, A씨가 수수한 금액이 역대 최대 리베이트 수수액으로 기록될 것으로 보인다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “공정하고 투명한 의약품 유통 질서 확립과 국민 의료비 부담 완화를 위해 의약품 리베이트 사건에 엄정 대응하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/T6RCEUKU3ILRA4WU7G33VB7LM4.jpg?width=1440&amp;height=1080&amp;auth=321d4c3cb76ec6ca9767130bc5398bd43342343c3072f99489442e6630bf9400&amp;smart=true" type="image/jpeg" height="1080" width="1440">
+        <media:description type="plain">춘천지검 속초지청.(뉴스1 DB)</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>야구장 치솟은 불, 비번날 야구 보러 간 소방관들이 껐다</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/26/BP5OWWIUIZCELEGJT2BBB5CE5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/26/BP5OWWIUIZCELEGJT2BBB5CE5A/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 26 Jul 2024 03:49:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q5DHGCIAINKXLJ33Q55UU4F23A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 오후 6시 28분쯤 대전 중구 한화생명이글스파크 야구장 외야에 설치된 이벤트용 시설물에서 불이 나고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 24일 프로야구 한화이글스 홈구장인 이글스파크 관중석에서 발생한 화재를 비번 날 경기장을 찾았던 충남 지역 소방관들이 초기 진화에 나서면서 큰 피해로 번지는 것을 막았다.&lt;br&gt;&lt;br&gt;26일 충남소방본부에 따르면 공주소방서 소속 김성준 소방장, 인현준 소방교, 송대운 소방사는 24일 야구 경기 관람을 위해 대전 중구 부사동 한화이글스파크를 찾았다.&lt;br&gt;&lt;br&gt;3루 관중석에 앉아있던 이들은 오후 6시 28분쯤 외야 관중석 지붕에서 불기둥이 솟는 것을 목격했다. 김 소방장 등은 곧바로 현장으로 달려가 한화이글스 관계자와 함께 소화기로 진압을 시도했다.&lt;br&gt;&lt;br&gt;이들은 화장실 고무호스로 물을 끌어와 5분여 만에 불을 모두 끄고, 신고를 받고 출동한 소방대에 현장을 인계했다. 특히 소방장은 2010년 임용돼 수많은 재난현장을 누빈 14년차 베테랑 소방관으로, 신속하고 적절한 대처를 통해 경상 2명 외 추가 인명 및 재산피해를 막았다.&lt;br&gt;&lt;br&gt;불은 불기둥 용품이 오작동해 발생한 것으로 파악됐다. 이 화재로 40대 관중과 구장 관리팀 20대 직원 등 2명이 경상을 입었고 경기 개시가 5분 지연됐다. 하지만 소방관들의 신속한 대처로 추가 인명·재산 피해를 막을 수 있었다.&lt;br&gt;&lt;br&gt;권혁민 충남본소방부장은 “화재, 구조, 구급 업무에 대한 전문성과 사명감을 바탕으로 화재를 예방하고 도민 생명과 재산을 지키는 데 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>박상용 검사, ‘음주 추태 의혹’ 제기한 이성윤 의원에 3억 손배소 청구</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/26/3RVJAHZ3MFBDVFNZ55NZ3LF7IE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/26/3RVJAHZ3MFBDVFNZ55NZ3LF7IE/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 26 Jul 2024 03:52:52 +0000</pubDate>
+      <content:encoded>‘쌍방울 불법 대금 송금 사건’을 수사했다가 민주당으로부터 과거 음주 추태를 벌였다는 사유 등으로 탄핵 대상이 된 박상용 수원지검 부부장검사가 해당 의혹을 제기한 이성윤 더불어민주당 의원(전북 전주시을)을 상대로 3억원대 손해배상 소송을 제기했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LQP4BEWEKRJQFOEAAH26VLBABE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이성윤 민주당 의원. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 법조계에 따르면 박 검사 측은 전날 “허위사실 유포로 명예를 훼손당했다”며 이 의원을 상대로 3억원 상당의 손해배상 청구 소송을 냈다. 실명을 거론한 서영교 민주당 의원(서울 중랑구갑)엔 1억원, 수차례 유튜브를 통해 이런 의혹을 재생산한 최강욱 전 민주당 의원에는 1억5000만원의 손해배상을 청구했다.&lt;br&gt;&lt;br&gt;아울러 강미정 조국혁신당 대변인에겐 1억원, 유튜버 김용민·강성범씨 등에 대해선 각각 7000만원과 3000만원을 청구했다.&lt;br&gt;&lt;br&gt;앞서 이 의원은 지난달 14일 국회 법제사법위원회에서 지난 2019년 박 검사를 비롯한 울산지검 검사 30여명이 특수활동비로 술판을 벌였다는 의혹 등을 제기했다. 또 박 검사가 회식 후 울산지검 청사 내 화장실 세면대 등에 설사 형태의 대변을 바르는 행위를 해 공용물손상죄를 저질렀다는 내용의 의혹도 제시했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VR4GTCAWIJDJBNQIGTWCJUROYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;왼쪽부터 이성윤·서영교 민주당 의원, 최강욱 전 민주당 의원. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 검사는 이후 탄핵소추 대상이 됐는데 민주당은 탄핵 사유로 ‘박 검사가 2019년 1월 울산지검에서 근무할 때 청사 내에서 음주를 한 뒤, 설사 형태의 대변을 싸고 화장실 세면대와 벽면에 발라 공용물손상죄를 범했다’고 적시했다.&lt;br&gt;&lt;br&gt;이에 대해 박 검사는 검찰 내부망에 “명백한 허위 사실”이라고 말한 뒤 이후 이 의원 등을 허위사실에 의한 명예훼손 혐의로 경찰에 고소했다. 실제 당시 박 검사와 동행한 것으로 알려진 이모 검사는 검찰 내부망에 “저녁 식사부터 귀가할 때까지 계속 같이 있었는데, 완전한 허위 사실”이라고 했다.&lt;br&gt;&lt;br&gt;이 의원은 고소당한 뒤 “검사 실명을 거론한 적이 없다”고 물러섰지만, 박 검사 측은 “지난 5일 형사고소 이후 이 의원은 ‘어떤 검사’라고만 했지 박상용 검사라고 특정한 적 없다고 발뺌했지만, 법사위 회의장에서 사용한 PPT 자료에 이미 박 검사 실명을 공개했다. 박 검사 탄핵소추안에 해당 사실을 탄핵사유로 적시했으므로 명백한 거짓말”이라고 주장했다.&lt;br&gt;&lt;br&gt;박 검사는 작년 12월부터 연수 목적으로 해외에 나가있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“타지 ‘가족친화 인증기업’도 할인 등 혜택 줘요”…부산시, 전국 첫 대상 지역 확대</title>
       <link>https://www.chosun.com/national/regional/yeongnam/2024/07/26/DZAZSI36XFDANHQKPTGDVSH4IE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/07/26/DZAZSI36XFDANHQKPTGDVSH4IE/</guid>
@@ -801,58 +862,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/733CH62HZE5O475QPWAE5NR2DE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급대. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;발목이 절단된 70대 교통사고 환자가 수술 받을 곳을 찾지 못해 ‘병원 뺑뺑이’를 돌다 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;25일 전북소방본부 등에 따르면 지난 18일 오전 11시 55분쯤 전북 익산시 여산면의 한 도로에서 70대 A씨가 몰던 차량이 전복되는 사고가 발생했다. 이 사고로 A씨가 차량 밖으로 튕겨 나가면서 발목이 절단되고 머리와 허리 등을 크게 다쳤다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방대원들은 A씨의 상태를 살핀 뒤 익산 원광대병원에 있는 권역외상센터에 수술 가능 여부를 물었다. 하지만 원광대병원은 발목 접합 전문의가 당직 근무 뒤 퇴근해 수술을 할 수 없는 상태였다. 이어 소방대원들은 전주의 전북대병원에도 문의했지만 당장 치료가 어렵다는 답변을 들었다.&lt;br&gt;&lt;br&gt;결국 소방대원들은 A씨를 사고 장소에서 35㎞쯤 떨어진 전주의 한 병원으로 이송했는데, 이 병원에서도 “다발성 손상으로 수술이 어려워 종합병원으로 이송해야 한다”는 권고를 받았다.&lt;br&gt;&lt;br&gt;소방대원들은 A씨를 오후 1시 19분쯤 전주예수병원으로 이송했지만, A씨는 이곳에서 결국 숨을 거뒀다. 119 신고 시점으로부터 1시간 20여분 만이다. 예수병원엔 당시 수술할 수 있는 전문의가 있었으나 A씨의 상태가 위중해 인공호흡 등의 처치밖에 할 수 없었다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘입찰비리 의혹’ 대전 서구청장 비서실장 압수수색</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/07/25/C3AUZVHF7NGJZEQVQJD3KEO3WY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/07/25/C3AUZVHF7NGJZEQVQJD3KEO3WY/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jul 2024 05:03:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KHOBFUYZFNONJOV5QMJKEZQTCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 서구청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 입찰비리 의혹 수사와 관련해 최근 대전 서구청 비서실장실을 압수수색한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;25일 본지 취재를 종합하면 둔산경찰서는 지난 22일 서구청 비서실장실을 압수수색해 컴퓨터 등 관련 자료를 확보했다. 경찰은 이에 앞서 비서실장 A씨의 자택과 차량, 휴대폰 등에 대해서도 압수수색을 진행했다.&lt;br&gt;&lt;br&gt;경찰은 현직 비서실장인 A씨의 입찰 계약 관련 비리 의혹에 대해 수사 중인 것으로 알려졌다. 대전 서구 관계자는 “압수수색 영장은 A씨 개인 앞으로 발부된 것으로 알고 있다”면서 “정확한 혐의 내용에 대해서는 구청 내부에서도 알지 못하는 상황”이라고 말했다.&lt;br&gt;&lt;br&gt;A씨는 현재 휴가를 내고 출근하지 않고 있는 것으로 나타났다. A씨는 지난 2022년 전국동시지방선거에서 서철모 서구청장이 당선돼 취임한 이후 비서실장으로 근무해오고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/KHOBFUYZFNONJOV5QMJKEZQTCI.jpg?width=4293&amp;height=2928&amp;auth=c2e1486979c6df60a5521a4326c3be4ab579687e870835425bb97e70e252a8b2&amp;smart=true" type="image/jpeg" height="2928" width="4293">
-        <media:description type="plain">대전 서구청 전경. ⓒ News1</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>“내 것 안되면 죽어야...” 여친 살해 김레아, 법정서 범행 당시 녹음 재생</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/25/74T5W4F5WZEATLGVPXRRSEXOTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/25/74T5W4F5WZEATLGVPXRRSEXOTM/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jul 2024 04:51:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B32XBSUYAAWKDYTIPJIEAYL3RI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이별을 통보한 여자친구를 흉기로 찔러 살해하고 그의 어머니도 숨지게 하려 한 혐의로 재판에 넘겨진 26세 김레아의 머그샷. /수원지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이별을 통보한 여자친구를 흉기로 여러차례 찔러 살해하고, 그의 어머니까지 중상을 입히는 범행을 저질러 신상이 공개된 김레아(26)의 재판에서 범행 당시 현장 상황에 대한 구체적인 증언이 나왔다.&lt;br&gt;&lt;br&gt;사망한 A(사망 당시 21세)씨의 어머니인 B(46)씨가 법정에 나와 당시 경위를 설명한 것이다. B씨는 “(김레아가 범행 당시) ‘내 것이 안 되면 죽어야 한다’고 했다”고 말했다.&lt;br&gt;&lt;br&gt;25일 수원지법 형사14부(재판장 고권홍) 심리로 진행된 김레아의 살인 및 살인미수 두 번째 공판에서 B씨는 딸이 목숨을 잃고 자신은 중상을 입은 과정을 증언했다.&lt;br&gt;&lt;br&gt;B씨에 따르면 사건 발생 전날인 지난 3월 24일 딸의 몸에 든 멍과 목 부위에 난 손자국을 보고 데이트 폭력을 당하고 있다는 사실을 알게 됐다. 또 딸로부터 김레아에 신체 사진을 찍혀 협박을 당하고 있다는 얘기도 들었다.&lt;br&gt;&lt;br&gt;이에 B씨는 이튿날 아침 딸의 짐을 빼러 A씨와 함께 김레아가 거주하는 경기 화성시 봉담읍의 오피스텔에 찾아갔다. 당시 B씨는 딸의 사진을 유포하지 않겠다는 내용 등을 담은 확인서를 들고 김레아를 기다렸다.&lt;br&gt;&lt;br&gt;김레아가 귀가하자 B씨는 “딸 몸에 있는 멍 자국과 상처들은 어떻게 된거냐”고 캐물었다. 그런데 김레아는 갑자기 한숨을 쉬더니 일어나 싱크대 위에 있던 칼을 잡고 B씨와 딸을 차례로 찔렀다고 한다. B씨는 “경찰에 신고하려 했더니 휴대전화를 차버렸다”고 했다.&lt;br&gt;&lt;br&gt;B씨는 “딸이라도 살리려고 따라가지 못하게 붙잡자 김레아가 내 어깨를 몇 번 찔러 정신을 잃었다”며 “눈을 떠 보니 도망간 딸을 김레아가 쫓아간 뒤였고 112에 신고했다”고 했다. B씨는 “당시 딸이 밖으로 도망치려 하니 김레아가 딸의 머리를 붙잡고 ‘내 것이 안 되면 죽어야 한다’고 했다”고 말했다.&lt;br&gt;&lt;br&gt;B씨는 증언을 하면서 한동안 몸을 떨며 눈물을 멈추지 못했다.&lt;br&gt;&lt;br&gt;이날 법정에서는 B씨가 사건 당시 상황을 녹음한 파일도 재생됐다. 약 5분 분량 녹음에는 집안에서 김레아에게 폭행을 추궁하는 내용, 김레아가 범행을 저지르며 발생한 소음과 비명이 그대로 담겨있었다.&lt;br&gt;&lt;br&gt;B씨는 재판부에 “김레아는 당시 내가 죽었다고 생각하고 (수사기관에) 딸과 자신은 가만히 있는데 나 혼자 새벽에 쳐들어 왔다고 거짓 진술한 것으로 안다”며 “김레아가 하는 말은 하나부터 열까지 거짓말이라는 사실을 말씀드리고 싶다”고 했다.&lt;br&gt;&lt;br&gt;김레아는 이날 마스크를 착용한 상태로, 앞머리를 길게 늘어뜨려 얼굴 대부분을 가린 모습이었다. 그는 공판이 진행되는 내내 고개를 푹 숙이고 있다가 녹취 파일이 재생되자 눈물을 보이기도 했다.&lt;br&gt;&lt;br&gt;김레아는 지난 3월 25일 오전 9시 35분쯤 화성시 봉담읍에 있는 자신의 오피스텔에서 여자친구인 A씨와 그의 어머니 B씨에게 과도를 휘둘러 A씨를 살해하고, B씨에게 전치 10주 이상의 중상을 입힌 혐의(살인 및 살인미수)를 받는다. 그는 신고를 받고 현장에 출동한 경찰에 의해 현행범으로 체포됐다.&lt;br&gt;&lt;br&gt;검찰의 공소사실에 따르면 김레아는 A씨에 대해 강한 집착을 하며 폭력적인 성향을 보여왔다. A씨를 같은 대학에서 만난 김레아는 평소 A씨의 휴대전화를 수시로 확인하며 남자 관계를 의심했던 것으로 파악됐다. 그는 평소 “여자친구와 이별하게 되면 죽이고 나도 죽겠다”고 말하는 등 A씨에 대해 강한 집착을 보여왔다고 검찰은 밝혔다. 김레아는 A씨와 다투던 중 휴대전화를 던져 망가뜨리거나, 주먹으로 팔을 때려 큰 멍이 들게 했던 것으로도 파악됐다.&lt;br&gt;&lt;br&gt;김레아 측은 그가 과거 정신질환을 앓고 있었다며 범행 당시 심신미약 상태에 있었다는 취지로 주장했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법 “한국GM ‘불법파견’ 인정...하청노동자 직접 고용해야”</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/25/IFUH2WQ5GNC5PDIPN3ZMJHAY7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/25/IFUH2WQ5GNC5PDIPN3ZMJHAY7U/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jul 2024 04:55:23 +0000</pubDate>
-      <content:encoded>한국지엠(GM)을 상대로 직접 고용을 요구하며 소송을 낸 사내 하청 노동자들이 약 9년 만에 최종 승소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MP2HBDP4CNB73ODWUW6X6LNYJI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 3부(주심 엄상필 대법관)는 한국GM 사내협력업체 근로자 98명이 한국GM을 상대로 낸 근로자 지위 확인 소송에서 원심의 원고승소 판결을 25일 확정했다.&lt;br&gt;&lt;br&gt;소송을 낸 근로자들은 1차 또는 2차 협력업체 소속으로 한국GM의 부평·군산·창원 공장 등에서 생산공정 및 서열·보급·방청·포장 등 간접 생산공정 업무에도 종사했다. 이에 근로자들은 한국GM이 불법 파견으로 자신들을 사용했다고 주장하며 회사가 직접 고용하라는 취지로 2015년부터 소송을 여러 차례 제기했다.&lt;br&gt;&lt;br&gt;파견 근로자는 하청업체 소속이지만, 현장에서는 원청의 지시를 받아 일한다. 파견법에 따라 최대 2년까지만 사용할 수 있으며 이를 초과하면 직접 고용해야 한다. 제조업의 직접 생산 공정 업무에는 파견이 금지된다.&lt;br&gt;&lt;br&gt;반면 도급 계약을 맺으면 하청업체 소속으로 하청업체의 지시를 받아 일하게 되고 이 경우에는 직접 고용 의무가 발생하지 않는다. 이 때문에 산업계에선 겉으로는 도급 계약을 맺어놓고, 실제로는 파견근로자처럼 사용하는 ‘불법 파견’ 문제가 발생한다.&lt;br&gt;&lt;br&gt;1심과 2심은 모두 근로자들의 손을 들어줬다. 특히 2심 법원은 “직접 생산공정에 종사한 원고들뿐 아니라 간접 생산공정 업무에 종사한 원고들도 피고(한국GM)의 사내 협력업체에 고용된 후 피고의 사업장에 파견돼 피고로부터 직접 지휘·감독을 받는 근로자파견 관계에 있었다”고 판단했다.&lt;br&gt;&lt;br&gt;이날 대법원은 2심 판결에 잘못이 없다고 보고 한국GM이 불복해 낸 상고를 기각했다. 이어 한국GM 협력업체 근로자들이 낸 다른 소송 3건에 대해서도 유사한 결론을 내렸다. 일부 2차 협력업체 근로자들의 파견 관계만 인정되지 않았다.&lt;br&gt;&lt;br&gt;배성도 금속노조 한국GM창원비정규직지회 비대위원장은 선고가 끝난 뒤 기자회견에서 “근로자 지위 하나를 받기 위해 10년 넘게 걸린 게 한스럽다. 100％의 승리를 만들 때까지 계속 투쟁을 이어 나가겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경북 포항 한 여고서 학생이 흉기 휘둘러…학생 1명 다쳐</title>
-      <link>https://www.chosun.com/national/regional/2024/07/25/DTTKEWPRP5BX7G3BDPTCNYAAXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/25/DTTKEWPRP5BX7G3BDPTCNYAAXA/</guid>
-      <dc:creator>포항=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jul 2024 04:19:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FO4LY3RLGMQPZFLUWPFBV5YFSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 포항북부경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 포항의 한 여고에서 학생이 다른 학생에게 흉기를 휘두르는 사건이 일어나 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;25일 포항북부경찰서에 따르면 이날 오전 8시 25분쯤 포항 한 여고에서 A양이 B양에게 흉기를 휘둘렸다. 이 사건으로 B양은 손목 등 여러 곳을 다쳐 병원으로 옮겨졌지만, 생명에는 지장이 없는 상태라고 경찰은 전했다.&lt;br&gt;&lt;br&gt;경찰은 A양이 흉기를 휘두른 이유 등 자세한 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제자 논문 대신 써주고 금품 받은 전직 대학 교수 ‘집유’</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/25/UQJVWZ47SNFHVPTZYEMXRS3SX4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/25/UQJVWZ47SNFHVPTZYEMXRS3SX4/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jul 2024 04:18:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YNMOTWQAITXLQNULCQTGWDUJ24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주지법 전경. / 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수백만원을 받고 제자의 논문을 대신 써 준 국립대 전직 교수가 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;광주지법 형사5단독 지혜선 부장판사는 25일 부정청탁, 금품 등 수수의 금지에 관한 법률 위반, 제삼자 뇌물취득 등 혐의로 기소된 국립대 전직 교수 A씨에게 징역 5개월에 집행유예 2년, 추징금 600만원을 선고했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2020년 교수 재직 당시 600만원을 받고 자신이 지도한 대학원생의 논문을 대신 써준 혐의로 재판에 넘겨졌다. 또 같은 해 석사학위 논문 심사 신청자 8명에게 심사위원(교수)들에게 ‘심사비’를 전달해주겠다며 480만원을 받은 혐의도 받고 있다. A씨는 유사 논문을 짜깁기하는 방식으로 제자의 논문을 대필한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 이같은 사안으로 대학에서 해임됐다. 그가 대필한 논문은 심사에서 탈락했다. A씨는 재판 과정에서 “거마비로 불리는 심사비는 논문 심사 과정에서 관행적으로 이뤄지는 일”이라며 “관행에 따른 것인 만큼 논문 심사 결과가 달라지지는 않는다”고 주장했다.&lt;br&gt;&lt;br&gt;하지만 재판부는 A씨의 주장을 받아들이지 않았다. 재판부는 “A씨가 주장하는 심사비 등 관행이 있다고 단정하기 어렵고 암암리에 행해졌다고 해도 정당화할 사유는 아니다”며 “대학원생들로부터 받은 돈 역시 개별적으로 받은 점으로 미뤄 직무 관련성이 인정된다”고 지적했다.&lt;br&gt;&lt;br&gt;이어 “높은 청렴성이 요구되는 국립대학교 교원으로서 관행이라는 명목으로 스스로 금품을 받거나 다른 교수들에게 전달하려 했고 ‘논문 컨설팅’이라며 지도 학생의 논문 작성에 깊이 관여해 논문 심사에 대한 정당한 직무 집행을 방해해 가볍게 볼 수 없다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/YNMOTWQAITXLQNULCQTGWDUJ24.jpg?width=601&amp;height=445&amp;auth=4f73481e62487a45dffbd4d23662f8df3ab329469755464c995dec2e09cf52ae&amp;smart=true" type="image/jpeg" height="445" width="601">
-        <media:description type="plain">광주지법 전경. / 연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>세종대, 제15대 엄종화 총장 취임</title>
       <link>https://www.chosun.com/national/people/2024/07/25/IYW4RCFE2RAXLIDJA66GXRMMIA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/07/25/IYW4RCFE2RAXLIDJA66GXRMMIA/</guid>
@@ -864,15 +873,6 @@
         <media:description type="plain">세종대 제15대 엄종화 총장이 취임식에서 취임사를 하고 있다. /사진= 세종대학교</media:description>
         <media:credit role="author" scheme="urn:ebu">사진= 세종대학교</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>경찰, 화재 사고 아리셀 박순관 대표 아들 소환조사</title>
-      <link>https://www.chosun.com/national/regional/2024/07/25/WPYPPKPKIVBRDJ3QYSK3WYJSNU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/25/WPYPPKPKIVBRDJ3QYSK3WYJSNU/</guid>
-      <dc:creator>수원=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jul 2024 02:47:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UEBITQ3SVD37CCN4AWNUG7NXLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아리셀의 박순관 대표(가운데)가 지난달 25일 경기 화성 화재 현장에서 공식 사과문 발표 후 취재진의 질문에 답하고 있다. 왼쪽은 박중언 아리셀총괄본부장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23명의 사망자가 발생한 경기 화성시 리튬전지 제조업체 화재 사고를 수사하고 있는 경찰이 박순관 아리셀 대표의 아들이면서 총괄본부장인 박중언씨를 25일 소환해 조사하고 있다.&lt;br&gt;&lt;br&gt;경기남부경찰청 아리셀 화재 사고 수사본부는 업무상과실치사상 혐의로 입건한 박씨를 이날 오전 피의자 신분으로 불러 조사하고 있다. 박씨는 업무상 과실치사상 등의 혐의로 입건된 상태이나 경찰의 직접 조사를 받는 것은 이번이 처음이다. 그는 변호인으로 선임한 김앤장 법률사무소 소속 변호사들과 함께 수사본부를 찾은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;박씨는 지난달 24일 오전 10시 30분쯤 아리셀 공장 3동 2층에서 불이 나 23명이 숨지고, 8명이 다친 사고와 관련해 사업장의 안전 관리 책임 등을 소홀히 한 혐의를 받고 있다. 경찰은 박씨를 상대로 리튬 전지 제조 과정의 전반적인 안전관리 실태 등을 확인할 방침이다.&lt;br&gt;&lt;br&gt;경찰은 화재 사고 직후 박씨와 안전관리 책임자 1명, 생산과정 책임자 2명 등 아리셀 관계자 4명, 인력공급업체인 메이셀과 한신다이아의 관계자 각 1명 등 총 6명을 형사 입건했다. 박씨의 아버지인 박 대표는 중대재해처벌법 위반 혐의로 고용노동부에 입건된 상태이다. 경찰은 필요할 경우 박 대표를 참고인으로 불러 조사할 수는 있지만, 현 단계에서 피의자 신분의 소환 조사는 노동부에서 이뤄질 것이라고 설명했다.&lt;br&gt;&lt;br&gt;경찰은 화재 이틀 만인 지난달 26일 노동부와 함께 박 대표의 자택과 사무실 등에 대한 1차 압수수색을 벌인 데 이어 지난 10일 2차 압수수색을 벌였다. 또 압수물 분석과 함께 아리셀 공장 근로자 등에 대한 광범위한 참고인 조사를 거쳐 최근 피의자에 대한 본격 조사를 벌이고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>검찰, ‘법카로 식사제공’ 김혜경에 벌금 300만원 구형...“반성 안 해”</title>
