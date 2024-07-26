@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“영어가 모국어” 밝혔다가...中 광고 끊긴 구준엽 아내 서희원 조카</title>
+      <link>https://www.chosun.com/national/people/2024/07/26/3KSOWDRZS5AFLOOQ7YFROKOY4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/07/26/3KSOWDRZS5AFLOOQ7YFROKOY4A/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 26 Jul 2024 09:35:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LBOIRW2PPZD6NNXA2MCVY7MBGA.png"&gt;&lt;figcaption&gt;&lt;small&gt;허소은(왼쪽)의 모습./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구준엽과 결혼한 대만 배우 서희원의 조카인 허소은이 과거 자신의 모국어가 영어라고 밝혔다가 최근 일부 중국 광고에서 퇴출당했다.&lt;br&gt;&lt;br&gt;지난 25일 중화권 매체 8월드(8World)는 허소은이 과거 자신의 인스타그램에서 “영어가 내 모국어다”라고 발언한 것과 관련해서 중국 네티즌들의 분노를 샀다고 보도했다. 이로 인해 일부 중국 현지 광고에서 퇴출당했다는 것이다.&lt;br&gt;&lt;br&gt;허소은은 가수 구준엽과 결혼한 대만 배우 서희원의 동생인 배우 서희제의 둘째 딸로, 26일 오후 기준 50만 명의 팔로워를 보유하고 있다.&lt;br&gt;&lt;br&gt;앞서 허소은은 작년 인스타그램 스토리를 통해 한 네티즌의 질문을 받았다. 네티즌은 “왜 대부분 영어를 사용하냐”라고 물었다. 이에 허소은은 “중국어보다 영어를 더 잘한다”며 “학교나 집, 친구들과 대화할 때 영어로 의사소통을 하기 때문에 영어가 모국어”라고 했다.&lt;br&gt;&lt;br&gt;이 같은 발언은 중국 네티즌들의 분노를 샀고, 보이콧으로 확산됐다. 의류 브랜드 아이베(AIVEI)는 중국 충칭의 한 쇼핑몰 외벽에 광고를 게재했는데, 이를 본 네티즌들은 과거 허소은의 ‘모국어 발언’을 들춰내며 회사 측에 광고 철회를 요구했다.&lt;br&gt;&lt;br&gt;이에 지난 21일 아이베는 당초 양측의 협력이 만료됐다며 광고 종료 이유를 밝혔다. 하지만 그로부터 이틀 후 회사 측은 공식 웨이보를 통해 허소은과의 협업으로 물의를 빚은 데 대해 다시 사과했다. 회사 측은 “아이베 브랜드는 조국을 사랑하고 국가 통일과 민족 단결을 옹호한다”며 “당사자 간 모든 협력을 종료한다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘강남역 연인 살인’ 대학생 첫 재판…“혐의 인정, 정신감정 받고싶어”</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/26/VO2ZW7NU55C23J4YJLEIXZAQJA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/26/VO2ZW7NU55C23J4YJLEIXZAQJA/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 26 Jul 2024 09:26:14 +0000</pubDate>
+      <content:encoded>서울 강남역 인근 건물에서 여자친구를 살해한 혐의로 재판에 넘겨진 대학생 최모(25)씨 측이 첫 재판에서 혐의를 인정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5U6HK3JS6BILFDT5XUSSHQCCTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여자친구를 흉기로 찔러 살해한 혐의(살인)를 받는 20대 의대생 최모씨가 지난 5월 14일 오전 서울 서초구 서초경찰서에서 검찰 송치를 위해 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최씨 변호인은 26일 서울중앙지법 형사27부(재판장 우인성) 심리로 열린 살인 혐의 첫 재판에서 “피해자를 살인했다는 공소사실은 모두 인정한다”고 밝혔다.&lt;br&gt;&lt;br&gt;최씨는 지난 5월 6일 오후 5시 20분쯤 서울 강남역 9번 출구 인근 15층 건물 옥상에서 흉기를 수차례 휘둘러 여자친구를 살해한 혐의를 받는다. 경찰에 따르면, 최씨는 범행 두 시간 전 집 근처인 경기 화성의 한 대형 마트에서 흉기를 산 뒤 피해자를 범행 장소로 불러냈다고 한다. 이 건물엔 영화관이 있는데, 둘은 이곳에서 자주 데이트를 한 것으로 전해졌다. 최씨는 서울의 한 명문대에 재학 중인 의대생인 것으로 파악됐다.&lt;br&gt;&lt;br&gt;검찰이 이날 법정에서 공개한 공소사실에 따르면 최씨는 연인 사이이던 피해자와 올해 4월 혼인신고를 했다. 하지만 이 과정에서 부모에게 알리지 않았는데, 피해자 부모가 이를 뒤늦게 알게된 뒤 혼인 무효 소송을 종용한 것으로 조사됐다. 결국 두 사람은 결별 문제 등으로 다퉜고, 여자친구가 헤어지자고 하자 최씨가 범행을 결심한 것으로 검찰은 판단했다.&lt;br&gt;&lt;br&gt;이날 최씨 측 변호인은 “피고인은 전과 없이 모범적으로 살아왔던 사람으로, 갑자기 중대 범죄를 저질렀다는 점에서 변호인으로 납득이 어려웠다”며 “범행 전 정신과 진단으로 복용한 약품이 불안장애·강박에 영향을 미쳤는지 판단을 위해 제대로 된 정신감정을 받아봤으면 한다”고 요청했다.&lt;br&gt;&lt;br&gt;이에 검찰은 반대하는 입장을 밝혔고, 재판부도 “정신감정보다는 복용한 약품의 부작용 등에 대해 사실조회를 하는 것이 좋을 것 같다”고 제안했다.&lt;br&gt;&lt;br&gt;아울러 이날 검찰과 변호인은 양형 증인으로 피해자 부친과 최씨의 모친을 신청해 채택됐다. 양형 증인이란 형량을 정하기 위해 재판부가 참고로 삼는 증인으로 재판부의 직권이나 검사·변호인의 요청 등으로 선정할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>속초 여행 모녀, 후진 차량에 참변…60대 운전자 “후진 급발진”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/26/5SZA7DXK3FEAJBHOKAJVMLXUYM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/26/5SZA7DXK3FEAJBHOKAJVMLXUYM/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 26 Jul 2024 09:18:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DUMQT623GXFZRZCNBWTNAUMWJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 24일 강원도 속초시 동명동에서 발생한 교통사고 현장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도 속초에서 60대 운전자가 후진을 하던 중 여행을 온 모녀를 덮치는 사고를 냈다. 이 사고로 40대 딸은 숨지고 60대 어머니는 크게 다쳤다.&lt;br&gt;&lt;br&gt;26일 경찰 등에 따르면 지난 24일 오후 6시13분쯤 속초시 동명동 영금정 인근 도로에서 60대 여성 A씨가 몰던 K8 승용차가 후진을 하던 중 보행자 2명과 차량 4대를 잇따라 들이받는 사고를 냈다.&lt;br&gt;&lt;br&gt;이 사고로 60대 여성 B씨와 40대 여성 C씨가 중상을 입고 병원으로 옮겨졌다. 모녀였던 두 사람은 경기 부천에서 속초로 여행을 왔다가 사고를 당한 것으로 알려졌다. 결국 40대 딸은 치료를 받던 중 숨졌다. 사고를 낸 60대 여성도 역시 여행을 왔던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;사고 운전자는 경찰 조사에서 ‘차에 문제가 있었다’는 취지로 말한 것으로 알려졌다. 후진하기 위해서 기어를 넣었는데 갑자기 속도가 빨라졌다는 것이다.&lt;br&gt;&lt;br&gt;경찰은 해당 승용차 블랙박스 영상과 사고기록장치 등을 분석해 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘9명 사망’ 시청역 역주행 운전자 구속영장 청구...30일 심사</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/26/5DZNUA53YJEGDDNQU3YHBZ56L4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/26/5DZNUA53YJEGDDNQU3YHBZ56L4/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 26 Jul 2024 08:59:33 +0000</pubDate>
+      <content:encoded>검찰이 9명의 사망자를 낸 서울 시청역 역주행 사고 운전자에 대해 26일 구속영장을 청구했다. 영장실질심사는 오는 30일 열린다.&lt;br&gt;&lt;br&gt;서울중앙지검은 이날 경찰의 신청을 받아들여 시청역 사고 가해 차량 운전자 차모(68) 씨에 대해 구속영장을 청구했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5RJRI6RH5ZINNL4LGAMEKMUQDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중구 시청역 교차로 인근에서 발생한 역주행 사고 현장에 추모 용품들이 놓여 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;차씨는 지난 1일 오후 9시 26분쯤 제네시스 G80 차량을 몰고 시청역 인근인 서울 소공동 웨스틴 조선호텔 맞은편 일방통행로를 역주행, 9명을 숨지게 하고 7명을 다치게 한 혐의(교통사고처리특례법상 치사)를 받는다.&lt;br&gt;&lt;br&gt;국립과학수사연구원은 차씨의 과실이 빚은 사고 가능성이 크다는 감정 결과를 내놨지만 차씨는 경찰 조사에서 “차량 결함으로 인한 사고”라는 입장을 고수해왔다. 국과수는 차씨가 사고 당시 가속페달을 90％ 이상 밟았으며 브레이크를 밟은 흔적은 없다고 판단했다.&lt;br&gt;&lt;br&gt;서울 남대문경찰서는 차씨가 범행을 부인하는 점, 피해 규모가 크고 회복이 이뤄지지 않은 점 등을 고려해 지난 24일 검찰에 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;차씨에 대한 영장실질심사는 오는 30일 오전 10시 30분 서울중앙지법 김석범 영장전담 부장판사 심리로 열린다. 차씨는 현재 수도권 한 요양병원에 입원 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>박성재 장관, 싱가포르 세계 법무장관 회의 참석</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/26/UPJWLX2QSBFV5DKIXN6WC44I6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/26/UPJWLX2QSBFV5DKIXN6WC44I6I/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 26 Jul 2024 09:00:00 +0000</pubDate>
+      <content:encoded>박성재 법무부 장관이 26일 싱가포르 열린 ‘싱가포르 세계 법무장관 회의’에 참석했다.&lt;br&gt;&lt;br&gt;법무부에 따르면, 박 장관은 루시엔 웡 싱가포르 검찰총장의 초청으로 이날 세계 법무장관 회의에 참석해 국제투자분쟁(ISDS)의 최신 동향 및 ISDS 대응 방안에 논의했다. 이날 회의에는 미국, 일본, 사우디아라비아, 인도 등 21개국에서 장관급 8명 등 고위급 인사들이 참석했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7PSJDM2HTNAXFDWM7F7QYPNJP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성재 법무부 장관이 26일 싱가포르에서 열린 '싱가포르 세계 법무부 장관 회의'에 참석하고 있다. /법무부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 장관은 비공개 회의에서 대한민국의 ‘ISDS 대응 체계 및 경험’을 주제로 한국의 ISDS 관련 분쟁 리스크 관리 방안 등을 설명했다.&lt;br&gt;&lt;br&gt;박 장관은 회의 참석을 계기로 싱가포르, 태국, 사우디아라비아 등 대한민국의 주요 공조국가 대표들과 개별적으로 양자회담을 실시하기도 했다.&lt;br&gt;&lt;br&gt;한편 박 장관은 전날 국제상설중재재판소(PCA) 125주년 기념행사에 참석해 마르신 체펠락 PCA 사무총장을 만나 향후 협력 방안에 대해 논의했다. 한국은 현재 PCA가 수행하는 중재 사건의 국내 유치를 위해 PCA 측과 소재지 협정 체결을 논의 중이다.&lt;br&gt;&lt;br&gt;박 장관은 또 세계 최초 통합 대체분쟁 해결 복합단지인 맥스웰 채임버스를 방문해 싱가포르 국제상사중재원(SIAC) 및 싱가포르 국제조정센터(SIMC)의 최신 동향을 파악했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title> ‘쌍방울 불법 대북송금’ 이재명 첫 재판, 다음달 27일 열린다</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/26/UDUYV7QTLNHDXJ2F5R6G24PCJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/26/UDUYV7QTLNHDXJ2F5R6G24PCJQ/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 26 Jul 2024 08:32:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3U567EDAOFLTNGTQT336XTN4ZU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 의원이 지난 25일 오후 서울 여의도 국회에서 열린 제416회국회(임시회) 제1차 본회의에서 머리를 만지고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘쌍방울 불법 대북 송금’에 연루된 혐의로 불구속 기소된 이재명 전 더불어민주당 대표의 첫 재판이 다음달 27일 시작된다.&lt;br&gt;&lt;br&gt;26일 법조계에 따르면, 수원지법 형사 11부(재판장 신진우)는 다음달 27일 오전 10시 이 전 대표와 이화영 전 경기도 평화부지사, 김성태 전 쌍방울 그룹 회장의 특정범죄 가중 처벌법상 제3자 뇌물, 외국환거래법 위반, 남북교류협력법 위반 혐의에 대한 공판준비기일을 진행한다.&lt;br&gt;&lt;br&gt;공판준비기일은 형사소송법상 쟁점 정리 등의 문제가 있는 사건의 경우에서 진행되는 것으로, 정식 재판을 준비하기 위한 절차다. 범죄 혐의에 관한 피고인들의 입장을 확인하고 증거조사를 계획하는데, 정식 공판과 달리 피고인이 법정에 출석할 의무는 없다.&lt;br&gt;&lt;br&gt;검찰은 이 전 대표가 경기도지사였던 2019년 당시 쌍방울 그룹의 대북 사업을 돕는 대가로, 경기도가 북한 측에 냈어야 할 스마트팜 사업비 500만 달러와 자신의 방북비 300만 달러 등 모두 800만 달러를 김 전 회장에게 대신 내도록 한 것으로 판단하고, 지난달 12일 그를 기소했다. 이 전 대표가 대북사업과 방북 성사 등을 통한 정치적 이익을 얻기 위해 사실상 쌍방울로부터 800만 달러에 달하는 뇌물을 받았다고 본 것이다.&lt;br&gt;&lt;br&gt;이 전 대표는 또 이 과정에서 세관 등 당국에 신고 없이 외화가 국외로 밀반출되고, 유엔(UN)의 대북 제재를 어기고 북한 측에 들어가는데 관여해 외국환거래법을 위반한 혐의도 받는다. 통일부 장관의 승인 없이 북한과 사업을 추진해 남북교류협력법을 위반한 혐의도 있다. 검찰은 이 전 부지사를 통해 대북송금 등이 이 전 대표에게 보고됐으며, 그의 승인 아래 이뤄졌다고 보고 있다.&lt;br&gt;&lt;br&gt;앞서 이 전 대표 측은 이 대북송금 재판을 서울중앙지법에서 받게 해달라는 취지의 신청서를 법원에 냈는데, 대법원은 지난 15일 이를 기각했다. 이에따라 이 전 대표는 서울중앙지법과 수원지법을 오가며 대장동, 위증 교사, 선거법 위반, 대북 송금 등 총 4건의 재판을 받게 됐다. 일주일에 최소 2회, 많게는 4회까지 서울과 수원을 오가며 재판에 출석해야 한다.&lt;br&gt;&lt;br&gt;한편, 이 사건 재판부는 같은 사건으로 기소된 이화영 전 경기도 평화부지사에게 유죄를 인정하고, 징역 9년 6개월의 중형을 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 유아인 사건 당시 남성 3명... 고소인 “劉, 내 몸에 주요 부위 삽입”</title>
       <link>https://www.chosun.com/national/national_general/2024/07/26/DXQDJIYOK5BFJAUNUE34XBMQ3M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/26/DXQDJIYOK5BFJAUNUE34XBMQ3M/</guid>
@@ -845,51 +899,6 @@
       </media:content>
     </item>
     <item>
-      <title>개인정보보호위, 中알리에 과징금 19억7800만 부과 </title>
-      <link>https://www.chosun.com/national/national_general/2024/07/25/25AQKS76ORC2BK735466HQQR64/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/25/25AQKS76ORC2BK735466HQQR64/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jul 2024 06:37:15 +0000</pubDate>
-      <content:encoded>중국 인터넷 쇼핑몰 알리익스프레스가 한국 고객의 정보를 중국 등 해외 판매업체 18만여곳에 넘기면서 정작 한국 고객에게는 어떤 정보가 어디에 넘어가는지 충분히 알리지 않은 것으로 조사됐다. 또 회원 탈퇴 메뉴를 찾기 어렵게 만들고, 계정 삭제 페이지를 영문으로 표시하기도 했다.&lt;br&gt;&lt;br&gt;개인정보보호위원회는 24일 전체회의를 열고 이같이 개인정보보호법을 위반한 알리에 과징금 19억7800만원, 과태료 780만원을 부과하기로 의결했다고 25일 밝혔다. 개인정보의 국외 이전 절차를 제대로 지키지 않아서 과징금을 부과한 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ARMJ73PARB2ALXMVQF6DPV4KSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;알리익스프레스 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;위원회 조사 결과, 알리는 한국 고객이 물건을 주문하면 이름과 전화번호, 주소, 은행계좌, 결제 카드번호 등 개인 정보를 판매자들에게 넘겼다. 직접 물건을 파는 게 아니라, 고객과 판매자를 연결해주는 ‘오픈마켓’ 형태이기 때문이다. 이에 따라 알리에 판매자로 등록된 회사 18만여곳에 한국 고객 정보가 전달됐다. 대부분이 중국 회사로 조사됐다.&lt;br&gt;&lt;br&gt;문제는 어떤 개인정보가 판매자에게 전달되는지, 어느 나라·회사로 가는지, 개인정보 이전을 거부하는 방법은 무엇인지 등 개인정보보호법에 따라 고객에게 알려줘야 하는 내용을 알리지 않은 것이다. 국내 고객들은 이 같은 사항을 알지 못한 채 자신의 정보가 해외로 나가는 데 동의했다.&lt;br&gt;&lt;br&gt;알리는 또 판매자와 계약을 맺을 때에도 법이 정한 개인정보 보호 조치 의무를 다하지 않은 것으로 조사됐다. 계약서에 ‘고객의 개인정보를 보호하기 위한 조치’ ‘개인정보 관련 분쟁이 발생했을 때 해결 방법’ 등을 명시했어야 하는데 이를 지키지 않았다.&lt;br&gt;&lt;br&gt;위원회는 알리가 회원 탈퇴를 어렵게 만든 것에 대해선 “이용자의 권리 행사를 방해한 행위에 해당한다”며 “탈퇴 절차를 간소화하라는 명령을 내렸다”고 했다.&lt;br&gt;&lt;br&gt;알리는 “위원회 의견을 적극 수렴해 소비자의 권익 보호를 위한 조치에 최선을 다할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;위원회는 또 다른 중국 쇼핑몰 테무에 대해선 추가 조사를 거쳐 제재 여부를 결정할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>숨진 4세 원생 유족 “보증금 올려 태권도장 급매로 내놔” 울분</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/25/4OE7URZUBJE5JNMA2KPGFG36N4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/25/4OE7URZUBJE5JNMA2KPGFG36N4/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jul 2024 05:59:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZMKNYEAXYYSLGGIQWDD5NY5DQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;자신이 운영하는 태권도장에서 4살 남자아이를 심정지 상태로 빠뜨린 관장이 19일 경기 의정부경찰서에서 검찰로 송치되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 양주시 태권도장에서 매트에 거꾸로 갇혀 의식불명에 빠졌던 4살 어린이가 사망했다. 유족은 관장이 제대로 된 사과도 하지 않은 채 태권도장을 급매에 내놨다며 “아이를 돈으로밖에 안 봤다는 얘기”라고 울분을 토했다.&lt;br&gt;&lt;br&gt;피해 아동의 삼촌인 유족 A씨는 25일 CBS 라디오 ‘김현정의 뉴스쇼’와의 인터뷰에서 “아이는 그냥 즐겁게 태권도장에 가서 운동하다가 책을 보면서 잠깐 쉬고 있었다고 한다”며 “관장이 그걸 탐탁지 않게 여겼던 것 같다”고 했다. 이어 “관장이 가만히 있던 아이의 다리를 잡아서 매트 위에서 두 바퀴 정도 빙글빙글 돌리다가 세워져 있는 매트에 거꾸로 넣었다는 것으로 알고 있다”고 했다.&lt;br&gt;&lt;br&gt;A씨에 따르면, 머리가 바닥을 향하도록 거꾸로 된 자세로 있던 피해 아동은 “살려 달라. 꺼내 달라”는 이야기를 했다. 태권도장에 있던 아이들이 그 목소리를 들었다고 한다. 그러나 관장은 “건들지 마. 꺼내주지 마”라고 이야기했고, 아이들은 관장의 말을 거스를 수 없었다고 A씨는 전했다.&lt;br&gt;&lt;br&gt;다른 사범이 피해 아동을 발견했을 때는 이미 숨을 쉬지 않는 상황이었다고 한다. 관장은 아이를 안고 상가 안에 있는 이비인후과 병원에 찾아갔다. 의사가 119에 신고했다.&lt;br&gt;&lt;br&gt;A씨는 “방범카메라(CCTV)를 의식한 것 같다”며 “통상 그런 상황이 발생하면 119를 부르지, 관계도 없는 이비인후과로 데려가지 않는다”고 했다. 이비인후과에서 의사가 심폐소생술을 하는 사이 관장은 CCTV를 삭제했다.&lt;br&gt;&lt;br&gt;A씨는 “사건 발생 다음 날 피해 아동을 큰 병원으로 옮긴 후에 관장이 합의 얘기를 했다”며 “그 이후로 관장의 가족들이 저희를 찾아오거나 사과를 한 어떤 정황도 없다”고 했다. 이어 “그사이에 한 행동이라고는 태권도장을 내놨다”며 “선전 멘트에 ‘관원 250명’을 적어 놓고, 보증금을 2000만원 정도 올려서 급매로 내놨다고 한다”고 했다. 그는 “이것만 봐도 관장은 단 하나도 손해 보고 싶지 않은 거고, 돈은 챙겨야겠고, (아이들을) 교육의 대상으로 생각한 게 아니라 다 돈으로밖에 안 봤다는 얘기지 않느냐”고 토로했다.&lt;br&gt;&lt;br&gt;A씨는 또 “관장의 아내가 다음 달 출산한다”며 “그래서 지인들이 감형을 위한 탄원서를 제출한다는 얘기를 들었다. 자기 아이가 죽었어도 탄원서를 얘기하고 돌아다니겠느냐”고 반문했다.&lt;br&gt;&lt;br&gt;지난 12일 오후 7시 20분쯤 양주시 덕계동의 한 태권도장에서 관장이 매트를 말아놓고 그사이에 피해 아동을 거꾸로 넣은 채 20분 이상 방치하는 사건이 발생했다. 피해 아동은 의식을 잃은 채 발견돼 병원으로 옮겨졌지만 23일 사망 판정을 받았다.&lt;br&gt;&lt;br&gt;경찰은 관장을 아동학대 중상해 혐의로 구속 수사해 지난 19일 검찰에 송치했다. 피해 아동이 사망함에 따라 관장에게 적용되는 혐의도 아동학대 치사 등으로 달라질 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>운전 중 휴대전화...스쿨존서 모녀 들이받은 버스기사 ‘징역 5년’ </title>
-      <link>https://www.chosun.com/national/incident/2024/07/25/NUUF2UBHQJBWJKJVGZYKO5M7MQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/25/NUUF2UBHQJBWJKJVGZYKO5M7MQ/</guid>
-      <dc:creator>의정부=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jul 2024 06:28:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VUYYTKLREKBDFD5X4RBWG3ELRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;운전 중 휴대전화를 보다가 신호를 위반해 어린이보호구역에서 횡단보도를 건너던 모녀를 치어 50대 어머니를 숨지게 한 버스 기사가 징역 5년을 선고받았다.&lt;br&gt;&lt;br&gt;25일 법조계에 따르면 의정부지법 형사11부(재판장 오창섭)는 특정범죄 가중처벌 등에 관한 법률(어린이보호구역 치상 등) 위반 혐의로 구속기소 된 60대 남성 A씨에게 징역 5년을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “사고 장소는 피고인이 매일 운전하며 지나가는 어린이보호구역 내 도로로, 당시 어린이들이 등원하는 시간이라는 인식을 피고인도 하고 있었음에도 휴대전화를 보며 전방 주시 의무를 소홀히 했다”며 “어머니를 잃은 유치원생 딸이 극도의 충격을 받는 등 피해자들의 피해가 크고 아직 피고인에 대한 엄벌을 요청하고 있다”고 양형 이유를 밝혔다. 이어 “다만 속도위반은 하지 않았고 보험에 가입된 점, 범죄 전력이 없는 점 등을 참작했다”고 설명했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 12월 4일 오전 8시 55분쯤 경기 의정부시 장암동의 한 도로에서 횡단보도를 건너던 50대 여성 B씨와 유치원생 6살 여아를 들이받은 혐의로 기소됐다. 이 사고로 B씨가 병원으로 옮겨졌으나 숨졌고, 유치원생인 B씨의 딸도 타박상을 입고 치료를 받았다.&lt;br&gt;&lt;br&gt;검찰은 “어린이 보호구역에서 전방 주시 의무 등을 어겨 결국 피해자를 사망에 이르게 했다”며 징역 7년을 구형했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“김건희 여사, 검찰 조사 때 ‘심려끼쳐 국민께 죄송’ 입장 밝혀”</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/25/QPT3HRIX4JCYFCVIJUC7CHOFTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/25/QPT3HRIX4JCYFCVIJUC7CHOFTM/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jul 2024 06:17:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O3QI2I3RTEUI7EJCXWTWZHOQTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 부인 김건희 여사가 지난 10일 오전 경기 성남시 서울공항에 도착해 순방길에 오르고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령의 부인 김건희 여사가 ‘디올백 수수 의혹’으로 검찰 조사를 받으면서 “국민들께 죄송하다”는 입장을 밝힌 것으로 25일 전해졌다.&lt;br&gt;&lt;br&gt;김 여사를 대리하는 최지우 변호사는 이날 한 유튜브 방송에서 “영부인이 지금까지 국민들한테 어떤 입장도 표명하신 적이 없었는데, 조사를 받기 전에 조서에는 기재되지 않았지만 ‘이런 자리에서 뵙게 돼 송구스럽다. 심려를 끼쳐드려 국민들에게 죄송하다’고 말씀드리고 성실히 조사에 임했다”고 했다. 김 여사가 조사를 받기 전에 비공식적이지만 사과 의사를 밝혔다는 것이다.&lt;br&gt;&lt;br&gt;최 변호사는 “이 사건의 경우 경위가 어찌 됐든 간에 (김 여사는) 국민들에게 죄송하다는 생각을 갖고 계신다”라며 “대통령이고 영부인이면 국민에게서 사랑을 받고 싶고, 잘해서 정말 정치 잘한다는 소리를 듣고 싶어 하잖나. 그런 기대치를 충족시켜 드리지 못한 부분에 대해서는 굉장히 죄송한 마음을 갖고 있다”고 했다.&lt;br&gt;&lt;br&gt;최 변호사는 일각에서 ‘특혜 조사’라는 비판이 나오는 데 대해 “특혜라고 하는 것은 제 입장에서는 도저히 납득할 수 없고 너무나도 억울하다”면서 “건국 이래 대통령실에서 이렇게 수사에 협조한 적이 없다”고 했다.&lt;br&gt;&lt;br&gt;최 변호사는 “현직 영부인이 처벌 규정도 없는 사건에서 헌정사 최초로 대면조사를 받았다”라며 “명품백 사건의 경우 처벌 규정이 없기 때문에 신분이 피의자일지 모르지만 거의 참고인에 불과해 강제로 소환할 수 있는 법적 근거는 전혀 존재하지 않는 상황이었다”고 했다. 또 “제3의 장소를 선택한 것은 (보안과 경호를 위한) 불가피한 선택이었지 특혜를 주기 위한 부분은 아니었다”고 했다.&lt;br&gt;&lt;br&gt;김 여사는 지난 20일 ‘도이치모터스 주가조작 의혹’과 ‘디올백 수수 의혹’ 사건으로 13시간 가까이 검찰 조사를 받았다. 조사는 서울 종로구 창성동에 있는 대통령경호처 부속청사에서 이뤄졌다. 현직 대통령 부인의 검찰 소환 조사는 처음이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이숙연, 딸 비상장 주식 매수에 “요즘은 돌에 금반지 아닌 주식 사줘”</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/25/XZIKW4JBWRGKLLCZPQI7DUABVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/25/XZIKW4JBWRGKLLCZPQI7DUABVM/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jul 2024 05:05:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IYDINLBKXFLHXJ77A2AU4DO3XI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이숙연 대법관 후보자가 25일 국회에서 열린 인사청문회에서 위원들 질의에 답변하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이숙연(56·사법연수원 26기) 대법관 후보자가 어린 자녀에게 아버지 돈으로 비상장 주식을 매입한 것에 대해 “요즘은 아이들 돌일 때 금반지를 사주지 않고 주식을 사준다”고 말했다.&lt;br&gt;&lt;br&gt;이 후보자는 25일 국회에서 열린 대법관 후보자 인사청문회에서 자녀들의 주식 매수에 대한 질문에 대해 이같이 답했다. 이 후보자의 딸과 아들은 8살, 6살 때인 2006년 각각 300여만원을 증여받아 이 후보자 남편 친형이 운영하는 버스회사의 비상장 주식을 샀다. 자녀들은 작년 11월 주식을 4000만원에 팔아 13배가 넘는 시세 차익을 봤다. 또 투자 금액보다 훨씬 많은 돈을 배당금으로 받았다.&lt;br&gt;&lt;br&gt;더불어민주당 백혜련 의원이 “자녀가 10살도 되기 전 ‘알짜 황제주식’으로 자녀들이 배당받게 하고, 팔아서는 13배의 시세 차익을 누렸다”고 지적하자, 이 후보자는 “(주식을) 매수할 때는 시세 차익을 얻을 것이라 생각하지 못했다”고 답했다. 그러면서도 “요즘 아이들 돌일 때 금반지 대신 주식을 사준다. 아이들 미래 위해 투자하는 것이고 저희도 마찬가지”라며 “이를 편법 증여로 폄하하면, 자녀들에게 주식을 사서 주는 부모들 마음은 다 그렇게 비난받아야 하는 것인지 여쭤보고 싶다”고 항변했다.&lt;br&gt;&lt;br&gt;이후 민주당 허영 의원이 “후보자는 여러 재산상의 문제에 대해 소명하고 잘못을 인정해 기부하겠다고 했는데, 이 답변이 맞는다고 생각하느냐”고 질책하자 이 후보자는 “매우 부적절했다고 생각한다”고 사과했다. 이 후보자는 “자녀들에 대한 말씀을 하셔서 제가 평정심을 잃은 것 같다”고 해명했다.&lt;br&gt;&lt;br&gt;이 후보자는 “자녀가 부모 찬스로 너무 큰 자산을 형성했다는 비판이 있다”는 국민의힘 박준태 의원의 지적도 받아들였다. 이 후보자는 “국민 눈높이에 맞지 않는 부분 때문에 심려를 끼쳐 송구하다”면서 “남편이 나이도 많고 건강도 좋지 않은데, 늦게 본 딸자식에 대해 경제적으로 자립할 기반을 마련해준다는 마음에 조급해서 이런 잘못을 한 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>삼겹살 시켰더니 사탕 한알 달랑 보내고…“정산 받으면 보내주겠다”</title>
       <link>https://www.chosun.com/national/national_general/2024/07/25/6NJJRAEJX5EYFLUQKIGM5G3DBQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/25/6NJJRAEJX5EYFLUQKIGM5G3DBQ/</guid>
@@ -910,15 +919,6 @@
         <media:description type="plain">세종대 제15대 엄종화 총장이 취임식에서 취임사를 하고 있다. /사진= 세종대학교</media:description>
         <media:credit role="author" scheme="urn:ebu">사진= 세종대학교</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>검찰, ‘법카로 식사제공’ 김혜경에 벌금 300만원 구형...“반성 안 해”</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/25/KF3MRTCE6BASVBLGPT4LLCPIOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/25/KF3MRTCE6BASVBLGPT4LLCPIOE/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jul 2024 02:04:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JPA3EDLFINIHLMKHNPURDWHW7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 제20대 대통령 선거와 관련한 공직선거법 위반 혐의로 재판에 넘겨진 더불어민주당 이재명 전 대표의 배우자 김혜경 씨가 지난 10일 오전 경기도 수원시 영통구 수원지방법원에서 열리는 공판에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 대선 경선 과정에서 ‘경기도 법인카드’로 더불어민주당 의원 배우자 등에게 식사를 제공한 혐의로 기소된 이재명 전 더불어민주당 대표의 아내 김혜경씨에게 검찰이 25일 벌금 300만원을 구형했다.&lt;br&gt;&lt;br&gt;이날 수원지법 형사13부(재판장 박정호) 심리로 열린 김씨의 공직선거법 위반 사건에 대한 결심 공판에서 검찰은 이같은 형을 선고해달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;검찰은 “피고인이 배우자인 이재명 전 경기도지사를 대선 후보로 당선되게 하기 위해 유력 정치인들인 전·현직 국회의원 배우자를 매수하려 한 사건”이라며 “금액과 관계 없이 죄질이 중하고, 피고인의 추가 기부행위는 4건으로, 계속적·반복적·조직적으로 이뤄져 추가 기부행위 범행도 양형에 반영될 필요가 있다”고 했다. 다만, 검찰은 “본건을 제외한 나머지 4건은 공소시효 만료로 기소하지 못했다”고 설명했다.&lt;br&gt;&lt;br&gt;검찰은 또 “피고인은 (비서)배모씨를 이용해 본건 범행을 저지르며, 공무원을 선거에 이용했다”며 “엄정하게 법을 집행해야 한다”고 했다. 검찰은 김씨의 태도를 두고 “피고인의 범행은 명백하게 인정되는데 (검찰이) 증거 없이 기소한 듯 정치적 공격으로 쟁점을 흐리고 시종일관 범행을 부인하고 있다”며 “자신의 수하인 배씨에게 모든 책임을 전가하는 등 반성의 기미가 보이지 않는다”고 했다. 검찰은 “본건 범죄의 중대성, 추가 기부행위, 공무원 동원 등 조직적 범행 성격, 부하에게 책임을 전가하는 행태가 양형요소로 반영돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 경기도지사로 재임하던 이 전 대표가 당내 경선 출마를 선언한 이후인 지난 2021년 8월 2일 서울 광화문 근처의 한 음식점에서 민주당 중진 의원의 아내 등 3명 및 자신의 운전기사, 변호사 등에게 10만4000원 상당의 식사를 제공해 공직선거법상 기부행위 금지를 위반한 혐의를 받는다. 검찰은 김씨가 당시 자신의 수행비서인 전 경기도 사무관 배모씨에게 경기도 법인 카드로 식사비를 결제하게 한 것으로 보고, 지난 2월 불구속 기소했다.&lt;br&gt;&lt;br&gt;검찰은 이 사건을 폭로한 공익제보자 조명현씨(전 경기도 별정직 7급 공무원)가 제보한 조씨와 배씨의 텔레그램 대화 내용, 통화 녹취 등 증거를 바탕으로 배씨가 경기도 법인카드로 결제한 초밥과 회덮밥 등 음식을 여러 차례 이 전 대표의 자택인 성남시 수내동 아파트로 배달해 김씨에게 제공한 사실 등을 파악했다. 검찰은 이날 식사 역시 이런 과정에서 김씨의 지시로 배씨가 결제한 것으로 파악했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFGIRJQTDTN7QWEBYYF73VS4V4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 전 대표(오른쪽)와 부인 김혜경씨. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 2022년 9월 공범인 배씨를 먼저 기소했다. 배씨는 지난 2월 14일 수원고법에서 열린 항소심에서 1심과 마찬가지로 징역 10개월에 집행유예 2년을 선고받고 항소하지 않아 형이 확정됐다.&lt;br&gt;&lt;br&gt;검찰은 선거법 위반 사건과 별개로 김씨와 배씨의 경기도 법인카드 유용 의혹(업무상 배임 혐의)에 대해서는 아직 수사 중이다. 지난해 10월 국민권익위원회가 이 전 대표 부부 등이 법인 카드를 유용한 의혹이 짙다며 검찰에 수사 넘긴 사건이다. 이 사건을 수사 중인 수원지검 공공수사부(부장 허훈)는 이 전 대표 부부에 대한 소환 조사 일정을 조율하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>도박 자금 마련하려고...8000만원 받고 토익 답 알려준 전직 강사 징역 3년</title>
