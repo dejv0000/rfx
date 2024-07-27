@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>계속되는 ‘찜통 더위’…전국 곳곳에 강한 소나기</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/07/27/N4DFN7ON25F57MQTGP5CIF3RGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/27/N4DFN7ON25F57MQTGP5CIF3RGI/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Jul 2024 08:38:38 +0000</pubDate>
+      <content:encoded>일요일인 28일엔 전국에 찜통 더위가 계속되는 가운데 전국 대부분 지역에 돌풍, 천둥·번개를 동반한 강한 소나기가 내리겠다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PSPSYB2ICU422SKFV3TMLEZXKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 오후 인천 미추홀구 터미널사거리에서 시민들이 강한 소나기에 발걸음을 재촉하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청에 따르면 28일 오후 서울·경기내륙과 강원내륙·산지, 충청권, 전북, 전남동부, 경북권, 경남에 소나기가 내리는 곳이 있겠다. 일부 지역에서는 돌풍과 함께 천둥·번개를 동반한 시간당 30㎜ 내외의 강한 소나기가 내리겠다.&lt;br&gt;&lt;br&gt;예상 강수량은 서울·경기내륙 5~40㎜, 강원내륙·산지 5~40㎜, 대전·세종·충남·충북 5~40㎜, 전남동부·전북 5~40㎜, 경북·경남 5~40㎜ 등이다. 전국적으로 발효된 폭염 특보가 유지되면서 최고 체감온도가 35도 내외로 오르는 등 무더운 날씨도 이어지겠다.&lt;br&gt;&lt;br&gt;전국에 흐린 날씨가 지속되는 가운데 아침 최저기온은 24∼28도, 낮 최고기온은 31∼36도로 예보됐다. 비가 내리는 지역에서는 일시적으로 기온이 내려가지만, 비가 그친 뒤엔 습도가 높은 상태에서 다시 기온이 오르겠다.&lt;br&gt;&lt;br&gt;당분간 전국 대부분 지역에서 무더운 날씨가 이어지고, 열대야가 나타나는 곳도 있어 건강 관리에 유의해야 한다. &lt;br&gt;&lt;br&gt;또한 짧은 시간에 강한 비가 내리면서 하천의 물이 갑자기 불어날 수 있다. 하천 인근 야영을 자제하고, 강우로 인한 토사유출 등에 주의해야겠다.&lt;br&gt;&lt;br&gt;미세먼지 농도는 전국이 ‘좋음’ 수준을 보이겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“아빠 폰에 모르는男 알몸 사진이…” 동성 연인과 바람난 남편</title>
       <link>https://www.chosun.com/national/national_general/2024/07/27/LSSP2BPRPRGLZLP6HCOXNGPVVQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/27/LSSP2BPRPRGLZLP6HCOXNGPVVQ/</guid>
@@ -934,15 +943,6 @@
       <description/>
       <pubDate>Thu, 25 Jul 2024 15:45:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DL2QLEZFPJF3DKU4SOPBZY5OTY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 교육부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/07/26/FP77ECBUJRCKFLDVWCFJMAB4R4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/07/26/FP77ECBUJRCKFLDVWCFJMAB4R4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jul 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;b&gt;▲교육부&lt;/b&gt;▷의원면직 별정직공무원(3급 상당) 황보은▷장관 정책보좌관 별정직공무원(3급 상당) 김효은&lt;br&gt;&lt;br&gt;&lt;b&gt;▲해양수산부&lt;/b&gt;◇과장급 전보▷수출가공진흥과장 윤상훈▷수산자원정책과장 박영호▷어선안전정책과장 임태호(이상 7월 28일자)▷남해어업관리단장 안명호(이상 7월 31일자)&lt;br&gt;&lt;br&gt;&lt;b&gt;▲국토교통부&lt;/b&gt;◇과장급 임용▷도시정비지원과장 유지만◇과장급 전보▷부산지방국토관리청 건설안전국장 김성진&lt;br&gt;&lt;br&gt;▲&lt;b&gt;인사혁신처&lt;/b&gt;◇과장급 전보▷기획조정관실 국제협력담당관 송지연&lt;br&gt;&lt;br&gt;▲&lt;b&gt;경기도의회&lt;/b&gt;▷의회운영수석전문위원 이민재▷교육행정수석전문위원 전은경▷특별수석전문위원 배영철▷인사담당관 강석봉&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한겨레신문사&lt;/b&gt;▷뉴스총괄부국장 신승근▷뉴콘텐츠부국장 전정윤▷디지털부국장 김수헌▷신문부국장 이지은▷이슈부국장 이순혁&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조선일보&lt;/b&gt;▷정보보호실장 겸 CISO 나민수▷디지털마케팅팀장 김태은&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[우리 아이 이럴땐 어떻게?] 친구 스타일 따라하는 아이… 참견 대신 친구관계 응원을</title>
