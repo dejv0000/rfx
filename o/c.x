@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>울산 에쓰오일 공장서 대형 화재...소방대응 2단계 발령</title>
+      <link>https://www.chosun.com/national/2024/07/28/IQYW23VSPRARXIAYURM2QQDWVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/07/28/IQYW23VSPRARXIAYURM2QQDWVM/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Jul 2024 22:08:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RX4NWJU7BU766JOSN2P3LCXAXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 새벽 울산 에쓰오일 온산 공장에서 화재가 발생했다. /뉴스1(온라인 커뮤니티 갈무리)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;에쓰오일 울산 온산공장에서 큰불이 나 소방대응 2단계가 발령됐다.&lt;br&gt;&lt;br&gt;28일 울산소방본부에 따르면 이날 오전 4시 47분쯤 울산 울주군 에쓰오일 온산공장에서 화재가 났다.&lt;br&gt;&lt;br&gt;소방당국에 “폭발음과 함께 연기가 보인다”는 신고가 접수됐다고 한다.&lt;br&gt;&lt;br&gt;화재 발생 직후 소방당국은 화재 대응 1단계(인근 3개~7개 소방서에서 31대~50대의 장비를 동원하는 경보령)를 발령했다. 하지만 불길이 거세다는 판단에 약 40분 후인 오전 5시 20분쯤 대응 2단계(인근 8개~14개 소방서에서 51대~80대의 장비를 동원하는 경보령)로 격상했다.&lt;br&gt;&lt;br&gt;이에 따라 현재 헬기와 특수차 등 장비 31대와 인원 71명이 투입돼 불길을 잡고 있다.&lt;br&gt;&lt;br&gt;현재까지 인명피해는 없는 것으로 전해졌다. 하지만 연기가 퍼져 나가면서 지자체에서는 인근 지역 주민에게 “창문을 닫고 환기 시설 사용중지 및 야외활동 자제” 등을 당부하는 안전 안내문자를 발송했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJYEP376IZEZFCI3FQ5AYIJ7TY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오전 4시 47분쯤 울산 울주군 에쓰오일 온산공장에서 화재가 났다. /울산소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰총장 “쯔양 사건 병합 수사하라”…구제역 구속에 숨은 수사기법</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/28/HPAZVRTCNRHBLCDPJ4MYD7JGWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/28/HPAZVRTCNRHBLCDPJ4MYD7JGWE/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Jul 2024 22:03:45 +0000</pubDate>
+      <content:encoded>[사건노트]는 부장검사 출신 김우석 변호사가 핫이슈 사건을 법률적으로 풀어주고, 이와 관련된 수사와 재판 실무를 알려드리는 코너입니다. 이가영 기자가 정리합니다.﻿&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FLRFH2F56F3R7PB7RJQSO2LXPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;먹방 유튜버 '쯔양'(본명 박정원)을 협박해 돈을 갈취한 혐의를 받는 유튜버 구제역(본명 이준희)이 26일 오전 영장실질심사를 받기 위해 수원지법에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 26일 먹방 유튜버 쯔양(본명 박정원)을 협박해 돈을 뜯은 유튜버 구제역(본명 이준희)과 주작감별사(본명 전국진)가 구속됐다. 검찰총장이 ‘구속 수사’ 등 엄정 대응을 지시하자, 검찰은 17일 피해자 쯔양 조사, 18일 압수수색, 23일 구속영장을 청구했다. 그야말로 속전속결이다. &lt;br&gt;&lt;br&gt;한편, 이 사건의 핵심 인물로 쯔양 전 남자친구의 변호사가 등장했다. 쯔양은 그를 공갈과 업무상비밀누설 혐의로 고소했다. 변호사가 자신이 수임했던 사건에서 알게 된 정보를 활용해 공갈했다면, 매우 충격적인 사건이다. 쯔양 사건의 법률적 의미와 전망을 알아보자. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇검찰총장의 ‘병합 수사’ 지시, 구제역 구속에 어떤 영향 미쳤나&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Q. &lt;/b&gt;이원석 검찰총장은 “동일인이 여러 건의 악성 콘텐츠를 게시하는 범죄를 저지른 경우, 병합해서 수사하라”는 지시를 했습니다. 이건 어떤 의미인가요?&lt;br&gt;&lt;br&gt;&lt;b&gt;A. &lt;/b&gt;구속 등 엄벌할 방법을 강구하라는 취지입니다. 예컨대, 특정인이 ①, ②, ③, ④ 범죄를 저질렀을 때, 4개의 범죄를 4개의 사건으로 수사하면, 처벌도 4개로 분산되므로 개별사건의 처벌 수위는 낮아집니다. 권투로 치면, 잽을 몇 대 맞고 끝나는 거죠. &lt;br&gt;&lt;br&gt;하지만, 4개의 범죄를 합쳐서 1건으로 수사하면 한꺼번에 처벌을 받습니다. 처벌 수위가 높아집니다. 잽을 모아서 묵직한 카운터 펀치 한방으로 만들라는 것입니다.&lt;br&gt;&lt;br&gt;수사기관에서 이렇듯 특정인에 대한 사건을 모아서 1개의 사건으로 만들어 수사하는 경우가 있습니다. 개별 사건으로는 구속 사안이 아니지만, 이를 합치면 구속 사안으로 변합니다. 엄벌이 필요하다고 판단될 때 사용하는 수사기법입니다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇쯔양에게 고소당한 변호사 “법 위반 사실 없다”고 말한 이유는&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4EI6QQQNB5G3LDHSYCB66HLDTQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;쯔양의 과거 정보를 유튜버 구제역에게 유출했다는 의혹을 받는 변호사 A씨가 올린 블로그 글. /네이버블로그&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Q. &lt;/b&gt;쯔양이 유흥주점에서 일한 적이 있다는 사실을 유튜버 구제역에게 알려준 사람이 변호사 A씨로 드러났습니다. A씨는 쯔양이 전 남자친구 B씨를 고소한 사건에서 B씨를 변호한 사람입니다. A씨가 변호사 직무 중에 알게 된 쯔양의 과거를 누설한 것인데, 이래도 되나요?&lt;br&gt;&lt;br&gt;&lt;b&gt;A. &lt;/b&gt;쯔양 측에서는 A씨의 행위가 업무상비밀누설죄에 해당한다며 고소했습니다. 우리 형법은 ‘변호사가 직무처리 중 취득한 타인의 비밀을 누설’한 경우 형사 처벌합니다. 변호사는 직무수행 중에 다른 사람의 비밀을 접할 수밖에 없으므로, 개인의 사생활 보호를 위해 변호사에게 비밀 유지 의무를 부과한 것입니다.&lt;br&gt;&lt;br&gt;그런데, 업무상비밀누설죄는 기본적으로 변호사가 ‘자기 의뢰인’의 비밀을 누설하는 것을 처벌하는 것입니다. 이런 측면에서, A변호사가 자기 의뢰인 B씨와 ‘대립하는 당사자’였던 쯔양의 비밀을 누설했다고 해서, 업무상비밀누설죄가 성립한다고 볼 것인지는 법리적으로 의문이 있습니다.&lt;br&gt;&lt;br&gt;그렇기에 A변호사는 자신의 블로그에 “업무상 취득은 의뢰인 정보를 말하는데, 당시 쯔양은 제 의뢰인도 아니었고 해당 내용은 업무 범위의 정도도 아니었다. 법 위반 사실은 없다”고 말했을 것입니다. &lt;br&gt;&lt;br&gt;하지만, A변호사는 B씨를 변호하다가, B씨와 법률 다툼을 벌이던 쯔양 측의 언론 관련 업무를 봐주는 변호사로 변신하기도 했습니다. 이를 고려할 때, A씨가 쯔양의 비밀을 누설한 것이 업무상비밀누설죄에 해당할 수도 있습니다. 아직은 섣불리 판단하기 어렵고, 수사 결과를 지켜봐야 할 것입니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OO6XJEUERU7GIS3DHS3LSIY7UE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;쯔양 측 법률대리인 김태연 변호사(왼쪽)와 쯔양. /유튜브 '쯔양'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Q.&lt;/b&gt; 쯔양은 A변호사를 공갈 혐의로도 고소했습니다. 어떻게 전망하시나요?&lt;br&gt;&lt;br&gt;&lt;b&gt;A. &lt;/b&gt;만약 A변호사가 쯔양을 협박해서 돈을 뜯어냈다면, 공갈죄가 성립할 것입니다.&lt;br&gt;&lt;br&gt;언뜻 생각해 볼 때, 쯔양과 대립하는 B씨를 변호하던 A씨가 쯔양의 고문 변호사로 변신해서 돈을 받는 건 상당히 어색하기는 합니다. 이 과정에서, A변호사도 구제역과 같이 쯔양의 과거를 폭로할 듯한 태도를 보여서 고문료를 받았다면, 공갈죄가 성립할 수 있습니다. 고문료를 빙자하여 돈을 뜯어낸 것이기 때문입니다.&lt;br&gt;&lt;br&gt;A씨가 구제역의 공갈에 가담했고, 구제역이 쯔양에게 뜯어낸 돈을 분배받았다면, 이건 공갈죄의 공범이 될 수 있습니다. &lt;br&gt;&lt;br&gt;다만 A변호사는 “(내가) 준 자료로 돈 뜯는 줄은 상상도 못 했다”며 자신은 구제역의 행위를 몰랐다고 주장했습니다. 그렇기에 구체적인 사실관계가 확인될 때까지 수사 결과를 기다려봐야 할 것입니다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇경찰 대신 직접 수사한 검찰, 유명인 특혜?&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QFA5SYFZA5DD5AUIIEIVQ5RQYE.png"&gt;&lt;figcaption&gt;&lt;small&gt;사이버 레커 유튜버 자료사진. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Q. &lt;/b&gt;쯔양 사건을 통해 ‘법을 초월한 참교육’, ‘사적 제재’를 외치던 사이버 레커 유튜버들의 횡포가 드러났다는 평가가 나옵니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;A. &lt;/b&gt;일부 사이버 레커 유튜버들이 특정인의 악행을 폭로해 이슈를 만들거나, 망신을 주는 등 사적 제재를 가하는 사례가 늘고 있습니다. 이러한 행위는 명예훼손에 해당할 수 있는데, 그 처벌이 벌금에 그치는 경우가 많아 처벌을 감수하면서 지속적인 폭로 콘텐츠를 만드는 일이 반복되고 있습니다. &lt;br&gt;&lt;br&gt;명예훼손을 통한 사적 제재는 불법입니다. 특히, 수십만 구독자를 보유한 사이버 레커 유튜버가 이를 행하면, 상대방은 심각한 피해를 입습니다. 체면을 중시하는 우리 사회에서 이런 망신을 당하면 정상적인 사회생활이 어렵습니다. 얼굴을 들고 다닐 수 없게 되죠. &lt;br&gt;&lt;br&gt;게다가, 이러한 폭로 콘텐츠가 허위 내용이라면 피해는 더욱 심각합니다. 폭로하겠다고 협박하면서 돈까지 뜯어냈다면? 그야말로 최악입니다. &lt;br&gt;&lt;br&gt;&lt;b&gt;Q.&lt;/b&gt; 검찰은 경찰에 사건을 내려보내는 대신 직접, 또 빠르게 수사해 가해자를 구속했습니다. 잘했다는 평가도 있지만, 유명인 특혜라는 비판도 있는데요?&lt;br&gt;&lt;br&gt;A. 저는 검찰 수사가 적절했다고 생각합니다. 일부 사이버 레커 유튜버들의 불법적 행태는 도를 넘고 있습니다. 쯔양 사건은 이에 대한 리딩 케이스(leading case)가 될 것입니다. 이들에게 경종을 울렸을 것이고, 유사한 피해를 예방하는 효과도 있을 겁니다. 이처럼 리딩 케이스를 만드는 수사는 검찰이 꼭 수행해야 할 역할입니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KPY4ORBUOJC6FHHJQQPAILRQRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김우석 법무법인 명진 대표 변호사. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[이별전쟁] 강간죄로 그놈 고소하려하자 머뭇댄 아내... 남편의 선택은</title>
       <link>https://www.chosun.com/national/court_law/2024/07/28/4QFJSYTP7VGQ3JNEMRATLU2KAI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/28/4QFJSYTP7VGQ3JNEMRATLU2KAI/</guid>
@@ -934,22 +952,6 @@
         <media:description type="plain">러닝 크루들이 횡단보도, 차도 한복판, 교통섬 등에 모여 기념사진을 촬영하고 있다. /인스타그램</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2429] 날씨 따라 삼천리</title>
-      <link>https://www.chosun.com/national/nie/2024/07/26/LZIOOXBOH5CC5OAE3ROTRLAALQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/26/LZIOOXBOH5CC5OAE3ROTRLAALQ/</guid>
-      <description/>
-      <pubDate>Thu, 25 Jul 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TPZUPOVBUBD5JKUPQ56IQFOHZA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 천상천하(天上天下)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/26/WFEIYQKSG5FKNLNGPUE3DVRCL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/26/WFEIYQKSG5FKNLNGPUE3DVRCL4/</guid>
-      <description/>
-      <pubDate>Thu, 25 Jul 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SDBJM2IEQNBVBMDWRVGOCOCSIM.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[우리 아이 이럴땐 어떻게?] 친구 스타일 따라하는 아이… 참견 대신 친구관계 응원을</title>
