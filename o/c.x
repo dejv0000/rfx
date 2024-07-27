@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>연이은 경찰관 사망에 내부 술렁.. 윤희근 경찰청장 “유족 최대한 지원할 것”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/27/T6BTKJNNZJBT3GNV3O7MOR3NCA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/27/T6BTKJNNZJBT3GNV3O7MOR3NCA/</guid>
+      <dc:creator>김보경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Jul 2024 10:36:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LLQLHN56CYHUYRG4ZT3VD5RXDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤희근 경찰청장이 행정안전위원회 전체회의에 출석해 의원 질의에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 한달간 경찰관들이 목숨을 잃는 일들이 생기면서 경찰 내부에서는 업무 과중에 대한 이야기가 끊이질 않고 있다.&lt;br&gt;&lt;br&gt;26일 경찰에 따르면 서울 관악서 수사 부서에서 일하던 30대 A경위가 지난 19일 스스로 목숨을 끊었다. 전국경찰직장협의회(경찰직협)가 공개한 A경위의 생전 카카오톡 대화방 내용을 보면 A경위는 지난 2월 수사 부서에서 근무를 시작한 뒤 동료들에게 ‘사건이 73개’라며 힘들다는 취지의 메시지를 보냈다고 한다.&lt;br&gt;&lt;br&gt;A경위 사망 이후 관악서 앞에는 근조 화환 수십개가 늘어섰다. 화환에는 ‘지켜주지 못해 미안합니다’, ‘젊은 수사관의 죽음을 가벼이 여기지 말라’는 등의 문구가 쓰였다.&lt;br&gt;&lt;br&gt;같은 날 서울 동작경찰서 경무과 소속인 김 경감은 늦은 밤까지 업무를 수행하다 뇌출혈로 쓰러진 채 사무실에서 발견됐다. 김 경감은 발견 직후 병원으로 옮겨졌으나 27일 끝내 숨졌다.&lt;br&gt;&lt;br&gt;27일 김 경감의 빈소를 찾은 윤희근 경찰청장은 “순직 인정에 차질이 없도록 하겠다”며 유가족에 대한 지원을 약속했다. 경찰청에 따르면 윤 청장은 이날 오후 2시 서울 동작구의 한 종합병원에 마련된 김 모 경감의 빈소를 찾아 조문했다.&lt;br&gt;&lt;br&gt;윤 청장은 유가족과 만난 자리에서 “장례 절차와 순직 인정에 차질이 없도록 해 고인에 대한 예우를 다하겠다”며 “어린 자녀가 성년으로 성장할 때까지 경찰 조직 차원에서 최대한 지원할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;윤 청장은 빈소를 찾은 민관기 전국경찰직장협의회 위원장과도 만나 경찰관들의 애로사항 등 현장 목소리를 듣고 소통하는 시간을 갖을 것을 약속한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;    &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>계속되는 ‘찜통 더위’…전국 곳곳에 강한 소나기</title>
       <link>https://www.chosun.com/national/transport-environment/2024/07/27/N4DFN7ON25F57MQTGP5CIF3RGI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/27/N4DFN7ON25F57MQTGP5CIF3RGI/</guid>
@@ -935,14 +944,6 @@
       <description/>
       <pubDate>Thu, 25 Jul 2024 15:45:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NLQY2VHZ65DM3INRFXTQOSCPYA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] under pressure</title>
-      <link>https://www.chosun.com/national/nie/english/2024/07/26/XQCNHTS27RBSRMDGUYTQSZVXRE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/07/26/XQCNHTS27RBSRMDGUYTQSZVXRE/</guid>
-      <description/>
-      <pubDate>Thu, 25 Jul 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DL2QLEZFPJF3DKU4SOPBZY5OTY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[우리 아이 이럴땐 어떻게?] 친구 스타일 따라하는 아이… 참견 대신 친구관계 응원을</title>
