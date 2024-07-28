@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>수습기간 중 구두로만 이뤄진 사직 권고에 퇴사…법원 “부당 해고”</title>
+      <link>https://www.chosun.com/national/regional/2024/07/28/VJXS2X7LBZEL3FF6KRRWM667HE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/28/VJXS2X7LBZEL3FF6KRRWM667HE/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 28 Jul 2024 02:53:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMGA4NO5BFCJ5KDLOB6HLA3DWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지방·고등법원. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수습기간 중인 계약직 근로자라도 서면 통보 없이 사용자의 일방적인 구두권고로 이뤄진 퇴사는 부당하다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대구지법 민사13부(재판장 권순엽)는 사립대 계약직 근로자였던 A씨가 B학교법인 등을 상대로 낸 해고 무효확인 소송에서 원고 승소 판결을 했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2022년 11월 B학교법인이 운영하는 학교에 계약직 관리사무원으로 채용돼 법인 대표인 이사장 수행 기사 업무를 맡았다. 근로계약에 따라 A씨는 우선 수습 직원 신분으로 업무를 시작했다. 그러다 3개월 정도로 예정된 수습 기간이 끝나기 전인 지난해 1월 이사장 면담 후 권고사직 요청에 따라 퇴사했다.&lt;br&gt;&lt;br&gt;이에 A씨는 지난해 작년 9월 “정당한 이유 없이 해고됐고, 이 과정에서 근로기준법이 정한 절차도 지켜지지 않았다”며 학교법인을 상대로 소송을 제기했고, 학교 법인 측은 “A씨와 합의로 근로계약을 해지했고, 이를 해고로 보더라도 수습 기간 중이라 통상의 경우보다 해고 제한이 완화된다”고 맞섰다.&lt;br&gt;&lt;br&gt;이에 대해 재판부는 “A씨 의사에 반해 피고 측 일방적인 의사표시로 근로계약이 종료된 만큼 원고에 대한 사직 권고와 이에 따른 퇴사는 실질적으로 해고에 해당한다. 또 이 과정에서 피고 측이 근로기준법에 따라 원고에게 해고 사유와 시기를 서면으로 통지하지 않은 만큼 해고는 무효”라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘유명 DJ’ 페기 구 성수동 공연, 인파 몰려 중단… 5명 호흡곤란 호소</title>
+      <link>https://www.chosun.com/national/incident/2024/07/28/IMZGQMB5ZBBB3DNFIG6HZOBDU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/28/IMZGQMB5ZBBB3DNFIG6HZOBDU4/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sun, 28 Jul 2024 01:43:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PB2MEFP5ZNAONKVEFYHCSDSHPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;소셜미디어에 올라온  '보일러룸 서울 2024'가 진행되는 서울 성동구 에스팩토리 모습./엑스(X)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국인 DJ이자 세계적인 음악 프로듀서인 페기 구가 출연 예정이었던 음악 공연이 안전사고 우려로 결국 중단됐다.&lt;br&gt;&lt;br&gt;28일 서울 성동소방서 등에 따르면, 이날 오전 12시 40분쯤 성수동 복합문화공간 에스팩토리에서 열린 음악 페스티벌 ‘보일러룸 서울 2024′에 인파가 많이 몰렸다는 내용의 신고가 여러 건 접수됐다.&lt;br&gt;&lt;br&gt;행사는 이날 오전 4시까지 이어질 예정이었으나 페기 구의 공연 직전인 오전 1시쯤 중단됐다. 관객들은 경찰과 소방 당국의 안내에 따라 공연장에서 빠져나왔다. 인명 피해는 발생하지 않았으나, 5명이 호흡 곤란 증상을 호소해 현장에서 조치를 받은 뒤 귀가했다.&lt;br&gt;&lt;br&gt;관객들은 주최 측이 공연장 수용 가능 인원을 고려하지 않고 티켓을 판매해 이 같은 일이 발생했다며 피해 보상을 요구하고 있다. 공연을 보러 갔던 관객들은 이미 밤 11시쯤부턴 공연장에 들어갈 수 없어 밖에서 대기해야 했고, 해산 직전엔 대기 줄이 공연장 밖을 두 바퀴는 감싸고 있었던 것으로 전해진다.&lt;br&gt;&lt;br&gt;소셜미디어에는 “야외도 아니고 전자음악을 테마로 하는 실내 공연에서 오버 셀링을 하는 게 맞나” “공연 예매를 했는데도 기약 없는 대기에, 이 더운 날씨에 내부 들어갔더니 구급차 출동하고 사람 실려나가고. 도대체 누가 공연 수요 책정했는지” 등의 불만 글이 올라왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4TGQQQSGOJFTFI7B7H2PWZHJBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;DJ 페기 구가 28일 서울 공연이 취소된 이후 소셜미디어에 올린 글./ 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;페기 구는 인스타그램을 통해 “음악을 틀기도 전에 공연 주최 측의 운영 및 안전상의 문제로 공연이 취소돼 너무 속상하고 마음이 아프다”고 했다. 그러면서 “가장 빠른 시일 내 다음 공연을 협의중이니 조금만 기달려달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>장애 신생아 하루 방치해 살해...친부모·외조모 2심서 감형</title>
+      <link>https://www.chosun.com/national/regional/2024/07/28/6IG26MERHZHITJDWONIKXRVW34/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/28/6IG26MERHZHITJDWONIKXRVW34/</guid>
+      <dc:creator>수원=권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 28 Jul 2024 01:47:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U5JXRD5GJNLYDPO5D3ATRJUG3Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 7월 경찰이 영아 시신이 암매장된 것으로 추정되는 경기 용인시 한 야산에서 수색을 벌이고 있다. /경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장애를 갖고 태어난 아기를 출산 당일 퇴원시켜 살해한 혐의로 기소된 40대 친부와 60대 외조모가 2심에서 형량을 감경받았다.&lt;br&gt;&lt;br&gt;28일 법조계에 따르면 수원고법 형사1부(재판장 문주형)는 살인 혐의로 구속기소 된 친부 A씨에게 징역 5년, 외조모 B씨에게 징역 4년을 선고했다. 이들은 1심에서 징역 6년과 징역 5년을 각각 선고받았다.&lt;br&gt;&lt;br&gt;법원은 같은 혐의로 불구속기소 된 40대 친모 C씨도 원심 징역 4년을 파기하고 징역 3년을 선고했다. 다만 자녀 양육 등을 이유로 1심과 마찬가지로 법정 구속하지 않았다.&lt;br&gt;&lt;br&gt;재판부는 “장애아에 대한 양육 부담과 이 때문에 피고인들이 두려움을 느꼈을 사정 등을 감안할 필요가 있다”며 “피고인들이 당심에서 법리적으로 다투는 부분이 있지만 자신들의 행위에 대해 모두 인정하고 후회하며 반성하고 있는 점 등을 참작했다”고 판시했다.&lt;br&gt;&lt;br&gt;A씨 등은 2015년 3월 산부인과에서 제왕절개로 태어난 남자아이를 출산 당일 퇴원시킨 뒤 집으로 데려가 하루 동안 방치해 숨지게 한 혐의를 받는다. 이들은 이튿날 아이가 숨진 것을 확인한 후 시신을 인근 야산에 매장해 유기한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;친모 C씨는 임신 34주차 때 의료진으로부터 “다운증후군이 의심된다”며 양수 검사를 권유받았다. 그러나 검사를 받지 않고 제왕절개로 출산한 것으로 파악됐다. A씨는 아내의 출산 직후 “다른 병원의 진료가 필요하다”는 의사의 권유를 거부하고 신생아를 장모 B씨에게 인계했고, B씨는 영아를 방치해 숨지게 한 것으로 검찰은 파악했다.&lt;br&gt;&lt;br&gt;이 사건은 정부가 출생 미신고 아동에 대한 전수조사를 진행하면서 포착됐다. 경찰은 A씨 등이 진술한 장소를 중심으로 수색작업을 벌였으나 유기된 시신을 찾지 못했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“날 무시해?”...10대 여학생에 살해 협박 메시지 보낸 20대, 실형 선고</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/07/28/RSSV5CNJ6VH7XPRPSCHFM2IZHI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/07/28/RSSV5CNJ6VH7XPRPSCHFM2IZHI/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 28 Jul 2024 02:17:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 전경/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10대 여학생에게 메시지를 보내 죽이겠다고 협박한 20대에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;청주지법 형사6단독 조현선 부장판사는 협박 혐의로 재판에 넘겨진 A(20)씨에게 징역 6개월을 선고했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월 사회관계망서비스(SNS)에서 B(13)양과 대화를 나누던 중 ‘흉기를 들고 찾아가겠다’, ‘죽이겠다’는 내용의 다이렉트 메시지(DM)를 보낸 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 B씨가 자신이 다니는 학교 등을 제대로 알려주지 않는 등 자신을 무시했다는 생각에 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;조 부장판사는 “나이 어린 피해자가 적지 않은 두려움과 정신적 충격을 느꼈을 것으로 죄질이 불량하다”며 “범죄 전력이 없는 초범인 점 등을 참작했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경주 한 폐기물 처리업체서 화재…소방관 1명 부상</title>
+      <link>https://www.chosun.com/national/regional/2024/07/28/WJWMSYUNW5B5HBHZBTY7RISR7Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/28/WJWMSYUNW5B5HBHZBTY7RISR7Q/</guid>
+      <dc:creator>경주=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 28 Jul 2024 01:21:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JLSLMDLY4FDOLH7ZH3JYWTJE4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;불이 난 경주 한 폐기물업체에서 소방관들이 진화 작업을 벌이고 있다. /경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경주의 한 폐기물 처리업체에서 화재가 발생, 진화 작업을 벌이던 소방관 1명이 부상을 입었다.&lt;br&gt;&lt;br&gt;27일 오후 11시 17분쯤 경북 경주시 외동읍 한 폐기물 처리업체에서 불이 났다. 이 불로 900㎡ 규모 창고와 야적장의 폐기물 약 200t이 타 3400만원(소방서 추산)의 재산 피해가 났다. 또 진화 과정에서 소방관 1명이 양손에 화상을 입어 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;소방 당국은 인력 65명과 장비 24대 등을 동원해 6시간 30분 만에 진화를 마쳤다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 정확한 화재원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>만취 상태로 역주행하다 ‘쾅’… 40대 운전자 ‘집유 3년’</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/28/ZRXSLLT4CNHDNAQQIYUAQ7CMQM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/28/ZRXSLLT4CNHDNAQQIYUAQ7CMQM/</guid>
+      <dc:creator>원주=정성원 기자</dc:creator>
+      <description>만취 상태로 역주행하다 신호 대기 중이던 차량을 들이받은 40대 남성에게 법원이 집행유예를 선고했다.춘천지법 원주지원 형사2단독 박현진 부장판사는 특정범죄 가중처벌 등에 관한 법률 위반(위험운전치상) 등 혐의로 기소된 A(42)씨에게 징역 1년 6개월에 집행유예 3년을 선고했다고 28일 밝혔다.</description>
+      <pubDate>Sun, 28 Jul 2024 01:06:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HLXDLPQYXNR2KURLOT6CH6VYYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 원주지원 / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만취 상태로 역주행하다 신호 대기 중이던 차량을 들이받은 40대 남성에게 법원이 집행유예를 선고했다.&lt;br&gt;&lt;br&gt;춘천지법 원주지원 형사2단독 박현진 부장판사는 특정범죄 가중처벌 등에 관한 법률 위반(위험운전치상) 등 혐의로 기소된 A(42)씨에게 징역 1년 6개월에 집행유예 3년을 선고했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 1월 10일 오전 0시 14분쯤 강원 원주시 단계동 한 도로에서 혈중알코올농도 0.132%의 만취 상태로 자신의 BMW 승용차를 운전한 혐의다.&lt;br&gt;&lt;br&gt;특히 A씨는 8차선 대로를 역주행하다 신호 대기 중이던 모닝 승용차를 들이받아 50대 운전자에게 상해를 입히기도 했다.&lt;br&gt;&lt;br&gt;A씨는 사고 직후 경찰 조사 과정에서 역주행한 사실조차 기억나지 않는다고 진술했다.&lt;br&gt;&lt;br&gt;박 부장판사는 “자칫 큰 인명피해로 이어질 수 있는 상황이었다”면서 “재범을 방지하기 위해 엄중한 형의 선고가 필요하다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“채무 독촉에 화가 나”… 채권자 야구방망이로 폭행한 50대 ‘징역 1년 6개월’</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/28/LH7N77H76NBGTP3Q7Y2GYXLWKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/28/LH7N77H76NBGTP3Q7Y2GYXLWKE/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>빚을 갚으라고 요구하는 채권자를 야구방망이로 폭행한 50대에게 법원이 징역형을 선고했다.춘천지법 형사3단독 박성민 부장판사는 특수상해 혐의로 기소된 A(50)씨에게 징역 1년 6개월을 선고했다고 28일 밝혔다.</description>
+      <pubDate>Sun, 28 Jul 2024 01:03:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QBLWDO24EPNHZ335YQQCSYYOBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;빚을 갚으라고 요구하는 채권자를 야구방망이로 폭행한 50대 채무자에게 법원이 징역형을 선고했다.&lt;br&gt;&lt;br&gt;춘천지법 형사3단독 박성민 부장판사는 특수상해 혐의로 기소된 A(50)씨에게 징역 1년 6개월을 선고했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 11월 강원 춘천시 한 골프연습장 주차장에서 야구방망이로 B씨의 옆구리 등을 폭행해 전치 4주의 상해를 입힌 혐의다.&lt;br&gt;&lt;br&gt;A씨는 B씨가 채무 변제를 독촉하자 화가 난다는 이유로 B씨를 불러내 이 같은 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;박 부장판사는 “미리 준비한 야구방망이로 때려 상해를 가하는 등 죄질이 매우 좋지 않다”면서 “피해자로부터 용서받지 못한 점, 폭력 범죄로 두 차례 벌금형을 받은 전력이 있는 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>울산 에쓰오일 공장서 대형 화재...소방대응 2단계 발령</title>
       <link>https://www.chosun.com/national/2024/07/28/IQYW23VSPRARXIAYURM2QQDWVM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/07/28/IQYW23VSPRARXIAYURM2QQDWVM/</guid>
@@ -878,15 +941,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TYENK3GTSZENNMIDBJ2LYFU4V4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중국인 틱톡커가 작년 여름 제주를 방문해 겪은 일화를 공개했다./온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국을 찾은 중국인 관광객들의 민폐 행동이 잇따르면서 과거 중국의 한 인플루언서가 제주 여행 도중 겪은 일화가 재조명되고 있다.&lt;br&gt;&lt;br&gt;26일 여러 온라인 커뮤니티에는 ‘한국인 참교육 하러 온 중국인’이라는 제목으로 작년 여름 제주도에 방문한 중국인 틱톡커 A씨가 올린 영상이 공유됐다.&lt;br&gt;&lt;br&gt;520만 팔로워를 보유한 A씨는 영상에서 “제가 제주도에서 치욕적인 일을 목격했는데 지금 까발리겠다”며 운을 뗐다.&lt;br&gt;&lt;br&gt;그는 “액세서리 가게가 보여 들어갔는데 계산대에 엄청나게 큰 종이에 ‘CCTV가 있으니 물건을 훔치지 마시오’라고 써있었다”며 “오직 중국어로만 적혔다. 그때 화가 확 났다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “여긴 외국인데 중국말로만 물건을 훔치지 말라는 게 무슨 의도일지 궁금했다”며 “일단 외국에 왔으니 중국인을 대표해 수준 있게 행동해야겠다고 생각했다. 그래서 아무 일 없단 듯 직원에게 물어봤다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 “생각지도 못했는데 이 직원도 중국인이었다. 그래서 더 열받았다”며 “’당신도 중국인이면서 왜 중국말로만 이런 걸 써둔 거냐. 너무 모멸감을 준다’고 따졌다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XAEO3EBK7RGALJPLI3LN6GI64I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중국인 틱톡커가 작년 여름 제주를 방문해 겪은 일화를 공개했다./온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;돌아온 직원의 답변은 열을 올리던 A씨조차 할말을 잃게 했다.&lt;br&gt;&lt;br&gt;A씨 물음에 직원은 “나이가 좀 있는 중국 단체 여행객들이 거의 다 가져간다. 우리가 봤다”고 했다.&lt;br&gt;&lt;br&gt;이어 “정말 모두 중국인이었냐”는 A씨의 질문에 직원은 “친구도 무인가게를 하는데, 중국인 아줌마들이 다 쓸어 가버렸다. 심지어 티슈까지도 가져갔다. 결국 그 무인 가게는 문을 닫았다”고 덧붙였다.&lt;br&gt;&lt;br&gt;A씨는 “저걸 듣고 있는데 얼마나 창피했는지 아느냐”며 고개를 저었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOTJ3DF5MRGAFNUH43GYWZWRFY.png"&gt;&lt;figcaption&gt;&lt;small&gt;제주도 시내 사거리에서 중국인 관광객으로 보이는 아기가 대변을 보는 모습./에펨코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국관광통계에 따르면 지난 4월 한국을 방문한 중국인 관광객 수는 41만1331명으로, 전년 동월 대비 288% 늘었다. 또 제주관광협회에 따르면 올해 1~4월 제주를 찾은 중국인은 42만4585명으로 전년 동기 대비 2052% 폭증했다.&lt;br&gt;&lt;br&gt;이런 동향에 제주는 도 차원에서 적극적으로 중국인 관광객을 유치하고 있지만, 최근 온라인상에서는 중국인 관광객들의 민폐 행동이 잇따라 전해져 논란이 일고 있다.&lt;br&gt;&lt;br&gt;지난달에는 중국인 관광객으로 추정되는 유아가 제주도의 한 대로변에서 대변을 보는 모습이 공개돼 누리꾼들의 공분을 샀다. 아이 엄마로 보이는 여성은 바로 옆에 있었지만 제지하지 않는 모습도 보였고, 같은 사진에는 중국인 관광객들이 무단횡단을 하는 모습도 함께 담겼다.&lt;br&gt;&lt;br&gt;또 지난달 제주시 번화가 일대에서 ‘외국인 기초질서 계도·단속’에 나선 제주 경찰은 무단횡단을 하는 중국인 관광객들을 적발하기도 했다. 당시 적발된 중국인 관광객들 사이에서는 “무단횡단이 문제가 되는 줄 몰랐다” “중국 공안은 무단횡단해도 범칙금은 부과 안 한다” “왜 중국인만 단속하냐”는 말이 나온 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>소비자 수백명 본사서 항의...티몬, 새벽 현장 환불접수 시작</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/26/NBJW7ZGSWFED3B4CVMY66EJ3TQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/26/NBJW7ZGSWFED3B4CVMY66EJ3TQ/</guid>
-      <dc:creator>김가연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jul 2024 21:41:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/42VAQBJBORF67NX6R5UZCWRYUU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;권도완 티몬 운영사업본부장이 26일 새벽 서울 강남구 신사동 티몬 신사옥을 점거한 피해자들 앞에서 브리핑을 하고 있다. /온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;티몬·위메프의 판매대금 미정산 사태가 발생한지 3일 만에 티몬 측 본부장이 직접 나서 사과했다. 그는 사태 해결 의지를 표하고, 본사에 몰려든 소비자들의 환불 신청을 접수했다.&lt;br&gt;&lt;br&gt;권도완 티몬 운영사업본부장은 26일 오전 0시40분쯤 서울 강남구 신사동 티몬 신사옥 지하 1층에 모습을 드러냈다. 그는 밤색 반소매 티셔츠에 청바지, 운동화 차림으로 분노한 소비자들 앞에 서 “위메프 쪽 대응보다 많이 지연된 점 정말 죄송하다”고 사과했다.&lt;br&gt;&lt;br&gt;권 본부장은 “자금 사정이 여의찮다”면서 “결제대행사들과도 관계가 썩 좋지 못해 카드 결제 취소가 원활하지 않고, (환불받을) 계좌 인증까지 막혀 더 많이 걱정했을 것”이라고 했다. 이어 “모든 걸 한 번에 해결해드리기는 힘들 것 같고 순차적으로 해결해드리려고 계획을 잡고 있다”고 했다.&lt;br&gt;&lt;br&gt;그는 “성수기이기도 하고 많은 분이 피해를 볼 수 있는 부분이다 보니 일단 여행 상품에 포커스를 맞추고 있다”며 “다른 부분도 자금 확보 상황에 맞춰가며 취소, 환불 계획을 잡고 있다”고 상황을 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QOATCXRJQSKO3BKHSEKCZYR3JY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오후 서울 강남구 티몬 신사옥 밖에서 정산·환불 지연 사태로 환불을 원하는 소비자들이 대기하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;권 본부장은 티몬 홈페이지를 통해 환불 접수를 해 달라고 안내했으나, 현장에 몰린 소비자들은 “그 말을 어떻게 믿고 가느냐” “지금 해 달라”고 반발했다.&lt;br&gt;&lt;br&gt;결국 오전 2시쯤부터 티몬 관계자들이 현장에서 이름과 전화번호, 주문번호 등을 확인해 환불을 신청받았다.&lt;br&gt;&lt;br&gt;새벽부터 시작된 환불 신청은 오전까지 이어지고 있는 상황이다. 새벽 환불 소식을 듣고 현장으로 달려온 소비자들이 잇달아 도착했고, 전날 아침부터 소비자들이 자체적으로 만든 순번표는 현재 1000번을 넘어선 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 유아인 ‘동성 성폭행’ 혐의 입건</title>
       <link>https://www.chosun.com/national/national_general/2024/07/26/YX3TNFNYLVGH7MO5AZLTW5B7JY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/26/YX3TNFNYLVGH7MO5AZLTW5B7JY/</guid>
@@ -894,51 +948,6 @@
       <description/>
       <pubDate>Thu, 25 Jul 2024 20:02:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HDEIM5BTREYKOONVIOUOD3O7KU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 유아인(본명 엄홍식)이 지난 2023년 3월 27일 서울 마포구 서울경찰청 마포청사에 출석해 마약 투약 혐의 관련 조사를 마치고 나오며 취재진 질의에 답변하고 있다 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 용산경찰서는 배우 유아인(38·본명 엄홍식)씨를 동성 성폭행 혐의로 입건했다고 25일 밝혔다. 유씨는 지난 14일 용산구의 한 오피스텔에서 자고 있던 남성 A(30)씨를 성폭행한 혐의를 받는다. 현행법상 동성 성폭행은 유사강간죄가 적용된다.&lt;br&gt;&lt;br&gt;A씨는 사건 당일 오전 6시~오후 4시 이 오피스텔에서 자고 있었는데, 자신이 성폭행 피해를 입은 사실을 잠에서 깨고 알았고 다음날 경찰에 고소장을 접수한 것으로 알려졌다. 해당 오피스텔은 유씨나 A씨가 아닌 제3자의 거처로, 사건 당시 현장엔 다른 남성들도 있었다고 한다. 경찰은 상습 마약 투약 혐의로 재판을 받는 유씨가 이날도 마약을 투약한 채 범행을 저질렀을 가능성도 조사 중이다.&lt;br&gt;&lt;br&gt;유씨는 2020년 9월부터 2022년 3월까지 프로포폴을 181회 투약하고, 2021년 5월부터 2022년 8월까지 타인 명의로 수면제를 불법 처방 매수한 혐의로 재판을 받고 있다. 검찰은 지난 24일 유씨에게 징역 4년 및 벌금 200만원과 추징금 150여만원을 구형했다. 유씨 측은 이날 최후 변론에서 우울증과 불안 장애, 불면증 등에 시달리고 있어 정신건강의학과에서도 입원 및 수면마취제 복용을 권유받았다며 선처를 호소한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘기준 중위소득’ 올려 74개 복지 사업 혜택 늘린다</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/07/26/7WN2SBTX5RGQTFZY7SV35SHCVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/26/7WN2SBTX5RGQTFZY7SV35SHCVM/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jul 2024 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ON4V62NS5BHOBLFCFJB2ZOWF6I.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년도 기초생활수급자가 받는 생계급여(최저 생계비)가 4인 가구 기준 최대 월 195만1287원으로 올해 183만3572원에서 11만7715원 오른다. 최저 생계비 등 복지 사업 74개의 잣대가 되는 기준 중위 소득이 내년에 역대 최대인 6.42%(4인 가구 기준) 인상되기 때문이다. 기준 중위 소득이 오르면 각종 복지 수급액이 늘고 복지 정책 수혜자도 늘어난다. 기준 중위 소득은 지난해 5.47%, 올해 6.09% 등 윤석열 정부 들어 세 해 연속 역대 최대로 인상됐다. 정부는 “사회적 약자를 두껍게 지원하기 위한 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CJ7WSVDYC5D4JCQLOH4TDI2J6Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보건복지부는 25일 제73차 중앙생활보장위원회(중생보위)를 열어 기준 중위 소득을 올해 572만9913원(4인 가구 기준)에서 내년에는 609만7773원으로 6.42% 올리기로 했다. 1인 가구 기준으로는 222만8445원에서 239만2013원으로 7.34% 인상된다.&lt;br&gt;&lt;br&gt;통계청이 발표하는 ‘중위 소득’은 전 국민을 100명이라고 가정했을 때 소득 순서로 50번째인 사람의 소득을 의미한다. ‘기준 중위 소득’은 이를 바탕으로 가구 규모별 소득 차이 등을 반영해 산정한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4XUGCE4ZJBJ5OE72SJCP3TEDI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기준 중위 소득이 오르면서 내년 기초생활보장 생계급여는 4인 가구 기준으로 올해 183만3572원에서 195만1287원으로 오른다. 1인 가구는 71만3102원에서 76만5444원이 된다. 생계급여는 최소한의 생활을 유지하는 데 필요한 생계비를 주는 것이다. 가구별 소득이 중위 소득의 32% 이하이면 수급자로 지정하고, 월 소득이 생계급여보다 적다면 모자란 금액만큼 채워준다.&lt;br&gt;&lt;br&gt;정부는 기준 중위 소득 인상과 이날 별도로 발표된 생계급여 제도 일부 개선에 따라 내년부터 7만1000명이 새롭게 생계급여를 받을 것으로 예상했다. 올해 생계급여 정부 예산은 7조5000억원이 책정됐는데, 내년에는 이보다 9486억원 늘어나 8조4486억원이 들 것으로 추산된다.&lt;br&gt;&lt;br&gt;‘기준 중위 소득’이 올라가면 기초생활보장뿐 아니라 아이 돌봄 서비스, 국가장학금, 각종 유공자 수당, 문화 스포츠 이용권 지급, 행복주택, 자활 근로 사업, 치매 검진 지원 등 각종 복지 사업의 대상도 확대된다.&lt;br&gt;&lt;br&gt;아이 돌봄 서비스는 기준 중위 소득의 150% 이하 가정을 대상으로 아이 돌보미 비용을 우선 지원하는 사업이다. 올해는 3인 가구 기준 월 소득이 707만원 이하여야 혜택을 받지만, 같은 기준이 내년에도 적용된다면 월 소득 753만원 이하까지로 지원 대상이 확대되는 것이다. 대학생을 위한 국가장학금은 월 소득 인정액(재산을 포함한 소득)을 따져 기준 중위 소득 200%까지 받을 수 있는데, 4인 가구 기준 약 1145만원 이하에서 내년 약 1219만원 이하까지 지원 대상이 확대될 전망이다.&lt;br&gt;&lt;br&gt;정부는 생계급여 사각지대를 해소하기 위해 각종 제도도 개선키로 했다. 올해는 부양 의무자(부모·자녀와 그 배우자)의 소득이 연간 1억원을 넘거나, 주택·토지 등 일반 재산이 9억원을 넘을 경우 수급 대상에서 탈락하지만 내년에는 연소득 1억3000만원, 일반 재산 12억원 초과로 이 기준을 완화한다.&lt;br&gt;&lt;br&gt;3년 연속 기준 중위 소득이 크게 인상되자 일각에선 경기 상황과 정부 재정 여건을 고려할 때 인상 속도를 조절해야 한다는 지적도 나온다. 이에 대해 보건복지부 관계자는 “저소득층의 기본적인 생활 보장을 하기 위해 필요한 만큼 인상한 것이며, 재정 여건도 문제없을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;한편 이날 중생보위에서는 의료급여 제도의 본인 부담 체계를 17년 만에 ‘정액제’에서 ‘정률제’로 바꾸는 방안이 통과됐다. 의료급여는 건강보험료를 납부하지 못하는 기준 중위 소득 40% 이하 취약층을 대상으로 국가가 의료비를 보장해 주는 것이다. 현재 의료급여 수급자는 병의원 외래 진료 시 1000~2000원, 약국에선 500원을 부담하고 있지만, 앞으로는 정률제에 따라 건강보험 본인 부담금의 4~8%(약국은 2%)를 내게 된다. 다만 본인부담금 상한선(5만원)에 따라, 개인이 부담하는 돈이 이를 넘지는 않는다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞기준 중위소득&lt;/b&gt;&lt;br&gt;&lt;br&gt;기초생활보장 생계급여 등 74개 복지 사업 수급자를 정하는 잣대. 통계청이 발표하는 ‘중위소득’은 전 국민을 100명이라고 가정했을 때 소득 순서로 50번째 사람의 소득을 뜻한다. ‘기준 중위소득’은 이를 바탕으로 가구 규모별 소득 차이 등을 반영해 산정한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>병원 뺑뺑이 돌다, 70대 교통사고 환자 사망</title>
-      <link>https://www.chosun.com/national/incident/2024/07/26/R6FLDPTPJVEFBDVN4NDA4PNBZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/26/R6FLDPTPJVEFBDVN4NDA4PNBZ4/</guid>
-      <dc:creator>김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jul 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B4Q4TXKYORGUVOYQ3UBP72WK2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교통사고로 발목이 절단된 70대 남성이 수술받을 병원을 찾지 못해 이른바 ‘병원 뺑뺑이’를 돌다가 숨진 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;25일 전북도 소방본부 등에 따르면, 지난 18일 오전 11시 55분쯤 전북 익산시 여산면의 한 도로에서 70대 A씨가 몰던 차량이 전복되는 사고가 발생했다. 이 사고로 A씨는 차량 밖으로 튕겨져 나가 왼쪽 발목이 절단됐고 머리와 허리도 크게 다쳤다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 119 구급대원들은 근처 원광대병원 권역외상센터에 수술 가능 여부를 물었다. 하지만 발목 접합 수술을 할 전문의가 당직 근무를 한 뒤 퇴근해 수술을 할 의사가 없었다고 한다. 이어 구급대원들은 전주시 전북대병원에 전화했지만 전문의가 수술 중이라 당장 수술이 어렵다는 답변을 들었다고 한다.&lt;br&gt;&lt;br&gt;구급대원들은 A씨를 사고 현장에서 35㎞ 떨어진 전주의 한 병원으로 이송했지만 이 병원에서는 “다발성 손상으로 수술이 어려워 종합병원으로 옮겨야 한다”는 말을 들은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 이날 오후 1시 19분쯤 전주의 또 다른 병원으로 이송됐지만 상태가 악화돼 결국 숨을 거뒀다. 119 신고가 접수된 지 1시간 20여 분 만이었다. 이 병원에는 당시 수술을 할 수 있는 전문의가 있었으나 A씨의 상태가 이미 위중해 손을 쓸 수 없었다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 시청역 참사 운전자 구속영장 신청</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/26/UCFTMI43FRCE5FTGOOKSUNWTHE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/26/UCFTMI43FRCE5FTGOOKSUNWTHE/</guid>
-      <dc:creator>김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jul 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J3QAQQKQ75OBHJQXIRSSQPBOZY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 서울 중구 서울시청 인근 역주행 교통사고 추모공간에 희생자를 기리는 국화가 놓여 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 남대문경찰서는 시청역 역주행 참사를 일으킨 가해 차량 운전자 차모(68)씨에 대한 구속영장을 신청했다고 25일 밝혔다. 차씨는 지난 1일 오후 9시 26분쯤 제네시스 G80 차량을 몰고 시청역 인근인 서울 소공동 웨스틴 조선호텔 맞은편 일방통행로를 역주행, 9명을 숨지게 하고 7명을 다치게 한 혐의(교통사고처리특례법상 치사)를 받는다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “범죄의 중대성과 그간 수사 내용을 종합해 구속영장을 신청했다”고 했다. 경찰은 그간 세 차례 피의자 조사를 했으나 차씨는 “차량 결함으로 인한 사고”라는 입장을 고수했다. 피해 규모가 크고 피해 회복이 이뤄지지 않은 점, 차씨가 과실을 인정하지 않는 점 등이 구속영장 신청의 배경이라고 한다.&lt;br&gt;&lt;br&gt;국립과학수사연구원은 차씨의 과실이 빚은 사고 가능성이 크다는 감정 결과를 경찰에 전달한 상태다. 국과수는 정밀 감식·감정을 통해 차씨가 사고 당시 가속페달(액셀)을 90％ 이상 밟았으며 브레이크를 밟은 흔적은 없다는 결론을 내린 바 있다. 차씨는 현재 수도권 한 요양병원에 입원 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘선거법 위반’ 이재명 아내… 검찰, 벌금 300만원 구형</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/26/S4SDI56SVJH2LN2YSUVP7XOXKU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/26/S4SDI56SVJH2LN2YSUVP7XOXKU/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jul 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CW5XMEQS6FJQFGDDYQRDHMEQP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공직선거법 위반 혐의로 기소된 이재명 더불어민주당 전 대표의 배우자인 김혜경씨가 지난 10일 경기도 수원시 영통구 수원지방법원에서 열린 공판에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 대선 후보 경선 과정에서 경기도 법인카드로 민주당 중진 의원의 아내 등에게 밥을 산 혐의를 받는 이재명 전 민주당 대표의 아내 김혜경씨에게 검찰이 벌금 300만원을 구형했다. 1심 선고는 다음 달 13일로 결정됐다.&lt;br&gt;&lt;br&gt;25일 수원지법에서 열린 김씨의 공직선거법 위반 사건 결심 공판에서 검찰은 “(이 사건은) 피고인이 배우자인 이재명 전 경기도지사를 대선 후보로 당선되게 하기 위해 유력 정치인들인 전현직 국회의원 배우자를 매수하려 한 사건”이라며 김씨에게 벌금형을 내려달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;김씨는 경기도지사였던 이 전 대표가 당내 경선에 출마하겠다고 선언한 이후인 2021년 8월 2일 서울 종로구의 한 중식당에서 민주당 중진 의원의 아내 등 6명에게 총 10만4000원 상당의 식사를 산 혐의를 받고 있다. 검찰은 김씨가 자신의 수행 비서인 배모씨에게 경기도 법인카드로 식사비를 결제하도록 한 것으로 보고, 지난 2월 그를 불구속 기소했다. 검찰은 “범행은 명백하게 인정되는데 피고인은 (검찰이) 증거 없이 기소한 듯 정치적 공격으로 쟁점을 흐리고, 시종일관 범행을 부인하고 있다”며 “자신의 수하인 배씨에게 모든 책임을 전가하는 등 반성의 기미가 보이지 않는다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 최후 진술에서 “저는 평범한 주부로 살았고, 남편이 비주류 정치인으로 살면서 많은 탄압을 받았다. 그래서 저는 항상 ‘꼬투리 잡히지 말아야지’ 하며 긴장하고 살았다”면서 울먹거렸다. 그는 또 “식사값에 대한 의논이나 협의는 예전이나 지금이나 있을 수 없는 일이었고, 너무나 큰 원칙이었기 때문에 따로 (배씨에게) 얘기하거나 지시하거나 그럴 상황이 아니었다”고 말했다. 김씨는 “(배씨가) 왜 그런 일을 했는지 답답해서 물어보고 싶었다”며 “제가 이 자리까지 서 있는 건 제 불찰이다. 제 주변을 관리하고 철두철미하게 통제했어야 했는데 많이 부족했다고 깊이 반성하고 있다”며 고개를 숙였다. 김씨는 재판이 진행된 5개월 동안 한 번도 입장을 밝히지 않았는데, 이날 처음으로 입을 연 것이다.&lt;br&gt;&lt;br&gt;검찰은 이 사건과 별개로 김씨와 배씨가 경기도 법인카드를 사적으로 유용했다는 의혹에 대해서도 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이숙연 대법관 후보 “요즘은 자녀 돌에 금반지 대신 주식 사 줘”</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/26/PP4G2XKFXFBZFGXMTP6QNFP65Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/26/PP4G2XKFXFBZFGXMTP6QNFP65Q/</guid>
-      <dc:creator>방극렬 기자, 박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jul 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LGCW7F2XUJIKRB4DOW7NFNXRN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이숙연 대법관 후보자가 25일 오전 국회에서 열린 인사청문회에 출석해 인사말을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이숙연(55·사법연수원 26기) 대법관 후보자가 25일 국회 인사 청문회에서 자녀가 어릴 때 아버지 돈으로 비상장 주식을 산 것에 대해 “요즘은 아이가 돌이 되면 금반지를 사 주지 않고 주식을 사 준다”고 말했다가 사과했다. 논란이 된 가족의 재산 형성 과정에 대해서는 “배우자가 주도했다”고 해명했다.&lt;br&gt;&lt;br&gt;이날 청문회에서는 이 후보자 가족에 대한 재산 논란이 이어졌다. 앞서 이 후보자 딸(26)과 아들(24)이 8세, 6세이던 2006년 아버지 돈으로 큰아버지가 운영하는 버스 회사 비상장 주식을 300만원씩 샀다가 작년 11월 4000여 만원에 팔아 13배가 넘는 차익을 남긴 것이 알려져 논란이 됐다. 백혜련 민주당 의원은 이날 이 후보자와 배우자도 이 회사 주식을 보유하다 팔았다며 “이 후보자 가족이 주식을 팔아 얻은 시세 차익만 22억원이고, 배당금으로 7억7000만원을 받았다”고 지적했다.&lt;br&gt;&lt;br&gt;백 의원이 “자녀가 열 살도 되기 전 ‘알짜 황제 주식’을 사서 배당받고, 시세 차익을 누렸다”고 하자, 이 후보자는 “요즘은 아이가 돌일 때 금반지 대신 주식을 사 준다”며 “이를 편법 증여로 폄하하면 자녀들에게 주식을 사 주는 부모의 마음은 다 비난받아야 하는 것인지 여쭤보고 싶다”고 했다. 이에 허영 민주당 의원이 “후보자는 여러 재산상 문제에 대해 소명하고 잘못을 인정해 기부하겠다고 했는데 답변이 맞는다고 생각하느냐”고 묻자, 이 후보자는 “매우 부적절했다고 생각한다. 평정심을 잃은 것 같다”고 답했다.&lt;br&gt;&lt;br&gt;이 후보자 자녀에 대한 ‘부모 찬스’ 논란은 청문회 이전부터 불거졌다. 이 후보자 딸은 2017년 아버지 추천으로 스타트업 A사의 비상장 주식을 1200만원에 샀는데, 2022년 매입한 주식의 절반을 3억8500여 만원에 아버지에게 양도했다. 시세 차익만 투자금(600만원)의 63배로 평가됐다. 딸은 이 주식 양도로 서울 용산구 다세대주택을 전세를 끼고 구입할 때 아버지에게 빌린 3억원을 갚았다. 이 후보자는 “남편이 나이도 많고 건강도 좋지 않은데, 늦게 본 딸자식에게 경제적으로 자립할 기반을 마련해 준다는 마음에 조급해서 잘못을 한 것 같다”고 했다. 그러면서 “재산 형성은 배우자가 주도한 게 맞다”고 했다.&lt;br&gt;&lt;br&gt;이 후보자는 지난 24일 딸과 남편이 갖고 있는 약 37억원 상당의 A사 주식을 모두 기부하고, 남편이 맡고 있는 회사 대표직도 사임하겠다고 밝혔다. 제주반도체와 동행복권 공동 대표인 남편은 현재 복권법 위반 혐의로 경찰 수사를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>사람 밀치고 길 막고 인증샷… 민폐 러닝크루</title>
@@ -952,15 +961,6 @@
         <media:description type="plain">러닝 크루들이 횡단보도, 차도 한복판, 교통섬 등에 모여 기념사진을 촬영하고 있다. /인스타그램</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>[우리 아이 이럴땐 어떻게?] 친구 스타일 따라하는 아이… 참견 대신 친구관계 응원을</title>
-      <link>https://www.chosun.com/culture-life/culture_general/2024/07/26/PZOU3XDYKJBGLCT7KQ37T56T6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2024/07/26/PZOU3XDYKJBGLCT7KQ37T56T6A/</guid>
-      <dc:creator>이윤선 배화여대 아동보육과 교수</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>Q. 만 10세 여자 아이를 키우고 있습니다. 요즘 들어 아이가 부쩍 친구들 옷차림이나 머리 모양을 따라 합니다. 어제 친구가 반묶음 머리를 했는데 예뻤다며 자기도 그렇게 묶어달라고 하거나, 친구가 입은 옷과 비슷한 걸 사달라고 하는 식입니다. 따라 한다는 이유로 친구와 사이가 나빠지는 건 아닌지, 아이가 자기만의 스타일을 갖지 못하는 건 아닌지 걱정스럽습니다.&lt;br&gt;&lt;br&gt;A. 만 10세는 또래에 대한 동조성이 점점 커지는 나이입니다. 이 시기 아동은 상대방이 자신을 어떻게 생각하는지에 집중하고, 그에 따라 자신을 평가합니다. ‘내 머리 모양이 이상해서 아무도 나를 좋아하지 않는 거야’라거나 ‘이렇게 하면 친구가 좋아할 거야’라고 생각할 수 있어요. 이것은 청소년기 성장 과정에서 자연스럽게 나타나는 의식입니다. 이처럼 상대방의 평가에 민감해지는 것은 자신이 타인에게 집중적으로 관심을 받는 대상이라고 믿는 ‘상상의 청중’이라는 발달 특징 때문입니다.&lt;br&gt;&lt;br&gt;또한 이 시기 아동에게 친구는 부모 또는 그 이상의 영향을 끼칩니다. 그래서 아이들은 친구의 옷과 행동, 언어 등을 따라 함으로써 그 집단에 최대한 맞추려고 합니다. 유행하는 물건이나 좋아하는 연예인을 중심으로 특별한 모임을 결성하고, 모임 안에서 지켜야 할 규칙을 정해 자기들끼리 공통점을 만들어나가는 경우도 있습니다.&lt;br&gt;&lt;br&gt;부모로선 아이가 친구를 따라 하는 것이 부자연스럽게 보이고, 친구 관계에 부정적 영향을 미치지는 않을지 걱정할 수 있어요. 또 아이가 자신만의 개성이 없는 것처럼 보일 수도 있지만, 아동기에 친구와 유사성을 띠려고 하는 행동은 매우 중요합니다. 친구 동조성과 유사성은 서로에게 열중하고 모든 것을 함께하자는 약속처럼 작용함으로써, 더 친한 관계로 나아갈 수 있게 하는 요인이 되기 때문이지요.&lt;br&gt;&lt;br&gt;아동의 친구 관계에 관심을 갖는 것은 매우 중요한 양육자의 역할입니다. 다만 너무 일찍 아이의 친구 관계에 참견하는 건 좋지 않습니다. 대신 아동이 친구와 함께할 수 있는 시간과 공간을 지원하고, 친구 관계에 대해 고민이 있을 때 언제든 말할 수 있도록 아이를 지지해 주는 태도를 보여주세요.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>지팡이에 ‘바들바들’ 할아버지, 어디로 향하나 했더니 ‘운전석’</title>
