@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“세계유산 가야고분군 통합관리기구 들어설 최적지는 김해”</title>
+      <link>https://www.chosun.com/national/2024/07/28/AGOLTNWZ35HIJCOOK5XAIHTKXU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/07/28/AGOLTNWZ35HIJCOOK5XAIHTKXU/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 28 Jul 2024 09:31:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XKGG7SVVD2LFFANQPZMXT7MPYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김해대성동고분군, /김해시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유네스코 세계유산인 가야고분군을 체계적으로 통합 관리할 공식 기구의 최적지는 경남 김해시라는 용역 결과가 나왔다. 경남·경북·전북에 걸쳐 있는 가야고분군은 작년 9월 유네스코 세계유산으로 등재됐다.&lt;br&gt;&lt;br&gt;28일 경남도 등에 따르면 가야고분군 세계유산 통합관리지원단(통합관리지원단)은 지난 26일 ‘통합기구 설립 및 운영방안 연구 용역’ 결과를 각 지자체에 전달했다. 용역 결과 통합기구 설립 입지 1순위는 김해시로 나타났다고 한다. 김해는 초기 가야인 금관가야의 중심지다.&lt;br&gt;&lt;br&gt;통합관리지원단은 가야고분군이 있는 경남·전북·경북 등 광역자치단체 3곳, 남원시·김해시·함안군·창녕군·고성군·합천군·고령군 등 기초지방자치단체 7곳 등 총 10곳이 공동으로 설립한 기구다. 용역은 재단법인 한국지식산업연구원이 지난해 7월부터 진행했다.&lt;br&gt;&lt;br&gt;용역 결과에 박완수 경남도지사는 “김해 금관가야는 고대 가야 문명의 발원지라는 상징성이 있다”면서 “경남에 통합관리기구를 설치하는 것은 당연하다”고 환영의 뜻을 밝혔다.&lt;br&gt;&lt;br&gt;지난 2018년 국립가야문화유산연구소가 발표한 ‘가야유적 분포 현황 및 보존 관리 실태조사 보고서’에 따르면 전국 가야 유적 2495건 중 67%인 1669건이 경남에 분포한다. 세계유산으로 등재된 가야고분군 7개 중 5개가 경남에 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJI2S7H2Y5FE5MKUKE56A6BTAQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 권혜인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 경남과 김해에는 가야 관련 기관들이 모여 있어 시너지도 기대된다. 가야문화유산연구소(창원), 국립김해박물관(김해), 오는 9월 개관 예정인 국립가야역사문화센터(김해)가 있다. 특히 경남도는 국립가야역사문화센터에 통합관리기구가 입주 가능한 만큼 효율적인 업무 수행을 강점으로 꼽는다.&lt;br&gt;&lt;br&gt;경남도 관계자는 “경남 18개 시·군 전역에 가야유적이 발견되는데, 경남의 정체성이 곧 가야다”며 “국민 정서나 역사문화정비법으로 봐도 신라는 경북, 백제는 충청·전북인데, 경남은 가야라 할 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;지난해 9월 유네스코 세계유산으로 등재된 가야고분군은 여러 지역에 걸쳐 있는 연속유산이다. 이에 세계유산위원회는 가야고분군 세계유산 등재를 결정하면서 “구성요소(7개 고분군) 전 지역에 대한 홍보 전략 개발과 통합 점검(모니터링) 체계 구축”을 권고했다. 가야고분군을 제대로 보전·관리하면서 체계적으로 홍보할 통합기구 설치 필요성이 제기됐다. 그러자 가야고분군을 둘러싼 지역 간 주도권 싸움도 본격화됐다. 특히 경북 고령과 경남 김해가 통합기구 유치에 가장 적극적이었다.&lt;br&gt;&lt;br&gt;통합관리기구의 최적 입지는 경남 김해라는 용역 결과가 나왔지만, 실제 입지 최종 결정까지는 난항이 예상된다. 우선 통합관리기구 입지 결정은 각 지자체 합의에 따르게 돼 있다. 오는 8월 초 예정된 10개 지자체 간 협의 간담회에서 구체적인 논의가 이뤄질 전망이다. 경남도는 “간담회 전까지 지자체 설득에 나설 계획이다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NOF6KSJFD5KYDIASZK7KEIBPMU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2023년 9월 17일 오후(현지시각) 사우디아라비아 리야드에서 개최된 제45차 세계유산위원회에서 ‘가야고분군’ 유네스코 세계유산 등재가 확정되자 최응천 당시 문화재청장, 현 국가유산청장(가운데)을 비롯한 관계자들이 기뻐하고 있다. /국가유산청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;용역 결과를 두고 경북 고령군의 반발이 터져 나온 상태다. 고령군은 28일 자료를 내고 “납득하기 어렵다”는 입장을 밝혔다. 용역을 진행한 한국지식산업연구원은 통합관리기구 입지 선정 지표로 ‘인구 규모’ ‘지방세 규모’ ‘지역 총생산’ ‘인구 증가율’ ‘재정 자립도’ ‘인구 밀도’ ‘관리 이동거리’ 등 7가지를 활용했다. 통합관리기구 설립 초기부터 충분한 지원과 협력이 가능한 지역이 우선으로 검토돼야 한다고 판단했기 때문이다. 하지만 고령군에서는 이 같은 지표가 “규모가 큰 김해에 절대적으로 유리한 평가”라며 용역 진행 과정에서부터 의구심을 나타낸 바 있다. 작년 말 기준으로 김해 인구는 53만명, 고령 인구는 3만명으로 차이가 크다. 인구 규모만큼 재정자립도 등 경제 지표에서도 차이가 난다. 경북도와 고령군은 용역 중간·최종보고 과정에서 이 같은 입지 선정 지표에 대한 보완 요청을 했고, 6월 말까지 용역이 중단됐다.&lt;br&gt;&lt;br&gt;하지만 연구원 측은 지자체의 추가 의견 수렴, 전문가 자문회의 등을 거쳐 신규 지표 추가는 불필요하다는 결론을 내리고 용역 결과를 각 지자체에 통보했다. 연구원 측은 “세계유산의 보존과 관리가 잘 지원되고, 재정적인 규모도 있는 지역에 있어야 통합관리기구가 전 지역에 대한 통합관리에 힘을 집중할 수 있을 것으로 사료된다”고 했다.&lt;br&gt;&lt;br&gt;경남도는 이번 연구용역 결과 그대로 가야고분군 통합관리기구가 설치될 수 있도록 국회를 방문해 기구 설치의 필요성을 설명하고 지원을 요청한다는 방침이다.&lt;br&gt;&lt;br&gt;박완수 경남도지사는 “가야고분군 연속유산의 체계적인 보존·활용 시스템을 구축해 전 세계인이 가야고분군 세계유산의 가치를 향유 할 수 있도록 통합관리기구의 조속한 설치에 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;한편, 한국지식산업연구원은 통합관리기구의 설립 형태로 10개 지자체가 공동으로 출연한 독자적인 재단법인 형태가 적절하다고 제시했다. 조직·인력 규모는 1국(사무국·1명), 1실(기획협력실·3명), 3팀(경영관리팀·교육홍보팀·보존연구팀 11명) 등 15명이 적절하다고 했다. 운영비는 내년 기준으로 28억 원에서 매년 늘어 통합기구가 안정화될 때쯤인 2030년에는 38억 원 정도가 들 것으로 예상했다. 지자체가 분담해야 할 금액은 약 2억 원~2억5000만 원 규모로 봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한강 하구서 팔에 5kg  아령 묶인 시신 발견...경찰 수사</title>
+      <link>https://www.chosun.com/national/incident/2024/07/28/LN5CIMAVNBA2DCLKOBMIBBNO6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/28/LN5CIMAVNBA2DCLKOBMIBBNO6Q/</guid>
+      <dc:creator>고양=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 28 Jul 2024 09:51:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/USINXSMZLZBKTHGXAQWXYHW57Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한강 하구에서 팔에 아령이 묶인 남성의 시신이 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;28일 경찰에 따르면 이날 오후 1시쯤 경기 고양시 덕양구 행주나루터 선착장 인근 남성 시신이 물에 떠 있다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;출동한 경찰과 소방 당국은 해당 시신을 인양해 신원을 확인했다. 이 남성은 서울에서 혼자 살던 60대 A씨로, 팔에 신발 끈으로 5kg 아령이 묶여 있었다.&lt;br&gt;&lt;br&gt;현재까지 타살 혐의점은 없는 것으로 파악됐다. 경찰은 A씨의 유가족 등을 수소문하며 사망 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>법원 “상속세 97억 냈는데 96억 더 내라는 세무서 처분은 정당”</title>
       <link>https://www.chosun.com/national/court_law/2024/07/28/2JTP4TNIN5ER7PFHLRWBQ55OBQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/28/2JTP4TNIN5ER7PFHLRWBQ55OBQ/</guid>
@@ -918,24 +936,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/T6RCEUKU3ILRA4WU7G33VB7LM4.jpg?width=1440&amp;height=1080&amp;auth=321d4c3cb76ec6ca9767130bc5398bd43342343c3072f99489442e6630bf9400&amp;smart=true" type="image/jpeg" height="1080" width="1440">
         <media:description type="plain">춘천지검 속초지청.(뉴스1 DB)</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>야구장 치솟은 불, 비번날 야구 보러 간 소방관들이 껐다</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/26/BP5OWWIUIZCELEGJT2BBB5CE5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/26/BP5OWWIUIZCELEGJT2BBB5CE5A/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Jul 2024 03:49:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q5DHGCIAINKXLJ33Q55UU4F23A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 오후 6시 28분쯤 대전 중구 한화생명이글스파크 야구장 외야에 설치된 이벤트용 시설물에서 불이 나고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 24일 프로야구 한화이글스 홈구장인 이글스파크 관중석에서 발생한 화재를 비번 날 경기장을 찾았던 충남 지역 소방관들이 초기 진화에 나서면서 큰 피해로 번지는 것을 막았다.&lt;br&gt;&lt;br&gt;26일 충남소방본부에 따르면 공주소방서 소속 김성준 소방장, 인현준 소방교, 송대운 소방사는 24일 야구 경기 관람을 위해 대전 중구 부사동 한화이글스파크를 찾았다.&lt;br&gt;&lt;br&gt;3루 관중석에 앉아있던 이들은 오후 6시 28분쯤 외야 관중석 지붕에서 불기둥이 솟는 것을 목격했다. 김 소방장 등은 곧바로 현장으로 달려가 한화이글스 관계자와 함께 소화기로 진압을 시도했다.&lt;br&gt;&lt;br&gt;이들은 화장실 고무호스로 물을 끌어와 5분여 만에 불을 모두 끄고, 신고를 받고 출동한 소방대에 현장을 인계했다. 특히 소방장은 2010년 임용돼 수많은 재난현장을 누빈 14년차 베테랑 소방관으로, 신속하고 적절한 대처를 통해 경상 2명 외 추가 인명 및 재산피해를 막았다.&lt;br&gt;&lt;br&gt;불은 불기둥 용품이 오작동해 발생한 것으로 파악됐다. 이 화재로 40대 관중과 구장 관리팀 20대 직원 등 2명이 경상을 입었고 경기 개시가 5분 지연됐다. 하지만 소방관들의 신속한 대처로 추가 인명·재산 피해를 막을 수 있었다.&lt;br&gt;&lt;br&gt;권혁민 충남본소방부장은 “화재, 구조, 구급 업무에 대한 전문성과 사명감을 바탕으로 화재를 예방하고 도민 생명과 재산을 지키는 데 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>박상용 검사, ‘음주 추태 의혹’ 제기한 이성윤 의원에 3억 손배소 청구</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/26/3RVJAHZ3MFBDVFNZ55NZ3LF7IE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/26/3RVJAHZ3MFBDVFNZ55NZ3LF7IE/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Jul 2024 03:52:52 +0000</pubDate>
-      <content:encoded>‘쌍방울 불법 대금 송금 사건’을 수사했다가 민주당으로부터 과거 음주 추태를 벌였다는 사유 등으로 탄핵 대상이 된 박상용 수원지검 부부장검사가 해당 의혹을 제기한 이성윤 더불어민주당 의원(전북 전주시을)을 상대로 3억원대 손해배상 소송을 제기했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LQP4BEWEKRJQFOEAAH26VLBABE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이성윤 민주당 의원. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 법조계에 따르면 박 검사 측은 전날 “허위사실 유포로 명예를 훼손당했다”며 이 의원을 상대로 3억원 상당의 손해배상 청구 소송을 냈다. 실명을 거론한 서영교 민주당 의원(서울 중랑구갑)엔 1억원, 수차례 유튜브를 통해 이런 의혹을 재생산한 최강욱 전 민주당 의원에는 1억5000만원의 손해배상을 청구했다.&lt;br&gt;&lt;br&gt;아울러 강미정 조국혁신당 대변인에겐 1억원, 유튜버 김용민·강성범씨 등에 대해선 각각 7000만원과 3000만원을 청구했다.&lt;br&gt;&lt;br&gt;앞서 이 의원은 지난달 14일 국회 법제사법위원회에서 지난 2019년 박 검사를 비롯한 울산지검 검사 30여명이 특수활동비로 술판을 벌였다는 의혹 등을 제기했다. 또 박 검사가 회식 후 울산지검 청사 내 화장실 세면대 등에 설사 형태의 대변을 바르는 행위를 해 공용물손상죄를 저질렀다는 내용의 의혹도 제시했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VR4GTCAWIJDJBNQIGTWCJUROYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;왼쪽부터 이성윤·서영교 민주당 의원, 최강욱 전 민주당 의원. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 검사는 이후 탄핵소추 대상이 됐는데 민주당은 탄핵 사유로 ‘박 검사가 2019년 1월 울산지검에서 근무할 때 청사 내에서 음주를 한 뒤, 설사 형태의 대변을 싸고 화장실 세면대와 벽면에 발라 공용물손상죄를 범했다’고 적시했다.&lt;br&gt;&lt;br&gt;이에 대해 박 검사는 검찰 내부망에 “명백한 허위 사실”이라고 말한 뒤 이후 이 의원 등을 허위사실에 의한 명예훼손 혐의로 경찰에 고소했다. 실제 당시 박 검사와 동행한 것으로 알려진 이모 검사는 검찰 내부망에 “저녁 식사부터 귀가할 때까지 계속 같이 있었는데, 완전한 허위 사실”이라고 했다.&lt;br&gt;&lt;br&gt;이 의원은 고소당한 뒤 “검사 실명을 거론한 적이 없다”고 물러섰지만, 박 검사 측은 “지난 5일 형사고소 이후 이 의원은 ‘어떤 검사’라고만 했지 박상용 검사라고 특정한 적 없다고 발뺌했지만, 법사위 회의장에서 사용한 PPT 자료에 이미 박 검사 실명을 공개했다. 박 검사 탄핵소추안에 해당 사실을 탄핵사유로 적시했으므로 명백한 거짓말”이라고 주장했다.&lt;br&gt;&lt;br&gt;박 검사는 작년 12월부터 연수 목적으로 해외에 나가있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘마약 투약·협박’ 야구 국가대표 출신 오재원, 1심 징역 2년 6개월</title>
