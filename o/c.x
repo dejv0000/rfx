@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>父 이효정과 ‘동성애 연기’ 가짜뉴스에…이유진이 직접 단 댓글 </title>
+      <link>https://www.chosun.com/national/national_general/2024/07/29/HOKRORXLKJDZPJQBGTU7WNB4JI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/29/HOKRORXLKJDZPJQBGTU7WNB4JI/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 28 Jul 2024 22:12:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WMCPEM2FEVMGZHUQTYAG6KPAKU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이효정과 이유진 부자가 24일 서울 강북구 미아운정그린캠퍼스에서 열린 연극 ‘엔젤스 인 아메리카’ 기자간담회에서 포즈를 취하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 이유진이 부친인 배우 이효정과 동성애 연기에 도전한다는 가짜뉴스에 직접 해명했다.&lt;br&gt;&lt;br&gt;이유진은 지난 28일 “국내 최초 부자간 ‘동성애’ 연기 도전하는 이효정·이유진. 솔직한 심경 털어놨다”라는 제목의 기사를 작성한 한 매체 인스타그램 게시물에 “본인입니다”라며 댓글을 남겼다.&lt;br&gt;&lt;br&gt;그는 “그런 내용도 없고 그런 장면도 안 나온다”며 “우리는 그저 직장 상사와 부하 직원 관계다. 아버지는 극중에서 내가 존경하는 선배로 나오신다. 오히려 멱살 잡고 싸운다”고 설명했다.&lt;br&gt;&lt;br&gt;이어 “전체적인 연극의 인물들이 성정체성을 포함하여 각자의 목표가 흔들리고 방황하는 인물들이 많이 나올 뿐”이라며 “아무래도 자극적인 키워드들로 구성하다보니 이런 반응이 생기는 것 같아 아쉽다”고 했다.&lt;br&gt;&lt;br&gt;이유진은 부친과의 동성애 연기 장면이 없다고 재차 강조하며 “내 상대역은 오히려 다른 인물들이 더 많다. 굉장히 유명한 작품이니 많이 보러와달라”고 했다.&lt;br&gt;&lt;br&gt;끝으로 이유진은 “이 댓글을 고정해주시면 감사하겠다. 아니면 게시물을 내려달라”고 했으나, 이 매체는 관련 게시물을 여전히 게시중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XB6TS4I4KZHPFA36BTBAJNFLSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이유진이 부친 이효정과 동성애 연기에 도전한다는 가짜뉴스를 게시한 매체 인스타그램에 직접 댓글을 남겼다./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이유진과 이효정 부자는 오는 8월6일 개막하는 연극 ‘엔젤스 인 아메리카’ 무대에 함께 오른다. 1991년 초연한 토니 커쉬너의 작품으로 1980년대 미국을 배경으로 다양한 정체성을 가진 채 차별과 혼란을 겪는 사회적 소수자들의 이야기를 그린다.&lt;br&gt;&lt;br&gt;작품 주요 인물인 에이즈에 걸린 동성애자 역 프라이어 월터는 유승호, 손호준이 맡았다. 이유진은 양지원과 함께 자신의 성정체성에 괴로워하는 남자 조셉피트, 이효정은 김주호와 함께 권력에 집착하는 ‘악마 변호사’ 로이 콘을 연기한다.&lt;br&gt;&lt;br&gt;앞서 이효정은 지난 24일 연습실 현장 공개 및 인터뷰에서 “아들하고 무대에 같이 한다. 무대에서는 동성애를 느끼는 상대 배우이기도 하다”며 “이런 경우가 대한민국에 없었다. 부자 지간에 상대역을 맡은 사례가 없었기 때문에 인간적으로 고민을 했다. 과연 아들이 내 눈을 보고 연기를 할 수 있을지, 나 역시 그걸 감내할 수 있을지 걱정이 됐다. 의외로 괜찮더라. 아주 재밌게 하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “우리 대한민국 아버지와 아들의 사이가 대충 그렇다. 일주일에 한두마디 섞으면 다행인데, 정말 잃어버린 아들을 찾은 기분이다. 매일 만나서 한 끼 이상 밥을 먹으면서 이런 저런 얘기를 한다. 연극으로도 얻는 기쁨이 크지만 아들과의 관계가 돈독해지고 있다는게 선물이자 기쁨이다”고 말했다.&lt;br&gt;&lt;br&gt;이유진도 같은날 “아버지가 내가 처음 도전하는 연극에 관심을 보이셨고 응원 차 출연 논의도 하셨는데, 나를 위해서 보다 ‘배우로서 이 작품이 하고 싶으실 수 있다’고 생각했다. 실제로 ‘작품 욕심이 났다’는 말씀을 하셨다. 그래서 최종 참여를 하신 것으로 안다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “아빠의 연기를 눈 앞에서 볼 수 있었는데 원래 있던 존경심이 더 생겼다. 어떻게 하면 그렇게 연기를 잘하는지 여쭤보고 싶어서 그 날 바로 본집에 따라갔다”며 “이번 연극은 그런 의미에서 더 더욱 안 하던 행동까지 하게 만든 소중한 기회이자 감사한 시간이라 생각한다”고 했다.&lt;br&gt;&lt;br&gt;이 매체가 이 같은 부자의 인터뷰를 소개하며 ‘부자간 동성애 연기’라는 식의 제목을 달자 네티즌들 사이에서는 “이건 아니다”는 식의 오해가 나온 한편, 일부 네티즌들은 “극중 동성애적 사랑을 느끼는 역할에 부자가 캐스팅이 된 거지, 부자관계에 동성애가 있다는 게 아니다. 잘못 이해하신 분들이 많은 것 같다” “그런 관계 아닌데 제목이 자극적이다” 등의 반응도 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] “3년 가느니 현역 입대”...공보의 65% 급감, 시골 보건소 비어간다</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/07/29/CWOHXNUJ2JAK5HZSRMBKZ7C7ZA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/29/CWOHXNUJ2JAK5HZSRMBKZ7C7ZA/</guid>
@@ -903,15 +912,6 @@
       <description/>
       <pubDate>Fri, 26 Jul 2024 12:59:36 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WMNRAUIKX4XJGNATABGQ5RX2DI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남경찰청. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6세 아동을 때려 다치게 한 태권도학원 관장이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;충남경찰청은 아동학대 범죄의 처벌 등에 관한 특례법 위반 혐의로 30대 관장 A씨를 불구속 송치했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 4월 11일 아산의 한 태권도장에서 자신이 가르치던 B(6)군의 얼굴에 상해를 입힌 혐의를 받는다.&lt;br&gt;&lt;br&gt;자폐성 장애를 앓고 있는 B군은 코뼈가 부러지고 얼굴에 타박상을 입는 등 전치 3주의 진단을 받았다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “훈육하던 중 B군이 자해하고 혼자 벽에 부딪혔다”며 혐의를 부인했다.&lt;br&gt;&lt;br&gt;경찰은 태권도장 내 폐쇄회로(CC)TV 영상과 B군의 일관된 진술, 거짓말탐지기 기법 등을 토대로 A씨가 B군을 폭행한 것으로 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전국에 일본뇌염 경보 발령</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/07/26/M5FOUBTT4ZFJHOBWPR2GPG7G5I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/26/M5FOUBTT4ZFJHOBWPR2GPG7G5I/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Jul 2024 12:00:53 +0000</pubDate>
-      <content:encoded>질병관리청이 전국에 일본 뇌염 경보를 발령했다. 기온이 높아져 작년보다 경보 발령 시기가 당겨졌다.&lt;br&gt;&lt;br&gt;26일 질병청에 따르면, 지난 24일 경남과 전남에서 일본뇌염을 전파하는 ‘작은빨간집모기’가 전체 모기의 63.2%(2456마리), 58.4%(1684마리)씩 채집돼 경보 발령 기준(50% 이상)을 넘어섰다.&lt;br&gt;&lt;br&gt;올해 경보는 작년보다 이틀 빨라졌다. 경남·전남 등 남부 지역의 지난 21~24일 평균 기온이 전년 대비 1.9도 높아진 영향으로 풀이된다. 기온이 올라가면 작은빨간집모기 활동도 빨라진다. 변온 동물인 모기는 기온이 오르면 체온이 함께 올라 성장 속도가 빨라지고 번식도 많이 한다고 한다. 작은빨간집모기는 논이나 동물 축사, 웅덩이 등에서 서식하며 주로 야간에 흡혈 활동을 한다.&lt;br&gt;&lt;br&gt;일본뇌염에 걸리면 보통 발열이나 두통 등 가벼운 증상이 나타난다. 하지만 감염자 250명 중 1명꼴로 바이러스가 뇌로 퍼지는 경우가 있다. 그러면 고열이나 발작, 마비 등 심각한 증상이 나타난다. 이 중 20~30%는 사망으로 이어진다. 증상이 회복돼도 30~50%는 손상 부위에 따라 다양한 신경계 합병증을 겪을 수 있다.&lt;br&gt;&lt;br&gt;지난 2019년부터 5년 동안 국내 일본뇌염 환자 수는 총 91명으로 조사됐다. 50대 이상이 87.9%(80명)를 차지했다. 지역별로는 경기, 서울, 강원 순으로 환자가 많았다.&lt;br&gt;&lt;br&gt;예방하려면 백신을 맞는 것이 좋다. 질병청 측은 “2011년 이후 출생자는 예방 접종을 할 것을 권고한다”며 “야외 활동을 할 땐 모기가 싫어하는 밝은 색의 긴 옷을 입고 모기 기피제를 사용하는 게 좋다”고 했다. 모기를 유인할 수 있는 진한 향수나 화장품 사용을 자제해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>대구 달서구 빌라 4층서 불…”1명 심정지·1명 중상”</title>
