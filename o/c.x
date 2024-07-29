@@ -13,6 +13,77 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>정신과 의사 양재웅, 환자 사망 사과...예비신부 하니도 악플 달려</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/29/NCLP7IC3ONCFJPFC52DQVBAZWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/29/NCLP7IC3ONCFJPFC52DQVBAZWE/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 12:45:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W72BAJGEYSPMXFTFQEMLOILMZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정신의학과 전문의 양재웅/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정신의학과 전문의 양재웅(42)이 자신의 병원에서 환자가 사망한 사건과 관련해 “의학적 법적 판단에 따라 책임을 다할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;양재웅은 29일 소속사 미스틱스토리를 통해 “참담한 심정을 감출 수 없으며 고인과 가족을 잃고 슬픔에 빠져계실 유가족분들께 진심으로 사죄드린다”며 이 같이 전했다.&lt;br&gt;&lt;br&gt;그는 “본 사건은 현재 본인이 대표자로 있는 병원에서 발생했다”며 “W진병원의 병원장으로서 이번 사건을 매우 심각하게 받아들이고 있다”고 했다. 이어 “진행되고 있는 수사에 진료 차트를 비롯해 당시 상황이 모두 담겨있는 CCTV 제공 등 최선을 다해 외부 기관과 협조에 임하고 있다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “고인에 대한 치료 과정 및 발생 사건에 대한 구체적 사항은 현재 수사 진행 중이기 때문에 치료 경위에 대한 추측성 글 및 자극적인 보도는 자제 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;그는 “병원장인 본인뿐만 아니라 모든 의료진은 향후 진행될 수사에 최대한 협조해 성실하게 임할 것”이라며 “다시 한번 유가족분들께 깊은 애도와 위로의 마음을 전한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QXESQNCOYBHOHNQMRXBI322MHU.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 27일 새벽 강박 조처되는 환자의 모습./ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 부천 원미경찰서 등에 따르면, 양재웅이 대표 원장으로 있는 부천의 한 정신병원에서 지난 5월 27일 오전 3시30분쯤 33세 여성 A씨가 숨졌다. 마약류 성분이 포함된 다이어트약 중독 치료를 위해 이 병원에 입원한지 17일 만이었다.&lt;br&gt;&lt;br&gt;A씨는 입원 후 배변 활동에 어려움을 겪으며 간헐적인 복부 통증을 보였고 사망 전날에는 극심한 복통을 호소한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;병원 방범카메라에는 A씨가 격리실(안정실)에서 배를 잡은 채 문을 두드리자 간호조무사와 보호사가 들어와 안정제를 먹이고 손발과 가슴을 침대에 묶는 강박 조처를 하는 모습이 담겼다.&lt;br&gt;&lt;br&gt;유가족은 “병원 측이 건강 상태가 나빠진 A씨를 방치해 숨지게 했다”며 지난달 유기치사와 업무상과실치사 혐의로 B씨 등 의료진 6명을 경찰에 고소했다. 국립과학수사연구원은 A씨 시신 부검을 진행한 뒤 “가성 장폐색 등으로 사망한 것으로 추정된다”는 소견을 경찰에 전달했다.&lt;br&gt;&lt;br&gt;병원 측은 A씨가 만성 변비 환자인 데다 계속 복통 호소를 한 게 아니어서 장폐색을 의심하기 어려웠고 대응에는 문제가 없었다는 입장이다.&lt;br&gt;&lt;br&gt;이런 사실이 알려지면서 양재웅과 9월 결혼을 앞두고 있는 그룹 EXID 출신 하니의 소셜미디어에 악플이 달리기도 했다. 양재웅은 SBS ‘모닝와이드’, MBC ‘생방송 오늘 아침’, 채널A ‘하트시그널’ 시즌 1,2 등에 출연했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아기 낳으면 공공임대주택 우선 공급 받는다</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/07/29/3TBR43UGBJFCBEQ4PSBJ3JXFEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/29/3TBR43UGBJFCBEQ4PSBJ3JXFEU/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 12:01:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FZU4LRJXWRNCLJWRPIONOMUB7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 서울 강남구 SH공사에 신혼부부를 위한 장기전세주택Ⅱ 관련 안내문이 붙어있다. 기사 내용과 무관한 사진. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이르면 올해 10월부터 2년 내 아이를 출산한 가구에 우선적으로 공공 임대주택이 공급된다. 또 가족 수에 따라 입주할 수 있는 공공 임대주택 면적에 제한을 둔 것도 폐지하기로 했다.&lt;br&gt;&lt;br&gt;저출산고령사회위원회는 29일 오후 ‘제2차 인구 비상 대책 회의’를 열고 지난달 내놓은 ‘저출생 추세 반전을 위한 대책’ 이행 현황을 점검하면서 추가 대책을 발표했다.&lt;br&gt;&lt;br&gt;공공 임대주택은 다자녀 가구를 비롯해 국가유공자, 북한이탈주민, 장애인 등에게 우선 공급된다. 월평균 소득이 기준 중위 소득의 100% 이하인 청년과 신혼부부·한부모가족, 고령자 등도 우선 공급 대상이다.&lt;br&gt;&lt;br&gt;현재는 임대주택 입주를 신청한 우선 공급 대상자들을 놓고 부양가족과 미성년 자녀 수, 청약 저축 납입 횟수 등 다섯 가지 기준으로 점수를 매겨 총점이 높은 순서대로 입주 자격을 준다. 앞으로는 우선 공급 대상자 중 출산한 지 2년이 안 된 가구의 경우 점수와 관계없이 ‘1순위’ 입주 자격을 준다. 출산 가구를 1순위로 입주시키고, 남은 물량을 우선 공급 대상자들에게 점수순으로 공급하는 것이다.&lt;br&gt;&lt;br&gt;가족 구성원 숫자에 따른 ‘면적 칸막이’도 없애기로 했다. 이전에는 1인 가구는 35㎡ 이하, 2인 가구는 26~44㎡, 3인 가구는 36~50㎡ 이하 등으로 입주 가능한 공공주택 규모가 제한돼 있었다. 앞으로는 가족 구성원 숫자에 관계없이 원하는 면적의 공공 임대주택에 입주 신청을 할 수 있게 된다. 정부 관계자는 “가족 숫자에 따라 신혼부부가 작은 규모의 주택에만 입주를 신청할 수 있다는 지적에 따른 것”이라고 했다.&lt;br&gt;&lt;br&gt;새로운 공공 임대주택 공급 기준은 공공주택특별법 시행규칙을 개정해야 시행된다. 국토부 관계자는 “오는 10월 시행을 목표로 개정 작업을 진행하겠다”고 했다.&lt;br&gt;&lt;br&gt;이른바 ‘스드메(스튜디오·드레스·메이크업)’ 등 각종 결혼식 준비 서비스에 대한 제도도 개선한다. 예비 신혼부부들은 ‘스드메’에 대한 정보가 부족해 과도하게 돈을 쓰거나 불필요한 서비스를 구매하는 등 피해가 적지 않았다.&lt;br&gt;&lt;br&gt;공정거래위원회는 주요 결혼 준비 대행사의 약관을 점검하고, 다음 달 직권조사를 실시한다는 방침이다. 또 업계 현황과 소비자 피해 실태를 바탕으로 내년 1분기까지 이른바 ‘웨딩플래너’ 업체의 표준 약관도 만든다는 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정육점에서 부하 직원 칼부림한 50대 男 구속</title>
+      <link>https://www.chosun.com/national/incident/2024/07/29/XRKNFZC7XZEDNMEBVUKWJUZATE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/29/XRKNFZC7XZEDNMEBVUKWJUZATE/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 11:51:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V52JIITDEVEJIAGQJPT345DA6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지법 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 27일 오후 4시쯤 서울 성동구 행당동의 한 할인마트 정육점에서 부하 직원을 흉기로 찌른 50대 남성 A씨가 구속됐다.&lt;br&gt;&lt;br&gt;서울동부지법 박희근 영장 전담 부장판사는 살인미수 혐의를 받는 A씨에 대해 “도망할 염려가 있다”며 29일 구속영장을 발부했다. A씨는 사건 직후 현행범 체포됐다. 경찰은 28일 A씨에 대한 구속영장을 신청한 상태였다.&lt;br&gt;&lt;br&gt;A씨는 지난 27일 오후 한 할인마트 정육점에서 부하 직원인 40대 B씨가 본인의 지시를 따르지 않고 반말로 항의한다는 이유로 시비가 붙었다가 작업장 내 흉기로 B씨의 복부를 한 차례 찌른 혐의를 받는다. A씨는 경찰 조사 과정에서 “피해자와 평소 사이가 좋지 않았고, 상급자인  지시를 따르지 않아 홧김에 이 같은 일을 벌였다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;피해자 B씨는 사건 직후 병원에 이송됐으며, 현재 1차 수술을 마친 상태다. 경찰 관계자는 “피해자의 상태가 사건 현장에선 위급했다”며 “의사 진단에 따라 시일을 두고 경과를 지켜볼 것”이라고 했다. 경찰은 현장에서 CCTV와 흉기를 확보해 감식 중이다.&lt;br&gt;&lt;br&gt;앞서 A씨는 이날 오후 2시 구속 전 피의자심문(영장실질심사)를 위해 법원에 출석하면서 “피해자에게 할 말이 없느냐”는 취재진 질문에 짤막히 “미안하다”고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HXS7EKMVUD6ITTJHTOBS2BYUHA.jpg?width=2278&amp;height=1282&amp;auth=5d7e75fe585bae85ca4c57c7d6e8d3b5996907c1faad0cd370955700b33e10f9&amp;smart=true" type="image/jpeg" height="1282" width="2278">
+        <media:description type="plain">서울동부지법 ⓒ News1 이비슬 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“샤프심 굵기 맞혀야”… 반효진이 명중한 과녁 크기 보니 </title>
+      <link>https://www.chosun.com/national/national_general/2024/07/29/ELSGZNDFMNGZ5K4SRENDKY44YE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/29/ELSGZNDFMNGZ5K4SRENDKY44YE/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 12:15:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HOOVHYZ4PBD5VLYZ36AJTXMJ3Y.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;10m 공기소총 표적지/ 올림픽 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 사격 대표팀 역대 최연소 선수인 반효진(16·대구체고)이 2024 파리올림픽 공기소총 10m 결선에서 29일(한국시각) 금메달을 목에 건 가운데, 그가 맞힌 표적지 크기가 온라인에서 화제가 되고 있다.&lt;br&gt;&lt;br&gt;이 종목은 구경 4.5㎜의 공기소총으로 10m 사거리에서 직경 45.5㎜의 표적을 조준하는 게임이다. 표적지 정중앙 10점짜리 원의 지름은 0.5㎜다. 샤프심이나 연필심 굵기 정도다. 이 점 하나를 10.0부터 10.9로 나눠 명중시켜야 한다. 육안으로는 식별조차 어렵다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/24DAHQKI7FGLXANFGD5CG2EOFA.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;10m 공기소총 표적지와 권총 표적지 비교./ E채널&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반효진이 겨냥한 표적지의 크기를 본 네티즌들은 놀랍다는 반응을 보였다. “10m 거리에서 표적지도 안보일 듯” “이정도면 눈 감고 쏘나 똑같은 거 아닌가” “시력이 얼마나 좋아야 하나” “군대 사격 생각하면 안 되겠네” “진짜 재능의 영역이네” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;특히 사격 선수의 시력이 궁금하다는 반응도 많았다. 2020 도쿄 올림픽에 출전했던 권은지는 시력이 0.1이다. 그는 한 언론 인터뷰에서 “눈이 나빠서 총에 달린 렌즈 없이는 전광판도 안 보인다. 몇 등인지도 모른 채 무념무상으로 쏜다”고 말하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3DLSMLNGKFIA5BP53WNNZDHRKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 24일 프랑스 샤토루 CNTS 사격장에서 2024파리올림픽 사격 대표팀이 훈련 하고 있다. (왼쪽부터) 금지현, 반효진, 최대한, 박하준
+/샤토루(프랑스)=올림픽사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반효진이 이날 획득한 금메달은 펜싱 오상욱, 사격 오예진, 양궁 여자 단체전에 이어 이번 올림픽 한국의 네 번째 금메달이다. 반효진은 한국 사격 역사상 최연소 메달리스트이자 하계 올림픽 대회 통산 100번째 금메달 주인공이라는 기록도 세웠다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VSOCWMALBZJBHDDAO77HMDBVCU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국 사격 대표팀 반효진이 29일(한국시각) 프랑스 샤토루 슈팅 센터에서 열린 2024 파리올림픽 사격 공기소총 10m 여자 시상식에서 금메달을 수여 받은 후 기뻐하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2007년 9월 20일생인 반효진은 만 16세다. 그는 중학교 2학년 때였던 2021년 사격 선수였던 친구 권유로 사격에 입문했다. 그는 3년 만에 국가대표 선발전을 1위로 통과해 올림픽에 출전했다. 전날 열린 공기소총 본선에서 반효진은 60발 합계 634.5점을 쏴 올림픽 신기록을 갈아치우며 전체 1위로 본선을 통과했다.&lt;br&gt;&lt;br&gt;결선에서 총계 251.8점을 기록, 중국의 황 위팅과 동점을 이룬 상황에서 슛 오프까지 가는 접전 끝에 0.1점 차로 금메달을 목에 걸었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>초열대야 나타난 영동... 속초 최저 30.6, 강릉 30.3</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/07/29/7NS4EKICLFH7LPRWTWRTF2Y34Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/29/7NS4EKICLFH7LPRWTWRTF2Y34Y/</guid>
+      <dc:creator>김윤주 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 12:02:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EUUQ24LJMJNSPCIUBNFM5ZVDPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;속초해수욕장이 야간 개장을 시작한 지난 26일 피서객들이 밤바다를 즐기고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 저녁 6시부터 29일 아침 9시 사이 강원 속초와 강릉에서는 기온이 30도 밑으로 떨어지지 않는 ‘초열대야’가 나타났다. 열대야는 저녁~아침 최저기온이 25도 밑으로 내려가지 않는 것을 뜻한다. 초열대야는 기상청에서 공식 집계하지는 않지만, 열대야보다 극심한 더위를 표현하기 위해 사용하는 개념이다.&lt;br&gt;&lt;br&gt;이날 밤 사이 속초의 최저기온은 30.6도를 기록했다. 강릉도 최저 30.3도를 보였다. 밤새 최저기온이 25도 아래로 내려가지 않으면 너무 더워 잠들기 힘들기 때문에 열대야로 분류된다. 초열대야는 이보다 기온이 최소 5도 높았다는 뜻이다. 8월이 아닌 7월이나 6월에 초열대야가 나타나는 것은 상당히 이례적이다.&lt;br&gt;&lt;br&gt;강원 영동의 초열대야는 밤새 이어지는 ‘바람의 등산’ 때문이다. 따뜻한 남서풍이 태백산맥을 오를 때는 고도가 높아짐에 따라 열을 빼앗기지만, 일단 정상을 넘고 나면 빠른 속도로 하강하면서 뺏긴 열보다 더 많은 열을 흡수한다.&lt;br&gt;&lt;br&gt;한편 올해 6월 1일부터 7월 28일까지 전국 평균 열대야 일수는 7.1일을 기록해 1994년 6~7월(8.6일) 이후 30년 만에 최다를 기록했다. 1994년은 해방 이후 최악의 폭염으로 기록된 해다. 올해는 1994년과 2018년처럼 강하게 발달한 고기압 영향으로 폭염이 나타나고 있다. 서울과 부산 등 전국 곳곳에서 열대야가 당분간 계속 이어질 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>돈 받고 화물 빼돌려… 인천 부두운영사 전 직원 4명 입건</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2024/07/29/BAK2ZHIFVVFPNCD4ZNSHAAXR44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2024/07/29/BAK2ZHIFVVFPNCD4ZNSHAAXR44/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 12:05:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I2QW2RMUJHH2G2UCQ6M5HF5VEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천내항 전경. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 내항 부두 운영업체 전직 직원들이 돈을 받고 벌크화물을 외부로 빼돌려 해경이 수사에 나섰다.&lt;br&gt;&lt;br&gt;중부해양경찰청 광역수사대는 특수절도 혐의로 인천내항부두운영주식회사(IPOC) 전 직원 4명을 불구속 입건했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 IPOC에서 근무하던 지난 3월부터 한 달 동안 내항으로 들어온 벌크화물인 사료 부원료 84t가량을 외부로 빼돌린 혐의를 받는다.&lt;br&gt;&lt;br&gt;해경은 이들이 28t 화물차 3대 분량의 사료 부원료를 빼돌린 것으로 보고 대가로 받은 금품 규모 등을 파악하고 있다.&lt;br&gt;&lt;br&gt;앞서 ‘직원들이 돈을 받고 화물을 빼돌린다’는 의혹이 제기되자 이번에 입건된 4명을 포함해 총 6명의 직원이 집단으로 IPOC에 사직 의사를 밝힌 것으로 알려졌다.&lt;br&gt;&lt;br&gt;당시 해당 의혹을 자체 조사한 IPOC는 이들 6명이 사료 부원료 200여t을 빼돌리고 대가로 2400만원을 받은 것으로 추정했다.&lt;br&gt;&lt;br&gt;IPOC는 인천 내항의 9개 부두운영회사를 통합해 2018년 설립된 회사로 27개 선석과 장치장·창고 등을 운영하고 있다.&lt;br&gt;&lt;br&gt;해경 관계자는 “현재 입건된 피의자 중 일부는 혐의를 인정한 상태”라며 “구체적인 범행 규모와 수법, 추가 피의자에 대해 수사를 벌일 방침이다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/I2QW2RMUJHH2G2UCQ6M5HF5VEU.jpg?width=540&amp;height=318&amp;auth=8dde2f156ebcc3e0fa774e299b359c0245dc1c59113807eae989acafa291c4c8&amp;smart=true" type="image/jpeg" height="318" width="540">
+        <media:description type="plain">인천내항 전경. 130년전의 개항장으로 주변에 개항 당시의 모습을 보여주는 시설물들이 많이 있다.</media:description>
+        <media:credit role="author" scheme="urn:ebu">조선일보 DB</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>LG 트윈스 현직 코치, 강남서 음주측정 거부하다 현행범으로 체포</title>
+      <link>https://www.chosun.com/national/incident/2024/07/29/ORSNC6KDJJH7VOWHPE42EVF2V4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/29/ORSNC6KDJJH7VOWHPE42EVF2V4/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 10:31:41 +0000</pubDate>
+      <content:encoded>술을 마신 채 차를 몰고 음주 측정을 거부한 혐의로 LG 트윈스 현직 코치 30대 A씨가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OZEVR6RLGNF7FPDBUSZLYANVPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;LG 트윈스 로고. /LG 트윈스 공식 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남경찰서에 따르면 A씨는 29일 오전 6시 30분쯤 강남구 삼성동에서 음주운전을 하다 경찰의 음주 측정 요구를 거부한 혐의(도로교통법상 음주측정거부)를 받는다.&lt;br&gt;&lt;br&gt;경찰은 음주운전 의심 신고를 받고 출동해 음주 측정을 요구했으나 A씨가 이를 거부하자 현행범으로 체포했다. A씨는 이후 경찰에 음주 사실을 시인한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘정산 지연’ 티몬·위메프 법원에 기업회생 신청</title>
       <link>https://www.chosun.com/national/court_law/2024/07/29/4UHVDIEP7ZBLBGBJ4HFMDQ6R7E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/29/4UHVDIEP7ZBLBGBJ4HFMDQ6R7E/</guid>
@@ -872,69 +943,6 @@
       <description/>
       <pubDate>Sun, 28 Jul 2024 06:35:43 +0000</pubDate>
       <content:encoded>담당 관청의 허락을 받지 않고 ‘튜닝(개조)’된 연구용 자동차를 운행한 대학원생에 대한 검찰의 기소유예 처분이 헌법재판소에서 취소됐다. 기소유예는 혐의는 있지만 반성과 피해 정도를 고려해 기소하지 않는 것이다. 전과 기록에는 남지 않지만 징계 사유 등은 될 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZG6DJ5N7NBWWFA35E7B3ADTVYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헌법재판소 심리 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소는 서울중앙지검이 작년 9월 서울대 대학원생 A씨에게 내린 기소유예 처분에 대해 최근 재판관 전원일치 의견으로 취소했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;서울대 공대 대학원에 다니던 A씨는 작년 7월 서울 강변북로에서 무허가 차량을 운행한 혐의로 입건됐다. 자동차관리법에 따르면 모든 자동차 소유자는 국토교통부령으로 정하는 항목에 대해 튜닝을 하려는 경우 관할 관청의 승인을 받아야 하며, 승인을 받지 아니한 자동차인 것을 알면서 이를 운행하면 안 된다. A씨가 운행한 차는 서울대 산학협력단이 소유한 연구용 차량으로 뒷줄 좌석이 제거돼 있다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “언제 어떻게 좌석이 탈거(제거)됐는지 모른다. 단속 이전에는 자동차 구조를 변경하려면 승인받아야 한다는 사실을 몰랐다”고 진술했다. 검찰은 A씨의 자동차관리법 위반 혐의를 인정해 기소유예 처분을 내렸다. A씨는 검찰의 기소유예 처분이 자신의 평등권과 행복추구권을 침해했다며 작년 11월 헌재에 헌법소원 심판을 청구했다.&lt;br&gt;&lt;br&gt;헌재는 A씨 주장을 받아들여 “이 사건 기소유예 처분에는 결정에 영향을 미친 중대한 수사미진 또는 증거 판단의 잘못이 있고, 그로 인해 청구인의 평등권과 행복추구권이 침해됐다”며 검찰의 처분을 취소했다.&lt;br&gt;&lt;br&gt;헌재는 “이 사건 차량은 연구를 위해 공용으로 사용되었던 것으로 보이는데 차량을 언제, 누가 튜닝했는지 추단할 만한 아무런 증거가 없다”며 “A씨로서는 이 차량이 산학협력단 소유 차량으로 당연히 관련 규정을 모두 준수해 운행됐을 것이라 판단했을 가능성이 높다”고 판단했다. 그러면서 “자동차관리법은 ‘튜닝된 자동차인 것을 알면서’라는 고의를 명시적으로 요구하고 있다”며 “A씨는 경찰 조사에서 관청의 승인을 받아야 한다는 사실을 몰랐다고 진술했고, 차량 소유자가 아닌 A씨에게 이를 확인할 의무가 있었다고 볼 수도 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>핀잔 줬다며 폭행해 살해한 20대, 2심서 징역 23년</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/28/T4ZEEK3LWJAWZNZBEKO5QOYPFQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/28/T4ZEEK3LWJAWZNZBEKO5QOYPFQ/</guid>
-      <dc:creator>송원형 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 06:00:10 +0000</pubDate>
-      <content:encoded>핀잔을 들었다는 이유로 모임에 만난 사람을 수십 차례 때려 숨지게 한 혐의로 기소된 20대가 2심에서 1심보다 형량이 늘어난 징역 23년을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6Z2CPKMHZF7JCPKBDGRQY6BL4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사2부(재판장 설범식)는 살인 등 혐의로 구속기소된 A(27)씨의 항소심에서 징역 20년을 선고한 1심을 깨고, 징역 23년에 전자장치 부착 20년을 선고했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 작년 6월 서울 관악구 신림동의 한 술집에서 애플리케이션을 통해 만난 사람들과 술을 마시던 중 한 참석자를 5분간 80차례 정도 때려 숨지게 한 혐의로 기소됐다. A씨는 인근 마트에서 로또를 사려다가 피해자에게 욕설과 함께 ‘담배나 사라’는 얘기를 듣자 피해자를 때린 것으로 조사됐다. A씨는 피해자가 제대로 숨을 쉬지 못하고 고통스러워하는데도 폭행을 멈추지 않았다고 한다.&lt;br&gt;&lt;br&gt;A씨는 학창 시절 ‘극진공수도’라는 무술을 약 6년간 배웠고 관련 대회에 출전해 입상하기도 했다. 미성년자일 때부터 폭력 사건으로 수차례 보호처분을 받았으며, 2017년 이후 같은 전과가 여섯 차례 있는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “A씨의 살인 범행은 사실상 별다른 이유가 없는 무작위 살인에 해당한다”며 “범행의 방법과 수법 역시 잔혹하다”고 판단했다. 그러면서 “A씨의 범행 직후 피해자는 의식이 없는 상태로 병원으로 후송됐고 회복 가능성이 없는 상태에서 보존적 치료를 받다 결국 사망했다”며 “A씨가 수차례 폭력범행으로 처벌받은 전력이 있고, 누범 기간 내 사건 범행을 저지른 점을 더해 보면 처벌을 가볍게 하기 어렵다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“두 눈을 의심했다” 우리집 변기에 설치된 몰카… 범인은</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/25/LWBWCLP4DRCZPD4O3IFWDXN2MI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/25/LWBWCLP4DRCZPD4O3IFWDXN2MI/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jul 2024 07:57:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VSWOXZ7YP5ENPAIREKIMSU3KAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부부가 사는 한 아파트에 누군가 몰래 들어와 화장실에 카메라를 설치했다는 사연이 전해졌다. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부부가 사는 한 아파트에 누군가 몰래 들어와 화장실에 카메라를 설치했다는 사연이 전해졌다. 아파트 해당 층에 방범카메라가 없는 등 수사 단서가 부족해 3개월의 수사에도 범인은 잡히지 않았다고 한다.&lt;br&gt;&lt;br&gt;인스타그램 이용자 A씨는 최근 ‘그동안 일상 피드를 올리기 힘들었던 이유’라는 제목으로 이같은 사연을 전했다. A씨는 3개월 전 동생 부부와 함께 평소보다 3시간 가량 일찍 귀가했다가 화장실에 설치된 몰래카메라를 발견했다. 집에 손님이 방문해 변기가 깨끗한지 확인하려고 무심코 변기 커버를 들었는데, 커버 틈새에 불이 깜빡이는 검은색 사각형 형태의 카메라가 놓여있었다. 카메라는 샤워 부스 방향으로 놓여있었다고 한다.&lt;br&gt;&lt;br&gt;A씨의 남편이 아침에 항상 변기를 확인하고 청소도 자주 하지만, 카메라를 발견한 건 이번이 처음이었다. A씨는 “제가 나갔을 때 몰래 들어온 게 확실하다”며 “오전에 운동을 하러 간다고 1시간 정도 집을 비운 후 돌아와서 씻고 출근하는데, 언제 들어왔는지는 정확히 확인하지 못했다”고 했다. 또 “범인은 카메라를 두고 나간 후 제가 돌아오기 전에 카메라를 수거하려 했지만 제가 평소보다 빨리 들어왔고 동생 부부가 같이 와서 수거하지 못한 것으로 보인다”고 추측했다.&lt;br&gt;&lt;br&gt;경찰은 수사에 난항을 겪었다. A씨가 사는 아파트의 같은 층에는 방범 카메라가 없어 범인의 모습을 확인하지 못했다. 카메라는 지문이 잘 남지 않는 소재였고 카메라의 메모리칩마저 손상돼 복구하지 못했다. 침입 흔적을 확인하기 위해 과학수사팀까지 방문했지만, 결국 수사기관은 범인을 잡지 못했다. A씨는 “경찰도 놀랄 정도로 미스터리한 부분이 많아 수사가 까다로웠다”며 “담당 형사님이 직접 건물을 살펴보시고 노력해주셨지만 지능범이라 단서를 찾기가 쉽지 않았다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 사건 이후 원형 탈모가 오는 등 심적으로 힘들었다고 한다. 그는 “집이 안전한 공간이 아니라는 생각에 힘든 시간을 보냈다”며 “이런 일이 있다는 것만 인지해도 더 조심할 수 있으니 이런 일이 더 일어나지 않기를 바라는 마음으로 위험을 감수하고 꼭 알리려고 용기 냈다”고 했다. 특히 A씨는 복도식 아파트에 살거나 혼자 사는 이들을 향해 “터치식 도어락은 누르기 전 주변을 살피고 도어락을 누른 후 꼭 지문을 닦으셔야 한다”며 “현관에 카메라 설치하는 것도 안전한 방법”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘국제운전면허증 위조 판매’ 20대, 1심서 징역 2년…법원 “죄질 불량”</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/28/Y4WKY2NWMZAY7AYIDVAQNJQKQE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/28/Y4WKY2NWMZAY7AYIDVAQNJQKQE/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 05:37:21 +0000</pubDate>
-      <content:encoded>국제운전면허증을 위조해 국제학교에 다니는 학생들에게 판매한 20대 남성이 1심에서 실형을 선고받았다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사24단독 유동균 판사는 사문서위조 혐의로 기소된 A(20)씨에게 징역 2년을 선고했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2F2K6DYQJWEV4YSCW3AGYLT36E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 2022년 8월부터 2023년 5월까지 평소 알고 지내던 지인을 통해 국제학교 학생들에게 1건당 15~20만원을 받고, 미국 뉴욕주 자동차국 국장, 사우스캐롤라이나주 주지사 등 명의로 37회에 걸쳐 국제운전면허증 위조해 준 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;A씨는 지인을 통해 국제운전면허증 위조를 원하는 학생들에게 허위의 이름과 생년월일을 입력할 수 있는 설문지 양식을 보냈으며, 범행을 위해 빈 플라스틱 카드, 홀로그램 필름, 복합카드 발급 기기, 홀로그램 코팅 기기 등을 구입한 것으로 조사됐다. A씨에게 위조된 국제운전면허증을 받은 미성년 국제학교 학생들은 이 면허증을 이용해 술집에 드나들었다고 한다.&lt;br&gt;&lt;br&gt;유 판사는 “A씨는 전문적인 위조 장비를 사용해 미국 운전면허증을 위조하고, 미성년자들에게 영리를 목적으로 판매했다”며 “위조하거나 판매한 운전면허증의 수가 많고 그로 인한 수익이 적지 않다”고 했다. 유 판사는 또 “면허증을 구매한 자들은 미성년자임에도 주점에 출입하기 위해 위조를 의뢰했고 일부는 이를 행사했다”며 “죄질이 매우 불량하고 사회적 해악이 크다. A씨가 범행을 모두 인정하고 형사처벌을 받은 전력이 없는 점을 유리한 정상으로 보더라도 엄중한 처벌이 필요하다”고 했다. A씨는 1심 판결에 불복해 항소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘배터리 80% 차면 충전 종료’ 서울시, 전기차 급속 충전기 충전 제한 9월 도입</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/28/K75NBFC7CVDURKEARDEUCNK634/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/28/K75NBFC7CVDURKEARDEUCNK634/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 05:17:23 +0000</pubDate>
-      <content:encoded>서울시가 시내 곳곳에 설치돼있는 전기차 급속 충전기의 충전율을 80%로 제한한다. 전기차 배터리가 80%까지 차면 자동으로 충전을 멈추는 것이다.&lt;br&gt;&lt;br&gt;서울시는 오는 9월부터 이 같은 80% 충전 제한 제도를 시범 운영한다고 28일 밝혔다. 서울시가 소유한 100㎾ 이상 급속 충전기부터 시작해, 연내 민간 보유분까지 총 400여기의 시내 급속 충전기에 80% 충전 제한을 적용할 방침이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “정부 차원에서 충전 제한을 시도한 적은 있지만 지방자치단체 차원은 처음”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JTNEVW42BJOO5GCOSRRX6TURYY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산역 주차장에 위치한 전기차 충전소에서 전기차가 충전을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전기차 배터리는 충전율이 80%를 넘으면 충전 속도가 느려진다. 또 전류를 계속 공급해 100% 완충 상태를 유지할 경우 과충전으로 배터리 성능이 떨어지고, 화재 발생 우려도 커진다.&lt;br&gt;&lt;br&gt;급속 충전기를 마치 주차장처럼 이용하는 일부 ‘얌체 운전자’도 있다. 서울시 관계자는 “급속 충전기는 일종의 공공재이기 때문에 다수가 편리하게 이용하기 위해선 제한이 필요하다고 판단했다”고 했다.&lt;br&gt;&lt;br&gt;서울시는 9월 중순부터 서울시 소유 급속 충전기를 중심으로 펌웨어를 업데이트할 계획이다.&lt;br&gt;&lt;br&gt;다만 현재는 충전이 중단되더라도 차량 소유자가 차량을 이동시키지 않으면 제재할 방법이 없다. 서울시 관계자는 “충전이 끝난뒤 일정 시간이 지나도 이동하지 않으면 추가요금 같은 ‘패널티’를 부과하는 방안을 검토 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>머지포인트 피해자 또 승소… “티몬 위메프는 책임질 필요 없어”</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/28/VZYHWBXS6FABTNEKSDLTISPEK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/28/VZYHWBXS6FABTNEKSDLTISPEK4/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 04:06:26 +0000</pubDate>
-      <content:encoded>2021년 환불 대란이 일어났던 ‘머지포인트’ 이용자들이 운영사를 상대로 낸 손해배상 소송에서 이겼다. 법원은 머지포인트를 판매한 티몬·위메프 등 온라인 쇼핑몰에겐 배상 책임이 없다고 봤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PTBNAVKOUPHOVDPKB5W5D5YCMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 서울 강남구 티몬 신사옥에서 '판매 대금 미정산 사태'로 피해를 입은 소비자들이 환불 현장 접수를 위해 기다리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 민사905단독 이국현 부장판사는 머지포인트 이용자 300명이 운영사 머지플러스 등을 상대로 제기한 손해배상 소송에서 원고 승소로 판결했다.&lt;br&gt;&lt;br&gt;이 판사는 권남희(39) 머지플러스 대표와 동생 권보군(36) 최고전략책임자(CSO), 머지플러스 등이 이용자들에게 총 2억 2454여만원을 지급해야 한다고 판단했다. 이용자들은 1인당 수십만원에서 1000만원까지 손해배상을 청구했고, 법원은 이를 모두 인정했다.&lt;br&gt;&lt;br&gt;이 판사는 작년 10월 권남희·권보군씨가 사기 혐의로 각각 징역 4년·8년을 대법원에서 확정받으면서, 이용자들이 머지머니를 사용할 수 없게 됐기 때문에 책임을 져야 한다고 판단했다. 당시 권씨 남매는 언제든 사업이 중단될 수 있는 재정 상태에서 피해자들을 속여 머지머니 등을 판매한 혐의로 유죄를 인정받았다.&lt;br&gt;&lt;br&gt;이용자들은 머지포인트 상품권을 판매한 티몬·위메프도 함께 책임을 져야 한다고 주장했다. 하지만 이 판사는 “티몬·위메프는 머지포인트가 더 이상 유지될 수 없음이 명백한데도 판매를 계속했다는 점을 인정할 증거가 없다”며 배상책임을 인정하지 않았다.&lt;br&gt;&lt;br&gt;또 티몬·위메프이 머지포인트를 적극 홍보했다는 주장에 대해선 “통상적인 영업활동이므로 불법행위를 방조했다고 평가하기 어렵다”고 봤다. 이들이 홈페이지 하단에 자신들을 ‘통신판매중개자’라고 기재한 점, 입점 판매자의 상품정보·거래에 대해 책임을 지지 않는다는 점을 명시했다는 점에서도 배상책임이 없다고 봤다.&lt;br&gt;&lt;br&gt;머지포인트는 2018년 음식점·편의점 등에서 20% 할인된 가격에 사용할 수 있다며 판매된 전자화폐다. 소비자가 머지포인트 상품권을 사면 액면가보다 더 많은 몫의 ‘머지머니’를 충전해줘 100만명의 사용자를 끌어모았다. 하지만 2021년 8월 주요 가맹점이 대거 계약을 해지하면서 대규모 환불 사태가 벌어졌다.&lt;br&gt;&lt;br&gt;머지포인트는 2020년 5월∼2021년 8월 적자가 누적된 상태에서 자체 현금 없이 고객의 선결제 대금을 통해 이른바 ‘돌려막기’ 방식으로 서비스를 유지해왔다. 결국 운영사는 1000억원대의 환불금을 돌려주지 못했다. 검찰이 파악한 머지포인트 구매자의 피해액은 751억원, 머지포인트 제휴사 피해액은 253억원이었다.&lt;br&gt;&lt;br&gt;머지포인트 이용자들이 운영사를 상대로 낸 소송에서 이긴 건 이번이 처음이 아니다. 작년 9월 서울중앙지법 민사22부(재판장 최욱진)는 머지포인트 이용자 148명이 머지포인트 운영사 등을 상대로 제기한 2억여원 상당의 손해배상 소송을 일부 승소로 판결했다. 당시 재판부도 머지포인트 운영자 등의 배상책임은 인정했지만, 머지포인트를 판매한 온라인 쇼핑몰 등에 대한 손해배상 청구는 받아들이지 않았다.&lt;br&gt;&lt;br&gt;한편 최근 티몬·위메프에서 거래 대금이 제때 지급되지 않아 소비자들의 환불 요구가 빗발치자, ‘머지포인트 사태’가 재현될 수 있다는 우려가 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>충북도와 보은군은 별개… 대법, 농업인 수당 범위 넓힌 보은군 “적법” </title>
-      <link>https://www.chosun.com/national/court_law/2024/07/28/4YJGTI2XIJGJBCSPRMVNU7KQRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/28/4YJGTI2XIJGJBCSPRMVNU7KQRQ/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 05:01:50 +0000</pubDate>
-      <content:encoded>보은군의회가 상위 지방자치단체인 충청북도가 정한 것보다 더 많은 농업인들에게 지원금을 주기로 해도 법에 어긋나지 않는다는 대법원 판결이 나왔다. 법원은 보은군과 충북도가 각각 만든 조례안이 별개라고 봤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T4TSMEPX3Y66KZL6HLOTQO4LFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 1부(주심 노태악 대법관)은 보은군이 군의회를 상대로 낸 조례안 재의결 무효 확인 소송에서 지난달 27일 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;충북도는 충북 지방보조금 관리 조례를 제정해 ‘직전 3년 이상 충북에 거주하며 전년도 소득이 2900만원 미만인 농가’에게 농업인 수당을 지급하기로 했다. 충북도는 농업인 수당의 40%는 도비로, 60%는 시·군비로 나눠 부담하기로 정하고 보은군에 협조를 구했다.&lt;br&gt;&lt;br&gt;하지만 보은군의회는 이 분담 요구를 거부했다. 대신 ‘직전 2년 이상 보은군에 거주하며 전년도 소득이 3700만원 미만인 농가’를 지급 대상으로 하는 자체 조례안을 만들어 2022년 4월 본회의에서 통과시켰다. 보은군의회가 충북도보다 소득·거주 요건을 완화해 수당 지급 대상을 확대한 것이다.&lt;br&gt;&lt;br&gt;보은군수는 이 조례안이 지방자치법 30조를 위반했다며 반대했다. 지방자치법 30조는 ‘시·군 및 자치구의 조례는 시·도의 조례를 위반해선 안된다’고 정하고 있다. 보은군수는 보은군의회에 재의를 요구했지만 받아들여지지 않자 대법원에 소송을 냈다.&lt;br&gt;&lt;br&gt;대법원은 조례에 문제가 없다 보고 보은군수의 청구를 기각했다. 보은군과 충북도의 조례는 별개이기 때문에 법을 위반하지 않았다 본 것이다. 대법원은 “이 사건 조례안은 보은군 자체적으로 농업인 공익수당 지원사업을 시행하기 위해 마련된 것”이라며 “충북 조례와 구별되는 별개의 독자적인 농업인 공익수당 사업을 목적으로 한다”고 했다.&lt;br&gt;&lt;br&gt;또 충북 조례에 따르면 수당을 받을 자격이 없는 사람이 보은군 조례로 인해 수당을 지원받는 경우가 생기더라도, 두 조례는 별개이므로 상관이 없다고 했다. 대법원은 “보은군 조례가 충북 조례보다 지급 대상 요건을 완화하고 있더라도 충북 조례가 의도하는 목적과 효과를 저해하는 바가 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>도움닫기·든든·디딤돌·성장...서울시 안심소득 새 이름은?</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/28/FRVLHBPR3NHU3LV2Y7L7OIZKQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/28/FRVLHBPR3NHU3LV2Y7L7OIZKQA/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 04:46:08 +0000</pubDate>
-      <content:encoded>서울시 안심소득의 새 이름 후보가 나왔다.&lt;br&gt;&lt;br&gt;서울시는 안심소득 출범 2주년을 기념해 진행한 ‘안심소득 네이밍 시민 공모전’ 당선작 20개를 28일 공개했다.&lt;br&gt;&lt;br&gt;안심소득은 가구별 소득에 따라 현금을 차등 지급하는 서울시의 선별 복지 제도다.&lt;br&gt;&lt;br&gt;최우수에 해당하는 ‘최고안심상’에는 도움닫기 소득, 든든소득, 디딤돌소득, 성장소득 등 4개가 뽑혔다. 안심소득 정책의 가치를 직관적으로 잘 전달할 수 있다는 평가를 받은 이름들이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBEJYJYVZJURP6BBG6FIXKJAHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안심소득 공모전&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우수상인 ‘하후상박상’ 16개는 근로활력소득, 내일준비소득, 더가치소득, 더함+소득, 도약소득, 동행소득, 디딤소득, 미래응원소득, 생활소득, 성장동행소득, 안심도약소득, 자립지원소득, 채움소득, 희망더하기소득, 희망디딤돌소득, 희망소득이다.&lt;br&gt;&lt;br&gt;서울시는 오는 8월5~30일 최우수상을 받은 이름 4개를 시민투표에 올려 선호도를 조사할 계획이다. 최종적으로 정해진 이름은 9월 초 발표한다.&lt;br&gt;&lt;br&gt;이번 공모에는 1만8000여명이 이름을 제안했다. 중복이나 무의미한 단어를 빼면 총 1만2580건이 접수됐다. 서울시는 1차 내부 심사, 2차 전문가 심사를 거쳐 당선작 20개를 선정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>연이은 경찰관 사망에 내부 술렁.. 윤희근 경찰청장 “유족 최대한 지원할 것”</title>
