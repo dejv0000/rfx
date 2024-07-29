@@ -13,6 +13,196 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] ‘아열대 코리아’… 서울이 방콕보다 덥다</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/07/30/KXJ6PYZRLFFWFP5FLC4KD3S64Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/30/KXJ6PYZRLFFWFP5FLC4KD3S64Y/</guid>
+      <dc:creator>박상현 기자, 김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 20:06:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/34MOEVACJJIH3OQNNPEOSJCXGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭염 경보가 발효 중인 29일 대구 중구 공평네거리에서 시민들이 지열로 인한 아지랑이가 피어오르는 도로를 지나가고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장마전선(정체전선)의 영향권에서 벗어난 최근 우리나라 주요 도시의 더위와 습도가 태국 방콕보다 심했던 것으로 나타났다. 한반도의 아열대화가 빠르게 진행되고 있는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CTJT2OFWY5BZTGDD2UBFTZT2IA.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 태국 기상청에 따르면, 지난 24~28일 방콕의 일평균 기온은 섭씨 29.3도, 평균 습도는 72%로 나타났다. 같은 기간 제주(29.9도), 대구(29.6도)는 방콕보다 기온이 높았고, 다른 도시도 28도 이상을 기록했다. 습도는 우리나라 전역이 방콕보다 높았다. 서울이 최고 32.2도, 습도 80%를 기록한 지난 25일엔 더위 지표에서 모두 방콕(최고 30.7도, 습도 76%)을 앞서기도 했다. 최근 태국을 다녀온 여행객 사이에선 “방콕이 서울보다 시원하다” “이제 피서를 동남아로 가야겠다” 등의 후기가 많은데 실제 수치로도 그렇게 나타난 것이다. 동남아에 버금가는 무더위 속에 최근 폭염으로 인한 사망 사고가 4건 발생했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B2WCAZU3S5B67MXERMIWEXKEJE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라 여름이 동남아에 가까워지는 것은 고온 다습한 남풍(南風)의 영향이 크다. 남풍은 여름철 한반도 남동쪽에 위치한 북태평양고기압의 영향으로 바다에서 육지로 불어온다. 온난화 영향으로 해수면 온도 상승과 함께 남풍이 더 높은 온도로 더 많은 습기를 머금은 채 불어오고 있다. 더위를 결정짓는 온도와 습도를 남풍이 동시에 높이고 있는 것이다.&lt;br&gt;&lt;br&gt;뜨겁고 축축한 바람은 낮 동안 햇볕에 달궈진 지표의 열기를 가두는 효과가 있다. 바다가 뜨거워질수록, 고온 다습한 바람이 더 많이 불어들수록 우리나라 여름은 더 더워지는 셈이다.&lt;br&gt;&lt;br&gt;태국은 계절이 3개로 나뉜다. 현지어로 ‘르두 런’(3~5월)은 온도·습도가 절정에 달하는 한여름, ‘르두 폰’(6~10월)은 스콜이 쏟아지는 우기, ‘르두 나우’(11월~이듬해 2월)는 우리나라 봄가을처럼 비교적 선선한 건기(乾期)이자 겨울이다. 우리나라의 여름은 이런 동남아의 일 년을 압축해 놓은 듯 변해가고 있다.&lt;br&gt;&lt;br&gt;과거 우리나라는 초여름인 6월에 기온이 서서히 오르다가, 6월 말~7월 말 장마가 찾아오고, 8월엔 폭염에 시달리는 패턴을 보여왔다. 그런데 2020년대 이후로는 장마가 끝난 8월에도 장마에 버금가는 비가 내리고 있다. 2020년 8월 7~8일 이틀간 347.8㎜의 비가 내려 발생한 섬진강 유역 홍수, 재작년 8월 8일 서울 강남을 잠기게 한 시간당 141.5㎜의 집중호우 등 장마는 더 이상 ‘한 해 가장 많은 비가 내리는 시기’가 아니게 됐다. 마치 동남아의 우기처럼 여름철 내내 비가 내리고 있는 것이다.&lt;br&gt;&lt;br&gt;동남아의 ‘스콜’과 비슷한 현상도 자주 발생한다. ‘스콜’은 낮 동안 강한 일사로 지표의 수분이 증발해 오후쯤 일시에 퍼붓는 강수 현상이다. 뜨거워진 공기가 상승하다가 대기 중 수분이 포화 상태에 이르러 순간 폭발하는 것이다. 우리나라에선 스콜이 내리지 않지만, 스콜에 버금가는 위력을 가진 강한 소나기가 최근 쏟아지고 있다. 하루 30~60㎜의 소나기가 26~28일 내내 퍼부었다. 한 번 내릴 때 시간당 30~50㎜로 강하게 몰아쳤다.&lt;br&gt;&lt;br&gt;장마가 끝물에 다가온 현재는 높은 온도, 높은 습도가 동남아식 극한 더위를 부추기고 있다. 30~31일 최고기온은 36도로 예보돼 평년(최고 32.8도)을 3도 이상 크게 웃돌 것으로 예상된다. 남풍이 계속 불어드는 상황에서 현재 한반도 대기 상·하층을 각각 티베트고기압과 북태평양고기압이 장악하고 있어 마치 이불을 덮은 듯 열기가 빠져나가지 않고 있다. 일사가 강해지는 8월에 들어서면 전역에 40도에 육박하는 폭염이 닥칠 수 있다는 관측도 나온다.&lt;br&gt;&lt;br&gt;극한 폭염 피해도 속출하고 있다. 지난 5월부터 현재까지 온열 질환자가 총 925명 발생했고, 이 중 4명이 사망했다. 지난 23일 경북 상주에서 밭일을 하고 돌아온 60대 남성이 고열에 시달리다 다음 날 오전 8시쯤 숨졌고, 25일 전남 장흥에선 80대 여성이 밭에서 숨진 채 발견됐다. 지난 7일엔 가수 싸이의 광주광역시 콘서트 현장에서 온열 질환 등 의심 환자 82명이 발생해 이 중 4명이 병원으로 이송됐다. 폭염의 영향으로 닭, 오리 등 가축 폐사도 급증하고 있다. 올여름 폭염으로 폐사한 가축은 10만8847마리로 집계됐다. 작년 같은 기간 피해(1만8893마리)의 5.8배에 달한다. 닭·오리 등 가금류가 9만8271마리로 가장 많았고, 돼지도 1만576마리가 죽었다.&lt;br&gt;&lt;br&gt;이런 변화는 결국 한반도가 온대기후에서 아열대기후로 바뀐다는 것을 뜻한다. 기상청은 최악의 경우 21세기 후반기(2081~2100년)에 우리나라 전역이 아열대기후로 변할 수 있다고 보고 있다. 아열대기후가 되면 일년 중 9개월 넘게 기온이 영상 10도 이상으로 올라가고, 한 해 강수량이 2000㎜ 정도로 늘어난다. 현재 우리나라 평년(1991~2020년·30년) 연 강수량은 1306.3㎜다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/XVBVSRHUNVBDXIIT5GLD6IPGEE.png?width=1200&amp;height=675&amp;auth=e53693e11e68266c0e13017b5c71d1357c25015dcd1c78adb74c65420e461a90&amp;smart=true" type="image/png" height="675" width="1200"/>
+    </item>
+    <item>
+      <title>[단독] 백혈병 앓던 고3 수험생, 3년 만에 기부자로 돌아와</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/07/30/IXCNDWZNF5HB5JFFUOZ7HVJUAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/30/IXCNDWZNF5HB5JFFUOZ7HVJUAE/</guid>
+      <dc:creator>안준용 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 20:04:00 +0000</pubDate>
+      <content:encoded>최근 서울아산병원 소아청소년 완화의료팀인 ‘햇살나무’ 의료진에게 기부금 76만원이 전달됐다. 의료진은 “금액은 크지 않아도 우리에겐 어떤 기부보다 크고 값진 기부”라고 했다. 2021년 백혈병으로 이 병원에서 반년 동안 입원 치료를 받은 당시 고3 학생 장연호(21)씨가 보낸 ‘특별한 기부금’이기 때문이다. 장씨는 작년 말 투병기를 엮어 ‘끝에서 바라본 시작’이란 제목의 책을 냈고, 이번에 초판 인세 전액을 병원에 기부했다. 의료진의 보살핌을 받던 고3 혈액암 환자가 3년 만에 병원의 기부자로 돌아온 것이다. 그는 “작은 돈이지만, 내 지갑 속 종잇조각이 아니라 3년 전 나처럼 이 병원에서 생일을 맞는 아이들의 케이크 값이라도 되면 좋겠다고 생각했다”며 “기부는 앞으로도 계속할 것”이라고 했다. 그의 기부처인 서울아산병원 ‘햇살나무’는 심층 상담, 재활 치료, 음악·미술 치료 등으로 소아·청소년 환자의 통증을 줄이고 환자·가족의 심리 회복을 돕는 일을 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6SHYQS5ZQZENTHUMHMABJGHOOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 19일 전북 전주시 완산구 서곡공원에서 장연호씨가 팔짱을 낀 채 환하게 웃고 있다. 그는 고3이던 2021년 6월 서울아산병원에서 급성 골수성 백혈병 진단을 받은 뒤 그해 말까지 입원 치료를 받고 퇴원, 최근 자신의 투병기를 엮은 책의 인세 전액을 병원에 기부했다. /서울아산병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;병원 의료진은 2021년 6월 고3 연호를 처음 만났다. 전북 전주의 한 고등학교에서 100등 밖이던 성적을 문과 1~2등까지 끌어올린 연호는 기말시험을 하루 앞두고 급성 골수성 백혈병 진단을 받았다. 그는 “끝까지 아니길 바랐는데, 병명을 듣는 순간 내 꿈이 허망하게 무너지는 것 같아 눈물만 흘렀다”고 했다. 이후 6개월간 투병하며 골수를 태우는 항암 치료의 고통, 혼자 있을 때마다 밀려드는 절망과 외로움을 다 견뎌냈다. 주치의인 임호준 소아청소년종양혈액과 교수는 “연호는 가슴에 뚫린 관으로 독한 항암제를 맞으며 시름시름 앓으면서도 ‘교수님, 곧 제 생일인데 선물로 골수 검사를 주셔서 감사합니다’ 하며 웃을 정도로 긍정적인 아이였다”며 “자기 의지로 병을 이겨낸 것”이라고 했다. 하지만 정작 본인은 “가족과 함께 마음을 다해 보살펴 준 의사·간호사·간호조무사 선생님들 덕분에 버텨냈다”고 했다.&lt;br&gt;&lt;br&gt;간호사들은 새벽에도 발진이 난 그의 온몸을 얼음물 적신 수건으로 닦아줬다. 인권 변호사가 꿈이라는 연호 얘기를 듣고 미국의 인종차별 문제 등을 다룬 소설책 ‘앵무새 죽이기’를 선물하기도 했다. 교수와 전공의, 간호사, 간호조무사들은 “이겨낼 수 있다”고 계속 용기를 북돋우며 그의 생일인 8월 1일엔 깜짝 생일 파티도 열어줬다. 장씨는 “이분들 덕분에 몸도, 마음도 조금씩 회복하면서 ‘난 참 많은 것을 받고 있구나’ ‘암세포가 아니라 내 좁은 마음이 지금까지 날 힘들게 한 거구나’ 생각했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IR6NAECON5BB5J6SR7YC2A6OUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2021년 8월 1일 입원 중이던 장연호씨의 생일에 서울아산병원 의료진이 열어준 깜짝 파티. /서울아산병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다행히 여동생과 조직 적합성이 맞아 ‘조혈모세포 이식’이 가능했다. 친구들이 수능 시험을 치르던 2021년 11월 그는 조혈모세포를 이식받았다. 성공적이었다. 2021년 말 퇴원 후 지금은 3개월에 한 번씩 경과 관찰을 위해 서울아산병원 외래 진료를 받는다. 급성 골수성 백혈병은 조혈모세포 이식 후 5년이 지나면 완치 판정을 받는다.&lt;br&gt;&lt;br&gt;그는 입원 당시 임 교수에게 쓴 감사 편지에서 “완치되면 세상의 힘든 분들을 위해 열심히 노력하겠습니다”라고 약속했다. 작년 말 펴낸 그의 책 마지막 페이지엔 ‘Thanks to(감사합니다) 의료진’이란 제목으로 자기를 보살펴준 의료진 62명 한 명 한 명의 이름을 써 넣었다. 올해 수능을 준비 중인 그는 “투병기를 쓰면서 ‘이 글은 내게 손 내밀어 준 분들이 주인공이구나’란 사실을 알게 됐고, 그래서 기부도 결심하게 됐다”며 “이젠 명문대를 가고 법조인이 되는 것이 아니라, 삶의 이유를 고민하는 이들에게 사랑을 전하는 게 내 꿈”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“5명 삶 살리고 떠난 막내딸… 엄마 걱정하지 말고 잘 지내”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/07/30/TCMOT3YW35APLBCCVJWFUTMED4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/30/TCMOT3YW35APLBCCVJWFUTMED4/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 15:35:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MV64RAPHH5HS7DSBBEL6SHUM6E.jpg"&gt;&lt;br&gt;&lt;br&gt;갑작스러운 심정지로 뇌사 상태에 빠진 젊은 여성이 장기 기증으로 5명의 생명을 살리고 세상을 떠났다.&lt;br&gt;&lt;br&gt;한국장기조직기증원은 지난 7일 뇌사 상태였던 유동은(20)씨가 심장, 폐(좌우), 신장(좌우), 간을 5명에게 기증한 뒤 숨졌다고 29일 밝혔다. 유씨는 지난 1일 심정지로 갑자기 집에서 쓰러져 병원으로 이송해 치료받았지만, 결국 의식을 회복하지 못하고 뇌사 상태에 빠졌다.&lt;br&gt;&lt;br&gt;경기 시흥에서 1남 1녀 중 막내로 태어난 유씨는 늘 주변 사람들을 도와주는 마음 착한 청년이었다고 한다. 미용 일을 하고 싶어 했고, 친구들에게 예쁘게 메이크업도 해줬다. 고3 땐 힘든 일도 겪었다. 공황 증세와 우울증이 찾아온 것이다. 유족은 기증원 측에 “다행히 가족과 친구들의 응원으로 극복해 아르바이트도 하고 같은 어려움을 겪는 친구들에게 상담도 해줬다”면서 “외국인 친구들과 함께 해외여행을 가기로 한 약속을 못 지켰다”고 전했다.&lt;br&gt;&lt;br&gt;가족들은 “동은이가 장기 기증 뉴스를 보더니 장기 기증 희망 등록을 하러 가자고 했는데, 그땐 방법을 몰라 못 했다”면서 “마지막 가는 길에도 누군가를 돕고 가길 원했을 거로 생각해 이번에 기증에 동의했다”고 밝혔다.&lt;br&gt;&lt;br&gt;유씨의 어머니는 기증원을 통해 딸에게 이런 메시지를 남겼다. “동은아 널 이렇게 먼저 떠나보내게 돼 엄마가 미안하고 많이 사랑해. 생명을 살리는 좋은 일을 하고 좋은 곳에 갔을 테니 거기선 엄마 걱정하지 말고 잘 지내. 하늘나라에선 행복하고 사랑해.”&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 야적(野積)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/30/NQGTRDELBNGFJLXQ2Y25GR5NGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/30/NQGTRDELBNGFJLXQ2Y25GR5NGQ/</guid>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 16:19:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VYRLIAAMJNC7ZOCVBYGI66KINU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[입에 착착 붙는 일본어] 작은 성의입니다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2024/07/30/YNTO22C4L5CGLHWISRDRDBTNAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/07/30/YNTO22C4L5CGLHWISRDRDBTNAQ/</guid>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 16:18:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XLQNSOUX45DNVHYRVNJ52UVPJA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디] 더위 먹는 것을 예방하다</title>
+      <link>https://www.chosun.com/national/nie/chinese/2024/07/30/EIV3K27ZGRG7ZIDZGW2KIIRUTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/07/30/EIV3K27ZGRG7ZIDZGW2KIIRUTQ/</guid>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 16:17:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZKXDF75M3FGZXAIED5C4OKK7AA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] grow out of</title>
+      <link>https://www.chosun.com/national/nie/english/2024/07/30/3IALOHZREZEIBKNFSLKTXIYINI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/07/30/3IALOHZREZEIBKNFSLKTXIYINI/</guid>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 16:16:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OIIKBCW6CZAPNB6N6SIOK6NOJY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2431] 퍼즐 맞추기</title>
+      <link>https://www.chosun.com/national/nie/2024/07/30/WL434CR6JZB2ZHXH5JN5L6HO6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/30/WL434CR6JZB2ZHXH5JN5L6HO6U/</guid>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 16:15:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GB2PEDF5LFACXKZJWLGL4M3WTQ.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘1호 금메달’ 오상욱·오예진, 명품시계 받는다… 가격은? </title>
+      <link>https://www.chosun.com/national/national_general/2024/07/29/WHY7MKNA5ZBWHMLCSFKGE2YULY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/29/WHY7MKNA5ZBWHMLCSFKGE2YULY/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 14:39:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SZE4EWJ6IBDXJN44H4A6YSMKOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;왼쪽부터 오예진과 오상욱/ 조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2024 파리 올림픽에서 개인전 첫 금메달을 딴 펜싱 오상욱(27)과 사격 오예진(19)이 1000만원대의 오메가 시계를 받게 됐다.&lt;br&gt;&lt;br&gt;올림픽 공식 타임키퍼(올림픽에서 경기기록 측정을 하는 스폰서)인 오메가는 이번 파리 올림픽을 앞두고 “올림픽을 기념해 제작한 두 가지 시계를 한국 대표팀에서 대회 첫 금메달을 딴 개인 종목 남녀 선수 1명씩 총 2명에게 선물할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;파리 올림픽 에디션 시계는 ‘스피드마스터 크로노스코프’와 ‘씨마스터 다이버 300M’다. 두 시계 가격은 각각 1420만원, 1290만원이다. 두 시계 모두 뒷면에 올림픽 엠블럼과 함께 ‘PARIS 2024′라는 문구가 양각돼 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UMYXU4FDG5C33H2MRUCCMEVXZA.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;파리 올림픽 에디션 ‘씨마스터 다이버 300M’(왼쪽)와 ‘스피드마스터 크로노스코프’/ 오메가&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스피드마스터 크로노스코프는 파리 올림픽을 상징하는 골드, 블랙, 화이트 컬러의 43㎜ 디자인으로 올림픽을 기념하는 의미를 담는다. 씨마스터 다이버 300M은 6시 방향의 날짜 디스플레이에 파리 2024 타이포그래피를 사용한 숫자가 새겨져 있으며, 중앙 초침에는 파리 2024 엠블럼인 불꽃 모티프를 얹었다.&lt;br&gt;&lt;br&gt;이 시계를 받을 주인공은 오상욱과 오예진이 됐다. 앞서 오상욱은 28일 프랑스 파리의 그랑팔레에서 열린 남자 사브르 개인전 결승에서 파레스 페르자니(튀니지)를 15-11로 물리치고 금메달을 획득했다. 같은날 오예진도 10m 공기권총에서 대표팀 선배인 김예지(31)와 마지막까지 경쟁을 벌인 끝에 금메달을 따냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SXWBRSPYEJEGBADVSYO5WZYRSI.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;오메가의 스피드마스터 크로노스코프 파리 에디션./ 오메가&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오메가는 2012년 런던 올림픽부터 대회 첫 금메달 선수에게 시계를 선물하고 있다. 런던 대회에선 사격 진종오가 처음 시계를 받았다. 2014 소치 동계올림픽에선 스피드스케이팅 이상화가 시계의 주인공이었고, 2016 리우데자네이루 대회에선 남자 양궁 대표팀이, 2022 베이징 동계올림픽에선 쇼트트랙 대표팀 황대헌·최민정이 오메가리스트가 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UMYXU4FDG5C33H2MRUCCMEVXZA.PNG?width=746&amp;height=551&amp;auth=1e5106991e4391ee7309fddf6e7addbe3dcbc811500090de481cd13847890892&amp;smart=true" type="image/png" height="551" width="746">
+        <media:description type="plain">파리 올림픽 에디션 ‘씨마스터 다이버 300M’(왼쪽)와 ‘스피드마스터 크로노스코프’/ 오메가</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘제2 핼러윈 참사’ 날 뻔했는데, 관련기관 서로 “네 탓”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/30/AMRBO4ONHVAT5BOD5IQE7MH2CI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/30/AMRBO4ONHVAT5BOD5IQE7MH2CI/</guid>
+      <dc:creator>안준현 기자, 김나연 인턴기자(서울대 언론정보학 4년)</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 15:50:00 +0000</pubDate>
+      <content:encoded>지난 28일 서울 성동구 성수동의 한 공연장에 수천 명이 몰려 행사가 중단된 사고와 관련, 관계기관들이 서로 ‘네 탓’ 공방을 벌이고 있다. 2022년 159명이 사망한 핼러윈 참사 이후 행정안전부는 대통령 업무보고에서 “인파가 몰리는 장소의 유동 인구를 실시간으로 분석해 사고를 막는 ‘현장 인파 관리(크라우드 매니지먼트) 시스템을 구축하겠다”며 지자체(안전 관리 계획 수립), 경찰(위험성 평가)과 협업을 강화하겠다고 했다.&lt;br&gt;&lt;br&gt;행안부는 정부조직법상 안전·재난 상황을 총괄하는 컨트롤타워다. 그러나 행안부 관계자는 29일 본지 통화에서 “자연 재해는 행안부 관할이지만 공연 시설은 문화체육관광부가 1차 대응한다”며 “모든 재난을 행안부가 담당하는 것은 아니다”라고 했다.&lt;br&gt;&lt;br&gt;문체부는 “공연 허가 주체는 성동구라 할 말이 없다”며 “재해 대처 계획 신고서에 미흡한 부분이 있었다면 성동구가 주최 측에 보완 요구를 했어야 했다”고 했다. 현행 공연법상 공연 주체가 관할 지자체에 재해 대처 계획 신고서를 제출해야 하므로 성동구에 책임이 있다는 취지였다.&lt;br&gt;&lt;br&gt;하지만 성동구는 “정부가 최소한의 가이드라인도 제시하지 않고 공연 사전 신고제를 운영하고 있다”며 “공연장 면적에 따라 최소·최대 수용 인원 등을 규정해야 한다”고 했다. 중앙 정부의 책임이 더 크다는 뜻이다. 2023년 업무보고 당시 경찰의 협업 기관으로 지목된 경찰 역시 이번 성수동 사고와 관련, “사전에 지자체(성동구)로부터 통보받은 내용이 없어 경찰 차원에서 알 수 있는 방법이 없었다”고 했다.&lt;br&gt;&lt;br&gt;제2 핼러윈 참사로 번질 뻔한 사고를 두고 관계 기관이 ‘책임 떠넘기기’에 급급하다는 지적이 커졌다. 그러자 행안부는 “성동구가 주최 측이 제출한 재해 대처 계획 신고서를 검토하는 과정에서 문제가 없었는지 확인 중”이라며 “문체부와 협의해 공연시설에 대한 위기관리 매뉴얼을 세분화할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해운대 울리는 해무</title>
+      <link>https://www.chosun.com/national/2024/07/30/BSY73PWXERE6PHOFYEBI3ZEN5E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/07/30/BSY73PWXERE6PHOFYEBI3ZEN5E/</guid>
+      <dc:creator>부산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 15:50:00 +0000</pubDate>
+      <content:encoded>올여름 부산 해운대 해수욕장에 해무(海霧)가 자주 끼어 피서객들이 울상이다. 해무는 바닷가에 끼는 안개다. 해무가 짙은 날은 안전 때문에 물에 들어갈 수 없는데 올여름은 거의 사흘에 한 번꼴로 ‘해수욕 금지령’이 내려지고 있다.&lt;br&gt;&lt;br&gt;29일 부산 해운대구에 따르면, 해운대구는 지난 1일 해운대 해수욕장이 개장한 이후 전날까지 28일간 해무 때문에 13차례 ‘입욕 통제’ 조치를 했다. 일수로는 8일, 거의 사흘에 한 번꼴이다. 작년에는 여름철 통틀어 총 8차례 입수를 통제했는데 올해는 7월이 채 끝나기도 전에 작년 횟수를 넘은 것이다.&lt;br&gt;&lt;br&gt;해무가 끼면 앞이 잘 보이지 않기 때문에 안전을 위해 바닷물에 들어가는 걸 막는다. 입욕 제한 결정은 현장 안전 요원이 한다. 해운대구 관계자는 “해무가 짙은 날에는 바로 옆에 있는 사람도 형체 정도만 흐릿하게 보인다”며 “안전을 위해 입수 제한 조치가 불가피하다”고 했다.&lt;br&gt;&lt;br&gt;해수욕장 주변 상인들은 “해무가 도깨비 같아 피서객들이 애간장을 태우고 있다”고 했다. 예측이 어렵기 때문이다. 지난 28일에는 오전 9시부터 10시까지 1시간 입수가 통제됐다. 지난 7일과 20일에는 해무가 나타났다 사라졌다를 반복해 하루에 각각 3차례씩 통제 조치가 내려지기도 했다. 지난 6일에는 해무가 짙어 하루 종일 입수가 통제됐다.&lt;br&gt;&lt;br&gt;부산기상청 김영남 예보관은 “올해는 해운대 앞바다의 수온이 예년보다 훨씬 낮았다”며 “그 위로 무더운 공기와 장마전선이 지나가면서 해무가 자주 생긴 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;그러나 해무도 피서객들을 막지는 못했다. 지난 28일까지 해운대 해수욕장을 찾은 피서객은 201만8123명으로 작년 같은 기간(182만256명)보다 10.9% 증가했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가상자산범죄 합수단 “코인 범죄 수익 전액 박탈”</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/30/H2VNPGKWXBDDXDH6XEAT5SO4HU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/30/H2VNPGKWXBDDXDH6XEAT5SO4HU/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 15:50:00 +0000</pubDate>
+      <content:encoded>서울남부지검 가상자산합동수사단 최재현(사법연수원 39기) 검사와 신의호(변시 4회) 검사는 이른바 ‘욘사마 코인’으로 알려졌던 ‘퀸비코인’ 관계자 4명을 최근 구속기소 했다. 이들은 유명 연예인 배용준씨의 투자 참여 사실을 앞세워 투자자 1만3000명으로부터 300억원을 뜯어낸 것으로 조사됐다.&lt;br&gt;&lt;br&gt;두 검사는 지난 24일 본지 인터뷰에서 퀸비코인에 대해 “처음부터 사기를 목적으로 기획됐던 ‘스캠 코인’”이라고 했다. 신 검사는 “가상 자산 거래 플랫폼과의 파트너십을 통해 실물 자산 소유권을 증권화해 거래하는 ‘증권형 토큰 발행(STO)’ 사업을 하겠다고 내세웠지만, 수사해보니 코인 수억개를 팔면서도 관련 기술 개발에는 아무런 투자를 하지 않았다”면서 “애초에 사업을 추진할 의사가 없었던 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5VX2U3DDLJGTZPC7TO7VID7EDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 24일 서울남부지검 가상자산범죄 합동수사단 단원들이 가상 자산 흐름을 담은 표를 보면서 분석회의를 하고 있다. 왼쪽부터 신의호 검사, 문용덕 한국거래소 팀장, 이주연 수사관, 박기태 검사, 박건욱 단장, 김효진 부부장검사. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최 검사는 퀸비코인 발행 업체가 배용준씨의 투자 사실을 마케팅 수단으로 사용한 것에 대해서도 “사기꾼들의 전형적인 수법”이라고 했다. 최 검사는 “유명 연예인의 투자 사실을 내세워 마치 자신들의 코인이 사업성을 인정받은 것처럼 홍보하는 것”이라면서 “실제 투자 내용보다 훨씬 과장된 경우가 많다”고 했다. 배씨는 사업 아이템이 결정되기 전 업체에 소액을 투자한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;퀸비코인은 2020년 2월 국내 2위 거래소인 ‘빗썸’에 상장됐다. 상장 첫날 1개 가격이 25원에서 275원까지 올랐고, 거래액은 690억원을 돌파했다. 발행업체는 2021년에도 퀸비코인을 거래하면 비트코인 등을 주는 ‘거래량 이벤트’를 펼쳤는데, 당시 거래량이 1200억개까지 뛰기도 했다. 대부분 피해자들도 이때 코인을 샀다가 손해를 봤다고 한다. 반면 업체 관계자들은 상장 1년 만에 300억원을 ‘먹튀’ 했다.&lt;br&gt;&lt;br&gt;최 검사는 “피해자들을 조사해보면 ‘한국에서 손꼽히는 거래소에 상장했으니 안전할 줄 알았다’는 말을 한다”면서 “주식 시장은 기업이 과거에 이룬 성과를 기반으로 상장 여부가 결정되지만, 코인 시장은 미래의 계획을 보고 상장 심사를 한다. 계획만 거창하게 만들어 상장했을 가능성도 배제하면 안 된다”고 한다.&lt;br&gt;&lt;br&gt;퀸비코인 발행업체 실소유주 A씨는 법인 대금 56억원을 횡령한 것으로 조사됐다. A씨가 횡령한 돈은 피해자들에게 퀸비코인을 매각한 대금이었다. 신 검사는 “A씨는 아내 명의로 제주도 단독주택과 벤츠 승용차를 구매했다”며 “법원에서 A씨의 차명 재산을 동결하는 명령을 받았다”고 했다.&lt;br&gt;&lt;br&gt;두 검사는 “사건을 수사한 우리가 직접 재판에 나가 A씨 등이 범죄에 상응하는 처벌을 받도록 하고, 범죄수익도 전액 박탈할 것”이라며 “대한민국에 코인 사기꾼들이 발붙일 곳은 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>前 대법원장이 대법 사건 변호</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/30/QCFZGTSHEZC3FAQH4LCGYNZ5A4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/30/QCFZGTSHEZC3FAQH4LCGYNZ5A4/</guid>
+      <dc:creator>방극렬 기자, 박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MSPNNY45GRCTFAYGEYSBGKWBIE.jpg"&gt;&lt;br&gt;&lt;br&gt;양승태(76·사법연수원 2기) 전 대법원장이 대법원에 계류 중인 형사 사건을 수임한 것으로 29일 알려졌다. 법조계에서는 “‘전관(前官) 예우’ 논란이 일 텐데 신중해야 했다”는 지적이 나온다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 양 전 대법원장은 지난 5월 대법원 3부(주심 엄상필 대법관)가 심리 중인 한신공영 사건의 변호인으로 선임계를 냈다. 한신공영은 2019년 부산의 한 건설 현장에서 하청업체 근로자 2명이 사망하면서 산업안전보건법 위반죄로 기소됐다. 1∙2심에서 벌금 700만원을 받았는데, 상고하면서 양 전 대법원장을 선임한 것이다.&lt;br&gt;&lt;br&gt;양 전 대법원장은 ‘사법 행정권 남용’ 사건으로 기소돼 지난 1월 1심에서 무죄를 받았고, 지난 5월 대한변협에서 변호사 등록 승인을 받아 법무법인 클라스한결 고문 변호사가 됐다.&lt;br&gt;&lt;br&gt;전직 대법원장이 대법원 사건 변호인으로 나선 일은 최근 법조계에선 이례적이다. 양 전 대법원장은 2011~2017년 대법원장으로 재직했는데, 전임인 이용훈 전 대법원장과 후임 김명수 전 대법원장 모두 퇴임 후 변호사 개업을 하지 않았다. 양 전 대법원장 사정을 잘 아는 법조인은 “‘사법 행정권 남용’ 재판 도중 생활비라도 보태려고 변호사로 활동하려다가 1심 선고 때까지 미룬 것”이라며 “경제적으로 여유롭지 못한 상황”이라고 했다.&lt;br&gt;&lt;br&gt;법원 안팎에선 부적절하다는 비판이 나왔다. 한 고법판사는 “사법부를 이끌던 대법원장이 퇴임 후 대법원 사건을 맡는 건 품위에 맞지 않는다”고 말했다. 고법판사 출신 변호사는 “대법원장 경력을 보고 사건을 맡길 텐데, 전관 예우 오해를 피하고 사법 신뢰를 높이려면 수임을 자제해야 했다”고 했다. 양 전 대법원장도 과거 인터뷰에서 “전관 예우가 법조 병폐로 지적되는 것은 슬픈 현실”이라고 한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아산병원 등 집단 휴진 9곳, 건보 선지급 제외</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/07/30/O5X2UK3SQRA4XIHQ3QN4XHXQH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/30/O5X2UK3SQRA4XIHQ3QN4XHXQH4/</guid>
+      <dc:creator>안준용 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 15:50:00 +0000</pubDate>
+      <content:encoded>정부는 29일 의대 교수들이 무기한 휴진을 선언했다는 이유로 건강보험 급여 선(先)지급을 보류한 서울아산병원, 세브란스병원 등 병원 9곳에 대해 “교수들이 휴진을 철회할 경우, 급여를 지급할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 지난 5월 정부는 전공의 이탈 후 경영난에 직면한 수련병원에 건보 급여 3개월분을 선지급하기로 했다. 6~8월 3개월간 기관별 전년 동월 급여비의 30%를 우선 지급하되 내년에 정산하는 방식이다. 다만 지급 요건으로 경영상 어려움, 필수 의료 유지, 필수 진료 체계 유지를 위한 자구 노력 등을 내걸었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QCQJI6I7DFHUPLXAL4L5QQLPGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부와 의료계 갈등이 계속되고 있는 가운데 29일 서울 시내 한 대형 병원 내부가 한산한 분위기를 보이고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국에서 건보 급여 선지급을 신청한 기관 105곳 가운데 71곳이 선지급 대상으로 결정됐다. 이 가운데 병원 62곳에는 작년 6월 급여의 30%에 해당하는 3600억원가량이 최근 선지급됐다. 하지만 정부는 서울아산병원, 세브란스병원, 고대안암병원, 충북대병원 등 병원 9곳의 경우엔 일부 교수의 무기한 휴진 선언과 진료·수술 축소로 ‘필수 의료 유지’ 조건을 만족하지 못한다고 판단, 6월분 선지급을 보류했다. 선지급 보류 규모는 약 1040억원이다. 서울대병원의 경우, 교수들이 지난달 무기한 휴진을 시작했다가 닷새 만에 휴진 중단을 선언하면서 건보 선지급 대상에 포함됐다.&lt;br&gt;&lt;br&gt;이와 관련해 보건복지부 관계자는 “선지급 심사를 하는 위원회에서 ‘무기한 휴진은 국민 겁박’ ‘병원도 연대책임을 져야 한다’는 의견이 나왔다”며 “9개 기관(병원)의 경우, 집단 휴진으로 지급이 ‘보류’된 것일 뿐 휴진 철회 시 바로 선지급이 가능하다”고 했다. 정부가 이 같은 방침을 밝히면서 9개 병원은 교수 비대위 차원에서 휴진 선언을 철회하지 않을 경우, 현재 심사 중인 7월분 급여 지급도 보류될 가능성이 큰 상황이다. 선지급이 보류된 한 병원 관계자는 “교수 비대위 차원에서 휴진을 선언했지만, 대다수 교수는 전보다 더 열심히 진료를 보고 있는데 억울한 면이 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>코인 범죄 저승사자 “곧 상장한다는 말 믿지 말라”</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/30/CZWPAVEQSZFW5EOSEFYVQD35DQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/30/CZWPAVEQSZFW5EOSEFYVQD35DQ/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4YXOLQI5G5AXNAEWV5UY6ZKSH4.png"&gt;&lt;br&gt;&lt;br&gt;“코인에 투자하기 전 조금만 공부하면 범죄 피해를 예방할 수 있습니다.”&lt;br&gt;&lt;br&gt;‘코인 저승사자’라는 서울남부지검 가상자산범죄 합동수사단을 이끌고 있는 박건욱(부장검사) 단장은 코인 사기 수사를 하면서 ‘스캠 코인(사기 코인)’ 유혹에 빠진 피해자들 얘기를 들으면 안타깝다고 했다.&lt;br&gt;&lt;br&gt;금융정보분석원(FIU)에 따르면 작년 하반기 기준 코인 투자자는 645만명. 코인은 매일 3조6000억원 거래됐다. 관련 범죄도 활개 치고 있다. 경찰청에 따르면 2018~2022년 코인 불법 행위에 따른 피해액은 5조2941억원. 유형도 다단계, 시세 조종, 불법 환치기, 우회 상장 등 다양하다. 지난 24일 만난 박 단장과 최재현·신의호 검사는 “다섯 가지 원칙만 지켜도 코인 범죄를 피할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K4UR4UNFWZCLFBG55PDQUC74HM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;◇'코인 사기 방지’ 오계명&lt;br&gt;&lt;br&gt;①전문용어와 외국어를 남발하는 코인 백서 경계하라&lt;br&gt;&lt;br&gt;‘스캠 코인’ 백서에는 대개 쉽게 이해할 수 없는 전문용어와 외국어가 가득하다고 한다. 투자자들이 백서 내용을 일일이 검증하기 어렵다는 점을 노리고, 추상적인 말로 ‘장밋빛 미래’가 있는 듯 포장한다는 것이다. 최 검사는 “특히 해외 기업과 협업 중이라는 표현은 사실 확인이 어려우니 의심해 봐야 한다”고 했다. 스캠 코인으로 확인된 퓨리에버 코인의 사업 내용은 ‘공기청정기를 돌리면 보상으로 코인을 준다’는 것이었지만, 백서는 “기계적 증명” “프로토콜의 데이터를 인코딩” 등 각종 전문용어와 영어로 가득 차 있다.&lt;br&gt;&lt;br&gt;②발행 재단의 주소, 임원 경력 확인하라&lt;br&gt;&lt;br&gt;‘먹튀’ 목적의 코인은 발행 재단 관련 정보를 홈페이지에 공개하지 않은 채 텔레그램 리딩방 등에서 조용히 영업하는 경우가 많다. 발행 재단의 주소, 연락처, 구성 임원 인적 사항 등이 공개돼 있는지 확인하고, 만약 그렇지 않다면 투자에 유의해야 한다.&lt;br&gt;&lt;br&gt;③”단기간에 확정 차익을 얻을 수 있다”는 말 조심하라&lt;br&gt;&lt;br&gt;최근 발행하는 코인은 대개 시장 지배력이 낮은 스타트업·중소기업의 사업과 연계돼 있다. 짧은 시간에 큰 수익을 낼 확률이 낮다는 것이다. 그럼에도 “단기간에 확정적 차익을 낼 수 있다”고 홍보한다면 시세 조종과 연관돼 있을 가능성이 크다.&lt;br&gt;&lt;br&gt;④'상장 약속’ 문구를 믿지 말라&lt;br&gt;&lt;br&gt;최근 코인 리딩방에서 ‘거래소 관계자와 합의를 마쳤다’며 마치 상장 약속을 받은 것처럼 코인 투자를 유도하는 사례가 급증했다고 한다. 대개 거래소의 상장 심사에 영향을 끼칠 수 있는 듯 가장하는 것이다. 설혹 실제로 상장되더라도 ‘상장 브로커’를 통해 상장한 코인은 유의 종목 지정, 상장 폐지 등으로 휴지 조각이 될 확률이 높다.&lt;br&gt;&lt;br&gt;⑤이유 없는 가격 급등락은 의심하라&lt;br&gt;&lt;br&gt;사업과 무관한 가격 급등락은 시세 조종과 연관돼 있을 가능성이 있다. 신 검사는 “‘시세 조종 작업 중’이라며 투자자들을 현혹하는 사례도 있는데, 이 말을 듣고 투자했다가 자칫 시세 조종 물량을 받아주는 처지로 전락할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;◇1년간 수사 사건 피해액 1조9000억원&lt;br&gt;&lt;br&gt;합수단은 지난 26일 출범 1주년을 맞았다. 코인을 포함해 가상 자산 관련 이상·의심 거래 분석과 범죄 정보 수집부터 수사와 기소, 공소 유지까지 담당하고 있다. 현재 검찰, 금융감독원, FIU, 국세청, 관세청, 예금보험공사, 한국거래소 등 국가기관 7곳 소속 전문 인력 30여 명이 근무 중이다. 특히 전국 검찰청에 65명뿐인 ‘사이버수사관’도 5명이나 근무 중인데, 이들은 가상 자산 흐름 분석 등에 핵심적인 역할을 담당한다고 한다.&lt;br&gt;&lt;br&gt;합수단은 지난 1년간 가상 자산 관련 범죄 14건을 수사해 38명을 기소(구속 18명)했다. 합수단이 수사한 사건의 범죄 피해액만 1조8966억원에 이른다. 또 393억원을 몰수·추징 보전하고, 자산 877억원을 압수했다. 박 단장은 “단원들이 늦게는 새벽 1~2시까지 야근하면서도 틈틈이 전문 서적으로 가상 자산 범죄를 연구해 이뤄낸 성과”라고 했다.&lt;br&gt;&lt;br&gt;어려움도 있었다. 그동안 가상 자산 시장의 불공정 행위를 처벌하는 법이 따로 없었다. 이 탓에 가상 자산 관련 범죄에 형법상 사기 등을 적용해 수사해 왔는데, 관련 규정이 없어 법원에서 몰수·추징 명령을 받아내기가 쉽지 않았다.&lt;br&gt;&lt;br&gt;하지만 지난 19일부터 가상자산이용자보호법이 시행되면서 가상자산 범죄를 제대로 수사할 길이 열렸다. 앞으로는 주식처럼 가상 자산과 관련해 미공개 중요 정보 이용, 시세 조종, 부정 거래 등을 저지를 경우 1년 이상 징역형을 받을 수 있고 부당 이득액이 50억원 이상이면 최고 무기징역까지 가능하다. 박 단장은 “새 법 시행에 맞춰 범죄 수사에 더 적극적으로 나서고, 공정하고 투명한 가상 자산 생태계 구축에 힘을 보탤 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 서완수 前 기무사령관 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/07/30/UA7XNDPRVFHALIOOHZLZWI7ICM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/07/30/UA7XNDPRVFHALIOOHZLZWI7ICM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 15:35:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;서완수&lt;/b&gt; 前 기무사령관 별세, &lt;b&gt;성숙자&lt;/b&gt; 성신여대 명예교수 남편상, &lt;b&gt;서정인&lt;/b&gt;·&lt;b&gt;서정우&lt;/b&gt; 스튜디오어빗 부대표 부친상, &lt;b&gt;윤상욱&lt;/b&gt; 통일부 인권정책관 장인상, &lt;b&gt;백홍주&lt;/b&gt; 시부상=29일11시 삼성서울병원, 발인 31일9시45분, (02)3410-3151&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정동규&lt;/b&gt; 별세, &lt;b&gt;정호철&lt;/b&gt; 광주광역시 북구의회사무국 홍보팀장 부친상=29일8시40분 광주광역시 그린장례문화원, 발인 31일8시, (062)250-4455&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정운태&lt;/b&gt; 前 대한노인회 서울시연합회장 별세, &lt;b&gt;정종수&lt;/b&gt;·&lt;b&gt;정진수&lt;/b&gt;·&lt;b&gt;정미경&lt;/b&gt; 부친상, &lt;b&gt;이성현&lt;/b&gt; 장인상=29일1시 신촌세브란스병원, 발인 31일6시, (02)2227-7547&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정종득&lt;/b&gt; 前 목포시장 별세, &lt;b&gt;위경숙&lt;/b&gt; 남편상, &lt;b&gt;정혜진&lt;/b&gt;·&lt;b&gt;정재혁&lt;/b&gt; ES인베스터 대표 부친상, &lt;b&gt;고기영&lt;/b&gt; 前 법무부 차관 장인상, &lt;b&gt;권보람&lt;/b&gt; 한국국방연구원 연구위원 시부상=29일17시19분 서울아산병원, 발인 8월1일6시, (02)3010-2000&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[인사] 외교부 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/07/30/KSLKKSSYKNAA5CQPFOFJKWZ3VI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/07/30/KSLKKSSYKNAA5CQPFOFJKWZ3VI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 15:35:00 +0000</pubDate>
+      <content:encoded>▲외교부▷대변인 이재웅▷국립외교원 기획부장 이문배▷양자경제외교국 심의관 김선영&lt;br&gt;&lt;br&gt;▲국토교통부◇과장급 전보▷항행위성정책과장 정선우▷중앙토지수용위원회 사무국장 오성익▷부동산개발산업과장 김동준▷건설안전과장 박동주&lt;br&gt;&lt;br&gt;▲통일부◇과장급 전보▷메시지기획팀장 이은영&lt;br&gt;&lt;br&gt;▲새만금개발청◇과장급▷기획조정관실 혁신행정담당관 정상현&lt;br&gt;&lt;br&gt;▲한국콘텐츠진흥원▷글로벌혁신부문 부문장 김락균&lt;br&gt;&lt;br&gt;▲국가철도공단▷상임이사(시설본부장) 최원일▷상임이사(경영본부장) 이현철▷수도권본부장(1급) 최영환&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2024년 7월 30일</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/07/30/P7AGFVF36VE4DIKCCUXSU5QDAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/30/P7AGFVF36VE4DIKCCUXSU5QDAI/</guid>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HET25I7LPRFEFHL3AW2ZCK5PCE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [철학·인문학 이야기] 고대 철학자들에게 좋은 사랑이란? 술 마시며 에로스에 관해 나눈 대화</title>
+      <link>https://www.chosun.com/national/nie/2024/07/30/VIULINEUK5CP3C24P4EVVOQIVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/30/VIULINEUK5CP3C24P4EVVOQIVQ/</guid>
+      <dc:creator>안광복 중동고 철학 교사</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GHMFKZLP6BBN5BIIUFSYDBDRH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;플라톤 흉상. /브리태니커&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사랑은 언제나 마음을 사로잡는 주제입니다. 사랑을 주제로 다룬 노래와 시, 소설과 영화 등이 수없이 많아요. 하지만 사랑이 꼭 좋지만은 않지요. 뜻대로 되지 않을 때는 미칠 듯이 괴롭고, 심지어 내 삶을 나락으로 끌고 가기도 합니다. 사랑을 제대로, 잘하려면 어떻게 해야 할까요? 고대 그리스의 철학자 플라톤의 책 ‘향연’에는 이 물음에 대한 답이 담겨 있어요. 플라톤이 쓴 거의 모든 책은 소크라테스를 주인공으로 한 대화 형식으로 되어 있는데요. 이 책 역시 그렇습니다.&lt;br&gt;&lt;br&gt;‘포도주 속에 진실이 있다’라는 그리스 속담이 있다고 해요. 술에 취해 나누는 대화에서 진심이 드러난다는 의미겠지요. ‘향연’은 말 그대로 ‘잔치’를 뜻하는데요. 작품 속 사람들은 술잔을 기울이며 에로스(eros), 즉 사랑을 주제로 열띤 대화를 나눕니다. 자리에 모인 사람들은 한목소리로 에로스를 찬양해요. 에로스는 우리 안의 가장 고귀한 부분을 끌어내니까요. 애인 앞에서는 누구나 용사가 됩니다. 또 사랑에 빠지면 모두가 시인이 되기도 하지요. 사랑은 냉정함과 뜨거움을 조화롭게 만들어 우리를 더 완전하게 만들기도 해요.&lt;br&gt;&lt;br&gt;하지만 소크라테스는 다른 목소리를 냅니다. 사랑은 완벽하지 않다는 것이죠. 신화에 따르면, 사랑의 신 에로스는 궁핍의 여신 페니아와 풍요의 신 포로스의 자식이랍니다. 사랑의 열병에 빠지면 갈망하는 마음이 절절해지고, 이를 채우기 위해 어떻게든 방법을 찾으려 하는 것도 이 때문 아닐까요? 그러면 우리는 갈망하는 마음을 채우면서도 추하게 망가지지 않으려면 어떻게 해야 할까요?&lt;br&gt;&lt;br&gt;소크라테스는 좋은 사랑을 하려면, 먼저 몸부터 제대로 만들라고 충고합니다. 진짜 건강한 몸이 무엇인지 알아야 한다는 것이죠. 그리고 훌륭한 몸을 가진 이들을 더 많이 알게 되면, 이제 사랑은 한두 사람의 몸을 벗어나 ‘육체적 아름다움’ 그 자체를 좇게 된다고 해요.&lt;br&gt;&lt;br&gt;사람의 정신은 쉽게 스러지고 마는 육체보다 훨씬 아름답습니다. 그래서 사랑을 제대로 하는 사람은 몸을 뛰어넘어 아름다운 영혼을 사랑하게 된다고 해요. 그렇게 계속해서 고귀한 정신을 갖춘 이들을 만나다 보면, 마침내 이를 뛰어넘는 정신적 아름다움 자체를 원하게 될 것이라고 합니다. 그러는 가운데 삶 역시 점점 바람직하게 바뀌어 갈 수 있겠죠. 이 점에서 사랑, 즉 에로스는 육체적 즐거움과 쾌락을 넘어, 완전하고 흔들림 없는 정신의 고귀함으로 우리를 이끄는 ‘영혼의 사다리’와 같습니다.&lt;br&gt;&lt;br&gt;여러분은 어떤 사랑을 하고 있으신가요? 사랑을 할수록 더 나아지고 있나요? 아니면 솟구치는 욕망에 휘둘리느라 추한 모습으로 바뀌고 있나요? 정신적 사랑을 뜻하는 ‘플라토닉 러브’는 ‘향연’에서 말하는 좋은 사랑과 다르지 않습니다. ‘향연’을 읽으며 여러분의 사랑을 한번 점검해 보시기 바랍니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [사소한 역사] 서양에선 신체 단련, 동양에선 의료 목적으로 시작했대요</title>
+      <link>https://www.chosun.com/national/nie/2024/07/30/TAYNRK7H2VBY3HUHTKCITJSF6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/30/TAYNRK7H2VBY3HUHTKCITJSF6M/</guid>
+      <dc:creator>김현철 서울 영동고 역사 교사</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 15:30:00 +0000</pubDate>
+      <content:encoded>얼마 전 파리 올림픽 개막식이 열렸습니다. 다양한 종목에서 세계 각국의 선수들이 기량을 겨루고 있어요. 지난 28일(현지 시각) 우리나라 여자 기계체조 대표팀은 1988 서울 올림픽 이후 36년 만에 단체전에 나섰지만, 안타깝게도 결선 진출엔 실패했어요. 그래도 ‘꿈의 무대’라는 올림픽에 참가한 만큼 선수들의 표정은 밝았다고 합니다. 체조는 어떤 역사를 갖고 있을까요?&lt;br&gt;&lt;br&gt;체조는 서양과 동양에서 각각 다른 형태로 발전됐어요. 고대 그리스에서는 개인과 국가의 명예와 생존을 위해 신체를 단련할 목적으로 체조를 했다고 해요. 하지만 이때 체조는 달리기나 투창 던지기 등에 필요한 체력과 근력을 기르는 훈련 과정으로, 지금 우리가 생각하는 체조와는 다른 것으로 추정돼요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5FBZYKSTYVHVNIIPRY4ZZI7QKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 28일 한국 기계체조 여서정 선수가 파리 올림픽 경기에 나선 모습. /로이터 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동양은 의료 목적의 체조가 이뤄진 것으로 알려져 있어요. 문헌에는 중국에서 기원전 4세기쯤부터 건강 증진을 위한 호흡법 체조를 했다고 합니다. 우리나라에서는 신라 시대에 화랑들이 심신을 단련하기 위해 무예와 가무를 혼합한 형태의 체조를 한 것으로 추정돼요.&lt;br&gt;&lt;br&gt;조선 시대 유학자 퇴계 이황은 명나라 주권이 저술한 ‘구선활인심법’ 중 심신 수양과 관련 깊은 내용을 필사한 책 ‘활인심방’을 남겼는데요. 이 책에 나오는 ‘도인법’에 오늘날 체조 동작과 유사한 자세들이 소개되어 있기도 합니다.&lt;br&gt;&lt;br&gt;현대와 같은 체조가 이뤄진 것은 18세기 전후로 보입니다. 독일에선 요한 구츠무츠에 의해 근대 체조가 시작됐어요. 이후 ‘독일 체조의 아버지’라고 불리는 프리드리히 얀(1778~1852)이 근대 체조를 철봉·평행봉 등을 이용한 기계체조 형태로 발전시켰습니다. 프리드리히 얀은 프랑스 나폴레옹의 정복 전쟁에서 패배한 독일 청년들의 심신 단련을 위해 철봉과 평행봉 등을 이용한 체조를 고안했다고 해요.&lt;br&gt;&lt;br&gt;국제체조연맹은 1881년 설립됐고, 1896년 제1회 근대 올림픽에서부터 체조가 정식 종목으로 채택됐어요.&lt;br&gt;&lt;br&gt;한국에 근대 체조가 들어온 건 고종 때로 여겨집니다. 1895년 고종이 반포한 ‘교육입국조서’에 지·덕·체 교육이 강조돼 체조가 교육 과정에 도입됐다고 해요. 이후 일제강점기인 1911년에 기계체조가 학교의 정식 교과목으로도 채택됐고, 광복 이후인 1959년 국제체조연맹에 정식으로 가입하면서 한국 체조 대표팀이 올림픽 등 국제 경기 대회에 참가할 수 있게 됐습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [재미있는 과학] ‘건강한 똥’에서 추출한 유익한 미생물로 장 건강 지켜요</title>
+      <link>https://www.chosun.com/national/nie/2024/07/30/YIB2AVRUA5DZVMKZPF33JQKATI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/30/YIB2AVRUA5DZVMKZPF33JQKATI/</guid>
+      <dc:creator>오가희 과학 칼럼니스트, 기획·구성=오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HTHSB3ABRVESXGAZ2HHRECGDW4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장내 미생물과 대변이식술&lt;br&gt;&lt;br&gt;우리 몸에는 수많은 미생물이 살고 있습니다. 우리 몸에 도움 되는 미생물도 있고, 해로운 것도 있죠. 도움 되는 미생물은 소화를 돕거나 면역 기능을 조절해줘요. 때로는 비타민 같은 영양분을 합성하는 데 도움을 주기도 합니다.&lt;br&gt;&lt;br&gt;장내 미생물은 ‘장’에 살고 있는 미생물을 말해요. 배변 활동을 원활하게 해주는 유산균이 대표적인 장내 미생물입니다. 유익한 장내 미생물이 많을수록 장을 건강하게 유지할 수 있죠. 반대로 해로운 장내 미생물이 많다면 제대로 소화가 안 돼 설사를 하거나 변비에 걸리지요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2SAJJR4PMNAAPHUESHR3V2PVSM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;유전자 가위·바이러스로 장 건강 지킨다&lt;/b&gt;&lt;br&gt;&lt;br&gt;프랑스의 한 생명과학 기업에서 바로 이 장내 미생물의 유전자를 직접 바꿀 수 있는 기술을 지난 10일 국제 학술지 ‘네이처’에 발표했습니다. 해로운 장내 미생물들의 유전자를 바꿔 더 이상 몸에 해롭지 않도록 만드는 거예요.&lt;br&gt;&lt;br&gt;연구진은 유전자 가위 기술을 이용했습니다. 유전자 가위 기술은 생물의 DNA(유전자)를 원하는 대로 자르고 붙이는 기술입니다. 널리 쓰이는 기술이지만 지금까지 장내 미생물의 유전자를 편집하는 것에는 쓸 수 없었어요. 해로운 장내 미생물만 골라서 유전자를 편집해야 하는데 주변에 있는 엉뚱한 세포, 가령 장 세포의 유전자까지 편집할 수도 있기 때문이죠.&lt;br&gt;&lt;br&gt;이 문제를 해결하기 위해 연구팀은 ‘박테리오파지’라는 바이러스를 이용했습니다. 이 바이러스는 박테리아(미생물)를 감염시켜요. 연구진은 해로운 장내 미생물만 감염시키는 박테리오파지를 만들고, 이 바이러스에 유전자 가위 기술을 넣었습니다. 그러면 유전자 가위는 박테리오파지가 장내 해로운 미생물에 침투한 이후에 작동하게 되지요. 유전자 가위가 다른 멀쩡한 세포에 피해를 주지 않도록 한 것이에요.&lt;br&gt;&lt;br&gt;이를 통해 유전자 가위는 항생제에 내성을 갖거나 독성 물질을 만드는 유전자를 잘라내고 장에 해롭지 않은 유전자를 넣는 등 편집할 수 있게 돼요.&lt;b&gt; &lt;/b&gt;쥐를 대상으로 동물 실험한 결과, 연구진이 만든 박테리오파지는 쥐의 장 속에서 최소 42일간 살아남아 해로운 장내 미생물 93%가량을 바꿨다고 해요.&lt;br&gt;&lt;br&gt;&lt;b&gt;건강한 사람 대변 이용해 치료하기도&lt;/b&gt;&lt;br&gt;&lt;br&gt;이번 연구가 나오기 전까지 장내 미생물 분포를 바꾸는 방법은 유익한 장내 미생물을 입으로 섭취하거나, 곧장 장으로 넣어주는 것이었습니다. 입으로 섭취하는 건 영양제로 인기 좋은 프로바이오틱스가 대표적이죠.&lt;br&gt;&lt;br&gt;곧장 장으로 넣어주는 방법은 ‘대변이식술’이에요. 대변이식술은 건강한 사람의 대변에 있는 미생물을 장 질환 등을 앓고 있는 환자의 장에 이식하는 걸 말해요. 건강한 생물의 대변에는 장이 건강하게 유지되도록 돕는 장내 미생물이 들어있는 것을 이용하는 거예요. 더럽다고 생각되는 대변이 아픈 사람을 치료하는 데 쓰인다니 신기하지 않나요?&lt;br&gt;&lt;br&gt;대변을 그대로 사람 몸에 넣는 건 아니에요. 우선, 건강한 사람의 대변을 정제합니다. 더러운 물을 깨끗하게 정수해서 쓰듯 대변에서 환자 몸에 필요한 유익한 장내 미생물을 추출하는 거지요. 이렇게 추출한 장내 미생물을 내시경 등으로 장에 직접 뿌려주거나, 약으로 만들어 먹습니다.&lt;br&gt;&lt;br&gt;대변이식술은 1958년 미국의 한 외과의사가 처음 시도했어요. 건강한 사람의 대변에서 더러운 걸 걸러낸 뒤 장염 환자에게 이식했어요. 당시로선 충격적인 방법이었지만 효과가 있었습니다. 이후 2010년대에 ‘클로스트리듐 디피실’이라는 세균으로 인한 장염에 대변이식술이 특히 효과적이라는 연구가 여럿 발표됐습니다.&lt;br&gt;&lt;br&gt;이 장염은 항생제 등 약물 복용으로 클로스트리듐 디피실이 과잉 증식하면서 생긴 것이에요. 외부에서 유익한 장내 미생물을 넣어주면 비교적 쉽게 장 건강을 회복할 수 있는 거죠. 현재 대변에서 추출한 미생물을 이용해 치료할 수 있는 질병은 이 장염이 유일해요. 하지만 과학자들은 다른 질병 치료에도 사용할 수 있는 가능성이 높다고 보고 있어요. 현재 염증성 장 질환이나 과민성 장 증후군 등에 대해 치료 효과를 검증하는 실험들이 진행되고 있어요.&lt;br&gt;&lt;br&gt;&lt;b&gt;다양한 국적 사람들의 대변 모으는 프로젝트&lt;/b&gt;&lt;br&gt;&lt;br&gt;대변 이식술에서 가장 중요한 건 대변에서 유익한 장내 미생물을 추출하는 것이지요. 장내 미생물은 식습관과 생활방식에 영향을 크게 받아요. 나라마다 민족마다 모두 다를 수밖에 없지요. 현재는 각 집단마다 어떤 장내 미생물을 가졌는지 과학자들이 알아내고 있는 단계라고 해요.&lt;br&gt;&lt;br&gt;이를 위해 과학자들은 세계 다양한 지역에 살고 있는 사람들의 대변 시료를 모으고 있습니다. 바로 ‘국제 미생물 보존 프로젝트’예요. 30여 국가의 과학자들이 참여하고 있대요. 이곳에서 수집한 대변을 통해 알아낸 장내 미생물 자료는 주로 미국과 유럽 쪽에 집중돼 있다고 해요. 그래서 아르헨티나와 이라크, 에티오피아 등 다양한 나라에 사는 사람들의 대변 시료를 더 모으고 있습니다.&lt;br&gt;&lt;br&gt;우리나라에서는 기업을 중심으로 장내 미생물 연구가 진행되고 있습니다. 클로스트리듐 디피실 장염은 물론 장내 미생물이 영향을 미치는 것으로 알려진 비만과 아토피 등의 질병 치료를 위해 연구가 이뤄지고 있다고 해요.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IADNZPK6FFD3IJFRIU6ONXFBE.png?width=1200&amp;height=675&amp;auth=946322e158c5098ddae365c5b4a9f0fc1e6f0ea60e1946156e4580e4bd2e184a&amp;smart=true" type="image/png" height="675" width="1200">
+        <media:description type="plain">그래픽=진봉기</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>정신과 의사 양재웅, 환자 사망 사과...예비신부 하니도 악플 달려</title>
       <link>https://www.chosun.com/national/national_general/2024/07/29/NCLP7IC3ONCFJPFC52DQVBAZWE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/29/NCLP7IC3ONCFJPFC52DQVBAZWE/</guid>
@@ -745,91 +935,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7HJXVGY7BRH7FD75VTTULIG4EY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[매일매일 중국어 한마디] 맨 처음, 첫 회</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/07/29/3KXJICQZ65CHVIJ333TB4Q7NRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/07/29/3KXJICQZ65CHVIJ333TB4Q7NRU/</guid>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NTB45NP2SNBHFOYM5JXCKLIU4U.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 절연(絶緣)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/29/6Z727C4NXJAA7LDPAYE2WXU32U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/29/6Z727C4NXJAA7LDPAYE2WXU32U/</guid>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZG7XHSI7XJGYFIEHUYGI6RXW34.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] have your back</title>
-      <link>https://www.chosun.com/national/nie/english/2024/07/29/KYFCARTFDREQTLX3VRCJ2OIZ6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/07/29/KYFCARTFDREQTLX3VRCJ2OIZ6I/</guid>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJRIYELB6RGVVNMNTJYMEUOMT4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2430] 날짜 계산기</title>
-      <link>https://www.chosun.com/national/nie/2024/07/29/CKQG2Y3GV5A6LOG5PEFJJDL764/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/29/CKQG2Y3GV5A6LOG5PEFJJDL764/</guid>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E7F5PX4EPRB67HL7QFJAJBHLWM.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>父 기리며… 슈주 은혁, 1억 기부</title>
-      <link>https://www.chosun.com/national/people/2024/07/29/SOWOEXESXVCFRD6N2WNIHKMO6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/07/29/SOWOEXESXVCFRD6N2WNIHKMO6Q/</guid>
-      <dc:creator>서보범 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RS4E3BYSERGSHMAW4G5NZPZBRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;슈퍼주니어 은혁. /오드엔터테인먼트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 슈퍼주니어 은혁(38·본명 이혁재)이 교통사고로 별세한 아버지 생일을 맞아 아동복지전문기관 초록우산에 1억원을 기부했다. 그의 기부는 2021년 6월과 작년 4월에 이어 이번이 3번째다.&lt;br&gt;&lt;br&gt;초록우산에 따르면 이번 기부로 은혁은 초록우산 1억원 이상 고액 후원자 모임 ‘그린노블클럽’에 487번째로 이름을 올렸다. 은혁은 “아버지 생일을 맞아 국내의 어려운 가족돌봄아동을 도울 수 있게 되어 진심으로 기쁘다”고 했다. 신정원 초록우산 사회공헌협력본부장은 “은혁의 기부처럼 선한 영향력이 더욱 널리 퍼질 수 있도록 노력할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 민병환 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/07/29/L3VRIAGI3FFDVGMI6MJ5KTQPXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/07/29/L3VRIAGI3FFDVGMI6MJ5KTQPXI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 15:35:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;민병환 &lt;/b&gt;별세, &lt;b&gt;민창기&lt;/b&gt; 前 스포츠조선 편집국장·&lt;b&gt;민숙희&lt;/b&gt;·&lt;b&gt;민정숙 &lt;/b&gt;부친상=27일5시, 대전 건양대병원, 발인 29일7시30분, (042)600-6666&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조삼진 &lt;/b&gt;건국대 사범대학 명예교수 별세, &lt;b&gt;강경식 &lt;/b&gt;前 경제부총리 아내상, &lt;b&gt;강영욱 &lt;/b&gt;아시아개발은행 근무·&lt;b&gt;강은정 &lt;/b&gt;DB김준기문화재단 상임이사·&lt;b&gt;강승우 &lt;/b&gt;미NKHRW 대표·&lt;b&gt;강승훈&lt;/b&gt; NSI 부원장 모친상, &lt;b&gt;상진아 &lt;/b&gt;애크런 주립대 교수·&lt;b&gt;박선희 &lt;/b&gt;시모상, &lt;b&gt;강지윤&lt;/b&gt;·&lt;b&gt;강지민&lt;/b&gt;·&lt;b&gt;강태우&lt;/b&gt;·&lt;b&gt;강태규 &lt;/b&gt;조모상, &lt;b&gt;김지석 &lt;/b&gt;홋카이도대 국제공보미디어 박사과정·&lt;b&gt;김지수&lt;/b&gt; 서울대 화학생물공학부 박사 외조모상=26일22시50분 삼성서울병원, 발인 31일7시30분, (070)4402-7799&lt;br&gt;&lt;br&gt;▲&lt;b&gt;황계정 &lt;/b&gt;前 연세대 교수 별세, &lt;b&gt;황태식 &lt;/b&gt;으뜸한의원 원장·&lt;b&gt;황유식 &lt;/b&gt;동탄연세소아과 원장·&lt;b&gt;황도식 &lt;/b&gt;연세대 교수 부친상=28일0시 신촌세브란스병원, 발인 30일8시, (02)2227-7590&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [무대 위 인문학] 갈릴레이, 자신이 만든 망원경 통해 ‘지동설’ 주장했죠</title>
-      <link>https://www.chosun.com/national/nie/2024/07/29/RP5BUPPOGNGCVBIMZQUNWBKTCA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/29/RP5BUPPOGNGCVBIMZQUNWBKTCA/</guid>
-      <dc:creator>최여정 ‘이럴 때 연극’ 저자, 기획·구성=오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>인류는 과학기술과 함께 발전해 왔습니다. 그중에서도 천문학은 농사에 가장 중요한 날씨 변화와도 밀접한 연관이 있어 일찍이 발달한 과학 분야였지요. 인간은 하늘의 별을 올려다보면서 천문학을 발전시켰어요.&lt;br&gt;&lt;br&gt;하지만 인류는 오랫동안 지구가 우주의 중심이고, 천체들이 지구 주위를 돈다고 믿었는데요. 16세기가 되어서야 우주의 중심은 태양이고, 지구가 태양의 주위를 돈다는 지동설이 제기됐지요.&lt;br&gt;&lt;br&gt;한편 ‘전기’는 현대 산업 문명의 중요한 에너지원으로 쓰이고 있지요. 18세기 벤저민 프랭클린은 하늘에서 번쩍이는 번개가 전기라는 사실을 입증해 냈습니다. 19세기에는 토머스 에디슨이 백열전구를 발명했어요. 현재는 전기와도 밀접하게 연관된 인공지능(AI) 산업이 급속히 발전하고 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SITP37COX5EBZFLAJ2TG6GJQA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뮤지컬 '시데레우스' 2022년 공연 장면. /주식회사 랑&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이처럼 ‘천문학’과 ‘전기·인공지능’ 분야에서 과학기술의 발전을 다룬 공연이 무대에 올라 있습니다. 뮤지컬 ‘시데레우스’(10월 13일까지·플러스씨어터)와 연극 ‘전기 없는 마을’(8월 4일까지·홍익대 대학로 아트센터 소극장)입니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;갈릴레오 갈릴레이와 지동설&lt;/b&gt;&lt;br&gt;&lt;br&gt;뮤지컬 ‘시데레우스’는 과학사에서 위대한 인물로 꼽히는 갈릴레오 갈릴레이와 요하네스 케플러가 중세 기독교의 ‘천동설’이 지배하던 시대에 ‘지동설’의 타당성을 입증하며 겪는 수난의 이야기들을 담은 작품이에요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BMTUSCGZFRCSBPRZ64OHUEF4TM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;갈릴레오 갈릴레이 초상화. /브리태니커&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뮤지컬의 제목은 갈릴레이의 저서 ‘시데레우스 눈치우스’에서 따온 것입니다. 이 책의 제목은 라틴어로 ‘별의 소식을 전하는 사람’을 뜻해요. 갈릴레이는 1608년 네덜란드에서 처음 발명된 망원경에 대한 소문을 듣고, 자신이 직접 20배율의 망원경을 만들어요. 그리고 이 망원경으로 관찰한 것들을 책에 기록하며 지구가 우주의 중심이라는 고정관념을 깨트리는 혁명적인 계기를 만들어냅니다. 갈릴레이 자신이 가장 선구적으로 별의 소식을 전하는 사람이었던 것이죠.&lt;br&gt;&lt;br&gt;갈릴레이는 위대한 업적을 남긴 천문학자이면서 지금으로 치면 유능한 프로듀서이기도 했습니다. 당시 망원경 제작과 책 출판에 상당한 돈이 필요했던 갈릴레이는 이탈리아 최고의 예술 후원 가문인 메디치를 찾아가 자신이 망원경으로 발견한 목성의 위성에 ‘메디치의 별’이라고 이름을 붙여 후원을 얻어내 연구를 지속할 수 있었죠.&lt;br&gt;&lt;br&gt;갈릴레이는 1564년 이탈리아 피사에서 태어났어요. 천문학적 업적을 쌓아가던 그였지만, 1632년에 펴낸 ‘프톨레마이오스와 코페르니쿠스의 2대 세계 체계에 관한 대화’라는 책으로 종교재판에 회부됩니다.&lt;br&gt;&lt;br&gt;이 책이 당시 교회가 금지했던 코페르니쿠스 지동설의 타당성을 갈릴레이 자신의 관측 결과와 수학적 논증을 바탕으로 입증했기 때문입니다. 이 책은 초판이 모두 팔릴 정도로 지동설 확산에 중요한 역할을 했지만 교황청에 의해 금서 목록에 올라요. 재판 이후 갈릴레이는 앞으로 지동설을 주장하지 않겠다고 서약하며 자신의 신념을 부정해야 하는 모욕을 겪게 됩니다. 그리고 가택 연금을 선고받았지요.&lt;br&gt;&lt;br&gt;뮤지컬 시데레우스는 이 같은 사실을 배경으로 하고 있어요. 또 갈릴레이와 케플러가 편지를 주고받은 사실에 상상력을 가미해 이야기를 풀어나가지요. 케플러는 행성의 운동에 관한 법칙을 발견하는 등 근대 과학 발전의 선구자 중 한 명이에요. 두 사람이 편지를 주고받으며 나누는 별의 움직임과 연구는 망원경 렌즈처럼 보이는, 무대 뒤 반원 프레임 속에서 영상으로 표현되지요. 시시각각 바뀌는 별자리가 아름답게 펼쳐지면서 갈릴레이와 케플러 두 천문학자가 진실을 향해 나아가는 담대한 여정이 관객들에게 감동적으로 전해집니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;전기가 권력인 세상&lt;/b&gt;&lt;br&gt;&lt;br&gt;연극 ‘전기 없는 마을’은 제목 그대로 전기가 부족해진 세상에서 벌어질 수 있는 일을 상상해 만든 작품이에요. AI 기술의 발달 이면에 놓인, 소멸해 가는 도시의 이야기를 그리고 있어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V3URHGDY7VBQDN3BXMRGE2LDRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연극 '전기 없는 마을' 공연 장면. /국립극단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;AI 기술이 점차 보편화되면서 갈수록 전력 사용량이 크게 증가하고 있는데요. 연극은 이로 인해 미래 사회에 전기가 하나의 권력이 되어 버릴지 모른다는 것을 암시하고 있습니다.&lt;br&gt;&lt;br&gt;연극에는 전기의 효율적인 사용을 위해 사람이 살지 않는 도시의 전기를 차단하는 일을 하는 ‘이든’과 ‘재이’가 등장합니다. 전기가 끊긴 마을은 세계와 단절되고 더 이상 존재하지 않는 곳이 되지요. 그런데 이든과 재이에게 마지막 임무가 주어져요. 마을이 아닌, 자신들의 전기를 끊어버리라는 것이었죠. 이들은 인간이 아니라 인공지능으로 만들어진 존재였던 것이에요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NYFXW3PYQFE7FDUN7TYG3DM4BI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연극 '전기 없는 마을' 공연 장면. /국립극단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인공지능인 이든과 재이를 조정하는 ‘기준’과 ‘재하’는 컴퓨터에 현실을 똑같이 복제한 가상 세계를 만들고 마치 창조주 같은 생각을 가지게 됩니다. 하지만 이들 역시 ‘영란’이 만들어낸 인공지능일 뿐이었어요. 극에서 유일한 인간인 영란은 인공지능을 만들어낸 존재이지만, 결국 죽음을 마주하고 있는 유한한 존재입니다. 영란은 죽음을 앞두고 자신이 만든 인공지능 인물들과 이별합니다. 그리고 기술은 발달했지만 삶은 과거보다 나아지지 않은 디스토피아 같은 세상을 떠나요. 우리는 인간이 자연의 원리를 발견하고 질서를 부여하며, 이를 통해 기술을 발달시키는 존재인 것으로 생각하곤 하는데요. 하지만 아무리 기술이 발전한다고 해도 인간은 생사의 규칙을 벗어날 수 없지요. 과학기술의 발달이 더 나은 미래 사회로 이어지려면 어떤 노력이 필요할지, 연극 ‘전기 없는 마을’을 보며 한번 생각해 보면 좋겠습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [식물 이야기] 한여름 되면 잎겨드랑이에 보통 차풀은 1개, 자귀풀은 3개의 꽃 피어요</title>
-      <link>https://www.chosun.com/national/nie/2024/07/29/VGIUFEQUAZCR5JH6YPMHOWCKNI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/29/VGIUFEQUAZCR5JH6YPMHOWCKNI/</guid>
-      <dc:creator>김민하 국립생물자원관 환경연구관</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>같은 시기에 꽃이 피고, 잎이 비슷하게 생겨 이름을 바꿔 부르는 일이 흔한 식물로 ‘차풀’과 ‘자귀풀’이 있어요. 차풀은 식물 전체를 차(茶) 대신 사용했다고 해서, 자귀풀은 자귀나무와 같이 마주보는 작은 잎이 밤에 포개지고 낮에는 펴지는 수면운동을 하는 풀이라는 뜻에서 이름이 유래했다고 해요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CJXBDM3MGFH3RCVN5UXXKEB2UQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;차풀에 콩꼬투리처럼 납작하고 긴 모양의 열매가 달린 모습(위). 아래 사진은 자귀풀 열매예요. 자귀풀 열매의 표면은 처음엔 밋밋하다가 시간이 지날수록 여러 개 마디가 뚜렷해져요. /국립생물자원관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;두 식물은 콩과(科)에 속하는 한해살이풀이에요. 잎만 보면 두 식물을 구분하기 어렵지만 사는 곳과 꽃·열매의 특징을 알면 그나마 쉽게 구별할 수 있어요.&lt;br&gt;&lt;br&gt;우선 차풀은 전국의 길가 또는 풀밭에서 30㎝ 정도로 키가 나지막하게 자라요. 자귀풀은 전국의 하천가나 습지에서 높이 50㎝ 이상으로 더 높게 자라요. 우리 주변의 물 빠짐이 좋은 모래밭에서 자라면 대부분 차풀이라고 보면 됩니다.&lt;br&gt;&lt;br&gt;두 식물의 잎은 모두 줄기에 가지런히 붙어 있는데요. 아무리 비슷하게 생겼어도, 자세히 살펴보면 다른 점들이 있습니다. 차풀의 잎은 길이 1㎝ 미만이며, 가는 피침 모양으로 끝이 뾰족해요. 자귀풀의 잎은 1.5㎝로 차풀보다 조금 더 길어요. 좁은 타원 모양이며 끝이 둥글지요.&lt;br&gt;&lt;br&gt;두 식물은 장마가 지나고 본격적인 여름이 시작되면 잎겨드랑이에 꽃이 달려요. 차풀은 보통 노란색 꽃이 1개씩 피며, 꽃잎 5장이 서로 길이가 비슷해요. 하지만 자귀풀은 연한 노란색 꽃이 2~3개씩 달려요. 특히 자귀풀 꽃은 나비 모양으로, 위쪽 꽃잎이 가장 크고 길며 중앙에 주황색 무늬가 있어 눈에 띄죠.&lt;br&gt;&lt;br&gt;가을이 되어 열매가 달리면 두 식물은 확실하게 차이가 납니다. 차풀 열매는 콩꼬투리처럼 납작하고 긴 모양이며 털이 있지만, 자귀풀 열매는 털이 없어요. 또 자귀풀 열매의 표면은 처음엔 밋밋하다가 시간이 지날수록 여러 개 마디가 뚜렷해지고, 씨앗이 들어 있는 부분은 볼록해지면서 표면에 주름이 많아져요. 열매가 다 익으면 콩처럼 껍질이 갈라지는 것이 아니라, 마디마디가 끊어져 땅에 떨어져요. 떨어진 열매 조각은 마치 절편처럼 보여 재미있어요. 잎이 다 떨어진 겨울엔 차풀 열매는 까맣게 변해 있고, 자귀풀 열매는 한두 마디만 앙상한 줄기에 붙어 있답니다.&lt;br&gt;&lt;br&gt;우리 주변 식물들은 얼핏 보면 비슷하게 생겼지만, 자세히 보면 각자 이름도 있고 생김새도 다 다르다는 것을 알 수 있어요. 모든 사물을 잘 알기 위해서는 대충 보지 말고 자세히 오래 보아야 하는 것 같아요. 장마가 끝나면 주변에서 차풀과 자귀풀을 구별해보며 알아가는 재미를 즐겨 보세요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 7월 29일</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/29/FS36X5IJONCL7JRN35ABK6TY6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/29/FS36X5IJONCL7JRN35ABK6TY6I/</guid>
-      <description>전국 구름 많고 흐림</description>
-      <pubDate>Sun, 28 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HTZ6ECGLIBEUXOAMLRC3RTJDCA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재밌다, 이 책!] 십대들 힘들게 하는 심리적 ‘바이러스’… 극복 방법 알면 저력 발휘할 수 있어</title>
-      <link>https://www.chosun.com/national/nie/2024/07/29/FJAD7T4NDFA6XKI6HWXH63EDAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/29/FJAD7T4NDFA6XKI6HWXH63EDAI/</guid>
-      <dc:creator>김미향 출판평론가·수필가</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EDM7E4NDPVBZNBI74NQ626RMHM.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;문지현 지음 l 출판사 뜨인돌 l 가격 1만1000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;정신건강의학과 전문의인 저자가 ‘바이러스’라는 비유를 들어, 십 대들이 겪는 심리·정서적 문제들을 살펴보는 책이에요. 저자가 말하는 ‘바이러스’에는 낮은 자존감과 남 탓, 게으름, 분노, 외톨이, 완벽주의 등이 포함돼요. 책은 각각의 바이러스에 걸리면 어떤 상황이 벌어지는지 사례를 들어 설명해줘요. 그리고 바이러스에 걸린 원인과 극복 방법을 자세히 알려줍니다.&lt;br&gt;&lt;br&gt;‘외톨이 바이러스’의 사례를 살펴볼까요? ‘동욱’은 중학교 때 단짝이었던 ‘영민’과 다른 고등학교에 진학해요. 동욱은 친구를 새로 사귀지 못해 힘들어해요. 주위를 보면 동욱처럼 혼자 있는 친구가 한 명 정도는 있을 거예요. 이들 중 일부는 “만날 지들끼리 몰려다니며 노는 애들을 보면 아주 한심하죠”라고 말할지도 몰라요.&lt;br&gt;&lt;br&gt;이런 친구들은 관계 맺는 걸 귀찮아하는 성격일 수 있지만, 어쩌면 사람들에게 받은 상처의 기억 때문에 마음의 문을 닫은 것일 수도 있어요. 만약 후자의 이유로 외로움을 느끼고 있다면, 저자는 사람에게 거절당할까 봐 두렵더라도 용기를 내야 한다고 조언해요. 그리고 자신이 사귀고 싶은 친구는 어떤 모습인지 적어보고, 스스로가 그런 모습이 되기 위해 노력해야 한다고 말해요.&lt;br&gt;&lt;br&gt;혹시 인터넷 강의를 듣고 있는데, 수행평가 준비를 해야 할 것 같은 기분이 든 적 있나요? 막상 수행평가 준비를 하면 기출 문제 풀이집을 찾지는 않나요? 이처럼 바쁘게 이것저것 하다가 내가 지금 무얼 하고 있는지 잘 모르는 상태를 겪고 있다면 ‘바쁨 바이러스’에 감염된 상태라고 진단할 수 있어요. 그리고 저자에 따르면 이렇게 우왕좌왕하는 바쁨은 불안의 또 다른 모습이래요.&lt;br&gt;&lt;br&gt;저자는 이를 해결하기 위해선 제대로 쉬는 시간을 꼭 만들어야 한다고 말해요. 땅도 휴식 시간을 가져야 다음 농사 때 우리에게 풍성한 수확물을 안겨줄 수 있어요. 휴대전화도 충전을 해야 다시 쓸 수 있죠. 마음의 배터리도 짬짬이 충전을 해줘야 힘을 내서 앞으로 나아갈 수 있어요. 공부할 땐 공부하고, 쉴 땐 쉬는 등 맺고 끊기를 잘해야만 집중력도 더 키울 수 있답니다.&lt;br&gt;&lt;br&gt;‘십대답게 살아라’라는 책 제목은 삶의 방식을 강요하는 것처럼 느껴질 수 있어요. 하지만 책을 읽어보면, 십 대 때만 겪을 수 있는 어려움과 이를 극복하는 경험을 통해 성장하고 자기 자신을 발견하라는 메시지가 제목에 담겨 있음을 알 수 있어요.&lt;br&gt;&lt;br&gt;책에서 저자는 “동기만 부여된다면 스스로도 예상하지 못한 저력을 발휘하는 게 바로 십 대들”이라고 말해요. 그러니 힘과 열정을 축내게 만드는 바이러스를 퇴치하는 게 중요하겠죠. 이 책이 열정과 저력을 갉아먹는 바이러스의 원인을 알려주고 극복해 나가도록 도와줄 거예요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>달디달고 달디단~♪... LA 도심서 ‘밤양갱 떼창’</title>
       <link>https://www.chosun.com/economy/industry-company/2024/07/28/SZFOVH47VFCZNDVIQS3X5Q45AA/</link>
       <guid isPermaLink="true">https://www.chosun.com/economy/industry-company/2024/07/28/SZFOVH47VFCZNDVIQS3X5Q45AA/</guid>
@@ -839,112 +944,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WXDPPHXH5JFG3BPGA27DPVXNPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 26일(현지시각) 미국 로스앤젤레스(LA) 다운타운 크립토닷컴 아레나에서 열린 ‘케이콘 LA 2024′ 엠카운트다운 콘서트에서 걸그룹 케플러가 공연을 펼치는 모습. 2만여 석을 가득 채운 K팝 팬들은 춤과 떼창으로 화답했다. 이날 공연장에는 가족 단위로 온 K팝 팬이 많았다. /CJ ENM&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 26일(현지 시각) 오후 6시 미국 LA(로스앤젤레스) 다운타운에 있는 크립토닷컴 아레나는 2만여 명의 ‘K팝’ 팬으로 가득 찼다. 원래 크립토닷컴 아레나는 NBA(미 프로 농구) LA 레이커스의 홈구장이자 세계적 권위의 ‘그래미상’ 시상식을 개최하는 미국 스포츠와 대중문화의 상징 같은 장소지만, 이날부터 사흘 동안 열린 한류 축제 ‘케이콘(KCON) LA 2024′와 함께 K팝 축제의 장으로 변신했다. 이곳에서 만난 숀탈 애플턴(48)씨는 딸 헬렌(21)과 함께 4시간 넘게 시카고에서 비행기를 타고 왔다고 했다. 애플턴씨는 “딸이 고등학생 때 K팝에 푹 빠졌는데, 어느새 나까지 K팝 팬이 됐다”며 “이번에 모녀끼리 K팝을 즐기러 여행을 온 것”이라고 했다.&lt;br&gt;&lt;br&gt;잠시 뒤인 이날 오후 6시30분 케이콘의 하이라이트인 콘서트(엠 카운트다운)가 시작되자, 관중석을 가득 채운 K팝 팬들이 환호성을 질렀다. 인기 보이그룹 ‘제로베이스원’이 무대에 오르자, 분위기가 절정을 향했다. 곳곳에서 야광봉이 빛을 뿜어냈고, “사랑해”라는 외침이 터져 나왔다.&lt;br&gt;&lt;br&gt;“달디달고 달디달고 달디단 밤양갱.” 가수 비비가 무대에 올라 영어라고는 한 글자도 없는 히트곡 ‘밤양갱’을 부를 땐, ‘여기가 서울 KSPO돔(올림픽체조경기장)인가’라는 착각이 들 정도로 ‘떼창’이 펼쳐졌다. 미국 유타주 로건에서 비행기를 타고 1시간 30분이 걸려 이곳에 왔다는 키에라 소로카(23)씨는 “유튜브 알고리즘을 통해 비비의 노래를 접하고 팬이 됐다”고 말했다.&lt;br&gt;&lt;br&gt;CJ ENM이 주최하는 케이콘은 2012년 미국 캘리포니아주 어바인(Irvine)에서 시작돼 12년째 이어져 오고 있다. 미국, 일본, 아랍에미리트, 프랑스, 사우디아라비아 등 13개 지역에서 개최됐다. 누적 관객만 183만여 명에 달한다. CJ ENM 관계자는 “케이콘 LA 2024 첫날 4만명이 찾았다”며 “사흘간 10만명이 훌쩍 넘는 관객이 찾을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;저녁에 열리는 콘서트뿐 아니라 오전 9시부터 크립토닷컴 아레나에 인접한 LA 컨벤션 센터와 길버트 린지 플라자는 한국 문화, 이른바 ‘K컬처’에 흠뻑 빠진 이들로 가득했다. 길버트 린지 플라자에선 끊임없이 흘러나오는 K팝에 맞춰 MZ세대들이 그동안 갈고닦은 춤 실력을 뽐냈다. 일면식도 없는 사람들이 함께 춤을 추고 노래가 끝나면 손바닥을 마주치고 얼싸안았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2AG6JEQIZRDUBP46XEVDGJJHBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울관광재단이 LA컨벤션센터에 마련한 광화문과 BTS 멤버 뷔가 배경인 포토월에서 케이콘 방문객들이 사진을 찍는 모습. /서울관광재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;LA 컨벤션 센터 곳곳에선 인기 아이돌이 팬들에게 추억을 선사하려 팬미팅과 미니 콘서트 등을 잇따라 열었다. 삼성전자, CJ올리브영, 팔도, 롯데칠성음료 등도 부스를 차리고 긴 줄이 늘어선 K컬처 팬들을 맞이했다. K컬처 팬들은 삼성전자 스마트폰을 둘러보고, 팔도 비빔면을 선물로 받고, 롯데 밀키스를 시음하고, 올리브영에서 한국 화장품을 체험했다. 이전 케이콘에선 브랜드를 알리는 데 주력했던 올리브영은 이번에 70여 국내 중소 뷰티 브랜드 제품 210개를 진열했다. 홍기은 올리브영 글로벌커머스 상무는 “올리브영 글로벌 매출의 70%가 미국에서 나온다”고 말했다. 서울시 산하 서울관광재단 부스에선 방문객들이 광화문과 BTS 멤버 뷔가 배경인 포토월에서 사진을 찍었다. 케이콘 기간 LA 곳곳에선 삼성전자, 올리브영, 팔도 비빔면 등이 새겨진 ‘선물 가방’을 든 사람들을 쉽게 볼 수 있었다.&lt;br&gt;&lt;br&gt;이번이 두 번째 케이콘 방문이라는 헬렌 로페즈(26)씨는 “K팝 팬이 됐다가 자연스럽게 K뷰티(화장품), 푸드(먹거리)에도 관심을 갖게 됐다”고 했다. CJ ENM 신형관 음악콘텐츠사업본부장은 “케이콘의 출발지이자 글로벌 음악 시장 1위인 미국에서 K팝과 한국 문화를 사랑해주는 많은 이의 열정을 다시 한번 체감했다”며 “계속해서 새로운 시도들을 이어갈 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 운세]  7월 29일 월요일 (음력 6월 24일 甲午)</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/29/WAMW4C5TB5GULN6SMLWILM6Y3I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/29/WAMW4C5TB5GULN6SMLWILM6Y3I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 12:59:50 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 원숭이띠는 최고 파트너. 48년생 기도하는 마음으로 살라. 60년생 힘들고 지쳐도 얼굴 웃음기는 잃지 마라. 72년생 버릴 것과 취할 것 명확하게 구분하라. 84년생 이익만 계산하면 하수. 96년생 드러내지 말고 감추면서 가라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 남의 밥에 든 콩 더 커 보인 법. 49년생 오랜 인연 주의하라. 61년생 자존심 내세울수록 자존심 꺾일 수도. 73년생 신장 방광계통 질환 주의. 85년생 외출 이롭지 않으니 내 집이 명당. 97년생 남쪽은 재물 기운 살아나는 방위.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 시류 따라 처신하면 매사 순탄. 50년생 뛰는 사람 위 나는 사람 있다. 62년생 상대 봐가며 응대 달리하도록. 74년생 금전 관련이면 충동적 결정은 금물. 86년생 돈 가뭄에 단비 내릴 듯. 98년생 투자나 매매는 불리하니 다음 기회에.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 상대 관심사에 관심 보이도록. 39년생 비교하지 않으면 행복하다. 51년생 남 싸움에 칼 빼지 마라. 63년생 깊은 호수는 소리 내며 흐리지 않는다. 75년생 주변 의견 수용하라. 87년생 유연성과 유머감각 필요한 시기. 99년생 너무 강하면 부러지기 마련.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 너그럽고 온순한 사람을 가까이하도록. 40년생 보다 여유롭고 넉넉한 자세 가져야. 52년생 한발 물러난다고 퇴각 아니다. 64년생 땅은 이름 없는 풀 기르지 않는다. 76년생 금전 융통과 자금 흐름 원활. 88년생 남 말 믿지 말고 소신껏 처신하라. 00년생 성질 죽이면 분위기는 산다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 내일을 예견하며 오늘을 살라. 41년생 궤도 수정 불가피할 듯. 53년생 넘어져도 일어나는 오뚝이 배우도록. 65년생 지출도 있으나 더 많은 수익 발생. 77년생 가족 아니면 친지 덕분으로 문제 해결. 89년생 개울 치고 가재 잡고. 01년생 자신뿐 아니라 남 위해 기도하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 약간의 과장도 필요할 때가. 42년생 작고 가벼운 실수도 크고 무겁게 받아들여야. 54년생 결정할 일 앞에선 머뭇거리지 마라. 66년생 물러날 때 아는 게 지혜. 78년생 조금만 넓고 깊게 생각하라. 90년생 세간은 옮길수록 준다. 02년생 마음 여리면 자신만 손해.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 장고 끝 악수라 했던가. 43년생 더디지만 임무 완수될 듯. 55년생 예상치 못한 횡재수 기대. 67년생 가까운 사람과도 일정한 거리 두기 필요. 79년생 아랫사람들 칭송 있을 듯. 91년생 비전 제시하면 따를 것. 03년생 의존성 버리고 자유의지로 가도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 상처 나아도 흉은 남는 법. 44년생 능동적이고 적극적인 자세 필요. 56년생 이해관계 없는 일에 사람들은 관심 없다. 68년생 윗사람과 아랫사람 사이 진퇴양난. 80년생 상대에게 조바심 보이지 마라. 92년생 건강관리만 자신 있다면 나서봐라. 04년생 절제와 절약 필요할 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 가운데 문으로 출입하라. 45년생 거스를 수 없다면 대세 따르도록. 57년생 미수금 문제는 점차 해결될 기미. 69년생 작은 것 버릴 줄 알아야 큰 것 얻는다. 81년생 원숭이띠와의 거래는 각별한 주의 필요. 93년생 이익과 명예 둘 다 가질 수는 없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 몸 건강도 좋지만 마음 건강 유의. 46년생 승세 잡기보다 인심 얻기가 우선. 58년생 개선 전제조건은 자기성찰로부터. 70년생 비움의 가치는 무엇보다 값지다. 82년생 주변사람에게 도움 요청해 보는 것이. 94년생 가고 오는 것 괘념치 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 마음 다잡고 본분에 집중. 47년생 숫자 3, 8과 푸른색은 행운 부른다. 59년생 억울하고 답답할 땐 눈물 나게 우는 것도 방법. 71년생 현재 있는 그대로가 행복. 83년생 낙숫물이 댓돌 뚫는다. 95년생 오래 전 투자금 수익 실현될 듯.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>스마트폰 중독도 대물림... 부모가 중독이면 자녀 79%가 중독</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/28/KH7JDKTIHJDE3PEP762LQHEJ3Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/28/KH7JDKTIHJDE3PEP762LQHEJ3Q/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 11:01:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LGEZJVKC2ZDIRBZ65XCHH7RL3Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부모의 스마트폰 의존 정도를 자녀가 닮는다는 연구 결과가 나왔다. 스마트폰 중독이 대물림될 가능성이 높다는 것이다.&lt;br&gt;&lt;br&gt;28일 한국보건사회연구원 학술지 최신호에 실린 ‘부모의 스마트폰 의존도와 자녀의 스마트폰 의존도의 전이 관계’ 논문에 따르면, 평균보다 스마트폰에 많이 의존하는 부모를 둔 자녀 중 78.6%는 스마트폰 의존도가 평균보다 높은 것으로 나타났다. 연구팀이 2020년 한국청소년정책연구원의 한국 아동 청소년 패널 조사 데이터 중 스마트폰 관련 문항에 응답한 초등학교 6학년생 2229명과 이들의 부모를 스마트폰 저의존형, 평균형, 고의존형으로 분류해 분석한 결과다. 스마트폰 의존도는 ‘스마트폰을 사용하느라 일(공부)에 집중이 안 된 적이 있다’ ‘스마트폰을 사용하지 못하면 온 세상을 잃은 것 같은 생각이 든다’ ‘스마트폰 사용에 많은 시간을 보내는 것이 습관화됐다’ 등 질문 15개에 대한 응답 점수를 통해 분류했다.&lt;br&gt;&lt;br&gt;부모의 스마트폰 의존도가 낮으면 자녀도 스마트폰 의존도가 낮은 것으로 나타났다. 스마트폰 의존도가 낮은 부모를 둔 자녀 중 7.6%만 스마트폰 의존도가 높았다. 부모의 의존도가 평균이면 자녀도 평균일 경우가 51.5%로 가장 많았다.&lt;br&gt;&lt;br&gt;이 외에도 자녀와 부모가 함께 있는 시간이 많을수록, 자녀와 부모의 대화 시간이 길수록 자녀의 스마트폰 의존도가 낮아지는 것으로 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“세계유산 가야고분군 통합관리기구 들어설 최적지는 김해”</title>
-      <link>https://www.chosun.com/national/2024/07/28/AGOLTNWZ35HIJCOOK5XAIHTKXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/07/28/AGOLTNWZ35HIJCOOK5XAIHTKXU/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 09:31:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XKGG7SVVD2LFFANQPZMXT7MPYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김해대성동고분군, /김해시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유네스코 세계유산인 가야고분군을 체계적으로 통합 관리할 공식 기구의 최적지는 경남 김해시라는 용역 결과가 나왔다. 경남·경북·전북에 걸쳐 있는 가야고분군은 작년 9월 유네스코 세계유산으로 등재됐다.&lt;br&gt;&lt;br&gt;28일 경남도 등에 따르면 가야고분군 세계유산 통합관리지원단(통합관리지원단)은 지난 26일 ‘통합기구 설립 및 운영방안 연구 용역’ 결과를 각 지자체에 전달했다. 용역 결과 통합기구 설립 입지 1순위는 김해시로 나타났다고 한다. 김해는 초기 가야인 금관가야의 중심지다.&lt;br&gt;&lt;br&gt;통합관리지원단은 가야고분군이 있는 경남·전북·경북 등 광역자치단체 3곳, 남원시·김해시·함안군·창녕군·고성군·합천군·고령군 등 기초지방자치단체 7곳 등 총 10곳이 공동으로 설립한 기구다. 용역은 재단법인 한국지식산업연구원이 지난해 7월부터 진행했다.&lt;br&gt;&lt;br&gt;용역 결과에 박완수 경남도지사는 “김해 금관가야는 고대 가야 문명의 발원지라는 상징성이 있다”면서 “경남에 통합관리기구를 설치하는 것은 당연하다”고 환영의 뜻을 밝혔다.&lt;br&gt;&lt;br&gt;지난 2018년 국립가야문화유산연구소가 발표한 ‘가야유적 분포 현황 및 보존 관리 실태조사 보고서’에 따르면 전국 가야 유적 2495건 중 67%인 1669건이 경남에 분포한다. 세계유산으로 등재된 가야고분군 7개 중 5개가 경남에 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJI2S7H2Y5FE5MKUKE56A6BTAQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 권혜인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 경남과 김해에는 가야 관련 기관들이 모여 있어 시너지도 기대된다. 가야문화유산연구소(창원), 국립김해박물관(김해), 오는 9월 개관 예정인 국립가야역사문화센터(김해)가 있다. 특히 경남도는 국립가야역사문화센터에 통합관리기구가 입주 가능한 만큼 효율적인 업무 수행을 강점으로 꼽는다.&lt;br&gt;&lt;br&gt;경남도 관계자는 “경남 18개 시·군 전역에 가야유적이 발견되는데, 경남의 정체성이 곧 가야다”며 “국민 정서나 역사문화정비법으로 봐도 신라는 경북, 백제는 충청·전북인데, 경남은 가야라 할 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;지난해 9월 유네스코 세계유산으로 등재된 가야고분군은 여러 지역에 걸쳐 있는 연속유산이다. 이에 세계유산위원회는 가야고분군 세계유산 등재를 결정하면서 “구성요소(7개 고분군) 전 지역에 대한 홍보 전략 개발과 통합 점검(모니터링) 체계 구축”을 권고했다. 가야고분군을 제대로 보전·관리하면서 체계적으로 홍보할 통합기구 설치 필요성이 제기됐다. 그러자 가야고분군을 둘러싼 지역 간 주도권 싸움도 본격화됐다. 특히 경북 고령과 경남 김해가 통합기구 유치에 가장 적극적이었다.&lt;br&gt;&lt;br&gt;통합관리기구의 최적 입지는 경남 김해라는 용역 결과가 나왔지만, 실제 입지 최종 결정까지는 난항이 예상된다. 우선 통합관리기구 입지 결정은 각 지자체 합의에 따르게 돼 있다. 오는 8월 초 예정된 10개 지자체 간 협의 간담회에서 구체적인 논의가 이뤄질 전망이다. 경남도는 “간담회 전까지 지자체 설득에 나설 계획이다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NOF6KSJFD5KYDIASZK7KEIBPMU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2023년 9월 17일 오후(현지시각) 사우디아라비아 리야드에서 개최된 제45차 세계유산위원회에서 ‘가야고분군’ 유네스코 세계유산 등재가 확정되자 최응천 당시 문화재청장, 현 국가유산청장(가운데)을 비롯한 관계자들이 기뻐하고 있다. /국가유산청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;용역 결과를 두고 경북 고령군의 반발이 터져 나온 상태다. 고령군은 28일 자료를 내고 “납득하기 어렵다”는 입장을 밝혔다. 용역을 진행한 한국지식산업연구원은 통합관리기구 입지 선정 지표로 ‘인구 규모’ ‘지방세 규모’ ‘지역 총생산’ ‘인구 증가율’ ‘재정 자립도’ ‘인구 밀도’ ‘관리 이동거리’ 등 7가지를 활용했다. 통합관리기구 설립 초기부터 충분한 지원과 협력이 가능한 지역이 우선으로 검토돼야 한다고 판단했기 때문이다. 하지만 고령군에서는 이 같은 지표가 “규모가 큰 김해에 절대적으로 유리한 평가”라며 용역 진행 과정에서부터 의구심을 나타낸 바 있다. 작년 말 기준으로 김해 인구는 53만명, 고령 인구는 3만명으로 차이가 크다. 인구 규모만큼 재정자립도 등 경제 지표에서도 차이가 난다. 경북도와 고령군은 용역 중간·최종보고 과정에서 이 같은 입지 선정 지표에 대한 보완 요청을 했고, 6월 말까지 용역이 중단됐다.&lt;br&gt;&lt;br&gt;하지만 연구원 측은 지자체의 추가 의견 수렴, 전문가 자문회의 등을 거쳐 신규 지표 추가는 불필요하다는 결론을 내리고 용역 결과를 각 지자체에 통보했다. 연구원 측은 “세계유산의 보존과 관리가 잘 지원되고, 재정적인 규모도 있는 지역에 있어야 통합관리기구가 전 지역에 대한 통합관리에 힘을 집중할 수 있을 것으로 사료된다”고 했다.&lt;br&gt;&lt;br&gt;경남도는 이번 연구용역 결과 그대로 가야고분군 통합관리기구가 설치될 수 있도록 국회를 방문해 기구 설치의 필요성을 설명하고 지원을 요청한다는 방침이다.&lt;br&gt;&lt;br&gt;박완수 경남도지사는 “가야고분군 연속유산의 체계적인 보존·활용 시스템을 구축해 전 세계인이 가야고분군 세계유산의 가치를 향유 할 수 있도록 통합관리기구의 조속한 설치에 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;한편, 한국지식산업연구원은 통합관리기구의 설립 형태로 10개 지자체가 공동으로 출연한 독자적인 재단법인 형태가 적절하다고 제시했다. 조직·인력 규모는 1국(사무국·1명), 1실(기획협력실·3명), 3팀(경영관리팀·교육홍보팀·보존연구팀 11명) 등 15명이 적절하다고 했다. 운영비는 내년 기준으로 28억 원에서 매년 늘어 통합기구가 안정화될 때쯤인 2030년에는 38억 원 정도가 들 것으로 예상했다. 지자체가 분담해야 할 금액은 약 2억 원~2억5000만 원 규모로 봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한강 하구서 팔에 5kg  아령 묶인 시신 발견...경찰 수사</title>
-      <link>https://www.chosun.com/national/incident/2024/07/28/LN5CIMAVNBA2DCLKOBMIBBNO6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/28/LN5CIMAVNBA2DCLKOBMIBBNO6Q/</guid>
-      <dc:creator>고양=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 09:51:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/USINXSMZLZBKTHGXAQWXYHW57Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한강 하구에서 팔에 아령이 묶인 남성의 시신이 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;28일 경찰에 따르면 이날 오후 1시쯤 경기 고양시 덕양구 행주나루터 선착장 인근 남성 시신이 물에 떠 있다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;출동한 경찰과 소방 당국은 해당 시신을 인양해 신원을 확인했다. 이 남성은 서울에서 혼자 살던 60대 A씨로, 팔에 신발 끈으로 5kg 아령이 묶여 있었다.&lt;br&gt;&lt;br&gt;현재까지 타살 혐의점은 없는 것으로 파악됐다. 경찰은 A씨의 유가족 등을 수소문하며 사망 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원 “상속세 97억 냈는데 96억 더 내라는 세무서 처분은 정당”</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/28/2JTP4TNIN5ER7PFHLRWBQ55OBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/28/2JTP4TNIN5ER7PFHLRWBQ55OBQ/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 08:06:32 +0000</pubDate>
-      <content:encoded>과세 당국이 거래가 거의 없어 시가를 파악하기 힘든 고가(高價)의 부동산에 대해 외부 기관의 감정평가를 받아 상속세를 부과한 것은 정당하다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PN2FKJA7XJHIVLOA2K6VUFQYEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울행정법원. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정6부(재판장 나진이)는 최근 A씨가 “상속세 부과 처분을 취소해 달라”며 서울 성동세무서장을 상대로 낸 소송에서 원고 패소 판결했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2021년 5월 아버지가 사망하면서 서울 서초구 잠원동에 있는 131평(433㎡)짜리 땅과 건물, 225평(743㎡) 규모의 땅을 상속받았다. A씨는 그해 11월 상속받은 부동산 가액이 141억원이라며, 상속세 97억8000여 만원을 신고·납부했다.&lt;br&gt;&lt;br&gt;세법상 상속 재산은 시가(時價)로 평가한다. 통상 상속개시일 전후 6개월 간 동종 부동산 실거래가 등을 토대로 시가를 정한다. 하지만 A씨는 거래가 드문 고가의 부동산을 물려받아 참고할만한 기준이 없어, 공시지가 등을 토대로 부동산 가액을 평가해 상속세를 냈다.&lt;br&gt;&lt;br&gt;서울지방국세청은 이듬해 4월 상속세 조사를 하면서 감정 기관 두 곳에 A씨가 상속받은 부동산에 대한 감정평가를 의뢰했다. 이에 A씨도 다른 감정 기관 두 곳에서 감정평가를 받았다.&lt;br&gt;&lt;br&gt;서울지방국세청은 평가심의위원회를 거쳐 2022년 10월 감정 기관 네 곳이 평가한 감정가 평균인 332억원을 시가로 봐야 한다며, A씨에게 상속세 96억5000여 만원을 추가로 내라고 했다. 이에 A씨는 “과세 관청은 상속 재산에 대해 기존 감정 가액이 없으면 감정평가를 의뢰할 권한이 없다”며 소송을 냈다.&lt;br&gt;&lt;br&gt;재판부는 A씨가 상속세를 추가로 내야한다고 판단했다. 재판부는 “상속세를 신고받은 과세 관청은 정당한 과세표준 및 세액을 조사·결정해야 하고, 이를 위해 감정을 의뢰하는 것은 정당한 권한”이라며 “시가를 확인하기 어려운 부동산 중 공시가격과 시가 차이가 지나치게 큰 것으로 보이는 일부 고가의 상속·증여 부동산을 대상으로 관세 관청이 감정을 실시해 시가를 확인하는 것이 합리적인 이유 없는 차별이라고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “대부분 공시가격으로 고가 부동산을 평가해 상속세를 신고하고 있는데, 부동산 공시가격 현실화율이 낮아 객관적 교환가치가 제대로 반영되지 못하는 문제가 있다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전국 법원 2주간 쉽니다… 이재명 재판도 잠시 멈춤</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/28/SY3BWRNKCVAVBMGC5YTSTHHQ4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/28/SY3BWRNKCVAVBMGC5YTSTHHQ4Q/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 07:40:36 +0000</pubDate>
-      <content:encoded>전국 대부분의 법원이 여름 휴가철을 맞아 29일부터 2주간 휴정기(休廷期)에 들어간다. 서울중앙지법에서 매주 2~3회씩 열리던 이재명 전 더불어민주당 대표의 재판도 잠시 멈춘다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DA2XVP6XB2HMNHHVVRH3VR7JLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 전 대표의 ‘대장동·위례·성남FC·백현동 의혹’ 재판은 휴정기가 끝난 뒤 다시 열릴 예정이다. ‘고(故) 김문기 성남도시개발공사 개발1처장·백현동 허위발언’ 등 공직선거법 위반 사건 결심공판은 휴정기 이후인 9월 6일로 예정돼 있다. 이 전 대표의 위증교사 의혹 사건 결심공판도 9월 30일로 정해졌다.&lt;br&gt;&lt;br&gt;대장동 사태 관련 김만배 화천대유 대주주·유동규 전 성남도시개발공사 본부장·남욱 변호사 등 배임 혐의 재판도 휴정기 이후 재개된다.&lt;br&gt;&lt;br&gt;다만 이른바 ‘대선 개입 여론 조작’ 사건의 주범으로 구속기소된 김만배씨와 신학림 전 뉴스타파 전문위원의 첫 공판준비기일은 오는 31일 진행된다. 이는 화천대유 실소유주인 김만배씨와 신학림 전 뉴스타파 전문위원이 짜고 허위 인터뷰를 대선 직전에 보도하고, 그 대가로 수억원을 주고받은 사건이다.&lt;br&gt;&lt;br&gt;‘민주당 전당대회 돈 봉투 사건’ 관련해, 송영길 소나무당 대표의 특정범죄가중처벌등에관한법률위반(뇌물) 혐의 공판은 휴정기가 끝난 뒤 열린다. 민주당 허종식 의원 및 이성만·임종성 전 의원의 돈 봉투 수수 관련 선고도 휴정기 이후 진행된다.&lt;br&gt;&lt;br&gt;손준성 검사장의 이른바 ‘고발사주’ 사건 역시 휴정기 이후 2심 선고를 앞두고 있다. 서해 피격 은폐 사건과 탈북어민 강제북송 사건 재판도 휴정기 중엔 잠시 멈춘다.&lt;br&gt;&lt;br&gt;법원 휴정기는 혹서기·혹한기 및 휴가 기간 중 재판 관계자와 소송 당사자가 쉴 수 있도록 일정 기간 재판을 열지 않는 제도로 2006년 처음 도입됐다. 통상적으로 전국 최대 법원인 서울중앙지법‧서울고법과 비슷한 기간에 다른 법원들도 휴정기를 정한다.&lt;br&gt;&lt;br&gt;휴정기에는 긴급하거나 중대한 사건을 제외한 대부분 민사·가사·행정재판, 불구속 형사공판 등이 열리지 않는다. 다만 재판부가 필요하다고 판단하는 경우엔 재판이 가능하다. 가압류·가처분 등 신청사건과 구속 피고인의 형사사건 심리, 영장실질심사 등은 진행된다. 사건 접수나 배당 등의 법원 업무도 정상 운영된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>은평구 빌라 화재로 40대 주민 1명 사망</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/28/M7MWFSNBJ5GPTPKBF6YBBF7L3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/28/M7MWFSNBJ5GPTPKBF6YBBF7L3Y/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 07:32:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OHFOVIJG7RAWLPZJWYJH5ZT4VU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 은평구의 한 다세대주택에서 불이 나 40대 남성 1명이 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;서울 은평소방서는 지난 27일 오전 서울 은평구 역촌동의 한 다세대주택에서 난 화재로 주민 1명이 사망했다고 28일 밝혔다. 이 사고로 연기를 흡입한 주민 40대 남성 1명이 숨졌다.&lt;br&gt;&lt;br&gt;소방당국은 이날 오전 7시 45분쯤 “한 빌라에 연기가 자욱하다”는 신고를 접수, 차량 18대와 인력 65명을 투입해 오전 8시 13분쯤 완전히 진압했다. 이 사고로 약 2030만원의 재산 피해가 발생했다.&lt;br&gt;&lt;br&gt;은평소방서 관계자는 “화재로 숨진 주민이 살던 4층 세대 내 주방에서 음식물 조리 중 부주의로 인해 화재가 발생한 것으로 파악된다”며 “정확한 화재 원인을 조사할 방침”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>슈퍼주니어 은혁,  돌아가신 父 생일 맞아 1억 기부</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/28/OQACSKTPWFBKVNOHS3SOCN5EQQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/28/OQACSKTPWFBKVNOHS3SOCN5EQQ/</guid>
-      <dc:creator>서보범 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 07:10:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VOHTTJMXQBBZTGM6EEIANNU3IU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;슈퍼주니어 은혁. /오드엔터테인먼트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 슈퍼주니어 은혁(38·본명 이혁재)이 세상을 떠난 아버지 생일을 맞아 아동복지전문기관에 1억원을 기부했다.&lt;br&gt;&lt;br&gt;아동복지전문기관 초록우산은 “슈퍼주니어 은혁이 아버지 생일을 맞아 1억원을 기부했다”고 28일 밝혔다. 은혁의 부친은 2022년 8월 교통사고로 별세했다. 그의 기부는 2021년 6월과 작년 4월에 이어 이번이 3번째다.&lt;br&gt;&lt;br&gt;은혁은 “아버지 생일을 맞아 국내의 어려운 가족돌봄아동을 도울 수 있게 되어 진심으로 기쁘게 생각한다”고 밝혔다. 기부금은 보호받아야 할 어린 나이에 질병·장애를 앓는 가족을 간병하고 돌보며 생활하는 ‘가족돌봄아동’을 지원하는 데 쓰일 예정이다.&lt;br&gt;&lt;br&gt;초록우산에 따르면 이번 기부로 은혁은 초록우산 1억원 이상 고액 후원자 모임인 ‘그린노블클럽’에 487번째로 이름을 올렸다. 또 은혁의 부친은 ‘그린레거시클럽’에 94번째로 이름을 올렸다고 한다. 그린레거시클럽은 2019년 발족한 기부자 모임으로, 유산을 기부하거나 생전에 추모기부를 약정·실행한 이들이 명단에 포함된다.&lt;br&gt;&lt;br&gt;은혁의 선행은 이번이 처음이 아니다. 그는 앞서 지난 27일 입양 대기 아동을 보육하는 동방사회복지회에 아동 의료비·치료비 등 명목으로 1억원을 기부했다. 동방사회복지회는 은혁의 부친이 생전 근무했던 직장인 것으로 알려졌다. 지난해에는 5월과 12월 두 차례에 걸쳐 순직소방관 유족 지원을 위해 2억원을 쾌척했다.&lt;br&gt;&lt;br&gt;신정원 초록우산 사회공헌협력본부장은 “아버지를 뜻 있게 기억하고 추억하기 위한 은혁의 기부가 감동을 주고 있다”며 “선한 나눔의 영향력이 더욱 널리 퍼질 수 있도록 더 노력할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RS4E3BYSERGSHMAW4G5NZPZBRY.jpg?width=1029&amp;height=579&amp;auth=06c574205954cf046f224f922d383d867235bdc2c700ffd0ecb22c26526edded&amp;smart=true" type="image/jpeg" height="579" width="1029">
-        <media:description type="plain">슈퍼주니어 은혁. /오드엔터테인먼트</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>더위에 잠 못드는 한반도... 이번주 내내 전국이 25도 넘는 열대야</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/07/28/HJ3ZT4VHMRHHXOAMXV3PS7VTHE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/28/HJ3ZT4VHMRHHXOAMXV3PS7VTHE/</guid>
-      <dc:creator>김윤주 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 05:39:32 +0000</pubDate>
-      <content:encoded>지난 밤 전국 곳곳에서 열대야가 나타났다. 열대야는 오후 6시 1분부터 다음날 오전 9시까지 기온이 25도 밑으로 떨어지지 않는 현상이다.&lt;br&gt;&lt;br&gt;28일 기상청에 따르면 밤 사이 북태평양고기압 가장자리를 따라 고온다습한 남풍이 지속적으로 불어와 밤에도 기온이 떨어지지 않았다. 전국 대부분 지역의 밤 최저 기온이 25도 이상을 기록해 열대야가 나타난 곳이 많고, 일 최저 기온 최고 극값을 경신한 곳이 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/23J3UORLLRLTJKPQ2FKNUMJFFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 전역에 폭염주의보가 내리며 더운 날씨를 보인 24일 저녁 시민들이 서울 서초구 반포한강공원에서 휴식하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수도권에선 최저 기온이 김포장기 28.9도, 광명 28.3도, 인천 27.8도, 서울 27.3도, 강화 27.3도, 수원 26.7도로 나타났다.&lt;br&gt;&lt;br&gt;그밖에 지역에서도 최저 기온이 강원 강릉 27.7도, 충북 청주 28도, 충남 보령 28.2도, 전북 정읍 28.4도, 전남 여수 27.9도, 경북 울릉도 27.9도, 경남 창원 27.7도, 제주 서귀포 28도 등을 기록하며 열대야 현상이 나타났다.&lt;br&gt;&lt;br&gt;전북 정읍(이날 최저 기온 28도)·남원(27.3도), 전남 고흥(27.9도)·강진(28.4도)·영광(27.1도)·장흥(27.1도)·보성(26.6도), 경북 봉화(24.3도) 등에선 이날 7월 일 최저기온 최고치가 바뀌었다.&lt;br&gt;&lt;br&gt;열대야는 다음 주 내내 이어질 것으로 보인다. 현재 강원 태백과 제주 산지를 제외한 우리나라 거의 전체에 폭염 특보가 내려져 있다.&lt;br&gt;&lt;br&gt;29~30일은 전국 대부분 지역에서 아침(오전 3~9시) 최저 기온이 25도 이상으로 예보됐다. 낮 최고 기온은 28~36도로 예보됐다.&lt;br&gt;&lt;br&gt;기상청 중기예보에 따르면 다음 주 내내 전국 대부분 지역에서 아침 최저 기온이 25도 이상으로 예보됐다. 수도권과 강원 일부에 비 예보가 있으나 더위를 식혀주지는 못할 전망이다. 다음 주 전국 아침 기온은 24~28도, 낮 기온은 29~35도 수준으로 예보됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘불법 튜닝’ 연구용 차 운행한 대학원생…헌재, 기소유예 취소</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/28/YTLW7EQEEJCANM4DGZ4AR7HDZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/28/YTLW7EQEEJCANM4DGZ4AR7HDZ4/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 06:35:43 +0000</pubDate>
-      <content:encoded>담당 관청의 허락을 받지 않고 ‘튜닝(개조)’된 연구용 자동차를 운행한 대학원생에 대한 검찰의 기소유예 처분이 헌법재판소에서 취소됐다. 기소유예는 혐의는 있지만 반성과 피해 정도를 고려해 기소하지 않는 것이다. 전과 기록에는 남지 않지만 징계 사유 등은 될 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZG6DJ5N7NBWWFA35E7B3ADTVYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헌법재판소 심리 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소는 서울중앙지검이 작년 9월 서울대 대학원생 A씨에게 내린 기소유예 처분에 대해 최근 재판관 전원일치 의견으로 취소했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;서울대 공대 대학원에 다니던 A씨는 작년 7월 서울 강변북로에서 무허가 차량을 운행한 혐의로 입건됐다. 자동차관리법에 따르면 모든 자동차 소유자는 국토교통부령으로 정하는 항목에 대해 튜닝을 하려는 경우 관할 관청의 승인을 받아야 하며, 승인을 받지 아니한 자동차인 것을 알면서 이를 운행하면 안 된다. A씨가 운행한 차는 서울대 산학협력단이 소유한 연구용 차량으로 뒷줄 좌석이 제거돼 있다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “언제 어떻게 좌석이 탈거(제거)됐는지 모른다. 단속 이전에는 자동차 구조를 변경하려면 승인받아야 한다는 사실을 몰랐다”고 진술했다. 검찰은 A씨의 자동차관리법 위반 혐의를 인정해 기소유예 처분을 내렸다. A씨는 검찰의 기소유예 처분이 자신의 평등권과 행복추구권을 침해했다며 작년 11월 헌재에 헌법소원 심판을 청구했다.&lt;br&gt;&lt;br&gt;헌재는 A씨 주장을 받아들여 “이 사건 기소유예 처분에는 결정에 영향을 미친 중대한 수사미진 또는 증거 판단의 잘못이 있고, 그로 인해 청구인의 평등권과 행복추구권이 침해됐다”며 검찰의 처분을 취소했다.&lt;br&gt;&lt;br&gt;헌재는 “이 사건 차량은 연구를 위해 공용으로 사용되었던 것으로 보이는데 차량을 언제, 누가 튜닝했는지 추단할 만한 아무런 증거가 없다”며 “A씨로서는 이 차량이 산학협력단 소유 차량으로 당연히 관련 규정을 모두 준수해 운행됐을 것이라 판단했을 가능성이 높다”고 판단했다. 그러면서 “자동차관리법은 ‘튜닝된 자동차인 것을 알면서’라는 고의를 명시적으로 요구하고 있다”며 “A씨는 경찰 조사에서 관청의 승인을 받아야 한다는 사실을 몰랐다고 진술했고, 차량 소유자가 아닌 A씨에게 이를 확인할 의무가 있었다고 볼 수도 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>연이은 경찰관 사망에 내부 술렁.. 윤희근 경찰청장 “유족 최대한 지원할 것”</title>
       <link>https://www.chosun.com/national/national_general/2024/07/27/T6BTKJNNZJBT3GNV3O7MOR3NCA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/27/T6BTKJNNZJBT3GNV3O7MOR3NCA/</guid>
@@ -952,15 +951,6 @@
       <description/>
       <pubDate>Sat, 27 Jul 2024 10:36:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LLQLHN56CYHUYRG4ZT3VD5RXDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤희근 경찰청장이 행정안전위원회 전체회의에 출석해 의원 질의에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 한달간 경찰관들이 목숨을 잃는 일들이 생기면서 경찰 내부에서는 업무 과중에 대한 이야기가 끊이질 않고 있다.&lt;br&gt;&lt;br&gt;26일 경찰에 따르면 서울 관악서 수사 부서에서 일하던 30대 A경위가 지난 19일 스스로 목숨을 끊었다. 전국경찰직장협의회(경찰직협)가 공개한 A경위의 생전 카카오톡 대화방 내용을 보면 A경위는 지난 2월 수사 부서에서 근무를 시작한 뒤 동료들에게 ‘사건이 73개’라며 힘들다는 취지의 메시지를 보냈다고 한다.&lt;br&gt;&lt;br&gt;A경위 사망 이후 관악서 앞에는 근조 화환 수십개가 늘어섰다. 화환에는 ‘지켜주지 못해 미안합니다’, ‘젊은 수사관의 죽음을 가벼이 여기지 말라’는 등의 문구가 쓰였다.&lt;br&gt;&lt;br&gt;같은 날 서울 동작경찰서 경무과 소속인 김 경감은 늦은 밤까지 업무를 수행하다 뇌출혈로 쓰러진 채 사무실에서 발견됐다. 김 경감은 발견 직후 병원으로 옮겨졌으나 27일 끝내 숨졌다.&lt;br&gt;&lt;br&gt;27일 김 경감의 빈소를 찾은 윤희근 경찰청장은 “순직 인정에 차질이 없도록 하겠다”며 유가족에 대한 지원을 약속했다. 경찰청에 따르면 윤 청장은 이날 오후 2시 서울 동작구의 한 종합병원에 마련된 김 모 경감의 빈소를 찾아 조문했다.&lt;br&gt;&lt;br&gt;윤 청장은 유가족과 만난 자리에서 “장례 절차와 순직 인정에 차질이 없도록 해 고인에 대한 예우를 다하겠다”며 “어린 자녀가 성년으로 성장할 때까지 경찰 조직 차원에서 최대한 지원할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;윤 청장은 빈소를 찾은 민관기 전국경찰직장협의회 위원장과도 만나 경찰관들의 애로사항 등 현장 목소리를 듣고 소통하는 시간을 갖을 것을 약속한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;    &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>소아암 환아들 위해 모인 ‘쎄시봉’</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/27/LZMBQHZOH5H6TPB2KSRG2YPHQU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/27/LZMBQHZOH5H6TPB2KSRG2YPHQU/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Jul 2024 15:35:00 +0000</pubDate>
-      <content:encoded>“제가 의사가 되었더라면 이 아이들을 더 잘 도와줄 수 있었을 거라는 미안함 때문에 소아암 환우들을 후원하기 시작했습니다.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6VHYAPANU5BPLCVK5IAOL4NCJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오후 서울 서대문구 연세대 백주년기념관에서 열린 '당신 덕분입니다' 콘서트에서 '쎄시봉' 가수 김세환·조영남·윤형주(왼쪽부터)씨가 '그대 그리고 나'를 부르고 있다.  /고유찬 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 저녁 7시 서울 서대문구 연세대 백주년기념관에서 열린 소아암 환아 생명 나눔 콘서트 ‘당신 덕분입니다’에서 가수 윤형주(77)씨는 이렇게 말했다. 이날 콘서트는 소아암으로 고통받는 어린이들의 완치와 삶의 질 향상을 돕자는 취지로 한국백혈병소아암협회(협회장 이중명)가 열었다. 2000년 창립된 협회는 2013년, 2018년에 이어 이날 세 번째 공연을 열었다. 윤형주씨는 1965년 연세대 의대에 입학했으나 재학 중 가수로 데뷔하며 중퇴했다. 이후 1981년 광주CBS ‘찬양의 꽃다발’ MC를 맡게 되면서 소아암 환자들을 만나게 됐다고 한다. 이후 협회 초대 이사·부회장 등을 역임했다.&lt;br&gt;&lt;br&gt;연세대 전신 연희전문학교 출신 윤동주(1917~1945) 시인이 윤형주씨의 6촌 형이다. “별을 노래하는 마음으로 모든 죽어가는 것들을 사랑하겠다(서시)던 윤동주 형님의 마음을 본받고 싶다”며 “지금 이 순간에도 암과 분투하고 있는 아이들에게 이러한 마음이 조금이나마 전달되길 바란다”고 했다. 연세대 출신 김동건(85) 아나운서 소개로 ‘쎄시봉’ 멤버들도 출연했다. 가수 조영남(79)·김세환(76)씨가 윤형주씨와 함께 ‘그대 그리고 나’를 불렀다.&lt;br&gt;&lt;br&gt;이날 공연엔 방사선 항암 치료를 받는 어린이·청소년과 가족들까지 참석, 1600석 규모 공연장을 가득 매웠다. 백혈병을 앓는 아홉 살 딸과 함께 온 어머니 김미소(37)씨는 “항암 치료를 받는 딸의 병간호를 위해 회사까지 휴직한 상태에서 치료비를 감당하기 어려운 상황이었는데 협회 지원이 큰 힘이 됐다”고 했다. 역시 백혈병에 걸린 19살 아들을 둔 어머니 이지현(50)씨는 “아이가 아프면 가족 전체가 여유가 없어 공연 등 문화 생활은 꿈도 꾸지 못한다”며 “위로를 준 공연”이라고 했다.&lt;br&gt;&lt;br&gt;서울 강서구에 사는 심순영(52)씨는 아들 전세진(14)군을 데리고 공연을 관람했다. 세진군이 2012년에 뇌종양을 진단받고 치료를 받았으나 2년 뒤 암이 재발했고 이후 협회 지원을 받았다. 항암 치료로 학교 등교가 불가능한 상황이었지만, 협회가 소아암 환자들을 위한 마련한 교육 프로그램으로 학업을 지속할 수 있었다.&lt;br&gt;&lt;br&gt;세진군은 “그동안 저를 도와준 후원자 여러분이 공연에 오셨는데 너무 반가워 눈물이 났다”며 “반드시 암을 이겨내고 제 꿈이었던 사회복지사가 돼 그동안 받은 도움을 다른 아이들에게 돌려주고 싶다”고 했다. 이날 공연으로 모인 후원금 5000만원은 소아암 환자 지원에 사용될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>유엔 고문방지委 “한국, 탈북민 강제 송환 금지 원칙 준수해야”</title>
