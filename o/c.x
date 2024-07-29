@@ -13,6 +13,82 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘정산 지연’ 티몬·위메프 법원에 기업회생 신청</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/29/4UHVDIEP7ZBLBGBJ4HFMDQ6R7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/29/4UHVDIEP7ZBLBGBJ4HFMDQ6R7E/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 08:53:22 +0000</pubDate>
+      <content:encoded>대규모 판매 대금 지연 사태를 빚은 티몬과 위메프가 기업회생 절차를 밟게 됐다. 두 기업이 회생 절차에 들어가게 되면 거액을 정산받지 못하는 피해자가 생길 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ISCJ5CO52HPHCDNL64GTL4M2BY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 서울 강남구 티몬 신사옥에서 '판매 대금 미정산 사태'로 피해를 입은 소비자들이 환불 현장 접수를 위해 기다리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울회생법원은 29일 티몬과 위메프가 법원에 기업회생을 신청했다고 밝혔다. 기업회생은 재정 위기에 놓인 기업이 법원의 관리·감독 하에 빚의 일정 부분을 갚고 나머지는 탕감받는 제도다.&lt;br&gt;&lt;br&gt;법원이 회생 신청을 받아들이면 보전처분·포괄적 금지명령 신청을 하게 된다. 보전처분이 내려지면 임금·조세 등을 제외한 기존 채무를 상환할 필요가 없어지고, 포괄적 금지명령이 내려지면 모든 채권이 동결된다.&lt;br&gt;&lt;br&gt;이에 따라 티몬·위메프가 기업회생 절차에 들어간다면 판매자들은 당분간 대금을 돌려받을 수 없다. 또 기업이 채무 일부를 탕감받게 되므로, 최종 정산을 받지 못하는 피해자가 나올 수 있다. 만약 회생이 받아들여지지 않아 티몬과 위메프가 파산을 신청한다면 피해자 보상은 더욱 힘들어진다.&lt;br&gt;&lt;br&gt;법원은 두 회사가 제출한 회생 신청서를 검토한 뒤, 공익적 가치가 있는지 등을 판단해 기업회생을 받아들일지 결정하게 된다. 승인 결과는 통상 일주일 내로 나온다.&lt;br&gt;&lt;br&gt;이른바 ‘티메프’라고 불리는 두 회사의 정산 지연 사태는 지난 7일 위메프가 5월 판매자 대금을 제때 정산하지 못하면서 시작됐다. 정부는 이날 기준 두 회사의 미정산 금액을 2100억 여원으로 추산했다. 대규모 할인 행사로 판매가 늘었던 6~7월의 미정산 금액을 합치면, 피해 규모가 최대 1조원 이상으로 커질 수 있다는 전망이 나온다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] '티메프 사태' 구영배, 출국금지</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/29/CLIXZNKI45C6RFBO4S32KLPK3Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/29/CLIXZNKI45C6RFBO4S32KLPK3Y/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 09:24:25 +0000</pubDate>
+      <content:encoded>이른바 ‘티메프 사태’로 불리는 티몬‧위메프 정산 지연 사태와 관련해, 구영배 큐텐 대표의 출국이 금지된 것으로 29일 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T64DEOME2HV72YNWAZJWUEYM54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구영배 큐텐 대표. /큐텐 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 법무부는 이날 구 대표에 대한 출국금지 요청을 수사기관으로부터 받아 출국금지 조치를 내린 것으로 전해졌다. 법무부는 구 대표의 출국을 막을 필요성이 인정된다고 보고 이같은 조치를 한 것으로 알려졌다. 티몬·위메프의 모회사인 큐텐그룹은 G마켓 창업자 출신인 구 대표가 싱가포르에 설립한 한국계 전자상거래 회사다.&lt;br&gt;&lt;br&gt;검경은 이날 구 대표에 대한 수사에 본격 착수했다. 이원석 검찰총장은 서울중앙지검 반부패수사1부(부장 이준동)에 전담수사팀을 꾸려 신속하게 수사할 것을 긴급지시했다. 서울중앙지검은 이준동 반부패1부장을 포함한 검사 7명으로 전담수사팀을 꾸리고 본격 수사에 착수한다고 밝혔다. 서울중앙지검 관계자는 “신속하고 엄정하게 수사를 진행할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 이날 오후 2시 피해자들로부터 구 대표에 대한 고소‧고발장을 접수해 수사1과에 사건을 배당했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>화엄사 사찰음식이 ‘냉동김밥’으로 수출길...“세계 비건 시장 겨냥”</title>
+      <link>https://www.chosun.com/national/regional/honam/2024/07/29/2A5KCUVZPRFQXEXO2W564DBGJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/07/29/2A5KCUVZPRFQXEXO2W564DBGJY/</guid>
+      <dc:creator>구례=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 09:17:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RD43ILF5Z3BJPONYKVMR75ADJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;화엄사 냉동 김밥 모습. /화엄사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천년고찰 지리산 화엄사 스님들의 사찰음식 문화가 냉동김밥으로 변모, 전 세계 비건(채식)시장을 겨냥해 수출길에 오른다.&lt;br&gt;&lt;br&gt;대한불교조계종 19 교구 본사인 화엄사는 29일 “냉동김밥 1위 기업인 ‘올곧’과 손잡고 미국·유럽 냉동김밥 시장 진출에 나선다”고 밝혔다. 올곧은 지난해 미국 대형마트와 한인마트에서 냉동김밥 품절 대란을 일으키며 이른바 ‘K-푸드’ 흥행을 일으킨 업체다.&lt;br&gt;&lt;br&gt;화엄사는 천년고찰 역사와 함께 쌓아온 사찰음식 노하우를 제공하면서 올곧과 함께 ‘사찰식 템플김밥’을 개발해 해외시장에 수출할 계획이다. 화엄사는 “올곧의 냉동김밥 주문량은 올해 기준 연간 900억원 규모로 내년에는 매출액이 2000억원 규모에 이를 것으로 예상된다”며 “미국·유럽에 이어 호주 및 뉴질랜드·남미, 아시아까지 진출할 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;화엄사와 올곧은 내달 3일 함께 생산한 냉동김밥 시식회를 열 계획이다. 양측은 냉동김밥을 시작으로 사찰식 냉동비빔밥과 만두, 천연 고추장과 된장, 건강음료 등 화엄사 브랜드를 활용한 제품의 제조·유통도 손잡을 방침이다.&lt;br&gt;&lt;br&gt;화엄사 관계자는 “냉동김밥을 시작으로 한국 사찰의 자연주의 채식문화와 생명존중 사상, 불교문화를 전세계에 알리겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RD43ILF5Z3BJPONYKVMR75ADJA.jpg?width=1516&amp;height=1175&amp;auth=714f647292d378aa50c7b28c96c6b1d04f7963c562e55d5106f084c8a5e09f44&amp;smart=true" type="image/jpeg" height="1175" width="1516">
+        <media:description type="plain">화엄사 냉동 김밥 모습. /화엄사 제공</media:description>
+        <media:credit role="author" scheme="urn:ebu">화엄사 제공</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>이원석 검찰총장, ‘티메프 사태’ 수사 긴급지시</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/29/HFDTGWKFKJGD5DMYQVDDO6XUW4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/29/HFDTGWKFKJGD5DMYQVDDO6XUW4/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 08:54:03 +0000</pubDate>
+      <content:encoded>이원석 검찰총장이 이른바 ‘티메프 사태’로 불리는 티몬‧위메프 정산 지연 사태에 대해 서울중앙지검에 전담수사팀을 구성해 신속하게 수사하라고 29일 지시했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/25L5OEJAYSCTQTVJXC3BVVFZ4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;티몬과 위메프의 정산·환불 지연 사태가 지속되고 있는 가운데 8개 카드사에 접수된 소비자 결제취소 이의제기 건수가 나흘만에 8만건을 넘어섰다. 사진은 28일 서울 강남구 티몬 본사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검찰청은 이날 언론 공지를 통해 “이 총장은 오늘 서울중앙지검에 티몬·위메프 사태와 관련해 반부패수사1부를 중심으로 전담수사팀을 구성, 신속하고 철저하게 수사해 소비자와 판매기업의 피해를 최소화하도록 긴급 지시했다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지검 반부패수사1부(부장 이준동)는 티몬‧위메프 사태와 관련해 지난 주말부터 법리 검토에 착수한 것으로 알려졌다. 반부패수사부가 검토에 착수한 것을 두고 법조계에선 검찰이 이번 사건을 중대 민생 범죄라고 판단한 것이라는 해석이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7WCF3YZDL5T7DV6C5JB3OSN5QA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이원석 검찰총장이 29일 오전 서울 서초구 대검찰청 청사로 출근하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법조계에서는 티몬과 위메프가 자금 부족으로 판매 대금 지급이 어려울 것이란 예측에도 입점 업체들과 계약을 유지하고 상품을 판매했다면 사기 혐의가 성립할 수 있다는 분석이 나오고 있다. 경영진에 대한 횡령·배임 혐의가 적용될 수 있다는 관측도 나온다.&lt;br&gt;&lt;br&gt;티몬‧위메프 사태 피해자들은 이날 오후 2시 구영배 큐텐 대표에 대한 고소장을 강남경찰서에 냈다. 법률대리를 맡은 법무법인 심의 심준섭 변호사는 “구영배 큐텐 대표와 티몬·위메프의 대표이사, 재무이사 등 총 5명을 특정경제범죄 가중처벌법상 사기·횡령·배임 혐의로 고소·고발한다”고 밝혔다. 강남경찰서는 해당 사건을 수사1과에 배당해 수사에 착수했다고 한다.&lt;br&gt;&lt;br&gt;한편 티몬‧위메프는 이날 서울회생법원에 기업회생을 신청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“현관 비밀번호 왜 바꿨어” 가족에 흉기 들고 행패부린 10대女</title>
+      <link>https://www.chosun.com/national/incident/2024/07/29/SFMSWAFEXJCG5LOIAFH2EZCVCI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/29/SFMSWAFEXJCG5LOIAFH2EZCVCI/</guid>
+      <dc:creator>고양=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 08:35:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현관문 비밀번호가 바뀌었다며 가족에게 흉기를 들고 행패를 부린 10대 여성이 구속됐다. 이 여성은 현장에 출동한 경찰에게도 흉기를 휘둘렀다가 체포됐다.&lt;br&gt;&lt;br&gt;경기 일산동부경찰서는 29일 10대 여성 A양를 특수공무집행 방해 및 폭행 등 혐의로 구속했다고 밝혔다.&lt;br&gt;&lt;br&gt;A양은 지난 27일 오전 2시쯤 경기 고양시 일산동구의 한 가정집에서 어머니와 동생에게 집안에 있던 흉기를 들고 행패를 부린 혐의를 받는다. A씨는 또 가족의 신고를 받고 현장에 출동한 경찰관에게도 흉기를 휘둘러 팔 부위를 다치게 했다.&lt;br&gt;&lt;br&gt;A양은 최근 가족들과 불화를 겪어 고시텔에서 따로 생활하고 있었는데, 이날 귀가했을 때 가족들이 집 현관문 비밀번호를 바꾼 것을 알고 난동을 부린 것으로 파악됐다. A양은 평소에도 가족들에게 자주 행패를 부렸다고 한다. 그는 이미 폭행, 사기, 절도 등으로 처벌을 받아 전과가 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “경찰관의 상처는 크지 않다”며 “추가 수사 후 A양을 검찰에 송치할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수천명 몰린 공연장…정부, “공연법 재난 관리 문제 없나 보겠다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/29/QR2M2EGRIVA5LB7FUMSAFC4TYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/29/QR2M2EGRIVA5LB7FUMSAFC4TYY/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 09:13:01 +0000</pubDate>
+      <content:encoded>행정안전부가 공연법과 지자체의 재난 관리 체계에 문제가 없는지 점검에 나서기로 했다. 지난 28일 서울 성동구 성수동의 한 공연장에 수천 명이 몰려 행사가 중단되는 사고가 발생하면서다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UL5F67SS3ZE5FI6WGJMQ4NXD34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;소셜미디어에 올라온 '보일러룸 서울 2024'가 진행되는 서울 성동구 에스팩토리 모습. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 행안부에 따르면 행안부는 공연법의 재난 관리 관련 내용에 부족한 점은 없는지, 사고 재발을 막으려면 어떤 정책이 필요한지 등을 검토한다. 행안부 관계자는 “공연법에 나오는 재난 관리 수준이 적정한지 들여다 볼 계획”이라며 “필요하다면 문화체육관광부 등 관계 부처와도 협의하겠다”고 했다.&lt;br&gt;&lt;br&gt;현행 공연법상 공연 관리자는 공연 전 지자체에 안전 관리 계획 등이 담긴 ‘재해대처계획서’를 내야 한다. 계획서를 내지 않거나 계획서에 따라 재해 예방 조치를 하지 않으면 과태료가 부과된다. 이에 따라 행안부는 공연 관리자가 제출한 재해대처계획서도 검토할 방침이다. 행안부 관계자는 “계획서가 어떻게 쓰였는지, 계획서대로 예방 조치가 이행됐는지 등을 보겠다”며 “계획서를 점검해 재발 방지 대책을 마련하겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 지난 28일 서울 성동구 성수동의 한 공연장에서 유명 DJ를 보겠다는 인파 수천 명이 몰리면서 행사가 중단되는 사고가 발생했다. ‘압사 사고가 발생할 것 같다’는 경찰·소방 신고가 빗발쳤고, 일부 관객은 호흡곤란도 호소했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>토마토부터 뗏목, 맥주까지…강원의 여름은 즐겁다</title>
+      <link>https://www.chosun.com/national/regional/2024/07/29/FLN5I5WK2ZE3HN5F7Z54TE76RA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/29/FLN5I5WK2ZE3HN5F7Z54TE76RA/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 08:27:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QHH7QUTRY5E5DLHHUQJJDRN7W4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;동강뗏목축제 중 뗏목 재현 행사 모습. /영월군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도 여름 축제가 잇따라 열린다.&lt;br&gt;&lt;br&gt;강원 영월군은 다음 달 2일부터 4일까지 동강 둔치 일원에서 동강뗏목축제를 개최한다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;동강은 정선 가수리에서 영월 하송리까지 51km를 흐르는 강이다. 이후 남한강과 합류돼 한강까지 흐른다. 조선시대 당시 정선과 영월의 질 좋은 소나무는 뗏목으로 만들어져 동강을 따라 한양으로 옮겨졌다. 1867년 경복궁을 중건할 당시에도 영월의 소나무가 뗏목으로 만들어져 한양으로 운반됐다.&lt;br&gt;&lt;br&gt;이번 축제는 ‘스물여섯 번의 물결, 동강에서 만나다’를 주제로 펼쳐진다. 특히 축제 첫날인 2일엔 전통방식으로 만든 뗏목에 떼꾼이 올라 한양으로 나무를 실어 나르던 모습이 재현된다. 축제 기간 카누를 빌려 타고 동강을 노닐 수도 있으며, 메밀부꾸미와 메밀전 등 영월의 토속 음식도 맛볼 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W6MHMKQA4NCGDLYSPKZI6SKHD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2019년 열린 화천 토마토축제에 참가한 관광객들이 토마토 풀장으로 뛰어들고 있다. /화천군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 다음 달 1일부터 4일까지 강원 화천군 사내면 사창리 문화마을 일원에선 2024 화천 토마토 축제가 열린다.&lt;br&gt;&lt;br&gt;올해 20회째를 맞은 화천 토마토 축제는 공연존·이벤트존·워터존·체험존·마켓존·밀리터리존 등 6개 주제별로 40여개 프로그램이 펼쳐진다.&lt;br&gt;&lt;br&gt;축제의 하이라이트는 토마토 속에 숨겨진 금반지를 찾는 ‘황금 반지를 찾아라’ 프로그램이다. 대형 토마토 풀장에 수백명의 관광객이 한꺼번에 들어가 토마토 속 숨겨진 금반지를 찾는다. 축제 기간 7차례 진행되며 32돈의 금반지가 축제에 사용된다.&lt;br&gt;&lt;br&gt;무더위를 식혀줄 워터존엔 슬라이딩 수영장과 물총 놀이터가 설치된다. 얼음 족욕도 즐길 수 있다. 축제장에선 신선한 토마토도 싼값에 살 수 있으며, 탱크와 장갑차 등 대형 군 장비도 관람할 수 있다.&lt;br&gt;&lt;br&gt;강원도 홍천에선 오는 31일부터 다음달 4일까지 제8회 홍천강 별빛음악 맥주 축제가 열린다.&lt;br&gt;&lt;br&gt;홍천은 국내 최대 규모의 맥주 공장과 다양한 맥주 양조장이 자리해 있다. 축제 첫날인 31일엔 홍천읍 꽃뫼공원 대로변, 다음 달 1일부터 4일까진 도시산림공원 토리숲에서 축제가 열린다. 축제기간 지역 맥주 양조장에서 만든 수제 맥주와 맥주 공장에서 갓 출고한 생맥주를 맛볼 수 있다. 전국 별빛 가요제와 DJ쇼 등도 펼쳐진다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고시원 책상에 현금 10만원, “청소 부탁” 메모...‘한강 아령 묶인 시신’ 60대 남성</title>
+      <link>https://www.chosun.com/national/incident/2024/07/29/4CSWEFCWB5FGFDX36JZQ5BQDKY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/29/4CSWEFCWB5FGFDX36JZQ5BQDKY/</guid>
+      <dc:creator>고양=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 08:23:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IPWPCNFWCOCMOCVK4APWT4WVD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;팔에 5kg 아령이 묶인 모습으로 한강에서 숨진 채 발견된 발견된 남성이 스스로 극단적 선택을 한 것으로 추정되는 메모가 생전에 지내던 고시원에서 발견됐다.&lt;br&gt;&lt;br&gt;29일 경기 고양경찰서에 따르면 지난 28일 오후 1시쯤 고양시 덕양구 행주나루터 인근 선착장 근처에서 숨진 채 발견된 60대 남성 A씨는 서울 성동구의 한 고시원에서 혼자 지내온 것으로 확인됐다.&lt;br&gt;&lt;br&gt;A씨가 거주했던 고시원 방 책상 위에는 현금 10만원과 ‘청소를 잘 부탁한다’는 내용의 메모가 놓여 있었다. ‘몸이 너무 아파서 살고 싶지 않다’는 내용의 메모도 발견된 것으로 전해졌다. A씨는 평소 가족이나 친지와 교류 없이 고시원에서 혼자 살아온 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 신원을 파악하고 유족을 찾는 한편, 사인을 규명하기 위해 30일 국립과학수사연구원에 A씨 시신 부검을 의뢰할 예정이다.&lt;br&gt;&lt;br&gt;※ 우울감 등 말하기 어려운 고민이 있거나 주변에 이런 어려움을 겪는 가족ㆍ지인이 있을 경우 자살예방 상담전화 ☎109에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세]  7월 30일 화요일 (음력 6월 25일 乙未)</title>
       <link>https://www.chosun.com/national/national_general/2024/07/29/LOQKXIYY25BG3MDB34UD7FJYUI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/29/LOQKXIYY25BG3MDB34UD7FJYUI/</guid>
@@ -852,15 +928,6 @@
       <content:encoded>보은군의회가 상위 지방자치단체인 충청북도가 정한 것보다 더 많은 농업인들에게 지원금을 주기로 해도 법에 어긋나지 않는다는 대법원 판결이 나왔다. 법원은 보은군과 충북도가 각각 만든 조례안이 별개라고 봤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T4TSMEPX3Y66KZL6HLOTQO4LFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 1부(주심 노태악 대법관)은 보은군이 군의회를 상대로 낸 조례안 재의결 무효 확인 소송에서 지난달 27일 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;충북도는 충북 지방보조금 관리 조례를 제정해 ‘직전 3년 이상 충북에 거주하며 전년도 소득이 2900만원 미만인 농가’에게 농업인 수당을 지급하기로 했다. 충북도는 농업인 수당의 40%는 도비로, 60%는 시·군비로 나눠 부담하기로 정하고 보은군에 협조를 구했다.&lt;br&gt;&lt;br&gt;하지만 보은군의회는 이 분담 요구를 거부했다. 대신 ‘직전 2년 이상 보은군에 거주하며 전년도 소득이 3700만원 미만인 농가’를 지급 대상으로 하는 자체 조례안을 만들어 2022년 4월 본회의에서 통과시켰다. 보은군의회가 충북도보다 소득·거주 요건을 완화해 수당 지급 대상을 확대한 것이다.&lt;br&gt;&lt;br&gt;보은군수는 이 조례안이 지방자치법 30조를 위반했다며 반대했다. 지방자치법 30조는 ‘시·군 및 자치구의 조례는 시·도의 조례를 위반해선 안된다’고 정하고 있다. 보은군수는 보은군의회에 재의를 요구했지만 받아들여지지 않자 대법원에 소송을 냈다.&lt;br&gt;&lt;br&gt;대법원은 조례에 문제가 없다 보고 보은군수의 청구를 기각했다. 보은군과 충북도의 조례는 별개이기 때문에 법을 위반하지 않았다 본 것이다. 대법원은 “이 사건 조례안은 보은군 자체적으로 농업인 공익수당 지원사업을 시행하기 위해 마련된 것”이라며 “충북 조례와 구별되는 별개의 독자적인 농업인 공익수당 사업을 목적으로 한다”고 했다.&lt;br&gt;&lt;br&gt;또 충북 조례에 따르면 수당을 받을 자격이 없는 사람이 보은군 조례로 인해 수당을 지원받는 경우가 생기더라도, 두 조례는 별개이므로 상관이 없다고 했다. 대법원은 “보은군 조례가 충북 조례보다 지급 대상 요건을 완화하고 있더라도 충북 조례가 의도하는 목적과 효과를 저해하는 바가 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>식당 어린이 사고 배상..서울시 ‘웰컴키즈 안심보험’ 출시</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/28/FEN7VST3QNGBRINKVZ2HCPYPWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/28/FEN7VST3QNGBRINKVZ2HCPYPWA/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 04:58:41 +0000</pubDate>
-      <content:encoded>서울시가 식당·카페 등에서 어린이 안전사고가 발생했을 때 점주에게 최대 2000만원까지 보장하는 ‘웰컴키즈 안심보험’을 출시했다고 28일 밝혔다. 서울 내 ‘노키즈존’을 줄이기 위해서다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CFKCBUSSDOCDQBBCBX4ZPF2ICE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시에서 오는 29일부터 가입 신청을 받는 '웰컴키즈 안심보험'./서울시 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 보건복지부의 조사에 따르면 자영업자들이 ‘노키즈존’을 시행하는 가장 큰 이유는 ‘아동 안전사고에 대해 과도한 사업주의 배상 책임’이었다.&lt;br&gt;&lt;br&gt;웰컴키즈 안심보험은 식당이나 카페에서 발생하는 화상·미끄럼 등 안전사고를 보장한다. 법률상 배상책임, 치료비 등 최대 2000만원까지 받을 수 있다. 영업장 면적 100㎡ 기준 보험료는 연 2만원이다. 29일부터 한화손해보험에서 신청할 수 있다.&lt;br&gt;&lt;br&gt;가입 대상은 서울 소재의 모든 일반·휴게음식점 16만 곳이다.&lt;br&gt;&lt;br&gt;운영자 과실은 아니지만 도의적 책임으로 영업장 내에서 발생한 치료비를 보상하는 치료비(1인당 100만원, 사고당 100만원), 종업원이 상해를 입었을 때 보상하는 종업원신체장해보장특약(1인당 1000만원, 사고당 2000만원)도 포함했다.&lt;br&gt;&lt;br&gt;한편 서울시는 저출생 극복 정책의 일환으로 아이 동반 손님이 식당 등을 마음 편하게 방문할 수 있는 ‘서울키즈 오케이존’을 확대해 오고 있다.&lt;br&gt;&lt;br&gt;‘서울키즈 오케이존’은 아동과 보호자 편의를 위한 아이용 식단‧의자, 그리기 도구, 기저귀 교환대 등을 제공하는 매장이다. 서울 내 600곳이 있다. 서울시는 오케이존을 내년 1000개소까지 확대할 계획이다.&lt;br&gt;&lt;br&gt;김선순 서울시 여성가족실장은 “사고 우려와 부담은 노키즈존을 고민하게 만드는 가장 큰 이유”라며 “이 보험이 자영업자의 걱정을 덜고, 궁극적으로 양육자와 아이 모두 편하고 행복하게 외출하는 환경을 만드는 데 기여할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>도움닫기·든든·디딤돌·성장...서울시 안심소득 새 이름은?</title>
       <link>https://www.chosun.com/national/national_general/2024/07/28/FRVLHBPR3NHU3LV2Y7L7OIZKQA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/28/FRVLHBPR3NHU3LV2Y7L7OIZKQA/</guid>
@@ -868,69 +935,6 @@
       <description/>
       <pubDate>Sun, 28 Jul 2024 04:46:08 +0000</pubDate>
       <content:encoded>서울시 안심소득의 새 이름 후보가 나왔다.&lt;br&gt;&lt;br&gt;서울시는 안심소득 출범 2주년을 기념해 진행한 ‘안심소득 네이밍 시민 공모전’ 당선작 20개를 28일 공개했다.&lt;br&gt;&lt;br&gt;안심소득은 가구별 소득에 따라 현금을 차등 지급하는 서울시의 선별 복지 제도다.&lt;br&gt;&lt;br&gt;최우수에 해당하는 ‘최고안심상’에는 도움닫기 소득, 든든소득, 디딤돌소득, 성장소득 등 4개가 뽑혔다. 안심소득 정책의 가치를 직관적으로 잘 전달할 수 있다는 평가를 받은 이름들이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBEJYJYVZJURP6BBG6FIXKJAHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안심소득 공모전&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우수상인 ‘하후상박상’ 16개는 근로활력소득, 내일준비소득, 더가치소득, 더함+소득, 도약소득, 동행소득, 디딤소득, 미래응원소득, 생활소득, 성장동행소득, 안심도약소득, 자립지원소득, 채움소득, 희망더하기소득, 희망디딤돌소득, 희망소득이다.&lt;br&gt;&lt;br&gt;서울시는 오는 8월5~30일 최우수상을 받은 이름 4개를 시민투표에 올려 선호도를 조사할 계획이다. 최종적으로 정해진 이름은 9월 초 발표한다.&lt;br&gt;&lt;br&gt;이번 공모에는 1만8000여명이 이름을 제안했다. 중복이나 무의미한 단어를 빼면 총 1만2580건이 접수됐다. 서울시는 1차 내부 심사, 2차 전문가 심사를 거쳐 당선작 20개를 선정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘강사 채용 비리’ 숙명여대 현직 교수 2명 송치</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/28/BYESL2JYEJCNVLKA2RNBGTRGNA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/28/BYESL2JYEJCNVLKA2RNBGTRGNA/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 04:25:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XL3Y5YNHIUGGGSZEXOGQCLNS4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;숙명여대 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성악과 강사 선발 과정에서 기존 강사들에게 특혜를 준 혐의를 받는 현직 숙명여대 교수 2명이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울경찰청 반부패수사대는 강사 채용 과정에서 실기 시험에 참석하지 않은 기존 강사 14명에게 특혜를 준 혐의(업무방해)로 현직 숙명여대 성악과 교수 2명을 불구속 송치했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이들은 2022년 12월 진행된 이듬해 1학기 숙명여대 음대 성악과 강사 채용 과정에서 실기 시연에 참석하지 않은 기존 강사 14명에게 합격 점수를 부여한 혐의를 받는다. 교칙에 따르면 기존 강사는 계약 기간이 만료되면 신규 채용 절차를 따라야 하지만, 실기 과정에 참석하지 않는 특혜를 제공받았다는 것이다.&lt;br&gt;&lt;br&gt;해당 사태는 작년 2월 숙명여대 성악과 채용비리 사태위와 한국비정규교수노동조합 등이 “서류전형을 통과한 17명 가운데 14명이 실기 시연에 참석하지 않고도 합격점을 받았다”는 의혹을 제기하면서 드러났다.&lt;br&gt;&lt;br&gt;이에 대해 숙명여대 측은 “1차 모집 때 실기 시연에 참여하지 않은 기존 강사 14명을 대상으로 2차 모집 과정에서 시연 과정을 치렀다”고 해명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>민희진, 하이브 경영진 5명 경찰에 고소</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/25/RS3MMNMO3BGJHCYKGIAQHVLDK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/25/RS3MMNMO3BGJHCYKGIAQHVLDK4/</guid>
-      <dc:creator>김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jul 2024 06:50:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I6MJZSJ5QFIIXPFNYKL255WYWM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 피고발인 자격으로 경찰 조사를 마친 민희진 어도어 대표가 서울 용산경찰서에서 취재진의 질문에 답변하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민희진 어도어 대표가 하이브 경영진 5명을 고소했다.&lt;br&gt;&lt;br&gt;서울 용산경찰서는 민희진 어도어 대표의 고소장을 접수했다고 25일 밝혔다. 앞서 민 대표 측은 지난 24일 입장문을 내고 연예기획사 하이브 경영진 5명을 업무방해, 전자기록 등 내용탐지, 정보통신망침해, 명예훼손 등 혐의로 이날 경찰에 고소했다고 밝혔다. 입장문에 따르면 고소 대상자에는 박지원 대표이사, 임수현 감사위원회 위원장, 정진수 최고법률책임자, 이경준 최고재무책임자, 박태희 최고커뮤니케이션책임자가 포함됐다.&lt;br&gt;&lt;br&gt;민 대표 측은 입장문에서 “이들은 불법으로 취득한 개인 간의 메신저 대화와 개인정보를 무단으로 유출 및 자신들의 의도대로 거짓 편집하는 행태를 수없이 반복해 왔다”면서 “취득한 개인 대화 내용을 편집, 왜곡해서 고소인 민희진의 경영 및 업무수행에 대한 사실과 다른 내용의 보도자료 등을 만들어 언론에 배포하여 고소인 민희진에 대한 부정적인 여론을 형성하는 등의 방법으로 활용했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “아티스트와 어도어 구성원들에게 피해를 주고 대중에 혼란을 야기하는 이 같은 행위를 멈출 것을 수차례 공식, 비공식적으로 요청하였으나 피고소인들의 불법행위는 최근까지도 지속되고 있다”면서 “더 이상 이러한 불법행위로 인한 아티스트와 어도어 구성원의 피해를 방치할 수 없어 조치를 취한다”고 고소 배경을 밝혔다.&lt;br&gt;&lt;br&gt;지난 4월 22일 하이브 측이 ‘민 대표가 어도어의 경영권을 탈취하려 한다’는 취지의 주장을 내놓은 후부터 민 대표는 하이브 및 하이브 산하 레이블과 고소 공방을 이어가고 있다. 하이브는 지난 4월 25일 민 대표와 신동훈 어도어 부대표를 ‘어도어’의 경영권 탈취를 시도한 혐의(업무상 배임)로 고발했다. 지난 5월 22일에는 하이브 산하 또다른 레이블인 ‘빌리프랩’이 민 대표를 업무방해와 명예훼손 혐의로 고소했다.&lt;br&gt;&lt;br&gt;해당 고소·고발 건들은 서울 용산경찰서에서 수사 중이며 민 대표는 지난 9일 하이브의 민 대표 고발 건에 대한 경찰 조사를 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>수습기간 중 구두로만 이뤄진 사직 권고에 퇴사…법원 “부당 해고”</title>
-      <link>https://www.chosun.com/national/regional/2024/07/28/VJXS2X7LBZEL3FF6KRRWM667HE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/28/VJXS2X7LBZEL3FF6KRRWM667HE/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 02:53:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMGA4NO5BFCJ5KDLOB6HLA3DWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지방·고등법원. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수습기간 중인 계약직 근로자라도 서면 통보 없이 사용자의 일방적인 구두권고로 이뤄진 퇴사는 부당하다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대구지법 민사13부(재판장 권순엽)는 사립대 계약직 근로자였던 A씨가 B학교법인 등을 상대로 낸 해고 무효확인 소송에서 원고 승소 판결을 했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2022년 11월 B학교법인이 운영하는 학교에 계약직 관리사무원으로 채용돼 법인 대표인 이사장 수행 기사 업무를 맡았다. 근로계약에 따라 A씨는 우선 수습 직원 신분으로 업무를 시작했다. 그러다 3개월 정도로 예정된 수습 기간이 끝나기 전인 지난해 1월 이사장 면담 후 권고사직 요청에 따라 퇴사했다.&lt;br&gt;&lt;br&gt;이에 A씨는 지난해 작년 9월 “정당한 이유 없이 해고됐고, 이 과정에서 근로기준법이 정한 절차도 지켜지지 않았다”며 학교법인을 상대로 소송을 제기했고, 학교 법인 측은 “A씨와 합의로 근로계약을 해지했고, 이를 해고로 보더라도 수습 기간 중이라 통상의 경우보다 해고 제한이 완화된다”고 맞섰다.&lt;br&gt;&lt;br&gt;이에 대해 재판부는 “A씨 의사에 반해 피고 측 일방적인 의사표시로 근로계약이 종료된 만큼 원고에 대한 사직 권고와 이에 따른 퇴사는 실질적으로 해고에 해당한다. 또 이 과정에서 피고 측이 근로기준법에 따라 원고에게 해고 사유와 시기를 서면으로 통지하지 않은 만큼 해고는 무효”라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘유명 DJ’ 페기 구 성수동 공연, 인파 몰려 중단… 5명 호흡곤란 호소</title>
-      <link>https://www.chosun.com/national/incident/2024/07/28/IMZGQMB5ZBBB3DNFIG6HZOBDU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/28/IMZGQMB5ZBBB3DNFIG6HZOBDU4/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 01:43:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PB2MEFP5ZNAONKVEFYHCSDSHPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;소셜미디어에 올라온  '보일러룸 서울 2024'가 진행되는 서울 성동구 에스팩토리 모습./엑스(X)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국인 DJ이자 세계적인 음악 프로듀서인 페기 구가 출연 예정이었던 음악 공연이 안전사고 우려로 결국 중단됐다.&lt;br&gt;&lt;br&gt;28일 서울 성동소방서 등에 따르면, 이날 오전 12시 40분쯤 성수동 복합문화공간 에스팩토리에서 열린 음악 페스티벌 ‘보일러룸 서울 2024′에 인파가 많이 몰렸다는 내용의 신고가 여러 건 접수됐다.&lt;br&gt;&lt;br&gt;행사는 이날 오전 4시까지 이어질 예정이었으나 페기 구의 공연 직전인 오전 1시쯤 중단됐다. 관객들은 경찰과 소방 당국의 안내에 따라 공연장에서 빠져나왔다. 인명 피해는 발생하지 않았으나, 5명이 호흡 곤란 증상을 호소해 현장에서 조치를 받은 뒤 귀가했다.&lt;br&gt;&lt;br&gt;관객들은 주최 측이 공연장 수용 가능 인원을 고려하지 않고 티켓을 판매해 이 같은 일이 발생했다며 피해 보상을 요구하고 있다. 공연을 보러 갔던 관객들은 이미 밤 11시쯤부턴 공연장에 들어갈 수 없어 밖에서 대기해야 했고, 해산 직전엔 대기 줄이 공연장 밖을 두 바퀴는 감싸고 있었던 것으로 전해진다.&lt;br&gt;&lt;br&gt;소셜미디어에는 “야외도 아니고 전자음악을 테마로 하는 실내 공연에서 오버 셀링을 하는 게 맞나” “공연 예매를 했는데도 기약 없는 대기에, 이 더운 날씨에 내부 들어갔더니 구급차 출동하고 사람 실려나가고. 도대체 누가 공연 수요 책정했는지” 등의 불만 글이 올라왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4TGQQQSGOJFTFI7B7H2PWZHJBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;DJ 페기 구가 28일 서울 공연이 취소된 이후 소셜미디어에 올린 글./ 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;페기 구는 인스타그램을 통해 “음악을 틀기도 전에 공연 주최 측의 운영 및 안전상의 문제로 공연이 취소돼 너무 속상하고 마음이 아프다”고 했다. 그러면서 “가장 빠른 시일 내 다음 공연을 협의중이니 조금만 기달려달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“날 무시해?”...10대 여학생에 살해 협박 메시지 보낸 20대, 실형 선고</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/07/28/RSSV5CNJ6VH7XPRPSCHFM2IZHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/07/28/RSSV5CNJ6VH7XPRPSCHFM2IZHI/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 02:17:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 전경/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10대 여학생에게 메시지를 보내 죽이겠다고 협박한 20대에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;청주지법 형사6단독 조현선 부장판사는 협박 혐의로 재판에 넘겨진 A(20)씨에게 징역 6개월을 선고했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월 사회관계망서비스(SNS)에서 B(13)양과 대화를 나누던 중 ‘흉기를 들고 찾아가겠다’, ‘죽이겠다’는 내용의 다이렉트 메시지(DM)를 보낸 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 B씨가 자신이 다니는 학교 등을 제대로 알려주지 않는 등 자신을 무시했다는 생각에 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;조 부장판사는 “나이 어린 피해자가 적지 않은 두려움과 정신적 충격을 느꼈을 것으로 죄질이 불량하다”며 “범죄 전력이 없는 초범인 점 등을 참작했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>울산 에쓰오일 공장서 대형 화재...소방대응 2단계 발령</title>
-      <link>https://www.chosun.com/national/2024/07/28/IQYW23VSPRARXIAYURM2QQDWVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/07/28/IQYW23VSPRARXIAYURM2QQDWVM/</guid>
-      <dc:creator>김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 27 Jul 2024 22:08:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RX4NWJU7BU766JOSN2P3LCXAXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 새벽 울산 에쓰오일 온산 공장에서 화재가 발생했다. /뉴스1(온라인 커뮤니티 갈무리)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;에쓰오일 울산 온산공장에서 큰불이 나 소방대응 2단계가 발령됐다.&lt;br&gt;&lt;br&gt;28일 울산소방본부에 따르면 이날 오전 4시 47분쯤 울산 울주군 에쓰오일 온산공장에서 화재가 났다.&lt;br&gt;&lt;br&gt;소방당국에 “폭발음과 함께 연기가 보인다”는 신고가 접수됐다고 한다.&lt;br&gt;&lt;br&gt;화재 발생 직후 소방당국은 화재 대응 1단계(인근 3개~7개 소방서에서 31대~50대의 장비를 동원하는 경보령)를 발령했다. 하지만 불길이 거세다는 판단에 약 40분 후인 오전 5시 20분쯤 대응 2단계(인근 8개~14개 소방서에서 51대~80대의 장비를 동원하는 경보령)로 격상했다.&lt;br&gt;&lt;br&gt;이에 따라 현재 헬기와 특수차 등 장비 31대와 인원 71명이 투입돼 불길을 잡고 있다.&lt;br&gt;&lt;br&gt;현재까지 인명피해는 없는 것으로 전해졌다. 하지만 연기가 퍼져 나가면서 지자체에서는 인근 지역 주민에게 “창문을 닫고 환기 시설 사용중지 및 야외활동 자제” 등을 당부하는 안전 안내문자를 발송했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJYEP376IZEZFCI3FQ5AYIJ7TY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오전 4시 47분쯤 울산 울주군 에쓰오일 온산공장에서 화재가 났다. /울산소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰총장 “쯔양 사건 병합 수사하라”…구제역 구속에 숨은 수사기법</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/28/HPAZVRTCNRHBLCDPJ4MYD7JGWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/28/HPAZVRTCNRHBLCDPJ4MYD7JGWE/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 27 Jul 2024 22:03:45 +0000</pubDate>
-      <content:encoded>[사건노트]는 부장검사 출신 김우석 변호사가 핫이슈 사건을 법률적으로 풀어주고, 이와 관련된 수사와 재판 실무를 알려드리는 코너입니다. 이가영 기자가 정리합니다.﻿&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FLRFH2F56F3R7PB7RJQSO2LXPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;먹방 유튜버 '쯔양'(본명 박정원)을 협박해 돈을 갈취한 혐의를 받는 유튜버 구제역(본명 이준희)이 26일 오전 영장실질심사를 받기 위해 수원지법에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 26일 먹방 유튜버 쯔양(본명 박정원)을 협박해 돈을 뜯은 유튜버 구제역(본명 이준희)과 주작감별사(본명 전국진)가 구속됐다. 검찰총장이 ‘구속 수사’ 등 엄정 대응을 지시하자, 검찰은 17일 피해자 쯔양 조사, 18일 압수수색, 23일 구속영장을 청구했다. 그야말로 속전속결이다. &lt;br&gt;&lt;br&gt;한편, 이 사건의 핵심 인물로 쯔양 전 남자친구의 변호사가 등장했다. 쯔양은 그를 공갈과 업무상비밀누설 혐의로 고소했다. 변호사가 자신이 수임했던 사건에서 알게 된 정보를 활용해 공갈했다면, 매우 충격적인 사건이다. 쯔양 사건의 법률적 의미와 전망을 알아보자. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇검찰총장의 ‘병합 수사’ 지시, 구제역 구속에 어떤 영향 미쳤나&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Q. &lt;/b&gt;이원석 검찰총장은 “동일인이 여러 건의 악성 콘텐츠를 게시하는 범죄를 저지른 경우, 병합해서 수사하라”는 지시를 했습니다. 이건 어떤 의미인가요?&lt;br&gt;&lt;br&gt;&lt;b&gt;A. &lt;/b&gt;구속 등 엄벌할 방법을 강구하라는 취지입니다. 예컨대, 특정인이 ①, ②, ③, ④ 범죄를 저질렀을 때, 4개의 범죄를 4개의 사건으로 수사하면, 처벌도 4개로 분산되므로 개별사건의 처벌 수위는 낮아집니다. 권투로 치면, 잽을 몇 대 맞고 끝나는 거죠. &lt;br&gt;&lt;br&gt;하지만, 4개의 범죄를 합쳐서 1건으로 수사하면 한꺼번에 처벌을 받습니다. 처벌 수위가 높아집니다. 잽을 모아서 묵직한 카운터 펀치 한방으로 만들라는 것입니다.&lt;br&gt;&lt;br&gt;수사기관에서 이렇듯 특정인에 대한 사건을 모아서 1개의 사건으로 만들어 수사하는 경우가 있습니다. 개별 사건으로는 구속 사안이 아니지만, 이를 합치면 구속 사안으로 변합니다. 엄벌이 필요하다고 판단될 때 사용하는 수사기법입니다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇쯔양에게 고소당한 변호사 “법 위반 사실 없다”고 말한 이유는&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4EI6QQQNB5G3LDHSYCB66HLDTQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;쯔양의 과거 정보를 유튜버 구제역에게 유출했다는 의혹을 받는 변호사 A씨가 올린 블로그 글. /네이버블로그&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Q. &lt;/b&gt;쯔양이 유흥주점에서 일한 적이 있다는 사실을 유튜버 구제역에게 알려준 사람이 변호사 A씨로 드러났습니다. A씨는 쯔양이 전 남자친구 B씨를 고소한 사건에서 B씨를 변호한 사람입니다. A씨가 변호사 직무 중에 알게 된 쯔양의 과거를 누설한 것인데, 이래도 되나요?&lt;br&gt;&lt;br&gt;&lt;b&gt;A. &lt;/b&gt;쯔양 측에서는 A씨의 행위가 업무상비밀누설죄에 해당한다며 고소했습니다. 우리 형법은 ‘변호사가 직무처리 중 취득한 타인의 비밀을 누설’한 경우 형사 처벌합니다. 변호사는 직무수행 중에 다른 사람의 비밀을 접할 수밖에 없으므로, 개인의 사생활 보호를 위해 변호사에게 비밀 유지 의무를 부과한 것입니다.&lt;br&gt;&lt;br&gt;그런데, 업무상비밀누설죄는 기본적으로 변호사가 ‘자기 의뢰인’의 비밀을 누설하는 것을 처벌하는 것입니다. 이런 측면에서, A변호사가 자기 의뢰인 B씨와 ‘대립하는 당사자’였던 쯔양의 비밀을 누설했다고 해서, 업무상비밀누설죄가 성립한다고 볼 것인지는 법리적으로 의문이 있습니다.&lt;br&gt;&lt;br&gt;그렇기에 A변호사는 자신의 블로그에 “업무상 취득은 의뢰인 정보를 말하는데, 당시 쯔양은 제 의뢰인도 아니었고 해당 내용은 업무 범위의 정도도 아니었다. 법 위반 사실은 없다”고 말했을 것입니다. &lt;br&gt;&lt;br&gt;하지만, A변호사는 B씨를 변호하다가, B씨와 법률 다툼을 벌이던 쯔양 측의 언론 관련 업무를 봐주는 변호사로 변신하기도 했습니다. 이를 고려할 때, A씨가 쯔양의 비밀을 누설한 것이 업무상비밀누설죄에 해당할 수도 있습니다. 아직은 섣불리 판단하기 어렵고, 수사 결과를 지켜봐야 할 것입니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OO6XJEUERU7GIS3DHS3LSIY7UE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;쯔양 측 법률대리인 김태연 변호사(왼쪽)와 쯔양. /유튜브 '쯔양'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Q.&lt;/b&gt; 쯔양은 A변호사를 공갈 혐의로도 고소했습니다. 어떻게 전망하시나요?&lt;br&gt;&lt;br&gt;&lt;b&gt;A. &lt;/b&gt;만약 A변호사가 쯔양을 협박해서 돈을 뜯어냈다면, 공갈죄가 성립할 것입니다.&lt;br&gt;&lt;br&gt;언뜻 생각해 볼 때, 쯔양과 대립하는 B씨를 변호하던 A씨가 쯔양의 고문 변호사로 변신해서 돈을 받는 건 상당히 어색하기는 합니다. 이 과정에서, A변호사도 구제역과 같이 쯔양의 과거를 폭로할 듯한 태도를 보여서 고문료를 받았다면, 공갈죄가 성립할 수 있습니다. 고문료를 빙자하여 돈을 뜯어낸 것이기 때문입니다.&lt;br&gt;&lt;br&gt;A씨가 구제역의 공갈에 가담했고, 구제역이 쯔양에게 뜯어낸 돈을 분배받았다면, 이건 공갈죄의 공범이 될 수 있습니다. &lt;br&gt;&lt;br&gt;다만 A변호사는 “(내가) 준 자료로 돈 뜯는 줄은 상상도 못 했다”며 자신은 구제역의 행위를 몰랐다고 주장했습니다. 그렇기에 구체적인 사실관계가 확인될 때까지 수사 결과를 기다려봐야 할 것입니다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇경찰 대신 직접 수사한 검찰, 유명인 특혜?&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QFA5SYFZA5DD5AUIIEIVQ5RQYE.png"&gt;&lt;figcaption&gt;&lt;small&gt;사이버 레커 유튜버 자료사진. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Q. &lt;/b&gt;쯔양 사건을 통해 ‘법을 초월한 참교육’, ‘사적 제재’를 외치던 사이버 레커 유튜버들의 횡포가 드러났다는 평가가 나옵니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;A. &lt;/b&gt;일부 사이버 레커 유튜버들이 특정인의 악행을 폭로해 이슈를 만들거나, 망신을 주는 등 사적 제재를 가하는 사례가 늘고 있습니다. 이러한 행위는 명예훼손에 해당할 수 있는데, 그 처벌이 벌금에 그치는 경우가 많아 처벌을 감수하면서 지속적인 폭로 콘텐츠를 만드는 일이 반복되고 있습니다. &lt;br&gt;&lt;br&gt;명예훼손을 통한 사적 제재는 불법입니다. 특히, 수십만 구독자를 보유한 사이버 레커 유튜버가 이를 행하면, 상대방은 심각한 피해를 입습니다. 체면을 중시하는 우리 사회에서 이런 망신을 당하면 정상적인 사회생활이 어렵습니다. 얼굴을 들고 다닐 수 없게 되죠. &lt;br&gt;&lt;br&gt;게다가, 이러한 폭로 콘텐츠가 허위 내용이라면 피해는 더욱 심각합니다. 폭로하겠다고 협박하면서 돈까지 뜯어냈다면? 그야말로 최악입니다. &lt;br&gt;&lt;br&gt;&lt;b&gt;Q.&lt;/b&gt; 검찰은 경찰에 사건을 내려보내는 대신 직접, 또 빠르게 수사해 가해자를 구속했습니다. 잘했다는 평가도 있지만, 유명인 특혜라는 비판도 있는데요?&lt;br&gt;&lt;br&gt;A. 저는 검찰 수사가 적절했다고 생각합니다. 일부 사이버 레커 유튜버들의 불법적 행태는 도를 넘고 있습니다. 쯔양 사건은 이에 대한 리딩 케이스(leading case)가 될 것입니다. 이들에게 경종을 울렸을 것이고, 유사한 피해를 예방하는 효과도 있을 겁니다. 이처럼 리딩 케이스를 만드는 수사는 검찰이 꼭 수행해야 할 역할입니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KPY4ORBUOJC6FHHJQQPAILRQRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김우석 법무법인 명진 대표 변호사. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>연이은 경찰관 사망에 내부 술렁.. 윤희근 경찰청장 “유족 최대한 지원할 것”</title>
