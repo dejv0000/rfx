@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] ‘봉화 복날 농약 사건’ 할머니 1명 숨져</title>
+      <link>https://www.chosun.com/national/incident/2024/07/30/2XSPQNJVNZBVNKF4MIQZJXAKLE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/30/2XSPQNJVNZBVNKF4MIQZJXAKLE/</guid>
+      <dc:creator>권광순 기자, 이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 23:02:59 +0000</pubDate>
+      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“내눈을 의심했다”…비즈니스 좌석에 앉아 전자담배 피우는 승객</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/30/H75YJDOH4ZGBPIJJYZPN4OODAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/30/H75YJDOH4ZGBPIJJYZPN4OODAQ/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 22:19:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VPEGVTDHOVD4PCPQVAT2XLGMW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;기내 좌석에 앉아 전자담배를 흡연하는 승객./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기내에서 전자담배를 피우는 승객의 모습이 담긴 영상이 공개돼 온라인상 공분을 사고 있다.&lt;br&gt;&lt;br&gt;인스타그램 이용자 A씨는 지난 29일 자신의 계정에  “비행기 안에서 있었던 일. 진짜 이런 사람이 있네요. 내 눈을 의심함”이라는 글과 함께 짧은 영상을 공개했다.&lt;br&gt;&lt;br&gt;영상에는 비즈니스 좌석에 앉아 흡연 중인 남성 승객의 모습이 담겼다. 이 승객은 휴대전화를 들여다보며 전자담배로 추정되는 물건을 입으로 흡입한 뒤 연기를 내뿜고 있다.&lt;br&gt;&lt;br&gt;이 영상은 게재한 지 만 하루도 되지 않아 460만회 이상의 조회수를 기록 중이다. 네티즌들은 “지금이라도 항공사에 말하면 어떤 조치라도 취하지 않을까” “전자담배라 냄새 안난다고 흡연하는 사람들 은근 많더라” 등의 반응을 보이며 영상 속 승객을 비판했다.&lt;br&gt;&lt;br&gt;기내 흡연은 화재 위험 등의 연유로 항공보안법에 따라 금지된다. 계류 중인 항공기 내에서 흡연은 500만원 이하, 운항 중인 항공기 내에서 흡연은 1000만원 이하의 벌금형이 처해진다.&lt;br&gt;&lt;br&gt;장철민 더불어민주당 의원(대전 동구)이 국토교통부로부터 받은 자료에 따르면 작년 1~8월까지 국적항공사에서 적발된 흡연행위는 274건으로, 적발된 기내 불법행위의 81%를 차지했다.&lt;br&gt;&lt;br&gt;영상 속 전자담배는 위탁 수화물로 보낼 수 없는 물품이라 기내 반입은 가능하지만 일반 담배와 마찬가지로 기내 흡연은 금지돼 있다.&lt;br&gt;&lt;br&gt;그러나 연기와 냄새가 적게 난다는 이유로 기내에서 전자담배를 피우는 승객이 종종 적발되는 것으로 나타났다. 이에 대한항공은 2019년 전 승무원을 대상으로 전자담배를 포함한 기내 흡연 적발 시 경중에 상관없이 현지 경찰에 인계한다는 내용의 관련 규정을 공지하기도 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>﻿‘우리 아이가 왜 왕따죠?’ 4년간 담임 4명 고소‧협박한 학부모</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/30/6EAW5SDYDZFBVLPJXVJS2CRCZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/30/6EAW5SDYDZFBVLPJXVJS2CRCZA/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 22:02:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I2DR3LWHMVNYNCLIWSU62PY3ZU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서이초등학교 교사 사망 1주기인 18일 오전 서울 서초구 서이초교사거리에서 교사유가족협의회 관계자와 전국교직원노동조합 조합원들이 고인을 추모하며 서초경찰서 방향으로 행진하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 전주시의 한 초등학교 4학년 학생의 부모가 자녀가 학교생활에 적응하지 못한다며 담임교사 4명을 아동학대 혐의로 고소하거나 협박하는 일이 벌어졌다.&lt;br&gt;&lt;br&gt;30일 전북교사노동조합에 따르면, 4학년 학생의 부모 A씨는 지난 12일 자녀의 1학년 때 담임교사를 아동학대 혐의로 처벌해달라며 경찰에 진정서를 제출했다. A씨의 자녀가 현재 학교생활에 어려움을 겪는 건 1학년 때 담임교사가 왕따 등 생활지도를 방임했기 때문이라고 했다.&lt;br&gt;&lt;br&gt;A씨가 교사를 고소한 건 이번이 처음은 아니다. 작년 A씨는 자녀의 옆 학급 담임교사 B씨를 아동학대 혐의로 고소했다.&lt;br&gt;&lt;br&gt;A씨는 당시 자녀가 학교폭력을 당했다며 신고한 상황이었다. B씨는 학생이 학교폭력 발생 장소를 다르게 진술했기에, 진상을 파악하기 위해 학생의 동의하에 사안 발생 장소에 동행해 사실을 확인했다. 그러자 A씨는 ‘학교폭력 피해 사실을 재연시키는 2차 가해를 저질렀다’며 아동학대 혐의로 B씨를 고소했다.&lt;br&gt;&lt;br&gt;방범카메라(CCTV) 확인 결과 A씨의 주장은 사실이 아닌 것으로 밝혀져 B씨는 ‘혐의없음’ 처분을 받았고, A씨는 무고 혐의로 기소된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 2022년 자녀가 2학년이었을 때 담임교사도 생활지도를 방임했다며 아동학대로 신고하겠다고 했다. 당시 담임교사는 신고를 면하기 위해 A씨에게 사과했다.&lt;br&gt;&lt;br&gt;그리고, 현재 A씨 자녀의 4학년 담임교사 역시 신고 협박을 받고 있다. A씨 자녀의 교우관계에 이번에도 문제가 발생했고, 담임교사 C씨는 학생 간 갈등 상황을 중재하며 상담을 진행했다. A씨는 이 부분에 불만을 제기하며 “사안 해결하지 않으면 교육청에 허위사실 유포로 아동학대 걸겠다” “경찰서에서 보자” 등 협박성 문자를 수십 건 보냈다고 한다. C씨는 정상적인 교육활동을 할 수 없다는 판단하에 병가를 냈지만, A씨의 연락은 지속됐다고 전북교사노조는 전했다.&lt;br&gt;&lt;br&gt;노조는 “아동학대 혐의로 고소당한 교사의 경우 무혐의 처분이 나오더라도 이미 경찰, 교육청, 지자체, 검찰 등 여러 기관의 조사를 받으며 교사의 삶은 피폐해진다”며 “특히 해당 사안처럼 무분별하게 교사를 아동학대로 고소하는 학부모를 만나게 되면 교사는 피소의 두려움을 안고 위축된 채 교직 생활을 이어갈 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;반면 무분별하게 교사를 고소하며 협박하는 학부모에게 교권보호위원회에서 내릴 수 있는 조치는 서면 사과 및 재발 방지 서약, 특별교육 이수 및 심리치료 등이 전부라고 했다.&lt;br&gt;&lt;br&gt;노조는 “무분별한 아동학대 신고를 일삼는 학부모에 대한 교육감 대리 고발을 요구한다”고 했다. 더불어 정당한 교육활동을 침해하는 보호자에 대한 실효성 있는 강력한 조치를 추가한 법률 개정을 촉구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] ‘아열대 코리아’… 서울이 방콕보다 덥다</title>
       <link>https://www.chosun.com/national/transport-environment/2024/07/30/KXJ6PYZRLFFWFP5FLC4KD3S64Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/30/KXJ6PYZRLFFWFP5FLC4KD3S64Y/</guid>
@@ -891,24 +918,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3HQPEFT6B75OOW3AA7ELNK5VCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배출가스저감장치(DPF)를 장착한 노후경유차량의 매연 측정 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 올해 배출 가스 4·5등급인 노후 경유차 1만대를 폐차하기로 했다. 1대당 최대 800만원씩 지원금을 줘 대기오염 물질을 많이 배출하는 노후 경유차의 조기 폐차를 유도하는 것이다.&lt;br&gt;&lt;br&gt;서울시는 29일부터 다음 달 16일까지 노후 경유차 폐차 지원금 신청을 받는다고 28일 밝혔다. 서울시는 2005년 5등급 경유차를 대상으로 폐차 유도 사업을 했고 작년부터는 대상을 4등급으로 확대했다. 지금까지 폐차한 경유차는 51만대에 이른다. 지난달 말 기준 서울시에 남아 있는 4등급과 5등급 경유차는 각각 8만3647대와 4542대다.&lt;br&gt;&lt;br&gt;올해 지원금은 승용차 기준 4등급 차량은 최대 800만원, 5등급 차량은 최대 300만원이다. 저소득층과 소상공인은 100만원을 추가 지원한다.&lt;br&gt;&lt;br&gt;경유차는 대기오염 물질을 배출하는 정도에 따라 1~5등급으로 나뉜다. 5등급이 가장 많은 오염 물질을 배출한다. 서울시에 따르면, 지난해 서울시 내에서 자동차가 배출한 초미세먼지는 291t으로, 이 중 240t(82%)을 4·5등급 차량이 내뿜었다.&lt;br&gt;&lt;br&gt;서울시는 대기질을 개선하기 위해 내년부터 5등급 경유차의 서울 시내 운행을 전면 금지한다는 계획이다. 4등급 경유차는 4대문 안 진입을 막을 계획이다. 장기적으로는 2030년부터 4·5등급 경유차의 시내 운행을 전면 금지하는 방안을 검토 중이다. 이와 관련해 지난 17일 시민 설명회를 열기도 했다.&lt;br&gt;&lt;br&gt;영국 런던은 노후 차량이 런던 시대에 들어올 때 통행료 12.5파운드를 부과한다. 프랑스 파리는 2017년부터 시내에 진입하는 모든 차량에 오염 물질 배출 등급을 표시하는 스티커를 붙이고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>울산 에쓰오일 공장, 화재로 가동 멈춰</title>
-      <link>https://www.chosun.com/national/2024/07/29/JK4EFYYQLRGDDEY3AKEREQP4WU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/07/29/JK4EFYYQLRGDDEY3AKEREQP4WU/</guid>
-      <dc:creator>울산=김준호 기자, 강다은 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6WFXGFAR55NBDMFVPUE7SWEPL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오전 4시 47분쯤 울산시 울주군 에쓰오일 온산공장에서 화재가 발생해 붉은 화염과 검은 연기가 하늘로 치솟고 있다. 화재가 발생한지 5시간 만인 이날 오전 9시 34분 완진됐고 인명피해는 없었다. /울산소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 새벽 울산 에쓰오일 공장에 큰불이 났다가 5시간 만에 진화됐다. 위험 물질이 많은 석유화학 공장 화재라 불길을 잡는 데 애를 먹었다. 인명 피해는 없었다.&lt;br&gt;&lt;br&gt;울산소방본부와 에쓰오일에 따르면, 이날 오전 4시 47분쯤 울산 울주군 에쓰오일 온산공장에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;‘펑’ 하는 폭발음과 함께 커다란 불 기둥이 높이 25m 이상 치솟았고 검은 연기가 넓게 퍼졌다. 검은 연기는 약 10㎞ 떨어진 울산 남구 도심에서도 목격됐다고 한다. 울주군은 온산공장 인근 주민들에게 ‘창문을 닫고 야외 활동을 자제해 달라’는 안전 문자를 보냈다.&lt;br&gt;&lt;br&gt;불은 발생 5시간 만인 오전 9시 34분 꺼졌다. 소방관 등 300여 명과 소방차, 화학 차량, 소방 헬기 등 56대가 동원됐다. 자동화된 공장이라 인명 피해는 없었다.&lt;br&gt;&lt;br&gt;불이 난 곳은 폴리에스터 섬유나 페트병의 원료인 ‘파라자일렌’을 제조하는 제2파라자일렌 공장이다. 소방 당국은 “히터(가열 장치)에서 처음 불이 발생한 것으로 추정된다”며 “정확한 화재 원인을 조사하고 있다”고 했다.&lt;br&gt;&lt;br&gt;이번 화재로 생산 차질이 불가피할 것으로 보인다. 에쓰오일 측은 “공장 재가동까지는 적어도 열흘은 걸릴 것으로 예상한다”며 “피해·손실 규모는 화재 원인이 나와야 파악할 수 있을 것 같다”고 했다. 업계에서는 에쓰오일의 하루 손실액이 48억원에 달할 것이라는 분석이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 판결] 상속세 97억 냈는데 96억 더 내게 된 이유</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/29/DKEQXFLFWBCLJOUFLUEKISDYJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/29/DKEQXFLFWBCLJOUFLUEKISDYJY/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2WX3FAN2UJABBEIMKFO6FHSJ4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;과세 당국이 거래가 거의 없어 시가를 파악하기 힘든 고가(高價)의 부동산에 대해 외부 기관의 감정평가를 받아 상속세를 부과한 것은 정당하다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;서울행정법원 행정6부(재판장 나진이)는 최근 A씨가 “상속세 부과 처분을 취소해 달라”며 서울 성동세무서장을 상대로 낸 소송에서 원고 패소 판결했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2021년 5월 아버지가 사망하면서 서울 서초구의 땅과 건물을 상속받았다. A씨는 그해 11월 상속받은 부동산 가액이 141억원이라며, 상속세 97억8000여 만원을 신고·납부했다. 서울지방국세청은 이듬해 4월 상속세 조사를 하면서 감정 기관 두 곳에 A씨가 상속받은 부동산에 대한 감정평가를 의뢰했다. 이에 A씨도 다른 감정 기관 두 곳에서 감정평가를 받았다. 서울지방국세청은 평가심의위원회를 거쳐 2022년 10월 감정 기관 네 곳이 평가한 감정가 평균인 332억원을 시가로 봐야 한다며, A씨에게 상속세 96억5000여 만원을 추가로 내라고 했다. 이에 A씨는 “과세 관청은 상속 재산에 대해 감정평가를 의뢰할 권한이 없다”며 소송을 냈다.&lt;br&gt;&lt;br&gt;재판부는 “상속세를 신고받은 과세 관청은 정당한 과세표준 및 세액을 조사·결정해야 하고, 이를 위해 감정을 의뢰하는 것은 정당한 권한”이라고 판단했다. 또 “이 사건 부동산과 같은 고가의 건물과 토지는 거래가 빈번하지 않다. 이런 경우 납세자 대부분은 공시가격으로 상속세를 신고하는데 부동산의 객관적 가치가 제대로 반영되지 못한다”며 “과세 관청이 시가를 확인하기 어려운 고가의 상속·증여 부동산을 대상으로 감정을 실시해 시가를 확인하는 것에 대해 합리적인 이유 없는 차별이라고 보기는 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘우렁각시’인줄 알았더니… 1년새 망친 논, 축구장 7050개 크기</title>
       <link>https://www.chosun.com/national/regional/honam/2024/07/29/SYDFPS35FVFGHMD7HOIJMETU3Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/07/29/SYDFPS35FVFGHMD7HOIJMETU3Q/</guid>
@@ -925,14 +934,6 @@
       <description/>
       <pubDate>Sun, 28 Jul 2024 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UL5F67SS3ZE5FI6WGJMQ4NXD34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 27일 밤 ‘보일러룸 서울 2024′ 디제잉 공연이 열린 서울 성동구 성수동 에스팩토리의 모습. 1000명까지 수용 가능한 공연장에 4500여 명이 몰려 움직일 틈도 없었다. 소셜미디어에 올라온 사진이다. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 28일 서울 성동구 성수동의 한 공연장에 유명 DJ를 보겠다는 인파 수천명이 몰려 행사가 중단되는 사고가 발생했다. “압사 사고가 발생할 것 같다”는 경찰·소방 신고가 빗발쳤고 일부 관객은 호흡곤란을 호소하기까지 했다. 2022년 핼러윈 참사 이후 정부와 지방자치단체는 인파 관리(크라우드 매니지먼트) 시스템을 마련하겠다고 공언했다. 그러나 성수동 공연장에선 이 같은 시스템이 전혀 작동하지 않았다.&lt;br&gt;&lt;br&gt;성수동의 문화복합공간 에스팩토리 D동에서 지난 27일 오후 9시 열린 ‘보일러룸 서울 2024′ 공연은 당초 28일 오전 4시에 끝날 예정이었다. 그런데 세계적 음악 프로듀서인 페기 구가 이날 오전 1시쯤 무대에 오르기 직전, 페기 구를 보겠다는 인파가 갑자기 공연장 3층으로 몰리면서 상황이 변하기 시작했다.&lt;br&gt;&lt;br&gt;한 관객은 “이미 공연장에 발 디딜 틈 없이 사람이 들어차 있는데 입구로 계속 사람들이 들어오더라”며 “이태원 참사가 생각이 나서 겁이 났다”고 했다. 1859㎡ 크기 3층 공연장 수용 정원은 1000명이었지만 이미 포화 상태였다. 주최 측이 3층 출입구를 통제했지만 이미 늦은 뒤였다. 페기 구를 보겠다며 1층에서 3층으로 올라온 관객들이 “들여보내 달라”고 아우성을 쳤고 공연장은 순식간에 아비규환으로 변했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PTZDMNC73JDYTB6E5ZM3JCJJ2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 27일 밤 디제잉 공연이 열렸던 서울 성동구 성수동의 에스팩토리. 공장 건물을 개조해 공연장으로 만들었다. /장윤 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;과거 공장으로 쓰던 시설을 개조한 공연장은 창문이 없었고 냉방·환풍 시설도 미비했다. 마치 사우나처럼 변한 공연장에서 일부 관객은 탈진했고, 바닥에 누워 호흡곤란을 호소하는 사람들도 있었다. 이런 상황에서 관객들은 3층 공연장 바깥으로 탈출하려 했다. 하지만 이미 1층에서 진입하려는 관객들을 막기 위해 출입구가 통제된 상황이어서 사실상 갇혀버리고 말았다. 새벽 1시를 전후해 경찰·소방 신고가 쏟아지기 시작했다.&lt;br&gt;&lt;br&gt;“사람이 1만명은 몰린 것 같다” “빨리 와서 통제해달라” 같은 신고 수십여 건에 경찰·소방이 현장에 출동해 인파를 해산시켰다. 현장에 출동한 경찰은 “1층, 계단, 3층 할 것 없이 사람들이 꽉 차 서로 밀리고 있었다”고 했다. 한 소방관은 “이런 공간에서 만약 화재라도 발생했다면 상상하기도 싫은 대형 참사가 날 뻔했다”고 했다 공연장 바깥에도 입장을 기다리는 인파 수백명이 몇 겹으로 줄을 서 있었다.&lt;br&gt;&lt;br&gt;현장에 있었던 직장인 김모(27)씨는 “실내에서 페기 구를 기다리던 관객들이 더위와 탁한 공기에 지쳐 하나둘씩 주저앉기 시작했다”며 “그런 상황에서도 계속 사람들이 밀려들었다”고 했다. 또 다른 관객 이모(31)씨도 “주최 측이 상황을 통제한답시고 일방적으로 출입구를 차단해서 ‘나가게 해달라’는 사람들과 ‘들어가겠다’는 사람이 엉켜 현장이 엉망이었다”고 했다.&lt;br&gt;&lt;br&gt;일부 관객은 “주최 측이 수용 인원보다 표를 많이 팔았다”고 주장했다. 소방은 이날 모인 관객을 4500명가량으로 추산했다. 주최 측은 “1층, 3층 공연장 면적을 다 합치면 대략 4000㎡ 정도라 표 4000장을 판매했고 입장 인원은 3000명이었다”고 했다. 하지만 페기 구를 보기 위해 현장에서 표를 구하려는 관객이 1000명 이상 몰리면서 공연장 일대는 통제 불가능한 상황으로 돌변했다. 관객 항의가 이어지자 주최 측은 전액 환불 방침을 밝혔다.&lt;br&gt;&lt;br&gt;핼러윈 참사 이후 행정안전부가 대통령에게 보고한 업무 계획을 보면, 인파가 몰리는 장소의 유동 인구를 분석해 사고를 막는 ‘현장 인파 관리 시스템’을 구축한다고 돼 있다. 인공지능(AI)으로 유동 인구와 교통 데이터 등을 분석해 위험도를 실시간 감지·전파하겠다는 것이다. 그러나 성수동 사고 당시 경찰·소방·서울시·성동구 등은 현장 관객들의 신고 전까지 사실상 손을 놓고 있었다는 지적이 나온다.&lt;br&gt;&lt;br&gt;성동경찰서 관계자는 “사설 업체가 주최한 공연이라 사전 방지가 어려웠다”고 했다. 성동구도 공연법에 따라 ‘재해 대처 계획서’를 미리 받았지만 “요건이 맞아서 접수를 해줬을 뿐, 개입엔 한계가 있었다”고 했다. 인파가 몰리는 축제·행사는 주최자 유무와 관계없이 지자체가 안전관리 대책을 수립하겠다는 2023년 행안부 발표가 무용지물이 됐다는 지적이 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 선물을 받다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/07/29/IHMVIDSZBVFY7PG4YGV5A6XIHQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/07/29/IHMVIDSZBVFY7PG4YGV5A6XIHQ/</guid>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7HJXVGY7BRH7FD75VTTULIG4EY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>달디달고 달디단~♪... LA 도심서 ‘밤양갱 떼창’</title>
