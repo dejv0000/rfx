@@ -13,6 +13,19 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>﻿밭에 놓인 판자가 ‘화장실’…독거노인은 밤마다 두려움에 떨었다</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/31/YGBRFGIOANBSLCZBGUPDYBI4GM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/31/YGBRFGIOANBSLCZBGUPDYBI4GM/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Jul 2024 22:28:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ZTQZ3PBIZA3BGG4D7WWKPCCVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 무안군 움집에서 살던 이모(79)씨가 사용하던 야외 화장실. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해의 장마는 이전과는 다르다. 넓은 지역에 오랫동안 이어지던 장맛비가 짧은 시간 좁은 지역에 집중되는 ‘스콜성 호우’로 나타나고 있다. 기후 변화는 취약한 계층부터 먼저 덮친다.&lt;br&gt;&lt;br&gt;31일 이랜드 복지재단에 따르면, 전남 무안군에 사는 이모(79)씨는 오랜 시간 움집에서 외롭게 지냈다. 배우자를 잃고, 아들은 독립해 떠난 후 이씨는 시골 마을에서 토끼 등을 키우며 움집 생활을 이어갔다. 타지에서 사는 아들 또한 변변치 못한 생계 탓에 어머니를 모실 수 있는 형편은 되지 못했고, 기초생활보장 수급자로 살아가던 이씨에게 허락된 보금자리는 움집뿐이었다.&lt;br&gt;&lt;br&gt;이씨의 움집은 비닐하우스에 보온 덮개를 덮은 공간이었다. 창문이 없어 햇볕은 들지 않았고, 보일러 시설도 없었다. 화장실은 집 바깥에 떨어져 있었다. 그마저도 판자로 벽을 만들고 천막으로 가리기만 해놓은 상태였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BLBZCQG6NNFTZBKQSSXUJGYUYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이씨가 거주하던 움집. 비닐하우스에 보온 덮개를 덮어 개조했다. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이씨는 매년 여름 폭우와 장마 소식이 예고되면 집이 무너질까 걱정하며 밤잠을 설쳤다. 한겨울에는 추위에 떨어야 했다.&lt;br&gt;&lt;br&gt;읍사무소에서 이씨에게 지속해서 이주를 권고했지만, 다른 곳으로 옮길 경제적 형편이 되지 못했다. 그렇다고 나라에서 주거급여를 받을 수도 없었다. 이씨가 거주하는 움집은 주거 용도가 아닌 농지 용도의 ‘비정형 무허가주택’ 통지를 받았다. 주거급여 기준조차 측정할 수 없는 무허가 주택이기에 정부로부터 지원금을 받을 수 없었다.&lt;br&gt;&lt;br&gt;이씨의 안타까운 사연을 전해 들은 무안군청 사례관리자가 나섰다. 이씨가 안전한 곳으로 이사갈 수 있도록 임대주택을 연계했고, 이씨는 국민임대아파트 추첨에 당첨됐다. 하지만, 입주를 위해 필요한 보증금을 충당할 경제적 여력이 없었다.&lt;br&gt;&lt;br&gt;정부 지원 사각지대에 놓인 이씨를 위해 방법을 모색하던 무안군청 사례관리자는 이랜드복지재단 ‘SOS위고’의 문을 두드렸다. SOS위고는 전국 단위 네트워크로 사각지대 위기 가정을 발굴하고, 상황 접수 후 3일 이내에 신속한 지원으로 일상 회복을 돕는 사업이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5FPEKICV6BATRHXIS4A6V4VNQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이씨가 지난 5월 이사한 국민임대아파트. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이랜드복지재단은 이씨에게 주거비 명목으로 300만원의 보증금을 즉시 지원했다. 이씨는 덕분에 지난 5월 안전한 보금자리로 이사할 수 있었다. 아들과 가까운 곳에 새 보금자리가 생긴 이씨는 왕래가 없었던 아들이 이사와 집 정리를 도와주면서 관계도 가까워졌다며 기뻐했다. 이제는 주거급여 신청 대상 자격도 갖게 돼 주거급여도 받을 수 있게 됐다.&lt;br&gt;&lt;br&gt;이씨는 생전 살아보지 못했던 새로운 보금자리에서 “물이 잘 나온다”며 기뻐했다. 그는 이랜드복지재단에 보낸 감사 편지에서 “밤에 화장실 가기가 무섭고 두려웠는데, 이사한 집은 물이 깨끗하게 잘 나와 언제든지 설거지도 가능해졌다”고 했다. 이어 “아들이 시간 날 때마다 들러주니 마음이 편안하고 든든해 좋다”며 “평생 허름한 곳에서 지내다 이렇게 깨끗하고 환한 곳에서 지내게 도움을 주셔서 정말 고맙고 감사하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/BLBZCQG6NNFTZBKQSSXUJGYUYE.jpg?width=1080&amp;height=810&amp;auth=d1b17d216251bb0e6d7a6a9088ecdacf8f0042ee7277a0eda121396736921c4d&amp;smart=true" type="image/jpeg" height="810" width="1080">
+        <media:description type="plain">이씨가 거주하던 움집. 비닐하우스에 보온 덮개를 덮어 개조했다. /이랜드복지재단</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>극한 기후 맞서 14년 만에 댐 추진... 중단된 치수 사업 재개</title>
       <link>https://www.chosun.com/national/transport-environment/2024/07/31/SRQDDZMNOJD6BIW53JQW6BSONM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/31/SRQDDZMNOJD6BIW53JQW6BSONM/</guid>
@@ -919,15 +932,6 @@
       <description/>
       <pubDate>Mon, 29 Jul 2024 15:50:00 +0000</pubDate>
       <content:encoded>지난 28일 서울 성동구 성수동의 한 공연장에 수천 명이 몰려 행사가 중단된 사고와 관련, 관계기관들이 서로 ‘네 탓’ 공방을 벌이고 있다. 2022년 159명이 사망한 핼러윈 참사 이후 행정안전부는 대통령 업무보고에서 “인파가 몰리는 장소의 유동 인구를 실시간으로 분석해 사고를 막는 ‘현장 인파 관리(크라우드 매니지먼트) 시스템을 구축하겠다”며 지자체(안전 관리 계획 수립), 경찰(위험성 평가)과 협업을 강화하겠다고 했다.&lt;br&gt;&lt;br&gt;행안부는 정부조직법상 안전·재난 상황을 총괄하는 컨트롤타워다. 그러나 행안부 관계자는 29일 본지 통화에서 “자연 재해는 행안부 관할이지만 공연 시설은 문화체육관광부가 1차 대응한다”며 “모든 재난을 행안부가 담당하는 것은 아니다”라고 했다.&lt;br&gt;&lt;br&gt;문체부는 “공연 허가 주체는 성동구라 할 말이 없다”며 “재해 대처 계획 신고서에 미흡한 부분이 있었다면 성동구가 주최 측에 보완 요구를 했어야 했다”고 했다. 현행 공연법상 공연 주체가 관할 지자체에 재해 대처 계획 신고서를 제출해야 하므로 성동구에 책임이 있다는 취지였다.&lt;br&gt;&lt;br&gt;하지만 성동구는 “정부가 최소한의 가이드라인도 제시하지 않고 공연 사전 신고제를 운영하고 있다”며 “공연장 면적에 따라 최소·최대 수용 인원 등을 규정해야 한다”고 했다. 중앙 정부의 책임이 더 크다는 뜻이다. 2023년 업무보고 당시 경찰의 협업 기관으로 지목된 경찰 역시 이번 성수동 사고와 관련, “사전에 지자체(성동구)로부터 통보받은 내용이 없어 경찰 차원에서 알 수 있는 방법이 없었다”고 했다.&lt;br&gt;&lt;br&gt;제2 핼러윈 참사로 번질 뻔한 사고를 두고 관계 기관이 ‘책임 떠넘기기’에 급급하다는 지적이 커졌다. 그러자 행안부는 “성동구가 주최 측이 제출한 재해 대처 계획 신고서를 검토하는 과정에서 문제가 없었는지 확인 중”이라며 “문체부와 협의해 공연시설에 대한 위기관리 매뉴얼을 세분화할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해운대 울리는 해무</title>
-      <link>https://www.chosun.com/national/2024/07/30/BSY73PWXERE6PHOFYEBI3ZEN5E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/07/30/BSY73PWXERE6PHOFYEBI3ZEN5E/</guid>
-      <dc:creator>부산=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Jul 2024 15:50:00 +0000</pubDate>
-      <content:encoded>올여름 부산 해운대 해수욕장에 해무(海霧)가 자주 끼어 피서객들이 울상이다. 해무는 바닷가에 끼는 안개다. 해무가 짙은 날은 안전 때문에 물에 들어갈 수 없는데 올여름은 거의 사흘에 한 번꼴로 ‘해수욕 금지령’이 내려지고 있다.&lt;br&gt;&lt;br&gt;29일 부산 해운대구에 따르면, 해운대구는 지난 1일 해운대 해수욕장이 개장한 이후 전날까지 28일간 해무 때문에 13차례 ‘입욕 통제’ 조치를 했다. 일수로는 8일, 거의 사흘에 한 번꼴이다. 작년에는 여름철 통틀어 총 8차례 입수를 통제했는데 올해는 7월이 채 끝나기도 전에 작년 횟수를 넘은 것이다.&lt;br&gt;&lt;br&gt;해무가 끼면 앞이 잘 보이지 않기 때문에 안전을 위해 바닷물에 들어가는 걸 막는다. 입욕 제한 결정은 현장 안전 요원이 한다. 해운대구 관계자는 “해무가 짙은 날에는 바로 옆에 있는 사람도 형체 정도만 흐릿하게 보인다”며 “안전을 위해 입수 제한 조치가 불가피하다”고 했다.&lt;br&gt;&lt;br&gt;해수욕장 주변 상인들은 “해무가 도깨비 같아 피서객들이 애간장을 태우고 있다”고 했다. 예측이 어렵기 때문이다. 지난 28일에는 오전 9시부터 10시까지 1시간 입수가 통제됐다. 지난 7일과 20일에는 해무가 나타났다 사라졌다를 반복해 하루에 각각 3차례씩 통제 조치가 내려지기도 했다. 지난 6일에는 해무가 짙어 하루 종일 입수가 통제됐다.&lt;br&gt;&lt;br&gt;부산기상청 김영남 예보관은 “올해는 해운대 앞바다의 수온이 예년보다 훨씬 낮았다”며 “그 위로 무더운 공기와 장마전선이 지나가면서 해무가 자주 생긴 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;그러나 해무도 피서객들을 막지는 못했다. 지난 28일까지 해운대 해수욕장을 찾은 피서객은 201만8123명으로 작년 같은 기간(182만256명)보다 10.9% 증가했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>정신과 의사 양재웅, 환자 사망 사과...예비신부 하니도 악플 달려</title>
