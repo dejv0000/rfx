@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>숙명여대, 재표결 안하기로… 문지연 교수 신임 총장 확정</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/30/X3JORAMFMVCMFMWK5RTQPKWGGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/30/X3JORAMFMVCMFMWK5RTQPKWGGQ/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Jul 2024 13:17:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XL3Y5YNHIUGGGSZEXOGQCLNS4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;숙명여대/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 논문 표절 의혹을 검증하겠다는 입장을 밝힌 문시연 숙명여대 프랑스언어·문화학과 교수가 신임 총장으로 30일 확정됐다.&lt;br&gt;&lt;br&gt;학교법인 숙명학원은 이날 3차 정기 이사회를 열고 신임 총장 선출 재표결 관련 안건을 심의한 결과 “재표결 없이 문 교수를 총장으로 선임한 지난 이사회 의결을 따르기로 결정했다”고 밝혔다. 앞서 숙명학원은 지난달 20일 이사회 표결을 통해 제21대 숙명여대 신임 총장으로 문 교수를 선임했다.&lt;br&gt;&lt;br&gt;장윤금 현 총장은 신임 총장 후보였으나 이사회 당일 후보 사퇴 의사를 밝혔다. 이에 따라 전체 8명의 이사 가운데 6명이 단독 후보인 문 교수를 놓고 찬반 투표를 한 결과, 참석 이사 과반수인 4명의 찬성(1명 반대·1명 기권)해 문 교수가 신임 총장으로 선출됐다.&lt;br&gt;&lt;br&gt;당연직 이사 자격을 지닌 장 총장은 투표에 불참했고, 나머지 1명의 이사는 개인 사정을 이유로 참석하지 않았다.&lt;br&gt;&lt;br&gt;숙명여대 관계자는 “이사회 소집 당시부터 ‘필요시 재투표하겠다’는 조건이 있었다”며 “논의 결과 지난번의 의결을 재확인하기로 했다”고 했다.&lt;br&gt;&lt;br&gt;문 교수는 이달 초 총장 후보 정책 토론회에서 김 여사 논문 표절 의혹과 관련해 “지연된 정의는 정의가 아니다”며 “제가 총장이 되면 진상 파악부터 해보고 규정과 절차에 따라 정리하겠다”고 했다. 숙명여대는 2022년 12월 김 여사의 석사학위 논문 표절 의혹 검증을 위한 본조사에 착수했으나 아직 검증 결과를 내놓지 않고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>세종충남대병원 응급실 진료 축소... “전문의 1명 사직 여파”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/07/30/FVPOL5J2Y5F33PSCE6EWKUWAXU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/30/FVPOL5J2Y5F33PSCE6EWKUWAXU/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Jul 2024 13:15:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TGVKYNAKLFD2RL3SMBIEHP3YAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/세종충남대병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세종충남대병원이 8월 한 달간 목요일마다 응급실 진료를 축소한다. 세종시의 유일한 국립대 병원인 세종충남대병원은 정부세종청사와 차로 5분 거리(1.8㎞)에 있어 지역 주민은 물론 공무원들도 자주 이용하는 병원이다.&lt;br&gt;&lt;br&gt;30일 세종충남대병원에 따르면, 이 병원은 다음 달 매주 목요일마다 응급실을 축소 운영한다. 8월 1일과 15일에는 오전 8시부터 24시간 동안 응급실 진료를 중단한다. 8일과 22일, 29일에는 야간(오후 6시~이튿날 오전 8시)에 응급실 문을 닫기로 했다.&lt;br&gt;&lt;br&gt;이 병원 응급의학과에는 12명의 전문의가 근무해 왔다. 그런데 8월에 목요일 당번을 하기로 했던 1명이 최근 사직하면서, 주 7일 24시간 진료 체제를 유지하기가 어려워졌다는 게 병원 측의 설명이다. 병원 관계자는 “응급의학과 전문의 사직으로 인해 한시적으로 제한 진료를 시행하는 것”이라고 했다. 성인 응급실과 별개로 7명의 전문의가 근무 중인 소아 응급실은 24시간 정상 진료한다.&lt;br&gt;&lt;br&gt;한편 31일로 전국 수련 병원들의 하반기 전공의 모집 접수가 마감되는 가운데, 정부는 사직 전공의들에게 재차 복귀를 촉구했다. 다만 기존 발표한 대책 외에 복귀를 유도하기 위한 추가 대책은 고려하지 않고 있다고 선을 그었다.&lt;br&gt;&lt;br&gt;수련 병원들은 지난 22일부터 하반기에 수련을 시작할 전공의 7645명을 모집하고 있다. 접수 마감 시한은 31일인데, 이날까지 지원자는 많지 않은 것으로 알려졌다. 김국일 보건복지부 보건의료정책관은 이날 의사 집단행동 중앙재난안전대책본부 브리핑에서 “수련 기간 단축과 같은 추가 대책은 고려하지 않는 대신, 수련 과정을 마치는 해에 전문의를 딸 수 있도록 전문의 시험 추가를 검토하고 있다”고 했다. 정부는 신상 공개 등 부당한 방법으로 전공의의 복귀를 방해하는 경우에는 수사를 의뢰하는 등 엄중 대처한다는 방침이다.&lt;br&gt;&lt;br&gt;또 김 정책관은 “의대생들이 많이 복귀해서 학업을 이수한다면 추가 의사 국가시험(국시)을 적극적으로 검토할 계획”이라고 했다. 지난 26일 마감된 국시 실기 시험 접수자는 364명이다. 통상 국시 응시 인원인 3200여 명의 11% 수준이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>태백서 태권도 학생 선수 탄 버스 도랑에 빠져... 5명 부상</title>
+      <link>https://www.chosun.com/national/regional/gangwon/2024/07/30/WPLPXGRV4RFIZN3QV2VFDDSHKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2024/07/30/WPLPXGRV4RFIZN3QV2VFDDSHKQ/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Jul 2024 13:04:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ASSJP7T33I6WNYJ2CZO6DETH5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차(기사와 관련 없음) / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도 태백서 버스가 도랑에 빠져 학생 등 모두 5명이 다쳤다.&lt;br&gt;&lt;br&gt;30일 오후 6시 10분쯤 태백시 황지동 한 도로에서 25인승 버스가 도로 옆 도랑에 빠졌다.&lt;br&gt;&lt;br&gt;당시 버스는 태권도 대회장으로 향하고 있었고, 태권도 학생 선수 11명과 인솔 교사 1명 등 모두 13명이 타고 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이날 사고로 학생 4명과 인솔교사 1명이 다쳐 인근 병원으로 옮겨졌지만 큰 부상은 아닌 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부친상 중인데...‘이재명 기소검사’ 고발한 민주당 </title>
+      <link>https://www.chosun.com/national/court_law/2024/07/30/XHC4QVER6ZCN5DH3ROTH3DUNL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/30/XHC4QVER6ZCN5DH3ROTH3DUNL4/</guid>
+      <dc:creator>양은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Jul 2024 10:39:18 +0000</pubDate>
+      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5KITYHYH5VK5ZC52PR277IBBT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 당 대표 후보가 30일 오전 서울 여의도 국회에서 열린 제416회 국회(임시회) 제1차 본회의에서 정성국 당 의원의 한국교육방송공사법 일부개정법률안에 반대하는 필리버스터(무제한토론)가 진행 중인 가운데 김민석 최고위원 후보와 대화하고 있다. 2024.07.30./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 검찰독재정치탄압대책위원회가 ‘쌍방울 대북송금’ 공소장 내용이 사실과 다르다며 이재명 전 대표를 기소한 부장검사를 고발한 가운데 이 부장검사가 부친상을 당해 상중(喪中)인 것으로 30일 알려졌다. 검찰 주변에서는 “당사자가 상을 당해 대응할 여력도 없는 가운데 집단 린치를 당하고 있다” “최소한의 예의가 있다면 있을 수 없는 일” 등의 비판이 쏟아지고 있다.&lt;br&gt;&lt;br&gt;대책위는 이날 오전 기자회견을 열어 “이 전 대표의 공소장을 허위로 작성한 수원지검 서현욱 검사를 고발하며 공수처의 즉각 수사를 촉구한다”고 했다. 대책위는 공소장 내용 중 이 전 대표가 경기지사 시절 ‘국외 출장 결과보고서’에 대해 보고받았다고 한 부분을 문제삼았다. 이는 이화영 당시 부지사가 전결로 처리한 부분이어서 도지사에게 보고된 게 아닌데 검찰이 의도적으로 왜곡했다는 주장이다.&lt;br&gt;&lt;br&gt;앞서 수원지검 형사 6부(부장검사 서현욱)는 지난 6월 12일 이 전 대표를 대북송금 사건과 관련해 외국환거래법 위반 등의 혐의로 불구속기소했다.&lt;br&gt;&lt;br&gt;서 부장검사는 29일 부친이 별세해 30일 현재 상중이다. 이 사실은 29일 오전 검찰 내부망에 공지됐고 조의를 표하는 댓글이 100개 넘게 달렸다.  민주당이 고발 기자회견을 열고 있던 30일 오전에도 충남대병원 장례식장에 빈소가 차려져 있었다. 이원석 검찰총장도 이날 저녁 빈소를 찾았다.&lt;br&gt;&lt;br&gt;업무를 마치고 빈소를 찾은 한 차장검사는 “기소를 했다는 이유로 검사를 고발하는 행태는 진상 민원인들이나 하는 짓”이라며 “게다가 상중에 있는 사람을 고발하는 것은 최소한의 예의가 있다면 있을 수 없는 일”이라고 했다. 한 부장검사는 “민주당이 조금만 주의를 기울였으면 당사자가 상중이라는 사실을 알았을 것”이라며 “당 대표 한 사람을 지키기 위해 공당이 무고(誣告)성 고발을 감행하다 보니 이런 일도 생겼다”고 했다.&lt;br&gt;&lt;br&gt;수원지검은 기자단에 배포한 입장문을 통해 “헌법과 법률은 검사가 기소한 공소사실이 증거와 법리로 증명되는지를 판단하는 절차로 형사재판제도를 두고 있다”며 “재판 절차에 들어가기도 전에 공소사실이 허위라면서 공당이 나서서 기소 검사를 고발하는 것은 사법을 정쟁으로 끌어들여 정상적인 사법절차를 방해하는 것”이라고 비판했다.&lt;br&gt;&lt;br&gt;본지는 민주당 검찰독재정치탄압대책위원회 측에 서 부장검사의 부친상을 인지하고 있었는지 물었지만 답을 듣지 못했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>막 내린 장마, 체감온도 40도 육박</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/07/30/25SUUEM7YJEHZGDYVFHDEQXFIM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/30/25SUUEM7YJEHZGDYVFHDEQXFIM/</guid>
+      <dc:creator>김윤주 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Jul 2024 12:11:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XWJEP76N4BLKBHICFU7QMOOV5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 29일 대구 중구 공평네거리에서 시민들이 지열로 인한 아지랑이가 피어오르는 도로를 지나가고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올여름 전국을 강타했던 장맛비가 지난 27일 끝나고, 본격적인 폭염이 시작됐다.&lt;br&gt;&lt;br&gt;30일 기상청은 “태풍에 의한 기압계 변동성이 사라지고 북태평양 고기압이 빈 자리를 채우면서 정체전선(장마전선)이 북한으로 이동했다”며 “27일을 끝으로 전국 장마가 사실상 종료됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;올해는 예년보다 많은 장맛비가 내렸다. 장마는 제주에서 6월 19일, 남부 지방 6월 22일, 중부 지방 6월 29일부터 시작했다. 장마 기간 전국에 내린 평균 강수량은 472.1㎜로 평년(1991~2020년) 강수량 356.7㎜의 1.3배였다. 대전·충남에선 총 574.1㎜의 비가 내려 평년(353.9㎜)의 1.6배에 달했다.&lt;br&gt;&lt;br&gt;장마가 끝나면서 본격적인 폭염이 시작됐다. 경상권과 동해안에선 30일부터 기온이 35도 이상으로 오르는 불볕더위가 찾아왔다. 앞으로도 기온이 높을 뿐 아니라 습도까지 높아 체감 온도가 40도에 육박하는 무더운 날이 이어지겠다. 밤에도 25도 아래로 기온이 떨어지지 않는 열대야가 전국 대부분 지역에서 당분간 나타날 전망이다.&lt;br&gt;&lt;br&gt;장마는 끝났지만 아직 대기 중에 수증기가 많아 집중 호우가 내릴 가능성은 남아 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>’정당 현수막 난립’ 막은 지자체 조례안...대법서 무효 확정</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/30/OR7OPUVCCNBL3FF2ZO52FSWEXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/30/OR7OPUVCCNBL3FF2ZO52FSWEXE/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Jul 2024 12:09:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UN6CCITF5NKKTPRQRMC4FNMTN4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 여의도 국회 앞에 정당 및 단체들이 내건 현수막이 걸려있는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정당 현수막을 아무 데나 걸 수 없도록 규제하는 지방자치단체의 조례안이 상위법인 옥외광고물법에 어긋나 무효라는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원은 최근 행정안전부가 “정당 현수막의 게시 위치와 내용, 개수 등을 제한한 조례안은 무효”라며 인천·광주·울산·부산시의회를 상대로 낸 소송 4건에서 모두 원고 승소 판결했다고 30일 밝혔다. 조례 무효 확인 소송은 대법원 단심제다.&lt;br&gt;&lt;br&gt;이 사건 조례안은 인천·광주·울산·부산시의회가 정당 현수막의 난립을 막으려 도입한 것이다. 원래 정당들은 지자체의 허가가 있어야 정당 현수막을 설치할 수 있었지만, 옥외광고물법 개정으로 2022년 12월부터 장소 제한 없이 현수막을 15일간 걸 수 있게 됐다. 자유로운 정당 활동을 보장한다는 목적이었지만, 현수막 난립으로 시민들이 불편을 겪었다. 인천시의회는 작년 5월 ‘정당 현수막은 지정 게시대에 게시해야 한다’는 내용이 담긴 조례 개정안을 통과시켰고, 광주·울산·부산시의회도 비슷한 취지로 조례를 바꿨다. 각 지자체는 이 조례에 따라 정당 현수막을 철거했다. 행안부는 인천·광주·울산·부산시에 해당 조례가 옥외광고물법에 위반된다며 재의를 요구했다가 받아들여지지 않자 대법원에 소송을 냈다.&lt;br&gt;&lt;br&gt;대법원은 “정당 현수막의 표시·설치는 정당과 국민의 정치적 기본권과 밀접하게 연관돼 있다”며 “정당 현수막에 대한 규율을 통해 정당 활동의 자유를 제한할 필요성이 있더라도 이는 원칙적으로 국민의 대표인 입법자가 스스로 형식적 법률로써 규정할 사항”이라고 했다. 그러면서 “옥외광고물법 개정 과정 등을 보면 정당 현수막을 전국에 걸쳐 통일적이고 일률적으로 규율하려는 것”이라며 “하위 법령인 조례로서 옥외광고물법보다 정당 현수막의 표시·설치에 대해 엄격하게 규정하는 것은 법 위반”이라고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 시청역 참사 운전자 구속 "도망 염려"</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/30/R7N4BLYAKBEQZBSYRN7MYAUFY4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/30/R7N4BLYAKBEQZBSYRN7MYAUFY4/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Jul 2024 11:41:47 +0000</pubDate>
+      <content:encoded>시청역 역주행 참사를 일으킨 가해 차량 운전자 차모(68)씨가 30일 구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ABEJWU6CLQISKIFLKTI3POR224.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'시청역 역주행 참사' 가해 차량 운전자 차 모씨가 30일 오전 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 김석범 영장전담 부장판사는 이날 차씨에 대한 영장실질심사를 진행한 후 “도망할 염려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;차씨는 이날 오전 영장실질심사에 출석하면서 “돌아가신 분과와 유족들께 대단히 죄송하다”며 거듭 사과했다. 차씨는 ‘신발에 엑셀 자국이 남아 있었는데 어떻게 생각하느냐’는 취재진 질문에 “모르겠다”고 했다. 참사 이후 수도권 한 요양병원에서 입원 치료를 받았던 차씨는 오른쪽 다리를 절며 법정으로 들어갔다.&lt;br&gt;&lt;br&gt;차씨는 지난 1일 오후 9시 26분쯤 제네시스 G80 차량을 몰고 시청역 인근인 서울 소공동 웨스틴 조선호텔 맞은편 일방통행로를 역주행, 9명을 숨지게 하고 7명을 다치게 한 혐의(교통사고처리특례법상 치사)를 받는다.&lt;br&gt;&lt;br&gt;서울 남대문경찰서는 지난 25일 범죄의 중대성과 그간 수사 내용을 종합해 차씨에 대한 구속영장을 신청했다. 경찰 관계자는 구속영장을 신청한 배경에 대해 “피해 규모가 크고 피해 회복이 이뤄지지 않은 점, 차씨가 과실을 인정하지 않았기 때문”이라고 설명했다.&lt;br&gt;&lt;br&gt;앞서 국립과학수사연구원은 차씨의 과실이 빚은 사고 가능성이 크다는 감정 결과를 경찰에 전달했다. 국과수는 정밀 감식·감정을 통해 차씨가 사고 당시 가속페달(액셀)을 90％ 이상 밟았으며 브레이크를 밟은 흔적은 없다는 결론을 내렸었다. 하지만 차씨는 그간 경찰 조사에서 “차량 결함으로 인한 사고”라고 주장한 것으로 알려졌다. 서울중앙지검은 지난 26일 차씨의 구속영장을 법원에 청구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대통령실 ‘尹대통령, 명품가방 신고 안 했다’ 검찰에 회신</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/30/LD5PT6KEQRAM7BNFE7WDQ4VYAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/30/LD5PT6KEQRAM7BNFE7WDQ4VYAI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Jul 2024 11:37:36 +0000</pubDate>
+      <content:encoded>윤석열 대통령의 배우자 김건희 여사가 명품 백을 수수했다는 의혹과 관련해, 대통령실이 검찰에 ‘윤 대통령이 명품 백 수수 사실을 신고하지 않았다’고 회신한 것으로 30일 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YLB32WAKAZJA5JJAJIQF3DTC2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령과 김건희 여사가 8일(현지시각) 북대서양조약기구(NATO·나토) 75주년 정상회의 참석에 앞서 미국 하와이 히캄 공군기지에 도착해 전용기인 공군 1호기에서 내리며 인사하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 대통령실은 최근 서울중앙지검 형사1부(부장 김승호)가 윤 대통령의 신고 여부를 확인하기 위해 보낸 공문에 이 같이 답했다. 검찰은 김 여사의 명품 백 수수가 윤 대통령 직무와 관련성이 있는지 여부 등을 검토해 윤 대통령에게 신고 의무가 있었는지 등을 확인하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 김 여사는 지난 20일 검찰 조사에서 윤 대통령이 김 여사의 명품 가방 수수 사실을 안 시점에 대해 “작년 11월 인터넷매체 서울의소리가 대통령실에 관련 취재를 요청했을 때”라고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;현행 청탁금지법은 공직자가 배우자의 금품 수수 사실을 알았을 경우 ‘소속 기관장’에 지체 없이 서면으로 신고하도록 규정한다. 신고 의무를 이행하지 않으면 3년 이하의 징역 또는 3000만원 이하의 벌금에 처한다.&lt;br&gt;&lt;br&gt;앞서 국민권익위원회는 김 여사의 명품 가방 수수 비위 신고를 ‘위반 사항 없음’으로 종결 처리하면서 대통령과 직무 관련성이 없어 신고 대상이 아니라고 판단했다. 직무 관련성이 있더라도 대통령과 배우자가 받은 금품은 수수 즉시 국가가 소유하는 대통령기록물로 지정돼 신고 의무가 없다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“영상 찍다 옥상서 추락”… ‘사망설’ 래퍼, 알고보니 자작극</title>
       <link>https://www.chosun.com/national/national_general/2024/07/30/OAIP3BHHIRGPPPGVDBDVJTSX44/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/30/OAIP3BHHIRGPPPGVDBDVJTSX44/</guid>
@@ -840,28 +912,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FZU4LRJXWRNCLJWRPIONOMUB7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 서울 강남구 SH공사에 신혼부부를 위한 장기전세주택Ⅱ 관련 안내문이 붙어있다. 기사 내용과 무관한 사진. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이르면 올해 10월부터 2년 내 아이를 출산한 가구에 우선적으로 공공 임대주택이 공급된다. 또 가족 수에 따라 입주할 수 있는 공공 임대주택 면적에 제한을 둔 것도 폐지하기로 했다.&lt;br&gt;&lt;br&gt;저출산고령사회위원회는 29일 오후 ‘제2차 인구 비상 대책 회의’를 열고 지난달 내놓은 ‘저출생 추세 반전을 위한 대책’ 이행 현황을 점검하면서 추가 대책을 발표했다.&lt;br&gt;&lt;br&gt;공공 임대주택은 다자녀 가구를 비롯해 국가유공자, 북한이탈주민, 장애인 등에게 우선 공급된다. 월평균 소득이 기준 중위 소득의 100% 이하인 청년과 신혼부부·한부모가족, 고령자 등도 우선 공급 대상이다.&lt;br&gt;&lt;br&gt;현재는 임대주택 입주를 신청한 우선 공급 대상자들을 놓고 부양가족과 미성년 자녀 수, 청약 저축 납입 횟수 등 다섯 가지 기준으로 점수를 매겨 총점이 높은 순서대로 입주 자격을 준다. 앞으로는 우선 공급 대상자 중 출산한 지 2년이 안 된 가구의 경우 점수와 관계없이 ‘1순위’ 입주 자격을 준다. 출산 가구를 1순위로 입주시키고, 남은 물량을 우선 공급 대상자들에게 점수순으로 공급하는 것이다.&lt;br&gt;&lt;br&gt;가족 구성원 숫자에 따른 ‘면적 칸막이’도 없애기로 했다. 이전에는 1인 가구는 35㎡ 이하, 2인 가구는 26~44㎡, 3인 가구는 36~50㎡ 이하 등으로 입주 가능한 공공주택 규모가 제한돼 있었다. 앞으로는 가족 구성원 숫자에 관계없이 원하는 면적의 공공 임대주택에 입주 신청을 할 수 있게 된다. 정부 관계자는 “가족 숫자에 따라 신혼부부가 작은 규모의 주택에만 입주를 신청할 수 있다는 지적에 따른 것”이라고 했다.&lt;br&gt;&lt;br&gt;새로운 공공 임대주택 공급 기준은 공공주택특별법 시행규칙을 개정해야 시행된다. 국토부 관계자는 “오는 10월 시행을 목표로 개정 작업을 진행하겠다”고 했다.&lt;br&gt;&lt;br&gt;이른바 ‘스드메(스튜디오·드레스·메이크업)’ 등 각종 결혼식 준비 서비스에 대한 제도도 개선한다. 예비 신혼부부들은 ‘스드메’에 대한 정보가 부족해 과도하게 돈을 쓰거나 불필요한 서비스를 구매하는 등 피해가 적지 않았다.&lt;br&gt;&lt;br&gt;공정거래위원회는 주요 결혼 준비 대행사의 약관을 점검하고, 다음 달 직권조사를 실시한다는 방침이다. 또 업계 현황과 소비자 피해 실태를 바탕으로 내년 1분기까지 이른바 ‘웨딩플래너’ 업체의 표준 약관도 만든다는 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>정육점에서 부하 직원 칼부림한 50대 男 구속</title>
-      <link>https://www.chosun.com/national/incident/2024/07/29/XRKNFZC7XZEDNMEBVUKWJUZATE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/29/XRKNFZC7XZEDNMEBVUKWJUZATE/</guid>
-      <dc:creator>안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Jul 2024 11:51:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V52JIITDEVEJIAGQJPT345DA6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지법 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 27일 오후 4시쯤 서울 성동구 행당동의 한 할인마트 정육점에서 부하 직원을 흉기로 찌른 50대 남성 A씨가 구속됐다.&lt;br&gt;&lt;br&gt;서울동부지법 박희근 영장 전담 부장판사는 살인미수 혐의를 받는 A씨에 대해 “도망할 염려가 있다”며 29일 구속영장을 발부했다. A씨는 사건 직후 현행범 체포됐다. 경찰은 28일 A씨에 대한 구속영장을 신청한 상태였다.&lt;br&gt;&lt;br&gt;A씨는 지난 27일 오후 한 할인마트 정육점에서 부하 직원인 40대 B씨가 본인의 지시를 따르지 않고 반말로 항의한다는 이유로 시비가 붙었다가 작업장 내 흉기로 B씨의 복부를 한 차례 찌른 혐의를 받는다. A씨는 경찰 조사 과정에서 “피해자와 평소 사이가 좋지 않았고, 상급자인  지시를 따르지 않아 홧김에 이 같은 일을 벌였다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;피해자 B씨는 사건 직후 병원에 이송됐으며, 현재 1차 수술을 마친 상태다. 경찰 관계자는 “피해자의 상태가 사건 현장에선 위급했다”며 “의사 진단에 따라 시일을 두고 경과를 지켜볼 것”이라고 했다. 경찰은 현장에서 CCTV와 흉기를 확보해 감식 중이다.&lt;br&gt;&lt;br&gt;앞서 A씨는 이날 오후 2시 구속 전 피의자심문(영장실질심사)를 위해 법원에 출석하면서 “피해자에게 할 말이 없느냐”는 취재진 질문에 짤막히 “미안하다”고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/HXS7EKMVUD6ITTJHTOBS2BYUHA.jpg?width=2278&amp;height=1282&amp;auth=5d7e75fe585bae85ca4c57c7d6e8d3b5996907c1faad0cd370955700b33e10f9&amp;smart=true" type="image/jpeg" height="1282" width="2278">
-        <media:description type="plain">서울동부지법 ⓒ News1 이비슬 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>“샤프심 굵기 맞혀야”… 반효진이 명중한 과녁 크기 보니 </title>
-      <link>https://www.chosun.com/national/national_general/2024/07/29/ELSGZNDFMNGZ5K4SRENDKY44YE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/29/ELSGZNDFMNGZ5K4SRENDKY44YE/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Jul 2024 12:15:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HOOVHYZ4PBD5VLYZ36AJTXMJ3Y.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;10m 공기소총 표적지/ 올림픽 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 사격 대표팀 역대 최연소 선수인 반효진(16·대구체고)이 2024 파리올림픽 공기소총 10m 결선에서 29일(한국시각) 금메달을 목에 건 가운데, 그가 맞힌 표적지 크기가 온라인에서 화제가 되고 있다.&lt;br&gt;&lt;br&gt;이 종목은 구경 4.5㎜의 공기소총으로 10m 사거리에서 직경 45.5㎜의 표적을 조준하는 게임이다. 표적지 정중앙 10점짜리 원의 지름은 0.5㎜다. 샤프심이나 연필심 굵기 정도다. 이 점 하나를 10.0부터 10.9로 나눠 명중시켜야 한다. 육안으로는 식별조차 어렵다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/24DAHQKI7FGLXANFGD5CG2EOFA.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;10m 공기소총 표적지와 권총 표적지 비교./ E채널&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반효진이 겨냥한 표적지의 크기를 본 네티즌들은 놀랍다는 반응을 보였다. “10m 거리에서 표적지도 안보일 듯” “이정도면 눈 감고 쏘나 똑같은 거 아닌가” “시력이 얼마나 좋아야 하나” “군대 사격 생각하면 안 되겠네” “진짜 재능의 영역이네” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;특히 사격 선수의 시력이 궁금하다는 반응도 많았다. 2020 도쿄 올림픽에 출전했던 권은지는 시력이 0.1이다. 그는 한 언론 인터뷰에서 “눈이 나빠서 총에 달린 렌즈 없이는 전광판도 안 보인다. 몇 등인지도 모른 채 무념무상으로 쏜다”고 말하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3DLSMLNGKFIA5BP53WNNZDHRKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 24일 프랑스 샤토루 CNTS 사격장에서 2024파리올림픽 사격 대표팀이 훈련 하고 있다. (왼쪽부터) 금지현, 반효진, 최대한, 박하준
-/샤토루(프랑스)=올림픽사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반효진이 이날 획득한 금메달은 펜싱 오상욱, 사격 오예진, 양궁 여자 단체전에 이어 이번 올림픽 한국의 네 번째 금메달이다. 반효진은 한국 사격 역사상 최연소 메달리스트이자 하계 올림픽 대회 통산 100번째 금메달 주인공이라는 기록도 세웠다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VSOCWMALBZJBHDDAO77HMDBVCU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국 사격 대표팀 반효진이 29일(한국시각) 프랑스 샤토루 슈팅 센터에서 열린 2024 파리올림픽 사격 공기소총 10m 여자 시상식에서 금메달을 수여 받은 후 기뻐하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2007년 9월 20일생인 반효진은 만 16세다. 그는 중학교 2학년 때였던 2021년 사격 선수였던 친구 권유로 사격에 입문했다. 그는 3년 만에 국가대표 선발전을 1위로 통과해 올림픽에 출전했다. 전날 열린 공기소총 본선에서 반효진은 60발 합계 634.5점을 쏴 올림픽 신기록을 갈아치우며 전체 1위로 본선을 통과했다.&lt;br&gt;&lt;br&gt;결선에서 총계 251.8점을 기록, 중국의 황 위팅과 동점을 이룬 상황에서 슛 오프까지 가는 접전 끝에 0.1점 차로 금메달을 목에 걸었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>초열대야 나타난 영동... 속초 최저 30.6, 강릉 30.3</title>
       <link>https://www.chosun.com/national/transport-environment/2024/07/29/7NS4EKICLFH7LPRWTWRTF2Y34Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/29/7NS4EKICLFH7LPRWTWRTF2Y34Y/</guid>
@@ -869,64 +919,6 @@
       <description/>
       <pubDate>Mon, 29 Jul 2024 12:02:54 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EUUQ24LJMJNSPCIUBNFM5ZVDPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;속초해수욕장이 야간 개장을 시작한 지난 26일 피서객들이 밤바다를 즐기고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 저녁 6시부터 29일 아침 9시 사이 강원 속초와 강릉에서는 기온이 30도 밑으로 떨어지지 않는 ‘초열대야’가 나타났다. 열대야는 저녁~아침 최저기온이 25도 밑으로 내려가지 않는 것을 뜻한다. 초열대야는 기상청에서 공식 집계하지는 않지만, 열대야보다 극심한 더위를 표현하기 위해 사용하는 개념이다.&lt;br&gt;&lt;br&gt;이날 밤 사이 속초의 최저기온은 30.6도를 기록했다. 강릉도 최저 30.3도를 보였다. 밤새 최저기온이 25도 아래로 내려가지 않으면 너무 더워 잠들기 힘들기 때문에 열대야로 분류된다. 초열대야는 이보다 기온이 최소 5도 높았다는 뜻이다. 8월이 아닌 7월이나 6월에 초열대야가 나타나는 것은 상당히 이례적이다.&lt;br&gt;&lt;br&gt;강원 영동의 초열대야는 밤새 이어지는 ‘바람의 등산’ 때문이다. 따뜻한 남서풍이 태백산맥을 오를 때는 고도가 높아짐에 따라 열을 빼앗기지만, 일단 정상을 넘고 나면 빠른 속도로 하강하면서 뺏긴 열보다 더 많은 열을 흡수한다.&lt;br&gt;&lt;br&gt;한편 올해 6월 1일부터 7월 28일까지 전국 평균 열대야 일수는 7.1일을 기록해 1994년 6~7월(8.6일) 이후 30년 만에 최다를 기록했다. 1994년은 해방 이후 최악의 폭염으로 기록된 해다. 올해는 1994년과 2018년처럼 강하게 발달한 고기압 영향으로 폭염이 나타나고 있다. 서울과 부산 등 전국 곳곳에서 열대야가 당분간 계속 이어질 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>돈 받고 화물 빼돌려… 인천 부두운영사 전 직원 4명 입건</title>
-      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2024/07/29/BAK2ZHIFVVFPNCD4ZNSHAAXR44/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2024/07/29/BAK2ZHIFVVFPNCD4ZNSHAAXR44/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Jul 2024 12:05:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I2QW2RMUJHH2G2UCQ6M5HF5VEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천내항 전경. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 내항 부두 운영업체 전직 직원들이 돈을 받고 벌크화물을 외부로 빼돌려 해경이 수사에 나섰다.&lt;br&gt;&lt;br&gt;중부해양경찰청 광역수사대는 특수절도 혐의로 인천내항부두운영주식회사(IPOC) 전 직원 4명을 불구속 입건했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 IPOC에서 근무하던 지난 3월부터 한 달 동안 내항으로 들어온 벌크화물인 사료 부원료 84t가량을 외부로 빼돌린 혐의를 받는다.&lt;br&gt;&lt;br&gt;해경은 이들이 28t 화물차 3대 분량의 사료 부원료를 빼돌린 것으로 보고 대가로 받은 금품 규모 등을 파악하고 있다.&lt;br&gt;&lt;br&gt;앞서 ‘직원들이 돈을 받고 화물을 빼돌린다’는 의혹이 제기되자 이번에 입건된 4명을 포함해 총 6명의 직원이 집단으로 IPOC에 사직 의사를 밝힌 것으로 알려졌다.&lt;br&gt;&lt;br&gt;당시 해당 의혹을 자체 조사한 IPOC는 이들 6명이 사료 부원료 200여t을 빼돌리고 대가로 2400만원을 받은 것으로 추정했다.&lt;br&gt;&lt;br&gt;IPOC는 인천 내항의 9개 부두운영회사를 통합해 2018년 설립된 회사로 27개 선석과 장치장·창고 등을 운영하고 있다.&lt;br&gt;&lt;br&gt;해경 관계자는 “현재 입건된 피의자 중 일부는 혐의를 인정한 상태”라며 “구체적인 범행 규모와 수법, 추가 피의자에 대해 수사를 벌일 방침이다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/I2QW2RMUJHH2G2UCQ6M5HF5VEU.jpg?width=540&amp;height=318&amp;auth=8dde2f156ebcc3e0fa774e299b359c0245dc1c59113807eae989acafa291c4c8&amp;smart=true" type="image/jpeg" height="318" width="540">
-        <media:description type="plain">인천내항 전경. 130년전의 개항장으로 주변에 개항 당시의 모습을 보여주는 시설물들이 많이 있다.</media:description>
-        <media:credit role="author" scheme="urn:ebu">조선일보 DB</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>LG 트윈스 현직 코치, 강남서 음주측정 거부하다 현행범으로 체포</title>
-      <link>https://www.chosun.com/national/incident/2024/07/29/ORSNC6KDJJH7VOWHPE42EVF2V4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/29/ORSNC6KDJJH7VOWHPE42EVF2V4/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Jul 2024 10:31:41 +0000</pubDate>
-      <content:encoded>술을 마신 채 차를 몰고 음주 측정을 거부한 혐의로 LG 트윈스 현직 코치 30대 A씨가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OZEVR6RLGNF7FPDBUSZLYANVPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;LG 트윈스 로고. /LG 트윈스 공식 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남경찰서에 따르면 A씨는 29일 오전 6시 30분쯤 강남구 삼성동에서 음주운전을 하다 경찰의 음주 측정 요구를 거부한 혐의(도로교통법상 음주측정거부)를 받는다.&lt;br&gt;&lt;br&gt;경찰은 음주운전 의심 신고를 받고 출동해 음주 측정을 요구했으나 A씨가 이를 거부하자 현행범으로 체포했다. A씨는 이후 경찰에 음주 사실을 시인한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘정산 지연’ 티몬·위메프 법원에 기업회생 신청</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/29/4UHVDIEP7ZBLBGBJ4HFMDQ6R7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/29/4UHVDIEP7ZBLBGBJ4HFMDQ6R7E/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Jul 2024 08:53:22 +0000</pubDate>
-      <content:encoded>대규모 판매 대금 지연 사태를 빚은 티몬과 위메프가 기업회생 절차를 밟게 됐다. 두 기업이 회생 절차에 들어가게 되면 거액을 정산받지 못하는 피해자가 생길 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ISCJ5CO52HPHCDNL64GTL4M2BY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 서울 강남구 티몬 신사옥에서 '판매 대금 미정산 사태'로 피해를 입은 소비자들이 환불 현장 접수를 위해 기다리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울회생법원은 29일 티몬과 위메프가 법원에 기업회생을 신청했다고 밝혔다. 기업회생은 재정 위기에 놓인 기업이 법원의 관리·감독 하에 빚의 일정 부분을 갚고 나머지는 탕감받는 제도다.&lt;br&gt;&lt;br&gt;법원이 회생 신청을 받아들이면 보전처분·포괄적 금지명령 신청을 하게 된다. 보전처분이 내려지면 임금·조세 등을 제외한 기존 채무를 상환할 필요가 없어지고, 포괄적 금지명령이 내려지면 모든 채권이 동결된다.&lt;br&gt;&lt;br&gt;이에 따라 티몬·위메프가 기업회생 절차에 들어간다면 판매자들은 당분간 대금을 돌려받을 수 없다. 또 기업이 채무 일부를 탕감받게 되므로, 최종 정산을 받지 못하는 피해자가 나올 수 있다. 만약 회생이 받아들여지지 않아 티몬과 위메프가 파산을 신청한다면 피해자 보상은 더욱 힘들어진다.&lt;br&gt;&lt;br&gt;법원은 두 회사가 제출한 회생 신청서를 검토한 뒤, 공익적 가치가 있는지 등을 판단해 기업회생을 받아들일지 결정하게 된다. 승인 결과는 통상 일주일 내로 나온다.&lt;br&gt;&lt;br&gt;이른바 ‘티메프’라고 불리는 두 회사의 정산 지연 사태는 지난 7일 위메프가 5월 판매자 대금을 제때 정산하지 못하면서 시작됐다. 정부는 이날 기준 두 회사의 미정산 금액을 2100억 여원으로 추산했다. 대규모 할인 행사로 판매가 늘었던 6~7월의 미정산 금액을 합치면, 피해 규모가 최대 1조원 이상으로 커질 수 있다는 전망이 나온다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] '티메프 사태' 구영배, 출국금지</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/29/CLIXZNKI45C6RFBO4S32KLPK3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/29/CLIXZNKI45C6RFBO4S32KLPK3Y/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Jul 2024 09:24:25 +0000</pubDate>
-      <content:encoded>이른바 ‘티메프 사태’로 불리는 티몬‧위메프 정산 지연 사태와 관련해, 구영배 큐텐 대표의 출국이 금지된 것으로 29일 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T64DEOME2HV72YNWAZJWUEYM54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구영배 큐텐 대표. /큐텐 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 법무부는 이날 구 대표에 대한 출국금지 요청을 수사기관으로부터 받아 출국금지 조치를 내린 것으로 전해졌다. 법무부는 구 대표의 출국을 막을 필요성이 인정된다고 보고 이같은 조치를 한 것으로 알려졌다. 티몬·위메프의 모회사인 큐텐그룹은 G마켓 창업자 출신인 구 대표가 싱가포르에 설립한 한국계 전자상거래 회사다.&lt;br&gt;&lt;br&gt;검경은 이날 구 대표에 대한 수사에 본격 착수했다. 이원석 검찰총장은 서울중앙지검 반부패수사1부(부장 이준동)에 전담수사팀을 꾸려 신속하게 수사할 것을 긴급지시했다. 서울중앙지검은 이준동 반부패1부장을 포함한 검사 7명으로 전담수사팀을 꾸리고 본격 수사에 착수한다고 밝혔다. 서울중앙지검 관계자는 “신속하고 엄정하게 수사를 진행할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 이날 오후 2시 피해자들로부터 구 대표에 대한 고소‧고발장을 접수해 수사1과에 사건을 배당했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>토마토부터 뗏목, 맥주까지…강원의 여름은 즐겁다</title>
-      <link>https://www.chosun.com/national/regional/2024/07/29/FLN5I5WK2ZE3HN5F7Z54TE76RA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/29/FLN5I5WK2ZE3HN5F7Z54TE76RA/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Jul 2024 08:27:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QHH7QUTRY5E5DLHHUQJJDRN7W4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;동강뗏목축제 중 뗏목 재현 행사 모습. /영월군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도 여름 축제가 잇따라 열린다.&lt;br&gt;&lt;br&gt;강원 영월군은 다음 달 2일부터 4일까지 동강 둔치 일원에서 동강뗏목축제를 개최한다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;동강은 정선 가수리에서 영월 하송리까지 51km를 흐르는 강이다. 이후 남한강과 합류돼 한강까지 흐른다. 조선시대 당시 정선과 영월의 질 좋은 소나무는 뗏목으로 만들어져 동강을 따라 한양으로 옮겨졌다. 1867년 경복궁을 중건할 당시에도 영월의 소나무가 뗏목으로 만들어져 한양으로 운반됐다.&lt;br&gt;&lt;br&gt;이번 축제는 ‘스물여섯 번의 물결, 동강에서 만나다’를 주제로 펼쳐진다. 특히 축제 첫날인 2일엔 전통방식으로 만든 뗏목에 떼꾼이 올라 한양으로 나무를 실어 나르던 모습이 재현된다. 축제 기간 카누를 빌려 타고 동강을 노닐 수도 있으며, 메밀부꾸미와 메밀전 등 영월의 토속 음식도 맛볼 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W6MHMKQA4NCGDLYSPKZI6SKHD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2019년 열린 화천 토마토축제에 참가한 관광객들이 토마토 풀장으로 뛰어들고 있다. /화천군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 다음 달 1일부터 4일까지 강원 화천군 사내면 사창리 문화마을 일원에선 2024 화천 토마토 축제가 열린다.&lt;br&gt;&lt;br&gt;올해 20회째를 맞은 화천 토마토 축제는 공연존·이벤트존·워터존·체험존·마켓존·밀리터리존 등 6개 주제별로 40여개 프로그램이 펼쳐진다.&lt;br&gt;&lt;br&gt;축제의 하이라이트는 토마토 속에 숨겨진 금반지를 찾는 ‘황금 반지를 찾아라’ 프로그램이다. 대형 토마토 풀장에 수백명의 관광객이 한꺼번에 들어가 토마토 속 숨겨진 금반지를 찾는다. 축제 기간 7차례 진행되며 32돈의 금반지가 축제에 사용된다.&lt;br&gt;&lt;br&gt;무더위를 식혀줄 워터존엔 슬라이딩 수영장과 물총 놀이터가 설치된다. 얼음 족욕도 즐길 수 있다. 축제장에선 신선한 토마토도 싼값에 살 수 있으며, 탱크와 장갑차 등 대형 군 장비도 관람할 수 있다.&lt;br&gt;&lt;br&gt;강원도 홍천에선 오는 31일부터 다음달 4일까지 제8회 홍천강 별빛음악 맥주 축제가 열린다.&lt;br&gt;&lt;br&gt;홍천은 국내 최대 규모의 맥주 공장과 다양한 맥주 양조장이 자리해 있다. 축제 첫날인 31일엔 홍천읍 꽃뫼공원 대로변, 다음 달 1일부터 4일까진 도시산림공원 토리숲에서 축제가 열린다. 축제기간 지역 맥주 양조장에서 만든 수제 맥주와 맥주 공장에서 갓 출고한 생맥주를 맛볼 수 있다. 전국 별빛 가요제와 DJ쇼 등도 펼쳐진다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고시원 책상에 현금 10만원, “청소 부탁” 메모...‘한강 아령 묶인 시신’ 60대 남성</title>
-      <link>https://www.chosun.com/national/incident/2024/07/29/4CSWEFCWB5FGFDX36JZQ5BQDKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/29/4CSWEFCWB5FGFDX36JZQ5BQDKY/</guid>
-      <dc:creator>고양=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Jul 2024 08:23:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IPWPCNFWCOCMOCVK4APWT4WVD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;팔에 5kg 아령이 묶인 모습으로 한강에서 숨진 채 발견된 발견된 남성이 스스로 극단적 선택을 한 것으로 추정되는 메모가 생전에 지내던 고시원에서 발견됐다.&lt;br&gt;&lt;br&gt;29일 경기 고양경찰서에 따르면 지난 28일 오후 1시쯤 고양시 덕양구 행주나루터 인근 선착장 근처에서 숨진 채 발견된 60대 남성 A씨는 서울 성동구의 한 고시원에서 혼자 지내온 것으로 확인됐다.&lt;br&gt;&lt;br&gt;A씨가 거주했던 고시원 방 책상 위에는 현금 10만원과 ‘청소를 잘 부탁한다’는 내용의 메모가 놓여 있었다. ‘몸이 너무 아파서 살고 싶지 않다’는 내용의 메모도 발견된 것으로 전해졌다. A씨는 평소 가족이나 친지와 교류 없이 고시원에서 혼자 살아온 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 신원을 파악하고 유족을 찾는 한편, 사인을 규명하기 위해 30일 국립과학수사연구원에 A씨 시신 부검을 의뢰할 예정이다.&lt;br&gt;&lt;br&gt;※ 우울감 등 말하기 어려운 고민이 있거나 주변에 이런 어려움을 겪는 가족ㆍ지인이 있을 경우 자살예방 상담전화 ☎109에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>1년에 30억 어치 ‘따릉이’ 폐기된다</title>
