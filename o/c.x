@@ -13,6 +13,96 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>김홍걸, DJ 동교동 자택 이달 초 매각 … “거액 상속세 때문”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/30/ZX7HB4A4NJGFNILQBWHAAPRPLU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/30/ZX7HB4A4NJGFNILQBWHAAPRPLU/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Jul 2024 05:03:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3LZG2YWDZHE6PV5L325ABOXUIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고 김대중 전 대통령이 머물던 동교동 자택 모습. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고(故) 김대중 전 대통령의 셋째 아들인 김홍걸 전 더불어민주당 의원이 서울 마포구 동교동 자택을 100억 원에 매각했다.&lt;br&gt;&lt;br&gt;30일 본지가 동교동 자택의 등기부등본을 분석한 결과, 김 전 의원은 이달 2일 해당 자택의 소유권을 박모 씨 등 3명에게 이전한 것으로 드러났다. 토지와 주택을 포함한 거래 가액은 100억 원이었다.&lt;br&gt;&lt;br&gt;동교동 자택는 김 전 대통령이 정치 인생의 대부분을 보낸 곳으로, ‘동교동계’라는 말도 이곳에서 나왔다.&lt;br&gt;&lt;br&gt;자택 소유자였던 김 전 의원은 언론 통화에서 “거액의 상속세 문제로 세무서의 독촉을 받아 어쩔 수 없이 작년에 매각을 결정했다”며 “어디까지나 사적인 일”이라고 설명했다.&lt;br&gt;&lt;br&gt;김 전 대통령은 5·16 쿠데타가 일어난 1961년 이곳에 입주한 뒤 미국 망명, 영국 유학 시기 및 약 2년간의 일산 사저 생활 시기를 제외하고는 2009년 8월 타계할 때까지 줄곧 이곳에서 지냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“택시 타게 3만원만” 스님 사칭해 사찰서 난동 부린 60대</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/30/R5W7GVCLHVCEDL25Q3IZFEJQ7Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/30/R5W7GVCLHVCEDL25Q3IZFEJQ7Q/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Jul 2024 04:49:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/47XNV2ZG5FBTTD7FJCOOM4N6JM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;승려 행세를 하며 사찰에서 택시비를 요구하며 난동을 피운 60대 남성이 검찰 조사를 받게 됐다.&lt;br&gt;&lt;br&gt;경기 남양주북부경찰서는 업무방해 혐의로 60대 남성 A씨를 검찰에 불구속 송치했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 23일 오후 2시쯤 남양주시 별내동의 한 절에 방문해 스스로를 “경남 양산에 있는 절의 스님”이라며 사찰 관계자에게 택시비를 달라고 했다.&lt;br&gt;&lt;br&gt;A씨는 민머리에 승려복 차림이었고 사찰 관계자는 그가 스님이라고 믿고 택시비 3만원을 주고선 돌려보냈다.&lt;br&gt;&lt;br&gt;그런데 A씨는 같은 날 다시 사찰에 방문해 또 돈을 요구했다. 사찰 관계자들이 거부하자 “총무 스님을 죽이겠다”며 난동을 피운 것으로 전해졌다.&lt;br&gt;&lt;br&gt;신고받고 출동한 경찰은 신원을 확인했는데, A씨는 승적과 법명이 없는 무직 남성인 것으로 드러났다. 조사 과정에서 A씨는 자신을 계속해서 스님이라고 주장하며 횡설수설했는데, 경찰 확인 결과 A씨는 과거 정신 문제로 입원했던 병력이 있었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 술도 안 마셨는데 횡설수설하는 등 정신 상태가 좋지 않은 점을 확인해 관내 정신병원에 행정입원을 시켰다”며 “범행 증거 등은 확실하게 확보가 돼 사건을 검찰에 송치했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 정부, 14년 만에 다목적댐 추진…신규 댐 후보지 14곳 발표</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/07/30/TWFZ5WJNC5FODCQE2DQXJ4KF4Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/30/TWFZ5WJNC5FODCQE2DQXJ4KF4Q/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Jul 2024 05:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YLUTA2DBCFFRPEAV6QRCCZOBYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;다목적 댐 가운데 유역면적·용수공급 능력 1위인 충주댐 전경. /충북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 다목적댐 건설이 14년 만에 추진된다. 기후변화로 극단적 가뭄과 홍수가 빈발하면서 ‘물 그릇’을 확보한다는 취지다. 2018년 문재인 정부의 ‘국가주도 댐 중단 선언’을 뒤집고 6년 만에 정부 주도의 치수(治水) 대책이 실시되는 것이다.&lt;br&gt;&lt;br&gt;환경부는 신규 댐 후보지 14곳을 30일 발표했다. 이번에 추진되는 댐은 ‘기후대응댐’이라는 이름이 붙는다. 다목적댐 3곳, 홍수조절댐 7곳, 용수전용댐 4곳이다. 권역별로는 한강 권역 4곳, 낙동강 권역 6곳, 금강 권역 1곳, 영산강·섬진강 권역 3곳이다.&lt;br&gt;&lt;br&gt;다목적댐은 한강 권역에 2곳, 금강 권역에 1곳이 만들어진다. 한강 권역에는 강원 양구와 경기 연천에 각각 다목적댐인 ‘수입천댐’(1억t), ‘아미천댐’(4500만t)이 예정됐다. 이번 댐 추진 계획에서 가장 규모가 큰 수입천댐은 완공시 하루 70만명이 마실 수 있는 물을 공급할 수 있다. 민간인 출입 통제선과 DMZ 사이에 위치해있어 수몰되는 민간 가옥이 한 채도 없다. 상수원 보호구역 등 규제도 해당하지 않는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FNCDQDP2TJCHLJ7F275XUCLSRY.png"&gt;&lt;figcaption&gt;&lt;small&gt;신규 댐 후보지. /환경부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금강 권역엔 충남 청양군에 지천댐(5900만t)이 예정됐다. 지천은 상습적 가뭄·홍수가 발생하는 곳으로 올 장마철에도 또 홍수가 발생하면서 3년 연속 물난리가 났다. 지천댐이 건설되면 충남 서부 지역의 고질적 가뭄을 해소할 수 있고, 하루 38만명에게 먹는 물을 공급할 수 있게 된다.&lt;br&gt;&lt;br&gt;다목적댐 추진은 2010년 착공한 보현산댐 이후 14년 만이다.&lt;br&gt;&lt;br&gt;용수전용댐 4곳은 한강 권역 2곳, 낙동강 1곳, 섬진강 1곳으로 각각 결정됐다. 한강 권역은 강원 삼척 산기천댐(100만t), 충북 단양 단양천댐(2600만t)이 추진된다. 낙동강은 경북 청도 운문천댐(660만t), 섬진강은 전남 화순 동복천댐(3100만t)이 예정됐다.&lt;br&gt;&lt;br&gt;홍수조절댐 7곳은 낙동강 권역 5곳, 섬진강 1곳, 영산강 1곳에 추진된다. 낙동강 권역에선 경북 김천 감천댐(1600만t), 경북 예천 용두천댐(160만t)이 새로 지어진다. 경남 거제 고현천댐, 경남 의령 가례천댐, 울산 울주 회야강댐은 기존 댐을 리모델링한다. 섬진강·영산강 권역인 전남 순천 옥천댐과 전남 강진 병영천댐도 기존 댐을 재개발하기로 했다.&lt;br&gt;&lt;br&gt;이번 댐 추진으로 총 저수용량은 3억2000만t 늘어나고, 생활·공업용수 용량은 연간 2억5000만t이 늘어나게 된다. 2억5000만t은 220만명이 사용할 수 있는 규모다.&lt;br&gt;&lt;br&gt;신규 댐 추진은 용인 반도체 클러스터 등 늘어나는 첨단산업 물 수요를 확보하는 의미도 있다. 수도권 용수 공급을 담당하는 소양강댐·충주댐은 용량의 94%를 이미 사용하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“밥보다 탁구가 좋아”…‘꼬마 신동’ 신유빈 과거 방송 재조명</title>
+      <link>https://www.chosun.com/national/people/2024/07/30/67ONP26VXRDXVFCWDSBF4B4OF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/07/30/67ONP26VXRDXVFCWDSBF4B4OF4/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Jul 2024 04:55:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q4J2RNI6A5C4BJXDRPY6QMDZGY.png"&gt;&lt;figcaption&gt;&lt;small&gt;2009년 SBS 예능프로그램 ‘놀라운 대회 스타킹’에 출연한 신유빈 선수의 모습. /SBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2024 파리올림픽에서 뛰어난 실력을 보여주고 있는 대한민국 탁구 대표팀 신유빈(20·대한항공) 선수의 과거 방송 출연 모습이 또 다시 화제가 되고 있다.&lt;br&gt;&lt;br&gt;30일 여러 온라인커뮤니티와 소셜미디어(SNS)에는 신유빈이 만 5세였던 2009년 SBS 예능프로그램 ‘놀라운 대회 스타킹’에 출연한 모습을 담은 사진이 공유됐다.&lt;br&gt;&lt;br&gt;당시 신유빈은 ‘꼬마 현정화’라는 이름표를 달고 탁구신동으로 출연했다. 탁구대 네트를 조금 넘는 작은 키였던 신유빈은 양손에 탁구채와 아이스크림을 들고 등장했다. 그는 “밥이랑 친구들보다 탁구가 좋다”며 탁구에 대한 애정을 드러냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UWFEKUX2ENFJVFZHOSHAV7SVCE.png"&gt;&lt;figcaption&gt;&lt;small&gt;2009년 SBS 예능프로그램 ‘놀라운 대회 스타킹’에 출연한 신유빈 선수의 모습. /SBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신유빈은 당시 방송에 패널로 출연했던 1988 서울올림픽 금메달리스트인 ‘탁구 여제’ 현정화와 랠리를 펼치기도 했다. 현정화는 “이대로만 잘 한다면 유빈이가 우리나라를 빛낼 선수로 자랄 것 같다”고 했다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “너무 귀엽다” “작은 아기가 이렇게 커서 국가대표가 됐다는 게 너무 대단하다” “탁구 신동이 이렇게 잘 크다니. 기특하다” 등 반응을 보였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TXTCIKLAZVD2RIVVQJQ4WBBO3Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;2009년 SBS 예능프로그램 ‘놀라운 대회 스타킹’에 출연한 신유빈 선수의 모습. /SBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신유빈과 임종훈(한국거래소)은 30일(한국시각) 프랑스 파리의 사우스 파리 아레나4에서 열린 2024 파리 올림픽 탁구 혼합복식 준결승전에서 중국 왕추친-쑨잉사 조에 패했다. 두 사람은 “잘 싸웠어도 진 건, 진 것”이라고 패배를 인정하면서도 동메달 결정전에서 최선을 다해 싸우겠다는 의지를 보였다.&lt;br&gt;&lt;br&gt;두 사람은 이날 오후 8시30분 웡춘팅-두호이켐 조(4위·홍콩)와 동메달을 놓고 겨룬다. 두 사람이 동메달을 목에 걸게 되면 한국 탁구는 2012년 런던 대회(남자 단체전 은메달) 이후 12년 만에 올림픽 메달을 추가한다.&lt;br&gt;&lt;br&gt;신유빈은 “오늘 경기 결과는 아쉽지만, 이미 결과가 나왔다”며 “메달 획득이 걸린 중요한 경기가 남았으니, 그 경기를 잘 준비하겠다”고 했다. 이어 “홍콩 선수들은 큰 무대에 자주 선 경험 많은 선수들이다. 착실하게 준비하고, 도전한다는 마음으로 경기를 치르겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 아파트 일본도 살인사건 희생자, 9·4세 두 아들 둔 40대 아빠</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/30/A5T3R2EMTBAXZJKQV4SQQ6DZJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/30/A5T3R2EMTBAXZJKQV4SQQ6DZJQ/</guid>
+      <dc:creator>구동완 기자, 고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Jul 2024 04:51:34 +0000</pubDate>
+      <content:encoded>“잠깐 담배 피우러 내려온 애를 칼로 찔렀어요. 온 몸을 칼로 수차례 찔러서. 이게 도저히 사람이 할 짓입니까?”&lt;br&gt;&lt;br&gt;지난 29일 밤 서울 은평구에서 벌어진 살인 사건 피의자에게 아들을 잃은 아버지는 30일 오후 본지를 만나 이렇게 말했다. 희생자 김모(43)씨는 아들 둘을 두고 서울의 한 기업에 재직 중이던 가장이었다.&lt;br&gt;&lt;br&gt;김씨는 지난 29일 오후 11시 24분쯤 은평구의 아파트 정문에서 같은 아파트 주민 A(37)씨가 휘두른 일본도(日本刀)에 맞아 참변을 당했다. 김씨는 피의자 A씨와 일면식도 없었고, 잠깐 담배를 피우러 집 밖으로 나왔다가 이 같은 일을 당했다. 장례식장에서 만난 어머니는 “우리 아들 너무 착했어요. 열심히 살았는데, 정말 억울합니다”라며 영정 앞에서 오열했다.&lt;br&gt;&lt;br&gt;한 유족은 “김씨는 평소 직장과 집밖에 몰랐던 사람”이라고 했다. 큰아들은 초등학교 3학년, 작은아들은 4살이라고 한다. 김씨는 A씨가 휘두른 일본도에 이마, 복부, 팔 부위에 부상을 입었고 병원으로 옮겨졌으나 숨졌다.&lt;br&gt;&lt;br&gt;이웃 주민들은 피의자가 대기업에 다니던 착실한 사람이었는데 지난달 상사와 문제가 생겨 불미스럽게 퇴사하면서 성격이 이상해졌다고 했다. 혼자 소리를 지르거나 욕을 했고, 일본도를 들고 나와 놀이터 아이들에게 ‘칼싸움을 하자’고 말을 걸기도 했다고도 말했다.&lt;br&gt;&lt;br&gt;최근엔 아파트 시설에서도 고성을 지르거나 큰 소리로 욕을 하고 다녀 경찰이 출동했던 것으로 알려졌다. 그는 경찰 조사 과정에서 따로 복용 중인 약은 없다고 경찰에 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “의료기관에 협조를 요청해 A씨의 약 처방 이력 등을 확인할 예정이며, 필요하다면 정신감정 또한 의뢰할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>감리업체 제안서 속 ‘상상e상’ 문구...블라인드 심사 피할 표식이었다</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/30/ONCZ5OR57RA73LRGGJGNER73MA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/30/ONCZ5OR57RA73LRGGJGNER73MA/</guid>
+      <dc:creator>유종헌 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Jul 2024 05:00:00 +0000</pubDate>
+      <content:encoded>검찰이 한국토지주택공사(LH) 등이 발주한 건설사업 감리 입찰에서 감리 업체들이 담합을 하고 심사위원에 거액의 금품을 제공한 사건을 수사해 총 68명을 기소하고, 뇌물 합계 6억5000만원 상당에 대한 추징보전 조치를 했다. 검찰은 감리 업체로부터 뒷돈을 받은 심사위원이 가족에게 “일해서 돈 버는 시대는 지났다”면서 “죽어라고 심사해서 돈 벌자”고 하기도 했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LU3PV4S6Y5CKBFKGIQ2WVJRQ3I.png"&gt;&lt;figcaption&gt;&lt;small&gt;감리업체 사무실 금고에서 발견된 각종 상품권 사진. /서울중앙지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공정거래조사부(부장 김용식)는 전국 각지에 소재한 공공·임대아파트 및 병원, 경찰서 등 주요 공공건물의 감리 입찰 담합을 수사한 결과, 2019년 10월~2023년 2월 사이 94회에 걸쳐 5740억원 규모의 낙찰 담합을 한 법인 17개사와 개인 19명을 공정거래법 위반 등 혐의로 기소했다고 30일 밝혔다. 검찰은 또 2020~2022년 교수, 공무원 등 입찰 심사위원들이 감리 업체로부터 금품을 수수한 행위에 대해 심사위원 18명, 감리업체 임직원 20명을 특가법상 뇌물 등 혐의로 기소했다.&lt;br&gt;&lt;br&gt;검찰에 따르면, 감리업체들은 심사위원들을 대상으로 4단계에 걸쳐 조직적이고 체계적인 로비 영업을 한 것으로 조사됐다. 이들은 특히 블라인드 평가 시스템을 무력화하기 위해 업체별로 ‘상상e상’ ‘Focus’ ‘불만제로’ ‘드림’ 같은 표식을 정해놓고, 제안서에 이 문구를 집어넣은 뒤 심사위원에게 표식을 알려주기도 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K7OHAJKNRJG5FAIQEVRFDLFWMM.png"&gt;&lt;figcaption&gt;&lt;small&gt;감리업체들은 업체별로 '상상e상' 등의 표식을 정하고, 제안서에 해당 문구를 넣는 방식으로 블라인드 평가를 무력화시킨 것으로 조사됐다. /서울중앙지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들은 평상시에도 심사위원 명단 기준으로 지연, 학연, 근무연 등을 고려해 영업을 배분하고, 경조사 챙기기, 상품권 제공, 술, 골프 접대 등 금품·향응을 제공해왔다고 한다. 또 사업별 심사위원 선정 당일 전국에 지역 단위로 영업 사원을 배치하고, 선정된 심사위원에게 텔레그램·공중전화 등으로 연락해 ‘우리에게 최고점수를 주고 경쟁업체에 최하위 점수를 주라’는 청탁을 전달했다. 이 과정에서 결과 발표 전임에도 사전에 금품을 전달하는 ‘선배팅’도 이뤄졌다고 한다.&lt;br&gt;&lt;br&gt;이들은 심사 결과가 나오면 결과에 따라 심사위원에게 약속된 금품을 지급했는데, 이 돈은 컨소시엄에 참여한 업체별 지분 비율에 따라 현금으로 정산했다. 업체들은 보통 1등 점수를 준 심사위원에게 3000만원, 경쟁업체에 ‘폭탄(최하점)’을 준 심사윙원에게 2000만원을 지급한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;한편 주요 감리업체들은 LH 등 공공기관 발주 물량을 ‘나눠갖기’로 합의하고, 돌아가며 낙찰업체를 지정하고 서로 들러리를 서주기도 했다. 그 결과 2020년 LH의 연간발주계획 중 약 70%를 담합에 관여한 감리업체들이 나눠가졌다고 한다.&lt;br&gt;&lt;br&gt;감리업체들은 심사위원 매수와 담합 사실을 숨기기 위해 텔레그램 등 증거인멸이 쉬운 메신저 앱을 사용했다. ‘정산표’ 등 범행 관련 문건은 즉시 폐기하고, 심사위원 대상 ‘인사비’는 반드시 직접 만나 현금으로만 제공했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XB4KB5VZBNES3FFOVRDRLJ7AQA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;심사위원 중 한 교수는 현금을 쓰레기 봉투에 넣어 자신의 연구실에 보관했다./서울중앙지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;담합에 참여한 일부 심사위원들은 업체끼리 경쟁을 붙여 더 높은 금액을 제시하게 하는 ‘레이스’, 경쟁업체에 꼴찌 점수를 주고 웃돈을 받는 ‘폭탄’, 여러 업체로부터 동시에 돈을 받는 ‘양손잡이’ 등 각종 방법을 동원해 부정한 돈을 받아온 것으로 밝혀졌다. 한 심사위원은 아내에게 보낸 메시지에서 “이제 일해서 돈 버는 시대는 지났다. 앞으로 (정년) 9년 8개월 남았는데 죽어라고 심사하고 돈 벌어야지요~”라는 카카오톡 메시지를 보낸 것으로 조사됐다. 다른 심사위원은 청탁을 위해 심사 당일 찾아온 업체 영업담당자에게 자택에서 심사 장소까지 왕복 거리를 차량으로 태워달라고 요구했다고 한다.&lt;br&gt;&lt;br&gt;이 사건은 한 감리업체가 2022년 12월 검찰에 카르텔 형벌감면제도(리니언시 제도)를 신청하면서 불거졌다. 사건을 배당받은 서울중앙지검 공정거래조사부는 지난해 8월 첫 압수수색을 시작으로 총 7차례에 걸쳐 감리 업체 등에 대한 압수 수색을 진행하고, 통화 녹음 파일 1만2000개를 분석했다. 그 결과 담합과 관련된 핵심 증거를 파악해 구조적 비리를 규명했다고 한다. 검찰은 또 이달 초 국토교통부, 조달청, LH 관계자들과 유관기관 협의회를 열어 현행 종합심사 낙찰제도의 문제점을 공유하고 개선방안을 협의하기도 했다.&lt;br&gt;&lt;br&gt;서울중앙지검은 “범죄자들로 하여금 부당한 공동행위, 금품수수 관행의 결과가 ‘이득이 아닌 철저한 손해’라는 것을 인식시키겠다”면서 “공정위와의 시너지 효과를 극대화해 카르텔 범죄에 대해 상시 감시하고 엄단할 수 있는 시스템을 확립하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘건설 현장 공갈’ 한국노총 산하 노조 전직 간부들 2심도 징역형</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/30/OV6YSIMFQJEVRMIAKDIQC45SDY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/30/OV6YSIMFQJEVRMIAKDIQC45SDY/</guid>
+      <dc:creator>송원형 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Jul 2024 03:34:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CIBEX7JCRRGTHGAQBH3AUMRDQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;건설 노조 일러스트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건설 현장에서 공사를 방해하겠다고 협박해 1억여원을 뜯어낸 전 한국노총 산하 노조 간부들이 2심에서도 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사항소1-2부(재판장 안희길)는 폭력행위 등 처벌법 위반(공동공갈) 혐의 등으로 기소된 한국노총 전국건설연대노동조합 전 위원장 서모(59)씨의 항소심에서 징역 3년에 집행유예 5년을 선고했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;서씨와 함께 기소된 이모(45)씨 등 노조 전 간부 3명은 징역 2년에 집행유예 3년을 선고받았다. 나머지 전직 노조 간부 6명에게는 징역 10개월∼1년 6개월의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;재판부는 “노조의 지위를 이용해 철근콘크리트 시공업체들을 협박해 장기간에 걸쳐 다액의 돈을 갈취해 범행 방법이 불량하다”면서도 “피해자들과 합의했거나 피해액 상당을 공탁한 점, 조합을 해산했거나 탈퇴해 재범하지 않을 것으로 보이는 점 등을 고려했다”고 밝혔다. 재판부는 형이 가볍다는 검찰의 항소에 대해 “재량의 합리적인 범위를 벗어났다고 보기 어렵다”며 1심과 같은 형량을 유지했다.&lt;br&gt;&lt;br&gt;서씨 등은 2021년 2월부터 2022년 10월까지 22차례에 걸쳐 수도권 건설 현장에 찾아가 “우리 노조원을 채용하거나 채용이 힘들다면 전임비를 달라. 그렇지 않으면 현장 앞에서 집회를 하거나 각종 민원·진정·고발을 접수하겠다”고 협박해 1억3200여만원을 뜯어낸 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>중국發 저염분수 제주 해역으로 밀려드나...소라·홍해삼 폐사  ‘비상’</title>
+      <link>https://www.chosun.com/national/regional/2024/07/30/4FKUFXLPA5HKNLQDCXJ6MCC43E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/07/30/4FKUFXLPA5HKNLQDCXJ6MCC43E/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Jul 2024 04:41:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ITV5LDRQMRNQPOFDY6NIK4BZ7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 오전 제주시 애월읍 한담해변./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국발(發) 저염분수의 제주 연안 유입 가능성이 커지고 있다.&lt;br&gt;&lt;br&gt;30일 제주도에 따르면 해양수산연구원은 ‘고수온·저염분수 예측 시스템’을 통해 마라도 남서쪽 약 30㎞ 인근에 저염분수 물 덩어리가 유입될 것으로 예측했다. 이에 따라 연구원은 이날 조사원 7명 등이 탑승한 조사선을 보내 남서쪽 바다에서 직접 저염분 측정 조사를 하고 있다. 연구원은 태풍 제4호 프라피룬이 21∼23일 중국 남부 해상에 영향을 미침에 따라 저염분수의 유입 경로도 기존 예측과는 다소 달라졌을 것으로 보고 있다.&lt;br&gt;&lt;br&gt;제주도는 저염분수의 마을 어장 유입 상황에 대비해 지난 26일 관계기관 대책 회의를 열어 저염분수 유입 예측 결과를 공유하고 피해를 최소화하기 위한 기관별 역할 분담, 협력 방안, 단계별 행동 요령 등을 논의했다.&lt;br&gt;&lt;br&gt;고수온의 저염분수가 들어올 경우 전복, 소라 같은 정착성 저서생물의 삼투압 조절 능력이 떨어져 폐사까지 이어질 수 있다.&lt;br&gt;&lt;br&gt;중국 양쯔강 하구 다퉁(大通)에서는 지난 7일 기준 초당 7만2000t 이상의 물이 바다로 흘러들고 있는 것으로 확인됐다. 이는 평년 초당 4만7000t에 비해 53.2%가량 늘어난 것이다.&lt;br&gt;&lt;br&gt;지난 4일에는 제주도 서남쪽 60∼80㎞ 해역의 표층 염분은 27∼28psu(실용염분단위·바닷물 1㎏당 녹아있는 염분의 총량을 g로 나타낸 것) 수준으로 나타났다. 저염분수는 실용염분단위가 26psu 이하인 상태를 말한다.&lt;br&gt;&lt;br&gt;평년 여름철 제주 바다 염분농도는 30∼31psu다.&lt;br&gt;&lt;br&gt;저염분수가 제주 연안에 도달하면 수온이 평년 여름철 23∼25도보다 높은 28도 이상의 고수온 현상을 동반한다.&lt;br&gt;&lt;br&gt;저염분수는 염분 농도가 높은 바닷물보다 가벼워 수면 위에서 물 덩어리 형태로 오랜 기간 떠다니며 강한 햇볕에 노출돼 온도가 높아진다.&lt;br&gt;&lt;br&gt;제주도 관계자는 “제주 연안에 저염분수가 유입될 경우 마을 어장 피해가 예상된다”며 “각 지역 수협과 어촌계에서는 수산생물 생육상태에 주의를 기울이며 저염분수 관측 정보에 관심을 가져달라”고 당부했다.&lt;br&gt;&lt;br&gt;2016년 8∼9월에도 제주 서부 바다에 염분농도 23∼26psu, 수온 30∼31도의 고수온·저염분수가 대거 유입돼 서귀포시 안덕면·대정읍, 제주시 한경면 등에서 소라, 전복, 홍해삼 등이 폐사하는 피해가 발생했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원 “동물 보호도 법 지켜야”... 무허가 개 보호소 철거 명령</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/30/G6ZHOMIUERAGREQ5TXO7G4623Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/30/G6ZHOMIUERAGREQ5TXO7G4623Y/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Jul 2024 04:31:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7W4V5BQLKVG2DAODZQ6IQQTBNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무허가 개 사육장 일러스트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무허가 개 보호소를 철거하라는 구청의 명령은 타당하다는 항소심 법원 판결이 나왔다.&lt;br&gt;&lt;br&gt;서울고법 행정7부(재판장 구회근)는 동물권 단체 ‘케어’ 박소연 전 대표와 ‘롯데목장 개 살리기 시민모임’이 인천 계양구청장을 상대로 낸 소송에서 원고 일부 승소로 판결했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;1심은 무허가 개 보호소를 철거하라는 구청의 처분이 “동물보호에 대한 과도한 규제”라며 위법으로 봤지만, 2심은 “동물보호 활동도 법의 테두리를 벗어나지 않아야 한다”며 판단을 뒤집었다.&lt;br&gt;&lt;br&gt;박 전 대표는 2020년 7월 계양구의 개발제한구역에서 30년 가까이 무허가 개 사육장을 운영하던 A씨와 “육견사업을 포기하고 사육견을 입양 보내는 데 협조한다”는 내용의 계약을 맺었다. 시민모임은 그해 9월 사육장을 정비해 개 보호소로 운영했다.&lt;br&gt;&lt;br&gt;하지만 계양구는 2020년 12월 “토지의 형질을 무단으로 변경하는 등 개발제한구역법을 위반했다”며 철거 지시하는 시정명령 내렸다. 이듬해 2월에는 가축분뇨법 위반으로 시설 사용금지 명령도 내렸다. 이에 불복한 박 전 대표와 시민모임은 구청의 처분이 동물보호법의 입법 취지에 반한다며 불복 소송을 냈다.&lt;br&gt;&lt;br&gt;1심 재판부는 “보호소를 설치하고 운영한 행위는 이를 위해 구성된 시민모임이 한 것”이라며 박 전 대표를 상대로 한 구청의 처분이 위법하다고 봤다. 또 “보호소 운영을 개발제한구역법 위반으로 보더라도 구청의 처분은 동물보호행위에 대한 과도한 규제로 재량권을 일탈·남용한 것”이라고 했다.&lt;br&gt;&lt;br&gt;2심도 박 전 대표에 대한 처분이 위법하다고 판단했지만, 시민모임에 대한 처분에 대해선  “동물 보호를 위한 사회적 활동이라 해도 특단의 사정이 없는 한 법이 정한 테두리를 벗어나지 않는 방법으로 이뤄져야 한다”고 판단했다. 이에 철거를 명령 구청의 처분이 타당하다며 판결을 뒤집었다.&lt;br&gt;&lt;br&gt;2심은 “시민모임이 무단으로 보호소를 운영해 상당한 소음과 악취 등이 발생하고 많은 주민이 고통을 호소하며 민원을 제기하고 있다”며 “동물 보호의 중요성은 부정할 수 없으나 개발제한구역과 가축분뇨의 적정한 유지와 관리 역시 국민의 삶과 밀접하게 관련돼 중요성을 간과할 수 없다”고 지적했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시, 짝퉁 4797점 압수...불법 판매업자 70명 입건</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/30/BLVEBMYPLFCEXPCVWE6V3DZCTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/30/BLVEBMYPLFCEXPCVWE6V3DZCTM/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Jul 2024 04:35:38 +0000</pubDate>
+      <content:encoded>서울시 민생사법경찰국은 올해 1~6월 서울 명동과 동대문시장, 남대문시장 일대에서 이른바 ‘짝퉁’ 제품을 판매한 70명을 적발해 입건했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;유명 브랜드 상표를 위조해 의류나 액세서리, 가방 등을 불법으로 판매한 혐의다.&lt;br&gt;&lt;br&gt;서울시는 또 제품 총 4797점을 압수했다. 정품 추정가로 환산하면 약 42억원 규모다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X23NXEHKFKFRG2GAHPUEHZ5LTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;동대문 새빛시장에서 적발된 짝퉁. /서울시 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;종류별로는 의류가 2464점으로 가장 많았고 액세서리가 888개로 뒤를 이었다. 지갑 573개, 가방 204개, 선글라스 191개, 벨트, 스카프 등 기타 잡화 477개도 압수됐다.&lt;br&gt;&lt;br&gt;압수된 위조 상품 중 1173점은 최근 ‘짝퉁 판매 성지’로 불리는 동대문 새빛시장에서 압수됐다.&lt;br&gt;&lt;br&gt;서울시는 또 위조 액세서리 888개에 대해 유해 성분 검사를 한 결과, 14개에서 안전기준을 초과한 납과 카드뮴이 검출됐다고 밝혔다.&lt;br&gt;&lt;br&gt;납은 많게는 기준치의 5255배까지 검출됐고, 기준치의 407배가 넘는 카드뮴이 검출된 사례도 있었다.&lt;br&gt;&lt;br&gt;권순기 서울시 민생사법경찰국장은 “출처가 불분명한 짝퉁 상품이 도시 이미지를 저해하고 시민 건강까지 위협하고 있다”며 “위조 상품 발견 시 적극적으로 제보해주시길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“대영(대학 영어) 50만원에 삽니다” 대학가 필수 영어 과목 수강 전쟁</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/07/30/WICMQFMKT5HCDO4DBDYBPRAQVU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/30/WICMQFMKT5HCDO4DBDYBPRAQVU/</guid>
@@ -836,54 +926,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/65AVN5YODBAWLO5UMDV2GVLTUM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 상반기 경찰청에 접수된 스미싱 범죄 발생 건수가 2449건으로, 이미 지난해 한 해 동안 발생한 건수(1673건)를 넘어선 것으로 나타났다. 스미싱은 문자메시지(SMS)를 이용해 피싱(Phishing·개인 정보를 낚아올림)을 한다는 뜻으로, 문자를 통해 피싱사이트 접속이나 악성앱 설치를 유도한 후 개인·금융 정보를 빼가는 사기 수법이다.&lt;br&gt;&lt;br&gt;29일 이달희 국민의힘 의원이 경찰청에서 제출받은 자료에 따르면 스미싱 범죄 발생 건수는 2020년 822건에서 지난해 1673건으로 두 배가량 증가했다. 올해는 지난 6월까지 2449건으로 이미 지난해 발생 건수를 넘어선 상황이다. 검거 건수도 2020년 43명에서 지난해 161명으로 증가한 데 이어, 올해는 상반기에만 288명을 기록했다.&lt;br&gt;&lt;br&gt;발생 건수가 늘면서 피해 금액도 커지고 있다. 스미싱 총 피해액은 2020년 11억원에서 지난해 144억원으로 10배 이상 급증했다.&lt;br&gt;&lt;br&gt;특히 최근엔 ‘[민원24] 쓰레기 무단 투기 범칙금’ 등 정부 문자를 사칭하거나, ‘아버지 별세 부고장’ 등 지인을 사칭한 문자 피해가 늘고 있다. ‘택배 배송 주소를 수정해달라’는 식의 택배 사칭 문자도 많다. 이들 문자에 포함된 인터넷주소(URL)를 클릭하면 악성앱 설치로 이어진다.&lt;br&gt;&lt;br&gt;작년 12월엔 ' 민원 24 과태료 부과 통지 ' 문자를 전송해 악성코드를 설치하게 하고 피해자 21명 계좌에서 총 4억1000만원을 편취한 피의자 4명이 경찰에게 붙잡혔다. 작년 11월에는 ‘아버지 별세 부고장’ 등 문자 메시지를 보내 악성코드를 설치, 피해자 9명에게 2억7000만원을 편취한 피의자가 검거됐다.&lt;br&gt;&lt;br&gt;이달희 의원은 “경찰청, 과학기술정보통신부, 방송통신위원회, 한국인터넷진흥원(KISA) 등 관련 기관이 정책·기술 협업을 통해 날로 교묘해지는 신종 사기 수법에 엄정히 대응해야 한다”고 촉구했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMQGJ3PBB5ERXEGIPGVOVWOCEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/이달희 의원실·경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>지인에 식칼 휘두른 중국인 남성, 살인미수 혐의 체포</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/29/2YX5Y5M6FNDKDKRCUBOBLMFXYY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/29/2YX5Y5M6FNDKDKRCUBOBLMFXYY/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Jul 2024 02:42:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/56WFCJXW4DYG27MFNMI6J6RKKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구로경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술자리를 함께하던 지인에 흉기를 휘둘러 목 부위를 다치게 한 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 구로경찰서는 “나를 왜 훈계하냐”며 지인을 식칼로 찌른 50대 중국인 남성 A씨를 살인미수 혐의로 현행범 체포했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 지난 27일 오후 6시 20분쯤 A씨는 서울 구로구 구로동에 있는 자택에서 지인 2명과 술을 마시다 지인인 중국인 B씨의 목, 어깨, 머리를 2~3회 식칼로 찔렀다. 동석하던 C씨가 A씨를 경찰에 신고했고, B씨는 인근 병원으로 옮겨졌다. B씨의 생명에는 지장이 없다고 한다. A씨는 “B씨가 훈계하는 게 화가나 범행을 저질렀다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편 경찰은 지난 28일 A씨에 대한 구속영장 청구를 신청했다. 29일 영장실질심사가 진행되며, 결과는 이날 저녁 중 나올 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공사장 사고 후유증에 입원했다 코로나로 사망… 법원 “산재 아냐”</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/29/3IGL6BQHUFDG7MFMODSJVJY7LM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/29/3IGL6BQHUFDG7MFMODSJVJY7LM/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Jul 2024 02:00:46 +0000</pubDate>
-      <content:encoded>공사현장에서 추락사고를 당해 후유증 치료를 위해 병원에 입원했다가 코로나에 걸려 숨져도 업무상 재해로 볼 수 없다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7XAMIL3A2C263I25SG26JBPCNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정법원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정3부(재판장 최수진)는 A씨의 유족이 근로복지공단을 상대로 낸 유족급여 및 장의비 부지급 처분취소 소송에서 원고 패소로 판결했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2018년 6월 한 단독주택 공사현장에서 담벼락에 올라 작업하다 떨어져 척수 등을 크게 다쳤다. 이 상해는 업무상 재해로 인정됐고, A씨는 이듬해 10월까지 입원 및 통원 치료를 받았다. 근로복지공단으로부터 장해등급 5급도 인정받았다.&lt;br&gt;&lt;br&gt;A씨는 정식 요양 기간이 끝난 이후에도 병원을 옮겨 재활 치료를 이어갔다. 2022년 1월 A씨는 입원해있던 병원에서 코로나에 걸렸고, 폐렴이 악화돼 그해 3월 숨졌다. A씨 유족은 “업무 중 다쳐 일상생활이 불가능해지면서 부득이 입원했다가 코로나에 감염돼 사망한 것은 업무상 재해에 해당한다”며 공단에 유족급여와 장의비를 청구했다.&lt;br&gt;&lt;br&gt;하지만 근로복지공단은 “A씨는 정식 요양이 끝난 후 임의로 진료를 받던 중 코로나에 감염돼 사망한 것이므로 상해와 사망 사이에 인과관계가 없다”며 청구를 받아들이지 않았다. 이에 불복한 A씨 유족 측은 “척수손상 환자는 면역력 저하로 코로나 감염 확률이 높아진다”며 행정소송을 제기했다.&lt;br&gt;&lt;br&gt;그러나 재판부는 A씨의 업무상 재해로 인한 사망을 인정할 수 없다고 봤다. 재판부는 “A씨는 업무상 상해를 치료하기 위한 요양이 끝나고 2년 3개월이 지나 후유증을 치료하기 위해 내원했다가 코로나에 걸렸다”며 상해와 사망 간의 인과관계를 충분히 설명하기 어렵다고 했다.&lt;br&gt;&lt;br&gt;업무 중 입은 상해를 치료하기 위해 입원한 게 아니기 때문에 병원에서 코로나에 감염됐다는 이유만으로 업무상 재해를 인정할 순 없다고 본 것이다. 재판부는 “척수 상해가 면역력 약화에 어느 정도 영향을 미쳤을 가능성은 있다”면서도 “코로나는 누구나 감염될 수 있는 병이므로 상당한 인과관계가 입증됐다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“왜 내 말 안 들어”…칼부림 현장 된 정육점</title>
-      <link>https://www.chosun.com/national/incident/2024/07/29/3R6A2CGEMRDC3LRCEHR4NEW5MU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/29/3R6A2CGEMRDC3LRCEHR4NEW5MU/</guid>
-      <dc:creator>안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Jul 2024 02:25:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G73GWN3JMVE3NEKMOLUSPBJ6M4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 성동경찰서/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 성동구의 한 할인마트 정육점에서 부하 직원을 흉기로 찌른 50대 남성이 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;서울 성동경찰서는 지난 27일 오후 4시쯤 성동구 행당동의 한 할인마트 정육점에서 부하 직원을 흉기로 찌른 50대 남성 A씨를 살인미수 혐의로 체포했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰 조사 결과, 피의자 A씨는 사건 당시 정육점 팀장인 본인의 작업 지시를 따르지 않고 반말로 항의하는 부하 직원 40대 남성 B씨와 언쟁이 붙었다. 그러자 A씨는 작업장 내 있던 흉기로 피해자 복부를 한 차례 찌른 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰은 현장에서 피의자 A씨를 현행범 체포했고, 흉기에 찔린 B씨는 병원으로 후송됐다. B씨는 현재 1차 수술을 마친 상태다. 경찰 관계자는 “피해자의 상태가 사건 현장에선 위급했다”며 “의사 진단에 따라 시일을 두고 경과를 지켜볼 것”이라고 했다. 경찰은 “사건 관련 흉기 등 증거물을 확보해 감식 중이며, 현장 CC(폐쇄회로)TV 영상을 확보한 상태”라고 했다.&lt;br&gt;&lt;br&gt;경찰은 지난 28일 A씨에 대해 구속영장을 신청했다. A씨에 대한 구속 전 피의자심문(영장실질심사)는 29일 오후 열린다. A씨는 경찰 조사 과정에서 “피해자와 평소 사이가 좋지 않았고, 상급자인 자신의 지시를 따르지 않아 홧김에 이 같은 일을 벌였다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/KJZ2ZPQTCZFKVGIPW2R4GCOOT4.jpg?width=647&amp;height=364&amp;auth=c9a1b424db847358cb5cbb52ef581f0f9edeb2b88190f2857c9b2a7f0bab4411&amp;smart=true" type="image/jpeg" height="364" width="647">
-        <media:description type="plain">서울 성동경찰서/연합뉴스</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>‘어댑티브 크루즈’ 믿고 달리다 ‘쾅’...올해만 9명 숨져</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/29/INOELREY6FFDFHR74TH36YAAMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/29/INOELREY6FFDFHR74TH36YAAMM/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Jul 2024 02:10:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WTVW3564JBOIVPV23JLHYMBQRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오전 서울 잠원IC 경부고속도로 하행선이 차량들로 정체를 빚고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여름 휴가철 고속도로 교통사고가 3년 새 41.8% 늘어난 것으로 나타났다고 도로교통공단이 29일 밝혔다. 공단은 앞 차량과 일정 간격을 유지하며 속도를 조절하는 어댑티브 크루즈 컨트롤(ACC)에 과도하게 의존해선 안 된다고 당부했다.&lt;br&gt;&lt;br&gt;도로교통공단에 따르면 최근 5년간 여름 휴가철(7∼8월) 고속도로 교통사고는 2019년 769건, 2020년 632건, 2021년 864건, 2022년 856건, 2023년 896건 등 총 4017건이 발생했다.&lt;br&gt;&lt;br&gt;사고에 따른 사망자와 부상자는 2019년 각각 36명과 1756명, 2020년 46명과 1417명, 2021년 27명과 1794명, 2022년 33명과 1847명, 2023년 28명과 2030명으로 집계됐다.&lt;br&gt;&lt;br&gt;지난해 여름 휴가철 고속도로 교통사고 발생 요인으로는 전방주시 태만, 운전 중 스마트폰 사용 등 안전운전 의무 불이행이 61.4%로 1위였다. 안전거리 미확보도 29%로 뒤를 이었다.&lt;br&gt;&lt;br&gt;특히 최근에는 자동차에 탑재된 ACC 의존도가 높아지면서 관련 사고도 잇따르고 있다고 도로교통공단은 전했다. ACC는 앞차와 일정한 거리를 유지하면서 운전자가 설정한 속도로 주행하도록 도와주는 운전 보조 기능이다. 고속도로 장거리 주행 시 편의성으로 이용자가 증가하고 있다.&lt;br&gt;&lt;br&gt;도로교통공단은 운전자가 이런 ACC 기능에만 의존한 채 전방 상황에 집중하지 않는 경우 돌발 상황에 대처하지 못해 사고로 이어질 수 있다고 설명했다. 한국도로공사에 따르면 2020년부터 올해 7월까지 ACC를 이용하거나 이용한 것으로 추정되는 교통사고는 총 19건이다. 이로 인해 17명이 숨졌다. 이 가운데 올해에만 8건이 발생해 9명이 사망했다.&lt;br&gt;&lt;br&gt;도로교통공단은 “대부분의 ACC가 건조한 노면과 평지, 일반적인 중량을 기준으로 작동하기 때문에 비나 눈, 안개와 같이 기상 상황이 좋지 않을 때는 카메라와 센서가 정상적으로 작동하지 않을 수 있다”며 “젖은 노면에서는 제동 거리가 늘어나 앞차와의 거리 유지가 어려울 수 있고, 탑승자가 많아 차량 무게가 늘어난 경우나 내리막길, 굽잇길에서도 사고가 발생할 위험이 크다”고 전했다.&lt;br&gt;&lt;br&gt;도로교통공단은 이어 “전방 차량의 속도가 현저히 느리거나 정차한 경우 또는 공사 중이거나 사고 처리 현장에서도 전방 상황을 인식하지 못하고 추돌할 수 있다”면서 “ACC 기능을 사용하기 전에 반드시 자동차 사용 설명서에 기재된 인식 제한 상황을 미리 확인해야 한다”고 했다.&lt;br&gt;&lt;br&gt;공단 관계자는 “고속도로는 일반도로에 비해 주행속도가 빠른 만큼 순간의 방심이 큰 사고로 이어지기 쉬워 더욱 각별한 주의가 필요하다”며 “ACC는 운전자를 보조해주는 편리한 기능이지만 완전한 자율주행 기능은 아닌 만큼 운전자가 항상 운전대를 잡고 전방을 주시하면서 돌발 상황에 대응해야 사고를 예방할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“중학교 배정 바꿔달라”...경기교육감 집 앞 찾아간 평촌 주민들</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/29/RAQHSCB2JRDDREVH2HGFXWYXQI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/29/RAQHSCB2JRDDREVH2HGFXWYXQI/</guid>
-      <dc:creator>김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Jul 2024 01:11:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R35PKW7HHSVBFEYUDA4H4YE5CY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 안양시 평촌 지역 일대. /안양시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 안양 평촌 지역의 일부 주민들이 “중학교 1지망 배정을 조정해 달라”고 요구했다가 받아들여지지 않자, 29일 경기도교육감 자택 앞에서 항의 집회를 열었다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 안양시 동안구 신촌동 무궁화단지 주민들로 구성된 ‘범계중학교 배정학군 추진위원회’ 회원 30여명은 이날 오전 7시부터 임태희 경기도교육감의 자택이 있는 성남 분당구 정자동의 한 아파트 출입구 건너편 인도 등에서 집회를 열었다. 이들은 “(중학교)배정 방침을 개정하라”는 등의 손팻말을 들고 구호를 외쳤다. 이들은 이날부터 한달 동안 매일 같은 장소에서 집회를 하겠다고 신고했다.&lt;br&gt;&lt;br&gt;이 집회는 수도권 인기 학군인 안양 평촌지역의 중학교 배정 문제에서 비롯됐다. 이들은 무궁화단지 아파트에 거주하는 초등학생들의 1지망 중학교를 바꿔 달라는 요구를 하고 있는데, 관할청인 안양과천교육지원청은 수용 불가 입장을 밝히고 있다.&lt;br&gt;&lt;br&gt;안양의 중학교 학군은 동안중학군과 만안중학군 2개로 나뉜다. 이 가운데 동안중학군은 A구역·B구역·평촌구역 등 권역을 3개로 나눠 중학교별 1지망 지역을 관리한다. 평촌구역 내에는 신기중학교, 범계중학교 등이 있는데, 신기초등학교 통학구역 학생들은 신기중, 범계초등학교 통학구역 학생들은 범계중을 각각 1지망으로 쓰게 돼 있다.&lt;br&gt;&lt;br&gt;그런데 신촌동 무궁화단지 아파트는 1지망을 기존 신기중 대신 범계중으로 바꿔달라고 요구하고 있다. 이 아파트는 신기중과 범계중 사이에 위치해 단지 절반은 신기중에, 나머지 절반은 범계중에 가깝다. 다만 신기초 통학구역으로 돼있어 1지망 중학교는 신기중으로 써야 한다.&lt;br&gt;&lt;br&gt;이 아파트 주민들은 신기중을 통학하려면 아이들이 왕복 10차선 도로를 지나야 해 위험하고, 올해 초 인근에 2800여 세대 아파트가 입주를 시작해 신기중이 과밀학교가 될 것이라고 주장하고 있다. 범계중이 특목고나 자사고 진학률이 높다는 점도 이유 중 하나로 꼽히는 것으로 알려지고 있다.&lt;br&gt;&lt;br&gt;주민들은 올해 초부터 이 같은 민원을 집중적으로 제기했고, 안양과천교육청은 검토 끝에 기존 배정방안을 유지하기로 했다. 지난 25일에는 주민들을 대상으로 설명회도 열었다. 주민들이 위험성을 지적한 10차선 도로에는 중간에 교통섬 두 개가 있고, 등·하교 시간에는 모범운전자 등이 교통안전관리를 하는 점, 인근 지하보도가 있는 점 등을 이유로 현행 유지를 결정했다고 설명했다.&lt;br&gt;&lt;br&gt;이와 함께 배정을 바꿀 경우 되레 범계중이 과밀학교가 될 가능성이 커지는 점도 고려했다. 또 평촌구역 중학교 배정에 대한 신뢰도에 영향을 줄 수 있고, 특정 지역의 민원을 수용하게 되면 다른 학군의 경계지역에서도 선호 학교로 배정해달라는 요구가 잇따를 수 있다는 점도 감안했다고 한다.&lt;br&gt;&lt;br&gt;무궁화단지 아파트 주민들의 요구에 기존 범계중 배정 지역 주민들이 반발하면서 갈등도 빚고 있다. 인근 목련·모비우스 아파트 학부모들은 ‘범계중 1지망 추가 반대 비상대책위원회’를 꾸려 반대하고 나섰다. 이들은 “민원이 수용되면, 기존 학생들이 우선 배정을 받지 못할 뿐만 아니라 범계중은 과밀 학급이 될 수 있다”고 주장하고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>충북 청양 단독주택 화재…외할머니와 손자 숨진 채 발견</title>
       <link>https://www.chosun.com/national/regional/chungcheong/2024/07/29/6FTY5GH2GVDD7GQNVJZZC2MN6I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/07/29/6FTY5GH2GVDD7GQNVJZZC2MN6I/</guid>
@@ -897,24 +939,6 @@
       </media:content>
     </item>
     <item>
-      <title>간밤 ‘초열대야’ 발생…속초·강릉 최저기온이 30도 넘어</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/07/29/6QI2FFFFBFFWDDNU75RBOKINIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/29/6QI2FFFFBFFWDDNU75RBOKINIE/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Jul 2024 00:42:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5BUBGS6WE3KZOGICATFBZIW5DY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2023년 7월 31일 서울 서초구 반포한강공원을 찾은 시민들이 반포대교 달빛무지개분수를 감상하며 열대야를 이겨내고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;극심한 폭염으로 전국에 열대야(熱帶夜)가 기승을 부리는 가운데 밤새 기온이 30도 아래로 떨어지지 않는 ‘초열대야’까지 발생했다.&lt;br&gt;&lt;br&gt;29일 기상청에 따르면 간밤 북태평양고기압 가장자리를 따라 고온다습한 남풍이 계속 들어오고, 높은 습도 탓에 낮에 오른 기온이 밤사이 떨어지지 못하면서 강원 속초(최저 30.6도), 강릉(30.4도)에 ‘초열대야’ 현상이 나타났다.&lt;br&gt;&lt;br&gt;국내 초열대야 현상은 2013년 8월 8일 강릉에서 처음 발생했다. 초열대야는 주로 강원도에서 발생한다. 뜨거운 바람이 태백산맥을 넘어가며 더 뜨거워지기 때문이다. 29일의 경우처럼 남풍이 태백산맥을 서에서 동으로 넘으면 강원영동에 뜨거운 바람이 공급된다. 반대로 동해에서 동풍이 불어 태백산맥을 동에서 서로 넘으면 강원영서가 뜨거워진다.&lt;br&gt;&lt;br&gt;이날 동해(29.8도), 영월(26.1도), 봉화(24.6도) 등은 일 최저기온 역대 1위를 경신했다. 이외에도 서울 27.2도, 인천 26.6도,원주 27.0도, 청주 27.3도, 울진 28.4도, 대구 26.3도, 서귀포 27.3도, 제주 26.6도 등 전국 곳곳에서 열대야가 발생했다.&lt;br&gt;&lt;br&gt;폭염과 열대야는 이달 말까지 계속될 것으로 전망된다. 29일 낮 최고기온은 평년(28.5∼32.8도)을 크게 웃도는 28∼36도로 예상된다. 30~31일도 최고기온이 36도로 예보됐다. 현재 습도도 높아 한낮 체감기온은 예보된 기온보다 더 높다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>자전거 절도 전과만 8번...다섯달 동안 25대 훔쳐 되팔아 </title>
-      <link>https://www.chosun.com/national/2024/07/29/S5NM5NDZPNG65G4XBYXD7QI5D4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/07/29/S5NM5NDZPNG65G4XBYXD7QI5D4/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Jul 2024 01:36:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BKINFRPDKFABVBJBEWCTW5NCZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자전거 절도만 상습적으로 벌인 40대가 출소 1년여 만에 다시 범행을 하다 경찰에 붙잡혔다. 그가 5개월 사이에 훔친 자전거만 25대나 됐다.&lt;br&gt;&lt;br&gt;경남 창원 마산중부경찰서는 특가법상 상습절도 혐의로 A씨를 구속 송치했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 5월 28일 오전 1시쯤 창원 마산합포구에 있는 한 아파트 자전거 보관대에서 120만원 상당의 자전거를 훔치는 등 자전거 25대를 훔친 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 신고를 받은 경찰은 아파트 주변 방범카메라(CCTV)를 통해 A씨의 범행 수법을 보고 상습범임을 확신했다고 한다. 마스크에 모자를 쓴 A씨는 절단기까지 동원해 자전거를 훔쳐 달아났다. 경찰은 3명의 전담 수사팀을 꾸리고 A씨 행적을 뒤쫓았다. 그러다 A씨가 한 PC방으로 들어가는 것을 확인한 경찰은 회원 정보를 확인해 A씨 인적사항을 특정했고, 체포영장을 발부받아 지난 15일 김해의 PC방에서 A씨를 붙잡았다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 비슷한 수법으로 지난 2월부터 최근까지 창원에서 모두 25대의 고급 자전거를 훔쳤다. 시가로는 4100만원 상당으로, 가장 비싼 자전거는 약 600만원으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 훔친 자전거를 행인 등에게 1대에 약 10만원씩 받고 되팔아 약 300만원을 챙겼다. 경찰 관계자는 “중고앱 등으로 되판 것이 아니라서 피해 자전거를 다시 찾기는 어려울 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 과거에도 8차례나 동종 범죄를 저지른 것으로 드러났다. 1년 6개월의 형을 살고 지난해 5월 교도소에 출소했다가 다시 범행했다.&lt;br&gt;&lt;br&gt;경찰 조사에서 A씨는 “별다른 직업이 없어 생활비가 필요해 자전거를 훔쳤다”는 취지로 범행을 시인했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“이웃이 반려견 잡아가 가마솥에 태워”…신고하자 ‘고라니인데?’ 발뺌</title>
       <link>https://www.chosun.com/national/national_general/2024/07/29/F5XXQRQZMNFMBP2HHDCTZW5QS4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/29/F5XXQRQZMNFMBP2HHDCTZW5QS4/</guid>
@@ -922,33 +946,6 @@
       <description/>
       <pubDate>Mon, 29 Jul 2024 01:36:25 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2EOR7F47I5BVHGB2LJYCJ7OY34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이웃집 가마솥 안에 동물로 추정되는 물체가 담겨 타고 있다./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이웃집 주민이 키우던 개를 잡아 가마솥에 태운 70대 남성의 사연이 전해져 공분을 사고 있다.&lt;br&gt;&lt;br&gt;최근 한 온라인 커뮤니티에는 ‘저희 집 개를 윗집에서 훔쳐 가 먹은 것 같습니다’라는 제목의 글이 올라왔다.&lt;br&gt;&lt;br&gt;작성자는 “부모님은 시골 단독주택에서 살고 계신다. 오늘 아버지 생신을 맞이해 저녁을 먹으려 오랜만에 고향에 왔다. 부모님이 윗집 욕을 하면서 화를 내시더라”고 운을 뗐다.&lt;br&gt;&lt;br&gt;이 글에 따르면 작성자 어머니는 오전 5시쯤 밥을 주려고 나왔는데 개가 사라진 것을 알게 됐다. &lt;br&gt;&lt;br&gt;작성자 가족이 개를 찾아 나서던 중 평소 사이가 좋지 않던 윗집에서 연기가 올라왔고, 아버지가 가보니 가마솥에 불을 피우고 있었다. 가마솥 뚜껑을 열자 작성자 부모가 키우던 개로 의심되는 형체가 타고 있었다. 작성자가 공개한 사진을 보면 가마솥 안에는 새카맣게 탄 동물 추정 물체가 담겨 있다.&lt;br&gt;&lt;br&gt;이에 작성자 가족은 바로 경찰에 신고했지만, 그 사이 가마솥이 비어 있었다고 한다.&lt;br&gt;&lt;br&gt;작성자는 “가해자로 의심되는 70대 윗집 아저씨로부터 경찰이 들은 진술은 ‘어젯밤에 이웃 개가 죽어있길래 가져와서 가마솥에 넣었다’고 했다더라”고 했다.&lt;br&gt;&lt;br&gt;이어 “아들이란 사람은 우리가 사진을 찍은 것도 모르고 증거가 없다고 생각했는지 나와서 하는 말이 ‘우리 가마솥에는 금이 가 있어서 아무것도 못 넣고 담배 피울 때마다 불 멍때리듯이 불을 지핀다’라고 하더라. 사진을 보여주자, 이제는 고라니라고 우기고 있다”고 주장했다.&lt;br&gt;&lt;br&gt;작성자는 “다음 주 월요일쯤 형사사건으로 넘어간다고 한다. 부모님이 5년 동안 키운 반려견이 하루아침에 몰상식한 사람들 배에 들어갔다고 생각하니 어이가 없고 솔직히 사람이 맞나 싶다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “여기저기 알아보니 우리 개라는 결정적 증거가 아직 없다. 그렇다 하더라도 재물손괴로 여겨져 큰 처벌이 이루어지기 어렵다고 한다”며 “어떻게 해야 세상 무서운지 알게 할 수 있겠나”라고 조언을 구했다.&lt;br&gt;&lt;br&gt;사연을 접한 네티즌들은 작성자 이웃을 비판하며 “먹으려고 한 게 아니라 죽이고 태운 것 같다” “물도 없이 가마솥에 넣고 태운 것 같다” “뼈 모양 보면 고라니 같지 않다” “차량 블랙박스, 동네 방범 CCTV 다 뒤져서 처벌받게 해달라” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;한편 현행법상 동물은 재물로 분류된다. 타인의 반려견을 해치는 행위는 재물손괴죄로 3년 이하의 징역 또는 700만원 이하의 벌금형이 내려질 수 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>19세 소녀, 우울증 극복했는데 돌연 심정지…생명 나누고 떠났다</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/29/7E6YJE3NGFDA7P3IL3UNXGNLLI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/29/7E6YJE3NGFDA7P3IL3UNXGNLLI/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Jul 2024 01:29:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4IP42P5SBJCOJFS4NLAZKGWAME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 유동은 양. /한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우울증을 극복하고 꿈을 키워가던 19세 소녀가 돌연 뇌사상태에 빠져 뇌사장기기증으로 생명을 나눠주고 세상을 떠났다.&lt;br&gt;&lt;br&gt;29일 한국장기조직기증원은 지난 7일 고려대학교 안암병원에서 유동은(19)양이 뇌사장기기증으로 5명에게 생명을 나눠주고 하늘의 천사가 되어 떠났다고 밝혔다.&lt;br&gt;&lt;br&gt;유동은 양은 지난 1일 갑작스러운 심정지로 집에서 쓰러진 채 발견돼 병원으로 이송됐으나, 의식을 회복하지 못하고 뇌사상태가 됐다. 유 양은 뇌사장기기증으로 심장, 폐장(좌‧우, 동시수혜), 신장(좌‧우), 간장을 기증했다.&lt;br&gt;&lt;br&gt;유족은 유동은 양이 평소 장기기증 뉴스를 보며 장기기증 희망등록을 하러 가자고 했으며, 늘 주변 사람들을 도와주는 마음씨 착한 아이였기에 마지막 가는 길도 누군가를 돕고 가길 원했을 거라고 생각해 기증에 동의했다고 한다.&lt;br&gt;&lt;br&gt;유족은 유 양이 학창시절 우울증으로 힘들어했지만 극복해 다시 일어섰다며 “삶의 끝에 좋은 일을 하고 간 딸이 우울증으로 힘들어하는 많은 사람들에게 힘이 되었으면 한다”고 말했다.&lt;br&gt;&lt;br&gt;경기도 시흥시에서 1남 1녀 중 둘째로 태어난 유 양은 노래와 춤추는 것을 좋아하는 밝은 아이였다고 한다. 다른 사람의 이야기를 잘 들어주고, 미용 일을 하고 싶어 친구들에게 메이크업을 해주는 것을 좋아했다.&lt;br&gt;&lt;br&gt;유 양은 고등학교 3학년 때 갑작스러운 공황증세와 우울증에 힘든 시간을 보냈지만, 가족과 친구들의 응원으로 극복했다. 이후 아르바이트도 하고 같은 어려움을 겪는 친구들에게 상담도 해주었다. 가족들은 유 양이 온라인 게임을 통해 외국인 친구들을 많이 사귀어, 함께 해외여행을 가서 만나자고 약속했는데 미처 그 약속을 지키지 못한 것이 미안하다고 했다.&lt;br&gt;&lt;br&gt;유 양의 어머니 김선희씨는 “동은아, 널 이렇게 먼저 떠나보내게 되어서 엄마가 미안하다. 많이 사랑해. 생명을 살리는 좋은 일을 하고 좋은 곳에 갔을 테니, 거기서는 엄마 걱정하지 말고 잘 지내. 네가 사랑하던 고양이 안개도 잘 키울게. 하늘나라에서는 행복하고, 사랑해”라고 마지막 인사를 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>올여름 폭염으로 닭·돼지 등 11만 마리 폐사…작년의 5.8배</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/29/GCAY3IAE7JHZTCT2YTTEHLVQWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/29/GCAY3IAE7JHZTCT2YTTEHLVQWA/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Jul 2024 00:51:08 +0000</pubDate>
-      <content:encoded>올 들어 폭염에 죽은 가축이 11만 마리에 육박한 것으로 나타났다. 작년의 5.8배에 달하는 수치다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3CZJWJPBCBA53D7NV3RT7HITVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭염 속 물 먹는 육계농장의 닭. /농림축산식품부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 행정안전부에 따르면 지난달 11일부터 지난 28일까지 폭염으로 폐사한 가축은 총 10만8847마리로 집계됐다. 1만8893마리가 죽은 작년 같은 기간 대비 5.8배 가까이 늘었다.&lt;br&gt;&lt;br&gt;폭염에 죽은 가축은 닭이나 오리 등 가금류가 9만8271마리, 돼지가 1만576마리인 것으로 집계됐다.&lt;br&gt;&lt;br&gt;온열 질환자도 작년보다 늘었다.&lt;br&gt;&lt;br&gt;행안부에 따르면 지난 5월 20일부터 지난 27일까지 집계된 온열 질환자는 925명으로, 872명을 기록한 작년 같은 기간보다 50명가량 많다. 특히 지난 27일에는 하루에만 34명의 온열 질환자가 발생했다.&lt;br&gt;&lt;br&gt;올 들어 온열질환으로 사망한 사람은 4명이다. 작년보다 1명 늘어난 것이다.&lt;br&gt;&lt;br&gt;행안부 관계자는 “당분간 대부분 지역의 최고 체감온도가 35도 내외로 매우 무더울 것”이라며 “열대야가 나타나는 곳도 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, ‘국정원 산하 기관 특혜 채용 의혹' 서훈 전 국가안보실장 소환조사</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/29/LJOZ2B4SRBGJHKYC2OTQBJX7D4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/29/LJOZ2B4SRBGJHKYC2OTQBJX7D4/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Jul 2024 00:49:47 +0000</pubDate>
-      <content:encoded>국가정보원 산하에 있는 국가안보전략연구원(전략연) 채용 비리 의혹을 수사하는 검찰이 서훈 전 국가안보실장을 지난달 소환해 조사한 것으로 29일 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXBPMKC25RMGZBUAE525256UF4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서훈 전 국정원장이 지난 8일 오전 서울 서초구 서울중앙지방법원에서 열린 '탈북어민 강제 북송 사건' 공판에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 이 의혹을 수사하는 서울중앙지검 공공수사1부(부장 이찬규)는 지난달 서 전 실장을 업무방해‧국정원법상 직권남용 등 혐의 피의자 신분으로 소환해 조사했다.&lt;br&gt;&lt;br&gt;서 전 실장은 국정원장이던 2017년 8월 문재인 전 대통령의 대선후보 시절 캠프 출신인 조모씨를 국정원 유관기관인 국가안보전략연구원(전략연) 연구기획실장으로 채용한 혐의를 받는다. 검찰은 조씨가 기준에 미달하는 데도 불구하고 채용되는 과정에 특혜가 있었다고 의심한다.&lt;br&gt;&lt;br&gt;앞서 이 의혹을 수사한 경찰은 작년 7월 서 전 실장과 그의 후임 국정원장인 박지원 민주당 의원을 채용 비리 혐의로 검찰에 송치했었다.&lt;br&gt;&lt;br&gt;한편 박 전 원장은 자신의 보좌관이던 강모씨, 박모씨가 전략연 연구위원으로 취업하도록 부당한 영향력을 행사한 혐의를 받는다.&lt;br&gt;&lt;br&gt;국정원은 자체 실시한 감사에서 이 같은 정황을 확인해 경찰에 수사를 의뢰했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>연이은 경찰관 사망에 내부 술렁.. 윤희근 경찰청장 “유족 최대한 지원할 것”</title>
