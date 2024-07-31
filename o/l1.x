@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>검찰, '50억 클럽' 권순일 前 대법관 피의자 신분 소환</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/PYH2020103004900001300.jpg" alt="PYH2020103004900001300.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;'대장동 50억 클럽' 의혹을 수사하는 검찰이 권순일 전 대법관을 소환해 조사중이다.&lt;br /&gt;&lt;br /&gt;법조계에 따르면 서울중앙지검 반부패수사3부(이승학 부장검사)는 31일 오전 권 전 대법관을 변호사법 위반 등 혐의를 받는 피의자 신분으로 불러 조사 중이다.&lt;br /&gt;&lt;br /&gt;지난 3월 권 전 대법관의 사무실을 압수수색한 지 약 네 달 만이다.&lt;br /&gt;&lt;br /&gt;검찰에 따르면 권 전 대법관은 퇴임 후인 2020년 11월∼2021년 9월 대한변호사협회에 변호사로 등록하지 않고 대장동 민간업자 김만배 씨가 대주주인 화천대유자산관리 고문으로 활동한 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;권 전 대법관은 고문료로 1억 5000만 원을 받은 것으로 알려졌다. 대장동 의혹이 불거지자 계약 만료 한 달여를 앞두고 사직했다.&lt;br /&gt;&lt;br /&gt;검찰은 거액의 고문료를 받았다는 의혹 외에도, 화천대유 고문으로 위촉된 배경으로 지목된 재판 거래 의혹에 대해서도 수사 중이다. 권 전 대법관이 재임 중이던 2020년 7월 대법원이 이재명 전 민주당 대표의 선거법 위반 사건을 무죄 취지로 파기환송할 당시 캐스팅보트 역할을 한 것과 관련이 있다는 의혹이다.&lt;br /&gt;&lt;br /&gt;‘50억 클럽’은 대장동 개발 사업에 도움을 준 대가로 대장동 민간사업가들로부터 거액을 받거나 받기로 약정한 인사들을 일컫는 말이다.&lt;br /&gt;&lt;br /&gt;6인의 명단 중 곽상도 전 의원, 박영수 전 특검이 재판에 넘겨졌고 권 전 대법관, 최재경 전 청와대 민정수석, 김수남 전 검찰총장, 홍선근 머니투데이 미디어그룹 회장이 남은 수사 대상으로 거론돼 왔다.&lt;br /&gt;&lt;br /&gt;검찰은 최근 홍 회장을 피의자 신분으로 불러 조사했다.</description>
+			<pubDate>Wed, 31 Jul 2024 04:19:59 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/200226</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200226</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/PYH2020103004900001300.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>최태원 SK 회장 이혼소송 상고심 대리인단에 율촌 합류</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/0(36)(2).jpg" alt="0(36).jpg" style="width: 600px; height: auto;" /&gt;&lt;/p&gt;&lt;figcaption class="cheditor-caption-text" style="text-align: center; margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;&lt;p style="text-align: left;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: left;"&gt;최태원 SK그룹 회장과 노소영 아트센터 나비 관장의 이혼 소송이 상고심을 앞두고 있는 가운데 법무법인 율촌이 최 회장의 대리인단에 합류했다. 율촌은 LG가(家) 상속분쟁에 이어 SK 이혼소송 사건에서도&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4744"&gt;홍승면&lt;/span&gt;&amp;nbsp;전 서울고법 부장판사와 함께 기업총수 측을 대리하게 됐다.&lt;/p&gt;&lt;p style="text-align: left;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;31일 법률신문 취재에 따르면 최 회장은 율촌&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9191"&gt;이재근&lt;/span&gt;(51·사법연수원 28기)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="1188"&gt;민철기&lt;/span&gt;(50·29기)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="2865"&gt;김성우&lt;/span&gt;(55·31기)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="6943"&gt;이승호&lt;/span&gt;(49·31기) 변호사를 추가 선임했다. 최 회장 측은 상고심 대리인단을 새로 꾸리기 위해 율촌을 비롯한 여러 대형로펌으로부터 프레젠테이션(PT)을 듣고 상고이유서 시안을 받아 검토했던 것으로 알려졌다.&lt;/p&gt;&lt;p style="text-align: left;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;율촌 선임에 앞서 최 회장 측은 이달 초 대법원 수석재판연구관과 법원행정처 사법지원실장을 지낸 홍승면(60·18기) 전 서울고법 부장판사를 상고심 대리인단으로 먼저 선임했다. 지난 2월 명예퇴직해 법원을 떠난 그는 3월 변호사로 개업해 법률사무소를 운영하고 있다.&lt;/p&gt;&lt;p style="text-align: left;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;대리인단에 새로 합류한 율촌 변호사들 역시 홍 전 부장판사와 마찬가지로 대법원 상고심 소송과 가사 사건에 해박한 것으로 알려졌다. 부장판사 출신의 이재근·민철기·이승호 변호사 모두 대법원 재판연구관 출신이다. 김성우 변호사는 서울가정법원 가사소년사건 전문법관 출신으로 가사·후견 분야에 정통하다. 2015년 롯데그룹 고(故) 신격호 명예회장의 한정후견개시 사건을 담당했으며 2017년 서울가정법원 후견센터 설립을 기획했다.&lt;/p&gt;&lt;p style="text-align: left;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;한편 율촌이 최태원 SK 회장 측 대리인단에 새롭게 합류하며 율촌과 홍 전 부장판사는 두 번째로 대기업 총수 가사소송 사건에서 기업 총수 측을 공동 대리하게 됐다. 율촌은 지난해 2월부터 고 구본무 LG그룹 선대회장의 상속재산을 둘러싸고 부인 김영식 여사 등과 소송을 진행 중인 구광모 LG 회장을 대리하고 있다. 홍 전 부장판사는 지난 4월 구 회장 측 대리인단에 추가로 선임됐다.&lt;/p&gt;</description>
+			<pubDate>Wed, 31 Jul 2024 02:36:03 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/200224</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200224</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/0(36)(2).jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
 			<title>법틀, 법무관리솔루션 '법틀 AI' 오픈베타 신청자 모집</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/200218.jpg" alt="200218.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;법틀 AI 서비스 제공 내용 캡처. 《법틀 제공》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무관리솔루션 전문기업 법틀(대표 진성열)이 기업법무팀을 위한 AI 기반 법무관리솔루션 '법틀 AI' 출시를 앞두고 오픈베타 서비스를 진행한다.&lt;br /&gt;&lt;br /&gt;오픈베타에 참여하면 법틀 AI의 주요 기능인 'AI 파라리걸(AI Paralegal)'을 체험해볼 수 있다. AI 파라리걸은 자동으로 분류·학습된 조항별 계약 데이터를 기반으로, 필요한 정보를 즉각적으로 제공해 법무팀의 업무를 지원하는 법틀 AI의 핵심기능이다. 법틀은 "법틀 AI는 회사의 모든 계약 데이터를 조항별로 나눠 학습하고, 이를 기반으로 유사성과 리스크를 탐지한다"며 "기업법무의 속도를 두 배로 향상시키는 혁신적인 기능을 갖추고 있다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;신청 기간은 다음달 1일부터 9월 30일까지 두 달 동안이고, 대상은 법틀 고객사와 신규 고객사다.&lt;br /&gt;&lt;br /&gt;오픈베타는 클라우드 고객을 우선 대상으로 하며, 기존 법틀 클라우드 고객은 무상으로 이용할 수 있다. 구축형 고객은 일부 비용이 발생할 수 있으며, 신규 고객은 학습할 수 있는 데이터가 없어 별도의 체험판으로 제공될 예정이다.&lt;br /&gt;&lt;br /&gt;법틀 관계자는 "이번 오픈베타를 통해 많은 고객이 법틀 AI의 혁신적 기능을 체험하고, 법무팀의 미래를 경험하기를 바란다"고 전했다.&lt;br /&gt;&lt;br /&gt;자세한 사항은 법틀 공식홈페이지에서 확인할 수 있다.</description>
 			<pubDate>Wed, 31 Jul 2024 00:05:51 -0000</pubDate>
@@ -219,25 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200194</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/20240729_서울대 인공지능 컨퍼런스_1.jpg</media:thumbnail>
 			<dc:creator>유지인 기자</dc:creator>
-		</item>
-		<item>
-			<title>로백스, 장진석 전 HMM 법무실장 영입</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/200193.jpg" alt="200193.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6992"&gt;장진석&lt;/span&gt;(59·사법연수원 21기) 전 HMM 법무실장이 법무법인 로백스에 합류했다. &lt;br /&gt;&lt;br /&gt;&lt;a href="http://lawvax.co.kr/main/index.php " target="_blank"&gt;&lt;b&gt;법무법인 로백스&lt;/b&gt;&lt;/a&gt;는 장 전 실장을 대표변호사로 영입했다고 29일 밝혔다. 장 대표변호사 영입으로 로백스는 기업 내부통제와 법률 리스크 예방 분야를 강화할 계획이다. &lt;br /&gt;&lt;br /&gt;장 대표변호사는 로백스에서 기업구조조정, 인수합병, 경영권 분쟁, 국내외 독점규제 등 기업 법무 분야를 담당할 예정이다. 로백스가 주력하는 기업 내부통제 시스템 관련 업무도 맡는다. &lt;br /&gt;&lt;br /&gt;장 대표변호사는 STX조선해양과 HMM 등에서 근무하며 기업구조조정, 인수합병 업무를 해왔다. 특히 선박·해운 분야의 경영개선과 법률 리스크 관리 전문가라는 평을 받는다. &lt;br /&gt;&lt;br /&gt;부산 해동고와 서울대 법대를 나온 장 대표변호사는 1988년 제30회 사법시험에 합격했다. 1992년 사법연수원을 제21기로 수료한 뒤 1995년 법무법인 충정에서 변호사 생활을 시작했다. &lt;br /&gt;&lt;br /&gt;그는 2015~2017년 STX조선해양 글로벌법무팀 전무를 지내며 기업구조개선와 국제소송·중재를 이끌었다. 2017년부터 워크아웃에 들어간 HMM 법무실장으로 7년간 해외 자산 인수, 미국 등 주요국 규제 대응 등 기업법무 전반도 담당했다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3593"&gt;김기동&lt;/span&gt;(60·21기) 로백스 대표변호사는 "장 대표변호사는 대형로펌과 기업을 두루 경험한 기업법무의 전문가"라면서 "기업‧금융 전문로펌을 지향하는 로백스의 고객들에게 한층 강화된 서비스를 제공할 수 있게 됐다"고 말했다.</description>
-			<pubDate>Mon, 29 Jul 2024 08:26:54 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/200193</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200193</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/200193.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>부산회생법원, '개인도산 신뢰성 제고 위원회' 임시회의 개최</title>
-			<description>&lt;p&gt;부산회생법원이 개인도산 제도에 대한 국민 신뢰를 심각하게 저해하는 일부 신청대리인의 비위 행위 의심 사례에 대한 대응에 나섰다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;부산회생법원&lt;/b&gt;(법원장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3907"&gt;권순호&lt;/span&gt;)은 24일 이러한 제보를 접수하고 '개인도산 신뢰성 제고 위원회' 임시회의를 열었다.&lt;br /&gt;개인도산 신뢰성 제고 위원회는 개인도산절차의 공정성과 신뢰를 저해하는 행위를 방지하기 위해 부산회생법원 실무준칙에 따라 설치된 기구다.&lt;p&gt;&lt;br /&gt;최근 부산회생법원에는 △개인파산·개인회생 신청 직전 신청인에게 재산은닉(추가 대출, 추가 카드결제, 과다한 현금 인출, 재산 명의 이전 등)을 종용하거나 신청인의 재산은닉에 적극적으로 협조한 사례 △신청인에게 파산관재인 내지 파산관재인 보조인에 대한 접대 등 명목으로 금품을 요구한 사례 △신청인으로부터 법원의 예납명령을 초과하는 금원을 예납금 명목으로 수령한 사례 등 비위 행위 의심 사례를 접수했다.   &lt;/p&gt;&lt;p&gt;&lt;br /&gt;부산회생법원 개인도산 신뢰성 제고 위원회는 일부 개인도산사건 신청대리인들의 비위 행위에 경종을 울리고 회원들 사이의 자발적 정화를 촉구하기 위해 관할 지역 변호사회 및 법무사회에 협조 공문을 발송하기로 했다. 또 개인도산사건 당사자를 대상으로 비위 의심 행위에 관한 무작위 설문조사를 실시하는 등 개인도산사건 신청대리 시장을 지속적으로 모니터링하기로 했다.      &lt;/p&gt;&lt;p&gt;&lt;br /&gt;부산회생법원 관계자는 "개인도산 신뢰성 제고 위원회를 더욱 적극적으로 운영해 개인도산절차의 공정성과 신뢰성을 훼손하는 행위가 발견될 경우 징계 및 수사 의뢰 등 단호하게 대응할 것"이라며 "지방권역 최초 도산전문법원으로서 앞으로 부산, 울산, 경남 지역에 국민으로부터 신뢰받는 도산재판실무가 뿌리내릴 수 있도록 지속적인 노력을 기울일 것"이라고 밝혔다.      &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Mon, 29 Jul 2024 08:25:06 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/200192</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200192</guid>
-			<dc:creator>한수현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
