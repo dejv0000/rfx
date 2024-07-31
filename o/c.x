@@ -13,6 +13,271 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 이재용·정의선·머스크, 주말 파리 회동...배터리 등 차세대 기술 논의</title>
+      <link>https://www.chosun.com/national/people/2024/08/01/FN7S57U2DNAPRFPGGFRPMP2ITY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/01/FN7S57U2DNAPRFPGGFRPMP2ITY/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 20:18:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LSQH4XUMIZDV3BO6WIGSSG7LHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재용(왼쪽) 삼성전자 회장과 정의선(가운데) 현대차그룹 회장, 일론 머스크(오른쪽) 테슬라 CEO가 올림픽이 진행 중인 프랑스 파리에서 8월 초 회동을 가질 것으로 알려졌다. 재계에서는 세 회사의 협력 여부에 따라 차량용 반도체와 전기차 배터리, 전장 분야 등에서 새로운 사업 기회가 창출될 여지도 있다고 보고 있다. /뉴시스·뉴스1·EPA 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재용(56) 삼성전자 회장과 정의선(54) 현대차그룹 회장, 일론 머스크(53) 테슬라 CEO가 8월 초 프랑스 파리에서 만날 것으로 알려졌다. 세 사람이 회동하는 것은 이번이 처음이다. 특히 미국 전기차 시장에서 1위, 2위를 기록한 테슬라와 현대차, 자동차업계 대표 라이벌 회사의 경영자 간 만남은 이례적이어서 회동 배경에 관심이 쏠리고 있다. 정 회장과 머스크가 만나는 건 이번이 처음으로 전해졌다.&lt;br&gt;&lt;br&gt;31일 본지 취재를 종합하면, 이들은 이번 주말 파리 모처에서 식사를 함께 할 예정이다. 복수의 재계 고위 인사는 “파리 올림픽 기간 프랑스를 방문한 세 사람이 차세대 기술 개발에 대해 의견을 나누고 앞으로의 협력 방안을 모색하기 위해 만나기로 했다”고 말했다. 정의선 회장, 일론 머크스 CEO와 가까운 이재용 회장이 만남을 제안했고, 두 사람은 흔쾌히 승낙한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 회장과 머스크는 몇 차례 만난 적이 있다. 지난해 5월 이 회장의 미국 출장 때 머스크가 실리콘밸리 삼성전자 북미 반도체연구소를 방문했다. 삼성전자는 테슬라 자율주행 구현의 핵심 역할을 하는 반도체칩의 공급사다. 둘은 지난 25일 마크롱 프랑스 대통령이 주최한 기업인 오찬 자리에도 각각 참석했다. 대한양궁협회장 자격으로 프랑스를 방문 중인 정 회장은 이날 오찬에는 참석하지 않았다.&lt;br&gt;&lt;br&gt;세 사람의 만남은 글로벌 무대에서 교류가 활발해진 최근 산업계 분위기를 대변한다는 분석이다. 재계 관계자는 “창업 1~2대는 각자의 분야를 공고히 하거나 서로 경쟁하는 분위기 탓에 상대적으로 교류가 적었지만, 3대로 넘어오며 ‘서로 협력할 것은 협력하고, 경쟁할 것은 경쟁하자’며 분위기가 많이 바뀌었다”며 “특히 IT와 제조업의 경계가 허물어지면서 기업들의 전방위적 협력이 필수가 된 것도 이런 만남들을 가능케 한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;실제 삼성전자, 현대차, 테슬라 세 회사는 차량용 반도체, 전기차 배터리, 전장(電裝) 분야 등에서 협력을 통한 사업 확대를 꾀하고 있다. 과거 대형 반도체 업체가 참여를 꺼렸던 차량용 반도체의 경우 전기차와 자율주행 개념이 등장하면서 새로운 시장으로 각광받고 있다. 한 업계 관계자는 “자동차의 개념이 이동 수단에서 바퀴 달린 컴퓨터로 진화하면서 어제의 경쟁사가 오늘의 협력사가 될 수 있는 상황”이라고 했다. 세 회사의 협력 여부에 따라 부품 공급 등 새로운 기회가 창출될 여지도 있다.&lt;br&gt;&lt;br&gt;세 사람은 연배가 비슷하다. 두세 살 터울로 비슷한 시대를 살아왔다. 이재용 회장의 경우 굵직한 CEO들과의 공개 만남이 잦은 편인 반면, 정 회장은 CEO들과의 만남이 공개된 사례가 상대적으로 적다. 머스크는 X(구 트위터)를 통한 독설로 유명하지만 기업인들과의 만남에서는 180도 다른 모습을 보인다고 한다. 현대차와 경쟁 관계지만, X에 “현대차는 잘하고 있다”며 공개 칭찬한 적도 있다.&lt;br&gt;&lt;br&gt;이들은 차세대 핵심 산업인 전기차 배터리와 관련해서도 의견을 나눌 전망이다. 테슬라가 양산이 용이해 ‘게임 체인저’라 불리는 ‘4680′(지름 46㎜ 길이 80㎜) 원통형 배터리 개발을 주도하는 가운데, 삼성SDI가 지름 46㎜의 원통형 배터리 개발에 뛰어들었고, 현대차도 배터리 설계 분야에 진출한 상황이다. 완성차 업체까지 배터리 분야에 관심을 두는 건 전기차 가격의 30~40%를 차지하는 핵심 부품을 지금처럼 배터리 업체에만 전적으로 의존해 끌려 다닐 수 없다는 판단 때문이다.&lt;br&gt;&lt;br&gt;자동차 업계에서는 테슬라가 배터리 설계 외 구체적 생산 계획까지 내놓고 있는 만큼 이에 대한 정 회장과 머스크의 의견 교류에 주목하고 있다. 실제 배터리 분야도 반도체처럼 ‘설계’와 ‘생산’을 분리하는 움직임이 나타나면서 완성차 업체가 설계 전문 회사인 ‘팹리스’ 역할을 하고, 위탁 생산하는 ‘파운드리’ 역할은 배터리 업체가 맡는 방식이 보편화될 가능성이 있기 때문이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/S5ZEV3AUOFFO5PNKMYALKGCWLU.jpg?width=1600&amp;height=900&amp;auth=01a40b1c162a9189cb4e2de2732b5de99132560d4c8678b0039194f817b3d406&amp;smart=true" type="image/jpeg" height="900" width="1600">
+        <media:description type="plain">왼쪽부터 이재용 삼성전자 회장, 정의선 현대차그룹 회장, 일론 머스크 테슬라 CEO. /연합뉴스·올림픽공동취재단·AP</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>[단독] 싱가포르 주최 의료인 채용설명회에 의사 200여명 북적… 절반이 전공의</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/08/01/A5XUYCZXVJGB3CTZPCV2WKE5MA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/01/A5XUYCZXVJGB3CTZPCV2WKE5MA/</guid>
+      <dc:creator>오경묵 기자, 남소정 인턴기자(성균관대 한문교육과 졸업)</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 20:10:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TH4774OORC7HBU2CW742CSM43A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 24일 서울 서초구 서울성모병원에서 의료진이 지나는 모습. 기사 내용과 무관한 사진. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 27일 오후 서울의 한 호텔에 의사와 간호사 300여 명이 모였다. 싱가포르 보건부 산하 공공의료 서비스 지주회사인 MOH홀딩스가 주최한 해외 의료인 채용 설명회를 듣기 위해서였다. 이날 싱가포르에서 일할 의향이 있는 의사와 간호사들에게 채용 계획을 알리면서 질의 응답도 진행했는데, 참가한 의사 200여 명 중 절반가량은 전공의였다고 한다. 의료 대란 이후 대학병원 취업이 어려워진 간호사들도 100여 명이 참가했다. 주최 측은 “참석자 모집에 2주가량 걸릴 것으로 생각했는데, 신청자가 몰려 3일 만에 마감했다”고 했다.&lt;br&gt;&lt;br&gt;싱가포르는 전 세계 103개 의대 출신에 대해서만 자국에서 의사 면허를 인정한다. ‘검증된 이들만 받겠다’는 취지다. 한국에선 서울의대, 연세의대가 포함돼 있고 그 외 대학의 경우 싱가포르 보건 당국의 의사 면허 인증 절차를 별도로 밟아야 한다. 그런데도 채용 설명회에 200여 명의 의사가 몰려든 것은 이례적이다. 이날 행사를 주관한 케이닥의 조승국 대표는 “싱가포르 의사 면허와 전문의 취득 과정, 근무 시간, 근무 조건, 업무 강도에 관한 질문이 많았다”고 전했다. 현장에서 면접을 본 이들도 30명에 달한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;지난 2월 의료 파행 사태 이후 싱가포르뿐 아니라 미국·일본으로 눈을 돌리는 전공의도 적지 않다. 실제 미국 의사 시험 준비 커뮤니티에는 미국행을 고민하는 전공의들의 글이 다수 올라왔다. 이런 가운데 대한의사협회(의협)는 최근 의사들을 대상으로 해외 진출 정책 관련 설문조사를 진행해 일각에서 논란이 일었다. 의협은 “의사 회원의 해외 진출에 대한 관심이 급증해 이에 관한 의협의 정책적 지원에 관해 논의하고자 한다”고 했다. 그러나 일각에선 “의료 공백 책임은 정부에 전가하고, 국내 의료가 어떻게 되든 제 살길만 찾으면 된다는 것이냐”는 비판이 나왔다.&lt;br&gt;&lt;br&gt;전공의들의 해외 진출은 쉽지 않다. 미국의 경우 시민권이나 영주권이 없는 사람이 현지에서 의료 행위를 하려면 별도의 비자를 받아야 하는데, 이를 위해서는 우리 정부의 추천서가 필요하다. 정부는 “(추천서 발급 여부는) 개별적으로 판단해야 할 것”이라며 유보적인 태도를 보이고 있다. 또 의사의 해외 진출은 진료와 수술 등 복잡한 업무상 언어 장벽이 만만치 않다. 다른 나라에서 몰려드는 지원자들과 경쟁해 일자리를 따내야 하는 것도 걸림돌이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>장보러 왕복 1시간 반… 서울에도 ‘식품 사막’ 있다</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/01/TUOMOOTBRRDIRKZNQ7VX5YQ6AU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/TUOMOOTBRRDIRKZNQ7VX5YQ6AU/</guid>
+      <dc:creator>정해민 기자, 최하연 인턴기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 20:15:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S3WGIQXVM5DXRGYJ2AWCFXDTBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 25일 서울 관악구에서 주민 김모(88)씨가 쪽파 두 단 등이 든 검은 비닐봉지를 들고 오르막길을 걷고 있다. 서울의 낮 최고기온이 32도를 넘은 이날 김씨 집에서부터 장을 본 시장까지 걸어서 약 20분이 걸렸다. /최하연 인턴기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 성북구 북한산 자락의 한 주택가. 이곳은 높은 지대에 있어 거주하는 일부 주민은 ‘서울의 마지막 달동네’라고 부른다. 고기나 과일, 채소 등 신선 식료품을 사려면 비탈길을 한참 내려갔다가 다시 올라와야 한다. 본지 기자가 고령자가 거주하는 한 주택에서 출발해 가장 가까운 거리의 마트까지 걸어가 보니 경사가 심하고 계단이 많아 약 20분이 걸렸다. 덥고 습한 날씨 탓에 마트에 도착했을 때는 온몸에 땀이 나 가방 끈까지 젖었다. 주민 이모(83)씨는 “장을 자주 못 봐서 평소에는 밥에 마른 반찬을 주로 먹는다”며 “요즘같이 더운 여름에는 이른 아침이나 해 진 뒤 장 보러 가는 경우가 많다”고 했다.&lt;br&gt;&lt;br&gt;서울과 같은 대도시에서도 식료품점과 주거지가 멀리 떨어져 있어 발생하는 ‘식품 사막화’를 겪는 지역이 있는 것으로 31일 나타났다. 식품 사막이란 식료품을 파는 가게가 주변에 없는 지역을 뜻하는 학계 용어다. 지난해 구자용 상명대 공간환경학부 교수 연구팀은 서울시에서 주거지로부터 500m 이내에 식료품점이 한 곳도 없는 ‘식품 사막’이 시민 거주 지역 가운데 2.2%에 달한다고 분석했다. 연구팀은 “식품 사막 지역은 대부분 북한산과 관악산 등 자연 녹지 주변에 위치한 지역”이라며 “또한 은평구, 강서구, 구로구 등 서울시 외곽 지역에도 식품 사막이 주로 분포하고 있다”고 했다. 학계에서는 ‘식품 사막’을 노인 인구 비율이 높고 평균 소득이 비교적 낮은 지역으로 보고 있다.&lt;br&gt;&lt;br&gt;본지가 취재한 성북구 한 동네의 경우, 인구 통계로 60세 이상 비율이 30%를 넘기도 했다. 이곳에서 만난 노인들은 “마트까지 걸어가기 힘들어 장을 볼 때는 차라리 대중교통을 타고 멀리 떨어진 전통 시장에 간다”고 했다. 주민 김호기(74)씨는 식료품을 사기 위해 동대문구 경동시장에 자주 간다. 그의 집에서 경동시장까지 도보 15분, 버스 30분이 걸려 왕복 1시간 30분이다. 그는 “동네 외곽에 마트가 있지만 노인 걸음으로 비탈길을 가려면 거리가 멀어 힘들고, 물건이 다양하지 않다”며 “과일이나 채소를 챙겨 먹고 싶을 때는 큰 시장으로 나간다”고 했다.&lt;br&gt;&lt;br&gt;관악산 인근 한 동네에 사는 김모(88)씨도 걸어서 약 20분 걸리는 관악구 현대시장에서 장을 본다. 본지가 만난 김씨는 한 손에 양산, 다른 손에 쪽파 두 단이 든 검정 비닐봉지를 들고 힘겹게 오르막길을 걷고 있었다. 긴 바지를 무릎 아래까지 접어 올린 채 땀을 흘리기도 했다. 김씨는 “요즘 발목이 시큰거려 오래 걷는 게 힘들다”며 “시장보다 가까운 마트가 있긴 하지만 식료품 종류가 적고 비싸 20분 떨어진 시장에 다닌다”고 말했다.&lt;br&gt;&lt;br&gt;대부분 노인들에게 온라인을 활용하는 새벽 배송 서비스는 그림의 떡이라고 한다. 스마트폰으로 주문하면 집 앞까지 식료품을 배달해주는 서비스가 있다는 사실을 알아도, 복잡한 사용법에 포기하기 일쑤다. 이날 성북구 한 대학의 기숙사 곳곳에는 온라인 새벽 배송 상자가 놓여 있었지만, 달동네 주택가에는 거의 보이지 않았다. 주민 정영숙(75)씨는 “인터넷 배송은 젊은이들이나 하는 거지 우리 세대는 잘 모른다”고 말했다. 일부 마트에서 무료 배달을 해주기도 하지만, 매번 최소 주문 금액을 맞추긴 쉽지 않다고 했다.&lt;br&gt;&lt;br&gt;이은희 인하대 소비자학과 교수는 “식품 사막 문제는 농촌이 심각하지만 서울도 예외는 아니다”라며 “온라인 쇼핑에 익숙하지 않은 노인들에게는 일본, 미국과 같은 ‘이동형 마트’가 절실하다”고 했다. 일본은 거주지 500m 안에 식료품 가게가 없는 노인을 ‘장보기 약자’로 지정하고, 이동형 마트 지원 정책을 펴고 있다. 미국도 식품 사막 지역에 문을 여는 식료품 가게에 정부 보조금을 준다. 우리나라에도 경기 포천 등 지역 농협이 운영하는 이동형 마트가 일부 있지만, 도시의 일부 지역은 이런 시설이 없다는 지적이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 대형 병원들 경영난 커지고, 환자 불편 내년까지 갈 듯</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/08/01/AKKW7DQM2JBLXE3ZPWHALWBFWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/01/AKKW7DQM2JBLXE3ZPWHALWBFWE/</guid>
+      <dc:creator>안준용 기자, 오유진 기자, 정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 20:06:00 +0000</pubDate>
+      <content:encoded>31일 마감된 전국 수련병원 126곳의 하반기 전공의 모집 결과, 총 모집 인원 7645명 가운데 지원자는 100여 명인 것으로 알려졌다. 이른바 ‘빅5(서울대·서울아산·세브란스·삼성서울·서울성모)’ 병원의 경우, 2093명을 뽑겠다고 했지만 총 지원자가 30여 명에 그친 것으로 전해졌다.&lt;br&gt;&lt;br&gt;전국 수련 병원들은 이날까지 올 9월부터 수련을 시작하는 하반기 전공의 지원서를 받았다. 인턴 2525명, 레지던트 5120명 등 7645명을 모집하겠다고 했지만, 지원자가 ‘0명’인 병원이 대다수였다. 빅5 병원도 대부분 지원자가 한 자릿수였다. 정부가 하반기 지원자에 한해 전문의 자격 취득이 늦어지지 않도록 특례를 주겠다고 했는데도 전공의들이 반응하지 않은 것이다.&lt;br&gt;&lt;br&gt;앞서 전공의들은 지난 2월 집단 사직서를 내고 진료 현장을 떠났다. 정부가 내년 상반기 전공의 모집 전 별도의 추가 모집은 예정에 없다고 한 만큼 최소 내년 2월까지 전국 주요 병원이 전공의 없이 운영되는 ‘뉴 노멀(new normal·새 표준)’에 들어서게 됐다. 이에 따라 전공의 비율이 40~50%에 달했던 대형 병원의 경영난이 가중되고, 진료·수술 지연 등 환자들의 피해도 계속 이어질 것으로 보인다.&lt;br&gt;&lt;br&gt;빅5 병원 한 교수는 “전공의들은 ‘2025학년도 의대 증원 백지화’라는 요구 사항이 받아들여지지 않았고, 정부의 태도 변화가 없는 상황에서 복귀할 이유가 없다는 입장”이라며 “이제 각 병원은 전공의 없이 어떻게든 버텨나갈 수밖에 없는 상황이 됐다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3TDJOYMIZ5DILJNXIN5DD6NRAM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당장 큰 문제는 환자 진료와 병원 재정이다. 전공의 이탈 후 중환자를 치료하는 빅5 병원의 수술·입원 건수가 반 토막 났다. 외래진료도 30~40% 줄었다. 조강희 충남대병원장은 30일 임직원들에게 보낸 글에서 “충남대병원은 부분 자본 잠식, 분원인 세종충남대병원은 완전 자본 잠식 상태”라며 “올해 1~5월 각각 148억원 적자, 220억원 적자가 발생했다”고 했다.&lt;br&gt;&lt;br&gt;전공의들도 사정이 여의치 않다. 피부과·성형외과 의원 등에서 페이닥터(병원에 고용된 의사)로 일하려는 이가 많지만, 한꺼번에 수천명의 전공의가 쏟아지게 되면서 급여 수준 등이 종전보다 크게 떨어질 것으로 보인다.&lt;br&gt;&lt;br&gt;의료계 원로들은 “전공의 복귀를 위해 정부가 총력을 기울여야 한다”고 조언했다. 김한중 전 연세대 총장은 “이대로 가면 내년이 아니라 그 이후에도 의료 공백 사태가 계속 이어지고, 의료 인력 양성 체계와 의료 시스템이 회복될 수 없을 정도로 망가지게 된다”고 했다. 김 전 총장은 “정부가 2025학년도 의대 정원은 손댈 수 없고 2026학년도 정원은 논의할 수 있다고 하지만, 의료계는 그 말을 신뢰하지 않는다”며 “2026학년도 정원 조정에 의료계 의견이 충분히 반영되도록 협의 기구를 제대로 구성하는 등 조치를 정부가 먼저 취해줘야 한다”고 했다.&lt;br&gt;&lt;br&gt;김영훈 전 고려대의료원장은 “암, 심혈관, 뇌질환 등 중증 환자들이 피해를 보지 않도록 해야 한다”며 “그러려면 우선 중증 환자를 일정 비율 이상 유지하는 병원에는 PA(진료 지원) 간호사, 입원 전문 전담의 등 전공의 대체 인력 인건비를 국가가 보조하면서 중증 환자 진료 시범사업을 확대할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;정부가 의료 개혁 방향을 발표할 때 구체적인 재원 마련 계획까지 제시해야 의료계 신뢰를 얻을 수 있을 것이란 지적도 나왔다. 송시헌 전 충남대병원장은 “정부가 ‘전문의 중심 병원’을 만들겠다고 하는데, 윗돌 빼서 아랫돌 괴는 식이 아니라 그 계획을 뒷받침할 예산을 어떻게 마련할지까지 함께 제시해야 한다”고 했다. 한상욱 아주대의료원장도 “필수 의료 수가 현실화가 중요하지만, 정작 정부는 지원 한계가 분명한 건강보험 외 별도 재원에 관한 언급은 안 보인다”며 “필수 의료 의사들의 소송 부담을 덜어주는 것도 중요한 과제”라고 했다. 박종훈 전 고려대안암병원장은 “지금 의대 1학년생들이 여전히 1학년으로 남아 있는 상황에서 의대생 휴학 문제의 해결 실마리부터 빨리 찾아야 하고, 병원이 PA 간호사에게 어느 업무까지 맡길 수 있는지 범위도 명확하게 정해줘야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/G4YST2GOSNECJICSPSQHLBYIQU.png?width=1200&amp;height=675&amp;auth=96a182b245a2594bf810868dba6696527c2d18715ec589f66aa1ace6d581f78a&amp;smart=true" type="image/png" height="675" width="1200">
+        <media:description type="plain">그래픽=백형선</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>[입에 착착 붙는 일본어] (그 자리를) 적당히 얼버무리다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2022/12/06/EBDMSH6D2ZH4DO5OEADJXCOJTE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2022/12/06/EBDMSH6D2ZH4DO5OEADJXCOJTE/</guid>
+      <description/>
+      <pubDate>Mon, 05 Dec 2022 18:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U4KGTVLJAZAVDOD36RYMRIEVNA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 파로호(破虜湖)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2024/08/01/BFRKQCKUAJBC5MDVSZ2NUSFNBE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/08/01/BFRKQCKUAJBC5MDVSZ2NUSFNBE/</guid>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 17:33:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SPDO5O5XP5B2PAPXSUNEFGJFV4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[입에 착착 붙는 일본어] (그 자리를) 적당히 얼버무리다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2024/08/01/TVA2SHLLLBGR7MPSZE3J7CGRS4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/08/01/TVA2SHLLLBGR7MPSZE3J7CGRS4/</guid>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 17:32:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CXJ7YPX4RB6JKSZSED6GH7LAI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디] 측정이 불가하다, 상한선을 넘다</title>
+      <link>https://www.chosun.com/national/nie/chinese/2024/08/01/PT5JV7LW4NHGPIOTCB5BAUNLVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/08/01/PT5JV7LW4NHGPIOTCB5BAUNLVY/</guid>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 17:32:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHFUYIPSGZAZ3OHYQCB3UJGWDE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] out of character</title>
+      <link>https://www.chosun.com/national/nie/english/2024/08/01/GCRK2N5BVVCNFK6NYB4SSZTJG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/08/01/GCRK2N5BVVCNFK6NYB4SSZTJG4/</guid>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 17:31:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W345X4FR5JCXBCGEAJIYYFMR7A.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2433] 칙칙폭폭 꼬리 잇기</title>
+      <link>https://www.chosun.com/national/nie/2024/08/01/QFUJJY42GVEAXEZFT373DQJ4U4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/01/QFUJJY42GVEAXEZFT373DQJ4U4/</guid>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 17:31:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBWHX7XO45GUBPSKBQHO3PERTQ.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[인사] 헌법재판소 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/08/01/MUEZICZAFZE73HWYVPLXMOZYTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/08/01/MUEZICZAFZE73HWYVPLXMOZYTQ/</guid>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 17:27:35 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;헌법재판소&lt;/b&gt;◇헌법연구관 임용▷문숙현 김동욱 김유문 이상혁 이영호&lt;br&gt;&lt;br&gt;▲&lt;b&gt;법무부&lt;/b&gt;▷범죄예방정책국장 이영면&lt;br&gt;&lt;br&gt;▲&lt;b&gt;행정안전부&lt;/b&gt;◇국장급 전보▷장관정책보좌관 정창성▷정책기획관 임철언&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한겨레신문사&lt;/b&gt;▷뉴스영상부장 김도성▷디지털뉴스부장 성연철▷문화스포츠부장 서정민▷사진부장 김정효▷사회부장 김태규▷여론미디어부장 정세라▷전국부장 김동훈▷정치부장 이세영▷지구환경부장 최원형▷토요판부장 조일준&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 윤순이씨 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/08/01/43E2P3OWBFCQNKFFGLI4QK6DNA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/08/01/43E2P3OWBFCQNKFFGLI4QK6DNA/</guid>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 17:27:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;윤순이&lt;/b&gt; 별세, &lt;b&gt;정황근&lt;/b&gt; 前 농림축산식품부장관 모친상=30일20시30분 천안하늘공원 장례식장, 발인 2일6시30분, (041)621-8012&lt;br&gt;&lt;br&gt;▲&lt;b&gt;진치재&lt;/b&gt; 별세, &lt;b&gt;김창남&lt;/b&gt; 前 동아대 경제학과 교수 모친상, &lt;b&gt;김근화&lt;/b&gt; 여성자원금고 이사장 시모상=30일15시20분 신촌세브란스병원, 발인 2일6시30분, (02)2227-7569&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>양승학 대한제지 회장 별세</title>
+      <link>https://www.chosun.com/national/people/2024/08/01/MLY7JNQSZRHG5O7INVU2BKB4OU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/01/MLY7JNQSZRHG5O7INVU2BKB4OU/</guid>
+      <dc:creator>강다은 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 17:26:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PD7HJW2OTJCXXAFGM4X3LV3NEI.jpg"&gt;&lt;br&gt;&lt;br&gt;양승학(88) 대한제지 회장이 지난 29일 숙환으로 별세했다. 양 회장은 1936년 함경북도 청진 출생으로, 1960년 미국 마이애미대를 졸업한 뒤 1961년 국내 신문용지 제지 기업인 대한제지에 입사했다. 그는 ‘2세 경영인’으로 1976년 대표에 오른 뒤 별세하기 전까지 대한제지를 이끌었다.&lt;br&gt;&lt;br&gt;양 회장은 60년 이상 제지 업계에 몸담으면서 종이 재활용을 통한 재생지 개발 등을 해왔다. 그는 이 같은 공로를 인정받아 1989년 환경청장 표창을 시작으로 2013년 녹색경영대상 국무총리 표창 등을 받았다. 또 교회를 지어 사회에 헌납하는 등 기부 활동을 이어오기도 했다. 유족은 아내 서범주씨와 아들 양등락 대한제지 부회장, 양창락 사장 등 4남1녀가 있다. 빈소는 서울아산병원 장례식장, 발인은 1일 오전 7시. (02)3010-2000&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김진현 前 과기처 장관 ‘협성사회공헌상’ 수상</title>
+      <link>https://www.chosun.com/national/people/2024/08/01/GCWXAIMHGBDEVJHS3OLIE5VWJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/01/GCWXAIMHGBDEVJHS3OLIE5VWJI/</guid>
+      <dc:creator>유석재 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 17:25:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XIBHTB432FHP5JF6MHCDYQENCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/협성문화재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김진현(88·사진 가운데) 전 과학기술처 장관이 대한민국의 민주화와 국제화·선진화와 국민의 행복을 위해 헌신한 공로로, 31일 협성문화재단이 주는 ‘협성사회공헌상’을 받았다. 협성문화재단은 부산의 향토 건설업체인 협성종합건업의 정철원&amp;lt;오른쪽&amp;gt; 회장이 사회 공헌 및 장학 사업을 위해 설립했다. 상금은 5000만원.&lt;br&gt;&lt;br&gt;서울 한국프레스센터에서 김 전 장관의 저서 ‘대한민국 100년 통사’의 출판기념회와 함께 열린 시상식에서 김 전 장관은 “협성문화재단이 추구하는 나눔과 봉사의 뜻을 실천하는 삶을 살겠다”고 수상 소감을 밝혔다. 김 전 장관은 대학 총장, 언론사 대표, 대한민국역사박물관 건립위원장 등을 역임했으며, 세계화추진위원회 설립을 주도하고 여러 연구소와 민간 단체를 창립해 대표로 활동했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>파도 위 공중부양?… ‘올림픽 스타’ 된 서핑 챔피언</title>
+      <link>https://www.chosun.com/national/people/2024/08/01/FOTWZQ665ZFWLC4BMJXBXYF66A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/01/FOTWZQ665ZFWLC4BMJXBXYF66A/</guid>
+      <dc:creator>김지원 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 17:24:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IIOGO7QBMJPQFPBFRRPNEDD4ZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일(현지 시각) 프랑스령 폴리네시아 타히티 섬의 테아후푸에서 열린 파리 2024 올림픽 남자 서핑 3라운드 경기에서 브라질의 가브리엘 메디나가 고난도 기술을 성공시킨 후 '공중부양' 세리머니를 선보이고 있다./AFP 연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;파도와 하늘 사이에 붕 떠있는 남자. 발목에 묶인 서핑보드가 그와 나란히 공중에 떠있다. 베테랑 서핑 선수와 사진 기자가 함께 만들어낸 초현실적 장면이다. 29일(현지 시각) 프랑스령 폴리네시아 섬 타히티 테아후푸에서 열린 2024 파리 올림픽 남자 서핑 예선 3라운드 경기에서 브라질 가브리엘 메디나(30·브라질)는 고난도 기술에 성공, 역대 올림픽 서핑 파도타기 점수 중 최고점인 9.90을 기록했다. 그는 기술을 성공한 직후 파도 위에서 점수를 확인하고는 공중에 몸을 띄워 검지 손가락을 하늘을 향해 치켜드는 세리머니를 선보였다. 그러자 이 장면을 놓치지 않고 프랑스 매체 AFP 사진기자 제롬 브루예(39)가 포착했다.&lt;br&gt;&lt;br&gt;10년 경력 스포츠 사진기자인 그는 당시 경기 사진을 찍기 위해 다른 기자들과 함께 작은 보트를 타고 있었다고 한다. 그는 “모든 사진기자들이 메디나의 세리머니를 기다리고 있었다”며 “그는 때때로 곡예적인 몸짓을 하는데, 이번에도 그렇게 해서 바로 셔터를 눌렀다”고 했다. 그는 사진을 찍는 순간 ‘뭔가 특별한 것을 포착한 것 같다’고 생각했다고 한다. 사실이었다. 전 세계 언론들이 이날 경기를 보도하면서 브루예의 사진을 사용했고, 소셜미디어에서도 수백만 번 공유되며 화제를 낳았다. 타임(TIME)지는 “2024 파리 올림픽 환희를 상징하는 이미지”라고 평했다. 브루예는 사진이 이 정도로 관심을 받을 줄은 몰랐다면서 “메디나 선수와 보드가 일자로 정렬된 모습에 포토샵이 아니냐는 의심을 받기도 했는데, 그건 아니고 그냥 우연히 그렇게 된 것”이라고 했다.&lt;br&gt;&lt;br&gt;브루예는 10년 전 타히티에서 휴가차 왔다가 이 지역에 매료돼 실제로 거주한 경험이 있다. 이 때문에 ‘세계에서 가장 거친 파도’로 유명한 테아후푸 환경에 대해 해박한 지식을 갖고 있다고 한다. 취미로 서핑을 즐기는 점도 해당 종목을 이해하는 데 도움이 됐다. 브루예는 “테아후푸 친구 집에 머무르면서 올림픽을 취재하고 있다”며 “아직 촬영할 경기가 많다. 축하에 대한 감사는 미뤄둘 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/IIOGO7QBMJPQFPBFRRPNEDD4ZM.jpg?width=6561&amp;height=4361&amp;auth=c65225aafa18f4e75ff7aa41fe9bd691ec0fe37db1ac35ba63cb871ad6bfd381&amp;smart=true" type="image/jpeg" height="4361" width="6561">
+        <media:description type="plain">&lt;YONHAP PHOTO-3987&gt; TOPSHOT - Brazil's Gabriel Medina reacts after getting a large wave in the 5th heat of the men's surfing round 3, during the Paris 2024 Olympic Games, in Teahupo'o, on the French Polynesian Island of Tahiti, on July 29, 2024. (Photo by Jerome BROUILLET / AFP)/2024-07-30 15:47:17/
+&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">JEROME BROUILLET</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>건보 지역가입자 2.8배 혜택… 저소득층일수록 많이 받아</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/08/01/OSPIUYTIERCXDM6X4QQLBOQJCM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/01/OSPIUYTIERCXDM6X4QQLBOQJCM/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 16:43:20 +0000</pubDate>
+      <content:encoded>자영업자나 농·어민 등 건강보험 지역가입자가 회사에 다니는 직장가입자보다 건강보험 혜택을 많이 받는 것으로 나타났다. 납부한 건강보험료보다, 건강보험으로 인한 혜택을 상대적으로 지역가입자들이 더 많이 받았다는 뜻이다.&lt;br&gt;&lt;br&gt;31일 국민건강보험공단이 김선민 조국혁신당 의원실에 제출한 자료에 따르면, 지난해 기준 지역가입자가 낸 건강보험료는 총 9조9000여억 원, 건강보험이 이들에게 지원해 준 진료비 등은 총 27조6000여억 원이었다. 낸 돈의 2.8배가량 혜택을 받은 셈이다. 반면 직장가입자는 지난해 총 69조2000여억 원의 보험료를 내고, 낸 돈의 약 4분의 3에 해당하는 51조7000여억 원(74.7%)의 혜택을 받았다.&lt;br&gt;&lt;br&gt;건보공단 관계자는 “지역가입자는 자영업자, 농·어민 외에도 은퇴자가 많이 포함돼 있는데, 은퇴자 연령대가 60대 이상”이라며 “이 때문에 50대 이하 직장인이 중심인 직장가입자에 비해 지역가입자의 진료비 등이 많이 나와 혜택도 많이 보는 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;또 건강보험은 소득이 낮을수록 혜택도 커진다. 건보 공단 자료에 따르면, 지역가입자 가운데 소득 상위 10%를 제외하면 90%가 부담한 보험료보다 더 많은 혜택을 받은 것으로 나타났다. 직장가입자의 경우 소득 하위 30%는 납부한 보험료보다 더 많은 혜택을 받았지만, 상위 70%는 낸 보험료보다 혜택이 적었다. 건강보험은 2004년 도입한 ‘본인부담상한제’를 통해 1년 동안 낸 의료비 본인부담금이 소득별 상한 기준을 넘으면 넘은 만큼 돌려준다. 예컨대 저소득층(하위 30%)은 연간 최대 87만~108만원만 자기 돈으로 의료비를 내면 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>시원한 폭포수</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/01/26CHHSHALZCX3AW5VCIYFUBLPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/26CHHSHALZCX3AW5VCIYFUBLPQ/</guid>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 16:40:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HF3645SLSFCTZDGUZVKBWX5ED4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;31일 전남 구례군 산동면에 위치한 수락폭포를 찾은 피서객들이 폭포수 아래서 물줄기를 맞으며 더위를 식히고 있다. 기상청에 따르면 이날 전국 대부분 지역에서 체감 온도가 35도 안팎으로 치솟았고, 전국에 폭염특보가 발효됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[길] 1.5평 쪽방엔 약봉지 수북… 달력엔 “너무 아푸다, 살기 실타”</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/01/EQUZMKFDPVGR7A6BVXAEDO4DGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/EQUZMKFDPVGR7A6BVXAEDO4DGQ/</guid>
+      <dc:creator>안준현 기자, 김영은 인턴기자(한국외대 말레이시아인도네시아어과 졸업)</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 16:39:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IVIGUSBM55ET7KMU3MVN2YDNKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아령을 묶고 한강에 투신했던 박모씨의 고시원 쪽방. /김영은 인턴기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 28일 경기 고양시 덕양구 행주나루터에서 팔에 5㎏ 아령을 묶은 시신으로 발견된 박모(61)씨의 마지막 거처는 서울 성동구 금호동의 한 고시원이었다. 4.9㎡(1.5평) 남짓한 쪽방에 걸린 달력엔 “몸이 너무 아푸다(아프다). 살기 실타(싫다). 죽고 싶다”고 적혀 있었다. 중증 당뇨·고지혈증·백내장 등에 시달리던 박씨가 복용하던 약 봉지가 방 한편 탁자에 빼곡했다. 보건복지부가 발송한 건강검진 안내문엔 ‘청소비로 쓰세요’라고 적혀 있었다. 박씨는 봉투에 10만원을 넣어뒀다고 경찰은 밝혔다.&lt;br&gt;&lt;br&gt;이 고시원 간판엔 ‘해피’라는 낱말이 있었지만, 지난 30일 본지 기자들이 찾은 박씨의 쪽방은 행복과는 거리가 멀었다. 소형 냉장고엔 쌈장과 고추장이 놓여 있었다. 나무젓가락과 컵라면, 국그릇과 숟가락, 생수병 등의 모습도 보였다. 천장 옷걸이엔 수건과 속옷·양말, 겨울 옷가지 등이 걸려 있었다. 고시원이 방음이 되지 않았던 모양인지 침대 위엔 귀마개와 이어폰이 있었다.&lt;br&gt;&lt;br&gt;박씨가 삶의 끈을 부여잡으려는 흔적이 곳곳에 남아 있었다. 아직 새것인 로또 OMR 용지 다발이 수북했고, 컴퓨터용 사인펜도 넉넉했다. ‘당뇨약’ 아침 식후 즉시, ‘고지혈증약’ 1일 1회, ‘위장약’ 식전 등 약병 뚜껑엔 복용 요령이 빼곡히 적혀 있었다. 방 한편엔 구직 광고가 있는 신문이 쌓여 있었다. ‘양조 식초가 혈관과 장에 좋다’는 수첩 메모도 있었다.&lt;br&gt;&lt;br&gt;박씨는 2008년 3월부터 이 고시원에서 살았다고 한다. 충북 충주 출신인 그는 20대에 상경해 세차장에서 일했다. 결혼은 하지 않았다. 지인들은 그를 ‘착하고 온순한 사람’으로 기억했다. 하지만 친구에게 사기를 당해 마음고생도 심했다고 한다. 50대가 되면서 각종 성인병이 발병했고 세차장에서 일하다가 정화조에서 떨어져 어깨를 다치기도 했다.&lt;br&gt;&lt;br&gt;박씨는 기초생활수급자로 한 달 95만원을 받았다. 지난해 모친이 별세하면서 삶의 의지를 잃었다고 한다. 고시원 달력 음력 5월 15일엔 ‘어머니 기일’이라고 적혀 있었다. 그는 지난 25일 동호대교에서 투신했다. 시신은 한강을 따라 22km를 떠내려가 사흘 만에 발견됐다.&lt;br&gt;&lt;br&gt;한국보건사회연구원이 발표한 ‘2022년 한국복지패널 조사·분석 보고서’를 보면 박씨와 같은 저소득층(1인 월 222만원 이하)은 소득이 높은 사람들보다 만성 질환 비율이나 병원을 찾는 횟수가 2배가량 많은 것으로 나타났다. 저소득층의 우울 정도는 9.99점(60점 만점)으로 비(非)저소득층(4.63점)보다 2배 높았고, 1년 동안 한 번이라도 자살 생각을 한 적 있다는 응답은 저소득층이 비저소득층의 3배였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>朴법무 “제3의 장소에서 김건희 여사 비공개 조사, 특혜라고 생각 않는다”</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/01/YCRW3NVGH5C43OQ3SHHX63WHVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/01/YCRW3NVGH5C43OQ3SHHX63WHVQ/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 16:39:16 +0000</pubDate>
+      <content:encoded>박성재 법무장관은 검찰이 최근 김건희 여사를 제3의 장소에서 비공개로 조사한 데 대해 “특혜라 생각하지 않는다”고 했다.&lt;br&gt;&lt;br&gt;박 장관은 31일 국회 법제사법위원회 전체회의에서 이건태 민주당 의원이 “서울중앙지검의 김 여사 조사에 대해 황제·특혜 조사란 말이 있다”고 묻자 이같이 답했다. 박 장관은 “수사팀이 관련 규정과 제반 사정을 고려해서 조사를 진행한 것으로 안다”고 했다.&lt;br&gt;&lt;br&gt;박 장관은 이 의원이 또 “이원석 검찰총장이 ‘김 여사를 검찰청으로 소환하겠다’는 입장을 밝혔더니 장관이 ‘경호상 어렵다’고 말한 적 있느냐”고 질문하자, “피의자 변호인과 수사팀 간에 협의해 진행하라는 원칙론을 말한 것”이라고 했다. 박 장관은 서영교 민주당 의원이 “김 여사 조사 때 검사들이 휴대전화를 반납한 것은 굴욕”이라고 지적하자, “경호에 대해서는 저는 다르게 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;박 장관은 이 총장의 도이치모터스 주가조작 사건 수사지휘권 복원 요청을 받아들이지 않은 것에 대해선 “(총장) 수사지휘권을 복원하는 것 역시 (장관) 수사지휘권의 행사”라며 “저는 수사지휘권을 행사하지 않는 것이 옳다는 생각을 갖고 있고, 인사청문회부터 똑같은 말씀을 드렸다”고 했다. 또 자신이 이 총장에게 ‘김 여사 조사 문제는 서울중앙지검과 대통령실이 소통하니 관여하지 마라’고 말했다는 언론 보도에 대해선 “법무장관이 검찰총장과 수사와 관련해 의사소통한 내용을 말씀드리는 게 적절하지 않다”면서도 “보도 내용은 사실이 아니라고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“홍수 걱정 없겠네” “물에 마을 잠기나” 기후 대응 댐 후보지 14곳 찬반 갈려</title>
+      <link>https://www.chosun.com/national/regional/2024/08/01/LUQCBCMVQVCY7KIDJXCWEM5VPM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/01/LUQCBCMVQVCY7KIDJXCWEM5VPM/</guid>
+      <dc:creator>화순=조홍복 기자, 양구=정성원 기자, 청양=김석모 기자, 단양=신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 16:38:56 +0000</pubDate>
+      <content:encoded>“갑자기 마을이 물에 잠긴다는데 이게 뭔 소리예요?”&lt;br&gt;&lt;br&gt;31일 충북 단양군 대잠리의 김택근 이장은 한숨을 내쉬었다. 전날 환경부가 단양군 단양천 등 전국 14곳에 새로 댐을 짓겠다고 발표했기 때문이다. 김씨는 “단양은 1985년 충주댐을 건설하면서 주민 1만2000명이 이주했는데 이번에 또 고향을 떠나야 할 판”이라며 “마을 분위기가 뒤숭숭하다”고 했다.&lt;br&gt;&lt;br&gt;단양군 관계자는 “댐을 지으면 단양 8경(景) 중 3경이 사라진다”며 “안 그래도 인구가 2만7000명까지 줄었는데 관광 산업까지 타격을 입으면 지역 소멸이 가속화할 것”이라고 했다. 3경은 상선암, 중선암, 하선암을 말한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6ZNEIYEL2BEUJHNQ4O3TP6V6XA.jpg"&gt;&lt;br&gt;&lt;br&gt;강원 양구군의 반발도 거세다. 정부는 양구군 방산면 수입천에 춘천 의암댐(저수용량 8000만㎥)보다 큰 1억㎥ 규모 댐을 짓기로 했다. 후보지 14곳 중 가장 크다. 양구 군민들은 “수입천 상류에 있는 두타연이 수몰될 것”이라며 “건설 계획이 백지화돼야 한다”고 주장했다. 두타연은 멸종위기종인 열목어 서식지다. 농지 3만평과 주택 등도 물에 잠길 것으로 예상된다. 양구군의회는 이날 긴급 의원 간담회를 열고 대책 마련에 나섰다.&lt;br&gt;&lt;br&gt;서흥원 양구군수는 “양구에는 1973년 소양강댐이 생겨 수많은 주민들이 삶의 터전을 잃었고 지역은 육로가 끊겨 ‘육지 속의 고립된 섬’으로 전락했다”며 “또 희생을 감수할 수는 없다”고 했다. 방산면 일대는 2001년에도 댐 후보지로 선정됐다가 주민 반대로 제외된 적이 있다.&lt;br&gt;&lt;br&gt;충남 청양군은 주민들이 찬반으로 나뉘었다. 반대 입장을 보인 주민들은 “댐이 생기면 안개 때문에 일조량이 줄어 지역의 특산품인 청양고추 생산에 타격을 입을 것”이라고 했다. 청양은 지천에 댐을 지으면 139가구가 물에 잠긴다. 찬성하는 주민들은 “최근 3년 새 여름철마다 폭우로 지천이 범람해 논밭이 침수되는 피해를 입었다”며 “댐이 있었다면 피해가 없었을 것”이라고 했다.&lt;br&gt;&lt;br&gt;전남 화순군은 “정부가 사전 협의 없이 댐 건설 계획을 ‘기습’ 발표했다”며 반발하고 있다. 구복규 군수는 “신청을 하지도 않았는데 후보지가 됐다”며 “정부의 일방적인 발표에 주민들이 부글부글하고 있다”고 말했다. 화순에는 이미 동복댐과 주암댐이 있어 주민들이 환경 규제 등으로 재산권 행사에 불편을 겪고 있다.&lt;br&gt;&lt;br&gt;정부의 댐 건설 계획에 환영 입장을 낸 지자체들은 대부분 수해를 입었던 곳들이다. 경기 연천군은 올여름 집중호우로 주택 14가구와 농경지 27㏊ 등이 침수되는 피해를 입었다. 경북 김천시·예천군, 울산도 같은 입장이다. 강원 삼척시는 댐 규모를 더 키워달라고 요구하고 있다. 정부는 삼척 산기천에 100만㎥ 규모의 용수 전용 댐을 짓겠다고 했는데 수해를 막기 위해선 대규모 다목적댐이 필요하다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘대장동 50억 클럽’ 권순일 피의자로 소환 조사</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/01/ZXA6CE5VDZAKRKE6WT42THHACE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/01/ZXA6CE5VDZAKRKE6WT42THHACE/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 16:36:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C2K2EHIXNNCJVFEKNZIYZO5RPQ.png"&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QZXJ63U5OVHXJDIOKBMGIYIRD4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘대장동 50억 클럽’ 의혹을 수사하는 서울중앙지검 반부패수사3부(부장 이승학)는 31일 권순일 전 대법관을 피의자 신분으로 소환 조사했다. 검찰이 지난 3월 권 전 대법관 사무실을 압수 수색 한 지 넉 달 만이다. ‘대장동 50억 클럽’은 대장동 사건의 핵심인 김만배(화천대유 대주주)씨에게 거액을 받거나 받기로 했다는 법조인, 정치인 등을 가리킨다.&lt;br&gt;&lt;br&gt;검찰은 이날 권 전 대법관의 변호사법 위반 혐의에 대해 조사했다. 권 전 대법관은 2020년 9월 퇴임하고 두 달 뒤 화천대유 고문으로 취업해 2021년 9월까지 총 1억5000만원을 받았는데, 검찰은 당시 권 전 대법관이 변호사로 등록하지 않고 화천대유에서 소송 관련 업무를 했다고 보고 있다. 변호사법은 변호사 등록을 하지 않고 변호사 활동을 하면 3년 이하 징역 또는 2000만원 이하 벌금으로 처벌한다고 규정한다.&lt;br&gt;&lt;br&gt;검찰은 권 전 대법관의 ‘재판 거래’ 의혹도 수사 중이다. 권 전 대법관은 대법관 재임 중이던 2020년 7월 이재명 민주당 대표의 과거 선거법 위반 사건 상고심에서 무죄 취지 파기환송 판결을 주도한 것으로 알려져 있다. 이 판결로 이 대표는 경기지사직을 유지했고, 지난 대선에도 출마할 수 있었다. 당시 대법원 판결을 전후해 김만배씨가 권 전 대법관의 대법원 사무실을 8차례 찾아갔고, 권 전 대법관이 퇴직 후 화천대유에서 거액 고문료를 받은 것이 드러나면서 ‘재판 거래’ 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;권 전 대법관이 변호사법 위반 혐의와 ‘재판 거래’ 의혹으로 한 시민 단체에서 고발당한 것은 2021년 9월이다. ‘문재인 정부’ 검찰은 그해 11월과 12월 권 전 대법관을 두 차례 비공개 소환 조사만 했을 뿐 다른 조치는 못 했다. 같은 해 권 전 대법관에 대해 두 차례 압수 수색 영장도 청구했지만, 법원에서 모두 기각당한 것으로 알려졌다. 검찰은 올해 초에도 법원에 압수 수색 영장을 청구했다가, ‘혐의가 충분히 소명되지 않는다’는 취지로 기각당했다고 한다. 결국 검찰은 ‘재판 거래’ 의혹과 연결되는 뇌물(화천대유 고문료) 수수 혐의를 빼고 변호사법 위반 혐의만 적용해 압수 수색 영장을 받았고, 지난 3월 21일 집행했다. 이를 두고 법조계 일각에선 ‘법원의 제 식구 감싸기’로 권 전 대법관에 대한 수사가 늦어졌다는 비판이 나왔다.&lt;br&gt;&lt;br&gt;권 전 대법관의 행보를 두고도 논란이 일었다. 그는 2022년 말 변호사 등록 과정에서 대한변협이 두 차례 자진 철회를 요구했지만 받아들이지 않았다. 변호사 등록 후 개인 사무실을 연 이후에는 기업의 대법원 사건을 수임했다.&lt;br&gt;&lt;br&gt;권 전 대법관은 이날 12시간 동안 조사를 받으면서 혐의를 부인한 것으로 알려졌다. 권 전 대법관 측은 검찰에 제출한 30~40쪽 분량의 의견서에서 “화천대유에서 맡은 직책은 고문이지만 간단한 자문에 응했을 뿐 변호사 활동이 아니다”라는 취지로 주장했다고 한다.&lt;br&gt;&lt;br&gt;검찰은 권 전 대법관의 변호사법 위반 혐의에 대해서만 먼저 기소하고 ‘재판 거래’ 의혹에 대해선 계속 수사하는 방안을 검토 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전공의 수련 안하면 현장서 진료 못하게… 정부, 개원 면허제 검토</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/08/01/76ZO3EL2KRHR5A2JE27UD6HRF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/01/76ZO3EL2KRHR5A2JE27UD6HRF4/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 16:23:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UFTRDJK6MVFV5PQ6WCXSB5OGLQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 정부서울청사에서 열린 제5차 의료개혁특별위원회 회의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대통령 직속 의료개혁특별위원회(의개특위)는 31일 “내년 초 의료 질 향상과 환자 안전을 위해 ‘(의사) 면허제도 선진화’ 대책을 발표하겠다”고 밝혔다. 구체적인 내용은 밝히지 않았지만, 의료계에선 “개원 면허제가 포함될 가능성이 높다”는 관측이 나온다.&lt;br&gt;&lt;br&gt;개원 면허제는 환자 치료 경험이 있는 의사에게만 현장 진료를 허용하는 제도다. 지금 우리나라처럼 의대를 갓 졸업한 의사도 바로 환자를 볼 수 있게 하는 건 허용되지 않는다. 의대 졸업 후 의사 면허를 취득했다 해도 이후 몇 년의 전공의 수련 과정을 마친 ‘유경험 의사’에게만 환자 진료 권한을 준다는 의미다.&lt;br&gt;&lt;br&gt;보건복지부는 이미 지난 2월 ‘필수 의료 (지원) 패키지 정책’ 발표 당시 “의료 질 향상을 위해 개원 면허제의 단계적 도입을 검토하겠다”고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;해외 주요국 중엔 개원 면허제를 도입한 나라가 많다. 영국에선 의대를 졸업하면 ‘의사 면허’는 받지만, 이후 2년간의 수련 교육을 받아 ‘진료 면허’를 취득해야 현장 진료를 할 수 있다. 캐나다는 의대 졸업 후 2년간의 수련을 받으며 현장 경험을 쌓아야 의사 면허를 준다. 일본 역시 의사 면허를 따도 2년간 종합병원에서 임상 연수를 받아야 단독 진료를 할 수 있다.&lt;br&gt;&lt;br&gt;의료계 일각에선 “현재 수업 거부 중인 의대생들이 직격탄을 맞을 수 있다”는 관측이 나온다. 의대 본과 4학년의 경우, 예정대로라면 내년 초 의대를 졸업해 의사 면허를 취득하게 되지만 현재 대부분이 수업을 거부하고 있다. 이들은 내년에 다시 본과 4학년 과정을 밟을 가능성이 적지 않다.&lt;br&gt;&lt;br&gt;이런 상황에서 정부가 내년부터 개원 면허제를 시행하게 되면, 이들은 예전처럼 의사 면허만 따고 바로 진료를 하지 못하고 1~2년간 의무적으로 별도 수련을 받아야 할 처지가 된다.&lt;br&gt;&lt;br&gt;일각에선 “미복귀 전공의들도 현장 진료가 어려워질 수 있다”는 얘기가 나온다. 하지만 전공의들은 이미 환자 진료가 가능한 의사 면허 보유자이기 때문에 이들의 개원까지 막을 경우 ‘위헌적 정책 소급 적용’ 논란을 낳을 수 있어 가능성은 낮다는 게 중론이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>큐텐, 계열사 티몬 돈 250억 끌어다 쓰고 사후승인 받아</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/01/4HL7GDSM2RHBRHYKP4UCQYTDVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/01/4HL7GDSM2RHBRHYKP4UCQYTDVY/</guid>
+      <dc:creator>석남준 기자, 이민준 기자, 권순완 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 16:17:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VW2IPJQORBBFJFYNSJGZX23N3I.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘판매 대금 미(未)정산’ 사태를 일으킨 티메프(티몬·위메프)와 큐텐(티메프 모기업)의 영업 행태를 놓고 논란이 이어지고 있다. 검찰은 이 기업들이 보인 행태가 횡령·배임 혐의에 해당할 수 있다고 보고 구영배 큐텐 대표와 목주영 큐텐코리아 대표, 류광진 티몬 대표, 류화현 위메프 대표를 피의자로 입건해 수사 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GSDKHNUXOJAFZH7BYHD5TMJ5BU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;◇업계 “이해할 수 없는 사후 승인”&lt;br&gt;&lt;br&gt;큐텐은 2022년과 2023년 각각 티몬과 위메프를 인수한 뒤 두 회사의 재무팀을 해체했다. 계열사 재무 업무는 큐텐의 또 다른 계열사인 큐텐테크놀로지가 맡았다. 큐텐은 지난 4월 북미 이커머스 ‘위시’ 인수 자금 명목으로 티몬에서 200억원을 빌렸다. 하지만 티몬의 류광진 대표가 이를 승인한 것은 돈이 빠져나간 지 나흘 뒤인 것으로 알려졌다. 큐텐은 지난 1월에도 티몬에서 50억원을 빌렸는데, 류 대표는 자금 대여가 집행된 지 19일 후 승인했다. 류 대표는 지난 30일 국회 정무위에 출석해 “재무 관련해서는 아무것도 알지 못한다”고 말하기도 했다. 같은 날 구영배 대표는 “(위시 인수에) 지불한 현금이 2500만달러(약 350억원)였는데, 이 중 티메프의 판매 대금이 일부 포함됐다”고 했다. 업계 관계자는 “계열사 간 자금 대여가 있을 수 있지만, 해당 계열사 대표의 사후 결재는 이해할 수 없는 일”이라며 “이커머스는 실시간 손익 계산이 핵심인데, 큐텐이 계열사 재무팀을 없앤 것도 상식적이지 않다”고 했다.&lt;br&gt;&lt;br&gt;이커머스 업계에선 최근 티몬 등이 역마진을 감수하며 벌인 할인 행사가 지나치게 많았다는 지적도 나온다. 한 관계자는 “마케팅용으로 손해를 감수한 ‘미끼 상품’을 일부 팔 수는 있지만, 티메프는 지나칠 정도로 역마진 상품을 쏟아냈다”며 “이번 사태 직전까지 ‘현금 당기기’를 했다는 의심이 든다”고 했다. 아이지에이웍스 모바일인덱스에 따르면, 이번 사태가 터지기 직전인 7월 6일 하루에만 티메프의 카드 결제액은 897억1000만원으로 추산됐다. 지난 6월 17~30일 일평균 결제 금액(167억원)의 5배가 넘는다.&lt;br&gt;&lt;br&gt;◇檢, ‘판매 자금 유출’ 횡령·배임 수사&lt;br&gt;&lt;br&gt;수사에 착수한 서울중앙지검 반부패수사1부(부장 이준동)도 구영배 대표가 국회에서 티메프의 판매 대금 일부를 다른 회사 인수에 사용했다고 말한 점에 주목하는 것으로 전해졌다. 법조계에선 “검찰이 횡령 혐의를 적용해 수사할 것”이라는 말이 나온다. 차장검사 출신인 조재빈 변호사는 “티몬과 입점 업체 간 계약서에 판매 대금을 티몬에 예치한다고 명시돼 있다”며 “그런데도 판매자에게 돌려줘야 할 돈을 가져다 쓴 것”이라고 했다. 공정 거래 전문 변호사는 “판매 대금을 빼내면서 티메프에 손실을 끼쳤다면 구 대표에게 배임 혐의를 적용할 수 있다”고 했다. 판매 대금을 사후에 승인한 티몬의 류 대표도 배임죄 처벌 대상이 될 수 있다. 금융 전문 변호사는 “판매 대금 유출 당시 몰랐더라도 결과적으로 승인했다”며 “유출 동의 후 근거 자료를 작성했을 수도 있다”고 했다.&lt;br&gt;&lt;br&gt;법조계에선 티몬 등이 ‘판매 대금 미정산’ 직전 역마진 할인 행사를 한 것과 관련해서도 임직원들에게 배임 혐의가 적용될 수 있다는 전망이 나온다. 회사 자금 사정이 좋지 않은 상황에서 역마진 할인 행사를 계속할 경우 회사가 어려움을 겪을 수 있다는 것을 알았다면 배임의 고의성이 인정될 수 있다는 것이다. 한 변호사는 “경영진이 팔면 팔수록 손해라는 걸 모르진 않았을 것”이라고 했다.&lt;br&gt;&lt;br&gt;◇'규제의 사각지대’에 놓여 문제 커져&lt;br&gt;&lt;br&gt;티메프가 ‘규제의 사각지대’에 놓여 있어 이번 사태가 커졌다는 지적이 나온다. 현행법상 이마트 같은 ‘대형 유통업자’들은 공급업자들에게 40~60일 내에 판매 대금을 정산해줘야 한다. 하지만 티메프처럼 ‘판매 중개업자’들은 정산 주기에 대한 별도 규제가 없다.&lt;br&gt;&lt;br&gt;플랫폼 사업의 영역마다 담당 정부 부처가 다른 것도 문제다. 현재 플랫폼의 독과점·갑질은 공정거래위원회가, 금융 결제는 금융위원회·금융감독원이 맡는다. 플랫폼 통신 접속 안정성은 과학기술정보통신부 소관이고, 온라인 유통업 전반은 산업통상자원부가 관리한다. 이 때문에 이커머스처럼 급속히 성장하는 산업에 대응하는 속도가 느렸다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/XAEH37SSBNA35LX4VJUZYAJBS4.png?width=1200&amp;height=675&amp;auth=0834170e523933699db50f008bdb304da78a195ddf7e0043bf66e9c75ffbcb77&amp;smart=true" type="image/png" height="675" width="1200">
+        <media:description type="plain">그래픽=양인성</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>무너진 공직 기강</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/01/KIYFDDRKRFDD5JBUSJJHAU6ZMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/01/KIYFDDRKRFDD5JBUSJJHAU6ZMU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 16:03:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C6BHA2W3HJP5HF5JNLCI24A24I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조국혁신당에 입당한 이규원 전 대구지검 부부장검사가 11일 오전 서울 여의도 조국혁신당 당사에서 열린 전문가 입당식에서 인사말을 하고 있다. 2024.03.11. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이규원 조국혁신당 대변인이 현직 검사 신분으로 급여를 받으면서, 법무부로부터 업무에 복귀하라는 명령을 받고도 출근하지 않는 것으로 31일 알려졌다. 대검찰청은 이 대변인이 검사 신분으로 정당 활동을 하는 것에 대해 감찰 중이다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 법무부는 이 대변인이 지난 총선일(4월 10일)까지 신청한 질병 휴직이 끝나기 전에 이 대변인에게 업무에 복귀하라는 명령을 내렸다. 하지만 이 대변인은 응하지 않고, 지난 4월 11일 서울행정법원에 법무부를 상대로 복직명령 무효 확인 소송을 냈다.&lt;br&gt;&lt;br&gt;이 대변인은 총선을 한 달 정도 앞둔 지난 3월 7일 법무부에 사직서를 내고, 조국혁신당에 입당해 비례대표 후보 22번을 받았다. 그러나 법무부는 이 대변인이 이른바 ‘김학의 불법 출국 금지’ 사건으로 1심에서 징역 4개월의 선고유예를 받고 2심이 진행 중이라는 이유로 사직서를 수리하지 않았다. 1심은 이 대변인이 허위 출국 금지 요청서를 사후에 승인받고 이 서류를 은닉한 혐의에 대해선 유죄, 직권남용 혐의는 무죄로 판단했다. 국가공무원법은 비위(非違)와 관련해 기소된 경우 퇴직을 제한한다.&lt;br&gt;&lt;br&gt;법무부가 이 대변인의 사직서를 수리하지 않았지만, 이 대변인이 총선에 출마하는 데는 제약이 없었다. 이른바 ‘황운하 판례’에 따라 총선 출마를 위한 퇴직 마감 시한 전에 사직서만 내면 수리 여부와 상관없이 출마할 수 있기 때문이다. 그는 지난 총선에 국회에 입성하지는 못했다.&lt;br&gt;&lt;br&gt;법조계에선 이 대변인이 현직 검사 신분으로 정당 활동을 하는 것은 부적절하다는 지적이 나온다. 한 법조인은 “검사로 일하며 기소까지 된 이 대변인이 정치 활동으로 검사의 품위마저 손상하고 있다”며 “무너진 공직 기강의 사례”라고 비판했다.&lt;br&gt;&lt;br&gt;대검찰청 감찰부가 이 대변인에 대해 진행하고 있는 감찰의 주된 사유는 이 대변인이 현직 검사 신분으로 조국혁신당 대변인 업무 등 정당 활동을 하고 있는 것이라고 한다. 대검은 감찰 결과에 따라 필요한 조치를 할 예정인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 대변인이 질병 휴직을 낸 것은 2022년이다. 당시 그는 ‘김학의 불법 출국 금지’ 사건으로 기소된 상태였다. 그해 4월 1년간 질병 휴직을 냈는데 사유는 정신과 치료였던 것으로 알려졌다. 이 대변인은 휴직이 끝나자 작년 4월 질병 휴직 1년을 추가로 신청했고, 법무부는 이를 허가한 것으로 전해졌다. 이 대변인은 이런 식으로 2년 넘게 출근하지 않으면서 최근까지 1억원에 가까운 급여를 받았다고 한다. 공무원은 연가·병가를 써도 급여 전액을, 휴직해도 70%의 급여를 받을 수 있다. 부장검사 출신으로 이 대변인과 함께 조국혁신당에서 활동 중인 박은정 의원도 검찰에서 퇴직하기 직전 1년 9개월 동안 연가와 병가, 휴직 등을 번갈아 쓰면서 출근하지 않고 급여로 1억원을 받아간 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 대변인은 이날 페이스북에 올린 글에서 “22대 국회 임기 종료 때까지 비례대표 국회의원 후보자 신분이 유지되므로 공직선거법에 따라 사직원 수리 간주 상태가 유지되고 있다”며 “공무원 지위가 현 상태에서는 부존재해 이를 전제로 한 출근 의무가 없다”고 주장했다. 그는 또 “검찰에 제 월급 넣지 말라고 이미 요구한 사실도 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [재밌다, 이 책!] 세계의 오지 누빈 BBC 프로듀서… 동물원에 없는 동물들 촬영했죠</title>
+      <link>https://www.chosun.com/national/nie/2024/08/01/TKGAQ5RNK5CKJLDK2VSBJDL7ZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/01/TKGAQ5RNK5CKJLDK2VSBJDL7ZM/</guid>
+      <dc:creator>김성신 출판평론가</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 15:48:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KQQIFYYPVVF6BAFIM5U3FJWK3Y.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;데이비드 애튼버러의 주 퀘스트&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;데이비드 애튼버러 지음 | 양병찬 옮김 | 출판사 지오북 | 가격 1만9500원&lt;/b&gt;&lt;br&gt;&lt;br&gt;이 책을 쓴 데이비드 애튼버러는 영국 케임브리지대에서 지리학과 동물학을 전공한 후 BBC 방송국에 입사했어요. TV가 발명된 지 불과 20년밖에 되지 않았던 시기에 그는 신입 프로듀서로 ‘동물원 탐사(Zoo Quest)’라는 제목의 자연 다큐멘터리를 제작했어요.&lt;br&gt;&lt;br&gt;당시 20대 청년이었던 저자는 방송국 동료들과 함께 지구 구석구석을 누볐어요. 세계 오지에서 야생의 다양한 생명을 촬영해, 이전에 볼 수 없었던 새로운 유형의 동물 프로그램을 제작하는 것이 기획 의도였거든요. 심지어 런던동물원에서 보유한 적 없는 동물만 대상으로 방송을 만들어야 한다는 조건도 붙었어요. 지금처럼 인터넷이 사용되던 시기도 아니었으니 당시 사람들의 눈에 저자가 찾아낸 동물들의 모습이 얼마나 신기했을까요? 어쩌면 오늘날 사람들이 외계 생명체를 직접 보는 것과 비슷한 감정이 아니었을까요.&lt;br&gt;&lt;br&gt;파푸아뉴기니에 서식하는 ‘긴 부리 바늘두더지’의 학명은 ‘Zaglossus attenboroughi’라고 하는데요. 학명에 최초 발견자의 이름을 넣는 규칙에 따라 저자의 이름이 사용된 것을 알 수 있어요. 이 밖에도 생물 20여 종의 학명에 자신의 이름을 붙였다니 당시 얼마나 열심히 동물들을 탐사하고 다녔는지 짐작이 가네요.&lt;br&gt;&lt;br&gt;저자가 극락조를 촬영하기 위해 파푸아뉴기니 섬으로 떠난 여정이 인상적이에요. 지금은 여행사를 통해 비행기 예약만 하면 쉽게 가서 즐겁게 지내다 올 수 있는 세계적인 휴양지이지만 저자가 방문했을 당시만 해도 이곳은 멀고 위험한 미지의 세계였다네요. 뉴기니는 오스트레일리아 대륙에 가까이 있어 상대적으로 작아 보일 수 있지만 매우 큰 섬이에요. 이곳에는 높은 산들이 능선을 이루고 있는데, 능선 사이 정글로 뒤덮인 거대한 계곡 등은 당시만 해도 상당 지역이 사실상 탐험이 되지 않았다고 해요. 어떤 위험이 있는지 알 수 없는 상태였다는 거예요. 그리고 해안 방향으로는 모기가 들끓는 광대한 늪이 펼쳐져 있었다고 해요.&lt;br&gt;&lt;br&gt;지형과 자연도 험난하지만, 내륙 깊숙한 지역에서 부족 간의 전쟁이 벌어지기도 하는 상황이었다고 합니다. 게다가 현지 원주민에게 극락조의 깃털은 부의 상징이기도 했어요. 깃털을 얻기 위해 점찍어 둔 극락조를 다른 이가 먼저 잡으면 유혈 사태가 일어날 정도로 극락조에 대한 원주민의 집념은 상당했다고 해요. 이런 상황에서 애튼버러가 극락조를 촬영하기 위해 고군분투하는 이야기는 마치 스펙터클이 가득한 탐험 영화를 보듯 손에 땀을 쥐게 합니다.&lt;br&gt;&lt;br&gt;이외에도 마다가스카르 등을 탐험한 흥미진진한 이야기들이 책에 담겨 있는데요. 오래전 자연 탐험의 이야기를 재미있게 담은 자연과학서지만, 이 책은 생물 다양성의 중요성과 기후위기에 대한 경각심도 분명하게 일깨워줍니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [기후와 날씨] 전국 21개 낙뢰 관측장비 중 5개 이상에서 전자기파 탐지되면 낙뢰로 기록해요</title>
+      <link>https://www.chosun.com/national/nie/2024/08/01/4NNN3YN2PZFJRKBIIT7KJULJOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/01/4NNN3YN2PZFJRKBIIT7KJULJOM/</guid>
+      <dc:creator>장동언 기상청장</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 15:48:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HJUZ5OEGPFC7TLNLJ5VGDGPKTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/기상청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 16일 전라남도에서 낙뢰가 하루 사이 4500여 차례 발생했습니다. 하루 만에 작년 7월 한 달 동안 전남 지역에서 발생한 낙뢰(4489회)만큼 내리친 것이에요.&lt;br&gt;&lt;br&gt;지난 10년 기간 중에서 전국에서 하루 동안 낙뢰가 가장 많이 친 날은 2018년 5월 16일입니다. 경기도에서 낙뢰가 1만2963회 발생했지요.&lt;br&gt;&lt;br&gt;낙뢰는 지상과 구름 사이에 순간적으로 강한 전류가 흐르며 발생하는 아주 강력한 전기 방전 현상입니다. 대기가 고온 다습하고 불안정할 때 잘 발생하는 키가 큰 구름인 적란운에서 자주 나타나는데요. 순간적으로 전기가 흐르면서 섬광이 보이게 되고, 전기로 인해 발생한 열로 주변의 공기가 팽창하면서 천둥이라 일컫는 폭발음도 들리게 되지요.&lt;br&gt;&lt;br&gt;과거 낙뢰 관측은 전국의 기상관서에서 기상청 직원이 직접 눈으로 관측하는 ‘목측(目測)’을 통해 이뤄졌습니다. 그러다 1987년 낙뢰 관측장비를 설치하면서 자동으로 실시간 낙뢰를 관측하기 시작했어요.&lt;br&gt;&lt;br&gt;기상청 낙뢰 관측장비&amp;lt;사진&amp;gt;에는 두 개의 링이 90도로 교차하는 모양의 안테나와 작은 고깔 모양의 GPS(위성항법장치)가 설치돼 있어요. 낙뢰로 인해 생긴 전자기파(빛)가 이 안테나를 통과하면 안테나에 전류가 유도됩니다. 그러면 전류의 세기와 GPS로 확인된 정확한 시각이 낙뢰 관측장비에 기록돼요. 현재 전국에 낙뢰 관측장비 21개가 설치돼 있는데요. 이 중 5개 이상에서 함께 이러한 기록이 입력되면 낙뢰가 친 것으로 확인됩니다.&lt;br&gt;&lt;br&gt;낙뢰가 친 정확한 위치는 각 낙뢰 관측장비 안테나를 통과한 전자기파의 방향과 기록된 GPS 시각의 차이를 통해 파악해요. 그리고 낙뢰의 세기는 안테나에 유도된 전류의 세기를 분석해 추정합니다. 이렇게 수집된 낙뢰 관측 정보는 기상청 날씨누리와 날씨알리미 앱을 통해 10분마다 제공되고 있어요.&lt;br&gt;&lt;br&gt;기상청에선 매년 ‘낙뢰연보’를 발간해요. 낙뢰연보를 살펴보면 여름철에 낙뢰가 많이 발생하는 것을 알 수 있습니다. 작년 우리나라에서 관측된 낙뢰는 7만3000여 회였는데, 여름철(6~8월)에 전체의 75%가 집중됐어요. 우리나라뿐만 아니라 미국도 낙뢰는 주로 여름철, 특히 8월에 가장 많이 발생한다고 합니다.&lt;br&gt;&lt;br&gt;최근 5년간(2019~2023년) 낙뢰 사고로 119구급대가 출동한 경우는 모두 31건이었어요. 대부분 여름철 실외에서 발생한 사고였지요. 그래서 여름철에는 특히 더 낙뢰를 조심해야 합니다. 우뚝 솟은 산은 물론이고, 뾰족한 건물이나 들판에 서 있는 나무 등이 낙뢰에 맞기 쉽습니다. 바닷가에서는 파라솔이나 사람도 주변 요소들보다 상대적으로 높이 솟아 있어 위험하니 조심해야 합니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [얼씨구 국악] ‘서편제’ 주인공들이 부른 진도아리랑은 육자배기토리 노래</title>
+      <link>https://www.chosun.com/national/nie/2024/08/01/66WCT7OZRRCWJO6T2YHJC466NY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/01/66WCT7OZRRCWJO6T2YHJC466NY/</guid>
+      <dc:creator>이동희 경인교대 음악교육과 교수, 기획·구성=오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 15:47:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UNSOETM6BFFIFG6X7JY2YAUCII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주광역시에서 열린 ‘서창 만드리 풍년제’. 서창 만드리는 7월 백중 무렵에 일하면서 불렀던 노동요예요. /김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 종로구 창덕궁 근처에 ‘서울우리소리박물관’이라는 곳이 있어요. 우리나라 최초 민요 전문 박물관인데요. 여기서 지난 5월부터 지역별 민요 특징에 대해 잘 설명한 ‘오늘 만난 토리’ 전시를 열고 있어요.&lt;br&gt;&lt;br&gt;‘토리’는 지역에 따라 구별되는 민요의 유형적 특징을 뜻하는 말이에요. 지역마다 말의 억양과 사용하는 단어들이 다른 사투리처럼, 민요도 지역별로 달라요. 토리는 일종의 ‘민요 사투리’인 셈이에요. 지역별로 토리 명칭도 다르답니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;민요에도 ‘사투리’가 있어요&lt;/b&gt;&lt;br&gt;&lt;br&gt;민요는 우리 조상들의 일상과 감정을 고스란히 담아낸 노래예요. 특정 작곡가가 있는 게 아니라, 민중 사이에서 자연스럽게 만들어지고 구전됐죠.&lt;br&gt;&lt;br&gt;민요는 기능에 따라 다양한 종류가 있어요. 일하면서 부르는 노동요, 놀이할 때 부르는 유희요, 제사나 각종 의식에서 공동체의 안녕과 풍요를 기원하며 부르는 의식요 등이 있어요. 사랑의 감정을 담은 연정요도 있답니다.&lt;br&gt;&lt;br&gt;지역별로는 크게 다섯 토리가 있습니다. 한반도는 남북으로 쭉 뻗은 낭림산맥과 태백산맥을 중심으로 동쪽과 서쪽으로 나눌 수 있어요. 동쪽의 함경도, 강원도, 경상도는 산맥의 서쪽 지역과 활발하게 문화 교류를 하기 어려웠어요. 그래서인지 이 지역들은 거리가 멀리 떨어져 있지만 민요의 특징이 비슷하답니다. 이 지역 민요를 ‘동부 민요’, ‘메나리토리’라고 불러요.&lt;br&gt;&lt;br&gt;‘메나리’는 이 지역에서 흔한 민요 이름으로, 산이 많은 곳이라 ‘뫼[山]놀이’에서 유래됐다는 설이 있어요. 메나리토리는 한반도에서 가장 오래된 토리로 추정됩니다. 대표곡은 가장 오래된 아리랑으로 알려진 정선아리랑이 있어요. 또 한오백년, 옹헤야, 쾌지나칭칭나네, 밀양아리랑, 신고산타령 등도 있답니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QPYXG2E3CRAATPJ3DGXRRVVY7A.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;메나리토리(동부 민요) 정선아리랑, 경토리(경기 민요) 도라지타령&lt;/b&gt;&lt;br&gt;&lt;br&gt;반면 산맥 서쪽은 지역별로 음악적 특징이 매우 다양해요. 지역마다 사투리, 음식, 기후가 다른 것과 연관이 있지 않을까 싶어요. 또 우리나라가 통일 신라 시대 전까진 여러 국가로 쪼개져 있었으니 그때부터 문화가 달라졌을 수도 있고요.&lt;br&gt;&lt;br&gt;오늘날 북한 지역인 평안도와 황해도의 민요는 ‘서도 민요’ 또는 ‘수심가토리’라고 불러요. 평안도를 대표하는 민요 ‘수심가’는 ‘매우 근심하는 마음이 가득 찬 노래’라는 제목 그대로 사랑하는 이를 그리워하고 기다리는 애틋한 마음을 담은 노래랍니다. 하늘하늘한 소리와 큰소리로 부르다가 비음을 조금 섞어 잘게 떨어주는 발성이 특징이에요.&lt;br&gt;&lt;br&gt;참고로 북한은 평안도 출신 김일성의 영향으로 민요를 비롯한 전통음악 등에 수심가토리의 특징이 많이 드러난대요. 수심가토리의 대표곡은 수심가, 엮음수심가, 긴난봉가, 자진난봉가, 배따라기, 몽금포타령, 싸름 등이 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BYDDHKIBDJETXIY7CH74NHVHAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;소리꾼들이 경기 민요를 부르는 모습. /이진한 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울을 포함한 경기도 민요는 ‘경기 민요’ 또는 ‘경토리’라고 해요. 천안 등 충청도 지역도 대개 경토리에 포함됩니다. 경토리는 맑고 경쾌하며 음색이 분명하고 부드러운 게 특징이에요. 굿거리 장단, 세마치 장단에 맞춰 노래하는데요. 대표적인 경토리 악곡에는 아리랑, 도라지타령, 천안삼거리, 늴리리야, 한강수타령, 경복궁타령 등이 있어요.&lt;br&gt;&lt;br&gt;우리가 초등학교 때 많이 배운 것들이지요? 경토리 특유의 밝고 경쾌한 분위기 때문인지, 교육자들에게 익숙해서인지 몰라도 예전 초등학교 교과서에는 주로 경토리 노래들이 국악을 대표하여 수록되어 있었답니다. 민요로 유명한 송소희도 경기 민요, 경토리 전공이랍니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;구슬픈 노래 육자배기토리&lt;/b&gt;&lt;br&gt;&lt;br&gt;전라도 민요는 ‘남도 민요’ 또는 ‘육자배기토리’라고 해요. 대표적인 남도 민요 ‘육자배기’는 우리 민요 중에서 슬픈 감정의 표현이 가장 절정에 이르는 곡이지 않을까 합니다. 또 매우 느린 6박의 진양조 장단에 맞춰 불러 육자(六字)배기라는 이름이 되었다고 추측되는 노래인데요. 이 음악이 전라도 지역을 대표하는 토리 명칭이 되었지요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ARBWSKS4A5BYTMEDMKISQDLEYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘서편제’ 주인공들이 고갯길을 걸으며 진도아리랑을 부르는 장면. /태흥영화&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영화 ‘서편제’ 주인공들이 고갯길을 걸으며 불렀던 진도아리랑이 바로 육자배기토리 노래입니다. 영화의 주인공인 오정해 배우는 육자배기토리 중심의 장르인 판소리 전공자 출신이지요. 육자배기토리는 떠는 소리, 평으로 내는 소리, 꺾는 소리 등 세 음을 중심으로 구성되는데, 정말 구슬프게 들린답니다. 국악을 ‘한 맺힌 음악’이라 하는 것은 대개 이 지역 음악에 대한 이야기라고 할 수 있죠.&lt;br&gt;&lt;br&gt;마지막 다섯 번째 토리는 제주도에 있어요. ‘제주토리’에는 제주도 방언이 많이 들어가 있죠. 대표적인 곡으로는 너영나영, 오돌또기, 이야홍타령, 이어도사나, 멸치 후리는 소리 등이 있습니다.&lt;br&gt;&lt;br&gt;섬 지역이라는 제주도의 특성 때문인지 제주토리의 노랫말은 다른 토리와 매우 이질적입니다. 예를 들면 멸치 후리는 소리에서 ‘멸치’는 ‘멜’이라고 불러요. 오돌또기에는 ‘앞바당(앞바다)’ ‘물질허멍(물질하며)’ 등 다양한 방언이 등장하죠. ‘너영나영’은 ‘너랑 나랑’이라는 의미입니다. 음악적으로는 경기도의 경토리와 평안도·황해도의 수심가토리 등의 특징이 섞여 있어요. 제주도가 조선 시대에 많은 이가 고통받았던 유배지였기 때문인지도 모르겠습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2024년 8월 1일</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/01/5VBK2WAZAVGFBN3LBDDMUDNKTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/5VBK2WAZAVGFBN3LBDDMUDNKTM/</guid>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QLZKNBAP2JASXATOTK6JIRJ55M.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 음주운전 전복 사고 낸 검사, 벌금 그쳐… 대검 “징계 절차 중”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/30/XGSKGVZK5RACVHBXDZS5K7EBAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/30/XGSKGVZK5RACVHBXDZS5K7EBAI/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Jul 2024 08:19:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6C75ZQHUYSSZPLQCCY5EHT7TQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 마포구 성산대로 인근 강변북로에서 음주 운전을 하다 사고를 내 현행범으로 체포됐던 현직 검사가 벌금형을 받았다.&lt;br&gt;&lt;br&gt;30일 법조계에 따르면 서울서부지법은 지난 17일 도로교통법위반(음주운전) 혐의로 기소된 수도권 지청 소속 현직 검사 A(42)씨에게 벌금형을 선고한 것으로 확인됐다. 대검찰청은 이날 A씨에 대한 징계 절차가 진행되고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 A씨는 2월 15일 밤 10시 30분쯤 야근을 마치고 소속 청 인근 식당에서 술을 마신 뒤 다음날 새벽 1시쯤 서울 마포구 강변북로에서 음주운전을 하다가 차량 전복 사고를 냈다.&lt;br&gt;&lt;br&gt;당시 A씨의 혈중알코올농도는 면허 취소 수준인 0.08% 이상인 것으로 알려졌다. 현행 도로교통법상 혈중알코올농도가 0.08% 이상이면 1~2년의 징역 또는 500만~1000만원의 벌금형에 처한다.&lt;br&gt;&lt;br&gt;검사징계법에 따라 검사로서의 체면이나 위신을 손상한 검사는 해임·면직·정직·감봉·견책 등 처분을 받는다. 음주 운전 역시 처벌 대상이다. 대검찰청 예규에 따르면 음주 운전을 1회 저지른 경우 면허 취소 수치인 혈중알코올농도 0.08%를 기준으로 징계 수위가 결정된다. 0.08% 미만이면 감봉·정직 처분을, 0.08% 이상이거나 음주 측정에 불응했을 경우에는 정직·면직 처분을 받게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“테이저건 맞아 보셨나” 충주시 유튜브 출연한 윤희근 경찰청장</title>
       <link>https://www.chosun.com/national/national_general/2024/07/31/YM5BXJ2NRBGK5K3LTZ3JU2ZS7Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/31/YM5BXJ2NRBGK5K3LTZ3JU2ZS7Y/</guid>
@@ -649,218 +914,6 @@
       <content:encoded>오세훈 서울시장이 30일(현지시각) 인 융(殷勇) 중국 베이징시장과 만나 “다시 한중일 세 도시 협력 복원을 통해 상호 발전할 수 있길 바란다”고 말했다. 이날 오후 5시 15분 베이징 인민정부청사에서 진행한 이번 회담은 6년만에 열린 양국 수도 고위급 만남이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WUX4ZPWNLONEVHBZE5H53EOSW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 30일(현지시각) 오후 5시15분 중국 베이징 인민정부청사에서 인 융 베이징시장을 만났다. 이번 면담은 6년만에 열린 양국 수도 고위급 만남이다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울과 베이징은 1992년 한중수교 다음해인 1993년 친선결연을 맺었다. 이후 30여 년간 문화, 관광, 경제 같은 여러 분야에서 활발하게 교류했다.&lt;br&gt;&lt;br&gt;2013년에는 상설 협력기구인 서울-베이징 통합위원회를 발족했다. 팬데믹 상황에선 서로 방역물품을 지원하기도 했다.&lt;br&gt;&lt;br&gt;오 시장은 면담에서 “코로나 이후 관계 복원에 시간이 걸렸지만, 양 도시 간 협력관계가 발전돼야 시민들의 삶에도 도움이 될 것 같아 방문했다”고 말했다.&lt;br&gt;&lt;br&gt;또 오 시장은 “양 도시 협력과 우호 강화를 위해서는 문화적 교류와 인적 교류가 필요하다”며 인융 시장에게 “꼭 서울을 방문하기 바란다”고 말했다.&lt;br&gt;&lt;br&gt;이어 오 시장은 “두 도시는 경제·문화·관광·인적교류 등 전 분야에서 활발한 교류를 이어온 동반자였다”며 “앞으로도 시민의 더 나은 삶을 위해 미래지향적 관계를 이어 나가자”고 했다.&lt;br&gt;&lt;br&gt;인융 시장은 “그동안 베이징과 서울은 양국 간 지역 교류에서 선도적이고 모범적인, 중요한 역할을 해 왔다”면서 “양 도시 통합위원회를 통한 교류로 각 분야 교류를 활발히 해 온 것은 의미 깊다”고 했다.&lt;br&gt;&lt;br&gt;또 인융 시장은 “오 시장의 방문은 두 도시의 관계뿐 아니라 기업 활동 및 시민 교류에도 도움이 되고 한중 관계에도 도움이 될 것”이라며 “적절할 때 서울 방문을 검토하겠다”고 답했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TEOF6OZ3CHKUL2RE6FZXA6BLME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장과 인 융 베이징 시장의 모습. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 만남에서 두 시장은 대도시가 직면한 다양한 문제를 함께 해결하며 새로운 교류의 장을 열 시기가 도래했다며 인적·물적 교류를 강화하고 공무원 교류도 더욱 적극적으로 추진해 우수 정책 공유 기회를 확대하자는 데 의견을 모았다.&lt;br&gt;&lt;br&gt;또한 청소년과 청년 교류를 늘려 양국 미래를 짊어진 미래세대가 서로의 문화와 사회 분위기를 이해하는 흐름을 조성해 발전과 번영을 위한 협력 기반 마련에도 힘을 합치자고 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “지금까지 서울과 베이징은 가장 가까운 이웃이었듯이 미래에도 동북아, 나아가 세계의 평화와 번영을 위해 함께 협력해 나가는 파트너가 되기를 희망한다”고 말했다.&lt;br&gt;&lt;br&gt;이어 10월 서울에서 열리는 정보통신기술(ICT) 행사인 서울 스마트라이프워크에 베이징 도시 대표단과 우수기업 및 스타트업을 초청했다.&lt;br&gt;&lt;br&gt;지난해 1월 취임한 인 융 시장은 중국 인민은행 부총재 출신의 금융 전문가로 재정위험 방지, 주택투기 금지를 강조하며 ‘공동 부유’를 주창한 시진핑 주석의 충실한 ‘정책 이행자’ 역할을 수행해왔다. 55세의 나이로 20차 당 대회에서 중앙위원에 선출된 205명 가운데 최연소다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>﻿밭에 놓인 판자가 ‘화장실’…독거노인은 밤마다 두려움에 떨었다</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/31/YGBRFGIOANBSLCZBGUPDYBI4GM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/31/YGBRFGIOANBSLCZBGUPDYBI4GM/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 22:28:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ZTQZ3PBIZA3BGG4D7WWKPCCVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 무안군 움집에서 살던 이모(79)씨가 사용하던 야외 화장실. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해의 장마는 이전과는 다르다. 넓은 지역에 오랫동안 이어지던 장맛비가 짧은 시간 좁은 지역에 집중되는 ‘스콜성 호우’로 나타나고 있다. 기후 변화는 취약한 계층부터 먼저 덮친다.&lt;br&gt;&lt;br&gt;31일 이랜드 복지재단에 따르면, 전남 무안군에 사는 이모(79)씨는 오랜 시간 움집에서 외롭게 지냈다. 배우자를 잃고, 아들은 독립해 떠난 후 이씨는 시골 마을에서 토끼 등을 키우며 움집 생활을 이어갔다. 타지에서 사는 아들 또한 변변치 못한 생계 탓에 어머니를 모실 수 있는 형편은 되지 못했고, 기초생활보장 수급자로 살아가던 이씨에게 허락된 보금자리는 움집뿐이었다.&lt;br&gt;&lt;br&gt;이씨의 움집은 비닐하우스에 보온 덮개를 덮은 공간이었다. 창문이 없어 햇볕은 들지 않았고, 보일러 시설도 없었다. 화장실은 집 바깥에 떨어져 있었다. 그마저도 판자로 벽을 만들고 천막으로 가리기만 해놓은 상태였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BLBZCQG6NNFTZBKQSSXUJGYUYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이씨가 거주하던 움집. 비닐하우스에 보온 덮개를 덮어 개조했다. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이씨는 매년 여름 폭우와 장마 소식이 예고되면 집이 무너질까 걱정하며 밤잠을 설쳤다. 한겨울에는 추위에 떨어야 했다.&lt;br&gt;&lt;br&gt;읍사무소에서 이씨에게 지속해서 이주를 권고했지만, 다른 곳으로 옮길 경제적 형편이 되지 못했다. 그렇다고 나라에서 주거급여를 받을 수도 없었다. 이씨가 거주하는 움집은 주거 용도가 아닌 농지 용도의 ‘비정형 무허가주택’ 통지를 받았다. 주거급여 기준조차 측정할 수 없는 무허가 주택이기에 정부로부터 지원금을 받을 수 없었다.&lt;br&gt;&lt;br&gt;이씨의 안타까운 사연을 전해 들은 무안군청 사례관리자가 나섰다. 이씨가 안전한 곳으로 이사갈 수 있도록 임대주택을 연계했고, 이씨는 국민임대아파트 추첨에 당첨됐다. 하지만, 입주를 위해 필요한 보증금을 충당할 경제적 여력이 없었다.&lt;br&gt;&lt;br&gt;정부 지원 사각지대에 놓인 이씨를 위해 방법을 모색하던 무안군청 사례관리자는 이랜드복지재단 ‘SOS위고’의 문을 두드렸다. SOS위고는 전국 단위 네트워크로 사각지대 위기 가정을 발굴하고, 상황 접수 후 3일 이내에 신속한 지원으로 일상 회복을 돕는 사업이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5FPEKICV6BATRHXIS4A6V4VNQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이씨가 지난 5월 이사한 국민임대아파트. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이랜드복지재단은 이씨에게 주거비 명목으로 300만원의 보증금을 즉시 지원했다. 이씨는 덕분에 지난 5월 안전한 보금자리로 이사할 수 있었다. 아들과 가까운 곳에 새 보금자리가 생긴 이씨는 왕래가 없었던 아들이 이사와 집 정리를 도와주면서 관계도 가까워졌다며 기뻐했다. 이제는 주거급여 신청 대상 자격도 갖게 돼 주거급여도 받을 수 있게 됐다.&lt;br&gt;&lt;br&gt;이씨는 생전 살아보지 못했던 새로운 보금자리에서 “물이 잘 나온다”며 기뻐했다. 그는 이랜드복지재단에 보낸 감사 편지에서 “밤에 화장실 가기가 무섭고 두려웠는데, 이사한 집은 물이 깨끗하게 잘 나와 언제든지 설거지도 가능해졌다”고 했다. 이어 “아들이 시간 날 때마다 들러주니 마음이 편안하고 든든해 좋다”며 “평생 허름한 곳에서 지내다 이렇게 깨끗하고 환한 곳에서 지내게 도움을 주셔서 정말 고맙고 감사하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/BLBZCQG6NNFTZBKQSSXUJGYUYE.jpg?width=1080&amp;height=810&amp;auth=d1b17d216251bb0e6d7a6a9088ecdacf8f0042ee7277a0eda121396736921c4d&amp;smart=true" type="image/jpeg" height="810" width="1080">
-        <media:description type="plain">이씨가 거주하던 움집. 비닐하우스에 보온 덮개를 덮어 개조했다. /이랜드복지재단</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>극한 기후 맞서 14년 만에 댐 추진... 중단된 치수 사업 재개</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/07/31/SRQDDZMNOJD6BIW53JQW6BSONM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/31/SRQDDZMNOJD6BIW53JQW6BSONM/</guid>
-      <dc:creator>박상현 기자, 김윤주 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6QGLAPFYERJW3JX3X623RTUXWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김완섭 환경부 장관이 30일 서울 종로구 정부서울청사에서 기후대응댐 후보지(안) 14곳, 다목적댐 3곳, 홍수조절댐 7곳, 용수전용댐 4곳, 등을 발표하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 다목적댐 건설을 14년 만에 추진한다. 기후변화로 극단적 가뭄·홍수가 빈번해져 ‘물그릇’을 확보해 대비한다는 취지다. 2013년 ‘4대강 사업’ 종료 후 지난 정부를 거치며 중단된 국가 주도 치수(治水) 사업이 재개되는 것이다.&lt;br&gt;&lt;br&gt;환경부는 30일 “기후 위기에 따른 홍수·가뭄을 예방하고 국가 전략 산업의 미래 용수 수요를 뒷받침할 ‘기후 대응 댐’ 14곳을 추진한다”며 후보지를 발표했다. 다목적댐 3곳, 홍수 조절댐 7곳, 용수 전용댐 4곳이 추진된다. 권역별로는 한강 권역 4곳, 낙동강 6곳, 금강 1곳, 영산강·섬진강 3곳이 예정됐다.&lt;br&gt;&lt;br&gt;다목적댐 추진은 2010년 착공한 경북 영천 보현산댐(2211만t) 이후 14년 만이다. 그동안 댐 사업은 2013년 이명박 정부의 ‘4대강 사업’이 끝난 후 토목 사업에 대한 환경·지역 단체의 반발로 추진되지 못했다. 문재인 정부는 2018년 댐 사업 중단을 선언했다. 이후 2020년대 들어 우리나라는 세 차례 홍수, 한 차례 가뭄에 시달렸다. 김완섭 환경부 장관은 이날 본지에 “댐 건설이 시급한 곳은 최대한 빠르게 추진해 임기 내에 착공할 수 있도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CGK2SBOLRNFMBBTDPMBTDWSQOU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다목적댐은 한강 권역 2곳, 금강권 1곳에 만든다. 한강 상류엔 강원 양구 ‘수입천댐’(1억t), 경기 연천 ‘아미천댐’(4500만t)이 들어선다. 수입천댐은 이번 계획 중 덩치가 가장 크다. 하루 70만명이 쓸 수 있는 물이 확보된다. 1억t 넘는 다목적댐 추진은 2009년 착공한 경북 영주댐(1억8100만t) 이후 15년 만이다. 수입천댐과 아미천댐은 앞으로 경기 용인 반도체 클러스터 등 첨단 산업에 필요한 물을 공급하는 역할도 하게 된다.&lt;br&gt;&lt;br&gt;금강 권역엔 상습 가뭄·홍수 지역인 충남 청양에 지천댐(5900만t)이 생긴다. 지천댐은 2012년 ‘댐 건설 장기 계획’에 포함돼 있었으나 전임 정부 때 추진이 무산됐다. 홍수 방어뿐 아니라 충남 서부 지역에서 하루 38만명이 쓸 물도 확보된다. 충청권 일대엔 작년에 이어 올 장마 기간에도 560.1㎜ 집중호우로 평년(360.7㎜)의 1.6배에 가까운 비가 내렸다. 청양군은 3년 연속 물난리가 났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CUWXXR72SNB5NOKXKWFUCIQXP4.jpg"&gt;&lt;br&gt;&lt;br&gt;용수 전용댐 4곳은 한강 권역 2곳, 낙동강 1곳, 섬진강 1곳으로 각각 결정됐다. 이 중 가장 규모가 큰 동복천댐은 하루 50만명분의 물을 공급하게 된다. 이 댐이 생기면 작년 수준의 가뭄이 광주·전남 일대에 또 발생했을 때 피해를 최소화할 것으로 전망된다. 홍수 조절댐 7곳은 낙동강 권역 5곳, 섬진강 1곳, 영산강 1곳에 추진된다. 이 중 낙동강 권역의 경북 김천 ‘감천댐’(1600만t), 경북 예천 ‘용두천댐’(160만t)은 새 댐이고 나머지는 기존 저수지나 댐을 재개발하는 것이다.&lt;br&gt;&lt;br&gt;환경부는 이번 댐 추진으로 총저수량은 3억2000만t, 이 중 생활·공업 용수 용량은 연간 2억5000만t 늘어나게 됐다고 설명했다. 2억5000만t은 하루 220만명이 사용할 수 있는 양이다.&lt;br&gt;&lt;br&gt;댐 후보지 14곳 중 경기 연천, 강원 삼척, 경북 김천, 경북 예천, 경남 거제·의령, 울산 울주, 전남 순천·강진 등 9곳은 지자체가 신청한 지역이다. 한편 강원 양구, 충남 청양, 충북 단양, 경북 청도, 전남 화순은 환경부가 필요성을 고려해 추진한다. 댐을 건의한 경남도, 전남도, 삼척시, 연천군 등 지자체는 이날 “환영한다”는 입장을 밝혔다. 반면 양구군은 “댐 건설을 강력 반대한다”는 입장을 내놨다. 환경 단체들은 “기후 문맹적 발상”이라며 댐 계획을 비판했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 이화영은 1.8일, 송영길·김용은 1.4일에 한번… 유독 잦은 변호인 접견</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/31/6UU7RAJAERD43PUJVGGOZ7AN54/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/31/6UU7RAJAERD43PUJVGGOZ7AN54/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 20:02:00 +0000</pubDate>
-      <content:encoded>‘쌍방울 불법 대북 송금’ 사건으로 1심에서 징역 9년 6개월을 선고받은 이화영 전 경기도 평화부지사가 수원구치소에 수감돼 있던 1년 8개월 동안 343회 변호인 접견을 한 것으로 확인됐다. 평균 1.8일에 한 번씩 변호인을 만난 셈인데, 법조계에선 “일반 수감자와 비교하면 변호인 접견이 너무 잦다”는 말이 나온다.&lt;br&gt;&lt;br&gt;30일 법무부가 유상범 국민의힘 의원실에 제출한 이씨의 변호인 접견 현황에 따르면, 이씨는 지난 2022년 9월 28일 구속된 이후 지난달 11일까지 343회 변호인 접견을 했다.&lt;br&gt;&lt;br&gt;이재명 전 민주당 대표의 측근 김용 전 민주연구원 부원장, 송영길 전 민주당 대표는 수감 중 이씨보다 변호인을 더 자주 만났다. 송 전 대표는 ‘민주당 전당대회 돈 봉투’ 사건으로 작년 12월 구속돼 올해 5월 보석으로 석방될 때까지 164일 동안 116회 변호인 접견을 했다. 김용씨는 ‘불법 정치자금 수수’ 사건으로 354일간 수감됐는데, 변호인 접견은 246회다. 두 사람 모두 평균 1.4일에 한 번씩이다.&lt;br&gt;&lt;br&gt;민주당 관계자의 변호인 접견은 다른 주요 인사와 비교해도 많다는 지적이다. 윤석열 대통령의 장모 최은순씨는 작년 7월부터 올해 5월 가석방으로 출소할 때까지 10개월 동안 60회 변호인 접견을 했다고 한다. 닷새에 하루꼴이다.&lt;br&gt;&lt;br&gt;법무부가 수감자의 변호인 접견 횟수 평균 통계를 별도로 관리하지 않아 일반 수용자와의 비교가 어렵다고 한다. 다만 수년간 국선 전담 변호인으로 활동한 변호사는 “일반 수감자는 여러 쟁점을 놓고 무죄를 다투더라도 2주 간격으로 변호인을 접견한다”고 했다. 한 형사 사건 전문 변호사도 “2~3일에 한 번씩 변호인을 만나는 것은 일반적이지 않다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/YV3FQYGSK3QZCZITVVUMGF4T34.jpg?width=4000&amp;height=2302&amp;auth=7f54c2df29ff6a64da2d35ce67ff20a1a2f8f1b8f0a0f0eda1cba01d993c6f7a&amp;smart=true" type="image/jpeg" height="2302" width="4000">
-        <media:description type="plain">'쌍방울 대북송금' 혐의로 구속 기소돼 1심에서 징역 9년 6개월을 선고 받고 2심을 앞두고 있는 이화영 전 경기도 평화부지사. 2022.9.27/뉴스1 ⓒ News1 김영운 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 김영운 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>[단독] 빅5, 4차병원으로 승격 검토... 중환자만 집중 치료</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/07/31/YUSZASDXPNE3TNE7TAH3L4TJDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/31/YUSZASDXPNE3TNE7TAH3L4TJDQ/</guid>
-      <dc:creator>조백건 기자, 정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 20:04:00 +0000</pubDate>
-      <content:encoded>대통령 직속 의료개혁특별위원회가 전국 상급 종합병원(대형 병원) 47곳 중에서도 가장 규모가 큰 ‘빅5′를 중환자만 이용할 수 있는 4차 병원으로 승격하는 방안을 검토 중인 것으로 30일 알려졌다. 빅5는 서울대병원·서울아산병원·세브란스병원·삼성서울병원·서울성모병원을 말한다. 이 방안이 확정되면 1차(의원)·2차(병원·종합병원)·3차(상급 종합병원)로 짜인 국내 의료 체계의 틀을 바꾸는 것이어서 작지 않은 파장이 예상된다.&lt;br&gt;&lt;br&gt;정부 고위 관계자는 “의료개혁특위에서 상급 종합병원 구조 개혁안 중 하나로 논의 중”이라며 “다양한 상급 종합병원 구조 개혁안을 8월 말 발표할 것”이라고 했다. 의료개혁특위 관계자는 “빅5를 4차 병원으로 승격해 3차 병원이 의뢰한 중환자만 치료하고 동시에 중증 질환 연구를 하는 중환자 전용 치료·연구 병원으로 만들자는 취지”라고 했다.&lt;br&gt;&lt;br&gt;의료계에선 “이제는 빅5를 전문의, 중환자 중심 병원으로 바꿔야 할 시기”라는 지적이 많다. 지난 2월 의대 증원에 반발해 집단 이탈한 전공의 1만여 명은 5개월이 지난 지금까지도 복귀하지 않고 있다. 반면 감기나 두드러기 등 경증 환자가 빅5로 몰려 암과 심·뇌혈관 질환 등을 앓는 중환자 치료가 줄줄이 연기되는 문제는 개선되지 않았다. 빅5의 한 외과 교수는 “지금의 의료 파행 속에서 중환자 치료 기능을 높이려면 빅5의 4차 병원화를 적극 검토해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이 경우 그동안 빅5가 비(非)중증 환자 진료로 얻은 수익을 정부가 보전해 줘야 하는 문제가 생긴다. 보전 금액은 한 해 3조원 이상일 것이란 관측이 많다. 지역 병원들이 “빅5에만 정부 지원을 몰아주는 정책”이라며 반발할 수 있다. 현재 중증 환자 비율이 낮은 빅5의 비필수 진료과는 인력이 줄어드는 ‘구조 조정’이 일어날 가능성도 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QA7IS2LOKNGPVGZGEUIM5BIGIQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;빅5의 ‘4차 병원 승격’은 지금까지 의료계에서 필요성이 꾸준히 제기돼 온 사안이다. 정부는 그때마다 ‘4차 병원’ 카드를 만지작거리기만 하고 꺼내 들지는 못했다. 병원 간 복잡한 이해관계와 막대한 비용 문제 등 난관이 많았기 때문이다.&lt;br&gt;&lt;br&gt;이번에 의료개혁특위가 이 문제를 검토하는 것은 전공의 이탈 장기화로 대형 병원의 수술·입원이 반 토막 난 초유 상황에서, 중증·응급 환자 치료 기능을 유지하기 위해선 ‘4차 병원 신설’이 유력한 대안이 될 수 있기 때문이다. 의료개혁특위엔 외부 전문가와 기재부·교육부·법무부·행안부·복지부 장관 등 정부 최고위 인사들이 위원으로 참여하고 있다.&lt;br&gt;&lt;br&gt;①경증 환자 쏠림 방지&lt;br&gt;&lt;br&gt;빅5를 4차 병원으로 만들 경우, 고질적 문제인 경증 환자 쏠림이 크게 완화될 수 있다. 의료계에 따르면, 현재 빅5 환자 중 60%가 중증이고, 40% 정도는 비중증이다. 의료개혁특위 관계자는 “빅5가 다른 대형 병원(3차 병원)이 의뢰하는 중환자 위주로 진료·수술을 한다면 의료 파행 중이어도 중환자 치료 기능은 높아질 것”이라며 “비중증 환자의 빅5 진입은 어려워진다”고 했다.&lt;br&gt;&lt;br&gt;②안정적 중환자 병원 구축&lt;br&gt;&lt;br&gt;빅5를 4차 병원으로 만들면 환자 수는 줄어들게 된다. 덩달아 높은 전공의 의존율도 내려갈 수밖에 없다. 현재 빅5 의사 중 전공의 비율은 40% 이상이다. 미국·일본 등에 비해 네 배가량 높다. 정부 관계자는 “의대 증원 등 민감한 정부 정책이 발표될 때마다 전공의들은 병원을 떠나 파업을 주도했고, 그때마다 빅5의 중환자 치료는 큰 차질을 빚었다”고 했다. 전공의 비율을 10% 수준으로 줄여 빅5를 흔들리지 않는 중환자 전담 기관으로 만들기 위해서라도 4차 병원 승격이 필요하다는 것이다.&lt;br&gt;&lt;br&gt;③지역 의료 고사 방지&lt;br&gt;&lt;br&gt;빅5는 그동안 우리나라의 낮은 수가(건보공단이 병원에 주는 돈) 체제에서 환자를 최대한 많이 보는 박리다매식 진료로 생존해 왔다. 결과적으로 지방의 환자들을 빨아들였고, 지역 의료 붕괴의 원흉이라는 비판까지 받았다.&lt;br&gt;&lt;br&gt;건강보험공단 등에 따르면, 지난 2018년부터 2022년까지 5년간 빅5에서 치료를 받은 암 환자 중 39%(103만명)는 비수도권 거주 환자였다. 빅5 쏠림은 가속화하고 있다. 빅5의 비수도권 환자는 2022년 71만명으로 10년 만에 40%가량 급증했다.&lt;br&gt;&lt;br&gt;그 결과 각 지역의 중환자 치료를 책임지는 지방 거점 국립대 병원 10곳의 2022년 의료 이익은 2018년에 비해 평균 209억원 감소했다. 같은 기간 빅5는 평균 204억원 증가했다. 충남대병원의 한 교수는 “빅5 쏠림을 더 방치하면 각 지방 거점 병원들의 중환자 진료·수술 기능은 몇 년 안에 망가질 것”이라고 했다.&lt;br&gt;&lt;br&gt;④연 3조원 이상 필요&lt;br&gt;&lt;br&gt;결국 관건은 돈이라는 지적이다. 2022년 기준, 빅5의 한 해 평균 의료 수익은 병원당 1조6300억원이다. 빅5를 중환자 전용 병원으로 만들면, 매년 이들이 비중증 환자 진료로 거둔 수익을 정부가 보전해 줘야 한다. 빅5 전체에 매년 3조2000억원 정도를 지원해야 한다는 뜻이다. 의료계 인사들은 “환자가 줄어들면 병원의 의료 수익 외에도 주차·식당 매출 등도 줄어 정부가 보전해야 할 금액이 더 커질 수 있다”고 했다.&lt;br&gt;&lt;br&gt;이 돈을 건보 재정만으로 충당하긴 어렵다. 건보 재정은 가만히 둬도 2028년이면 27조원 규모의 적립금이 고갈될 전망이다. 정부는 이번 ‘의료 개혁’에 드는 돈을 의료 발전 관련 예산 및 기금 신설을 통해서도 조달한다는 입장이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞1·2·3차 병원&lt;/b&gt;&lt;br&gt;&lt;br&gt;1차 병원은 경증 환자의 외래 진료를 보는 동네 의원, 보건소 등이다. 2차 병원은 병원(30병상 이상)·종합병원(100병상 이상) 등 입원이 필요한 환자를 돌본다. 3차 병원은 종합병원 중에서도 중증 환자를 전문적으로 치료할 수 있는 곳이다. ‘상급 종합병원’이라고도 부르고, 보건복지부 장관이 3년마다 지정한다. 진료 과목을 20가지 이상 운영해야 하고, 과목별로 전문의도 있어야 한다. 전공의 수련도 담당한다. 1차에서 3차로 갈수록 수가(건보공단이 병원에 주는 돈)를 더 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6ZVLVARSJJHODOJOKQV23SLFAE.png?width=1200&amp;height=675&amp;auth=87b3af3835659526864a6e482c8624f19dc82cb5e454587c4674ef7d523f186d&amp;smart=true" type="image/png" height="675" width="1200"/>
-    </item>
-    <item>
-      <title>담배 피우러 나온 가장, 이웃이 휘두른 일본도에 참변</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/31/2RTOZKOUMZCVVMQCFGSGEAZEUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/31/2RTOZKOUMZCVVMQCFGSGEAZEUQ/</guid>
-      <dc:creator>고유찬 기자, 구동완 기자, 김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EWB567EWWNDSLFPH3ZSXQUC424.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=백형선·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일면식이 거의 없는 아파트 이웃을 흉기로 살해한 30대 남성이 경찰에 붙잡혔다. 서울 서부경찰서는 지난 29일 오후 11시 24분쯤 은평구의 한 아파트 정문에서 김모(43)씨를 100cm 길이 일본도(日本刀)로 수차례 베거나 찔러 살해한 백모(37·무직)씨를 살인 혐의로 긴급 체포해 조사 중이라고 30일 밝혔다. 경찰은 지난해 신림역·서현역 살인 사건처럼 치정·원한·보복 등 뚜렷한 범죄 동기가 없이 무차별적으로 사람을 해치는 ‘이상(異常) 동기 범죄’일 가능성을 살펴보고 있다.&lt;br&gt;&lt;br&gt;경찰·유족·목격자들 말을 들어보면, 김씨는 이날 담배를 피우러 잠시 아파트 정문 인근으로 나왔다가 일본도를 든 백씨에게 공격당했다. 두 사람은 같은 108동 주민이었지만 다른 라인에 살았다. 유족은 “일면식도 없는 사이”라고 했고, 백씨는 “얼굴 정도는 안다”고 진술했다. 별다른 교분은 없는 사이였다고 한다. 백씨 칼에 이마, 복부, 팔 등을 다친 김씨는 피를 흘리며 5m가량 이동, 관리 사무소에 도움을 요청하려 했으나 백씨가 따라와 재차 공격했다. 119 구급대가 인근 병원으로 옮기던 도중 과다 출혈로 숨졌다.&lt;br&gt;&lt;br&gt;서울의 한 기업에 재직 중이던 김씨는 9·4세 두 아들을 둔 가장이었다. 장례식장에서 만난 유족들은 “평소 직장과 집밖에 몰랐던 사람”이라고 했다. 어머니는 “우리 아들 너무 착했어요. 열심히 살았는데, 정말 억울합니다”라며 영정 앞에서 오열하다가 주저앉았다.&lt;br&gt;&lt;br&gt;아파트 주민들은 피의자 백씨가 착실한 대기업 직원이었는데 지난달 상사와 문제가 생겨 불미스럽게 퇴사하면서 성격이 이상해진 것 같다고 말했다. 평소에도 혼자 단지를 돌아다니며 고성을 지르거나 욕설을 했고, 일본도를 들고 아이들을 따라다니거나 ‘칼싸움을 하자’고 말을 걸기도 했다고도 했다. 지난 17일엔 아파트 헬스장에서 소란을 피워 경찰이 출동했던 것으로도 알려졌다. 주민들은 “평소에도 이상한 행동을 많이 해 불안한 인물이었다”고 했다. 경찰 조사 과정에서 백씨는 “산책을 하는 과정에서 피해자와 마주친 적은 있으나 개인적 친분은 없으며, 피해자가 지속적으로 자신을 미행하는 스파이라고 생각하여 범행한 것”이라는 취지로 진술했다고 한다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “백씨의 약 처방 이력 등을 확인하고, 필요하면 정신 감정 또한 의뢰하겠다”고 했다. 백씨가 마약 검사를 거부해 경찰은 그의 모발 등에 대한 압수수색 영장을 신청했다. 구속 영장도 신청할 방침이다.&lt;br&gt;&lt;br&gt;지난해 7월 서울 관악구에서 조선(34)이 흉기를 휘둘러 20대 남성 1명이 숨지고 30대 남성 3명이 다쳤다. 그다음 달 분당 서현역에서 최원종(23)이 차량과 흉기로 여성 2명을 숨지게 하고 12명에게 부상을 입혔다. 두 사람 모두 불특정 다수에 대한 적개심을 드러내며 범행한 것으로 조사됐다. 이웅혁 건국대 경찰학과 교수는 “이후 비슷한 유형의 범죄가 반복되고 있다”고 했다. 지난 한 해 발생한 이상 동기 범죄는 살인 5건, 살인미수 3건, 상해 25건, 폭행 11건이었다. 경찰은 “지난해부터 살인·테러 예고 등 112 신고가 늘어나는 추세”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAFNF4QUZRFC7NT7VRD5GNG54E.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본도 살인 사건을 포함, 27~29일 사흘간 서울에서 발생한 칼부림 사건은 4건이다. 27일엔 서울 성동구의 한 할인 마트 정육점에서 부하 직원에게 흉기를 휘두른 50대 남성이 구속됐고, 같은 날 서울 구로구에서는 술자리를 함께하던 지인에게 흉기를 휘둘러 목 부위를 다치게 한 50대 중국인 남성이 경찰에 붙잡혔다. 28일에는 서울 강서구의 한 빌라에서 남편을 흉기로 찌른 30대 여성이 살인미수 혐의로 체포됐다. 이윤호 동국대 경찰행정학과 교수는 “이상 동기 범죄는 언제 어디서 누가 일으킬지 모른다는 점에서 경찰에서 예방이 거의 불가능하기 때문에 사회 안전망 확충 등 여러 주체가 함께 해결해야 할 문제”라고 했다.&lt;br&gt;&lt;br&gt;한편 백씨는 지난 1월 서부서에서 도검(刀劍) 소지 허가를 받았다. 당시 백씨는 범행에 쓴 일본도를 ‘장식용’으로 신고했다. 총포화약법을 보면, 알코올·마약중독자나 정신 질환자, 강력범죄 전과자 등은 총포·도검 소지 허가를 받을 수 없다. 경찰 관계자는 “백씨는 당시 정신 병력과 범죄 경력상 별 이상이 없어 허가가 났다”고 했다. 경찰은 백씨의 일본도 입수 경위를 비롯, 이후 백씨의 건강에 문제가 생겼는지 여부를 살펴보고 있다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞이상 동기 범죄&lt;/b&gt;&lt;br&gt;&lt;br&gt;뚜렷한 동기 없이 불특정 대상을 향해 벌이는 폭력적 범죄를 이르는 말. 흔히 ‘묻지 마 범죄’로 불렸으나 경찰은 2022년부터 이를 이상 동기 범죄로 처음 분류해 통계를 기록하기 시작했다. 지난해 벌어진 신림역·서현역 흉기 난동 사건 등이 이상 동기 범죄로 분류된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MAUH2PUKMJCDRJ276KCJCDEETU.png?width=1200&amp;height=675&amp;auth=d03d432aa3f80eeb7c1d509a0dff5e2199c785393b19dfe6ed5edbec0af1d5d8&amp;smart=true" type="image/png" height="675" width="1200">
-        <media:description type="plain">일러스트=백형선·Midjourney</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 괴리(乖離)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/31/OY5TWGMRQ5G3PA2FUEXMGCI7GE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/31/OY5TWGMRQ5G3PA2FUEXMGCI7GE/</guid>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FOQJZ73ONVAKXHEKN3ZAXAA44A.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원 ‘티메프’ 자산 동결, 환불·정산 일단 스톱</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/31/CXZ4HZPXIJHWDIM735WUNJP2VE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/31/CXZ4HZPXIJHWDIM735WUNJP2VE/</guid>
-      <dc:creator>방극렬 기자, 박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6G3H6JRWYJHABNZCRX4AXEX6ZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구영배 큐텐그룹 대표와 류광진 티몬 대표가 30일 오후 서울 여의도 국회에서 열린 '티몬·위메프(티메프) 사태' 관련 정무위원회 전체회의에 출석하고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이커머스 업체 티메프(티몬·위메프)의 기업회생 관련 절차가 30일 시작됐다. 서울회생법원은 이날 티메프의 자산 처분과 채무 상환을 중단시켰다. 티메프 자산을 채권자가 가압류하거나 채무자가 은닉할 수 없도록 모든 채권을 동결한 것이다. 이에 따라 당분간 소비자는 티메프에서 환불을 받을 수 없고, 판매자들은 거래 대금을 정산받을 수 없게 됐다. 티메프가 기업회생을 신청한 지 하루 만이다.&lt;br&gt;&lt;br&gt;안병욱 서울회생법원장이 재판장을 맡고 있는 회생2부는 내달 2일 오후 티몬 류광진 대표이사, 위메프 류화현 대표이사 등을 불러 비공개 심문을 진행할 예정이다. 안 법원장이 직접 심문에 참여할 가능성도 있다. 재판부는 두 대표를 상대로 회생 신청 이유와 자산 및 부채 현황을 확인하고, 영업을 계속할 수 있는지 심사한다. 원칙적으로 법원은 회생 신청 한 달 안에 회생 개시 여부를 결정해야 한다.&lt;br&gt;&lt;br&gt;법원이 회생 개시 여부를 결정하기 앞서 티메프가 신청한 ‘자율 구조 조정 지원(ARS)’ 프로그램이 실시될 가능성이 높다. ARS 프로그램은 법원이 기업과 채권자가 동의하는 외부 전문가나 법인을 선임해 자율적이고 효율적인 구조 조정을 진행하는 제도다. 다만 티몬과 위메프는 채권자가 각각 4만여 명, 6만여 명으로 추산되고 이해관계가 복잡하다. 재판부는 정부 기관을 이 프로그램에 참여시키는 것도 고려하고 있다고 한다. 채권자들과 티메프 간 협의를 이끌어내기 위해 재판부는 회생 개시 결정을 최소 1개월에서 최대 3개월까지 미룰 수 있다.&lt;br&gt;&lt;br&gt;하지만 법원이 정한 기간 내 협의가 이뤄지지 않거나 부채 3분의 2를 가진 채권자들이 반대하면 ARS 프로그램은 종료된다. 법조계에선 “채권자의 신뢰를 잃은 티메프가 ARS 프로그램에 성공할 가능성이 낮다”는 전망이 나온다.&lt;br&gt;&lt;br&gt;법원이 회생 개시 결정을 내리면 법원이 선임한 관리인이 경영을 맡고, 조사위원들은 회사를 계속 유지하는 것이 청산하는 것보다 이득인지를 파악한다. 이를 바탕으로 회생 계획안이 만들어지고 채권자 등의 인가를 받으면 회생에 돌입한다. 회생 개시 결정부터 계획 인가까지 보통 1년 정도 걸리지만, 티메프의 채권자 규모를 감안하면 더 오래 걸릴 것으로 보인다. 회생 개시가 기각되거나 계획안 인가를 받지 못할 경우 파산한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘증원’ 30개 의대, 6년간 매년 평가받는다</title>
-      <link>https://www.chosun.com/national/education/2024/07/31/35HLDXZSDZHLNFDVMISMDZW22Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/07/31/35HLDXZSDZHLNFDVMISMDZW22Q/</guid>
-      <dc:creator>표태준 기자, 윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PHM7NBZAONMC5G7AF5FFKYCG4I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;30일 오후 서울 중구 은행회관에서 열린 '의대 입학정원 증원에 따른 주요변화평가 계획(안) 설명회'를 찾은 대학별 의대 관계자들이 안덕선 한국의학교육평가원장의 인사말을 듣고 있다. 의평원은 의대 증원이 '기본의학교육과정에 지대한 영향을 끼칠 수 있다고 인정되는 경우'로 판단, 올해부터 6년간 매년 특별 평가에 나선다. 평가 결과 불인증이 나온 의대는 신입생을 뽑을 수 없게 된다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의대 인증 기관인 한국의학교육평가원(의평원)이 내년 입학 정원이 10% 이상 늘어난 의대 30곳에 대해 50개 넘는 항목을 6년간 매년 평가할 계획이라고 30일 밝혔다. 의평원은 이날 서울 중구 은행회관에서 이같은 내용의 ‘의대 입학 정원 증원에 따른 주요 변화 평가 계획안’을 발표하고 대학 대상 설명회를 열었다. 의평원은 의대를 인증하고 평가하는 업무를 하는 비영리 민간단체다. 이에 대해 대학들은 “지나치게 빡빡한 기준을 내세워 의대 증원된 대학을 괴롭히겠다는 것 아니냐”며 불만을 표하고 있다.&lt;br&gt;&lt;br&gt;의평원은 평가 인증 기준 92개 중 ‘교수 채용과 선발 정책’ 등 51항목을 적용해 평가할 계획이라고 밝혔다. 원래 ‘입학 정원 증원’ 등으로 주요 변화가 있을 땐 15항목을 적용했는데, 세 배 이상으로 대폭 늘렸다. 또 평가 결과에 따라 2·4·6년 단위로 의대를 재평가하는데, 이번에 의대 정원이 많이 늘어난 대학은 매년 평가를 하겠다고 나선 것이다. 안덕선 의평원장(연세대 의대 교수)은 이날 설명회에서 “의대 정원이 크게 늘어 과연 증원 전과 동일한 수준의 의학 교육이 제공될 수 있을지 국민이 우려를 갖는 것이 당연하다”며 “의대의 준비 상황이 신뢰를 얻을 수 있도록 하는 활동”이라고 했다.&lt;br&gt;&lt;br&gt;대학가에선 “부담이 너무 크다”는 목소리가 나온다. 의대 정원이 늘어난 한 대학 총장은 “사실상 의대가 증원된 대학에 대한 반감으로 어깃장을 놓는 것으로 느껴진다”고 했다. 다른 대학 총장은 “의평원이 의료계 인사로 구성돼 있어 의료계 입장만 반영하는 것 아니냐”고 말했다.&lt;br&gt;&lt;br&gt;평가 대상 대학은 오는 11월 30일까지 교수 확보 계획 등을 담은 자료를 제출해야 한다. 12월부터 평가가 실시되고 내년 2월 인증 여부를 각 대학에 통보한다. 인증을 통과하지 못한 대학은 재인증을 신청할 수 있지만, 재인증에서도 또 탈락하면 신입생을 모집할 수 없다. 2017년 서남대 의대가 의평원 인증에서 탈락한 후 재인증을 스스로 포기해 폐교된 바 있다.&lt;br&gt;&lt;br&gt;교육부는 이날 입장문을 내고 “많은 대학이 의평원 계획안에 대해 큰 부담을 느끼는 상황을 매우 유감스럽게 생각한다”면서 “의평원 평가가 공정하게 이뤄질 수 있도록 대학들 의견을 반영해 보완을 지시하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>시청역 참사 운전자 구속</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/31/GKYYIKDDFVGGDCK5I6LFPIRQJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/31/GKYYIKDDFVGGDCK5I6LFPIRQJY/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 15:50:00 +0000</pubDate>
-      <content:encoded>시청역 역주행 참사를 일으킨 가해 차량 운전자 차모(68)씨가 30일 구속됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 김석범 영장전담 부장판사는 이날 차씨에 대한 영장실질심사를 진행한 후 “도망할 염려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;차씨는 이날 오전 영장실질심사에 출석하면서 “돌아가신 분과와 유족들께 대단히 죄송하다”며 거듭 사과했다. 차씨는 ‘신발에 액셀(가속페달) 자국이 남아 있었는데 어떻게 생각하느냐’는 취재진 질문에 “모르겠다”고 했다.&lt;br&gt;&lt;br&gt;차씨는 지난 1일 오후 9시 26분쯤 제네시스 G80 차량을 몰고 시청역 인근인 서울 소공동 웨스틴 조선호텔 맞은편 일방통행로를 역주행, 9명을 숨지게 하고 7명을 다치게 한 혐의(교통사고처리특례법상 치사)를 받는다.&lt;br&gt;&lt;br&gt;서울 남대문경찰서는 지난 25일 범죄의 중대성과 그간 수사 내용을 종합해 차씨에 대한 구속영장을 신청했다. 경찰 관계자는 구속영장을 신청한 배경에 대해 “피해 규모가 크고 피해 회복이 이뤄지지 않은 점, 차씨가 과실을 인정하지 않았기 때문”이라고 설명했다. 앞서 국립과학수사연구원은 차씨의 과실이 빚은 사고 가능성이 크다는 감정 결과를 경찰에 전달했다. 국과수는 정밀 감식·감정을 통해 차씨가 사고 당시 가속페달(액셀)을 90％ 이상 밟았으며 브레이크를 밟은 흔적은 없다는 결론을 내렸었다. 하지만 차씨는 그간 경찰 조사에서 “차량 결함으로 인한 사고”라고 주장한 것으로 알려졌다. 서울중앙지검은 지난 26일 차씨의 구속영장을 법원에 청구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>봉화 농약 80대 할머니 숨져… 이대로 미스터리로 끝나나</title>
-      <link>https://www.chosun.com/national/incident/2024/07/31/VB5NHJZOJFANPE4AEXK2TNCSFA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/07/31/VB5NHJZOJFANPE4AEXK2TNCSFA/</guid>
-      <dc:creator>봉화=권광순 기자, 봉화=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 15:50:00 +0000</pubDate>
-      <content:encoded>지난 15일 경북 봉화군에서 발생한 ‘복날 농약 커피 사건’ 수사가 답보 중인 가운데, 사건 발생 16일째인 30일 농약 음독(飮毒) 증상을 보이며 쓰러진 할머니 5명 중 1명이 숨졌다. 이번 사건 관련 첫 사망자다.&lt;br&gt;&lt;br&gt;이 할머니 A(85)씨는 지난 18일 경북 안동병원에 이송됐다. 사건 직후인 지난 15~16일 잇따라 입원한 다른 할머니들과 달리 뒤늦게 증상을 보여 경찰은 A씨를 용의 선상에 놓고 수사해 온 것으로 알려졌다. 그러나 A씨가 사망함으로써 자칫 사건이 ‘장기 미제’가 될 수 있다는 우려가 나온다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면, 초복인 지난 15일 A씨 등 경로당 회원 41명은 마을 식당에서 오리 고기를 먹었다. 이 중 할머니 4명은 경로당으로 자리를 옮겨 주방 냉장고에 있던 냉커피를 마신 뒤 차례로 호흡 곤란 등 증상을 호소하며 병원으로 이송됐다. 컵에서 농약 성분이 나왔다.&lt;br&gt;&lt;br&gt;당시 A씨는 이 4명과 다른 식탁에서 오리 고기를 먹었고, 경로당에서 커피도 마시지 않은 것으로 조사됐다. 이후 지난 18일 같은 증상을 호소하며 병원에 실려가 12일 만에 숨졌다.&lt;br&gt;&lt;br&gt;이를 두고 전문가들 사이에서 “독극물을 먹으면 바로 증상이 나타나는데 5명 중 최고령인 A씨만 뒤늦게 증상이 발현된 게 이상하다”는 말이 나왔다. 경찰도 5명 중 A씨 집만 지난 18일 수색했다.&lt;br&gt;&lt;br&gt;조사 결과 A씨에게서는 다른 할머니 4명에게서 공통적으로 발견된 에토펜프록스와 터부포스 외에 다른 농약 성분 2종과 살균제 성분이 검출됐다. 경찰 관계자는 “A씨가 뒤늦게 여러 가지 농약을 마셨거나 또 다른 경로로 음독했을 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;A씨가 병원으로 이송되기 전 통장에서 돈을 전부 찾아 가족에게 전달한 사실도 알려졌다. A씨의 아들 B씨는 “어머니가 사건 당일에는 (상태가) 괜찮다더니 18일 갑자기 오리 고기를 탓하며 병원에 실려갔다”고 했다. 그는 “2평 정도 되는 텃밭 말고는 농사도 안 짓는데 농약 성분이 나왔다 하니 기막히다”고 했다.&lt;br&gt;&lt;br&gt;경로당 회원 사이에서는 경로당 간부들이 일반 회원들의 주방(탕비실) 출입을 제한하면서 갈등이 있었다는 말이 나왔다. 회원 C씨는 “몇 달 전 간부들이 ‘일부 회원이 공용 음식을 멋대로 먹는다’면서 탕비실 출입을 통제했다”고 했다. 그는 “간부들만 마음대로 드나들며 음식을 먹는다는 말이 돌아 기분 나빠하는 사람들이 있었다”고 했다. 쓰러진 할머니 5명 중 A씨를 제외한 4명은 경로당 회장 등 간부들이다.&lt;br&gt;&lt;br&gt;한편 A씨를 제외한 4명 중 3명은 지난 25일 이후 차례로 퇴원했다. 경로당 총무인 D(69)씨만 중환자실에서 치료받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>2022년 복지시스템 오류 사태, 복지부 무리한 개통 탓</title>
-      <link>https://www.chosun.com/politics/goverment/2024/07/31/2K7MN4RTVJF4JBLEQCE27KDXUE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2024/07/31/2K7MN4RTVJF4JBLEQCE27KDXUE/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 15:50:00 +0000</pubDate>
-      <content:encoded>2022년 ‘차세대 사회보장 정보 시스템(복지 시스템)’의 대규모 오류 사태는 보건복지부가 시스템 개발이 완료되지 않았는데도 무리하게 개통을 강행해 벌어졌다는 감사원 감사 결과가 나왔다.&lt;br&gt;&lt;br&gt;복지 시스템은 생계급여·장애인연금·기초연금·아동수당 등 각종 복지 급여 지급 업무를 처리하기 위해 정부에 구축된 전산 시스템으로, 이 시스템을 통해 국민 2200만명에게 연 46조원 넘는 복지 재정이 집행된다. 이 시스템을 직접 사용하는 공무원, 공공기관 직원 등도 16만명에 달한다. 1200여 억원이 들어간 이 시스템 구축 사업은 2022년 9월 6일 개통하자마자 접속 오류가 잇따르면서 전국의 복지 행정을 마비시켰다. 개통 뒤 6개월간 접수된 오류 신고는 32만건이 넘었고, 일부 급여의 지급이 중단되기도 했다.&lt;br&gt;&lt;br&gt;감사원이 30일 공개한 감사 보고서에 따르면, 사업을 수주한 LG CNS 컨소시엄은 개발 인력이 지속적으로 이탈하면서 개발을 제대로 진행하지 못했다. 2020년 프로젝트를 시작하면서 1176명을 투입했으나, 2022년 6월엔 절반인 599명만이 남아 있었다.&lt;br&gt;&lt;br&gt;컨소시엄은 2021년 말까지 전체 공정의 78.9%를 마쳤어야 했는데, 실제 진척된 공정은 47.5%에 불과했다. 개통 나흘 전인 2022년 9월 2일까지 진척된 공정은 81.5%였다. 시험에서 발견된 시스템 결함이 2만1876건이었는데 이 가운데 3884건(17.8%)은 해결하지 못한 상태였다.&lt;br&gt;&lt;br&gt;그런데도 복지부는 개통을 강행했는데, 복지부 담당 간부는 ‘일단 개통하고 나면 생기는 문제들은 나중에 해결할 수 있다’고 생각했던 것으로 나타났다. 복지부는 업체가 공정을 맞추지 못했는데도 계약 대금도 전액을 줬다. 계약 대금을 집행하지 않으면 ‘불용(不用·예산을 기한 내에 쓰지 못함)’ 처리하고 반납해야 하고, 예산 확보 작업을 처음부터 다시 진행해야 한다는 이유에서였다. 감사원은 복지부가 시스템 개통을 강행해 혼란이 초래됐다며, 복지부에 담당 공무원을 징계하라고 요구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이 여름, 푹 빠지고 싶다</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/31/FCF7QTCMUJGYHOGT2HT7DUMYPQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/31/FCF7QTCMUJGYHOGT2HT7DUMYPQ/</guid>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BOHU3GVD45E2DAWG7LR2KH5LBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 대구 달서구 두류워터파크에서 시민들이 미끄럼틀을 타며 물놀이를 하고 있다. 이날 대구의 낮 최고기온은 35도까지 올랐다. 기상청은 당분간 ‘찜통더위’가 이어질 것이라고 예상했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [숨어있는 세계사] 같은 ‘차모로족’ 뿌리… 美·스페인 전쟁 후 운명 달라졌죠</title>
-      <link>https://www.chosun.com/national/nie/2024/07/31/VSMF7PYETRFCPJUTMUMSLO2F5Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/31/VSMF7PYETRFCPJUTMUMSLO2F5Y/</guid>
-      <dc:creator>윤서원 서울 단대부고 역사 교사, 기획·구성=오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>본격적인 여름 휴가철이 시작됐습니다. 휴가 기간에 해외로 놀러 나가는 분들도 많을 텐데요. 괌과 사이판은 한국인들이 가장 많이 찾는 휴양지들이에요. 아름다운 자연경관과 다양한 액티비티로 유명한 괌과 사이판은 그 자체로 매력적이지만, 두 섬이 가진 흥미로운 역사적 배경을 안다면 여행의 재미가 더욱 커질 겁니다.&lt;br&gt;&lt;br&gt;괌은 마리아나 제도의 최남단에 위치한 섬이에요. 괌의 북쪽엔 14개 섬이 줄지어 있는데요. 이 섬들을 묶어 북마리아나 제도라고 불러요. 그중 주도(主都)가 사이판입니다. 즉, 북마리아나 제도에 괌을 더하면 마리아나제도가 되는 거예요. 마리아나 제도의 역사는 고대 원주민의 정착부터 제2차 세계대전까지 다양한 사건을 겪으며 전개됐습니다. 태평양 서부에 위치해 있어 해상 교통로와 군사 기지로서 가치가 컸기 때문에 열강의 침략을 많이 받았어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M7AMKPALYRAV3IOTVENDHYB3BU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;차모로족 전통 의상을 입은 사람들&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;수백년간 스페인 지배 받은 괌&lt;/b&gt;&lt;br&gt;&lt;br&gt;괌의 역사는 차모로족이 기원전 2000~3000년 전 동남아시아 지역에서 건너오면서 시작됐습니다. 1521년 페르디난드 마젤란이 세계 일주 도중 괌에 도착했고, 이후 유럽에 괌을 비롯한 태평양 섬들이 알려지게 됐어요. 그리고 1565년 스페인이 괌을 포함한 마리아나 제도에 대한 영유권을 선포했답니다.&lt;br&gt;&lt;br&gt;1660년대 후반부터는 스페인 예수회 선교사들이 상륙해 종교를 전파했어요. 차모로족에게 스페인어와 문화도 가르쳤다고 해요. 그래서 오늘날에도 괌 시민의 대다수가 가톨릭교이며, 지명이나 건축물 등에서 스페인 흔적이 많이 남아있습니다. 마리아나 제도라는 이름 역시 스페인 국왕 펠리페 4세의 부인 ‘마리아나’의 이름에서 따온 것이죠. 이후 스페인은 마리아나 제도 주민들의 저항과 반란을 진압하고 마리아나 제도를 완전히 ‘스페인령 동인도’로 편입했어요. 전쟁과 학살, 유럽인들로 인해 퍼진 각종 전염병 때문에 원주민 인구는 급격히 줄었다고 해요.&lt;br&gt;&lt;br&gt;괌은 스페인이 미국과 전쟁에서 패배하기 전까지 수백년간 스페인의 통치를 받았어요. 미국·스페인 전쟁(1898) 중 미국은 스페인의 식민지인 필리핀을 공격하는 데 필요한 중간 기지를 확보하기 위해 괌에 상륙했어요. 전쟁은 결국 미국의 승리로 끝났는데요. 그 결과 스페인은 괌을 비롯해 푸에르토리코, 필리핀 등을 미국에 양도합니다.&lt;br&gt;&lt;br&gt;제2차 세계대전 때 일본이 잠시 점령했던 기간을 제외하면, 1950년까지 미국의 지배를 받는 지역이었어요. 그러다 1950년 미국 의회가 괌 조직법을 통과시키고 원주민에게 미국 시민권을 부여했고, 괌 자치 정부를 구성할 수 있게 해줬어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ILM56NJDBBYHHV7VCHC6PM6C4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사이판 남쪽 해안의 오비얀 비치. 사이판은 스킨스쿠버 다이빙을 하기에 최적의 장소로 꼽힌다. 마리아나 관광청 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;사이판이 독일로 넘어간 이유는?&lt;/b&gt;&lt;br&gt;&lt;br&gt;북마리아나 제도에 속한 사이판 역시 차모로족이 정착하면서 역사가 시작됐어요. 이들은 주로 농업과 어업 활동을 하며 고유한 문화를 갖고 있었습니다. 특히 ‘라테스톤’이라는 거석(巨石)문화가 북마리아나 제도와 괌에 발달했지요. 라테스톤은 주로 건축물의 기둥으로 사용됐어요. 이는 차모로족을 상징하는 대표적인 문화유산이에요.&lt;br&gt;&lt;br&gt;사이판도 19세기 말까지 스페인의 지배를 받았어요. 하지만 미국·스페인 전쟁 이후부터 괌과 사이판의 운명이 달라져요. 1899년 전쟁에 패배한 스페인이 재정난을 해결하기 위해 북마리아나 제도를 독일에 매각하면서 주인이 독일로 바뀌었습니다.&lt;br&gt;&lt;br&gt;하지만 제1차 세계대전 발발 이후, 일본은 북마리아나 제도를 포함해 독일이 태평양에서 지배했던 식민지들을 점령하기 시작했습니다. 그리고 전후 처리를 위해 체결된 베르사유 조약(1919)으로 북마리아나 제도 등이 승전국이었던 일본의 위임 통치령이 되었어요. 2차 세계대전 시기까지 일본은 이곳에서 사탕수수 등을 재배했고, 군사적 요충지로 이용했다고 합니다. 2차 대전이 끝나기 직전인 1944년 연합군이 사이판 등을 탈환했고, 이후 사이판 등 북마리아나 제도는 연합군의 기지로 이용됐어요.&lt;br&gt;&lt;br&gt;2차 세계대전이 끝난 후 유엔은 북마리아나 제도를 포함한 태평양 섬들을 미국의 신탁통치 아래에 뒀어요. 1970년대 중반 북마리아나 제도 주민들은 투표를 통해 독립을 포기했습니다. 그리고 1986년 신탁통치가 끝나면서 사이판을 비롯한 북마리아나 제도는 국방과 외교는 미국이 관장하고, 그 외 행정업무를 담당하는 자치 정부를 구성해요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TNXXEZFL7ZEHFJUQDMPKAISD7Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;차모로족의 독특한 거석(巨石)문화인 라테스톤. 라테스톤은 주로 건축물의 기둥으로 사용됐어요.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;두 섬은 미국 50개 주에 포함 안돼&lt;/b&gt;&lt;br&gt;&lt;br&gt;괌과 북마리아나 제도는 지리적으로 가깝고 같은 조상을 뿌리로 두고 있기에 현재 따로 운영되는 게 의아할 수도 있어요. 하지만 앞서 살펴봤듯이 전쟁을 거치며 다른 역사적 경험을 갖게 됐고, 경제적·문화적 차이가 생기면서 각 섬의 주민들이 굳이 합치는 것을 원하지 않았던 것으로 추정돼요.&lt;br&gt;&lt;br&gt;미국은 50개의 주와 1개의 특별행정구로 이뤄진 연방 국가예요. 하지만 괌과 북마리아나 제도는 미국의 영토이긴 하지만 50개 주에는 속하지 않는 ‘미국령’에 해당돼요.&lt;br&gt;&lt;br&gt;미국령에서 태어난 주민들은 ‘속지주의’ 원칙에 따라 자동으로 미국 시민 자격을 부여받아요. 하지만 미국 대통령과 상·하원 선거에 참여할 수 있는 투표권은 없습니다. 대신 미국령 주민들은 연방 정부에 세금을 내지 않는다고 해요. 또 미국령에 대한 안보는 미국 연방 정부가 책임을 진다고 합니다. 외국으로부터 미국령이 공격받으면 미국이 자동으로 개입하게 돼 있지요. 미국 연방 정부는 괌과 북마리아나 제도의 외교와 국방, 이민(출입국관리) 업무를 관장한다고 해요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7JE2EWLLP5ELXIIZA5EMH42TRI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [동물 이야기] 나무에서 사는 캥거루… 평생의 60%를 잠만 자는 ‘잠꾸러기’</title>
-      <link>https://www.chosun.com/national/nie/2024/07/31/6LLPSKQB5NHYBKNGOV4WNOKMPY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/31/6LLPSKQB5NHYBKNGOV4WNOKMPY/</guid>
-      <dc:creator>정지섭 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>얼마 전 미국 뉴욕 브롱크스 동물원이 소셜미디어에 아주 깜찍한 동물 영상을 올렸어요. 캥거루와 닮은 동물의 육아주머니에서 새끼가 빼꼼 고개를 내민 거예요. 이 동물은 나무타기캥거루의 한 종류인 ‘마치 나무타기캥거루’예요. 독일의 동물학자 파울 마치의 이름을 붙였죠.&lt;br&gt;&lt;br&gt;나무타기캥거루는 말 그대로 나무에서 주로 살아가는 캥거루랍니다. 보통 캥거루 하면 호주의 넓은 초원을 두 발로 동시에 껑충껑충 뛰어다니는 모습이 생각나죠. 그런데 나무타기캥거루는 몸길이도 70㎝ 안팎으로 아담한 편이고, 땅이 아닌 나무 위에서 주로 살아요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KQFCPLKJARBCLDBQSN2HGOYJFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;나무타기캥거루가 나뭇가지들 사이에 있는 모습. /샌디에이고 동물원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;나무타기캥거루는 세계적으로 10여 종류가 있어요. 일부는 호주에 살고 있지만, 호주 위에 있는 뉴기니섬에 더 많이 산답니다. 뉴기니섬은 호주 대륙과 아주 오래전에 육지로 연결됐기 때문에 이곳에도 정착하게 된 거죠.&lt;br&gt;&lt;br&gt;이들에겐 특별한 기술이 있어요. 나무 위를 다닐 때 사람처럼 왼쪽 뒷발과 오른쪽 뒷발을 각각 따로 움직일 수 있답니다. 또 앞발을 손처럼 움직여서 나무를 오를 수도 있어요. 앞발은 나무 몸통을 꽉 움켜쥘 수 있을 만큼 튼튼하고 날카로운 발톱도 있지요.&lt;br&gt;&lt;br&gt;캥거루 특유의 멀리 뛰기에는 서툴지만 높은 나무에서 땅으로 휙 내려오는 점프 실력이 뛰어나요. 내려올 때 기다란 꼬리가 균형을 잡아주거든요. 그래서 9m 넘는 나무 위에서도 다치지 않고 땅으로 사뿐하게 내려올 수 있답니다.&lt;br&gt;&lt;br&gt;평생 살아가는 시간의 60%를 자는 데 쏟는 잠꾸러기예요. 편안한 나뭇가지가 있으면 그 자리에서 쿨쿨 잠을 잔다고 해요. 나무타기캥거루는 평소에는 무리가 아닌 단독 생활을 하고 번식철에만 암수가 만나 짝을 지어요. 40여 일의 임신 기간을 거쳐 콩알만 한 아주 작은 새끼를 낳아요. 새끼는 어미의 육아주머니를 인큐베이터 삼아서 자라요. 7~10개월 정도 이곳에서 지내다가 밖으로 나오죠. 이후에도 한두 달 정도는 육아주머니 속으로 들어왔다 나갔다를 반복하고요. 2년 정도 어미와 함께 살다가 번식할 수 있을 정도로 자라면 독립해요.&lt;br&gt;&lt;br&gt;나무타기캥거루는 숲을 가꾸는 정원사 역할도 한답니다. 열매와 꽃을 먹기 위해 숲 곳곳을 찾아다니는 과정에서 자연스럽게 씨가 널리 퍼지고, 꽃가루받이를 도와주거든요. 하지만 숲이 개간되고, 사람에게 사냥당하고, 기후 변화로 숲이 황폐해지는 일이 잇따르고 있어 개체수가 급격하게 줄고 있답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [예쁜 말 바른 말] [356] ‘작열’과 ‘작렬’</title>
-      <link>https://www.chosun.com/national/nie/2024/07/31/AJP4FZW2WNAF3D7YPYYYDUIQSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/31/AJP4FZW2WNAF3D7YPYYYDUIQSQ/</guid>
-      <dc:creator>류덕엽 교육학 박사·전 서울 양진초 교장</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7RZ5GAM3CBEYRLHCVSJSXUP5NI.png"&gt;&lt;br&gt;&lt;br&gt;*한 축구 선수가 비공개 친선전에서 멀티골을 작열시켰다.&lt;br&gt;&lt;br&gt;위 문장에서 틀리는 말을 찾아 고쳐 보세요. 바로 ‘작열시켰다’를 ‘작렬시켰다’로 바꿔야 해요. 두 낱말을 구별하지 못하고 잘못 쓰는 경우가 많은데요. ‘작열’과 ‘작렬’은 어떻게 다른지 알아볼까요?&lt;br&gt;&lt;br&gt;‘작열(灼熱)’은 불 따위가 이글이글 뜨겁게 타오름을 뜻해요. 예를 들면 ‘우리는 태양이 작열하는 바닷가에 누워 모래찜질을 즐겼다’와 같이 써요. 또 몹시 흥분하거나 하여 이글거리듯 들끓음을 비유적으로 이르는 말로 ‘영혼을 태울 듯한 작열의 사랑’과 같이 쓸 수 있어요. 참고로 ‘작열감(灼熱感)’은 온몸에 열이 심해지고 쐐기풀로 찌르는 듯한 감각을, ‘작열통(灼熱痛)’은 상처를 입은 곳이 불에 타는 듯이 따갑고 아픈 통증을 뜻하는 의학 용어예요.&lt;br&gt;&lt;br&gt;‘작렬(炸裂)’은 포탄 따위가 터져서 쫙 퍼지는 것을 뜻해요. 또 운동 경기의 공격이나 박수 소리 따위가 포탄이 터지듯 극렬하게 터져 나오는 것을 비유적으로 이르는 말입니다. 예를 들면 ‘작렬하는 수류탄을 뚫고 적진으로 향했다’ ‘그 선수는 이번 경기에서만 세 골을 작렬시켰다’와 같이 써요.&lt;br&gt;&lt;br&gt;&amp;lt;예문&amp;gt;&lt;br&gt;&lt;br&gt;-뜨거운 태양이 작열하는 여름철에는 야외 활동이 부담스러워 실내에서 운동하며 체력을 관리하는 사람이 많아진다.&lt;br&gt;&lt;br&gt;-그 선수는 경기 종료 직전에 결승골을 작렬시켜 팬들을 감동시켰다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 7월 31일</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/31/VQ26YANDDVGSBIOYEXEZXAQ24M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/31/VQ26YANDDVGSBIOYEXEZXAQ24M/</guid>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5PS2MOCSGRFMDNSU6OZUIIVFPI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 송순이 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/07/31/4D3GIG2AW5CSJNFEFCW5REQKGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/07/31/4D3GIG2AW5CSJNFEFCW5REQKGQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;송순이&lt;/b&gt; 별세, &lt;b&gt;민병동&lt;/b&gt; 자영업·&lt;b&gt;민병국&lt;/b&gt; 우리자산신탁 부장 모친상, &lt;b&gt;조현진&lt;/b&gt; 시모상, &lt;b&gt;민예리&lt;/b&gt; 조모상=30일5시48분 이대목동병원, 발인 1일5시, (02)2650-5121&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이영자&lt;/b&gt; 별세, &lt;b&gt;김종한&lt;/b&gt; 조선일보CS마석센터 대표 장모상=29일17시 경기 구리시 원진녹색병원, 발인 31일12시, (031)552-5119&lt;br&gt;&lt;br&gt;▲&lt;b&gt;허성규&lt;/b&gt; 별세, &lt;b&gt;허경식&lt;/b&gt; 前 메리츠증권 상무·&lt;b&gt;허대식&lt;/b&gt; 연세대 경영대학 교수·&lt;b&gt;허영식&lt;/b&gt; 케이엘에이텐코코리아 전무·&lt;b&gt;허영철&lt;/b&gt; 제이엔에이치메디컬 대표·&lt;b&gt;허중식&lt;/b&gt; 부친상, &lt;b&gt;손숙연&lt;/b&gt;·&lt;b&gt;김명선&lt;/b&gt; 동덕여대 초빙교수·&lt;b&gt;송미나&lt;/b&gt; 페이브에듀 대표 시부상=30일9시50분 신촌세브란스병원, 발인 1일9시20분, (02)2227-7591&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김낙년 한국학중앙연구원장</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/07/31/FJBHFFFBZFBZDGK4KRPDTANIBE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/07/31/FJBHFFFBZFBZDGK4KRPDTANIBE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O6ZE33CWOJGEVEPPCYBT7UUUW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김낙년 동국대 명예교수가 4일 오전 서울 강남구의 사무실에서 조선일보와 인터뷰를 가지고 통계 조작에 관련한 자신의 생각을 얘기하고 있다./이태경기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김낙년(67·사진) 동국대 명예교수(경제학)가 한국학중앙연구원 신임 원장에 선임돼 30일 취임했다. 임기는 3년이다. 낙성대경제연구소 이사장과 경제사학회장 등을 역임했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2432] 돌려라 룰렛 계산기</title>
-      <link>https://www.chosun.com/national/nie/2024/07/31/PNJBYJC3QVEWHOTQ5M6RLGYPMA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/31/PNJBYJC3QVEWHOTQ5M6RLGYPMA/</guid>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FE74E5NUVJGXDPC6ZX7ZWLLDRY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 국토교통부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/07/31/HZB4DNOFTVHRNC6OGJ2T6WPCAA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/07/31/HZB4DNOFTVHRNC6OGJ2T6WPCAA/</guid>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>▲국토교통부◇과장급 전보▷항행위성정책과장 정선우▷중앙토지수용위원회 사무국장 오성익▷부동산개발산업과장 김동준▷건설안전과장 박동주&lt;br&gt;&lt;br&gt;▲통일부◇과장급 전보▷메시지기획팀장 이은영&lt;br&gt;&lt;br&gt;▲새만금개발청◇과장급▷기획조정관실 혁신행정담당관 정상현&lt;br&gt;&lt;br&gt;▲공정거래위원회◇과장급 승진▷신산업하도급조사팀장 장주연&lt;br&gt;&lt;br&gt;▲국가철도공단▷상임이사(시설본부장) 최원일▷상임이사(경영본부장) 이현철▷수도권본부장(1급) 최영환&lt;br&gt;&lt;br&gt;▲한국콘텐츠진흥원▷글로벌혁신부문 부문장 김락균(신임)&lt;br&gt;&lt;br&gt;▲프레시안▷경영본부장 이영환&lt;br&gt;&lt;br&gt;▲인베스트조선▷기업금융부 2팀장 이상은▷〃3팀장 위상호&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 그림자처럼 붙어 다니다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/07/31/Q545REEYORA2JIZUNP4HRAQL6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/07/31/Q545REEYORA2JIZUNP4HRAQL6I/</guid>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FABZ7ZRWBVBWDO6J6F3IMVY3SY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] I'm not chancing it.</title>
-      <link>https://www.chosun.com/national/nie/english/2024/07/31/S6NG4L5TQJBXVD7A7YBZ74X4RU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/07/31/S6NG4L5TQJBXVD7A7YBZ74X4RU/</guid>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QW5MV72OGZEVDPHBRN6PCGVKPE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 대대적인 선전으로 입단하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/07/31/JQK7LOTEARDM7NQSXBGKST7JPI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/07/31/JQK7LOTEARDM7NQSXBGKST7JPI/</guid>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4Q7BGDQ4ORCFFGAHTHS44DSEYE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>숙명여대, 재표결 안하기로… 문지연 교수 신임 총장 확정</title>
       <link>https://www.chosun.com/national/national_general/2024/07/30/X3JORAMFMVCMFMWK5RTQPKWGGQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/30/X3JORAMFMVCMFMWK5RTQPKWGGQ/</guid>
@@ -868,24 +921,6 @@
       <description/>
       <pubDate>Tue, 30 Jul 2024 13:17:18 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XL3Y5YNHIUGGGSZEXOGQCLNS4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;숙명여대/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 논문 표절 의혹을 검증하겠다는 입장을 밝힌 문시연 숙명여대 프랑스언어·문화학과 교수가 신임 총장으로 30일 확정됐다.&lt;br&gt;&lt;br&gt;학교법인 숙명학원은 이날 3차 정기 이사회를 열고 신임 총장 선출 재표결 관련 안건을 심의한 결과 “재표결 없이 문 교수를 총장으로 선임한 지난 이사회 의결을 따르기로 결정했다”고 밝혔다. 앞서 숙명학원은 지난달 20일 이사회 표결을 통해 제21대 숙명여대 신임 총장으로 문 교수를 선임했다.&lt;br&gt;&lt;br&gt;장윤금 현 총장은 신임 총장 후보였으나 이사회 당일 후보 사퇴 의사를 밝혔다. 이에 따라 전체 8명의 이사 가운데 6명이 단독 후보인 문 교수를 놓고 찬반 투표를 한 결과, 참석 이사 과반수인 4명의 찬성(1명 반대·1명 기권)해 문 교수가 신임 총장으로 선출됐다.&lt;br&gt;&lt;br&gt;당연직 이사 자격을 지닌 장 총장은 투표에 불참했고, 나머지 1명의 이사는 개인 사정을 이유로 참석하지 않았다.&lt;br&gt;&lt;br&gt;숙명여대 관계자는 “이사회 소집 당시부터 ‘필요시 재투표하겠다’는 조건이 있었다”며 “논의 결과 지난번의 의결을 재확인하기로 했다”고 했다.&lt;br&gt;&lt;br&gt;문 교수는 이달 초 총장 후보 정책 토론회에서 김 여사 논문 표절 의혹과 관련해 “지연된 정의는 정의가 아니다”며 “제가 총장이 되면 진상 파악부터 해보고 규정과 절차에 따라 정리하겠다”고 했다. 숙명여대는 2022년 12월 김 여사의 석사학위 논문 표절 의혹 검증을 위한 본조사에 착수했으나 아직 검증 결과를 내놓지 않고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>세종충남대병원 응급실 진료 축소... “전문의 1명 사직 여파”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/07/30/FVPOL5J2Y5F33PSCE6EWKUWAXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/07/30/FVPOL5J2Y5F33PSCE6EWKUWAXU/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 13:15:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TGVKYNAKLFD2RL3SMBIEHP3YAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/세종충남대병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세종충남대병원이 8월 한 달간 목요일마다 응급실 진료를 축소한다. 세종시의 유일한 국립대 병원인 세종충남대병원은 정부세종청사와 차로 5분 거리(1.8㎞)에 있어 지역 주민은 물론 공무원들도 자주 이용하는 병원이다.&lt;br&gt;&lt;br&gt;30일 세종충남대병원에 따르면, 이 병원은 다음 달 매주 목요일마다 응급실을 축소 운영한다. 8월 1일과 15일에는 오전 8시부터 24시간 동안 응급실 진료를 중단한다. 8일과 22일, 29일에는 야간(오후 6시~이튿날 오전 8시)에 응급실 문을 닫기로 했다.&lt;br&gt;&lt;br&gt;이 병원 응급의학과에는 12명의 전문의가 근무해 왔다. 그런데 8월에 목요일 당번을 하기로 했던 1명이 최근 사직하면서, 주 7일 24시간 진료 체제를 유지하기가 어려워졌다는 게 병원 측의 설명이다. 병원 관계자는 “응급의학과 전문의 사직으로 인해 한시적으로 제한 진료를 시행하는 것”이라고 했다. 성인 응급실과 별개로 7명의 전문의가 근무 중인 소아 응급실은 24시간 정상 진료한다.&lt;br&gt;&lt;br&gt;한편 31일로 전국 수련 병원들의 하반기 전공의 모집 접수가 마감되는 가운데, 정부는 사직 전공의들에게 재차 복귀를 촉구했다. 다만 기존 발표한 대책 외에 복귀를 유도하기 위한 추가 대책은 고려하지 않고 있다고 선을 그었다.&lt;br&gt;&lt;br&gt;수련 병원들은 지난 22일부터 하반기에 수련을 시작할 전공의 7645명을 모집하고 있다. 접수 마감 시한은 31일인데, 이날까지 지원자는 많지 않은 것으로 알려졌다. 김국일 보건복지부 보건의료정책관은 이날 의사 집단행동 중앙재난안전대책본부 브리핑에서 “수련 기간 단축과 같은 추가 대책은 고려하지 않는 대신, 수련 과정을 마치는 해에 전문의를 딸 수 있도록 전문의 시험 추가를 검토하고 있다”고 했다. 정부는 신상 공개 등 부당한 방법으로 전공의의 복귀를 방해하는 경우에는 수사를 의뢰하는 등 엄중 대처한다는 방침이다.&lt;br&gt;&lt;br&gt;또 김 정책관은 “의대생들이 많이 복귀해서 학업을 이수한다면 추가 의사 국가시험(국시)을 적극적으로 검토할 계획”이라고 했다. 지난 26일 마감된 국시 실기 시험 접수자는 364명이다. 통상 국시 응시 인원인 3200여 명의 11% 수준이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부친상 중인데...‘이재명 기소검사’ 고발한 민주당 </title>
-      <link>https://www.chosun.com/national/court_law/2024/07/30/XHC4QVER6ZCN5DH3ROTH3DUNL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/30/XHC4QVER6ZCN5DH3ROTH3DUNL4/</guid>
-      <dc:creator>양은경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 10:39:18 +0000</pubDate>
-      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5KITYHYH5VK5ZC52PR277IBBT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 당 대표 후보가 30일 오전 서울 여의도 국회에서 열린 제416회 국회(임시회) 제1차 본회의에서 정성국 당 의원의 한국교육방송공사법 일부개정법률안에 반대하는 필리버스터(무제한토론)가 진행 중인 가운데 김민석 최고위원 후보와 대화하고 있다. 2024.07.30./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 검찰독재정치탄압대책위원회가 ‘쌍방울 대북송금’ 공소장 내용이 사실과 다르다며 이재명 전 대표를 기소한 부장검사를 고발한 가운데 이 부장검사가 부친상을 당해 상중(喪中)인 것으로 30일 알려졌다. 검찰 주변에서는 “당사자가 상을 당해 대응할 여력도 없는 가운데 집단 린치를 당하고 있다” “최소한의 예의가 있다면 있을 수 없는 일” 등의 비판이 쏟아지고 있다.&lt;br&gt;&lt;br&gt;대책위는 이날 오전 기자회견을 열어 “이 전 대표의 공소장을 허위로 작성한 수원지검 서현욱 검사를 고발하며 공수처의 즉각 수사를 촉구한다”고 했다. 대책위는 공소장 내용 중 이 전 대표가 경기지사 시절 ‘국외 출장 결과보고서’에 대해 보고받았다고 한 부분을 문제삼았다. 이는 이화영 당시 부지사가 전결로 처리한 부분이어서 도지사에게 보고된 게 아닌데 검찰이 의도적으로 왜곡했다는 주장이다.&lt;br&gt;&lt;br&gt;앞서 수원지검 형사 6부(부장검사 서현욱)는 지난 6월 12일 이 전 대표를 대북송금 사건과 관련해 외국환거래법 위반 등의 혐의로 불구속기소했다.&lt;br&gt;&lt;br&gt;서 부장검사는 29일 부친이 별세해 30일 현재 상중이다. 이 사실은 29일 오전 검찰 내부망에 공지됐고 조의를 표하는 댓글이 100개 넘게 달렸다.  민주당이 고발 기자회견을 열고 있던 30일 오전에도 충남대병원 장례식장에 빈소가 차려져 있었다. 이원석 검찰총장도 이날 저녁 빈소를 찾았다.&lt;br&gt;&lt;br&gt;업무를 마치고 빈소를 찾은 한 차장검사는 “기소를 했다는 이유로 검사를 고발하는 행태는 진상 민원인들이나 하는 짓”이라며 “게다가 상중에 있는 사람을 고발하는 것은 최소한의 예의가 있다면 있을 수 없는 일”이라고 했다. 한 부장검사는 “민주당이 조금만 주의를 기울였으면 당사자가 상중이라는 사실을 알았을 것”이라며 “당 대표 한 사람을 지키기 위해 공당이 무고(誣告)성 고발을 감행하다 보니 이런 일도 생겼다”고 했다.&lt;br&gt;&lt;br&gt;수원지검은 기자단에 배포한 입장문을 통해 “헌법과 법률은 검사가 기소한 공소사실이 증거와 법리로 증명되는지를 판단하는 절차로 형사재판제도를 두고 있다”며 “재판 절차에 들어가기도 전에 공소사실이 허위라면서 공당이 나서서 기소 검사를 고발하는 것은 사법을 정쟁으로 끌어들여 정상적인 사법절차를 방해하는 것”이라고 비판했다.&lt;br&gt;&lt;br&gt;본지는 민주당 검찰독재정치탄압대책위원회 측에 서 부장검사의 부친상을 인지하고 있었는지 물었지만 답을 듣지 못했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>막 내린 장마, 체감온도 40도 육박</title>
@@ -897,24 +932,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XWJEP76N4BLKBHICFU7QMOOV5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 29일 대구 중구 공평네거리에서 시민들이 지열로 인한 아지랑이가 피어오르는 도로를 지나가고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올여름 전국을 강타했던 장맛비가 지난 27일 끝나고, 본격적인 폭염이 시작됐다.&lt;br&gt;&lt;br&gt;30일 기상청은 “태풍에 의한 기압계 변동성이 사라지고 북태평양 고기압이 빈 자리를 채우면서 정체전선(장마전선)이 북한으로 이동했다”며 “27일을 끝으로 전국 장마가 사실상 종료됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;올해는 예년보다 많은 장맛비가 내렸다. 장마는 제주에서 6월 19일, 남부 지방 6월 22일, 중부 지방 6월 29일부터 시작했다. 장마 기간 전국에 내린 평균 강수량은 472.1㎜로 평년(1991~2020년) 강수량 356.7㎜의 1.3배였다. 대전·충남에선 총 574.1㎜의 비가 내려 평년(353.9㎜)의 1.6배에 달했다.&lt;br&gt;&lt;br&gt;장마가 끝나면서 본격적인 폭염이 시작됐다. 경상권과 동해안에선 30일부터 기온이 35도 이상으로 오르는 불볕더위가 찾아왔다. 앞으로도 기온이 높을 뿐 아니라 습도까지 높아 체감 온도가 40도에 육박하는 무더운 날이 이어지겠다. 밤에도 25도 아래로 기온이 떨어지지 않는 열대야가 전국 대부분 지역에서 당분간 나타날 전망이다.&lt;br&gt;&lt;br&gt;장마는 끝났지만 아직 대기 중에 수증기가 많아 집중 호우가 내릴 가능성은 남아 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>’정당 현수막 난립’ 막은 지자체 조례안...대법서 무효 확정</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/30/OR7OPUVCCNBL3FF2ZO52FSWEXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/30/OR7OPUVCCNBL3FF2ZO52FSWEXE/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 12:09:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UN6CCITF5NKKTPRQRMC4FNMTN4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 여의도 국회 앞에 정당 및 단체들이 내건 현수막이 걸려있는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정당 현수막을 아무 데나 걸 수 없도록 규제하는 지방자치단체의 조례안이 상위법인 옥외광고물법에 어긋나 무효라는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원은 최근 행정안전부가 “정당 현수막의 게시 위치와 내용, 개수 등을 제한한 조례안은 무효”라며 인천·광주·울산·부산시의회를 상대로 낸 소송 4건에서 모두 원고 승소 판결했다고 30일 밝혔다. 조례 무효 확인 소송은 대법원 단심제다.&lt;br&gt;&lt;br&gt;이 사건 조례안은 인천·광주·울산·부산시의회가 정당 현수막의 난립을 막으려 도입한 것이다. 원래 정당들은 지자체의 허가가 있어야 정당 현수막을 설치할 수 있었지만, 옥외광고물법 개정으로 2022년 12월부터 장소 제한 없이 현수막을 15일간 걸 수 있게 됐다. 자유로운 정당 활동을 보장한다는 목적이었지만, 현수막 난립으로 시민들이 불편을 겪었다. 인천시의회는 작년 5월 ‘정당 현수막은 지정 게시대에 게시해야 한다’는 내용이 담긴 조례 개정안을 통과시켰고, 광주·울산·부산시의회도 비슷한 취지로 조례를 바꿨다. 각 지자체는 이 조례에 따라 정당 현수막을 철거했다. 행안부는 인천·광주·울산·부산시에 해당 조례가 옥외광고물법에 위반된다며 재의를 요구했다가 받아들여지지 않자 대법원에 소송을 냈다.&lt;br&gt;&lt;br&gt;대법원은 “정당 현수막의 표시·설치는 정당과 국민의 정치적 기본권과 밀접하게 연관돼 있다”며 “정당 현수막에 대한 규율을 통해 정당 활동의 자유를 제한할 필요성이 있더라도 이는 원칙적으로 국민의 대표인 입법자가 스스로 형식적 법률로써 규정할 사항”이라고 했다. 그러면서 “옥외광고물법 개정 과정 등을 보면 정당 현수막을 전국에 걸쳐 통일적이고 일률적으로 규율하려는 것”이라며 “하위 법령인 조례로서 옥외광고물법보다 정당 현수막의 표시·설치에 대해 엄격하게 규정하는 것은 법 위반”이라고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 시청역 참사 운전자 구속 "도망 염려"</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/30/R7N4BLYAKBEQZBSYRN7MYAUFY4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/30/R7N4BLYAKBEQZBSYRN7MYAUFY4/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 11:41:47 +0000</pubDate>
-      <content:encoded>시청역 역주행 참사를 일으킨 가해 차량 운전자 차모(68)씨가 30일 구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ABEJWU6CLQISKIFLKTI3POR224.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'시청역 역주행 참사' 가해 차량 운전자 차 모씨가 30일 오전 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 김석범 영장전담 부장판사는 이날 차씨에 대한 영장실질심사를 진행한 후 “도망할 염려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;차씨는 이날 오전 영장실질심사에 출석하면서 “돌아가신 분과와 유족들께 대단히 죄송하다”며 거듭 사과했다. 차씨는 ‘신발에 엑셀 자국이 남아 있었는데 어떻게 생각하느냐’는 취재진 질문에 “모르겠다”고 했다. 참사 이후 수도권 한 요양병원에서 입원 치료를 받았던 차씨는 오른쪽 다리를 절며 법정으로 들어갔다.&lt;br&gt;&lt;br&gt;차씨는 지난 1일 오후 9시 26분쯤 제네시스 G80 차량을 몰고 시청역 인근인 서울 소공동 웨스틴 조선호텔 맞은편 일방통행로를 역주행, 9명을 숨지게 하고 7명을 다치게 한 혐의(교통사고처리특례법상 치사)를 받는다.&lt;br&gt;&lt;br&gt;서울 남대문경찰서는 지난 25일 범죄의 중대성과 그간 수사 내용을 종합해 차씨에 대한 구속영장을 신청했다. 경찰 관계자는 구속영장을 신청한 배경에 대해 “피해 규모가 크고 피해 회복이 이뤄지지 않은 점, 차씨가 과실을 인정하지 않았기 때문”이라고 설명했다.&lt;br&gt;&lt;br&gt;앞서 국립과학수사연구원은 차씨의 과실이 빚은 사고 가능성이 크다는 감정 결과를 경찰에 전달했다. 국과수는 정밀 감식·감정을 통해 차씨가 사고 당시 가속페달(액셀)을 90％ 이상 밟았으며 브레이크를 밟은 흔적은 없다는 결론을 내렸었다. 하지만 차씨는 그간 경찰 조사에서 “차량 결함으로 인한 사고”라고 주장한 것으로 알려졌다. 서울중앙지검은 지난 26일 차씨의 구속영장을 법원에 청구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 30대 민주당 구의원, 강남 유흥업소 성폭행 혐의 입건</title>
       <link>https://www.chosun.com/national/national_general/2024/07/30/RYZA3EP3LRGLDLOD4MYSSUKJCI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/30/RYZA3EP3LRGLDLOD4MYSSUKJCI/</guid>
@@ -922,15 +939,6 @@
       <description/>
       <pubDate>Tue, 30 Jul 2024 09:01:06 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NYN64ELFYQN32SCYH473RIQ5MU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 소속 서울 성동구의회 30대 의원이 강간 혐의로 서울 서초경찰서에 입건된 것으로 30일 파악됐다.&lt;br&gt;&lt;br&gt;서울 서초경찰서는 구의원 A씨를 특수준강간 혐의로 조사 중이라고 30일 밝혔다. 경찰에 따르면 A씨는 지난 4월 지역 주민들과 조기 체육회 행사 후 서초구의 한 유흥 주점에서 뒤풀이를 하다가 한 여성 종업원을 성폭행한 혐의를 받고 있다. 일행 3명이 망을 보는 사이 범행한 것으로도 조사됐다.&lt;br&gt;&lt;br&gt;경찰 조사에서 피해 여성은 “원래 술에 잘 취하지 않는데 그날은 한두잔 마신 뒤 갑자기 술에 취했다”는 취지로 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 서울 성동구에서 축구 클럽을 운영하던 스포츠인 출신이다. 더불어민주당 소속 정치인으로 지역 활동을 해왔다고 한다.&lt;br&gt;&lt;br&gt;본지는 해당 구의원의 입장을 듣고자 연락했으나 조선일보라는 소속을 밝히자 전화를 바로 끊었다. 이후 수 차례 연락했으나 닿지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“자장면 시키신 분” 섬에서도 드론으로 자장면·치킨·피자 배달 받는다</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/07/30/ZAK7XV7T65DODNHM7VATWZCA6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/30/ZAK7XV7T65DODNHM7VATWZCA6M/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description>다음 달부터 전국 32개 섬 지역에 드론을 활용한 물품 배송이 본격화된다.</description>
-      <pubDate>Tue, 30 Jul 2024 07:42:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RHYJIQZSWAKMYAL3R66O3I5Y3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;다음 달부터 전국 32개 섬 지역에 드론을 이용한 배송 서비스가 시작된다/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다음 달부터 전국 32개 섬 지역과 17개 공원 등에 드론을 활용한 물품 배송이 본격화된다. 그동안 섬 지역은 화물선을 이용해 물품을 받아야 했는데, 배송 주기가 길고 배송비도 비싸 불편을 겪었다. 이번에 전국 단위 섬 지역 드론 배송 서비스가 처음으로 시행되면서 주민 생활 편의가 개선될 것으로 보인다.&lt;br&gt;&lt;br&gt;국토교통부는 전남 여수 금오도·송도, 인천 덕적도·소야도, 제주 가파도·마라도, 충남 서산 고파도·우도, 경남 통영 용호도·죽도를 비롯한 32개 섬 지역 등에 ‘K-드론 배송’ 서비스를 시작한다고 30일 밝혔다. 경기 포천 산정호수, 성남 탄천, 충남 공주 휴양림, 울산 울주 진하해수욕장 등 17개 공원 지역과 부산항만의 선박 계류지인 묘박지에서도 드론 배송을 한다. 제주는 지난 19일부터 배송 서비스를 시작했고 다른 지역은 8~9월 차례로 운영이 시작될 예정이다. 국토부가 항공안전기술원·교통안전공단·항공대·세종사이버대와 함께 드론 배송 안전 체계를 구축했다.&lt;br&gt;&lt;br&gt;배송 품목은 지역에 따라 치킨·자장면·피자 등 3㎏ 이내 배달 음식, 각종 생필품 등이다. 제주도에선 일반 택배처럼 휴대전화도 배송받을 수 있다. 일부 섬 지역은 지역 주민이 생산한 수산물이 육지로 배송될 예정이다.&lt;br&gt;&lt;br&gt;배송을 원하는 사용자들은 휴대전화 앱을 통해 드론 배송을 신청하면 된다. 주문자들은 시간에 맞춰 각 지역에 지정돼 있는 드론 배달 지점으로 가면 물품을 받을 수 있다. 섬 배송의 경우 주 1~2회 운행하고 배송비는 10㎞ 구간 3㎏ 물품 기준 5000원이다. 공원 배송은 5㎞, 3㎏에 3000원이다.&lt;br&gt;&lt;br&gt;지역마다 사용하는 배송 앱(스마트폰 프로그램)은 제주 ‘먹깨비’, 인천 ‘올리버리’, 공주 ‘휘파람’, 여수 ‘여수플라이’ 등 제각각이다. 조만간 드론배송협회가 온라인 안내 페이지를 개설할 예정이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>고양이에게 생선을…보안업체 직원, ATM에서 수억 원 훔쳐</title>
@@ -943,15 +951,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/QRPGU4MKCCOEOCJNDIMHIBZEOA.jpg?width=720&amp;height=346&amp;auth=3792061b6e616601632ef2775f6843cea3816d761cb2bc4a6bdab09b1ec17175&amp;smart=true" type="image/jpeg" height="346" width="720">
         <media:description type="plain">영등포경찰서 전경</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>“소화시키는 동안 공부”…서울대 출신 이혜성, 새벽마다 비빔면 먹은 이유</title>
-      <link>https://www.chosun.com/national/people/2024/07/30/FVPJBG4BDVDZPN6ONLIZQLURRY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/07/30/FVPJBG4BDVDZPN6ONLIZQLURRY/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 06:12:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2PGUDTWQWNAY7AIWGC4SBHJMPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜브 채널 '세바시'에서 KBS 아나운서 출신 방송인 이혜성이 학창시절 일과에 대해 밝히고 있다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아나운서 출신 방송인 이혜성이 치열한 공부 끝에 서울대학교 입시에 성공했지만, 목표를 이루자 공허함을 느껴 힘들어했던 과거 이야기를 털어놨다.&lt;br&gt;&lt;br&gt;유튜브 채널 ‘세바시 강연’에는 지난 29일 ‘인정 중독에서 벗어나는 법’이라는 제목으로 전 KBS 아나운서 이혜성의 강연 영상이 올라왔다.&lt;br&gt;&lt;br&gt;강연자로 나선 이혜성은 쉬지 않고 공부했던 학창 시절을 떠올렸다. 그는 “형광등이 환하게 켜진 상태로 엎드려서 자다가 일어났다. 고등학교 졸업할 때까지 침대를 안 샀다. 푹신한 곳에 누워서 자면 못 일어날까 봐 무서웠던 것”이라며 “등굣길에는 영어 단어를 외우면서 갔다. 그렇게 학교에 도착해서 수업을 듣고 토씨 하나 안 빠트리고 선생님 말씀을 노트에 적었다. 스스로 가스라이팅하면서 공부했다”고 말했다.&lt;br&gt;&lt;br&gt;학교에서도 시간을 쪼개 활용했다. 그는 “점심시간에 다른 친구들은 삼삼오오 모여서 수다를 떨면서 밥을 먹는데 저는 계속 공부를 했다. 급식줄이 많이 줄었을 때쯤 제가 보고 있던 노트를 그대로 들고 급식 줄을 섰다”며 “유난스러워 보였는지 친구가 ‘이렇게까지 공부했는데 전교 1등 못하면 창피하겠다’고 했다. 마음이 아리지만 상처를 곱씹을 시간도 없어서 밥을 대충 먹고 앉아서 공부를 했다”고 말했다.&lt;br&gt;&lt;br&gt;이혜성은 하교 후 학원으로 가는 길에도 공부를 했다. 버스 정류장에 앉아 문제집을 풀었다는 그는 “새벽 1시에 학원 자습이 끝났다. 그때 중학생이었다. 고등학교 졸업 때까지 휴대폰이 없는 유일한 학생이었다. 친구들과 만나서 놀지 않는데, 연락할 이유가 없었던 것”이라고 떠올렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ETBV2BHOKNHT5OCQ2GZNB5B4XQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;KBS 아나운서 출신 방송인 이혜성이 학창시절 버스정류장에 앉아 공부하는 모습. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;독서실에서도 마감시간인 새벽 2시까지 공부를 했다. 집에 가서는 비빔면을 끓여먹었다. 소화시키는 동안 잠을 안 자고 공부를 하기 위해서였다. 딸의 건강을 걱정한 아버지가 새벽 4시에 집 불을 모두 껐지만, 이혜성은 이불 속에 숨어 스탠드 조명에 의지해 공부했다.&lt;br&gt;&lt;br&gt;치열했던 공부만큼이나 입시에 대한 스트레스도 컸다고 한다. 그는 “편두통이 가끔 왔었다. 항상 구토 증상이 동반되는데 양호실에서 고통스러운 와중에도 선생님의 말씀이 시험에 나올까 불안했다”며 “아무리 이렇게 공부를 열심히 해도 늘 나보다 머리가 좋고 전국권에서 날아다니는 친구들이 있었고 늘 스스로가 충분하지 않다고 생각하면서 쫓기는 마음으로 공부에 매진했다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q6JUKUENOVDQBPLK3NIBMZJ6WQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;KBS 아나운서 출신 방송인 이혜성의 쪽지. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;각고의 노력 끝에 이혜성은 서울대학교 경영학과에 입학할 수 있었지만, 곧 정신적 공허함에 휩싸였다고 한다.&lt;br&gt;&lt;br&gt;이에 이혜성은 공부에 쏟았던 노력을 외모 가꾸기에 쏟았고, 외모 가꾸기는 곧 극단적인 다이어트로 이어졌다. 다이어트 스트레스로 폭식증을 겪었다는 이혜성은 이를 극복하기 위해 극단적인 운동을 하기도 했다.&lt;br&gt;&lt;br&gt;이혜성은 좋은 학교, 외모, 직업을 위해 노력했던 과거 자신의 모습을 되짚으며 자신이 ‘인정 중독’이라고 밝혔다.&lt;br&gt;&lt;br&gt;이혜성은 “절박하게 목표를 세우고 성취하는 게 반복되니 너무 외롭고 불안했다. 그 시간을 견디면서 스스로 ‘도대체 무엇이 중요할까’를 깨닫기도 했다”며 “행복도 성적순이 아니고 성공도 성적순이 아니더라”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “인정 중독에서 완전히 자유로워지는 건 불가능할 수 있다. 그 목표를 향해 달려가는 과정을 무시하지 않는다. 그 과정을 천천히 즐기면서 가려고 노력한다”며 “가끔은 멍 때리는 날도 가지려 하고 친구들과 빵 투어도 많이 다닌다. 가끔 식탐에 질 때가 있다는 걸 받아들이기 시작했다. 살이 찌면 건강하게 운동하고 건강하게 먹으면 된다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
