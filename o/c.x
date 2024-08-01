@@ -13,6 +13,143 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>흉물만 남아… “K팝 성지의 꿈 돌려달라”</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/02/UTL2AJ3R6BAFRGTRPRDNQVV4YU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/02/UTL2AJ3R6BAFRGTRPRDNQVV4YU/</guid>
+      <dc:creator>고양=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 15:50:00 +0000</pubDate>
+      <content:encoded>“우리 동네에 세계적인 K팝 공연장이 들어선다는 생각에 소음, 먼지도 참았는데 이렇게 무산되다니… 희망 고문이 따로 없네요.”&lt;br&gt;&lt;br&gt;1일 경기 고양시 일산동구 장항동에서 만난 이동규(47)씨는 요즘 속이 터진다고 했다. 그가 말한 사업은 ‘CJ라이브시티’ 사업이다. CJ가 킨텍스와 일산호수공원 근처 32만6400㎡(약 10만평) 부지에 2조원 이상을 들여 세계 최대 K팝 공연장과 스튜디오, 호텔 등을 짓는 사업이다. ‘K-컬처밸리’ 조성 사업이라고도 불린다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WAHXITUBVZELLNP3YRPO2XXZWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;CJ가 경기 고양시에 조성하려던 'CJ라이브시티' K팝 공연장(아레나)의 조감도(위 사진)와 최근 찍은 공사 현장의 모습(아래 사진). 올 6월 완공을 목표로 2021년 10월 착공했으나 작년 4월 이후 공사가 중단된 상태다. 건물 뼈대만 서 있어 흉물처럼 보인다. /CJ라이브시티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 1일 경기도가 CJ 측과 협약을 해지하면서 사업 추진 8년 만에 백지화됐다. 경기도는 공영 개발로 추진하겠다고 발표했지만 후폭풍이 거세다. 고양 주민들은 “고양에 라이브시티를 돌려달라” “원래 계획대로 추진하라”며 반발하고 있다. 고양시 곳곳에 ‘CJ라이브시티 원안이 답이다’ ‘CJ라이브시티 아레나 무산 결사반대’라고 쓴 현수막도 내걸렸다. 주민들은 경기도청 앞에서 집회도 열고 있다. 지난달 1일 경기도민 청원 사이트에 올라온 ‘CJ라이브시티 관련 상세한 소명, 재검토, 타임라인 제시 요청’ 글에는 보름 만에 1만명이 동참했다. 놀란 경기도가 지난달 16일 “(CJ가 추진하던) 원형 그대로 신속하게 추진하겠다”고 밝혔지만 주민 불만은 가라앉지 않고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5QE5OBRUU5AV5HICJ4QLT33TXY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김하경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강태우 일산연합회 상임대표는 “CJ라이브시티 사업은 100만 고양시민의 숙원 사업”이라며 “주민 의견을 모아 비상대책위원회를 만들고 본격 대응할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;지난달 31일 찾은 장항동 CJ라이브시티 건설 현장은 모래 먼지만 날렸다. ‘K팝 성지’가 될 것이라 기대를 모았던 공연장은 없고 건물 뼈대만 앙상하게 서 있었다. 이마저도 군데군데 시뻘건 녹이 슬었다. 올 6월 완공을 목표로 3년 전인 2021년 10월 착공했으나 공정률은 3% 수준이다. CJ가 공사비 상승 등으로 자금난에 시달리며 작년 4월 이후 공사가 중단됐기 때문이다. 근처 아파트에 사는 주민 이모(62)씨는 “아파트만 잔뜩 들어선 고양에서 마지막 남은 노른자 땅이 이곳”이라며 “세계적인 공연장을 지어 관광객을 끌어모을 것이라 기대했는데 오히려 흉물이 됐다”고 했다.&lt;br&gt;&lt;br&gt;주민들이 부글부글하자 지역 정치권도 합세했다. 여야가 대립하던 고양시의회는 지난달 30일 만장일치로 ‘K-컬처밸리 완성을 위한 특별위원회’를 구성했다. 시의회 차원에서 사업을 재추진할 방안을 찾겠다는 것이다. 부위원장인 손동숙 시의원(국민의힘)은 “공영 개발을 하면 예비타당성 조사에만 2~3년이 걸린다”며 “주변 도시들이 경쟁적으로 K팝 공연장을 짓겠다고 나서고 있는데 늦어지면 안 된다”고 했다. 서울시와 카카오는 지난달 2일 도봉구 창동에서 ‘서울 아레나’ 착공식을 열었다. 인천시와 경기 하남시도 K팝 공연장 조성 사업을 추진 중이다.&lt;br&gt;&lt;br&gt;경기도와 CJ라이브시티의 분쟁은 장기화할 조짐을 보이고 있다. CJ라이브시티가 지난달 9일 경기도에 협약 해지를 재고해달라고 요청했지만 경기도는 이를 거부했다. 법적 분쟁으로 번질 가능성이 크다. 협약 해지의 원인이었던 지체상금(기한 내 공사를 마무리하지 못할 경우 지불해야 하는 배상금)을 두고 CJ 측은 감면을 요구하고 있다. 인허가나 전력 공급 등 문제로 공사가 늦어졌다는 것이다. 반면 경기도는 수용할 수 없다는 입장이다. 지체상금은 1000억원 정도로 추정된다.&lt;br&gt;&lt;br&gt;경기도가 공영 개발로 추진하겠다고 했지만 CJ 측이 지어놓은 시설들도 숙제다. 협약을 해지하면 철거해 원상복구하는 게 원칙이지만 CJ가 공영 개발에 참여해 경기도에 기부채납할 수도 있다. 업계에서는 원상복구 비용이 700억원에 달할 것이라고 추산한다. CJ 입장에서는 지난 8년간 들인 매몰 비용도 부담이다. CJ는 이 비용이 7000억원에 이른다고 주장한다.&lt;br&gt;&lt;br&gt;청원에 참여한 주민이 1만명을 넘으면서 오는 19일 김동연 경기지사가 입장을 밝힐 것으로 보인다. 경기도 관계자는 “CJ가 지체상금을 감면해달라는 무리한 요구를 하는 등 사업 추진 의지가 있는지 의문스럽다”며 “공공이 책임 있게 추진하려는 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/FSDDFTL54VHPDO2UX3Z7MZE5WI.png?width=490&amp;height=307&amp;auth=7b5d79bafc7efc6dbda76bcad5501852674ff2d280d185be731be3fd637e0643&amp;smart=true" type="image/png" height="307" width="490"/>
+    </item>
+    <item>
+      <title>[입에 착착 붙는 일본어] 장미가 시들다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2024/08/02/TB4XTET6O5ECNF2P3O2BHTKI5M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/08/02/TB4XTET6O5ECNF2P3O2BHTKI5M/</guid>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 15:35:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OXNTXKDJCVHDRGZKTVRMDS4FR4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“성폭행으로 원치 않는 임신”...쯔양, 전남친 충격적인 악행 공개</title>
+      <link>https://www.chosun.com/national/people/2024/08/02/FSX4SHOGNFDW7HHDQ2DBSTT6GE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/02/FSX4SHOGNFDW7HHDQ2DBSTT6GE/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 15:17:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7O5JZ5PXQBZSOOCN6JOVRC2PJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최근 불거진 의혹 관련 마지막 해명 영상을 올린 쯔양./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘사이버 렉카’ 협박을 받은 유튜버 쯔양(본명 박정원)이 마지막 해명 영상을 올렸다. 최근 ‘피해자 코스프레’라는 의혹 등이 나오자 반박에 나선 것이다.&lt;br&gt;&lt;br&gt;쯔양은 1일 자신의 유튜브 채널에 올라온 ‘마지막 해명 영상입니다’라는 제목의 영상을 올렸다. 쯔양은 영상을 통해 최근 불거진 ‘명의도용 중절수술’, ‘유서조작’ ‘탈세’ ‘유흥주점’ 의혹 등에 대해 조목조목 반박했다.&lt;br&gt;&lt;br&gt;먼저 ‘명의도용 중절 수술’ 의혹과 관련 “중절수술을 했던 것을 밝힐 수 없었던 이유는 처음 라이브 때 밝혔던 성폭행 사건과 관련이 있기 때문”이라고 했다. 그러면서 쯔양은 2020년 1월 7일 전 남자친구이자 전 소속사 대표 A씨의 성폭행 사건 녹취록을 공개했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7WQP4A3EVJDDPM7GHYDVVFJEDY.png"&gt;&lt;figcaption&gt;&lt;small&gt;전 남자친구이자 전 소속사 대표 A씨 발언 중 일부./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;녹취록엔 A씨가 쯔양을 강제로 성폭행하는 정황이 담겨 있었다. “돈도 다 뺏어야 하고 성노예로도 써야 하고 그다음에도 얘를 죽여야겠어”라는 발언 등이 있었다. 쯔양은 “강제로 당했던 것은 수도 없이 많았다”며 “그래서 원치 않는 임신을 했었고 그로 인해 병원에서 수술하게 됐다”고 했다.&lt;br&gt;&lt;br&gt;‘명의도용 부분’에 대해선 “이번에 처음 알았다”고 주장했다. 쯔양은 “전 대표의 누나분께서 명의도용 부분은 본인도 확실하지 않아 확인해 본 결과 기록이 없다고 먼저 연락이 왔다”고 했다. 다만 “수사를 통해 명의도용이 확인된다면 제가 몰랐던 것이어도 명백히 법을 어긴 것이기 때문에 그에 따른 처벌은 달게 받겠다”고 전했다.&lt;br&gt;&lt;br&gt;‘피해자 코스프레’라는 의혹에 대해서도 부인했다. 쯔양은 “거짓말도 피해자 코스프레도 하지 않았다”며 “제가 듣기에는 너무 거북해서 극히 일부분을 올렸던 건데 그 녹취마저 의심하시는 분들이 있어서 어쩔 수 없이 추가로 공개하기로 했다”고 말했다. 그리고는 6개의 추가 폭행 녹취를 공개했다.&lt;br&gt;&lt;br&gt;탈세 의혹 관련 해서도 반박했다. 쯔양은 “당시 전 대표가 모든 재무 상황을 쥐고 있었다”며 “저는 매번 정산을 바랐고 그에 대한 세금을 내기를 바랐다. 전 대표가 세금 내기를 아까워하고 정산을 안 해줘서 세무조사 때 탈세 의혹이 생겼다”고 했다. 이어 “추후 세무조사를 받게 된다면 성실히 조사에 임하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;과거 한 유흥주점에서 일했다는 의혹에 대해선 “전 대표의 강요로 시작한 것이 맞다”고 했다. 쯔양은 “전 대표를 과거 헌팅포차에서 만났고 연인이었을 때 늘 돈을 원했다”며 “돈벌이 수단으로 노래방을 돌아다니게 한 것이 업소 일의 시작이었다”고 했다. 쯔양이 A씨의 휴대폰을 확인했을 당시 “더 수위가 높은 곳으로 돈을 더 많이 벌 수 있는 곳으로 보내려는 공모 문자를 봤다”며 문자 내용을 공개하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E3S6YZUUKBFIXEMHKG3Y7DUYXA.png"&gt;&lt;figcaption&gt;&lt;small&gt;포렌식 자료를 기반으로 만든 남자친구이자 전 소속사 대표 A씨와의 실제 카카오톡 대화 내용 중 일부./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쯔양은 “(A씨는) 평소에 다정할 때도 있었던 사람이었지만 저에게서 제 가족과 지인을 전부 차단했기에 당시 전 대표에 의지할 수밖에 없었다”고 했다. 그는 이 과정에서 “사이 좋다가도 폭행과 협박에 시달려왔고 2020년도에 회사 수익을 전부 주겠다고 애원해 헤어졌지만, 수익과 더불어 성적인 것을 요구했다”며 A씨 휴대전화를 포렌식해 얻은 문자 내용도 공개했다.&lt;br&gt;&lt;br&gt;마지막으로 쯔양은 “저를 고통에서 벗어나게 해 준 너무나도 감사한 피디님과 변호사님인데 현재 많은 억측과 허위사실들이 퍼지고 있다. 심지어 신상까지 파헤치는 원치 않는 상황이 벌어지고 있다. 제발 더 이상의 억측은 자제해 주시길 부탁드린다”고 호소했다.&lt;br&gt;&lt;br&gt;한편, 쯔양은 지난달 11일 지난 4년 동안 A씨에게 지속해서 폭행과 불법촬영을 당했으며, 수익 또한 제대로 정산받지 못했다고 밝힌 바 있다. 성폭행, 상습폭행, 공갈 및 강요 등의 혐의로 쯔양에게 고소당했던 A씨는 작년 사망했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수련병원 126곳 전공의 지원자 104명… 정부는 입장 바꿔 “8월 추가 모집”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/08/02/VBFHZEHGWNBVHOJKAFDKO3XKVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/02/VBFHZEHGWNBVHOJKAFDKO3XKVM/</guid>
+      <dc:creator>안준용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 15:50:00 +0000</pubDate>
+      <content:encoded>전국 수련병원 126곳의 하반기 전공의 모집에 지원한 전공의가 104명에 불과한 것으로 1일 집계됐다. 총 모집 인원(7645명)의 1.4%다. 보건복지부는 ‘전공의 복귀를 위한 추가 모집·대책은 없다’는 기존 입장을 뒤집고 이날 “8월 중 전공의 추가 모집을 실시할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;지난달 22~31일 진행된 전국 수련병원의 하반기 전공의 모집 결과, 지원자는 인턴 13명과 레지던트 91명 등 총 104명이었다. 이른바 서울 빅4 병원은 모집 인원이 1866명이었지만, 지원자는 31명(1.7%)이었다. 삼성서울병원이 20명, 세브란스병원과 서울대병원이 각각 6명·5명이었고, 서울아산병원은 지원자가 아예 없었다. 또 빅5 중 한 곳인 서울성모병원 등 8개 병원을 수련병원으로 둔 가톨릭중앙의료원은 지원자가 총 14명, 고려대의료원은 1명이었다. 지방 병원은 지원자가 ‘0명’인 병원이 대다수였다.&lt;br&gt;&lt;br&gt;전공의 지원율이 정부 기대에 크게 못 미치자, 복지부는 이날 “전공의들에게 수련 복귀 기회를 최대한 주기 위해 이달 중 추가 모집을 실시할 예정”이라며 “상세 일정은 이달 초 공고하겠다”고 했다. 지난달 30일 “전공의들이 복귀하지 않더라도 추가 대책은 고려하지 않는다”고 했는데, 이틀 만에 번복한 것이다.&lt;br&gt;&lt;br&gt;빅5 병원 한 교수는 “정부가 마지막까지 전공의 복귀를 위해 노력하는 모습을 보이려는 것일 뿐 (전공의들이) 돌아오지 않으리라는 건 정부도 잘 알 것”이라며 “전공의들은 2025학년도 의대 증원 백지화 없이는 복귀할 이유도, 명분도 없다고 생각한다”고 했다. 앞서 정부는 ‘올 하반기에 복귀하지 않는 전공의는 수련 특례 적용이 안 돼 내년 상반기 복귀가 불가능하다’고도 했다. 하지만 한 의료계 인사는 “전공의들은 ‘결국 내년 3월 모집 때도 정부가 수련 특례를 줄 수밖에 없을 것’이라고 보는 분위기”라고 했다.&lt;br&gt;&lt;br&gt;의사·의대생 전용 온라인 커뮤니티에선 하반기 전공의 모집 지원자들에 대한 신상 공개와 조리돌림도 계속 이어지고 있다. 최근엔 하반기 지원 예정자의 실명과 소속 병원, 출신 학교, 가족 정보 등을 적은 글도 여러 건 게시됐다. 일부는 지원자들을 가리켜 “배신자” “빈집털이범” “성적 하위자”라며 “집단 린치 아니면 (지원자들을) 못 막는다” “한국에서 의사 하게 하면 안 된다”고도 했다. 의료계 내부에서도 이 같은 행태를 비판하는 목소리가 커지고 있다. 서울 지역 대학병원장을 지낸 한 교수는 “각자 처한 상황이 다른데 나와 다른 선택을 하거나 다른 주장을 한다고 해서 집단 공격을 가하는 것은 정상적인 행태로 볼 수 없다”며 “이런 행태가 이어지면 대다수 국민이 등을 돌릴 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“시청역 참사 운전자 풀 액셀 밟아”</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/02/DHHAERTDX5CI7CRORHL6LI636M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/02/DHHAERTDX5CI7CRORHL6LI636M/</guid>
+      <dc:creator>서보범 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 15:50:00 +0000</pubDate>
+      <content:encoded>지난달 1일 9명이 숨진 서울 시청역 역주행 참사와 관련, 경찰은 가해 차량 운전자 차모(68)씨의 ‘운전 미숙’이 사고 원인이라고 1일 밝혔다. 차씨는 사고 직후부터 줄곧 자신이 몬 제네시스 G80(2018년식)의 ‘급발진’을 주장해 왔지만 경찰은 “차씨가 사고 당시 최대 99%까지 가속(최고 시속 107km) 페달을 밟았고, 차량 결함은 없었다”며 “브레이크와 액셀을 혼동한 것 같다”고 했다.&lt;br&gt;&lt;br&gt;류재혁 서울 남대문경찰서장은 이날 오전 수사 결과 발표 기자회견을 열고 “피의자 주장과 달리 운전 조작 미숙으로 확인됐다”고 했다. 사고 기록 장치(EDR) 분석 결과 브레이크는 사고 5초 전부터 발생 때까지 작동하지 않았다. 반면 액셀을 최고 99%까지 밟은 것으로 확인됐다. 이른바 ‘풀 액셀’을 밟았다는 것이다.&lt;br&gt;&lt;br&gt;류 서장은 “피의자가 액셀을 ‘밟았다 뗐다’ 반복한 것으로 기록됐다”며 “사고 당시 피의자가 신은 오른쪽 신발 바닥에서 액셀의 무늬가 발견됐다”고 했다. 경찰은 사고 당시 차씨의 차가 행인들을 덮친 뒤 소나타·BMW 차와 부딪친 뒤에야 브레이크를 밟은 기록이 나왔다고 밝혔다. 이는 차씨의 차가 시청역 12번 출구 앞 교통섬에 멈춰 설 때 보조 브레이크등이 들어온 감시 카메라 영상과도 일치하는 조사 결과다.&lt;br&gt;&lt;br&gt;류 서장은 “피의자는 순간적으로 두 차례쯤 액셀을 밟았다 뗀 것으로 기록됐는데, 사고 발생 전 5초 중 약 4초 동안은 줄곧 ‘풀 액셀’을 밟은 셈”이라고 했다. 하지만 차씨는 이러한 조사 결과를 인정하지 않는다고 한다. 그는 “호텔 주차장 출구 약 7~8m 전부터 ‘우두두’ 소리와 함께 브레이크가 딱딱해져 밟히지 않았다”며 차량 결함과 급발진 주장을 고수하고 있다. 하지만 경찰은 “피의자 진술 외에 이를 뒷받침할 증거는 없다”고 했다.&lt;br&gt;&lt;br&gt;차씨는 사고 당시 세종대로 18길을 역주행하면서 오른쪽 차도가 아닌 왼쪽 인도 쪽으로 방향을 틀어 여러 사상자를 낸 이유에 대해 “가드레일을 들이받으면 속도자 조금 줄어들지 않겠냐고 생각했다”고 진술했다고 한다. 또 차가 인도로 돌진할 때 행인들을 보지는 못했다고 한다. 피해자와 유족 전원은 차씨 처벌을 원하고 합의는 이뤄지지 않았다고 한다. 경찰은 이날 차씨를 교통사고처리특례법(업무상 과실 치사상) 위반 혐의로 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>예비 신부 살해 후, 예비 신랑에 시신 사진 보내</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/02/NKXSOOS6QBHDHMG7EODI6724CA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/02/NKXSOOS6QBHDHMG7EODI6724CA/</guid>
+      <dc:creator>서보범 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 15:50:00 +0000</pubDate>
+      <content:encoded>서울 노원구에서 다른 남성과 결혼을 앞둔 지인 여성을 살해한 혐의를 받는 50대 남성이 숨진 채 발견돼 경찰이 수사에 나섰다. 서울 노원경찰서는 지난달 31일 오후 4시쯤 50대 여성 B씨를 자신의 공릉동 아파트로 불러들여 살해한 혐의의 남성 A씨 사건을 조사 중이라고 1일 밝혔다.&lt;br&gt;&lt;br&gt;피해 여성 B씨는 결혼을 앞두고 있었는데, A씨는 B씨의 휴대폰으로 B씨의 시신을 촬영해 50대 예비 신랑에게 문자로 전송했다고 한다. A씨와 예비 신랑은 원래 모르는 사이였고, A씨는 이후 아파트 주차장으로 내려가 자신의 차량에서 스스로 목숨을 끊은 것으로 경찰은 보고 있다.&lt;br&gt;&lt;br&gt;A씨는 과거 B씨가 일하던 동대문구의 한 식당에 손님으로 방문했다가 서로를 알게 됐다고 한다. 경찰 관계자는 “두 사람의 정확한 관계를 비롯, 스토킹 등 치정 범죄 가능성도 염두에 두고 조사 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 판결] “호흡·배변 가능해도, 혼자 식사·목욕 힘들다면 간병급여 줘야”</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/02/SLFQN5WXCBGMXIZ52DTKWLMG4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/02/SLFQN5WXCBGMXIZ52DTKWLMG4E/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 15:50:00 +0000</pubDate>
+      <content:encoded>호흡, 배변 등 신체 기능에 문제가 없더라도 일상적인 동작을 스스로 하기 어렵다면 ‘간병급여’를 지급해야 한다는 법원 판단이 나왔다. 산업재해로 간병급여를 받을 수 있는 대상을 넓게 본 것이다.&lt;br&gt;&lt;br&gt;서울고법 행정3부(재판장 정준영)는 지난 4일 A(56)씨가 근로복지공단을 상대로 낸 장해(障害)등급결정처분 취소 소송에서 원심을 뒤집고 원고 승소로 판결했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;서울 용산구의 한 마트에서 일하던 A씨는 2020년 2월 뇌내출혈 진단을 받고 산업재해 인정을 받았다. 하지만 이듬해 6월 공단이 A씨를 장해 3급으로 결정하면서, 간병급여를 받을 수 없게 됐다. 장해 1·2급만 간병급여를 받을 수 있기 때문이다.&lt;br&gt;&lt;br&gt;산재보험법은 ‘생명 유지에 필요한 일상생활의 처리 동작에 수시로 다른 사람의 간병을 받아야 하는 사람’만을 장해 2급으로 인정하고 있다. A씨는 “왼쪽 상하지 마비로 걷기가 불편하고 식사, 목욕, 대소변 처리 등에 타인의 도움이 필요하므로, 장해 2급에 해당한다”며 공단에 다시 심사를 청구했지만 그해 11월 기각됐다. 이에 불복한 A씨는 행정소송을 제기했다.&lt;br&gt;&lt;br&gt;쟁점은 ‘생명 유지에 필요한 일상생활의 처리 동작’을 어디까지 인정할 것인지였다. 공단과 1심은 ‘생명 유지에 필요한 일상생활의 처리 동작’을 호흡과 음식물 삼키기, 배뇨 및 배변 기능 등 신체 기능으로 한정했다.&lt;br&gt;&lt;br&gt;하지만 2심은 더 넓게 해석해야 한다고 봤다. 2심은 “간병이 필요한지를 판단하는 기준은 ‘일상생활의 처리 동작’의 가능 여부에 있는 것이지, 신체 기능 자체의 문제 여부에 있지 않음이 명백하다”며 “호흡과 음식물, 배뇨·배변 기능 등이 정상이더라도 생명 유지에 필수적인 식사, 목욕, 대소변 처리 등에 늘 다른 사람의 도움이 필요하다면 수시로 간병이 필요하다고 봐야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] if that's the case</title>
+      <link>https://www.chosun.com/national/nie/english/2024/08/02/M4BLC5RD5RBQRLCBS2EG2EU6SU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/08/02/M4BLC5RD5RBQRLCBS2EG2EU6SU/</guid>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 15:35:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UEMPFYXF4ZFZTADH22LPTKHO7I.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디] 여행 성수기</title>
+      <link>https://www.chosun.com/national/nie/chinese/2024/08/02/ZVJG544KXBDM7BWY43S2FI6664/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/08/02/ZVJG544KXBDM7BWY43S2FI6664/</guid>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 15:35:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S5CZMY4P6JFY3MJWLNEJN5Z5EU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 극악무도(極惡無道)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2024/08/02/UY3FSXPJFJC65GPTFPND5FGKGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/08/02/UY3FSXPJFJC65GPTFPND5FGKGQ/</guid>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 15:35:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4G5BOMGX5JGD5M7Z5OGRWZLO6I.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2434] 쿵작쿵작 장단 치기</title>
+      <link>https://www.chosun.com/national/nie/2024/08/02/ONGVFNFTWVCHXP5TWS5CS4EAXQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/02/ONGVFNFTWVCHXP5TWS5CS4EAXQ/</guid>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 15:35:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5RMZLXM6GFBILP44OCIXFUN7I4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[인사] 기획재정부 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/08/02/NLLF4N3X2ZH73DQF7OQVL4CZZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/08/02/NLLF4N3X2ZH73DQF7OQVL4CZZY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 15:35:00 +0000</pubDate>
+      <content:encoded>▲기획재정부◇서기관 승진▷대변인실 홍보담당관실 김영돈▷기획조정실 규제개혁법무담당관실 이미자▷미래전략국 인구경제과 김현영▷국고국 국고과 이상아▷국제금융국 국제투자협력단 최정빈▷복권위원회사무처 복권총괄과 김지선◇과학기술서기관 승진▷기획조정실 정보화담당관실 이채영&lt;br&gt;&lt;br&gt;▲우주항공청◇과장급▷인공위성부문 인공위성임무보증프로그램장 박성원&lt;br&gt;&lt;br&gt;▲국민권익위원회◇과장급 파견 복귀▷행정문화교육민원과장 원영재◇과장급 파견▷대통령비서실 최명식◇과장급 전보▷정부합동민원센터 민원신고심사과장 양동훈&lt;br&gt;&lt;br&gt;▲한국산림복지진흥원◇1급 승진▷경영지원실장 권혁기◇1급 전보▷민간성장지원본부장 조영순▷국립산림치유원 사업본부장 권혁기▷국립칠곡숲체원장 이우진&lt;br&gt;&lt;br&gt;▲경북대▷사회과학대학장 성희자▷의과대학장 이병헌▷치과대학장 최연희&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>민영삼 방송광고진흥공사 사장, 최철호 시청자미디어재단 이사장</title>
+      <link>https://www.chosun.com/national/people/2024/08/02/A4UPAQ3FRREL7AHVASRUEMCMQU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/02/A4UPAQ3FRREL7AHVASRUEMCMQU/</guid>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 15:35:00 +0000</pubDate>
+      <content:encoded>방송통신위원회는 한국방송광고진흥공사(코바코) 사장에 민영삼 전 국민의힘 특별보좌관을, 시청자미디어재단 이사장에 최철호 전 선거방송심의위원을 임명했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LRB2GHABXRMKDHXVWR6AEOXGZI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;(서울=뉴스1) 이승배 기자 = 민영삼 사회통합전략연구원장이 30일 서울 여의도 국회에서 최고위원 출마 기자회견을 하고 있다. 2023.1.30/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정치평론가 출신인 민영삼 신임 사장은 윤석열 대통령이 대선 후보였던 시절 선거 캠프에서 국민통합특보를, 지난해에는 국민의힘에서 특별보좌관을 지냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QCPS44YKHNAGJHRGNWWJMC6KNE.jpg"&gt;&lt;br&gt;&lt;br&gt;최철호 신임 이사장은 KBS PD 출신으로 KBS 인재개발원장, KBS N 사장, 공정언론국민연대 공동대표, 선거방송심의위원 등을 지냈다.&lt;br&gt;&lt;br&gt;임기는 모두 3년으로 2027년 7월 31일까지다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 김경순 별세외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/08/02/UNR6G3SEFJDSZMNJFJULMPHYIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/08/02/UNR6G3SEFJDSZMNJFJULMPHYIY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 15:35:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;김경순&lt;/b&gt; 별세, &lt;b&gt;이수성&lt;/b&gt; 前 국무총리 아내상, &lt;b&gt;이승&lt;/b&gt;·&lt;b&gt;이인경&lt;/b&gt; 모친상, &lt;b&gt;도준호&lt;/b&gt; 숙명여대 교수 장모상=31일11시15분 서울성모병원, 발인 3일7시, (02)2258-5979&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박병선&lt;/b&gt; 별세, &lt;b&gt;오화혁&lt;/b&gt; 남편상, &lt;b&gt;박은희&lt;/b&gt; 前 동명대 보건복지교육대학장·&lt;b&gt;박성준&lt;/b&gt; 신일화학공업 상무 부친상, &lt;b&gt;김무곤&lt;/b&gt; 前 동국대 언론정보대학원장 장인상, &lt;b&gt;이지사&lt;/b&gt; 시부상=31일18시 신촌세브란스병원, 발인 3일5시, (02)2227-7556&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박장호&lt;/b&gt; 前 세정21 대표 별세, &lt;b&gt;이은경&lt;/b&gt; 남편상, &lt;b&gt;박성준&lt;/b&gt; 부산백병원 신장내과 임상강사·&lt;b&gt;박재성&lt;/b&gt; 부친상, &lt;b&gt;백지원&lt;/b&gt;·&lt;b&gt;남지은&lt;/b&gt; 시부상, &lt;b&gt;박순호&lt;/b&gt; 세정그룹 회장 동생상=31일10시 부산광혜병원, 발인 2일10시, (051)506-1022&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2024년 8월 2일</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/02/CVXEVJMVOFFNBBHBV74OYMKPXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/02/CVXEVJMVOFFNBBHBV74OYMKPXY/</guid>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BOBO5NIWSJAOJLD2AGIETCXGAI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[알립니다] 우리 아이 출생 소식 액자에 담아 간직하세요</title>
+      <link>https://www.chosun.com/special/announcement/2024/08/02/6UVITIN65NEZ3IQUFZ5XU3HX34/</link>
+      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2024/08/02/6UVITIN65NEZ3IQUFZ5XU3HX34/</guid>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZRJ4T2UWTBDQNFD4Y6SXRTIOYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면/리프린트/24-08-02자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 우리 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 26일 ‘우리 아기가 태어났어요’ 코너에 실린 김세준&amp;lt;사진&amp;gt;이 이번 주 주인공입니다. 자세한 내용은 홈페이지(&lt;a href="http://reprint.chosun.com/" target="_blank"&gt;reprint.chosun.com&lt;/a&gt;)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘아름다운 얼굴’로 동인문학상... 소설가 송기원 별세 </title>
       <link>https://www.chosun.com/national/obituary-personnel/2024/08/01/MD3CDKX3ZZCX7FUEIYL546AAEA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/08/01/MD3CDKX3ZZCX7FUEIYL546AAEA/</guid>
@@ -728,54 +865,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBWHX7XO45GUBPSKBQHO3PERTQ.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[인사] 헌법재판소 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/08/01/MUEZICZAFZE73HWYVPLXMOZYTQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/08/01/MUEZICZAFZE73HWYVPLXMOZYTQ/</guid>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 17:27:35 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;헌법재판소&lt;/b&gt;◇헌법연구관 임용▷문숙현 김동욱 김유문 이상혁 이영호&lt;br&gt;&lt;br&gt;▲&lt;b&gt;법무부&lt;/b&gt;▷범죄예방정책국장 이영면&lt;br&gt;&lt;br&gt;▲&lt;b&gt;행정안전부&lt;/b&gt;◇국장급 전보▷장관정책보좌관 정창성▷정책기획관 임철언&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한겨레신문사&lt;/b&gt;▷뉴스영상부장 김도성▷디지털뉴스부장 성연철▷문화스포츠부장 서정민▷사진부장 김정효▷사회부장 김태규▷여론미디어부장 정세라▷전국부장 김동훈▷정치부장 이세영▷지구환경부장 최원형▷토요판부장 조일준&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 윤순이씨 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/08/01/43E2P3OWBFCQNKFFGLI4QK6DNA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/08/01/43E2P3OWBFCQNKFFGLI4QK6DNA/</guid>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 17:27:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;윤순이&lt;/b&gt; 별세, &lt;b&gt;정황근&lt;/b&gt; 前 농림축산식품부장관 모친상=30일20시30분 천안하늘공원 장례식장, 발인 2일6시30분, (041)621-8012&lt;br&gt;&lt;br&gt;▲&lt;b&gt;진치재&lt;/b&gt; 별세, &lt;b&gt;김창남&lt;/b&gt; 前 동아대 경제학과 교수 모친상, &lt;b&gt;김근화&lt;/b&gt; 여성자원금고 이사장 시모상=30일15시20분 신촌세브란스병원, 발인 2일6시30분, (02)2227-7569&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>양승학 대한제지 회장 별세</title>
-      <link>https://www.chosun.com/national/people/2024/08/01/MLY7JNQSZRHG5O7INVU2BKB4OU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/01/MLY7JNQSZRHG5O7INVU2BKB4OU/</guid>
-      <dc:creator>강다은 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 17:26:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PD7HJW2OTJCXXAFGM4X3LV3NEI.jpg"&gt;&lt;br&gt;&lt;br&gt;양승학(88) 대한제지 회장이 지난 29일 숙환으로 별세했다. 양 회장은 1936년 함경북도 청진 출생으로, 1960년 미국 마이애미대를 졸업한 뒤 1961년 국내 신문용지 제지 기업인 대한제지에 입사했다. 그는 ‘2세 경영인’으로 1976년 대표에 오른 뒤 별세하기 전까지 대한제지를 이끌었다.&lt;br&gt;&lt;br&gt;양 회장은 60년 이상 제지 업계에 몸담으면서 종이 재활용을 통한 재생지 개발 등을 해왔다. 그는 이 같은 공로를 인정받아 1989년 환경청장 표창을 시작으로 2013년 녹색경영대상 국무총리 표창 등을 받았다. 또 교회를 지어 사회에 헌납하는 등 기부 활동을 이어오기도 했다. 유족은 아내 서범주씨와 아들 양등락 대한제지 부회장, 양창락 사장 등 4남1녀가 있다. 빈소는 서울아산병원 장례식장, 발인은 1일 오전 7시. (02)3010-2000&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김진현 前 과기처 장관 ‘협성사회공헌상’ 수상</title>
-      <link>https://www.chosun.com/national/people/2024/08/01/GCWXAIMHGBDEVJHS3OLIE5VWJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/01/GCWXAIMHGBDEVJHS3OLIE5VWJI/</guid>
-      <dc:creator>유석재 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 17:25:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XIBHTB432FHP5JF6MHCDYQENCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/협성문화재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김진현(88·사진 가운데) 전 과학기술처 장관이 대한민국의 민주화와 국제화·선진화와 국민의 행복을 위해 헌신한 공로로, 31일 협성문화재단이 주는 ‘협성사회공헌상’을 받았다. 협성문화재단은 부산의 향토 건설업체인 협성종합건업의 정철원&amp;lt;오른쪽&amp;gt; 회장이 사회 공헌 및 장학 사업을 위해 설립했다. 상금은 5000만원.&lt;br&gt;&lt;br&gt;서울 한국프레스센터에서 김 전 장관의 저서 ‘대한민국 100년 통사’의 출판기념회와 함께 열린 시상식에서 김 전 장관은 “협성문화재단이 추구하는 나눔과 봉사의 뜻을 실천하는 삶을 살겠다”고 수상 소감을 밝혔다. 김 전 장관은 대학 총장, 언론사 대표, 대한민국역사박물관 건립위원장 등을 역임했으며, 세계화추진위원회 설립을 주도하고 여러 연구소와 민간 단체를 창립해 대표로 활동했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>파도 위 공중부양?… ‘올림픽 스타’ 된 서핑 챔피언</title>
-      <link>https://www.chosun.com/national/people/2024/08/01/FOTWZQ665ZFWLC4BMJXBXYF66A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/01/FOTWZQ665ZFWLC4BMJXBXYF66A/</guid>
-      <dc:creator>김지원 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 17:24:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IIOGO7QBMJPQFPBFRRPNEDD4ZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일(현지 시각) 프랑스령 폴리네시아 타히티 섬의 테아후푸에서 열린 파리 2024 올림픽 남자 서핑 3라운드 경기에서 브라질의 가브리엘 메디나가 고난도 기술을 성공시킨 후 '공중부양' 세리머니를 선보이고 있다./AFP 연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;파도와 하늘 사이에 붕 떠있는 남자. 발목에 묶인 서핑보드가 그와 나란히 공중에 떠있다. 베테랑 서핑 선수와 사진 기자가 함께 만들어낸 초현실적 장면이다. 29일(현지 시각) 프랑스령 폴리네시아 섬 타히티 테아후푸에서 열린 2024 파리 올림픽 남자 서핑 예선 3라운드 경기에서 브라질 가브리엘 메디나(30·브라질)는 고난도 기술에 성공, 역대 올림픽 서핑 파도타기 점수 중 최고점인 9.90을 기록했다. 그는 기술을 성공한 직후 파도 위에서 점수를 확인하고는 공중에 몸을 띄워 검지 손가락을 하늘을 향해 치켜드는 세리머니를 선보였다. 그러자 이 장면을 놓치지 않고 프랑스 매체 AFP 사진기자 제롬 브루예(39)가 포착했다.&lt;br&gt;&lt;br&gt;10년 경력 스포츠 사진기자인 그는 당시 경기 사진을 찍기 위해 다른 기자들과 함께 작은 보트를 타고 있었다고 한다. 그는 “모든 사진기자들이 메디나의 세리머니를 기다리고 있었다”며 “그는 때때로 곡예적인 몸짓을 하는데, 이번에도 그렇게 해서 바로 셔터를 눌렀다”고 했다. 그는 사진을 찍는 순간 ‘뭔가 특별한 것을 포착한 것 같다’고 생각했다고 한다. 사실이었다. 전 세계 언론들이 이날 경기를 보도하면서 브루예의 사진을 사용했고, 소셜미디어에서도 수백만 번 공유되며 화제를 낳았다. 타임(TIME)지는 “2024 파리 올림픽 환희를 상징하는 이미지”라고 평했다. 브루예는 사진이 이 정도로 관심을 받을 줄은 몰랐다면서 “메디나 선수와 보드가 일자로 정렬된 모습에 포토샵이 아니냐는 의심을 받기도 했는데, 그건 아니고 그냥 우연히 그렇게 된 것”이라고 했다.&lt;br&gt;&lt;br&gt;브루예는 10년 전 타히티에서 휴가차 왔다가 이 지역에 매료돼 실제로 거주한 경험이 있다. 이 때문에 ‘세계에서 가장 거친 파도’로 유명한 테아후푸 환경에 대해 해박한 지식을 갖고 있다고 한다. 취미로 서핑을 즐기는 점도 해당 종목을 이해하는 데 도움이 됐다. 브루예는 “테아후푸 친구 집에 머무르면서 올림픽을 취재하고 있다”며 “아직 촬영할 경기가 많다. 축하에 대한 감사는 미뤄둘 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/IIOGO7QBMJPQFPBFRRPNEDD4ZM.jpg?width=6561&amp;height=4361&amp;auth=c65225aafa18f4e75ff7aa41fe9bd691ec0fe37db1ac35ba63cb871ad6bfd381&amp;smart=true" type="image/jpeg" height="4361" width="6561">
-        <media:description type="plain">&lt;YONHAP PHOTO-3987&gt; TOPSHOT - Brazil's Gabriel Medina reacts after getting a large wave in the 5th heat of the men's surfing round 3, during the Paris 2024 Olympic Games, in Teahupo'o, on the French Polynesian Island of Tahiti, on July 29, 2024. (Photo by Jerome BROUILLET / AFP)/2024-07-30 15:47:17/
-&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">JEROME BROUILLET</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>건보 지역가입자 2.8배 혜택… 저소득층일수록 많이 받아</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/08/01/OSPIUYTIERCXDM6X4QQLBOQJCM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/01/OSPIUYTIERCXDM6X4QQLBOQJCM/</guid>
@@ -783,14 +872,6 @@
       <description/>
       <pubDate>Wed, 31 Jul 2024 16:43:20 +0000</pubDate>
       <content:encoded>자영업자나 농·어민 등 건강보험 지역가입자가 회사에 다니는 직장가입자보다 건강보험 혜택을 많이 받는 것으로 나타났다. 납부한 건강보험료보다, 건강보험으로 인한 혜택을 상대적으로 지역가입자들이 더 많이 받았다는 뜻이다.&lt;br&gt;&lt;br&gt;31일 국민건강보험공단이 김선민 조국혁신당 의원실에 제출한 자료에 따르면, 지난해 기준 지역가입자가 낸 건강보험료는 총 9조9000여억 원, 건강보험이 이들에게 지원해 준 진료비 등은 총 27조6000여억 원이었다. 낸 돈의 2.8배가량 혜택을 받은 셈이다. 반면 직장가입자는 지난해 총 69조2000여억 원의 보험료를 내고, 낸 돈의 약 4분의 3에 해당하는 51조7000여억 원(74.7%)의 혜택을 받았다.&lt;br&gt;&lt;br&gt;건보공단 관계자는 “지역가입자는 자영업자, 농·어민 외에도 은퇴자가 많이 포함돼 있는데, 은퇴자 연령대가 60대 이상”이라며 “이 때문에 50대 이하 직장인이 중심인 직장가입자에 비해 지역가입자의 진료비 등이 많이 나와 혜택도 많이 보는 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;또 건강보험은 소득이 낮을수록 혜택도 커진다. 건보 공단 자료에 따르면, 지역가입자 가운데 소득 상위 10%를 제외하면 90%가 부담한 보험료보다 더 많은 혜택을 받은 것으로 나타났다. 직장가입자의 경우 소득 하위 30%는 납부한 보험료보다 더 많은 혜택을 받았지만, 상위 70%는 낸 보험료보다 혜택이 적었다. 건강보험은 2004년 도입한 ‘본인부담상한제’를 통해 1년 동안 낸 의료비 본인부담금이 소득별 상한 기준을 넘으면 넘은 만큼 돌려준다. 예컨대 저소득층(하위 30%)은 연간 최대 87만~108만원만 자기 돈으로 의료비를 내면 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>시원한 폭포수</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/01/26CHHSHALZCX3AW5VCIYFUBLPQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/26CHHSHALZCX3AW5VCIYFUBLPQ/</guid>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 16:40:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HF3645SLSFCTZDGUZVKBWX5ED4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;31일 전남 구례군 산동면에 위치한 수락폭포를 찾은 피서객들이 폭포수 아래서 물줄기를 맞으며 더위를 식히고 있다. 기상청에 따르면 이날 전국 대부분 지역에서 체감 온도가 35도 안팎으로 치솟았고, 전국에 폭염특보가 발효됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[길] 1.5평 쪽방엔 약봉지 수북… 달력엔 “너무 아푸다, 살기 실타”</title>
@@ -838,18 +919,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UFTRDJK6MVFV5PQ6WCXSB5OGLQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 정부서울청사에서 열린 제5차 의료개혁특별위원회 회의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대통령 직속 의료개혁특별위원회(의개특위)는 31일 “내년 초 의료 질 향상과 환자 안전을 위해 ‘(의사) 면허제도 선진화’ 대책을 발표하겠다”고 밝혔다. 구체적인 내용은 밝히지 않았지만, 의료계에선 “개원 면허제가 포함될 가능성이 높다”는 관측이 나온다.&lt;br&gt;&lt;br&gt;개원 면허제는 환자 치료 경험이 있는 의사에게만 현장 진료를 허용하는 제도다. 지금 우리나라처럼 의대를 갓 졸업한 의사도 바로 환자를 볼 수 있게 하는 건 허용되지 않는다. 의대 졸업 후 의사 면허를 취득했다 해도 이후 몇 년의 전공의 수련 과정을 마친 ‘유경험 의사’에게만 환자 진료 권한을 준다는 의미다.&lt;br&gt;&lt;br&gt;보건복지부는 이미 지난 2월 ‘필수 의료 (지원) 패키지 정책’ 발표 당시 “의료 질 향상을 위해 개원 면허제의 단계적 도입을 검토하겠다”고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;해외 주요국 중엔 개원 면허제를 도입한 나라가 많다. 영국에선 의대를 졸업하면 ‘의사 면허’는 받지만, 이후 2년간의 수련 교육을 받아 ‘진료 면허’를 취득해야 현장 진료를 할 수 있다. 캐나다는 의대 졸업 후 2년간의 수련을 받으며 현장 경험을 쌓아야 의사 면허를 준다. 일본 역시 의사 면허를 따도 2년간 종합병원에서 임상 연수를 받아야 단독 진료를 할 수 있다.&lt;br&gt;&lt;br&gt;의료계 일각에선 “현재 수업 거부 중인 의대생들이 직격탄을 맞을 수 있다”는 관측이 나온다. 의대 본과 4학년의 경우, 예정대로라면 내년 초 의대를 졸업해 의사 면허를 취득하게 되지만 현재 대부분이 수업을 거부하고 있다. 이들은 내년에 다시 본과 4학년 과정을 밟을 가능성이 적지 않다.&lt;br&gt;&lt;br&gt;이런 상황에서 정부가 내년부터 개원 면허제를 시행하게 되면, 이들은 예전처럼 의사 면허만 따고 바로 진료를 하지 못하고 1~2년간 의무적으로 별도 수련을 받아야 할 처지가 된다.&lt;br&gt;&lt;br&gt;일각에선 “미복귀 전공의들도 현장 진료가 어려워질 수 있다”는 얘기가 나온다. 하지만 전공의들은 이미 환자 진료가 가능한 의사 면허 보유자이기 때문에 이들의 개원까지 막을 경우 ‘위헌적 정책 소급 적용’ 논란을 낳을 수 있어 가능성은 낮다는 게 중론이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>큐텐, 계열사 티몬 돈 250억 끌어다 쓰고 사후승인 받아</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/01/4HL7GDSM2RHBRHYKP4UCQYTDVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/01/4HL7GDSM2RHBRHYKP4UCQYTDVY/</guid>
-      <dc:creator>석남준 기자, 이민준 기자, 권순완 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 16:17:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VW2IPJQORBBFJFYNSJGZX23N3I.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘판매 대금 미(未)정산’ 사태를 일으킨 티메프(티몬·위메프)와 큐텐(티메프 모기업)의 영업 행태를 놓고 논란이 이어지고 있다. 검찰은 이 기업들이 보인 행태가 횡령·배임 혐의에 해당할 수 있다고 보고 구영배 큐텐 대표와 목주영 큐텐코리아 대표, 류광진 티몬 대표, 류화현 위메프 대표를 피의자로 입건해 수사 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GSDKHNUXOJAFZH7BYHD5TMJ5BU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;◇업계 “이해할 수 없는 사후 승인”&lt;br&gt;&lt;br&gt;큐텐은 2022년과 2023년 각각 티몬과 위메프를 인수한 뒤 두 회사의 재무팀을 해체했다. 계열사 재무 업무는 큐텐의 또 다른 계열사인 큐텐테크놀로지가 맡았다. 큐텐은 지난 4월 북미 이커머스 ‘위시’ 인수 자금 명목으로 티몬에서 200억원을 빌렸다. 하지만 티몬의 류광진 대표가 이를 승인한 것은 돈이 빠져나간 지 나흘 뒤인 것으로 알려졌다. 큐텐은 지난 1월에도 티몬에서 50억원을 빌렸는데, 류 대표는 자금 대여가 집행된 지 19일 후 승인했다. 류 대표는 지난 30일 국회 정무위에 출석해 “재무 관련해서는 아무것도 알지 못한다”고 말하기도 했다. 같은 날 구영배 대표는 “(위시 인수에) 지불한 현금이 2500만달러(약 350억원)였는데, 이 중 티메프의 판매 대금이 일부 포함됐다”고 했다. 업계 관계자는 “계열사 간 자금 대여가 있을 수 있지만, 해당 계열사 대표의 사후 결재는 이해할 수 없는 일”이라며 “이커머스는 실시간 손익 계산이 핵심인데, 큐텐이 계열사 재무팀을 없앤 것도 상식적이지 않다”고 했다.&lt;br&gt;&lt;br&gt;이커머스 업계에선 최근 티몬 등이 역마진을 감수하며 벌인 할인 행사가 지나치게 많았다는 지적도 나온다. 한 관계자는 “마케팅용으로 손해를 감수한 ‘미끼 상품’을 일부 팔 수는 있지만, 티메프는 지나칠 정도로 역마진 상품을 쏟아냈다”며 “이번 사태 직전까지 ‘현금 당기기’를 했다는 의심이 든다”고 했다. 아이지에이웍스 모바일인덱스에 따르면, 이번 사태가 터지기 직전인 7월 6일 하루에만 티메프의 카드 결제액은 897억1000만원으로 추산됐다. 지난 6월 17~30일 일평균 결제 금액(167억원)의 5배가 넘는다.&lt;br&gt;&lt;br&gt;◇檢, ‘판매 자금 유출’ 횡령·배임 수사&lt;br&gt;&lt;br&gt;수사에 착수한 서울중앙지검 반부패수사1부(부장 이준동)도 구영배 대표가 국회에서 티메프의 판매 대금 일부를 다른 회사 인수에 사용했다고 말한 점에 주목하는 것으로 전해졌다. 법조계에선 “검찰이 횡령 혐의를 적용해 수사할 것”이라는 말이 나온다. 차장검사 출신인 조재빈 변호사는 “티몬과 입점 업체 간 계약서에 판매 대금을 티몬에 예치한다고 명시돼 있다”며 “그런데도 판매자에게 돌려줘야 할 돈을 가져다 쓴 것”이라고 했다. 공정 거래 전문 변호사는 “판매 대금을 빼내면서 티메프에 손실을 끼쳤다면 구 대표에게 배임 혐의를 적용할 수 있다”고 했다. 판매 대금을 사후에 승인한 티몬의 류 대표도 배임죄 처벌 대상이 될 수 있다. 금융 전문 변호사는 “판매 대금 유출 당시 몰랐더라도 결과적으로 승인했다”며 “유출 동의 후 근거 자료를 작성했을 수도 있다”고 했다.&lt;br&gt;&lt;br&gt;법조계에선 티몬 등이 ‘판매 대금 미정산’ 직전 역마진 할인 행사를 한 것과 관련해서도 임직원들에게 배임 혐의가 적용될 수 있다는 전망이 나온다. 회사 자금 사정이 좋지 않은 상황에서 역마진 할인 행사를 계속할 경우 회사가 어려움을 겪을 수 있다는 것을 알았다면 배임의 고의성이 인정될 수 있다는 것이다. 한 변호사는 “경영진이 팔면 팔수록 손해라는 걸 모르진 않았을 것”이라고 했다.&lt;br&gt;&lt;br&gt;◇'규제의 사각지대’에 놓여 문제 커져&lt;br&gt;&lt;br&gt;티메프가 ‘규제의 사각지대’에 놓여 있어 이번 사태가 커졌다는 지적이 나온다. 현행법상 이마트 같은 ‘대형 유통업자’들은 공급업자들에게 40~60일 내에 판매 대금을 정산해줘야 한다. 하지만 티메프처럼 ‘판매 중개업자’들은 정산 주기에 대한 별도 규제가 없다.&lt;br&gt;&lt;br&gt;플랫폼 사업의 영역마다 담당 정부 부처가 다른 것도 문제다. 현재 플랫폼의 독과점·갑질은 공정거래위원회가, 금융 결제는 금융위원회·금융감독원이 맡는다. 플랫폼 통신 접속 안정성은 과학기술정보통신부 소관이고, 온라인 유통업 전반은 산업통상자원부가 관리한다. 이 때문에 이커머스처럼 급속히 성장하는 산업에 대응하는 속도가 느렸다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XAEH37SSBNA35LX4VJUZYAJBS4.png?width=1200&amp;height=675&amp;auth=0834170e523933699db50f008bdb304da78a195ddf7e0043bf66e9c75ffbcb77&amp;smart=true" type="image/png" height="675" width="1200">
-        <media:description type="plain">그래픽=양인성</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>무너진 공직 기강</title>
       <link>https://www.chosun.com/national/court_law/2024/08/01/KIYFDDRKRFDD5JBUSJJHAU6ZMU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/01/KIYFDDRKRFDD5JBUSJJHAU6ZMU/</guid>
@@ -857,59 +926,6 @@
       <description/>
       <pubDate>Wed, 31 Jul 2024 16:03:34 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C6BHA2W3HJP5HF5JNLCI24A24I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조국혁신당에 입당한 이규원 전 대구지검 부부장검사가 11일 오전 서울 여의도 조국혁신당 당사에서 열린 전문가 입당식에서 인사말을 하고 있다. 2024.03.11. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이규원 조국혁신당 대변인이 현직 검사 신분으로 급여를 받으면서, 법무부로부터 업무에 복귀하라는 명령을 받고도 출근하지 않는 것으로 31일 알려졌다. 대검찰청은 이 대변인이 검사 신분으로 정당 활동을 하는 것에 대해 감찰 중이다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 법무부는 이 대변인이 지난 총선일(4월 10일)까지 신청한 질병 휴직이 끝나기 전에 이 대변인에게 업무에 복귀하라는 명령을 내렸다. 하지만 이 대변인은 응하지 않고, 지난 4월 11일 서울행정법원에 법무부를 상대로 복직명령 무효 확인 소송을 냈다.&lt;br&gt;&lt;br&gt;이 대변인은 총선을 한 달 정도 앞둔 지난 3월 7일 법무부에 사직서를 내고, 조국혁신당에 입당해 비례대표 후보 22번을 받았다. 그러나 법무부는 이 대변인이 이른바 ‘김학의 불법 출국 금지’ 사건으로 1심에서 징역 4개월의 선고유예를 받고 2심이 진행 중이라는 이유로 사직서를 수리하지 않았다. 1심은 이 대변인이 허위 출국 금지 요청서를 사후에 승인받고 이 서류를 은닉한 혐의에 대해선 유죄, 직권남용 혐의는 무죄로 판단했다. 국가공무원법은 비위(非違)와 관련해 기소된 경우 퇴직을 제한한다.&lt;br&gt;&lt;br&gt;법무부가 이 대변인의 사직서를 수리하지 않았지만, 이 대변인이 총선에 출마하는 데는 제약이 없었다. 이른바 ‘황운하 판례’에 따라 총선 출마를 위한 퇴직 마감 시한 전에 사직서만 내면 수리 여부와 상관없이 출마할 수 있기 때문이다. 그는 지난 총선에 국회에 입성하지는 못했다.&lt;br&gt;&lt;br&gt;법조계에선 이 대변인이 현직 검사 신분으로 정당 활동을 하는 것은 부적절하다는 지적이 나온다. 한 법조인은 “검사로 일하며 기소까지 된 이 대변인이 정치 활동으로 검사의 품위마저 손상하고 있다”며 “무너진 공직 기강의 사례”라고 비판했다.&lt;br&gt;&lt;br&gt;대검찰청 감찰부가 이 대변인에 대해 진행하고 있는 감찰의 주된 사유는 이 대변인이 현직 검사 신분으로 조국혁신당 대변인 업무 등 정당 활동을 하고 있는 것이라고 한다. 대검은 감찰 결과에 따라 필요한 조치를 할 예정인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 대변인이 질병 휴직을 낸 것은 2022년이다. 당시 그는 ‘김학의 불법 출국 금지’ 사건으로 기소된 상태였다. 그해 4월 1년간 질병 휴직을 냈는데 사유는 정신과 치료였던 것으로 알려졌다. 이 대변인은 휴직이 끝나자 작년 4월 질병 휴직 1년을 추가로 신청했고, 법무부는 이를 허가한 것으로 전해졌다. 이 대변인은 이런 식으로 2년 넘게 출근하지 않으면서 최근까지 1억원에 가까운 급여를 받았다고 한다. 공무원은 연가·병가를 써도 급여 전액을, 휴직해도 70%의 급여를 받을 수 있다. 부장검사 출신으로 이 대변인과 함께 조국혁신당에서 활동 중인 박은정 의원도 검찰에서 퇴직하기 직전 1년 9개월 동안 연가와 병가, 휴직 등을 번갈아 쓰면서 출근하지 않고 급여로 1억원을 받아간 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 대변인은 이날 페이스북에 올린 글에서 “22대 국회 임기 종료 때까지 비례대표 국회의원 후보자 신분이 유지되므로 공직선거법에 따라 사직원 수리 간주 상태가 유지되고 있다”며 “공무원 지위가 현 상태에서는 부존재해 이를 전제로 한 출근 의무가 없다”고 주장했다. 그는 또 “검찰에 제 월급 넣지 말라고 이미 요구한 사실도 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재밌다, 이 책!] 세계의 오지 누빈 BBC 프로듀서… 동물원에 없는 동물들 촬영했죠</title>
-      <link>https://www.chosun.com/national/nie/2024/08/01/TKGAQ5RNK5CKJLDK2VSBJDL7ZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/01/TKGAQ5RNK5CKJLDK2VSBJDL7ZM/</guid>
-      <dc:creator>김성신 출판평론가</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 15:48:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KQQIFYYPVVF6BAFIM5U3FJWK3Y.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;데이비드 애튼버러의 주 퀘스트&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;데이비드 애튼버러 지음 | 양병찬 옮김 | 출판사 지오북 | 가격 1만9500원&lt;/b&gt;&lt;br&gt;&lt;br&gt;이 책을 쓴 데이비드 애튼버러는 영국 케임브리지대에서 지리학과 동물학을 전공한 후 BBC 방송국에 입사했어요. TV가 발명된 지 불과 20년밖에 되지 않았던 시기에 그는 신입 프로듀서로 ‘동물원 탐사(Zoo Quest)’라는 제목의 자연 다큐멘터리를 제작했어요.&lt;br&gt;&lt;br&gt;당시 20대 청년이었던 저자는 방송국 동료들과 함께 지구 구석구석을 누볐어요. 세계 오지에서 야생의 다양한 생명을 촬영해, 이전에 볼 수 없었던 새로운 유형의 동물 프로그램을 제작하는 것이 기획 의도였거든요. 심지어 런던동물원에서 보유한 적 없는 동물만 대상으로 방송을 만들어야 한다는 조건도 붙었어요. 지금처럼 인터넷이 사용되던 시기도 아니었으니 당시 사람들의 눈에 저자가 찾아낸 동물들의 모습이 얼마나 신기했을까요? 어쩌면 오늘날 사람들이 외계 생명체를 직접 보는 것과 비슷한 감정이 아니었을까요.&lt;br&gt;&lt;br&gt;파푸아뉴기니에 서식하는 ‘긴 부리 바늘두더지’의 학명은 ‘Zaglossus attenboroughi’라고 하는데요. 학명에 최초 발견자의 이름을 넣는 규칙에 따라 저자의 이름이 사용된 것을 알 수 있어요. 이 밖에도 생물 20여 종의 학명에 자신의 이름을 붙였다니 당시 얼마나 열심히 동물들을 탐사하고 다녔는지 짐작이 가네요.&lt;br&gt;&lt;br&gt;저자가 극락조를 촬영하기 위해 파푸아뉴기니 섬으로 떠난 여정이 인상적이에요. 지금은 여행사를 통해 비행기 예약만 하면 쉽게 가서 즐겁게 지내다 올 수 있는 세계적인 휴양지이지만 저자가 방문했을 당시만 해도 이곳은 멀고 위험한 미지의 세계였다네요. 뉴기니는 오스트레일리아 대륙에 가까이 있어 상대적으로 작아 보일 수 있지만 매우 큰 섬이에요. 이곳에는 높은 산들이 능선을 이루고 있는데, 능선 사이 정글로 뒤덮인 거대한 계곡 등은 당시만 해도 상당 지역이 사실상 탐험이 되지 않았다고 해요. 어떤 위험이 있는지 알 수 없는 상태였다는 거예요. 그리고 해안 방향으로는 모기가 들끓는 광대한 늪이 펼쳐져 있었다고 해요.&lt;br&gt;&lt;br&gt;지형과 자연도 험난하지만, 내륙 깊숙한 지역에서 부족 간의 전쟁이 벌어지기도 하는 상황이었다고 합니다. 게다가 현지 원주민에게 극락조의 깃털은 부의 상징이기도 했어요. 깃털을 얻기 위해 점찍어 둔 극락조를 다른 이가 먼저 잡으면 유혈 사태가 일어날 정도로 극락조에 대한 원주민의 집념은 상당했다고 해요. 이런 상황에서 애튼버러가 극락조를 촬영하기 위해 고군분투하는 이야기는 마치 스펙터클이 가득한 탐험 영화를 보듯 손에 땀을 쥐게 합니다.&lt;br&gt;&lt;br&gt;이외에도 마다가스카르 등을 탐험한 흥미진진한 이야기들이 책에 담겨 있는데요. 오래전 자연 탐험의 이야기를 재미있게 담은 자연과학서지만, 이 책은 생물 다양성의 중요성과 기후위기에 대한 경각심도 분명하게 일깨워줍니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [기후와 날씨] 전국 21개 낙뢰 관측장비 중 5개 이상에서 전자기파 탐지되면 낙뢰로 기록해요</title>
-      <link>https://www.chosun.com/national/nie/2024/08/01/4NNN3YN2PZFJRKBIIT7KJULJOM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/01/4NNN3YN2PZFJRKBIIT7KJULJOM/</guid>
-      <dc:creator>장동언 기상청장</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 15:48:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HJUZ5OEGPFC7TLNLJ5VGDGPKTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/기상청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 16일 전라남도에서 낙뢰가 하루 사이 4500여 차례 발생했습니다. 하루 만에 작년 7월 한 달 동안 전남 지역에서 발생한 낙뢰(4489회)만큼 내리친 것이에요.&lt;br&gt;&lt;br&gt;지난 10년 기간 중에서 전국에서 하루 동안 낙뢰가 가장 많이 친 날은 2018년 5월 16일입니다. 경기도에서 낙뢰가 1만2963회 발생했지요.&lt;br&gt;&lt;br&gt;낙뢰는 지상과 구름 사이에 순간적으로 강한 전류가 흐르며 발생하는 아주 강력한 전기 방전 현상입니다. 대기가 고온 다습하고 불안정할 때 잘 발생하는 키가 큰 구름인 적란운에서 자주 나타나는데요. 순간적으로 전기가 흐르면서 섬광이 보이게 되고, 전기로 인해 발생한 열로 주변의 공기가 팽창하면서 천둥이라 일컫는 폭발음도 들리게 되지요.&lt;br&gt;&lt;br&gt;과거 낙뢰 관측은 전국의 기상관서에서 기상청 직원이 직접 눈으로 관측하는 ‘목측(目測)’을 통해 이뤄졌습니다. 그러다 1987년 낙뢰 관측장비를 설치하면서 자동으로 실시간 낙뢰를 관측하기 시작했어요.&lt;br&gt;&lt;br&gt;기상청 낙뢰 관측장비&amp;lt;사진&amp;gt;에는 두 개의 링이 90도로 교차하는 모양의 안테나와 작은 고깔 모양의 GPS(위성항법장치)가 설치돼 있어요. 낙뢰로 인해 생긴 전자기파(빛)가 이 안테나를 통과하면 안테나에 전류가 유도됩니다. 그러면 전류의 세기와 GPS로 확인된 정확한 시각이 낙뢰 관측장비에 기록돼요. 현재 전국에 낙뢰 관측장비 21개가 설치돼 있는데요. 이 중 5개 이상에서 함께 이러한 기록이 입력되면 낙뢰가 친 것으로 확인됩니다.&lt;br&gt;&lt;br&gt;낙뢰가 친 정확한 위치는 각 낙뢰 관측장비 안테나를 통과한 전자기파의 방향과 기록된 GPS 시각의 차이를 통해 파악해요. 그리고 낙뢰의 세기는 안테나에 유도된 전류의 세기를 분석해 추정합니다. 이렇게 수집된 낙뢰 관측 정보는 기상청 날씨누리와 날씨알리미 앱을 통해 10분마다 제공되고 있어요.&lt;br&gt;&lt;br&gt;기상청에선 매년 ‘낙뢰연보’를 발간해요. 낙뢰연보를 살펴보면 여름철에 낙뢰가 많이 발생하는 것을 알 수 있습니다. 작년 우리나라에서 관측된 낙뢰는 7만3000여 회였는데, 여름철(6~8월)에 전체의 75%가 집중됐어요. 우리나라뿐만 아니라 미국도 낙뢰는 주로 여름철, 특히 8월에 가장 많이 발생한다고 합니다.&lt;br&gt;&lt;br&gt;최근 5년간(2019~2023년) 낙뢰 사고로 119구급대가 출동한 경우는 모두 31건이었어요. 대부분 여름철 실외에서 발생한 사고였지요. 그래서 여름철에는 특히 더 낙뢰를 조심해야 합니다. 우뚝 솟은 산은 물론이고, 뾰족한 건물이나 들판에 서 있는 나무 등이 낙뢰에 맞기 쉽습니다. 바닷가에서는 파라솔이나 사람도 주변 요소들보다 상대적으로 높이 솟아 있어 위험하니 조심해야 합니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [얼씨구 국악] ‘서편제’ 주인공들이 부른 진도아리랑은 육자배기토리 노래</title>
-      <link>https://www.chosun.com/national/nie/2024/08/01/66WCT7OZRRCWJO6T2YHJC466NY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/01/66WCT7OZRRCWJO6T2YHJC466NY/</guid>
-      <dc:creator>이동희 경인교대 음악교육과 교수, 기획·구성=오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 15:47:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UNSOETM6BFFIFG6X7JY2YAUCII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주광역시에서 열린 ‘서창 만드리 풍년제’. 서창 만드리는 7월 백중 무렵에 일하면서 불렀던 노동요예요. /김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 종로구 창덕궁 근처에 ‘서울우리소리박물관’이라는 곳이 있어요. 우리나라 최초 민요 전문 박물관인데요. 여기서 지난 5월부터 지역별 민요 특징에 대해 잘 설명한 ‘오늘 만난 토리’ 전시를 열고 있어요.&lt;br&gt;&lt;br&gt;‘토리’는 지역에 따라 구별되는 민요의 유형적 특징을 뜻하는 말이에요. 지역마다 말의 억양과 사용하는 단어들이 다른 사투리처럼, 민요도 지역별로 달라요. 토리는 일종의 ‘민요 사투리’인 셈이에요. 지역별로 토리 명칭도 다르답니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;민요에도 ‘사투리’가 있어요&lt;/b&gt;&lt;br&gt;&lt;br&gt;민요는 우리 조상들의 일상과 감정을 고스란히 담아낸 노래예요. 특정 작곡가가 있는 게 아니라, 민중 사이에서 자연스럽게 만들어지고 구전됐죠.&lt;br&gt;&lt;br&gt;민요는 기능에 따라 다양한 종류가 있어요. 일하면서 부르는 노동요, 놀이할 때 부르는 유희요, 제사나 각종 의식에서 공동체의 안녕과 풍요를 기원하며 부르는 의식요 등이 있어요. 사랑의 감정을 담은 연정요도 있답니다.&lt;br&gt;&lt;br&gt;지역별로는 크게 다섯 토리가 있습니다. 한반도는 남북으로 쭉 뻗은 낭림산맥과 태백산맥을 중심으로 동쪽과 서쪽으로 나눌 수 있어요. 동쪽의 함경도, 강원도, 경상도는 산맥의 서쪽 지역과 활발하게 문화 교류를 하기 어려웠어요. 그래서인지 이 지역들은 거리가 멀리 떨어져 있지만 민요의 특징이 비슷하답니다. 이 지역 민요를 ‘동부 민요’, ‘메나리토리’라고 불러요.&lt;br&gt;&lt;br&gt;‘메나리’는 이 지역에서 흔한 민요 이름으로, 산이 많은 곳이라 ‘뫼[山]놀이’에서 유래됐다는 설이 있어요. 메나리토리는 한반도에서 가장 오래된 토리로 추정됩니다. 대표곡은 가장 오래된 아리랑으로 알려진 정선아리랑이 있어요. 또 한오백년, 옹헤야, 쾌지나칭칭나네, 밀양아리랑, 신고산타령 등도 있답니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QPYXG2E3CRAATPJ3DGXRRVVY7A.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;메나리토리(동부 민요) 정선아리랑, 경토리(경기 민요) 도라지타령&lt;/b&gt;&lt;br&gt;&lt;br&gt;반면 산맥 서쪽은 지역별로 음악적 특징이 매우 다양해요. 지역마다 사투리, 음식, 기후가 다른 것과 연관이 있지 않을까 싶어요. 또 우리나라가 통일 신라 시대 전까진 여러 국가로 쪼개져 있었으니 그때부터 문화가 달라졌을 수도 있고요.&lt;br&gt;&lt;br&gt;오늘날 북한 지역인 평안도와 황해도의 민요는 ‘서도 민요’ 또는 ‘수심가토리’라고 불러요. 평안도를 대표하는 민요 ‘수심가’는 ‘매우 근심하는 마음이 가득 찬 노래’라는 제목 그대로 사랑하는 이를 그리워하고 기다리는 애틋한 마음을 담은 노래랍니다. 하늘하늘한 소리와 큰소리로 부르다가 비음을 조금 섞어 잘게 떨어주는 발성이 특징이에요.&lt;br&gt;&lt;br&gt;참고로 북한은 평안도 출신 김일성의 영향으로 민요를 비롯한 전통음악 등에 수심가토리의 특징이 많이 드러난대요. 수심가토리의 대표곡은 수심가, 엮음수심가, 긴난봉가, 자진난봉가, 배따라기, 몽금포타령, 싸름 등이 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BYDDHKIBDJETXIY7CH74NHVHAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;소리꾼들이 경기 민요를 부르는 모습. /이진한 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울을 포함한 경기도 민요는 ‘경기 민요’ 또는 ‘경토리’라고 해요. 천안 등 충청도 지역도 대개 경토리에 포함됩니다. 경토리는 맑고 경쾌하며 음색이 분명하고 부드러운 게 특징이에요. 굿거리 장단, 세마치 장단에 맞춰 노래하는데요. 대표적인 경토리 악곡에는 아리랑, 도라지타령, 천안삼거리, 늴리리야, 한강수타령, 경복궁타령 등이 있어요.&lt;br&gt;&lt;br&gt;우리가 초등학교 때 많이 배운 것들이지요? 경토리 특유의 밝고 경쾌한 분위기 때문인지, 교육자들에게 익숙해서인지 몰라도 예전 초등학교 교과서에는 주로 경토리 노래들이 국악을 대표하여 수록되어 있었답니다. 민요로 유명한 송소희도 경기 민요, 경토리 전공이랍니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;구슬픈 노래 육자배기토리&lt;/b&gt;&lt;br&gt;&lt;br&gt;전라도 민요는 ‘남도 민요’ 또는 ‘육자배기토리’라고 해요. 대표적인 남도 민요 ‘육자배기’는 우리 민요 중에서 슬픈 감정의 표현이 가장 절정에 이르는 곡이지 않을까 합니다. 또 매우 느린 6박의 진양조 장단에 맞춰 불러 육자(六字)배기라는 이름이 되었다고 추측되는 노래인데요. 이 음악이 전라도 지역을 대표하는 토리 명칭이 되었지요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ARBWSKS4A5BYTMEDMKISQDLEYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘서편제’ 주인공들이 고갯길을 걸으며 진도아리랑을 부르는 장면. /태흥영화&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영화 ‘서편제’ 주인공들이 고갯길을 걸으며 불렀던 진도아리랑이 바로 육자배기토리 노래입니다. 영화의 주인공인 오정해 배우는 육자배기토리 중심의 장르인 판소리 전공자 출신이지요. 육자배기토리는 떠는 소리, 평으로 내는 소리, 꺾는 소리 등 세 음을 중심으로 구성되는데, 정말 구슬프게 들린답니다. 국악을 ‘한 맺힌 음악’이라 하는 것은 대개 이 지역 음악에 대한 이야기라고 할 수 있죠.&lt;br&gt;&lt;br&gt;마지막 다섯 번째 토리는 제주도에 있어요. ‘제주토리’에는 제주도 방언이 많이 들어가 있죠. 대표적인 곡으로는 너영나영, 오돌또기, 이야홍타령, 이어도사나, 멸치 후리는 소리 등이 있습니다.&lt;br&gt;&lt;br&gt;섬 지역이라는 제주도의 특성 때문인지 제주토리의 노랫말은 다른 토리와 매우 이질적입니다. 예를 들면 멸치 후리는 소리에서 ‘멸치’는 ‘멜’이라고 불러요. 오돌또기에는 ‘앞바당(앞바다)’ ‘물질허멍(물질하며)’ 등 다양한 방언이 등장하죠. ‘너영나영’은 ‘너랑 나랑’이라는 의미입니다. 음악적으로는 경기도의 경토리와 평안도·황해도의 수심가토리 등의 특징이 섞여 있어요. 제주도가 조선 시대에 많은 이가 고통받았던 유배지였기 때문인지도 모르겠습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 8월 1일</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/01/5VBK2WAZAVGFBN3LBDDMUDNKTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/5VBK2WAZAVGFBN3LBDDMUDNKTM/</guid>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QLZKNBAP2JASXATOTK6JIRJ55M.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 음주운전 전복 사고 낸 검사, 벌금 그쳐… 대검 “징계 절차 중”</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/30/XGSKGVZK5RACVHBXDZS5K7EBAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/30/XGSKGVZK5RACVHBXDZS5K7EBAI/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 08:19:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6C75ZQHUYSSZPLQCCY5EHT7TQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 마포구 성산대로 인근 강변북로에서 음주 운전을 하다 사고를 내 현행범으로 체포됐던 현직 검사가 벌금형을 받았다.&lt;br&gt;&lt;br&gt;30일 법조계에 따르면 서울서부지법은 지난 17일 도로교통법위반(음주운전) 혐의로 기소된 수도권 지청 소속 현직 검사 A(42)씨에게 벌금형을 선고한 것으로 확인됐다. 대검찰청은 이날 A씨에 대한 징계 절차가 진행되고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 A씨는 2월 15일 밤 10시 30분쯤 야근을 마치고 소속 청 인근 식당에서 술을 마신 뒤 다음날 새벽 1시쯤 서울 마포구 강변북로에서 음주운전을 하다가 차량 전복 사고를 냈다.&lt;br&gt;&lt;br&gt;당시 A씨의 혈중알코올농도는 면허 취소 수준인 0.08% 이상인 것으로 알려졌다. 현행 도로교통법상 혈중알코올농도가 0.08% 이상이면 1~2년의 징역 또는 500만~1000만원의 벌금형에 처한다.&lt;br&gt;&lt;br&gt;검사징계법에 따라 검사로서의 체면이나 위신을 손상한 검사는 해임·면직·정직·감봉·견책 등 처분을 받는다. 음주 운전 역시 처벌 대상이다. 대검찰청 예규에 따르면 음주 운전을 1회 저지른 경우 면허 취소 수치인 혈중알코올농도 0.08%를 기준으로 징계 수위가 결정된다. 0.08% 미만이면 감봉·정직 처분을, 0.08% 이상이거나 음주 측정에 불응했을 경우에는 정직·면직 처분을 받게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“테이저건 맞아 보셨나” 충주시 유튜브 출연한 윤희근 경찰청장</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/31/YM5BXJ2NRBGK5K3LTZ3JU2ZS7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/31/YM5BXJ2NRBGK5K3LTZ3JU2ZS7Y/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 13:14:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E7AQI6Q5ZBAPHKCTGJPFRS4ZCM.png"&gt;&lt;figcaption&gt;&lt;small&gt;/충주시 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤희근 경찰청장이 구독자 76만명을 보유한 충주시 유튜브 ‘충TV’에 출연해 ‘충주맨’으로 불리는 김선태 주무관과 인터뷰했다.&lt;br&gt;&lt;br&gt;31일 충주시 유튜브에는 ‘경찰청장에게 동탄서를 묻다’라는 1분 54초 분량 영상이 올라왔다.&lt;br&gt;&lt;br&gt;윤 청장은 인터뷰에서 “취임한 지 2년이 다 돼 간다. 한 달도 안 남았다”고 운을 뗀다. 윤 청장은 이어 ‘경찰청장이 되 보니 어땠느냐’라는 질문을 받고 “할 수 있는 것도 많지만, 할 수 없는 것도 많다는 걸 알았다”라고 말한다.&lt;br&gt;&lt;br&gt;‘재임 기간에 가장 잘했던 것’이라는 질문엔 “우리 14만 경찰 구성원으로만 놓고 보면 공안직 기본급이라고 해서 급여를 올려줬다”라고 답한다. 윤 청장은 ‘수사를 많이 해 보셨느냐’는 말에는 “사실 수사를 많이 해보진 않았다”며 “제 입으로 말씀드리긴 그렇지만 정보 업무를 많이 했다”라고 말한다.&lt;br&gt;&lt;br&gt;무고한 20대 남성을 성범죄자로 단정해 강압 수사를 벌였다는 논란에 휩싸였던 경기 화성동탄경찰서도 거론됐다. ‘최근에 동탄 서운하지 않으셨냐’는 질문에 윤 청장은 “제가 사과도 했고, 잘못됐다고 인정을 했고, 오히려 그런 게 있음으로써 저희도 한 번씩 되돌아보는 계기가 되는 것 같다”라고 말한다.&lt;br&gt;&lt;br&gt;윤 청장은 ‘테이저건 맞아보셨느냐’는 질문에는 “아직 못 맞아 봤다”라고 답한다. ‘퇴임식 때 한번’이라고 진행자가 맞받자 웃음을 터뜨린다.&lt;br&gt;&lt;br&gt;경찰대 1기인 조길형 충주시장과 7기로 같은 대학을 졸업한 윤 청장의 인연도 언급됐다. 윤 청장이 “처음 만난 경찰대학 선배가 조길형 시장님”이라고 말하자 김 주무관은 “(조 시장이 윤 총장에 대해) 어린애 같았다고 (했다)”고 말한다. 이에 윤 청장은 “지금도 아마 저를 그렇게 보실 것”이라고 답한다.&lt;br&gt;&lt;br&gt;윤석열 정부 첫 경찰청장인 윤 청장 임기는 내달 9일까지다. 두 번째 경찰청장으로는 조지호 현 서울경찰청장이 내정됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>A4용지에 ‘이름 석 자’ 또박또박...초등생 신유빈 사인 화제</title>
@@ -928,33 +944,6 @@
       <description/>
       <pubDate>Wed, 31 Jul 2024 12:20:01 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QJ7D7SWY3LBE3JID6IGZJZBLHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국 양궁 대표팀 김우진. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올림픽 양궁 금메달리스트이자 2024 파리올림픽 중계를 맡고 있는 기보배(36) KBS 해설위원이 대표팀 맏형 김우진(32·청주시청)의 ‘초고속 개인전’ 경기에 깜짝 놀랐다. “제가 몇 마디 안 했는데”라며 농담 섞인 칭찬을 던지기도 했다.&lt;br&gt;&lt;br&gt;김우진은 30일(한국시각) 프랑스 파리 앵발리드 경기장에서 열린 파리올림픽 양궁 개인전 64강에서 차드의 이스라엘 마다예(36)를 6대 0으로 꺾고 32강에 올랐다. 이어진 경기에서도 대만의 린즈샹(23)을 상대로 6대 0 완승해 가뿐히 16강으로 향했다.&lt;br&gt;&lt;br&gt;김우진의 실력은 압도적이었다. 마다예와의 경기에서 쏜 9발 중 10점이 7발, 9점이 2발이었다. 린즈샹과 함께한 32강 역시 10점이 8발, 9점은 단 한발이었다. 전날 남자 단체전 올림픽 3연패 달성에 제 몫을 했던 경기력이 그대로 이어지는 분위기였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FHRJOPRE5JFNSEAVVRT2X45474.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2016 리우데자네이루 올림픽 당시 기보배 해설위원(왼쪽에서 세번째)과 김우진(맨 오른쪽). /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현지에서 이 모습을 지켜본 기보배는 “김우진 선수와는 2016 리우데자네이루 올림픽을 같이 준비했고 세계 선수권도 같이 다녔다”며 “정말 양궁에 진심인 선수다. 본인이 완벽해질 때까지 쏴야 직성이 풀린다”고 말했다.&lt;br&gt;&lt;br&gt;같이 중계한 이재후 캐스터가 “김우진 선수가 ‘들면 쏜다’더니 정말 빠르다”고 감탄하자, 기보배는 “제가 몇 마디 안 한 거 같은데 금방 끝나버렸다. 말을 좀 많이 했어야 하는데”라고 웃으며 김우진의 활약을 칭찬했다.&lt;br&gt;&lt;br&gt;앞서 또 한 번의 올림픽 역사를 써 내려간 우리나라 양궁 대표팀은 내달부터 다시 메달 사냥에 나선다. 남은 종목은 남녀 개인전과 혼성 단체전이다. 금메달 결정전은 오는 8월 2일 혼성 단체전, 3일 여자 개인전, 4일 남자 개인전 순서로 열린다. 랭킹 라운드 남자 1위인 김우진은 임시현(21·한국체대)과 혼성전에 나서는 멤버로 이번 대회 3관왕을 노린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>가덕도 신공항 3차 입찰...이번에도 건설사 선정 어려울 듯</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/07/31/ICRCXZX4P5B5XCA6MIN3MPHURM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/31/ICRCXZX4P5B5XCA6MIN3MPHURM/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description>정부는 31일 ‘가덕도 신공항 부지 조성 공사’의 3차 입찰을 공고했다.</description>
-      <pubDate>Wed, 31 Jul 2024 11:57:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RCV45JZV7KKMNJXLTLBOU6744M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 가덕도신공항 조감도. /국토교통부 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부는 31일 ‘가덕도 신공항 부지 조성 공사’의 3차 입찰을 공고했다. 활주로와 방파제 등을 포함해 가덕도 신공항 관련 총사업비의 78%(10조5300억원)를 차지하는 부지 조성 공사는 앞서 두 차례 유찰됐다. 공사 난도는 높은데 기간은 짧아 리스크가 크다며 건설사들이 참여를 꺼렸기 때문이다. 건설업계에선 오는 19일까지 진행되는 3차 입찰에 대해 “이번에도 업체 선정이 쉽지 않을 것”이란 전망이 나온다.&lt;br&gt;&lt;br&gt;정부는 2차 유찰 후 업체 참여 독려를 위해 10개 건설사 관계자들을 불러 모아 설명회를 갖고, ‘10대 건설사 중 2개사까지 컨소시엄 구성 허용’이라는 기존 조건을 ‘3개사 허용’으로 완화했다. 공사 총 기간도 착공 후 6년에서 7년으로 늘려줬다.&lt;br&gt;&lt;br&gt;문제는 2029년 12월인 개항 시점은 변경하지 않아, 건설사 입장에서 공사 기간이 여전히 짧다는 것이다. 국토부는 활주로와 여객터미널 등 개항에 필수적인 시설을 우선 시공하고, 서측 부지 및 전체 공사는 개항 후 마무리하겠다는 방침이다. 한 건설사 관계자는 “반쪽짜리 개항을 위해 공사 일정, 방식 등이 무리하게 설계됐다”고 했다.&lt;br&gt;&lt;br&gt;국토부가 경쟁 없는 수의계약은 하지 않겠다는 방침을 세우면서, 입찰 마무리를 위해선 적어도 2개 이상의 컨소시엄이 참여해야 하지만 업계에선 “여전히 득보다 실이 크다”는 말이 나온다. 국토부는 “조건이 완화된 만큼 업체 참여를 기대하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“남자친구 생겼어?” 전처와 그 애인 둔기 폭행한 40대男</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/31/XH724YEGSZBA3OHTASTQA2DWTE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/31/XH724YEGSZBA3OHTASTQA2DWTE/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 12:06:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전처(前妻)가 남자친구가 생겼다는 이유로 둔기로 폭행한 40대 남성이 경찰에 붙잡혔다. 경찰은 살해 의도가 있었다고 판단해 살인미수 혐의로 입건해 조사 중이다.&lt;br&gt;&lt;br&gt;31일 전북 군산경찰서는 전처와 그의 남자친구를 둔기로 때린 혐의(살인미수)로 40대 A씨를 붙잡아 조사 중이다.&lt;br&gt;&lt;br&gt;A씨는 지난 29일 오후 7시쯤 군산시 지곡동의 한 원룸에서 전처인 B씨(30대)와 그의 남자친구를 둔기로 때려 다치게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 올해 초 B씨와 이혼했는데, 전처 B씨에게 새 남자친구가 생긴 사실을 알게 되자 술을 마신 상태로 둔기를 챙겨 B씨 자택으로 찾아간 것으로 조사됐다.&lt;br&gt;&lt;br&gt;전처와 그의 남자친구는 머리 등을 크게 다쳤지만, 다행히 생명에 지장이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “살해하려는 의도가 있었다고 보고 A씨에게 살인미수 혐의를 적용했다”며 “현재 구속영장이 청구된 상태”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘쇼미 프로듀서’ 유명 래퍼, 공원서 행인 폭행… 경찰 조사</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/31/XLUCKY42VVEFDILMHWXICXDN54/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/31/XLUCKY42VVEFDILMHWXICXDN54/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 11:44:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJACOCQWWU5QCEDLXLXU6WACM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 유명 래퍼가 행인을 폭행했다는 신고가 접수돼 경찰이 조사에 나섰다.&lt;br&gt;&lt;br&gt;서울 마포경찰서는 유명 래퍼 정모(39)씨가 행인을 폭행했다는 신고를 접수하고 입건 전 조사(내사)에 착수했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면, 래퍼 정씨는 지난 28일 오후 8시 30분쯤 서울 마포구의 한 공원 입구에서 행인에게 “자전거를 똑바로 끌고 가라”는 취지로 말하며 휴대전화 등을 이용해 폭행한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;피해자는 “눈 인근이 찢어지고 치아 일부가 손상됐다”고 주장하고 있다고 한다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 현장에서 기초 조사를 한 뒤 둘을 돌려보냈다. 경찰 관계자는 “현재 사실관계를 확인 중에 있다”며 “향후 입건 여부를 결정하고, 입건이 되면 피의자 조사를 진행할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;래퍼 정씨는 2008년 유명 엔터테인먼트에 영입돼 2010년 데뷔곡을 내며 가요계에 첫발을 내디뎠다. 이후 유명 오디션 프로그램 ‘쇼미더머니’ 프로듀서로도 활약했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] PC 침투→거점 확보→데이터 유출… 北의 법원 해킹 수법</title>
