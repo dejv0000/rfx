@@ -13,6 +13,100 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘아름다운 얼굴’로 동인문학상... 소설가 송기원 별세 </title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/08/01/MD3CDKX3ZZCX7FUEIYL546AAEA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/08/01/MD3CDKX3ZZCX7FUEIYL546AAEA/</guid>
+      <dc:creator>황지윤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 13:18:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4M62IJ7TMOJSBD5HSUV3B77RM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소설 ‘아름다운 얼굴’로 제24회 동인문학상을 받은 소설가 겸 시인 송기원(77)이 숙환으로 치료를 받다가 지난 31일 오후 8시 별세했다.&lt;br&gt;&lt;br&gt;1일 유족에 따르면, 전남 해남에 살며 작품 활동을 하던 고인은 지난 4월 뇌경색이 발병해 쓰러졌다. 이후 대전의 병원으로 옮겨 투병했다. 본지 통화에서 사위 권민웅씨는 “장인께서는 항상 ‘자유로운 영혼이 되고 싶다’고 말씀하셨다”면서 “땅에 묻지 말고 전남 보성 고향 바다에 뿌려 달라는 유언을 남기셨다”고 했다. 딸 송가은씨는 전화를 건네받았지만, 말을 잇지 못했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YDHFYXXJSJDDHAY53LFS6N5H5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1999년 계룡산 토굴에 머물며 불교 공부, 명상, 집필에 매진하던 소설가 송기원을 본지가 찾아갔다. 그는 이곳에서 1년간 머무르며 장편 소설 '안으로의 여행'을 탈고했다. 당시 본지 인터뷰에서 송기원은 "진정한 명상은 현실을 뚫고 들어가서 그 현실의 가치를 재발견하는 것"이라고 했다. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고교 시절 전남일보 신춘문예에 시 ‘불면의 밤에’가 당선됐다. 서라벌예대 졸업 후 1974년 동아일보 신춘문예 시 부문, 중앙일보 신춘문예 소설 부문에 당선돼 화려하게 문단에 등장했다. 1993년 소설 ‘아름다운 얼굴’로 동인문학상을 수상했다. ‘경험의 진정성과 표현의 진정성을 아울러 갖는 작품세계로 원초적 호소력을 지닌다’는 평(유종호 문학평론가)을 받았다. 이 밖에 신동엽문학상, 오영수문학상, 대산문학상을 수상했다. 2021년 마지막 장편으로 명상소설 ‘숨’을 펴냈다. 백혈병으로 둘째 딸을 잃은 뒤 명상을 통해 완전한 평온에 이르는 과정을 썼다. 빈소는 대전 유성선병원. 발인은 3일 오전 8시. (042)825-9494&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“간식 안 먹었다면 못 이겼을 것”...신유빈, 이번엔 에너지젤 먹방</title>
+      <link>https://www.chosun.com/national/people/2024/08/01/WAHWDUUYPNE3HLVSHMMAW3UVG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/01/WAHWDUUYPNE3HLVSHMMAW3UVG4/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 13:31:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7OXTA5DV4RG2JINRG2N5PVX6DE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;1일(현지 시각) 프랑스 사우스 파리 아레나에서 열린 2024 파리 올림픽 탁구 여자 단식 8강전 경기 도중 에너지젤을 먹고 있는 신유빈./MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;파리 올림픽 탁구 여자 단식 4강에 진출한 신유빈 선수가 경기 중에 보인 ‘깨알 먹방’이 다시 한번 네티즌의 관심을 받고 있다.&lt;br&gt;&lt;br&gt;1일 밤 온라인에는 ‘오늘도 여전한 신유빈 먹방’ 등을 제목으로 한 게시물이 널리 공유됐다. 여기에는 신유빈이 얼음팩을 머리 위에 올린 채 에너지 젤을 먹는 모습, 오광헌 감독이 이야기하는 와중에 신유빈이 바나나를 꺼내 먹으며 고개를 끄덕이는 모습 등이 담겼다.&lt;br&gt;&lt;br&gt;신유빈은 이날 프랑스 사우스 파리 아레나에서 열린 2024 파리 올림픽 탁구 여자 단식 8강전에서 일본의 히라노 미우를 4대3(11-4 11-7 11-5 7-11 8-11 13-11)으로 누르고 승리했다. 한국 여자 단식이 올림픽 4강에 오른 것은 2004년 김경아(동) 이후 20년 만이다.&lt;br&gt;&lt;br&gt;신유빈은 “(20년 만의 4강 진출인 줄은) 나도 몰랐는데, 그냥 한 경기, 한 경기 하다 보니 이렇게 좋은 결과를 얻었다”면서 “아직 끝난 게 아니다. 잘 먹고, 잘 쉬고, 상대 분석 잘해서 더 좋은 경기력을 만들어서 시합에 임하겠다”고 했다.&lt;br&gt;&lt;br&gt;이어 파리까지 와 바나나, 주먹밥 등 간식거리를 싸준 어머니에게 감사한 마음을 전하기도 했다. 신유빈은 “간식을 안 먹었다면 7게임에서 못 이겼을 것 같다. 체력이 너무 많이 소진돼서 중간중간 힘도 풀리더라”면서 “엄마가 만들어준 주먹밥이랑 바나나를 잘 먹고 들어간 게 이길 수 있었던 요인이지 않나 싶다”며 웃었다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “오늘은 뭘 먹고 있니” “우리 유빈이 하고 싶은 거 다해라” “내가 먹는 에너지젤이랑 같은 거 먹네. 귀엽다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;이외에도 이날 오전 프랑스의 사우스 파리 아레나에서 진행된 탁구 여자 단식 16강에서, 신유빈은 경기 중 시간이 날 때마다 바나나를 먹었다. 지난달 29일 여자 단식 64강전 호주의 멜리사 테퍼와의 경기에서도 마찬가지로 신유빈은 중간중간 바나나를 섭취했다.&lt;br&gt;&lt;br&gt;지난달 30일 탁구 혼합복식 동메달 결정전 직전에는 주먹밥과 복숭아를 먹었다. 특히 신유빈은 주먹밥을 도시락통에서 꺼내 휴대전화로 인증 사진을 남기기도 했다. 이 주먹밥은 신유빈 어머니가 직접 만들어준 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>태백까지 폭염주의보... 해발 900m도 뚫렸다</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/08/01/KT557JR67VBVLH6H2L7OYAN4VU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/08/01/KT557JR67VBVLH6H2L7OYAN4VU/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 13:30:58 +0000</pubDate>
+      <content:encoded>평균 해발고도가 900m에 달해 최근 펄펄 끓는 한반도에서도 폭염 영향권에서 유일하게 벗어나 있던 강원 태백에 1일 폭염 특보가 발효됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 이날 오전 10시 태백에 폭염 주의보가 발효됐다. 폭염 주의보는 최고 체감 기온이 33도 이상인 상태가 이틀 이상 지속될 것으로 예상될 때 내려진다. 태백의 평균 해발고도는 약 902ｍ로, 서울 남산(270ｍ)의 3배 이상이다. 태백 도심 지역의 높이도 약 778ｍ다. 이런 지형적 조건에도 폭염 특보가 발효된 것이다.&lt;br&gt;&lt;br&gt;현재 우리나라는 대기 상·하층으로 각각 티베트고기압과 북태평양고기압이 위치해 이불을 두 겹 덮은 듯 열기가 빠져나가지 않고 있다. 일사량이 가장 많은 한여름 구간에 진입했고, 북태평양고기압 가장자리를 타고 뜨거운 남풍(南風)까지 불어와 낮은 폭염, 밤은 열대야가 나타나고 있다. 2일 최저기온은 24~29도, 낮 최고기온은 29~36도로 예보됐다. 11일까지 한반도의 열기를 식혀줄 요인이 없어 최소 열흘간 최고 36도 무더위가 지속될 전망이다.&lt;br&gt;&lt;br&gt;‘최악의 여름’으로 기록된 2018년의 각종 기록을 올해 경신할지도 주목된다. 서울은 그해 8월 최고 39.6도를 기록하며 관측 사상 최고기온을 기록했다. 밤 최저기온도 30도를 넘기며 관측 사상 처음으로 ‘초열대야’가 발생했다. 당시 서울엔 7월 21일부터 8월 15일까지 26일 연속 열대야가 나타났다. 올해는 1일까지 11일 연속 열대야가 기승을 부리고 있다. 2018년엔 태풍이 자주 북상하며 뜨거운 열기를 추가로 공급한 것이 극한 더위의 원인이었다. 올해는 온난화 여파로 예년보다 2도가량 높아진 해수면 온도가 폭염을 부추기는 원인으로 작용하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>열대야 속 부산 수영구 아파트 단지에서 대규모 정전</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/01/YPL5CW2NQRAGBHXKXSNWGIF3SA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/YPL5CW2NQRAGBHXKXSNWGIF3SA/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 13:24:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VKGUV2VQAZLVDMCDHBBFTMUCPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오후 8시 20분쯤 부산 수영구에서 발생한 대규모 정전으로 아파트와 상가 일대 불이 꺼져 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 수영구의 한 아파트 단지에서 대규모 정전이 발생해 긴급 복구작업이 이뤄지고 있다.&lt;br&gt;&lt;br&gt;1일 소방당국에 따르면 이날 오후 8시 12분쯤 부산 수영구 남천동 일대 아파트 단지와 상가에서 정전이 발생해 10건 상당의 승강기 갇힘 신고가 접수됐다. 한국전력공사는 1000~2000세대 규모의 아파트 단지에서 정전이 발생한 것으로 추정하고 있다.&lt;br&gt;&lt;br&gt;부산 수영구는 시민들에게 “남천동 한 변압기가 터져 일대 정전이 발생해 긴급 복구 중”이라는 안전 안내문자를 발송했다. 부산은 14일째 폭염특보가 이어지고 있다.&lt;br&gt;&lt;br&gt;이날 부산지역 낮 최고기온은 32.4도를 기록했다. 현재 기온은 28.6도로 열대야 현상이 발생하고 있다. 한전은 복구 작업과 함께 정확한 피해 규모와 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VKGUV2VQAZLVDMCDHBBFTMUCPY.jpg?width=3000&amp;height=2568&amp;auth=9118e0a2e1e8d736e25dce2c353b0d5ed9a4416e55eb256a443515f488100857&amp;smart=true" type="image/jpeg" height="2568" width="3000">
+        <media:description type="plain">&lt;YONHAP PHOTO-8601&gt; 정전된 광안리 일대
+    (서울=연합뉴스) 1일 오후 8시 20분께 부산 수영구 내 아파트와 상가 일대에 정전이 발생했다. 2024.8.1 [독자 제공. 재판매 및 DB 금지]
+    photo@yna.co.kr/2024-08-01 21:12:28/
+&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">박성제</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“화장실에 갇혔다” 신고 뒤 화재로 40대 남성 숨져</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/01/6Q6XL6HY5JEB3OGETSKVVOTYAY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/6Q6XL6HY5JEB3OGETSKVVOTYAY/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 13:11:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CJDXLXM5LRB3ZEKI5XW42Z5QBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오후 4시 45분쯤 강원도 원주시 흥업면 흥업리의 한 다가구 주택 화재현장에 소방대원들이 진입하고 있다. /강원도소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도 원주시의 한 다가구 주택에서 불이 나 40대 남성이 숨졌다.&lt;br&gt;&lt;br&gt;1일 강원소방본부 등에 따르면 이날 오후 4시 45분쯤 강원도 원주시 흥업면 흥업리의 한 다가구 주택에서 불이 났다는 신고가 접수됐다. 소방당국은 “화장실에 갇혀 있다”는 신고를 받은 뒤 해당 다가구주택에서 40대 남성 A씨를 구조해 병원으로 옮겼지만 숨졌다.&lt;br&gt;&lt;br&gt;불은 같은 날 오후 6시 12분쯤 완전히 진화됐다. 경찰과 소방당국은 2일 합동감식을 통해 사고 원인을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/CJDXLXM5LRB3ZEKI5XW42Z5QBI.jpg?width=1079&amp;height=1439&amp;auth=0f47826eff3b0acaf83c831da464e02a95e9b821df8b611c9b7c0e43f5f0471e&amp;smart=true" type="image/jpeg" height="1439" width="1079">
+        <media:description type="plain">강원 원주 흥업면 원룸 4층 화재 현장.(강원도소방본부 제공)</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘동전 던지기’로 특진 대상자 정한 경찰…“투표는 팀워크 해칠 것 같아서”</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/01/7QTID6Z7ARABLNWNIEHFP2D4GE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/7QTID6Z7ARABLNWNIEHFP2D4GE/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 12:36:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RZL3JMRYFO453JCN4HXIMIZ2MU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기남부경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도의 한 지구대 경찰관들이 ‘동전 던지기’로 특진 대상자를 정해 논란이다. 동일한 성과를 낸 경찰관끼리 우열을 가릴 수 없는 상황에서 벌어진 일이었다고 하지만 특진 제도가 희화화됐다는 지적이 일고 있다.&lt;br&gt;&lt;br&gt;1일 경기남부경찰청에 따르면 수원남부경찰서 인계지구대 A근무팀 소속 같은 계급 직원들끼리 동전던지기를 통해 특진자를 결정했다. 해당 근무팀은 지난달 19일 경찰청 상반기 특진 선발대회에서 전국 2등으로 입상해 경위 이하 계급 총 6명의 특진 권한이 주어졌다.&lt;br&gt;&lt;br&gt;하지만 A근무팀에 동일 계급 직원이 여러명 있었고 같은 계급인 B씨와 C씨가 각각 외근과 내근 업무에서 두각을 나타내 누가 더 높은 성과를 냈는지 판단하기 어려웠던 것으로 전해졌다. 이에 두 직원은 일부 직원이 보는 앞에서 동전던지기를 해 특진자를 정했다고 한다.&lt;br&gt;&lt;br&gt;특진 선발대회는 지구대 등에서 근무하는 경찰관 역량을 높이기 위해 지난해 도입됐다. 하지만 동전 던지기로 특진 대상자를 정하는 일까지 벌어져 직원간 갈등이 일고 있다는 내부 비판도 나온다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “특진 규정상 후보가 여러 명일 경우 어떻게 선정하는지에 대한 기준이 없어 갈등 요소가 되고 있다”며 “투표를 통해 결정하는 방안도 고려했지만 직원간 팀워크를 해칠 것 같아 그러지 않았다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RZL3JMRYFO453JCN4HXIMIZ2MU.jpg?width=640&amp;height=427&amp;auth=1c36284c1b45163958220d46e0952a8715ac0e4afb6ad56ae29cc70f8c971636&amp;smart=true" type="image/jpeg" height="427" width="640">
+        <media:description type="plain">경기남부경찰청 전경. (경기남부경찰청 제공) 2024.7.23/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>전남 순천 교각 공사현장에서 거푸집 추락으로 근로자 숨져</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/01/RFHMXHKY2NHSZFWSESOVFZPWL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/RFHMXHKY2NHSZFWSESOVFZPWL4/</guid>
+      <dc:creator>순천=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 10:58:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LKKUECKOTZLE4Y7NVKYYLCWQDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 순천의 교각 설치공사 현장에서 근로자가 거푸집에 깔려 숨졌다.&lt;br&gt;&lt;br&gt;1일 순천경찰서 등에 따르면 이날 오후 1시 49분쯤 전남 순천시 주암면의 한 교각 설치공사 현장 크레인에서 떨어진 거푸집에 근로자 A(66)씨가 깔렸다. A씨는 심정지 상태로 병원으로 옮겨졌지만 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 거푸집 고정장치가 풀리면서 사고가 난 것으로 추정하고 있다. 경찰은 공사현장 관리자 등을 상대로 안전관리 준수 여부 등을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/LKKUECKOTZLE4Y7NVKYYLCWQDE.jpg?width=2012&amp;height=1276&amp;auth=ae2f984b31640660e9497af41e5f33f286ffd7399326803079fa8c99bf8fbba5&amp;smart=true" type="image/jpeg" height="1276" width="2012">
+        <media:description type="plain">경찰 로고./뉴스1 ⓒ News1 신채린 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 신채린 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>택시기사 폭행 영상 올리고 수사기관 조롱 유튜버 법정행</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/01/UN53QI6BP5CIZNYC3TESJTULFU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/UN53QI6BP5CIZNYC3TESJTULFU/</guid>
+      <dc:creator>정읍=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 10:31:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DBTGZ7PET4VKGH5SOYLCJFAP4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유튜브 구독자를 끌어모으려고 아버지뻘 택시 운전기사를 폭행한 영상을 올렸던 20대 유튜버가 폭행 등 또다른 범죄를 일삼아 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;전주지검 정읍지청은 1일 상해 및 특수폭행, 특수협박, 성폭력처벌법 위반 등 혐의로 A(27)씨를 구속기소 했다고 밝혔다. A씨는 지난 1월부터 4월 사이 음식점 등에서 다른 손님들에게 깨진 유리컵을 던지고 의자를 휘두른 혐의를 받고 있다. 또 성폭행 피해 여성과 성관계 영상을 소셜네트워크(SNS)에 올렸던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 지난 2월 전주고속버스터미널 인근에서 택시기사를 폭행한 영상을 올리고 자신의 유튜브 채널을 홍보해 공분을 샀었다. 검찰은 A씨가 검찰 조사 중에도 수사기관을 조롱하는 영상을 자신의 유튜브 채널에 게시했다고 전했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “범죄행위를 소재로 수익을 창출하려는 행위에 대해 법과 원칙에 따라 엄정히 대응할 방침”이라며 “피고인에게 죄에 상응하는 형이 선고될 수 있도록 공소 유지에 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/DBTGZ7PET4VKGH5SOYLCJFAP4E.jpg?width=6276&amp;height=2970&amp;auth=a8663c7181dd2bdaf11511b30360046e84fa1a756ab7c642b81a207f99089497&amp;smart=true" type="image/jpeg" height="2970" width="6276">
+        <media:description type="plain">검찰로고. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>박은혜 집 안서 뱀 허물이… “뱀 어디 숨었는지 몰라, 소름”</title>
       <link>https://www.chosun.com/national/national_general/2024/08/01/PHG725SD4JFXFCYQ5UDY6YF6Y4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/PHG725SD4JFXFCYQ5UDY6YF6Y4/</guid>
@@ -854,24 +948,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전처(前妻)가 남자친구가 생겼다는 이유로 둔기로 폭행한 40대 남성이 경찰에 붙잡혔다. 경찰은 살해 의도가 있었다고 판단해 살인미수 혐의로 입건해 조사 중이다.&lt;br&gt;&lt;br&gt;31일 전북 군산경찰서는 전처와 그의 남자친구를 둔기로 때린 혐의(살인미수)로 40대 A씨를 붙잡아 조사 중이다.&lt;br&gt;&lt;br&gt;A씨는 지난 29일 오후 7시쯤 군산시 지곡동의 한 원룸에서 전처인 B씨(30대)와 그의 남자친구를 둔기로 때려 다치게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 올해 초 B씨와 이혼했는데, 전처 B씨에게 새 남자친구가 생긴 사실을 알게 되자 술을 마신 상태로 둔기를 챙겨 B씨 자택으로 찾아간 것으로 조사됐다.&lt;br&gt;&lt;br&gt;전처와 그의 남자친구는 머리 등을 크게 다쳤지만, 다행히 생명에 지장이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “살해하려는 의도가 있었다고 보고 A씨에게 살인미수 혐의를 적용했다”며 “현재 구속영장이 청구된 상태”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>전국 곳곳에 폭염 경보... 강릉은 밤에도 최저 30도</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/07/31/ZIVJJIYVMBAGTLUHJMHWEM4GXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/07/31/ZIVJJIYVMBAGTLUHJMHWEM4GXI/</guid>
-      <dc:creator>김윤주 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 11:56:12 +0000</pubDate>
-      <content:encoded>장마가 종료되고 전국에 30도 중후반을 오가는 불볕더위가 본격화되고 있다. 31일 서울 전역에는 폭염 경보가 내려졌다. 이날 서울의 낮 최고기온은 33도까지 올랐고 강원 강릉 37도, 광주 34도, 대구 36도 등 전국 대부분이 35도 안팎을 기록했다. 강원 태백과 제주 산지를 제외한 전국 대부분 지역에 폭염 특보가 발령되는 등 타는 듯한 더위가 이어졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2DT6BPKQUBCJJE5ST7XB42FCZM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청은 “당분간 전국에서 무더위와 열대야가 계속될 것”이라고 했다. 1일 대구와 강릉의 낮 최고기온은 36도로, 서울은 33도로 예보됐다.&lt;br&gt;&lt;br&gt;밤에도 기온이 25도 밑으로 떨어지지 않는 열대야도 당분간 이어질 전망이다. 강원 강릉은 1일 최저기온이 30도로 예보됐다. 밤에도 기온이 30도 이상을 보이는 ‘초열대야’가 나타날 가능성이 높다는 것이다. 올해 7월 1일부터 30일까지 전국 평균 열대야 일수는 8.1일로 나타나 1973년 기상 관측 이래 7월 최대 열대야 일수인 1994년(8.5일)을 넘어설 가능성이 크다.&lt;br&gt;&lt;br&gt;수치상으로 나타나는 기온에 더해, 생활과 작업 환경 등에 따른 ‘생활 기온’에 유의할 필요가 있다는 지적이 나온다. 기상청은 “연령 혹은 환경에 따른 체감 온도는 실제 기온보다 더 높을 수 있다”고 했다. 노인과 어린이는 더위에 취약하다. 자동차 안에서는 체감 온도가 31~32도만 돼도 질식 위험이 커진다.&lt;br&gt;&lt;br&gt;농촌 지역은 더위를 피할 시설이 많지 않아 체감 온도가 더 높다. 31일 경남 일부 지역에선 비닐하우스 내 온도가 40도를 넘었다. 도시에 있더라도 도로나 건설 현장 근처에서는 더 덥다고 느낀다. 이날 오후 2시 도로에서 체감하는 온도는 서울 34.9도, 인천 35.6도 등 기온보다 2~3도 높았다. 기상청은 “기상청 홈페이지에 제공되는 ‘상황별 체감 온도’를 참고하면 온열 질환 예방에 도움이 된다”고 했다.&lt;br&gt;&lt;br&gt;질병관리청에 따르면, 지난 5월 20일부터 7월 29일까지 전국에서 1051명의 온열 질환자가 발생했다. 이 중 309명(29.4%)이 야외 작업장, 188명(17.9%)이 논밭에서 발생했다. 고용노동부는 “오후 2~5시 사이에는 야외 작업을 자제해달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>행안부, 폭염 위기경보 ‘심각’ 단계 발령</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/31/PXXCZ5BU7RCU5JIOC7YJH7XCOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/31/PXXCZ5BU7RCU5JIOC7YJH7XCOY/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 11:38:09 +0000</pubDate>
-      <content:encoded>행정안전부는 31일 폭염 위기경보 수준을 ‘심각’ 단계로 상향하고, 이날 오후 7시부로 중앙재난안전대책본부 1단계를 가동한다고 밝혔다. ‘심각’ 단계는 폭염 위기경보 중 가장 높은 단계다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VHMXUU4WHV3ZG3VMO4EZRDSW6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국 대부분 지역에 폭염특보가 내려진 31일 서울 종로구 광화문네거리 인근에서 한 시민이 부채로 햇빛을 가리며 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행안부에 따르면 이날 전국 대부분 지역에 폭염특보가 발령됐다. 지난 30일 기준 폭염으로 인한 온열질환자도 1100명이 발생했다. 이 중 5명이 사망했다.&lt;br&gt;&lt;br&gt;행안부 관계자는 “당분간 전국적으로 무더위와 열대야가 지속될 것으로 보인다”며 “범정부 차원에서 폭염 피해 예방을 위해 중대본을 가동하고 총력 대응하기로 했다”고 말했다.&lt;br&gt;&lt;br&gt;이번 폭염 위기경보 단계 상향은 지난 21일 행안부가 ‘경계’ 단계를 발령한 지 열흘 만이다. 폭염 위기경보 단계는 관심-주의-경계-심각 순이다. 심각 단계는 전국 40% 지역에서 일 최고 체감온도가 3일 이상 35도를 넘을 것으로 예상될 때 발령된다.&lt;br&gt;&lt;br&gt;중대본은 폭염에 취약한 고령 농·어업인이나 현장 근로자 등이 피해를 입지 않도록 관계 부처와 지자체가 총력 대응할 것을 지시했다.&lt;br&gt;&lt;br&gt;이상민 중대본부장은 “국민 여러분들도 햇볕이 뜨거운 낮 시간대에는 외부 활동을 최대한 자제해 달라“며 “수분을 충분히 섭취하는 등 행동 요령에 따라 건강을 최우선으로 챙겨주실 것을 당부한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘쇼미 프로듀서’ 유명 래퍼, 공원서 행인 폭행… 경찰 조사</title>
       <link>https://www.chosun.com/national/national_general/2024/07/31/XLUCKY42VVEFDILMHWXICXDN54/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/31/XLUCKY42VVEFDILMHWXICXDN54/</guid>
@@ -881,15 +957,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJACOCQWWU5QCEDLXLXU6WACM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 유명 래퍼가 행인을 폭행했다는 신고가 접수돼 경찰이 조사에 나섰다.&lt;br&gt;&lt;br&gt;서울 마포경찰서는 유명 래퍼 정모(39)씨가 행인을 폭행했다는 신고를 접수하고 입건 전 조사(내사)에 착수했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면, 래퍼 정씨는 지난 28일 오후 8시 30분쯤 서울 마포구의 한 공원 입구에서 행인에게 “자전거를 똑바로 끌고 가라”는 취지로 말하며 휴대전화 등을 이용해 폭행한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;피해자는 “눈 인근이 찢어지고 치아 일부가 손상됐다”고 주장하고 있다고 한다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 현장에서 기초 조사를 한 뒤 둘을 돌려보냈다. 경찰 관계자는 “현재 사실관계를 확인 중에 있다”며 “향후 입건 여부를 결정하고, 입건이 되면 피의자 조사를 진행할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;래퍼 정씨는 2008년 유명 엔터테인먼트에 영입돼 2010년 데뷔곡을 내며 가요계에 첫발을 내디뎠다. 이후 유명 오디션 프로그램 ‘쇼미더머니’ 프로듀서로도 활약했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>檢, '국정원 산하 기관 특혜 채용 의혹' 서훈 전 국가안보실장 불기소</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/31/5JFSDNQDYRF5RGJSYLK4ZMRP5Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/31/5JFSDNQDYRF5RGJSYLK4ZMRP5Y/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 10:42:57 +0000</pubDate>
-      <content:encoded>문재인 전 대통령 대선 캠프 인사가 국가정보원 산하 국가안보전략연구원(전략연)에 특혜 채용됐다는 의혹을 수사해 온 검찰이 서훈 전 국가안보실장에 대해 ‘무혐의’로 불기소 처분을 내렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q646RHFC6XV67A7LSUVWDF6SQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서훈 전 국가안보실장이 8일 오전 서울 서초구 서울중앙지방법원에서 열린 '탈북어민 북송 사건' 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공공수사1부(부장 이찬규)는 서 전 실장의 업무방해‧국정원법상 직권남용 혐의에 대해 31일 ‘혐의없음’ 처분했다고 밝혔다. 검찰은 “채용 과정에서 법령·규정의 위배를 인식했다고 단정하기 어렵고 실무자들의 자유의사를 제압할 만한 위력을 행사했다는 증거가 부족한 점 등을 고려했다”며 불기소 처분 이유를 설명했다.&lt;br&gt;&lt;br&gt;서 전 실장은 2017년 8월 문 전 대통령의 대선후보 시절 캠프 인사였던 조모씨를 전략연 연구기획실장으로 특혜 채용한 혐의를 받았다. 검찰은 지난달 서 전 실장을 피의자 신분으로 소환해 조사한 뒤 법리 검토 등을 거쳐 혐의가 인정되지 않는다고 결론 내렸다. 검찰은 서 전 실장이 조씨를 해당 직책에 추천한 것은 맞지만, 조씨가 ‘자격 미달’인 점을 알고도 채용했다고 보기 어렵고, 실제로 그가 자격 미달인지도 불명확하다고 판단했다고 한다.&lt;br&gt;&lt;br&gt;다만 특혜 채용 당사자로 지목됐던 조씨는 별개의 횡령 등 혐의로 이날 불구속 기소됐다. 검찰에 따르면 조씨는 전략연 연구개발적립금 등 9억4115만원을 개인 용도로 사용한 혐의(특정경제범죄가중처벌법상 횡령), 타인 명의로 현직 국회의원 후원회에 300만원을 제공한 혐의(정치자금법 위반), 전 국가안보실 행정관 고모씨에게 2년간 4345만원의 금품을 제공한 혐의(청탁금지법 위반)를 받는다. 금품을 받은 고씨도 청탁금지법 위반 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;국정원은 자체 감사에서 특혜 채용 및 조씨의 횡령 정황을 확인하고 작년 초 경찰에 수사를 의뢰했다. 경찰은 지난해 7월 검찰에 사건을 송치했다. 경찰은 지난해 5월 조씨에 대해 구속영장을 신청했으나 법원에서 기각된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BKKMOYQGCMX4PCDFK6JZIYXSXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박지원 더불어민주당 의원. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 검찰은 함께 수사 의뢰된 박지원 전 국정원장의 채용 비리 혐의에 대해서는 계속 수사 중이다. 박 전 원장은 자신의 보좌관 등으로 일한 강모씨와 박모씨가 전략연 연구위원으로 취업하는 데 부당하게 영향력을 행사한 혐의를 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] PC 침투→거점 확보→데이터 유출… 北의 법원 해킹 수법</title>
       <link>https://www.chosun.com/national/court_law/2024/07/31/AQW324ZTRNCZHE24QMSMNW3GRE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/31/AQW324ZTRNCZHE24QMSMNW3GRE/</guid>
@@ -897,55 +964,6 @@
       <description/>
       <pubDate>Wed, 31 Jul 2024 08:55:38 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F665GKMKUVLPPD3C2N5VJLAOLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지법. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한 해커조직 ‘라자루스’의 해킹으로 재판 기록 자료가 유출된 사실이 드러나자 법원이 뒤늦게 대형 보안 업체에 재발 방지를 위한 점검을 맡기고 예방 컨설팅을 받았다. 보안 업체가 법원 서버와 PC를 조사해 작성한 보고서에는 북한의 해킹 시도가 조직적∙단계적으로 치밀하게 이뤄진 정황이 담겨 있었다.&lt;br&gt;&lt;br&gt;본지가 31일 박지원 더불어민주당 의원실을 통해 입수한 SK쉴더스의 ‘대법원 침해사고 조사 최종 보고’에 따르면, 2021~2023년 북한 라자루스의 법원 전산망 해킹은 크게 네 단계에 걸쳐 진행된 것으로 추정된다. 첫 번째는 법원행정처 내부로의 ‘침투’다. 북한 해커들은 미국과 한국 아이피(IP) 11개를 활용해 법원 PC로 접근했다. 특정 웹사이트에 접속하면 악성 코드가 심어지는 이른바 ‘워터링 홀(watering hole)’ 수법과, 악성 코드가 첨부된 문서를 일반 문서로 위장해 ‘피싱 메일’로 담아 보내는 방식 등을 활용해 PC를 감염시켰을 가능성이 있다고 한다.&lt;br&gt;&lt;br&gt;다만 북한이 최초로 침투한 단말기(端末機)나 시점 등은 확인되지 않는다고 SK쉴더스 측은 밝혔다. 앞서 경찰청 국가수사본부와 국가정보원, 검찰청의 합동 조사에서도 최초 침입 시점은 확인되지 않았다.&lt;br&gt;&lt;br&gt;북한 해커들은 두 번째 단계로 법원 내부 서버에 ‘거점’을 만들었다. 해커들은 공격 명령과 제어를 가능하게 하는 ‘C2 서버’를 2021년 3월 이전 구축한 것으로 조사됐다. 이를 통해 각종 계정 및 네트워크 정보를 수집한 것으로 추정된다. 세 번째로, 해커들은 거점을 바탕으로 법원 내부 곳곳을 파고들어 악성코드를 심었다. 이들이 청주지법 파일 서버에 백도어(해킹 프로그램)를 생성하거나, 서버에 악성코드를 심은 흔적이 확인됐다.&lt;br&gt;&lt;br&gt;마지막으로 북한 해커들은 이렇게 장악한 법원 전산망과 PC를 통해 2년 넘게 각종 자료를 빼돌렸다. 내부 서버에서 외부망 PC로 최소 369기가바이트(GB)의 데이터가 유출된 사실이 확인됐다. 또 서버나 업무용 PC에서 약 53.5GB 파일을 직접 다운로드한 것으로 나타났다. SK쉴더스는 “C2 서버와의 통신 기간과 악성 행위의 타임라인에 비춰봤을 때, 이전 시점에도 침해가 있었을 것으로 판단된다”고 밝혔다. 경찰이 지난 5월 발표한 총 해킹 피해 규모는 1014GB였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XKQIKSCFZRAALEM7R3JAQ5MO3Y.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;‘대법원 침해사고 조사 최종 보고서'에 담긴 북한 해커조직 '라자루스'의 법원 전산망 해킹 방식. /박지원 의원실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SK쉴더스는 해킹 재발 방지를 위해 단기적으로는 법원이 사용하는 패스워드 복잡도를 높이고, 행위 기반 탐지(EDR) 설루션을 도입하는 등의 조치를 취해야 한다고 권고했다. 또 법원 서버의 방화벽 정책을 강화하고 최신 운영체제(OS)로 업그레이드해야 한다고 제안했다.&lt;br&gt;&lt;br&gt;이번 법원 전산망 조사는 올해 2월 중순부터 약 한 달간 진행됐다. 올해 5월 나온 정부 합동 조사 결과와는 별도로 법원이 자체적인 차원에서 진행한 것으로 알려졌다. 법원행정처 관계자는 “보고서를 받은 후 보안을 강화하기 위한 여러 후속 조치를 취하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;박지원 의원은 “대통령실을 비롯한 여러 정부 부서에서 해킹∙도청 의혹이 불거진 상황에서 북한에 의한 법원 전산망 해킹은 예견된 참사였다”며 “소 잃고 외양간 고치는 심정으로라도 철저히 정부의 보안 시스템과 의식을 점검해야 할 것”이라고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘집단 유급’ 한 달 남았지만 의대생 요지부동... “플랜B 만들어야”</title>
-      <link>https://www.chosun.com/national/education/2024/07/31/FU644CR5DVD6TMN5SYGJ6LRT7A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/07/31/FU644CR5DVD6TMN5SYGJ6LRT7A/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 09:15:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OSUI3SENDDX7HI5ZKKSCFKEKSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;교육부가 의대 증원에 반발하며 수업을 거부하고 있는 의대생들의 유급 방지대책을 발표한 10일 서울 시내 한 의과대학의 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 의대생 복귀를 위해 특혜 논란을 감안하며 각종 유급 방지 대책을 내놨지만, 의대생들은 돌아올 기미를 보이지 않고 있다. 대학가에서는 “선배인 전공의가 복귀하지 않으면 의대생은 돌아오지 않는다”며 사실상 복귀를 포기하는 분위기도 감지된다. 이제 교육부가 유화책이 아니라 현실적인 ‘플랜B’를 내놓을 때라는 것이다.&lt;br&gt;&lt;br&gt;31일 대학가에 따르면 교육부가 지난 10일 의대생 복귀 독려를 위한 ‘의대 학사 탄력 운영 가이드라인’을 내놨지만, 복귀 의사를 밝힌 의대생은 극소수다. 교육부는 학기 단위로 운영되는 학사 일정을 학년 단위로 바꾸고, 1학기 때 듣지 못해 원래 F학점을 받아야 할 과목에 ‘I(Incomplete·미완)학점’을 주는 등의 방식으로 9월 이전에 의대생이 수업에 복귀하면 정상 진급할 수 있도록 하라고 각 대학에 권고했다.&lt;br&gt;&lt;br&gt;각 대학은 교육부 발표 이후 재차 의대생 복귀를 설득하고 나섰지만 성과를 거둔 것은 없다. 한 지방거점국립대 총장은 “복귀가 시급한 1학년 학생을 위주로 만나며 호소하고 화도 내보며 설득했지만 전공의 등 선배들이 돌아오지 않는 한 이들이 복귀할 수 있는 구조가 아니다”라고 했다. 의대 예과 1학년 학생들이 오는 9월까지 돌아오지 않아 집단 유급할 경우, 내년에는 이들과 신입생을 합해 약 7500명이 한꺼번에 수업을 듣는 사태가 벌어질 수 있다.&lt;br&gt;&lt;br&gt;교육부는 강의실에 돌아가기를 원하는 의대생이 일부 있기 때문에 이들을 위해서라도 9월까지는 기다려야 한다는 입장이다. 교육부 관계자는 “가이드라인 발표 이후 아직 각 대학이 규정 개정을 진행하고 있는 상황이고, 아직 한 달여 기간이 남은 만큼 상황을 더 지켜봐야 한다”고 했다. 그러나 복귀를 희망하는 학생이 있더라도 실제 돌아오기는 쉽지 않은 상황이다. 이달 의료계에 복귀 전공의와 의대생들의 신상을 공개하는 텔레그램 방이 만들어져 이들이 ‘배신자’로 낙인이 찍히는 등 두고두고 불이익을 받을 수 있다는 우려 때문이다.&lt;br&gt;&lt;br&gt;대학가에서는 교육부가 학생들의 휴학을 승인하든, 각 대학에 유급을 지시하든 결정하고 ‘플랜B’를 내놔야 할 때라는 얘기가 나온다. 한 지방 사립대 총장은 “내년 한 학년에 7500명이 수업을 동시에 듣게 되면 감당할 수 있는 대학은 사실상 없다”며 “과목별 정원을 정해 신입생이 우선 수강 신청을 할 수 있게 하고, 무조건 유화책이 아니라 동맹 휴학을 주도한 학생은 징계하는 등 원칙에 맞는 대책을 내놔야 할 때”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/OSUI3SENDDX7HI5ZKKSCFKEKSY.jpg?width=5000&amp;height=3160&amp;auth=02360be24d18be1933bd86af98dbf26f925d7538ef0f34e22504b0377ead0c48&amp;smart=true" type="image/jpeg" height="3160" width="5000">
-        <media:description type="plain">교육부가 의대 증원에 반발하며 수업을 거부하고 있는 의대생들의 유급 방지대책을 발표한 10일 서울 시내 한 의과대학의 모습. /연합뉴스 제공</media:description>
-        <media:credit role="author" scheme="urn:ebu">연합뉴스 제공</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>정몽규 자서전서 논란에 대해 “협회는 오해에 의해 욕먹는 경우가 많다”</title>
-      <link>https://www.chosun.com/national/people/2024/07/31/XHEX7XJLOJHLJNL4N4LJIHHRYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/07/31/XHEX7XJLOJHLJNL4N4LJIHHRYQ/</guid>
-      <dc:creator>양승수 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 08:20:14 +0000</pubDate>
-      <content:encoded>대한축구협회 정몽규 회장이 축구협회를 둘러싼 논란에 대해 직접 펴낸 자서전으로 입을 열었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RBJ22NWVJBLPVHDUSLGJCSWMWI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;30일 서울 종로구 교보문고에 정몽규 대한축구협회 회장의 회고록 ‘축구의 시대’가 출간돼 판매되고 있다. ‘축구의 시대’는 정 회장이 축구 인생 30년을 되짚어 보며 작년 여름부터 집필한 책이다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘축구의 시대-정몽규 축구 30년’에는 아시안컵 요르단전 참패, 감독 선임 논란, 사면 파동 등 축협을 둘러싼 논란에 대한 정몽규 회장의 소회가 담겼다. 정 회장은 “12년 동안 대한축구협회장으로 일하면서 여러 가지 논란에 휩싸였다. 잘못된 판단에 대한 질책도 있었고 오해에서 비롯된 공격도 있었다”면서 “때로는 아프게 반성한 적도 있었고, 간혹은 악의에 찬 왜곡에 서운한 적도 있었다”고 적었다. 정 회장은 2013년 1월 제52대 대한축구협회 회장으로 당선돼 2016년 6월까지 3년 6개월 동안 첫 임기를 성공적으로 수행했다. 그리고 2016년 7월부터 2021년 1월까지 4년6개월간 제53대 회장으로 활동했다. 또한 2021년 1월부터 현재 2024년 7월에 이르기까지 제54대 회장 임기를 보내고 있다.&lt;br&gt;&lt;br&gt;◇결승 무산에 나도 의아… 원팀 균열 문제&lt;br&gt;&lt;br&gt;정몽규 회장은 2023 아시아축구연맹(AFC) 아시안컵에서 선수 간 하극상 논란 속에 4강 탈락의 고배를 마신 축구대표팀을 보면서 “카타르에 도착한 날 저녁에 선수들에게 원팀이 되지 못하면 절대 우승할 수 없으며, 훌륭한 선수보다는 원팀이 되는 것이 우선이라고 강조했다. 하지만 이때까지만 해도 대표팀이 결국 원팀이 못 되고 내부 균열이 벌어져 결승 진출이 무산되리라고는 상상도 하지 못했다”고 돌아봤다.&lt;br&gt;&lt;br&gt;당시 대표팀은 이후 대회 준결승에서 요르단에 0-2로 완패해 64년 만의 우승 꿈이 깨졌다. 정 회장은 “(요르단전이) 너무 무기력한 경기력이어서 나 역시 의아한 마음으로 숙소에 돌아왔다. 경기가 끝나고 숙소에 돌아와서 너무도 놀라운 소식을 듣게 됐다. 경기 전날 저녁 식사 시간대에 손흥민 선수와 이강인 선수가 몸싸움을 벌였고 이 과정에서 손흥민의 손가락이 탈골돼서 붕대를 감싼 상태로 경기를 할 수밖에 없었다고 했다. 또 경기 당일 주장 손흥민을 제외한 일부 고참 선수들이 클리스만 감독을 찾아와 이강인을 출전 선수명단에서 빼달라고 요구했다는 것이다. 경기를 준비하기 위해 숙소를 출발하기 두 시간 전쯤이었다고 한다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “클리스만 감독이 고참들에게 ‘지금 이강인을 빼면 이강인 뿐만 아니라 너희들에게도 평생 후회하는 일이 될 것이다. 만약 이강인이 경기장에서 제대로 플레이하지 못 하거나, 최선을 다하지 않는다면 내가 30분 안에라도 곧장 교체하겠다’고 설득했다고 한다. 이 경기에서 이강인은 풀타임으로 뛰었다”며 “이런 정황을 듣고 나니 요르단전이 왜 그렇게 무기력했는지에 대해서는 일단 이해가 됐다”고 적었다. 그러나 언론에 알려진 것에 대해서는 “저녁 식사 시간대에 상황이 벌어져서 선수와 스태프, 호텔 직원 등 목격자가 거의 70명 정도였다고 한다. 보안을 철저히 하라고 당부했지만 워낙 목격자가 많아 알려지는 것은 시간문제라고 판단됐다”고 설명했다.&lt;br&gt;&lt;br&gt;결국 위르겐 클린스만 감독은 아시안컵 부진의 책임을 지고 경질됐다. 클린스만 감독에 대해선 “선수들이 각자 스스로 프로페셔널 해야 한다고 확고한 소신이 있었다”라며 “감독은 대등한 관계 속에서 선수들을 존중하면서 이들이 경기장에서 가장 좋은 퍼포먼스를 펼치도록 도와주는 것이 임무이자 업무라고 판단하는 스타일이었다. 그래서 평소 생활이나 숙소에서의 활동, 식사 시간 등은 최대한 자유롭게 해주려고 했던 것 같다”고 했다.&lt;br&gt;&lt;br&gt;◇감독 선임 논란… 팬들 오해로 욕먹고 비난 받아&lt;br&gt;&lt;br&gt;정 회장은 감독 선임에 대해서도 상세히 적으면서, 팬들의 오해에 의해 욕을 먹는다며 아쉬움을 표했다. 정 회장은 “카타르 본선을 이끌었던 벤투 감독은 4년 이상 대표팀을 이끈 국내 최장수 국가대표팀 지도자였다. 협회도 그동안의 성과를 충분히 인정해 본선에 나가기 전 연장 계약을 제시했다. 그때가 6월경이었는데 당시만 해도 2023년 9월에 중국에서 열릴 예정이었던 아시안컵까지 일단 연장한 뒤 다시 재계약을 논하는 방안이었다”고 했다.&lt;br&gt;&lt;br&gt;그러나 “벤투는 그런 방식의 계약은 자기 철학과 맞지 않아 곤란하다며 무조건 다음 월드컵까지 4년 단위의 재계약을 원했다. 그래서 벤투에게 9월 A매치 기간까지 본인의 연임 가능 여부를 알려 달라고 했는데, 벤투는 그 기간 중에 협회보다 대표팀 선수들에게 카타르 월드컵을 마치고 한국을 떠나겠다는 의사를 먼저 표명했다. 협회는 자연스럽게 카타르 월드컵 이후의 감독 선임에 대한 고민과 준비를 하게 됐다”면서 “이런 사정을 모르는 일부 팬들이 16강의 성과를 거둔 벤투 감독과 재계약하지 않았다면서 협회를 비난했다. 협회는 이런 식으로 오해에 의해 욕먹는 경우가 상당히 많다”고 했다.&lt;br&gt;&lt;br&gt;벤투 사임 이후 3달여 만인 지난해 2월 27일 위르겐 클린스만 감독이 선임됐다. 정 회장은 “클린스만 감독과 내가 이전부터 개인적 친분이 두터웠고, 카타르 월드컵 이후 새 감독을 물색하는 과정에서 내가 클린스만을 사실상 낙점해 계약했다고 생각하는 듯하다. 일부는 맞고, 일부는 틀리다. 팩트 또는 그에 가까운 일부분과 자신들이 추정하는 부분을 합성하여 마치 모든 것이 사실인 것처럼 주장하는 것은 옳지 않다”면서 “클린스만과 이전부터 아는 사이였던 것은 맞다. 미국 캘리포니아에 있는 오래된 지인이 클린스만과 잘 아는 사이였다. 지인과 클린스만의 딸들이 학교 과외 활동으로 승마를 같이 했고, 학부모로 교류를 하다 보니 친해졌다고 한다. 클린스만의 아들이 한국에서 열린 U-20 월드컵에 미국대표팀 골키퍼로 출전하게 됐는데, 서울에 왔을 때 한번 만나보면 어떠냐며 소개해쳤다. 이를 계기로 안면은 텃지만 한동안 연락이 없다가 카타르 월드컵 기간 중 재회했다. 클린스만은 FIFA TSG(Technical Study Group: 기술연구그룹)의 일원으로 카타르에 와있었고, 차두리도 이 그룹의 멤버였다”고 했다. 그러면서 “그는 대회 현장에서 만난 나에게 “한국 대표팀 감독에 관심이 있다”고 말했다. 매우 적극적인 차세여서 나도 깜짝 놀랄 정도였다. 후보 리스트 작업을 하면서 단계별로 후보를 줄여 나갔고, 5명의 최종 후보 리스트가 만들어졌을 때 1순위가 클린스만이었다”며 “결국 1순위였던 클린스만 감독과 먼저 협상하는 것으로 결론이 났고 그와 합의에 도달했다. 처음 제시한 연봉 조건이 낮은 수준이었는데, 그가 바로 받아들였다. 아마도 클린스만에게 절실한 것은 연봉보다는 ‘북중미 월드컵에 도전할 수 있는 기회의 장‘이 아니었나 판단됐다”고 돌아봤다.&lt;br&gt;&lt;br&gt;◇사면 파동… ‘용서하지 못하면 사랑도 못해’&lt;br&gt;&lt;br&gt;사면 파동에 대한 내용도 담겼다. 지난해 3월 대한축구협회가 승부조작 축구인에 대한 사면을 발표, 3일 만에 번복한 사건이다. 당시 정 회장은 “카타르 월드컵에서 16강 진출에 성공한 뒤 한국 축구를 위해서 새로운 전기를 만들고 싶었다. 미래를 준비하면서 과거의 잘못으로 징계 받았던 축구인들 가운데 충분히 벌을 받은 이들에게는 동참하고 봉사할 기회를 주면 좋겠다는 의견들이 있었다. 그래서 협회 내 ‘사면검토 실무위원회’를 구성한 게 2023년 2월 7일이었다”고 했다. 그러면서 “사면이 확정된 것은 3월 28일 이사회 의결을 통해서였다. 곧바로 보도자료를 통해서 언론에 발표했다. 이후 엄청난 후폭풍이 몰려왔다. 협회의 사면 결정에 대해서 팬들과 언론이 강하게 반대했다. 반대의 강도는 상상하기 힘들 정도로 셌다. 결국 3일 만에 다시 임시 이사회를 열어 사면 결정을 철회했다. 이후 사면 결정에 참여했던 이사진이 전원 사퇴하는 초유의 일이 벌어졌다. 이것이 이른바 ‘사면 파동’이었다”고 돌아봤다.&lt;br&gt;&lt;br&gt;사면 파동에 대해 “용서하지 못하는 자는 사랑도 못 한다”고 적었다. 정 회장은 “요즘은 아이돌 스타도 학창 시절의 ‘학원폭력’ 논란으로 퇴출되는 세상이다. 과거의 크고 작은 잘못들이 SNS를 통해서 모두 폭로되고, 거기에 따른 사회적 응징을 받는다. 한 번 셀럽이 되면 그들의 과거사가 SNS로 모두 검증받는 세상이 됐다. 그들의 지인이나 유튜버들이 과거의 어떤 잘못도 그냥 넘어가주지 않는다”면서 “나는 승부조작 사태를 직접 겪었기에 이때의 구체적 정황을 자세히 알고 있는 사람 가운데 한 명이라고 할 수 있다. 외부에 알려지지 않았던 내막도 알만큼 알고 있다. 이런 사건의 성격상 완전한 적발과 척결은 있기 힘들다. 당시 연루돼 처벌받았던 사람들이 관련자의 전부가 아닐 수도 있다는 뜻이다”라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “어린 시절 상당히 부조리한 구조 속에서 성장했던 점, 그로부터 기인한 도덕적 불감증, 축구계의 다양한 모순 구조 등이 선수들을 승부조작이라는 유혹에 빠지게 한 주요한 원인이었다고 할 수 있다. 그런데 이런 환경 요소들은 빼놓고 그들만을 축구계에서 단절시키는 것만으로 어른들의 책임을 다했다고 하는 것은 위선적 측면이 있었다”면서 “결과적으로 사면심사위원회의 판단과 일반 팬들의 눈높이에 큰 차이가 있었다. 사면을 고민했던 ‘진의’를 제대로 전달하지 못한 아쉬움이 있는 것도 사실이다. 결과적으로 그 판단은 사려 깊지 못했다. 좀 더 숙고하고 각계의 의견을 충분히 들었어야 했다. 한층 엄격해진 도덕 기준과 팬들의 높아진 눈높이도 헤아렸어야 했었다”고 돌아봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>양재웅 친형 양재진, SNS 비공개 전환... 환자 사망 사건 여파?</title>
-      <link>https://www.chosun.com/national/people/2024/07/31/35R7GIBV2NCWHM5JKXTAQGLMSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/07/31/35R7GIBV2NCWHM5JKXTAQGLMSQ/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 08:13:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PWSJ7IJD3VBCPEQ3N4RNZJPTIY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;과거 SBS '집사부일체'에 출연한 양재진(50·왼쪽)과 양재웅(42)./SBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유명 정신과 의사 양재웅(42)의 친형인 양재진(50)이 자신의 소셜미디어 계정을 비공개로 전환했다. 양재진과 양재웅은 여러 예능 프로그램에 출연한 정신건강의학과 의사 형제다.&lt;br&gt;&lt;br&gt;31일 현재 오후 5시 기준 양재진은 인스타그램 계정을 비공개로 바꿨다. 동생 양재웅이 대표 원장으로 있는 병원에서 환자가 사망한 사건과 관련해 악성 댓글이 쇄도한 데 따른 것으로 추정된다.&lt;br&gt;&lt;br&gt;앞서 경기 부천 원미경찰서 등에 따르면, 양재웅이 대표 원장으로 있는 부천의 한 정신병원에서 지난 5월 27일 오전 3시30분쯤 33세 여성 A씨가 숨졌다. 마약류 성분이 포함된 다이어트약 중독 치료를 위해 이 병원에 입원한 지 17일 만이었다.&lt;br&gt;&lt;br&gt;방송에 공개된 방범카메라(CCTV) 영상에는 간호조무사와 보호사가 들어와 A씨의 손발과 가슴을 침대에 묶는 등 강박 조처를 하는 모습이 담겼다. A씨는 손발이 묶인 지 2시간 만에 배가 부푼 채로 코피를 흘리다 끝내 숨졌다.&lt;br&gt;&lt;br&gt;양재웅은 사건이 알려진 지 두 달 만인 지난 29일 소속사 미스틱스토리를 통해 “병원 과정 중 발생한 사건과 관련해 본인과 전 의료진들은 참담한 심정을 감출 수 없으며, 고인과 가족을 잃고 슬픔에 빠져 계실 유가족분께 진심으로 사죄드린다”고 했다.&lt;br&gt;&lt;br&gt;하지만 피해자의 어머니는 지난 30일 한겨례와 인터뷰에서 “유족의 전화번호도 알면서 한 번도 사과는커녕 앞에 나오지도 않고 변호사를 통해 이야기하라더니 이 사건이 언론에 보도되니까 뒤늦게 언론플레이를 하는 것”이라면서 “어제 오전 병원 앞에서 내가 시위할 때는 곁을 지나가며 눈길 한번 안 주었던 사람”이라고 주장했다. 그러면서 “전혀 진심 어린 사과가 아니라서 받아들일 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;한편 양재웅은 10살 연하의 그룹 EXID 출신 배우 하니(32)와 결혼을 앞두고 있다. 하니가 A씨가 사망한 직후 결혼을 발표했다는 사실이 알려지며 일부 네티즌들은 하니의 인스타그램 계정을 찾아가 악플을 달고 있다. 이와 관련, 하니 소속사 써브라임은 지난 30일 매체 보도를 통해 “관련해서 뭐라고 답변드릴 수 있는 상황이 아닌것 같아서 드릴 말씀이 없다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>8세 이하 자녀 둔 서울시 공무원, 8월부터 주 1회 ‘재택근무’</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/31/7EZXKZWQLJCVFHATKYDO75SJVE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/31/7EZXKZWQLJCVFHATKYDO75SJVE/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 08:04:04 +0000</pubDate>
-      <content:encoded>서울시가 오는 8월 1일부터 8세 이하 자녀를 둔 ‘육아 공무원’을 대상으로 주 1회 재택근무를 의무화한다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E6TPIGSPKN6QH3YV3QFCWZZHQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 같은 결정은 서울시가 지난 4월 육아공무원 1490명을 대상으로 설문조사한 결과에 따른 것이다.&lt;br&gt;&lt;br&gt;서울시에 따르면 응답자 895명 중 802명(89.6%)은 ‘재택근무가 일·육아 병행에 도움이 된다’고 응답했고, 790명(88.3%)이 재택근무 의무화에 찬성했다. 재택근무 횟수에 대해서는 450명(57%)이 주 1회를 선택했다. 적용 대상으로는 ‘8세 이하 자녀를 둔 경우’가 568명(71.9%)으로 가장 많았다.&lt;br&gt;&lt;br&gt;서울시는 기존에 시행해 온 ‘육아시간(특별휴가)’ 사용률도 높이기 위해 제도를 개선하기로 했다. 8세 또는 초등학교 2학년 이하 자녀를 둔 공무원은 ‘지방공무원 복무규정’에 따라 36개월간 하루 2시간씩 육아시간을 사용할 수 있다.&lt;br&gt;&lt;br&gt;이에 따라 서울시는 8월부터 부서별 육아시간 사용률을 집계한다. 분기별로 사용률이 높은 부서를 표창할 방침이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “내년부터 4급 이상 공무원 평가에 ‘육아 공무원의 재택·유연 근무 사용 실적’을 포함하는 방안도 검토하고 있다”고 했다.&lt;br&gt;&lt;br&gt;이외에도 서울시는 육아휴직 후 복직하는 직원을 위해 직무 교육과 건강 프로그램 등을 제공한다. 육아 공무원의 주거비 부담을 덜어주기 위해 주거지원도 강화할 계획이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “‘일·육아 양립’은 저출생 문제 해결의 중요한 실마리로 여겨져 왔다”며 “서울시가 앞장서서 일과 육아를 병행할 수 있는 조직 문화와 제도를 만들어 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대검찰청 "부당한 검사 탄핵 추진… 외압 굴하지 않겠다"</title>
-      <link>https://www.chosun.com/national/court_law/2024/07/31/FAG7YXH2RFGWTEEUL3D5TERIB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/31/FAG7YXH2RFGWTEEUL3D5TERIB4/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 07:54:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M3X2DBLMJBOFZDFEN5MALDNB7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민주당 소속 정청래 국회 법제사법위원장이 31일 국회에서 열린 법제사법위원회 전체 회의에서 김영철 서울북부지검 차장검사 탄핵 청문회의 증인 명단을 보고 있다. 증인 명단에는 김 차장검사와 이원석 검찰총장 등이 포함됐다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검찰청이 31일 국회 법제사법위원회가 김영철 서울북부지검 차장검사 탄핵소추안 청문회의 증인으로 이원석 검찰총장과 김 차장검사를 채택한 데 대해 강하게 반발했다.&lt;br&gt;&lt;br&gt;대검은 이날 입장문을 내고 “근거 없는 탄핵 사유로 검사를 겁박하고 검찰의 정치적 중립과 헌법상의 삼권분립 원칙을 무너뜨리는 탄핵 절차가 추진되는 것에 대해 깊은 유감을 표한다”고 밝혔다. 국회 법사위는 오는 14일 김 차장검사의 탄핵 청문회를 개최하면서 이 총장 등을 증인으로 부르기로 결정했다.&lt;br&gt;&lt;br&gt;대검은 “민주당에서 주요 탄핵 사유로 김영철 검사와 특정인의 관계를 주장하고 있으나 이미 해당 특정인이 허위임을 밝힌 바 있어 부당한 탄핵 추진임이 드러났다”면서”돈 봉투 사건 등 민주당 관련 수사·재판을 담당한 검사와 이를 지휘한 검찰총장을 청문회 증인으로 불러내 수사 과정을 조사하겠다는 것은 형사사법 절차를 정쟁으로 끌어들이고 헌법상 삼권분립 원칙을 무너뜨리는 위헌적 절차”라고 말했다. 그러면서 “진행 중인 수사와 재판에 관여할 수 없다는 국정감사·조사법상 국회 권한의 한계를 벗어나 위법하다”고도 했다.&lt;br&gt;&lt;br&gt;앞서 민주당은 돈봉투 사건을 수사한 김 차장검사가 최순실 국정 농단 사건 때 최씨의 조카 장시호씨와 사적인 관계로 지내며 법정 증언 연습을 시키는 등 뒷거래를 했다는 의혹 등을 제기하며 탄핵소추안을 발의했다. 장씨는 관련 공수처 조사에서 “위증 대본은 없었고, 모든 의혹은 사실이 아니다”라고 부인했다.&lt;br&gt;&lt;br&gt;대검은 “어떠한 외압에도 굴하지 않고 헌법과 법률에 따라 책무를 다할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
