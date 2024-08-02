@@ -13,6 +13,91 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘유흥업소 성폭행 혐의’ 성동구 의원 구속 기로...영장 심사 진행</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/02/IS5NR325JVHBJMIYTZXTKGBM5Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/02/IS5NR325JVHBJMIYTZXTKGBM5Y/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Aug 2024 02:21:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6V7WNM7QSFMHFPREWC4SXPJFW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유흥주점 여종업원 성폭행 혐의를 받고 있는 서울 성동구의회 의원 고모씨가 2일 오전 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)을 마친 후 법원을 나서고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4월 총선 당일 유흥업소 직원을 성폭행한 혐의를 받는 성동구의회 의원이 구속 기로에 섰다.&lt;br&gt;&lt;br&gt;서울중앙지법 신영희 영장전담 부장판사는 2일 오전 10시 10분 성폭력처벌법상 특수준강간 혐의를 받는 성동구의회 의원 고모(33)씨에 대한 구속 전 피의자 심문(영장실질심사)을 진행했다.&lt;br&gt;&lt;br&gt;이날 고 의원은 이날 취재진의 눈을 피해 영장실질심사에 출석했다. 이후 오전 10시 57분쯤 영장 실질 심사를 마치고 나왔다.&lt;br&gt;&lt;br&gt;‘혐의를 인정하냐’ ‘피해자가 술 한 두 잔 마시고 정신 잃었다고 주장하는 데 어떤 입장이냐’는 취재진의 질문에 고씨는 “성실하게 조사 받아 무죄를 밝히겠다”고 답했다. ‘일행에게 망 보라고 직접 시킨거냐’ ‘구민들에게 할 말 없냐’ 질문에는 따로 답하지 않았다.&lt;br&gt;&lt;br&gt;한편 고씨는 2022년 더불어민주당 소속으로 구의원에 당선됐으나 경찰 조사 사실이 성동구의회에 알려지자 지난 7월 8일 탈당해 현재는 무소속 신분이다.&lt;br&gt;&lt;br&gt;고 씨는 특수준강간 혐의로 서울 서초경찰서에서 조사받고 있다. 고씨는 지난 4월 지역 주민들과 조기 체육회 행사 후 서초구의 한 유흥 주점에서 뒤풀이를 하다가 ‘4·10 총선’ 당일인 새벽에 한 여성 종업원을 성폭행한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘대학생 근로 예산’ 5억 횡령...청주시 공무원 구속</title>
+      <link>https://www.chosun.com/national/regional/2024/08/02/2ZD7QSGPIJFLFKSZKWEBXZWLDE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/02/2ZD7QSGPIJFLFKSZKWEBXZWLDE/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Aug 2024 01:03:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XTDDFXPNLDNX2SVQVOEPZC4ED4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지방검찰청 전경. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지방자치단체의 대학생 근로 예산 수억원을 횡령한 혐의를 받는 충북 청주시 공무원이 구속됐다.&lt;br&gt;&lt;br&gt;청주지검 형사3부는 공금 수억원을 빼돌린 청주시 6급 공무원 A씨를 업무상 횡령 등 혐의로 구속했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 청주시가 방학 기간 대학생 근로 참가자들을 위해 사용하는 5억원 상당의 공공근로 예산을 수년에 걸쳐 횡령한 혐의를 받고 있다. A씨의 범행은 감사원이 자치단체 회계 처리를 점검하는 과정에서 드러났다.&lt;br&gt;&lt;br&gt;감사원의 수사 의뢰를 받은 청주지검은 지난달 30일 청주시청 자치행정과를 압수수색해 관련 서류를 확보한 바 있다.&lt;br&gt;&lt;br&gt;검찰은 압수한 자료를 분석하는 한편, A씨에 대한 조사를 마친 뒤 기소 여부를 결정할 예정이다.&lt;br&gt;&lt;br&gt;청주시는 A씨 사건을 비롯해 공직기강 해이 논란이 일자, 오는 25일까지 모든 부서를 대상으로 특별 감찰에 나서기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>다문화 학생 30% 이상인 초·중·고 전국350곳... 97%인 학교도</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/02/ZVBOA6I5NBB4BD3WCPXS2PPVOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/02/ZVBOA6I5NBB4BD3WCPXS2PPVOU/</guid>
+      <dc:creator>김경은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Aug 2024 02:03:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XY5GABUKSFGAZJDKJLMFCEPHHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;어린이날을 앞둔 지난 4월 30일 경기도 안산시 원곡초등학교 다문화 학생들이 체조선수, 플로리스트, 선생님 등 본인의 꿈을 한글로 적고 있다. 해당 학교는 전교생의 약 92%가 다문화 학생으로 중국, 우즈베키스탄, 러시아 등에서 왔다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전교생의 30% 이상이 다문화 학생인 초·중·고교가 전국 350곳에 이르는 것으로 집계됐다.&lt;br&gt;&lt;br&gt;2일 한국교육개발원 윤현희 연구위원 등이 작성한 ‘이주민 밀집지역 소재 학교 혁신 방안’ 보고서에 따르면 지난해 다문화 학생이 전교생의 30%가 넘는 초·중·고등학교는 350곳이다. 국내 초·중·고교 1만1819곳의 2.96%에 해당하는 수치로, 다문화 학생이 30% 이상인 학교는 2018년 250곳에서 5년 만에 40% 늘었다. 전체 학교 대비 비율은 2.15%에서 0.81%포인트 높아졌다.&lt;br&gt;&lt;br&gt;교육부는 전교생이 100명 이상이면서 다문화 학생이 30% 이상인 학교를 ‘다문화 학생 밀집학교(밀집학교)’로 정의한다. 이 기준에 따르면 지난해 12개 지역, 87곳이 밀집학교에 해당한다. 밀집학교는 2018년(23곳)에 비해 3배 가까이 늘었다. 이 중 경기 안산의 한 초등학교는 다문화 학생 비율이 97%에 달해 전국에서 다문화 학생 비율이 가장 높았다. 다문화 학생이 빠른 속도로 늘고 있는 만큼 다문화 학생 비율이 높은 학교에 제대로 된 교육이 제공돼야 한다는 지적이다.&lt;br&gt;&lt;br&gt;다문화 학생 30% 이상인 학교가 있는 지역은 17개 지자체 중 대전과 울산, 세종을 뺀 14개 지자체에 있었다.&lt;br&gt;&lt;br&gt;다문화 학생 비율이 지나치게 높으면 다문화 학생과 일반 학생 모두에게 부정적 영향을 미칠 수 있다. 다문화 학생들만 별도 교육 프로그램에 참여하다 보니 ‘낙인 효과’가 생길 수 있고, 반대로 다문화 학생들에게만 추가적 지원이 집중되다 보니 일반 학생들이 역차별 받을 가능성도 있기 때문이다. 보고서는 다문화 학생 비율이 높은 학교엔 학생들이 서로 차별을 느끼지 않게끔 별도 교육과정이 적용돼야 한다고 지적했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 음주운전 전복 사고 낸 검사, 벌금 그쳐… 대검 “징계 절차 중”</title>
+      <link>https://www.chosun.com/national/national_general/2024/07/30/XGSKGVZK5RACVHBXDZS5K7EBAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/30/XGSKGVZK5RACVHBXDZS5K7EBAI/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Jul 2024 08:19:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6C75ZQHUYSSZPLQCCY5EHT7TQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 마포구 성산대로 인근 강변북로에서 음주 운전을 하다 사고를 내 현행범으로 체포됐던 현직 검사가 벌금형을 받았다.&lt;br&gt;&lt;br&gt;30일 법조계에 따르면 서울서부지법은 도로교통법위반(음주운전) 혐의로 기소된 수도권 지청 소속 현직 검사 A(42)씨에게 지난 17일 벌금형을 선고한 것으로 확인됐다. 대검찰청은 이날 A씨에 대한 징계 절차가 진행되고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 A씨는 2월 15일 밤 10시 30분쯤 야근을 마치고 소속 청 인근 식당에서 술을 마신 뒤 다음날 새벽 1시쯤 서울 마포구 강변북로에서 음주운전을 하다가 차량 전복 사고를 냈다.&lt;br&gt;&lt;br&gt;당시 A씨의 혈중알코올농도는 면허 취소 수준인 0.08% 이상인 것으로 알려졌다. 현행 도로교통법상 혈중알코올농도가 0.08% 이상이면 1~2년의 징역 또는 500만~1000만원의 벌금형에 처한다.&lt;br&gt;&lt;br&gt;검사징계법에 따라 검사로서의 체면이나 위신을 손상한 검사는 해임·면직·정직·감봉·견책 등 처분을 받는다. 음주 운전 역시 처벌 대상이다. 대검찰청 예규에 따르면 음주 운전을 1회 저지른 경우 면허 취소 수치인 혈중알코올농도 0.08%를 기준으로 징계 수위가 결정된다. 0.08% 미만이면 감봉·정직 처분을, 0.08% 이상이거나 음주 측정에 불응했을 경우에는 정직·면직 처분을 받게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오늘 낮 30~37도... 주말 소나기에도 더위 안 식어</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/08/02/HWFVQYXRIBE47DPTXTT2ACGTNI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/08/02/HWFVQYXRIBE47DPTXTT2ACGTNI/</guid>
+      <dc:creator>김윤주 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Aug 2024 01:52:47 +0000</pubDate>
+      <content:encoded>당분건 전국에서 무더운 날씨가 계속되겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면 2일 전국 낮 최고 기온은 30~37도로 예보됐다. 서울 32도, 강원 강릉 36도, 충북 청주 35도, 대전 34도, 광주 35도, 전남 순천 36도, 경북 포항 36도, 울산 36도 등이다. 대구는 낮 최고 기온이 37도까지 오르겠다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LON43JK6GVJJPEXJHXMSNRHKLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국 대부분 지역에 폭염 특보가 내려진 1일 오후 경기도 수원시 권선구 수도권기상청에서 예보관이 폭염 특보 현황과 기온을 설명하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말에도 무더위와 열대야가 지속되겠다. 소나기가 내리는 지역도 있겠으나 더위를 식힐 정도는 아니겠다.&lt;br&gt;&lt;br&gt;3일 오후부터 저녁 사이 충북 남부와 전라권 내륙, 경북권 남부 내륙, 경남권에 소나기가 예보돼있다.&lt;br&gt;&lt;br&gt;3일 낮 최고 기온은 32~36도로 예보됐다. 최저 기온도 24~29도로 전국 대부분 지역에서 밤에도 기온이 25도 아래로 떨어지지 않는 열대야가 나타나겠다.&lt;br&gt;&lt;br&gt;4일은 오전부터 오후 사이 강원내륙·산지와 경상권에 소나기가 내리겠다. 이날 낮 최고 기온은 30~36도, 최저 기온은 24~28도로 예보됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“18톤 무허가 조명탑 철거해라” … 대법, “공익 커서 철거 안돼”</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/02/KVCD5INF6BAFRBWH7RXLQ2IAU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/02/KVCD5INF6BAFRBWH7RXLQ2IAU4/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Aug 2024 01:30:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D5SJC6OESND2JJWRJ45NYMDBFQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경기 미사리 경정공원. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공원 부지 밖에 세워진 18톤짜리 조명탑을 철거하라는 명령은 공익보다 불이익이 지나치게 커서 부당하다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 김선수 대법관)는 지난달 11일 국민체육진흥공단이 경기 하남시장을 상대로 낸 시정명령취소청구 소송에서 원심을 깨고 사건을 수원고등법원으로 돌려보냈다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;공단은 2002년 하남 미사경정공원(조정경기장)에 전광판 1대와 조명탑 11개를 설치했다. 약 20년이 지난 2021년 3월, 하남시는 “전광판·조명탑은 허가없이 개발제한구역에 세워진 불법시설물”이라며 원상복구를 요구했다. 이에 불복한 공단은 “절차상 허가를 받고 전광판·조명탑을 세웠기에 철거할 수 없다”며 행정소송을 냈다.&lt;br&gt;&lt;br&gt;쟁점은 허가받은 부지 밖에 세워져 있는 조명탑 1개였다. 1·2심 법원은 허가된 곳에 지어진 전광판과 조명탑 10개는 그대로 둬도 되지만, 무허가 구역에 있는 이 조명탑만큼은 철거돼야 한다고 봤다.&lt;br&gt;&lt;br&gt;1심은 “부지 경계선 밖에 조명탑이 세워진 이상 적법한 허가가 있었다고 볼 수 없다”고 했다. 2심 역시 “조명탑 철거 및 재설치 비용에 9억 3000만원이 소요되지만 행정의 적법절차원칙을 따른 공익상 필요가 있다”며 하남시의 조명탑 철거 명령이 정당하다고 했다.&lt;br&gt;&lt;br&gt;하지만 대법원은 “조명탑을 전부 철거하지 않아도 된다”며 공단의 손을 들어줬다. 대법원도 이 조명탑이 적합한 허가 없이 세워졌다는 점은 인정했다. 하지만 탑을 철거했다 다시 세우는 것은 이익에 비해 공단에게 돌아가는 불이익이 지나치게 커 ‘비례의 원칙’에 어긋난다고 판단했다.&lt;br&gt;&lt;br&gt;대법원은 이 조명탑의 높이가 약 34m, 무게가 18.5톤이라는 점을 토대로 “조명탑을 철거하더라도 공단으로서는 다시 하남시 허가를 받아 같은 위치나 인근에 같은 역할을 하는 조명탑을 다시 설치해야 하는데, 이를 위해서는 상당한 시간적·경제적 비용이 소요된다”고 했다.&lt;br&gt;&lt;br&gt;이어 “도시의 무분별한 확산을 방지하고 도시 주변의 자연환경을 보전해 도시민의 건전한 생활환경을 확보한다는 개발제한구역 지정의 공익상 필요가 공단이 입을 불이익을 정당화할 만큼 강하다고 보기 어렵다”며 “조명탑을 철거하면 안전사고가 우려될 뿐만 아니라 심판의 판정과 관객의 관람에도 상당한 지장이 초래될 것으로 보여 사실상 야간 경기 전체가 제한되는 결과가 초래될 것”이라며 사건을 원심으로 돌려보냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>SNS에 오토바이 폭주행위 공지글 올리고 도심 누빈 10대</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/08/02/YR6A4KTSXJDEPMVQ2LJ3N7QI3Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/08/02/YR6A4KTSXJDEPMVQ2LJ3N7QI3Q/</guid>
+      <dc:creator>홍성=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Aug 2024 01:39:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M5LZHP2MESDFSBEOGXZ3GNAMSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A(17)군이 틱톡에 올린 집결 공지. /충남경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소셜미디어(SNS)에 폭주족 모임을 유도하는 글을 올리고 도심에서 오토바이 폭주 행위를 벌인 10대가 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;충남경찰청은 도로교통법상 공동위험행위 등의 혐의로 A(17)군을 검찰에 불구속 송치했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;A군은 지난 3월 충남지역 3·1절 폭주 행위가 경찰 단속으로 실패하자 틱톡에 ‘충남권 쪽팔리게 3·1절 그게 뭡니까. 홍성에서 확실하게 보여드립니다. 3월 3일 확실하게 보여주자. 다 준비하고 있으라’는 내용의 글을 올린 혐의를 받는다.&lt;br&gt;&lt;br&gt;이후 A군은 지난 3월 3일 오전 1시부터 2시까지 충남 홍성군에서 번호판이 없는 오토바이(125cc)를 타고 다른 오토바이 운전자 10여명과 함께 8㎞가량 난폭운전을 벌였다.&lt;br&gt;&lt;br&gt;경찰은 SNS 공지글에 대한 추적에 나서 A군을 확인하고 난폭운전을 벌인 사실도 밝혀냈다.&lt;br&gt;&lt;br&gt;앞서 충남경찰청은 3.1절 기간 천안·아산·홍성 등지에서 폭주 행위 특별 단속을 통해 64명을 검거하고 오토바이 1대를 압수했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “불법 폭주행위로 인해 시민들이 불편함을 겪는 것은 물론, 교통사고 발생 가능성도 높다”면서 “폭주 행위에 대해선 강력하게 단속해 나갈 방침이다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/M5LZHP2MESDFSBEOGXZ3GNAMSA.jpg?width=401&amp;height=537&amp;auth=9dd5b99ee73f36ff40316e1b700a720636f9bede25d6d92061fc2163fba76923&amp;smart=true" type="image/jpeg" height="537" width="401">
+        <media:description type="plain">폭주족이 틱톡에 올린 집결 공지 캡처. (충남경찰청 제공). /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>서울 한복판서 60대 여성 살해한 용의자 검거...경찰 ”구속영장 신청 예정”</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/02/UV45UOSHC5ADRFR2TPQTJ5O3BI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/02/UV45UOSHC5ADRFR2TPQTJ5O3BI/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Aug 2024 00:07:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/THAOWX5YVNH2VKBK2I2V2Q56A4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 남대문경찰서. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 새벽 서울 한복판에서 흉기로 60대 여성 환경미화원을 살인한 사건이 일어난 가운데, 경찰이 사건 발생 약 3시간 40분 만에 용의자를 검거했다. 경찰은 이 남성 용의자에 대한 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;서울 남대문경찰서는 2일 오전 8시 50분쯤 서울 용산구의 한 쪽방촌에서 용의자 A씨를 붙잡았다고 밝혔다. 이날 오전 5시 10분쯤 서울 중구 한 건물 인근 지하보도에서 ‘누군가 피 흘린 채 쓰러져 있다’는 신고가 접수된 지 약 3시간 40분 만이다.&lt;br&gt;&lt;br&gt;피해 여성은 곧장 병원으로 옮겨졌으나 이송 도중 심정지가 발생했고, 이날 오전 6시 20분쯤 사망했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “아직 용의자와 피해자 사이의 관계, 흉기의 종류 등은 파악되지 않았다”며 “신병을 확보한 만큼 범행 동기 등을 조사할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>열대야 속 부산 아파트 정전...승강기 갇혔던 3명 구조</title>
+      <link>https://www.chosun.com/national/regional/2024/08/02/KLXZUTRZXRBZPIVHYSLPBUC22M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/02/KLXZUTRZXRBZPIVHYSLPBUC22M/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 23:36:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VKGUV2VQAZLVDMCDHBBFTMUCPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 오후 8시 20분쯤 부산 수영구 내 아파트와 상가 일대에 정전이 발생했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1일 부산 수영구 남천동 아파트 일대에 발생한 정전으로 시민 3명이 승강기에 갇혔다가 출동한 119에 모두 구조됐다.&lt;br&gt;&lt;br&gt;2일 부산소방재난본부에 따르면 전날 오후 8시 13분쯤 정전으로 승강기에 갇혔다는 신고가 10여건 들어왔다. 상가와 아파트 등 2곳의 승강기가 멈춰서면서 20대 2명과 40대 1명이 각각 고립됐다가 소방 당국에 구조됐다.&lt;br&gt;&lt;br&gt;다른 건물 승강기에 갇혀 있던 시민 10여명은 건물 비상발전기가 가동되면서 승강기에 전력이 들어와 자체적으로 빠져나왔다. 이 가운데 다친 사람은 없었다.&lt;br&gt;&lt;br&gt;앞서 전날 오후 8시 12분쯤 수영구 남천동 아파트 일대 정전이 발생해 수 천가구가 불편을 겪었다. 폭염과 열대야 속에 전기가 끊기면서 상가와 아파트 등에서는 에어컨과 선풍기 등을 틀지 못해 시민들의 불편이 잇따랐다. 1일 부산은 낮 최고기온이 32.4도, 체감온도는 최고 33.5도를 기록했다.&lt;br&gt;&lt;br&gt;전기는 전력 기기에 이상이 생겨 끊겼으며 2시간 만에 복구됐다.&lt;br&gt;&lt;br&gt;정전 당시 수영구는 “남천동의 한 변압기가 터져 일대 정전이 발생해 긴급 복구 중”이라는 내용의 안전 안내문자를 시민들에게 보냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>흉물만 남아… “K팝 성지의 꿈 돌려달라”</title>
       <link>https://www.chosun.com/national/national_general/2024/08/02/UTL2AJ3R6BAFRGTRPRDNQVV4YU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/02/UTL2AJ3R6BAFRGTRPRDNQVV4YU/</guid>
@@ -818,60 +903,11 @@
     </item>
     <item>
       <title>[입에 착착 붙는 일본어] (그 자리를) 적당히 얼버무리다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2022/12/06/EBDMSH6D2ZH4DO5OEADJXCOJTE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2022/12/06/EBDMSH6D2ZH4DO5OEADJXCOJTE/</guid>
-      <description/>
-      <pubDate>Mon, 05 Dec 2022 18:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U4KGTVLJAZAVDOD36RYMRIEVNA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 파로호(破虜湖)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/08/01/BFRKQCKUAJBC5MDVSZ2NUSFNBE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/08/01/BFRKQCKUAJBC5MDVSZ2NUSFNBE/</guid>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 17:33:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SPDO5O5XP5B2PAPXSUNEFGJFV4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] (그 자리를) 적당히 얼버무리다</title>
       <link>https://www.chosun.com/national/nie/japanese/2024/08/01/TVA2SHLLLBGR7MPSZE3J7CGRS4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/08/01/TVA2SHLLLBGR7MPSZE3J7CGRS4/</guid>
       <description/>
       <pubDate>Wed, 31 Jul 2024 17:32:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CXJ7YPX4RB6JKSZSED6GH7LAI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 측정이 불가하다, 상한선을 넘다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/08/01/PT5JV7LW4NHGPIOTCB5BAUNLVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/08/01/PT5JV7LW4NHGPIOTCB5BAUNLVY/</guid>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 17:32:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHFUYIPSGZAZ3OHYQCB3UJGWDE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] out of character</title>
-      <link>https://www.chosun.com/national/nie/english/2024/08/01/GCRK2N5BVVCNFK6NYB4SSZTJG4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/08/01/GCRK2N5BVVCNFK6NYB4SSZTJG4/</guid>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 17:31:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W345X4FR5JCXBCGEAJIYYFMR7A.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2433] 칙칙폭폭 꼬리 잇기</title>
-      <link>https://www.chosun.com/national/nie/2024/08/01/QFUJJY42GVEAXEZFT373DQJ4U4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/01/QFUJJY42GVEAXEZFT373DQJ4U4/</guid>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 17:31:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBWHX7XO45GUBPSKBQHO3PERTQ.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>건보 지역가입자 2.8배 혜택… 저소득층일수록 많이 받아</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/08/01/OSPIUYTIERCXDM6X4QQLBOQJCM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/01/OSPIUYTIERCXDM6X4QQLBOQJCM/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 16:43:20 +0000</pubDate>
-      <content:encoded>자영업자나 농·어민 등 건강보험 지역가입자가 회사에 다니는 직장가입자보다 건강보험 혜택을 많이 받는 것으로 나타났다. 납부한 건강보험료보다, 건강보험으로 인한 혜택을 상대적으로 지역가입자들이 더 많이 받았다는 뜻이다.&lt;br&gt;&lt;br&gt;31일 국민건강보험공단이 김선민 조국혁신당 의원실에 제출한 자료에 따르면, 지난해 기준 지역가입자가 낸 건강보험료는 총 9조9000여억 원, 건강보험이 이들에게 지원해 준 진료비 등은 총 27조6000여억 원이었다. 낸 돈의 2.8배가량 혜택을 받은 셈이다. 반면 직장가입자는 지난해 총 69조2000여억 원의 보험료를 내고, 낸 돈의 약 4분의 3에 해당하는 51조7000여억 원(74.7%)의 혜택을 받았다.&lt;br&gt;&lt;br&gt;건보공단 관계자는 “지역가입자는 자영업자, 농·어민 외에도 은퇴자가 많이 포함돼 있는데, 은퇴자 연령대가 60대 이상”이라며 “이 때문에 50대 이하 직장인이 중심인 직장가입자에 비해 지역가입자의 진료비 등이 많이 나와 혜택도 많이 보는 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;또 건강보험은 소득이 낮을수록 혜택도 커진다. 건보 공단 자료에 따르면, 지역가입자 가운데 소득 상위 10%를 제외하면 90%가 부담한 보험료보다 더 많은 혜택을 받은 것으로 나타났다. 직장가입자의 경우 소득 하위 30%는 납부한 보험료보다 더 많은 혜택을 받았지만, 상위 70%는 낸 보험료보다 혜택이 적었다. 건강보험은 2004년 도입한 ‘본인부담상한제’를 통해 1년 동안 낸 의료비 본인부담금이 소득별 상한 기준을 넘으면 넘은 만큼 돌려준다. 예컨대 저소득층(하위 30%)은 연간 최대 87만~108만원만 자기 돈으로 의료비를 내면 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[길] 1.5평 쪽방엔 약봉지 수북… 달력엔 “너무 아푸다, 살기 실타”</title>
@@ -881,15 +917,6 @@
       <description/>
       <pubDate>Wed, 31 Jul 2024 16:39:55 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IVIGUSBM55ET7KMU3MVN2YDNKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아령을 묶고 한강에 투신했던 박모씨의 고시원 쪽방. /김영은 인턴기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 28일 경기 고양시 덕양구 행주나루터에서 팔에 5㎏ 아령을 묶은 시신으로 발견된 박모(61)씨의 마지막 거처는 서울 성동구 금호동의 한 고시원이었다. 4.9㎡(1.5평) 남짓한 쪽방에 걸린 달력엔 “몸이 너무 아푸다(아프다). 살기 실타(싫다). 죽고 싶다”고 적혀 있었다. 중증 당뇨·고지혈증·백내장 등에 시달리던 박씨가 복용하던 약 봉지가 방 한편 탁자에 빼곡했다. 보건복지부가 발송한 건강검진 안내문엔 ‘청소비로 쓰세요’라고 적혀 있었다. 박씨는 봉투에 10만원을 넣어뒀다고 경찰은 밝혔다.&lt;br&gt;&lt;br&gt;이 고시원 간판엔 ‘해피’라는 낱말이 있었지만, 지난 30일 본지 기자들이 찾은 박씨의 쪽방은 행복과는 거리가 멀었다. 소형 냉장고엔 쌈장과 고추장이 놓여 있었다. 나무젓가락과 컵라면, 국그릇과 숟가락, 생수병 등의 모습도 보였다. 천장 옷걸이엔 수건과 속옷·양말, 겨울 옷가지 등이 걸려 있었다. 고시원이 방음이 되지 않았던 모양인지 침대 위엔 귀마개와 이어폰이 있었다.&lt;br&gt;&lt;br&gt;박씨가 삶의 끈을 부여잡으려는 흔적이 곳곳에 남아 있었다. 아직 새것인 로또 OMR 용지 다발이 수북했고, 컴퓨터용 사인펜도 넉넉했다. ‘당뇨약’ 아침 식후 즉시, ‘고지혈증약’ 1일 1회, ‘위장약’ 식전 등 약병 뚜껑엔 복용 요령이 빼곡히 적혀 있었다. 방 한편엔 구직 광고가 있는 신문이 쌓여 있었다. ‘양조 식초가 혈관과 장에 좋다’는 수첩 메모도 있었다.&lt;br&gt;&lt;br&gt;박씨는 2008년 3월부터 이 고시원에서 살았다고 한다. 충북 충주 출신인 그는 20대에 상경해 세차장에서 일했다. 결혼은 하지 않았다. 지인들은 그를 ‘착하고 온순한 사람’으로 기억했다. 하지만 친구에게 사기를 당해 마음고생도 심했다고 한다. 50대가 되면서 각종 성인병이 발병했고 세차장에서 일하다가 정화조에서 떨어져 어깨를 다치기도 했다.&lt;br&gt;&lt;br&gt;박씨는 기초생활수급자로 한 달 95만원을 받았다. 지난해 모친이 별세하면서 삶의 의지를 잃었다고 한다. 고시원 달력 음력 5월 15일엔 ‘어머니 기일’이라고 적혀 있었다. 그는 지난 25일 동호대교에서 투신했다. 시신은 한강을 따라 22km를 떠내려가 사흘 만에 발견됐다.&lt;br&gt;&lt;br&gt;한국보건사회연구원이 발표한 ‘2022년 한국복지패널 조사·분석 보고서’를 보면 박씨와 같은 저소득층(1인 월 222만원 이하)은 소득이 높은 사람들보다 만성 질환 비율이나 병원을 찾는 횟수가 2배가량 많은 것으로 나타났다. 저소득층의 우울 정도는 9.99점(60점 만점)으로 비(非)저소득층(4.63점)보다 2배 높았고, 1년 동안 한 번이라도 자살 생각을 한 적 있다는 응답은 저소득층이 비저소득층의 3배였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>朴법무 “제3의 장소에서 김건희 여사 비공개 조사, 특혜라고 생각 않는다”</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/01/YCRW3NVGH5C43OQ3SHHX63WHVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/01/YCRW3NVGH5C43OQ3SHHX63WHVQ/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 16:39:16 +0000</pubDate>
-      <content:encoded>박성재 법무장관은 검찰이 최근 김건희 여사를 제3의 장소에서 비공개로 조사한 데 대해 “특혜라 생각하지 않는다”고 했다.&lt;br&gt;&lt;br&gt;박 장관은 31일 국회 법제사법위원회 전체회의에서 이건태 민주당 의원이 “서울중앙지검의 김 여사 조사에 대해 황제·특혜 조사란 말이 있다”고 묻자 이같이 답했다. 박 장관은 “수사팀이 관련 규정과 제반 사정을 고려해서 조사를 진행한 것으로 안다”고 했다.&lt;br&gt;&lt;br&gt;박 장관은 이 의원이 또 “이원석 검찰총장이 ‘김 여사를 검찰청으로 소환하겠다’는 입장을 밝혔더니 장관이 ‘경호상 어렵다’고 말한 적 있느냐”고 질문하자, “피의자 변호인과 수사팀 간에 협의해 진행하라는 원칙론을 말한 것”이라고 했다. 박 장관은 서영교 민주당 의원이 “김 여사 조사 때 검사들이 휴대전화를 반납한 것은 굴욕”이라고 지적하자, “경호에 대해서는 저는 다르게 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;박 장관은 이 총장의 도이치모터스 주가조작 사건 수사지휘권 복원 요청을 받아들이지 않은 것에 대해선 “(총장) 수사지휘권을 복원하는 것 역시 (장관) 수사지휘권의 행사”라며 “저는 수사지휘권을 행사하지 않는 것이 옳다는 생각을 갖고 있고, 인사청문회부터 똑같은 말씀을 드렸다”고 했다. 또 자신이 이 총장에게 ‘김 여사 조사 문제는 서울중앙지검과 대통령실이 소통하니 관여하지 마라’고 말했다는 언론 보도에 대해선 “법무장관이 검찰총장과 수사와 관련해 의사소통한 내용을 말씀드리는 게 적절하지 않다”면서도 “보도 내용은 사실이 아니라고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“홍수 걱정 없겠네” “물에 마을 잠기나” 기후 대응 댐 후보지 14곳 찬반 갈려</title>
@@ -926,24 +953,6 @@
       <description/>
       <pubDate>Wed, 31 Jul 2024 16:03:34 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C6BHA2W3HJP5HF5JNLCI24A24I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조국혁신당에 입당한 이규원 전 대구지검 부부장검사가 11일 오전 서울 여의도 조국혁신당 당사에서 열린 전문가 입당식에서 인사말을 하고 있다. 2024.03.11. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이규원 조국혁신당 대변인이 현직 검사 신분으로 급여를 받으면서, 법무부로부터 업무에 복귀하라는 명령을 받고도 출근하지 않는 것으로 31일 알려졌다. 대검찰청은 이 대변인이 검사 신분으로 정당 활동을 하는 것에 대해 감찰 중이다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 법무부는 이 대변인이 지난 총선일(4월 10일)까지 신청한 질병 휴직이 끝나기 전에 이 대변인에게 업무에 복귀하라는 명령을 내렸다. 하지만 이 대변인은 응하지 않고, 지난 4월 11일 서울행정법원에 법무부를 상대로 복직명령 무효 확인 소송을 냈다.&lt;br&gt;&lt;br&gt;이 대변인은 총선을 한 달 정도 앞둔 지난 3월 7일 법무부에 사직서를 내고, 조국혁신당에 입당해 비례대표 후보 22번을 받았다. 그러나 법무부는 이 대변인이 이른바 ‘김학의 불법 출국 금지’ 사건으로 1심에서 징역 4개월의 선고유예를 받고 2심이 진행 중이라는 이유로 사직서를 수리하지 않았다. 1심은 이 대변인이 허위 출국 금지 요청서를 사후에 승인받고 이 서류를 은닉한 혐의에 대해선 유죄, 직권남용 혐의는 무죄로 판단했다. 국가공무원법은 비위(非違)와 관련해 기소된 경우 퇴직을 제한한다.&lt;br&gt;&lt;br&gt;법무부가 이 대변인의 사직서를 수리하지 않았지만, 이 대변인이 총선에 출마하는 데는 제약이 없었다. 이른바 ‘황운하 판례’에 따라 총선 출마를 위한 퇴직 마감 시한 전에 사직서만 내면 수리 여부와 상관없이 출마할 수 있기 때문이다. 그는 지난 총선에 국회에 입성하지는 못했다.&lt;br&gt;&lt;br&gt;법조계에선 이 대변인이 현직 검사 신분으로 정당 활동을 하는 것은 부적절하다는 지적이 나온다. 한 법조인은 “검사로 일하며 기소까지 된 이 대변인이 정치 활동으로 검사의 품위마저 손상하고 있다”며 “무너진 공직 기강의 사례”라고 비판했다.&lt;br&gt;&lt;br&gt;대검찰청 감찰부가 이 대변인에 대해 진행하고 있는 감찰의 주된 사유는 이 대변인이 현직 검사 신분으로 조국혁신당 대변인 업무 등 정당 활동을 하고 있는 것이라고 한다. 대검은 감찰 결과에 따라 필요한 조치를 할 예정인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 대변인이 질병 휴직을 낸 것은 2022년이다. 당시 그는 ‘김학의 불법 출국 금지’ 사건으로 기소된 상태였다. 그해 4월 1년간 질병 휴직을 냈는데 사유는 정신과 치료였던 것으로 알려졌다. 이 대변인은 휴직이 끝나자 작년 4월 질병 휴직 1년을 추가로 신청했고, 법무부는 이를 허가한 것으로 전해졌다. 이 대변인은 이런 식으로 2년 넘게 출근하지 않으면서 최근까지 1억원에 가까운 급여를 받았다고 한다. 공무원은 연가·병가를 써도 급여 전액을, 휴직해도 70%의 급여를 받을 수 있다. 부장검사 출신으로 이 대변인과 함께 조국혁신당에서 활동 중인 박은정 의원도 검찰에서 퇴직하기 직전 1년 9개월 동안 연가와 병가, 휴직 등을 번갈아 쓰면서 출근하지 않고 급여로 1억원을 받아간 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 대변인은 이날 페이스북에 올린 글에서 “22대 국회 임기 종료 때까지 비례대표 국회의원 후보자 신분이 유지되므로 공직선거법에 따라 사직원 수리 간주 상태가 유지되고 있다”며 “공무원 지위가 현 상태에서는 부존재해 이를 전제로 한 출근 의무가 없다”고 주장했다. 그는 또 “검찰에 제 월급 넣지 말라고 이미 요구한 사실도 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>A4용지에 ‘이름 석 자’ 또박또박...초등생 신유빈 사인 화제</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/31/SI3Q5MTI55AV3MPPJGILKQW4OE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/31/SI3Q5MTI55AV3MPPJGILKQW4OE/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 13:04:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7SN3N7UXHVBMPLE7TTAKGMY37M.png"&gt;&lt;figcaption&gt;&lt;small&gt;과거 팬에게 사인을 해주는 신유빈(대한항공) 선수./KBS LIFE '여유만만'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12년 만에 한국에 올림픽 탁구 메달을 안겨준 신유빈(대한항공)이 과거 팬에게 해준 사인이 화제가 되고 있다.&lt;br&gt;&lt;br&gt;신유빈은 2011년 KBS LIFE에서 방영된 ‘여유만만’에 출연했다. 당시 방송은 신동들의 여름방학 나기 특집으로 진행됐다. 8세의 나이였던 신유빈은 ‘탁구 신동’, ‘밀레니엄 현정화’로 소개됐다. 4살부터 탁구를 시작했던 신유빈은 초등학교 입학과 동시에 각종 대회 우승을 휩쓸었다. 어린 나이에도 화려한 실력을 뽐내며 탁구장 안에 있던 사람들의 이목을 끌고 있었다.&lt;br&gt;&lt;br&gt;특히 탁구장을 찾은 한 손님은 어린 신유빈에게 사인을 요청하기도 했다. 이에 신유빈은 정성스럽게 ‘신유빈’ 이름 석 자를 A4 용지에 또박또박 적어 전달했다. 이 장면은 최근 국내 온라인 커뮤니티에 공유되며 화제가 됐다. 네티즌들은 “정성 들여 쓰는 모습 진짜 귀엽다” “지금도 사인 저렇게 이름 석 자면 웃기겠다” “나도 사인받고 싶다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;이외에도 어린 신유빈은 방송에서 초등학생이 하기 힘든 기술인 ‘백핸드 드라이브’를 주특기라고 소개했다. 막대 아이스크림을 라켓 삼아 탁구를 치기도 하고, 휴대 전화와 냄비 뚜껑으로도 탁구를 쳤다. 또한 초등학교 6학년 탁구 선수와 장애인 탁구 국가대표 김경섭 선수를 대상으로 뒤지지 않는 실력을 보였다. 당시 김경섭 선수는 “초등학교 1학년인데도 코스가 상당히 좋고 드라이브가 매섭다. 장차 우리나라 탁구계를 이끌어 나갈 재목으로 충분히 인정을 받을 것 같다”고 했다.&lt;br&gt;&lt;br&gt;신유빈의 과거 어린 시절을 본 네티즌들은 “꼬물이 시절 유빈이가 언제 이렇게 잘 컸냐. 프랑스 올림픽 동메달 축하한다” “유빈이 엄청 잘 컸다” “너무 귀엽다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;신유빈은 30일(현지 시각) 프랑스 파리의 사우스 파리 아레나 4에서 열린 2024 파리 올림픽 탁구 혼합복식 동메달 결정전에서 임종훈(한국거래소)과 조를 이뤄 홍콩의 웡춘팅-두호이켐 조(4위)를 4-0으로 꺾고 동메달을 획득했다.&lt;br&gt;&lt;br&gt;한국 탁구 대표팀이 올림픽에서 메달을 딴 건 2012 런던올림픽 남자 단체전에서 유승민(대한탁구협회장)-주세혁(남자 대표팀 감독)-오상은(미래에셋 감독)이 은메달을 획득한 후 12년 만이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“‘들면 쏜다’더니”... 김우진 ‘초고속 16강행’에 기보배도 깜짝</title>
-      <link>https://www.chosun.com/national/national_general/2024/07/31/3CNPODBDOFDFZGF3NOZSIEEZWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/07/31/3CNPODBDOFDFZGF3NOZSIEEZWQ/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 12:20:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QJ7D7SWY3LBE3JID6IGZJZBLHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국 양궁 대표팀 김우진. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올림픽 양궁 금메달리스트이자 2024 파리올림픽 중계를 맡고 있는 기보배(36) KBS 해설위원이 대표팀 맏형 김우진(32·청주시청)의 ‘초고속 개인전’ 경기에 깜짝 놀랐다. “제가 몇 마디 안 했는데”라며 농담 섞인 칭찬을 던지기도 했다.&lt;br&gt;&lt;br&gt;김우진은 30일(한국시각) 프랑스 파리 앵발리드 경기장에서 열린 파리올림픽 양궁 개인전 64강에서 차드의 이스라엘 마다예(36)를 6대 0으로 꺾고 32강에 올랐다. 이어진 경기에서도 대만의 린즈샹(23)을 상대로 6대 0 완승해 가뿐히 16강으로 향했다.&lt;br&gt;&lt;br&gt;김우진의 실력은 압도적이었다. 마다예와의 경기에서 쏜 9발 중 10점이 7발, 9점이 2발이었다. 린즈샹과 함께한 32강 역시 10점이 8발, 9점은 단 한발이었다. 전날 남자 단체전 올림픽 3연패 달성에 제 몫을 했던 경기력이 그대로 이어지는 분위기였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FHRJOPRE5JFNSEAVVRT2X45474.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2016 리우데자네이루 올림픽 당시 기보배 해설위원(왼쪽에서 세번째)과 김우진(맨 오른쪽). /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현지에서 이 모습을 지켜본 기보배는 “김우진 선수와는 2016 리우데자네이루 올림픽을 같이 준비했고 세계 선수권도 같이 다녔다”며 “정말 양궁에 진심인 선수다. 본인이 완벽해질 때까지 쏴야 직성이 풀린다”고 말했다.&lt;br&gt;&lt;br&gt;같이 중계한 이재후 캐스터가 “김우진 선수가 ‘들면 쏜다’더니 정말 빠르다”고 감탄하자, 기보배는 “제가 몇 마디 안 한 거 같은데 금방 끝나버렸다. 말을 좀 많이 했어야 하는데”라고 웃으며 김우진의 활약을 칭찬했다.&lt;br&gt;&lt;br&gt;앞서 또 한 번의 올림픽 역사를 써 내려간 우리나라 양궁 대표팀은 내달부터 다시 메달 사냥에 나선다. 남은 종목은 남녀 개인전과 혼성 단체전이다. 금메달 결정전은 오는 8월 2일 혼성 단체전, 3일 여자 개인전, 4일 남자 개인전 순서로 열린다. 랭킹 라운드 남자 1위인 김우진은 임시현(21·한국체대)과 혼성전에 나서는 멤버로 이번 대회 3관왕을 노린다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] PC 침투→거점 확보→데이터 유출… 北의 법원 해킹 수법</title>
