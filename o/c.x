@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>검찰, ‘티메프’ 자금 담당 재무본부장 소환...이틀째 압수수색</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/02/ICK72KAV45G5ZBFFPDDWFNX6KQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/02/ICK72KAV45G5ZBFFPDDWFNX6KQ/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Aug 2024 05:07:08 +0000</pubDate>
+      <content:encoded>티메프(티몬·위메프)의 판매 대금 미정산 사태를 수사 중인 검찰이 두 회사의 자금 관리를 담당한 이시준 큐텐 재무본부장을 2일 소환했다. 검찰은 또 큐텐테크놀로지, 티몬, 위메프 등 관계사도 이틀째 압수수색 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OHPWDOG45ZLU3OHJ7HYP5G5X5I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 수사관들이 지난 1일 서울 강남구 위메프 본사에서 압수수색을 마친 뒤 압수품을 옮기고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 티몬·위메프 전담수사팀(팀장 이준동 반부패수사1부장)은 이날 오전 이 본부장을 소환해 큐텐 그룹의 재무 상황을 확인 중이다. 이 본부장은 구영배 큐텐 대표 측근으로 티메프 재무를 총괄하며 판매대금 정산과 자금 관리 등을 담당해온 인물이다. 또 지난 4월 큐텐이 글로벌 이커머스 플랫폼 위시 인수를 위해 티몬에서 200억원을 빌릴 당시에도 이 본부장이 이를 승인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;구 대표는 지난달 30일 국회 정무위원회의 긴급 현안질의에서 자신은 그룹의 구체적인 자금 흐름을 알지 못한다며 “재무본부장이 전체적으로 총괄하고 있다”고 답변했다.&lt;br&gt;&lt;br&gt;류광진 티몬 대표와 류화현 위메프 대표 역시 미정산 상황을 공유받지 못했다는 입장이다. 큐텐은 2022~2023년 티몬과 위메프를 차례로 인수한 뒤 재무 파트를 흡수하고 영업·마케팅 기능만 남겨놨었다.&lt;br&gt;&lt;br&gt;검찰은 이 본부장을 상대로 큐텐 그룹의 전반적인 자금 흐름을 조사하고 압수물 분석 등을 거쳐 구 대표 등을 피의자 조사할 방침이다.&lt;br&gt;&lt;br&gt;한편 검찰은 전날에 이어 이날도 큐텐테크놀로지, 티몬, 위메프 등 관계사 사무실을 압수수색 중이다. 검찰은 전날 이들 회사를 포함해 총 10곳에 대한 압수수색에 나섰지만, 확보할 자료가 많아 이날 추가 압수수색에 나선 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘유흥업소 성폭행 혐의’ 성동구 의원 구속 기로...영장 심사 진행</title>
       <link>https://www.chosun.com/national/national_general/2024/08/02/IS5NR325JVHBJMIYTZXTKGBM5Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/02/IS5NR325JVHBJMIYTZXTKGBM5Y/</guid>
@@ -908,15 +917,6 @@
       <description/>
       <pubDate>Wed, 31 Jul 2024 17:32:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CXJ7YPX4RB6JKSZSED6GH7LAI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[길] 1.5평 쪽방엔 약봉지 수북… 달력엔 “너무 아푸다, 살기 실타”</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/01/EQUZMKFDPVGR7A6BVXAEDO4DGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/EQUZMKFDPVGR7A6BVXAEDO4DGQ/</guid>
-      <dc:creator>안준현 기자, 김영은 인턴기자(한국외대 말레이시아인도네시아어과 졸업)</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 16:39:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IVIGUSBM55ET7KMU3MVN2YDNKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아령을 묶고 한강에 투신했던 박모씨의 고시원 쪽방. /김영은 인턴기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 28일 경기 고양시 덕양구 행주나루터에서 팔에 5㎏ 아령을 묶은 시신으로 발견된 박모(61)씨의 마지막 거처는 서울 성동구 금호동의 한 고시원이었다. 4.9㎡(1.5평) 남짓한 쪽방에 걸린 달력엔 “몸이 너무 아푸다(아프다). 살기 실타(싫다). 죽고 싶다”고 적혀 있었다. 중증 당뇨·고지혈증·백내장 등에 시달리던 박씨가 복용하던 약 봉지가 방 한편 탁자에 빼곡했다. 보건복지부가 발송한 건강검진 안내문엔 ‘청소비로 쓰세요’라고 적혀 있었다. 박씨는 봉투에 10만원을 넣어뒀다고 경찰은 밝혔다.&lt;br&gt;&lt;br&gt;이 고시원 간판엔 ‘해피’라는 낱말이 있었지만, 지난 30일 본지 기자들이 찾은 박씨의 쪽방은 행복과는 거리가 멀었다. 소형 냉장고엔 쌈장과 고추장이 놓여 있었다. 나무젓가락과 컵라면, 국그릇과 숟가락, 생수병 등의 모습도 보였다. 천장 옷걸이엔 수건과 속옷·양말, 겨울 옷가지 등이 걸려 있었다. 고시원이 방음이 되지 않았던 모양인지 침대 위엔 귀마개와 이어폰이 있었다.&lt;br&gt;&lt;br&gt;박씨가 삶의 끈을 부여잡으려는 흔적이 곳곳에 남아 있었다. 아직 새것인 로또 OMR 용지 다발이 수북했고, 컴퓨터용 사인펜도 넉넉했다. ‘당뇨약’ 아침 식후 즉시, ‘고지혈증약’ 1일 1회, ‘위장약’ 식전 등 약병 뚜껑엔 복용 요령이 빼곡히 적혀 있었다. 방 한편엔 구직 광고가 있는 신문이 쌓여 있었다. ‘양조 식초가 혈관과 장에 좋다’는 수첩 메모도 있었다.&lt;br&gt;&lt;br&gt;박씨는 2008년 3월부터 이 고시원에서 살았다고 한다. 충북 충주 출신인 그는 20대에 상경해 세차장에서 일했다. 결혼은 하지 않았다. 지인들은 그를 ‘착하고 온순한 사람’으로 기억했다. 하지만 친구에게 사기를 당해 마음고생도 심했다고 한다. 50대가 되면서 각종 성인병이 발병했고 세차장에서 일하다가 정화조에서 떨어져 어깨를 다치기도 했다.&lt;br&gt;&lt;br&gt;박씨는 기초생활수급자로 한 달 95만원을 받았다. 지난해 모친이 별세하면서 삶의 의지를 잃었다고 한다. 고시원 달력 음력 5월 15일엔 ‘어머니 기일’이라고 적혀 있었다. 그는 지난 25일 동호대교에서 투신했다. 시신은 한강을 따라 22km를 떠내려가 사흘 만에 발견됐다.&lt;br&gt;&lt;br&gt;한국보건사회연구원이 발표한 ‘2022년 한국복지패널 조사·분석 보고서’를 보면 박씨와 같은 저소득층(1인 월 222만원 이하)은 소득이 높은 사람들보다 만성 질환 비율이나 병원을 찾는 횟수가 2배가량 많은 것으로 나타났다. 저소득층의 우울 정도는 9.99점(60점 만점)으로 비(非)저소득층(4.63점)보다 2배 높았고, 1년 동안 한 번이라도 자살 생각을 한 적 있다는 응답은 저소득층이 비저소득층의 3배였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“홍수 걱정 없겠네” “물에 마을 잠기나” 기후 대응 댐 후보지 14곳 찬반 갈려</title>
