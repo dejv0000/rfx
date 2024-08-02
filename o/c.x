@@ -13,6 +13,113 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“당신 성매매 했지?” 아내는 이혼을 선언했다 [이별전쟁]</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/03/CCSQHY2UTJE65ESRDAEP5EYYRM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/03/CCSQHY2UTJE65ESRDAEP5EYYRM/</guid>
+      <dc:creator>법무법인 시작</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Aug 2024 20:30:00 +0000</pubDate>
+      <content:encoded>&lt;b&gt;편집자주: 이 기사는 이혼 소송 과정에서 필요한 법률 지식을 제공할 목적으로 제작됐습니다. 기사 내용은 실제 사례를 각색했습니다. 기사 내 언급되는 이름과 지명 등이 실제와 같은 경우가 있더라도 이는 우연에 의한 것임을 밝힙니다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;매주 토요일·일요일 연재.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WCAQZDLQVBERTHQSE6O5JPD54Q.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K7QV267YPNCUXITUGJO763VHVM.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HNUNV42375FCJP3FHHT7LALEGY.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EIK55RTAXRCJHICM7CZB63G4PI.jpg"&gt;&lt;br&gt;&lt;br&gt;[이별전쟁] 잘못된 만남②에서 계속.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&amp;lt;다른 회차 보기&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;a href="https://www.chosun.com/ZCJGBQ2REJFDRNXACVI5VUVEI4/https://www.chosun.com/ZCJGBQ2REJFDRNXACVI5VUVEI4/?utm_source=article&amp;utm_medium=referral&amp;utm_campaign=lawtoon" target="_blank"&gt;[이별전쟁 2-1] 천상계 여자①&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href="https://m.site.naver.com/1ruHv"&gt;https://m.site.naver.com/1ruHv&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href="https://www.chosun.com/4QFJSYTP7VGQ3JNEMRATLU2KAI/?utm_source=article&amp;utm_medium=referral&amp;utm_campaign=lawtoon"&gt;[이별전쟁 2-2] 천상계 여자②&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href="https://m.site.naver.com/1ruHK"&gt;https://m.site.naver.com/1ruHK&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PSSWGMFPNVHNDLHD6AC4CMWCH4.png?width=1800&amp;height=1012&amp;auth=4cad5db3f4a88eaf6446c58f3b6323434aa5f9451fb4d0cc3b0a62a821c4902b&amp;smart=true" type="image/png" height="1012" width="1800"/>
+    </item>
+    <item>
+      <title>[단독] 교사 임용고시, 내년부터 ‘추가 합격’ 도입</title>
+      <link>https://www.chosun.com/national/education/2024/08/03/QMFDDH7FMNC57BKJ5XSVNKSXQE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/08/03/QMFDDH7FMNC57BKJ5XSVNKSXQE/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Aug 2024 20:02:00 +0000</pubDate>
+      <content:encoded>‘임용고시’라 불리는 유·초·중·고 교원 임용시험에 ‘추가 합격’ 제도가 도입된다. 지금까진 시험에 합격한 뒤 교사 임용을 포기하는 사람이 생겨도 결원을 메우지 않고 모자란 인원만큼 다음 해에 더 뽑았다. 앞으론 후순위 지원자를 추가 합격시켜 곧바로 정원을 채운다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SC3YSGDYYVCK3LCKYGMDCVJKVI.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 교육부는 교원 임용시험 규정에 추가 합격 조항을 추가한 ‘교육공무원 임용 후보자 선정 경쟁시험 규칙’ 개정안을 입법예고했다. 개정안엔 최종 합격자가 학교에 배치되기 전 대기 기간에 임용을 포기하거나 전과 등 결격 사유가 밝혀져 탈락하는 경우 추가 합격자를 뽑을 수 있다는 내용이 담겼다. 교육부에 따르면 매년 약 20~40명이 시험 합격 후 임용을 포기한다. 임용시험에 추가 합격이 생기는 것은 지금 같은 형태의 시험이 시작된 1991년 이후 30여 년 만이다.&lt;br&gt;&lt;br&gt;추가 합격을 만든 이유는 교육부가 학령인구 감소에 대비해 교원 선발 규모를 줄이면서 정규직 교사 수급이 어려워졌기 때문이다. 그동안 교육청들은 “추가 합격자라도 뽑게 해달라”고 요구해왔다.&lt;br&gt;&lt;br&gt;교육부는 미래 학생 수 감소 폭이 더욱 커질 것을 고려해 교사 채용을 줄이고 있다. 초등교사 선발은 2014년 7386명에서 작년 3561명으로 절반 넘게 줄었다. 중·고등 교사는 4500명 내외 규모로 뽑고 있지만 2027년까지 약 20% 줄일 계획이다. 따라서 일부 지역에선 필요 교사 대비 신규 채용 인원이 적은 상황이다. 전국에서 학생 수가 가장 많은 경기도(163만명)는 신도시 건설 등으로 과밀 학급이 많지만 교사를 적극적으로 늘릴 수 없다. 경기교육청 관계자는 “정규직 교사만 4500명 정도가 더 필요한 상황”이라고 했다. 다른 시·도 교육청들도 부족한 정규직 교사 자리를 기간제 교사를 고용해 메우고 있다. 따라서 정규직 교사를 한 명이라도 더 뽑아 부족한 인력을 채워야 한다는 요구가 나왔던 것이다.&lt;br&gt;&lt;br&gt;교육부는 관련 행정절차를 마련해 내년에 접수하는 2026학년도 임용시험 응시자부터 추가 합격 제도를 적용할 예정이다. 한 해 뽑는 유·초·중·고 교사 수(약 8000명)에 비해 대상자가 많지는 않지만 이전까진 시험에 떨어지면 1년을 통째로 다시 준비해야 했다. 아쉽게 불합격한 지원자들에겐 반가운 혜택이 될 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>필수의료 전공의 60% 넘게 사직</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/08/03/XY55J2STNNBOVC3GP33SLQUZRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/03/XY55J2STNNBOVC3GP33SLQUZRY/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Aug 2024 15:50:00 +0000</pubDate>
+      <content:encoded>정부의 의대 증원에 반발해 의료 현장을 떠난 전공의 가운데 방사선종양학과, 흉부외과, 산부인과, 소아청소년과 등 필수 의료 진료과 소속 전공의의 사직 비율이 다른 과보다 상대적으로 높은 것으로 나타났다.&lt;br&gt;&lt;br&gt;2일 보건복지부가 김윤 더불어민주당 의원실에 제출한 자료에 따르면 지난달 18일 기준 현장에 복귀하지 않은 레지던트 1만463명 중에서 사직 의사를 명확히 밝힌 4698명을 소속 과별로 분류해보니, 암을 치료하는 방사선종양학과의 사직률이 75%로 가장 높았다. 이어 심장혈관흉부외과(62.6%), 산부인과(61.2%), 소아청소년과(59.7%), 핵의학과(56.5%), 외과(55.9%), 진단검사의학과(54.7%)가 사직률이 50%를 넘었다.&lt;br&gt;&lt;br&gt;반면 예방의학과는 사직자가 ‘0명’으로 집계됐고, 직업환경의학과(28.6%), 정신건강의학과(34.8%), 가정의학과(38.7%), 신경과(39.8%) 등이 비교적 사직률이 낮았다. 또 이른바 ‘피·안·성(피부과 사직률 41%, 안과 40.8%, 성형외과 48.3%)’, ‘정·재·영(정형외과 40.9%, 재활의학과 45%, 영상의학과 48.4%)’ 등 비(非)필수 인기과들도 사직률이 40%대로 상대적으로 낮았다.&lt;br&gt;&lt;br&gt;의료계에서는 앞으로 필수 의료 전문의 배출에 차질이 불가피하다는 지적이 나온다. 지난달 31일까지 진행된 전국 수련 병원 126곳의 하반기 전공의 모집에 지원한 전공의는 총 모집 인원(7645명)의 1.4%(104명)에 불과했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>차주 과실 땐 기소까지, 차량 결함 땐 책임 면해</title>
+      <link>https://www.chosun.com/national/regional/2024/08/03/4FB3QT72WBGVVJJDMHZ6CZVGSA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/03/4FB3QT72WBGVVJJDMHZ6CZVGSA/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Aug 2024 15:50:00 +0000</pubDate>
+      <content:encoded>과거에도 차량 화재로 주변 차량이 불타는 사고들이 있었다. 하지만 배상 책임은 사고마다 차이가 있다.&lt;br&gt;&lt;br&gt;2021년 충남 천안의 한 아파트 지하 주차장에서 출장 세차 차량이 폭발하면서 주차된 차량 670여 대가 불에 타거나 그을리는 사고가 발생했다. 당시에도 아파트 지하 주차장의 수도 배관과 전기 시설 등이 불타 주민들이 불편을 겪었다. 주민 10여 명이 연기를 마셔 병원에서 치료를 받았다.&lt;br&gt;&lt;br&gt;사고는 출장 세차 업체 직원인 A씨가 차량에서 액화석유가스(LPG)가 새어 나오는 사실을 모른 채 담배를 피우려다 발생했다. A씨는 폭발로 중상을 입었다.&lt;br&gt;&lt;br&gt;당시 보험 업계가 추산한 전체 손해액은 43억원에 달했고 피해 차량은 대부분 보험 처리됐다고 한다.&lt;br&gt;&lt;br&gt;불을 낸 A씨는 배상 책임을 지는 것은 물론 업무상 과실 폭발성 물건 파열 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;차주의 책임을 인정하지 않은 판결도 있었다. 운전자 B씨는 2021년 아파트 주차장에 주차하고 집에 들어가던 중 자기 차에서 화염이 나자 곧바로 119에 신고했다. 하지만 불은 빠르게 번져 B씨 차량이 전소하고 옆에 있던 차량도 태웠다. 보험사는 손해를 보상한 뒤 B씨에 구상금을 청구하는 소송을 냈지만 1심 법원은 B씨 책임이 없다고 판결했다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사18단독 이세훈 판사는 작년 2월 “화재는 차량 계기판 주변에서 전기적인 요인으로 발생한 것으로 추정된다”며 “B씨가 차량을 임의로 개조하거나 튜닝한 사실도 없다”고 했다. 차량 결함으로 인한 사고의 경우 차주의 과실이 없다면 배상 책임도 없다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>물탱크 못써… 지하주차장 전기차 1대 화재에 140대 피해</title>
+      <link>https://www.chosun.com/national/incident/2024/08/03/EDH2I7AB6RBXDNLEPULGDQ6C4Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/03/EDH2I7AB6RBXDNLEPULGDQ6C4Q/</guid>
+      <dc:creator>인천=김수언 기자, 인천=권상은 기자, 인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Aug 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UWJHKUO57VGGJMNXFTS3FJ27WU.gif"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오전 인천 서구 청라 아파트 지하 주차장에 차량 들이 전소돼 있다. 전날 오전 6시 15분쯤 아파트 지하 1층에서 벤츠 전기차에 화재가 발생해 8시간 20분 만에 진화됐다. 이 화재로 지하 주차장에 있던 차량 40여대가 불에 탔고, 100여대가 열손 및 그을음 피해를 입었다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1일 인천 청라국제도시의 한 아파트 지하 주차장에서 벤츠 전기차 1대가 폭발해 주변 차량 140여 대가 전소하거나 불에 그을렸고 주민 120여 명이 긴급 대피했다. 지하 주차장 내부의 전기 설비와 수도 배관이 불타 5개동 480여 가구의 전기와 물이 끊겼다. 23명은 연기를 마셔 병원으로 이송됐다. 대피한 주민들은 인근 행정복지센터 등에서 ‘피난살이’를 하고 있다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇왜 이렇게 피해가 컸나&lt;/b&gt;&lt;br&gt;&lt;br&gt;이번 사고는 지하 주차장에서 발생한 전기차 화재의 위험성을 그대로 보여줬다.&lt;br&gt;&lt;br&gt;2일 인천소방본부 등에 따르면, 화재는 전날 오전 6시 15분쯤 지하 1층 주차장에 주차된 벤츠 EQE350 전기차에서 시작됐다. 당시 지하 주차장 보안 카메라 영상을 보면, 차량에서 흰 연기가 나더니 갑자기 폭발하며 불길이 치솟았다. 환기가 원활하지 않은 지하 주차장은 순식간에 유독 가스로 가득 찼다. 소방은 전기차 화재 때 쓰는 ‘이동식 수조’도 준비했지만 짙은 연기와 배터리의 열폭주(전기차 배터리가 연쇄적으로 폭발하는 현상), 거센 열기 때문에 지하 주차장에 진입하지 못했다고 한다. 전기차 배터리에서 나는 불은 일반 소화기나 소화전으로 끄기 어렵고 물이 담긴 이동식 수조에 차량을 통째로 빠뜨리는 방식으로 끈다.&lt;br&gt;&lt;br&gt;소방은 배연 차량 등을 동원해 지하 주차장을 가득 메운 연기부터 빼낸 뒤 화재 진압을 시도했다. 하지만 여러 차량이 빽빽이 주차된 비좁은 주차장에서 이동식 수조를 쓸 수가 없었고, 소방대원들은 호스를 빼들고 차량 하부의 배터리 등에 집중적으로 물을 뿌렸다고 한다. 그러나 화염이 치솟고 불이 주변 차량으로 계속 번지면서 진화에 8시간 20분이 걸렸다. 그 사이 피해는 눈덩이처럼 불어났다.&lt;br&gt;&lt;br&gt;이날 온라인 커뮤니티에는 ‘우리 아파트 지하 주차장에서도 일어날 수 있는 사고인데 겁난다’ ‘전기차 불안해서 어떻게 타느냐’ ‘인명 피해가 없어서 천만다행’ 등 글이 올라왔다.&lt;br&gt;&lt;br&gt;전문가들은 “이번 사고를 계기로 예방 대책을 만들어야 한다”고 입을 모았다. 이용재 경민대 소방안전관리과 교수는 “전기차는 불이 나면 연쇄적으로 폭발해 가솔린·디젤차 화재보다 10배 이상 진화하기 어렵다”며 “전기차 주차장을 지상에 두거나 화재를 조기에 감지할 수 있는 센서를 설치할 필요가 있다”고 했다. 전기차 주차장에는 더 많은 물을 뿌릴 수 있는 스프링클러를 설치하자는 의견도 있었다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇주민 손해는 어떻게 하나&lt;/b&gt;&lt;br&gt;&lt;br&gt;보상 문제에 대해서도 관심이 쏠린다. 전기차 1대에서 시작된 불로 아파트 입주민들까지 피해를 봤기 때문이다. 이 아파트 4층에 산다는 주민 A(63)씨는 “집 안 스프링클러가 터져 TV, 소파가 다 젖었다”며 “검은 분진도 온 집에 쌓였다”고 했다.&lt;br&gt;&lt;br&gt;손해보험 업계에 따르면, 원칙적으로 전기차 차주가 주민 피해를 배상해야 한다. 이 차주가 가입한 보험의 보장 한도 안에서 배상할 수 있다. 하지만 일반적인 자동차보험의 보장 한도로는 턱없이 부족할 가능성이 크다. 차량이나 배터리 결함이 드러나면 전기차 제조사인 벤츠와 중국 배터리 업체의 배상 책임이 인정될 수 있다. 차주의 과실이 있으면 차주가 직접 배상해야 할 수도 있다. 소방 당국에 따르면, 당시 충전 중인 상황은 아니었다고 한다. 다른 주민들은 각자 가입한 자동차보험의 자차(자기차량손해) 보험금을 받을 수 있다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 정확한 화재 원인을 조사하기 위해 이날 오전 합동 감식을 했다. 8일에는 국립과학수사연구원과 합동 감식을 할 예정이다.&lt;br&gt;&lt;br&gt;소방청에 따르면, 해마다 전기차 화재는 증가하는 추세다. 2021년 24건에서 2023년 72건으로 2년 새 3배가 됐다. 최근 3년간 발생한 전기차 화재 139건을 분석해보면 운행 중 발생한 사고가 68건으로 가장 많았고 주차 중 화재도 36건이었다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“물 달라 했는데 안 줘” 60대 女 미화원 살해</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/03/TLFMSBIASZF4LNUP3QQPGUILOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/03/TLFMSBIASZF4LNUP3QQPGUILOM/</guid>
+      <dc:creator>김병권 기자, 김지수 인턴기자(연세대 경영학과 수료), 권순재 인턴기자(연세대 정치외교학과 수료)</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Aug 2024 15:50:00 +0000</pubDate>
+      <content:encoded>서울 한복판에서 평소 알고 지내던 60대 여성 환경미화원을 살해한 70대 남성이 경찰에 붙잡혔다. 서울 남대문경찰서는 2일 오전 5시 10분쯤 서울 중구 숭례문광장 앞 지하도에서 환경미화원 조모(64)씨를 흉기로 수차례 찔러 살해한 혐의를 받는 남성 이모(71)씨를 긴급 체포해 조사 중이라고 밝혔다. 이씨는 작년 5월부터 알고 지내던 조씨에게 물을 달라고 했으나 조씨가 “물이 없다”고 하자 격분해 범행을 저질렀다고 한다. 이씨는 “조씨가 평소부터 쌀쌀맞은 태도로 나를 무시한다고 느꼈다”고 경찰에 진술했다.&lt;br&gt;&lt;br&gt;2일 오전 5시 10분쯤 ‘누군가 피를 흘린 채 쓰러져 있다’는 신고를 받은 경찰은 현장 감시카메라 영상을 분석, 사건 발생 3시간 40분 만에 서울 용산구 동자동 쪽방촌에서 이씨를 검거했다. 이씨는 노숙 생활을 해왔으나 작년 12월부터는 동자동의 한 여인숙에 거주 중이다. 그는 이날 새벽 지하도에 있었던 이유에 대해 경찰에 “집이 너무 더워 밖에 나왔다”고 했다.&lt;br&gt;&lt;br&gt;이씨가 범행에 사용한 흉기는 길이 20㎝가량 가위였다. 조씨는 피습 직후 병원으로 옮겨졌으나 이송 도중 심정지가 발생, 오전 6시 20분쯤 사망했다. 그는 서울 중구청과 용역 계약을 맺은 환경미화 업체 직원으로, 2년가량 현장에서 청소 일을 했다고 한다. 이 때문에 노숙 생활을 했던 이씨와도 안면이 있었던 것으로 알려졌다. 경찰 관계자는 “평소 피해자에게 쌓인 불만이 폭발해 범행한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “피의자에 대한 음주·마약 검사를 시행했지만, 모두 음성이 나왔다”며 “구속 영장을 신청해 추가 조사할 것”이라고 했다. 최근 5일간 서울에서 벌어진 살인 사건은 세 차례다. 지난달 29일에는 은평구 아파트 단지 앞에서 백모(37)씨가 1m 길이 일본도를 휘둘러 같은 아파트 주민 김모(43)씨를 살해했다. 이틀 후인 지난달 31일에는 50대 남성 B씨가 자신이 살던 노원구 공릉동의 한 아파트로 평소 알고 지내던 50대 여성을 불러들인 뒤 흉기로 살해한 사건이 발생했다. 살인 사건을 포함해 최근 9일간 서울에서 흉기 난동이 7건 발생하자 시민 불안도 커지고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“신궁의 나라서 신궁처럼” 외국인 관광객 북적</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/03/HMVTZ2WVHVACXNI3BUSI3CLI2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/03/HMVTZ2WVHVACXNI3BUSI3CLI2Y/</guid>
+      <dc:creator>강지은 기자, 김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Aug 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAKUVTCHEJGFVIZ6DTIMZC2JYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 낮 12시 서울 구로구의 한 양궁 교습소에서 독일인 린다 데브레이(왼쪽부터), 큐옌 응우옌, 소피 란게가 활시위를 당기고 있다./강지은 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“아인(eins·하나), 츠바이(zwei·둘), 드라이(drei·셋)! 시선은 과녁에, 왼팔은 곧게 뻗고 쏘세요!”&lt;br&gt;&lt;br&gt;지난 1일 오후 서울 구로구 고척돔 인근 한 양궁 클럽 ‘주몽’. 독일인 3명이 양궁 강사 이경화(44)씨의 지시에 맞춰 활시위를 당겼다. 5점, 5점, 8점. “아!” “오!” 환희와 아쉬움의 탄성이 교차했다.&lt;br&gt;&lt;br&gt;이날 양궁을 처음 배워봤다는 큐옌 응우옌(31)씨는 “팔에 힘이 이렇게 많이 들어가는 줄 몰랐다”며 “팔이 아파 죽겠다”고 했다. 소피 란게(36)씨는 “양궁을 잘하는 한국에서 배운다니 믿음이 갔다”며 “이번에 한국 여자 양궁이 10연패를 달성했다고 해 더 기대가 됐다”고 했다. 지난해 우연히 양궁 카페에 가봤던 린다 데브레이(34)씨는 “정말 재밌어서 올해는 친구들을 데리고 한국을 재방문했다”고 했다.&lt;br&gt;&lt;br&gt;국궁(國弓)과 대비되는 서양 활쏘기인 양궁(洋弓)의 종주국은 영국이다. 1538년 헨리 8세가 처음으로 활쏘기 대회를 연 것이 스포츠로서 양궁의 시초다. 그런데 이 양궁을 한국에서 배우겠다는 외국인이 늘어나고 있다는 것이다. 외국에서 정식으로 양궁을 배운 어린 선수들이 방학을 틈타 “‘양궁 대국’ 한국에서 제대로 배워보고 싶다”고 달려온다.&lt;br&gt;&lt;br&gt;생활체육 위주인 미국이나 유럽과 달리 한국의 양궁 클럽은 엘리트 코스를 밟아온 코치·선수 위주이기 때문이다. 국내에선 스포츠 전 종목에 걸쳐 지적되는 문제지만, 외국인들은 “한국에 와서 엘리트 선수를 양성하는 전문적인 시스템을 맛볼 수 있다”며 “기초 교습에서 느껴지는 혹독한 분위기가 매력적”이라고 말한다.&lt;br&gt;&lt;br&gt;지난달엔 양궁 전공을 고민하던 한 캐나다 학생이 양궁 클럽 ‘주몽’에서 한 달 동안 집중 트레이닝을 받고 귀국했다. 이 학생의 부모는 “캐나다의 클럽 분위기는 전문적이지 않다”며 “활 잡는 법만 해도 한국에서는 손 모양, 힘 줘야 할 부분, 활이 팔에 닿아야 할 부분을 세세히 알려줘 만족스러웠다”고 말했다고 한다.&lt;br&gt;&lt;br&gt;지난달 28~29일, 2024년 파리 올림픽에서 한국 여자 양궁이 10연패, 남자 양궁이 3연패를 달성하자 서울에 체류 중인 외국인들은 “도대체 한국 양궁은 어떻길래”라며 각지의 양궁 클럽으로 달려왔다. 서울 서대문구 양궁 카페 ‘로빈훗’은 지난 1일 외국인들로 붐볐다. 영국 스코틀랜드의 한 대학에 다니는 홍콩인 시안 추(21)씨는 “지난 29일부터 한국 여행 중인데, 한국 양궁이 금메달을 따는 모습을 보고 달려왔다”며 “한국 선수들의 집중하는 모습, 명중시키는 모습이 너무 신났다”고 했다. 네덜란드인 시레타 도멘(41)씨는 “올림픽 양궁 경기에서 네덜란드가 한국에 졌다고 해서 이곳을 찾았다”고 했다.&lt;br&gt;&lt;br&gt;대한양궁협회는 1959년 체육교사 고(故) 석봉근씨가 고물상에서 우연히 양궁을 발견, 일반에 보급하기 시작한 것을 한국 양궁의 시발점으로 보고 있다. 1963년 국궁 대회에서 양궁 경기가 시범 종목으로 도입됐다. 같은 해 국제양궁연맹(FITA)에 정식 회원국으로 가입했다. 대한양궁협회에 등록된 양궁 클럽은 서울 12곳, 전국 88곳이다.&lt;br&gt;&lt;br&gt;대한양궁협회 관계자는 “한국 양궁 선수들의 성적이 좋아 세계적으로 명성을 날리다 보니 한국 양궁 교육 방식에 대한 관심도 높아지고 있다”며 “한국인 지도자들이 해외에 나가 외국 선수들을 가르치는 사례도 많다”고 했다. 최헌혁 강원대 체육교육과 교수는 한국 양궁의 위상에 대해 “선수들의 압도적인 경기력과 심리 상담사·지도자들의 뛰어난 코칭 능력, 품질 좋은 장비의 합작품”이라며 “한국 양궁에 대한 긍정적인 이미지가 외국인 관광객들의 참여 욕구를 불러일으키는 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[기자수첩] 한 대법관의 ‘도그마’가 남긴 것들</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/03/2ZYTUIJELVGQVMPV2Y32AKOUEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/03/2ZYTUIJELVGQVMPV2Y32AKOUEE/</guid>
+      <dc:creator>양은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Aug 2024 15:50:00 +0000</pubDate>
+      <content:encoded>2018년 7월 김선수 변호사의 대법관 후보 제청은 파격적이었다. 사법시험에 수석 합격하고도 판검사가 되지 않고 30년 ‘노동 변론’의 외길을 걸은 것도, 민변 회장을 지낸 이력도 놀라웠다. 당시 김명수 대법원의 관계자는 “그동안 보수적인 노동 사건 판례에 새로운 시각과 고민이 많이 반영될 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;변호사 시절 그가 주장한 논리는 판결로 이어졌다. 2019년 4월 대법원 전원합의체(주심 박정화 대법관)는 택시 기사들이 회사를 상대로 낸 임금 소송에서 “노사 간 근로시간 단축 합의는 무효”라고 판결했다. 이 회사 노사는 최저임금을 맞추기 위해 사납금을 인상하지 않는 대신, 장부에 실제 근무시간보다 짧은 시간을 적기로 합의했었다. 그런데 대법원이 “최저임금 규정을 피하기 위한 탈법”이라고 본 것이다. 김 대법관은 이 사건 주심은 아니었지만 다수 의견에 대한 보충 의견을 내면서 사실상 논의를 주도했다고 한다.&lt;br&gt;&lt;br&gt;이 판결 이후 택시 기사들의 소송이 잇따랐다. 이미 회사를 떠난 기사들이 낸 소송도 적지 않았다. 여력이 없는 회사들은 줄도산했다. 경기도에서 택시 회사를 운영하던 강모씨는 전원합의체 판결 후 이어진 기사들 소송에 시달리다가 지난 6월 29일 극단적 선택을 했다. 그는 유서에서 “매달 1500만원 정도의 적자를 봤다. 2021년 기사들에게 사업권을 양도하려고 협동조합으로 전환했지만 조합원이 모이지 않았고, 사채까지 끌어 운영했지만 도저히 부채를 감당할 수 없었다”고 적었다.&lt;br&gt;&lt;br&gt;강씨에겐 ‘김선수 공포’가 있었다. 기사 9명이 낸 소송 1·2심에서 회사가 승소했지만, 대법원에서 김선수 대법관이 포함된 재판부(대법원 1부)에 배당되자 불안해했다고 한다. 강씨 측 변호사는 “‘판결이 뒤집히는 것 아니냐’고 여러 번 물었었다”고 했다.&lt;br&gt;&lt;br&gt;김 대법관은 수사나 재판을 받는 공직자들이 선거 출마를 도피처로 삼을 수 있는 발판을 마련했다. 울산시장 선거 개입 사건으로 고발된 황운하 당시 치안감이 사표를 내고 총선에 출마한 데 대해 “사퇴 기한 내에 사표를 냈다면 수리되지 않아도 출마할 수 있다”고 판결했다. 이후 수사나 재판 도중 사표를 내고 선거에 나선 공직자들이 줄을 이었다. 이성윤 민주당 의원도, 검사 신분이면서 조국혁신당 대변인을 맡고 있는 이규원 검사도 그랬다.&lt;br&gt;&lt;br&gt;“사회적 약자와 소수자가 겪는 차별과 소외를 잘 전달해 올바른 판결을 하는 데 도움을 주는 게 중요한 역할 중 하나라고 생각했습니다.” 지난 1일 6년의 임기를 마친 김 대법관이 남긴 말이다.&lt;br&gt;&lt;br&gt;묻고 싶다. 노사 합의를 뒤집고 그만둔 회사를 상대로 소송을 내는 기사들, 재판과 수사를 선거 출마로 막아보겠다는 공직자들이 과연 ‘약자’일까. 한 대법관의 도그마(독단적 신념)는 자칫 강씨와 같은 비극적 결말을 낳기도, 출마를 도피처로 삼는 부정의를 낳기도 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 김정항 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/08/03/IXC2VBCQBJDOHMNSYCL6ZB2SDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/08/03/IXC2VBCQBJDOHMNSYCL6ZB2SDM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Aug 2024 15:30:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;김정항&lt;/b&gt; 별세, &lt;b&gt;김명한&lt;/b&gt; 서울교통공사 차장·&lt;b&gt;김을한&lt;/b&gt; CJ대한통운 노원지사장 모친상, &lt;b&gt;이영성&lt;/b&gt; 한국일보 고문 장모상=2일8시20분 서울아산병원, 발인 5일5시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;남상선&lt;/b&gt; 조선일보 CS 모라센터 대표 별세, &lt;b&gt;오순임&lt;/b&gt; 남편상, &lt;b&gt;남현지&lt;/b&gt;·&lt;b&gt;남희지&lt;/b&gt; 부친상=2일9시7분 부산전문장례식장, 발인 4일11시, (051)312-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이남식&lt;/b&gt; 별세, &lt;b&gt;이순자&lt;/b&gt;·&lt;b&gt;이오녀&lt;/b&gt;·&lt;b&gt;이순남&lt;/b&gt;·&lt;b&gt;이순애&lt;/b&gt;·&lt;b&gt;이종선&lt;/b&gt;·&lt;b&gt;이순옥&lt;/b&gt;·&lt;b&gt;이순녀&lt;/b&gt; 부친상, &lt;b&gt;임재일&lt;/b&gt;·&lt;b&gt;성형섭&lt;/b&gt;·&lt;b&gt;김명수&lt;/b&gt;·&lt;b&gt;조만희&lt;/b&gt;·&lt;b&gt;유주형&lt;/b&gt;·&lt;b&gt;이동하&lt;/b&gt; 장인상, &lt;b&gt;박선우&lt;/b&gt; 시부상=1일20시48분 원자력병원, 발인 4일7시, (02)970-1541&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이종윤&lt;/b&gt; 별세, &lt;b&gt;오외순&lt;/b&gt; 남편상, &lt;b&gt;이수연&lt;/b&gt; 롯데건설 홍보팀 대리·&lt;b&gt;이하연&lt;/b&gt; 부친상=2일0시59분 서울대병원, 발인 4일9시, (02)2072-2010&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2024년 8월 3일</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/03/FU3WH4KWRVCXLMBQ2TVMRKTTT4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/03/FU3WH4KWRVCXLMBQ2TVMRKTTT4/</guid>
+      <description/>
+      <pubDate>Fri, 02 Aug 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7OMFAA6HVEUHB4SFZBLXVMH6U.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[인사] 농림축산식품부 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/08/03/ZJB6LYAIKBGSNGBERLSIZED5IU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/08/03/ZJB6LYAIKBGSNGBERLSIZED5IU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Aug 2024 15:30:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;농림축산식품부&lt;/b&gt;◇과장급 전보▷농촌여성정책팀장 최수아▷국립농산물품질관리원 농업정보자재과장 전준연&lt;br&gt;&lt;br&gt;▲&lt;b&gt;법제처&lt;/b&gt;◇과장급 전보▷법제지원국 법령용어순화팀장 이상현&lt;br&gt;&lt;br&gt;▲&lt;b&gt;해양경찰청&lt;/b&gt;◇치안감 전보▷본청 수사국장 김인창▷서해지방해양경찰청장 이명준▷남해지방해양경찰청장 장인식&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한국국제교류재단&lt;/b&gt;◇실(원)장급▷감사실장 임철우▷글로벌사업1실장 최재진▷글로벌사업2실장 이광철▷경영지원실장 직무대리 김규호◇부장급▷커뮤니케이션부장 이시연▷하노이사무소장 우형민&lt;br&gt;&lt;br&gt;▲&lt;b&gt;SGI서울보증&lt;/b&gt;▷상근감사위원 김대남&lt;br&gt;&lt;br&gt;▲&lt;b&gt;고려대&lt;/b&gt;▷약학대학장 박성규&lt;br&gt;&lt;br&gt;▲&lt;b&gt;국민대&lt;/b&gt;▷경영대학원장 김도현▷디자인대학원장 이준희&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한겨레신문사&lt;/b&gt;▷영상센터 시사제작부장 박성영▷뉴스룸국 뉴스영상부 뉴스영상팀장 조성욱&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조선일보&lt;/b&gt;▷회계2팀장 김태훈&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[플라자] 세종대학교 ‘퍼지 이론과 딥러닝에 관한 2024 세미나’ 개최 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/08/03/N6HS7ATG6BEHDDC2MWPXOWVBG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/08/03/N6HS7ATG6BEHDDC2MWPXOWVBG4/</guid>
+      <description/>
+      <pubDate>Fri, 02 Aug 2024 15:30:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;세종대학교&lt;/b&gt;는 7일 오후 2시 세종대 광개토관에서 ‘퍼지 이론과 딥러닝에 관한 2024 세미나’를 개최한다. 세종대 수학통계학과 윤진희 교수와 수원대학교 오성권 교수가 퍼지 인지 지도(FCM·Fuzzy Cognitive Maps)를 연구해 온 중국 베이징의 중국지질대학 젠펑(Zhen Peng) 교수를 초청해 특강을 진행한다.&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한반도선진화재단&lt;/b&gt;은 13일 오후 2시 30분 서울 중구 한국프레스센터 19층 기자회견장에서 ‘대한민국 건국의 역사와 8·15 광복의 재조명-건국의 아버지들을 중심으로’라는 주제로 세미나를 개최한다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경주 낮 39도, 강릉 밤 31.4도... 폭염·열대야에 숨이 ‘턱턱’</title>
       <link>https://www.chosun.com/national/national_general/2024/08/02/B3SCZZTN6BDENDSAWD7SEXNI6E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/02/B3SCZZTN6BDENDSAWD7SEXNI6E/</guid>
@@ -836,55 +943,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ILTINPV6TNAR5HEAFVF7XKQFCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 29일 서울 은평구 한 아파트에서 백모(37)씨가 날 길이 75cm의 일본도를 휘둘러 이웃 주민을 살해한 사건이 발생한 가운데 강원도 춘천에서도 60대 남성이 아파트 쉼터에 놓여 있던 재떨이를 치웠다는 이유로 이웃 주민에게 정글도를 휘두르는 사건이 발생했다. 다행히 인명피해는 없었다.&lt;br&gt;&lt;br&gt;강원 춘천경찰서는 특수협박 혐의로 A(61)씨를 붙잡아 조사 중이라고 1일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 하루 전인 지난 31일 오전 8시 39분쯤 강원 춘천시 후평동 한 아파트 쉼터에서 이웃 주민 70대 B씨에게 길이 50cm의 정글도를 휘둘러 위협한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 쉼터에 놓여 있던 재떨이를 B씨가 치우자 화가 난다며 집에 있던 정글도를 이용해 이 같은 범행을 벌였다. A씨가 휘두른 정글도는 제초 작업용 칼이었으며 별도의 소지 허가는 필요하지 않은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 사건 발생 20여분 만에 신고를 받고 출동한 경찰에게 현장에서 붙잡혔다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 범행에 사용한 칼은 도검 소지 허가가 필요치 않은 칼이였다”면서 “재범 우려 등을 고려해 A씨에 대한 구속영장을 신청했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>9·4세 아들 배웅 속…‘일본도 참변’ 희생자 눈물의 발인</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/01/TCNUAYBRSVFYZJCH5M5TEPX46I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/TCNUAYBRSVFYZJCH5M5TEPX46I/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 07:01:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E4T2SCRDH5C65GSLHNGUHJ5TAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오전 서울 은평성모병원 장례식장에서 '일본도 살인' 피해자 김모씨 유족과 지인들이 발인식을 치르고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 은평구의 한 아파트에서 주민이 휘두른 일본도에 숨진 김모(43)씨의 발인식이 눈물 속에 치러졌다.&lt;br&gt;&lt;br&gt;김씨의 발인식은 1일 오전 11시쯤 서울 은평성모병원 장례식장에서 유족과 지인 30여명이 참석한 가운데 엄수됐다.&lt;br&gt;&lt;br&gt;갑작스럽게 남편을 떠나보낸 아내는 넋을 잃은 표정으로 허공을 바라보며 눈물을 흘렸고, 아들을 잃은 모친은 고인의 이름을 여러 차례 불렀다. 바닥에 주저앉아 울부짖는 유족도 있었다.&lt;br&gt;&lt;br&gt;아홉 살과 네 살에 불과한 고인의 두 아들은 아버지에게 마지막 인사를 건넸다. 검은 양복을 입은 첫째는 어머니의 손을 잡은 채, 노란색 티셔츠와 초록색 반바지 차림의 둘째는 외할아버지의 품에 안긴 채 운구차를 바라봤다.&lt;br&gt;&lt;br&gt;김씨는 지난달 29일 밤 같은 아파트 주민 백모(37)씨가 휘두른 1m 길이의 일본도에 참변을 당했다.&lt;br&gt;&lt;br&gt;김씨는 피의자 백씨와 일면식도 없었고, 잠깐 담배를 피우러 집 밖으로 나왔다가 이 같은 일을 당했다. 그는 아들 둘을 두고 서울의 한 기업에 재직 중이던 가장이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NE3CNTP66SJ36UVH4S54I5KONA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아파트 이웃 주민에게 일본도를 휘둘러 숨지게 한 혐의를 받는 30대 남성 백모씨가 1일 오전 서울서부지법에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백씨는 범행 직후 집으로 도주했으나, 약 1시간 만에 경찰에 붙잡혔다 그는 경찰 조사에서 “피해자가 지속적으로 나를 미행하는 스파이라고 생각해 범행했다”는 취지로 진술했다.&lt;br&gt;&lt;br&gt;그는 1일 오전 9시 50분쯤 서울서부지법에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하면서 ‘피해자에게 미안한 마음이 없느냐’는 취재진 질문에 “없다”고 답했다.&lt;br&gt;&lt;br&gt;이날 오전 11시 30분쯤 심사가 종료된 이후 법원을 나설 때는 피해자와 유가족에게 할 말이 없다며 “나는 심신미약이 아니다. 멀쩡한 정신으로 (범행을) 했다”고 말했다.&lt;br&gt;&lt;br&gt;백씨의 구속 여부는 이르면 이날 오후 결정될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>의료공백에 규제 풀린 비대면 진료 매달 14%씩 증가...“코로나 시기 수준”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/08/01/HZAILDEVKRFMFMD6LIALHHWPGM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/01/HZAILDEVKRFMFMD6LIALHHWPGM/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 07:00:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHNFZLI2NFCPTK7AOZJ4CC6WYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;코로나가 한창이던 2022년 2월 서울 중구의 한 이비인후과 병원에서 의사가 환자와 전화로 비대면 진료를 하고 있다. 코로나 때 한시적으로 허용됐던 비대면 진료는 지난해 6월 시범 사업 형태로 전환돼 재진 중심으로 축소됐다가, 지난 2월 의료 공백 우려로 모든 초진 환자가 비대면 진료를 볼 수 있게 됐다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전공의 집단 사직으로 인한 의료 공백 상황에서 정부가 ‘비대면 진료 전면 허용’ 카드를 꺼내든 이후, 비대면 진료가 매달 14%씩 늘어나고 있는 것으로 나타났다.&lt;br&gt;&lt;br&gt;1일 비대면 진료 플랫폼 ‘닥터나우’에 따르면, 올해 상반기 닥터나우를 통한 비대면 진료는 28만건을 넘었다. 이는 코로나 시기였던 지난 2022년 하반기와 유사한 수준이다. 닥터나우는 우리나라에서 처음으로 비대면 진료, 실시간 의료 상담 등을 이용할 수 있는 어플을 만든 의료 플랫폼 업체다.&lt;br&gt;&lt;br&gt;지난 2022년 하반기 닥터나우의 비대면 진료는 약 28만건이었다. 당시 정부는 코로나 상황에서 비대면 진료를 한시적으로 허용했다. 이후 지난해 6월 비대면 진료는 시범 사업 형태로 전환돼 재진 환자만 받을 수 있게 됐다. 해당 병원에 방문한 적이 있는 환자만 같은 병원에서 비대면 진료를 받을 수 있었다는 뜻이다. 시범 사업 기간이었던 지난해 9~12월 4개월 동안 닥터나우를 통한 비대면 진료 건수는 총 1만5000건에 불과했다.&lt;br&gt;&lt;br&gt;그러다 지난 2월 의대 증원 정책에 반발하는 전공의 1만여명이 의료 현장을 떠나자, 정부는 다시 비대면 진료 규제를 풀었다. 재진 환자 뿐 아니라 병원에 방문한 적 없는 초진 환자도 비대면 진료를 받을 수 있게 된 것이다.&lt;br&gt;&lt;br&gt;올해 상반기 닥터나우를 통한 비대면 진료 중 65%는 감기, 몸살 등 경증 질환 진료였다. 진료과별로는 소아청소년과 진료가 28%로 가장 많았다. 닥터나우 관계자는 “지난 2월 23일 비대면 진료 전면 허용 이후 비대면 진료는 매월 평균 14%씩 증가하고 있다”며 “하반기 누적 건수는 더 높아질 전망”이라고 밝혔다.&lt;br&gt;&lt;br&gt;의료계 일각에서는 비대면 진료에 대한 반발도 나온다. 지난 6월 대한의사협회는 비대면 진료 관련 입장문을 내고 “의료 접근성이 세계 최고 수준인 대한민국에서 국민 건강권을 보호하기 위한 최선의 선택은 의료기관을 방문해 제대로 된 진단을 통해 치료 받는 것”이라며 “그간 시행된 시범사업에 대해 철저한 안정성·유효성 검증을 토대로 (비대면 진료) 제도화를 원점 재논의하라”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>박균택 민주당 의원 선거법 사건…경찰 불송치에 검찰 “재수사”</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/01/DXMFEFHORFEJTO7VSEGAWLBBEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/DXMFEFHORFEJTO7VSEGAWLBBEY/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 06:47:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4O4QCWSSKRFMLFT7HBZJS5RGTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주고등지방검찰청. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공직선거법 위반 혐의를 받는 박균택 더불어민주당(광주 광산갑) 의원에 대해 경찰이 재수사에 돌입했다. 경찰이 해당 사건을 불송치 종결하려 했던 만큼 재수사에 착수한 배경에 관심이 쏠리고 있다.&lt;br&gt;&lt;br&gt;1일 본지 취재를 종합하면 광주지검은 최근 박 의원에 대한 공직선거법 위반 고발사건을 수사 중인 광주 광산경찰서에 재수사 요청을 했다. 광산경찰서가 해당 사건에 대해 불송치 의견을 검찰에 전달하자 재수사 요청이 돌아온 것이다.&lt;br&gt;&lt;br&gt;광산경찰서는 박 의원이 지난 4·10 총선을 앞둔 예비후보 시절 광주지역의 한 인터넷언론 기자를 자신의 변호사 사무실 직원으로 두고 선거에 유리한 기사를 쓰게 한 의혹이 담긴 고발장을 받고 박 의원을 입건해 수사를 해왔다.&lt;br&gt;&lt;br&gt;경찰의 불송치 결정은 해당 사건을 경찰 조사단계에서 마무리하는 것이기 때문에 ‘혐의없음’ 종결에 가까운 효력을 갖는다. 또 공직선거법 위반 수사는 일반적인 형사사건 수사와 달리 검찰과 경찰이 사전협의를 하면서 송치 여부 등을 진행하게 된다.&lt;br&gt;&lt;br&gt;때문에 검경 안팎에서는 경찰의 불송치 결정이 이례적인 반려 수순을 받았다는 분석이 나온다. 또 박 의원은 광주지검 형사3부장과 광주고검장을 지낸 이력도 있다. 검찰 관계자는 경찰에 재수사 요청을 한 이유에 대해 “수사 중인 사안이기 때문에 밝힐 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4O4QCWSSKRFMLFT7HBZJS5RGTI.jpg?width=890&amp;height=501&amp;auth=e45977eefd6b2734f3b188c81b5ce6bab6e3b55e4a315af7a162dc05cb87a70e&amp;smart=true" type="image/jpeg" height="501" width="890">
-        <media:description type="plain">광주고등지방검찰청 전경. /연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>불법 유통된 보톡스로 무면허 시술… 베트남인 7명 검거</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/01/IQWD524TDBDGDFWMZELCXWR2BI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/IQWD524TDBDGDFWMZELCXWR2BI/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 05:31:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NCQOJ56J6NGWDOQLSAUSO3BI5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;보톡스 등 성형 시술을 한 외국인 무면허 의료업자. /서울경찰청 마약범죄수사대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;면허 없이 보톡스 등 성형 시술을 한 외국인 의료업자와 의약품을 불법 유통시킨 업체 관계자들이 무더기로 경찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울경찰청 국제범죄수사계는 보건범죄단속법 위반 혐의로 베트남 출신 A(33)씨 등 외국인 7명을 검거했다고 1일 밝혔다. 이들에게 의약품을 불법 유통한 한국인 B(47)씨와 무허가 유통업체 대표 등 43명도 입건됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 2020년 2월부터 지난해 10월까지 서울 강북구의 주택가에서 뷰티샵을 운영, 회당 15~20만원의 돈을 받고 보톡스 등 불법 성형 시술을 한 것으로 보고 있다. A씨는 수강생을 모집해 성형 기술도 가르쳤다. 그에게 배운 수강생 6명은 따로 업소를 차리고 불법 성형 시술을 해 온 것으로 확인됐다.&lt;br&gt;&lt;br&gt;이들이 불법 시술을 할 수 있었던 건 무허가 도매업체에서 의약품을 공급해 줬기 때문이다. 의약품 판매 자격이 없는 도매업자 B씨는 지난 4월까지 약 2년 동안 30곳의 도매상으로부터 94억원 상당의 의약품을 구매한 뒤 A씨 등 무면허 의료업자와 무허가 유통업체에 판매했다. 경찰은 보톡스와 주름개선제, 마취 크림 등 24종의 의약품 7551개를 B씨의 사무실에서 압수했다.&lt;br&gt;&lt;br&gt;경찰은 약사법상 의약품을 국내에서 판매·유통하는 데에는 자격이 제한돼 있지만, 수출을 목적으로 한 의약품에는 별도의 취급 규제가 없다는 점을 B씨가 악용한 것으로 봤다. 의약품을 수출하는 것처럼 가장해 도매상으로부터 의약품을 구매한 뒤 이를 판매했다는 것이다.&lt;br&gt;&lt;br&gt;경찰은 “의약품을 냉장이 아닌 일반창고에 보관해 변질 가능성까지 있었다”며 “의약품 수출업자에 대한 관리 체계가 없어 제도 개선이 필요하다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>상반기 임금체불액 1조원대</title>
-      <link>https://www.chosun.com/national/labor/2024/08/01/FTKCPUTTGBE2ZINNFAOAYDUSH4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/08/01/FTKCPUTTGBE2ZINNFAOAYDUSH4/</guid>
-      <dc:creator>김윤주 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 05:34:21 +0000</pubDate>
-      <content:encoded>올해 상반기 임금체불 규모가 1조원을 넘어섰다. 역대 최대였던 작년 1조7845억원을 넘어 올해 총 체불액이 2조원대에 달할 것이란 전망이 나온다.&lt;br&gt;&lt;br&gt;1일 고용노동부에 따르면 올해 1~6월 체불액은 1조436억원, 체불 피해 근로자는 모두 15만503명으로 집계됐다. 작년 같은 시기와 비교하면 체불액은 2204억원(26.8%), 피해 근로자는 1만8636명(14.1%) 증가했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KEXZBSWI6VGMJLZ5A4DLF7L4Y4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 권혜인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임금체불액이 늘어난 원인으로는 건설 경기 불황이 꼽힌다. 작년에 2022년 대비 49.2% 급증한 건설업 임금체불은 올해 상반기에는 작년 대비 26% 늘어난 2478억원을 기록했다. 전체 체불액에서 건설업이 차지하는 비중은 2020년 17.6%에서 올해 상반기 23.7%까지 커졌다.&lt;br&gt;&lt;br&gt;보건업에서도 체불액이 늘었다. 올해 상반기 보건업 체불액은 717억원으로 작년 같은 기간보다 67.8% 늘어났다. 코로나를 겪으며 환자가 줄어 문을 닫는 소규모 요양병원이 많이 생긴 탓으로 분석된다. 전체 업종 중에선 제조업이 총 체불액 2872억원(27.5%)으로 가장 큰 비중을 차지했다.&lt;br&gt;&lt;br&gt;7일부터는 정부가 대신 내준 2000만원 이상의 체불임금을 1년 넘게 안 갚은 사업주에게 대출 제한, 신용카드 발급 제한 등 신용제재를 가한다. 정부는 임금이 밀린 근로자를 보호하기 위해 도산한 회사 대신 체불임금을 지급하고 있다. 사업주는 추후 이 돈을 갚아야 하지만, 갚지 않아도 별다른 제재가 없어 누적 회수율이 30%대에 머물고 있다.&lt;br&gt;&lt;br&gt;정부는 상습 체불 사업주에게 더 강력한 경제적 제재를 가하는 방안을 추진 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 결혼 앞둔 여성 살해한 50대, 예비신랑에 사진 전송 후 극단선택</title>
       <link>https://www.chosun.com/national/national_general/2024/08/01/LNKCUGI6Q5CEXKA52HIHFBWCOY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/LNKCUGI6Q5CEXKA52HIHFBWCOY/</guid>
@@ -892,42 +950,6 @@
       <description/>
       <pubDate>Thu, 01 Aug 2024 05:53:02 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEZ7746RVQE33YATJC3KVDMURM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 노원경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 노원구의 한 아파트에서 50대 남성이 평소 알고 지내던 여성을 흉기로 살해한 뒤 자신도 목숨을 끊는 사건이 발생했다.&lt;br&gt;&lt;br&gt;서울 노원경찰서는 서울 노원구 공릉동의 한 아파트에서 평소 알고 지내던 50대 여성을 자신의 집으로 불러 흉기로 살해한 50대 남성 A씨와 관련해 구체적인 사건 경위를 조사 중이라고 1일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난달 31일 오후 4시쯤 피해 여성 B씨를 자신의 집으로 불러들인 뒤 흉기로 살해한 혐의를 받는다. 당시 B씨는 결혼을 앞두고 있었던 것으로 알려졌다. A씨는 B씨가 근무하던 서울 동대문구의 한 식당에 손님으로 방문했다가 서로를 알게된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 이날 오후 5시쯤 범행을 마친 뒤 아파트 주차장으로 내려가 자신의 차량에서 스스로 목숨을 끊은 것으로 확인됐다. A씨는 목숨을 끊기 전 B씨의 숨진 모습을 사진으로 촬영한 뒤 결혼 상대에게 문자로 전송했던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 사망해 공소를 제기할 수 없는 상황이지만, 평소 피해자를 상대로 한 범죄 사실이 있었는지 여부 등 구체적인 사실 관계를 계속 수사할 방침”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“대통령 누구 찍었어?” 답 못 듣자 70대 택시기사 폭행한 男</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/01/EXFVL4J2CVDPLNCWDBZ63TYP3M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/EXFVL4J2CVDPLNCWDBZ63TYP3M/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 05:33:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BU3EFX545SGVKUWMXQ7XKL4YIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;운전 중인 택시 기사에게 “대통령 누구 찍었냐”고 묻고, 원하는 답을 듣지 못하자 폭행한 전과범이 실형을 선고받았다.&lt;br&gt;&lt;br&gt;1일 법조계에 따르면, 서울남부지법 형사6단독 노태헌 부장판사는 특정범죄가중법상 운전자 폭행 등 혐의로 재판에 넘겨진 A(69)씨에게 최근 징역 6월형을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 4월22일 오후 서울 강서구에서 70대 기사 B씨가 운전하는 택시의 조수석에 탔다. A씨는 운전 중인 B씨에게 “대통령 누구 찍었냐?” 등 정치적인 질문을 이어갔다. B씨가 “정치 얘기하지 마세요”라고 답을 하자 A씨는 화를 내고 욕설하며 B씨의 얼굴을 때리고 손톱으로 긁는 등 폭행한 혐의를 받는다.&lt;br&gt;&lt;br&gt;수사 과정에서 A씨는 2022년 12월 업무방해죄로 징역 6월을 선고 받고 지난해 3월 출소한 것으로 나타나기도 했다.&lt;br&gt;&lt;br&gt;노 부장판사는 “피고인에게 금고 이상의 형을 선고 받은 전과를 포함해 동종 전과가 다수 있고, 누범 기간 중 다시 이 사건 범행에 이르렀다”고 했다.&lt;br&gt;&lt;br&gt;아울러 “그밖에 피고인의 연령, 성행, 지능과 환경, 피해자에 대한 관계, 범행의 동기, 수단과 결과, 범행 후의 정황을 종합해 형을 정한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>과천 서울대공원 주차 차량속 남녀 3명 숨진 채 발견</title>
-      <link>https://www.chosun.com/national/regional/2024/08/01/7QKSZQMGQVEWNP4JYHKKQWBO3A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/01/7QKSZQMGQVEWNP4JYHKKQWBO3A/</guid>
-      <dc:creator>수원=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 05:58:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HQWR6EEESFSL54E57UMEXV3FLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 오전 7시 26분쯤 경기 과천시 서울대공원 야외 주차장에 주차된 카니발 승합차 안에서 성인 남녀 3명이 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;과천경찰서에 따르면 전날 30대 남성 A씨의 가족으로부터 실종 신고를 받고 행방 추적에 나서 해당 차량을 발견했다. 차량 내부에서는 A씨와 40대 남성, 20대 여성 등 3명이 숨져 있었다. 또 극단적 선택에 사용한 것으로 보이는 물품과 함께 1명에게서는 “살고 싶지 않다”며 신변을 비관하는 내용의 메모가 발견됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨와 나머지 2명의 신원을 확인해 유족들에게 통보했으며, 부검을 실시해 정확한 사망 원인을 조사할 예정이다. 이들은 주거나 직장 등에서 서로 접점이 없는 사이로 파악됐으며, 전날 렌터카를 이용해 이 주차장으로 진입했던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 이들의 휴대폰에 대한 디지털 포렌식 등을 실시해 통화나 메시지 교환 등 최근 행적을 확인하는 한편 극단적 선택에 사용한 물품을 마련한 경위 등을 조사할 방침이다.&lt;br&gt;&lt;br&gt;※ 우울감 등 말하기 어려운 고민이 있거나 주변에 이런 어려움을 겪는 가족·지인이 있을 경우 자살예방 상담전화(☎109)에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>개식용금지법 D-6...육견협회 “개식용 폐업·전업 지원책 마련하라”</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/01/GNTB2T5Y25EQFBM3RWZHZS4OXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/GNTB2T5Y25EQFBM3RWZHZS4OXA/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 05:50:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BJU7RVNZZ5IWHEBUEKQZ3O6OZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오후 서울 용산구 대통령실 인근에서 대한육견협회 주최로 열린 '개 식용 금지법' 관련 기자회견에서 참석자들이 손팻말을 들고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘개 식용 금지법’ 시행을 6일 앞두고 대한육견협회가 대통령실 앞에서 집회를 열고 정부 지원 대책 마련을 촉구했다.&lt;br&gt;&lt;br&gt;대한육견협회는 개 식용 금지법(개의 식용 목적의 사육·도살 및 유통 등 종식에 관한 특별법) 시행을 약 일주일 앞둔 1일 오후 서울 용산구 대통령실 맞은편에서 집회를 개최했다.&lt;br&gt;&lt;br&gt;이날 기자회견에서 육견협회는 “정부는 정부는 법 공포 후 6개월이 된 지금까지도 지원책은 밝히지 않고 있다”며 “합당한 지원책 마련과 남은 개에 대한 정부 수매 등의 조건이 지켜져야 한다”고 했다. 또한 개 식용 금지법의 주무 부처인 농림축산식품부 장관을 파면해야 한다고도 주장했다. &lt;br&gt;&lt;br&gt;지난 2월 공포된 개 식용 금지법은 오는 7일부터 시행되고, 공포 3년 후인 2027년 2월부터는 식용 목적의 개 사육·판매, 개를 원료로 조리·가공한 식품의 유통·판매가 전면 금지된다.&lt;br&gt;&lt;br&gt;앞서 육견협회는 지난 3월 “개 식용 금지법으로 국민의 먹을 자유가 훼손되고 관련업 종사자의 직업 선택의 자유와 재산권이 침탈됐다”며 헌법재판소에 헌법소원을 제기한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘이중 고기압’ 덮인 한반도…폭염, 8월 초까지 이어져</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/01/7NYBTC46ZNGD7DP7C6NDT7BILU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/7NYBTC46ZNGD7DP7C6NDT7BILU/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 05:03:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2DECK2WDHBIEJPC3JO5QGCM3EQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국 대부분 지역에 폭염 특보가 내려진 1일 오후 경기도 수원시 권선구 수도권기상청에서 예보관이 폭염 특보 현황을 보여주고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8월 초까지 전국에 폭염이 이어질 것이라고 기상청이 예보했다. 한반도 상공 하층에 서풍으로 고온다습한 공기가 유입된 가운데, 중상층에서 따뜻한 북태평양 고기압과 티베트 고기압이 이중으로 덮으면서 폭염이 지속된다는 것이다.&lt;br&gt;&lt;br&gt;기상청은 1일 정례 브리핑에서 “전국 183개 특보 구역 중 이날 오전 10시 기준 180개 구역에 폭염 특보가 유지 중”이라며 이같이 밝혔다. 최고 체감온도가 이틀 넘게 35도 이상일 것으로 전망될 때 폭염경보가, 33도 이상으로 예상될 때 폭염주의보가 내려진다.&lt;br&gt;&lt;br&gt;기상처응ㄴ 밤사이 북태평양고기압 가장자리를 따라 덥고 습한 바람이 지속적으로 유입되면서 기온이 크게 떨어지지 않아 전국적으로 최저기온이 25도 이상을 기록해 열대야가 나타난 곳이 많다고 설명했다. 서울의 밤 최저기온은 27.3도였다. 서울은 지난달 21일 이후 11일째, 강릉은 지난달 19일 이후 13일째, 제주는 지난달 15일 이후 17일째 열대야가 이어졌다.&lt;br&gt;&lt;br&gt;올해 폭염일수는 전국 7.2일로 평년의 4.9일을 크게 웃돌았고 열대야 일수 역시 8.9일로 평년 2.9일의 3배가 넘었다. 이런 폭염과 열대야는 8월 초에도 이어진다. 기상청은 이 같은 폭염과 열대야가 8월 초까지 이어질 것으로 내다봤다.&lt;br&gt;&lt;br&gt;기상청은 “오는 4일부터 11일까지 아침 최저기온은 24~27도, 낮 최고기온은 30~36도로 평년(최저 22~24도, 최고 29~33도)과 비슷하거나 조금 높겠다”며 “최고체감온도가 33도 내외로 올라 무덥고, 밤 사이 열대야가 나타나는 곳이 많겠으니 건강관리에 유의해달라”고 했다.&lt;br&gt;&lt;br&gt;2일에는 비 소식이 있다. 2일 남부지방을 중심으로 낮 기온 오르면서 대기가 불안정해져 소나기가 내리겠다. 예상 강수량은 광주광역시·전남 내륙·전북 내륙· 경북 북서 내륙·제주도 5~20㎜, 대구·경북 내륙 5~40㎜다.&lt;br&gt;&lt;br&gt;3일에는 광주·전남 내륙·전북 내륙·대구·경북 남부 내륙·부산·울산·경남에 5~20㎜의 소나기가 올 것으로 기상청은 “비가 오는 동안 일시적으로 기온이 떨어지겠으나 그 이후 다시 기온이 올라가겠다. 비로 인해 습도가 높아지며 체감온도는 더욱 올라갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘뜨거운 바다 때문?’...제주 양식 광어 3600마리 폐사 신고 조사</title>
@@ -948,24 +970,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IFD55FJAH5F7LE5PAZWOCAHSS4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오전 인천 서구 청라동의 한 아파트 지하주차장에서 벤츠 전기차로 추정되는 차량이 폭발하며 화재가 발생했다./ 네이버카페&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 아파트 지하주차장에서 전기차로 추정되는 차량이 폭발하며 불이 나 소방 당국이 진화에 나섰다.&lt;br&gt;&lt;br&gt;1일 인천소방본부에 따르면, 이날 오전 6시 15분쯤 서구 청라동 아파트 지하 1층 주차장에서 전기차 화재로 추정되는 불이 났다. 소방 당국은 소방관 177명과 배연 차량 등 장비 80대를 투입해 5시간 39분 만인 오전 11시 54분쯤 큰 불길을 잡았다.&lt;br&gt;&lt;br&gt;이 아파트는 총 14개 동에 1581세대가 거주 중인 대단지 아파트다. 화재 직후 검은 연기가 아파트 단지를 뒤덮으며 주민 103명이 대피하고, 32명이 계단과 베란다를 통해 구조됐다. 연기를 흡입한 주민 16명은 병원으로 옮겨졌으나 생명에는 지장이 없는 상태다. 이 중에는 1살·4살 등 영유아 등 10살 이하가 7명이 포함됐다.&lt;br&gt;&lt;br&gt;사고 당시 방범카메라 영상도 인천 지역 커뮤니티에 올라왔다. 영상에는 지하주차장의 흰색 벤츠 차량에서 연기가 피어오르다 순식간에 폭발하며 불길이 치솟는 모습이 담겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TJQVUJYYPRIUFLKGALDQ7F4JGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오전 인천 서구 청라 한 아파트 지하 주차장 전기차에서 발화한 것으로 추정되는 화재가 발생해 연기가 치솟고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;불이 난 차량 주변으로 연소가 확대되며 당시 주차장에 있던 차량 70여대가 피해를 본 것으로 추산됐다. 이날 119에 관련 신고는 197건이 접수됐다.&lt;br&gt;&lt;br&gt;경찰은 방범카메라에 담긴 화재 차량이 벤츠 전기차로 확인됐다고 밝혔다. 경찰과 소방 당국은 잔불 정리 작업이 끝나면 현장 감식을 진행해 화재 원인과 피해 규모를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰 “시청역 참사, 운전 조작 미숙… 신발 바닥서 액셀 문양 나와”</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/01/X452MHGCSRGZBNPOWNGMNYTOCA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/X452MHGCSRGZBNPOWNGMNYTOCA/</guid>
-      <dc:creator>서보범 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 01:00:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JWR74SVSWPMPUZAZTS7JH6SWHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;류재혁 남대문경찰서장이 1일 서울 중구 남대문경찰서에서 시청역 역주행 교통사고 종합 수사결과에 대해 브리핑하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16명의 사상자를 낸 서울 시청역 역주행 참사 가해 차량 운전자가 구속 상태로 1일 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 남대문경찰서는 이날 오전 10시 시청역 역주행 참사 관련 종합수사결과 브리핑을 열고 “국과수 감정결과와 CC(폐쇄회로)TV 12대, 블랙박스 4개, 참고인 진술 등을 종합해 운전조작 미숙에 의한 사고로 판단했다”고 밝혔다. 경찰은 이날 오전 피의자 차모(68)씨를 교통사고처리특례법 위반(업무상과실치사상) 혐의로 구속송치했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/36C7OSVQCL7T5JZRTQHFJDSEJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시청역 인근에서 차량 역주행으로 16명의 사상자를 낸 가해 운전자 차모씨가 지난달 30일 서울 서초구 서울중앙지법에서 열린 교통사고처리특례법위반(치사) 혐의 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰에 따르면 차씨는 여전히 차량 결함으로 인한 사고라는 주장을 유지하고 있다. 류재혁 남대문경찰서장은 “피의자는 조선호텔 지하 주차장 출구 약 7~8m 전에 ‘우두두’하는 소리와 함께 ‘브레이크가 딱딱해져 밟히지 않았다'고 일관되게 주장하고 있다”고 했다. 세 차례에 걸친 조사에서 차씨는 “처음부터 끝까지 브레이크를 강하게 밟았다”는 주장을 바꾸지 않았다.&lt;br&gt;&lt;br&gt;그러나 국립과학수사연구원의 판단은 달랐다. 국과수가 경찰에 제출한 분석 자료에 따르면 해당 차량의 액셀(가속 장치)과 브레이크에서 기계적 결함은 발견되지 않았다. EDR(사고 기록 장치) 분석 결과 브레이크는 사고 발생 5초 전부터 사고 발생 시점까지 작동하지 않은 것으로 확인됐다. CCTV와 주변 차량 블랙박스에도 차씨 차량 브레이크등이 점등한 모습을 발견되지 않았다. BMW 차량을 부딪힌 이후에야 보조브레이크 등이 점멸했다고 한다.&lt;br&gt;&lt;br&gt;차씨는 당시 액셀을 최대 99% 밟았으며, 최고 속력은 107km에 달했던 것으로 조사됐다. 류 서장은 “액셀 변위량은 최대 99%에서 0%로 당시 피의자는 밟았다 떼기를 반복했다”며 “국과수 조사 결과 순간적으로 두 차례 엑셀에서 발을 뗀 것을 제외하면 ‘풀액셀’을 밟은 셈”이라고 했다. 차씨 오른쪽 신발 바닥에서 액셀과 같은 모양의 문양이 발견된 점도 고려됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZMPYIKLSA5JT3PPCEH2I2KGSYA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 15일 서울 중구 시청역 교차로 역주행 사고 현장에 국화꽃 등 추모 물품들이 놓여져 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인도 방향으로 돌진하면서 16명의 사상자를 낸 것과 관련해 차씨는 ‘속도를 줄이기 위해 핸들을 틀었다'는 취지로 진술했다. 류 서장은 “보행자 보호용으로 설치된 울타리를 받으면 속도가 조금 줄어들지 않겠냐느 생각으로 울타리 방향으로 핸들을 틀었다고 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;피해자와 유족 측은 차씨에 대한 엄벌을 원하고 있다고 한다. 류 서장은 “현재까지 피해자 측과 합의는 이뤄지지 않고 있다”며 “유족 전원이 모두 처벌을 원하고 있다”고 밝혔다. 차씨는 조사 과정에서 피해자들에 대한 사죄의 뜻을 밝힌 것으로 전해졌다. 차씨는 현재 독립 보행이 가능한 상태로, 추가 병원 치료는 필요하지 않은 상황이다.&lt;br&gt;&lt;br&gt;앞서 경찰은 차씨에 대해 세 차례 피의자 신문을 실시, 범죄의 중대성 등을 고려해 구속 영장을 신청했다. 법원은 지난달 30일 “도망할 염려가 있다”며 차씨에 대한 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘해발 900m’ 태백까지 폭염특보</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/08/01/DBYYALQJENALJAW7VGOTXYWW3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/08/01/DBYYALQJENALJAW7VGOTXYWW3Y/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 01:48:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MAYAIGD7DBODLHGBRCV2WPN7HI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국 대부분 지역에 폭염 특보가 이어진 1일 오전 경북 고령군 다산면 한 농경지에서 농민이 뙤약볕 아래 고추 수확을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;평균 해발고도가 900m에 달해 최근 펄펄 끓는 한반도에서도 폭염 영향권에서 유일하게 벗어나있던 강원 태백에 1일 폭염특보가 발효됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 1일 오전 10시를 기해 태백에 폭염주의보가 발효됐다. 폭염주의보는 최고 체감기온이 33도 이상인 상태가 이틀 이상 지속될 것으로 예상될 때 내려진다.&lt;br&gt;&lt;br&gt;현재 전국 183개 육상 특보구역 중 180곳에 폭염특보가 발효됐다. 태백의 폭염특보는 ‘최악의 여름’으로 꼽히는 2018년에도 나타나지 않았던 기록이다. 2018년 당시 태백에만 폭염특보가 발효되지 않았다.&lt;br&gt;&lt;br&gt;태백시의 평균 해발고도는 약 902.2ｍ로, 서울 남산(270ｍ) 보다 3배 이상 높다. 태백 도심 지역의 높이도 대략 778ｍ로 높다. 기온은 태양열이 아니라 지표의 복사열로 상승하기 때문에 해발고도가 높아질수록 기온은 낮아진다. 이런 지형적 조건에도 폭염특보가 발효된 것이다.&lt;br&gt;&lt;br&gt;전국이 본격적인 한여름 구간에 진입하며 폭염과 열대야가 기승을 부리는 가운데, 기상청은 중기예보에서 최고 36도를 웃도는 무더위가 오는 11일까지 계속될 것으로 전망했다. 열기가 계속 쌓이면서 더위의 강도도 점차 강해질 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“공항리무진 못 들어갈 정도”... 김해공항 난리난 역대급 민폐주차</title>
       <link>https://www.chosun.com/national/national_general/2024/08/01/LMAW34OUZNDAFPG4BS36XGLIAU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/LMAW34OUZNDAFPG4BS36XGLIAU/</guid>
@@ -982,15 +986,6 @@
       <description/>
       <pubDate>Thu, 01 Aug 2024 01:14:32 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NQBKMB3ATNOBJPKUP4HPFFI3RA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9월 수련을 시작하는 하반기 전공의 모집 마감일인 31일 오전 서울 시내 한 대형병원에 신입 전공의 모집 안내문이 붙어 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 수련병원 126곳의 하반기 전공의 모집 결과, 총 모집 인원 7645명 가운데 지원자는 104명(1.4%)인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;1일 의료계 등에 따르면 올 하반기 모집에 지원한 전공의(인턴·레지던트)는 총 104명으로 집계됐다. 이 중 인턴 지원자는 13명, 레지던트 지원자는 91명이다.&lt;br&gt;&lt;br&gt;서울 ‘빅5(서울대·서울아산·세브란스·삼성서울·서울성모)’ 병원의 경우, 모집 인원이 2093명이었다. 하지만 지원자는 45명뿐이었다. 다만 정부가 서울성모병원 지원자로 분류한 14명은 서울성모병원을 포함한 8개 병원을 두고 있는 가톨릭중앙의료원으로 일괄 모집한 인원이기 때문에, 빅5인 서울성모병원을 지원(1지망)한 전공의 숫자는 이보다 적을 것으로 보인다.&lt;br&gt;&lt;br&gt;전국 수련병원들은 전날까지 올 9월부터 수련을 시작하는 하반기 전공의 지원서를 받았다. 하지만 지원자가 ‘0명’인 병원이 대다수였다.&lt;br&gt;&lt;br&gt;정부는 전공의들에게 수련병원 복귀 기회를 최대한 부여하기 위해 이달 중 추가 모집을 실시할 예정이다. 구체적인 일정은 이달 초 공고할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘대장동 50억 클럽’ 권순일 피의자로 소환 조사</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/01/ZXA6CE5VDZAKRKE6WT42THHACE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/01/ZXA6CE5VDZAKRKE6WT42THHACE/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 16:36:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C2K2EHIXNNCJVFEKNZIYZO5RPQ.png"&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QZXJ63U5OVHXJDIOKBMGIYIRD4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘대장동 50억 클럽’ 의혹을 수사하는 서울중앙지검 반부패수사3부(부장 이승학)는 31일 권순일 전 대법관을 피의자 신분으로 소환 조사했다. 검찰이 지난 3월 권 전 대법관 사무실을 압수 수색 한 지 넉 달 만이다. ‘대장동 50억 클럽’은 대장동 사건의 핵심인 김만배(화천대유 대주주)씨에게 거액을 받거나 받기로 했다는 법조인, 정치인 등을 가리킨다.&lt;br&gt;&lt;br&gt;검찰은 이날 권 전 대법관의 변호사법 위반 혐의에 대해 조사했다. 권 전 대법관은 2020년 9월 퇴임하고 두 달 뒤 화천대유 고문으로 취업해 2021년 9월까지 총 1억5000만원을 받았는데, 검찰은 당시 권 전 대법관이 변호사로 등록하지 않고 화천대유에서 소송 관련 업무를 했다고 보고 있다. 변호사법은 변호사 등록을 하지 않고 변호사 활동을 하면 3년 이하 징역 또는 2000만원 이하 벌금으로 처벌한다고 규정한다.&lt;br&gt;&lt;br&gt;검찰은 권 전 대법관의 ‘재판 거래’ 의혹도 수사 중이다. 권 전 대법관은 대법관 재임 중이던 2020년 7월 이재명 민주당 대표의 과거 선거법 위반 사건 상고심에서 무죄 취지 파기환송 판결을 주도한 것으로 알려져 있다. 이 판결로 이 대표는 경기지사직을 유지했고, 지난 대선에도 출마할 수 있었다. 당시 대법원 판결을 전후해 김만배씨가 권 전 대법관의 대법원 사무실을 8차례 찾아갔고, 권 전 대법관이 퇴직 후 화천대유에서 거액 고문료를 받은 것이 드러나면서 ‘재판 거래’ 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;권 전 대법관이 변호사법 위반 혐의와 ‘재판 거래’ 의혹으로 한 시민 단체에서 고발당한 것은 2021년 9월이다. ‘문재인 정부’ 검찰은 그해 11월과 12월 권 전 대법관을 두 차례 비공개 소환 조사만 했을 뿐 다른 조치는 못 했다. 같은 해 권 전 대법관에 대해 두 차례 압수 수색 영장도 청구했지만, 법원에서 모두 기각당한 것으로 알려졌다. 검찰은 올해 초에도 법원에 압수 수색 영장을 청구했다가, ‘혐의가 충분히 소명되지 않는다’는 취지로 기각당했다고 한다. 결국 검찰은 ‘재판 거래’ 의혹과 연결되는 뇌물(화천대유 고문료) 수수 혐의를 빼고 변호사법 위반 혐의만 적용해 압수 수색 영장을 받았고, 지난 3월 21일 집행했다. 이를 두고 법조계 일각에선 ‘법원의 제 식구 감싸기’로 권 전 대법관에 대한 수사가 늦어졌다는 비판이 나왔다.&lt;br&gt;&lt;br&gt;권 전 대법관의 행보를 두고도 논란이 일었다. 그는 2022년 말 변호사 등록 과정에서 대한변협이 두 차례 자진 철회를 요구했지만 받아들이지 않았다. 변호사 등록 후 개인 사무실을 연 이후에는 기업의 대법원 사건을 수임했다.&lt;br&gt;&lt;br&gt;권 전 대법관은 이날 12시간 동안 조사를 받으면서 혐의를 부인한 것으로 알려졌다. 권 전 대법관 측은 검찰에 제출한 30~40쪽 분량의 의견서에서 “화천대유에서 맡은 직책은 고문이지만 간단한 자문에 응했을 뿐 변호사 활동이 아니다”라는 취지로 주장했다고 한다.&lt;br&gt;&lt;br&gt;검찰은 권 전 대법관의 변호사법 위반 혐의에 대해서만 먼저 기소하고 ‘재판 거래’ 의혹에 대해선 계속 수사하는 방안을 검토 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
