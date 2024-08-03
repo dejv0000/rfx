@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>폭염경보 내린 밀양서 밭일 나갔던 60대 사망...온열질환 추정</title>
+      <link>https://www.chosun.com/national/regional/2024/08/03/EN2PVWY4FBEENIXLOBEC5RAYPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/03/EN2PVWY4FBEENIXLOBEC5RAYPQ/</guid>
+      <dc:creator>오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 Aug 2024 07:32:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3XD6OEZRZSP4K6HZLCYBCSCVUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 밀양에서 60대 여성이 온열질환 의심 증상으로 사망한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;3일 경남도에 따르면 지난 2일 오후 1시 8분쯤 밀양시 부북면 한 밭에서 일하던 A씨가 쓰러졌다는 신고가 119에 접수됐다. 119구급대가 현장에 도착해 측정한 A씨 체온은 41.1도에 달했다.&lt;br&gt;&lt;br&gt;A씨는 호흡과 맥박이 없어 심폐소생술을 받으며 인근 병원으로 옮겨졌고, 이후 창원의 한 병원으로 이송돼 치료를 받았으나 결국 오후 7시 25분쯤 사망 선고를 받았다. 의료진은 A씨가 열사병에 의한 다발성 장기부전으로 사망한 것으로 추정했다.&lt;br&gt;&lt;br&gt;밀양은 지난달 29일부터 폭염경보가 발효 중이다. A씨가 쓰러진 2일 밀양의 낮 최고 기온은 36.6도를 기록했다.&lt;br&gt;&lt;br&gt;경남에서는 앞서 지난달 6일 창녕에 거주하는 80대가 온열질환 의심 증상으로 숨졌다. 지난 5월 20일부터 지난 2일까지 경남지역 누적 온열질환자는 149명이며, 사망자는 2명이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>휠체어로 수차례 재물손괴… 장애인단체 대표 징역형 집행유예</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/03/EZ3QELCFV5G2LDNG77ZPOTSQCM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/03/EZ3QELCFV5G2LDNG77ZPOTSQCM/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 Aug 2024 06:34:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VZKLHXNC2CD7X7BTOEIWR4KNSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;특수재물손괴 혐의를 받는 이규식 전국장애인차별철폐연대(전장연) 공동대표가 지난 4월 구속 전 피의자 심문(영장실질심사)을 받기 위해 서울중앙지법에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시위 도중 전동휠체어로 시설물을 수차례 파손한 장애인단체 공동대표가 징역형 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;3일 법조계에 따르면, 서울동부지법 형사8단독 이준석 판사는 재물손괴 혐의로 재판에 넘겨진 이규식(55) 서울장애인차별철폐연대 공동대표에게 징역 4개월에 집행유예 1년을 선고했다.&lt;br&gt;&lt;br&gt;이 대표는 지난해 2월 7일 서울 송파구 소재 건강보험심사평가원 건물을 무단으로 점거해 시위를 벌였다. 이 과정에서 이 건물의 승강기 출입문을 자신이 타고 있던 전동휠체어로 들이받아 파손한 혐의를 받는다.&lt;br&gt;&lt;br&gt;그는 같은 날 이 건물의 1층 승강기 옆 대리석 벽면을 전동휠체어로 들이받아 파손하기도 했다.&lt;br&gt;&lt;br&gt;당시 이 대표는 혈우병 고가 치료제 ‘헴브리라’의 건강보험 급여 적용을 촉구하기 위해 시위를 벌였다.&lt;br&gt;&lt;br&gt;이 대표 측은 재판 과정에서 “고의가 없었다”며 무죄 취지의 주장을 했지만, 재판부는 “피고인은 손괴 결과가 발생할 수 있다는 점을 미필적으로나마 인식할 수 있었다”며 받아들이지 않았다.&lt;br&gt;&lt;br&gt;이 대표는 지난 4월 19일에도 서울 지하철 4호선 혜화역 승강장에서 탑승 집회를 진행하던 중 지상으로 올라가는 엘리베이터를 전동휠체어로 들이받아 고장낸 혐의(특수재물손괴)로도 경찰 수사를 받고 있다.&lt;br&gt;&lt;br&gt;앞서 경찰은 이 대표에 대한 구속영장을 신청했으나 법원은 피의자의 방어권 보장, 증거 인멸 및 도주 우려가 없다는 이유로 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘타는 냄새’ 소방관 직감에 시장 대형화재 막았다</title>
+      <link>https://www.chosun.com/national/regional/2024/08/03/G5BFBXYCDNCRFMIFHXSCQMWRKY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/03/G5BFBXYCDNCRFMIFHXSCQMWRKY/</guid>
+      <dc:creator>오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 Aug 2024 06:04:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y4DWUAKOVBB7NFELQK2YVNWGWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영월소방서 소속 황창호 소방장(왼쪽부터), 지형배 소방교, 장석희 소방교./영월소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새벽 근무 마치고 복귀하던 소방관이 타는 냄새를 맡고 곧장 현장으로 달려가 초기 진화에 나서 큰 피해를 막았다.&lt;br&gt;&lt;br&gt;3일 강원도 영월소방서에 따르면 이날 오전 1시 11분쯤 강원 영월군 서부시장 내 한 식당에서 화재가 발생했다. 때마침 영월소방서 소속 황창호 소방장, 지형배 소방교, 장석희 소방교가 환자 이송을 마치고 인근을 지나고 있었다.&lt;br&gt;&lt;br&gt;이에 한 시민이 이들을 향해 근처에서 타는 냄새가 난다며 수색을 요청했다. 소방관들은 곧장 구급차를 세운 뒤 일대를 살펴봤고, 시장 내 한 점포에서 불이 나는 것을 확인했다.&lt;br&gt;&lt;br&gt;이들은 인근 소화기로 곧바로 초기 진화에 성공, 큰 화재로 번지는 것을 막았다. 당시 시장에는 새벽 시간대로 유동 인구가 거의 없어 이들의 발 빠른 대처가 없었다며 자칫 대형 화재로 번질 수 있었다.&lt;br&gt;&lt;br&gt;황창호 소방장은 “시장 내 화재라 자칫 큰 피해가 생길 수 있어 발 빠르게 움직였다”며 “앞으로도 주민들의 생명과 재산을 지키기 위해 노력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;한편 이날 화재는 방화로 인해 발생한 것으로 알려졌다. 영월경찰서는 일반건조물 방화 혐의로 60대 A씨를 붙잡아 조사하고 있다. A씨는 라이터로 식당 가판대에 불을 붙여 화재를 일으킨 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰은 방화 가능성을 염두에 두고 인근 방범용 카메라 영상 등을 통해 용의자를 특정, 화재 발생 1시간 30여분 만에 A씨를 긴급 체포했다. 조사 결과 A씨는 음주 상태였던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 A씨를 상대로 정확한 화재 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘무더위에 에어컨이 멈췄다’...열대야 광주 아파트 정전에 불편</title>
+      <link>https://www.chosun.com/national/regional/2024/08/03/AAT5RDSSN5AXNEYRLF3H6XYZUE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/03/AAT5RDSSN5AXNEYRLF3H6XYZUE/</guid>
+      <dc:creator>오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 Aug 2024 05:35:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KNFBBC2UCEJKEKVZ343TJQMLBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아파트 단지 정전.(사진은 기사 내용과 무관함) / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;열대야로 무더위가 이어지는 가운데 광주 지역 아파트에서 밤사이 정전 사태가 잇따라 주민들이 불편을 겪었다.&lt;br&gt;&lt;br&gt;3일 한국전력과 광주시에 따르면 전날 오후 9시쯤 광주 북구 운암동의 한 아파트에서 정전이 발생했다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;점검 결과 아파트 내 변압기 고장으로 인해 전체 476세대 중 200여 세대에 전기가 끊긴 것으로 조사됐다. 한전은 아파트 변압기를 교체하는 동안 비상 발전 차량을 투입하기로 하고 정전 3시간여 만에 전기를 임시로 공급했다. 아파트 측은 변압기를 이날 중 교체해 전기 공급을 정상화한다는 방침이다.&lt;br&gt;&lt;br&gt;앞서 지난 2일 오후 7시 10분쯤에는 광주 남구 노대동과 송하동 아파트 단지에서 정전이 났다. 고압 전선 과부하로 인해 단지 5곳 중 2792세대에 전기가 끊겼다가 한전의 긴급 복구 작업으로 2시간 만에 공급이 재개됐다. 정전에 따른 인명피해는 없었지만 무더위 속에 냉방기 작동이 멈추는 등 크고 작은 주민 불편이 있었다.&lt;br&gt;&lt;br&gt;한편 광주에서는 13일째 열대야 현상이 나타나면서 무더위가 지속되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>휴가 끝나고도 휴가지에서 일할 수 있다면?</title>
       <link>https://www.chosun.com/national/labor/2024/08/03/FE4PZ73Y5FGGBMZ6ZK2Z2VQQBA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/08/03/FE4PZ73Y5FGGBMZ6ZK2Z2VQQBA/</guid>
@@ -894,24 +930,6 @@
       <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LF22A5QXFNKCNBLIUIADDWWXCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;은평구의 한 아파트에서 이웃 주민에게 일본도를 휘둘러 숨지게 한 혐의로 경찰에 긴급 체포된 백모(37)씨가 구속 전 피의자 심문(영장실질심사)을 받기 위해 1일 오전 서울 마포구 서울서부지법으로 들어서고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의 한 아파트에서 일본도를 휘둘러 이웃 주민을 살해한 30대 남성 백모(37)씨가 사건 발생 사흘 만에 구속됐다.&lt;br&gt;&lt;br&gt;1일 서울서부지법 이순형 영장전담 부장판사는 백씨에 대한 영장실질심사를 진행한 후 “증거 인멸 및 도주 우려가 있다”며 구속영장을 발부했다. 그는 지난달 29일 서울 은평구의 한 아파트 단지에서 1m 길이의 일본도를 휘둘러 같은 아파트 주민 김모(43)씨를 살해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;백씨는 범행 직후 집으로 도주했으나, 약 1시간 만에 경찰에 붙잡혔다. 그는 경찰 조사에서 “피해자가 지속적으로 나를 미행하는 스파이라고 생각해 범행했다”는 취지로 진술했다.&lt;br&gt;&lt;br&gt;그는 1일 오전 서울서부지법에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하면서 ‘피해자에게 미안한 마음이 없느냐’는 취재진 질문에 “없다”고 답했다. 심사가 끝나고 법원을 나설 때는 취재진에게 “나는 멀쩡했고 심신미약 상태가 아니었다”고 주장했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “현재까지 백씨의 정신 질환 이력은 없는 것으로 확인됐다”며 “필요하면 정신감정을 의뢰할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, ‘일본도 참변’에 도검 8만정 전수점검...갱신 규정도 마련</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/01/XO4NCR4BZJC3PNYWJ4R7JBONRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/XO4NCR4BZJC3PNYWJ4R7JBONRA/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 08:48:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z54UH5VJLZEXJEQW5HDFDSR5GQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 서울의 한 아파트에서 일본도를 이용한 살인 사건이 발생하자 경찰이 재발 방지를 위한 대책 마련에 나섰다.&lt;br&gt;&lt;br&gt;경찰청은 오늘부터 오는 31일까지 한달 간 전체 소지 허가 도검 8만2641정에 대한 전수조사를 한다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 허가 후 범죄 경력 발생 여부와 가정폭력 발생 이력, 관할 지역관서 의견 등을 종합적으로 검토하여 소지 허가의 적정성 여부를 확인할 방침이다.&lt;br&gt;&lt;br&gt;경찰은 범죄 경력이 확인될 경우 소지 허가를 취소할 예정이다. 또한 가정폭력 발생 이력 등을 확인해 위험성이 있다고 판단되면 기존 허가자에게 정신 건강과 관련된 자료를 제출받은 뒤, 필요한 경우 소지 허가를 취소한다. 허가 관청이 지정하는 장소에 도검을 보관하도록 명령할 수도 있다.&lt;br&gt;&lt;br&gt;경찰은 도검 신규 소지 허가를 위한 절차를 강화하는 한편, 총포화약법 개정도 추진하기로 했다. 신청자의 정신질환이나 성격장애 여부를 확인할 수 있는 서류 제출을 요구하고 허가 갱신 규정도 마련하기로 했다.&lt;br&gt;&lt;br&gt;경찰은 “총포화약법 개정을 통해 법령상 미비한 사항을 보완, 안전 관리 사각지대를 신속히 제거하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘역도 간판’ 박혜정 가슴 아픈 사연에...전현무, 역도 중계 나선다</title>
-      <link>https://www.chosun.com/national/people/2024/08/01/2CNME4PS6VGEHFZKGDS2E6LKRM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/01/2CNME4PS6VGEHFZKGDS2E6LKRM/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 08:30:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B27447OW7NGJPC5HN3GS3HM6PI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;훈련을 하고 있는 박혜정과 방송인 전현무/뉴스1, KBS스포츠 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 전현무(46)가 한국 여자 역도 간판 박혜정(21)을 응원하기 위해 역도 중계에 나선 사연이 화제가 되고 있다.&lt;br&gt;&lt;br&gt;1일 다수의 온라인 커뮤니티에는 전현무가 역도 중계를 하게 된 배경에 대한 글이 올라와 널리 공유됐다. 그가 처음으로 이번 2024 파리 올림픽 역도 중계에 나서기 때문이다.&lt;br&gt;&lt;br&gt;KBS 파리 올림픽 제작진에 따르면 전현무는 파리 현지에서 역도 캐스터 역할을 맡아 이배영 해설위원과 함께 한다. SBS와 MBC도 각각 배성재와 김대호 등 간판 아나운서들이 역도 캐스터로 나선다.&lt;br&gt;&lt;br&gt;전현무는 그동안 스포츠 중계는 한 번도 하지 않았다. 그가 KBS 예능 프로그램 ‘사장님 귀는 당나귀 귀’를 통해 박혜정과 맺은 인연으로 중계에 나서게 됐다고 KBS는 설명한다. 당시 박혜정은 방송에서 비인기종목 선수들이 겪는 서러움을 토로했다. ‘2008 베이징 올림픽’ 금메달리스트 장미란 문화체육관광부 차관의 은퇴 이후, 역도는 대중에게 많은 관심을 받지 못했다.&lt;br&gt;&lt;br&gt;특히 그는 “작년 항저우 아시안게임에서 좋은 성적을 냈는데, 입국 날짜가 배드민턴 선수들과 겹쳤다. 배드민턴 쪽으로 기자들이 몰려 마음이 아팠다”고 했다. 이후 KBS 측은 “전현무가 역도 요정 박혜정 선수의 가슴 아픈 사연을 접하고 전격 파리행을 결심했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이 소식을 접한 네티즌들은 “전현무 나비효과 대단하다” “계기가 어쨌든 비인기 종목에도 관심 가져주는 것 좋다” “이건 진짜 선수들한테도 잘된 일이다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;지난달 2일 유튜브 채널 KBS 스포츠가 공개한 영상에서 전현무는 “나 때문에 배성재가 하는 거 알지?”라며 “원래 SBS는 중계 안 하려고 했다. 역도 종목으로는 잘된 일이긴 하다. 배성재 게 섰거라”고 말했다.&lt;br&gt;&lt;br&gt;한편, 여자 역도 81kg 이상급인 박혜정은 파리 올림픽 마지막 날인 오는 11일 금메달에 도전한다. 2024 파리 올림픽 역도 경기는 7일 남자 역도 61kg 경기를 시작으로 대회 마지막인 11일까지 이어진다. 2024 파리 올림픽 측은 공식 홈페이지를 통해 “이번 파리 2024에서는 여자 무제한급 장미란의 금맥을 이을 슈퍼 루키 박혜정의 올림픽 데뷔전이 펼쳐진다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>법원, 고양시 테마파크 ‘원마운트’ 회생 개시</title>
       <link>https://www.chosun.com/national/court_law/2024/08/01/LP6Z3246UNB4LH6DAGB47P6WNI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/01/LP6Z3246UNB4LH6DAGB47P6WNI/</guid>
@@ -946,24 +964,6 @@
       <description/>
       <pubDate>Thu, 01 Aug 2024 05:53:02 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEZ7746RVQE33YATJC3KVDMURM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 노원경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 노원구의 한 아파트에서 50대 남성이 평소 알고 지내던 여성을 흉기로 살해한 뒤 자신도 목숨을 끊는 사건이 발생했다.&lt;br&gt;&lt;br&gt;서울 노원경찰서는 서울 노원구 공릉동의 한 아파트에서 평소 알고 지내던 50대 여성을 자신의 집으로 불러 흉기로 살해한 50대 남성 A씨와 관련해 구체적인 사건 경위를 조사 중이라고 1일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난달 31일 오후 4시쯤 피해 여성 B씨를 자신의 집으로 불러들인 뒤 흉기로 살해한 혐의를 받는다. 당시 B씨는 결혼을 앞두고 있었던 것으로 알려졌다. A씨는 B씨가 근무하던 서울 동대문구의 한 식당에 손님으로 방문했다가 서로를 알게된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 이날 오후 5시쯤 범행을 마친 뒤 아파트 주차장으로 내려가 자신의 차량에서 스스로 목숨을 끊은 것으로 확인됐다. A씨는 목숨을 끊기 전 B씨의 숨진 모습을 사진으로 촬영한 뒤 결혼 상대에게 문자로 전송했던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 사망해 공소를 제기할 수 없는 상황이지만, 평소 피해자를 상대로 한 범죄 사실이 있었는지 여부 등 구체적인 사실 관계를 계속 수사할 방침”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘뜨거운 바다 때문?’...제주 양식 광어 3600마리 폐사 신고 조사</title>
-      <link>https://www.chosun.com/national/regional/2024/08/01/JFLCVAZAGJCE7JQFY6VWCZEPEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/01/JFLCVAZAGJCE7JQFY6VWCZEPEE/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 05:01:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F3YRPYHXVRF7NLIBCCA3NQIEHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주도청 정문./제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 연안 수온이 위기 경보까지 치솟고 저염분수의 유입이 우려되는 가운데 수천마리의 광어 폐사 신고가 들어와 제주도가 조사에 들어갔다.&lt;br&gt;&lt;br&gt;1일 제주도에 따르면 최근 제주시 한경면 육상 양식장 5곳에서 광어 3600여 마리가 폐사해 5000여만원의 피해가 발생했다. 양식장 어패류 폐사 신고는 올해 들어 이번이 처음이다.&lt;br&gt;&lt;br&gt;제주도는 고수온 대응반을 현장에 보내 피해 원인을 파악하고 대책을 추진할 방침이다.&lt;br&gt;&lt;br&gt;제주도 관계자는 “육상 양식장의 경우도 바다에서 물을 끌어와 사용하는데, 여름철에는 양식장에서 고수온으로 인한 수산물 폐사 피해가 종종 발생한다”며 “피해 정도가 현재 신고 내용상으로는 평시 여름철에 비해 많은 편은 아니지만 피해가 더 날 수 있어 철저한 조사가 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;제주 연안에는 고수온 상태가 지속되면서 전날 오후 고수온 주의보가 위기 경보(심각 1단계)로 격상됐다. 고수온 경보는 28도 이상의 고수온이 3일 이상 지속할 때 내려진다.&lt;br&gt;&lt;br&gt;제주 연안은 6월까지 수온이 24도 내외로 평상시 수준이었다가 지난달 주의보 상태인 28도 내외까지 도달했다.&lt;br&gt;&lt;br&gt;또 지난달 30일 서귀포시 마라도 남서쪽 45㎞ 해역에서는 26psu(실용염분단위·바닷물 1㎏당 녹아있는 염분의 총량을 g로 나타낸 것)의 저염분수 물 덩어리가 해양수산연구원 조사에서 관측됐다. 저염분수는 실용염분단위가 26psu 이하인 상태를 말한다.&lt;br&gt;&lt;br&gt;특히 올여름 들어서는 중국 양쯔강 하구에서 많은 양의 저염분수가 바다로 밀려들어 저염분수의 제주 유입 가능성도 큰 편이다. 양쯔강 하구 다퉁(大通)에서는 지난달 초 기준 초당 7만2천t 이상의 물이 바다로 흘러들고 있는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;이는 평년 초당 4만7000t에 비해 53.2%가량 늘어난 것이다.&lt;br&gt;&lt;br&gt;고수온의 저염분수가 들어올 경우 전복, 소라 같은 정착성 저서생물의 삼투압 조절 능력이 떨어져 폐사까지 이어질 수 있다.&lt;br&gt;&lt;br&gt;정재철 제주도 해양수산국장은 “제주 연안에 저염분수가 유입돼 마을 어장에 피해가 발생하기 전에 대응 단계를 1단계 격상해 선제 대응하는 등 피해를 최소화하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>연기 피어오르더니 ‘펑’… 벤츠 전기차 주차장서 폭발</title>
-      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2024/08/01/TWLKF2WYZ5HM3OMBU646JF4GJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2024/08/01/TWLKF2WYZ5HM3OMBU646JF4GJM/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 04:49:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IFD55FJAH5F7LE5PAZWOCAHSS4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오전 인천 서구 청라동의 한 아파트 지하주차장에서 벤츠 전기차로 추정되는 차량이 폭발하며 화재가 발생했다./ 네이버카페&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 아파트 지하주차장에서 전기차로 추정되는 차량이 폭발하며 불이 나 소방 당국이 진화에 나섰다.&lt;br&gt;&lt;br&gt;1일 인천소방본부에 따르면, 이날 오전 6시 15분쯤 서구 청라동 아파트 지하 1층 주차장에서 전기차 화재로 추정되는 불이 났다. 소방 당국은 소방관 177명과 배연 차량 등 장비 80대를 투입해 5시간 39분 만인 오전 11시 54분쯤 큰 불길을 잡았다.&lt;br&gt;&lt;br&gt;이 아파트는 총 14개 동에 1581세대가 거주 중인 대단지 아파트다. 화재 직후 검은 연기가 아파트 단지를 뒤덮으며 주민 103명이 대피하고, 32명이 계단과 베란다를 통해 구조됐다. 연기를 흡입한 주민 16명은 병원으로 옮겨졌으나 생명에는 지장이 없는 상태다. 이 중에는 1살·4살 등 영유아 등 10살 이하가 7명이 포함됐다.&lt;br&gt;&lt;br&gt;사고 당시 방범카메라 영상도 인천 지역 커뮤니티에 올라왔다. 영상에는 지하주차장의 흰색 벤츠 차량에서 연기가 피어오르다 순식간에 폭발하며 불길이 치솟는 모습이 담겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TJQVUJYYPRIUFLKGALDQ7F4JGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오전 인천 서구 청라 한 아파트 지하 주차장 전기차에서 발화한 것으로 추정되는 화재가 발생해 연기가 치솟고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;불이 난 차량 주변으로 연소가 확대되며 당시 주차장에 있던 차량 70여대가 피해를 본 것으로 추산됐다. 이날 119에 관련 신고는 197건이 접수됐다.&lt;br&gt;&lt;br&gt;경찰은 방범카메라에 담긴 화재 차량이 벤츠 전기차로 확인됐다고 밝혔다. 경찰과 소방 당국은 잔불 정리 작업이 끝나면 현장 감식을 진행해 화재 원인과 피해 규모를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 하반기 전공의 7645명 모집에 104명 지원</title>
