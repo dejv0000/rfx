@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이재명, 전북서도 85% 낙승… 최고위원 경선 한준호 깜짝 1위</title>
+      <link>https://www.chosun.com/politics/assembly/2024/08/03/OGKJMS4CTBHYZAV7NWABDGTUMY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2024/08/03/OGKJMS4CTBHYZAV7NWABDGTUMY/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 Aug 2024 10:58:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TX7HHLKYYRIAVPNGUWX7T2RVWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 전북 익산시 원광대 문화체육관에서 열린 더불어민주당 전당대회 전북 지역 합동 연설회에서 민주당 당대표 후보들이 당원들에게 인사하고 있다. 왼쪽부터 김지수, 김두관, 이재명 후보. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당의 새 지도부를 선출하기 위한 3일 전북 지역 경선에서 이재명 당대표 후보가 득표율 84.79%로 낙승하면서 ‘확대명’(확실히 대표는 이재명) 독주를 이어갔다. 최고위원 경선에선 앞선 10개 지역 경선에서 3~6위에 머물렀던 한준호 후보가 1위를 했다. 누적 득표율 순위로는 김민석 후보가 1위에 올라, 정봉주 후보를 제쳤다.&lt;br&gt;&lt;br&gt;민주당 3일 전북 익산시 원광대 문화체육관에서 합동 연설회를 열고, 전북 지역 권리당원을 대상으로 진행한 온라인 투표 결과를 발표했다. 이 후보는 전북에서 2만5999표(84.79%), 김두관 후보는 4084표(13.32%), 김지수 후보는 579표(1.89%)를 각각 얻었다. 이 후보는 앞선 10개 지역에서는 90.41%를 얻었으나, 이날 이보다 낮은 득표율을 올리면서 누적 득표율은 89.00%로 소폭 하락했다. 반면 지금까지 8.36%를 받는 데 그쳤던 김두관 후보는 이날 이보다 약 4%포인트 더 높은 득표율을 기록했다. 누적 득표율은 9.60%로 올랐다.&lt;br&gt;&lt;br&gt;8명 가운데 5명을 뽑는 최고위원 경선에서는 한준호 후보가 1만4980표를 얻어 21.27%로 1위를 했다. 김민석 후보는 1만3378표(19.00%)로 그다음이었다. 정봉주 후보는 3위였으나 9328표(13.25%)로 김민석 후보에 4000표 넘게 밀렸다. 이어서 전현희(13.04%)·이언주(10.79%)·김병주(10.12%)·민형배(7.73%)·강선우(4.80%) 후보 순이었다.&lt;br&gt;&lt;br&gt;11개 지역 결과를 합산한 순위는 김민석(17.67%)·정봉주(17.43%)·한준호(14.62%)·전현희(13.15%)·김병주(13.15%)·이언주(11.77%)·민형배(6.47%)·강선우(5.74%) 순으로 바뀌었다.&lt;br&gt;&lt;br&gt;이재명 후보는 이날 합동 연설회에서 “이제 인공지능 로봇들이 사람의 일자리를 대체해서 생산력은 무궁무진하게 커지는데 사람들은 일자리를 잃고 소득을 얻을 수 없게 된다”며 “국민들의 기본적인 삶과 기본소득, 기본적인 주거, 의료, 금융을 책임지는 사회가 될 수밖에 없다”고 했다. 그러면서 “지역 화폐로 기본소득을 지급하고, 서울에서 거리가 멀수록, 도심으로부터 거리가 멀수록 더 많은 기본소득을 지급하는 방식으로 미래의 ‘기본사회’를 준비해야 한다”고 했다.&lt;br&gt;&lt;br&gt;김두관 후보는 “윤석열 대통령 탄핵이 빨리 됐으면 좋겠지만 현실적으로 쉽지 않다는 것은 당원 여러분도 알 것”이라며 “윤 대통령 임기 단축과 대통령 4년 중임제, 기본권 강화, 광주민주화운동 헌법 전문 게재 등 개헌을 통해 2026년 지방선거와 대통령 선거를 동시에 하는 것이 현실적인 대안”이라고 했다. 또 “우리가 차기 대선에서 승리하려면 민주당의 다양성, 역동성, 민주성을 살려야 한다”고 강조했다.&lt;br&gt;&lt;br&gt;4일에는 광주와 전남에서 합동 연설회와 온라인 투표가 진행된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>폭염경보 내린 밀양서 밭일 나갔던 60대 사망...온열질환 추정</title>
       <link>https://www.chosun.com/national/regional/2024/08/03/EN2PVWY4FBEENIXLOBEC5RAYPQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/03/EN2PVWY4FBEENIXLOBEC5RAYPQ/</guid>
@@ -910,15 +919,6 @@
         <media:description type="plain">검찰로고. /뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>박은혜 집 안서 뱀 허물이… “뱀 어디 숨었는지 몰라, 소름”</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/01/PHG725SD4JFXFCYQ5UDY6YF6Y4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/PHG725SD4JFXFCYQ5UDY6YF6Y4/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 09:36:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/22LQV2FEYZW2XVTWQ4IMY6Z5NQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 박은혜와 박은혜 집안에서 발견된 뱀 허물. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 박은혜가 집에서 뱀 허물을 발견했다며 사진을 공개했다. &lt;br&gt;&lt;br&gt;박은혜는 1일 인스타그램에 “며칠 집을 비우고 집에 돌아오니 휴지통 옆에 뱀 허물이. 너무 소름이 끼쳐서 얼어 있었다”고 적으며 사진을 올렸다. 사진에는 휴지통 옆 구석 한 켠에 길게 뻗은 뱀 허물이 놓여있는 모습이 담겼다.&lt;br&gt;&lt;br&gt;그는 “관리실에선 이런 일이 처음이라고 어디로 들어왔는지 모르겠다고 한다. 인터넷에서 찾은 업체는 뱀이 나갔는지 집 어딘가에 숨어 있는지 알 수 없다는 얘기뿐”아라며 “119에선 확실히 뱀을 봐야 와준다고(했다). 뱀이 나오길 기다려 보고 나오면 연락하라는데 안 나와도 무섭고 나와도 무섭다”고 했다.&lt;br&gt;&lt;br&gt;이어 “그래도 하루 지나니 마음은 좀 안정됐지만 가끔 무슨 소리가 나는 느낌이 들면 등골이 오싹하다”며 “몇 년 전 주택에선 지네가 들어와 지네로부터 안전하게 빌라로 갔다가 이번엔 공기 좋은 외곽 타운하우스로 왔는데 지네도 아닌 뱀이”라고 토로했다.&lt;br&gt;&lt;br&gt;그는 “뱀은 나갔을 거라고 마음속으로 수백 번 외친다”며 “‘이번에 들어가는 작품이 대박이 나려나, 뭔가 일이 엄청 잘 풀리려나’하고 스스로 위안을 삼고 있다”고 했다. 그러면서 “그나저나 뱀이 아직 집에 있는지 확인 할 방법을 아시는 분 있으실까요?”라며 “일단 뱀 관련 약들을 왕창 주문은 했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KHGIFCEZNZC2DCFNC7B7BY7UYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박은혜가 집 안에서 발견한 뱀 허물./ 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기후변화 등의 영향으로 최근 뱀이 목격되는 일이 늘어나고 있다. 올해 1월부터 5월까지 소방청 구조정보시스템에 기록된 ‘뱀 포획·구조 출동’ 건수는 2761건이다. 2018년 같은 기간 1095건 대비 2.5배 늘었다.&lt;br&gt;&lt;br&gt;뱀은 외부환경 온도에 의해 체온이 변하는 변온동물이다. 온도가 낮을 땐 몸을 따뜻하게 유지하려는 특징이 있으나, 너무 더우면 체온을 낮추기 위해 그늘이나 개울가 등 시원한 곳을 찾아 이동한다. 집중호우로 뱀굴의 습도가 너무 높아도 뱀은 밖으로 나온다고 한다. &lt;br&gt;&lt;br&gt;만약 뱀을 마주쳤다면 최소한 2m 이상 안전거리를 확보하는 것이 좋다. 뱀에 다가가면 위협하는 줄 알고 공격당할 수 있다. 수풀이 우거진 곳을 지날 때 발걸음 소리를 강하게 내거나 막대기 등으로 짚으며 뱀이 도망가도록 유도하는 것도 뱀을 피하는 방법이다. &lt;br&gt;&lt;br&gt;뱀에 물렸을 경우 119에 신고해 긴급구조를 요청하거나, 물린 부위에서 5~10cm 위쪽을 손수건 등으로 살짝 묶은 뒤 빨리 병원으로 가 치료를 받아야 한다. &lt;br&gt;&lt;br&gt;다만 뱀에 물린 직후 빠른 속도로 달리면 혈액순환이 원활해지며 독소가 빨리 퍼질 수 있어 피해야 한다. 특히 상처를 입으로 빨아내는 행위는 절대 해선 안 된다. 독이 체내로 흡수될 위험이 있고 입 안 세균에 의해 2차 감염이 일어날 수 있다.&lt;br&gt;&lt;br&gt;한편 박은혜는 1998년 영화 ‘짱’으로 데뷔했다. 드라마 ‘매일 그대와’(2002) ‘대장금’(2003) ‘불꽃놀이’(2006) ‘미스터리 형사’(2009) ‘환혼: 빛과 그림자’(2022~2023), 영화 ‘키다리 아저씨’(2005) ‘밤과 낮’(2008) ‘강철비’(2017) 등에 출연했다.&lt;br&gt;&lt;br&gt;그는 2008년 결혼한 뒤  2011년 쌍둥이 아들을 얻었다. 결혼 10년 만인 2018년 이혼한 뒤 홀로 두 아들을 키우고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보] ‘일본도 살인’ 피의자 구속... “증거인멸 및 도주 우려”</title>
