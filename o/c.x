@@ -13,6 +13,52 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>전기 스쿠터 배터리 화재, 아파트 내부 일부 태워</title>
+      <link>https://www.chosun.com/national/incident/2024/08/04/PYNSWH4TWBHS7GWHD3O7JSZJNQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/04/PYNSWH4TWBHS7GWHD3O7JSZJNQ/</guid>
+      <dc:creator>원주=정성원 기자</dc:creator>
+      <description>지난 1일 인천 청라국제도시의 한 아파트 지하주차장에서 전기차 1대가 폭발해 차량 140여대가 전소하거나 불에 그을리는 피해가 발생한 가운데 강원 원주시 한 아파트에서도 전동킥보드 배터리가 폭발하는 사고가 발생했다.</description>
+      <pubDate>Sun, 04 Aug 2024 04:40:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JOTRGQEHS6BJIVV3OSZERVWPA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오전 2시 33분쯤 강원 원주시 지정면 기업도시 내 한 아파트에 세워져 있던 전동킥보드 배터리가 폭발하면서 화재가 발생했다. / 뉴스1
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1일 인천 청라국제도시의 한 아파트 지하주차장에서 전기차 1대가 폭발해 차량 140여 대가 전소하거나 불에 그을리는 피해가 발생한 가운데, 강원 원주시 한 아파트에서도 전동킥보드 배터리가 폭발하는 사고가 발생했다.&lt;br&gt;&lt;br&gt;4일 오전 2시 33분쯤 강원 원주시 지정면 기업도시 내 한 아파트에 세워져 있던 전동킥보드 배터리에서 불이 나 집안 일부와 가전제품 등을 태우고 10여분만에 진화됐다.&lt;br&gt;&lt;br&gt;소방당국은 전기적 요인으로 전통킥보드에 부착돼 있던 배터리가 폭발하면서 불이 난 것으로 보고 정확한 화재 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시 지역주택조합 7곳 실태조사... ‘깜깜이’ 자금 집행 등 부적정 사례 94건 적발</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/04/S4FDVFJ6XZEBLP7UWCK45ACVMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/04/S4FDVFJ6XZEBLP7UWCK45ACVMQ/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 Aug 2024 03:58:34 +0000</pubDate>
+      <content:encoded>서울시는 지난 6~7월 지역주택조합 7곳을 대상으로 전문가 합동 실태조사를 벌인 결과 총 94건의 부적정 사례를 적발했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;주요 부적정 사례는 실태조사 방해·기피, 자금운영계획서 등 정보공개 부적정, 총회 의결 없는 주요 의사결정, ‘깜깜이’ 자금 집행·회계자료 작성 등이다.&lt;br&gt;&lt;br&gt;서울시는 “적발된 94건 중 고발 대상은 17건, 과태료 부과 대상은 4건”이라고 밝혔다.&lt;br&gt;&lt;br&gt;서울시는 계도기간 이후에도 적발 사항들이 고쳐지지 않을 경우 규정에 따라 행정 조치할 계획이다.&lt;br&gt;&lt;br&gt;또 이번 실태조사 결과 지난해 지적사항을 고치지 않고 같은 건으로 다시 지적받은 조합은 주택법 등 관련 규정에 따라 즉시 조치하기로 했다.&lt;br&gt;&lt;br&gt;지역주택조합은 해당 지역 무주택자나 전용면적 85㎡ 이하 1주택 소유자들이 주택을 새로 짓기 위해 결성하는 조합이다.&lt;br&gt;&lt;br&gt;서울 시내에는 현재 총 118곳의 지역주택조합 사업이 추진되고 있다.&lt;br&gt;&lt;br&gt;서울시는 올 하반기에는 지역주택조합에 대한 전수조사를 벌일 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>36도 육박하는 폭염... 대전·충남서 냉방기기 화재 잇따라</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/08/04/3P4Z7QC2IRBPXEWDVZWWHPRSWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/08/04/3P4Z7QC2IRBPXEWDVZWWHPRSWU/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 Aug 2024 03:51:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ERMEVL4ETDTLHT6UQNSPCN2GII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;에어컨 실외기 화재(사진은 기사 내용과 관련 없음). /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30도를 웃도는 폭염으로 냉방기 사용이 증가하면서 관련 화재도 잇따르고 있다.&lt;br&gt;&lt;br&gt;4일 충남소방본부에 따르면 3일 오후 5시 11분쯤 충남 당진시 시곡동 한 음식점 에어컨에서 불이나 에어컨 전선 등을 태워 소방서 추산 16만원의 재산피해를 냈다.&lt;br&gt;&lt;br&gt;소방당국은 전기 단락으로 불이 난 것으로 보고 있다.&lt;br&gt;&lt;br&gt;같은 날 오후 대전 서구 도안동 한 아파트에서는 에어컨 실외기에서 불이나 에어컨 실외기가 모두 불에 탔고, 중구 문화동의 한 아파트에서도 선풍기에서 불이 났다.&lt;br&gt;&lt;br&gt;다행히 두 화재 모두 인명피해는 없었고, 모두 실내에 3.3㎡의 그을음 피해를 입었다.&lt;br&gt;&lt;br&gt;현재 대전과 충남 전역엔 폭염특보가 발효 중이다. 기상청은 4일 낮 최고 기온 대전 36도, 세종 36도, 충남 34~36도를 기록할 것으로 예상했다.··&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“외국계 회사다녀” 투자금 55억 뜯어낸 40대, 징역 6년</title>
+      <link>https://www.chosun.com/national/incident/2024/08/04/RDR6VUGMDRGPNLFTOLFMFU2JJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/04/RDR6VUGMDRGPNLFTOLFMFU2JJQ/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 Aug 2024 04:17:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7W7PISB5B2U7Z344LHUCZOATEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외국계 유명 투자회사에 다닌다며 동창과 친척 등으로부터 수십억원을 가로챈 40대가 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;4일 법조계에 따르면 수원지법 형사14부(부장판사 고권홍)는 특정경제범죄 가중처벌 등에 관한 법률 위반 등 혐의로 기소된 A씨에게 징역 6년읗 선고했다. A씨 일부 범행에 가담한 혐의(사기)로 기소된 동생 B씨에게는 징역 10월에 집행유예 2년을 판결했다.&lt;br&gt;&lt;br&gt;A씨는 2011년부터 주변 지인들에게 자신이 외국계 유명 투자회사인 골드만 삭스에 재직 중인 것처럼 행세하면서 “자신이 회사에서 직접 팀을 이끌고 있다”고 말하는 등 투자 능력을 과시하면서 피해자들에게 투자를 권유했다. 그는 2015년 11월부터 2023년 8월까지 8명으로부터 투자금 명목으로 55억원을 가로챈 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;그러나 A씨는 골드만 삭스에 재직 중이지 않았고 피해자들로부터 받은 돈을 개인 주식 투자 또는 다른 피해자들에게 지급해야 하는 투자금 반환 목적으로 돌려막기를 할 생각이었던 것으로 파악됐다. A씨는 피해자들에게 약속한 수익금 및 원금을 지급하기 위해 B씨에게 신규 투자자를 모집해달라고 요청한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 오랫동안 알고 지낸 인적 신뢰 관계를 이용해 학교 동창, 친척 등에게 장기간 범행을 저질러 비난 가능성이 높다”며 “피고인은 피해자들로부터 용서받지 못했고 아직 피고인을 고소하지 않은 다수의 피해자가 있는 것으로 보이는 점 등을 고려하면 피해 회복은 요원해 보인다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>골프클럽 대표에게 119만원 금품받은 경찰서장…法, “해임 적법”</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/04/G54SD47ZAZEJPA3C6IHT6RT3HM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/04/G54SD47ZAZEJPA3C6IHT6RT3HM/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 Aug 2024 03:28:52 +0000</pubDate>
+      <content:encoded>경찰서장이 자신의 관할 지역의 골프클럽 대표로부터 뇌물을 받아 해임된 것은 적법하다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7RQBLWVPXGCYXNAG64PPYVHGWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정법원/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 법조계에 따르면, 서울행정법원 행정8부(재판장 이정희)는 지난 5월 28일 전직 경찰총경 A씨가 경찰청장을 상대로 낸 해임처분 취소소송에서 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;A씨는 2020~2021년 인천의 한 경찰서장으로 근무하던 관내 한 골프클럽 대표로부터 백화점 상품권 등 119만 5000원 상당의 금품을 받은 혐의(뇌물수수 등)로 기소됐다. A씨는 경찰서장으로 재직하던 중, 골프클럽 관계자들의 음주단속 거부 관련 사건을 불기소 의견으로 송치하기도 했다.&lt;br&gt;&lt;br&gt;1심을 맡은 인천지법 형사14부(재판장 류경진)는 2022년 4월 A씨가 직무와 관련된 금품·향응을 받은 점을 인정, A씨에게 징역 8개월에 집행유예 2년과 벌금 250만원을 선고했다. 2심도 A씨의 뇌물수수 혐의를 유죄로 봤지만, 원심의 형이 무겁단 이유로 자격정지 1년 및 벌금 250만원으로 감형했다. 이 판결은 작년 6월 확정됐다.&lt;br&gt;&lt;br&gt;한편 경찰청 중앙징계위원회는 작년 5월 뇌물수수를 이유로 A씨를 해임했다. A씨는 “해임 처분은 지나치게 무겁다”며 인사혁신처 소청심사위원회에 해임 처분 취소 또는 감경을 구하는 심사를 청구했지만 받아들여지지 않자, 행정소송을 제기했다.&lt;br&gt;&lt;br&gt;그러나 법원은 “해임 처분이 사회 통념상 현저하게 타당성을 잃어 징계권자의 재량권을 일탈·남용했다고 보기 어렵다”며 A씨의 청구를 받아들이지 않았다. 재판부는 “A씨는 범죄 예방, 진압 및 수사를 하는 경찰공무원으로서 일반 공무원보다 높은 청렴성과 도덕성이 요구되고 직무관련자 등과 사적 접촉 및 금품 수령 등에 특히 유의했어야 한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “해임처분이 결코 가볍지는 않지만 A씨는 약 30년간 경찰공무원으로 근무한 사람으로서 누구보다 자신이 한 행위의 의미와 영향에 대해 잘 알고 있었을 것”이라며 “공직기강 확립이나 경찰공무원 전체에 대한 국민적 신뢰 회복이라는 공익이 A씨가 입게 될 불이익보다 작다고 보기 어렵다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>한국 유도 대표 전원이 동메달 땄다... 11명 모두 시상대 오른 이유</title>
       <link>https://www.chosun.com/national/national_general/2024/08/04/TWRBN6TYXFDLJJBBFY3PKWU3KE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/04/TWRBN6TYXFDLJJBBFY3PKWU3KE/</guid>
@@ -833,14 +879,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/FSDDFTL54VHPDO2UX3Z7MZE5WI.png?width=490&amp;height=307&amp;auth=7b5d79bafc7efc6dbda76bcad5501852674ff2d280d185be731be3fd637e0643&amp;smart=true" type="image/png" height="307" width="490"/>
     </item>
     <item>
-      <title>[입에 착착 붙는 일본어] 장미가 시들다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/08/02/TB4XTET6O5ECNF2P3O2BHTKI5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/08/02/TB4XTET6O5ECNF2P3O2BHTKI5M/</guid>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OXNTXKDJCVHDRGZKTVRMDS4FR4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“성폭행으로 원치 않는 임신”...쯔양, 전남친 충격적인 악행 공개</title>
       <link>https://www.chosun.com/national/people/2024/08/02/FSX4SHOGNFDW7HHDQ2DBSTT6GE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/02/FSX4SHOGNFDW7HHDQ2DBSTT6GE/</guid>
@@ -884,30 +922,6 @@
       <description/>
       <pubDate>Thu, 01 Aug 2024 15:50:00 +0000</pubDate>
       <content:encoded>호흡, 배변 등 신체 기능에 문제가 없더라도 일상적인 동작을 스스로 하기 어렵다면 ‘간병급여’를 지급해야 한다는 법원 판단이 나왔다. 산업재해로 간병급여를 받을 수 있는 대상을 넓게 본 것이다.&lt;br&gt;&lt;br&gt;서울고법 행정3부(재판장 정준영)는 지난 4일 A(56)씨가 근로복지공단을 상대로 낸 장해(障害)등급결정처분 취소 소송에서 원심을 뒤집고 원고 승소로 판결했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;서울 용산구의 한 마트에서 일하던 A씨는 2020년 2월 뇌내출혈 진단을 받고 산업재해 인정을 받았다. 하지만 이듬해 6월 공단이 A씨를 장해 3급으로 결정하면서, 간병급여를 받을 수 없게 됐다. 장해 1·2급만 간병급여를 받을 수 있기 때문이다.&lt;br&gt;&lt;br&gt;산재보험법은 ‘생명 유지에 필요한 일상생활의 처리 동작에 수시로 다른 사람의 간병을 받아야 하는 사람’만을 장해 2급으로 인정하고 있다. A씨는 “왼쪽 상하지 마비로 걷기가 불편하고 식사, 목욕, 대소변 처리 등에 타인의 도움이 필요하므로, 장해 2급에 해당한다”며 공단에 다시 심사를 청구했지만 그해 11월 기각됐다. 이에 불복한 A씨는 행정소송을 제기했다.&lt;br&gt;&lt;br&gt;쟁점은 ‘생명 유지에 필요한 일상생활의 처리 동작’을 어디까지 인정할 것인지였다. 공단과 1심은 ‘생명 유지에 필요한 일상생활의 처리 동작’을 호흡과 음식물 삼키기, 배뇨 및 배변 기능 등 신체 기능으로 한정했다.&lt;br&gt;&lt;br&gt;하지만 2심은 더 넓게 해석해야 한다고 봤다. 2심은 “간병이 필요한지를 판단하는 기준은 ‘일상생활의 처리 동작’의 가능 여부에 있는 것이지, 신체 기능 자체의 문제 여부에 있지 않음이 명백하다”며 “호흡과 음식물, 배뇨·배변 기능 등이 정상이더라도 생명 유지에 필수적인 식사, 목욕, 대소변 처리 등에 늘 다른 사람의 도움이 필요하다면 수시로 간병이 필요하다고 봐야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] if that's the case</title>
-      <link>https://www.chosun.com/national/nie/english/2024/08/02/M4BLC5RD5RBQRLCBS2EG2EU6SU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/08/02/M4BLC5RD5RBQRLCBS2EG2EU6SU/</guid>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UEMPFYXF4ZFZTADH22LPTKHO7I.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 여행 성수기</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/08/02/ZVJG544KXBDM7BWY43S2FI6664/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/08/02/ZVJG544KXBDM7BWY43S2FI6664/</guid>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S5CZMY4P6JFY3MJWLNEJN5Z5EU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 극악무도(極惡無道)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/08/02/UY3FSXPJFJC65GPTFPND5FGKGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/08/02/UY3FSXPJFJC65GPTFPND5FGKGQ/</guid>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4G5BOMGX5JGD5M7Z5OGRWZLO6I.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>민영삼 방송광고진흥공사 사장, 최철호 시청자미디어재단 이사장</title>
@@ -961,15 +975,6 @@
       <description/>
       <pubDate>Thu, 01 Aug 2024 07:28:59 +0000</pubDate>
       <content:encoded>호흡, 배변 등 신체 기능에 문제가 없더라도 일상적인 동작을 스스로 하기 어렵다면 ‘간병급여’를 지급해야 한다는 법원 판단이 나왔다. 산업재해로 간병급여를 받을 수 있는 대상을 넓게 본 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WTP2UZISKOEC5OHBCTMYUUJ32U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울고법/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 행정3부(재판장 정준영)는 지난 4일 A(56)씨가 근로복지공단을 상대로 낸 장해(障害)등급결정처분 취소 소송에서 원심을 뒤집고 원고 승소로 판결했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;서울 용산구의 한 마트에서 일하던 A씨는 2020년 2월 뇌내출혈 진단을 받고 산업재해 인정을 받았다. 하지만 이듬해 6월 공단이 A씨를 장해 3급으로 결정하면서, 간병급여를 받을 수 없게 됐다. 장해 1·2급만 간병급여를 받을 수 있기 때문이다.&lt;br&gt;&lt;br&gt;산재보험법은 ‘생명 유지에 필요한 일상생활의 처리 동작에 수시로 다른 사람의 간병을 받아야 하는 사람’만을 장해 2급으로 인정하고 있다. A씨는 “왼쪽 상하지 마비로 걷기가 불편하고 식사, 목욕, 대소변 처리 등에 타인의 도움이 필요하므로, 장해 2급에 해당한다”며 공단에 다시 심사를 청구했지만 그해 11월 기각됐다. 이에 불복한 A씨는 행정소송을 제기했다.&lt;br&gt;&lt;br&gt;쟁점은 ‘생명 유지에 필요한 일상생활의 처리 동작’을 어디까지 인정할 것인지였다. 공단과 1심은 ‘생명 유지에 필요한 일상생활의 처리 동작’을 호흡과 음식물 삼키기, 배뇨 및 배변 기능 등 신체 기능으로 한정했다.&lt;br&gt;&lt;br&gt;하지만 2심은 더 넓게 해석해야 한다고 봤다. 2심은 “간병이 필요한지를 판단하는 기준은 ‘일상생활의 처리 동작’의 가능 여부에 있는 것이지, 신체 기능 자체의 문제 여부에 있지 않음이 명백하다”며 “호흡과 음식물, 배뇨·배변 기능 등이 정상이더라도 생명 유지에 필수적인 식사, 목욕, 대소변 처리 등에 늘 다른 사람의 도움이 필요하다면 수시로 간병이 필요하다고 봐야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 결혼 앞둔 여성 살해한 50대, 예비신랑에 사진 전송 후 극단선택</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/01/LNKCUGI6Q5CEXKA52HIHFBWCOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/LNKCUGI6Q5CEXKA52HIHFBWCOY/</guid>
-      <dc:creator>서보범 기자, 김영은 인턴기자(한국외대 졸업)</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 05:53:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEZ7746RVQE33YATJC3KVDMURM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 노원경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 노원구의 한 아파트에서 50대 남성이 평소 알고 지내던 여성을 흉기로 살해한 뒤 자신도 목숨을 끊는 사건이 발생했다.&lt;br&gt;&lt;br&gt;서울 노원경찰서는 서울 노원구 공릉동의 한 아파트에서 평소 알고 지내던 50대 여성을 자신의 집으로 불러 흉기로 살해한 50대 남성 A씨와 관련해 구체적인 사건 경위를 조사 중이라고 1일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난달 31일 오후 4시쯤 피해 여성 B씨를 자신의 집으로 불러들인 뒤 흉기로 살해한 혐의를 받는다. 당시 B씨는 결혼을 앞두고 있었던 것으로 알려졌다. A씨는 B씨가 근무하던 서울 동대문구의 한 식당에 손님으로 방문했다가 서로를 알게된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 이날 오후 5시쯤 범행을 마친 뒤 아파트 주차장으로 내려가 자신의 차량에서 스스로 목숨을 끊은 것으로 확인됐다. A씨는 목숨을 끊기 전 B씨의 숨진 모습을 사진으로 촬영한 뒤 결혼 상대에게 문자로 전송했던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 사망해 공소를 제기할 수 없는 상황이지만, 평소 피해자를 상대로 한 범죄 사실이 있었는지 여부 등 구체적인 사실 관계를 계속 수사할 방침”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
