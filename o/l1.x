@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 수능 끝났는데도 홈피에 문제 무료 공개… “평가원은 저작물 사용료 1000만원 지급하라”</title>
+			<description>&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/images/200283.jpg" alt="200283.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대학수학능력시험이나 수능모의고사 평가 문제지 등을 한국교육과정평가원 홈페이지에 올려 시험 종료 후에도 누구든 무료로 내려받을 수 있게 한 것은 저작물의 공정한 이용으로 볼 수 없다는 취지의 대법원 판단이 나왔다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;대법원 민사3부&lt;/b&gt;(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1337"&gt;노정희&amp;nbsp;&lt;/span&gt;대법관)는 7월 11일 사단법인 한국문학예술저작권협회(법무법인 로고스 변호사 최중현)가 한국교육과정평가원을 상대로 낸 손해배상청구 소송(&lt;b&gt;2021다272001&lt;/b&gt;)에서 원고 일부승소 판결한 원심을 확정했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;학력평가시험의 출제, 시험, 채점 등의 업무를 하는 공공기관인 평가원은 고입선발고사, 수능 등 문제지에 협회가 관리하는 저작물 전부 또는 일부를 지문이나 참고자료로 이용했다. 이후 시험 종료 후에도 문제지를 평가원 홈페이지에 올려 누구든지 내려받을 수 있도록 했다. 협회는 각 저작물의 저작권자로부터 복사·전송권을 신탁받아 관리하면서 저작물사용료를 징수해 신탁자들에게 분배하는 목적의 단체다. 협회 측은 평가원의 게시행위로 인해 저작권을 침해받았다면서 “평가원이 사용료에 해당하는 1700여만 원을 지급하라”며 소송을 냈다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;저작권법 제32조는 ‘시험 등 필요한 경우 공표된 저작물을 복제 배포할 수 있다’고 규정하고 있다가 2020년 2월 공중송신도 할 수 있다는 내용이 추가됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1심은 평가원의 손을 들어줬다. 수험생에게 균등한 학습기회를 보장하기 위해 평가 문제를 공개하는 건 공익에 부합하는 일이고, 저작물의 사회적 교육적 의미를 고려하면 시험이나 교육을 위한 인용이 폭넓게 허용될 필요도 있다는 것이다. 그러나 항소심은 판단을 뒤집고 “평가원은 협회에 1000만 원을 지급하라”며 원고 일부 승소 판결했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;항소심은 “이 사건 게시행위는 시험의 출제와 성적 제공까지 전체적인 과정이 완료된 후에 수년 동안 기간의 제한 없이 해당 시험 응시자 외의 불특정 다수인에게 시험에 이용된 저작물을 저작권자의 허락 없이 전송하는 것”이라며 “시험의 목적에 필요한 정당한 범위에 포함되지 않아 공중송신이 추가된 현행 저작권법 제32조에 의하더라도 위 규정에 의해 허용되는 행위라고 볼 수 없다”고 설명했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;대법원도 항소심 판단이 옳다고 봤다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;재판부는 “평가원의 게시행위에 협회의 저작물을 이용한 평가문제를 공중의 이용에 제공한다는 공익적·비영리적 측면이 있다는 점을 감안하더라도 저작물의 공정한 이용에 해당한다고 보기는 어렵다”고 판시했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;그러면서 “이 사건 게시행위는 시장에서의 통상적인 이용 방법과는 달리 협회로부터 이용 허락을 받지 않은 채 저작물을 평가문제에 포함해 전송한 것으로, 저작물의 현재 시장 또는 가치나 잠재적인 시장 또는 가치에 영향을 미치는 행위에 해당한다”며 “평가원이 복제방지조치 등 필요한 조치도 취하지 않거나 출처표시의무를 위반하기도 하는 등 평가원의 이용 방법이 정당하다고 보기는 어렵고 평가원으로서는 이 사건 저작물에 관해 문화체육관광부 장관으로부터 승인된 사용료를 지급하고 기출문제를 공중의 이용에 제공하는 것이 가능한 등 공익과 저작자의 정당한 이익의 균형을 도모할 수 있다”고 설명했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</description>
+			<pubDate>Sun, 04 Aug 2024 00:28:29 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/200283</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200283</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/200283.jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
 			<title>(금주 법조계 주요일정) 8월 5~9일</title>
 			<description>&lt;b&gt;△5일(월)&lt;/b&gt;&lt;br /&gt;사단법인 정, '2024 예비법률가 공익 인권 프로그램 실무수습'(~16일, 서울 강남구 대치동 바른빌딩)</description>
 			<pubDate>Sat, 03 Aug 2024 22:08:12 -0000</pubDate>
@@ -231,15 +241,6 @@
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/200291</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200291</guid>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>【오늘의 법조】 2024년 8월 2일</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[오늘의 PICK ]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷김선수·이동원·노정희 대법관, 6년 임기 마치고 퇴임&lt;/b&gt;&lt;br /&gt;김선수(63·사법연수원 17기)·이동원(61·17기)·노정희(61·19기) 대법관이 6년 임기를 마치고 1일 퇴임했다. 세 대법관은 1일 서울 서초동 대법원 청사 중앙홀에서 열린 퇴임식을 마지막으로 각각 6년과 33년, 34년 간의 법관 생활을 마무리했다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/200260" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;b&gt;&lt;br /&gt;▷법무부, 법무관·경력법조인 등 47명 신규 검사로 임용&lt;/b&gt;&lt;br /&gt;법무부는 1일 법무관 전역자 20명(제10회 변호사시험 합격)과 경력법조인 출신 27명을 검사로 신규 임용했다고 밝혔다. 법무부는 올해부터 경력법조인 대상으로는 실무기록평가(필기시험)를 실시하지 않는 대신 2단계 심층 면접과 임용예정자 명단공개 등 공정한 절차를 거쳐 법률가로서의 실무 경력과 자질 등을 평가해 임용했다.&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/200269" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Thu, 01 Aug 2024 22:38:40 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/200292</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200292</guid>
 			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
