@@ -13,6 +13,103 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>한국 유도 대표 전원이 동메달 땄다... 11명 모두 시상대 오른 이유</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/04/TWRBN6TYXFDLJJBBFY3PKWU3KE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/04/TWRBN6TYXFDLJJBBFY3PKWU3KE/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 Aug 2024 02:31:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIRTHCUCUDMPO7OEBTMHUAWV3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국 유도대표팀 선수들이 3일(현지시각) 프랑스 파리 샹 드 마르스 아레나에서 열린 2024 파리올림픽 유도 혼성 단체 시상식에서 기념촬영을 하고 있다 . /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 유도대표팀이 올림픽 유도 혼성단체전에서 첫 동메달을 획득했다. 시상대에는 올림픽에 출전한 대표팀 선수 11명이 모두 올라 메달의 기쁨을 함께 했다.&lt;br&gt;&lt;br&gt;3일(현지시각) 프랑스 파리 샹드마르스 경기장에서 파리올림픽 유도 혼성단체전 시상식이 열렸다. 이날 같은 장소에 열린 동메달 결정전에서 독일을 4-3으로 꺾은 한국 대표팀은 동메달을 땄다.&lt;br&gt;&lt;br&gt;순서에 따라 동메달을 차지한 한국 대표팀의 이름이 먼저 호명됐다. 한국팀은 올림픽 개인전에 출전한 유도 대표팀 11명의 선수 모두 함께 시상대에 올랐다.&lt;br&gt;&lt;br&gt;혼성단체전은 2020 도쿄올림픽에서 처음 도입됐다. 총 14개 체급으로 나뉘는 개인전과 달리 남자 3체급(73㎏급, 90㎏급, 90㎏초과급)과 여자 3체급(57㎏급, 70㎏급, 70㎏초과급) 등 총 6체급으로 나뉜다. 팀별로 6명이 출전해 먼저 4승을 따내면 승리하는 경기다. 이에 따라 같은 체급이 아닌 선수와도 경기를 치르게 되며, 출전하지 않은 후보 선수도 메달을 함께 딸 수 있다.&lt;br&gt;&lt;br&gt;한국팀은 안바울, 이준환, 한주엽, 김민종, 허미미, 김지수, 김하윤 등 총 7명이 경기 일정을 소화했다.&lt;br&gt;&lt;br&gt;단체전 6개 체급 가운데 남자 73㎏급과 여자 70㎏급에 나설 대표 선수가 없었다. 이에 남자 66㎏급 안바울이 73㎏급에서, 여자 63㎏급 김지수는 여자 70㎏급에서 한 체급 위 상대와 맞섰다.&lt;br&gt;&lt;br&gt;남자 90㎏에서는 81㎏급 이준환이 국제무대 경험이 적은 한주엽과 번갈아가며 출전했다. 이에 8강전에서는 81㎏급 이준환이 두체급 위인 최중량급 프랑스 테디 리네르와 맞붙는 대결도 성사됐다. 최중량급 간판 김민종은 전날 남자 100㎏ 이상급 결승전에서 다친 무릎을 끌고 분투했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4F6MGDVTQAWS3DXJLREIEH7HNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국 유도대표팀 안바울이 3일(현지시각) 프랑스 파리 샹 드 마르스 아레나에서 열린 2024 파리올림픽 유도 혼성 단체 동메달 결정전 독일 이고르 반트케와의 경기에서 승리한 후 기뻐하고 있다. 이 승리로 유도대표팀은 올림픽 최초 혼성 단체전 동메달을 획득했다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국은 독일과의 동메달 결정전에서 안바울이 따낸 골든스코어로 승리했다.&lt;br&gt;&lt;br&gt;혼성단체전은 3-3 동점 상황일 경우 추첨을 통해 뽑은 체급으로 마지막 승부를 가리는데, 이날 추첨 결과 73㎏급으로 결정됐다.&lt;br&gt;&lt;br&gt;안바울은 바로 직전 3-2로 이기고 있는 상황에서 한 체급 위 선수인 이고르 반트케와 9분 38초의 혈투를 벌인 끝에 패했던 상황이었다. 어려운 상황 속에서 치러진 골든스코어 경기에서 안바울은 5분25초 만에 반칙승을 거뒀다.&lt;br&gt;&lt;br&gt;경기에 출전한 7명 선수는 무론 후보 선수 김원진(남자 60㎏급), 이혜경(여자 48㎏급), 정예린(여자 52㎏급), 윤현지(여자 78㎏급)도 동메달을 거머쥐게 된 순간이었다.&lt;br&gt;&lt;br&gt;경기 후 인터뷰에서 안바울은 “여기 있는 선수들 말고도 함께 훈련한 모든 선수가 진짜 많이 생각났다. 그래서 더 힘을 내야 하고 무조건 이겨야겠다고만 생각했다”고 말했다. 이어 “다 함께 동고동락하면서 보낸 힘든 시간이 보상받는 느낌이었다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XYIFYVIUARLYRD4KRP6FHHTHWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일(현지시각) 파리올림픽 유도 혼성단체전 시상식에서 프랑스, 일본, 한국, 브라질 선수들이 시상대에 올랐다./신화통신 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 시상식에는 한국 팀 선수 11명 외에도 금메달을 딴 프랑스 14명 선수, 은메달을 딴 일본 14명 선수, 동메달을 딴 브라질 10명 선수 등 총 50명의 선수단이 시상대에 올라 메달을 목에 걸었다.&lt;br&gt;&lt;br&gt;한편 한국 유도는 이번 대회를 은메달 2개, 동메달 3개로 파리올림픽 여정을 마무리했다. 이번 올림픽에서 김민종과 허미미는 은메달 1개와 동메달 1개, 이준환과 김하윤은 동메달 2개씩을 획득했으며, 안바울은 2016 리우올림픽 이후 3연속 올림픽 메달을 따게 됐다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘찜통 더위’에 올해 8명 사망...온열 질환자 1390명</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/04/EKU6NCBOSVEN5KCV3ESVGELYOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/04/EKU6NCBOSVEN5KCV3ESVGELYOI/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 Aug 2024 02:07:19 +0000</pubDate>
+      <content:encoded>연일 이어지는 ‘찜통 더위’ 때문에 올해 전국에서 8명이 사망한 것으로 나타났다.&lt;br&gt;&lt;br&gt;4일 행정안전부에 따르면 지난 2일 하루에만 전국에서 온열 질환자가 74명 나왔다. 이중 2명은 사망했다.&lt;br&gt;&lt;br&gt;2일 오전 11시50분쯤 경북 포항의 한 골프장에서 30대 남성이 측량 작업을 벌이던 중 쓰러진 채 발견돼 사망했고, 같은날 오후 1시8분쯤 경남 밀양의 한 밭에서 60대 여성이 일을 하다가 쓰러진 채 발견됐다.&lt;br&gt;&lt;br&gt;지난 5월20일부터 지난 2일까지 집계된 온열 질환자는 총 1390명이다. 이중 8명이 사망했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KDP3H33RFP7GD52JFSI7JTREIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국 대부분 지역에 폭염특보가 내려진 7월31일 서울 종로구 광화문사거리에서 시민들이 뜨거운 햇빛 아래 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국에서 가축 25만7483마리도 무더위로 폐사했다. 돼지가 2만1603마리, 닭·오리 등 가금류가 23만5880마리다. 양식 넙치 5867마리도 폐사했다.&lt;br&gt;&lt;br&gt;이날 오전 6시 기준 서울, 부산, 대구, 광주, 대전, 울산 등 전국 전역에 폭염 경보가 발령돼 있다.&lt;br&gt;&lt;br&gt;행안부는 지난달 31일 오후 7시부로 중대본 1단계를 가동했다. 폭염 위기 경보도 ‘경계’에서 ‘심각’으로 상향했다.&lt;br&gt;&lt;br&gt;중대본은 지난 3일 마을 주민들이 밭일 등 외부 활동을 자제하도록 시·군·구에 협조를 요청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>9·4세 아들 배웅 속…‘일본도 참변’ 희생자 눈물의 발인</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/01/TCNUAYBRSVFYZJCH5M5TEPX46I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/TCNUAYBRSVFYZJCH5M5TEPX46I/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 07:01:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WPJGBZ5XEFIOJK32HM7TLNB33Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;분향소에 놓인 국화. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 은평구의 한 아파트에서 주민이 휘두른 일본도에 숨진 김모(43)씨의 발인식이 눈물 속에 치러졌다.&lt;br&gt;&lt;br&gt;김씨의 발인식은 1일 오전 11시쯤 서울 은평성모병원 장례식장에서 유족과 지인 30여명이 참석한 가운데 엄수됐다.&lt;br&gt;&lt;br&gt;갑작스럽게 남편을 떠나보낸 아내는 넋을 잃은 표정으로 허공을 바라보며 눈물을 흘렸고, 아들을 잃은 모친은 고인의 이름을 여러 차례 불렀다. 바닥에 주저앉아 울부짖는 유족도 있었다.&lt;br&gt;&lt;br&gt;아홉 살과 네 살에 불과한 고인의 두 아들은 아버지에게 마지막 인사를 건넸다. 검은 양복을 입은 첫째는 어머니의 손을 잡은 채, 노란색 티셔츠와 초록색 반바지 차림의 둘째는 외할아버지의 품에 안긴 채 운구차를 바라봤다.&lt;br&gt;&lt;br&gt;김씨는 지난달 29일 밤 같은 아파트 주민 백모(37)씨가 휘두른 1m 길이의 일본도에 참변을 당했다.&lt;br&gt;&lt;br&gt;김씨는 피의자 백씨와 일면식도 없었고, 잠깐 담배를 피우러 집 밖으로 나왔다가 이 같은 일을 당했다. 그는 아들 둘을 두고 서울의 한 기업에 재직 중이던 가장이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“특정 후보 뽑아달라”… 조합장 선거 앞두고 3만원 화장품 건넨 60대</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/04/J7PX4WXFSRBMVBUNZB6IMXRLCU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/04/J7PX4WXFSRBMVBUNZB6IMXRLCU/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>지역 농협 조합장 선거에 출마한 지인을 뽑아달라며 조합원에게 화장품을 건넨 60대가 항소심에서도 벌금형을 선고받았다.춘천지법 형사2부(재판장 김성래)는 위탁선거법 위반 혐의로 기소된 A(65)씨에게 원심과 같은 벌금 50만원을 선고했다고 4일 밝혔다.</description>
+      <pubDate>Sun, 04 Aug 2024 02:00:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2FBYLCPJUOFA2Q7YO2F3LHFJPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지역 농협 조합장 선거에 출마한 지인을 뽑아달라며 조합원에게 화장품을 건넨 60대가 항소심에서도 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사2부(재판장 김성래)는 위탁선거법 위반 혐의로 기소된 A(65)씨에게 원심과 같은 벌금 50만원을 선고했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 제3회 전국동시조합장선거를 앞둔 지난해 2월 13일 강원 춘천시 한 농협 조합원 B씨의 집에서 3만원짜리 화장품을 건넨 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 또 후보자를 제외한 그 누구도 어떤 방법으로 선거운동을 할 수 없음에도 지난해 3월 또 다른 조합원 집에 찾아가 특정 후보를 뽑아달라는 취지의 말을 하기도 했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “원심의 판단을 유지하는 것이 부당하다고 인정할 만한 새로운 정상이나 사정변경이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“재결합을 거부해?”... 불 질러 전처 살해하려한 60대, 징역 5년</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/08/04/7F5FLEVZRZFABNPRE62DYRHODU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/08/04/7F5FLEVZRZFABNPRE62DYRHODU/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 Aug 2024 02:03:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 전경. /신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재결합을 거부한 전처를 살해하려고 불을 지른 60대에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;청주지법 제22형사부 (재판장 오상용) 4일 현주건조물방화, 살인 미수 등의 혐의로 재판에 넘겨진 A(67)씨에게 징역 5년을 선고했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월 충북 괴산군의 한 주택에 불을 질러 전처를 살해하려 한 혐의로 재판에 넘겨졌다. 다행히 피해자는 화장실 창문을 열고 밖으로 도망쳐 화를 면했다.&lt;br&gt;&lt;br&gt;경찰 조사결과 그는 이혼한 전 부인에게 재결합을 요구했지만 거절당하자 관계 회복이 불가능하다는 단절감과 무시를 당하고 있다는 생각에 범행을 저지른 것으로 드러났다.&lt;br&gt;&lt;br&gt;오 부장판사는 “범행 동기, 방법, 피해 규모 등에 비춰 볼 때 죄질이 매우 무겁다”며 “다만 범행이 미수에 그쳐 인명피해가 발생하지 않은 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘묻지마 폭행’ 피해자였던 30대, 집행유예 선고...무슨 일이</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/08/04/YSZYX6PGNJGFNIEKD2OA36PQOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/08/04/YSZYX6PGNJGFNIEKD2OA36PQOM/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 Aug 2024 01:54:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 전경. /신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘묻지마 폭행’의 피해자였던 30대가 같은 ‘묻지마 폭행’을 저질러 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;청주지법 형사1단독 권노을 판사는 상해, 아동복지법 위반(아동학대) 혐의로 재판에 넘겨진 A(33)씨에게 징역 10개월에 집행유예 2년을 선고했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 4월 충북 청주의 한 공원에서 아무 이유없이 10대 청소년의 목덜미를 잡고 얼굴 등을 수회 폭행한 혐의로 재판에 넘겨졌다. 그는 범행 이후에도 자신에게 인사하는 9세 남아가 욕설을 한다고 생각해 뒤통수를 때리기도 했다.&lt;br&gt;&lt;br&gt;경찰에 붙잡힌 A씨는 조사 과정에서 과거 묻지마 폭행으로 크게 다쳤던 것으로 드러났다. 이후 그는 주변 사람들이 자신을 때리려 한다고 착각해 폭력성을 보인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;권 판사는 “이유 없는 폭행으로 피해 아동들이 신체적·정신적으로 큰 충격과 고통을 겪었을 것으로 보인다”며 “다만 피고인이 범죄 피해를 본 후 정신적 질환을 앓게 됐고, 이러한 질환이 이 사건 범행에 영향을 미친 것으로 보이는 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>무면허로 침 놓고 부항까지...가짜 한의사에 징역형</title>
+      <link>https://www.chosun.com/national/2024/08/04/Z5AOI7AA4JGD3POMZDWQJMJIO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/08/04/Z5AOI7AA4JGD3POMZDWQJMJIO4/</guid>
+      <dc:creator>울산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 Aug 2024 01:45:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OEP23TEMYVH2ZDUPWL7E4R6IAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;면허도 없이 집에서 침을 놓는 등 불법 의료행위를 하고 돈을 챙긴 ‘가짜 한의사’에게 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;울산지법 형사9단독 이주황 판사는 보건범죄단속에 관한 특별조치법 위반 혐의로 기소된 A(70대)씨에게 징역 2년에 집행유예 3년과 벌금 500만원을 선고했다고 4일 밝혔다. 또 재판부는 사회봉사 80시간과 1000만원 추징도 명령했다.&lt;br&gt;&lt;br&gt;판결문에 따르면 A씨는 한의사 면허가 없는데도 집 안에 부항 기기와 동방침 등을 갖춰 두고 의료행위를 했다.&lt;br&gt;&lt;br&gt;지난해 9월부터 12월까지 울산에 있는 자신의 집에서 허리 통증으로 찾아온 B씨의 혓바닥과 허리 등에 침을 놓거나, 부항을 떠주고 약 1000만원을 받아 챙긴 혐의를 받는다.&lt;br&gt;&lt;br&gt;이주황 판사는 “A씨는 한의사가 아님에도 영리를 목적으로 무면허 의료행위를 했다”며 “이전에도 비슷한 범행으로 2차례 적발된 점, 피해자에게 받은 돈 일부를 반환한 점, 나이 등을 참작해 형을 정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>폭염 속 밭일하던 80대 여성 숨져…체온 42도까지 올라</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/04/YEWLLJ3CBNHPTD23CIYOQENEMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/04/YEWLLJ3CBNHPTD23CIYOQENEMI/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 Aug 2024 01:17:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/REVSOJW6WHXYDAVHKUBGAARRFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭염 온열 질환 예방법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시에서 폭염특보가 이어지는 가운데 밭일을 나갔던 80대 여성이 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;4일 광주소방본부 등에 따르면 전날 오후 2시 51분쯤 광주시 서구 금호동의 한 아파트 인근 밭에서 A(87)씨가 밭일 중 쓰러진 뒤 심정지 상태로 발견됐다. 소방당국은 “A씨가 열사병으로 쓰러진 것 같다”는 신고를 받고 현장에 출동했다. 현장에서 응급처치를 하고 A씨를 병원으로 옮겼지만, 사망했다.&lt;br&gt;&lt;br&gt;119 구급대원들이 확인한 A씨 체온은 42도에 달했던 것으로 전해졌다. 전날 광주지역 최고 체감온도는 36.4도였다. 광주는 지난달 20일부터 전날까지 16일째 폭염특보가 이어졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/REVSOJW6WHXYDAVHKUBGAARRFE.jpg?width=720&amp;height=540&amp;auth=92376414fac41c5a9d2ee5d98041c11b9647bdfa1b52ab1609548310291105eb&amp;smart=true" type="image/jpeg" height="540" width="720">
+        <media:description type="plain">폭염 온열 질환 예방법</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>음주운전 트럭, 가드레일 받아...타고 있던 3남매 숨져</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/04/4EIFLMKJ5JHVRJL5W6RQ5NNE4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/04/4EIFLMKJ5JHVRJL5W6RQ5NNE4E/</guid>
+      <dc:creator>순창=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 Aug 2024 01:09:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2KFW3BDGDNFNPEJTMGENX5Q4ZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오전 2시 18분쯤 전북 순창군 인계면의 한 도로에서 음주운전자가 몰던 1t 트럭이 가드레일을 들이받는 사고로 부서져 있다. /전북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 순창에서 음주운전자가 모는 1t 트럭이 낸 단독사고로 동승자인 남매 3명이 숨졌다.&lt;br&gt;&lt;br&gt;4일 전북 순창경찰서에 따르면 이날 오전 2시 18분쯤 전북 순창군 인계면의 한 도로에서 A(22)씨가 몰던 1t 트럭이 가드레일 들이받는 사고를 내 B(25·여)씨와 18세, 17세인 남동생 2명 등 동승자인 남매 3명이 숨졌다. A씨도 중상을 입어 병원으로 옮겨져 치료를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 술을 마신 뒤 운전대를 잡고 사고를 낸 것으로 파악했다. A씨의 사고 당시 혈중알코올농도는 운전면허 취소 수준으로 확인됐다. 경찰은 숨진 동승자들이 차량 내부 조수석이 아닌 트럭 짐칸에 탑승했다가 변을 당했을 가능성도 파악 중이다. 해당 트럭은 좌석에 운전자와 동승자 3명이 탑승할 수 있는 구조라고 한다.&lt;br&gt;&lt;br&gt;경찰은 사고 원인을 조사 중이지만 차량에 블랙박스가 없어 어려움을 겪고 있다. 경찰 관계자는 “인근 방범카메라(CCTV) 영상을 토대로 정확한 사고 원인과 동승자 탑승 형태를 파악할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/2KFW3BDGDNFNPEJTMGENX5Q4ZU.jpg?width=1280&amp;height=960&amp;auth=dc2a4e4f2c62e6a7cb930ec4d83406b6f9996268c0c8ae115287df7215dd7aaf&amp;smart=true" type="image/jpeg" height="960" width="1280">
+        <media:description type="plain">4일 오전 2시 18분쯤 전북 순창군 인계면의 한 도로에서 음주운전자가 몰던 1t 트럭이 가드레일을 들이받는 사고로 부서져 있다. /전북소방본부</media:description>
+        <media:credit role="author" scheme="urn:ebu">전북소방</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>인사하려고 일어난 여서정 쌩 지나친 北 안창옥 …카메라에 잡힌 이 장면</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/04/ZOIHXNQD35FWXM53F4SADCXHXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/04/ZOIHXNQD35FWXM53F4SADCXHXE/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 Aug 2024 23:48:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DK553JZP4JBOXOA3ZPPE56GDY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일(현지시각) 파리올림픽 기계체조 여자 도마 결선에서 경기를 마친 북한 안창옥이 인사하기 위해 일어난 여서정 앞을 그냥 지나치고 있다./KBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기계체조 여자 도마 결선에서 북한의 안창옥이 한국의 여서정을 외면하고 지나가는 모습이 중계 화면에 포착됐다.&lt;br&gt;&lt;br&gt;3일(현지시각) 프랑스 파리 베르시 아레나에서 2024 파리올림픽 기계체조 여자 도마 결선이 열렸다. 8명의 선수 중 여서정은 7번째, 안창옥은 2번째로 경기에 나섰다.&lt;br&gt;&lt;br&gt;먼저 연기를 펼친 안창옥은 공중에서 몸을 두 바퀴 돌리는 동작을 착지까지 무사히 마쳤다.&lt;br&gt;&lt;br&gt;코치와 기쁨의 포옹을 나눈 안창옥은 자리로 돌아가면서 불가리아 선수 발렌티나 조지에바와 서로를 안아주며 반갑게 인사했다.&lt;br&gt;&lt;br&gt;여서정도 자리에서 일어나 인사하기 위해 안창옥에게 다가갔지만, 안창옥은 여서정을 그대로 지나쳤다. 안창옥은 여서정 바로 앞쪽에서 또다른 북한 코치와 포옹을 나눴다. 여서정은 머쓱한듯 자신의 옆자리에 앉은 코치와 함께 웃어보였다.&lt;br&gt;&lt;br&gt;이 모습이 중계 화면에 고스란히 잡히자 네티즌들 사이에서는 여러 의견이 오갔다.&lt;br&gt;&lt;br&gt;네티즌들은 “안창옥은 여서정을 못본 게 아니라 알고도 지나친 거다. 우리나라 선수랑 말 한마디 섞었다가 안위가 위험해질 수 있어서 일 것” “안창옥이 다른 선수들이랑은 포옹했는데 여서정은 그냥 지나쳤다. 타이밍 놓친 건지 일부러인지는 몰라도 한국과 북한 간 감정의 골이 깊다는 게 느껴진다” “여서정이 안창옥 경기 끝나고 인사하려고 일어났는데 그냥 지나친 거 마음 아프고 안타깝더라” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C4AIKRQLKNCSRDPNNP7TMEVF7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일(현지시각) 파리올림픽 기계체조 여자 도마 결선에서 여서정(왼쪽)과 북한의 안창옥이 착지 포즈를 취하고 있다./뉴스1, 올림픽공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 두 선수는 모두 메달권에 들지 못했다. 여서정은 예선에서 4위(14.183점)로 결선에 올랐으나 결선에서 1, 2차 시기 평균 13.416점으로 7위에 올랐다. 안창옥은 1, 2차 평균 14.216점을 받아 4위를 기록했다.&lt;br&gt;&lt;br&gt;특히 경기 당일 어깨를 다친 여서정은 1, 2차 시기 모두 불안한 착지로 예상보다 낮은 점수를 받게 됐다. 그는 “경기 세 시간 전에 연습하다가 어깨가 탈골됐다. 긴장된 상태로 시합을 치렀다”며 “예선 결과가 좋아서 기권하면 너무 아쉬울 것 같았다. 어떻게든 뛰어서 마무리를 짓고 싶었다. 크게 안 다쳐서 다행이다”고 털어놨다.&lt;br&gt;&lt;br&gt;안창옥이 자신의 인사를 외면한 것에 대해서는 “같이 뛰는 선수라 악수하려고 했는데 내 인사 타이밍이 늦었다고 생각한다”고 했다. 이어 “묵묵히 잘하는 선수더라”며 “안창옥의 실력이 뛰어났다. 연습 때 조금 실수가 있었는데 시합에선 잘했다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>티메프 업체의 울분 “판매금 8억 못 받아 사채로 돌려막는다”</title>
       <link>https://www.chosun.com/national/2024/08/04/WBV7OZEEHJEGTKWDCGWNLUIIBQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/08/04/WBV7OZEEHJEGTKWDCGWNLUIIBQ/</guid>
@@ -813,54 +910,12 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4G5BOMGX5JGD5M7Z5OGRWZLO6I.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[두근두근 뇌 운동] [2434] 쿵작쿵작 장단 치기</title>
-      <link>https://www.chosun.com/national/nie/2024/08/02/ONGVFNFTWVCHXP5TWS5CS4EAXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/02/ONGVFNFTWVCHXP5TWS5CS4EAXQ/</guid>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5RMZLXM6GFBILP44OCIXFUN7I4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 기획재정부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/08/02/NLLF4N3X2ZH73DQF7OQVL4CZZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/08/02/NLLF4N3X2ZH73DQF7OQVL4CZZY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 15:35:00 +0000</pubDate>
-      <content:encoded>▲기획재정부◇서기관 승진▷대변인실 홍보담당관실 김영돈▷기획조정실 규제개혁법무담당관실 이미자▷미래전략국 인구경제과 김현영▷국고국 국고과 이상아▷국제금융국 국제투자협력단 최정빈▷복권위원회사무처 복권총괄과 김지선◇과학기술서기관 승진▷기획조정실 정보화담당관실 이채영&lt;br&gt;&lt;br&gt;▲우주항공청◇과장급▷인공위성부문 인공위성임무보증프로그램장 박성원&lt;br&gt;&lt;br&gt;▲국민권익위원회◇과장급 파견 복귀▷행정문화교육민원과장 원영재◇과장급 파견▷대통령비서실 최명식◇과장급 전보▷정부합동민원센터 민원신고심사과장 양동훈&lt;br&gt;&lt;br&gt;▲한국산림복지진흥원◇1급 승진▷경영지원실장 권혁기◇1급 전보▷민간성장지원본부장 조영순▷국립산림치유원 사업본부장 권혁기▷국립칠곡숲체원장 이우진&lt;br&gt;&lt;br&gt;▲경북대▷사회과학대학장 성희자▷의과대학장 이병헌▷치과대학장 최연희&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>민영삼 방송광고진흥공사 사장, 최철호 시청자미디어재단 이사장</title>
       <link>https://www.chosun.com/national/people/2024/08/02/A4UPAQ3FRREL7AHVASRUEMCMQU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/02/A4UPAQ3FRREL7AHVASRUEMCMQU/</guid>
       <description/>
       <pubDate>Thu, 01 Aug 2024 15:35:00 +0000</pubDate>
       <content:encoded>방송통신위원회는 한국방송광고진흥공사(코바코) 사장에 민영삼 전 국민의힘 특별보좌관을, 시청자미디어재단 이사장에 최철호 전 선거방송심의위원을 임명했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LRB2GHABXRMKDHXVWR6AEOXGZI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;(서울=뉴스1) 이승배 기자 = 민영삼 사회통합전략연구원장이 30일 서울 여의도 국회에서 최고위원 출마 기자회견을 하고 있다. 2023.1.30/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정치평론가 출신인 민영삼 신임 사장은 윤석열 대통령이 대선 후보였던 시절 선거 캠프에서 국민통합특보를, 지난해에는 국민의힘에서 특별보좌관을 지냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QCPS44YKHNAGJHRGNWWJMC6KNE.jpg"&gt;&lt;br&gt;&lt;br&gt;최철호 신임 이사장은 KBS PD 출신으로 KBS 인재개발원장, KBS N 사장, 공정언론국민연대 공동대표, 선거방송심의위원 등을 지냈다.&lt;br&gt;&lt;br&gt;임기는 모두 3년으로 2027년 7월 31일까지다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김경순 별세외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/08/02/UNR6G3SEFJDSZMNJFJULMPHYIY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/08/02/UNR6G3SEFJDSZMNJFJULMPHYIY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 15:35:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김경순&lt;/b&gt; 별세, &lt;b&gt;이수성&lt;/b&gt; 前 국무총리 아내상, &lt;b&gt;이승&lt;/b&gt;·&lt;b&gt;이인경&lt;/b&gt; 모친상, &lt;b&gt;도준호&lt;/b&gt; 숙명여대 교수 장모상=31일11시15분 서울성모병원, 발인 3일7시, (02)2258-5979&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박병선&lt;/b&gt; 별세, &lt;b&gt;오화혁&lt;/b&gt; 남편상, &lt;b&gt;박은희&lt;/b&gt; 前 동명대 보건복지교육대학장·&lt;b&gt;박성준&lt;/b&gt; 신일화학공업 상무 부친상, &lt;b&gt;김무곤&lt;/b&gt; 前 동국대 언론정보대학원장 장인상, &lt;b&gt;이지사&lt;/b&gt; 시부상=31일18시 신촌세브란스병원, 발인 3일5시, (02)2227-7556&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박장호&lt;/b&gt; 前 세정21 대표 별세, &lt;b&gt;이은경&lt;/b&gt; 남편상, &lt;b&gt;박성준&lt;/b&gt; 부산백병원 신장내과 임상강사·&lt;b&gt;박재성&lt;/b&gt; 부친상, &lt;b&gt;백지원&lt;/b&gt;·&lt;b&gt;남지은&lt;/b&gt; 시부상, &lt;b&gt;박순호&lt;/b&gt; 세정그룹 회장 동생상=31일10시 부산광혜병원, 발인 2일10시, (051)506-1022&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 8월 2일</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/02/CVXEVJMVOFFNBBHBV74OYMKPXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/02/CVXEVJMVOFFNBBHBV74OYMKPXY/</guid>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BOBO5NIWSJAOJLD2AGIETCXGAI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다] 우리 아이 출생 소식 액자에 담아 간직하세요</title>
-      <link>https://www.chosun.com/special/announcement/2024/08/02/6UVITIN65NEZ3IQUFZ5XU3HX34/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2024/08/02/6UVITIN65NEZ3IQUFZ5XU3HX34/</guid>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZRJ4T2UWTBDQNFD4Y6SXRTIOYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면/리프린트/24-08-02자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 우리 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 26일 ‘우리 아기가 태어났어요’ 코너에 실린 김세준&amp;lt;사진&amp;gt;이 이번 주 주인공입니다. 자세한 내용은 홈페이지(&lt;a href="http://reprint.chosun.com/" target="_blank"&gt;reprint.chosun.com&lt;/a&gt;)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘아름다운 얼굴’로 동인문학상... 소설가 송기원 별세 </title>
@@ -890,43 +945,6 @@
       <content:encoded>평균 해발고도가 900m에 달해 최근 펄펄 끓는 한반도에서도 폭염 영향권에서 유일하게 벗어나 있던 강원 태백에 1일 폭염 특보가 발효됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 이날 오전 10시 태백에 폭염 주의보가 발효됐다. 폭염 주의보는 최고 체감 기온이 33도 이상인 상태가 이틀 이상 지속될 것으로 예상될 때 내려진다. 태백의 평균 해발고도는 약 902ｍ로, 서울 남산(270ｍ)의 3배 이상이다. 태백 도심 지역의 높이도 약 778ｍ다. 이런 지형적 조건에도 폭염 특보가 발효된 것이다.&lt;br&gt;&lt;br&gt;현재 우리나라는 대기 상·하층으로 각각 티베트고기압과 북태평양고기압이 위치해 이불을 두 겹 덮은 듯 열기가 빠져나가지 않고 있다. 일사량이 가장 많은 한여름 구간에 진입했고, 북태평양고기압 가장자리를 타고 뜨거운 남풍(南風)까지 불어와 낮은 폭염, 밤은 열대야가 나타나고 있다. 2일 최저기온은 24~29도, 낮 최고기온은 29~36도로 예보됐다. 11일까지 한반도의 열기를 식혀줄 요인이 없어 최소 열흘간 최고 36도 무더위가 지속될 전망이다.&lt;br&gt;&lt;br&gt;‘최악의 여름’으로 기록된 2018년의 각종 기록을 올해 경신할지도 주목된다. 서울은 그해 8월 최고 39.6도를 기록하며 관측 사상 최고기온을 기록했다. 밤 최저기온도 30도를 넘기며 관측 사상 처음으로 ‘초열대야’가 발생했다. 당시 서울엔 7월 21일부터 8월 15일까지 26일 연속 열대야가 나타났다. 올해는 1일까지 11일 연속 열대야가 기승을 부리고 있다. 2018년엔 태풍이 자주 북상하며 뜨거운 열기를 추가로 공급한 것이 극한 더위의 원인이었다. 올해는 온난화 여파로 예년보다 2도가량 높아진 해수면 온도가 폭염을 부추기는 원인으로 작용하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>열대야 속 부산 수영구 아파트 단지에서 대규모 정전</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/01/YPL5CW2NQRAGBHXKXSNWGIF3SA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/YPL5CW2NQRAGBHXKXSNWGIF3SA/</guid>
-      <dc:creator>진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 13:24:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VKGUV2VQAZLVDMCDHBBFTMUCPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오후 8시 20분쯤 부산 수영구에서 발생한 대규모 정전으로 아파트와 상가 일대 불이 꺼져 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 수영구의 한 아파트 단지에서 대규모 정전이 발생해 긴급 복구작업이 이뤄지고 있다.&lt;br&gt;&lt;br&gt;1일 소방당국에 따르면 이날 오후 8시 12분쯤 부산 수영구 남천동 일대 아파트 단지와 상가에서 정전이 발생해 10건 상당의 승강기 갇힘 신고가 접수됐다. 한국전력공사는 1000~2000세대 규모의 아파트 단지에서 정전이 발생한 것으로 추정하고 있다.&lt;br&gt;&lt;br&gt;부산 수영구는 시민들에게 “남천동 한 변압기가 터져 일대 정전이 발생해 긴급 복구 중”이라는 안전 안내문자를 발송했다. 부산은 14일째 폭염특보가 이어지고 있다.&lt;br&gt;&lt;br&gt;이날 부산지역 낮 최고기온은 32.4도를 기록했다. 현재 기온은 28.6도로 열대야 현상이 발생하고 있다. 한전은 복구 작업과 함께 정확한 피해 규모와 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/VKGUV2VQAZLVDMCDHBBFTMUCPY.jpg?width=3000&amp;height=2568&amp;auth=9118e0a2e1e8d736e25dce2c353b0d5ed9a4416e55eb256a443515f488100857&amp;smart=true" type="image/jpeg" height="2568" width="3000">
-        <media:description type="plain">&lt;YONHAP PHOTO-8601&gt; 정전된 광안리 일대
-    (서울=연합뉴스) 1일 오후 8시 20분께 부산 수영구 내 아파트와 상가 일대에 정전이 발생했다. 2024.8.1 [독자 제공. 재판매 및 DB 금지]
-    photo@yna.co.kr/2024-08-01 21:12:28/
-&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">박성제</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“화장실에 갇혔다” 신고 뒤 화재로 40대 남성 숨져</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/01/6Q6XL6HY5JEB3OGETSKVVOTYAY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/6Q6XL6HY5JEB3OGETSKVVOTYAY/</guid>
-      <dc:creator>진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 13:11:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CJDXLXM5LRB3ZEKI5XW42Z5QBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오후 4시 45분쯤 강원도 원주시 흥업면 흥업리의 한 다가구 주택 화재현장에 소방대원들이 진입하고 있다. /강원도소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도 원주시의 한 다가구 주택에서 불이 나 40대 남성이 숨졌다.&lt;br&gt;&lt;br&gt;1일 강원소방본부 등에 따르면 이날 오후 4시 45분쯤 강원도 원주시 흥업면 흥업리의 한 다가구 주택에서 불이 났다는 신고가 접수됐다. 소방당국은 “화장실에 갇혀 있다”는 신고를 받은 뒤 해당 다가구주택에서 40대 남성 A씨를 구조해 병원으로 옮겼지만 숨졌다.&lt;br&gt;&lt;br&gt;불은 같은 날 오후 6시 12분쯤 완전히 진화됐다. 경찰과 소방당국은 2일 합동감식을 통해 사고 원인을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/CJDXLXM5LRB3ZEKI5XW42Z5QBI.jpg?width=1079&amp;height=1439&amp;auth=0f47826eff3b0acaf83c831da464e02a95e9b821df8b611c9b7c0e43f5f0471e&amp;smart=true" type="image/jpeg" height="1439" width="1079">
-        <media:description type="plain">강원 원주 흥업면 원룸 4층 화재 현장.(강원도소방본부 제공)</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>[속보] ‘일본도 살인’ 피의자 구속... “증거인멸 및 도주 우려”</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/01/F4UOQ6ILJ5G5LIEHL25S255AKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/F4UOQ6ILJ5G5LIEHL25S255AKQ/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 09:21:41 +0000</pubDate>
-      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LF22A5QXFNKCNBLIUIADDWWXCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;은평구의 한 아파트에서 이웃 주민에게 일본도를 휘둘러 숨지게 한 혐의로 경찰에 긴급 체포된 백모(37)씨가 구속 전 피의자 심문(영장실질심사)을 받기 위해 1일 오전 서울 마포구 서울서부지법으로 들어서고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의 한 아파트에서 일본도를 휘둘러 이웃 주민을 살해한 30대 남성 백모(37)씨가 사건 발생 사흘 만에 구속됐다.&lt;br&gt;&lt;br&gt;1일 서울서부지법 이순형 영장전담 부장판사는 백씨에 대한 영장실질심사를 진행한 후 “증거 인멸 및 도주 우려가 있다”며 구속영장을 발부했다. 그는 지난달 29일 서울 은평구의 한 아파트 단지에서 1m 길이의 일본도를 휘둘러 같은 아파트 주민 김모(43)씨를 살해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;백씨는 범행 직후 집으로 도주했으나, 약 1시간 만에 경찰에 붙잡혔다. 그는 경찰 조사에서 “피해자가 지속적으로 나를 미행하는 스파이라고 생각해 범행했다”는 취지로 진술했다.&lt;br&gt;&lt;br&gt;그는 1일 오전 서울서부지법에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하면서 ‘피해자에게 미안한 마음이 없느냐’는 취재진 질문에 “없다”고 답했다. 심사가 끝나고 법원을 나설 때는 취재진에게 “나는 멀쩡했고 심신미약 상태가 아니었다”고 주장했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “현재까지 백씨의 정신 질환 이력은 없는 것으로 확인됐다”며 “필요하면 정신감정을 의뢰할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>법원, 고양시 테마파크 ‘원마운트’ 회생 개시</title>
       <link>https://www.chosun.com/national/court_law/2024/08/01/LP6Z3246UNB4LH6DAGB47P6WNI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/01/LP6Z3246UNB4LH6DAGB47P6WNI/</guid>
@@ -934,15 +952,6 @@
       <description/>
       <pubDate>Thu, 01 Aug 2024 08:16:53 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LI3QHPPL56NDLPOG3OMMTWFRQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 고양시 원마운트/원마운트 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재정 위기에 놓인 경기 고양시 복합테마파크 ‘원마운트’가 기업회생 절차를 밟는다. 서울회생법원 1부(재판장 안병욱 법원장)은 1일 주식회사 원마운트에 대한 회생절차 개시 결정을 내렸다고 밝혔다.&lt;br&gt;&lt;br&gt;원마운트는 고양시 한국국제전시장(KINTEX·킨텍스) 부지에 스포츠몰 투자 사업 우선 협상자로 선정돼 고양시와 장기임대계약을 체결했다. 이후 2013년부터 테마파크와 각종 스포츠·상업 시설을 운영했다.&lt;br&gt;&lt;br&gt;그러던 중 코로나로 2020년부터 테마파크 운영이 장기간 중단되면서 매출이 감소했다. 와중에 임금 등 고정비가 지출되고 에너지 비용이 인상되면서 운영자금이 부족해졌다. 원마운트는 코로나 이후에도 누적된 손해를 회복하지 못해 유동성 위기에 몰리자, 지난달 16일 서울회생법원에 회생절차 개시를 신청했다.&lt;br&gt;&lt;br&gt;법원은 이튿날 원마운트의 자산·채권을 묶는 ‘보전처분 및 포괄적 금지’ 명령을 내렸다. 지난 24일 대표자 심문 등을 거쳐 1일 회생절차 개시를 결정했다. 회생계획안이 인가되지 않으면 원마운트는 파산하게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘尹대통령 합창’ 풍자 가수 백자, 첫 경찰 조사</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/01/D3ATZCVPSFBPRDSBUB7V43NDSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/01/D3ATZCVPSFBPRDSBUB7V43NDSQ/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 07:54:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WWULBNP3PKMN74TY7PQOXU2I3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 서울 마포경찰서 앞에서 열린 백자 기자회견. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;저작권법 위반 혐의를 받고 있는 가수 백자(본명 백재길)가 1일 경찰 출석 조사를 받았다.&lt;br&gt;&lt;br&gt;가수 백자는 지난 설 명절을 맞아 윤석열 대통령과 직원들의 설맞이 합창 영상을 풍자한 혐의로 문화체육관광부 산하 KTV 국민방송 측으로부터 저작권법 위반 혐의로 고소당했다.&lt;br&gt;&lt;br&gt;첫 경찰 소환 조사를 앞둔 그는 서울 마포경찰서 정문 앞에서 문화예술계 인사들과 함께 기자회견을 열고 “말도 안 되는 고소”라며 “행정 낭비에 불과하다”고 했다.&lt;br&gt;&lt;br&gt;앞서 문화체육관광부 산하 KTV 국민방송은 2월 8일 설 명절을 맞아 윤석열 대통령과 대통령실 직원들이 변진섭의 ‘사랑이 필요한 거죠’를 합창하는 영상을 올렸다. 백자는 해당 영상의 일부를 가져와 노래 가사를 ‘특검’이나 ‘탄핵’으로 바꿔 부른 뒤 풍자 영상을 배포했다. &lt;br&gt;&lt;br&gt;그는 이 과정에서 KTV의 공공저작물을 불법적으로 활용한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>법원 "호흡·배변 가능해도 일상생활 어려우면 간병급여 지급해야"</title>
@@ -961,15 +970,6 @@
       <description/>
       <pubDate>Thu, 01 Aug 2024 05:53:02 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEZ7746RVQE33YATJC3KVDMURM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 노원경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 노원구의 한 아파트에서 50대 남성이 평소 알고 지내던 여성을 흉기로 살해한 뒤 자신도 목숨을 끊는 사건이 발생했다.&lt;br&gt;&lt;br&gt;서울 노원경찰서는 서울 노원구 공릉동의 한 아파트에서 평소 알고 지내던 50대 여성을 자신의 집으로 불러 흉기로 살해한 50대 남성 A씨와 관련해 구체적인 사건 경위를 조사 중이라고 1일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난달 31일 오후 4시쯤 피해 여성 B씨를 자신의 집으로 불러들인 뒤 흉기로 살해한 혐의를 받는다. 당시 B씨는 결혼을 앞두고 있었던 것으로 알려졌다. A씨는 B씨가 근무하던 서울 동대문구의 한 식당에 손님으로 방문했다가 서로를 알게된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 이날 오후 5시쯤 범행을 마친 뒤 아파트 주차장으로 내려가 자신의 차량에서 스스로 목숨을 끊은 것으로 확인됐다. A씨는 목숨을 끊기 전 B씨의 숨진 모습을 사진으로 촬영한 뒤 결혼 상대에게 문자로 전송했던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 사망해 공소를 제기할 수 없는 상황이지만, 평소 피해자를 상대로 한 범죄 사실이 있었는지 여부 등 구체적인 사실 관계를 계속 수사할 방침”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 하반기 전공의 7645명 모집에 104명 지원</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/08/01/WQ57L4A73JHBXFTUDP4VI4JWCA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/01/WQ57L4A73JHBXFTUDP4VI4JWCA/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 01:14:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NQBKMB3ATNOBJPKUP4HPFFI3RA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9월 수련을 시작하는 하반기 전공의 모집 마감일인 31일 오전 서울 시내 한 대형병원에 신입 전공의 모집 안내문이 붙어 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 수련병원 126곳의 하반기 전공의 모집 결과, 총 모집 인원 7645명 가운데 지원자는 104명(1.4%)인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;1일 의료계 등에 따르면 올 하반기 모집에 지원한 전공의(인턴·레지던트)는 총 104명으로 집계됐다. 이 중 인턴 지원자는 13명, 레지던트 지원자는 91명이다.&lt;br&gt;&lt;br&gt;서울 ‘빅5(서울대·서울아산·세브란스·삼성서울·서울성모)’ 병원의 경우, 모집 인원이 2093명이었다. 하지만 지원자는 45명뿐이었다. 다만 정부가 서울성모병원 지원자로 분류한 14명은 서울성모병원을 포함한 8개 병원을 두고 있는 가톨릭중앙의료원으로 일괄 모집한 인원이기 때문에, 빅5인 서울성모병원을 지원(1지망)한 전공의 숫자는 이보다 적을 것으로 보인다.&lt;br&gt;&lt;br&gt;전국 수련병원들은 전날까지 올 9월부터 수련을 시작하는 하반기 전공의 지원서를 받았다. 하지만 지원자가 ‘0명’인 병원이 대다수였다.&lt;br&gt;&lt;br&gt;정부는 전공의들에게 수련병원 복귀 기회를 최대한 부여하기 위해 이달 중 추가 모집을 실시할 예정이다. 구체적인 일정은 이달 초 공고할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
