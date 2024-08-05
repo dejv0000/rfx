@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>50대 운전 차량 용산 어린이집으로 돌진, 1명 사망... 운전자 “급발진” 주장</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/05/UDMWGHQAKNEVHNXF5SLOPR2HIM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/05/UDMWGHQAKNEVHNXF5SLOPR2HIM/</guid>
+      <dc:creator>김보경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 Aug 2024 09:35:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IDWYO4SSQUK5Y2B6CD5CK7A4TM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 용산구 일대에서 운전하던 중 인명피해를 낸 운전자가 경찰 조사에서 ‘급발진’을 주장하고 있는 것으로 5일 전해졌다.&lt;br&gt;&lt;br&gt;서울 용산경찰서는 5일 오전 11시 3분쯤 용산구 이촌동 인근에서 운전하다 인도로 돌진해 인명피해를 낸 50대 남성 A씨를 조사하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;이 사고로 인근을 지나던 50대 여성 1명이 병원으로 이송 됐지만 사망했고, 80대 여성 1명이 경상을 입어 치료를 받고 있다. 사고로 건물 외벽이 무너지는 등 피해는 없었지만, 사고 현장 인근에는 어린이집이 있었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰이 사고 현장에서 조사한 결과 A씨가 술을 마시거나 마약을 한 정황은 발견되지 않았다. 경찰에 따르면 사고 직후 이어진 조사에서 A씨는 “차가 의도대로 움직이지 않았다”며 차량 결함 취지의 주장을 이어갔다고 한다.&lt;br&gt;&lt;br&gt;경찰은 해당 사건에 대한 조사를 이어가고 있으며 “구체적인 사고 원인은 추후 조사를 통해 밝힐 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사회복지사 전화 한통이 폭염 속 노인 살렸다</title>
+      <link>https://www.chosun.com/national/incident/2024/08/05/F3I536ASK5CZNCHPVVG5XLWPQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/05/F3I536ASK5CZNCHPVVG5XLWPQA/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 Aug 2024 09:22:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I6HYZESHBFC57DIJAUU2XN7RDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난  1일 경북 경주시 안강읍에서 쓰러진 80대 여성이 구급대원들에게 구조되고 있다./경주시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사회복지사의 안부 전화 한 통이 폭염에 쓰러진 80대 여성을 구했다.&lt;br&gt;&lt;br&gt;5일 경북 경주시에 따르면 안강읍의 사회복지사 김동아(47)씨가 지난 1일 자신이 담당하던 A(83)씨에게 안부 전화를 걸었다. 낮 최고 기온 37도였던 폭염 속에서 A씨가 건강하게 지내는지를 확인하기 위함이었다고 한다. 하지만 김씨가 수차례 통화를 시도했는데도, A씨는 이날 유독 전화를 받지 받았다고 한다. 평소에 연락을 잘 받던 A씨였기에 김씨는 즉시 A씨 집을 찾았다.&lt;br&gt;&lt;br&gt;결국 김씨는 집 마당 앞에 쓰러져 있던 A씨를 발견하고 119에 신고했다. 119 구급대원들은 의식이 없던 A씨를 병원으로 옮겼다. 열이 40도에 달했던 A씨는 치료 끝에 병원에서 회복 중이다. 그는 생명에는 지장이 없는 것으로 알려졌다. 김씨는 “해야할 일을 했을 뿐”이라고 말을 아꼈다.&lt;br&gt;&lt;br&gt;주낙영 경주시장은 “노인 안부를 확인하는 경주시의 노인맞춤돌봄서비스와 사회복지사의 대처 덕분에 귀중한 생명을 구할 수 있었다”며 “앞으로도 경주시는 노인들을 정성껏 보살피도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“손흥민 아닌 김흥민”...루머 들키자 유포자가 내놓은  황당 답변</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/05/75L3NDZX3ZHC7PRMXELVNA3GLA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/05/75L3NDZX3ZHC7PRMXELVNA3GLA/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 Aug 2024 08:24:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QWJGHNACRQMQQJ4RYVAGZICJMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;토트넘 손흥민이 3일 오후 서울 마포구 상암동 서울월드컵경기장에서 열린 쿠팡플레이 시리즈 잉글랜드 프리미어리그 토트넘 홋스퍼와 독일 분데스리가 바이에른 뮌헨의 경기에서 1-2로 패배한 후 관중들에게 인사하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;축구 선수 손흥민(토트넘 홋스퍼) 측이 서울 강남의 클럽에서 수천만 원을 결제했다는 루머가 온라인상에 퍼지자 강경 대응을 예고한 가운데, 루머 유포자는 “손흥민이 아니라 김흥민이었다”는 답변을 내놨다.&lt;br&gt;&lt;br&gt;손흥민 소속사 손앤풋볼리미티드는 4일 공식 입장을 내고 “손흥민 선수의 클럽 방문 및 결제 사실은 결코 없었으며 이는 명백한 허위 사실”이라며 “당사가 사실관계를 체크한 결과 해당 클럽의 MD(merchandiser·영업 직원)들이 자신의 업소를 홍보하기 위해 허위 사실을 유포한 것으로 확인됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 지난 3일 손흥민은 서울 상암월드컵경기장에서 열린 쿠팡플레이 시리즈 토트넘 홋스퍼와 바이에른 뮌헨의 친선 경기에 출전했다. 이후 온라인 커뮤니티에는 ‘손흥민이 경기 이후 뮌헨 선수들을 데리고 서울 강남의 한 클럽을 찾았고, 결제까지 했다’는 글이 공유됐다.&lt;br&gt;&lt;br&gt;손흥민의 클럽 방문 루머가 퍼진 건 한 클럽 MD들의 인스타그램 올라온 사진 때문이었다. 한 클럽 관계자는 “퇴근한다, 손흥민 주급이 3억3000만 원이고 술값이 3000만원이니까 300만원 월급 받는 직장인이 6만 원대 밥 먹은 것”이라는 글과 함께 사진을 올렸다. 이후 이 사진 캡처본은 온라인상에 빠르게 퍼졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KN356Z2ZUJGS3I7D6NWYAMWH5U.png"&gt;&lt;figcaption&gt;&lt;small&gt;손흥민이 클럽을 방문했다는 허위 사실을 담은 글 관련 유포자가 내놓은 답변./온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 소속사 측에 따르면 손흥민은 경기 후 자택으로 귀가해 휴식을 취했다. 논란이 일자 해당 글을 올린 클럽 관계자는 “손흥민 선수 관련 질문하지 마라. 난 김흥민 형을 말한 것”이라고 해명했다.&lt;br&gt;&lt;br&gt;소속사 측은 “이들의 행위는 공인으로서 사회적 책임을 인지하고 절제된 생활을 이어가는 손흥민의 명예와 이미지를 훼손하는 범죄”라며 “당사는 조속한 시일 내로 위 클럽과 해당 MD들을 상대로 법적인 조치를 취할 예정”이라고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘반효진 효과’...대구시, 국제사격장 시설 개선 나선다</title>
       <link>https://www.chosun.com/national/national_general/2024/08/05/37UD3FHCSRE7HOW7NNNXVVCWME/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/05/37UD3FHCSRE7HOW7NNNXVVCWME/</guid>
@@ -880,24 +907,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WPJGBZ5XEFIOJK32HM7TLNB33Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;분향소에 놓인 국화. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 은평구의 한 아파트에서 주민이 휘두른 일본도에 숨진 김모(43)씨의 발인식이 눈물 속에 치러졌다.&lt;br&gt;&lt;br&gt;김씨의 발인식은 1일 오전 11시쯤 서울 은평성모병원 장례식장에서 유족과 지인 30여명이 참석한 가운데 엄수됐다.&lt;br&gt;&lt;br&gt;갑작스럽게 남편을 떠나보낸 아내는 넋을 잃은 표정으로 허공을 바라보며 눈물을 흘렸고, 아들을 잃은 모친은 고인의 이름을 여러 차례 불렀다. 바닥에 주저앉아 울부짖는 유족도 있었다.&lt;br&gt;&lt;br&gt;아홉 살과 네 살에 불과한 고인의 두 아들은 아버지에게 마지막 인사를 건넸다. 검은 양복을 입은 첫째는 어머니의 손을 잡은 채, 노란색 티셔츠와 초록색 반바지 차림의 둘째는 외할아버지의 품에 안긴 채 운구차를 바라봤다.&lt;br&gt;&lt;br&gt;김씨는 지난달 29일 밤 같은 아파트 주민 백모(37)씨가 휘두른 1m 길이의 일본도에 참변을 당했다.&lt;br&gt;&lt;br&gt;김씨는 피의자 백씨와 일면식도 없었고, 잠깐 담배를 피우러 집 밖으로 나왔다가 이 같은 일을 당했다. 그는 아들 둘을 두고 서울의 한 기업에 재직 중이던 가장이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“특정 후보 뽑아달라”… 조합장 선거 앞두고 3만원 화장품 건넨 60대</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/04/J7PX4WXFSRBMVBUNZB6IMXRLCU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/04/J7PX4WXFSRBMVBUNZB6IMXRLCU/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>지역 농협 조합장 선거에 출마한 지인을 뽑아달라며 조합원에게 화장품을 건넨 60대가 항소심에서도 벌금형을 선고받았다.춘천지법 형사2부(재판장 김성래)는 위탁선거법 위반 혐의로 기소된 A(65)씨에게 원심과 같은 벌금 50만원을 선고했다고 4일 밝혔다.</description>
-      <pubDate>Sun, 04 Aug 2024 02:00:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2FBYLCPJUOFA2Q7YO2F3LHFJPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지역 농협 조합장 선거에 출마한 지인을 뽑아달라며 조합원에게 화장품을 건넨 60대가 항소심에서도 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사2부(재판장 김성래)는 위탁선거법 위반 혐의로 기소된 A(65)씨에게 원심과 같은 벌금 50만원을 선고했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 제3회 전국동시조합장선거를 앞둔 지난해 2월 13일 강원 춘천시 한 농협 조합원 B씨의 집에서 3만원짜리 화장품을 건넨 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 또 후보자를 제외한 그 누구도 어떤 방법으로 선거운동을 할 수 없음에도 지난해 3월 또 다른 조합원 집에 찾아가 특정 후보를 뽑아달라는 취지의 말을 하기도 했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “원심의 판단을 유지하는 것이 부당하다고 인정할 만한 새로운 정상이나 사정변경이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“재결합을 거부해?”... 불 질러 전처 살해하려한 60대, 징역 5년</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/08/04/7F5FLEVZRZFABNPRE62DYRHODU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/08/04/7F5FLEVZRZFABNPRE62DYRHODU/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Aug 2024 02:03:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 전경. /신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재결합을 거부한 전처를 살해하려고 불을 지른 60대에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;청주지법 제22형사부 (재판장 오상용) 4일 현주건조물방화, 살인 미수 등의 혐의로 재판에 넘겨진 A(67)씨에게 징역 5년을 선고했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월 충북 괴산군의 한 주택에 불을 질러 전처를 살해하려 한 혐의로 재판에 넘겨졌다. 다행히 피해자는 화장실 창문을 열고 밖으로 도망쳐 화를 면했다.&lt;br&gt;&lt;br&gt;경찰 조사결과 그는 이혼한 전 부인에게 재결합을 요구했지만 거절당하자 관계 회복이 불가능하다는 단절감과 무시를 당하고 있다는 생각에 범행을 저지른 것으로 드러났다.&lt;br&gt;&lt;br&gt;오 부장판사는 “범행 동기, 방법, 피해 규모 등에 비춰 볼 때 죄질이 매우 무겁다”며 “다만 범행이 미수에 그쳐 인명피해가 발생하지 않은 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>음주운전 트럭, 가드레일 받아...타고 있던 3남매 숨져</title>
       <link>https://www.chosun.com/national/national_general/2024/08/04/4EIFLMKJ5JHVRJL5W6RQ5NNE4E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/04/4EIFLMKJ5JHVRJL5W6RQ5NNE4E/</guid>
@@ -939,15 +948,6 @@
       <description/>
       <pubDate>Sat, 03 Aug 2024 05:35:46 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KNFBBC2UCEJKEKVZ343TJQMLBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아파트 단지 정전.(사진은 기사 내용과 무관함) / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;열대야로 무더위가 이어지는 가운데 광주 지역 아파트에서 밤사이 정전 사태가 잇따라 주민들이 불편을 겪었다.&lt;br&gt;&lt;br&gt;3일 한국전력과 광주시에 따르면 전날 오후 9시쯤 광주 북구 운암동의 한 아파트에서 정전이 발생했다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;점검 결과 아파트 내 변압기 고장으로 인해 전체 476세대 중 200여 세대에 전기가 끊긴 것으로 조사됐다. 한전은 아파트 변압기를 교체하는 동안 비상 발전 차량을 투입하기로 하고 정전 3시간여 만에 전기를 임시로 공급했다. 아파트 측은 변압기를 이날 중 교체해 전기 공급을 정상화한다는 방침이다.&lt;br&gt;&lt;br&gt;앞서 지난 2일 오후 7시 10분쯤에는 광주 남구 노대동과 송하동 아파트 단지에서 정전이 났다. 고압 전선 과부하로 인해 단지 5곳 중 2792세대에 전기가 끊겼다가 한전의 긴급 복구 작업으로 2시간 만에 공급이 재개됐다. 정전에 따른 인명피해는 없었지만 무더위 속에 냉방기 작동이 멈추는 등 크고 작은 주민 불편이 있었다.&lt;br&gt;&lt;br&gt;한편 광주에서는 13일째 열대야 현상이 나타나면서 무더위가 지속되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“기다림의 낭만이 추억 속으로”... 공군도 인터넷 편지 없앴다</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/03/M4VHEUHXRRFRTLKE6YMIAIINEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/03/M4VHEUHXRRFRTLKE6YMIAIINEY/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 03 Aug 2024 02:13:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZGLHN7EGV5A2JJKMNLJR4VQUWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공군기본군사훈련단에 입소한 훈련병들이 자신의 옷가지와 물품을 개선된 택배 상자에 넣고 있다. /대한민국 공군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공군은 그간 신병훈련소에서 운영해온 인터넷 편지 제도를 이달 1일부터 중단한다고 밝혔다. 공군 교육사령부 기본군사훈련단 예하 신병훈련소는 “교육생들이 주말 동안 휴대전화 사용이 정착함에 따라 가족과 교육생이 소통할 수 있는 여건이 마련됐다”며 8월 1일부터 기존에 운영되던 인터넷 편지 제도를 중단한다”고 했다.&lt;br&gt;&lt;br&gt;지난해 여름 국방부가 갓 입소한 훈련병들의 휴대전화 사용을 허가하면서 손쉽게 외부와의 연락이 가능해졌다. 이에 따라 과거 훈련소 홈페이지에 가족과 친구들이 편지를 쓰면, 조교들이 해당 편지를 일일이 출력해주던 업무도 불필요해졌다. 육군은 지난해 하반기에 이를 폐지했다. 2003년 인터넷 편지 제도를 도입했던 공군도 21년 만에 이 제도를 없애기로 했다.&lt;br&gt;&lt;br&gt;해군·해병대는 아직 훈련소 인터넷 편지 제도를 운영 중이다. 군 관계자는 “해군·해병대도 훈련소에서 휴대전화를 사용할 수 있기 때문에 조만간 폐지가 검토될 것”이라고 했다. 공군 전역자 이상훈(29)씨는 “매일매일 인터넷 편지를 기다리며 가족과 친구의 소중함을 절실히 느꼈다”며 “기다림의 낭만도 이젠 추억이 됐다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“당신 성매매 했지?” 아내는 이혼을 선언했다 [이별전쟁]</title>
