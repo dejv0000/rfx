@@ -13,6 +13,87 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>허미미 “메달 따고 왔어요”...독립투사 현조부 묘소부터 갔다</title>
+      <link>https://www.chosun.com/national/people/2024/08/06/DTIRTDJWEJAMRPNOO3YBXAJTKA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/06/DTIRTDJWEJAMRPNOO3YBXAJTKA/</guid>
+      <dc:creator>군위=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 08:45:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4T3QALBWKNGZPBCMTSUP32KKQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024파리올림픽에서 개인전 은메달, 단체전 동메달을 딴 유도 대표팀 허미미 선수가 6일 오전 현조부(5대조)인 독립 운동가 허석 의사 추모기적비 앞에 메달을 놓고 있다. /경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;파리올림픽 여자 유도 57㎏급 은메달과 유도 혼성 단체전 동메달을 목에 건 허미미(22) 선수가 귀국 후 메달을 들고 가장 먼저 찾아간 곳은 독립운동가인 5대 조부 허석 의사의 묘소였다.&lt;br&gt;&lt;br&gt;허 선수는 6일 오전 대구 군위군 삼국유사면에 있는 허석 의사 묘소를 찾아 참배했다. 허 선수의 5대 조부인 허석 의사는 일제강점기 당시 항일 격문을 붙이다 옥고를 치른 독립운동가다. 1982년 대통령표창, 1991년 건국훈장 애국장이 추서됐다.&lt;br&gt;&lt;br&gt;“할아버지 메달 따 왔어요. 다음에는 금메달 갖고 올게요.”&lt;br&gt;&lt;br&gt;허 선수는 이날 허석 의사 묘소의 추모비에 올림픽 은메달과 동메달을 내려놓으며 이렇게 말했다.&lt;br&gt;&lt;br&gt;그는 취재진에게 “제일 먼저 여기 와서 할아버지에게 메달을 보여 주고 싶었다. 할아버지가 살아계셨다면 정말 기뻐해 주셨을 것 같다”고 했다.&lt;br&gt;&lt;br&gt;취재진이 독립운동가의 후손으로 태극 마크를 달고 출전해 메달을 땄을 때 기분이 어땠느냐고 묻자, 허 선수는 “처음엔 부담감도 있었지만 지금은 한국 대표로 나가 시합하는 게 정말 행복하다”며 “앞으로도 더 열심히 운동해 4년 뒤엔 금메달을 꼭 따겠다”고 했다.&lt;br&gt;&lt;br&gt;허 선수는 한국인 아버지와 일본인 어머니 사이에서 태어난 재일교포 3세다. 한국과 일본 이중국적으로 일본에서 유도를 시작했다. 전일본 중학 유도선수권에서 우승했고, 고교생 시절에도 일본에서 이름난 유망주였다고 한다. 하지만 ‘태극마크를 달고 선수 생활을 하면 좋겠다’는 할머니의 유언을 지키기 위해 2021년 경북도체육회에 입단했고, 한국 국적을 선택했다.&lt;br&gt;&lt;br&gt;그 과정에서 허 선수의 할아버지인 허무부씨가 허석 의사의 증손자라는 것을 알게 됐다고 한다.&lt;br&gt;&lt;br&gt;김정훈 경북도체육회 감독은 “2년 전 허 선수와 이곳을 찾아 좋은 결과를 갖고 다시 오자고 했는데 결국 이뤄내 기특하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>개인정보위, “테무 개인정보 이용 실태 조사 결과 9월쯤 발표”</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/06/NRGUPFDCEBHHHGHIUUFD7H4SIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/06/NRGUPFDCEBHHHGHIUUFD7H4SIY/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 09:29:21 +0000</pubDate>
+      <content:encoded>개인정보보호위원회가 중국 인터넷 쇼핑몰 ‘테무’의 개인정보 수집 및 이용 실태 조사 결과를 9월쯤 발표하겠다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J2YJJK5NXROYHIOZQACQE4VE6Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;최장혁 개인정보보호위원회 부위원장이 6일 오후 서울 종로구 정부서울청사에서 개최된 출입기자단 정례브리핑에 참석해 있다. /개인정보보호위원회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최장혁 개인정보보호위원회 부위원장은 이날 오후 서울 종로구 정부서울청사에서 열린 출입기자단 정례브리핑에서 “테무의 회계 자료가 9월쯤 공개된다고 해, 그 전후로 조사 결과를 발표할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;개인정보위는 당초 올 상반기에 조사 결과를 발표할 방침이었지만, 매출액 등 자료 제출이 늦어지면서 결과 발표도 연기됐다. 개인정보위는 테무와 함께 조사를 진행한 중국 인터넷 쇼핑몰 알리익스프레스에 대해서는 앞서 지난달 24일 전체회의를 열고 과징금 19억7800만원, 과태료 780만원을 부과하기로 의결했다.&lt;br&gt;&lt;br&gt;최 부위원장은 “테무의 (개인정보보호법) 위반 사실은 충분히 인지해서 특별히 더 할 것은 없다”며 “매출 관련 자료가 확보되는 대로 분석을 통해 합당한 조치를 처분하겠다”고 말했다.&lt;br&gt;&lt;br&gt;한편 최근 발생한 ‘티메프’ 대란과 관련해 최 부위원장은 “개인정보 유출을 모니터링한 결과, 특별한 이상 상황은 발견되지 않았다”고 말했다.&lt;br&gt;&lt;br&gt;최 부위원장은 ‘해킹으로 인한 ‘티메프’ 회원들의 개인정보 유출이 우려된다’는 지적에 대해선 “개인정보보호법을 만들 때 (기업 파산은) 예상치 못했던 상황”이라며 “법적인 조치가 필요할지 살펴보겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김예지 “머스크와 식사? 영어 못해서 안 될 것 같다”</title>
+      <link>https://www.chosun.com/national/people/2024/08/06/D3DK3IFERBDZVINDUOWT6DNTYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/06/D3DK3IFERBDZVINDUOWT6DNTYQ/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 08:22:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KWMRPV3OMNFMZPSTMKTHOSZXMI.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 아제르바이잔 바쿠에서 열린 국제사격연맹(ISSF) 사격 월드컵 25ｍ 권총 경기에 출전한 김예지의 모습. /엑스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2024 파리올림픽 스타로 떠오른 사격 국가대표 김예지(32·임실군청)가 일론 머스크 테슬라 CEO가 자신을 언급한 것에 대한 소감을 밝혔다.&lt;br&gt;&lt;br&gt;김예지는 6일 CBS 라디오 ‘김현정의 뉴스쇼’에서 “전 처음에는 그 얘기를 듣고 안 믿었다”며 “일론 머스크가 저를 뭐 해요? 이러면서 ‘샤라웃(Shout out)’이 뭐야? 이랬다”고 했다. 진행자가 “샤라웃이 지지한다, 존경한다는 뜻”이라고 설명하자, 김예지는 “뜻도 잘못 알고 있었다”며 “사람들이 자꾸 일론 머스크, 일론 머스크 이러니까 그때 진짜구나 알았다”고 했다.&lt;br&gt;&lt;br&gt;그는 ‘언제 일론 머스크와 식사 한번 해야겠다’는 진행자의 말에 “제가 영어를 못해서 안 될 것 같다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5TFIPO6B5RJVY7QKZCYTYYI56Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;온라인에서 화제가 된 김예지의 사격 영상. 머스크도 댓글을 달며 뜨거운 인기를 모았다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김예지는 총 30발의 급사 사격 중 28발은 10점, 1발은 9점으로 높은 점수를 받았다. 하지만 딱 한 발이 타이밍을 놓쳐 0점이 나온 게 치명타가 돼 결선 진출에 실패했다. 김예지는 이에 대해 “금메달을 따겠다고 자신 있게 얘기했는데 그러지 못해 죄송한 마음도 들고 나 자신에게도 화가 났다”면서도 “내 사격 인생이 여기서 끝나는 게 아니고 앞으로 남은 인생이 있으니까 앞으로 2년 뒤에 아시안게임부터 다시 천천히 올라가 보자, 그리고 그다음 로스앤젤레스 올림픽까지 다시 도전하면 된다는 생각으로 마음을 잡았다”고 했다.&lt;br&gt;&lt;br&gt;경기 도중 결과와 상관없이 평정심을 유지할 수 있었던 데 대해선 “이거를 이겨내야만 한다고 생각을 하고 시합에 임했다. 내가 내 자신을 뛰어넘지도 못하면 누구를 뛰어넘을 수 있을까라는 생각이 강했다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “일단 총을 들고 조준할 때는 머릿속에는 온통 그냥 제가 해야 될 행위에 대한 그런 루틴들만 생각한다”며 “실탄이 총구를 나가는 순간 이미 그거는 제 손을 벗어나는 일이다. 이미 과거이고 제가 돌이킬 수 없는 일이니 ‘다시 시작, 다시 시작’ 이렇게 생각한다”고 했다.&lt;br&gt;&lt;br&gt;김예지는 중학교 1학년때 총을 잡았다. 국제 대회에서 성적을 낸 건 비교적 최근이다. 그는 지난 5월 아제르바이잔 바쿠에서 열린 국제사격연맹(ISSF) 사격 월드컵 여자 권총 25ｍ에서 세계 신기록을 내며 금메달을 목에 건 것이다.&lt;br&gt;&lt;br&gt;그는 “무명의 시간이 20년이었다. 중간에 그만둘까도 생각했다”며 “어차피 내 인생은 길고 다른 일을 해도 아직 늦지 않았을 것 같은데 이런 생각도 하면서 방황의 시간을 굉장히 많이 보냈던 것 같다”고 했다. 이어 “그런데 아이를 낳고 부끄러운 사람이 되지 말아야겠다는 생각을 했다. 이 아이가 커서 엄마를 바라봤을 때 부끄럽지 않아야겠다는 생각이 들면서 책임감을 가지고 더 위로 올라가자는 생각을 했었다”고 했다.&lt;br&gt;&lt;br&gt;다음 목표에 대해선 “일단 돌아가서 국내 대회부터 차근차근 다시 밟아갈 생각”이라면서 “그리고 다음에 있을 국제대회에서 다시 여러분 앞에 떳떳하게 설 수 있는 선수가 되는 게 아닌가 싶다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OTEQSEZANRNG3JWFXI5IQLP6LY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024 파리 올림픽이 후반에 접어든 4일 오후(현지시각) 파리 중심에 위치한 코리아 하우스에서 현재까지 이번 대회에서 메달을 획득한 대한민국 메달리스트들이 모여 기자회견을 열었다. 사격 여자 공기 10m 공기권총에서 은메달을 획득했다 주종목인 25m 권총에서 실수로 예선에서 탈락한 김예지가 영화 출연에 대한 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김예지는 지난달 프랑스 샤토루 슈팅센터에서 열린 파리 올림픽 사격 공기권총 10m 여자 개인전에서 은메달을 따냈다. 이후 그가 지난 5월 아제르바이잔 바쿠에서 열린 국제사격연맹(ISSF) 사격 월드컵 25m 권총 경기에서 모자를 거꾸로 쓴 채 냉철한 얼굴로 세계신기록을 작성하는 영상이 엑스(X·옛 트위터)에서 화제가 됐다.&lt;br&gt;&lt;br&gt;세계 신기록을 세운 순간에도 냉정한 표정을 유지하는 모습이 영화 속 킬러를 떠올리게 한다는 반응이 나왔다. 테슬라 CEO 일론 머스크는 “(김예지를) 액션 영화에 캐스팅해야 한다. 연기는 필요하지 않다”는 글을 달았고, 미국 CNN과 영국 BBC 등 주요 외신도 김예지를 조명하며 그는 올림픽 스타로 떠올랐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고용노동부, 경영평가 ‘E등급’ 받은 고용정보원 원장 해임</title>
+      <link>https://www.chosun.com/national/labor/2024/08/06/ATJWZJNYUJGYZHVJDTJMHAGXRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/08/06/ATJWZJNYUJGYZHVJDTJMHAGXRY/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>고용노동부가 산하기관인 한국고용정보원의 김영중 원장을 해임 했다.</description>
+      <pubDate>Tue, 06 Aug 2024 09:04:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6SNNX5TSF4HUXCYOP6KFSXCCKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국고용정보원/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고용노동부가 지난해 공공기관 경영 실적 평가에서 낙제점인 ‘E등급(아주 미흡)’을 받은 한국고용정보원 김영중 원장을 해임했다고 6일 밝혔다. 김 원장은 고용노동부 관료 출신으로 노동시장정책관, 고용정책실장 등을 지낸후 지난해 5월 고용정보원 원장에 취임했다.&lt;br&gt;&lt;br&gt;고용노동부에 따르면, 임기가 1년 9개월 가량 남은 김 원장은 지난 5일 해임됐다. 6일부터 신종각 부원장이 원장 직무 대행을 맡았다. 해임 사유는 공공기관 경영 실적 평가 때문이다. 고용정보원은 2023년 경영 평가에서 한국방송광고진흥공사와 함께 E등급을 받았다. 경영 평가 주무 부처인 기획재정부는 E등급을 받거나 2년 연속 D등급을 받은 기관 중 재임 기간이 6개월 이상인 기관장에 대해 해임을 건의할 수 있다. 지난해에도 E등급을 받은 한국건강증진개발원, 한국보훈복지의료공단, 2년 연속 D등급을 받은 대한건설기계안전관리원·한국소방산업기술원·한국에너지기술평가원 등 기관장 해임이 건의됐고, 이들 기관장은 사임하거나 해임됐다.&lt;br&gt;&lt;br&gt;고용정보원이 E등급을 받은 건 지난해 중순 발생한 고용정보시스템인 ‘워크넷’ 해킹 사건 탓이 크다. 당시 해킹으로 23만6000여명의 개인정보가 해킹됐다. 개인정보보호위원회는 지난 1월 고용정보원에 대해 보안 대책이 미흡했다며 과태로 840만원을 부과했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“테무에서 산 김우진”...이지혜가 올린 남편 사진에 빵 터진 이유</title>
+      <link>https://www.chosun.com/national/people/2024/08/06/6E3KZSSSZZFIHHLJYMGRXP6IKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/06/6E3KZSSSZZFIHHLJYMGRXP6IKQ/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 08:21:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PSGLPRNOSJGR4IEVYHUBBI6XFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;샵 출신 방송인 이지혜(44)가 올린 파리 올림픽 양궁 3관왕 김우진(위)과 자신의 남편(아래) 사진./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;샵 출신 방송인 이지혜(44)가 2024 파리 올림픽 양궁 3관왕을 달성한 김우진의 닮은 꼴인 자신의 남편 사진을 올렸다.&lt;br&gt;&lt;br&gt;이지혜는 지난 5일 자신의 인스타그램에 “내가 김우진 선수에게 끌렸던 이유”라는 제목의 게시글과 사진을 올렸다.&lt;br&gt;&lt;br&gt;공개된 사진에는 김우진과 자신의 남편 얼굴이 담겨 있다. 이지혜의 남편인 문재완 씨 얼굴에 안경과 금메달을 색칠해 그려 넣었다. 김우진과 매우 닮은 모습이었다. 이 게시글은 6일 오후 현재 1만5000개가 넘는 ‘좋아요’를 기록했다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “테무에서 산 김우진 선수” “더위에 지쳐있다가 덕분에 웃는다” “아 어디서 본 것 같은데 정답을 지금 알았다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;배우 황신혜와 뮤지컬 배우 김호영도 “왜 이렇게 웃기냐”며 공감하며 댓글을 달았다. 모델 겸 방송인 이현이도 “형부 너무 좋아”라고 썼다.&lt;br&gt;&lt;br&gt;한편, 김우진은 지난 4일 프랑스 파리 앵발리드에서 열린 2024 파리올림픽 남자 개인전 결승에서 슛오프까지 가는 접전 끝에 브래디 엘리슨(36·미국)을 꺾고 금메달을 목에 걸었다. 김우진은 이번 올림픽에서 양궁 남자 단체, 개인, 혼성에서 금메달을 따 3관왕에 등극했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이천수 “홍명보 얼마 받는지 국감으로 밝혀질 것, 갑자기 돈 얘기 이상”</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/06/ZTUBGQ736RBK7PJFVDQ5FRW4PI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/06/ZTUBGQ736RBK7PJFVDQ5FRW4PI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 08:38:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ENNPUBQG5FE2VHIVRMHEMH2BQE.png"&gt;&lt;figcaption&gt;&lt;small&gt;전 국가대표 축구선수 이천수. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 국가대표 축구선수 이천수(42)가 2002년 한일 월드컵에서 함께 활약했던 선배 홍명보(55) 한국 축구 국가대표팀 감독과 대한축구협회를 또 공개 비판하고 나섰다.&lt;br&gt;&lt;br&gt;이천수는 5일 자신의 유튜브 채널을 통해 “제 주변에선 나이가 많은 사람들은 ‘홍명보로 애들이 잡히겠어?’라는 얘기를 한다. 젊은 사람들은 ‘선수를 왜 잡아? 같이 하는 거지’라고 한다”며 “근데 한국 리더십은 (애들을) 잡는 것이다. 이건 옛날 교육방식이다. 강압적인 방식 안에서 애들이 수직적으로 뛰게 만든다. 몇백억씩 받는 애들은 안 따라간다”고 했다.&lt;br&gt;&lt;br&gt;이천수는 이임생 축구협회 기술총괄이사가 홍명보 감독 선임과 관련 ‘국내 감독도 외국과 똑같은 대우를 해줘야 한다고 생각한다’고 발언한 것에 대해서는 “시키지도 않은 돈 이야기를 꺼내서 사람들이 ‘이거 뭐지?’ ‘왜 갑자기 어려운 이 판에 돈 이야기를 꺼내지?’(라고 의심하게 했다)”라고 했다.&lt;br&gt;&lt;br&gt;방송에 출연한 패널은 “돈 얘기하는 순간 홍명보 감독 연봉이 얼마래 궁금해 하게 된 것”이라고 했다.&lt;br&gt;&lt;br&gt;이천수는 “홍명보 감독이 얼마를 받는지 아직 안 밝혀졌다”며 “이제 국감을 하면 밝혀질 것”이라고 특혜 의혹을 제기했다.&lt;br&gt;&lt;br&gt;정몽규 대한축구협회장이 대표팀 감독 선임 후폭풍이 거센 상황에서 자서전을 발간한 것에 대해서는 “누가 ‘(회장님) 책 내도 됩니다’ 했을 것 아니냐. 그러니까 지금 상황에 책을 낸 거 아니냐”며 “회장님이 잘못한 거는 능력 없는 사람을 쓰는 게 잘못이다. 능력 없는 사람을 믿고 계속 쓴다는 건 더 잘못”이라고 했다.&lt;br&gt;&lt;br&gt;정몽규 회장은 최근 ‘축구의 시대-정몽규 축구 30년’이라는 제목의 자서전을 발간했다. 정몽규 회장은 자서전에서 “축구협회장은 ‘국민 욕받이’”라며 자신에게 “10점 만점에 8점”을 줬다.&lt;br&gt;&lt;br&gt;한편, 홍명보 감독은 2026년 6월 열리는 북중미 월드컵이 끝나도 감독직을 이어간다. 2027년 1월 사우디아라비아에서 열리는 아시안컵까지 임기가 보장됐다. 홍명보 감독은 정확한 액수는 알려지지 않았지만 외국인 감독 수준의 연봉을 받기로 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인파에 몸살 앓던 성수역, 5번 출구 생긴다</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/06/VLN2XLGB4RDCXEXTZAEAOJFPZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/06/VLN2XLGB4RDCXEXTZAEAOJFPZU/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 08:19:24 +0000</pubDate>
+      <content:encoded>최근 인파가 몰리며 안전 사고 우려가 제기된 서울지하철 2호선 성수역에 출구가 하나 더 생긴다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IHBZAKWSHJCZ7OZZC2QNF6RI7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 12일 오후 서울지하철 2호선 성수역 3번 출구가 붐비고 있다. 해당 출구 인근에는 성수동 일부 주민들이 설치한 현수막이 보였는데, '서울교통공사 사장님! 출입구 제발 신설해주세요'라고 적혀 있었다./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 서울시, 서울교통공사 등에 따르면 성수역 혼잡 개선 대책으로 ‘5번 출구’를 신설한다.&lt;br&gt;&lt;br&gt;목표 완공 시점은 내년 말이다. 사업비는 35억원이다. 이달 중으로 설계용역을 발주할 계획이다.&lt;br&gt;&lt;br&gt;퇴근길 시민들의 줄이 늘어서던 3번 출구 앞 횡단보도는 남쪽으로 약 10m가량 옮긴다. 성동구청은 이곳에 보행자 방호 울타리를 설치하고 마을버스 정류장을 이전할 계획이다.&lt;br&gt;&lt;br&gt;성수역은 최근 몇년간 유동인구가 급격히 늘었지만 출입구는 개통시점인 1980년과 똑같은 4개다. 지난달 28일 성수동의 한 공연장에선 유명 DJ를 보겠다는 인파 수천명이 몰려 행사가 중단되는 사고도 있었다.&lt;br&gt;&lt;br&gt;공사에 따르면 성수역의 하루 평균 승하차 인원은 2020년 5만3231명에서 작년 7만8018명으로 3년간 50%가 늘었다. 공사와 성동구청은 퇴근시간대에 안전요원을 배치하며 인파에 대응하고 있다.&lt;br&gt;&lt;br&gt;앞서 서울경찰청은 지난달 30일 교통안전심의위원회를 열고 성수역 안전 문제 해소를 위해 3번 출구 앞 횡단보도에 신호등을 설치하는 내용의 심의 안건을 가결하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정부, 인천 서구 ‘지하 주차장 전기차 화재’에 2000만원 긴급 지원</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/06/XUPSZZTTQJEJFCHXIVGSHC6TGY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/06/XUPSZZTTQJEJFCHXIVGSHC6TGY/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 08:18:53 +0000</pubDate>
+      <content:encoded>행정안전부가 6일 인천 서구에 재난구호지원 사업비 2000만원을 긴급 지원한다고 밝혔다. 이는 지난 1일 인천 청라국제도시의 한 아파트 지하 주차장에서 발생한 전기차 화재 사고로 대피한 주민들을 돕기 위해서다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W47QGQM3BRBHHBIFNFZK4NZPAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 전기차 화재 사고가 발생한 인천 청라국제도시의 아파트 지하 주차장. 근로자들이 복구 작업을 하고 있다. 사흘이 지난 4일 찍은 사진이지만 처참한 모습이 그대로 남아 있다. 당시 전기차 1대가 폭발하면서 주차된 차량 140여 대가 불타거나 파손됐다. 화염이 치솟으면서 전기 시설과 수도 배관 등도 녹아내렸다. /이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행안부에 따르면 이번 지원금은 단수·단전 등으로 불편을 겪고 있는 주민들을 위한 임시주거시설 운영, 간이 화장실 설치, 구호물품 지원 등에 활용된다. 행안부는 지난 5일 오후 6시 기준 대피한 주민들을 위해 행정복지센터와 초·중학교 강당 등 8곳에 임시주거시설을 운영하고 있다.&lt;br&gt;&lt;br&gt;조덕진 행안부 재난복구지원국장은 “주민들이 일상으로 복귀할 수 있도록 지원을 아끼지 않겠다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 지난 1일 발생한 이 화재로 차량 140여 대가 불타거나 파손됐고, 주민 23명이 연기를 마셔 병원으로 이송됐다. 사고 당시 전기 설비와 수도 배관 등이 화염에 녹으면서 전기와 물 공급도 끊겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>교내서 여학생 신체 불법 촬영한 고교생 수사</title>
+      <link>https://www.chosun.com/national/incident/2024/08/06/PEUAYUOZ3ZBIDPKNUW5ZMXUBEM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/06/PEUAYUOZ3ZBIDPKNUW5ZMXUBEM/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 08:16:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HQWR6EEESFSL54E57UMEXV3FLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰로고./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북의 한 고등학교에서 여학생의 신체를 불법 촬영한 남학생을 경찰이 수사 중이다.&lt;br&gt;&lt;br&gt;경북경찰청은 성폭력범죄의 처벌 등에 관한 특례법 위반 혐의로 10대 A군을 수사 중이라고 6일 밝혔다. A군은 지난 6월부터 7월까지 고등학교 건물 내 계단 아래쪽에서 윗 계단을 걷고 있는 여학생의 치마 속을 촬영한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A군의 휴대전화에서는 여학생들의 신체 일부를 찍은 사진과 영상 등이 다수 저장된 것으로 파악됐다. 경찰은 A군이 해당 자료들을 유포했는지 여부도 수사 중이다.&lt;br&gt;&lt;br&gt;경북교육청은 학교폭력대책심의위원회를 열고 경찰 수사 결과를 반영해 A군에 대한 징계 수위를 결정할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>임현택 변호사비 3000만원, 의협 재정서 지출키로... 사적 유용 논란</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/08/06/DF6XODXJDZBQVAJKLCCMUIFMSQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/06/DF6XODXJDZBQVAJKLCCMUIFMSQ/</guid>
@@ -849,83 +930,6 @@
       </media:content>
     </item>
     <item>
-      <title>서민위 “축구협회, 치킨 먹으며 사람들 하나 되는 기회 앗아가”</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/05/SVJ7GVL3KZGK3GKGR6DPTFGTMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/05/SVJ7GVL3KZGK3GKGR6DPTFGTMU/</guid>
-      <dc:creator>김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 06:03:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LLBMO6E2H5CZBELJQJVOBWUJY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오후 1시 50분쯤, 정몽규 축구협회 회장을 고발한 후 고발인 조사를 위해 서울 종로경찰서에 출석한 김순환 서민위 총장이 기자회견을 갖고 있다. 김씨는 지난달 15일에 정 회장을 직권남용, 업무상배임 혐의로 고발했다. /김보경 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정몽규 축구협회 회장을 경찰에 고발한 김순환 서민민생대책위원회(서민위) 사무총장은 국민의 스트레스 해소 기회를 앗아간 축구협회를 조속히 개혁해야 한다고 했다.&lt;br&gt;&lt;br&gt;김 사무총장은 5일 오후 1시 50분쯤 서울 종로경찰서 앞에서 약 5분간 기자회견을 열고 이같이 밝힌 뒤 오후 2시쯤 고발인 조사를 받았다. 앞서 김 사무총장은 홍명보 감독 선임 과정을 문제 삼으며 지난달 15일 정 회장에 대한 고발장을 서울 종로경찰서로 접수했다.&lt;br&gt;&lt;br&gt;김 사무총장은 “파리 올림픽이 열리고 있지만, 축구는 40년 만에 본선 진출을 못했다”면서 “국민들이 광화문에 모여서 응원하고, 올림픽 행사를 통해서 (거리로) 나와서 전혀 모르는 사람들과 하나가 되고 응원하며 스트레스 풀었는데 그런 기회가 사라진 것”이라고 했다.&lt;br&gt;&lt;br&gt;김 사무총장은 “올림픽을 통해 치킨과 맥주 먹고 마시며 힘든 것들을 보내곤 했는데 그러지 못해 치킨업계 매출도 상당히 추락했다”면서 “2026년 월드컵까지 이런 영향이 연결된다면 국민들이 즐거움, 작은 소망, 치킨을 먹고 모르는 사람들과 하나 되는 기회조차 잊지 않겠나”라고 했다.&lt;br&gt;&lt;br&gt;그는 “오늘 경찰 조사에서 이런 내용을 말할 예정”이라면서 “조속히 정 회장 체제를 종식시키고 축구협회를 개혁해야 한다고 거듭 강조한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>살인더위에 베트남 근로자도 쓰러져...경남 온열질환 사망자 5명째</title>
-      <link>https://www.chosun.com/national/2024/08/05/5TK5YGQHIJGDPG3GZ3HH6N4BPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/08/05/5TK5YGQHIJGDPG3GZ3HH6N4BPA/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 06:09:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NP5K2WWHEYWOGWNEAECEZ6R6JQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭염으로 인한 온열질환 환자가 증가하고 있는 가운데 1일 오후 서울 종로구 탑골공원에서 한 어르신이 부채질을 하고 있다. 기사와는 무관함. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연일 이어지는 살인 더위에 경남에서는 온열질환 사망자가 계속 늘어나고 있다. 올 여름 온열질환 사망자 중 처음으로 외국인이 숨졌다.&lt;br&gt;&lt;br&gt;5일 경남도에 따르면 지난 4일 오후 5시 35분쯤 베트남 국적의 A(60대)씨가 사망했다. 의료진은 A씨의 사망 원인을 열사병에 의한 다발성 장기부전으로 추정했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2일 오후 2시 50분쯤 경남 밀양시 상남면 연금리에 있는 밭에서 일하다가 쓰러졌다.&lt;br&gt;&lt;br&gt;당시 밀양의 낮 최고기온은 37도에 달했다. 주변에 있던 동료가 쓰러진 A씨를 발견해 인근 병원으로 옮겼다. 병원 도착 당시 A씨의 체온은 39.8도였고, 의식은 없었다고 한다. 인공호흡기에 의지해 치료를 받아오던 A씨는 치료 3일만에 끝내 숨졌다. 경남에서는 지난 5월 20일부터 4일까지 온열질환자가 192명 발생했고, 5명이 숨졌다. 사망자 5명 중 3명이 폭염 속에서 밭일 중 쓰러져 사망했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘이혼소송’ 황정음, 농구선수 김종규와 열애 인정 2주 만에 결별</title>
-      <link>https://www.chosun.com/national/people/2024/08/05/A2OCQRA74VB3DEDPHVH26EUVTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/05/A2OCQRA74VB3DEDPHVH26EUVTA/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 05:53:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TRWLJQLDJJE67I7HPDTCJRDNEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 황정음과 농구선수 김종규. /뉴스1·인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 황정음(40)과 농구선수 김종규(33·원주 DB)가 열애를 인정한 지 2주 만에 결별했다.&lt;br&gt;&lt;br&gt;황정음 소속사 와이원엔터테인먼트는 5일 “두 사람은 최근 서로 호감을 가지고 조심히 알아가는 단계였지만 좋은 지인 관계로 남기로 했다”고 밝혔다. 결별 이유는 공개하지 않았다. 다만 열애가 대중에 알려진 뒤 부담을 느낀 두 사람이 더 이상 관계를 발전시키지 않았다는 측근에 따른 보도가 나왔다.&lt;br&gt;&lt;br&gt;황정음과 김종규는 지난달 22일 열애를 인정했다. 황정음이 올해 초 전 프로골퍼 겸 사업가 이영돈(42)과의 이혼소송을 알린 지 5개월여 만이었다. 황정음이 힘든 시간을 보낼 때 김종규에게 위로받으며 연인관계로 발전했다고 한다. 두 사람이 공개적인 장소에서 시선을 의식하지 않고 데이트를 즐겼다는 목격담도 전해졌다.&lt;br&gt;&lt;br&gt;앞서 황정음은 지난 2월 인스타그램에 돌연 남편 이영돈의 사진 여러 장을 연달아 올려 논란을 불렀다. 이후 네티즌과 댓글을 주고받는 과정에서 “돈은 내가 1000배 더 많다. 그럼 내가 돈 더 잘 벌고 내가 더 잘났으니 내가 바람피는 게 맞다” “바람피우는 놈인지 알고 만나냐. 모르니까 만났다” “나도 한 번은 참았다” 등의 댓글을 달아 이영돈의 외도를 암시했다.&lt;br&gt;&lt;br&gt;이어 소속사를 통해 “많은 심사숙고 끝에 ‘더 이상 혼인을 유지하기 어렵다’는 결정을 내렸다”며 이혼소송 진행 중임을 밝혔다. 그러나 인스타그램에 일반인 여성을 이영돈의 외도 대상으로 오해해 저격하는 글을 올리면서 소동을 빚기도 했다. 이에 황정음은 “오해가 있었다”며 사과했지만 명예훼손 혐의로 피소된 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>故양계남 교수 추모전 ‘월아 나비가 되어’… 5~16일 조선대 미술관</title>
-      <link>https://www.chosun.com/national/regional/honam/2024/08/05/OO3FUIBJKRHLBOOTNMX3HIKM6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/08/05/OO3FUIBJKRHLBOOTNMX3HIKM6M/</guid>
-      <dc:creator>광주광역시=조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 06:00:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ZEZL4QJZVAEPAIRRVA5N4G2QQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고 양계남 조선대 미술대 교수./조선대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 8월 타계한 고(故) 양계남 조선대학교 미술대 교수의 호(號)는 ‘월아(月娥)’다. 남종문인화(南宗文人畫) 거목 의재(毅齋) 허백련(許百鍊·1891~1977) 선생이 직접 지어 준 이름이다. 양계남 교수는 의재 허백련의 마지막 제자다. 의재에게서 14년간 한국화를 사사했다. 조선대 미술학과 관계자는 “양계남 교수는 생전 나비처럼 아름다운 그림을 그렸다”며 “달 ‘월’에 예쁠 ‘아’의 호가 붙여진 이유가 여기에 있을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;고 양계남 교수의 1주기 추모전이 5일 개막했다. 추모전 명칭이자 주제는 ‘월아 나비가 되어’. 김대욱 1주기 추모사업 조직위원장(와사비아 대표)은 이날 “고인은 나비를 많이 그려 작품이 아름답고 따뜻했다”며 “‘나비처럼 환생해 훨훨 날아다니라’라는 뜻을 주제에 담았다”고 말했다. 김대욱 위원장은 또 “이번 전시회는 그가 생전에 꿈꿨던 세상을 함께 되짚어보는 자리가 될 것”이라며 “고인의 삶과 예술혼을 기리는 뜻깊은 자리가 될 것으로 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;이번 추모전은 오는 16일까지 9일간 광주광역시 동구 조선대미술관에서 열린다. 고인의 수많은 작품 중 ‘파라다이스(1994)’ ‘유와 무의 사이(2003)’ ‘다 이루었습니다(2008)’ 등 60여 점의 유작을 전시한다. 또 현직 미술대 교수와 고인의 사재로 마련한 장학금을 받았던 제자 등 46명이 작품 46점을 선보인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJYHCRYA2BFCTK2XVTB5K33ZT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고 양계남 교수 유작 ‘다 이루었습니다(2008)’./조선대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양계남 교수는 1976~2009년 조선대 미술대 교수로 일했다. 전남권 최초 한국화 전공 여성 교수 타이틀을 얻었다. 독실한 가톨릭 신자로 평생 독신으로 지냈다. 이번 추모전은 그의 조카 3명과 조선대가 공동 주최했다. 제자 등이 참여한 ‘1주기 추모사업 추진위원회’와 전시컨설턴트 ‘와사비아’가 공동 주관했다.&lt;br&gt;&lt;br&gt;조선대 한국학 졸업생 모임 ‘선묵회’는 고인이 남긴 장학금 중 500만 원쯤을 들여 해마다 ‘올해의 미술상’과 ‘월아 미술상’을 졸업생과 재학생에게 수여하고 있다.&lt;br&gt;&lt;br&gt;고인의 제자이자 선묵회 회장인 조선아 작가는 “대학과 제자들이 팔을 걷어붙여 1년 전 별세한 전직 미술대 교수이자 스승의 추모전을 대대적으로 여는 일은 흔치 않다”며 “정교한 세필 묘사가 돋보이는 채색화와 전통 수묵화, 종교적 색채가 배어 있는 작품 등을 통해 그의 작업 세계를 엿볼 수 있다”고 말했다. 조선아 작가는 또 “고인의 삶과 예술이 더 널리 알려지고 더 오래 기억된다면 더는 바랄 바가 없다”며 “그를 사랑했던 이들의 애틋함과 그리움을 함께 다독이는 시간이 되길 희망한다”고 말했다.&lt;br&gt;&lt;br&gt;고인은 베를린, 파리, 뉴욕, LA, 서울, 광주 등에서 19회의 개인전을 열었고 아트페어 등 국내·외에서 400여 회의 그룹전에 참가했다. 2007년에는 광주 시립미술관 ‘올해의 작가’로 선정된 데 이어 2016년 광주시 문화예술상 ‘의재 허백련 미술상’을 받았다.&lt;br&gt;&lt;br&gt;미주리대(1990~1991)와 뉴욕의 폴리테크닉대(2003~2004) 객원교수로 활동했다. 2004년에는 본인의 호를 딴 ‘월아 미술상’을 만들어 재학생에게 장학금을 후원했다. 2017년에는 ‘올해의 미술상’을 만들어 졸업한 제자들에게 창작지원금을 지원하는 등 후학 양성에 힘썼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BXHIUWSDYVHY7M7SABDUQ2S5LM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고 양계남 교수 유작 ‘회한 1(2008)’./조선대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4ZEZL4QJZVAEPAIRRVA5N4G2QQ.jpg?width=5148&amp;height=7533&amp;auth=bde0b2a4852d6b6db6f98a3548c2f6d3ea530027af2fa7dfd44a6b8af9897608&amp;smart=true" type="image/jpeg" height="7533" width="5148">
-        <media:description type="plain">고 양계남 조선대 미술대 교수./조선대</media:description>
-        <media:credit role="author" scheme="urn:ebu">조선대</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>은행 ATM 돌며 4억2000만원 훔친 유명 보안업체 직원 구속···훔친 돈 야산에 묻어둬</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/05/WLEOTPJREFFHRIQF5OPAJ2AQS4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/05/WLEOTPJREFFHRIQF5OPAJ2AQS4/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 05:39:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RWBRGR5AYJDJHFPY2XO57L4SPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유명 보안업체 직원이 은행 ATM기기에서 4억원 가량을 훔친 후 일부를 강원도 야산에 묻어뒀다./영등포경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;은행 ATM 기기에서 현금 4억원 가량을 훔쳐 달아난 보안업체 직원이 구속됐다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 지난 3일 유명 보안업체 직원 A씨를 야간건조물침입절도혐의로 구속했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난달 23일 새벽 서울 영등포구 소재 은행 2곳에서 총 6개의 ATM기를 털어 4억2000여만원을 훔쳐 달아난 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 범행 직후 경찰을 따돌리기 위해 택시를 바꿔타며 강원 원주 등 지방으로 도주했다. 신고를 접수한 경찰은 즉시 A씨의 도주 경로를 추적해 지난 1일 오후 3시 43분쯤 강원도 소재의 은신처 주변에 잠복하며 A씨를 검거했다.&lt;br&gt;&lt;br&gt;A씨는 인근 야산에 묻어둔 현금을 찾으러 왔다가 덜미가 잡혔다. 경찰은 A씨가 야산에 숨겨둔 현금 3억4000만원 상당을 발견해 회수했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 개인 채무를 변제하기 위해 범행을 저질렀으며, 훔친 금액 중 일부는 채무 변제와 유흥에 썼다고 진술했다.&lt;br&gt;&lt;br&gt;경찰은 지난 3일 A씨에 대한 구속영장을 신청했고 법원이 이를 받아들였다. 경찰은 A씨를 상대로 자세한 사건 경위 등을 추가로 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“평생 교도소에서 썩게 해줄까?” 수용자에 막말한 공중보건의</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/05/FGM2XKR3PNAWFCGBCG34CCE4TQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/05/FGM2XKR3PNAWFCGBCG34CCE4TQ/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 05:41:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q5CQ4WNXNNHYDHC63X6MZ33Q6Y.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;인권위 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;진료 과정에서 갈등을 겪던 교도소 수용자에게 “평생 이곳에서 썩게 엄벌 탄원서를 내줄까?”라며 모욕적인 발언을 한 공중보건의에 대해 국가인권위원회가 인격권을 침해한 발언이라고 판단했다.&lt;br&gt;&lt;br&gt;5일 인권위는 이 같은 언행을 한 전북의 한 교도소 공중보건의 A씨에게 주의 조치와 함께 인권 교육을 실시하라고 소속 교도소장에게 권고했다고 밝혔다.&lt;br&gt;&lt;br&gt;인권위 결정문에 따르면, 이 교도소 수용자 B씨는 올해 초 순회 진료를 받던 중 공중보건의 A씨와 진료 태도 문제로 승강이를 벌였다.&lt;br&gt;&lt;br&gt;A씨는 B씨에게 “당신이 그렇게 사는데 누가 당신을 좋게 보겠어. 내가 당신을 평생 이곳에서 썩게, 가석방도 안 되게 엄벌 탄원서를 내줄까”라고 말했다.&lt;br&gt;&lt;br&gt;A씨는 또 “당신이 나한테 뭘 잘못한 것인지 써 가지고 오라. 그렇지 않으면 당신을 진료해 줄 수가 없다”라고도 말했다. B씨는 이 말로 모욕감을 느꼈다며 지난 1월 인권위에 진정을 제기했다.&lt;br&gt;&lt;br&gt;A씨 주장은 달랐다. 앞서 1년 전 B씨 진료 과정에서 그가 복용하던 근육이완제의 오·남용이 우려돼 의약품 처방을 중단한 적이 있는데, 당시 B씨가 여러 수용자 앞에서 “의사가 진료를 제대로 볼 줄도 몰라”라고 말해 모욕을 느낀 적이 있다고 했다.&lt;br&gt;&lt;br&gt;그 뒤 올해 초 다시 B씨를 진료하게 됐을 때 작년 진료 과정을 떠올린 A씨는 “1년 전 진료 받을 때 저에게 뭐라고 말씀하셨죠” “1년 전 본인이 저에게 했던 말을 다시 생각해 보고 말해보세요” 라고 말했다는 것이다.&lt;br&gt;&lt;br&gt;인권위는 그러나 같은 교도소에 수감된 수용자 3명이 A씨가 B씨에게 한 모욕성 발언을 들었다고 진술한 점 등을 토대로 A씨의 인격권 침해가 인정된다고 봤다.&lt;br&gt;&lt;br&gt;인권위는 " 1년이 지난 이 사건 진정 발생 시점에서 과거의 일을 들춰 지적한 행위는 비록 B씨가 진료를 받는 태도가 적절하지 않았다고 생각했을지라도 결과적으로는 의사가 환자를 대하는 자세로서 바람직하지 않다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울대·고대생 등 ‘마약 동아리’ 14명 적발...고급 호텔서 집단 투약</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/05/BX7LX7Y4GZHB7AH5KCJBXKZQCU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/05/BX7LX7Y4GZHB7AH5KCJBXKZQCU/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 01:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6XNDGNTDRJGYDAFV2JQSQ5NISE.png"&gt;&lt;figcaption&gt;&lt;small&gt;고급 호텔, 클럽 등지에서 마약을 투약한 연합동아리 회원 모집 문구./서울남부지방검찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고급 호텔, 뮤직페스티벌 등지에서 집단으로 마약을 투약한 대학 연합동아리 회원 14명이 검찰에 적발됐고 이중 6명이 재판에 넘겨졌다. 이들은 서울대, 고려대 등 서울 및 수도권 소재 명문대생들인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;서울남부지검 형사4부(부장 남수연)는 대학생 연합동아리를 이용해 마약을 유통하고 투약한 30대 대학생 A씨 등 대학생 총 14명을 적발했다고 이날 밝혔다. 이미 구속 상태였던 주범 A씨는 추가로 기소됐고, 가담 정도에 따라 3명은 구속 기소, 2명은 불구속 기소됐다. 단순 투약만 한 대학생 8명은 조건부 기소유예됐다. 이들 중에는 의대·약대 재입학 준비생, 준비생도 포함된 것으로 밝혀졌다.&lt;br&gt;&lt;br&gt;연합동아리 회장 A씨는 지난 2021년 호텔, 고급 레스토랑 등에서 호화술자리를 제공하는 수법으로 단기간에 약 300명의 회원을 모집했다. 대학생들이 이용하는 소셜미디어를 통해 고가 외제차, 파인다이닝, 뮤직페스티벌 입장을 공짜로 또는 저렴하게 이용할 수 있다고 홍보했다. 해당 동아리는 회원 수 기준 전국 2위인 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 동아리 임원들과 함께 참여율이 높은 동아리원들을 선별해 클럽·고급호텔·뮤직페스티벌 등지에 초대해 음주하며 참석자들의 경계심이 흐트러진 틈을 이용하여 액상대마를 권했다. 투약에 응한 동아리원들을 대상으로는 MDMA·LSD·케타민·사일로시빈, 필로폰·합성대마 등 순으로 다양한 마약을 접하게 했다. 또 남성회원들과 유흥업소 여종업원들을 고급호텔 스위트룸에 초대해, 집단으로 마약을 투약하기도 했다고 한다.&lt;br&gt;&lt;br&gt;A씨 일당의 범행은 해외에서도 이뤄졌다. A씨와 동아리 임원 B씨 등은 종이 형태로 된 향정신성의약품인 LSD를 기내수하물에 넣어 제주, 태국 등지로 운반해 투약하기도 했다.&lt;br&gt;&lt;br&gt;A씨는 마약 판매로 수익까지 얻었다. 동아리원들에게 텔레그램·가상화폐를 통해 웃돈을 붙여 고가에 마약을 판매해 작년 한 해에만 1200만원 이상의 마약을 매매했다고 한다.&lt;br&gt;&lt;br&gt;한편 A씨는 작년 4월 동아리에서 교제한 C(24)씨가 다른 남성 회원과 어울렸다는 이유로 와인병을 이용해 피해자를 여러 차례 때리고, 성관계를 촬영한 영상을 이용해 C씨를 협박해 성폭력 처벌 특례법 위반(촬영물 등 이용 협박) 등 혐의도 받고 있다. A씨는 올 4월 열린 1심 재판에서 징역 3년을 선고받고 항소심을 진행 중이다.&lt;br&gt;&lt;br&gt;이 사건은 단순 마약 투약으로 구속 기소된 A씨에 대한 재판 중 공판 검사가 수상한 거래내역을 포착해 휴대전화 포렌식·계좌·가상자산 거래내역 추적 등을 수사하며 밝혀졌다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “인터넷과 소셜미디어를 중심으로 대학생들에게까지 마약 범죄가 광범위하게 확산되고 있다”며 “젊은층을 대상으로 한 마약류 범죄 근절을 최우선 과제로 설정하고 모든 역량을 총동원해 대응하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/JKDQZPXVFRDT7KCDA5ICF2FGU4.png?width=1000&amp;height=562&amp;auth=7160af6cd3509f56b4aab6ec7cc7e235196d340111ca59e55422167156d2711f&amp;smart=true" type="image/png" height="562" width="1000"/>
-    </item>
-    <item>
-      <title>가상범죄합동수사단 출범 1년... 41명 입건, 범죄수익 1410억원 환수 성과</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/05/CD456UPBMBGZLNZZ3ZPTBHHU3M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/05/CD456UPBMBGZLNZZ3ZPTBHHU3M/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 02:18:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZXL43UXDQRPKSJIGMTHEJSBWCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가상자산범죄합동수사단이 서울남부지검에 설치됐다. 합수단은 검찰, 금융감독원 등 7개 기관 전문인력 30여명으로 구성됐다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울남부지검 가상자산범죄합동수사단(합수단)이 출범 후 1년 동안 41명의 가상자산 불공정거래 사범을 입건하고 1400억원 상당의 범죄수익을 압수 및 몰수·추징보전하는 등의 성과를 이뤘다.&lt;br&gt;&lt;br&gt;서울남부지검은 지난 1년간 합수단을 통해 가상자산 불공정거래 사범 41명을 입건했으며 1410억원 상당의 범죄수익을 환수했다고 밝혔다. 특히 합수단이 입건한 피의자 중 ‘코인왕’ 존버킴, ‘청담동 주식부자’ 형제, ‘욘사마 코인’ 사범 등 18명은 구속됐다.&lt;br&gt;&lt;br&gt;또한 합수단은 지난 1년간 846억원 가량의 재산을 압수하고 564억원 가량의 재산을 몰수·추징보전하는 등 1410억원의 범죄수익을 환수했다. 존버킴이 보유하고 있던 205억원 상당의 슈퍼카 13대, 청담동 주식부자 형제들의 부동산 등 270억원 규모 재산이 이에 해당한다.&lt;br&gt;&lt;br&gt;한편 지난달 19일부터 가상자산이용자보호법이 시행됨에 따라 합수단의 수사 환경도 변화할 전망이다. 부당이득액이 50억원 이상인 경우 불공정거래행위에 대해 최고 무기징역형까지 내릴 수 있는 등 처벌이 강화되고 시세조종 등에 의한 코인 사기의 범죄수익도 전액 환수가 가능해졌다.&lt;br&gt;&lt;br&gt;임시조직으로 운영되던 합수단의 정식 직제화 작업도 언급됐다. 합수단의 성과와 향후 운영방안을 보고받은 이원석 검찰총장은 “TF 조직인 합수단이 가상자산 범죄에 대응하기 위해 국가적 역량을 결집하여 정식 직제화될 수 있도록 추진하고, 가상자산 불공정거래를 엄정 수사해 근절하고 범죄수익을 환수하여 시장질서를 바로잡아달라”고 했다.&lt;br&gt;&lt;br&gt;앞서 지난해 7월 대검찰청은 검찰, 금융감독원, 금융정보분석원, 한국거래소, 국세청, 관세청, 예금보험공사 등 7개 유관기관 전문인력 30여명으로 구성된 합수단을 출범시켰다. 법의 보호 밖에 놓인 가상자산 시장 참여자들을 보호하고 건전한 가상자산 시장 환경을 조성하기 위함이었다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “가상자산이용자보호법을 적극 적용해 엄정 수사함으로써 가상자산시장에서 불공정거래행위를 발본색원하겠다”며 “제도개선 및 피해예방 활동도 병행해 공정하고 투명한 가상자산, 생태계 조성과 투자자 보호를 위해 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘70억집‧25억그림’ 돈자랑 비판에 홍혜걸 “의사는 돈 벌면 안 되나”</title>
       <link>https://www.chosun.com/national/people/2024/08/05/VZISC4AJJRBYPE44FPSA5WFHL4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/05/VZISC4AJJRBYPE44FPSA5WFHL4/</guid>
@@ -942,14 +946,6 @@
       <description/>
       <pubDate>Sun, 04 Aug 2024 20:02:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W47QGQM3BRBHHBIFNFZK4NZPAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 인천 청라국제도시의 아파트 지하 주차장에서 단전·단수 복구 작업이 이뤄지고 있다. 지난 1일 발생한 전기차 화재로 차량 140대가 불탔을 뿐 아니라 주차장 내부의 전기 설비와 수도 배관이 불타 5개동 480여 가구의 전기와 물이 끊겼다. 이번 화재 이후 전국 아파트 단지에서는 “지하에 전기차 주차를 막아야 한다”는 여론이 일고 있다. /이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1일 인천 청라국제도시의 한 아파트 지하 주차장에서 발생한 전기차 화재와 관련해, 불이 난 전기차는 화재 발생 사흘 전부터 계속 주차 중이었던 것으로 알려졌다. 경찰과 소방이 구체적인 화재 원인을 조사 중인 가운데 “사흘간 가만히 세워둔 차에서 어떻게 불이 났느냐”는 의문이 제기되고 있다. 전문가들은 “전기차 배터리 내부에서 분리막이 손상된 경우 운행이나 충전 중이 아니더라도 불이 날 수 있다”고 분석한다.&lt;br&gt;&lt;br&gt;4일 인천 서부경찰서 등에 따르면, 불이 난 전기차의 차주인 40대 남성은 지난달 29일 오후 7시 16분쯤 차를 주차한 뒤 운행한 적이 없다고 경찰에 진술한 것으로 알려졌다. 차에서 불이 난 시점은 지난 1일 오전 6시 15분쯤으로 주차한 지 59시간 뒤 갑자기 불이 났다는 얘기다. 소방 관계자는 “화재 당시 해당 전기차는 충전 구역이 아닌 일반 주차 구역에 주차 중이었던 것으로 확인됐다”고 했다. 국립과학수사연구원은 오는 8일 화재 현장에서 합동 감식을 진행할 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EBVKK3WK5RDB5IRX7RMGXJ2FUA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;◇배터리 내부 분리막 손상 가능성&lt;br&gt;&lt;br&gt;사흘간 주차된 전기차에서 화재가 난 원인에 대해 선양국 한양대 교수는 배터리 덴드라이트(dendrite)에 의한 ‘단락(短絡·합선)’이 원인일 수 있다고 분석했다. 덴드라이트란, 배터리 내부 물질인 리튬 중 일부가 급속 충전을 자주 하는 등의 원인으로 음극 표면에 쌓여 만들어지는 나뭇가지 모양의 결정체다. 차량이 가만히 있는 상태에서도 리튬이나 불순물이 이동해 결정체가 서서히 자라면서, 배터리 분리막에 구멍을 내면 만나지 말아야 할 양극과 음극이 만나면서 합선이 발생하고 화재로 이어질 수 있다는 것이다. 선 교수는 “국내 업체들은 덴드라이트 문제를 어느 정도 개선해 왔지만, 중국은 삼원계 배터리 후발 주자로 한국보다 뒤떨어져 있는 것으로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;이번에 불이 난 벤츠 전기차(EQE350)에는 중국 CATL이 삼원계 배터리인 NCM(니켈·코발트·망간) 811 배터리를 공급하고, 또 다른 중국 업체 파라시스도 배터리를 공급하고 있다. NCM 811 배터리는 니켈 80%, 코발트 10%, 망간 10%가 탑재되는 하이니켈 배터리를 뜻한다. 니켈 비율이 높으면 더 많은 전기 에너지를 충전해 주행거리가 길어진다. 다만 화학적 구조가 불안정해 충격이나 고온 상황에서 열 폭주 가능성이 상대적으로 높다는 단점이 있다.&lt;br&gt;&lt;br&gt;덴드라이트가 직접적인 원인이 아니더라도 전문가들은 전기차 배터리 내 분리막 손상을 주요 원인으로 지목하고 있다. 배터리에 과도한 열이나 물리적 충격이 가해져 분리막이 손상되고, 양극재와 음극재가 직접 만나 화재나 폭발로 이어진다는 것이다. 문학훈 오산대 미래전기자동차학과 교수는 “화재가 난 차량이 주행 중에 배터리가 탑재된 하부가 충격을 받고, 이 때문에 배터리 내부 분리막이 손상됐을 가능성이 있다”고 했다. 한 배터리 업체 연구원은 “완충된 상태에서 충전기를 빼고 이후에 12시간이나 하루가 지난 이후에 불이 나는 경우가 가끔 있기는 하다”며 “그동안 과충전 등 누적된 스트레스가 있었는데 더운 여름 날씨와 결합해 단락을 일으켰을 가능성도 있다”고 말했다.&lt;br&gt;&lt;br&gt;차량이 갑자기 폭발한 것이 ‘각형 배터리’ 화재 양상을 보인다는 분석도 나왔다. CATL의 NCM 811 배터리는 LG에너지솔루션·SK온이 만드는 파우치 형태와는 다른 각형 배터리로 알려졌다. 업계 관계자는 “사각 형태의 금속 캔으로 감싼 각형 배터리는 단단하기 때문에 안정성이 높지만, 캔 내부에서 문제가 발생해 열과 압력이 한도 이상 높아지면 폭발하는 특성이 있다”고 말했다.&lt;br&gt;&lt;br&gt;◇480가구 단전, 주민 300여명 피난 생활&lt;br&gt;&lt;br&gt;불이 난 아파트에는 나흘째 전기와 물 공급이 끊겼다. 사고 당시 화염으로 지하 주차장 내부의 온도가 1500도까지 치솟으면서 전기 설비와 수도 배관 등이 녹아버렸기 때문이다. 전기는 5개 동 480가구, 물은 15개 동 1580가구에 각각 공급되지 않고 있다. 이 때문에 주민 300여 명이 인근 학교 등에서 피난 생활을 하고 있다. 인천 서구 관계자는 “6일부터 수도와 전기가 차례로 정상화될 것”이라고 했다.&lt;br&gt;&lt;br&gt;지난 1일 발생한 이 아파트 주차장 화재로 차량 140여 대가 불타거나 파손됐고, 주민 23명이 연기를 마셔 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이동현·이천영 ‘제34회 일가상’</title>
-      <link>https://www.chosun.com/national/people/2024/08/05/TUCKOFTHKRADPBYXT755TDONP4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/05/TUCKOFTHKRADPBYXT755TDONP4/</guid>
-      <description/>
-      <pubDate>Sun, 04 Aug 2024 15:35:00 +0000</pubDate>
-      <content:encoded>이동현 미실란 대표와 이천영 고려인마을 이사장이 제34회 일가상 수상자로 선정됐다고 일가재단이 4일 밝혔다. 이동현 대표는 농업 부문, 이천영 이사장은 사회공익 부문이다. 일가상은 가나안농군학교 창설자인 일가(一家) 김용기 선생(1909~1988)의 뜻을 기리기 위해 제정됐다. 이 대표는 국내 최초로 유기농 발아 현미를 개발해 우리 쌀의 국제적인 경쟁력을 높인 공로를 인정받았으며, 이 이사장은 전남 광주에 조성한 고려인 마을을 20여 년간 주도적으로 키워온 열정이 높은 평가를 받았다. 시상식은 9월 7일 서울 강남구 밀알학교 그레이스홀에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
