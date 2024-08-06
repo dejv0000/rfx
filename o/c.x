@@ -13,6 +13,226 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] ‘文 인사수석’ 김외숙, 변협 징계 받는다...수임한 수십건 자료 누락</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/07/H4V5G3DM7NGYLGABHIEE2HCCXQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/07/H4V5G3DM7NGYLGABHIEE2HCCXQ/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 20:05:00 +0000</pubDate>
+      <content:encoded>문재인 정부에서 법제처장과 청와대 인사수석을 지낸 김외숙(57) 변호사가 수임 자료 제출 의무를 위반해 대한변호사협회(변협)의 징계 절차를 밟고 있는 것으로 6일 전해졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 변협 조사위원회는 지난 5월 말 김 변호사에 대해 징계 개시를 청구했다. 김 변호사는 2022년 5월 인사수석에서 퇴임한 뒤 법무법인 부산에 재직하면서 공직 퇴임 변호사로서 지방변호사회에 수임 자료를 제출하지 않고 일부를 누락한 것으로 조사됐다. 변협은 조만간 김 변호사에 대한 징계위원회를 열어 징계 수위 등을 정할 예정이다.&lt;br&gt;&lt;br&gt;김 변호사는 2022년 하반기 480여 건의 사건을 수임했는데, 이 중 한국토지주택공사와 삼성화재 등을 대리한 12건의 수임 자료를 부산변회에 제출하지 않았다고 한다. 공직 퇴임 변호사는 퇴직한 날부터 2년 동안 자신이 수임한 사건 자료와 처리 결과를 소속 지방변회에 제출해야 하고, 이를 어기면 1000만원 이하의 과태료를 부과받는다.&lt;br&gt;&lt;br&gt;김 변호사는 또 같은 기간 자신이 수임한 사건 36건의 ‘경유증표’를 부산변회 전산망에 입력하지 않았다. 경유증표는 변호사가 사건 선임계를 법원, 검찰, 경찰 등에 제출할 때 소속 변회에도 알려 확인하는 절차다. 세금 포탈이나 몰래 변론 등을 막기 위한 장치다.&lt;br&gt;&lt;br&gt;법조윤리협의회는 작년 12월 김 변호사의 의무 위반 사실을 확인하고 변협에 징계 개시를 신청했고, 조사위원회는 약 5개월간의 조사를 거쳐 징계가 필요하다고 판단했다. 김 변호사 측은 “법무법인의 업무상 실수로 빚어진 일로 고의로 누락한 건 아니다”라고 해명했다. 김 변호사가 재직 중인 법무법인 부산은 문재인 전 대통령이 설립한 로펌이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KX5XEIG4UNHZFEJ537PW3YEQZ4.jpg?width=568&amp;height=710&amp;auth=7de5c9f9acae06bedbda63fa9739f9065ca58a39b508ae6b72cdc24160076615&amp;smart=true" type="image/jpeg" height="710" width="568">
+        <media:description type="plain">논란의 김외숙 靑인사수석 - 문재인 대통령의 핵심 인사 참모인 김외숙 청와대 인사수석. 부동산 ‘빚투’(빚내서 투자) 논란으로 사퇴한 김기표 전 청와대 반부패비서관과 관련해 야권은 물론 더불어민주당에서도 청와대 인사 검증 시스템을 비판하는 목소리가 나오고 있다. /남강호 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>열대야 일수 12일… 평년보다 3배 증가</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/08/07/LXDS4SRWYFEBPNOKPLLWLARR2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/08/07/LXDS4SRWYFEBPNOKPLLWLARR2U/</guid>
+      <dc:creator>김윤주 기자, 박상현 기자, 박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 16:10:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3O2GVEMYEBAJDGBPRC2T3R4OZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;너무 더워요… 밤에도 물놀이 - 지난 5일 밤 서울 종로구 광화문광장 분수에서 아이들이 물놀이를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;밤의 열기가 식지 않고 있다. ‘최악 여름’으로 꼽히는 2018년의 열대야(밤 최저기온 25도 이상) 일수를 이미 넘어섰다. 무더위가 밤낮을 가리지 않고 기승을 부리는 가운데 장맛비에 버금가는 폭우까지 쏟아지며 습식 사우나에 갇힌 듯한 더위가 이어지고 있다.&lt;br&gt;&lt;br&gt;6일 기상청에 따르면, 이달 5일까지 올해 전국에서 나타난 열대야 일수는 평균 12.2일로 2018년(10.2일)보다 이틀가량 많은 것으로 나타났다. 평년(1991~2020년·30년 평균) 기록인 3.9일보다는 3배 이상 많다. 서울은 16일, 강릉은 18일, 제주는 22일 연속으로 열대야를 겪고 있다. 같은 기간 폭염 일수는 올해가 평균 11일로, 2018년(21.4일)의 절반 수준이다. 2018년엔 낮 더위가, 올해는 밤 더위가 심한 것이다.&lt;br&gt;&lt;br&gt;밤 더위가 기승을 부리는 것은 예년보다 습도가 높아지며 ‘수증기 온실효과’가 나타나기 때문이다. 원인은 해수면 온도 상승에 있다. 현재 한반도 주변 수온은 섭씨 30도 내외, 필리핀 앞바다까지 가면 32도 안팎까지 크게 오른 상태다. 평년보다 2~3도가량 높다. 뜨겁고 축축한 남풍이 한반도로 밤낮없이 공급되면서 밤에도 기온이 떨어지지 않고 있다.&lt;br&gt;&lt;br&gt;2018년 더위가 올해보다 낮은 심하고, 밤은 덜했던 것은 우리나라로 불어 드는 바람의 종류와도 관련 있다. 2018년엔 남풍과 더불어 중국 쪽에서 고온 건조한 대륙풍까지 불어 들었다. 건조 공기가 습도를 잡아주면서 밤에는 기온이 떨어졌다. 반면 올해는 대륙풍 영향은 거의 없고, 남풍의 강도만 예년보다 강해져 습도가 더 높아졌다. 손석우 서울대 지구환경과학부 교수는 “수증기는 이산화탄소보다 온실효과가 크다”며 “습기는 열을 보존하기 때문에 밤에도 육지 바깥으로 열이 빠져나가지 못해 해가 져도 낮처럼 더운 것”이라고 했다.&lt;br&gt;&lt;br&gt;열기가 해소되지 않은 채 계속 쌓이기만 하면서 대기 상·하층 기온 차가 커지며 소나기 강도도 강해지고 있다. 5일 밤 전남 무안에는 1시간 동안 102㎜ 집중호우가 쏟아졌다. 경북 칠곡(98㎜), 경기 양평(86㎜), 대구 달성(77.5㎜), 경기 여주(62㎜), 전남 장성(60.5㎜) 등에도 순간적으로 많은 비가 내렸다.&lt;br&gt;&lt;br&gt;시간당 100㎜에 가까운 소나기가 내리는 것을 ‘한국형 스콜’로 보는 시각도 있다. 동남아에선 한낮에 지표가 뜨겁게 달궈지며 수증기가 증발하고, 대기의 수증기가 포화 상태가 됐을 때 한 번씩 거센 ‘스콜’이 내린다. 현재 높은 습도에 의해 강하게 발달한 소나기 구름대도 스콜처럼 장대비를 퍼붓고 있다. 다만 스콜은 햇볕에 의한 비라서 해가 떨어지면 내리지 않는 반면, 소나기는 밤낮 구분 없이 내린다는 차이가 있다.&lt;br&gt;&lt;br&gt;폭염과 열대야, 집중호우가 동시에 나타나며 피해도 다양하게 발생하고 있다. 지난밤 내린 집중호우로 곳곳에서 정전과 차량 침수 등 피해가 발생했다. 5일 오후 5시쯤 무안에서는 수도 공급 시설이 낙뢰를 맞아 무안읍 등 일부 지역에 수돗물이 끊겼다. 양평군 양근천 주차장에서는 차량 11대가 갑자기 불어난 물에 잠겼다.&lt;br&gt;&lt;br&gt;질병관리청에 따르면, 올여름 열사병·열 탈진 등 온열 질환 추정 사망자는 이날까지 17명으로 집계됐다. 이 숫자에는 전국 지자체 등이 파악한 사례는 빠져 있어 실제 사망자는 더 많을 것으로 보인다. 온열 질환자는 총 1810명으로 늘어났다. 5일까지 더위에 폐사한 가축도 총 30만3000마리로, 이 중 닭·오리가 27만7000마리였다.&lt;br&gt;&lt;br&gt;기상청은 7일에도 폭염과 폭우가 동시에 나타날 것으로 내다봤다. 7일 아침 최저기온은 24~27도, 낮 최고기온은 31~35도로 예보됐다. 소나기 강수량은 전국에서 5~40㎜로 예상된다. 밤사이 소나기가 내리는 지역에선 열대야가 잠시 해소될 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최태원·노소영 ‘초호화 변호인단’ 꾸려 대법서 대결</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/07/3ATTHLUSAZGA7BXEKD4IWNLUJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/07/3ATTHLUSAZGA7BXEKD4IWNLUJY/</guid>
+      <dc:creator>유희곤 기자, 방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 16:30:15 +0000</pubDate>
+      <content:encoded>최태원 SK그룹 회장이 노소영 아트센터 나비 관장과의 이혼 소송 상고심 재판부에 500쪽 분량의 상고이유서를 제출한 것으로 6일 알려졌다. ‘‘노 관장에게 1조3808억원을 지급하라”는 항소심 결과를 뒤집기 위해 ‘비자금 300억원 메모’의 진위를 다투는 내용 등을 담았다고 한다. ’&lt;br&gt;&lt;br&gt;최 회장 법률 대리를 맡은 홍승면 변호사 등은 지난 5일 대법원에 상고이유서를 제출했다. 지난 6월 20일 상고장을 제출한 지 46일 만이다. 홍 변호사는 법관 시절 ‘대법관 0순위’로 불렸으며 대법원장 후보로도 꼽혔다. 노 관장은 서울가정법원장과 감사원장을 지낸 최재형 전 국민의힘 의원을 상고심 대리인으로 선임해 맞선다. 법조계에선 “법조계 별들의 전쟁” “최고 변호사들의 치열한 공방이 기대된다”는 반응이 나오고 있다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇최 회장 측 “김옥숙 ‘300억원 메모’ 신뢰 못해”&lt;/b&gt;&lt;br&gt;&lt;br&gt;최 회장 측은 상고이유서에 노 관장의 어머니이자 노태우 전 대통령 배우자인 김옥숙 여사의 ‘300억원 메모’를 신뢰할 수 없고, SK가 ‘노태우 정부’의 혜택을 받아 성장한 것이 아니라는 내용을 담은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;2심 재판부는 김 여사의 메모와 50억원짜리 약속어음 6장이 찍힌 사진 등을 근거로, 노 전 대통령의 비자금 300억원이 최 회장 부친인 고(故) 최종현 회장 쪽으로 흘러가 선경그룹(현 SK) 성장의 발판이 됐다고 봤다. SK 성장에 기여한 부분이 인정되는 노 관장에게 재산의 35%(1조3808억원)를 나눠주라고 선고했다.&lt;br&gt;&lt;br&gt;최 회장 측은 상고이유서에서 2심 재판부가 재산 분할액을 산정할 때 오류를 범한 점도 자세히 지적했다고 한다. 2심 판결 후 최 회장의 SK 주식 가치 판단에 오류가 드러나자, 재판부는 판결문 경정(更正·계산이나 표현 오류를 고치는 일)을 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇법조·재계 “최고의 변호인단, 치열한 공방 기대”&lt;/b&gt;&lt;br&gt;&lt;br&gt;법조계에선 최 회장과 노 관장이 천문학적인 재산 분할금 확정을 앞두고, 화려한 변호인단을 꾸려 치열한 공방을 펼칠 것이라는 전망이 나온다.&lt;br&gt;&lt;br&gt;최 회장이 새로 선임한 공격수는 홍승면 변호사다. 대입 학력고사 전국 수석, 사법연수원 수석 수료에다 대법원 수석재판연구관과 법원행정처 사법지원실장을 지낸 ‘엘리트 법관’으로, 사실관계 판단과 법리 적용이 치밀해 상급심에서 뒤집기 어렵기로 정평이 났었다. 또 법무법인 율촌의 가사전문법관 출신 김성우, 대법원 재판연구관 출신 이재근·민철기·이승호 변호사도 최 회장 변호인단에 합류했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BLFY3UKNSJFNDIKZS6E3MR74RM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최 회장 측은 우선 ‘심리불속행 기각’(상고 대상 사건이 아니어서 심리 없이 2심대로 확정)을 피하면서, 대법관 4명으로 구성된 소부(小部)를 거쳐 대법원장과 대법관 12명이 참여하는 전원합의체로 사건을 끌고 가 재산 분할 비율을 낮추는 전략을 펼칠 것으로 예상된다.&lt;br&gt;&lt;br&gt;방어전에 나서는 노 관장 측 수장은 최재형 전 의원이 맡았다. 최 전 의원은 서울고법 부장판사와 사법연수원장을 지냈다. 그가 속한 법무법인 하정의 강명훈 대표 변호사도 변호인단에 포함됐다. 최 전 의원은 고교 시절 다리가 불편했던 강 변호사를 등에 업고 졸업할 때까지 2년 동안 등·하교를 시킨 일화로 유명하다.&lt;br&gt;&lt;br&gt;최 전 의원은 조희대 대법원장과도 막역하다. 조 대법원장이 2021년 국민의힘 대선 후보 경선에 참여한 최 전 의원에게 100만원을 후원한 사실이 알려지기도 했다. 최 전 의원은 “가정을 지키려고 했던 노 관장의 노력이 법적으로 정당한 평가를 받도록 돕겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 교총 회장 선거 후보 검증, 징계 기록 전부 제출해야</title>
+      <link>https://www.chosun.com/national/education/2024/08/07/OTOTZIFKRVENHOMQY3VLZFN5YE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/08/07/OTOTZIFKRVENHOMQY3VLZFN5YE/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 20:10:00 +0000</pubDate>
+      <content:encoded>신임 회장이 당선 일주일 만에 사퇴하는 초유의 사태를 맞았던 한국교총이 정관을 개정해 후보자 검증 시스템을 강화하고 오는 12월엔 재선거를 실시해 새 회장을 선출할 계획인 것으로 6일 확인됐다. 한국교총은 유치원부터 초·중·고교 교사, 대학교수까지 10만여 명이 회원으로 속해 있는 최대 교원 단체다.&lt;br&gt;&lt;br&gt;지난 6월 20일 한국교총 역사상 최연소로 회장에 당선됐던 박정현(44) 인천부원여중 교사는 당선 일주일 만에 회장직을 내려놨다. 2013년 근무하던 고등학교에서 한 여학생에게 “나의 여신님” “어제보다 오늘 더 사랑해” 등 부적절한 편지를 보내 교육청으로부터 ‘견책’ 징계를 받았던 사실이 뒤늦게 알려져 논란이 일었기 때문이다.&lt;br&gt;&lt;br&gt;문제는 회장 후보자 등록부터 투표까지 한 달 넘는 시간이 있었음에도 결격 사유가 있는 후보자를 걸러낼 시스템이 교총 내에 전무했다는 것이다. 박 교사가 당선된 이후 그가 제자에게 보낸 편지 내용 등 상세한 징계 사유가 언론을 통해 보도되기 전까지 회원들은 물론이고 교총 핵심 관계자들도 그 사실을 몰랐다.&lt;br&gt;&lt;br&gt;이에 한국교총 선거분과위원회는 회장 후보자가 과거 징계받은 전력이 있는지 직접 확인하고, 징계 전력이 있는 후보자는 징계 사유서와 관련 조사 기록 등을 직접 한국교총에 제출하도록 하는 정관 개정 작업에 착수했다. 후보자의 징계 전력을 선거 기간 회원들에게 공개해 투표에 반영할 수 있도록 하겠다는 것이다.&lt;br&gt;&lt;br&gt;한국교총 관계자는 “정관 개정안 초안 작성이 마무리 단계에 있으며 곧 이사회에 상정할 예정”이라고 했다. 후보자 검증 시스템 구축 작업이 끝나는 대로 재선거 절차에 돌입한다. 교총은 오는 11월을 전후로 회장 후보자 등록을 받아 한 달간 선거운동을 한 후 12월 초쯤 재선거를 실시한다는 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>교문마저 침범한 마약… 학생 사범 5년 만에 11배</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/07/GXE7WQU66VBC3AQ4WZ2GSYTAPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/07/GXE7WQU66VBC3AQ4WZ2GSYTAPU/</guid>
+      <dc:creator>김도연 기자, 강지은 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 20:00:00 +0000</pubDate>
+      <content:encoded>서울대·연세대·고려대 등 수도권 대학 13곳 회원 수백 명이 참여한 동아리가 마약 투약·유통, 집단 성관계의 온상이었음이 나타나 충격을 주고 있다. 이런 가운데 초등학생부터 대학원생에 이르는 학생 마약 사범이 5년 새 약 11배로 늘어난 것으로 6일 나타났다.&lt;br&gt;&lt;br&gt;대검찰청 통계를 보면, 2018년 123명이었던 학생 마약 사범 숫자는 2019년 241명, 2020년 368명, 2021년 494명, 2022년 543명으로 늘었다. 그러다가 지난해 1347명으로 급증했다. 20대 마약 사범도 작년 8368명으로 2022년(5804명)보다 44.1% 증가했다. 5년 전인 2018년(2118명)보다는 4배 가까이로 늘었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZRKETBVBA5GXLBPTGVRXCBYD4Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰 관계자는 이날 “이번 사건을 계기로 대학가는 물론이고 일선 초·중·고를 대상으로 한 마약 단속·수사를 확대할 필요가 있다”며 “한국은 더는 마약 청정국이 아니다”라고 했다. 검찰은 이번 마약 동아리 사건에서 마약 1회분이 운동화 한 켤레 정도 가격인 10만원대에 거래됐다는 사실에 주목하고 있다. 학생들이 굳이 해외에 나가지 않아도 국내에서도 부담 없는 가격에 마약에 손을 댈 수 있는 여건이 조성됐다는 것이다.&lt;br&gt;&lt;br&gt;검찰은 이번에 사법 처리한 동아리 회원 14명 외에도 또 다른 투약·유통 혐의자가 없는지 수사를 확대하고 있다. 또 회장 A씨를 고리로 이 동아리에 마약을 공급해 온 외부 대형 조직에 대한 조사도 지속한다는 방침이다.&lt;br&gt;&lt;br&gt;마약 동아리 회장으로 투약·유통에 앞장서 구속 기소된 A(31)씨는 과거 절도죄를 저지른 전과가 있는 것으로도 조사됐다. 2020년 서울 강남구 고급 호텔 창고에서 263만원어치 와인 등 주류 34병을 훔치거나, 서울 영등포구의 한 대형 마트에서 스피커와 유명 브랜드 여행 가방 등 금품 약 35만원어치를 절취한 혐의(절도죄)로 이듬해 징역형 집행유예를 받았다.&lt;br&gt;&lt;br&gt;A씨는 또 2021년 서울 시내 한 호텔에서 20대 여성 B씨와 다수 남성의 집단 성행위 자리를 마련해 기소되기도 했다. 2022년 중순부터 작년 초까지 마약 동아리가 아지트로 사용한 서울 구로구의 한 아파트에선 고성, 소란 등을 이유로 수차례 민원이 접수돼 경찰이 출동하기도 했다.&lt;br&gt;&lt;br&gt;A씨가 다녔던 카이스트는 6일 성명을 내고 “A씨는 이미 제적돼 카이스트 재학생이 아니다”라고 했다. 카이스트는 “A씨가 해당 동아리를 결성한 2021년 이전인 2020년 카이스트에서 제적돼 사건 범행 시에는 우리 학교 학생이 아니었다”며 “카이스트는 이 사건을 계기로 마약의 위험성과 경각심을 고조할 수 있는 마약 예방 교육을 조속히 실시하고, 우리 학생들이 마약으로부터 안전할 수 있는 다각적인 방안을 지속적으로 강구할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 곽영씨 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/08/07/S32M4MFSFJEXDMHMRLONI6OWRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/08/07/S32M4MFSFJEXDMHMRLONI6OWRY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 16:56:43 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;곽영&lt;/b&gt; 별세, &lt;b&gt;최원지&lt;/b&gt; 남편상, &lt;b&gt;곽지연&lt;/b&gt; 인하대 교수·&lt;b&gt;곽이경&lt;/b&gt; 일산백병원 교수·&lt;b&gt;곽지환&lt;/b&gt; 한국씨티은행 지점장 부친상, &lt;b&gt;정경원&lt;/b&gt;·&lt;b&gt;김만진&lt;/b&gt; MBC 시사교양국 부장 장인상, &lt;b&gt;이정은&lt;/b&gt; 동아일보 부국장 시부상=5일20시50분 삼성서울병원, 발인 8일9시, (02)3410-6915&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김춘자&lt;/b&gt; 서울 강동교회 권사 별세, &lt;b&gt;김봉환&lt;/b&gt; 아내상, &lt;b&gt;김정미&lt;/b&gt; 대전 평화가득함요양원 사무국장·&lt;b&gt;김용석&lt;/b&gt; 목사 모친상, &lt;b&gt;유효상&lt;/b&gt; 뉴시스 대전충남본부 부국장 장모상, &lt;b&gt;최유미&lt;/b&gt; 시모상=5일15시 대전 평화원장례식장, 발인 8일8시, (042)531-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;성달현&lt;/b&gt; 별세, &lt;b&gt;이군자&lt;/b&gt; 남편상, &lt;b&gt;성연준&lt;/b&gt;·&lt;b&gt;성연석&lt;/b&gt;·&lt;b&gt;성연승&lt;/b&gt; 부친상, &lt;b&gt;박남규&lt;/b&gt; TV조선미디어렙 대표 장인상, &lt;b&gt;박소연&lt;/b&gt; 시부상, &lt;b&gt;성주환&lt;/b&gt;·&lt;b&gt;성두식&lt;/b&gt;·&lt;b&gt;성우식&lt;/b&gt; 조부상, &lt;b&gt;박종연&lt;/b&gt;·&lt;b&gt;박혜연&lt;/b&gt; 외조부상=6일1시30분 신촌세브란스병원, 발인 8일9시, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이갑이&lt;/b&gt; 별세, &lt;b&gt;조현희&lt;/b&gt;·&lt;b&gt;조현배&lt;/b&gt; 前 해양경찰청장·&lt;b&gt;조현철&lt;/b&gt;·&lt;b&gt;조현수&lt;/b&gt;·&lt;b&gt;조현정&lt;/b&gt; 모친상, &lt;b&gt;김이호&lt;/b&gt;·&lt;b&gt;박강희 &lt;/b&gt;장모상&lt;b&gt;, 이귀선&lt;/b&gt;·&lt;b&gt;김혜경&lt;/b&gt;·&lt;b&gt;이영해&lt;/b&gt; 시모상=5일8시30분 창원시립상복공원 장례식장, 발인 7일9시30분, (055)712-0898&lt;br&gt;&lt;br&gt;▲&lt;b&gt;장주효&lt;/b&gt; 前 학교법인 영광학원 이사 별세, &lt;b&gt;박명희&lt;/b&gt; 남편상, &lt;b&gt;장혜인&lt;/b&gt;·&lt;b&gt;장봉석&lt;/b&gt; 아이넥스에이엠 상무·&lt;b&gt;장진석&lt;/b&gt; 필립스 코리아 근무 부친상, &lt;b&gt;남기석&lt;/b&gt; 영남이공대 교수 장인상, &lt;b&gt;진소영&lt;/b&gt;·&lt;b&gt;조정연&lt;/b&gt; 시부상=5일11시30분 칠곡경북대병원, 발인 7일9시, (053)200-2501&lt;br&gt;&lt;br&gt;▲&lt;b&gt;장필생&lt;/b&gt; 별세, &lt;b&gt;류광지&lt;/b&gt; 금양 회장 모친상=5일20시40분 대구 시민전문장례식장, 발인 7일10시30분, (053)324-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;황용구&lt;/b&gt; 별세, &lt;b&gt;황병희&lt;/b&gt; 한국신용평가 재무평가본부장 부친상, &lt;b&gt;나지선&lt;/b&gt; 시부상=6일6시1분 서울아산병원, 발인 8일12시, (02)3010-2000&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[인사] 중앙대 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/08/07/ZIVTO6V5WZCZXMA7FNNZU7FLP4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/08/07/ZIVTO6V5WZCZXMA7FNNZU7FLP4/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 16:56:25 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;중앙대&lt;/b&gt;▷창업지원단장 배웅규▷미래융합원장 장항배▷전공진로가이던스센터장 송해덕▷디지털교육지원센터장 이장호▷정보통신처장 홍영훈▷구매처장 김완수▷시설안전처장 양승만▷다빈치캠퍼스 총무처장 장우근&lt;br&gt;&lt;br&gt;▲&lt;b&gt;KBS&lt;/b&gt;▷전략기획실 전략기획국 전략개발부장 장알찬&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>올림픽 나서는 아프간 최초 ‘비걸’… “어린 소녀들에게 용기 주고파”</title>
+      <link>https://www.chosun.com/national/people/2024/08/07/3E4JDYRYPZBHDDJJ5B762MDCQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/07/3E4JDYRYPZBHDDJJ5B762MDCQA/</guid>
+      <dc:creator>채민기 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 16:55:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E3GQ7B7PXBMDRPCNDNYMLDBI3A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;아프가니스탄 출신 비걸 마니자 탈라시가 파리 올림픽을 앞두고 훈련하고 있다. 탈라시는 난민팀 소속으로 올림픽 브레이킹 종목에 출전한다. /로이터 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일부터 시작되는 파리 올림픽 신설 종목 브레이킹(브레이크 댄스) 경기를 앞두고 난민팀 소속 여자 선수 마니자 탈라시(22)의 사연이 주목을 받고 있다. 아프가니스탄 최초의 비걸(여성 브레이크 댄서)인 탈라시는 이슬람 근본주의 무장 단체 탈레반이 장악한 조국을 탈출해 유럽에서 댄서의 꿈을 키웠다.&lt;br&gt;&lt;br&gt;6일 아랍권 매체 알자지라 보도에 따르면 탈라시는 2020년 소셜미디어에서 처음 접한 브레이킹 동작에 매료돼 카불의 댄스팀 ‘수페리어 크루’ 연습장을 찾아갔다. “남자만 55명이 있었고 여자는 나 하나였지만 그곳에서 성별은 문제가 되지 않았다”며 “다들 여자는 댄서가 될 수 없고 결혼하기 위해 청소와 요리를 배워야 한다고 했지만 연습장에선 ‘어렵지만 할 수 있다’는 격려를 받았다”고 했다. 그러나 여성을 억압하는 탈레반이 2021년 정권을 장악하고 살해 위협까지 받게 된 탈라시는 아프가니스탄을 떠나야 했다.&lt;br&gt;&lt;br&gt;여권도 없이 파키스탄 등지를 떠돌다 난민 자격으로 스페인에 정착해 미용실에서 일하던 중, 스페인에서 만난 지인들의 도움으로 올림픽 난민 재단과 연결돼 올림픽에 출전할 수 있게 됐다. 탈라시는 “내가 이 자리에 있는 것은 탈레반이 무서워서가 아니라 아프가니스탄 여성의 용기를 보여주기 위해서”라며 “그것은 갇혀 있어도 꿈을 이룰 수 있다는 것을 의미한다”고 했다. “내가 할 수 있다면 아프가니스탄에 있는 더 어린 소녀들도 할 수 있을 것입니다. 사람들이 아프가니스탄의 여성들을 잊지 않기를 바랍니다.”&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>에티오피아에 ‘6·25 영웅’ 2482명 이름 새기다</title>
+      <link>https://www.chosun.com/politics/diplomacy-defense/2024/08/07/3ZV7AJISJFA37E2RBKJDLRQVO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/diplomacy-defense/2024/08/07/3ZV7AJISJFA37E2RBKJDLRQVO4/</guid>
+      <dc:creator>양지호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 16:55:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3RUZIZ2PP5EX7K4UXZIZIPDYEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일(현지 시각) 에티오피아 아디스아바바에서 6·25전쟁 참전 용사 2482명의 이름을 새긴 명비 제막식이 열렸다. 왼쪽부터 한 참전 용사의 후손, 강정애 보훈부 장관, 으스티파노스 겝레메스겔 에티오피아 6·25전쟁 참전용사협회장, 정강 주에티오피아 대사. /국가보훈부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가보훈부가 5일(현지 시각) 에티오피아 수도 아디스아바바에서 6·25 전쟁 에티오피아 참전 용사 이름을 새긴 명비 제막식을 진행했다. 에티오피아는 1950년 북한이 6·25전쟁을 일으키자 아프리카에서 유일하게 지상군을 파견해 대한민국과 자유민주주의를 수호하기 위해 싸웠다.&lt;br&gt;&lt;br&gt;한국 정부가 약 9000만원의 예산을 지원한 명비는 참전 용사 2482명의 이름을 담았다. 생존한 참전 용사와 세상을 떠난 참전 용사 이름을 알파벳순으로 새겼다. 대리석으로 제작된 명비는 2006년 세워진 6·25전쟁 참전기념비 하단에 만들어졌다. 에티오피아는 6·25전쟁에 3518명을 파병한 것으로 알려졌지만, 1970년대 말 공산 정권이 들어서면서 참전 기록이 소실돼 참전 용사 명단을 확인하는 데 어려움을 겪은 것으로 알려졌다. 보훈부는 앞으로 추가로 확인되는 참전 용사 이름을 담을 수 있게 명비에 여유 공간을 뒀다.&lt;br&gt;&lt;br&gt;보훈부에 따르면 에티오피아군은 6‧25전쟁에서 122명이 전사하고 536명이 부상을 입었다. 현재 60여 명의 참전 용사가 생존해 있다. 에티오피아는 1·2차 대전 당시 이탈리아의 침략을 받았지만 식민지가 되지 않고 독립을 지켜낸 아프리카 국가다. 6·25가 발발하자 하일레 셀라시 에티오피아 황제는 국제사회가 외면했던 자국의 아픈 역사를 떠올리며 파병을 결정했다고 한다.&lt;br&gt;&lt;br&gt;에티오피아는 영국군 교관에게 전문적인 군사훈련을 받은 황실 근위대 ‘강뉴(Kagnew)’ 부대를 파견했다. 강뉴는 에티오피아 말로 ‘초전박살’이라는 뜻이라고 한다. 파병된 에티오피아 참전 용사들은 아프리카에서 경험하기 어려웠던 눈과 추위를 견디면서도 253번의 전투를 치르면서 단 한 차례도 패배하지 않았다고 한다. 클리버 작전, 사태리 전투, 철원지구 전투, 김화지구 전투, 엉클고지 전투, 악어고지 전투 등에서 승리해 당시 미국과 한국 정부로부터 수많은 표창을 받았다. 강뉴 부대는 단 한 명도 포로로 잡히지 않았고 전사자의 시신도 모두 수습해 고국으로 돌아갔다.&lt;br&gt;&lt;br&gt;당시 참전했던 에티오피아 군인 중에는 부상을 입고 고국에서 치료를 받고 재참전한 군인도 있었다. 구르무 담보바(1920~2016) 이등병은 허벅지와 엉덩이에 관통상을 입고 고국으로 돌아갔다가 다시 한반도에 돌아왔다. 당시 에티오피아군이 최첨단 무반동총을 가장 잘 다루던 그를 다시 부른 것이다. 보훈부에 따르면 담보바는 “전쟁에 대한 참혹한 기억이 지워지지 않았지만 고통받는 한국인을 외면할 수 없었다”고 했다고 한다. 보훈부는 담보바를 2017년 8월의 전쟁영웅으로 선정했다. 강정애 보훈부 장관은 이번 에티오피아 방문에서 담보바의 딸 트르네프네시 구르무 담보바씨에게 이달의 전쟁영웅 선정패를 전달했다.&lt;br&gt;&lt;br&gt;1974년 군부 쿠데타로 에티오피아가 공산화되면서 참전 용사들은 반역자로 몰려 큰 고초를 겪은 것으로 전해진다. 이에 우리 정부와 기업들이 도움의 손길을 주고 있다고 한다. 보훈부는 에티오피아 참전 용사에게 지급되는 영예금을 기존 월 5만원에서 10만원으로 인상하기로 했다. 으스티파노스 겝레메스겔 에티오피아 6·25전쟁 참전용사협회장은 이날 “참전 용사들은 대한민국이 더욱 강한 나라가 되기를 기원하고 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>외국인 위한 국제하계대학 수료식</title>
+      <link>https://www.chosun.com/national/education/2024/08/07/P2ETQMGZYJDUJIFOGDC72IF7IQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/08/07/P2ETQMGZYJDUJIFOGDC72IF7IQ/</guid>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 16:31:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UOVZEJ3SJJC7VLALNWCJEQMNJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 서울 서대문구 신촌동 연세대 백주년 기념관에서 열린 2024 국제하계대학(YISS) 수료식에서 해외 대학 재학생들이 학사모를 던지고 있다. 올 여름 세계 77국 2400여 학생은 최장 6주간 연세대 캠퍼스에 머물며 7개 분야 100여 개 영어 강의를 듣고 기업 인턴십과 한국 문화 체험도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>줄어들긴커녕 더 늘어난 자살</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/08/07/MCZKV3A3RBB25DWVK2VOQ5BFMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/07/MCZKV3A3RBB25DWVK2VOQ5BFMQ/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 16:30:43 +0000</pubDate>
+      <content:encoded>우리나라 자살률이 세계 최고 수준을 보이는 가운데 올 1~5월 자살 사망자 수가 작년 같은 기간 대비 10%가량 증가한 것으로 나타났다. 코로나 장기화로 인한 우울·불안, 유명 배우 자살 사건 등이 영향을 미친 것으로 분석됐다.&lt;br&gt;&lt;br&gt;6일 보건복지부 등에 따르면 올해 1~5월 자살 사망자 수는 6375명으로 작년 같은 기간 대비 10.1% 증가했다. 작년 한 해 동안 자살한 사람은 1만3770명으로, 2022년(1만2906명) 보다 6.7% 늘었다. 복지부는 “올해 자살 사망자 수가 지난해보다 증가할 것으로 예상되는 심각한 상황”이라고 했다.&lt;br&gt;&lt;br&gt;자살 증가 원인으로는 ‘코로나 이후 우울·불안·경제난’이 꼽혔다. 백종우 경희대병원 정신건강의학과 교수는 “코로나가 지나가도 상황이 나아지지 않는 것에 대한 절망, 새로운 대인 관계 스트레스 등으로 자살자가 증가한 것으로 보인다”고 했다. 복지부는 “세계적으로 감염병, 지진, 전쟁 등 국가적 재난이 발생하고 2~3년 후 자살 사망자가 증가하는 경향이 있어 정책적 대비를 강화할 필요가 있다”고 밝혔다. 일본의 경우 2011~2017년 7년간 약 3조3000억원의 재정을 투입해 자살률을 인구 10만명당 20.9명에서 14.7명으로 줄인 사례가 있다.&lt;br&gt;&lt;br&gt;‘모방 자살’도 자살 증가 원인이다. 작년 12월 배우 이선균씨가 사망한 직후 7~8주간 자살 사망자가 늘었다. 복지부에 따르면, 한 명의 자살로 평균 6명의 유족이 발생하며, 자살 유족의 자살 위험은 일반인 대비 20배 이상이다.&lt;br&gt;&lt;br&gt;우리나라 자살률은 경제협력개발기구(OECD) 회원국 중 가장 높은 수준이다. 2020년 우리나라 인구 10만명당 자살자 수(24.1명)는 OECD 평균(10.7명)의 2배 이상으로, 유일하게 20명을 웃돌았다. 2위 리투아니아(18.5명)와 5.6명 차이가 났다.&lt;br&gt;&lt;br&gt;복지부는 6일 종교계·노동계·재계·언론계·학계 등과 ‘제2차 생명존중정책 민관협의회’를 열고 자살 예방 교육 의무화, 자살 수단 관리 강화 등 자살을 줄이기 위한 대책을 논의했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수능까지 100일… 조금만 더 힘내자</title>
+      <link>https://www.chosun.com/national/education/2024/08/07/YEN5TJNQ2BFYDGJDWVLX4NQRUI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/08/07/YEN5TJNQ2BFYDGJDWVLX4NQRUI/</guid>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 16:28:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F7KDTXDMQZAU3IOD2WAJXZXDTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2025학년도 대학수학능력시험(수능)을 100일 앞둔 6일 서울 성북구의 한 학원에서 수험생들이 자습을 하고 있다. 올해 수능은 11월 14일 실시된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[어떻게 생각?] 국기 경례·현충탑 헌화 못하겠다는 구치소장</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/07/7BAFBSV6MFDXHJNQFV2ZDMZKD4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/07/7BAFBSV6MFDXHJNQFV2ZDMZKD4/</guid>
+      <dc:creator>서보범 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 16:27:32 +0000</pubDate>
+      <content:encoded>여호와의증인 신도인 일선 구치소장이 종교적 신념을 이유로 국기에 대한 경례, 현충탑 현화 등을 거부해 법무부가 징계를 검토 중인 것으로 6일 알려졌다.&lt;br&gt;&lt;br&gt;지난 6월 한 구치소에 부임한 A 소장은 국기에 대한 경례, 애국가 제창 등이 식순에 포함된 취임식을 하지 않았다. 같은 달 4일 제69회 현충일 추념식 때도 현충탑 헌화를 하지 않았다. 구치소 내에서 “소장이 어떻게 국가 기본 예절을 지키지 않느냐”는 논란이 발생했다고 한다.&lt;br&gt;&lt;br&gt;그러자 A 소장은 최근 입장문을 내고 “국기에 대한 경례를 하지 않는 것이 민망해 취임식을 회피한 것이 아니다”라며 “근무 인사로 취임식을 대신했다”고 했다. 또 “현충탑 헌화는 하지 않았지만 간부들과 함께 현충탑을 방문해 최선을 다해 순국 선열에 대한 예의와 존중을 표했다”고 했다.&lt;br&gt;&lt;br&gt;A 소장이 믿는 여호와의증인은 국기에 대한 경례, 집총(執銃) 등을 교리로써 금지한다. 19세기 미국에서 발흥한 신흥 종교인 여호와의증인은 국기 등 상징물에 대한 경례를 ‘우상 숭배’라고 여긴다. 미국에선 1940년대부터 이 문제가 사회적 논란을 불러일으켰다. 여호와의증인은 이 밖에도 수혈을 거부하기도 한다.&lt;br&gt;&lt;br&gt;법무부는 관련 논란이 확산되자 A 소장의 행위가 국가공무원법상 품위유지의무 등을 위반한 것인지 검토 중이다.&lt;br&gt;&lt;br&gt;A 소장은 본지 취재에서 “대한민국 헌법은 종교를 이유로 차별받지 않도록 명시하고 있다”며 “특정 종교인이라고 일반 국민과 다른 가치관을 가지고 있지 않다”고 했다. 정부 관계자는 “종교는 개인의 양심의 자유에 해당하니 불가침의 영역”이라며 “다만 국가 공무원에게 요구되는 의례에 참여하지 않는 것이 문제라고 보는 시각이 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 전기차 화재, 스프링클러 먹통</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/07/JYO4HV62EBDYBEJSV7AQSACLQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/07/JYO4HV62EBDYBEJSV7AQSACLQ4/</guid>
+      <dc:creator>인천=이현준 기자, 금산=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 16:26:20 +0000</pubDate>
+      <content:encoded>지난 1일 인천 아파트 지하 주차장에서 발생한 전기차 화재 사고의 원인 조사가 본격 시작됐다. 화재 당시 전기차 주변의 스프링클러가 작동하지 않은 사실도 추가로 드러났다.&lt;br&gt;&lt;br&gt;6일 인천 서부경찰서 등에 따르면, 경찰은 전날 국립과학수사연구원과 지하 주차장을 합동 감식했고, 처음 불이 난 벤츠 EQE350 전기차를 인근 경찰서로 옮겼다. 조만간 사고 전기차에 대한 정밀 감식을 실시할 계획이다. 경찰 관계자는 “이번 사고의 주원인으로 지목되고 있는 배터리를 집중적으로 살펴볼 것”이라고 했다. 다만 차량이 전소해 원인 규명에는 시간이 걸릴 가능성이 있다.&lt;br&gt;&lt;br&gt;전기차 차주 A씨도 불러 조사한다. 차량 정비와 충전 이력, 화재 발생 전 행적 등을 확인할 방침이다. A씨는 앞서 지난달 29일 오후 7시 16분쯤 차를 주차한 뒤 운행한 적이 없다고 경찰에 진술했다. 경찰은 감시 카메라 영상 등을 통해 이 사실을 확인했다. 차량은 전기차 충전 구역이 아닌 일반 주차 구역에 주차 중이었는데, 59시간 뒤인 1일 오전 6시 15분쯤 연기가 피어오르며 갑자기 화재가 발생했다. 이를 두고 배터리 내부의 분리막 등이 손상돼 불이 났을 수 있다는 분석이 나온다.&lt;br&gt;&lt;br&gt;인천소방본부는 화재 당시 전기차 주변의 스프링클러가 작동하지 않은 사실을 확인하고 원인을 조사하고 있다. 소방 관계자는 “스프링클러가 정상 작동했다면 피해가 이렇게 크지는 않았을 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편, 이날 오전 5시쯤 충남 금산군의 한 공영 주차장에서도 전기차 화재 사고가 발생했다.&lt;br&gt;&lt;br&gt;이날 화재는 충전 중 발생했다. 소방 당국이 소방관 42명과 소방차 등 14대를 동원해 1시간 37분 만에 진화했다. 인명 피해는 없었다.&lt;br&gt;&lt;br&gt;금산소방서 관계자는 “주변에 주차된 차량으로 불이 번지는 것을 막기 위해 사람 발목까지 차오를 정도로 물을 많이 뿌렸다”며 “불길이 약해진 틈을 타 견인차로 전기차를 주차구획 밖으로 빼낸 뒤 질식 소화포를 씌웠다”고 했다. 경찰은 차량 하부에서 연기가 피어오르다 불이 난 점을 근거로 배터리를 화재 원인으로 보고 있다. 불이 난 전기차는 2022년식 기아 EV6 모델이다. 이 차량에는 국내 업체인 SK온 배터리가 장착된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>필리핀 가사 관리사 100명 입국</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/07/J4P3SKEIKJDRDMGYQM6VMUT6HA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/07/J4P3SKEIKJDRDMGYQM6VMUT6HA/</guid>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 16:11:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBZBQUO7NBDFBBEGCMZJS7LHCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/공항사진기자단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 오전 서울시와 고용노동부가 추진하는 ‘외국인 가사관리사’ 시범 사업에 참여하는 필리핀 가사 도우미 100명이 인천국제공항 제1터미널을 통해 입국하고 있다. 이들은 필리핀 정부 인증 자격증을 취득한 24~38세의 가사 도우미로, 다음 달부터 6개월간 서울 시내 가정에서 일하게 된다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 유정(油井)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2024/08/07/3ZANUK2B7NCX5F5PFHYV2MXKRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/08/07/3ZANUK2B7NCX5F5PFHYV2MXKRQ/</guid>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LWKC2DEQD5CXNB44DFQDLTKUFU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[입에 착착 붙는 일본어] 한바탕 땀을 흘리다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2024/08/07/FT5FE4236NBH5LNVP62I4ELZ34/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/08/07/FT5FE4236NBH5LNVP62I4ELZ34/</guid>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLZMF5TLDZCGPKBDC2JWWUXWII.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디] 비가 그치지 않고 계속 내리다</title>
+      <link>https://www.chosun.com/national/nie/chinese/2024/08/07/Z62L344UCBHPHOMAGKTZTT4QMM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/08/07/Z62L344UCBHPHOMAGKTZTT4QMM/</guid>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E26WJVBXRNCI3L23QROF4ICEMY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] keep it to yourself</title>
+      <link>https://www.chosun.com/national/nie/english/2024/08/07/VJSXCUA7C5FGLEMM7H723MBSH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/08/07/VJSXCUA7C5FGLEMM7H723MBSH4/</guid>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3X5WP5XRWBDJTOYHT6OCYWAW6Y.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2437] 손가락 낭독회</title>
+      <link>https://www.chosun.com/national/nie/2024/08/07/JN3QHXS3HVF2XLJTTP3BACDC6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/07/JN3QHXS3HVF2XLJTTP3BACDC6M/</guid>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UIPNNMO76RHWHAV4TQE63GHJP4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [예쁜 말 바른 말] [357] ‘맛깔스럽다’와 ‘맞갖다’</title>
+      <link>https://www.chosun.com/national/nie/2024/08/07/VQ3RFLRUBNBIFASY3XMZWUJLUI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/07/VQ3RFLRUBNBIFASY3XMZWUJLUI/</guid>
+      <dc:creator>류덕엽 교육학 박사·전 서울 양진초 교장</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 15:30:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2PIH4LSUYJGXJJEJJJCIGWCWSA.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;*할머니는 (맛갈스러운, 맛깔스러운) 음식을 맛볼 수 있는 재래시장을 자주 들르신다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;*”(맞갖지, 맛같지) 않은 음식이라도 많이 드세요.”&lt;/b&gt;&lt;br&gt;&lt;br&gt;괄호 안에 들어갈 알맞은 말을 골라 보세요. 정답은 ‘맛깔스러운’과 ‘맞갖지’입니다.&lt;br&gt;&lt;br&gt;‘맛깔스럽다’는 음식 맛에서 느끼는 성질을 뜻하는 ‘맛깔’이란 명사에 ‘-스럽다’는 접미사가 붙은 단어예요. ‘음식이 입에 당길 만큼 먹음직하다’는 의미로, ‘이 식당은 음식을 맛깔스럽게 한다’와 같이 쓸 수 있어요. 또 ‘마음에 들다’라는 의미도 있습니다. ‘바로 먹으면 더욱 맛갈스러운 음식’ ‘맛갈스러운 도시락’처럼 잘못 쓰는 일이 많은데요. ‘맛갈스럽다’ ‘맛갈나다’ ‘맛깔지다’ 등은 비표준어랍니다.&lt;br&gt;&lt;br&gt;‘맞갖다’는 ‘마음이나 입맛에 꼭 맞다’라는 뜻을 가지고 있어요. 예를 들면 ‘마음에 맞갖지 않은 일자리라서 거절했다’와 같이 써요. 유의어로는 ‘달갑다’ ‘마뜩하다’ 등이 있어요. ‘맛갓다’ ‘맛같다’ ‘맞같다’는 틀리는 표현입니다. 반대말은 ‘맞갖잖다’로 ‘마음이나 입맛에 맞지 아니하다’를 뜻해요.&lt;br&gt;&lt;br&gt;&lt;b&gt;[예문]&lt;/b&gt;&lt;br&gt;&lt;br&gt;-어머니가 만들어준 음식은 언제나 맛깔스러웠다.&lt;br&gt;&lt;br&gt;-찌개가 맛깔스럽게 뚝배기에서 끓고 있었다.&lt;br&gt;&lt;br&gt;-아빠는 음식이든 무엇이든 엄마 손길이 닿지 않으면 마음에 맞갖지 않다고 말씀하셨다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [숨어있는 세계사] 달리는 말 위서 몸 돌려 명중… ‘파르티아식 활쏘기’래요</title>
+      <link>https://www.chosun.com/national/nie/2024/08/07/4DBJRWNJTFAT7BGIEUX76D26PM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/07/4DBJRWNJTFAT7BGIEUX76D26PM/</guid>
+      <dc:creator>정세정 장기중 역사 교사, 기획·구성=오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WFCSJERF3NFEVFN2T2UXYY6ELM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;화살을 쏘는 몽골군을 묘사한 그림들. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 파리 올림픽에서 우리나라 양궁 대표팀의 메달 소식이 연이어 들려왔어요. 선수들은 금메달 5개, 은메달 1개, 동메달 1개를 획득하며 한국 양궁의 위력을 보여줬어요.&lt;br&gt;&lt;br&gt;양궁은 우리나라 전통 활쏘기와 구분하기 위해 서양에서 들어왔다는 뜻으로 붙인 이름이에요. 전통적으로 우리 민족은 활쏘기에 능했고 활을 잘 만들었다고 알려져 있어요. 세계사를 들여다보면 우리 외에도 활쏘기로 유명한 민족들이 있는데요. 오늘은 활과 화살을 잘 다뤘던 민족들 이야기를 살펴보겠습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;활과 화살&lt;/b&gt;&lt;br&gt;&lt;br&gt;고대인에게 사냥을 효율적으로 하는 것은 생존과 직결되는 문제였어요. 새로운 사냥 도구를 고안해내는 것은 기술 혁신의 기원이라고 볼 수 있지요. 활과 화살은 정말 중대한 발명이었어요. 발 빠른 작은 짐승들을 사냥하기 위해 꼭 필요한 도구였기 때문이에요. 사냥을 위해 만들어진 활과 화살은 시간이 지나면서 강력한 군사력의 핵심이 되었어요.&lt;br&gt;&lt;br&gt;&lt;b&gt;파르티아와 활쏘기&lt;/b&gt;&lt;br&gt;&lt;br&gt;기원전 3세기 중엽 이란계 유목민이 세운 고대 국가 파르티아는 한나라와 인도 등을 연결하는 중계무역으로 번성한 나라예요. 그런데 이 민족은 기마병의 활쏘기로도 유명했어요. 기마병이 양다리로 말을 잡고 뒤쪽으로 몸을 돌려 양손으로 화살을 쏘는 것을 ‘파르티아식 활쏘기’라고 부를 정도예요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNRL4X4UGNBSNETNMYYFFCL3WQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;달리는 말 위에서 몸을 뒤로 돌려 화살을 쏘는 자세인 ‘파르티아식 활쏘기’를 새긴 작품들. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;파르티아 군대가 활과 화살을 얼마나 잘 다루었는지는 로마와 벌인 카르헤 전투를 보면 알 수 있어요. 기원전 53년 로마 공화정의 정치가이자 장군인 크라수스는 영토를 넓히기 위해 파르티아와 전쟁을 시작했는데요. 파르티아군은 창과 칼·방패로 무장한 로마군을 상대하기 위해 기마병을 활용해 신속하게 치고 빠지는 게릴라식 전술을 사용했어요.&lt;br&gt;&lt;br&gt;파르티아 기마병들은 말을 탄 상태에서 좌우로 자유롭게 몸을 돌리며 활을 쏘았고, 후퇴하는 척하면서 몸을 뒤로 돌려 다시 화살을 쏘기도 했지요. 로마 보병들은 말을 타고 빠르게 달리는 파르티아의 기마병들을 따라잡기 힘들었고, 또 기마병들이 자유자재로 몸을 돌려 쏘는 화살을 피하기 어려웠어요. 결국 로마군은 전쟁에서 패했어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6MQSTEHYXRGWFLWK3C5C7ZU62A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;달리는 말 위에서 몸을 뒤로 돌려 화살을 쏘는 자세인 ‘파르티아식 활쏘기’를 새긴 작품들. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;파르티아군처럼 말을 타고 달리며 화살을 쏘는 건 매우 어려운 일이에요. 빠르게 달리는 말 위에서 목표물을 정확하게 조준해야 하기 때문이에요. 고삐를 놓고 양다리로만 몸을 지탱해야 하기도 하죠. 하지만 파르티아는 유목민이 세운 나라였기 때문에 대부분 말을 타고 달리는 것에 익숙했고 말 위에서 움직임이 자유로울 수 있었던 것으로 보여요. 말을 타고 빠르게 다가가 화살로 공격하고, 도망치면서도 말 위에서 화살을 쏘는 등의 전투 방식에 유리한 환경이었던 것이죠.&lt;br&gt;&lt;br&gt;&lt;b&gt;훈족의 활과 화살&lt;/b&gt;&lt;br&gt;&lt;br&gt;훈족은 4세기 유럽으로 이동하며 게르만족 대이동을 촉발한 기마 유목 민족이에요. 훈족은 어떻게 게르만족을 밀어냈을까요? 훈족의 우수한 활쏘기 방식에 바로 그 답이 있어요.&lt;br&gt;&lt;br&gt;유목 민족으로 기동성이 중요했던 훈족에게 말은 아주 중요했어요. 훈족의 말은 오늘날 사냥용 말보다 어깨 폭이 20㎝가량 좁아 스피드가 뛰어났다고 해요. 험준한 산악 지형이 아닌 곳에선 매일 수십 킬로미터를 달릴 수 있었다고도 해요. 또 풀을 찾는 능력이 뛰어나 사육에 큰 힘이 들지 않았다고 해요. 더하여 훈족 아이들은 어릴 때부터 말 타는 법을 배웠고, 그래서 그들은 말을 탄 채로 자는 것 빼곤 뭐든 할 수 있었다고 알려져 있어요. 훈족 병사들은 전시에 한 명당 6~7마리 말을 데리고 다니면서 상황에 따라 말을 바꾸어 타며 전투에 임했대요.&lt;br&gt;&lt;br&gt;훈족은 ‘나무 안장’을 사용했어요. 훈족의 안장은 나무 버팀목이 있어 말을 타고 달릴 때 기수에게 안정감을 주었다고 해요. 훈족은 또 ‘등자’도 사용했어요. 발을 받쳐주는 가죽 밴드나 발 주머니를 안장에 달아 장기간 말을 탈 때 다리가 피곤해지지 않도록 했지요. 또 등자에 다리를 고정하면 달리는 중에도 사방으로 화살을 쏠 수 있었어요.&lt;br&gt;&lt;br&gt;훈족은 당시 누구도 따라올 수 없는 활과 화살 제조법을 가지고 있었대요. 바로 복합궁과 도끼날 화살촉이에요. 복합궁은 여러 가지 재료를 조합해 만든 활을 말해요. 훈족은 자신들의 복합궁을 만드는 데 5년, 이 활을 제대로 쏘기 위한 기술을 익히는 데 10년 정도 걸렸어요. 하지만 일단 활시위를 당기기 위한 준비가 끝나면 1분 안에 무려 10여 발을 쏠 수 있었다고 해요. 훈족은 여기에 더해 특수 제작한 도끼날 화살촉을 사용해 목표물에 엄청난 충격을 가했다고 해요.&lt;br&gt;&lt;br&gt;&lt;b&gt;몽골의 전략과 전술&lt;/b&gt;&lt;br&gt;&lt;br&gt;몽골은 역사상 가장 넓은 영토를 차지했던 민족이에요. 그들이 가장 많이 사용한 전술은 거짓으로 후퇴하는 것이었어요. 후퇴하는 척하면서 끌고 나온 적군을 매복해 있던 다른 몽골군이 포위해 궤멸하는 것이죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HXKCSCAPBVHY3FMACWML3RLNYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;화살을 쏘는 몽골군을 묘사한 그림들. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 전술이 가능하려면 역시 말을 잘 타야 했고, 활도 잘 쏴야 했어요. 몽골에서는 남녀 모두 어렸을 때부터 말을 탔고, 빠르게 달리는 말 위에서 활을 쏘아 명중시키는 법을 배웠다고 해요. 특히 말을 타고 달려가면서 기둥에 묶인 호리병 바가지를 쏘아 맞히는 훈련을 했다고 해요. 기둥 높이를 달리해 목표물이 달라지는 전투 상황에 대비한 연습을 했다고 해요.&lt;br&gt;&lt;br&gt;몽골군의 주력 무기도 복합궁이었어요. 뿔과 나무, 아교 등으로 활을 만들었어요. 최대 사거리는 300m 정도였고, 정확도와 관통력이 높았다고 해요. 먼 거리에서 쏜 화살로 적의 갑옷을 뚫고 치명상을 입히려면 화살촉이 중요한데요. 강철과 뼈, 뿔 등으로 만든 여러 종류의 화살촉을 사용했다고 해요. 그리고 평소에도 화살촉을 예리하게 다듬었다고 해요. 몽골족은 이러한 고도의 궁술로 넓은 영토를 획득할 수 있었답니다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [동물 이야기] 30㎏ 물건도 들어 올리는 커다란 집게발… 잡으면 다 가져가 ‘강도 게’로도 불렸죠</title>
+      <link>https://www.chosun.com/national/nie/2024/08/07/LLVAPTS52FHOFOXWJ3VD3MCTT4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/07/LLVAPTS52FHOFOXWJ3VD3MCTT4/</guid>
+      <dc:creator>정지섭 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N6D637D2EZGJJGCOQAKVBG2ADQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뭍에서 살아가는 갑각류 중에 가장 덩치가 큰 야자집게. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국의 한 안경 브랜드가 여성 최초로 대서양 횡단 비행에 성공한 조종사 어밀리아 에어하트의 생일(7월 24일)을 기념하는 한정판 선글라스를 만들었대요. 에어하트는 40세이던 1937년 세계 일주 비행에 나섰다가 뉴기니섬을 이륙한 뒤 영영 실종됐죠. 그의 실종을 두고 여러 가지 추측이 제기됐는데요. 일부 학자는 야자집게가 시신을 먹었기 때문에 찾을 수 없게 됐다고 주장해 화제가 됐어요.&lt;br&gt;&lt;br&gt;조금은 섬뜩한 이야기의 주인공인 야자집게는 어떤 동물일까요? 집게 하면 우선 게와 가재를 반반씩 닮은 생김새로 단단한 소라 껍데기에 몸통을 말아넣고 바닷가를 쪼르르 다니는 모습이 생각나죠? 야자집게는 집게를 포함해 뭍에서 살아가는 갑각류 중에 가장 덩치가 크답니다. 태평양과 인도양의 해안가와 섬 지역에 살고 있어요. 어마어마한 덩치에 걸맞게 힘도 아주 세서 30㎏ 정도 물건도 거뜬히 들어 올릴 수 있대요.&lt;br&gt;&lt;br&gt;커다란 집게발로는 단단한 야자열매를 부수고 속의 과육을 꺼내 먹는답니다. 이름 때문에 야자열매만 먹을 것 같지만 그렇지 않아요. 다른 열매는 물론이고, 동물의 사체도 즐겨 먹어요. 심지어 다른 동물의 대변을 먹기도 하죠. 왕성한 먹성 때문에 에어하트의 시신을 영영 찾을 수 없게 한 ‘주범’으로 지목되고 있는 거죠. 야자집게는 처음 보는 물건이라도 일단 먹잇감이 될 수 있는지 확인하기 위해 무작정 끌고 가는 습성이 있어요. 찰스 다윈은 위스키병이나 시계 등 물건을 닥치는 대로 가져가는 모습 때문에 야자집게를 ‘강도 게’라고 불렀대요.&lt;br&gt;&lt;br&gt;야자집게는 햇살이 뜨거운 낮 시간에는 구덩이 속에서 머물다가 해가 지고 나면 나와서 먹이 활동을 해요. 날카롭게 휜 발을 활용해 나무도 잘 올라가요. 이처럼 일생의 대부분을 뭍에서 보내지만 번식만큼은 여느 갑각류들처럼 물에서 한답니다. 암컷이 품고 다니다 바닷속에 풀어놓은 알에서 새끼들이 부화해요. 새끼들은 해류를 타고 이곳저곳을 떠돌아 다니다가 바다 바닥에 자리를 잡고 어른 집게와 비슷한 모습으로 변해가요. 이후 뭍으로 나와 여느 집게들과 마찬가지로 자신의 몸에 알맞은 껍데기를 찾아서 몸통과 꼬리를 말아넣은 뒤 업고 다니죠.&lt;br&gt;&lt;br&gt;야자집게의 수명은 최장 60년으로 아주 오래 산답니다. 다만 성장 속도는 느린 편이에요. 알에서 부화한 새끼가 번식 능력을 갖춘 어른이 되려면 5년이나 걸려요. 몸이 점차 커지면 소라 껍데기는 필요하지 않게 돼요. 그래서 다 자란 야자집게는 얼핏 집게보다는 게와 비슷하게도 보여요. 어른이 된 야자집게는 천적이 거의 없지만 음식 재료로 남획되고 있어 체계적인 관리가 필요하다는 얘기가 나오고 있어요.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2024년 8월 7일</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/07/XC5GWWX55BB6DPTANZAGPSXZWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/07/XC5GWWX55BB6DPTANZAGPSXZWY/</guid>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M35DTOBCNVDKJLL4B5MD3PNGNE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“현금만 1200억” 서장훈 앞에서 재력 과시했던 사업가, 사기 혐의로 기소</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/06/M74LMWOAWNC6ZLQKMTOLJ7W6S4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/06/M74LMWOAWNC6ZLQKMTOLJ7W6S4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 14:59:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JUU7ALVSPRBVHOVP36EQUWISQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;데이비드 용. /데이비드 용 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;각종 예능프로그램에 출연하며 국내에 얼굴을 알린 싱가포르 사업가 데이비드 용(37)이 사기 혐의로 체포돼 재판에 넘겨진 것으로 알려졌다.&lt;br&gt;&lt;br&gt;6일 비즈니스 인사이드 등 외신보도에 따르면 데이비드 용은 자신이 운영하는 에버그린 그룹 홀딩스와 관련된 계좌 위조 혐의 등으로 지난 1일 체포됐고, 지난 3일 기소됐다.&lt;br&gt;&lt;br&gt;데이비드 용은 지난 2021년 계열사 직원에게 가전제품 등을 대량 판매한 것처럼 세금계산서를 위조하도록 지시했다는 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;외신들은 데이비드 용이 법원에서 유죄 판결을 받으면 최대 징역 10년형이 예상된다고 전했다.&lt;br&gt;&lt;br&gt;데이비드 용은 최근까지 KBSN ‘무엇이든 물어보살’, 넷플릭스 오리지널 예능 ‘슈퍼리치 이방인’, 채널A ‘오은영의 금쪽상담소’ 등 다양한 예능프로그램에 출연해 왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YVQQSIUO2RBQTMM6D43UVKZOL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서장훈이 진행하는 KBSN ‘무엇이든 물어보살’에 출연한 데이비드 용. /KBSN ‘무엇이든 물어보살’&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그는 방송인 서장훈이 진행하는 프로그램에 출연해서는 자신이 현금만 1200억원을 보유하고 있으며, 아시아에 통틀어 15채의 건물을 가지고 있다고 주장했다. 당시 재력가인 서장훈조차 데이비드 용에게 공손한 태도를 보여 웃음을 자아냈었다.&lt;br&gt;&lt;br&gt;한편 데이비드 용은 국내 엔터사인 어트랙트와 MOU를 체결한 바 있다. 데이비드 용이 사기 혐의로 기소됐다는 소식이 전해 후 어트랙트 측은 데이비드 용에게 입은 피해는 없다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>20년만에 金 회식이 김치찌개...김연경이 사비로 레스토랑 쏜 까닭</title>
       <link>https://www.chosun.com/national/national_general/2024/08/06/3BZEOOB4IND6VL7KTWUS2KS5NA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/06/3BZEOOB4IND6VL7KTWUS2KS5NA/</guid>
@@ -672,64 +892,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MTSHNKWBYVF6NIA74L3IAEUPTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 서울 영등포구 여의도성모병원의 외래 및 퇴원 수납 접수 창구가 대부분 비어 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 여의도에 있는 여의도성모병원이 경영난으로 병상을 축소하기로 했다. 의료계에서는 “빅5 병원으로 환자가 쏠리는 사이 지역 종합병원들이 고사하는 현실을 상징적으로 보여주는 것”이라는 말이 나왔다.&lt;br&gt;&lt;br&gt;5일 의료계에 따르면, 가톨릭중앙의료원의 모태 병원인 여의도성모병원은 최근 직원들을 대상으로 근무지 이동 조사를 진행하고 있다. 이 병원은 535병상 규모에 직원 1300여 명이 근무 중인데, 이번 조사는 병상 축소와 직원 감축 등 구조 조정을 염두에 둔 것이다. 병원 관계자는 “최근 의료 사태와는 무관하게 병원 경영 효율화 등을 위한 것”이라면서도 “병상 축소 규모나 직원 전환 배치 수준 등은 내부 검토 중”이라고 했다. 여의도성모병원은 2021~2022년 2년 연속 적자를 기록했다.&lt;br&gt;&lt;br&gt;1936년 서울 명동에서 개원해 1986년 여의도로 이전한 여의도성모병원은 정치·금융의 중심지이자 서울 내 대표적 고급 주거 지역으로 꼽히는 여의도 유일의 종합병원이다. 여의도로 이전한 직후 ‘가톨릭 암센터’를 설립하는 등 국내 최초로 암 진료 전문 센터를 보유한 병원이었다.&lt;br&gt;&lt;br&gt;하지만 2009년 서울 반포동 강남성모병원이 서울성모병원으로 간판을 바꿔 단 이후 진료 영역이 지속적으로 줄었다. 여의도성모병원의 암센터와 백혈병센터 등 핵심 진료 센터가 서울성모병원으로 넘어갔다. 2015년부터는 서울성모병원은 중증 질환 치료에, 여의도성모병원은 고위험 산모·신생아 치료와 호스피스 분야에 집중하는 ‘원 호스피털(One Hospital·하나의 병원)’ 체제가 도입됐다.&lt;br&gt;&lt;br&gt;여의도성모병원은 2014년 상급종합병원 지정에서 탈락했고, 최근 공개된 대형 병원 중환자실 평가에서 2등급을 받는 등 하락세가 여전하다. 반면 서울성모병원은 성장세를 이어가고 있다. 여의도성모병원의 시설이 비교적 노후화된 데다 서울성모병원과 거리가 가까운 것도 영향을 미쳤다. 두 병원은 차량으로 약 20분(8.6㎞), 지하철로는 7정거장 거리에 있다. 여의도성모병원의 연간 외래 환자 수는 2014년 55만여 명에서 2022년 58만여 명으로 ‘제자리걸음’에 그쳤지만, 서울성모병원은 같은 기간 159만여 명에서 179만여 명으로 크게 늘었다.&lt;br&gt;&lt;br&gt;의료계 관계자는 “여의도성모병원의 기능 축소 이후 환자들이 서울성모병원으로 쏠리는 현상이 누적됐다”며 “여기에 더해 최근 전공의 사태로 경영 상황이 더 어려워지자 구조 조정을 결정한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>션 “순수 기부액은 60억원...지누션 활동 땐 많이 못 벌어”</title>
-      <link>https://www.chosun.com/national/people/2024/08/06/KPP5K34CDRHJJFBVJ7LJCXEVHQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/06/KPP5K34CDRHJJFBVJ7LJCXEVHQ/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 15:44:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MKKYIHOWK5HGNPFQAKXZUU5KFU.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 31일 유튜브 채널 ‘션과 함께’에 출연해 네티즌들의 질문에 대답하는 션./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 지누션 멤버 션(53)이 아내 정혜영(51)과 함께 기부한 순수 금액이 60억 원이라고 밝혔다.&lt;br&gt;&lt;br&gt;지난달 31일 유튜브 채널 ‘션과 함께’에는 ‘왜 이렇게 돈이 많냐고요?’라는 제목의 영상이 올라왔다. 션은 네티즌들이 남긴 질문들에 대해 대답했다.&lt;br&gt;&lt;br&gt;‘연예 활동 없이 돈을 어떻게 버냐’는 질문에 션은 “사람들이 TV에 안 보이면 연예인은 손가락만 빨고 사는 줄 아는데 그렇지 않고 TV에 안 보일 때 오히려 더 많은 활동을 하는 경우도 많다”며 “강연을 예전에 많이 다닐 때는 1년에 100개를 넘게 다녔다. 하루에 다섯 번 간 적도 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “그리고 제가 엠버서더 하는 게 한 5가지 있다며 그렇게 가족도 먹고 살고 기부도 하고 그러면서 살고 있다고 덧붙였다.&lt;br&gt;&lt;br&gt;그는 기부와 후원을 명확하게 구분했다. 그는 아내와 돈을 벌어 함께 기부한 순수 금액만 60억원이라고 했다. 션은 “코로나19 때 시작해서 2020년부터 제가 기부 마라톤으로만 모금한 돈이 55억 원 정도였고, 그 돈으로 여러 가지 일을 했다”며 “루게릭 요양 병원과 관련해서는 218억 원 중 6억 원은 순수 우리 부부가 기부를 했다. 그 외에는 모금한 금액”이라고 설명했다.&lt;br&gt;&lt;br&gt;션은 “후원은 제가 기부하는 것과 다른 것”이라며 “기부했다고 (기사가) 나는 건 제가 돈을 번 거를 기부한 것이고, 기부 마라톤이나 이런 건 (개인들의) 참가비와 기업의 후원을 받아서 어떤 (의미있는) 일에 쓰는 것”이라고 했다.&lt;br&gt;&lt;br&gt;다만 지누션 활동 당시엔 사람들이 생각하는 만큼 많은 돈을 벌지는 못했다고 밝혔다. 션은 “90년대 가수들이 공통적으로 하는 얘기일 거다. 가수가 작사, 작곡 모든 걸 직접 하면서 1인 기획사식으로 활동을 해야 (돈을 많이 버는데)”라며 “그때(지누션으로 활동할 당시)는 그런 시스템이 아니었다”고 말했다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “말이 좋아 60억 원이지 진짜 어마어마한 기부액이다. 기업 회장도 아니고 개인 수준에서 60억 원이라니, 정말 좋은 사람이다” “루게릭 병원 지어 주셔서 감사하다. 국가가 못하는 일을 해주셨다” “진짜 대한민국 0.1%다. 엄청난 분이다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;한편 션은 1997년 YG엔터테인먼트 소속으로 지누와 함께 힙합 듀오로 데뷔했다. 지누션은 ‘말해줘’, ‘전화번호’ 등의 곡으로 대중에게 큰 사랑을 받았다. 션은 현재 ‘착한 러닝’으로 다양한 기부 문화 형성에 앞장서고 있다. 이외에도 독립유공자 후손 주거 개선을 비롯해 화보 수익금 기부, 국내외 어린이 후원, 연탄배달 봉사활동 등 선한 영향력을 떨치고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2436] 따르릉 글자교환소</title>
-      <link>https://www.chosun.com/national/nie/2024/08/06/OWPUEGS6JVG5XOADAPSJUMDCAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/06/OWPUEGS6JVG5XOADAPSJUMDCAQ/</guid>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7MI32GEO2FGH7PQ3DB7NFLAWPU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 어진(御眞)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/08/06/SFRYDNDYUJGJVMYPXBZWNLPTQU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/08/06/SFRYDNDYUJGJVMYPXBZWNLPTQU/</guid>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HOM2H6BOG5AGJENQFGJRBUIFL4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 이목을 집중시키다, 주목을 끌다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/08/06/57VJDFFXMZDC3HUXJ6BPRX3B3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/08/06/57VJDFFXMZDC3HUXJ6BPRX3B3E/</guid>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z6VRWXOW5VCRPCMEW4I2TQOAXE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 놀라게 하다, 무섭다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/08/06/UOW7E5RFBRBOHNXADBIFGA4E4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/08/06/UOW7E5RFBRBOHNXADBIFGA4E4M/</guid>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/42NLHZG5QNEY3OCBTRU5ZSDQDM.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] get better with time</title>
-      <link>https://www.chosun.com/national/nie/english/2024/08/06/G4GK2ETHWFHONO2S3RHTABNAPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/08/06/G4GK2ETHWFHONO2S3RHTABNAPU/</guid>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5C5DJPOD6VHB7BQK33OZTFWCMM.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [디자인·건축 이야기] 파리 밤하늘에 둥둥 떠 있는 성화대… 최초의 유인 열기구에서 영감 얻었죠</title>
-      <link>https://www.chosun.com/national/nie/2024/08/06/OBGXCYMSUZHPBI6CL6T22SKN6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/06/OBGXCYMSUZHPBI6CL6T22SKN6A/</guid>
-      <dc:creator>전종현 디자인·건축 저널리스트</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 15:42:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OFFWBWXDCJB25ICSERK3T2V7U4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;파리 하늘에 떠 있는 ‘열기구 성화대’ 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제33회 파리 올림픽이 지난달 26일 개막했어요. 이번 파리 올림픽은 올림픽 역사상 처음으로 경기장이 아닌 야외에서 개회식을 진행해 여러모로 화제를 모았는데요. 개회식에서 성화가 점화된 성화대는 이번 올림픽 최고 명물 중 하나가 됐습니다.&lt;br&gt;&lt;br&gt;파리 올림픽 성화대는 원형 솥에 지름 약 20m의 거대한 공기 주머니를 연결한 ‘열기구 성화대’예요. 이는 1783년 프랑스의 몽골피에 형제가 만든 최초의 유인 열기구에서 영감을 받아 디자인했다고 합니다. 열기구 성화대는 몽골피에 형제의 유인 열기구가 떠올랐던 장소인 튀일리 정원 중앙에 케이블로 연결돼 있어요. 낮에는 케이블을 당겨 땅 위에 내려놓았다가, 오후 10시에 케이블을 풀어 새벽 2시까지 하늘에 올려 놓는답니다.&lt;br&gt;&lt;br&gt;올림픽 최초의 성화대는 1928년 암스테르담 올림픽 때 등장한 것으로 볼 수 있어요. 당시 경기장 외벽에 높고 가느다란 타워를 만들고, 타워 꼭대기의 원형 접시에 불을 피워 멀리 있는 시민들도 경기가 열리는 걸 알 수 있도록 한 게 시작이었죠.&lt;br&gt;&lt;br&gt;이후 1936년 베를린 올림픽 때부터 고대 올림픽 발상지인 그리스 올림피아의 헤라 신전에서 오목 거울로 태양 빛을 모아 성화를 피우고, 이후 성화를 개최 도시까지 릴레이로 봉송한 후 스타디움의 성화대에 점화하는 시스템을 도입했어요.&lt;br&gt;&lt;br&gt;역대 올림픽 성화대 중 가장 뛰어나다고 회자되는 예는 2016년 리우 올림픽과 2012년 런던 올림픽입니다. 리우 올림픽 성화대는 미국의 조각가 안토니 하위가 만든 작품이에요. 성화를 담은 솥단지가 중심에 있고, 이 주변으로 수많은 금속구와 금속판이 방사형으로 배치돼 끊임없이 회전하며 빛을 반사하고 왜곡하는 모습이 환상적입니다. 생명의 근원이자 브라질의 열정을 상징하는 태양의 역동성을 표현했다고 해요.&lt;br&gt;&lt;br&gt;런던 올림픽 성화대는 토머스 헤더윅이 디자인했어요. 토머스 헤더윅은 참가국 수에 맞춰 꽃잎 모양의 구리 사발 204개를 만들었어요. 그리고 이를 주경기장 중앙 바닥에 방사형으로 납작하게 눕혀 놓은 봉에 결합했죠. 점화식 후 타오르던 구리 사발이 하늘을 향해 천천히 일어서며 흩어졌던 불꽃이 하나로 합쳐지는 장관이 연출됐어요. 이는 ‘하나의 삶’이라는 런던 올림픽 슬로건을 표현했다고 해요.&lt;br&gt;&lt;br&gt;개회식에서 점화된 후 폐회식까지 성화가 유지되는 성화대는 선수와 심판, 관중 모두의 마음에서 타오르는 올림픽 정신을 상징하기 때문에 의미가 남다른데요. 올림픽에 대한 각종 세부 사항을 까다롭게 확인하기로 유명한 국제올림픽위원회(IOC)가 내세우는 성화대 관련 규정은 의외로 단순해요. 일단 성화가 꺼지지 않아야 하는 건 기본이고, 올림픽 기간 동안 경기장 밖 시민들도 볼 수 있어야 해요. 그래서 성화대는 보통 주경기장 제일 높은 곳에 자리 잡거나, 개회식이 끝난 후 주경기장 밖에 별도로 설치되는 경우가 많아요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [사소한 역사] 기원전 5000년 목동들이 마시던 우유, 더운 날씨에 발효되자 색다른 맛 났어요</title>
       <link>https://www.chosun.com/national/nie/2024/08/06/HA2UDUTTRNEYZGHGSYXQ5VTBMU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/06/HA2UDUTTRNEYZGHGSYXQ5VTBMU/</guid>
@@ -737,23 +899,6 @@
       <description/>
       <pubDate>Mon, 05 Aug 2024 15:42:13 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JLZ4JJXBNZDI3KK4PJPJXAAQMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일반 요구르트에 비해 단백질 등이 풍부하게 들어 있는 ‘그릭요구르트’. /신지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;탕후루에 이어 ‘요구르트 아이스크림’이 유행입니다. 요구르트를 얼려 만든 요구르트 아이스크림에 과일이나 과자 등을 토핑으로 올려서 먹는 거예요. 요구르트는 요구르트 아이스크림이 유행하기 전에도 일상에서 쉽게 접할 수 있는 건강 간식이었는데요. 오늘은 요구르트의 역사에 대해 알아볼게요.&lt;br&gt;&lt;br&gt;요구르트는 유산균을 이용하여 우유를 발효시킨 식품이에요. 주로 소의 젖을 이용해 만들지만, 어떤 지역에서는 낙타나 산양 등의 젖을 이용해 만들기도 한대요.&lt;br&gt;&lt;br&gt;요구르트가 언제 만들어진 간식인지 정확하게 알려진 건 없어요. 다만 기원전 5000년쯤 메소포타미아 지역에서 목동들이 만든 것으로 추정돼요. 목동들이 동물의 위장관으로 만든 자루에 담아 놓은 우유가 더운 날씨와 위장관 자루에 남아있던 세균에 의해 발효되면서 우리가 알고 있는 요구르트의 맛이 난 것이죠. 이 외에도 고대 인도의 기록에 발효된 유제품을 먹는 것이 건강에 좋다고 나와 있고, 칭기즈칸은 몽골 병사들에게 요구르트를 먹였다고 해요.&lt;br&gt;&lt;br&gt;요구르트가 건강에 좋다고는 하지만 구체적으로 왜 좋은지 과학적으로 밝혀진 때는 생각보다 최근이에요. 러시아 출신 과학자 메치니코프는 노화에 대해 연구하던 중 불가리아 지방의 노인들이 100세가 넘도록 장수하는 이유에 주목했어요. 그리고 메치니코프가 밝혀낸 장수의 비법은 유산균 발효유였답니다.&lt;br&gt;&lt;br&gt;1907년 그는 논문을 발표했습니다. 인간의 장 속에 소화되지 않은 음식물과 배출되지 못한 숙변이 독이 돼 수명을 단축시키고 노화를 일으키지만, 불가리아 지역의 노인들은 장내 독소를 쫓아내는 유산균 발효유를 일상적으로 마시기 때문에 장수할 수 있다고 설명했어요. 이후 유산균이 풍부한 요구르트는 세계인이 즐겨 먹는 음식이 됐답니다.&lt;br&gt;&lt;br&gt;세계의 특색 있는 요구르트도 한번 알아볼까요? 먼저 튀르키예 등 중동 지역에서 쉽게 볼 수 있는 ‘아이란’입니다. 아이란은 요구르트에 물과 소금을 첨가해 만든 음료로 상쾌하고 짭짤한 맛이 난다고 해요. 기호에 따라 허브나 후추 등을 뿌려 먹기도 한대요. 아이란과 비슷한 음료가 인도에도 있어요. 바로 ‘라씨’입니다. 라씨는 인도식 요구르트 ‘다히’에 물과 소금, 향신료 등을 섞어서 먹는 음료예요. 전통적인 라씨는 짠맛이 강하지만, 비교적 최근에 만들어진 라씨는 설탕을 넣어 단맛이 나기도 해요.&lt;br&gt;&lt;br&gt;마지막으로 ‘그릭요구르트’는 그리스를 비롯한 지중해 연안 지역에서 만들어 먹던 음식이에요. 일반 요구르트에 비해 맛이 진하고 질감이 단단한 것이 특징이지요. 단백질 등이 일반 요구르트보다 2~3배 이상 많아 건강에 도움이 되고, 특히 식단 관리하는 이들에게 사랑받고 있어요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재미있는 과학] 블프 앞두고 서버 늘린 아마존, 끝난 뒤엔 다른 회사 빌려줘</title>
-      <link>https://www.chosun.com/national/nie/2024/08/06/RRIGCBPCDVFEDFYFIS475QEGFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/06/RRIGCBPCDVFEDFYFIS475QEGFM/</guid>
-      <dc:creator>삼성SDS 클라우드서비스사업부 심영환 프로, 기획·구성=오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 15:41:28 +0000</pubDate>
-      <content:encoded>지난달 19일 마이크로소프트(MS) 운영체제 윈도를 사용하는 PC의 화면이 갑자기 파랗게 변하며 먹통이 되는 블루스크린 현상이 세계 곳곳에서 벌어졌어요. MS는 이번에 블루스크린 현상을 일으킨 기기가 총 850만대로 파악된다고 밝혔습니다. 이번 사고는 미국의 한 대형 사이버 보안 기업이 보안 프로그램 업데이트를 위해 배포한 보안 소프트웨어와 MS의 윈도가 충돌하면서 발생했는데요. 특히 해당 보안 프로그램이 ‘클라우드’ 서비스 형태로 많은 컴퓨터에 배포돼 그 피해가 확산됐어요.&lt;br&gt;&lt;br&gt;IT를 잘 모르는 사람도 ‘클라우드’라는 용어는 가끔 들어보셨을 텐데요. 클라우드는 무엇인지, 왜 기업들에서 많이 사용하는지 자세히 알려 드리겠습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;독자 서버 구축보다 비용 아끼고 효율 높여&lt;/b&gt;&lt;br&gt;&lt;br&gt;클라우드의 정확한 표현은 ‘클라우드 컴퓨팅’이에요. 사용자가 서버·네트워크 장치와 같은 하드웨어, 기업용 소프트웨어 등의 IT 자원을 직접 보유하지 않아도 인터넷 연결을 통해 필요한 만큼 가져다 쓸 수 있는 기술이랍니다. 사용자는 클라우드를 이용함으로써 IT 자원을 직접 구축하고 운영할 때 발생하는 비용을 아낄 수 있다는 장점이 있어요. 또 IT 자원을 필요할 때 원하는 만큼 손쉽게 늘리고 줄일 수 있어 효율적이죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54PT4NK7WRED7ESA3D77Z62LLQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=유재일&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;클라우드에 대해 조금 더 자세히 알아볼게요. 클라우드 시스템은 IaaS(이아스·Infra as a Service), PaaS(파스·Platform as a Service), SaaS(사스·Software as a Service)로 구성돼 있어요. 사용자는 세 가지 유형 중 자신의 필요에 맞는 것을 선택해서 써요.&lt;br&gt;&lt;br&gt;서비스형 인프라 ‘IaaS’는 컴퓨터 이용에 기본적으로 필요한 IT 자원인 서버와 저장 장치, 네트워크 장치 등을 제공하는 클라우드 서비스예요. 이제 막 창업한 스타트업들이 데이터와 애플리케이션(응용 프로그램) 등을 저장하는 스토리지(저장 장치)를 사용하고 싶을 경우, IaaS를 선택할 수 있지요. 자금이 넉넉하지 않은 스타트업 입장에선 IaaS를 통해 초기 투자 비용과 인프라 관리 비용을 낮출 수 있어 매우 효율적이에요.&lt;br&gt;&lt;br&gt;서비스형 플랫폼 ‘PaaS’는 운영체제, 미들웨어(서로 다른 애플리케이션을 연결해주는 소프트웨어) 등을 추가로 제공하는 클라우드 서비스예요. 요즘 많은 기업에서 생성형 인공지능(AI) 챗봇을 개발하고 있는데요. PaaS에 있는 개발 도구들을 이용하면 손쉽게 생성형 AI 챗봇을 개발할 수 있답니다.&lt;br&gt;&lt;br&gt;서비스형 소프트웨어 ‘SaaS’는 전사적 자원 관리와 공급망 관리, 고객 관리 설루션 등 기업이 필요로 하는 다양한 소프트웨어까지 추가로 제공하는 클라우드 서비스예요. 어떤 기업이 고객 응대 업무를 위해 특정 소프트웨어가 당장 필요하다고 가정해볼게요. 그런데 기업에서 알아보니 해당 소프트웨어를 직접 구매하려면 시간이 오래 걸리고 절차도 복잡해요. 이럴 경우 해당 소프트웨어를 가지고 있는 SaaS를 이용하면 바로 업무에 사용할 수 있어요.&lt;br&gt;&lt;br&gt;여름휴가 시즌이니까 여행지 숙소를 예로 들어 볼게요. IaaS는 방, 화장실, 샤워실 등 아주 기본적인 공간만 갖춰져 여행객이 씻고 잠만 잘 수 있는 숙소와 같아요. PaaS는 침대, 소파, 식탁 등 가구와 그릇, 프라이팬, 인덕션 등 주방 도구가 갖추어진 숙소예요. 여행객은 주방 도구를 이용해 요리를 만들 수 있죠. SaaS는 모든 것이 준비된 숙소예요. 여행객이 룸서비스를 통해 필요한 걸 주문하면 원하는 걸 얻을 수 있는 호텔과 같지요.&lt;br&gt;&lt;br&gt;&lt;b&gt;네트워크를 구름 모양으로 표현한 데서 유래&lt;/b&gt;&lt;br&gt;&lt;br&gt;그런데 왜 이런 기술을 클라우드라고 부를까요? 몇 가지 설이 있어요. 그중 1980년대를 전후로 IT 업계가 컴퓨터 시스템의 구성 요소와 이들 간의 상호작용을 도식화할 때, 여러 컴퓨터를 연결하는 통신 장비와 네트워크를 구름(cloud·클라우드) 모양으로 그려 표현했던 것에서 유래했다는 설이 가장 유력해요.&lt;br&gt;&lt;br&gt;사용자가 원하는 IT 자원을 골라 쓸 수 있는 클라우드 서비스는 언제 어떻게 시작된 걸까요?&lt;br&gt;&lt;br&gt;세계 최대 온라인 쇼핑몰 아마존은 블랙프라이데이, 크리스마스, 새해 등 이벤트 기간 중 밀려드는 폭발적인 주문량을 감당하기가 벅찼어요. 서버 용량 부족으로 주문 시스템이 다운될 가능성이 있었기 때문이죠. 그래서 아마존은 이벤트 기간 동안 고객 주문에 잘 대응하기 위해 추가로 많은 서버를 확보했어요. 하지만 이벤트 기간이 지나면 비싸게 구입한 서버의 90% 정도가 유휴 자원이 되는 바람에 고민에 빠지게 됩니다.&lt;br&gt;&lt;br&gt;그리고 아마존은 IT 자원을 효율적으로 사용하기 위해 서버를 사용하지 않는 기간엔 해당 서버를 다른 기업들에 대여해주자는 아이디어를 생각해냈어요. 이 아이디어가 지금의 클라우드 서비스로 발전됐지요. 이후 아마존은 클라우드 서비스 사업을 전담하는 회사를 만들었고, 이것이 바로 AWS(Amazon Web Services)예요.&lt;br&gt;&lt;br&gt;클라우드 서비스는 2000년대 초반에 이렇게 시작됐어요. 그리고 얼마 지나지 않아 전 세계로 확산됩니다. 기업들이 직접 IT 자원을 구축하고 관리하지 않더라도, 클라우드 서비스를 통해 이를 이용할 수 있다는 점이 무척 편리했기 때문이죠.&lt;br&gt;&lt;br&gt;그러면서 클라우드 서비스 사업자들이 많이 생겼어요. 현재 AWS 외에도 MS와 삼성SDS 등이 기업들을 대상으로 클라우드 서비스를 제공하고 있답니다. 이들은 데이터센터를 지어, 클라우드 서비스에 필요한 IT 자원들과 이용 기업들의 자료 등을 안전하게 보관 및 관리하고 있습니다. 데이터센터는 IT 자원들이 문제없이 잘 작동할 수 있도록 적정 온도가 유지되는 등의 환경이 갖춰져 있지요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 8월 6일</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/06/7RJAH5JS4BG2NNSAIIPTZSLMMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/06/7RJAH5JS4BG2NNSAIIPTZSLMMU/</guid>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 15:32:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R5OS7J4C3RES5E7FLRD4PQDCYA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“무릎 통증에 적응 중”...대표팀 실망 발언한 안세영 과거 글 재조명</title>
@@ -766,16 +911,6 @@
 5일(현지 시각) 파리 라 샤펠 아레나에서 열린 2024 파리올림픽 배드민턴 여자 단식 결승전에서 중국 허빙자오와 경기를 안세영이 다리에 붕대를 감고 있다./올림픽사진공동취재단  SEO&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2024 파리 올림픽 배드민턴 여자 단식에서 금메달을 따낸 안세영(22)이 경기 후 자신의 무릎 부상에 대해 안일하게 대처한 대표팀에 대해 실망했다며 은퇴를 암시했다. 이와 관련, 과거 안세영이 자신의 무릎 부상 상태에 대해 직접 소셜미디어에 올린 글이 재조명되고 있다.&lt;br&gt;&lt;br&gt;안세영은 5일(현지 시각) 프랑스 파리 포르트드라샤펠 경기장에서 열린 대회 여자 단식 결승전에서 세계 9위 허빙자오(중국)를 2-0(21-13 21-16)으로 꺾고 금메달을 목에 걸었다.&lt;br&gt;&lt;br&gt;시상식 이후 안세영은 공동취재구역(믹스트존)에서 “제 부상은 생각보다 심각했고 너무 안일하게 생각한 대표팀한테 조금 많이 실망했었다”면서 “이 순간을 끝으로 대표팀이랑은 조금 계속 가기 힘들지 않을까 하는 생각도 들었다”고 말했다.&lt;br&gt;&lt;br&gt;이 발언은 작년 열린 2022 항저우 아시안게임 결승전에서 무릎을 다치게 됐던 과정과 그 이후 대표팀의 대처 과정을 지적한 것으로 보인다. 안세영은 작년 10월 천위페이(중국)와의 아시안게임 결승전에서 무릎을 다친 뒤 올림픽 준비에 어려움을 겪었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RUNA3DYKWJHWHHDSNTBRL5I5CU.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 안세영이 무릎 상태를 전하며 올린 사진./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 5월 안세영은 인스타그램을 통해 자신의 무릎 부상 상태를 글로 직접 밝히기도 했다. 당시 안세영은 “저의 부상이 왜 이렇게 오랫동안 낫지 않는지 궁금하시리라 생각돼 글을 쓰게 됐다”며 운을 뗐다.&lt;br&gt;&lt;br&gt;안세영에 따르면 작년 아시안게임 후 짧게는 2주 재활 진단이 나와 금방 복귀할 수 있다는 진단 내용과 다르게, 재검진 결과 통증이 짧은 시간 내 회복되기 어렵다는 소견을 받았다. 큰 부상이 아닌 줄 알았던 것과 달리, 재검진 결과 2024 파리 올림픽에도 영향이 불가피함을 알게 됐다고 어렵게 털어놓은 것이다.&lt;br&gt;&lt;br&gt;이어 “올림픽까지 최대한 유지해서 통증에 적응해야 한다고 했다”며 “지금 당장 시합 결과 보다는 올림픽에 초점을 두고 통증에 적응하고 나아지고 있는 중”이라고 적었다.&lt;br&gt;&lt;br&gt;그러면서 “요즘 대회에서 좋은 성적을 내지 못하는 게 부상 때문인지 많이 걱정해 주시는데 부상 탓하고 싶지 않다”며 “이번 우버컵에서도 무릎이 아닌 스트레스로 인한 급성 장염 증세로 컨디션 난조가 있었다. 앞으로 남은 시간 동안 결과보다는 올림픽이라는 무대에서 후회하지 않도록 준비할 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 글은 5일 안세영의 작심 발언 이후 온라인 상에서 다시 공유되고 있다. 이를 본 네티즌은 “늘 응원하고 있다. 화이팅!” “저런 환경과 부상 속에서 얼마나 이를 악물고 노력했을까” “당분간 회복에만 전념하면 좋겠다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[단독] SKY 포함 명문대생 동아리, 마약 취해 집단 성관계</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/05/IA6OXMU2IVAC7OCQAZQB3XNINE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/05/IA6OXMU2IVAC7OCQAZQB3XNINE/</guid>
-      <dc:creator>박정훈 기자, 강지은 기자, 김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 11:31:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L6BJ2OJYOJC2HASEMMVCEVVADY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대·연세대·고려대 등 수도권 13곳 대학으로 구성된 회원 수백명 규모 동아리에서 집단 마약 투약 사건이 발생, 대학생 10여 명이 무더기로 검찰에 적발됐다. 사진은 해당 동아리의 소셜미디어 계정/서울남부지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대·연세대·고려대 등 수도권 13개 대학 학생들이 포함된 수백 명 규모의 동아리에서 집단 마약 투약 및 유통, 집단 성관계를 벌인 사건이 발생했다. 서울남부지검 형사4부(부장 남수연)는 5일 마약법 위반 등 혐의로 이 동아리 회장 등 대학생 4명을 구속 기소하고 2명을 불구속 기소했다. 마약을 단순 투약한 대학생 8명에 대해선 기소유예 처분을 내렸다.&lt;br&gt;&lt;br&gt;5일 본지 취재를 종합하면, 연세대를 졸업하고 카이스트 대학원에 재학 중인 30대 A씨는 2021년 이른바 ‘인싸(잘나가는 대학생)’들의 친목 동아리를 만들었다. ‘동아리에 자차 8대 이상 보유’ ‘고급 호텔·리조트 VIP 다수 보유’ 등 문구를 내걸고 회원을 모집했다. 회원이 되면 최고급 식당이나 뮤직 페스티벌 등을 무료 혹은 저가로 이용할 수 있다고 현혹도 했다. A씨가 올린 소셜미디어 ‘인증샷’에 일부 대학생들은 몰려들었다. A씨는 외모·학벌·집안 등을 기준으로 엄격한 면접까지 봤고, 얼마 되지 않아 회원 수는 300명이 넘었다. 비슷한 성격의 동아리 중 전국 둘째 규모로 성장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMM2MJGOMBCFLC63ZPPUCHDX74.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 이듬해 12월부터 마약에 손을 댔다. 처음엔 친한 동아리 회원들과 술을 마시다가 액상 대마를 권하는 수준이었으나, 케타민·사일로사이빈(환각 버섯)·필로폰 등으로 점차 강도를 높여 나갔다. 검찰 조사 결과 이들은 호텔과 클럽, 놀이공원 등을 다니며 10여 차례 집단으로 마약을 투약한 것으로 조사됐다. 특히 A씨는 남성 회원들을 특급 호텔 스위트룸에 초청해 유흥업소 종업원들과 함께 마약을 투약하고 집단 성관계를 가졌다고 한다. 일부 회원들과는 향정신성 의약품인 LSD를 기내 수하물에 숨겨 태국·제주 등지로 가져나가 투약하기도 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;동아리 내에서 마약이 어느 정도 퍼진 뒤에는 대놓고 마약을 유통·판매하기도 했다고 검찰은 밝혔다. A씨와 동아리 임원들은 텔레그램 마약 업자에게서 ‘던지기’ 방식으로 마약을 개당 10만원 정도에 구매해 1개당 15만~20만원의 웃돈을 붙여 회원들에게 되팔았다. 작년 한 해에만 1200만원어치 마약을 가상 화폐로 구매했는데, 추적이 어려운 현금과 코인 등으로 거래돼 확인되지 않은 마약 규모는 더 많이 있을 것으로 검찰은 보고 있다.&lt;br&gt;&lt;br&gt;A씨는 작년 12월쯤 성탄절 무렵 한 호텔에서 여자 친구와 마약을 투약, 난동을 부리다가 현행범으로 체포됐다. 앞서 그해 4월 여자 친구가 다른 남성 회원과 어울렸다는 이유로 와인병으로 수차례 폭행하고 성관계 장면을 촬영해 협박한 혐의(성폭력 처벌법 위반) 등도 받고 있다. 회원들은 검찰에서 “A씨가 마약 투약 장면을 촬영해 나중에 협박하거나, 소규모로 회원들을 분리해 정보 공유를 차단하는 수법으로 조직을 장악했다”고 진술했다.&lt;br&gt;&lt;br&gt;회원 중에는 명문대생뿐 아니라 의대와 약대, 법학전문대학원 등을 준비 중인 학생들도 여럿 포함됐다고 한다. 이들은 서울 구로구의 한 아파트를 임차해 OO하우스라는 이름으로 사실상 ‘마약 아지트’를 운영했고, 법적 문제에 대응하기 위해 고문 변호사도 고용했다고 한다.&lt;br&gt;&lt;br&gt;검찰은 이들이 동아리를 운영하며 회장단과 기획부·인사부·디자인부·회계부·홍보부 등 조직을 만들어 역할을 분배한 점, 오리엔테이션 등 조직 행사를 열고 일종의 규율을 만든 점 등을 고려해 범죄 단체 조직 혐의를 적용할 수 있을지 검토 중이다. 이 사건 피의자들은 마약 수사 대비 방법을 알려주는 소셜미디어 채널에 가입해 휴대폰 저장 자료 영구 삭제 방법, 모발 염색·탈색 방법, 피의자 신문 조사 모의 답변 등 수사 대비 정보를 공유한 것으로 조사됐다. 검찰 관계자는 “대형 마약 조직이 대학가까지 마수를 뻗치고 있다”고 했다.&lt;br&gt;&lt;br&gt;한편 작년 10월엔 홍익대·건국대·가천대 등에 ‘영감이 필요한가’라는 문구가 들어간 마약 홍보 전단이 뿌려졌는데, 배후에 마약 유통 조직이 있는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/JKDQZPXVFRDT7KCDA5ICF2FGU4.png?width=1000&amp;height=562&amp;auth=7160af6cd3509f56b4aab6ec7cc7e235196d340111ca59e55422167156d2711f&amp;smart=true" type="image/png" height="562" width="1000"/>
-    </item>
-    <item>
       <title>“시상식서 뭐 들고 있는 거지?”...안세영과 혈투 벌인 中 선수, 들고 온 이것</title>
       <link>https://www.chosun.com/national/people/2024/08/05/2AGB6BST3RCYHG2ZGG7QRXCGOA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/05/2AGB6BST3RCYHG2ZGG7QRXCGOA/</guid>
@@ -785,111 +920,6 @@
       <content:encoded>2024 파리 올림픽 배드민턴 여자 단식 결승전에서 안세영(22)과 경기를 펼친 중국의 허빙자오가 메달 시상식 때 스페인 국기가 그려진 배지를 들고 올라와 화제를 모으고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SMD2BXEC2NDO7AYAYXRNG2HCZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안세영이 5일(현지 시각) 파리 라 샤펠 아레나에서 열린 2024 파리올림픽 배드민턴 여자 단식 결승전에서 중국 허빙자오와 경기에서 승리, 시상식에서 기념촬영을 하고 있다. 은메달을 딴 허빙자오는 오른손에 스페인 국기가 그려진 배지를 들고 있다.  /파리= 올림픽사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 국내 여러 온라인 커뮤니티에는 ‘시상식에서 스페인 국기 배지 들고 있는 중국 허빙자오 선수’ ‘허빙자오가 메달 시상식 때 들고 온 것’ ‘허빙자오 손에 스페인 국기 감동이다’ 등의 게시글들이 올라왔다.&lt;br&gt;&lt;br&gt;게시물에는 메달 시상식에 오른 허빙자오가 오른쪽 손에 조그마한 배지를 들고 있는 모습이 담겼다. 배지에는 스페인 국기가 그려져 있었다. 국내 네티즌들 사이에서는 준결승전에서 만난 카롤리나 마린(스페인)이 부상을 당해 기권하자, 허빙자오가 이를 염두에 두고 배지를 갖고 온 것 아니냐는 의견이 나왔다.&lt;br&gt;&lt;br&gt;앞서 허빙자오는 지난 4일 준결승에서 카롤리나 마린(스페인)과 만났다. 허빙자오는 1게임을 내줬다. 허빙자오는 2게임에서도 6-10으로 밀리고 있었다. 그런데 마린이 경기 도중 부상을 당하면서 8-10에서 경기를 포기했다. 허빙자오는 한 게임도 따내지 못했고, 2게임에서도 밀렸지만 운이 따라 결승에 진출했다. 마린은 박수를 받으며 코트를 떠났다. 하지만 마음이 편치 않았던 허빙자오는 경기 후 눈물을 흘리기도 했다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “진짜 이런 스포츠맨십 볼 때 마다 너무 좋다” “뭐 들고 있나 했는데 스페인 국기 배지였구나” “이게 바로 올림픽 정신이다. 멋있다. 훈훈하다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;한편, 안세영은 5일(현지 시각) 프랑스 파리 포르트드라샤펠 경기장에서 열린 대회 여자 단식 결승전에서 세계 9위 허빙자오를 2-0(21-13 21-16)으로 꺾고 금메달을 목에 걸었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>인천 전기차 화재 사고 합동 감식… ‘배터리’ 집중 분석</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/05/KYP5SA4ITFDI7KZCYOZSGIVBSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/05/KYP5SA4ITFDI7KZCYOZSGIVBSQ/</guid>
-      <dc:creator>인천=이현준 기자, 이영관 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 11:45:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QTFA4XPK7NNKTF3AHI7RBI2FYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오후 인천 서구 청라동 아파트 지하 주차장 화재 현장에서 합동 감식을 마친 경찰이 화재가 발생한 전기차를 옮기고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국립과학수사연구원과 경찰, 소방이 5일 인천 청라 아파트 지하 주차장을 합동 감식했다. 지난 1일 전기차 화재로 차량 140여 대가 불타고 23명이 연기를 마셔 병원으로 이송된 현장이다. 당초 오는 8일에 할 예정이었지만 신속한 원인 규명을 위해 일정을 앞당겼다. 벤츠 측 기술자도 3명 참여했다.&lt;br&gt;&lt;br&gt;경찰은 처음 불이 난 벤츠 EQE350 전기차를 인근 경찰서로 옮겨 정밀 분석을 시작했다. 경찰 관계자는 “차량의 배터리를 집중적으로 살펴볼 계획”이라고 했다. 이 차의 하부에 달린 배터리는 이번 화재의 핵심 원인으로 지목되고 있다.&lt;br&gt;&lt;br&gt;이 차가 사고 사흘 전부터 계속 주차돼 있었고 충전 중도 아니었다는 사실이 드러나면서 배터리 내부의 분리막 등이 손상돼 불이 났을 수 있다는 분석이 나온다.&lt;br&gt;&lt;br&gt;다만 배터리가 불타 정확한 분석이 가능할지는 의문이다. 이날 경찰이 확보한 전기차는 완전히 불타 뼈대만 남은 모습이었다. 경찰도 화재 원인을 밝히는 데는 상당한 시간이 걸릴 것으로 예상한다.&lt;br&gt;&lt;br&gt;국토교통부에 따르면, 사고 전기차에 장착된 배터리는 중국 파라시스사(社)의 NCM(니켈·코발트·망간) 배터리인 것으로 파악됐다. 2021년 중국에서 이 회사 배터리가 장착된 베이징자동차(BAIC)의 전기차 3만1963대가 화재 발생 가능성이 있다는 이유로 리콜 대상이 된 적이 있다.&lt;br&gt;&lt;br&gt;한편, 화재가 난 아파트 주민들은 피해 보상을 받기 위해 법률지원단을 구성할 계획인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>은메달 딴 ‘말년병장’ 조영재 “만기 전역할 것”...그 이유는?</title>
-      <link>https://www.chosun.com/national/people/2024/08/05/GYJH6CCAI5CDHI6HJ2KRUG5ERA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/05/GYJH6CCAI5CDHI6HJ2KRUG5ERA/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 10:49:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BJPZQCEONW5KG6MKTW2PPVXFCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국 사격 대표팀 조영재가 5일(한국 시각) 프랑스 샤토루 슈팅 센터에서 열린 2024 파리올림픽 사격 25m 속사권총 시상식에서 시상대에 오르며 거수경례를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2024 파리 올림픽 사격 25ｍ 속사권총에서 은메달을 따 병역 특례를 받게 된 조영재(25·국군체육부대)가 만기 전역을 하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;조영재는 5일(현지 시각) 프랑스 샤토루 슈팅센터에서 열린 2024 파리 올림픽 사격 25ｍ 속사권총 결선에서 25점을 기록해 은메달을 목에 걸었다. 한국 사격 선수 중 속사권총에서 메달을 따낸 건 조영재가 처음이다. 이로써 한국 사격은 이번 대회 금메달 3개와 은메달 3개로 역대 최고 성적을 냈다.&lt;br&gt;&lt;br&gt;그는 이번 은메달로 병역 특례를 받아 군복을 일찍 벗게 됐지만, 만기 전역을 하겠다고 밝혔다. 경기 후 조영재는 취재진과 만나 “만기 전역한다는 말은 진심이었다. 이제 (만기 전역까지) 한 달 조금 넘게 남았다. 부대에서 동기들과 같이 시간 보내면서 마무리하고 싶다”고 했다. 이어 “동기들도 좋고, 부대 감독님들도 감사하게 다 좋은 분이다. 지내는 데 불편함이 없다”고 말했다.&lt;br&gt;&lt;br&gt;조영재가 병역을 완전히 마치고 싶은 이유에는 아버지 조병기 씨의 영향도 있다. 아버지가 30년 군 생활을 채우고 작년에 준위로 전역했다고 한다. 조영재는 현재 국군체육부대 소속 병장으로, 오는 9월19일 전역 예정이다.&lt;br&gt;&lt;br&gt;이날 조영재는 리웨훙(중국)과 접전을 벌이다 끝내 마지막 5발을 앞두고 은메달을 확정했다. 가장 떨리는 순간으로 3∼4위 결정할 때를 꼽은 그는 “(3위를 확정하려면) 한 발만 맞혀도 되는데 그게 가장 힘들더라. 무조건 넣어야 한다고 생각하며 쐈고 겨우 들어갔다”고 말했다. 역대 최고 성적을 낸 한국 사격에 대해선 “앞으로 계속 이렇게 메달이 나올 것”이라며 “저도 사격은 몸이 망가지기 전까지 계속할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;계속 긴장 상태라 한국에 돌아가면 잠을 푹 자는 게 소원이라는 그는 가족들과 만남을 고대한다. 조영재는 “집에 가서 부모님 뵙고, 할머니 뵙고, 동생도 보고 싶다. 같이 모여서 삼겹살 먹고 싶다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>탁송 중 전기차에 불길 ‘활활’... “누가 배상해주나” 기사 한탄</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/05/JXSKG7ICO5EXHHDIO3RC5VEKJA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/05/JXSKG7ICO5EXHHDIO3RC5VEKJA/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 10:11:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2BL455YBFFSJCANBR4IXOZPG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;탁송 중인 전기차에서 화재가 발생해 큰 피해가 발생했지만, 정작 피해를 입은 탁송 기사는 보상받을 방법을 찾지 못해 막막함을 호소했다. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;탁송 중인 전기차에서 화재가 발생해 전기차와 트럭 적재함이 전소되는 등 큰 피해가 발생했지만, 정작 피해를 본 탁송 기사는 보상받을 방법이 없다며 막막함을 호소했다.&lt;br&gt;&lt;br&gt;지난 1일 온라인 커뮤니티 보배드림에는 ‘레이EV 전기차 탁송 중 화재. 어디서 보상을 받아야 될까요’라는 제목의 게시글에 당시 상황을 담은 사진과 영상이 올라왔다. 탁송 기사의 지인이라는 글쓴이에 따르면, 탁송 기사가 지난 6월 30일 오후 5시경 인천 남동구 장수동의 인천대공원 지하차도 부근에서 수리를 위해 탁송 중이던 레이EV 차량에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;당시 상황이 담긴 영상을 보면, 트럭에 실은 레이EV 차량이 터널로 들어서자 레이EV 차량 운전석과 조수석에 시뻘건 불길이 치솟았다. 터널을 빠져나오자 주변이 밝아지며 불꽃은 제대로 보이지 않았지만, 화재로 인한 연기가 레이EV 밖으로 뿜어져 나왔다. 탁송 기사가 지하차도에서 화재 상황을 인지하고 갓길에 정차해 차량용 소화기를 써봤지만 소용없었다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5PC3EGZEANH6LFY3ZCWVUDM5NI.gif"&gt;&lt;figcaption&gt;&lt;small&gt;탁송 중인 전기차에서 화재가 발생한 모습. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 화재로 인명피해는 발생하지 않았지만 2014년식 레이EV 차량과 트럭 적재함이 전소되면서 2000만원 가량의 재산 피해가 발생했다. 탁송 기사가 차량 수리로 일을 쉬게 되면서 추가적인 금전 피해가 발생할 수밖에 없었다. 화재를 진압한 소방관은 레이EV 차량의 배터리에서 발화된 것으로 추정했는데, 화재증명원 상의 화재 발생 원인은 ‘화학적 요인’으로 나타났다.&lt;br&gt;&lt;br&gt;해당 차량은 지난 5월 29일 기준 전자제어유압장치(HECU) 내구성 불량으로 인한 화재 가능성으로 국토교통부 리콜 조치를 받은 차량으로 알려졌다. 다만 이 레이EV 차량이 위와 같은 이유로 화재가 발생한 것인지는 확인되지 않았다.&lt;br&gt;&lt;br&gt;문제는 트럭 파손에 대해 누구도 책임지고 있지 않다는 점이다. 차량을 수리업체로 운송하는 과정에서 발생한 사고지만, 탁송을 의뢰한 수리업체와 레이EV 차주 모두 손해배상에 대해 무책임한 태도를 보였다고 글쓴이는 주장했다. 갑작스러운 사고로 트럭은 수리를 위해 입고됐고, 자차보험 처리마저 불가능해 탁송기사가 자비로 수리했다고 한다. 탁송기사는 사고 이후 트라우마로 잠도 이루지 못하고, 수리가 완료될 때까지 일을 하지도 못했다고 글쓴이는 전했다.&lt;br&gt;&lt;br&gt;이 사연을 접한 네티즌들은 ““탁송 중 화재까지 신경 써야 하는 전기차라니 폭탄이나 다름없다” “사람이 운전하고 있었으면 사망 사고 났을 거란 생각에 아찔하다” “운행이 불가능하니 탁송한 건데 저런 사고가 나도 보상도 못 받는 탁송기사는 무슨 죄냐” “제조사부터 화주까지 아무도 책임을 안 지려 하니 너무 답답하다”는 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5PC3EGZEANH6LFY3ZCWVUDM5NI.gif?width=894&amp;height=502&amp;auth=d5d727b26c189abcd65beb00f324dd1aea01dccfaa7acc73886cd31996b89e4d&amp;smart=true" type="image/jpeg" height="502" width="894">
-        <media:description type="plain">탁송 중인 전기차에서 화재가 발생한 모습. /온라인 커뮤니티</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>50대 운전 차량 용산 어린이집으로 돌진, 1명 사망... 운전자 “급발진” 주장</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/05/UDMWGHQAKNEVHNXF5SLOPR2HIM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/05/UDMWGHQAKNEVHNXF5SLOPR2HIM/</guid>
-      <dc:creator>김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 09:35:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IDWYO4SSQUK5Y2B6CD5CK7A4TM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 용산구 일대에서 운전하던 중 인명피해를 낸 운전자가 경찰 조사에서 ‘급발진’을 주장하고 있는 것으로 5일 전해졌다.&lt;br&gt;&lt;br&gt;서울 용산경찰서는 5일 오전 11시 3분쯤 용산구 이촌동 인근에서 운전하다 인도로 돌진해 인명피해를 낸 50대 남성 A씨를 조사하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;이 사고로 인근을 지나던 50대 여성 1명이 병원으로 이송 됐지만 사망했고, 80대 여성 1명이 경상을 입어 치료를 받고 있다. 사고로 건물 외벽이 무너지는 등 피해는 없었지만, 사고 현장 인근에는 어린이집이 있었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰이 사고 현장에서 조사한 결과 A씨가 술을 마시거나 마약을 한 정황은 발견되지 않았다. 경찰에 따르면 사고 직후 이어진 조사에서 A씨는 “차가 의도대로 움직이지 않았다”며 차량 결함 취지의 주장을 이어갔다고 한다.&lt;br&gt;&lt;br&gt;경찰은 해당 사건에 대한 조사를 이어가고 있으며 “구체적인 사고 원인은 추후 조사를 통해 밝힐 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>사회복지사 전화 한통이 폭염 속 노인 살렸다</title>
-      <link>https://www.chosun.com/national/incident/2024/08/05/F3I536ASK5CZNCHPVVG5XLWPQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/05/F3I536ASK5CZNCHPVVG5XLWPQA/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 09:22:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I6HYZESHBFC57DIJAUU2XN7RDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난  1일 경북 경주시 안강읍에서 쓰러진 80대 여성이 구급대원들에게 구조되고 있다./경주시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사회복지사의 안부 전화 한 통이 폭염에 쓰러진 80대 여성을 구했다.&lt;br&gt;&lt;br&gt;5일 경북 경주시에 따르면 안강읍의 사회복지사 김동아(47)씨가 지난 1일 자신이 담당하던 A(83)씨에게 안부 전화를 걸었다. 낮 최고 기온 37도였던 폭염 속에서 A씨가 건강하게 지내는지를 확인하기 위함이었다고 한다. 하지만 김씨가 수차례 통화를 시도했는데도, A씨는 이날 유독 전화를 받지 받았다고 한다. 평소에 연락을 잘 받던 A씨였기에 김씨는 즉시 A씨 집을 찾았다.&lt;br&gt;&lt;br&gt;결국 김씨는 집 마당 앞에 쓰러져 있던 A씨를 발견하고 119에 신고했다. 119 구급대원들은 의식이 없던 A씨를 병원으로 옮겼다. 열이 40도에 달했던 A씨는 치료 끝에 병원에서 회복 중이다. 그는 생명에는 지장이 없는 것으로 알려졌다. 김씨는 “해야할 일을 했을 뿐”이라고 말을 아꼈다.&lt;br&gt;&lt;br&gt;주낙영 경주시장은 “노인 안부를 확인하는 경주시의 노인맞춤돌봄서비스와 사회복지사의 대처 덕분에 귀중한 생명을 구할 수 있었다”며 “앞으로도 경주시는 노인들을 정성껏 보살피도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“손흥민 아닌 김흥민”...루머 들키자 유포자가 내놓은  황당 답변</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/05/75L3NDZX3ZHC7PRMXELVNA3GLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/05/75L3NDZX3ZHC7PRMXELVNA3GLA/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 08:24:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QWJGHNACRQMQQJ4RYVAGZICJMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;토트넘 손흥민이 3일 오후 서울 마포구 상암동 서울월드컵경기장에서 열린 쿠팡플레이 시리즈 잉글랜드 프리미어리그 토트넘 홋스퍼와 독일 분데스리가 바이에른 뮌헨의 경기에서 1-2로 패배한 후 관중들에게 인사하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;축구 선수 손흥민(토트넘 홋스퍼) 측이 서울 강남의 클럽에서 수천만 원을 결제했다는 루머가 온라인상에 퍼지자 강경 대응을 예고한 가운데, 루머 유포자는 “손흥민이 아니라 김흥민이었다”는 답변을 내놨다.&lt;br&gt;&lt;br&gt;손흥민 소속사 손앤풋볼리미티드는 4일 공식 입장을 내고 “손흥민 선수의 클럽 방문 및 결제 사실은 결코 없었으며 이는 명백한 허위 사실”이라며 “당사가 사실관계를 체크한 결과 해당 클럽의 MD(merchandiser·영업 직원)들이 자신의 업소를 홍보하기 위해 허위 사실을 유포한 것으로 확인됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 지난 3일 손흥민은 서울 상암월드컵경기장에서 열린 쿠팡플레이 시리즈 토트넘 홋스퍼와 바이에른 뮌헨의 친선 경기에 출전했다. 이후 온라인 커뮤니티에는 ‘손흥민이 경기 이후 뮌헨 선수들을 데리고 서울 강남의 한 클럽을 찾았고, 결제까지 했다’는 글이 공유됐다.&lt;br&gt;&lt;br&gt;손흥민의 클럽 방문 루머가 퍼진 건 한 클럽 MD들의 인스타그램 올라온 사진 때문이었다. 한 클럽 관계자는 “퇴근한다, 손흥민 주급이 3억3000만 원이고 술값이 3000만원이니까 300만원 월급 받는 직장인이 6만 원대 밥 먹은 것”이라는 글과 함께 사진을 올렸다. 이후 이 사진 캡처본은 온라인상에 빠르게 퍼졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KN356Z2ZUJGS3I7D6NWYAMWH5U.png"&gt;&lt;figcaption&gt;&lt;small&gt;손흥민이 클럽을 방문했다는 허위 사실을 담은 글 관련 유포자가 내놓은 답변./온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 소속사 측에 따르면 손흥민은 경기 후 자택으로 귀가해 휴식을 취했다. 논란이 일자 해당 글을 올린 클럽 관계자는 “손흥민 선수 관련 질문하지 마라. 난 김흥민 형을 말한 것”이라고 해명했다.&lt;br&gt;&lt;br&gt;소속사 측은 “이들의 행위는 공인으로서 사회적 책임을 인지하고 절제된 생활을 이어가는 손흥민의 명예와 이미지를 훼손하는 범죄”라며 “당사는 조속한 시일 내로 위 클럽과 해당 MD들을 상대로 법적인 조치를 취할 예정”이라고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘반효진 효과’...대구시, 국제사격장 시설 개선 나선다</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/05/37UD3FHCSRE7HOW7NNNXVVCWME/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/05/37UD3FHCSRE7HOW7NNNXVVCWME/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 08:10:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/45QW4VIHQ4TAYJRTFONCE6EPUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국 사격 대표팀 반효진이 지난달 29일(한국시간) 프랑스 샤토루 슈팅 센터에서 열린 2024 파리올림픽 사격 공기소총 10m 여자 시상식에서 금메달을 수여 받은 후 기뻐하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구국제사격장의 노후 시설이 개선될 전망이다. 파리올림픽에서 대구체고 소속 반효진(16) 선수가 사격 공기소총 부문 금메달을 따내자 대구시가 이를 기념하고 시설을 보완해 국제대회를 유치하기 위해서다.&lt;br&gt;&lt;br&gt;대구시는 북구 금호동에 위치한 대구국제사격장 시설 상태를 점검했다고 5일 밝혔다. 이번 점검은 지난달 30일 홍준표 대구시장의 지시에 따라 이뤄졌다. 전날 프랑스 샤토루 슈팅 센터에선 반효진 선수가 사격 여자 10m 공기소총 결선에서 금메달을 땄다. 한국이 역대 하계 올림픽 100번째 금메달을 확보하는 순간이었다. 이 경기를 지켜본 홍 시장은 소셜미디어에 “반효진 선수의 쾌거를 축하드린다”며 “이 기회에 대구 사격장도 시설 보완해서 세계대회를 유치할 수 있도록 준비하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JOCL6RPPDBM4HJR57UXL7HYA2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김선조 대구시 행정부시장이 5일 북구 금호동 대구국제사격장 시설을 개선하기 위해 현장을 둘러보고 있다. /대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현장을 방문한 김선조 대구시 행정부시장은 국제대회 개최를 위한 시설 기준과 함께 장애인 편의시설 등을 점검했다. 사격장 내에 장애인 이동경로가 있지만 경사로가 높거나 통로가 좁고, 사격대가 비장애인 위주로 만들어져 있는 등 접근성이 낮다는 지적이 있었기 때문이다.&lt;br&gt;&lt;br&gt;한편 대구국제사격장 시설 개선에 필요한 사업비는 190억원 정도로, 대구시는 문화체육관광부 등 관계 부처를 방문해 국비를 확보할 방침이다. 김선조 대구시 행정부시장은 “국제 기준에 적합한 시설과 장애인 편의시설을 보완해 2027년 세계사격선수권대회, 2030년 장애인세계사격선수권대회 등을 유치하겠다”면서 “장애인·비장애인 모두가 즐길 수 있는 사격스포츠 시설을 갖추도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 8월 6일 화요일 (음력 7월 3일 壬寅)</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/05/XGKJWPMH3BAV5EPBIGYC4RQLU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/05/XGKJWPMH3BAV5EPBIGYC4RQLU4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 08:03:11 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 모기 보고 검 빼든 격. 48년생 우아하게 늙고 싶다면 교양 익히도록. 60년생 뿌리 없이 싹 났겠나. 72년생 운기 샘솟는 하루. 84년생 정면 대결은 전투력 소진 적지 않음을 명심. 96년생 야심 크기가 성공 크기.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 넓고 얕게 말고 좁더라도 깊게. 49년생 급할수록 돌아가는 여유 갖도록. 61년생 동쪽 대문 이용하라. 운기 빛난다. 73년생 자신에겐 칭찬을, 주변에는 응원을. 85년생 나무도 마르면 오던 새도 아니 온다. 97년생 일방통행 아닌 다양한 의견도 참고.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 욕심부리지 말고 천천히 가라. 50년생 온갖 소란 나더라도 내겐 피해 없을 듯. 62년생 들자니 무겁고 놓자니 아쉽고. 74년생 이왕 할 일이면 지금이 적기. 86년생 생각 바꾸면 길 열린다. 98년생 남의 상가(喪家)는 피하는 게 상책.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 비밀은 비밀로 간직하라. 39년생 능력 유무는 역경 겪어봐야. 51년생 배우자 또는 자손이 최고 후원자. 63년생 게으름은 시간 좀 먹는다. 75년생 바닥은 친 듯하니 조금만 기다리라. 87년생 영광은 과거일 뿐 현실 직시하라. 99년생 지름길이 더 막힐 줄이야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 상대 믿기 전 자신을 믿어라. 40년생 떠나기도 머물기도 어렵구나. 52년생 현재에 만족할 줄 알면 그게 행복. 64년생 문제는 해결될 듯 방심이 문제. 76년생 웃음은 웃음 부르는 법. 88년생 소신 갖고 묵묵히 추진하라. 00년생 조급할수록 느긋하게 기다릴 줄 알아야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 대체보다 구체적 관찰 필요. 41년생 금전 거래와 문서 계약은 오늘이 적기. 53년생 성공은 위험 무릅쓸 때 오는 것. 65년생 자다가 떡 먹을 수도. 77년생 합당한 문제 제기면 망설이지 마라. 89년생 옛 친구에게서 희소식 들을 듯. 01년생 불시에 뜻하지 않은 곤란 대비하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 흰옷 입은 사람이 귀인. 42년생 일단 믿고 지켜보도록. 54년생 따지지 말고 조용히 넘기는 게 상책. 66년생 명성에 비해 실속 없다. 78년생 솔선수범 자세로 상황 주도해야. 90년생 소금 팔러 나서니 비 오는구나. 02년생 어떤 어려움 있어도 중도 포기는 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 비판과 시비면 웃어넘기도록. 43년생 벙어리 삼 년 귀머거리 삼 년. 55년생 건강 혹은 재물로 인한 상심 있을 수도. 67년생 질투로 인한 손해 적지 않다. 79년생 작은 배는 큰 짐 감당키 어렵다. 91년생 만족 모르면 금은보석도 고철. 03년생 결과 좋으니 힘차게 나서보도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 나무 커야 그늘도 큰 법. 44년생 드러낼 때와 감추어야 할 때 구분하라. 56년생 사소한 일이라고 소홀하면 후회. 68년생 돈으로 못 막을 건 재채기뿐. 80년생 따라잡을 건지 따라 잡힐 건지의 기로. 92년생 운기 좋으니 싱글벙글. 04년생 윗사람 장점 찾아보도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 득실은 가족 간에도 있는 법. 45년생 심사숙고와 보수적인 판단 필요. 57년생 타인 손에 자기 미래 내맡기지 마라. 69년생 오랜 병환에 차도 있거나 좋은 징조다. 81년생 어렵더라도 열정 잃지 말아야. 93년생 타인과 다른 나만의 개성 갖도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 금은보화가 건강만큼 귀할까. 46년생 밀어주고 끌어주는 아량 가져봄이. 58년생 요원해 보여도 멀지 않았다. 70년생 어제의 사고방식으로는 급변하는 오늘에 대처 불능. 82년생 아랫길도 못 가고 윗길도 못 가겠다. 94년생 작은 일에는 성과 보게 될 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 오늘에 안주하는 순간 내일은 없다. 47년생 아랫사람으로부터 칭송받을 듯. 59년생 뭉치면 살고 흩어지면 죽는 날. 71년생 첫술에 배부를 수 있나. 83년생 주변 동료에게 지원 요청해보는 게 좋다. 95년생 아첨꾼의 사탕발림을 경계하라.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“현금화 중단했다” 위믹스 유통량 조작...장현국 前 위메이드 대표 재판행</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/05/BMMOU5QQIBFXRBKES7XREERYEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/05/BMMOU5QQIBFXRBKES7XREERYEE/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 07:44:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VGEWJDAEQJDYBIOG4UL32JIDD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장현국 위메이드 대표가 작년 5월 19일 경기도 성남시 분당구 위메이드 본사에서 열린 국민의힘 코인게이트 진상조사단 2차 회의에서 발언하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;허위 발표로 투자자들을 속여 가상화폐 유통량을 조작한 장현국 전 위메이드 대표가 불구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울남부지검 금융조사1부(부장 김수홍)는 “코인 현금화를 중단하겠다”는 허위 발표로 위믹스 코인 시세 및 주가를 관리한 코인 발행사 위메이드와 장 전 대표를 각각 자본시장법위반 혐의로 각각 불구속 기소했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 2020년 10월 위메이드는 위믹스 코인을 가상자산 거래소에 상장한 후 시세가 급등하자 2022년 1월까지 자신이 보유한 위믹스 코인 약 2900억원을 대량으로 현금화했다. 이 돈은 다른 게임회사를 인수하는 등 사업 자금으로 사용됐다. 이 사실이 뒤늦게 외부에 알려지자 위메이드는 투자자들의 비난에 직면했고, 위믹스 코인 시세 및 위메이드 주가가 하락했다.&lt;br&gt;&lt;br&gt;같은 해 2월 장 전 대표는 기자 간담회까지 열며 위믹스 코인의 현금화 중단 선언을 했다. 장 전 대표의 말은 거짓으로 밝혀졌다. 위메이드는 기존의 직접적인 코인 매도 방식이 아닌, 코인을 펀드에 투자한 후 ‘스테이블 코인’으로 회수하는 등 간접적인 방식으로 같은해 10월까지 3000억원 상당의 코인을 현금화했다. 이로써 위메이드는 위믹스 코인 시세 및 주가 하락이 방지되는 등의 이익을 취했다.&lt;br&gt;&lt;br&gt;다만 검찰은 투자자들의 위믹스 코인 매수대금을 위메이드나 장 전 대표가 직접적으로 취득하였다고 보기 어려워 사기 혐의에 대해서는 ‘혐의없음’ 처분을 했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “앞으로도 금융범죄중점검찰청으로서 수사역량을 발휘하여 자본시장의 공정한 거래질서 확립을 위해 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울대 연구진, 전기차 배터리 열폭주 원인 찾았다…음극 코팅 통한 억지책도 제시</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/05/TTYNIS4PBRHMBGNPA65C6FCMDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/05/TTYNIS4PBRHMBGNPA65C6FCMDE/</guid>
-      <dc:creator>박정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 07:54:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NZQQL345EHPKIRTIBLBNUBRVSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 21일 오후 서울 관악구 서울대학교 정문의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 인천 청라국제도시 아파트 지하주차장에서 발생한 전기차 화재로 주민 20여명이 병원으로 이송되고 차량 72대가 전소하는 등 전기차 배터리 화재 문제가 심각하게 떠오른 가운데 국내 연구진이 배터리 화재를 일으키는 ‘열폭주’ 현상의 원인을 규명하는 데 성공했다. 연구진은 음극 코팅 방법을 통해 열폭주 현상을 억제할 방법까지 제시했다. &lt;br&gt;&lt;br&gt;서울대는 임종우 서울대 화학부 교수 연구진이 김원택 포스텍 화학공학과 교수, 삼성 SDI 연구진과 공동으로 열폭주 반응이 급격히 악화하는 원인이 배터리 내 음극과 양극 사이 ‘자기증폭루프’ 때문이라는 것을 최초로 밝혀냈다고 5일 밝혔다. 해당 연구 결과는 유명 국제 학술지 ‘어드밴스드 머티리얼즈(Advanced Materials)’의 표지 논문으로 선정돼 1일 게재됐다.&lt;br&gt;&lt;br&gt;전기차에서 화재가 발생하면 배터리의 온도가 수초 안에 1000°C가 넘게 치솟는 ‘열폭주’ 현상이 발생해 대형 참사로까지 이어질 수 있다. 전기차의 안전 문제는 앞으로 본격적인 전기차 시대에 돌입하기에 앞서 해결해야만 하는 가장 큰 이슈 중 하나다. 특히 국내 이차전지 업체들이 가장 핵심적으로 추진하는 하이니켈 양극재는 용량이 크지만 열 안정성이 낮은 단점이 있기 때문에 열폭주에 더 취약하다. 이에 전기차 화재·폭발을 예방하기 위해 열폭주 메커니즘을 규명하는 것은 중요한 과제였다. &lt;br&gt;&lt;br&gt;서울대 연구진은 물질의 내부 미세구조를 볼 수 있는 방사광 가속기 기반 X선 회절 기법을 활용해 배터리셀 내부에서 화학종 교환 반응을 관찰했다. 그 결과 연구진은 양극재와 흑연 음극 사이의 화학종 교환에서 중대한 발열 반응들이 야기됨을 발견했고, 이것이 생성물이 반응물을 또 다시 만들어내는 ‘자가증폭루프’ 때문임을 밝혀냈다. 게다가 이 ‘자가증폭루프’에 의해 생성된 산소와 이산화탄소가 음극 표면에 석출된 리튬과 반응하며 급격한 온도 상승에 중대한 기여를 하고 있음을 발견했다.&lt;br&gt;&lt;br&gt;연구진은 열폭주 현상을 억지할 방안도 제시했다. 음극 표면의 리튬과 ‘자가증폭루프’에 의해 생성된 산소와 이산화탄소의 반응을 막을 수 있는 고품질 알루미나 코팅법을 개발해 배터리셀 내에서 일어나는 열폭주를 성공적으로 억제 가능하다는 것이다. 연구진은 “이를 응용하면 하이니켈 양극재를 주력으로 추진하는 우리나라 기업들의 경쟁력을 높일 수 있을 것으로 기대된다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>여친 퇴근 안 시켜준다고...둔기 들고 업소 직원 폭행한 조폭</title>
       <link>https://www.chosun.com/national/national_general/2024/08/05/4ZMIAVVE7ZBFBNTNGCLRI75FTA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/05/4ZMIAVVE7ZBFBNTNGCLRI75FTA/</guid>
@@ -897,51 +927,6 @@
       <description/>
       <pubDate>Mon, 05 Aug 2024 07:38:09 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SEQEP44PJR3V65USNHTDWQPYI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;속칭 ‘보도방’에서 일하는 여자친구가 ‘퇴근을 못 다’고 하소연하자 평소 친구 사이였던 유흥업소 직원을 찾아가 둔기를 들고 난동을 부린 폭력 조직 행동대원이 실형을 선고받았다.&lt;br&gt;&lt;br&gt;5일 법조계에 따르면, 대전지법 형사1단독 송선양 판사는 상해, 특수협박, 특수재물손괴 혐의로 기소된 20대 A씨에게 징역 1년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 4월 21일 오전 6시쯤 대전 서구에 주차돼 있던 친구 B(26)씨 카니발 승합차를 둔기로 부순 혐의를 받고 있다. B씨가 제지하려 하자 둔기로 그를 마치 때릴 듯이 위협하고 주먹으로 얼굴을 두 차례 폭행한 혐의도 있다.&lt;br&gt;&lt;br&gt;당시 A씨는 대전 지역 폭력 범죄단체인 ‘반도파’ 소속 행동대원급 조직원으로 B씨와는 친구 사이였다. A씨는 자기 여자 친구가 B씨의 업소에서 일하던 것에 불만을 품고 있었는데, 여자친구로부터 “퇴근을 시켜주지 않는다”는 연락을 받자 격분해 이같이 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;앞서 A씨는 지난해 5월17일 대전지법에서 보험사기방지 특별법 위반죄 등으로 징역 1년을 선고받고 올해 3월 19일 대전교도소에서 형 집행 종료로 출소한 전력이 있었다.&lt;br&gt;&lt;br&gt;송 판사는 “범행을 자백하고 반성하고 있으며 피해자와 합의해 처벌을 원치 않고 있다”며 “다만 지난해 특수상해죄로 징역형 집행유예를 선고받아 집행유예 기간 중임에도 자숙하지 않고 범행을 저질러 실형 선고가 불가피하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전기차 화재 입주민에 도움 손길…통닭‧순댓국 식사 나눔에 무료세차까지</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/05/EOTP2IIFRJHEZBYRCEUR6XTOBU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/05/EOTP2IIFRJHEZBYRCEUR6XTOBU/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 07:18:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SHRSEBQGFFBRZLGJOOWIAV7SAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 전기차 화재 사고가 발생한 인천 청라국제도시의 아파트 지하 주차장. 사흘이 지난 4일 찍은 사진이지만 처참한 모습이 그대로 남아 있다. /이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 지하 주차장에서 발생한 전기차 화재로 큰 피해를 본 인천의 한 아파트 입주민들에게 따듯한 도움의 손길이 이어지고 있다.&lt;br&gt;&lt;br&gt;5일 인천 서구 청라동 대한적십자사 서북봉사관 등에 따르면 아파트 근처 한 순댓국집은 전날 정기 휴무일임에도 입주민만을 위해 가게를 열고 300그릇의 국밥을 무료로 제공했다. 치킨집은 입주민들에게 총 100마리의 프라이드 통닭을 무료로 전달했다.&lt;br&gt;&lt;br&gt;한 미용실은 단수로 어려움을 겪고 있는 피해 입주민들이 가게에 방문하면 무료로 머리를 감겨주고 있다. 한 기계식 세차장은 입주민들에게 이틀 동안 무료 세차 서비스를 제공했다.&lt;br&gt;&lt;br&gt;이외에도 지역 소상공인들은 이재민들에게 과일을 나눠주거나 무료 음료를 제공하는 등 온정의 손길을 내밀고 있다.&lt;br&gt;&lt;br&gt;또 서북봉사관 사무실에는 김과 아기 옷 등 기부 물품이 줄지어 도착하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;화재가 발생한 지역 주민들이 이용하는 온라인 커뮤니티에는 이웃 주민들이 샤워나 세탁을 해결할 수 있도록 이재민들에게 집과 차량을 선뜻 내어주고 있다는 사연이 알려져 화제가 되기도 했다.&lt;br&gt;&lt;br&gt;한편 이번 화재는 지난 1일 인천시 서구 청라국제도시의 한 아파트 지하 1층 주차장에 있던 벤츠 전기차에서 발생했다.&lt;br&gt;&lt;br&gt;불이 난 아파트에는 나흘째 전기와 물 공급이 끊겼다. 사고 당시 화염으로 지하 주차장 내부의 온도가 1500도까지 치솟으면서 전기 설비와 수도 배관 등이 녹아버렸기 때문이다. 전기는 5개 동 480가구, 물은 15개 동 1580가구에 각각 공급되지 않고 있다. 이 때문에 주민 300여 명이 인근 학교 등에서 피난 생활을 하고 있다. 인천 서구 관계자는 “6일부터 수도와 전기가 차례로 정상화될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>은행 온 여성 손님 불법 촬영한 청원경찰…현행범 체포</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/05/JO4CIPGBYBBH3OQ7JMTP6WMAEU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/05/JO4CIPGBYBBH3OQ7JMTP6WMAEU/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 05:33:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CTSS3HGF5ZH3RCUCX56LYWLRWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 마포경찰서. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 마포구의 한 은행에서 여성의 신체를 불법 촬영한 혐의를 받는 은행 청원경찰이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 마포경찰서는 성폭력범죄의 처벌 등에 관한 특례법 위반(카메라 등 이용 촬영) 혐의로 모 은행 청원경찰 A씨를 현행범으로 체포하고 입건해 조사하고 있다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;서울 마포구의 한 은행에서 근무하는 A씨는 지난 2일 낮 2시 반쯤 은행을 찾은 여성의 신체 부위를 몰래 촬영한 혐의를 받는다.&lt;br&gt;&lt;br&gt;피해 여성의 일행이 이를 알아채고 경찰에 신고하면서 A씨는 현행범으로 체포됐다.&lt;br&gt;&lt;br&gt;경찰은 임의 제출받은 휴대전화를 포렌식 해 추가 피해자가 있는지 등을 수사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>초4 아들 ‘저속노화 식단’ 공개했다가…“아동학대” 비판받은 의사</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/05/Y42HAJHOCJFY7AJH7OHKRRH5Y4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/05/Y42HAJHOCJFY7AJH7OHKRRH5Y4/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 06:06:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OXB5I4DAX5CXDEYDH7NSJ5CXQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정희원 서울아산병원 노년내과 교수가 공개한 초등학생 4학년생 아들의 저속노화 식단. /X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;저속노화(느리게 늙기)의 중요성을 강조해온 노인의학 전문가가 초등학생 아들에게 준 저속노화 식단을 공개했다가 때 아닌 아동학대 논란에 휩싸여 해명에 나섰다.&lt;br&gt;&lt;br&gt;정희원 서울아산병원 노년내과 교수는 지난 3일 X(옛 트위터)를 통해 “초4 아들의 저녁밥이다. 아들용 저속노화밥, 코코넛 오일로 구운 광어”라며 식단 사진을 공개했다.&lt;br&gt;&lt;br&gt;사진에는 콩과 잡곡이 섞인 밥과 생선 한조각, 어묵 한조각, 멸치볶음, 김 등의 반찬 모습이 담겼다. 정 교수는 “아들용 저속노화밥 구성은 콩과 잡곡 35%, 찹쌀 15%, 백미 50%”라는 설명도 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PDIN3JLJYNC73CFJV3TULIJ4BY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2023년 12월 20일 서울 송파구 서울아산병원 노년내과 진료실의 정희원 교수. 그는 "젊은이가 빠르게 늙는 것을 막고, 어르신이 느리게 늙도록 돕는 것"이 의사로서의 꿈이라고 했다. /서울아산병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 교수는 평소 건강하게 오래 사는 생활습관으로 저속노화 식단의 중요성을 강조해왔다.&lt;br&gt;&lt;br&gt;지난 6월 열린 학회에서 그는 “젊어서부터 저속 노화 역량을 키우면 나이 들어 질병이 생기거나 심한 스트레스를 받아도 건강한 상태로 돌아오는 회복 탄력성이 좋아져서 말년까지 건강하게 살다가 막판에 돌봄에 의지하는 기간도 매우 짧다”고 말했다.&lt;br&gt;&lt;br&gt;또 지난달 열린 한 강연에서는 “노화를 느리게 하는 식사란 결국 절식, 대사과잉 감소와 모두 연결돼 있다”며 “의학계는 40여 년 동안의 연구를 통해 편안하게 절식하면서도 항노화 유전자를 활성화할 수 있다는 결론에 거의 이르렀다”고 말하기도 했다.&lt;br&gt;&lt;br&gt;이에 네티즌들은 “코코넛오일로 생선 굽는 레시피 응용해보겠다” “세살 버릇 여든까지 간다는데 어릴 때부터 좋은 식습관을 생활화할 수 있어서 참 좋겠다” “아이 때부터 저속노화 식단 챙겨줘야 하는지 몰랐다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;다만 일부 네티즌들 사이에서는 성장기 아이가 먹기에 식단 구성과 양이 다소 부실하다는 지적이 제기됐다. 일각에서는 저속노화의 목적이 ‘동안’에 있는 것 아니냐며 아이에게 저속노화를 강요하는 건 아동학대나 마찬가지라는 식의 비판도 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QAZ4FVT76BFYJFKBRUDKPULEZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정희원 교수가 공개한 간식상자. /X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 정 교수는 “먹던 중에 찍은 사진”이라며 “저녁 만큼은 건강하게 먹이려고 한다. 간식이나 밖에서 하는 군것질은 자유롭게 하도록 둔다”고 해명했다.&lt;br&gt;&lt;br&gt;아울러 정 교수는 과자와 초콜릿 등이 담긴 아들의 간식 상자를 공개한 데 이어 어릴 때 먹는 ‘가속노화 음식’이 나쁜 이유에 대한 글을 차례로 올리기도 했다.&lt;br&gt;&lt;br&gt;정 교수는 관련 논문 자료를 참고해 작성한 이 글에서 “노화와 성장은 많은 경로를 공유한다. ‘가속노화 음식’으로 영양 왜곡이 생기면 가속성장이 아니라 성장 궤적이 왜곡된다”며 “소아 비만, 성조숙증 등 대사 질환이 생길 가능성이 높아지며 그 결과 타고난 키보다 작게 자랄 수도 있다”고 설명했다.&lt;br&gt;&lt;br&gt;이어 “문제는 성인이 되었을 때까지 이어진다. 더 이른 시기에 당뇨, 고혈압 등의 만성 질환을 가지게 될 수 있고, 생식기능에도 문제가 생기기 쉽다”며 “평생 써야 하는 대사 소프트웨어를 어릴 때 잘못된 방향으로 쓰면 더 오래 나쁜 결과를 만들게 되는 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘70억집‧25억그림’ 돈자랑 비판에 홍혜걸 “의사는 돈 벌면 안 되나”</title>
-      <link>https://www.chosun.com/national/people/2024/08/05/VZISC4AJJRBYPE44FPSA5WFHL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/05/VZISC4AJJRBYPE44FPSA5WFHL4/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 01:37:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FZLYPVAXQRHADNILV3TBAEL6AA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여에스더와 홍혜걸 부부. /여에스더 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 방송에 출연해 70억원대 집과 25억원 가치의 그림 등을 공개해 ‘돈자랑’ 논란이 불거진 의학전문기자 출신 방송인 홍혜걸(57)씨가 4일 자신의 소셜미디어를 통해 “열심히 돈을 벌되 선량하게 쓰겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;홍혜걸씨는 지난 3일 가정의학과 전문의이자 사업가인 부인 여에스더(59)씨와 함께 MBN ‘가보자GO’ 시즌2에 출연해 일상 모습을 소개하면서 70억원대 집과 25억원 가치의 그림 등을 공개해 일부 네티즌들로부터 ‘돈자랑’을 했다는 비판을 받았다.&lt;br&gt;&lt;br&gt;이에 대해 홍혜걸씨는 “어제 한 방송에서 저희 부부가 너무 돈자랑을 했다며 이런저런 비판을 받고 있다”며 “저희도 요즘 같은 시기에 위화감 조성하는 방송이 부적절하다는 것을 잘 안다”고 했다.&lt;br&gt;&lt;br&gt;홍혜걸씨는 “다만 몇가지 변명을 말씀드리자면 (운영하고 있는 회사의)매출과 집값, 그림값은 말하고 싶지 않았는데 제작진과 진행자가 물어보니 사실대로 말할 수밖에 없었다”며 “거짓말을 하거나 대답을 안 해서 대화를 어색하게 만들 순 없었다. 제작진 입장도 이해한다. 액수를 구체적으로 밝혀야 사람들이 욕하면서도 많이 본다는 것이다”라고 했다.&lt;br&gt;&lt;br&gt;방송 출연을 하지 않으면 되는 것 아니냐는 지적에는 “저희도 방송이 좋아서 하는 게 아니다. 집사람 회사를 알리기 위한 고육지책으로 이해해달라”며 “경쟁사는 1000억이 넘는 돈을 광고비로 쓰는데 한가하게 있을 수만은 없기 때문”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 홍혜걸씨는 “저희가 경제적으로 성공했다고 해서 이것이 과연 사람들이 기분 나빠야 할 일인지 모르겠다”며 “필수진료로 고생하는 의사들에겐 미안하지만 재벌 3세나 4세가 잘 사는 건 당연한데 건강기능식 지평을 넓힌 의사는 왜 돈을 벌면 안 될까? 저희는 열심히 돈을 벌되 선량하게 쓰겠다. 응원까진 아니지만 이해해달라”고 했다.&lt;br&gt;&lt;br&gt;홍혜걸씨의 부인 여에스더씨는 현재 건강기능식품 업체를 운영하고 있다.&lt;br&gt;&lt;br&gt;한편 홍혜걸씨 부부는 서울 강남구 도곡동 타워팰리스에서 거주하고 있다. 두 사람은 방송에서 집 거실에 걸려 있는 그림을 소개하며 “가격은 집값의 5분의 2정도(25억원)”라고 밝혀 화제가 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 사흘前 주차, 충전 중 아니었는데… 전기차 화재 미스터리</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/05/VK2LKPJUGNBBVK3VSQM2CXVRI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/05/VK2LKPJUGNBBVK3VSQM2CXVRI4/</guid>
-      <dc:creator>류정 기자, 이영관 기자, 인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Aug 2024 20:02:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W47QGQM3BRBHHBIFNFZK4NZPAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 인천 청라국제도시의 아파트 지하 주차장에서 단전·단수 복구 작업이 이뤄지고 있다. 지난 1일 발생한 전기차 화재로 차량 140대가 불탔을 뿐 아니라 주차장 내부의 전기 설비와 수도 배관이 불타 5개동 480여 가구의 전기와 물이 끊겼다. 이번 화재 이후 전국 아파트 단지에서는 “지하에 전기차 주차를 막아야 한다”는 여론이 일고 있다. /이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1일 인천 청라국제도시의 한 아파트 지하 주차장에서 발생한 전기차 화재와 관련해, 불이 난 전기차는 화재 발생 사흘 전부터 계속 주차 중이었던 것으로 알려졌다. 경찰과 소방이 구체적인 화재 원인을 조사 중인 가운데 “사흘간 가만히 세워둔 차에서 어떻게 불이 났느냐”는 의문이 제기되고 있다. 전문가들은 “전기차 배터리 내부에서 분리막이 손상된 경우 운행이나 충전 중이 아니더라도 불이 날 수 있다”고 분석한다.&lt;br&gt;&lt;br&gt;4일 인천 서부경찰서 등에 따르면, 불이 난 전기차의 차주인 40대 남성은 지난달 29일 오후 7시 16분쯤 차를 주차한 뒤 운행한 적이 없다고 경찰에 진술한 것으로 알려졌다. 차에서 불이 난 시점은 지난 1일 오전 6시 15분쯤으로 주차한 지 59시간 뒤 갑자기 불이 났다는 얘기다. 소방 관계자는 “화재 당시 해당 전기차는 충전 구역이 아닌 일반 주차 구역에 주차 중이었던 것으로 확인됐다”고 했다. 국립과학수사연구원은 오는 8일 화재 현장에서 합동 감식을 진행할 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EBVKK3WK5RDB5IRX7RMGXJ2FUA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;◇배터리 내부 분리막 손상 가능성&lt;br&gt;&lt;br&gt;사흘간 주차된 전기차에서 화재가 난 원인에 대해 선양국 한양대 교수는 배터리 덴드라이트(dendrite)에 의한 ‘단락(短絡·합선)’이 원인일 수 있다고 분석했다. 덴드라이트란, 배터리 내부 물질인 리튬 중 일부가 급속 충전을 자주 하는 등의 원인으로 음극 표면에 쌓여 만들어지는 나뭇가지 모양의 결정체다. 차량이 가만히 있는 상태에서도 리튬이나 불순물이 이동해 결정체가 서서히 자라면서, 배터리 분리막에 구멍을 내면 만나지 말아야 할 양극과 음극이 만나면서 합선이 발생하고 화재로 이어질 수 있다는 것이다. 선 교수는 “국내 업체들은 덴드라이트 문제를 어느 정도 개선해 왔지만, 중국은 삼원계 배터리 후발 주자로 한국보다 뒤떨어져 있는 것으로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;이번에 불이 난 벤츠 전기차(EQE350)에는 중국 CATL이 삼원계 배터리인 NCM(니켈·코발트·망간) 811 배터리를 공급하고, 또 다른 중국 업체 파라시스도 배터리를 공급하고 있다. NCM 811 배터리는 니켈 80%, 코발트 10%, 망간 10%가 탑재되는 하이니켈 배터리를 뜻한다. 니켈 비율이 높으면 더 많은 전기 에너지를 충전해 주행거리가 길어진다. 다만 화학적 구조가 불안정해 충격이나 고온 상황에서 열 폭주 가능성이 상대적으로 높다는 단점이 있다.&lt;br&gt;&lt;br&gt;덴드라이트가 직접적인 원인이 아니더라도 전문가들은 전기차 배터리 내 분리막 손상을 주요 원인으로 지목하고 있다. 배터리에 과도한 열이나 물리적 충격이 가해져 분리막이 손상되고, 양극재와 음극재가 직접 만나 화재나 폭발로 이어진다는 것이다. 문학훈 오산대 미래전기자동차학과 교수는 “화재가 난 차량이 주행 중에 배터리가 탑재된 하부가 충격을 받고, 이 때문에 배터리 내부 분리막이 손상됐을 가능성이 있다”고 했다. 한 배터리 업체 연구원은 “완충된 상태에서 충전기를 빼고 이후에 12시간이나 하루가 지난 이후에 불이 나는 경우가 가끔 있기는 하다”며 “그동안 과충전 등 누적된 스트레스가 있었는데 더운 여름 날씨와 결합해 단락을 일으켰을 가능성도 있다”고 말했다.&lt;br&gt;&lt;br&gt;차량이 갑자기 폭발한 것이 ‘각형 배터리’ 화재 양상을 보인다는 분석도 나왔다. CATL의 NCM 811 배터리는 LG에너지솔루션·SK온이 만드는 파우치 형태와는 다른 각형 배터리로 알려졌다. 업계 관계자는 “사각 형태의 금속 캔으로 감싼 각형 배터리는 단단하기 때문에 안정성이 높지만, 캔 내부에서 문제가 발생해 열과 압력이 한도 이상 높아지면 폭발하는 특성이 있다”고 말했다.&lt;br&gt;&lt;br&gt;◇480가구 단전, 주민 300여명 피난 생활&lt;br&gt;&lt;br&gt;불이 난 아파트에는 나흘째 전기와 물 공급이 끊겼다. 사고 당시 화염으로 지하 주차장 내부의 온도가 1500도까지 치솟으면서 전기 설비와 수도 배관 등이 녹아버렸기 때문이다. 전기는 5개 동 480가구, 물은 15개 동 1580가구에 각각 공급되지 않고 있다. 이 때문에 주민 300여 명이 인근 학교 등에서 피난 생활을 하고 있다. 인천 서구 관계자는 “6일부터 수도와 전기가 차례로 정상화될 것”이라고 했다.&lt;br&gt;&lt;br&gt;지난 1일 발생한 이 아파트 주차장 화재로 차량 140여 대가 불타거나 파손됐고, 주민 23명이 연기를 마셔 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
