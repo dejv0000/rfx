@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경찰, ‘일본도 살인’ 30대 남성 구속 송치</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/06/NZHCTKTMV5CEDMMDD33RPV5OJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/06/NZHCTKTMV5CEDMMDD33RPV5OJU/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 03:47:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LF22A5QXFNKCNBLIUIADDWWXCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 아파트에서 일본도를 휘둘러 이웃 주민을 살해한 백모씨가 1일 서울서부지방법원에서 열린 영장실질심사에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 은평구의 한 아파트에서 일본도를 휘둘러 이웃을 살해한 30대 남성이 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;서울 서부경찰서는 같은 아파트 주민 김모(43)씨를 살해한 혐의로 구속된 백모(37)씨를 검찰에 넘겼다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 백씨는 지난달 29일 오후 11시 30분쯤 은평구 아파트 정문 앞에서 1m 길이의 일본도를 휘둘러 같은 아파트 주민 김씨를 살해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;백씨는 김씨와 개인적 친분이 없는 것으로 조사됐다. 김씨는 9살과 4살 아들을 둔 가장으로, 잠시 담배를 피우러 나왔다가 변을 당했다. 그는 경찰 조사에서 “피해자가 지속적으로 나를 미행하는 스파이라고 생각해 범행했다”는 취지로 진술했다.&lt;br&gt;&lt;br&gt;백씨는 지난 1일 서울서부지법에서 열린 영장실질심사를 받고 나오면서 “나는 멀쩡했고 심신미약 상태가 아니었다”고 말하기도 했다.&lt;br&gt;&lt;br&gt;경찰은 앞서 백씨가 마약 검사를 거부하자 그에 대한 압수수색 영장을 발부받아 마약 간이시약 검사를 했으나 음성 반응이 나왔다. 현재 국립과학수사연구원에 정밀 감정을 의뢰한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“애써도 쓰나미 한 번에 끝장”... ‘블랙먼데이’ 사회 초년생들 망연자실</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/06/5VA7KQGCAVGJRMFPYW6FHELZXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/06/5VA7KQGCAVGJRMFPYW6FHELZXY/</guid>
+      <dc:creator>구아모 기자, 김영은 인턴기자(한국외대 졸업)</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 03:11:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E5AGJXEJTJAP7CX322YAYBS44M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 8월 5일 오후 서울 여의도 KB 국민은행 딜링룸에서 코스닥과 코스피 지수가 표시되고 있다. 이날 코스피 지수가 장중 10% 폭락하면서 2,441.55로 마감했다. / 장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국발(發) 경기 침체 공포가 지난 월요일 아시아 증시 덮치며 ‘블랙 먼데이’를 보낸 가운데, 주식 투자로 자산 마련을 노리던 사회 초년생들은 ‘테마주나 단기간에 오르는 주식 투자로 요량을 바란 것도 아닌데’ ‘적금보다 높은 정도의 수익률만 기대하며 미국 증시에 투자 했을 뿐인데’는 비명이 이어졌다.&lt;br&gt;&lt;br&gt;전날 한국거래소에 따르면 코스피 지수는 234.64 포인트 내려 1988년 코스피 개장 후 최대 낙폭을 기록했다. 하락률은 8.78%로 2008년 글로벌 금융 위기 이후 가장 많이 하락했다. 코스닥지수는 11.30% 폭락하며 지난 2020년 3월 이후 4년 5개월 만에 서킷 브레이커가 발동됐다. 하루만에 시가총액 235조원이 증발했다.&lt;br&gt;&lt;br&gt;우량주 위주로 넣었다는 사람들도 코스피 지수의 역대 최대 하락폭에 충격에 빠졌다. 직장생활 2년차인 사회초년생 최모(28)씨는 삼성전자를 포함한 우량주 위주로 종목 3개에 투자했다가 1200만원을 넣었는데 100만원의 손실을 봤다고 한다. 최씨는 “개미들이 차근차근 집을 지어도 쓰나미 한 번 지나가면 싹다 무너지니 황망하다”며 “일확천금을 노린게 아니라 월급 한푼 두푼 모아 휴가 때 보탬이라도 할 소소한 마음이었는데 당황스럽다”고 했다.&lt;br&gt;&lt;br&gt;재무제표 등을 공부하며 한국 증시에 투자했다가 하루만에 몇천만원이 날라가기도 한다. PER·PBR 등 수치도 평가하며 투자한다는 직장생활 2년차 권모(26)씨는 국내의 한 전자 재료 업체에 꾸준히 투자해왔다. 호재가 발생해 고점으로 4만 6200원까지 찍었던 종목이 전날 5일 2만 9750원으로 급락하며 하루 만에 1000만원이 넘는 수익이 빠졌다. 권씨는 “재무제표도 공부해 가면서 고점 찍었을 때도 판매하지 않고 참았는데, 단 하루 만에 그동안 모은 돈 1000만원이 증발했다”고 했다.&lt;br&gt;&lt;br&gt;S&amp;amp;P500ETF 등 해외 ETF 투자로 적금보다는 높은 수익률을 기대한 사람들도 일제히 손실을 보기도 했다. 입사한지 갓 4달차인 김모(26)씨는 수습 생활을 포함한 시기의 월급 모두를 나스닥 100ETF, S&amp;amp;P ETF, 삼성전자에 투자했다고 한다. 김씨는 “월급을 어디다 넣을까 고민하다가, 돈을 넣었을 3주 전만 해도 유망한 주라고 해서 얼마 안되는 돈 55만원을 날렸다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>훔친 차로 도둑 운전하고 수천만원 절도한 10대, 실형 확정</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/06/KWVNRYUOYFDANJZJVVJNIGFVZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/06/KWVNRYUOYFDANJZJVVJNIGFVZE/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 03:39:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X3DWKKO633K5H7KE5K62XKG32Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다른 사람의 자동차와 오토바이를 훔쳐 운전하고, 주차장을 돌며 수천만원 상당의 차량 속 물건을 도둑질한 혐의 등으로 기소된 10대가 대법원에서 실형을 확정받았다.&lt;br&gt;&lt;br&gt;6일 법조계에 따르면, 대법원 1부(주심 서경환 대법관)는 특수절도, 사기, 특정범죄가중처벌법 위반(도주치상) 등 혐의로 기소된 A군(19)에 대해 징역 장기 3년, 단기 2년을 선고한 원심을 확정했다.&lt;br&gt;&lt;br&gt;A군은 17세이던 2022년 인천 일대에서 잠겨 있지 않은 타인의 승용차와 오토바이를 훔쳐 무단으로 운전한 혐의로 기소됐다. A군은 주차된 차량 속 지갑을 가져가는 등 48차례에 걸쳐 약 3700만원 상당의 재물을 훔치거나 훔치려다 미수에 그친 혐의, 면허가 정지된 상황에서 운전을 하다가 교통사고를 내고 뺑소니를 친 혐의도 받는다. 이 밖에 폭행, 재물손괴 등을 포함해 총 11개 혐의가 적용됐다.&lt;br&gt;&lt;br&gt;A군은 과거에도 비슷한 범행을 저질러 가정법원에서 ‘10호 처분’(장기 소년원 송치)을 받았던 것으로 나타났다.&lt;br&gt;&lt;br&gt;1심과 2심은 A군에게 징역 장기 3년, 단기 2년을 선고했다. 소년법상 만 19세 미만 미성년 범죄자는 성인과 달리 형의 상·하한을 나눈 부정기형을 선고받는다.&lt;br&gt;&lt;br&gt;A군은 ‘소년의 특성에 비춰 상당하다고 인정되는 때에는 형을 감경할 수 있다’는 소년법 조항에 따라 감형해달라고 상고했지만, 대법원은 이를 받아들이지 않았다. 대법원은 “소년법 60조 2항에 의한 감경은 법원의 자유재량에 속하는 임의적인 것”이라며 “원심이 A군에 대해 감경을 하지 않았다고 해서 잘못이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>지하철 무인 가판대서 현금 털어간 전과 22범...지명 수배까지 50대 남성 구속</title>
       <link>https://www.chosun.com/national/national_general/2024/08/06/ENTFYMNOCBH5HCKQ3S2CN7KKEI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/06/ENTFYMNOCBH5HCKQ3S2CN7KKEI/</guid>
@@ -881,24 +908,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3HKWMWNWTBMRNBEXJS6GFFDK6A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국 남자 양궁 대표팀 김우진 선수가 4일(현지시각) 프랑스 파리 앵발리드에서 2024 파리올림픽 남자 양궁 개인전 금메달 결정전 미국의 브래디 엘리슨 선수와의 경기에서 슛오프 접전 끝에 금메달을 획득한 후 기뻐하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김우진(32·청주시청)이 4.9mm 차이로 파리 올림픽 남자 양궁 개인전에서 금메달을 따낸 가운데, 결승전 상대 선수였던 브래디 엘리슨(미국)에 대한 관심도 뜨겁다. 김우진과 살 떨리는 결승전 경기를 보여준 만큼 실력도 좋은 데다, 승패가 갈린 뒤에도 진심으로 상대를 축하해주는 모습을 보여줬기 때문이다.&lt;br&gt;&lt;br&gt;김우진은 4일(현지 시각) 프랑스 파리 앵발리드에서 열린 2024 파리올림픽 양궁 남자 개인전 결승에서 브래디 엘리슨(미국)을 6대5(27-29 28-24 27-29 29-27 30-30 &amp;lt;10-10&amp;gt;)로 이겼다. 승부를 가른 건 4.9mm의 차이였다. 슛오프에서도 동점이면 화살로부터 과녁 중앙까지의 거리를 비교해 더 짧은 선수가 승리한다. 김우진이 55.8mm, 엘리슨이 60.7mm였다.&lt;br&gt;&lt;br&gt;사실 엘리슨과 한국 양궁 대표팀의 인연은 깊다. 엘리슨은 ‘태극궁사 킬러’라는 별명을 가진 선수다. 그는 과거 한국 양궁을 무너뜨린 경험이 있기 때문이다. 2008년 베이징 대회부터 5회 연속 올림픽 무대에 선 그는 2012 런던 올림픽 남자 단체전 준결승에서 한국을 꺾는 데도 일조하기도 했다. 당시 한국은 엘리슨이 버틴 미국에 패하며 동메달에 그쳤다.&lt;br&gt;&lt;br&gt;승패가 갈린 뒤 엘리슨이 김우진을 진심으로 축하해주는 모습은 생중계로 송출됐다. 엘리슨은 손우진의 손을 맞잡고 만세를 했다. 그리고는 포옹을 나눴다. 이후엔 각국의 감독들과 김우진, 앨리슨이 다 함께 손을 맞잡고 만세를 하기도 했다. 한 번은 카메라를 향해, 또 다른 한 번은 관중석을 향해 맞잡은 손을 들고 감사 인사를 전했다.&lt;br&gt;&lt;br&gt;이 영상은 온라인상에서도 널리 공유됐다. 이날 여러 온라인 커뮤니티에는 ‘디카프리오 닮은 미국 양궁 선수’ ‘엘리슨 인스타그램 근황’ ‘미국 양궁 엘리슨형 볼수록 호감이네요’ 등의 제목과 함께 경기 영상과 사진들이 올라왔다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 상대를 존중할 줄 아는 엘리슨의 모습에 감탄했다. 네티즌들은 “너무 아름답다. 이게 바로 스포츠맨십, 화합 그리고 진짜 한미동맹이다!” “미국 선수 매너봐라 진짜 멋있다. 잘생기고 호감이다.” “미국 선수 인상도 좋고 인성도 좋고 매너 짱이다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[서초동 25시] 법원, 형사재판 증인에 돈봉투 대신 계좌 이체</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/05/TT5DAZ3QURH7ROJWCRWI34K5KA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/05/TT5DAZ3QURH7ROJWCRWI34K5KA/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Aug 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AEBGXIY6KNGCLOHYNEEO2E4ZYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 증인·배심원 여비. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 형사재판 증인에게 현금으로 지급하던 일당과 여비를 ‘계좌 이체 원칙, 예외적으로 현금 지급’ 방식으로 변경했다. 법원행정처는 지난 5월 21일 이런 내용의 ‘증인의 일당·여비 등의 지급에 관한 예규’를 개정, 지난달 1일 시행에 들어갔다. 현금 사용이 줄어든 변화에 맞춰 약 20년 만에 원칙을 바꾼 것이다.&lt;br&gt;&lt;br&gt;법원은 형사재판에서 증인으로 출석한 사람에게 수고비 명목으로 일당 5만원과 교통·숙박비를 합쳐 하루에 5만~15만원을 지급한다. 종전엔 법원 실무관이 은행에서 현금을 찾아 봉투에 넣고 재판이 끝나면 증인에게 줬다고 한다. 법원 관계자는 “2010년대 초반까지만 해도 온라인 뱅킹이 많지 않아 계좌 이체보다 현금이 훨씬 자연스러웠다”며 “경제적 형편 때문에 돈이 즉시 필요한 증인이 있을 수 있다는 점도 고려해 현금을 지급해 왔다”고 했다.&lt;br&gt;&lt;br&gt;하지만 사회 전반적으로 현금 사용이 줄면서 번거롭다는 의견이 많았다고 한다. 법원행정처 관계자는 “현금은 잃어버리거나 잘못 지급될 위험이 커서 실효성이 떨어진다는 의견이 많았다”며 “민사재판과 국민참여재판 등의 일부 일당과 여비는 이미 계좌 이체로 지급하고 있어 이번에 형사재판 증인도 규정을 만들어 통일한 것”이라고 했다.&lt;br&gt;&lt;br&gt;형사재판 증인들은 계좌 이체를 반기는 분위기다. 의료 감정 증인으로 법정에 자주 선다는 한 법의학자는 “몇 년 전까지만 해도 일당을 받으려면 증언을 마쳤어도 재판이 완전히 끝날 때까지 1~2시간씩 기다려야 했다”며 “사는 곳에서 멀리 떨어진 법원에라도 가면 일당이 늦게 나와 기차를 놓친 적도 있는데, 이제 계좌로 받으니 훨씬 편해졌다”고 했다.&lt;br&gt;&lt;br&gt;한편 법관에게 현금으로 지급하던 수당도 계좌 이체로 바뀌는 추세다. 서울고법에선 재판부마다 배당하는 활동비를 최근 계좌 이체로 받을 수 있도록 했다. 현직 판사는 “현금을 쓸 일이 많지 않으니 활동비를 받으면 보통 은행에 가서 계좌에 입금하곤 했다”며 “흰 봉투 주고받는 법원의 아날로그 방식이 변하고 있는 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>음주운전 대통령실 행정관 벌금 800만원 약식기소</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/05/MABOKHSCGNHBBOMP5PV24MUQZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/05/MABOKHSCGNHBBOMP5PV24MUQZI/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Aug 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ALOOWOBNU5CPIASGKFKOEL2JZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;용산 대통령실 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울서부지검 형사2부(부장 추혜윤)는 지난 1일 도로교통법상 음주 운전 혐의로 대통령실 선임행정관 강모(44)씨를 벌금 800만원에 약식기소했다고 4일 밝혔다. 약식기소는 비교적 가벼운 혐의에 대해 공판을 열지 아니하고 서면 심리로 재판해 달라고 청구하는 일종의 ‘간이 기소’다. 당사자나 법원이 정식 재판에 회부하지 않으면 검찰이 기소한 대로 확정된다.&lt;br&gt;&lt;br&gt;강씨는 지난 6월 7일 오후 9시 50분쯤 서울 용산구 한남동 한 도로에서 음주 운전을 하다 경찰에 단속됐다. 그는 당시 두 차례에 걸쳐 15분가량 측정을 거부하다가 세 번째 측정 요구에 응했다. 음주 측정 결과는 면허 정지(혈중알코올농도 0.08% 미만) 수준이었다. 그러나 강씨는 불복해 채혈 측정을 요구했고, 최종 면허 취소 수준(0.08% 이상 0.2% 미만)이 나왔다. 현행 도로교통법상 음주운전 1회 위반 시, 혈중알코올농도가 0.08% 이상 0.2% 미만이면 징역 1∼2년이나 벌금 500만∼1000만원의 벌금에 처하도록 돼 있다.&lt;br&gt;&lt;br&gt;지난달 경찰이 강씨를 검찰에 불구속 송치한 직후, 이런 사실이 언론을 통해 알려지자 대통령실은 뒤늦게 그를 직무에서 배제했다. 대통령실 관계자는 “강씨에게 중징계를 내려달라고 인사혁신처에 요청했다”며 “조만간 징계 시기나 수위가 결정될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>육아휴직자 아빠가 32%… 휴직 급여 늘린 영향</title>
       <link>https://www.chosun.com/national/labor/2024/08/05/22VQXFOSDJEK5NLFRSCX35UAX4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/08/05/22VQXFOSDJEK5NLFRSCX35UAX4/</guid>
@@ -914,15 +923,6 @@
       <description/>
       <pubDate>Sun, 04 Aug 2024 15:35:00 +0000</pubDate>
       <content:encoded>이동현 미실란 대표와 이천영 고려인마을 이사장이 제34회 일가상 수상자로 선정됐다고 일가재단이 4일 밝혔다. 이동현 대표는 농업 부문, 이천영 이사장은 사회공익 부문이다. 일가상은 가나안농군학교 창설자인 일가(一家) 김용기 선생(1909~1988)의 뜻을 기리기 위해 제정됐다. 이 대표는 국내 최초로 유기농 발아 현미를 개발해 우리 쌀의 국제적인 경쟁력을 높인 공로를 인정받았으며, 이 이사장은 전남 광주에 조성한 고려인 마을을 20여 년간 주도적으로 키워온 열정이 높은 평가를 받았다. 시상식은 9월 7일 서울 강남구 밀알학교 그레이스홀에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>사직 전공의들, 정형외과 초음파 강좌에 대거 몰려...“복귀? 절대 안해”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/08/04/D4DPMEA5LZEULED3DCH5HZU2UI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/04/D4DPMEA5LZEULED3DCH5HZU2UI/</guid>
-      <dc:creator>안준용 기자, 김서현 인턴기자(연세대 아동가족학과 졸업 예정)</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Aug 2024 06:10:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YU7QHNCWERL7VPWWKJDN65NQFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 서울 용산구 대한의사협회에서 열린 '사직 전공의들을 위한 근골격계 초음파 연수강좌'에서 참가자들이 강연에 참석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 오전 10시쯤 서울 용산구 대한의사협회(의협) 회관 지하 1층 대강당에 사직 전공의 150여명이 모였다. 대한정형외과의사회 주최, 의협·대한개원의협의회 후원으로 이날 오전 9시부터 오후 5시30분까지 이곳에서 열리는 ‘사직 전공의 선생님들을 위한 근골격계 초음파 연수 강좌’를 듣기 위해서다.&lt;br&gt;&lt;br&gt;통증 치료의 기본으로 동네 병·의원에서 많이 쓰이는 ‘근골격 초음파’ 연수 강좌에 전공의들이 대거 몰린 것이다. 이날 강좌는 의협 등이 사직 전공의를 대상으로 진행하는 연수 프로그램의 첫 번째 강좌였다.&lt;br&gt;&lt;br&gt;앞서 주최 측은 정형외과 사직 전공의 100명과 타 전공 사직 전공의 100명을 선착순으로 모집했고, 지원자가 몰리면서 모집 시작 두 시간 만에 접수가 마감됐다. 이후 사전 등록 인원을 250명으로 늘렸다. 주말 오전 강좌인데도 이날 신청자 대부분이 참석했고, 시간이 지나면서 빈자리도 거의 다 채워졌다.&lt;br&gt;&lt;br&gt;이날 강좌에 참석한 내과 1년차 레지던트 A씨는 “전공의 사직은 정부의 일방적인 정책 추진으로 터질 게 터진 것”이라며 “수련병원으로 복귀할 계획은 없고, 초음파는 어느 과에서든 많이 쓰는 영역이라 구직에 도움이 될 것이라고 판단해 강좌를 들으러 왔다”고 했다. 응급의학과 4년차 레지던트 B씨도 “앞으로 어떻게 할지 계획을 세운 건 아니지만, 복귀할 생각은 없다”고 했다. 또 다른 전공의는 “복귀할 생각이 있으면 여기 왜 왔겠느냐”고도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D76J76U3EJMCZPSBZWFIN2AZSU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;4일 서울 용산구 대한의사협회 대강당에서 열린 '사직 전공의들을 위한 근골격계 초음파 연수강좌'에서 참가자들이 강연을 듣기 위해 출입 등록을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 강좌는 고광표 대한정형외과의사회 학술이사가 맡았다. 어깨·팔꿈치·손목·발목·무릎·엉덩이 등 부위별로 나눈 6개 세션에서 기본적인 초음파 이론 강의를 진행했다.&lt;br&gt;&lt;br&gt;김완호 대한정형외과의사회장은 이날 “앞으로도 여러 (전공의) 선생님들이 통증 치료의 기본인 초음파 내용을 마스터할 수 있도록 최대한 기회를 제공하겠다”고 했다.&lt;br&gt;&lt;br&gt;의협이 사직 전공의들을 위해 만든 ‘진로지원 TF’ 위원장이기도 한 박근태 대한개원의협의회장은 “여론은 사직 전공의들이 피부·미용 쪽으로 많이 몰리고 있어 급여도 반 토막 나고 있다고 부정적으로 호도하고 있다”며 “마치 모든 전공의 선생님들이 개원을 원하는 것처럼 몰아간다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “전공의와 의대생의 요구를 수용하는 것이 사태를 해결할 수 있는 길이라는 것을 정부는 꼭 알아야 할 것”이라며 “연수 강좌뿐 아니라 개원가 체험, 구인·구직 등 (전공의들에게) 실질적 도움을 드리도록 준비하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>바람 핀 아내의 ‘계획 이혼’... 상간남은 내 평생 친구였다 [이별전쟁]</title>
