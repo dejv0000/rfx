@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>20년만에 金 회식이 김치찌개...김연경이 사비로 레스토랑 쏜 까닭</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/06/3BZEOOB4IND6VL7KTWUS2KS5NA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/06/3BZEOOB4IND6VL7KTWUS2KS5NA/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 13:06:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z6ALHPINRSZCL366MQ7KZ3K6NQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김연경 선수. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2024 파리 올림픽 배드민턴 여자 단식에서 금메달을 획득한 안세영(22·삼성생명)이 우승 후 대한배드민턴협회를 향한 불만을 공개적으로 제기하면서 과거 다른 체육협회를 둘러싼 잡음도 재조명되고 있다.&lt;br&gt;&lt;br&gt;6일 각종 온라인 커뮤니티에서는 한국 여자배구 대표팀이 지난 2014년 인천 아시안게임에서 20년 만에 금메달을 따고도 김치찌개집에서 회식을 해 논란이 됐던 사건이 언급되고 있다.&lt;br&gt;&lt;br&gt;당시 한국 여자배구 대표팀은 인천 아시안게임에서 20년 만에 중국을 꺾고 금메달을 획득했지만 대한배구협회가 제공한 회식 장소가 김치찌개집이라 홀대 논란이 일었다. 결국 이를 보다 못한 김연경 선수가 사비로 고급 레스토랑에서 선수들과 따로 뒤풀이를 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TSQLUBUTXNBWXNJPZR5DFETNNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2014 인천아시안게임에서 금메달을 딴 여자 배구 대표팀이 김치찌개로 회식하는 모습. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 여자배구 대표팀은 2016년 리우올림픽에서도 홀대 논란에 휩싸였다.&lt;br&gt;&lt;br&gt;당시 협회가 비행기 표를 구하지 못해 대회를 마친 선수들이 보호자도 없이 서로 다른 비행기로 ‘따로 귀국’했기 때문이다.&lt;br&gt;&lt;br&gt;논란이 커지자 2016년 당시 서병문 배구협회 회장은 기자회견을 열고 고개를 숙였다.&lt;br&gt;&lt;br&gt;그러면서 2년 전 있었던 김치찌개집 회식에 대해서도 뒤늦게 사과했다. 서 회장은 “배구 팬들의 엄청난 분노는 백번 맞는 얘기다. 아시안게임이 끝나고 김치찌개 회식을 한 것은 잘못된 것”이라며 “운동선수들은 상당히 영양상태가 중요하다. 특히 우승한 팀에게 김치찌개를 먹였다는 것은 제가 봐도 용서하지 못할 일이다”라고 했다.&lt;br&gt;&lt;br&gt;그러나 2021년 도쿄올림픽에서 4강 진출에 성공한 여자배구 대표팀 귀국 기자회견에서는 진행자인 유애자 한국배구연맹 경기운영위원이 대한배구협회 회장 등에 감사 인사를 하라고 김연경 선수를 압박하는 모습이 연출돼 논란이 됐다. 당시 배구협회 게시판에는 분노한 팬들의 항의 글이 쇄도했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AQBT5GCMDBJ5JAPURXAXMDKK5I.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;안세영 선수. /스포츠조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 대한배드민턴협회는 2018년 7월 중국에서 열린 세계 선수권 참가를 위해 선수 6명과 8명의 임원이 출국했는데 감독과 선수들은 이코노미석에 탑승했고 후원사를 포함한 임원진은 전원 비즈니스석을 이용했다는 의혹이 제기된 상태다. 2017년 5월 호주 대회 때는 협회 임원 5명이 1600만원에 달하는 비용을 지출해 비즈니스석을 타고 출국했지만 ‘전력상 우승은 어렵다’며 8강전 이후 조기 귀국한 사실이 재조명되기도 했다.&lt;br&gt;&lt;br&gt;문화체육관광부는 안세영 선수의 인터뷰 발언과 관련해 경위를 파악하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 마약류 사범, 올해 이미 1만명 넘었다</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/06/SJYAWIWAWFA5ZI4AY3ESTII4HY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/06/SJYAWIWAWFA5ZI4AY3ESTII4HY/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 12:53:56 +0000</pubDate>
+      <content:encoded>올해 상반기 수사기관에서 단속한 마약류 사범이 1만명을 넘은 것으로 6일 나타났다. 법조계에선 “우리나라는 마약 청정국 지위를 잃은 지 오래”라는 분석이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6SRSRFNEKYEQDKP5WU27BMRQRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청 깃발이 바람에 휘날리는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검찰청이 지난 2일 공개한 ‘2024년 6월 마약류 월간동향’에 따르면, 지난 1~6월 단속된 마약류 사범은 총 1만1058명이다. 이는 지난해 상반기 1만172명이 단속된 것에 비해 8.7% 증가한 것이다. 이 중 구속된 사범 수는 1478명이라고 한다.&lt;br&gt;&lt;br&gt;올해 상반기엔 특히 공급 사범의 증가세가 두드러졌다. 공급 사범이란 마약을 밀조‧밀수‧밀매한 이들을 가리키는데, 올해 상반기에 이미 4019명이 잡혔다. 지난해 상반기 3112명이 단속된 것과 비교했을 때 29.1% 늘어난 것이다.&lt;br&gt;&lt;br&gt;법조계에선 “마약범죄를 잡기 위한 특단의 대책이 필요하다”는 지적이 나온다. 다년간 마약 수사를 한 경험이 있는 한 법조인은 “우리나라는 이미 마약 청정국 지위를 잃은 지 오래인 상황”이라며 “공급 사범에 대한 엄벌이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FDYOC3BZXJGIBGPLVPZMRMYA5Q.png"&gt;&lt;br&gt;&lt;br&gt;마약류 공급사범 범죄는 계속해서 늘어나는 추세다. 서울남부지검 형사4부(부장 남수연)는 지난 5일 서울대·연세대·고려대 등 수도권 13개 대학 학생들이 포함된 수백 명 규모의 동아리에서 집단 마약 투약 및 유통이 있었다고 밝히고, 동아리 회장 A씨 등 4명을 구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면, A씨와 동아리 임원들은 텔레그램 마약 업자에게서 ‘던지기’ 방식으로 마약을 개당 10만원 정도에 구매하고, 15만~20만원의 웃돈을 붙여 되판 것으로 조사됐다.&lt;br&gt;&lt;br&gt;한편, 작년 10월엔 홍익대·건국대·가천대 등에 ‘영감이 필요한가’라는 문구가 들어간 마약 홍보 전단이 뿌려졌는데, 배후에 마약 유통 조직이 있는 것으로 밝혀졌었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정부 “경증 환자, 대형병원 진료비 인상 검토... 빅5는 중증·응급 중심”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/08/06/TRMXKTSE35F5FFKCC2X6BPLBXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/06/TRMXKTSE35F5FFKCC2X6BPLBXI/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 12:16:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CHXVA2VCYZMHDHI6AL2X6XPRQQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 대형 병원에서 내원객들이 통합원무창구 업무를 보고 있다. 기사 내용과 무관한 사진. 2024.7.11 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 빅5를 비롯한 상급종합병원의 중증 환자 비율을 현재 50%에서 3년 내에 60%까지 높이기로 했다. 상급종합병원에서 진료받는 경증 환자에게는 의료비 부담을 높이는 방안도 검토해 나가기로 했다.&lt;br&gt;&lt;br&gt;정경실 보건복지부 의료개혁추진단장은 6일 브리핑에서 “상급종합병원을 중증 환자 중심 병원으로 전환해 중증·응급 환자에게 최적의 진료를 제공하려 한다”며 “약 3년의 시간을 두고 평균 50% 수준인 중증 환자 비율을 60%까지 올리겠다”고 밝혔다. 이를 위해 상급종합병원을 권역 내 ‘진료 협력 중추 병원’으로 삼아 10개 이상의 ‘진료 협력 병원’과의 네트워크를 갖추고, 협력 병원이 요청한 환자는 상급병원에서 최우선으로 진료받도록 체계를 구축할 계획이다. 진료 협력 병원 간에는 전자 의무 기록 시스템(EMR) 연계를 통해 환자의 진료 정보를 공유하는 등 중복 검사할 필요가 없도록 만든다. 상급종합병원 병상은 중환자 중심으로 운영하고, 일반 병상 규모는 줄일 방침이다.&lt;br&gt;&lt;br&gt;또 정 단장은 “환자들이 적합한 의료를 이용하도록 비용 구조를 재점검할 것”이라며 “경증 환자가 그에 맞지 않는 의료 이용을 했을 때 비용을 늘리는 방식도 가능할 텐데, 환자·소비자 단체와 논의가 필요하다”고도 했다. 다양한 방식을 통해 상급종합병원으로 쏠리는 경증 환자를 동네 병의원으로 분산하겠다는 취지다. ‘중증 환자’ 분류 기준도 개선한다. 현재 적용하고 있는 환자 분류 기준은 같은 수술이라도 환자의 연령과 기저 질환 여부, 응급도 등을 반영하지 못한다는 지적에 따른 것이다.&lt;br&gt;&lt;br&gt;상급종합병원의 ‘전문의 중심 병원으로 전환’ 방안도 밝혔다. 전문의와 진료 지원(PA) 간호사의 훈련 프로그램 등을 지원해 상급종합병원의 전공의 근로 의존도를 약 40%에서 20% 이하로 줄일 방침이다. 정부는 7일 하반기 전공의 추가 모집 일정을 발표할 예정이다.&lt;br&gt;&lt;br&gt;한편 ‘의사 개원 면허제’와 관련, 정 단장은 “외국 사례를 보면 임상 경험이 충분하지 않은 상태에서 단독 진료를 허용하는 나라가 거의 없다”며 “(국내에서도) 임상 역량이 쌓인 상태에서 환자를 대면할 수 있도록 하기 위해 면허를 개편하는 방안을 검토하고 있다”고 말했다. 정부 차원에서 개원 면허제 검토 방침을 공개적으로 밝힌 건 처음이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘탁구 삐약이’ 신유빈이 먹자 또 완판…납작복숭아 뭐길래?</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/06/EIXRVOUQRVBRJKGVAJ7TY6S2QI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/06/EIXRVOUQRVBRJKGVAJ7TY6S2QI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 11:25:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RBTZPHHZ5JAQLPSI7S3KYAOCNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신유빈 선수가 납작 복숭아를 먹고 있는 모습. /소셜미디어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2024 파리올림픽 탁구 혼합복식에서 동메달을 획득한 신유빈(20·대한항공) 선수가 경기장에서 먹은 간식들이 연일 화제가 되고 있다.&lt;br&gt;&lt;br&gt;6일 유통업계에 따르면 신유빈 선수가 지난달 30일 혼합복식 동메달 결정전 직전 먹었던 납작 복숭아는 국내 한 온라인 쇼핑몰에서 사전예약 판매 이틀 만에 완판됐다.&lt;br&gt;&lt;br&gt;신유빈 선수가 납작 복숭아를 간식으로 먹는 모습은 당시 중계 카메라에 포착됐는데 이 영상은 소셜미디어 등에서 100만회 이상 조회됐다.&lt;br&gt;&lt;br&gt;네티즌들은 “신유빈 선수가 먹는 모습을 보니 납작 복숭아 맛이 궁금하다” “나도 먹어보고 싶다” “집 앞에서 팔길래 냉큼 사왔다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QJZXPZEUO6ERCPK5GGVXUEKJVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;납작 복숭아. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신유빈 선수의 먹방이 온라인상에서 화제가 되자 일부 유통업체는 발 빠르게 납작 복숭아 판매를 시작한다고 밝히기도 했다.&lt;br&gt;&lt;br&gt;납작 복숭아는 유럽 등에선 흔하게 볼 수 있지만 국내에선 다소 생소한 과일이다. 일반 복숭아보다 크기가 작고 납작한 모양이다. ‘도넛 복숭아’로도 불린다. 가격은 일반 복숭아보다 다소 비싼 편이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XVX356ONRFDY5HMOCDK3U43X44.png"&gt;&lt;figcaption&gt;&lt;small&gt;1일(현지 시각) 프랑스 사우스 파리 아레나에서 열린 2024 파리 올림픽 탁구 여자 단식 8강전 경기 도중 에너지 젤을 먹고 있는 신유빈. /MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 신유빈 선수가 경기 도중 먹은 에너지젤도 공식 판매 사이트에서 품절됐었다.&lt;br&gt;&lt;br&gt;에너지젤 회사 대표는 “TV를 보다가 우연히 신유빈 선수가 우리 회사 제품을 먹고 있는 걸 봤다. 이후 주변에서 연락이 쇄도하더라. 이후 판매량이 폭증했으며 현재 일시 품절 상태”라며 “협찬이나 광고를 통한 노출이 아니었으며 신유빈 선수가 우리 회사 제품을 이용하는 줄 몰랐는데, 지금 긴급하게 제품의 추가 물량을 확보하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“어머니 또 맞았다”...70대 父 살해한 20대 남성 체포 </title>
+      <link>https://www.chosun.com/national/incident/2024/08/06/SET2WZX6ARASPFZ3MKCNHDDUSI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/06/SET2WZX6ARASPFZ3MKCNHDDUSI/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 11:53:18 +0000</pubDate>
+      <content:encoded>서울 성동경찰서는 6일 아버지를 살해한 혐의로 20대 남성 A씨를 체포해 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HXKFET6XUFFNVD2PJBIUSYCNX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 성동경찰서. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 이날 오전 0시 40분쯤 술을 마시고 성동구 금호동에 있는 70대 아버지 B씨의 집을 찾아가 B씨를 칼로 찔러 살해한 혐의를 받는다. B씨는 인근 병원으로 이송됐으나 숨졌다. ‘집에서 시끄러운 소리가 난다’는 신고를 받고 출동한 경찰은 범행 장소에서 A씨를 현행범으로 체포했다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “어머니가 맞았다는 이야기를 듣고 화가 나 범행했다”고 진술한 것으로 전해졌다. 경찰에 따르면 A씨의 어머니는 작년 12월부터 9차례 B씨에 대해 가정폭력 신고를 했다. B씨는 가정폭력으로 사건 발생 나흘 전까지 A씨에 대해 접근 금지 명령도 받은 상태였다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 자세한 범행 경위를 조사한 뒤 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>만취 상태로 오토바이 몰다 보행자 친 30대 구속 송치  </title>
+      <link>https://www.chosun.com/national/incident/2024/08/06/I2XWH77XXJDVRA7UXDCCIIY4OY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/06/I2XWH77XXJDVRA7UXDCCIIY4OY/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 11:44:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BPI2MBARESJ53AUZM5GE2O3MHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 만취한 채 오토바이를 몰다 보행자를 치고 달아난 30대가 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경남 창원서부경찰서는 도로교통법 위반 등의 혐의로 A씨를 구속 송치했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 5월 31일 오전 5시 30분쯤 창원시 의창구 한 도로에서 음주 상태로 오토바이를 운전하다 보행자 신호에 횡단보도를 건너던 60대 B씨를 치고 달아난 혐의를 받는다. 그는 사고를 내고 도주하다 B씨 아내인 C씨가 쫓아오자 C씨마저 오토바이에 매단 채 약 260ｍ를 달아나기도 했다.&lt;br&gt;&lt;br&gt;조사 결과, A씨는 전날 식당과 유흥주점 등에서 많은 술을 마셨던 것으로 확인됐다. 그는 음주 사실이 들킬 것을 우려해 범행을 저질렀다고 경찰에 진술했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>허미미 “메달 따고 왔어요”...독립투사 현조부 묘소부터 갔다</title>
       <link>https://www.chosun.com/national/people/2024/08/06/DTIRTDJWEJAMRPNOO3YBXAJTKA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/06/DTIRTDJWEJAMRPNOO3YBXAJTKA/</guid>
@@ -863,33 +917,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CTSS3HGF5ZH3RCUCX56LYWLRWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 마포경찰서. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 마포구의 한 은행에서 여성의 신체를 불법 촬영한 혐의를 받는 은행 청원경찰이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 마포경찰서는 성폭력범죄의 처벌 등에 관한 특례법 위반(카메라 등 이용 촬영) 혐의로 모 은행 청원경찰 A씨를 현행범으로 체포하고 입건해 조사하고 있다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;서울 마포구의 한 은행에서 근무하는 A씨는 지난 2일 낮 2시 반쯤 은행을 찾은 여성의 신체 부위를 몰래 촬영한 혐의를 받는다.&lt;br&gt;&lt;br&gt;피해 여성의 일행이 이를 알아채고 경찰에 신고하면서 A씨는 현행범으로 체포됐다.&lt;br&gt;&lt;br&gt;경찰은 임의 제출받은 휴대전화를 포렌식 해 추가 피해자가 있는지 등을 수사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>폭염에 리어카 끌며 땀 뻘뻘… 폐지 노인 도운 해병 눈길</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/05/5KEWX2SHIBD7PPXZD5MVZZPJHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/05/5KEWX2SHIBD7PPXZD5MVZZPJHI/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 06:38:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FEWHHAH52BHABNR5YPSM5QPCOM.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;/육군훈련소 대신 전해드립니다&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연일 무더위가 이어지는 가운데 폐지 줍는 노인을 도와 리어카를 끈 군인의 사연이 전해졌다.&lt;br&gt;&lt;br&gt;지난 1일 페이스북 ‘육군훈련소 대신 전해드립니다’에는 “미담 사례를 제보한다”는 글과 함께 사진 한 장이 올라왔다. 사진에는 군복을 입은 남성이 허리를 굽힌 채 폐지로 가득 쌓인 손수레를 밀고 있는 모습이 담겼다. 뒤에선 긴팔 차림의 노인이 남성을 바라보고 있다.&lt;br&gt;&lt;br&gt;제보자 A씨는 이날 오전 경기도 안양시 동안구 비산대교 사거리에서 촬영된 장면이라고 설명했다.&lt;br&gt;&lt;br&gt;A씨는 “어르신이 리어카를 끌고 가는데 날씨도 덥고 짐을 많이 실어서인지 차도에서 도통 움직이질 못했다”며 “그때 주변을 지나가던 한 해병대원이 이를 보고 1초의 고민도 없이 달려와 무거운 리어카를 안전한 곳까지 옮겨주고 갔다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “아마 해병대원이 도와주지 않았더라면 비산대교 일대가 교통체증과 기타 안전사고에 노출됐을 가능성이 컸을 것이라고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “휴가를 나와서까지 국민을 위해 거리낌 없이 도와주는 이 해병 전우님이 널리 알려졌으면 좋겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;사연을 본 네티즌들은 “감사합니다 멋진 해병” “고맙습니다! 대한민국의 밝은 미래!” “역시 우리 국군은 최고”, “저런 군인에게 휴가를 많이 늘려줘야 한다” “휴가권을 줘라!” 등의 댓글을 남겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>말다툼 끝에 아내 살해…경찰, 60대 남성 검거</title>
-      <link>https://www.chosun.com/national/incident/2024/08/05/74ZJAN3JWFDZ7OP7ZIGC3BXZGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/05/74ZJAN3JWFDZ7OP7ZIGC3BXZGU/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 07:10:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TLMZ3HGGPFFCHL3O2JJB74EK7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 연수경찰서 전경./인천 연수경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 아파트에서 아내를 살해한 60대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;인천 연수경찰서는 살인 혐의로 60대 A씨를 체포해 조사하고 있다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 3일 인천시 연수구 연수동의 한 아파트에서 아내인 60대 B씨를 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 범행 이후 지인에게 범행 사실을 털어놨고, 이 사실을 접한 지인은 지난 4일 오후 6시 55분쯤 112에 신고했다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 구속영장을 신청할 예정이다. 또 국립과학수사연구원에 숨진 B씨 시신의 부검을 의뢰했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “말다툼하다가 범행이 일어난 것으로 보고 있다”며 “정확한 사건 경위를 조사하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, 文정부 행정관 ‘군 수사기록 무단 열람 의혹’ 국방부 관계자 소환</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/05/F2LWR4WKFVD5ZHA45OOBUU6TEQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/05/F2LWR4WKFVD5ZHA45OOBUU6TEQ/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 06:54:29 +0000</pubDate>
-      <content:encoded>문재인 정부 청와대 행정관의 ‘군 사건 기록 무단 열람’ 혐의를 수사 중인 검찰이 5일 국방부 조사본부 관계자를 소환했다.&lt;br&gt;&lt;br&gt;서울중앙지검 공공수사3부(부장 김태훈)는 이날 오전부터 이태명 전 국방부 조사본부장(예비역 준장)을 참고인 신분으로 불러 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WYOIMZKD34RWQHYAKQHU4EBHUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 의혹은 2017년 8월 청와대 국가안보실 소속이던 최용선 당시 행정관이 국방부 조사본부에 방문해 ‘사이버사 정치 댓글 사건’ 수사팀 관계자를 만나고 청와대로 수사 기록을 갖고 오게 해 영장 없이 무단 열람했다는 내용이다. 앞서 국방부 검찰단은 2014년 ‘사이버사 정치 댓글 사건’을 수사해 전직 사이버사령관 등을 기소하면서 김관진 전 장관의 개입은 없었다고 발표했다. 그런데 최씨가 국방부 조사본부를 방문한 뒤 이 사건에 대한 재조사가 속도를 내기 시작했다. 김 전 장관은 결국 2017년 11월 구속됐다가 10여일 만에 구속적부심으로 풀려나 불구속 기소됐다.&lt;br&gt;&lt;br&gt;이 전 본부장은 2017년 당시 조사본부 수사단장이었다. 검찰은 2017년 9월 최씨가 이 전 본부장, 수사팀장 등 4명을 청와대로 불렀다는 당시 조사본부 관계자의 진술을 확보했다. 다만 이 전 본부장은 “청와대에 간 적 없다”는 입장인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;시민단체 ‘한반도 인권과 통일을 위한 변호사 모임’과 ‘자유대한호국단’은 2022년 7~8월 최씨를 직권남용 및 개인정보보호법 위반 등 혐의로 고발했다. 서울경찰청 반부패수사대는 지난 5월 최씨를 검찰에 송치했다. 경찰은 당초 최씨와 함께 고발됐던 이종협 전 본부장·이태명 전 본부장 등은 불기소 처분했지만, 최근 검찰이 “다시 수사하라”고 요구하며 사건 기록을 되돌려보냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>초4 아들 ‘저속노화 식단’ 공개했다가…“아동학대” 비판받은 의사</title>
       <link>https://www.chosun.com/national/national_general/2024/08/05/Y42HAJHOCJFY7AJH7OHKRRH5Y4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/05/Y42HAJHOCJFY7AJH7OHKRRH5Y4/</guid>
@@ -897,37 +924,6 @@
       <description/>
       <pubDate>Mon, 05 Aug 2024 06:06:38 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OXB5I4DAX5CXDEYDH7NSJ5CXQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정희원 서울아산병원 노년내과 교수가 공개한 초등학생 4학년생 아들의 저속노화 식단. /X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;저속노화(느리게 늙기)의 중요성을 강조해온 노인의학 전문가가 초등학생 아들에게 준 저속노화 식단을 공개했다가 때 아닌 아동학대 논란에 휩싸여 해명에 나섰다.&lt;br&gt;&lt;br&gt;정희원 서울아산병원 노년내과 교수는 지난 3일 X(옛 트위터)를 통해 “초4 아들의 저녁밥이다. 아들용 저속노화밥, 코코넛 오일로 구운 광어”라며 식단 사진을 공개했다.&lt;br&gt;&lt;br&gt;사진에는 콩과 잡곡이 섞인 밥과 생선 한조각, 어묵 한조각, 멸치볶음, 김 등의 반찬 모습이 담겼다. 정 교수는 “아들용 저속노화밥 구성은 콩과 잡곡 35%, 찹쌀 15%, 백미 50%”라는 설명도 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PDIN3JLJYNC73CFJV3TULIJ4BY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2023년 12월 20일 서울 송파구 서울아산병원 노년내과 진료실의 정희원 교수. 그는 "젊은이가 빠르게 늙는 것을 막고, 어르신이 느리게 늙도록 돕는 것"이 의사로서의 꿈이라고 했다. /서울아산병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 교수는 평소 건강하게 오래 사는 생활습관으로 저속노화 식단의 중요성을 강조해왔다.&lt;br&gt;&lt;br&gt;지난 6월 열린 학회에서 그는 “젊어서부터 저속 노화 역량을 키우면 나이 들어 질병이 생기거나 심한 스트레스를 받아도 건강한 상태로 돌아오는 회복 탄력성이 좋아져서 말년까지 건강하게 살다가 막판에 돌봄에 의지하는 기간도 매우 짧다”고 말했다.&lt;br&gt;&lt;br&gt;또 지난달 열린 한 강연에서는 “노화를 느리게 하는 식사란 결국 절식, 대사과잉 감소와 모두 연결돼 있다”며 “의학계는 40여 년 동안의 연구를 통해 편안하게 절식하면서도 항노화 유전자를 활성화할 수 있다는 결론에 거의 이르렀다”고 말하기도 했다.&lt;br&gt;&lt;br&gt;이에 네티즌들은 “코코넛오일로 생선 굽는 레시피 응용해보겠다” “세살 버릇 여든까지 간다는데 어릴 때부터 좋은 식습관을 생활화할 수 있어서 참 좋겠다” “아이 때부터 저속노화 식단 챙겨줘야 하는지 몰랐다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;다만 일부 네티즌들 사이에서는 성장기 아이가 먹기에 식단 구성과 양이 다소 부실하다는 지적이 제기됐다. 일각에서는 저속노화의 목적이 ‘동안’에 있는 것 아니냐며 아이에게 저속노화를 강요하는 건 아동학대나 마찬가지라는 식의 비판도 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QAZ4FVT76BFYJFKBRUDKPULEZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정희원 교수가 공개한 간식상자. /X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 정 교수는 “먹던 중에 찍은 사진”이라며 “저녁 만큼은 건강하게 먹이려고 한다. 간식이나 밖에서 하는 군것질은 자유롭게 하도록 둔다”고 해명했다.&lt;br&gt;&lt;br&gt;아울러 정 교수는 과자와 초콜릿 등이 담긴 아들의 간식 상자를 공개한 데 이어 어릴 때 먹는 ‘가속노화 음식’이 나쁜 이유에 대한 글을 차례로 올리기도 했다.&lt;br&gt;&lt;br&gt;정 교수는 관련 논문 자료를 참고해 작성한 이 글에서 “노화와 성장은 많은 경로를 공유한다. ‘가속노화 음식’으로 영양 왜곡이 생기면 가속성장이 아니라 성장 궤적이 왜곡된다”며 “소아 비만, 성조숙증 등 대사 질환이 생길 가능성이 높아지며 그 결과 타고난 키보다 작게 자랄 수도 있다”고 설명했다.&lt;br&gt;&lt;br&gt;이어 “문제는 성인이 되었을 때까지 이어진다. 더 이른 시기에 당뇨, 고혈압 등의 만성 질환을 가지게 될 수 있고, 생식기능에도 문제가 생기기 쉽다”며 “평생 써야 하는 대사 소프트웨어를 어릴 때 잘못된 방향으로 쓰면 더 오래 나쁜 결과를 만들게 되는 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>호남권 곳곳에 ‘폭염경보’ ‘호우경보’ 동시 발효</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/08/05/BH4X52G3DBGS7AOCLVT7LGJWSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/08/05/BH4X52G3DBGS7AOCLVT7LGJWSU/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 06:14:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U2HLXPFBARKMZDBSAX6DPZ67I4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국 대부분 지역에 폭염경보가 발효된 5일 광주 서구 치평동에서 한 시민이 내리는 소나기에 우산을 쓰고 걷고 있다. 2024.8.5 /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 장성, 전북 정읍 등에 5일 ‘폭염경보’와 ‘호우경보’가 동시에 발효됐다. 폭염과 폭우가 함께 찾아온 것이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 전남권 곳곳에 강한 소나기 구름대가 만들어지며 호우특보가 발효됐다. 장성과 정읍엔 시간당 60㎜ 이상의 강한 비가 쏟아지고 있다.&lt;br&gt;&lt;br&gt;폭염경보는 체감기온이 35도 이상일 때, 호우경보는 3시간 동안 90㎜ 이상 비가 내릴 때 각각 내려진다. 한반도가 펄펄 끓는 상황에서 장마 수준의 집중호우까지 내리고 있는 셈이다.&lt;br&gt;&lt;br&gt;기상청은 광복절인 15일까지 폭염이 이어질 것으로 내다봤다. 지표가 워낙 뜨겁다보니 대기 상·하층 온도차가 커지면서 산발적 소나기 구름대가 만들어지며 한동안 전국에 소나기가 쏟아질 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>차기 검찰총장 후보군 이번 주 윤곽...7일 추천위 개최</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/05/PQ74SM6ODNCCNIY543LUBFOM7I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/05/PQ74SM6ODNCCNIY543LUBFOM7I/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 06:37:34 +0000</pubDate>
-      <content:encoded>이원석 검찰총장의 후임을 맡을 후보군이 이번 주 중으로 결정된다.&lt;br&gt;&lt;br&gt;검찰총장후보추천위(추천위)는 오는 7일 회의를 열고 차기 검찰총장 후보군을 3명 이상으로 압축해 박성재 법무부 장관에게 추천할 예정이다. 통상 추천위는 심사 대상자 중 3~4명으로 후보군을 압축하고, 그 결과를 공개한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMIKU47EYKGMSS6GOW7EZGE2SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 과천 법무부 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 장관이 추천받은 후보 중 1명을 제청하면 윤석열 대통령은 결격 사유 등을 검토한 뒤 인사청문 요청안을 국회로 보내고, 인사청문회를 거쳐 최종 임명하게 된다.&lt;br&gt;&lt;br&gt;검찰 안팎에선 심우정(사법연수원 26기) 법무부 차관, 임관혁(26기) 서울고검장, 신자용(28기) 대검찰청 차장검사 등이 후보군으로 거론된다. 외부 인사로는 지난 5월 검찰을 떠난 최경규(25기) 전 부산고검장 등이 오르내리고 있다.&lt;br&gt;&lt;br&gt;법무부는 지난달 5일 정상명 전 검찰총장을 위원장으로 하는 추천위를 구성하고 국민을 대상으로 검찰총장 후보 천거 절차를 진행했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>광주서 낙뢰로 30대 심정지, 병원으로</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/05/XOTHYYMGPZDIBOWFVBR75ONECI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/05/XOTHYYMGPZDIBOWFVBR75ONECI/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 06:21:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHVNB2B2WJHGXODIDACQLHGZVI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시에서 천둥·번개를 동반한 소나기가 내린 가운데 낙뢰를 맞은 30대가 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;5일 소방당국에 따르면 이날 낮 12시 4분쯤 광주시 동구 조선대학교에서 A(30)씨가 낙뢰에 맞아 쓰러졌다는 신고가 접수됐다. 현장에 출동한 119구조대원들은 심정지 상태로 쓰러진 A씨를 병원으로 이송했다.&lt;br&gt;&lt;br&gt;광주지역은 이날 오후 2시 15분쯤 호우주의보가 발효되는 등 불안정한 대기 상태 속에서 천둥·번개를 동반한 소나기가 내리고 있다. A씨는 병원에서 맥박과 호흡을 회복했지만 의식불명 상태인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MHVNB2B2WJHGXODIDACQLHGZVI.JPG?width=496&amp;height=279&amp;auth=5d8854929aec8ed72a601a4ca53afb489da4fe91add7ff94fbd4d87dbb787185&amp;smart=true" type="image/jpeg" height="279" width="496">
-        <media:description type="plain">119 소방 로고</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>‘70억집‧25억그림’ 돈자랑 비판에 홍혜걸 “의사는 돈 벌면 안 되나”</title>
