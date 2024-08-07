@@ -13,6 +13,115 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>배우 유아인 부친상…지병으로 투병 중 별세</title>
+      <link>https://www.chosun.com/national/people/2024/08/07/YPZOZ4NQ6VCIJA2BJ6GGTNFV5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/07/YPZOZ4NQ6VCIJA2BJ6GGTNFV5A/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 07 Aug 2024 09:27:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y3AR3V5YG3RWPGZCM3WVKHBP6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 유아인. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 유아인(37·엄홍식)이 부친상을 당한 사실이 알려졌다.&lt;br&gt;&lt;br&gt;7일 연예계에 따르면 유아인의 아버지 엄영인(67)씨는 이날 지병으로 별세했다. 빈소는 대구가톨릭대학교병원 장례식장에 마련했다. 발인은 오는 9일이며, 장지는 명복공원이다.&lt;br&gt;&lt;br&gt;유아인의 부친은 지병으로 오랜 기간 투병 생활을 해온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;유아인은 지난 2019년 한 방송에 출연해 “나는 늘 마마보이였다. 누굴 더 좋아하냐고 물으면 한번도 아빠라고 대답해본 적이 없다”면서도 “그런데 최근 아버지에 대해 생각하게 됐다. 처음으로 아버지에게 전화해 이런저런 이야기를 하다가 사랑한다는 말을 했다. 어른이 된 이후로 처음이었다. 부끄러웠다”며 부친에 대한 애틋함을 드러냈었다.&lt;br&gt;&lt;br&gt;한편 유아인은 마약 상습 투약 혐의로 기소돼 재판을 받고 있다. 검찰은 지난달 재판에서 유아인에게 징역 4년을 구형했다.&lt;br&gt;&lt;br&gt;유아인 측은 재판 과정에서 “우울증을 오래 앓으며 수면마취제에 의존성이 생겼고, 그런 상황에서 투약이 이뤄진 점을 인정하고 깊이 반성한다”고 밝혔다. 유아인에 대한 선고는 오는 9월 3일 이뤄질 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>청주 ‘형제살인사건’ 부실 수사 경찰관, 경찰 수사 받는다</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/08/07/TYXMBJAJDJEN7GPNYAGZOCO2CY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/08/07/TYXMBJAJDJEN7GPNYAGZOCO2CY/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 07 Aug 2024 09:05:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N2HT6LX2QVARHFIYJ5RAAKN4O4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충청북도경찰청 전경/충북경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부실 수사로 묻힐뻔한 ‘청주 형제 살인사건’ 담당 경찰관에 대한 경찰 수사가 진행된다.&lt;br&gt;&lt;br&gt;충북경찰청 수사심의계는 7일 청원경찰서 수사팀 A 경장에 대해 허위공문서 작성 등의 혐의로 반부패경제범죄수사대에 정식 수사를 요청했다고 밝혔다. A 경장이 소속된 수사팀장 B 경감에 대해서는 징계를 요구했다.&lt;br&gt;&lt;br&gt;수사심의계 관계자는 “자세한 감찰 조사 결과를 밝힐 수는 없지만, 조사 결과 A 경장에 대해 수사가 필요하다고 판단했다”며 “B 경감의 경우 관리책임이 있어 징계를 요구한 것”이라고 말했다.&lt;br&gt;&lt;br&gt;A 경장은 검찰의 보완수사 요청을 이행하지 않았는데도 마치 조사한 것처럼 수사보고서를 꾸민 혐의 등을 받는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;충북 청주에서 발생한 형제 살인사건은 지난 2022년 6월 13일 60대 형이 술을 마시고 들어와 남동생을 마구 폭행해 숨지게 한 사건이다.&lt;br&gt;&lt;br&gt;당시 함께 거주하던 어머니 C(80대)씨는 “밤새 무슨 일이 있었는지 모르겠다”며 진술했고 A경장은 “목격자와 결정적 증거를 찾지 못했다”며 증거 불충분 등의 이유로 지난해 7월 형에 대해 불송치 결정을 내렸다.&lt;br&gt;&lt;br&gt;그러나 검찰은 같은 달 수사 내용을 검토한 후 재수사 지시를 내렸고 A경장은 검찰의 요청 사항을 제대로 이행하지 않았음에도 수사보고서를 허위로 작성한 것으로 파악됐다. 이어 지난 5월 검찰 요구로 사건을 송치한 경찰은 검찰의 추가 보완수사 요청에 따라 수사팀을 바꾼 뒤 사실상 재수사를 했다.&lt;br&gt;&lt;br&gt;경찰은 재수사를 통해 사건 당일 목격자와 철거 직전이던 사건 현장에서 결정적 증거를 확보했다. 이 수사 결과를 토대로 검찰은 지난달 형을 구속기소했다.&lt;br&gt;&lt;br&gt;이날 B경감에 대한 징계를 요구받은 충북경찰청 감사계는 자체 조사를 거쳐 징계 수위를 결정할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>병무청, 병역 면탈 막기 위해 바둑기사·복싱선수 등도 ‘특별관리’</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/07/MSND6TCERVACZD5IT634RQQTPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/07/MSND6TCERVACZD5IT634RQQTPU/</guid>
+      <dc:creator>양지호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 07 Aug 2024 09:22:24 +0000</pubDate>
+      <content:encoded>병무청(청장 김종철)이 7일부터 ‘병적 별도관리 대상’을 확대해 바둑기사·당구선수·복싱선수 등을 포함한다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MP2DJI25VJO4JBKW4CXAJJFZJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김종철 병무청장이 지난 5월 정부대전청사에서 열린 취임식에서 취임사를 하고 있다. /병무청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;병무청은 이날 “병적 별도관리 대상인 체육선수 범위를 확대한다”며 “현행 관리대상 이외에 한국기원·프로당구협회·한국권투위원회 등 12개 단체에 소속한 선수 490여명을 관리대상으로 추가한다”고 했다. &lt;br&gt;&lt;br&gt;병무청은 그동안 대한체육회에 가맹된 체육단체와 문화체육관광부장관이 지정하는 축구·야구·농구·배구·골프 5개의 프로단체에 등록한 선수, 그리고 해외에서 활동하는 전·현직 국가대표 선수를 병적 별도관리 대상으로 지정해 특별 관리해왔다. 하지만 바둑 기사와 당구 선수 등 일부 종목의 체육단체는 대한체육회 소속도 아니고 프로스포츠로도 지정되지 않아 병적관리 사각지대가 될 수 있다는 우려가 있었다. 이에 관련 선수들도 특별 관리 대상에 포함하기로 한 것이다. &lt;br&gt;&lt;br&gt;병무청은 2017년부터 4급 이상 공직자와 그 자녀, 체육선수, 대중문화예술인, 고소득자와 그 자녀들의 병적을 따로 분류해 특별 관리를 하고 있다. 일부 연예인·체육선수 등의 변역 면탈 시도가 반복된 것이 영향을 줬다. 병무청은 “2017년 제도 도입 이후 지난 5년 동안 병무청에서 실시한 병역처분에 대한 적정성 검증 인원은 1만2388명에 달한다”며 “이 중 병역면탈로 의심되는 180명은 병무청 특별사법경찰의 조사를 거쳐 33명을 검찰로 송치했다”고 했다. &lt;br&gt;&lt;br&gt;병무청에 따르면 현재 연간 3만여 명의 관리대상이 병적 별도관리 시스템에 등록해 이들의 병역 이행을 모니터링하고 있다. 나이·중점질환·연기 횟수 등과 연계해 병역판정검사부터 현역병 입영까지 전 과정을 살피며 병역면탈 의심자를 가려내고 있다고 한다. 이를 통해 지난 1월 현역 입대를 피하기 위해 지적 능력이 떨어진다고 주장한 아이돌 출신 A씨를 적발했고 K3리그 축구선수 6명이 아령을 이용해 손목인대를 손상하고 같은 병원에서 수술받아 4급 보충역을 처분받은 사례 등을 적발했다.  &lt;br&gt;&lt;br&gt;병무청은 관계자는 “병역의무는 결국 나와 가족의 안전을 지키는 일”이라며 “앞으로 공정병역 확산에 더욱 박차를 가하겠다고” 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“장비 부착 아니었어?”...100m 밖에서도 잰다, 양궁 심박수 측정 비밀</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/07/F4ECTHC4TJFXLL774DXKKOJXOY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/07/F4ECTHC4TJFXLL774DXKKOJXOY/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 07 Aug 2024 04:22:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZX6A5OOY4NAFFAI6XJ5AOJ2CMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;비전 기반 심박수 측정 장치로 측정한 선수들의 심박수./현대자동차그룹&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양궁 선수들의 경기중 심박수 측정이 시청에 재미를 더해준다는 호평이 나온 가운데, 실시간으로 선수들의 심박수를 측정할 수 있게 된 비밀이 밝혀졌다.&lt;br&gt;&lt;br&gt;7일 현대자동차 그룹에 따르면 양궁 경기중 선수들의 심박수 측정은 비접촉식으로 진행된다. 선수 얼굴의 미세한 색상 변화를 감지해 맥파를 검출하고 이를 통해 심박수를 측정하는 방식으로, 현대차그룹이 만든 첨단 비전 컴퓨팅 장치로 이를 측정한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA6JTEDPE5FJLIXDZA76XIJROA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;비전 기반 심박수 측정 장치로 측정한 선수들의 심박수./현대자동차그룹&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비접촉식으로 심박수를 측정하는 데다 원거리 고배율 카메라를 사용해 경기중 선수의 집중을 방해하지 않는다는 게 현대차그룹 설명이다. 이 카메라를 이용하면 100m 이상 떨어진 거리에서도 선수의 심박수를 측정할 수 있다.&lt;br&gt;&lt;br&gt;심박수는 선수의 호흡이나 근력 집중의 상태를 간접적으로 추정할 수 있는 지표로, 한국 양궁 선수들은 2020 도쿄 올림픽을 앞두고 훈련 때부터 이 장비로 심박수를 측정해왔다.&lt;br&gt;&lt;br&gt;나아가 현대차그룹은 더욱 정교한 심박수 측정을 위해 활시위를 당기고 있는 선수의 얼굴 영역을 판별하고 주변 노이즈를 걸러내는 별도의 안면인식 알고리즘을 개발했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMTJEHTY65KR5MLK5HNTERBMCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국 남자 양궁 대표팀 김우진이 4일(현지 시각) 프랑스 파리 앵발리드에서 열린 2024파리올림픽 남자 양궁 개인전 준준결승에 출전해 활을 쏘고 있다.  2024.8.4 / 파리=올림픽사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양궁 중계에서 선수들의 심박수가 나가기 시작한 건 2020 도쿄올림픽부터다. 심박수를 비교하면 선수들의 긴장도를 짐작해볼 수 있어 경기를 더 재밌게 볼 수 있다는 반응이 나왔다.&lt;br&gt;&lt;br&gt;특히 도입 당시 김우진의 심박수가 화제였다. 상대 선수가 마지막 활을 쏘며 분당 심박수(bpm) 162bpm을 기록할 때 김우진의 심박수는 73bpm에 머물렀다. 이는 일반 성인이 휴식을 취하는 상태에서 나타나는 평온한 심박수로, 네티즌들은 김우진에게 자면서 활을 쏜다는 뜻으로 ‘수면쿵야’라는 별명을 붙여주기도 했다.&lt;br&gt;&lt;br&gt;심박수 측정의 비밀을 알게 된 네티즌들은 “선수 몸에 장비를 부착하는 줄 알았는데 이런 대단한 기술력이 있었구나” “경기 나가는 선수한테 센서 어떻게 붙이나 궁금했는데 신기하다” “볼때마다 항상 궁금했는데 현대차는 양궁에 정말 진심이구나” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아들에게만 20억 부동산 상속, 뒤늦게 안 딸들… 법원 “유류분 인정”</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/07/HWLO2ZQKRJHYFIFNZL2YUO3Z24/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/07/HWLO2ZQKRJHYFIFNZL2YUO3Z24/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 07 Aug 2024 08:12:48 +0000</pubDate>
+      <content:encoded>돌아가신 아버지가 외아들에게만 부동산을 물려준 사실을 뒤늦게 알게 된 딸들이 ‘유류분(遺留分)을 달라’고 낸 소송에서 이겼다. 아버지 사망 약 17년 만에 소송을 낸 딸들의 유류분 청구 권리를 법원이 인정한 것이다. 유류분은 고인(故人)의 뜻과 관계없이 특정 가족에게 법정 상속분의 최소한의 비율을 보장하는 제도다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYW56QFHN5ASRDOAYV7U5TDR6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 법조계에 따르면, 대법원 3부(주심 노정희 대법관)는 딸 셋이 아들 A씨를 상대로 낸 ‘유류분에 기한 소유권이전 등기청구’ 소송을 지난 3월 원고 승소로 확정했다. 대법원이 추가 심리를 하지 않고 상고를 기각하는 심리불속행 기각을 하면서 세 딸의 손을 들어준 2심 판결이 최종 확정됐다. 이로써 A씨는 상속받은 부동산을 가족들의 유류분 몫만큼 나눠주고, 소송을 낸 딸 셋에겐 1억 1900여 만원을 지급하게 됐다.&lt;br&gt;&lt;br&gt;2004년 5월 사망한 이들의 아버지는 슬하에 딸 4명과 아들 1명을 뒀다. 아버지는 세상을 떠나기 전 약 20억원 규모의 땅과 건물을 외아들 A씨에게 전부 넘겨줬다. 딸들도 자신의 몫의 유류분을 상속받을 권리가 있었지만 재산을 나눠받지 못한 것이다. 딸들은 매년 명절 때마다 A씨에게 상속을 재촉했으나, A씨는 물려받은 재산을 나누지 않았다고 한다.&lt;br&gt;&lt;br&gt;이후 2011년 11월 부동산 토지 대장을 확인한 딸들은 아버지가 아들 A씨에게만 부동산을 증여한 사실을 알게 됐다. 네 자매 중 3명은 “유류분 만큼의 재산을 달라”며 2021년 11월 A씨를 상대로 소송을 냈다.&lt;br&gt;&lt;br&gt;쟁점은 유류분 청구권의 소멸 여부였다. A씨는 딸들이 아버지가 사망한 직후인 2004년에 이미 유류분을 침해당한 사실을 알았지만, 그로부터 1년 안에 유류분을 달라하지 않았기 때문에 청구권이 사라졌다고 주장했다. 민법 117조에 따르면 유류분은 다른 형제 등에게 재산을 물려줬다는 사실을 안 때로부터 1년, 부모가 사망한 지 10년 이내에 할 수 있기 때문이다.&lt;br&gt;&lt;br&gt;하지만 1·2심은 딸들의 손을 들어줬다. 재판부는 딸들이 토지대장을 확인한 2011년 11월에, 아버지가 A씨에게 재산을 물려줬단 사실을 정확히 알게 됐다고 판단했다. 이후 약 2개월 만인 2012년 1월 23일 설날에 A씨에게 유류분을 달라고 요구했으니, 1년 안에 유류분 반환청구를 한 것으로 봤다.&lt;br&gt;&lt;br&gt;재판부는 아버지 사망 이후에도 명절 때마다 딸들이 A씨에게 유류분을 달라고 말한 점을 일종의 의사표시로 인정했다. 꼭 재판을 하지 않더라도 의사표시를 통해 유류분 반환청구를 할 수 있는데, 명절마다 딸들이 자신의 몫을 달라고 밝힌 것만으로도 의사표시가 된다는 것이다.&lt;br&gt;&lt;br&gt;앞서 1심 재판을 맡은 서울동부지법 민사14부(재판장 김지철)는 2022년 12월 A씨가 세 딸에게 각각 13분의 1에 해당하는 부동산 소유권을 이전하라고 판결했다. 작년 11월 2심도 같은 판단을 내렸고, 이 판결은 대법원에서 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>지하철 4호선 당고개역, ‘불암산역’으로 이름 바뀌나</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/07/KUGUROVDYNGT5FCGQOL3IZM5VU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/07/KUGUROVDYNGT5FCGQOL3IZM5VU/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 07 Aug 2024 08:56:48 +0000</pubDate>
+      <content:encoded>서울 노원구가 서울 지하철 4호선 당고개역의 이름을 ‘불암산역’으로 바꾸는 작업을 추진하고 있다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DQV7RX25Q5KLOEPIWWHJTF4CKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노원구가 역명 변경을 추진하고 있는 당고개역의 모습. /노원구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 노원구에 따르면, 노원구는 지난달 구 지명위원회를 열고 당고개역의 이름을 ‘불암산역’으로 바꾸기로 의결했다.&lt;br&gt;&lt;br&gt;노원구는 앞서 지난 3월 당고개역의 새로운 이름을 찾기 위해 주민 공모를 실시했다. 주민 공모 결과 ‘불암산역’, ‘신상계역’, ‘덕릉역’, ‘당현역’이 최종 후보로 선정됐고, 지난 5월부터 3달간 주민 의견 수렴을 거쳐 불암산역을 새 이름으로 확정했다.&lt;br&gt;&lt;br&gt;노원구 관계자는 “최종 후보 4개와 ‘당고개역 유지’까지 총 5개 안을 대상으로 조사한 결과 불암산역이 과반수 주민의 지지를 얻었다”고 말했다.&lt;br&gt;&lt;br&gt;현재 역 이름인 ‘당고개’는 ‘서낭당이 있는 고개’라는 뜻의 ‘당현(堂峴)’에서 현(峴)을 순우리말 ‘고개’로 풀어 쓴 것에서 유래했다. ‘당현’이라는 명칭은 성동구 하왕십리, 종로구 창신동 일대의 옛 이름으로도 사용됐다.&lt;br&gt;&lt;br&gt;앞서 노원구는 지난 2008년과 2022년 두 차례에 걸쳐 역명 변경을 추진했지만, 당시에는 내부 검토 과정에서 ‘이름을 바꿀 이유가 없다’고 판단해 무산됐다. 노원구 관계자는 “상계동 재개발이 진행되면서 ‘당고개라는 이름이 지역의 낙후된 이미지를 고착화한다’는 주민들 의견이 늘었다”고 말했다. 당고개역의 역명 개정은 서울시 지명위원회 심의를 통과하면 확정된다.&lt;br&gt;&lt;br&gt;지하철역 이름이 바뀐 사례는 이전에도 있었다. 지난 2월 서울 지하철 7호선 뚝섬유원지역이 자양역으로 바뀐 것이 대표적이다. 서울 광진구는 지난 2008년부터 뚝섬유원지역 이름을 바꿔야 한다고 요구해 왔다. 한강 개발 과정에서 뚝섬유원지의 이름이 뚝섬한강공원으로 바뀌었고, 2호선 뚝섬역과 이름이 비슷해 혼동을 준다는 이유였다.&lt;br&gt;&lt;br&gt;앞서 지난 2013년에는 수도권 전철 1호선 성북역의 이름이 광운대역으로 바뀌기도 했다. 광운대역이 들어설 당시에는 역사가 성북구에 있었지만, 1988년 역사 일대가 노원구로 편입되면서 역 이름을 바꿔야 한다는 주장이 있었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>3년 수사하고...‘50억 클럽’ 권순일, 변호사법만 적용 불구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/07/YIP76PC32ZCC3HSCNEKNVYLJAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/07/YIP76PC32ZCC3HSCNEKNVYLJAM/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 07 Aug 2024 00:32:24 +0000</pubDate>
+      <content:encoded>‘대장동 50억 클럽’ 의혹을 수사하는 검찰이 7일 권순일 전 대법관을 변호사법 위반 혐의로 불구속 기소했다. 2021년 9월 관련 수사에 착수한지 2년 11개월 만이다. 권 전 대법관이 화천대유 대주주 김만배씨 부탁을 받고 이재명 전 더불어민주당 대표의 공직선거법 위반 사건 상고심 무죄 판결을 주도했다는 이른바 ‘재판 거래 의혹’은 이번 기소 대상에 포함되지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IHXA2RE7ZZEGJGNZKWES76Y3EQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2018년 4월 16일 오후 권순일 중앙선거관리위원장이 경기 과천 중앙선거관리위원회 위원회의실에서 열린 전체회의에 참석해 모두발언을 하고 있다./김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 반부패수사3부(부장 이승학)는 이날 권 전 대법관에게 변호사 등록을 하지 않고 법률 자문 활동을 한 혐의를 적용했다. 권 전 대법관은 2021년 1~8월 변호사 등록 없이 화천대유에 송전탑 지중화 관련 행정소송 등 각종 소송 관련 재판 상황 분석, 법률문서 작성, 대응법리 제공 등 변호사 직무를 수행한 혐의를 받는다. 변호사법은 변호사 등록을 하지 않고 변호사 활동을 하면 3년 이하 징역 또는 2000만원 이하 벌금으로 처벌한다고 규정하고 있다.&lt;br&gt;&lt;br&gt;다만 검찰은 ‘재판 거래 의혹’은 이번 기소 대상에 포함하지 않았다. 검찰은 “재판 거래 의혹은 국민적 의혹이 완전히 해소될 때까지 계속 수사할 것”이라고 했다.&lt;br&gt;&lt;br&gt;권 전 대법관은 대법관 재임 중이던 2020년 7월 이재명 전 민주당 대표의 과거 선거법 위반 사건 상고심에서 무죄 취지 파기환송 판결을 주도한 것으로 알려져 있다. 이 판결로 이 전 대표는 경기지사직을 유지했고, 지난 대선에도 출마할 수 있었다. 김씨가 대법원 판결을 전후해 권 전 대법관의 대법원 사무실을 8차례 찾아갔고, 권 전 대법관이 퇴임 후 화천대유에서 거액의 고문료를 받은 사실이 알려지면서 재판 거래 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;권 전 대법관이 뇌물수수 및 변호사법 위반 혐의로 고발당한 것은 2021년 9월이다. 문재인 정부 검찰은 같은 해 10월과 11월 두 차례에 걸쳐 권 전 대법관을 비공개 소환했다. 당시 검찰은 이 전 대표 사건 관련 대법원 재판연구관 검토 보고서 등을 확보하기 위해 두 차례 압수수색 영장을 청구했지만 모두 법원에서 기각당했다. 검찰은 올 초에도 압수수색 영장을 추가로 청구했지만 법원이 재차 기각하자 뇌물 수수 혐의를 빼고 변호사법 위반 혐의만 적용해 압수수색 영장을 발부받았다. 검찰은 지난달 31일 권 전 대법관을 다시 소환해 조사했고 결국 변호사법 위반 혐의로만 먼저 기소했다.&lt;br&gt;&lt;br&gt;권 전 대법관은 2022년 말 변호사 등록 과정에서 대한변협이 두 차례 자진 철회를 요구했지만 받아들이지 않았다. 이후 대법원 사건에서 기업 측을 대리하는 등 변호사 활동을 해왔다.&lt;br&gt;&lt;br&gt;한편 검찰은 이날 홍선근 머니투데이 회장도 청탁금지법 위반으로 불구속 기소했다. 홍 회장은 2020년 1월 배우자와 아들 명의로 김씨로부터 50억원을 빌리고, 이를 이자 없이 원금만 갚으면서 약정 이자 1454만원을 면제받는 방식으로 금품을 수수한 혐의를 받는다.&lt;br&gt;&lt;br&gt;검찰은 “범죄에 상응하는 처벌을 받을 수 있도록 공소유지에 만전을 기할 것”이라고 했다.&lt;br&gt;&lt;br&gt;이로써 ‘대장동 50억 클럽’ 의혹을 받은 법조인·언론인 6명 중 권 전 대법관·홍 회장을 포함해 총 4명이 재판을 받게 됐다. 아들 퇴직금 명목으로 50억원(세후 25억원)을 받은 혐의로 기소된 곽상도 전 의원은 1심에서 뇌물 수수 혐의에 대해 무죄를 받고 항소심이 진행 중이다. 대장동 민간업자들에게 200억원을 약속받고 19억원을 받은 혐의로 기소된 박영수 전 특별검사는 1심 재판을 받고 있다.&lt;br&gt;&lt;br&gt;검찰은 이들과 함께 ‘50억 클럽’ 인사로 거론된 김수남 전 검찰총장과 최재경 전 민정수석에 대해서는 아직 처분을 내리지 않았다. 두 사람은 서면 조사를 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 차기 검찰총장 후보 심우정∙임관혁∙신자용∙이진동</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/07/XJXZUA6G5ZFD3GO5IHHG66H7IA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/07/XJXZUA6G5ZFD3GO5IHHG66H7IA/</guid>
+      <dc:creator>방극렬 기자, 유종헌 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 07 Aug 2024 08:16:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RP2NMANZPZH2VKW6GC623VV4UY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;차기 검찰총장 후보 심우정∙임관혁∙신자용∙이진동(왼쪽부터). /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 9월 임기를 마치는 이원석 검찰총장의 후임 후보자가 심우정(사법연수원 26기) 법무부 차관, 임관혁(26기) 서울고검장, 신자용(28기) 대검찰청 차장, 이진동(28기) 대구고검장 4명으로 추려졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 검찰총장후보추천위원회(총추위)는 이날 오후 2시 경기 과천시 정부종합청사에서 회의를 열고, 차기 검찰총장 후보군을 4명으로 압축했다. 총추위는 “검찰총장 후보 심사대상자들의 경력, 공직 재직기간 동안의 성과와 능력, 인품, 리더십, 정치적 중립성, 독립성에 대한 의지 등에 관해 심도 있는 심사를 거친 후 안정적으로 검찰 조직을 이끌고 국민이 바라는 검찰의 모습을 실현할 검찰총장 후보자 4명을 선정하여 법무부장관에게 추천했다”고 했다. 이날 회의는 개최 후 2시간35분만인 오후 4시35분쯤 종료됐다고 한다.&lt;br&gt;&lt;br&gt;법무부 관계자는 “박성재 법무장관은 검찰총장후보추천위원회의 추천 내용을 존중하여 검찰총장 후보자 임명을 제청할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;총추위 운영 규정에 따르면, 총추위는 회의 종료 후 후보자 3명 이상을 법무장관에게 서면으로 알려야 한다. 법무장관이 그중 1명을 대통령에게 제청하면 국회 인사청문회를 거쳐 검찰총장으로 임명되게 된다. 다만 국회 동의는 필요로 하지 않는다.&lt;br&gt;&lt;br&gt;총추위 당연직 위원은 배형원 법원행정처 차장, 김영훈 대한변호사협회장, 조홍식 한국법학교수회장, 이상경 법학전문대학원협의회 이사장, 송강 법무부 검찰국장이 맡았다. 비당연직은 위원장을 맡은 정상명 전 검찰총장을 비롯해 이진기 성균관대 법학전문대학원 교수, 안수현 한국외대 법학전문대학원장, 김세동 문화일보 논설위원이다.&lt;br&gt;&lt;br&gt;정 위원장은 이날 회의를 열며 “최근 수사에 대해 이런저런 이야기들이 있고 특히 검찰에 대해 많은 국민들이 걱정들을 하고 계시는 걸 제가 잘 알고 있다”며 “그 부분에 대해 여러분들이 너무나 잘 아시기 때문에 제가 덧붙여서 말씀드릴 건 없고 엄중한 상황 아래서 위원회를 한다는 것만 말씀드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/QDX5A744XJCEVNFNZVMXLNXMVE.jpg?width=1600&amp;height=900&amp;auth=40840e5cb7e871eaf3f11a27c9e1f3fe75faa2c2722f94c284575ec5822ae6a0&amp;smart=true" type="image/jpeg" height="900" width="1600"/>
+    </item>
+    <item>
+      <title>70대 아버지 살해한 20대 아들 구속...法 “도망 염려 있어”</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/07/PLYPXXAJFFBZ7MSIZP4COKSCG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/07/PLYPXXAJFFBZ7MSIZP4COKSCG4/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 07 Aug 2024 08:51:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AMQBBZYGFXZLY2FXCOBC3XPXK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;70대 아버지를 살해한 혐의로 체포된 20대 남성 A씨가 7일 오후 서울 동부지법에서 예정된 구속 전 피의자심문(영장실질심사)을 받기 위해 성동경찰서를 나서고 있다. A씨는 경찰 조사에서 "어머니가 맞았다는 이야기를 듣고 화가 나 범행했다＂고 진술한 것으로 전해졌다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;70대 아버지를 흉기로 찔러 살해한 20대 남성이 구속됐다.&lt;br&gt;&lt;br&gt;서울동부지법 신현일 영장전담 부장판사는 7일 오후 2시 30분 존속 살인 혐의를 받는 20대 남성 A씨에 대한 구속 전 피의자 심문(영장실질심사)을 열고 “도망할 염려가 있다”며 영장을 발부했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 전날 오전 0시 30분쯤 술을 마신 뒤 성동구 금호동에 있는 아버지 B씨의 집을 찾아가 B씨를 흉기로 찔러 살해한 혐의를 받는다. B씨는 인근 병원으로 옮겨졌으나 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “어머니가 맞았다는 이야기를 듣고 화가 나 범행했다”고 진술한 것으로 전해졌다. 경찰에 따르면 A씨의 어머니는 작년 12월부터 9차례 B씨에 대해 가정폭력 신고를 했다. B씨는 가정폭력으로 사건 발생 나흘 전까지 접근 금지 명령도 받은 상태였다.아들인 A씨와 관련한 피해 신고는 없었다.&lt;br&gt;&lt;br&gt;경찰은 구체적 사건 경위 등을 조사할 방침이다.&lt;br&gt;&lt;br&gt;’&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“거짓 선전에 의한 재일교포 강제 북송은 인권유린”</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/07/W4GAMLPPRVDTNDWHT2L7MN4YTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/07/W4GAMLPPRVDTNDWHT2L7MN4YTY/</guid>
+      <dc:creator>서보범 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 07 Aug 2024 03:01:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XUULZBVFNMPPYAC6EQ4BKMWPFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1959년 12월 14일 일본 니가타항에서 북한으로 떠나는 첫 북송선 앞에 3000여명 인파가 모여 있다. 북송선은 약 48시간 후 북한 청진항에 도착했다. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;진실·화해를위한과거사정리위원회(위원장 김광동)는 7일 “북한 정권이 거짓 선전으로 재일교포 17명을 강제 북송한 것은 인권유린에 해당한다”며 북한 정권에 대해 사과를 촉구할 것을 정부에 권고했다. 진실화해위는 광복 이후부터 노태우 정부까지 적대세력에 의한 테러·인권유린·폭력·학살 사건 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;재일교포 북송사건에 대한 정부 차원의 조사는 이번이 처음이다. 진실화해위에 따르면 북한 정권과 재일본조선인총연합회(조총련)는 북송 사업을 사전에 기획, 1959년~1984년 거짓 선전으로 재일교포와 일본인 등 9만3340명을 강제 북송했다. 대부분이 남한 출신으로 북한에는 연고가 없었다. 조총련은 “차별·세금 없고 일한 만큼 분배 받는 지상낙원” “북한이 일본보다 잘 살고 인권을 보장한다”라며 거짓 선전했다.&lt;br&gt;&lt;br&gt;그러나 실상은 달랐다. 북송자들은 평양이 아닌 양강도 혜산 등 시골에 배치돼 거주·이전의 자유를 탄압 받았다. 협동농장 농민, 광산·탄광에 종사하는 광부, 공장 노동자로 배치된 북송자들은 ‘성분조사’를 통해 적대계층으로 분류돼 철저한 감시와 차별을 받았다. 북송자 집안이 아닌 자와 결혼하려는 경우 강한 반대에 부딪히는 등 사회 생활에서도 불이익을 받았다.&lt;br&gt;&lt;br&gt;탈북을 요구하거나 시도하면 보위부에 끌려가 고문을 당하거나 아오지 탄광으로 추방되는 등 보복이 잇따랐다. 일본으로 돌려보내 줄 것을 요구했던 한 소년은 군인들에 의해 끌려가 행방불명된 지 5년이 지나 정신병자 수감시설에서 목격됐다. 한 강제 북송 피해자는 “북한에 도착하니 북한의 실상이 조총련의 선전과는 하늘과 땅 차이여서 눈앞이 깜깜했다”고 말했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FDCQHTZDLYT7SNKKDGO5YOP5JQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1971년 5월 재일교포를 태우고 북한으로 갈 선박이 일본 니가타항에 정박해 있는 모습. 북·일 양측은 1959년부터 1984년까지 9만3000여명의 재일교포를 북송했다. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;진실화해위는 “재일교포 북송 사건의 1차적 책임은 조직적이고 체계적으로 이를 기획하고 거짓 선전한 북한 정권과 조총련에 있다”고 했다. 개인의 귀국 의사를 확인할 기회를 차단하고 강제로 승선시켰으며, 이를 거부하면 납치했다는 것이다.&lt;br&gt;&lt;br&gt;그러면서 일본 정부가 골칫거리였던 재일교포를 이주시키기 위해 인도 사업으로 포장해 북송 사업을 용인하고 지원했다는 점도 지적했다. 진실화해위는 “일본 정부와 일본적십자사는 북한의 현실과 북송 사업의 실체를 확인할 수 있었지만 의도적으로 북송사업을 지원, 북한 정권의 인권침해를 용인했다”고 했다.&lt;br&gt;&lt;br&gt;앞서 강제 북송된 재일교포 본인과 후손들은 “북한 정권으로부터 재산·노동력을 착취당하고 거주지·교육·직업선택 등에 있어서 차별과 사생활 감시 등의 인권유린을 당했다”며 진실화해위에 조사를 신청했다. 진실화해위는 사건 연구 용역을 실시하고, 국가기록원과 외교부로부터 당시 작성된 공문서 등을 입수해 분석했다.&lt;br&gt;&lt;br&gt;진실화해위는 재일교포와 일본인을 조직적으로 북송시킨 북한 정권에게 공식적인 사과와 북송자 생사 확인, 이동의 자유 보장 등을 촉구할 것을 우리 정부에 권고했다. 또 북송 사업과 관련한 피해 상황 등을 UN(국제연합)에 조사 요청하도록 권고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조승우, ‘버닝썬 루머 피해’ 고준희 응원 “잃어버린 시간 보상받길”</title>
+      <link>https://www.chosun.com/national/people/2024/08/07/CYCSUZXDL5DDFPNXTXDOVBXPWQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/07/CYCSUZXDL5DDFPNXTXDOVBXPWQ/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 07 Aug 2024 05:50:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZD7VKN3NIRAJ7FROZ57FR6NNZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 조승우. /tvN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;버닝썬 게이트 연루 루머로 고통을 받았던 배우 고준희(39)가 동료배우 조승우(44)에게 받은 응원 메시지를 공개하며 고마움을 전했다.&lt;br&gt;&lt;br&gt;고준희는 7일 자신의 소셜미디어에 지인을 통해 전달받은 것이라며 조승우가 보내온 응원 메시지를 공개했다. 고준희와 조승우는 직접적인 친분은 없다고 한다.&lt;br&gt;&lt;br&gt;조승우는 연극에 도전하는 고준희에게 “한 번도 마주친 적은 없지만 멀리서나마 내일 있을 첫 공연을 격하게 축하하고 응원한다”며 “앞으로 있을 무대 위에서의 값진 시간들이 아름답게 쌓여 소중한 추억으로 남아, 이 작품을 시작으로 어디에서든 좋은 작품에서 자주 만날 수 있길 바란다”고 했다.&lt;br&gt;&lt;br&gt;조승우는 “모든 힘들었던 것들 무대 위에서 다 풀어 놓으시라”며 “불안하고 떨려도 그 억울하고 힘겨웠던 시간을 견뎌온 고준희에게는 아무것도 아닐 것이다”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VLZCAZCC3RG6BCISQIXNKGELSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 고준희가 한 유튜브 채널에 출연해 버닝썬 루머에 대해 이야기하다 눈물을 보이고 있다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러면서 “누구보다 당당하게 서서 펼치시라. 잃어버린 시간들에 대한 보상을 관객들이 주는 에너지와 박수로 되돌려 받으시라”라고 고준희를 응원했다.&lt;br&gt;&lt;br&gt;한편 고준희는 빅뱅 출신 승리와 찍은 사진 한 장으로 수년간 버닝썬 루머에 시달렸다. 2019년 버닝썬 게이트 당시 승리가 동료들과 나눈 온라인 메시지가 공개됐는데, 여기엔 ‘○○ 여배우가 현재 뉴욕에 있어 투자자 접대 모임에 초대할 수 없다’는 대화가 담겨있었다. 이후 온라인에선 대화 속 여배우가 승리와 같은 소속사인 고준희가 아니냐는 루머가 확산됐다. 이 일로 고준희는 드라마에서 강제 하차당하는 등의 피해를 입고 수년간 활동을 하지 못했다.&lt;br&gt;&lt;br&gt;버닝썬 게이트는 서울시 강남구에 위치해 있었던 나이트클럽 버닝썬에서 벌어진 성범죄, 불법 촬영물 공유 등의 범죄 사건을 말한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“직원 딸이 최연소 금메달” 깜짝 소식에 들썩인 이 회사 어디?</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/07/MTESOPZ3MZF2ZAPYW7S4EFWQ4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/07/MTESOPZ3MZF2ZAPYW7S4EFWQ4Y/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 07 Aug 2024 08:12:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEDWLXDUVMAE3HMVVW6FIMWCR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국 사격 대표팀 반효진 선수. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;종합식품기업 아워홈이 2024 파리올림픽 사격 여자 10m 공기소총 금메달리스트인 반효진 선수(17·대구체고)에게 장학금을 전달했다. 반효진 선수의 어머니는 아워홈에서 약 10년간 근무하고 있는 장기근속 직원이다.&lt;br&gt;&lt;br&gt;7일 아워홈은 ‘사격 최연소 금메달’ 반효진 선수를 위한 장학금을 모친 이정선씨를 통해 전달했다고 밝혔다.&lt;br&gt;&lt;br&gt;아워홈은 지난 5일 반효진 선수의 모친 이정선씨를 서울 강서구 마곡 본사로 초청해 장학금을 전달했다.&lt;br&gt;&lt;br&gt;이날 장학금 수여식에선 이영열 아워홈 부회장과 이영표 아워홈 경영총괄사장 등 경영진이 장학금을 전달하고 이씨와 티타임을 가졌다. 경영진은 이씨에게 장기근속에 대한 감사 인사를 전하고 근무환경과 관련한 애로사항도 청취했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJSOVPBFUJF45MPUDXEZO6DAKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이영열 아워홈 부회장(왼쪽)과 반효진 선수 모친 이정선씨. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;회사에 따르면 아워홈 직원들도 사내 인트라넷 게시판 등을 통해 이정선씨에게 축하 인사를 건넸다. 사내 인트라넷 게시판에는 “대한민국 역사에 남은 반효진 선수 진심으로 축하드린다”, “이정선 사우님은 언제나 최선을 다해 근무하는 든든한 동료” 등의 반응이 올라왔다고 한다.&lt;br&gt;&lt;br&gt;반효진 선수는 지난달 29일(한국시간) 프랑스 샤토루 슈팅센터에서 열린 2024 파리올림픽 공기소총 10ｍ 여자 개인전에서 황위팅(중국)과 접전을 벌인 끝에 값진 금메달을 따냈다. 특히 반효진 선수는 한국이 역대 하계 올림픽에서 따낸 100번째 금메달의 주인공이 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 병무청 "BTS 슈가 음주운전, 품위유지 의무 위반도 아냐"</title>
       <link>https://www.chosun.com/national/national_general/2024/08/07/JZSCLWLLXBG25NRV74MWE7644E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/07/JZSCLWLLXBG25NRV74MWE7644E/</guid>
@@ -746,79 +855,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6RVXDB3F2NBWZH7AVCDFJKXCVU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문으로 배우는 실용한자] 수호천사(守護天使)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/12/V4W7YF2HM5GPNLDI5DSJZDYNDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/12/V4W7YF2HM5GPNLDI5DSJZDYNDQ/</guid>
-      <description/>
-      <pubDate>Thu, 11 Jul 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G3Q7HTL6LFC4NKN4OEDK6ZVMYI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 악천후(惡天候)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/11/VXIRRTKRY5D43BYJIXR2HJHFVA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/11/VXIRRTKRY5D43BYJIXR2HJHFVA/</guid>
-      <description/>
-      <pubDate>Wed, 10 Jul 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BUG4SBLZINEL7LBWSAQYCSQGKE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 방석(方席)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/10/QXL7YHDYHFEU3KYSYM6A5SZKTE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/10/QXL7YHDYHFEU3KYSYM6A5SZKTE/</guid>
-      <description/>
-      <pubDate>Tue, 09 Jul 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5F7SGQP5HNH3DIWQO46Y5CYOCE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 사육(飼育)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/09/LXCW6PJB4JGTTJMLMTYVUEJMJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/09/LXCW6PJB4JGTTJMLMTYVUEJMJY/</guid>
-      <description/>
-      <pubDate>Mon, 08 Jul 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HJMEOY57TNB4LABWKAHJ2CDD2Y.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 천륜(天倫)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/08/EXLZCA25PRGY3JFU7ENAMQSI34/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/08/EXLZCA25PRGY3JFU7ENAMQSI34/</guid>
-      <description/>
-      <pubDate>Sun, 07 Jul 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JIJQV2CJZNC6XCFVZHV4A7HV5E.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 무사태평(無事泰平)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/05/3UJF7524TZDVROGK5QQBMB2W4U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/05/3UJF7524TZDVROGK5QQBMB2W4U/</guid>
-      <description/>
-      <pubDate>Thu, 04 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RVCP6AOHKNGF3K5HQIY6HWGOJY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 한한령(限韓令)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/04/EJQEELXTYRDLNDDICAAKAQBX74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/04/EJQEELXTYRDLNDDICAAKAQBX74/</guid>
-      <description/>
-      <pubDate>Wed, 03 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WR3Q35ADCJEF7JUKVTJBG6SWFU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 지갑(紙匣)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/03/AODHSOFH3ND3XEJZUACXD47ZHM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/03/AODHSOFH3ND3XEJZUACXD47ZHM/</guid>
-      <description/>
-      <pubDate>Tue, 02 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UOCUKJNR3FB55JUZRI7WPSFNQA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>새벽 돌봄·만남 주선...경북도, 지역 특색형 저출생 대책 1100억 투입</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/07/ZKN52SULGRHEVJAR4A3EQ7YUUA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/07/ZKN52SULGRHEVJAR4A3EQ7YUUA/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Aug 2024 06:38:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PUKTSOP3AEVEZN6Z3ROSOBKZO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2월 경북도청에서 '저출생과의 전쟁' 선포식이 열린 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북도가 지역별 특색을 살린 저출생 극복 정책에 사업비 1100억원을 투입한다. 실효성 있는 정책을 발굴한 지자체엔 예산을 추가로 배정한다. &lt;br&gt;&lt;br&gt;7일 경북도에 따르면 지난 5월 저출생 극복 포괄사업비(예비비) 200억을 비롯해 1100억원 상당의 저출생 극복 사업 예산이 추경으로 편성됐다. 현재까지 22개 시군 내 만남 주선·출산·돌봄·주거 등 6개 분야에 예비비 168억원이 지원됐고, 순차적으로 1100억 규모의 사업비가 모두 투입될 전망이다.&lt;br&gt;&lt;br&gt;경북도는 시군 내에서 지역 특색을 반영한 저출생 극복 사업을 추진할 경우, 사업비 절반을 지원하고 있다. 포항시는 일찍 출근하는 부모들을 위해 지난 6월부터 오전 7시부터 2시간 동안 아이를 돌보는 ‘새벽반 어린이집’을 운영 중이다. 경주시는 청춘동아리, 영덕군은 바다 등 해양 자원을 토대로 한 청춘 남녀의 만남 프로그램을 진행 중이며, 의성군은 지역 농산물을 활용한 영아기 이유식 재료 꾸러미 사업을 준비 중이다.&lt;br&gt;&lt;br&gt;이밖에도 김천시는 혁신도시 특화형 ‘온종일 완전 돌봄 센터’를 추진 중이며, 구미시는 8월부터 평일 야간과 주말·공휴일에 돌봄 서비스를 제공하는 ‘365 돌봄어린이집’을 확대 운영할 방침이다. 문경시 또한 보육·돌봄 시설이 부족한 북부 지역에 육아종합지원센터 건립을 추진 중이다.&lt;br&gt;&lt;br&gt;경산시는 맞벌이 부부 증가에 따라 야간과 휴일에 소아·청소년 환자들을 진료하는 ‘우리 아이 야간 진료 병원’을 운영하고 있고 청송군은 지난 6월부터 산하기관 직원들을 대상으로 주 4.5일제(주 36시간)근무를 시범 시행하고 있다.&lt;br&gt;&lt;br&gt;김학홍 경북도 행정부지사는 “각 시·군이 저출생 극복 사업을 행정 최우선 순위에 놓고 추진할 수 있도록 경북도가 최선을 다하겠다”며 “도민이 체감할 수 있는 저출생 극복 사업을 발굴 및 시행하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>차기 검찰총장 후보 추천 회의 시작…“엄중 상황”</title>
       <link>https://www.chosun.com/national/court_law/2024/08/07/NHBSV4JCBJGDTNB227DISIYOVA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/07/NHBSV4JCBJGDTNB227DISIYOVA/</guid>
@@ -826,31 +862,6 @@
       <description/>
       <pubDate>Wed, 07 Aug 2024 06:27:21 +0000</pubDate>
       <content:encoded>오는 9월 임기를 마치는 이원석 검찰총장의 후임을 선정하기 위한 검찰총장후보추천위원회(총추위)가 7일 시작됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HYVZW22GPVKHTCSVVOBBEAJFUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정상명 검찰총장후보추천위원회 위원장이 7일 오후 경기 정부과천청사 법무부에서 열린 검찰총장추천위원회 회의에서 발언하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;총추위는 이날 오후 2시부터 경기 과천시 정부종합청사에서 회의를 열고, 차기 검찰총장 후보군을 추리고 있다. 총추위 운영 규정에 따르면, 총추위는 회의 종료 후 후보자 3명 이상을 법무장관에게 서면으로 알려야 한다. 법무장관이 그중 1명을 대통령에게 제청하면 국회 인사청문회를 거쳐 검찰총장으로 임명되게 된다. 다만 국회 동의는 필요로 하지 않는다.&lt;br&gt;&lt;br&gt;총추위 당연직 위원은 배형원 법원행정처 차장, 김영훈 대한변호사협회장, 조홍식 한국법학교수회장, 이상경 법학전문대학원협의회 이사장, 송강 법무부 검찰국장이 맡는다. 비당연직은 위원장을 맡은 정상명 전 검찰총장을 비롯해 이진기 성균관대 법학전문대학원 교수, 안수현 한국외대 법학전문대학원장, 김세동 문화일보 논설위원으로 구성된다.&lt;br&gt;&lt;br&gt;정 위원장은 이날 회의를 열며 “최근 수사에 대해 이런저런 이야기들이 있고 특히 검찰에 대해 많은 국민들이 걱정들을 하고 계시는 걸 제가 잘 알고 있다”며 “그 부분에 대해 여러분들이 너무나 잘 아시기 때문에 제가 덧붙여서 말씀드릴 건 없고 엄중한 상황 아래서 위원회를 한다는 것만 말씀드린다”고 했다.&lt;br&gt;&lt;br&gt;법무부는 이날 회의 종료 후 장관에게 추천된 후보자를 비롯해 총 9명 내외의 차기 총장 후보군을 발표할 것으로 알려졌다. 법조계에선 “이르면 이번 주 중 윤석열 대통령이 검찰총장을 지명할 수 있다”는 관측이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 어항(魚缸)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/02/DRWFUSJWJNA5PPC3RSALBYNE4A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/02/DRWFUSJWJNA5PPC3RSALBYNE4A/</guid>
-      <description/>
-      <pubDate>Mon, 01 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PN6FUI4W5VDJJIZ4DEGU5PERGE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 상례(相禮)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/01/7QYXUSJVQREYBHMZJVVUTFVXPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/01/7QYXUSJVQREYBHMZJVVUTFVXPE/</guid>
-      <description/>
-      <pubDate>Sun, 30 Jun 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZE2PKTI2YBA7DHPKW2TA6KMHTQ.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>류화현 위메프 대표, “구영배, 상품권 사업 넘기라 지시”</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/07/AQAKQ2UFUZEFNDZGZWMQACW32U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/07/AQAKQ2UFUZEFNDZGZWMQACW32U/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Aug 2024 02:20:41 +0000</pubDate>
-      <content:encoded>‘티몬‧위메프 미(未)정산 사태’와 관련해, 구영배 큐텐 그룹 대표가 쇼핑 플랫폼 위메프를 인수한 뒤 상품권 사업 부문을 티몬 측에 넘기라고 지시했다는 경영진 증언이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LEJW7BJQIJXBSO3RBI62NWGOIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;류화현 위메프 대표./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;류화현 위메프 대표는 7일 서울중앙지검에 압수물 포렌식 참관을 위해 출석했다. 그는 ‘구 대표가 상품권 사업 부문을 이관하라고 지시했다는 언론 보도가 사실이냐’는 취재진 질문에 “저희 회사 실장들, 본부장들도 다 알고 있는 사실”이라고 말했다. &lt;br&gt;&lt;br&gt;류 대표는 “저는 위메프에 합류하기 전부터 주간 회의나 투자사나 오너가 하는 것들을 다 메모해둔다”며 “오늘 (검찰에) 적극 협조하고 제출할 예정”이라고도 말했다. 또 “투자사나 주주가 얘기하는 것을 놓칠까 봐 회의는 다 녹음해놨다”며 이를 검찰에 제출할 예정이라고도 했다. 이시준 큐텐그룹 재무본부장도 이날 포렌식 참관을 위해 검찰에 출석했다고 한다.&lt;br&gt;&lt;br&gt;큐텐의 자회사인 위메프와 티몬은 최근 대규모 판매대금 미정산 사태를 빚은 뒤 법원에 회생 절차를 신청했다. 류 대표는 “법무법인을 통해 티몬 측과 사전 협의를 한 차례 진행했다”며 “자구책에서 부족한 부분 등에 대해 피드백을 받아 고치고 있고, 서울회생법원 측에서 요청하신 질문 등에 대해서도 반영 중에 있다”고 했다. &lt;br&gt;&lt;br&gt;전담수사팀(팀장 이준동 반부패1부장)을 꾸려 ‘티메프’ 사태와 관련한 사기·횡령 혐의를 수사 중인 검찰은 구 대표가 위메프가 상품권 판매 등을 통해 확보한 현금을 그룹 차원에서 관리·활용하려는 목적으로 위메프의 상품권 사업 등을 티몬으로 이관한 것인지 등을 살펴보는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>온열 질환자 1800명 넘겨...사망자 17명, 가축 폐사도 35만마리</title>
