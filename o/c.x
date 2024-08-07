@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>계곡 산길 꽉 막은 오프로드 동호회…“차 빼달라” 부탁하자 돌아온 대답  </title>
+      <link>https://www.chosun.com/national/national_general/2024/08/08/VKB2LCB2XBGCFMDQLGAIOC5IBU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/08/VKB2LCB2XBGCFMDQLGAIOC5IBU/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 07 Aug 2024 22:12:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CHPI2UA33VDPRLA7ZWFCB4A75A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;좁은 산길에 줄지어 주차한 오프라인 동호회 산악차량들./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오프로드 동호회 회원들이 계곡으로 가는 산길 한가운데 민폐 주차를 했다는 사연이 전해졌다.&lt;br&gt;&lt;br&gt;최근 한 온라인 커뮤니티에는 ‘동호회 길막 정말 화나네요’라는 제목의 글이 올라왔다.&lt;br&gt;&lt;br&gt;충북 예술협회 동부 창고에서 진행하는 무심천 발원지 걷기 행사에 참여했다는 작성자는 “결론부터 얘기하자면, 발원지까지 못 걸었다”고 운을 뗐다.&lt;br&gt;&lt;br&gt;작성자가 공개한 사진을 보면 좁은 산길에 산악용 차량들이 줄지어 주차돼 있다.&lt;br&gt;&lt;br&gt;작성자는 특정 동호회의 이름을 언급하며 “민폐 주차 탓에 무심천 발원지까지 올라가 보려 했지만 못 갔다”며 “동호회 회원들이 길을 막고 주차해놓고, 계곡에서 피서를 즐겼기 때문”이라고 주장했다.&lt;br&gt;&lt;br&gt;이어 “길 조금 아래에는 주차할 넓은 공간이 있었지만, 오프로드 차량을 뽐내시려는 건지 아니면 걷기 귀찮으셨는지 그냥 길가에 주차하고 몇 시간 동안 계곡에서 테이블을 깔고 즐기시더라”며 “차 좀 빼달라고 말씀드렸더니, 들려오는 말은 ‘알아서 하시라’ 였다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “개개인은 참 훌륭하신 분들이겠으나, 동호회에서 종종 이러한 일들이 일어나는 것을 보면 좀 더 성숙한 동호회 활동이 있으면 어땠을까 하는 아쉬움이 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;사연을 접한 네티즌들은 “산불이라도 나면 어쩌려고 길을 막나” “저긴 견인도 안될텐데” “동호회가 벼슬인가. 민폐다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;논란이 일자 동호회 측은 “등산이나 길을 걷는 분들에게 피해를 준다는 생각을 미처 하지 못했다”며 “불편을 겪은 모든 분께 사과의 말씀 드린다. 죄송하다. 깊이 반성하겠다”고 사과문을 올렸다.&lt;br&gt;&lt;br&gt;그러나 일부 네티즌들은 이들 동호회가 과거 계곡 바위나 꽃밭 등 장소를 불문하고 주차한 사진을 찾아내 공유하고 있어 비판이 계속되고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“양궁 관중석에 팀코리아 단복 입은 응원단 추태, 부끄러웠다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/07/HVLN3VIYY5AMBCQ24RVDFHMI4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/07/HVLN3VIYY5AMBCQ24RVDFHMI4A/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 07 Aug 2024 02:02:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EUQOOSFGUBJPFKDTBNCWR27QUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오후(현지시각) 프랑스 파리 앵발리드 경기장에서 열린 2024파리올림픽 양궁 남자 개인전 결승에서 금메달을 딴 김우진이 관중석을 향해 큰절을 하고 있다. /올림픽사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;파리올림픽 양궁 경기장에서 한 체육 단체 임직원들이 무매너 관람을 했다는 주장이 제기됐다.&lt;br&gt;&lt;br&gt;파리올림픽 남자 양궁 개인전 경기를 관람했다는 A씨는 6일 X(옛 트위터) 계정을 통해 지역자치단체 산하 체육회 임직원들에 관한 글을 올렸다.&lt;br&gt;&lt;br&gt;그는 “파리 올림픽 남자 양궁 개인전에서 일어난 재미난 이야기”라며 “저는 양궁 경기는 한국 선수를 볼 수 있고, 금메달 기회도 높다고 생각해 큰돈을 들여 카테고리A 경기 티켓과 호스피탈리티(라운지, 음료 서비스 등)가 포함된 패키지를 400유로(약 62만원) 정도 되는 금액으로 구매했다”고 운을 뗐다.&lt;br&gt;&lt;br&gt;이어 “파리올림픽 관련 오픈채팅방에서 소문으로만 들었던 한국 어르신들 목소리가 경기장 초입부터 들리기 시작했다”며 “팀 코리아 단복 같은 유니폼을 한껏 차려 입고 온 어르신들이 카테고리A 좌석 제일 앞줄부터 서너 줄을 꽉 채워서 앉아 있었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EJET3CJADFHJJKYTHDOHS7B7VI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;파리올림픽 양궁 남자 개인전을 관람하러 온 모 지역자치단체 산하 체육회 소속 임직원들이 기념 사진을 촬영하고 있다./X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 이들과 함께 8강전부터 4강, 준결승, 동메달 결정전과 결승전까지 함께 관람했다고 한다.&lt;br&gt;&lt;br&gt;그는 “8강전부터 어르신들의 추태가 시작됐다”며 “A석의 관중석은 선수들과 이야기가 가능할 정도로 가깝고, 양궁은 집중력을 필요로 하는 종목이니 슛을 하기 전에 조용히 해야 하는 것은 어린이들도 알고, 프랑스 노숙자도 알고, 가르드노드 역에 있는 비둘기도 알거라 믿어 의심치 않지만, 이 할아버지들이 선수가 샷을 하기도 전에 ‘나인’ ‘텐’을 장내 아나운서가 점수를 알려주기도 전에 무당이라도 된 것처럼 점수를 말하기 시작했다”고 주장했다.&lt;br&gt;&lt;br&gt;특히 상대 선수가 마지막 슛으로 10점을 쏴야만 우리 선수와 동점이 되는 중요한 순간이 오자 어르신들은 큰 소리로 ‘나인’을 외치며 경기를 방해하기도 했다. 상대 국가에 대한 배려 없는 응원이 계속되자 다른 나라 관중들이 조용히 해 달라 요청하는 일도 빈번히 발생했지만 경기 내내 전화벨과 메신저 알림이 울리고, 시끄럽게 통화를 하며 선수들의 경기 집중을 방해했다는 게 A씨 설명이다.&lt;br&gt;&lt;br&gt;이 모습을 지켜본 A씨는 “들고 있던 태극기를 내려놓고, 응원도 할 수 없었다”며 “자랑스러운 조국 대한민국이 아닌, 세계의 민폐 국가로 등극하는 순간을 목도하게 된 것에 정말 쥐구멍에라도 쉬고 싶었다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 “그저 한국 어르신들을 무지성으로 저격하기 위해 글을 작성한게 아니다”며 “이들의 정체는 놀랍게도 체육회 소속 전국 지역자치단체 산하 회장, 부회장, 사무처장으로 세금으로 숙식과 경기 티켓을 제공받고 온 자들”이라고 했다. 그러면서 “나라 망신을 다 시키는데 무엇을 위한 경기 참관인지 궁금하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;A씨는 끝으로 이들의 모습이 담긴 사진을 공개했다. 사진을 보면 ‘팀 코리아’ 단체복과 ‘○○체육회’라는 목걸이를 착용한 이들이 단체 사진을 찍고 있는 모습이 담겼다.&lt;br&gt;&lt;br&gt;이에 네티즌들은 “얼마나 종목에 대한 이해가 없으면 이런 일이 발생하냐” “체육회 관행 싹 다 갈아 엎어야 한다” “협회 한자리씩 하고 있는 사람이 너무 많아서 그렇다” “중계에도 관중석에서 점수 외치는 소리 들렸는데, 이런 일이 있었구나” 등의 반응을 보였다.이 같은 폭로는 국내 여러 스포츠 협회에 대한 비판 여론이 높아진 가운데 나왔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 1인 가구, 배달 음식 급증...국민 1명당 플라스틱 年 34㎏ 무단투기</title>
       <link>https://www.chosun.com/national/transport-environment/2024/08/08/ACHDGOMPI5D6PI6ALNSNIUBEJQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/08/08/ACHDGOMPI5D6PI6ALNSNIUBEJQ/</guid>
@@ -885,24 +903,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/5IADNZPK6FFD3IJFRIU6ONXFBE.png?width=1200&amp;height=675&amp;auth=946322e158c5098ddae365c5b4a9f0fc1e6f0ea60e1946156e4580e4bd2e184a&amp;smart=true" type="image/png" height="675" width="1200">
         <media:description type="plain">그래픽=진봉기</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>[신문은 선생님] [철학·인문학 이야기] 고대 철학자들에게 좋은 사랑이란? 술 마시며 에로스에 관해 나눈 대화</title>
-      <link>https://www.chosun.com/national/nie/2024/07/30/VIULINEUK5CP3C24P4EVVOQIVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/30/VIULINEUK5CP3C24P4EVVOQIVQ/</guid>
-      <dc:creator>안광복 중동고 철학 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GHMFKZLP6BBN5BIIUFSYDBDRH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;플라톤 흉상. /브리태니커&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사랑은 언제나 마음을 사로잡는 주제입니다. 사랑을 주제로 다룬 노래와 시, 소설과 영화 등이 수없이 많아요. 하지만 사랑이 꼭 좋지만은 않지요. 뜻대로 되지 않을 때는 미칠 듯이 괴롭고, 심지어 내 삶을 나락으로 끌고 가기도 합니다. 사랑을 제대로, 잘하려면 어떻게 해야 할까요? 고대 그리스의 철학자 플라톤의 책 ‘향연’에는 이 물음에 대한 답이 담겨 있어요. 플라톤이 쓴 거의 모든 책은 소크라테스를 주인공으로 한 대화 형식으로 되어 있는데요. 이 책 역시 그렇습니다.&lt;br&gt;&lt;br&gt;‘포도주 속에 진실이 있다’라는 그리스 속담이 있다고 해요. 술에 취해 나누는 대화에서 진심이 드러난다는 의미겠지요. ‘향연’은 말 그대로 ‘잔치’를 뜻하는데요. 작품 속 사람들은 술잔을 기울이며 에로스(eros), 즉 사랑을 주제로 열띤 대화를 나눕니다. 자리에 모인 사람들은 한목소리로 에로스를 찬양해요. 에로스는 우리 안의 가장 고귀한 부분을 끌어내니까요. 애인 앞에서는 누구나 용사가 됩니다. 또 사랑에 빠지면 모두가 시인이 되기도 하지요. 사랑은 냉정함과 뜨거움을 조화롭게 만들어 우리를 더 완전하게 만들기도 해요.&lt;br&gt;&lt;br&gt;하지만 소크라테스는 다른 목소리를 냅니다. 사랑은 완벽하지 않다는 것이죠. 신화에 따르면, 사랑의 신 에로스는 궁핍의 여신 페니아와 풍요의 신 포로스의 자식이랍니다. 사랑의 열병에 빠지면 갈망하는 마음이 절절해지고, 이를 채우기 위해 어떻게든 방법을 찾으려 하는 것도 이 때문 아닐까요? 그러면 우리는 갈망하는 마음을 채우면서도 추하게 망가지지 않으려면 어떻게 해야 할까요?&lt;br&gt;&lt;br&gt;소크라테스는 좋은 사랑을 하려면, 먼저 몸부터 제대로 만들라고 충고합니다. 진짜 건강한 몸이 무엇인지 알아야 한다는 것이죠. 그리고 훌륭한 몸을 가진 이들을 더 많이 알게 되면, 이제 사랑은 한두 사람의 몸을 벗어나 ‘육체적 아름다움’ 그 자체를 좇게 된다고 해요.&lt;br&gt;&lt;br&gt;사람의 정신은 쉽게 스러지고 마는 육체보다 훨씬 아름답습니다. 그래서 사랑을 제대로 하는 사람은 몸을 뛰어넘어 아름다운 영혼을 사랑하게 된다고 해요. 그렇게 계속해서 고귀한 정신을 갖춘 이들을 만나다 보면, 마침내 이를 뛰어넘는 정신적 아름다움 자체를 원하게 될 것이라고 합니다. 그러는 가운데 삶 역시 점점 바람직하게 바뀌어 갈 수 있겠죠. 이 점에서 사랑, 즉 에로스는 육체적 즐거움과 쾌락을 넘어, 완전하고 흔들림 없는 정신의 고귀함으로 우리를 이끄는 ‘영혼의 사다리’와 같습니다.&lt;br&gt;&lt;br&gt;여러분은 어떤 사랑을 하고 있으신가요? 사랑을 할수록 더 나아지고 있나요? 아니면 솟구치는 욕망에 휘둘리느라 추한 모습으로 바뀌고 있나요? 정신적 사랑을 뜻하는 ‘플라토닉 러브’는 ‘향연’에서 말하는 좋은 사랑과 다르지 않습니다. ‘향연’을 읽으며 여러분의 사랑을 한번 점검해 보시기 바랍니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [사소한 역사] 서양에선 신체 단련, 동양에선 의료 목적으로 시작했대요</title>
-      <link>https://www.chosun.com/national/nie/2024/07/30/TAYNRK7H2VBY3HUHTKCITJSF6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/30/TAYNRK7H2VBY3HUHTKCITJSF6M/</guid>
-      <dc:creator>김현철 서울 영동고 역사 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>얼마 전 파리 올림픽 개막식이 열렸습니다. 다양한 종목에서 세계 각국의 선수들이 기량을 겨루고 있어요. 지난 28일(현지 시각) 우리나라 여자 기계체조 대표팀은 1988 서울 올림픽 이후 36년 만에 단체전에 나섰지만, 안타깝게도 결선 진출엔 실패했어요. 그래도 ‘꿈의 무대’라는 올림픽에 참가한 만큼 선수들의 표정은 밝았다고 합니다. 체조는 어떤 역사를 갖고 있을까요?&lt;br&gt;&lt;br&gt;체조는 서양과 동양에서 각각 다른 형태로 발전됐어요. 고대 그리스에서는 개인과 국가의 명예와 생존을 위해 신체를 단련할 목적으로 체조를 했다고 해요. 하지만 이때 체조는 달리기나 투창 던지기 등에 필요한 체력과 근력을 기르는 훈련 과정으로, 지금 우리가 생각하는 체조와는 다른 것으로 추정돼요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5FBZYKSTYVHVNIIPRY4ZZI7QKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 28일 한국 기계체조 여서정 선수가 파리 올림픽 경기에 나선 모습. /로이터 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동양은 의료 목적의 체조가 이뤄진 것으로 알려져 있어요. 문헌에는 중국에서 기원전 4세기쯤부터 건강 증진을 위한 호흡법 체조를 했다고 합니다. 우리나라에서는 신라 시대에 화랑들이 심신을 단련하기 위해 무예와 가무를 혼합한 형태의 체조를 한 것으로 추정돼요.&lt;br&gt;&lt;br&gt;조선 시대 유학자 퇴계 이황은 명나라 주권이 저술한 ‘구선활인심법’ 중 심신 수양과 관련 깊은 내용을 필사한 책 ‘활인심방’을 남겼는데요. 이 책에 나오는 ‘도인법’에 오늘날 체조 동작과 유사한 자세들이 소개되어 있기도 합니다.&lt;br&gt;&lt;br&gt;현대와 같은 체조가 이뤄진 것은 18세기 전후로 보입니다. 독일에선 요한 구츠무츠에 의해 근대 체조가 시작됐어요. 이후 ‘독일 체조의 아버지’라고 불리는 프리드리히 얀(1778~1852)이 근대 체조를 철봉·평행봉 등을 이용한 기계체조 형태로 발전시켰습니다. 프리드리히 얀은 프랑스 나폴레옹의 정복 전쟁에서 패배한 독일 청년들의 심신 단련을 위해 철봉과 평행봉 등을 이용한 체조를 고안했다고 해요.&lt;br&gt;&lt;br&gt;국제체조연맹은 1881년 설립됐고, 1896년 제1회 근대 올림픽에서부터 체조가 정식 종목으로 채택됐어요.&lt;br&gt;&lt;br&gt;한국에 근대 체조가 들어온 건 고종 때로 여겨집니다. 1895년 고종이 반포한 ‘교육입국조서’에 지·덕·체 교육이 강조돼 체조가 교육 과정에 도입됐다고 해요. 이후 일제강점기인 1911년에 기계체조가 학교의 정식 교과목으로도 채택됐고, 광복 이후인 1959년 국제체조연맹에 정식으로 가입하면서 한국 체조 대표팀이 올림픽 등 국제 경기 대회에 참가할 수 있게 됐습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>인천 전기차 화재 8일 2차 합동 감식... 스프링클러 미작동 원인도 조사</title>
