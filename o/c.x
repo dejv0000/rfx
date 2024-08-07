@@ -13,6 +13,67 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>음주 측정 거부하고 1㎞ 도주... 결혼 앞둔 환경미화원 들이받았다</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/07/GELVMSHI7ZCT7HLXKZQL4BA54Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/07/GELVMSHI7ZCT7HLXKZQL4BA54Q/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 07 Aug 2024 11:44:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PSN7KM5IMJGFHD5S64UYQ7V7RM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰의 음주 측정 요구를 거부하고 도망치던 20대가 작업 중이던 환경미화원을 들이받고도 운전석에서 내려 재차 도주 중인 모습. /YTN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 20대 남성이 경찰의 음주운전 단속을 거부하고 도주하던 중 환경미화원을 들이받아 끝내 숨지게 한 사건이 벌어진 가운데, 당시 상황이 담긴 영상이 공개됐다.&lt;br&gt;&lt;br&gt;천안동남경찰서는 7일 도로교통법 위반(음주 측정 거부) 혐의로 20대 A씨를 붙잡아 조사 중이라고 밝혔다. A씨는 이날 오전 0시 53분쯤 천안시 동남구 오룡동 버들육거리에서 경찰의 음주 측정을 거부하고 1㎞ 이상 달아나다 작업 중이던 환경미화원 B(36)씨를 숨지게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 상황이 담긴 영상을 보면, A씨는 교차로에서 신호가 초록불로 바뀌었는데도 불구하고 꿈쩍도 하지 않았다. 뒤차 조수석에서 한 명이 내려 상태를 확인하려는 듯 앞차 창문을 두드려도 마찬가지였다. 목격자들의 신고로 경찰이 도착했으나 A씨는 여전히 움직이지 않았다.&lt;br&gt;&lt;br&gt;그러던 A씨는 경찰이 음주 측정을 요구하자, 갑자기 달아나기 시작했다.&lt;br&gt;&lt;br&gt;A씨가 향하던 방향에는 B씨가 영문도 모른 채 환경미화 트럭 뒤에서 작업 중이었다. A씨는 빠른 속도로 달리다 그대로 B씨와 트럭을 들이받았고, 그제야 멈춰 섰다.&lt;br&gt;&lt;br&gt;A씨는 B씨를 치고도 아랑곳하지 않고 운전석에서 내려 골목길로 도망쳤다. 이 장면을 본 동료가 운전자를 전속력으로 쫓아가고, 잠시 뒤 경찰도 도착해 추격에 나섰다. 이후 A씨는 경찰에 체포돼 손목이 잡힌 상태에서도 빙글빙글 돌고 바닥에 주저앉는 등의 행동을 보였다.&lt;br&gt;&lt;br&gt;B씨는 출동한 구급대에 의해 심정지 상태에서 병원으로 옮겨졌으나 숨졌다.&lt;br&gt;&lt;br&gt;B씨는 지난 2월 입사해 맡은 일을 묵묵히 해오던 청년으로, 결혼을 앞두고 있었던 것으로 전해졌다. B씨 동료는 YTN에 “정도 많고 누구보다 앞서서 솔선수범하는 자세도 있었고, 인간관계라든지 그런 게 기본적으로 잘돼 있다 보니까 다 같이 안타까워하고 있다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 가해 운전자를 음주 측정 거부와 도주 치사 등의 혐의로 입건해 자세한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가속페달 착각 사고로 동료 2명 숨지게 한 70대, 구속영장 기각</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2024/08/07/EE2MIA655VGLDH4RJ6EDRU42MI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2024/08/07/EE2MIA655VGLDH4RJ6EDRU42MI/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 07 Aug 2024 13:35:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IBHFNJMPTBCKRE2HZOPH7DOVPQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;인천지법 청사 전경. /인천지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제동장치와 가속 페달을 착각해 사고를 내 동료 노동자 2명을 숨지게 한 70대 남성에 대한 구속영장이 법원에서 기각됐다.&lt;br&gt;&lt;br&gt;송종선 인천지법 영장 전담 부장판사는 7일 교통사고처리특례법상 치사 혐의를 받는 70대 A씨의 구속 전 피의자 심문(영장실질심사)을 진행하고 구속영장을 기각했다. 송 부장판사는 “수사기관이나 법원에서의 태도나 출석 현황을 볼 때 도주할 우려가 있다고 보기 어렵다”며 “피의자가 범행을 인정하는 등 증거 인멸의 우려도 없다”고 기각 사유를 밝혔다.&lt;br&gt;&lt;br&gt;앞서 A씨는 지난달 30일 오후 4시 3분쯤 인천시 남동구 서창동 갓길에서 1t 화물차를 몰다가 사고를 내 70대 B씨 등 2명을 숨지게 한 혐의를 받고 있다.  A씨 차량은 당시 앞서 정차 중이던 다른 1t 화물차를 들이받았고 사고 여파로 화물차가 밀려나면서 B씨 등이 사고에 휘말린 것으로 조사됐다. &lt;br&gt;&lt;br&gt;피해자 둘은 가로수 정비 작업에 투입된 같은 조경업체 소속 노동자로 파악됐다. A씨는 경찰 조사에서 “브레이크와 가속 페달을 착각해 사고를 냈다”고 진술했다.  &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/IBHFNJMPTBCKRE2HZOPH7DOVPQ.png?width=891&amp;height=414&amp;auth=38f4347fd6d94c8c70456f55f268694eef33013d52cfea749bb7637350351435&amp;smart=true" type="image/png" height="414" width="891">
+        <media:description type="plain">인천지법 청사 전경. /인천지법</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>23일 연속 열대야...’낮만큼 더운 밤’ 뇌졸중 위험도 커진다</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/08/07/DMOAWDTSIBCLNMAAE4ZS2GVBMM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/08/07/DMOAWDTSIBCLNMAAE4ZS2GVBMM/</guid>
+      <dc:creator>김윤주 기자, 최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 07 Aug 2024 11:57:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QTVZ7SIZXRAZBD4NYRQSU5EAYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;열대야가 계속되는 가운데 7일 서울 동작구 여의대방로 기상청에서 직원이 최저기온 분포도를 보여주고 있다. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한반도에 역대 가장 무더운 여름밤이 이어지고 있다. 지난달 전국 열대야(최저기온 25도 이상) 일수가 1973년 전국 단위 기상 관측 이래 역대 7월 중 1위를 기록했다. 이어 최소한 오는 광복절(15일) 이후까지 한낮 무더위와 열대야가 계속될 전망이다.&lt;br&gt;&lt;br&gt;서울은 지난달 21일 이후 지난 6일까지 17일 연속 열대야가 나타났다. 7일 기상청 중기예보에 따르면, 7~17일 서울의 최저기온은 25~26도로 예보됐다. 실제 이 기간 저녁~아침 기온이 25도 아래로 내려가지 않는다면 총 28일 동안 열대야가 나타나는 것이다. 그러면 2018년 서울의 역대 최장 열대야 기록(26일)을 넘어서게 된다. 서울은 1994년 24일 연속, 2016년 21일 연속 열대야가 나타났다. 이미 강원도 강릉에서는 19일째 열대야가 나타나 기존 최고 기록(2013년 16일)을 매일 갈아치우고 있다. 제주에서도 23일 연속 열대야가 나타났다. 낮만큼이나 더운 밤은 올여름 특징 중 하나다.&lt;br&gt;&lt;br&gt;지난달 열대야 일수는 8.8일로 역대 1위를 기록했다. 평년(1991~2020년) 2.8일보다 약 3배 많았다. 강릉, 경북 포항, 전북 정읍에선 한 달 중 절반 넘는 17일 동안 열대야가 나타났다. 전국 평균 최저기온도 23.3도로 해방 이후 최악의 여름으로 꼽히는 1994년(23.4도)에 이어 역대 둘째로 높았다. 기상청은 “올해는 밤 사이 수증기를 다량 품고 있는 덥고 습한 남서풍이 예년보다 더 자주 불어오면서 밤에도 기온이 떨어지지 않고 있다”고 밝혔다. 지난달 말 강릉(30.4도), 강원 속초(30.3도), 경남 밀양(28.1도) 등 열다섯 도시에서는 역대 가장 높은 ‘7월 최저기온’이 나타났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CKINL353FVGV7PX3XLBZ7HOEEQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 밤 기온은 30도에 육박한다. 입추(立秋)인 7일 서울의 간밤 최저기온은 27.2도, 제주는 27.7도에 달했다. 전북 부안 등 일부 자동 기상관측 장비(AWS)에는 28도가 넘게 찍혔다. 8일도 전국에 소나기가 반복되며 습하고 뜨거운 ‘한증막 더위’가 이어질 전망이다. 다음 주까지 전국 낮 최고기온은 30~35도로 예보돼 최소한 광복절 이후까지는 폭염이 이어질 것으로 보인다.&lt;br&gt;&lt;br&gt;전문가들은 열대야가 지속될수록 건강상 위험도 커진다고 우려한다. 더위로 수면 부족 등을 겪으면 질병 위험이 커지기 때문이다. 독일 헬름홀츠 뮌헨 연구 센터가 지난 6월 발표한 연구에 따르면, 열대성 기후가 나타난 더운 밤에는 뇌졸중 위험이 7% 증가한다. 또 김호 서울대 보건대학원 교수 연구팀에 따르면, 도시 열섬 현상이 심한 서울에서는 밤 기온이 22도만 돼도 사망 위험이 1.08배 높게 나타난다. 질병관리청은 심·뇌혈관, 당뇨병, 신장 질환, 고·저혈압 환자를 ‘폭염 고위험군’으로 분류했다. 심·뇌혈관 질환자는 땀을 흘려 체액이 줄면 떨어진 혈압을 회복하는 과정에서 심박동 수, 호흡 수가 증가해 심장에 부담을 느낄 수 있다. 당뇨병 환자는 땀을 흘려 수분이 빠져나가면 혈당이 높아져 쇼크를 일으킬 수 있다.&lt;br&gt;&lt;br&gt;전국에서 기승을 부려 경보가 발령된 말라리아도 문제다. 말라리아는 모기에 물려 감염되며 오한, 두통, 구역질, 발한 등 증상이 나타난다. 질병관리청은 “모기 활동이 활발한 야간에는 야외 활동을 자제하고 몸에 모기 기피제를 뿌려야 한다”고 당부했다.&lt;br&gt;&lt;br&gt;올해 폭염으로 인한 온열 질환자 수도 작년 수준을 넘어섰다. 7일 행정안전부 중앙재난대책본부에 따르면, 열사병, 열 탈수 등 온열 질환에 걸린 사람은 5일 기준 1810명으로 집계됐다. 작년 같은 기간(1774명)보다 36명 많다. 온열 질환으로 인한 사망자는 6일 기준 18명으로 잠정 집계됐다.&lt;br&gt;&lt;br&gt;가축 폐사도 이어지고 있다. 6일까지 무더위로 폐사한 가축은 총 35만4000마리였다. 이 중 닭·오리 등 가금류가 32만7000마리다. 수온이 상승해 양식장에서도 넙치 1만9552마리, 조피볼락 3300마리가 폐사한 것으로 집계됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아내·의붓딸 흉기로 가해 60대 중국인 체포… “모녀 생명지장 없어”</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2024/08/07/VZL5O576UBAERCZJYOXSWV2TOE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2024/08/07/VZL5O576UBAERCZJYOXSWV2TOE/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 07 Aug 2024 11:34:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJACOCQWWU5QCEDLXLXU6WACM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아내와 의붓딸을 흉기로 찔러 다치게 한 60대 중국인이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 부천 소사경찰서는 특수상해 혐의로 중국 국적의 60대 남성 A씨를 붙잡아 조사 중이라고 7일 밝혔다. A씨는 이날 오후 5시 8분쯤 부천시 소사구 주택에서 60대 여성 B씨와 40대 여성 C씨를 흉기로 찔러 다치게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 아내 B씨와 말다툼을 하다가 흉기를 들었고 이를 말리던 의붓딸 C씨를 함께 공격한 것으로 조사됐다. 모녀는 팔 등을 다쳐 119 구급대에 의해 병원으로 옮겨졌으며 생명에는 지장이 없는 상태다.&lt;br&gt;&lt;br&gt;경찰은 “사람이 피를 흘리고 있다”는 목격자 신고를 받고 출동해 A씨를 현행범으로 체포했다. 경찰 관계자는 “A씨를 상대로 범행 동기 등을 확인할 것”이라며 “조사 과정에서 죄명이 변경될 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/FJACOCQWWU5QCEDLXLXU6WACM4.jpg?width=562&amp;height=288&amp;auth=ec6046d150ab9030572c023f88c98edc4ab2c29a32a71a3fe0ed93a20d2d2dc9&amp;smart=true" type="image/jpeg" height="288" width="562">
+        <media:description type="plain">경찰 마크. /조선DB</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>태권도 관장, 4세 아이 매트 넣기 전 강제로 다리찢기 60회</title>
+      <link>https://www.chosun.com/national/incident/2024/08/07/WAL7UIWH4NELDCVS57GGAHGOC4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/07/WAL7UIWH4NELDCVS57GGAHGOC4/</guid>
+      <dc:creator>의정부=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 07 Aug 2024 12:11:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RPSVFEDBEVMJP53INEODXHB3LU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;자신이 운영하는 태권도장에서 만 4세 남자아이를 학대해 의식불명 상태에 빠뜨린 관장이 지난 7월 14일 경기 의정부지방법원에서 열리는 구속 전 피의자 심문(영장실질심사)을 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 운영하는 태권도장에서 4세 어린이를 학대해 숨지게 한 30대 관장이 아동학대 살해 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;의정부지검은 아동학대 살해 혐의로 관장 A(38)씨를 구속 기소했다고 7일 밝혔다. A씨는 지난달 12일 오후 7시쯤 경기 양주시 태권도장에서 B군을 말아서 세워 놓은 매트 안에 거꾸로 넣은 뒤 27분간 방치한 혐의를 받는다. B군은 심정지 상태로 병원에 이송됐으나 11일 만인 지난달 23일 오전 끝내 숨졌다. 국립과학수사연구원은 B군의 사망 원인을 ‘질식에 의한 뇌 손상’으로 판단했다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “장난으로 그랬다”고 주장했으나 검찰은 A씨에게 B군을 살해할 고의가 있었다고 보고 아동학대 살해 혐의를 적용했다.&lt;br&gt;&lt;br&gt;검찰에 따르면, A씨는 B군이 “꺼내달라”고 소리쳤는데도 이를 외면하고 방치한 것으로 조사됐다. 태권도장의 사범이 B군을 꺼내야 한다고 했지만 거절한 사실도 드러났다.&lt;br&gt;&lt;br&gt;검찰은 “말아서 세워 놓은 매트의 내부는 지름 18~23㎝에 불과했지만 A씨는 B군을 머리가 아래로 향하도록 강제로 밀어 넣었다”며 “이후 관장실 안에 설치된 보안 카메라 화면을 통해 B군의 상태를 확인할 수 있었지만 장시간 계속 방치했다”고 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 보안 카메라 영상을 분석해 A씨가 B군을 매트 안에 넣기 전 학대한 정황도 확인했다. 검찰에 따르면, A씨는 손과 발로 B군의 얼굴과 몸을 여러 차례 때리고 B군의 다리를 60회가량 과도하게 찢었다.&lt;br&gt;&lt;br&gt;검찰은 A씨가 적절한 구호 조치를 하지 않고 증거를 인멸하려 한 사실도 확인했다. A씨는 B군이 숨을 쉬지 않자 같은 건물에 있는 이비인후과병원으로 옮겼고, 곧바로 도장으로 돌아와 학대 정황이 담긴 보안 카메라 영상을 삭제했다. 검찰은 “A씨는 응급구조 과목을 수강한 아동체육학 이수자이면서도 심폐소생술 등 구호 조치를 제대로 하지 않았다”고 했다.&lt;br&gt;&lt;br&gt;한편, A씨는 지난달 19일 “학대 혐의를 인정하느냐”는 취재진 질문에 “아닙니다. 내가 너무 예뻐하는 아이입니다”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경증환자가 응급실 가면 진료비 본인 부담 높인다</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/08/07/X6EOCLPG3BAQ5HK3ARP24EFOB4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/07/X6EOCLPG3BAQ5HK3ARP24EFOB4/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 07 Aug 2024 12:13:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6S65DUKGUFPTFCNNOFZFJVOUS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부가 경증환자의 권역응급센터 내원과 비응급환자의 권역·지역응급센터 내원 시 의료비 본인 부담을 단계적으로 인상한다고 밝힌 7일 서울 시내 한 대학병원 응급의료센터에서 구급대원이 환자를 이송하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 경증·비응급 환자의 응급실 이용에 대해 의료비 본인 부담 수준을 단계적으로 인상하기로 했다. 경증 환자까지 몰려 응급실 부하가 커지자 환자 분산을 유도하기 위한 차원이다. 전날 경증 환자가 상급종합병원을 이용하는 경우 진료비 부담을 높이는 방안을 검토하겠다고 밝힌 데 이어 연이틀 환자 분산 대책을 내놓은 것이다.&lt;br&gt;&lt;br&gt;보건복지부는 7일 의사 집단행동 중앙재난안전대책본부 회의를 열고 이같이 결정했다. 현재도 경증 환자가 응급실을 이용하면 진료비 외에 응급의료 관리료 5만~7만원을 추가로 부담해야 한다. 그런데도 응급실에는 경증 환자들이 몰려든다. 전국 응급실 내원 환자 가운데 절반가량이 경증·비응급 환자다. 이 때문에 응급의학계에서는 “경증 환자가 응급실에 가는 경우 본인 부담을 강화하는 방안을 검토해야 한다”고 주장해 왔다.&lt;br&gt;&lt;br&gt;정윤순 복지부 보건의료정책실장은 “본인 부담 인상은 법령 개정 작업과 맞물려 있다”며 “국민들께 충분히 알리고 의료비 부담 수준에 관해 의견을 수렴할 것”이라고 했다.&lt;br&gt;&lt;br&gt;정부는 또 전문의가 부족한 권역·지역응급센터에 공보의와 군의관을 추가로 배치키로 했다. 정 실장은 “(전공의 이탈 이후) 군의관 250명, 공보의 184명 정도가 주로 상급종합병원에서 파견 근무 중인데, 파견 기간(마감)이 지나는 공보의, 군의관을 응급의료 쪽에 핀셋 배치할 것”이라고 했다.&lt;br&gt;&lt;br&gt;중증 환자나 다른 기관에서 이송된 환자, 야간 진료 등에 대한 보상도 강화하기로 했다. 응급실 인력 확보 차원에서 응급실 전문의에 대한 인센티브를 높이고, 신규·대체 인력의 인건비 등을 지원한다. 또 권역응급센터가 중증 환자 진료에 집중할 수 있도록 중등증(중증과 경증 사이) 환자는 지역응급센터 등으로의 이송을 활성화하기로 했다. 대한응급의학회는 이날 입장문을 내고 “정부의 응급 의료 대책은 급성 질환과 중증 외상이 닥쳤을 때 자신과 가족의 생명을 지킬 수 있는 올바른 방향임을 깊이 이해해달라”고 긍정 평가했다.&lt;br&gt;&lt;br&gt;한편 정부는 오는 9일부터 하반기 전공의 모집을 다시 시작한다. 레지던트 1년 차는 오는 14일까지, 2~4년 차와 인턴은 오는 16일까지 모집한다. 6일 기준 211개 수련 병원에 복귀한 레지던트는 전체 1만506명 가운데 1091명(10.4%)이다. 사직이 확정된 5701명 가운데 625명은 일선 병의원(병원급 257명, 의원급 368명)에 일반의로 취업했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>배우 유아인 부친상…지병으로 투병 중 별세</title>
       <link>https://www.chosun.com/national/people/2024/08/07/YPZOZ4NQ6VCIJA2BJ6GGTNFV5A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/07/YPZOZ4NQ6VCIJA2BJ6GGTNFV5A/</guid>
@@ -805,54 +866,6 @@
       <description/>
       <pubDate>Mon, 22 Jul 2024 15:45:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XDP3DV3GGRARPA3X2S6ZBGMD3E.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 익충(益蟲)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/22/PXM73KEKI5AB5KBHGCN5WRI2IA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/22/PXM73KEKI5AB5KBHGCN5WRI2IA/</guid>
-      <description/>
-      <pubDate>Sun, 21 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LQ3XYTAEFVDV5LDKWN4P7EWTOU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 언어도단(言語道斷)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/19/RYSJ2BLCUJG35L6LU7FJZEXF6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/19/RYSJ2BLCUJG35L6LU7FJZEXF6E/</guid>
-      <description/>
-      <pubDate>Thu, 18 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RKG5YW3MHVFUXKQQVQZDYXOEBQ.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 식도락(食道樂)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/18/A7MAMHN5SZGV3G46AB2RP7AYDI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/18/A7MAMHN5SZGV3G46AB2RP7AYDI/</guid>
-      <description/>
-      <pubDate>Wed, 17 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEOSA5ICKFDDLMSVX6WTI7C64Q.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 알현(謁見)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/17/WCIMQIKSRBBQBGY2KPFSBLC34U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/17/WCIMQIKSRBBQBGY2KPFSBLC34U/</guid>
-      <description/>
-      <pubDate>Tue, 16 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMUZ45CCTVFM7OACOT6E34ZNYA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 면박(面駁)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/16/M5QT3LITBZBZDJPY66DYOOGF3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/16/M5QT3LITBZBZDJPY66DYOOGF3E/</guid>
-      <description/>
-      <pubDate>Mon, 15 Jul 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA4BXMGTCRBEFE4KQDW36CM4P4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 전략(戰略)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/07/15/YGHE6QPG3NAN3PCTTVAHO5FLFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/07/15/YGHE6QPG3NAN3PCTTVAHO5FLFM/</guid>
-      <description/>
-      <pubDate>Sun, 14 Jul 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6RVXDB3F2NBWZH7AVCDFJKXCVU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>차기 검찰총장 후보 추천 회의 시작…“엄중 상황”</title>
