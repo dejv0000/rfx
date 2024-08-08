@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>해외출장 뒤 사망한 대학원생…숭실대 “폭언했던 교수의 비위 발견”</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/09/DBOVD4LRTBDWTHZZ42HXDWINTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/09/DBOVD4LRTBDWTHZZ42HXDWINTM/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 Aug 2024 21:49:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EN67IJFUABBFJGDIXDJUC75JEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;숭실대학교 전경. /숭실대학교&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;숭실대학교가 작년 초 발생한 대학원생 사망 사건에 대한 진상조사 결과, 고인에게 폭언했던 교수의 비위 행위를 확인했다고 밝혔다.&lt;br&gt;&lt;br&gt;9일 숭실대 특별대책위원회에 따르면, 작년 1월 미국 라스베이거스에서 열린 세계 최대 가전‧IT 전시회 CES에 A교수와 동행한 대학원생이 귀국 사흘 만에 숨졌다.&lt;br&gt;&lt;br&gt;이후 A교수가 “똑바로 해, 바보냐” “너 때문에 다 망쳤어” 등 해외출장 기간 내내 고인에게 호통을 쳤다는 증언이 나왔다. 박사 과정 입학을 앞두고 있던 고인은 지도 교수의 계속된 질책에 큰 부담을 느꼈던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;사안을 조사한 학내 인권위원회는 행사 기간 A교수가 고인에게 업무를 몰아주고 다른 학생들 앞에서 폭언했다고 올해 초 밝혔다. 그러면서 A교수에 대한 중징계를 의결했다.&lt;br&gt;&lt;br&gt;A교수는 사태조사를 진행한 상담‧인권센터 교직원을 상대로 무더기 소송을 제기했다. 그사이 징계 수준은 경징계인 견책으로 내려갔다.&lt;br&gt;&lt;br&gt;또 A교수는 의혹을 부인하는 내용의 메일을 학내 구성원에게 보내면서 민사소송 과정에서 알게 된 고인의 질병 이력도 담았다.&lt;br&gt;&lt;br&gt;논란이 일자 숭실대 본부는 “(A교수가) 협박성 이메일을 보낸 것에 강한 유감을 표한다”고 밝혔다. 또 “고인은 석사 학위 논문을 정상적으로 작성해 제출한 훌륭한 학생”이라고 했다.&lt;br&gt;&lt;br&gt;이후 숭실대는 징계위원 전원 사퇴와 함께 징계위를 재구성했고, 특별대책위원회를 설립했다. 특별대책위는 8일 입장문에서 “A교수는 교수협의회 계정으로 본교 구성원에게 고인과 유가족의 명예를 훼손하는 내용을 담은 메일을 보내 불편함을 야기했다”며 “앞으로 학교 공식 메일 계정을 사적 용도로 부당하게 사용하고 사실에 근거하지 않은 부적절한 내용을 배포하는 행위에 대해 법적 대응을 포함한 엄정한 대처를 할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;또 A교수가 상담‧인권센터의 교직원들을 상대로 소송을 제기한 것과 관련해서는 “모두 ‘혐의없음’ 결정이 나왔다”고 했다.&lt;br&gt;&lt;br&gt;특별대책위는 “(A교수는) 해당 교직원들에게 심각한 피해를 줌과 동시에 본교에 불필요한 행정력 낭비를 초래했다”며 “이번 사태를 적법한 절차와 방법으로 바로잡을 것이며 그 과정에서 어떠한 타협도 하지 않겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“집도 공짜면서, PX 화장품 좀”…군인 가족이 받은 황당 요구</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/09/NQMQPRN335G25B5FHONHIWFCOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/09/NQMQPRN335G25B5FHONHIWFCOQ/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 Aug 2024 22:28:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KE2YAB7BK5BVRBEYAHMGGU6KYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;직업군인 남편을 둔 한 네티즌이 받은 'PX 물품 대리구매' 요구 메시지./온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 군인 가족이 시중보다 저렴하게 판매되는 군마트(PX) 물건을 불법으로 구매하려던 네티즌에게 받은 메시지를 공개했다.&lt;br&gt;&lt;br&gt;최근 여러 온라인커뮤니티에는 직업군인 남편을 둔 네티즌 A씨가 받은 소셜미디어(SNS) 메시지가 공유되고 있다. A씨가 받은 메시지에는 한 네티즌이 “군 가족이시면 PX이용 가능한가. 화장품 좀 사다주실 수 있나”며 대리구매를 요구하는 내용이 담겼다.&lt;br&gt;&lt;br&gt;A씨가 “그건 어렵다”며 거절하자 이 네티즌은 “택배비 내가 내겠다. 사다 주는 친척이 있었는데 제대해서 그렇다”며 재차 부탁했다.&lt;br&gt;&lt;br&gt;A씨가 답변을 하지 않자 그는 돌연 “야박하다”며 망치과 칼 이모티콘을 첨부하더니 “국민 세금으로 집도 공짜, 마트도 싸게 이용하지 않나. 내가 내는 돈인데 아깝다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 인스타그램을 통해 남편이 직업군인임을 밝힌 뒤 이런 메시지를 받았다고 한다.&lt;br&gt;&lt;br&gt;국군복지단이 운영하는 PX는 현역 군인 본인 또는 배우자의 직계 존·비속, 현역 장교·부사관, 국가유공자, 소집 훈련 중인 예비군 등 군 관계자들만 이용할 수 있는 시설이다. &lt;br&gt;&lt;br&gt;군납 제품만 판매되다 보니 일반 마트나 온라인에서 구매할 수 있는 같은 제품이어도 시중가보다 가격이 저렴하게 책정된 경우가 많다. &lt;br&gt;&lt;br&gt;앞서 국군복지단은 시중가와 비교해 과도한 할인율이 적용된 PX 제품을 ‘시장가격 교란’을 이유로 계약을 해지하기도 했다. &lt;br&gt;&lt;br&gt;계약 해지 제품에는 PX 내 인기 상품인 닥터지의 이른바 ‘달팽이 크림’도 포함됐다. 이 제품은 시중 가격이 14만9000원에 책정됐지만 PX에서 7000~8000원대에 판매됐다. 2018년 군 마트에 입점한 뒤 2019년까지 PX 매출 1위를 기록한 이 제품은 대체로 군 장병들이 여성 지인을 위해 대리 구매하면서 높은 인기를 구사했다.&lt;br&gt;&lt;br&gt;현역장병 및 군무원의 군 마트 물품 재판매는 영리 목적의 행위이므로 국가공무원법 제64조(영리업무 및 겸직금지)와 군인의 지위 및 복무에 관한 기본법 제30조(영리행위 및 겸직 금지)에 따라 처벌받을 수 있다. 징계 수위는 과실의 경중과 고의성 등을 반영해 매 건마다 다르게 결정된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 전신마비 청년의 눈으로 전한 사랑...애니 OTT 통해 번돈 기부</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/08/09/SRL4Q4YVZ5A7PBWZG4UD4FGBRM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/09/SRL4Q4YVZ5A7PBWZG4UD4FGBRM/</guid>
@@ -909,22 +927,6 @@
       <description/>
       <pubDate>Wed, 07 Aug 2024 15:45:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FW4XZ4VJ5VPKFNP5O2ZCDCOGEY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;환경의 날인 지난 6월 5일 경기도 수원시 영통구 수원시자원순환센터에 폐비닐 쓰레기가 쌓여 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1일 오후 서울 명륜동 한 원룸촌. 골목에 쓰레기 봉투 수십 개가 쌓여있었다. 반투명한 종량제 봉투 안을 들여다보니 배달 음식 용기, 카페 일회용컵, 컵라면 종이 용기 등 여러 쓰레기가 마구잡이로 섞여 있었다. 플라스틱·캔·병 등 재활용되는 쓰레기를 따로 담은 비닐은 찾아보기 어려웠다. 일부 종량제 봉투 안엔 배달 음식 용기에 묻은 음식물이 더운 날씨에 썩어 악취가 진동했다. 한 주민은 “분리 배출이 귀찮기도 하고, 혼자 살다 보니 종량제 봉투 하나를 다 채우는데도 시간이 걸려 모든 쓰레기를 한꺼번에 넣어 버리고 있다”고 했다.&lt;br&gt;&lt;br&gt;쓰레기 재활용 순환의 ‘시작점’에 해당하는 분리 배출이 저조해지고 있다. 코로나 팬데믹을 거치며 배달 음식과 새벽 배송 등 쓰레기가 더 많이 발생하는 구조로 생활 트렌드가 변화하고 있지만, 분리 배출과 재활용은 오히려 후퇴하고 있는 것이다. 특히 플라스틱의 혼합 배출량이 분리 배출량을 역전하면서 “분리 배출에 대한 경각심이 줄어들면 국내 재활용 정책의 근간이 흔들릴 수 있다”는 우려가 제기된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H5445S3LDBCSDOFAAAM42PO45U.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김하경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라 플라스틱 분리 배출은 양과 질이 동시에 떨어지고 있다. 분리 배출된 쓰레기는 선별장으로 넘어가 플라스틱 재질·오염도 등에 따라 한 번 더 골라내는 과정을 거친다. 그런데 본지가 경기 분당과 안성의 선별장을 방문한 결과, 분리 배출된 플라스틱 뭉치에 다른 재활용 품목이나 종량제 봉투에 버려야 할 쓰레기가 뒤섞여 있었다. 선별장 관계자는 “플라스틱이라고 분류된 걸 가져왔는데 음식물 쓰레기부터 과도, 깨진 병, 심지어 고양이 사체가 나오기도 한다”며 “페트병에 담배꽁초를 넣고 버리거나, 기저귀·생리대 같은 일반 쓰레기 품목을 분리 수거함에 넣는 경우도 허다하다”고 했다.&lt;br&gt;&lt;br&gt;현재는 선별 기술에도 한계가 있다. ‘인공지능(AI) 선별’ ‘광학 선별’ 등 선별을 고도화하는 기술이 속속 개발돼 현장에 투입되고 있지만, 아직까진 사람 일손을 덜어주는 수준에 그치고 있다는 평가다. 플라스틱 빨대나 뚜껑, 약통 같은 ‘작은 플라스틱’을 잡아내거나 플라스틱 재질을 종류별로 구분하는 등의 핵심 선별 과정은 여전히 기술적으로 해결되지 않고 있다. 선별장에선 작은 플라스틱은 애초 골라내기를 포기하고 포대에 담아 소각장 등으로 넘겼다.&lt;br&gt;&lt;br&gt;환경부에 따르면, 2022년 기준 국내 폐플라스틱 발생량은 1340만8846t이다. 이 중 하루 평균 300kg 이상 폐기물이 발생하는 대형 사업장과 건설 현장에서 내놓는 폐플라스틱이 전체의 4분의 3이고 가정과 소규모 식당·카페 등에서 배출하는 게 4분의 1이다. 사업장 폐기물은 재활용률이 81.8%이지만, 생활 폐기물의 경우 51.5%에 그친다. 생활 폐기물의 재활용률이 낮은 건 가정과 식당 등에서 일부는 열심히 분리 배출하지만 나머지는 값싼 종량제 봉투에 담아서 일반 쓰레기와 혼합 배출하기 때문으로 분석된다. 분리 배출되지 않는 플라스틱은 소각·매립된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WV6I4WUTFBBOVDBN2YJYQ2R5SQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;분리 배출된 폐플라스틱 가운데서도 또 다른 플라스틱 제품으로 재활용되는 ‘물질 재활용’의 비율이 67.4%에 그친다. 물질 재활용은 폐플라스틱을 세척하고 잘게 부숴 다시 플라스틱 제품으로 가공하는 것으로, 가장 친환경적 방식이다. 나머지 32.6%는 플라스틱을 소각, 발생한 열에너지를 발전 등에 활용하는 ‘열적 재활용’이다. 플라스틱 쓰레기 10개 중 3개꼴로 상대적으로 환경 오염 가능성이 높은 방식으로 처리되고 있는 것이다.&lt;br&gt;&lt;br&gt;국내 분리 배출 정책은 2003년 플라스틱·종이팩·금속캔·유리병 등 4종을 대상으로 시작해 현재는 종이·비닐·의류 등 11종까지 품목이 확대됐다. 환경 인식이 높아지고 재활용 확대에 대한 국민의 호응이 더해지며 분리 배출이 탄력을 받아온 것이다. 하지만 현재 이런 흐름이 정체 상태에 놓였다는 평가다. 그동안은 국민 각자의 양심에 분리 배출을 맡겨왔고 일정 수준까진 효과가 있었지만, 이제는 한계에 다다랐다는 것이다.&lt;br&gt;&lt;br&gt;환경 당국에서는 일부 단독 주택이나 연립·빌라 밀집지, 원룸촌 등에서 분리 배출이 상대적으로 덜 되고 있다고 보고 있다. 하지만 정부·지자체 등이 일일이 단속하기 어려운 게 현실이다. 홍수열 자원순환사회경제연구소장은 “성의껏 분리 배출한 쓰레기가 어떻게 재활용되는지, 어떤 환경적 효과가 있는지 정보를 제공할 필요가 있다”며 “분리 배출과 선별을 고도화하는 새로운 시스템에 대한 고민도 해야 할 시점”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2438] 초성 이어가기</title>
-      <link>https://www.chosun.com/national/nie/2024/08/08/RVJISN5PUFEETBYBENWFSWZCPQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/08/RVJISN5PUFEETBYBENWFSWZCPQ/</guid>
-      <description/>
-      <pubDate>Wed, 07 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HPC6KCMMYBBI3P7SP2NOPBLIIQ.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 중용하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/08/08/Y7RMV2OP65D5FMMPG3D2IIEFHE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/08/08/Y7RMV2OP65D5FMMPG3D2IIEFHE/</guid>
-      <description/>
-      <pubDate>Wed, 07 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ALEMXXZYPZDUVC37J45Z6QNOXM.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>23일 연속 열대야...’낮만큼 더운 밤’ 뇌졸중 위험도 커진다</title>
