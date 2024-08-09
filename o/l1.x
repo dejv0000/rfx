@@ -6,6 +6,86 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>유엔 사이버범죄 방지 협약안 만장일치 타결… 사이버 분야 최초</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/empty_thumbnail.jpg" alt="empty_thumbnail.jpg" /&gt;&lt;/p&gt;유엔(UN) 사이버범죄 방지 협약안(United Nations convention against cybercrime)이 만장일치로 타결됐다. 유엔 차원에서 최초로 마련된 사이버 분야 협약안이자, 2003년 유엔 부패방지협약 이후 약 20년 만에 마련된 형사 분야 관련 유엔 협약안이다. &lt;br /&gt;&lt;br /&gt;법무부와 대검찰청은 8일 (현지 시간) 뉴욕에서 사이버범죄 방지 협약안이 타결됐다고 9일 밝혔다. &lt;br /&gt;&lt;br /&gt;외교부와 법무부, 대검찰청과 경찰청 등 관계자들로 구성된 대표단(수석대표 이현승 외교부 국제 안보·사이버협력팀장, 교체수석대표 신도욱 청주지검 형사2부장)을 파견한 한국정부는 2022년부터 2년 반 동안 협상 타결을 위한 논의를 이어왔다. &lt;br /&gt;&lt;br /&gt;협약안의 주요 내용은 △정보통신기술시스템 침해·온라인 성범죄·전자정보 위조범죄·온라인 피싱 범죄 등 각국 형사처벌 규정 마련 의무화 △범죄 대응을 위한 증거수집 절차(데이터 보전·압수수색 등) 및 국제공조(범죄인인도·형사사법공조 등)의 요건과 절차에 대한 기준 설정 △범죄 예방 제도·법제 마련 및 개발도상국을 위한 사이버범죄 기술지원과 정보 교환 체계적 지원 방안 마련이다.&lt;br /&gt;&lt;br /&gt;논의 과정에서 사이버범죄에 대한 국제협력이 필수적이라는 점에 대해서는 이론이 없었으나, 이를 이행하기 위한 수단 및 방법에 관해선 의견 차이가 적지 않았다고 한다. 사이버범죄 정보 공유 과정에서 발생할 수 있는 인권침해를 방지하기 위한 장치가 충분히 마련되어야 한다는 입장과 국제공조 과정에서의 지나친 인권 보장 장치 마련은 사이버범죄 대응에 오히려 방해가 된다는 입장 차이로 조율 가능성이 마지막까지 불투명했다. &lt;br /&gt;&lt;br /&gt;협상참여국들은 한 차례 회기를 연장하면서 양보와 타협을 통해 극적으로 협약안을 도출했다.&lt;br /&gt;&lt;br /&gt;한국 정부 대표단은 협약안이 사이버범죄 대응과 인권 보장이라는 두 가지 목표를 달성할 수 있도록 유사입장국들과 긴밀하게 협력했다. 특히 협약 적용 범위 등 첨예하게 대립되는 쟁점에 대해서는 새로운 중재안을 제안했는데, 최종 협약안에 내용이 포함됐다고 한다.&lt;br /&gt;&lt;br /&gt;협약안은 문안 정비 작업을 거쳐 유엔의 6개 공식언어로 번역된 후 차기 유엔 총회에서 공식 채택될 예정이다. 정부는 서명 및 비준 절차를 적극 추진하면서 필요한 국내 입법도 정비해갈 계획이다.&lt;br /&gt;&lt;br /&gt;정부는 "국제사회는 사이버 분야를 규율하는 최초의 전 지구적 다자조약의 실현을 앞두게 됐다"며 "이번 협약안은 사이버범죄 국제공조 강화를 위한 다자적 논의의 결실이다. 정식 채택 및 발효 시 모든 국가가 참여 가능한 사이버범죄 대응 공조망이 구축되는 것이고 이를 토대로 특히 전자적 형태 증거의 신속한 보전 및 공유가 가능하게 될 것으로 기대된다"고 말했다.</description>
+			<pubDate>Fri, 09 Aug 2024 10:49:35 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/200495</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200495</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/empty_thumbnail.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] 법원, '박기현 공인노무사회장 직무집행정지' 가처분 신청 기각</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/empty_thumbnail.jpg" alt="empty_thumbnail.jpg" /&gt;&lt;/p&gt;박기현 한국공인노무사회장을 상대로 제기된 직무집행정지 가처분 신청을 법원이 기각했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;서울남부지법 민사51부&lt;/b&gt;(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2541"&gt;김우현&amp;nbsp;&lt;/span&gt;부장판사)는 8일 노무사 A 씨 등 46명이 박 회장을 상대로 낸 직무집행정지 가처분 신청을 모두 기각 결정했다(&lt;b&gt;2024카합20138&lt;/b&gt;).&lt;br /&gt;&lt;br /&gt;직전 공인노무사 회장을 비롯한 공인노무사 A 씨 등은 지난 3월 법원에 박 회장에 대한 직무집행정지 가처분을 신청했다. A 씨 등은 "제20대 회장선거에서 박 회장이 A 노무법인 대표라고 선거 공보에 허위기재했으며, 박 회장의 후보자 추천서에 담긴 일부 서명도 위조돼 선거가 무효"라고 주장했다.&lt;br /&gt;&lt;br /&gt;그러나 법원은 A 씨 등의 주장을 받아들이지 않았다.&lt;br /&gt;&lt;br /&gt;재판부는 "박 회장이 오랜 기간 A 노무법인 대표사원 역할을 수행해 왔다"며 "지분의 전부 양도로 등기부상 대표사원의 지위를 상실했다는 이유로 그 능력과 자질에 변화가 생겼다고 단정할 수는 없다"고 판단했다.&lt;br /&gt;&lt;br /&gt;서명 위조 주장에 대해서도 "A 씨 등이 제출한 자료만으로는 서명이 위조됐다고 보기 부족하고 이 가운데 1명의 서명은 제3자가 동의를 받아 서명을 대행한 사실이 소명될 뿐"이라며 "이 사건 임원선출에 관한 규정과 한국공인노무사회 내부 규정은 추천인 정족수 위반을 선거 무효사유로 정하고 있지 않고, 소명되는 추천인 1인 미달이란 정도의 위반, 선거에서 박 회장의 득표수(1146표) 등을 고려할 때 추천인 정족수 위반의 하자가 선거 결과에 영향을 미쳤다고 보기 어렵다"고 설명했다.&lt;br /&gt;&lt;br /&gt;한국공인노무사회 관계자는 "소모적인 소송을 줄이고 회원의 사회적인 위상 제고와 투명한 노무사회 운영에 최선을 다하겠다"고 말했다.</description>
+			<pubDate>Fri, 09 Aug 2024 10:16:26 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/200490</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200490</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/images/empty_thumbnail.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
+			<title>헌법재판연구원, '제8회 우수 헌법수업 경연대회' 성료</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/200494.jpg" alt="200494.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;헌법재판연구원(원장 김하열)은 9일 서울 강남구 역삼동 헌법재판연구원 대강의실에서 '제8회 우수 헌법수업 경연대회’을 열었다. &lt;br /&gt;&lt;br /&gt;8회째를 맞는 이번 대회 본선에서는 치열한 경쟁을 뚫고 예선을 통과한 전국의 초·중·고등 교원들이 현장에서 갈고 닦은 창의적이고 다양한 헌법수업을 선보였다. &lt;br /&gt;&lt;br /&gt;‘우수 헌법수업 경연대회’는 다양한 교과목의 학습주제에 헌법을 접목한 우수 헌법수업의 사례를 소개하고 교육현장에서의 헌법문화 확산에 기여하기 위해 마련됐다. &lt;br /&gt;&lt;br /&gt;이날 예선 및 본선 합산성적에 따라 8명의 교사에게 대상(1명), 금상(1명), 은상(2명), 동상(4명)이 수여됐다. &lt;br /&gt;&lt;br /&gt;대상의 영광은 김현아 제물포여중 교사에게 돌아갔다. 금상은 유현상 평택현촌초 교사가 수상했다. 은상은 조세희 부산국제고 교사와 소정원 인천동명초 교사가 차지했다. 이주연 동대문중 교사, 홍세진 서울도성초 교사, 홍이서 소담초 교사, 최동민 송우고 교사는 동상을 받았다.</description>
+			<pubDate>Fri, 09 Aug 2024 09:38:30 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/200494</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200494</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200494.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
+			<title>변협, '변호사법 위반 혐의' 권순일 전 대법관 징계절차 착수</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/200489.jpg" alt="200489.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;대한변호사협회&lt;/b&gt;(협회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2700"&gt;김영훈&lt;/span&gt;)는 변호사법 위반 혐의로 재판에 넘겨진&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3924"&gt;권순일&lt;/span&gt;(65·사법연수원 14기) 전 대법관에 대한 징계 절차에 착수했다. &lt;br /&gt;&lt;br /&gt;9일 법조에 따르면, 변협은 지난 8일 검찰로부터 권 전 대법관에 대한 징계 개시를 요청받고 권 전 대법관을 조사위원회에 회부했다. &lt;br /&gt;&lt;br /&gt;검찰은 범죄 수사 과정에서 변호사 징계 사유가 발견되면 변협에 징계 개시를 신청할 수 있다. &lt;br /&gt;&lt;br /&gt;변협 조사위원회의 조사 결과에 따라 징계위원회 회부가 결정되고, 징계위가 징계여부를 결정한다. &lt;br /&gt;&lt;br /&gt;변호사법 제90조에 따르면 변호사에 대한 징계는 △영구제명 △제명 △3년 이하 정직 △3000만 원 이하의 과태료 △견책으로 구분된다.&lt;br /&gt;&lt;br /&gt;권 전 대법관은 2020년 9월 퇴직 후 같은 해 11월부터 이듬해 9월까지 대장동 민간업자 김만배씨가 대주주로 있는 화천대유자산관리에 고문으로 취업해 재직 동안 1억5000만 원의 고문료를 받은 것으로 알려졌다. &lt;br /&gt;&lt;br /&gt;검찰은 권 전 대법관이 변호사 등록 없이 화천대유 관련 민사소송 상고심과 행정소송 1심의 재판 상황 분석, 법률 문서 작성, 대응 법리 제공 등 변호사 직무를 한 혐의로 지난 7일 재판에 넘겼다.</description>
+			<pubDate>Fri, 09 Aug 2024 08:37:56 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/200489</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200489</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200489.jpg</media:thumbnail>
+			<dc:creator>유지인 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] "'SK텔레콤 전자처방전 서비스' 개인정보보호법·의료법 위반 아냐"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&amp;nbsp;&lt;img src="https://image.lawtimes.co.kr/thumb/180/200483.jpg" alt="200483.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;2010년 '전자처방전 서비스'를 시도한 SK텔레콤에 대해 개인정보보호법과 의료법 위반으로 볼 수 없다는 판결이 대법원에서 확정됐다.&lt;p&gt;&amp;nbsp;&amp;nbsp;   &lt;p&gt;&lt;b&gt;대법원 형사2부&lt;/b&gt;(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8769"&gt;이동원&amp;nbsp;&lt;/span&gt;대법관)는 지난달 11일 개인정보보호법 위반, 의료법 위반 혐의로 재판에 넘겨진 SK텔레콤과 담당 임직원 5명에게 무죄, 공소기각을 선고한 원심을 그대로 확정했다(&lt;b&gt;2020도13960&lt;/b&gt;).&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;2010년 12월 전자처방전 서비스를 도입한 SK텔레콤은 병·의원에서 의사들이 작성한 전자처방전 정보를 의사와 환자의 동의 없이 중계서버로 전송받아 저장하고, 이를 약국에 제공하는 방법으로 환자의 민감정보를 불법 수집하고 누출한 혐의로 2015년 기소됐다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;검찰은 SK텔레콤이 이 서비스를 통해 2011년부터 2014년까지 병·의원 2만3000여곳에서 7800만건의 정보를 받아내 건당 50원씩 수수료를 챙겨 총 36억 원의 이득을 취득했다고 봤다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;1심은 "SK텔레콤은 병·의원의 처방을 약국에 단순히 중계하는 역할만 했다"며 개인정보보호법상 '개인정보 처리자'에 해당하지 않는다고 판단해 무죄를 선고했다. 또 공소사실 상당수는 정보주체가 누구인지 특정되지 않았다고 보고 공소를 기각했다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;항소심도 "SK텔레콤은 병원이 약국에 처방전을 전송하는 것을 단순 중계하는 역할만 했다"며 "환자의 민감정보를 병원으로부터 수집, 저장, 보유하거나 약국에 제공해 처리했다고 보기 어렵다"며 검찰의 항소를 기각하고 무죄로 판단했다. 의료법 위반 혐의에 대해서는 "전송받은 암호화된 정보를 SK텔레콤이 탐지·지득했다고 인정하기 어렵고, 전자적 방법으로 전송한 것을 전자처방전에 담긴 개인정보를 누출한 것으로 보기 어렵다"고 밝혔다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;검찰이 불복해 상고했으나 대법원은 "원심 판단에 개인정보보호법 위반죄 및 의료법 위반죄의 성립 등에 관한 법리를 오해한 잘못이 없다"며 항소심 판결을 그대로 확정했다.&lt;/p&gt;   &lt;/p&gt;</description>
+			<pubDate>Fri, 09 Aug 2024 08:36:24 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/200483</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200483</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200483.jpg</media:thumbnail>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
+			<title>서울대, 입법 전문 싱크탱크 '입법연구센터' 신설한다</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/200480.jpg" alt="200480.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;서울대가 입법 전문 싱크탱크인 ‘입법연구센터’를 신설하고 국회 입법 연구와 입법 전문가 양성에 나서기로 했다.&lt;br /&gt;&lt;br /&gt;9일 서울대 등에 따르면 서울대 이사회는 최근 법학연구소 산하에 입법연구센터를 설립하는 내용의 '서울대학교 법학연구소 규정 일부개정안’을 의결하고 센터 설립 절차를 마무리했다. &lt;br /&gt;&lt;br /&gt;입법연구센터는 서울대 법학연구소 산하 조직으로 운영되며 △헌법 가치를 실현하기 위한 입법 대안 제시 △입법 전문가 교류 플랫폼 구축 △입법 교육과정 운영 등을 목적으로 한다. 전문 연구인력과 함께 실제 입법 과정을 경험한 전직 국회의원, 행정부·입법부 공무원, 로펌의 입법 전문가, 기업 관계자들을 자문위원으로 위촉하고 외부 네트워크를 넓힐 계획이다.&lt;br /&gt;&lt;br /&gt;입법연구센터 초대 센터장은 이우영(&lt;b&gt;사진&lt;/b&gt;) 서울대 로스쿨(법학전문대학원) 교수가 맡는다. 서울대 법과대학을 졸업한 이 교수는 미국 하버드 로스쿨에서 법학석사(LL.M.) 학위를, 스탠포드 로스쿨에서 법학박사(J.S.D.) 학위를 취득했다. 2003년부터 서울대 법과대학 및 로스쿨에서 교수로 근무 중이며 한국입법학회 차기 회장으로 내정된 공법·헌법 전문가다.&lt;br /&gt;&lt;br /&gt;서울대 관계자는 "국회와 입법의 중요성과 역할이 대단히 커졌음에도 입법적 개선방향을 전문적, 구체적으로 제시하는 경우가 적었다"며 "입법연구센터가 서울대의 인프라를 최대한 활용해 입법 담론 형성과 입법 과정 개선에 의미있는 역할을 할 것으로 기대한다"고 밝혔다.</description>
+			<pubDate>Fri, 09 Aug 2024 08:31:45 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/200480</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200480</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200480.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] 권순일 前 대법관 장인, '홍콩펀드 투자금 10억' 반환소송 항소심도 패소</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/200488.jpg" alt="PYH2020103004900001300.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="text-align: left; margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;권순일 전 대법관이 2020년 10월 30일 중앙선거관리위원장직을 퇴임하며 퇴임사를 하고 있다 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3924"&gt;권순일&lt;/span&gt;(65·사법연수원 14기) 전 대법관의 장인이 환매 중단 사태가 발생한 홍콩 펀드 투자금 10억 원을 돌려달라며 은행 등을 상대로 소송을 냈으나 1심에 이어 항소심에서도 패소했다.&lt;p&gt;&amp;nbsp;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;   &lt;b&gt;서울고법 민사16부&lt;/b&gt;(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2608"&gt;김인겸&amp;nbsp;&lt;/span&gt;부장판사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="777"&gt;박정제&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="11472"&gt;김규동&amp;nbsp;&lt;/span&gt;고법판사)는 8일 권 전 대법관의 장인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="333"&gt;안경상&lt;/span&gt;(89·고등고시 8회) 전 감사원 사무총장이 2021년 4월 하나은행과 삼성헤지자산운용을 상대로 낸 10억 원 손해배상소송 항소심에서 원고 측 항소를 기각하고 1심과 마찬가지로 원고 패소 판결했다(&lt;b&gt;2023나2055314&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;권 전 대법관은 아내와 함께 2019년 4월 하나은행에서 삼성헤지자산운용의 '전문투자형 사모투자신탁 제3호' 펀드를 소개받고 2020년 5월 장인의 노후 자금 10억 원을 대신 투자했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;해당 펀드는 코로나19 팬데믹의 여파로 환매가 중단돼 1조 원대 투자 피해가 발생한 홍콩 '젠투(GEN2) 펀드'였다. 투자처인 홍콩 사모펀드 운용사 젠투파트너스는 2020년 5월 환매 중지를 선언했고 권 전 대법관의 장인도 투자금을 돌려받지 못하게 됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;앞서 1심 재판부는 권 전 대법관이 해당 펀드 가입에 대해 실질적인 결정권을 가지고 있었던 것으로 보일 뿐 아니라 권 전 대법관이 법률적 지식을 바탕으로 해당 펀드 투자의 위험성을 충분히 인식했을 것으로 보이므로 은행 측에 배상 의무가 없다고 판단했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;1심 재판부는 "은행 직원이 펀드에 대해 설명할 당시 권순일이 동석하고 있었다"며 "권 전 대법관이 금융투자 상품에 대한 법적 지식이 있고 여러 차례 금융투자 상품 거래를 한 경험이 있는 이상 해당 투자를 할 경우 큰 폭의 손실을 볼 수도 있다는 사정을 인지한 것으로 보인다"고 판시했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Fri, 09 Aug 2024 08:30:34 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/200488</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200488</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200488.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
+			<title>법무보호복지공단 부산지부, 가족 관계 회복을 위한 '가족캠프' 열어</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/200487.jpg" alt="200487.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;가족친화 프로그램 참여자들과 공단 관계자들.&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;한국법무보호복지공단 부산지부(지부장 최규삼)는 부산광역시 사회 정착 지원사업의 일환으로 법무보호대상자와 가족과 함께 지난 8일 부산시 기장군 롯데월드에서 ‘희망 가득·사랑담은 싱싱 가족캠프’를 진행했다. 이날 법무부 법무보호위원 부산지부협의회(회장 이우열) 위원들도 함께 했다.&lt;/p&gt;&lt;br /&gt;이 프로그램은 부산시의 지원을 받아 미성년 자녀를 양육 중인 법무보호대상자 가정을 대상으로 실시하는 프로그램이다. 여가 생활 기회를 확대하고, 자녀 양육에 관한 교육 등 여러 코너가 진행됐다.&lt;br /&gt;&lt;br /&gt;참가자 A 씨는 “바쁘다는 핑계로 아이들과 같이 놀아주지도 못했는데 덕분에 가족들과 함께 놀이동산에 올 수 있었다”며 “아이들이 웃으며 즐겁게 뛰어노는 모습을 보니 기쁘다”라고 참여 소감을 전했다.&lt;br /&gt;&lt;br /&gt;이우열 회장은 “이번 프로그램을 시작으로 서로의 소중함을 알아가고, 서로를 아끼며 더욱 건강한 가족 관계로 나아가면 좋겠다”고 말했다.</description>
+			<pubDate>Fri, 09 Aug 2024 08:10:00 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/200487</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200487</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200487.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
 			<title>여변, "여성변호사 임신·출산·육아 이유로 한 차별 근절 개선책 마련 시급"</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/200478.jpg" alt="22.jpg" /&gt;&lt;/p&gt;한국여성변호사회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1151"&gt;왕미양&lt;/span&gt;)이 지난 8일 성명을 내고 여성변호사의 출산을 이유로 한 해고를 부당하다고 본 법원 판결을 환영하며 여성변호사의 임신·출산·육아를 이유로 한 차별과 불이익을 근절하기 위한 개선책 마련을 촉구했다.&lt;br /&gt;&lt;br /&gt;여변은 "여성변호사의 수가 점점 늘어나고 있지만, 근로 여건은 개선되지 않고 있다"며 "특히 여성변호사는 취업 및 근로 시 임신·출산·육아를 이유로 노골적으로 또는 보이지 않게 차별과 불이익을 당하고 있다"고 말했다. &lt;br /&gt;&lt;br /&gt;이어 "여성변호사의 임신·출산·육아를 이유로 한 해고는 여성변호사의 경력단절을 초래하고, 저출산 문제를 더욱 심화시키며 근로기준법 및 남녀고용평등법을 위반한 위법행위이자 성차별행위"라고 강조했다. &lt;br /&gt;&lt;br /&gt;그러면서 "△육아휴직으로 인한 인력 및 업무공백의 해결 방안 마련 △출산・육아휴직을 허용한 법무법인에 대한 유무형의 인센티브 제공 △탄력근무제・재택근무・시간선택제 등 다양한 근무환경조성과 모성보호시설 확충 등 여러 방법을 강구해야 한다"고 설명했다.&lt;br /&gt;&lt;br /&gt;5개월간 출산휴가와 육아휴직을 사용한 뒤 복직을 앞둔 여성변호사에게 돌연 해고를 통보한 로펌이 노동위원회의 부당해고 구제판정에 불복해 소송을 냈으나 1심과 항소심 모두 패소한 바 있다.&lt;br /&gt;</description>
 			<pubDate>Fri, 09 Aug 2024 05:56:25 -0000</pubDate>
@@ -160,86 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200431</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200431.jpg</media:thumbnail>
 			<dc:creator>안현 기자</dc:creator>
-		</item>
-		<item>
-			<title>여야 정책위의장, '민생법안 신속 처리' 합의</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/200430.jpg" alt="200430.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;김상훈, 진성준 정책위의장이 7일 오전 국회에서 만나고 있다.《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;여야가 제22대 국회 개원 후 정쟁 속에 방치된 주요 민생법안들을 신속하게 처리하기로 의견을 모았다.&lt;br /&gt;&lt;br /&gt;김상훈 국민의힘 정책위의장과 진성준 더불어민주당 정책위의장은 7일 국회에서 첫 정책위의장 회담을 열어 견해차가 크지 않은 법안을 중심으로 합의를 이뤄가자는데 공감대를 형성했다.&lt;br /&gt;&lt;br /&gt;김 의장은 모두발언에서 "민주당에서 당론 발의한 50여 개 법안을 살펴보니 충분히 수용할 수 있는 법안이 눈에 들어왔다"며 "범죄피해자 보호법, 구하라법, 산업 직접 활성화 및 공장 설립법, 대·중소기업 상생협력 촉진법 등을 같이 논의할 수 있겠다고 판단했다"고 말했다.&lt;br /&gt;&lt;br /&gt;이에 진 의장은 "국민의힘에서 중점 추진하겠다고 당론 채택한 법안을 보니 견해차가 크지 않은 법안도 꽤 있다"며 "이런 법안은 여야가 속도 내서 빨리 입법할 수 있지 않겠나 생각한다"고 덧붙였다.&lt;br /&gt;&lt;br /&gt;이날 여야 정책위의장은 맞벌이 부부의 육아휴직 연장·돌봄서비스 향상·지역인재 균형 육성·임대주택 공급 활성화 관련 법안의 논의 가능성도 열어놨다.&lt;br /&gt;&lt;br /&gt;그러나 내년 1월 시행 예정인 금융투자소득세를 두고는 여전히 입장이 엇갈렸다.&lt;br /&gt;&lt;br /&gt;김 의장은 금투세 폐지를 야당이 수용할 필요성을 설명했지만, 진 의장은 예정대로 금투세를 시행해야 한다는 입장을 고수한 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;</description>
-			<pubDate>Wed, 07 Aug 2024 08:56:50 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/200430</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200430</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200430.jpg</media:thumbnail>
-			<dc:creator>김지현 기자</dc:creator>
-		</item>
-		<item>
-			<title>서울변회, '변호사 보수 부가세 면세' 연내 통과 추진</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/200427.jpg" alt="r.jpg" /&gt;&lt;/p&gt;서울지방변호사회(회장 김정욱)는 '변호사 보수 부가가치세 면세' 법안에 대해 연내 제정을 추진 중이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="32148"&gt;김정욱&lt;/span&gt;(45·변호사시험 2회) 서울지방변호사회 회장은 최근 언론과의 인터뷰에서 연내 국회에서 '변호사 보수 부가가치세 면세' 법안이 발의될 것이라고 말했다.&lt;br /&gt;&lt;br /&gt;김 회장은 "국민들이 변호사를 선임할 때 수임료가 1000만 원이라고 하면 부가세(10%) 100만 원을 더해 1100만 원을 내야 한다"며 "변호사는 수임료에서 소득 관련 세금을 내는 구조이기 때문에 결국 부가세 부담은 모두 소비자에게 돌아간다"고 법안 필요성을 강조했다. &lt;br /&gt;&lt;br /&gt;이어 "기획재정위원회에서 관련 법안이 발의되면 논의가 급물살을 탈 것으로 기대한다"며 "변호사 보수 부가세 면세가 되면 국민들의 법률 서비스 이용이 조금은 쉬워질 것"이라고 말했다. &lt;br /&gt;&lt;br /&gt;김 회장은 협회 회장 출마 당시 의료, 법률, 회계 등 분야에 판매세를 부과하지 않는 미국 사례를 참조해 공공적 성격이 강한 업무 분야에서 일정 범위 이내의 보수에 대한 부가가치세를 제외해야 한다는 취지로 '변호사 보수 부가가치세 면세' 공약을 내걸었다.&lt;br /&gt;&lt;br /&gt;김 회장은 2021년 제96대 서울변회 회장 선거에서 '1호 로스쿨 출신' 회장으로 당선돼 2023년 1월 재선에 성공하며 제97대 서울변회 회장을 역임하고 있다.&lt;br /&gt;&lt;br /&gt;당시 김 회장은 10대 주요 공약으로 △대관부서 신설 △광화문회관 재건축 △판례 제공 등 업무 지원통합시스템 제공 △익명 진정 누적 반영 제도 △변리사 현장 연수 연결 △나의 변호사 혁신 △변호사 보수 부가세 면세 △국선 보수 증액 등을 내세운 바 있다.</description>
-			<pubDate>Wed, 07 Aug 2024 08:51:39 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/200427</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200427</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200427.jpg</media:thumbnail>
-			<dc:creator>김지현 기자</dc:creator>
-		</item>
-		<item>
-			<title>차기 검찰총장 후보 4인 압축...임관혁·심우정·이진동·신자용</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/200428.jpg" alt="200428.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;(왼쪽부터) 임관혁 · 심우정 · 이진동 · 신자용&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p style="line-height: 1.7;"&gt;&amp;nbsp;&lt;/p&gt;오는 9월 15일 임기를 마치는&amp;nbsp;&lt;span class="lawmanlink" serial="9175" style="font-weight: bold;"&gt;이원석&lt;/span&gt;(55·사법연수원 27기) 검찰총장의 후임 후보자로&amp;nbsp;&lt;span class="lawmanlink" serial="7409" style="font-weight: bold;"&gt;임관혁&lt;/span&gt;(58·26기)&amp;nbsp;서울고검장과 &amp;nbsp;&lt;span class="lawmanlink" serial="3204" style="font-weight: bold;"&gt;심우정&lt;/span&gt;(53·26기)&amp;nbsp;법무부차관,&amp;nbsp;&lt;span class="lawmanlink" serial="8288" style="font-weight: bold;"&gt;이진동&lt;/span&gt;(56·28기)&amp;nbsp;대구고검장,&amp;nbsp;&lt;span class="lawmanlink" serial="3730" style="font-weight: bold;"&gt;신자용&lt;/span&gt;(52·28기)&amp;nbsp;대검 차장검사가 올랐다. &lt;br /&gt;&lt;br /&gt;7일 법무부 과천청사에서 정상명 위원장 주재로 검찰총장후보추천위원회가 개최됐다. &lt;br /&gt;&lt;br /&gt;위원회는 검찰총장 후보 심사대상자들의 경력, 공직 재직기간 동안의 성과와 능력, 인품, 리더십, 정치적 중립성·독립성에 대한 의지 등에 관하여 심도있는 심사를 거쳤다. &lt;br /&gt;&lt;br /&gt;심사를 거친 위원회는 안정적으로 검찰 조직을 이끌고 국민이 바라는 검찰의 모습을 실현할 검찰총장 후보자로 임관혁 서울고검장, 심우정 법무부차관, 이진동 대구고검장, 신자용 대검 차장을 선정해 박성재 법무부장관에게 추천했다. &lt;br /&gt;&lt;br /&gt;&lt;p style="line-height: 1.7;"&gt;심 차관은 서울대 법대를 졸업했고 사법시험 36회에 합격해 법무부 검찰과장·기획조정실장, 서울동부지검장, 인천지검장, 대검 차장 등을 거쳤다. 요직을 두루 거친 '엘리트'로 법무 검찰 행정에 경험이 많고, 검찰 내부 신망이 두텁다고 알려져있다.&lt;/p&gt;&lt;p style="line-height: 1.7;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="line-height: 1.7;"&gt;임 고검장은 서울대 사회학과를 졸업했고 사법시험 36회에 합격해 서울중앙지검 특수1·2부장, 서울동부지검장, 대전고검장 등을 역임했다. 2019년에는 세월호 참사 특별수사단 단장을 맡았다. 특수통으로 STX그룹 분식회계 및 로비 사건, 이명박 정부 하베스트 인수사건을 수사했다.&lt;/p&gt;&lt;p style="line-height: 1.7;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="line-height: 1.7;"&gt;신 대검 차장은 한양대 법대를 졸업해 사법시험 38회에 합격했다. 대검 정책기획과장, 법무부 검찰과장·검찰국장 등을 거쳤다. 굵직한 수사를 지휘한 검찰 내 대표 특수통으로 사법행정권 남용 의혹, 세월호 참사 보고시간 조작 의혹 사건을 수사해 관련자를 기소했다.&lt;/p&gt;&lt;p style="line-height: 1.7;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="line-height: 1.7;"&gt;이 고검장은 연세대 생화학과를 졸업하고 제38회 사법시험 합격해 서울남부지검 금융조사2부장, 서울중앙지검 형사4부장, 서울고검 감찰부장, 대전지검장, 서울서부지검장 등을 역임했다. '특수통'으로 통하는 이 고검장은 서울중앙지검 특수부 시절 국정원 불법 도청 사건 등을 수사했다.&amp;nbsp;&lt;/p&gt;&lt;p style="line-height: 1.7;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="line-height: 1.7;"&gt;후보자 4명 모두 윤 대통령과 근무 인연이 있다. 심 차관은 윤 대통령이 서울중앙지검장이었던 2017년 중앙지검 형사1부장을 지냈다. 임 고검장은 윤 대통령이 검찰총장일 당시 세월호참사특별수사단 단장을 맡아 수사를 이끌었다.&lt;/p&gt;&lt;p style="line-height: 1.7;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="line-height: 1.7;"&gt;신 차장은 2016년 서울중앙지검 형사4부장 재직 당시 박근혜 정부 국정농단 특별검사팀에서 윤 대통령, 한동훈 국민의힘 대표와 함께 수사했다. 이 고검장은 2011년 대검 중앙수사부에서 윤 대통령과 부산저축은행 비리 의혹을 함께 수사했고 윤 대통령의 서울중앙지검장 시절 형사3부장으로 일했다.&lt;/p&gt;&lt;p style="line-height: 1.7;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="line-height: 1.7;"&gt;추천위 운영 규정에 따르면 회의가 끝나는 대로 후보자 3명 이상을 법무부 장관에게 서면으로 알려야 한다. 법무부 장관이 그중 1명을 대통령에게 제청하면 국회 인사청문회를 거쳐 검찰총장으로 임명되게 된다. 국회 동의는 필요로 하지 않는다. 보통 장관의 제청 절차도 이틀을 넘기지 않는 경우가 많아 이번주에 최종 후보가 결정될 것으로 보인다. 국회 인사청문회가 예정대로 진행된다면 다음 달 초쯤 차기 총장이 임명될 것으로 관측된다.&lt;/p&gt;</description>
-			<pubDate>Wed, 07 Aug 2024 08:48:44 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/200428</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200428</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200428.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>대한상사중재원-한국중재학회, '주석 중재법' 전면 개정 나서</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/200426.jpg" alt="200426.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="text-align: justify; margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;석광현 공동집필위원장(왼쪽 일곱 번째)과 이호원 공동집필위원장(왼쪽 아홉 번째), 맹수석 대한상사중재원 원장(왼쪽 여덟 번째)이 주석중재법 개정판 집필위원들과 함께 기념사진을 찍고 있다.&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p style="text-align: left;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;대한상사중재원(원장 맹수석)과 한국중재학회(회장 허해관)는 7일 서울 강남구 삼성동 중재원 제1심리실에서 《주석 중재법》 개정판 발행을 위한 발족식을 열었다.&lt;/p&gt;&lt;p style="text-align: left;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: left;"&gt;이번 발족식은 대한상사중재원과 한국중재학회가 《주석 중재법》 개정판 발행을 논의하기 위한 자리로 마련됐다. 두 기관은 올해 말에서 내년 상반기 중 성과 발표회를 진행하고, 내년 말 최종 개정판을 발행할 계획이다.&lt;/p&gt;&lt;p style="text-align: left;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: left;"&gt;맹수석 원장은 “이번 개정판의 경우 초판의 일부 내용 보완은 물론, 그동안 축적된 이론과 판정례 등을 반영해 실질적인 새로운 주석서로 자리매김하도록 할 것"이라며 “중재원 창립 70주년을 맞는 내후년에 우리나라 중재커뮤니티 모두에게 큰 선물이 될 수 있도록 하겠다”고 말했다.&lt;/p&gt;&lt;p style="text-align: left;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: left;"&gt;이호원 집필위원회 공동위원장은 “우리나라 중재법은 UNCITRAL 모델중재법을 전면적으로 수용한 국제적이고 선진적인 법률인 만큼, 이러한 입법취지를 살려 새로운 주석서 개정판도 우리나라 최고의 전문가들을 집필자로 모시고 최고 수준의 주석서를 집필하겠다"고 밝혔다.&lt;/p&gt;</description>
-			<pubDate>Wed, 07 Aug 2024 07:10:34 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/200426</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200426</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200426.jpg</media:thumbnail>
-			<dc:creator>유지인 기자</dc:creator>
-		</item>
-		<item>
-			<title>대검찰청·한국가정법률상담소 협력…사회적 취약계층 법률지원 21건 성과</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/empty_thumbnail.jpg" alt="empty_thumbnail.jpg" /&gt;&lt;/p&gt;대검찰청과 한국가정법률상담소가 지난해 12월 체결한 업무협약으로 21건에 대한 법률지원이 이뤄졌다. &lt;br /&gt;&lt;br /&gt;대검은 7일 일선청의 형사사건 수사 중 법률지원을 의뢰받아, 한국가정법률상담소와 협력하여 법률지원이 가능하도록 시스템을 구축하고 현재까지 총 21건의 법률지원을 진행했다고 밝혔다. &lt;br /&gt;&lt;br /&gt;대전지검 홍성지청은 지난해 12월 이혼한 친권자인 친모가 미성년 자녀 3명을 학대한 사건 수사 중 법률지원을 협의해 친부로 친권자를 변경했다.&lt;br /&gt;&lt;br /&gt;의정부지검은 지난 1월 친부가 친모를 살해한 사건을 수사하며, 미성년 자녀가 양육자인 이모에게 입양될 수 있도록 지원했다.&lt;br /&gt;&lt;br /&gt;창원지검 마산지청은 지난 3월 내연관계에 있는 피고인들이 아이를 낳아 12년간 출생신고를 하지 않고 방임한 사건을 수사하면서 아동의 출생신고 등 여러 법률지원에 나섰다.&lt;br /&gt;&lt;br /&gt;수원지검 성남지청은 75년간 주민등록 없이 가족들과 연락이 두절된 채 살아온 피의자에게 6촌 친척을 찾아 DNA 검사를 실시하고 결과지를 제출해 주민등록번호를 부여하고 병원 진료를 받을 수 있도록 했다.&lt;br /&gt;&lt;br /&gt;전주지검 군산지청은 보이스피싱 등 범죄에 제공된 유령법인 명의 대포통장을 확인하고, 추가 범행 방지를 위해58개 유령법인에 대한 해산인용결정을 받아냈다. &lt;br /&gt;&lt;br /&gt;부산지검은 친모가 5세 자녀를 방임하고 출산한 영아를 살해한 혐의로 구속되자 친권상실 청구와 함께 위탁모가 후견인이 될 수 있도록 미성년후견인 선임을 청구했다. &lt;br /&gt;&lt;br /&gt;대검은 전국청 공익대표 전담 검사 및 수사관 131명을 지정하고 법률지원 관련 직무를 적극적으로 수행하도록 지시했다. 하지만 검사에게 직접적인 법률지원 권한이 없는 다양한 사안들이 존재하고 장기간 진행되는 비송사건을 한정된 인력이 지속적으로 관리하기 어렵다는 한계가 있었다. &lt;br /&gt;&lt;br /&gt;이에 대검은 문제를 해결하기 위해 지난해 12월 한국가정법률상담소와 업무협약을 체결했다.&lt;br /&gt;&lt;br /&gt;대검은 일선 검찰청으로부터 법률지원 필요사건 및 지원 필요 내용을 전달받아 한국가정법률상담소에 지원을 요청했다. 한국가정법률상담소는 자원봉사 변호사 모임인 '백인변호사단'과 함께 소송대리 등 법률 지원을 제공했다. &lt;br /&gt;&lt;br /&gt;대검은 "앞으로도 사건 수사를 통한 실체 진실 발견과 더불어 여러 어려움을 겪고 있는 사건 관계자들의 정상적인 사회 복귀를 위해 한국가정법률상담소와 협력해 다양한 영역에서 공익 대표 활동에 최선을 다할 것"이라고 밝혔다.</description>
-			<pubDate>Wed, 07 Aug 2024 06:13:14 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/200424</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200424</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/empty_thumbnail.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 고객 출금 요청에도 이행하지 않아 루나 폭락했다면…법원 "업비트, 손해배상 책임 면할 수 없어"</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/200419.jpg" alt="nicholas-cappello-Wb63zqJ5gnE-unsplash.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;2022년 루나 코인 폭락 사태 직전 잘못 입금된 루나를 고객에게 제때 반환하지 않은 가상자산 거래소 업비트에 대해 손해를 배상해야 한다는 법원 판단이 나왔다. 루나·테라 코인 폭락 사태와 관련해 거래소의 손해배상 책임을 인정한 첫 사례이다. 법원은 루나가 폭락한 사이 고객이 여러 차례 출금 요청을 했음에도 이를 이행하지 않은 거래소에 대해 손해배상 책임이 있다고 판단했다.&lt;p&gt;   &lt;br /&gt;서울중앙지법 민사70단독&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="17725"&gt;박재민&lt;/span&gt;&amp;nbsp;판사는 지난달 25일 개인투자자인 A 씨(소송대리인 법무법인 대건 정용기, 이승권, 조정윤, 한상준 변호사)가 업비트 운영사인 두나무 주식회사를 상대로 낸 손해배상 청구소송에서 "두나무는 A 씨에게 1억4711만 원을 지급하라"며 원고일부승소 판결했다(&lt;b&gt;2022가단5268149&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;베트남에 거주하던 A 씨는 2022년 3월 업비트 전자지갑에 보유하던 루나 코인 1310개를 해외 가상자산 거래소인 바이낸스의 본인 명의 전자지갑으로 보냈다. 이 과정에서 A 씨는 1차 주소와 2차 주소를 모두 입력해야 하는데, 2차 주소를 입력하지 않았다. 바이낸스는 기재 오류가 있다며 해당 루나를 A 씨의 전자지갑이 아닌, 업비트의 전자지갑으로 반환했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이에 A 씨는 업비트에 잘못 입금된 부분을 복구해달라고 요청했고, 업비트의 요청에 따라 암호화폐 거래내역까지 전달했다. A 씨는 최소 10차례 복구 요청을 했으나, 업비트는 "자금세탁 방지 규칙 준수를 위한 절차를 마련한 뒤 복구해주겠다"고 답했다. 그러다 5월 10일 테라·루나 폭락 사태가 벌어졌고, 송금 시도 시점에 1억4700여만 원이었던 A 씨의 루나 가치는 상장폐지 직전인 5월 18일 크게 하락해 560원으로 떨어졌다. 이에 A 씨는 업비트의 잘못으로 루나를 처분하지 못해 손해를 봤다며 1억5600여만 원을 배상하라는 소송을 냈다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;재판부는 A 씨의 주장을 받아들였다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;박 판사는 "업비트가 당시 사실관계를 명확하게 인식한 상태였던 것으로 보이는 점 등을 보면 업비트는 A 씨의 요청에 따라 루나를 A 씨의 업비트 지갑에 복구시켜 A 씨가 출금할 수 있도록 해 줄 채무가 있는데도 이를 이행 지체한 것으로 판단된다"고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이어 "채무자는 자기에게 과실이 없는 경우에도 이행 지체 중 발생한 손해를 배상해야 한다"며 "이행 지체 기간에 불가항력으로 급부가 불가능하게 됐더라도 채무자는 이로 인한 손해배상 책임을 면할 수 없다"고 설명했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Wed, 07 Aug 2024 06:12:45 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/200419</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200419</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200419.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>아시아모델페스티벌조직위원회, 강효상 전 의원 고문으로 위촉</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/200423.jpg" alt="200423.jpg" /&gt;&lt;/p&gt;&lt;br /&gt;아시아모델페스티벌조직위원회(회장 양의식)는 7일 전 국회의원 강효상(&lt;b&gt;사진&lt;/b&gt;) 법무법인 대륙아주 고문을 아시아모델페스티벌조직위원회 고문으로 위촉했다. &lt;br /&gt;&lt;br /&gt;아시아모델페스티벌은 25개국이 참여하는 문화 산업 교류의 장으로, 아시아 최대 규모의&amp;nbsp;모델·패션·뷰티 산업 행사다. 2006년부터 시작해 19년째다.&amp;nbsp;&lt;p&gt;&lt;br /&gt;2024 아시아모델페스티벌은 오는 10월 30일부터 11월 3일까지 강원랜드 호텔 컨벤션센터에서 열린다. 페이스 오브 아시아, 아시아오픈컬렉션(키즈&amp;시니어, 아시아 디자이너&amp;브랜드 패션쇼), 아시아모델어워즈, 글로벌 메이크업 대회 등 다양한 행사가 진행된다.   &lt;/p&gt;&lt;p&gt;&lt;br /&gt;강효상 고문은 조선일보 편집국장, TV조선 보도본부장, 조선비즈 대표를 역임한 언론인 출신으로, 2016년부터 2020년까지 비례대표로 제20대 국회의원을 지냈다. &lt;br /&gt;&lt;br /&gt;양 회장은 “강효상 고문 위촉으로 아시아모델페스티벌 행사의 대외 협력과 홍보가 더욱 활성화돼 행사가 크게 성공을 거둘 것으로 기대한다”고 말했다.   &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Wed, 07 Aug 2024 04:00:31 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/200423</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200423</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200423.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>"유연한 협업 플랫폼" 법무법인 원 사옥 새단장</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/200421.jpg" alt="200421.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="http://www.onelawpartners.com/ko/" target="_blank"&gt;&lt;b&gt;법무법인 원&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9109"&gt;이유정&lt;/span&gt;)이 서울 강남구 강남대로 랜드마크 타워에 위치한 사옥을 확장했다고 7일 밝혔다. &lt;br /&gt;&lt;br /&gt;올해로 창립 15주년을 맞은 원은 최근 사무 공간 확장 및 인테리어 공사를 마쳤다. 이번 확장 공사로 랜드마크 타워 8층과 11층 전체를 사용하게 됐다. 공사 전에는 8·11층 일부를 사용했다. &lt;br /&gt;&lt;br /&gt;업무 효율성 증대와 고객 경험 차별화를 목표로 인테리어도 새롭게 단장했다. &lt;br /&gt;&lt;br /&gt;원이 전문가 집단과 유연하게 협업할 수 있는 플랫폼으로서의 역할을 수행할 수 있도록 오픈된 업무 공간과 라운지를 마련했다. 유연하면서도 개방적인 이미지를 표현하기 위해 블루그린 컬러를 활용해 다양한 크기의 회의실을 마련했다. 웨비나 및 원격 영상 재판을 위한 미디어룸도 마련했다. 리셉션과 회의실 벽에는 원이 추구하는 가치인 '다앙성'과 '협력'을 상징하는 6000개의 원목 블럭을 설치했다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9109"&gt;이유정&lt;/span&gt;(56·사법연수원 23기) 대표변호사는 "변호사를 포함한 모든 전문가들이 최고의 성과를 낼 수 있도록 효율적이고 편리한 업무 환경을 마련했다"며 "쾌적한 업무공간에서 고객들에게 최고의 서비스를 제공할 수 있도록 노력하겠다"고 말했다.</description>
-			<pubDate>Wed, 07 Aug 2024 03:49:39 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/200421</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200421</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200421.jpg</media:thumbnail>
-			<dc:creator>유지인 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
