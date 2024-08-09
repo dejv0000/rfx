@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>여변, "여성변호사 임신·출산·육아 이유로 한 차별 근절 개선책 마련 시급"</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/200478.jpg" alt="22.jpg" /&gt;&lt;/p&gt;한국여성변호사회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1151"&gt;왕미양&lt;/span&gt;)이 지난 8일 성명을 내고 여성변호사의 출산을 이유로 한 해고를 부당하다고 본 법원 판결을 환영하며 여성변호사의 임신·출산·육아를 이유로 한 차별과 불이익을 근절하기 위한 개선책 마련을 촉구했다.&lt;br /&gt;&lt;br /&gt;여변은 "여성변호사의 수가 점점 늘어나고 있지만, 근로 여건은 개선되지 않고 있다"며 "특히 여성변호사는 취업 및 근로 시 임신·출산·육아를 이유로 노골적으로 또는 보이지 않게 차별과 불이익을 당하고 있다"고 말했다. &lt;br /&gt;&lt;br /&gt;이어 "여성변호사의 임신·출산·육아를 이유로 한 해고는 여성변호사의 경력단절을 초래하고, 저출산 문제를 더욱 심화시키며 근로기준법 및 남녀고용평등법을 위반한 위법행위이자 성차별행위"라고 강조했다. &lt;br /&gt;&lt;br /&gt;그러면서 "△육아휴직으로 인한 인력 및 업무공백의 해결 방안 마련 △출산・육아휴직을 허용한 법무법인에 대한 유무형의 인센티브 제공 △탄력근무제・재택근무・시간선택제 등 다양한 근무환경조성과 모성보호시설 확충 등 여러 방법을 강구해야 한다"고 설명했다.&lt;br /&gt;&lt;br /&gt;5개월간 출산휴가와 육아휴직을 사용한 뒤 복직을 앞둔 여성변호사에게 돌연 해고를 통보한 로펌이 노동위원회의 부당해고 구제판정에 불복해 소송을 냈으나 1심과 항소심 모두 패소한 바 있다.&lt;br /&gt;</description>
+			<pubDate>Fri, 09 Aug 2024 05:56:25 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/200478</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200478</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200478.jpg</media:thumbnail>
+			<dc:creator>안현 기자</dc:creator>
+		</item>
+		<item>
+			<title>이원석 검찰총장, 검사 탄핵 청문회 불출석 "법치주의 훼손"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/200471.jpg" alt="200452.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9175"&gt;이원석&amp;nbsp;&lt;/span&gt;검찰총장이 오는 14일 국회에서 예정된 '검사 탄핵 청문회'에 증인으로 나서지 않겠다는 뜻을 밝혔다. &lt;br /&gt;&lt;br /&gt;대검찰청은 9일 입장문을 통해 "검사 탄핵 청문회에 검찰총장을 증인으로 출석시켜 진행 중인 수사와 재판에 관한 답변을 요구하는 것은 입법권의 한계를 넘어 사법을 정쟁으로 끌어들여 법치주의를 훼손하는 것이므로 국회에 불출석 사유서를 제출했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;지난달 국회 법제사법위원회는 이 총장에게 증인 출석을 요구하면서 김건희 여사에 대한 수사 상황과 수사팀의 대면보고 내용, 수사에 대한 외압 여부 등에 관한 견해를 밝히라고 주문했다.&lt;br /&gt;&lt;br /&gt;대검은 "헌법의 근간인 삼권분립의 원칙에 따라 범죄의 수사와 소추라는 준사법적 기능을 수행하는 검찰은 정치적 중립성과 수사의 공정성이 보장돼야 한다"고 강조했다. &lt;br /&gt;&lt;br /&gt;이어 "검찰사무를 총괄하며 검찰청의 공무원을 지휘·감독하는 검찰총장이 국회에 출석해 범죄 수사 및 소추에 관한 사항에 대해 구체적으로 답변할 경우 중립적이고 공정하게 진행되어야 할 수사와 재판에 부당한 영향을 주게 되고, 이로 인해 검찰의 준사법적 기능이 저해되며 정치적 중립성은 훼손된다"고 설명했다. &lt;br /&gt;&lt;br /&gt;국정감사 및 조사에 관한 법률에서는 진행 중인 수사 또는 재판에 관여할 목적으로 감사·조사권이 행사되어서는 아니된다고 국회 권한의 한계를 규정하고 있으며, 감사·조사로 인해 대상기관의 기능과 활동이 현저히 저해되거나 기밀이 누설되지 않아야 한다고 규정하고 있다. &lt;br /&gt;&lt;br /&gt;대검은 국회가 김영철 서울북부지검 차장검사의 탄핵 사유로 거론한 장시호 씨에 대한 위증교사 및 공무상비밀누설 사건은 공수처와 경찰이 수사 중이고 민주당 전당대회 '돈 봉투 살포' 사건과 김건희 여사 관련 코바나컨텐츠 대기업 협찬 사건은 검찰 수사와 재판이 진행 중이거나 검찰총장의 지휘권이 배제됐으므로 청문회에 출석해 답변하는 것 자체가 부적절하다는 입장이다.&lt;br /&gt;&lt;br /&gt;김영철 검사도 청문회에 출석하지 않을 예정이다. 대검은 "탄핵소추절차의 당사자인 검사들을 청문회의 증인으로 출석시키는 것은 법적 근거가 없는 위법한 조치이며, 그럼에도 출석시킬 경우 법적으로 의무 없는 일을 강요하는 것"이라고 말했다. 김영철 검사에 이어 더불어민주당이 탄핵 대상으로 지목한 박상용·엄희준·강백신 검사도 추후 있을 청문회에 출석하지 않을 것으로 보인다.&lt;br /&gt;&lt;br /&gt;대검은 "민주당 관련 수사와 재판을 담당한 검사들을 청문회에 증인으로 출석시켜 조사하겠다는 것은 민주당이 직접 수사와 재판을 하겠다는 것으로 헌법상 삼권분립과 법치주의에 정면으로 반하는 위헌적 조치"라며 "국회 조사 권한의 한계를 넘어선 위법한 절차"라고 비판했다.</description>
+			<pubDate>Fri, 09 Aug 2024 05:07:15 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/200471</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200471</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200471.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>이원석 검찰총장, 노동장관 접견…"노사상생 산업현장 위해 노력"</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/200464.jpg" alt="200464.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=대검찰청 제공》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9175"&gt;이원석&amp;nbsp;&lt;/span&gt;검찰총장이 이정식 고용노동부 장관을 만나 두 기관이 임금체불, 산업재해, 부당노동행위 등 노동사건에 협력해 공동대응한 것에 감사 인사를 전했다. &lt;br /&gt;&lt;br /&gt;이 검찰총장은 9일 서울 서초동 대검찰청을 방문한 이 장관과 접견했다. &lt;br /&gt;&lt;br /&gt;이 총장은 지난 2월과 6월 현직 검찰총장으로는 처음 중부지방노동청 경기지청과 서울지방노동청을 방문해 근로감독관들과 간담회를 갖는 등 고용노동부와 협력을 강화했다. 이 장관의 방문은 이에 대한 답방으로 이루어졌다.&lt;br /&gt;&lt;br /&gt;이번 접견에서 이 총장은 그동안 검찰과 고용노동부가 임금체불, 산업재해, 부당노동행위 등 민생과 직결되는 노동사건에 긴밀히 협력하며 공동대응한 점에 감사를 표했다. &lt;br /&gt;&lt;br /&gt;특히 검찰과 고용노동부가 △근로자와 가족들의 생계를 위협하는 임금체불 범죄에 공동대응하고 △실질적인 피해회복을 위해 악의적·상습적 체불사업주에 대한 강제수사를 확대하는 한편 △정식기소율 제고 등의 노력을 기울인 것에 대해 의견을 나눴다.&lt;br /&gt;&lt;br /&gt;또 중대재해처벌법 시행과 관련해 △검찰·노동청 간 실무협의회 운영과 핫라인 설치 등 수사협력체계를 구축하고 58건 124명을 기소해 현재까지 모든 사건에서 유죄판결을 이끌어 낸 점 △최근 화성 전지제조업체에서 발생한 화재사건의 실체를 규명하기 위해 초동수사부터 적극 협력하고 있는 점 등에 대해서도 이야기했다.&lt;br /&gt;&lt;br /&gt;대검은 "앞으로도 검찰과 고용노동부는 국민이 안심하고 일할 수 있는 일터, 노사가 상생하는 산업현장을 만들기 위해 지속적으로 긴밀히 협력하며 함께 노력해 나가겠다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;</description>
 			<pubDate>Fri, 09 Aug 2024 03:10:55 -0000</pubDate>
@@ -220,26 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200421</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200421.jpg</media:thumbnail>
 			<dc:creator>유지인 기자</dc:creator>
-		</item>
-		<item>
-			<title>이원석 총장, 윤희근 경찰청장 접견…국민 위해 검·경 협업 강조</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/200420.jpg" alt="200420.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;윤희근 경찰청장 · 이원석 검찰총장《사진=대검 제공》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9175"&gt;이원석&amp;nbsp;&lt;/span&gt;검찰총장이 퇴임을 앞두고 대검찰청을 예방한 윤희근 경찰청장을 접견했다. &lt;br /&gt;&lt;br /&gt;이 총장은 2022년 9월 19일 취임 직후 경찰청을 방문해 윤 청장과 '스토킹 범죄' 대응을 협의했던 사례를 들며 경찰에서 여러 분야에 걸쳐 검찰과 민생범죄 대응에 적극 협력한 점에 깊은 감사를 표했다. &lt;br /&gt;&lt;br /&gt;이 총장은 신림동·분당 흉기난동 직후 모방범죄 예고로 국민들이 불안한 상황에서 윤 청장과 통화하며 대응방안을 협의한 바 있다. &lt;br /&gt;&lt;br /&gt;이 총장과 윤 청장은 검·경 협업사례를 두고 대화했다. 대검에 따르면 2022년 7월 파견경찰관 20명이 포함된 보이스피싱 합수단을 설치해 공동대응했고, 2023년 1월 전세사기 대응 협의회를 갖고 전국 7대 권역에 검·경 핫라인을 구축했다. &lt;br /&gt;&lt;br /&gt;같은 해 4월 경찰과 함께 유관기관 974명이 투입된 마약범죄 특별수사본부를 설치해 마약 대응에 총력을 기울였고 6월에는 DNA데이터베이스를 활용해 수십년 전 발생한 진주 연쇄살인범을 밝혀내는 등 성폭력 장기미제 10건을 기소하기도 했다. &lt;br /&gt;&lt;br /&gt;특히 이 총장은 지난해 11월 경찰청 보이스피싱 통합신고대응센터를 방문하고, 12월에는 부천원미지구대를 찾아 최일선 치안에 투입된 경찰관들을 만나는 등 헌신하는 경찰관들과의 협력을 강조해 왔다. &lt;br /&gt;&lt;br /&gt;대검 관계자는 "윤 청장의 퇴임을 앞두고 만난 자리에서 검찰과 경찰은 앞으로도 적극 소통하고 협력하며 국민의 기본권을 범죄로부터 지키기 위해 최선의 노력을 다하자는데 뜻을 모았다"고 말했다. &lt;br /&gt;</description>
-			<pubDate>Wed, 07 Aug 2024 03:47:51 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/200420</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200420</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200420.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>베링랩, 소프트뱅크로부터 30억 원 '프리A' 투자 유치</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/200422.jpg" alt="195038.jpg" /&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 400px;"&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;베링랩 공동대표 김재윤(왼쪽), 문성현 《사진=베링랩》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법률 인공지능(AI) 번역기업 베링랩(공동대표 김재윤·문성현)이 30억 원 규모의 프리A 투자를 유치했다고 7일 밝혔다. 이번 투자는 SBVA(전 소프트뱅크벤처스)의 주도로 이루어졌으며, 미국 벤처캐피털사인 The MBA Fund가 참여했다.&lt;br /&gt;&lt;br /&gt;2020년에 설립된 베링랩은 전세계 140여개 로펌 등 300여개 고객사를 확보한 국내 1위 법률번역 기업이다. 베링랩은 AI 번역기 플랫폼인 ‘베링AI’와 전 세계 30여개국 500여명의 변호사 및 800여명의 전문 번역사 인력이 AI 번역기 결과물을 감수하는 ‘베링AI플러스’ 서비스를 제공하고 있다.&lt;br /&gt;&lt;br /&gt;이번 투자를 통해 베링랩은 법률 AI 번역 서비스의 정확성과 사용자 경험을 한층 더 강화할 계획이다. 또한, 이번 자금은 글로벌 시장 진출을 위한 발판 마련에 중요한 역할을 할 것으로 기대된다. 현재 베링랩은 미국, 홍콩, 싱가포르, 일본 등 15개 국가에 고객사를 두고 있으며, 최근 화웨이 클라우드 스타트업 경진대회와 글로벌 리걸테크 벤처 데이스 대회 등에서 연달아 우승하며 글로벌 시장에서 주목받고 있다.&lt;br /&gt;&lt;br /&gt;베링랩은 현재 제공하고 있는 법률과 특허를 넘어 금융, 임상, IT 등 다양한 전문 분야로 서비스를 확장할 계획이다. 전문 분야에 특화된 번역기를 개발하는 기술을 활용하여 각 기업이나 산업에 특화된 업무용 번역기 구축 서비스도 제공할 예정이다.&lt;br /&gt;&lt;br /&gt;이번 투자를 이끈 SBVA의 이세영 책임은 “베링랩은 국내 법률 번역에서 독보적인 업체로, 법률 전문성과 AI 기술력을 토대로 전문 번역 업계에 혁신을 이뤄내고 있다”며 “앞으로 특허와 임상을 포함한 다양한 분야로 서비스를 확장하는 동시에 글로벌 시장에서도 성장할 것이라 기대한다”고 투자 취지를 밝혔다.&lt;br /&gt;&lt;br /&gt;베링랩의 김재윤 공동대표는 “베링랩만의 기술과 전문성으로 번역 업계에 새로운 사업 모델을 제시한다."며 "앞으로도 각 분야의 전문가들이 언어 장벽 없이 전 세계적으로 활동할 수 있도록 지원하는 데 주력할 것”이라고 말했다.</description>
-			<pubDate>Wed, 07 Aug 2024 03:47:07 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/200422</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200422</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200422.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
