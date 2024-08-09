@@ -13,6 +13,36 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>권익위 국장 사망사건, ‘범죄혐의 없음’ 종결 방침</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/08/09/3VWLRNMVWFA2PCZDV3KJ4T5A3Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/08/09/3VWLRNMVWFA2PCZDV3KJ4T5A3Y/</guid>
+      <dc:creator>세종=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Aug 2024 09:19:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V54E2UNOAREIFELZNYGWAF5B3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 세종시 도담동 세종충남대병원 장례식장에 마련된 김모(51) 국민권익위원회 부패방지국장 직무대리의 빈소. /김석모 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민권익위원회 고위 공무원의 사망과 관련해 범죄 혐의점이 발견되지 않으면서 부검 없이 수사가 종결될 전망이다.&lt;br&gt;&lt;br&gt;9일 본지 취재를 종합하면, 대전지검은 숨진 김모(51) 권익위 부패방지국장 직무대리 사건과 관련해 범죄 혐의점이 없고 유족들의 의견을 반영해 부검을 하지 않기로 결정했다. 이에 따라 세종남부경찰서는 혐의 없음으로 사건을 종결할 예정이다.&lt;br&gt;&lt;br&gt;이날 고인의 빈소가 차려진 세종시 도담동 세종충남대병원 장례식장 VIP 1호실에는 권익위 직원들과 김씨의 지인들 조문이 이어졌다. 차분한 분위기의 빈소에선 간혹 조문객들의 울음소리가 터져나오기도 했다.&lt;br&gt;&lt;br&gt;한 조문객은 “고인이 마음 고생이 많았던 것 같다”고 말했다. 한 권익위 동료는 “(고인은)업무에 항상 최선을 다했다”면서 “동료들에게 신망이 두터웠다”고 전했다.&lt;br&gt;&lt;br&gt;오후 4시쯤에는 국회 정무위원회 소속인 강준현·김남금·김현정 더불어민주당 의원과 신장식 조국혁신당 의원, 한창민 사회민주당 의원 등이 빈소를 찾아 조문했다.&lt;br&gt;&lt;br&gt;20여분간 빈소에 머물며 유족들을 위로하고 나온 야당 의원들은 “(유족들은)고인의 명예회복과 (고인의 죽음에 대한) 진상규명이 최우선이라는 입장”이라고 말했다. 유족들은 전날 유철환 국민권익위원장을 빈소에서 만나 진상조사를 요구한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;야당 의원들은 “권익위의 진상조사가 충분하지 않다면 국회 차원의 진상조사가 필요할 것”이라며 “내일(10일) 고인의 발인이 끝나고 다음주 월요일쯤 당차원에서 논의가 이뤄질 것으로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;김씨는 지난 8일 오전 9시 50분쯤 세종시 종촌동 자택에서 숨진 채 발견됐다. 현장에는 가족에 대한 미안함과 ‘힘들다’는 내용이 담긴 유서도 함께 발견됐다. 김씨는 권익위 부패방지국장 직무대리로 일하며 김건희 여사의 ‘명품가방 수수 의혹’과 이재명 민주당 대표의 ‘헬기 이송 특혜 논란’ 등의 조사를 지휘했다.&lt;br&gt;&lt;br&gt;정치적으로 관심이 높은 사건을 조사하면서 김씨는 업무 과중으로 인한 스트레스를 호소한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/V54E2UNOAREIFELZNYGWAF5B3E.jpg?width=1400&amp;height=1050&amp;auth=680b188ac42cc882eed9bc68ef58e29e4b9e546385411f1619c0a3f8012d2315&amp;smart=true" type="image/jpeg" height="1050" width="1400">
+        <media:description type="plain">9일 세종시 도담동 세종충남대병원 장례식장에 마련된 김모(51) 국민권익위원회 부패방지국장 직무대리의 빈소. /김석모 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“윤 청장 안녕” 경찰청장 퇴임식에 등장한 정용진 부부</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/09/PMWE6WP6AVDPVBEFFECWGOTWGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/09/PMWE6WP6AVDPVBEFFECWGOTWGI/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Aug 2024 08:38:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZMKOUE7BBFTHHXPDYAQTSGTZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤희근 경찰청장 퇴임식 축하 영상에 정용진 신세계그룹 회장이 등장했다.&lt;br&gt;&lt;br&gt;윤 청장 퇴임식은 9일 오후 서울 서대문구 미근동 경찰청 참수리홀에서 열렸다.&lt;br&gt;&lt;br&gt;퇴임식에선 이상민 행정안전부 장관, 경찰대 동기인 이상배 과학수사과장, 배우 정준호 등이 등장하는 축하 영상이 나왔다.&lt;br&gt;&lt;br&gt;영상 후반부에는 정 회장과 그의 아내인 플루이스트 한지희씨가 모습을 드러냈다.&lt;br&gt;&lt;br&gt;정 회장은 손을 흔들며 “윤 청장 안녕”이라고 운을 뗀 뒤 “그동안 너무 고생 많았다. 35년의 경찰 생활을 명예롭게 마감한다는 것에 대해서 난 친구로서 너무너무 자부심을 느끼고, 너무너무 축하해주고 싶다”고 말했다.&lt;br&gt;&lt;br&gt;정 회장은 그러면서 “윤 청장은 내가 아는 모든 사람 중에 아주 자랑스러운 인물 중의 한 명”이라고 했다.&lt;br&gt;&lt;br&gt;아내 한씨는 “청장님 2년 동안 너무 고생 많으셨다”며 “저희 남편이 ‘희근이’, ‘희근이’ 하면서 내 친구가 청장이 됐다고 했을 때 저는 안 믿었다”고 말했다.&lt;br&gt;&lt;br&gt;한씨는 이어 “앞으로도 두 분의 우정 변치 마시고, 늘 응원하고 기도하겠다”라고 말했다.&lt;br&gt;&lt;br&gt;윤 청장과 정 회장은 모두 1968년생이다. 지연이나 학연이 따로 드러나는 것은 없다. 윤 청장은 충북 청주에서 태어나 청주 운호고를 마치고 경찰대를 7기로 졸업했다. 정 회장은 서울 종로에 있는 경운고를 나왔다. 그 뒤 서울대 서양사학과를 다니다가 중퇴한뒤 유학을 떠나 미국 브라운대 경제학과를 졸업했다.&lt;br&gt;&lt;br&gt;윤 청장은 이날 퇴임식에서 “현장이 살아야 경찰이 살고, 그 경찰이 국민의 평온한 일상을 지켜줄 것이라는 대명제는 제 평생의 신념이었다”며 소회를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘비자금 225억·조세포탈 30억’ 의약품 판매업체 경영진 재판행</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/09/Y6HBGMWBNZETFGCZ6TJYIALSOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/09/Y6HBGMWBNZETFGCZ6TJYIALSOQ/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Aug 2024 08:37:57 +0000</pubDate>
+      <content:encoded>가공거래로 회삿 돈 225억원을 빼돌리고 허위세금계산서로 법인세 30억원을 포탈한 중견 의약품 판매대행업체 경영진이 재판에 넘겨졌다. 해당 업체에서 수백~수천만원의 뇌물을 받은 전·현직 세무공무원들도 적발됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KX5KE7XOZFCW3DET3TGOESMJ5M.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 조세범죄조사부는 허위 세금계산서로 비자금 약 225억원을 조성한 중견 의약품 판매대행업체를 적발했다고 9일 밝혔다. 사진은 검찰이 A사 압수수색에서 발견한 금고와 현금뭉치. /서울중앙지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 조세범죄조사부(부장 이진용)는 특정경제범죄 가중처벌법상 횡령·배임 등의 혐의로 서울 서초구의 의약품판매대행업체 A사의 최모(63·구속) 대표 등 경영진 3명을 재판에 넘겼다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;최 대표 등은 2014년 8월부터 지난 3월까지 하위 판매대행업체 4곳과 실제 거래가 있었던 것처럼 법인자금을 빼돌린 후 수수료 등을 제외한 나머지 현금을 돌려받아 만든 비자금(부외자금) 약 255억원을 임의로 유용한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 같은 기간 약 254억원 규모의 허위세금계산서를 발급받아 법인세 30억원을 포탈한 혐의(특정범죄가중처벌법상 조세포탈·세금계산서 교부의무 위반 등)도 있다.&lt;br&gt;&lt;br&gt;2019년 11월부터 작년 9월까지 실질거래 증빙자료를 조작해 제출하는 방식으로 세무조사와 형사재판을 방해한 혐의(위계에 의한 공무집행방해·증거위조교사·위조증거사용교사 등)도 적용됐다.&lt;br&gt;&lt;br&gt;검찰에 따르면 최 대표 등은 A사의 세무대리인 출신인 한 코스닥 상장사 부사장 B(48)씨에게 2억9000만원을 건네면서 세무조사를 무마해달라는 청탁도 했다.&lt;br&gt;&lt;br&gt;실제 B씨는 지방국세청 팀장(5급) 조모(54·구속)씨 등에게 최대 8000만원을 주며 세무조사를 무사히 마치게 해 주고 담당자도 소개해달라고 부탁했다. 피의자들은 청탁 대가를 적극적으로 요구하고, 세무서 내부 정보를 빼돌렸다고 한다.&lt;br&gt;&lt;br&gt;B씨와 전·현직 세무공무원 5명(구속 2명)은 뇌물·알선수재 등의 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;검찰은 A사 경영진이 이전에도 가공거래 혐의로 기소됐지만 수사기관과 법원에 조작된 증거를 제출하고 허위 진술을 해 2건의 형사재판 1·2심에서 무죄를 선고받았다고 밝혔다.&lt;br&gt;&lt;br&gt;그러다 올 초 A사 거래업체 한 곳에 대한 제보를 접수하고 압수수색 등 강제수사에 나서 법인 포함 20명을 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세]  8월 11일 일요일 (음력 7월 8일 丁未)</title>
       <link>https://www.chosun.com/national/national_general/2024/08/09/IXSKFZYLRZAJ5GQO2MPEIWYULE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/09/IXSKFZYLRZAJ5GQO2MPEIWYULE/</guid>
@@ -875,15 +905,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B54RGKWNPOSCMW3EKCCG37CZC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;밴드 잔나비 보컬 최정훈(왼쪽)과 배우 한지민./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 한지민(42)이 밴드 잔나비의 보컬 최정훈(32)과의 열애를 인정했다.&lt;br&gt;&lt;br&gt;잔나비의 소속사 페포니뮤직 관계자는 8일 “최정훈과 한지민이 교제 중”이라고 전했다.&lt;br&gt;&lt;br&gt;가요계에 따르면 이들은 작년 8월 최정훈이 MC를 맡은 KBS 2TV 음악 프로그램 ‘더 시즌즈 - 최정훈의 밤의 공원’에 한지민이 출연하면서 인연을 맺었다.&lt;br&gt;&lt;br&gt;두 사람은 당시 방송에서 잔나비의 ‘가을 밤에 든 생각’을 함께 부르기도 했다. 무대를 함께 꾸미기 위해 연습에 매진하며 친분을 쌓았고, 이후 좋은 사이로 지내오다 최근 연인 관계로 발전한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한지민은 1998년 한 광고로 연예계에 데뷔한 이후 26년 동안 ‘대장금’, ‘이산’, ‘경성스캔들’, ‘우리들의 블루스’ 등 다양한 드라마와 영화에 출연했다.&lt;br&gt;&lt;br&gt;최정훈은 잔나비의 보컬로 2014년 싱글 ‘로켓트’로 데뷔해 10년 간 팀을 유지해오고 있다. 잔나비는 서정적이고 감각적인 가사와 멜로디로 ‘주저하는 연인들을 위해’, ‘뜨거운 여름밤은 가고 남은 건 볼품없지만’ 등의 히트곡을 냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“도박으로 모두 탕진”...300여명 직원 월급 빼돌린 사주 구속 기소</title>
-      <link>https://www.chosun.com/national/regional/gangwon/2024/08/08/35EJZSN2UJFFPLQVMQWA6Z64WQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2024/08/08/35EJZSN2UJFFPLQVMQWA6Z64WQ/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Aug 2024 04:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WSC6LLAQP5GMPI6245AWQ3GGGM.webp"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;300여명의 근로자 임금과 회사자금을 빼돌려 도박에 탕진한 사업주가 구속 기소됐다.&lt;br&gt;&lt;br&gt;춘천지검 원주지청 형사2부(류주태 부장검사)는 8일 업무상횡령과 근로기준법 위반, 도박 등 혐의로 A(43)씨를 구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;인력파견업체를 운영하는 A씨는 지난해 11월 원청업체로부터 근로자 319명에 대한 임금과 하도급금 명목으로 6∼7억원을 받은 뒤 이 중 4억5000만원을 자신의 계좌로 빼돌린 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 빼돌린 돈을 60여 차례에 걸친 인터넷 도박 바카라 게임을 하다 모두 탕진했다고 검찰은 밝혔다.&lt;br&gt;&lt;br&gt;또 A씨는 임금 체납으로 진정을 당하자 근로복지공단으로부터 대지급금을 받게 해 주겠다며 근로자들을 회유, 대지급금 제도를 악용해 처벌을 회피한 것으로 드러났다.&lt;br&gt;&lt;br&gt;대지급금 제도는 임금을 받지 못한 근로자를 위해 국가가 세금으로 조성한 임금채권보장기금에서 일정 범위의 체납 임금을 사업주 대신 지급하는 제도이다.&lt;br&gt;&lt;br&gt;검찰은 노동청과 경찰에서 임금 6000만원을 지급하지 않고 횡령한 사건을 송치받아 보완수사한 결과 이 같은 범행 사실을 밝혀냈다.&lt;br&gt;&lt;br&gt;A씨는 구속 중 국가로부터 지원받은 대지급금 중 일부를 즉시 상환했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “악의적인 임금체납 사범을 엄하게 다스릴 것”이라며 “임금체납으로 인해 생계 위협을 받는 근로자의 신속한 피해복구에도 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>국민권익위 국장 직무대리, 자택서 숨진 채 발견</title>
       <link>https://www.chosun.com/national/regional/chungcheong/2024/08/08/HZKTEY2NIFCJFDOKBIZ7EGV7VA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/08/08/HZKTEY2NIFCJFDOKBIZ7EGV7VA/</guid>
@@ -897,15 +918,6 @@
       </media:content>
     </item>
     <item>
-      <title>檢, ‘수사무마 청탁 의혹’ 양부남 민주당 의원 소환</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/08/LTHFTCNHIJGDFDHI7NPSZYENIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/08/LTHFTCNHIJGDFDHI7NPSZYENIE/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Aug 2024 04:17:52 +0000</pubDate>
-      <content:encoded>검찰이 수사 무마를 대가로 고액의 수임료를 수수한 의혹을 받는 양부남 더불어민주당 의원을 8일 소환했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/53YFSTT2RBO5HPHOAJ45BKUMUU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 광주광역시당 위원장에 도전하는 양부남 의원이 지난달 22일 광주광역시의회 기자실에서 기자회견을 열고 출마선언을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울중앙지검 형사1부(부장 김승호)는 이날 오전 양 의원을 변호사법 위반 혐의 피의자 신분으로 비공개 소환해 조사 중이다. 양 의원은 검찰 퇴직 후인 지난 2020년 11월 대구의 온라인 도박사이트 운영진으로부터 도박공간개설 혐의 수사를 무마해 주는 대가로 고액의 수임료를 받은 혐의를 받고 있다. 그는 지난 2020년 8월 부산고검장을 끝으로 검찰에서 퇴직했다.&lt;br&gt;&lt;br&gt;수사팀은 양 의원에게 도박공간개설 사건 피의자 측에서 양 의원 사무실 법인 계좌로 수임료가 흘러간 경위 등을 묻는 것으로 알려졌다. 또 양 의원에게 사건 수임 경위 전반에 대해서도 묻는다고 한다.&lt;br&gt;&lt;br&gt;앞서 경찰은 양 의원에 대해 구속영장을 두 차례 신청했지만, 범죄 혐의와 구속 사유에 명확한 소명이 필요하다는 이유로 검찰이 모두 반려해 지난해 8월 양 의원을 불구속 송치했다. 경찰은 양 의원에게 사건을 소개해준 변호사 A씨와 사무장 B씨도 같은 혐의로 불구속 송치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>출근길 강남 80mm ‘물폭탄’…서울 전역엔 폭염경보</title>
       <link>https://www.chosun.com/national/transport-environment/2024/08/08/VCAV5TRSDZGATOHAO5JDRPAW3Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/08/08/VCAV5TRSDZGATOHAO5JDRPAW3Q/</guid>
@@ -913,15 +925,6 @@
       <description/>
       <pubDate>Thu, 08 Aug 2024 03:01:04 +0000</pubDate>
       <content:encoded>8일 아침 출근길 서울 강남에 80㎜의 비가 쏟아졌다. 서울 동남권에는 오전 8시쯤 호우경보가 내려졌다가 현재는 해제된 상황이다. 서울 전역에 내려진 폭염경보는 계속해서 유지되고 있다.&lt;br&gt;&lt;br&gt;8일 오전 강남 일대에 비가 내리기 시작해 총 80㎜의 비가 내렸다. 오전 8시쯤에는 시간당 46.5㎜의 비가 퍼붓기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7BYFNANMWOVRAKWVSW2DSP4BUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 대전 유성구 충남대학교 앞 횡단보도에서 우산을 쓴 학생들이 걷고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청은 이날 오전 7시 40분 서울 동남권(강동구, 송파구, 강남구, 서초구)에 호우주의보를 내렸다가 30분 뒤 다시 호우경보로 강화했다. 호우경보는 3시간 강우량이 90㎜ 또는 12시간 강우량이 180㎜를 넘을 것으로 예상될 때 내려진다.&lt;br&gt;&lt;br&gt;현재 호우경보는 오전 9시를 기해 해제된 상태다.&lt;br&gt;&lt;br&gt;서울 전역에 내려진 폭염경보는 아직 유지되고 있다. 서울에는 16일째 폭염특보가 이어지고 있다.&lt;br&gt;&lt;br&gt;기상청에 따르면 서울 북부와 경기 북부는 현재 기온이 전날보다 4도 내외 높고, 서울 남부와 인천, 경기 남부는 이날 새벽부터 내린 비로 인해 전날보다 기온이 3도 내외 낮다.&lt;br&gt;&lt;br&gt;그러나 비가 그친 지역에서는 기온이 빠르게 올라가면서 대부분 지역의 체감온도가 기온보다 2~4도 높은 무더운 날씨를 보이고 있다.&lt;br&gt;&lt;br&gt;기상청은 이날 수도권 최고 기온을 31~34도로 예보했다.&lt;br&gt;&lt;br&gt;수도권은 8일 비, 10일 소나기가 내리면서 일시적으로 기온이 내려가는 곳이 있겠다. 그러나 비가 그친 뒤에는 습도가 높은 상태에서 낮 동안 기온이 올라 무더운 날씨가 될 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>권순일 장인 ‘홍콩펀드 투자금’ 10억 반환 소송, 2심도 패소</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/08/4D2DVJGGPFA5BEK3L2EJKXVAIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/08/4D2DVJGGPFA5BEK3L2EJKXVAIU/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Aug 2024 02:28:09 +0000</pubDate>
-      <content:encoded>권순일 전 대법관 장인이 환매 중단 사태가 벌어진 ‘홍콩 젠투펀드’에 투자한 돈 10억원을 돌려달라며 금융사를 상대로 낸 소송 2심에서도 졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C2K2EHIXNNCJVFEKNZIYZO5RPQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;권순일 전 대법관/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 민사16부(재판장 김인겸)는 8일 권 전 대법관의 장인인 안경상 전 감사원 사무총장이 하나은행과 삼성헤지자산운용을 상대로 낸 부당이득금 소송에서 1심과 같이 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;안 전 사무총장의 사위인 권 전 대법관과 그의 아내는 2019년 4월 하나은행에서 가입은행 10억원을 내면 연 3.3% 내외의 기대수익을 보장한다는 삼성헤지자산운용의 ‘전문투자형 사모투자신탁 제3호’ 펀드를 소개받았다. 권 전 대법관은 장인의 노후자금 10억원을 이 펀드에 대신 투자했다.&lt;br&gt;&lt;br&gt;이 펀드는 2020년 코로나로 환매가 중단돼 1조원의 피해가 발생한 이른바 ‘젠투펀드’였다. 투자처인 홍콩 사모펀드 운용사 젠투파트너스는 2020년 5월 환매 중지를 선언했고, 권 전 대법관 장인도 투자금을 돌려받지 못하게 됐다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 “권 전 대법관이 해당 펀드에 대해 실질적인 가입 결정권을 가지고 있었던 것으로 보이고 법적 지식을 바탕으로 해당 펀드 투자의 위험성을 충분히 인식했을 것으로 보인다”며 은행 측 손을 들어줬다.&lt;br&gt;&lt;br&gt;1심은 “은행 직원이 펀드에 대해 설명할 당시 권순일이 동석하고 있었다”며 “설령 직원의 설명에 미흡한 부분이 있다고 하더라도 펀드의 구체적인 투자 대상이나 위험성 등은 불확실한 요소이므로 그로 인한 위험은 원천적으로 투자자인 원고가 스스로 감수해야 한다”고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>모바일 청첩장 스미싱…법원 “신분증 인증만으론 부족해”</title>
