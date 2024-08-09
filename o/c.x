@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>유영철 잡았던 영화 ‘추격자’ 실존 인물, 마약 판매하다가 경찰에 검거</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/09/Q75LVZLZJNDCLDP7LANNL7DQFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/09/Q75LVZLZJNDCLDP7LANNL7DQFY/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Aug 2024 05:03:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BPI2MBARESJ53AUZM5GE2O3MHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연쇄살인범 유영철의 검거를 도와 영화 ‘추격자’의 모티브가 된 50대 남성이 마약 판매 혐의로 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 송파경찰서는 지난 7일 마약류관리법 위반 혐의로 50대 남성 노모씨를 검거했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 노씨는 마약류인 필로폰을 판매한 혐의를 받는다. 경찰은 관련 첩보를 입수해 노씨를 추적한 끝에 그가 머물던 숙박업소를 급습해 그를 체포했고, 지난 8일에는 구속영장도 신청했다. &lt;br&gt;&lt;br&gt;보도방 업주였던 노씨는 2004년 7월 다른 업주들과 함께 연쇄살인범 유영철을 검거한 것으로 잘 알려진 인물이다. 영화 ‘추격자’에서 연쇄살인범 지영민(하정우)에게 “4885 너지?”라고 외치는 엄중호(김윤석)의 모티브가 된 인물이 바로 노씨다.&lt;br&gt;&lt;br&gt;그러나 이후 노씨는 마약에 빠져들어 마약 투약 혐의 등으로 수차례 수감 생활을 반복했고 2015년 10월 또 다시 마약에 손을 대 징역 3년을 선고받은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “피의자가 직접 마약을 투약했는지 여부도 조사할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘16년 미제사건’ 시흥 슈퍼마켓 살인 피의자 구속기소 </title>
+      <link>https://www.chosun.com/national/incident/2024/08/09/AJ2HFI3GYRGDLKK25VQI23CWPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/09/AJ2HFI3GYRGDLKK25VQI23CWPI/</guid>
+      <dc:creator>안산=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Aug 2024 04:37:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D2V2E2IRLM73LTDHZBLCQCSMXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2008년 경기 시흥시 정왕동에서 발생한 슈퍼마켓 살인사건 유력 용의자 A 씨가 7월17일 오전 경기 안산시 단원구 수원지방법원 안산지원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2008년 경기 시흥의 한 슈퍼마켓에서 발생한 강도살인 사건의 범인이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;수원지검 안산지청 형사2부(이세희 부장검사)는 9일 강도살인 혐의로 A(48·범행 당시 32세) 씨를 구속기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2008년 12월 9일 오전 4시쯤 시흥시 정왕동의 한 슈퍼마켓에 침입해 점주 B(당시 40대) 씨를 흉기로 살해한 뒤 금품을 빼앗아 달아난 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 일정한 직업 없이 친구 집에서 지내던 중 생활비를 마련하기 위해 새벽에 문이 열린 가게에서 금품을 빼앗기로 하고 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;당시 매장 안 방범카메라(CCTV)에 복면을 쓰고 침입한 A씨의 범행 장면이 포착됐다. 경찰은 A씨가 이보다 이틀 앞서 방문한 영상을 확보해 공개 수배했으나 신원 파악에 어려움을 겪으면서 장기 미제사건이 됐다.&lt;br&gt;&lt;br&gt;경찰의 내사 중지 및 미제사건으로 남아 있던 이 사건 수사는 올해 2월쯤 관련 제보를 받은 경찰이 재수사에 착수해 지난달 14일 오후 8시쯤 A씨를 체포했다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 범행을 시인했으며, 구속 전 피의자심문(영장실질심사) 과정에서도 범행 일체를 자백했다고 검찰은 설명했다.&lt;br&gt;&lt;br&gt;경찰로부터 사건을 넘겨 받은 검찰은 A씨가 범행을 자백하면서도 범행 상황과 방법 등이 구체적으로 기억나지 않는다고 진술하는 등 책임을 축소해 진술하자, 도검전문가 및 법의학자 자문, A씨에 대한 통합심리 분석 등을 통해 A씨가 피해자를 찌른 사실 등 살해 고의와 계획범행임을 밝혀냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>폭염 속 실종 치매노인 찾은 수색견 ‘야크’...부산경찰청장 공로패</title>
       <link>https://www.chosun.com/national/2024/08/09/KKUKZCMDWZB23HV5IXOZA34WZU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/08/09/KKUKZCMDWZB23HV5IXOZA34WZU/</guid>
@@ -892,27 +910,6 @@
       <description/>
       <pubDate>Thu, 08 Aug 2024 02:03:14 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IIV7URMB5BDNLBGO527BEFRKOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산에서 마이바흐 S클래스 세단으로 택시 운행을 하는 김동식씨./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 최초로 메르세데스 벤츠의 최고급 브랜드인 마이바흐로 손님을 태우는 부산의 한 택시 기사가 월 수입을 밝혔다.&lt;br&gt;&lt;br&gt;고급택시를 운행중인 김동식씨는 6일 유튜브 채널 ‘직업의 모든것’을 통해 공개된 영상에서 “택시 일을 한지는 20년, 마이바흐로 시작한 지는 7년 정도 됐다”며 마이마흐 택시를 시작한 계기와 월 수입 등의 이야기를 털어놨다.&lt;br&gt;&lt;br&gt;김씨는 “아무도 (택시로) 상상을 못하는 차라 한국 최초였다”며 “벤츠 코리아에서 마이바흐 택시는 처음이라며 공문을 줬다”고 했다. &lt;br&gt;&lt;br&gt;여러 고급 세단 가운데 마이바흐 S클래스 세단을 택한 이유에 대해서는 “회장님 차로 알려져 있기 때문”이라고 했다. &lt;br&gt;&lt;br&gt;당초 일반 택시로 일을 시작한 김씨는 야간 운전까지 해가며 때로는 취객을 상대해야 하는 일이 자신과 맞지 않다고 느꼈다. 이에 체어맨을 구입해 모범택시를 시작한 김씨는 연구 끝에 아무도 안하는 마이바흐를 선택해 택시를 하기로 했다.&lt;br&gt;&lt;br&gt;그러나 시작부터 어려움을 겪었다. 벤츠 코리아 직원들이 택시용 마이바흐를 계약하기 위해 전시장을 찾은 김씨에게 아래 급의 차량을 권하면서 그를 만류한 것이다. 김씨는 “마이바흐 아니면 계약 안한다”며 전시장을 나왔고, 벤츠 코리아는 변호사와 회계사 등의 회의를 거친 끝에 한달 만에 김씨와 계약을 결정했다. &lt;br&gt;&lt;br&gt;이렇게 김씨는 당시 세금 등을 포함한 가격이 약 2억5000만원이었던 마이바흐 세단을 영업용 차량 자동차세 감면과 할인 혜택 등을 받아 약 2억원에 사서 택시 영업을 시작했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6I442KWJHJCBDLYLVQI3NME7TU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산에서 마이바흐 S클래스 세단으로 택시 운행을 하는 김동식씨가 월 수입을 밝혔다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;택시 운행 방식은 일반차량과는 달랐다. 김씨는 “고급택시는 허가를 받을 때 길거리에서 손을 들면 손님을 태우는 대외 영업을 할 수 없다”고 했다. 이어 운행은 100% 예약제로 이뤄지며 미터기 요금 대신 이용 시간 별로 요금을 받는다고 덧붙였다.&lt;br&gt;&lt;br&gt;손님을 주로 태우는 장소는 공항, 부산역, 특급호텔 등으로 손님들이 웨딩용이나 기업체에서 의전 고객을 모시는 용으로 이 택시를 이용한다고 한다. 김씨는 늘 택시 안에 정장 재킷을 준비해두고 정장 차림으로 손님을 태운다. 그는 “아랍에미리트나 사우디아라비아에서 왕자들이 들어오면 그 사람들은 S클래스가 아니면 안탄다. 그래서 마이바흐는 항상 예약이 된다”고 했다.  &lt;br&gt;&lt;br&gt;요금은 하루 1~2시간 이내는 50만원, 하루 10시간은 100만원이다. 김씨는 “가동률이 떨어진다”면서도 “많이 태울 때는 한달에 30일 일하면 월 3000만원을 번다. 열흘 정도 일하면 1000만원이다. 팁도 받는다”고 했다. 그러면서 “아랍에미리트의 한 왕자는 한번 탈 때 500달러씩 새 돈을 박스에 싣고 와서 팁으로 주고 간다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 “차량 유지비는 기름값을 포함해 월 100만원 정도 들어간다”며 “고장이 잘 안나니까 연료비 말고는 들어갈 게 없다”고 했다. 그는 “한 10만㎞를 탔는데 고장이 없다. 만족하고 있다. 앞으로 다시 산다고 해도 마이바흐를 살 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RBRN6QJJVNGHVIB562IXDDSMR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산에서 마이바흐 S클래스 세단으로 택시 운행을 하는 김동식씨./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>옛 연인 찌르고 달아난 40대 남성…숨진 채 발견</title>
-      <link>https://www.chosun.com/national/incident/2024/08/08/4S2FTJRQ5FE65AUEQQLTZUIYVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/08/4S2FTJRQ5FE65AUEQQLTZUIYVM/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Aug 2024 01:32:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NY2UXVMWAOIWJ6SHX6445LRUBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 서부경찰서 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 서구 청라동의 한 아파트 지하 주차장에서 옛 연인인 40대 여성을 흉기로 찌르고 달아났던 40대 남성이 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;8일 인천 서부경찰서에 따르면 전날 오후 11시 쯤 경기도 군포시 한 야산 입구에 주차된 차량에서 특수상해 혐의를 받는 40대 A씨가 숨진 채 발견됐다. A씨는 지난 7일 오전 8시 20분쯤 인천시 서구 청라동의 한 아파트 지하 주차장에서 옛 연인이었던 40대 여성 B씨를 흉기로 찌르고 달아난 혐의를 받았다.&lt;br&gt;&lt;br&gt;얼굴과 팔 등을 다친 B씨는 병원에서 치료를 받고 있으며, 생명에는 지장이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 범행 장소 주변 감시 카메라 영상 등을 토대로 A씨를 추적했다.&lt;br&gt;&lt;br&gt;경찰은 범행을 저지른 A씨가 극단적 선택을 한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “정확한 사인을 확인하기 위해 부검을 의뢰하고, 피해자 조사 등을 진행한 뒤 사건을 종결할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>당진 아파트 10층에서 6살 여아 떨어져 숨져</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/08/08/4Y6VSL26LZDC7AKDSIMJ5XBEGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/08/08/4Y6VSL26LZDC7AKDSIMJ5XBEGI/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Aug 2024 01:34:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NFFF7YNUJJZG2RH5HNKAVZHUFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;당진경찰서. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 당진시의 한 아파트에서 6살 여아가 추락해 숨지는 사고가 발생해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;8일 당진경찰서에 따르면 지난 7일 오후 5시 33분쯤 당진시 송악읍의 한 아파트 10층에서 A(6)양이 1층으로 떨어졌다. “여자 아이가 머리에 피를 흘르며 쓰러져 있다”는 아파트 경비원의 신고를 받고 출동한 119구급대는 A양을 병원으로 옮겼지만 결국 숨졌다.&lt;br&gt;&lt;br&gt;A양은 이 아파트 10층에 거주하고 있으며, 사고 발생 직전 집에는 A양과 오빠들만 있던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A양이 의자를 놓고 베란다 창틀에 올라섰다가 창 밖으로 떨어진 것으로 추정하고 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/NFFF7YNUJJZG2RH5HNKAVZHUFA.jpg?width=720&amp;height=480&amp;auth=9645d7e0ccce2fcaf920d03d9917f9cc3990b08a065f9a4a2f193b542ecff603&amp;smart=true" type="image/jpeg" height="480" width="720">
-        <media:description type="plain">당진경찰서 전경</media:description>
-      </media:content>
     </item>
     <item>
       <title>“군의원이 막말하며 괴롭혀”...의령군 공무원, 해당 의원 고소</title>
