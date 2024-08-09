@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>이원석 검찰총장, 노동장관 접견…"노사상생 산업현장 위해 노력"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/200464.jpg" alt="200464.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=대검찰청 제공》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9175"&gt;이원석&amp;nbsp;&lt;/span&gt;검찰총장이 이정식 고용노동부 장관을 만나 두 기관이 임금체불, 산업재해, 부당노동행위 등 노동사건에 협력해 공동대응한 것에 감사 인사를 전했다. &lt;br /&gt;&lt;br /&gt;이 검찰총장은 9일 서울 서초동 대검찰청을 방문한 이 장관과 접견했다. &lt;br /&gt;&lt;br /&gt;이 총장은 지난 2월과 6월 현직 검찰총장으로는 처음 중부지방노동청 경기지청과 서울지방노동청을 방문해 근로감독관들과 간담회를 갖는 등 고용노동부와 협력을 강화했다. 이 장관의 방문은 이에 대한 답방으로 이루어졌다.&lt;br /&gt;&lt;br /&gt;이번 접견에서 이 총장은 그동안 검찰과 고용노동부가 임금체불, 산업재해, 부당노동행위 등 민생과 직결되는 노동사건에 긴밀히 협력하며 공동대응한 점에 감사를 표했다. &lt;br /&gt;&lt;br /&gt;특히 검찰과 고용노동부가 △근로자와 가족들의 생계를 위협하는 임금체불 범죄에 공동대응하고 △실질적인 피해회복을 위해 악의적·상습적 체불사업주에 대한 강제수사를 확대하는 한편 △정식기소율 제고 등의 노력을 기울인 것에 대해 의견을 나눴다.&lt;br /&gt;&lt;br /&gt;또 중대재해처벌법 시행과 관련해 △검찰·노동청 간 실무협의회 운영과 핫라인 설치 등 수사협력체계를 구축하고 58건 124명을 기소해 현재까지 모든 사건에서 유죄판결을 이끌어 낸 점 △최근 화성 전지제조업체에서 발생한 화재사건의 실체를 규명하기 위해 초동수사부터 적극 협력하고 있는 점 등에 대해서도 이야기했다.&lt;br /&gt;&lt;br /&gt;대검은 "앞으로도 검찰과 고용노동부는 국민이 안심하고 일할 수 있는 일터, 노사가 상생하는 산업현장을 만들기 위해 지속적으로 긴밀히 협력하며 함께 노력해 나가겠다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;</description>
+			<pubDate>Fri, 09 Aug 2024 03:10:55 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/200464</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200464</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200464.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>법무법인 린·심, 티메프 사태 'ARS 회생절차 대응방안 설명회' 개최</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/200461.jpg" alt="200461.jpg" /&gt;&lt;/p&gt;&lt;a href="https://www.law-lin.com/" target="_blank"&gt;&lt;b&gt;법무법인 린&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7428"&gt;임진석&lt;/span&gt;)과 &lt;a href="https://www.sim.legal/" target="_blank"&gt;&lt;b&gt;법무법인 심&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="41120"&gt;심규덕&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="30806"&gt;최웅구&lt;/span&gt;)은 10일 오후 2시 서울 서초구 변호사회관 5층 인권실에서 티몬·위메프의 채권자들을 대상으로 회생신청 및 자율구조조정(Autonomous Restructuring Support, ARS) 절차와 관련한 대응방안 설명회를 개최한다. 13일 서울회생법원에서 열리는 '티몬·위메프의 제1차 회생절차협의회'를 앞두고, 티몬·위메프의 기업회생 신청으로 피해를 입은 판매자와 소비자들에게 현재 상황에 대한 정확한 정보와 향후 대응방안을 제시하기 위해서다.&lt;p&gt;&lt;br /&gt;설명회에서는 △티몬·위메프의 회생 신청 및 ARS 절차 진행 현황 △채권자들의 구체적 대응방안 △채권자협의회 참여 방법 등에 대한 상세한 내용을 다룰 예정이다. 특히 ARS 절차에서 채권자들의 권익을 보호하기 위한 접근 방식에 대해 중점적으로 설명할 계획이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;서울회생법원 ARS 제도개선 TF 외부연구위원을 역임한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11670"&gt;최효종&lt;/span&gt;(50·사법연수원 34기) 린 변호사는 "ARS 절차의 특성을 고려한 전문적 대응 전략을 공유할 예정"이라고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Fri, 09 Aug 2024 01:24:41 -0000</pubDate>
@@ -230,16 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200422</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200422.jpg</media:thumbnail>
 			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>검찰, '50억 클럽 의혹' 권순일 전 대법관·홍선근 머니투데이 회장 불구속 기소</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/200418.jpg" alt="PYH2020103004900001300.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;권순일 전 대법관 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;'대장동 50억 클럽' 당사자로 지목된&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3924"&gt;권순일&amp;nbsp;&lt;/span&gt;전 대법관이 변호사로 등록하지 않은 채 대장동 개발업체 화천대유자산관리 고문으로 활동한 혐의로 재판에 넘겨졌다.&lt;br /&gt;&lt;br /&gt;서울중앙지검 반부패수사3부(&lt;span style="font-weight: bold;" class="lawmanlink" serial="14589"&gt;이승학&amp;nbsp;&lt;/span&gt;부장검사)는 7일 권 전 대법관을 변호사법 위반 혐의로 불구속 기소했다.&lt;br /&gt;&lt;br /&gt;권 전 대법관은 퇴직 후인 2020년 11월∼2021년 9월 대한변호사협회에 변호사로 등록하지 않고 대장동 민간업자 김만배 씨가 대주주인 화천대유 고문으로 재직하며 화천대유 관련 민사소송 상고심, 행정소송 1심의 재판 상황 분석, 법률문서 작성, 대응법리 제공 등의 변호사 활동을 한 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;권 전 대법관은 이 기간 1억5000만 원의 고문료를 받은 것으로 알려졌다. 검찰은 "50억 클럽 관련 재판거래 의혹은 계속 수사 예정"이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;또 '50억 클럽' 명단에 포함된 홍선근 머니투데이 회장 역시 청탁금지법 위반 혐의로 불구속 기소됐다.&lt;br /&gt;&lt;br /&gt;김 씨의 언론사 선배인 홍 회장은 2020년 1월 김 씨에게 배우자와 아들 명의로 50억원을 빌렸다가 원금만 갚았다. 검찰은 홍 회장이 면제받은 약정 이자 1454만 원을 김 씨로부터 수수한 금품으로 판단했다.&lt;br /&gt;&lt;br /&gt;</description>
-			<pubDate>Wed, 07 Aug 2024 01:17:28 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/200418</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200418</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200418.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
