@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>(금주 법조계 주요일정) 8월 12~16일</title>
+			<description>&lt;b&gt;△12일(월)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 유동규 외 4명 140차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '국가정보원법위반 등 혐의' 정의용 전 국가안보실장 외 3명 16차 공판(오전 10시)&lt;br /&gt;-대법원 양형위원회 제133차 회의(오후 2시)&lt;br /&gt;-법무부, 독립유공자 후손 국적증서 수여식 (오후 3시, 서울 서대문구 대한민국임시정부기념관)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△13일(화)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 곽상도 외 2명 4차 공판준기일(오전 10시)&lt;br /&gt;-서울중앙지법 '노동조합및노동관계조정법위반 등 혐의' 허영인 SPC그룹 회장 외 18명 7차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 이재명 더불어민주당 대표 외 1명 40차 공판(오전 10시30분)&lt;br /&gt;-수원지법, '공직선거법 위반 혐의' 이재명 전 더불어민주당 대표 배우자 김혜경 씨 선고기일(오후 2시)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△14일(수)&lt;/b&gt;&lt;br /&gt;-대법원, 사법정책자문위원회 제3차 회의(오전 9시)&lt;br /&gt;-법무법인 지평, '지평 ESG 아카데미 - 유럽 지속가능성 보고 기준(ESRS) 강독'(오전 9시 30분, 서울 중구 세종대로 그랜드센트럴 B동 3층 지평 오디토리움)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물)등  혐의' 송영길 전 더불어민주당 대표 27차 공판(오전 10시)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△15일(목)&lt;/b&gt;&lt;br /&gt;-광복절&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△16일(금)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '직권남용권리행사방해 등 혐의' 서훈 전 청와대 국가안보실장 외 4명 30차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 이재명 더불어민주당 대표 외 1명 41차 공판(오전 10시30분)</description>
+			<pubDate>Sat, 10 Aug 2024 22:10:11 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/200491</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200491</guid>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
 			<title>[단독] 檢, 알케미스트 실소유주 은진혁 ‘국제조세법 위반’ 불구속 기소</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/200468.jpg" alt="555555.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="text-align: center; margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;은 씨 소유로 알려진 알케미스트캐피탈파트너스 홈페이지&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left; "&gt;서울동부지검 형사5부(&lt;span class="lawmanlink" serial="14451" style="font-weight: bold;"&gt;한문혁&amp;nbsp;&lt;/span&gt;부장검사)는 지난달 25일 사모펀드 운용사 알케미스트캐피탈파트너스코리아(알케미스트)의 실소유주 은진혁 씨를 국제조세조정에관한법률위반 혐의 등으로 서울중앙지법에 기소했다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;국내에 납세 의무가 있는 사람은 해외계좌에 보유한 금액이 5억 원을 초과하면 신고를 해야한다. 미신고·과소신고금액이 50억 원이 넘을 경우 2년 이하의 징역 또는 신고의무 위반금액의 13/100 이상, 20/100 이하에 상당하는 벌금에 처하도록 돼 있다. 은 씨는 자신이 외국인이기 때문에 법적인 문제가 없다고 주장하고 있고, 검찰은 한국에 살고 있기 때문에 납세 의무가 있다고 판단하고 있는 것으로 알려졌다. 은 씨는 카리브해에 있는 세인트키츠네비스 국적이지만, 주거지와 회사는 모두 한국에 있다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 사건은 국세청이 고발한 사건으로 지난해부터 국세청이 조사해오던 사건을 넘겨받아 검찰이 수사 착수해왔다. 형사5부는 은 씨의 주거지가 서울 강남구로 동부지검의 관할지가 아니어서 중앙지법에 공소제기한 것으로 확인됐다. 대형로펌을 선임한 은 씨는 재판에 대비 중이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</description>
 			<pubDate>Sat, 10 Aug 2024 03:06:13 -0000</pubDate>
@@ -234,16 +243,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200478</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200478.jpg</media:thumbnail>
 			<dc:creator>안현 기자</dc:creator>
-		</item>
-		<item>
-			<title>이원석 검찰총장, 검사 탄핵 청문회 불출석 "법치주의 훼손"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/200471.jpg" alt="200452.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9175"&gt;이원석&amp;nbsp;&lt;/span&gt;검찰총장이 오는 14일 국회에서 예정된 '검사 탄핵 청문회'에 증인으로 나서지 않겠다는 뜻을 밝혔다. &lt;br /&gt;&lt;br /&gt;대검찰청은 9일 입장문을 통해 "검사 탄핵 청문회에 검찰총장을 증인으로 출석시켜 진행 중인 수사와 재판에 관한 답변을 요구하는 것은 입법권의 한계를 넘어 사법을 정쟁으로 끌어들여 법치주의를 훼손하는 것이므로 국회에 불출석 사유서를 제출했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;지난달 국회 법제사법위원회는 이 총장에게 증인 출석을 요구하면서 김건희 여사에 대한 수사 상황과 수사팀의 대면보고 내용, 수사에 대한 외압 여부 등에 관한 견해를 밝히라고 주문했다.&lt;br /&gt;&lt;br /&gt;대검은 "헌법의 근간인 삼권분립의 원칙에 따라 범죄의 수사와 소추라는 준사법적 기능을 수행하는 검찰은 정치적 중립성과 수사의 공정성이 보장돼야 한다"고 강조했다. &lt;br /&gt;&lt;br /&gt;이어 "검찰사무를 총괄하며 검찰청의 공무원을 지휘·감독하는 검찰총장이 국회에 출석해 범죄 수사 및 소추에 관한 사항에 대해 구체적으로 답변할 경우 중립적이고 공정하게 진행되어야 할 수사와 재판에 부당한 영향을 주게 되고, 이로 인해 검찰의 준사법적 기능이 저해되며 정치적 중립성은 훼손된다"고 설명했다. &lt;br /&gt;&lt;br /&gt;국정감사 및 조사에 관한 법률에서는 진행 중인 수사 또는 재판에 관여할 목적으로 감사·조사권이 행사되어서는 아니된다고 국회 권한의 한계를 규정하고 있으며, 감사·조사로 인해 대상기관의 기능과 활동이 현저히 저해되거나 기밀이 누설되지 않아야 한다고 규정하고 있다. &lt;br /&gt;&lt;br /&gt;대검은 국회가 김영철 서울북부지검 차장검사의 탄핵 사유로 거론한 장시호 씨에 대한 위증교사 및 공무상비밀누설 사건은 공수처와 경찰이 수사 중이고 민주당 전당대회 '돈 봉투 살포' 사건과 김건희 여사 관련 코바나컨텐츠 대기업 협찬 사건은 검찰 수사와 재판이 진행 중이거나 검찰총장의 지휘권이 배제됐으므로 청문회에 출석해 답변하는 것 자체가 부적절하다는 입장이다.&lt;br /&gt;&lt;br /&gt;김영철 검사도 청문회에 출석하지 않을 예정이다. 대검은 "탄핵소추절차의 당사자인 검사들을 청문회의 증인으로 출석시키는 것은 법적 근거가 없는 위법한 조치이며, 그럼에도 출석시킬 경우 법적으로 의무 없는 일을 강요하는 것"이라고 말했다. 김영철 검사에 이어 더불어민주당이 탄핵 대상으로 지목한 박상용·엄희준·강백신 검사도 추후 있을 청문회에 출석하지 않을 것으로 보인다.&lt;br /&gt;&lt;br /&gt;대검은 "민주당 관련 수사와 재판을 담당한 검사들을 청문회에 증인으로 출석시켜 조사하겠다는 것은 민주당이 직접 수사와 재판을 하겠다는 것으로 헌법상 삼권분립과 법치주의에 정면으로 반하는 위헌적 조치"라며 "국회 조사 권한의 한계를 넘어선 위법한 절차"라고 비판했다.</description>
-			<pubDate>Fri, 09 Aug 2024 05:07:15 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/200471</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200471</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200471.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
