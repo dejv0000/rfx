@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“세계 곳곳에 자식들이 있죠”... 16년째 해외 빈곤아동 후원하는 김철진 SK 어드밴스드 대표</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/10/OXMNNPC265GRDDLMU56DAVJOEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/10/OXMNNPC265GRDDLMU56DAVJOEQ/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Aug 2024 06:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5PRECM7NM5FXLAH24OHE4BT72A.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 판교 사옥에서 본지와 만난 김철진 SK 어드밴스드 대표. /한국컴패션&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“사람은 공동체와 어울려야만 행복을 추구할 수 있어요. 그래서 나 자신은 어떻게 살아갈지 늘 고민합니다”&lt;br&gt;&lt;br&gt;지난 2일 오후 12시쯤 경기도 판교 사옥에서 본지와 만난 김철진(58) SK 어드밴스드 대표는 지난 16년 동안 하루도 빠짐없이 해외 빈곤 아동을 후원해 왔던 배경에 대해 이같이 말했다. 그는 2008년부터 인도에 사는 돔루(당시 9세)군을 시작으로 태국, 콜롬비아, 인도네시아 등 세계 각지의 빈곤 아동과 청소년을 지금까지 꾸준히 후원하고 있다. 김씨는 “한 어린이의 손을 잡으면 그 순간 기적의 역사, 새로운 행복이 시작된다”며 “우리나라도 6.25 전쟁으로 폐허가 됐지만 기적이 일어났던 것처럼 가난으로 힘겨워하는 전 세계 어린이들에게 꿈과 희망을 주고 싶다”고 했다.&lt;br&gt;&lt;br&gt;국제어린이양육기구 컴패션은 김씨가 후원했던 인도네시아 출신 이타(34)씨가 현지에서 대학을 졸업한 후 국내의 한 대학에 진학해 최근 석사와 박사과정을 마쳤다고 9일 밝혔다. 김씨는 2011년 당시 가정 형편이 어려워 등록금을 내지 못하고 있던 이타씨가 학부 과정을 마칠 수 있도록 약 3년 동안 매달 35만원을 후원했다고 한다. 그는 또 2013년 6월에 이타씨를 한국으로 초대해 서울을 함께 돌아보며 한국의 발전된 모습을 보여줬다. 서울 마포구 양화진 외국인 묘역에 방문해선 구한말 가난하고 병든 조선을 위해 헌신한 선교사들의 뜻을 기리기도 했다.&lt;br&gt;&lt;br&gt;김씨는 이타씨가 이때부터 한국에 대한 동경을 갖게 됐다고 했다. 이타씨는 본국에서 대학을 졸업한 후 학비 전액과 생활비를 장학금으로 받는 조건으로 한국 순천향대 의생명융합학과에 진학해 석박사 과정을 마쳤다. 이타씨는 현재 싱가포르 과학기술연구청인 에이스타에서 3세대 면역 치료제를 연구하고 있다고 한다. 또 얼마 전 싱가포르에서 만난 한국인과 결혼하게 돼 그의 후원자인 김씨가 직접 인도네시아로 가서 결혼식 축사를 했다. 김씨는 “후원을 시작하지 않았다면 이타와 같은 기적이 없었을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VIRVSC2Z2ZAJHJMMKXMA5ENUCI.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;김철진 대표가 2021년 2월 순천향대 박사 학위수여식에서 이타씨와 함께 찍은 사진. /한국컴패션&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김씨에게는 이타씨 외에도 ‘가슴으로 낳은’ 여러 명의 자식이 있다. 그는 콜롬비아에 사는 마리아(당시 5세)양을 2011년부터 올해 6월까지 13년간 후원했고, 지난 2017년부터 지금까지 태국의 메메쎄(당시 5세)양을 후원하고 있다. 김씨는 “우리가 세상을 보는 관점에 따라 행복을 누릴 수 있다”며 “내가 부족한 것을 보면 결핍이 생기고 내가 나눌 수 있는 것을 보면 행복한 마음이 생긴다”고 말했다. 그러면서 “한국의 젊은이들도 나눔을 통해 삶의 가치를 느끼며, 진정한 행복을 누리길 바란다”고 했다. 그는 앞으로도 베푸는 삶을 살아갈 계획이라고 밝혔다.&lt;br&gt;&lt;br&gt;1966년 경북 안동에서 3남 2녀 중 장남으로 태어난 김씨는 경제적으로 넉넉하지 않은 학창 시절을 보냈다. 하지만 또래에게만큼은 지기 싫어했던 그는 서울대 화학공학과에 합격해 4년 내내 장학금을 받고 대학을 졸업했다. 이후 일찍 돈을 벌어야겠다는 생각에 SK 이노베이션(당시 유공)에 입사했다고 한다.&lt;br&gt;&lt;br&gt;현재 SK 어드밴스드 대표이사를 맡고 있는 김씨는 “좌우명이 ‘은혜의 종착역이 아니라 통로가 되자’는 문구”라며 “생을 마감하기 전까지 10명의 후원 아동을 만드는 것이 목표”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘한지민 연인’ 잔나비 최정훈 “심장 벌컥 뛰어, 더 좋은 음악 선물할 것”</title>
+      <link>https://www.chosun.com/national/people/2024/08/10/DPQLD35KOBH6RPEZ57EXWYVYVE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/10/DPQLD35KOBH6RPEZ57EXWYVYVE/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Aug 2024 06:00:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GT354NHALLUM42INY75XWEONA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최정훈(왼쪽)과 한지민. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10살 연상인 배우 한지민(42)과의 열애를 인정한 밴드 잔나비의 보컬 최정훈(32)이 팬들에게 심경을 밝혔다.&lt;br&gt;&lt;br&gt;10일 연예매체 ‘헤럴드POP’에 따르면 최정훈은 열애 인정 이후 팬들에게 보낸 편지에서 “그렇게 됐다. 다들 놀리려고 준비 중인 거 같더라. 아니 사실 말이 놀리려고지 어떤 마음들일지 너무 잘 알아서. 그 마음 또한 고맙고 또 고맙다”고 했다.&lt;br&gt;&lt;br&gt;최정훈은 “매번 연애에 대한 물음에 어련히 알아서 잘한다고 말하고는 했는데 이렇게 알려지게 된 이상 그리고 다들 축하하기를 기다려주고 있는 이상 편지를 쓰지 않을 수 없었다”며 “놀라셨을 텐데 우선 다들 청심원 한 모금씩 들이키시길. 왜냐면 내가 그랬다. 심장이 벌컥 뛰어서 한 모금 했다. 조금 낫더라”라고 했다.&lt;br&gt;&lt;br&gt;이어 “이후 올라온 글들을 천천히 읽어보는데 많이 고마웠다. 아니 짓궂게 장난도 치고 그러고 있는데 감동은 무슨 감동이라고 말하겠지만 이런 장난들에서도 느껴지는 온기가 있다”며 “최근 몇몇 공연들 그리고 축하의 마음들 등등등 이 에너지들 잘 이어받아서 더 좋은 음악, 건강하고 애정 넘치는 음악으로 선물해 주겠다. 여러분들과 나눠가진 사랑, 그리고 나와 우리를 둘러싼 모든 이들과 나눠가진 사랑들 아껴두었다가 때가 되면 사정없이 펼쳐 보이겠다”고 했다.&lt;br&gt;&lt;br&gt;최정훈은 “앞으로의 우리 음악이 더 기대가 된다는 이야기도 많길래 나도 덩달아 신나고 흥미진진해졌다. 좋은 음악 많이 만들었다. 곧 들려드릴 수 있도록 열심히 해보겠다”며 “늘 같은 마음으로 응원해줘서 또 힘이 되어줘서 너무 고맙다”고 했다.&lt;br&gt;&lt;br&gt;한편 최정훈은 작년 8월 자신이 MC를 맡은 KBS2 음악 프로그램 ‘더 시즌즈-최정훈의 밤의 공원’을 통해 한지민과 인연을 맺은 뒤 연인 사이로 발전했다.&lt;br&gt;&lt;br&gt;한지민은 1998년 한 광고로 연예계에 데뷔한 이후 26년 동안 ‘대장금’, ‘이산’, ‘경성스캔들’, ‘우리들의 블루스’ 등 다양한 드라마와 영화에 출연했다.&lt;br&gt;&lt;br&gt;최정훈은 잔나비의 보컬로 2014년 데뷔했으며 ‘주저하는 연인들을 위해’, ‘뜨거운 여름밤은 가고 남은 건 볼품없지만’ 등의 히트곡을 냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 박권흠 前 국회의원·한국차인(茶人)연합회 회장 별세  </title>
+      <link>https://www.chosun.com/national/national_general/2024/08/10/GZW3ZVJRSVGTXNRBPGY3TCZ5XM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/10/GZW3ZVJRSVGTXNRBPGY3TCZ5XM/</guid>
+      <dc:creator>김수경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Aug 2024 06:00:21 +0000</pubDate>
+      <content:encoded>한국차인연합회 회장을 지낸 박권흠(92) 전 국회의원이 10일 별세했다. 고인은 국제신문과 경향신문을 거쳐, 김영삼 전 대통령의 신민당 총재 시절 비서실장을 지냈다. 이후 제10대·11대·12대 국회의원, 대구일보 사장 등을 지냈다. 1992년부터 한국차인연합회 회장을 맡았다. &lt;br&gt;&lt;br&gt;유족은 자녀 박한진(알토스비즈 대표), 박임수, 박일선, 박미해, 박두해, 박은주씨와 사위 강근석(일진건설 대표), 이의선(캐나다 거주), 안윤수(대한경제신문 정치사회부 차장)씨, 며느리 구은주씨 등이 있다. 빈소는 삼성서울병원. 발인 13일 오전 10시. (02)3410-3151&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 고위직 승진 단행.. 김준영 강원청장·오문교 충남청장, 치안정감으로</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/10/4NTDEN7EFRDAZG7WUCXHGFTEIE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/10/4NTDEN7EFRDAZG7WUCXHGFTEIE/</guid>
+      <dc:creator>김수경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Aug 2024 05:24:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4MMBB6J52ZE5DMJBIIHKUOX4ZY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;‘강원 경찰 청렴의 날’ 행사에 참여한 김준영 강원경찰청장. /강원경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DDQEPHGF2ZAD5FO4MKZHNEHNTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오문교 충남청장. /충남경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 10일 경찰청 고위직 승진 인사를 단행했다.&lt;br&gt;&lt;br&gt;김준영(54) 강원경찰청장과 오문교(57) 충남경찰청장이 치안감에서 치안정감으로 승진했다. 치안정감은 경찰 총수인 경찰청장(치안총감) 바로 아래 계급으로 경찰청 차장과 서울·부산·경기남부·인천경찰청장, 경찰대학장 등 6개 자리가 있다.&lt;br&gt;&lt;br&gt;이날 치안정감 바로 아래 계급인 치안감 승진 인사도 함께 발표됐다.&lt;br&gt;&lt;br&gt;승진 대상자는 김동권 경찰청 국제협력관, 임정주 서울경찰청 경비부장, 고평기 서울경찰청 범죄예방대응부장, 도준수 서울경찰청 경찰관리관, 손제한 부산경찰청 수사부장, 백동흠 울산경찰청 수사부장, 모상묘 경기남부경찰청 분당경찰서장 등 총 7명이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>들개들이 아파트 단지서 주민 습격 “2m 점프해서 물더라”</title>
       <link>https://www.chosun.com/national/national_general/2024/08/10/V7VXSZ2R2VHHRKRDVM7O5TXQUA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/10/V7VXSZ2R2VHHRKRDVM7O5TXQUA/</guid>
@@ -872,42 +908,6 @@
       <description/>
       <pubDate>Fri, 09 Aug 2024 00:43:05 +0000</pubDate>
       <content:encoded>2012년 4월 제19대 총선을 앞두고 불법 선거운동을 한 혐의로 기소됐다가 대부분 무죄를 확정받은 방송인 김어준씨가 국가로부터 약 709만원을 받게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UDFYB7TCEC3DXWXZDT2U3A5LWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 김어준씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사12-2부(재판장 방웅환)는 지난 6일 김씨에게 709만2000원을 지급하는 형사보상을 결정했다고 9일 밝혔다. 형사보상은 무죄가 확정된 피고인이 재판으로 본 손해를 보상해 달라고 국가에 청구하는 제도다. 김씨는 약 10년 7개월간 재판을 진행하면서 지불한 변호사비, 교통비 등 부대비용의 보상을 요구했다고 한다.&lt;br&gt;&lt;br&gt;앞서 김씨는 총선 선거운동 기간인 2012년 4월 7일부터 10일까지 총 8차례에 걸쳐 방송인 주진우씨와 함께 선거에 영향을 미치려 집회를 열고, 현장에서 확성기를 이용해 불법 선거운동을 했다는 혐의(공직선거법 위반)로 그해 9월 기소됐다.&lt;br&gt;&lt;br&gt;1심은 “선거에 영향을 미치기 위해 별도 집회를 개최하고 공직선거법상 사용이 금지된 확성장치로 불특정 다수에게 선거운동을 해 공정성을 해칠 위험이 크다”며 두 사람에게 벌금 90만원을 각각 선고했다.&lt;br&gt;&lt;br&gt;하지만 2심에서 김씨의 혐의 대부분이 무죄로 뒤집혔다. 2심은 김씨가 2012년 4월 7일 ‘투표참여 개념찬 콘서트’에서 확성장치를 이용해 “’가카’는 여러분이 심판해주셔야 한다” “이번 선거는 김용민이 아니라 ‘가카’를 심판하는 선거” 등을 말한 부분만 유죄로 판단하고, 김씨에게 벌금 30만원을 선고했다.&lt;br&gt;&lt;br&gt;2심은 김씨가 확성기로 새누리당(현 국민의힘) 후보를 낙선시키려는 의도가 아니었고, 공직선거법상 허용된 연설·대담·토론 등도 아니었다고 봤다. 이 판결은 작년 4월 대법원에서 확정됐다.&lt;br&gt;&lt;br&gt;이 사건은 공직선거법 조항이 두 차례에 걸쳐 헌법재판소에서 위헌 결정을 받으면서 대법원에서 선고가 확정되기까지 10년 7개월이 걸렸다. 위헌 결정된 공직선거법 조항은 각각 언론인의 선거운동을 금지한 조항, 집회를 통한 선거운동을 금지한 조항이다.&lt;br&gt;&lt;br&gt;김씨와 주씨는 재판 과정에서 공직선거법의 ‘언론인의 선거운동을 금지한 조항’, ‘집회를 통한 선거운동을 금지한 조항’에 대해 위헌법률심판을 제청했다. 이후 두 조항은 각각 2016년, 2018년 헌재의 위헌 결정을 받았다. 위헌이 결정된 조항은 모두 공소가 취소되거나 무죄가 판결됐다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>손흥민이 뽑은 같이 밥 먹고 싶은 스타는 바로 ‘이 사람’</title>
-      <link>https://www.chosun.com/national/people/2024/08/09/OB225TJ2GZAUXKXBUX6W6SMB24/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/09/OB225TJ2GZAUXKXBUX6W6SMB24/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 09 Aug 2024 00:41:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NAKOY5P4XJAJ5MIH5RY5KZWKVE.png"&gt;&lt;figcaption&gt;&lt;small&gt;손흥민이 같이 밥을 먹고 싶은 스타 중 한 명으로 세계적인 e스포츠 스타 페이커를 꼽았다./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;손흥민(33·토트넘 홋스퍼)이 같이 밥을 먹고 싶은 스타 중 한 명으로 세계적인 e스포츠 스타 페이커를 꼽았다.&lt;br&gt;&lt;br&gt;9일 토트넘 홋스퍼 공식 인스타그램에는 토트넘 선수들에게 ‘같이 밥을 먹고 싶은 스타 3인’에 대해 물어보는 영상이 올라왔다.&lt;br&gt;&lt;br&gt;손흥민은 가장 먼저 ‘페이커’를 이야기 했다. 손흥민은 게임 ‘리그 오브 레전드’를 즐겨 하는 것으로 알려져 있다. 1996년생인 ‘페이커’는 ‘리그 오브 레전드’ 프로게이머로, T1 소속이다. 작년 제19회 항저우 아시안게임 e스포츠 ‘리그 오브 레전드’에서 금메달을 땄다. 최근엔 ‘리그 오브 레전드 월드’ 챔피언십(롤드컵)에서 T1의 우승을 이끌었다.&lt;br&gt;&lt;br&gt;두 번째로는 토트넘 홋스퍼의 팬으로 알려진 할리우드 배우 ‘톰 홀랜드’를 언급했다. 그는 마블 시리즈 영화 ‘스파이더맨’ 역할을 맡으며 전 세계에 이름을 알린 배우다. 앞서 홀랜드는 각종 현지 매체에 토트넘의 팬이라는 사실을 밝혔고, 가장 좋아하는 토트넘 선수로 손흥민을 꼽기도 했다. 실제 두 사람은 만남을 갖기도 했다.&lt;br&gt;&lt;br&gt;마지막 스타는 농구 황제 ‘마이클 조던’이었다. 마이클 조던은 1980~90년대 NBA의 세계화를 이끈 장본인으로 농구 역사상 가장 위대한 선수로 평가받는다. 시카고 불스에서 1991~1993, 1996~1998시즌 우승으로 3연속 우승을 두 번이나 해내며, 총 6번의 우승을 달성했다. 마이클 조던은 6번의 NBA 파이널에 진출해 한 번도 패하지 않고 모두 우승한 대기록을 가지고 있다. 마이클 조던의 등번호인 ‘23번’은 그가 뛰었던 NBA 시카고 불스에서 영구 결번이 됐다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “게임에 진심이 쏘니” “페이커, 손흥민 둘의 공통점이 보인다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;이외에도 같이 밥 먹고 싶은 스타로 토트넘 공격수 브레넌 존슨은 조던의 동료였던 ‘악동’ 데니스 로드맨을 뽑았다. 왼쪽 풀백 데스티니 우도기는 야야 투레를, 토트넘 신입생 루카스 베리발은 알버트 아인슈타인을, 데얀 쿨루셉스키는 알렉산더 대왕을 언급했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>파리 한식당서 음주난동? 핸드볼협회 “바가지 항의한 것, 절대 아니다”</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/09/HBKSN3HS6BHTXLQNQGZRQ72BEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/09/HBKSN3HS6BHTXLQNQGZRQ72BEY/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 09 Aug 2024 00:10:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4R37BGQTB5NKBMYOVDEIKALPWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헨릭 시그넬 감독이 3일 오후(현지시각) 프랑스 파리 아레나 파리 쉬드6에서 열린  2024파리올림픽 핸드볼 여자 A조 예선 마지막 덴마크와의 경기에서 작전 지시를 하고 있다. 여자대표팀은 덴마크에 20대 28로 졌다. 이로써 8강 진출에 실패했다. /올림픽사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한핸드볼협회가 프랑스 파리의 식당에서 일부 관계자들이 ‘스폰서가 누군지 아느냐’며 소리치고 난동을 피웠다는 보도에 대해 “바가지 요금을 항의하며 언성이 높아진 것일 뿐 난동을 피운 적 없다”고 해명했다.&lt;br&gt;&lt;br&gt;앞서 한 매체는 “대한핸드볼협회 관계자들이 지난 1일 스웨덴전을 마친 뒤 파리 현지 식당에서 술에 취한채 난동을 부렸다”며 “국내 대기업의 스폰(서십)을 받고 있다는 취지에서 해당 그룹 회장의 이름을 들먹였다”고 보도했다. 이어 “일부 손님이 휴대전화로 촬영을 시작하자 이를 두고 또 마찰을 빚었다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 협회 관계자는 9일 뉴스1을 통해 “당시 한식당 측에서 마시지 않은 술값을 더한 영수증을 제시했다 실제로 영수증이 잘못된 게 맞았다”며 “직원이 음식값 변경 요청에 제대로 대응해 주지 않아 실랑이가 오갔지만 음주 난동을 부린 건 정말 아니다”라고 했다.&lt;br&gt;&lt;br&gt;후원사 회장을 언급했다는 주장에 대해선 “회장님 이름을 언급하며 위협한 게 아니라 회장사가 있는 협회인데 우리 측에서 설마 돈을 덜 내려고 그러겠느냐는 취지였다”며 “오해가 커도 너무 커졌다”고 했다.&lt;br&gt;&lt;br&gt;또 손님과 마찰을 빚은 일에 대해선 “실랑이가 생기다 보니 손님들이 영상을 촬영했고, 이를 제지한 것이지 시비를 건 게 아니다”라고 해명했다.&lt;br&gt;&lt;br&gt;협회 관계자는 “당초 기자들과 함께하려던 모임이 일정상 취소됐고 예약을 무를 수 없어 고생한 스태프들 밥이나 먹자고 하던 자리”라며 “해당 보도에는 ‘(협회의) 남성들이 몰려가 위협적인 태도로 일관했다’고 나와 있는데, 실제로는 술에 취한 사람은 아무도 없었고 여성 스태프들이 많았다”고 했다.&lt;br&gt;&lt;br&gt;논란이 확산하자 사건이 발생한 파리 한식당이 협회 측에 연락해 사과했다고 한다. 협회 측은 “식당과 서로 사과하고 잘 정리했다”고 했다. 그러면서 “성적은 아쉬웠지만 그래도 다들 이 대장정을 마무리한 것에 뿌듯함을 느끼고 있었는데 갑자기 지옥이 됐다”고 토로했다.&lt;br&gt;&lt;br&gt;2024 파리 올림픽 유일한 단체 구기 종목으로 출전한 여자 핸드볼은 조별리그에서 탈락했다. 한국 여자 핸드볼이 올림픽 조별리그에서 탈락한 것은 2016년 리우데자네이루 대회 이후 두 번째다. 한국은 2020 도쿄 올림픽에서는 8강에 진출했지만 기세를 이어가지 못했다. 2008년 이후 SK그룹이 대한핸드볼협회 회장사를 맡아 후원하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>온열 질환자 2000명 넘겨…가축 51만 마리 폐사</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/09/2TAXPQEZKRFRXPRQXQDCNHXKAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/09/2TAXPQEZKRFRXPRQXQDCNHXKAQ/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Aug 2024 23:51:33 +0000</pubDate>
-      <content:encoded>계속되는 폭염으로 열사병이나 탈수 등 온열 질환에 걸린 사람이 2000명을 넘긴 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZNYTM2TPIZPKNNFWND5WEXH4ZQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;무더위가 이어지고 있는 6일 광주광역시 북구청 신관 공사 현장에서 작업자들이 근로자 휴게실에서 냉조끼를 착용하고 휴식을 취하고 있다. /광주광역시 북구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 행정안전부 중앙재난안전대책본부에 따르면 7일 기준 폭염으로 인한 온열 질환자는 전국에 2004명으로 집계됐다. 사망자는 전날 대비 늘지 않아 19명으로 잠정 집계됐다.&lt;br&gt;&lt;br&gt;돼지 3만4000마리, 닭이나 오리와 같은 가금류 47만5000마리 등 가축 50만9000마리가 폭염으로 폐사했다. 수온 상승으로 인한 양식 피해는 46만7000마리로 집계됐다.&lt;br&gt;&lt;br&gt;중대본에 따르면 폭염 특보는 전국 183개 구역 중 178개 구역에 발령 중이다. 폭염주의보가 26개 구역, 폭염경보가 152개 구역이다.&lt;br&gt;&lt;br&gt;앞서 행안부는 지난달 31일 오후 7시부로 중대본 1단계를 가동하고 폭염 위기 경보 수준을 ‘심각’ 단계로 올렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>구로역서 선로보수 차량 충돌...코레일 30대 직원 2명 사망</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/08/09/7BGKM47YQJFCFAWWYMYVOKDVFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/08/09/7BGKM47YQJFCFAWWYMYVOKDVFY/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Aug 2024 23:36:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NV5PUMEVQEHBQTFKV5TAGWRE3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지하철 1호선 구로역. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 오전 2시 21분쯤 서울 지하철 1호선 구로역에서 상행선 점검 모터카와 선로 보수 작업용 모터카가 충돌해 작업자 2명이 숨졌다.&lt;br&gt;&lt;br&gt;한국철도공사(코레일)에 따르면, 이번 사고로 30대 남성 작업자 2명이 숨지고, 1명은 다리가 골절돼 인근 병원으로 옮겨져 치료를 받고 있다. 사상자 모두 코레일 본사 직원인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;사고 수습 작업으로 이날 오전 5시 40분까지 전동차 10개와 고속열차 5개가 10∼30분가량 지연 운행됐다. 오전 7시 이후부터는 열차 운행에 지장이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;코레일과 경찰은 정확한 사고 원인을 파악하고 있다. 고용노동부는 중대재해처벌법 적용 여부를 검토할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>해외출장 뒤 사망한 대학원생…숭실대 “폭언했던 교수의 비위 발견”</title>
