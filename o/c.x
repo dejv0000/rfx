@@ -13,6 +13,137 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>태안서 80대 열사병으로 숨져…충남 온열질환자 총 115명</title>
+      <link>https://www.chosun.com/national/regional/2024/08/10/AWMNIUXY6VBJPJC42H4B6USDOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/10/AWMNIUXY6VBJPJC42H4B6USDOI/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Aug 2024 03:01:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2Z2RCOG7FWFK5P5BH4272NTV4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급대원들이 환자를 이송하는 모습.(사진은 기사 내용과 무관함)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연일 폭염이 기승을 부리고 있는 가운데 충남 지역 내 첫 온열질환 사망자가 나왔다.&lt;br&gt;&lt;br&gt;10일 충남도에 따르면 전날 오후 6시 48분쯤 태안군에서 80대 여성 A씨가 집 앞에서 의식을 잃고 쓰러진 것을 가족이 발견해 119에 신고했다.&lt;br&gt;&lt;br&gt;출동한 119구급대원은 도착 당시 A씨가 이미 사망한 것으로 판단했다. 의료진은 A씨가 열사병으로 숨진 것으로 보고 있다.&lt;br&gt;&lt;br&gt;충남도가 온열질환 응급실 감시체계를 가동한 지난 5월 20일부터 전날까지 도내 온열질환자는 총 115명으로 파악됐다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>방수현 “협회가 안세영 얼마나 특별케어했는지 밝혀질 것”</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/10/LNO2RHLOHNDEPAMZ6FLSZ27DVE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/10/LNO2RHLOHNDEPAMZ6FLSZ27DVE/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Aug 2024 02:38:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VBTMPQQT5BJ6HHWCBKWKF2OQ2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일(현지시각) 파리 라 샤펠 아레나에서 열린 2024 파리올림픽 배드민턴 여자 단식 결승전 금메달을 딴 안세영이 28년 전 애틀란타 올림픽 금메달 리스트 방수현과 만나고 있다. /올림픽사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2024 파리올림픽 여자 배드민턴 단식 금메달리스트 안세영(22·삼성생명)이 대한배드민턴협회에 대해 공개적으로 불만을 제기해 논란이 일고 있는 가운데 배드민턴 전 국가대표 방수현 MBC 해설위원(52)이 재차 협회를 옹호하고 나섰다.&lt;br&gt;&lt;br&gt;방수현 해설위원은 9일 일요신문과의 인터뷰에서 “안세영이 항저우 아시안게임에서 부상을 당했고, 제대로 회복하지 못한 상태에서 국제대회 출전과 파리올림픽을 준비했다. 정말 쉽지 않은 과정이었을 것”이라면서도 “배드민턴협회에서 사상 처음으로 안세영한테 개인 트레이너를 허용했다. 그만큼 안세영의 몸 상태 회복을 위해 많은 걸 배려한 걸로 알고 있다”고 했다.&lt;br&gt;&lt;br&gt;방수현 해설위원은 “대표팀 선수로 뛴다는 게 얼마나 어렵나. 안세영만 힘든 게 아니다. 모든 선수들이 그런 환경에서 태극마크를 달고 뛴다”며 “나도 어린 나이에 대표팀에 들어가 그 시간들을 다 겪었다. 대표팀을 누가 등 떠밀어서 들어간 게 아니지 않나”라고 했다.&lt;br&gt;&lt;br&gt;방수현 해설위원은 “안세영으로선 올림픽 금메달 획득 후 자신의 말에 힘이 실렸을 때 협회의 부조리나 대표팀의 선수 보호 문제를 터트리려고 했겠지만 그 발언으로 안세영을 도운 연습 파트너들, 감독, 코치들, 트레이너들의 수고가 간과된 것 같아 안타까웠다”며 “이런 상황을 세밀하게 살펴볼수록 협회가 안세영을 얼마나 특별케어했는지 밝혀질 것”이라고 말했다.&lt;br&gt;&lt;br&gt;방수현 해설위원은 “안세영의 인터뷰 내용을 지적하고 싶진 않다. 단 인터뷰하는 시기가 아쉬웠다”며 “온 국민이 28년 만에 여자 단식에서 나온 올림픽 금메달을 축하하는 경사스러운 날에 올림픽 금메달 획득 기자회견장에서 작정하듯 폭탄 발언을 했다는 사실이 너무 안타까웠다. 그 인터뷰로 인해 올림픽에 출전하는 다른 선수들과 이슈들, 성적들이 묻혔다”고 했다.&lt;br&gt;&lt;br&gt;앞서 안세영을 비판하는 발언으로 논란이 된 것에 대해서는 “내가 협회랑 무슨 관계가 있는 것처럼 몰아가는 사람들이 있더라. 전혀 관계가 없다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UOIKNS2VTNOIFEE5MN2PKVHTXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일(현지시각) 프랑스 파리 포르트드 라 샤펠 아레나에서 열린 2024 파리올림픽 배드민턴 여자 단식 결승전에서 금메달을 딴 한국 안세영이 방수현 해설위원의 축하를 받고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방수현 해설위원은 “나는 대표팀 생활을 오래 했고, 여러 국제대회에 출전하면서 협회나 감독, 코치들, 훈련 파트너들이 얼마나 고생했는지 잘 알고 있다. 개인적으로 협회에 대한 아쉬움이 없는 선수가 있겠나. 나도 선수 시절엔 협회의 운영에 불만이 있었을 것”이라며 “하지만 태극마크를 달고 올림픽 무대에 섰고, 그 무대에서 어렵게 금메달을 획득했다면 그 금메달의 가치와 영광의 여운을 안고 귀국한 다음에 자리를 만들어서 인터뷰를 통해 자신의 생각을 정리해 전달했다면 더 좋았을 것”이라고 했다.&lt;br&gt;&lt;br&gt;방수현 해설위원은 앞서 라디오 인터뷰에서 안세영 선수를 겨냥해 “협회나 시스템 이런 것들이 조금 변화돼야 하는 건 맞지만 안 선수 본인이 혼자 금메달을 일궈낸 건 아니지 않나”라고 했다.&lt;br&gt;&lt;br&gt;방수현 해설위원은 28년 전인 1996년 애틀랜타 올림픽 여자 배드민턴 단식에서 금메달을 획득했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘5000억원대 유사 수신’ 와콘 대표 구속기소</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/10/5YB6KSVDANHNTFCNBUBN6VW67E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/10/5YB6KSVDANHNTFCNBUBN6VW67E/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Aug 2024 02:15:37 +0000</pubDate>
+      <content:encoded>가상자산 등을 운용해 고수익을 올려주겠다며 수천억원대 투자금을 불법 유치한 혐의를 받는 업체 대표가 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울중앙지검 형사5부(부장 김태헌)는 지난 9일 540억원대 사기와 5000억원대 유사수신 혐의로 와콘 대표 변모씨와 공범 염모씨를 구속 기소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WYOIMZKD34RWQHYAKQHU4EBHUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;와콘은 가상자산 지분 등을 예치하면 고액의 이자를 주겠다며 투자자를 모집했지만 지난해 중순부터 원금과 이자를 지급하지 않았다. 이에 다수의 회원이 변씨 등을 고소했고, 서울경찰청 금융범죄수사대가 올해 3월부터 사건을 맡아 수사해 왔다. 수사기관이 확인한 피해자만 500여명인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 지난달 23일 변 대표와 염씨를 검찰에 구속 송치했고 현재 공범에 대한 수사를 이어가고 있다.&lt;br&gt;&lt;br&gt;한편 박은정 조국혁신당 의원의 남편인 이종근 변호사가 경찰 수사 단계에서 변씨 등을 변호한 사실이 지난 총선 당시 알려져 논란이 되기도 했다. 당시 이 변호사는 “논란된 수임 사건을 모두 사임하겠다”고 했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원 휴정기 종료...이재명·송영길 등 재판 다시 속도</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/10/SEX6RML7HVC77B5CEKG2RLEFEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/10/SEX6RML7HVC77B5CEKG2RLEFEU/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Aug 2024 00:39:46 +0000</pubDate>
+      <content:encoded>전국 법원이 2주간의 하계 법원 휴정기를 마치고 다시 재판 심리에 돌입한다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 지난달 29일부터 이달 9일까지 하계 휴정기를 보낸 법원들은 오는 12일부터 재판 일정을 다시 시작한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FWVKJ6E7ECWRHGOCADSEFAOAPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중앙지법 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법에서는 이재명 전 더불어민주당 대표의 재판이 다시 열린다. 이 전 대표는 서울중앙지법에서 공직선거법 위반 사건, 위증교사 사건, 대장동·위례신도시·백현동·성남FC 사건 등 세 개의 재판을 받고 있다. 그중 공직선거법 위반 사건과 위증교사 사건은 1심 재판이 막바지에 다다랐다. 두 재판부는 각각 다음달 결심 공판을 열고, 이르면 10월 중 선고를 내릴 전망이다.&lt;br&gt;&lt;br&gt;송영길 소나무당 대표(전 민주당 대표)의 ‘2021년 민주당 전당대회 돈봉투 살포 의혹’ 관련 재판은 오는 14일 다시 열린다. 재판부는 두 차례 공판을 연 뒤 송 전 대표 측 추가 증인 신청이 없으면 변론을 종결하겠다는 입장이다.&lt;br&gt;&lt;br&gt;허종식 의원과 이성만·임종성 전 의원의 돈 봉투 수수 혐의 재판은 오는 30일 내려진다. 검찰은 이 전 의원에게 징역 2년 6개월을, 허 의원과 임 전 의원에게 징역 1년을 각각 구형한 상태다.&lt;br&gt;&lt;br&gt;배우 유아인(본명 엄홍식)의 마약류 상습 투약 혐의 사건 1심 선고는 9월 3일 이뤄진다.&lt;br&gt;&lt;br&gt;서울고법에선 ‘고발 사주 의혹’으로 1심에서 징역 1년을 선고받은 손준성 대구고검 차장검사에 대한 2심 선고가 오는 9월 6일 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전동킥보드 사고 35%가 무면허... 4명 중 3명 “안전모 안 써요”</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/10/LMQ6KPINVRERBAIKQ3OJBKJAPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/10/LMQ6KPINVRERBAIKQ3OJBKJAPI/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Aug 2024 01:34:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JST2YG4Z7RIHPOMYEKZSWPATD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;따릉이 폭주 연맹(따폭연)이 서울 시내에 집결을 예고한 4일 오후 서울 성동구 성수역 일대에서 경찰들이 사고 예방과 시민 안전확보를 위한 현장 단속을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전동킥보드나 전기자전거 등 개인형이동장치(PM)에 의한 교통사고가 급증하는 가운데, 사고를 낸 이의 35%가 무면허 운전자인 것으로 나타났다.&lt;br&gt;&lt;br&gt;10일 한국도로교통공단 교통과학연구원이 발간한 ‘2024년 교통안전연구’에 실린 ‘개인형 이동장치 교통안전 확보를 위한 정책방향 연구’ 논문에는 이 같은 내용이 담겼다. 연구팀은 2017년부터 2022년까지 전국에서 발생한 개인형이동장치 사고 5860건을 분석했다.&lt;br&gt;&lt;br&gt;분석 결과 20세 미만(32.4%)이 낸 개인형이동장치 교통사고 비율이 가장 높았다. 20대(32.1%), 30대(14.7%), 40대(9.4%), 50대(5.9%), 60대(2.8%), 70세 이상(2.7%) 등 연령이 높아질수록 낮아졌다.&lt;br&gt;&lt;br&gt;개인형이동장치는 ‘제2종 원동기장치자전거면허’ 이상의 면허를 취득해야 이용 가능하다. 그러나 사고의 34.6%(2027건)가 운전면허 미취득자에 의해 일어난 것으로 조사됐다. 무면허로 사고를 낸 운전자는 20세 미만이 67.6%, 20대가 18.6%였다. 연구팀은 “20대 이하를 대상으로 운전면허 취득을 유도해 제도권 내에서 운전자 관리를 할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;개인형이동장치 사고 유형은 차대차(50.5%), 차대사람(38.4%), 차량단독(11.1%) 순이었다. 일반적인 면허차량은 차대차(76.9%) 차대사람(18.9%), 차량단독(4.2%)이다. 연구팀은 “개인형이동장치 운전자가 통행방법을 위반하고 보도로 통행하는 경우가 많기 때문에 차대사람 사고 비율이 높고, 운전미숙 등 이유로 차량단독 사고도 높은 것으로 해석된다”고 분석했다.&lt;br&gt;&lt;br&gt;연구팀은 최근 1년간 개인형이동장치를 쓴 경험이 있는 20세 이상 운전자 100명을 대상으로 설문을 진행한 결과, 이용규칙은 알지만 실천하지 않는 이가 상당한 것으로 나타났다.&lt;br&gt;&lt;br&gt;응답자의 63%는 개인형이동장치 허용도로(자전거 도로·횡단도 등)에 대해 인지하고 있었다. 안전모 착용(97%), 승차 정원 제한(92%) , 음주운전 금지(100%), 전조등 등 등화장치 의무화(54%) 등 대부분 이용 규칙을 알고는 있었다.&lt;br&gt;&lt;br&gt;하지만 이러한 이용 규칙을 지킨다고 답한 이는 적었다. 허용도로를 지키고 안전모를 착용한 채 운전한다고 답한 이가 각각 26%에 불과했다. 승차 정원을 지킨다는 이는 77%, 음주운전 금지 규칙을 지킨다는 이는 82%였다.&lt;br&gt;&lt;br&gt;연구팀은 “싱가포르처럼 기존 운전면허 소지자도 개인형이동장치를 운전하려면 교통안전교육을 이수하도록 하는 등 의무교육을 도입할 필요가 있다”며 “단속 강화를 통해 음주운전, 동승자 탑승 등 법규위반을 적극적으로 관리해야 한다”고 제언했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/JST2YG4Z7RIHPOMYEKZSWPATD4.jpg?width=1899&amp;height=2727&amp;auth=484f2cca8b363be7b738eaf39455273c8fedc829b9b4a57822f97fb014fe92c6&amp;smart=true" type="image/jpeg" height="2727" width="1899">
+        <media:description type="plain">[서울=뉴시스] 이영환 기자 = 따릉이 폭주 연맹(따폭연)이 서울 시내에 집결을 예고한 4일 오후 서울 성동구 성수역 일대에서 경찰들이 사고 예방과 시민 안전확보를 위한 현장 단속을 하고 있다. 2024.08.04. 20hwan@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">20hwan</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“왜 째려봐”...직장 동료에 흉기 휘둘러 다치게 한 50대, 징역 1년</title>
+      <link>https://www.chosun.com/national/regional/2024/08/10/646ECBCWE5FSBPIKCO36QSPMO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/10/646ECBCWE5FSBPIKCO36QSPMO4/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Aug 2024 01:15:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TZFPC3BMUNP3PSYSCKJYB324OQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신을 째려봤다는 이유로 흉기를 휘둘러 직장 동료를 다치게 한 50대가 실형을 선고받았다.&lt;br&gt;&lt;br&gt;청주지법 형사6단독 조현선 부장판사는 특수상해 혐의로 재판에 넘겨진 A(56)씨에게 징역 1년을 선고했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;청주시에서 기간제 공공근로자로 일하던 A씨는 지난 4월 직장 동료인 B(66)씨가 자신을 째려봤다는 이유로 화가 나 욕설을 하며 자신의 승용차에 보관 중이던 흉기를 가져와 B씨에게 휘둘러 다치게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;조 부장판사는 “흉기를 빼앗긴 후에도 계속 피해자를 폭행하는 등 죄질이 불량하다”며 “범행 위험성이 높았고 피해자로부터 용서받지 못한 점 등을 참작했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서현역 흉기 난동 유족들 “상징적 테러 범죄 저지른 최원종에 꼭 사형 내려달라”</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/10/CZHNGGW6CRCUNIN7QMZLXRY5W4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/10/CZHNGGW6CRCUNIN7QMZLXRY5W4/</guid>
+      <dc:creator>박정훈 기자, 김도연 인턴기자(고려대 정치외교학 수료)</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <content:encoded>“재판부는 타 살인 사건과의 형평성을 고려해 무기징역을 선고해야 한다고 하지만 서현역 사건은 1차 차량 돌진, 2차 칼부림에 이어 3차 범행까지 시도하려던 중 붙잡힌 계획적 테러 사건입니다. 이런 범죄를 저지른 피의자마저 사형을 선고받지 않는다면 앞으로 어떤 범죄를 저질러도 사형은 없다는 확신이 생기지 않을까요? 이번 선고가 하나의 터닝포인트가 되길 바랍니다.”(고 김혜빈씨 어머니)&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2Q3T3T6K5JB7DLU2WRNYYXVUWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 8월 3일 발생한 묻지마 범죄인 서현역 칼부림 사건 1주기를 앞두고 지난달 18일 오후 경기 성남시 분당구 AK플라자 분당점 앞에서 희생자 유족들이 당시 범인이 인도로 차를 몰고 난입한 현장을 둘러보고 있다. 현장엔 시민들이 가져다놓은 꽃이 놓여 있었다. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 여름엔 유독 흉악 사건이 많았다. 8월 3일 경기 성남시 분당구 지하철 수인분당선 서현역 인근서 20대 남성이 차를 몰고 인도로 돌진하고 백화점에서 칼을 휘둘러 2명이 죽고 12명이 다치는 일명 서현역 칼부림 사건이 발생했다. 서울 관악구 신림역에서 20대 남성 1명을 살해하고 30대 남성 3명을 다치게 한 신림역 칼부림 사건이 발생한지 2주만이었다. 서현역 사건 2주 뒤엔 신림동 등산로에서 대낮에 강간 살인 사건이 발생했다. 그러나 신림동 칼부림 사건 피의자 조선(34), 신림동 등산로 성폭행 사건의 피의자 최윤종(31)은 1심과 2심에서 검찰이 구형한 사형이 아닌 무기징역을 선고받았다. 서현역 칼부림 사건의 범인 최원종(23)도 1심에서 무기징역을 선고받았고 오는 20일 2심 선고를 기다리고 있다. 검찰은 1심과 마찬가지로 최원종에 사형을 구형했다.&lt;br&gt;&lt;br&gt;지난달 18일 오후 서현역 AK플라자 2층 출입구로부터 100여m 떨어진 고가도로 위. 비가 추적추적 내리는 길가엔 작은 화단과 꽃 몇 송이가 놓여 있었다. 이곳은 바로 1년 전 최원종이 몰은 차에 의해 60대 여성 이희남씨가 치어 숨진 곳. 그로부터 10m 앞에선 20대 여성 김혜빈씨가 역시 최원종의 차에 의해 치어 숨진 곳이 빨간줄로 표시돼 있었다. 이날 이씨의 큰딸 이모(38)씨와 작은딸 이모(34)씨, 김씨의 부친 김모(57)씨와 모친 김모(53)씨는 “평범한 일상이 그날 한순간에 무너졌고 모든 것이 멈춘 기분”이라며 “분당에서 수십년을 살았는데 사고 장소를 지날 때면 1년 전의 끔찍했던 기억이 떠올라 빙 돌아가게 된다”고 트라우마를 호소했다.&lt;br&gt;&lt;br&gt;서현역 사건 유족들은 2심에서 최원종에 꼭 사형이 선고돼야 한다며 재판부가 엄벌을 내려줄 것을 호소했다. 이희남씨 작은딸은 “사형을 집행하지 않는다고 해도 무기징역과 사형이 주는 죄의 무게감은 전혀 다르다”며 “무기징역은 가석방도 가능하기에 종신형도 아니지 않나”고 했다. 김혜빈씨 부친은 “누군가의 인생을 해치면 내 인생도 없다는 믿음이 있어야 한다 “며 “악의를 갖고 사람을 차로 박고 칼로 찌르고 다니기까지 했음에도 강한 처벌이 안 이뤄진다면 되겠나”라고 했다. 그는 또 “이 사건에도 사형선고가 안 내려지면 모든 범죄가 차별화되지 않고 이런 살인이 만연해질 것”이라고 했다. 또 유족들은 “김호중이 음주운전을 내고 도주한 뒤 음주운전 혐의가 적용이 안 된 것을 보고 하나의 사례가 되고 법이 우스워졌다”며 “이번 판결이 앞으로 흉악 범죄 판결들에 있어 하나의 중요한 터닝포인트가 될 것이라 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;이날 유족들은 사고 이후 경기도, 성남시, 분당구 등 지자체에서 1년간 단 한 번도 제대로 된 위로나 사과가 없었다고도 주장했다. 사고 이후 병원에 혼수 상태로 김혜빈씨가 누워있을 때 경기도청에서 직원이 매일 나와 김씨 상태를 물었지만 정작 도지사가 병원에 직접 와보거나 연락한 적은 없다고 했다. 그 외 기초단체장이나 국회의원 등도 모두 장례식장에 보내달란 적 없는 깃발만 보내고 실제로 찾아온 사람은 극히 드물었다고 했다. 유족들은 특히 최근 시청역 사고 이후 오세훈 서울시장이 나서 유족과 피해자들에 대한 지원을 하는 것을 보고 일종의 박탈감을 느꼈다고도 했다. 김혜빈씨 모친은 “지자체에서는 법적 근거가 없어 지원을 해줄 수 없다는 말만 되풀이했다”며 “지방 분권 시대라면서 특별시민만 시민인가”라고 했다.&lt;br&gt;&lt;br&gt;이들은 누군가에 피해를 입히면 그에 합당한 벌을 받는다는 것을 재판부가 보여주길 바란다고 했다. 이희남씨 작은딸은 “인도에서 빠른 속도로 차를 몰고와 사람을 친 잔혹한 사건에 대해서도 사형이 내려지지 않으면 대한민국은 안전한 사회가 아닐 것”이라고 했다. 김혜빈씨 부친은 “사건이 터지고 판례들을 찾아보며 느낀 게 감형 요소 등 범죄자에게 유리하게 작용하는 법들이 많다”며 “재판을 진행할수록 이것이 적절한 죄를 묻기 위한 절차인지, 감형을 위한 절차인지 헷갈린다”고 했다.&lt;br&gt;&lt;br&gt;마지막으로 유족들은 가족들의 희생이 헛되지 않고 더 공정한 사회를 위한 초석이 되길 바란다고 했다. 이희남씨 작은딸은 “우리 어머니와 혜빈씨의 죽음이 사회가 더 나은 방향으로 변화하도록 밑거름이 됐음 해 인터뷰에 응했다”고 했다. 김혜빈씨 모친은 “유족들이 이 사건 사형 선고를 위해 어떤 노력들을 했는지 기록으로 남기고 싶다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>통영 가왕도 앞바다서 어선·유조선 충돌…6명 부상, 기름 유출 없어</title>
+      <link>https://www.chosun.com/national/regional/2024/08/10/MGJN6GPVKJA3ZNGMTCKLJYRHXU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/10/MGJN6GPVKJA3ZNGMTCKLJYRHXU/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Aug 2024 00:29:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6NG7ZPPAFBA75ADMJXNV7TTYFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;통영해경 청사./통영해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 오전 3시 46분쯤 경남 통영시 한산면 가왕도 남서쪽 0.7해리 해상에서 4.99t급 어선과 1461t급 유조선이 충돌하는 사고가 났다.&lt;br&gt;&lt;br&gt;이 사고로 어선에 타고 있던 6명이 다쳐 신고를 받고 출동한 통영해경 경비정을 통해 병원으로 이송됐다. 부상자들은 생명에는 지장이 없는 상태로 알려졌다.&lt;br&gt;&lt;br&gt;선박 충돌로 인한 기름 유출 등 해양 오염은 발생하지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;해경은 양측 선박의 승선원을 상대로 구체적인 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>낮 최고 35도 무더위... 한때 소나기 내리는 곳도</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/10/PW562NZPRBGKJKC55EOZQO6NXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/10/PW562NZPRBGKJKC55EOZQO6NXY/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Aug 2024 00:21:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YIMBVWH2UZMZFABLILS2ZR2QDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무더운 날씨가 이어지는 8일 오후 광주 북구 신용근린공원에 설치된 바닥분수에서 어린이들이 더위를 식히고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 10일 전국 대부분 지역에서 무더위가 기승을 부리는 가운데 소나기가 내리는 곳도 있겠다.&lt;br&gt;&lt;br&gt;이날 오전부터 저녁 사이 전라권과 경남서부내륙, 제주도에 소나기가 내리는 곳이 있겠다. 오후부터 밤 사이에는 수도권과 강원내륙·산지, 충청권에 소나기가 내릴 것으로 예측됐다.&lt;br&gt;&lt;br&gt;소나기 예상 강수량은 서울·인천·경기, 대전·세종·충남, 충북, 광주·전남, 전북, 경남서부내륙, 제주도 5∼40mm이고 강원 내륙·산지 5∼20mm다.&lt;br&gt;&lt;br&gt;소나기가 내리는 지역에서는 천둥·번개가 치는 곳이 있겠고 시간당 20mm 내외의 강한 소나기가 내리는 곳도 있겠다.&lt;br&gt;&lt;br&gt;아침 최저기온은 22~27도, 낮 최고기온은 31~35도로 예보됐다. 대부분 지역에서 최고 체감 온도가 35도 내외로 올라 매우 덥겠고 열대야가 나타나는 곳이 많으니 건강관리에 유의해야 한다.&lt;br&gt;&lt;br&gt;미세먼지 농도는 원활한 대기 확산으로 전국이 ‘좋음’~’보통’ 수준을 보이겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YIMBVWH2UZMZFABLILS2ZR2QDI.jpg?width=2551&amp;height=1701&amp;auth=e6ad1630444e0af1533cea14a24cb8eb1b5b04eac45a0e5bf6c1eb4ff0bab344&amp;smart=true" type="image/jpeg" height="1701" width="2551">
+        <media:description type="plain">&lt;YONHAP PHOTO-7357&gt; 바닥분수로 날려 보내는 무더위
+    (광주=연합뉴스) 무더운 날씨가 이어지는 8일 오후 광주 북구 신용근린공원에 설치된 바닥분수에서 어린이들이 더위를 식히고 있다. 북구는 일곡·신용·우산·중외·들샘 공원 등 5곳의 근린공원에 설치한 바닥분수를 운영 중이다. 2024.8.8 [광주 북구 제공. 재판매 및 DB 금지]
+    daum@yna.co.kr/2024-08-08 14:37:22/
+&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">광주전남취재본부</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“페이백 해준다”...휴대폰 대금 4400만원 가로챈 판매점주 법정구속</title>
+      <link>https://www.chosun.com/national/regional/2024/08/10/4FKTPQWGGFD33D72NVWOUT3FIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/10/4FKTPQWGGFD33D72NVWOUT3FIY/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Aug 2024 00:27:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOIPX7HDNFCOHOGTNKRO6EMBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“휴대전화 단말기 값을 일부 돌려주겠다”며 무리한 페이백 돌려막기를 하다가 고객 30여명의 단말기 대금 4400여만원을 받아 가로챈 판매점주가 징역형을 선고받고 법정구속됐다.&lt;br&gt;&lt;br&gt;춘천지법 원주지원 형사2단독 박현진 부장판사는 사기 혐의로 불구속 기소된 A(34)씨에게 징역 6개월을 선고하고 법정구속했다고 10일 밝혔다. 또 5명의 피해자에게 각각 30여만∼190여만원을 각각 배상하라고 명령했다.&lt;br&gt;&lt;br&gt;원주시에서 휴대전화 판매점을 운영한 A씨는 2020년 2월부터 2023년 1월까지 30여명의 고객에게 휴대전화 단말기 가격을 현금으로 완납하면 일부 금액을 페이백 방식으로 돌려주겠다고 속이고 총 4451만원을 받아 가로챈 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 고객을 상대로 무리한 페이백 이벤트를 진행하다 고객들에게 반환할 금액이 누적됐음에도 돌려막기 방식으로 범행한 것으로 조사됐다. 피해자들에게 휴대전화 단말기 대금을 받은 A씨는 이를 다른 고객 단말기 대금 반환금으로 쓰거나 휴대전화 단말기 도매업체 정산금 등으로 사용했다.&lt;br&gt;&lt;br&gt;A씨에게 속아 휴대전화 단말기를 구매한 일부 고객들은 할부금 등이 완납 처리되지 않는 등의 피해를 본 것으로 파악됐다.&lt;br&gt;&lt;br&gt;박 부장판사는 “휴대전화를 판매하며 30명 이상의 고객을 상대로 단말기 대금 4400만원을 편취해 신뢰를 저버렸고 피해보상도 이뤄지지 않은 점을 고려해 실형 선고가 불가피하다”고 판시했다.&lt;br&gt;&lt;br&gt;1심 판결에 불복한 A씨와 검찰은 모두 ‘양형 부당’을 이유로 항소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>창원서 수배자 체포 전 도주…검경, 행방 추적 중</title>
+      <link>https://www.chosun.com/national/regional/2024/08/10/3CAW62MIVFEC7O42J6IGSLQFJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/10/3CAW62MIVFEC7O42J6IGSLQFJ4/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Aug 2024 00:13:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BL4S26XMEWKMKEK75QRH6T35XA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구속집행정지 기간 만료 후 도주해 수배됐던 남성이 체포 직전 흉기를 들고 여자친구와 달아나 경찰이 행방을 추적 중이다. 함께 달아났던 여자친구는 경찰에서 참고인 조사를 받고 귀가했다.&lt;br&gt;&lt;br&gt;10일 경찰에 따르면 전날 오후 8시 37분쯤 경남 창원시 성산구 상남동 유흥가 한 모텔 앞에서 40대 남성 A씨가 흉기를 들고 함께 있던 여성 B씨와 차를 타고 달아났다. 검찰 수배자인 A씨는 검찰 수사관들이 체포하려고 모텔에 들이닥치자 흉기를 들고 B씨와 함께 모텔을 빠져나와 도주했다.&lt;br&gt;&lt;br&gt;이후 B씨는 모텔에 두고 온 휴대전화와 옷가지를 챙기려고 혼자 모텔을 다시 찾았다가 공조 요청을 받은 경찰에 붙잡혔다. A씨의 연인으로 알려진 B씨는 이 모텔에 투숙해온 것으로 파악됐다. B씨는 이날 오전 2시 40분쯤 경찰에서 참고인 조사를 받고 귀가했다.&lt;br&gt;&lt;br&gt;중범죄를 저질러 구속됐던 A씨는 건강상 이유로 구속집행정지 허가를 받고 풀려났다가 지난 4월 말 교도소로 복귀해야 했지만 복귀하지 않고 도주생활을 해온 것으로 조사됐다. A씨는 전자장치 부착에 관한 법률에 따라 전자장치를 부착하고 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰과 경찰은 달아난 A씨를 검거하기 위해 행방을 추적하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“할아버지 장례비 없어서”...지인 속여 6600만원 뜯은 20대 여성 ‘징역형’</title>
+      <link>https://www.chosun.com/national/regional/2024/08/10/SGGWJEJIDBAGVALU2LP6CLX2MM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/10/SGGWJEJIDBAGVALU2LP6CLX2MM/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Aug 2024 00:20:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOIPX7HDNFCOHOGTNKRO6EMBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;할아버지 장례식을 치를 비용이 없다는 등 거짓말을 하며 지인에게 돈을 받아 가로챈 20대 여성이 실형을 선고받았다.&lt;br&gt;&lt;br&gt;10일 지역 법조계에 따르면 대전지법 형사1단독 송선양 판사는 사기 혐의로 기소된 A(28)씨에게 징역 6개월을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2019년 9월 피해자 B씨에게 전화를 걸어 “모아 놓은 생활비를 친척들이 들고 도망가 할아버지 장례식 비용이 없어 돈이 필요하다”는 취지로 거짓말해 1200만원을 받아 가로챈 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;조사 결과 A씨의 조부는 2010년에 이미 사망해 장례를 치를 필요가 없었고, 받은 돈을 개인 채무 변제 등에 사용할 목적이었던 것으로 조사됐다. 범행은 이듬해 3월 11일까지 이어졌다. A씨는 ‘동생 학비가 필요하다’거나 ‘가족이 아프다’고 속여 B씨를 상대로 12회에 걸쳐 총 6675만원을 편취한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;앞서 A씨는 충북 청주 한 유흥업소에서 종업원으로 일하던 중 손님으로 만난 B씨가 자신에게 호감을 갖게 되자 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;송 판사는 “반성하는 태도를 보이고 있고 피해자에게 변제를 위해 1000만원을 공탁한 점은 유리한 정상”이라며 “다만 신뢰 관계를 이용해 피해자 돈을 편취해 죄질이 불량한 점, 피해자가 엄벌을 탄원하는 점, 이 범행으로 피해자가 경제적인 어려움을 겪는 점 등을 고려했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘경찰도 소름이 쫙’ 폭우속 부서진 우산 쓰고 순찰차로 다가온 남성, 왜?</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/10/I76IRA3QLVHMJMAFUY6RIK45VY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/10/I76IRA3QLVHMJMAFUY6RIK45VY/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Aug 2024 23:24:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZZSOGZSVR5HNBM2CEQNBWAF7ZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 순찰차에 접근하는 모습. /경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;치매 증상이 있는 80대 남성이 폭우가 쏟아지는 늦은 밤에 실종됐다가 경찰의 도움으로 무사히 가족 품에 돌아간 사연이 알려졌다.&lt;br&gt;&lt;br&gt;지난 9일 경찰청은 공식 유튜브 채널을 통해 ‘온몸에 소름이 쫙! 경찰차로 다가오는 의문의 남성?’이라는 제목의 영상을 공개했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 지난달 22일 밤 11시쯤 경기 연천군에서 치매 증상이 있는 남편이 외출 후 연락이 되지 않는다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;이날 연천에는 천둥·번개를 동반한 비가 내린 날이었다. 이날 하루 누적 강수량만 115㎜에 달했다. 경찰이 공개한 영상을 보면 쉴 새 없이 순찰차의 와이퍼를 작동시켜도 빗물 때문에 앞이 잘 보이지 않을 정도였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AFJVUWVBPJDCJA25HQNNVI3SYE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 순찰차로 다가오는 모습. /경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신고를 접수한 경찰은 신속히 실종된 A씨의 휴대전화 위치를 조회한 후 현장으로 출동했다.&lt;br&gt;&lt;br&gt;그런데 현장에 도착하니 도로 한복판에서 정장 차림에 부서진 우산을 쓴 한 남성이 순찰차 쪽으로 걸어오기 시작했다. 남성은 온몸이 젖어있었고, 역방향으로 도로를 걷고 있었다. 경찰이 확인해 보니 이 남성은 실종된 A씨였다.&lt;br&gt;&lt;br&gt;경찰은 즉각 A씨를 차량에 태워 젖은 몸을 말릴 수 있게 조치했고, 주거지 관할 경찰관에게 연락해 접선 장소에서 그를 인계했다. A씨는 다행히 다친 곳 없이 무사히 가족에게 돌아갔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/AFJVUWVBPJDCJA25HQNNVI3SYE.gif?width=1239&amp;height=802&amp;auth=ff482c1bb220fa6091e7a0fc0f0bacb445258e1387c611b5ad4da9a95024bed4&amp;smart=true" type="image/jpeg" height="802" width="1239">
+        <media:description type="plain">A씨가 순찰차로 다가오는 모습. /경찰청 유튜브</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>[단독] 봉투째 업체 넘기고 “재활용률 100%”... 쓰레기의 거짓말</title>
       <link>https://www.chosun.com/national/transport-environment/2024/08/10/KHA25BVRBJB3THU4HPXULFCF7U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/08/10/KHA25BVRBJB3THU4HPXULFCF7U/</guid>
@@ -772,24 +903,6 @@
       <content:encoded>키 161cm, 몸무게 43kg의 40대 청년이 서울 강남구 자택 거실에 누워있었다. 컴퓨터 화면을 바라보고 있었지만, 미동도 없었다. 간간이 ‘쉭쉭’ 소리만 들렸다. 목에 구멍을 내고 꽂은 인공 호흡기가 그가 숨 쉬도록 도와주고 있었다. 가까이 다가가자 컴퓨터 화면에 “안녕하세요. 반갑습니다”라는 글자가 한 자씩 나타났다. 눈을 움직이거나 깜빡여 사용하는 ‘안구 마우스’로 말을 건 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LGRZMO4OMRANDAJUOCIDDFJKAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 서울 강남구 신형진(41)씨 자택 거실에서 신씨가 모니터 아래 달린 안구 마우스를 이용해 코딩을 하고 있다. 서울 낮 최고기온이 33도를 웃돈 이날 신씨 자택에서는 에어컨 대신 선풍기를 켰다. 신씨에게는 폐렴으로 이어질 수 있는 감기가 가장 위험하기 때문이다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;척수성근위축증 환자 신형진(41)씨는 오는 24일 7년 동안 모은 3000만원을 서울 강남세브란스병원 호흡재활센터에 기부한다. 신씨가 6년 만에 퇴원한 2006년 8월 24일을 기념해 기부를 결정했다. 지난 7일 만난 신씨는 “그동안 급여를 틈틈이 저축해 모았다”며 “이 돈을 어디에 쓰면 가장 의미 있고, 하나님이 기뻐하실지 고민해 보니 호흡 재활 치료에 작게나마 보탬이 되는 게 가장 좋겠다는 생각이 들었다”고 했다.&lt;br&gt;&lt;br&gt;척수성근위축증 환자들은 온몸의 근육이 태어날 때부터 평생에 걸쳐 천천히 마비된다. 그러다 호흡기 근육까지 마비되면 인공 호흡기에 의존하면서 병원에서 남은 생을 보내야 한다. 그러나 신씨처럼 호흡 재활을 받은 환자들은 필요할 때만 인공 호흡기를 사용하면서 병원 바깥에서 자신이 하고 싶은 일을 하며 살 수 있다.&lt;br&gt;&lt;br&gt;신씨는 돌이 됐을 무렵 “1년 이상 살기 힘들다”는 판정을 받았지만, 부모와 의료진의 노력으로 연세대 컴퓨터과학과 학부를 졸업하고 석·박사 통합 과정까지 수료했다. 지난 2017년에는 대학원 후배와 ‘애니메이션계 넷플릭스’라고 불리는 국내 1위 애니메이션 OTT(동영상 스트리밍) 회사 ‘라프텔’을 공동 창업했다.&lt;br&gt;&lt;br&gt;척수성근위축증 환자 신형진(41)씨는 안구 마우스를 이용해 기자에게 인사를 건네자마자, 서둘러 코딩 프로그램을 열고 쉴 새 없이 눈을 깜빡였다. 신씨는 애니메이션 OTT ‘라프텔’에서 데이터 사이언티스트로 일하고 있다. 라프텔 이용자들이 성별, 연령 등 특성에 따라 어떤 애니메이션을 많이 봤는지 등을 분석해 다른 직원들이 쓸 만한 유용한 정보를 얻어내는 역할이다. 이용자별로 애니메이션을 추천해주는 알고리즘 개발에 있어서도 필수적인 업무다. 신씨는 오전 9시부터 밤 12시까지 밤낮없이 일한다. 회의가 있는 날에는 카메라를 켜고 화상 회의에 참가하기도 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4CV6R25OIBHR3BPQD7KXEETXME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손발이 되어준 어머니와 함께 - 신형진(왼쪽)씨는 돌 무렵 척수성근위축증 진단을 받아 41년 동안 침상에서 일어나지 못했지만, IT 기업을 창업해 번 3000만원을 강남세브란스병원에 기부했다. 그의 곁에 모친 이원옥(오른쪽)씨가 항상 함께하고 있다. 2010년 5월 서울 신촌동 연세대 교정에서 이듬해 2월 졸업을 앞두고 졸업 사진을 찍은 신씨와 이씨가 밝은 표정을 짓고 있다. /이원옥씨 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신씨의 라프텔 창업은 한 대학원 후배의 ‘폭탄 선언’에서 시작됐다. 지난 2014년 어느 날 신씨의 필기 도우미였던 후배가 “대학원을 그만두겠다”고 한 것이다. 이어 “만화 분야로 창업할 건데 형도 같이 하자”고 제안했다. 그가 바로 라프텔 창업주 김범준씨다. 당시 신씨는 ‘공부만 하는 것도 벅찬데 내가 밑바닥부터 회사 생활을 할 수 있을까?’라는 걱정이 앞섰다고 한다. 하지만 IT와 만화 모두 신씨가 좋아하는 분야였기에 공동 창업자로 합류해 지금까지 왔다.&lt;br&gt;&lt;br&gt;다른 공동 창업자 중에는 신씨의 대학 동문 후배인 박종원 라프텔 대표가 있다. 박 대표는 하반신 마비 장애인이다. 둘은 연세대 내 장애인 학생을 위한 휴게 공간에서 자주 만났다. 애니메이션을 좋아한다는 공통점도 있었다. 라프텔에는 신씨가 가장 좋아하는 애니메이션 ‘명탐정 코난’을 포함해 신씨와 박 대표 같은 애니메이션 ‘덕후’들이 엄선한 애니메이션을 3000편 넘게 볼 수 있다. 지난해 국내 OTT 중 유일하게 흑자(24억원)를 보기도 했다. 라프텔이라는 회사 이름도 유명 애니메이션 ‘원피스’에 나오는 섬 이름에서 따왔다.&lt;br&gt;&lt;br&gt;모친 이원옥(77)씨의 희생과 노력이 지금의 신씨를 만들었다. 신씨의 초·중·고 시절, 이씨는 아들과 함께 매일 등교했다. 쉬는 시간이 되면 신씨 휠체어를 끌고 보건실로 가 산소 호흡기를 대줬다. 시험을 볼 때는 어머니와 아들이 복도로 나왔다. 손을 쓸 수 없는 아들이 답을 부르면 어머니가 받아 적었다. 신씨가 대학에 다닐 때는 공대생 아들의 학업을 돕기 위해 밤마다 어려운 수학 기호를 달달 외웠다. 매일 아들과 휠체어를 차에 싣고 내리기를 반복하다 보니 10년 전쯤에는 척추관 협착증을 진단받았다. 척추 신경이 지나는 통로인 척추관이 좁아지는 병이다. 목과 허리가 뻐근해 이씨는 절뚝거리면서 걷지만, 그는 이 병은 신씨를&lt;b&gt; &lt;/b&gt;잘 길러낸 훈장이라고 했다.&lt;br&gt;&lt;br&gt;주변 사람들의 배려도 많았다. 초등학교 때는 같은 반 친구들에게 학용품 선물을 많이 받았다. 대학교에 다닐 때는 신씨 도우미를 자처하는 학생이 많아 한 달씩 돌아가며 한 적도 있다고 한다. 그가 연세대 소프트웨어응용연구소에서 근무했을 때는 학교 측 배려로 매일 출근하지 않고 일주일에 한두 번만 연구소에 나와 회의에 참석할 수 있었다. 연구 과제는 주로 재택근무로 했다. 휠체어를 타고 다니는 신씨를 위해 연구소 건물 1층에 연구 공간을 따로 마련해주기도 했다.&lt;br&gt;&lt;br&gt;보답의 의미로 신씨 부모님은 지금까지 연세대학교와 강남세브란스병원에 각각 10억원씩을 기부했다. 그러나 신씨가 직접 번 돈을 기부하는 것은 이번이 처음이다. 강남세브란스병원 호흡재활센터에서 치료를 받은 환자가 직접 번 돈을 기부하는 것도 처음이라고 한다. 신씨의 주치의였던 강성웅 호흡재활센터 소장은 “말로 할 수 없을 정도로 기쁘다”며 “이번 기부금은 형진이 뜻대로 중증 호흡 환자들 치료에 쓰일 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;신씨는 “부모님께 효도하고 제가 받은 사랑을 주변에도 흘려 보내주는 사람이 되고 싶다”며 “삶이 비록 어려움의 연속이지만 다른 환우분들도 포기하지 않으셨으면 한다. 그러면 분명 좋은 날이 올 것이라 믿는다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>전기차가 내연차보다 불 잘 난다는데… 진실일까</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/09/DN2PSUQWJNDQLPCL4PVQ5PK2Z4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/09/DN2PSUQWJNDQLPCL4PVQ5PK2Z4/</guid>
-      <dc:creator>이영관 기자, 정한국 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Aug 2024 15:58:43 +0000</pubDate>
-      <content:encoded>지난 1일 인천 청라의 한 아파트 지하 주차장에 서 있던 벤츠 전기차에서 시작된 대형 화재로 ‘전기차 공포증’에 대한 우려가 커지고 있다. 사고 일주일이 지나도록 경찰과 소방 당국은 애초에 전기차에서 불이 난 원인이 무엇인지, 주변 차량 140여 대를 태울 만큼 피해가 커진 까닭 등을 조사하고 있다. 주차장 스프링클러가 작동하지 않은 사실이 밝혀졌지만, 근본적인 화재 원인에 대한 뚜렷한 해답은 아직 나오지 않고 있다. 자동차·배터리 업계 안팎의 전문가들 도움을 받아 이번 사고를 둘러싼 궁금증을 정리해 봤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6IHPLVPCXZC7PEX3I4MDEBN6JY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;독일에서 온 벤츠 본사 직원들도 감식 참여 - 8일 인천 서구의 한 차량 정비소에서 지난 1일 아파트 단지 주차장에서 불이 난 벤츠 전기차에 대한 합동 감식이 이뤄지고 있다. 지난 5일에 이어 두 번째다. 벤츠 독일 본사에서 파견된 직원들도 이날 감식을 참관했다. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;Q1. 전기차가 불이 더 자주 나나?&lt;br&gt;&lt;br&gt;전기차 화재가 늘고 있는 것은 사실이다. 2018년 자동차 1만대당 화재 건수는 전기차 0.4건, 내연차 2.2건이었다. 그러나 작년엔 전기차가 1.3건으로 약 3배가 된 반면, 내연차는 1.9건으로 14% 줄었다. 특히 소비자들이 전기차를 더 불안하게 느끼는 것은 전기차는 제작·판매한 지 오래되지 않아 상대적으로 ‘새 차’가 많은데도 불이 나는 빈도가 잦아지기 때문이다. 반대로 내연차는 노후 차를 조기 폐차할 때 지원금을 주는 정책 등으로 연식이 오래된 차량이 줄면서 화재 비율도 낮아졌다는 분석이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WMHWTILBWFESRIWJMPWSTLOOUM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;Q2. 전기차는 불 끄기가 훨씬 어렵다는데?&lt;br&gt;&lt;br&gt;그렇다. 전기차 배터리는 손상을 막기 위해 단단한 금속으로 둘러싸 놓아 불이 붙었을 때 발화 지점에 직접 물을 부어 끄기가 어렵다. 또 한번 불이 붙으면 주변 온도가 급격히 오르는 ‘열 폭주’ 현상이 나타나면서 배터리를 모두 태울 때까지 화재가 이어지는 게 일반적이다. 내연차 화재를 1시간 안에 진압할 수 있다면 같은 규모의 전기차 화재를 진압하는 데 7~8시간이 걸리는 것으로 알려졌다. 그러나 진압이 아예 불가능한 건 아니다. 작년 7월 경기도소방재난본부가 실시한 전기차 화재 진압 시연회에서 당시 조선호 본부장은 “전기차라고 초기 진화나 불 확산을 막는 게 내연차보다 더 어려운 것은 아니다”라고 했다. 전기차를 물에 빠뜨려 불을 끄는 ‘소화 수조’, 이불처럼 차를 덮어 공기를 차단하는 ‘질식 소화포’ 등을 쓰면 된다는 것이다. 지난 5월 한국토지주택공사(LH)가 발표한 연구도 스프링클러만 정상 작동해도 전기차 화재가 인접 차량으로 옮겨붙는 것을 막는 데 효과가 있다는 내용이 담겼다.&lt;br&gt;&lt;br&gt;Q3. 주차 중 전기차 화재는 이례적이라고 하는데?&lt;br&gt;&lt;br&gt;청라에서 불이 난 벤츠 전기차는 충전 중이 아닌 주차 상태였다. 그간 전기차는 배터리를 과도하게 충전하는 ‘과(過)충전’ 상태에서 화재가 자주 나는 것으로 알려졌다. 충전이 끝났는데도 전기가 계속 공급될 경우 자칫 배터리 내부 압력이 높아져 부풀어 오르거나 분리막이 손상돼 화재로 이어질 수 있다는 것이다.&lt;br&gt;&lt;br&gt;하지만 주차 중에도 전기차에 불이 날 수는 있다. 배터리는 양극재과 음극재, 그리고 전자의 이동 통로인 전해액, 합성수지로 만든 분리막이 기본 구조다. 양극재와 음극재를 나누는 분리막이 전기차 운행 중에 손상을 입으면 주차된 상태에서 양극재와 음극재가 섞여 열이 발생하면서 화재로 이어지는 사례가 많다는 것이다.&lt;br&gt;&lt;br&gt;소방청에 따르면, 2018년부터 작년의 전기차 화재 160건 중 28.8%가 주차 중 일어났다. 운행 중(46.9%)에 가장 많이 불이 났고, 주차 중이 2위, 충전 중(18.8%)은 그다음이었다. 화재 원인으로만 볼 때 과충전이 가장 위험한 게 아닌 셈이다.&lt;br&gt;&lt;br&gt;또 배터리의 열을 식히는 냉각수가 새거나, 배터리 내부에 이물질이 생기는 등의 결함 가능성도 화재 원인으로 거론된다. 문학훈 오산대 미래전기자동차학과 교수는 “전기차는 배터리 내부에서 화학반응이 계속해서 일어나고 있기 때문에, 충전 중이 아니더라도 미세한 변화로 화재가 발생할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;Q4. 자동차-배터리 업체 중 누구 책임이 큰가?&lt;br&gt;&lt;br&gt;불이 난 벤츠 전기차에는 우리에겐 낯선 세계 10위권 중국 파라시스의 배터리가 장착된 것이 알려지면서 중국산 배터리에 대한 불안이 커졌다. 중국을 제외한 글로벌 시장 점유율(사용량)이 작년 기준 1.6%에 그친 회사라 충분히 실력이 증명되지 않은 것 아니냐는 것이다.&lt;br&gt;&lt;br&gt;그러나 자동차 업계에서는 “배터리 안전성은 최종적으론 자동차 회사 책임”이라는 의견이 많다. 전기차를 개발하는 과정에서 차의 특성에 맞는 사양을 정해서 주문하는 데다가 배터리가 차에서 제대로 작동하고 안전성을 높이는 시스템도 자동차 회사가 제어·개발하기 때문이다. 2021년 현대차 전기차 리콜 때도, LG에너지솔루션의 배터리셀 일부 불량 가능성이 확인됐지만 현대차도 전체 리콜 비용의 30%를 부담했다. 한 완성차 업체 관계자는 “중국 배터리가 아무리 저렴해도 최소한 성능·안전 요건을 갖췄다고 판단했기 때문에 채택했을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;이번 화재처럼 배터리가 모두 타 버린 경우에는 배터리 결함인지, 자동차 회사의 시스템 문제인지 등이 명백하게 드러나기 어렵다. 그래서 자동차 회사와 배터리 기업의 책임 공방이 종종 벌어진다. 아예 최근 자동차 회사들은 배터리 제작 기술을 스스로 연구하고 배터리 제조사의 생산·개발 과정에도 깊숙이 개입하는 추세다.&lt;br&gt;&lt;br&gt;Q5. 전기차 화재 대책은 부족했나?&lt;br&gt;&lt;br&gt;국내 첫 전기차 화재는 지난 2017년이었다. 그런 만큼 대비가 부족한 것이 사실이다. 전기차 전환이 본격화된 지 오래되지 않은 만큼 해외에서도 우리 소방 당국과 유사한 방식 외에 크게 차별화한 전기차 화재 대응 방안은 찾기 어렵다.&lt;br&gt;&lt;br&gt;그러나 한국은 전국 주택 중 아파트 비율이 65%에 달하고, 요즘엔 지상 주차장이 아예 없는 단지도 많다. 충전기도 지하 주차장에 비치된 경우가 다수라, 지상에서만 전기차를 충전하고 주차하기가 현실적으로 어렵다. 화재 때 소방차 진입에 시간이 걸린다는 지적이 많아 소비자 불안감이 더 커지고 있다. 전문가들은 이번 청라 화재를 계기로 이런 현실을 극복할 더욱 촘촘한 대책이 필요하다고 지적한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>화재車 배터리 분리해 국과수가 결함 따진다</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/09/TPXIPV3C6VHTJEDVSTX4IHFCDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/09/TPXIPV3C6VHTJEDVSTX4IHFCDA/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Aug 2024 15:58:05 +0000</pubDate>
-      <content:encoded>지난 1일 인천 아파트 지하 주차장에서 발생한 전기차 화재 사고의 원인을 조사 중인 경찰이 8일 처음 불이 난 벤츠 EQE350 전기차에 대해 합동 감식을 실시했다. 지난 5일에 이어 두 번째다. 차량 제조사인 벤츠 측도 참여했다.&lt;br&gt;&lt;br&gt;이날 경찰은 화재의 원인으로 지목되고 있는 배터리를 집중적으로 살폈다. 불이 난 벤츠 전기차에는 중국 기업 ‘파라시스’가 만든 배터리가 장착돼 있다.&lt;br&gt;&lt;br&gt;경찰은 배터리팩 안에 있는 ‘배터리 관리 장치(BMU)’를 국립과학수사연구원에 보냈다. 국과수는 이 장치를 정밀 분석할 예정이다. 배터리 관리 장치는 배터리의 온도, 전압 등을 측정해 배터리가 최적의 성능을 낼 수 있게 조절하는 역할을 한다. 경찰 관계자는 “배터리 관리 장치를 분석하면 사고 당시 배터리의 충전 상태, 온도 등을 파악할 수 있을 것”이라고 했다. 수사도 인천 서부경찰서에서 인천경찰청으로 넘길 계획이다.&lt;br&gt;&lt;br&gt;소방 당국은 사고 당시 전기차 주변의 스프링클러가 작동하지 않은 사실을 확인하고 그 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;불이 난 아파트 지하 주차장에 설치된 스프링클러는 ‘준비 작동식’으로 2개 이상 센서에 화재가 감지될 경우 배관에 물을 공급해 뿌린다. 평상시 배관에 물이 차 있지 않아 누수나 동파 위험은 작지만, 센서에 문제가 생기면 스프링클러가 제 역할을 하지 못할 수 있다.&lt;br&gt;&lt;br&gt;한편, 화재 당시 작동하지 않은 전기차 주변 스프링클러가 두 달 전 아파트 자체 점검 때는 적합 판정을 받은 것으로 알려졌다. 자체 점검은 소방시설관리사 등을 통해 1년에 한 번 이상 실시한다. 그 결과는 소방 당국에 제출해야 한다. 소방 관계자는 “자체 점검 과정에 문제가 없었는지도 조사하고 있다”고 했다.&lt;br&gt;&lt;br&gt;화재 사고 당시 차량 140여 대가 불타고 주민 등 23명이 연기를 마셔 병원으로 이송됐다. 화염으로 수도 배관과 전기 설비 등이 녹아 수돗물과 전기 공급도 끊겼다. 소방 관계자는 “스프링클러만 정상 작동했어도 피해를 줄일 수 있었을 것”이라고 했다&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>카카오 김범수… 檢, 구속 기소</title>
       <link>https://www.chosun.com/national/court_law/2024/08/09/6VRH42CRS5ET5P53M42C22GHYU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/09/6VRH42CRS5ET5P53M42C22GHYU/</guid>
@@ -797,14 +910,6 @@
       <description/>
       <pubDate>Thu, 08 Aug 2024 15:45:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DWDEPBEMTRHGXD4BB6XOGSYK7M.jpg"&gt;&lt;br&gt;&lt;br&gt;카카오 창업주인 김범수 경영쇄신위원장이 2400억원 규모의 SM엔터테인먼트(SM) 주가를 조작한 혐의로 8일 재판에 넘겨졌다. 서울남부지검 금융조사2부(부장 장대규)는 자본시장법 위반(시세조종) 등의 혐의로 김 위원장을 구소 기소하고, 홍은택 전 카카오 대표와 김성수 전 카카오엔터테인먼트 대표는 불구속 기소했다. 카카오엔터도 법인을 함께 처벌하는 양벌규정에 따라 재판에 넘겼다.&lt;br&gt;&lt;br&gt;김 위원장 등은 작년 2월 28일 카카오와 카카오엔터 명의로 190차례에 걸쳐 SM 주식 1300억원어치를 사들였다. 앞서 같은 달 16·17·27일엔 사모펀드 운용사 ‘원아시아파트너스’ 명의로 363차례에 걸쳐 1100억원 상당을 매입했다.&lt;br&gt;&lt;br&gt;검찰은 김 위원장이 경쟁사인 하이브의 SM 인수를 막기 위해 공개매수 가격보다 높게 고정하는 방식으로 SM 시세를 조종했다고 보고 있다.&lt;br&gt;&lt;br&gt;카카오는 작년 2월 7일 SM과 신주 및 전환사채 인수 계약을 맺고, SM 지분 약 9.05%(1주당 9만1000원)를 싸게 확보하려고 했다. 2022년 말 기준 부채 1조5518억원, 당기순손실 4380억원을 기록한 카카오엔터의 경영상 어려움을 해소하기 위해서였다.&lt;br&gt;&lt;br&gt;카카오의 계획은 SM 창업주인 이수만 전 총괄프로듀서가 카카오의 주식 인수 중지 가처분 신청을 하면서 차질이 생겼다. 이즈음 하이브가 시세보다 높은 12만원을 공개매수가로 제시한 뒤 장외에서 SM 지분 확보에 나서자 카카오의 시세조종이 이뤄진 것이다.&lt;br&gt;&lt;br&gt;검찰은 이런 시세조종이 김 위원장 지시로 이뤄졌고, 수사에 앞서 카카오 임직원들이 입을 맞추고, 대책을 논의한 대화방을 삭제한 사실을 파악한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>벼 사이로… 가을이 오는 소리</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/09/MDFO3BC35VBOFIVWCBVB23QW2Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/09/MDFO3BC35VBOFIVWCBVB23QW2Y/</guid>
-      <description/>
-      <pubDate>Thu, 08 Aug 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PXING35OORF2RG4SM6DKC2B24I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 오후 전남 고흥군 고흥읍의 논에서 농민이 농기계를 이용해 벼를 수확하고 있다. 찜통더위와 열대야가 이어지고 있지만 지난 7일 절기상으로는 가을이 시작된다는 입추(立秋)를 지났다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>말도 못하고… 이 더위에 사람보다 힘든 가축들</title>
@@ -825,80 +930,6 @@
       <content:encoded>한국철도공사(코레일)는 올해 추석 열차 승차권 예매가 오는 19일부터 시작된다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;올해 추석 승차권 예매 대상은 다음 달 13일부터 18일까지 운행하는 KTX·ITX-새마을·무궁화호 열차다. 경로(만 65세 이상)·장애인·국가유공자(교통 지원 대상) 등 교통 약자는 19일 오전 9시부터 예약을 진행하고, 21일 오전 7시부터는 전 국민 대상 예매가 시작된다.&lt;br&gt;&lt;br&gt;예매는 코레일 앱(스마트폰 프로그램) ‘코레일톡’과 코레일 홈페이지, 전화 접수(1544-8545)를 통해서 가능하다. 온라인 예매의 경우 회원만 가능하기 때문에 사전에 회원 가입 절차를 반드시 거쳐야 한다.&lt;br&gt;&lt;br&gt;교통 약자는 오는 28일까지, 일반 국민은 25일까지 예약한 승차권 결제를 마쳐야 한다. 이때까지 결제하지 않으면 예약이 자동 취소된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문으로 배우는 실용한자] 경자유전(耕者有田)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/08/09/4Z2GA26DTVE45HUH4V6HKQU4ZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/08/09/4Z2GA26DTVE45HUH4V6HKQU4ZM/</guid>
-      <description/>
-      <pubDate>Thu, 08 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2SXAF27FDVFS7MDAPZQRC7CCHA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 입을 다물다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/08/09/SOIOCPKZQBHNRK2RPUJNYTLBSI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/08/09/SOIOCPKZQBHNRK2RPUJNYTLBSI/</guid>
-      <description/>
-      <pubDate>Thu, 08 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UBMIQNDZJZCJ3EPYMLBI6NO43Y.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 실속은 없으면서 큰소리치다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/08/09/W3ZT4Q4JWNABHPTY7MFMNUURQI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/08/09/W3ZT4Q4JWNABHPTY7MFMNUURQI/</guid>
-      <description/>
-      <pubDate>Thu, 08 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BBOCPQC44JES3P6VUPSZZDU4XM.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] I feel it in my bones.</title>
-      <link>https://www.chosun.com/national/nie/english/2024/08/09/VSVI4FBKRBAFLDDWEOJOPK2DK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/08/09/VSVI4FBKRBAFLDDWEOJOPK2DK4/</guid>
-      <description/>
-      <pubDate>Thu, 08 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YPIRZTEXNBGPTBG3VW2UXZX7VE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2439] 얼굴 삼행시</title>
-      <link>https://www.chosun.com/national/nie/2024/08/09/CACTDYMF3NA4VCA7JQS27CZPTQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/09/CACTDYMF3NA4VCA7JQS27CZPTQ/</guid>
-      <description/>
-      <pubDate>Thu, 08 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XIW57O2IDFHFTLMEL67Y3WSG3I.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>文정부 때 끊겼던 ‘민단 잼버리’ 6년만에 재개… 재일동포 초등생 136명, 한국 역사·문화 체험</title>
-      <link>https://www.chosun.com/national/people/2024/08/09/ZGGAM66ROVB65FCGUHFKRXULQM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/09/ZGGAM66ROVB65FCGUHFKRXULQM/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Aug 2024 15:35:00 +0000</pubDate>
-      <content:encoded>재일 동포 초등학생 136명이 서울에서 모국의 역사·문화를 체험하는 제11회 ‘어린이 잼버리’가 4~7일 서울에서 열렸다. 이 잼버리는 2001년 재일본대한민국민단(민단)이 재외 동포 어린들에게 한국어와 한국 문화를 소개하고 조국의 뿌리를 기억케 하자는 취지로 마련해 격년으로 열리던 행사다.&lt;br&gt;&lt;br&gt;올해 행사는 문재인 정부 시기인 2018년 이후 6년 만에 처음으로 열렸다. 민단 관계자는 “2019년 일본의 소부장(소재·부품·장비) 수출 규제 조치를 시작으로 한일 관계가 급속히 냉각하면서 잼버리 개최가 어려워졌다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3XQQVKG24VDJFORSJV2RIBAFOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 재일본대한민국민단 '어린이 잼버리'행사에 참여한 재일 동포 어린이들이 서울 광화문광장 세종대왕상 앞에서 기념사진을 찍고 있다. /재일본대한민국민단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한성 백제 유적인 송파구 몽촌토성을 지나는 버스에서 인솔자는 “시시하다라는 뜻의 일본어(구다라나이·くだらない)는 ‘백제에 없는 건 시시한 것’이라는 의미가 있다”며 고대 백제와 일본 간 연관성을 설명했다. 이시한(12)군은 일제 강점기 때 일본으로 건너온 증조할머니 이야기를 하며 “할머니 때가 아니라 1000년도 전에 한국인들이 일본으로 왔다는 사실을 처음 알았다”고 했다.&lt;br&gt;&lt;br&gt;홍소나(11)양은 재일한국인기념관에서 2차 세계대전 종전 직후 재일 동포들의 암시장이었던 쓰루하시 시장 모형을 관람했다. 조선인들은 1920년대 중반부터 이곳에 모였고, 해방 후에도 이곳에 남아 한복과 한식 식재료를 팔았다. 한류 붐 이후 쓰루하시 시장은 한국 문화를 체험할 수 있는 관광 명소로 발전했다.&lt;br&gt;&lt;br&gt;홍양은 “부모님의 카페가 있는 쓰루하시 시장이 이전에는 ‘돼지 치는 들판(이카이노·猪飼野)’으로 불렸다는 사실을 처음 알았다”며 “시장이 지금처럼 변하기까지 조상들이 고생을 많이 했을 것 같다”고 말했다. 광화문 이순신 장군 동상을 바라보던 이유마(10)양은 “평소 일본어를 사용하고 일본 학교에 다니다 보니 내가 한국인임을 잊고 살았는데, 한국에 오니 느낌이 다르다”고 말했다. 이양의 할아버지는 평소 “너도, 네 부모도 한국인이다. 잊지 마라”고 자주 말했다고 한다.&lt;br&gt;&lt;br&gt;소도시 오카야마에 산다는 김상내(12)양은 “‘자이니치(재일한인)’들은 대부분 오사카에 몰려 살기 때문에 재일 동포 친구들을 만날 기회가 없었다”면서 “이번 기회로 친구들을 만나서 좋다”고 말했다. 김이중 민단 단장은 “재일 동포 초등학생 잼버리는 학생들이 자신의 뿌리를 찾고 동향 학생들과 화합한다는 점에서 향후 한일 관계와 관계없이 지속돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 보건복지부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/08/09/ERBQTK626FEBZMQRWFZWVZJLPQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/08/09/ERBQTK626FEBZMQRWFZWVZJLPQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Aug 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;b&gt;▲보건복지부&lt;/b&gt;◇과장급 인사▷공공보건정책관실 응급의료과장 송영조▷건강정책국 건강증진과장 정혜은&lt;br&gt;&lt;br&gt;&lt;b&gt;▲인사혁신처&lt;/b&gt;◇과장급 전보▷대변인 정병진▷윤리복무국 윤리정책과장 이영인&lt;br&gt;&lt;br&gt;▲&lt;b&gt;국세청&lt;/b&gt;◇복수직서기관 전보▷심사2담당관실 고주석▷심사2담당관실 전강식▷세정홍보과 이동규▷세원정보과 정해동〈서울지방국세청〉▷징세관실 박재원▷부가가치세과 박순주▷조사1국 조사3과 김지연▷조사2국 조사1과 서철호▷조사2국 조사2과 박성기▷조사3국 조사1과 박권조▷조사3국 조사2과 김일도▷조사4국 조사관리과 임병훈〈중부지방국세청〉▷송무과 김정현〈대전지방국세청〉▷조사2국 조사2과장 최재명〈부산지방국세청〉▷정보화관리팀장 권상수&lt;br&gt;&lt;br&gt;▲&lt;b&gt;중앙대&lt;/b&gt;◇서울캠퍼스▷생활관장 김동완▷기획처 대학성과혁신센터장 신재영◇다빈치캠퍼스▷생활관장 이동연&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 박호준 문경시노인회장 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/08/09/R5JVAY2TSRH2ZO6AOXMS743WOM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/08/09/R5JVAY2TSRH2ZO6AOXMS743WOM/</guid>
-      <description/>
-      <pubDate>Thu, 08 Aug 2024 15:35:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;박호준&lt;/b&gt; 문경시노인회장 별세,&lt;b&gt; 박경출&lt;/b&gt; 대호식품 대표·&lt;b&gt;박경석&lt;/b&gt; 썬레이크푸드 대표 부친상, &lt;b&gt;이동석 &lt;/b&gt;하나은행 팀장·&lt;b&gt;정극원&lt;/b&gt; 대구대 법학부 교수 장인상=8일7시20분 경북 문경장례식장, 발인 10일7시, (054)555-7000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;신익재&lt;/b&gt; 계림원에프앤비 대표 별세, &lt;b&gt;신예지&lt;/b&gt;·&lt;b&gt;신중국&lt;/b&gt; 부친상=7일14시24분 서울성모병원, 발인 10일7시10분, (02)2258-5969&lt;br&gt;&lt;br&gt;▲&lt;b&gt;심갑택&lt;/b&gt; 별세, &lt;b&gt;이희동 &lt;/b&gt;남편상, &lt;b&gt;심상찬&lt;/b&gt; 前 조선미디어선광 이사·&lt;b&gt;심상락&lt;/b&gt; 前 장암농협 이사·&lt;b&gt;심상완&lt;/b&gt; 아성물류 대표·&lt;b&gt;심상곤&lt;/b&gt; KB국민은행 대전충청지역본부 감사·&lt;b&gt;심상래&lt;/b&gt; 한국특수크리닝기술위원 강사·&lt;b&gt;심상목&lt;/b&gt; 조선미디어선광 총무부장 부친상=8일5시 충남 부여사비장례문화원, 발인 10일8시, (041)835-4100&lt;br&gt;&lt;br&gt;▲&lt;b&gt;최인숙&lt;/b&gt; 별세, &lt;b&gt;정순학&lt;/b&gt;·&lt;b&gt;정순석&lt;/b&gt;·&lt;b&gt;정순탁&lt;/b&gt; 모친상, &lt;b&gt;조향훈&lt;/b&gt; 광주 현대가정의학과의원 원장 장모상=8일2시 광주 천지장례식장, 발인 10일7시, (062)527-1000&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>학생발명전시회 개막</title>
-      <link>https://www.chosun.com/national/people/2024/08/09/OBV4UXSUARGRFH4BYB23S32MGM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/09/OBV4UXSUARGRFH4BYB23S32MGM/</guid>
-      <description/>
-      <pubDate>Thu, 08 Aug 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FC5BBXK43FDEZHBN2ONXEKROHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 대전 유성구 대전컨벤션센터에서 개막한 ‘제37회 대한민국학생 발명전시회’에서 김완기 특허청장이 홍승아(오른쪽·효동초 5)양의 발명품인 ‘휴대용 우산 빗물 제거기’를 살펴보고 있다. 원형 틀 안의 극세사 원단으로 우산의 빗물을 흡수하고, 원단을 짜내면 다시 쓸 수 있는 이 발명품은 국무총리상을 받았다. 특허청이 주최하고 조선일보사가 후원하는 이번 행사는 10일까지 열린다. 전시 시간은 오전 10시~오후 5시이고 입장료는 없다. 청소년 발명 행사로는 국내 최대 규모인 이번 전시회에서 주요 수상작들을 볼 수 있고, 홍보·체험관에서는 다채로운 발명 콘텐츠를 즐길 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>결혼 5년 만에 찾아온 네쌍둥이… “조용하던 집에 생기 돌아요”</title>
       <link>https://www.chosun.com/culture-life/culture_general/2024/08/09/H6KAA4RQLVEBZHEJTOC3F4VW7Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2024/08/09/H6KAA4RQLVEBZHEJTOC3F4VW7Q/</guid>
@@ -906,14 +937,6 @@
       <description/>
       <pubDate>Thu, 08 Aug 2024 15:30:00 +0000</pubDate>
       <content:encoded>서울 강서구에 사는 4남매 쌍둥이 장태이·재이·조이·서이는 동네 유명 인사다. 서로 똑 닮은 이 아이들은 2022년 12월 2일 서울대병원에서 1~2분 간격으로 태어났다. 태이·재이는 일란성 아들, 조이·서이는 일란성 딸이다. 다 함께 유아 왜건(wagon)을 탄 채 엄마 최혜옥(35)씨와 동네 산책을 나가면 이웃들이 먼저 인사를 건네고, 같이 사진 한번 찍자고 청하기도 한다. “까까 사먹어” 하며 아이들 손에 만원짜리 지폐를 쥐여주는 할머니도 있다. 최씨는 “네 쌍둥이는 신기하다 보니 관심을 많이 가져주시는데, ‘예쁘다’ ‘귀엽다’ 해주시니 감사할 따름”이라며 “결혼 5년 만에 이 보물들과 함께하기까지 과정이 쉽지만은 않았다”고 했다. 난임, 출산, 신생아 육아라는 세 고비를 차례로 넘겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5VWUI6O35VFDJGTIMIE5ZKJC3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 10월 서울 양천구의 한 스튜디오에서 최혜옥(맨 오른쪽)·장도현 부부가 2022년 12월생 네쌍둥이 장태이(왼쪽부터)·조이·서이·재이와 함께 가족사진을 촬영하고 있다. /최혜옥·장도현 부부 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;친구로 만나 2017년 결혼한 회사원 커플 최혜옥·장도현 부부는 2020년부터 2년 넘게 난임으로 고생했다. 처음엔 ‘왜 아이가 잘 안 생기지?’ 정도였는데, 그 걱정·불안이 갈수록 점점 더 커졌다고 한다. 난임 클리닉을 찾아 과배란 자연 임신도, 시험관 시술도 한 번 시도해봤지만, 임신에 실패했다. 최씨는 “‘남들은 다 되는데 난 왜 안 될까’ ‘내 몸이 어딘가 잘못됐나’ 별의별 생각을 다 하고 스스로를 탓하며 우울해하던 시기였다”고 했다.&lt;br&gt;&lt;br&gt;결국 2022년 4월 난임 무급 휴직을 결심한 뒤 업무 인수인계를 하던 때였다. 큰 기대는 하지 않고 다시 한번 시험관 시술을 시도했는데 그때 임신이 됐다. 부부는 “어떤 말로도 표현 못 할 정도로 기뻤다”고 했다. 최씨는 “시험관 시술 두 번 만에 임신에 성공하고 나니 지난날 자책이 잘못됐다는 것을 깨닫게 됐다”고 했다. 그러면서 “돌이켜 보면 직장에서 받은 업무 스트레스가 난임에 영향을 미치고, 그 스트레스가 다시 업무·난임 스트레스로 이어지는 악순환이 반복됐던 것 같다”고 했다.&lt;br&gt;&lt;br&gt;두 번째 고비는 출산이었다. 이 부부는 쌍둥이를 예상했다고 한다. 태명도 부부 이름에서 한 글자씩 따 ‘또또’ ‘채채’로 지어놨다. 그런데 검진에서 네 쌍둥이라는 결과가 나왔다. 남편 장씨는 “넷이나 낳을 계획은 없었기 때문에 많이 당황한 건 사실”이라고 했다. 네 아이가 모두 건강하게 태어날 수 있을지 확신하기도 어려웠다. 주변에 ‘선택 유산’을 권유하는 이도 있었다. 하지만 전종관 당시 서울대병원 교수(현 이대목동병원 교수)가 “잘 크고 있으니 더 지켜보자”고 했다. ‘또또’, ‘채채’에 ‘또이’, ‘채이’가 추가됐다. 다행히 임신 기간 내내 아이들은 무탈하게 잘 자라줬다. 비록 ‘29주 이른둥이’로 태어나긴 했지만 네 아이 모두 건강했다. 장씨는 “정말 우리 부부에게 선물처럼 찾아온 아이들”이라고 했다.&lt;br&gt;&lt;br&gt;마지막 고비는 신생아 육아였다. 최씨가 육아휴직을 하고 친정 엄마가 틈날 때마다 찾아와 양육을 도왔다. 다만 네 아이를 그렇게 계속 돌보기는 역부족이었다. 결국 지난해 의류 회사에 다니는 남편 장씨도 1년 육아휴직을 썼다. 직장 동료들의 눈치를 안 볼 수 없었고, 경제적인 문제가 신경이 쓰여도 어쩔 수 없었다. 네 아이가 하루에 먹는 분유만 2리터 분량이었다. 그나마 부부가 함께 육아휴직을 쓰면 첫 3개월간은 부부 합산 최대 1500만원 육아휴직 급여를 지급하는 제도가 있었다. 현재는 이 제도가 확대돼 부부가 모두 휴직하면 첫 6개월간 최대 3900만원을 받을 수 있다.&lt;br&gt;&lt;br&gt;장씨는 “아내와 함께 아이들을 돌보던 ‘동시 육아휴직’ 기간은 부부가 서로 이해해가면서 가족 전체가 더 끈끈해질 수 있었던 최고의 시간이었다”며 “육아로 지칠 때도 있었지만, ‘내일 어디를 가면 좋을까’ ‘뭘 하면 아이들이 행복해할까’ 생각해보는 것만으로도 좋았다”고 했다. 최씨는 “부부 동시 육아휴직 지원 제도가 정서적으로나 경제적으로나 정말 큰 힘이 됐다”며 “이 제도를 계속 확대하고 육아휴직을 쓸 때 직장에서 눈치 보지 않아도 되는 사회 문화를 만들어나가면 저출생 문제 해결에 가장 큰 도움이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;아이들이 어린이집에 다니기 시작하면서 남편 장씨는 1년 육아휴직을 끝내고 올 4월부터 다시 출근을 시작했다. 남편이 저녁에 퇴근할 때까지는 최씨 혼자 아이들을 돌본다. 최씨는 “육아가 힘들지 않다고 하면 거짓말이고, 아이가 열나고 아플 땐 마음도 너무 아프다”면서도 “긍정적으로 생각하면 나는 임신·출산을 한 번만 겪었고, 아이를 갖기 위해 애쓰고 마음고생하던 예전 생각을 하면 지금 힘든 건 아무것도 아니다”라고 했다. 그는 “엄마·아빠가 하는 말을 조금씩 따라 하고, 엄마·아빠 얼굴을 가리키면서 ‘엄마 눈’ ‘아빠 코’ 하는 아이들을 보면 절로 웃음이 난다. 몇 년 뒤 아이들과 함께 게임하고 캠핑할 날들이 기다려진다”고 했다.&lt;br&gt;&lt;br&gt;최씨는 “네 아이가 선물처럼 찾아오면서 조용하던 집에 생기가 돌기 시작했다”며 “부부들마다 사정이 있고 생각이 다른 만큼 모두 아이를 낳을 필요는 없지만, 아이를 낳을까 말까 고민하는 분들은 꼭 이 ‘아이 키우는 기쁨’을 함께 나누면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다] 우리 아이 출생 소식 액자에 담아 간직하세요</title>
-      <link>https://www.chosun.com/special/announcement/2024/08/09/M2E4N34MWFDXBN2AFELCBZXEYY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2024/08/09/M2E4N34MWFDXBN2AFELCBZXEYY/</guid>
-      <description/>
-      <pubDate>Thu, 08 Aug 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TZBZD2QIDVDGPHGCK7W6WQ7XQ4.jpg"&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 우리 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 2일 ‘우리 아기가 태어났어요’ 코너에 실린 이재이&amp;lt;사진&amp;gt;가 이번 주 주인공입니다. 자세한 내용은 홈페이지(&lt;a href="http://reprint.chosun.com/" target="_blank"&gt;reprint.chosun.com&lt;/a&gt;)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>檢, ‘김정숙 타지마할 일정’ 맡은 주인도대사관 관계자 소환</title>
