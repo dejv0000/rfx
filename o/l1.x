@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 제약사 환급 ‘위험분담제’ 보험금 대상 아니다</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/200469.jpg" alt="200469.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;국민건강보험공단과 제약회사가 맺은 ‘위험분담계약’에 따른 환급금은 실손 의료보험에서 담보하는 보험금 지급대상에 해당하지 않는다는 대법원 판결이 나왔다. 대법원은 보험사가 고객에게 보험금이 환급대상이 아니라는 점을 미리 고지하지 않아도 설명 의무 위반이 아니라고 판단했다.&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;대법원 민사1부&lt;/b&gt;(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1377"&gt;노태악&amp;nbsp;&lt;/span&gt;대법관)는 지난달 11일 A 씨가 메리츠화재해상보험을 상대로 낸 보험금 소송 상고심(&lt;b&gt;2024다223949&lt;/b&gt;)에서 원고 일부 승소 판결한 원심을 확정했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;A 씨는 2016년 10월 메리츠보험과 배우자 명의로 보험 계약을 체결했다. A 씨 배우자는 항암 치료제인 ‘키트루다주’를 투여받았는데, 이는 ‘위험분담제’에 따른 투약이었다. 위험분담제는 신약의 효능·효과나 보험재정 영향 등에 대한 불확실성을 제약회사가 일부 분담하는 제도로, 비용 효과적인 의약품을 선별 급여하는 원칙을 살리면서 대체제가 없는 고가의 항암제에 대한 환자의 접근성을 높이기 위해 2014년부터 시행됐다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 사건에서 문제가 된 위험분담제 유형은 ‘환급형 위험분담제’로, 약제의 전체 청구 금액 중 일정 비율에 해당하는 금액을 제약업체가 공단에 환급하는 형태다. 이에 따라 A 씨의 배우자는 제약사로부터 약제비 일부를 환급받을 예정이었다. A 씨는 이 환급금을 ‘본인부담금’에 포함시켜 보험사가 지급해야 할 금액은 총 3600만 원이라 주장하며 이 가운데 지급받지 못한 1400만 원을 보험사에 요구했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;위험분담금은 ‘입원치료 중’ 발생한 것이 아니라 사후에 지급된 것이고, 국민건강보험법상의 요양급여도 아닌 데다가 의료비 분담이 아닌 위험분담에 따라 지급된 것이므로 보험사에서 환자가 환급받은 위험분담금을 포함한 전체본인부담금을 모두 보상해줘야 한다”는 게 A 씨 주장의 근거였다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;보험사 측은 “환급금은 돌려받을 돈이므로 환자쪽에서 실제 부담한 본인부담금이라고 볼 수 없고 이를 보험으로 보상하는 것은 손해보험의 이득금지 원칙에도 위배된다”고 맞섰다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;1심은 “환급금은 보험금 지급대상에 해당하고, 설령 이에 해당하지 않는다고 하더라도 피고가 이를 설명했다는 주장·증명이 없다”며 원고(A 씨) 승소 판결했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;항소심은 피고 측 주장을 받아들여 “환급금은 보험금 지급대상이 아니고, 피고에게 명시·설명의무가 인정되지 않는다”며 원고에게 260만 원을 지급하라고 판결했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;대법원 판단도 항소심과 같았다. 대법원은 “피보험자가 위험분담제에 따라 제약사로부터 환급받는 금액은 피보험자가 실제로 부담한 요양급여비용이 아니다”며 “이 사건 특약 부분은 손해보험의 일종인데, 손해보험은 보험사고로 인해 생길 피보험자의 재산상 손해를 보상하기 위한 것이므로 피보험자에게 손해의 전보를 넘어서 오히려 이득을 주게 되는 결과를 가져오는 것은 손해보험제도의 원칙에 반할 여지가 있다”고 짚었다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;이어 “해당 약관조항은 국민건강보험법에 따른 요양급여비용 중 피보험자 본인이 최종적으로 실제 부담하는 비용 부분만을 보험금 지급대상으로 하고, 피보험자가 공단이나 제약사로부터 위험분담제에 따라 환급을 받음으로써 피보험자가 실제로 부담한 비용에 해당하지 않는 금액은 이 사건 약관조항에 따른 보험금 지급대상에 포함되지 않는다”고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;아울러 “이 사건 특약의 보험금 지급대상은 재산상 손해이므로 그 손해의 전보를 넘어선 이득을 얻을 수 없음은 거래상 일반적이고 공통된 내용으로 충분히 예상할 수 있으므로 환급금 상당액이 이 사건 보험계약에서 보상하는 손해에 포함되지 아니한다는 사정은 피고의 명시·설명의무의 대상에 해당하지 않는다”고 판시했다.&lt;/p&gt;</description>
+			<pubDate>Sun, 11 Aug 2024 00:18:48 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/200469</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200469</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200469.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] "사제 사택도 종교활동 영위하는 곳…과세 위법"</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/200460.jpg" alt="200460.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;성당 바깥에서 선교 활동을 하는 '특수사목 사제'가 거주하는 사택은 종교생활을 하는 곳이므로 재산세 등 세금을 매길 수 없다는 법원 판단이 나왔다.&lt;p&gt;&amp;nbsp;&amp;nbsp;   &lt;p&gt;서울행정법원 행정3단독&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="18751"&gt;서지원&amp;nbsp;&lt;/span&gt;판사는 천주교서울대교구유지재단(재단)이 서울 강남구청장을 상대로 낸 재산세 등 부과처분 취소소송에서 지난 6월 5일 원고 승소 판결했다(&lt;b&gt;2023구단67968&lt;/b&gt;).&lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;재단은 2010년 10월 서울 강남구에 있는 지하 2층, 지상 12층 규모의 아파트 건물을 취득해 1층 주민공용시설을 경당으로, 2층 2개 호실을 식당 주방 및 세탁실 등으로 내부 인테리어 공사를 한 뒤 나머지 호실은 재단 소속 특수사목 사제와 은퇴 사제의 사택으로 사용했다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;강남구청은 2022년 7월과 9월 특수사목 사제들이 거주하던 4개 호실에 대해 재산세, 도시지역분, 지방교육세 등으로 총 308만 원을 과세하는 처분을 했다. 처분에 불복한 재단은 조세심판원에 심판청구를 했으나 기각되자 행정법원에 소송을 냈다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;재판에서 재단 측은 "과세 처분된 부동산은 재단의 종교사업 활동에 필요불가결하고 중추적인 지위에 있는 특수사목 사제들의 사택으로 제공된 것이므로 지방세특례제한법에서 정한 '종교단체가 해당 사업에 직접 사용하는 부동산’에 해당하여 면제 대상"이라고 주장했다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;재판부는 원고 측 주장을 받아들였다. 재판부는 "원고(재단) 소속 사제는 교구의 사목을 책임지는 주교 아래 구체적인 사목을 담당하는 신부를 말하는데, 크게 본당에서 선교 활동 등을 하는 ‘본당사목 사제’와 본당을 벗어나 청소년, 병원 등 특정 대상이나 분야를 정해 선교 활동 등을 하는 ‘특수사목 사제’로 구분된다"고 짚었다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;이어 "원고와 같은 종교단체는 사제 등의 인적구성원에 의하여 주로 기능하게 되고, 특수사목 사제는 본당사목 사제가 본당에서 선교 활동 등을 하는 것과 달리 본당의 범위를 벗어나 특정 대상이나 분야를 정해 선교 활동을 한다는 점에서 본당사목 사제와 다소 차이가 있을 뿐, 모두 천주교의 가르침이나 교리를 전파하기 위한 활동을 한다는 점에서 양자 사이에 본질적인 차이가 없다"고 설명했다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;그러면서 "해당 건물은 단순히 특수사목 사제들이 일상생활만을 하는 곳이 아니라 특수사목 사제들이 종교적 공동체를 형성하여 집단적으로 종교 생활을 영위하는 곳이라고 봄이 타당하므로 지방세특례제한법 제50조 제2항에서 정한 재산세 등의 면제 대상에 해당하므로 과세 처분은 위법해 취소돼야 한다"고 판시했다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp; &lt;br /&gt;이 같은 판단의 근거로 재판부는 △재단이 건물을 취득한 후 설치한 경당 등에서 미사 등 종교의식이 열리고 있으며 △독신생활을 하는 사제들이 특수사목으로 재직하는 기간에 해당 건물에서 지내면서 비교적 엄격한 생활 지침을 준수하는 점 △사제들이 매일 경당에서 미사를 봉헌하는 등의 종교 생활을 영위하고 있는 점 등을 들었다.&lt;/p&gt;   &lt;/p&gt;</description>
+			<pubDate>Sun, 11 Aug 2024 00:18:44 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/200460</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200460</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200460.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
 			<title>(금주 법조계 주요일정) 8월 12~16일</title>
 			<description>&lt;b&gt;△12일(월)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 유동규 외 4명 140차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '국가정보원법위반 등 혐의' 정의용 전 국가안보실장 외 3명 16차 공판(오전 10시)&lt;br /&gt;-대법원 양형위원회 제133차 회의(오후 2시)&lt;br /&gt;-법무부, 독립유공자 후손 국적증서 수여식 (오후 3시, 서울 서대문구 대한민국임시정부기념관)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△13일(화)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 곽상도 외 2명 4차 공판준기일(오전 10시)&lt;br /&gt;-서울중앙지법 '노동조합및노동관계조정법위반 등 혐의' 허영인 SPC그룹 회장 외 18명 7차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 이재명 더불어민주당 대표 외 1명 40차 공판(오전 10시30분)&lt;br /&gt;-수원지법, '공직선거법 위반 혐의' 이재명 전 더불어민주당 대표 배우자 김혜경 씨 선고기일(오후 2시)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△14일(수)&lt;/b&gt;&lt;br /&gt;-대법원, 사법정책자문위원회 제3차 회의(오전 9시)&lt;br /&gt;-법무법인 지평, '지평 ESG 아카데미 - 유럽 지속가능성 보고 기준(ESRS) 강독'(오전 9시 30분, 서울 중구 세종대로 그랜드센트럴 B동 3층 지평 오디토리움)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물)등  혐의' 송영길 전 더불어민주당 대표 27차 공판(오전 10시)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△15일(목)&lt;/b&gt;&lt;br /&gt;-광복절&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△16일(금)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '직권남용권리행사방해 등 혐의' 서훈 전 청와대 국가안보실장 외 4명 30차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 이재명 더불어민주당 대표 외 1명 41차 공판(오전 10시30분)</description>
 			<pubDate>Sat, 10 Aug 2024 22:10:11 -0000</pubDate>
@@ -223,26 +243,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200488</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200488.jpg</media:thumbnail>
 			<dc:creator>홍윤지 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무보호복지공단 부산지부, 가족 관계 회복을 위한 '가족캠프' 열어</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/200487.jpg" alt="200487.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;가족친화 프로그램 참여자들과 공단 관계자들.&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;한국법무보호복지공단 부산지부(지부장 최규삼)는 부산광역시 사회 정착 지원사업의 일환으로 법무보호대상자와 가족과 함께 지난 8일 부산시 기장군 롯데월드에서 ‘희망 가득·사랑담은 싱싱 가족캠프’를 진행했다. 이날 법무부 법무보호위원 부산지부협의회(회장 이우열) 위원들도 함께 했다.&lt;/p&gt;&lt;br /&gt;이 프로그램은 부산시의 지원을 받아 미성년 자녀를 양육 중인 법무보호대상자 가정을 대상으로 실시하는 프로그램이다. 여가 생활 기회를 확대하고, 자녀 양육에 관한 교육 등 여러 코너가 진행됐다.&lt;br /&gt;&lt;br /&gt;참가자 A 씨는 “바쁘다는 핑계로 아이들과 같이 놀아주지도 못했는데 덕분에 가족들과 함께 놀이동산에 올 수 있었다”며 “아이들이 웃으며 즐겁게 뛰어노는 모습을 보니 기쁘다”라고 참여 소감을 전했다.&lt;br /&gt;&lt;br /&gt;이우열 회장은 “이번 프로그램을 시작으로 서로의 소중함을 알아가고, 서로를 아끼며 더욱 건강한 가족 관계로 나아가면 좋겠다”고 말했다.</description>
-			<pubDate>Fri, 09 Aug 2024 08:10:00 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/200487</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200487</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200487.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>여변, "여성변호사 임신·출산·육아 이유로 한 차별 근절 개선책 마련 시급"</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/200478.jpg" alt="22.jpg" /&gt;&lt;/p&gt;한국여성변호사회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1151"&gt;왕미양&lt;/span&gt;)이 지난 8일 성명을 내고 여성변호사의 출산을 이유로 한 해고를 부당하다고 본 법원 판결을 환영하며 여성변호사의 임신·출산·육아를 이유로 한 차별과 불이익을 근절하기 위한 개선책 마련을 촉구했다.&lt;br /&gt;&lt;br /&gt;여변은 "여성변호사의 수가 점점 늘어나고 있지만, 근로 여건은 개선되지 않고 있다"며 "특히 여성변호사는 취업 및 근로 시 임신·출산·육아를 이유로 노골적으로 또는 보이지 않게 차별과 불이익을 당하고 있다"고 말했다. &lt;br /&gt;&lt;br /&gt;이어 "여성변호사의 임신·출산·육아를 이유로 한 해고는 여성변호사의 경력단절을 초래하고, 저출산 문제를 더욱 심화시키며 근로기준법 및 남녀고용평등법을 위반한 위법행위이자 성차별행위"라고 강조했다. &lt;br /&gt;&lt;br /&gt;그러면서 "△육아휴직으로 인한 인력 및 업무공백의 해결 방안 마련 △출산・육아휴직을 허용한 법무법인에 대한 유무형의 인센티브 제공 △탄력근무제・재택근무・시간선택제 등 다양한 근무환경조성과 모성보호시설 확충 등 여러 방법을 강구해야 한다"고 설명했다.&lt;br /&gt;&lt;br /&gt;5개월간 출산휴가와 육아휴직을 사용한 뒤 복직을 앞둔 여성변호사에게 돌연 해고를 통보한 로펌이 노동위원회의 부당해고 구제판정에 불복해 소송을 냈으나 1심과 항소심 모두 패소한 바 있다.&lt;br /&gt;</description>
-			<pubDate>Fri, 09 Aug 2024 05:56:25 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/200478</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200478</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200478.jpg</media:thumbnail>
-			<dc:creator>안현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
