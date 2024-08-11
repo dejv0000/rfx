@@ -13,6 +13,54 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>신라왕경숲, 포항철길숲 등 경북 4곳 ‘아름다운 도시숲’ 선정</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/11/U5NY6ABKIJASHN4H3WADJKDRF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/11/U5NY6ABKIJASHN4H3WADJKDRF4/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 11 Aug 2024 09:29:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z7HRRJT3QBNYNLNX5W3RUDTQWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 경북 포항에 폭염 경보가 발령된 가운데 포항철길숲에 물안개 분사 장치가 작동되고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;산림청이 주관하는 ‘아름다운 도시숲 50선’ 공모에 경북 지역 도시 숲 4곳이 선정됐다.&lt;br&gt;&lt;br&gt;경북도는 포항 철길숲, 포항 송도 솔밭 도시숲, 경주 신라왕경숲, 경주 경북 천년 숲정원 등 4곳이 아름다운 도시 숲으로 선정됐다고 4일 밝혔다. 이번 공모는 공기 정화, 열섬 현상 완화, 휴식 공간 제공 등 지역 주민에게 기여하는 도심 내 숲의 가치를 알리기 위해 진행됐으며, ‘기후변화 대응형’ ‘경제효과 증진형’ ‘경관 개선형’ ‘주민건강 증진형’ ‘주민 참여형’ 등 총 5개 유형으로 나누어 도시숲을 선정했다. 이중 경제효과 증진형 부문에 포항 철길숲, 경주의 신라왕경숲, 경북 청년 숲정원이, 주민 건강 증진형 부문에 포항 송도 솔밭 도시숲이 뽑혔다.&lt;br&gt;&lt;br&gt;먼저 포항 남구 대잠동 일대에 위치한 포항 철길숲은 면적 23ha(약 7만평)에 9.3km 구간으로, 동해남부선 철로 폐선 부지를 활용한 도시숲이다. 철길숲에서 이뤄지는 다양한 프로그램과 행사를 통해 유동 인구 수가 많은 점, 폐선된 철로를 숲으로 만들어 지역 경제를 활성화한 점 등이 긍정적으로 평가됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/76HVRN6YGRBEZDEWQUG6DNEOSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경주신라왕경숲 전경/경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경주 신라왕경숲은 22ha(6만 6000여 평) 규모로, 경주의 관광단지인 보문단지에 위치해 접근성이 좋다. 또한 소나무 군락지와 맥문동 등 다양한 생물 자원이 빚어내는 경관 덕분에 연간 방문객이 46만명에 달하는 점 등을 토대로 선정됐다.&lt;br&gt;&lt;br&gt;지난해 4월 경주에서 개장한 경북 천년숲정원은 33ha(약 10만 평) 규모로, 경주의 관광명소인 첨성대, 동궁과 월지 등과 가까워 접근성이 좋고, 통일전이나 불국사 등 다른 관광 명소를 방문하기 전 중간에 들르는 코스로도 적합하다는 장점이 있다. 정원 내엔 왕벚나무 등 433종 27만 그루의 생물자원이 있으며, 지난해 기준 42만명이 방문하는 등 지역 경제 활성화에 기여했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CNWZIHHZN5HDJKMAOU7MOGTM5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 천년 숲정원/경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;포항 남구에 위치한 송도 솔밭 도시숲은 23ha(약 7만평) 규모로, 송도해수욕장, 죽도시장 등과 인접해 주민 이용이 편리하고, 바다에서 불어오는 모래바람을 막아주는 방풍림(防風林) 역할을 한다. 유아숲체험원, 키즈 놀이터 등 아이들을 위한 시설과 회원 3000여명이 매주 맨발걷기를 하는 ‘맨발학교’로 유명하다. 작년부터 올해까지 2회 연속 ‘전국 맨발걷기대회’를 개최하는 등, 주민들의 건강 증진에 기여했다고 평가됐다.&lt;br&gt;&lt;br&gt;조현애 경북도 산림자원국장은 “앞으로도 도민들의 삶의 질을 높이는 아름다운 도시 숲을 지속해서 조성해 기후 변화에도 대응하겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VM3DYQMCGRCLTFPQRNFGKZ7OBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;포항 송도 솔밭 도시숲/경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 신상사 빈소 내 오세훈 시장 조기, 논란 되자 철거</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/11/T6VDC2NLMJCQPFNRN3NZHAGMCQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/11/T6VDC2NLMJCQPFNRN3NZHAGMCQ/</guid>
+      <dc:creator>구아모 기자, 안준현 기자, 장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 11 Aug 2024 08:26:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VMBXXZKOHBHJFL7ES4E4JOANRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오후 철거되는 오세훈 서울시장 명의의 조기. 오 시장 명의의 조기는 이날 오전 빈소에 도착했다가 논란이 불거지자 이날 오후 5시 20분쯤 철거됐다. /구아모 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘명동 황제’로 불리던 1세대 조폭 신상사(본명 신상현)가 지난 10일 별세한 가운데, 신씨의 빈소에 있던 오세훈 서울시장의 조기가 철거됐다.&lt;br&gt;&lt;br&gt;10일 서울아산병원에 차려진 신씨의 분향실 안에는 ‘서울특별시장 오세훈’ 명의로 ‘근조(謹弔)’라고 적힌 조기(弔旗)가 놓여져 있었다. 오 시장의 조기와 함께 국회의원 김선교(경기 여주시·가평군) 명의의 조기도 놓여져 있었다. 서울시 관계자는 “오 시장의 지인이 요청해 조기를 보낸 것으로, 최측근도 관련 사실을 모르고 있었다”고 했다.&lt;br&gt;&lt;br&gt;그러나 이 같은 사실이 알려지자 11일 오후 5시 23분쯤 장례식장 직원이 오 시장의 조기를 철거했다. 김선교 의원과 전진선 양평군수, 양평군의회 의장 명의의 조기도 함께 철거됐다. 조기가 철거되자 빈소를 찾은 조폭들은 “왜 장례식이 끝나지도 않았는데 조기를 빼느냐”며 항의를 하기도 했다. 신씨의 발인은 12일 오후로 예정돼있다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “공직선거법 상 시·도지사 명의의 근조 화환을 보낼 수는 없지만, 조기는 장례식장에 보낼 수 있다”며 “향후 조기를 설치하게 된 경위를 구체적으로 설명할 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A5RXDIY5PNHKZN2JPAWQLXJRJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 서울아산병원 '신상사파' 신상현씨 빈소에 정치인들 조기가 일제히 철거되는 모습./구아모 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VMBXXZKOHBHJFL7ES4E4JOANRQ.jpg?width=1049&amp;height=786&amp;auth=d72e778d02c2c54104e353e83bc4bf78a82e571f984fdfdfc977163024dbe59e&amp;smart=true" type="image/jpeg" height="786" width="1049">
+        <media:description type="plain">11일 오후 철거되는 오세훈 서울시장 명의의 조기. /구아모 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>저층 아파트 노려 3000만원 금품 훔친 60대 남성 구속 송치</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/08/11/FB2YPALHXRAC7I5TCX35WDCKZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/08/11/FB2YPALHXRAC7I5TCX35WDCKZQ/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 11 Aug 2024 08:26:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IFRIXF2XBFHRJENV7L3AHW7BGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 무단 침입한 경북 구미의 한 아파트 베란다 창문./구미경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아파트 빈집에 무단 침입해 수천만원 상당의 금품을 훔친 60대 남성이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경북 구미경찰서는 상습절도 등 혐의로 A씨를 구속 송치했다고 11일 밝혔다. A씨는 지난 4~7월 구미와 대구, 광주, 춘천 등 전국 12곳을 돌며 잠금 장치가 돼있지 않은 아파트 저층 가구의 베란다 창문 등을 통해 침입한 뒤 17차례에 걸쳐 3000여만원 상당의 현금과 귀금속 등을 훔친 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 지난달 구미 송정동의 한 아파트에서 절도 피해 신고가 접수되자 방범카메라 등을 통해 A씨를 특정했다. 범행 이후 1개월 동안 전국 25곳을 돌아다니던 A씨는 결국 지난달 31일 강원도 원주 시외버스터미널에서 경찰에 붙잡혔다. A씨는 절도 혐의를 포함해 전과 23범으로, 생활비 마련을 위해 이 같은 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “휴가철 아파트를 비울 경우 출입문 뿐만 아니라 베란다 창문을 확실히 잠가 절도 피해를 예방할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>싱가포르발 티웨이항공기, 이륙 55분 만에 “안전 점검” 회항 </title>
+      <link>https://www.chosun.com/national/transport-environment/2024/08/11/TLC3W2GTZ5CWTAUABG6MVTQ4PA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/08/11/TLC3W2GTZ5CWTAUABG6MVTQ4PA/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>싱가포르를 출발해 인천으로 향하던 티웨이항공의 항공기가 안전 점검을 이유로 회항한 것으로 11일 전해졌다.</description>
+      <pubDate>Sun, 11 Aug 2024 08:57:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NXN7OJ6BOSCYDIZNCJICRZDC5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;티웨이항공 항공기/티웨이항공 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;싱가포르를 출발해 인천으로 향하던 티웨이항공의 항공기가 안전 점검을 이유로 회항한 것으로 11일 전해졌다.&lt;br&gt;&lt;br&gt;티웨이항공에 따르면 이날 오전 2시15분(현지 시각) 싱가포르 창이 공항에서 이륙한 티웨이항공 TW172편 항공기는 기체에 안전 점검이 필요한 부분이 확인됐다며 이륙 55분 만에 창이 공항으로 회항했다. 이 항공편에 탑승한 승객은 285명이다.&lt;br&gt;&lt;br&gt;티웨이항공은 “TW172편에 투입된 항공기가 즉각 운항에 복귀할 수 없는 상태라고 보고 한국에서 대체 항공기를 보냈다”고 했다. 이 대체 항공기는 오후 11시 창이 공항에서 이륙할 예정이다. 21시간 가량 출발이 지연되는 셈이다.&lt;br&gt;&lt;br&gt;티웨이항공은 지난 1월에도 대구를 출발해 일본 후쿠오카로 향하던 비행기가 회항했고, 지난해 10월엔 베트남 다낭발 대구 공항으로 가던 비행기도 기체 결함으로 30분만에 다시 다낭으로 돌아갔다. 같은 달 인천에서 출발해 괌으로 향하던 비행기도 긴급 회항했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 다 타버린 전기차… 정부, 배터리 제조사 공개 추진</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/08/08/2A5SFZUVY5BQVK5YG3AEKU3YVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/08/08/2A5SFZUVY5BQVK5YG3AEKU3YVQ/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>정부가 전기차에 들어가는 배터리의 제조사를 표시해 소비자가 알 수 있도록 하는 방안을 추진한다.</description>
+      <pubDate>Wed, 07 Aug 2024 20:02:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VRXZJEFZTNHSVB6U5NS55DJSB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 인천 청라 지하 주차장의 대형 화재가 시작된 벤츠 전기차의 차체가 검게 그을리고 뼈대만 남은 채 지난 5일 현장에서 옮겨지고 있다. 이 전기차에는 세계 10위 중국 기업 ‘파라시스(Farasis)’의 배터리가 탑재돼 있어 고급차 대명사 벤츠가 왜 이런 선택을 했는지 의문이 일고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 전기차에 들어가는 배터리의 제조사를 공개해 소비자가 알 수 있도록 하는 방안을 추진한다. 최근 전기차 화재가 잇따르면서 열폭주(배터리의 연쇄적 폭발)로 인한 ‘전기차 포비아(공포증)’가 확산하자, 배터리 제조사 정보를 공개하기로 한 것이다.&lt;br&gt;&lt;br&gt;7일 국토교통부 측은 본지에 “차량의 다른 제원처럼 배터리 제조사를 공개하도록 관련 법령을 고칠 예정”이라고 했다. 이를 위해선 국회를 통과해야 하는 법 개정이 아니라, 현행 자동차관리법의 시행령이나 규칙을 고치면 된다고 국토부 관계자는 덧붙였다. 현재 자동차 회사들은 차량을 출시할 때 차량의 크기, 무게, 출력, 연비 등 다양한 정보를 공개한다. 그러나 주행거리 등 전기차 성능에 결정적 영향을 미치는 배터리의 경우, 용량 등만 공개할 뿐 제조사 정보는 밝히지 않았다. 이항구 자동차융합기술원 원장은 “디자인, 출력 등으로 차를 고르는 것처럼 배터리 제조사를 따져 차량을 선택하는 이가 앞으로 늘어날 것”이라고 했다.&lt;br&gt;&lt;br&gt;국토부가 배터리 제조사를 공개하기로 방침을 정한 건 전기차 핵심 부품의 정보를 깜깜이로 둘 경우 부작용이 크다고 판단했기 때문이다. 현재 자동차 업체들은 차량을 출시할 때 공식적인 안내문 등에 배터리 제조사를 밝히지 않고 있다. 자동차관리법은 자동차의 다양한 제원을 공개하도록 규정하고 있는데 여기에 배터리는 포함되지 않기 때문이다. 자동차 회사와 배터리사 역시 기업 간 계약이라는 이유로 제조사 공개를 꺼려왔다. 이 때문에 전기차 화재가 날 때마다 배터리 탑재와 관련해 잘못된 정보가 온라인, 전기차 커뮤니티 등에 떠도는 경우가 많았다. 실제 지난 1일 화재가 발생한 벤츠 전기차엔 세계 10위 업체 파라시스 배터리가 탑재됐지만 세계 1위 CATL 배터리가 탑재됐다고 잘못 전해졌다. 국토부 측은 배터리 정보가 차량의 안전 등에 직접적인 영향을 미치는 부품이어서 제조사를 공개하는 게 맞는다는 입장이다.&lt;br&gt;&lt;br&gt;국토부는 이와 함께 내년 2월부터 ‘배터리 인증’ 제도도 시행한다. 현재는 자동차 회사가 배터리를 단 차량을 만들어 판매하고 정부는 사후 점검을 하는 체계다. 그러나 내년부턴 차량 등록 시부터 배터리마다 식별 번호를 부여해 별도 등록한 뒤, 안전 성능 시험도 사전에 거치게 하겠다는 것이다. 국토부는 “자동차 등록원부에 배터리 정보가 등록돼 운행부터 폐차까지 이력이 관리된다”고 했다.&lt;br&gt;&lt;br&gt;이와 별도로 매년 하반기 진행하는 ‘자동차 안전도 평가’에도 배터리 안전 기능 관련 항목을 추가한다. 배터리 이상 작동을 감지할 경우 통신망과 인터넷을 활용해 차주와 소방 당국 등에 자동으로 알림을 발송하는지 여부 등을 평가한다는 것이다. 이는 올해 말부터 시행될 예정이다.&lt;br&gt;&lt;br&gt;전기차 배터리 관련 정보 공개 강화는 세계적인 추세다. 유럽연합(EU)은 ‘디지털 배터리 여권(DBP)’ 제도를 만들어 2027년부터 시행하기로 했다. 배터리의 예상 수명, 제조별 과정에서의 탄소 배출량 등 상세 정보를 디지털화해 이를 당국에 제출해야 한다. 김필수 대림대 자동차과 교수는 “국내 배터리 3사의 배터리 제품이 저가 중국산보다 품질 등에서 우수하다는 평가를 받고 있어 배터리 제조사 등이 공개되면 국내 3사가 수혜를 입을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 조폭 60여명 도열, 오세훈 조기까지...명동황제 신상사 빈소 가보니 </title>
       <link>https://www.chosun.com/national/national_general/2024/08/11/VXDV6U445NEBBI5MHBP42NJBMQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/11/VXDV6U445NEBBI5MHBP42NJBMQ/</guid>
@@ -911,48 +959,6 @@
       <pubDate>Fri, 09 Aug 2024 15:30:00 +0000</pubDate>
       <content:encoded>이십여 년 전 광화문 대형 서점 화장실에서 겪은 일이다. 중년 사내가 바닥에 주저앉아 대성통곡하고 있었다. 청소 도구를 든 미화원이었다. 열린 문 사이로 좌변기 전체와 뚜껑까지 대변 자국이 낭자했다. 누가 저리 어지럽게 사용했는지 경악하지 않을 수 없었다. 중년 미화원의 처절한 울음이 내 마음을 쳤다.&lt;br&gt;&lt;br&gt;가슴 깊이 새겨진 이 장면은 중년 사내의 신산한 삶을 떠올리게 했다. 한때 그도 잘나가는 삶을 살았을 수 있지만 생계를 위해 화장실 미화원이 됐다. 그런데 끔찍한 좌변기가 그의 마지막 자존심을 무너트린 것이다. 이건 중년 남자의 비통한 울음에 대한 주관적 상상을 곁들인 해석이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YUUMF5LFOZGPDITOR3Z46DBQUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영화 ‘퍼펙트 데이즈’에서 화장실 청소부 히라야마(왼쪽·야쿠쇼 고지 분)는 반복되는 일상의 경건함을 보여준다.
 /티캐스트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 한국 관객을 사로잡고 있는 예술 영화 ‘퍼펙트 데이즈(Perfect Days)’의 주인공도 화장실 미화원이다. 일본 도쿄 시부야의 공중화장실을 청소하는 초로의 남성 히라야마(야쿠쇼 고지)의 일상을 세밀화(細密畵)처럼 그렸다. 별다른 사건이 없는 이 영화에서 히라야마는 청소부 일을 완벽하게 수행한다. 화장실 구석구석을 반사경까지 써서 정성껏 닦아 낸다. 젊은 동료가 ‘이런 일을 그렇게까지’ 할 필요가 있냐며 핀잔을 줄 정도다.&lt;br&gt;&lt;br&gt;히라야마의 삶은 담백하다. 한쪽 벽이 책으로 가득한 허름한 집에서 혼자 살고 출퇴근 땐 카세트테이프로 올드 팝을 듣는다. 점심 땐 낡은 필름 카메라로 ‘나뭇잎 사이로 비치는 햇살(코모레비)’을 찍는다. 퇴근 후 대중탕에서 몸을 씻고 선술집에서 한잔 후 헌책방에서 산 문고본 책을 읽으며 잠자리에 든다. 이런 그에게 오랫동안 보지 못했던 조카딸이 불쑥 찾아온다.&lt;br&gt;&lt;br&gt;영화는 히라야마의 과거에 대해 침묵한다. 기사가 모는 대형 세단을 타고 딸을 데리러 온 품위 있는 여동생의 말에서 추측할 수 있을 뿐이다. 미소를 잃지 않던 히라야마도 여동생을 포옹하며 눈시울을 적시지만 곧 담담한 일상으로 돌아간다. 그러고 다음 날 출근길 그의 오묘한 얼굴을 화면 가득 클로즈업하면서 영화는 끝난다.&lt;br&gt;&lt;br&gt;일본 극우 단체들을 지원하는 ‘일본 재단(The Nippon Foundation)’의 후원 여부를 떠나 ‘퍼펙트 데이즈’는 수작이다. 히라야마 역 야쿠쇼 고지의 열연도 칸 영화제 남우주연상 수상에 값한다. 이 영화엔 ‘목숨 걸고 일한다’는 ‘일생현명(一生懸命·잇쇼켄메이)’ 문화에 매료된 거장 빔 벤더스 감독의 오리엔탈리즘적 일본 찬미도 엿보인다. ‘퍼펙트 데이즈’는 원래 시부야 공중화장실 개조 프로젝트 홍보물을 극영화로 발전시킨 것이다.&lt;br&gt;&lt;br&gt;영화 미학적으로 ‘퍼펙트 데이즈’는 보통 사람의 일상에 숨겨진 아름다움을 기리는 찬가다. ‘지금과 여기’의 의미를 일깨우는 영화 시(詩)이기도 하다. 세상이 홀대하는 화장실 청소 일도 히라야마에겐 나뭇잎 사이로 일렁이는 햇살처럼 빛난다. 과거와 미래를 내려놓고 현재의 작은 것에 자족하는 삶이다. ‘다음은 다음이고, 지금은 지금!’이라고 말할 수 있는 삶은 아름답다.&lt;br&gt;&lt;br&gt;하지만 이런 아름다움을 강조하기 위해 부르주아였던 히라야마를 화장실 미화원으로 ‘수직 추락’시킨 영화적 설정은 작위적이다. ‘퍼펙트 데이즈’에서 히라야마는 현실과 역사에서 분리된 자폐적 공간에서 산다. 사회나 역사와 유리된 채 닫힌 내면으로 은둔하는 일본 사소설(私小說)처럼 히라야마는 거의 말이 없고 친구도 없다.&lt;br&gt;&lt;br&gt;화장실 미화원 일을 극사실주의로 묘사하는 ‘퍼펙트 데이즈’의 공중화장실은 사실 청소가 필요 없을 정도로 깨끗하다. 그게 이 영화의 결정적 한계다. 노동의 일상을 감동적으로 그린 ‘퍼펙트 데이즈’는 정작 처절한 생계 노동의 세계에 대해선 침묵한다. ‘영화는 허구이고 광화문 화장실은 현실’이라는 말만으론 이런 근본적 공백이 채워지지 않는다. ‘광화문 화장실 미화원’의 통곡과 히라야마의 은은한 미소 사이엔 건널 수 없는 심연이 흐르기 때문이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[아무튼, 픽] 영화 ‘리볼버’ 외 </title>
-      <link>https://www.chosun.com/national/weekend/2024/08/10/DDBH7H6G4VELTOAW3XQKEDNDX4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2024/08/10/DDBH7H6G4VELTOAW3XQKEDNDX4/</guid>
-      <description/>
-      <pubDate>Fri, 09 Aug 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AKDBPQUYJFAE3IR3FEI5QSMMMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영화 리볼버&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;▶영화 ‘리볼버’&lt;/b&gt;&lt;br&gt;&lt;br&gt;새 아파트 입주를 기다리던 경찰 수영(전도연)은 뜻하지 않은 비리에 휘말린다. 모든 죄를 뒤집어쓰면 큰 보상을 해준다는 제안. 2년 후 출소일, 그녀는 정반대 상황과 맞닥뜨린다. 잃어버린 것을 돌려받기 위해 약속을 어긴 앤디를 찾아 나선 수영이 그 뒤에 있는 거대하고 위험한 세력을 마주하면서 펼쳐지는 복수극. 욕망과 목표 앞에서 한 치도 흔들리지 않는 여자의 얼굴을 만날 수 있다. 전도연은 ‘무뢰한’에 이어 오승욱 감독과 누아르로 재회했다. 지창욱, 임지연 등 출연.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4QIVSMKPP5OEXMRTKJMDCUWRCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연극 '엔젤스 인 아메리카'. 배우 유승호(오른쪽)와 정혜인이 24일 오후 서울 성신여대 운정그린캠퍼스에서 공연의 일부를 시연하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;▶연극 ‘엔젤스 인 아메리카’&lt;/b&gt;&lt;br&gt;&lt;br&gt;미국 극작가 토니 쿠슈너에게 퓰리처상과 토니상을 안긴 수작. 1985년 뉴욕, 할머니 장례식에 참석한 루이스는 동성 연인 프라이어가 에이즈에 걸렸다는 비보를 접한다. 병세가 나빠지는 연인 모습에 겁이 난 루이스는 프라이어를 떠나고, 환청인지 환상인지 모를 목소리가 그 앞에 나타난다. 동성애, 에이즈, 정치, 인종, 종교 등 미국 사회를 다층적으로 담아내는 묵시적 연극이다. 손호준, 유승호 등 출연. 9월 28일까지 LG아트센터 서울.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IEUJEITCLBCHJFOBBGBLFLF4RI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뮤지컬 '젠틀맨스 가이드'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;▶뮤지컬 ‘젠틀맨스 가이드’&lt;/b&gt;&lt;br&gt;&lt;br&gt;1900년대 초 영국 런던. 고귀한 가문의 여덟 번째 후계자란 사실을 알게 된 주인공 몬티 나바로는 서열 앞에 있는 이들을 제거하고 백작이 될 꿈을 꾼다. 기상천외한 방법으로 목표에 다가가는 그의 인생역전 프로젝트. 하지만 닮은 듯 다른 후계자들을 처치할수록 상황은 꼬여만 간다. 1인 9역의 변신술이 볼거리. 토니상에서 4개 부문을 차지한 뮤지컬 코미디로 송원근, 김범, 정상훈, 이규형 등이 출연한다. 10월 20일까지 광림아트센터 BBCH홀.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 교육부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/08/10/CBO3NO7FFJEJHM6JILFJM22B3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/08/10/CBO3NO7FFJEJHM6JILFJM22B3U/</guid>
-      <description/>
-      <pubDate>Fri, 09 Aug 2024 15:30:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;교육부&lt;/b&gt;▷감사관 김도완▷지역인재정책관 윤소영▷국립국제교육원장 한상신▷의원면직 류혜숙▷장관 비서실장 이주희▷중앙교육연수원 정책연수과장 이용학▷경상국립대학교 행정본부장 이태주▷충청북도 교육개혁지원관 파견 오신종▷하노이한국교육원 파견 김현동▷인재양성지원과장 최현석▷평생직업교육기획과장 최화식▷충남대학교 안수미▷외교부 정상은&lt;br&gt;&lt;br&gt;▲&lt;b&gt;행정안전부&lt;/b&gt;▷전북특별자치도 기획조정실장 천영평▷정부청사관리본부 경남청사관리소장 김창신&lt;br&gt;&lt;br&gt;▲&lt;b&gt;해양수산부&lt;/b&gt;◇정책보좌관 채용▷장관실 정책보좌관 이동석&lt;br&gt;&lt;br&gt;▲&lt;b&gt;금융위원회&lt;/b&gt;◇임명▷비상임위원 허범&lt;br&gt;&lt;br&gt;▲&lt;b&gt;특허청&lt;/b&gt;◇과장 승진▷서비스상표심사과장 이미옥&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>폭염 속 실종 노인 구한 수색견… “야크 넌 최고야!”</title>
-      <link>https://www.chosun.com/national/2024/08/10/3ZEWQPBEKVAMJKTJQGZ75WXPDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/08/10/3ZEWQPBEKVAMJKTJQGZ75WXPDY/</guid>
-      <dc:creator>김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 09 Aug 2024 15:30:00 +0000</pubDate>
-      <content:encoded>무더운 여름 실종된 치매 노인을 찾아낸 구조견이 9일 부산경찰청장으로부터 공로패를 받았다. 주인공은 부산경찰청 과학수사대 소속 수색구조견 ‘야크’다. 부산경찰청이 구조견에게 공로패를 준 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LYPVXDZEZBGNVOCNU2RBIOBNN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;실종된 치매 노인을 찾아내 9일 공로패를 받은 수색구조견 '야크'의 모습. 야크는 이날 특별 주문한 케이크도 선물로 받았다. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다섯 살인 야크는 수컷 말리노이즈종이다. 지난 1일 부산 금정산 중턱에서 70대 치매 노인 A씨를 발견했다. A씨는 지난달 27일 부산 동래구 집을 나간 뒤 연락이 끊겼다. 경찰이 A씨가 금정산에 오르는 모습을 포착했지만 이후 행방이 묘연했다.&lt;br&gt;&lt;br&gt;야크는 지난달 31일 현장에 투입됐다. 그리고 투입 이틀째인 지난 1일 오전 7시 40분쯤 숲속에서 쓰러진 A씨를 발견했다. 경찰 관계자는 “당시 부산의 낮 기온은 30도가 넘었다”며 “조금만 늦게 발견했다면 생명이 위험할 뻔했다”고 했다.&lt;br&gt;&lt;br&gt;야크는 2021년부터 수색견으로 활약하고 있다. 후각이 특히 뛰어나 2022년 산으로 도주한 살인 미수 피의자를 찾아내기도 했다.&lt;br&gt;&lt;br&gt;부산경찰청은 이날 야크에게 공로패와 함께 특별 주문한 케이크도 선물했다. 야크 얼굴 모양으로 만든 과자를 올리고 ‘넌 최고야!’라는 문구를 새겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 송효숙 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/08/10/SU7ODRZKANDC3EHQVSLEJWY7SI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/08/10/SU7ODRZKANDC3EHQVSLEJWY7SI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 09 Aug 2024 15:30:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;송효숙&lt;/b&gt; 별세, &lt;b&gt;최양일&lt;/b&gt; 변호사·&lt;b&gt;최양미&lt;/b&gt; 화가·&lt;b&gt;최양옥&lt;/b&gt; 교수·&lt;b&gt;최양오&lt;/b&gt; 前 현대경제연구원 고문·&lt;b&gt;최순호&lt;/b&gt; 모친상, &lt;b&gt;김무성&lt;/b&gt; 前 새누리당 대표·&lt;b&gt;김호권&lt;/b&gt; 장모상=9일11시4분 신촌세브란스병원, 발인 11일8시30분, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;오원석&lt;/b&gt; 별세, &lt;b&gt;오태인&lt;/b&gt; YTN 울산취재본부장 부친상=8일19시30분 경남 창원시립상복공원, 발인 11일6시30분, (055)712-0893&lt;br&gt;&lt;br&gt;▲&lt;b&gt;유앵순&lt;/b&gt; 별세, &lt;b&gt;박덕배&lt;/b&gt; 前 농림수산식품부 차관·&lt;b&gt;박덕순&lt;/b&gt;·&lt;b&gt;박영란&lt;/b&gt;·&lt;b&gt;박명란&lt;/b&gt;·&lt;b&gt;박현배&lt;/b&gt; 김천문화사업기획사 대표 모친상, &lt;b&gt;한보현&lt;/b&gt;·&lt;b&gt;성대환&lt;/b&gt; 장모상, &lt;b&gt;오정심&lt;/b&gt;·&lt;b&gt;김기연&lt;/b&gt; 시모상, &lt;b&gt;박우빈&lt;/b&gt;·&lt;b&gt;박우건&lt;/b&gt;·&lt;b&gt;박은총&lt;/b&gt; 조모상, &lt;b&gt;한혜연&lt;/b&gt;·&lt;b&gt;한윤희&lt;/b&gt;·&lt;b&gt;성요한&lt;/b&gt;·&lt;b&gt;성요셉&lt;/b&gt;·&lt;b&gt;성은혜&lt;/b&gt; 외조모상=9일8시 서울성모병원, 발인 12일8시, (02)2258-5940&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 8월 10일</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/10/RHDW5Q6NJBFVBOINRGME6V4HV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/10/RHDW5Q6NJBFVBOINRGME6V4HV4/</guid>
-      <description/>
-      <pubDate>Fri, 09 Aug 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O6IRJGHR7NESHANA5QU2VIZXFY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘금융권 최대 횡령’ 3089억 빼돌린 경남은행 간부, 징역 35년</title>
