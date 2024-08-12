@@ -13,6 +13,105 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>'불법 토지 매입' 혐의 김경협 전 의원, 대법서 무죄 확정</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/12/YSELC5RPEZAWZBQBQ2CUVERKJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/12/YSELC5RPEZAWZBQBQ2CUVERKJY/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 12 Aug 2024 02:42:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L7FTZEDME42323A2UFT3YE2S7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김경협 전 더불어민주당 의원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토지 거래 허가 구역 내 땅을 불법으로 매입한 혐의로 기소된 더불어민주당 김경협 전 의원이 대법원에서 무죄가 확정됐다.&lt;br&gt;&lt;br&gt;12일 법조계에 따르면 대법원 2부(주심 김상환 대법관)는 부동산거래신고법 위반 혐의로 기소된 김 전 의원에게 무죄를 선고한 원심을 확정. 또 김 전 의원에게 땅을 팔았다가 같은 혐의로 기소된 이상수 전 노동부 장관도 무죄가 확정됐다.&lt;br&gt;&lt;br&gt;김 전 의원은 지난 2020년 경기도 부천시 역곡동 토지 거래 허가 구역 내 토지 668㎡를 이 전 장관에게 5억원을 주고 매입하면서 지방자치단체의 허가를 받지 않은 혐의를 받는다. 토지 거래 허가 구역으로 지정되면 일정 규모 이상의 토지 거래는 허가를 받아야 하고, 허가를 받더라도 허가 목적대로 이용하도록 돼 있다.&lt;br&gt;&lt;br&gt;이 전 장관은 김 전 의원에게 ‘매매 허가가 나는 대로 이전 등기를 해주겠다’ ‘토지가 수용돼 보상금이 나올 때까지 허가가 나지 않을 경우, 수용 보상금을 모두 양도하겠다’는 확약서를 썼다. 검찰은 이를 근거로 두 사람이 지자체 허가를 받을 수 없다는 사실을 확인했는데도, 허가 없이 매매하기 위해 잔금을 지급하는 등 위법한 매매 계약을 체결했다고 판단했다.&lt;br&gt;&lt;br&gt;1심은 “토지 거래 허가를 받을 수 없다는 사실을 인식한 상태에서 매매 계약을 했다”며 김 전 의원 등에게 징역형 집행유예를 선고했다.&lt;br&gt;&lt;br&gt;그러나 2심은 이를 뒤집고 무죄를 선고했다. 2심 재판부는 “피고인들은 토지 거래 허가를 받는다는 전제로 토지 매매 계약을 체결했고, 처음부터 허가를 배제하는 내용의 계약을 체결한 것이 아니다”면서 “관련 법 등 기준에 따라 허가를 받는 게 불가능하다고 보이지 않는다”고 밝혔다. 이어 “이번 사건과 관련해 제출된 증거만으로는 피고인들이 (위법한) 부동산 거래를 했다고 인정하기 부족하다”고 했다..&lt;br&gt;&lt;br&gt;대법원도 “원심의 판단에 자유심증주의의 한계를 벗어나거나 부동산거래신고법 위반죄의 성립에 관한 법리를 오해한 잘못이 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 22일 연속 열대야…이번주 최장 기록 세울듯</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/08/12/BQWATDJAERBLTCAGZLY4X7OIAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/08/12/BQWATDJAERBLTCAGZLY4X7OIAQ/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 12 Aug 2024 02:21:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R4MQEFBWQ5NJRCFA7WZU4C63XY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11일 오후 서울 서초구 반포한강공원에서 시민들이 달빛무지개분수를 감상하며 더위를 날리고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;간밤 열대야(밤 최저기온 25도 이상)가 또 나타났다. 서울은 22일째 열대야가 나타나 2018년 세운 역대 최장 기록(26일) 경신을 눈 앞에 두고 있다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 11일 밤에서 12일 아침 사이 서울에 열대야가 또 발생했다. ‘22일 연속’은 서울에서 1907년 근대 기상 관측이 시작된 118년 이래 3번째로 긴 기록이다.&lt;br&gt;&lt;br&gt;제주는 지난달 15일부터 열대야가 28일째 이어지고 있다. 제주의 최장 기록은 2013년 ‘44일’이다.인천과 부산도 각각 20일째, 18일째 열대야를 겪었다.&lt;br&gt;&lt;br&gt;무더위는 최소 열흘간 더 이어지겠다. 12일도 전국 대부분 지역에서 체감온도가 35도 안팎까지 오르는 등 폭염이 나타나겠다. 이날 낮 최고기온은 30~35도일 것으로 예상된다. 광복절인 15일부터 22일까지 기온은 최저 23~27도, 최고 30~34도 분포를 보이며 평년보다 높을 전망이다.&lt;br&gt;&lt;br&gt;지표가 뜨겁게 달궈지며 대기 상·하층 온도차에 의해 대기가 불안정해지고, 곳곳에 소나기가 내리겠다. 12일 전국에 5~20㎜의 소나기가 내리겠고, 일부 많은 지역에선 40㎜가 오는 곳도 있겠다.&lt;br&gt;&lt;br&gt;호흡기와 피부 등을 자극할 수 있는 오존은 이날 수도권과 충남, 전북, 전남, 경남 등 중서부지방 대부분과 남부지방 일부에서 ‘나쁨’ 수준을 보이겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국민연금 당겨 받는 사람 지난해 11만명 돌파...사상 최대</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/08/12/6LTB3WBOWFFVBD3ZVCGNBEJGIM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/12/6LTB3WBOWFFVBD3ZVCGNBEJGIM/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 12 Aug 2024 02:20:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QXVQHUZB3FLZPAOTY3PVVNDPRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민연금을 원래 받을 나이보다 더 일찍 앞당겨 받은 신규 조기연금 수급자가 지난해 사상 최대를 기록한 것으로 나타났다.&lt;br&gt;&lt;br&gt;12일 국민연금공단의 ‘최근 5년간 연도별 국민연금 조기연금 신규 수급자 수 현황’ 자료에 따르면, 지난해 신규 조기연금 수급자는 총 11만 2031명이다. 신규 조기연금 수급자가 10만명 선을 넘어선 것은 지난해가 처음이다. 직전 년도인 지난 2022년의 신규 조기연금 수급자는 5만 9314명으로 6만명이 안됐다.&lt;br&gt;&lt;br&gt;이는 지난해 수급 시작 연령이 1년 미뤄진 영향이 크다. 1988년 국민연금 도입 당시 연금 받는 나이는 60세였다. 이후 2013년부터 5년마다 1세씩 늦춰졌다. 구체적으로는 2013~2017년 61세, 2018~2022년 62세, 2023~2027년 63세, 2028~2032년 64세, 2033~2037년 65세 등이다.&lt;br&gt;&lt;br&gt;지난해 62세가 된 1961년생들은 연금을 받을 나이가 예상 외로 1년 밀리게 된 셈이다. 앞서 수급 연령이 미뤄진 2013·2018년에도 조기 연금 신청자가 전년 대비 각각 7.5·18.7% 늘어난 바 있다.&lt;br&gt;&lt;br&gt;다만, 이처럼 1~5년 노령 연금을 당겨 받는 ‘조기 노령 연금’은 ‘손해 연금’으로 불린다. 1년 일찍 받을 때마다 연 6%씩 연금액이 깎이기 때문이다. 5년 일찍 받을 경우, 원래 받을 연금의 70%만 평생 받게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여자친구 인질로 검찰수사관 앞에서 도주했던 수배자...이틀 만에 자진출석</title>
+      <link>https://www.chosun.com/national/2024/08/12/PCSWOTT4PJCQ5IHDQR27V2OZUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/08/12/PCSWOTT4PJCQ5IHDQR27V2OZUA/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 12 Aug 2024 01:16:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K2RZQ6Z3ERCQ5DZXEVVIQAZ7TI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 오후 경남 창원시 성산구의 한 건물에서 A급 지명수배자 A(왼쪽)씨가 연인을 흉기로 위협하며 검찰 수사관과 대치하고 있다. /독자제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰 수사관들에게 체포되기 직전 여자친구를 인질로 삼아 도주했던 50대 A급 지명수배자가 검찰에 스스로 출석했다.&lt;br&gt;&lt;br&gt;창원지방검찰청은 지명수배자 A씨가 지난 11일 오후 11시 5분쯤 창원지검 상황실에 자진 출석했다고 12일 밝혔다. 검찰은 A씨의 연락처를 확보해 출석을 설득했다고 한다.&lt;br&gt;&lt;br&gt;A씨는 지난 9일 오후 8시 37분쯤 경남 창원시 성산구 상남동 한 모텔에서 창원지검 소속 검찰 수사관들이 들이닥치자 함께 있던 여자친구 B씨를 흉기로 위협하며 인질로 삼고 도주했다.&lt;br&gt;&lt;br&gt;당시 현장 보안카메라(CCTV) 영상에는 수사관 4명이 A씨가 B씨를 붙잡고 도망가는 것을 놓치는 모습이 담겼다. 검찰 수사관들은 당시 A씨가 여성과 함께 모텔 방에 있다는 사실을 알았지만, 별다른 사전조치 없이 검거에 나섰다가 일을 그르쳤다.&lt;br&gt;&lt;br&gt;A씨의 여자친구 B씨는 약 4시간 만인 10일 오전 1시쯤 모텔에 두고 온 짐을 챙기러 돌아왔다가 검찰의 공조 요청을 받고 대기하던 경찰에 발견돼 조사를 받았다. 검찰과 경찰은 당시 인질로 잡혔던 B씨가 A씨의 도피를 도왔는지도 조사할 것으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰에 자진 출석한 A씨는 경찰에 인계돼 흉기 인질극을 벌인 혐의(특수공무집행방해)에 대해서도 조사를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 작년 8월부터 구속 상태에서 재판을 받다가 올해 1월 법원에서 병원 치료 목적으로 약 3개월간의 구속 집행 정지를 허가받고 풀려났다. 그러나 지난 4월 집행정지 만기가 됐지만 교도소로 복귀하지 않고 도피했다.&lt;br&gt;&lt;br&gt;A씨는 이에 앞서 전자장치 부착 등에 관한 법률 위반 혐의로 불구속 재판을 받다가 별건의 사기, 무고, 변호사법 위반 등의 혐의로 구속 기소됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“멋지다 효진아”...하계 올림픽 최연소 金 반효진, 모교 금의환향</title>
+      <link>https://www.chosun.com/national/people/2024/08/12/W5TC6WN5WJD7XFOA7UIOUFI22M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/12/W5TC6WN5WJD7XFOA7UIOUFI22M/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 12 Aug 2024 01:50:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/525F7BIWAFPONKBS5YZ4JZPUHY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2024 파리 올림픽 사격 여자 10m 공기소총 금메달리스트 반효진이 12일 오전 대구 북구 대구체고에서 열린 환영식에 참석해 친구들과 기념촬영을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“효진아 축하한다!” “멋지다 효진아!!”&lt;br&gt;&lt;br&gt;12일 오전 9시 대구 북구 대구체육고(대구체고) 필승관 강당에 반효진(16) 선수가 들어서자 대구체고 전교생 200여명이 기립 박수를 쳤다. 강당 건물 외벽에는 ‘정상에 서자’라는 대구체고 교훈 현수막이 내걸려 있었다.&lt;br&gt;&lt;br&gt;반 선수는 지난달 29일 파리올림픽 사격 여자 10m 공기소총 부문에서 금메달을 따고 이날 모교로 금의환향(錦衣還鄕)했다. 한국의 역대 하계 올림픽 최연소 금메달이면서 100번째 금메달이었다.&lt;br&gt;&lt;br&gt;이날 대구체고에선 반 선수를 위한 환영식이 열렸다. 이상욱 대구체고 교장은 “31일 퇴임하는데 너무나 큰 선물을 ‘사격 천재’, ‘이 세계 짱’ 반효진이가 줬다”며 “우리 학교 명예를 하늘 꼭대기까지 올려줘서 교장으로서 정말 자랑스럽고 고맙다. 앞으로도 승승장구하길 바란다”고 말했다. 반 선수는 노트북 컴퓨터 화면에 “어차피 이 세계 짱은 나다”라는 메모를 붙이며 스스로를 격려한 바 있다.&lt;br&gt;&lt;br&gt;강은희 대구시교육감은 격려사에서 “많은 부담과 어려움을 이겨내고 100번째 금메달을 따낸 반효진 선수를 진심으로 축하한다”며 “대구체고에선 앞으로 제2, 제3의 반효진 선수가 나올 것이니, 전국체전과 LA 올림픽을 최선을 다해 준비해주길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFB2WZCYNJOKLAQVVZJTKXGJSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;반효진 선수가 12일 오전 대구체육고등학교에서 강은희 대구교육감을 비롯한 재학생들과 함께 기념촬영을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 반 선수에겐 꽃다발과 함께 대구인재육성재단에서 지원하는 장학금 500만원이 수여됐다. 반 선수를 처음 사격의 길로 이끈 대구체고 동기 전보빈(16) 학생도 친구에게 꽃다발을 건넸다.&lt;br&gt;&lt;br&gt;전 양은 “(효진이랑)사격을 같이 하고 싶어 권유하니 처음엔 ‘너무 늦었다’며 거절하길래, 제가 감독 선생님을 찾아가 ‘효진이가 사격하고 싶어한다’며 방과 후에 효진이를 억지로 끌고 갔다”며 “효진이가 메달을 딸 거라고 믿고 있었지만, 마치 제가 딴 것처럼 기쁘다”고 했다.&lt;br&gt;&lt;br&gt;전 양은 공기소총 부문에서 최근 권총으로 종목을 전환했다. 전 양은 “효진이를 보니 사격을 늦게 시작해서 메달을 못 딸만한 종목은 아닌 것 같다”며 “다음 올림픽 때는 효진이와 출전해서 함께 메달을 따도록 노력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;반 선수는 “전교생들과 많은 국민들이 응원해 주셔서 뜻 깊은 결과를 얻을 수 있었다”며 “응원 받은 만큼 훈련 열심히 해서 곧 있을 전국체전에서도 좋은 결과를 내도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FBFY5U56TVIRBLKGC433JZ7DXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;반효진이 12일 오전 대구 북구 대구체육고등학교 필승관에서 열린 ‘파리올림픽 신기록 수립 및 100번째 금메달 획득 기념 환영식'에서 소감을 전하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구사격장 측에 따르면 반 선수가 금메달을 딴 이후 자녀와 함께 공기소총 사격 체험을 하는 가족 단위 관람객이 늘고 있다고 한다. 반 선수는 사격 선수를 꿈꾸는 이들에게 “저는 긍정적인 사고가 가장 중요하다고 생각한다”며 “앞으로 사격을 준비할 후배들에게도 불가능은 없다고 말해주고 싶다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천시, 전기차 화재 아파트에 의료방역대책반 지원</title>
+      <link>https://www.chosun.com/national/regional/2024/08/12/TLNAUAI6QJHNRLFP4IZFXZ4RRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/12/TLNAUAI6QJHNRLFP4IZFXZ4RRY/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 12 Aug 2024 01:52:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VE5ACG7FF6OHL7OT7R6GXHXVJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천시청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천시는 최근 서구 청라국제도시 전기차 화재 아파트 주민들을 위한 의료방역대책반을 구성해 운영 중이라고 12일 밝혔다.&lt;br&gt;&lt;br&gt;80명 규모로 구성된 의료방역대책반은 아파트 단지 내 현장진료소를 설치해 주민들을 상대로 의료상담과 약 처방 등 서비스를 제공한다. 또 감염병 예방을 위해 분무 방역을 진행하고 마스크와 손소독제 등을 지원한다.&lt;br&gt;&lt;br&gt;대책반은 이번 화재 피해로 트라우마 등 심리적인 어려움을 겪는 주민들을 위해 ‘마음안심버스’도 투입한다. 마음안심버스는 재난 등으로 정서적 피해를 본 시민에게 즉각적인 심리지원을 제공하기 위해 시가 국비를 지원받아 제작한 이동 상담실이다.&lt;br&gt;&lt;br&gt;인천시 관계자는 “주민들의 일상 생활이 회복됐다고 판단될 때까지 의료방역대책반을 운영할 방침”이라며 “의료방역대책반 운영을 통해 갑작스러운 사고로 인해 마음의 충격을 받은 피해 주민들이 조속히 일상으로 복귀할 수 있도록 지원하겠다”고 말했다.&lt;br&gt;&lt;br&gt;한편 인천소방본부에 따르면 지난 1일 인천시 서구 청라국제도시 아파트 지하 주차장에서 발생한 벤츠 전기차 화재로 주민 등 23명이 연기를 마셔 병원으로 옮겨지고 차량 870대가 불에 타거나 그을렸다. 또 당시 화재로 지하에 설치된 수도관과 전기 배선 등이 손상되는 등 피해가 컸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주 바다에 또 상어 출몰...올 여름 5번째</title>
+      <link>https://www.chosun.com/national/regional/2024/08/12/Y64ME7MWWRHFPMAKTVD2NAOOLA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/12/Y64ME7MWWRHFPMAKTVD2NAOOLA/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 12 Aug 2024 01:20:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OZRB5BKLJZF4XJA6N7PMPYKUWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월 제주 해상에서 포획된 무태상어. /제주해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올여름 제주 해상에서 상어 출몰 신고가 잦아 수중레저 참가자나 해녀에게 비상이 걸렸다.&lt;br&gt;&lt;br&gt;12일 서귀포해양경찰서에 따르면 11일 오후 5시쯤 서귀포시 성산읍 광치기해변 인근에서 스쿠버 다이빙을 하던 레저객이 상어를 발견했다며 해경에 신고했다. 출몰한 상어의 종류는 정확히 구분되지 않았지만, 크기가 2∼2.5ｍ로 추정된다.&lt;br&gt;&lt;br&gt;서귀포시 연안 바다에서는 지난 6월부터 최근까지 2개월여간 지귀도 인근, 중문, 성산 등에서 모두 5건의 상어 출몰 신고가 다이버나 낚시객 등에 의해 접수됐다.&lt;br&gt;&lt;br&gt;이 가운데 2건은 무태상어가 실제로 포획됐다. 무태상어는 주로 온대·아열대 해역에서 서식하며 최대 3ｍ까지 자란다. 백상아리, 뱀상어 등과 마찬가지로 사람을 공격하는 습성이 있다.&lt;br&gt;&lt;br&gt;지난해에는 제주시·서귀포시에서 4건의 상어 출몰 신고가 있었다. 제주 연안의 상어 출몰은 고수온 등 해양 환경이 바뀌고, 상어의 연안 접근을 차단했던 남방큰돌고래의 개체수가 급감하면서 잦아진 것으로 분석된다.&lt;br&gt;&lt;br&gt;해경 관계자는 “스쿠버다이빙, 스노클링 등 연안 활동 중인 수중레저업체나 조업하는 해녀는 각별히 안전에 유의해야 한다”며 “상어를 발견하는 즉시 신고 바란다”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘구인난’ 송전선로 건설현장에 외국인력 2년간 600명 투입</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/12/XC6REX26CZEJTBQBE4WMKZ4VII/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/12/XC6REX26CZEJTBQBE4WMKZ4VII/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 12 Aug 2024 01:17:10 +0000</pubDate>
+      <content:encoded>법무부와 산업통산자원부는 구인난을 겪고 있는 송전선로 건설 현장에 향후 2년간 600명의 외국인력을 투입할 계획이라고 12일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VALRGSUE45CYNJQ5QR5B74TREM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송전탑과 송전선로/안산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부는 국내 송전선로 건설산업 분야가 최근 구인난을 겪고 있는 점을 고려해, 특정활동에 해당하는 E-7 비자를 이용해 외국인 근로자들이 입국할 수 있도록 하는 ‘송전전기원 직종 신설 계획’을 이날 발표했다. 정부는 향후 2년을 시범 운영 기간으로 정하고, 1년에 300명씩 총 600명에게 비자를 발급할 예정이다.&lt;br&gt;&lt;br&gt;업계에 따르면 송전선로 건설 전문 인력은 반도체 클러스터 구축, 전기차 보급 확대 등 급증하는 전력수요에 대응할 원전‧재생에너지 수송망 확충에 반드시 필요한 필수 인력이다. 그러나 열악한 근무환경에서 위험한 작업을 수행하는 특성으로 인해 신규인력 확보에 어려움을 겪고 있다고 한다.&lt;br&gt;&lt;br&gt;전력업계도 정부의 방침에 발맞춰 국내 송전 전문인력 신규 양성을 위해 취업교육 확대, 전기공사업체 입찰가점 부여제 등을 추진한다. 국내 인력 양성‧채용 실적에 따라 공사업체에게 입찰 가점을 부여한다는 것이다. 또 송전선로 건설현장에 필요한 안전관리원으로 지역청년을 채용해 국민고용을 창출·지원할 계획이다.&lt;br&gt;&lt;br&gt;박성재 법무장관은 “현장에 꼭 필요한 우수 외국인력 선발‧도입을 위해 노력하고, 균형 잡힌 비자제도 개선을 추진하여 정부의 전력망 확충을 지원하겠다”고 했다. 안덕근 산업통산자원장관도 “이번 법무부의 비자 제도 개선은 전력인프라 확보에 필수적인 인력부족 문제를 해소해 산업활성화, 국가경쟁력 증대에 크게 기여할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>금 거래소 침입한 2인조 절도범...방범 장치에 금도 못 보고 빈손 도주</title>
+      <link>https://www.chosun.com/national/regional/2024/08/12/P6HHKRNTG5CLNFE6TTENC2AF5U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/12/P6HHKRNTG5CLNFE6TTENC2AF5U/</guid>
+      <dc:creator>평택=권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 12 Aug 2024 00:31:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WR6V3O5Y6ZA4ARCYGY4TDESZWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;심야에 금 거래소 유리창을 깨고 들어갔던 2인조 절도범이 범행에 실패하고 달아났다 추적에 나선 경찰에 17시간 만에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 평택경찰서는 특수절도 미수 혐의로 A씨 등 30대 남성 2명에 대해 구속영장을 신청할 예정이라고 12일 밝혔다.&lt;br&gt;&lt;br&gt;친구 사이인 이들은 지난 11일 오전 3시 17분쯤 평택시에 있는 금 거래소의 유리창을 망치로 깨고 들어가 금품을 훔치려 한 혐의를 받고 있다. 이들은 당시 유리 진열대 위에 철판이 덮여 있는 것을 보고는 절도가 불가능하자 그대로 도주했다.&lt;br&gt;&lt;br&gt;경찰은 방범카메라 영상 등을 통해 이들이 범행에 사용한 오토바이의 이동 경로를 추적해 오후 8시 56분 충북 청주의 숙박업소에서 검거했다. A씨 등은 “대출 빚이 많아 갚으려고 했다”고 진술했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “금 거래소는 첨단 방범 시스템을 갖췄으며 업주가 퇴근하며 진열대에 절도 예방 장치를 작동해 둔 상태였다”며 “피의자들은 금붙이를 보지도 못하고 빈손으로 나왔던 것으로 파악됐다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경북 경주서 미니버스·SUV 충돌…10명 사상</title>
+      <link>https://www.chosun.com/national/regional/2024/08/12/63EMJ4WW35GVBPSQNGK5D2QWG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/12/63EMJ4WW35GVBPSQNGK5D2QWG4/</guid>
+      <dc:creator>경주=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 11 Aug 2024 23:52:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4RMDCK7FQZAYVBZR7LO5ZK5OLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11일 경북 경주에서 발생한 미니버스와 SUV 충돌사고 현장에서 구조대원들이 피해자들을 구조하고 있다. /경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경주에서 미니버스와 SUV 차량이 충돌해 1명이 숨지고, 9명이 다쳤다.&lt;br&gt;&lt;br&gt;12일 경북소방본부에 따르면, 지난 11일 오후 3시 42분쯤 경북 경주시 황성동 금장교 네거리 근처에서 미니버스와 BMW SUV가 충돌했다.&lt;br&gt;&lt;br&gt;이 사고로 미니버스 운전자가 심정지 상태로 구조돼 병원에 옮겨졌으나 숨졌고, 탑승자 8명이 다쳐 인근 병원으로 옮겨져 치료를 받았다. SUV 운전자도 경상을 입었지만, 병원으로 이송되지는 않았다고 한다.&lt;br&gt;&lt;br&gt;경찰은 SUV 운전자와 미니버스 탑승자 등을 상대로 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>폭염 14일째...온열 질환자 2213명, 가축 폐사 56만마리</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/12/HMQ5A4IANFEGPH2K6YBB6UX53E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/12/HMQ5A4IANFEGPH2K6YBB6UX53E/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 11 Aug 2024 23:36:21 +0000</pubDate>
+      <content:encoded>폭염으로 인한 온열 질환자가 2213명을 기록했다. 폐사한 가축은 56만2000여 마리로 집계됐다&lt;br&gt;&lt;br&gt;12일 행정안전부 중앙재난안전대책본부에 따르면 지난 10일까지 열사병, 열탈수 등 온열 질환자는 2213명으로 파악됐다. 작년엔 같은 기간 온열 질환자가 2126명이었다. 사망자는 20명이다.&lt;br&gt;&lt;br&gt;폭염 일수는 2023년 같은 기간 11.6일에서 올해 13.9일로 이틀 이상 늘었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CCJ6CBGXMGIY2665RXGHEV7NOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국 대부분 지역에 폭염특보가 발효된 11일 오후 대구 동구 율하체육공원 바닥분수에서 어린이들이 물놀이로 찜통더위를 식히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가축 폐사는 총 56만2000마리로 집계됐다. 돼지 3만6000마리, 닭·오리 등 가금류 52만6000마리다. 양식 피해는 조피볼락 16만4000마리, 강도다리 21만2000마리, 넙치 12만4000마리 등 총 50만마리로 집계됐다.&lt;br&gt;&lt;br&gt;정부 관계자는 “가축재해보험, 지방자치단체 수산 피해 신고 접수 내역 등을 합친 것으로, 주말 새 피해가 더욱 늘었을 수 있다”고 했다.&lt;br&gt;&lt;br&gt;행안부는 지난달 31일 오후 7시부로 중대본 1단계를 가동하고 폭염 위기경보를 ‘경계’에서 ‘심각’으로 올려 폭염에 대응 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“슈가야 응원할게”…운전 중 술병 들고 사진 찍는 BTS 해외 팬들</title>
       <link>https://www.chosun.com/national/national_general/2024/08/12/27YLSHIU2VB5ZENMRJYCOJH6YA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/12/27YLSHIU2VB5ZENMRJYCOJH6YA/</guid>
@@ -715,24 +814,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4MMBB6J52ZE5DMJBIIHKUOX4ZY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;‘강원 경찰 청렴의 날’ 행사에 참여한 김준영 강원경찰청장. /강원경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DDQEPHGF2ZAD5FO4MKZHNEHNTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오문교 충남청장. /충남경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 10일 경찰청 고위직 승진 인사를 단행했다.&lt;br&gt;&lt;br&gt;김준영(54) 강원경찰청장과 오문교(57) 충남경찰청장이 치안감에서 치안정감으로 승진했다. 치안정감은 경찰 총수인 경찰청장(치안총감) 바로 아래 계급으로 경찰청 차장과 서울·부산·경기남부·인천경찰청장, 경찰대학장 등 6개 자리가 있다.&lt;br&gt;&lt;br&gt;이날 치안정감 바로 아래 계급인 치안감 승진 인사도 함께 발표됐다.&lt;br&gt;&lt;br&gt;승진 대상자는 김동권 경찰청 국제협력관, 임정주 서울경찰청 경비부장, 고평기 서울경찰청 범죄예방대응부장, 도준수 서울경찰청 경찰관리관, 손제한 부산경찰청 수사부장, 백동흠 울산경찰청 수사부장, 모상묘 경기남부경찰청 분당경찰서장 등 총 7명이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>들개들이 아파트 단지서 주민 습격 “2m 점프해서 물더라”</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/10/V7VXSZ2R2VHHRKRDVM7O5TXQUA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/10/V7VXSZ2R2VHHRKRDVM7O5TXQUA/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 10 Aug 2024 04:56:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YIQOIDHQEVBLTNTQ62HRUF5N4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;들개들이 A씨를 공격하는 장면. /KNN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 반려견과 산책을 하러 나가던 60대 남성이 들개 2마리에게 습격을 당해 부상을 당한 사건이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;10일 부산소방본부 등에 따르면 사건은 지난 6일 오후 부산 동래구 안락동의 한 아파트 단지에서 발생했다.&lt;br&gt;&lt;br&gt;공개된 방범카메라 영상을 보면 당시 반려견과 함께 산책을 하기 위해 공동현관문을 나선 60대 남성 A씨에게 갑자기 들개 2마리가 달려들었다.&lt;br&gt;&lt;br&gt;놀란 A씨는 반려견을 안고 급히 자리를 피했지만 들개들에게 팔과 다리 등을 물렸다. 들개들은 도망치는 A씨를 계속 쫓아왔고, 풀쩍 뛰어올라 공격하기도 했다.&lt;br&gt;&lt;br&gt;A씨는 여러 차례 발길질을 한 후에야 겨우 들개들을 쫓아낼 수 있었다. 들개들은 공격을 포기한 이후에도 한동안 A씨 주변을 어슬렁거렸다.&lt;br&gt;&lt;br&gt;이 사고로 A씨는 팔에 두 바늘을 꿰매는 상처를 입었다. 들개들은 사건 발생 후 소방당국에 포획돼 구청으로 인계됐다.&lt;br&gt;&lt;br&gt;A씨는 언론 인터뷰에서 “한 2M를 점프해서 확 물고 (머리를) 흔들더라”며 “오늘 내가 죽는구나 이 생각했다. 노약자나 어린이들이 (이번 사고처럼) 사나운 큰 개 두 마리를 만나면 참변을 당한다”고 했다.&lt;br&gt;&lt;br&gt;한편 부산에서는 지난 1월에도 들개의 습격으로 20대 남성이 큰 부상을 입었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이정재, 사기 혐의로 피소.. 고소인 “200억 이용해 초록뱀미디어 인수”</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/10/QPWABANEUVFRZKRBZ45TGB4JGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/10/QPWABANEUVFRZKRBZ45TGB4JGQ/</guid>
-      <dc:creator>김수경 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 10 Aug 2024 03:48:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DEHBSWSJP74H3J4PFZMWCWJZN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이정재. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 이정재(52)씨가 사기 혐의로 경찰 수사를 받고 있다. 서울 강남경찰서는 지난 6월 이씨와 박인규 전 위지윅스튜디오 대표에 대해 특정경제범죄법상 사기 혐의로 고소장을 접수했고, 두 사람을 입건해 수사 중이라고 10일 밝혔다.&lt;br&gt;&lt;br&gt;방송계 등에 따르면 고소장을 제출한 사람은 드라마 제작사 래몽래인의 김동래 대표다. 김 대표는 두 사람이 최대주주가 되면 기업 성장에 큰 도움이 될 것처럼 자신을 속여 래몽래인의 지분을 넘겨줬지만, 이를 취득한 뒤 자신을 경영에서 배제시키려고 했다고 주장하고 있는 것으로 알려졌다. 또 자신과 공동 경영을 약속하고 계약서에도 ‘향후 성실하게 협의해 회사를 함께 경영한다’는 내용이 들어가 있지만 이씨와 박 전 대표가 이를 지키지 않았다고도 했다.&lt;br&gt;&lt;br&gt;김 대표 측은 이씨와 박 전 대표가 애초 기업사냥을 목적으로 자신에게 의도적으로 접근해 래몽래인의 경영권을 빼앗으려 했다고 주장하고 있다. 김 대표 측은 이씨와 박 전 대표가 “래몽래인이 보유한 현금 200억 원을 이용해 거래정지 중인 또 다른 상장사(초록뱀미디어)를 인수하는 작업에 곧바로 착수했다”며 이정재 측이 당초 약속한 회사 성장에는 관심을 두지 않은 채 초록뱀미디어 인수 작업에만 열을 올렸다고 주장하고 있다.&lt;br&gt;&lt;br&gt;이에 이씨 측은 김 대표를 허위사실에 대한 무고 및 사기 혐의로 맞고소한 상태라고 밝혔다. 이씨 측은 “애초 보통주 투자계약 시 계약서 전문에 ‘경영권을 양도하는 계약’이라고 돼 있다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 조만간 이정재와 박 전 대표에 대한 피고소인 조사를 진행할 예정인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>국내 외국인 의사 546명... 5년 반 만에 20% 넘게 늘어</title>
       <link>https://www.chosun.com/national/national_general/2024/08/10/3PV47BPE6ZHSBKFCNFWKC2HKOI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/10/3PV47BPE6ZHSBKFCNFWKC2HKOI/</guid>
@@ -756,64 +837,6 @@
       <description/>
       <pubDate>Sat, 10 Aug 2024 03:01:02 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2Z2RCOG7FWFK5P5BH4272NTV4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급대원들이 환자를 이송하는 모습.(사진은 기사 내용과 무관함)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연일 폭염이 기승을 부리고 있는 가운데 충남 지역 내 첫 온열질환 사망자가 나왔다.&lt;br&gt;&lt;br&gt;10일 충남도에 따르면 전날 오후 6시 48분쯤 태안군에서 80대 여성 A씨가 집 앞에서 의식을 잃고 쓰러진 것을 가족이 발견해 119에 신고했다.&lt;br&gt;&lt;br&gt;출동한 119구급대원은 도착 당시 A씨가 이미 사망한 것으로 판단했다. 의료진은 A씨가 열사병으로 숨진 것으로 보고 있다.&lt;br&gt;&lt;br&gt;충남도가 온열질환 응급실 감시체계를 가동한 지난 5월 20일부터 전날까지 도내 온열질환자는 총 115명으로 파악됐다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>방수현 “협회가 안세영 얼마나 특별케어했는지 밝혀질 것”</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/10/LNO2RHLOHNDEPAMZ6FLSZ27DVE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/10/LNO2RHLOHNDEPAMZ6FLSZ27DVE/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 10 Aug 2024 02:38:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VBTMPQQT5BJ6HHWCBKWKF2OQ2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일(현지시각) 파리 라 샤펠 아레나에서 열린 2024 파리올림픽 배드민턴 여자 단식 결승전 금메달을 딴 안세영이 28년 전 애틀란타 올림픽 금메달 리스트 방수현과 만나고 있다. /올림픽사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2024 파리올림픽 여자 배드민턴 단식 금메달리스트 안세영(22·삼성생명)이 대한배드민턴협회에 대해 공개적으로 불만을 제기해 논란이 일고 있는 가운데 배드민턴 전 국가대표 방수현 MBC 해설위원(52)이 재차 협회를 옹호하고 나섰다.&lt;br&gt;&lt;br&gt;방수현 해설위원은 9일 일요신문과의 인터뷰에서 “안세영이 항저우 아시안게임에서 부상을 당했고, 제대로 회복하지 못한 상태에서 국제대회 출전과 파리올림픽을 준비했다. 정말 쉽지 않은 과정이었을 것”이라면서도 “배드민턴협회에서 사상 처음으로 안세영한테 개인 트레이너를 허용했다. 그만큼 안세영의 몸 상태 회복을 위해 많은 걸 배려한 걸로 알고 있다”고 했다.&lt;br&gt;&lt;br&gt;방수현 해설위원은 “대표팀 선수로 뛴다는 게 얼마나 어렵나. 안세영만 힘든 게 아니다. 모든 선수들이 그런 환경에서 태극마크를 달고 뛴다”며 “나도 어린 나이에 대표팀에 들어가 그 시간들을 다 겪었다. 대표팀을 누가 등 떠밀어서 들어간 게 아니지 않나”라고 했다.&lt;br&gt;&lt;br&gt;방수현 해설위원은 “안세영으로선 올림픽 금메달 획득 후 자신의 말에 힘이 실렸을 때 협회의 부조리나 대표팀의 선수 보호 문제를 터트리려고 했겠지만 그 발언으로 안세영을 도운 연습 파트너들, 감독, 코치들, 트레이너들의 수고가 간과된 것 같아 안타까웠다”며 “이런 상황을 세밀하게 살펴볼수록 협회가 안세영을 얼마나 특별케어했는지 밝혀질 것”이라고 말했다.&lt;br&gt;&lt;br&gt;방수현 해설위원은 “안세영의 인터뷰 내용을 지적하고 싶진 않다. 단 인터뷰하는 시기가 아쉬웠다”며 “온 국민이 28년 만에 여자 단식에서 나온 올림픽 금메달을 축하하는 경사스러운 날에 올림픽 금메달 획득 기자회견장에서 작정하듯 폭탄 발언을 했다는 사실이 너무 안타까웠다. 그 인터뷰로 인해 올림픽에 출전하는 다른 선수들과 이슈들, 성적들이 묻혔다”고 했다.&lt;br&gt;&lt;br&gt;앞서 안세영을 비판하는 발언으로 논란이 된 것에 대해서는 “내가 협회랑 무슨 관계가 있는 것처럼 몰아가는 사람들이 있더라. 전혀 관계가 없다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UOIKNS2VTNOIFEE5MN2PKVHTXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일(현지시각) 프랑스 파리 포르트드 라 샤펠 아레나에서 열린 2024 파리올림픽 배드민턴 여자 단식 결승전에서 금메달을 딴 한국 안세영이 방수현 해설위원의 축하를 받고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방수현 해설위원은 “나는 대표팀 생활을 오래 했고, 여러 국제대회에 출전하면서 협회나 감독, 코치들, 훈련 파트너들이 얼마나 고생했는지 잘 알고 있다. 개인적으로 협회에 대한 아쉬움이 없는 선수가 있겠나. 나도 선수 시절엔 협회의 운영에 불만이 있었을 것”이라며 “하지만 태극마크를 달고 올림픽 무대에 섰고, 그 무대에서 어렵게 금메달을 획득했다면 그 금메달의 가치와 영광의 여운을 안고 귀국한 다음에 자리를 만들어서 인터뷰를 통해 자신의 생각을 정리해 전달했다면 더 좋았을 것”이라고 했다.&lt;br&gt;&lt;br&gt;방수현 해설위원은 앞서 라디오 인터뷰에서 안세영 선수를 겨냥해 “협회나 시스템 이런 것들이 조금 변화돼야 하는 건 맞지만 안 선수 본인이 혼자 금메달을 일궈낸 건 아니지 않나”라고 했다.&lt;br&gt;&lt;br&gt;방수현 해설위원은 28년 전인 1996년 애틀랜타 올림픽 여자 배드민턴 단식에서 금메달을 획득했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘5000억원대 유사 수신’ 와콘 대표 구속기소</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/10/5YB6KSVDANHNTFCNBUBN6VW67E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/10/5YB6KSVDANHNTFCNBUBN6VW67E/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 10 Aug 2024 02:15:37 +0000</pubDate>
-      <content:encoded>가상자산 등을 운용해 고수익을 올려주겠다며 수천억원대 투자금을 불법 유치한 혐의를 받는 업체 대표가 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울중앙지검 형사5부(부장 김태헌)는 지난 9일 540억원대 사기와 5000억원대 유사수신 혐의로 와콘 대표 변모씨와 공범 염모씨를 구속 기소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WYOIMZKD34RWQHYAKQHU4EBHUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;와콘은 가상자산 지분 등을 예치하면 고액의 이자를 주겠다며 투자자를 모집했지만 지난해 중순부터 원금과 이자를 지급하지 않았다. 이에 다수의 회원이 변씨 등을 고소했고, 서울경찰청 금융범죄수사대가 올해 3월부터 사건을 맡아 수사해 왔다. 수사기관이 확인한 피해자만 500여명인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 지난달 23일 변 대표와 염씨를 검찰에 구속 송치했고 현재 공범에 대한 수사를 이어가고 있다.&lt;br&gt;&lt;br&gt;한편 박은정 조국혁신당 의원의 남편인 이종근 변호사가 경찰 수사 단계에서 변씨 등을 변호한 사실이 지난 총선 당시 알려져 논란이 되기도 했다. 당시 이 변호사는 “논란된 수임 사건을 모두 사임하겠다”고 했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원 휴정기 종료...이재명·송영길 등 재판 다시 속도</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/10/SEX6RML7HVC77B5CEKG2RLEFEU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/10/SEX6RML7HVC77B5CEKG2RLEFEU/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 10 Aug 2024 00:39:46 +0000</pubDate>
-      <content:encoded>전국 법원이 2주간의 하계 법원 휴정기를 마치고 다시 재판 심리에 돌입한다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 지난달 29일부터 이달 9일까지 하계 휴정기를 보낸 법원들은 오는 12일부터 재판 일정을 다시 시작한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FWVKJ6E7ECWRHGOCADSEFAOAPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중앙지법 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법에서는 이재명 전 더불어민주당 대표의 재판이 다시 열린다. 이 전 대표는 서울중앙지법에서 공직선거법 위반 사건, 위증교사 사건, 대장동·위례신도시·백현동·성남FC 사건 등 세 개의 재판을 받고 있다. 그중 공직선거법 위반 사건과 위증교사 사건은 1심 재판이 막바지에 다다랐다. 두 재판부는 각각 다음달 결심 공판을 열고, 이르면 10월 중 선고를 내릴 전망이다.&lt;br&gt;&lt;br&gt;송영길 소나무당 대표(전 민주당 대표)의 ‘2021년 민주당 전당대회 돈봉투 살포 의혹’ 관련 재판은 오는 14일 다시 열린다. 재판부는 두 차례 공판을 연 뒤 송 전 대표 측 추가 증인 신청이 없으면 변론을 종결하겠다는 입장이다.&lt;br&gt;&lt;br&gt;허종식 의원과 이성만·임종성 전 의원의 돈 봉투 수수 혐의 재판은 오는 30일 내려진다. 검찰은 이 전 의원에게 징역 2년 6개월을, 허 의원과 임 전 의원에게 징역 1년을 각각 구형한 상태다.&lt;br&gt;&lt;br&gt;배우 유아인(본명 엄홍식)의 마약류 상습 투약 혐의 사건 1심 선고는 9월 3일 이뤄진다.&lt;br&gt;&lt;br&gt;서울고법에선 ‘고발 사주 의혹’으로 1심에서 징역 1년을 선고받은 손준성 대구고검 차장검사에 대한 2심 선고가 오는 9월 6일 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전동킥보드 사고 35%가 무면허... 4명 중 3명 “안전모 안 써요”</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/10/LMQ6KPINVRERBAIKQ3OJBKJAPI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/10/LMQ6KPINVRERBAIKQ3OJBKJAPI/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 10 Aug 2024 01:34:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JST2YG4Z7RIHPOMYEKZSWPATD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;따릉이 폭주 연맹(따폭연)이 서울 시내에 집결을 예고한 4일 오후 서울 성동구 성수역 일대에서 경찰들이 사고 예방과 시민 안전확보를 위한 현장 단속을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전동킥보드나 전기자전거 등 개인형이동장치(PM)에 의한 교통사고가 급증하는 가운데, 사고를 낸 이의 35%가 무면허 운전자인 것으로 나타났다.&lt;br&gt;&lt;br&gt;10일 한국도로교통공단 교통과학연구원이 발간한 ‘2024년 교통안전연구’에 실린 ‘개인형 이동장치 교통안전 확보를 위한 정책방향 연구’ 논문에는 이 같은 내용이 담겼다. 연구팀은 2017년부터 2022년까지 전국에서 발생한 개인형이동장치 사고 5860건을 분석했다.&lt;br&gt;&lt;br&gt;분석 결과 20세 미만(32.4%)이 낸 개인형이동장치 교통사고 비율이 가장 높았다. 20대(32.1%), 30대(14.7%), 40대(9.4%), 50대(5.9%), 60대(2.8%), 70세 이상(2.7%) 등 연령이 높아질수록 낮아졌다.&lt;br&gt;&lt;br&gt;개인형이동장치는 ‘제2종 원동기장치자전거면허’ 이상의 면허를 취득해야 이용 가능하다. 그러나 사고의 34.6%(2027건)가 운전면허 미취득자에 의해 일어난 것으로 조사됐다. 무면허로 사고를 낸 운전자는 20세 미만이 67.6%, 20대가 18.6%였다. 연구팀은 “20대 이하를 대상으로 운전면허 취득을 유도해 제도권 내에서 운전자 관리를 할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;개인형이동장치 사고 유형은 차대차(50.5%), 차대사람(38.4%), 차량단독(11.1%) 순이었다. 일반적인 면허차량은 차대차(76.9%) 차대사람(18.9%), 차량단독(4.2%)이다. 연구팀은 “개인형이동장치 운전자가 통행방법을 위반하고 보도로 통행하는 경우가 많기 때문에 차대사람 사고 비율이 높고, 운전미숙 등 이유로 차량단독 사고도 높은 것으로 해석된다”고 분석했다.&lt;br&gt;&lt;br&gt;연구팀은 최근 1년간 개인형이동장치를 쓴 경험이 있는 20세 이상 운전자 100명을 대상으로 설문을 진행한 결과, 이용규칙은 알지만 실천하지 않는 이가 상당한 것으로 나타났다.&lt;br&gt;&lt;br&gt;응답자의 63%는 개인형이동장치 허용도로(자전거 도로·횡단도 등)에 대해 인지하고 있었다. 안전모 착용(97%), 승차 정원 제한(92%) , 음주운전 금지(100%), 전조등 등 등화장치 의무화(54%) 등 대부분 이용 규칙을 알고는 있었다.&lt;br&gt;&lt;br&gt;하지만 이러한 이용 규칙을 지킨다고 답한 이는 적었다. 허용도로를 지키고 안전모를 착용한 채 운전한다고 답한 이가 각각 26%에 불과했다. 승차 정원을 지킨다는 이는 77%, 음주운전 금지 규칙을 지킨다는 이는 82%였다.&lt;br&gt;&lt;br&gt;연구팀은 “싱가포르처럼 기존 운전면허 소지자도 개인형이동장치를 운전하려면 교통안전교육을 이수하도록 하는 등 의무교육을 도입할 필요가 있다”며 “단속 강화를 통해 음주운전, 동승자 탑승 등 법규위반을 적극적으로 관리해야 한다”고 제언했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/JST2YG4Z7RIHPOMYEKZSWPATD4.jpg?width=1899&amp;height=2727&amp;auth=484f2cca8b363be7b738eaf39455273c8fedc829b9b4a57822f97fb014fe92c6&amp;smart=true" type="image/jpeg" height="2727" width="1899">
-        <media:description type="plain">[서울=뉴시스] 이영환 기자 = 따릉이 폭주 연맹(따폭연)이 서울 시내에 집결을 예고한 4일 오후 서울 성동구 성수역 일대에서 경찰들이 사고 예방과 시민 안전확보를 위한 현장 단속을 하고 있다. 2024.08.04. 20hwan@newsis.com</media:description>
-        <media:credit role="author" scheme="urn:ebu">20hwan</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“왜 째려봐”...직장 동료에 흉기 휘둘러 다치게 한 50대, 징역 1년</title>
-      <link>https://www.chosun.com/national/regional/2024/08/10/646ECBCWE5FSBPIKCO36QSPMO4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/10/646ECBCWE5FSBPIKCO36QSPMO4/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 10 Aug 2024 01:15:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TZFPC3BMUNP3PSYSCKJYB324OQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신을 째려봤다는 이유로 흉기를 휘둘러 직장 동료를 다치게 한 50대가 실형을 선고받았다.&lt;br&gt;&lt;br&gt;청주지법 형사6단독 조현선 부장판사는 특수상해 혐의로 재판에 넘겨진 A(56)씨에게 징역 1년을 선고했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;청주시에서 기간제 공공근로자로 일하던 A씨는 지난 4월 직장 동료인 B(66)씨가 자신을 째려봤다는 이유로 화가 나 욕설을 하며 자신의 승용차에 보관 중이던 흉기를 가져와 B씨에게 휘둘러 다치게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;조 부장판사는 “흉기를 빼앗긴 후에도 계속 피해자를 폭행하는 등 죄질이 불량하다”며 “범행 위험성이 높았고 피해자로부터 용서받지 못한 점 등을 참작했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서현역 흉기 난동 유족들 “상징적 테러 범죄 저지른 최원종에 꼭 사형 내려달라”</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/10/CZHNGGW6CRCUNIN7QMZLXRY5W4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/10/CZHNGGW6CRCUNIN7QMZLXRY5W4/</guid>
-      <dc:creator>박정훈 기자, 김도연 인턴기자(고려대 정치외교학 수료)</dc:creator>
-      <description/>
-      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
-      <content:encoded>“재판부는 타 살인 사건과의 형평성을 고려해 무기징역을 선고해야 한다고 하지만 서현역 사건은 1차 차량 돌진, 2차 칼부림에 이어 3차 범행까지 시도하려던 중 붙잡힌 계획적 테러 사건입니다. 이런 범죄를 저지른 피의자마저 사형을 선고받지 않는다면 앞으로 어떤 범죄를 저질러도 사형은 없다는 확신이 생기지 않을까요? 이번 선고가 하나의 터닝포인트가 되길 바랍니다.”(고 김혜빈씨 어머니)&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2Q3T3T6K5JB7DLU2WRNYYXVUWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 8월 3일 발생한 묻지마 범죄인 서현역 칼부림 사건 1주기를 앞두고 지난달 18일 오후 경기 성남시 분당구 AK플라자 분당점 앞에서 희생자 유족들이 당시 범인이 인도로 차를 몰고 난입한 현장을 둘러보고 있다. 현장엔 시민들이 가져다놓은 꽃이 놓여 있었다. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 여름엔 유독 흉악 사건이 많았다. 8월 3일 경기 성남시 분당구 지하철 수인분당선 서현역 인근서 20대 남성이 차를 몰고 인도로 돌진하고 백화점에서 칼을 휘둘러 2명이 죽고 12명이 다치는 일명 서현역 칼부림 사건이 발생했다. 서울 관악구 신림역에서 20대 남성 1명을 살해하고 30대 남성 3명을 다치게 한 신림역 칼부림 사건이 발생한지 2주만이었다. 서현역 사건 2주 뒤엔 신림동 등산로에서 대낮에 강간 살인 사건이 발생했다. 그러나 신림동 칼부림 사건 피의자 조선(34), 신림동 등산로 성폭행 사건의 피의자 최윤종(31)은 1심과 2심에서 검찰이 구형한 사형이 아닌 무기징역을 선고받았다. 서현역 칼부림 사건의 범인 최원종(23)도 1심에서 무기징역을 선고받았고 오는 20일 2심 선고를 기다리고 있다. 검찰은 1심과 마찬가지로 최원종에 사형을 구형했다.&lt;br&gt;&lt;br&gt;지난달 18일 오후 서현역 AK플라자 2층 출입구로부터 100여m 떨어진 고가도로 위. 비가 추적추적 내리는 길가엔 작은 화단과 꽃 몇 송이가 놓여 있었다. 이곳은 바로 1년 전 최원종이 몰은 차에 의해 60대 여성 이희남씨가 치어 숨진 곳. 그로부터 10m 앞에선 20대 여성 김혜빈씨가 역시 최원종의 차에 의해 치어 숨진 곳이 빨간줄로 표시돼 있었다. 이날 이씨의 큰딸 이모(38)씨와 작은딸 이모(34)씨, 김씨의 부친 김모(57)씨와 모친 김모(53)씨는 “평범한 일상이 그날 한순간에 무너졌고 모든 것이 멈춘 기분”이라며 “분당에서 수십년을 살았는데 사고 장소를 지날 때면 1년 전의 끔찍했던 기억이 떠올라 빙 돌아가게 된다”고 트라우마를 호소했다.&lt;br&gt;&lt;br&gt;서현역 사건 유족들은 2심에서 최원종에 꼭 사형이 선고돼야 한다며 재판부가 엄벌을 내려줄 것을 호소했다. 이희남씨 작은딸은 “사형을 집행하지 않는다고 해도 무기징역과 사형이 주는 죄의 무게감은 전혀 다르다”며 “무기징역은 가석방도 가능하기에 종신형도 아니지 않나”고 했다. 김혜빈씨 부친은 “누군가의 인생을 해치면 내 인생도 없다는 믿음이 있어야 한다 “며 “악의를 갖고 사람을 차로 박고 칼로 찌르고 다니기까지 했음에도 강한 처벌이 안 이뤄진다면 되겠나”라고 했다. 그는 또 “이 사건에도 사형선고가 안 내려지면 모든 범죄가 차별화되지 않고 이런 살인이 만연해질 것”이라고 했다. 또 유족들은 “김호중이 음주운전을 내고 도주한 뒤 음주운전 혐의가 적용이 안 된 것을 보고 하나의 사례가 되고 법이 우스워졌다”며 “이번 판결이 앞으로 흉악 범죄 판결들에 있어 하나의 중요한 터닝포인트가 될 것이라 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;이날 유족들은 사고 이후 경기도, 성남시, 분당구 등 지자체에서 1년간 단 한 번도 제대로 된 위로나 사과가 없었다고도 주장했다. 사고 이후 병원에 혼수 상태로 김혜빈씨가 누워있을 때 경기도청에서 직원이 매일 나와 김씨 상태를 물었지만 정작 도지사가 병원에 직접 와보거나 연락한 적은 없다고 했다. 그 외 기초단체장이나 국회의원 등도 모두 장례식장에 보내달란 적 없는 깃발만 보내고 실제로 찾아온 사람은 극히 드물었다고 했다. 유족들은 특히 최근 시청역 사고 이후 오세훈 서울시장이 나서 유족과 피해자들에 대한 지원을 하는 것을 보고 일종의 박탈감을 느꼈다고도 했다. 김혜빈씨 모친은 “지자체에서는 법적 근거가 없어 지원을 해줄 수 없다는 말만 되풀이했다”며 “지방 분권 시대라면서 특별시민만 시민인가”라고 했다.&lt;br&gt;&lt;br&gt;이들은 누군가에 피해를 입히면 그에 합당한 벌을 받는다는 것을 재판부가 보여주길 바란다고 했다. 이희남씨 작은딸은 “인도에서 빠른 속도로 차를 몰고와 사람을 친 잔혹한 사건에 대해서도 사형이 내려지지 않으면 대한민국은 안전한 사회가 아닐 것”이라고 했다. 김혜빈씨 부친은 “사건이 터지고 판례들을 찾아보며 느낀 게 감형 요소 등 범죄자에게 유리하게 작용하는 법들이 많다”며 “재판을 진행할수록 이것이 적절한 죄를 묻기 위한 절차인지, 감형을 위한 절차인지 헷갈린다”고 했다.&lt;br&gt;&lt;br&gt;마지막으로 유족들은 가족들의 희생이 헛되지 않고 더 공정한 사회를 위한 초석이 되길 바란다고 했다. 이희남씨 작은딸은 “우리 어머니와 혜빈씨의 죽음이 사회가 더 나은 방향으로 변화하도록 밑거름이 됐음 해 인터뷰에 응했다”고 했다. 김혜빈씨 모친은 “유족들이 이 사건 사형 선고를 위해 어떤 노력들을 했는지 기록으로 남기고 싶다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[이별전쟁] 이사간 아파트서 친해진 이혼녀가 말했다 “니 남편이 내 아이 아빠야!”</title>
@@ -863,24 +886,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZVWYEXH7ZGKXJUTB56EHDH6BA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 도봉구에서 쓰러진 후 열사병 판정을 받고 사망한 기초생활수급자 A씨의 집 현관 문을 열자 무릎 높이까지 쌓인 쓰레기 산이 모습을 드러냈다. 낡은 선풍기 외 냉방 장치가 없어 집 안은 후덥지근했다. /김지수 인턴기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;체감 온도 40도에 이르는 폭염(暴炎)에 에어컨도 없는 집에서 지내던 40대 기초수급자가 열사병으로 사망한 사건이 뒤늦게 알려졌다. 서울 도봉소방서는 지난달 30일 오전 10시 51분쯤 “사람이 쓰러졌다”는 신고를 받고 쌍문동의 한 편의점에 도착했다. 40대 A씨가 이온 음료를 꺼낸 뒤 바닥에 쓰러졌던 것이다. 당시 감시카메라 화면을 보면 A씨는 일어나려고 했으나 그 자리에서 일어나지 못했고 숨을 가쁘게 몰아쉬며 다리를 떨었다.&lt;br&gt;&lt;br&gt;구조대원이 측정한 A씨의 체온은 40도. 뇌 손상이 우려되는 상태였다. 구조대는 당초 A씨 요구대로 인근 집으로 그를 옮겼으나 집 내부에 쓰레기가 쌓여 있어 진입이 어려운 데다, A씨를 혼자 둬선 안 된다고 판단했다. 인근 병원 14곳에 A씨 이송을 문의했으나 ‘더 위급한 중환자가 많다’는 이유 등으로 거부당했다. A씨는 쓰러진 지 1시간 34분이 지난 오후 12시 37분에야 12㎞ 떨어진 중구 국립중앙의료원에 도착했지만 열사병 진단을 받고 숨졌다.&lt;br&gt;&lt;br&gt;9일 본지 기자가 방문한 A씨 자택은 10가구가 거주하는 3층짜리 다세대 주택이었다. 16.5㎡(약 5평) 남짓한 단칸방엔 빈 막걸리병과 이온 음료, 숙취 해소 음료 페트가 가득 차 있었다. 에어컨은 없었고 낡은 선풍기 한 대가 놓여 있었다. 몇 초만 서 있어도 숨이 막힐 정도로 건물 안 열기가 높았다. 이웃 주민들은 “동사무소 등에 집 청소를 의뢰했으나 A씨가 거절했다”며 “사망 소식이 안타깝다”고 했다.&lt;br&gt;&lt;br&gt;행정안전부는 이날 올여름 폭염으로 전국에서 온열 질환 사망자가 19명 발생(7일 기준)했다고 밝혔다. 온열 질환자는 2004명이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[단독] 네이버웹툰 美 상장 김준구 대표, 모교 서울대 졸업식 축사 맡는다</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/10/XNHWTXF3VZA35LX2VXWMB4FZBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/10/XNHWTXF3VZA35LX2VXWMB4FZBM/</guid>
-      <dc:creator>박정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 09 Aug 2024 20:02:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ARDKZEIOPVDUTNRASOCYHTABOA.jpg"&gt;&lt;br&gt;&lt;br&gt;네이버웹툰을 미국 나스닥에 상장시켜 K웹툰 세계화의 새 지평을 연 김준구(47) 네이버웹툰 대표가 모교인 서울대 졸업식 축사를 맡는다. 서울대는 29일 열리는 제78회 후기 학위 수여식에서 김 대표가 축사를 한다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;김 대표는 서울대 응용화학부(현 화학생물공학부) 97학번이다. 공학 전공에 따라 개발자로 네이버에 입사했음에도 ‘만화광’이란 취미를 살려 스타 웹툰 작가들을 직접 발굴하며 네이버웹툰을 일궜다. 2014년 포브스에서 선정한 가장 혁신적인 차세대 리더 12인에 오르기도 했고 지난 6월 네이버웹툰의 나스닥 상장을 이끈 인물이다. 이번 상장은 K웹툰이 그간 세계를 석권한 K영화나 K팝과 같이 글로벌 대중문화의 주요 축으로 공인됐다는 의미가 있다.&lt;br&gt;&lt;br&gt;서울대 측은 “이번 상장을 계기로 서울대생들의 전형적 코스가 아닌, 창의적 삶을 살아온 김 대표에게 주목했다”며 “본인의 전공인 공학에 안주했어도 평범하게 잘 살 수 있었을 텐데 도전 정신을 발휘한 점이 귀감이 될 것”이라고 했다. 네이버웹툰 관계자는 “김준구 대표가 좋아하는 일을 글로벌 산업으로 키워가며 배우고 느낀 점들을 후배들과 나누고자 축사 요청에 응했다”고 했다.&lt;br&gt;&lt;br&gt;서울대 졸업식 축사 연사는 매년 졸업생들에게 귀감이 될 만한 인물로 선정한다. 지난 2월 졸업식에선 ‘법조계 봉사왕’ 오윤덕(82) 사랑샘재단 이사장이, 지난해 8월 졸업식에선 한국의 대표 진화생물학자인 최재천(70) 이화여대 에코과학부 석좌교수가 연사를 맡았다. 누리호 발사를 성공적으로 이끈 고정환 한국항공우주연구원 한국형발사체개발사업본부장, 필즈상을 받은 허준이 미국 프린스턴대 교수, 반기문 전 UN 사무총장과 방시혁 하이브 의장 등도 연사를 맡았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전공의 이탈 뒤 첫 추석 온다… 응급실 “환자 2배 느는데 의료공백 걱정”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/08/10/XREAI3TVPVBTRHEBPUQ2A6M64U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/10/XREAI3TVPVBTRHEBPUQ2A6M64U/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 09 Aug 2024 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VPNXEHJH7JOBBECPP7ZN24HXXQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;정부의 의대 정원 확대에 반발하며 의료계의 집단행동이 이어지고 있는 30일 오전 서울 시내 한 대학병원에서 환자와 보호자가 이동하고 있다.  2024.7.30/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;급 환자가 최대 2.5배가량 증가하는 다음 달 추석 연휴(14~18일)를 앞두고 의료 공백에 대한 우려가 커지고 있다. 지난 2월 말 전공의 이탈 후 첫 명절 연휴를 맞아 응급실 등 의료 공백을 우려하는 목소리가 커지고 있다. 응급의학과 의사들 사이에선 “전공의 없이 맞이할 추석 연휴가 큰 고비가 될 수 있다”는 지적이 나왔다.&lt;br&gt;&lt;br&gt;응급실 의료진에게 설과 추석 등 명절 연휴는 연중 가장 힘든 기간이다. 응급실 외 다른 과 근무 인력도 최소화하기 때문이다. 응급실에서 응급 환자를 받더라도 최종 치료를 담당할 의사가 부족하다는 의미다. 명절 연휴에는 장염, 복통, 열 등으로 응급실을 찾는 환자들도 늘어난다.&lt;br&gt;&lt;br&gt;지난해 설 연휴 응급실 내원은 8만6000여 건이었다. 설 전날 내원은 2만1000여 건, 설 당일 2만3000여 건, 설 다음 날 2만 4000여 건이었다. 연휴가 없는 평일의 1.6배, 주말의 1.2배에 달했다.&lt;br&gt;&lt;br&gt;이형민 대한응급의학의사회장은 “연휴 기간 응급실 이용률은 평상시보다 1.5배에서 2.5배까지 높아진다”며 “전공의가 떠난 상황에서 처음 맞는 연휴 기간의 응급실 상황을 차마 예상조차 할 수 없다”고 했다. 그는 “이번엔 환자들과 환자 보호자들의 불만이 터져나오는 건 물론이고, 의료 사고도 불가피하게 높아질 것”이라고 했다.&lt;br&gt;&lt;br&gt;여기에 더해 현재 코로나도 확산 추세다. 최근 4주간 코로나 입원 환자는 6배 가까이 급증했고, 응급실로 오는 코로나 환자도 크게 늘었다. 이경원 용인세브란스병원 응급의학과 교수(대한응급의학회 공보이사)는 “응급실 인력이 부족한 지금 상태로 추석 연휴를 맞으면 환자 진료가 지연되거나 환자들이 불편을 겪는 건 불가피할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>태양을 옮기다</title>
       <link>https://www.chosun.com/national/weekend/2024/08/10/2WQIHO3KKBGCXF4JAUT3SPFKYE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2024/08/10/2WQIHO3KKBGCXF4JAUT3SPFKYE/</guid>
@@ -888,15 +893,6 @@
       <description/>
       <pubDate>Fri, 09 Aug 2024 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BJUUJWB4X5BEDMSAKT3DEZBWGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권재륜의 오감도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;차귀도는 제주도 서쪽 끝에 있는 섬이다. 이곳에서만 발견된 동식물이 여러 종이라 2000년 천연기념물(제422호)로 지정되었다.&lt;br&gt;&lt;br&gt;이 섬의 이름에 얽힌 전설이 있다. 옛날 송나라 사람 호종단이 이 섬에서 중국을 위협할 위인이 나타날 것이라 예언하고 섬의 지맥과 수맥을 끊은 뒤 돌아가려 했다. 그때 한라산의 수호신인 큰 매가 나타나 배를 침몰시켜 호종단이 돌아가는 것(歸)을 막았다(遮) 하여 차귀도(遮歸島)가 된 것이다.&lt;br&gt;&lt;br&gt;죽도와 와도 2개의 섬으로 이뤄진 차귀도는 보는 각도에 따라 표정이 달라지는 ‘천의 얼굴’을 가졌다. 제주의 최서단에 있는 섬답게 일몰 명소이기도 하다. 제주 본섬 고산리 노을해안로에서 차귀도의 멋진 노을을 카메라에 담을 수 있다. 사진 찍는 타이밍과 위치를 잘 조절하면 해를 이렇게 큰 바위 얼굴의 눈으로 만들 수 있다. 태양을 저 위치로 옮기기(?) 위해 전력 질주했던 기억이 생생하다. 사진은 역시 발품으로 얻는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>구로역 작업 청년 2명 숨져… 지하철 사망 두 달 새 4건</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/10/3AJ4R5LUF5CBNL7O7QWGJZEX5I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/10/3AJ4R5LUF5CBNL7O7QWGJZEX5I/</guid>
-      <dc:creator>강지은 기자, 김영은 인턴기자(한국외대 말레이인도네시아어과 수료)</dc:creator>
-      <description/>
-      <pubDate>Fri, 09 Aug 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M5RPICSFVNJLJL535VUN24DUHU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오전 2시 20분쯤 서울 지하철 1호선 구로역에서 모터카에 올라 전차선 작업을 하던 30대 남성 2명이 사망하고, 1명이 부상했다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 지하철 1호선 구로역에서 전차선(線) 보수 작업을 하던 30대 청년 두 명이 사망하는 사고가 발생했다. 지난 2개월간 서울 지하철 연신내역·양재역·삼각지역에서 근로자 3명이 사망한 데 이어 이번에도 귀중한 인명이 희생된 것이다. 전문가들은 “책임자들의 관리·감독이 부실했는지 철저히 조사해야 한다”고 했다.&lt;br&gt;&lt;br&gt;한국철도공사(코레일)는 9일 오전 2시 14분쯤 서울 지하철 1호선 구로역에서 선로 전차선을 보수하려고 작업 열차에 올랐던 근로자 3명이 사상했다고 밝혔다. 이들은 가산디지털단지역 방향 하행선을 따라 5m 높이 작업대(바스켓)에 올라 해당 선로 전차선을 고치던 중 반대 방향에서 달려온 선로 점검 열차에 치여 변을 당했다. 32세 정모씨는 현장에서 즉사했고 31세 윤모씨는 심정지 상태로 병원에 이송됐으나 숨졌다. 50대 근로자는 골절상을 입었다. 맞은편 선로 점검 열차를 몰던 40대 운전자도 타박상을 당했다. 이들은 코레일 수도권 서부본부 소속 직원들로, 4조 2교대 체제로 돌아가며 주·야간 작업을 병행했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XSWE5LSO4BFLDIEW4JKFUSEB24.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코레일 안팎에선 당국이 안전 관리를 소홀히 했다는 지적이 나왔다. 열차 운행이 중단된 새벽에 작업을 실시했는데도, 작업 열차가 교차하는 상황에서 두 명이나 사망할 만큼 심각한 관리 부실 가능성이 있다는 것이다. 특히 2022년 새로 도입된 작업 열차의 작업대 활동 반경이 마주 오는 선로를 침범할 만큼 넓은데도 대책을 세우지 않았다는 비판도 나왔다. 사고 현장을 조사한 고용노동부 관계자는 “작업대(바스켓)는 좌우 방향으로 조정이 가능한데, 옆 선로로 튀어나와 달려오던 차량과 부딪친 것”이라고 했다. 사고 가능성이 농후한 장비를 운용 중이었음에도, 반대편 철로에서 선로 점검 열차가 아무 제지 없이 달려올 수 있었던 이유를 조사해야 한다는 것이다.&lt;br&gt;&lt;br&gt;현행 ‘선로 유지 관리 지침’을 보면 이 같은 보수 공사 전엔 각종 안전·위험 요소를 판단한 계획서를 작성하고, 소관 부서장이 책임을 지도록 명시돼 있다. 전문가들은 “이 같은 계획이 제대로 수립·이행됐는지 철저히 수사해야 한다”고 했다.&lt;br&gt;&lt;br&gt;최명기 대한민국산업현장교수단 교수는 “양측 선로 근로자들이 서로의 작업 상황을 몰랐을 가능성도 있다”며 “알았다고 하더라도 두 작업 상황을 통제하는 주체가 없었거나 역할을 제대로 못 한 것”이라고 했다. 철도노조 관계자는 “반대편 선로를 차단했다면 인명 피해가 당연히 발생하지 않았을 것”이라며 “새로 도입한 작업 열차의 특성이 안전 매뉴얼에 반영됐는지 살펴봐야 한다”고 했다. 국토교통부는 “안전 규정 및 작업자 안전 수칙 준수 여부를 철저히 조사하고, 유사 사고 재발 방지 대책을 마련하겠다”고 했다. 고용노동부 서울지방고용노동청도 중대재해처벌법 위반 사항이 있는지 조사 중이다.&lt;br&gt;&lt;br&gt;이날 사고로 숨진 정씨와 윤씨는 각각 2018년, 2021년 입사한 청년이었다. 오후 4시쯤 서울 고대구로병원 장례식장에 급하게 마련된 윤씨의 빈소엔 영정도 없었다. 어머니 등 유족들은 윤씨의 이름을 부르며 흐느꼈고, 주변 부축을 받으며 간신히 거동했다. 한 직장 동료는 생전 윤씨에 대해 “엄마에게 진짜 착한 아들이었다”며 “순수하고 마음 넓었던 청년”이라고 했다. 정씨는 서울의 유명 대학을 졸업하고 코레일에 입사해 뛸 듯이 기뻐했다고 한다. 유족들은 “가족들에게 잘하는, 딸 같은 막내아들이었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DN3FLKDJ4FA7RCFCDG3CWZNTIU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김하경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 17일 서울 서초구 신분당선 양재역에서 역사 내 천장에 유도등을 설치하던 60대 일용직 남성이 사망했다. 같은 날 오전엔 6호선 삼각지역 환기 시설에서 투광등을 설치하던 50대 남성이 감전사했다. 지난 6월에도 3호선 연신내역 지하 1층 전기실 단전 작업자가 사망했다. 서울교통공사 노동조합은 “더 이상 참극이 발생하지 않게 철저한 안전 대책과 진정성 있는 사과가 있어야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>사라질 극장에서 아트페어, 역 중앙홀 뒤덮는 파도 영상… ‘역캉스’ 떠나볼까?</title>
