@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>천공 영상 제작사 前 직원, 임금 청구 소송서 일부 승소</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/13/63VSHJK5NBFU3FTX73Z46J2UK4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/13/63VSHJK5NBFU3FTX73Z46J2UK4/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 13 Aug 2024 13:03:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W27ZQBJGAJE2NE7RTZLPGIV4B4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜브 채널 '정법시대' 화면. /천공 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;역술인 천공의 영상 등을 만드는 회사에서 일하던 직원이 임금을 달라고 낸 소송에서 일부 승소했다.&lt;br&gt;&lt;br&gt;서울서부지법 민사9단독 최은주 판사는 13일 주식회사 정법시대 직원 A씨가 임금을 달라며 회사를 상대로 제기한 소송에서 1847만원을 지급하라고 판결했다. 재판부는 선고 이유를 밝히지는 않았다.&lt;br&gt;&lt;br&gt;정법시대는 천공의 발언 등을 영상과 책 등으로 제작하는 회사로 천공의 제자로 알려진 신모씨가 대표로 있다.&lt;br&gt;&lt;br&gt;앞서 A씨는 2015년 3월부터 2020년 6월까지 경기 용인의 한 아파트에서 숙식하면서 신씨와 천공의 지시를 받고 일했다. 그는 출판 관련 업무와 영상 편집 업무를 했으나 제대로 임금을 받지 못했다고 주장하면서 지난해 4월 약 3100만원을 청구하는 소송을 제기했다. 이후 시간 외 수당 등을 고려해 소송액을 약 3762만원으로 늘렸다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“시끄러워...” 농약 탄 음식 먹여 이웃집 개 7마리 죽였다</title>
+      <link>https://www.chosun.com/national/regional/2024/08/13/BYYT65DW5FGDJKD44HTVC52NHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/13/BYYT65DW5FGDJKD44HTVC52NHU/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 13 Aug 2024 12:26:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4AWNXLU5EEZDMAU3WTFPM7NHMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 화천경찰서 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개 짖는 소리가 시끄럽다는 이유로 음식에 농약을 타 이웃집 개들을 죽인 혐의로 60대가 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;강원 화천경찰서는 동물보호법 위반 혐의로 60대 A씨를 송치했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 1월 말 화천의 한 개 사육 농장에 있던 개 7마리에게 농약을 탄 음식을 먹여 죽게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;그는 이웃이 키우는 개들이 시끄럽게 짖는다는 이유로 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 농약 구매 이력과 폐쇄회로(CC)TV 등을 토대로 A씨를 용의자로 특정한 뒤, A씨를 추궁해 자백을 받아냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>'해병 수사' 공수처, 尹 참모 등 20여명 통화내역 확보</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/13/DIPKCX6RNREGDFLKLEFGCEWLOA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/13/DIPKCX6RNREGDFLKLEFGCEWLOA/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 13 Aug 2024 12:17:05 +0000</pubDate>
+      <content:encoded>이른바 ‘순직 해병 조사 외압’ 의혹을 수사 중인 고위공직자범죄수사처(공수처)가 대통령실 관계자 등 20여명의 통화 내역을 확보해 분석에 착수한 것으로 13일 전해졌다. 앞서 공수처는 윤석열 대통령 개인 휴대전화의 통화 내역을 확보한 것으로 알려졌는데, 이때 대통령실 관계자들의 통화 내역도 함께 확보했다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DOT5WIDAHSARLNIZMGW6LGHF4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난달 서울 용산 대통령실 청사에서 페트르 피알라 체코 총리와 전화 통화를 하고 있다./대통령실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 공수처 수사4부(부장 이대환)는 최근 ‘순직 해병 조사 외압’ 의혹과 관련해 대통령실 관계자 등 20여 명에 대한 통신 영장을 법원으로부터 발부 받아 집행한 것으로 전해졌다. 공수처 수사팀은 함께 확보한 윤 대통령의 통화 내역과 관계자 20여 명의 통화 내역을 종합적으로 분석하는 것으로 알려졌다. ‘순직 해병’ 사건의 초동 조사 기록의 경찰 이첩 및 회수, 재이첩 과정 전반을 규명하겠다는 것이다.&lt;br&gt;&lt;br&gt;공수처가 확보한 윤 대통령 및 관계자들의 통화 내역은 작년 7~9월 사이 60일가량인 것으로 전해졌다. 앞서 공수처 수사팀은 관련자들에 대한 통신 영장을 세 차례 청구했으나, 법원이 이를 모두 기각했었다. 통화 내역 시기의 범위를 고(故) 채수근 상병이 순직한 작년 7월 19일 이후로 좁혀 청구하자 영장이 발부됐다고 한다.&lt;br&gt;&lt;br&gt;공수처는 대통령경호처 유선전화로 알려진 ‘02-800-7070′ 회선의 작년 7~9월 사이 통화내역도 확보한 것으로 알려졌다. 이종섭 전 국방장관은 작년 7월 31일 초동 조사를 맡은 박정훈 전 해병대 수사단장의 해병대원 사망 사고 조사 결과 이첩을 보류하기 직전 이 회선과 통화한 것으로 알려진 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘디올 백 수수 의혹’ 金여사 측근 행정관 재소환</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/13/KIKPAMGZYNEBHEED4H7IZPNPJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/13/KIKPAMGZYNEBHEED4H7IZPNPJU/</guid>
+      <dc:creator>송원형 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 13 Aug 2024 11:21:34 +0000</pubDate>
+      <content:encoded>윤석열 대통령 부인 김건희 여사의 ‘디올 백 수수 의혹’을 수사 중인 검찰이 13일 김 여사를 보좌하는 대통령실 행정관을 다시 불러 조사했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WYOIMZKD34RWQHYAKQHU4EBHUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 형사1부(부장 김승호)는 이날 조모 행정관을 참고인 신분으로 불러 조사했다. 검찰이 조 행정관을 소환 조사한 것은 지난 6월 19일에 이어 두 번째다.&lt;br&gt;&lt;br&gt;검찰은 조 행정관을 상대로 김 여사 조사 과정에서 나온 진술 내용에 신빙성이 있는지를 확인한 것으로 알려졌다. 검찰은 지난달 20일 김 여사를 제3의 장소에서 조사한 바 있다. 조 행정관은 김 여사의 일정 관리 등 보좌하는 역할을 맡고 있다고 한다.&lt;br&gt;&lt;br&gt;재미교포 목사인 최재영씨는 2022년 9월 김 여사를 만나 300만원 상당의 디올 백을 전달하면서 김창준 전 미 하원 의원의 국정자문위원 임명 및 국립묘지 안장, 통일TV 송출 재개 등을 청탁했다고 주장하고 있다. 이후 최씨는 조 행정관으로부터 전화를 받아 김 전 의원 관련 민원 내용 검토 결과에 대한 설명을 듣고, 담당 공무원을 연결 받았다는 것이다.&lt;br&gt;&lt;br&gt;김 여사는 검찰 조사에서 김 전 의원의 국립묘지 안장과 관련해 조 행정관을 통해 최씨의 청탁을 보고받지 못했다고 진술한 것으로 전해진다. 김 여사는 통일TV 송출 재개 청탁과 관련해서도 조 행정관에게 무슨 방송국인지 알아보라고 지시했을 뿐이라고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>트럭 와이퍼 떼서 다른 차량 창문 퍽퍽… 남성의 돌발 행동, 이유는 </title>
+      <link>https://www.chosun.com/national/national_general/2024/08/13/Q5MMLHX3GZF4XODZRAVPAYG3H4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/13/Q5MMLHX3GZF4XODZRAVPAYG3H4/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 13 Aug 2024 11:21:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XCM4FCIMENCQFPYKTBZOSM7NEU.png"&gt;&lt;figcaption&gt;&lt;small&gt;옆의 트럭에서 떼어 낸 와이퍼로 승용차 앞 유리를 찍어 내리고 있는 남성(왼쪽). /경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주차해 둔 방식이 마음에 들지 않는다는 이유로 차량 여러 대를 훼손한 남성이 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;13일 인천경찰청 등에 따르면, 경찰은 최근 특수재물손괴 혐의로 남성 A씨를 체포했다. A씨는 인천의 한 주택가에서 차량 여러 대를 무차별적으로 훼손한 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 상황이 담긴 영상은 경찰청 공식 유튜브를 통해서도 공개됐다.&lt;br&gt;&lt;br&gt;이를 보면, A씨는 주차된 승용차에 다가가더니 커다란 물통으로 차량 앞 유리와 범퍼 등 여기저기를 퍽퍽 내리쳤다. 발로 운전석쪽 문을 차기도 했다. 이윽고 바로 옆에 주차된 트럭에서 와이퍼를 떼어내더니 앞 유리를 찍어 내렸다. 이에 승용차 운전석쪽 앞 유리는 완전히 금이 갔다.&lt;br&gt;&lt;br&gt;계속된 돌발 행동에 결국 한 시민이 신고했고, A씨는 현장에서 체포됐다.&lt;br&gt;&lt;br&gt;인천미추홀경찰서 관계자는 “와이퍼를 이용해 차량을 전체적으로 찍는 방식으로 손괴했고, 특히 앞 유리 피해가 컸다”며 “신고자를 포함한 목격자들은 공포감에 사로잡힌 상태에서 ‘저기 앉아 있는 사람이 차량을 손괴했다’고 경찰에 진술했다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 주차 방식에 불만을 느끼고 범행을 저지른 것으로 파악됐다. 이 관계자는 “’주차를 왜 이런 식으로 해놨냐’며 술에 취한 상태에서 불만을 가지고 범행을 한 것으로 확인됐다”며 “(출동 당시 A씨는) 술에 취한 상태에서 차량 와이퍼를 들고 또 다른 피해 차량을 물색하고 있는 상황이었다”고 했다. 그러면서 “체포 과정에서 상당히 공격적이고 비협조적인 태도를 취했다”고도 했다.&lt;br&gt;&lt;br&gt;경찰은 A씨에 대한 조사를 마치고 사건을 검찰에 송치한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 공장서 물탱크 보수하던 50대 노동자 숨져</title>
+      <link>https://www.chosun.com/national/regional/2024/08/13/AVKCZNO2SZF2HAM3KMJCXO2MDQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/13/AVKCZNO2SZF2HAM3KMJCXO2MDQ/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 13 Aug 2024 10:48:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XO6UIYOFLHWYA3DE3IZBYMEFXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 화학 공장에서 물탱크 보수 작업을 하던 50대 노동자가 갑자기 치솟은 불길에 화상을 입었다가 13일 만에 숨졌다.&lt;br&gt;&lt;br&gt;13일 중부지방고용노동청 등에 따르면 지난달 31일 오후 1시 40분쯤 인천시 서구 한 화학 공장에 있는 지하 물탱크에서 화염이 발생했다.&lt;br&gt;&lt;br&gt;이 사고로 50대 A씨 등 노동자 3명이 화상을 입고 병원으로 옮겨져 치료를 받았으나 A씨가 이날 숨졌다.&lt;br&gt;&lt;br&gt;외부 수리업체 소속 직원인 A씨는 당시 동료 2명과 함께 물탱크 벽면 보수를 위해 우레탄폼 주입 작업을 진행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰과 중부고용청은 이 사업장의 상시 근로자가 5인 이상이라는 점을 확인하고 중대재해 처벌 등에 관한 법률을 적용해 조사를 이어갈 방침이다.&lt;br&gt;&lt;br&gt;중부고용청 관계자는 “사고가 난 사업장은 중대재해처벌법 대상으로 파악됐다”며 “우레탄폼 주입 중 불길이 치솟은 원인 등 정확한 사고 경위를 조사하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>잠실야구장 주차장서 여성 납치 시도… “짐 정리 중 뒤에서 습격”</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/13/QZ3VUMJMSRBUFFKVALJVKCJRKI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/13/QZ3VUMJMSRBUFFKVALJVKCJRKI/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 13 Aug 2024 10:30:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HOILOLCB4BHKVJFJKO4DGEZBT4.png"&gt;&lt;figcaption&gt;&lt;small&gt;자신을 납치 미수 사건 피해자라고 밝힌 A씨가 첨부한 구체적인 사건 발생 위치. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 잠실야구경기장 야외주차장에서 여성을 상대로 납치를 시도한 사건이 발생해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;13일 경찰에 따르면, 서울 송파경찰서는 지난 10일 밤 9시30분쯤 ‘주차장에서 한 남성이 뒤에서 입을 막고 강제로 끌고 가려 했다’는 여성의 신고를 받고 용의자를 추적하고 있다.&lt;br&gt;&lt;br&gt;용의자는 피해자가 혼자 자신의 차량에서 짐 정리를 하던 틈을 이용해 습격한 것으로 알려졌다. 피해자가 격렬히 저항하자 도주했다고 한다.&lt;br&gt;&lt;br&gt;자신을 피해자라고 밝힌 A씨는 온라인 커뮤니티를 통해 사건이 발생한 자세한 위치를 첨부한 뒤 블랙박스 영상 제보를 요청하기도 했다.&lt;br&gt;&lt;br&gt;A씨는 당시 상황에 대해 “운전석과 뒷좌석 문을 열어둔 상태로 허리 숙여 젖은 옷 및 짐 정리를 하는 도중 뒤에서 습격당했다. 입을 강하게 틀어막고 저를 뒤로 끌어내려 했다”며 “한 5초간 크게 저항했더니 범인은 뒤쪽으로 도망갔다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 “이후 큰길로 뛰쳐나와 일행에게 여기로 와달라고 전화했고, 전화 도중 가족 단위 일행이 주차장에 들어오셔서 살려달라고 도움을 요청했다”고 했다. 그러면서 “뒤에서 습격당했기 때문에 도망가는 뒷모습밖에 보지 못했다. 그마저도 가로등이 거의 없어 모자를 쓰고 백팩을 멘 것만 확인했다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 주변 방범카메라와 블랙박스 영상 분석 등을 통해 자세한 사건 경위와 용의자 인상착의를 파악하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>인천시, 아파트 전기차 충전기 주변 ‘방화벽’ 설치 추진</title>
       <link>https://www.chosun.com/national/regional/2024/08/13/P7425HUWJFERFF5TC5UMPO63TE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/13/P7425HUWJFERFF5TC5UMPO63TE/</guid>
@@ -833,23 +896,6 @@
       <content:encoded>▲&lt;b&gt;김향란&lt;/b&gt; 별세, &lt;b&gt;박천호 &lt;/b&gt;법률방송 뉴스본부장·&lt;b&gt;박천길&lt;/b&gt; 모친상=11일19시30분 일산백병원, 발인 13일14시, (031)910-7114&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김혜숙&lt;/b&gt; 별세, &lt;b&gt;박영식&lt;/b&gt; 前 언론중재위원장 아내상, &lt;b&gt;박수현&lt;/b&gt;·&lt;b&gt;박재형&lt;/b&gt; PWC 상무·&lt;b&gt;박지혜&lt;/b&gt; 모친상, &lt;b&gt;김동진 &lt;/b&gt;국민은행 건강전략센터장 장모상=11일18시49분 서울성모병원, 발인 14일7시, (02)2258-5940&lt;br&gt;&lt;br&gt;▲&lt;b&gt;문수일&lt;/b&gt; 前 대신초 교장 별세, &lt;b&gt;이종희&lt;/b&gt; 남편상, &lt;b&gt;문인향&lt;/b&gt; 경기도청 홍보기획관 SNS팀장·&lt;b&gt;문일용&lt;/b&gt;·&lt;b&gt;문정민 &lt;/b&gt;부친상, &lt;b&gt;김영목&lt;/b&gt;·&lt;b&gt;조웅&lt;/b&gt; 장인상=11일17시 신촌세브란스병원, 발인14일7시, (02)2227-7563&lt;br&gt;&lt;br&gt;▲&lt;b&gt;최기준&lt;/b&gt; 前 연세대 상임이사 별세, &lt;b&gt;홍만희&lt;/b&gt; 남편상, &lt;b&gt;최재열&lt;/b&gt; 폴라리스펀드 대표·&lt;b&gt;최재훈 &lt;/b&gt;연세대 교수 부친상, &lt;b&gt;문관호&lt;/b&gt; 前 국방과학연구소 수석연구원 장인상=12일3시15분 신촌세브란스병원, 발인 14일9시, (02)2227-7580&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 날씨] 2024년 8월 13일</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/13/TUAZD6LFUBCODFFG2NEVAIP2UE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/13/TUAZD6LFUBCODFFG2NEVAIP2UE/</guid>
-      <description/>
-      <pubDate>Mon, 12 Aug 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IA3KRZ47OZC3TN3HNUKNPU6VOE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [사소한 역사] 1930년대 후반 경성운동장에 우리나라 첫 대형 수영장 생겼어요</title>
-      <link>https://www.chosun.com/national/nie/2024/08/13/ZS3MABMUBJCSXNO3VLLRPW4CYA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/13/ZS3MABMUBJCSXNO3VLLRPW4CYA/</guid>
-      <dc:creator>김현철 서울 영동고 역사 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 12 Aug 2024 15:30:00 +0000</pubDate>
-      <content:encoded>연일 무더운 날씨가 이어지고 있습니다. 여름철에는 더위를 피하기 위해 수영장이나 워터파크로 놀러가는 사람이 많은데요. 개울이나 강가, 바다 대신 수영장 같은 물놀이 시설을 이용한 건 언제부터일까요?&lt;br&gt;&lt;br&gt;수영장의 기원으로 여겨지는 것은 고대 인더스 문명의 도시 모헨조다로에서 발견됩니다. 모헨조다로는 다양한 시설과 설비를 갖춘 도시였는데, 여러 시설 중에는 대형 목욕탕도 있었어요. 이 목욕탕은 종교적인 정화 의식을 진행한 시설로 추정되지만, 사교나 놀이를 위한 공간이었을 가능성도 배제할 수 없다고 합니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZIZEJWVDNJGGLINRXT7IUGSBDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1930년대 후반에 문을 연 경성운동장 수영장 모습이 담긴 사진엽서. /서울역사박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또한 고대 스리랑카 지역에 있는 인공 연못 ‘쿠탐 포쿠나’가 수영장의 원조로 여겨지기도 합니다. 이 인공 연못은 물 안으로 들어갈 수 있도록 계단이 있고, 지하에 도관(물이나 수증기가 지나는 관)과 정화 시설도 갖추고 있었다고 해요. 고대 지중해 지역에서는 운동선수나 군인들의 훈련을 위해 수영장을 지었다고 해요. 로마에서는 겨울철에도 이용할 수 있는 온수 수영장을 만들었다고 합니다.&lt;br&gt;&lt;br&gt;하지만 이런 시설들이 지금 수영장처럼 많은 사람이 여름 더위를 잊고 물놀이를 즐기는 시설은 아니었을 것으로 생각됩니다. 수영장이 지금처럼 대중화된 건 19세기부터입니다. 1830년대 후반 런던에 다이빙대가 설치된 실내 수영장이 여러 군데 생겼대요. 수영장이 인기를 얻기 시작한 거죠. 이후 1896년 제1회 아테네 올림픽에서 수영이 정식 종목으로 채택되면서 수영에 대한 관심이 높아졌고 수영장이 더 늘어났다고 합니다. 영국과 미국에 공립 수영장이 많이 생겼지만, 경제적으로 여유가 있는 사람들은 자기 집 마당에 수영장을 만들었지요.&lt;br&gt;&lt;br&gt;한국은 1930년대 후반에 처음으로 대규모 수영장이 만들어진 것으로 알려져 있어요. 바로 경성운동장(동대문운동장의 옛 이름)의 수영장입니다. 50m 풀과 다이빙용 풀이 조성돼 있었다고 합니다. 수영장은 동대문운동장 자리에 동대문역사문화공원이 들어서면서 없어졌어요. 실내 수영장은 1963년에 처음 생겼어요. 서울 워커힐호텔의 부속 수영장인데요. 일반인들이 수영을 즐길 순 있었지만, 길이가 길지 않아서 운동선수들이 훈련하긴 어려웠다고 해요. 이후 시간이 지나면서 YMCA 실내 수영장, 태릉 국제 수영장, 잠실 실내 수영장 등 점차 크고 좋은 시설을 갖춘 수영장들이 많이 만들어졌답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [재미있는 과학] 남에게 호감 주는 데 목소리 영향이 38%… 외모보다 중요</title>
       <link>https://www.chosun.com/national/nie/2024/08/13/SZESAQA7BZAL3OQZPYM53UVJDQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/13/SZESAQA7BZAL3OQZPYM53UVJDQ/</guid>
@@ -860,15 +906,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/UGTCIS3U4JHKVPGM5AK5IHLBCA.png?width=1800&amp;height=1012&amp;auth=a04a6425e0aefc4232368543d07bec0eb98b0d681a63bdfae088752050d94c27&amp;smart=true" type="image/png" height="1012" width="1800">
         <media:description type="plain">그래픽=진봉기</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>[신문은 선생님] [고전 이야기] ‘모비 딕’ 작가가 쓴 월가 배경 소설… 자본주의 세계서 소외된 인물 다뤘죠</title>
-      <link>https://www.chosun.com/national/nie/2024/08/13/ZWQQEDI7V5E2TAEUSWDZEPIZ6U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/13/ZWQQEDI7V5E2TAEUSWDZEPIZ6U/</guid>
-      <dc:creator>장동석 출판도시문화재단 사무처장</dc:creator>
-      <description/>
-      <pubDate>Mon, 12 Aug 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;b&gt;그런데 바틀비가 그의 은둔처에서 나오지 않고 매우 상냥하면서 단호한 목소리로 “안 하는 편을 택하겠습니다”라고 대답했을 때 내가 얼마나 놀랐을지, 아니 당황했을지 한번 상상해보라.&lt;/b&gt;&lt;br&gt;&lt;br&gt;미국 작가 허먼 멜빌(1819~1891)의 단편 소설 ‘필경사 바틀비’는 1853년 미국의 한 잡지에 두 차례에 걸쳐 연재된 작품이에요. ‘모비 딕’으로도 유명한 멜빌은 에드거 앨런 포, 너새니얼 호손과 함께 미국 문학의 르네상스를 이루었다는 평가를 받고 있는데요. ‘필경사 바틀비’는 처음엔 크게 주목받지 못했지만, 20세기에 들어서면서 자본주의의 병폐가 심해지자 재조명됐어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DYBAM7HTU5HMRIF4ZBZWJPCXYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;허먼 멜빌 초상화. /브리태니커&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 책의 부제는 ‘월가의 이야기’입니다. 여기서 알 수 있듯이 이 작품은 부와 명예가 제일 중요한 삶의 조건이 되는 미국 월가를 배경으로 삼고 있어요. 화자인 ‘나’는 월가에서 제법 잘나가는 변호사예요. 그의 사무실에는 필경사 두 명과 잡일을 하는 직원 한 명이 일하고 있었어요. 필경사란 컴퓨터나 복사기가 없던 시절 글을 베껴 쓰는 등 서류 작업을 돕는 사람이에요. 변호사는 사무실 일이 많이 늘어나자 새로운 필경사 한 사람을 더 채용했어요.&lt;br&gt;&lt;br&gt;새로 채용된 필경사의 이름은 바틀비. 처음에는 많은 양의 문서를 뚝딱 해치울 정도로 일을 잘했어요. 그런 바틀비가 하루는 함께 서류를 검토하자는 ‘나’의 말에 “저는 안 하는 편을 택하겠습니다”라고 대답했어요. 질책해도 바틀비의 대답은 똑같았어요. “저는 안 하는 편을 택하겠습니다.”&lt;br&gt;&lt;br&gt;‘나’는 당황스러웠지만 서류 처리 능력이 좋은 바틀비를 내쫓지는 않았어요. 오히려 “녀석은 내게 유용해. 난 녀석과 잘 지낼 수 있어”라고 생각했죠. 하지만 이후 바틀비의 업무 거부는 더 심해졌고, 더 이상 서류 작업을 하지 않겠다고 선언했어요. 이유를 묻는 ‘나’에게 돌아온 대답은 “지금은 대답을 안 하고 싶습니다” “여기에 혼자 있고 싶습니다” 같은 말들뿐이었어요.&lt;br&gt;&lt;br&gt;바틀비의 행동에 지칠 대로 지친 ‘나’는 변호사 사무실을 다른 곳으로 옮기고 말았어요. 바틀비는 어떻게 되었을까요? 여전히 옛날 사무실에 남아 있던 바틀비를 누군가 부랑자로 신고했고, 결국 교도소에 갇히고 말았어요. ‘나’는 교도소로 찾아가 사식도 넣어주었지만, 바틀비는 끝내 음식을 거부하고 굶어 죽고 말아요.&lt;br&gt;&lt;br&gt;‘나’는 나중에야 바틀비가 필경사로 일하기 전 ‘배달 불능 우편물 취급소’에서 갑자기 해고를 당해 쫓겨났다는 사실을 알게 돼요. 그리고 받는 사람이 없는 우편물을 태우는, 무의미하고 수동적인 일을 하며 느꼈을 바틀비의 허무함을 깨달아요.&lt;br&gt;&lt;br&gt;바틀비가 ‘안 하는 편을 택하겠다’고 반복해서 말하는 이유에 대해 작가는 명확하게 알려주진 않아요. 독자는 계속 ‘바틀비는 왜 그럴까’라는 의문을 품게 되죠. 자기에게 주어진 일을 거부하는 바틀비의 소극적 저항은 의문 없이 자본주의 사회 흐름을 그대로 따라가는 수많은 이들에게 경종을 울린다는 평가를 받습니다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>70대가 몰던 차량, 후진 주차 중 난간 뚫고 10m 추락</title>
@@ -896,45 +933,6 @@
       <description/>
       <pubDate>Mon, 12 Aug 2024 11:23:07 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/46VQR4OQ2FKDBH4KNF7RFKCMG4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2024 파리 올림픽 배드민턴 여자단식에서 금메달을 획득한 안세영이 7일 오후 인천공항을 통해 귀국, 취재진과 인터뷰 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2024 파리올림픽 배드민턴 여자 단식 금메달리스트 안세영(22·삼성생명)이 실업 선수 계약금과 연봉 문제를 제기한 가운데, 안세영과 대조적으로 인도 배드민턴 선수 푸사를라 벵카타 신두(29)가 지난해 상금 이외 광고와 스폰서십으로 약 100억원 가량을 벌어들인 점이 재조명되고 있다.&lt;br&gt;&lt;br&gt;12일 세계배드민턴연맹(BWF)에 따르면 안세영은 지난해 월드투어 8개 대회 우승과 파이널 4강 진출로 상금 62만8020달러(약 8억6000만원)를 획득한 것으로 알려졌다. 이는 남자 단식 세계 1위였던 빅토르 악셀센(64만5095달러·약 8억8500만원)에 이어 전체 2위에 해당한다. 안세영이 현재까지 BWF 월드투어 대회에서 벌어들인 상금 총액은 145만8291달러(약 20억원)다.&lt;br&gt;&lt;br&gt;안세영의 현재 연봉은 알려지지 않았지만, 입단 3년 차인 지난해까지 ‘계약금·연봉 상한제’를 적용받았다. 한국실업배드민턴연맹의 규정에 따르면 입단 첫해 연봉은 대졸 선수가 6000만원, 고졸 선수가 5000만원이 상한액이다. 이후 3년 차까지 연간 7％ 이상 올릴 수 없다. 계약금은 각각 1억5000만원, 1억원을 넘길 수 없다.&lt;br&gt;&lt;br&gt;이에 따라 안세영은 입단 1년 차인 2021년엔 연봉 5000만원을 받았고 연봉 상승률은 3년 차까지 매해 7％였던 것으로 전해졌다. 3년 경과 후에는 구단과 선수 간의 협상에 따라 자율적으로 정할 수 있으며, 안세영은 현재 입단 4년 차이므로 이 규정을 적용받고 있진 않다. 입상 포상금 등 각종 수당은 연봉과 별개로 수령할 수 있지만, 광고 수익은 계약금·연봉에 포함된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZNKC3E2PJVNCDG3UTVQ6VEOIPQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 8월 8일 영국 버밍엄에서 열린 코먼웰스 게임 배드민턴 여자 단식에서 금메달을 차지한 푸사를라 벵카타 신두가 시상대 위에서 인사를 하고 있다. /로이터&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그렇다면, 인도의 신두의 수입은 어느 정도일까. 포브스에 따르면 신두는 지난해 710만달러(약 97억원)를 벌어들여 미국 체조 스타 시몬 바일스와 함께 세계에서 가장 수입이 높은 여성 선수 16위에 올랐다. 특히 신두의 상금은 10만달러(약 1억 3000만원)에 불과했지만 상금 외 수입이 700만달러(약 96억원)에 달했다.&lt;br&gt;&lt;br&gt;포브스는 “올림픽 메달리스트이자 2019년 배드민턴 세계 챔피언인 신두는 인도의 마케팅 능력 덕분에 여성 수입 순위에서 든든한 자리를 차지했다”고 설명했다. 신두는 2016 리우올림픽 배드민턴 여자 단식 은메달에 이어 2020 도쿄 올림픽 동메달을 땄다.&lt;br&gt;&lt;br&gt;안세영은 최근 연합뉴스와 인터뷰에서 “광고가 아니더라도 배드민턴으로도 경제적인 보상을 충분히 누릴 수 있다고 생각한다”면서 “스폰서나 계약적인 부분을 막지 말고 많이 풀어줬으면 좋겠다”고 밝혔다. 안세영은 지난해 10월 항저우 아시안게임 금메달을 딴 뒤 운동에 집중하겠다며 수많은 광고와 방송 제의를 사양한 바 있다.&lt;br&gt;&lt;br&gt;이에 대해 연맹은 계약 기간을 단축하고 계약금과 연봉 상한액을 높이는 방안을 추진 중인 것으로 알려졌다. 연봉 인상률의 경우 숫자를 상향 조정하는 방안과 3년 차 이내 선수가 국제대회에서 좋은 성적을 거둘 경우 인상률 제한을 면해주는 내용의 예외 조항을 신설하는 방안이 검토되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김동연 “K-컬처밸리 사업 포기 아냐”...해외기업 투자 적극 유치 </title>
-      <link>https://www.chosun.com/national/national_general/2024/08/12/67DKEFLSNNEVTHAYS2DQRIMUXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/12/67DKEFLSNNEVTHAYS2DQRIMUXM/</guid>
-      <dc:creator>김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 12 Aug 2024 11:42:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D6ZMKIDERMR5GGGDAWHJVWYSHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동연 경기도지사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김동연 경기도지사가 최근 논란의 중심에 선 ‘K-컬처밸리 사업’에 대해 원안대로 사업을 추진하겠다고 입을 열었다.&lt;br&gt;&lt;br&gt;김 지사는 도민 1만758명이 참여한 ‘CJ라이브시티 관련 상세한 소명, 재검토, 타임라인 제시 요청’ 제목의 도민 청원에 대해 12일 공식입장을 냈다. 도민 청원 참여 인원이 1만명을 넘으면 30일 이내에 도지사가 직접 답변해야 한다.&lt;br&gt;&lt;br&gt;김 지사는 “지난달 행정1부지사를 단장으로 고양시와 민간 전문가를 포함한 TF를 구성해 구체적 실행 계획과 사업성 제고 방안을 검토하고 있다”며 “이르면 9월 중에는 전담조직을 구성할 것”이라고 말했다. 그러면서 그는 “국내외 전문 엔터테인먼트 기업들이 적극적으로 사업에 참여할 수 있도록 문을 열겠다”며 “사업 추진 의지가 분명하다면 CJ 측과도 얼마든지 소통하고 협력할 것”이라고 했다.&lt;br&gt;&lt;br&gt;김 지사는 독립적인 책임 자본 확보와 ‘건공운민(개발은 공공기관에서, 운영은 민간 기업에서)’ 방식으로 속도감 있는 사업 추진을 약속했다. 또 ‘K-컬처밸리’를 경제자유구역으로 지정하여 투자를 확대하겠다고도 했다.&lt;br&gt;&lt;br&gt;K-컬처밸리는 고양시 일산동구 장항동 부지 32만6천400㎡에 1조8천억원(2020년 6월 기준)을 투입해 K-팝 전문 아레나와 스튜디오, 테마파크, 상업·숙박·관광시설을 조성하는 사업이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공수처, 해병대원 수사 관련 ‘尹대통령 3개월 통화기록’ 확보</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/12/V6FAUF7SHNCQ7B2PASYS5YROEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/12/V6FAUF7SHNCQ7B2PASYS5YROEY/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 12 Aug 2024 11:33:34 +0000</pubDate>
-      <content:encoded>‘해병대원 순직사건 수사 외압 의혹’을 수사하는 고위공직자범죄수사처가 윤석열 대통령의 개인 휴대전화 통신 기록을 확보한 것으로 12일 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E4SEOPN3YW62PDJUKFVWJ3GWSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난달 서울 용산 대통령실 청사에서 페트르 피알라 체코 총리와 전화 통화를 하고 있다. /대통령실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법조계에 따르면 공수처 수사4부(부장 이대환)는 최근 법원에서 발부받은 통신영장을 집행해 윤 대통령의 지난해 7~9월 휴대전화 통신 기록을 확보했다. 이 때는 윤 대통령이 이종섭 전 국방부 장관, 신범철 전 국방부 차관, 임기훈 전 국방비서관 등과 수차례 통화했다고 알려진 시기다.&lt;br&gt;&lt;br&gt;이 사건을 초동 수사한 해병대 수사단은 지난해 8월 2일 사건 기록을 경북경찰청에 이첩했다. 윤 대통령은 이날 이 전 장관과 세 차례 통화하는 등 이 시기 관련자들과 수차례 통화한 것으로 알려져 있다.&lt;br&gt;&lt;br&gt;앞서 공수처는 윤 대통령의 개인 휴대전화에 대해 법원에 통신영장을 세 차례 청구했지만 기각된 것으로 알려졌다. 그러나 이후 공수처는 내용을 보강해 영장을 재청구했고, 법원으로부터 통신 영장을 발부받았다.&lt;br&gt;&lt;br&gt;수사기관이 현직 대통령의 통화 기록을 확보한 것이 처음은 아니다. 최순실 국정농단 수사팀도 박근혜 전 대통령이 현직일 때 국정농단 의혹과 관련해 박 전 대통령의 통화 기록을 확보했던 것으로 알려졌다. 다만 박 전 대통령은 2016년 12월 국회에서 탄핵소추안이 가결되면서 직무가 정지된 상태였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>외신도 취재간 ‘나는 절로 시즌5’... 낙산사 최고 커플 성사율 비결은</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/12/MDMVPKGDZZEZZKIP342C55PVLM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/12/MDMVPKGDZZEZZKIP342C55PVLM/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 12 Aug 2024 07:24:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OHQZJIVNERF2TK6MG3Q3QZ2IHQ.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 강원도 양양 낙산사에서 열린 '나는 절로' 시즌5 참가자들이 1:1 로테이션 차담에서 담소를 나누고 있다. /구동완 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“제 성격이 발랄한 편이라서, ‘인생이 무료하다’ 싶으면 누가 저를 데려가 주세요.”&lt;br&gt;&lt;br&gt;음력으로 칠월칠석을 하루 앞둔 지난 9일 강원도 양양 낙산사. ‘나는 절로’ 시즌5 참가자인 직녀 3호(31)가 다소 상기된 얼굴로 공개 구애를 하자 폭소가 터졌다. 이날 낙산사에는 전국 각지에서 온 30대 미혼 남녀 20명이 ‘짝’을 찾기 위해 모였다. 총 1510명이 지원해 남자는 70.1대 1, 여자는 77.3대 1의 역대급 경쟁률을 기록했다고 한다. 이런 열기 때문인지 일본 NHK방송 등 외신을 포함해 20개 언론사 30여 명의 취재진이 동행 취재에 나섰다.&lt;br&gt;&lt;br&gt;대한불교조계종사회복지재단은 저출생 문제를 극복하자는 취지로 지난 9일부터 1박 2일간 만남 템플스테이 ‘나는 절로, 낙산사’를 열었다. 2023년 11월 조계사에서 연 시즌1을 시작으로 벌써 5번째를 맞았다. ‘꿈이 이루어지는 성지’로 유명한 이곳의 범상치 않은 기운이 작용한 탓인지 이틀 동안 총 6쌍의 연인이 탄생했다. 역대 최고의 커플 성사율이다.&lt;br&gt;&lt;br&gt;9일 오전, 서울 종로구 조계사에 모인 남녀 참가자들은 양양으로 가는 버스에 올랐다. 이들은 버스에 오르기 전 제비뽑기 결과에 따라 좌석을 배정받았다. 견우와 직녀가 칠월칠석 오작교에서 만난다는 세시풍속에 걸맞게 참가자들은 이름 대신 ‘견우 O호’ ‘직녀 O호’라는 별칭을 부여받았다. 버스에 오르자 한 담당자가 “안전벨트와 함께 사랑의 벨트를 매라”며 “옆자리 짝꿍과 최대한 친해지라”고 당부했다.&lt;br&gt;&lt;br&gt;참가자들은 한 명씩 돌아가며 반드시 짝을 만들어 돌아가겠다는 굳은 의지를 내비치기도 했다. 직녀 9호는 “올 때는 혼자 왔지만 돌아갈 때는 꼭 둘이 되어서 가겠다”고 했고, 견우 7호는 “친구들이 ‘이 기회를 살려 적극적으로 나서라’는 조언을 해줬다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CSOQUNLLQJA4LLHVYCNBXSMYSQ.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;참가자들이 저녁 공양 상대를 지목하기 위한 레크리에이션에서 게임을 하고 있다. /구동완 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6DY7MI6HKXWAIZKLXDDUIQDAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남녀 참가자들이 각각 청실 단주와 홍실 단주를 끼고 손을 맞잡고 있다. /대한불교조계종사회복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;낙산사에 도착해 고운 빛깔의 청실 단주와 홍실 단주를 착용한 참가자들은 자기소개부터 의욕이 넘쳤다. “100대 명산을 완등했다” “요가 강사 자격증도 있다” “푸릇푸릇한 것을 좋아해 수목원을 자주 간다”는 등 자신의 취미와 재능을 거리낌 없이 내세웠다. 참가자들의 직업도 서울시 행정직 공무원부터 기자, 경찰, 노무사 등으로 천차만별이었다.&lt;br&gt;&lt;br&gt;서울 강서구에서 연구원으로 재직 중이라는 견우 5호(36)는 “장점이 100가지 정도 되는데 두 가지를 먼저 말하면, 목소리가 좋고 호불호가 없어 편하게 연애할 수 있다는 것”이라며 “나머지 98가지 장점은 차차 말씀드리겠다”고 했다. 경기도의 한 공공기관에 다니고 있다고 본인을 소개한 직녀 3호(31)는 “제 성격이 발랄한 편”이라며 “인생이 무료하다 싶으면 누가 저를 데려가달라”며 참가자들의 폭소를 자아냈다.&lt;br&gt;&lt;br&gt;이후 법복으로 환복한 참가자들은 레크레이션에 참가해 ‘짝 찾기’에 분주했다. 견우 10호가 용기 내 직녀 4호 이모(30)씨에게 “도반(道伴)과 함께하시겠습니까?”라고 세 차례 물었지만 모두 거절당하자 안타까움에 곳곳에서 탄식이 일기도 했다. 충남 당진에 산다는 견우 3호 정상원(35)씨는 경기 부천에 사는 직녀 5호에게 “장거리 연애도 가능하냐”고 물었고, 직녀는 “좋아하면 가능하다”고 답했다.&lt;br&gt;&lt;br&gt;저녁 공양을 마치고 형형색색의 한복 차림으로 갈아입은 참가자들은 낙산사 해수관음상으로 향했다. 이어 1:1 로테이션 차담과 야간 자유 데이트 일정이 밤 11시까지 강행군으로 이어졌지만, 참가자들은 짝을 찾겠다는 열의에 지칠 기미는 보이지 않았다. 직녀 4호의 마음을 확인했다는 견우 6호 김영일(36)씨는 차담에서 직녀가 다른 견우와 마주 앉자 그녀를 걱정스레 쳐다보기도 했다. 또 다른 참가자는 우정이라도 챙겨가겠다는 마음으로 상대의 고민을 상담해줬다. 한껏 달아오른 분위기 속에 해가 저물고 야간 데이트에서 서로의 마음을 확인한 이들은 문자로 최종 상대를 지목했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BM7UWZHWAVASNGEODYDN3CG5S4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;낙산사 해수관음상 인근에서 데이트를 즐기는 견우 6호와 직녀 4호. /대한불교조계종사회복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDUM4LVTBNFA7NKW2J5S7L5NLA.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;참가자들이 야간에 진행된 1:1 로테이션 차담에서 담소를 나누고 있다. /구동완 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이튿날 ‘꿈을 이루어준다’는 낙산사의 명성 답게 총 6쌍의 커플이 탄생했다. 견우 6호 김씨는 “(직녀 4호가) 자기소개에서 가장 눈에 띄었다”며 “가치관이나 삶을 살아가는 태도가 마음에 쏙 들었다”고 속내를 밝혔다. 이들은 ‘나는 절로’에 지원한 이유로 사찰이 주는 진정성을 꼽기도 했다. 직녀 10호는 “템플스테이를 여러 번 했는데 자연에서 내면을 들여다보는 절의 ‘추구미’가 저와 잘 맞았다”며 “여기에 지원한 다른 참가자들이 저와 잘 맞지 않을까 생각했다”고 했다.&lt;br&gt;&lt;br&gt;다만 ’나는 절로’의 기획 취지에 맞게 이들의 연애가 결혼과 출산으로 이어질 것이란 전망에 대해선 아직은 미지수라는 참가자들의 시각도 있었다. 직녀 9호는 “안정적인 가정을 꾸리고 아이도 갖고 싶은 꿈이 있다”며 “정부에서 출산율을 높여보겠다고 노력하고 있긴 하지만 육아 휴직 제도 등 더 실효성 있는 대책을 내놓길 바란다”고 말했다. 견우 3호 정씨는 “여성들이 출산으로인해 경력 단절을 경험하지 않았으면 좋겠다”고 강조했다.&lt;br&gt;&lt;br&gt;이번 행사에 참석한 정부 관계자는 만남 이후의 단계에서 청년들을 가로막는 걸림돌을 앞장서 걷어내겠다고 밝혔다. 9일 낙산사를 찾은 주형환 저출산고령사회위원회 부위원장은 “반려자를 만나는 것은 지극히 개인의 영역이지만, 선택 과정에서 마주치는 현실적인 부담을 덜어주고 디딤돌을 놓는 것은 국가가 해야 할 일”이라며 “정부가 적극 노력할 테니 여러분은 만나고 인연을 쌓아달라”고 했다.&lt;br&gt;&lt;br&gt;불교계에서도 저출생 대책 마련에 적극적으로 관여하겠다는 의지를 표명했다. 재단 대표이사 묘장스님은 “불교는 언제나 사회와 국가가 직면한 문제를 해결해야 한다는 소명 의식을 지녀 왔다”며 “책임감을 느끼고 사회와 함께 나아가겠다”고 했다. 조계종은 오는 10월에 40대 남녀를 대상으로 ‘나는 절로’ 시즌6을 준비하고 있고, 11월에는 백양사에서 시즌 7을 진행할 예정이다. 올 연말에는 짝을 찾지 못한 이들을 모아 ‘총동창회’를 열 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5CCNELWBWVCH5DUNDNUN4AAFDI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;최종 커플이 된 견우 8호 박모씨와 직녀 2호 정모씨. /대한불교조계종사회복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AWZRZQQQIJGYNBSKJFDBRRZ2LQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 '나는 절로' 시즌5 회향식에서 참가자들이 파이팅 포즈를 취하고 있다. /대한불교조계종사회복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5CCNELWBWVCH5DUNDNUN4AAFDI.JPG?width=5472&amp;height=3648&amp;auth=e23a031881d360f676a420bd232b22931108c0c33371efe61cb509b6fa30e5e1&amp;smart=true" type="image/jpeg" height="3648" width="5472">
-        <media:description type="plain">나는 절로 시즌5. /구동완 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>이부진 호텔신라 사장이 제주도청에 온 이유는...‘제주 관광 혁신’ 행사 열려</title>
-      <link>https://www.chosun.com/national/regional/2024/08/12/OJTYGORU5NGGVFVZ66FPPGQGYM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/12/OJTYGORU5NGGVFVZ66FPPGQGYM/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 12 Aug 2024 07:31:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D34JCXWDAJNDZFEQREEDBPIBI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오영훈(왼쪽) 제주지사와 이부진 호텔신라 사장이 12일 오후 제주도청 탐라홀에서 열린 '제주와의 약속' 숙박 분야 실천 결의대회에 참석해 약속 선언 퍼즐 맞추기 퍼포먼스를 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;바가지 논란이 일었던 제주지역 관광업계가 더 쾌적한 공간과 고품격 서비스를 제공하는 숙박 환경을 조성하겠다는 다짐 대회를 열었다.&lt;br&gt;&lt;br&gt;제주도와 제주도관광공사, 관광 숙박업소 등은 12일 오후 제주도청 탐라홀에서 ‘제주와의 약속’ 숙박 분야 실천 결의대회를 열었다.&lt;br&gt;&lt;br&gt;‘제주와의 약속’ 캠페인은 제주 관광의 혁신적 전환을 위해 제주도민과 관광사업체가 보전·공존·존중의 약속을 전하는 민·관 협력 실천 약속 캠페인이다.&lt;br&gt;&lt;br&gt;이 결의대회에는 오영훈 제주지사와 강동훈 제주도관광협회장, 고승철 제주관광공사 사장, 김창해 대한숙박업중앙회 제주도지회장을 비롯해 숙박업계 대표들과 종사자들이 참여했다. 특히 이부진 호텔신라 사장도 참석해 눈길을 끌었다.&lt;br&gt;&lt;br&gt;오영훈 지사는 “제주관광에 대한 부정적인 이미지를 바로잡고 신뢰를 회복하는데 총력을 다하고 있다”며 제주관광 혁신을 위한 적극적인 동참을 강조했다. 오 지사는 “제주관광 혁신 비상대책위원회 출범, 불편신고센터 개설, ‘제주와의 약속’ 캠페인 확산을 통해 제주관광 품질 개선에 최선을 다하고 있다”며 “제주관광 대혁신의 바람이 산업 전체로 확산할 수 있도록 공정한 숙박 가격과 고품질 서비스 유지에 더욱 힘써달라”고 당부했다.&lt;br&gt;&lt;br&gt;참석자들은 ‘더 따뜻한 환대, 더 편안한 머묾, 더 쾌적한 공간, 고품격 서비스’ 등 제주를 찾는 관광객을 위한 결의 문구를 외치며 실천과제에 대한 의지를 다졌다. 이어 ‘제주 숙박업 분야의 경쟁력 강화 방안’이라는 주제로 토크콘서트 등이 진행됐다.&lt;br&gt;&lt;br&gt;6월 말 기준 제주에는 7422곳의 숙박업소에 7만 9380실의 객실이 있다. 이 중 관광호텔과 휴양콘도 등 관광숙박업이 전체 객실의 42％인 3만 3377실이며, 업체 수로는 농어촌민박이 전체의 80％ 수준인 5916곳을 차지한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“팬들에게 3700만원 뜯어내”… 티아라 전 멤버 아름, 사기 혐의 송치</title>
