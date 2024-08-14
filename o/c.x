@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘뜨거운 밤’ 24일째... 폭염·열대야 최소 열흘 더 갈 듯</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/08/14/CI3CIWVJO5GWHJYF2QIKEO6V7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/08/14/CI3CIWVJO5GWHJYF2QIKEO6V7A/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 14 Aug 2024 11:18:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T2B6VXON6BMJNH3Z426NTIIURY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;열대야가 이어진 지난 13일 서울 광화문광장 분수대에서 어린이들이 더위를 식히고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;밤더위가 물러날 기미를 보이지 않고 있다. 24일째 열대야가 이어진 서울은 밤 기온이 갈수록 높아지고 있다. 폭염과 열대야는 앞으로도 최소 열흘간 더 이어질 전망이다.&lt;br&gt;&lt;br&gt;14일 기상청에 따르면, 열대야(밤 최저기온 25도 이상) 관측 시간인 13일 오후 6시부터 14일 오전 9시까지 서울의 가장 낮은 기온이 28.3도를 기록했다. 이는 올해 서울이 기록한 최저기온 중 최고치다. 이날 서울의 24일 연속 열대야는 1994년 기록과 동일하게 기상관측 이래 둘째로 긴 열대야로 기록됐다. 가장 긴 기록은 2018년 7월 21일부터 8월 15일까지의 ‘26일’이다. 현재 서울의 연간 열대야 총 발생일은 26일로 역대 넷째로 많다. 역대 1위는 1994년(36일), 2위와 3위는 각각 2016년(32일)과 2018년(29일)이었다.&lt;br&gt;&lt;br&gt;부산도 20일째 열대야를 겪어 역대 둘째로 긴 열대야로 기록됐다. 부산의 열대야 최장 기록은 1994년과 2018년의 ‘21일’이다. 제주는 30일째 열대야가 이어져 작년에 이어 2년 연속 ‘30일 이상 열대야’가 발생했다. 제주에서 한 달 이상 열대야가 이어진 것은 올해를 포함해 2013년(44일), 2016년(39일), 2012년(33일), 2023년(33일) 등 다섯 번이다. 제주는 14~16일 비구름대를 동반한 기압골이 통과하며 30~80㎜의 비가 예상돼 더위가 잠시 주춤할 것으로 보인다. 15~16일 각각 전국에 5~40㎜의 소나기도 예보됐다.&lt;br&gt;&lt;br&gt;보통 광복절(15일)을 전후해 더위의 기세가 꺾여왔지만, 올해는 더위가 24일까진 이어질 것으로 예상된다. 기상청은 15일 최저 21~27도, 최고 29~35도의 분포를 보일 것으로 예보했다. 주말인 17~18일에도 최저 24~27도, 최고 31~34도로 비슷할 전망이다. 기압골의 영향으로 19일엔 제주도, 20일엔 전국에 비가 예상된다. 21~24일에도 최고 34도의 더위가 나타날 전망이다.&lt;br&gt;&lt;br&gt;한편 기상청은 지난 9일 한낮(오후 2~4시) 서울 동작구 보라매공원의 노면 온도를 측정한 결과 최고 45.5도를 기록했다고 밝혔다. 강한 햇볕에 노출된 지면 부근의 온도는 성인 키 높이에서 느끼는 기온보다 10도가량 높다. 성인보다 키가 작은 어린이의 경우 체감 온도가 더 높을 수 있으므로 보호자가 주의를 기울일 필요가 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>'수사 외압' 조병노 경무관, 수원 → 전남으로 좌천</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/14/XOW33ZEVYZHHTLRNJFOL47YTPE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/14/XOW33ZEVYZHHTLRNJFOL47YTPE/</guid>
+      <dc:creator>김수경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 14 Aug 2024 11:23:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JV2GMPCAPBG5KQKMUTUMYGYGLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조병노 경무관이 지난달 29일 국회 행정안전위원회 증인으로 출석해 용혜인 기본소득당 의원 질의에 답변하고 있다. /국회방송 캡쳐&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청이 14일 ‘수사외압 의혹’을 받는 조병노 경무관을 수원남부경찰서장에서 전남경찰청 생활안전부장으로 전보했다. 사실상 좌천 인사다.&lt;br&gt;&lt;br&gt;조지호 신임 경찰청장은 지난달 29일 국회 행정안전위원회 인사청문회에서 ‘세관 마약 수사’에 외압을 행사한 의혹을 받는 조 경무관에 대한 인사조치를 “검토하겠다”고 입장을 밝힌 바 있다.&lt;br&gt;&lt;br&gt;이번 인사는 인사청문회 이후 첫 인사인 만큼 조 신임 경찰청장의 의사가 반영된 것으로 보인다.&lt;br&gt;&lt;br&gt;조 경무관은 서울경찰청 생활안전부장이던 지난해 10월 당시 서울 영등포경찰서 백모 형사과장에게 전화해 ‘보도자료에서 관세청 관련 내용을 삭제하라’고 압박한 의혹을 받는다.&lt;br&gt;&lt;br&gt;조 경무관은 외압 의혹으로 인사혁신처 중앙징계위원회에 회부됐지만 ‘불문’ 처분만 받아 징계를 피했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>34도 폭염에 에어컨 설치하다... 20대 알바 온열질환 사망</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/14/JZ3EZ7AJ75HAHKCQF3G4HE6LYU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/14/JZ3EZ7AJ75HAHKCQF3G4HE6LYU/</guid>
+      <dc:creator>장성=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 14 Aug 2024 11:11:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GHR7RZVZ2OJCQ6SO5OGB4JYCA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급대 출동 사진./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;섭씨 34도가 넘는 무더위 속에 학교 급식실에서 에어컨을 설치하던 20대 남성이 온열질환 증세로 사망했다.&lt;br&gt;&lt;br&gt;14일 전남도 등에 따르면 지난 13일 오후 4시 40분쯤 전남 장성군 한 중학교 급식실에서 A(28)씨의 의식이 혼미하다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 119구급대원이 A씨를 병원으로 옮겨져 치료받았지만 결국 숨졌다. A씨는 이날 아르바이트로 에어컨을 설치하는 작업을 하던 중 어지럼증 등을 호소했다고 한다.&lt;br&gt;&lt;br&gt;질병관리청은 A씨를 온열질환 사망으로 분류했다. 전남에서 올해 들어 발생한 두 번째 온열질환 사망자다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“선배 빨래 대신하고 방청소도”… 안세영, 분노의 7년 어땠길래?</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/14/3H2OLEQSZZDULOKZPLNFQ4VFZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/14/3H2OLEQSZZDULOKZPLNFQ4VFZ4/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 14 Aug 2024 10:27:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OAP26YDTEN4L5A344L6OZAB45I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국 배드민턴 대표팀 안세영이 5일(한국시각) 프랑스 파리 라 샤펠 아레나에서 열린 2024 파리올림픽 배드민턴 여자 단식 시상식에서 금메달에 입을 맞추고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한배드민턴협회와 갈등을 빚고 있는 올림픽 금메달리스트 안세영(22‧삼성생명)이 지난 7년간 대표팀 선배들의 빨래와 청소 등 잡일을 도맡아했다는 주장이 나왔다.&lt;br&gt;&lt;br&gt;14일 SBS에 따르면, 안세영의 부모가 지난 2월 대한배드민턴협회 관계자들을 만나 소속팀에서의 재활과 전담 트레이너 배정 등을 요구했다. 이와 함께 안세영 측은 선수촌 내 생활 문제 개선도 요청했다.&lt;br&gt;&lt;br&gt;안세영은 중학교 3학년이던 2017년 국가대표에 처음 발탁됐다. 그는 대표팀 막내 생활을 해온 7년 내내 선배들의 끊어진 라켓줄을 갈았고, 방 청소와 빨래 등 잡일을 도맡아했다고 한다.&lt;br&gt;&lt;br&gt;안세영 측은 “일과 후 휴식이 필요한 상황에서 잡무로 피해를 받아왔다”며 협회에 개선을 요구했다. 협회는 이런 면담 내용을 대표팀에 전달했고, 대표팀 코치진은 “이런 문제를 해결할 수는 없고, 점진적으로 고쳐나가겠다”고 답변한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편 안세영은 지난 5일 파리 올림픽에서 여자 단식 금메달을 딴 직후 “7년동안 정말 많은 걸 참고 살았다”며 “대표팀과 함께하지 않을 수 있다”고 밝혔다. 그는 미흡한 부상 관리 체계와 낡은 훈련 방식, 개인 후원 계약 제한 등에 불만을 가진 것으로 알려졌다. 그는 이런 불만이 해소되지 않으면 태극마크를 내려놓고 개인 자격으로 향후 국제 대회에 출전할 뜻을 내비쳤다.&lt;br&gt;&lt;br&gt;논란이 커지자 문화체육관광부는 배드민턴협회를 상대로 감사에 착수했다. 문체부는 미흡한 선수 부상 관리, 복식 위주 훈련, 대회 출전 강요 의혹 등에 대한 경위를 파악하고, 국제 대회 출전 규정 등 제도 문제, 협회의 보조금 집행 및 운영 실태까지 종합적으로 조사할 방침이다. 이와 별도로 한국실업배드민턴연맹은 신인 선수 연봉과 계약금 상한제를 완화하는 방안에 착수했다.&lt;br&gt;&lt;br&gt;안세영은 이번 달 출전하기로 했던 세계배드민턴연맹(BWF) 월드투어 슈퍼 750 일본 오픈과 전남 목포에서 개최하는 슈퍼 500 코리아오픈에 불참한다고 알렸다. 소속팀 삼성생명은 안세영이 무릎과 왼쪽 발목에 부상이 있어 4주가량 휴식이 필요하다는 내용의 진단서를 낸 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PDT7OQHPIQAF24RJ6RXBQJDBVE.jpg?width=600&amp;height=382&amp;auth=6e7255f5686225779c45c62dd0e2755c85e18a25b0700d7fad86e7fb992e0f73&amp;smart=true" type="image/jpeg" height="382" width="600">
+        <media:description type="plain">2024 파리 올림픽 배드민턴 여자 단식에서 금메달을 획득한 안세영 선수가 7일 오후 인천국제공항 제2여객터미널을 통해 귀국한 뒤 취재진 질문을 듣고 있다. PHOTO 뉴시스</media:description>
+        <media:credit role="author" scheme="urn:ebu">홍효식</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>서울경찰청장 김봉식·경찰청 차장 이호영·부산청장 김수환</title>
       <link>https://www.chosun.com/national/2024/08/14/KKHW6USJA5B5REA5JTDQJ6QEGA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/08/14/KKHW6USJA5B5REA5JTDQJ6QEGA/</guid>
@@ -886,15 +926,6 @@
       <content:encoded>이른바 ‘순직 해병 조사 외압’ 의혹을 수사 중인 고위공직자범죄수사처(공수처)가 대통령실 관계자 등 20여명의 통화 내역을 확보해 분석에 착수한 것으로 13일 전해졌다. 앞서 공수처는 윤석열 대통령 개인 휴대전화의 통화 내역을 확보한 것으로 알려졌는데, 이때 대통령실 관계자들의 통화 내역도 함께 확보했다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DOT5WIDAHSARLNIZMGW6LGHF4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난달 서울 용산 대통령실 청사에서 페트르 피알라 체코 총리와 전화 통화를 하고 있다./대통령실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 공수처 수사4부(부장 이대환)는 최근 ‘순직 해병 조사 외압’ 의혹과 관련해 대통령실 관계자 등 20여 명에 대한 통신 영장을 법원으로부터 발부 받아 집행한 것으로 전해졌다. 공수처 수사팀은 함께 확보한 윤 대통령의 통화 내역과 관계자 20여 명의 통화 내역을 종합적으로 분석하는 것으로 알려졌다. ‘순직 해병’ 사건의 초동 조사 기록의 경찰 이첩 및 회수, 재이첩 과정 전반을 규명하겠다는 것이다.&lt;br&gt;&lt;br&gt;공수처가 확보한 윤 대통령 및 관계자들의 통화 내역은 작년 7~9월 사이 60일가량인 것으로 전해졌다. 앞서 공수처 수사팀은 관련자들에 대한 통신 영장을 세 차례 청구했으나, 법원이 이를 모두 기각했었다. 통화 내역 시기의 범위를 고(故) 채수근 상병이 순직한 작년 7월 19일 이후로 좁혀 청구하자 영장이 발부됐다고 한다.&lt;br&gt;&lt;br&gt;공수처는 대통령경호처 유선전화로 알려진 ‘02-800-7070′ 회선의 작년 7~9월 사이 통화내역도 확보한 것으로 알려졌다. 이종섭 전 국방장관은 작년 7월 31일 초동 조사를 맡은 박정훈 전 해병대 수사단장의 해병대원 사망 사고 조사 결과 이첩을 보류하기 직전 이 회선과 통화한 것으로 알려진 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>검찰, ‘디올 백 수수 의혹’ 金여사 측근 행정관 재소환</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/13/KIKPAMGZYNEBHEED4H7IZPNPJU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/13/KIKPAMGZYNEBHEED4H7IZPNPJU/</guid>
-      <dc:creator>송원형 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 Aug 2024 11:21:34 +0000</pubDate>
-      <content:encoded>윤석열 대통령 부인 김건희 여사의 ‘디올 백 수수 의혹’을 수사 중인 검찰이 13일 김 여사를 보좌하는 대통령실 행정관을 다시 불러 조사했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WYOIMZKD34RWQHYAKQHU4EBHUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 형사1부(부장 김승호)는 이날 조모 행정관을 참고인 신분으로 불러 조사했다. 검찰이 조 행정관을 소환 조사한 것은 지난 6월 19일에 이어 두 번째다.&lt;br&gt;&lt;br&gt;검찰은 조 행정관을 상대로 김 여사 조사 과정에서 나온 진술 내용에 신빙성이 있는지를 확인한 것으로 알려졌다. 검찰은 지난달 20일 김 여사를 제3의 장소에서 조사한 바 있다. 조 행정관은 김 여사의 일정 관리 등 보좌하는 역할을 맡고 있다고 한다.&lt;br&gt;&lt;br&gt;재미교포 목사인 최재영씨는 2022년 9월 김 여사를 만나 300만원 상당의 디올 백을 전달하면서 김창준 전 미 하원 의원의 국정자문위원 임명 및 국립묘지 안장, 통일TV 송출 재개 등을 청탁했다고 주장하고 있다. 이후 최씨는 조 행정관으로부터 전화를 받아 김 전 의원 관련 민원 내용 검토 결과에 대한 설명을 듣고, 담당 공무원을 연결 받았다는 것이다.&lt;br&gt;&lt;br&gt;김 여사는 검찰 조사에서 김 전 의원의 국립묘지 안장과 관련해 조 행정관을 통해 최씨의 청탁을 보고받지 못했다고 진술한 것으로 전해진다. 김 여사는 통일TV 송출 재개 청탁과 관련해서도 조 행정관에게 무슨 방송국인지 알아보라고 지시했을 뿐이라고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>트럭 와이퍼 떼서 다른 차량 창문 퍽퍽… 남성의 돌발 행동, 이유는 </title>
       <link>https://www.chosun.com/national/national_general/2024/08/13/Q5MMLHX3GZF4XODZRAVPAYG3H4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/13/Q5MMLHX3GZF4XODZRAVPAYG3H4/</guid>
@@ -904,15 +935,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XCM4FCIMENCQFPYKTBZOSM7NEU.png"&gt;&lt;figcaption&gt;&lt;small&gt;옆의 트럭에서 떼어 낸 와이퍼로 승용차 앞 유리를 찍어 내리고 있는 남성(왼쪽). /경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주차해 둔 방식이 마음에 들지 않는다는 이유로 차량 여러 대를 훼손한 남성이 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;13일 인천경찰청 등에 따르면, 경찰은 최근 특수재물손괴 혐의로 남성 A씨를 체포했다. A씨는 인천의 한 주택가에서 차량 여러 대를 무차별적으로 훼손한 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 상황이 담긴 영상은 경찰청 공식 유튜브를 통해서도 공개됐다.&lt;br&gt;&lt;br&gt;이를 보면, A씨는 주차된 승용차에 다가가더니 커다란 물통으로 차량 앞 유리와 범퍼 등 여기저기를 퍽퍽 내리쳤다. 발로 운전석쪽 문을 차기도 했다. 이윽고 바로 옆에 주차된 트럭에서 와이퍼를 떼어내더니 앞 유리를 찍어 내렸다. 이에 승용차 운전석쪽 앞 유리는 완전히 금이 갔다.&lt;br&gt;&lt;br&gt;계속된 돌발 행동에 결국 한 시민이 신고했고, A씨는 현장에서 체포됐다.&lt;br&gt;&lt;br&gt;인천미추홀경찰서 관계자는 “와이퍼를 이용해 차량을 전체적으로 찍는 방식으로 손괴했고, 특히 앞 유리 피해가 컸다”며 “신고자를 포함한 목격자들은 공포감에 사로잡힌 상태에서 ‘저기 앉아 있는 사람이 차량을 손괴했다’고 경찰에 진술했다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 주차 방식에 불만을 느끼고 범행을 저지른 것으로 파악됐다. 이 관계자는 “’주차를 왜 이런 식으로 해놨냐’며 술에 취한 상태에서 불만을 가지고 범행을 한 것으로 확인됐다”며 “(출동 당시 A씨는) 술에 취한 상태에서 차량 와이퍼를 들고 또 다른 피해 차량을 물색하고 있는 상황이었다”고 했다. 그러면서 “체포 과정에서 상당히 공격적이고 비협조적인 태도를 취했다”고도 했다.&lt;br&gt;&lt;br&gt;경찰은 A씨에 대한 조사를 마치고 사건을 검찰에 송치한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>인천 공장서 물탱크 보수하던 50대 노동자 숨져</title>
-      <link>https://www.chosun.com/national/regional/2024/08/13/AVKCZNO2SZF2HAM3KMJCXO2MDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/13/AVKCZNO2SZF2HAM3KMJCXO2MDQ/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 Aug 2024 10:48:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XO6UIYOFLHWYA3DE3IZBYMEFXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 화학 공장에서 물탱크 보수 작업을 하던 50대 노동자가 갑자기 치솟은 불길에 화상을 입었다가 13일 만에 숨졌다.&lt;br&gt;&lt;br&gt;13일 중부지방고용노동청 등에 따르면 지난달 31일 오후 1시 40분쯤 인천시 서구 한 화학 공장에 있는 지하 물탱크에서 화염이 발생했다.&lt;br&gt;&lt;br&gt;이 사고로 50대 A씨 등 노동자 3명이 화상을 입고 병원으로 옮겨져 치료를 받았으나 A씨가 이날 숨졌다.&lt;br&gt;&lt;br&gt;외부 수리업체 소속 직원인 A씨는 당시 동료 2명과 함께 물탱크 벽면 보수를 위해 우레탄폼 주입 작업을 진행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰과 중부고용청은 이 사업장의 상시 근로자가 5인 이상이라는 점을 확인하고 중대재해 처벌 등에 관한 법률을 적용해 조사를 이어갈 방침이다.&lt;br&gt;&lt;br&gt;중부고용청 관계자는 “사고가 난 사업장은 중대재해처벌법 대상으로 파악됐다”며 “우레탄폼 주입 중 불길이 치솟은 원인 등 정확한 사고 경위를 조사하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>하도급 압력 대가로 ’롤렉스·순금 호랑이’ 뇌물 받은 철도공단 前 본부장 재판행</title>
       <link>https://www.chosun.com/national/regional/2024/08/13/T3HCBTJBYJFUNDUHIAFXQVZSC4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/13/T3HCBTJBYJFUNDUHIAFXQVZSC4/</guid>
@@ -920,15 +942,6 @@
       <description/>
       <pubDate>Tue, 13 Aug 2024 08:31:15 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WFD22AR37UGQRXE3EAPUF2TLHI.png"&gt;&lt;figcaption&gt;&lt;small&gt;대전지방검찰청 청사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가철도공단에서 발주한 전차 선로 공사를 진행하며 특정 업체에게 불법 하도급을 주도록 압력을 행사하고 하도급 업체로부터 뇌물을 받은 전직 국가철도공단 기술본부장과 뇌물을 건넨 하도급 업체 대표들이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대전지검 형사4부(부장검사 김가람)는 13일 전직 국가찰도공단 본부장 겸 상임이사 A(61)씨를 업무방해, 특정 범죄 가중 처벌 등에 관한 법률 위반(뇌물) 혐의로 구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 또 A씨에게 뇌물을 제공한 전차 관련 업체 회장인 B(60)씨와 업체 대표인 C(51)씨 등 2명을 구속 기소하고, 계열사 대표 D(51)씨를 불구속 기소했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2018년부터 2022년까지 3건의 철도 공사를 낙찰받은 회사 대표 3명에게 B씨 등이 운영하는 업체가 시공할 수 있게 하도급을 주라고 요구하고, 이를 거절하면 공사 진행을 방해할 것처럼 위력을 행사한 혐의(업무 방해)를 받고 있다. A씨는 또 2020년 7월 공사 과정에 편의를 제공한 대가로 B씨 등 업체 관계자 3명으로부터 6600만원 상당의 롤렉스 시계 2점을 뇌물로 받고, 이듬해 1월 설 명절 선물 비용 200만원을 B씨와 C씨에게 대납시킨 혐의를 받고 있다. 이어 2022년 3월 A씨는 B씨 등 하청업체 관계자로부터 368만원 상당의 순금 호랑이를 받았고, 지난해 8월 이들로부터 1억8000만원 상당의 외제 승용차를 제공하겠다는 약속을 받은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;B씨 등 업체 관계자 3명은 공모해 A씨에게 뇌물을 주거나 뇌물 공여를 약속한 혐의로 각각 기소됐다.&lt;br&gt;&lt;br&gt;검찰은 “자체 입수한 첩보를 바탕으로 수사해 국가철도공단 고위 간부가 직무상 우월적 지위를 이용해 불법 하도급을 조장한 비리를 확인하고 뇌물 수수 범행을 밝혀냈다”고 말했다.&lt;br&gt;&lt;br&gt;검찰은 국가철도공단과 간담회를 열고 재발 방지 대책을 논의했다. 공단 측은 비리가 적발된 공사 현장에 대한 시공관리 실태 확인 및 안전 점검을 실시하고, 하도급 공사 실태 확인 등 대책을 마련할 방침이다.&lt;br&gt;&lt;br&gt;대전지검 관계자는 “A씨가 뇌물로 받은 고가 시계와 순금 등은 몰수와 추징을 통해 환수할 방침”이라며 “공정한 경쟁 질서를 무너뜨리는 부패 범죄에 대해 엄정 대응하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“19년전 물의 일으켜 죄송”… 럭스 멤버, 생방송 성기 노출 사고 사과</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/13/JFTEFXIH5ZEMJCEEOOV2UMWRZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/13/JFTEFXIH5ZEMJCEEOOV2UMWRZM/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 Aug 2024 08:22:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZRQAOZTGDBB5HAXTIKIVUECPDY.png"&gt;&lt;figcaption&gt;&lt;small&gt;19년전 중요부위 노출 사건의 당사자는 아니지만, 같은 무대에 올랐던 럭스의 멤버 원종희가 지난 4월 유튜브를 통해 당시 상황에 대해 사과했다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19년전 생방송 음악프로그램에서 신체 중요부위를 노출한 사고에 연루됐던 인디밴드 ‘럭스’의 멤버 원종희가 사과 영상을 올린 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;원종희는 지난 4월 16일 자신의 유튜브 채널에 올린 55초 길이의 영상에서 “2005년 7월 30일, 지금으로부터 19년전 MBC 음악캠프 생방송에서 성기 노출 사고가 있었다”며 “당시 사회에 물의를 일으킨 것에 대해 여러분께 다시 한번 진심으로 사죄드린다”고 했다.&lt;br&gt;&lt;br&gt;이어 “앞으로도 평생 제 잘못에 대해 계속해서 뉘우치며 살아가도록 하겠다”며 “당시 사고 이후에도 수년 동안 제 나름으로 여러 크고 작은 자리에서 지속적으로 사과드려왔지만, 이렇게 제 유튜브 영상을 통해 다시 한번 진심을 다해 사과드린다. 정말 죄송하다”고 했다.&lt;br&gt;&lt;br&gt;원종희가 언급한 ‘성기 노출 사고’는 2005년 7월 30일 MBC 음악캠프 생방송 중 벌어진 일이다. 원종희가 소속된 럭스가 직접적인 노출 당사자는 아니었지만, 럭스와 함께 우정 출연했던 다른 밴드 카우치와 스파이키 브랫츠의 멤버가 공연 중 바지를 벗은 장면이 생방송으로 고스란히 전파를 탔다. 당시 방청객 대부분은 방학을 맞아 방송국을 찾은 청소년이었다.&lt;br&gt;&lt;br&gt;방송 사고가 난 즉시 당시 음악캠프 MC를 맡았던 신지와 엠씨몽이 사과하고, 자막에도 “본의 아닌 사고로 물의를 빚어 진심으로 죄송하다”는 문구가 나갔으나 여파는 이어졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WFRYW5ACWZGZ5CYVH2H4AKVOCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 네티즌이 유튜브를 통해 공유한 MBC 음악캠프 방송 사고 당시 영상. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;결국 MBC는 홈페이지에 “통제가 불가능한 생방송 도중 사전에 예측할 수 없었던 돌발 상황으로 본의 아니게 물의를 빚게 돼 죄송하다”는 내용의 사과문을 게재했고, 9시 ‘뉴스데스크’를 통해서도 공식으로 사과했다.&lt;br&gt;&lt;br&gt;중요부위를 노출한 멤버들은 방송이 끝난 뒤 출동한 경찰에 연행됐고, 공연음란 등의 혐의로 불구속 입건됐다. 이후 공연음란죄와 업무방해죄로 구속 기소됐다. 법원은 “젊은 혈기에 저지른 일이고 상당 기간 구금돼 반성할 시간을 가진 데다 범죄 전력이 없다는 점을 감안했다”며 집행유예를 선고했다.&lt;br&gt;&lt;br&gt;이렇게 멤버들은 모두 풀려났지만, 이 방송 사고는 이후에도 ‘전대미문’ ‘초유’ 등의 수식어가 붙어 회자됐다.&lt;br&gt;&lt;br&gt;특히 인디밴드 팬 사이에선 한국 대중음악의 다양성을 후퇴시켰다는 비판이 이어졌다. 실제로 이 사건 이후 인디밴드는 약 4년간 지상파 방송에 출연할 수 없었다.&lt;br&gt;&lt;br&gt;이뿐만 아니라 당일 MBC는 음악캠프 종영 결정을 내렸으며, 담당 PD와 스태프 등은 일자리를 잃었다. ‘불후의 명곡’ ‘뮤직뱅크’ ‘유희열의 스케치북’ 등 여러 KBS 음악프로그램을 연출한 권재영 PD는 작년 5월 유튜브 방송에서 이 사건을 언급하며 “그 방송으로 인해 많은 사람들이 직업을 잃었다”며 “그 중 한 사람이 제 와이프다. 당시 음악캠프의 메인 작가가 와이프였다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZBK6TH6ZTMLMQI2VN63X63OQUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;MBC 음악캠프 생방송에서 성기 노출로 물의를 일으킨 멤버들이 영등포경찰서에서 조사를 받고 기자들에게 심경을 밝히고 있다. 가운데는 럭스의 리더 원종희. /조선일보DB &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사건을 계기로 방송 환경에도 변화가 생겼다. 생방송으로 진행됐던 음악방송이 ‘딜레이 생방송’ 체제로 바뀌게 된 것이다. 권 PD는 “그 방송 이후 지상파 3사가 동시 생방송을 하지 않는다. 5~10초, 많게는 5분가량 딜레이 방송을 원칙으로 하게 됐다”며 “이를 담당하는 주조정실에서는 혹시 모를 사고가 발생하면 내보낼 수 있는 여분의 화면을 상시 준비하고 있다”고 했다.&lt;br&gt;&lt;br&gt;이번 원종희 유튜브 사과 영상에서도 네티즌 반응은 대부분 부정적이었다. 13일 기준 영상 조회수는 3만5000회에 그쳤고, 추천을 많이 받아 상단에 뜬 댓글들은 “(사과를) 안 하는 것보단 낫지만, 너무 늦은 감이 있지 않나 싶다” “카우치와 공모해서 벌인 일이 아니라면 이미 최악의 성기 노출 방송사고 난 시점에 웃지만 말고 카우치 멤버들 발로 걷어차 버리기라도 했어야지. 아니면 방송 직후 사과하시던지” 등이었다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘빚 갚고, 가상화폐·주식 투자’… 공금 6억원 빼돌린 청주시 6급 공무원</title>
@@ -950,15 +963,6 @@
       <description>경찰이 13일 원주시상하수도사업소를 압수수색했다. 지난달 10일 이후 두 번째 압수수색이다.강원 원주경찰서는 이날 원주시상하수도사업소 하수과와 원주천 좌안 차집관로 개량공사를 담당하는 원청과 하도급 업체 등 3곳을 대상으로 압수수색을 진행했다고 밝혔다.</description>
       <pubDate>Tue, 13 Aug 2024 07:44:03 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ILTINPV6TNAR5HEAFVF7XKQFCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 13일 원주시상하수도사업소를 압수수색했다. 지난달 10일 이후 두 번째 압수수색이다.&lt;br&gt;&lt;br&gt;강원 원주경찰서는 이날 원주시상하수도사업소 하수과와 원주천 좌안 차집관로 개량공사를 담당하는 원청과 하도급 업체 등 3곳을 대상으로 압수수색을 진행했다고 밝혔다.&lt;br&gt;&lt;br&gt;하도급 업체 선정과 관련해 간부의 외압 의혹 등 직권남용 혐의 입증을 위한 강제 수사로 알려졌으며, 오전 9시 30분부터 2시간가량 진행됐다.&lt;br&gt;&lt;br&gt;경찰은 해당 공사와 관련한 입찰 서류 등을 분석한 뒤 관련자를 소환 조사하 방침이다.&lt;br&gt;&lt;br&gt;앞서 강원경찰청 반부패경제범죄수사대는 지난달 10일 해당 공사와 관련해 원주시상하수도사업소를 1차 압수수색한 데 이어 해당 직원을 뇌물수수 혐의로 입건해 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조직적 전세사기·보이스피싱에 무기징역… 양형 강화 추진</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/13/AYKEBPXGTBCQHGHU7ZUVYBBJVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/13/AYKEBPXGTBCQHGHU7ZUVYBBJVI/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 Aug 2024 04:36:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X23C4DK5EVJKDKDZS7SQZSYIGM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이상원 대법원 양형위원장이 12일 오후 서울 서초구 대법원에서 열린 양형위원회 제133차 회의를 주재하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전세사기와 보이스피싱 범죄가 조직적이거나 피해 금액이 큰 경우 무기징역까지 선고할 수 있도록 처벌 기준을 강화하는 방안이 추진된다.&lt;br&gt;&lt;br&gt;13일 법조계에 따르면, 대법원 양형위원회는 전날 전체회의를 열고 이 같은 양형 기준 수정안을 심의하고 확정했다. 양형 기준은 판사가 형량을 정할 때 참고하는 가이드라인으로, 판사가 기준을 벗어난 형량을 선고하려면 그 이유를 판결문에 적어야 한다. 사기 범죄에 대한 양형 기준이 바뀌는 것은 13년 만이다. 다만 이번 수정안은 잠정적인 것으로 향후 공청회 등을 거쳐 최종 의결되기까지 바뀔 수 있다.&lt;br&gt;&lt;br&gt;양형위는 조직적 사기 중 사기 금액이 50억원 이상 300억원 미만인 경우와 일반 사기 중 사기 금액 300억원 이상인 경우 징역 17년까지 선고하도록 권고하고, 죄질이 무거우면 특별 조정을 통해 최대 무기징역을 선고할 수 있도록 양형 기준을 강화했다. 특별 조정은 형을 높여야 하는 요인인 ‘특별 가중 인자’만 존재하는 등의 경우 권고 형량 보다 무겁게 처벌하도록 하는 제도다.&lt;br&gt;&lt;br&gt;양형위는 또 사기 금액이 300억원 이상인 조직적 사기에 대해 가중 처벌할 경우 최대 무기징역을 선고하도록 명시했다. 당초 ‘11년 이상 징역형’을 선고하도록 규정하고 있던 것을 바꿔 무기징역으로 처벌할 수 있다고 확실히 한 것이다.&lt;br&gt;&lt;br&gt;양형위는 “사기 범죄 양상 및 국민 인식의 변화, 기존 양형 기준의 전반적 재검토를 거쳐 권고 형량 범위를 정했다”며 “다수 피해자를 양산하고 사회적인 해악이 큰 다중 피해 및 고액 사기 범죄에 대한 엄벌의 필요성 등을 고려해 처벌 상한을 상향했다”고 밝혔다.&lt;br&gt;&lt;br&gt;양형위는 또 보험 사기의 처벌을 강화하고, 집행유예 선고 기준도 제한했다. ‘보험 등 전문직 종사자가 범행에 가담한 경우’ 가중 처벌하고, ‘피해자가 단기간에 고수익을 얻으려고 한 경우’는 감경 사유에서 빼기로 했다. 조직적 사기의 경우 ‘사기 범행을 주도적으로 계획하거나 그 실행을 지휘한 경우’가 부정적 주요 참작 사유에 추가됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
