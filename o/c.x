@@ -13,6 +13,88 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울경찰청장 김봉식·경찰청 차장 이호영·부산청장 김수환</title>
+      <link>https://www.chosun.com/national/2024/08/14/KKHW6USJA5B5REA5JTDQJ6QEGA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/08/14/KKHW6USJA5B5REA5JTDQJ6QEGA/</guid>
+      <dc:creator>주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 14 Aug 2024 10:02:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q2KSSOCTODDSTYUPZX2KZEPYJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김봉식 서울경찰청장./경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청은 14일 고위직 인사를 발표했다. 서울경찰청장에 김봉식 경기도남부경찰청장, 경찰청 차장에 이호영 경찰대학장, 부산경찰청장에 김수환 차장을 임명했다. 오문교 충남경찰청장은 경찰대학장, 김준영 강원경찰청장은 경기남부청장으로 전보됐다. 발령 일자는 오는 16일이다.&lt;br&gt;&lt;br&gt;서울경찰청장에 임명된 김봉식 치안정감은 경찰대를 5기로 졸업하고 1989년 입직했다. 대구광역시 출신으로 경북고와 경찰대, 경북대 국제대학원 국제학 석사를 졸업했다. 경찰 내에서 대표적인 ‘수사통’으로 꼽히는 인물이다.&lt;br&gt;&lt;br&gt;경찰청 차장에 임명된 이호영 치안정감은 충남 출생으로 동국대 경찰행정학과를 졸업하고 1992년 간부후보 40기로 경찰에 입직했다. 2020년 경무관 승진 후 충남경찰청 제1부장, 경찰청 정보화장비정책관 등을 거쳤으며 2022년 6월 치안감에 오른 뒤 경찰청 경무인사기획관과 울산경찰청장을 거쳐 작년 10월 행안부 경찰국장으로 임명된 바 있다.&lt;br&gt;&lt;br&gt;부산경찰청장으로 임명된 김수환 치안정감은 이명박 정부 시절 대통령 치안비서관실 행정관을 지냈다. 이후 서울 종로경찰서장, 서울경찰청 경무기획과장을 역임했고 현 정부 출범 후 치안감으로 승진해 경찰청 국가수사본부 안보수사국장, 경찰청 공공안녕정보국장을 맡았다. 지난해 8월에는 치안정감으로 올라간 후 경찰대학장, 경찰청 차장 등을 지냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/Q2KSSOCTODDSTYUPZX2KZEPYJU.jpg?width=1200&amp;height=1500&amp;auth=3e5a7898700919881bc02d6bcdac2a57ee23fb9f4bba76534583c36edf930ec5&amp;smart=true" type="image/jpeg" height="1500" width="1200">
+        <media:description type="plain">김봉식 경기남부경찰청장</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>특수안경 끼고 경찰 대화·유치장 내부 몰래 촬영한 30대 ‘징역 6개월’</title>
+      <link>https://www.chosun.com/national/regional/2024/08/14/CPSGJMNAKVD3ZAWC35DPGWUP3E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/14/CPSGJMNAKVD3ZAWC35DPGWUP3E/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 14 Aug 2024 09:32:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BGVN5ERUAVSSSYMVXI77ZNWVOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;몰래카메라 기능이 있는 특수 안경으로 경찰관들의 대화 내용을 몰래 녹화·녹음하고, 유치장 내부 등을 촬영한 혐의로 재판에 넘겨진 30대 여성에게 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 형사11부(부장 이종길)는 14일 통신비밀보호법 위반 등 혐의로 구속 기소된 A씨에게 징역 6개월을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 5월 대구 동구의 한 병원에서 호신용 가스총으로 의사 얼굴에 최루액을 수차례 쏘고, 이를 막기 위해 출동한 경찰관들을 발로 차는 등 폭행해 특수폭행, 공무집행방해 혐의로 구속 송치됐다. 이후 피고인 호송을 담당하는 교도관으로부터 A씨의 영치품 중 특이한 안경이 있다는 내용을 전달받은 검찰이 소형 녹화·녹음 장치가 부착된 안경인 것을 확인해 통신비밀보호법 위반 혐의를 추가해 기소했다.&lt;br&gt;&lt;br&gt;A씨로부터 해당 특수 안경을 임의로 제출받은 검찰은 디지털포렌식을 통해 녹화 파일 약 200개를 확보했다. 해당 파일에는 경찰관들이 A씨를 어떤 방식으로 수사할 지 협의하는 대화 내용, 유치장 내부 모습, 구속 전 피의자 심문 과정에서 담당판사의 얼굴 등이 담겨 있었다.&lt;br&gt;&lt;br&gt;재판과정에서 A씨는 “국정원 직원으로, 지시를 받았다”는 등의 진술을 했지만, A씨 가족은 “딸이 망상장애가 있다”며 선처를 호소했다.&lt;br&gt;&lt;br&gt;재판부는 “A씨가 범행을 인정하고 A씨 가족이 선처를 탄원한 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>신임 헌법재판관 후보자에 ‘김정원·윤승은·김복형’</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/14/FBADVDA3NZFRLIRPSF5PRM7T6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/14/FBADVDA3NZFRLIRPSF5PRM7T6E/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 14 Aug 2024 08:42:35 +0000</pubDate>
+      <content:encoded>헌법재판관 후보추천위원회가 오는 9월 20일 퇴임하는 이은애 헌법재판관의 뒤를 이을 신임 헌법재판관 후보자를 김정원(59·사법연수원 19기) 헌법재판소 사무처장, 윤승은(57·23기) 서울고법 부장판사, 김복형(56·24기) 서울고법 부장판사 3명으로 압축했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GHAGUXXN6BKQR3YPWBUX3IPHC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;왼쪽부터 김복형 서울고법 부장판사, 김정원 헌법재판소 사무처장, 윤승은 서울고법 부장판사/ 대법원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판관 후보추천위원회는 14일 오후 2시 대법원에서 회의를 열고 후보로 천거된 심사대상자들의 적격 여부를 심사한 뒤, 이들 3명을 조 대법원장에게 지명대상 후보자로 추천했다.&lt;br&gt;&lt;br&gt;김정원 헌재 사무처장은 1990년부터 판사로 재직하다가 2012년 헌재로 자리를 옮겼다. 헌재 선임부장연구관, 수석부장연구관, 사무차장 등을 거쳐 올해 2월부터 사무처장을 지내고 있다. 김 처장이 임명되면 현직 헌법연구관이 재판관이 되는 첫 사례다.&lt;br&gt;&lt;br&gt;윤승은 부장판사는 1994년 대전지법 판사로 시작해 2005년 여성으로서는 처음으로 법원행정처 사법정책심의관을 맡았다. 서울중앙지법 성폭력전담부, 서울고법 노동·선거전담부, 법원도서관장 등을 거쳤다.&lt;br&gt;&lt;br&gt;김복형 부장판사는 1995년 서울지법 판사로 임관했다. 대법원 재판연구관, 대구지법 부장판사, 춘천지법 수석부장판사 등 법관 생활을 거쳤다.&lt;br&gt;&lt;br&gt;앞서 대법원은 지난달 24일 후임 재판관 후보자 명단 36명을 공개했다. 이들 가운데 현직 법관은 31명, 나머지는 법무법인이나 헌재 등에 소속돼 있다. 이들 중 후보추천위원회가 후보를 3명으로 압축한 것이다.&lt;br&gt;&lt;br&gt;헌법재판관 9명은 대통령과 국회, 대법원장이 각각 3명씩 지명한다. 이번 이은애 재판관 후임은 조희대 대법원장의 지명 몫이다. 조 대법원장은 후보추천위원회의 논의 결과를 토대로 수일 내에 신임 재판관 후보자 1명을 지명해 윤석열 대통령에게 임명 제청할 예정이다.&lt;br&gt;&lt;br&gt;헌법재판관 후보추천위원회 이광형 위원장은 “법률가로서의 전문성은 물론이고 국민 기본권 보장에 대한 확고한 의지, 사회적 약자 보호에 대한 강한 신념, 우리 사회의 다양한 가치를 포용하고 통찰 할 수 있는 능력, 국민 눈높이에 맞는 도덕성 등을 두루 갖춘 후보자를 추천하려고 노력했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>회식하다 같은 부서 ‘여직원 성추행’ 포스코 전 직원, 집행유예</title>
+      <link>https://www.chosun.com/national/regional/2024/08/14/VAEDA4OPBFANDHYGA2PZYOZYUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/14/VAEDA4OPBFANDHYGA2PZYOZYUA/</guid>
+      <dc:creator>포항=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 14 Aug 2024 09:17:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H76A7MXX2AHCM5AK3GO3UM74CE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법 포항지원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;회식자리에서 여직원을 성추행한 혐의로 재판에 넘겨진 전직 포스코 포항제철소 직원에게 징역형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 포항지원 형사3단독 박진숙 부장판사는 14일 성폭력범죄의처벌등에관한특례법 위반 혐의로 기소된 60대 A씨에게 징역 1년에 집행유예 2년을 선고했다. 또 성폭력치료 강의 수강 40시간, 사회봉사 80시간을 명령했다.&lt;br&gt;&lt;br&gt;A씨는 2021년 3월 포항시 북구의 한 고깃집에서 열린 부서 회식에서 옆자리에 앉은 여직원의 허벅지를 손으로 만지는 등 여러 차례 성추행한 혐의로 재판에 넘겨졌다. A씨는 관련 혐의를 부인했지만, 재판부는 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;재판부는 “피해자 진술이 일관돼 신빙성이 있다”며 “피고인은 상사의 지위를 이용해 여러차례 성추행하고도 반성하지 않고 있다. 또 피해자가 엄벌을 요구하고 있는 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘직원 통해 1186억 부동산 대출’ 메리츠증권 전 임원 불구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/14/RLSMFL7HQRBI3G5R74FB6VTWAU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/14/RLSMFL7HQRBI3G5R74FB6VTWAU/</guid>
+      <dc:creator>유희곤</dc:creator>
+      <description/>
+      <pubDate>Wed, 14 Aug 2024 09:06:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DFG6ZLW5XPCNEW74HJFDVAWT6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 30일 서울 여의도 메리츠증권 본사 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;직원들끼리 대출을 알선해주고 대가를 주고받은 혐의를 받는 메리츠증권 전 임직원이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;14일 법조계에 따르면 서울중앙지검 조세범죄조사부(부장 이진용)는 특정경제범죄가중처벌법상 증재·횡령 혐의로 메리츠증권 임원을 지낸 박모씨를 최근 불구속 기소했다. 박씨에게 대출을 알선해주고 거액을 받은 직원 김모씨와 이모씨는 특경가법상 수재 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;박씨는 2014년 10월부터 2017년 9월까지 부동산 매입 자금을 마련하기 위해 김씨와 이씨를 통해 5차례 걸쳐 부동산 매입용 자금 1186억원을 대출받고 두 사람에게 대가를 건넨 혐의를 받고 있다. 박씨는 업무를 하면서 알게 된 부동산 프로젝트파이낸싱(PF) 정보를 이용한 부동산 투자 수익을 내기 위해 가족 법인 명의로 부동산 11건을 900억원에 취득·임대한 것으로 조사됐다. 김씨와 이씨는 A사에서 월급이나 퇴직금 명목으로 각각 4억6000만원과 3억8000만원을 받았다.&lt;br&gt;&lt;br&gt;검찰은 금융감독원의 수사 의뢰를 받고 지난 1월 서울 여의도 메리츠증권 본점과 박씨 거주지 등을 압수수색했다. 지난 5월 22일 박씨 등의 구속영장을 청구했지만 법원이 기각했다. 신영희 서울중앙지법 영장전담 부장판사는 “주요 범죄 혐의에 관해 다퉈볼 여지가 있어 방어권 보장의 필요성이 있고 증거를 인멸할 염려가 있다고 보기 부족하다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>헬기 로프 하강 훈련받던 육군 부사관, 추락해 숨져</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/08/14/D6ZLN5QYSZE3TIQDD66YFBDQDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/08/14/D6ZLN5QYSZE3TIQDD66YFBDQDI/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 14 Aug 2024 09:11:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6B6KZZKLEBPPBPEME2DJXWGU44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급차량. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;육군 간부가 헬기 로프 하강 훈련 도중 추락해 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;4일 오전 9시 45분쯤 충북 진천군 초평면 두타산에서 육군 37사단 소속 A(30대) 상사가 헬기 로프 하강 훈련을 하던 중 2m 높이서 떨어졌다. 이 사고로 크게 다친 A 상사는 소방 헬기로 충북대병원에 이송됐지만, 이날 오후 2시 40분쯤 결국 숨졌다.&lt;br&gt;&lt;br&gt;군 당국은 부대 관계자 등을 상대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/6B6KZZKLEBPPBPEME2DJXWGU44.jpg?width=3211&amp;height=1748&amp;auth=dba5aaad9e8c2ddbc6e2149f57bbaca278802bc16f43d08298ee030ffaf20ec5&amp;smart=true" type="image/jpeg" height="1748" width="3211">
+        <media:description type="plain">제주소방안전본부 119구급차량. 2024.5.2/뉴스1 ⓒ News1 오현지 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 오현지 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>독립운동가에 광복 선물했더니… 활짝 웃으며 ‘만세’</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/14/4NMW2LLNUJFQ7EZPHRT3Z3TOVE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/14/4NMW2LLNUJFQ7EZPHRT3Z3TOVE/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 14 Aug 2024 08:15:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OSLTQFN7JFBXXAJLR2EEMQZXJ4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;유튜브 채널 '하일광'에 올라온 유관순 열사 AI 복원영상 / 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유관순 열사가 살아있었다면 해방 소식을 듣고 어떤 표정을 지었을까. 광복절을 앞두고 인공지능(AI) 기술을 활용해 독립운동가들에게 숨결을 불어넣은 콘텐츠가 온라인에서 화제가 되고 있다.&lt;br&gt;&lt;br&gt;유튜브 채널 ‘하일광’에는 지난 13일 ‘멈춰 있는 사진 속 독립운동가에게 AI로 광복을 전해드렸더니 이런 영상이?’라는 제목의 영상이 올라왔다. 45초짜리 영상에는 수형사진이나 흑백 사진 속 독립운동가 안중근, 김구, 유관순, 김마리아, 홍범도, 윤봉길, 김원봉 선생이 차례로 등장한다. 광복을 맞이한 독립운동가들은 오희옥 지사가 부른 애국가에 맞춰 만세를 하며 활짝 웃고 있다.&lt;br&gt;&lt;br&gt;‘하일광’은 AI의 순기능을 찾아 광고를 제작하는 채널이다. 이 유튜버는 “그날의 시간에 멈춰있는 독립운동가분들께 AI로 광복을 전해드리면 기뻐하시지 않을까 해 제작하게 됐다”며 “하늘에선 사진 속 무거운 표정이 아닌 밝은 웃음으로 함께 하길 바란다”고 했다.&lt;br&gt;&lt;br&gt;영상을 접한 네티즌들은 “올해 본 영상 중에 최고다” “미소 짓는 영웅들을 보니 마음이 뭉클하다” “가슴 속에서 울컥하는 마음이 일렁인다. 노래가 애절하고 심금을 울린다. 독립운동지사들의 밝은 웃음을 볼수 있어 감동” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KEGHDW6ULZHY5GH2HTBRQA22BU.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;유튜브 채널 '하일광'에 올라온 독립운동가들의 모습을 AI로 복원한 영상/유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기업들도 AI 기술을 적용한 광복절 콘텐츠를 선보이고 있다. 국가보훈부와 빙그레는 지난 2일’처음 입는 광복’ 캠페인을 진행했다. 독립운동가들의 사진을 컬러로 복원한 뒤 수의 대신 한복을 입힌 이 영상은 조회수 364만회를 돌파하며 뜨거운 반응을 얻었다.&lt;br&gt;&lt;br&gt;복원된 사진 속 87명의 독립운동가는 공훈전자사료관 내 옥중 순국 기록이 있는 독립운동가 중 일제감시대상 인물카드에 수형 사진이 마지막 모습으로 남은 인물들을 대상으로 선정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/57B4IJCKABBCXGBD7XI3OU76LA.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;AI로 복원한 이원록 (필명 이육사)의 모습. 수의 대신 한복을 입고 있다./빙그레&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;빙그레는 영상을 제작한 이유에 대해 “광복을 맞이하지 못한 채 차가운 옥중에서 생을 마감한 옥중순국 독립운동가들의 마지막 모습이 옥중의 수형사진으로 남은 그들을 위해 준비했다”며”끝내 맞이하지 못한 광복을 뒤늦게나마 전해드리며, 우리들 기억 속 독립운동가들의 마지막 모습이 빛을 되찾은 영웅의 모습으로 기억되기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHHMYV5XVBCVFHIXUFLD7HLPQI.png"&gt;&lt;figcaption&gt;&lt;small&gt;영상 원본(오른쪽)과 AI로 품질을 개선한 영상(왼쪽). /SK텔레콤&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SK텔레콤도 1945년 광복 직후 서울 거리와 1942년 녹음된 애국가를 인공지능(AI)·머신러닝 기술로 더 선명하게 복원한 콘텐츠를 공개했다. 이 영상은 SK텔레콤 공식 유튜브 채널에서 시청할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/OSLTQFN7JFBXXAJLR2EEMQZXJ4.gif?width=600&amp;height=324&amp;auth=723f2d7b0ed34d01f932229dd39db4adba305d797d2b8ea9dc263c8f30d8efe2&amp;smart=true" type="image/jpeg" height="324" width="600">
+        <media:description type="plain">유튜브 채널 '하일광'에 올라온 유관순 열사 AI 복원영상 / 유튜브</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>수도권전철, 50년 간 340억명 싣고 달렸다</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/08/14/SHOYI2KFUJFHXJM5TMQYPXQDIU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/08/14/SHOYI2KFUJFHXJM5TMQYPXQDIU/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>한국철도공사(코레일)는 1974년 8월 15일 3개 노선에서 운행을 시작한 수도권 전철이 50년간 340억명의 승객을 운송한 것으로 집계됐다고 14일 밝혔다.</description>
+      <pubDate>Wed, 14 Aug 2024 08:16:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LHCI4GMHNQ45FELSS4PK36VMVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;코레일은 수도권 전철이 지난 50년간 승객 340억 명을 싣고 달렸다고 14일 밝혔다./코레일&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국철도공사(코레일)는 1974년 8월 15일 3개 노선에서 운행을 시작한 수도권 전철이 50년간 340억명의 승객을 운송했다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;코레일에 따르면 수도권 전철의 수송 인원은 경부선(서울~수원), 경인선(구로~인천), 경원선(지하청량리~광운대)이 운행했던 1945년 2900만명에서 지난해 10억9700만명으로 38배 증가했다. 노선 길이도 74km에서 741.4km로 10배 이상 늘어났다. 1일 열차 운행 횟수는 215회에서 2591회로 12배가량 증가했다.&lt;br&gt;&lt;br&gt;코레일은 현재 경부·장항·경인·경원선, 일산선, 안산·과천선, 경의·중앙선, 경춘선, 수인·분당선, 경강선, 서해선, 동해선 등 15개 광역철도 노선(수도권전철 14개·동해선 1개)을 운영하고 있다.&lt;br&gt;&lt;br&gt;이용객이 가장 많은 역은 용산역(5만9144명)이다. 이어 영등포역(5만8823명), 회기역(5만5250명), 선릉역(4만8151명), 부천역(4만4404명), 왕십리역(4만2855명), 부평역(4만1720명) 등 순이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>이문동 아파트 공사현장서 30대 중국인 인부 사망한 채 발견</title>
       <link>https://www.chosun.com/national/national_general/2024/08/14/TT4PLPJDNBGBRD77BXBMMEGU5A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/14/TT4PLPJDNBGBRD77BXBMMEGU5A/</guid>
@@ -831,24 +913,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XO6UIYOFLHWYA3DE3IZBYMEFXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 화학 공장에서 물탱크 보수 작업을 하던 50대 노동자가 갑자기 치솟은 불길에 화상을 입었다가 13일 만에 숨졌다.&lt;br&gt;&lt;br&gt;13일 중부지방고용노동청 등에 따르면 지난달 31일 오후 1시 40분쯤 인천시 서구 한 화학 공장에 있는 지하 물탱크에서 화염이 발생했다.&lt;br&gt;&lt;br&gt;이 사고로 50대 A씨 등 노동자 3명이 화상을 입고 병원으로 옮겨져 치료를 받았으나 A씨가 이날 숨졌다.&lt;br&gt;&lt;br&gt;외부 수리업체 소속 직원인 A씨는 당시 동료 2명과 함께 물탱크 벽면 보수를 위해 우레탄폼 주입 작업을 진행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰과 중부고용청은 이 사업장의 상시 근로자가 5인 이상이라는 점을 확인하고 중대재해 처벌 등에 관한 법률을 적용해 조사를 이어갈 방침이다.&lt;br&gt;&lt;br&gt;중부고용청 관계자는 “사고가 난 사업장은 중대재해처벌법 대상으로 파악됐다”며 “우레탄폼 주입 중 불길이 치솟은 원인 등 정확한 사고 경위를 조사하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>잠실야구장 주차장서 여성 납치 시도… “짐 정리 중 뒤에서 습격”</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/13/QZ3VUMJMSRBUFFKVALJVKCJRKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/13/QZ3VUMJMSRBUFFKVALJVKCJRKI/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 Aug 2024 10:30:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HOILOLCB4BHKVJFJKO4DGEZBT4.png"&gt;&lt;figcaption&gt;&lt;small&gt;자신을 납치 미수 사건 피해자라고 밝힌 A씨가 첨부한 구체적인 사건 발생 위치. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 잠실야구경기장 야외주차장에서 여성을 상대로 납치를 시도한 사건이 발생해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;13일 경찰에 따르면, 서울 송파경찰서는 지난 10일 밤 9시30분쯤 ‘주차장에서 한 남성이 뒤에서 입을 막고 강제로 끌고 가려 했다’는 여성의 신고를 받고 용의자를 추적하고 있다.&lt;br&gt;&lt;br&gt;용의자는 피해자가 혼자 자신의 차량에서 짐 정리를 하던 틈을 이용해 습격한 것으로 알려졌다. 피해자가 격렬히 저항하자 도주했다고 한다.&lt;br&gt;&lt;br&gt;자신을 피해자라고 밝힌 A씨는 온라인 커뮤니티를 통해 사건이 발생한 자세한 위치를 첨부한 뒤 블랙박스 영상 제보를 요청하기도 했다.&lt;br&gt;&lt;br&gt;A씨는 당시 상황에 대해 “운전석과 뒷좌석 문을 열어둔 상태로 허리 숙여 젖은 옷 및 짐 정리를 하는 도중 뒤에서 습격당했다. 입을 강하게 틀어막고 저를 뒤로 끌어내려 했다”며 “한 5초간 크게 저항했더니 범인은 뒤쪽으로 도망갔다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 “이후 큰길로 뛰쳐나와 일행에게 여기로 와달라고 전화했고, 전화 도중 가족 단위 일행이 주차장에 들어오셔서 살려달라고 도움을 요청했다”고 했다. 그러면서 “뒤에서 습격당했기 때문에 도망가는 뒷모습밖에 보지 못했다. 그마저도 가로등이 거의 없어 모자를 쓰고 백팩을 멘 것만 확인했다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 주변 방범카메라와 블랙박스 영상 분석 등을 통해 자세한 사건 경위와 용의자 인상착의를 파악하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천시, 아파트 전기차 충전기 주변 ‘방화벽’ 설치 추진</title>
-      <link>https://www.chosun.com/national/regional/2024/08/13/P7425HUWJFERFF5TC5UMPO63TE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/13/P7425HUWJFERFF5TC5UMPO63TE/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 Aug 2024 08:50:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LFOYXK2OKDEVA773M66MJUHYX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천시청 전경/ 인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천시가 아파트 지상‧지하 전기차 충전기 주변에 방화벽을 설치하는 방안을 추진한다.&lt;br&gt;&lt;br&gt;인천시는 13일 전기차 화재 안전 종합대책회의를 열고 대책을 논의했다. 이날 회의엔 인천소방본부와 10개 군‧구, 한국전기안전공사, 인천대, 한국EV기술인협회 등 관계자와 자동차 전문가 등이 참여했다.&lt;br&gt;&lt;br&gt;인천시는 우선 아파트 단지 지상과 지하에 설치돼 있는 전기차 충전기 주변에 방화벽을 설치하는 방안을 추진할 방침이다.&lt;br&gt;&lt;br&gt;인천시 관계자는 “회의에서 지상이든 지하든 충전기 주변에 방화벽 설치가 필요하다는 전문가들의 의견이 많았다”며 “방화벽 설치를 위한 구체적인 시행 방안을 검토할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;인천 지역 아파트엔 총 1만3356기의 전기차 충전기가 설치돼 있는 것으로 파악됐다. 지상엔 1624기가 지하엔 1만11732기가 각각 설치돼 있다. 아파트 단지를 포함한 인천 지역 전기차 충전기는 총 1만9531기다.&lt;br&gt;&lt;br&gt;인천시는 또 전기차 생산 과정에서 배터리 화재 시 진화를 위한 소화수 공급장치가 설치된 차량이 생산되도록 정부에 건의하기로 했다.&lt;br&gt;&lt;br&gt;인천시는 이 외에 현재 지하 3층까지 설치할 수 있는 전기차 충전시설을 지하 1층까지로 조정해야 한다고 정부에 요청하고, 급속충전기의 경우 전기차 배터리 용량의 80%까지, 완속충전기는 90%까지 충전해야 화재 예방에 도움이 될 수 있다는 걸 시민들에게 적극 알리기로 했다.&lt;br&gt;&lt;br&gt;회의를 주재한 유정복 인천시장은 “전기차 안전 전반에 대한 시민들의 우려가 커지고 있다”며 “정부 등 관계기관과 긴밀히 협력해 전기차 화재로 인한 대형사고 예방 대책을 마련하겠다”고 말했다.&lt;br&gt;&lt;br&gt;지난 1일 인천시 서구 청라동의 한 아파트 지하 주차장에서 발생한 벤츠 전기차 화재로 주민 등 23명이 연기를 마셔 병원으로 옮겨지고 차량 870대가 불에 타거나 그을렸다. 또 당시 화재로 지하에 설치된 수도관과 전기 배선 등이 손상되는 등 피해가 발생했다. 화재 당시 스프링클러는 아파트 관리사무소 관계자의 임의조작으로 작동하지 않았다.&lt;br&gt;&lt;br&gt;한편 인천소방본부는 스프링클러가 설치된 인천 지역 1682개 아파트 단지를 대상으로 긴급 점검을 진행할 예정이다.&lt;br&gt;&lt;br&gt;인천소방본부는 이번 조사에서 스프링클러 등 소방시설이 정상적으로 작동하는지 확인하고, 아파트 차원의 자체 점검이 제대로 이뤄졌는지 살필 계획이다. 관련 안전교육도 함께 진행한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>하도급 압력 대가로 ’롤렉스·순금 호랑이’ 뇌물 받은 철도공단 前 본부장 재판행</title>
       <link>https://www.chosun.com/national/regional/2024/08/13/T3HCBTJBYJFUNDUHIAFXQVZSC4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/13/T3HCBTJBYJFUNDUHIAFXQVZSC4/</guid>
@@ -856,15 +920,6 @@
       <description/>
       <pubDate>Tue, 13 Aug 2024 08:31:15 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WFD22AR37UGQRXE3EAPUF2TLHI.png"&gt;&lt;figcaption&gt;&lt;small&gt;대전지방검찰청 청사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가철도공단에서 발주한 전차 선로 공사를 진행하며 특정 업체에게 불법 하도급을 주도록 압력을 행사하고 하도급 업체로부터 뇌물을 받은 전직 국가철도공단 기술본부장과 뇌물을 건넨 하도급 업체 대표들이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대전지검 형사4부(부장검사 김가람)는 13일 전직 국가찰도공단 본부장 겸 상임이사 A(61)씨를 업무방해, 특정 범죄 가중 처벌 등에 관한 법률 위반(뇌물) 혐의로 구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 또 A씨에게 뇌물을 제공한 전차 관련 업체 회장인 B(60)씨와 업체 대표인 C(51)씨 등 2명을 구속 기소하고, 계열사 대표 D(51)씨를 불구속 기소했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2018년부터 2022년까지 3건의 철도 공사를 낙찰받은 회사 대표 3명에게 B씨 등이 운영하는 업체가 시공할 수 있게 하도급을 주라고 요구하고, 이를 거절하면 공사 진행을 방해할 것처럼 위력을 행사한 혐의(업무 방해)를 받고 있다. A씨는 또 2020년 7월 공사 과정에 편의를 제공한 대가로 B씨 등 업체 관계자 3명으로부터 6600만원 상당의 롤렉스 시계 2점을 뇌물로 받고, 이듬해 1월 설 명절 선물 비용 200만원을 B씨와 C씨에게 대납시킨 혐의를 받고 있다. 이어 2022년 3월 A씨는 B씨 등 하청업체 관계자로부터 368만원 상당의 순금 호랑이를 받았고, 지난해 8월 이들로부터 1억8000만원 상당의 외제 승용차를 제공하겠다는 약속을 받은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;B씨 등 업체 관계자 3명은 공모해 A씨에게 뇌물을 주거나 뇌물 공여를 약속한 혐의로 각각 기소됐다.&lt;br&gt;&lt;br&gt;검찰은 “자체 입수한 첩보를 바탕으로 수사해 국가철도공단 고위 간부가 직무상 우월적 지위를 이용해 불법 하도급을 조장한 비리를 확인하고 뇌물 수수 범행을 밝혀냈다”고 말했다.&lt;br&gt;&lt;br&gt;검찰은 국가철도공단과 간담회를 열고 재발 방지 대책을 논의했다. 공단 측은 비리가 적발된 공사 현장에 대한 시공관리 실태 확인 및 안전 점검을 실시하고, 하도급 공사 실태 확인 등 대책을 마련할 방침이다.&lt;br&gt;&lt;br&gt;대전지검 관계자는 “A씨가 뇌물로 받은 고가 시계와 순금 등은 몰수와 추징을 통해 환수할 방침”이라며 “공정한 경쟁 질서를 무너뜨리는 부패 범죄에 대해 엄정 대응하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공수처, ‘이재명 피습현장 물청소’ 부산경찰청장 불기소</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/13/6YKFMEHEIBCZPHR3EVAOZ5ARAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/13/6YKFMEHEIBCZPHR3EVAOZ5ARAQ/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 Aug 2024 08:15:49 +0000</pubDate>
-      <content:encoded>지난 1월 이재명 당시 민주당 대표의 흉기 피습 사태 현장을 ‘물청소’해 증거를 인멸했다는 의혹을 수사하는 고위공직자범죄수사처(공수처)가 우철문 부산경찰청장과 옥영미 전 부산강서경찰서장에 대해 불기소 처분을 내린 것으로 13일 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QD6SHVWUADJFROYFYZ6T7TR3UE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 당시 민주당 대표가 지난 1월 2일 부산에서 피습을 당한 후 서울 동작구 노들섬에 헬기를 통해 도착해 서울대병원으로 이송되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공수처 수사2부(부장 송창진)는 증거인멸 등 혐의로 고발된 우 청장과 옥 전 서장에 대해 지난 주 불기소 처분을 내렸다고 밝혔다. 민주당 당대표정치테러대책위원회는 지난 2월 이들을 공수처에 고발했었다. 이에 공수처가 수사에 착수했으나, 물청소와 관련해 두 간부의 혐의점을 찾지 못한 것으로 전해졌다. 공수처는 옥 전 서장을 지난 5월 피의자 신분으로 소환해 조사하고, 지난 6월엔 부산강서경찰서를 압수 수색하기도 했다.&lt;br&gt;&lt;br&gt;민주당 측은 고발 당시 이 대표 피습 직후 경찰이 사건 현장을 보존하지 않고 페트병 등을 이용해 물청소를 했다며, 이것이 증거인멸에 해당한다고 주장한 바 있다. 이에 우 청장은 국회 행정안전위원회 전체회의에서 “이미 범인이 검거됐고 증거물이 충분히 확보됐고 방송사, 당직자, 지지자 등이 다 있어 현장을 보존할 필요성이 없다고 판단한 것”이라고 했었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ZO3PWG57ZH6KBZ7HVHMJF5BLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 전 민주당 대표를 살해하려고 흉기를 휘두른 혐의(살인미수)로 구속된 김모씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 이 전 대표를 흉기로 찌른 습격범 김모씨는 지난달 1심에서 징역 15년을 선고받았다. 김씨의 범행을 도운 혐의로 기소된 A씨에게는 징역 1년 6개월에 집행유예 3년이 선고됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“19년전 물의 일으켜 죄송”… 럭스 멤버, 생방송 성기 노출 사고 사과</title>
@@ -888,15 +943,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘성수·CJ 올리브영역’ 역명 개칭에…“공공재인 역명을 사기업에 팔아넘기나” 시끌</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/13/CCIGKLIFQZGGHOH53S4BRXQYZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/13/CCIGKLIFQZGGHOH53S4BRXQYZE/</guid>
-      <dc:creator>구아모 기자, 안준현 기자, 김영은 인턴기자(한국외대 졸업)</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 Aug 2024 07:09:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ALBOMNFDXJFK7L7UKPFEA4YD6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오는 10월부터 성수역에 CJ올리브영이 병기된다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 10월부터 서울 지하철 2호선 성수역을 ‘올리브영역’이라고도 부르게 된다. 출입구, 승강장 역명판은 물론 지하철을 타면 안내 방송에서도 “성수, 올리브영역”이라고 나올 예정이다. 공공 자산인 지하철역명에 해당 지역과 관련도 없는 사기업명이 병기되는 것이 눈살이 찌푸려진다는 지적도 잇따른다.&lt;br&gt;&lt;br&gt;역명 병기 유상 판매 사업은 서울교통공사가 2016년부터 만년 재정난을 해소하기 위해 시행됐다. 지하철역 1㎞ 이내에 있는 기업이나 병원, 기관이 돈을 내고 종전 역 이름 옆이나 밑에 사명을 함께 적을 수 있도록 한다. 지하철 1~8호선 주요 역이 대상이다. 역명이 낙찰되면 3년 간 표기된다. 공사에 따르면 사업이 시행된 이후 올해까지 역명 판매 사업으로 벌어들인 돈은 대략 181억원에 달한다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OM2YBU3AXPWP2VZ3RUW7YEPMXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지하철 역명병기 예시.(서울교통공사 제공)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이런 지하철역명은 주로 은행·증권사들이 차지해왔다. 5호선 여의도역은 ‘신한금융투자’, 4호선 명동역은 ‘우리금융타운’, 2호선 을지로입구역은 ‘하나은행’으로 병기되고 있다. 최근 2호선 강남역은 ‘하루플란트치과의원’이 역명을 11억 1100만원에 낙찰해 역대 최고가를 기록했다. 5호선 여의나루역은 ‘유진투자증권’이 최종 낙찰됐다.&lt;br&gt;&lt;br&gt;기업과 서울교통공사는 ‘윈윈’이라고 주장한다. 기업 입장에서는 유동 인구가 큰 곳에서 홍보 효과를 얻고, 누적적자가 17조원대에 이르는 교통공사는 수익을 낼 수 있다는 것이다. 올리브영 관계자는 “20·30 소비자들이 주목하는 상권 성수 일대에 준비 중인 대형 매장 개장을 앞두고 입찰에 응모하게 됐다”고 했다. 공사 측은 “애초에 지하철 적자는 시민들에게 저렴한 요금에 서비스를 제공하는 과정에서 발생하고 있는데, 자구 노력의 일환으로 대안을 찾은 것이다”며 “운임인상을 최소화하기 위해, 지하철의 요금을 사수하기 위한 방안이다”고 했다.&lt;br&gt;&lt;br&gt;시민들도 이런 입장을 지지하기도 한다. 직장인 이주형(29)씨는 “지하철은 모든 계층의 발이 되는 중요한 교통수단이고, 특히 ‘취약계층의 발’과 같은 수단인데 요금의 인상률을 조금이라도 줄일 수 있다면 좋은 정책인 것 같다”며 “역명 오른쪽에 괄호를 붙이기 때문에 공공성을 해치거나 혼란을 야기하진 않을 것 같다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IHBZAKWSHJCZ7OZZC2QNF6RI7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7월 12일 오후 6시쯤 서울지하철 2호선 성수역 3번 출구가 붐비고 있다./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;역명을 낙찰하는 기준이 오로지 ‘금액’이기 때문에 공익성이 뒷전이 됐다는 비판도 나온다. 돈 많은 개인 병원들의 ‘자존심 싸움’에 과잉 경쟁이 벌어지는 경우도 있다. 예컨대 5호선 발산역의 경우, 이대서울병원과 SNU서울병원(에스앤유서울병원)이 부역명 표기를 두고 경쟁을 벌였다. SNU서울병원이 3억1000만원을, 이대서울병원이 3억150만원을 써내 SNU서울병원이 경쟁에서 이겼다. 이대서울병원은 “지역 대표성을 입찰금으로 판단할 수 없다”며 반발했다. 지역에서 대학병원으로 인지도가 높음에도 불구하고 70병상 규모인 개인 병원이 역명을 더 높은 금액을 써냈다는 이유로 차지했다는 비판이다.&lt;br&gt;&lt;br&gt;이 때문에 공공재인 지하철인데 사기업 및 개인병원 이름이 병기되는 것이 눈살이 찌푸려진다는 주장도 적잖다. 인도네시아 유학생인 케말(31)씨는 “역명에 사기업명이 표현되니 성수 지역의 고유의 역사와 문화가 퇴색되는 느낌이다”고 했다. 성수역을 자주 찾는다는 직장인 박나현(27)씨는 “기업들이 지하철에 역명 병기하려고 경매처럼 엎치락 뒤치락하는 모양새가 공공재인 지하철이 기업들의 사익에 따라 좌지우지되는 느낌이 든다”며 “성수·올리브영역이라니, 마치 3년짜리 대규모 팝업 스토어 같다는 느낌까지 든다”고 했다.&lt;br&gt;&lt;br&gt;지하철이 공공 자산인 만큼 단순 최고가 입찰 대신 지역의 특성·문화 등을 반영하게 해서 공공성을 지켜야 한다는 지적도 나온다. 김정화 경기대 도시교통공학과 교수는 “’역명’은 굉장히 상징적인 요소인 만큼, 기업에 이름과 안내 방송 하나씩 내어주면 공공 인프라에 대한 위상도 떨어질 수 있다”며 “‘사철’도 아닌 공공 재원이 단지 상업적 차원에서 금융사·개인 병원 여러 곳에 나눠주는 게 좋게 보이지는 않는다”고 지적했다. 고준호 한양대 도시대학원 교수는 “수익 보전을 위해서 어쩔 수 없는 측면이 있더라도, 앞으로 지역 및 공공 기여도 등을 평가해서 역명을 선정하는 기준을 보완해야 한다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“업체 선정 외압 의혹”… 경찰, 원주시상하수도사업소 압수수색</title>
       <link>https://www.chosun.com/national/incident/2024/08/13/UF7VNCHJQVHMZHKEIAMV4ZP6WA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/13/UF7VNCHJQVHMZHKEIAMV4ZP6WA/</guid>
@@ -904,42 +950,6 @@
       <description>경찰이 13일 원주시상하수도사업소를 압수수색했다. 지난달 10일 이후 두 번째 압수수색이다.강원 원주경찰서는 이날 원주시상하수도사업소 하수과와 원주천 좌안 차집관로 개량공사를 담당하는 원청과 하도급 업체 등 3곳을 대상으로 압수수색을 진행했다고 밝혔다.</description>
       <pubDate>Tue, 13 Aug 2024 07:44:03 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ILTINPV6TNAR5HEAFVF7XKQFCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 13일 원주시상하수도사업소를 압수수색했다. 지난달 10일 이후 두 번째 압수수색이다.&lt;br&gt;&lt;br&gt;강원 원주경찰서는 이날 원주시상하수도사업소 하수과와 원주천 좌안 차집관로 개량공사를 담당하는 원청과 하도급 업체 등 3곳을 대상으로 압수수색을 진행했다고 밝혔다.&lt;br&gt;&lt;br&gt;하도급 업체 선정과 관련해 간부의 외압 의혹 등 직권남용 혐의 입증을 위한 강제 수사로 알려졌으며, 오전 9시 30분부터 2시간가량 진행됐다.&lt;br&gt;&lt;br&gt;경찰은 해당 공사와 관련한 입찰 서류 등을 분석한 뒤 관련자를 소환 조사하 방침이다.&lt;br&gt;&lt;br&gt;앞서 강원경찰청 반부패경제범죄수사대는 지난달 10일 해당 공사와 관련해 원주시상하수도사업소를 1차 압수수색한 데 이어 해당 직원을 뇌물수수 혐의로 입건해 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>밀양 성폭행 가해자 폭로 ‘전투토끼’, 공무원 아내 통해 신상 털었다</title>
-      <link>https://www.chosun.com/national/2024/08/13/FLDGUNOWBFDH3HUXCCE2AHHXJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/08/13/FLDGUNOWBFDH3HUXCCE2AHHXJY/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 Aug 2024 05:30:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3L2ONIU54BH5BFHWJ354QHGCGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;밀양 여중생 집단 성폭행 사건 가해자들의 신상을 폭로한 유튜브 채널 '전투토끼'. 경찰은 이 채널 운영자와 공무원인 배우자를 구속했다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20년 전 ‘밀양 집단 성폭행 사건’ 가해자의 신상을 무단으로 공개한 혐의로 구속된 유튜버 ‘전투토끼’에 이어 배우자도 구속됐다. 이 배우자는 공무원 신분으로 가해자 신상을 조회해 남편 ‘전투토끼’에게 제공한 것으로 드러났다.&lt;br&gt;&lt;br&gt;경남경찰청 사이버수사대는 충북 괴산군 소속 A(30대)씨를 지난 12일 구속했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 앞서 밀양 여중생 집단 성폭행 사건의 가해자 신상정보를 유튜브 채널 ‘전투토끼’에서 공개한 혐의로 구속된 B(30대)씨의 배우자다.&lt;br&gt;&lt;br&gt;A씨는 공무원 신분을 이용해 밀양 사건 가해자와 가족, 지인 등 60여명의 주민번호 및 개인정보를 무단으로 조회하고, 이를 사진으로 찍어 남편에게 건넨 혐의(공무상비밀누설 및 개인정보보호법 위반)를 받는다. 실제로 A씨가 제공한 개인정보는 남편의 유튜브 채널인 ‘전투토끼’에 공개된 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 개인정보를 조회할 수 있는 권한이 있었는지, 어떻게 피해자들의 신상정보를 획득했는지 등을 조사하고 있다”면서 “밀양 여중생 성폭행 사건 관련자들 외에는 개인정보를 조회한 것은 없는 것으로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;현재 A씨는 자신의 혐의를 대부분 인정한 것으로 알려졌다. 경찰은 A 씨 사무실을 압수수색해 자료를 분석하고, 여죄를 확인할 계획이다.&lt;br&gt;&lt;br&gt;현재까지 경찰 조사 결과 이들 부부는 올해 초 결혼했고, 큰돈을 벌 목적으로 유튜브를 시작했다고 한다. 올 6~7월 사이 이슈화가 된 밀양 집단 성폭행 사건 관련 콘텐츠를 만든 것으로 확인됐다.&lt;br&gt;&lt;br&gt;남편 B씨는 사건 가해자 일부의 신상을 공개하고, 사과 영상을 자신에게 보내지 않으면 가족의 신상을 공개하겠다며 협박·강요한 혐의로 지난 7일 구속돼 수사를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, 큐텐 재무 담당자 소환...'티메프' 자금 흐름 조사</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/13/BZTNT634E5CHFMA2VSJB73AWIA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/13/BZTNT634E5CHFMA2VSJB73AWIA/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 Aug 2024 05:16:59 +0000</pubDate>
-      <content:encoded>티몬·위메프(티메프) 판매대금 미정산 사태를 수사하는 검찰이 13일 큐텐 그룹 재무 담당자를 소환해 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DQI7DTBN4RNRLNPHT4XVQICWF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;티몬·위메프(티메프) 피해 판매자와 소비자들이 13일 서울 강남구 티몬 사무실 앞에서 검은 우산 집회를 열고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 티몬·위메프 전담수사팀(팀장 이준동 반부패수사1부장)은 이날 이모 큐텐 재무 그룹장을 소환했다. 검찰은 이 그룹장을 상대로 티메프의 판매 대금이 어디에 사용됐는지 등 큐텐 그룹의 전반적인 자금 흐름을 조사할 것으로 보인다.&lt;br&gt;&lt;br&gt;검찰은 앞서 지난 2일 티메프 재무를 총괄한 이시준 큐텐 재무본부장을 소환하는 등 큐텐의 재무 담당자들을 상대로 자금 흐름을 조사 중이다. 지난 9일에는 권도완 티몬 본부장, 황준호 위메프 파트너성장지원팀장 등도 조사했다.&lt;br&gt;&lt;br&gt;한편 구영배 큐텐 대표 측 변호인은 이날 포렌식 참관을 위해 검찰에 출석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이재명, 대장동 오후 재판 불출석…검찰 “정치 일정으로 불출석하면 안 돼” 반발</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/13/R7RJTWDYINCW7NR7YW26AAOIHM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/13/R7RJTWDYINCW7NR7YW26AAOIHM/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 Aug 2024 05:04:37 +0000</pubDate>
-      <content:encoded>이재명 전 더불어민주당 대표가 다가오는 전당대회 당대표 방송토론회 녹화를 이유로 13일 열린 ‘대장동·위례·성남FC·백현동 사건’ 1심 재판에서 오전 일정만 소화하고 일찍 물러났다. 검찰은 “이런 식으로 불출석하는 게 반복되면 안 된다”며 반발했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6P6WHFXMX5L4HK7K6INT6ZSB5E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 전 더불어민주당 대표가 13일 오전 서울 서초구 서울중앙지방법원에서 열리는 ‘대장동·위례·성남FC·백현동 사건’ 1심 공판에 출석하기 위해 법정으로 향하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 김동현)는 이날 이 전 대표의 재판 불출석 신청을 받아들였다. 오전 10시 20분쯤 서울중앙지법에 도착해 재판에 임한 이 전 대표는 이에 따라 오후 재판엔 나오지 않게 됐다.&lt;br&gt;&lt;br&gt;이 전 대표가 오후 재판에 불출석하는 이유는 MBC에서 방영되는 민주당 당대표 후보 방송토론회 녹화 때문이다. 그는 오는 18일 열리는 민주당 전당대회에서 당대표 연임을 위해 전국을 돌며 토론회 등에 참석하고 있다.&lt;br&gt;&lt;br&gt;이에 대해 검찰 측은 “피고인은 (형사) 재판 출석이 원칙인데, 이재명 피고인이 정치 일정을 사유로 불출석하는 일이 반복되어서는 안 된다”고 지적했다. 형사소송에서 피고인은 변호인을 선임했더라도 원칙적으로 직접 본인이 출석하지 않으면 재판이 진행될 수 없다.&lt;br&gt;&lt;br&gt;이 전 대표 측 변호인은 “여러 번이 아니라 계속 출석했고, 공중파 녹화방송이 있어 불가피하게 오후에 한해서 불출석하는 것”이라고 반박했다.&lt;br&gt;&lt;br&gt;재판부는 “양측의 의견을 조서에 기재하겠다”며 “오후는 기일 외 증인신문으로 진행하겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 이 전 대표는 정치 일정 등을 이유로 수차례 ‘대장동 재판’에 불출석해 논란이 됐다. 가장 최근에 불출석한 경우는 지난달 2일로 당시 외교·통일·국방 대정부 질문 참석 차 불출석했다. 이 전 대표는 국회 외교통일위원회 소속이다. 이때도 검찰 측은 “피고인이 임의로 판단해서 (재판에) 출석하고 안 하고 할 수 있는 것이 아니다”라고 했다.&lt;br&gt;&lt;br&gt;이 전 대표는 총선을 앞뒀던 지난 3월 19일엔 재판에 나오지 않고, 강원도에서 진행된 민주당 후보 지원 유세에 참가했다. 같은 달 12일에도 민주당 선거대책위원회 출범식에 참석한다며 이 사건 오전 재판에 불출석했다가 오후에야 법정에 나왔다. 지난해 10월엔 국정감사를 이유로 재판에 출석하지 않았다.&lt;br&gt;&lt;br&gt;이 사건 관련해 이 전 대표는 성남시장 시절 대장동 개발로 민간업자에게 특혜를 주고 성남도시개발공사에는 4895억원의 손해를 입힌 배임 혐의 및 위례신도시 개발 정보를 남욱 등 민간업자에게 넘긴 혐의 등으로 작년 3월 기소됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대구 은행서 지점장에게 흉기 휘두른 80대 여성 체포</title>
-      <link>https://www.chosun.com/national/incident/2024/08/13/ACZRUAHX6RDZ5ACR2P6YZIAPAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/13/ACZRUAHX6RDZ5ACR2P6YZIAPAI/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 Aug 2024 04:55:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4GH3BW2I2U7YI3HTYINWECAZOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구 남부경찰서 전경/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구의 한 은행에서 80대 여성이 지점장에게 흉기를 휘둘러 체포됐다.&lt;br&gt;&lt;br&gt;대구 남부경찰서는 특수상해 혐의로 A씨를 현행범 체포했다고 13일 밝혔다. A씨는 이날 오전 9시 15분쯤 대구 남구의 한 은행에서 50대 남성인 지점장 B씨가 지점장실에서 나오는 것을 보고 접근해 흉기를 휘두른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;B씨는 얼굴 부분에 상처를 입었고 병원으로 이송됐으나 생명에는 지장이 없는 것으로 파악됐다. A씨의 범행을 목격한 은행 직원이 경찰에 신고했고, 경찰이 현장에서 A씨를 현행범으로 체포했다. A씨는 정신 질환을 갖고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 어떤 동기로 이 같은 범행을 저질렀는지 여부 등을 면밀히 수사할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>조직적 전세사기·보이스피싱에 무기징역… 양형 강화 추진</title>
