@@ -13,6 +13,59 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>김진태  “1948년 건국 부인하면 대한민국 정체성 훼손하는 것”</title>
+      <link>https://www.chosun.com/national/regional/2024/08/15/C5ATSU3GVFGKJBDH7VDR7ALJUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/15/C5ATSU3GVFGKJBDH7VDR7ALJUA/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>강원도 광복절 기념식에서 김진태 강원지사의 1948년 건국 발언과 관련해 광복회원들이 항의하며 퇴장하는 사태가 발생했다.강원도는 15일 오전 10시 강원대 백령아트센터에서 ‘제79년 광복절 경축식’을 개최했다.</description>
+      <pubDate>Thu, 15 Aug 2024 04:49:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C5NU2LSSL5OMXKVT2KZ4TSR3SM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 강원대 백령아트센터에서 열린 제79주년 광복절 경축 행사에서 김진태 강원지사가 경축사를 하고 있다. /연합뉴스
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도 광복절 기념식에서 김진태 강원지사의 1948년 건국 발언과 관련해 광복회원들이 항의하며 퇴장하는 사태가 발생했다.&lt;br&gt;&lt;br&gt;강원도는 15일 오전 10시 강원대 백령아트센터에서 ‘제79년 광복절 경축식’을 개최했다. 이날 행사엔 김진태 강원지사와 김시성 강원도의회 의장, 신경호 강원도교육감, 김문덕 광복회 강원도지부장, 보훈단체 회원 100여명이 참석했다.&lt;br&gt;&lt;br&gt;김문덕 광복회 강원도지부장은 이날 기념식에서 “건국절 제정 시도는 여러 번 있었으나 그때마다 전 국민의 저항에 부딪혀 실패했다”면서 “우리나라가 1948년 건국했다면 이는 반헌법적이고 일제의 강점을 합법화시키려는 핑계”라며 이종찬 광복회장의 기념사를 대독했다.-&lt;br&gt;&lt;br&gt;그러자 김진태 강원지사는 경축사를 통해 이를 정면 반박했다.&lt;br&gt;&lt;br&gt;김 지사는 “어떤 분들은 3.1 독립선언과 임시정부 수립이 이뤄진 1919년에 대한민국이 건국됐다고 주장한다”면서 “국가는 국민·주권·영토가 있어야 하지만 1919년에 건국이 됐다고 하면 나라가 이미 있기 때문에 독립운동도 필요 없고 광복 자체도 부정하는 자기모순에 빠지게 된다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “우리는 1948년에 자유민주주의 헌법에 입각한 공화국을 선포했다”면서 “이렇듯 1948년 건국은 일부에서 주장하듯이 반헌법적이고 일제강점기를 합법화하는 것이 결코 아니다”고 했다.&lt;br&gt;&lt;br&gt;이어 “(이들은)궤변으로 1948년 건국을 극구 부인하면서 대한민국의 정체성을 훼손하고 있다. ‘대한민국은 태어나지 말았어야 할 나라’라는 자학적 역사인식에서 비롯된 것이라고 생각한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;한편 김 지사의 발언에 김문덕 광복회 강원도지부장은 강하게 항의했고, 광복회원들과 함께 행사 도중 자리를 떠났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광주·전남 폭염특보 27일째 …온열질환자 339명·가축 피해 24억원</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/15/3JAVL6ZF2JFUTPY3T2BS6RX6YQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/15/3JAVL6ZF2JFUTPY3T2BS6RX6YQ/</guid>
+      <dc:creator>광주광역시=진창일 기자, 무안=조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 04:37:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UANRVBZ6PJI3TFBEUOK6ZAWTIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 나주시 세지면 한 오리 농가에서 오리가 물을 마시며 목을 축이고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주·전남지역에서 한 달 가까이 계속된 폭염으로 온열질환자와 가축 피해가 이어지고 있다.&lt;br&gt;&lt;br&gt;15일 광주지방기상청에 따르면 이날 광주광역시와 전남 22개 시·군(여수 거문도·초도 제외)에 폭염경보가 발령됐다. 이날 오전까지 광주·전남권 주요지점 최고체감온도는 완도 35.4도, 옥도(신안) 35도, 화순능주 34.6도, 강진군 34도, 담양 34도, 광주 32.1도를 기록했다.&lt;br&gt;&lt;br&gt;광주·전남지역은 지난달 20일부터 27일째 폭염특보가 이어지고 있다. 지난 6월 11일 폭염특보가 처음 발효된 뒤 지난 14일까지 전남지역19개 시·군에서 닭 15만1691마리 폐사, 오리 1만1521마리 폐사, 돼지 5619마리 폐사 등 16만8000마리 상당의 가축 폭염피해가 발생했다.&lt;br&gt;&lt;br&gt;고수온으로 인해 넙치와 우럭 등 양식장 어류 29만1000여 마리도 폐사했다.&lt;br&gt;&lt;br&gt;전남도는 폭염으로 축산농가는 약 23억7000만원, 양식장은 5억3000만원 상당의 재산피해가 발생한 것으로 추정하고 있다. 전남도 관계자는 “최악의 폭염피해가 발생한 지난 2018년에 비교하면 추세상 규모가 덜한 편이다”고 설명했다.&lt;br&gt;&lt;br&gt;지난 5월20일부터 전날까지 누적 온열질환자는 광주 52명, 전남 287명 등 총 339명 등으로 파악됐다. 지난 13일에는 전남 장성군의 한 중학교 급식실에서 에어컨 설치 작업을 하던 아르바이트생 A(28)씨가 온열질환 증상을 호소하고 쓰러진 뒤 병원치료를 받다 숨졌다. 질병관리청은 A씨를 올해 전남에서 발생한 두 번째 온열질환 사망사례로 분류했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KKTPOV4TVRPTFO5E3UOKK5ECZA.jpg?width=2734&amp;height=1852&amp;auth=5fd0c6ba1a3d601b403f7ef2206f3cbe3356deb53ba80233d29713ff44e55faf&amp;smart=true" type="image/jpeg" height="1852" width="2734">
+        <media:description type="plain">[나주=뉴시스] 김혜인 기자 = 20일째 폭염특보가 이어지고 있는 8일 오전 전남 나주시 세지면 한 오리 농가에서 오리가 물을 마시며 목을 축이고 있다. 2024.08.08. hyein0342@newsis.com</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>WHO, 엠폭스 확산에 ‘국제적 공중보건 비상사태’ 선언</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/08/15/LRDW6J6G2NES5DLPGVUMPBWT5Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/15/LRDW6J6G2NES5DLPGVUMPBWT5Y/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 04:48:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OEP4WLSOIAFJ5C6H4Q4PERM6QY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천국제공항 제1여객터미널 출국장 전광판에 엠폭스(원숭이두창 감염병) 주의 안내문이 나오고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세계보건기구(WHO)가 아프리카를 중심으로 확산 중인 엠폭스(MPOX·옛 명칭 원숭이두창)에 대해 ‘국제적 공중보건 비상사태’를 선언했다. WHO는 지난 2022년 엠폭스가 전세계적으로 확산하자 그해 7월 국제적 공중보건 비상사태를 선언했다가, 지난해 5월 해제했다. 이후 1년 3개월만에 재차 비상사태를 선언한 것이다. &lt;br&gt;&lt;br&gt;테워드로스 아드하놈 거브러여수스 WHO 사무총장은 14일 전문가들로 구성된 국제 보건규약 긴급위원회 논의 결과를 받아들여 엠폭스에 대한 국제적 공중보건 비상사태를 선언한다고 밝혔다. 국제적 공중보건 비상사태는 WHO가 내릴 수 있는 최고 수준의 공중 보건 경계 선언이다. 이 사태가 선언되면 WHO는 질병 억제를 위한 연구와 자금 지원, 국제적 보건 조치 등을 추진할 수 있다.&lt;br&gt;&lt;br&gt;긴급위원회는 아프리카를 중심으로 엠폭스의 확산이 빠른 데다 발병국의 의료 역량이 상대적으로 취약한 점 등을 종합적으로 고려해 강도 높은 대응이 필요하다는 데 의견을 모은 것으로 보인다. 테워드로스 사무총장은 “엠폭스 확산은 모두가 우려해야 할 문제”라며 “아프리카를 넘어 전세계로 확산할 가능성이 매우 걱정된다”고 했다.&lt;br&gt;&lt;br&gt;엠폭스는 아프리카를 중심으로 확산세를 보이고 있다. 가장 확산세가 빠른 곳은 콩고민주공화국으로, 올해에만 확진 1만4479명, 사망 455명 등이 나왔다. 아프리카 질병통제예방센터에 따르면 아프리카 대륙 55개국 가운데 최소 16개국에서 엠폭스가 발병했다.&lt;br&gt;&lt;br&gt;엠폭스는 앞서 감염된 사람이나 동물, 오염된 물질에 접촉한 경우 감염될 수 있다. 감염 초기에는 발열, 오한, 근육통, 호흡기 증상을 보이다가, 1~3일 후에 발진이 나타난다. 대부분 경미한 증상을 보이지만, 심한 경우 사망할 수도 있다. 국내에서는 2022년 6월부터 지난달 31일까지 총 165명의 환자가 발생했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“남자 좋아할 줄 알아야” 유명 한국 무용가, 동성 제자 성추행 혐의</title>
+      <link>https://www.chosun.com/national/incident/2024/08/15/SMJ5TM64NZDJPGILXM33LIFLNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/15/SMJ5TM64NZDJPGILXM33LIFLNY/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 04:10:43 +0000</pubDate>
+      <content:encoded>자신의 동성 제자를 “진정한 남자 무용수가 되려면 남자에게 호감을 느껴봐야 한다”며 1년 가까이 성추행 한 혐의를 받는 한국 무용가 겸 한복 디자이너가 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RB2PT5YA6S3XEY42DBLGLDZQQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지검 전경 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울동부지검은 살풀이춤의 대가이자 여러 드라마에 한복을 협찬해 온 디자이너 이모씨를 지난 12일 아동·청소년의 성보호에 관한 법률 위반 혐의로 기소했다고 밝혔다. 이씨는 2022년부터 1년 가까이 개인 레슨을 맡았던 고등학생 제자 A군을 성추행 한 혐의를 받는다. 이씨는 각종 협회에서 이사직을 지내며 한복과 국악을 알리는 활동을 해왔다.&lt;br&gt;&lt;br&gt;A씨는 검찰 진술 과정에서 “이씨가 마사지를 해준다는 핑계로 본인의 속옷 안으로 손을 넣는 유사 성행위를 서슴없이 했다”고 진술했다. 또 이씨는 “너 OO를 보고 싶어” “요즘 네 바지에서 나는 냄새가 좋다” 같은 내용의 음란 메시지를 수시로 보내며 A군의 중요 부위 사진을 찍어 보내라고도 했다. 당시 A군은 스승 이씨의 기분을 망치는 것 자체를 하면 안 되겠다는 감정을 느꼈다고 했다.&lt;br&gt;&lt;br&gt;이씨는 A군에게 “남자 무용수로서 살아남으려면 양성적인 성향이 있어야 한다. 남자를 좋아할 줄 알아야하고 마음 자체가 깊어야 한다”고 말했다고 한다.&lt;br&gt;&lt;br&gt;그러나 입시가 끝난 뒤 A군이 여자 친구를 사귄 사실을 이씨가 알게 되면서 관계가 틀어졌다. A군은 우울감에 심리상담을 받다가, 1년이 지나서야 이씨를 형사 고소했다.&lt;br&gt;&lt;br&gt;한편, A군의 이같은 주장에 이씨는 “강요는 없었다”고 주장했다. 이씨는 향후 열릴 재판에서 모든 걸 밝히겠다는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HMOPU7AUERNHIKFD47IR4D2PWU.jpg?width=5610&amp;height=3324&amp;auth=9af7cb5a8d7cdde3988750db6f502559048b812deab344ec385e72ef4ec5e7d2&amp;smart=true" type="image/jpeg" height="3324" width="5610">
+        <media:description type="plain">서울동부지검 2019.5.19/뉴스1 ⓒ News1 이재명 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 이재명 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>올해 고1, 수능은 2026년 11월19일</title>
+      <link>https://www.chosun.com/national/education/2024/08/15/B36LQXIDIRH4VNNVZTYACTQ7WA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/08/15/B36LQXIDIRH4VNNVZTYACTQ7WA/</guid>
+      <dc:creator>김경은 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 04:23:25 +0000</pubDate>
+      <content:encoded>현재 고교 1학년인 수험생들이 치를 2027학년도 대학수학능력시험(이하 수능)은 오는 2026년 11월 19일 시행된다.&lt;br&gt;&lt;br&gt;교육부는 15일 2027학년도 수능의 시행일과 성적 통지일, 시험 영역 등 주요 내용을 발표했다. 새 대입개편안이 적용되기 전에 국어·수학 영역에 공통과목과 더불어 선택과목(택1)이 들어가는 현행 수능 체제가 마지막으로 치러지는 수능이다. 성적은 같은 해 12월 11일 통지된다.&lt;br&gt;&lt;br&gt;수험생들은 국어 영역과 수학 영역에서 공통과목(출제비율 75%)과 선택과목(출제비율 25%)을 함께 치른다. 사회·과학탐구 영역은 문·이과 구분 없이 17개 과목 중에서 최대 2개 과목을 골라 응시하면 된다. 이는 지난 2022학년도 시험부터 도입돼 계속 이어져온 수능 체제로, 올해 고3이 치르는 2025학년도 수능과도 내용이 같다.&lt;br&gt;&lt;br&gt;현재 중3이 대학에 가는 2028학년도부터는 문·이과 구분 없이 모든 학생들이 같은 수능 시험을 친다. 수학에서도 어려운 ‘심화 수학’을 개설하지 않기로 했다. 고교 내신 등급도 현행 9등급에서 5등급으로 완화한다. 교육에서 과도한 경쟁을 줄이겠다는 취지다. 지난해 12월 교육부는 이같은 내용을 담은 고등교육법 ‘2028학년도 대입 개편안’을 확정해 발표한 바 있다. 탐구 영역도 선택과목 없이 공통사회·공통과학을 모두 봐야 하는 방식으로 바뀐다. 제2외국어/한문 영역을 제외한 모든 영역에 공통과목 체제가 도입되는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>교도소 ‘인터넷 편지’ 없어진 지 10개월...“변호인만이라도 쓰게 해달라”</title>
       <link>https://www.chosun.com/national/court_law/2024/08/15/QCBFJP6BUVGMHOG7PE4F6KYGNE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/15/QCBFJP6BUVGMHOG7PE4F6KYGNE/</guid>
@@ -871,33 +924,6 @@
       </media:content>
     </item>
     <item>
-      <title>[단독]대형 건설사 시공 ‘강동센트럴시티‘ 현장서 감전사...고용부 “중대재해법 적용 검토”</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/14/TNHHHEEN4ZHDXKGYUVH6ZHSI4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/14/TNHHHEEN4ZHDXKGYUVH6ZHSI4I/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Aug 2024 00:36:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IL3HCVBPITCSLUI2MRTJ7PHFAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세종시 고용노동부 청사. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강동구의 한 아파트 건설 현장에서 30대 인부가 감전돼 숨진 사건에 고용노동부가 중대재해법 적용을 검토 중이라고 14일 밝혔다.&lt;br&gt;&lt;br&gt;고용부 관계자는 “시공사가 대형건설사라 중대재해법 적용 대상이라 이를 적용할 것을 검토 중”이라며 “조사관들이 사고 당일 현장에 출동해 안전 관리 상황을 조사했고, 법 위반 여부도 수사에 착수했다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면 지난 12일 오후 5시 30분쯤 강동구 천호동의 ‘더샵 강동센트럴시티’ 아파트 건설 현장 34층 분전함 앞에서 콘크리트 타설 작업을 맡은 30대 남성 김모씨가 쓰러져 있다는 신고가 접수됐다. 김씨는 심폐소생술(CPR)을 받으며 서울아산병원으로 이송됐으나 결국 사망했다.&lt;br&gt;&lt;br&gt;김씨가 작업 중에 사망한 이 아파트는 한 대형 건설사가 강동구 천호4구역 도시환경 정비사업을 통해 짓고 있다. 경찰 폐쇄회로(CC)TV 영상과 감식 결과를 토대로 감전사로 보고 있으며 공사 현장의 안전 감독이 제대로 이뤄졌는지 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>여성질환 환자에 수술 전후  사진 요구한 심평원, 의사협회가 고발</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/14/23MZXN3QEJENFOVSASX2PGMSR4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/14/23MZXN3QEJENFOVSASX2PGMSR4/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 Aug 2024 23:52:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/65G77KYGQBIGBICINHT7FZVVKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산구 대한의사협회. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한의사협회(이하 의협)는 여성질환 환자의 주요부위 사진 제출을 요구한 건강보험심사평가원(이하 심평원) 직원들을 경찰에 고발했다고 밝혔다. 심평원 측은 “진료비 과다책정 여부를 심사하기 위해 자료를 요청한 것일 뿐”이라는 입장이다.&lt;br&gt;&lt;br&gt;13일 의협은 서울 강남구 소재 A 산부인과 의원 원장에게 여성질환 환자 주요부위 사진 제출을 요구한 심평원 서울본부 직원들을 직권남용권리행사방해 및 강요 혐의로 경찰에 고발했다고 밝혔다.&lt;br&gt;&lt;br&gt;A 의원 측에 따르면, 심평원 서울본부 측은 지난 7월 외음부 양성종양 제거술을 받은 여성 환자들의 수술 전 조직검사결과지 등을 요구하면서 그 중 수술 전후 사진(이하 환부 사진)까지 제출하도록 요구했다.&lt;br&gt;&lt;br&gt;의협은 “환부 사진의 경우 환자들에게 민감한 개인정보로서 피해자가 환부 사진을 제출할 경우 의료법 위반으로 형사처벌까지 받게 될 수 있으므로 환부 사진 제출 요구는 위법 부당한 행위에 해당한다”며 “심평원 소속 직원들인 피고발인들은 일반적 직무권한에 속하는 사항에 관하여 그 권한을 위법·부당하게 행사했다”고 주장했다.&lt;br&gt;&lt;br&gt;형법 제123조는 공무원이 직권을 남용하여 사람으로 하여금 의무 없는 일을 하게 하거나 사람의 권리행사를 방해한 때에는 5년 이하의 징역, 10년 이하의 자격정지 또는 1000만 원 이하의 벌금에 처하도록 규정하고 있고, 형법 제324조 제1항은 폭행 또는 협박으로 사람의 권리행사를 방해하거나 의무 없는 일을 하게 한 자는 5년 이하의 징역 또는 3000만 원 이하의 벌금에 처하도록 규정하고 있다.&lt;br&gt;&lt;br&gt;또한 의료법 제21조 제2항에 따르면 의료인은 환자가 아닌 다른 사람에게 환자에 관한 기록을 열람하게 하거나 그 사본을 내주는 등 내용을 확인할 수 있게 하여서는 아니 되고, 이를 위반할 경우 3년 이하의 징역이나 3000만 원 이하의 벌금에 처하게 된다.&lt;br&gt;&lt;br&gt;의협은 “환자의 동의 없이 민감한 신체 부위의 사진을 요청하는 심평원의 무차별적이고 무리한 조사는 명백한 월권행위에 해당한다”며 “과도한 심사자료 제출을 강요하는 등 심평원의 부당한 소명 요구 행위는 결국 산부인과 등 필수의료 진료의 위축으로 이어질 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;그러면서 “앞으로 관련 사례 파악과 근본적인 대책 마련을 통해 신속히 대처하는 등 유사한 문제로 인해 발생하는 불이익을 미연에 방지하겠다”며 “어려운 환경 속에서도 의업을 이어 나가는 회원들이 진료에만 집중할 수 있는 환경을 만들어 나갈 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천 무의도 해수욕장서 60대 여성 숨진 채 발견</title>
-      <link>https://www.chosun.com/national/incident/2024/08/14/OGAZF5HS7RHUNBH2MAOHUNG3EY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/14/OGAZF5HS7RHUNBH2MAOHUNG3EY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Aug 2024 00:33:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3XD6OEZRZSP4K6HZLCYBCSCVUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 무의도 해수욕장에서 60대로 추정되는 여성이 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;14일 인천소방본부 등에 따르면 전날 오후 4시 57분쯤 인천 중구 무의도 하나개해수욕장 해변 갯벌에 사람이 쓰러져있다는 신고가 119에 접수됐다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방 당국은 심정지 상태에 있는 60대 추정 여성 A씨를 구조해 인근 병원으로 옮겼으나 A씨는 끝내 숨졌다.&lt;br&gt;&lt;br&gt;소방 당국의 공동 대응 요청을 받은 해경은 사망한 여성의 신원을 파악하는 한편, 정확한 사고 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>﻿강남역 이름에 11억원 쓴 치과…자우림 김윤아 “남편은 페이닥터”</title>
       <link>https://www.chosun.com/national/national_general/2024/08/14/T6XPF6VRSNE2ZGVEZVSZ2BJSHY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/14/T6XPF6VRSNE2ZGVEZVSZ2BJSHY/</guid>
@@ -916,15 +942,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EJ5FTHH6CRWKSXRJUTNWAXXCO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 깃발. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2022년 5월 검찰에 ‘A사 대표가 거액의 현금을 음료수 박스에 담는 것을 목격했다’는 제보 한 통이 접수됐다. 현금을 음료수로 가장한 ‘검은 돈’이 의심되는 상황. 하지만 이 밖에 뚜렷한 단서가 없어 수사 진행이 쉽지 않자, 검사는 법원으로부터 통신 영장을 발부받았다. A사 대표의 전화 수∙발신 내역을 확인해 누구와 언제 통화했는지 파악하기 위해서다.&lt;br&gt;&lt;br&gt;그러나 통신사로부터 회신 받은 통신사실 확인자료에는 A사 대표와 통화했던 100여 건의 번호만 나열돼있었다. 수사 검사는 해당 번호 가입자의 이름과 주소 등 간단한 내용을 확인하기 위해 ‘통신이용자정보 조회(통신 조회)’를 실시했다. 그 결과 범행이 의심되는 날짜 전후로 A사가 납품하고 있는 공기업 사무실 번호로 전화한 기록이 나타났다. 이에 검찰은 범위를 좁혀 수사를 진행한 결과 A사 대표가 해당 공기업을 상대로 납품 청탁 명목의 뇌물을 건넸다는 사실을 밝혀냈고, 추가 수사를 진행해 비리 관련자 수십명 구속에 성공했다.&lt;br&gt;&lt;br&gt;영장으로 확보한 통화 내역을 바탕으로 연락을 주고받은 상대방의 이름과 주소 등을 확인하는 검찰의 ‘통신 조회’를 두고 야권에서 ‘사찰 논란’을 제기하고 있지만, 법조계에서는 일선 수사 현장과 괴리된 주장이라는 지적이 나온다. 검찰과 경찰의 통신 조회는 정치적 사건에만 쓰이는 것이 아니라, A사 사례같이 각종 부패∙강력 사건의 기초 수사에 활용되고 있다. 한 법조인은 “수사 과정에서 통신 조회를 임의로 제한한다면 대형 비리나 마약 범죄를 밝혀내는 데 제동이 걸릴 수밖에 없다”고 14일 말했다.&lt;br&gt;&lt;br&gt;◇ 檢 “공범 파악에 필수”&lt;br&gt;&lt;br&gt;수사기관이 통신 영장으로 확보할 수 있는 자료는 전화 상대방의 번호와 시점, 통화 시간 정도뿐이다. 번호가 누구의 것인지 확인하는 절차가 최근 이슈가 된 통신 조회다. 통신 조회는 법원의 영장 발부 없이 통신사에 공문을 보내면 확보할 수 있다.&lt;br&gt;&lt;br&gt;통신 조회는 수사 초기 혐의자나 공범을 신속하게 특정하는 과정에서 활용된다. 예컨대 마약 수사 시 경찰이 말단 판매상을 붙잡아 통화 내역을 확보했다면, 통신 조회를 통해 판매상이 연락한 유통책과 총책, 구매자의 신원을 파악하는 것이 필수적이다. 범죄가 벌어진 기간이 길수록 통화 내역도 많아져 통신 조회로 신속하게 공범을 추려내야 한다.&lt;br&gt;&lt;br&gt;만약 수사기관이 영장으로 통화 내역을 확보하고도 통신 조회를 할 수 없게 된다면, 해당 연락처로 수사관이 일일이 전화해 신원을 확인해야 하는 상황이 벌어질 수도 있다. 한 검찰 관계자는 “초기 대응이 중요한 강도, 보이스피싱, 성폭력 등 사건에서 일일이 영장을 받아 통화 대상자의 신원을 확인하게 되면 범인 검거의 적기를 놓칠 수밖에 없다”며 “범죄 피해 확산을 제때 막지 못하는 부작용은 고스란히 국민들에게 돌아가게 된다”고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PGEGZAODY5KRTDOBVO4XGEOAY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8일 서울 종로구 참여연대에서 열린 '언론인 사찰 규탄 및 통신이용자정보 무단 수집 근절 방안' 기자회견. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;◇ 헌재∙국회 모두 “영장 불필요”&lt;br&gt;&lt;br&gt;헌법재판소는 2022년 7월 통신 조회의 위헌성 문제를 검토하면서 법원의 영장이 불필요하다고 판단했다. 당시 헌재는 “통신 자료 제공 요청은 강제력이 개입되지 않은 임의 수사에 해당한다”며 “수사기관의 통신 자료 취득에는 영장주의가 적용되지 않는다”고 명백히 밝혔다. 검찰과 경찰이 통신사에서 받는 이용자 정보에는 성명, 연락처, 주민등록번호, 주소 등 피의자를 특정하기 위한 최소한의 기초정보에 한정되고 민감한 정보는 포함돼있지 않다는 이유다. 다만 헌재는 통신 조회 시 사후 통지 절차가 필요하다며 헌법불합치 결정을 내렸다.&lt;br&gt;&lt;br&gt;이에 따라 21대 국회에서는 통신 조회를 규제하는 전기통신사업법 개정이 논의됐다. 이때에도 통신 조회에 대한 법원 영장제도가 검토됐지만, 수사 공백 우려를 염려해 도입하지는 않았다고 한다. 가입자 정보를 조회한 뒤 사후에 통지하는 방식으로 법이 개정됐다. 최근 민주당은 기초적인 통신 정보도 수사기관이 법원의 허가를 받아야만 조회가 가능하도록 하는 법안을 발의했다.&lt;br&gt;&lt;br&gt;◇ 통신 조회, 10년 전보다 1/3 감소&lt;br&gt;&lt;br&gt;현행법은 수사기관이 통신 정보를 제공받은 후 30일 이내 조회 내용‧사용 목적 등을 통지하도록 규정한다. 즉, 통신 조회 후 일정 기간이 지나면 반드시 조회 사실을 통지해야 한다는 거다. 한 부장검사는 “추후 통지할 것을 알고 연락처를 조회한 건데 사찰 논란이 웬말”이라고 했다.&lt;br&gt;&lt;br&gt;수사기관의 통신 조회 건수도 최근 10여 년간 줄어드는 추세다. 과학기술정보통신부에 따르면, 검찰과 경찰, 국정원 등에 의한 통신 조회는 2014년 1296만여 건 이뤄졌으나, 작년 463만여 건으로 급감했다. 같은 기간 검찰의 통신 조회는 426만여건에서 약 148만건으로 줄었다. 약 3분의 1로 감소한 셈이다. 반면 문재인 정부 때는 수사기관에서 매해 500만~600만여 건씩 통신 조회가 이뤄졌다. 대검 관계자는 “특정 시점에 정치적인 목적으로 통신 조회를 한 것은 아니다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>농막 대안으로 나온 쉼터...주말 농부들 “12년 후 철거? 누가 짓겠나”</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/14/IQGWD5LW4VCFTETINYEHQLY2FY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/14/IQGWD5LW4VCFTETINYEHQLY2FY/</guid>
-      <dc:creator>이준우 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 Aug 2024 15:45:00 +0000</pubDate>
-      <content:encoded>“12년 지나면 무조건 철거해야 하는데 누가 수천만 원 이상 들여서 농촌에 쉼터를 짓겠습니까.”&lt;br&gt;&lt;br&gt;농막(農幕)에서 숙박을 금지하는 규제를 도입하려다가 철회한 정부가 농막의 대안으로 올해 말부터 도입하기로 한 ‘농촌 체류형 쉼터’를 두고 주말농장족(族)과 예비 귀농인을 중심으로 비판의 목소리가 커지고 있다. ‘12년 사용 후 철거’라는 사용 기간 규정이 전형적인 탁상행정이라는 지적이다. 농촌 체류형 쉼터는 도시민이 소유한 농지에 컨테이너나 목조로 설치하는 임시 숙소로, 여러 규제가 따랐던 농막과 달리 숙식이 가능하다. 야외 덱(deck)과 주차장 같은 부대시설도 설치할 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A3QY3OIKM5G7LO55SYTMCWGTVU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;회원 수가 54만명에 달하는 네이버 귀농·귀촌 온라인 커뮤니티에는 지난 1일 농림축산식품부가 농촌 체류형 쉼터 도입을 발표한 이후 열흘 넘게 ‘12년 뒤 철거’ 규정을 비판하는 게시물이 수십 개 올라오고 있다. “모처럼 정부가 제대로 일하는가 했는데, 역시나 아니었다”, “12년 후 없앨 거면 그냥 농막 쓸란다” “내 재산을 왜 정부가 철거시키나” 같은 내용이 대부분이다. 귀농·귀촌 관련 각종 유튜브 채널들도 “12년 사용 기한을 없애달라고 정부에 민원을 넣어달라”는 콘텐츠를 앞다퉈 올리고 있다. 유튜브 영상마다 “남의 재산을 물로 보나” “자동차도 12년 넘게 타는데 집 지어서 12년만 쓰고 고물상에 넘기라는 소리” 같은 댓글이 달리고 있다.&lt;br&gt;&lt;br&gt;정부가 지난 2월 농막을 대체하는 쉼터 도입 계획을 처음 발표했을 때만 해도 기존 농막 이용자를 비롯해 전원 생활에 대한 ‘로망’을 가진 예비 귀농인 사이에서 큰 기대를 받았다. 그러나 “기본 3년 이후 3년씩 최대 3회 연장 이후엔 철거 및 원상 복구해야 한다”는 정부 방침이 발표되자 실망과 원성의 목소리가 높다. 상업용 부동산 전문 중개업체 아리지파트너스 김동호 이사는 “쉼터 설치 비용만 최소 3000만~5000만원 정도 필요하고, 땅 구입비와 부대 비용은 별도”라며 “요즘에는 20~30년 유지될 정도로 좋은 자재를 쓰는 가건물도 많은데, 무조건 12년 이후 강제적으로 철거하라는 것은 무리한 요구”라고 말했다.&lt;br&gt;&lt;br&gt;정부는 최장 12년 사용 방침을 바꾸기 어렵다는 입장이다. 농촌 체류형 쉼터가 정식 주택이 아닌 건축법상 ‘가설건축물’이기 때문에 안전상 문제가 발생할 수 있다는 것이다. 현행 건축법과 시행령은 ‘임시 숙소 등 가설건축물은 3년 이내의 존치 기간을 두고 필요한 경우 3년 단위로 연장할 수 있다’고 정하고 있다.&lt;br&gt;&lt;br&gt;쉼터 사용 기간을 최장 12년으로 정한 근거는 무엇일까. 정부는 조달청이 정한 컨테이너 주택의 내용연수(자산의 효용이 유지되는 기간)가 8년이라는 점, 대다수 지자체가 소규모 공동주택 안전 점검을 준공 15년 후 실시하는 점을 고려해 ‘12년 사용 기한’을 정했다는 설명이다. 농림축산식품부 관계자는 “농촌 체험형 쉼터는 주거 시설에 해당하기 때문에 거주자의 안전이 가장 중요하다”며 “올해 초부터 국토교통부와 의견을 나눈 결과 12년이면 합당하다고 본 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;정부는 농촌 체류형 쉼터가 귀농·귀촌의 ‘징검다리’ 역할로 도입한 것이라는 취지도 강조하고 있다. 12년이 지났을 때도 농촌 생활을 더 이어가고 싶다면 쉼터가 아니라 정식으로 농촌에 집을 마련하는 등 제대로 된 생활 기반을 갖추도록 유도하겠다는 것이다. 또 농촌 체류형 쉼터는 주택 수에 포함되지 않아 부동산 보유세 미부과 등 세제 혜택을 받기 때문에, 사용 기한이 없다면 주택·별장용으로 오용될 수 있다는 점도 이유로 들고 있다. 국토부 관계자는 “가설건축물은 어디까지나 임시용이어서 3년이 지나면 철거하는 게 원칙”이라며 “농식품부가 관리를 철저히 한다는 전제로 12년까지 동의를 한 것”이라고 말했다.&lt;br&gt;&lt;br&gt;전문가들은 소멸 위기에 놓인 농촌 현실을 감안하면 보다 혁신적인 규제 완화가 필요하다고 지적한다. 고종완 한국자산관리연구원장은 “초고령화, 인구 급감 등 여러 어려움에 놓인 농촌을 살리기 위해선 귀촌·귀농에 대한 확실한 유인 동기가 필요하다”며 “쉼터 사용 기한을 일률적으로 정할 게 아니라 구체적 안전 기준을 마련해 이에 맞는 건물일 경우 더 오래 사용할 수 있게 해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 버스 급출발에 80대 숨져… 스톱 없는 ‘난폭 운전 비극’</title>
       <link>https://www.chosun.com/national/national_general/2024/08/14/6MQNYXHNKFGDVNGWJTWP663ECM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/14/6MQNYXHNKFGDVNGWJTWP663ECM/</guid>
@@ -935,15 +952,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/NS6WWOSRURF4FFQ3H43O6WL35A.jpg?width=960&amp;height=808&amp;auth=04611002c849123401d60f2aaab57d0c178bdfeed0e3f22f4072e9790465a44f&amp;smart=true" type="image/jpeg" height="808" width="960">
         <media:description type="plain">지난 12일 오전 서울 영등포구에서 버스에서 내리던 80대 여성이 숨지는 사고가 발생했다. 당시 버스 기사는 승객이 내리는 중인데도 문을 연 채 버스를 급출발했고, 완전히 내리지 못한 승객은 계단에서 추락해 뒷바퀴에 치여 숨진 것으로 파악됐다. 사진은 지난 3월 서울 시내의 한 버스 공영 차고지의 모습. /연합뉴스</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>1219명 광복절 특사… 조윤선·현기환·안종범·원세훈 복권</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/14/5UMCGCL26ZE45CJUEDSAFEZJVU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/14/5UMCGCL26ZE45CJUEDSAFEZJVU/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 Aug 2024 15:55:00 +0000</pubDate>
-      <content:encoded>법무부는 13일 정치인과 전직 공직자, 경제인, 중소기업인, 소상공인 등이 포함된 광복절 특별사면 대상 1219명을 발표했다. 윤석열 정부 출범 후 다섯 번째 특사다.&lt;br&gt;&lt;br&gt;이번 사면·복권 대상은 전직 공직자 및 정치인 55명을 비롯해 경제인 15명, 특별 배려 수형자 11명, 중소기업인·소상공인·청년·운전업 종사자 등 일반 형사범 1138명 등 총 1219명이다. 사면·복권 효력은 오는 15일 발생한다.&lt;br&gt;&lt;br&gt;이번 광복절 특사에는 박근혜 대통령 시절 청와대 수석들이 상당수 포함됐다. 정무수석을 지낸 조윤선 전 문화체육관광부 장관은 박근혜 정부 시절 보수 성향 단체를 불법 지원한 ‘화이트리스트’ 사건으로 2022년 2월 징역 10개월에 집행유예 2년이 확정됐고, 그해 12월 사면·복권됐다. 그러나 이후 문화계 ‘블랙리스트’ 사건으로 올 초 다시 징역 1년 2개월이 확정돼 수사·재판을 받으며 형기를 모두 채웠고, 이번엔 복권만 됐다.&lt;br&gt;&lt;br&gt;부산의 주상복합단지 ‘엘시티’ 시행사 실소유주인 이영복씨로부터 뇌물을 수수한 혐의 등으로 징역 3년 6개월을 확정받은 현기환 전 청와대 정무수석, 대기업에 거액의 미르재단·K스포츠재단 출연금을 압박한 혐의로 징역형을 선고받은 뒤 만기 출소한 안종범 전 정책조정수석도 복권됐다.&lt;br&gt;&lt;br&gt;공직자 중에는 ‘국정원 댓글 조작’ 사건 등으로 징역 14년 2개월이 확정됐던 원세훈 전 국가정보원장이 사면·복권된다. 그는 작년 8월 잔여 형기를 2년 10개월 남긴 상황에서 가석방으로 출소했다. 2016년 20대 총선 때 특정 정파를 위해 선거 정보를 수집하고 대책을 수립한 혐의로 유죄가 확정된 강신명 전 경찰청장과 이철성 전 경찰청장도 복권된다. 2010~2012년 경찰 조직을 동원해 천안함 사건 등 현안에 대해 정부에 우호적인 글을 쓰게 한 혐의로 징역 1년 6개월을 확정받은 조현오 전 경찰청장도 형기를 다 채워 복권 대상에 올랐다.&lt;br&gt;&lt;br&gt;정치인은 원유철 전 의원, 신학용 전 의원, 권오을 전 의원 등이 복권 대상에 올랐고, 경제인은 이동채 전 에코프로그룹 대표가 사면을 받게 됐다.&lt;br&gt;&lt;br&gt;이와 함께 법무부는 여객·화물 운송업, 생계형 어업, 운전면허 등 행정 제재 대상자 41만7260명에 대해 특별감면 조치를 실시하고, 모범수 1135명을 8월 14일 자로 가석방하기로 했다. 법무부 관계자는 “전직 주요 공직자와 여야 정치인을 사면해 사회적 갈등을 극복하고, 민생 안정 지원을 위해 중소기업인·소상공인, 운전업 종사자 및 청년들을 적극 사면했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>전세 사기·보이스피싱 최대 무기징역형 선고</title>
