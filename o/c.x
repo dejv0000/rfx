@@ -13,6 +13,73 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>교도소 ‘인터넷 편지’ 없어진 지 10개월...“변호인만이라도 쓰게 해달라”</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/15/QCBFJP6BUVGMHOG7PE4F6KYGNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/15/QCBFJP6BUVGMHOG7PE4F6KYGNE/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 03:07:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3Q5D7UPL5NPHXNIOSPAS4MCLV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 구로구 남부교도소. 사진은 기사와 관련 없음. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 서초동에서 일하는 한 변호사는 지난달 서울 남부교도소에 갔다. 형사 사건으로 1심에서 법정 구속돼 창원 교도소에 있는 의뢰인의 변호인으로 선임된 후 첫 화상 접견을 하기 위함이었다. 무료 서비스이지만, 변호인들은 화상 접견을 하려면 직접 인근 교도소로 가야 된다. 그곳에서 다른 교도소 수감자 등과 화상으로 연결해준다. 이 변호사는 “선임 사실, 피해자와의 합의 진행 상황 등에 대해 예전 같았으면 간단히 인터넷 편지로 쓰면 됐다”면서 “이 서비스가 없어진 이후 화상 접견을 자주하고 있다. 유료 편지 서비스를 쓸 바엔 의뢰인들과 화상으로라도 ‘대면’하는 성의를 보이기 위한 것”이라고 했다.&lt;br&gt;&lt;br&gt;15일 본지 취재를 종합하면 법무부 교정본부가 2005년 도입한 수용자 인터넷 편지 서비스를 작년 10월 전면 중단한 이후 변호사들 사이에선 “변호인들이라도 이를 쓰게 해달라”는 볼멘소리가 나오고 있다. 이들은 사정상 변론권과 방어권에 지장이 생긴다고도 한다. 법무부는 인터넷 편지 대신 기능이 유사한 우정사업본부의 ‘e-그린우편’을 이용할 수 있도록 개편해 문제가 되지 않는다는 입장이다.&lt;br&gt;&lt;br&gt;인터넷 편지는 수용자의 가족이나 변호인 등 외부인이 인터넷을 이용해 편지를 보낼 수 있는 무료서비스였다. A4용지 한 장 이내로 한 명당 하루에 하나씩 쓸 수 있었다. 오전에 쓰면 보통 그날 밤 수용자가 볼 수 있고, 오후에 쓰면 그 다음날 보는 방식이었다고 한다.&lt;br&gt;&lt;br&gt;하지만 지금은 유료인 우정사업본부의 e-그린우편 시스템으로 대체됐다. e-그린우편의 비용은 소형 봉투 1~6매 흑백 기준 일반 통상 520~690원, 일반 등기 2620~2790원(이상 신청한 다음날부터 7일 이내 배달), 익일특급 3620~3790원(12시 이전 신청 시 다음날 배달) 수준이다. 수용자 가족이나 변호인 입장에선 무료로 이르면 당일 만에 소식을 전할 수 있었던 과거와 달리 이제는 빠른 소식 전달을 위해선 3000원이 넘는 값을 지불해야 하는 상황이 된 셈이다. 비용은 차치하더라도 접견 등이 어려워 ‘긴급성’을 최우선으로 둔다면 오히려 불편해졌다는 얘기가 나오는 이유다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QFBBJJJ5MHYMIJOQSENZYCGLSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 교도소 내부 모습. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 현재 화상 접견 등 다양한 형태의 접견 시스템이 도입됐고, 전화사용 횟수도 확대돼 수용자의 외부 접견교통권이 크게 향상돼 문제가 없다는 입장이다. 아울러 최근 수용자 심부름업체가 크게 증가해 이러한 업체를 통한 불법적인 영업형태가 지속돼 서비스를 없앤 영향도 있다고 한다. 이들 업체는 그동안 인터넷 편지가 무료였던 점을 악용해 유해간행물 수준의 음란소설 연재, 스포츠 토토 베팅, 주식 거래 대행, 수용자 간 펜팔 주선 및 부정연락 대행 등을 해왔다고 한다.&lt;br&gt;&lt;br&gt;서울지방변호사회는 최근 이와 관련된 공문을 법무부로 보냈다. 하지만 법무부 측은 ‘인터넷 편지는 민원인의 접견 불편을 해소하기 위해 도입된 것으로 인터넷 편지와 변호인 조력권은 직접적인 관련이 없다’는 입장을 밝혔다. 수용 질서 유지를 위한 불가피한 조치였다는 사실도 덧붙였다. 그러면서 필요한 경우에는 ‘변호인 전용 기관 메일’을 별도 운영하는 방안을 향후 검토할 수 있다고 답변했다.&lt;br&gt;&lt;br&gt;새로운미래를위한청년변호사모임의 김지연 변호사는 “인터넷 편지 서비스가 없어지며 개인의 자기 방어권 행사에 제한이 발생하고 있는 것은 사실”이라며 “이를 의도한 것이 아니라면 다시 (제도를) 부활시키는 것이 맞는다”고 했다. 한 변호사는 “애초에 이런 서비스가 없었다면 모르지만, 시행했다가 없애니 불편한 것은 사실”이라며 “변호사가 음란물 등 이상한 내용을 편지를 통해 전할 일은 없을 테니 변호사들만이라도 쓰게 인터넷 편지 서비스가 부활했으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>번호판 가리고, 음주운전하고...광복절 폭주족 단속에 65명 검거</title>
+      <link>https://www.chosun.com/national/incident/2024/08/15/6X6P43NN4ZH6ZND2H45KVE37OY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/15/6X6P43NN4ZH6ZND2H45KVE37OY/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 02:31:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MF2E3YTETAERONDIDPDKNBKLNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구경찰청은 15일 광복절 심야에 도심 도로에서 오토바이를 타고 난폭운전을 한 혐의(도로교통법 위반 등)로 65명을 적발했다고 밝혔다./대구경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광복절을 맞아 무리를 지어다니며 오토바이를 운행하거나 위협 운전을 한 폭주족 등 65명이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;대구경찰청은 도로교통법 위반 등 혐의로 20대 남성 A씨 등 65명을 검거했다고 15일 밝혔다. A씨 등은 전날 오후 11시부터 이날 오전 6시까지 대구 달서구 유천네거리, 본리네거리, 죽전네거리 및 동구 큰고개오거리 등지에서 단체로 폭주 행위를 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰 제지에도 불구하고 신호 위반, 중앙선 침범, 안전모를 쓰지 않은 이들이 47명, 음주운전 10명, 무면허 운전 3명, 불법으로 튜닝하거나 번호판을 가린 3명, 의무 보험에 가입하지 않고 차량을 운행한 1명, 오토바이로 난폭 운전을 한 10대 남성 1명도 체포됐다.&lt;br&gt;&lt;br&gt;앞서 대구경찰청은 이달 1일부터 14일까지 이륜차 사전 집중 단속을 실시해 도로교통법 위반으로 904건을 단속했다. 특히 광복절 폭주가 예상된 14일엔 주요 폭주족 집결 예상지 12곳에 암행순찰팀과 기동대 등 337명, 순찰차와 경찰 오토바이 89대를 배치해 폭주족들의 집결을 막고 해산 조치했다.&lt;br&gt;&lt;br&gt;경찰은 채증 영상을 바탕으로 폭주 행위 주범과 참가자들을 모두 검거할 계획이다.&lt;br&gt;&lt;br&gt;대구경찰청 관계자는 “올해 단속에선 일부 오토바이가 무리를 짓긴 했으나 도로를 점거하는 행위는 보이지 않았고, 폭주 참여 숫자도 줄어든 분위기”라면서도 “앞으로도 교통 안전을 위협하는 폭주 행위를 엄정 처벌할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“아버지와 연락 안된다”… 동해서 실종된 80대 관광객 숨진 채 발견</title>
+      <link>https://www.chosun.com/national/incident/2024/08/15/6AKGJOOBGNDHTF6NNSLMPA4EFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/15/6AKGJOOBGNDHTF6NNSLMPA4EFE/</guid>
+      <dc:creator>동해=정성원 기자</dc:creator>
+      <description>지난 14일 강원 동해시 묵호동 앞 바다에서 실종됐던 80대 남성이 실종 하루만에 숨진 채 발견됐다.15일 강원소방본부에 따르면 이날 오전 7시 1분쯤 강원 동해시 묵호동 수변공원 앞 테트라포트 사이에서 A(84)씨가 숨진 채 발견됐다.</description>
+      <pubDate>Thu, 15 Aug 2024 02:52:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LP4VMQXKHFCBVNP5BLYG2OXAFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해경과 소방 대원이 강원 동해시 묵호동 수변공원 앞 테트라포트에서 실종자 수색작업을 벌이고 있다./강원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 14일 강원 동해시 묵호동 앞 바다에서 실종됐던 80대 남성이 실종 하루만에 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;15일 강원소방본부에 따르면 이날 오전 7시 1분쯤 강원 동해시 묵호동 수변공원 앞 테트라포트 사이에서 A(84)씨가 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;A씨의 아들은 하루 전인 14일 오후 3시 47분쯤 “아버지가 연락이 안된다”며 경찰에 신고했다.&lt;br&gt;&lt;br&gt;경찰은 방범카메라(CCTV)를 통해 해랑전망대 앞 해상에서 바다에 빠진 A씨를 확인했으며 소방당국 등과 함께 수색 작업을 벌여왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광복회 행사서 “타도 윤석열”까지 나왔다...두쪽 난 광복절 기념식</title>
+      <link>https://www.chosun.com/politics/diplomacy-defense/2024/08/15/G4KF46WOMFHXXBNQ67TLD64UA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/diplomacy-defense/2024/08/15/G4KF46WOMFHXXBNQ67TLD64UA4/</guid>
+      <dc:creator>강우석 기자, 양지호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 02:16:51 +0000</pubDate>
+      <content:encoded>“대통령직에서 물러나십시오”(김갑년 광복회독립영웅아카데미 단장)&lt;br&gt;&lt;br&gt;“타도 윤석열”(청중)&lt;br&gt;&lt;br&gt;광복회는 15일 정부 공식 광복절 경축식에 참석하지 않고 자체 광복절 기념식을 서울 용산 효창공원 백범기념관에서 진행했다. 이날 이종찬 광복회장의 기념사에 이어 축사를 하러 올라온 김갑년 교수(광복회 독립영웅아카데미 단장)는 “친일 편향의 국정기조를 내려놓고, 국민을 위해 옳은 길을 선택하라”며 “그럴 생각이 없다면 대통령 직에서 물러나십시오”라고 말했다. 김 교수는 “누가 이진숙(방통위원장)을 누가 김낙년(한국학중앙연구원장)을 임명했냐. 대통령은 건국절 논란이 먹고 살기 힘든 국민에게 무슨 도움이 되냐고 했는데 똑같이 되묻겠다. 누가 건국절 논란을 야기시켰냐. 대통령직에서 물러나십시오”라고 말했다. 약 500명에 달하는 청중은 “타도 윤석열”을 외치며 호응했다. 광복을 기리는 기념식 본연의 의미 대신 정치 집회로 성격이 변질됐다는 지적이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JBY6JU2A35OMLDU4AAOMAWKOVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제79주년 8·15 광복절인 15일 오전 서울 용산구 효창공원 내 백범김구기념관에서 열린 광복회 주최 광복절 기념식에 이종찬 광복회장이 참석하고 있다. 뒤는 오른쪽부터 더불어민주당 박찬대 대표 직무대행 겸 원내대표, 기본소득당 용혜인 대표, 조국혁신당 조국 대표, 사회민주당 한창민 대표. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이종찬 광복회장은 이날 기념사에서 “진실에 대한 왜곡과 친일사관에 물든 저열한 역사인식이 판치며 우리사회를 혼란에 빠트리고 있다”며 “망령처럼 되살아나는 친일사관을 뿌리 뽑아야한다”고 했다. 보수·진보 가리지 않고 역대 정부에서 두루 요직을 지낸 이 회장은 이날 기념사 말미에서 “이승만 대통령 시대부터 현재 윤석열 대통령 시대까지 그리 멀지 않은 위치에서 역사를 보며 진리를 터득했다”며 “긴 역사 속에서 역사는 권력의 편이 아니라 정의의 편이었다. 절대 역사를 배반하지 않겠다”고 했다. 현 정부를 비판하는 메시지로 해석된다.&lt;br&gt;&lt;br&gt;광복회는 이날 행사 시작 1시간 30분전쯤 긴급 보도자료를 내고 “정당·정치권 인사는 참석이 불가능하다”고 재차 밝혔다. 하지만 이날 본 행사에는 야권 정치인이 대거 참석했고 광복회는 이들을 ‘내빈’이라며 소개했다. 더불어민주당 박찬대 원내대표, 박홍근·김용만 의원, 조국 조국혁신당 대표, 용혜인 의원이 소개됐다.&lt;br&gt;&lt;br&gt;광복회 관계자는 “독립운동가 후손을 제외하면 정치인 모두 서서 행사에 참여했다”고 했다. 하지만 박 원내대표, 조국·용혜인 대표, 황운하 의원 등이 맨 앞 줄 자리에 앉아있었다.&lt;br&gt;&lt;br&gt;광복회 등 일부 독립운동단체는 김형석 신임 독립기념관장 임명이 ‘친일 뉴라이트 인사’라면서 정부가 주최하는 광복절 경축식 불참을 선언한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>회삿돈 9000여만원 빼돌려 생활비·도박에 쓴 30대 실형</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/08/15/S3FLADDIH5GDJL2FYHBEZ5PZOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/08/15/S3FLADDIH5GDJL2FYHBEZ5PZOU/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 01:58:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;회삿돈 9000여만원을 빼돌려 생활비와 도박에 쓴 30대 직원에게 법원이 실형을 선고했다.&lt;br&gt;&lt;br&gt;청주지법 형사5단독 정우혁 부장판사는 업무상 횡령, 업무상 배임 혐의로 기소된 A(38)씨에게 징역 1년6개월을 선고했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;계란 도·소매업체에서 근무하던 A씨는 지난 2021년 6월부터 6개월 동안 169차례에 걸쳐 계란 판매대금 9148만원을 가로챈 혐의를 받는다.&lt;br&gt;&lt;br&gt;거래처 관리 업무 담당자인 A씨는 거래 대금을 현금으로 받거나 자신의 계좌로 송금 받는 방식으로 돈을 빼돌렸다. 또 환불된 물건을 재입고하지 않고 다른 거래처에 처분해 돈을 챙긴 것으로 확인됐다.&lt;br&gt;&lt;br&gt;A씨는 이렇게 가로챈 회삿돈을 생활비와 도박 등에 썼다.&lt;br&gt;&lt;br&gt;이와 함께 A씨는 계란을 회사 동의 없이 거래처에 할인 판매해 회사에 1235만원 상당의 손해를 입혔다.&lt;br&gt;&lt;br&gt;정 부장판사는 “계획적으로 범행을 저질렀고 회사에 입힌 피해를 회복하려는 노력도 하지 않았다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg?width=4000&amp;height=3000&amp;auth=68aed86746a6db3af8e2948e35fa4d6f37ee538f49fb8eababd4390dbf8dc491&amp;smart=true" type="image/jpeg" height="3000" width="4000">
+        <media:description type="plain">청주지법 전경. /신정훈 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">신정훈 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>십리포해수욕장 찾은 70대 피서객…물에 빠져 숨져</title>
+      <link>https://www.chosun.com/national/incident/2024/08/15/U6NJXVBGBBD3TCDY7XFNHDV6WA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/15/U6NJXVBGBBD3TCDY7XFNHDV6WA/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 01:46:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GHR7RZVZ2OJCQ6SO5OGB4JYCA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급대./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 영흥도 십리포해수욕장에서 70대 여성이 물에 빠져 숨졌다.&lt;br&gt;&lt;br&gt;15일 인천소방본부 등에 따르면 전날 오후 1시 17분쯤 인천 옹진군 영흥면 십리포해수욕장에서 “70대 여성 A씨가 바다에 빠졌다”는 신고가 119에 접수됐다.&lt;br&gt;&lt;br&gt;A씨는 신고를 받고 출동한 119구급대에 의해 심폐소생술(CPR) 등 응급조치를 받으면서 인근 병원으로 옮겨졌으나 끝내 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 가족과 함께 물놀이를 하기 위해 해수욕장을 찾았다가 사고를 당한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;해양경찰은 목격자 등을 상대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“따폭연 형님들 따라잡자”…칼치기 회원 모은 조직, 광복절 폭주 예고</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/15/2P3YKCHLZNADXDCOTWCCXEFVEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/15/2P3YKCHLZNADXDCOTWCCXEFVEU/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 14 Aug 2024 23:30:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U52QJS7TQFPRJHLOX6D6NKIRRQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울시 공공자전거 ‘따릉이’를 타고 난폭 운전을 일삼는 이른바 ‘따릉이 폭주 연맹(따폭연)’이 서울 시내 집결을 예고한 지난 4일 경찰이 성동구 성수역 일대에서 단속을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공유 자전거와 공유 전동킥보드 등을 이용한 폭주족 이른바 ‘따폭연(따릉이 폭주 연합)’의 운영자가 검거된 가운데, 이를 모방한 조직이 광복절 단체 폭주를 예고했다.&lt;br&gt;&lt;br&gt;15일 퍼스널 모빌리티(PM) 공유 서비스 플랫폼 지쿠에 따르면 최근 소셜미디어(SNS)에 따폭연 모방 조직인 ‘지폭연(지쿠터 폭주 연합)’ 계정이 생겨났다. 이들은 지난 9일 “따폭연 형님들 따라잡겠다”며 회원 모집에 나섰다.&lt;br&gt;&lt;br&gt;계정 운영자는 회원 모집 게시글을 통해 9일 오후 12시37분 기준 회원 17명이 있다고 밝혔다.&lt;br&gt;&lt;br&gt;가입 조건으로는 ‘칼치기(차로를 급히 변경해 추월하는 행위)’ 가능과 ‘와리가리(지그재그로 주행하는 행위)’ 가능 등을 내걸었다. 또 회원 나이는 상관 없으며 개인 소유 오토바이나 킥보드, 자전거도 이용 가능하다고 했다.&lt;br&gt;&lt;br&gt;운영자는 모집글에 “경찰한테만 잡히지 말라. 잡혀도 책임 안 진다”며 “대열 맞춰 빠릿빠릿하게 움직이고 미리 알려준 루트 외워서 그대로 따라가라”고 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYRWQUEFVZDUTL7EWVOETXY27I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지쿠터 폭주 연합(지폭연) 대구 계정에 올라온 광복절 폭주 예고./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들은 별도의 ‘지폭연 대구’ 계정을 통해 제79주년 광복절인 이날 새벽 대구 일대에서 전동 킥보드를 이용한 폭주 집회를 예고하기도 했다. 이들이 올린 인스타그램 스토리에는 “8/15가 다가온다. 대구 ○○에서 ㅍㅈ(폭주) 해보자”는 내용이 담겼다.&lt;br&gt;&lt;br&gt;이에 지쿠 운영사인 지바이크는 특별대응팀을 운영하기로 했다. 지바이크 특별대응팀은 따폭연 모방 조직이 SNS를 통해 활동을 예고한 대구시, 포항시 등과 기존에 따폭연이 활동했던 서울시 주요 운영지역을 중심으로 활동하게 된다.&lt;br&gt;&lt;br&gt;이들 지역에서 단체 폭주 신고나 경찰 특별 요청이 들어오는 경우, 기술적인 조치를 통해 해당 지역 기기 운행이 즉각 중지되도록 할 예정이다. 또 폭주가 전국적으로 발생할 것을 대비해 우려 지역이 아니더라도 이상 징후가 발생하면 운행 중지 조치에 나선다.&lt;br&gt;&lt;br&gt;윤종수 지바이크 대표는 “최근 시민 불안을 야기하는 따폭연 등 움직임을 예의주시 중”이라며 “시민들에 위협을 주는 행동에 엄정히 대응하고 경찰에 적극 협조해 폭주족 활동을 뿌리뽑을 수 있도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SVXK5DGR4FDPTMBLZFE6KIWDQY.png"&gt;&lt;figcaption&gt;&lt;small&gt;따릉이폭주연맹 측이 서울 시내 폭주 집회를 예고한 4일 오후 따폭연은 모이지 않았고, 경찰만 수백 명이 배치됐다. 사진은 따폭연 회원들이 보행자 사이를 아슬아슬하게 지나가는 모습을 찍어 소셜미디어에 올린 영상. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들이 모방한 ‘따폭연’은 자전거·킥보드 등을 이용해 서울 도심권에서 폭주행위 관련 모임을 계획하고, 실제 보도 통행 등 보행자들의 안전과 통행을 위협하는 폭주행위 영상을 SNS에 게시했다.&lt;br&gt;&lt;br&gt;시민들 신고가 잇따르자 서울경찰청 교통안전과는 단속에 나섰고, 8일 ‘따폭연’ 운영자를 검거했다고 밝혔다. 해당 계정 운영자는 고등학교 재학 중인 남학생으로 확인됐다.&lt;br&gt;&lt;br&gt;이후 ‘따폭연’ 계정에서는 폭주 관련 게시글이 모두 삭제됐고 사과문이 올라왔다. 사과문에는 “옳지 않은 행동들로 인해 피해 보신 시민과 경찰관에게 사과드리며 좋은 방향이 아닌 게시물을 보여 불편함을 느끼게 한 것에 송구하고 죄송하다”며 “다시는 이런 짓을 하지 않을 것이며 벌을 받겠다. 이 행동들은 절대 정당화될 수 없으며 이것에 대한 엄청난 대가를 치러야 할 것”이라는 내용이 담겼다.&lt;br&gt;&lt;br&gt;서울경찰청 관계자는 “해당 학생이 아직 미성년자이지만, 따폭연 관련 뉴스가 언론에 집중 보도되며 지난 주말 대규모 경찰력이 동원되고, 사회적 불안과 우려에 대한 신고가 급증함에 따라 형법상 특수협박죄 등 법률 적용에 대해 다각도로 검토 중”이라며 “특히 광복절을 앞두고 폭주족들의 난폭·폭주운전 등 각종 불법행위에 대비해 단속 및 수사역량을 집중하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“특수학교 자리 있나요” 엄마는 3년째 전화 돌리고 있다</title>
       <link>https://www.chosun.com/national/education/2024/08/15/UJ3WWHC53NGA5IJ7Q3FLD4QXAA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/08/15/UJ3WWHC53NGA5IJ7Q3FLD4QXAA/</guid>
@@ -831,24 +898,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3XD6OEZRZSP4K6HZLCYBCSCVUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 무의도 해수욕장에서 60대로 추정되는 여성이 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;14일 인천소방본부 등에 따르면 전날 오후 4시 57분쯤 인천 중구 무의도 하나개해수욕장 해변 갯벌에 사람이 쓰러져있다는 신고가 119에 접수됐다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방 당국은 심정지 상태에 있는 60대 추정 여성 A씨를 구조해 인근 병원으로 옮겼으나 A씨는 끝내 숨졌다.&lt;br&gt;&lt;br&gt;소방 당국의 공동 대응 요청을 받은 해경은 사망한 여성의 신원을 파악하는 한편, 정확한 사고 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>온열 질환자 2400명 넘겨...가축 76만, 양식 94만마리 폐사 </title>
-      <link>https://www.chosun.com/national/national_general/2024/08/14/W7FO7UYHGREHJNXJYMJO2VIC2E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/14/W7FO7UYHGREHJNXJYMJO2VIC2E/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 Aug 2024 23:27:41 +0000</pubDate>
-      <content:encoded>폭염이 계속되면서 전국 온열 질환자가 2400명을 넘겼다. 가축과 양식 어류 폐사도 계속해 증가 중이다.&lt;br&gt;&lt;br&gt;14일 행정안전부 중앙재난안전대책본부에 따르면 전국 온열 질환자는 2407명으로 집계됐다. 작년 같은 기간엔 2168명이었는데, 이보다 239명 많은 것이다. 사망자는 21명이다.&lt;br&gt;&lt;br&gt;폭염이 계속되면서 폭염일수도 연일 늘고 있다. 12일 기준 전국 평균 폭염일수는 15.4일로, 2023년 11.7일에 비해 3.7일 길다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJKOKLQWK5VW7SBY62QKYPMRYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭염경보가 발효된 12일 광주 남구 노대동 물빛근린공원 쿨링포그 밑에서 아이들이 더위를 식히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무더위로 폐사하는 가축 수도 연일 늘고 있다. 전국에서 돼지 4만8000마리와 가금류 71만5000마리가 폐사해 총 76만3000마리가 죽었다. &lt;br&gt;&lt;br&gt;양식 어가에선 조피볼락 56만6000마리, 강도다리 21만2000마리, 넙치 등 17만1000마리가 폐사하는 피해를 입었다. 총 94만9000마리다.&lt;br&gt;&lt;br&gt;정부는 지난달 31일부터 중대본 1단계를 가동하고 폭염 위기 경보를 ‘심각’ 단계로 유지하며 폭염에 대응 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>BTS 슈가, 만취 질주하다 홀로 인도서 ‘꽈당’…사고 당시 영상 보니</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/14/BZ7WFDHL6BFBPEW56HCMELOWTI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/14/BZ7WFDHL6BFBPEW56HCMELOWTI/</guid>
-      <dc:creator>김가연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 Aug 2024 21:44:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JTSCWFXZKZDTNKSVCPHJUG3DI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 방탄소년단(BTS) 멤버 슈가(본명 민윤기)가 음주운전 적발 직전 전동스쿠터를 몰고 인도 위를 달리다 넘어지는 모습이 담긴 방범카메라(CCTV) 영상 화면. /연합뉴스TV&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술을 마시고 전동스쿠터를 운전한 혐의로 입건된 그룹 방탄소년단(BTS) 멤버 슈가(31·본명 민윤기)가 음주운전 적발 직전 전동스쿠터를 몰고 인도 위를 달리다 넘어지는 모습이 담긴 방범카메라(CCTV) 영상이 공개됐다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면 슈가는 지난 6일 밤 서울 용산구 한남동 한 도로에서 만취 상태로 전동스쿠터를 몰다 혼자 넘어진 채로 발견됐다. 사고 당시 슈가의 혈중알코올농도는 0.227%로 면허 취소 기준(0.08% 이상)을 훨씬 웃돈 것으로 파악됐다.&lt;br&gt;&lt;br&gt;13일 연합뉴스TV는 당시 슈가의 사고 장면이 담긴 방범카메라 영상을 공개했다. 영상을 보면, 슈가로 추정되는 이가 전동 스쿠터를 탄 채로 인도 위를 달리고 있다. 그는 잠시 뒤 혼자 경계석을 들이받고는 넘어졌다.&lt;br&gt;&lt;br&gt;잠시 뒤 인근을 순찰 중이던 경찰 기동대원들이 슈가를 발견한 뒤 인근 파출소에 지원을 요청했고, 10분도 되지 않아 순찰차가 현장에 도착했다. 경찰은 현장에서 슈가를 상대로 음주 측정을 실시했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3Y6ZW6LG4ZIOQXSEANPKHTSEHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;슈가. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 슈가가 당시 만취 상태여서 조사를 제대로 하지 못한 채 음주 측정만 한 뒤 귀가 조처했으며, 그가 몰았던 전동스쿠터를 따로 압수하지는 않았던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;음주운전 사실이 알려진 직후 슈가와 소속사 빅히트뮤직 측은 입장문을 내고 사과했다. 첫 입장문에서 슈가 측은 ‘전동 킥보드’라는 표현을 썼으나, 실제로 그가 이용했던 것은 전동 킥보드에 의자가 달린 ‘접이식 전동 스쿠터’였던 것으로 확인됐다. 이를 두고 “사안을 축소하려는 의도가 아니냐”는 비판이 제기되자, 소속사 측은 “그런 의도는 전혀 없었다. 보다 면밀하게 살피지 못하고 결과적으로 성급하게 말씀드린 데 대하여 거듭 사과드린다”고 해명했다.&lt;br&gt;&lt;br&gt;경찰은 슈가의 면허 취소를 위한 행정 처분 절차를 밟는 한편, 조만간 그를 소환 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>﻿강남역 이름에 11억원 쓴 치과…자우림 김윤아 “남편은 페이닥터”</title>
       <link>https://www.chosun.com/national/national_general/2024/08/14/T6XPF6VRSNE2ZGVEZVSZ2BJSHY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/14/T6XPF6VRSNE2ZGVEZVSZ2BJSHY/</guid>
@@ -888,15 +937,6 @@
       </media:content>
     </item>
     <item>
-      <title>민희진, 어도어 전 직원 ‘성희롱 은폐 의혹’ 폭로에 18장 반박문 공개</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/13/CFAPLTLOZBEFFLIH6N2MMDOO44/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/13/CFAPLTLOZBEFFLIH6N2MMDOO44/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 Aug 2024 14:56:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UOW65FYGSDD45FYD6JNJIDS46Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민희진 어도어 대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하이브와 경영권 탈취 의혹 등으로 갈등을 빚고 있는 민희진 어도어 대표가 이번엔 퇴사한 부하 직원과 ‘직장 내 성희롱 사건 은폐’ 여부를 두고 공방을 벌이고 있다. 전 직원이 “민 전 대표가 가해자 임원만을 감싸고 돌았다”는 취지의 폭로를 한 데 대해, 민 대표는 18장짜리 입장문을 통해 이를 모두 반박했다.&lt;br&gt;&lt;br&gt;민 대표는 13일 자신의 인스타그램을 통해 공개한 18쪽짜리 입장문에서 어도어 전 직원 B씨가 주장한 직장 내 성희롱 사건 은폐 의혹을 맞받아쳤다.&lt;br&gt;&lt;br&gt;앞서 B씨는 지난 9일 인스타그램에 올린 장문의 글을 통해 “일방적으로 가해자인 A임원만을 감싸고 돌며 욕설과 폭언으로 밑에서 일하는 구성원을 만신창이로 만들어놓은 민희진 대표가 본인은 대표자로서 중립을 지켰다는 등 거짓말을 늘어놓는 것을 참고 넘길 수는 없었다”고 했다.&lt;br&gt;&lt;br&gt;당시 B씨는 민 대표가 임원 A씨의 직장 내 성희롱과 괴롭힘에 대한 신고를 무마하려고 시도했다고 주장했다. B씨는 “민 대표가 신고 당일부터 조사가 끝나고 나서까지 적극적으로 A씨의 혐의없음을 주장했고, 그 과정에서 제게 온갖 모욕을 일삼았다”며 “대표로서 사실관계를 확인하고 문제점을 짚고 넘어가기보단, 제 신고를 무효화하기 위해 저를 ‘일도 못 하면서 징징거리고 민폐만 끼치다가 잘리기 전에 나간 사람’으로 각을 짜서 몰아갔다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 민 대표는 “B씨는 신입사원이 아니라 7년차 직급으로, 기본급은 임원급에 준하는 1억3000(인센티브 별도)으로 이는 어도어 구성원 중 최고 연봉이었다”며 “기대와 달리 일반적인 업무 이메일조차 비문이 많아 부대표나 제가 직접 수정해야 하는 등 단순 업무부터 수많은 문제와 잡음이 발생하며 예상치 못한 실망스러운 일이 자주 벌어졌다”고도 했다.&lt;br&gt;&lt;br&gt;특히 A씨가 문제 삼은 성희롱 신고와 관련해서 민 대표는 “A씨는 B씨의 연봉이나 연차를 생각했을 때 어리다는 개념이 없어 ‘어린 여성’이라는 표현을 절대 한 적이 없다고 했다”며 “서로의 주장이 배치되는 상황”이라고 했다. 그러면서 “B씨는 ‘신고를 무효화 하기 위하여 일 못하는 사람으로 각을 짜고 몰고 간 것’이라고 주장하는데, 저는 평가를 하는 인원에 포함되어 있지 않는다”고 했다. 아울러 “’어린, 여성, 술집, 원치 않는, 혼자 남겨둠’ 등의 자극적 워딩이 강조된 신고 내용과, 누락된 내용을 냉정히 대조해 보았을 때 분명 왜곡된 정보를 다량 내포하고 있었기에 B의 신고 내용을 온전히 믿기 힘든 상황이었다”고 했다.&lt;br&gt;&lt;br&gt;민 대표는 B씨의 폭로가 나온 ‘시점’에 대해 의혹을 제기하기도 했다. 민 대표는 “저는 논란의 당사자가 아님에도 억지로 끌어들여 모든 화살의 방향을 저로 겨누는 점이 상당히 불순하다”며 “하필이면 하이브가 여러 이슈로 언론으로부터 집중 질타받고 있는 시점에 갑자기 B씨가 등장해 본인이 가해자로 지목한 이도 아닌 애써 중재한 저를 억지로 겨냥해 공개 사과를 원하는 것이 몹시 석연찮다”고 했다. 그러면서 “제 이미지를 해하기 위해 어떻게든 없는 꼬투리를 잡아 변조하고, 교묘한 타이밍에 타인까지 끌어들여 대중의 분노를 설계하고 조장하는 이들은 그 비인간적 행위를 당장 멈추라”고 했다.&lt;br&gt;&lt;br&gt;이런 민 대표 반박에 대해 B씨는 같은 날 “민 대표가 입장문을 통해 말하고자 하는 골자는 ‘내가 일을 못했다’ 이건데 상황의 쟁점은 일을 잘했다 못했다가 아니라 사내 성희롱을 은폐했는지 여부”라고 했다. 이어 “(하이브와는 관계 없고) 부당해서 신고했을 뿐”이라며 “저의 입장은 내일 중으로 발표하지 않을까 싶다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>1219명 광복절 특사… 조윤선·현기환·안종범·원세훈 복권</title>
       <link>https://www.chosun.com/national/court_law/2024/08/14/5UMCGCL26ZE45CJUEDSAFEZJVU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/14/5UMCGCL26ZE45CJUEDSAFEZJVU/</guid>
@@ -906,24 +946,6 @@
       <content:encoded>법무부는 13일 정치인과 전직 공직자, 경제인, 중소기업인, 소상공인 등이 포함된 광복절 특별사면 대상 1219명을 발표했다. 윤석열 정부 출범 후 다섯 번째 특사다.&lt;br&gt;&lt;br&gt;이번 사면·복권 대상은 전직 공직자 및 정치인 55명을 비롯해 경제인 15명, 특별 배려 수형자 11명, 중소기업인·소상공인·청년·운전업 종사자 등 일반 형사범 1138명 등 총 1219명이다. 사면·복권 효력은 오는 15일 발생한다.&lt;br&gt;&lt;br&gt;이번 광복절 특사에는 박근혜 대통령 시절 청와대 수석들이 상당수 포함됐다. 정무수석을 지낸 조윤선 전 문화체육관광부 장관은 박근혜 정부 시절 보수 성향 단체를 불법 지원한 ‘화이트리스트’ 사건으로 2022년 2월 징역 10개월에 집행유예 2년이 확정됐고, 그해 12월 사면·복권됐다. 그러나 이후 문화계 ‘블랙리스트’ 사건으로 올 초 다시 징역 1년 2개월이 확정돼 수사·재판을 받으며 형기를 모두 채웠고, 이번엔 복권만 됐다.&lt;br&gt;&lt;br&gt;부산의 주상복합단지 ‘엘시티’ 시행사 실소유주인 이영복씨로부터 뇌물을 수수한 혐의 등으로 징역 3년 6개월을 확정받은 현기환 전 청와대 정무수석, 대기업에 거액의 미르재단·K스포츠재단 출연금을 압박한 혐의로 징역형을 선고받은 뒤 만기 출소한 안종범 전 정책조정수석도 복권됐다.&lt;br&gt;&lt;br&gt;공직자 중에는 ‘국정원 댓글 조작’ 사건 등으로 징역 14년 2개월이 확정됐던 원세훈 전 국가정보원장이 사면·복권된다. 그는 작년 8월 잔여 형기를 2년 10개월 남긴 상황에서 가석방으로 출소했다. 2016년 20대 총선 때 특정 정파를 위해 선거 정보를 수집하고 대책을 수립한 혐의로 유죄가 확정된 강신명 전 경찰청장과 이철성 전 경찰청장도 복권된다. 2010~2012년 경찰 조직을 동원해 천안함 사건 등 현안에 대해 정부에 우호적인 글을 쓰게 한 혐의로 징역 1년 6개월을 확정받은 조현오 전 경찰청장도 형기를 다 채워 복권 대상에 올랐다.&lt;br&gt;&lt;br&gt;정치인은 원유철 전 의원, 신학용 전 의원, 권오을 전 의원 등이 복권 대상에 올랐고, 경제인은 이동채 전 에코프로그룹 대표가 사면을 받게 됐다.&lt;br&gt;&lt;br&gt;이와 함께 법무부는 여객·화물 운송업, 생계형 어업, 운전면허 등 행정 제재 대상자 41만7260명에 대해 특별감면 조치를 실시하고, 모범수 1135명을 8월 14일 자로 가석방하기로 했다. 법무부 관계자는 “전직 주요 공직자와 여야 정치인을 사면해 사회적 갈등을 극복하고, 민생 안정 지원을 위해 중소기업인·소상공인, 운전업 종사자 및 청년들을 적극 사면했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘밀양 가해자 폭로’ 유튜버… 공무원 아내가 신상 넘겨</title>
-      <link>https://www.chosun.com/national/2024/08/14/3MS2W2XTLNDSPGBL3J4NXIGOFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/08/14/3MS2W2XTLNDSPGBL3J4NXIGOFU/</guid>
-      <dc:creator>김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 Aug 2024 15:45:00 +0000</pubDate>
-      <content:encoded>남편인 유튜버 ‘전투토끼’에게 ‘밀양 여중생 집단 성폭행 사건’의 가해자 신상을 무단으로 넘긴 공무원 아내가 구속됐다.&lt;br&gt;&lt;br&gt;경남경찰청 사이버수사대는 충북 한 지방자치단체에서 근무하는 30대 7급 공무원 A씨를 구속했다고 13일 밝혔다. A씨는 밀양 사건의 가해자 개인 정보를 유튜브 채널에 공개한 혐의 등으로 지난 7일 구속된 유튜버 B씨(전투토끼)의 아내다. 공무원 아내가 불법으로 빼돌린 정보를 유튜버 남편이 공개해 부부 모두 구속된 것이다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 밀양 사건 가해자와 가족, 지인 등 60여 명의 주민등록번호와 주소 등 개인 정보를 무단으로 조회하고, 이를 사진으로 찍어 남편에게 넘긴 혐의를 받고 있다. A씨 부부는 올해 초 결혼한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨는 자신이 건네는 정보를 남편이 유튜브 채널에 무단 공개할 것을 알았던 것으로 파악됐다”며 “그에게 개인 정보를 조회할 권한이 있었는지, 어떤 경로로 정보를 빼냈는지 등을 조사하고 있다”고 했다. 경찰은 A씨 사무실도 압수수색했다. A씨는 혐의를 인정한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 A씨의 남편인 B씨는 지난 6월부터 약 두 달간 자신의 유튜브 채널에 2004년 밀양 성폭행 사건 가해자들의 신상을 공개한 혐의로 구속됐다. 그는 이들 중 일부에게 ‘사과 영상을 보내지 않으면 가족의 신상도 공개할 것’이라고 협박·강요한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>숨만 쉬어도 ‘미세 플라스틱’을 마신다니</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/14/NBFSJ2ZM2FF6RGVL4VIXIOMZFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/14/NBFSJ2ZM2FF6RGVL4VIXIOMZFY/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 Aug 2024 15:45:00 +0000</pubDate>
-      <content:encoded>서울 도심 대기에 떠다니는 미세 플라스틱의 절반은 비닐봉지나 포장 용기에 많이 쓰는 ‘폴리에틸렌’인 것으로 나타났다.&lt;br&gt;&lt;br&gt;서울시 보건환경연구원은 작년 9월부터 올해 2월까지 대기 중 미세 플라스틱을 분석한 결과를 13일 발표했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SX5IC3DINVAT5OFBDK6OVFW4PM.jpg"&gt;&lt;br&gt;&lt;br&gt;연구원에 따르면, 가장 많이 검출된 미세 플라스틱은 포장재로 널리 쓰이는 폴리에틸렌(PE)으로 46.6%에 달했다. 컵라면 그릇 성분인 ‘폴리스티렌(PS)’, 페트병 성분인 ‘폴리에틸렌 테레프탈레이트(PET)’가 뒤를 이었다. 폴리프로필렌, 폴리우레탄 등 다른 플라스틱 성분도 나왔다.&lt;br&gt;&lt;br&gt;미세 플라스틱은 지름 1㎛~5㎜ 크기의 작은 플라스틱 입자다. 일회용 플라스틱 용기뿐 아니라 합성섬유로 만든 옷에도 포함돼 있다. 플라스틱을 폐기할 때 잘게 부서진 입자가 대기나 바다 등으로 퍼지는 것으로 알려져 있다. 자연에서 분해되지 않는다. 다량에 노출되면 심혈관 질환, 장폐색 등이 생길 우려가 있다고 한다.&lt;br&gt;&lt;br&gt;연구원은 크기 5㎛ 이상 미세 플라스틱 개수도 측정했다. 그 결과 공기 1㎥당 평균 70.6개의 미세 플라스틱이 떠 다니는 것으로 나타났다. 독일은 평균 91개, 중국은 평균 282개가량이라고 한다. 1년 중엔 12월에 미세 플라스틱 개수가 122개로 가장 많았다.&lt;br&gt;&lt;br&gt;연구원은 서울 양재동 연구원 옥상에 미세 먼지 채취 장치를 설치하고, 한 달에 한 번씩, 맑은 날에 공기를 포집했다. 이후 분광기를 활용해 머리카락의 10분의 1 크기 미세 플라스틱 종류를 분석했다. 앞으로 더 작은 1㎛ 크기 미세 플라스틱도 분석할 계획이다.&lt;br&gt;&lt;br&gt;연구원 관계자는 “일회용품 사용량이 늘어나면 공기 중 미세 플라스틱도 많아질 수밖에 없다”며 “미세 플라스틱 흡입을 줄이기 위해선 일상생활에서 플라스틱 사용을 줄여야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>전세 사기·보이스피싱 최대 무기징역형 선고</title>
       <link>https://www.chosun.com/national/court_law/2024/08/14/GVYNSE6D7VEMJCSAWBCFMQ5DWQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/14/GVYNSE6D7VEMJCSAWBCFMQ5DWQ/</guid>
@@ -931,24 +953,6 @@
       <description/>
       <pubDate>Tue, 13 Aug 2024 15:45:00 +0000</pubDate>
       <content:encoded>조직적으로 이뤄지는 전세 대출 사기나 보이스피싱 등 피해가 큰 ‘사기 범죄’에 대해 대법원이 최대 무기징역까지 선고할 수 있도록 처벌 기준을 강화하기로 했다.&lt;br&gt;&lt;br&gt;대법원 양형위원회는 13일 전날 전체회의를 열고 이 같은 양형 기준 수정안을 심의하고 확정했다. 판사는 형량을 정할 때 양형 기준을 참고하고, 기준을 벗어나 선고하면 그 이유를 판결문에 적도록 돼 있다. 사기 범죄의 양형 기준은 2011년 처음 만들어졌는데, 수정안이 나온 것은 이번이 처음이다. 양형위원회는 이날 “전세 사기나 보이스피싱 등 다수 피해자를 양산하고 사회적 해악이 큰 사기 범죄에 대한 엄벌이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;‘일반 사기’의 양형 기준은 현재 사기 금액이 300억원 이상일 때 최대 13년인데, 이를 17년으로 높이고, 죄질이 무거워 특별 조정을 할 경우 무기징역까지 선고할 수 있게 한다. 특히 ‘조직적 사기’는 사기 금액 50억~300억원이면, 현행 최대 11년에서 17년으로 강화하고 이 역시 특별 조정 시 무기징역 선고가 가능하다. 300억원 이상이면 특별 조정과 상관없이 무기징역까지 선고할 수 있게 된다. 한 법조인은 “미국은 사기범에게 100년, 150년형을 선고하는데, 우리는 너그럽게 처벌해 왔었기 때문에 처벌 강화가 필요한 시점”이라고 지적했다.&lt;br&gt;&lt;br&gt;양형위는 또 지금까지 양형 기준이 따로 없었던 보이스피싱 사기와 보험 사기도 양형 기준을 적용받게 할 계획이다. 보이스피싱의 경우 개정된 통신사기피해환급법에 따라 ‘1년 이상의 징역 또는 범죄 수익의 3~5배 벌금에 처하거나 이를 병과할 수 있다’는 기준을 반영한다. 사기 금액이 50억원을 넘으면 최대 무기징역까지 선고될 수 있다. 보험 사기의 경우, 보험 전문직 종사자가 범행에 가담하면 가중 처벌하기로 했다.&lt;br&gt;&lt;br&gt;양형위는 추가 연구와 심의를 통해 내년 1월 양형 기준안을 의결하고, 공청회를 거쳐 최종 발표한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>천공 영상 제작사 前 직원, 임금 청구 소송서 일부 승소</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/13/63VSHJK5NBFU3FTX73Z46J2UK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/13/63VSHJK5NBFU3FTX73Z46J2UK4/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 Aug 2024 13:03:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W27ZQBJGAJE2NE7RTZLPGIV4B4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜브 채널 '정법시대' 화면. /천공 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;역술인 천공의 영상 등을 만드는 회사에서 일하던 직원이 임금을 달라고 낸 소송에서 일부 승소했다.&lt;br&gt;&lt;br&gt;서울서부지법 민사9단독 최은주 판사는 13일 주식회사 정법시대 직원 A씨가 임금을 달라며 회사를 상대로 제기한 소송에서 1847만원을 지급하라고 판결했다. 재판부는 선고 이유를 밝히지는 않았다.&lt;br&gt;&lt;br&gt;정법시대는 천공의 발언 등을 영상과 책 등으로 제작하는 회사로 천공의 제자로 알려진 신모씨가 대표로 있다.&lt;br&gt;&lt;br&gt;앞서 A씨는 2015년 3월부터 2020년 6월까지 경기 용인의 한 아파트에서 숙식하면서 신씨와 천공의 지시를 받고 일했다. 그는 출판 관련 업무와 영상 편집 업무를 했으나 제대로 임금을 받지 못했다고 주장하면서 지난해 4월 약 3100만원을 청구하는 소송을 제기했다. 이후 시간 외 수당 등을 고려해 소송액을 약 3762만원으로 늘렸다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>하도급 압력 대가로 ’롤렉스·순금 호랑이’ 뇌물 받은 철도공단 前 본부장 재판행</title>
-      <link>https://www.chosun.com/national/regional/2024/08/13/T3HCBTJBYJFUNDUHIAFXQVZSC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/13/T3HCBTJBYJFUNDUHIAFXQVZSC4/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 Aug 2024 08:31:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WFD22AR37UGQRXE3EAPUF2TLHI.png"&gt;&lt;figcaption&gt;&lt;small&gt;대전지방검찰청 청사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가철도공단에서 발주한 전차 선로 공사를 진행하며 특정 업체에게 불법 하도급을 주도록 압력을 행사하고 하도급 업체로부터 뇌물을 받은 전직 국가철도공단 기술본부장과 뇌물을 건넨 하도급 업체 대표들이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대전지검 형사4부(부장검사 김가람)는 13일 전직 국가찰도공단 본부장 겸 상임이사 A(61)씨를 업무방해, 특정 범죄 가중 처벌 등에 관한 법률 위반(뇌물) 혐의로 구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 또 A씨에게 뇌물을 제공한 전차 관련 업체 회장인 B(60)씨와 업체 대표인 C(51)씨 등 2명을 구속 기소하고, 계열사 대표 D(51)씨를 불구속 기소했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2018년부터 2022년까지 3건의 철도 공사를 낙찰받은 회사 대표 3명에게 B씨 등이 운영하는 업체가 시공할 수 있게 하도급을 주라고 요구하고, 이를 거절하면 공사 진행을 방해할 것처럼 위력을 행사한 혐의(업무 방해)를 받고 있다. A씨는 또 2020년 7월 공사 과정에 편의를 제공한 대가로 B씨 등 업체 관계자 3명으로부터 6600만원 상당의 롤렉스 시계 2점을 뇌물로 받고, 이듬해 1월 설 명절 선물 비용 200만원을 B씨와 C씨에게 대납시킨 혐의를 받고 있다. 이어 2022년 3월 A씨는 B씨 등 하청업체 관계자로부터 368만원 상당의 순금 호랑이를 받았고, 지난해 8월 이들로부터 1억8000만원 상당의 외제 승용차를 제공하겠다는 약속을 받은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;B씨 등 업체 관계자 3명은 공모해 A씨에게 뇌물을 주거나 뇌물 공여를 약속한 혐의로 각각 기소됐다.&lt;br&gt;&lt;br&gt;검찰은 “자체 입수한 첩보를 바탕으로 수사해 국가철도공단 고위 간부가 직무상 우월적 지위를 이용해 불법 하도급을 조장한 비리를 확인하고 뇌물 수수 범행을 밝혀냈다”고 말했다.&lt;br&gt;&lt;br&gt;검찰은 국가철도공단과 간담회를 열고 재발 방지 대책을 논의했다. 공단 측은 비리가 적발된 공사 현장에 대한 시공관리 실태 확인 및 안전 점검을 실시하고, 하도급 공사 실태 확인 등 대책을 마련할 방침이다.&lt;br&gt;&lt;br&gt;대전지검 관계자는 “A씨가 뇌물로 받은 고가 시계와 순금 등은 몰수와 추징을 통해 환수할 방침”이라며 “공정한 경쟁 질서를 무너뜨리는 부패 범죄에 대해 엄정 대응하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘빚 갚고, 가상화폐·주식 투자’… 공금 6억원 빼돌린 청주시 6급 공무원</title>
