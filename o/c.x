@@ -13,6 +13,134 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 을지연습 불시 소집에 출석률 99%… 그 뒤에 숨은 비밀</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/16/A7SZPCWD7VBRLN7LZWCPHBHLXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/16/A7SZPCWD7VBRLN7LZWCPHBHLXE/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 20:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZC3PXBZW7ZJ6PMNRV57KVZC65Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 행정안전부 장관이 지난 14일 오전 서울 종로구 정부서울청사에서 2024년 을지연습 비상소집 응소 명부를 작성하고 있다. /행정안전부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘98.7%.’&lt;br&gt;&lt;br&gt;지난 14일 오전 5시 45분에 열린 전국 공무원 비상 소집 훈련의 출석률이다. 갑자기 부르는 이른바 ‘불시 훈련’인데도 출석률이 거의 100%다. 정부에서 미리 “13~14일쯤 소집할 것”이라는 내용의 공문을 보내준 덕이다. ‘사전에 공지된 불시 훈련’에 실효성이 있느냐는 지적이 나온다.&lt;br&gt;&lt;br&gt;15일 인사혁신처가 채현일 더불어민주당 의원에게 제출한 ‘을지연습 비상소집 응소 현황’에 따르면, 지난 14일 전국의 소집 대상 공무원 12만7789명 중 1시간 이내에 출석을 완료한 사람은 12만6079명이었다. 행정안전부 등 정부부처 출석률은 99.5%, 지자체는 98%로 집계됐다. 전국 교육청에선 훈련 대상 5656명 중 4명 빼고 다 1시간 이내에 도착해 출석률이 99.9%에 달한다.&lt;br&gt;&lt;br&gt;정부는 매년 전쟁 등 비상사태에 대비하기 위해 정부 부처·지자체 공무원 등을 대상으로 ‘을지연습’을 진행한다. 불시 소집은 올해 처음이다. 원래 을지연습 기간 첫날 새벽에 훈련을 해왔는데, 올해는 “형식적 훈련 말고 제대로 된 훈련을 하자”며 불시 소집으로 바꿨다.&lt;br&gt;&lt;br&gt;하지만 행안부는 지난 7월 각 부처와 지자체에 “13일 또는 14일에 불시 소집할 예정”이라는 예고 공문을 보낸 것으로 전해졌다. 정확한 일시까지 알려준 것은 아니지만, 공무원들 사이에선 “간부급 일정을 보면 14일 새벽에 부를 것 같다”는 말이 돌았다고 한다. 정부 부처의 한 국장급 인사는 “직원들이 지난 13일 ‘오늘 안 불렀으니 내일(14일) 새벽이 확실하네요’라고 하는데, 할 말이 없더라”고 했다.&lt;br&gt;&lt;br&gt;행안부 관계자는 “100% 비공개로 ‘깜깜이’ 소집을 했다면 공무원 불만이 폭주하지 않았겠느냐”며 “(사전 공지는) 어느 정도 타협한 결과”라고 했다. 채현일 의원은 “보여주기식 훈련이 아니라 진짜로 비상 대응 역량을 강화할 수 있는 훈련 방법을 마련해야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘새벽조’ 출근 길, 졸음운전 사고 뇌출혈… 법원 “출퇴근 재해 맞다”</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/16/7KVEMYJQKNHZPONSV3P62YU3GA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/16/7KVEMYJQKNHZPONSV3P62YU3GA/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 15:55:42 +0000</pubDate>
+      <content:encoded>새벽 근무에 적응하지 못해 출근길 졸음운전 사고로 뇌출혈 진단을 받은 근로자에게 법원이 ‘출퇴근 재해’를 인정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PN2FKJA7XJHIVLOA2K6VUFQYEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울가정법원·서울행정법원 청사. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 법조계에 따르면 서울행정법원 행정11단독 김주완 판사는 경기 파주시 한 회사에서 청소업무를 하던 근로자 A(72)씨가 근로복지공단을 상대로 낸 요양불승인 처분 취소 소송에서 최근 원고 승소로 판결을 내렸다.&lt;br&gt;&lt;br&gt;A씨는 2019년 3월 26일 오전 4시 37분쯤 ‘새벽조’ 출근을 위해 경기 고양시 집에서 파주로 승용차를 몰고 가던 중 깜빡 졸아 중앙선을 넘어 반대편 갓길에 있는 전신주를 들이받았다. 병원으로 옮겨진 A씨는 사고 충격으로 ‘개방창이 없는 대뇌출혈’ ‘기저핵의 뇌내출혈’ 등 진단을 받았다.&lt;br&gt;&lt;br&gt;A씨는 2021년 7월 뇌출혈이 업무상 질병 또는 출퇴근 재해에 해당한다며 근로복지공단에 요양급여신청을 했다. 그러나 공단은 뇌출혈 관련 업무 부담 요인이 높지 않고, A씨가 과거 고혈압·심장질환 등으로 치료받은 사실이 있는 점 등을 종합해 인과 관계를 인정하기 어렵다고 결정했다. 이에 A씨는 작년 2월 소송을 냈다.&lt;br&gt;&lt;br&gt;이에 대해 김 판사는 A씨의 업무와 뇌출혈 사이에 인과 관계가 있다고 봤다. 김 판사는 “불규칙적인 교대제 근무로 새벽조 근무에 미처 적응하지 못한 채 출근하다가 졸음운전 사고가 발생했을 가능성이 높고, 고혈압 등 기저질환에 교통사고로 인한 혈압 상승 등이 겹쳐 뇌출혈이 발생한 것으로 보인다”고 했다. 그러면서 “A씨가 통상적인 경로와 방법으로 출근을 하던 중 발생한 사고로 뇌출혈이 발병했기 때문에, 이는 산업재해보상보험법이 정한 ‘출퇴근 재해’에 해당한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 검찰, 文 전 대통령 부부 계좌 추적</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/16/PNPHAUFRT5GRRGDI7E2QH2C5MA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/16/PNPHAUFRT5GRRGDI7E2QH2C5MA/</guid>
+      <dc:creator>이슬비 기자, 방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 20:03:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WJVI2INKBVNTZEKFRKQYQWFYQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문재인 전 대통령과 김정숙 여사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 전 대통령의 전 사위 서모씨의 ‘타이이스타젯 특혜 채용’ 의혹을 수사 중인 검찰이 문 전 대통령 부부의 계좌 거래 내역을 조사 중인 것으로 15일 알려졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 전주지검 형사3부(부장 한연규)는 최근 문 전 대통령과 김정숙 여사에 대한 금융 계좌 추적용 압수 수색 영장을 법원에서 발부받아, 딸 다혜씨 가족과의 자금 거래 흐름을 분석 중인 것으로 전해졌다. 영장에는 문 전 대통령 부부 명의의 계좌와 혐의, 기간 등이 특정돼 있다고 한다.&lt;br&gt;&lt;br&gt;이번 계좌 추적은 문 전 대통령 부부가 딸 다혜씨 가족의 생활비를 언제부터, 얼마나 지원해 왔는지, 언제 지원이 끊겼는지 등을 파악하는 게 목적이다. 검찰은 문 전 대통령 부부가 결혼 후 일정한 수입원이 없던 딸 가족에게 생활비를 지원해 오다가 전 사위 서씨가 타이이스타젯에 취직한 뒤부터 생활비 지원을 중단한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;문제는 특혜 채용 의혹을 받는 서씨의 취직 후 생활비 지원이 끊겼다면, 서씨의 월급과 주거비 지원 등 타이이스타젯의 각종 지원이 문 전 대통령에 대한 뇌물로 판단될 수 있다는 점이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QNEV37TT4RGGTGS4WYE2CBAI3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상직 전 더불어민주당 의원. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 이상직 전 민주당 의원이 2018년 3월 중소벤처기업진흥공단(중진공) 이사장으로 임명된 직후, 문 전 대통령의 전 사위 서씨의 타이이스타젯 채용, 가족의 태국 이주 등이 일사천리로 이뤄진 점에 주목하고 있다. 이 전 의원이 2018년 7월 항공 업계 경력이 전무한 서씨를 자신이 실소유주로 있는 타이이스타젯 임원으로 취직시킨 점, 중진공 직원들을 동원해 서씨 가족의 태국 이주를 도운 점 등이 중진공 이사장 자리의 대가가 아닌지 의심하고 있는 것이다.&lt;br&gt;&lt;br&gt;서씨는 2020년 초까지 태국에 있으면서 매월 800만원의 급여와 350만원가량의 집 렌트비 등을 회사에서 받았고, 다혜씨 가족은 한국을 오갈 때 이스타항공 여객기도 무료로 이용했다고 한다. 이 기간 지원 규모가 2억원이 넘는 것으로 검찰은 보고 있다. 차장 검사 출신 한 변호사는 “자녀가 독립 생계를 유지하지 못한 상태에서 부모가 주던 생활비를 타이이스타젯 등 이상직 전 의원 측이 대신 대줬다면, 그 돈은 이 전 의원이 문 전 대통령에게 준 뇌물로 볼 여지가 충분해 보인다”고 말했다.&lt;br&gt;&lt;br&gt;검찰은 또 이 전 의원이 창업한 이스타항공이 2019년 관광 수요가 많은 중국, 싱가포르 등 여러 알짜배기 노선 운항권을 국토교통부에서 배분받고, 2020년 4월 총선 당시 전북 전주을 지역구에서 민주당 공천을 받아 국회의원이 된 점 등도 다혜씨 가족을 도운 대가인지 확인 중이다.&lt;br&gt;&lt;br&gt;한편, 검찰의 ‘늑장 수사’를 비판하는 목소리도 나온다. 이 사건 수사는 지난 2020년 국민의힘 고발로 시작됐는데 4년 가까이 결론을 내지 못하고 있는 것이다. 조현옥 전 청와대 인사수석 등 문재인 정부 인사들을 소환했지만 수사가 수년째 이어지다 보니 반발만 커지는 분위기다. 최근 검찰이 이 전 의원의 중진공 이사장 임명 과정을 수사하기 위해 임종석 전 대통령 비서실장에게 소환 통보를 하자, 임 전 실장은 페이스북에 “언제까지 정치 보복 수사를 계속하려는 것인지 묻지 않을 수 없다”고 했다.&lt;br&gt;&lt;br&gt;문 전 대통령의 전 사위 서씨는 올해 초 3차례 검찰 조사를 받았지만 진술 거부권을 행사한 것으로 전해졌다. 수사팀 내부에선 작년부터 문 전 대통령 부부의 계좌 추적을 서둘러야 한다는 요구가 있었지만, 대검 등 지휘부가 최근에 와서야 이를 받아들였다고 한다. 한 법조인은 “전직 대통령과 그 가족 수사이기 때문에 오히려 더 빨리 처리했어야 한다”며 “정치적 부담을 가지면 수사가 지연되는 것은 물론 결과도 엉뚱하게 나오는 경우가 많다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[알립니다] 우리 아이 출생 소식, 액자에 담아 간직하세요</title>
+      <link>https://www.chosun.com/special/announcement/2024/08/16/UTPXFGRQWRB3JLLWIOM4JD542Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2024/08/16/UTPXFGRQWRB3JLLWIOM4JD542Y/</guid>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 16:50:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N5HDXT6NARFOTELTQEE5AFVW4Q.jpg"&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 우리 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 9일 ‘우리 아기가 태어났어요’ 코너에 실린 조아윤&amp;lt;사진&amp;gt;이 이번 주 주인공입니다. 자세한 내용은 홈페이지(&lt;a href="http://reprint.chosun.com/" target="_blank"&gt;reprint.chosun.com&lt;/a&gt;)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 김숙자씨 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/08/16/UXABJ64T3ZC4RAV3N6GGON667U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/08/16/UXABJ64T3ZC4RAV3N6GGON667U/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 16:43:28 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;김숙자&lt;/b&gt; 별세, &lt;b&gt;김승철&lt;/b&gt;·&lt;b&gt;김현실&lt;/b&gt; 온누리교회 부목사 모친상, &lt;b&gt;이기광&lt;/b&gt; 대한항공 고문·&lt;b&gt;방효성&lt;/b&gt; 기독교미술인협회장 장모상=15일6시56분 삼성서울병원, 발인 17일7시, (02)3410-6912&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이종&lt;/b&gt; 별세, &lt;b&gt;이성우&lt;/b&gt;·&lt;b&gt;이창우&lt;/b&gt; 이반종합건축사사무소 대표·&lt;b&gt;이시우&lt;/b&gt;·&lt;b&gt;이지우&lt;/b&gt;·&lt;b&gt;이민우&lt;/b&gt; 부친상, &lt;b&gt;정성근&lt;/b&gt; 前 아리랑국제방송 사장 장인상=14일21시52분 삼성서울병원, 발인 17일6시, (02)3410-6920&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이진희&lt;/b&gt; 별세, &lt;b&gt;백남국&lt;/b&gt; 아내상, &lt;b&gt;백석기&lt;/b&gt; 교보생명 중앙 GFP지점 팀장·&lt;b&gt;백선기&lt;/b&gt; 前 KBS 기자·&lt;b&gt;백숙기&lt;/b&gt; 前 아시아나항공 선임사무장 모친상, &lt;b&gt;손관승&lt;/b&gt; 前 iMBC 사장 장모상, &lt;b&gt;우혜경&lt;/b&gt; 시모상=15일0시 이대목동병원, 발인 17일6시, (02)2650-2746&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>병원 경영난에… 방사선사·작업치료사, 더 좁아진 취업문</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/08/16/AIMTPTVQDJD3FFEF3SEHSYWUPE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/16/AIMTPTVQDJD3FFEF3SEHSYWUPE/</guid>
+      <dc:creator>안준용 기자, 남소정 인턴기자(성균관대 한문교육과 졸업)</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 16:25:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TIIWPOMZF5OPYOVQ6O62WQEZ5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 한 대학병원의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전공의 이탈 공백과 병원 경영난 여파가 의사·간호사뿐만 아니라 방사선사·작업치료사·물리치료사 등 병원 내 근무하는 전 직역으로 확산하고 있다. 신규 취업은 어려워지고, 기존 인력의 업무 고충과 부담은 커지는 이중고에 시달리고 있다는 것이다.&lt;br&gt;&lt;br&gt;엑스레이·CT(컴퓨터 단층 촬영)·MRI(자기공명영상) 등 방사선 검사·치료 업무를 하는 방사선사의 경우, 한 해 2000여 명 배출되지만 최근 대학병원급 취업은 바늘구멍이 됐다고 한다. 수도권 한 상급종합병원 방사선사 A(26)씨는 “기존 인력이 나가거나 병원에 새 기계가 들어와야 충원이 되는 구조인데, 의정 갈등 사태 이후엔 나가는 사람도, 들어오는 기계도 거의 없다”며 “대학 방사선과 학생들은 ‘어디로 취업하냐’며 비상이 걸린 상황”이라고 했다.&lt;br&gt;&lt;br&gt;환자의 일상생활에 필요한 신체 기능 회복과 사회 적응을 돕는 ‘작업치료사’, 근골격계 이상 등 운동 장애 치료·재활을 주로 맡는 ‘물리치료사’도 사정은 비슷하다. 서울 한 대학병원 작업치료사 B(26)씨는 “원래 좁은 취업문이 더 좁아져 주변에선 4개월짜리 계약직 자리도 일단 무조건 지원하고 본다”며 “병원에선 직원들에게 은근히 무급 휴직을 쓰라는 식으로 분위기를 만들고 있다”고 했다. 서울아산병원·세브란스병원·경희대병원 등 주요 대학병원은 현재 의사를 제외한 일반직 직원을 대상으로 무급 휴가·휴직 신청을 받고 있다. 서울 한 재활병원 물리치료사 C(24)씨는 “채용 공고가 나도 대부분 단기 계약직”이라고 했다.&lt;br&gt;&lt;br&gt;전공의 공백으로 업무 부담이 커졌다는 목소리도 나온다. 한 작업치료사는 “우리가 환자 장애 등급을 평가하면 전공의들이 환자 관련 서류를 작성해왔는데, 요즘 의사 직인이 필요한 서류 업무까지 치료사에게 맡기는 교수들이 있다”고 했다. 한 방사선사는 “환자 사정상 기존 처방과 다른 자세로 촬영하는 경우, 밤에도 남아 있는 전공의들에게 연락해 처방을 바꿔달라고 요청했는데 지금은 안 된다”며 “다음 날 교수가 출근할 때까지 기다리는 경우도 많다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“고령자는 실내 마스크… 직원 아프면 병가 제공을”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/08/16/HWKG7NAJQVH4VC6D3MDP7GIPDA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/16/HWKG7NAJQVH4VC6D3MDP7GIPDA/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 16:25:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CIID4ZWXSNTGLV4LYFQ2TW6M4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 14일 광주 북구보건소에서 감염병관리팀 직원들이 코로나19 확산 예방을 위해 개인위생 수칙이 적힌 홍보물을 부착하고 있다. /광주 북구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;질병관리청은 15일 고령자 등은 사람이 많고 밀폐된 실내에서 마스크 착용을 권고한다고 밝혔다. 기업에는 코로나에 걸린 근로자들이 아프면 쉴 수 있도록 병가 등을 제공해 줄 것을 요청했다.&lt;br&gt;&lt;br&gt;질병청은 “여름철 코로나 유행 증가세가 지속되고 있어 ‘코로나19 감염 예방 수칙’을 마련했다”며 이같이 밝혔다. 질병청이 운영 중인 ‘호흡기 감염병 예방 수칙’에 언급된 손씻기, 환기, 기침 예절 등에 더해 코로나 대응 권고를 추가했다.&lt;br&gt;&lt;br&gt;코로나에 감염될 경우 마스크를 착용하고, 불필요한 만남이나 외출을 자제해달라고 했다. 60세 이상, 면역 저하자 등 감염 고위험군은 코로나 예방을 위해 사람이 많고 밀폐된 실내에서 마스크를 착용해 줄 것을 당부했다. 병원이나 요양병원 등에 방문하는 이들에게도 마스크 착용을 권고했다.&lt;br&gt;&lt;br&gt;회사·단체·조직 등에는 구성원이 코로나로 아프면 집에서 쉴 수 있도록 해 달라고 요청했다. 현재 코로나 격리 ‘권고’ 기간은 ‘기침, 발열, 두통 등 주요 증상이 호전된 후 24시간’까지다.&lt;br&gt;&lt;br&gt;보건복지부와 질병관리청은 전날 코로나 관계 부처 점검 회의를 통해 코로나 치료제를 추가 확보하고 공공병원 등에 코로나 환자를 위한 병상을 추가로 마련키로 했다. 코로나 입원 환자는 8월 둘째 주 1357명으로 올 들어 주간 최고치를 기록했다. 코로나로 응급실에 내원한 환자는 지난 6월 2240명에서 지난달 1만1627명으로 5배로 늘었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>8월 중순에도 펄펄… 폭염 10일 더 갈 듯</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/08/16/TNBA76Y7UJH65PV6GWICXO3UDA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/08/16/TNBA76Y7UJH65PV6GWICXO3UDA/</guid>
+      <dc:creator>김윤주 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 16:24:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FQYQF3AYFVECLIDZPLKXJAZY2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 14일 오전 11시 경기 수원시 성균관대 자연과학캠퍼스 내 건설 현장에서 허상렬 현장소장이 ‘35.2도’가 찍힌 온도계를 보여주고 있다. 같은 시각 옥상 등 일부 공사 현장에선 기온이 37도까지 올라갔다. /김윤주 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14일 오전 11시 경기 수원시 성균관대 자연과학 캠퍼스 내 건설 현장. 이곳에 도착한 지 10분도 지나지 않았지만 옷은 땀으로 흠뻑 젖고 휴대전화는 폭발할 것처럼 뜨거워졌다. 휴대전화에 뜬 기온 정보는 31.6도. 실제 온도계로 측정해보니 35도를 넘었다. 정부는 체감 온도가 35도를 넘으면 불가피한 경우를 제외한 야외 작업을 중단하도록 권고하고 있는데, 오전에 이미 기준치를 넘어선 것이다. 허상렬 현장소장은 “공사 현장에서도 가장 더운 옥상은 시간대를 새벽 5시부터 오후 1시로 앞당겨서 작업하고 있다”며 “요즘은 오전에도 30도를 넘을 때가 많아 보건 담당자가 돌아다니면서 직원들 건강 상태를 수시로 확인하고 있다”고 했다.&lt;br&gt;&lt;br&gt;기온이 가장 높은 오후 2~5시에는 야외 작업을 멈추도록 권고하지만, 건물 맨 위층에서 하는 시멘트 타설은 중단할 수 없다. 시멘트는 공장에서 나온 순간부터 굳기 시작해 품질을 유지하려면 단시간에 작업을 마쳐야 한다. 또 철근을 조립하고 용접하기 위해 20명 정도는 뜨거운 옥상에 머무른다. 현장 곳곳에 설치한 휴게실은 잠시라도 에어컨 바람을 맞으려는 인부들로 가득했다. 실내여서 기온이 24도까지 떨어지는 지하 작업장은 간이 의자 수십 개를 두고 휴게소로 쓰고 있다. 하지만 아직 공사 중인 건물 지하라 바닥에서 물이 올라오고 습해 오래 쉬지는 못한다고 한다.&lt;br&gt;&lt;br&gt;광복절인 15일도 전국이 절절 끓었다. 강원 동해안 일부를 제외한 전국 대부분 지역에 폭염 특보가 내려졌고, 체감 온도가 37도까지 오르는 곳도 있었다. 경기 안성에선 일 최고 체감 온도가 37.6도까지 올랐고, 다른 지역도 서울 34.7도, 파주 37.2도, 강원 홍천 36.3도, 전남 완도 36.6도 등을 기록했다. 14일까지 전국 폭염 일수는 16.8일로 평년(7.9일)의 두 배가 넘었다. 8월 평균기온은 28.5도로 평년(26.1)보다 2.4도나 높았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2HL54LWCRVO6VGBWRZBPL77VEA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;열대야가 이어진 15일 오후 서울 서초구 반포한강공원을 찾은 시민들이 여름밤 무더위를 식히고 있다. 서울의 열대야는 지난달 21일부터 이날까지 26일째 이어지면서 2018년과 같이 역대 가장 긴 열대야를 기록했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;밤에는 열대야(최저기온 25도 이상)가 이어지고 있다. 부산에선 7월 25일 이후 이날 오전까지 21일째 열대야가 지속돼 역대 최악의 여름으로 꼽히는 1994년과 2018년의 최장 열대야 기록과 동률을 기록했다. 부산 지역은 19일까지 기온이 25도 밑으로 떨어지지 않을 것으로 예보돼 새로운 기록을 쓸 가능성이 높다. 서울에서도 25일 연속 열대야가 나타나고 있어 16일 오전에는 역대 최장 기록인 2018년(26일)과 동률을 이룰 전망이다. 서울도 당분간 열대야가 이어질 전망이어서 기후 측정이 시작된 1907년 이후 118년 중 가장 긴 열대야로 기록될 것으로 보인다.&lt;br&gt;&lt;br&gt;보통 우리나라에서 여름 더위는 광복절(8월 15일)을 기점으로 꺾이는 때가 많았다. 하지만 올해는 광복절 이후로도 최소 열흘은 폭염과 열대야가 유지될 전망이다.&lt;br&gt;&lt;br&gt;16일도 전국 낮 최고기온이 30~35도로 무더울 전망이다. 수도권, 충남, 전라권은 5~60㎜, 강원도, 충북, 경상권은 5~40㎜의 소나기가 예보됐다. 비가 그친 뒤엔 다시 기온이 올라 찜통더위가 이어진다. 17일에도 무더운 가운데 전국 곳곳에 5~40㎜가량 소나기가 예보됐다. 기상청 관계자는 “북태평양 고기압이 계속해서 우리나라에 자리를 잡을 것으로 예상돼 당분간 높은 기온이 이어질 전망”이라며 “특히 태백산맥을 넘어오는 뜨거운 동풍 때문에 서울 등 서쪽 지역 기온이 더 많이 오르고 있다”고 했다.&lt;br&gt;&lt;br&gt;계속되는 폭염으로 지난 13일까지 전국에서 22명이 숨졌고, 2503명의 온열질환자가 발생했다. 이 중 야외 작업장에서 발생한 온열 질환자가 778명(31.1%)을 차지해 가장 많았다.&lt;br&gt;&lt;br&gt;더위가 계속될 것으로 예보되면서 정부도 비상이다. 고용부는 올해 이동식 에어컨, 그늘막 등 냉방 시설 설치 지원에 120억원을 투입했다. 고용부 관계자는 “열악한 건설 현장은 선풍기 몇 대로 더위를 버티는 곳도 있다”며 “폭염 취약 사업장인 공사장, 택배 물류센터 등에는 야외 휴게 공간에도 이동식 에어컨을 설치하도록 지원하고 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>황금연휴 누리러 갑니다</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/16/OQXYYTRO2FG4DEXYBEBMPGAJCU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/16/OQXYYTRO2FG4DEXYBEBMPGAJCU/</guid>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 15:56:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q7Y75MC7ZZCGXLIJOIEQRE54TY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광복절인 15일 서울 강서구 김포공항 국내선 청사에 여행객들이 모여 있다. 제주도관광협회는 14일부터 오는 18일까지 닷새간 이어지는 ‘광복절 연휴’에 약 22만2000명의 관광객이 제주를 찾을 것으로 예상했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디] 머리끈</title>
+      <link>https://www.chosun.com/national/nie/chinese/2024/08/16/VUVGYAGHNZFC5JLQ7OK2Q3O7CY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/08/16/VUVGYAGHNZFC5JLQ7OK2Q3O7CY/</guid>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LGVW3PD7UJDHPNYTQ7YP5OQ544.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[입에 착착 붙는 일본어] (수중에) 가진 돈이 없다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2024/08/16/PYPRZLP45BGLNAS6FLHI2NCJWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/08/16/PYPRZLP45BGLNAS6FLHI2NCJWA/</guid>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2LGVDSO3JJHPRABUSA2L3TE3Y4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 사소취대(捨小取大)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2024/08/16/HJJUIXTF4JGITP4AZJ2GCZRVHA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/08/16/HJJUIXTF4JGITP4AZJ2GCZRVHA/</guid>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WNPMTVP4YRHLVHZTMJGJVMYZW4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] It's the thought that counts.</title>
+      <link>https://www.chosun.com/national/nie/english/2024/08/16/FOAEJCEQNZHWVEUNV5GJARTPAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/08/16/FOAEJCEQNZHWVEUNV5GJARTPAE/</guid>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QGPW777DCNGYBBOQ4SBD42I4CA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2443] 칼럼 풀어 읽기</title>
+      <link>https://www.chosun.com/national/nie/2024/08/16/SLAAIBSAOJBRTCTI4AKE532FKI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/16/SLAAIBSAOJBRTCTI4AKE532FKI/</guid>
+      <dc:creator>장형태 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E7KIIHPKRBHJFHRXXSOVVOKC5I.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2024년 8월 16일</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/16/XBMUJEWBGBFJHLVTFQRQKFJNGM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/16/XBMUJEWBGBFJHLVTFQRQKFJNGM/</guid>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 15:32:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4NBMRHDTYZDLXNA6MBBRNEJOMA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독]  경력 8개월 20대 청년, 고장난 고압 전류 장비에 홀로 투입됐다 감전사 </title>
       <link>https://www.chosun.com/national/national_general/2024/08/15/XQT2A4X6PNDIDOHZ53UTTHGFZM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/15/XQT2A4X6PNDIDOHZ53UTTHGFZM/</guid>
@@ -801,132 +929,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IN7QB7U5CYHDDP7NAJ3ZDFQRVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 동대구역 앞에서 열린 박정희 광장 표지판 제막식에서 홍준표 대구시장(빨간 점퍼) 등이 박수를 치고 있다./대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구의 관문으로 불리는 동대구역 광장에 ‘박정희 광장’이라고 쓰인 표지판이 들어섰다. 박정희 전 대통령의 산업화 정신을 기리자는 취지로 홍준표 대구시장이 동대구역 광장 명칭을 박정희 광장으로 바꾼 것이다. 대구시가 표지판 제막식을 열고 명칭 변경을 축하한 반면, 반대 단체들은 “시대 착오적 동상을 철거하라”며 맞불 집회를 열었다.&lt;br&gt;&lt;br&gt;대구시는 14일 동구 신암동 동대구역 광장에서 ‘박정희 광장 표지판 제막식’을 열었다. 광장 내에는 5m 높이 표지판이 하얀색 천에 덮힌 채 우뚝 서 있었다.&lt;br&gt;&lt;br&gt;앞서 지난 3월부터 홍준표 대구시장이 박정희 전 대통령 기념 사업을 추진하면서 동대구역 광장의 명칭 변경이 지역 내 화두로 떠올랐다. 홍 시장은 “대구에는 국채보상운동의 구국운동 정신, 2·28 자유 정신, 섬유공업을 일으킨 박정희의 산업화 정신이 있다”면서 “(지역에)박 전 대통령의 산업화 정신을 기리는 사업이 없다”고 한 바 있다.&lt;br&gt;&lt;br&gt;지난 5월 대구시는 박정희 대통령 기념사업 지원에 관한 조례를 제정하고 추진위원회를 구성했다. 이번 동대구역 광장 명칭 변경이 그 첫걸음인 셈이다.&lt;br&gt;&lt;br&gt;이날 제막식엔 홍 시장과 강은희 대구시교육감 등 관계자 80여명이 참석했다. 주요 인사들이 천을 걷어내면서 박 전 대통령의 사진 아래 ‘박정희 광장’ 다섯 글자가 세로로 새겨진 표지판이 모습을 드러내자 제막식 현장에선 박수가 터져나왔다.&lt;br&gt;&lt;br&gt;반면 같은 시각 표지판 너머에선 ‘동대구역 박정희 광장 표지판 설치 규탄 정당·시민단체 공동 기자회견’이 열렸다. 박정희우상화 사업 반대 범시민 운동본부가 주최한 이 기자회견엔 더불어민주당·진보당 등 정당 관계자와 시민 등 약 100명이 참가했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CW7JSICKEZK6HCXJX6MW2GU4D4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오전 대구 동구 동대구역 앞 광장에서 예정된 '박정희광장 표지판 제막식'을 앞두고 박정희광장 표지판 설치를 규탄하는 정당·시민단체 관계자들이 공동 기자회견을 열고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들은 “광복절에 친일 부역자 박정희 우상화 추진하는 홍준표 시장 규탄한다” “독재의 망령으로 동대구역을 더럽히지 말라” “대구를 보수 수구 도시로 전락시키는 박정희 우상화 사업 즉각 중단하라” 등의 구호를 외쳤다. 표지판에 막이 걷히자 “철거하라” “(표지판이)영화 ‘파묘’에서 일제가 민족 정기를 끊으려 심은 쇠말뚝 같다”며 반발했다.&lt;br&gt;&lt;br&gt;이날 제막식과 기자회견은 약 1시간정도 진행됐고, 양 측의 물리적 충돌은 없었다.&lt;br&gt;&lt;br&gt;대구시는 연말까지 광장에 박 전 대통령 동상을 설치하고 내년에는 남구에 박정희 공원을 조성한다. 또 다른 동상도 설치할 계획이다.&lt;br&gt;&lt;br&gt;홍 시장은 “산업화 정신을 바탕으로 대구가 다시 한번 도약할 수 있도록 시민들께서 그 의미를 함께 해달라”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>서울 22일째 열대야… 최장 기록 넘길 전망</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/08/13/ZLKAWKQATNGRDCZCSZQWZAFRSE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/08/13/ZLKAWKQATNGRDCZCSZQWZAFRSE/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 12 Aug 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LT2DMIKWWVM7DLFQAMWSUOYK7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울에 열대야가 이어지는 12일 한강 반포대교를 찾은 시민들이 무지개분수를 보며 더위를 식히고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동해상에서 한반도로 동풍(東風)이 불어들며 수도권을 중심으로 더위의 양상이 ‘찜통더위’에서 ‘불볕더위’로 변해가고 있다. 뜨겁고 축축한 ‘습식 사우나’에서 뜨겁고 건조한 ‘건식 사우나’로 바뀐 셈이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 강원 영동 지역으로 동풍이 강하게 들어오고 있다. 이 바람이 태백산맥을 넘으며 고온 건조해져 수도권을 포함한 영서 지방에 열기를 공급하고 있다. 12일 경기 안성의 한낮 기온이 최고 38.4도까지 올랐고, 용인(37.8도)·수원(34.7도)·서울(34.4도) 등 수도권과 강원 홍천(37.1도)·화천(36.2도) 등도 동풍의 영향을 크게 받았다.&lt;br&gt;&lt;br&gt;11일 밤에서 12일 아침 사이 서울은 22일 연속 열대야를 기록했다. 2018년의 26일과 1994년 24일에 이어 2016년(21일) 기록을 꺾고 역대 3위를 기록했다. 서울은 주말인 16일 밤~17일 아침 최장 기록이 경신될 것으로 예상된다. 제주는 28일째, 인천과 부산도 각각 20일째, 18일째 열대야를 겪고 있다.&lt;br&gt;&lt;br&gt;현재 한반도 대기 상·하층을 각각 장악하고 있는 티베트고기압과 북태평양고기압이 오는 22일까지 세력을 유지할 것으로 보여 폭염과 열대야는 최소 열흘간 더 이어질 전망이다. 13~14일 전국 기온은 최저 21~27도, 최고 29~35도로 예보됐다. 이어 광복절(15일)부터 22일까지도 최저 23~27도, 최고 30~34도의 분포를 보이며 평년보다 기온이 높을 것으로 보인다. 곳곳에 소나기도 예고됐다. 13일과 14일 서해안과 내륙을 중심으로 곳곳에 하루 5~40㎜의 소나기가 내릴 전망이다.&lt;br&gt;&lt;br&gt;더위가 물러가려면 두 겹의 고기압에 덮여 있는 한반도 상공의 기압계를 뒤흔들 만한 ‘변수’가 생겨야 한다. 현재 기압계 구조로는 차고 건조한 북풍(北風)이나 비구름대가 들어올 ‘길’이 열리기가 쉽지 않다. 태평양에서 일본 동쪽으로 접근 중인 6호 태풍 ‘손띤’은 우리나라에는 미치는 영향이 거의 없을 것으로 예상된다. 한반도에 영향을 미치는 두 고기압 세력이 약화하거나, 우리나라 서쪽으로 태풍이 북상하지 않는 한 더위는 쉽게 물러나지 않을 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>충남경찰 쓰던 노후 112순찰차, 동남아 라오스에서 ‘2막’</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/14/RFHNJTGNOFCBNEDEKK7GIC3UHM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/14/RFHNJTGNOFCBNEDEKK7GIC3UHM/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Aug 2024 05:13:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KGVFHEHAQJHOPLFCL3R2EPIHEQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;14일 충남도청에서 열린 라오스 공적지원 경찰 장비 출하식. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이달 말부터 ‘충남경찰청’ 순찰차가 라오스 수도 비엔티안을 누비는 모습을 볼 수 있게 됐다. 14일 충남도 자치경찰위원회는 도청에서 라오스 공적 지원 경찰 장비 출하식을 했다. 충남경찰청과 산하 경찰서에서 사용하던 노후 순찰차와 오토바이가 라오스로 건너가는 것이다.&lt;br&gt;&lt;br&gt;이는 충남도가 2022년 12월 라오스와 체결한 우호 협력 강화 양해각서의 후속 조치다. 라오스는 지난 4월 도에 경찰 차량을 지원해 달라고 요청한 바 있다.&lt;br&gt;&lt;br&gt;이에 따라 도와 도경찰청은 지난 5월 법적 사용기간(순찰차 4년 12만㎞, 오토바이 7년)이 지난 순찰차 20대와 오토바이 5대를 무상 양여(讓與·자기 소유를 남에게 건네줌)하기로 협약했다. 순찰차와 오토바이들은 출하식 이후 인천항을 통해 이달 20일까지 라오스에 보내질 예정이다.&lt;br&gt;&lt;br&gt;충남경찰청은 내달 경찰장비 공적 지원 협력단을 라오스에 파견해 한-아세안 정상회의에 의전·경호용으로 경찰장비가 투입될 수 있도록 전수할 계획이다.&lt;br&gt;&lt;br&gt;앞서 도는 우호 협력 강화 양해각서 이후 지금까지 구급차 32대와 사랑의 PC 600대, 책걸상 300조 등을 지원했다.&lt;br&gt;&lt;br&gt;김태흠 충남지사는 “도의 안전을 지킨 경찰차가 이제 라오스의 치안을 한층 끌어올리는 제2의 임무를 시작한다”며 “도와 관계기관의 노력이 공적개발원조의 새로운 길을 만들고 지방정부 해외 교류의 선도 모형이 되길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이영애, 광복절 맞아 1억원 또 기부… “강제동원 피해자 보살펴야”</title>
-      <link>https://www.chosun.com/national/people/2024/08/14/H434BKAO5JFHHPDJH2FHSZLPQI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/14/H434BKAO5JFHHPDJH2FHSZLPQI/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Aug 2024 05:27:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RZFDZOE7HBFXPEZHIWFKAVLBUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이영애. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천안함 희생자, 독립유공자, 6·25 참전용사 등에 꾸준히 기부활동을 펼쳐온 배우 이영애(53)씨가 이번에는 광복절을 맞아 일제강점기 강제 동원 피해자들을 위해 써달라며 1억 원을 기부했다.&lt;br&gt;&lt;br&gt;14일 행정안전부 산하 일제 강제 동원 피해자 지원재단에 따르면 이씨는 전날 “나라를 되찾은 날을 생각하며 일제강점기 강제 동원으로 희생되신 분들에게 써달라”며 1억 원을 쾌척했다. 이씨는 “피해자분이 한 분이라도 더 살아 계실 때 보살피는 게 우리의 몫이라고 생각한다”는 뜻을 밝힌 것으로 전해졌다.&lt;br&gt;&lt;br&gt;재단은 일본 기업을 상대로 승소한 강제 동원 피해자들에게 판결금과 지연이자 등을 지급해 온 곳이다. 다양한 강제 동원 피해자 추모 사업을 맡고 있다.&lt;br&gt;&lt;br&gt;이씨의 아버지는 6·25 참전용사이며 시아버지 역시 육군사관학교 출신의 참전용사로 알려져 있다. 군에 대한 각별함 때문인지 최근에도 K-9 자주포 폭발 사고로 순직한 군인의 자녀, 북한 목함지뢰 도발로 피해를 본 병사, 천안함 재단, 육군사관학교 등에 성금을 전달한 바 있다.&lt;br&gt;&lt;br&gt;앞서 지난 6월 ‘호국보훈의 달’을 맞아 열린 군인 위문 음악회에 5000만 원을 후원하면서는 “제 아버지와 시아버지께서도 6·25를 몸소 겪으신 참전용사”라며 “이번 공연과 후원이 국가 안보를 위해 헌신하는 장병들에게 큰 위로와 격려가 되길 바란다”고 전하기도 했다.&lt;br&gt;&lt;br&gt;또 같은 달 국내 취약계층 아동의 치료비 5100만 원을 지원하기도 했다. 이 기부엔 13살인 쌍둥이 자녀 정승권군과 정승빈양이 각 50만 원씩 총 100만원을 보태 눈길을 끌었다. 당시 이씨는 “두 아이를 키우는 엄마로서 방송에 소개된 아이들 사연에 안타까움을 느꼈다”며 “경제적 어려움에 처한 아동이 희망을 잃지 않도록 응원하겠다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“그동안 감사했습니다”… 박세리, 부친 논란 2달만에 밝힌 심경</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/14/ZYMQVIA6GBBD3N3YAT2ALAKBKU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/14/ZYMQVIA6GBBD3N3YAT2ALAKBKU/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Aug 2024 05:50:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/73WC7JFN5VDZ5CZZPDQ3RTTOOY.png"&gt;&lt;figcaption&gt;&lt;small&gt;유튜브 '박세리의 속사정'에 출연해 부친의 사문서위조 등과 관련 입장을 밝히고 있는 박세리. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;골프선수 출신 박세리씨가 박세리희망재단 명의로&lt;b&gt; &lt;/b&gt;부친을 사문서위조 등의 혐의로 고소한 것과 관련해 기자회견을 가진 지 약 2달만에 심경을 밝혔다.&lt;br&gt;&lt;br&gt;박씨는 지난 9일 새로 개설한 유튜브 채널 ‘박세리의 속사정’에 ‘그동안 정말 감사했습니다’란 제목의 첫 영상을 올리고 “오늘은 아마 분위기가 다르게 보이실 텐데 드릴 말씀이 있어서 처음으로 이렇게 제 집에서 인사드린다”고 운을 뗐다.&lt;br&gt;&lt;br&gt;박씨는 “얼마 전 언론에서 많이 보신 것처럼 어려운 일이 있었는데 감사하게도 정말 많은 분들이 응원을 해주시고 좋은 에너지를 전달해 주신데 힘입어서 열심히 하루하루 일상생활을 하면서 일을 하고 있다”며 “그동안 제가 많은 분들께 항상 감사 인사를 드렸지만, 이번에 일을 겪으면서 더더욱이나 진심으로 감사드린다는 말씀을 전해드리고 싶었다”고 했다.&lt;br&gt;&lt;br&gt;박씨는 앞으로 이 유튜브 계정을 통해 일상의 모습을 종종 공개하겠다고도 했다. 박씨는 “많은 댓글 중에서도 저의 일상 브이로그를 보고 싶어 하는 분들도 있더라. 일상생활 브이로그를 보여드릴까 한다”면서 “워낙 일이 많아서 바쁜 일정이 끝나고 나면 특별하게 뭐 하는 건 없지만 이런 식으로 자연스러운 리얼 생활을 보여드릴 수 있을 것 같긴 한데 공감하실 분들이 많을 것 같다”고 했다.&lt;br&gt;&lt;br&gt;앞서 박씨가 이끄는 박세리희망재단은 작년 9월 박씨의 아버지 박준철씨를 ‘사문서위조 및 위조 사문서 행사 혐의’로 대전 유성경찰서에 고소했다. 박씨 부친은 새만금에 국제골프학교를 설립하는 업체로부터 참여 제안을 받고, 재단의 법인 도장을 몰래 제작해 사용한 혐의를 받는다. 경찰은 고소인과 참고인 등에 대한 조사를 진행한 후 지난 5월 박준철씨를 기소 의견으로 검찰에 송치한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이런 소식은 지난 6월 언론 보도 등을 통해 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;이와 관련, 박씨는 같은 달 18일 기자회견을 열고 부친의 채무 문제가 지속됐던 점이 고소의 배경이 됐다고 털어놨다. 당시 박씨는 “채무 관계를 하나 해결하면, 또 다른 채무 관계가 수면 위로 올라오고, 해결하면 또 다른 문제가 등장했다. 이게 (고소의) 이유가 됐다”며 “저희 아빠이기 때문에 갖고 계셨던 모든 채무 관련 제가 다 변제를 해드렸지만, 이제 더 이상은 제가 할 수 없는 부분까지 왔다”고 했다.&lt;br&gt;&lt;br&gt;이어 “가족이기 때문에 해올 수 있는 일이라 생각했는데 마지막으로 큰일이 터지고 나선 제가 어쩔 수 있는 방법이 없었다”며 “채무 관련된 얘기가 들어와도 더 이상 제가 책임지지 않겠다고 말하기 위해, 이 자리에 나온 것도 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>BTS 슈가 음주운전 징계 없다는 병무청, 현역들 “연예인이 벼슬이냐”</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/08/5HTRPHBNPFC4RC262MIJYJZFVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/08/5HTRPHBNPFC4RC262MIJYJZFVI/</guid>
-      <dc:creator>강우석 기자, 김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Aug 2024 06:51:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DPYCU3VPCFGGLHB43GGMUYGTJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;BTS 멤버 슈가. /빅히트뮤직&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사회복무요원으로 군(軍) 대체복무를 하다 음주운전으로 경찰에 적발된 그룹 방탄소년단(BTS) 멤버 슈가(31·본명 민윤기)와 관련, 병무청이 “사회복무요원이 근무 시간 외에 범죄를 저지르는 경우 병무청 차원의 징계는 따로 없다”고 밝혔다. 민씨 측은 “전동킥보드를 이용한 뒤 범칙금 처분을 받았다”는 초기 해명과 달리 전동스쿠터를 이용해 도로를 달렸다는 사실이 드러나 사건 축소 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;병무청 관계자는 8일 본지에 “근무 시간 외에 발생한 사항에 대해서는 병역법령에 따른 별도 신분상 조치는 없다”며 “복무관리 규정보다 병역법이 앞서기 때문에 그렇다”고 말했다. 사회복무요원 복무규율 8조에는 ‘사회복무요원은 직무의 내외(內外)를 불문하고 그 품위가 손상되는 행위를 하여서는 아니 된다’는 내용이 있지만 이에 앞서 병역법 33조(사회복무요원의 연장복무 등)에 따라 경고처분 및 복무연장 등 징계를 내릴 수 없다는 것이다.&lt;br&gt;&lt;br&gt;해당 조항은 징계 대상 중 하나로 ‘근무시간 중 음주, 도박, 풍기문란, 그 밖에 근무기강 문란행위를 한 경우’를 명시하고 있다. 병무청은 ‘그 밖에 근무기강 문란행위를 한 경우’ 역시 ‘근무시간 중’에 한정된다는 입장이다. 병무청은 “사회복무요원들이 복무기간 중 법규를 준수하도록 교육을 강화하고, 복무지도관을 통해 사회복무요원에 대한 관리,감독을 철저히 하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;현역으로 군 복무를 마친 예비역들 사이에서는 “명백한 차별”이라는 비판이 쏟아졌다. 군대에서 복무를 하는 현역병들은 사회에서 범죄를 저지르면 군형법의 적용을 받고 징계도 별도로 받는다. 국방부 군인·군무원 징계업무처리 훈령 8조(음주운전 사건 처리기준) 따르면, ‘징계권자는 음주운전의 경우 정당한 이유가 없는 한 징계의결을 요구해야 한다’고 명시돼있다. 일반 병사가 민씨와 같이 최초 음주운전을 저지르고 혈중알코올농도가 0.08% 이상으로 측정된다면, 정직에서 강등까지 징계가 이뤄질 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JA77M5D3YNXY7COSX5HSQNZD24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 서울 한남동 일대에서 술을 마시고 전동 스쿠터를 운전하는 그룹 방탄소년단(BTS) 멤버 슈가(31·본명 민윤기)의 모습. /JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;육군을 전역한 박모(23)씨는 “휴가도 아닌데 밤 늦은 시간까지 술을 마신다는 것부터 현역 군인과 차원이 다른 이점을 갖는 것”이라면서 “특히 연예인들 중 일상 생활에 지장이 없어 보이는 데도 대체 복무하는 경우가 많은데 그런 것을 보면 박탈감이 든다”고 했다. 해병대를 전역한 예비역 김모(28)씨는 “현역병, 공익 모두가 고생하는 것은 맞지만, 더 열악한 조건에서 복무를 수행하는 현역병이 오히려 손해를 보는 상황 아니냐”며 “이참에 사회복무요원에 대한 처벌 규정을 강화하는 등 공정한 잣대가 마련돼야 할 것 같다”고 했다.&lt;br&gt;&lt;br&gt;온라인상에서는 한 누리꾼이 국민신문고에 ‘슈가법(사회복무요원 복무관리 규정 개정안)’ 제정을 통해 민씨 징계를 요구하는 민원을 접수했다는 글을 게시하기도 했다. 상당수 현역·예비역들은 “연예인이 벼슬이냐” “우리 같으면 영창이 기본”이라고 하고 있다.&lt;br&gt;&lt;br&gt;한편 민씨 소속사 하이브는 8일 사건 축소 논란과 관련해 “내부 커뮤니케이션 착오로 잘못된 정보를 전달 드린 점 죄송하다”며 논란 진화에 나섰다. 민씨와 하이브는 7일 게시한 첫 입장문에서 민씨가 ‘전동 킥보드’를 이용해 500m 가량 이동했다고 밝히고, 경찰이 민씨에 대해 범칙금 및 면허정지 처분을 내렸다고 했다. 하지만 경찰에 따르면 민씨는 ‘전동 스쿠터’를 이용했으며 민씨에 대한 처분은 면허취소 예정 외에는 아직 확정되지 않았다.&lt;br&gt;&lt;br&gt;전동 킥보드 등 개인형 이동장치(PM)과 전동 스쿠터는 도로교통법상 처벌 수준이 다르다. 경찰 관계자는 “구체적인 이동거리는 추후 조사 예정”이라고 밝혔다. 하이브는 “사안 축소 의도는 전혀 없었다”며 “면밀히 살피지 못하고 성급히 말씀드린데 대해 거듭 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이번엔 샌들...‘알테쉬’ 제품서 기준치 229배 발암물질 </title>
-      <link>https://www.chosun.com/national/national_general/2024/08/14/44QXK6BKCFF5VKV4VNVAXZVS6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/14/44QXK6BKCFF5VKV4VNVAXZVS6A/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Aug 2024 05:41:44 +0000</pubDate>
-      <content:encoded>중국 온라인 플랫폼인 알리익스프레스·테무·쉬인에서 팔리는 샌들과 모자에서 국내 기준치를 초과하는 유해 물질이 검출됐다. 쉬인에서 파는 샌들에선 국내 기준치의 229배가 넘는 발암물질이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KV5GYU5PIB3VBH73URYRJK5XNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;테무(왼쪽), 쉬인(오른쪽)에서 판매하고 있는 여름용 샌들. 프탈레이트계 첨가제 함유량이 국내 기준치를 초과했다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 중국 온라인 플랫폼 ‘알테쉬’에서 파는 144개 제품의 안전성을 검사한 결과, 총 11건의 제품에 문제가 있었다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;7월 12일부터 이달 9일까지 서울시보건환경연구원과 외부 전문기관 3곳이 ‘알·테·쉬’에서 판매 중인 식품 용기 94건, 화장품 13건, 샌들·모자 28건, 위생용품 9건을 검사했다.&lt;br&gt;&lt;br&gt;검사 결과 샌들 2개 제품에서 국내 기준치를 각각 167.5배, 229.2배 초과하는 프탈레이트계 첨가제 성분이 나왔다. 이 성분은 내분비계 장애를 일으키는 물질이다. 정자 수 감소나 불임 등 생식기능에 영향을 미쳐 발암가능 물질로 분류된다.&lt;br&gt;&lt;br&gt;알리 제품 중에서는 니켈 용출량이 국내 기준치의 2∼9배를 초과하는 샌들도 2종 있었다. 니켈로 인해 생기는 흔한 부작용은 피부 알레르기 반응이다.&lt;br&gt;&lt;br&gt;모자 3종도 발암물질인 폼알데하이드가 국내 기준치를 2배 초과하거나, 겉감에서 pH가 9.3으로 기준치(4.0∼9.0)를 넘어서는 문제가 있었다.&lt;br&gt;&lt;br&gt;알리에서 파는 알루미늄 냄비 2건도 니켈 용출량이 국내 기준치를 2배를 초과했다.&lt;br&gt;&lt;br&gt;쉬인에서 파는 매니큐어 2종에서는 국내 기준치의 최대 3.6 배가 넘는 디옥산과 국내 기준치의 1.4 배를 초과한 메탄올이 나왔다.&lt;br&gt;&lt;br&gt;디옥산은 화장품 재료를 부드럽게 만드는 과정에서 나오는 부산물이다. 세계보건기구(WHO) 산하 국제암연구소가 지정한 인체 발암가능 물질이다. 메탄올은 눈이나 호흡기에 자극을 주고 장기간 노출되면 중추신경계, 소화기계 및 시신경에 손상을 일으킬 수 있다.&lt;br&gt;&lt;br&gt;서울시는 국내 기준을 초과하거나 맞지 않는 11개 제품은 해외 온라인 플랫폼에 판매 중지를 요청할 계획이다.&lt;br&gt;&lt;br&gt;김태희 서울시 시민건강국장은 “샌들, 모자 등 신체에 직접 닿는 제품인 만큼 제품 구매에 각별히 주의해달라”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/H3NX45EJ4NBG7CLSVU5YBUQLEU.jpg?width=472&amp;height=354&amp;auth=d1082f0118d32d9a09232cb361b4af8ea01e1acb0660df2617b39b6c7e5db90f&amp;smart=true" type="image/jpeg" height="354" width="472"/>
-    </item>
-    <item>
-      <title>[단독] 서민위, 민주당 정청래 의원 직권남용·모욕 혐의로 경찰 고발</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/14/UFX3TW2WMRAGJJM2NUSD55JLUI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/14/UFX3TW2WMRAGJJM2NUSD55JLUI/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Aug 2024 05:47:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KT3PNYODDAOGLN5OMEQCO6E53Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김순환 서민민생대책위원회 사무총장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서민민생대책위원회(서민위)가 더불어민주당 정청래 의원을 직권남용과 모욕 등 혐의로 서울경찰청에 고발한 것으로 13일 파악됐다.&lt;br&gt;&lt;br&gt;이날 서민위는 정청래 법사위원장이 지난 6월 21일 해병대원 특검법 청문회에 출석한 군 장성 3명에게 ‘토 달지 말고 사과하라. 일어나라’며 10분간 퇴장시킨 것은 직권남용과 모욕죄에 해당한다며 고발 이유를 밝혔다. 김순환 서민위 사무총장은 본지에 “(정 위원장이) 모욕 발언과 발언 방해를 금지하고 있는 국회법 146조와 147조를 위반했다”며 “국회법 징계 대상”이라고 했다.&lt;br&gt;&lt;br&gt;김 사무총장은 또 지난달 19일 윤석열 대통령 탄핵청문회에서 정 위원장이 국민의힘 의원들에게 ‘퇴장하라, 발언권 안 주겠다’라고 말하고, 곽규택 국민의힘 의원을 향해 ‘나를 계속 노려보면 퇴장시키겠다, 발언권을 안주겠다’라고 한 데 대해 독선적 언행이자 무지의 상습적 행위라고도 비판했다.&lt;br&gt;&lt;br&gt;김 사무총장은 “피고발인의 부적절한 언행은 자유민주주의와 헌법적 가치를 훼손한 중대한 범죄”라며 “국회를 비롯해 또 다른 사회적 혼란을 가중시키는 상식을 벗어난 언행”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이낙연 前 총리 협박해 금품 뜯으려 한 70대 男 혐의 인정...검찰 2년 구형</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/14/2PHWYANPMNBSBFRD4ZO5B2MAY4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/14/2PHWYANPMNBSBFRD4ZO5B2MAY4/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Aug 2024 05:43:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QJVNBLATKBLIGIFP6QISIGHEX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;새로운미래 선거대책위원회 상임고문을 맡은 이낙연 공동대표가 지난 3월 서울 여의도 국회의원회관에서 열린 선대위 출범식에 참석한 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이낙연 전 국무총리를 협박해 돈을 갈취하려 한 70대 남성에 대해 검찰이 징역 2년을 구형했다. 그는 28년간 당의 부위원장으로서 이 전 총리를 위한 지원을 아끼지 않았다며 선처를 호소했다.&lt;br&gt;&lt;br&gt;서울남부지법 형사6단독 노태헌 판사는 14일 오전 공갈미수 혐의를 받는 나모(78)씨에 대한 1차 공판기일을 열었다. 검찰은 나씨에게 징역 2년형을 내려달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;나씨 측 변호인은 공소사실을 모두 인정한다고 입장을 밝혔다. 나씨 측은 “피고인이 피해자를 위해 장기간 지원과 노력을 해왔다는 점을 참고해달라”며 “피고인이 현재 깊이 반성하는 점 등을 고려해 선처를 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;나씨는 최후변론에서 “모든 죄를 인정한다”며 “다시는 그런 일이 없을 것이다. 선처해달라”고 했다.&lt;br&gt;&lt;br&gt;검찰에 따르면 A씨는 약 10년 전부터 피해자를 위해 수천만원을 사용하였다고 주장하며 변제를 요구했으나 이를 거절 당하자 지난해 8월부터 지난 5월까지 30회에 걸쳐 금품을 요구했다. 나씨는 지난해 7월 서울 종로구의 한 예식장에서 흉기를 소지한 채 이 전 총리를 위협하기도 했던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;나씨는 이 전 총리에게 ‘내가 살아있는 동안에는 절대로 안 된다는 것을 분명히 기억해야 할 것이다’ ‘항상 조심해서 다녀라. 어디든 보고 있을 테니까’ 등의 문자메시지를 보낸 것으로 조사됐다.&lt;br&gt;&lt;br&gt;사건을 수사하던 서울 영등포경찰서는 나씨가 과거에도 같은 내용으로 피해자를 협박해 수사를 받았던 사실이 있는 등 재범 위험성이 높다고 판단해 구속영장을 신청한 바 있다. 나씨는 지난 6월 구속기소됐다.&lt;br&gt;&lt;br&gt;나씨에 대한 선고기일은 내달 4일 오후 2시에 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>흉기로 70대 父 살해한 20대 아들, 구속 송치</title>
-      <link>https://www.chosun.com/national/incident/2024/08/14/DMZLBRZS2FBB7KNY3YYFIL4HEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/14/DMZLBRZS2FBB7KNY3YYFIL4HEE/</guid>
-      <dc:creator>안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Aug 2024 05:15:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AMQBBZYGFXZLY2FXCOBC3XPXK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;70대 아버지를 살해한 혐의로 체포된 20대 남성 A씨가 7일 오후 서울 동부지법에서 예정된 구속 전 피의자심문(영장실질심사)을 받기 위해 성동경찰서를 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;70대 아버지를 흉기로 찔러 살해한 20대 남성이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 성동경찰서는 20대 남성 A씨를 존속 살해 혐의로 검찰에 구속 송치했다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 6일 오전 0시 40분쯤 술을 마시고 성동구 금호동에 사는 아버지 B씨를 찾아가 칼로 찔렀다. B씨는 병원으로 이송됐지만 끝내 숨졌다. ‘집에서 시끄러운 소리가 난다’는 신고를 받고 출동한 경찰은 A씨를 현행범 체포했다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “어머니가 맞았다는 이야기를 듣고 화가 나 이같은 범행을 했다”고 진술했다. 경찰에 따르면 A씨 어머니는 지난해 12월부터 아홉 차례 B씨에 대해 가정폭력 신고를 했다.&lt;br&gt;&lt;br&gt;범행 다음 날인 7일 법원은 “도망할 염려가 있다”며 A씨를 상대로 구속 영장을 발부했다.&lt;br&gt;&lt;br&gt;경찰 조사 결과, A씨는 B씨에 대한 살해 사실은 인정하면서도 피해자 집에 방문한 과정과 구체적 방법 등에 대해서는 기억이 없다고 진술했다. 경찰은 “범행도구 감식 등을 통해서도 혐의가 인정됐다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/AMQBBZYGFXZLY2FXCOBC3XPXK4.jpg?width=2609&amp;height=1972&amp;auth=26a577bfce63b964d07c64053c2ccff14e54bf20913b9442cd04884f068d4ae1&amp;smart=true" type="image/jpeg" height="1972" width="2609">
-        <media:description type="plain">70대 아버지를 살해한 혐의로 체포된 20대 남성 A씨가 7일 오후 서울 동부지법에서 예정된 구속 전 피의자심문(영장실질심사)을 받기 위해 성동경찰서를 나서고 있다. A씨는 경찰 조사에서 "어머니가 맞았다는 이야기를 듣고 화가 나 범행했다＂고 진술한 것으로 전해졌다. 2024.8.7/뉴스1 ⓒ News1 오대일 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 오대일 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>3100여명 타고 제주 온 크루즈선 화재...대피 승객들 ‘철렁’</title>
-      <link>https://www.chosun.com/national/regional/2024/08/14/MFJIODY6LZFEZBOYQJV24IZ4NI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/14/MFJIODY6LZFEZBOYQJV24IZ4NI/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Aug 2024 05:21:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBYQOG6HTRORJCDH5TKKCQFKDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오전 제주시 건입동 제주항 8부두에 입항한 8만5000t급 메디테라니아(MEDITERRANEA)호에서 연기가 발생해 승객과 선원이 대피하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;승객과 선원 등 3100여명을 태우고 제주항에 입항한 국제 크루즈선에서 화재가 발생했다. 이 불로 선원 3명이 연기를 마셔 치료를 받았다.&lt;br&gt;&lt;br&gt;제주해양경찰서 등에 따르면 14일 오전 8시 37분쯤 제주항 8부두에 입항한 8만5000t급 크루즈 메디테라니아(MEDITERRANEA)호에서 연기가 난다는 신고가 해경에 접수됐다. 다행히 불은 곧 자체적으로 진화됐다.&lt;br&gt;&lt;br&gt;화재 당시 크루즈에는 승객과 승무원 등 3100여명이 타고 있었으며, 이 중 선원 3명이 연기를 마셔 응급처치를 받았다.&lt;br&gt;&lt;br&gt;화재로 승선원들이 급히 배에서 내려 대피했으며, 이후 소방대원과 해경 등 관계자들이 배에 올라타 완진 여부와 피해 정도, 화재 경위 등을 파악했다. 소방당국은 환자 발생에 대비해 현장에 임시 의료소를 설치하기도 했다.&lt;br&gt;&lt;br&gt;해경은 선박 기관실에서 불이 난 것으로 보고 자세한 화재 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;이 크루즈선은 중국 텐진에서 출발해 이날 오전 제주에 입항했으며, 크루즈 입출항 일정상 이날 오후 4시 일본 후쿠오카로 출항할 예정이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“시합 때 모르는 분이 날 지휘”... 역도 박혜정 이어 박주효도 코치 문제 언급</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/14/VPLXEVTPXFC7JDRPE672NBFQZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/14/VPLXEVTPXFC7JDRPE672NBFQZI/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Aug 2024 05:05:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IHMGQXKNRRNJNHRQJTGG5PWZ6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박주효가 9일(한국시간) 프랑스 파리 사우스 파리 아레나 6에서 열린 2024 파리 올림픽 역도 남자 73㎏ 결선에서 아쉽게 7위를 한 후 울먹이며 취재진과 인터뷰하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;극적으로 올림픽에 출전했지만, 메달 획득에는 실패한 역도 국가대표 박주효(27‧고양시청)가 코치진에 대한 아쉬움을 드러냈다. 앞서 은메달을 딴 박혜정(21‧고양시청)은 코치진의 실수로 용상 마지막 3차 시기를 허무하게 실패한 후 아쉬움을 삼켜야 했다.&lt;br&gt;&lt;br&gt;박주효는 지난 12일 자신의 인스타그램에 “제가 목표하던 것들 중에 가장 컸던, 그리고 가장 꿈꿔왔던 올림픽을 마쳤다”며 소감을 밝혔다.&lt;br&gt;&lt;br&gt;박주효는 “정말 열심히 최선을 다해서 준비했던 올림픽이어서 더 아쉬움이 큰 것 같다”며 “누군가에게는 최고의 순간이고, 누군가에게는 잔인한 기억이 되는 것 같다”고 했다. 이어 “올림픽이라는 무대에 서는 것만으로도 엄청난 영광이라는 생각이 들기도 하지만, 저와 저를 응원해 주셨던 분들께 너무 죄송한 마음”이라고 했다.&lt;br&gt;&lt;br&gt;박주효는 “제 노력이 부족했던 건지, 제 노력을 하늘이 알아주지 못했던 건지 너무 답답하고 서럽기도 하다”고 했다. 박주효는 사연 많은 선수다. 중학교 때까지 야구 선수로 뛰었지만, 집안 사정으로 역도로 전향했다. 고교 3학년 때 역도 국가대표가 된 박주효는 2021년 군 복무 중 허리를 크게 다쳐 ‘장애 5급 판정’을 받았다. “역도를 포기하라”고 권고하는 의료진도 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DQFBN35YPNMTRMJDIXQAXLOXGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일(현지시각) 2024 파리올림픽 역도 남자 73㎏급 경기에 출전한 박주효가 바벨을 놓치고 있다. 박주효는 2년 전 척추 수술로 장애 5급 판정을 받았지만, 놀라운 회복력을 발휘해 태극기를 가슴에 새긴 채 경기에 나섰다. /파리=올림픽사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 박주효는 의사가 ‘최소 3년’이라고 예상했던 재활 기간을 ‘1년’으로 줄였고, 작년 열린 항저우 아시안게임에 출전했다. 이어 올해 태국에서 열린 2024 국제역도연맹(IWF) 월드컵에서 5위를 차지하며 2024 파리올림픽 진출권도 따냈다.&lt;br&gt;&lt;br&gt;박주효는 지난 9일 파리올림픽 역도 남자 73㎏ 결선에서 인상 147㎏, 용상 187㎏, 합계 334㎏을 들어 7위를 했다. 용상 3차 시기에서 196㎏을 시도하다가 바벨을 등 뒤로 떨어트린 뒤 박주효는 눈물을 흘렸다. 박주효가 지난 4월 IWF 월드컵에서 들었던 합계 345㎏을 들었다면, 동메달도 딸 수 있었던 터라 아쉬움이 더 컸다.&lt;br&gt;&lt;br&gt;박주효는 “한 가지 바라는 점이 있다면 대회 때 그동안 나와 쭉 호흡을 맞췄던 지도자분께서 제 시합 때 작전을 맡아주셨으면 좋겠다”며 “내가 얼마나 준비했는지, 몇 ㎏을 자신 있게 하고 왔는지를 모르시는 분께서 지휘하다 보니까 내가 준비한 무게보다 너무 많이 다운시켰다”고 했다. 그러면서 “시합 도중 멘탈이 흔들릴 수밖에 없었던 것 같다”고 했다. 이 부분은 14일 정오 기준 박주효의 글에서 삭제된 상태다.&lt;br&gt;&lt;br&gt;다만, 박주효는 포기하지 않았다. 그는 “다음 올림픽까지 더 열심히 죽어라 준비할 테니까 역도라는 종목을 잊지 말고 계속 관심 가져주셨으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y4LPC7XY55BWZOOI5UVQCMAQBA.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;11일(한국시각) 프랑스 파리 사우스 파리 아레나에서 열린 2024 파리올림픽 역도 여자 81kg급에 출전한 박혜정이 3차 용상 173㎏ 실패 후 코치진을 쳐다보는 모습. /KBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 은메달을 딴 박혜정 역시 코치진 실수로 경기 진행이 매끄럽지 못했다고 털어놨다. 박혜정은 11일 역도 여자 81㎏ 이상급 경기에서 용상 3차 시기 17초가량 남기고 경기대에 급하게 올라섰다. 그는 2초가량 남기고 겨우 바벨을 잡았다. 바벨을 들어올리는 데 실패한 후 박혜정이 코치진을 흘겨보는 듯한 장면이 포착됐다.&lt;br&gt;&lt;br&gt;박혜정은 경기 직후 인터뷰에서 “금메달을 딸 기회가 있었는데 용상 3차 시기가 조금 많이 아쉬웠다”며 “조금만 더 시간이 넉넉했으면 좋았을 텐데 감독님께서 무게를 더 올릴지 고민하시다 사인을 못 했다”고 했다. 이어 “일단 ‘지금 빨리 들어가라’고 해서 올라갔는데 준비할 시간이 없었다. 그 상황도 그렇지만, 끝까지 잘 마무리하지 못한 나 자신에게도 화가 났다”고 했다.&lt;br&gt;&lt;br&gt;그는 “시합 끝나고 화가 많이 났다”면서도 “감독님이 미안하다고 하셨다. 저도 화났지만 괜찮다고 했다. 잘 마무리했다. 아쉬운 마음이 좀 크다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>노동당국, ‘근로자 사망’ 금호타이어 광주공장 중처법 위반 수사</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/14/AH6262HRFNE6BGDLRITPLRIA2M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/14/AH6262HRFNE6BGDLRITPLRIA2M/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Aug 2024 05:04:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VMSX53AGBKFJV66BSEFJKRLKVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;금호타이어 광주공장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노동당국이 근로자 사망사고가 발생한 금호타이어 광주공장에 대한 중대재해처벌법 위반 여부에 대한 수사에 착수했다.&lt;br&gt;&lt;br&gt;광주지방고용노동청은 14일 금호타이어 대표이사 A씨를 중대재해처벌 등에 관한 법률 위반 혐의로 입건해 수사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;지난달 2일 오후 5시쯤 금호타이어 광주공장에서 지게차에 적재된 고무 원자재가 쏟아져 40대 근로자 B씨가 숨지는 사고가 발생했었다.&lt;br&gt;&lt;br&gt;금호타이어 노조는 지난 8일 해당 사고와 관련해 A씨를 광주노동청에 고발했다. A씨는 경영 책임자로 사업장의 중대재해 예방·노동자 생명 보호 의무를 위반한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;경찰은 노동당국 수사와 별개로 50대 지게차 운전자를 업무상과실치사 혐의로 입건해 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/VMSX53AGBKFJV66BSEFJKRLKVA.jpg?width=1920&amp;height=1080&amp;auth=0b60c5087feb9aeb31e34b3a17d6a555713ce993230c75d16607a9867b57f6ed&amp;smart=true" type="image/jpeg" height="1080" width="1920">
-        <media:description type="plain">금호타이어 광주공장. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>주차 차량서 40대 여성 숨진 채 발견...경찰, 동승 남성 체포</title>
-      <link>https://www.chosun.com/national/incident/2024/08/14/KBSOU4K6NREPJPEGZ7GSDV5VKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/14/KBSOU4K6NREPJPEGZ7GSDV5VKY/</guid>
-      <dc:creator>양주=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Aug 2024 05:00:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKPU66JR2ZACLDQI47NNRQYETM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 앙주시 한 공터에 주차된 차량에서 40대 남녀가 피를 흘린 채 발견됐다. 발견 당시 여성은 숨진 상태였다. 경찰은 함께 있던 남성을 현행범으로 체포해 조사하고 있다.&lt;br&gt;&lt;br&gt;14일 경찰에 따르면 이날 오전 9시 30분쯤 지인인 40대 남성 A씨와 연락되지 않아 소재를 찾아달라는 취지의 112 신고가 접수됐다. 경찰은 신고 접수 1시간 만에 A씨의 위치를 추적해 양주시의 한 공터에 주차된 차량을 발견했다.&lt;br&gt;&lt;br&gt;당시 차 내부에는 A씨와 40대 여성 B씨가 피를 흘리며 쓰러져 있었다. A씨는 병원으로 옮겨져 치료받고 있고, B씨는 현장에서 이미 숨진 상태였다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 B씨를 살해했을 가능성이 큰 것으로 보고 A씨를 현행범으로 체포했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>정부 “전공의 복귀방해 엄중대응...끝까지 책임 묻겠다”</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/08/14/NJGFYNXCAVG7PDY4ZMFTQYXC6A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/14/NJGFYNXCAVG7PDY4ZMFTQYXC6A/</guid>
@@ -943,24 +945,6 @@
       <description/>
       <pubDate>Wed, 14 Aug 2024 02:38:13 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYXGGNFN4VAXPPOWIXRS7GXLNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;붐비는 서울 강남역 일대. 사진은 기사와 상관 없음. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;남성 회계사 A(29)씨는 작년 1월 21일 오전 1시쯤 서울 강남구 일대에서 처음 보는 한 여성 B씨를 상대로 ‘헌팅’을 시도했다. 그러나 헌팅은 실패로 돌아갔고, B씨는 이 과정에서 관리 소홀로 시가 230만원 상당의 명품 스카프를 바닥에 떨어뜨린 채 떠났다. A씨는 B씨의 스카프를 습득해 가져갔다.&lt;br&gt;&lt;br&gt;하지만 스카프를 잃어버린 B씨는 당시 탔던 택시 기사에게 혹시 스카프를 갖고 있는지 물어보는 등 스카프를 찾기 시작했다. 끝내 소재를 파악하지 못하자 같은 날 오후 8시쯤 경찰에 분실 신고를 했다. 경찰은 수사를 통해 A씨를 특정해냈는데, A씨는 B씨에게 스카프를 바로 돌려주지 않은 사실은 인정하면서도 그의 허락을 받아 스카프를 보관했을 뿐이라며 혐의를 부인했다. 또 자신이 헌팅 당시 B씨에게 연락처도 제공해 처음부터 반환 의사가 있었다고 주장했다.&lt;br&gt;&lt;br&gt;그러나 B씨는 신고하면서 A씨의 연락처를 제시하지 못하는 등 A씨의 신원을 전혀 파악하지 못하고 있었던 것으로 조사됐다. 헌팅으로 시작된 이 사건으로 A씨는 결국 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사12단독 구창규 판사는 점유이탈물횡령 혐의로 기소된 A씨에게 벌금 70만원을 선고했다고 14일 밝혔다. 그러면서 “A씨의 주장과 같이 B씨가 A씨의 연락처를 알았다면 B씨가 경찰 조력을 구하기 전에 A씨에게 먼저 반환을 요구했을 것”이라며 “A씨에게 반환 의사가 있었다면 스카프를 돌려줄 방법을 강구했어야 하는데, A씨는 수사기관의 연락이 올 때까지 이 스카프에 관해 아무런 조치도 취하지 않았다”고 지적했다. A씨는 억울하다며 1심 선고가 나온 직후 곧바로 항소장과 항소이유서를 제출했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인민 대신 주민, 텔레비 대신 TV... 北김정은, 한국식 표현 사용 눈길</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/14/7IJCJZW63BD45PFRSBGDFDXEEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/14/7IJCJZW63BD45PFRSBGDFDXEEY/</guid>
-      <dc:creator>김가연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Aug 2024 01:26:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHLDMFJA3ZNZVK3ISMX7AVPAW4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;북한 노동당 기관지 노동신문은 지난 10일 "경애하는 김정은 동지께서 8월 8일과 9일 평안북도 의주군 큰물(홍수)피해지역을 또다시 찾으시고 재해복구를 위한 중대조치들을 취해주셨다"고 보도했다. /노동신문 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김정은 북한 국무위원장이 지난 10일 홍수 피해를 입은 평안북도 의주군을 찾아 수해민들 앞에서 연설을 하는 과정에서 한국식 표현을 다수 사용했다고 자유아시아방송(RFA)가 14일 보도했다.&lt;br&gt;&lt;br&gt;RFA는 익명의 북한 소식통을 인용해 “지금까지 김정은이 여러 수해 피해 지역을 찾았지만 수해민들 앞에서 연설한 건 처음”이라며 “피해 현장을 찾아 사전 대책을 바로 세우지 않았다고 간부들을 욕하고 닦달질하던 모습과는 대조적”이라고 전했다. 김정은의 수해지역 방문 모습과 연설은 영상으로 제작돼 반복 방영되고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 소식통은 “연설 내용보다 김정은이 연설에서 남한 말을 많이 사용한 모습에 사람들이 놀랐다”고 전했다.&lt;br&gt;&lt;br&gt;이어 “연설 서두에서 흔히 사용하던 동지 혹은 인민이라는 말 대신 ‘주민’이라고 했고 노인이나 늙은이를 한국식으로 ‘어르신’이라고 했으며 텔레비죤도 ‘TV’라는 한국식 표현을 썼다”고 했다.&lt;br&gt;&lt;br&gt;RFA는 “북한에서는 나이든 사람을 가리킬 때 ‘노인’ 또는 ‘늙은이’라는 표현이 주로 쓰이고 이를 높여 부를 때는 ‘할아버지’, ‘할머니’가 사용되는 것으로 알려졌다”며 “북한에서는 텔레비죤을 줄여 보통 ‘텔레비’로 많이 부른다”고 설명했다. 이어 “’텔레비죤을 ‘TV’라고 하는 사람은 수상하니 신고하라’는 내용이 북한 반간첩 선전화(포스터)에도 등장한다”고 부연했다.&lt;br&gt;&lt;br&gt;소식통은 특히 연설에서 김정은이 사용한 “병약자, 험지, 음료수, 폄훼한다 등의 말은 북한에서는 거의 사용하지 않는 표현”이라고 했다. 북한에서는 그 대신 ‘허약자’ ‘어렵고 힘든 곳’ ‘물’ ‘비방’ 또는 ‘비하’라는 표현을 주로 쓴다고 한다.&lt;br&gt;&lt;br&gt;그러면서 “이 같은 연설문을 누군가 써준다 해도 김정은의 승인 없이 그런 단어를 사용할 수 있었겠느냐”라며 “주민들에게는 평양말을 사용하라고 하면서 자기는 한국말을 대놓고 쓰는데 이건 이치에 맞지 않는 처사”라고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“한국의 마이애미”...부산, 삶·일·여행 다 잡은 세계적 도시 꼽혀</title>
-      <link>https://www.chosun.com/national/2024/08/14/ZY463ZRJLVBA5MFF3I57ESU5JE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/08/14/ZY463ZRJLVBA5MFF3I57ESU5JE/</guid>
-      <dc:creator>부산=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Aug 2024 01:07:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PNUJH5M5QNDM5COG53D7XGUVYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7월 부산 해운대해수욕장. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산이 살기 좋고, 일과 여행하기 좋은 세계 최고의 도시 중 하나로 선정됐다.&lt;br&gt;&lt;br&gt;14일 부산시에 따르면 부산은 세계적 컨설팅사 레저넌스가 발표한 ‘세계에서 살기 좋고, 일과 여행하기 좋은 도시 100선’에서 67위를 차지했다. 도시 순위는 경제, 문화, 생활환경 등 다양한 요소를 종합적으로 평가해 선정했다고 한다. 전체 순위는 레저넌스가 발표한 ‘2024 세계 최고의 도시 평가 보고서’에서 확인할 수 있고, 미국 유력 잡지사 포브스가 보도했다.&lt;br&gt;&lt;br&gt;세계 100개 도시 중 1위부터 9위까지는 런던, 파리, 뉴욕, 도쿄, 싱가포르, 두바이, 샌프란시스코, 바르셀로나, 암스테르담이 이름을 올렸다. 대한민국에서는 서울(10위)과 부산이 100선에 포함됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2PVHEUC3FBZHNANMM3DJP3F7M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7월 13일 오후 부산 해운대해수욕장 일대 상공에서 대한민국 공군 특수비행팀 '블랙이글스'가 '제45회 국제우주연구위원회(COSPAR) 학술총회' 개막을 축하하는 곡예비행을 펼치고 있다. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;평가 보고서에 따르면 부산은 풍부한 자연과 현대적인 도시 기반 시설이 조화를 이룬 점에서 높은 평가를 받았다. 특히 부산을 한국의 마이애미로 표현하며, 국내·외 여행자들이 휴식을 위해 많이 찾는 곳으로, 국제적인 행사와 문화 활동이 도시 매력을 더욱 증대시키는 중요한 역할을 하고 있다고 설명했다.&lt;br&gt;&lt;br&gt;부산관광공사가 발표한 외국인 관광객 입국 동향에 따르면 부산을 방문한 외국인 관광객 수는 코로나19 유행 이전인 2019년과 비교해 90% 수준까지 회복했다. 부산은 지난해 세계적인 온라인 여행사인 트립닷컴이 선정한 ‘인기 급부상 여행지 글로벌 TOP2′에 올랐고, 내셔널지오그래픽 ‘2023년 숨이 막히도록 멋진 여행지와 여행 체험 25′에 아시아 도시 중에서는 유일하게 선정됐다. 지난 6월에는 뉴욕타임스가 소개하는 아름다운 해변을 가진 도시 5곳에 포함되기도 했다.&lt;br&gt;&lt;br&gt;박형준 부산시장은 “최근 국내외 다양한 매체들이 부산을 세계적인 수준의 생활과 비즈니스 환경, 여행하기 좋은 도시로 평가하고 있다”며 “세계인에게 사랑받을 수 있는 다양한 콘텐츠와 여행 환경을 구축해 나갈 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SHJPTID32RCADFTKYALH3XOSHQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7월 부산 영도구에 문을 연 몰입형 미디어아트 상설 전시관 '아르떼뮤지엄 부산'. 세계 최대 규모다. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 부산시는 지난 13일 ‘글로벌 관광허브도시’를 목표로, 2026년까지 외국인 관광객 300만명 이상을 유치한다는 비전을 발표했다. 세계가 주목하는 관광도시로 조성하고자 ‘하이엔드 관광 콘텐츠’를 집중 육성하기로 했다. 이를 위해 ‘문화관광 도시’ ‘워케이션 도시’ ‘야간관광 도시’ ‘미식관광 도시’로 나아간다는 목표를 세웠다.&lt;br&gt;&lt;br&gt;또 ‘글로벌 해양관광 도시’ 조성을 위한 기반 구축에도 나선다. 총 1조 원에 이르는 복합해양레저관광도시 정부 공모에 적극 대응하고, 수륙양용투어버스와 해상택시 등 새로운 해상관광 콘텐츠를 도입할 계획이다. 마이스산업 기반시설 조성, 글로벌 의료관광허브도시 조성도 추진한다. 시는 또 대한민국 제1호 국제관광도시로서 유엔세계관광기구와 협력을 강화하고 개방적이고 친화적인 여행환경 조성에 힘쓴다는 계획이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KHEHUBOL3ZGPZHRXMH4ZUEUQAQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7월 16일 오전 부산 금정구 한 댄스학원에서 해외 유명 대학교에서 선발된 외국인 학생 37명이 케이팝 댄스를 배우고 있다. 부산대 서머스쿨에 참가한 이들 학생은 7월 한 달 간  3학점을 취득하면서 39시간의 집중 한국어 강좌, 현장 학습, 전통문화 체험 등을 경험하게 된다. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>장미란 힘에 놀란 허미미?…화제 된 선수단 귀국 환영 장면</title>
