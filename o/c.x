@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>세종 조치원읍 저수지서 영아 시신 발견...경찰 수사</title>
+      <link>https://www.chosun.com/national/regional/2024/08/16/ZVT3CUQT4RDVFBCQE5LFRNUF7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/16/ZVT3CUQT4RDVFBCQE5LFRNUF7E/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 23:05:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXOJ6JDLRZBJ3JMT3HJAJ35O5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세종시의 한 저수지에서 영아 시신이 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;16일 세종 북부경찰서에 따르면 지난 15일 오후 6시 30분쯤 세종시 조치원읍의 한 저수지에서 ‘아기 시신이 물 위에 떠 있다’는 인근 주민의 신고가 접수됐다. 현장에 출동한 경찰과 소방 당국은 사후 강직이 진행된 영아 시신을 인양했다.&lt;br&gt;&lt;br&gt;조사 결과 시신은 태어난 지 얼마 안 돼 숨을 거둔 것으로 추정된다고 경찰은 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사인을 밝히기 위해 국립과학수사연구원에 시신 부검을 의뢰하는 한편, 자세한 사건 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“가열보다 안 좋아”…폭염에 생수병 꽁꽁 얼렸다간 ‘이것’ 폭탄</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/16/QZ3U5FRURZCGBDKU32QBSRREOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/16/QZ3U5FRURZCGBDKU32QBSRREOM/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 22:29:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AS5J425Q6NM35HJ3PLEGQKNPDQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;낮 최고기온이 30도를 넘어서는 등 무더운 날씨를 보인 11일 오후 서울 종로구 광화문광장 분수대 앞에서 어린이가 얼음물을 마시고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연일 이어지는 무더운 날씨에 생수병을 얼려 다니는 일이 많아지면서 일회용 플라스틱을 얼리면 가열할 때보다 더 많은 양의 미세플라스틱이 나올 수 있다는 연구결과가 뒤늦게 조명받고 있다.&lt;br&gt;&lt;br&gt;최근 여러 라인커뮤니티 등에는 미국 버지니아 공대와 중국 저장대가 일회용 페트병을 영하의 온도에서 얼린 뒤 녹이는 과정에서 미세플라스틱 등 유해물질이 얼마나 나오는지 알아보기 위해 진행한 연구결과가 공유됐다.&lt;br&gt;&lt;br&gt;지난 2월 국제 학술지 ‘유해 물질 저널’을 통해 발표한 이 연구에서 연구팀은 연구진은 두께 2.2㎜의 플라스틱 용기에 불순물이 없는 물을 담은 뒤 ▲동결과 해동 반복 ▲가열 ▲염소소독 ▲아무것도 하지 않은 경우로 나눠 실험했다.&lt;br&gt;&lt;br&gt;그 결과 해동을 반복한 용기에서는 하루 70~220개의 미세플라스틱 입자가 검출됐다. 가열한 용기에서는 70~130개, 염소 소독한 용기에서는 60~160개, 아무것도 하지 않은 용기에서는 3~66개가 나왔다.&lt;br&gt;&lt;br&gt;연구팀은 “미세플라스틱은 세포독성, 산화 스트레스 유발 등 건강에 잠재적인 위험을 미칠 수 있다”며 플라스틱병에 물을 담아 얼려 마시는 방식을 지양해야 한다고 주장했다.&lt;br&gt;&lt;br&gt;국내 전문가들도 얼린 생수병에서 평소보다 더 많은 미세플라스틱이 나올 수 있다며 주의를 당부했다.&lt;br&gt;&lt;br&gt;독고석 단국대 토목환경공학과 교수는 최근 먹는물네트워크가 대한환경공학회와 함께 주최한 포럼에서 “여름철 많은 소비자가 먹는샘물(생수) 등을 얼려 마시는데 미세 플라스틱을 다량 섭취하는 결과를 초래할 수 있다”며 “한국에 유통되는 먹는샘물 등을 연구해 관련 대책을 마련해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;안윤주 건국대 환경보건과학과 교수는 지난 15일 한 라디오 프로그램에 출연해 “여름에 생수병을 얼려서 먹는 경우가 많은데 얼리는 과정 중에 매끈했던 표면에 일종의 균열이 생기면서 거기서 작은 입자(미세플라스틱)가 발생한다”며 “얼리고 녹이는 과정이 여러번 반복될 수록 더 많은 균열이 생기고 (미세플라스틱이) 더 많이 떨어져 나오게 된다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “물 뿐만 아니라 다른 음료도 다 해당된다. 탄산수 같은 경우는 압이 가해지다 보니까 더 많이 나온다는 얘기도 있다”며 “반찬통도 마찬가지”라고 했다.&lt;br&gt;&lt;br&gt;미세플라스틱의 위험성에 대해서는 “처음에는 사람의 대변에서 검출됐고, 기증받은 시신에서 검출됐다. 최근에는 사람의 혈액에서까지 미세 플라스틱이 검출됐다. 사람의 피가 온몸을 다 타고 도는 만큼 몸속 어디든지 미세플라스틱이 다 갈 수 있다는 의미”라며 “장 손상, 장 누수를 유발하고 산화 스트레스를 일으켜서 염증과 각종 병을 유발할 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 을지연습 불시 소집에 출석률 99%… 그 뒤에 숨은 비밀</title>
       <link>https://www.chosun.com/national/national_general/2024/08/16/A7SZPCWD7VBRLN7LZWCPHBHLXE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/16/A7SZPCWD7VBRLN7LZWCPHBHLXE/</guid>
@@ -909,24 +927,6 @@
       <description/>
       <pubDate>Wed, 14 Aug 2024 06:21:46 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NNJBVQPVLVQ6N6S2OJH4RCRNKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지법은 14일 업무방해 혐의로 기소된 김경욱(사진) 전 인천국제공항공사 사장에 대해 무죄를 선고했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천국제공항공사 소유 부지에서 운영되던 골프장에 수도와 전기 공급을 끊은 김경욱 전 인천공항공사 사장에 대해 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;인천지법 형사8단독 성인혜 판사는 14일 업무방해 혐의로 불구속 기소된 김경욱(58) 전 사장과 전현직 임직원 2명에 대해 모두 무죄를 선고했다.&lt;br&gt;&lt;br&gt;성 판사는 “피고인들이 공항공사 소유 부지를 3개월여간 불법 점유한 채 골프장을 운영하던 업체(스카이72)에 대해 여러 차례 고지한 뒤, 중수도 공급을 끊고 단전을 실시한 건 업체 측의 권리를 과도하게 제한하는 것으로 보이지 않는다”며 “수단과 방법, 조치에 이르게 된 경위 등을 종합했을 때 사회 통념상 위법성이 없는 정당 행위에 해당한다”고 했다.&lt;br&gt;&lt;br&gt;또 “인천공항공사의 중수도 단수와 단전에도 업체 측은 상수도를 공급받아 조경 용수로 활용하는 등 비교적 정상적으로 골프장을 운영했다”며 “당시 분쟁은 원만하게 해결될 상황이 아니었고, 업체 측의 불법 점유에 따른 인천공항공사의 손해도 매일 발생하고 있었다”고 했다.&lt;br&gt;&lt;br&gt;성 판사는 다만 “피고인들의 행위가 처벌할 정도는 아니라는 것”이라며 “(단전과 단수 등이) 장려돼선 안 된다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 앞서 지난 5월 결심공판에서 김 전 사장에게 징역 4개월을, 나머지 임직원 2명에게는 각각 벌금 1000만원을 구형했다.&lt;br&gt;&lt;br&gt;김 전 사장과 전‧현직 임직원 등 3명은 지난 2021년 4월 인천시 중구 운서동 스카이72 골프장의 중수도와 전기 공급을 끊어 골프장 운영사인 ‘주식회사 스카이72′의 업무를 방해한 혐의로 불구속기소 됐다.&lt;br&gt;&lt;br&gt;김 전 사장 등은 골프장 운영 협약 기간이 2020년 12월 끝났음에도 스카이72가 골프장을 무단으로 점유하고 있다며 단수와 단전 조치를 했다.&lt;br&gt;&lt;br&gt;검찰은 인천공항공사가 스카이72와 ‘부동산 인도 등 소송’을 진행하던 상황에서 일방적으로 수도와 전기를 끊은 건 업무방해에 해당한다고 봤다.&lt;br&gt;&lt;br&gt;한편 2005년부터 인천공항공사 소유 부지에서 골프장을 영업해 온 스카이72는 지난 2020년 12월 31일 임대 계약 종료 이후 인천공항공사와 골프장 시설물 소유권 등을 둘러싼 법적 분쟁과 강제집행 끝에 지난해 3월 부지를 반환했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“전원 어떻게 꺼?” 예초기 작업 투입됐다 동료 숨지게 한 40대</title>
-      <link>https://www.chosun.com/national/incident/2024/08/14/L22WBF44ZFHBBG4L5EY7U73D5Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/14/L22WBF44ZFHBBG4L5EY7U73D5Q/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Aug 2024 06:16:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OIPGVGEQBNAI7SDRYROQIWNSRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제초 작업을 하던 40대가 작동 중인 예초기로 동료 작업자 다리를 다치게 해 과다 출혈로 숨지게 한 사건이 발생했다.&lt;br&gt;&lt;br&gt;14일 경찰 등에 따르면, 전남 무안경찰서는 과실치사 혐의로 40대 후반 A씨를 불구속 입건해 조사 중이다.&lt;br&gt;&lt;br&gt;A씨는 전날 오전 11시 20분쯤 무안군 청계면 한 농장에서 제초 작업에 투입됐다가 동료 작업자인 70대 B씨를 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 예초기를 멈추는 방법을 묻기 위해 B씨에게 다가갔다가 예초기로 B씨 다리를 다치게 했다. B씨는 병원으로 옮겨졌지만, 과다 출혈로 숨졌다.&lt;br&gt;&lt;br&gt;두 사람은 해당 농장에 고용된 일용직 근로자로 A씨는 예초기 작업에 처음 투입된 것으로 알려졌다. A씨는 경찰에 “예초기 전원을 끄는 법을 몰라 B씨에게 물으러 가던 중 실수로 날이 닿았다”고 진술했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 사건 경위를 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대구시, 동대구역 광장 명칭 ‘박정희 광장’으로 변경</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/14/LZKSUCYCIFBHXITM36SZZ2LNKM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/14/LZKSUCYCIFBHXITM36SZZ2LNKM/</guid>
-      <dc:creator>노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Aug 2024 06:03:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IN7QB7U5CYHDDP7NAJ3ZDFQRVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 동대구역 앞에서 열린 박정희 광장 표지판 제막식에서 홍준표 대구시장(빨간 점퍼) 등이 박수를 치고 있다./대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구의 관문으로 불리는 동대구역 광장에 ‘박정희 광장’이라고 쓰인 표지판이 들어섰다. 박정희 전 대통령의 산업화 정신을 기리자는 취지로 홍준표 대구시장이 동대구역 광장 명칭을 박정희 광장으로 바꾼 것이다. 대구시가 표지판 제막식을 열고 명칭 변경을 축하한 반면, 반대 단체들은 “시대 착오적 동상을 철거하라”며 맞불 집회를 열었다.&lt;br&gt;&lt;br&gt;대구시는 14일 동구 신암동 동대구역 광장에서 ‘박정희 광장 표지판 제막식’을 열었다. 광장 내에는 5m 높이 표지판이 하얀색 천에 덮힌 채 우뚝 서 있었다.&lt;br&gt;&lt;br&gt;앞서 지난 3월부터 홍준표 대구시장이 박정희 전 대통령 기념 사업을 추진하면서 동대구역 광장의 명칭 변경이 지역 내 화두로 떠올랐다. 홍 시장은 “대구에는 국채보상운동의 구국운동 정신, 2·28 자유 정신, 섬유공업을 일으킨 박정희의 산업화 정신이 있다”면서 “(지역에)박 전 대통령의 산업화 정신을 기리는 사업이 없다”고 한 바 있다.&lt;br&gt;&lt;br&gt;지난 5월 대구시는 박정희 대통령 기념사업 지원에 관한 조례를 제정하고 추진위원회를 구성했다. 이번 동대구역 광장 명칭 변경이 그 첫걸음인 셈이다.&lt;br&gt;&lt;br&gt;이날 제막식엔 홍 시장과 강은희 대구시교육감 등 관계자 80여명이 참석했다. 주요 인사들이 천을 걷어내면서 박 전 대통령의 사진 아래 ‘박정희 광장’ 다섯 글자가 세로로 새겨진 표지판이 모습을 드러내자 제막식 현장에선 박수가 터져나왔다.&lt;br&gt;&lt;br&gt;반면 같은 시각 표지판 너머에선 ‘동대구역 박정희 광장 표지판 설치 규탄 정당·시민단체 공동 기자회견’이 열렸다. 박정희우상화 사업 반대 범시민 운동본부가 주최한 이 기자회견엔 더불어민주당·진보당 등 정당 관계자와 시민 등 약 100명이 참가했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CW7JSICKEZK6HCXJX6MW2GU4D4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오전 대구 동구 동대구역 앞 광장에서 예정된 '박정희광장 표지판 제막식'을 앞두고 박정희광장 표지판 설치를 규탄하는 정당·시민단체 관계자들이 공동 기자회견을 열고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들은 “광복절에 친일 부역자 박정희 우상화 추진하는 홍준표 시장 규탄한다” “독재의 망령으로 동대구역을 더럽히지 말라” “대구를 보수 수구 도시로 전락시키는 박정희 우상화 사업 즉각 중단하라” 등의 구호를 외쳤다. 표지판에 막이 걷히자 “철거하라” “(표지판이)영화 ‘파묘’에서 일제가 민족 정기를 끊으려 심은 쇠말뚝 같다”며 반발했다.&lt;br&gt;&lt;br&gt;이날 제막식과 기자회견은 약 1시간정도 진행됐고, 양 측의 물리적 충돌은 없었다.&lt;br&gt;&lt;br&gt;대구시는 연말까지 광장에 박 전 대통령 동상을 설치하고 내년에는 남구에 박정희 공원을 조성한다. 또 다른 동상도 설치할 계획이다.&lt;br&gt;&lt;br&gt;홍 시장은 “산업화 정신을 바탕으로 대구가 다시 한번 도약할 수 있도록 시민들께서 그 의미를 함께 해달라”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>정부 “전공의 복귀방해 엄중대응...끝까지 책임 묻겠다”</title>
