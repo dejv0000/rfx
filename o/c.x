@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>포항 앞바다서 실종된 50대 남성 숨진 채 발견</title>
+      <link>https://www.chosun.com/national/regional/2024/08/17/XM7ET4GT65CLRM3YYCX5VAQ4AU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/17/XM7ET4GT65CLRM3YYCX5VAQ4AU/</guid>
+      <dc:creator>포항=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 17 Aug 2024 03:02:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HDS6MJM6R5HLJC4OGS5WJ64WOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 16일 경북 포항 앞바다에서 수상 오토바이를 타다가 물에 빠져 실종됐던 50대 남성이 숨진 채 발견됐다. 사진은 포항해경 관계자들이 실종자를 수색하고 있는 모습./포항해양경찰&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 16일 경북 포항 앞바다에서 실종됐던 50대 남성이 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;포항해양경찰서는 17일 오전 9시 50분쯤 포항시 북구 송라면 지경항 앞 해상에서 실종된 A씨를 수중에서 발견했다고 이날 밝혔다.&lt;br&gt;&lt;br&gt;앞서 A씨는 전날인 16일 오후 3시 34분쯤 이곳 해상에서 수상 오토바이를 타다가 물에 빠지는 사고를 당한 뒤 실종됐다. 신고를 받은 해경은 사고 해역에 경비함정 1척과 연안 구조정 2척, 구조대 1척, 항공기 1대 등을 투입해 실종자 수색에 나섰다. A씨가 발견된 지점은 사고 발생 장소에서 동쪽으로 100ｍ가량 떨어진 곳이었다고 포항 해경 측은 밝혔다.&lt;br&gt;&lt;br&gt;포항 해경 관계자는 “목격자 등을 상대로 정확한 사고 경위를 조사 중”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>어린이집·유치원·학교 30ｍ 이내 흡연시 10만원 이하 과태료</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/17/VGK6UG5RORF3LHFZPOH3G7QYXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/17/VGK6UG5RORF3LHFZPOH3G7QYXI/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 17 Aug 2024 02:53:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YL3PDI6PC5JCXKKD7XAVZA3I3E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;보건복지부에 따르면 오는 17일부터 어린이집, 유치원, 초·중·고교 경계 30m 이내까지 금연구역으로 지정되고, 해당 구역에서 흡연 시 10만원 이하의 과태료를 부과한다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일부터 어린이집, 유치원, 초·중·고등학교 경계 30ｍ 안에서 흡연하면 10만원 이하의 과태료가 부과된다. 그동안 어린이집, 유치원 주변 10ｍ 이내가 금연 구역이었지만 구역이 확대됐고, 학교 주변도 새로 지정됐다.&lt;br&gt;&lt;br&gt;보건복지부는 이날부터 어린이집, 유치원, 초·중·고등학교 경계 30m 이내를 금연구역으로 지정하고 위반 시 과태료를 부과한다고 밝혔다. 지난해 8월 국민건강증진법 개정을 통해 교육시설 인근 금연 구역을 확대·신설했으며, 1년간 유예기간을 거쳐 시행된다.&lt;br&gt;&lt;br&gt;각 지차제는 어린이집, 유치원, 초중고교 시설의 경계 30ｍ 이내가 금연 구역임을 알리는 표지를 건물 담장과 벽면, 보도 등에 설치해야 한다. 복지부와 한국건강증진개발원은 포스터, 표지, 현수막 등 홍보물을 제작해 배포하는 등 홍보 활동도 강화할 계획이다.&lt;br&gt;&lt;br&gt;배경택 보건복지부 건강정책국장은 “교육시설 주변의 금연구역 확대는 간접 흡연에 취약한 아동·청소년의 건강 보호를 위해 필요한 조치”라며 “앞으로도 지역사회 금연 환경 조성에 최선을 다하겠다”라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>태광 이호진, 누나 상대 ‘차명 유산’ 2심도 승소</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/17/VB7DOSQN7FHA5FSKIJ7DXN5TBY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/17/VB7DOSQN7FHA5FSKIJ7DXN5TBY/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 17 Aug 2024 02:40:32 +0000</pubDate>
+      <content:encoded>이호진 전 태광그룹 회장이 누나 재훈씨를 상대로 상속 재산을 돌려달라는 소송을 내 2심에서도 승소했다. 다만 이 전 회장 몫으로 인정된 돈은 1심 때보다 크게 줄었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KAKM3FXWKVCPEJA63XNADHK7PE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이호진 전 태광그룹 회장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 법조계에 따르면 서울고법 민사6-3부(재판장 이경훈)는 이 전 회장이 이씨를 상대로 낸 손해배상 청구 소송에서 “이씨가 이 전 회장에게 153억5000만원과 지연이자를 지급하라”고 판결했다. 앞서 1심은 작년 6월 이씨가 이 전 회장에게 400억원과 지연이자를 지급하라고 판단했었다.&lt;br&gt;&lt;br&gt;태광그룹 창업주 고(故) 이임용 선대회장은 사망 전인 1996년 9월 ‘아내 이선애씨와 아들들에게 재산을 나눠 주되 나머지 재산이 있으면 유언집행자인 이기화 전 회장(이호진 전 회장의 외삼촌, 2019년 작고) 뜻대로 처분하라’는 취지의 유언을 남겼다. 딸들에게는 상속재산을 남기지 않았다.&lt;br&gt;&lt;br&gt;당시 특정되지 않았던 ‘나머지 재산’은 이 선대회장이 차명으로 갖고 있던 주식과 채권으로 2010~2011년 검찰 수사와 국세청 세무조사 등을 통해 드러났다. 검찰 수사가 진행 중이던 2010년 태광그룹 자금관리인은 이씨에게 차명재산 중 일부인 400억원의 채권을 맡겼다. 태광그룹은 2012년 이씨에게 해당 채권을 반환하라고 요청했으나 이씨는 이에 응하지 않았다.&lt;br&gt;&lt;br&gt;이 전 회장은 지난 2020년 이씨를 상대로 이를 돌려달라며 소송을 냈다. 해당 채권은 자신이 단독 상속했으며 이씨에게는 잠시 맡긴 것뿐이라는 취지로 주장했다. 반면 이씨는 선대회장의 유언은 무효고, 채권증서 보관을 위탁받은 적도 없다며 맞섰다.&lt;br&gt;&lt;br&gt;1심 재판부는 이 선대회장의 유언이 ‘나머지 재산’의 처분에 아무런 제한을 두지 않아 유언의 방식을 갖추지 못해 무효라고 판단하면서도 이씨가 상속회복청구를 할 수 있는 기간이 지났으므로 이미 해당 채권은 이 전 회장 소유가 됐다고 판단했다.&lt;br&gt;&lt;br&gt;2심도 채권이 이 전 회장 소유라고 판단했는데 그 근거는 1심과 다소 달랐다. ‘나머지 재산’에 관한 선대회장의 유언은 유효하고, 이기화 전 회장의 의사에 따라 이 전 회장이 채권을 적법하게 물려받았다는 취지로 판단했다.&lt;br&gt;&lt;br&gt;재판부는 “유언에는 그룹 경영권을 이 전 회장에게 양도한다는 내용도 있는데, 이를 위해서는 그가 차명 재산을 반드시 가져야 한다”고 짚었다. 이기화 전 회장이 차명 재산을 이 전 회장에게 넘기도록 한 게 유언의 취지라고 본 것이다.&lt;br&gt;&lt;br&gt;다만 이씨가 보유한 채권의 규모로는 금융거래내역 등을 통해 명확하게 입증된 153억5000만원만 인정해 이 전 회장에게 반환할 돈도 이 액수에 그친다고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“여기서 도박하지 마라”...도박하다 돈 잃고 흉기 난동 벌인 50대 男 징역 1년 4개월</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/17/ZTXPKQXLSZCVDKYWTB4EQ2J77Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/17/ZTXPKQXLSZCVDKYWTB4EQ2J77Y/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 17 Aug 2024 01:37:41 +0000</pubDate>
+      <content:encoded>수퍼마켓 근처에서 도박을 하다 돈을 잃은 사실에 화가 나 수퍼 안에 있던 식칼을 가지고 나온 뒤 난동을 벌인 50대 남성에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CTGM24Z25EX3A2HETGLAQPMMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사10단독 류경진 부장판사는 특수상해 혐의로 기소된 한모씨에게 징역 1년 4개월을 선고했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;무직인 한씨는 지난 4월 19일 오후 8시쯤 서울 중구의 한 수퍼 앞 공터에서 50대 남성 A씨 및 동네 주민들과 도박을 했다. 그러다 한씨는 A씨에게 약 100만원을 잃게 됐는데, 이에 화가 나 A씨를 향해 “앞으로 여기서 도박하지 마세요”라고 소리쳤다.&lt;br&gt;&lt;br&gt;이후 한씨는 수퍼 안으로 들어가 그곳에 있던 식칼을 들고 나와 A씨의 왼쪽 어깨 및 왼쪽 새끼 손가락 등을 한 번씩 찌른 뒤 손으로 A씨의 목덜미를 잡고 그를 밀쳤다. 바닥에 넘어진 A씨는 약 12주간의 치료가 필요한 부상을 입었다.&lt;br&gt;&lt;br&gt;10회의 폭력 관련 전과가 있던 한씨는 지난 1월 서울중앙지법에서 이미 사기죄로 징역 1년 집행유예 2년을 선고 받고 판결이 확정된 집행유예 기간에 이런 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;류 부장판사는 “한씨가 자신의 잘못을 반성하고 있는 점과 피해자 등과 노름을 하다 우발적으로 이 사건 범행을 저지른 사실 등을 종합했다”며 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;한편 한씨는 1심 선고에 불복해 항소장을 제출했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고속도로 달리던 버스에서 불…졸음쉼터로 대피해 인명피해없어</title>
+      <link>https://www.chosun.com/national/regional/2024/08/17/YD2DLXABGVAWRET5XYWBORRTUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/17/YD2DLXABGVAWRET5XYWBORRTUU/</guid>
+      <dc:creator>노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 17 Aug 2024 01:06:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I762DTJ2R5G4JBI4CLKVE4LGAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 16일 오후 경부고속도로를 달리던 버스에서 기계적 요인으로 추정되는 불이 났다. 사진은 출동한 소방관들이 진화작업을 벌이고 있는 모습./경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;승객을 태우고 고속도로를 달리던 버스에서 불이 났다.&lt;br&gt;&lt;br&gt;17일 경북소방본부에 따르면 지난 16일 오후 1시 39분쯤 경북 영천시 북안면 경부고속도로 경주 방향으로 달리던 고속버스에서 불이 났다. 연기가 나는 것을 확인한 운전기사 A씨는 인근 졸음쉼터로 들어가 차를 세웠다. 이후 신고를 받고 출동한 소방당국은 소방차 10대와 대원 24명을 투입해 27분 만에 불을 껐다. &lt;br&gt;&lt;br&gt;이 불로 버스가 불에 타 소방서 추산 5500여만 원의 재산 피해가 났다. 화재 당시 승객이 타고 있었지만, 불길이 커지기 전에 버스 밖으로 대피해 인명 피해는 없었다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 정확한 화재 원인 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 27일째 열대야…2018년 넘어 최장 기록</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/08/17/KYNN4BNUZZDGHIPP4UBFA4BHIE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/08/17/KYNN4BNUZZDGHIPP4UBFA4BHIE/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 16 Aug 2024 23:51:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YNS2M37IVOANMVPW6WBEPYEIFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오후 서울 광화문광장 분수대에서 아이들이 더위를 식히고 있다. 2024.8.16/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울에 27일째 열대야(熱帶夜)가 발생하면서 118년 만에 최장 기록을 썼다고 기상청이 17일 밝혔다. 27일 연속 열대야는 ‘최악의 여름’으로 꼽히는 2018년(26일)을 넘어 역대 가장 긴 기록이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 16일 밤에서 17일 아침 사이 서울의 밤 최저기온이 섭씨 27.2도를 기록해 지난달 21일부터 27일째 열대야(밤 최저기온 25도 이상)가 발생했다.&lt;br&gt;&lt;br&gt;부산은 지난달 25일 이후 23일째, 제주는 지난달 15일 이후 33일째 열대야가 이어지고 있다. 간밤 부산은 최저기온이 26.6도, 제주는 27.1도(서귀포)였다.&lt;br&gt;&lt;br&gt;올여름 열대야가 유독 심한 것은 해수면 온도 상승의 영향이 원인으로 꼽힌다. 열은 뜨거운 쪽에서 차가운 쪽으로 이동하는 성질이 있는데, 해수면 온도가 올라감에 따라 해가 떨어진 밤사이 바다에서 육지로 부는 해풍이 많아지면서 밤 공기를 뜨겁게 만들었다는 것이다.&lt;br&gt;&lt;br&gt;현재 수도권 일대에 밤 더위를 견인하는 바람은 고온건조한 동풍(東風)이다. 이 바람은 동해상에서 강원 영동 지방으로 들어온다. 태백산맥을 넘으며 바람이 더 뜨거워지고, 이 열풍이 밤사이 영서 지방의 수은주를 떨어뜨리지 않으면서 열대야가 이어지고 있다.&lt;br&gt;&lt;br&gt;보통 8월 더위는 광복절(15일)과 절기상 처서를 지나면 한풀 꺾여왔다. 2018년 서울 열대야는 광복절에 끝났다. 그러나 올해는 폭염과 열대야가 광복절을 지나 장기화하고 있다. 올 처서인 22일에도 기온은 떨어지지 않을 가능성이 크다. 기상청은 오는 26일까지 최저 24~26도, 최고 30~34도의 기온 분포를 보일 것으로 예상했다.&lt;br&gt;&lt;br&gt;17일 낮 최고기온은 30~35도로 예보됐다. 제주를 제외한 전국에 5~40㎜ 내외의 소나기가 내리겠고, 강수량이 많은 지역에선 60㎜까지 내리는 곳도 있겠다.&lt;br&gt;&lt;br&gt;일요일인 18일도 최저 22~27도, 최고 30~35도로 더위가 이어질 전망이다. 18일은 소나기가 더 거세져 전국에서 5~60㎜의 강수량이 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>발암물질 폐수로 4년간 무단 배출…50대 빵 공장 대표 ‘벌금형’</title>
+      <link>https://www.chosun.com/national/regional/2024/08/17/NLVSXC7XN5GNFBIP5YBTFMNBRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/17/NLVSXC7XN5GNFBIP5YBTFMNBRY/</guid>
+      <dc:creator>노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 17 Aug 2024 00:11:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RIFG3TNLCBHNFLVN75OUOVHNJE.png"&gt;&lt;figcaption&gt;&lt;small&gt;전주지법 청사 전경. /전주지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;발암물질을 폐수로 무단 배출한 빵 공장 대표가 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;전주지법 형사3단독(재판장 정재익)은 물환경보전법 위반 혐의로 재판에 넘겨진 빵 공장 대표 50대 A씨와 그가 운영하는 법인에 각각 벌금 500만원을 선고했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;완주군에서 빵 공장을 운영하는 A씨는 지난 2019년 7월부터 지난해 4월까지 아크릴로나이트릴을 폐수로 흘려보낸 혐의로 기소됐다. 아크릴로나이트릴은 세계보건기구(WHO) 산하 국제 암연구소에서 발암물질로 규정한 유해 물질이다.&lt;br&gt;&lt;br&gt;또 A씨는 환경 당국이나 지자체의 허가를 받지 않은 채 임의로 유해 물질을 배출하는 설비를 설치해 빵류 등을 제조한 것으로 드러났다. A씨는 2011년에도 같은 혐의로 법원에서 벌금 200만원의 약식명령을 받은 것으로 드러났다.&lt;br&gt;&lt;br&gt;재판부는 “피고인이 배출한 물질은 암을 유발하는 등 불특정 다수의 건강에 위해를 가할 수 있어 엄히 처벌할 필요가 있다”면서도 “피고인이 공장 가동 과정에서 특정수질유해물질이 검출될 것을 예상하지 못했던 것으로 보이고, 배출된 유해 물질의 양이 허용기준을 초과하지 않은 점 등을 고려했다”고 양형이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>근황 뜸하더니... 장근석, 갑상샘암 투병 고백 “수술 잘 마쳐”</title>
       <link>https://www.chosun.com/national/people/2024/08/17/4DUU42SPBNDKDOTIPZV2TY5EZQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/17/4DUU42SPBNDKDOTIPZV2TY5EZQ/</guid>
@@ -891,68 +954,6 @@
       <description/>
       <pubDate>Thu, 15 Aug 2024 23:05:35 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXOJ6JDLRZBJ3JMT3HJAJ35O5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세종시의 한 저수지에서 영아 시신이 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;16일 세종 북부경찰서에 따르면 지난 15일 오후 6시 30분쯤 세종시 조치원읍의 한 저수지에서 ‘아기 시신이 물 위에 떠 있다’는 인근 주민의 신고가 접수됐다. 현장에 출동한 경찰과 소방 당국은 사후 강직이 진행된 영아 시신을 인양했다.&lt;br&gt;&lt;br&gt;조사 결과 시신은 태어난 지 얼마 안 돼 숨을 거둔 것으로 추정된다고 경찰은 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사인을 밝히기 위해 국립과학수사연구원에 시신 부검을 의뢰하는 한편, 자세한 사건 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“가열보다 안 좋아”…폭염에 생수병 꽁꽁 얼렸다간 ‘이것’ 폭탄</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/16/QZ3U5FRURZCGBDKU32QBSRREOM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/16/QZ3U5FRURZCGBDKU32QBSRREOM/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 15 Aug 2024 22:29:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AS5J425Q6NM35HJ3PLEGQKNPDQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;낮 최고기온이 30도를 넘어서는 등 무더운 날씨를 보인 11일 오후 서울 종로구 광화문광장 분수대 앞에서 어린이가 얼음물을 마시고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연일 이어지는 무더운 날씨에 생수병을 얼려 다니는 일이 많아지면서 일회용 플라스틱을 얼리면 가열할 때보다 더 많은 양의 미세플라스틱이 나올 수 있다는 연구결과가 뒤늦게 조명받고 있다.&lt;br&gt;&lt;br&gt;최근 여러 라인커뮤니티 등에는 미국 버지니아 공대와 중국 저장대가 일회용 페트병을 영하의 온도에서 얼린 뒤 녹이는 과정에서 미세플라스틱 등 유해물질이 얼마나 나오는지 알아보기 위해 진행한 연구결과가 공유됐다.&lt;br&gt;&lt;br&gt;지난 2월 국제 학술지 ‘유해 물질 저널’을 통해 발표한 이 연구에서 연구팀은 연구진은 두께 2.2㎜의 플라스틱 용기에 불순물이 없는 물을 담은 뒤 ▲동결과 해동 반복 ▲가열 ▲염소소독 ▲아무것도 하지 않은 경우로 나눠 실험했다.&lt;br&gt;&lt;br&gt;그 결과 해동을 반복한 용기에서는 하루 70~220개의 미세플라스틱 입자가 검출됐다. 가열한 용기에서는 70~130개, 염소 소독한 용기에서는 60~160개, 아무것도 하지 않은 용기에서는 3~66개가 나왔다.&lt;br&gt;&lt;br&gt;연구팀은 “미세플라스틱은 세포독성, 산화 스트레스 유발 등 건강에 잠재적인 위험을 미칠 수 있다”며 플라스틱병에 물을 담아 얼려 마시는 방식을 지양해야 한다고 주장했다.&lt;br&gt;&lt;br&gt;국내 전문가들도 얼린 생수병에서 평소보다 더 많은 미세플라스틱이 나올 수 있다며 주의를 당부했다.&lt;br&gt;&lt;br&gt;독고석 단국대 토목환경공학과 교수는 최근 먹는물네트워크가 대한환경공학회와 함께 주최한 포럼에서 “여름철 많은 소비자가 먹는샘물(생수) 등을 얼려 마시는데 미세 플라스틱을 다량 섭취하는 결과를 초래할 수 있다”며 “한국에 유통되는 먹는샘물 등을 연구해 관련 대책을 마련해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;안윤주 건국대 환경보건과학과 교수는 지난 15일 한 라디오 프로그램에 출연해 “여름에 생수병을 얼려서 먹는 경우가 많은데 얼리는 과정 중에 매끈했던 표면에 일종의 균열이 생기면서 거기서 작은 입자(미세플라스틱)가 발생한다”며 “얼리고 녹이는 과정이 여러번 반복될 수록 더 많은 균열이 생기고 (미세플라스틱이) 더 많이 떨어져 나오게 된다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “물 뿐만 아니라 다른 음료도 다 해당된다. 탄산수 같은 경우는 압이 가해지다 보니까 더 많이 나온다는 얘기도 있다”며 “반찬통도 마찬가지”라고 했다.&lt;br&gt;&lt;br&gt;미세플라스틱의 위험성에 대해서는 “처음에는 사람의 대변에서 검출됐고, 기증받은 시신에서 검출됐다. 최근에는 사람의 혈액에서까지 미세 플라스틱이 검출됐다. 사람의 피가 온몸을 다 타고 도는 만큼 몸속 어디든지 미세플라스틱이 다 갈 수 있다는 의미”라며 “장 손상, 장 누수를 유발하고 산화 스트레스를 일으켜서 염증과 각종 병을 유발할 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 을지연습 불시 소집에 출석률 99%… 그 뒤에 숨은 비밀</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/16/A7SZPCWD7VBRLN7LZWCPHBHLXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/16/A7SZPCWD7VBRLN7LZWCPHBHLXE/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 15 Aug 2024 20:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZC3PXBZW7ZJ6PMNRV57KVZC65Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 행정안전부 장관이 지난 14일 오전 서울 종로구 정부서울청사에서 2024년 을지연습 비상소집 응소 명부를 작성하고 있다. /행정안전부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘98.7%.’&lt;br&gt;&lt;br&gt;지난 14일 오전 5시 45분에 열린 전국 공무원 비상 소집 훈련의 출석률이다. 갑자기 부르는 이른바 ‘불시 훈련’인데도 출석률이 거의 100%다. 정부에서 미리 “13~14일쯤 소집할 것”이라는 내용의 공문을 보내준 덕이다. ‘사전에 공지된 불시 훈련’에 실효성이 있느냐는 지적이 나온다.&lt;br&gt;&lt;br&gt;15일 인사혁신처가 채현일 더불어민주당 의원에게 제출한 ‘을지연습 비상소집 응소 현황’에 따르면, 지난 14일 전국의 소집 대상 공무원 12만7789명 중 1시간 이내에 출석을 완료한 사람은 12만6079명이었다. 행정안전부 등 정부부처 출석률은 99.5%, 지자체는 98%로 집계됐다. 전국 교육청에선 훈련 대상 5656명 중 4명 빼고 다 1시간 이내에 도착해 출석률이 99.9%에 달한다.&lt;br&gt;&lt;br&gt;정부는 매년 전쟁 등 비상사태에 대비하기 위해 정부 부처·지자체 공무원 등을 대상으로 ‘을지연습’을 진행한다. 불시 소집은 올해 처음이다. 원래 을지연습 기간 첫날 새벽에 훈련을 해왔는데, 올해는 “형식적 훈련 말고 제대로 된 훈련을 하자”며 불시 소집으로 바꿨다.&lt;br&gt;&lt;br&gt;하지만 행안부는 지난 7월 각 부처와 지자체에 “13일 또는 14일에 불시 소집할 예정”이라는 예고 공문을 보낸 것으로 전해졌다. 정확한 일시까지 알려준 것은 아니지만, 공무원들 사이에선 “간부급 일정을 보면 14일 새벽에 부를 것 같다”는 말이 돌았다고 한다. 정부 부처의 한 국장급 인사는 “직원들이 지난 13일 ‘오늘 안 불렀으니 내일(14일) 새벽이 확실하네요’라고 하는데, 할 말이 없더라”고 했다.&lt;br&gt;&lt;br&gt;행안부 관계자는 “100% 비공개로 ‘깜깜이’ 소집을 했다면 공무원 불만이 폭주하지 않았겠느냐”며 “(사전 공지는) 어느 정도 타협한 결과”라고 했다. 채현일 의원은 “보여주기식 훈련이 아니라 진짜로 비상 대응 역량을 강화할 수 있는 훈련 방법을 마련해야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘새벽조’ 출근 길, 졸음운전 사고 뇌출혈… 법원 “출퇴근 재해 맞다”</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/16/7KVEMYJQKNHZPONSV3P62YU3GA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/16/7KVEMYJQKNHZPONSV3P62YU3GA/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 15 Aug 2024 15:55:42 +0000</pubDate>
-      <content:encoded>새벽 근무에 적응하지 못해 출근길 졸음운전 사고로 뇌출혈 진단을 받은 근로자에게 법원이 ‘출퇴근 재해’를 인정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PN2FKJA7XJHIVLOA2K6VUFQYEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울가정법원·서울행정법원 청사. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 법조계에 따르면 서울행정법원 행정11단독 김주완 판사는 경기 파주시 한 회사에서 청소업무를 하던 근로자 A(72)씨가 근로복지공단을 상대로 낸 요양불승인 처분 취소 소송에서 최근 원고 승소로 판결을 내렸다.&lt;br&gt;&lt;br&gt;A씨는 2019년 3월 26일 오전 4시 37분쯤 ‘새벽조’ 출근을 위해 경기 고양시 집에서 파주로 승용차를 몰고 가던 중 깜빡 졸아 중앙선을 넘어 반대편 갓길에 있는 전신주를 들이받았다. 병원으로 옮겨진 A씨는 사고 충격으로 ‘개방창이 없는 대뇌출혈’ ‘기저핵의 뇌내출혈’ 등 진단을 받았다.&lt;br&gt;&lt;br&gt;A씨는 2021년 7월 뇌출혈이 업무상 질병 또는 출퇴근 재해에 해당한다며 근로복지공단에 요양급여신청을 했다. 그러나 공단은 뇌출혈 관련 업무 부담 요인이 높지 않고, A씨가 과거 고혈압·심장질환 등으로 치료받은 사실이 있는 점 등을 종합해 인과 관계를 인정하기 어렵다고 결정했다. 이에 A씨는 작년 2월 소송을 냈다.&lt;br&gt;&lt;br&gt;이에 대해 김 판사는 A씨의 업무와 뇌출혈 사이에 인과 관계가 있다고 봤다. 김 판사는 “불규칙적인 교대제 근무로 새벽조 근무에 미처 적응하지 못한 채 출근하다가 졸음운전 사고가 발생했을 가능성이 높고, 고혈압 등 기저질환에 교통사고로 인한 혈압 상승 등이 겹쳐 뇌출혈이 발생한 것으로 보인다”고 했다. 그러면서 “A씨가 통상적인 경로와 방법으로 출근을 하던 중 발생한 사고로 뇌출혈이 발병했기 때문에, 이는 산업재해보상보험법이 정한 ‘출퇴근 재해’에 해당한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 검찰, 文 전 대통령 부부 계좌 추적</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/16/PNPHAUFRT5GRRGDI7E2QH2C5MA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/16/PNPHAUFRT5GRRGDI7E2QH2C5MA/</guid>
-      <dc:creator>이슬비 기자, 방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 15 Aug 2024 20:03:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WJVI2INKBVNTZEKFRKQYQWFYQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문재인 전 대통령과 김정숙 여사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 전 대통령의 전 사위 서모씨의 ‘타이이스타젯 특혜 채용’ 의혹을 수사 중인 검찰이 문 전 대통령 부부의 계좌 거래 내역을 조사 중인 것으로 15일 알려졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 전주지검 형사3부(부장 한연규)는 최근 문 전 대통령과 김정숙 여사에 대한 금융 계좌 추적용 압수 수색 영장을 법원에서 발부받아, 딸 다혜씨 가족과의 자금 거래 흐름을 분석 중인 것으로 전해졌다. 영장에는 문 전 대통령 부부 명의의 계좌와 혐의, 기간 등이 특정돼 있다고 한다.&lt;br&gt;&lt;br&gt;이번 계좌 추적은 문 전 대통령 부부가 딸 다혜씨 가족의 생활비를 언제부터, 얼마나 지원해 왔는지, 언제 지원이 끊겼는지 등을 파악하는 게 목적이다. 검찰은 문 전 대통령 부부가 결혼 후 일정한 수입원이 없던 딸 가족에게 생활비를 지원해 오다가 전 사위 서씨가 타이이스타젯에 취직한 뒤부터 생활비 지원을 중단한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;문제는 특혜 채용 의혹을 받는 서씨의 취직 후 생활비 지원이 끊겼다면, 서씨의 월급과 주거비 지원 등 타이이스타젯의 각종 지원이 문 전 대통령에 대한 뇌물로 판단될 수 있다는 점이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QNEV37TT4RGGTGS4WYE2CBAI3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상직 전 더불어민주당 의원. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 이상직 전 민주당 의원이 2018년 3월 중소벤처기업진흥공단(중진공) 이사장으로 임명된 직후, 문 전 대통령의 전 사위 서씨의 타이이스타젯 채용, 가족의 태국 이주 등이 일사천리로 이뤄진 점에 주목하고 있다. 이 전 의원이 2018년 7월 항공 업계 경력이 전무한 서씨를 자신이 실소유주로 있는 타이이스타젯 임원으로 취직시킨 점, 중진공 직원들을 동원해 서씨 가족의 태국 이주를 도운 점 등이 중진공 이사장 자리의 대가가 아닌지 의심하고 있는 것이다.&lt;br&gt;&lt;br&gt;서씨는 2020년 초까지 태국에 있으면서 매월 800만원의 급여와 350만원가량의 집 렌트비 등을 회사에서 받았고, 다혜씨 가족은 한국을 오갈 때 이스타항공 여객기도 무료로 이용했다고 한다. 이 기간 지원 규모가 2억원이 넘는 것으로 검찰은 보고 있다. 차장 검사 출신 한 변호사는 “자녀가 독립 생계를 유지하지 못한 상태에서 부모가 주던 생활비를 타이이스타젯 등 이상직 전 의원 측이 대신 대줬다면, 그 돈은 이 전 의원이 문 전 대통령에게 준 뇌물로 볼 여지가 충분해 보인다”고 말했다.&lt;br&gt;&lt;br&gt;검찰은 또 이 전 의원이 창업한 이스타항공이 2019년 관광 수요가 많은 중국, 싱가포르 등 여러 알짜배기 노선 운항권을 국토교통부에서 배분받고, 2020년 4월 총선 당시 전북 전주을 지역구에서 민주당 공천을 받아 국회의원이 된 점 등도 다혜씨 가족을 도운 대가인지 확인 중이다.&lt;br&gt;&lt;br&gt;한편, 검찰의 ‘늑장 수사’를 비판하는 목소리도 나온다. 이 사건 수사는 지난 2020년 국민의힘 고발로 시작됐는데 4년 가까이 결론을 내지 못하고 있는 것이다. 조현옥 전 청와대 인사수석 등 문재인 정부 인사들을 소환했지만 수사가 수년째 이어지다 보니 반발만 커지는 분위기다. 최근 검찰이 이 전 의원의 중진공 이사장 임명 과정을 수사하기 위해 임종석 전 대통령 비서실장에게 소환 통보를 하자, 임 전 실장은 페이스북에 “언제까지 정치 보복 수사를 계속하려는 것인지 묻지 않을 수 없다”고 했다.&lt;br&gt;&lt;br&gt;문 전 대통령의 전 사위 서씨는 올해 초 3차례 검찰 조사를 받았지만 진술 거부권을 행사한 것으로 전해졌다. 수사팀 내부에선 작년부터 문 전 대통령 부부의 계좌 추적을 서둘러야 한다는 요구가 있었지만, 대검 등 지휘부가 최근에 와서야 이를 받아들였다고 한다. 한 법조인은 “전직 대통령과 그 가족 수사이기 때문에 오히려 더 빨리 처리했어야 한다”며 “정치적 부담을 가지면 수사가 지연되는 것은 물론 결과도 엉뚱하게 나오는 경우가 많다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다] 우리 아이 출생 소식, 액자에 담아 간직하세요</title>
-      <link>https://www.chosun.com/special/announcement/2024/08/16/UTPXFGRQWRB3JLLWIOM4JD542Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2024/08/16/UTPXFGRQWRB3JLLWIOM4JD542Y/</guid>
-      <description/>
-      <pubDate>Thu, 15 Aug 2024 16:50:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N5HDXT6NARFOTELTQEE5AFVW4Q.jpg"&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 우리 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 9일 ‘우리 아기가 태어났어요’ 코너에 실린 조아윤&amp;lt;사진&amp;gt;이 이번 주 주인공입니다. 자세한 내용은 홈페이지(&lt;a href="http://reprint.chosun.com/" target="_blank"&gt;reprint.chosun.com&lt;/a&gt;)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김숙자씨 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/08/16/UXABJ64T3ZC4RAV3N6GGON667U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/08/16/UXABJ64T3ZC4RAV3N6GGON667U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 15 Aug 2024 16:43:28 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김숙자&lt;/b&gt; 별세, &lt;b&gt;김승철&lt;/b&gt;·&lt;b&gt;김현실&lt;/b&gt; 온누리교회 부목사 모친상, &lt;b&gt;이기광&lt;/b&gt; 대한항공 고문·&lt;b&gt;방효성&lt;/b&gt; 기독교미술인협회장 장모상=15일6시56분 삼성서울병원, 발인 17일7시, (02)3410-6912&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이종&lt;/b&gt; 별세, &lt;b&gt;이성우&lt;/b&gt;·&lt;b&gt;이창우&lt;/b&gt; 이반종합건축사사무소 대표·&lt;b&gt;이시우&lt;/b&gt;·&lt;b&gt;이지우&lt;/b&gt;·&lt;b&gt;이민우&lt;/b&gt; 부친상, &lt;b&gt;정성근&lt;/b&gt; 前 아리랑국제방송 사장 장인상=14일21시52분 삼성서울병원, 발인 17일6시, (02)3410-6920&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이진희&lt;/b&gt; 별세, &lt;b&gt;백남국&lt;/b&gt; 아내상, &lt;b&gt;백석기&lt;/b&gt; 교보생명 중앙 GFP지점 팀장·&lt;b&gt;백선기&lt;/b&gt; 前 KBS 기자·&lt;b&gt;백숙기&lt;/b&gt; 前 아시아나항공 선임사무장 모친상, &lt;b&gt;손관승&lt;/b&gt; 前 iMBC 사장 장모상, &lt;b&gt;우혜경&lt;/b&gt; 시모상=15일0시 이대목동병원, 발인 17일6시, (02)2650-2746&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>독립군 체험이 순사에 물총 쏘기? 반일 조장 논란에 결국 취소</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/15/ZGX63TUPMFG5NL2PO3MUTQF7WM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/15/ZGX63TUPMFG5NL2PO3MUTQF7WM/</guid>
-      <dc:creator>구동완 기자, 박성배 인턴기자(중앙대 소프트웨어학 수료)</dc:creator>
-      <description/>
-      <pubDate>Thu, 15 Aug 2024 07:47:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IHKO2NIYXNNQLHZ5Y6XQPPG7KQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 8월 13일 서울 서대문형무소에서 열린 '2023 서대문 독립축제'에서 초등학생 참가자들이 일본 순사복을 입은 진행 요원을 향해 물총을 쏘는 '독립군 전투체험'을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광복절을 기념해 일본 순사복을 입은 진행자에게 물총을 쏘는 행사를 기획한 서울 서대문구가 ‘반일 조장’이라는 논란이 일자 행사를 돌연 취소했다.&lt;br&gt;&lt;br&gt;앞서 서대문구는 지난 14일부터 15일까지 서대문형무소역사관과 서대문독립공원에서 ‘2024 서대문 독립 축제’를 연다고 밝혔다. 당초 계획에 따르면 여옥사(女獄舍) 부속창고 앞 광장에서 사전 예약을 마친 초등생 60여명이 일본 순사를 겨냥해 물총을 쏘는 ‘독립군 전투체험’ 행사가 총 네 차례 진행될 예정이었다.&lt;br&gt;&lt;br&gt;이같은 행사를 두고 ‘아이들에게 반일 정서를 조장하는 것은 교육적으로 부적절하다'는 지적이 제기되자 지난 14일 서대문구는 해당 행사를 취소했다. 해당 프로그램은 물총을 쏴 박을 터뜨리는 내용으로 대체됐다. 일본 순사 복장을 한 진행자도 행사 현장에서 배제됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4PDJLRNYXJIBVOP3KQQWZAHDVQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;15일 오후 서울 서대문구 서대문형무소역사관을 찾은 초등학생 참가자들이 물총으로 박을 터뜨리는 프로그램에 참여하고 있다. 이날 프로그램은 일본 순사복을 입은 요원을 향해 물총을 쏘는 내용으로 기획됐으나 '반일 조장' 논란이 일면서 변경됐다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 이날 행사 현장에서 일본 순사 복장을 한 행사 요원들은 모형 총·칼 등을 지닐 예정이었으나, 논란이 일자 순사복만 착용하는 것으로 변경됐다. 행사 요원 고평선(23·남)씨는 “원래 독립군 전투 체험 행사에 투입돼 소품으로 모형총 등을 받을 예정이었다”며 “계획이 변경되면서 검정 칼집과 순사복만 제공받았다”고 했다.&lt;br&gt;&lt;br&gt;서대문구 관계자는 본지 통화에서 “독립 분위기를 조성해 보자는 차원이었다”며 “그러나 이같은 행사가 아이들에게 반일 정서를 조장한다는 등 교육적으로 부적절하다는 지적이 제기돼 행사 내용을 변경했다”고 밝혔다. 서대문구는 2015년부터 매년 서대문 독립 축제를 개최해 오고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] “우리 애 서울대 다녀” 자랑 스티커</title>
