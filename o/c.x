@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>인천 송도 아파트 지하주차장서 차량 화재…100여명 대피 소동</title>
+      <link>https://www.chosun.com/national/regional/2024/08/17/4P2LSXI5TZAXLFZRSYJDE7KWJA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/17/4P2LSXI5TZAXLFZRSYJDE7KWJA/</guid>
+      <dc:creator>노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 17 Aug 2024 13:02:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHVNB2B2WJHGXODIDACQLHGZVI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 오후 7시 23분쯤 인천시 연수구 송도국제도시 아파트 지하주차장에 있던 차량에서 불이 나 주민 100여명이 대피하는 소동이 빚어졌다.&lt;br&gt;&lt;br&gt;소방 당국은 소방관 70명과 펌프차 등 장비 27대를 투입에 12분 만에 불을 껐다.&lt;br&gt;&lt;br&gt;소방당국 관계자는 “불이 난 차량은 휘발유 차량이었고, 인명피해는 접수된 게 없다”고 말했다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 현장 감시카메라(CCTV) 등을 토대로 정확한 화재 원인을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전 프로야구 선수 장원삼…음주운전 접촉사고</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/08/17/YOIKZMZJNNBQLOPO6PBAHIXDOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/08/17/YOIKZMZJNNBQLOPO6PBAHIXDOI/</guid>
+      <dc:creator>노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 17 Aug 2024 12:55:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4E3BV47BCSH5L6NBBR77363TI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장원삼 전 프로야구 선수./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프로야구 선수 출신 장원삼(41)씨가 술을 마신 채 운전하다 접촉사고를 냈다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면 장씨는 17일 오후 1시쯤 부산 수영구 광안동의 한 도로에서 후진하다 뒤에 있던 차량을 들이받았다. 경찰이 출동해 장 씨의 혈중알코올농도를 측정한 결과 운전면허 취소 수준의 수치가 나온 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 사고가 경미해 일단 장 씨를 귀가시켰으며 추후 조사해 신병처리를 할 예정이다.&lt;br&gt;&lt;br&gt;2006년 현대 유니콘스에 입단한 장씨는 삼성, LG, 롯데 투수로 활약하다가 2020년 은퇴했으며 최근 한 야구 관련 예능 프로그램에 출연 중이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가출 신고된 40대 여성, 주차된 순찰차 뒷좌석서 숨진 채 발견</title>
+      <link>https://www.chosun.com/national/regional/2024/08/17/WIBJHICVFVAHZL5NUOPIBOVCFI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/17/WIBJHICVFVAHZL5NUOPIBOVCFI/</guid>
+      <dc:creator>노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 17 Aug 2024 11:33:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B2MS2JDZMH4XX3AGXX2BLLO5MA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;하동경찰서 전경./하동경찰서 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가출 신고된 40대 여성이 파출소에 주차된 순찰차 뒷좌석에서 숨진 채 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;17일 경남 하동경찰서에 따르면 이날 오후 2시쯤 진교파출소 주차장에 세워둔 순찰차 뒷좌석에서 A씨가 숨져 있는 것을 경찰관이 발견했다.&lt;br&gt;&lt;br&gt;확인 결과 A씨는 이날 가족들로부터 가출 신고가 된 상태였으며, 신고를 접수한 경찰이 소재 파악을 위해 출동하던 중 순찰차 뒷좌석에서 A씨를 찾았다. 발견 당시 A씨는 특별한 외상이 없었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 순찰차에 들어가게 된 이유 등 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>충남 아산 한 폐기물 공장서 화재…소방당국 대응 2단계 발령 진화중</title>
       <link>https://www.chosun.com/national/regional/2024/08/17/DJTW2RWJ5NHAFKO7LPIJEY7YTY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/17/DJTW2RWJ5NHAFKO7LPIJEY7YTY/</guid>
@@ -926,24 +953,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DPYCU3VPCFGGLHB43GGMUYGTJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;BTS 멤버 슈가. /빅히트뮤직&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사회복무요원으로 군(軍) 대체복무를 하다 음주운전으로 경찰에 적발된 그룹 방탄소년단(BTS) 멤버 슈가(31·본명 민윤기)와 관련, 병무청이 “사회복무요원이 근무 시간 외에 범죄를 저지르는 경우 병무청 차원의 징계는 따로 없다”고 밝혔다. 민씨 측은 “전동킥보드를 이용한 뒤 범칙금 처분을 받았다”는 초기 해명과 달리 전동스쿠터를 이용해 도로를 달렸다는 사실이 드러나 사건 축소 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;병무청 관계자는 8일 본지에 “근무 시간 외에 발생한 사항에 대해서는 병역법령에 따른 별도 신분상 조치는 없다”며 “복무관리 규정보다 병역법이 앞서기 때문에 그렇다”고 말했다. 사회복무요원 복무규율 8조에는 ‘사회복무요원은 직무의 내외(內外)를 불문하고 그 품위가 손상되는 행위를 하여서는 아니 된다’는 내용이 있지만 이에 앞서 병역법 33조(사회복무요원의 연장복무 등)에 따라 경고처분 및 복무연장 등 징계를 내릴 수 없다는 것이다.&lt;br&gt;&lt;br&gt;해당 조항은 징계 대상 중 하나로 ‘근무시간 중 음주, 도박, 풍기문란, 그 밖에 근무기강 문란행위를 한 경우’를 명시하고 있다. 병무청은 ‘그 밖에 근무기강 문란행위를 한 경우’ 역시 ‘근무시간 중’에 한정된다는 입장이다. 병무청은 “사회복무요원들이 복무기간 중 법규를 준수하도록 교육을 강화하고, 복무지도관을 통해 사회복무요원에 대한 관리,감독을 철저히 하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;현역으로 군 복무를 마친 예비역들 사이에서는 “명백한 차별”이라는 비판이 쏟아졌다. 군대에서 복무를 하는 현역병들은 사회에서 범죄를 저지르면 군형법의 적용을 받고 징계도 별도로 받는다. 국방부 군인·군무원 징계업무처리 훈령 8조(음주운전 사건 처리기준) 따르면, ‘징계권자는 음주운전의 경우 정당한 이유가 없는 한 징계의결을 요구해야 한다’고 명시돼있다. 일반 병사가 민씨와 같이 최초 음주운전을 저지르고 혈중알코올농도가 0.08% 이상으로 측정된다면, 정직에서 강등까지 징계가 이뤄질 수 있다.&lt;br&gt;&lt;br&gt;육군을 전역한 박모(23)씨는 “휴가도 아닌데 밤 늦은 시간까지 술을 마신다는 것부터 현역 군인과 차원이 다른 이점을 갖는 것”이라면서 “특히 연예인들 중 일상 생활에 지장이 없어 보이는 데도 대체 복무하는 경우가 많은데 그런 것을 보면 박탈감이 든다”고 했다. 해병대를 전역한 예비역 김모(28)씨는 “현역병, 공익 모두가 고생하는 것은 맞지만, 더 열악한 조건에서 복무를 수행하는 현역병이 오히려 손해를 보는 상황 아니냐”며 “이참에 사회복무요원에 대한 처벌 규정을 강화하는 등 공정한 잣대가 마련돼야 할 것 같다”고 했다.&lt;br&gt;&lt;br&gt;온라인상에서는 한 누리꾼이 국민신문고에 ‘슈가법(사회복무요원 복무관리 규정 개정안)’ 제정을 통해 민씨 징계를 요구하는 민원을 접수했다는 글을 게시하기도 했다. 상당수 현역·예비역들은 “연예인이 벼슬이냐” “우리 같으면 영창이 기본”이라고 하고 있다.&lt;br&gt;&lt;br&gt;한편 민씨 소속사 하이브는 8일 사건 축소 논란과 관련해 “내부 커뮤니케이션 착오로 잘못된 정보를 전달 드린 점 죄송하다”며 논란 진화에 나섰다. 민씨와 하이브는 7일 게시한 첫 입장문에서 민씨가 ‘전동 킥보드’를 이용해 500m 가량 이동했다고 밝히고, 경찰이 민씨에 대해 범칙금 및 면허정지 처분을 내렸다고 했다. 하지만 경찰에 따르면 민씨는 ‘전동 스쿠터’를 이용했으며 민씨에 대한 처분은 면허취소 예정 외에는 아직 확정되지 않았다.&lt;br&gt;&lt;br&gt;전동 킥보드 등 개인형 이동장치(PM)과 전동 스쿠터는 도로교통법상 처벌 수준이 다르다. 경찰 관계자는 “구체적인 이동거리는 추후 조사 예정”이라고 밝혔다. 하이브는 “사안 축소 의도는 전혀 없었다”며 “면밀히 살피지 못하고 성급히 말씀드린데 대해 거듭 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>부여 ‘알밤’ 맛 몽쉘·카스타드 나온다</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/16/V7FSTDDLRBCBZFBXCLOAM4U5UM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/16/V7FSTDDLRBCBZFBXCLOAM4U5UM/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Aug 2024 04:21:28 +0000</pubDate>
-      <content:encoded>오는 10월 충남 부여의 특산품인 ‘알밤’을 ‘몽쉘’, ‘카스타드’ 등 롯데웰푸드의 상품으로 맛볼 수 있게 된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AJ4W55VRLGZNGNHKBSAQ5KQVCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;행정안전부 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부는 16일 부여군과 롯데웰푸드의 협업을 위한 ‘지역-기업 상생 협약식’을 열었다고 밝혔다. 이번 협약은 행안부가 인구감소지역과 기업의 상생을 위해 롯데웰푸드에 협력을 제안하고, 롯데 측이 이를 받아들이면서 성사됐다.&lt;br&gt;&lt;br&gt;행안부 관계자는 “행안부가 주선해 기업이 인구감소지역 특산품으로 상품을 만드는 것은 이번이 처음”이라며 “행안부가 제시한 인구감소지역 특산품 목록 중에서 롯데 측이 부여 알밤을 골랐다”고 말했다.&lt;br&gt;&lt;br&gt;이번 협약으로 롯데웰푸드는 오는 10월 초부터 2개월간 부여 알밤으로 만든 제품을 판매한다. 몽쉘, 카스타드, 빈츠, 롯샌, 크런키바, 말랑카우, 찰떡아이스, 찰떡파이, 꼬마호떡 등 9개 상품을 출시할 예정이다.&lt;br&gt;&lt;br&gt;이외에도 부여군과 롯데웰푸드는 부여 관광 활성화 협력, 부여 문화유산 이미지 활용 등 상호 교류를 추진할 계획이다.&lt;br&gt;&lt;br&gt;행안부 고기동 차관은 “지역과 기업의 협력을 확대해 인구감소지역의 활성화와 지역 균형발전으로 이어질 수 있도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“빌린 돈 왜 안 갚아”...친구 살해 전직 야구선수, 2심서 ‘징역 18년’</title>
-      <link>https://www.chosun.com/national/regional/2024/08/16/MDBOU77SX5GCPHXPGDOCS3PBEI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/16/MDBOU77SX5GCPHXPGDOCS3PBEI/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Aug 2024 03:37:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;빌린 돈을 갚지 않는다는 이유로 야구 방망이로 친구를 때려 살해한 전직 야구 선수가 항소심에서 1심보다 무거운 형을 선고받았다.&lt;br&gt;&lt;br&gt;대전고법 형사1부(재판장 박진환)는 16일 살인 혐의 사건 항소심 선고공판에서 전직 프로야구 2군 선수 출신인 A씨에게 징역 15년을 선고한 원심 판결을 파기하고 징역 18년을 선고했다. 1심 선고 후 검사와 A씨가 모두 양형 부당을 주장하며 항소했지만, 2심 재판부는 “형이 가볍다”는 검찰 측 주장을 받아들였다.&lt;br&gt;&lt;br&gt;A씨는 지난 1월 2일 오후 10시쯤 충남 홍성군 광천읍의 한 주점에서 빌린 돈을 갚지 않는다며 십년지기 친구 B씨를 야구 방망이로 여러 차례 때려 살해한 혐의를 받고 있다. B씨가 빌린 돈은 2억원가량인 것으로 알려졌다. A씨는 2007년 한 프로야구단 소속 2군에서 잠깐 프로선수 생활을 하다가 부상으로 은퇴한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;범행 후 현행범으로 체포된 A씨는 처음에는 ‘기억나지 않는다’고 혐의를 부인하다가 나중에 야구방망이로 살해한 부분은 인정했다. 하지만 그는 “고의성은 없었다”고 주장해 왔다.&lt;br&gt;&lt;br&gt;우발적 범행이었다는 A씨 주장에 대해 2심 재판부는 고의성이 인정된다고 판단했다. 재판부는 “피고인이 차량 트렁크에 있던 야구 방망이를 외투에 숨긴 채 범행 장소로 가져간 것으로 보아 계획된 범행으로 보인다”며 “프로야구 선수 출신으로 야구 방망이를 다루는 데 능숙하고 더 많은 힘을 전달할 수 있어 충격과 피해가 크다”고 설명했다.&lt;br&gt;&lt;br&gt;재판부는 또 “야구 방망이가 부러질 정도로 여러 차례 때려 살해한 범행 수법이 잔혹하고 죄책이 무겁다”며 “피고인이 피해자들과 금전적으로 합의되지 않았고, 유족이 엄벌을 탄원하는 점 등을 참작하면 ‘형이 너무 가볍다’는 검사의 주장은 일리가 있다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>끼어들기로 화물차 전복됐는데… ‘사고 유발’ 캠핑카 유유히 떠나</title>
       <link>https://www.chosun.com/national/national_general/2024/08/16/3RN52HODK5BC7CTNCJ7NZDMRJ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/16/3RN52HODK5BC7CTNCJ7NZDMRJ4/</guid>
@@ -954,15 +963,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/2UZKXIQYOJDLJETV2KOGYOHE6Q.gif?width=610&amp;height=370&amp;auth=e2c49bc82c6c9540bffbda3e94fc8f33db81e85dcb2bf17ea406608dc28994d6&amp;smart=true" type="image/jpeg" height="370" width="610">
         <media:description type="plain">지난 12일 충남 당진에서 화물차가 갑자기 끼어든 캠핑카를 피하려다 중심을 잃고 전복된 모습. /보배드림</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>하반기 ‘전공의 추가모집’ 오늘 마감..“지원자 미미한 수준”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/08/16/A2LVAQLNPBAIXAWG4BTIUZOFTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/16/A2LVAQLNPBAIXAWG4BTIUZOFTM/</guid>
-      <dc:creator>조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Aug 2024 01:22:39 +0000</pubDate>
-      <content:encoded>올 하반기 전공의 추가 모집이 오늘(16일) 마감되지만 현재 지원자는 거의 없는 수준으로 알려졌다.&lt;br&gt;&lt;br&gt;보건복지부와 의료계에 따르면, 전국 수련병원들은 이날 오후 5시에 9월부터 수련을 시작하는 상급년차(2∼4년차) 레지던트와 인턴(레지던트 임용 전의 전공의)의 지원서 접수를 마감한다. 1년차 레지던트 접수는 14일 마감됐다.&lt;br&gt;&lt;br&gt;이번 추가 모집은 최근 전공의 하반기 모집의 지원율이 저조한 데 따른 것이었다. 하반기 전공의 모집은 이미 지난달 31일 마감됐는데, 지원율은 모집 대상(7645명)의 1.4%(104명)에 그쳤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TIIWPOMZF5OPYOVQ6O62WQEZ5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 대학병원의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의료계 안팎서는 이같은 추가 모집이 의미가 없을 것으로 내다보고 있다. 사직 전공의들은 “전공의들이 사직하고 나온 이유는 비과학적인 의대 증원인데, 이에 대한 정부 변화가 없는 상황에서 이미 지난번 하반기 모집에 지원하지 않은 전공의들이 추가 모집 때 지원하는 일은 없을 것”이라고 했다.&lt;br&gt;&lt;br&gt;병원에 남아서 근무하는 전공의나 하반기 모집에 지원한 전공의들의 동료에 의한 ‘신상 털기’가 계속되는 것도 지원율 저조의 한 원인이다. 최근 집단 사직에 참여하지 않은 전임의(세부 전공 중인 전문의)를 ‘감사한 의사’라고 조롱하며 이들의 개인정보를 공개한 게시 글이 등장하자 서울경찰청 사이버수사대는 보건복지부로부터 수사 의뢰를 받아 내사에 착수했다.&lt;br&gt;&lt;br&gt;복지부는 관계자는 “현재까지 지원자가 많지 않은 것으로 안다”며 “일단 모집 상황을 지켜본 후에 (추가) 대책 등을 검토할 수 있을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>용인서 車가 카페 돌진… 12명 중·경상</title>
