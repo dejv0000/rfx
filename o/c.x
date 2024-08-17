@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“다시는 안 해” 상습 음주운전 후 차량 처분한 30대 男, 벌금 2000만원</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/17/6KE3LQ2W2BGTJC55N3DF7PBREA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/17/6KE3LQ2W2BGTJC55N3DF7PBREA/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 17 Aug 2024 05:04:15 +0000</pubDate>
+      <content:encoded>상습적으로 음주운전을 한 30대 남성 회사원에게 벌금 2000만원이 선고됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5SZEZGGL5ZGH7FHXEDLWDOV6VY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주운전 일러스트. /일러스트=정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사10단독 류경진 부장판사는 도로교통법 위반(음주운전) 혐의로 재판에 넘겨진 김모씨에게 이 같이 선고했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;김씨는 지난 3월 30일 오전 3시쯤 서울 용산구부터 종로구에 이르기까지 약 8km 구간에서 만취한 채 차를 몰았다. 당시 혈중알코올농도는 면허 취소 수준(혈중알코올농도 0.08% 이상)을 훨씬 웃도는 0.184%였다.&lt;br&gt;&lt;br&gt;이 사건 범행 이후 김씨는 반성문을 쓰고, 차량을 처분하는 등 다시는 음주운전을 하지 않겠다고 다짐했다.&lt;br&gt;&lt;br&gt;김씨는 앞서 수차례 음주운전 범행을 저지른 것으로 조사됐다. 그는 동종 범죄로 2013년 11월 벌금 400만원, 2015년 6월 벌금 300만원, 2016년 6월엔 벌금 1000만원 처벌을 받은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;류 부장판사는 “김씨는 이미 3차례나 음주운전으로 처벌을 받았음에도 재범해 죄질이 가볍지 않다”면서도 “김씨는 자신의 잘못을 반성하고 차량을 처분하는 등 다시는 음주운전을 하지 않겠다고 했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>포항 앞바다서 실종된 50대 남성 숨진 채 발견</title>
       <link>https://www.chosun.com/national/regional/2024/08/17/XM7ET4GT65CLRM3YYCX5VAQ4AU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/17/XM7ET4GT65CLRM3YYCX5VAQ4AU/</guid>
@@ -936,15 +945,6 @@
       <description/>
       <pubDate>Fri, 16 Aug 2024 01:08:32 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SBAYP6KFNRAONC2ORTIC3T34YA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경남 창원시 마산자유무역지역 전경. /창원시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 제1호 자유무역지역인 ‘마산자유무역지역’이 국가산업단지가 됐다. 수십년 우리나라 수출의 첨병 역할을 해오면서도 산업단지로 인정받지 못해 겪었던 입주기업의 불편이 크게 해소될 전망이다.&lt;br&gt;&lt;br&gt;경남도는 최근 산업통상자원부가 마산자유무역지역을 국가산업단지로 지정 고시했다고 16일 밝혔다. 마산자유무역지역은 지난 1970년 지정된 국내 제1호 자유무역지역이다. 관세 등 혜택을 앞세워 외국 자본을 유치하고, 수출을 촉진하기 위해 조성된 외국인 전용 공단이다. 올해 6월 기준 128개 업체가 입주해 5628명이 근무하고 있다.&lt;br&gt;&lt;br&gt;산업통상자원부 마산자유무역지역 관리원에 따르면 과거 이곳에는 한때 세계 휴대전화 점유율 1위를 차지했던 노키아를 비롯해 한국소니전자 등이 포진하면서 우리나라의 수출 주도 경제성장을 견인했다.&lt;br&gt;&lt;br&gt;하지만 2000년대 들어 주력 업종의 침체와 공장 노후화 등이 겹치면서 마산자유무역지역도 내리막을 걸었다. 수출실적이 최고였던 2008년 수출액이 50억7200만불(약 6조9000여억원)에 달했는데, 지난해는 10억5600만불(1조4300여억원)으로 떨어졌다. 2014년 노키아의 철수 등의 영향 탓이다.&lt;br&gt;&lt;br&gt;특히 마산자유무역지역은 산업단지 개념이 생기기 전인 1970년에 조성돼 산업단지가 아닌 일반공업단지로 남아 있으면서, 산업단지를 대상으로 하는 각종 국가지원사업 등의 혜택에서 제외됐다. 전국 7개 산단형 자유무역지역 중 마산을 제외한 나머지 6곳은 일반 또는 국가산업단지로 지정돼 있었다. &lt;br&gt;&lt;br&gt;산업단지가 아닌 일반공업단지로 남아 있다 보니 낮은 건폐율(70%)의 적용으로, 입주 기업들은 설비 증설도 제대로 못 했다고 한다. 마산자유무역지역 한 관계자는 “부지는 꽉 차 있고, 공장 증축은 건폐율에 막혀 있어 경쟁력 확보가 쉽지 않았다”고 말했다.&lt;br&gt;&lt;br&gt;지난해 국민의힘 윤한홍 의원(창원 마산회원)이 대표발의한 ‘자유무역지역의 지정 및 운영에 관한 법률 일부 개정안’이 국회를 통과하면서 마산자유무역지역이 국가산단이 됐다. 이 개정안에는 종전 ‘수출자유지역설치법’에 따라 지정된 자유무역지역을 국가산업단지로 본다는 내용을 담고 있다.&lt;br&gt;&lt;br&gt;국가산단으로 지정된 마산자유무역지역은 건폐율 제한이 80%로 늘어나게 된다. 이에 따라 공장 증축과 생산라인 증설 등 기업의 투자가 늘어날 전망이다. 실제 마산자유무역지구 내 8개 입주기업이 공장 증축 등에 450억원 투자를 계획하고 있다. &lt;br&gt;&lt;br&gt;또 정부 부처가 주관하는 각종 공모사업에도 도전할 수 있게 됐다. 경남도는 내년 선정을 목표로 산업자원부 등이 추진하는 ‘노후거점산단 경쟁력강화사업’에 뛰어들었다.&lt;br&gt;&lt;br&gt;박완수 경남도지사는 “노후산단 활력 증진 및 경쟁력 강화를 위한 국비지원 사업에 도전할 계획이다”며 “산단 경쟁력을 강화해 일자리 창출, 미래 첨단산업 육성, 생산력 증대가 이뤄질 수 있도록 노력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;홍남표 창원시장은 “마산자유무역지역 국가산단 지정을 103만 창원시민과 함께 진심으로 환영한다”며 “전국 최초의 디지털 마산자유무역지역과 함께 창원 미래 50년의 초석을 다질 수 있는 세부 전략을 세워 나가겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>말다툼하다 연인 흉기로 찌른 50대 남성 체포</title>
-      <link>https://www.chosun.com/national/regional/2024/08/16/3UXXB55JLJD7FADDEZKMQO4P5I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/16/3UXXB55JLJD7FADDEZKMQO4P5I/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Aug 2024 00:17:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6CPOQRX54SWD3GRVCAJ5YYGLTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 음성경찰서 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 음성경찰서는 말다툼을 하다 연인을 흉기로 찌른 혐의(살인미수)로 50대 남성 A씨를 검거했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 전날인 15일 오후 8시 20분쯤 음성군 금왕읍에 있는 여자친구 B(40대)씨의 집에서 B씨와 다투던 도중 주방에 있던 흉기로 B씨의 복부 등을 찌르고 달아난 혐의를 받는다. B씨는 크게 다쳐 병원으로 옮겨져 치료를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 B씨의 신고를 받고 출동해 인근 길거리에서 40여분 만에 A씨를 붙잡았다. A씨는 체포에 저항하는 과정에서 자신의 복부를 흉기로 찔러 병원으로 이송된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 술을 마시고 범행한 것으로 보고 그가 퇴원하는 대로 정확한 범행 동기 등을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>세종 조치원읍 저수지서 영아 시신 발견...경찰 수사</title>
