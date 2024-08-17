@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>충남 아산 한 폐기물 공장서 화재…소방당국 대응 2단계 발령 진화중</title>
+      <link>https://www.chosun.com/national/regional/2024/08/17/DJTW2RWJ5NHAFKO7LPIJEY7YTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/17/DJTW2RWJ5NHAFKO7LPIJEY7YTY/</guid>
+      <dc:creator>노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 17 Aug 2024 09:20:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ATDPFXCTWJPTNMIH5OTSTRZFHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 4시 4분쯤 충남 아산시 신창면 수장리의 한 폐유 정제 공장에서 불이 나 소방당국이 진화 작업을 벌이고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 4시 4분쯤 충남 아산시 신창면 한 폐기물 공장에서 불이 났다. 소방당국은 화재 발생 23분 만인 이날 오후 4시27분쯤 대응 2단계로 경보령을 높여 6시 20분 현재까지 진화 작업을 벌이고 있다. 대응 1단계는 관할 소방서 인력 전체가 출동, 대응 2단계는 인접한 5∼6개 소방서 전체 인력과 장비를 동원하는 경보령이다.&lt;br&gt;&lt;br&gt;소방당국에 따르면, 이날 불로 공장 건물 3개 동과 기름차 2대가 전소 됐다. 또 공장 내에 인화성 물질이 많은데다 진화 중 폭발도 일어나고 있어 완전 진화까지는 적지 않은 시간이 걸릴 것으로 보인다.&lt;br&gt;&lt;br&gt;아산소방서 관계자는 “공장 휴무일이어서 근무자가 없었고, 현재까지 확인된 인명피해는 없다”고 말했다.&lt;br&gt;&lt;br&gt;한편 아산시는 이날 오후 5시 1분 안전 문자로 화재 사실을 알리면서 “배미동, 신창면, 실옥동, 득산동 주민들은 창문을 닫고, 화재 발생 장소 주변으로 접근하지 말라”고 당부했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이유 없이 軍 입대 안 한 남성...징역형 집행유예</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/17/GZ7KK42JFRETXJLJX5G2N7KIEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/17/GZ7KK42JFRETXJLJX5G2N7KIEQ/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 17 Aug 2024 09:22:14 +0000</pubDate>
+      <content:encoded>정당한 이유 없이 군 입대를 하지 않은 남성에게 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FTGPTVCXJGOPCYLMP3UYTQ3YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사21단독 정재용 판사는 병역법 위반 혐의로 재판에 넘겨진 조모씨에게 징역 8개월에 집행유예 2년을 선고했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;현역병 입영대상자인 조씨는 지난 3월 9일 휴대전화를 통해 ‘2024년 4월 23일 경기 파주시의 한 신병교육대로 입영하라’는 내용의 입영통지서를 수령했다.&lt;br&gt;&lt;br&gt;하지만 조씨는 입영일로부터 3일이 지난 4월 26일까지 정당한 사유 없이 입대하지 않았다.&lt;br&gt;&lt;br&gt;병역법 제88조에 따르면 현역입영통지서를 받은 사람이 정당한 사유 없이 입영일로부터 3일이 지나도록 입영하지 않으면 3년 이하의 징역에 처한다.&lt;br&gt;&lt;br&gt;정 판사는 “조씨가 정당한 사유 없이 입영하지 않아 그 죄책이 가볍지 않지만, 조씨가 범행을 인정하고 병역의무를 이행할 의사를 밝힌 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;조씨와 검찰 측 모두 항소하지 않아 이 판결은 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“거부권 남발 尹 정부 거부…노란봉투법·방송법 쟁취” 민노총 주말 도심 집회</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/17/AK5FNTTE5JFOLNXBQZ4R3B5AL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/17/AK5FNTTE5JFOLNXBQZ4R3B5AL4/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 17 Aug 2024 08:30:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JXRJTB3I5NOZ3MDUFHJ722CFKU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;민주노총 조합원들이 17일 오후 서울 종로구 새문안로에서 열린 '노조법·방송법 쟁취, 8.17 거부권 거부 범국민대회'에서 구호를 외치고 있다. 민주노총은 윤석열 정권의 노조법 및 방송법을 비롯한 민생, 민주주의 법안에 대한 거부권 행사를 규탄했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주노총과 시민사회단체들이 주말인 17일 서울 광화문 도심에서 ‘노란봉투법’(노동조합 및 노동관계조정법 개정안)과 ‘방송4법’에 거부권을 행사한 윤석열 대통령을 규탄하는 집회를 열었다.&lt;br&gt;&lt;br&gt;민주노총과 거부권거부비상행동과 언론장악저지공동행동, 노조법 2·3조 운동본부 등은 이날 오후 3시쯤 서울 종로구 광화문광장에서 ‘8·17 거부권 거부 범국민대회’를 진행했다. ‘거부권 남발 윤석열 거부’, ‘노조법·방송법 쟁취’ 등 문구가 적힌 팻말을 든 이들은 “윤 대통령이 민생·민주주의 관련 법안에 거부권을 남발하고 있다”며 정권 퇴진과 노란봉투법과 방송4법 즉각 공포 등을 촉구했다.&lt;br&gt;&lt;br&gt;이날 민주노총은 “노조법 개정은 한국 사회 대개혁을 위한 필수조건이자 전제조건이고, 한국 사회가 앞으로 나아가는 데 있어 공영방송의 역할은 무엇보다 중요하다”고 했다. 또 “윤석열 정권이 죽어도 막으려는 두 법을 반드시 온 힘을 다해 통과시켜야 한다”고도 했다.&lt;br&gt;&lt;br&gt;민주노총은 윤 대통령의 거부권을 언급하며 이에 대한 투쟁을 강조했다. 이들은 “윤석열 정권이 버티는 한 (법안이) 국회 문턱을 100번 넘더라도 거부권은 넘지 못할 것”이라며 “정권과 전면전에 사활을 걸고 싸워야 한다”고 목소리를 높였다.&lt;br&gt;&lt;br&gt;이날 집회에는 주최 측 추산 약 2000명이 참가한 것으로 전해졌다. 이들은 집회를 마친 뒤 서울 중구 서울고용노동청으로 행진해 “원청이 직접 나서는 ‘진짜 사장 책임법’을 제정하라”고도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“빨래하러 온 건지 운동하러 온 건지”… 김연경 발언 재조명</title>
       <link>https://www.chosun.com/national/national_general/2024/08/17/QH3G2Z36ZNFWZBEBDCLPVFN3CA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/17/QH3G2Z36ZNFWZBEBDCLPVFN3CA/</guid>
@@ -927,33 +954,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/2UZKXIQYOJDLJETV2KOGYOHE6Q.gif?width=610&amp;height=370&amp;auth=e2c49bc82c6c9540bffbda3e94fc8f33db81e85dcb2bf17ea406608dc28994d6&amp;smart=true" type="image/jpeg" height="370" width="610">
         <media:description type="plain">지난 12일 충남 당진에서 화물차가 갑자기 끼어든 캠핑카를 피하려다 중심을 잃고 전복된 모습. /보배드림</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>빌라 900여 채 보유하고도 재산세 체납... 부천시, 가택 수색해 7100여만 원 징수</title>
-      <link>https://www.chosun.com/national/regional/2024/08/16/BKLMMAQ6PJGT3OJZ33LWDYJ4A4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/16/BKLMMAQ6PJGT3OJZ33LWDYJ4A4/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Aug 2024 02:40:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3BOVM76OTUVC2X3KAV5OQFRKE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부천시청/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 부천시가 전국에 빌라 900여 채를 보유한 체납자의 집을 수색해 7100여만 원의 세금을 징수했다.&lt;br&gt;&lt;br&gt;경기 부천시는 전국에 빌라 900여 채를 보유한 체납자 50대 여성 A씨의 집을 수색해 재산세 7130여만 원을 징수했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;보유 빌라 900여 채 중 부천에만 100여 채를 갖고 있던 A씨는 2022년부터 올해까지 부천시가 부과한 재산세 379건 7890여만 원을 체납했다.&lt;br&gt;&lt;br&gt;부천시가 이번에 징수한 세금은 이 중 208건에 해당한다. 나머지 171건 750여만 원의 재산세는 A씨가 추후 납부하기로 했다.&lt;br&gt;&lt;br&gt;부천시는 A씨의 인적사항과 거주상태, 재산‧소득 여부 등을 사전 조사하고 경기도가 제공한 고의적 은닉재산 내역을 분석해 경찰과 함께 A씨의 거주지를 찾았다.&lt;br&gt;&lt;br&gt;A씨는 “명의대여 사기를 당했다”고 주장하며 수색을 거부했으나 결국 세금을 납부했다.&lt;br&gt;&lt;br&gt;부천시는 경남 지역에 사는 또 다른 체납자 3명의 집도 수색해 지방소득세 등 1800여만 원을 징수했다.&lt;br&gt;&lt;br&gt;부천시 체납특별징수팀 관계자는 “납부 능력이 충분히 있음에도 재산을 숨겨 고의로 체납하는 이들을 적극적으로 찾아 세금을 징수하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘번쩍번쩍’ 제주에 이틀간 낙뢰 500번...비행기 멈추고 기상장비 파손</title>
-      <link>https://www.chosun.com/national/regional/2024/08/16/PI6HNSP6B5D3LE5YT4VO6H6UQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/16/PI6HNSP6B5D3LE5YT4VO6H6UQY/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Aug 2024 02:12:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4VZC3BU7HJEWDDNFGOGK7QCX24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;저기압대가 통과하며 대기가 불안정한 16일 자정 제주시 오라2동에서 바라본 동쪽 하들에 밤하늘을 밝히는 번개가 치고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주지역에 이틀 동안 500번에 가깝게 낙뢰가 내리치면서 각종 피해가 발생했다.&lt;br&gt;&lt;br&gt;16일 기상청 관측에 따르면 제주지역에 발생한 낙뢰 현상은 15일 395차례, 16일 97회(0시부터 현재까지) 등 492차례인 것으로 잠정 집계됐다.&lt;br&gt;&lt;br&gt;온라인 커뮤니티 사이트에는 전날 밤사이 “요란한 천둥소리와 함께 번개가 많이 발생해 잠을 자기 힘들다”, “(어두운 밤에 천둥 번개가 쳐) 한라산이 번쩍 거리는 것 같다”는 등의 글이 다수 올라왔다. 이 때문에 제주지역 기상청의 운영하는 자동기상관측장비(AWS) 3대도 파손됐다가 일부 복구됐다.&lt;br&gt;&lt;br&gt;또 제주도소방안전본부에 따르면 15일부터 이날 새벽까지 농경지 계량기(적산전력량계) 등이 파손되는 등 낙뢰로 추정되는 피해가 3건 발생했다. 제주시 애월읍 한 시설 농경지와 제주시 한림읍 농장에서 낙뢰로 인해 계량기가 파손됐고 함덕리에서도 단독주택 배전반 차단기가 부서졌다. 다행히 더 큰 피해로 이어지지 않아 피해액은 각각 10만∼20만원 수준이었다.&lt;br&gt;&lt;br&gt;전날 제주국제공항에서는 대낮에 천둥·번개를 동반한 폭우로 인해 제주공항을 오가는 항공기 497편 중 1편이 결항하고 71편이 지연 운항했다. 기상청은 제주도 동쪽 해상에서 비구름대가 유입돼 대기 불안정으로 천둥·번개가 자주 발생했다고 설명했다.&lt;br&gt;&lt;br&gt;기상청은 “이 비구름대가 시간당 20㎞로 서북 서진을 반복하면서 이동해 제주에 시간당 30㎜의 비와 함께 천둥·번개 현상이 발생할 수 있다”며 “천둥소리가 들리거나 굵은 빗방울이 떨어지기 시작하면 빠르게 안전한 곳으로 대피해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울 26일째 열대야, 118년새 최장 기록...“열흘 더 이어질 수도”</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/08/16/QYVCI4XG4JGVDGLPKIELKPIVTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/08/16/QYVCI4XG4JGVDGLPKIELKPIVTM/</guid>
-      <dc:creator>김윤주 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 15 Aug 2024 23:55:59 +0000</pubDate>
-      <content:encoded>16일 서울에서 최장 열대야(최저 기온 25도 이상) 기록이 세워졌다. 서울에선 7월 21일 이후 26일 연속 열대야가 이어지고 있다. 2018년 26일(7월 21일~8월 15일)과 동률이다. 기상기록은 순위를 매길 때 최근 기록을 상위에 두고 있어 올해 열대야갸 최장 기록이 됐다. 근대적인 기상관측이 시작된 1907년 이래 118년간 가장 긴 열대야 기록이다. 17일도 서울 최저 기온이 27도로 예보돼 있어 최고 기록을 갈아 치울 가능성이 높다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TUQ2LLHOVZL5BEPZ6D5QXLS3XQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산에 역대 최장인 21일 연속 열대야가 나타난 15일 오후 부산 수영구 광안리해수욕장에 많은 시민이 모여 바닷바람을 맞으며 더위를 이겨내고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 등 수도권에선 밤에도 27도를 넘는 무더위가 계속됐다. 서울에선 동대문 27.2도, 강서 27.1도, 강남 27.1도, 종로 26.8도를 기록했다. 인천은 최저 기온이 27.5도, 경기도에선 군포 27.2도, 안양 27.1도로 나타났다.&lt;br&gt;&lt;br&gt;부산에서는 전날 1994년과 2018년 기록(21일)과 동률을 이룬 뒤 22일째 열대야가 나타나 최고 기록을 다시 썼다. 제주는 32일 째 열대야가 나타나 열대야 지속 일수가 한 달을 넘어섰다.&lt;br&gt;&lt;br&gt;인천에서도 24일 동안 열대야가 계속되고 있어 2016년과 함께 두 번째로 긴 열대야를 기록했다. 인천 최장 열대야는 2018년(26일)으로 이 기록도 깨질 가능성이 높다.&lt;br&gt;&lt;br&gt;‘밤 더위’는 당분간 식지 않을 전망이다. 기상청 예보에 따르면 17, 18일 서울 최저 기온은 27도, 19~21일은 26도로 예보됐다. 22일 이후로도 최저 기온이 열대야 기준인 25도로 예보돼 있어 최악의 경우 8월 말인 26일까지 열대야가 이어질 수도 있는 상황이다.&lt;br&gt;&lt;br&gt;16일과 17일은 전국 곳곳에 소나기 예보가 있다. 비가 그친 뒤 습도가 높은 상태에서 기온이 다시 오르며 후덥지근한 더위가 이어지겠다. 16일은 낮 최고 기온 30~35도, 17일은 29~34도로 예보됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>하반기 ‘전공의 추가모집’ 오늘 마감..“지원자 미미한 수준”</title>
