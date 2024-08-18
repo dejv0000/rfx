@@ -13,6 +13,73 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>﻿“둘이 합쳐 119세” 외신이 먼저 주목한 ‘식스팩’ 한국 부부</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/18/DO7XB53SFBGP5BA3IKN4OYAP4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/18/DO7XB53SFBGP5BA3IKN4OYAP4E/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 18 Aug 2024 02:41:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5O4DMM4Z4NFZTJ52NWCWS23MGA.png"&gt;&lt;figcaption&gt;&lt;small&gt;강창동(62) 김선옥(57) 부부. /@okdong_fit&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국의 한 부부가 건강하게 나이 드는 모범 사례로 외신의 주목을 받았다.&lt;br&gt;&lt;br&gt;15일(현지시각) 사우스차이나모닝포스트(SCMP)는 한국의 피트니스 인플루언서 부부 김선옥(57), 강창동(62) 부부를 소개했다. SCMP는 “여느 20대보다 훨씬 건강해 보이는 두 사람이 헬스장에서 함께 운동하고, 집에서 실내 자전거를 타고, 손을 잡고 함께 스쿼트 운동을 하는 모습이 인스타그램에 담겨 있다”고 했다. 이들은 30만명의 팔로워를 보유하고 있다. &lt;br&gt;&lt;br&gt;강씨는 2008년 설립한 유통 및 마케팅 회사에서 해외사업 개발 담당 이사로 일한다. 3년 전부터는 아내 김씨도 같은 회사에서 일하고 있다. &lt;br&gt;&lt;br&gt;이들이 인플루언서가 된 건 2022년 딸의 짧은 동영상이 시작이었다. 부부는 미국 캘리포니아에 있는 딸을 만나러 갔을 때에도 운동했다. 딸은 “미친 몸매의 부모님이 한국에서 LA까지 방문했을 때, 그들의 관심사는 운동, 단백질, 운동복뿐”이라며 부부가 운동하는 영상을 올렸다. 이 영상은 입소문을 타기 시작했고, 전 세계에서 부부를 보고 열광했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/33XVYJOWRRD5FKRMIILRHW5U3U.png"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 딸이 올린 부부의 운동 영상. /@okdong_fit&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아내 김씨는 “저희 사생활을 노출하는 것이기 때문에 계정 운영에 대해 정말 많이 고민했다”며 “어떤 사람들에게는 소셜미디어가 일이자 수입의 수단이지만, 우리에게는 그렇지 않기 때문”이라고 했다. 이어 “우리처럼 늙는 것이 꿈이라고 말하는 젊은이들이 많았고, 운동을 시작하고 싶다는 이들도 많았다”며 “결국 우리는 이 일을 통해 선한 영향력을 전파할 수 있다는 결론에 도달했다”고 했다. &lt;br&gt;&lt;br&gt;부부의 생활에 변화가 생긴 건 남편 강씨가 ‘보디프로필’ 촬영에 도전하기로 하면서다. 회사 운영 외에도 국내 대학의 MBA 과정 파트타임 교수로 일하는 강씨는 2021년 학교 간행물 인터뷰에서 버킷리스트로 ‘보디프로필’을 꼽았다. &lt;br&gt;&lt;br&gt;강씨는 “제가 환갑을 갓 넘겼을 때인데, 인터넷에서 많은 젊은이들이 보디프로필 사진을 찍는 것을 보고 저도 도전해 봐야겠다고 생각했다”고 했다. 아내 김씨도 흔쾌히 동참했다. &lt;br&gt;&lt;br&gt;두 사람은 엄격한 식단 관리와 운동으로 1년 동안 화보 촬영을 준비했다. 강씨는 “우리 또래의 사람들은 젊은 사람들처럼 반년 만에 보디프로필 사진 촬영을 준비할 수 없다”며 “우리 나이가 되면 근육량을 늘리는 것이 정말 어려워진다”고 했다. 그는 회사나 대학교 회식 때에도 직접 샐러드를 가져갈 정도로 보디프로필 준비에 전념했다. &lt;br&gt;&lt;br&gt;그 노력의 결실은 잘 다듬어진 복근과 탄탄한 몸매가 돋보이는 사진으로 확인할 수 있다. 부부는 ‘잘 늙어가고 있다’는 것에 동의했다. 평생을 활발하게 살아왔지만 지금처럼 건강했던 적은 없었다고 한다. &lt;br&gt;&lt;br&gt;김씨는 “날씬하고 탄탄한 몸매를 만드는 데 가장 좋은 방법이었을 뿐만 아니라 한때 앓았던 허리 통증도 없앨 수 있었다”며 “우리의 유대감을 더욱 돈독히 하는 데도 도움이 됐으며 젊었을 때보다 지금이 더 행복하다”고 했다. 그는 “이제 취미를 공유하고 함께 건강해졌으니 어떤 활동을 함께할 수 있을지 생각하면 정말 행복하다”며 “그런 것들이 우리에게 긍정적인 에너지를 준다”고 했다. &lt;br&gt;&lt;br&gt;두 사람은 화보 촬영을 준비하면서 만든 건강한 습관을 꾸준히 실천하고 있다. 일주일에 5일은 함께 헬스장에 가서 근력 운동 60분과 유산소 운동 30분을 한다. 다만, 화보 촬영 이후 식단은 제한을 없앴다. 강씨는 “술을 마실 때는 다음날 먹는 음식에 대해 더 신중하게 생각하거나 평소보다 조금 더 운동해서 균형을 맞추고 있다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RKY5A5UZJBGJRDJFOBTWI4WQT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;두 사람이 함께 복근 운동하는 방법을 알려주는 영상 중 일부. /@okdong_fit&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들이 운동을 계속하는 이유는 소셜미디어 때문은 아니다. 김씨는 “나이가 들수록 가장 중요한 건 건강”이라며 “아버지가 폐암으로 돌아가셨고, 건강을 잃으면 아무것도 할 수 없다는 것을 깨달았다. 가족에게도 슬픈 일”이라고 했다. 이어 “저는 딸과 아들에게 우리가 열심히 운동하는 이유 중 하나는 ‘가족 모두가 행복해지기 위해서다. 너희가 엄마 아빠 걱정 안 하게 하려고 운동하는 거야’라고 말한다”고 했다. &lt;br&gt;&lt;br&gt;이들은 앞으로 더 많은 도전을 할 계획이다. 강씨는 “올해 말에는 시니어 모델이 되기 위한 수업을 시작할 예정”이라며 “또한 잘 나이 든 경험에 대한 책을 써서 다른 사람들에게 영감을 주고 싶다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>﻿‘그냥 쉬고 싶다’ 청년 역대 최대…75%는 “일할 생각 없다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/18/77SP2ZC6TFD4VG2GEADU33LW4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/18/77SP2ZC6TFD4VG2GEADU33LW4E/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 18 Aug 2024 01:56:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D27QBJL2IJJ55PVETRVMGCYLLE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;22일 서울의 한 대학가에 걸린 기업 채용 현수막의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 일도, 구직활동도 하지 않고 ‘그냥 쉬었다’는 청년이 7월 기준 역대 최대치를 기록했다. ‘쉬었음’은 비경제활동인구 중 중대한 질병이나 장애는 없지만 막연히 쉬고 싶은 상태에 있는 이들을 말한다. 구직 활동을 하지 않기 때문에 실업자로도 분류되지 않는다.&lt;br&gt;&lt;br&gt;18일 통계청에 따르면, 지난 7월 청년층(15~29세) 가운데 ‘쉬었음’ 인구는 작년 동월보다 4만2000명 늘어난 44만3000으로 집계됐다. 이는 같은 달 기준 관련 통계 작성 이래 가장 많은 수준이다.&lt;br&gt;&lt;br&gt;청년층 인구는 줄어드는데 쉬는 청년은 늘면서 그 비중은 역대 최고 수준으로 나타났다. 지난달 청년층 인구 815만명 가운데 쉬었음 청년(44만3000명)이 차지하는 비중은 5.4%였다. 청년층의 ‘쉬었음’ 비중은 팬데믹으로 2020년 5.0%로 늘었다가 2022년 4.2%까지 줄었지만, 작년(4.8%)부터 늘더니 올해 다시 5%대로 진입했다.&lt;br&gt;&lt;br&gt;쉬는 청년은 일할 의사도 없는 것으로 조사됐다. 이들 가운데 일하기를 원했느냐는 질문에 ‘아니다’라고 답한 이들은 33만5000명에 달했다. 75.6%가 구직 의사가 없었다는 뜻이다.&lt;br&gt;&lt;br&gt;나머지 일하기를 원했으나 쉬었던 청년을 대상으로 일자리를 찾지 않은 이유를 물어보니 ‘원하는 임금 수준이나 근로 조건이 맞는 일자리가 없을 것 같아서’라는 이들이 42.9%였다. 이어 ‘이전에 찾아보았지만 일거리가 없었기 때문에’(18.7%), ‘교육‧기술 경험이 부족해서’(13.4%), ‘근처에 일거리가 없을 것 같아서’(11.1%) 순이었다.&lt;br&gt;&lt;br&gt;청년층만의 문제는 아니다. 지난달 ‘쉬었음’ 인구는 251만1000명으로, 1년 전에 비해 10.7% 늘었다. 2003년 관련 통계 집계 이후 역대 최대다. 청년층뿐만 아니라 30대, 40대, 50대, 60세 이상 모든 연령대에서 ‘쉬었음’ 인구가 증가세를 보였다.&lt;br&gt;&lt;br&gt;김지연 한국개발연구원(KDI) 전망총괄은 “(쉬었음 인구 가운데) 정말 쉬는 사람도, 구직을 단념한 이도 있을 수 있다”며 “본인이 원하는 수준의 일자리를 쉽게 가질 수 없는 고용 여건이라고 생각하면 구직활동을 미룰 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“데이트 비용 내놔”… 전 연인 스토킹한 30대 벌금형</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/08/18/OAVKOSVMP5BF3ENEMKPUXUD4PE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/08/18/OAVKOSVMP5BF3ENEMKPUXUD4PE/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 18 Aug 2024 02:18:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헤어진 여자친구를 지속적으로 스토킹하며 데이트 비용을 요구한 30대 남성에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;청주지법 형사3단독 김경찬 부장판사는 스토킹 범죄의 처벌 등에 관한 법률 위반, 공갈 혐의로 불구속 기소된 A(33)씨에게 벌금 500만원을 선고했다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월 13일 오후 6시30분쯤 충북 청주시 흥덕구 강서동 한 오피스텔 앞에서 헤어진 여자친구 B씨를 기다리는 등 같은 해 10월 10일까지 6차례에 걸쳐 스토킹한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 이에 앞서 작년 8월에는 B씨에게 “데이트 비용 150만원을 달라”는 메시지를 전송하기도 했다. 그러나 돈을 받지 못하자 B씨의 회사 앞을 찾아가 돈을 달라고 요구했고, 결국 B씨는 200만원을 송급했다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 단순 연인 간의 다툼이라며 혐의를 부인했지만 법원은 받아들이지 않았다.&lt;br&gt;&lt;br&gt;김 부장판사는 “피고인은 죄를 저질렀음에도 정당한 데이트 비용 정산일 뿐이라고 주장하며 반성하지 않고 있다”면서 “스토킹 행위의 횟수와 범행 경위 등을 종합해 형을 정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg?width=4000&amp;height=3000&amp;auth=68aed86746a6db3af8e2948e35fa4d6f37ee538f49fb8eababd4390dbf8dc491&amp;smart=true" type="image/jpeg" height="3000" width="4000">
+        <media:description type="plain">청주지법 전경. /신정훈 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">신정훈 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>음주 시비 뒤끝...차로 상대방 일행 들이받은 40대 징역 2년</title>
+      <link>https://www.chosun.com/national/regional/2024/08/18/YWQUVFMHTFBK3MHLTKVILANLDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/18/YWQUVFMHTFBK3MHLTKVILANLDI/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 18 Aug 2024 02:14:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KNRAE2CTG775ASD46BRTJ6W7QA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산지법 전경. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술을 마시다가 시비 끝에 차로 상대방 일행을 들이받아 다치게 한 40대에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;울산지법 형사3단독 이재욱 부장판사는 특수상해 혐의 등으로 재판에 넘겨진 A씨에게 징역 2년을 선고했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 4월 심야 울산 한 음식점 앞에 서 있던 B씨 등 일행 3명을 향해 스포츠 유틸리티 차량(SUV)을 몰고 돌진해 다치게 한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;당시 A씨는 B씨 일행과 같은 가게에서 술을 마시다가 감정 싸움을 벌였고, 길에 나와서도 시비가 붙자 혈중알코올농도 0.145% 상태에서 그대로 차를 몰고 B씨 일행을 친 것으로 알려졌다. B씨 일행은 갈비뼈 골절, 손가락 인대파열, 타박상 등 부상을 입은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 이후에도 계속 차를 몰아 음식점 주차장 철제 울타리를 부수고 들어가 주차 차량을 들이받기도 했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 누범기간 중 만취 상태에서 또 범행했고, 대형 인명사고를 일으킬 뻔했다”며 “피해자들과 합의해 피해자들이 처벌을 원하지 않는 점을 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>열대야에 열린 하남 야간 달리기 대회...28명 탈진 증세</title>
+      <link>https://www.chosun.com/national/regional/2024/08/18/6T25KYXCHVF7DO7NZH7BZSYMTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/18/6T25KYXCHVF7DO7NZH7BZSYMTY/</guid>
+      <dc:creator>하남=권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 18 Aug 2024 01:15:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/55O3KCWHXXTSD2Y7BRCNGCPJZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한달 가까이 열대야가 이어지고 있는 가운데 야간에 열린 10km 달리기 대회에서 참가자들이 무더위 때문에 탈진 증세를 보이는 일이 발생했다.&lt;br&gt;&lt;br&gt;17일 오후 8시쯤 경기 하남시 신장동 미사경정공원에서 열린 ‘2024 썸머 나이트런’ 대회에서 참가자 중 28명이 탈진하는 사고가 발생했다. 당시 119에는 30건이 넘는 신고가 접수된 것으로 파악됐다.&lt;br&gt;&lt;br&gt;전체 부상자 중 19명이 의식 저하 등으로 인한 중상자로 분류돼 병원에서 치료를 받았으며, 나머지는 현장에서 응급 처치를 받았다. 생명에 지장이 있는 사람은 없는 것으로 확인됐다. 소방당국은 다수 환자 발생이 우려되자 대응 1단계를 발령하고 현장 응급의료소를 설치하기도 했다.&lt;br&gt;&lt;br&gt;전국마라톤협회가 주관한 이번 대회는 오후 7시에 출발해 경정장 둘레를 두 바퀴 10km를 도는 코스에 1만여명이 접수했다. 그러나 탈진자가 속출하고 안전사고 위험이 제기되자 주최측은 경기를 조기에 중단시켰다. 당시 하남지역 기온은 30.1도, 습도는 69%, 체감 온도는 31.3도로 파악됐다.&lt;br&gt;&lt;br&gt;이번 대회 홈페이지에는 미숙한 대회 운영과 안전 관리 등을 비난하는 게시글이 무더기로 올라오고 있다. 참가자들은 좁고 어두운 코스에 1만명이 몰리는 바람에 사고 위험이 컸고 조명·급수시설 배치 부실, 안전요원 부족과 주차장 차량 통제 등의 문제를 두루 지적하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 28일째 열대야…사상 첫 '한 달 열대야' 눈앞</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/08/18/WPNBHQOO25ENXO3EPLZEXIARI4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/08/18/WPNBHQOO25ENXO3EPLZEXIARI4/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 18 Aug 2024 00:30:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QQQ47OJZNRIPHKPC4ANAMWM2V4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 17일 밤 부산 사하구 다대포 꿈의 낙조분수를 찾은 시민과 관광객들이 분수쇼를 구경하고 있다. 2024.08.18. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;간밤 서울이 28일째 열대야를 겪었다. 서울에 사상 첫 ‘한 달 열대야’가 발생할 가능성이 커졌다. 부산은 24일째, 제주는 34일째 열대야가 이어지고 있다.&lt;br&gt;&lt;br&gt;18일 기상청에 따르면, 17일 밤에서 18일 아침 사이 서울의 최저기온이 27도에 머물며 지난달 21일부터 28일째 열대야(밤 최저기온 25도 이상)가 이어졌다. 서울은 2018년 세운 열대야 최장 기록인 ‘26일’을 이미 넘어 매일 신기록을 경신 중이다.&lt;br&gt;&lt;br&gt;최근 30일 이상 열대야가 나타난 지역은 제주도가 유일하다. 제주도는 작년과 올해 2년 연속으로 ‘30일 열대야’가 발생했다. 앞으로 이틀간 서울에서 열대야가 추가로 발생하면 서울에서 근대 기상 관측이 시작된 지 117년 만에 ‘한 달 열대야’ 기록을 세우게 된다.&lt;br&gt;&lt;br&gt;태백산맥을 넘어 뜨거워진 동풍(東風)의 영향권에 든 수도권과 충청권을 중심으로 밤사이 열풍이 공급되고 있다. 현재 한반도를 덮고 있는 두 겹의 고기압이 물러나기 전까지 폭염과 열대야는 계속될 것으로 예상된다.&lt;br&gt;&lt;br&gt;18일 낮 최고기온은 30~35도로 예보됐다. 수도권과 강원·충청·전라권에 소나기가 내리는 곳이 있겠다. 제주도에도 오후 한때 소나기가 예고됐다. 예상 강수량은 5~60㎜ 내외다.&lt;br&gt;&lt;br&gt;19~20일은 낮 최고기온이 36도 내외까지 오를 전망이다. 이틀간 비구름대를 동반한 기압골이 남부와 중부지방에 차례로 비를 뿌릴 것으로 보인다. 19일 비가 내리는 전라·경상권과 제주도는 20~80㎜, 20일 비가 예상되는 수도권과 강원·충청·광주·전남·대구·경북권은 5~30㎜ 안팎의 비가 예보됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>추적 피하려 걷고, 자전거 탔지만...금은방 절도범 3시간만에 붙잡혀</title>
+      <link>https://www.chosun.com/national/incident/2024/08/18/YXLXXEAQBZAQRJCEFGXJGTENVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/18/YXLXXEAQBZAQRJCEFGXJGTENVM/</guid>
+      <dc:creator>원주=정성원 기자</dc:creator>
+      <description>강원 횡성군 한 금은방에 침입해 귀금속을 훔쳐 달아난 30대 절도범이 도주 30분 만에 경찰에 붙잡혔다.강원 원주경찰서는 특수절도 혐의로 40대 A씨를 붙잡아 조사 중이라고 18일 밝혔다.</description>
+      <pubDate>Sun, 18 Aug 2024 00:47:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2ZI4LQWBHTGQG3OT7R32YACSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 원주경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 횡성군의 금은방에 침입해 귀금속을 훔쳐 달아난 30대 절도범이 도주 약 3시간 만에 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;강원 원주경찰서는 특수절도 혐의로 A(44)씨를 붙잡아 조사 중이라고 18일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 17일 오전 3시 20분쯤 강원 횡성군 횡성읍 한 금은방에 침입해 2억원 상당의 귀금속을 훔쳐 달아난 혐의를 받고 있다. A씨는 망치로 금은방 유리창과 진열장을 부쉈으며, 3분여 만에 범행을 마친 뒤 도주했다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 이후 추적을 피하기 위해 차량을 이용하지 않고 걷거나 자전거를 타고 수십 km 떨어진 원주시로 이동한 것으로 드러났다.&lt;br&gt;&lt;br&gt;횡성경찰서는 사건 발생 방범카메라(CCTV) 등을 통해 A씨의 도주 경로를 파악해 인접 경찰서에 공조 수사를 요청했고, 범행 3시간 만인 같은 날 오전 6시 10분쯤 원주시 단계동 버스터미널 인근에서 A씨를 붙잡았다.&lt;br&gt;&lt;br&gt;A씨는 경찰에서 “생활이 어렵고 채무가 많아 범행했다”고 진술한 것으로 알려졌다. 경찰은 A씨를 상대로 구체적인 범행 동기 등을 조사한 뒤 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[이별전쟁] 이혼 거부한 남편, 이유는 “멸치볶음도 내 입맛 맞게 해놨는데...”</title>
       <link>https://www.chosun.com/national/court_law/2024/08/18/EU7UHFNYGVHRXKLNTPLUKKPHOM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/18/EU7UHFNYGVHRXKLNTPLUKKPHOM/</guid>
@@ -899,76 +966,6 @@
     uwg806@yna.co.kr/2024-08-16 15:33:33/
 &lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
         <media:credit role="author" scheme="urn:ebu">이정훈</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>‘해피머니’ 고소·고발 54건, 서울청 금융수사대서 수사한다</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/16/QLOE5C32TZGX3AGADK2VLV4KRI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/16/QLOE5C32TZGX3AGADK2VLV4KRI/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Aug 2024 05:02:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXOJ6JDLRZBJ3JMT3HJAJ35O5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;티몬‧위메프 미(未)정산 사태로 발생한 해피머니 상품권 피해 사건을 서울경찰청 광역수사단 금융범죄수사대가 수사하기로 했다.&lt;br&gt;&lt;br&gt;서울경찰청 금융범죄수사대는 해피머니 상품권 관련 고소·고발 54건을 지난 14일 서울 강남경찰서로부터 넘겨받아 수사 중이라고 16일 밝혔다. 경찰은 당초 강남경찰서를 집중 수사 관서로 지정해 수사할 계획이었지만, 해피머니 상품권 사건은 서울경찰청으로 이관하기로 했다.&lt;br&gt;&lt;br&gt;티몬‧위메프 미정산 사태와 관련해 강남서에 총 62건의 고소·고발이 접수됐다. 이 가운데 54건이 해피머니와 관련된 사건이다. 앞서 해피머니 상품권 구매자들은 티몬과 위메프에서 할인가로 상품권을 구매했으나 정산이 지연돼 환불받지 못하고 사용도 정지됐다며 류승선 해피머니아이앤씨 대표를 사기 혐의로 경찰에 고소한 바 있다.&lt;br&gt;&lt;br&gt;현재 강남경찰서는 큐텐과 티몬·위메프 관련 사건 8건을 검찰과 협력 수사 중이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘연구비 부정사용’ 군산대 총장 구속 송치…대학 구성원들은 “사퇴 촉구”</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/16/WHXPISKGLJEEXLEVCOII6UPIXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/16/WHXPISKGLJEEXLEVCOII6UPIXA/</guid>
-      <dc:creator>군산=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Aug 2024 06:29:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRNK722ZBRAMVANMVEKUUIBPNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서해해경청.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군산대학교 총장이 연구비를 부정 사용한 혐의로 구속 송치됐다.&lt;br&gt;&lt;br&gt;서해해경청은 16일 “이날 특경경제범죄 가중처벌 등에 관한 법률 위반(사기) 혐의로 이장호(59) 군산대학교 총장을 검찰에 구속 송치했다”고 밝혔다. 이 총장은 총장 취임 전 군산대 해상풍력연구원 연구책임자로 재직하던 중 정부 연구비 일부를 부정 사용한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;서해해경청은 이 총장이 맡았던 신재생에너지 관련 연구가 지난 2021년 중단된 이후, 정부 지원 연구비 일부를 부정 사용한 것으로 보고 지난해 11월 총장실을 압수수색하는 등 수사를 이어왔다.&lt;br&gt;&lt;br&gt;군산대 교수·직원·학생 등으로 구성된 대학평의회는 이날 성명서를 내고 “총장이 임기 중 구속되는 사상 초유의 사태가 발생해 학내 구성원들은 더 이상 이 총장을 신뢰할 수 없다”며 “총장은 물론이고 대학의 위상 회복과 업무 정상화를 위해 보직 교수들도 전원 사퇴하라”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MRNK722ZBRAMVANMVEKUUIBPNU.jpg?width=1440&amp;height=1307&amp;auth=408e096ca862a8c4a626db6d41515bc1a546cd93227728ad48a61d22eb72fa73&amp;smart=true" type="image/jpeg" height="1307" width="1440">
-        <media:description type="plain">서해해경청 청사 전경./서해해경청</media:description>
-        <media:credit role="author" scheme="urn:ebu">서해해경</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>동거녀 폭행 신고에 격분, 기름 뿌리고 불붙인 30대... 징역 8년 선고</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/16/FS3Q6ZOGOVEQFBVOTV4PGWDGMI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/16/FS3Q6ZOGOVEQFBVOTV4PGWDGMI/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Aug 2024 06:15:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AZWLNE2CUVC4BNXL5R7VBKVCJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지방법원./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동거녀의 몸에 기름을 뿌리고 불을 붙여 살해하려 한 30대 남성에게 중형이 선고됐다.&lt;br&gt;&lt;br&gt;인천지법 형사14부(재판장 손승범)는 16일 살인 미수 혐의로 구속기소 된 A(36)씨에 대해 징역 8년을 선고했다. 또 출소 후 보호관찰 5년, 피해자와 피해자 가족에 대한 접근 금지, 혈중알코올농도 0.03% 이상의 음주 금지 등을 명령했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 피해자의 112 신고에 격분해 인화성 물질인 등유를 피해자의 머리 등에 붓고 불이 번지게 했다”며 “죄질이 나쁘고 잔인해 사회적 비난 가능성이 커 엄한 처벌이 불가피하다”고 했다. 이어 “피고인의 범행으로 피해자는 신체적‧정신적으로 큰 고통을 받았고, 피해자 가족도 보복 범죄를 우려하고 있다”며 “피고인은 (피해자에 대한) 특수상해 범행으로 임시 조치 결정을 받은 상황인데도 범행했다”고 했다. &lt;br&gt;&lt;br&gt;재판부는 “피고인이 피해자로부터 용서받지 못한 점, 범행이 미수에 그친 점, 벌금형 이상의 범죄 전력이 없는 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;검찰은 지난 4월 A씨의 결심 공판에서 범행 방법이 잔혹하고 피해자가 입은 피해가 상당히 무겁다며 징역 15년을 구형했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 10월 16일 오후 11시쯤 인천 강화군의 한 주택에서 동거하던 30대 여성 B씨의 머리와 몸에 등유를 뿌리고 불을 붙여 살해하려 한 혐의로 구속기소 됐다. B씨는 A씨의 범행으로 얼굴과 몸에 3도 화상을 입고 병원에서 전치 12주의 진단을 받았다.&lt;br&gt;&lt;br&gt;A씨는 과거 자신에게 폭행당한 B씨가 112에 신고하자 격분해 범행한 것으로 조사됐다. A씨는 범행 한 달여 전인 9월 6일에도 회사 동료들과 술을 마셨다는 이유로 B씨에게 휴대전화를 던져 다치게 했고, 피해자 주변 접근을 금지하는 임시 조치를 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대구서 유니버설발레단 ‘잠자는 숲속의 미녀’ 공연</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/16/MKMCYLFUSNADDFYGKDDTT4T7FY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/16/MKMCYLFUSNADDFYGKDDTT4T7FY/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Aug 2024 06:06:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M2TITNZ5ZFAWNASJBXBFFBZAC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구학생문화센터에서 23~24일 유니버설발레단의 '잠자는 숲속의 미녀'를 공연한다./대구시교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구학생문화센터에서 유니버설발레단의 ‘잠자는 숲속의 미녀’ 공연이 진행된다. 유니버설발레단은 올해 창단 40주년을 맞은 한국 최초의 민간 발레단이자 국립발레단과 함께 국내 양대 발레단으로 불린다.&lt;br&gt;&lt;br&gt;대구학생문화센터는 “오는 23일 오후 7시 30분과 24일 오후 3시 센터 대공연장에서 유니버설발레단 잠자는 숲속의 미녀 공연을 개최한다”고 16일 밝혔다. 잠자는 숲속의 미녀는 프랑스 작가 샤를 페로가 지은 동화가 원작으로, ‘호두까기 인형’, ‘백조의 호수’와 함께 고전 발레 3대 걸작으로 꼽힌다. 공주의 생일에 초대 받지 못해 분노한 마녀가 공주에게 잠에 드는 저주를 걸고, 왕자가 공주의 저주를 풀기 위해 분투하는 이야기다. &lt;br&gt;&lt;br&gt;이번 공연에선 지난해 6월 세계 무용계 최고의 상이자 발레의 아카데미상으로 불리는 ‘브누아 드 라 당스’ 최우수 여성 무용수상을 수상한 강미선(41) 수석 무용수와 이유림 솔리스트가 주인공인 오로라 공주역을 맡아 출연한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SB2HDZMZYZBDDFQ7MBNXJXOUME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구학생문화센터에서 23~24일 유니버설발레단의 '잠자는 숲속의 미녀'를 공연한다./대구시교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;잠자는 숲속의 미녀는 보통 3시간이 넘는 공연이다. 하지만 유니버설발레단의 이번 공연은 원작을 재구성한 뒤 내용을 2시간 분량으로 압축했다. 발레단 측은 “원작의 내용과 화려함을 살리면서 관객의 몰입감을 높였다”고 말했다. &lt;br&gt;&lt;br&gt;작중 배경인 ‘플로레스탄 왕궁’을 재현한 무대 세트와 왕실 의상, 발레리나들의 화려한 무용, 19세기 러시아 황실 발레의 전통을 살린 군무(群舞) 등이 볼거리다. 티켓 가격은 2만~4만원이며, 초·중·고 학생석은 1만원으로, 티켓링크 사이트를 통해 예매할 수 있다.&lt;br&gt;&lt;br&gt;배호기 대구학생문화센터 관장은 “이번 공연은 우연히 받은 선물상자처럼 가족의 기억에 오래도록 남을 추억이 될 것”이라며 “앞으로도 가족들이 함께볼 수 있는 다양한 공연을 선보이겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘훈련병 얼차려 사망’ 지휘관들...첫 재판서 서로 책임 떠넘기기도</title>
-      <link>https://www.chosun.com/national/incident/2024/08/16/N7W7NBNPZ5GFNMLHH2BAIV7SU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/16/N7W7NBNPZ5GFNMLHH2BAIV7SU4/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Aug 2024 04:36:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2PRQQ3SN5FWOFVWWJM252EYWYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;육군 12사단 '훈련병 사망' 사건과 관련해 규정을 어긴 군기훈련(얼차려)을 지시한 혐의를 받는 중대장이 지난 6월 21일 강원도 춘천지법에서 열린 영장실질심사(구속 전 피의자 심문)를 마치고 나서고 있다. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군기훈련 규정을 위반해 훈련병이 숨진 사건과 관련, 이를 지시한 육군 간부 2명에 대한 첫 재판이 16일 열렸다. 이들은 서로에게 책임을 떠넘기는 모습까지 보였다.&lt;br&gt;&lt;br&gt;춘천지법 형사2부(재판장 김성래)는 이날 육군 12사단 신병교육대 중대장 대위 강모(27)씨와 부중대장 중위 남모(25)씨의 학대치사와 직권남용가혹행위 혐의 사건 첫 공판을 열었다.&lt;br&gt;&lt;br&gt;이들은 지난 5월 23일 강원 인제군 12사단 신병교육대에서 훈련병 6명을 대상으로 규정을 위반한 군기훈련을 시킨 혐의로 재판에 넘겨졌다. 또 이들 중 실신한 박모 훈련병에게 적절하게 조처도 하지 않은 혐의도 받는다.&lt;br&gt;&lt;br&gt;검찰은 이들에게 업무상과실치사죄가 아닌 학대치사죄를 적용해 기소했다. 당시 기상 조건과 훈련방식, 신체 조건 등을 고려할 때 학대 행위로 볼 수 있는 위법한 군기훈련이라고 판단한 것이다.&lt;br&gt;&lt;br&gt;이날 재판에서는 이들이 군기훈련 당시의 지시내용이 자세히 공개됐다.&lt;br&gt;&lt;br&gt;중대장이던 강씨는 훈련병들에게 ‘하나에 정신, 둘에 차리자’를 구호로 팔굽혀펴기를 시켰다. 팔굽혀펴기를 하던 훈련병 중 한명이 군장에서 물건들이 쏟아지자 “너는 군장 쌀 줄 모르냐, 너는 하루 종일 뛰어라”라며 뜀걸음을 반복시켰다.&lt;br&gt;&lt;br&gt;이를 부중대장이던 남씨는 강씨의 지시에 뜀걸음을 하던 중 쓰러진 훈련병에게 “힘들어? 아니면 일어나. 나 곧 전역이다. 지금 군법에 따라 군기훈련을 하고 있다”며 팔굽혀펴기를 시켰다.&lt;br&gt;&lt;br&gt;이날 강씨 측 변호인은 “박 훈련병을 학대하려는 범죄의도가 없었고, 고의가 없는 이상 학대 행위로 인해 박 훈련병이 사망했다는 인과관계와 예견가능성을 인정하기는 어렵다”고 주장했다.&lt;br&gt;&lt;br&gt;이어 “훈련병들에게 가혹행위를 한 잘못은 인정한다”면서도 “가 군장 상태에서 남씨가 군기훈련을 직접 통제해 실시하는 것으로만 알았고, 완전군장 상태로 실시할 것은 전혀 예상하지 못했다”고 책임을 회피했다.&lt;br&gt;&lt;br&gt;남씨 측 변호인은 “처음 완전군장 상태에서 연병장 2바퀴를 보행하게 한 사실은 인정한다”고 했다. 그러면서 “다만 명령권자인 중대장이 군기훈련을 집행하면서부터는 집행권한을 완전히 상실했다”며 “그렇기에 사망 결과의 책임을 남씨의 군기훈련 행위에 귀속시킬 수 없고, 사망의 예견가능성을 인정할 수 없다”고 학대치사죄 혐의를 부인했다.&lt;br&gt;&lt;br&gt;이 같은 주장에 재판부는 “가혹행위는 인정하면서 사망과 관련한 학대의 고의가 없었다는 변론에는 모순이 있다”며 변호인들에게 법리 검토를 요청했다.&lt;br&gt;&lt;br&gt;두번째 공판은 오는 28일 열린다. 재판부는 이날 박 훈련병과 함께 군기훈련을 받았던 피해 훈련병 5명을 대상으로 증인신문을 진행할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘부산 비엔날레’ 17일 개막…36개국 350여 작품 선보여</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/08/16/R56WJBXEVRBVXEMLCLEOLP5M2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/08/16/R56WJBXEVRBVXEMLCLEOLP5M2U/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Aug 2024 05:59:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SR4XTTFMBRB2LIK7KARWMOMY4M.png"&gt;&lt;figcaption&gt;&lt;small&gt;'2024부산비엔날레' 공식 포스터./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘2024 부산비엔날레’가 17일 공식 개막, 두 달여 간의 전시에 들어간다.&lt;br&gt;&lt;br&gt;부산비엔날레조직위원회는 16일 오후 5시 부산 사하구 하단동 을숙도 안 부산현대미술관 야외 특설 무대에서 2024부산비엔날레 개막식을 하고 17일부터 일반 관람을 시작한다고 밝혔다.&lt;br&gt;&lt;br&gt;전시는 부산현대미술관, 부산 중구 중앙동 원도심에 위치한 부산근현대역사관의 금고미술관, 중구 동광동 한성1918(1918년 한성은행 부산지점으로 건립된 이후 약 40년간 은행 등으로 운영되다 부산시가 사들여 2018년 4월 생활문화센터로 리모델링했다), 동구 초량동 2층 주택인 초량재 등 모두 4곳에서 오는 10월 20일까지 이어진다. ‘한성1918′이들 4개 전시장에선 36개국 62개팀(78명)의 작품 353점을 만날 수 있다.  &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E7DIIBLCEJFL3H36EMOAY4U7LQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 중구 동광동 '한성1918' 전경. 17~10월20일 열리는 2024부산비엔날레 전시장 중 하나다./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 비엔날레는 팔레스타인, 이란 등 중동 지역, 세네갈, 자메이카, 코트디부아르, 토고 등 아프리카 지역 등 평소 접하기 어려웠던 지역 작가들의 작품이 다수 출품된 것이 특징. 출품 작가들의 배경이나 활동 영역 또한 저술가, 교사, 악기 제작자, 의사, 디제이, 다학제 연구자, 종교인 등으로 아주 다채롭다.&lt;br&gt;&lt;br&gt;조직위 측은 “올해 전시 작품들의 다양성은 여러 문화와 배경의 사람들이 섞여서 소통하고 생활하는 항구도시 부산과 닮았다”고 말했다.&lt;br&gt;&lt;br&gt;올해 전시 주제는 ‘어둠에서 보기’(Seeing in the Dark). 조직위 측은 “‘어둠’은 우리가 처한 곤경, 이미 알려진 곳이면서도 알 수 없는 장소를 항해하는 두려움 등을 상징한다”고 말했다. 그러나 이 어둠은 성경 창세기의 ‘어두운 물’처럼 창조의 모태가 되고 포용적인 대안을 제시하는 깊이를 뜻하기도 한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VOT2VT7M6NBOHA6COQQ4WYPKGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 사하구 하단동 을숙도 안 '부산현대미술관' 전경. 이 미술관은 17~10월20일 열리는 '2024부산비엔날레'의 전시장 중 하나다./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조직위 측은 “어둠을 꾸짖어 쫓아내는 대신 심연의 어둠에 침잠해 그 어둠 속에서 이전과는 다른 저 너머를 바라보고 대안적인 방식과 새로운 방향을 모색한다는 의미가 담겨 있다”며 “대안적이고 새롭기에 다채로운 문화와 관점들을 느낄 수 있는 기회가 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;전시 외 연계 프로그램으로 ▲어둠 속의 잡담 ▲어둠 속의 연주 ▲어둠 속의 탐구  ▲부산~오사카를 오가는 팬스타크루즈와의 콜라보 전시 등이 운영된다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>끼어들기로 화물차 전복됐는데… ‘사고 유발’ 캠핑카 유유히 떠나</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/16/3RN52HODK5BC7CTNCJ7NZDMRJ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/16/3RN52HODK5BC7CTNCJ7NZDMRJ4/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Aug 2024 02:22:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U7PR4NUXJBERHJX6JQ3TOBOSXA.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 12일 충남 당진에서 화물차가 갑자기 끼어든 캠핑카를 피하려다 중심을 잃고 전복된 모습. /보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;갑자기 차선을 변경한 캠핑카를 피하려다 화물차가 전복되는 사고가 발생했다. 사고를 유발한 캠핑카 운전자가 아무런 조치 없이 현장을 떠나는 모습이 포착돼 온라인에서 공분이 일고 있다.&lt;br&gt;&lt;br&gt;온라인 커뮤니티 보배드림에는 지난 13일 이 같은 사고 장면을 담은 방범카메라 영상이 올라왔다. 영상을 보면, 1차로를 달리던 한 캠핑카가 차선 변경을 시도한다. 2차로에서 뒤따라오던 화물차 한 대는 끼어든 캠핑카를 피하기 위해 급정거하며 방향을 틀다가 중심을 잃고 전복됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2UZKXIQYOJDLJETV2KOGYOHE6Q.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난 12일 충남 당진에서 화물차가 갑자기 끼어든 캠핑카를 피하려다 중심을 잃고 전복된 모습. /보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사고 충격에 화물차는 앞유리가 부서지고 일대엔 흙먼지가 날렸다. 사고를 유발한 캠핑카는 잠시 멈추는가 싶더니 그대로 현장을 떠났다.&lt;br&gt;&lt;br&gt;영상을 본 네티즌들은 “화물차 기사가 살려준건데 나몰라라 없어지나” “자기가 목격자라고 해도 사고 장면을 봤으면 내려서 살펴봐야 하는 것 아닌가” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;이 사고는 지난 12일 오후 12시50분쯤 충남 당진의 한 도로에서 발생했다. 당시 화물차엔 대형 철강 코일이 실려 있었다. 50대 화물차 운전자는 통증을 호소하며 병원으로 이송돼 치료를 받는 것으로 전해진다.&lt;br&gt;&lt;br&gt;영상 속 캠핑카 운전자는 60대 여성으로, 그는 경찰 조사에서 “사고가 난 줄 몰랐다”고 진술한 것으로 알려졌다. 경찰 관계자는 채널A 뉴스에 “특정범죄 가중처벌 등에 관한 법률을 적용해 수사할 방침”이라며 “물리적인 충돌이 없더라도 간접적으로 사고를 유발한 비접촉사고 역시 원인을 제공한 과실이 있다면 일반 교통사고와 마찬가지로 처벌받을 수 있다”고 했다.&lt;br&gt;&lt;br&gt;특히 사고를 낸 걸 알면서도 별다른 조치 없이 현장을 이탈하면 도주 치상죄, 뺑소니 혐의가 적용될 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/2UZKXIQYOJDLJETV2KOGYOHE6Q.gif?width=610&amp;height=370&amp;auth=e2c49bc82c6c9540bffbda3e94fc8f33db81e85dcb2bf17ea406608dc28994d6&amp;smart=true" type="image/jpeg" height="370" width="610">
-        <media:description type="plain">지난 12일 충남 당진에서 화물차가 갑자기 끼어든 캠핑카를 피하려다 중심을 잃고 전복된 모습. /보배드림</media:description>
       </media:content>
     </item>
     <item>
