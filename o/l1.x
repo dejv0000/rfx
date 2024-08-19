@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>지난해 리콜 21.6% 감소...공정위, 2023년 리콜실적 분석 발표</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/200656.jpg" alt="1877.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;지난해 각종 제품 결함으로 인한 결함보상(리콜) 건수가 1년 전보다 20% 넘게 줄었다. 다만 자동차 리콜은 배출가스 관련 부품 결함 등의 이유로 5.8% 증가한 것으로 나타났다.&lt;br /&gt;&lt;br /&gt;공정거래위원회(위원장 한기정)가 18일 발표한 ‘2023년 리콜 실적 분석’에 따르면 지난해 리콜은 모두 2813건으로 2022년의 3586건보다 21.6% 감소했다.&lt;br /&gt;&lt;br /&gt;유형별로는 자진 리콜이 2022년 857건에서 지난해 689건으로 19.6% 감소했고, 리콜 권고도 같은 기간 620건에서 501건으로 19.2% 줄었다. 리콜 명령 또한 2109건에서 1623건으로 감소했다.&lt;br /&gt;&lt;br /&gt;품목별로는 공산품이 32.5%, 의약품이 41.2% 각각 줄었고, 의료기기도 12.6% 감소했다. 다만 주요 품목별로 보면 자동차 리콜은 308건에서 326건으로 18건(5.8%) 늘었다. 배출가스 관련 부품 결함이 증가한 영향이다.&lt;br /&gt;&lt;br /&gt;관련 법률별로는 화학제품 안전법에 의한 리콜은 34.5% 줄었다. 온라인에서 유통되는 생활화학제품에 대한 모니터링 확대 등으로 법 위반이 감소한 데 따른 결과이다.&lt;br /&gt;&lt;br /&gt;약사법에 의한 리콜도 41.2% 줄었다. 제약업계의 제조공정 관리 강화로 의약품에 비의도적으로 발생하는 불순물이 감소한 영향으로 분석된다.&lt;br /&gt;&lt;br /&gt;공정위 관계자는 "'소비자24'를 통해 위해 제품 안전정보·리콜정보 등을 통합 제공함으로써 소비자 피해 확산 방지를 위해 노력하고 있다"며 "알리·테무 등 해외 온라인플랫폼 사업자에도 적극 요청해 위해 제품과 결함 제품의 유통·판매를 막기 위해 노력할 것"이라고 밝혔다.</description>
+			<pubDate>Mon, 19 Aug 2024 01:45:52 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/200656</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200656</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200656.jpg</media:thumbnail>
+			<dc:creator>이순규 기자</dc:creator>
+		</item>
+		<item>
+			<title>[단독] 檢, '삼표 부당지원 의혹' 수사 착수...중앙지검 공조부 배당</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/200657.jpg" alt="200657.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/200657.jpg" alt="3.jpg" style="opacity: 0;" height="10px" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;검찰이 기업총수의 2세 회사를 지원하기 위해 레미콘 원자재를 비싸게 구입해 부당이익을 몰아준 삼표산업에 대한 수사에 착수했다.&lt;br /&gt;&lt;br /&gt;서울중앙지검 공정거래조사부(&lt;span style="font-weight: bold;" class="lawmanlink" serial="11311"&gt;김용식&amp;nbsp;&lt;/span&gt;부장검사)는 최근 공정거래법 위반 혐의를 받는 삼표산업에 대한 사건을 배당받았다. &lt;br /&gt;&lt;br /&gt;앞서 8일 공정거래위원회는 삼표 계열사인 삼표산업이 그룹총수 2세가 최대주주로 있는 에스피네이처를 부당하게 지원한 행위에 대해 시정명령 및 과징금 116억2000만 원을 부과하고, 검찰에 고발한다고 밝혔다. &lt;br /&gt;&lt;br /&gt;공정위는 삼표그룹의 핵심 계열사인 삼표산업이 시멘트 대체재인 분체 생산업체 에스피네이처로부터 고가에 레미콘 원자재를 구입하는 방식으로 부당 지원을 했다고 봤다. 삼표산업은 2016년 1월부터 2019년 12월까지 레미콘 제조에 필요한 물질 '분체'를 에스피네이처로부터 사실상 전량 구입한 것으로 조사됐다. &lt;br /&gt;&lt;br /&gt;에스피네이처는 삼표그룹 정도원 회장의 아들 정대현 부회장이 최대주주로 지분 71.95%를 보유한 회사다. 공정위는 에스피네이처가 이같은 부당 내부거래를 통해 정상적인 공급단가로 거래했을 때보다 74억 9600만 원가량의 이익을 취한 것으로 판단했다. &lt;br /&gt;&lt;br /&gt;건설기초소재 생산 등이 주 사업인 삼표는 올해 기준 자산총액 5.2조 원, 33개의 소속회사를 보유한 규모의 공시대상기업집단이다. 삼표산업은 2022년 매출액 기준 국내 2위 레미콘 제조업자이다.</description>
+			<pubDate>Mon, 19 Aug 2024 01:43:01 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/200657</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200657</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200657.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2024년 8월 19일</title>
 			<description>&lt;b&gt;◇ 국회의장&lt;/b&gt;&lt;br /&gt;09:00 을지연습 현장 격려방문(종합상황실)&lt;br /&gt;&lt;br /&gt;09:30 국회의장 주재 기관장 업무보고(국회접견실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 국회사무총장&lt;/b&gt;&lt;br /&gt;09:30 국회의장 주재 기관장 업무보고(국회접견실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 상임위원회&lt;/b&gt;&lt;br /&gt;10:00 환경노동위원회 전체회의(본관 622호)&lt;br /&gt;&lt;br /&gt;10:00 산업통상자원중소벤처기업위원회 전체회의(본관 534호)&lt;br /&gt;&lt;br /&gt;14:00 산업통상자원중소벤처기업위원회 중소벤처기업소위원회(본관 534호)&lt;br /&gt;&lt;br /&gt;14:00 국토교통위원회 교통법안심사소위원회(본관 530호)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 의원실 세미나&lt;/b&gt;&lt;br /&gt;09:30 남인순 의원실, 희귀 난치 질환자들을 위한 정책 진단과 제언(의원회관 제2세미나실)&lt;br /&gt;&lt;br /&gt;10:00 김민전 의원실, 대학의 자율적인 혁신을 위한 고등교육 정책방향 및 입법과제(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;13:30 김윤 의원실 등, 간호사 진료지원 업무, 합리적 제도화 방안(의원회관 제1세미나실)&lt;br /&gt;&lt;br /&gt;14:00 정태호 의원실 등, 2024년 세법개정안 비판적 평가와 바람직한 대안 모색(의원회관 제3간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 이재정 의원실 등, 국회 글로벌 지속가능발전 인도주의 포럼 창립총회 및 특별세미나(의원회관 제3세미나실)&lt;br /&gt;&lt;br /&gt;14:00 강선영 의원실, 제1회 K방산 중소기업 진흥 토론회(의원회관 제2소회의실)&lt;br /&gt;&lt;br /&gt;15:00 백승아 의원실 등, 대학정책 기조, 어떻게 바꿀 것인가?(의원회관 제5간담회의실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 소통관 기자회견&lt;/b&gt;&lt;br /&gt;09:40 박민규 의원, [전세사기 관련 방안 마련 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;10:00 김준형 의원, [외교 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:40 한창민 의원, [유철환 국민권익위원장 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 성소미 공보기획관, [8월 3주차 국회 정례브리핑]&lt;br /&gt;&lt;br /&gt;11:20 박수민 의원, [전국민 25만원 살포 관련 성명 발표 기자회견]&lt;br /&gt;&lt;br /&gt;14:20 강득구 의원, [정치 현안 관련 기자회견]&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
 			<pubDate>Sun, 18 Aug 2024 22:35:36 -0000</pubDate>
@@ -221,26 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200647</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200647.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>한국법제연구원, '한국 입법평가의 현재와 미래’ 학술대회 개최</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/200646.jpg" alt="200646.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;16일 서울대 로스쿨 백주년기념관 최종길홀에서 열린 학술대회에 참가한 참석자들.&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국법제연구원(원장 한영수)은 16일 서울대 로스쿨 백주년기념관 최종길홀에서 ‘한국 입법평가의 현재와 미래’를 주제로 한국입법학회와 공동학술대회를 개최했다. &lt;br /&gt;&lt;br /&gt;이번 학술대회는 국내 입법평가제도 운영에 관한 현황을 진단하고 한국 입법현실에 부합하는 제도의 체계 및 방법론을 논의하기 위해 마련됐다. &lt;br /&gt;&lt;br /&gt;△한국 입법과정에서의 입법평가의 대상과 입법평가 유형에 관한 진단 △입법평가의 효율성 달성을 위한 입법평가의 체계 및 방법론의 개선방안 △행정기본법상 입법영향분석 제도의 현황과 검토 △지방자치단체 입법평가 조례에서의 입법평가의 기준과 개선방안 등을 주제로 발제가 이어졌다.&lt;br /&gt;&lt;br /&gt;한영수 원장은 “입법평가는 법률안에 대한 영향을 사전에 예측해 분석하기도 하고, 법률의 영향을 사후적으로 평가해 환류시킬 수 있다는 점에서 입법발전에 긍정적 영향을 줄 수 있는 중요한 도구”라며 “이번 학술대회에서 좋은 입법을 만들기 위한 대안들이 논의될 수 있기를 기대한다”고 전했다. &lt;br /&gt;&lt;br /&gt;연구원은 다양한 이해 관계인의 의견을 수렴하고 이를 조정해 보다 나은 입법이 이뤄질 수 있도록 지원하는 입법평가연구사업을 18년째 수행하고 있다.</description>
-			<pubDate>Fri, 16 Aug 2024 06:53:40 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/200646</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200646</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200646.jpg</media:thumbnail>
-			<dc:creator>안현 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 자신을 밀친 경찰관에 고성, 되밀친 시민…대법 "최초 행위 정당화할 근거될진 몰라도 반복되면 정당화 못 해"</title>
-			<description>&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/200625.jpg" alt="200625.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;신고를 받고 나온 경찰관과 실랑이 중 경찰이 자신을 밀치자 여러 차례 다시 밀쳐 공무집행방해 혐의로 재판에 넘겨진 시민에게 유죄 취지의 대법원 판결이 나왔다.&lt;p&gt;   &lt;b&gt;&lt;br /&gt;대법원 형사2부&lt;/b&gt;(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3751"&gt;권영준&amp;nbsp;&lt;/span&gt;대법관)는 지난달 25일 공무집행방해 혐의로 기소된 A 씨에 대한 상고심에서 무죄를 선고한 원심 판결을 파기하고 사건을 서울서부지법으로 돌려보냈다(&lt;b&gt;2023도16951&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;A 씨는 2022년 6월 서울 용산구의 한 파출소 앞에서 신고를 받고 나온 경찰관 B 씨의 몸을 4차례 밀친 혐의로 기소됐다. 당시 A 씨는 'A 씨가 마음대로 택시를 타고 안 내린다'는 신고를 받고 현장에 나온 경찰관 B 씨와 C 씨로부터 '승차 거부와 관련해선 120번으로 민원을 접수하면 된다'는 설명을 듣고도 경찰관들에게 사건을 접수해 달라고 계속 요구했다. 이후 C 씨에게 몸을 들이밀었고, 이를 B 씨가 밀며 제지하자 욕설을 하며 B 씨를 밀쳤다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;1심과 항소심은 A 씨에게 무죄를 선고했다. 항소심은 "경찰관이 유형력을 행사하면서 자신을 밀치고 당기는 등의 행위를 하자, 이에 저항한 것"이라며 "당시 경찰관의 밀친 행위가 경찰권 남용으로 위법하다고 오인할 만한 정당한 사유가 있다고 보인다"라고 밝혔다. 이어 "이러한 A 씨의 행위는 위법성 조각사유의 전제사실에 대한 착오가 있어 책임이 조각된다"며 "따라서 공무집행방해죄가 성립하지 않는다"고 설명했다. 경찰관 B 씨가 자신을 제지한 것을 위법한 경찰권 남용으로 오인할 만한 정당한 사유가 있다고 볼 수 있어, 이에 저항하는 행위는 처벌할 수 없다는 취지이다.      &lt;/p&gt;&lt;p&gt;   &lt;br /&gt;하지만 대법원은 항소심에서 오인의 정당한 사정이 무엇인지 구체적으로 밝히지 않은 채 무죄로 판단했다며 판결을 뒤집었다. 재판부는 "경찰관 B 씨가 A 씨를 급하게 밀쳐내 A 씨와 C 씨를 분리한 조치는 경찰관 직무집행법 제6조에서 정하는 '범죄의 예방과 제지'에 관한 적법한 공무에 해당한다"고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이어 "원심은 A 씨의 몸을 밀어낸 B 씨의 행위를 위법하다고 오인해 B 씨를 밀친 것이어서 위법성 조각사유의 전제사실에 대한 착오라고 판단했다"며 "그러나 전제사실 자체에 관해선 A 씨의 인식에 어떤 착오도 존재하지 않고, B 씨의 직무집행의 적법성에 대한 A 씨의 주관적인 법적 평가가 잘못됐을 여지가 있을 뿐"이라고 설명했다. 그러면서 "A 씨에게 위법성 조각사유의 전제사실에 대한 착오가 있었다고 보기 어렵다"며 "설령 원심의 판단처럼 A 씨에게 자신을 제지한 경찰관의 행위가 위법하다고 오인할 만한 정당한 이유가 있더라도, B 씨를 밀친 A 씨의 최초 행위를 정당화할 근거가 될 지는 몰라도 이후 여러 차례 B 씨를 밀치며 유형력을 행사한 A 씨의 행위까지 정당화 될 순 없다"고 판시했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Fri, 16 Aug 2024 05:54:18 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/200625</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200625</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200625.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
