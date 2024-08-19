@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울 30일째 열대야 기록…한 달 내내 찾아온 밤 더위</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/08/20/GRBJHCL7BVDPXIWD54VZX7O3TA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/08/20/GRBJHCL7BVDPXIWD54VZX7O3TA/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 19 Aug 2024 23:07:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PNPJ4YHEUP2FKHF2F2SBTO2B44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 밤 서울 서초구의 한 전광판에 현재 온도가 표시되고 있다. 전광판 뒤로는 아파트 불빛이 보이고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;간밤 서울에 열대야(熱帶夜·밤 최저기온 25도 이상)가 또 발생하며 30일째 밤 더위가 나타났다. 서울은 근대 기상 관측이 시작된 지 117년 만에 처음으로 ‘한 달 열대야’라는 기록을 세우게 됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 간밤 서울의 가장 낮은 기온이 27도에 머물면서 열대야가 발생했다. 지난달 21일 이후 30일째 열대야다.&lt;br&gt;&lt;br&gt;부산은 지난달 25일 이후 26일째, 제주는 지난달 15일 이후 36일째 열대야가 이어지고 있다. 서울·부산은 종전 최장 기록을 이미 넘어 매일 신기록을 경신하고 있다. 제주는 2013년 세운 ‘44일 연속’이 최장 기록이다. 제주의 간밤 가장 낮은 온도는 28도였다.&lt;br&gt;&lt;br&gt;9호 태풍 ‘종다리’가 남쪽의 열풍을 우리나라 쪽으로 끌어오고 있어 열대야는 한동안 이어질 전망이다. 보통 태풍이 북상하면 더위가 잠시 주춤하지만, 이번 태풍의 경우 규모가 작고 발달 48시간 내에 소멸할 가능성이 커 더위를 해소할 틈도 없이 거대 수증기 덩어리와 ‘열 폭탄’만 한반도에 떨군 채 사라질 것으로 보인다.&lt;br&gt;&lt;br&gt;20일 낮 최고기온은 30~36도로 예보됐다. 20일 제주를 제외한 전국에 5~60㎜의 소나기가 내리겠다.&lt;br&gt;&lt;br&gt;태풍 영향권에 든 제주도와 남부지방엔 거센 비가 예상된다. 20~21일 예상 강수량은 제주도 30~100㎜, 호남권·영남권 30~80㎜ 등이다. 비는 21일 전국으로 확대돼 수도권과 충청·강원에도 20~60㎜의 비를 뿌리겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>﻿여름엔 잔치국수, 겨울엔 김치…50년 묵묵히 나눔 실천한 ‘대구 할머니’</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/20/ZZPXBCU42RD65EDXJ6GPJFC3XU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/20/ZZPXBCU42RD65EDXJ6GPJFC3XU/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 19 Aug 2024 22:33:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NTBQ3HOT2BB7JBB3R7Y6IJVGFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'대구 할머니'로 불리는 신희숙(63)씨가 어르신을 만나 이야기를 듣고 있다. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;큰돈을 기부해 어려운 이웃을 돕는 이들도 있지만, 내가 할 수 있는 만큼의 선행을 꾸준히 실천하는 이들도 있다. 후자는 한 번의 큰 선행보단 주목받지 못하지만, 결코 쉬운 일이 아니다. 누가 알아주지 않아도 평생 어려운 이들을 챙기며 살아온 ‘대구 할머니’는 이웃들에게 무엇보다 소중한 ‘소그미(소금)’가 됐다.&lt;br&gt;&lt;br&gt;신희숙(63)씨는 나누는 삶을 강조한 아버지의 영향으로 52년 동안 선행을 이어왔다. 학창 시절 수돗가에서 서성이며 배고픔을 호소하던 친구들에게 매주 고구마와 감자를 나눠주던 게 시작이었다. 고교 시절 국립목포병원, 한산촌(결핵 요양원), 소록도 섬마을 의료 봉사 및 교도소 봉사 등에 참여하면서 본격적인 봉사자의 삶을 살게 됐다.&lt;br&gt;&lt;br&gt;남편을 따라 대구로 와서는 교회 지인들과 주먹밥을 만들어 인근 노점상 상인들에게 나눠주기 시작했다. 그렇게 시작된 무료 급식 봉사활동은 여름에는 나무 그늘에서 미숫가루와 잔치국수를 전하고, 겨울에는 갓 지은 밥과 김치를 나누는 일로 이어졌다. 비가 오면 물이 차오르는 집에 가서 함께 물을 퍼내기도 했다. 대가를 바라지 않고 이웃을 위해 봉사하는 삶에 보람을 느꼈다.&lt;br&gt;&lt;br&gt;신씨는 “아버지의 영향이 정말 크다”며 “아버지가 지나가던 사람이 있으면 꼭 물 한 잔이라도 마시고 가게 하시던 모습이 제 삶에 강하게 각인되어 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇”그때 한이 맺혀서”…신씨의 마음, 결혼이주여성에게 향하다&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2JGX5FVBKRB6TLEFLBPAHBDWN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'대구 할머니'로 불리는 신희숙(63)씨가 아동에게 받은 그림 편지. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신씨의 나눔은 주변 어르신에서 결혼이주여성, 다문화가정의 아이들로 번졌다. 1989년 미군 부대 인근으로 이사했을 때 겪었던 일이 계기가 됐다.&lt;br&gt;&lt;br&gt;신씨는 강가에서 배를 만지며 복통을 호소하며 울고 있던 한 외국인 여성을 봤다. 이 여성은 한국말을 하지 못해서 신씨는 무슨 말을 하는지 알아들을 수 없었다. 굶주림을 호소하는 것 같아서 빵과 우유를 사준 뒤 삐삐 번호를 알려주었지만, 끝내 연락을 받지 못했다.&lt;br&gt;&lt;br&gt;나중에야 그 여성이 준비되지 않은 임신 및 유산으로 길거리에서 고통을 호소하고 있었다는 것을 알게 됐다고 한다. 신씨는 그 여성을 당장 병원에 데려가지 못한 게 마음의 한으로 남았고, 다문화가정에 대한 관심을 갖게 됐다고 했다.&lt;br&gt;&lt;br&gt;그는 국제결혼 이주여성 정착을 위해 ‘한국 친정엄마’가 되기로 했다. 신씨는 “이주 여성 일부는 한국어 이해력이 부족한 문맹이 상당수”라며 “아이들도 글을 쓸 줄 모르거나 단어의 의미를 잘 모르는 경우가 많다”고 했다. 이어 “어려운 이들에게 퍼주는 도움보다는 자기가 할 수 있는 일들을 찾아주는 것이 중요하다는 걸 알게 됐다”며 “건강이 허락하는 한 그들에게 김치찌개, 된장찌개를 끓여 먹이면서 함께 살아가는 법을 가르치고 싶다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇”어려운 이웃이 전한 과자 한 봉지가 봉사의 동력”&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XS6RYMMUNNGCRLCHTYTB3NNXGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'대구 할머니'로 불리는 신희숙(63)씨가 어르신을 만나 이야기를 듣고 있다. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신씨는 어려운 삶을 사는 국가유공자, 다문화가정, 탈북민 가족들과 함께 시간을 보내며 그들의 이야기를 ‘경청’하는 봉사를 펼친다. 매일 같이 그들의 집에 찾아가 필요한 것을 챙기고, 그들의 말동무가 되어준다. 그 덕분에 ‘할머니’라는 애칭이 생겼다.&lt;br&gt;&lt;br&gt;작년부터는 이랜드복지재단에서 운영하는 SOS위고 봉사단으로 활동하며 어려운 이웃에게 생필품도 전하고 있다. 신씨는 “다수의 기관은 제도적 기준에 맞춰 어려운 사람들을 지원한다”며 “SOS위고는 사례에 맞는 지원을 해주는 것이 장점”이라고 했다.&lt;br&gt;&lt;br&gt;얼마 전 SOS위고를 통해 도움을 받은 한 이웃이 비타민 주스 한 병과 과자 한 봉지를 신씨에게 전하며 감사를 표했다고 한다. 신씨는 “주스 한 병, 과자 한 봉지는 아주 작은 것일 수 있지만 어렵게 생계를 유지하는 이들에게는 큰 감사의 표현”이라며 “이들이 어려울 때 재정적인 것을 넘어 심리적으로 기댈 수 있도록 버팀목이 되어주고, 마음을 살핀 것이 큰 보람으로 돌아온다”고 했다.&lt;br&gt;&lt;br&gt;신씨는 본인이 하는 지역 미화 활동에 어려운 이웃들을 참여시키기도 한다. 이들은 오늘도 신씨와 함께 벽화를 그리고, 꽃을 기르면서 함께 사는 법을 배우고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>무면허 운전하고 차에서 금팔찌 훔친 대리기사, 징역 10개월</title>
+      <link>https://www.chosun.com/national/regional/2024/08/20/AVTQCEWMZZGI5NW4E6T6F34YXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/20/AVTQCEWMZZGI5NW4E6T6F34YXY/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 19 Aug 2024 22:55:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOIPX7HDNFCOHOGTNKRO6EMBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무면허 상태에서 고객 차를 대신 운전하고 차 안에 있던 귀금속을 훔친 대리운전기사에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;대전지법 형사 5단독 장원지 판사는 절도, 무면허 운전 등의 혐의로 기소된 대리운전기사 A씨에게 징역 10개월을 선고했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 무면허로 대리운전을 하고, 손님 차 안에 있던 200만원 상당의 귀금속을 훔친 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;A씨는 운전면허가 없는 상태로 지난해 2월 20일 오후 10시 34분쯤 대전 유성구 일대에서 9㎞ 떨어진 대덕구 한 아파트까지 고객 차를 대신 몰았다. 주차를 마친 A씨는 차 안 컵홀더에 있던 200만원 상당의 18K 금팔찌를 훔친 것으로 조사됐다.&lt;br&gt;&lt;br&gt;장 판사는 “피해자와 피고인 측이 합의한 것은 유리한 사정이지만, 피고인이 이유 없이 재판에 출석하지 않았다”며 “범행 동기, 범행 후 정황 등 여려 조건을 고려했다”고 실형 선고 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“참돔, 일본산도 맛있어”… 오염수 괴담 1년도 못 갔다</title>
       <link>https://www.chosun.com/national/national_general/2024/08/20/MFE6VUQQ6FC2VNBQSHPVPCHZWM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/20/MFE6VUQQ6FC2VNBQSHPVPCHZWM/</guid>
@@ -894,30 +921,6 @@
       <description/>
       <pubDate>Sun, 18 Aug 2024 15:40:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XLFVRHQQSJFMPEEU6VJ63BNFPA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] cut ~ short</title>
-      <link>https://www.chosun.com/national/nie/english/2024/08/19/RBOYGJS5LBCMZMMLARH7AOMTWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/08/19/RBOYGJS5LBCMZMMLARH7AOMTWA/</guid>
-      <description/>
-      <pubDate>Sun, 18 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WPBFYH52Y5HSNG5ONGK5F34FTQ.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2444] 신문은 스케치북</title>
-      <link>https://www.chosun.com/national/nie/2024/08/19/PT43XREDDBHUVO4Q3PUZ4GIDDM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/19/PT43XREDDBHUVO4Q3PUZ4GIDDM/</guid>
-      <description/>
-      <pubDate>Sun, 18 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FIJLCOPQZJDBTKCGYM2YLE2QLI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 딱 어울리다, 제격이다, 찰떡궁합</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/08/19/3DYJWFHF75C67L4OKRKUXELTCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/08/19/3DYJWFHF75C67L4OKRKUXELTCE/</guid>
-      <description/>
-      <pubDate>Sun, 18 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PMHX2JZK6BGUBPH5NZX4X5WU4Q.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[이별전쟁] 이혼 거부한 남편, 이유는 “멸치볶음도 내 입맛 맞게 해놨는데...”</title>
