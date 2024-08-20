@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>여대생 얼굴 합성 딥페이크 사진 대화방서 공유한 30대들…경찰 수사</title>
+      <link>https://www.chosun.com/national/incident/2024/08/20/AFTVES7XSFFYFJHO2KW37HCBPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/20/AFTVES7XSFFYFJHO2KW37HCBPY/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 20 Aug 2024 09:26:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WZTEUFU55ELBFW5PCR72X7I3DQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여대생들의 얼굴에 나체 사진을 합성한 이른바 ‘딥페이크’ 사진과 영상물 등을 텔레그램 단체 대화방에서 공유한 사건을 수사 중인 경찰이 30대 남성 2명을 특정해 수사하고 있는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;인천경찰청 사이버범죄수사대는 성폭력범죄의 처벌 등에 관한 특례법 위반 등 혐의로 30대 A씨를 불구속 입건했다고 20일 밝혔다. 경찰은 같은 혐의로 30대 B씨도 입건할 예정이다.&lt;br&gt;&lt;br&gt;A씨 등은 텔레그램 단체 대화방에서 여대생 등의 얼굴을 나체 사진에 합성한 딥페이크 사진과 영상물 등을 공유한 혐의를 받고 있다. 2020년 만들어진 이 대화방은 한때 1000여 명이 참여했으며, 폐쇄와 개설되는 과정이 반복된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 앞서 이 단체 대화방에서 사진을 내려받아 재유포한 30대 남성 C씨를 붙잡아 지난 3월 검찰에 구속 송치했다. C씨는 1심에서 유죄가 인정돼 징역 1년을 선고받고, 항소심 재판을 앞두고 있다.&lt;br&gt;&lt;br&gt;경찰이 이번 대화방과 관련해 확인한 피해자는 현재까지 총 4명으로, 이들 중 2명은 I대 재학생과 졸업생인 것으로 알려졌다. 대화방엔 피해자들의 연락처 등 개인정보도 공개돼 피해자 일부는 협박을 받기도 했다.&lt;br&gt;&lt;br&gt;경찰은 수사선상에 올라있는 A씨 등이 해당 대학과의 직접적인 관련성이 없는 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “구체적인 수사 상황은 확인하기 어렵다”며 “텔레그램 대화방 수사에 어려운 점이 있지만, 최대한 신속하게 범죄 혐의를 입증할 수 있도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>처음 본 女 얼굴에 ‘사커킥’… 축구선수 출신 징역 25년</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/20/KNLLNPRETZAHXFUTONJZLJ4SSM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/20/KNLLNPRETZAHXFUTONJZLJ4SSM/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 20 Aug 2024 08:58:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H66LCDQCNZGWJKFFHCTNPM27TU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰을 피해 부산역 인근 거리로 도망가는 권씨. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;처음 본 여성을 골목으로 끌고 가 얼굴을 발로 차는 등 무차별 폭행한 축구선수 출신 40대에게 법원이 중형을 선고했다.&lt;br&gt;&lt;br&gt;부산지법 형사7부(부장판사 신헌기)는 20일 강도살인 미수 혐의로 기소된 권모 씨에 대한 선고 공판에서 징역 25년을 선고했다. 재판부는 “피고인은 살인의 고의가 없었다고 하지만 과거 축구선수였던 피고인이 발로 상당 시간을 폭행하면 어떻게 되는지 더 잘 알 것”이라고 지적했다.&lt;br&gt;&lt;br&gt;이어 “범행 횟수나 내용을 보면 미필적으로나마 살인의 고의가 있었다고 볼 수 있고 검찰이 구형한 무기징역에 상응하는 처벌을 할 수밖에 없다”며 “다만 살인 미수에 그쳐 법정형인 무기징역에서 감형했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;권씨는 지난 2월 6일 새벽 부산 서구의 길거리에서 일면식 없는 20대 여성 A씨를 인적이 드문 골목길로 끌고 가 흉기로 협박해 물건을 훔치려 했다. 상대가 반항하자 30회가량 주먹과 발로 얼굴을 가격했고 쓰러진 A씨의 머리를 축구공처럼 걷어차는 일명 ‘사커킥’ 행위를 하기도 했다.&lt;br&gt;&lt;br&gt;이후 권씨는 의식을 잃은 A씨를 내버려둔 채 휴대전화를 훔쳐 달아났다. 그러다 같은 날 오후 2시쯤 부산역 인근에서 긴급 체포됐다. A씨는 근처를 지나던 행인에게 발견돼 목숨을 건졌지만, 턱뼈가 골절되는 등 전치 8주의 상해를 입었다.&lt;br&gt;&lt;br&gt;권씨는 2008년 강도강간죄로 징역 7년을 선고받은 전력이 있다. 출소 이후 6개월 만에 편의점 두 곳에서 흉기로 점원을 위협해 돈을 빼앗아 징역 5년 형을 받기도 했다. 앞서 검찰은 그가 여러 번 교도소를 드나들었음에도 재차 범행을 저질렀다며 무기징역을 구형했다.&lt;br&gt;&lt;br&gt;재판 과정에서 권씨는 “만취 상태에서 범행을 저지른 것일 뿐 살해할 의도가 없었다”고 주장했다. 기소된 후 세 차례 재판에서 공황장애를 이유로 불출석했다가, 재판부가 피고인 없이 진행하겠다고 경고하자 지난달 19일 처음 법정에 나왔다. 그러나 이어 지난 13일 예정됐던 선고일에는 불참했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 모텔서 남성 3명 숨진 채 발견...”상처 없이 나란히 누워 있어”</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/08/20/6YWRLZD3YBFOTGCKEEBQUAOAWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/08/20/6YWRLZD3YBFOTGCKEEBQUAOAWM/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 20 Aug 2024 08:53:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y33HH5UK2M63VSDXS2Q2W5E4M4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산동부경찰서 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 모텔에서 남성 3명이 숨진 채 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;20일 오후 1시쯤 부산 동구 한 모텔에서 30대 남성 3명이 숨진 채 발견됐다. 이들은 지난 19일 오후 6시쯤 입실해 방에 머물다 밤에 외출했다가 이날 새벽에 되돌아 온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이들을 신고한 모텔 관계자는 경찰에서 “퇴실 시간인 낮 12시가 지나도 나오지 않고 전화를 받지 않아 방으로 가보니 3명이 나란히 누운 채 숨져 있었다”고 말했다.&lt;br&gt;&lt;br&gt;경찰은 방범카메라(CCTV) 영상 확인 등을 볼 때 외부 침입 흔적이 전혀 없고 신체에 난 상처도 없어 타살 혐의점은 없는 것으로 보고 있다. 하지만 경찰은 현장 감식과 신원을 확인하는 등 정확한 사망 원인에 대해 조사하고 있다.&lt;br&gt;&lt;br&gt;경찰은 또 이들의 휴대폰을 수거, 국과수 포렌식을 통해 이들이 어떤 사이이고 왜 함께 모였는지 등에 대해서도 수사할 계획이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>400m 쫓아와 둔기로 ‘퍽 퍽’...엘리베이터서 입주민 폭행</title>
+      <link>https://www.chosun.com/national/incident/2024/08/20/U3DHPNTCZVFL3KTLF2M6G35VPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/20/U3DHPNTCZVFL3KTLF2M6G35VPQ/</guid>
+      <dc:creator>파주=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 20 Aug 2024 08:15:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKPU66JR2ZACLDQI47NNRQYETM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아파트 엘리베이터에서 입주민에게 둔기를 휘두른 20대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 파주경찰서는 살인 미수 혐의로 20대 남성 A씨를 붙잡아 조사하고 있다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 19일 오후 2시 30분쯤 파주시 야당동의 한 아파트 엘리베이터에서 40대 여성 B씨에게 가방에 있던 둔기를 꺼내 휘두른 혐의를 받는다.&lt;br&gt;&lt;br&gt;B씨의 신고를 받고 출동한 경찰은 A씨를 현장에서 현행범으로 체포했다. 당시 B씨는 머리와 팔을 다쳐 병원에서 치료를 받고 퇴원했다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 야당역 인근에서 배회하다가 B씨를 300~400m 뒤따라간 것으로 볼 때 계획범죄일 가능성을 염두에 두고 수사하고 있다. 경찰은 A씨에 대한 구속영장을 신청하는 한편 자세한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>페트병에 시너 섞였나... 중국집서 준 생수 알고보니</title>
+      <link>https://www.chosun.com/national/incident/2024/08/20/IVHWJSUG3ZFPHG5EPK7WIDSVWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/20/IVHWJSUG3ZFPHG5EPK7WIDSVWY/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 20 Aug 2024 08:36:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HISM2RV6EJOEKMBZ5WA7T2S6MY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산구의 한 아파트 단지에 주민들이 내놓은 페트병이 쌓여 있는 모습. 기사 내용과 관련 없음. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 양주시의 한 공사 현장에서 중국 음식과 함께 배달된 생수를 마신 인부가 구토 증상을 보이며 병원에 이송되는 사건이 발생했다.&lt;br&gt;&lt;br&gt;20일 뉴시스 등에 따르면, 전날 오후 12시 35분쯤 경기 양주시 덕계동의 한 공사 현장에서 “배달된 생수에 시너가 섞여 있는 것 같다”는 신고가 경찰에 접수됐다.&lt;br&gt;&lt;br&gt;당시 공사현장 인부 4명은 중식당에서 음식을 배달시켰고, 40대와 20대 작업자는 음식과 함께 온 2리터 페트병에 담긴 물을 마신 것으로 조사됐다.&lt;br&gt;&lt;br&gt;40대 작업자는 이 물을 마신 뒤 구토 증세를 보여 병원으로 이송됐다. 다행히 생명에 지장이 없으며 현재는 퇴원한 상태인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;중식당 주인은 경찰에 “재활용처리장에서 빈 병을 주워 물을 담아 제공했다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 이 페트병에 부적절한 물질이 있었는지 국립과학수사연구원에 감정을 의뢰하고, 식품 위생법 위반 여부 등을 파악할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘갈비 사자’ 바람이 7살 딸과 부녀상봉한다</title>
       <link>https://www.chosun.com/national/national_general/2024/08/20/EH3ZDJQKB5FP3PX7HNIX6GVN7M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/20/EH3ZDJQKB5FP3PX7HNIX6GVN7M/</guid>
@@ -848,48 +893,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J2G4LHNIOQ6ACEJLRTQETPSBMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지검 포항지청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구지검 포항지청은 2017년과 2018년 일어난 포항지진과 관련해 포항지열발전 컨소시엄 주관기관 대표와 이사, 정부출연연구기관 연구책임자와 참여연구원, 컨소시엄 참여 대학교 산학협력단의 연구책임자 등 5명을 업무상 과실치사상 혐의로 불구속 기소했다고 19일 밝혔다. 지진발생 7년만이다.&lt;br&gt;&lt;br&gt;포항에서는 2017년 11월 15일 규모 5.4 지진과 2018년 2월 11일 규모 4.6 지진이 발생해 1명이 숨지고, 80명이 다쳤다. 이후 정부조사연구단은 2019년 3월 포항지진이 지열발전 연구사업 과정에서 촉발된 지진이라는 연구결과를 발표했다. 이루 이를 근거로한 각종 고소와 고발이 이뤄졌다. 이에 검찰은 같은 해 12월 연구사업 전담·주관·참여기관 등을 압수수색하는 등 본격적인 수사에 나섰다.&lt;br&gt;&lt;br&gt;검찰에 따르면, 포항지진이 발생하기 7개월 전인 2017년 4월 15일 규모 3.1 지진이 발생했다. 규모 3.0 이상의 지진이 발생하면 연구사업 책임자들은 지열발전을 중단하고 지진 발생의 원인, 현재 부지의 상태, 지진 위험도 등의 과학적 조사가 필요하지만, 이를 제대로 하지 않았다. 또 내부적으로 규모 3.1 지진이 수리자극에 따른 유발지진으로 결론을 내렸음에도 주무부처 및 전담기관에는 불가항력적 자연지진이 발생한 것처럼 보고하는 등 제대로 대처하지 않은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;2017년 8월쯤 5차 수리자극 주입량을 320t으로 계획했음에도 1400t가량 더 많은 1722t의 물을 주입하는 등 성공 평가만을 위해 무리하게 수리자극을 진행한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “(포항지진은)연구사업 성공 평가만을 위해 무리하게 사업을 지속하는 과정에서 여러 과실이 복합적으로 작용해 발생한 인재임을 규명했다”고 말했다.&lt;br&gt;&lt;br&gt;다만, 연구사업의 주무 부처와 전담기관 담당자의 경우 컨소시엄 주관기관이 규모 3.1 지진 등이 자연지진인 것처럼 축소 보고한 내용을 믿은 것으로 확인돼 과실이 있다고 보기 어렵다고 판단해 기소하지 않았다.&lt;br&gt;&lt;br&gt;검찰 기소와 관련해 포항지진범시민대책본부는 이날 성명을 내고 “지난해 11월 16일 포항지원에서 선고가 난 촉발지진피해 위자료 청구소송 판결문에 정부의 과실책임이 있다고 명시돼 있는데 검찰이 이를 밝히지 못한 채 권한이 없고 힘없는 연구원들 위주로 기소했다”고 비판했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>열사병으로 20대 근로자 숨져…유족 “땡볕에 1시간 방치”</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/19/32I7BVURJFBMXE5PETWAZKCMFA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/19/32I7BVURJFBMXE5PETWAZKCMFA/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 Aug 2024 06:49:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6ZHMFI2DT5CO3OUZU2P4BUYO4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 13일 전남 장성의 한 중학교 급식실에서 에어컨 설치공사 도중 열사병 증세를 보인 뒤 숨진 20대 근로자가 야외에 방치돼 있다. /근로자 유족 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온열질환 증세를 보였던 20대 근로자가 폭염을 피할 그늘이나 휴게장소가 아닌 땡볕 아래에 방치됐다가 병원으로 옮겨진 뒤 사망한 것으로 드러났다. 숨진 근로자의 어머니는 “사측은 아들이 쓰러지자 119에 신고하는 대신 폭염 아래 방치된 사진을 찍어 보내며 직접 데려가라고 했다”며 분통을 터트렸다.&lt;br&gt;&lt;br&gt;에어컨 설치작업 중 열사병 증세로 숨진 근로자 양모(27)씨 유족은 19일 기자회견을 열고 “건장한 20대 청년이 열사병 증상 발생 뒤 1시간 가까이 방치됐다가 결국 목숨을 잃었다”며 “모든 책임자를 조사해 강력히 처벌해달라”고 밝혔다.&lt;br&gt;&lt;br&gt;양씨는 지난 13일 전남 장성군의 한 중학교 급식실에서 에어컨 설치공사를 하던 중 열사병 증세를 보여 병원으로 옮겨졌지만, 숨졌다. 양씨가 처음 이송됐던 병원의 소견서에 따르면 양씨는 이날 오후 4시 40분쯤부터 열사병 증세를 보이면서 구토와 헛소리를 하거나 주위를 빙글빙글 도는 이상행동을 시작했다고 한다.&lt;br&gt;&lt;br&gt;하지만 양씨를 고용한 에어컨 설치업체는 이상증세를 보인 지 약 1시간이 지난 이날 오후 5시 30분쯤에서야 119에 신고했다. 양씨는 10분 뒤 도착한 119 구급대에 의해 병원으로 옮겨져 체온 측정을 했지만 병원은 “고온으로 측정불가”라는 소견을 밝혔다. 양씨는 병원으로 이송된 뒤 1시간 30분 만에 사망했다. 유족은 “양씨는 사망하고 1시간이 지났는데도 체온은 40도를 넘겼을 정도로 심각한 상태였다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NQVLZR4T7FBSZEMJN5TW5B3TII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 광주광역시 광산구 광주지방고용노동청 앞에서 열린 '20대 청년 폭염 사망사고 규탄 기자회견'에 참석한 유족이 눈물을 흘리고 있다. /진창일 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유족은 양씨가 의식을 잃었을 당시의 모습이 담긴 사진도 공개했다. 양씨가 쓰러질 당시 함께 있었던 현장 작업자가 촬영한 것으로 이날 오후 5시 9분쯤 어머니에게 아들을 직접 데려가라면서 보낸 사진이었다.&lt;br&gt;&lt;br&gt;양씨의 어머니는 “그늘 한 점 없는 풀밭에 의식 없이 방치된 아들의 사진을 찍어 보낼 시간에 119 신고만 했다면 아들은 지금 제 앞에서 웃고 있을 것”이라며 “또 사측은 제게 아들이 정신질환이나 기저질환을 앓고 있느냐면서 응급조치를 제대로 하지 않은 책임을 고인에게 떠넘겼다”고 주장했다. 사측은 어머니에게 다시 연락해 “119에 신고해도 되겠느냐”고 묻고 나서야 119에 신고한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;양씨는 숨질 당시 아르바이트생이었던 것으로 알려졌지만 유족은 강하게 부인했다. 유족 측 박영민 노무사는 “양씨는 회사 측과 월급 300만원의 정규직 계약을 통해 입사했지만, 첫 출근시 서류부족으로 근로계약서는 작성하지 못했고, 산업안전교육이나 폭염관련 교육도 받지 못했다”고 말했다. 이어 “양씨 사망 이후 사측의 사과도 없었다”고 말했다.&lt;br&gt;&lt;br&gt;양씨가 숨진 지 7일째지만, 유족은 장례도 미룬 채 책임자들의 엄벌을 촉구하고 있다. 유족은 기자회견을 마친 뒤 에어컨 설치업체 등을 중대재해처벌법 위반 혐의로 광주지방고용노동청에 고발했다. 또 에어컨 설치업체를 업무상과실치사 혐의로 수사해 달라는 고발장도 전남 장성경찰서에 냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/NQVLZR4T7FBSZEMJN5TW5B3TII.jpg?width=2641&amp;height=1814&amp;auth=d263740aa4ba804e8916ff501fa87c5f5a639a1195b976e4cb310af5ccf3b61e&amp;smart=true" type="image/jpeg" height="1814" width="2641">
-        <media:description type="plain">19일 광주광역시 광산구 광주지방고용노동청 앞에서 열린 '20대 청년 폭염 사망사고 규탄 기자회견'에 참석한 유족이 눈물을 흘리고 있다. /진창일 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>[오늘의 운세] 8월 20일 화요일 (음력 7월 17일 丙辰)</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/19/KLR4E23HZ5DI5M6TMNEOWXZJJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/19/KLR4E23HZ5DI5M6TMNEOWXZJJM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 Aug 2024 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 체력이 떨어지면 만사가 귀찮아진다. 48년생 적극적으로 활로 모색. 60년생 경계의 시선을 놓지 말라. 72년생 우직하고 아둔하게. 84년생 뜻밖에 걱정근심은 무난히 해결. 96년생 장점이 단점, 단점이 장점.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 생각은 깊게 마음은 넓게. 49년생 하늘이 무너져도 솟아날 구멍이 있다. 61년생 동료와의 의기투합은 좋은 결과를. 73년생 끈기가 없으면 독기라도. 85년생 관용과 포용의 자세 필요. 97년생 나눌수록 더 풍요로워진다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 많이 생각하고 적게 말하라. 50년생 수탉은 다그쳐도 알을 낳지 못한다. 62년생 내면적 갈등이 일어날 수 있는 시기. 74년생 곪은 환부라면 아프더라도 짜내야. 86년생 여럿이 더불어 함께할 방법을 찾아보도록. 98년생 아끼는 것이 버는 것.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 혈압과 심장 질환 주의. 39년생 신수는 길하나 집안일로 근심. 51년생 예상보다 결론이 빨리 날 듯. 63년생 아랫사람 조언 따르면 무난. 75년생 두통이나 신경성 질환을 주의. 87년생 아니 땐 굴뚝에 연기 날까. 99년생 합리적인 판단과 객관성을 유지하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 기쁠 때 하는 말에 신용 잃기 쉽다. 40년생 쓸데없는 일에 괜한 시간 낭비 마라. 52년생 수용할 수 없는 것은 단호히 거절. 64년생 성과와 결과가 좋아지는 시기. 76년생 채우기 위해 먼저 버리는 것. 88년생 천 마디 말보다 한 번의 실천이 필요. 00년생 간절하기만 하면 꿈은 현실 된다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 금은보화가 건강만큼 귀할까. 41년생 칭찬과 격려는 큰 성과로 돌아온다. 53년생 사돈을 삼으려면 출신성분을 봐라. 65년생 신속 분명한 태도가 후회 막는 길. 77년생 주변사람과의 사소한 언쟁을 삼가도록. 89년생 자성과 반성의 시간이 필요한 시점. 01년생 축배를 들기에는 아직 이른 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 하나를 보고 열을 판단하면 오산. 42년생 원활한 진전을 예상했던 일이 꼬인다. 54년생 노상(路上)을 조심. 66년생 만만한 상황이 아니다. 78년생 손재 아니면 슬하 걱정이다. 90년생 백옥에도 티는 있다. 02년생 노력에 대한 보람이.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 행동보다 말이 앞서면 손해. 43년생 보이지 않은 음조(陰助). 55년생 도전은 나이로 하는 것 아니다. 67년생 과격한 운동과 무모한 행동은 삼가도록. 79년생 받으려면 먼저 주자. 91년생 문서로 인한 희소식. 03년생 체념하기에는 이르다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 책임전가 마라. 44년생 잔재주로 될 일이 아닌 듯. 56년생 해피엔딩이 나에게도. 68년생 가벼운 운동으로 일상에 여유를. 80년생 정면돌파는 말자. 92년생 실수는 부끄러운 것이 아니다. 04년생 도전하는 자세가 필요.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 행복은 일상 속에. 45년생 보기만 하지 말고 실천. 57년생 경솔한 언행이 후환을. 69년생 지키고 버티는 것이 상책. 81년생 주관과 고집이 필요한 시기. 93년생 외출은 이롭지 않으니 재택이 상책.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 함께하려거든 의심 말아야. 46년생 금전적 이익으로 유혹하는 벗을 멀리해야. 58년생 믿었던 지인으로부터 실망을. 70년생 상대방 의견 무시 말자. 82년생 뛰어난 지혜도 시운을 만나야. 94년생 오랜 시간 속에 진국이.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 집안일을 남에게 말하지 마라. 47년생 한쪽 말만 들어서는 송사 못한다. 59년생 말 한마디에 공든 탑이 무너질 수도. 71년생 계획 변경은 좋지 않으니 예정대로 추진하라. 83년생 호사다마니 삼가고 또 삼가라. 95년생 문화생활과 여가활동으로 일상의 활력을.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>필리핀서 50억 상당 ‘필로폰 밀수·판매’ 조직원 50여명 무더기 송치</title>
-      <link>https://www.chosun.com/national/regional/2024/08/19/VEUIWGW5DJB3FIZGHZVT7UV3JY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/19/VEUIWGW5DJB3FIZGHZVT7UV3JY/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 Aug 2024 07:50:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ROETED57FDFPGUG5CSYDINBNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전경찰청 전경 /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;텔레그램 메신저로 마약 판매 채널을 만들고 필리핀에서 국내로 마약을 밀반입해 판매한 일당이 검찰로 넘겨졌다.&lt;br&gt;&lt;br&gt;대전경찰청은 마약류관리법 위반, 범죄단체 조직·가입·활동 혐의로 총책 A(45)씨 등 9명을 구속 송치하고, 45명을 같은 혐의로 불구속 송치했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 2022년 1월부터 지난달까지 필리핀에서 약 8㎏의 필로폰(시가 약 50억원 상당)을 국내로 밀반입한 뒤 판매한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;총책인 A씨는 자금 관리·광고팀·상담팀·전달책 등으로 조직을 점조직화했다. 이어 판매 조직원들을 관리하기 위한 기본 수칙을 정하는 등 치밀하게 마약 조직을 운영한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 필리핀에서 숨어 지내고 있어 추적이 어려웠던 A씨를 검거하기 위해 올해 초 신설된 경찰청 마약공조수사계를 통해 필리핀 당국과 공조수사를 벌였다. 필리핀 마닐라에서 검거된 A씨는 검거된지 2주 만에 국내로 송환됐다. 경찰은 이들의 범죄수익금 20억원 상당을 기소 전 추징했다.&lt;br&gt;&lt;br&gt;경찰은 붙잡히지 않은 다른 공범 B씨의 뒤를 쫓고 있으며, 조직원들의 추가 범행에 대해서도 조사 중이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “인터넷 등을 통한 마약 판매와 조직적 유통 사범 등에 대해서도 수사를 확대하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>임현택 “22일까지 간호법 중단 안하면 정권퇴진 운동”</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/08/19/HENDABU22VANBMSWAV4RMRPVLE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/19/HENDABU22VANBMSWAV4RMRPVLE/</guid>
@@ -933,24 +936,6 @@
       <description/>
       <pubDate>Mon, 19 Aug 2024 05:31:03 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DB5F2IEV3PJI4NYHXBLAGUNHAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 장신영(왼쪽), 강경준 부부. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 장신영(40)이 유부녀와 불륜 행위를 저질렀다는 의혹이 제기된 남편 강경준(41)을 용서하고 가정을 지키겠다고 밝혔다.&lt;br&gt;&lt;br&gt;장신영은 19일 자신의 소셜미디어를 통해 “그동안 저희 가족을 아껴주시고 사랑해주셨던 모든 분들께 실망을 드린 점 죄송하다”며 “이 일로 피해를 보신 분들께 먼저 사과의 말씀 올린다. 너무 죄송할 따름”이라고 했다.&lt;br&gt;&lt;br&gt;장신영은 “그동안 시간이 어떻게 흘러가는지도 모른 채, 어두운 터널 같은 날들을 보냈다”며 “가장 힘든 시간을 보낸 건 어쩌면 아이들이었을 거다. 마음에 상처를 입히고 겪지 않아도 될 것을 경험하게 한 점 부모로서 한없이 미안할 따름”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “남편과 많은 이야기를 나눴다. 수없이 자책하고 반성했다. 차마 글로 옮기기 어려운 고통의 시간을 보냈다”며 “저희는 오직 아이들을 위해 다시 한 가정 안에서 살아가려 한다”고 했다.&lt;br&gt;&lt;br&gt;장신영은 “남편을 향한 지나친 비난은 자중해 주시길 부탁드리겠다. 혹시라도 아이들이 접하게 될까 봐 걱정스럽다”며 “이번 일로 정말 많은 분들이 제게 위로와 응원을 보내주셨다. 그 따뜻한 한마디 한마디가 저를 다시 일어설 수 있게 했다. 다음에는 부디 좋은 일로 웃으면서 인사드릴 수 있었으면 한다”고 했다.&lt;br&gt;&lt;br&gt;유부녀와 불륜 행위를 저질렀다는 의혹이 제기된 배우 강경준은 지난달 상대 남편 측이 제기한 위자료 청구 소송에서 상대방의 청구를 받아들이는 청구인낙으로 소송을 종결했다. 강경준이 사실상 불륜 의혹을 인정한 것이라는 분석이 나온다.&lt;br&gt;&lt;br&gt;한편 강경준은 지난 2018년 동료 배우 장신영과 5년 열애 끝에 결혼했다. 슬하에 장신영이 첫 결혼에서 낳은 아들과 2019년 장신영과의 사이에서 낳은 둘째 아들을 두고 있다.&lt;br&gt;&lt;br&gt;강경준은 최근 두 자녀와 함께 육아 관찰 예능프로그램인 ‘슈퍼맨이 돌아왔다’에 출연하기도 했다. 강경준은 여러 예능프로그램에서 장신영이 전 남편과의 사이에서 얻은 아들까지 챙기는 다정한 모습을 보여줬었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] ‘행인 폭행’ 래퍼 산이, 특수폭행 혐의로 입건</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/19/K3CYVDPKJNFBVINVZBQOOMXR3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/19/K3CYVDPKJNFBVINVZBQOOMXR3E/</guid>
-      <dc:creator>고유찬 기자, 구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 Aug 2024 02:05:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CEREHLKZ6ZGHTFY6LUK73CROIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;래퍼 산이. /산이 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘행인 폭행’ 논란을 빚은 래퍼 산이가 특수폭행 혐의로 경찰에 입건됐다.&lt;br&gt;&lt;br&gt;서울 마포경찰서는 래퍼 산이(본명 정산, 39)를 특수폭행 혐의로 지난 17일 입건했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;정씨는 지난달 28일 오후 8시 30분쯤 서울 마포구의 한 공원 입구에서 행인 A씨에게 “자전거를 똑바로 끌고 가라”는 취지로 말하며 휴대전화 등을 이용해 폭행한 혐의를 받는다.&lt;br&gt;&lt;br&gt;행인 A씨는 “눈 인근이 찢어지고 치아 일부가 손상됐다”고 주장하고 있는 것으로 알려졌다. 당시 신고를 받고 출동한 경찰은 현장에서 기초 조사를 마친 뒤 정씨와 피해자를 돌려보냈다.&lt;br&gt;&lt;br&gt;이후 정씨를 불러 한 차례 조사를 진행한 경찰은 정씨에게 혐의가 있다고 보고 지난 17일 입건해 정식으로 수사를 벌이고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “쌍방 폭행으로 A씨도 폭행 혐의로 입건됐다”면서도 “A씨는 도구를 쓰지 않은 것으로 확인된다”고 했다. 다만 A씨와 정씨의 진술이 엇갈려 추가 조사가 필요하다는 입장이다.&lt;br&gt;&lt;br&gt;해당 사건에 대해 산이 측은 “따로 드릴 말씀이 없다, 죄송하다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;래퍼 산이는 2008년 유명 엔터테인먼트에 영입돼 2010년 데뷔곡을 내며 가요계에 첫발을 내디뎠다. 이후 유명 오디션 프로그램 ‘쇼미더머니’의 프로듀서로 활약한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>200만 명 동시 투약 가능... 1800억 상당 코카인 밀수한 일당 적발</title>
-      <link>https://www.chosun.com/national/incident/2024/08/19/P3BTQAPRJFEKDJIHOFHKPTTFAU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/19/P3BTQAPRJFEKDJIHOFHKPTTFAU/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 Aug 2024 02:33:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RRW3WDDKFNJ3ELLZZBUQRQZWWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중부지방해양경찰청 마약수사대가 마약류 관리에 관한 법률 위반 혐의로 구속한 캐나다 국적의 A(55)씨에게 압수한 코카인./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;200만 명이 동시에 투약할 수 있는 코카인을 밀반입해 판매하려 한 일당이 해양경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;중부지방해양경찰청 마약수사대는 마약류 관리에 관한 법률 위반 혐의 등으로 캐나다 국적의 A(55)씨를 구속했다고 19일 밝혔다. 해경은 또 A씨에게 마약을 공급받아 거래하려 한 내국인 B(27)씨 등 2명을 함께 구속했다.&lt;br&gt;&lt;br&gt;A씨는 지난 4~6월 컨테이너 선박을 통해 액체 형태의 코카인 60㎏을 국내에 밀반입해 판매하려 한 혐의를 받고 있다. B씨 등은 지난 10일 서울 한강 모처에서 A씨에게 받은 코카인 2㎏을 거래하려 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;코카인 60㎏은 약 200만 명이 동시에 투약할 수 있는 양으로, 시가 1800억 원 상당에 달한다.&lt;br&gt;&lt;br&gt;A씨가 들여온 액체 형태의 코카인은 강원도의 한 공장에서 고체 형태로 가공됐다. 해경은 이 가공 과정에 콜롬비아계 외국인 조직원 2명이 참여했을 것으로 보고 이들을 쫓고 있다.&lt;br&gt;&lt;br&gt;캐나다 마약 범죄조직의 고위급 인물로 파악된 A씨는 과거에도 미국 등지에서 코카인을 밀수하다 검거된 전력이 있는 것으로 확인됐다. 해경이 압수한 코카인 포장지에는 캐나다 밴쿠버의 마약 조직을 뜻하는 영어 ‘UN’이 각인돼 있었다.&lt;br&gt;&lt;br&gt;해경은 A씨 등의 휴대전화를 디지털 포렌식하고, 코카인 밀반입 시점과 코카인 가공 과정 등에 대해 추가로 수사할 방침이다.&lt;br&gt;&lt;br&gt;해경 관계자는 “국내도 이제는 더 이상 코카인의 안전지대로 볼 수 없다”며 “캐나다 마약 조직과 국내 조직의 연관성 등도 철저히 수사하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>등교하던 여중생에게 흉기 휘두른 고교생 검거</title>
