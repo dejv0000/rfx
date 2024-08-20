@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>태풍 ‘종다리’ 영향권 제주, 등반로 통제·해안 대피령 ‘긴장’</title>
+      <link>https://www.chosun.com/national/regional/2024/08/20/BWRZT6BX2FHXPAMYZYOOUALCFU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/20/BWRZT6BX2FHXPAMYZYOOUALCFU/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 20 Aug 2024 03:50:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N5TNBZGRNVJMBFERRC62JRCHSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제9호 태풍 '종다리'(Jongdari)가 북상 중인 20일 오후 제주 서귀포시 안덕면 사례리 형제섬 앞바다에 거친 파도가 밀려오고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제9호 태풍 ‘종다리’ 영향권에 들어간 제주도가 피해 예방 조치에 나섰다.&lt;br&gt;&lt;br&gt;제주도는 20일 오전 11시부터 지역내 모든 갯바위, 방파제, 어항시설, 연안절벽에 있는 주민, 관광객, 낚시객 등에게 대피 명령을 발령했다. 이에 따라 갯바위, 방파제, 어항시설, 연안 절벽 등과 이에 포함된 제주올레길, 제주 서부지역 해수욕장 등에서 주민과 관광객, 낚시객, 연안체험 활동객의 접근이 전면 금지된다.&lt;br&gt;&lt;br&gt;이를 위반하면 재난 및 안전관리법에 의거해 200만원 이하의 과태료가 부과된다. 다만 시설 관계자, 선박 결박 등 안전 조치 활동 관계자는 예외다.&lt;br&gt;&lt;br&gt;또 한라산 7개 코스 등반로 중 어승생악과 석굴암 탐방로를 제외한 5개 등반로는 전면 또는 부분 통제됐다.&lt;br&gt;&lt;br&gt;제주도는 이날 오전 9시부터 현장지원반을 가동하고 있다. 제주도는 이번 태풍이 강한 바람을 동반할 것으로 예상됨에 따라 간판 등 옥외시설물과 지붕, 가로수, 전신주, 비닐하우스, 양식장 시설, 공사장 자재 등에 대한 사전 안전 조치를 당부했다.&lt;br&gt;&lt;br&gt;강동원 제주도 안전건강실장은 “태풍이 제주에 집중적인 영향을 미치는 시간대에는 하천 주변, 해안가 등 위험지역 출입을 자제해야 한다”며 “재난문자와 마을 단위 예보·경보 시설, SNS 등을 통해 전달되는 도민 행동 요령에 각별히 주의를 기울여 달라”고 말했다.&lt;br&gt;&lt;br&gt;제주도는 지난 19일부터 재난안전대책본부 비상 1단계를 가동하고 있다. 제주해양경찰청도 20일 비상대비 단계에 돌입해 원거리 조업선을 안전 해역으로 대피시키고 연안 사고 등에 대비해 육·해상 순찰을 강화했다.&lt;br&gt;&lt;br&gt;기상청은 태풍의 직접 영향권에 드는 이날 오후부터 밤사이 돌풍과 함께 천둥과 번개를 동반한 시간당 30∼50㎜ 안팎의 매우 강하고 많은 비가 내릴 것으로 예상했다. 21일까지 예상 강수량은 30∼80㎜로, 산지 등은 100㎜ 이상 비가 내릴 것으로 예상했다. 기상청은 이날 오후부터 제주에 바람이 최대순간풍속 초속 20∼30ｍ로 매우 강하게 불겠다고 예보했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“와인 더 달라” 기내에서 소란... 法, 40대 남성에게 벌금형</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/20/KZTR6CDRXNHAZF57WQILYMGVQQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/20/KZTR6CDRXNHAZF57WQILYMGVQQ/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 20 Aug 2024 04:53:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AZWLNE2CUVC4BNXL5R7VBKVCJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지방법원 청사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여객기에서 “술을 더 달라”며 소란을 피운 40대 남성에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;인천지법 형사11단독 김샛별 판사는 항공보안법 위반 혐의로 기소된 A(45)씨에 대해 벌금 600만원을 선고했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 4월 18일 미국 라스베이거스에서 인천으로 향하던 대한항공 여객기에서 승무원들에게 큰 소리로 “와인을 더 달라. 왜 술 제공이 안 되느냐”며 40분간 소란을 피운 혐의로 기소됐다. 그는 또 승무원들의 업무 공간으로 들어가 “내가 기내 난동이냐. 나는 술 한 잔 더 달라고 한 것뿐”이라고 소리치기도 했다.&lt;br&gt;&lt;br&gt;A씨는 법정에서 “승무원들의 업무 공간에 들어간 사실이 없고, 항공기 안전 운항을 저해할 우려가 있거나 운항을 불가능하게 할 정도의 소란행위에 해당하지 않는다”고 주장했다.&lt;br&gt;&lt;br&gt;그러나 법원은 A씨의 주장을 받아들이지 않았다. 김 판사는 “이 사건 당시 승무원과 승객 등 증인들은 피고인이 소란을 피우고 승무원들의 업무 공간에서 큰 소리를 치는 등의 행위를 했다고 진술하고 있다”며 “피고인의 행위에 동요된 승객들은 승무원들에게 불안감을 호소하기도 했다”고 했다. 이어 “승무원들은 피고인을 진정시키기 위해 착륙 전 안전 점검과 승객 관리 등 본연의 업무를 제대로 수행하지 못하는 상황도 발생했다”고 했다.&lt;br&gt;&lt;br&gt;김 판사는 “피고인의 행위는 항공 운행의 안전 등을 고려할 때 죄책이 가볍지 않다”며 “그럼에도 범행을 부인하고 증인들이 위증하고 있다고 주장하며 잘못을 반성하지 않고 있다”고 했다. 이어 “별다른 처벌 전력이 없는 점, 범행의 결과, 범행 후 정황 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>애들 오래 봐주는 유치원 시범 운영... 어린이집 장점 합쳤다</title>
+      <link>https://www.chosun.com/national/education/2024/08/20/QEETTYDWYVFGZFJCIXAEQQGW3Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/08/20/QEETTYDWYVFGZFJCIXAEQQGW3Y/</guid>
+      <dc:creator>김경은 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 20 Aug 2024 04:17:14 +0000</pubDate>
+      <content:encoded>유치원과 어린이집을 통합해 0~5세에게 교육과 돌봄을 묶어 제공하는 ‘영유아학교(가칭)’가 다음달부터 시범 운영에 들어간다. 교육부는 ‘영·유아학교 시범사업’에 유치원 68곳과 어린이집 84곳 등 전국 152개 기관을 선정하고 오는 9월 1일부터 운영을 시작한다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;정부는 지난해부터 유치원과 어린이집을 합치는 ‘유보 통합’을 추진해왔다. 유치원과 어린이집은 교사 자격, 시설, 교육과정이 모두 달라 아이들이 다른 교육을 받는 문제가 있었다. 모든 아이들이 하나의 기관에서 양질의 교육을 받을 수 있게 하자는 게 유보 통합의 취지다. 이번 시범사업엔 장애 영유아·특수교육 대상자 등 취약 영유아에 대한 특별 지원체계가 마련돼야 한다는 현장 요구에 따라 특수학급이 있는 유치원 4곳, 장애 통합 어린이집 13곳, 장애 전문 어린이집 3곳도 포함됐다.&lt;br&gt;&lt;br&gt;각 시범학교는 충분한 운영시간 보장, 교사 대 영유아 수 적정화, 교육·보육 프로그램 강화, 교사 역량 강화 등 학부모 수요가 높은 과제를 중점 추진한다. 유보 통합의 핵심 목적 중 하나가 ‘돌봄 강화’인 만큼 유치원은 기존 운영시간(8시간)에 더해 원하는 학부모가 있으면 어린이집 운영시간(12시간)에 맞춰 아침·저녁 돌봄 4시간이 추가된다. 교사 한 명이 맡는 영유아 수도 0세반은 2명, 3세반은 13명, 4세반은 15명, 5세반은 18명으로 줄인다. 유치원에 비해 상대적으로 부족했던 어린이집 교육 프로그램과 교사 연수도 강화할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>추락사 후 현장에 피묻은 안전모 가져다 둔 관리소장, 징역 10개월</title>
+      <link>https://www.chosun.com/national/incident/2024/08/20/JJKHXOCR2NBXXHVZNUNUVNIG3Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/20/JJKHXOCR2NBXXHVZNUNUVNIG3Q/</guid>
+      <dc:creator>의정부=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 20 Aug 2024 04:13:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZDK2TVPQGVIS5C2WF36LX4YIZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;직원이 추락사한 사고 직후 현장에 피 묻은 안전모를 가져다 두는 등 과실을 은폐·조작한 아파트 관리소장에게 징역 10개월이 선고됐다.&lt;br&gt;&lt;br&gt;20일 의정부지법 형사12단독 홍수진 판사는 업무상과실치사 등 혐의로 기소된 아파트 관리업체 소속 관리소장 A씨에게 징역 10개월을 선고했다. 범행 현장 조작에 가담한 혐의로 함께 기소된 해당 아파트 전 입주자 대표회장 B씨에 대해서는 징역 5개월에 집행유예 1년을 선고했다.&lt;br&gt;&lt;br&gt;홍 판사는 “사망사고 발생 후 안전모를 현장에 두는 등 현장을 적극적으로 훼손했고, 이후에도 관리사무소 다른 직원들에게 허위 진술을 종용했다”며 “다만 범행을 인정하는 점과 유족들이 피고인의 처벌을 원하지 않는 점 등을 참작했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;B씨에 대해서는 “A씨에게 안전모를 가져다 놓으라고 지시한 행동은 사고 발생 당시 피해자가 안전모를 쓰고 올라간 것처럼 보이기 위해 지시한 것으로 보기에 자연스럽다”며 “증거에 의하면 모두 유죄로 인정이 된다”고 판단했다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난달 9일 열린 공판에서 A씨에게 징역 1년 6개월을, B씨에게 징역 6개월을 각각 구형했다.&lt;br&gt;&lt;br&gt;지난 2022년 7월 4일 경기 양주시의 한 아파트 지하에서 사다리를 이용해 배관 점검을 하던 아파트 관리업체 직원 C씨가 사다리가 부러지면서 추락해 숨졌다.&lt;br&gt;&lt;br&gt;검찰은 사고 당시 C씨가 머리를 크게 다쳐 피를 많이 흘렸는데 발견된 안전모에는 외부에만 피가 묻어 있는 점을 수상하게 여겨 현장 조작 사실을 확인했다. &lt;br&gt;&lt;br&gt;수사 결과, C씨는 안전모와 안전대 등 장비를 제대로 착용하지 않았는데 A씨와 B씨가 과실을 감추기 위해 사고 직후 안전모에 피를 묻혀 현장에 둔 것으로 드러났다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘양육비 미지급 부모’ 신상 공개한 단체 대표, 대법서 명예훼손 ‘유죄’ 확정</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/20/KU5OAN2QQ5BQBH4MTLY2LQUSNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/20/KU5OAN2QQ5BQBH4MTLY2LQUSNE/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 20 Aug 2024 03:36:34 +0000</pubDate>
+      <content:encoded>인터넷 카페 등에서 이혼 후 자녀에게 양육비를 지급하지 않는 특정인의 신상정보를 공개한 시민단체 대표가 대법원에서 유죄를 확정받았다. 대법원은 일명 ‘배드페어런츠(bad parents·나쁜 부모들)’ 사이트를 운영하며 양육비를 주지 않는 부모의 신상 공개에 대해 ‘사적 제재’라는 취지로 유죄 판결을 내놓고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ANVC6GAFJFCAFMLPW2ZQKQSFEQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 법조계에 따르면 대법원 제2부(주심 신숙희 대법관)는 최근 정보통신망 이용촉진 및 정보보호 등에 관한 법률 위반(명예훼손) 혐의로 기소된 강민서 ‘양육비 해결 모임’ 대표에게 벌금 80만원을 선고한 원심 판결을 확정했다.&lt;br&gt;&lt;br&gt;인터넷에서 양육비 해결 모임 카페를 운영한 강 대표는 2019년 3월 ‘배드페어런츠’(당초 명칭은 배드파더앤마더스)라는 홈페이지를 개설하고, 이곳에 법원의 양육비 지급 명령을 이행하지 않는 수백명 부모의 이름·나이·사진·미지급 양육비 등을 공개해왔다. 강씨 본인도 남편과 결별한 후 20여년간 아들을 홀로 키웠다고 한다.&lt;br&gt;&lt;br&gt;강 대표는 2019년 6월 18일 오후 5시쯤 배드파더앤마더스 사이트에 A씨의 카카오톡 프로필 사진을 캡처하고 나이와 출신지 및 거주지, 미지급금액 등 A씨의 신원을 특정할 수 있는 여러 정보를 올렸다. 그런데 A씨는 허위 사실이라며 강 대표를 고소했다.&lt;br&gt;&lt;br&gt;재판의 쟁점은 강 대표에게 비방할 목적이 인정되는지에 관한 여부였다.&lt;br&gt;&lt;br&gt;1심 재판부는 “강 대표가 게시한 내용 일부가 허위 사실로 판단이 된다”면서도 “고소인의 배우자가 제출한 사진과 판결문, 양육비 미지급에 따른 고충 등을 확인하고 게시했다”며 강 대표가 허위 사실을 인지하고서도 이를 게시했다고 보긴 어렵다는 취지로 그에게 무죄를 선고했다.&lt;br&gt;&lt;br&gt;검찰은 항소심에서 강 대표가 양육비 미지급 관련 ‘사실’을 적시해 명예훼손이 성립한다며 공소장을 변경했고 재판부는 이를 받아들였다. 2심 재판부는 “실제 신상공개를 할 수 있는 경우는 몇 개의 법률에 매우 제한적으로 규정돼 있고, 사진까지 공개되는 것은 성범죄자 신상공개 제도가 유일하다”며 “법률에 규정이 마련되어 있지도 않은 상태에서, 사적 단체에 의해 자의적인 판단에 따라 별다른 절차를 거치지도 아니한 채 전파성이 매우 큰 인터넷게시판에 공개된 신상정보는 객관적으로 볼 때 공공의 이익에 관한 것이라 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;대법원도 원심(2심)의 판단에 수긍했다. 대법원은 “원심에서 법리를 오해하는 등으로 판결에 영향을 미친 잘못이 없다”고 강 대표의 상고를 기각하며 원심 판결을 확정했다.&lt;br&gt;&lt;br&gt;앞서 대법원은 지난 1월 ‘양육비해결하는사람들(옛 배드파더스)’ 대표 구본창씨에 대해서도 “사적 제재 수단의 일환에 가깝다”며 벌금 100만원의 선고유예 유죄를 확정했다. 선고유예는 유죄가 인정되지만, 정상을 참작해 형을 선고하지 않고 이후 일정 기간 다른 범죄를 저지르지 않으면 처벌을 면하게 하는 제도다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>범죄 피해금 세탁한 가상계좌 유통조직...11억 벌어들인 일당들 검거</title>
       <link>https://www.chosun.com/national/national_general/2024/08/20/BRUT6EW3HBEHLPKHYNWSM2BUVY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/20/BRUT6EW3HBEHLPKHYNWSM2BUVY/</guid>
@@ -836,24 +881,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CEREHLKZ6ZGHTFY6LUK73CROIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;래퍼 산이. /산이 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘행인 폭행’ 논란을 빚은 래퍼 산이가 특수폭행 혐의로 경찰에 입건됐다.&lt;br&gt;&lt;br&gt;서울 마포경찰서는 래퍼 산이(본명 정산, 39)를 특수폭행 혐의로 지난 17일 입건했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;정씨는 지난달 28일 오후 8시 30분쯤 서울 마포구의 한 공원 입구에서 행인 A씨에게 “자전거를 똑바로 끌고 가라”는 취지로 말하며 휴대전화 등을 이용해 폭행한 혐의를 받는다.&lt;br&gt;&lt;br&gt;행인 A씨는 “눈 인근이 찢어지고 치아 일부가 손상됐다”고 주장하고 있는 것으로 알려졌다. 당시 신고를 받고 출동한 경찰은 현장에서 기초 조사를 마친 뒤 정씨와 피해자를 돌려보냈다.&lt;br&gt;&lt;br&gt;이후 정씨를 불러 한 차례 조사를 진행한 경찰은 정씨에게 혐의가 있다고 보고 지난 17일 입건해 정식으로 수사를 벌이고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “쌍방 폭행으로 A씨도 폭행 혐의로 입건됐다”면서도 “A씨는 도구를 쓰지 않은 것으로 확인된다”고 했다. 다만 A씨와 정씨의 진술이 엇갈려 추가 조사가 필요하다는 입장이다.&lt;br&gt;&lt;br&gt;해당 사건에 대해 산이 측은 “따로 드릴 말씀이 없다, 죄송하다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;래퍼 산이는 2008년 유명 엔터테인먼트에 영입돼 2010년 데뷔곡을 내며 가요계에 첫발을 내디뎠다. 이후 유명 오디션 프로그램 ‘쇼미더머니’의 프로듀서로 활약한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>7년간 가스요금 1억7000만원 가로챈 요양원 대표 구속 송치</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/19/HJW2BWEUMJAXTK2HA76KDHPKZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/19/HJW2BWEUMJAXTK2HA76KDHPKZA/</guid>
-      <dc:creator>강우석 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 Aug 2024 02:45:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6UBFYMIJF5EV5H4BFYCC5CXCPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 성북구의 한 요양원 현장에서 발견한 탈거된 가스계량기. 해당 요양원 대표는 가스계량기를 탈부착하는 방식으로 1억7000만원 상당의 도시가스 요금을 가로챈 혐의로 지난달 31일 검찰에 넘겨졌다. /성북경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7년간 가스 사용량을 ‘0′으로 거짓 통보하고 도시가스 검침원의 검침도 방해해 1억 7000만원 상당의 가스요금을 면탈한 요양원 대표가 검찰로 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 성북경찰서는 사기·공무집행방해 등 혐의로 정릉동에 위치한 6층 규모의 요양원 대표 A씨를 지난달 31일 서울북부지검에 구속 송치했다고 19일 밝혔다. A씨는 2016년 8월부터 약 7년간 요양원 층마다 설치된 도시가스 계량기를 모두 떼어내 가짜 계량기를 대신 설치한 뒤 도시가스 검침원에게 매달 가스 사용량을 ‘0′으로 통보해온 혐의를 받는다. 나무 판자 등을 이용해 가짜 계량기가 보이지 않도록 가려두기도 하고 검침원이 현장을 방문하려 하면 방해를 하기도 했다.&lt;br&gt;&lt;br&gt;A씨는 도시가스 검침원의 신고로 출동한 경찰이 요양원 현장 수색을 시도하자, 경찰관의 진입을 막거나 몸을 밀쳐 공무집행방해로 현행범 체포됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “전문기술이 없는 사람이 임의로 계량기를 교체하거나 은폐하는 행위는 가스 폭발의 위험성을 높일 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>장애 딛고 일하던 50대 환경미화원, 4명 살리고 떠났다</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/08/19/VUBRWZER65HTVPXPL7KCR2BFO4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/19/VUBRWZER65HTVPXPL7KCR2BFO4/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 Aug 2024 01:53:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JTYY3XFULJC47K4ZD42LZ2WYFA.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 12월 뇌사 상태였다가 심장, 간 신장(좌우)을 4명에게 기증한 뒤 숨진 김연화(59)씨. 김씨는 지난해 11월 갑자기 심정지로 쓰러져 병원으로 이송해 치료 받았지만, 결국 의식을 회복하지 못하고 뇌사 상태에 빠졌다. /한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;갑작스러운 심정지로 뇌사 상태에 빠진 50대 환경미화원이 장기 기증으로 4명의 생명을 살리고 세상을 떠났다.&lt;br&gt;&lt;br&gt;한국장기조직기증원은 지난해 12월 뇌사 상태였던 김연화(59)씨가 심장, 간, 신장(좌우)을 4명에게 기증한 뒤 숨졌다고 19일 밝혔다. 김씨는 지난해 11월 갑자기 심정지로 쓰러져 병원으로 이송해 치료 받았지만, 결국 의식을 회복하지 못하고 뇌사 상태에 빠졌다.&lt;br&gt;&lt;br&gt;강원 양양에서 1남 2녀 중 장녀로 태어난 김씨는 다른 사람에게 주저 없이 선의를 베풀고, 딸과도 많은 시간을 보내기 위해 늘 노력하는 자상한 엄마였다고 한다. 김씨는 어릴 때 교통사고를 당해 허리가 휘는 장애를 갖고도 마트 직원, 환경 미화원 등 다양한 일을 했다. 그는 노래 듣는 것을 좋아해 가족들과 함께 트로트 가수 안성훈의 노래를 자주 들었다. 김씨는 쓰러지기 10개월 전 가족과 함께 기증희망등록을 했다.&lt;br&gt;&lt;br&gt;김씨의 딸은 기증원을 통해 어머니에게 이런 메시지를 남겼다. “딸 하나만 보고 살았던 우리 엄마. 이제는 하고 싶었던 것! 가고 싶었던 곳! 엄마가 하고 싶은 것 다 하면서 행복하게 지내. 하늘에서도, 다시 태어난다면 그곳에서도 엄마만의 삶을 살아. 많이 사랑해. 보고 싶어.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>200만 명 동시 투약 가능... 1800억 상당 코카인 밀수한 일당 적발</title>
       <link>https://www.chosun.com/national/incident/2024/08/19/P3BTQAPRJFEKDJIHOFHKPTTFAU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/19/P3BTQAPRJFEKDJIHOFHKPTTFAU/</guid>
@@ -872,15 +899,6 @@
       <content:encoded>교대 재학 중 여학생 외모를 평가하는 자료를 만든 게 뒤늦게 드러나 징계를 받은 교사에 대해 교대 재학생은 공공기관 종사자나 근로자로 볼 수 없어 성희롱 징계를 할 수 없다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MP2HBDP4CNB73ODWUW6X6LNYJI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원 건물. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 법조계에 따르면 대법원 제3부(주심 오석준 대법관)는 최근 교사 A씨가 서울특별시교육감을 상대로 낸 견책 처분 취소 소송에서 원심의 원고 패소 판결을 파기하고 사건을 서울고법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;A씨는 서울교대 2학년으로 재학 중이던 2016년 3월쯤 같은 학과 남자 학생들과 일부 졸업생 등이 함께한 ‘남자대면식’에서 사용하기 위해 다른 학생들과 함께 신입 여학생들의 외모를 평가하는 내용의 ‘신입생 소개자료’를 제작했다. 이 사건 책자에는 ‘공룡상이다’ 등의 표현으로 신입 여학생들의 외모를 평가하는 내용이 기재돼 있었다.&lt;br&gt;&lt;br&gt;2019년 해당 사실이 대학생 온라인 커뮤니티와 언론을 통해 알려지는 등 논란이 확산하자 서울특별시교육청 감사관은 서울교대 졸업생 중 교원으로 임용됐거나 임용시험에 합격한 사람들을 대상으로 감사를 진행했다. A씨는 2019학년도 서울시 초등학교 교사 임용시험에 합격해 이듬해 임용됐다.&lt;br&gt;&lt;br&gt;이후 서울시교육청 징계위원회는 A씨가 책자를 제작 및 배포해 이를 외모평가 및 성희롱의 매개체로 사용하게 한 ‘품위 유지 의무’ 위반을 이유로 2020년 3월 징계의결을 요구하고 그해 11월 A씨에게 견책 처분을 내렸다. A씨는 이에 반발해 2021년 6월 소송을 제기했다.&lt;br&gt;&lt;br&gt;사건의 쟁점은 A씨를 ‘공공기관 종사자’로 규정할 수 있는지 여부였다. A씨는 이 사건 책자를 만든 것은 사실이지만, 이는 교육공무원으로 임용되기 전인 교대 학생일 때 발생한 것으로 재직 중에 일어난 일이 아니기 때문에 징계사유로 삼을 수 없다는 등의 취지로 주장했다.&lt;br&gt;&lt;br&gt;1심과 2심은 모두 관련 대법원 판결을 예시로 들며 “국가공무원으로 임용되기 전의 행위는 국가공무원법 제78조 제2항, 제3항의 경우 외에는 원칙적으로 재직 중의 징계사유로 삼을 수 없지만 비록 임용 전의 행위라도 이로 인해 임용 후의 공무원의 체면 또는 위신을 손상하게 된 경우에는 위 제1항 제3호의 징계사유로 삼을 수 있다는 법리를 (대법원이) 판시했고, 이러한 입장은 현재에도 유지되고 있다”며 “여성에 대한 왜곡된 성인식을 보여주는 이 사건으로 인해 교육공무원의 정당한 권위나 초등학교 교사에 대한 국민의 신뢰가 훼손되었다고 할 수 있다”는 취지로 보며 원고 패소 판결했다.&lt;br&gt;&lt;br&gt;하지만 대법원은 “A씨는 교대에 재학 중인 학생으로 공공기관의 업무를 수행하는 것이 아니라 계약상 또는 법률상 원인에 의해 공공기관으로부터 일정한 역무를 제공받는 사람이었을 뿐”이라며 “교대의 특수성을 감안해도 A씨가 공공기관과 일정한 관련을 맺고 공공기관의 업무를 수행하고 있는 사람에 해당한다고 보기 어렵다”며 판단을 달리했다.&lt;br&gt;&lt;br&gt;이어 “A씨에 대한 징계의결 요구는 해당 사건이 발생한 날로부터 3년이 지난 2020년 3월 이뤄졌으므로 이 사건 처분은 징계시효가 경과해 위법하다”고 판단했다. 국가공무원법상 징계 시효는 3년이지만 공공기관 종사자나 사용자, 근로자가 성희롱 행위를 할 경우 징계 시효 10년이 적용된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>임종석 20일 검찰 조사...이상직 前 중진공 이사장 임명 의혹</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/19/VGMIIOKIWJC6ZJDLW3PLDSUWZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/19/VGMIIOKIWJC6ZJDLW3PLDSUWZA/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 Aug 2024 01:49:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2OKYQXW6T5GHJHPW7A4X24SXRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임종석&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임종석 전 대통령 비서실장이 문재인 정부 당시 이상직 전 더불어민주당 의원의 중소벤처기업진흥공단(중진공) 이사장 임명 의혹과 관련된 조사를 받기 위해 20일 전주지검에 출석한다.&lt;br&gt;&lt;br&gt;전주지검 형사3부(부장 한연규)는 임 전 비서실장이 20일 오후 1시 30분 참고인 신분으로 조사를 받을 예정이라고 19일 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 2018년 3월 이상직 전 의원이 중진공 이사장에 임명되는 과정에 청와대가 관여한 것으로 보고 있다. 이 전 의원은 중진공 이사장에 임명된 직후 문 전 대통령 사위였던 서모(44)씨를 자신이 사실상 소유하고 있는 태국 저비용 항공사 타이이스타젯에 전무이사로 채용하고, 중진공 직원들을 동원해 서씨 가족이 태국에서 정착하도록 도운 것으로 조사됐다. 검찰은 문 전 대통령 가족을 지원한 것이 중진공 이사장 임명에 대한 대가인지 여부를 집중 조사하고 있다.&lt;br&gt;&lt;br&gt;앞서 검찰은 문재인 정부 초기부터 인사 검증·관리 업무를 맡았던 조현옥 전 청와대 인사수석을 피의자로 입건했고, 올 초 대통령기록관을 압수 수색해 중진공 이사장 임명과 관련된 청와대 내부 보고 서류 등을 확보했다.&lt;br&gt;&lt;br&gt;최근엔 문 전 대통령과 김정숙 여사에 대한 금융 계좌 추적용 압수 수색 영장을 법원에서 발부받아, 딸 다혜씨 가족과의 자금 거래 흐름을 분석 중인 것으로 알려졌다. 영장에는 문 전 대통령 부부 명의의 계좌와 혐의, 기간 등이 특정돼 있다고 한다.&lt;br&gt;&lt;br&gt;임 전 비서실장은 19일 자신의 소셜미디어에 글을 올려 “전주지검으로부터 비공개 조사 여부에 대한 의사타진이 있었지만 사양했고, 저는 과거 울산사건 때와 같이 가능한 모든 과정을 공개할 예정”이라고 밝혔다. 이어 “최근 밝혀진 문재인 대통령 내외에 대한 계좌 압수수색 사실은 이 사건의 본질과 목표를 분명히 보여주고 있다”며 “김건희 여사 물타기용이든 국면 전환용이든 이 더러운 일의 목적이 그 무엇이든 용납될 수 없는 일이다”라고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>매년 정부 합동 단속에도...누누티비는 재오픈해 준비중</title>
       <link>https://www.chosun.com/national/2024/08/19/WPTHR3XJM5FJPH6KNMSU5HWWUQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/08/19/WPTHR3XJM5FJPH6KNMSU5HWWUQ/</guid>
@@ -889,28 +907,6 @@
       <pubDate>Mon, 19 Aug 2024 01:56:25 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5WSF7K4UCZBFRGQQPDB3XYQ7DM.png"&gt;&lt;figcaption&gt;&lt;small&gt;19일 누누티비 화면 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부는 “12월까지 저작권 침해 불법사이트를 단속하겠다”고 19일 밝혔다. 매년 정부는 ‘저작권 침해 사이트 차단’ 합동 단속을 벌이고 있다. 하지만 불법 사이트 대부분이 해외에 거점을 두고 있어 이를 원천적으로 차단하기는 사실상 어렵다는 분석이 나온다.&lt;br&gt;&lt;br&gt;문화체육관광부, 경찰청은 지난 2018년부터 ‘온라인 저작권 침해 사이트 합동단속’을 실시해 총 211개 사이트 단속, 99명을 검거(12명 구속)했다. 작년 경남경찰청은 해외 서버를 이용해 웹툰 사이트를 운영하며 웹툰 1412개를 무단으로 게시하고 성 영상물 링크를 거는 방법으로 음란물을 유포한 운영자 2명을 구속했다. 또 제주경찰청은 국내외 영화·텔레비전 방송 스트리밍과 링크 사이트 4개를 운영하면서 영상 저작물 총 28만8819개를 송신한 운영자 1명을 검거하고 수익금 1억7500만원을 기소 전 추징 보전한 바 있다. 작년엔 인도네시아 수사기관과 국제 공조, 불법 아이피티브이(IPTV) 서비스 운영자 일당을 양국에서 동시 압수수색해 인도네시아 불법방송 운영자 3명을 검거하기도 했다.&lt;br&gt;&lt;br&gt;하지만 이런 성과에도 불구하고, 불법 사이트들은 버젓이 활동 중이다. 불법 무료 스트리밍 사이트 ‘누누티비’가 대표적이다. 누누티비는 지난 2021년 6월 오픈 이후 국내외 온라인 동영상 서비스(OTT) 사업자의 드라마와 예능 콘텐츠를 무단으로 무료 스트리밍해왔다. 콘텐츠 업계 피해액만 약 5조원에 달하는 것으로 전해졌다.. 불법 논란이 일자 누누티비는 정부 단속 끝에 지난해 4월 14일 자진 폐쇄했지만, 약 두달 후인 작년 6월 누누티비 시즌2가 다시 생겨나기도 했다. 이들은 “기존 누누티비와는 관련이 없다”고 밝혔지만, 홈페이지 구성과 불법 도박 사이트 광고를 게시하는 등 기존 누누티비와 유사한 점이 많았다. 이처럼 단속 강화로 사이트가 폐쇄됐다가 얼마 지나지 않아 다시 사이트를 오픈하는 식의 꼼수가 반복되는 것이다.&lt;br&gt;&lt;br&gt;현재 누누티비는 다른 도메인으로 재오픈한 상태다. 기자가 누누티비 사이트를 들어가보니, 누누티비에는 각종 인기 드라마, 영화 이미지가 게시돼 있다. 다만, 19일 기준 동영상 직접 재생이 불가능하며, 동영상에 들어가면 불법 영상 공유 사이트 티비위키 등 타 사이트 이동 링크로 연결된다. 누누티비는 “로그인 기능은 준비 중”이라고 적었다.&lt;br&gt;&lt;br&gt;누누티비를 통해 연결되는 ‘티비위키’는 작년 6월 오픈한 대표적인 불법 영상 공유 사이트다. 넷플릭스, 디즈니+, 쿠팡플레이 등 대부분의 OTT 사이트의 콘텐츠를 보유하고 있다. 이 사이트는 네덜란드에 사업장을 두고 있다고 적었다. 이들은 지난 6월엔 공지 게시판에 “한국정부에서 수시로 차단 하는 관계로 앞으로는 사용자 여러분이 아래 우회 방법을 통해 접속 해주셔야 한다”며 상세히 방법을 알려주기도 했다. 또 텔레그램에는 매달 정부 단속을 빠져나가는 접속 주소 링크를 게재하고 있다.&lt;br&gt;&lt;br&gt;이런 사이트들은 저작관 침해 뿐 아니라 불법 도박과 성인물 홍보용 배너광고를 수십 개씩 게시하며 돈을 벌고 있다. 티비위키에도 불법 도박 사이트 배너 광고들이 걸려 있다. 불법 콘텐츠는 사실상 미끼로, 이를 통해 불법 도박, 성인물 사이트로 넘어오도록 유혹하는 것이다. 경찰 관계자는 “배너를 걸어주면 불법 도박, 성인물 관련 범죄수익을 분배하는 구조”라고 했다.&lt;br&gt;&lt;br&gt;문제는 아직까지 이런 불법 사이트들을 제재할 방법이 마땅치 않다는 것이다. 정부는 불법 사이트 접속을 차단하는 등 모니터링을 하고 있지만, 대다수가 서버를 해외에 두고 접속 주소를 바꾸는 방식을 사용해 원천 차단이 불가능하다. 업계 관계자는 “누누티비가 덩치를 키워 철퇴를 맞은 후 불법 사이트들은 덩치를 키우지 않은 채 소규모로 운영하면서 기회를 노리고 있다”며 “결국 불법 사이트가 난립하게 되면서 콘텐츠·OTT 업계 피해도 커지고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/5WSF7K4UCZBFRGQQPDB3XYQ7DM.png?width=1879&amp;height=919&amp;auth=e2fa0185e1bac2b9b0b8b4c5448866f59ff291f6b3f7c553d3394132238c9727&amp;smart=true" type="image/png" height="919" width="1879"/>
-    </item>
-    <item>
-      <title>세종시 저수지에 탯줄 달린 신생아 버린 친모 자수</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/08/19/URDTMZFIUJCH5EMKV7F2GJG3IY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/08/19/URDTMZFIUJCH5EMKV7F2GJG3IY/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 Aug 2024 02:18:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RQYKWDGQODLKEWWWPPNT527HLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세종북부경찰서. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세종시의 한 저수지에 갓 태어난 아기를 버린 친모가 경찰에 자수했다.&lt;br&gt;&lt;br&gt;세종북부경찰서는 시체유기 혐의로 A(여·20대)씨를 붙잡아 조사하고 있다고 19일 밝혔다. A씨는 세종시 조치원읍 한 저수지에 탯줄과 태반이 달린 영아를 유기한 혐의를 받는다.&lt;br&gt;&lt;br&gt;앞서 지난 15일 오후 6시 30분쯤 저수지를 지나던 시민이 아이의 시신이 물에 떠 있는 것을 발견해 신고했다. 발견 당시 아이의 시신에서는 특별한 외상이 발견되지 않았고, 부패가 진행되기 직전 상태였다고 한다.&lt;br&gt;&lt;br&gt;경찰은 신고를 접수하고 수사에 나섰고, 언론 보도가 이어지자 아이의 친모 A씨가 경찰에 자수 의사를 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “출산 예정일보다 일찍 양수가 터져서 집에서 혼자 출산했는데, 출산 후 아기가 숨을 쉬지 않아서 겁이 나 저수지에 유기했다”고 말했다. 미혼인 A씨는 별다른 직업 없이 혼자 거주한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 아이의 시신을 국립과학수사연구원에 부검 의뢰하는 한편, 아이가 숨지게 된 경위에 대해 확인할 방침이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “아이 사망 시점에 따라 아동학대 살해 혐의 적용 여부가 결정 될 것으로 보인다”면서 “구체적인 내용에 대해서는 수사를 벌이고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RQYKWDGQODLKEWWWPPNT527HLY.jpg?width=600&amp;height=400&amp;auth=2cac78043dd8444d4efb4374d771199c0e6e93e695c574ad607cc6204b3e8f48&amp;smart=true" type="image/jpeg" height="400" width="600">
-        <media:description type="plain">세종북부경찰서. / 뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>국산 전기차 택시서 연기...2시간만에 안전조치</title>
-      <link>https://www.chosun.com/national/regional/2024/08/19/3WLM5Z4OGFBAXNOBXYYDNLFBQQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/19/3WLM5Z4OGFBAXNOBXYYDNLFBQQ/</guid>
-      <dc:creator>안동=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 Aug 2024 02:24:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KDFZ2Y4FBZDDXCYZGGGSY73N4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 안동소방서 주차장 내 소화수조에 담긴 전기차./경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주차된 국산 전기차 택시에서 원인 불명의 연기가 뿜어져 나오는 일이 발생했다.&lt;br&gt;&lt;br&gt;19일 경북소방본부에 따르면 지난 18일 오후 5시 28분쯤 경북 안동시 용상동 한 주택가 도로에 주차된 국산 전기차 택시 운전석 아래 등에서 연기가 나온다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;차주인 60대 남성 A씨는 “차를 주차한 이후 집에 잠시 들어갔다 나왔는데 차량 내부에 연기가 자욱했다. 문을 열어 환기를 했는데 계속 연기가 나왔다”고 말했다.&lt;br&gt;&lt;br&gt;출동한 화재 진압 대원들은 연기가 피어오르는 전기차를 견인해 안동 소방서 내에 있는 소화 수조에 담그는 형태로 2시간여 만에 안전조치를 마쳤다. 해당 전기차 택시는 국내 자동차 브랜드가 생산한 것으로, A씨가 2년1개월가량 전 구입했다고 한다.&lt;br&gt;&lt;br&gt;소방 관계자는 “전기차에서 연기만 나오고 있어 화재 상황은 아니었지만, 발화 예방 차원에서 안전조치를 취했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>광주·부산 비엔날레 동시 입장권 판다</title>
