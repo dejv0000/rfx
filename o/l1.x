@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>서울회생법원, 티메프 ARS 프로그램 지원할 담당임원 위촉…자구안 작성 등 지원한다</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/200699.jpg" alt="3.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법원이 티몬과 위메프의 자율 구조조정을 지원할 구조조정담당임원(Chief Restructuring Officer·CRO)을 위촉했다. CRO는 앞으로 두 회사의 회생절차와 구조조정 전반에 관한 자문을 제공하고 자구계획안 작성을 지원할 예정이다.&lt;p&gt;   &lt;br /&gt;서울회생법원 회생2부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3586"&gt;안병욱&lt;/span&gt;&amp;nbsp;법원장, 주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2494"&gt;양민호&amp;nbsp;&lt;/span&gt;부장판사)는 20일 이 같은 결정을 했다고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;지난 13일 열린 회생절차협의회에서는 두 회사가 제시한 자구계획안 등에 대한 검토가 이뤄졌다. 이날 채권자협의회는 두 회사의 현재 재무상황이나 자구계획안에 대해 불명확한 부분을 지적하면서 CRO 선임을 제안한 것으로 알려졌다. 재판부도 협의회 진행 경과를 살펴보면서 티몬과 위메프의 두 대표를 통해서만 회사의 재무 상황이나 회사의 정상화 방안을 보고하도록 하는 건 이해관계인을 만족시키는 데 한계가 있다고 판단해 CRO를 선임했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;CRO는 회생절차에 관해 관리인(대표자)에게 충분히 자문을 제공하고, 회생절차의 공정한 진행을 위해 관리인을 적절히 감독하는 역할을 담당한다. 자금수지 등 회사의 재산, 자금지출 및 운영 상황 등을 법원과 채권자협의회에 보고하고 회생절차의 원활한 진행을 위해 채권자 등과 의사소통에 기여하기도 한다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;다만 법원은 업무 혼선 등을 막는다는 차원에서 통상 CRO로 선임된 인사가 누구인지는 공개하지 않는다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이 사건에서 CRO는 다음 절차협의회가 열리는 30일 두 회사의 재산 및 영업상황이나 자구계획에 관한 진행 과정 등을 법원 및 채권자 등 이해관계인에게 보고할 예정이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Tue, 20 Aug 2024 02:49:39 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/200699</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200699</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200699.jpg</media:thumbnail>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
+			<title>지평 ESG센터, ‘유럽 지속가능성 보고 기준(ESRS) 강독’ 열어</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/200697.jpg" alt="200697_1.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;강독을 하고 있는 정영일 경영연구그룹장.&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;지평 ESG센터는 지난 14일, 서울 중구 세종대로 지평 본사 그랜드센트럴 오디토리움에서 지평 ESG 아카데미 ‘유럽 지속가능성 보고 기준(ESRS) 강독’을 열었다.&lt;br /&gt;&lt;br /&gt;ESRS는 CRSD를 구현하기 위해 마련한 표준 보고 양식이다. CSRD란 EU의 ESG 보고지침이다. EU 내에서 사업 활동을 하는 일정 규모 이상의 회사나 상장 회사에게 요구되는 지속가능성 관련 규정을 제공한다. 지속가능경영보고서 의무화를 위한 법률이 CSRD고, ESRS는 지속가능성경영보고서를 통해 기업이 공시할 정보의 범위와 기준을 명시한 도구라고 생각하면 된다.&lt;br /&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/200697.jpg" alt="200697_3.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;이번 ESG 아카데미는 지평 ESG센터장인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7279"&gt;임성택&lt;/span&gt;(60·사법연수원 27기) 대표변호사의 인사말을 시작으로, 정영일 지평 ESG센터 경영연구그룹장이 강독했다.&lt;br /&gt;&lt;br /&gt;1세션 'ESRS 1'과 2세션 'ESRS 2'에서는 기업들이 지속가능성 성과를 공시할 때 준수해야 하는 일반적인 원칙과 요구사항에 대해 소개했다.&lt;br /&gt;&lt;br /&gt;3세션 '이중 중요성 평가(IG이행 가이던스 1)'에서는 이중 중요성에 대한 접근 방식과 프로세스에 대해 구체적으로 살펴봤다.&lt;br /&gt;&lt;br /&gt;이어진 세션에서는 ESRS의 10개의 주제 기준들 중에 △환경(ESRS E 1 기후변화) △사회(ESRS S 1 자체 인력) △거버넌스(ESRS G 1 기업행동)에 대해 구체적으로 소개했다.&lt;br /&gt;&lt;br /&gt;강독 이후에는 참석자들과의 질의응답이 이어졌으며, 아카데미 참석자에게는 지평 ESG센터가 자체적으로 번역한 첫 번째 ESRS 세트(총 12개)가 제공됐다.</description>
+			<pubDate>Tue, 20 Aug 2024 02:48:01 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/200697</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200697</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200697.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
 			<title>법원도서관, 27일 '교통사고, 아는 만큼 안전하다!' 법률소양강좌</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/200693.jpg" alt="200693.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법원도서관(관장 전지원)은 오는 27일 오후 3시 경기 고양시 법원도서관 법마루 1층 복합문화공간에서 '교통사고, 아는 만큼 안전하다'를 주제로 법률소양강좌를 개최한다.&lt;p&gt;&lt;br /&gt;서울중앙지검장, 서울남부지검장, 법무부 검찰국장을 지낸&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8320"&gt;이정수&lt;/span&gt;(55·사법연수원 26기)  중앙N남부 법률사무소 대표변호사가 강사로 나선다. 이 대표변호사는 다양한 교통사고의 유형별 대처법과 사고 예방을 위해 숙지해야 할 각종 교통법규 등에 대해 강연할 예정이다.   &lt;/p&gt;&lt;p&gt;&lt;br /&gt;이 대표변호사는 교통사고와 관련한 수사와 재판, 사례를 분석한 《교통사고실무》(법률신문사 펴냄)의 저자이다. 이밖에 기업·기관·개인을 위한 실전 노하우를 담은 《IT시대 개인정보》(법률신문사 펴냄)를 출간한 IT 분야 전문가로 꼽힌다.      &lt;/p&gt;&lt;p&gt;&lt;br /&gt;시민 누구나 무료로 참석할 수 있으며 26일까지 법원도서관 홈페이지에서 사전 신청하면 된다. 이날 강좌는 법원도서관 유튜브 채널 및 법원TV에서 실시간 생중계된다.         &lt;/p&gt;&lt;p&gt;&lt;br /&gt;법원도서관 법마루 1층 전시공간에서 이달부터 마련된 법마루 주제 컬렉션 '교통사고 대응 및 예방'은 11월까지 이어진다. 교통사고 관련 도서와 논문, 영상콘텐츠 등을 관람할 수 있다.            &lt;/p&gt;&lt;p&gt;&lt;br /&gt;서울 남강고와 서울대 법대를 졸업한 이 대표변호사는 1994년 제36회 사법시험에 합격했다. 2000년 서울지검 동부지청에서 검사 생활을 시작한 후 대검찰청 정보통신과장, 서울중앙지검 첨단범죄수사2·1부장(개인정보 합수단장), 대검 수사정보정책관, 부천지청장을 거쳐 2020년 검사장으로 승진해 대검 기획조정부장을 지냈다. 이어 서울남부지검장, 법무부 검찰국장 서울중앙지검장을 역임했다. 2022년 8월 퇴임해 중앙N남부 법률사무소 대표변호사로 활동하고 있다.            &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Tue, 20 Aug 2024 01:55:35 -0000</pubDate>
@@ -220,26 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200642</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200642.jpg</media:thumbnail>
 			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>‘형사단독’까지 전담법관</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/200650.jpg" alt="200650.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법원이 경험과 연륜이 풍부한 법조인을 대상으로 선발하는 ‘전담법관’의 선발 분야를 형사사건까지 확대한다. 내년부터는 기존 민사단독 사건뿐 아니라, 형사단독 사건도 전담법관이 담당하게 된다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;대법원(대법원장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6022"&gt;조희대&lt;/span&gt;)은 19일 ‘2025년도 전담법관 임용계획’을 공고하면서 이런 내용의 선발 계획을 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;대법원은 9월부터 진행하는 ‘2025년 전담법관 임용’에서 민사단독과 형사단독(정식재판청구사건 포함) 전담법관을 임용할 계획이다. 형사단독 전담법관을 임용하는 것은 이번이 처음이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;형사단독 전담법관이 채용되면 사건의 특성과 업무부담 등 사정을 고려해 임용 초기에는 정식재판청구사건을 우선 담당하게 된다. 이후 일정 기간 근무한 뒤에는 본인의 희망과 보임 법원의 재판부 구성 현황 등 제반 사정을 고려해 일반 형사단독사건도 담당할 예정이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;임용 지원은 9월 2일부터 20일까지 할 수 있다. 이후 법관인사위원회의 서류심사를 거쳐 인성검사, 에세이 작성 및 인성역량 평가면접이 진행된다. 최종면접 뒤에는 법관인사위원회 최종심사에 이어 대법관회의 임명동의를 거치게 된다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;2012년 도입된 ‘전담법관 제도’는 재판에 대한 국민의 신뢰를 제고하고, 법조경력자의 법관 임용을 활성화하기 위해 마련됐다. 법조일원화의 안정적 정착을 도모하기 위해 임기 중 특정 재판만을 전담하는 법관을 재야 법조경력자 중에서 임용하는 제도이다. 2013년 제도 시행 이후 올해까지 총 29명의 전담법관이 임용됐으며, 현재 20명의 전담법관이 각급 법원에서 풍부한 경험과 연륜을 살려 국민 생활과 밀접한 민사단독 또는 민사소액 사건을 담당하고 있다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;초기에는 법조경력 15년 이상의 법조인을 대상으로 선발했으나, 법관임용에 필요한 최소 법조경력이 5년 이상으로 상향되면서 2019년부터는 전담법관의 지원 자격을 법조경력 20년 이상으로 높였다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;대법원 관계자는 “민·형사 각 분야에서 풍부한 경륜을 쌓은 훌륭한 법조인이 전담법관으로 임용돼 국민의 실생활과 밀접한 관련이 있는 사건에서 국민의 눈높이에 맞는 충실한 재판을 실현할 것으로 기대한다”고 말했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</description>
-			<pubDate>Sun, 18 Aug 2024 21:19:07 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/200650</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200650</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200650.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] “군 훈련 중 사고로 흉터, 합해 5cm 넘으면 상이연금 지급”</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/200620.jpg" alt="200620.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;특수요원 훈련 중 상처가 나 이마에 Y자 흉터가 남게 된 경우, 흉터가 하나이거나 하나처럼 보이는 것과 관계 없이 흉터 길이를 합산해 5㎝가 넘으면 상이연금을 지급해야 한다는 취지의 법원 판단이 나왔다.&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;서울행정법원 행정1단독&lt;/b&gt; 재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="18990"&gt;손인희&amp;nbsp;&lt;/span&gt;판사는 6월 5일 A 씨가 국방부를 상대로 낸 상이등급결정취소 소송(&lt;b&gt;2023구단72663&lt;/b&gt;)에서 원고 승소 판결했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;1999년 8월 임관해 한 부대에서 특수요원으로 근무하던 A 씨는 2001년 10월 주둔지 훈련장에서 특수무술 훈련 중 여러 차례 공중회전을 하다가 중심을 잃고 떨어지는 사고를 당했다. 이로 인해 A 씨의 미간에는 Y자 형태의 흉터가 생겼고, 결국 상이연금을 청구했다. 그러나 국방부는 2023년 4월 “2개 이상의 선상흔(선 모양의 흉터)이 인접하거나 모여 있어 1개의 선상흔으로 보일 때는 길이 등을 합산해 평가하는데, 흉터의 길이가 5cm 미만”이라며 상이연금 지급 비해당 결정을 내렸다. 이에 불복해 A 씨는 소송을 냈다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;구 군인 재해보상법 등에 따르면 공무수행 중 발생한 사고를 당한 군인이 안면부에 5㎝ 이상의 선 모양의 흉터가 있는 경우에는 ‘상이등급 제7급’의 ‘외모에 뚜렷한 흉터가 남은 사람’에 해당해 국방부에 상이연급 지급을 청구할 수 있다. 구 군인 재해보상법 시행규칙은 ‘2개 이상의 선모양의 흉터가 서로 인접하여 있거나 모여 있어서 1개의 흉터 또는 선상흔으로 보일 때에는 면적과 길이 등을 합산해 평가한다’고 규정한다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;A 씨 미간의 Y자 형태 흉터 중 길이가 긴 부분은 4㎝, 짧은 부분은 1㎝였다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;국방부는 처분 당시 A 씨의 흉터가 인접해 이어져보인다고 봤지만, A 씨가 처분에 불복해 군인재해보상연금재심의원회에 심사청구한 뒤에는 “하나의 흉터이므로 Y자 형태의 흉터 중 길이가 긴 흉터를 기준으로 평가해야 한다”고 주장했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;반면 병원 측의 장해진단서에 A 씨의 흉터는 2개의 선상흔을 합쳐 5㎝의 흉터로 간주 가능하다고 적혀있었다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;손 판사는 “‘1개의 흉터로 보이는 경우’에는 각 흉터의 길이를 합산해 상이등급을 판정하는 것은 오히려 ‘1개의 흉터인 경우’를 정당한 사유 없이 불리하게 취급하는 경우에 해당한다”고 판단했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;이어 “‘2개 이상의 선상흔이 서로 인접하여 있거나 모여 있어서 1개의 선상흔으로 보일 때에는 길이 등을 합산해 평가한다’고만 규정할 뿐, ‘1개의 흉터의 경우 길이가 긴 흉터만을 기준으로 상이등급을 산정해야 한다’는 내용으로 해석할 수 없다”고 설명했다.&lt;/p&gt;</description>
-			<pubDate>Sun, 18 Aug 2024 00:18:57 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/200620</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200620</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200620.jpg</media:thumbnail>
-			<dc:creator>김지현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
