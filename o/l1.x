@@ -76,8 +76,8 @@
 			<dc:creator>임현경 기자</dc:creator>
 		</item>
 		<item>
-			<title>정웅석 교수, 한국형사·법무정책연구원 신임 원장 선임</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/200793.jpg" alt="ddd.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국형사·법무정책연구원 신임 원장에 정웅석 서경대 공공인재학부 교수가 22일 선임됐다. 임기는 3년이다.&lt;br /&gt;&lt;br /&gt;정 신임 원장은 서경대 법학과 교수를 지내고 수사권조정자문위원회 위원과 한국비교형사법학회 이사, 한국형사정책학회 이사, 한국형사소송법학회 제7~8대 회장 등을 역임했다.&lt;br /&gt;&lt;br /&gt;그는 향후 한국형사·법무정책연구원장으로서 경영성과와 연구실적 등에 대해 경제·인문사회연구회(NRC)의 평가를 받게 된다.&lt;br /&gt;&lt;br /&gt;한국형사·법무정책연구원은 1989년 설립된 정책연구기관으로 국무총리(국무조정실) 산하 경제·인문사회연구회(NRC) 소속 공공기관이다. 형사관계법령 및 형사정책, 민·상사, 송무, 국제법무, 인권법무, 출입국법무, 법조인력정책 등 법무관계법령 및 법무정책에 관한 종합적인 연구와 사업을 맡고 있다.  &lt;br /&gt;</description>
+			<title>한국형사·법무정책연구원 신임 원장에 정웅석 교수</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/200793.jpg" alt="ddd.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;정웅석 서경대 공공인재학부 교수가 23일 한국형사·법무정책연구원 신임 원장에 취임한다. 임기는 3년이다.&lt;br /&gt;&lt;br /&gt;정 신임 원장은 서경대 법학과 교수를 지내고 수사권조정자문위원회 위원과 한국비교형사법학회 이사, 한국형사정책학회 이사, 한국형사소송법학회 제7~8대 회장 등을 역임했다.&lt;br /&gt;&lt;br /&gt;그는 앞으로 한국형사·법무정책연구원장으로서 경영성과와 연구실적 등에 대해 경제·인문사회연구회(NRC)의 평가를 받게 된다.&lt;br /&gt;&lt;br /&gt;한국형사·법무정책연구원은 1989년 설립된 정책연구기관으로 국무총리(국무조정실) 산하 경제·인문사회연구회(NRC) 소속 공공기관이다. 형사관계법령 및 형사정책, 민·상사, 송무, 국제법무, 인권법무, 출입국법무, 법조인력정책 등 법무관계법령 및 법무정책에 관한 종합적인 연구와 사업을 맡고 있다.  &lt;br /&gt;</description>
 			<pubDate>Thu, 22 Aug 2024 07:35:38 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/200793</link>
