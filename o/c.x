@@ -13,6 +13,37 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“학교 오려면 ‘사전 예약’ 하세요”... 서울 초·중·고, 10월부터 방문예약제 도입</title>
+      <link>https://www.chosun.com/national/education/2024/08/22/2DQMYCTTBFCINPHTXOU7LO5VS4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/08/22/2DQMYCTTBFCINPHTXOU7LO5VS4/</guid>
+      <dc:creator>김경은 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 22 Aug 2024 04:53:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TC44BN6SVRJEFNIPDP7FJYDPRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 오전 서울 시내 한 초등학교 입구에 '외부인 교내 출입 제한' 문구가 적힌 배너가 세워져 있다. 서울시교육청은 오는 10월 부터 서울 관내 모든 학교(공·사립 초·중·고·특수·각종)에 대해 외부인 출입을 위한 '학교 방문 사전 예약제'를 실시한다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 10월부터 서울에 있는 학교를 방문하려면 미리 예약을 해야 한다.&lt;br&gt;&lt;br&gt;서울시교육청은 ‘학교 방문 사전예약제’를 10월 1일부터 시작한다고 22일 밝혔다. 사전예약제는 외부인이 함부로 학교에 출입하는 걸 막기 위해 작년 11월부터 서울 지역 학교 68곳에서 시범 운영하고 있는 제도다. 10월부턴 서울시 전체 학교로 확대된다.&lt;br&gt;&lt;br&gt;학교들은 사정에 따라 홈페이지나 e알리미(알림장 어플), 전화 등을 선택해 사전예약제를 운영할 수 있다. 학부모를 포함해 방문인은 미리 예약하고 승인을 받아야만 학교를 드나들 수 있다. 그렇지 않을 경우 학교가 출입을 거부할 수 있다. 서울교육청이 시범 학교의 성과를 분석했더니, 외부인의 학교 방문이 40% 이상 줄어드는 것으로 나타났다. 예약을 의무화하면서 꼭 필요하지 않은 방문이 줄어든 것으로 보인다.&lt;br&gt;&lt;br&gt;다만 학교 출입이 정기적으로 필요해 출입증을 받은 사람, 학생과 교직원의 안전이나 응급구조, 재난 대응 등 긴급한 사유로 학교에 들어가야 하는 사람, 학생들이 교육을 받지 않는 시간에 운동장·체육관을 이용하는 사람은 사전 예약을 하지 않아도 학교를 출입할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광주 모 치과서 사제폭탄 폭발… “인명피해 없어”</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/22/A2UUZDLUJ5AV5IV5KQ4HZ554GY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/22/A2UUZDLUJ5AV5IV5KQ4HZ554GY/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 22 Aug 2024 05:06:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2HIJWFTXLWL22MLWLD3D74LVRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 서부경찰서 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시의 한 치과에 사제폭탄이 배송된 뒤 폭발해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;22일 광주 서부경찰에 따르면 이날 오후 1시10분쯤 광주 서구의 한 치과에서 사제폭탄이 폭발했다. 경찰은 방범카메라(CCTV)를 통해 치과 대기실로 불을 지른 사제폭탄을 던진 뒤 사라진 괴한을 추적하고 있다.&lt;br&gt;&lt;br&gt;경찰이 회수한 사제폭탄은 부탄가스 4개가 묶인 뒤 시너가 조합된 형태였던 것으로 파악됐다. 사제폭탄이 폭발한 시간은 치과 점심시간이었기 때문에 인명피해는 없었던 것으로 전해졌다. 경찰은 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/2HIJWFTXLWL22MLWLD3D74LVRQ.jpg?width=4846&amp;height=3231&amp;auth=3eb8d6079d92d40be0c98a8544d7e3db0639fe54d81f436d2ccfd3c667b3c57e&amp;smart=true" type="image/jpeg" height="3231" width="4846">
+        <media:description type="plain">광주 서부경찰서 로고./뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>우리에게 이런 일이”…술·담배 대신 복권샀다 ‘21억’ 잭팟</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/22/6QPVM2JGXVGJHAOXWA6FMCQEPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/22/6QPVM2JGXVGJHAOXWA6FMCQEPU/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 22 Aug 2024 04:53:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M3RRPL3KOFFVBPDTDXLP2A22MI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;224회차 연금복권720+ 1·2등 당첨자 A씨&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술, 담배를 하지 않고 그 비용으로 연금복권을 구매했다가 1·2등에 동시에 당첨된 한 남성의 사연이 전해졌다.&lt;br&gt;&lt;br&gt;19일 복권수탁사업자 동행복권은 당첨자 인터뷰 게시판을 통해 224회차 연금복권720+ 1·2등 당첨자 A씨의 사연을 소개했다.&lt;br&gt;&lt;br&gt;A씨는 최근 경기 양주의 한 복권판매점에서 복권을 구매해 행운의 주인공이 됐다고 한다. 그는 “술, 담배를 하지 않고 그 비용으로 매주 로또복권과 연금복권을 구매하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;A씨는 평소처럼 퇴근 후 로또복권과 연금복권 세트를 구매했고, 며칠 뒤 식당에서 휴대전화로 당첨 여부를 확인했다고 한다. 당첨 사실을 확인한 그는 믿기지 않아, 한참이나 복권만 멍하니 바라봤다고 했다.&lt;br&gt;&lt;br&gt;A씨는 “‘우리에게 이런 일이 있어?’라는 생각에 당첨 사실을 믿을 수가 없었다”며 “옆에 있던 배우자에게 당첨된 복권을 보여줬더니 기쁨의 눈물을 흘렸다”고 했다. 이어 “배우자와 40년을 넘게 인복, 재물복 등 없이 고생이 많았지만, 열심히 살아온 저희에게 찾아온 행운이라 생각한다”며 “최근 식당도 어려워지고 건강도 안 좋아져서 노후에 대한 걱정이 많았는데, 1등 당첨금으로 인해 근심 걱정이 사라져 감사한 마음”이라고 소감을 전했다.&lt;br&gt;&lt;br&gt;그는 “최근 특별히 기억에 남는 꿈은 없지만, 기분 좋은 꿈을 자주 꿨다”고 말했다. 그러면서 “당첨금으로는 주택을 구매하고, 노후 자금으로 활용할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;한편 A씨가 당첨된 연금복권720+는 1등 1장과 2등 4장으로, 총 5장이다. 1등은 20년간 매월 700만원씩, 2등은 10년간 매월 100만원씩 연금 형식으로 당첨금을 수령하게 된다. 이에 따라 A씨가 향후 20년간 받게 될 복권 당첨금은 총 21억6000만원이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>선거 앞두고 현금 뿌린 고흥군의원, 당선 무효 확정</title>
       <link>https://www.chosun.com/national/court_law/2024/08/22/GGR2YBJJEVHULPBEQMR4MWN6GM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/22/GGR2YBJJEVHULPBEQMR4MWN6GM/</guid>
@@ -906,15 +937,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W5GYVZIZ2BC35PQHT3VKFQCEOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;B군이 A양에게 보낸 메시지. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초등학교 1학년 여학생이 같은 학교·태권도장에 다니는 초등학교 5학년 남학생에게 알몸 사진을 요구받았다는 사연이 알려져 공분을 사고 있다.&lt;br&gt;&lt;br&gt;지난 20일 한 온라인 커뮤니티에는 ‘초 5학년 남아 1학년에게 성희롱 수준’이라는 제목의 글이 올라왔다.&lt;br&gt;&lt;br&gt;자신이 피해 아동의 부모라고 밝힌 글 작성자는 초등학교 1학년인 딸 A양이 5학년 B군에게 받은 카카오톡 메시지를 공개하며 “너무 화가 난다. 앞으로 어떤 조치를 취해야 하는지 조언을 해달라”고 했다.&lt;br&gt;&lt;br&gt;공개된 메시지 사진을 보면 B군은 “알몸 사진 보내줄 수 있어?”라는 메시지를 보냈고, A양은 “알몸 사진이 뭐야?”라고 답장을 했다. B군은 어린 A양이 자신의 말을 이해하지 못하자 “잘못 보냈어”라고 둘러대며 넘어갔다.&lt;br&gt;&lt;br&gt;B군은 또 A양에게 자신의 성기 사진을 보냈다가 삭제하고는 “친구한테 보내야 하는 것을 잘못 보냈다”며 “보여줄까?”라고 묻기도 했다.&lt;br&gt;&lt;br&gt;B군은 A양에게 “스X할래?”라고도 물었는데, 이는 성관계를 뜻하는 은어라고 한다. A양이 무슨 뜻이냐고 묻자 B군은 “뽀뽀 같은 것”이라고 답하며 얼버무렸다.&lt;br&gt;&lt;br&gt;작성자는 “태권도장에 잘 놀아주는 오빠가 있다고, 사귀자고 한다는 얘기는 들었는데 이런 카톡을 저희 애한테 보내고 있을 줄은 꿈에도 몰랐다”며 “손발이 떨리고 심장이 두근거려 밤새 잠도 못 잤다”고 했다.&lt;br&gt;&lt;br&gt;A양의 부모는 즉각 태권도장에 해당 사실을 알렸고, 곧 교육청 조사관도 만날 예정이라고 밝혔다.&lt;br&gt;&lt;br&gt;작성자는 “딸아이가 몇 년 만에 맨정신에 바지에 실수를 했다”며 “진술서 쓰러 가기 전에는 아무것도 기억이 안 난다고 했었는데 진술서를 빽빽이 작성했다. 아이도 기억 속에 남아 있었던 것 같은데 그게 다시 떠오르니 충격받은 듯하다”고 분통을 터트렸다.&lt;br&gt;&lt;br&gt;이 같은 사연을 접한 네티즌들은 “끝까지 책임을 물어야 한다” “초등학생이 보낸 메시지라는 걸 믿을 수가 없다” “사과만 받고 끝낼 일이 아니다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>29층 아파트형 공장 입주 ‘전동 킥보드 업체’ 화재...소방당국 1단계 발령해 진화</title>
-      <link>https://www.chosun.com/national/regional/2024/08/21/WUQ3FMYBVJH4LL4KL7KYEWL6BM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/21/WUQ3FMYBVJH4LL4KL7KYEWL6BM/</guid>
-      <dc:creator>용인=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 Aug 2024 01:43:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TMIHN3YM3RAEZIRH6FSJO2TBJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 경기 용인시 구갈동 지식산업센터 13층에 입주한 전동 킥보드 제조업체에서 발생한 화재를 출동한 소방대원들이 진화하고 있다. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 용인시의 한 지식산업센터에 입주해 있는 전동 킥보드 제조 업체에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;21일 경기도소방재난본부 등에 따르면 전날인 20일 오후 4시 46분쯤 용인시 기흥구 구갈동의 지식산업센터 13층 전동 킥보드 제조업체에서 불이 났다. 불은 전동 킥보드에 사용되는 소형 배터리에서 시작된 것으로 파악됐다. 당시 업체 안에는 다른 전동 킥보드와 배터리가 다수 보관 중이었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;화재가 발생한 건물은 지상 29층, 지하 6층 규모의 아파트형 공장 건물로 제조업체는 물론 영화관, 식당 등도 입점해 있다. 이에 따라 대형 화재 가능성을 우려한 소방당국은 신고 10여분 만에 대응 1단계(3∼7개 소방서에서 31∼50대의 장비를 동원하는 경보령)를 발령했다. 또 펌프차 등 장비 30여대와 소방관 등 90여 명을 투입해 진화작업에 나서 35분 만에 불을 모두 껐다.&lt;br&gt;&lt;br&gt;이 불로 20대 A씨가 연기를 흡입해 병원으로 옮겨졌다. 또 지식산업센터 입주업체 직원 등 120여 명이 한때 대피했다. 경찰과 소방당국은 정확한 화재 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>중앙지검, ‘디올백’ 의혹 김건희 여사 무혐의 결론…곧 총장 보고</title>
       <link>https://www.chosun.com/national/court_law/2024/08/21/YVA3KWK56BGNFLS7ECBX7K7EWQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/21/YVA3KWK56BGNFLS7ECBX7K7EWQ/</guid>
@@ -922,24 +944,6 @@
       <description/>
       <pubDate>Wed, 21 Aug 2024 01:34:48 +0000</pubDate>
       <content:encoded>윤석열 대통령의 배우자 김건희 여사의 ‘디올백 수수’ 의혹을 수사해온 서울중앙지검이 김 여사에 대해 무혐의로 결론을 내린 것으로 21일 알려졌다. 서울중앙지검은 곧 수사 결과를 이원석 검찰총장에게 보고한 뒤 김 여사에 대한 최종 처분을 내릴 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/STLDZJGTSV4IQQASWUPZBG4KPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령과 김건희 여사가 지난달 10일(현지시각) 북대서양조약기구(NATO·나토) 정상회의가 열리는 미국 워싱턴DC 인근 앤드루스 공군기지에 도착, 공군 1호기에서 내리고 있다. /대통령실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울중앙지검 형사1부(부장 김승호)는 최근 이창수 서울중앙지검장에게 김 여사의 청탁금지법 혐의가 없다는 취지의 수사 결과를 보고했다. 이 총장이 지난 5월 2일 전담수사팀 구성을 지시한 지 4개월여 만이다.&lt;br&gt;&lt;br&gt;수사팀은 김 여사가 2022년 9월 최재영 목사로부터 받은 디올백이 윤 대통령의 직무와 관련성이 없다고 판단한 것으로 전해졌다. 최 목사와 김 여사의 친분, 김창준 전 미국 연방하원 의원의 국립묘지 안장 등 디올백 전달 전후 정황을 종합했을 때 개인적인 친분을 바탕으로 감사를 표시하며 주고받은 선물이라는 판단을 내린 것으로 알려졌다. 수사팀은 그간 김 여사를 비롯해 대통령실 행정관 3명, 최 목사 등 사건관계인을 소환해 조사했다. 또 대통령실에서 해당 디올백을 임의제출 받아 최 목사가 촬영한 영상 속 가방과 동일성 검증도 거쳤다고 한다.&lt;br&gt;&lt;br&gt;검찰이 직무 관련성이 없다는 판단을 내리면서, 윤 대통령 또한 청탁금지법에 규정된 신고 의무가 없다는 결론이 날 전망이다. 현행 청탁금지법은 공직자가 배우자의 금품 수수 사실을 알았을 경우 ‘소속 기관장’에 지체 없이 서면으로 신고하도록 규정한다. 신고 의무를 이행하지 않으면 3년 이하의 징역 또는 3000만원 이하의 벌금에 처한다. 다만 김 여사의 디올백 수수가 법에서 규정하는 ‘청탁’에 해당하지 않기 때문에 신고할 의무가 없다는 것이다. 대통령실은 지난달 서울중앙지검에 윤 대통령이 김 여사의 수수 사실을 신고하지 않았다는 회신을 보낸 것으로 알려진 바 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LHVEH4HQNQ7CVHB7GX733DRSQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이원석 검찰총장(왼쪽)과 이창수 서울중앙지검장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 지검장은 조만간 수사 결과를 이 총장에게 대면보고 할 예정이라고 한다. 대검 주례 정기 보고가 있는 22일 보고가 이뤄질 가능성이 거론된다. 다만 검찰 수사심의위원회(수사심의위)가 소집된다면 최종 결론이 나오기까지 다소 시일이 걸릴 수 있다. 최 목사는 오는 23일 사건관계인(피의자) 신분으로 대검에 수사심의위 소집을 신청한다는 입장이다. 수사심의위가 소집될 경우 결과가 나올 때까지 10여 일이 걸린다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>편의점 강도질한 20대 검거...범행 앞서 “지하철역 폭탄 설치” 거짓 신고도</title>
-      <link>https://www.chosun.com/national/incident/2024/08/21/HCB7F64RKBBM7AEACNUB7QXZFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/21/HCB7F64RKBBM7AEACNUB7QXZFU/</guid>
-      <dc:creator>남양주=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 Aug 2024 01:30:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKPU66JR2ZACLDQI47NNRQYETM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지하철역에 폭탄을 설치했다고 거짓 신고한 후 편의점에서 종업원을 흉기로 위협해 돈을 빼앗아 달아난 20대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 남양주남부경찰서는 21일 특수강도와 위계에 의한 공무집행 방해 혐의로 20대 남성 A씨를 붙잡아 조사 중이라고 밝혔다..&lt;br&gt;&lt;br&gt;A씨는 지난 20일 오후 7시쯤 남양주시 평내동의 한 편의점에서 40대 여성 종업원을 흉기로 위협해 현금 약 9만원을 들고 달아난 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 범행에 앞서 “평내호평역에 폭탄을 설치했다. 편의점에서 사람을 죽일 거다”라고 112에 신고하기도 했다. 경찰은 평내호평역사를 수색했지만 폭발물은 발견되지 않았다.&lt;br&gt;&lt;br&gt;A씨는 과거에도 여러 차례 허위신고를 한 전력이 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 구체적인 범행동기를 조사한 뒤 구속영장을 신청할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 지방 이어 서울도 ‘응급실 파행’...피로 쌓인 전문의 잇단 이탈</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/08/21/LQRX3HX2V5HDPOQX5RBAGL6XDM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/21/LQRX3HX2V5HDPOQX5RBAGL6XDM/</guid>
-      <dc:creator>조백건 기자, 정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 20 Aug 2024 20:03:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JPIXI2HHONDFJCLHARUKLR67B4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오후 서울 한 병원 응급실 앞에 있는 구급차에서 관계자가 장비를 점검하고 있다. 정부의 의대 증원에 반발해 의료 현장을 이탈한 전공의들이 돌아오지 않으면서 최근 서울에서는 야간 응급 환자를 받기 어려운 응급실이 생겼다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지방에 이어 서울 대형 병원에서도 전공의(인턴·레지던트) 이탈로 인해 응급실 운영이 축소·중단되고 있다. 응급실은 중증·응급 환자가 병원에 들어오는 ‘24시간 통로’다. 응급실 가동이 중단되면 중증·응급 환자 치료도 사실상 중단되기 때문에 ‘의료 위기의 전조’라는 우려도 나온다.&lt;br&gt;&lt;br&gt;의료계에 따르면 서울의 상급종합병원(대형 병원)인 한림대강남성심병원의 응급실은 최근 야간에는 심폐소생술(CPR)을 해야 할 심정지 환자 외 신규 환자 수용은 못 하고 있다고 한다. 더구나 응급실 전문의 한 명이 조만간 사직할 예정이어서 상황은 더 악화할 전망이다.&lt;br&gt;&lt;br&gt;서울 소재 또 다른 A종합병원도 응급실 전문의들의 피로 누적으로 야간 응급 환자 수용을 제한하고 있는 것으로 알려졌다. 응급실 ‘도미노 파행’이 벌어지는 건 응급실을 지키던 전공의들의 이탈 기간이 6개월을 지나면서 번아웃(극도의 피로)이 온 전문의들이 응급실을 떠나고 있기 때문이다.&lt;br&gt;&lt;br&gt;보건복지부는 20일 브리핑에서 “응급실 진료 차질은 그 기관의 (특수한) 개별 사정에 의한 것”이라며 “부분적 진료 제한이 있는 응급실은 5개로 전체의 1.2% 수준”이라고 했다. “9월엔 인력이 충원돼 문제가 좀 해소될 것”이라고도 했다. 응급실 파행은 지엽적이고 한시적인 문제라는 뜻이다.&lt;br&gt;&lt;br&gt;응급의학과 의사들은 “정부가 연쇄 셧다운 위기에 처한 응급실 현실을 외면하고 있다”며 “한림대강남성심병원 등은 정부의 ‘진료 차질 5개 응급실’에 포함되지도 않았다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/227GPBFCXFEZVFBZEWB6I2MHPA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 영등포구의 한림대강남성심병원은 중환자를 최종 치료하는 최상위 등급의 병원(상급종합병원)이다. 이 병원 응급실은 서울 서남부 지역의 응급 환자를 책임지고 있다.&lt;br&gt;&lt;br&gt;본지 취재 결과, 한림대강남성심병원 응급실에는 응급의학과 전문의 5명이 돌아가며 야간 당직을 서고 있다. 야간엔 이 병원에서 수술 등을 했던 기존 환자 위주로 진료를 하고 있다. 신규 환자는 119를 통해 들어오는 심정지 환자 외엔 못 받고 있다고 한다. 다른 병원에서 옮겨 오는 환자도 수용하지 못하고 있다. 응급실 의사들이 극심한 피로를 겪고 있어 환자를 더 받으면 사고가 날 수 있다는 판단 때문이다. 조만간 응급실 의사 한 명이 사직할 예정이어서 응급실 진료 차질은 더 커질 전망이다.&lt;br&gt;&lt;br&gt;지방 대형 병원은 더 심각하다. 이번 전공의 집단 이탈 사태 전에도 지방 병원들은 의사 구인난에 시달렸다. 이런 상황에서 전공의가 이탈하자, 지역 병원 응급실부터 셧다운(운영 중단)되기 시작했다.&lt;br&gt;&lt;br&gt;충북 지역 유일 상급종합병원인 충북대병원의 응급실은 지난 14일 하루 문을 닫았다. 피로가 쌓인 응급의학과 전문의 6명 중 2명이 병가·휴직으로 빠졌기 때문이다. 지역 최고 위상의 상급종합병원이자 규모가 가장 큰 권역응급의료센터가 가동 중단된 건 이때가 처음이었다. 보도가 나자 정부는 16일 군의관 2명을 보내 급한 불을 껐다.&lt;br&gt;&lt;br&gt;다른 지역도 비슷하다. 본지 취재 결과, 울산·포항 등 영남 동남부 지역 유일 상급종합병원이자 권역응급의료센터인 울산대병원의 응급실도 지난 18일부터 셧다운 될 위기에 몰렸었다.&lt;br&gt;&lt;br&gt;이 병원엔 5명의 응급의학과 전문의가 근무하고 있었다. 이 중 한 명이 이달 초 미국으로 1년 연수를 가자 남은 4명이 돌아가며 야간 당직을 할 수밖에 없는 상황이 됐다. 복지부는 최근 ‘18일부터 응급실 24시간 운영이 불가능하다’는 병원 측의 통보를 받았다. 이후 급히 다른 곳에서 근무 중인 응급의학과 전문의 1명 등 총 2명의 군의관을 빼서 이 병원에 보내 셧다운을 막았다.&lt;br&gt;&lt;br&gt;세브란스병원의 한 교수는 “응급실 진료 축소·중단은 보건복지부 발표처럼 특정 병원의 지엽적 문제가 아니라 전국 모든 종합병원의 문제”라고 했다.&lt;br&gt;&lt;br&gt;세종 지역의 유일한 종합병원인 세종충남대병원 응급실도 이달 들어 매주 하루씩 성인 응급 환자를 못 받고 있다. 이곳에선 최근 4명의 응급의학과 전문의가 사직했다. 게다가 다음 달엔 이 병원 응급실 전문의 3명이 추가로 사직할 예정으로 알려졌다. 병원 내에선 “응급실 24시간 운영이 어려워질 것”이란 말이 돈다.&lt;br&gt;&lt;br&gt;의료계 인사들은 “충청 지역의 상급종합병원인 B병원, 영남의 상급종합병원인 C병원 응급실도 곧 셧다운될 것”이라고 했다. 정부는 뾰족한 수를 내지 못하고 있다. 정부 관계자는 “군의관 중 응급의학과 전문의는 5명 정도여서 현재 급히 투입할 의사가 없다”고 했다. 사직·연수 등으로 응급실 의사 한 명이라도 빠지면 곧바로 응급실이 가동 중단될 상황이란 뜻이다.&lt;br&gt;&lt;br&gt;응급실 의사들은 “응급실이 ‘도미노 가동 중단’ 위기인데 정부는 느긋하다”고 입을 모았다. 현재 응급실 환자 중 44%는 비(非)중증 환자다. 이번 의료 파행 사태 이전의 ‘편의점 응급실’로 돌아왔다. 최근 코로나 재유행으로 환자가 몰리면서 경증 비율은 예년보다 더 높아지고 있다.&lt;br&gt;&lt;br&gt;경기도의 한 종합병원장은 “가뜩이나 지친 응급실 의사들이 감기·두드러기 환자들에게 시달리며 사직으로 내몰리고 있다”며 “정부는 이를 알면서도 경증 환자들의 반발이 두려워 ‘엄중하게 주시 중’ ‘응급실 이용비 인상 검토’ 같은 한가한 발표만 한다”고 했다. 수도권의 한 응급의학과 교수는 “응급실의 절박한 상황을 알리려고 전화를 해도 복지부 공무원들은 받지도 않는다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>반려견 위한 산책? 폭염땐 ‘개고생’</title>
