@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>광장, 탈북 대학생 사회적응 돕는 ‘광장 프렌즈’ 5기 출범</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/200809.jpg" alt="200809.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;21일 광장 프렌즈 5기 프렌즈 캠프 모습.&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.leeko.com/leenko/main.do?lang=KR" target="_blank"&gt;&lt;b&gt;법무법인 광장&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3235"&gt;김상곤&lt;/span&gt;)이 탈북 대학생들과 꾸준히 교류하며 우리 사회에 적응할 수 있도록 돕는 공익 활동을 시작했다.&lt;br /&gt;&lt;br /&gt;21일 법무법인 광장은 사회복지법인 함께하는재단 탈북민취업지원센터(센터장 최경일)와 함께 서울 중구 소공동 한진빌딩에서 '광장 프렌즈' 5기 캠프를 열었다. 이번 캠프에는 광장의 변호사 10명과 탈북 대학생 10명이 한 자리에 모여 저녁 식사를 하며 인사를 나누고, 간단한 보드게임을 하며 친목을 다졌다.&lt;br /&gt;&lt;br /&gt;2018년 시작해 5기를 맞는 광장 프렌즈는 변호사들과 탈북 대학생들이 각각 ‘프렌형’(Friend兄)과 ‘프렌제’(Friend弟)로 친구가 되어 편안하고 일상적인 만남을 통해 탈북 대학생들이 우리 사회의 건강한 구성원으로 적응할 수 있도록 돕는 공익 활동이다.&lt;br /&gt;&lt;br /&gt;이날 처음 만난 변호사들과 탈북 대학생들은 앞으로 다섯 달 동안 일대일로 교류할 예정이다. 이들은 정해진 주제 없이 만나 문화생활 등을 함께하는 ‘자유데이트’와 주제에 맞춰 사진을 찍는 ‘미션데이트’ 등을 진행한다.&lt;br /&gt;&lt;br /&gt;프렌즈 프로그램을 총괄한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="21736"&gt;권태안&lt;/span&gt;(39·사법연수원 42기) 광장 변호사는 "광장 프렌즈가 로펌의 대표적인 공익활동으로 자리매김하고 있다"며 "앞으로도 탈북 대학생들이 우리 사회에 성공적으로 정착하도록 도우면 좋겠다”고 밝혔다. &lt;br /&gt;&lt;br /&gt;광장은 지난 2011년부터 공익활동위원회 산하 북한이탈주민법률지원팀을 두고 북한이탈주민에 대한 공익 활동을 진행하고 있다. 광장 관계자는 "앞으로도 북한이탈주민을 포함한 소외 계층에게 법률 지원을 제공하기 위해 활발하게 공익 활동을 펼칠 계획"이라고 전했다.</description>
+			<pubDate>Fri, 23 Aug 2024 02:06:19 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/200809</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200809</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200809.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
+			<title>"성공적 외교"… 성 김 태평양 고문, 미국외교정책위 '조지 F. 케넌상' 수상</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/200808.jpg" alt="200808.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;성 김 전 주한 미국대사가 미국외교정책위원회(NCAFP)가 주관하는 ‘조지 F. 케넌상’(George F. Kennan Award for Distinguished Public Service) 수상자로 선정됐다. 그는 올해 1월부터 &lt;a href="https://www.bkl.co.kr/law?lang=ko" target="_blank"&gt;&lt;b&gt;법무법인 태평양&lt;/b&gt;&lt;/a&gt;(대표변호사 이준기)의 고문으로 합류해 글로벌미래전략센터를 이끌고 있다. 미국외교정책위원회는 미국 정부·학계·재계 전문가들이 참여하는 미국의 외교정책 싱크탱크다.&lt;br /&gt;&lt;br /&gt;조지 F. 케넌상은 미국의 전설적인 외교관인 조지 F. 케넌(George F. Kennan)의 업적을 기리기 위해 1994년 제정됐다. 미국 국익 향상에 중대한 공헌을 한 인사에게 매년 수여하고 있다. 제임스 울펜손 세계은행(WB) 총재, 폴 볼커 연방준비제도(Fed) 의장 등 세계적  명망가들이 수상했다. 이번엔 성 김 고문과 함께 로버트 루빈 전 재무장관과 존 피릭 포드햄대학교 로스쿨 교수가 수상자로 선정됐다. &lt;br /&gt;&lt;br /&gt;성 김 고문은 주한 미국대사에 이어 필리핀과 인도네시아 대사까지 지내며 한국계 출신 최초로 3개국 대사를 역임했다. 또 미국 국무부 한국과장, 미국 국무부 대북정책특별대표 및 6자회담 수석대표 등을 역임하며 국제 외교 무대에서 중요 역할을 수행했다. 미국외교정책위는 “성 김 대사는 한국 등 3개국에서 대사를 역임하는 등 탁월한 외교 커리어를 쌓아왔다”며 “성공적인 외교활동을 통해 미국 외교정책과 국익에 크게 기여한 공로를 기념하기 위해 이 상을 수여한다”고 밝혔다. 시상식은 오는 10월 24일(현지시간) 미국 뉴욕에서 열린다.&lt;br /&gt;&lt;br /&gt;</description>
+			<pubDate>Fri, 23 Aug 2024 02:05:08 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/200808</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200808</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200808.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
 			<title>공정위, '중도 해지 방해' OTT·음원 서비스 제재 착수</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/200805.jpg" alt="200805.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;소비자들의 구독 중도 해지를 방해한 혐의로 넷플릭스·웨이브·왓챠 등 온라인동영상서비스(OTT) 업체들과 스포티파이·벅스 등 음원 스트리밍 서비스 업체들이 제재를 받게 될 전망이다.&lt;p&gt;   &lt;br /&gt;22일 업계에 따르면 공정거래위원회(위원장 한기정)는 이들 업체가 전자상거래법을 위반했다는 의혹에 대해 심사보고서(검찰의 공소장 격)를 발송하며 본격적인 제재 절차에 들어갔다. 이번 사건은 국민적 관심사가 큰 사건에 대한 신속한 조사를 위해 신설된 '중점조사팀'의 첫 제재 사안이다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;구독 해지 방해로 소비자 권리 침해&lt;/b&gt;&lt;br /&gt;공정위는 해당 업체들이 구독·멤버십 서비스를 운영하면서 소비자들에게 중도 해지 기능을 제공하지 않거나 해지 방법을 명확하게 알리지 않아 소비자 권리를 침해했다고 보고 이번 조치에 착수했다. 지난 3월부터 해당 업체들에 대해 현장 조사를 진행해 왔다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;제재 수위와 과징금 결정 예정&lt;/b&gt;&lt;br /&gt;공정위는 해당 업체들의 매출액에 따라 부과율을 적용해 1억 원대에서 수십억 원대에 이르는 과징금을 부과할 것으로 예상된다. 올해 1월에도 공정위는 디지털 음원 서비스에서 중도 해지 가능성을 충분히 알리지 않아 전자상거래법을 위반한 카카오에 대해 9800만 원의 과징금을 부과했다. 네이버·쿠팡·마켓컬리도 비슷한 의혹으로 공정위 조사를 받고 있지만, 아직 심사보고서 발송까지는 이르지 못한 것으로 알려졌다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;공정위 관계자는 "구체적인 사건의 조사 내용에 대해서는 언급할 수 없지만 심의를 통해 위법 여부를 가릴 것"이라고 말했다.&lt;/p&gt;</description>
 			<pubDate>Fri, 23 Aug 2024 01:26:04 -0000</pubDate>
@@ -219,25 +239,6 @@
 			<link>https://www.lawtimes.co.kr/news/200749</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200749</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200749.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>디엘지-에듀테크산업협회, '에듀테크 법률 세미나' 29일 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/200748.jpg" alt="200748.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://dlglaw.co.kr/" target="_blank"&gt;&lt;b&gt;법무법인 디엘지&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5968"&gt;조원희&lt;/span&gt;)와 한국에듀테크산업협회(회장 이길호)가 오는 29일 서울 강남구 대치동 엑스퍼트아카데미 강남러닝센터 2층에서 ‘에듀테크 법률 세미나’를 공동 개최한다고 21일 밝혔다.&lt;br /&gt;&lt;br /&gt;디엘지는 지난해 한국에듀테크산업협회와 업무협약을 맺고 에듀테크협회 및 회원사에게 에듀테크 산업 글로벌 진출 강화를 위한 법률 교육과 자문 서비스를 지원해오고 있다. 이번 세미나는 국내 에듀테크 기업의 해외시장 진출 계약, 개인정보, 영업기밀 보호 등의 법무 이슈를 해소하기 위해 기획됐다.&lt;br /&gt;&lt;br /&gt;먼저 강한성 디엘지 외국변호사가 '해외시장 개척을 위한 영문 계약 101'을 발표한다. 이어&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="31311"&gt;황혜진&lt;/span&gt;(38·변호사시험 2회) 변호사가 에듀테크 기업들이 주의해야 할 법무이슈를,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="19383"&gt;민승현&lt;/span&gt;(50·사법연수원 40기) 변호사가 에듀테크 기업들의 영업기밀과 특허권 보호 및 분쟁 대응에 관해 설명할 예정이다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5968"&gt;조원희&lt;/span&gt;(54·30기) 대표변호사는 “이번 세미나는 글로벌 진출을 희망하는 에듀테크 기업들에게 유익한 정보를 제공할 것"이라며 "앞으로도 국내 에듀테크 기업들의 글로벌 진출을 돕고 에듀테크 생태계 발전을 위해 노력하겠다"고 밝혔다.</description>
-			<pubDate>Wed, 21 Aug 2024 07:24:39 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/200748</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200748</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200748.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>지평법정책연구소 '우수 입법·정책' 공모전 결과 발표… 최우수상에 성균관대</title>
-			<description>지평법정책연구소(이사장 이공현)가 20일 로스쿨 재학생 등을 대상으로 7월 진행한 ‘2024년 우수 입법·정책 아이디어 공모전’에서 성균관대 로스쿨 팀이 최우수상을 받았다.&lt;br /&gt;&lt;br /&gt;지평법정책연구소는 법정책 연구 주제와 이슈를 발굴하고, 행정제도에 참고자료를 제공하기 위해 7월 한달 동안 ‘이민정책 및 이민 관련 법제도’를 주제로 공모전을 진행했다. 심사위원을 맡은 법무법인 지평의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="25560"&gt;김진권&lt;/span&gt;(60·변호사시험 2회)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="24845"&gt;신용우&lt;/span&gt;(49·1회)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="24135"&gt;민창욱&lt;/span&gt;(40·1회) 변호사, 지평법정책연구소 이춘희 선임연구위원, 김현미 연세대 문화인류학과 교수는 △창의성 △실시 가능성 △효율성(효과성) △적용 범위 △계속성을 기준으로 총 10개 팀을 평가했다.&lt;br /&gt;&lt;br /&gt;최우수상에는 ‘E-9 근로자의 숙련기능인력(E-7-4) 전환과정에서의 숙련도 및 사회통합 제고 방안’을 주제로 제안한 성균관대학교 로스쿨의 한혁진, 강예송, 김재성 학생팀이 선정됐다.&lt;br /&gt;&lt;br /&gt;우수상은 ‘K-블루카드를 활용한 숙련기능인력의 정주 지원 및 통합 행정관리체계 구축’을 주제로 제안한 고려대와 이화여대 로스쿨의 김해정, 신정하, 전수정 학생팀과 ‘한국형 광역비자(K-R-VISA)의 도입’을 주제로 제안한 이화여대 로스쿨 김명선, 이정원, 정지원 학생팀에게 돌아갔다.&lt;br /&gt;&lt;br /&gt;시상식은 다음달 26일 '이민 정책과 법질서' 정기 세미나에서 진행된다.&lt;br /&gt;&lt;br /&gt;김진권 변호사는 "필요한 시점에 참신한 아이디어로 이민 관련 법제도 개선 과제와 방안을 함께 고민할 수 있는 계기가 됐다"며 "아이디어가 제도화할 수 있도록 관련 기관과 정부부처에 제안하는 활용 계획을 내부에서 논의하고 있다"고 밝혔다.</description>
-			<pubDate>Wed, 21 Aug 2024 07:02:51 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/200744</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200744</guid>
 			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
