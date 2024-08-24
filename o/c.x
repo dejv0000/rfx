@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘곧 아빠되는데…’ ‘삼시세끼’ 이주형PD, 퇴근길 교통사고로 사망</title>
+      <link>https://www.chosun.com/national/people/2024/08/25/PQURQOUCOFFL3AKCHEXYIXT2II/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/25/PQURQOUCOFFL3AKCHEXYIXT2II/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 24 Aug 2024 21:31:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RUZ6ELE5CKQ4XHBDZCK6QRA2C4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;故 이주형 PD. /이주형 PD 블로그&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인기 예능 ‘삼시세끼 고창 편’ ‘신서유기’ 등의 연출에 참여한 이주형 PD(35)가 퇴근길 교통사고로 사망했다.&lt;br&gt;&lt;br&gt;25일 방송가에 따르면 이주형 PD는 지난 22일 자정을 막 넘긴 0시 26분쯤 서울 마포구 상암동 인근에서 야근을 마치고 퇴근하는 길에 발생한 교통사고로 숨졌다.&lt;br&gt;&lt;br&gt;당시 이 PD가 탑승한 택시가 주차된 관광버스에 이어 주행 중이던 경차와 잇따라 충돌했고 이 PD는 현장에서 사망했다. 이 PD는 올해 12월 첫 아이 출산을 앞두고 있었다는 사실이 알려져 안타까움을 더했다.&lt;br&gt;&lt;br&gt;나영석, 신효정 PD 등 ‘신서유기’ PD 7명 일동은 “이주형 PD는 맡은 일에 누구보다 큰 책임감을 가지고, 항상 마지막까지 최선을 다해 달리던 성실한 후배였다”며 “항상 가장 먼저 불이 켜지던, 늘 프로그램에 필요한 것들을 세심하게 체크하고 정돈해 두었던, 그의 자리를 기억하겠다. 이주형 PD와 함께 신서유기를 할 수 있어서 기뻤다”고 고인을 애도했다.&lt;br&gt;&lt;br&gt;이주형 PD는 2016년 CJ ENM에 입사해 ‘삼시세끼 고창 편’ ‘신서유기’ 시즌 2·3, ‘대탈출4′ ‘코리안 몬스터’ ‘어쩌다 어른’ ‘코미디빅리그’ 등의 제작에 참여했다.&lt;br&gt;&lt;br&gt;지난해 7월에는 쿠팡플레이가 인수한 영상제작사 보더리스필름으로 이직해 디즈니+ 스포츠 다큐멘터리 ‘풀카운트’ 제작에 참여했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>한강 보며 왕복 9.8㎞...전국에서 찾아오는 맨발 성지 6곳은</title>
       <link>https://www.chosun.com/national/2024/08/25/FJMFD3DCXVESPKTQFPWDA6RFRU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/08/25/FJMFD3DCXVESPKTQFPWDA6RFRU/</guid>
@@ -940,15 +949,6 @@
       <description/>
       <pubDate>Fri, 23 Aug 2024 08:34:14 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJACOCQWWU5QCEDLXLXU6WACM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취한 채 일면식 없는 행인과 대형마트 직원을 폭행한 30대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 금천경찰서는 지난 22일 30대 남성 A씨를 폭행 혐의로 현행범 체포했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 22일 오후 9시쯤 서울 금천구 독산동 소재 한 대형마트에서 술을 사고 나오다가 카트로 마트 직원을 친 혐의를 받는다. 이후 무단횡단을 시도하던 A씨는 욕설과 함께 “내 갈 길을 막지 말라”고 말하며 주변을 지나던 여성의 어깨 등을 몸으로 밀치기도 했다.&lt;br&gt;&lt;br&gt;A씨는 마트 측 신고를 받고 출동한 경찰에 의해 현행범 체포됐다. 당시 A씨는 만취 상태로 조사됐다. A씨는 경찰 조사에서 “그냥 지나가다가 부딪힌 것”이라고 진술했다고 한다.&lt;br&gt;&lt;br&gt;경찰은 A씨 등을 상대로 정확한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전처 애인 살해 시도한 40대, 2심도 징역 15년</title>
-      <link>https://www.chosun.com/national/regional/2024/08/23/PVZ6ZCT6QJBV3DXISIWOV6UZX4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/23/PVZ6ZCT6QJBV3DXISIWOV6UZX4/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 23 Aug 2024 08:36:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOIPX7HDNFCOHOGTNKRO6EMBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전처의 애인을 흉기로 살해하려다 미수에 그친 40대에게 항소심에서도 중형이 선고됐다.&lt;br&gt;&lt;br&gt;대전고법 형사1부(재판장 박진환)는 23일 살인미수 등의 혐의 사건 항소심 선고공판에서 A씨에게 원심 선고와 같은 징역 15년을 유지했다.&lt;br&gt;&lt;br&gt;검사와 A씨 측이 모두 징역 15년을 선고한 1심 판결에 불복해 항소했지만, 2심 재판부는 항소를 모두 기각했다.&lt;br&gt;&lt;br&gt;2심 재판부는 “피고인이 항소심에서 1000만원을 형사공탁했지만 피해 복구에 충분하지 않고, 피해자로부터 용서를 받지도 못했다”며 “원심의 형이 합리적인 범위를 벗어나지 않은 것으로 보인다”고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2월 7일 오전 7시 44분쯤 대전 대덕구 한 아파트 엘리베이터 앞에서 3년 전 이혼한 전처의 연인 B씨에게 흉기를 휘둘러 전치 7주의 상해를 입힌 혐의로 기소됐다. 그는 B씨가 자신의 가정을 파탄 낸 주범이라고 여겨 주거지에 침입해 살해하려 했으나 미수에 그쳐 현행범으로 체포됐다.&lt;br&gt;&lt;br&gt;A씨는 “경제적으로 어려운데다 전처까지 관심을 보이지 않아 처지를 비관하다가 극단적 생각에 사로잡혀 범행하게 된 점을 고려해 달라”고 요청했지만, 재판부는 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>7층서 에어매트로 떨어졌는데 왜 숨졌나... 전문가들 의견 들어보니</title>
