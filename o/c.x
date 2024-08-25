@@ -13,6 +13,100 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>건보 가입자 중 241만명, 작년 병의원 한 번도 안 가</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/08/25/UPEWWREWLFB23OFB4KGPSLVT4Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/25/UPEWWREWLFB23OFB4KGPSLVT4Q/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 25 Aug 2024 07:23:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EIUMS3SVBBKHZME5DTP4YM76S4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;25일 서울 중구 국립중앙의료원에서 한 환자가 걸어가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 병의원 등 의료 기관을 한 차례도 이용하지 않은 건강보험 가입자가 241만명에 달하는 것으로 나타났다.&lt;br&gt;&lt;br&gt;25일 보건복지부가 국회 보건복지위원회 김미애(국민의힘) 의원에게 제출한 자료에 따르면, 건보 가입자임에도 지난해 병의원에서 외래·입원 진료 등을 한 번도 받은 적이 없는 ‘의료 미이용자’는 241만2294명으로 집계됐다. 지난해 의료 미이용자는 2022년(224만8020명) 대비 7.3% 증가한 것이다.&lt;br&gt;&lt;br&gt;의료 미이용자는 코로나 이전까지만 해도 연간 375만5314명(2021년 기준)에 달했다. 2018년 291만2546명, 2019년 296만255명, 2020년 373만1877명으로 계속 늘어나는 추세였다. 코로나 사태를 계기로 의료 이용이 급증하면서 2022년에 의료 미이용자가 전년 대비 150만명 이상 줄었다. 그러다가 다시 지난해 의료 미이용자가 늘어난 것이다.&lt;br&gt;&lt;br&gt;김 의원은 “의료 과다 이용이 건보 재정을 악화하는 원인으로 지목되는 가운데 의료 미이용자와 ‘의료 쇼핑’하는 사람들과의 형평성 문제가 제기될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;한편 코로나 사태를 전후해 건강보험을 적용해 외래·입원 진료를 받은 사람은 2021년 4765만6823명에서 지난해 4904만761명으로 2년 새 2.9% 증가했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘50살’ 여의도 대교아파트, 최고 49층으로 재건축한다</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/25/QWZ4OU64EVF3JLUOGFDVJITE54/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/25/QWZ4OU64EVF3JLUOGFDVJITE54/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 25 Aug 2024 08:13:02 +0000</pubDate>
+      <content:encoded>지어진 지 약 50년 된 서울 영등포구 여의도 대교아파트가 최고 49층, 912가구가 사는 아파트 단지로 탈바꿈한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AXB6JVHUPVCEIMMQ7HHIB4QHL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여의도 대교아파트 전경. /여의도 대교아파트 재건축 정비사업 조합&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 지난 23일 제8차 도시계획위원회에서 이 같은 내용을 담은 ‘여의도 대교아파트 재건축 정비계획’ 등을 수정 가결했다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;이번 정비계획 결정에 따라 여의도 대교아파트는 공공주택 144가구를 포함해 912가구가 살 수 있는 아파트 단지가 된다. 용도지역도 제3종일반주거지역에서 준주거지역으로 바뀌어, 용적률은 최대 469%가 된다.&lt;br&gt;&lt;br&gt;공공기여시설로는 데이케어센터 등 재가노인복지시설을 만들기로 했다. 이외에도 공공 체육시설과 단지 가운데를 관통하는 공공 보행 통로를 조성한다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “내년으로 예상되는 한국의 초고령사회 진입에 대응하기 위해 재가노인복지시설을 만들기로 영등포구, 조합과 협의했다”고 말했다.&lt;br&gt;&lt;br&gt;여의도 대교아파트는 지난 1975년 지어졌다. 작년 9월 서울시의 ‘신속통합기획 자문사업’으로 첫 자문 회의를 시작해 약 11개월 만에 정비계획 심의를 완료했다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “오는 9월 정비계획 고시 이후 본격적으로 사업이 추진될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 중앙보훈병원 전공의 110명 중 8명 남아...국가유공자들 “우린 어디로 가나”</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/25/JJVYR7B4ZVGPVEF7T4UZXU2ZWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/25/JJVYR7B4ZVGPVEF7T4UZXU2ZWA/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 25 Aug 2024 06:37:08 +0000</pubDate>
+      <content:encoded>서울 강동구 중앙보훈병원의 전공의가 8명만 남은 것으로 확인됐다. 중앙보훈병원의 주 환자는 만성질환에 시달리는 고령 국가유공자들이다. 전공의 부족으로 진료난을 겪고 있는 중앙보훈병원은 고령 국가유공자 일부를 민간 병원으로 위탁하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXSR46XBHVFARBYEISZUQM7ZAU.jfif"&gt;&lt;figcaption&gt;&lt;small&gt;중앙보훈병원. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·25전쟁 때인 1953년 2월 대구 제2구호병원으로 설립된 중앙보훈병원은 현재 병상수 1400개 규모(전국 8위), 31개 진료과를 운영하며 하루 평균 4500여명의 외래 환자가 내원하고 있다. 보훈부 산하 보훈공단이 운영하며, 환자의 80% 이상이 국가유공자 등 보훈대상자다.&lt;br&gt;&lt;br&gt;중앙보훈병원 관계자는 25일 “전공의 파업이 시작된 2월 중앙보훈병원 소속 전공의 110명 중 108명이 병원을 나갔다”며 “5월, 7월에 몇몇 전공의가 돌아와 그나마 8명이 된 것”이라고 밝혔다. 전공의 파업을 기점으로 의사들이 부족해지자 중앙보훈병원은 중증환자를 제외한 환자들을 민간위탁병원에 인계하고 있다.&lt;br&gt;&lt;br&gt;국가유공자 환자들을 민간병원에 위탁한 이후로 중앙보훈병원에는 매달 수십억 원 규모의 적자가 발생하고 있다. 공공의료기관으로 부대수입이 거의 없는 중앙보훈병원은 보훈부가 지원하는 국가유공자들의 진료·입원비로 병원 예산을 충당하고 있었다. 각 진료 건마다 보훈부가 지원금을 지급하기 때문에 전공의 파업 이후로 진료 건수를 최소화면서 지원금도 줄어들었다. 중앙보훈병원 관계자는 “아직 무급휴가를 검토해야 할 정도는 아니지만, 간호인력 등에 연차를 권장하고 있다”고 했다.&lt;br&gt;&lt;br&gt;경증 환자들을 일부 민간병원에 위탁했지만, 남은 환자들을 돌볼 인력도 부족하다. 새벽회진을 맡던 중앙보훈병원의 전공의들이 이탈하자 오전부터 밤까지 근무하는 전문의들이 새벽에도 근무를 하고 있다. 중앙보훈병원의 전문의 A씨는 “총선 즈음에는 전공의들이 돌아올 줄 알고 버텼는데, 어느새 올해가 세 달밖에 남지 않았다”며 “올해 안에 전공의들이 돌아올 것 같지 않아 막막하다”고 했다. 또 중앙보훈병원의 마취과는 전공의 비중이 컸기 때문에 이들이 이탈하자 수술 일정이 연기되기도 했다.&lt;br&gt;&lt;br&gt;한편 중앙보훈병원 측은 “남은 의료진은 국가유공자 환자 진료에 지장이 안 가도록 최대한 노력하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“다시 나와줘서 고맙다”...돌아온 개통령 ‘강형욱’에 응원 이어져</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/25/YOVVON5V4JFTVEPPTVGTNCB4QE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/25/YOVVON5V4JFTVEPPTVGTNCB4QE/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 25 Aug 2024 07:13:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SZOQVOJE7JHILCQBHPF32SQRM4.png"&gt;&lt;figcaption&gt;&lt;small&gt;반려견 훈련사 강형욱./유튜브 '강형욱의 보듬TV'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;직장 내 갑질 의혹으로 활동을 전면 중단했던 반려견 훈련사 강형욱이 최근 잇따라 유튜브 영상을 올리고 있는 가운데 팬들의 응원이 이어지고 있다.&lt;br&gt;&lt;br&gt;강형욱은 지난 24일 자신의 유튜브 채널 ‘강형욱의 보듬TV’에 ‘웨스트 하이랜드 화이트 테리어’ 견종을 자세히 소개하는 10분 46초짜리 영상을 올렸다. 그는 지난 17일에는 한 믹스견과 함께 출연한 강아지 교육법에 대한 영상을, 지난 13일에는 새 가족을 기다리고 있는 유기견을 교육하는 내용의 영상을 올렸다.&lt;br&gt;&lt;br&gt;일부 네티즌들은 영상 곳곳에서 강형욱을 응원하는 댓글을 남겼다. “훈련사님 표정이 조금씩 밝아지시는 것 같아 다행이다. 더 행복한 생활하시길 바란다” “다시 나와주셔서 감사하다. 기죽지 마시고 옛날 카리스마를 보여달라” “(훈련사님) 방송에서도 다시 보면 좋을 것 같다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;앞서 강형욱이 운영했던 보듬 컴퍼니 전 직원 2명은 지난 6월 11일 강형욱 부부를 정보통신망법 위반 혐의로 고소했다. 이들은 부부가 직원들의 사내 메신저 내용을 무단 열람하고 다른 직원들에게 그 내용을 누설했다고 주장했다. 보듬컴퍼니는 지난 6월 30일 자로 반려견 교육 서비스를 종료했다.&lt;br&gt;&lt;br&gt;이에 강형욱은 지난 6월 26일 인스타그램을 통해 “최근 경찰서에 나와 아내에 관한 고소장이 접수되었다는 소식을 들었다. 성실히 조사에 임해 진실을 밝히겠다”면서도 “다만 사실 확인이 되지 않은 내용으로 나와 가족에게 불필요한 오해를 일으키거나, 근거 없는 허위사실을 유포하고 비방한 분들, 허위로 고소한 분들은 법적대응을 포함한 단호한 조치를 취할 것”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 강형욱은 “지난 한 달여간 많은 일을 겪으며 제 삶을 깊이 돌아보는 시간을 가졌다”며 “회사 대표로서의 삶은 접고, 제 본업인 훈련사로서의 삶에 전념하고자 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UU2OIZKKQVG7PFPIJXW4UQZ5XU.png?width=298&amp;height=224&amp;auth=641f00976ab23ed5eecdc6687e233dae470208756ec6222edfc91e59cdd4dba2&amp;smart=true" type="image/png" height="224" width="298">
+        <media:description type="plain">반려견 훈련사 강형욱./유튜브 '강형욱의 보듬TV'</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>여주서 ‘철인3종’ 참가 30대 남성, 수영 중 사망</title>
+      <link>https://www.chosun.com/national/incident/2024/08/25/OMD7MW7KS5G7LIHKANWAU252D4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/25/OMD7MW7KS5G7LIHKANWAU252D4/</guid>
+      <dc:creator>여주=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 25 Aug 2024 07:54:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6UEI372QV5KCBDXUCLN7WVJW24.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 5월 21일 경남 양산시 황산공원 낙동강에서 1.5km의 수영코스에서 경기를 펼치는 철인 3종 경기 선수들. 이 기사와 관계 없음. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 경기 여주서 열린 철인3종 경기 대회 중 30대 참가자가 수영 중 사망하는 사고가 났다.&lt;br&gt;&lt;br&gt;경찰 및 소방당국에 따르면 이날 여주 대신면 당남리섬 일원에서 진행된 ‘제8회 경기도지사배 전국 철인3종 그레이트맨 하프 대회’에 참가한 A(37)씨가 이날 오전 6시 50분 시작하는 수영 종목에 나섰다가 한시간 만인 오전 7시 50분쯤 실종됐다.&lt;br&gt;&lt;br&gt;당시 경기 중 심판위원이 소방당국에 “수영종목 출발지점 500m지점에서 선수 1명이 실종됐다”고 신고했고, 현장에 출동한 소방 구조대는 수중 수색을 이어가다 약 2시간여 만인 10시 26분쯤 당남리섬 인근 남한간에서 심정지 상태인 A씨를 발견했다. A씨는 병원으로 옮겨졌으나 끝내 숨졌다.&lt;br&gt;&lt;br&gt;이날 수영 경기는 이포보오토캠핑장 인근 포인트에서 출발해 당남리섬까지 2㎞를 이동하는 코스로 진행됐으며, 사고 직후 경기는 취소된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A 씨의 자세한 사망 경위 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;한편, 경기도철인3종협회가 주최·주관한 이번 대회는 경기도지사배로 열렸다. 경기도는 지난 6월 2일 전북 군산에서 열린 ‘2024 군산 새만금 국제 철인3종 경기대회’에서 60대 참가자가 수영 경기 중 사망하는 사고가 발생하자 이번 경기를 취소하자는 의견을 냈다. 하지만 주최 측은 안전요원 등을 늘려 사고를 미연에 방지하겠다며 대회를 정상 개최한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법 "주식 받으려면 실물주권 인도 아닌 전자등록 소송 내야"</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/25/YC426AZJFZBK3BTAMA4TX4TEVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/25/YC426AZJFZBK3BTAMA4TX4TEVM/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 25 Aug 2024 07:42:53 +0000</pubDate>
+      <content:encoded>2019년 9월 전자증권법 시행 이후 주식을 넘겨달라는 소송에선 주권 인도가 아닌 전자등록을 통한 인도를 청구해야 한다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6QMU3SGG6V6S6RDM7ZBTCGPIYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원의 모습. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 법조계에 따르면 대법원 1부(주심 노태악 대법관)는 A씨가 B사를 상대로 낸 주권 인도 등 청구 소송에서 지난달 25일 원심의 원고승소 판결을 깨고 사건을 서울고법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;A씨는 의료용 생체 재료를 개발하는 벤처기업 B사의 감사로 2012년 3월 취임해 재직하면서 신주를 정해진 가격에 사들일 수 있는 주식매수선택권을 받았다.&lt;br&gt;&lt;br&gt;B사는 코스닥 상장에 앞서 2014년 12월 임시주주총회에서 A씨에게 주식매수선택권을 부여하기로 결의했다. 이들은 2016년 12월까지 본인 의사로 퇴직하는 경우 주식매수선택권 부여를 취소할 수 있다고 정했다.&lt;br&gt;&lt;br&gt;A씨는 2018년 3월 B사에 주식매수선택권을 행사하겠다고 구두로 문의했으나, B사는 “행사 요건이 충족되기 전에 퇴임, 퇴직 시에는 주식매수선택권 부여를 취소하는 별도의 이사회결의가 없어도 자연취소되므로 주식매수선택권을 행사할 수 없다”는 취지의 답변을 메일로 보냈다. &lt;br&gt;&lt;br&gt;A씨는 2015년 3월 정기주총에서 자신이 감사로 재선임돼 2년 이상 재임했다고 주장했으나, B사는 2015년 7월 C씨를 감사로 선임하면서 A씨의 주식매수선택권 부여의 결의일인 2014년 12월로부터 2년 이상 회사에 재임하지 않았기 때문에 주식매수선택권의 행사요건을 갖추지 못했다고 반박했다.&lt;br&gt;&lt;br&gt;1, 2심은 A씨의 주장을 받아들여 B사가 약속된 만큼의 주권을 발행해 인도하라고 판결했다.&lt;br&gt;&lt;br&gt;대법원도 A씨의 주식매수선택권을 인정한 건 문제가 없다고 봤다. 다만 주권을 인도하도록 명령한 부분에 문제가 있다며 직권으로 판결을 파기했다. A씨가 주식매수선택권 행사를 위해선 B사에게 주권 인도가 아닌 전자증권 양도를 위한 ‘계좌간 대체의 전자등록절차’ 이행에 관한 소를 제기해야 한다는 취지다.&lt;br&gt;&lt;br&gt;대법원은 “전자증권법 시행 이후 상장주식에 대해서는 유효한 주권이 발행되거나 존재할 수 없으므로 주권의 발행 및 인도를 청구할 수 없다”고 지적했다. 과거 상장주식은 실물 주권 형태로 발행됐으나 2019년 9월 전자증권법(주식·사채 등의 전자등록에 관한 법률)이 시행되면서 바뀌었다. 전자증권법은 모든 상장주식을 전자등록주식으로 전환하고 실물 주권의 효력을 상실시키며 새롭게 발행하는 것도 금지한다.&lt;br&gt;&lt;br&gt;따라서 B사가 신주를 발행해 A씨에게 주는 것이 맞는다고 하더라도 법원이 ‘실물 주권을 발행해 인도하라’고 명령할 수 없다는 것이다.&lt;br&gt;&lt;br&gt;대법원은 A씨가 주식매수선택권을 행사하더라도 B사에 주권 발행과 인도를 구할 수는 없다며 “피고가 주식을 새로 발행할 경우 주식에 대한 신규 전자등록을 신청해야 한다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>뭘 찾으려고? 안동시 직원들, 2t 쓰레기 1시간 뒤진 사연</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/25/QF3VCXN545GHXE3PUYQJRNH6SQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/25/QF3VCXN545GHXE3PUYQJRNH6SQ/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 25 Aug 2024 06:21:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FXLLVQASR32DVXOKS5WHELNBPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 23일 시민이 실수로 잃어버린 돈을 찾아주기 위해 김주완 주무관, 조석재 환경공무관, 클린시티 기간제 근로자들이 쓰레기 더미를 뒤지고 있다./안동시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시민이 실수로 버린 200만원 상당의 여행 경비를 시청 직원들이 쓰레기를 뒤져 찾아냈다.&lt;br&gt;&lt;br&gt;지난 23일 안동시청 자원순환과에 한 통의 전화가 걸려왔다. 안동시에 거주하는 시민 A씨가 “해외 여행을 앞두고 여행 경비로 환전한 미화(美貨)를 실수로 종량제 봉투에 버렸다”며 “청소차가 수거해갔는데 혹시 찾아줄 수 있겠느냐”고 했다.&lt;br&gt;&lt;br&gt;전화를 받은 자원순환과 김주완 주무관은 A씨 거주 지역 청소업체에 연락 후, 조석재 환경공무관과 기간제 근로자 10명과 함께 업체 주차장에서 청소차량을 기다렸다.&lt;br&gt;&lt;br&gt;이들 12명은 차량에 실린 2t 분량의 쓰레기 더미를 뒤진 끝에 1시간 만에 1500달러(200만원 상당)가 들어 있는 여행 경비 봉투를 찾아냈다. A씨는 현장에서 이 돈을 돌려받으며 “여행을 포기할 뻔했는데 정말 감사하다”고 인사했다.&lt;br&gt;&lt;br&gt;김 주무관은 “돈을 찾아내 다행”이라며 “누구나 같은 상황이면 당연히 쓰레기를 뒤져 돈을 찾아내 돌려드렸을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국립중앙의료원, 10%가 자살 기도 환자...“의료 공백에도 마음 아픈 이들 위로”</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/25/B3LAAPB4KZBN3MY2YNDPBNGHU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/25/B3LAAPB4KZBN3MY2YNDPBNGHU4/</guid>
+      <dc:creator>김보경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 25 Aug 2024 05:36:00 +0000</pubDate>
+      <content:encoded>국립중앙의료원 권역외상센터는 서울 유일 권역외상센터다. 지난 1년 동안 공사장에서 다친 노동자들, 극단적 선택을 시도한 경상 환자들이 끊임없이 이송돼 왔다. 2018년 8명 규모의 작은 ‘외상팀’을 마련했던 국립중앙의료원에는 지금 100명이 넘는 권역외상센터 전담 의료진이 일하고 있다. 지난달 21일, 서울 중구에 있는 국립중앙의료원(NMC) 권역외상센터가 개소 1주년을 맞았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XVJ5B6XHCBANHAN67GDCQDQLLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국립중앙의료원 외상센터 의료진들이 환자를 이송하고 있는 모습. /국립중앙의료원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 6일 자정, 본지 기자는 김영환 외상센터장 안내로 권역외상센터 중환자실 오후 회진에 참여했다. 이날 중환자실에는 당일 아침 교통 사고로 들어온 환자부터 의식을 잃고 50일 이상 입원해있는 환자까지 포함해 20개 병상 중 14개가 차있었다. 외부 공연장 작업 중 높은 곳에서 떨어져 입원한 50대 가장에겐 태어난 지 한 달이 채 안 된 둘째 아이가 있었다. 김 센터장은 “오후 회진에선 환자들의 바이탈 사인(vital sign·활력 징후), 투약량을 포함해 착란으로 수면을 방해 받는 환자들의 상태 등 환자 상황을 종합적으로 살핀다”면서 “중환자실은 뇌사 환자의 장기 기증 여부 등, 삶과 죽음에 관한 논의가 수도 없이 이뤄지는 공간”이라고 했다.&lt;br&gt;&lt;br&gt;국립중앙의료원 권역외상센터에는 유독 자살 기도 환자가 많다고 한다. 외상센터에 따르면 작년 입원한 총 환자의 약 10%가 자살 기도 환자다. 자살 기도나 자해를 한 환자는 지속적인 관리를 통해 더 큰 사고를 방지해야 하므로, 경상이어도 권역외상센터로 이송된다. 이곳에서 치료를 받고 있는 한 20대는 질환을 앓고 있는데, 같은 건물에서 3번이나 뛰어내렸다. 한 10대 환자는 학업 스트레스로 아파트에서 뛰어내렸다.&lt;br&gt;&lt;br&gt;김미나 외과전문의는 “환자 가족 중 일부는 병원비를 내기 어렵다며 재활치료 준비 전 단계인 ‘급성기 치료’를 거부하기도 한다”면서 “이런 현실적인 문제 앞에선 치료 전 보호자의 동의를 얻기 위해 설득하는 과정도 쉽지 않다”고 했다. 이런 일이 잦게 일어나자 국립중앙의료원 권역외상센터에서는 지난 4월 취약 계층 환자를 위한 사회복지사를 특별히 고용하기도 했다. 병원비 등 지원을 받을 수 있는 사회 복지 제도를 안내하고 환자 가족 마음의 안정을 돕는 등 심적·물적으로 지원한다고 한다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JWFQJTK545C3HCLO3K75FOKID4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국립중앙의료원 외상센터로 소방구급차량이 환자를 이송하고 있는 모습. /국립중앙의료원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국립중앙의료원는 국내 17개 권역외상센터 중 유일하게 ‘준중환자실’을 마련했다. 김영환 외상센터장은 “단순히 외상을 치료하는 것 이상으로, 마음 아픈 이들을 위한 안전망을 구축하는 셈”이라고 했다. 준중환자실 10개 병상으로 옮겨진 환자들은 상주하는 의료진에게 관리·감독을 받는다.&lt;br&gt;&lt;br&gt;외상센터 의료진들은 마음이 아픈 환자들과 대화하며 그들을 치료하기 위해 정신과 전문의로부터 지도도 받는다고 한다. 마음의 상처를 어떤 관점으로 바라봐야 하며, 아픈 원인이나 치료 상황을 어떻게 말하면 좋을지 주로 논의한다. 정진호 외상전문의는 “자살 환자는 연령을 따지지 않고 많이 발생하고, 마음의 벽을 견고하게 쌓아둔 환자와 그 보호자들 볼 때마다 마음이 너무 아프다”면서 “의료진들끼리 ‘서울은 슬픈 도시’라고 말하곤 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2HQ5TMSR7FGOPE6LTORL7C3D7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국립중앙의료원 외상센터 의료진들이 환자를 이송하고 있는 모습. /국립중앙의료원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;권역외상센터의 목표는 ‘예방가능 외상사망률’을 낮추는 것이다. 예방가능 외상사망률이란 외상으로 사망한 환자 중 ‘골든 타임’ 안에 병원으로 이송되어 치료를 받았다면 생존할 수 있었을 것으로 추정되는 사망자 비율을 뜻한다. 보건복지부 자료에 따르면 가장 최근에 조사된 전국 예방가능 외상사망률은 2021년 13.9%(2015년 30.5%), 서울지역에 한해서는 대략 12%(2015년 30.8%)로, 낮아지는 추세다. 보건복지부에서는 외상환자를 담당하는 권역외상센터가 확대된 것을 주요한 개선 원인으로 보고 있다.&lt;br&gt;&lt;br&gt;의료진들은 각자 사정을 가진 외상 환자와 그 가족을 만날 때마다 심리적인 어려움을 느끼지만 차마 현장을 떠날 수 없다고 입을 모았다. 외상을 전담하는 의사 수가 현저히 적기 때문이다. 외상환자는 갑자기 발생하고, 핼러윈 참사처럼 다수의 환자가 발생하기도 하므로 의료진들은 권역외상센터에 교대로 상주해야 한다. 일과 삶의 균형이 흔들리고 업무 강도가 높다 보니 전공의들에게 외상전문의는 비선호 분야이기도 하다.&lt;br&gt;&lt;br&gt;그럼에도 이들은 직접 환자를 보고 치료하는 현장에서 만들어진 책임감과 보람을 동력으로 꼽았다. 외상센터의 김영웅 심장혈관흉부외과전문의는 “외상환자를 전담하는 인력은 권역외상센터에만 있으니, 서울 시내에서 가슴 부분을 다친 외상환자를 전담할 흉부외상전문의는 (본인) 한 명인 셈”이라면서 “오늘도 서울에선 누군가 다칠텐데, 그 사람의 가슴을 치료할 사람이 있어야 한다는 생각에 외상센터를 지킨다”고 했다.&lt;br&gt;&lt;br&gt;국립중앙의료원은 4~5년 후쯤 바로 옆인 서울 중구 미군 공병단 부지로 이전할 예정이다. 김영환 외상센터장은 “부지 이전 후 권역외상센터는 감염병·화상·외상을 유기적으로 다루는 ‘중앙재난병원’으로까지 발전시킬 계획”이라며 “코로나와 같은 질병 뿐 아니라 각종 질환에 감염 가능성이 높은 화상 등 외상 환자까지 체계적으로 관리하는 것을 목표로 두고 있다”고 했다. 또 “마음이 아픈 환자들을 위한 폐쇄병동 시설을 마련하고 정신의학과도 강화해 서울 권역의 심리적 보루를 구축할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>동의 없이 찍힌 CCTV에 아동학대 정황…2심 “증거능력 인정”</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/25/GEN5CEKEI5DH5DDA3AMEANRCWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/25/GEN5CEKEI5DH5DDA3AMEANRCWE/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 25 Aug 2024 06:10:46 +0000</pubDate>
+      <content:encoded>아동학대 혐의를 입증하기 위해 제출된 폐쇄회로(CC)TV 영상이 동의 없이 촬영됐어도 증거 능력을 인정할 수 있다는 법원 판단이 나왔다. 다만 제출된 영상의 재생 속도가 실제보다 빨라 원본과의 동일성을 인정할 수 없다며 무죄 선고 취지는 유지됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FTGPTVCXJGOPCYLMP3UYTQ3YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 법조계에 따르면 서울중앙지법 형사항소2-2부(재판장 강희석)는 아동복지법 위반(아동학대) 혐의로 기소된 산후도우미 50대 A씨와 60대 B씨에게 1심처럼 무죄를 선고했다.&lt;br&gt;&lt;br&gt;산모·신생아 건강관리 서비스업체 소속이었던 A씨는 2020년 11월 산모 C씨의 집에서 양반다리를 한 채 생후 10일 된 신생아의 머리를 왼쪽 허벅지에 올려둔 채 다리를 심하게 흔들어 학대한 혐의로 재판에 넘겨졌다. 아울러 A씨는 2020년 1월 B씨와 함께 또 다른 산모 D씨의 집에선 생후 60일 아기를 흔들어 학대한 혐의로도 재판을 받게 됐다.&lt;br&gt;&lt;br&gt;당초 1심은 학대한 정황이 담긴 모습을 촬영한 CCTV 영상이 촬영 목적과 영상의 보관 기간, 촬영을 거부할 수 있는 권리 등을 고지하지 않아 위법하게 수집된 증거라며 무죄를 선고했다.&lt;br&gt;&lt;br&gt;하지만 2심은 위법하게 수집됐다 하더라도 증거능력 자체는 인정할 수 있는 경우에 해당한다는 취지로 1심 판단을 뒤집었다. 피해자인 영아가 스스로 방어하거나 피해 사실을 부모에게 말할 능력이 없다는 점에서 일부 사생활이 침해되는 부분이 있더라도 증거로 사용할 수 있다고 본 것이다.&lt;br&gt;&lt;br&gt;2심 재판부는 “적법하게 수집된 증거는 아니라고 하더라도 진실발견이라는 공익과 개인의 인격적 이익 등 보호이익을 비교 형량해 볼 때 증거능력을 인정할 수 있는 경우에 해당한다”며 “가정 내에서 산후도우미 등에 의해 아동에 대한 신체적 학대행위가 이뤄지게 될 경우, 부모가 계속해 아동과 산후도우미 등의 곁을 지키며 아동의 상태나 산후도우미 등의 돌봄 행태 전부를 내내 지켜본다는 것은 현실적으로 불가능하다. 부모로선 이 같은 범행의 특성상 녹화를 하는 외에 학대 정황을 밝혀내고 피해 아동의 법익을 방어하기 위한 유효·적절한 수단을 강구하기 어려워 보인다”고 설명했다.&lt;br&gt;&lt;br&gt;다만 재판부는 이 사건에서 CCTV의 재생속도가 실제보다 빨랐다는 점을 볼 때, 아기를 흔들어 학대했다는 공소사실의 성격상 유죄를 입증하는 증거로 사용할 수는 없다며 1심과 같은 무죄 판단을 내렸다.&lt;br&gt;&lt;br&gt;2심 재판부는 “1.5∼2배 빠른 속도로 재생돼 원본 내용을 그대로 복사한 사본이라고 할 수 없다”며 “수사기관이 인위적으로 개작할 아무런 이유가 없다고 하더라도 피고인들이 증거로 사용하는 데 동의하지 않은 이상 유죄의 증거로 사용할 수 없다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>올 들어 벌 쏘임 사고 2815건…예년보다 40% 증가</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/25/YQBGBH65QRD5VNAKGN3A3ZZHMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/25/YQBGBH65QRD5VNAKGN3A3ZZHMA/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 25 Aug 2024 05:42:47 +0000</pubDate>
+      <content:encoded>무더위로 벌의 활동이 왕성해지면서, 올 들어 벌 쏘임 사고 건수도 예년보다 40% 증가한 것으로 나타났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ORBGFDUNRSC5YIVN7QMRYVNIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 대덕구 읍내동 농가에서 대덕소방서 소속 소방대원들이 말벌집을 제거하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 소방청에 따르면 올 1월부터 지난달까지 발생한 벌 쏘임 사고는 2815건이었다. 지난 2021년부터 작년까지 3년간 평균인 2011건보다 40%가량 늘었다. 올 들어 벌 쏘임으로 발생한 심정지 환자도 지난 18일까지 8명이었다.&lt;br&gt;&lt;br&gt;올해 벌 쏘임 사고가 발생한 장소를 보면 집이 1049건으로 가장 많았다. 바다·강·산·논밭이 697건으로 뒤를 이었다.&lt;br&gt;&lt;br&gt;소방청 관계자는 “벌 쏘임 사고의 80% 가까이가 7~9월에 발생한다”며 “오는 9월 추석 연휴를 앞두고 성묘객들의 주의가 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;소방청에 따르면 벌을 피하기 위해선 야외 활동을 할 때 흰색 계열의 옷과 챙이 넓은 모자를 착용해야 한다.&lt;br&gt;&lt;br&gt;벌에 쏘였다면 벌침을 제거한 뒤, 쏘인 부위를 소독하거나 깨끗한 물로 씻고 얼음주머니로 찜질하면 통증을 줄일 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“엄마, 내 몫까지 잘 살아야 해”...부천 호텔 화재 피해자 ‘눈물의 발인’</title>
       <link>https://www.chosun.com/national/national_general/2024/08/25/GXROKYNWTZFFDFS6QRLS2EJXFE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/25/GXROKYNWTZFFDFS6QRLS2EJXFE/</guid>
@@ -839,24 +933,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OI2GGA2QAEJZJJ44OUXEZIBK7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'전동스쿠터 음주운전' 혐의를 받고 있는 그룹 방탄소년단(BTS)의 멤버 슈가(본명 민윤기)가 23일 서울 용산경찰서에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전동 스쿠터 음주운전 혐의를 받는 그룹 방탄소년단(BTS)의 슈가(본명 민윤기·31)가 첫 경찰조사를 마치고 나와 “저의 잘못된 행동으로 많은 상처와 실망을 안겨드려 죄송하다”고 했다.&lt;br&gt;&lt;br&gt;민씨는 23일 오후 10시 53분쯤 서울 용산구 용산경찰서에서 3시간 가량 진행된 조사를 마치고 취재진에 고개를 숙인 뒤 “크게 반성하고 후회하고 있고 사랑해 주신 분들께 정말 죄송하다는 말씀 드리고 싶다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;용산경찰서 바깥에는 귀가하는 민씨를 보기 위해 팬들 15명 가량이 모여 휴대폰으로 연신 사진을 찍기도 했다.&lt;br&gt;&lt;br&gt;앞서 민씨는 이날 오후 7시 45분 변호인과 함께 경찰에 출석해 취재진에 “굉장히 죄송하다. 많은 팬분들과 많은 분들께 정말 큰 실망을 안겨드려 진심으로 반성하겠다”고 밝힌 바 있다. 검정색 정장 차림을 한 민씨는 수 초간 말을 잇지 못했다.&lt;br&gt;&lt;br&gt;군(軍) 대체복무 중인 민씨는 사회복무요원으로 근무하는 기관에 정상 출근한 뒤 퇴근한 이후 경찰 소환조사를 받았다. 민씨는 지난 6일 오후 11시 15분쯤 서울 용산구 한남동 자택 인근에서 술을 마시고 전동 스쿠터를 타다 경찰에 적발된 바 있다. 당시 민씨의 혈중알코올농도 수치는 면허취소 수치(0.08%)를 크게 상회하는 0.227%로 확인됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>쓰레기통으로 포르쉐 내리쳐 창문 와장창... 취객이 벌인 일</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/23/HSTLTFKFKVC6DKUSTM7JQLBEHQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/23/HSTLTFKFKVC6DKUSTM7JQLBEHQ/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 23 Aug 2024 10:50:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OINGUGDXMJGV7F5FR73JFGXP4Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;포르쉐 뒷창문에 음식물 쓰레기통이 박힌 모습. /JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천에서 한 남성이 음식물 쓰레기통으로 고급 외제 차량을 파손하고 도주하는 일이 벌어졌다. 경찰은 차주로부터 신고를 접수하고 남성을 추적 중이다.&lt;br&gt;&lt;br&gt;23일 인천 연수경찰서에 따르면, 지난달 26일 오전 0시 13분쯤 연수구 동춘동 식당 주차장에서 누군가 쓰레기통으로 포르쉐 차량 유리창을 파손하고 도주했다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;방범카메라 영상을 통해 한 남성이 식당 주차장 외부에 있던 음식물 쓰레기통으로 차량의 뒷창문을 내리치는 모습이 확인됐다고 한다. 이 남성은 포르쉐를 파손한 지 약 1시간 뒤 다시 와서 운전석 문을 여러 차례 열어본 것으로 알려졌다.&lt;br&gt;&lt;br&gt;신고를 받은 경찰은 방범카메라 영상 등을 토대로 재물손괴죄 혐의 등으로 용의자를 쫓고 있다. 경찰 관계자는 연합뉴스에 “방범카메라 영상이 어둡고 거리가 멀어서 용의자 신원을 특정하지 못했다”며 “현재 용의자는 술을 마신 40∼50대 남성으로 추정하고 있다”고 했다.&lt;br&gt;&lt;br&gt;이 사건은 포르쉐 차주 A씨가 직접 JTBC ‘사건반장’에 피해 사실을 제보하면서 널리 알려졌다. 차주는 “혹시나 방송되면 범인 검거에 단서라도 잡을 수 있을까 해서 제보한다”고 했다.&lt;br&gt;&lt;br&gt;A씨에 따르면, 사건은 그가 식당에서 지인들과 밥을 먹던 중 일어났다. 일행이 부른 대리기사가 주차장에 도착하자, 남성은 황급히 택시를 타고 도주했다고 한다. A씨는 “임시로 뒷창문에 비닐을 부착한 채 운전하고 있다”며 “범인을 잡은 뒤 정비소를 정하고 수리비를 청구할 생각”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>17일 만에 경찰 출석 슈가 “큰 실망 안겨드려 죄송”</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/23/VKOTVQNSVRGEJM72DXYTM3U5QE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/23/VKOTVQNSVRGEJM72DXYTM3U5QE/</guid>
-      <dc:creator>강우석 기자, 남병진 인턴기자(한국외대 행정학과 4학년)</dc:creator>
-      <description/>
-      <pubDate>Fri, 23 Aug 2024 10:46:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YUVZLK5XFFJAXJWRAAV2P3TFXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전동 스쿠터 음주운전 혐의로 입건된 그룹 방탄소년단(BTS)의 슈가(민윤기)가 23일 서울 용산구 용산경찰서로 출석하며 질문에 답하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전동 스쿠터 음주운전 혐의를 받는 그룹 방탄소년단(BTS)의 슈가(본명 민윤기·31)가 음주운전 적발 17일 만에 경찰에 출석해 “큰 실망을 안겨드려 죄송하다”고 말했다.&lt;br&gt;&lt;br&gt;검은색 정장 차림을 한 민씨는 23일 오후 7시 45분 서울 용산구 용산경찰서 앞에서 취재진에 “굉장히 죄송하다. 많은 팬분들과 많은 분들께 정말 큰 실망을 안겨드려 진심으로 반성하겠다”고 밝혔다. 민씨는 이 과정에서 몇 초간 말을 잇지 못하기도 했다.&lt;br&gt;&lt;br&gt;이어 사고 이후 바로 경찰에 출석하지 않은 이유와 음주상태로 전동킥보드를 타면 안된다는 걸 몰랐다는 입장은 동일하냐 등을 묻는 취재진 질문에 대해선 답하지 않고 조사실로 들어갔다.&lt;br&gt;&lt;br&gt;민씨는 이날 사회복무요원으로 근무하는 기관에 정상 출근한 뒤 퇴근한 이후 경찰 소환조사를 받았다.&lt;br&gt;&lt;br&gt;민씨는 지난 6일 오후 11시 15분쯤 서울 용산구 한남동 자택 인근에서 술을 마시고 전동 스쿠터를 타다 경찰에 적발됐다. 전동스쿠터는 도로교통법상 ‘차’로 분류된다. 당시 민씨는 경찰에 “맥주 한 잔만 마셨다”고 진술했지만 혈중알코올농도 수치는 면허취소 수치(0.08%)를 크게 상회하는 0.227%로 확인됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>재일교포 출신 ‘야신’ 김성근, 교토국제고 우승에 밝힌 소감은</title>
       <link>https://www.chosun.com/national/national_general/2024/08/23/VPM7JLXSNZDJXAGJHYLQWRFYSY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/23/VPM7JLXSNZDJXAGJHYLQWRFYSY/</guid>
@@ -909,82 +985,6 @@
       <description/>
       <pubDate>Fri, 23 Aug 2024 10:36:33 +0000</pubDate>
       <content:encoded>검찰이 수사 무마를 대가로 고액의 수임료를 수수한 의혹을 받는 양부남 더불어민주당 의원에 대해 ‘혐의 없음’ 결론을 내렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WY676Z6BD773DCZV7QWIZ5FMQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양부남 더불어민주당 광주 서구을 당선인. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 형사1부(부장 김승호)는 23일 양 의원의 변호사법 위반 혐의를 받는 양 의원에 대해 혐의 없음(불기소) 처분을 했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “관련자들의 진술과 통화 녹취록, 피의자의 변호 활동 등 제반 증거와 법리를 종합적으로 검토한 결과 피의자가 공무원에게 청탁 또는 알선을 한다는 명목으로 수임료를 받았다고 보기 어렵다고 판단했다”고 밝혔다.&lt;br&gt;&lt;br&gt;양 의원은 2020년 8월 검찰에서 퇴직한 후 그해 11월 대구의 한 온라인 도박사이트 운영진으로부터 도박공간 개설 혐의 수사를 무마해 주는 대가로 고액의 수임료를 받은 혐의를 받았다. 도박사이트 운영진 측에서 양 의원의 변호사 사무실 법인계좌로 건네진 돈은 약 9900만원인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰은 지난 8일 양 의원에게 도박공간 개설 사건 피의자 측에서 양 의원 사무실 법인 계좌로 수임료가 흘러간 경위, 수임 경위 전반에 대해 물었지만 결국 불기소로 사건을 마무리했다.&lt;br&gt;&lt;br&gt;앞서 경찰은 양 의원에 대해 구속영장을 두 차례 신청했다. 하지만 범죄 혐의와 구속 사유에 명확한 소명이 필요하다는 이유로 검찰이 모두 반려하자, 작년 8월 양 의원을 불구속 송치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, 서울 강남서 압수수색...현직 경찰 뇌물 수수 혐의</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/23/GPFPASOQOBEIZHINN3WRMS6YGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/23/GPFPASOQOBEIZHINN3WRMS6YGA/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 23 Aug 2024 10:14:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RYJ6IJCWRXZG3ZVBHJHAPJUUVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰관이 사건 관계인으로부터 금품을 수수했다는 혐의와 관련해 검찰이 서울 강남경찰서를 압수수색했다.&lt;br&gt;&lt;br&gt;서울남부지검 가상자산범죄합동수사단(단장 박건욱)은 뇌물 수수 혐의를 받는 서울 강남경찰서 수사과 소속 A 경위에 대한 강제 수사에 착수, 23일 강남서를 압수수색했다. 이날 압수수색 후 A 경위는 직위 해제됐다.&lt;br&gt;&lt;br&gt;A 경위는 가상자산 관련 사건 관계인에게서 사건 관련 청탁을 받고 금품을 수수한 혐의를 받는다. 서울 강남서는 남부지검 관할이 아니지만, 가상자산 등 금융 수사에 특화된 남부지검이 이 사건을 맡게 됐다.&lt;br&gt;&lt;br&gt;한편 남부지검은 지난 4월 서울 서초경찰서 소속 수사팀장 권모 경감을 3000만원이 넘는 뇌물을 받은 혐의로 체포한 바 있다. 권 경감은 현재 서울남부지법에서 1심 재판을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“통증 심해...” 광주 치과에 사제폭발물 터트린 70대 구속영장 </title>
-      <link>https://www.chosun.com/national/incident/2024/08/23/ULML2RNIPFAPJLRKHGWLSTNPFI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/23/ULML2RNIPFAPJLRKHGWLSTNPFI/</guid>
-      <dc:creator>김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 23 Aug 2024 10:13:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ZDJN34FG7UJ5XYJI2WYIVCVJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오전 9시 45분쯤 광주 서구 치평동 서부경찰서에서 경찰이 병원서 폭발 테러를 한 70대 남성을 조사실로 데리고 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 광주광역시의 한 치과에서 사제폭발물을 터트린 70대에 대해 구속 영장을 신청했다.&lt;br&gt;&lt;br&gt;광주 서부경찰서는 병원에 폭발물을 터트려 불을 낸 혐의(현주건조물방화)로 A(78)씨에 대해 구속영장을 신청했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 오후 1시 7분쯤 광주 서구의 한 건물 3층 치과 입구에 폭발물이 든 택배상자를 두고 불을 붙인 뒤 달아난 혐의를 받는다. &lt;br&gt;&lt;br&gt;도주한 A씨는 범행 2시간여 만에 광주 광산경찰서를 찾아 자수했다.&lt;br&gt;&lt;br&gt;A씨는 해당 병원에서 지난달 중순부터 5차례 보철치료(크라운)를 받다가 통증을 호소하며 병원에 항의했던 것으로 조사됐다. 그는 경찰 조사에서도 “통증이 심해 화가 나 범행을 했다”는 취지로 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원, 인터파크커머스 자율 구조조정 승인…협의 기간 한 달 </title>
-      <link>https://www.chosun.com/national/court_law/2024/08/23/CXLVMNSOMRC2VGZYMKWTUN4RH4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/23/CXLVMNSOMRC2VGZYMKWTUN4RH4/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 23 Aug 2024 09:40:25 +0000</pubDate>
-      <content:encoded>법원이 국내 전자상거래(이커머스) 업체 인터파크커머스가 신청한 자율 구조조정 지원(ARS) 프로그램을 23일 승인했다. 앞서 인터파크커머스는 지난 16일 ARS 프로그램을 신청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P3UP5VAGPZBBBLYFLKT6LMONSU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동에 위치한 서울회생법원. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울회생법원 회생2부(재판장 안병욱 법원장)는 이날 인터파크커머스 대표자에 대한 비공개 심문을 열고, ARS를 진행하기로 결정했다.&lt;br&gt;&lt;br&gt;ARS는 법원이 기업과 채권자가 동의하는 외부 전문가나 법인을 선임해 자율적이고 효율적인 구조 조정을 진행하는 제도로 이날 법원은 자율적인 협의를 위해 9월 23일까지 한 달의 시간을 주기로 했다.&lt;br&gt;&lt;br&gt;통상 법원은 회생 신청일로부터 한 달 안에 개시 여부를 결정해야 한다. 그러나 ARS가 진행되면 채권자들과 인터파크커머스 간 협의를 이끌어내기 위해 재판부는 회생 개시 결정을 최대 3개월까지 미룰 수 있다. 이 기간에 합의점을 찾으면 ‘자율협약’이 체결되고, 법원이 강제하는 회생절차에서 벗어나게 된다. 협의가 불발되면 법원이 회생절차 개시 여부를 최종 판단하게 된다.&lt;br&gt;&lt;br&gt;회생법원 관계자는 “회생절차 협의회 개최나 절차 주재자 선임 여부를 곧바로 결정하지 않고, 인터파크커머스가 현재 추진 중인 매각 절차 진행 상황 등을 확인하면서 검토할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;인터파크커머스는 이커머스 ‘인터파크쇼핑’과 ‘AK몰’ 두 곳을 운영하고 있는데, 판매 대금을 제때 정산하지 못해 ‘환불 대란’을 일으킨 ‘티메프(티몬·위메프)’ 사태의 직격탄을 맞아 심각한 자금난을 겪고 있는 것으로 전해졌다. 세 곳 모두 큐텐그룹 산하 계열사로 인터파크커머스는 지난달 티메프 사태가 터진 뒤 판매자와 고객이 연쇄적으로 이탈했다. 인터파크커머스는 최근 희망퇴직 신청을 받았다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>또래 여성 살해 정유정 살인예비 혐의 불기소</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/08/23/LHDFAMRKSFCFRMXPJKAAQEEV5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/08/23/LHDFAMRKSFCFRMXPJKAAQEEV5A/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 23 Aug 2024 10:04:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PD3F3B3ZD5NKPR4HY7SF2TYZDQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20대 또래 여성을 살해하고 시신을 유기한 정유정(24).왼쪽 사진은 정유정의 신상공개 사진./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또래 여성을 잔인하게 살해하고 시신을 유기한 혐의로 무기징역이 확정된 정유정(24)의 살인예비 혐의에 대해 검찰이 불기소 처분했다.&lt;br&gt;&lt;br&gt;부산지검 형사3부는 정유정의 살인예비 혐의에 대해 증거가 불충분해 무혐의 처분했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;이 혐의는 정유정이 살인 범행 이전 중고 거래 앱 채팅으로 2명의 다른 사람을 유인해 살해하려 했거나 그 기회를 엿봤다는 것이다. 검찰은 “이들이 정유정과 채팅 과정에서 만남을 거부했거나 단순히 만남을 가진 것에 불과해 살해 의사와 관련된 특별한 정황이 없어 증거불충분으로 불기소 처분했다”고 밝혔다.&lt;br&gt;&lt;br&gt;정유정은 지난해 5월 또래 여성을 잔인하게 살해하고 시신을 유기한 혐의(살인·사체유기)로 이날 대법원에서 무기징역이 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 검찰총장, ‘김여사 디올백’ 의혹 수사심의위 회부... “논란 없도록 매듭”</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/23/2MTQ7DKL2ZDHZO5EF2INM4EA5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/23/2MTQ7DKL2ZDHZO5EF2INM4EA5A/</guid>
-      <dc:creator>송원형 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 23 Aug 2024 09:14:35 +0000</pubDate>
-      <content:encoded>이원석 검찰총장이 윤석열 대통령 부인 김건희 여사의 ‘디올백 수수’ 의혹 사건을 수사심의위원회에 회부했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CIM6AGBAEKQUBK4BDNVRXD6D7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이원석 검찰총장이 23일 오전 서울 서초구 대검찰청으로 출근하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검찰청은 23일 “검찰총장이 김건희 여사의 청탁금지법 위반 사건을 알선수재, 변호사법 위반 법리를 포함해 검찰수사심의위원회에 회부하고 전원 외부 민간위원으로 구성된 위원회의 심의 절차를 거쳐 신중하게 처분하도록 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;대검은 또 “검찰총장은 서울중앙지검의 수사 결과를 보고받고 증거 판단과 법리 해석이 충실히 이루어졌다고 평가했다”면서도 “사회적 관심이 집중되고 소모적 논란이 지속되는 이 사건에서 수사심의위원회 절차를 거쳐 공정성을 제고하고 더 이상의 논란이 남지 않도록 매듭짓는 것이 바람직하다고 결정했다”고 했다.&lt;br&gt;&lt;br&gt;이에 서울중앙지검은 “검찰총장의 수사심의위원회 소집 결정에 따른 절차에 충실히 임할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 이 총장은 지난 22일 이창수 서울중앙지검장으로부터 수사팀이 김 여사에 대해 무혐의로 결론을 내렸다는 수사 결과를 보고를 받았다.&lt;br&gt;&lt;br&gt;수사심의위는 국민적 의혹이 제기되거나 사회적 이목이 쏠린 사건의 수사·기소가 적법했는지 심의하는 기구다. 외부 전문가로 구성된 위원 150~300명 중 15명을 무작위로 추첨하고, 심의 후 수사의 계속 여부, 기소 여부 등을 판단해 수사팀에 권고한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6S5NDNOYARMCFCY27EVWEINOZU.jpg?width=3385&amp;height=2448&amp;auth=6caab2a52d74e584e8646e0ec469792ae67e695cea8d17b28b2d4127c06e3e09&amp;smart=true" type="image/jpeg" height="2448" width="3385">
-        <media:description type="plain">[서울=뉴시스] 김명년 기자 = 이원석 검찰총장이 23일 오전 서울 서초구 대검찰청으로 출근하고 있다. 2024.08.23. kmn@newsis.com</media:description>
-        <media:credit role="author" scheme="urn:ebu">kmn</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>화장실 문틈 막고 물 뿌려 살았다...806호 여대생 기적의 생존</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/23/BYBWRZRZKBFSRADNV2VBXLGSII/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/23/BYBWRZRZKBFSRADNV2VBXLGSII/</guid>
-      <dc:creator>서보범 기자, 정창경 인턴기자(연세대 언론홍보영상학 졸업예정), 강동완 인턴기자(서울대 불어불문학 졸업예정)</dc:creator>
-      <description/>
-      <pubDate>Fri, 23 Aug 2024 08:38:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A6HB75MY7ZKC7H547AYWGOXYJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 22일 오후 경기 부천시 원미구 중동의 한 호텔에서 화재가 발생한 가운데 소방대원들이 화재 진압·구조 작업을 벌이고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 부천시 중동 호텔 화재사고로 19명의 사상자가 발생한 가운데 숨진 희생자 7명은 인근 장례식장 3곳에 분산돼 안치됐다. 이날 경기 부천시 부천성모병원 장례식장에서 만난 희생자 김모(28·여)씨의 어머니는 “딸은 미술에 꿈을 갖고 있던 앞길이 창창한 20대였다”며 눈시울을 붉혔다. 화재가 난 호텔 7층에 투숙하고 있던 김씨는 사건 당일 오후 7시 42분쯤 어머니에게 전화를 걸어 “호텔에 있는데 불이 났다. 더 이상 통화를 할 수 없을 것 같다. 내 몫까지 잘 살아달라”는 말을 남겼다고 한다. 김씨는 객실 화장실에서 심정지 상태로 발견됐다. 이곳으로 이송된 나머지 희생자 2명의 빈소는 이날 오후 4시 기준 차려지지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3X6W3QG445CFFDLW3AWIIUGJ24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오후 경기 부천시 원미구 부천성모병원 장례식장에 희생자 김모(28·여)씨의 빈소가 차려져 있는 모습. /강동완 인턴기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가까스로 목숨을 건진 피해자도 있었다. 806호에 거주하고 있던 20대 여성 A씨는 거주지인 강원도 춘천에서 부천까지 대학 실습 교육 차 이날 호텔에서 묵고 있었다. A씨 아버지 김모(52)씨는 23일 본지 통화에서 “어제 저녁 7시 34분쯤 딸이 아내에게 ‘지금 화재가 났는데 어떡하냐'고 전화가 왔다”며 “아내가 딸에게 ‘위험하니 나가지 말고 욕실 화장실에서 물을 뿌리고 수건으로 문틈새를 막으면서 버티라'고 말했다”고 했다. 전화 직후 김씨와 일가족은 바로 부천으로 향했다.&lt;br&gt;&lt;br&gt;부천으로 향하던 김씨는 딸에게 수차례 통화를 시도했으나 연결이 되지 않았다고 한다. 김씨는 “배터리가 떨어질까봐 전화를 계속 하진 않았고, 8시 이후 두 차례 전화를 했는데도 받지 않았다”며 “119에도 전화를 걸어 806호에 갇혀 있다고 신고했지만 구조 여부를 알 수 없었다”고 했다. 이후 김씨는 호텔 측에 전화를 걸어 “딸이 806호에 있는데 정신을 잃은 것 같다”고 구조를 요청했고, 해당 직원과 소방대원이 함께 806호로 올라가 화장실 문을 개방, 딸을 구조했다. 서울의 한 병원으로 이송돼 간단한 치료를 마치고 퇴원한 A씨는 “화장실에 갇혀있을 때 현관문을 두드리는 소리를 들었지만, 몸에 힘이 빠져 밖으로 나갈 수 없었고 이후 정신을 잃었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DX3MUNIEYZKUVDW4GLXK5544RI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 22일 발생한 경기 부천 호텔 화재 현장에서 사망자 7명 중 2명은 소방이 설치한 에어매트로 뛰어내렸다가 숨진 가운데, 현장에 해당 에어매트가 뒤집혀 있는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오후 2시쯤 40대 여성 희생자가 안치된 부천장례식장에는 빈소를 찾은 조문객들이 벽에 기댄 채 눈물을 훔치고 있었다. 사고 현장에서 약 500여m 거리에 있는 순천향대 부속 부천병원에도 시신 3구가 안치된 가운데, 희생자 3명 전원에 대해 부검이 진행됐다. 이날 오후 4시 기준 이곳에 희생자 빈소는 차려지지 않았다. 이들 중 일부는 부검 결과가 나온 뒤 유족 측 요청에 따라 이송될 예정인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>술 취해 마트 직원 카트로 치고, 지나가던 여성 폭행한 30대 검거</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/23/OE6R6YJVABF4VEGB3VRZ5OTCVE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/23/OE6R6YJVABF4VEGB3VRZ5OTCVE/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 23 Aug 2024 08:34:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJACOCQWWU5QCEDLXLXU6WACM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취한 채 일면식 없는 행인과 대형마트 직원을 폭행한 30대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 금천경찰서는 지난 22일 30대 남성 A씨를 폭행 혐의로 현행범 체포했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 22일 오후 9시쯤 서울 금천구 독산동 소재 한 대형마트에서 술을 사고 나오다가 카트로 마트 직원을 친 혐의를 받는다. 이후 무단횡단을 시도하던 A씨는 욕설과 함께 “내 갈 길을 막지 말라”고 말하며 주변을 지나던 여성의 어깨 등을 몸으로 밀치기도 했다.&lt;br&gt;&lt;br&gt;A씨는 마트 측 신고를 받고 출동한 경찰에 의해 현행범 체포됐다. 당시 A씨는 만취 상태로 조사됐다. A씨는 경찰 조사에서 “그냥 지나가다가 부딪힌 것”이라고 진술했다고 한다.&lt;br&gt;&lt;br&gt;경찰은 A씨 등을 상대로 정확한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>7층서 에어매트로 떨어졌는데 왜 숨졌나... 전문가들 의견 들어보니</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/23/IKV43SVWBRE55PUDVTU6TQ7DXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/23/IKV43SVWBRE55PUDVTU6TQ7DXQ/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 23 Aug 2024 08:13:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CNEORJRQYXZT7YSRJSR3EP3HFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 오후 경기 부천시 원미구 중동의 한 숙박업소에서 화재가 발생해 출동한 구조대원들이 실종자 수색작업을 벌이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 경기 부천시 중동 호텔 화재 사고 당시 투숙객 2명이 소방당국이 설치한 에어매트로 뛰어내렸다가 사망하자 에어매트의 안전성을 두고 논란이 일고 있다. 구조 장비를 향해 몸을 던진 여성이 에어매트 가장자리로 떨어지면서 매트가 뒤집혔고, 바로 뒤에 뛰어내린 남성이 맨바닥으로 추락하는 상황이 연출됐기 때문이다.&lt;br&gt;&lt;br&gt;23일 소방당국과 목격자 등에 따르면 전날 오후 7시 39분쯤 119 신고를 받고 현장에 출동한 소방대원들은 오후 7시 48분쯤 호텔 1층 외부에 에어매트를 설치했다. 당시에는 처음 화재가 발생한 810호 객실에서 불길이 일어나고 건물 안에 유독가스가 찬 상태였다.&lt;br&gt;&lt;br&gt;당시 출동한 소방 당국이 설치한 에어매트는 10층 높이에서 뛰어내려도 살 수 있게 제작된 장비였다. 가로 7.5m·세로 4.5m·높이 3m 크기다. 이 에어매트의 무게는 공기가 주입되지 않은 상태에서 126㎏이다.&lt;br&gt;&lt;br&gt;오후 7시 55분쯤 7층에 있는 807호 객실에서 먼저 뛰어내린 여성이 에어매트 모서리 부분으로 떨어졌고, 이 때문에 에어매트가 뒤집어진 상태에서 나중에 뛰어내린 남성은 그대로 바닥에 추락했다. 이들은 심정지 상태로 병원으로 옮겨졌으나 모두 숨졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6GZGQUX4WFFNJGUZYCKYAUFO3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 오후 7시39분 경기도 부천시 원미구의 한 숙박업소에서 대형 화재가 발생해 소방당국이 탈출용 에어매트를 설치하고 진화작업을 벌이고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이후 설치된 에어매트에 적힌 ‘119부천소방서’라는 글씨가 뒤집힌 채로 있는 사진이 퍼지면서 소방 당국이 에어매트를 제대로 설치하지 않았다는 의혹이 나왔다.&lt;br&gt;&lt;br&gt;소방당국은 이에 대해 “에어매트는 정상적으로 설치됐으나 안전한 중앙부 대신에 모서리로 떨어졌다”고 했다.&lt;br&gt;&lt;br&gt;숨진 2명은 당시 7층에서 에어메트로 뛰어내렸는데, 애초 이런 높이에서 에어매트로 몸을 던지는 상황에서는 생존 확률이 높지 않다고 한다. 10층용 에어매트를 썼더라도, 고층에서 에어매트로 뛰어내리는 행위 자체가 작게는 부상, 크게는 목숨을 잃을 위험성이 있다는 전문가 의견도 있다. &lt;br&gt;&lt;br&gt;박정운 전 세종사이버대 소방방재학과 교수는 “7~8층 이상 높이에서는 에어매트가 별 효과가 없다”며 “사람 몸무게가 있고, 높이가 있기 때문에 에어매트에 제대로 떨어지더라도 큰 부상을 입을 수 있고, 사망할 가능성도 있다”고 했다.&lt;br&gt;&lt;br&gt;공하성 경일대 소방방재학과 교수는 “예전에 실험을 해보니 2층에서 에어매트로 제대로 뛰어도 신체에 상당한 충격이 있는 것으로 나타났다”며 “고층에서는 에어매트에 제대로 뛰어내리기도 어렵다. 그만큼 큰 위험성을 내포하고 있어서 마지막 수단으로 사용하는 것이 바람직하다”고 했다. 실제로 지난해 게재된 ‘소방장비 기본규격’에 따르면 공기안전매트는 ‘16n 이하의 높이에서 요구조자의 구조활동을 위하여’ 사용된다.&lt;br&gt;&lt;br&gt;특히 요구조자가 안전한 자세로 에어매트의 가운데 부분에 떨어지지 않으면 생존 확률이 낮다고 한다. 이영팔 소방청 119대응국장은 “에어매트에는 안전 에어리어(구역)가 있다. 가의 테두리를 빼고 가운데에 뛰어내려야 한다”며 “요구조자는 추락하는 느낌으로 몸을 던져서는 안 되며 건물 외벽에서 약 1m 정도 뛰어준다는 느낌으로 떨어져야 한다”고 했다.&lt;br&gt;&lt;br&gt;또한 소방관들이 에어매트를 붙잡고 있었으면 에어매트가 뒤집히지 않았을 것이라는 주장은 구조 매뉴얼과 부합하지 않는다고 한다. 이 국장은 “에어매트는 고정시키지 않는다. 구조 훈련이나 실험을 할 때도 에어매트를 고정하는 식으로 진행하진 않는다”며 “요구조자가 떨어지는 방향을 봐서 수시로 매트를 들고 왔다 갔다 할 때도 있고, 고정할 경우 에어매트가 자연스럽게 부풀어오르지도 않는다”고 했다.&lt;br&gt;&lt;br&gt;전문가들은 에어매트가 모든 상황에서 목숨을 살릴 수 있는 완벽한 피난 방법은 아니며, 구조 매뉴얼상 최후 수단이라고 했다.&lt;br&gt;&lt;br&gt;이영팔 국장은 “구조대원들이 가지고 있는 구조용 매뉴얼은 건물 화재 발생 시 1차적으로 피난 계단 이용을 원칙으로 한다”며 “이것이 불가능할 경우 2차로 고가 굴절 사다리차를 동원하고, 그다음 수단이 에어매트 전개”라며 “매트는 피난 통로가 막혔을 때 창문을 통해서 뛰어내리는 최후의 수단”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
