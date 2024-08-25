@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>부천 호텔 화재 에어컨 누전 추정...침대·소파 ‘불쏘시개’ 역할</title>
+      <link>https://www.chosun.com/national/incident/2024/08/25/VKARHGEXQ5CJFGMKPDAMYO5DXU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/25/VKARHGEXQ5CJFGMKPDAMYO5DXU/</guid>
+      <dc:creator>부천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 25 Aug 2024 08:52:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SVZFPA2RXHBLM2GUGM6X755SWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 23일 경찰과 소방, 국립과학수사연구원 관계자들이 경기 부천의 호텔 화재 현장에서 합동 감식을 진행하는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7명의 사망자가 발생한 부천 호텔에서 처음 불이 날 당시 객실 내 침대 매트리스와 소파 등이 불쏘시개 역할을 한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;25일 경기소방재난본부 등에 따르면 지난 22일 경기 부천 호텔 화재는 810호 객실 에어컨 누전으로 발생한 것으로 추정되고 있다. 객실 내 벽걸이형 에어컨에서 생긴 불똥이 주변 소파와 침대 등에 옮겨붙으면서 불이 났을 수 있다는 것이다.&lt;br&gt;&lt;br&gt;과거 한국방재학회의 연구결과를 보면, 침대 매트리스는 불이 확산하는 속도(화재성장률)가 TV보다 490배 빠른 것으로 조사됐다. 나무 재질의 책상보다 230배, 서랍장보다는 9배나 빨랐다.&lt;br&gt;&lt;br&gt;에어컨에서 불똥이 튄 소파도 매트리스보다는 화재성장률이 절반 정도로 낮지만, 다른 집기류에 비해선 속도가 빠른 편이다. 때문에 침대 매트리스와 소파 등이 이번 화재를 키운 불쏘시개 역할을 한 것으로 분석되고 있다.&lt;br&gt;&lt;br&gt;김상식 우석대 소방행정학과 교수는 “현재까지 보도되는 내용 등을 봤을 때 매트리스 등에 불똥 같은 게 떨어졌다면, 불쏘시개가 돼 연기가 빠르게 확산할 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;지난 22일 오후 7시 39분쯤 경기 부천 중동의 한 호텔에서 화재가 발생했다는 신고를 받은 소방 당국은 4분여 뒤인 7시 43분쯤 현장에 도착했지만, 불이 처음 난 810호가 있는 7층엔 이미 화염과 연기가 확산한 상황이었다. 이 불로 7명이 숨지고 12명이 다치는 등 총 19명의 인명피해가 발생했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>건보 가입자 중 241만명, 작년 병의원 한 번도 안 가</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/08/25/UPEWWREWLFB23OFB4KGPSLVT4Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/25/UPEWWREWLFB23OFB4KGPSLVT4Q/</guid>
@@ -922,15 +931,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/ZW6ZQI36QJCKDP2BEPMYIXX6QI.jpg?width=700&amp;height=720&amp;auth=62064c69b626378dda0b063b6de4c71969d5a9ac4ee2f90993847c9348036828&amp;smart=true" type="image/jpeg" height="720" width="700">
         <media:description type="plain">22일 오후 7시 39분쯤 경기 부천 원미구 중동의 호텔 8층 객실에서 불이 나 창문 밖으로 화염과 연기가 치솟고 있다. 경기도소방재난본부에 따르면 이날 오후 11시 기준 투숙객 7명이 숨지고 12명이 부상을 입었다. 화재 당시 호텔에는 투숙객 27명이 묵고 있었던 것으로 알려졌다. /경기도소방재난본부</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>3시간 경찰조사 마친 슈가 “크게 반성하고 후회 중”</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/23/FG6GNKA4NBDERCY4VMP6T7BHTQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/23/FG6GNKA4NBDERCY4VMP6T7BHTQ/</guid>
-      <dc:creator>강우석 기자, 남병진 인턴기자(한국외대 행정학과 4학년)</dc:creator>
-      <description/>
-      <pubDate>Fri, 23 Aug 2024 13:57:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OI2GGA2QAEJZJJ44OUXEZIBK7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'전동스쿠터 음주운전' 혐의를 받고 있는 그룹 방탄소년단(BTS)의 멤버 슈가(본명 민윤기)가 23일 서울 용산경찰서에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전동 스쿠터 음주운전 혐의를 받는 그룹 방탄소년단(BTS)의 슈가(본명 민윤기·31)가 첫 경찰조사를 마치고 나와 “저의 잘못된 행동으로 많은 상처와 실망을 안겨드려 죄송하다”고 했다.&lt;br&gt;&lt;br&gt;민씨는 23일 오후 10시 53분쯤 서울 용산구 용산경찰서에서 3시간 가량 진행된 조사를 마치고 취재진에 고개를 숙인 뒤 “크게 반성하고 후회하고 있고 사랑해 주신 분들께 정말 죄송하다는 말씀 드리고 싶다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;용산경찰서 바깥에는 귀가하는 민씨를 보기 위해 팬들 15명 가량이 모여 휴대폰으로 연신 사진을 찍기도 했다.&lt;br&gt;&lt;br&gt;앞서 민씨는 이날 오후 7시 45분 변호인과 함께 경찰에 출석해 취재진에 “굉장히 죄송하다. 많은 팬분들과 많은 분들께 정말 큰 실망을 안겨드려 진심으로 반성하겠다”고 밝힌 바 있다. 검정색 정장 차림을 한 민씨는 수 초간 말을 잇지 못했다.&lt;br&gt;&lt;br&gt;군(軍) 대체복무 중인 민씨는 사회복무요원으로 근무하는 기관에 정상 출근한 뒤 퇴근한 이후 경찰 소환조사를 받았다. 민씨는 지난 6일 오후 11시 15분쯤 서울 용산구 한남동 자택 인근에서 술을 마시고 전동 스쿠터를 타다 경찰에 적발된 바 있다. 당시 민씨의 혈중알코올농도 수치는 면허취소 수치(0.08%)를 크게 상회하는 0.227%로 확인됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>재일교포 출신 ‘야신’ 김성근, 교토국제고 우승에 밝힌 소감은</title>
