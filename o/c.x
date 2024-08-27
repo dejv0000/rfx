@@ -13,6 +13,105 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title> “대구 혁신에만 집중”...홍준표, 대구경북 통합 중단 의사 밝혀</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/27/XYZF3C7D4VH2ZIDO7EUCPMKRS4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/27/XYZF3C7D4VH2ZIDO7EUCPMKRS4/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 27 Aug 2024 09:49:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M53NYRB67Y3XRZOXIHTVVUJX7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍준표 대구시장/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시와 경북도를 하나로 합치는 행정 통합 작업이 사실상 무산됐다. 홍준표 대구시장이 소셜미디어를 통해 “대구경북 통합 논의를 장기 과제로 돌리겠다”고 입장을 밝히면서다.&lt;br&gt;&lt;br&gt;홍 시장은 27일 자신의 페이스북에 “오늘 경북도의회가 대구시장 성토장이 된 것은 유감이고, 최종 시한이 내일까지지만 (행정 통합에 대한)도의회 동의는 어려울 것 같다”며 “대구경북 통합 논의는 장기 과제로 돌리고 우리는 대구 혁신에만 집중하는게 갈등을 수습하는 방안이 될 것 같다”고 했다. 그러면서 “통합을 지지해주신 시도민들에게 죄송하다”고 했다.&lt;br&gt;&lt;br&gt;대구경북 행정 통합 논의는 지난 2020년부터 시작됐으나 주민 호응이 적고 정치권 이해 관계가 달라 무산된 바 있다. 그러다 지난 6월 홍준표 대구시장과 이철우 경북지사, 이상민 행정안전부 장관과 우동기 지방시대위원회 위원장 등이 회담을 갖고 2026년 7월 통합 자치단체를 출범하고 올해 안에 특별법을 제정하자는 통합 추진 방안을 발표했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K4KUIOXVQ5IWXDVZD63FTYTLTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍준표 대구시장이 대구경북 통합을 장기과제로 돌리겠다며 올린 글. /페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;급물살을 타던 행정통합은 통합 자치단체의 청사와 관할구역 문제, 시민 동의 방식 등을 두고 갈등을 빚기 시작했다.&lt;br&gt;&lt;br&gt;대구시는 통합 이후 대구시청, 안동에 있는 경북도청에 더해 경북 동부를 맡는 포항시청 등 청사 3개를 두고 대구권·경북 북부권·동부권 등으로 시군을 나누어 관할하자는 입장이었다. 반면 경북도는 지금의 대구시청과 경북도청을 각각 통합 청사로 두고, 중앙정부의 권한을 통합 자치단체에 대폭 이양해 시·군 자치권을 높이자고 맞섰다. 또 대구시는 광역의회 동의 절차로 시민의 뜻을 확인하면 된다는 입장이었지만, 경북에서는 주민투표를 해야 한다는 입장을 보였다.&lt;br&gt;&lt;br&gt;이에 대구시는 26일 통합자치단체의 청사 소재지 및 관할 범위, 지역 의견 수렴 방식, 시·군의 권한 축소 또는 확대, 소방본부 직제 등 그동안 경북도와 합의점에 도달하지 못한 사항들에 대한 최종안을 경북도에 제안했다. 당초 대구시는 대구, 경북 북부, 경북 동부 등 3개 청사를 두고 관할구역을 법안에 명기하도록 제안했지만, 경북도의 입장을 반영해 법안에서 삭제하는 등의 절충안을 제시한 것이다. 그리고 28일까지 이런 내용이 합의되지 않으면 장기과제로 전환하겠다 밝혔다.&lt;br&gt;&lt;br&gt;하지만 이날 열린 경북도의회 임시회 본회의에서 통합 추진 과정에 대한 대구시의 행정을 비판하는 여론이 들끓자 홍 시장이 통합 중단 의사를 밝힌 것이다.&lt;br&gt;&lt;br&gt;경북도의회 박성만 의장은 “무릇 정치인은 말 한마디를 할 때 바윗덩어리보다 무거워야 한다”며 “260만 도민을 대표해서 대구·경북 통합과정에서 서로에게 상처를 주거나 신중하지 못한 언사에 대해서 도의회를 대표하고 도민을 대표해서 강력하게 경고한다”고 말했다.&lt;br&gt;&lt;br&gt;김일수 도의원은 “대구시가 주장하는 시도의회 의결은 바람직한 방법이 아니다. 광역 단위로는 최초의 사례라는 역사적 의미로 보나 주민의 삶에 미치는 영향을 볼 때 500만 시도민의 의사를 물어봐야 한다”고 말했고, 이형식 도의원도 “대승적 차원에서 행정통합에 찬성하지만, 지금 추진되는 행정통합은 시도민 없이 두 단체장만의 대화로 2026년 7월 통합자치단체 출범만을 목표로 마치 속도전 하듯 졸속으로 추진되는 부분에 대해서는 분명히 반대한다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>또래 여학생 얼굴로 ‘딥페이크 성범죄’...중학생 6명 경찰 조사 </title>
+      <link>https://www.chosun.com/national/2024/08/27/4V5YQEXV2ZFKTCYGIVEYPMR6BE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/08/27/4V5YQEXV2ZFKTCYGIVEYPMR6BE/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 27 Aug 2024 09:14:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JW7YHGOTYNBSLFGGKOCMTHMSRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 권혜인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온라인에서 내려받은 얼굴 사진에 음란물의 나체 사진을 합성하는 딥페이크 성범죄가 10대 사이로 광범위하게 퍼지고 있다. &lt;br&gt;&lt;br&gt;27일 경남교육청과 경남경찰청에 따르면 경찰은 아동·청소년의 성보호에 관한 법률 위반 등 혐의로 하동 모 중학교 1학년 남학생 A 군 등 6명을 입건해 조사하고 있다.&lt;br&gt;&lt;br&gt;A군 등은 지난 3월부터 텔레그램 메신저 단체방을 만들어 같은 학교 여학생을 포함해 총 4개 학교 또래 여중생 12명의 얼굴에 음란물을 붙인 딥페이크 성 착취물을 돌려본 혐의를 받는다. 딥페이크는 딥 러닝(deep learning)과 가짜(fake)가 합쳐진 단어로, 인공지능(AI)을 활용해 만들어진 진짜 같은 가짜 콘텐츠를 뜻한다.&lt;br&gt;&lt;br&gt;생성형 AI 기술이 발달하면서 딥페이크 창작물들은 육안으로 가짜인지 파악하기 어려울 만큼 정교해지고 있다.&lt;br&gt;&lt;br&gt;A군 등은 휴대전화 앱을 통해 이 같은 딥페이크 성 착취물을 제작한 것으로 전해졌다. 다만, 이들의 휴대전화 디지털 포렌식 조사에서 현재까지 성 착취물이 외부로 유출된 정황은 없다고 한다.&lt;br&gt;&lt;br&gt;이들의 범행은 지난 7월 말쯤 이 사실을 알게 된 한 피해 학생이 경찰에 신고하면서 드러났다. 경찰 관계자는 “수사 중인 사안으로, 조만간 6명을 불러 조사할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;경남교육청은 A군 등 6명에 대해 피해 학생들에 대한 접촉 및 보복 행동 금지의 내용을 담은 긴급조치 2호 조처를 내렸다. 오는 29일에는 경찰 수사와 별개로 이들에 대해 학교폭력대책심의위원회를 열 예정이다.&lt;br&gt;&lt;br&gt;도교육청 관계자는 “가해자와 피해자가 많아 범죄 사실을 확인하는데 시간이 걸렸다”며 “딥페이크 범죄에 대해 아이들이 범죄라는 인식을 못 하는 경우가 많은 것 같다. 디지털 성범죄 예방 교육을 집중적으로 실시해 범죄를 예방할 수 있도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;올해 경남교육청에 접수된 딥페이크 성범죄 관련 신고는 24건에 달한다. 학교별로 중학교가 13건으로 가장 많았고, 고등학교 10건, 초등학교도 1건 있다.&lt;br&gt;&lt;br&gt;지역별로는 창원·진주·김해 각 5건, 통영 4건, 거제 2건, 사천·함안·하동 각 1건 발생했다. 가해자는 모두 남학생이고, 피해자는 또래 여학생들이었다.&lt;br&gt;&lt;br&gt;경남교육청은 이날 전 학교에 딥페이크 등 디지털 성폭력에 엄정 대처하라는 공문을 발송했다.&lt;br&gt;&lt;br&gt;오는 9월부터는 딥페이크 등 디지털 성범죄 예방 집중 교육을 할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여객기에서 훔친 신용카드로 1억원어치 귀금속 쇼핑... 檢, 50대 중국인 구속기소 </title>
+      <link>https://www.chosun.com/national/incident/2024/08/27/S5WVHK2B3NDNHCTSAS6ZQAEBGY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/27/S5WVHK2B3NDNHCTSAS6ZQAEBGY/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 27 Aug 2024 09:47:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4MORMCANKZHSFAOSCYHPZOYJQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지방검찰청. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;운항 중인 여객기에서 잠든 승객의 가방을 뒤져 신용카드와 현금 등을 훔친 중국인이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;인천지검 국제범죄수사부(부장 정유선)는 절도와 사기 등 혐의로 중국인 A(51)씨를 구속기소 했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 5월 중순 홍콩에서 출발해 인천국제공항으로 향하던 여객기에서 다른 중국인 승객의 가방을 뒤져 신용카드와 현금 5000달러를 훔친 혐의 등을 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 비즈니스석에 타고 있던 다른 중국인 승객이 잠든 사이, 좌석 위 수하물함을 열어 가방을 뒤진 것으로 조사됐다.&lt;br&gt;&lt;br&gt;인천공항으로 입국한 A씨는 중국인 공범 2명과 함께 서울시 종로구 일대 금은방을 돌아다니며 훔친 신용카드로 1억 원 상당의 귀금속을 구입했다.&lt;br&gt;&lt;br&gt;이후 중국으로 도망친 A씨는 지난달 홍콩발 인천행 여객기에서 같은 방식으로 현금 540달러를 훔쳐 입국하려다 첫 번째 피해자로부터 신고를 받고 공항에서 기다리던 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;A씨는 검거 당시 자신의 돈이라고 주장했으나 그의 돈에선 피해자인 한국인 승객의 유전자정보(DNA)가 확인됐다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “기내 수하물함 보관 물품에 대한 승객들의 주의가 소홀하고 도난을 당하더라도 쉽게 알아차리기 어려운 점을 악용했다”며 “여객기 승객들의 주의가 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 덕적도 인근 해역 3곳에 ‘공공주도 해상풍력단지’ 조성 추진…2GW 규모</title>
+      <link>https://www.chosun.com/national/regional/2024/08/27/BSKPCN6D4RFFHFX2S3FAWVVFUY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/27/BSKPCN6D4RFFHFX2S3FAWVVFUY/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 27 Aug 2024 08:42:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZXL7SANO4XHHRQSCWKE5AQVKV4.png"&gt;&lt;figcaption&gt;&lt;small&gt;해상풍력단지 개념도 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천시가 인천테크노파크(인천TP), 한국중부발전 등 공공기관들과 함께 인천 앞바다 3곳에 대규모 해상풍력단지 조성을 추진한다.&lt;br&gt;&lt;br&gt;인천시는 최근 산업통상자원부의 ‘2024 공공주도 대규모 해상풍력단지 개발지원사업’ 대상으로 인천 해역 3곳이 선정됐다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;대상 해역은 덕적도 남서방향 42㎞ 지점 옹진군 해역 245㎢, 덕적도 남서서방향 71㎞ 지점 배타적경제수역(EEZ) 163㎢, 덕적도 서쪽방향 69㎞ 지점 EEZ 146㎢ 등 3곳이다.&lt;br&gt;&lt;br&gt;인천시는 이들 해역에 총 2GW 규모의 전기를 생산할 수 있는 해상풍력단지를 조성할 방침이다. 2GW는 한 달 평균 307㎾ 정도의 전기를 사용하는 4인 가족 144만 가구가 1년 동안 쓸 수 있는 양이다.&lt;br&gt;&lt;br&gt;인천시는 이번 지원사업 대상 선정으로 확보한 20여억 원의 국비를 활용해 오는 2026년까지 해상풍력단지를 조성을 위한 ‘발전단지 설계 및 기본계획’을 수립할 계획이다. 이 기본계획엔 관계기관 간 해역이용협의 결과를 비롯해 해상교통안전진단 결과, 주민 수용성 확보 방안, 전력계통 확보방안 등이 담긴다. 이 기본계획이 있어야 해상풍력단지 조성을 위한 발전사업 허가를 정부로부터 받을 수 있다.&lt;br&gt;&lt;br&gt;인천시는 3곳의 해역에 해상풍력단지를 만들 사업자 선정 작업도 기본계획 수립 작업과 함께 추진할 계획이다.&lt;br&gt;&lt;br&gt;인천시 관계자는 “이번 지원사업 선정을 계기로 공공주도의 해상풍력단지 조성을 본격화할 수 있게 됐다”며 “향후 8~10년 뒤엔 해상풍력 전기가 생산되도록 관련 절차를 밟아나가겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘국회 허위 인턴 등록’ 윤건영 의원, 항소심 첫 공판서도 혐의 부인</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/27/T3YUFL24FNBKLPJQBJRRSYQ37E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/27/T3YUFL24FNBKLPJQBJRRSYQ37E/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 27 Aug 2024 08:30:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WVQFDFPRBNZ7MAPLTHT2LCLZTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤건영 더불어민주당 의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국회의원실에 허위 인턴을 등록하고 급여를 수령케 한 혐의로 1심에서 유죄를 선고받은 윤건영 더불어민주당 의원이 항소심 27일 첫 공판에서도 혐의를 부인했다.&lt;br&gt;&lt;br&gt;서울남부지법 형사항소2-3부(재판장 김성원)는 이날 사기 혐의로 재판에 넘겨진 윤 의원에 대한 항소심 1차 공판을 열었다.&lt;br&gt;&lt;br&gt;윤 의원 측은 이날 검찰의 공소사실에 대해 “사실 및 법리의 오해가 있다”며 “사기 범행을 행할 동기가 없고 국회사무처를 기망했다고 볼 수도 없다”고 주장했다.&lt;br&gt;&lt;br&gt;이어 윤 의원 측은 사기죄 성립 요건에 부합하지 않는다는 점을 강조하며 “무죄 선고를 바란다”고 했다.&lt;br&gt;&lt;br&gt;검찰에 따르면 윤 의원은 지난 2011년 노무현재단 부설 한국미래발전연구원(미래연) 기획실장 시절, 회계 담당 직원인 김하니(38)씨를 백원우 당시 국회의원실 인턴으로 허위 등록시키고 5개월간 545만원의 급여를 받게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;지난 1월 1심 재판부는 윤 의원에게 500만원 벌금형을 선고했다. 윤 의원 측은 원심 판결이 부당하다며 항소했다.&lt;br&gt;&lt;br&gt;이 사건은 허위 인턴으로 등록된 김씨가 “허위 인턴 등록이 윤 의원의 제안에 따라 이뤄졌고 국회 인턴으로서 일을 하지 않고도 5개월간 급여를 받았다”고 제보하며 알려졌다.&lt;br&gt;&lt;br&gt;윤 의원은 지난 2021년 11월 백 전 의원과 함께 벌금 300만원에 약식기소됐고, 법원은 이보다 금액을 높여 윤 의원과 백 전 의원에게 벌금 500만원의 약식명령을 내렸다. 그러나 윤 의원이 이에 불복하며 정식 재판을 청구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[서초동 25시]  ‘난동 재소자’ 급증에…교정공무원 체력기준 강화한다</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/27/GNS5N3MKT5EV3OE3ADO27UOAN4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/27/GNS5N3MKT5EV3OE3ADO27UOAN4/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 27 Aug 2024 09:00:19 +0000</pubDate>
+      <content:encoded>작년 6월, 서울동부구치소에서 입소절차를 밟던 여성 A씨가 교도관에게 달려들어 손등과 손가락을 깨무는 일이 벌어졌다. 한 교도관이 입소 전 A씨가 갖고 있던 구리선 뭉치를 폐기한다고 하자, “니가 뭔데 그걸 버리냐”며 이 같은 일을 벌인 것이다. A씨에게 물린 교도관은 손등 부위가 찢어지는 부상을 입었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XF7VIANOVNKSDPTFGBCD3RWQR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부구치소 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 3월 서울의 한 구치소에선 접견을 끝내고 수용거실로 복귀하던 살인미수범 B씨가 교도관의 턱을 손으로 때리는 일도 일어났다. 당시 교도관은 B씨처럼 접견을 마친 수용자들을 안내하고 있었는데, ‘묻지마 폭행’을 당한 것이다.&lt;br&gt;&lt;br&gt;이처럼 교도관 폭행을 비롯해 교정시설 내에서 발생하는 사고가 최근 증가하는 것으로 나타나자, 법무부에서 교정공무원 선발 체력검사 합격 기준을 강화하는 방안을 검토 중인 것으로 27일 확인됐다.&lt;br&gt;&lt;br&gt;현행 교정공무원 선발 체력검사는 20미터 왕복 오래달리기‧악력(握力)‧60초간 윗몸일으키기‧10미터 2회 왕복달리기 등 4가지를 평가한다. 이 중 한 종목 이상 실격하거나, 두 종목 이상 합격 기준을 넘기지 못하면 탈락한다. 남성 지원자를 기준으로 20미터 왕복 오래달리기 48회 이상, 악력 47.0kg 이상, 윗몸일으키기 1분간 38회 이상, 10미터 2회 왕복달리기 12.29초 이내를 기록해야 한다. 이는 경찰‧소방공무원의 합격 기준보다 낮은 수준이라고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6E55GU5T7JKSDCK3YF5LUEWHZI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2022년 인천 연수구 송도컨벤시아에서 열린 국제치안산업대전에서 한 경찰 지원생이 순환식 체력검사 체험을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 연구용역을 통해 체력검사 강화 방안의 가안(假案)을 확보한 상태다. 본지가 입수한 중부대 산학협력단의 연구보고서에 따르면, 연구팀은 8종목 순환식 체력검사 도입을 제시했다. 현행 체력검사는 4개 종목을 나눠 시험을 치른 뒤 합격 여부를 결정하는데, 순환식 체력검사는 전체 종목을 쉬지 않고 한 번에 수행하는 차이가 있다. 경찰공무원은 2026년 채용시험부터 순환식 체력검사를 전면 도입할 예정이고, 소방공무원도 2027년부터 도입하는 것을 추진 중이다.&lt;br&gt;&lt;br&gt;연구팀이 제시한 종목은 교정공무원이 근무 중 마주하는 상황을 반영한 것으로 알려졌다. ‘계단오르내리기’가 대표적이다. 현재 전국 교정시설 대부분의 복도가 좁고, 계단이 많은 점을 반영해 고안됐다고 한다. 교도관과 재소자가 맞부딪치는 상황을 가정해 ‘당기기밀기’ 등의 종목도 제안됐다. 응급상황이 발생할 경우 초동조치 능력을 평가할 수 있는 더미끌기도 포함됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SARF6U2UJF6NNBR7R5G4SOJ4HQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;교도소의 한 수용자가 교도관의 감시 아래 운동하고 있는 모습. 위 사진은 본 기사와 관련이 없습니다. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 5년간 교정시설에서 발생하는 교정사고가 꾸준히 증가하고 있는 점이 법무부가 체력 기준 강화를 검토하는 배경이라고 한다. 법무부 교정통계연보에 따르면, 교정사고는 2019년 1000건에서 2020년 1241건, 2021년 1278건, 2022년 1527건, 2023년 1795건을 기록했다. 4년 만에 1.7배로 증가한 것이다. 법무부 관계자는 “교정공무원들은 현장에서 벌어지는 급작스러운 폭행은 물론, 김길수 같은 탈주범을 쫓아 뛰어야 할 때도 있다”며 “근무 중 다양한 상황에 맞닥뜨리는 만큼 다양한 강화 방안을 검토 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Z세대, 일 막히면 찾는 ‘이것’…젊은 직장인 80%가 의존한다</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/27/7GSEXRMOPZERBMHGJORFYYO77A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/27/7GSEXRMOPZERBMHGJORFYYO77A/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 27 Aug 2024 08:53:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5HLHOP4VVZMQNLHM6H5UJ6ODB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;AI 개인비서를 쓰는 직장인./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국의 젊은 직장인 10명 중 8명은 업무 중 일이 막히면 가장 먼저 인공지능(AI)에 도움을 청한다는 조사 결과가 나왔다.&lt;br&gt;&lt;br&gt;27일 관련 업계에 따르면 삼성전자는 최근 한국·미국·영국·프랑스·독일 등 5개국의 Z세대(18∼27세) 직장인 5048명(한국 1021명)을 대상으로 AI에 대한 견해를 조사한 보고서를 공개했다.&lt;br&gt;&lt;br&gt;그 결과, 한국 Z세대의 80%는 업무상 도움이 필요할 때 맨 먼저 찾아보는 수단으로 AI를 택했다. 이는 독일(61%)과 영국(59%), 미국(56%), 프랑스(55%) 등에 비해 19∼25%포인트씩 앞지른 수치다.&lt;br&gt;&lt;br&gt;AI가 업무 방법을 더 낫게 바꿀 수 있다고 긍정적으로 전망한 응답 비율도 한국은 80%에 달했다. 다른 4개국은 50∼60%대 수준에 그쳤다.&lt;br&gt;&lt;br&gt;삼성전자는 AI에 가장 개방적인 Z세대로 본업 외 부업을 하는 이들(39.7%)을 꼽았다. 5개국 전체 기준으로 Z세대 부업 종사자는 업무에 AI를 도우미로 쓰는 비율이 73%에 달했다.&lt;br&gt;&lt;br&gt;이들에게 AI를 어떻게 활용하는지 물어본 결과, 가장 인기가 좋았던 용도는 ‘긴 문서나 회의 요약(46%)’이었다. 이외에도 ‘텍스트 및 시각 콘텐츠 생성(37%)’과 ‘자료 조사와 아이디어 찾기(36%)’ 등에 AI를 활용하고 있는 것으로 나타났다.&lt;br&gt;&lt;br&gt;각국 Z세대는 ‘AI 슈퍼 사용자’ ‘AI 실험가’ ‘AI 신중론자’ 등 크게 3개 성향 집단으로 분류됐다. 슈퍼 사용자는 AI를 가장 활발히 쓰는 유형으로, 부업으론 콘텐츠 크리에이터나 웹 개발자 등 AI가 많이 쓰이는 직종을 택했다. 스마트폰과 PC 간의 막힘없는 서비스 통합 등 첨단 이슈에 관심이 큰 것으로 분석됐다.&lt;br&gt;&lt;br&gt;실험가는 AI를 시간 절약 등 실용적 목적에 주로 사용하는 층으로 부업으로는 금융투자나 코칭 등 AI와 어느 정도 관련이 있는 일을 했다. 신중론자는 AI를 아직 생소하게 여기는 집단이며, 디지털과 무관한 일을 부업으로 택하고 안정적 수입 등의 가치를 추구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“미친 X 주는대로  X먹지”… 국제 부부에 막말한 포장마차 주인</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/27/PMWZUHHOHBFGTJBEADUALLRQYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/27/PMWZUHHOHBFGTJBEADUALLRQYE/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 27 Aug 2024 08:27:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D3IZJ5CFRVAVBN726IRADOXHA4.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;국제부부 유튜버 '조이차니'가 포장마차에서 욕설을 들었다고 털어놓고 있다./ 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국제부부 유튜버가 서울의 한 포장마차를 갔다가 주인으로부터 욕설을 듣고 차별을 당한 사연이 뒤늦게 온라인에서 화제가 되고 있다.&lt;br&gt;&lt;br&gt;한국인 아내 조이는 작년 9월 유튜브 채널 ‘조이차니’를 통해 이 같은 사연을 털어놨다. 당시 그는 영국인 남편과 웨딩 촬영을 마친 뒤 서울 선릉역 인근 포장마차에 들렀다고 한다. 그는 “안녕하세요”라고 인사했으나, 주인 할머니는 이들의 인사를 받아주지 않았다.&lt;br&gt;&lt;br&gt;이 할머니는 “튀김 1인분에 몇 개냐”고 묻는 조이의 말에 “미친X이 몇 개면 어떡하게. 주는 대로 X먹지”라며 막말을 했다고 한다. 조이는 “기억이 제대로 안 날 만큼 장황하게 욕을 했다”며 “처음에 귀를 의심했을 정도였다. 그냥 ‘네 정해진 대로 주세요’라고 답했다”고 말했다.&lt;br&gt;&lt;br&gt;뒤이어 이 포장마차에 다른 손님들이 들어오자 주인의 태도는 사뭇 달랐다고 한다. 조이는 “다른 손님한텐 그러지 않았다. 존댓말로 인사도 하고 ‘뭐 드릴까요’라고 하시더라”라고 말했다.&lt;br&gt;&lt;br&gt;주인의 태도에 기분이 나빠진 이들은 음식을 마저 먹지 않고 돈을 내고 나오려고 했다. 그러나 둘러봐도 가격표가 보이지 않아 가격을 묻자, 주인은 “미친X이 6000원이잖아. 보면 몰라?”라고 답했다고 한다.&lt;br&gt;&lt;br&gt;조이는 “가격이 안 적혀 있어 여쭤본 건데 계속 중얼중얼 욕을 했다”고 했다. 남편 차니 또한 “조이 뒤를 따라 (포장마차를) 들어갔을 때 (주인 할머니가) 나를 째려보더라. 한국 분들은 지금까지 다 친절했는데, 딱 이분만 그랬다”고 당시 상황을 전했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3BSFSXC66RFLTDZZU4OJBZAUKU.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;국제부부 유튜버 '조이차니'가 포장마차에서 욕설을 들었다고 털어놓고 있다./ 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 영상은 온라인 커뮤니티에 퍼지며 주목을 받았다. 네티즌들은 “남자친구가 외국인이라 선입견을 갖고 대한 것 같다” “같은 한국인으로서 부끄럽다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;호주 남편과 결혼했다고 소개한 한 네티즌은 “2022년 남편과 종묘 주위를 걸어가다 남자 어르신들이 저에게 ‘더러운 XX’라고 욕을 했다. 호주에서도 가끔 남편에게 ‘왜 호주 사람이랑 결혼 안하냐’고 묻는 사람도 있다. 편견은 전 세계인의 문제”라며 국제커플이 겪는 차별에 공감한다는 반응을 보였다.&lt;br&gt;&lt;br&gt;영상이 뒤늦게 화제가 되자 조이는 지난 25일 글을 올려 “지금도 한국인 여성들이 자국에서 이런 혐오를 견디며 살아가고 있다는 걸 국제커플의 삶을 이야기하는 채널에서 한 번은 짚어주고 싶었다”고 했다. 이어 “(혐오가) 이 떡볶이 할머니만은 아닐 것이다. 우리 주위에 늘 있는 일이고 그렇기 때문에 이 모든 과오를 한 개인에게 지우고 싶지 않다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>열차 놓치고 화내다 역무원 낭심 걷어찬 연구원, 벌금 400만원</title>
+      <link>https://www.chosun.com/national/regional/2024/08/27/BQHUZ5QOLBAZZA32GSZJW7UESQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/27/BQHUZ5QOLBAZZA32GSZJW7UESQ/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 27 Aug 2024 08:33:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOIPX7HDNFCOHOGTNKRO6EMBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정시에 출발한 열차를 놓친 뒤 역무원에게 화풀이를 하다가 무릎으로 역무원의 낭심을 걷어찬 40대 연구원에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;27일 법조계에 따르면 대전지법 형사10단독 김태현 판사는 철도안전법 위반 혐의 등으로 재판에 넘겨진 한국재료연구원 소속 연구원 A(42)씨에게 벌금 400만원을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월 20일 오후 11시 40분쯤 대전시 동구 대전역 승강장에서 오후 11시 34분에 출발하는 열차를 놓쳤다는 이유로 승강장에 있던 30대 역무원 B씨에게 “열차가 11시 34분에 출발하는 게 맞냐? 관련 규정을 가지고 오라”고 행패를 부리고 B씨의 왼쪽 가슴 부위를 밀쳤다. A씨는 B씨가 승강장 중앙으로 이동하자, B씨의 등을 밀치고 오른쪽 무릎을 이용해 B씨의 낭심을 1회 걷어차는 등 전치 2주 치료가 필요한 상해를 입힌 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;김 판사는 “본인의 부주의로 열차를 놓쳤음에도 상식에 반하는 이의를 제기하고, 철도 종사자를 폭행해 직무집행을 방해했다”며 “다만 범죄 전력이 없고, 피해자와 합의한 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>커밍아웃 이유 밝힌 홍석천 “전 남친, 나 때문에 아내와 이혼”</title>
+      <link>https://www.chosun.com/national/people/2024/08/27/FKE4RVTNMNHGPHS7OFKIVNH3LU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/27/FKE4RVTNMNHGPHS7OFKIVNH3LU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 27 Aug 2024 08:31:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/76JVP3AL5VXAI6M4DATBVN4TFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 홍석천. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 홍석천(53)이 과거 커밍아웃(성소수자가 스스로 성정체성을 밝히는 것)을 했던 이유를 공개했다. 지난 2000년 스스로 동성애자임을 밝힌 홍석천은 국내 1호 커밍아웃 연예인이다.&lt;br&gt;&lt;br&gt;홍석천은 26일 방송된 채널A 예능프로그램 ‘절친 토큐멘터리-4인용식탁’에 출연해 “당시 3년 반 사귄 네덜란드 남자친구를 위해 커밍아웃을 했다”며 “사랑 때문에 한 것”이라고 말했다.&lt;br&gt;&lt;br&gt;홍석천은 “내가 네덜란드 남친이랑 3년 반을 살았다. 네덜란드가 성소수자를 인정하는 대표적인 나라다. 근데 우리나라는 유교의 끝판왕인데 얼마나 부딪히는 게 많냐”라며 “그 친구는 나를 만나기 전까지 자신의 정체성을 몰랐고, 클럽에서 나를 보고 첫눈에 반해 사랑을 시작했다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “일주일 후에 다시 만났는데 ‘난 아내가 있다’라고 하더라. 그래서 ‘난 못 만난다’라고 했는데 결론적으로 (남자친구와 아내가) 이혼을 하게 됐다”며 “이혼을 하고 나랑 관계를 다시 시작했다. 그게 고마웠는데 나에게는 짐이었다”고 했다.&lt;br&gt;&lt;br&gt;홍석천은 “항상 어디를 나가면 옆에 있는 사람이 누구냐고 물어보더라”라며 “그래서 ‘영어를 알려주는 친구다’라고 했는데 남자친구는 ‘난 이제 더 이상 너의 영어 선생님이 아니다’라며 서운해했다”고 했다.&lt;br&gt;&lt;br&gt;홍석천은 “그래서 90년대 말 뉴욕으로 사랑의 도피를 했다. 남친은 뉴욕에서 생활하고 난 한국에서 돈을 벌어서 남친에게 보냈다”며 “근데 4~5개월 후에 남자친구가 ‘새로운 남자친구를 만났다’고 했다. 헤어지고도 남자친구에게 1년 동안 돈을 보냈다”라고 했다.&lt;br&gt;&lt;br&gt;그러면서 홍석천은 “나는 사랑에 목숨 거는 스타일이라 그렇다”며 “이거 보고 나를 사랑한다는 분들이 있을 수 있다. 나는 쳐내진 않는다”고 농담을 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“부산을 글로벌 허브도시로!”…범시민추진협의회 출범</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/08/27/HYYY3EPMUBGWTHZVF5GNYK6OQY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/08/27/HYYY3EPMUBGWTHZVF5GNYK6OQY/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 27 Aug 2024 08:16:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ILXVQRZDZ5BEVJFDY76JPH3XSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'부산글로벌허브도시 범시민추진협의회'가 27일 오후 부산시청 1층 대강당에서 출범식을 갖고 있다./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘글로벌 허브도시 부산’ 조성을 위한 부산글로벌허브도시 범시민추진협의회가 27일 오후 부산시청 대강당에서 출범했다. 이날 출범식에는 박형준 부산시장, 안성민 부산시의회 의장, 하윤수 부산시교육감, 양재생 부산상의 회장 등 700여명이 참석했다. 이 협의회는 ‘부산 글로벌허브도시 특별법 제정’을 위한 시민공감대 형성 및 의지 결집을 주도하는 일을 할 예정이다.&lt;br&gt;&lt;br&gt;양재생 부산상의 회장, 박재율 지방분권균형발전 시민연대 상임대표, 백명기 글로벌부산시민연합 상임대표, 최효자 범여성추진협의회 상임대표, 허현도 중소기업중앙회 부산울산중소기업 회장 등이 상임공동대표를 맡았다. 양 상의회장이 상임공동대표 의장으로 추대됐다.&lt;br&gt;&lt;br&gt;또 부산시새마을회를 비롯한 국민운동 3개 단체와 시민사회 각계 단체대표가 공동대표를 맡고 지역 상공계, 학계, 종교계를 중심으로 주요 인사들이 고문단으로 참여했다. 박 시장은 이날 출범식에 참석, ‘부산 글로벌허브도시 특별법 제정’을 촉구하는 1호 서명을 하고 특별법 제정을 위한 각오를 다졌다.&lt;br&gt;&lt;br&gt;이날 협의회는 9월 정기국회 회기 내 특별법 제정 촉구, 100만명 서명운동, 범시민 궐기대회, 국회 방문 시민 결의대회 및 대규모 기자회견, 국회 여야 대표·원내대표·행정안전위 소속 의원 면담 등의 활동을 전개하기로 결의했다.&lt;br&gt;&lt;br&gt;협의회는 “올해 정기국회에서 특별법을 조속히 처리하도록 모든 노력을 다할 것”이라며 “부산 글로벌허브도시 추진이 울산·경남을 비롯한 영·호남 남부권 전체의 발전과 연계돼 국가균형발전, 국가경쟁력 강화와 직결되도록 해당 지역과 함께 해 나갈 것”이라는 ‘부산 글로벌허브도시 실현 부산시민 결의문’을 채택했다.&lt;br&gt;&lt;br&gt;‘부산 글로벌허브도시 특별법’은 지난 국회에서 발의됐으나 제21대 국회 종료로 폐기되었다가 제22대 국회 개원 직후 부산지역 국회의원 18명이 공동으로 참여한 여야 1호 법안으로 재발의돼 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>정진석, ‘노무현 명예훼손 혐의’ 2심서 벌금형으로 감형  </title>
       <link>https://www.chosun.com/national/court_law/2024/08/27/AWSYLPXUA5B6LE2JDN4PSLEP2U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/27/AWSYLPXUA5B6LE2JDN4PSLEP2U/</guid>
@@ -801,15 +900,6 @@
       <content:encoded>서울시가 강변북로와 올림픽대로 지하화 사업에 시동을 걸었다. 도심과 한강을 가로막고 있는 간선도로인 강변북로와 올림픽대로를 지하로 옮기고 지상에 녹지를 만들겠다는 것이다.&lt;br&gt;&lt;br&gt;서울시는 이 같은 내용의 ‘한강변 간선도로 재구조화 기본계획 수립 용역’을 다음 달 발주할 예정이라고 26일 밝혔다. 강변북로와 올림픽대로는 각각 1969년, 1986년 개통한 서울의 핵심 간선도로다. 한강을 따라 서울의 동서를 달린다. 하지만 평소 교통 체증이 잦고 도심과 한강을 단절하고 있다는 지적이 있었다.&lt;br&gt;&lt;br&gt;서울시가 밝힌 검토 대상은 강변북로 가양대교~천호대교 구간(26.7㎞)과 올림픽대로 행주대교~구리암사대교(36㎞) 구간이다. 강변북로·올림픽대로 거의 모든 구간이 지하화 검토 대상에 포함된 것이다. 서울시 관계자는 “어느 구간을 먼저 지하화할지, 지상 공간은 어떻게 활용할지 등을 검토해 2026년까지 기본 계획을 수립할 것”이라고 했다. 구체적으로 지하에 고속화 도로를 만들고 지상에는 신호가 있는 일반 도로와 녹지를 조성하는 방안이 유력하다. 지형에 따라 일부 구간은 덮개를 씌워 상부에 녹지를 조성하는 방안도 검토한다.&lt;br&gt;&lt;br&gt;현재 국토교통부도 강변북로 남고양IC~경부고속도로 양재IC 구간 지하에 고속화 도로를 짓는 사업을 추진 중이다. 서울시 관계자는 “국토부 사업과도 연계해 추진한다는 방침”이라고 했다.&lt;br&gt;&lt;br&gt;강변북로와 올림픽대로를 지하화하면 한강변 아파트 단지 등에서 쉽게 한강공원을 오갈 수 있게 된다. 내년 3월부터 운항하는 한강의 새로운 수상 교통수단인 ‘한강버스’를 타기도 편해진다.&lt;br&gt;&lt;br&gt;다만 수조원에 달할 것으로 예상되는 사업비와 공사 기간 교통 체증 문제 등을 해결해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>영정사진 된 결혼사진</title>
-      <link>https://www.chosun.com/national/regional/2024/08/27/ND5M7WRVD5GODKX6DM2DPTXBMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/27/ND5M7WRVD5GODKX6DM2DPTXBMY/</guid>
-      <dc:creator>수원=권상은 기자, 부천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 26 Aug 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DNNRRR2JIQWWZ6O45VZ5NA4SNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 23일 오전 경기 부천 중동의 호텔 화재현장에서 경찰과 소방, 국립과학수사연구원 관계자들이 합동감식을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 부천 호텔 화재 사고의 원인을 수사하고 있는 경기남부경찰청 수사본부가 26일 이 호텔의 업주 2명을 업무상 과실치사상 등 혐의로 입건하고 출국 금지 조치했다.&lt;br&gt;&lt;br&gt;이들은 호텔의 안전 관리를 소홀히 해 7명이 숨지고 12명이 다치는 화재 사고를 유발한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 종업원들도 조사하고 있다. 당시 이 호텔에는 종업원 1명이 근무하고 있었는데 “에어컨 쪽에서 타는 냄새가 난다”는 810호 투숙객의 말을 듣고도 바로 방 내부를 확인하는 등 조치를 하지 않은 것으로 파악됐다. 소방 당국은 810호 벽걸이 에어컨에서 누전 등 전기적 문제로 발생한 불꽃이 침대와 소파 등에 튀어 불길이 확산한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰 조사 대상에는 화재 현장에 출동한 부천소방서 소방대원들도 포함됐다. 경찰은 소방대원들의 구조·진화 과정을 확인하는 한편, 소방이 설치한 에어매트로 뛰어내린 투숙객 2명이 사망한 경위도 조사하고 있다. 화재 당시 한 투숙객이 7층에서 에어매트 한쪽 모서리 부분으로 뛰어내려 숨졌다. 그 과정에서 에어매트가 딱지처럼 뒤집어졌고 곧이어 뛰어내린 투숙객은 맨바닥에 떨어져 사망했다.&lt;br&gt;&lt;br&gt;한편 이번 화재로 숨진 피해자들의 발인이 이날 마무리됐다. 이날 오전 10시 순천향대 부천병원 장례식장에서는 오모(31)씨와 김모(28)씨의 합동 장례식이 진행됐다. 내년 초 결혼을 앞둔 예비 부부로 알려진 이들은 사고 당일 건물 8층 계단 인근에서 심정지 상태로 발견됐다. 유족은 두 사람이 미리 스튜디오에서 촬영한 결혼 사진을 영정 사진으로 걸었다.&lt;br&gt;&lt;br&gt;이번 화재로 숨진 대학생 송모(25)씨가 사망 직전 어머니에게 ‘가족들에게 모두 미안하고 사랑한다’는 내용의 문자메시지를 보낸 사실도 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>딥페이크에 477校 당했다? 하루종일 뒤숭숭</title>
       <link>https://www.chosun.com/national/education/2024/08/27/YQ342UHJAZGHFC3CWVYVOFJDUM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/08/27/YQ342UHJAZGHFC3CWVYVOFJDUM/</guid>
@@ -828,91 +918,12 @@
       <content:encoded>끝날 것 같지 않던 더위에 끝이 보이고 있다. 기상청은 27~28일 이틀간 한반도에 비교적 건조한 바람이 불어와 더위가 한풀 꺾이겠다고 26일 발표했다. 27일엔 약한 동풍이 불어오면서 강원 속초, 강릉 등 영동 지방은 낮 최고기온이 28~29도까지 떨어질 전망이다. 27일에서 28일로 넘어가는 밤사이에는 서울의 밤 최저기온이 열대야(밤 최저기온 25도 이상) 아래인 24도로 내려가는 등 전국 대부분 지역에서 열대야가 해소되겠다.&lt;br&gt;&lt;br&gt;낮밤으로 끈적끈적한 느낌이 들게 하던 높은 습도도 떨어지겠다. 올여름 내내 많은 습기를 머금은 서풍이 세게 불어 해가 떠 있는 낮에도 습도가 떨어지지 않았다. 사람이 실제로 느끼는 온도인 ‘체감온도’는 습도 55%를 기준으로 습도가 10%포인트 증가할 때마다 1도 증가한다. 같은 30도여도 습도가 높을 때 훨씬 덥게 느껴진다는 뜻이다. 기상청 단기 예보에 따르면 27~29일 밤에는 여전히 습도가 70%대로 높겠으나, 낮에는 40~50%대로 떨어지겠다. 낮 최고기온 역시 높은 수준을 유지하겠지만, 땀조차 마르지 않던 ‘찜통더위’는 줄어들 것으로 보인다.&lt;br&gt;&lt;br&gt;26일 기상청에 따르면 올여름 기온을 높이던 북태평양·티베트고기압, 뜨거운 해풍, 강한 일사량 등 3대 요인이 차츰 약화하면서 더위가 수그러들 가능성이 높아졌다. 기상청 관계자는 “9월까지는 덥겠지만 이전처럼 기온이 35도 안팎으로 오르는 무더위는 지나갔다고 봐도 되겠다”고 했다.&lt;br&gt;&lt;br&gt;우선 우리나라를 이중으로 덮고 있던 티베트고기압과 북태평양고기압이 수축하면서 북쪽에서 차고 건조한 공기가 들어올 틈이 생겼다. 한 달 넘게 이어지고 있는 열대야가 해소될 가능성이 커진 것이다. 다만 대기 하층은 따뜻하고 습한 공기가 남아 있어 아직 대낮의 더위를 완전히 몰아내지는 못할 전망이다.&lt;br&gt;&lt;br&gt;한반도 주변 해수면 온도는 현재 평년보다 2~4도 높은 가운데 서서히 낮아지고 있다. 한반도 내륙으로 불어오는 해풍이 ‘열풍’에서 ‘온풍’으로 바뀔 전망이다. 하지가 지나면서 일사량도 점차 줄어들고 있다.&lt;br&gt;&lt;br&gt;다만 28~30일 사이에는 태풍 ‘산산’이 일본을 통과하면서 강한 동풍이 불고, 이로 인해 태백산맥 서쪽 지역은 기온이 오를 것으로 보인다. 강한 바람이 산맥을 타고 넘으면서 덥혀지기 때문이다. 당분간 동풍이 불면 서울 등 태백산맥 서쪽 지방이, 서풍이 불면 영동 지방이 더워지는 현상이 번갈아 나타나겠다.&lt;br&gt;&lt;br&gt;‘산산’이 일본을 통과한 이후인 31일은 북풍이 잠시 불어 더위를 식혔다가, 다음 달 1일부터는 고온 다습한 서풍이 불며 다시 무더위와 열대야가 강화될 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[입에 착착 붙는 일본어] 벼락치기로 시험에 임하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/08/27/WYXRDTMIMBBRTDXX7G24SSARWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/08/27/WYXRDTMIMBBRTDXX7G24SSARWQ/</guid>
-      <description/>
-      <pubDate>Mon, 26 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JWP7OU5QJVADVHG4VFAPDEFMMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 새까맣다, 칠흑 같다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/08/27/EYB2M5S7QNEJ7JOBPLF5IAQGOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/08/27/EYB2M5S7QNEJ7JOBPLF5IAQGOY/</guid>
-      <description/>
-      <pubDate>Mon, 26 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CGP22JF2NGLNANX7J55DVZU4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[두근두근 뇌 운동] [2450] 강세 바꿔 읽기</title>
       <link>https://www.chosun.com/national/nie/2024/08/27/BYHLBMP5RRH3ZPXVHY4PM7MEAE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/27/BYHLBMP5RRH3ZPXVHY4PM7MEAE/</guid>
       <description/>
       <pubDate>Mon, 26 Aug 2024 15:40:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EPAHYWKH5VAV5PICEAJLLNJXDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] eat up</title>
-      <link>https://www.chosun.com/national/nie/english/2024/08/27/CX3Z3N7YGFGXZNIIG2EX4KBSKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/08/27/CX3Z3N7YGFGXZNIIG2EX4KBSKI/</guid>
-      <description/>
-      <pubDate>Mon, 26 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YBOZR43BEVFNVC4UVRZ7JT3CJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 차담(茶談)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/08/27/6HLL6NYAORG3RLK3X4TF3NJCBE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/08/27/6HLL6NYAORG3RLK3X4TF3NJCBE/</guid>
-      <description/>
-      <pubDate>Mon, 26 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LLPF3GYC3JBMNGWGT7NKJUNL7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>가장 비싼 서울 산후조리원 ‘2주 4000만원’ …저렴한 곳은 어디</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/27/NKLEEO5IL5DTBN5YVCNRMHUW5E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/27/NKLEEO5IL5DTBN5YVCNRMHUW5E/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 26 Aug 2024 15:36:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/447IP7453NP6DNKLN6CL54ZO2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신생아가 엄마 손을 잡고 있는 모습. 기사와 관련 없음./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구에 있는 산후조리원의 특실 2주 이용요금이 4000만원이 넘는 것으로 나타났다.&lt;br&gt;&lt;br&gt;지난 25일 서울시의 ‘산후조리원 이용요금’ 현황 자료에 따르면 8월 기준 서울 강남구에 위치한 A산후조리원 특실 요금은 2주에 4020만원에 달했다. 이 산후조리원 일반실 가격도 2520만 원이다.&lt;br&gt;&lt;br&gt;이용요금이 상위 3곳인 산후조리원은 모두 강남구에 쏠려 있었다. 강남구 B산후조리원 특실 가격은 2700만 원, C산후조리원 특실은 2500만 원 순이다.&lt;br&gt;&lt;br&gt;서울 내 산후조리원 112곳의 2주 평균 이용료는 일반실은 465만원, 특실(87곳)은 746만원으로 집계됐다. 지난 2월 조사 때와 비교하면 반년 새 일반실은 12만원, 특실은 41만원 가까이 올랐다.&lt;br&gt;&lt;br&gt;자치구별로 가격 차이가 컸다. 송파구 공공산후조리원 일반실 요금은 209만원으로 서울시 내에서 가장 저렴했다. 가장 비싼 강남구 A산후조리원의 약 20분의 1 수준이다.&lt;br&gt;&lt;br&gt;특실 중 가장 저렴하게 이용할 수 있는 곳은 양천구 D산후조리원으로 2주 이용료가 300만원이었다.&lt;br&gt;&lt;br&gt;일반실 평균 이용료가 가장 비싼 곳은 강남구였다. 강남구에 위치한 산후조리원 16곳 평균 이용료는 910만원이었다. 이어 ▲강서구 518만원 ▲종로구 470만원 ▲서초구 460만원 등 순이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재미있는 과학] 중국에 내린 ‘천년 만의 폭우’ 달팽이 껍데기에 흔적 남겼죠</title>
-      <link>https://www.chosun.com/national/nie/2024/08/27/A4RZJWYIUVFHJME6GSCWUSO3OY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/27/A4RZJWYIUVFHJME6GSCWUSO3OY/</guid>
-      <dc:creator>오가희 과학 칼럼니스트, 기획·구성=오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 26 Aug 2024 15:30:00 +0000</pubDate>
-      <content:encoded>부산은 지난달 25일부터 지난 19일까지 26일 연속으로 열대야 현상이 나타났어요. 서울은 지난달 21일부터 지난 23일까지 34일 연속으로 열대야가 이어졌지요. 두 지역 모두 1900년대 기상 관측을 시작한 이후, 역대 최장 연속 열대야 일수를 기록했다고 해요. 이처럼 무더운 올해 여름 날씨는 역사적 기록으로 남아 후대에 전해지겠죠.&lt;br&gt;&lt;br&gt;그런데 과학자들은 자연에 남은 흔적에서 과거 기후에 대한 단서를 찾고 있대요.&lt;br&gt;&lt;br&gt;&lt;b&gt;달팽이와 폭우&lt;/b&gt;&lt;br&gt;&lt;br&gt;중국 시안자오퉁대의 지구환경변화연구소 옌훙 교수팀은 달팽이 껍데기에 주목했어요. 달팽이는 알에서 태어날 때부터 단단한 껍데기를 가지고 있어요. 몸이 커질 때마다 껍데기도 커지는데, 한번 만들어진 껍데기는 성질이 변하지 않죠. 연구진은 껍데기에 당시 기후 환경을 추측할 수 있는 정보가 담겨 있을 것이라 생각했어요.&lt;br&gt;&lt;br&gt;2021년 7월 중국 허난성 정저우시에는 폭우가 내렸는데요. 당시 사흘간 연평균 강수량에 버금가는 617.1mm의 비가 쏟아져 많은 인명 피해가 발생했어요. 중국에선 ‘천 년 만의 폭우’라는 말도 나왔다고 해요. 연구진은 이 기록적인 폭우가 내리기 전인 6월과 폭우가 끝난 후인 9월, 12월에 각각 잡은 달팽이 껍데기를 분석했어요. 그 결과 달팽이 껍데기에서 폭우의 흔적을 발견해 그 내용을 지난달 한 과학 전문 학술지에 발표했습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TPXDNAGI6JDRDGQQKG5ZEBT2PI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;달팽이 껍데기는 산소와 탄소, 칼슘 원자로 이뤄진 탄산칼슘으로 만들어져요. 이 중 산소를 자세히 들여다보면 조금씩 질량수(양성자 수와 중성자 수의 합)가 달라요. 산소 원자핵은 중성자와 양성자로 구성되는데, 중성자 수가 다르기 때문이에요.&lt;br&gt;&lt;br&gt;중성자 수는 다르지만, 양성자 수는 같아서 원자 번호가 같고 화학적 성질도 같은 것을 동위원소라고 해요. 자연에는 질량수가 16인 ‘산소-16′과 질량수가 17인 ‘산소-17′, 18인 ‘산소-18′이 섞여 있습니다.&lt;br&gt;&lt;br&gt;과학자들은 산소 동위원소의 비율을 조사하면 과거 기후를 알 수 있을 것이라고 생각했어요. 기온이 올라가면 질량수가 상대적으로 가벼운 산소-16이 산소-18보다 빨리 증발해요. 그러면 지상에 있는 물에는 산소-18이 많이 남게 됩니다. 반대로 비가 많이 오면 수증기가 잘 증발하지 못하기 때문에 지상의 물에 산소-16도 많이 남아있게 됩니다.&lt;br&gt;&lt;br&gt;생물은 지상에 있는 물을 섭취하며 생명을 유지합니다. 달팽이도 물을 마시죠. 달팽이가 마신 물에 들어 있던 산소는 껍데기를 만드는 데 쓰여서 그대로 남게 되죠. 껍데기에 남아 있는 산소-16과 산소-18의 비율을 확인하면 달팽이가 물을 마실 당시 기후가 습했는지 더웠는지 등을 추측할 수 있습니다.&lt;br&gt;&lt;br&gt;그렇다면 연구진이 분석한 달팽이 껍데기 속 산소-16과 산소-18의 비율은 어땠을까요? 연구진이 폭우가 내리기 전인 6월에 잡은 달팽이의 껍데기에는 산소-18이 많이 들어있었어요. 하지만 폭우가 내린 뒤인 9월과 12월에 잡은 달팽이에는 산소-16이 많이 들어있었답니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;종유석&lt;/b&gt;·&lt;b&gt;빙하&lt;/b&gt;·&lt;b&gt;꽃가루에도 과거 기후 흔적 남아&lt;/b&gt;&lt;br&gt;&lt;br&gt;석회동굴에서 볼 수 있는 종유석을 통해선 더 머나먼 과거의 기후를 유추할 수 있다고 해요. 종유석은 동굴 천장에 고드름같이 달려 있는 탄산칼슘 덩어리를 말해요. 동굴 천장에서 지하수가 떨어지는데, 지하수에 녹아 있던 탄산칼슘 성분이 시간이 지나며 축적되면서 층층이 쌓이고 기둥처럼 커지는 것이지요. 탄산칼슘층은 아주 오랜 시간에 걸쳐 겹겹이 쌓이는데요. 그런 만큼 각 층에 들어 있는 산소 동위원소를 분석해 당시 기후를 추측할 수 있답니다.&lt;br&gt;&lt;br&gt;빙하를 통해서도 과거 기후를 살펴볼 수 있어요. 눈이 계속 내리면 눈과 눈 사이 빈 공간에 공기가 들어갑니다. 그래서 수백에서 수천 년 동안 쌓인 눈이 얼음덩어리로 변한 빙하에는 미세한 공기 방울들이 무척 많이 있어요. 남극대륙의 빙하도 마찬가지입니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T55YKVJLRBCQHAVG7XDF3Z4URQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;남극 빙하 중에서 80만년 전 형성된 공기 방울을 갖고 있는 것도 발견됐어요. 이처럼 남극 곳곳의 빙하를 통해 과학자들은 현재부터 80만년 전까지 남극 대기의 이산화탄소 농도를 추정할 수 있었어요. 그리고 이산화탄소는 온실 효과를 일으키는 기체인 만큼 과학자들은 이산화탄소 농도를 토대로 과거 기후 변화와 특징을 살펴보고 있어요.&lt;br&gt;&lt;br&gt;식물 번식을 책임지는 꽃가루도 과거 기후를 알려주는 단서입니다. 꽃가루는 식물마다 형태가 다릅니다. 번식 방법에 따라 바람에 잘 날아가는 모양도 있고 곤충 다리에 잘 달라붙는 표면을 가진 것도 있죠. 꽃가루 모양에 당시 환경이 반영된 거예요. 그래서 호수나 늪지 퇴적물에 화석으로 남은 꽃가루를 조사하면 당시 해당 지역이 추워서 침엽수가 많았는지 등을 확인할 수 있다고 합니다.&lt;br&gt;&lt;br&gt;그런데 간혹 엄청나게 작은 크기의 꽃가루가 그 형태 그대로 화석으로 남아 있는 경우도 있어요. 꽃이 번식하려면 꽃가루가 다른 꽃이나 암술까지 안전하게 이동해야 해요. 그래서 꽃가루 표면은 스포로폴레닌이라는 단단한 단백질로 덮여 있어요. 그 덕분에 고온·고압 등 극한의 상황에서도 형태를 잃지 않고 화석으로 남아 있을 수 있답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5BXMDY6LK5H4LJC6KC3SOSCSOQ.png?width=1600&amp;height=900&amp;auth=c61bdc8873fddbbd6f9250276f4e8adde9e58753c38add62b44487f2e978a8fb&amp;smart=true" type="image/png" height="900" width="1600">
-        <media:description type="plain">그래픽=진봉기</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>[신문은 선생님] [디자인·건축 이야기] 1900년 파리 만국박람회 위해 지은 전시장… 이번 올림픽선 펜싱·태권도 경기장으로 쓰여</title>
-      <link>https://www.chosun.com/national/nie/2024/08/27/7LORLZNENBFTVDW5SL6ZQD4KDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/27/7LORLZNENBFTVDW5SL6ZQD4KDA/</guid>
-      <dc:creator>전종현 디자인·건축 저널리스트</dc:creator>
-      <description/>
-      <pubDate>Mon, 26 Aug 2024 15:30:00 +0000</pubDate>
-      <content:encoded>최근 막을 내린 2024 파리 올림픽은 친환경을 표방하며 새 경기장을 짓기 보다 유명 관광 명소를 경기장으로 임시로 활용했어요. 에펠탑 바로 앞 마르스 광장에서는 비치발리볼, 루이 16세와 마리 앙투아네트가 처형된 콩코르드 광장에서는 브레이크댄스와 스케이트보드, 베르사유 궁전 정원에서는 승마 경기가 펼쳐졌습니다. 특히 펜싱과 태권도가 열린 그랑 팔레(Grand Palais)는 보수 공사를 위해 문을 닫은 지 3년여 만에 올림픽 경기를 위해 임시 개장해 눈길을 끌었어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FYL2BGAYPFCZJNW2R4JRMZND24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 2024 파리 올림픽의 태권도 경기가 그랑 팔레에서 열리고 있어요. 그랑 팔레는 천장이 유리로 만들어져 있어 햇빛이 환하게 들어옵니다. 다만 이번 파리 올림픽에선 경기를 위해 유리 천장에 햇빛 가림막을 설치했대요. /올림픽사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그랑 팔레는 1900년 파리 만국박람회를 위해 지어진 건물입니다. 프랑스 정부는 만국박람회에서 자국의 산업과 기술뿐 아니라 문화적인 성취를 뽐내려 했어요. 그래서 프랑스 미술의 과거와 현재를 보여주는 대형 전시회를 기획했고, 이를 선보이는 장소로 신축한 곳이 바로 그랑 팔레입니다.&lt;br&gt;&lt;br&gt;당시 프랑스와 미국에서는 보자르(Beaux-Arts)라는 건축 양식이 유행했어요. 보자르 양식은 오랜 전통과 권위를 자랑하는 파리의 국립미술학교 ‘에콜 데 보자르’에서 이름을 따왔어요. 좌우 대칭과 정교하고 화려한 장식이 보자르 양식의 특징이었어요. 정부 청사나 기차역 등 대규모 공공 건축물에 보자르 양식이 많이 쓰였어요. 가로 길이 240m에 달하는 그랑 팔레도 외관 전체가 보자르 양식으로 돼 있어요.&lt;br&gt;&lt;br&gt;그런데 그랑 팔레 안으로 들어가면 전혀 예상치 못한 공간이 펼쳐집니다. 바로 길이 200m에 달하는 중앙홀입니다. 정교한 강철 뼈대로 아치형 지붕을 만들었어요. 전체 공간이 시원하게 탁 트인 느낌이 들지요. 특히 천장은 유리로 만들어져 개방감을 극대화합니다. 유리 천장 표면적은 1만7500㎡나 되며, 이를 통해 자연광이 건물 안으로 쏟아져 들어옵니다.&lt;br&gt;&lt;br&gt;그랑 팔레는 제1차 세계대전 때는 군 병원으로 잠시 쓰이기도 했지만, 지금도 파리를 대표하는 전시장이에요. 1993년 유리 천장 일부가 무너지면서 10여 년간 보수 공사를 진행한 후 재개장하는 사건도 있었어요. 패션 브랜드 샤넬이 그랑 팔레에 인공 해변, 로켓 발사대 등 정교한 세트를 지어 패션쇼를 진행해 화제를 모으기도 했어요.&lt;br&gt;&lt;br&gt;그랑 팔레는 지난 2020년 12월 파리 올림픽을 위해 총 4억6600만유로(약 6900억원)를 들여 대규모 보수 공사를 시작했는데요. 2025년 봄부터 완전히 재개장해 예전처럼 각종 전시회와 박람회 등이 열릴 예정입니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [사소한 역사] 불로장생 꿈꾼 진시황, 수은이 약인 줄 알고 꾸준히 먹다 중독됐대요</title>
-      <link>https://www.chosun.com/national/nie/2024/08/27/NTKYTKLENVD67K7QIWFTQJF3XQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/27/NTKYTKLENVD67K7QIWFTQJF3XQ/</guid>
-      <dc:creator>김현철 서울 영동고 역사 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 26 Aug 2024 15:30:00 +0000</pubDate>
-      <content:encoded>최근 중국에서 불법 건강보조식품이 밀반입돼 적발됐어요. 이 물건은 과거에도 국내에 들어왔을 때 기준치의 20배가 넘는 수은이 검출되어 논란이 됐었대요. 현재 우리 몸에 해로운 물질로 알려진 수은을 과거에는 약으로 섭취했었다고 합니다. 인류는 수은을 어떻게 사용했을까요?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PUT5D4LKOBCJ3DJYZ6L25XTVVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수은으로 이뤄진 붉은색 광물 '주사'. 동서양 모두 고대부터 주사에서 수은을 추출해 다양하게 활용했대요. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수은은 주사라는 광물에서 얻을 수 있어요. 주사는 우리가 도장을 찍을 때 사용하는 ‘인주’의 주재료이기도 해요. 고대 중국에선 주사를 사용해 만든 약을 불로장생약으로 여겼대요. 불로초를 찾았던 진시황(기원전 259~기원전 210)도 주사로 만든 약을 꾸준히 복용한 결과 수은 중독에 빠진 것으로 알려져 있습니다. 불로장생을 꿈꿨지만 49세에 죽고 말았죠. 이 시기에 동서양 모두 주사를 가열해 수은을 추출할 수 있다는 걸 발견했다는 기록도 남아 있습니다.&lt;br&gt;&lt;br&gt;로마제국에선 주사를 캐거나 주사로 수은을 만드는 사람들이 병에 걸리고 오래 못 산다는 걸 발견하곤 범죄자나 노예들을 수은 생산에 투입했대요.&lt;br&gt;&lt;br&gt;수은은 도금에 활용되기도 했어요. 도금은 물체 표면에 다른 물질을 입히는 걸 말하죠. 고구려와 백제는 금과 수은을 이용한 아말감(수은과 다른 금속의 합금) 기법으로 구리로 만든 불상을 도금하는 기술이 뛰어났다고 해요. 금을 수은에 녹인 뒤 불상에 입히면 수은은 날아가고 금만 남는다고 합니다. 이런 수은 아말감 기법은 일본에도 전파됐어요. 일본 나라 시대를 상징하는 불상인 도다이지(東大寺) 대불도 이 기술이 사용됐대요.&lt;br&gt;&lt;br&gt;아말감은 현대에도 치과 치료의 재료로 사용되고 있어요. 치과 치료용 아말감은 안전하고 가격도 저렴한 장점이 있지요. 그런데 수은을 사용한다는 점 때문에 불안해서 더 비싼 재료로 치료하고 싶어 하는 환자들도 있대요.&lt;br&gt;&lt;br&gt;수은은 화장품으로 사용되기도 했어요. 수은이 피부에 들어가면 혈액 이동을 막아 피부가 창백해졌는데, 이를 미백 효과로 착각했던 것이죠. 영국 여왕인 엘리자베스 1세도 수은을 화장품으로 썼어요. 수은 때문인지 말년에 피부 상태가 좋지 않았고 지나치게 창백했다고 합니다.&lt;br&gt;&lt;br&gt;수은은 온도계나 형광등 등 다양한 물품을 만드는 데도 사용됐어요. 그러다 과학과 의학의 발달로 수은 중독 문제가 점점 알려지면서 점차 사용이 줄었어요. 수은 중독에 대한 경각심을 갖게 한 대표적 사례는 미나마타병이에요. 수은은 생물의 몸속에 쌓이는 성질이 있어 강과 바다로 흘러들어 가면 물고기나 조개 몸속에 쌓이게 됩니다. 1950년대 일본 구마모토현의 미나마타시에선 질소 비료 공장에서 무단 방류한 메틸수은이 물고기와 조개에 축적됐고, 이를 먹은 사람들이 마비나 정신 지체 증세를 보였습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 8월 27일</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/27/N6ZQDUF3LZG3XH7APMP4NCZBFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/27/N6ZQDUF3LZG3XH7APMP4NCZBFU/</guid>
-      <description/>
-      <pubDate>Mon, 26 Aug 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3WIMNI6SVNG7NL7RRLXIWZH5QY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>노인 돌보고 청소일 하며 30년간 모아… 전 재산 기부 약정한 50대</title>
@@ -922,14 +933,6 @@
       <description/>
       <pubDate>Mon, 26 Aug 2024 15:30:00 +0000</pubDate>
       <content:encoded>“늘 밑바닥에 있었던 저는 누구보다 약자들의 어려움을 잘 압니다.”&lt;br&gt;&lt;br&gt;학교법인 서강대학교는 이로사(56)씨가 평생 모은 전 재산을 사후(死後) 재단에 기부하겠다는 약정서에 서명했다고 26일 밝혔다. 30여 년 동안 청소 노동자, 요양 보호사 등으로 일하며 경기 평택의 한 아파트를 장만했다는 이씨는 “하느님께서 제게 빌려주셨던 모든 것을 이 인생 순례를 마치는 날 모두 돌려드리겠다”는 기부 소감을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RPJ2A33IM5DWTC4T4HFFL2WLVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서강대에 평생 모은 재산을 기부하겠다고 약정한 이로사(왼쪽)씨와 유재명 서강대 이사장. /서강대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1968년 인천에서 태어난 이씨는 6세 때 이사한 서울 양천구 신정동에서 중학교까지 졸업했다. 이후 1980년대 목동 신시가지가 개발되면서 평택으로 떠밀리다시피 이사를 왔다. 고등학교를 졸업하면서부터 이씨의 삶은 순탄치 않았다. 뇌출혈로 쓰러진 어머니를 20년 가까이 돌봐야 했다. 이씨는 “요양 보호사로만 20년을 일했고, 작년까지 한 대기업에서 청소 노동자로 4년을 일했다”며 “백화점 판매직부터 급식 조리사까지 밑바닥에서 안 해본 일이 없다”고 말했다.&lt;br&gt;&lt;br&gt;이씨는 결혼하지 않았다. 그는 본지 통화에서 한국 사회의 이른바 ‘변두리’에서 여성이자 약자로서 살아온 자신의 삶을 “기구했다”고 표현했다. “저는 낮은 위치에서 삶을 살아왔습니다. 하지만 재물이 조금이라도 생기면 저보다 약한 사람들을 돕고 싶다는 생각을 했습니다.”&lt;br&gt;&lt;br&gt;원망과 외로움이 아닌 감사와 나눔의 삶으로 그를 이끈 원동력은 가톨릭 신앙이었다. “카이사르(황제)의 것은 카이사르에게 돌리고 하느님의 것은 하느님께 돌려라.”(마태오 22장 21절) 복음서에 기록된 예수 그리스도의 말씀이 이씨에겐 평생 위로의 빛이었다고 한다.&lt;br&gt;&lt;br&gt;이씨는 지난해 5월 예수회 대학인 서강대 법인에 기증 의사를 밝혔다. 처음에는 어디에 기증해야 할지 몰라 전전긍긍하다가 예수회에서 발간하는 소식지를 보고 서강대에 연락하게 됐다고 한다. 가톨릭 계통 고교 재학 시절 은사였던 수사(修士)의 가르침이 기억에 남아 예수회 재단에 기부하게 됐다. 이씨는 “약정서에 서명하니 이제 내 집이 아닌 ‘하느님의 집’에 기거하는 마음이 들어 더 평안하다”며 “작은 봉헌이 큰일처럼 알려지게 돼 부끄럽다”고 했다.&lt;br&gt;&lt;br&gt;서강대 우재명 이사장은 “라틴어로 로사(Rosa)는 장미인데, 장미의 꽃말이 존경과 명예”라며 “이로사 자매님께 온 서강대의 마음을 담아 존경과 명예의 뜻을 전한다”고 했다. 이어 “자기로 말미암아 타인을 명예롭게 하는 이타적인 사람인 이로사님은 서강대가 추구하는 인재상과도 일치한다”며 “훗날 서강대 학생들에게 더 많은 교육 기회를 제공하는 데 이로사님의 유산이 사용될 수 있도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 법무부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/08/27/GSJNQNLYLJCMTGWPENG5YOZIM4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/08/27/GSJNQNLYLJCMTGWPENG5YOZIM4/</guid>
-      <description/>
-      <pubDate>Mon, 26 Aug 2024 15:30:00 +0000</pubDate>
-      <content:encoded>▲법무부◇서기관 임용▷양성평등정책담당관 장인자&lt;br&gt;&lt;br&gt;▲인사혁신처◇고위공무원(국장급) 임용▷국가공무원인재개발원 글로벌교육부장 전혜란&lt;br&gt;&lt;br&gt;▲행정안전부◇과장급 전보▷재난대응훈련과장 조수창&lt;br&gt;&lt;br&gt;▲병무청◇서기관 승진▷병역자원국 과학기술서기관 박의주▷청장실 서기관 변인경▷감사담당관실 서기관 김삼학▷기획조정관실 서기관 김연홍▷기획조정관실 서기관 석흥길▷운영지원과 서기관 김종수▷입영동원국 서기관 김희숙▷사회복무국 서기관 김준희▷사회복무국 서기관 양정윤▷사회복무국 서기관 이원룡&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>법원, ‘MBC 대주주’ 방문진 새 이사 임명 집행정지 인용</title>
