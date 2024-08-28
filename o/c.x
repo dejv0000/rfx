@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 보건의료노조 총파업 예정 62곳 중 59곳 교섭 타결</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/08/29/OBZ5HVW3VRA2VHGZMM6V2XAC7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/29/OBZ5HVW3VRA2VHGZMM6V2XAC7A/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Aug 2024 22:48:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WXAP5FN6XLDJZAZIWJRB7JCRHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국보건의료산업노동조합(보건의료노조) 총파업을 하루 앞둔 28일 서울 성동구 한양대학교 병원에서 열린 파업 전야제에서 한 환자가 전야제 현장을 바라보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 총파업이 예정돼있던 전국보건의료노조 소속 의료 기관 62곳 중 59곳의 노사 교섭이 타결됐다. 전날 진료 보조(PA) 간호사의 의료 행위를 합법화하는 내용이 담긴 간호법이 국회 본회의에서 통과된 것이 영향을 미친 것으로 분석된다.&lt;br&gt;&lt;br&gt;중앙노동위원회는 보건의료노조 조정 회의에서 한양대의료원 등 병원 59곳이 조정안을 수락해 임금 및 단체 협약에 극적 합의했다고 이날 밝혔다. 노사 조정에 성공한 의료 기관은 고대의료원(안암·구로·안산), 이화의료원(목동·서울), 중앙대의료원(서울·광명), 한양대의료원(서울·구리), 한림대의료원(한강·강남·평촌·동탄·춘천), 강동경희대병원, 강동성심병원, 한국원자력의학원, 국립중앙의료원, 서울시동부병원, 대전을지대병원, 대전공공어린이재활병원, 성가롤로병원, 민간중소병원 11곳, 지방의료원 26곳 등 59곳이다. 이들은 이날 오전 7시로 예정돼 있던 파업을 철회하고 정상 근무한다.&lt;br&gt;&lt;br&gt;앞서 노조는 처우 개선과 임금 인상, 의료 정상화 등을 요구하며 조건이 받아들여지지 않을 경우 이날부터 파업에 들어가겠다고 예고했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>차인표 “위안부 소설, 옥스퍼드대 필독서 지정? 내가 제일 놀랐다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/29/XPZ6T7GLRZE4FAJRVCZO3MF3NI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/29/XPZ6T7GLRZE4FAJRVCZO3MF3NI/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Aug 2024 22:34:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RFDXZJG7LNO4PE6KSSDMS3MFMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 겸 소설가 차인표. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소설가로 변신한 배우 차인표가 위안부 피해자 문제를 다룬 소설을 쓰게 된 계기를 밝혔다.&lt;br&gt;&lt;br&gt;차인표는 28일 방송된 tvN ‘유 퀴즈 온 더 블럭’에 출연해 자신을 “배우 겸 소설가”라고 수줍게 소개했다.&lt;br&gt;&lt;br&gt;이날 진행자 유재석은 “저도 뉴스를 보고 ‘이게 웬일이야’ 했다”며 차인표의 소설 ‘언젠가 우리가 같은 별을 바라본다면’이 영국 명문 옥스퍼드 대학 필독서로 지정된 것을 축하했다. 그러면서 “소식을 들은 지인들이 놀랐을 것 같다”고 했다.&lt;br&gt;&lt;br&gt;이에 차인표는 “뭐 축하하는 사람들도 있고 그런데, 그럴 때마다 사실 제가 제일 놀랐을 거 아니냐”라며 재치있게 말했다. 이어 “재석 씨가 저를 ‘작가’라고 부르는데 굉장히 어색하다”라고 했다.&lt;br&gt;&lt;br&gt;차인표는 필독서 지정과 관련, 옥스퍼드대 측으로부터 직접 연락을 받았다고 말했다. 그는 “옥스퍼드대 교수님이 연락해서 ‘3, 4학년과 석박사 학생 교재로 쓰고 싶은데 허락하겠느냐’고 제안하길래 감사하다고 했다”고 당시 상황을 전했다. 현재 옥스퍼드에 있는 43개 칼리지 도서관에 차인표의 책이 한 권씩 비치되어 있다고 한다.&lt;br&gt;&lt;br&gt;차인표는 이 소설을 쓰게 된 계기도 밝혔다. 일본군 위안부로 1942년 캄보디아로 끌려갔던 ‘훈 할머니’가 55년 만에 고향을 찾은 장면을 보고 소설을 쓰게 됐다고 한다.&lt;br&gt;&lt;br&gt;그는 “1997년 8월 4일이었다”라며 “김포공항 입국장 문이 딱 열리니까 자그마한 할머니 한 분이 나오더라”라고 했다. 이어 “한국말은 잊어버리셨는데 한국말은 더듬더듬 부르시더라”라며 “그 모습을 보면서 수많은 여성들이 그런 일을 당했잖나. 그 역사를 생각하며 여러 감정이 교차하더라. 슬픈 감정과 일본군들에 대한 분노, 우리 여성을 지키지 못한 부끄러움 등이었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3VT5ZCZCI5LH7MWVLAGTZ7QLXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제1회 '옥스퍼드 한국문학 페스티벌'에서 강연하는 차인표. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;차인표는 “이런 감정이 몇 달 동안 진정이 안돼 ‘소설로 써보자’고 한 것”이라고 했다.&lt;br&gt;&lt;br&gt;그는 10년이라는 긴 시간에 걸쳐 소설을 완성했다고 밝혔다. 차인표는 “소설 작법도 모르고 기초 지식이 없으니까 뒤늦게 배우기 시작했다”라며 “독학하고 책을 사서 읽고 온라인 강의도 들었다”고 했다.&lt;br&gt;&lt;br&gt;차인표는 소설을 쓰는 동안 어머니의 조언이 큰 도움이 됐다고 했다. 그는 “어머니가 질문을 많이 하셨고, ‘작가에게 있어서 상상력을 중요하지만 사실에 입각하지 않은 상상력은 모래 위에 쌓은 성과 같다’고도 해주셨다”며 “어디서부터 시작해야할지 출발점을 찾는 기준이 됐다”고 했다. 이후 그는 소설의 배경이 되는 백두산도 실제로 찾아가보고, 열심히 자료 조사를 하기도 했다고 덧붙였다.&lt;br&gt;&lt;br&gt;그는 위안부 피해 할머니들이 있던 ‘나눔의 집’을 찾기도 했다고 한다. 그는 “2007년 4월 아주 화창한 봄날이었다. 마침 제가 간 난 할머니들이 한복을 다 입으시고, 그 당시 아홉분 계셨는데 마당에 나와 일렬로 앉아 계시더라”라며 “조선희 사진작가님이 영정사진을 찍어주는 자원봉사를 하러 오신 거였다”고 당시를 떠올렸다.&lt;br&gt;&lt;br&gt;차인표는 당시 할머니들의 모습을 보고 ‘이렇게 한 분씩 한 분씩 돌아가시겠구나. 세상을 떠나시고나면 아무도 이 이야기를 해 줄 사람이 없겠구나. 그러면 다음 세대애겐 누가 이 이야기를 해주지’라는 생각을 했다고 한다.&lt;br&gt;&lt;br&gt;그는 “처음 소설 쓸 때는 단순하게 할머니들에게 이런 일을 한 (이들에게) 복수하고 싶었다”라며 “소설을 쓰며 마음이 바뀌었고 정말 필요한 게 무엇인지 알게 됐다”고 했다. 그는 “할머니 마음을 진정한 사과는 못 받으셨어도 편하게 해드리고 싶더라”라며 “이분들의 마음을 소설로라도 편하게 해드리고 싶다는 목적이 생겼다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] “사촌방·지인방·여군방… 음란물 방이 끝없이 나왔다”</title>
       <link>https://www.chosun.com/national/education/2024/08/29/MJRALJKBCVEC7OVIY5UBKUG4KI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/08/29/MJRALJKBCVEC7OVIY5UBKUG4KI/</guid>
@@ -892,15 +910,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6SOPKOGV6BDUXBDEOJUU63225Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이미지 합성(딥페이크·Deepfake) 기술을 악용, 불법 음란물을 제작하는 디지털 성범죄가 기승을 부리는 가운데 세종 지역 학교에서도 관련 범죄가 있었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;28일 세종시교육청에 따르면 올들어 관내 학교에서 딥페이크 음란물 관련 신고가 두 건 접수됐다. 한 건은 지난 1월 한 고등학교에서 발생한 사안으로 학생 한 명이 합성 음란물을 제작한 것으로 알려졌다. 이에 교육청과 해당 학교 측은 학교폭력심의위원회를 열고 가해 학생에 대한 사회봉사활동 등 자체 징계를 내린 것으로 파악됐다.&lt;br&gt;&lt;br&gt;또 지난달 25일 교내 딥페이크 음란물 사건으로 보이는 1건이 신고돼 현재 교육청에서 심의가 진행 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;세종교육청 관계자는 “아직 조사 중인 사안이라 구체적인 내용을 밝힐 수 없는 상황”이라고 말했다.&lt;br&gt;&lt;br&gt;최근 딥페이크 피해 확산에 대한 불안감이 커지자 세종교육청은 전체 학교에 대한 피해 사례 전수조사에 나섰다.&lt;br&gt;&lt;br&gt;교육청은 각 학교에 딥페이크 성범죄 관련 예방교육 강화를 주문하고, 피해가 발생할 경우 대처 방법을 안내하도록 했다. 이와 함께 법률·심리 상담 등을 지원하고, 가정통신문을 발송해 유사 사건의 재발을 막는다는 방침이다.&lt;br&gt;&lt;br&gt;세종경찰청에 정식으로 접수된 딥페이크 관련 신고는 아직 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;전교조 세종지부는 성명을 내고 “세종시에서 피해 사례가 보고되고 있는 만큼 교육청이 피해자에 대한 정서·심리적 지원 방안을 즉각 마련하고, 디지털 장의사 서비스를 제공하는 등 실질적인 대응에 나서야 한다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>폭염에 90대 할머니 등 2명 사망...양식장 어류 피해 누적 1126만마리</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/22/RV7RLIMHABGQBPSCMT5KZVH3TU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/22/RV7RLIMHABGQBPSCMT5KZVH3TU/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Aug 2024 00:47:53 +0000</pubDate>
-      <content:encoded>계속된 폭염으로 열사병, 탈수 등 온열질환으로 올해 사망한 사람이 총 28명이 됐다.&lt;br&gt;&lt;br&gt;22일 행정안전부 중앙재난안전대책본부에 따르면 20일 기준 폭염으로 인한 사망자가 28명으로 전날에 비해 2명이 늘었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7PCO6XAJNRJ2PE6H2Z667QA3RY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭염이 계속되는 19일 오후 서울 서초구 몽마르뜨 공원에 설치된 온도계에 현재 기온이 표시되고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 오후 4시쯤 충남 천안시에서 68세 여성이 자택 앞에서 쓰러진채 발견됐으나 사망했다. 같은날 오후 7시쯤 경기 부천시에는 91세 여성이 자택 거실에 누워있는 것을 본 아들이 병원으로 이송했으나 다음날 사망했다.&lt;br&gt;&lt;br&gt;현재까지 누적 온열질환자는 2994명으로 3000명을 앞두고 있다. 전년 동기 대비 462명 늘어난 숫자다.&lt;br&gt;&lt;br&gt;누적 폭염일수도 20.8일로 전년 동기 13.7일 대비 7.1일이 늘었다.&lt;br&gt;&lt;br&gt;양식장 피해도 폭증하고 있다. 21일까지 전국 334개 양식장에서 물고기 1126만 마리가 폐사했다.&lt;br&gt;&lt;br&gt;바다 수온이 올라 남해안 일대 조피볼락 양식장 등의 피해가 크다고 한다. 폐사한 어종은 조피볼락 676만마리, 강도다리 160만 마리, 넙치 등 290만마리가 있었다.&lt;br&gt;&lt;br&gt;가축 폐사도 100만마리를 넘었다. 닭, 오리 등 가금류가 94만3000마리, 돼지가 6만마리 죽었다.&lt;br&gt;&lt;br&gt;정부는 지난달 31일부터 중대본 1단계를 가동하고 폭염에 대응하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>정부 “오염수 8차 방류 종료… 검출 ‘하한치’ 넘긴 방사능 1회 감지돼”</title>
       <link>https://www.chosun.com/politics/goverment/2024/08/28/DR6YS3QJB5AFFBSVSJOCIKQKDI/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2024/08/28/DR6YS3QJB5AFFBSVSJOCIKQKDI/</guid>
@@ -917,15 +926,6 @@
       <description/>
       <pubDate>Wed, 28 Aug 2024 01:19:25 +0000</pubDate>
       <content:encoded>서울대 선후배 등 여성 사진을 합성해 음란물을 만들어 유포한 이른바 ‘서울대 N번방’ 사건의 공범이 징역 5년을 선고받았다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2VP4XE67RLFX7TDDE4RE3IDUPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사14단독 김유랑 판사는 28일 성폭력범죄의처벌등에관한특례법위반(카메라 등 이용 촬영) 등 혐의로 기소된 박모(28)씨에게 징역 5년을 선고했다. 앞서 검찰은 박씨에게 10년을 구형했는데 그 절반의 형이 선고됐다. 재판부는 박씨에게 40시간의 성폭력 치료 프로그램 이수, 5년간 아동·청소년 관련 기관 취업 제한도 명령했다.&lt;br&gt;&lt;br&gt;재판부는 “허위 영상물 내용은 일반인 입장에서 입에 담기 어려운 굴욕적이고 역겨운 내용”이라며 “익명성이 보장되는 소셜네트워크를 악용해 자신의 행동에 수치심이나 부끄러움을 느끼지 못하고 스트레스 풀이용으로 도구화했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “기록을 남기기 위해 소셜미디어에 사진을 올리는 현대인의 일상적 행위가 범죄의 대상이 돼 허위로 조작돼 돌아다니는 것을 알게 된 평범한 피해자가 느낄 성적 굴욕감과 정신적 고통을 헤아릴 수 없다”고 지적했다.&lt;br&gt;&lt;br&gt;박씨는 2020년 7월부터 올해 4월까지 딥페이크를 활용한 허위 영상물 400여개를 제작하고 1700여개를 유포한 혐의로 지난 5월 기소됐다. 박씨는 서울대 출신은 아니지만, 이 사건 주범들과 텔레그램으로 연락하며 범행을 저지른 것으로 알려졌다. 지난 6월 열린 결심 공판에서 박씨는 “고통받은 피해자들에게 사죄드린다”며 선처를 호소했다.&lt;br&gt;&lt;br&gt;이 사건 주범인 서울대 졸업생 박씨와 강모(31)씨는 구속 상태로 재판을 받고 있다. 주범 박씨는 텔레그램에 허위영상물 1600여개를 올리고, 불법 촬영물과 아동 성착취물을 게시·소지한 혐의를 받는다. 강씨도 2021년 4월~2022년 11월 약 28명의 여성을 대상으로 허위 영상물을 제작·유포한 혐의로 기소됐다. 이들을 포함해 이 사건 관계자 4명은 모두 서울중앙지법에서 재판을 받고 있다.&lt;br&gt;&lt;br&gt;이날 선고 후 피해자 중 1명을 대리하는 법률사무소 이채 김민아 변호사는 “구형보다 많이 깎인 건 아쉽지만 일상에서 재판부가 소셜미디어 이용해 서로 안부를 묻는 것이 범죄에 이용됐다는 점 등을 양형에 많이 참고했다는 데 의미가 있다”며 “익명성 이용한 디지털 범죄가 계속 확산·양산되는 상황에서 범죄 근절 위해 엄벌이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;최근 텔레그램 등을 통해 딥페이크 음란물이 다량 유포되면서, 윤석열 대통령은 전날 국무회의에서 딥페이크 성범죄에 대해 “철저한 실태 파악과 수사를 통해 이러한 디지털 성범죄를 뿌리 뽑아 달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오세훈 “외국인 가사도우미 비용 절감 논의 환영”</title>
-      <link>https://www.chosun.com/national/regional/seoul/2024/08/22/UA7SYZJZPFBLHDEP7CN3EWV7P4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/08/22/UA7SYZJZPFBLHDEP7CN3EWV7P4/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Aug 2024 02:38:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IMAOG7OEL7TUEBA3SKTUUPAEW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 지난 12일 서울시 중구 시청 대회의실에서 열린 2024 서울뷰티위크 홍보단 발대식에서 축사를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 22일 페이스북을 통해 “외국인 가사도우미 비용을 낮출 수 있는 구체적인 제도적 논의가 시작돼 다행”이라고 했다.&lt;br&gt;&lt;br&gt;전날 대통령실과 여당에서는 필리핀 가사도우미 비용 절감을 위해 단기 외국인 근로자 최저임금 적용을 예외로 해야한다는 주장 등이 나왔다.&lt;br&gt;&lt;br&gt;오 시장은 “필리핀 가사도우미는 동일 최저임금 적용으로 높은 비용이 문제로 지적돼 많은 분들이 고통받고 있다”며 “법무부의 논리대로 불법 체류와 같은 부작용을 걱정하면서 외국인 가사도우미의 비용을 낮추는 방안을 시도도 하지 말자고 하는 것은 본말이 전도된 것”이라고 했다.&lt;br&gt;&lt;br&gt;최저임금 차등화 외 다른 방법에 대해 오 시장은 “사적 계약의 형태로 사용자가 외국인 가사도우미를 직접 고용하면 최저임금을 적용받지 않을 수 있다”며 “서울시는 연초에 사적 계약 형태로 외국인 가사관리사를 고용할 수 있도록 별도의 비자를 신설해 달라는 공문을 정부에 보내며 다각도로 노력해오고 있다”고 했다.&lt;br&gt;&lt;br&gt;또 오 시장은 “앞으로 인구절벽 현상으로 인해 육아뿐 아니라 간병은 더욱 심각한 인력 부족 상황을 맞이할 것”이라며 “정부의 해당 부처들이 이 논의에 참여해 함께 사회적 해답 찾기를 촉구한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“사실이면 당당하게 못 나와”… 전종서, 학폭 의혹에 직접 밝힌 입장 </title>
