@@ -13,6 +13,117 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘일본도 살인’ 유족 측 “가해자 신상정보 공개해야”</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/28/M274IWLAOBARTIISQFZG4QFBEA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/28/M274IWLAOBARTIISQFZG4QFBEA/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Aug 2024 10:08:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DPFF5GOOZJN7JK454TTNFLTWHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 은평구의 한 아파트에서 이웃 주민에게 일본도를 휘둘러 숨지게 한 혐의로 경찰에 긴급 체포된 백모(37)씨가 구속 전 피의자 심문(영장실질심사)을 받기 위해 지난 1일 서울서부지법으로 들어서고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 은평구의 한 아파트 정문에서 일본도(日本刀)를 휘둘러 이웃을 살해한 혐의를 받는 백모(37·무직)씨에 대해 피해자 유족 측이 신상정보 공개와 엄벌을 촉구했다.&lt;br&gt;&lt;br&gt;유족 측 법률대리인 남언호 변호사는 28일 보도자료를 내고 “가해자는 일본도를 소지해 휘두르는 등 범행수단이 매우 잔혹하고 피해자를 사망에 이르게 했으며, CCTV 등 충분한 증거가 있고 국민적 알 권리와 재범방지 등 공익적 목적이 인정된다”며 “검찰과 법원은 가해자의 신상정보 공개를 결정해야 한다”고 이같이 주장했다.&lt;br&gt;&lt;br&gt;남 변호사는 앞서 수사기관이 가해자와 피해자 가족이 같은 아파트에 산다는 점을 들며 백씨의 신상정보를 공개하지 않기로 한 데 대해 “유족들은 가해자의 신상이 공개되는 것과 피해자 가족에 대한 2차 가해의 직접적 관련성에 강한 의문을 가지고 있다”고 반박했다.&lt;br&gt;&lt;br&gt;남 변호사는 또 백씨가 일본도를 취득해 범행을 준비했고 살인의 고의가 명확한 행위를 한 점 등을 언급하며 “범행 당시와 직후에 정상적인 사물 변별 능력과 행위 통제 능력이 있었다고 평가해야 한다”고 했다. 그러면서 “가해자에게 절대 심신장애의 형사 책임 조각이나 감경이 적용되어서는 안 된다”고 강조했다.&lt;br&gt;&lt;br&gt;유족 측은 사건 발생 당시 현장에 출동한 경찰과 구급대원의 초기대응이 미흡했다는 주장도 제기했다. 사건이 오후 11시 22분에 발생해 그로부터 4분 뒤 경찰이 현장에 도착했고 11시 29분에는 구급대원이 왔지만, 목숨이 위태로운 피해자를 곧바로 병원에 이송하지 않았다는 것이다.&lt;br&gt;&lt;br&gt;유족 측은 “사건이 발생하고 17분이 지난 오후 11시 46분에야 피해자 병원 이송이 시작됐다”며 “이송 도중 국립중앙의료원에서 거리가 더 먼 은평성모병원으로 목적지가 바뀌어 오후 11시 56분쯤 응급실에 도착했다”고 했다. 그러면서 “과다 출혈로 호흡이 가빠지며 신음하던 피해자는 경찰과 구급대원이 판단한 ‘현장 대응’이 완료된 뒤 이송됐다”며 “그 사이 피해자의 호흡이 꺼지게 된 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;유족 측은 백씨에 대한 엄벌탄원서를 공개모집하고 국민동의청원도 진행한다고 밝혔다.&lt;br&gt;&lt;br&gt;일본도 살인사건은 지난달 29일 오후 11시 30분쯤 은평구 아파트 정문 앞에서 백씨가 장식용으로 허가받은 날 길이 약 102cm 일본도를 휘둘러 같은 아파트 주민 김모(43)씨를 숨지게 한 사건이다. 검찰은 백씨가 심신미약 상태는 아니었다고 판단했으며, 백씨의 인터넷 검색 내역과 일과를 기록한 일지 등을 분석한 결과 ‘치밀하게 계획된 이상동기 범죄‘라고 보고 지난 23일 그를 구속 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시·방심위, 딥페이크 공동대응...삭제 지원 핫라인 구축</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/28/Q7W5M6O7NBFGDKUWHU4GPUILSM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/28/Q7W5M6O7NBFGDKUWHU4GPUILSM/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Aug 2024 10:00:55 +0000</pubDate>
+      <content:encoded>서울시와 방송통신심의위원회가 24시간 이내에 딥페이크 음란물 영상을 삭제하는 ‘핫라인’을 구축한다. 영상 삭제와 차단을 위한 절차를 간소화해 신속하게 조치한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WJXAFOXZNZJBHPBHXREY76UQLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장(왼쪽 두 번째)과 류희림 방송통신심의위원장(오른쪽 두 번째)이 28일 서울 중구 서울시청에서 열린 '서울시-방송통신심의위원회' 딥페이크 영상물 삭제 지원을 위한 업무협약식에서 협약 체결 후 기념 촬영하고 있다./서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장과 류희림 방심위원장은 28일 오후 시청에서 이 같은 내용의 딥페이크 음란물 영상 삭제지원 업무협약을 체결했다.&lt;br&gt;&lt;br&gt;‘텔레그램’ 등 폐쇄형 소셜미디어에 도는 딥페이크 영상물이 음란사이트나 그 외 SNS에까지 퍼져 피해 신고가 들어올 경우, 24시간 이내에 영상이 삭제·차단될 수 있게 조치한다는 내용을 담았다.&lt;br&gt;&lt;br&gt;지금까지는 서울시 디지털성범죄 안심지원센터에서 방심위에 각종 증빙 자료와 함께 영상 삭제 요청을 해야 했지만, 핫라인 가동으로 대량의 건수를 한 번에 삭제 요청할 수 있게 됐다.&lt;br&gt;&lt;br&gt;서울시는 이와 함께 오픈채팅방에 딥페이크 SOS 전담 상담창구를 개설하고 피해지원관 2명을 배치해 신고 방법과 범죄 채증 방법을 안내한다.&lt;br&gt;&lt;br&gt;수사·법률지원 등 피해자에게 필요한 지원을 위해 서울디지털성범죄 안심지원센터로도 연결한다.&lt;br&gt;&lt;br&gt;시는 또 올해 말까지 피해 상황을 24시간 모니터링하면서 자동으로 문제의 영상을 삭제 신고하는 시스템을 구축하기로 했다.&lt;br&gt;&lt;br&gt;시는 AI 기술을 활용해 피해 영상물을 모니터링하고 있는데, 지금은 AI가 모니터링한 내용을 상담원이 삭제 신고하는 방식이다.&lt;br&gt;&lt;br&gt;앞으로는 서울연구원과 협력해 AI가 영상 검색부터 신고까지 모든 과정을 자동으로 수행하게 할 방침이다.&lt;br&gt;&lt;br&gt;내년에는 AI를 기반으로 한 딥페이크 검출 기술인 ‘서울 안심 아이(Seoul Safe Eye)’를 개발해 딥페이크와 원본 사진·영상물을 구분해 검출해 나갈 계획이다. 현재는 제작된 기존 영상물이 있어야 유사성을 판별해 유포된 영상물을 찾을 수 있다. &lt;br&gt;&lt;br&gt;서울시는 딥페이크를 단순 장난이나 호기심의 대상으로 여기는 아동 청소년을 대상으로 교육을 강화할 방침이다. 경찰에 따르면 딥페이크 범죄 피의자 가운데 10대가 75.8%에 달한다.&lt;br&gt;&lt;br&gt;9월부터 초·중·고교 대상 딥페이크 예방 교육을 50개 학급 1000명을 대상으로 하기로 했다.&lt;br&gt;&lt;br&gt;오 시장은 “오늘부터 방심위와 24시간 이내 딥페이크 영상 삭제 핫라인을 구축한다”면서 “피해 영상물 삭제를 즉각 지원하고 피해자를 ‘원스톱’ 지원할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;류 위원장은 “오전 긴급 대책회의에서 지자체와 협력을 강화하겠다고 했는데 서울시가 바로 화답해 기쁘다”며 “서울시와 연계해 보다 효율적인 디지털 성범죄 예방에 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;방심위가 지방자치단체와 업무협약을 맺은 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;서울시와 방심위의 핫라인은 이날부터 가동된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈 “태극기 게양대가 국수주의 주장 동의 못해”</title>
+      <link>https://www.chosun.com/national/regional/seoul/2024/08/28/ARV4C3QLZRCYNNEDMRZC6TI4DI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/08/28/ARV4C3QLZRCYNNEDMRZC6TI4DI/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Aug 2024 09:49:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZJ2UOTMWWVP67ATLKNSDUIHZDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 28일 오전 서울 중구 서울특별시의회에서 열린 제326회 임시회 제2차 본회의에서 진행된 서울시정 및 교육행정에 관한 질문에서 국민의힘 김형재 의원의 질의에 답하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 광화문광장 국가상징공간 조성 사업과 관련해 “태극기 게양대가 국수주의라는 주장에 동의하지 않는다” 말했다.&lt;br&gt;&lt;br&gt;오 시장은 28일 서울시의회 시정질문에서 국민의힘 김형재 시의원이 태극기 게양대에 대한 입장을 묻자 이같이 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “대한민국 영토에 그것도 가장 많은 대중이 방문하는 곳에 국기게양대 만드는 게 과연 국수주의인가”라 “그걸 일정 높이 이상으로 높이 세우는 것이 과도한 국수주의일까에 대해 많은 시민이 동의하지 않을 것”이라고 했다.&lt;br&gt;&lt;br&gt;또 국가상징공간에 대한 의견 수렴 결과를 보면 태극기가 국가상징물로 태극기가 가장 적합하다는 공감대가 국민적으로 형성돼 있다고 덧붙였다.&lt;br&gt;&lt;br&gt;조희연 서울시교육감이 대형 태극기 게양대 설치 계획에 대해 ‘낡은 국수주의적 방식’이라고 비판한 것에 대해서 오 시장은 “그런 생각을 하시는 분이 지난 10년 교육행정 이끌어왔던 점 때문에 생길 수 있는 교육 현장의 혼란을 생각하면 가슴이 아프다”고 말했다.&lt;br&gt;&lt;br&gt;서울시는 지난 6월 광화문 광장에 100m 높이의 태극기 게양대를 설치하겠다고 발표했다. 이어 지난 20일에는 태극기 게양대 뿐만 아니라 모든 가능성을 열어놓고 설계 제안을 받겠다고 밝혔다.&lt;br&gt;&lt;br&gt;다음 달 공모를 실시해 다양한 설계안을 검토한 뒤 2025년 5월 공사에 들어간다는 계획이다. 준공은 2025년 9월을 목표로 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시, 마음이 힘들 때 정원을 ‘처방’</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/28/C2HU34JDGZHLJHQFXFUWMRAKEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/28/C2HU34JDGZHLJHQFXFUWMRAKEE/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Aug 2024 09:19:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4LWKW4YY3FNNXIHUVZS55QGHMA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 27일 서울 노원구 불암산 산림치유센터에서 열린 정원처방 프로그램 프레스투어에서 참가자들이 시범 운영 예정인 서울형 정원처방 체험을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞으로 서울시민은 마음이 힘들 때 정원 산책을 ‘처방’ 받을 수 있게 된다. 의사가 ‘하루에 한 시간씩 공원을 걸으세요’와 같은 처방을 해주는 독일을 벤치마킹했다.&lt;br&gt;&lt;br&gt;서울시는 ‘서울형 정원처방’ 사업을 9월부터 시범운영한다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;정원처방 사업은 서울의 초기 치매 환자, 우울증 환자, 고립·은둔 청년 등을 대상으로 서울의 산림·공원·정원에서 활동하게 한다. 정원에서 식물을 가꾸고 흙을 만지고, 숲 속에서 명상을 하며 마음을 치유하자는 것이다. 국내외 많은 연구는 정원 활동이 도심 활동보다 불안 등 부정적인 감정을 줄이는데 효과가 크다고 한다.&lt;br&gt;&lt;br&gt;진료·처방 기록 등을 쓰는 병원 수첩과 비슷하게 ‘정원치유 수첩’도 만들었다. 언제 어떤 정원에서 활동을 했는지 기록하고 정원의 위치 등 활동에 필요한 정보들을 담았다.&lt;br&gt;&lt;br&gt;국립산림과학원에 따르면 독일, 영국, 뉴질랜드 등은 의사가 환자의 상태에 따라 자연 속 활동을 처방한다. 예컨대 우울증 환자에게 숲길을 1시간씩 걸으라고 하는 것이다. 독일은 이같은 ‘자연처방’에 의료보험도 적용된다. 자연처방은 연간 4조원의 의료비 절감효과가 있다고 한다.&lt;br&gt;&lt;br&gt;서울의 ‘정원처방’ 사업은 아직 독일처럼 정식 의사 처방을 하는 건 아니지만 장기적으로 관련 단체와의 논의를 통해 병원과 서울의 녹지를 연계하는게 목표다. &lt;br&gt;&lt;br&gt;현재는 마음건강 위주로 운영하지만 앞으로는 초기 당뇨병, 대사증후군 등으로 대상 질환을 확대할 계획이다.&lt;br&gt;&lt;br&gt;향후 서울시의 시민 건강 앱 ‘손목닥터9988′과도 연계한다. 서울숲, 서울둘레길 등 서울의 주요 녹지를 방문하고 정원 처방에 참여하면 특별 포인트를 제공할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>배우 신현준 ‘갑질 폭로’ 협박한 전 매니저...2심서 징역 6개월</title>
+      <link>https://www.chosun.com/national/regional/2024/08/28/YZCOSSRM65EEHKEX3RDP62Q6PI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/28/YZCOSSRM65EEHKEX3RDP62Q6PI/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Aug 2024 09:21:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OEP23TEMYVH2ZDUPWL7E4R6IAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 신현준씨에게 ‘갑질을 폭로하겠다’고 협박한 혐의로 1심에서 벌금형을 선고받은 전 매니저가 항소심에서 실형을 선고받았다.&lt;br&gt;&lt;br&gt;대전지법 형사1부(재판장 나경선)는 28일 협박 사건 항소심 선고공판에서 배우 신현준씨의 전 매니저인 40대 A씨에게 벌금 500만원을 선고한 원심 판결을 파기하고 징역 6개월의 실형을 선고했다.&lt;br&gt;&lt;br&gt;검찰은 1심 선고 후 “형량이 낮다”며 항소했고, 항소심 재판부가 검찰의 주장을 받아들인 것이다.&lt;br&gt;&lt;br&gt;A씨는 2021년 2월 22일 신씨에게 전화를 걸고 ‘자신의 사연을 커뮤니티에 올리겠다’는 등의 문자 메시지를 보내 신씨를 협박한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 2020년 여름 소속사로부터 받지 못한 급여를 신씨에게 받아내려고 했으나 뜻대로 되지 않자 이에 앙심을 품었고 자신이 갑질 피해를 본 것처럼 주장했다. 또 이를 언론에 공개할 것처럼 신씨를 협박한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 “피해자는 또 다른 로드매니저의 폭로로 소위 ‘갑질 연예인’으로 언론에 보도되며 출연하던 프로그램에서 하차하게 됐다”면서 “피고인의 협박으로 인해 피해자가 심한 두려움을 느꼈을 것으로 보인다”며 유죄를 인정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, ‘200억원대 투자사기 의혹’ 한양화로 압수수색</title>
+      <link>https://www.chosun.com/national/incident/2024/08/28/25C45QNKFJEIPPKTKKIFA3XKJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/28/25C45QNKFJEIPPKTKKIFA3XKJY/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Aug 2024 09:15:07 +0000</pubDate>
+      <content:encoded>경찰이 200억원대 투자금을 불법으로 유치한 혐의를 받는 소고기 화로구이 프랜차이즈 한양화로 운영사에 대한 강제수사에 착수했다. 서울 강남경찰서는 28일 오전 한양화로 본점과 한양화로 운영사 바나바에프앤비의 강남구 삼성동 사무실, 임직원 자택 등을 압수수색해 관련 자료를 확보했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I3YA7QJQU5EWDHAOS4PHVNPRW4.jfif"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;바나바에프앤비 대주주로 알려진 박모씨 등 회사 임직원은 지난 2022년부터 고수익을 보장하겠다며 불특정 다수의 투자자부터 투자금을 끌어모은 뒤 돌려주지 않은 혐의(유사수신행위법 위반 및 사기)를 받는다. 유사수신은 법령에 따른 인허가나 등록·신고 없이 원금 보전을 약속하면서 불특정 다수로부터 자금을 조달하는 사업을 하는 행위다. 돌려줄 가능성이 없는 데도 돈을 받은 것이 입증되면 사기 혐의가 적용된다.&lt;br&gt;&lt;br&gt;경찰은 올해 초부터 전국에서 투자자들의 고소장을 접수했고, 강남경찰서가 집중 관서로 수사 중이다. 현재까지 경찰이 파악한 피해자는 약 150명, 피해 규모는 200억원대다. 경찰은 추가 피해를 확인하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘시민덕희’ 주인공, 5000만원 포상금… 보이스피싱 총책 검거 8년만</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/27/MC4VQ45A5JEL7C7JQ7LOZ3Y4J4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/27/MC4VQ45A5JEL7C7JQ7LOZ3Y4J4/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 27 Aug 2024 05:03:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J4S75H4T5BBHLPJEAD2Y3S2T3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'시민덕희' 김성자씨./백수진 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보이스피싱 범죄 추적극 ‘시민덕희’의 실제 주인공이 포상금 5000만원을 받는다.&lt;br&gt;&lt;br&gt;국민권익위원회는 보이스피싱 피해를 당한 뒤 본인이 직접 증거자료와 조직원 정보를 모아 수사기관에 제보한 신고자 김성자(50)씨에게 포상금 5000만원을 지급한다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;김씨의 이야기는 영화 ‘시민덕희’의 모티브가 되기도 했다. 그는 2016년 1월 은행직원을 사칭한 보이스피싱 직원에 속아 11회에 걸쳐 2730만원을 송금하는 사기피해를 당했다. 이후 김씨는 범죄조직에서 탈출하고 싶었던 조직원과 연락하며 조직 총책의 사진, 주소, 보이스피싱 피해자 정보 등을 넘겨받아 수사기관에 제보했다.&lt;br&gt;&lt;br&gt;이 신고로 경찰은 총책급 조직원을 비롯해 일당 6명을 검거했다. 또한 72명의 피해액 1억3500만원을 확인하고 200여명의 추가 피해를 막을 수 있었다.&lt;br&gt;&lt;br&gt;당시 경찰은 보이스피싱 일당 검거에 큰 공을 세운 김씨에게 검거 소식을 알리지 않았고, 사건 발표 때도 시민의 제보로 검거했다는 내용을 누락했다. 경찰은 예산 부족을 이유로 포상금 100만원을 제안했으나 김씨는 이를 거절했다. 김씨는 보이스피싱 피해액도 돌려받지 못했다.&lt;br&gt;&lt;br&gt;이런 사실을 알게 된 대검찰청이 김씨를 포상금 지급 대상자로 추천했고, 권익위는 김씨의 공익증진 기여를 높게 평가해 사기피해 금액의 약 2배인 포상금 5000만원을 지급하기로 결정했다. 8년 만에 총책 검거에 기여한 공을 인정받은 것이다.&lt;br&gt;&lt;br&gt;이외에도 권익위는 입시비리 신고자에게 1000만원, 해외에서 공급받은 마약류를 국내에 밀반입해 불법유통을 시도한 판매책 신고자에게 950만원을 포상하기로 했다. 공공기관 발주 건설현장 공사자재 절취·판매 신고자는 800만원, 기초자치단체장의 내부 정보 이용 차명 부동산 투기 행위 신고자는 350만원을 포상금으로 받는다.&lt;br&gt;&lt;br&gt;권익위는 올해 상반기 포상금을 지급하기 위해 지난 5월 728개 공공기관으로부터 포상 대상자 추천을 접수했다. 보상심의위원회의 심의·의결과 전원위원회의 결정을 거쳐 포상금 지급 계획을 확정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>만든 날짜가 내일?… 제조일 속인 샌드위치 9300개 팔렸다</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/28/NSFKKT7M6ZEH7GJYN6IXQUT6QE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/28/NSFKKT7M6ZEH7GJYN6IXQUT6QE/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Aug 2024 08:38:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HTZDYDHVDJCGVGVYGNWOSBEQWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8월 23일 생산된 샌드위치의 제조연월일이 '8월 25일 9시'로 표시돼 있다./ 식약처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;식품의약품안전처(식약처)가 샌드위치 제조일자를 거짓으로 표시해 편의점 등에 납품한 식품제조·가공업체를 적발했다.&lt;br&gt;&lt;br&gt;식약처는 경기도 용인의 ‘에스엘비코리아(주)’가 식품 등의 표시·광고에 관한 법률과 식품위생법을 위반한 사실을 적발해 관할 지방자치단체에 행정처분을 요청하고 고발 조치했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;점검 결과 이 업체는 지난 8월 16일 금요일에 생산한 샌드위치의 제조연월일을 1~2일 후인 8월 17일 또는 8월 18일로 거짓 표시했다. 지난 8월 23일 금요일에 만든 샌드위치의 제조날짜도 8월 24일과 8월 25일로 적혀있었다.&lt;br&gt;&lt;br&gt;이 샌드위치들은 GS25, 이마트24 등의 편의점을 통해 약 9300여개 1000만원 상당 판매된 것으로 나타났다. 식약처는 점검 당시 판매를 목적으로 보관 중이었던 샌드위치 가운데 제조 연월일이 거짓 표시된 13종, 1만 6995개를 현장에서 압류했다.&lt;br&gt;&lt;br&gt;도시락, 김밥, 햄버거, 샌드위치, 초밥 등의 즉석섭취식품은 제조일과 제조시간을 함께 표시해야 한다. 소비기한도 “○○월○○일○○시까지”, “○○일○○시까지” 또는 “○○.○○.○○ 00:00까지”로 표시해야 한다.&lt;br&gt;&lt;br&gt;식약처는 샌드위치 제조와 관련된 생산 및 작업 기록에 관한 서류와 원료출납 관계 서류를 작성하지 않은 사실도 함께 적발했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>의협 “의사들 정치세력화, 정책 개입할 것” 간호법 통과 반발</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/28/2RZE6Q3IPJB5BOEPFUBCC6Y2VQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/28/2RZE6Q3IPJB5BOEPFUBCC6Y2VQ/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Aug 2024 08:36:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CH3S7ILCKRORVFYFQ2D3SNJU5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최안나 대한의사협회 대변인이 28일 오후 서울 용산구 대한의사협회 앞에서 간호법 가결 관련 브리핑을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한의사협회(의협)가 간호법 통과에 반발하며 ‘의사 정치세력화’에 나서겠다고 밝혔다. 의사들이 정당에 가입해 의료정책 구상 초기 단계부터 영향력을 행사하겠다는 것이다.&lt;br&gt;&lt;br&gt;최안나 의협 대변인은 28일 간호법이 통과된 후 일일브리핑을 통해 “그간 의료계가 과학적이고 객관적인 근거를 통해 의대증원과 간호법 문제들을 수도 없이 조목조목 지적했지만, 정부와 국회는 끝내 의사들의 우려와 조언을 묵살했다”며 “저희는 말로는 더 이상 그들을 설득할 수도, 막을 수도 없다는 것을 깨달았다”고 했다.&lt;br&gt;&lt;br&gt;최 대변인은 “이에 의료계는 정부와 정치권을 움직일 수 있는 실질적인 힘을 모아야 한다는 결론에 이르렀다”며 “우리 의사들도 시민의 권리를 행사하기 위해 범의료계 차원의 정당가입운동을 펼쳐 직접 정치를 바꿀 것”이라고 했다.&lt;br&gt;&lt;br&gt;최 대변인은 “지금부터 전 회원의 정당가입 운동을 통해 의사 정치세력화를 시작하겠다”라며 “어느 정당이든 지지하시는 정당에 가입해 함께해 주시길 바란다”고 했다.&lt;br&gt;&lt;br&gt;이어 “정당가입운동을 통해 각 정당의 보건의료정책 및 제도, 그리고 입법 검토 단계부터 적극적으로 전문가 의견을 개진해 잘못된 점을 바로잡고, 미진한 점을 보완할 것”이라며 “나아가 강력한 정치세력화를 통해 국민생명과 건강, 그리고 국가의 미래를 책임지는 의료정책 수립에 이바지할 것”이라고 했다.&lt;br&gt;&lt;br&gt;또 오늘 통과된 간호법과 관련해서는 불법 의료에 대한 처벌 조항도 없다며 “의협은 오늘부터 ‘간호사불법진료대응센터’를 운영한다. 간호사 불법 의료행위로 피해를 본 국민은 신고해달라”고 했다.&lt;br&gt;&lt;br&gt;한편 여야는 이날 ‘진료 지원(PA) 간호사’ 합법화 근거를 담은 간호법 제정안을 국회 본회의에서 통과시켰다. 간호법 제정안은 의사의 수술 집도 등을 보조하면서 의사 업무 일부를 담당하는 PA 간호사들의 역할을 명문화하는 게 핵심이다. 미국·영국 등에선 PA 간호사가 법에 규정돼 있지만, 한국 의료법엔 근거 규정이 없다. 전공의 공백이 장기화하면서 이들의 업무를 대신하는 PA간호사의 법적 근거 마련이 시급하다는 데 여야가 뜻을 모은 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정부 “추석 연휴 응급실 전문의 진찰료 250%로 인상”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/08/28/YRCRIA572BGKTMWVLEZPFC2OD4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/28/YRCRIA572BGKTMWVLEZPFC2OD4/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Aug 2024 08:11:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2HMWQNY4OFPBVC2A7JUWCKM5RU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 서울의 한 대학병원에서 환자가 구급차로 이동하고 있다. 정부는 오는 9월 11일부터 2주간 추석 명절 비상 응급 대응 주간을 설정하고 평년보다 많은 4000개 이상의 당직 병·의원을 운영하기로 했다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 다음 달 추석 연휴에 환자들이 응급실로 몰리는 것을 대비해 응급실 특별 대책을 발표했다. 응급실 연쇄 파행 움직임이 계속되면서 ‘9월 추석 연휴 위기설’까지 불거지자 추가 대책을 내놓은 것이다.&lt;br&gt;&lt;br&gt;응급실 의료진에게 추석 등 명절 연휴는 연중 가장 힘든 기간이다. 명절 연휴에 장염, 복통, 열 등으로 응급실을 찾는 환자들이 늘어나기 때문이다. 이에 정부는 다음 달 11일부터 25일까지 2주간 ‘추석 명절 비상 응급 대응 주간’으로 정하고, 이 기간 응급실 지원을 이어가기로 했다.&lt;br&gt;&lt;br&gt;28일 조규홍 보건복지부 장관은 의사 집단행동 중대본 브리핑에서 “응급실 전문의 진찰료를 기존 인상분인 150%에서 100%포인트 상향해 250%까지 대폭 인상한다”며 “권역응급의료센터를 안정적으로 운영할 수 있는 인력을 확보할 수 있도록 인건비 지원을 확대하겠다”고 했다.&lt;br&gt;&lt;br&gt;조 장관은 “인력 지원이 시급한 의료 기관을 중심으로 군의관과 일반의 등 대체 인력을 최대한 핀셋 지원하는 방안도 추진하겠다”며 “병원 상황에 맞게 응급실 운영을 할 수 있도록 (추석 명절 비상 응급 대응 주간에) 응급실 인력 기준을 전문 과목에 국한하지 않고, 사정에 맞춰 응급실 전담 인력을 운영할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;이번 추석 연휴에는 당직 병·의원을 4000여 곳으로 늘리고, 군 병원과 공공 의료 기관, 특성화 병원 등도 운영할 예정이다. 코로나 외래 환자를 대상으로 하는 발열 클리닉 108곳과, 입원 환자를 대상으로 하는 협력병원 60곳도 운영한다. 조 장관은 “기존 408개 응급 의료 기관에만 적용되던 ‘응급 진찰료 한시 가산’을 112개 응급 의료 시설에도 확대한다”고 했다.&lt;br&gt;&lt;br&gt;이번 추석에 경증 환자들이 응급실에 몰려 중증 환자들의 치료가 지연되는 것을 막기 위해 정부는 전국 29권역마다 ‘중증 전담 응급실’을 1곳 이상씩 두기로 했다. 중증 전담 응급실은 ‘KTAS 응급 환자 분류 도구’에 따라 1~2등급에 해당하는 아주 중한 환자만을 치료하게 된다. 조 장관은 “전담 응급실에서는 중등증 이하 환자를 진료하지 않더라도 진료 거부가 아닌 것으로 명확히 하겠다”고 했다.&lt;br&gt;&lt;br&gt;정부는 또 응급 진료 후 수술, 처치, 마취 등 의료 행위를 하는 배후 진료과에 대한 수가 가산을 기존 150%에서 200%로 인상하기로 했다. 다음 달부터는 전원 환자와 중증 환자를 많이 받는 응급 의료 기관에 인센티브를 지급할 계획이다.&lt;br&gt;&lt;br&gt;한편 29일로 예고된 전국보건의료노조 총파업과 관련, 조 장관은 “전공의 공백에 이어 또 다른 파업에 대해 국민들의 우려가 큰 상황”이라며 “현재 7개 병원의 11개 사업장에서 극적으로 조정안을 합의해 교섭이 타결된 점은 다행스럽게 생각한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “오늘 국회에서 간호법이 여야 합의로 의결됐다”며 “간호법 제정으로 간호사 등 보건의료인의 처우 개선과 지원 체계를 더욱 강화할 수 있게 될 것”이라고 했다. 그러면서 “(간호사, 의료기사 등) 보건의료인분들과 (병원) 사용자분들도 사태 해결을 위해 서로 양보하고 대화로 풀어가주길 요청드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세]  8월 29일 목요일 (음력 7월 26일 乙丑)</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/28/GGL4EWDMBRF3JOMTFQRMFKPIYA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/28/GGL4EWDMBRF3JOMTFQRMFKPIYA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Aug 2024 08:20:00 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	 36년생 진정한 멋은 내면으로부터. 48년생 장마에 오이 크듯 발전 기대. 60년생 아니다 싶을 땐 과감히 돌아설 줄 알아야. 72년생 무슨 일 있어도 끼니는 놓치지 마라. 84년생 일 앞서 경중과 선후 따져 진행하도록. 96년생 일 처리에 약간의 장애.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	 37년생 내 자손들이 내 맘 같지 않구나. 49년생 확신이 섰다면 뒤돌아볼 것 없다. 61년생 구설수 있으니 언행 각별히 삼가도록. 73년생 가까운 사람들에게 신경질 날 수도. 85년생 자존심 버리고 주위 사람 도움 청하라. 97년생 천천히 진행하면 목적 달성 무난.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	 38년생 겉모습만 보고 판단하면 큰코다친다. 50년생 상처와 약점 드러내 좋을 것 없다. 62년생 의도적으로 유력자 가까이하도록. 74년생 맷집은 시련과 고통으로 커진다. 86년생 서두르면 실책 부를 수도. 98년생 쏘지 않으면 맞지도 않는다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	 27년생 소 크다고 왕 노릇 할까. 39년생 심사숙고보다 과감한 결정과 실행 필요. 51년생 어려움 당해보니 인심 알겠구나. 63년생 계획보다 의욕 앞서면 후회막급. 75년생 애정 전선에 먹구름 잔뜩. 87년생 주변 분위기에 휩쓸리지 않도록. 99년생 기다릴 줄 알아야 대어 낚는 법.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	 28년생 속내 드러내지 마라. 40년생 외부의 주입 아닌 자유 의지 발휘하라. 52년생 등산보다 하산이 더 위험. 64년생 믿는 대로 이뤄질 듯. 76년생 돈의 진정한 목적 무엇인지 생각해보도록. 88년생 제 몫은 제가 지키는 것. 00년생 위기에서 재기의 기회 엿봐야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	 29년생 집 밖 나서지 않는 게 유익. 41년생 고칠 수 없다면 감추는 게 상책. 53년생 남들이 찾는 사람 되도록 노력해야. 65년생 잘 먹기 위해 잘 배출하기가 먼저. 77년생 가벼운 농담이 큰 오해 살 수도. 89년생 하는 척만 해서는 결실 볼 수 없다. 01년생 불가능한 건 애당초 시작도 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	 30년생 백전백승이 강자는 아니다. 42년생 평소 알고 지낸 사람을 조심. 54년생 가까운 사이일수록 신상필벌 원칙은 꼭 필요. 66년생 완곡히 거절해야 오해 없을 듯. 78년생 고민은 나누면 줄어든다. 90년생 계산은 가까울수록 정확하게 하라. 02년생 더불어 함께할 방법 찾아보도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	 31년생 굴착기도 호미 쓸 데는 무용지물. 43년생 흰색과 숫자 4, 9는 절대 피하라. 55년생 겉모습 얽매이면 실속 놓친다. 67년생 인품은 지위보다 고상해야. 79년생 사람 스트레스 제일 크다. 91년생 오랜 원수 갚으려다 새 원수 만들라. 03년생 말도 많고 탈도 많은 하루 될 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	 32년생 북동 양방은 운기 살아나는 곳. 44년생 실수 우려되니 신중한 처신 필요. 56년생 상대의 마음만 얻으면 9할은 성공. 68년생 작은 것 아끼려다 큰 것 잃을 수도. 80년생 겸손은 호감 얻는 비책. 92년생 자신의 입장 명확하게 표현하도록. 04년생 해는 저물고 갈 길은 멀고.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	 33년생 아프지 않은 게 아니다 무뎌질 뿐. 45년생 세상사 더하고 빼면 남는 건 병이라더니. 57년생 기대 있기에 실망도 있는 법. 69년생 넉넉할 때 부족함 대비하라. 81년생 양띠와의 거래는 각별한 주의 필요. 93년생 공 있으면 과도 있기 마련.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	 34년생 흑백논리로 판단할 일 아닌 듯. 46년생 울고 싶어도 웃어야 하는 때 있다. 58년생 오는 복은 기어오고 가는 복은 날아간다. 70년생 남쪽 문은 피하는 게 상책. 82년생 가족과 갈등은 즉시 풀도록. 94년생 떠나기도 어렵고 머물기도 어렵구나.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	 35년생 끝나지 않는 축제는 없다. 47년생 운기 점차 왕성해지는 시기. 59년생 땡감도 우리면 단감 된다. 71년생 세상에 문제 하나 없는 사람 있나. 83년생 어른 말씀 들어 손해 없다. 95년생 스스로 꺾이지만 않으면 주변 도움 받는다.	&lt;br&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>日 강제동원 피해자들, 국가 상대 ‘한일청구권 자금 지급하라’ 취지 소송 패소</title>
       <link>https://www.chosun.com/national/court_law/2024/08/28/VEKKM5YTKJGRNHSTNK2XUWRUOA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/28/VEKKM5YTKJGRNHSTNK2XUWRUOA/</guid>
@@ -825,74 +936,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQC4BUO4IRGVZJGWSAW3U3M77M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[스피킹이 강해지는 영어] make do with</title>
-      <link>https://www.chosun.com/national/nie/english/2024/08/28/6BDIDEXN4NH2NMLBXF3EJDOZUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/08/28/6BDIDEXN4NH2NMLBXF3EJDOZUQ/</guid>
-      <description/>
-      <pubDate>Tue, 27 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WHMFEMHIMVBB7GYEWH6JOGSYAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 왠지 설레다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/08/28/PMRKBWWUCNFATPDLKESIQONAXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/08/28/PMRKBWWUCNFATPDLKESIQONAXA/</guid>
-      <description/>
-      <pubDate>Tue, 27 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5NIJ2H4PAJD5TH4MZW26HZTNPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 격일, 하루씩 거르다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/08/28/ZBVN3VTX2ZHJ3DEJWHLKPAVLD4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/08/28/ZBVN3VTX2ZHJ3DEJWHLKPAVLD4/</guid>
-      <description/>
-      <pubDate>Tue, 27 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J7NQCACE7RDI3BCW4CUGSOFX3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [동물 이야기] 아프리카에 사는 가장 덩치 큰 영양… 2m 높이까지 뛸 수 있죠</title>
-      <link>https://www.chosun.com/national/nie/2024/08/28/TVFOTUXOSRFJDOBNBZKLL7VIFA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/28/TVFOTUXOSRFJDOBNBZKLL7VIFA/</guid>
-      <dc:creator>정지섭 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 Aug 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4GLNI6FASZDKXOQEDYL7EUZENE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;나미비아의 한 국립공원에서 촬영된 일런드. 일런드는 몸길이가 3.5m에 달하는 덩치 큰 동물이에요. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;얼마 전 체코의 한 대학교에서 영양 뿔에 관한 흥미로운 논문을 발표했어요. 수컷의 뿔이 클수록 번식 능력도 뛰어난 것으로 조사됐다는 거예요. 논문 작성자들이 연구 대상으로 삼은 영양은 일런드(eland)였답니다. 세계에는 90여 종의 영양이 있고, 이 중 70여 종이 아프리카에 살고 있는데요. 그중 가장 덩치가 큰 영양이 바로 일런드예요.&lt;br&gt;&lt;br&gt;일런드는 남아프리카공화국 공용어 중 하나인 아프리칸스어로 ‘커다란 사슴’이란 뜻인데요. 다 자란 수컷 기준으로 몸길이는 3.5m, 어깨높이는 2m에 육박하고 몸무게는 1000㎏까지 나간답니다. 우람한 덩치뿐 아니라 일런드는 다른 영양과 확실히 구별되는 특징이 있어요. 목덜미부터 가슴팍까지 축 늘어진 살가죽이죠. 이렇게 늘어진 살가죽은 뙤약볕에서 몸을 식혀주는 기능이 있을 거라고 과학자들은 추정해요.&lt;br&gt;&lt;br&gt;일런드가 다른 영양과 구별되는 또 다른 특징이 있는데요. 바로 걸어갈 때 발에서 두드러지게 ‘또각 또각’ 소리가 난다는 거예요. 왜 이렇게 유난한 소리를 내면서 걷는지는 아직도 수수께끼로 남아있는데, 무리끼리의 소통 수단으로 활용되는 것이라는 추측도 나오고 있죠. 일런드는 사회성이 아주 강해서 25~60마리씩 무리를 이루고 살아가거든요.&lt;br&gt;&lt;br&gt;일런드는 육중한 덩치를 가졌지만 순발력이 뛰어나서 2m 높이까지도 점프할 수 있어요. 그러다 보니 사자 등에게 쫓겨서 무리 전체가 도망갈 때 한 녀석이 앞서 가는 다른 녀석을 마치 장애물 넘듯이 휙 뛰어 달아나는 장면을 볼 수 있기도 해요.&lt;br&gt;&lt;br&gt;일런드는 암컷과 수컷 모두 나선형으로 꼬인 뿔을 가지고 있는데요. 수컷의 뿔은 번식철에 더 많은 암컷과 짝을 짓기 위해 경쟁자들과 힘을 겨루는 데 주로 사용돼요. 암컷의 뿔은 새끼를 기르면서 침입자에게 맞서는 데 이용되죠. 수컷이 암컷보다 확연하게 덩치가 커요. 또 수컷의 털이 전반적으로 암컷보다 더 짙은 색깔이랍니다. 우람한 덩치와 축 늘어진 목의 살가죽 등 일런드를 가만히 보면 소와 닮은 구석이 많아요.&lt;br&gt;&lt;br&gt;실제로 여느 영양들에 비해서 성질도 온순해서 일부 나라에서는 가축으로 길들여 고기와 젖을 얻기도 하죠. 그 나라 중에는 아프리카와 아주 멀리 떨어진 옛 소련도 있었어요. 19세기 말 수컷 네 마리와 암컷 네 마리를 들여와 70여 년 만에 400마리까지 늘렸대요.&lt;br&gt;&lt;br&gt;일런드는 울창한 숲부터 탁 트인 초원, 험준한 산악 지대까지 다양한 환경에 적응하며 살아가고 있어요. 하지만 우람한 덩치와 강인한 생존력을 자랑하면서 불행하게도 사냥감으로 인기를 끌게 됐어요. 그래서 맹수들뿐만 아니라 사람의 총에 목숨을 잃는 일이 많아졌고, 숫자가 크게 줄어들어서 체계적인 보호 대책 마련이 시급하대요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 8월 28일</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/28/ZYKMAYAT2RHFBARAJ5CAQJSBDM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/28/ZYKMAYAT2RHFBARAJ5CAQJSBDM/</guid>
-      <description/>
-      <pubDate>Tue, 27 Aug 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/77NSMAFJW5F75J3FZE2AVUAWOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [예쁜 말 바른 말] [360] ‘고깔’과 ‘꼬깔’</title>
-      <link>https://www.chosun.com/national/nie/2024/08/28/CPPGN5RCANFMXMBI4WBLJUAVPQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/28/CPPGN5RCANFMXMBI4WBLJUAVPQ/</guid>
-      <dc:creator>류덕엽 교육학 박사·전 서울 양진초 교장</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 Aug 2024 15:30:00 +0000</pubDate>
-      <content:encoded>*꼬깔모자와 케이크를 선물 받은 동생의 얼굴에 웃음꽃이 피었다.&lt;br&gt;&lt;br&gt;*무단 주차를 막기 위해 안전 꼬깔(라바콘)을 설치했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ALGKWOWF65GWDFZNM6HJKXQT7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;위의 두 문장에 공통적으로 쓰인 낱말 ‘꼬깔’은 맞는 말일까요? 40여 년 전 출시돼 지금도 많은 사람이 좋아하는, 손가락에 끼워 먹는 과자 이름이 ‘꼬깔콘’이다 보니 꼬깔이 틀린 말인지 모르는 사람이 많아요. ‘설레다’의 명사형을 ‘설렘’이 아닌 ‘설레임’으로 착각하는 경우가 많은 것처럼요.&lt;br&gt;&lt;br&gt;하지만 꼬깔은 ‘고깔’의 비표준어로 경남과 전북 지역에서 쓰는 방언입니다. 따라서 위 두 문장에서 꼬깔은 ‘고깔모자’ ‘안전 고깔’과 같이 바꿔 써야 해요.&lt;br&gt;&lt;br&gt;고깔은 승려나 무당 또는 농악대들이 머리에 쓰는, 위 끝이 뾰족하게 생긴 모자를 뜻하는 말입니다. 예를 들면 ‘무대 위에서 무용수가 하얀 고깔을 쓰고 승무를 추고 있었다’와 같이 써요.&lt;br&gt;&lt;br&gt;&amp;lt;예문&amp;gt;&lt;br&gt;&lt;br&gt;-골목에 있는 안전 고깔들이 바람이 강하게 불자 뒤집혔다.&lt;br&gt;&lt;br&gt;-머리에 고깔모자를 쓴 아이들이 교실 안을 뛰어다니며 놀고 있다.&lt;br&gt;&lt;br&gt;-고깔제비꽃은 꽃이 필 무렵 잎의 밑부분이 안으로 말려 고깔처럼 된다고 해서 붙여진 이름이다.&lt;br&gt;&lt;br&gt;-울긋불긋한 고깔을 쓰고 어깨를 흔들며 장구를 치는 농부들의 얼굴이 한없이 순박해 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [숨어있는 세계사] 3D 프린터 이용해 부서진 ‘팔미라’ 조각상 복원했어요</title>
-      <link>https://www.chosun.com/national/nie/2024/08/28/HNAHWYAV5NH7PLL33KVW6TZSC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/28/HNAHWYAV5NH7PLL33KVW6TZSC4/</guid>
-      <dc:creator>정세정 장기중 역사 교사, 기획·구성=오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 Aug 2024 15:30:00 +0000</pubDate>
-      <content:encoded>18세기에 세워진 스페인의 한 교회에서 천사 조각상을 엉터리로 복원해 논란이 되고 있다는 외신 뉴스가 나왔어요. 제대로 연구나 조사를 하지 않고 복원을 하면서 벌어진 일이라고 해요. 복원된 천사 조각상은 새하얀 얼굴에 새빨간 입술만 도드라지게 칠했고, 이목구비는 전체적으로 뭉개진 모습이에요. 스페인의 복원·보존 전문가 협회는 “전문가가 수행하지 않은 복원 작업으로 인한 유산에 대한 공격”이라고 말했지요.&lt;br&gt;&lt;br&gt;과거 역사와 시간을 고스란히 간직하고 있는 문화재를 원형 그대로 복원하는 것은 어려운 일이에요. 문화재 복원은 어떻게 해야 하는지, 세계 곳곳에서 진행된 문화재 복원에는 어떤 게 있는지 한번 살펴볼까요?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7WEOD2VKRFFRDLCDASL2ZFXSHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;①18세기에 세워진 스페인의 한 교회에서 복원한 천사 조각상. 얼굴은 하얗고 새빨간 입술만 도드라져 엉터리 복원으로 논란이 되고 있어요. ②시리아에 있는 고대 도시 팔미라의 바알샤민 신전. 2015년 테러 단체 이슬람국가(IS)가 폭탄을 터뜨려 파괴하기 전 아름다운 모습이에요. ③2016년 3D 스캔 기술로 재현한 팔미라의 유적 '개선문'이 영국 런던 트래펄가 광장에 전시됐어요. ④캄보디아의 앙코르와트. 크메르제국의 대표 유적이지만, 오랜 세월 방치되고 전쟁을 겪으며 훼손됐어요. 한국을 포함한 여러 국가들이 함께 복원에 나섰습니다. /X(옛 트위터)·위키피디아·브리태니커&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;문화재 보존과 복원&lt;/b&gt;&lt;br&gt;&lt;br&gt;유네스코는 문화재 보존을 ‘문화재의 수명을 최대한 늘리기 위해 대상물에 직접적이고 적절한 조치를 취하거나, 적합한 환경을 마련해 주는 일’이라고 정의하고 있어요.&lt;br&gt;&lt;br&gt;복원은 문화재를 보존하는 가장 적극적인 방법으로, 대상물에 직접 손을 대는 것을 말해요. 문화재를 보존할 때 명심해야 하는 중요한 약속이 하나 있어요. 바로 문화재의 수명을 연장하기 위해 노력하되 원형을 지켜야 한다는 것이에요. 무리하게 문화재 본래 모습을 변형하거나 개조하지 않아야 해요.&lt;br&gt;&lt;br&gt;&lt;b&gt;팔미라&lt;/b&gt;&lt;br&gt;&lt;br&gt;시리아의 거대한 사막에 위치한 팔미라는 고대 실크로드를 중심으로 무역이 발달한 시기에 번영했던 도시예요. 오아시스를 따라 만들어졌는데요. 오아시스 덕분에 주변 사막지대와는 달리 동서를 오가는 상인들로 북적였다고 합니다.&lt;br&gt;&lt;br&gt;팔미라는 장대하고 아름다운 고대 유적지로서 가치를 인정받아 1980년 유네스코 세계문화유산으로 지정됐어요. 팔미라의 예술과 건축은 전통 기술에 그리스·로마, 페르시아 문화가 혼합된 특징을 보인다고 해요. 고대 원형극장과 바알샤민 신전, 벨 신전 등이 유명하지요.&lt;br&gt;&lt;br&gt;하지만 지난 2015년 테러 단체 이슬람국가(IS)가 팔미라를 점령하면서 많은 유적지가 훼손됐어요. IS가 유적지를 파괴한 명분은 우상숭배 금지였어요. IS는 바빌로니아의 최고 신인 ‘벨’을 모신 벨 신전을 30t(톤) 넘는 폭탄을 이용해 폭파했어요. 폭풍과 강우를 지배하는 여신 바알샤민에게 제사를 지내기 위해 만들어진 바알샤민 신전도 폭탄을 터뜨려 파괴했습니다. 갖은 고난에도 수천년 이상 보존된 유적지들이 사라지게 된 것이죠.&lt;br&gt;&lt;br&gt;팔미라는 IS가 물러난 2016년 이후 복원이 시작됐어요. 2017년 이탈리아의 문화재 전문가들이 팔미라 국립박물관이 소장하고 있던 조각상 2점을 복원했어요. 2~3세기에 만들어진 남성과 여성 흉상 조각상이었죠. 복원 전문가들은 조각상 파편을 이탈리아로 가져가 하나씩 맞추고 부족한 부분은 3D 프린터를 이용해 복원했다고 해요.&lt;br&gt;&lt;br&gt;IS가 파괴한 팔미라 유적지 중에는 개선문도 있어요. 3세기 로마제국 황제 세베루스 때 세운 건축물이죠. 고대 그리스와 로마, 페르시아 문화 특징이 융합된 가치 있는 건축물이었어요. 지난 2016년 하버드대와 옥스퍼드대가 함께 만든 디지털고고학연구소(IDA)는 파괴된 개선문을 3D 스캔 기술로 재현했어요. 이탈리아 대리석을 이용했고, 원래 크기의 3분의 2 정도로 만들었대요. 재현한 개선문은 영국 런던의 트래펄가 광장에 전시했다고 합니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;앙코르와트&lt;/b&gt;&lt;br&gt;&lt;br&gt;캄보디아의 앙코르와트는 9세기부터 15세기까지 융성했던 크메르 제국의 대표 유적이에요. 앙코르(Angkor)는 ‘왕궁이 있는 도시’, 와트(Wat)는 ‘사원’이라는 뜻이에요. 앙코르는 크메르 제국의 수도였습니다.&lt;br&gt;&lt;br&gt;당시 크메르족은 왕과 귀족이 죽으면 그가 믿던 신과 하나가 된다고 믿었어요. 그래서 나중에 신과 함께 지낼 사원을 지었어요. 앙코르와트도 국왕이었던 수리야바르만 2세가 힌두교의 신 ‘비슈누’와 하나가 되기 위해 건립한 사원이에요. 하지만 크메르 제국이 쇠퇴하면서 관리가 잘 안 되다가 15세기 왕조 멸망 후엔 정글 속에 방치됐어요.&lt;br&gt;&lt;br&gt;특히 1970년대 초 베트남군과 크메르루주(캄보디아 급진 좌파 무장 단체)가 앙코르와트 지역에서 전투를 벌이면서 앙코르와트는 크게 훼손됐어요. 앙코르와트는 1992년 세계문화유산으로 등재됐는데요. 유네스코는 동시에 ‘위험에 처한 유산’으로도 지정했어요. 당시 앙코르와트 보존 상태가 매우 열악했기 때문이에요. 유네스코는 캄보디아 정부에 앙코르와트 전담 관리 기구도 설치하라고 주문했어요. 하지만 거대한 앙코르와트를 캄보디아 혼자 힘으로 복원하고 관리할 수 없었어요. 그래서 세계 각국이 함께 복원에 나서게 됐고, ‘앙코르 역사유적 보호개발 국제협력위원회(ICC-Angkor)’가 만들어졌답니다. 그 덕에 앙코르와트는 2004년 위험에 처한 유산 목록에서 제외됐어요.&lt;br&gt;&lt;br&gt;이후에도 앙코르와트 복원은 계속됐어요. 우리나라는 2015년 17번째 국가로 앙코르 유적 복원 사업에 참여했어요. 여러 나라의 관련 기관들이 복원에 참여하는 만큼 국제협력위원회는 ‘캄보디아 전통 기술 우선’이라는 원칙을 정했다고 해요. 선진국들의 신기술과 신재료가 도움이 될 수 있지만, 캄보디아 전통 기술을 우선 적용하는 것이 문화재를 원래 모습대로 복원하는 측면에서 중요하기 때문이라고 합니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>동생이 빠지자 형 뛰어들었다…저수지서 실종된 40대 형제</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/27/PEBJMDRG4RGFRKJDWQVDVPFDPI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/27/PEBJMDRG4RGFRKJDWQVDVPFDPI/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 Aug 2024 14:17:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QWOFCBUSS6XKYXOCAFKDKHRZII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 홍천 북방면 성동리 대룡저수지 사고 현장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 홍천군의 한 저수지에서 형제 사이인 40대 남성 2명이 실종돼 소방당국이 수색 중이다.&lt;br&gt;&lt;br&gt;27일 소방과 경찰에 따르면 이날 오후 2시 54분쯤 강원 홍천군 북방면 성동리 대룡저수지에서 40대 작업자 2명이 물에 빠져 실종됐다.&lt;br&gt;&lt;br&gt;이날 대룡저수지에서 관광용 부교 건설 작업을 하던 A씨는 풀린 바지선 로프를 잡으려다가 저수지에 빠졌다. 이에 인근에 있던 또 다른 작업자 B씨가 A씨를 구조하기 위해 저수지에 입수했으나 빠져나오지 못한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이들은 형제 관계로 동생이 물에 빠지자 형이 구하기 위해 뛰어들었다가 변을 당했다. 당시 작업에는 3명이 투입됐는데 물에 빠지지 않은 나머지 작업자 1명이 소방당국에 구조를 요청했다.&lt;br&gt;&lt;br&gt;신고를 접수한 소방 당국은 경찰, 군청 등 인력 76명과 장비 16대를 투입해 대룡저수지 일대를 수색했지만 두 사람을 찾지 못했다. 28일 오전 7시 30분부터 수색을 재개할 예정이다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 정확한 사고 경위 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>배드민턴협회장 “안세영 얼마나 한 맺혔으면…이사들이 제 눈‧귀 가려”</title>
       <link>https://www.chosun.com/national/national_general/2024/08/27/O2RB6IFTV5AJJHPW6M2BFAIOEI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/27/O2RB6IFTV5AJJHPW6M2BFAIOEI/</guid>
@@ -911,24 +954,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NJFUUPQ46BI43PL3JKHB4H4LIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이중근 부영그룹 회장이 27일 서울 마포구 케이터틀에서 열린 제19대 대한노인회 중앙회장 선거에서 회장직에 당선돼 당선증을 전달받고 있다. /부영그룹&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이중근(83) 부영그룹 회장이 19대 대한노인회 중앙회장에 당선됐다.&lt;br&gt;&lt;br&gt;이 회장은 27일 서울 마포구 복합 문화 공간 케이터틀(옛 거구장)에서 열린 선거에서 총 273표 중 187표를 얻어 김호일 현 회장(66표) 등을 제치고 차기 회장으로 선출됐다. 2017~2020년 제17대 회장을 지내다 중도 사퇴한 뒤 다시 한번 당선된 것이다. 임기는 오는 10월부터 4년이다.&lt;br&gt;&lt;br&gt;이 회장은 당선 후 “1000만 노인을 대표해 봉사하고 헌신할 기회를 주신 여러분께 깊은 감사 말씀을 드린다”고 했다. 그는 “우리 노인회가 노인다운 노인으로, 존경받는 노인으로, 후대를 생각하는 노인으로 국가 사회 발전에 기여하며 고령 사회를 선도하는 존경받는 어르신 단체로 자리매김할 수 있게 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;이 회장은 그간 개인으로 2650억원을 사회에 기부했고, 부영그룹 차원에선 1조1800억원을 기부했다. 이 회장의 결단으로 부영그룹은 아이를 낳은 직원에게 자녀 1인당 출산 장려금 1억원을 주겠다고 약속하고 올해 66명에게 총 70억원을 지급해 화제를 모으기도 했다. 부영그룹은 저출산 문제 해결에 기여한 공로를 인정받아 지난달 대통령 표창을 받았다. 또 그동안 전국 초·중·고 100여 곳에 이 회장 아호를 딴 기숙사인 우정(宇庭)학사를 설립·기증하고, 캄보디아·라오스에 버스 2000대를 기증하기도 했다.&lt;br&gt;&lt;br&gt;이 회장은 역사 바로 알리기에도 앞장서고 있다는 평가를 받는다. 사재를 들여 세운 출판사 우정문고를 통해 역사서 ‘6·25전쟁 1129일’과 ‘광복(光復) 1775일’ 등 역사서 5권을 펴냈다.&lt;br&gt;&lt;br&gt;대한노인회는 1970년 정부로부터 법인 설립 허가를 받은 보건복지부 산하 사단법인이자 국내 최대 노인 단체다. 회원 수 300만명에 전국 지부 244곳, 해외 지부 20곳을 두고 있다. 노인 취업∙복지 지원을 위해 정부 예산 400억원을 위탁받아 운영한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“답답하고 분하다” 한국 성인 절반, 만성적 울분 상태</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/08/27/6R32OI7O45D3JCKATIP5VXKLOI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/27/6R32OI7O45D3JCKATIP5VXKLOI/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 Aug 2024 11:24:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QL27YRBKKSO5NJW5UBMJI7A46E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출근하는 시민들. 기사 내용과 무관한 사진. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라 성인 절반은 만성적인 울분(鬱憤·답답하고 분함) 상태에 있는 것으로 나타났다. 30대에서는 심각한 수준의 울분을 느끼는 비율이 연령대 가운데 가장 높았다.&lt;br&gt;&lt;br&gt;서울대 보건대학원 유명순 교수 연구팀은 27일 이 같은 내용의 2024년 한국 사회 울분 조사 결과를 발표했다. 지난 6월 만 18세 이상 1024명에게 ‘1년 동안 심하게 스트레스 받는 일’ 등을 19개 문항으로 묻고, 0점(전혀 없었다)~4점(많이 있었다)으로 답하게 했다. 그 결과 중간 수준의 울분(1.6점 이상~2.5점 미만)이 39.9%, 심각한 울분(2.5점 이상)이 9.3%로 도합 49.2%가 만성적 울분으로 집계됐다. 코로나 사태가 벌어졌던 2021년의 울분 조사(중간 44.3%, 심각 13.9%)에 비해서는 다소 완화됐다.&lt;br&gt;&lt;br&gt;심각한 울분은 의학적으로 중증, 중간 수준 울분은 중등증(중증과 경증 사이)으로 분류될 수 있는 수준을 말한다. 심각한 울분 비율은 30대에서 13.9%로 가장 높았고, 50대(11.9%), 40대(11.8%), 18~29세(11.4%) 등이었다. 60대 이상에선 3.1%로 가장 낮았다. 한국인의 심각한 울분 비율(9.3%)은 2019년 독일인 대상 유사 조사치(3.8%)의 2.4배에 달했다.&lt;br&gt;&lt;br&gt;중간 수준까지 합친 만성적 울분 비율은 50대(54.5%)에서 가장 높고 30대(54.3%), 40대(51.7%), 18~29세(47.5%), 60세 이상(43.2%) 순이었다. 스스로 사회·경제적 하층이라고 답한 이들의 만성적 울분 비율이 60%로 ‘상층’(38.5%)에 비해 훨씬 높았다. 응답자들은 의료·사법·교육시설이나 학교·직장·모임, 가족·이웃·친지로부터 심한 모욕이나 부당한 취급을 당했다고 느낀 것으로 조사됐다. 정치·정당의 부도덕과 부패 등 사회적 요인도 울분 수준을 높였다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>여성 최초 농구코치 나정선 명예교수 별세</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/08/27/RUYG55DL7FCWJDIIZEG4JTCR6U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/08/27/RUYG55DL7FCWJDIIZEG4JTCR6U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 Aug 2024 11:40:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7SCSK24M3FFE3GGY4ZTQQNU2KQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;한국 최초의 여성 농구 지도자 나정선 명예교수. /국민체육진흥공단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 최초 여성 농구 코치이자 한국 여성 체육계 선구자 나정선 숙명여대(83) 명예교수가 26일 오후 11시 노환으로 별세했다. 1955년 경기여중 재학 시절 농구 선수로 발탁된 고인은 경기여고 3학년이던 1960년 국가대표에 처음 발탁됐고 상업은행 농구팀에서 활약했다. 1967년 국내 최초 여성 농구부인 동대문여중에서 코치로 활동하기 시작했고 1987년 하계유니버시아드 여자농구대표팀 감독을 맡았다. 숙명여대 보건체육과를 나와 국민대에서 박사 학위를 받고 1982년 숙명여대 체육교육과 교수로 부임했다. 대한체육회 여성체육위원회 위원, 대한농구협회 부회장, 동계유니버시아드대회 단장 등을 맡았다. 빈소는 서울성모병원 장례식장. 발인 29일 오전 6시40분. (02)2258-5940&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[서초동 25시]  ‘난동 재소자’ 급증에…교정공무원 체력기준 강화한다</title>
       <link>https://www.chosun.com/national/court_law/2024/08/27/GNS5N3MKT5EV3OE3ADO27UOAN4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/27/GNS5N3MKT5EV3OE3ADO27UOAN4/</guid>
@@ -936,15 +961,6 @@
       <description/>
       <pubDate>Tue, 27 Aug 2024 09:00:19 +0000</pubDate>
       <content:encoded>작년 6월, 서울동부구치소에서 입소절차를 밟던 여성 A씨가 교도관에게 달려들어 손등과 손가락을 깨무는 일이 벌어졌다. 한 교도관이 입소 전 A씨가 갖고 있던 구리선 뭉치를 폐기한다고 하자, “니가 뭔데 그걸 버리냐”며 이 같은 일을 벌인 것이다. A씨에게 물린 교도관은 손등 부위가 찢어지는 부상을 입었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XF7VIANOVNKSDPTFGBCD3RWQR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부구치소 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 3월 서울의 한 구치소에선 접견을 끝내고 수용거실로 복귀하던 살인미수범 B씨가 교도관의 턱을 손으로 때리는 일도 일어났다. 당시 교도관은 B씨처럼 접견을 마친 수용자들을 안내하고 있었는데, ‘묻지마 폭행’을 당한 것이다.&lt;br&gt;&lt;br&gt;이처럼 교도관 폭행을 비롯해 교정시설 내에서 발생하는 사고가 최근 증가하는 것으로 나타나자, 법무부에서 교정공무원 선발 체력검사 합격 기준을 강화하는 방안을 검토 중인 것으로 27일 확인됐다.&lt;br&gt;&lt;br&gt;현행 교정공무원 선발 체력검사는 20미터 왕복 오래달리기‧악력(握力)‧60초간 윗몸일으키기‧10미터 2회 왕복달리기 등 4가지를 평가한다. 이 중 한 종목 이상 실격하거나, 두 종목 이상 합격 기준을 넘기지 못하면 탈락한다. 남성 지원자를 기준으로 20미터 왕복 오래달리기 48회 이상, 악력 47.0kg 이상, 윗몸일으키기 1분간 38회 이상, 10미터 2회 왕복달리기 12.29초 이내를 기록해야 한다. 이는 경찰‧소방공무원의 합격 기준보다 낮은 수준이라고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6E55GU5T7JKSDCK3YF5LUEWHZI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2022년 인천 연수구 송도컨벤시아에서 열린 국제치안산업대전에서 한 경찰 지원생이 순환식 체력검사 체험을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 연구용역을 통해 체력검사 강화 방안의 가안(假案)을 확보한 상태다. 본지가 입수한 중부대 산학협력단의 연구보고서에 따르면, 연구팀은 8종목 순환식 체력검사 도입을 제시했다. 현행 체력검사는 4개 종목을 나눠 시험을 치른 뒤 합격 여부를 결정하는데, 순환식 체력검사는 전체 종목을 쉬지 않고 한 번에 수행하는 차이가 있다. 경찰공무원은 2026년 채용시험부터 순환식 체력검사를 전면 도입할 예정이고, 소방공무원도 2027년부터 도입하는 것을 추진 중이다.&lt;br&gt;&lt;br&gt;연구팀이 제시한 종목은 교정공무원이 근무 중 마주하는 상황을 반영한 것으로 알려졌다. ‘계단오르내리기’가 대표적이다. 현재 전국 교정시설 대부분의 복도가 좁고, 계단이 많은 점을 반영해 고안됐다고 한다. 교도관과 재소자가 맞부딪치는 상황을 가정해 ‘당기기밀기’ 등의 종목도 제안됐다. 응급상황이 발생할 경우 초동조치 능력을 평가할 수 있는 더미끌기도 포함됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SARF6U2UJF6NNBR7R5G4SOJ4HQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;교도소의 한 수용자가 교도관의 감시 아래 운동하고 있는 모습. 위 사진은 본 기사와 관련이 없습니다. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 5년간 교정시설에서 발생하는 교정사고가 꾸준히 증가하고 있는 점이 법무부가 체력 기준 강화를 검토하는 배경이라고 한다. 법무부 교정통계연보에 따르면, 교정사고는 2019년 1000건에서 2020년 1241건, 2021년 1278건, 2022년 1527건, 2023년 1795건을 기록했다. 4년 만에 1.7배로 증가한 것이다. 법무부 관계자는 “교정공무원들은 현장에서 벌어지는 급작스러운 폭행은 물론, 김길수 같은 탈주범을 쫓아 뛰어야 할 때도 있다”며 “근무 중 다양한 상황에 맞닥뜨리는 만큼 다양한 강화 방안을 검토 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>열차 놓치고 화내다 역무원 낭심 걷어찬 연구원, 벌금 400만원</title>
-      <link>https://www.chosun.com/national/regional/2024/08/27/BQHUZ5QOLBAZZA32GSZJW7UESQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/27/BQHUZ5QOLBAZZA32GSZJW7UESQ/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 Aug 2024 08:33:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOIPX7HDNFCOHOGTNKRO6EMBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정시에 출발한 열차를 놓친 뒤 역무원에게 화풀이를 하다가 무릎으로 역무원의 낭심을 걷어찬 40대 연구원에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;27일 법조계에 따르면 대전지법 형사10단독 김태현 판사는 철도안전법 위반 혐의 등으로 재판에 넘겨진 한국재료연구원 소속 연구원 A(42)씨에게 벌금 400만원을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월 20일 오후 11시 40분쯤 대전시 동구 대전역 승강장에서 오후 11시 34분에 출발하는 열차를 놓쳤다는 이유로 승강장에 있던 30대 역무원 B씨에게 “열차가 11시 34분에 출발하는 게 맞냐? 관련 규정을 가지고 오라”고 행패를 부리고 B씨의 왼쪽 가슴 부위를 밀쳤다. A씨는 B씨가 승강장 중앙으로 이동하자, B씨의 등을 밀치고 오른쪽 무릎을 이용해 B씨의 낭심을 1회 걷어차는 등 전치 2주 치료가 필요한 상해를 입힌 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;김 판사는 “본인의 부주의로 열차를 놓쳤음에도 상식에 반하는 이의를 제기하고, 철도 종사자를 폭행해 직무집행을 방해했다”며 “다만 범죄 전력이 없고, 피해자와 합의한 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
