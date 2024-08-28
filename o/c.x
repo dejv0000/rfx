@@ -13,6 +13,95 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>문 닫힌 노래방 침입 경찰관, 13년 전 미제 강간범 DNA 일치</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/28/6N457UMNCZFFBLQS7W27V4KBHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/28/6N457UMNCZFFBLQS7W27V4KBHU/</guid>
+      <dc:creator>구동완 기자, 김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Aug 2024 13:30:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WSDUP2SAKKI5ZE3RCOMN2STENM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 은평경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 은평구의 한 노래방에 무단 침입해 붙잡힌 현직 경찰관이 DNA 대조 분석을 통해 13년 전 강간 사범으로 드러나 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 은평경찰서는 지난 27일 40대 남성 A씨를 주거침입·강간 등 혐의로 서울서부지검에 구속 송치했다고 28일 밝혔다. 경찰에 따르면 A씨는 서울경찰청 기동대 소속 경위로 이날 직위해제됐다.&lt;br&gt;&lt;br&gt;A씨는 지난 5월 영업이 끝난 은평구 노래방에 무단으로 침입한 혐의를 받는다. A씨는 지인들과 술자리를 갖고 귀가하던 중 문이 닫혀있던 노래방에 들어간 것으로 파악됐다. 사건 신고가 접수된 지 3개월 만인 지난 22일에 체포된 A씨는 경찰 조사에서 “술에 취해 있어 당시 상황이 기억나지 않는다”고 혐의를 부인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 조사 과정에서 A씨의 DNA를 분석·대조한 결과 2011년 서울 강남에서 일어난 미제 강간 사건의 현장에서 발견된 DNA와 일치한다는 사실을 확인하고 강간 혐의를 추가 적용했다.&lt;br&gt;&lt;br&gt;당시 미제 사건의 피의자는 술에 취한 채 길을 걷던 여성을 쫓아가 강간을 저지른 뒤 증거를 인멸하기 위해 피해자가 몸을 씻는 것까지 지켜보는 등 치밀하게 범죄를 저질렀다고 한다. 피의자로 지목된 A씨는 당시 청와대 경비단에 소속돼 근무 중이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>간호법 통과에 고대·이대·중앙대의료원 간호사들 "파업 철회"</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/08/28/FNX7MAGY2ZFSNEGEX72XNQVDFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/28/FNX7MAGY2ZFSNEGEX72XNQVDFY/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Aug 2024 13:28:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HZAQIXGXLFCPTPZMEB5OXP5C5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한간호협회 간호사들이 28일 국회 본회의에서 간호법이 통과되자 방청석에서 기쁨의 눈물을 흘리고 있다. /이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;간호사들의 숙원이었던 간호법이 28일 국회 본회의를 통과하면서 29일 파업을 예고했던 보건의료노조의 소속 간호사·의료기사 상당 수가 업무를 계속 하기로 했다. 간호사들은 보건의료노조의 주축이다. 정부는 안도하는 모습을 보이고 있다.&lt;br&gt;&lt;br&gt;보건의료노조 조합원 중 60% 이상을 차지하는 간호사들의 숙원인 간호법이 통과되면서 파업을 예고했던 병원 61곳 중 상당수에서 임금 및 단체협상(임단협)이 급물살을 탄 것이다.&lt;br&gt;&lt;br&gt;의료계에 따르면 28일 오후 7시까지 파업을 예고했던 병원 61곳 중 18곳(30%)이 “임금 및 단체협상(임단협)이 타결돼 파업을 철회한다”고 밝혔다. 막판 협상에 성공한 병원들은 2~3%대 임금 인상과 근로시간 단축 등에 합의한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;고려대의료원 소속 3개 병원, 이화여대의료원 소속 2개 병원, 중앙대의료원 소속 2개 병원 등 주요 병원에서 임단협이 타결되면서 파업 동력이 크게 떨어졌다는 평가가 나온다. 보건의료노조도 이날 성명을 내고 “간호법 통과와 노동위원회의 적극적 중재 노력 등이 긍정적 영향을 미치면서 원만한 타결 흐름이 만들어지고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;·&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 경찰 “NCT 태일 성범죄 피의자 입건, 동성 미성년 대상은 아냐”</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/28/DT6UUZ7WD5DZREU2V4QPHV4Z3Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/28/DT6UUZ7WD5DZREU2V4QPHV4Z3Q/</guid>
+      <dc:creator>구아모 기자, 김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Aug 2024 11:49:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B3RIC5HBPHHTKS62NC4Z4FI2AY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;NCT 태일. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 방배경찰서는 28일 아이돌 그룹 NCT 멤버 태일(30·본명 문태일)을 성범죄 피의자로 형사 입건해 조사 중이라고 밝혔다. 경찰 관계자는 다만 “동성 미성년 대상 성범죄는 아니다”라고 했다.&lt;br&gt;&lt;br&gt;최영기 방배서장은 본지 통화에서 “NCT 태일이 방배서에서 조사받는다는 사실만 보고받았지 피소 시점이나 정확한 혐의 등에 대해서는 아는 바가 없다” 했다. 방배서 이인춘 여성청소년과장은 “(현재 퇴근한 뒤) 집이라 전산에 올라온 정확한 내용은 내일 확인 가능하다”고 했다.&lt;br&gt;&lt;br&gt;소속사 SM엔터테인먼트는 이날 입장문에서 “최근 태일이 성범죄 관련 형사사건에 피소된 사실을 확인했다”며 “이와 관련해 사실관계를 파악하던 중 해당 사안이 매우 엄중함을 인지해 더 이상 팀 활동을 이어갈 수 없다고 판단했고, 태일과 논의해 팀 탈퇴를 결정했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/FBAWA4ESVFEZFNI55APQCUINAM.JPG?width=1588&amp;height=893&amp;auth=3a09f99c5794cd536aa1d4a798ff1c629ab64e917a02c7bec3ddd435045a615a&amp;smart=true" type="image/jpeg" height="893" width="1588">
+        <media:description type="plain">(서울=뉴스1) 권현진 기자 = NCT 태일이 16일 서울 서초구 서울웨이브 아트센터에서 열린 SM 新유닛 NCT 도재정의 스페셜 론칭쇼 포토콜 행사에서 포즈를 취하고 있다. 2023.4.16/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 권현진 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘불법 공매도’ 과징금 첫 소송 금융위 1심 패소</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/28/IBOLOSFKPJHUTGBHKTL4OQI3LA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/28/IBOLOSFKPJHUTGBHKTL4OQI3LA/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Aug 2024 10:46:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BAK6MTGTUGWDD2R4ZKAS6FPL3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중구 금융위원회 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 불법(무차입) 공매도에 내린 금융당국의 과징금 처분을 취소해야 한다고 판결했다. 금융위원회가 2021년 4월 무차입 공매도에 대한 과징금 제도를 시행한 후 법원에서 나온 첫 번째 판결이다. 금융당국은 항소를 검토하고 있다. &lt;br&gt;&lt;br&gt;28일 법조계에 따르면, 서울행정법원 행정4부(재판장 김정중)는 외국계 금융회사 케플러 쉐브레(케플러)가 금융위 산하 증권선물위원회(증선위)를 상대로 낸 과징금 부과 처분 취소소송에서 지난 23일 원고 승소 판결을 내렸다.&lt;br&gt;&lt;br&gt;증선위는 작년 7월 무차입 공매도를 한 혐의로 케플러에 과징금 10억 6300만원을 부과했다. 공매도는 가격이 하락할 것으로 예상되는 종목의 주식을 빌려서 판 뒤 실제로 주가가 내려가면 싼값에 되사 차익을 내는 매매 방식이다. 국내에서는 주식을 빌리지 않고 파는 무차입 공매도를 금지하고 있다.&lt;br&gt;&lt;br&gt;케플러는 2021년 9월 A 펀드가 소유하지 않은 SK하이닉스 주식 4만 1919주를 증권사를 통해 매도 주문했다. 케플러 측은 당초 A 펀드가 아닌 B 펀드를 통해 주식을 매도하려 했는데, 직원의 실수로 오기가 있었다는 입장이다. 증권사에 매도 주문한 주식은 2만 9771주에 불과해 4만여 주 공매도를 상정한 과징금 처분은 잘못이라는 주장도 했다.&lt;br&gt;&lt;br&gt;재판부는 케플러 측의 손을 들어줬다. “케플러 직원이 공매도를 위탁한 것은 펀드 번호를 오기한 과실에 따른 것”이라며 “주가가 하락할 것을 예상하고 (불법적인) 공매도를 위탁하려 했던 것은 아니다”고 판단했다. 케플러가 공매도로 얻은 이익이 특별히 없다는 점도 고려했다.&lt;br&gt;&lt;br&gt;법원은 “A사가 4만 1919주 매도 주문을 냈지만, 이 중 케플러는 2만 9771주만 매도해달라고 했다”면서 과징금 산정 기준액을 “공매도를 위탁한 부분에 한정해야 한다”고 했다.&lt;br&gt;&lt;br&gt;금융당국은 판결문을 검토한 후 항소 여부를 결정할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>NCT 메인보컬 태일, 성범죄 피소… SM “사안 엄중해 팀 탈퇴” </title>
+      <link>https://www.chosun.com/national/national_general/2024/08/28/MK23ZGRF6JBMZOLBXD53USOGGY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/28/MK23ZGRF6JBMZOLBXD53USOGGY/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Aug 2024 10:27:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BQAXFH64IZFPRP7NS7UQUZDKOA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;NCT 태일/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 NCT의 태일이 성범죄에 연루돼 팀을 탈퇴했다.&lt;br&gt;&lt;br&gt;SM엔터테인먼트는 28일 입장문을 통해 “당사는 최근 태일이 성범죄 관련 형사사건에 피소된 사실을 확인했다”고 밝혔다. 이어 “사건과 관련해 사실관계를 파악하던 중 사안이 매우 엄중함을 인지해 더 이상 팀 활동을 이어갈 수 없다고 판단했고, 태일과 논의해 팀 탈퇴를 결정했다”고 했다.&lt;br&gt;&lt;br&gt;태일은 현재 경찰 조사에 성실히 임하고 있다고 SM은 전했다.&lt;br&gt;&lt;br&gt;SM은 “수사 진행 상황에 따라 추가 입장을 말씀드리겠다”며 “당사 아티스트가 물의를 일으킨 점에 대해 깊이 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;태일은 2016년 4월 NCT의 유닛 NCT U 멤버로 데뷔했다. 작년 8월에는 오토바이 교통사고로 활동을 중단했다. 최근에는 NCT와 유닛 NCT 127 미니 6집 ‘삐그덕’ 앨범에 참여해 활약해왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/FBAWA4ESVFEZFNI55APQCUINAM.JPG?width=1588&amp;height=893&amp;auth=3a09f99c5794cd536aa1d4a798ff1c629ab64e917a02c7bec3ddd435045a615a&amp;smart=true" type="image/jpeg" height="893" width="1588">
+        <media:description type="plain">(서울=뉴스1) 권현진 기자 = NCT 태일이 16일 서울 서초구 서울웨이브 아트센터에서 열린 SM 新유닛 NCT 도재정의 스페셜 론칭쇼 포토콜 행사에서 포즈를 취하고 있다. 2023.4.16/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 권현진 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>수서역 환승센터, 백화점·호텔 품은 26층 복합건물로</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/28/2UQFPPIOAFEIDGSGM4SKEMMTUI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/28/2UQFPPIOAFEIDGSGM4SKEMMTUI/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Aug 2024 11:20:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I5ZLZXZGF5CHRNZ7Q35VHIZOI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수서역 환승센터 조감도. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구 수서역 일대가 백화점과 호텔 등을 품은 최고 26층 복합 환승센터로 탈바꿈한다.&lt;br&gt;&lt;br&gt;서울시는 건축위원회를 열고 ‘수서역 환승센터 복합 개발 사업’ 계획을 통과시켰다고 28일 밝혔다. 이 사업은 수서역 일대 10만㎡에 백화점과 4성급 호텔, 연구 개발(R&amp;amp;D)센터 등을 갖춘 복합 환승센터를 짓는 사업이다. 최고 26층 빌딩 9동이 들어선다. 내년 상반기 착공해 2030년 준공하는 게 목표다.&lt;br&gt;&lt;br&gt;수서역은 SRT(수서고속철도)뿐 아니라 GTX(수도권광역급행철도)-A, 서울 지하철 3호선, 수인분당선 등 네 철도 노선이 통과하는 서울 강남권의 광역 교통 허브(중심)다. 2030년에는 수서광주선도 개통할 예정이다.&lt;br&gt;&lt;br&gt;서울시는 광역 교통 허브인 수서역 일대를 서울 강남과 전국을 아우르는 첨단 산업단지로 개발한다는 계획이다. 서울시 관계자는 “수서역 복합 환승센터에 연구개발센터를 두고 공장은 지방에서 돌릴 수도 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;백화점은 신세계백화점이 들어설 예정이다. 서울 반포동 신세계강남점에 이어 강남권 두 번째 신세계백화점이다. 호텔은 외국인 관광객 수요가 높은 4성급 호텔(239실 규모)을 지을 계획이다. 공연·전시장과 892실 규모 오피스텔도 생긴다.&lt;br&gt;&lt;br&gt;수서역 환승센터는 시민들이 열차를 쉽게 갈아탈 수 있도록 설계했다고 한다. 같은 층에서 SRT와 수서광주선을 갈아탈 수 있다. 한 층만 내려가면 GTX-A 대합실이 나온다.&lt;br&gt;&lt;br&gt;서울시는 환승센터 남쪽 수서 차량 기지에 콘크리트 뚜껑을 씌우고 그 상부 공간을 개발하는 사업도 추진 중이다. 8만7000㎡에 로봇·IT(정보통신) 산업단지와 공원 등을 조성한다는 계획이다. 현재 구체적 활용 계획을 짜는 용역을 진행하고 있다. 서울시 관계자는 “환승센터를 걸어서 오갈 수 있도록 녹지 보행로를 만들 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NOUXKF7J7VAGLPD25CXVAFTSUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수서역 환승센터 조감도/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>응급실 실려간 자해 환자 44%가 1020</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/08/28/UNZPQFQTBJG3DEDQ6JP232B7VQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/28/UNZPQFQTBJG3DEDQ6JP232B7VQ/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Aug 2024 11:28:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RQSVDJKCQFJKHKJZIXLE2YI7II.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;28일 서울 중구 국립중앙의료원 응급의료센터에서 간호사와 구급대원이 응급환자를 돌보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자해·자살 시도로 응급실을 찾는 환자가 10년 사이 1.6배로 늘었다. 특히 10·20대의 자해·자살 시도는 같은 기간 2.5배로 늘었다.&lt;br&gt;&lt;br&gt;질병관리청은 지난해 다쳐서 응급실 23곳에 방문한 ‘손상’ 환자 20만3285명을 분석한 자료인 ‘2023 손상 유형 및 원인 통계’를 28일 발표했다. 지난해 응급실 손상 환자 추락·낙상(떨어짐) 환자가 37.8%로 가장 많았고, 이어 둔상(부딪힘·19.4%), 자동차 등 운수 사고(13.1%) 등 순이었다.&lt;br&gt;&lt;br&gt;지난해 손상 환자 20명 중 1명(1만58명)은 자해·자살 시도자였다. 이 중 3268명(32.5%)이 입원 치료를 받았고, 589명(5.9%)이 사망했다. 지난 2013년 자해·자살 시도자는 6142명이었는데, 10년 만에 1.6배가 된 것이다.&lt;br&gt;&lt;br&gt;특히 10·20대가 지난해 자해·자살 시도자 중 43.8%(4407명)를 차지했다. 2013년 10·20대 비율은 29.3%(1798명)였다. 10년 전에는 30·40대의 자해·자살이 39.2%(2405명)로 10·20대보다 많았다.&lt;br&gt;&lt;br&gt;자동차 등 운수 사고의 경우, 65세 이상 환자의 비율이 10년 사이 1.7배로 늘었다. 지난해 운수 사고 환자 5명 중 1명(5749명)은 65세 이상 노인이었다. 이 중 노인이 운전자인 경우가 절반 이상(3080명)이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘구하라법’ 국회 통과… 친오빠 4년 만에 “만세!” 외쳤다</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/28/GXCBK6HUNFEUHCSMMZKZXHNSCY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/28/GXCBK6HUNFEUHCSMMZKZXHNSCY/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Aug 2024 11:19:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KC4A6P4NEBDZHLY7IOYGSGTMG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2019년 11월 25일 가수 고 구하라의 사진. / 조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양육 의무를 저버린 부모는 자녀 사망시 상속권을 갖지 못하도록 하는 일명 ‘구하라법’(민법 개정안)이 28일 국회를 통과한 가운데, 고(故) 구하라의 친오빠 구호인씨가 소감을 밝혔다.&lt;br&gt;&lt;br&gt;구씨는 이날 인스타그램에 구하라법이 통과됐다는 소식이 담긴 기사를 공유하며 “#구하라법 #통과 드디어 통과 만세!”라고 적었다. 그는 “작은 관심들이 모여 드디어 통과됐다”며 “힘든 시기 모두들 건강하시고 행복하시라. 진심으로 감사드린다”고 했다.&lt;br&gt;&lt;br&gt;개정안은 피상속인에게 부양의무를 다하지 않았거나, 학대 등 범죄를 저질러 상속을 받을 만한 자격이 없는 법정 상속인의 상속권을 제한하는 게 골자다. 2019년 구하라가 사망한 뒤 구씨는 “어린 구하라를 버리고 20년 동안 연락이 끊긴 친모가 상속재산의 절반을 받아가려 한다”며 입법을 청원하면서 논의가 시작됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JOCH6A3CXJHSLAZF7AC2QNEFSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 구하라 오빠 구호인씨/국회사진기자단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구씨는 2020년 기자회견에서 “하라가 떠난 뒤 친모가 갑자기 장례식장에 찾아와 가족들의 항의에도 아랑곳하지 않고 상주역할을 자처하겠다고 소리 지르고, 장례식장의 대화를 녹취하고 조문 온 연예인들과 인증샷을 남기려고 하는 등 상식적으로 전혀 이해가 가지 않는 행동을 했다”고 주장했다. 그러면서 “어린 시절 친모에게 버림 받고 항상 외로움과 그리움으로 고통 받았던 하라와 우리 가족 같은 비극이 다시는 발생하지 않도록 해달라”며 입법을 호소한 바 있다.&lt;br&gt;&lt;br&gt;구씨의 청원은 10만명 동의를 얻어 법제사법위원회로 넘겨졌지만 20대 21대 국회에서 임기 만료로 폐기됐다. 구씨가 입법 청원한 지 4년여만인 이날 22대 국회에서 세 번째 발의된 법안이 통과했다.&lt;br&gt;&lt;br&gt;구하라법은 2026년부터 1월부터 시행된다. 다만 헌법재판소가 직계 존·비속 유류분 조항에 대해 헌법불합치 결정을 내린 지난 4월 25일 이후 상속이 개시된 경우에는 소급 적용된다.&lt;br&gt;&lt;br&gt;법무부는 개정 배경에 대해 “천안함·세월호·대양호 사건과 같은 각종 재난재해 이후 자녀를 부양하지 않은 부모가 재산의 상속을 주장하는 등 국민 정서상 상속을 납득할 수 없는 경우가 발생해왔다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>자양 롯데캐슬, 문정 힐스테이트..신혼부부 장기전세 2차 공급</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/28/JJWJFSUGXFBBTJCH3FJCHZ7HLE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/28/JJWJFSUGXFBBTJCH3FJCHZ7HLE/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Aug 2024 10:24:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I67LPDFQBZK2JGRW55DIWX7J5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 10일 오후 서울시청에서 신혼부부 장기전세주택Ⅱ 공급 관련 약식 브리핑을 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 신혼부부를 위한 장기전세주택Ⅱ(시프트Ⅱ) 2차 모집에 나선다. 이번에 모집하는 단지는 광진구 롯데캐슬 이스트폴, 송파구 힐스테이트e편한세상 문정 등 6개 단지다.&lt;br&gt;&lt;br&gt;서울시는 장기전세주택Ⅱ를 ‘미리 내 집’이라는 이름으로 6개 단지 327호를 추가 공급한다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;‘미리 내 집’은 신혼부부가 전세로 입주한 뒤 아이를 세 명 낳으면 최장 20년까지 살 수 있게 하는 장기전세주택 제도다. 20년 후에는 시세보다 20% 싼 가격에 아파트를 살 수 있다. 아이를 낳으면 더 큰 평형으로 이주할 수도 있다.&lt;br&gt;&lt;br&gt;이번에 공급하는 6개 단지는 힐스테이트 관악센트씨엘(관악구 봉천동), 롯데캐슬 이스트폴(광진구 자양동), 호반써밋 개봉(구로구 개봉동), 롯데캐슬 트윈골드(성북구 길음동), 힐스테이트 e편한세상 문정(송파구 문정동), 센트레빌 아스테리움시그니처(은평구 역촌동) 등 신축 단지가 많다. &lt;br&gt;&lt;br&gt;전세금은 2억2000만원(호반써밋 개봉 49㎡)부터 최고 6억원(롯데캐슬 이스트폴 82㎡)까지다. 인근 시세의 절반 수준이다. 그 외 단지·평형의 전세금은 서울도시주택공사(SH공사) 입주자모집 공고문을 통해 확인할 수 있다.&lt;br&gt;&lt;br&gt;전용 면적은 49∼84㎡까지 다양하다. 큰 평형은 아이가 있는 신혼부부 위주로 공급한다. 자녀가 없는 맞벌이 신혼부부는 월 평균 소득 974만원이어도 신청할 수 있다.&lt;br&gt;&lt;br&gt;입주 대상은 혼인신고 한 날로부터 7년 이내인 신혼부부 또는 모집공고일로부터 6개월 이내 혼인신고 예정인 예비 신혼부부다. 부부 모두 공고일 기준으로 5년 이내 주택을 소유하지 않아야 한다.&lt;br&gt;&lt;br&gt;입주 신청은 SH공사 홈페이지(&lt;a href="http://www.i-sh.co.kr" target="_blank"&gt;www.i-sh.co.kr&lt;/a&gt;)에서 할 수 있다.&lt;br&gt;&lt;br&gt;시는 올해 12월 제3차 미리 내 집을 추가로 공급할 계획이다.&lt;br&gt;&lt;br&gt;오세훈 시장은 “저출생이 대한민국에 절체절명의 과제가 된 만큼 결혼해 아이를 낳고 싶은 신혼부부가 집 문제만큼은 걱정하지 않아도 되도록 미리 내 집·안심주택 공급 등 주거 문제 해결에 온 역량을 집중하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘일본도 살인’ 유족 측 “가해자 신상정보 공개해야”</title>
       <link>https://www.chosun.com/national/national_general/2024/08/28/M274IWLAOBARTIISQFZG4QFBEA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/28/M274IWLAOBARTIISQFZG4QFBEA/</guid>
@@ -848,33 +937,6 @@
       <content:encoded>김건희 여사의 ‘디올백 수수 의혹’ 사건 수사 결과를 심의할 검찰수사심의위원회(수사심의위)가 다음 달 6일 열린다. 김 여사 측은 변호인이 수사심의위에 참석할 것으로 전해졌다.&lt;br&gt;&lt;br&gt;27일 본지 취재를 종합하면, 대검찰청은 김 여사 측에 오는 9월 6일 오후 2시 서울 서초동 대검 청사에서 수사심의위를 연다고 통보했다. 이날 심의에는 무작위 추첨으로 선정된 위원(외부 전문가) 15명이 참석하고, 김 여사에게 디올백을 건넨 최재영 목사도 참석할 가능성이 있다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지검 형사1부(부장 김승호)는 청탁금지법상 공직자의 배우자는 처벌할 수 없고, 디올백이 직무 관련성과 대가성이 있다고 보기도 어렵다며 김 여사를 무혐의 처분해야 한다고 결론 내렸다. 이창수 서울중앙지검장은 지난 22일 이원석 검찰총장에게 수사 결과를 보고했고, 이 총장은 이튿날 수사심의위 소집을 결정했다. 이에 대해 이 총장은 26일 기자들을 만나 “소모적인 논란이 지속되지 않아야 하기 때문에 모든 법리를 포함해 충실하게 수사심의위에서 공정하게 심의해 줄 것으로 믿는다”며 “검찰 외부의 의견까지 경청해서 더 공정하게 사건을 신중히 최종 처분하겠다는 것”이라고 했다. 그러면서 “수심위의 전례나 통상적인 운영 과정을 살펴보면 임기 내에 마칠 수 있을 것이라고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;수사팀은 수사심의위 결과를 보고 김 여사 기소 여부를 결정할 예정이다. 보통 검찰 수사 심의 결과는 회의 당일 공개됐다. 심의 결과는 권고 사항이어서 김 여사에 대해 기소 의견이 나오더라도 수사팀이 반드시 따라야 하는 것은 아니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“타는 냄새”에도 조치 안한 부천 호텔 직원 입건</title>
-      <link>https://www.chosun.com/national/regional/2024/08/28/YEW4PX3Y6BGI3EE2UMWKNA2PDU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/28/YEW4PX3Y6BGI3EE2UMWKNA2PDU/</guid>
-      <dc:creator>수원=권상은 기자, 박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 Aug 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CQKJ22C66BISZDDREYWX5QELAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 부천 호텔 화재 사고를 수사 중인 경찰이 27일 오전 경기 부천시 호텔 화재 현장에서 압수수색을 마친 뒤 압수품 박스를 들고 나오고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7명이 숨진 경기 부천 호텔 화재 사고의 원인을 수사하고 있는 경찰이 27일 호텔 업주와 화재 당시 근무했던 종업원의 집을 압수수색하는 등 강제 수사에 착수했다.&lt;br&gt;&lt;br&gt;경기남부경찰청 화재사고 수사본부는 이날 오전 이 호텔 업주 2명과 지난 22일 화재 당시 근무했던 종업원의 집을 압수수색했다고 밝혔다. 경찰은 화재가 발생한 원인과 인명 피해가 컸던 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;이날 경찰의 압수수색 대상에는 매년 이 호텔의 소방시설을 점검한 민간 업체 사무실도 포함됐다. 이 호텔은 소방시설법에 따라 1년에 2차례 민간 업체를 통해 자체 점검을 실시한 뒤 그 결과를 관할 소방서에 보고해야 한다.&lt;br&gt;&lt;br&gt;국회 행정안전위원회 채현일 의원(더불어민주당)이 소방청으로부터 받은 ‘2021~2024년 자체 점검 실시 결과 보고서’에 따르면 최근 4년간 이 호텔에서 피난 유도등, 화재감지기 등 소방시설 불량이 28건 발견됐다. 지난 4월 점검에서는 706호 인근, 606호 인근, 1·2층 계단 등 6곳의 유도등이 켜지지 않았다. 지난해와 2022년에는 일부 화재감지기가 고장 난 사실이 확인됐다. 채 의원은 “이 호텔에서는 매년 소방시설 불량 사례가 발견됐다”며 “화재 당시 비상구 유도등, 감지기 등 시설이 제대로 작동했는지 철저하게 조사해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;경찰은 전날 업주 2명을 업무상 과실치사상 혐의로 입건하고 출국 금지 조치한 데 이어 화재 당시 근무했던 종업원 1명도 이날 같은 혐의로 추가 입건했다. 출국 금지 조치도 내렸다. 이 종업원은 처음 불이 난 810호 투숙객이 “에어컨 쪽에서 타는 냄새가 난다”고 하자 방을 바꿔준 사람이다. 바로 방 내부를 확인하는 등 조치를 하지 않아 불을 키웠다는 의혹을 받고 있다. 소방 당국은 810호 벽걸이 에어컨에서 누전 등 전기적 문제로 발생한 불꽃이 침대 매트리스와 소파 등에 튀어 불길이 확산한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘盧 명예훼손’ 정진석 2심 벌금 1200만원</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/28/HK46LGOMNFEF5IO6SFZ3S2KKGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/28/HK46LGOMNFEF5IO6SFZ3S2KKGU/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 Aug 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GR2KRFGUG5DGJIAPF3CMXA5QJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고(故) 노무현 전 대통령 부부의 명예를 훼손한 혐의로 1심에서 실형을 선고받았던 정진석 대통령 비서실장이 항소심에서 벌금형으로 감형됐다. 서울중앙지법 형사항소4-3부(재판장 이훈재)는 27일 노 전 대통령에 대한 ‘사자(死者) 명예훼손’과 권양숙 여사에 대한 ‘정보통신망법상 명예훼손’ 혐의로 기소된 정 실장에게 벌금 1200만원을 선고했다. 이 사건 1심은 명예훼손 사건에서는 이례적으로 징역 6개월을 선고해 ‘정치 판결’ 논란을 부른 바 있다.&lt;br&gt;&lt;br&gt;재판부는 “정 실장은 페이스북에 글을 게시한 직후 사회적 논란이 야기되자 자진 삭제하고 유감을 표했다”며 “최근 피해자 측을 방문해 직접 사과했고, 피해 회복을 위해 노력한 점 등을 고려하면 원심의 형은 부당하다”고 감형 이유를 밝혔다. 다만 검찰이 1·2심에서 구형한 벌금 500만원보다는 무거운 형량이다.&lt;br&gt;&lt;br&gt;정 실장은 지난 2017년 9월 자신의 페이스북에 ‘노 전 대통령 부부가 부부 싸움을 한 끝에 권양숙 여사는 가출을 했고, 노 전 대통령은 혼자 남아 있다가 스스로 목숨을 끊었다’는 내용의 글을 올렸다. 정 실장은 당시 박원순 서울시장과 정치 공방을 벌이는 과정에서 이런 글을 올렸다가 논란이 되자, 글을 지우고 사과했다.&lt;br&gt;&lt;br&gt;1심을 맡은 박병곤 판사는 정 실장에게 징역 6개월을 선고했으나, 법정 구속은 하지 않았다. 이 판결 이후 박 판사는 고교·대학 시절에서부터 법관 재직 기간에도 ‘정치 성향’을 드러내는 글을 소셜미디어에 써온 사실이 드러나 논란이 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>TK 통합 무산 위기</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/28/5JXB7NP6NJEAJIQMDI3UD5NDA4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/28/5JXB7NP6NJEAJIQMDI3UD5NDA4/</guid>
-      <dc:creator>대구=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 Aug 2024 15:45:00 +0000</pubDate>
-      <content:encoded>대구시와 경북도를 하나로 합치는 ‘TK 행정 통합’이 무산될 위기에 놓였다. 홍준표 대구시장이 27일 소셜미디어를 통해 “대구·경북 통합 논의를 장기 과제로 돌리겠다”고 밝히면서다.&lt;br&gt;&lt;br&gt;홍 시장은 “오늘 경북도의회가 대구시장 성토장이 된 것은 유감이다. 최종 시한이 내일까지지만 (행정 통합에 대한) 도의회 동의는 어려울 것 같다”며 “대구·경북 통합 논의는 장기 과제로 돌리고 우리는 대구 혁신에만 집중하는 게 갈등을 수습하는 방안이 될 것 같다”고 했다. 그러면서 “통합을 지지해주신 시·도민들에게 송구스럽고 죄송스럽다”고 했다.&lt;br&gt;&lt;br&gt;지난 6월 두 지방자치단체는 2026년 7월 통합 자치단체를 출범시키기로 하고 올해 안에 특별법을 제정하기로 뜻을 모았다. 하지만 청사의 위치 등을 두고 의견 차를 좁히지 못했고 28일을 시한으로 막판 협상을 벌여왔다. 이날 이철우 경북지사는 “지방 균형 발전을 위해 행정 통합은 중단 없이 진행돼야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>국내팬 “슈가, 탈퇴해야”… 해외팬 “너무 가혹” 두 동강 난 ‘아미’</title>
       <link>https://www.chosun.com/national/national_general/2024/08/28/N4CVXFKVCJFCNHJN3WQKQRVJMM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/28/N4CVXFKVCJFCNHJN3WQKQRVJMM/</guid>
@@ -882,58 +944,6 @@
       <description/>
       <pubDate>Tue, 27 Aug 2024 15:45:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7WNQAIXPI5A6NF2J5H4NY5IVGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아이돌 그룹 방탄소년단(BTS)의 멤버 슈가(31·본명 민윤기)가 지난 23일 서울 용산경찰서에 출석하는 모습. 그는 지난 6일 오후 11시 15분쯤 서울 용산구 한남동 한 도로에서 만취 상태로 전동 스쿠터를 탄 혐의(도로교통법 위반)로 형사 입건됐다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세계적 아이돌 그룹 방탄소년단(BTS)의 글로벌 팬클럽 아미(ARMY)가 멤버 슈가(본명 민윤기·31)의 전동 스쿠터 음주 운전 사건 이후 극심한 분열 양상을 보이고 있다. 상당수 국내 팬은 “슈가가 BTS의 명예를 실추시켰다”며 탈퇴까지 요구한다. 반면 외국 팬들은 “한국 팬들을 도저히 이해하지 못하겠다. 슈가도 잘못을 할 수 있다”며 감싼다. 2013년 데뷔 이후 BTS를 세계 정상에 올려놨던 견고했던 팬덤이 K(Korea·한국) 아미와 I(International·국제) 아미로 두 조각 난 상황이다.&lt;br&gt;&lt;br&gt;최근 서울 용산구 BTS 소속사 하이브 사옥 앞에는 슈가의 탈퇴를 요구하는 근조 화환 30여 개가 일렬로 늘어섰다. 리본엔 ‘우리 손을 놓은 건 너야’ ‘무슨 근황을 사회면 뉴스로 알려주니’ 등 문구가 적혀 있었다. 슈가가 사는 한 고급 아파트 앞에선 ‘팬들에게 떳떳이 고개 들라면서 돌아온 건 음주 운전’ ‘알코올농도 커리어하이 0.227%’ 같은 자막을 띄운 전광판 트럭 시위도 이어졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OXKTHRXBZVHXRE2I7Y76KQDQW4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;K아미들은 그간 10대들의 우상이었던 BTS 멤버인 슈가가 음주 운전을 했다는 사실 자체를 용납할 수 없다고 말한다. 한 팬은 “이건 우리가 바라던 BTS의 모습이 아니다”라며 “슈가는 우리가 흘려온 그간의 피, 땀, 눈물을 배신했다”고 했다. 슈가와 하이브가 음주 운전 사건을 수습하는 과정에서 전동 스쿠터를 ‘킥보드’라고 표현하거나, 맥주 한 잔을 마셨다고 경찰에 진술했으나 사실은 만취 수준의 측정 수치가 나왔다는 점, 집 앞에 주차를 하다가 사고가 났다고 했던 최초 진술과 달리 인도 주행 중 넘어진 점 등에 대해서도 국내 팬들은 “우릴 속이려 했느냐”며 분노하고 있다.&lt;br&gt;&lt;br&gt;하지만 I아미들은 한국 내 여론이 슈가에게 너무 가혹하다고 불만을 쏟아낸다. 27일 소셜미디어 X(옛 트위터)에 슈가의 서울 용산서 출석 영상이 게재되자 영어·중국어·스페인어·아랍어·러시아어 등으로 적힌 항의 댓글 200여 개가 달렸다. “영상을 당장 내려라” “이 영상은 경찰서 바깥에서 불법으로 찍혔다” 같은 반응이었다.&lt;br&gt;&lt;br&gt;한 외국 팬은 “그간 쌓아온 한국에 대한 호감이 지난 몇 주간 무너졌다”며 “BTS를 통해 한국 문화의 아름다운 면을 봤는데, 슈가를 비난하는 한국 네티즌들에게서 1000배는 더 추악한 면을 봤다”고 했다. BTS 멤버라는 이유만으로 슈가가 과도한 마녀사냥을 당했다는 의견도 있었다. 또다른 외국 팬은 “한국 언론이 한 주간 슈가와 관련해 1400건 기사를 쏟아냈다”며 “반면 자동차 음주운전을 한 야구 선수 기사는 매우 적다”고 했다.&lt;br&gt;&lt;br&gt;일부 외국 팬은 한국 불매 운동까지 벌이고 있다. 한 팬은 “남편과 내년 여름 한국 여행을 가기로 했는데 이번 사태로 한국에 대한 신뢰를 잃었다”며 일본을 가겠다고 했다. “이런 식으로 BTS를 대우하는 한국에 가고 싶지 않다”는 의견도 있었다.&lt;br&gt;&lt;br&gt;BTS가 그간 한국 사회에서 제대로 대우받지 못했다는 외국 팬의 지적도 있다. 이들은 “프로게이머, 축구 선수, 올림픽 출전자도 군 면제를 해주면서 한국을 널리 알린 BTS는 입대하게 했다”며 “어떤 나라도 그 나라의 최고 아티스트를 이런 식으로 대우하진 않을 것”이라고 했다. I아미들은 X·인스타그램 등 소셜미디어에선 ‘KoreanPoliceCorrupt(한국 경찰은 부패했다)’ 등 해시태그 운동도 진행 중이다.&lt;br&gt;&lt;br&gt;양측의 갈등은 단순 의견 충돌을 넘어 서로를 향한 비난전으로까지 비화하고 있다. 일부 국내 팬은 외국 팬을 향해 ‘외퀴(외국 팬+바퀴벌레)’라는 멸칭을 붙여 “한국 법도 알지 못하면서 이를 마녀사냥으로 몰아가지 말라” “한국에서 음주 운전은 예비 살인과 같다”고 비난했다. 외국 팬들은 자신들이 K아미와는 별개의 I아미라고 주장하며 “한국에 아미는 없다. 안티만 남았을 뿐” “우리는 K아미처럼 성급하지 않다”고 말한다.&lt;br&gt;&lt;br&gt;전문가들은 BTS 팬덤 분열이 그간 급속 팽창해온 K팝 산업의 한 그림자라는 분석을 내놨다. 김헌식 대중문화 평론가는 “한국에선 연예인 등 유명인의 음주 운전에 대한 도덕적 잣대가 높아지고 있지만, 개발도상국 등에도 광범위하게 분포돼 있는 각국의 BTS 팬들에겐 이 같은 상황이 납득되지 않는 것”이라며 “그만큼 BTS 팬덤이 세계적으로 넓게 형성됐음을 보여준다”고 했다. 서울 용산서는 27일 “슈가에 대한 피의자 조사가 대략 마무리됐으니 조만간 사건을 검찰에 넘길 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>영화 ‘시민덕희’ 실제 주인공, 정부 포상금 5000만원 받는다</title>
-      <link>https://www.chosun.com/politics/goverment/2024/08/28/4CW6UYE6IRHBRMRDEGR4SWZTNQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2024/08/28/4CW6UYE6IRHBRMRDEGR4SWZTNQ/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KHOHITOT6VATZOXYZPCXZI6TSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 영화 ‘시민덕희’의 실제 주인공인 보이스피싱 신고자 김성자(50)씨에게 포상금 5000만원을 지급한다. 김씨는 보이스피싱 조직에 관한 증거를 직접 모아 경찰이 범인을 검거하는 데 결정적으로 기여했지만, 경찰은 김씨의 공로를 숨기다가 사실이 드러나자 김씨에게 100만원만 주려고 했고, 이를 알게 된 검찰의 추천으로 국민권익위원회가 김씨에게 포상금을 주게 됐다.&lt;br&gt;&lt;br&gt;지난 1월 개봉한 보이스피싱 범죄 추적극 ‘시민덕희’는 김씨의 실화를 소재로 했다. 경기 화성시에서 세탁소를 운영하던 김씨는 2016년 은행 직원을 사칭한 보이스피싱 조직원에게 속아 11차례에 걸쳐 2730만원을 송금했다. 나중에 김씨는 자기에게 사기를 쳤던 조직원에게 “범죄 조직에서 벗어나고 싶으니 도와달라”는 전화를 받았다. 김씨는 조직원과 전화·이메일로 연락하며 피해자 명단과 총책의 신상 정보, 사무소 위치, 총책의 귀국 비행편 정보까지 입수해 경찰에 넘겼다.&lt;br&gt;&lt;br&gt;김씨 신고로 총책이 검거됐고, 피해자 72명이 1억3500만원 피해를 본 사실이 확인됐다. 보이스피싱 조직이 다른 234명에게도 범행을 하려 했다는 사실도 밝혀졌다. 그러나 경찰은 범인을 알아서 검거한 것처럼 홍보했고, 김씨의 기여가 밝혀지자 김씨에게 포상금으로 100만원 지급을 제안했다. 김씨는 이를 거절했다. 총책은 징역 3년을 선고받았으나 김씨는 피해 금액을 돌려받지 못했다.&lt;br&gt;&lt;br&gt;이를 알게 된 대검찰청이 이원석 검찰총장 지시로 권익위에 김씨에 대한 포상금 지급을 추천했고, 권익위는 “사건 해결을 위한 노력과 공익 증진 기여가 높이 평가된다”며 김씨가 피해를 본 금액의 약 2배인 5000만원을 포상금으로 지급하기로 결정했다. 공익신고 포상금은 전액 비과세된다.&lt;br&gt;&lt;br&gt;김씨는 27일 정부서울청사에서 정승윤 권익위 부위원장에게 포상금 지급 증서와 기념품을 받았다. 김씨는 “보이스피싱을 당하고 일주일은 술과 수면제를 먹으면서 자책했다. 아들이 죽지 말라고 해 새벽에 벌떡 깨어났는데, 정신이 번쩍 들면서 ‘범인을 잡아야겠다’는 오기가 생겼다”고 했다. 김씨는 “경찰에 증거를 갖다줄 때마다 경찰이 안이하게 대하는 것을 봤지만, 피해자 중 한 사람이 자살하는 것을 보고 다시 오기가 생겼다. 앞만 보고 달렸다”고 했다. 그는 “8년 동안 긴 터널을 지나는 것 같았는데, 포기하려 했다가도 참고 견뎠더니 보람이 있는 것 같다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 법무부</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/08/28/JGSJFFRARBD7BG6XPFSU5ZNK24/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/08/28/JGSJFFRARBD7BG6XPFSU5ZNK24/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>▲법무부&amp;lt;전보&amp;gt;◇법무부▷통일법무과 검사 심재신▷상사법무과 검사 박광호▷형사기획과 검사 곽중욱▷공공형사과 검사 이웅희◇법무연수원▷진천본원 교수 김지은▷용인분원 교수 김현우 임하나◇대검찰청▷검찰연구관 박신영 김은혜 박한나 양준석◇서울중앙지검▷검사 김치훈 최여련 안미현 이형석◇서울남부지검▷검사 이희준 차병곤◇서울서부지검▷검사 박은혜◇남양주지청▷검사 이은우◇인천지검▷검사 정혜라◇수원지검▷검사 김현수◇안산지청▷검사 노경은 이승우◇안양지청▷검사 오승은◇성남지청▷전영우(금융감독원 파견복귀)◇대전지검▷검사 박수 이선화 안수진◇천안지청▷검사 이주현◇청주지검▷검사 박규남◇대구지검▷검사 김영신 조도준◇대구서부지청▷검사 김보경◇부산지검▷검사 윤효정 남상오◇울산지검▷검사 안재욱◇광주지검▷검사 이혜현◇금융감독원 파견 검사 정성헌◇금융위원회 파견 검사 박영식(자본시장조사담당관)▷금융정보분석원 파견 검사 이재원&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 강석호 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/08/28/ERVWBNW5URHONDRBHHW2YS3HQ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/08/28/ERVWBNW5URHONDRBHHW2YS3HQ4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;강석호&lt;/b&gt; 별세, &lt;b&gt;강윤구&lt;/b&gt; SBI저축은행 경영전략본부장·&lt;b&gt;강원구&lt;/b&gt;·&lt;b&gt;강민정&lt;/b&gt; 부친상=27일4시10분 여의도성모병원, 발인 29일14시, (02)3779-1526&lt;br&gt;&lt;br&gt;▲&lt;b&gt;변남섭&lt;/b&gt; 별세, &lt;b&gt;변재일&lt;/b&gt; 특허청 심사관·&lt;b&gt;변형주&lt;/b&gt;·&lt;b&gt;변재우&lt;/b&gt; 신한라이프 부부장·&lt;b&gt;변재상&lt;/b&gt; 신구대 환경조경과 교수 부친상=26일13시53분 서울아산병원, 발인 29일8시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;신영식&lt;/b&gt; 수유성실교회 권사 별세, &lt;b&gt;김종헌&lt;/b&gt; 국가건축정책위원·&lt;b&gt;김종석&lt;/b&gt; 용인대 연극학과 교수·&lt;b&gt;김규태&lt;/b&gt;·&lt;b&gt;김숙현&lt;/b&gt; 모친상, &lt;b&gt;손성녕&lt;/b&gt; 예비역 공군 대령 장모상, &lt;b&gt;이희경&lt;/b&gt;·&lt;b&gt;이유정&lt;/b&gt; 시모상=26일23시 서울대병원, 발인 29일7시, (02)2072-2010&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이금선&lt;/b&gt; 별세, &lt;b&gt;유경상&lt;/b&gt; 부산남구장애인복지관장·&lt;b&gt;유철상&lt;/b&gt; 롯데칠성 매니저·&lt;b&gt;유영상&lt;/b&gt; SK텔레콤 대표·&lt;b&gt;유길상&lt;/b&gt; 삼성전자 커뮤니케이션팀 프로 모친상=27일16시40분 경남 산청 원지산청장례식장, 발인29일9시30분, (055)974-1234&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이병강&lt;/b&gt; 별세, &lt;b&gt;민주&lt;/b&gt; 남편상, &lt;b&gt;이건명&lt;/b&gt; 에쓰오일 중부지역본부장·&lt;b&gt;이형탁&lt;/b&gt;·&lt;b&gt;이현정&lt;/b&gt; 부친상, &lt;b&gt;박경민&lt;/b&gt; 장인상, &lt;b&gt;경성은&lt;/b&gt;·&lt;b&gt;장지영&lt;/b&gt; 시부상=26일12시 부산대동병원, 발인 28일13시, (051)550-9991&lt;br&gt;&lt;br&gt;▲&lt;b&gt;전희영&lt;/b&gt; 별세, &lt;b&gt;김춘자&lt;/b&gt; 남편상, &lt;b&gt;전훈세&lt;/b&gt;·&lt;b&gt;전선아&lt;/b&gt;·&lt;b&gt;전은아&lt;/b&gt;·&lt;b&gt;전진아&lt;/b&gt;·&lt;b&gt;전민경&lt;/b&gt; 부친상, &lt;b&gt;김성수&lt;/b&gt;·&lt;b&gt;신현종&lt;/b&gt; 조선영상비전 차장 장인상=27일13시 충남 태안군보건의료원, 발인 29일13시30분, (041)671-5243&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한대섭&lt;/b&gt; 별세, &lt;b&gt;김경란&lt;/b&gt; 남편상, &lt;b&gt;한준구&lt;/b&gt;·&lt;b&gt;한혜경&lt;/b&gt;·&lt;b&gt;한용구&lt;/b&gt; 부친상, &lt;b&gt;한병찬&lt;/b&gt; 뉴스1 기자 조부상=26일23시35분 충북 충주의료원, 발인29일7시30분, (043)871-0444&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경기고 동문 모임 ‘나라지킴이’, 이승만기념관 건립에 2억 기부</title>
-      <link>https://www.chosun.com/national/people/2024/08/28/JS4IOPHH3ZAKPNHNO4VYHN4YVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/28/JS4IOPHH3ZAKPNHNO4VYHN4YVQ/</guid>
-      <dc:creator>김형원 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>경기고 동문 모임 ‘경기고나라지킴이’ 회원들이 27일 이승만대통령기념관 건립에 써달라며 성금 2억900만원을 이승만대통령기념재단에 전달했다. 이날 오후 3시 30분 서울 중구 서소문동 이승만대통령기념재단 사무국에서 열린 기부금 전달식엔 지정석 경기고나라지킴이 회장, 신철식 우호문화재단 이사장, 이동복 전 의원, 김문경 그린벨시스템 대표, 김석우 전 통일원 차관 등 회원들이 참석했다.&lt;br&gt;&lt;br&gt;경기고 동문들은 지난 6월 이승만대통령기념관 건립 비용으로 쓰기 위해 모금을 시작했다고 한다. 두 달여 만에 2억원이 넘는 성금이 모였다. 경기고 53기(1957년 졸업)가 모금을 주도했다. 경기고 53기인 이동복 전 의원은 “동문끼리 의미 있는 일을 해보자고 모금을 시작했다”며 “처음에는 3000만원이 목표였는데, 생각보다 호응이 커서 목표액보다 7배에 가까운 성금이 모였다”고 했다. 이번 모금에는 경기고 동문 997명이 동참했다. 경기고 100기(2004년 졸업) 동문도 모금에 참여했다고 한다.&lt;br&gt;&lt;br&gt;이와 별도로 구자철 경기고 총동창회장 등 30여 명은 앞서 2억8750만원을 이승만 기념 사업에 별도로 기탁한 바 있다. 이승만대통령기념재단에 따르면 기념관 건립을 위한 성금은 현재 140억원을 돌파했다. 국민 8만1500여 명이 모금에 동참했다고 한다. 이승만 대통령 기념관 건립 사업은 ‘독립유공자 예우에 관한 법률’에 따라 전액 정부 예산으로 진행할 수 있지만, 재단은 온 국민의 참여 속에 사업을 추진하는 것이 바람직하다고 판단해 범국민 모금 운동을 시작했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2451] 바꿔 부르기</title>
-      <link>https://www.chosun.com/national/nie/2024/08/28/PUMSBPD22NAIRBJCU4SPZR6XSE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/28/PUMSBPD22NAIRBJCU4SPZR6XSE/</guid>
-      <description/>
-      <pubDate>Tue, 27 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VWNKWFAP4ZFURBUZRZEQVYIGWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 곡창(穀倉)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/08/28/KX3K5JPMNJHERLXSDPIYO5U3UE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/08/28/KX3K5JPMNJHERLXSDPIYO5U3UE/</guid>
-      <description/>
-      <pubDate>Tue, 27 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQC4BUO4IRGVZJGWSAW3U3M77M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>배드민턴협회장 “안세영 얼마나 한 맺혔으면…이사들이 제 눈‧귀 가려”</title>
