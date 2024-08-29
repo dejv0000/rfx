@@ -13,6 +13,96 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 표창장 받은 모범생의 두 얼굴… 담임교사 딥페이크 음란물 제작</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/29/3CD22Q47DNARXE3T2563MITTNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/29/3CD22Q47DNARXE3T2563MITTNE/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 Aug 2024 12:52:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6SOPKOGV6BDUXBDEOJUU63225Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남의 한 중학교에서 담임 교사와 학교 행사에서 같이 촬영한 사진으로 ‘딥페이크’ 불법 합성물을 제작해달라고 의뢰한 중학생에 대해 경찰이 29일 수사에 나섰다. 이 중학생은 교육청에서 최근 강제 전학 처분을 받았다.&lt;br&gt;&lt;br&gt;경찰과 교육청 등에 따르면 A(15)군은 지난 7월 소셜미디어 엑스(X·옛 트위터)에서 ‘지인 사진 보내주면 음란물에 합성해준다’ 게시글을 보고 텔레그램을 통해 담임 교사인 B씨의 사진을 전송했다. A군은 교내 행사에서 피해자 B씨와 함께 나란히 촬영한 사진에서 B씨의 얼굴만 잘라내 보내거나, 카카오톡 프로필에 올라와 있던 사진을 저장해 보냈다. 불법 합성물을 의뢰하며 A군은 ‘가슴 사이즈’ ‘성기 색깔’ ‘원하는 자세’ 등을 적나라하게 특정했다.&lt;br&gt;&lt;br&gt;A군은 평소 피해 교사와 동아리 활동 등에서 친분을 쌓았던 것으로도 파악됐다. A군은 평소 행실이 단정해 교우들과 사이가 좋고, 동아리 활동도 두루 하던 모범생이었다고 한다. 교내 표창장 및 모범상 등도 받은 것으로 알려졌다. 범행 사실은 피해 교사 B씨에게 한 인스타그램 계정에서 피해 사실을 전달하며 알려졌다. A군이 텔레그램 메신저를 통해 불법 합성물 제작하는 것이 포착됐다.&lt;br&gt;&lt;br&gt;결국 A군의 범행 사실이 발각되자 성폭력처벌법, 정보통신망법 등 혐의로 교육공무원법에 의거해 강제 전학 처분을 지난 21일 교육청에서 결정했다. 그러나 A군이 강제로 전학 가는 학교는 피해 교사가 있는 학교와 1km도 안되는 거리에 떨어져 있는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;교육공무원법상 징계 학생이 전학 처분을 받을 때 배정 규정이 모호하다는 지적도 나왔다. 학교폭력예방법에는 학교 폭력으로 강제 전학 징계를 받으면 ‘3km 밖의 학교에 배정해야한다’는 구체적인 기준이 명시되어 있다. 반면 교원법에는 해당 규정이 ‘피해 교원의 보호에 충분한 거리’라고만 적혀있어 기준이 애매하다. 이렇다 보니 피해 교사 B씨와 같은 ‘사각 지대’가 발생했다.&lt;br&gt;&lt;br&gt;피해 교사는 딥페이크 범죄의 심각성을 고려할 때 1km 미만의 거리에 있는 학교로 배정된 처사가 부당하다고 주장했다. 피해 교사는 “해당 학생을 마주치는 것도, 비슷한 학생을 마주치는 것 조차 무섭고 심지어 직장과 가장 가까운 곳에 A군을 등·하교를 시킨다니 말이 안된다”며 “옛날 친구들을 만나러 학교에 오다가 마주칠까 봐 두렵다” 했다. 피해 사실이 발각 된 이후 A군의 소속 학교는 경찰에 고발을 했으나, 당사자의 형사 고소 접수 없어 수사가 진전되지 않았다. 피해 교사가 직접 나서 명예훼손 등 혐의로 지난 28일 경찰에 직접 수사를 의뢰했다.&lt;br&gt;&lt;br&gt;‘딥페이크’ 불법 합성물로 피해를 본 교사는 이날 204명인 것으로 파악됐다. 이 같은 결과는 전국교직원노동조합은 ‘법 합성물 성범죄 실태조사 보고서’ 를 냈는데 지난 27~28일 전국 유·초·중·고 학생, 교사 등 2492명을 대상으로 온라인 설문을 진행한 결과 나왔다. 응답자 중 517명이 본인을 대상으로 한 딥페이크 불법 합성물을 직접 확인하거나 간접적으로 영상 제작 사실을 파악했다고 답했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SQU5NQ4MNP5SLY36L7C7Z6WN64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국교직원조합 관계자들이 29일 서울 종로구 정부서울청사 앞에서 기자회견을 열고 학교 불법합성물 성범죄 실태조사 결과를 발표하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>필리핀서 전화 금융 사기 콜센터 운영한 40대 남성 구속 기소</title>
+      <link>https://www.chosun.com/national/incident/2024/08/29/NPRUHEH3JBH3TLLVNDRCPE3KSE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/29/NPRUHEH3JBH3TLLVNDRCPE3KSE/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 Aug 2024 13:28:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JJHJIVVXWVGKDPSSE34D5DPUR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전화 금융 사기(보이스피싱) 콜센터를 운영하며 금품을 가로챈 40대 남성이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대구지검 서부지청 형사1부(부장 한상훈)는 29일 사기, 전자금융거래법 위반 혐의 등으로 A(41)씨를 구속 기소했다. A씨는 지난 2018년 12월부터 지난 5월까지 필리핀에서 전화 금융 사기 콜센터를 운영하면서 “기존 대출을 상환하면 추가 대출을 해주겠다”는 식으로 피해자들을 속이는 범죄에 가담한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;검찰은 지난 2019년 3월 전화 금융 사기 현금수거책을 수사하던 중 콜센터를 운영하는 A씨를 인지했다. 이후 A씨에 대한 인터폴 적색 수배 및 여권 발급 거부 요청 등 조치를 취했다. 지난 5월 필리핀에 파견된 수사관들과 이민청이 공조해 A씨를 검거했고, 이달 국내로 송환했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “국외에 체류 중이거나 도피한 전화 금융 사기 사범을 끝까지 추적해 범죄에 걸맞은 처벌이 이뤄질 수 있도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘1조1900억대 다단계 사기’ 휴스템코리아 대표, 1심 징역 7년‧벌금 10억</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/29/FUISKZRAXJHMBJHVMLFEVRTOUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/29/FUISKZRAXJHMBJHVMLFEVRTOUU/</guid>
+      <dc:creator>이민준 기자, 박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 Aug 2024 12:39:20 +0000</pubDate>
+      <content:encoded>박은정 조국혁신당 의원의 남편 이종근 변호사가 수임료 22억원을 받고 변호하다 사임한 ‘휴스템코리아 1조원대 다단계 사기’ 사건과 관련해, 29일 법원이 대표 이상은씨에게 1심에서 징역 7년을 선고하고 법정구속했다. 벌금 10억원도 함께 선고됐다. 이 변호사는 작년 말~올해 초 이씨와 휴스템코리아 법인 등의 변호인으로 선임됐는데, ‘고액 수임 논란’이 불거지자 사임한 바 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2VP4XE67RLFX7TDDE4RE3IDUPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사31부(재판장 박준석)는 이날 방문판매등에관한법률위반 등 혐의로 기소된 이씨에 대해 이 같이 선고했다. 재판부는 범행에 가담한 휴스템코리아 경영진 8명에게는 징역 1년 6개월∼3년을 선고했다. 일부에 대해서는 집행을 유예했다.&lt;br&gt;&lt;br&gt;재판부는 휴스템코리아의 영업 행태에 대해 “전형적인 선수금 돌려막기 금전거래”라고 질타했다. 재판부는 “선수금 대비 최소 2.6배 내지는 사실상 무한대에 가까운 보상을 약정하는 건 그 자체로 허황된 것이 수학적으로 명백하다”며 “휴스템코리아 조직은 자체 수익만으로 유지할 수 없고, 신규 회원이 유입되지 않는 한 지속되지 않는다”고 했다. 이어 “이씨 등은 기소된 금액(1조1900억원 상당)만으로도 수수액이 다단계 사건에서 유례없는 수준에 해당해 그에 상응하는 엄벌이 필요하다”며 “법정 최고형을 선고한다”고 했다.&lt;br&gt;&lt;br&gt;‘휴스템코리아 사건’은 영농조합법인을 가장한 다단계 유사 조직을 통해 10만여 명에게 가입비로 1조1900억원 이상을 받은 사기 사건이다. 서울중앙지검은 지난 1월 방문판매법 위반 혐의로 휴스템코리아 법인과 이씨 등 10명을 기소했다. 서울경찰청 금융범죄수사대는 이씨의 유사수신사기 등 혐의에 대해 수사 중으로, 구속 영장을 신청한 상태다. 2019년 3월~작년 2월 불특정 다수를 상대로 회원가입을 권유한 뒤 수당을 지급하는 ‘폰지사기’ 수법으로 재화 등의 거래를 가장한 혐의다. 오는 30일 영장실질심사가 열릴 예정이다.&lt;br&gt;&lt;br&gt;한편, 검사 시절 다단계와 유사수신 사건 분야에서 1급 공인전문검사에게 주는 ‘블랙벨트’를 받았던 이종근 변호사는 변호사 개업 후 이 사건을 수임하며 22억원을 받아 ‘전관 예우’ 논란을 빚었다. 이 변호사는 지난 2~3월 이 사건 첫 정식 재판에 출석해 직접 변론하기도 했다. 그는 고액 수임 논란 이후 사임한 상태다. 현재 법조윤리협의회에서 수임 내역 등에 대한 정밀조사를 진행 중이다.&lt;br&gt;&lt;br&gt;한편 이상은씨는 지난 6월 사실혼 관계 여성의 딸을 성추행한 혐의로 1심에서 징역 4년을 선고받았다. 검찰이 항소해 2심 판단을 받게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>겨울 비닐하우스서 숨진 ‘속헹’ 유족, 국가배상 1심 패소</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/29/R3K76CAZ6JAOPOJZITJIHFNWTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/29/R3K76CAZ6JAOPOJZITJIHFNWTQ/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 Aug 2024 13:07:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EN4Z4IPTMDK6X7PPXMLICQEFHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지법 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2020년 겨울 난방이 되지 않는 비닐하우스 숙소에서 지내다 사망한 이주노동자 누온 속헹씨의 유족이 국가를 상대로 1억원의 손해배상 소송을 냈지만 1심에서 졌다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사49단독 조영기 부장판사는 속헹씨 유족이 “한국이 외국인 노동자의 권익 보호를 다 하지 않은 책임이 있다”며 낸 국가배상 소송에서 29일 원고 패소 판결을 내렸다. 소송 비용은 원고가 부담하라고 했다.&lt;br&gt;&lt;br&gt;캄보디아 출신인 속헹씨는 2020년 12월 경기도 포천의 한 농장에서 일을 하다가 비닐하우스 숙소에서 숨진 채 발견됐다. 당시 속헹씨를 비롯한 외국인 근로자들은 비닐하우스 안에 설치한 가건물에 거주했다. 사인은 간경화로 인한 합병증이었지만, 이주노동자의 열악한 주거환경이 근본적인 사고 원인으로 지목됐다.&lt;br&gt;&lt;br&gt;이에 속헹씨 유족은 2021년 12월 사망 1주기에 근로복지공단에 산재보상을 신청했고, 공단은 이듬해 5월 이를 승인했다. 이후 유족은 같은 해인 2022년 9월 국가를 상대로 손해배상 소송을 냈다.&lt;br&gt;&lt;br&gt;1심 재판부는 “외국인 근로자는 주거권, 건강권 등이 국내 근로자와 동일하게 인정되고 국가배상법상 국가의 책임도 동일한 잣대로 판단해야 한다”면서 “이 사건 숙소 내부 상황 등을 종합해보면, 원고들이 제출한 증거만으로는 속헹씨의 사망과 국가의 부작위∙의무 위반 간 상당 인과관계가 입증됐다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, ‘1조대 코인 사기’ 법정서 흉기 휘두른 50대 男 구속영장 신청</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/29/GMSKO7BAXZG6LIVZJHFNCK6RMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/29/GMSKO7BAXZG6LIVZJHFNCK6RMA/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 Aug 2024 12:17:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CXIXMTHTZOKI5HANH2XDIHQYNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 양천구 양천경찰서의 모습. 2020.1.6/뉴스1 ⓒ News1 이동해 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 1조4000억원 가상자산(코인) 사기 사건을 저지른 혐의로 재판을 받던 가상자산예치서비스 업체 하루인베스트 대표 이모씨에게 법정에서 흉기를 휘두른 50대 남성에 대해 29일 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;서울 양천경찰서는 이날 살인미수 혐의로 50대 남성 A씨에 대한 구속영장을 신청했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 전날 오후 2시 26분쯤 서울남부지법 법정에서 방청 중 피고인석에 앉아 있다가 재판을 받던 이씨에 달려들어 그의 목 부위를 수차례 흉기로 찌른 혐의를 받는다. 이씨는 피습 직후 병원으로 이송돼 치료를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 하루인베스트 가상자산 사기 사건의 피해자인 것으로 전해졌다. 경찰은 “A씨가 출금 중단에 따른 손해에 불만을 품고 범행을 했다는 취지로 진술하고 있다”며 “사실 여부를 계속 확인 중”이라고 했다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 범행에 사용한 흉기가 집에서 사용하던 칼인 과도라고 진술한 것으로 전해졌다. 경찰은 “해당 과도는 현재까지 금속성 재질로 추정되지만, 제조사 등을 통해 정확한 제원을 확인해봐야 한다”고 했다. 금속 재질의 과도가 금속 탐지 기능이 있는 법정 보안검색대를 통과한 데에 대해 일각에서는 법원의 보안 체계에 구멍이 뚫렸다는 지적도 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 산곡역 인근서 버스 등 5중 추돌… 승객 등 18명 부상</title>
+      <link>https://www.chosun.com/national/incident/2024/08/29/EGNYBDHUW5EW7NXPAIV3PVF264/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/29/EGNYBDHUW5EW7NXPAIV3PVF264/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>29일 오후 6시 21분쯤 인천시 부평구 산곡역 인근 도로에서 버스와 승용차, 1t트럭 등 차량 3대가 잇따라 충돌했다.</description>
+      <pubDate>Thu, 29 Aug 2024 11:24:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P5T2QUQGCZQ4SFNEVOWCMMS2CA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급차량. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 오후 6시 21분쯤 인천시 부평구 산곡역 인근 도로에서 버스와 승용차, 1t트럭 등 차량 5대가 잇따라 추돌했다. 이 사고로 트럭 운전자와 버스 승객 등 18명이 다쳐 인근 병원으로 옮겨졌다. 소방 당국 도착 당시 버스 승객 17명은 스스로 하차한 상태였으며, 트럭 운전자는 중상인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 목격자 등을 상대로 정확한 사고 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>31년 만에 KBS 떠나는 황정민 아나운서, 마지막 생방송 중 눈물</title>
+      <link>https://www.chosun.com/national/people/2024/08/29/F53CVTH7Y5GGLP4XOPWFBVESWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/29/F53CVTH7Y5GGLP4XOPWFBVESWY/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 Aug 2024 11:32:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F5WXD6W6GNFZFFGK452JUAGFYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31년간 몸담았던 KBS를 퇴사하는 황정민 아나운서. / KBS 라디오 '황정민의 뮤직쇼' 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;KBS 입사 31년 만에 회사를 떠나게 된 황정민(53) 아나운서가 마지막 생방송에서 눈물을 보였다.&lt;br&gt;&lt;br&gt;황 아나운서는 29일 오후 KBS 라디오 ‘황정민의 뮤직쇼’에서 31년간 몸담은 직장을 떠나는 소회와 청취자를 향한 감사 인사를 전했다. 이날 방송은 오는 31일 자로 퇴사하는 그의 마지막 생방송이다. ‘황정민의 뮤직쇼’는 녹음분인 주말 방송을 끝으로 9월 1일 폐지된다.&lt;br&gt;&lt;br&gt;황 아나운서는 “가끔 제 손을 보면서 ‘손이 참 짧다’ ‘너무 안 예쁘다’ ‘반지 껴도 안 어울리겠다’ ‘일복이 많게 생겼다’는 생각을 했다”며 “실제로 일도 많았고 열심히 했다. 근데 일복만 있는 건 아니었다. 저를 이 시간까지 올 수 있게 이끌어준 건 일을 통해 만난 정말 좋은 사람들. 인복이었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “오늘 마지막 생방송에서 어떤 멋진 말을 해야 할지 고민하고 생각했는데 딱 이 마음이더라”며 “매일 수많은 청취자를 만나고 얘기를 나눌 수 있어 너무 즐거웠고 행복했다. 청취자들이 제게 가장 큰 복이었다”고 말했다. 그러면서 “저의 방송을 함께 해주셨던 모든 분이 저를 즐겁고 행복한 사람으로 기억해 주셨으면 좋겠다”며 눈물을 보였다.&lt;br&gt;&lt;br&gt;방송 중엔 황 아나운서 자녀들의 깜짝 음성 편지도 공개됐다. 황 아나운서의 아들과 딸은 “오늘 마지막이라고 들었는데 저도 예전에 ‘뮤직쇼’에 나가 퀴즈를 냈던 게 기억에 남는다. 엄마가 라디오 하는 걸 듣고 보면 새롭고 신기하고 반가웠는데 마지막이라고 하니 엄마 기분도 궁금하다”며 “30년간 방송하느라 수고했다. 마지막까지 잘하고, 그동안 못 했던 거 다 했으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;황 아나운서는 1993년 KBS 19기 공채 아나운서로 입사해 ‘VJ 특공대’ ‘도전! 지구탐험대’ 등 KBS 간판 프로그램을 진행했다. 1998년부터 2017년까지 KBS 라디오 ‘황정민의 FM대행진’을 맡았고 2020년부터 ‘황정민의 뮤직쇼’를 이끌어 왔다. 최근 KBS에 특별명예퇴직을 신청하며 31년간의 회사 생활을 끝내게 됐다.&lt;br&gt;&lt;br&gt;한편 KBS는 올해 1월 있었던 1차에 이어 지난 20일까지 제2차 특별명예퇴직·희망퇴직을 실시했다. 신청자는 약 30명으로 알려졌으며, 20년 이상 근속자를 대상으로 한 특별명예퇴직 명단엔 2003년 입사해 KBS 간판 스포츠 캐스터로 활약한 이광용 아나운서도 포함됐다.&lt;br&gt;&lt;br&gt;KBS는 이번 절차를 통해 적자로 인한 경영 악화와 TV 수신료 분리 징수 이후 경영난을 극복하겠다는 방침이다. KBS는 올해 종합예산안에서 수신료 수입이 작년보다 2600억 원가량 급감해 적자가 1431억 원에 이를 것으로 전망하며, 인건비 1101억 원을 줄이기로 했다. 내달부턴 1973년 공사 창립 이래 처음으로 무급휴직도 추진한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘법정 흉기 피습’에 법원행정처장, 법원 보안 강화 지시</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/29/TNFGGNAVOJABBN5SSYB2PL6QG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/29/TNFGGNAVOJABBN5SSYB2PL6QG4/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 Aug 2024 10:17:18 +0000</pubDate>
+      <content:encoded>재판을 받던 피고인이 법정에서 흉기에 피습당하는 일이 발생하자 대법원 법원행정처가 법원 보안 강화에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XZAURVTCTES6RRGK7QZE5TNIVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 마크/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 법조계에 따르면, 천대엽 법원행정처장은 이날 오전 전국 지방법원과 상급심 법원에 “법정과 청사 보안을 강화하라”는 취지의 공문을 보냈다.&lt;br&gt;&lt;br&gt;법원행정처장은 공문을 통해 “최근 법정 내에서 흉기난동 등 사례가 발생하고 있고 모방 사고 발생 우려가 높아 보안 강화를 강조한다. 예방과 재발방지에 만전을 기해달라”고 지시한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;또 법정 출입 인원 검색을 철저히 할 것과 보안검색절차를 엄격히 준수할 것을 지시하고, 우발상황 발생에 대비해 보안관리대원 근무 수칙을 지킬 것을 당부했다고 한다.&lt;br&gt;&lt;br&gt;보안관리대원이 유사 상황 발생 시 대응할 수 있도록 가스분사기, 삼단봉 등을 필수로 휴대하고, 보안관리 대원 장비 운용 및 상황 조치 요령을 교육·숙달하라 했다고 전해진다.&lt;br&gt;&lt;br&gt;이는 전날 법정에서 ‘흉기 피습 사건’이 발생한 데 따른 후속 조치다. 지난 28일 서울남부지법에서는 1조4000억원대 가상 자산 사기 사건으로 재판을 받던 하루인베스트 대표가, 법정에서 사기 사건 피해자인 50대 남성에게 흉기 습격을 당했다. 남성은 과도 칼로 피고인의 목 부위를 수차례 찌른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면 흉기를 휘두른 남성은 범행 당일 집에서 쓰던 길이 20cm(칼날 9cm)의 과도를 가방에 넣어 보안검색대를 통과한 뒤 법정에 반입했다고 한다. 법원행정처 관계자는 “사고가 발생한 만큼 법정 보안에 각별히 신경쓰자는 취지”라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘국보법 위반’ 코리아연대 대표, 2심서 징역 2년→1년 6개월 감형</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/29/GQIWBPZI4RDJZBVET3V6MRLV6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/29/GQIWBPZI4RDJZBVET3V6MRLV6Q/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 Aug 2024 10:36:07 +0000</pubDate>
+      <content:encoded>이적 단체 ‘자주통일과 민주주의를 위한 코리아연대(코리아연대)’에서 활동하며 국가보안법 위반 혐의로 1심에서 징역 2년을 받은 공동대표가 항소심에서 형이 줄었다. 처벌 전력이 없고 초범인 점 등을 고려한 것으로 보인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYW56QFHN5ASRDOAYV7U5TDR6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사2부(재판장 설범식)는 29일 국가보안법 위반 혐의로 기소된 김모(54)씨에게 징역 1년 6개월을 선고했다. 앞서 1심은 지난 5월 “북한에 대한 무비판적 찬양은 허용되기 어렵다”며 징역 2년을 선고했다.&lt;br&gt;&lt;br&gt;김씨는 2013년 4월 코리아연대에 가입한 뒤 2016년 4월까지 수차례에 걸쳐 북한 핵실험을 옹호하고 한미 연합 훈련 중단, 주한미군 철수, 국가보안법 철폐 등을 주장한 혐의(이적 단체 구성, 찬양·고무 등)를 받고 있다.&lt;br&gt;&lt;br&gt;재판 과정에서 김씨는 “북한은 반국가 단체가 아니며 코리아연대 역시 이적단체가 아니다”라는 취지로 무죄를 주장했다.&lt;br&gt;&lt;br&gt;하지만 1심에 이어 2심도 김씨의 주장을 받아들이지 않았다. 재판부는 “북한은 조국의 평화적 통일을 위한 대화와 협력의 동반자지만, 여전히 적화통일을 고수하면서 우리나라 체제를 전복하고자 획책하는 반국가단체 성격도 아울러 가진다”며 “코리아연대는 반국가단체로서 북한을 무비판적으로 옹호하고 북한을 추종했다”고 지적했다. 이어 “김씨는 이적 단체인 코리아연대 공동대표로서 적극 활동했고 피고인의 국가보안법 위반 행위에 대해선 처벌이 불가피하다”고 질타했다.&lt;br&gt;&lt;br&gt;다만 재판부는 김씨가 폭력적 수단을 통해 국가 안전이나 기본 질서를 전복할 것을 직접 기도하거나 선전·선동하지는 않은 점, 사회에 미친 영향은 그다지 크지 않은 점, 처벌 전력이 없고 초범인 점 등을 고려해 감형했다고 밝혔다.&lt;br&gt;&lt;br&gt;이 사건은 국보법 위반 사범의 ‘재판 지연 전술’이 통한 대표적 사례로 통한다.&lt;br&gt;&lt;br&gt;김씨는 1심 첫 재판이 열리기 하루 전인 2020년 11월 재판부에 위헌심판제청을 신청했는데 재판부가 받아들이지 않자, 김씨는 당시 “헌법재판소가 국가보안법 7조의 위헌 여부를 이미 심리하고 있으니 헌재 판단이 나올 때까지 재판을 미뤄 달라”고 요청했다. 재판부는 결국 이를 받아들였고, 2022년 12월 23일 이후 재판은 멈췄다.&lt;br&gt;&lt;br&gt;헌재가 작년 9월 이 법 조항에 대해 합헌 결정을 내리자 1심 재판은 지난 4월 15일에야 재개됐고 5월 31일에 1심 판단이 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김동연, 이종찬 광복회장 만나 “경기도립 독립기념관 추진하겠다”</title>
+      <link>https://www.chosun.com/national/regional/2024/08/29/VQ5MEE7NJBEJLF7YPJ7QGKYTSU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/29/VQ5MEE7NJBEJLF7YPJ7QGKYTSU/</guid>
+      <dc:creator>수원=권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 Aug 2024 10:28:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JBXLSDUBPBPBRKOEH6A3WUNFWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오후 서울 광복회 사무실에서 김동연 경기도지사가 이종찬 광복회장을 만나 기념 촬영을 하고 있다. /경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김동연 경기도지사가 29일 ‘경기도립 독립기념관’ 건립 사업을 추진하겠다는 뜻을 밝혔다.&lt;br&gt;&lt;br&gt;김 지사는 이날 서울 광복회 사무실에서 이종찬 광복회장을 만나 이같이 말했다고 강민석 경기도 대변인이 전했다.&lt;br&gt;&lt;br&gt;김 지사는 이 자리에서 “최근 쪼개진 광복절 행사를 보면서 안타까웠다. 그럼에도 이종찬 회장님이 나라의 어른으로서 중심을 잡아주시고 올바른 길을 제시해 주셔서 든든했다. 광복회장님의 올바른 역사관과 소신 있는 말씀에 깊이 감사드린다. 경기도가 제대로 된 역사를 만들고, 독립운동을 선양하는 데 앞장서겠다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;이에 대해 이 회장은 “대단히 의미 있는 일로 광복회의 큰 힘이 된다”며 “광복회 안에 경기도 독립기념관 건립추진위원회(가칭)를 만들어 입지 등을 경기도에 건의하겠다”고 화답했다고 강 대변인은 전했다.&lt;br&gt;&lt;br&gt;또 배석했던 광복회 간부들도 “천안의 독립기념관이 수도권에서는 너무 멀어서 접근성이 떨어지는 만큼 수도권에 최초로 독립기념관이 만들어진다면 명실상부한 대한민국의 독립기념관으로서 큰 의미가 있을 것”이라면서 환영의 뜻을 나타냈다. 한 간부는 “천안 독립기념관에는 역사를 왜곡해 온 독립관장이 들어왔기 때문에 새로운 독립기념관이 더욱 의미가 있다”고 했다고 한다.&lt;br&gt;&lt;br&gt;김 지사는 “이 참에 제대로 중심을 잡을 수 있도록, 역사적 기틀을 만들겠다. 저희가 적극적으로 광복회 곁에서 함께 하겠다”고 재차 강조했다.&lt;br&gt;&lt;br&gt;김 지사의 이날 발언을 두고 강 대변인은 “김 지사는 무장투쟁, 독립의·열사 외에도 예술·언론·교육 등의 분야에서 그동안 조명되지 않았던 다양한 독립운동과 유공자를 찾아내 선양하겠다는 생각을 갖고 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;김 지사는 지난 광복절 경기도 경축식에서도 광복회의 정부 경축식 불참을 거론하면서 “한두 달 전에 이종찬 회장님께서 수원을 일부러 오셔서 함께 점심을 했다”, “며칠 전에는 전화통화를 하면서 최근에 있는 상황에 대해서 의견을 교환하기도 했고, 회장님께서는 ‘일본 우익과 내통해 전전(戰前) 일본과 같이 가고 있다는 위기감이 든다’고 하면서 정부 주최 경축식에 불참하신다고 하셨다”고 언급하기도 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘티메프 여파’ 테이블엔조이도 기업회생 신청…법원, 자산·채권 동결</title>
       <link>https://www.chosun.com/national/court_law/2024/08/29/42EJOOY3FNGERJJNCALQESE7SI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/29/42EJOOY3FNGERJJNCALQESE7SI/</guid>
@@ -858,90 +948,6 @@
       <description/>
       <pubDate>Wed, 28 Aug 2024 14:45:13 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PGTUP3VONL67B2HKPUFCZS7ZJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사망자 23명이 발생한 '화성 아리셀 공장 화재'와 관련해 박순관 아리셀 대표가 28일 구속 전 피의자 심문(영장실질심사)을 마친 후 대기 장소인 경기도 수원시 영통구 수원남부경찰서 유치장으로 들어서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23명의 사망자가 나온 경기 화성 배터리 업체 아리셀 화재 사고와 관련, 중대재해처벌법 위반 등의 혐의를 받는 박순관 아리셀 대표가 28일 구속됐다. 이는 2022년 중대재해처벌법 시행 후 업체 대표가 구속된 첫 사례다.&lt;br&gt;&lt;br&gt;수원지법 손철 영장전담 부장판사는 이날 오전 10시 박 대표와 그의 아들인 박중언 아리셀 총괄본부장, 아리셀 안전보건관리 담당자 A씨, 인력 공급업체인 한신다이아 대표 B씨 등에 대한 구속 전 피의자심문(영장실질심사)을 진행하고, 같은 날 오후 11시 40분쯤 박 대표와 박 본부장에 대한 영장을 각각 발부했다. 손 부장판사는 박 대표와 박 본부장에 대해 “혐의 사실이 중대하다”고 발부 사유를 밝혔다. 나머지 2명에 대해선, “증거인멸 및 도주우려가 없다”며 영장을 기각했다.&lt;br&gt;&lt;br&gt;검찰에 따르면, 박 대표 등은 지난 6월 24일 발생한 화성 아리셀 공장 3동 2층에서 발생한 화재 사고와 관련해 산업안전보건법 위반, 업무상 과실치사상 등의 혐의를 받는다. 박 대표는 중대재해처벌법 위반 혐의도 받고 있다. 이 사고로 한국인 5명, 중국인 17명, 라오스인 1명 등 23명이 숨지고 8명이 다쳤다.&lt;br&gt;&lt;br&gt;경찰과 고용노동부의 수사 결과, 아리셀은 납기일을 맞추기 위해 비숙련 근로자를 제조 공정에 불법으로 투입했고, 이 과정에서 발생한 불량 전지가 폭발 및 화재에 영향을 준 것으로 파악됐다. 또 공장 비상구 문이 피난 방향과 반대로 열리도록 설치됐고, 항상 열릴 수 있어야 하는 문에 보안장치가 있는 등 대피경로 확보에도 총체적 부실이 있던 것으로 조사됐다. 사고 대처요령에 관한 교육도 제대로 이뤄지지 않았다.&lt;br&gt;&lt;br&gt;박 대표는 이날 오전 8시 40분쯤 경기 수원시 장안구 고용노동부 경기지청에서 나와 수원지법으로 이동하면서 취재진에 “재판에 성실히 임하겠다”고 말했다. 그는 “불법파견 혐의를 인정하느냐” “안전교육을 제대로 하지 않은 이유가 무엇이냐”는 등의 질문에는 아무런 답을 하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2452] 암호로 바꿔 쓰기</title>
-      <link>https://www.chosun.com/national/nie/2024/08/29/57MNJXF4QNAD7KKI5LLUSH7A44/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/29/57MNJXF4QNAD7KKI5LLUSH7A44/</guid>
-      <description/>
-      <pubDate>Wed, 28 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XAZFAZIRDRBSHKMMDZ77Z7LGVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 피해 신고서가 수리되다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/08/29/2ROY7EZLXJC7DK2AYE3A6AW3F4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/08/29/2ROY7EZLXJC7DK2AYE3A6AW3F4/</guid>
-      <description/>
-      <pubDate>Wed, 28 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZWKZYUZSZ5GJXF4A7KIKWGNQPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 유불리(有不利)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/08/29/2R7WH3Y47BGEPCAWTEB36UNI6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/08/29/2R7WH3Y47BGEPCAWTEB36UNI6E/</guid>
-      <description/>
-      <pubDate>Wed, 28 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AMDJRHRJRBHSNPYSJDHS37RJPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 예쁘고 생기가 넘치다, 싱싱하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/08/29/MUZNKIO5TRCZHKLKKIVV6WHECA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/08/29/MUZNKIO5TRCZHKLKKIVV6WHECA/</guid>
-      <description/>
-      <pubDate>Wed, 28 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JFND4MZISBGKFPWIZMAFRWC5VM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] dabble in</title>
-      <link>https://www.chosun.com/national/nie/english/2024/08/29/VLVMTWQ2PBCHRDG3ADNIUFDC2M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/08/29/VLVMTWQ2PBCHRDG3ADNIUFDC2M/</guid>
-      <description/>
-      <pubDate>Wed, 28 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EYIPQXMOZBAOHAAXERHIJLGF4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재밌다, 이 책!] 사춘기 지나며 낯설어지는 ‘나의 몸’ 이야기 5편 통해 새롭게 바라봐요</title>
-      <link>https://www.chosun.com/national/nie/2024/08/29/TIOD36BNTNENPGFQPHXWWCHDZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/29/TIOD36BNTNENPGFQPHXWWCHDZA/</guid>
-      <dc:creator>김성신 출판평론가</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 Aug 2024 15:30:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6FVBWD5REFAYJO224OAQA2PBZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;몸스터&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;백이원 외 4인 지음 | 출판사 스피리투스 | 가격 1만5800원&lt;/b&gt;&lt;br&gt;&lt;br&gt;옴니버스(omnibus)는 독립된 이야기들을 모아서 만든 책이나 영화 작품을 의미해요. 같은 등장인물이나 주제 아래에서 벌어지는 각각의 이야기일 수 있어요. 또는 완전히 다른 이야기들을 한 작품으로 묶은 것도 옴니버스식 구성이에요. 숏폼 콘텐츠에 익숙해진 청소년 독자들에게 옴니버스 형식의 책들이 다시 주목받고 있어요.&lt;br&gt;&lt;br&gt;이 책은 하나의 주제에 대해 다섯 작가가 이야기를 펼치는 옴니버스 구성의 단편소설집입니다. ‘사춘기 시절의 몬스터(괴물) 같은 몸’에 대한 기발한 상상력을 소설로 써보자는 취지에 공감한 작가들이 참여했어요.&lt;br&gt;&lt;br&gt;김경희 작가의 ‘알로그루밍’은 매력적인 몸을 위해 일년 내내 극단의 다이어트를 감행하는 여학생들 이야기예요. 다이어트를 하는 친구들은 단체 톡방에 하루 동안 먹은 음식을 매일 밝혀요. 그리고 서로 응원하고 때로는 비난도 하면서 서로의 다이어트를 독려해요. 주인공 민지는 종일 굶고 먹은 걸 토해 내기도 하지만 좀처럼 날씬해지지 않아요. 그러던 어느 날 민지 주위를 맴도는 날씬하고 도도한 삼색 고양이를 만나면서 그녀는 진짜 행복이 무엇인지 깨닫게 됩니다.&lt;br&gt;&lt;br&gt;‘몽신체’(작가 박생강)는 학교에서 대부분 시간을 조는 고등학생 차정우 이야기를 담고 있어요. 정우는 늘 꿈속에서 제일 싫어하는 순두부 모양 괴물에게 쫓겨요. 어느 날 친구 아버지이자 판타지 소설가인 구탁씨를 통해 비밀을 알게 된다는 줄거리예요. 실제 잠실에 있는 중고책 서점이 등장하고, 주인공이 이곳에서 사건 실마리를 잡기도 하는 등 실감 나는 이야기가 펼쳐지는 게 이 작품의 특징이에요.&lt;br&gt;&lt;br&gt;문성진 작가의 ‘일단 가즈아’는 남성미 넘치는 근육질 몸을 갖기 위해 고군분투하는 한 소년의 이야기를 담고 있어요. 사춘기 소년들의 신체적 로망을 흥미롭게 묘사했죠. 백이원 작가의 ‘이중생활’은 아기장수, 삼신할매, 전우치 등 우리 신화 속 초인적인 존재의 후예들이 우리 주위에서 함께 살아간다는 영화적 상상력을 다뤘어요. 정명섭 작가의 ‘헤드’는 미래 지구가 배경이에요. 회복 불가능해진 지구를 버리고 새로운 행성을 찾아 가야 하는데, 인간의 몸이 이를 어렵게 만들어요. 몸을 극복하려는 미래 인간들의 이야기는 흥미로우면서도 의미심장해요.&lt;br&gt;&lt;br&gt;사춘기를 지나면서 가장 먼저 낯설어지는 세계가 바로 ‘나의 몸’이라고 해요. 가장 큰 변화가 생기고, 내 맘대로 되지 않기 때문이에요. 이 책에 담긴 다섯편의 이야기는 사춘기 청소년들이 자신의 몸을 객관적으로 바라볼 수 있게 도와줘요. 몸에 대해 깊게 생각해보는 기회도 됩니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [생활 속 경제] “주식 시장 흔들릴지 몰라” 투자자들 공포 보여주는 지수예요</title>
-      <link>https://www.chosun.com/national/nie/2024/08/29/OEZDKVQ55JFGJHQ5L5QD5AXVHY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/29/OEZDKVQ55JFGJHQ5L5QD5AXVHY/</guid>
-      <dc:creator>연유진 '뉴스로 키우는 경제 지능' 저자</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 Aug 2024 15:30:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DHFQLN4JHFFY3MICNSZDMQHXX4.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Q. 3주 전 주식 시장이 크게 요동치면서 한때 공포지수가 4년여 만에 가장 높은 수준으로 올랐다는 뉴스가 나왔어요. 공포지수가 무엇인가요?&lt;/b&gt;&lt;br&gt;&lt;br&gt;A. 주식 시장에서 투자자들이 가장 공포를 느낄 때는 아마도 시장 흐름을 짐작할 수 없을 때일 거예요. 경기가 나아질지 나빠질지 잘 모르겠는데 주가가 출렁거리면 아무리 노련한 투자자라도 얼어붙기 마련이죠.&lt;br&gt;&lt;br&gt;그런데 얼마 전 투자자들 사이에서 공포가 확산했어요. 미국이 조만간 기준 금리 인하를 시작할 거라는 기대감이 있었죠. 하지만 그럼에도 불구하고 엔 캐리 트레이드(일본에서 낮은 금리로 돈을 빌려 글로벌 자산에 투자하는 현상)가 끝날 거라는 걱정, 중동 전쟁이 터지고 미국이 경기 침체에 접어들지 모른다는 불안이 커졌죠. 호재와 악재가 겹치며 시장 방향을 예측하기 어려웠어요.&lt;br&gt;&lt;br&gt;이런 공포는 이른바 ‘검은 월요일(블랙 먼데이)’로 이어졌어요. 지난 5일 코스피 지수는 투자자들의 투매로 하루 만에 8% 넘게 떨어졌어요. 일본, 대만 등의 증시도 폭락했죠.&lt;br&gt;&lt;br&gt;투자자들의 공포를 한발 앞서 감지할 수 있을까요? 그러면 검은 월요일처럼 시장이 크게 흔들리기 전에 미리 대비할 수 있을 텐데요. 물론 방법이 있어요. 시카고옵션거래소(CBOE)의 변동성지수(VIX·Volatility Index)를 보면 돼요. VIX는 ‘공포지수’라는 별명으로 불리는 경우가 더 많아요.&lt;br&gt;&lt;br&gt;VIX는 미국 주가지수 S&amp;amp;P500의 변동성에 대한 시장 참여자의 기대를 보여주는 지표예요. VIX 상승은 향후 30일 안에 S&amp;amp;P500의 변동성이 커질 거라고 보는 투자자가 많아졌다는 걸 뜻해요. 곧 증시가 큰 폭으로 오르내릴 거라는 공포가 퍼지는 거죠. 보통 VIX가 30을 넘으면 투자자들이 공포 구간에 접어들었다고 봐요.&lt;br&gt;&lt;br&gt;VIX가 작동하는 원리를 들여다볼까요? VIX는 S&amp;amp;P500 지수 옵션 가격을 바탕으로 산출해요. 옵션은 자산을 미리 정한 가격과 시점에 매수 또는 매도할 수 있는 권리를 뜻해요. 많은 경우 시장 변동성에 대비하기 위해 옵션을 사죠. 30일 뒤 A회사 주식 한 주를 50달러에 팔 수 있는 옵션을 샀다고 해봐요. 그럼 한 달 뒤 주가가 30달러로 떨어져도 옵션을 행사해 주식을 주당 50달러에 팔 수 있어요. 옵션 가격만 내면 큰 손실을 피할 수 있죠.&lt;br&gt;&lt;br&gt;그래서 주식 시장에 공포가 확산하면 많은 사람이 옵션을 사고 싶어 해서 옵션 가격이 올라요. 그러면 다양한 옵션 가격을 종합해 산출하는 VIX도 상승하게 됩니다. VIX는 5일(현지 시각) 한때 65를 넘겨 투자자들이 ‘패닉’에 빠졌다는 걸 보여줬어요. 코로나 초기인 2020년 3월 이후 가장 높은 수치였죠. 지금은 20 아래로 떨어져 투자자들이 점차 안정을 되찾고 있다는 걸 보여주고 있어요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 8월 29일</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/29/JINSLMCA2BCDJKFFHGPZECCZZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/29/JINSLMCA2BCDJKFFHGPZECCZZE/</guid>
-      <description/>
-      <pubDate>Wed, 28 Aug 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SMNWJXMZCZGZZKQBZDDV75SVHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [뉴스 속의 한국사] 1974년 광복절 ‘서울 1호선 개통’… 그날 육영수 여사 서거했죠</title>
-      <link>https://www.chosun.com/national/nie/2024/08/29/SU6KNNJCQBG5NLTOMHM3LSWFY4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/29/SU6KNNJCQBG5NLTOMHM3LSWFY4/</guid>
-      <dc:creator>유석재 기자, 기획·구성=오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 Aug 2024 15:29:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ADCZBPU765CVHCU7KYUELHZBWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;(왼쪽 위)1971년 4월 12일 서울 지하철 1호선 기공식에 참석한 육영수(맨 왼쪽) 여사, 박정희(가운데) 대통령, 양택식 서울시장. (왼쪽 아래) 1974년 8월 15일 서울시청사에 서울 지하철 1호선 개통을 축하하는 현수막들이 걸렸어요. (오른쪽 위) 서울 지하철 1호선 개통을 기념해 발매된 승차권 앞면. (오른쪽 아래) 1984년 서울 지하철 2호선 승강장에 사람들이 북적이고 있어요. /한울엠플러스·서울역사박물관·국립민속박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울교통공사가 30일부터 11월 1일까지 ‘서울 지하철’을 주제로 모바일 스탬프 투어를 실시한다는 뉴스가 나왔어요. 서울역사박물관에선 11월 3일까지 ‘서울의 지하철’ 특별전을 열고 있죠. 왜 이렇게들 지하철을 기념하고 있을까요? 바로 올해가 우리나라에 처음으로 지하철이 개통된 지 50주년이 되기 때문입니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;“각하, 지하철을 건설하면 나라가 망합니다”&lt;/b&gt;&lt;br&gt;&lt;br&gt;1955년 157만 명이었던 서울 인구는 1970년에는 552만 명을 넘어설 정도로 크게 늘어났습니다(현재는 936만 명). 교통량 역시 폭증해 시급한 대책이 필요했죠. 지하철 건설 구상은 1964년에 나왔습니다. 이미 영국 런던에 1863년 세계 첫 지하철이 출현했고, 아시아에선 일본 도쿄(1927)와 오사카(1933) 등에 건설됐습니다. 대략 도시 인구 200만~300만 명 때였으니 서울도 지하철을 도입해야 한다는 공감대가 생겨났습니다.&lt;br&gt;&lt;br&gt;당시 노면 전차는 너무 느려 오히려 교통에 방해가 된다는 이유로 1968년 철거됐어요. 그 후 6년 동안 서울 서민의 대중교통은 사실상 버스뿐이었습니다. 1970년 4월 부임한 양택식(1924~2012) 서울시장은 지하철 건설을 결심하고 다음 달 박정희 대통령에게 이 계획을 보고했습니다.&lt;br&gt;&lt;br&gt;땅을 파서 철도를 놓은 경험이 없었고 자금과 기술도 부족했던 한국 정부는 고민에 빠졌습니다. 김학렬 경제부총리가 대통령에게 “각하, 지하철을 건설하면 나라가 망합니다”라고 진언할 정도였습니다. 정부의 실세였던 이후락 주일대사가 “서양 대도시치고 지하철 없는 곳이 없다”고 하자 대통령은 그제야 마음을 굳혔다고 합니다. 일본으로부터 자금을 빌리고 기술을 도입해 1971년 4월 12일 서울 지하철 1호선의 기공식을 열었습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;침울했던 지하철 1호선 개통식&lt;/b&gt;&lt;br&gt;&lt;br&gt;첫 지하철인 1호선은 서울역과 청량리를 연결하는 노선이었습니다. 서울역과 인천·수원, 용산과 성북(현 광운대역)을 잇는 구간은 기존 철도를 전철화해 지하철과 직결되도록 했습니다. 3년 4개월의 공사 기간 큰 교통 혼잡이 일어났으나 서울 시민들은 미래를 위해 꾹 참았다고 합니다.&lt;br&gt;&lt;br&gt;남대문(숭례문)과 동대문(흥인지문) 근처 노선에선 진동으로 인한 문화재 훼손을 막기 위해 수입 코르크로 방진벽을 설치하는 등 새로운 공법도 도입됐습니다. 대만과 인도, 하와이의 장관·시장이 견학을 올 만큼 해외에서도 관심을 기울였죠. “양 시장이 지하철에 미쳤다”는 소문이 났고, 대통령도 틈만 나면 공사장을 시찰했습니다.&lt;br&gt;&lt;br&gt;제29회 광복절인 1974년 8월 15일, 마침내 9.5km 구간의 서울 지하철이 개통됐습니다. 기본 운임은 30원이었습니다(현재는 1400원). 이날 오전 11시에 대통령이 참석하는 성대한 개통식이 이뤄질 예정이었습니다. 그러나 그 직전 국립극장의 8·15 경축식에서 박정희 대통령 암살 미수 사건이 일어났고, 이 자리에서 대통령 부인 육영수 여사가 총탄을 맞아 그날 저녁 서거했습니다. 지하철 개통식은 대통령 없이 침울한 분위기에서 진행됐습니다. 광복절 행사의 주관자였던 양택식 시장은 사태의 책임을 지고 며칠 뒤 사퇴했습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;부산·대구·인천으로 확장된 지하철&lt;/b&gt;&lt;br&gt;&lt;br&gt;그런데 바로 이때 서울시장의 교체로 서울 지하철의 모습은 크게 달라지게 됩니다. 양 시장의 후임인 구자춘(1932~1996) 시장은 서울이 4대문 안 기존 도심과 영등포, 강남의 3개 도심으로 이뤄져야 한다는 ‘3핵 도시론’을 주장했습니다. 그래서 지하철 노선이 기존 도심으로 집중되는 전임 시장의 2~5호선 계획을 모두 엎어버렸고, 2호선은 종점 없이 을지로~영등포~강남을 빙글빙글 도는 순환선으로 설계했죠.&lt;br&gt;&lt;br&gt;포병 장교 출신인 구 시장은 지도를 보고 지형을 파악하는 독도법(讀圖法)에 능했습니다. 시청 간부들 앞에서 서울시 지도를 놓고 연필을 든 그는 20분 만에 2호선 노선을 쓱쓱 그렸다고 합니다. 그러면서 혼잣말처럼 “구로공단 앞에는 가야 하겠지~” “서울대 앞도 지나야겠지”라고 말했답니다. 놀랍게도 2호선은 그 그림에서 큰 수정 없이 건설됐습니다.&lt;br&gt;&lt;br&gt;전동차와 통신 장비의 본격 국산화가 추진된 2호선은 1984년 모든 구간이 개통됐습니다. 도심을 X자로 교차하는 3호선(구파발~양재)과 4호선(상계~사당)은 1985년에 개통됐죠. 이로써 1기 지하철이 완공돼 서울 교통의 동맥으로 자리잡았습니다. 5~8호선의 2기 지하철은 2001년 지어졌죠. 다만 1997년 IMF 외환위기의 여파로 서울 3기 지하철 중 10~12호선이 무산된 것은 아쉽습니다. 한편 부산(1985), 대구(1997), 인천(1999), 광주(2004), 대전(2006) 등 다른 대도시에도 속속 지하철이 달리게 됐습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;지하철이 바꾼 도시 문화&lt;/b&gt;&lt;br&gt;&lt;br&gt;서울역사박물관 ‘서울의 지하철’ 특별전에 따르면, 현재 서울교통공사 등이 운영하는 서울 지하철 11개 노선(운영 주체가 다른 공항철도·경의중앙선·수인분당선·신분당선 등 제외)을 달리는 전동차가 338개 역에 정차하며 총 노선 길이는 357.5km, 보유 차량은 3667량에 달합니다. 연간 탑승 인원은 26억 명으로 세계 4위이며, 접근성 면에선 세계 1위라고 합니다.&lt;br&gt;&lt;br&gt;지하철은 반세기 동안 사람들의 생활습관도 바꿨습니다. 정체가 없어 이동 시간을 예측할 수 있는 지하철 덕에 엄밀한 시간 관념이 자리 잡아 ‘코리안 타임(한국인이 약속 시간에 늦는다고 비꼬는 것)’이란 말이 사라졌습니다. 줄서기·금연 캠페인과 ‘선(先)하차, 후(後)승차’ 같은 표어가 사회 전반의 공공질서 정착에 한몫을 했죠.&lt;br&gt;&lt;br&gt;지하철로 인해 도시 곳곳의 개발이 촉진됐고, 흔들림이 적은 전동차 안에서 독서를 하는 문화가 생겨나 출판 산업에까지 영향을 미쳤습니다. ‘땅 밑’에 대한 사람들의 막연한 공포가 걷히면서 지하철 역은 약속 장소이자 휴게실, 문화 공간, 쇼핑센터로 새롭게 변모했습니다. 지금은 유튜브에서 한국 지하철을 침이 마르게 칭찬하는 외국인들을 보며 새삼 뿌듯해집니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>문 닫힌 노래방 침입 경찰관, 13년 전 미제 강간범 DNA 일치</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/28/6N457UMNCZFFBLQS7W27V4KBHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/28/6N457UMNCZFFBLQS7W27V4KBHU/</guid>
-      <dc:creator>구동완 기자, 김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 Aug 2024 13:30:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WSDUP2SAKKI5ZE3RCOMN2STENM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 은평경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 은평구의 한 노래방에 무단 침입해 붙잡힌 현직 경찰관이 DNA 대조 분석을 통해 13년 전 강간 사범으로 드러나 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 은평경찰서는 지난 27일 40대 남성 A씨를 주거침입·강간 등 혐의로 서울서부지검에 구속 송치했다고 28일 밝혔다. 경찰에 따르면 A씨는 서울경찰청 기동대 소속 경위로 이날 직위해제됐다.&lt;br&gt;&lt;br&gt;A씨는 지난 5월 영업이 끝난 은평구 노래방에 무단으로 침입한 혐의를 받는다. A씨는 지인들과 술자리를 갖고 귀가하던 중 문이 닫혀있던 노래방에 들어간 것으로 파악됐다. 사건 신고가 접수된 지 3개월 만인 지난 22일에 체포된 A씨는 경찰 조사에서 “술에 취해 있어 당시 상황이 기억나지 않는다”고 혐의를 부인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 조사 과정에서 A씨의 DNA를 분석·대조한 결과 2011년 서울 강남에서 일어난 미제 강간 사건의 현장에서 발견된 DNA와 일치한다는 사실을 확인하고 강간 혐의를 추가 적용했다.&lt;br&gt;&lt;br&gt;당시 미제 사건의 피의자는 술에 취한 채 길을 걷던 여성을 쫓아가 강간을 저지른 뒤 증거를 인멸하기 위해 피해자가 몸을 씻는 것까지 지켜보는 등 치밀하게 범죄를 저질렀다고 한다. 피의자로 지목된 A씨는 당시 청와대 경비단에 소속돼 근무 중이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
