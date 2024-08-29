@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘티메프 여파’ 테이블엔조이도 기업회생 신청…법원, 자산·채권 동결</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/29/42EJOOY3FNGERJJNCALQESE7SI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/29/42EJOOY3FNGERJJNCALQESE7SI/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 Aug 2024 10:05:27 +0000</pubDate>
+      <content:encoded>판매 대금을 제때 정산하지 못해 ‘환불 대란’을 일으킨 이른바 ‘티메프(티몬·위메프)’ 사태의 여파로 식당 예약·식사권 판매 플랫폼 회사 테이블엔조이도 기업 회생을 신청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HZTBAJJJAJHDLONUIFKJVPXPQA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동에 위치한 서울중앙지방법원, 서울고등법원, 서울회생법원. /조선일보 db&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 법조계에 따르면 테이블엔조이는 지난 27일 서울회생법원에 회생 절차 개시를 신청했고, 법원은 이 사건을 회생11부(재판장 오병희)에 배당했다.&lt;br&gt;&lt;br&gt;법원은 이날 테이블엔조이에 대해 보전처분 및 포괄적 금지명령도 내렸다. 보전처분은 채무자가 회사 자산을 처분해 특정 채권자에게만 변제하거나, 재산을 도피·은닉시키는 것을 막는 조치다. 반대로 포괄적 금지명령은 채권자들이 압류나 경매, 강제집행 등을 통해 회사의 자산을 확보하지 못하도록 모든 채권을 동결하는 것이다. 기업회생이 본격적으로 개시되기 전에 법원이 기업의 자산·부채 등을 묶어두는 절차다.&lt;br&gt;&lt;br&gt;앞서 티메프 등이 주 판로였던 테이블엔조이는 판매 대금을 제대로 정산 받지 못해 주요 거래처들에 향후 정산이 어렵다는 내용의 공문을 보낸 바 있다.&lt;br&gt;&lt;br&gt;테이블엔조이는 해피머니 상품권 운영사인 해피머니아이엔씨가 50% 넘는 지분을 가진 자회사이기도 하다. 티메프를 통해 상품권을 대량 판매해 온 해피머니아이엔씨 역시 지난 27일 법원에 회생 절차 개시를 신청했다.&lt;br&gt;&lt;br&gt;법원은 다음 달 6일을 테이블엔조이 대표자 심문기일로 정했다. 심문은 비공개로 진행될 것으로 보인다. 채무자회생법은 회생 신청이 들어왔을 때 법원이 채무자나 그 대표자를 심문해야 한다고 규정한다.&lt;br&gt;&lt;br&gt;이 회사의 채권자로는 중소기업은행·우리카드·파라다이스호텔부산·롯데관광개발 등 총 110곳이 명단에 이름을 올렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>3살 딸 인질로 성매매 시키고 강제 혼인신고...3억 뜯어낸 악마들</title>
+      <link>https://www.chosun.com/national/incident/2024/08/29/K6OW5H3FDFHJBEE3Q56QP3QBJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/29/K6OW5H3FDFHJBEE3Q56QP3QBJ4/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 Aug 2024 08:39:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKPU66JR2ZACLDQI47NNRQYETM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가출한 여성들을 폭행·협박해 성매매를 강요하는 등 방식으로 총 3억 4600여 만원을 갈취한 20대 4명이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;대구 중부경찰서는 성매매 처벌법 위반 등 혐의로 20대인 여성 A씨와 그 남편, A씨의 내연남 2명을 검찰에 구속 송치했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 2022년 9월부터 올해 4월까지 대구 중구, 북구 일대 아파트에서 20대 여성 B씨와 C씨에게 성매매를 강요해 대금 1억 5000만원을 갈취한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨 등은 식당에서 일하던 B씨, C씨와 친분을 쌓은 뒤, 이들의 경제적 사정이 어려운 점을 이용해 “숙식을 제공해줄 테니 집에 와서 일 좀 해달라”고 했다. 이후 B씨 등이 A씨 집으로 오자, A씨 등은 이들을 협박·폭행하며 성매매를 강요했다.&lt;br&gt;&lt;br&gt;1년 7개월간 B씨 등 2명은 총 1500회에 달하는 성매매를 한 것으로 조사됐다. 성매매 대금으로는 회당 10만~20만원을 받았고, 하루 30만~50만원 규모의 ‘일당’을 채우지 못하면 폭행을 당했다고 한다.&lt;br&gt;&lt;br&gt;A씨 등은 B씨와 C씨가 도망치지 못하도록 일거수일투족을 감시했다. A씨 등은 또 B씨의 아버지에게 전화를 걸어 “딸의 도박 빚을 갚으라”고 협박해 8000만원을, B씨의 복막염 치료비 등으로 1600만원을 뜯어냈다.&lt;br&gt;&lt;br&gt;A씨 주거지로 오면서 3살 된 딸을 데려온 C씨의 경우, 딸이 인질이 됐다. A씨 일당은 C씨에게 “도망치면 니 딸을 고아원으로 보내겠다”고 협박했고, A씨는 혹시라도 모녀가 함께 도망치지 못하도록 밤마다 C씨의 딸과 함께 잠들었다고 한다.&lt;br&gt;&lt;br&gt;A씨는 또 자신의 내연남 2명이 B씨, C씨와 각각 혼인신고를 하게한 뒤, 신혼부부 전세 자금 대출로 1억원을 받아낸 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;이 사건은 경찰이 “성매매와 폭행이 이뤄지는 것 같다”는 첩보를 토대로 수사하던 중, 때마침 감시가 소홀한 틈을 타 탈출한 B씨와 접촉하며 알려졌다. 경찰은 수사를 통해 A씨를 주범으로 보고 A씨와 남편, 내연남 등 4을 모두 구속했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “피해 여성들을 모두 부모에게 돌려보냈고, 심리 치료 등을 지원 중”이라며 “A씨의 전세 보증금 1억 5000만원을 범죄 수익금으로 보고 기소 전 추징보전한 상태이며, 특정된 성매수남 20여명에 대한 조사도 진행할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>예초기·벌 쏘임 사고는 절반 이상이 8~9월에 발생</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/29/HGZWNNEC2BAULI36XTIN4VJDOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/29/HGZWNNEC2BAULI36XTIN4VJDOU/</guid>
+      <dc:creator>김영우 기자, 최원석 인턴기자(대구경북과학기술원 기초학부 졸업)</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 Aug 2024 09:12:27 +0000</pubDate>
+      <content:encoded>경기 의정부에 사는 50대 박모씨는 추석 벌초를 앞두고 고민에 빠졌다. 작년에 벌초를 하다 예초기 날에 돌이 튀어 눈을 다쳤기 때문이다. 박씨는 “바로 병원에 가 상처를 입진 않았지만, 대행 서비스라도 이용해야 할지 고민”이라고 했다.&lt;br&gt;&lt;br&gt;추석 연휴를 앞두고 행정안전부가 “벌초를 할 땐 예초기 사용과 벌 쏘임에 주의해달라”고 29일 당부했다. 예초기 사고와 벌 쏘임 사고의 절반 이상이 8~9월에 발생하는 것으로 확인되면서다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PN6BYMNCBZNQDOOZUIRYJSLW3M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;제주 용강동 한 가족묘지를 찾은 후손들이 벌초를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 행안부에 따르면 최근 5년간(2019~2023년) 한국소비자원에 접수된 예초기 안전사고 405건 중 245건(60.5%)이 8~9월에 접수됐다. 10건 중 8건은 예초기 날에 피부가 찢어지거나 베이는 열상·절상이었다.&lt;br&gt;&lt;br&gt;행안부 관계자는 “예초기 날에 직접 상처를 입는 경우도 있지만, 돌이나 나뭇가지가 튀어 사고가 나기도 한다”고 말했다.&lt;br&gt;&lt;br&gt;벌 쏘임 사고 역시 절반 이상이 8~9월에 발생했다. 29일 소방청에 따르면 지난 2021년부터 3년간 발생한 벌 쏘임 사고 1만8640건 중 1만779건(57.8%)이 8~9월에 발생했다. 올해 역시 지난 27일 전남 영암 금정면의 한 산에서 벌초를 하고 있던 A(58)씨가 벌에 쏘인 뒤 호흡곤란 증세를 보여 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;행안부는 예초기 사고와 벌 쏘임 예방을 위해 안전 수칙에 따를 것을 요청했다.&lt;br&gt;&lt;br&gt;행안부에 따르면 예초기 작업 전에는 안전화나 장갑 등 안전 장비와 긴 옷을 입어야 한다. 예초기 작업 반경 15m 안으로 들어가서도 안 된다. 돌이나 나뭇가지 등이 튈 수 있어서다. 칼날에 낀 이물질을 제거할 땐 예초기 전원을 끄고 장갑을 껴야 한다.&lt;br&gt;&lt;br&gt;벌 쏘임 예방을 위해선 흰색 계열의 긴 옷을 입고 향수처럼 향이 강한 화장품은 사용하면 안 된다. 벌집을 발견하면 119에 신고하고, 만약 벌집을 건드렸다면 20m 정도 떨어진 곳으로 즉시 대피해야 한다.&lt;br&gt;&lt;br&gt;행안부 관계자는 “벌에 쏘였다면 쏘인 부위를 깨끗한 물로 씻고 얼음 찜질을 해주는 것이 좋다”며 “과 반응이 나타나면 바로 병원에 가야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>학생 위해 배운 심폐소생술로 생명 구한 대구 교사</title>
+      <link>https://www.chosun.com/national/people/2024/08/29/6K7ORPWQI5HUBHGASINXNVM7LA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/29/6K7ORPWQI5HUBHGASINXNVM7LA/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 Aug 2024 09:11:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7NNZI747KZB5JNBKOZJTLYL3EU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북대 사대부고 이근우 교사/대구시교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 27일 대구 중구의 경북대 사대부고 교무실에 한 남성이 찾아왔다. 이 남성은 생명과학 담당인 이근우(39) 교사를 찾아 “선생님 덕분에 살았다, 감사하다”며 떡 상자를 내려놓았다.&lt;br&gt;&lt;br&gt;고교 교사가 수학 여행을 앞두고 학생들을 위해 배운 심폐소생술로 쓰러진 시민을 구한 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;29일 대구시교육청에 따르면 지난 7일 교사 이근우씨는 방학을 맞아 배드민턴을 치기 위해 중구의 청라국민체육센터를 찾았다. 한창 운동을 하던 중 이씨는 샤워장 인근에서 사람들이 모여 웅성거리는 소리를 들었다.&lt;br&gt;&lt;br&gt;샤워장에는 한 남성이 쓰러져 있었고, 주변 시민들이 심폐소생술을 시행하거나 119에 신고를 하던 중이었다. 그러나 정확한 흉부 압박이 이뤄지지 않고 있다고 판단한 이씨가 직접 심폐소생술을 시행했다. 맥박이 돌아온 남성은 곧이어 도착한 119 구조대에 이송돼 치료를 받고 무사히 퇴원했다.&lt;br&gt;&lt;br&gt;한동안 묻혀있던 이 선행은 퇴원한 남성이 소방과 병원 등을 통해 은인을 수소문해 감사 인사를 전하며 알려졌다.&lt;br&gt;&lt;br&gt;이 교사는 “학생들을 위해 배운 것들로 생명을 구할 수 있어 교육의 가치를 다시 느낄 수 있었다”며 “당연히 해야 할 일을 했을 뿐”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘오징어게임’ 오영수, 강제 추행 2심 첫 재판서 “형량 과해...영화 줄줄이 하차”</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/29/5ZANOUWDYNGLXJHGETKW56SHTA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/29/5ZANOUWDYNGLXJHGETKW56SHTA/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 Aug 2024 08:41:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5TO73KS6AXAXYBFHYNHB2FBSOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강제추행 혐의로 기소된 배우 오영수씨(80·본명 오세강)가 지난 3월 15일 오후 경기 수원지방법원 성남지원에서 열린 선고 공판을 마친 뒤 법정을 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강제 추행 혐의로 1심 재판에서 징역형 집행유예를 선고 받은 원로 배우 오영수(80)씨에 대한 항소심 첫 재판이 29일 열렸다.&lt;br&gt;&lt;br&gt;수원지법 형사항소 6-1부(재판장 신우정)는 이날 오후 오씨에 대한 항소심 재판을 열고, “피고인 측에서는 ‘(오씨가)고령이며 초범인 데다, 추행 정도가 중하지 않고 막대한 고통을 받고 있는 사정이 양형에 고려돼야 하며, 형이 과도하고, 영화에서 줄줄이 하차하는 등 심판을 받고 있다’는 입장을 냈다”고 밝혔다. 이에 검찰은 “(피고의)항소 기각 의견”이라고 했다.&lt;br&gt;&lt;br&gt;오씨의 변호인 측은 “좋은 방법은 아니지만, 피해자를 증인으로 부를 수 있다면 불러봤으면 좋겠다”고 했다. 이에 재판부는 “고민할 수 있지만 재판부는 현재로선 부정적”이라며 “피해자의 증언을 다시 듣는다는 건 실무에도 안 맞고, 규칙에도 안 맞는다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 이 사건과 관련해 피해자 여성 A씨의 상담사였던 B씨에 대한 증인신문을 진행해보고, A씨에 대한 증인신문 여부를 결정하겠다고 했다. 이날 A씨는 직접 방청석에서 재판을 지켜봤다.&lt;br&gt;&lt;br&gt;오씨는 지난 2017년 여름 연극 공연을 위해 지방에 머물던 때 산책로에서 A씨를 껴안고, A씨 주거지 앞에서 볼에 입맞춤하는 등 두 차례 강제 추행했다는 혐의로 불구속 기소됐다. 오씨는 수사와 재판 과정에서 혐의를 모두 부인했지만, 지난 3월 1심 법원은 오씨의 혐의에 대해 유죄를 인정하며 그에게 징역 8개월에 집행유예 2년을 선고했다. 검찰과 오씨 측은 이에 불복해 각각 항소했다.&lt;br&gt;&lt;br&gt;오씨는 넷플릭스 오리지널 콘텐츠인 드라마 ‘오징어 게임’에 출연해 ‘깐부 할아버지’로 전세계적인 유명세를 얻었다. 지난 2022년 1월 한국 배우로는 처음으로 미국 골든글로브 TV 부문에서 남우조연상을 받기도 했다. 오씨가 1심에서 유죄를 선고받자, KBS는 방송출연규제심사위원회를 열고, 지난 5월 13일자로 오씨에 대해 ‘출연 정지’ 결정을 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대검 “딥페이크 사건 1년 전보다 157% 증가” 검찰총장 “구속 수사 원칙”</title>
       <link>https://www.chosun.com/national/court_law/2024/08/29/MRQUY37D3BHBLBI7X57DZ7Q2HM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/29/MRQUY37D3BHBLBI7X57DZ7Q2HM/</guid>
@@ -897,55 +942,6 @@
       <description/>
       <pubDate>Wed, 28 Aug 2024 13:30:59 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WSDUP2SAKKI5ZE3RCOMN2STENM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 은평경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 은평구의 한 노래방에 무단 침입해 붙잡힌 현직 경찰관이 DNA 대조 분석을 통해 13년 전 강간 사범으로 드러나 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 은평경찰서는 지난 27일 40대 남성 A씨를 주거침입·강간 등 혐의로 서울서부지검에 구속 송치했다고 28일 밝혔다. 경찰에 따르면 A씨는 서울경찰청 기동대 소속 경위로 이날 직위해제됐다.&lt;br&gt;&lt;br&gt;A씨는 지난 5월 영업이 끝난 은평구 노래방에 무단으로 침입한 혐의를 받는다. A씨는 지인들과 술자리를 갖고 귀가하던 중 문이 닫혀있던 노래방에 들어간 것으로 파악됐다. 사건 신고가 접수된 지 3개월 만인 지난 22일에 체포된 A씨는 경찰 조사에서 “술에 취해 있어 당시 상황이 기억나지 않는다”고 혐의를 부인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 조사 과정에서 A씨의 DNA를 분석·대조한 결과 2011년 서울 강남에서 일어난 미제 강간 사건의 현장에서 발견된 DNA와 일치한다는 사실을 확인하고 강간 혐의를 추가 적용했다.&lt;br&gt;&lt;br&gt;당시 미제 사건의 피의자는 술에 취한 채 길을 걷던 여성을 쫓아가 강간을 저지른 뒤 증거를 인멸하기 위해 피해자가 몸을 씻는 것까지 지켜보는 등 치밀하게 범죄를 저질렀다고 한다. 피의자로 지목된 A씨는 당시 청와대 경비단에 소속돼 근무 중이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>간호법 통과에 고대·이대·중앙대의료원 간호사들 "파업 철회"</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/08/28/FNX7MAGY2ZFSNEGEX72XNQVDFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/28/FNX7MAGY2ZFSNEGEX72XNQVDFY/</guid>
-      <dc:creator>조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 Aug 2024 13:28:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HZAQIXGXLFCPTPZMEB5OXP5C5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한간호협회 간호사들이 28일 국회 본회의에서 간호법이 통과되자 방청석에서 기쁨의 눈물을 흘리고 있다. /이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;간호사들의 숙원이었던 간호법이 28일 국회 본회의를 통과하면서 29일 파업을 예고했던 보건의료노조의 소속 간호사·의료기사 상당 수가 업무를 계속 하기로 했다. 간호사들은 보건의료노조의 주축이다. 정부는 안도하는 모습을 보이고 있다.&lt;br&gt;&lt;br&gt;보건의료노조 조합원 중 60% 이상을 차지하는 간호사들의 숙원인 간호법이 통과되면서 파업을 예고했던 병원 61곳 중 상당수에서 임금 및 단체협상(임단협)이 급물살을 탄 것이다.&lt;br&gt;&lt;br&gt;의료계에 따르면 28일 오후 7시까지 파업을 예고했던 병원 61곳 중 18곳(30%)이 “임금 및 단체협상(임단협)이 타결돼 파업을 철회한다”고 밝혔다. 막판 협상에 성공한 병원들은 2~3%대 임금 인상과 근로시간 단축 등에 합의한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;고려대의료원 소속 3개 병원, 이화여대의료원 소속 2개 병원, 중앙대의료원 소속 2개 병원 등 주요 병원에서 임단협이 타결되면서 파업 동력이 크게 떨어졌다는 평가가 나온다. 보건의료노조도 이날 성명을 내고 “간호법 통과와 노동위원회의 적극적 중재 노력 등이 긍정적 영향을 미치면서 원만한 타결 흐름이 만들어지고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;·&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 경찰 “NCT 태일 성범죄 피의자 입건, 동성 미성년 대상은 아냐”</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/28/DT6UUZ7WD5DZREU2V4QPHV4Z3Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/28/DT6UUZ7WD5DZREU2V4QPHV4Z3Q/</guid>
-      <dc:creator>구아모 기자, 김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 Aug 2024 11:49:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B3RIC5HBPHHTKS62NC4Z4FI2AY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;NCT 태일. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 방배경찰서는 28일 아이돌 그룹 NCT 멤버 태일(30·본명 문태일)을 성범죄 피의자로 형사 입건해 조사 중이라고 밝혔다. 경찰 관계자는 다만 “동성 미성년 대상 성범죄는 아니다”라고 했다.&lt;br&gt;&lt;br&gt;최영기 방배서장은 본지 통화에서 “NCT 태일이 방배서에서 조사받는다는 사실만 보고받았지 피소 시점이나 정확한 혐의 등에 대해서는 아는 바가 없다” 했다. 방배서 이인춘 여성청소년과장은 “(현재 퇴근한 뒤) 집이라 전산에 올라온 정확한 내용은 내일 확인 가능하다”고 했다.&lt;br&gt;&lt;br&gt;소속사 SM엔터테인먼트는 이날 입장문에서 “최근 태일이 성범죄 관련 형사사건에 피소된 사실을 확인했다”며 “이와 관련해 사실관계를 파악하던 중 해당 사안이 매우 엄중함을 인지해 더 이상 팀 활동을 이어갈 수 없다고 판단했고, 태일과 논의해 팀 탈퇴를 결정했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/FBAWA4ESVFEZFNI55APQCUINAM.JPG?width=1588&amp;height=893&amp;auth=3a09f99c5794cd536aa1d4a798ff1c629ab64e917a02c7bec3ddd435045a615a&amp;smart=true" type="image/jpeg" height="893" width="1588">
-        <media:description type="plain">(서울=뉴스1) 권현진 기자 = NCT 태일이 16일 서울 서초구 서울웨이브 아트센터에서 열린 SM 新유닛 NCT 도재정의 스페셜 론칭쇼 포토콜 행사에서 포즈를 취하고 있다. 2023.4.16/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 권현진 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>‘불법 공매도’ 과징금 첫 소송 금융위 1심 패소</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/28/IBOLOSFKPJHUTGBHKTL4OQI3LA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/28/IBOLOSFKPJHUTGBHKTL4OQI3LA/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 Aug 2024 10:46:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BAK6MTGTUGWDD2R4ZKAS6FPL3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중구 금융위원회 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 불법(무차입) 공매도에 내린 금융당국의 과징금 처분을 취소해야 한다고 판결했다. 금융위원회가 2021년 4월 무차입 공매도에 대한 과징금 제도를 시행한 후 법원에서 나온 첫 번째 판결이다. 금융당국은 항소를 검토하고 있다. &lt;br&gt;&lt;br&gt;28일 법조계에 따르면, 서울행정법원 행정4부(재판장 김정중)는 외국계 금융회사 케플러 쉐브레(케플러)가 금융위 산하 증권선물위원회(증선위)를 상대로 낸 과징금 부과 처분 취소소송에서 지난 23일 원고 승소 판결을 내렸다.&lt;br&gt;&lt;br&gt;증선위는 작년 7월 무차입 공매도를 한 혐의로 케플러에 과징금 10억 6300만원을 부과했다. 공매도는 가격이 하락할 것으로 예상되는 종목의 주식을 빌려서 판 뒤 실제로 주가가 내려가면 싼값에 되사 차익을 내는 매매 방식이다. 국내에서는 주식을 빌리지 않고 파는 무차입 공매도를 금지하고 있다.&lt;br&gt;&lt;br&gt;케플러는 2021년 9월 A 펀드가 소유하지 않은 SK하이닉스 주식 4만 1919주를 증권사를 통해 매도 주문했다. 케플러 측은 당초 A 펀드가 아닌 B 펀드를 통해 주식을 매도하려 했는데, 직원의 실수로 오기가 있었다는 입장이다. 증권사에 매도 주문한 주식은 2만 9771주에 불과해 4만여 주 공매도를 상정한 과징금 처분은 잘못이라는 주장도 했다.&lt;br&gt;&lt;br&gt;재판부는 케플러 측의 손을 들어줬다. “케플러 직원이 공매도를 위탁한 것은 펀드 번호를 오기한 과실에 따른 것”이라며 “주가가 하락할 것을 예상하고 (불법적인) 공매도를 위탁하려 했던 것은 아니다”고 판단했다. 케플러가 공매도로 얻은 이익이 특별히 없다는 점도 고려했다.&lt;br&gt;&lt;br&gt;법원은 “A사가 4만 1919주 매도 주문을 냈지만, 이 중 케플러는 2만 9771주만 매도해달라고 했다”면서 과징금 산정 기준액을 “공매도를 위탁한 부분에 한정해야 한다”고 했다.&lt;br&gt;&lt;br&gt;금융당국은 판결문을 검토한 후 항소 여부를 결정할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘일본도 살인’ 유족 측 “가해자 신상정보 공개해야”</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/28/M274IWLAOBARTIISQFZG4QFBEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/28/M274IWLAOBARTIISQFZG4QFBEA/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 Aug 2024 10:08:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DPFF5GOOZJN7JK454TTNFLTWHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 은평구의 한 아파트에서 이웃 주민에게 일본도를 휘둘러 숨지게 한 혐의로 경찰에 긴급 체포된 백모(37)씨가 구속 전 피의자 심문(영장실질심사)을 받기 위해 지난 1일 서울서부지법으로 들어서고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 은평구의 한 아파트 정문에서 일본도(日本刀)를 휘둘러 이웃을 살해한 혐의를 받는 백모(37·무직)씨에 대해 피해자 유족 측이 신상정보 공개와 엄벌을 촉구했다.&lt;br&gt;&lt;br&gt;유족 측 법률대리인 남언호 변호사는 28일 보도자료를 내고 “가해자는 일본도를 소지해 휘두르는 등 범행수단이 매우 잔혹하고 피해자를 사망에 이르게 했으며, CCTV 등 충분한 증거가 있고 국민적 알 권리와 재범방지 등 공익적 목적이 인정된다”며 “검찰과 법원은 가해자의 신상정보 공개를 결정해야 한다”고 이같이 주장했다.&lt;br&gt;&lt;br&gt;남 변호사는 앞서 수사기관이 가해자와 피해자 가족이 같은 아파트에 산다는 점을 들며 백씨의 신상정보를 공개하지 않기로 한 데 대해 “유족들은 가해자의 신상이 공개되는 것과 피해자 가족에 대한 2차 가해의 직접적 관련성에 강한 의문을 가지고 있다”고 반박했다.&lt;br&gt;&lt;br&gt;남 변호사는 또 백씨가 일본도를 취득해 범행을 준비했고 살인의 고의가 명확한 행위를 한 점 등을 언급하며 “범행 당시와 직후에 정상적인 사물 변별 능력과 행위 통제 능력이 있었다고 평가해야 한다”고 했다. 그러면서 “가해자에게 절대 심신장애의 형사 책임 조각이나 감경이 적용되어서는 안 된다”고 강조했다.&lt;br&gt;&lt;br&gt;유족 측은 사건 발생 당시 현장에 출동한 경찰과 구급대원의 초기대응이 미흡했다는 주장도 제기했다. 사건이 오후 11시 22분에 발생해 그로부터 4분 뒤 경찰이 현장에 도착했고 11시 29분에는 구급대원이 왔지만, 목숨이 위태로운 피해자를 곧바로 병원에 이송하지 않았다는 것이다.&lt;br&gt;&lt;br&gt;유족 측은 “사건이 발생하고 17분이 지난 오후 11시 46분에야 피해자 병원 이송이 시작됐다”며 “이송 도중 국립중앙의료원에서 거리가 더 먼 은평성모병원으로 목적지가 바뀌어 오후 11시 56분쯤 응급실에 도착했다”고 했다. 그러면서 “과다 출혈로 호흡이 가빠지며 신음하던 피해자는 경찰과 구급대원이 판단한 ‘현장 대응’이 완료된 뒤 이송됐다”며 “그 사이 피해자의 호흡이 꺼지게 된 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;유족 측은 백씨에 대한 엄벌탄원서를 공개모집하고 국민동의청원도 진행한다고 밝혔다.&lt;br&gt;&lt;br&gt;일본도 살인사건은 지난달 29일 오후 11시 30분쯤 은평구 아파트 정문 앞에서 백씨가 장식용으로 허가받은 날 길이 약 102cm 일본도를 휘둘러 같은 아파트 주민 김모(43)씨를 숨지게 한 사건이다. 검찰은 백씨가 심신미약 상태는 아니었다고 판단했으며, 백씨의 인터넷 검색 내역과 일과를 기록한 일지 등을 분석한 결과 ‘치밀하게 계획된 이상동기 범죄‘라고 보고 지난 23일 그를 구속 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>압수수색 직전 버린 아동 불법촬영물… 대법 “영장 없이 증거 인정”</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/28/7ZITWPJW5FHJ7KOYFVT2WQMNEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/28/7ZITWPJW5FHJ7KOYFVT2WQMNEE/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 Aug 2024 05:58:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K5EQBB5MZFR56GTGGWFJKIGKWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 전경 ./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;압수수색 직전 피의자가 집 밖으로 내다버린 디지털 저장장치를 수사기관이 영장 없이 압수한 뒤 별건 혐의를 발견해 기소하더라도 적법한 증거로 쓸 수 있다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;28일 법조계에 따르면, 대법원 형사1부(주심 김선수 대법관)는 최근 청소년성보호법∙성폭력처벌법 위반 등으로 기소된 A씨에게 징역 1년에 집행유예 2년을 선고한 원심을 파기하고 사건을 서울고법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;A씨는 2017∼2018년 여성 청소년과 성관계를 하며 이를 불법 촬영해 음란물을 제작한 혐의로 기소됐다. 당초 경찰은 A씨가 여성 사진을 촬영∙유포했다는 제보를 받고 영장을 발부받아 주거지 압수수색에 나섰는데, A씨는 압수수색 직전 자신이 만든 음란물이 담긴 SSD(대용량 저장 장치) 카드를 집 밖으로 던졌다. 경찰이 이를 발견했으나 A씨가 자신의 것이 아니라고 주장하자 버려진 물건(유류물)으로 보고 영장 없이 압수했다.&lt;br&gt;&lt;br&gt;재판의 쟁점은 A씨가 버린 SSD 카드를 적법한 증거로 사용할 수 있는지 여부였다. 1심은 증거능력을 인정해 징역 2년 6개월을 선고했다. 반면 2심은 SSD 카드서 나온 불법 촬영물은 증거로 쓸 수 없다며 집행유예로 감형했다. 원래 영장에 기재된 범죄 사실과 무관한 별건 범죄일 뿐더러, 조사 과정에 A씨의 참여권도 보장되지 않았다는 것이다.&lt;br&gt;&lt;br&gt;하지만 대법원은 SSD 카드는 A씨가 버린 물건이라 참여권을 보장하지 않고 압수∙조사해도 적법하다고 판단했다. 대법원은 “정보저장매체를 소지하던 사람이 그에 관한 권리를 포기한 경우 수사기관이 영장 없이 압수할 때 압수 대상이나 범위가 한정된다거나 참여권자의 참여가 필수적이라고 볼 수는 없다”면서 “원심 판단에는 유류물 압수에 관한 법리를 오해한 잘못이 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
