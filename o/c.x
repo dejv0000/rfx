@@ -13,6 +13,87 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>검찰, '홍원식 前회장 200억 횡령 의혹' 남양유업 전 대표 소환</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/30/EAPU2ZLEIFHNFEUM4DUUYGHQGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/30/EAPU2ZLEIFHNFEUM4DUUYGHQGI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Aug 2024 05:03:42 +0000</pubDate>
+      <content:encoded>홍원식 전 남양유업 회장의 200억원 횡령 의혹을 수사 중인 검찰이 남양유업 전 대표들을 30일 소환했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VKJJVR6LUS24BVKLYBNNZMPZJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍원식 전 남양유업 회장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울중앙지검 공정거래조사부(부장 김용식)는 이날 오전 남양유업 이광범·이원구 전 대표를 참고인 신분으로 불러 조사하고 있다. 검찰은 이날 두 전 대표에게 횡령 의혹 전반에 대해 묻는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 남양유업은 지난 2일 공시를 통해 홍 전 회장과 전직 임직원 3명을 특정경제범죄가중처벌법상 횡령과 배임수재 등 혐의로 고소했다고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;남양유업 측은 홍 전 회장 등이 회사 자기자본의 2.97％에 해당하는 약 201억2223만원을 횡령했다는 입장이다. 검찰은 남양유업 관계자를 소환하는 등 기초 사실관계를 검토 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“남주혁한테 연락왔다”...유도 은메달리스트 허미미, 깜짝 고백</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/30/ET2TUVB6L5EXDAXRPSIFZIZDOA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/30/ET2TUVB6L5EXDAXRPSIFZIZDOA/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Aug 2024 04:56:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XFQBPHDCL5N73AYOAQZBBUL4XI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;독립운동가 허석 의사 후손인 유도 국가대표 허미미./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 남주혁(30)의 오랜 팬으로 알려진 여자 유도 국가대표 허미미(21·경북체육회)가 남주혁에게서 장문의 메시지를 받았다고 밝혔다.&lt;br&gt;&lt;br&gt;허미미는 지난 29일 문경실내체육관에서 진행된 일간스포츠와의 인터뷰에서 “남주혁에게 먼저 연락을 받았다”고 말했다.&lt;br&gt;&lt;br&gt;그는 “남주혁 씨에게 카카오톡이 엄청 길게 왔다. (누구에게) 말하기 싫을 정도로 너무 기뻤다. 지금 처음 말한다. 지금 군대에 있으니깐 아마 시합을 못 봤을 텐데, 노력하는 모습이 너무 멋있고, 항상 응원한다고 연락이 왔다”고 했다.&lt;br&gt;&lt;br&gt;남주혁의 오랜 팬인 허미미가 드디어 소원을 성취한 것이다. 허미미는 작년 3월 중앙일보와의 인터뷰에서 “남주혁 주연의 드라마를 시청하는 것이 취미”라고 밝힌 바 있다. 또한 허미미는 여자 57㎏급 결승을 마친 뒤 파리 현지에서 진행한 취재진과의 인터뷰에서 “(남주혁을) 만날 수 있다면 좋을 것 같다”고 했다. 이후에도 방송 등 공개적인 자리에서 “(남주혁을) 한 번만 보고 싶다”며 소원을 전하기도 했다.&lt;br&gt;&lt;br&gt;허미미는 “앞서 인터뷰할 때는 (남주혁에게) 바로 답장한다고 했는데, (떨려서) 못했다. 하루 종일 생각하고 고민하다가 답장했다”면서 “(남주혁에게) 엄청 팬이라고 했고, 정말 멋있고 감사하다고 했다”고 말했다. 다만 허미미는 “꼭 한번 만나보고 싶다”며 못다 이룬 소원을 언급했다.&lt;br&gt;&lt;br&gt;앞서 허미미는 지난달 29일 2024 파리 올림픽 유도 여자 57㎏ 이하급 결승에서 세계 랭킹 1위 크리스타 데구치에게 반칙패를 당하면서 은메달을 따냈다. 당시 허미미는 “위장 공격일 줄은 몰랐는데 그래도 경기의 일부니까 어쩔 수 없다. 다음에는 그런 것을 잘 생각하고 유도를 하고 싶다”며 결과를 받아들였다. 특히 그는 독립운동가 허석 의사의 5대손으로, 일본 국적을 포기하고 대한민국 유도 국가대표로 활약한 사실이 알려지면서 더욱 화제가 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정부 “연내 의료 인력 추계 기구 출범…2026년 정원도 논의”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/08/30/IBZ5BFG4UVGWBEPSUR7NXR4BFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/30/IBZ5BFG4UVGWBEPSUR7NXR4BFM/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Aug 2024 04:32:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XA3Y3KAJR5PXVKMSYVCVLGEMJU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;조규홍 보건복지부 장관이 30일 서울 종로구 정부서울청사에서 열린 제6차 의료개혁특별위원회 회의에서 참석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보건복지부는 30일 ‘의료개혁 1차 실행 방안’ 발표했다. 복지부는 “(미래 의사 수 추계·조정을 위한 논의 기구를 올해 안에 출범시킨다”고 밝혔다.&lt;br&gt;&lt;br&gt;복지부 관계자는 “고령화에 따라 급증할 의료 수요 대응, 필수‧지역 의료 강화를 위해 필요한 적정 의료인력 규모를 분석하고, 중장기 인력 수급 정책을 수립하기 위한 의료 인력 수급 추계·조정 시스템을 구축할 것”이라 “2026학년도 의대 정원 문제도 논의 대상”이라고 했다. 내년도 입시의 의대 증원은 되돌릴 수 없지만, 2026학년도부터는 재논의가 가능하다는 입장을 재차 밝힌 것이다.&lt;br&gt;&lt;br&gt;복지부는 “수급 추계의 기본 틀인 추계 모형, 모형에 포함되는 변수, 활용 통계 등 추계 방식은 새롭게 구성될 논의기구에서 숙의를 통해 결정한다”며 “논의기구는 수급 추계의 과학적 전문성과 사회적 수용성, 두 가지 측면을 고려하여 역할을 분담하도록 구성한다” 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“딥페이크? 호들갑 떤다” 발언한 119만 유튜버, 결국 수익 정지</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/30/MJG5BPINXNGARCLPIIE5ZTUQVI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/30/MJG5BPINXNGARCLPIIE5ZTUQVI/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Aug 2024 03:34:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DSHHBNH7JWAMOAPNH6RRKRLAYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뻑가&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 사회적 문제로 떠오른 딥페이크 사태를 우려하는 여성들을 향해 “호들갑을 떤다”라고 발언한 유튜버가 결국 가이드라인 위반으로 수익 활동이 정지됐다. 이 유튜버는 평소 검은색 고글과 마스크, 모자 등으로 얼굴을 완전히 가린 채 사회적 이슈나 유명인의 사생활 등과 관련해 자극적인 콘텐츠를 올려 왔다.&lt;br&gt;&lt;br&gt;119만 구독자를 보유한 유튜버 뻑가는 지난 26일 올린 영상에서 최근 여성들이 자신의 얼굴이 딥페이크 영상에 이용될 것을 우려해 ‘소셜미디어상 사진을 다 내리라’는 취지의 게시물을 공유하는 상황을 두고 “막 이렇게 호들갑 떠는 글이 퍼지고 있다”며 “이 짤 올리고 퍼트리는 사람들 보면 이런 정보에 밀접하게 반응하고 참여하고 있다고 보면 된다. 지금부터 거르시길 바란다”고 했다.&lt;br&gt;&lt;br&gt;뻑가는 경찰이 내수에 착수한 22만명 규모의 딥페이크 제작 텔레그램 채널에 대해선 “저게 전 세계 사람들 다 모여 있는 단체방”이라며 “한국인의 텔레그램 이용자 수는 전 세계에서 0.33%다. 22만명의 0.33%는 726명 밖에 안 된다”고 주장했다.&lt;br&gt;&lt;br&gt;뻑가는 딥페이크 사태가 남성들에 대한 비난 여론을 위해 여초 커뮤니티에 의해 의도적으로 ‘기획’됐다는 논리를 폈다. 뻑가는 “이런 이슈에 이미 군사작전처럼 시스템이 딱 잡혀있다”며 “어떻게 선동해야 하는지, 숫자는 어떻게 과장해야 하는지 안다. 그래픽 디자인도 깔끔하게 만들어서 잘 퍼질 수 있게 하고, 여성 기자들, 여성 정치인들도 나와서 같은 소리로 선동한다. 외국 언론에도 발 빠르게 제보하고, 좌표도 찍어서 댓글 작업 하는 등 체계가 굉장히 잘 잡혀 있다”고 했다. 이어 “이때다 싶어서 22만명이니 국가비상대책이니 X병을 떨면서 선동하는 여초 (커뮤니티) 애들을 보니까 X같다”고 했다.&lt;br&gt;&lt;br&gt;이 영상에 대해 네티즌들은 “가해자를 비난하는 대신 피해자를 비난하는 것이냐? 또 다른 수준의 망상” “이 사람이 하는 말은 인셀(incel·이성 교제나 결혼 기회를 갖지 못한 젊은 남성)들과 정확히 일치한다)” 등의 반응을 보였다. 해외 네티즌들까지 영어 등 각국 언어로 비슷한 내용의 비판 댓글을 남겼다.&lt;br&gt;&lt;br&gt;논란이 불거지자, 유튜브 측은 가이드라인 위반으로 뻑가 채널 영상의 수익 창출을 정지시킨 것으로 파악됐다. 실제로 유튜브 채널 수익화 여부를 확인하는 웹사이트 ‘이즈디스채널마너타이즈드’(isthischannelmonetized)에 따르면, 뻑가의 채널은 유튜브 파트너 프로그램에서 제외됐다. 이외에도 이 채널의 후원 기능과 멤버십 가입 버튼, 회원 전용 동영상 시청 메뉴 등이 모두 사라진 상태다. 딥페이크 사태를 거론한 문제의 영상은 아예 삭제됐다.&lt;br&gt;&lt;br&gt;유튜브 관계자는 뉴시스에 “유튜브 커뮤니티 가이드는 괴롭힘 및 사이버 폭력에 대한 명확한 정책을 포함하고 있으며, 이를 바탕으로 사회적 또는 정치적 맥락에 따라 특정 개인을 신체적 상해의 위험에 노출시키는 콘텐츠를 금지한다”며 “이러한 정책을 바탕으로 신중한 검토를 거쳐 뻑가 채널의 영상을 삭제했다”고 했다. 이어 “크리에이터의 책임에 관한 가이드라인에 따라 뻑가 채널의 프로그램 참여를 정지시켰다”며 “이에 해당 채널은 유튜브에서 수익을 창출할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>駐뉴질랜드 대사관서 동성직원 성추행 전직 외교관 유죄</title>
+      <link>https://www.chosun.com/national/incident/2024/08/30/PGQE2H6GHJF45H7DPXRGIVNAUQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/30/PGQE2H6GHJF45H7DPXRGIVNAUQ/</guid>
+      <dc:creator>인천=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Aug 2024 04:05:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OT2D7AV5P4VWHYEM5Z5C5IMQSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외교관으로 근무할 당시 동성 외국인 직원을 성추행한 혐의로 기소된 전직 외교부 공무원에게 징역형 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;인천지법 부천지원 형사1부(재판장 김정아)는 30일 강제추행치상 혐의로 기소된 A(58)씨의 죄명을 강제추행으로 변경해 징역 2년에 집행유예 3년을 선고했다.&lt;br&gt;&lt;br&gt;또 A씨에게 성폭력 치료 강의 40시간과 사회봉사 160시간 수강을 명령하고, 아동·청소년이나 장애인 관련 기관에 5년 동안 취업하지 못하도록 제한했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 (당시 외교관) 신분에 적합한 행위를 할 직무상 의무가 있는데도 업무 보조를 하는 직원을 상대로 3차례 범행했다”며 “죄질이 나쁘고 비난받을 가능성도 크다”고 판단했다. 또 “피해자는 정신적 고통을 호소하면서 엄벌을 탄원했다”며 “초범이지만 이 사건으로 대한민국 국익에도 부정적인 영향이 미친 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;다만 재판부는 A씨가 피해자의 신체 주요 부위를 만진 혐의는 무죄로 판단했다. 강제추행과 피해자의 외상 후 스트레스 장애(PTSD)의 인과관계도 인정하지 않았다.&lt;br&gt;&lt;br&gt;A씨는 뉴질랜드 웰링턴에서 외교관으로 근무하던 지난 2017년 11~12월 3번에 걸쳐 현지 남성 행정직원 B씨를 강제추행해 외상 후 스트레스장애를 입게 한 혐의를 받았다. B씨는 2019년 7월 뉴질랜드 경찰에 A씨를 고소했지만 현지에서는 수사가 제대로 진행되지 않았고, 2022년 말 한국에 입국한 뒤 A씨를 다시 고소했다.&lt;br&gt;&lt;br&gt;검찰은 경찰로부터 강제추행 사건으로 송치 받은 이 사건에 대해 보완수사를 거쳐 A씨의 혐의를 강제추행에서 강제추행상해로 바꿔 재판에 넘겼다.&lt;br&gt;&lt;br&gt;한편 A씨는 올해 상반기 외교부에서 퇴직한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“인사가 늦었습니다”…교장에 현금다발 든 음료 상자 건넨 교사</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/30/YI5OATGFVNARTIIZJTGVTAJA4Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/30/YI5OATGFVNARTIIZJTGVTAJA4Q/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>자신이 근무하는 학교의 교장·교감에게 현금 100만원을 넣은 음료 상자를 건네려 한 40대 교사가 법원으로부터 벌금형을 선고받았다.춘천지법 영월지원 형사1단독 강명중 판사는 부정 청탁 및 금품 등 수수의 금지에 관한 법률 위반 혐의로 기소된 A(42)씨에게 벌금 300만원을 선고했다고 30일 밝혔다.</description>
+      <pubDate>Fri, 30 Aug 2024 04:26:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2NXDPNN5BNM2Y4MQCTVXGHGWMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 영월지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 근무하는 학교의 교장·교감에게 따로 현금 100만원을 건네려 한 40대 교사가 법원으로부터 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 영월지원 형사1단독 강명중 판사는 부정 청탁 및 금품 등 수수의 금지에 관한 법률 위반 혐의로 기소된 A(42)씨에게 벌금 300만원을 선고했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;A 씨는 지난해 3월 중순 강원도 내 한 고교 교장인 B씨를 찾아가 “다른 학교에서 전입을 와 수업도 잘 못하고 정신이 없습니다. 열심히 하겠습니다”라는 말과 함께 현금 100만원이 든 음료 1상자를 전달하려 한 혐의다.&lt;br&gt;&lt;br&gt;A 씨는 또 같은 해 3월 하순과 4월 초순에도 이 학교 교감 C씨를 찾아가 같은 취지의 말을 하면서 현금 100만원이 든 음료 상자를 건네려 하기도 했다. 이 학교 교장과 교감은 A 씨가 건넨 음료 상자에서 현금을 발견하고 곧바로 돌려준 것으로 알려졌다.&lt;br&gt;&lt;br&gt;강 판사는 “피고인이 제공하려 한 액수, 횟수에 비춰 그 죄질이 좋지 않다”면서 “범행을 자백했고, 교장·교감이 금품을 받지 않아 제공에 이르지 않은 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>올여름 코로나 유행, 정점 지났다… 입원 환자 20.1% 감소</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/08/30/CM2IGVCKTNHPJDOJLHTHTZR4AQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/30/CM2IGVCKTNHPJDOJLHTHTZR4AQ/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Aug 2024 04:21:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YGTHCVQKENI73CM367OKTZ5UA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지영미 질병관리청장이 28일 서울 서대문구 질병관리청 수도권질병대응센터에서 열린 코로나 유행 동향 및 대응 방안 관계부처 회의에 참석해 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;질병관리청은 올해 여름철 코로나 유행이 정점을 지나 감소세로 돌아섰다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;이날 질병청에 따르면 코로나 입원 환자 수는 지난달부터 대규모로 증가했지만, 이달 18일부터 24일에는 1170명으로 직전 주 대비 20.1% 감소했다.&lt;br&gt;&lt;br&gt;중증 급성 호흡기 감염증 표본 감시에서도 코로나 입원 환자 수는 이달 4일부터 10일에 83명으로 정점을 찍은 뒤 2주 연속 감소했다. 지난주에는 46명 신고되는 데 그쳤다.&lt;br&gt;&lt;br&gt;응급실 내원 코로나 환자 수도 7월부터 증가하다가 이달 11일부터 둔화하기 시작해 지난주에는 8025명으로 직전 주(1만3250명) 대비 크게 줄었다.&lt;br&gt;&lt;br&gt;지영미 질병청장은 “코로나 입원 환자 수 등 모든 지표가 감소하는 모습을 보이고 있어 올해 여름 코로나 유행이 정점을 지나고 있다고 판단된다”며 “당초 예상한 주간 최대 35만명보다 훨씬 적은 20만명 이내 발생이 예측된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>흉기로 70대 祖父 살해한 20대 손자, 구속 기소</title>
+      <link>https://www.chosun.com/national/incident/2024/08/30/TXXX6QMTQBDLBIOM4KDHKRSSVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/30/TXXX6QMTQBDLBIOM4KDHKRSSVU/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Aug 2024 03:14:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYFQHKTPLAXCBA4FWXVVRBSVZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지검. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;70대 조부를 흉기로 찔러 살해한 20대 남성이 구속 기소됐다.&lt;br&gt;&lt;br&gt;서울동부지검 형사3부(부장 김지용)는 지난 29일 조부를 흉기로 찔러 살해한 혐의(존속살해)를 받는 20대 남성 A씨를 구속기소했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 6일 오전 0시 40분쯤 술을 마시고 성동구 금호동의 다세대주택에 사는 조부 B씨를 찾아가 칼로 수회 찔렀다. B씨는 병원으로 이송됐지만 끝내 숨졌다. ‘집에서 시끄러운 소리가 난다’는 신고를 받고 출동한 경찰은 A씨를 현행범 체포했다.&lt;br&gt;&lt;br&gt;범행 다음 날인 7일 법원은 “도망할 염려가 있다”며 A씨를 상대로 구속 영장을 발부했고 A씨는 14일 구속 송치됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “조모가 맞았다는 이야기를 듣고 화가 나 범행을 저질렀다”고 진술했다. 경찰 조사 당시 A씨는 B씨에 대한 살해 사실은 인정하면서도 피해자 집에 방문한 과정과 구체적 방법 등에 대해서는 기억이 없다고 진술했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 “어릴 때부터 조모와 함께 B씨의 폭행을 당했다”고 했다. 경찰에 따르면 A씨의 조모는 지난해 12월부터 아홉 차례 B씨에 대해 가정폭력 신고를 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘민노총 탈퇴 강요’ SPC 황재복, 5개월 만에 보석 석방</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/30/4G4MS2G62JG63BICRPQRPILMO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/30/4G4MS2G62JG63BICRPQRPILMO4/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Aug 2024 03:17:38 +0000</pubDate>
+      <content:encoded>파리바게뜨 제빵기사들에게 민노총 탈퇴를 강요한 혐의로 기소된 황재복 SPC 대표가 구속 5개월 만에 풀려난다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WCQZVLBUZHU4D644CZTKRFZJTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;황재복 SPC 대표이사 /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사32부(재판장 조승우)는 30일 노동조합및노동관계조정법 위반 혐의로 기소된 황 대표의 보석(保釋) 신청을 인용했다. 보석은 구속된 피고인에게 보증금을 받거나 보증인을 세워놓고 거주지와 사건 관련인 접촉 제한 등 일정한 조건을 걸어 풀어주는 제도다.&lt;br&gt;&lt;br&gt;재판부는 황 대표의 보석을 허가하는 대신 주거제한, 보석보증금 1억원(5000만원은 보증보험), 지정조건 준수를 조건으로 걸었다. &lt;br&gt;&lt;br&gt;이에 따라 황 대표는 공판 출석 의무, 증거인멸 금지 및 이 사건 관계자들과 접촉 및 논의 등 금지, 출국 또는 3일 이상 여행하는 경우 법원에 미리 신고 후 허가받아야 한다는 지정 조건도 지켜야 한다.&lt;br&gt;&lt;br&gt;앞서 황 대표는 지난 7월 “건강 상태가 위중하고 재판 중 도주할 우려도 없다”며 재판부에 보석을 신청했다.&lt;br&gt;&lt;br&gt;황 대표는 2019년 7월∼2022년 8월 SPC 그룹 계열사인 PB파트너즈에서 민노총 화섬식품노조 파리바게뜨지회 조합원들에게 탈퇴를 종용하고 승진 인사에 불이익을 준 혐의 등으로 지난 3월 구속 기소됐다. &lt;br&gt;&lt;br&gt;같은 혐의로 구속 기소된 허 회장도 같은 재판부에 보석을 신청했지만 재판부는 “증거를 인멸할 염려가 있다”며 지난달 24일 기각했다. 허 회장은 구속 상태로 재판을 받고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 천안 보호관찰소에서 화재...”전자발찌 찬 남성이 분신 시도”</title>
       <link>https://www.chosun.com/national/regional/2024/08/30/373AXZKQNBH6JMPVC75ZHNV25Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/30/373AXZKQNBH6JMPVC75ZHNV25Y/</guid>
@@ -791,33 +872,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LACQGLIB4ZE27DMKH32QZDVXHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 자영업자가 손님들이 동의도 없이 매장 안에 돗자리 펴고, 그곳에서 아이들을 놀게했다고 토로하며 사진을 첨부했다. /아프니까 사장이다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 자영업자가 손님들이 양해도 구하지 않은 채 매장 안에 돗자리를 펴고, 그곳에서 아이들을 놀게 했다는 사연을 전했다.&lt;br&gt;&lt;br&gt;식당을 운영하는 A씨는 28일 자영업자 ‘아프니까 사장이다’를 통해 “세상엔 다양한 사람이 있다”며 이 같은 사연을 털어놨다.&lt;br&gt;&lt;br&gt;A씨는 “아이 셋, 어머님 셋이 점심 마지막 타임에 오셔서 식사 하시다, 매장 내 사람이 아무도 없으니 돗자리 깔고 아기들 놀게 놔두셨다”며 “양해도 구하지 않았다”고 했다. 그러면서 “계산할 때 ‘소란스러워 죄송하다’ 이런 말도 일언반구 없이 계산만 하셨다. 이런 손님도 손님으로 봐야 하나”라고 했다.&lt;br&gt;&lt;br&gt;이런 A씨 글엔 “세상이 참 특이한 사람들이 많다” “저런 생각을 한다는 것 자체가 이해가 안 된다” “이거 지적하면 또 ‘동네 장사하면서 너무 박하네’ 이럴 것 같다” 등의 댓글이 달렸다. 한 네티즌은 “다음부터는 손님이 계산하고 나갈 때 한마디 하시라”고 조언을 건네기도 했다. 이에 A씨는 “제가 아직 어리다. 새파랗게 어린 사람이 말하면 과연 들을까 싶었다”며 “양해의 말도 없는 사람에게 지적할 가치도 없어 보여 아무말 하지 않았다”고 대댓글을 남겼다.&lt;br&gt;&lt;br&gt;특히 댓글 중에는 ‘이래서 노키즈존이 생기는 것’이라는 취지의 반응이 많았다. “손님이 없어도 당연히 양해를 구해야 하는데... 이러니 자영업자들이 노키즈존을 하지” “본인 영업장도 아니고 남의 가게에서 저게 뭐 하는 짓이냐, 이러니 노키즈존이 자꾸만 늘어나는 거다” 등이다.&lt;br&gt;&lt;br&gt;부모가 업장에서 무례한 행동을 했을 때 노키즈존은 자주 언급되는 주제 중 하나다. 지난 3월에는 제주도의 유명 식당이 아이들을 동반한 손님들의 지나친 요구로 노키즈존을 선언한 사연이 전해졌다. 당시 식당 측은 공지사항을 통해 노키즈존으로 운영하게 된 구체적인 이유 6가지를 밝히면서도, “손녀를 두고 있고 아이를 너무나도 좋아하는 입장으로 향후 노키즈존을 언제 끝낼 수 있을지 항상 고민 중”이라고 했다.&lt;br&gt;&lt;br&gt;한국리서치가 2021년 전국 성인 남녀 1000명을 대상으로 실시한 여론조사에서 노키즈존 찬성 비율은 71%로, 반대에 비해 압도적으로 높았다.&lt;br&gt;&lt;br&gt;이유는 다양했다. 보건복지부가 작년 12월 자영업자 205명을 대상으로 진행한 조사 결과 노키즈존 운영 사유로 ‘아동 안전사고 발생 시 사업주가 전적으로 책임져야 해서’가 68.0%로 가장 많았고, ‘소란스러운 아동으로 인해 다른 손님과 마찰이 생길까 봐’(35.9%), ‘처음부터 조용한 가게 분위기를 원해서’(35.2%), ‘자녀를 잘 돌보지 못하는 부모와 갈등이 생길까 봐’(28.1%) 등이 뒤를 이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>또 해외주식으로 벌었다… 국민연금, 상반기 운용 수익률 9.71%</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/08/29/CGTR7UPZI5HMLANENXQV7TTQV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/29/CGTR7UPZI5HMLANENXQV7TTQV4/</guid>
-      <dc:creator>안준용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Aug 2024 05:52:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PQAZKRZGWBK3NN7QMGJV3FEBQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북 전주시에 위치한 국민연금 기금운용본부 건물. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 상반기 국민연금 기금 운용 수익률이 9.71%를 기록했다. 작년 상반기(9.09%)보다도 높은 수치다. 해외 주식 수익률이 20%를 넘어서면서 전체 수익률이 올랐다.&lt;br&gt;&lt;br&gt;국민연금공단 기금운용본부는 29일 “올 1~6월 기금 운용 수익률 9.71%, 운용 수익금 102조4000억원을 기록했다”고 밝혔다. 이에 따라 누적 수익금은 680조4000억원이 됐고, 올 6월까지 총 1147조원의 기금이 적립됐다.&lt;br&gt;&lt;br&gt;올 상반기 자산별 수익률은 해외 주식 20.47%, 국내주식 8.61%, 해외채권 7.95%, 대체투자 7.79%, 국내채권 1.66%로 집계됐다. 특히 인공지능(AI) 등 미국 대형 기술주 강세와 원·달러 환율 상승(원화 약세)으로 해외 주식에서 수익률이 가장 높았다.&lt;br&gt;&lt;br&gt;국내·해외 채권의 경우, 미국의 기준금리 인하 지연 우려로 금리가 오른 점이 부담으로 작용했다. 하지만 해외 채권의 경우엔 환율 덕분에 수익률이 8% 가까이 나왔다. 부동산 투자, 사모 벤처 투자, 인프라 투자 같은 대체투자 수익률은 대부분 이자와 배당 수익, 원·달러 환율 상승으로 인한 외화 환산 이익을 반영한 것이다.&lt;br&gt;&lt;br&gt;작년 한 해 국민연금 기금 운용 수익률은 13.59%였다. 국민연금 제도가 도입된 1988년부터 지난해까지 연평균 수익률은 5.92%다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“내년 재혼한다”…서동주 깜짝 발표</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/29/OKDZM3SCXZCJDMPGVBISNLNOOI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/29/OKDZM3SCXZCJDMPGVBISNLNOOI/</guid>
-      <dc:creator>김가연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Aug 2024 05:13:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JCX5CHHLCND5G3LCLIJEQHTIMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서동주가 자신의 인스타그램을 통해 공개한 사진. 서동주가 남자친구의 품에 안겨 활짝 웃고 있다. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;변호사 겸 방송인 서동주(41)가 내년 비연예인 연인과 재혼한다.&lt;br&gt;&lt;br&gt;서동주 소속사 오네스타컴퍼니 측은 29일 “서동주가 내년 비연예인 남성과 결혼을 준비 중”이라고 밝혔다. 결혼식은 내년 중순 쯤 계획하고 있으며, 정확한 날짜는 아직 정하지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;서동주는 최근 TV조선 예능프로그램 ‘이제 혼자다’에 출연해서 현재 만나고 있는 남자친구가 있다고 밝혀 화제를 모은 바 있다.&lt;br&gt;&lt;br&gt;그의 재혼 소식이 전해지자 많은 네티즌들은 그의 인스타그램을 찾아가 댓글을 남기며 축하를 보냈다.&lt;br&gt;&lt;br&gt;서동주는 남자친구와 함께 찍은 사진을 올리고 “아침부터 많은 연락을 받아 정신이 없다. 좋은 소식이니 축복해달라”는 글을 적었다. 사진에서 서동주는 남자친구의 품에 안겨 행복한 웃음을 짓고 있다. 남자친구의 얼굴은 공개되지 않았다.&lt;br&gt;&lt;br&gt;그는 “(결혼은) 내년 중순쯤 하게 될 것 같은데 함께하는 사람이 비연예인인만큼 조심스러운 부분이 있어 상세히 말씀 못드리는 부분 양해 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “‘뮹뮹아’(남자친구 애칭) 나랑 결혼해줘서 고마워”라고 덧붙였다.&lt;br&gt;&lt;br&gt;한편 서동주는 코미디언 고(故) 서세원과 방송인 서정희의 딸이다. 그는 2010년 미국에서 6세 연상의 하버드대 출신 재미교포 사업가와 결혼했다가 2014년 이혼했다. 이후 샌프란시스코 대학교 로스쿨을 졸업했고, 2019년 미국 변호사 시험에 합격했다. 미국 로펌에서 근무한 후 2021년부터는 한국에서 방송 출연을 중심으로 활발한 활동을 펼치고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>금융노조, 내달 25일 총파업 가결... ‘주 36시간 4.5일제’ 요구</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/29/YSEHM4E24REAJF4UJ22MADGEYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/29/YSEHM4E24REAJF4UJ22MADGEYI/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Aug 2024 06:09:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C3KM6OLVFWTFHPQ75Z3WTYDN4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국금융산업노동조합 관계자들이 29일 서울 중구 전국금융산업노동조합 투쟁상황실에서 '금융노조 9.25 총파업 투쟁계획 발표 기자간담회'를 열고 기념촬영을 하고 있다. /금융노조&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국금융산업노동조합(이하 금융노조)이 내달 25일 파업에 들어가기로 했다.&lt;br&gt;&lt;br&gt;금융노조는 지난 28일 진행된 쟁의행위 찬반 투표에서 총 재적인원 8만9335명 가운데 6만2685명이 참여해 총파업을 가결했다고 29일 밝혔다. 찬성률 95.06%다.&lt;br&gt;&lt;br&gt;김형선 금융노조 위원장은 쟁의행위찬반투표 결과를 설명하며 “예년보다 늦어진 교섭 일정에도 불구하고 조합원들의 높은 찬성률은 사용자 측의 오만에 대한 분노”라며 “조합원들이 보내주신 노동시간 단축에 대한 의지와 열정을 마음속에 새겨, 9.25 총파업을 반드시 성공적으로 완수하겠다”고 했다.&lt;br&gt;&lt;br&gt;금융노조는 ‘2024년 산별중앙교섭 핵심 요구안’으로 ▲주 36시간 4.5일제 실시 등 노동시간 단축 ▲비정상적 근무시간 정상화(영업 개시 시간 오전 9시→오전 9시30분) ▲금융의 사회적 책임·역할 강화 ▲본점 이전 계획 통지의무 등을 제시했다.&lt;br&gt;&lt;br&gt;한편 공시된 경영 현황 보고서에 따르면 5대 은행(KB국민·신한·하나·우리·NH농협)의 작년 직원 근로소득은 평균 1억1265만원으로, 2022년(1억922만원)보다 3.14% 증가했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘이재명 수사’ 검사 탄핵안, 헌재 전원일치로 기각</title>
       <link>https://www.chosun.com/national/court_law/2024/08/29/GK7GWOMKNFCLHMKPYLCAURGGGU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/29/GK7GWOMKNFCLHMKPYLCAURGGGU/</guid>
@@ -825,15 +879,6 @@
       <description/>
       <pubDate>Thu, 29 Aug 2024 05:14:05 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NJAY7NIT7VP6PIE7G42RRTRPQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종석 헌법재판소장을 비롯한 헌법재판관들이 29일 오후 헌법소원·위헌법률 심판이 열린 서울 종로구 헌법재판소 심판정에 입장해 착석하고 있다. 이날 헌재는 비위 의혹 등으로 탄핵소추된 이정섭 대전고검 검사에 대한 탄핵안을 기각했다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 29일 비위 의혹 등으로 탄핵소추된 이정섭(사법연수원 32기) 대전고검 검사에 대한 탄핵안을 기각했다. 탄핵소추로 직무가 정지됐던 이 검사는 즉시 직무에 복귀한다.&lt;br&gt;&lt;br&gt;헌법재판소는 ‘대기업 고위 임원 접대’, ‘처남 마약 수사 무마’ 등 의혹으로 탄핵소추된 이 검사에 대해 재판관 전원 일치 의견으로 기각 결정을 내렸다. 다만 헌재 재판관 2명은 이 검사 탄핵을 기각하면서도 “위법 행위가 있었지만 파면을 정당화하는 사유는 아니다”라는 별개 의견을 냈다.&lt;br&gt;&lt;br&gt;이 검사는 지난해 9월 수원지검 2차장검사로 부임해 특별수사팀장을 맡아 이재명 민주당 대표 관련 수사를 총괄하다가 그해 12월 탄핵소추 당했다. 당시 그는 ‘쌍방울 불법 대북 송금’ 사건, 쌍방울의 이 대표 ‘쪼개기 후원’ 의혹, 이 대표 부부의 법인카드 유용 의혹, 쌍방울의 횡령·배임 등 수사를 담당했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NXBFZ43RVNR7W6PDHURK7Z4HVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이정섭 대전고검 검사가 서울 종로구 헌법재판소에서 열리는 자신에 대한 탄핵 사건 2차 변론기일에 출석하며 취재진의 질문에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주당은 이 검사에 대한 탄핵소추안을 발의하며 지난 2020년 12월 엘리시안강촌 리조트에서 한 대기업 고위 임원에게 접대를 받고, 처남의 마약 사건에 영향력을 행사해 수사를 무마했다는 의혹을 제기했다. 또 처남댁 가사도우미의 전과(범죄경력)를 무단 열람하고, ‘김학의 뇌물’ 재판의 증인을 사전 접촉했다는 주장도 했다. 민주당은 작년 12월 1일 국회에서 이 검사에 대한 탄핵안을 단독으로 의결했다.&lt;br&gt;&lt;br&gt;한편, 이 검사의 비위 의혹에 대한 수사는 검찰과 고위공직자범죄수사처(공수처)에서 각각 진행 중이다. 민주당은 이 검사를 청탁금지법 위반 등 혐의로 작년 11월 검찰과 공수처에 고발했고, 서울중앙지검 형사1부(부장 김승호)는 그달 엘리시안강촌 리조트‧용인CC 등을 압수 수색했다. 작년 12월엔 비위 의혹 제보자로 알려진 처남댁 강미정(조국혁신당 대변인)씨를 불러 조사했고, 지난 4월 처남의 휴대폰을 포렌식한 업체도 압수 수색한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울시의회 국민의힘 “진보 진영, 교육감 재보선과 업무 공백 책임져야”</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/29/Y7MAK2VVLRFFRFISTKIABUR2BM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/29/Y7MAK2VVLRFFRFISTKIABUR2BM/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Aug 2024 05:55:36 +0000</pubDate>
-      <content:encoded>29일 대법원 판결로 조희연 서울시교육감이 교육감직을 잃은 것에 대해 서울시의회 국민의힘 의원들이 “교육감 재보선 비용 낭비와 업무 공백에 대해 진보 진영이 책임져야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ULJXER4Q2ZJJXCGG6OLP55SPKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희연 서울시교육감이 29일 서울시교육청에서 대법원 선고에 대한 입장발표를 하기 앞서 생각에 잠겨 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시의회 국민의힘 의원들은 이날 발표한 성명서에서 “불의를 바로잡은 대법원의 판결을 존중한다”며 “기소 상태로 교육감 후보에 나선 조희연과 진보 진영 때문에 서울 시민은 100억에 육박한 지난 교육감 선거 비용에 더해 재보궐선거 비용까지 떠안게 됐다”고 했다.&lt;br&gt;&lt;br&gt;이어 “교육감 업무 공백으로 아이들에게 그 피해가 고스란히 가게 됐다”며 “진보 진영이 시민 혈세를 선거 비용으로 낭비하고, 서울교육 혼란을 일으킨 책임을 져야 한다”고 했다.&lt;br&gt;&lt;br&gt;서울시의회 국민의힘 의원들은 성명서에서 서울 시민을 향한 3가지 약속도 발표했다. 성명서에서 의원들은 “교육감 부재로 인한 업무 공백이 없도록 최선을 다하겠다”며 “조희연이 자행한 불법적인 채용비리가 더 있는지 파헤치고, 조희연표 교육 정책들을 원점 재검토하겠다”고 했다.&lt;br&gt;&lt;br&gt;같은 날 서울시의회 국민의힘 채수지 대변인도 논평을 내고 “오늘 재판부의 결정은 불의를 바로잡은 당연한 결과”라고 했다.&lt;br&gt;&lt;br&gt;채 대변인은 “조희연은 사법부의 준엄한 심판과 서울 시민 앞에 진정으로 반성하고 뉘우치는 자세를 보이기 바란다”며 “진보 진영은 서울시교육감 재보궐선거에 교육감 후보를 내지 않는 것으로 서울 시민에게 사죄하라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘독도 홍보물 철거 논란’ 성남시에 불똥...민주당 의원들 현장실사까지</title>
@@ -845,15 +890,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AFNAKZPNHJPQPLVVJEDX5INOCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병주 위원장 등 더불어민주당 '독도 지우기 진상조사 특별위원회' 위원들이 29일 오전 성남시청을 방문해 현지 실사를 벌이고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 서울지하철 역사와 전쟁기념관에서 불거진 ‘독도 홍보물’ 철거 논란의 불똥이 경기 성남시로 튀었다.&lt;br&gt;&lt;br&gt;더불어민주당 ‘독도 지우기 진상조사 특별위원회’는 29일 오전 성남시청을 방문해 현장실사에 나섰다. 성남시가 실시간 독도 영상 송출 시스템의 운영을 중단했다는 이유였다.&lt;br&gt;&lt;br&gt;김병주 특위 위원장은 “KBS의 독도 실시간 영상을 송출하는 시설이 전국 곳곳에서 하나 둘 사라지고 있다는 제보가 잇따르고 있는데, 성남시는 윤석열 정권이 들어선 이후인 2023년 1월부터 독도 영상을 내보내지 않고 있다”며 “성남시는 독도 영상 송출을 즉각 재개하고, 윤석열 정부는 독도 지우기 행태를 즉각 중단하라”고 촉구했다.&lt;br&gt;&lt;br&gt;이날 민주당 진상조사 특위의 성남시청 방문에는 성남이 지역구인 김태년·이수진 의원과 이광재·김병욱 전 의원, 김현정·김용만·이기헌·정준호 의원과 민주당 소속 성남시의원 등도 동참했다.&lt;br&gt;&lt;br&gt;성남시에 따르면 이재명 시장 재임 당시인 2011년 6월 울릉군과 자매결연을 맺은 것을 계기로 KBS가 독도 동도에 설치한 파노라마 카메라로 촬영한 독도 실시간 영상을 전송받아 송출하는 시스템을 2012년 10월부터 운영해왔다.&lt;br&gt;&lt;br&gt;이 시스템은 시청 1층 로비와 3개 구청, 48개 동 주민센터 등 52곳에 설치됐다. 성남시는 그동안 영상 수신료와 인터넷 전용회선 사용료로 연간 2600만원씩, 10년간 2억6000여만원의 예산을 지출했다.&lt;br&gt;&lt;br&gt;성남시 관계자는 “독도의 실시간 모습과 시정 홍보 영상을 병행해 송출해왔는데 독도 영상이 단조로워 시민들의 관심이 줄어들고 시스템도 노후돼 독도 영상 송출을 2022년 12월 말 이후 중단하고, 시정 홍보물 송출 분량을 늘렸다”며 “최근 논란이 되고 있는 독도 홍보물 지우기와는 아무 관련이 없다” 말했다.&lt;br&gt;&lt;br&gt;신 시장은 이와 관련해 이날 오후 2시 시청에서 기자회견을 열어 입장을 밝힐 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>﻿“미안, 장난이었어” 딥페이크 성범죄물 만든 중학생, 수사 중 해외이민</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/29/3GUYEWRZV5GZFOHGPUNQABYTNA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/29/3GUYEWRZV5GZFOHGPUNQABYTNA/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Aug 2024 05:04:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HDJB2OM6ZDB2VKCMFH6U7WAYZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;평화나비네트워크 구성원들이 29일 서울 세종대로 세종문화회관 앞에서 기자회견을 열고 딥페이크 성범죄 가해자 엄중 처벌, 반복되는 성착취 문제 해결을 위한 국가의 대책 마련 등을 촉구하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또래 여학생들의 사진을 이용해 딥페이크 성범죄물을 제작한 중학생이 검찰에 넘겨졌다. 피해자 측은 가해 학생이 수사받던 도중 부모와 함께 이민을 떠난 사실을 뒤늦게 알았다며 불만을 토로했다.&lt;br&gt;&lt;br&gt;경기 용인서부경찰서는 지난 20일 아동‧청소년의 성보호에 관한 법률 위반(성 착취물 제작) 혐의로 중학생 A군을 불구속 송치했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;A군은 평소 알고 지내던 B양 등 여학생 4명의 얼굴 사진을 합성하는 방식으로 딥페이크 성범죄물을 제작해 소지한 혐의를 받는다. 피해자 두 명은 A군과 같은 학교에 다니고 있으며 다른 두 명은 타학교 학생으로, 모두 미성년자다.&lt;br&gt;&lt;br&gt;B양 측은 A군의 휴대전화에서 문제의 이미지를 발견한 지인을 통해 피해 사실을 인지한 후 지난달 1일 A군을 경찰에 고소했다. B양은 평소 A군과 친하게 지내온 사이였기에 더욱 충격을 받았다고 한다. B양의 추궁에 A군은 “미안하다, 장난이었다”며 범행을 시인했다.&lt;br&gt;&lt;br&gt;B양을 비롯한 피해자 측은 A군이 곧 이민을 떠날 예정이었기에 경찰에 신속한 수사와 출국금지 신청을 요청했다. 경찰은 한 달간 A군을 출국금지 조처하고 관련 조사를 마쳤다. 검찰 송치 직전 출국금지 기간이 만료되면서 A군은 현재 해외에 출국한 상태다.&lt;br&gt;&lt;br&gt;B양의 아버지는 뉴스1에 “수차례 요청 끝에 출국 정지를 했다고 통보받았지만, 기간은 한 달뿐이었고 가해자는 출국한 사실을 알게 됐다”며 “가해 학생이 부모를 따라 외국에 있는 학교에 갈 수는 있지만 그건 그쪽 입장이고, (우리가 볼 땐) 처벌받지 않고 도망간 것처럼 느껴지는 건 사실”이라고 했다. 이어 “(피해자) 아이들은 어떻게 이럴 수가 있느냐며 울고 난리가 났다”고 전했다.&lt;br&gt;&lt;br&gt;통상 불구속 피의자가 해외로 출국할 경우 입국 날짜에 맞춰 소환조사 일정을 조율한다. 특히나 A군처럼 피의자가 미성년자일 경우 사법기관은 체포나 구속영장 발부 등 강제 조치보다는 A군에게 출석을 요구하고, 회신을 기다릴 가능성이 크다. A군이 한국에 자주 올 수 없는 만큼 검찰 수사부터 재판 과정은 훨씬 길어질 수 있다.&lt;br&gt;&lt;br&gt;경찰은 A군이 미성년자이고 필요한 모든 조사를 마쳤으며 A군의 부모가 향후 검찰 조사나 재판 과정에 성실히 출석하겠다고 약속한 점을 고려했다고 밝혔다. 경찰 관계자는 “피의자 조사를 통해 A군의 혐의는 충분히 소명됐고 수사 협조도 원활히 이뤄져 출국금지 기한을 연장하지는 않았다”며 “앞으로 A군 측은 필요시 귀국해 남은 수사 절차 등에 임할 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>서울 연희동서 싱크홀 발생해 승용차 빠져… 2명 중상</title>
       <link>https://www.chosun.com/national/national_general/2024/08/29/L3OELDGGAZBS5P5NABRDNDCZWY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/29/L3OELDGGAZBS5P5NABRDNDCZWY/</guid>
@@ -861,15 +897,6 @@
       <description/>
       <pubDate>Thu, 29 Aug 2024 03:52:18 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAP4TCUQ75LD5AWVEM66MO22UQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오전 11시 20분쯤 서울 서대문구 연희동 성산로(성산대교 방면)에서 싱크홀이 발생했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 서대문구 연희동의 4차선 도로에서 싱크홀이 발생해 승용차 한 대가 빠지는 사고가 났다. 이 사고로 차량에 타고 있던 운전자 등 2명은 중상을 입고 인근 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;서울 서대문경찰서와 서대문소방서는 29일 오전 11시 20분쯤 서울 서대문구 연희동 성산로(성산대교 방면)에서 싱크홀이 발생해 주행 중이던 티볼리 차량 1대가 빠졌다고 이날 밝혔다. 싱크홀 규모는 2.5m 깊이에 가로 6m, 세로 4m인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰과 소방에 따르면 차량에 타고 있던 여성 A(79)씨는 심정지 상태로 발견됐지만 심폐소생술(CPR)을 받고 맥박이 돌아온 것으로 파악됐다. 다만 현재까지 의식은 회복하지 못한 상태다. 운전자 남성 B(82)씨도 중상을 입어 인근 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;소방 당국은 이날 1시쯤 진행된 현장 브리핑에서 “운전자인 남성이 복통을 많이 호소했으며, 동승자 여성은 아직 의식이 없는 상태”라고 밝혔다. 싱크홀이 더 넓어질 가능성과 관련해서는 “일단 조치는 완벽하게 취했으나 유관기관 관계자와 협의 후 다시 설명하겠다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 싱크홀이 발생한 편도 4차선 도로를 전면 통제했다. 사고 1시간 뒤인 12시 35분에는 현장으로 크레인이 도착해 차량을 견인했다. 경찰은 현장을 수습하는 대로 정확한 사고 원인을 조사할 방침이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YVMHUAKTVZE4FPNBCIJJG5XEJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오전 11시 20분쯤 서울 서대문구 연희동 성산로(성산대교 방면)에서 싱크홀이 발생했다. /독자제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>필로폰, 케타민 등 혼합 ‘칵테일 마약’ 밀수‧유통한 일당 3명 검찰 송치</title>
-      <link>https://www.chosun.com/national/incident/2024/08/29/KGOKOCHNW5COHAGGXEACIWEUFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/29/KGOKOCHNW5COHAGGXEACIWEUFY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Aug 2024 05:04:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3MYLBVA3URKCTO57QTRMB5TUNE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;필로폰, 케타민 등 5종의 성분이 혼합된 이른바 칵테일 마약을 국내로 밀수, 유통한 일당이 인천공항세관에 적발돼 검찰에 송치됐다. 사진은 세관 당국에 압수된 칵테일 마약./인천공항세관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;필로폰 등 마약류를 비롯해 해열제, 진통제 등 5가지 성분이 혼합된, 이른바 ‘칵테일 마약’을 국내로 밀수‧유통한 베트남 국적의 일당 3명이 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;인천공항세관은 마약류 관리에 관한 법률 위반 혐의로 수거책 베트남 국적의 20대 남성 A씨 등 2명을 인천지검에 구속송치 했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;공항세관은 또 같은 혐의로 총책 베트남인 20대 남성 B씨를 불구속송치 했다. B씨는 다른 사건 피의자로 구속된 상태라 이번 마약 사건과 관련해선 불구속송치 하게 됐다고 공항세관은 설명했다.&lt;br&gt;&lt;br&gt;이들은 지난 4월 필로폰 등 5종의 성분이 혼합된, 이른바 ‘칵테일 마약’ 25g을 말레이시아에서 인천국제공항을 통해 밀반입한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;칵테일 마약은 필로폰, 케타민, 니트라제팜 등 향정신성의약품과 타마돌린(진통제), 아세트아미노펜(해열제) 등 전문의약품이 혼합된 신종 마약이다.&lt;br&gt;&lt;br&gt;이들은 알약 형태의 칵테일 마약을 잡지에 숨겨 들여오다 세관에 적발됐다. 칵테일 마약이 세관 당국에 적발된 건 이번이 처음으로 알려졌다.&lt;br&gt;&lt;br&gt;공항세관 관계자는 “국경을 통과하는 성분 불상 제품에 대한 면밀한 단속으로 마약 밀수를 차단하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>서울교육감 보궐선거 10월16일 “후보 난립... 단일화 논란 예상”</title>
@@ -883,33 +910,6 @@
         <media:description type="plain">조희연 서울시교육감. 2024.5.16/뉴스1 ⓒ News1 김진환 기자</media:description>
         <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 김진환 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>[속보] 조희연 ‘해직 교사 특채’ 대법서 집행유예 확정, 교육감직 상실</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/29/7PLM3CWLERHILDG3OVDKGREQ6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/29/7PLM3CWLERHILDG3OVDKGREQ6A/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Aug 2024 02:36:41 +0000</pubDate>
-      <content:encoded>전국교직원노동조합(전교조) 출신 해직 교사를 부당하게 특별 채용한 혐의로 기소된 조희연 서울시 교육감이 직위를 잃었다. 조 교육감의 직 상실로 오는 10월 16일 서울시교육감 보궐선거가 치러지게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XK3HJQJDQCHP7KZ63BYH7FOAHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희연 서울시교육감. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 3부(주심 오석준 대법관)는 29일 직권남용 권리행사방해 등 혐의로 기소된 조 교육감에 대해 징역 1년 6개월에 집행유예 2년을 선고한 원심 판결을 확정했다. 함께 기소된 전 비서실장 한모씨에 대해서도 징역 10개월에 집행유예 2년을 선고한 원심이 확정됐다. 대법원은 “원심 판단에 법리를 오해한 잘못이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;이날 대법원 판결로 조 교육감은 즉시 교육감직을 잃게 됐다. 공직선거법과 지방자치교육법에 따르면 교육감은 금고 이상의 형이 확정되는 경우 곧바로 직을 상실하게 된다. 교육감 최초로 3선에 성공한 조 교육감의 임기는 2026년 6월까지인데, 임기를 2년가량 남기고 불명예 퇴진하게 된 것이다.&lt;br&gt;&lt;br&gt;조 교육감은 재선을 앞둔 2017~2018년 전교조 서울지부로부터 전교조 출신 퇴직 교사 5명에 대한 특별 채용을 요구받고, 부하 직원들의 강한 반대에도 채용을 강행한 혐의로 기소됐다. 조 교육감은 특별 채용을 담당한 장학관과 심사위원들에게 내정자들에게 고득점을 주라고 지시하는 등 부당한 영향력을 끼친 것으로 조사됐다.&lt;br&gt;&lt;br&gt;당시 특별 채용 대상된 교사 중 한 명은 2018년 6월 교육감 선거에 출마했다가 경선에서 조 교육감과 단일화했다. 이 교사를 포함한 전교조 퇴직 교사 5명이 조 교육감의 재선 이후 채용됐다.&lt;br&gt;&lt;br&gt;조 교육감 측은 특별 채용 논란에 대해 “과거 부당하게 해직된 교사들을 다시 채용한 것일 뿐 위법하지 않다”며 “사회적 화합과 통합을 위한 적극적 행정 차원이었다”고 주장해왔다.&lt;br&gt;&lt;br&gt;하지만 1·2심 법원은 그의 모든 혐의를 유죄로 인정했다. 1심은 “조 교육감이 권한을 남용해 교원 임용 과정의 공정성과 투명성이 훼손됐다”며 징역 1년 6개월에 집행유예 2년을 선고했다. 2심도 마찬가지로 “(전교조에 대한) 사적인 특혜나 보상을 위한 것으로 보인다”며 원심을 유지했다.&lt;br&gt;&lt;br&gt;한편 조 교육감은 상고심 과정에서 직권남용죄와 교육공무원법에 대해 위헌법률심판 제청을 했다. 공무원이 직권을 남용해 의무 없는 일을 하게 한 경우 처벌하는 형법상 직권남용죄가 헌법상 명확성 원칙에 반한다는 취지다. 하지만 이날 대법원은 조 교육감의 제청에 대해서도 “이유가 없다”며 기각·각하했다.&lt;br&gt;&lt;br&gt;조 교육감의 직 상실로 오는 10월 16일 서울시교육감 보궐선거가 치러질 예정이다. 그 전까지는 설세훈 서울시교육청 부교육감이 권한대행을 맡는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘일본도 살인사건’에 사용된 무허가 도검 판매한 일당 검거</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/29/C4FRY7MOMFAJPMNIJAON2VQ27U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/29/C4FRY7MOMFAJPMNIJAON2VQ27U/</guid>
-      <dc:creator>김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Aug 2024 03:02:46 +0000</pubDate>
-      <content:encoded>경찰이 온라인 쇼핑몰을 통해 무허가 도검을 판매해온 일당을 검거해 조사 중이다.&lt;br&gt;&lt;br&gt;서울경찰청 범죄예방질서과 풍속범죄수사팀은 허가가 없는데도 불법으로 도검을 판매해온 A(30)씨와 직원 B(27)씨를 지난 20일 검거했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 서울 은평구에서 지난달 29일 발생한 ‘일본도 살인사건’에 사용된 도검의 유통 과정을 파악하던 중 일당이 운영하는 업체를 발견했다. 경찰에 따르면 일당은 서울 마포구와 경기 남양주에 사무실과 창고를 두고, 유튜브 채널을 통해 도검을 광고하며 네이버 쇼핑몰 등 온라인에서 불법으로 도검을 판매한 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰은 지난 20일과 26일 업체를 압수수색해 치도 34정(梃), 검 7정, 장도 2정 등 도검 59정을 압수했다. 압수한 도검은 대부분 20cm보다 긴 날을 가지고 있었고, 날 길이가 90cm에 이르는 장도도 있었다. 업체는 약 2년 동안 약 8억원 상당의 매출을 올렸으며, 업체가 홍보 창구로 삼았던 유튜브 채널 구독자 수는 11만8000여명에 이른 것으로 파악됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZD7TIIVME5AHFDKE5IRQOLYZVQ.gif"&gt;&lt;figcaption&gt;&lt;small&gt;경찰은 지난 20일과 26일 업체를 압수수색해 치도 34정, 검 7정, 장도 2정 등 도검 59정을 압수했다. /서울경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 현재 불구속 상태로 조사를 받고 있다. 경찰은 추가 수사를 통해 전체 범죄 수익 규모를 파악해 환수하고 구매 정보를 확인해 무허가 소지 도검에 대한 수사 및 자진 반납 조치를 취할 계획이라고 밝혔다.&lt;br&gt;&lt;br&gt;지난 1일부터 경찰은 ‘소지 허가 도검 전수 점검’도 진행하고 있다. 지난 27일 기준 1만 107정에 대한 점검을 완료됐고 그중 2284정에 대해서는 허가 취소 처분이 내려졌다. 경찰은 도검의 소지 허가 적정성을 면밀하게 점검하고 불법 도검 판매와 관련한 위법 행위에 대해 강력한 단속을 이어갈 방침이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국방부 건물 공사장서 추락한 인부 숨져</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/29/GN3RNBFYERAOXPSNE7DF52WSPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/29/GN3RNBFYERAOXPSNE7DF52WSPM/</guid>
-      <dc:creator>김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Aug 2024 02:53:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EBOPILDAQVATDDKMCYKHDUGVF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산구 국방부 청사 전경. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공사 중인 국방부 건물에서 한 60대 인부가 추락해 숨진 것으로 확인됐다.&lt;br&gt;&lt;br&gt;서울 용산소방서는 28일 오전 8시 33분쯤 서울 용산구의 한 공사장에서 발생한 추락 사고를 접수했다.&lt;br&gt;&lt;br&gt;경찰과 소방에 따르면 인부 A씨는 국방부 건물 공사 현장 안에 있다가 약 4m 높이에서 추락했다. 소방당국이 A씨를 서울 구로구의 한 병원으로 이송했으나 A씨는 끝내 사망했다.&lt;br&gt;&lt;br&gt;서울 구로경찰서가 이 사고에 대해 조사 중이다. 고용노동부는 중대재해처벌법 위반 소지가 있는지 조사할 계획이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“추석엔 영양고추 맛보이소”...29일부터 3일간 서울서 영양고추축제</title>
