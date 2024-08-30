@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>트와이스도 ‘딥페이크’ 당했다… JYP “상황 매우 심각, 강력 대응”</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/31/IOHM6PCOLBAYBML3MBAN5IFKGA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/31/IOHM6PCOLBAYBML3MBAN5IFKGA/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Aug 2024 21:35:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJGI763PETM7LVX4U4VLM4JPJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 트와이스. /JYP엔터테인먼트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 ‘트와이스’ 측이 인공지능(AI)을 이용해 가짜 콘텐츠를 만드는 ‘딥페이크’(deepfake) 불법 영상물 확산에 강력한 법적 대응을 예고했다.&lt;br&gt;&lt;br&gt;소속사 JYP엔터테인먼트는 30일 팬 커뮤니티를 통해 “최근 당사 아티스트를 대상으로 한 딥페이크 영상물이 확산하고 있는 상황에 대해 매우 심각하게 받아들이고 있다”며 “이는 명백한 불법 행위”라고 했다.&lt;br&gt;&lt;br&gt;이어 “현재 관련 자료를 모두 수입하고 있고 전문 법무법인과 함께 선처 없는 강력한 법적 대응을 진행 중”이라며 “아티스트의 권익을 침해하는 모든 행위를 절대 좌시하지 않고 끝까지 단호하게 대처할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;딥페이크는 ‘딥 러닝’(Deep Learning)과 ‘페이크’(Fake)의 합성어로, AI를 기반으로 한 이미지 합성 기술을 말한다. 기존 얼굴을 다른 사람으로 바꾼 가짜 콘텐츠를 실제처럼 보이게 한다. 사진 몇 장만으로 원하는 움직임을 구현할 수 있어, 연예인처럼 다각도 사진이 많은 경우 피해에 노출되기 쉽다.&lt;br&gt;&lt;br&gt;앞서 가수 권은비, 유정, 방송인 덱스 등 여러 스타가 딥페이크로 인한 음란물 피해를 호소한 바 있다. 지난 1월엔 세계적인 팝스타 테일러 스위프트의 얼굴 사진을 딥페이크로 합성한 악의적 음란물이 온라인에 유포돼 논란을 낳기도 했다.&lt;br&gt;&lt;br&gt;최근 국내에선 여성 얼굴에 성 착취물을 합성한 딥페이크 영상물이 텔레그램 대화방 등을 통해 대거 유포된 사실이 드러나 경찰이 집중 수사에 나섰다. 정부는 딥페이크 음란물을 소지한 사람까지 형사 처벌하는 방안과 제작자 검거를 위해 경찰에 신분 위장 수사를 허용하는 방안도 추진할 예정이다.&lt;br&gt;&lt;br&gt;한편 딥페이크 성 착취물 피해자의 절반 이상이 한국인이라는 조사 결과도 나왔다. 미국 사이버 보안 업체 시큐리티 히어로의 보고서에 따르면 딥페이크 음란물 대상 중 53%가 한국인이었으며, 이는 둘째로 많은 미국(20%)보다 배 이상 많았다.&lt;br&gt;&lt;br&gt;월스트리트저널은 이를 인용해 “가짜 음란물을 생성·유포하는 세계적인 문제의 진앙이 한국이라는 것을 시사한다”고 했다. 영국 BBC도 “한국이 딥페이크 음란물 비상사태에 직면했다”고 보도했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>돈키호테처럼 美무대 정복했다, 조승우·정성화 키운 이 남자</title>
       <link>https://www.chosun.com/national/weekend/2024/08/31/GAY2K4ND5RF47EC2GYKHMOGKAE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2024/08/31/GAY2K4ND5RF47EC2GYKHMOGKAE/</guid>
@@ -933,15 +942,6 @@
       <description/>
       <pubDate>Fri, 30 Aug 2024 02:10:33 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U4WZAU37QJH4XHYPQP3VH3MMZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;왼쪽부터 오상욱의 막냇동생과 형, 오상욱. /MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2024 파리올림픽 남자 펜싱 금메달리스트인 오상욱(28)의 2살 터울 형과 8살 어린 동생이 공개된다.&lt;br&gt;&lt;br&gt;30일 방송되는 MBC 예능프로그램 ‘나 혼자 산다’에서는 오상욱이 형제들과 보내는 일상이 공개된다. 예고편을 통해 일부 공개된 오상욱의 형제들은 훈훈한 외모로 화제가 되고 있다.&lt;br&gt;&lt;br&gt;오상욱은 이날 방송에서 세종시에 사는 형의 집을 방문한다. 오상욱은 형과 함께 방학 동안 워터파크에서 인명 구조요원으로 아르바이트 중인 막냇동생을 만나 시간을 보낸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6JKUQNVMYZCADMQHFYOH5T7ZZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;왼쪽부터 오상욱 막냇동생, 오상욱, 오상욱의 형. /MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오상욱은 형에 대해선 “이름은 오상민이고, 10년 가까이 운동을 같이한 동료이자 선배이자 가족이자 조력자이자 친구 같은 형”이라고 소개했다.&lt;br&gt;&lt;br&gt;오상욱의 키는 192cm인데 오상욱의 형과 동생도 185cm 장신이라 출연자들의 부러움을 샀다. 오상욱 삼형제는 훤칠한 외모와 중저음 목소리까지 닮아 눈길을 끌었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NKSO7HNL4RNIJNIRM5A7YW3VGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오상욱이 기자회견을 하고 있다. /올림픽사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;식당으로 이동한 삼형제는 조개구이, 대하구이, 물회, 라면 등으로 저녁을 즐기며 ‘대식가’ 면모를 보여줬다. 오상욱은 과거부터 대식가로 유명했는데 형제들 역시 대식가였던 것이다.&lt;br&gt;&lt;br&gt;오상욱은 이날 형제들에게 ‘2024 파리올림픽’에서 딴 금메달을 꺼내 보여주기도 했다. 금메달을 본 형제들의 반응은 방송에서 공개된다.&lt;br&gt;&lt;br&gt;한편 오상욱은 올림픽 이후 운동 실력뿐만 아니라 외모, 입담 등 다양한 매력을 뽐내며 대세로 떠올랐다. 오상욱은 한국 선수로는 최초로 개인전 커리어 그랜드슬램을 달성했다. 다양한 예능프로그램에 출연 중인 오상욱은 최근 오비맥주 ‘카스 라이트’ 모델로 발탁되기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>문선배 동국대 총동창회장, 동국대로 1억 기부</title>
-      <link>https://www.chosun.com/national/people/2024/08/30/MFESXDIXJBHQVKX7KN2A66N6HA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/30/MFESXDIXJBHQVKX7KN2A66N6HA/</guid>
-      <dc:creator>김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Aug 2024 01:36:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VYAPGYLRNZB77GHD2FPKD77SOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 29일 열린 기부금 전달식에서 윤재웅 동국대 총장(왼쪽)과 문선배 동국대 총동창회장이 기념사진을 촬영하고 있다. /동국대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동국대는 문선배 동국대 총동창회장이 학교 발전기금으로 1억원을 기부했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;지난 6월 21일에 열린 동국대 ‘후원의 밤’ 행사에 참여했던 문 회장은 29일 동국대를 찾아 기부금을 전달했다. 동국대에 따르면 문 회장은 이번 기부를 포함해 지금까지 동국대로 약 3억 3000만원을 기부했다.&lt;br&gt;&lt;br&gt;기부금 전달식에서 문 회장은 “총동창회장으로서 모교의 발전을 위해 더욱 노력하겠다”며 “동국대 35만 동문들의 많은 격려와 관심 부탁드린다”고 밝혔다.&lt;br&gt;&lt;br&gt;윤재웅 동국대 총장은 “동국대학교 총동창회의 끊임없는 모교 사랑과 후원에 감사드린다”며 “많은 동문들이 염원하시는 바와 같이 나날이 발전하는 모교의 모습으로 보답하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>연희동 씽크홀 30m 거리에 도로 균열 발생, 도로 통제중</title>
