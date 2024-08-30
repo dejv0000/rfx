@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>법무부, 아동·청소년·장애인 피해자 진술조력인 14명 신규 양성</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/201013.jpg" alt="1905.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무부가 아동·청소년 또는 장애인 피해자를 위한 진술조력인 14명을 신규 양성했다고 30일 밝혔다.&lt;br /&gt;&lt;br /&gt;법무부는 아동·장애인 심리나 의사소통 관련 전문지식 보유자 또는 관련 분야 종사자 중 서류심사와 면접을 거쳐 총 14명의 교육 대상자를 선발했다. 3개월간의 양성교육을 거쳐 진술조력인 자격을 최종적으로 부여했다.&lt;br /&gt;&lt;br /&gt;법무부에 따르면 신규 양성 인원을 포함해 진술조력인 수는 현재 194명이다.&lt;br /&gt;&lt;br /&gt;진술조력인은 성폭력·아동학대·인신매매 등 범죄의 피해자가 19세 미만 아동·청소년인 경우 또는 범죄 종류를 불문하고 피해자가 장애인인 경우에 수사·재판이 피해자 눈높이에서 진행되도록 의사소통을 중개·보조하는 전문인력이다.&lt;br /&gt;&lt;br /&gt;해바라기센터·경찰서·법원 등 수사·재판 기관의 요청에 따라 해당 기관에 출석해 피해자의 권익을 보호하는 역할을 한다. &lt;br /&gt;&lt;br /&gt;대표적인 활동 사례는 △교회 집사가 지적장애 3급 피해자를 성폭행한 사건에서 피해자가 편안하고 우호적인 자세로 진술하도록 돕고 △어린이집 교사가 만 3세 아동을 넘어뜨려 골절 상해를 입힌 사건에서 피해아동이 안정된 상태에서 피해 사실을 진술할 수 있도록 도운 것 등이다.&lt;br /&gt;&lt;br /&gt;진술조력인 활동 건수는 2020년 2684건에서 지난해 4231건까지 늘었고, 올해는 6월 기준 2074건을 기록했다. 2013년 제도 도입 이후 누적 활동건수는 2만4640건이다.&lt;br /&gt;&lt;br /&gt;법무부는 "앞으로도 진술조력인을 체계적으로 양성하고 적극적으로 활동을 지원해 사회적 약자 보호를 위해 노력할 것"이라고 밝혔다.</description>
+			<pubDate>Fri, 30 Aug 2024 02:43:37 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201013</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201013</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201013.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>개인정보위, '개인정보 유출' 한화리조트에 과징금 1억 8000만원 부과</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201006.jpg" alt="201006.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size: 14px; line-height: 1.6em;"&gt;고학수 위원장이 28일 서울 종로구 정부서울청사에서 제14회 위원회 전체회의를 주재하고 있다.《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한화호텔앤드리조트가 시스템 개발 과정에서 고객의 예약 정보를 타인에게 노출하는 실수를 저질러 1억 8831만원의 과징금을 부과받았다.&lt;br /&gt;&lt;br /&gt;개인정보보호위원회(위원장 고학수)는 제14회 전체회의에서 한화호텔앤드리조트에 대해 과징금과 함께 과태료 300만원 부과를 결정했다고 29일 밝혔다.&lt;br /&gt;&lt;br /&gt;이번 과징금 부과는 한화호텔앤드리조트가 온라인 회원의 숙박 예약을 위한 이벤트 과정에서 시스템 개발과 사전 검증을 소홀히 해, 1818건의 타인 예약 정보가 노출되는 오류가 발생한 데 따른 조치다. 개인정보위는 이를 개인정보보호법에 따른 안전조치 의무 위반으로 판단했다.&lt;br /&gt;&lt;br /&gt;개인정보위는 연인 대상 SNS '비트윈'을 운영하는 띵스플로우에도 과징금 2732만원과 과태료 360만원을 부과했다. 이 회사는 합병 전 운영되던 비트윈어스에서 만 14세 미만 아동 3만8633명의 개인정보를 법정대리인의 동의 없이 수집한 사실이 드러났다. 개인정보 취급자가 개인정보처리시스템에 접속한 기록을 보존·관리하지 않았다. &lt;br /&gt;&lt;br /&gt;현대차는 신차 시승 이벤트에서 마케팅 활용 등 홍보 목적의 개인정보 수집에 동의하지 않은 고객에게 시승 서비스를 제공하지 않는 등의 위반 행위로 인해 과징금 329만원과 과태료 900만원을 부과받았다.&lt;p&gt;   &lt;br /&gt;현대차는 고객지원 애플리케이션 '마이현대' 운영 중 보안 패치를 지연 적용해 타인의 개인정보가 노출되는 사고가 발생 후 신고와 통지를 지연한 사실이 드러났다.&lt;br /&gt;&lt;br /&gt;개인정보위 관계자는 "개인정보 처리시스템의 운영환경과 취약점을 주기적으로 점검하고, 만 14세 미만 아동의 개인정보를 수집할 때는 법정대리인의 동의를 받아야 한다"며 "마케팅 활용 등 홍보를 위한 개인정보 수집·이용에 동의하지 않았다는 이유로 서비스의 제공을 거부해서는 안 된다"고 강조했다.&lt;/p&gt;</description>
+			<pubDate>Fri, 30 Aug 2024 02:23:36 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201006</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201006</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201006.jpg</media:thumbnail>
+			<dc:creator>이순규 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2024년 8월 30일</title>
 			<description>&lt;b&gt;◇ 국회의장&lt;/b&gt;&lt;br /&gt;13:30 「물레나」 미-중 전략경쟁특위 위원장 등 미국 하원의원 방한단 예방(국회접견실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 국회사무총장&lt;/b&gt;&lt;br /&gt;13:30 「물레나」 미-중 전략경쟁특위 위원장 등 미국 하원의원 방한단 예방(국회접견실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 의원실 세미나&lt;/b&gt;&lt;br /&gt;10:00 민병덕 의원실 등, 건설하도급거래 공정성 확보 방안(의원회관 제2소회의실)&lt;br /&gt;&lt;br /&gt;10:00 윤종오 의원실 등, 부마항쟁 및 민주유공자 예우에 관한 법률제정을 위한 토론회(의원회관 제2세미나실)&lt;br /&gt;&lt;br /&gt;10:00 김주영 의원실 등, 수도권매립지 사용종료 쟁점분석 및 정책방향 국회 토론회(의원회관 제7간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 이수진 의원실 등, 표류하는 성남시의료원, 어떻게 발전시킬 것인가?(의원회관 제8간담회의실)&lt;br /&gt;&lt;br /&gt;13:00 최기상 의원실, 재정·조세정책 개혁방안 : 통화·금융정책과 불평등 그리고 대안(의원회관 제10간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 조승환 의원실 등, [지역현안 입법지원 토론회] 원도심 개발 여건 조성 및 활성화 방안(부산영화체험박물관 1층 영상홀)&lt;br /&gt;&lt;br /&gt;14:00 김선교 의원실, 농촌 소멸 해법 정책포럼 : 생활인구 활성화서 찾는다(국회도서관 소회의실)&lt;br /&gt;&lt;br /&gt;14:00 권향엽 의원실 등, 순천만 흑두루미&amp;생태관광 국회 세미나(의원회관 제2세미나실)&lt;br /&gt;&lt;br /&gt;14:00 김선교 의원실 등, 친환경 농업의 활성화를 위한 국회 토론회(의원회관 제2소회의실)&lt;br /&gt;&lt;br /&gt;15:00 강준현 의원실 등, 기업 지배구조 개선을 위한 입법부 역할(의원회관 제1간담회의실)&lt;br /&gt;&lt;br /&gt;15:00 조경태 의원실 등, 부산, 반도체 산업 육성을 위한 정책토론회(부산 상수도사업본부 대회의실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 소통관 기자회견&lt;/b&gt;&lt;br /&gt;11:40 김현정 의원, [두산 밥캣 합병 철회 관련 기자회견]&lt;br /&gt;&lt;br /&gt;13:40 양지혜 기본소득당 부대변인, [부마항쟁 및 민주유공자 예우에 관한 법률 제정 관련 기자회견]&lt;br /&gt;&lt;br /&gt;14:00 이소영 의원, [더불어민주당 기후행동의원모임 '비상' 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
 			<pubDate>Thu, 29 Aug 2024 22:38:09 -0000</pubDate>
@@ -220,26 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200965</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/empty_thumbnail.jpg</media:thumbnail>
 			<dc:creator>홍윤지 기자</dc:creator>
-		</item>
-		<item>
-			<title>여성변회, "딥페이크 성범죄 급증…법 개정 및 강력 처벌" 촉구</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/200962.jpg" alt="22.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국여성변호사회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1151"&gt;왕미양&lt;/span&gt;)는 28일 성명서를 내고 최근 급증하는 딥페이크 성범죄에 대한 강력한 수사와 처벌, 입법 공백 보완을 촉구했다. &lt;br /&gt;&lt;br /&gt;여성변회는 "최근 텔레그램 딥페이크 사건, 실존 여대생을 대상으로 한 딥페이크 사건 등이 연이어 발생하면서, 딥페이크 성범죄의 피해규모가 확대되고 있다"며 "텔레그램 등에는 딥페이크 피해영상물을 합성, 제작, 소비하는 소위 ‘XX 능욕방’이 수백여 개에 달하며, 능욕방 등의 참여 인원은 최소 22만 명에 이르는 것으로 추산된다"고 지적했다. &lt;br /&gt;&lt;br /&gt;이어 "딥페이크 허위영상물 등 범죄 혐의로 입건된 전체 피의자 중 10대가 차지하는 비중은 2022년 61.2%, 2023년 75.8%로 점차 높아지고 있는 실정"이라며 "이러한 현상을 바로잡지 않으면, 청소년들 사이에 여성의 얼굴, 신체 등을 성적도구로만 여기고 놀이, 장난의 대상으로 보는 왜곡된 성문화가 확산될 우려가 크다"고 강조했다. &lt;br /&gt;&lt;br /&gt;여성변회는 "딥페이크 성범죄에 관해 △성폭력범죄의 처벌 등에 관한 특례법(허위영상물등의반포등) △아동청소년의 성보호에 관한 법률(아동성착취물) △정보통신망 이용촉진 및 정보보호 등에 관한 법률(불법정보의 유통금지 등) 등으로 처벌이 가능하나, 성폭력처벌법의 경우 반포 목적 등을 요구하고 있어 배포할 목적이 없는 합성‧제작 행위에 대하여는 처벌할 수 없고, 피해영상물의 사적인 소지, 구입, 저장, 시청 등의 행위에 대한 규제가 없으며, 아동청소년의성보호에관한법률은 아동‧청소년이 아닌 성인 여성에 대한 착취물에 대해 적용되지 않고, 정보통신망법은 음란한 영상, 음향 등을 규제하고 있지만 처벌수위가 약한 문제점이 있다"고 지적했다. &lt;br /&gt;&lt;br /&gt;이어 "현재 횡행하고 있는 딥페이크 성범죄물은 피해자를 특정할 수 없는 버츄얼휴먼의 형태로 제작되는 경우도 많아, 딥페이크 성범죄 영상의 제작 및 배포 등에 관해 입법공백을 보완하고, 처벌을 강화할 필요성이 있다"고 주장했다. &lt;br /&gt;&lt;br /&gt;또 "딥페이크 성범죄를 근절하기 위해 성인 대상 음란영상에 대한 위장수사를 확대할 필요성이 있고, 딥페이크 영상은 해외에 서버를 둔 플랫폼, 메신저 등에서 유통되는 경우가 많으므로, 해외 각국과의 공조수사를 강화함으로써 가해자를 적발하는 일에 힘써야 한다"고 강조했다. &lt;br /&gt;&lt;br /&gt;아울러 "국가차원에서 정보통신망 사업자에 대한 관리감독 의무를 강화하고, 딥페이크 성범죄 영상의 즉시 삭제, 미성년자의 접근 차단 등 강력한 조치를 시행하여야 할 것"이라고 했다.</description>
-			<pubDate>Wed, 28 Aug 2024 07:39:58 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/200962</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200962</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200962.jpg</media:thumbnail>
-			<dc:creator>유지인 기자</dc:creator>
-		</item>
-		<item>
-			<title>여변, '고독사 예방법의 시행과 현실' 심포지엄 내달 3일 개최</title>
-			<description>&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/200961.jpg" alt="200961.jpg" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;한국여성변호사회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1151"&gt;왕미양&lt;/span&gt;)는 다음달 3일 오후 2시 서울 영등포구 국회의원회관 제9간담회의실에서 '고독사 예방법의 시행과 현실' 심포지엄을 개최한다.&lt;br /&gt;&lt;br /&gt;국민의힘&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6324"&gt;조배숙&lt;/span&gt;(68·사법연수원 12기),&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11952"&gt;김미애&lt;/span&gt;(55·34기) 국회의원, 더불어민주당&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1645"&gt;오기형&lt;/span&gt;(58·29기),&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="313"&gt;박희승&lt;/span&gt;(61·18기) 국회의원과 공동 주최한다.&lt;br /&gt;&lt;br /&gt;이번 심포지엄은 고독사 예방 및 관리에 관한 법률의 제·개정 과정을 돌아보고, 외로움과 사회적 고립 방지에 초점을 둔 접근방식의 도입 등 법률 및 시범사업의 개선점을 모색하기 위해 마련됐다.&lt;br /&gt;&lt;br /&gt;△고숙자 한국보건사회연구원 연구위원이 '고독사의 실태'라는 주제로 △&lt;span style="font-weight: bold;" class="lawmanlink" serial="38705"&gt;강정우&lt;/span&gt;(변호사시험 9회) 한국여성변호사회 생명가족윤리특별위원이 '고독사 예방 및 관리에 관한 법률의 점검'을 주제로 발표한다.&lt;br /&gt;&lt;br /&gt;지정토론에는 노정훈 보건복지부 지역복지과장, 김현미 독거노인종합지원센터장, 호용한 사단법인 어르신의안부를묻는우유배달 이사장, 유병선 경기복지재단 정책연구실장이 참여한다. &lt;br /&gt;&lt;br /&gt;</description>
-			<pubDate>Wed, 28 Aug 2024 07:39:06 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/200961</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/200961</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/200961.jpg</media:thumbnail>
-			<dc:creator>이진영 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
