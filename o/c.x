@@ -13,6 +13,130 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>법원, ‘1조대 코인 사기’ 법정서 흉기 휘두른 50대 男 구속영장 발부</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/30/K4LR32MTTBBNHGGOQBNRMXSZVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/30/K4LR32MTTBBNHGGOQBNRMXSZVQ/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Aug 2024 09:53:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AJC7KLRGWJQCXWFGYQ33YQGBHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 양천구 서울 남부지법의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1조4000억원 가상자산(코인) 사기 사건을 저지른 혐의로 재판을 받던 가상자산예치서비스 업체 하루인베스트 대표 이모씨에게 법정에서 흉기를 휘두른 50대 남성이 30일 구속됐다.&lt;br&gt;&lt;br&gt;서울남부지법 한정석 영장전담 부장판사는 살인미수 혐의를 받는 50대 A씨에 대해 이날 오전 10시 30분쯤 영장실질심사를 진행한 뒤 “도망할 염려 있다”며 구속영장을 발부했다. 이날 오전 10시쯤 서울 양천구 서울남부지법에 출석한 A씨는 정말 살해할 계획이었는지, 흉기를 어떻게 반입했는지 등 취재진 질문에 답을 하지 않고 법정에 들어갔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 28일 오후 2시 26분쯤 서울남부지법 법정에서 방청 중 피고인석에 앉아 있다가 재판을 받던 이씨에 달려들어 그의 목 부위를 수차례 흉기로 찌른 혐의를 받는다. 이씨는 피습 직후 병원으로 이송돼 치료를 받고 있다. 사건을 수사하는 서울 양천경찰서는 29일 A씨에 대해 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;A씨는 하루인베스트 가상자산 사기 사건의 피해자인 것으로 전해졌다. 경찰은 “A씨가 출금 중단에 따른 손해에 불만을 품고 범행을 했다는 취지로 진술하고 있다”며 “사실 여부를 계속 확인 중”이라고 했다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 범행에 사용한 흉기가 집에서 사용하던 칼인 과도라고 진술한 것으로 전해졌다. 경찰은 “해당 과도는 현재까지 금속성 재질로 피의자는 주거지 인근 마트에서 이를 구입했다고 진술하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>밀양 성폭행 관련 허위 영상 올린 30대 유튜버 재판행</title>
+      <link>https://www.chosun.com/national/incident/2024/08/30/5SBW6UJ77REALHF3OPG76D3OMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/30/5SBW6UJ77REALHF3OPG76D3OMI/</guid>
+      <dc:creator>대구=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Aug 2024 09:52:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZTV7OPDZIE43WIBGMZYZF3MHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지검/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유튜브 채널을 통해 허위 사실을 유포한 30대 유튜버가 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대구지검 형사1부(부장 원형문)는 30일 스토킹처벌법 위반 및 정보통신망법 위반(명예훼손)등 혐의로 유튜버 A씨를 불구속 기소했다. A씨는 지난해 7월부터 올해 6월 사이 유튜브 채널에 밀양 성폭행 사건 및 신안 염전노예 사건과 관련한 허위 사실을 영상으로 만들어 유포한 혐의를 받고 있다. 이와 별도로 특정 구독자를 협박, 모욕한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “A씨가 ‘공익을 추구한다’는 보안관 컨셉으로 동영상을 유포했다고 주장하나, 실제로는 피해자 동의 없이 콘텐츠를 게재해 오히려 2차 가해를 했다”며 “향후 허위 사실 또는 타인의 약점을 기반으로 수익을 올리는 ‘사이버렉카(화제 되는 사건에 몰려드는 유튜버)’ 범죄에 엄정 대응할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘720억원 상환 지연’ 루멘페이먼츠 대표, 도주하다 결국 검찰에 구속</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/30/6GLMVWNVRZBLVARAR5BYVNOCUQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/30/6GLMVWNVRZBLVARAR5BYVNOCUQ/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Aug 2024 08:43:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A2BQCQJCUEYI426SCFIFD7HAP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 양천구 서울남부지방검찰청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;720억원대 선(先)정산대출을 갚지 않은 지급결제 대행사 대표가 구속 전 도주했다가 일주일만에 검찰에 붙잡혀 구속됐다.&lt;br&gt;&lt;br&gt;서울남부지검 금융·증권범죄합동수사부(부장 공준혁)는 720억원 규모의 선정산대출 상환 불능 사태를 촉발한 김인환(35) 루멘페이먼츠 대표를 30일 구속했다.&lt;br&gt;&lt;br&gt;검찰에 따르면 김 대표는 페이퍼컴퍼니를 내세워 허위의 신용카드 매출채권을 담보로 온라인 투자연계 금융업체 ‘크로스파이낸스’로부터 약 720억원 규모의 선정산대출을 받고 이를 편취해 특정경제범죄가중처벌 등에 관한 법률 위반(사기) 혐의를 받는다. 선정산대출이란 소상공인 등이 카드 매출을 담보로 돈을 빌린 뒤 추후 카드사에서 받는 대금으로 상환하는 방식의 대출이다. 실제 정산은 카드사와 소상공인을 연결하는 지급결제 대행사가 처리한다.&lt;br&gt;&lt;br&gt;앞서 김 대표는 지난 23일 구속 전 피의자 심문에 불출석하고 도주했다. 이에 법원은 김 대표에 대해 구속영장을 지난 27일 발부했다. 검찰은 전담 수사팀을 구성해 김 대표를 30일 서울 영등포구 모처에서 검거했다. 앞서 검찰은 이번 사태를 인지한 금융감독원의 의뢰에 따라 수사에 착수했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “향후에도 신종 수법을 악용한 각종 금융 범죄를 엄단해 선량한 일반 서민과 소상공인을 보호하겠다”며 “‘시장질서를 어지럽히는 금융 사범은 반드시 대가를 치른다’는 메시지가 전달되도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원, 티메프 자율 구조조정 연장 않겠다…“회생 개시 빠르게 판단”</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/30/KBPODNXLQNC45ESB4U6KO5HHG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/30/KBPODNXLQNC45ESB4U6KO5HHG4/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Aug 2024 08:28:12 +0000</pubDate>
+      <content:encoded>법원이 티몬과 위메프에 대한 자율 구조조정 지원(ARS) 프로그램을 연장하지 않고 기업 회생 개시 여부를 신속히 판단하겠다고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CPFZ42R2WNPXJNIMXX67QSEX6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;류화현 위메프 대표(왼쪽)와 류광진 티몬 대표가 30일 오후 서울 서초구 서울회생법원에서 티몬·위메프 사태 관련 2차 회생절차 협의회를 마친 뒤 기자회견을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울회생법원 회생2부(재판장 안병욱 법원장)는 30일 티몬·위메프의 2차 회생절차 협의회를 비공개로 열었다. 안 법원장은 협의회에서 “ARS를 연장하지 않고 빠른 시일 내 회생 개시 여부를 판단할 예정”이라고 밝혔다. 또 채권자들이 회생 개시 여부에 대해 어떤 의견을 갖고 있는지 대표 채권자를 통해 알려달라고 전했다.&lt;br&gt;&lt;br&gt;ARS는 법원이 기업 회생 개시를 유예하고, 기업과 채권자들이 효율적인 구조조정 방안 등을 협의할 수 있도록 하는 프로그램이다. 앞서 법원은 지난 2일 티메프의 ARS 진행을 결정한 뒤, 회생 개시를 다음달 2일까지 한 달간 보류했다. ARS는 최대 3개월까지 연장될 수 있다.&lt;br&gt;&lt;br&gt;류광진 티몬 대표와 류화현 위메프 대표는 법원에 ARS를 한 달 더 연장해달라고 요청했지만, 법원이 거절했다. 법원이 티메프가 ARS를 통해 협의에 도달하기 어렵다고 판단한 것으로 해석된다.&lt;br&gt;&lt;br&gt;이날 채권자 일부도 ARS를 더 진행하기보다는 회생 개시 여부에 대해 빠른 판단을 내려달라는 의견을 재판부에 냈다고 한다. 또 인가 전 인수합병(M&amp;amp;A) 절차가 잘 진행될 수 있도록 두 기업의 가치를 신속히 조사해달라고 요청했다.&lt;br&gt;&lt;br&gt;법원이 ARS를 연장하지 않기로 하면서 조만간 회생절차 개시 여부가 결정될 것으로 보인다. 만약 회생 개시가 허가되면 강제적인 회생 계획안이 도출돼 실행되지만, 회생 신청이 기각된다면 두 회사는 파산한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HLAV5SAEPJIZ7B5C5EORYEVIYI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김동식 인터파크커머스 대표(왼쪽부터)와 구영배 큐텐그룹 대표, 류화현 위메프 대표, 류광진 티몬 대표의 가면을 쓰고 수의를 입은 '티메프 사태' 피해자들이 30일 오전 서울 서초구 서울중앙지방검찰청 앞에서 열린 '검은우산 집회'에 참가해 책임자들의 구속수사를 촉구하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇ 구영배 큐텐 대표, 협의회 참석…채권자 “회생 의지 있냐” 질타&lt;/b&gt;&lt;br&gt;&lt;br&gt;이날 회생절차 협의회에는 구영배 큐텐 대표도 참석했다. 정부·유관기관, 채권자 측의 참석 요구를 받은 구 대표가 협의회에 처음으로 모습을 드러낸 것이다. 하지만 구 대표는 어떠한 입장도 밝히지 않고 법원을 떠났다.&lt;br&gt;&lt;br&gt;이에 채권자들은 구 대표에 실망감을 드러냈다. 판매업체를 대표해 참석한 신정권 티메프 피해자 연합 비상대책위원장은 “개인적으로 유감이다. 구 대표가 직접 기자회견 통해 입장 밝히기로 했었는데 본인이 자리를 피했다. 회생 의지가 있긴 한 건지 반문하고 싶다”고 질책했다. &lt;br&gt;&lt;br&gt;협의회에서 구 대표는 티메프 합병을 위해 설립한 신규 플랫폼인 ‘KCCW’(K-Commerce Center for World) 관련 자구안을 설명하며, 2027년까지 법인을 상장 또는 매각하겠단 계획을 밝혔다고 한다.&lt;br&gt;&lt;br&gt;하지만 신 비대위원장은 “KCCW에 대해 (구 대표가) 설명을 하고 싶다고 하셨는데, 타이밍이 늦은 것 같다”며 “먼저 채권자들에게 (KCCW에 대한) 의향을 묻고 간담회를 진행했으면 충분히 이해할 수 있었을텐데, 사후적으로 설명을 듣게 된 상황이라 채권자들 사이에서 이해도가 높지 않다”고 지적했다.&lt;br&gt;&lt;br&gt;법원에 따르면 이날 티메프가 제출한 2차 자구안에는 사이트 거래재개 추진, 조직개편을 통한 독립 경영 추진, 투자자 유치 현황 등의 내용이 담겼다고 한다. 티메프 측은 이날 사모펀드 2곳이 뭉친 컨소시엄으로부터 투자의향서를 받았다고 채권자 측에 알렸지만, 투자 확약을 받기까지는 단계가 많이 남았다고 전했다.&lt;br&gt;&lt;br&gt;한편 티메프 정산 지연으로 피해를 본 판매자·소비자 70여명은 이날 오전 서울중앙지검 앞에서 집회를 진행했다. 이들은 이날 구 대표를 구속 수사해달라며 피해자 2318명이 서명한 탄원서를 검찰에 제출했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정부, 딥페이크 음란물 소지만 해도 처벌 추진</title>
+      <link>https://www.chosun.com/politics/goverment/2024/08/30/GDJ6IJIBO5DSDO2UR4FUN3HTNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2024/08/30/GDJ6IJIBO5DSDO2UR4FUN3HTNY/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Aug 2024 09:15:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ACQF6GRNKFBCXAPLOW6RQKRTVE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 ‘딥페이크 음란물’을 소지한 사람을 형사처벌하는 방안을 추진한다. 딥페이크 음란물 제작자를 잡아내기 위해 경찰에 신분 위장 수사를 허용하는 방안도 추진된다.&lt;br&gt;&lt;br&gt;정부는 30일 정부서울청사에서 김종문 국무조정실 국무1차장 주재로 첫 ‘딥페이크 성범죄 대응 범정부 대책 회의’를 열어 이런 방안들을 논의했다고 밝혔다.&lt;br&gt;&lt;br&gt;현행 성폭력처벌법은 사람의 얼굴이나 신체, 음성을 촬영한 영상물을 대상자의 의사에 반해 음란하게 편집·합성·가공하면 5년 이하 징역 또는 5000만원 이하 벌금에 처한다. 다만, 유포할 목적이 있었다는 것이 입증돼야만 처벌이 가능하다.&lt;br&gt;&lt;br&gt;정부는 성폭력처벌법을 개정해 ‘허위 영상물 소지죄’ 조항을 신설해, 딥페이크 음란물을 갖고 있기만 해도 형사처벌하기로 했다. 또 딥페이크 음란물을 유포한 사람에 대해선 법정형을 ‘5년 이하 징역 또는 5000만원 이하 벌금’에서 ‘7년 이하 징역’으로 강화하기로 했다. 현재는 딥페이크 음란물을 돈을 벌 목적으로 유포한 경우에만 7년 이하 징역으로 처벌된다.&lt;br&gt;&lt;br&gt;정부는 딥페이크 음란물 제작자를 잡기 위해 경찰관이 신분을 위장해 수사하는 것을 허용하는 방안도 추진하기로 했다. 현재는 아동·청소년을 대상으로 하는 디지털 성범죄 수사에서만 위장 수사가 허용된다. 이를 성인을 대상으로 하는 딥페이크 성범죄 수사에도 허용하겠다는 것이다.&lt;br&gt;&lt;br&gt;정부는 또 딥페이크 기술 등 생성형 AI를 활용해 만들어진 영상물에 대해 워터마크 표시를 의무화하고, 딥페이크 음란물 피해자의 신상 정보가 온라인에 퍼져 있는 경우 이를 삭제할 수 있도록 법적 근거를 마련하기로 했다.&lt;br&gt;&lt;br&gt;이런 대책들이 시행되려면 성폭력처벌법과 성폭력방지법, 정보통신망법 등이 개정돼야 한다. 정부는 관련 법 개정안들이 국회에 발의돼 있는 만큼, 이런 법안들이 신속하게 통과될 수 있도록 국회와 협력하겠다고 밝혔다. 또 경찰의 위장 수사 범위 확대를 위한 성폭력처벌법 개정안을 조속히 추진하기로 했다.&lt;br&gt;&lt;br&gt;정부는 또 딥페이크 성범죄 피해자들이 쉽게 신고하고 필요한 지원을 받을 수 있도록 부처별로 운영 중인 신고 접수 방법을 통합해 안내하고, 허위 영상물 삭제와 심리 상담, 법률·의료 지원 등을 정부가 직접 하는 방안도 검토하기로 했다.&lt;br&gt;&lt;br&gt;정부는 딥페이크 성범죄가 특히 10대 청소년과 학교에서 빠르게 확산하고 있다고 보고, 교육부 주관으로 학교 내 피해 실태를 파악하기로 했다. 또 학생들이 딥페이크 음란물 제작·유포·시청이 심각한 범죄라는 것을 인식할 수 있도록 학교 내에서 예방 교육을 하기로 했다. 과학기술정보통신부와 방송통신위원회는 딥페이크 음란물 탐지 기술의 추가 상용화를 추진하고, 딥페이크 음란물을 비롯한 불법 영상물의 빠른 차단과 삭제를 위해 정보통신사업자와의 협력을 강화하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“캄보디아 경찰에 신고해라” 납치된 국민 외면한 대사관</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/30/2EI4ORAZXJDBHBM452ITZFQEYI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/30/2EI4ORAZXJDBHBM452ITZFQEYI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Aug 2024 09:21:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OO6THDM3IRE2RHY7VYRWOBYDFE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 세종대로에 위치한 외교부 전경. /이명원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아에서 범죄 조직에 납치를 당한 한국인이 한국 대사관에 도움을 요청했지만 현지 경찰에 신고하라는 안내만 받았다는 주장이 나왔다.&lt;br&gt;&lt;br&gt;30일 KBS 보도에 따르면 자영업을 하고 있는 40대 A씨는 지난 6월 캄보디아에 갔다가 리딩방(주식 종목을 추천하거나 투자 정보를 제공하는 각종 인터넷 대화방) 사기 조직에 감금됐다.&lt;br&gt;&lt;br&gt;A씨는 당시 현지 투자업체에서 계좌 간 이체 한도가 큰 법인통장을 빌려주면 수수료를 주겠다는 제안을 받고 확인차 캄보디아를 방문했다고 한다.&lt;br&gt;&lt;br&gt;그런데 현지 투자업체라는 곳은 중국인 총책이 운영하는 리딩방 조직이었다. A씨는 범죄임을 직감하고 한국으로 돌아가려고 했지만 리딩방 조직원들이 총을 들이대며 위협했다고 한다.&lt;br&gt;&lt;br&gt;A씨는 휴대전화와 여권을 뺏기고 감금됐지만 다행히 숨겨온 휴대전화가 있어 대사관에 구조를 요청했다. 대사관 측 직원은 도움을 요청하는 A씨에게 ‘현지 경찰에 직접 신고하라’고 안내했다고 한다.&lt;br&gt;&lt;br&gt;A씨는 “(대사관 측이) 구글로 번역해서 그걸(신고를) 하라고 했다”며 “걔네가 다 감시하고 있는데 그걸 그 앞에서 내가 신고하고 있느냐”고 분통을 터뜨렸다.&lt;br&gt;&lt;br&gt;결국 A씨는 감시가 소홀한 틈을 타 건물 6층에서 4층 발코니로 뛰어내려 일주일 만에 극적으로 탈출했다.&lt;br&gt;&lt;br&gt;A씨는 우여곡절 끝에 새벽 6시쯤 한국 대사관에 도착했지만 이번엔 근무가 시작된 뒤 들어오라는 답변을 받았다고 주장했다. A씨는 대사관 근무가 시작되는 시간까지 쓰레기 사이에 숨어있었다고 한다.&lt;br&gt;&lt;br&gt;조선닷컴은 이와 관련한 외교부 측의 입장을 청취하기 위해 여러 차례 전화와 문자로 연락을 취해봤지만 구체적인 답변을 듣지 못했다.&lt;br&gt;&lt;br&gt;다만 외교부는 “캄보디아 내 우리 국민 취업사기 및 감금 피해 신고가 전년대비 증가하고 있다”며 “외교부는 우리 국민의 피해 신고 접수시 신속한 사건 해결 및 피해 최소화를 위해 주재국 경찰청, 이민청 등 관계기관과 긴밀히 협조하고 있다”는 원론적인 입장을 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가짜 주식 사이트 만들어 투자금 94억 챙긴 일당 검거</title>
+      <link>https://www.chosun.com/national/incident/2024/08/30/AUHDZYWBNRBUVDOGCJN4DMDNHA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/30/AUHDZYWBNRBUVDOGCJN4DMDNHA/</guid>
+      <dc:creator>칠곡=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Aug 2024 09:17:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZPGJ26NYNG4QWAZMD2BZFWKBKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;칠곡경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가짜 주식거래 사이트를 운영하면서 투자금 94억원을 받아 가로챈 일당이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경북 칠곡경찰서는 자본시장법 위반 등 혐의로 조직 총책인 40대 남성 A씨 등 5명을 구속 송치하고, 11명을 불구속 송치했다고 30일 밝혔다. &lt;br&gt;&lt;br&gt;A씨 등은 지난 2021년 2월부터 올해 4월까지 가짜 주식거래 사이트 2곳을 운영하면서 650여명에게 모두 94억원을 받아 가로챈 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;가족·친구 등으로 구성된 A씨의 조직은 주식투자가 가능한 것처럼 꾸민 가짜 주식거래 사이트를 만들고, “최대 15배 수익을 거둘 수 있는 레버리지 상품을 제공하겠다”며 회원 가입을 유도해 투자금을 가로챈 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 총책 A씨를 압수수색하는 과정에서 현금 5500만원을 압수했고, A씨 일당이 소유한 자동차·부동산 등 5억 상당의 금품을 범죄 수익금으로 보고 처분하지 못하도록 기소 전 추징보전 조치했다. 경찰 관계자는 “공범과 여죄를 계속 수사해 투자 리딩방 사기 범죄에 엄정 대응할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인공지능 시대 교육 통찰 담아… ‘교육철학 및 교육사’ 출간</title>
+      <link>https://www.chosun.com/national/regional/2024/08/30/ZOLK35D73RA73AT7L737KZRQEM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/30/ZOLK35D73RA73AT7L737KZRQEM/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Aug 2024 09:01:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LR2HC6DXBNCHHB6BD274UTZ5G4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 출간되는 '교육철학 및 교육사' 표지./서울과학기술대학교&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘정권과 정책이 바뀌어도 한국의 교육은 유독 제자리걸음이다. 철학이 없는 교육, 혼이 빠진 교육, 입시경쟁이라는 교육의 비본질(도구적 가치)이 본질을 압도해 생긴 문제이다.’&lt;br&gt;&lt;br&gt;인공지능(AI) 시대를 맞아 이러한 교육철학적 통찰을 담은 책 ‘교육철학 및 교육사(출판사 ‘공동체’)’가 출간된다. 정창호(고려대), 마상룡(한경대), 마은종(단국대), 박주희(서울과학기술대학교) 교수가 공동 집필했다. 저자들은 모두 철학과 교육학을 전공했다.&lt;br&gt;&lt;br&gt;공동저자인 박주희 국립 서울과학기술대 교육혁신원 교수는 30일 “교육학의 기본적 논리와 사고를 책에 충분하게 담았다”며 “교직 이수 필독서로 손색이 없다”고 말했다&lt;br&gt;&lt;br&gt;저자들은 인공지능 시대를 맞아 교육철학이 더 필요하다고 역설한다. 박 교수는 “교육적 문제의식은 교육활동을 주도하는 교사 뿐 아니라 교육을 받는 학생에게도 필요하다”며 “교육의 본질을 회복하고 가르침과 배움을 통해 성장과 자기실현의 기쁨을 맛봐야 한다”고 말했다.&lt;br&gt;&lt;br&gt;이 책은 챕터 끝에 중요한 교육철학적 질문을 던지며 깊은 사유를 이끌어 낸다. 박 교수는 “인공지능 시대 한국 교육의 고질적인 문제를 해결하기 위해 교육철학과 교육사 분야에서 오래 연구한 권위자들이 손을 잡았다”며 “교육철학과 교육사를 이해하는 데 큰 도움이 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/LR2HC6DXBNCHHB6BD274UTZ5G4.jpg?width=562&amp;height=761&amp;auth=ba954ee06cbaf2e00debba1f056bcde4c6dd2a0d35f17da079bb16fe46d55a02&amp;smart=true" type="image/jpeg" height="761" width="562">
+        <media:description type="plain">31일 출간되는 '교육철학 및 교육사' 표지./서울과학기술대학교</media:description>
+        <media:credit role="author" scheme="urn:ebu">서울과학기술대학교</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>친할머니 살해한 20대 남매 ‘징역 15년’</title>
+      <link>https://www.chosun.com/national/regional/2024/08/30/4PIVDRX7GBGDXCYEONZM63SCLY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/30/4PIVDRX7GBGDXCYEONZM63SCLY/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Aug 2024 08:34:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EXNWRC62PCOT6MSPS2LGMYQQTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산지법 동부지원 입구. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 설 연휴 부산에서 친할머니를 살해한 혐의로 재판에 넘겨진 20대 남매에게 징역 15년이 선고됐다.&lt;br&gt;&lt;br&gt;부산지법 동부지원 형사1부(재판장 이동기)는 존속 살해 혐의로 기소된 남매에 대해 각각 징역 15년을 선고했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;남동생 A씨는 설 연휴인 지난 2월 9일 부산에 있는 친할머니의 집을 찾아가 할머니를 폭행해 살해한 혐의로 재판에 넘겨졌다. A씨는 할머니와 말다툼하다가 머리를 벽면에 부딪히게 하는 등 여러 차례 폭행하고 질식사하게 한 혐의를 받았다.&lt;br&gt;&lt;br&gt;누나인 B씨는 당시 사건 현장에는 없었지만 공범으로 재판에 넘겨졌다. 검찰은 B씨가 지적장애 2급인 남동생이 친할머니를 살해하고 싶다고 말하자 여러 살해 방법을 제시하며 범행 동기를 강화했고, 사고사 등으로 위장하는 방법을 설명하는 등 함께 살인을 수행한 것이나 다름없다고 판단해 기소했다.&lt;br&gt;&lt;br&gt;검찰의 공소 사실에 따르면 A씨는 어린 시절 부모가 이혼해 누나 B씨, 아버지와 함께 살다가 2016년 7월 아버지가 사망하자 경기도에서 혼자 살았다고 한다. 범행 동기는 장애인 연금과 기초생활수급자 급여를 할머니가 관리하는 데 대한 불만으로 알려졌다.&lt;br&gt;&lt;br&gt;재판부는 “동생이 할머니를 죽이고 싶다고 말하자 누나가 지난해 12월부터 올해 1월까지 할머니를 살해하기 위한 방법으로 납 가루 중독, 곰팡이를 먹이는 방법을 말하고, 실제로 곰팡이를 배양하기도 했다”면서 “자신을 믿고 의지하던 동생에게 정신적으로 살해 계획을 강화하고 사고사로 위장하는 방법을 알려주는 등 범행에 이르게 했다는 점에서 기능적으로 행위 지배를 한 것으로 보인다”고 판단했다.&lt;br&gt;&lt;br&gt;B씨는 동생이 설 연휴 부산으로 내려가기 전 기차역에서 동생을 말렸다며 혐의를 부인하기도 했으나 재판부는 “한두 번 피고인을 말렸다고 해서 범죄 실행이 단절되지 않았고, 평소 계속된 심리적 강화와 지배에 의해 이 사건 범행에 이르렀다”며 주장을 받아들이지 않았다.&lt;br&gt;&lt;br&gt;재판부는 “동생은 지적장애로 정신적 어려움을 겪었고, 피해자의 엄격한 경제적 통제로 두 차례 자살을 시도할 정도로 어려움이 있었던 것은 유리한 정상으로 참작했다”면서도 “사람의 생명을 빼앗는 행위는 어떠한 방법으로도 변명할 수 없고 살해 과정에서 피해자가 극심한 정신적 신체적 고통을 느꼈을 것으로 보여 죄책을 묻지 않을 수 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘아동학대 혐의’ 손웅정 감독·손흥윤 코치 ‘약식기소’</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/30/VT3OGBYG6RCFHG23UFU3OO5UPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/30/VT3OGBYG6RCFHG23UFU3OO5UPU/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>손흥민의 아버지 손웅정 감독이 운영하는 ‘SON축구아카데미’에서 발생한 아동학대 사건과 관련해 검찰이 손 감독과 코치 2명을 약식기소했다.춘천지검 형사1부(부장 오세문)는 아동복지법위반(아동학대) 혐의로 입건된 손 감독과 손흥민의 형 손흥윤 수석코치, A코치 등 3명을 약식기소했다고 30일 밝혔다.</description>
+      <pubDate>Fri, 30 Aug 2024 08:29:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMM5HK7AGAUGGGS4RWT5SKJCDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;축구선수 손흥민의 아버지인 손웅정 SON축구아카데미 감독이 지난 6월 서울 강남구 코엑스에서 열린 2024 서울국제도서전에서 사인회를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;손흥민 선수의 아버지 손웅정 감독이 운영하는 ‘SON축구아카데미’에서 발생한 아동학대 사건과 관련해 검찰이 손 감독과 코치 2명을 약식기소했다.&lt;br&gt;&lt;br&gt;춘천지검 형사1부(부장 오세문)는 아동복지법 위반(아동학대) 혐의로 입건된 손 감독과 손흥민의 형 손흥윤 수석코치, A코치 등 3명을 약식기소했다고 30일 밝혔다. 약식기소는 비교적 가벼운 혐의에 대해 공판을 열지 않고 서면 심리로 재판해 달라고 청구하는 일종의 ‘간이기소’다.&lt;br&gt;&lt;br&gt;손 감독 등은 이 아카데미를 다녔던 중학생 C군을 학대한 혐의를 받고 있다. C군은 지난 3월 일본 오키나와 전지훈련 중 손흥윤 코치로부터 폭행을 당했고, 작년 11월 이후 손 감독 등으로부터 훈련과 경기 중 실수를 했다는 이유로 심한 욕설을 들었다며 이들을 아동학대 혐의로 고소했다.&lt;br&gt;&lt;br&gt;손 감독은 이 문제가 불거지자 “마음의 상처를 받은 아이와 가족들께 깊은 사과의 뜻을 전한다”며 “제 모든 것을 걸고 맹세컨대 아카데미 지도자들의 행동에 있어서 아이들에 대한 사랑이 전제되지 않은 언행은 없었다”고 입장을 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>올 4~6월 사망자 1.1% 증가 그쳐… 정부 “비상진료 체제 효과”, 의료계 “남은 의사 희생”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/08/30/DECXZCTTEZDKLC3ZDM3PFWHIVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/30/DECXZCTTEZDKLC3ZDM3PFWHIVU/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Aug 2024 08:12:26 +0000</pubDate>
+      <content:encoded>지난 2월 전공의 1만여명이 의대 증원 방침에 반발해 집단 이탈한 뒤 제때 치료를 못 받아 사망하는 환자가 늘어날 것이란 우려가 제기됐지만 실제 사망률 증가는 미미한 수준에 그친 것으로 나타났다. 정부 내에선 “비상 진료 시스템이 잘 작동한 결과”라는 분석이 나오지만, 의료계에선 “필수진료과 전문의들이 당직을 서며 현장을 지킨 결과”라는 상반된 해석이 나온다.&lt;br&gt;&lt;br&gt;29일 통계청 인구 동향에 따르면 올해 2분기(4~6월) 사망자 수는 8만4147명으로 전년 동기 대비 912명(1.1%) 증가했다. 통계적으로 유의미한 증가 수치는 아니라는 게 학계의 대체적 견해다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UCOWQZYWNJMNPFBK4M73BPHKNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 30일 서울 시내의 한 대학 병원에서 한 환자 뒤로 의료진들이 이동하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올 4월 사망자 수는 2만8659명으로 전년 동월 대비 1112명(4%) 증가했지만, 다음 달인 5월은 2만8546명으로 339명 감소했다. 6월 사망자 수는 2만6942명으로 139명(0.5%) 늘어나는 등 2분기 사망자 수는 증감을 반복했다. 전공의들이 병원을 떠난 직후인 3월 사망자 수는 3만1160명으로 전년동월 대비 2205명(7.6%) 늘었다.&lt;br&gt;&lt;br&gt;지난 2월 20일 전후로 전공의들이 한꺼번에 병원을 떠나자 각 병원은 의사 부족을 이유로 환자 수를 조절했다. 수술과 입원이 반 토막 났다. 이로 인해 ‘진료 적체’에 시달리는 환자들이 ‘초과 사망’(정상적인 조건에서 기대되는 사망자 수를 초과하는 사망자)할 것이란 우려가 있었다. 특히 전공의 이탈로 시작된 ‘의료 파행’의 부작용이 1~2개월 뒤인 올 2분기에 본격적으로 나타날 것이란 관측이 있었다. 그런데 의료 파행 속에서도 올 2분기의 사망자 수는 전년과 별반 차이가 없는 것으로 나타난 것이다.&lt;br&gt;&lt;br&gt;정부는 이를 전공의 이탈 직후 중증·응급 환자를 우선시 하는 비상 진료 체계를 강화한 결과로 보고 있다. 정부는 전공의 이탈 후 군의관과 공보의를 인력이 달리는 병원에 투입했고, 대형 병원들이 전문의를 채용하면 인건비를 지원해왔다. 정부 관계자는 “중증·응급 환자가 병원에 들어오는 첫 관문인 응급실에서 근무하는 전문의들의 진찰료도 지난 2월부터 곧바로 2배로 인상했다”고 했다. 수술실 등에서 집도의를 도와 삽관·봉합 등 일부 의사 업무를 했던 진료지원(PA) 간호사를 시범 사업 형태로 양성화 해 본격 투입한 것도 실효성이 있었다는 지적이다.&lt;br&gt;&lt;br&gt;하지만 의료계 해석은 다르다. 전공의 이탈 후 남은 전문의들이 돌아가며 당직을 서는 등 ‘초과 근무’를 한 결과라는 것이다. 수도권 대형병원 응급의학과 교수는 “지금까지 간신히 버텨온 것이다. 앞으로 남은 의사들의 피로는 점점 심해질 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세]  9월 1일 일요일 (음력 7월 29일 戊辰)</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/30/XREEOKLY3VGAVLPQPZHXIYDRYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/30/XREEOKLY3VGAVLPQPZHXIYDRYY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Aug 2024 08:10:00 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 위기라고 생각될 때가 반전 기회. 48년생 명예 손상 염려되니 자중자애하라. 60년생 긴 안목에서 보면 지금 이 순간은 찰나에 불과. 72년생 변화 시기니 주저 말고 변화하라. 84년생 단조롭고 간편하게 줄일수록 좋다. 96년생 꼼꼼하고 깔끔한 마무리 필요.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 구름에 달 가듯 살아가라. 49년생 질투 심하면 손해도 크다. 61년생 자녀나 아랫사람 일로 번거로운 일 발생. 73년생 부자는 활황기보다 불황기에 자산 키운다. 85년생 기회는 남들이 포기할 때 오는 법. 97년생 먼저는 근심스럽고 뒤에는 평안.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 실행 전 한 번 더 생각하라. 50년생 주변 협조가 수월하지 않을 듯. 62년생 시운 도래하니 범사 순조롭다. 74년생 재물 기운은 약한 편이니 욕심 부리지 마라. 86년생 시작 좋으나 나중이 불안한 하루. 98년생 도움 주겠다고 말한 사람을 조심.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 더디긴 해도 되기는 된다. 39년생 큰소리쳐야 옳은 건 아니다. 51년생 동료와 오랜만에 대포 한잔. 63년생 넓고도 좁은 게 세상. 75년생 성(城) 쌓고 남은 돌 신세. 87년생 수박은 속을 봐야 사람은 겪어 봐야 안다. 99년생 기쁨과 근심은 동전 양면.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 주변 상황에 과민 반응 할 것 없다. 40년생 때론 말할 수 없는 게 진실. 52년생 숫자 3, 8과 푸른색은 피하라. 64년생 능수능란한 처세가 꼭 좋은 건 아니다. 76년생 용기는 위기 순간에 필요. 88년생 오리(五里)를 보고 십리 길 가라. 00년생 경험과 연륜은 못 속이는 법.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 서쪽에 서기 감돈다. 41년생 너그러워야 사람 따르는 법. 53년생 잰걸음으로 부지런히 서둘러야. 65년생 살아 있는 오동나무는 거문고 못 된다. 77년생 실물수 있으니 보관 철저히. 89년생 주도하지 말고 따라가는 게 상책. 01년생 오늘을 사는 의미를 되새겨보도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 뜻밖의 횡재수 있을 수도. 42년생 차별과 분별은 엄연히 다른 것. 54년생 밝은 달이 구름 속에 숨으니 한 치 앞도 어둡다. 66년생 유별나게 굴 것 없다. 78년생 감내하다 보면 알아줄 날 있다. 90년생 도둑맞으려면 개도 안 짖는다더니. 02년생 과장 말고 있는 그대로.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 편협하지 않은 넓은 대인 관계를 갖도록. 43년생 상대의 장점만 보고 가라. 55년생 불뚝 성질이 일을 그릇 칠 수도. 67년생 뜻 있는 곳에 길 있다. 79년생 괜한 자신감으로 소탐대실. 91년생 추락한 것은 반드시 오른다. 03년생 만족 아는 것이야말로 행복의 시작.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 이래도 하루 저래도 하루. 44년생 편법 통한 사태 해결은 후환 남기는 법. 56년생 타인 시선보다 자기 속내가 중요. 68년생 있는 전력 모조리 쓰지 마라. 80년생 천박함에서 오는 무례는 경멸을 초래. 92년생 약삭 빠른 처신이 미움 살 수도. 04년생 어떠한 판단에도 극단적 선택은 피하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 벼락치기 하듯 해서 되겠나. 45년생 거짓말은 반 마디도 많다. 57년생 통찰력과 예지력 갖추도록. 69년생 뜻밖의 귀인 나타날 수도. 81년생 지나친 인내는 울화병 된다. 93년생 약간 손해 보더라도 원만한 갈등 해결 필요.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 일단락된 줄 알았던 일에 재손질 필요. 46년생 잊어야 할 건 빨리 잊도록. 58년생 내일을 전망하면서 오늘을 살도록. 70년생 겸손한 마음과 낮은 자세 유지하라. 82년생 자리를 옮기는 것도 한 방편. 94년생 자존심 과하면 자만심 생길 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 주위 시선에 개의치 마라. 47년생 처음부터 만족할 수 있나. 59년생 주거 안정이 실현되는 시기. 71년생 과정의 어려움 있지만 결과는 기대 이상. 83년생 벼룩 잡으려다 초가삼간 태우는 짓은 말아야. 95년생 감정 절제하고 사태 직시하라.	&lt;br&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>지하철 몰며 겜방 본 기관사...’공포의 운행 사진’ 사실이었다</title>
       <link>https://www.chosun.com/national/national_general/2024/08/30/K435PR2TXBCIRBRY5AZTDRYA3Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/30/K435PR2TXBCIRBRY5AZTDRYA3Y/</guid>
@@ -758,51 +882,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CXIXMTHTZOKI5HANH2XDIHQYNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 양천구 양천경찰서의 모습. 2020.1.6/뉴스1 ⓒ News1 이동해 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 1조4000억원 가상자산(코인) 사기 사건을 저지른 혐의로 재판을 받던 가상자산예치서비스 업체 하루인베스트 대표 이모씨에게 법정에서 흉기를 휘두른 50대 남성에 대해 29일 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;서울 양천경찰서는 이날 살인미수 혐의로 50대 남성 A씨에 대한 구속영장을 신청했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 전날 오후 2시 26분쯤 서울남부지법 법정에서 방청 중 피고인석에 앉아 있다가 재판을 받던 이씨에 달려들어 그의 목 부위를 수차례 흉기로 찌른 혐의를 받는다. 이씨는 피습 직후 병원으로 이송돼 치료를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 하루인베스트 가상자산 사기 사건의 피해자인 것으로 전해졌다. 경찰은 “A씨가 출금 중단에 따른 손해에 불만을 품고 범행을 했다는 취지로 진술하고 있다”며 “사실 여부를 계속 확인 중”이라고 했다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 범행에 사용한 흉기가 집에서 사용하던 칼인 과도라고 진술한 것으로 전해졌다. 경찰은 “해당 과도는 현재까지 금속성 재질로 추정되지만, 제조사 등을 통해 정확한 제원을 확인해봐야 한다”고 했다. 금속 재질의 과도가 금속 탐지 기능이 있는 법정 보안검색대를 통과한 데에 대해 일각에서는 법원의 보안 체계에 구멍이 뚫렸다는 지적도 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>인천 산곡역 인근서 버스 등 5중 추돌… 승객 등 18명 부상</title>
-      <link>https://www.chosun.com/national/incident/2024/08/29/EGNYBDHUW5EW7NXPAIV3PVF264/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/29/EGNYBDHUW5EW7NXPAIV3PVF264/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description>29일 오후 6시 21분쯤 인천시 부평구 산곡역 인근 도로에서 버스와 승용차, 1t트럭 등 차량 3대가 잇따라 충돌했다.</description>
-      <pubDate>Thu, 29 Aug 2024 11:24:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P5T2QUQGCZQ4SFNEVOWCMMS2CA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급차량. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 오후 6시 21분쯤 인천시 부평구 산곡역 인근 도로에서 버스와 승용차, 1t트럭 등 차량 5대가 잇따라 추돌했다. 이 사고로 트럭 운전자와 버스 승객 등 18명이 다쳐 인근 병원으로 옮겨졌다. 소방 당국 도착 당시 버스 승객 17명은 스스로 하차한 상태였으며, 트럭 운전자는 중상인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 목격자 등을 상대로 정확한 사고 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>31년 만에 KBS 떠나는 황정민 아나운서, 마지막 생방송 중 눈물</title>
-      <link>https://www.chosun.com/national/people/2024/08/29/F53CVTH7Y5GGLP4XOPWFBVESWY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/29/F53CVTH7Y5GGLP4XOPWFBVESWY/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Aug 2024 11:32:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F5WXD6W6GNFZFFGK452JUAGFYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31년간 몸담았던 KBS를 퇴사하는 황정민 아나운서. / KBS 라디오 '황정민의 뮤직쇼' 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;KBS 입사 31년 만에 회사를 떠나게 된 황정민(53) 아나운서가 마지막 생방송에서 눈물을 보였다.&lt;br&gt;&lt;br&gt;황 아나운서는 29일 오후 KBS 라디오 ‘황정민의 뮤직쇼’에서 31년간 몸담은 직장을 떠나는 소회와 청취자를 향한 감사 인사를 전했다. 이날 방송은 오는 31일 자로 퇴사하는 그의 마지막 생방송이다. ‘황정민의 뮤직쇼’는 녹음분인 주말 방송을 끝으로 9월 1일 폐지된다.&lt;br&gt;&lt;br&gt;황 아나운서는 “가끔 제 손을 보면서 ‘손이 참 짧다’ ‘너무 안 예쁘다’ ‘반지 껴도 안 어울리겠다’ ‘일복이 많게 생겼다’는 생각을 했다”며 “실제로 일도 많았고 열심히 했다. 근데 일복만 있는 건 아니었다. 저를 이 시간까지 올 수 있게 이끌어준 건 일을 통해 만난 정말 좋은 사람들. 인복이었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “오늘 마지막 생방송에서 어떤 멋진 말을 해야 할지 고민하고 생각했는데 딱 이 마음이더라”며 “매일 수많은 청취자를 만나고 얘기를 나눌 수 있어 너무 즐거웠고 행복했다. 청취자들이 제게 가장 큰 복이었다”고 말했다. 그러면서 “저의 방송을 함께 해주셨던 모든 분이 저를 즐겁고 행복한 사람으로 기억해 주셨으면 좋겠다”며 눈물을 보였다.&lt;br&gt;&lt;br&gt;방송 중엔 황 아나운서 자녀들의 깜짝 음성 편지도 공개됐다. 황 아나운서의 아들과 딸은 “오늘 마지막이라고 들었는데 저도 예전에 ‘뮤직쇼’에 나가 퀴즈를 냈던 게 기억에 남는다. 엄마가 라디오 하는 걸 듣고 보면 새롭고 신기하고 반가웠는데 마지막이라고 하니 엄마 기분도 궁금하다”며 “30년간 방송하느라 수고했다. 마지막까지 잘하고, 그동안 못 했던 거 다 했으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;황 아나운서는 1993년 KBS 19기 공채 아나운서로 입사해 ‘VJ 특공대’ ‘도전! 지구탐험대’ 등 KBS 간판 프로그램을 진행했다. 1998년부터 2017년까지 KBS 라디오 ‘황정민의 FM대행진’을 맡았고 2020년부터 ‘황정민의 뮤직쇼’를 이끌어 왔다. 최근 KBS에 특별명예퇴직을 신청하며 31년간의 회사 생활을 끝내게 됐다.&lt;br&gt;&lt;br&gt;한편 KBS는 올해 1월 있었던 1차에 이어 지난 20일까지 제2차 특별명예퇴직·희망퇴직을 실시했다. 신청자는 약 30명으로 알려졌으며, 20년 이상 근속자를 대상으로 한 특별명예퇴직 명단엔 2003년 입사해 KBS 간판 스포츠 캐스터로 활약한 이광용 아나운서도 포함됐다.&lt;br&gt;&lt;br&gt;KBS는 이번 절차를 통해 적자로 인한 경영 악화와 TV 수신료 분리 징수 이후 경영난을 극복하겠다는 방침이다. KBS는 올해 종합예산안에서 수신료 수입이 작년보다 2600억 원가량 급감해 적자가 1431억 원에 이를 것으로 전망하며, 인건비 1101억 원을 줄이기로 했다. 내달부턴 1973년 공사 창립 이래 처음으로 무급휴직도 추진한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘법정 흉기 피습’에 법원행정처장, 법원 보안 강화 지시</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/29/TNFGGNAVOJABBN5SSYB2PL6QG4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/29/TNFGGNAVOJABBN5SSYB2PL6QG4/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Aug 2024 10:17:18 +0000</pubDate>
-      <content:encoded>재판을 받던 피고인이 법정에서 흉기에 피습당하는 일이 발생하자 대법원 법원행정처가 법원 보안 강화에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XZAURVTCTES6RRGK7QZE5TNIVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 마크/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 법조계에 따르면, 천대엽 법원행정처장은 이날 오전 전국 지방법원과 상급심 법원에 “법정과 청사 보안을 강화하라”는 취지의 공문을 보냈다.&lt;br&gt;&lt;br&gt;법원행정처장은 공문을 통해 “최근 법정 내에서 흉기난동 등 사례가 발생하고 있고 모방 사고 발생 우려가 높아 보안 강화를 강조한다. 예방과 재발방지에 만전을 기해달라”고 지시한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;또 법정 출입 인원 검색을 철저히 할 것과 보안검색절차를 엄격히 준수할 것을 지시하고, 우발상황 발생에 대비해 보안관리대원 근무 수칙을 지킬 것을 당부했다고 한다.&lt;br&gt;&lt;br&gt;보안관리대원이 유사 상황 발생 시 대응할 수 있도록 가스분사기, 삼단봉 등을 필수로 휴대하고, 보안관리 대원 장비 운용 및 상황 조치 요령을 교육·숙달하라 했다고 전해진다.&lt;br&gt;&lt;br&gt;이는 전날 법정에서 ‘흉기 피습 사건’이 발생한 데 따른 후속 조치다. 지난 28일 서울남부지법에서는 1조4000억원대 가상 자산 사기 사건으로 재판을 받던 하루인베스트 대표가, 법정에서 사기 사건 피해자인 50대 남성에게 흉기 습격을 당했다. 남성은 과도 칼로 피고인의 목 부위를 수차례 찌른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면 흉기를 휘두른 남성은 범행 당일 집에서 쓰던 길이 20cm(칼날 9cm)의 과도를 가방에 넣어 보안검색대를 통과한 뒤 법정에 반입했다고 한다. 법원행정처 관계자는 “사고가 발생한 만큼 법정 보안에 각별히 신경쓰자는 취지”라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘국보법 위반’ 코리아연대 대표, 2심서 징역 2년→1년 6개월 감형</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/29/GQIWBPZI4RDJZBVET3V6MRLV6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/29/GQIWBPZI4RDJZBVET3V6MRLV6Q/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Aug 2024 10:36:07 +0000</pubDate>
-      <content:encoded>이적 단체 ‘자주통일과 민주주의를 위한 코리아연대(코리아연대)’에서 활동하며 국가보안법 위반 혐의로 1심에서 징역 2년을 받은 공동대표가 항소심에서 형이 줄었다. 처벌 전력이 없고 초범인 점 등을 고려한 것으로 보인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYW56QFHN5ASRDOAYV7U5TDR6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사2부(재판장 설범식)는 29일 국가보안법 위반 혐의로 기소된 김모(54)씨에게 징역 1년 6개월을 선고했다. 앞서 1심은 지난 5월 “북한에 대한 무비판적 찬양은 허용되기 어렵다”며 징역 2년을 선고했다.&lt;br&gt;&lt;br&gt;김씨는 2013년 4월 코리아연대에 가입한 뒤 2016년 4월까지 수차례에 걸쳐 북한 핵실험을 옹호하고 한미 연합 훈련 중단, 주한미군 철수, 국가보안법 철폐 등을 주장한 혐의(이적 단체 구성, 찬양·고무 등)를 받고 있다.&lt;br&gt;&lt;br&gt;재판 과정에서 김씨는 “북한은 반국가 단체가 아니며 코리아연대 역시 이적단체가 아니다”라는 취지로 무죄를 주장했다.&lt;br&gt;&lt;br&gt;하지만 1심에 이어 2심도 김씨의 주장을 받아들이지 않았다. 재판부는 “북한은 조국의 평화적 통일을 위한 대화와 협력의 동반자지만, 여전히 적화통일을 고수하면서 우리나라 체제를 전복하고자 획책하는 반국가단체 성격도 아울러 가진다”며 “코리아연대는 반국가단체로서 북한을 무비판적으로 옹호하고 북한을 추종했다”고 지적했다. 이어 “김씨는 이적 단체인 코리아연대 공동대표로서 적극 활동했고 피고인의 국가보안법 위반 행위에 대해선 처벌이 불가피하다”고 질타했다.&lt;br&gt;&lt;br&gt;다만 재판부는 김씨가 폭력적 수단을 통해 국가 안전이나 기본 질서를 전복할 것을 직접 기도하거나 선전·선동하지는 않은 점, 사회에 미친 영향은 그다지 크지 않은 점, 처벌 전력이 없고 초범인 점 등을 고려해 감형했다고 밝혔다.&lt;br&gt;&lt;br&gt;이 사건은 국보법 위반 사범의 ‘재판 지연 전술’이 통한 대표적 사례로 통한다.&lt;br&gt;&lt;br&gt;김씨는 1심 첫 재판이 열리기 하루 전인 2020년 11월 재판부에 위헌심판제청을 신청했는데 재판부가 받아들이지 않자, 김씨는 당시 “헌법재판소가 국가보안법 7조의 위헌 여부를 이미 심리하고 있으니 헌재 판단이 나올 때까지 재판을 미뤄 달라”고 요청했다. 재판부는 결국 이를 받아들였고, 2022년 12월 23일 이후 재판은 멈췄다.&lt;br&gt;&lt;br&gt;헌재가 작년 9월 이 법 조항에 대해 합헌 결정을 내리자 1심 재판은 지난 4월 15일에야 재개됐고 5월 31일에 1심 판단이 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김동연, 이종찬 광복회장 만나 “경기도립 독립기념관 추진하겠다”</title>
-      <link>https://www.chosun.com/national/regional/2024/08/29/VQ5MEE7NJBEJLF7YPJ7QGKYTSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/29/VQ5MEE7NJBEJLF7YPJ7QGKYTSU/</guid>
-      <dc:creator>수원=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Aug 2024 10:28:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JBXLSDUBPBPBRKOEH6A3WUNFWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오후 서울 광복회 사무실에서 김동연 경기도지사가 이종찬 광복회장을 만나 기념 촬영을 하고 있다. /경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김동연 경기도지사가 29일 ‘경기도립 독립기념관’ 건립 사업을 추진하겠다는 뜻을 밝혔다.&lt;br&gt;&lt;br&gt;김 지사는 이날 서울 광복회 사무실에서 이종찬 광복회장을 만나 이같이 말했다고 강민석 경기도 대변인이 전했다.&lt;br&gt;&lt;br&gt;김 지사는 이 자리에서 “최근 쪼개진 광복절 행사를 보면서 안타까웠다. 그럼에도 이종찬 회장님이 나라의 어른으로서 중심을 잡아주시고 올바른 길을 제시해 주셔서 든든했다. 광복회장님의 올바른 역사관과 소신 있는 말씀에 깊이 감사드린다. 경기도가 제대로 된 역사를 만들고, 독립운동을 선양하는 데 앞장서겠다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;이에 대해 이 회장은 “대단히 의미 있는 일로 광복회의 큰 힘이 된다”며 “광복회 안에 경기도 독립기념관 건립추진위원회(가칭)를 만들어 입지 등을 경기도에 건의하겠다”고 화답했다고 강 대변인은 전했다.&lt;br&gt;&lt;br&gt;또 배석했던 광복회 간부들도 “천안의 독립기념관이 수도권에서는 너무 멀어서 접근성이 떨어지는 만큼 수도권에 최초로 독립기념관이 만들어진다면 명실상부한 대한민국의 독립기념관으로서 큰 의미가 있을 것”이라면서 환영의 뜻을 나타냈다. 한 간부는 “천안 독립기념관에는 역사를 왜곡해 온 독립관장이 들어왔기 때문에 새로운 독립기념관이 더욱 의미가 있다”고 했다고 한다.&lt;br&gt;&lt;br&gt;김 지사는 “이 참에 제대로 중심을 잡을 수 있도록, 역사적 기틀을 만들겠다. 저희가 적극적으로 광복회 곁에서 함께 하겠다”고 재차 강조했다.&lt;br&gt;&lt;br&gt;김 지사의 이날 발언을 두고 강 대변인은 “김 지사는 무장투쟁, 독립의·열사 외에도 예술·언론·교육 등의 분야에서 그동안 조명되지 않았던 다양한 독립운동과 유공자를 찾아내 선양하겠다는 생각을 갖고 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;김 지사는 지난 광복절 경기도 경축식에서도 광복회의 정부 경축식 불참을 거론하면서 “한두 달 전에 이종찬 회장님께서 수원을 일부러 오셔서 함께 점심을 했다”, “며칠 전에는 전화통화를 하면서 최근에 있는 상황에 대해서 의견을 교환하기도 했고, 회장님께서는 ‘일본 우익과 내통해 전전(戰前) 일본과 같이 가고 있다는 위기감이 든다’고 하면서 정부 주최 경축식에 불참하신다고 하셨다”고 언급하기도 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘티메프 여파’ 테이블엔조이도 기업회생 신청…법원, 자산·채권 동결</title>
       <link>https://www.chosun.com/national/court_law/2024/08/29/42EJOOY3FNGERJJNCALQESE7SI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/29/42EJOOY3FNGERJJNCALQESE7SI/</guid>
@@ -819,33 +898,6 @@
       <description/>
       <pubDate>Thu, 29 Aug 2024 08:39:09 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKPU66JR2ZACLDQI47NNRQYETM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가출한 여성들을 폭행·협박해 성매매를 강요하는 등 방식으로 총 3억 4600여 만원을 갈취한 20대 4명이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;대구 중부경찰서는 성매매 처벌법 위반 등 혐의로 20대인 여성 A씨와 그 남편, A씨의 내연남 2명을 검찰에 구속 송치했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 2022년 9월부터 올해 4월까지 대구 중구, 북구 일대 아파트에서 20대 여성 B씨와 C씨에게 성매매를 강요해 대금 1억 5000만원을 갈취한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨 등은 식당에서 일하던 B씨, C씨와 친분을 쌓은 뒤, 이들의 경제적 사정이 어려운 점을 이용해 “숙식을 제공해줄 테니 집에 와서 일 좀 해달라”고 했다. 이후 B씨 등이 A씨 집으로 오자, A씨 등은 이들을 협박·폭행하며 성매매를 강요했다.&lt;br&gt;&lt;br&gt;1년 7개월간 B씨 등 2명은 총 1500회에 달하는 성매매를 한 것으로 조사됐다. 성매매 대금으로는 회당 10만~20만원을 받았고, 하루 30만~50만원 규모의 ‘일당’을 채우지 못하면 폭행을 당했다고 한다.&lt;br&gt;&lt;br&gt;A씨 등은 B씨와 C씨가 도망치지 못하도록 일거수일투족을 감시했다. A씨 등은 또 B씨의 아버지에게 전화를 걸어 “딸의 도박 빚을 갚으라”고 협박해 8000만원을, B씨의 복막염 치료비 등으로 1600만원을 뜯어냈다.&lt;br&gt;&lt;br&gt;A씨 주거지로 오면서 3살 된 딸을 데려온 C씨의 경우, 딸이 인질이 됐다. A씨 일당은 C씨에게 “도망치면 니 딸을 고아원으로 보내겠다”고 협박했고, A씨는 혹시라도 모녀가 함께 도망치지 못하도록 밤마다 C씨의 딸과 함께 잠들었다고 한다.&lt;br&gt;&lt;br&gt;A씨는 또 자신의 내연남 2명이 B씨, C씨와 각각 혼인신고를 하게한 뒤, 신혼부부 전세 자금 대출로 1억원을 받아낸 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;이 사건은 경찰이 “성매매와 폭행이 이뤄지는 것 같다”는 첩보를 토대로 수사하던 중, 때마침 감시가 소홀한 틈을 타 탈출한 B씨와 접촉하며 알려졌다. 경찰은 수사를 통해 A씨를 주범으로 보고 A씨와 남편, 내연남 등 4을 모두 구속했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “피해 여성들을 모두 부모에게 돌려보냈고, 심리 치료 등을 지원 중”이라며 “A씨의 전세 보증금 1억 5000만원을 범죄 수익금으로 보고 기소 전 추징보전한 상태이며, 특정된 성매수남 20여명에 대한 조사도 진행할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>예초기·벌 쏘임 사고는 절반 이상이 8~9월에 발생</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/29/HGZWNNEC2BAULI36XTIN4VJDOU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/29/HGZWNNEC2BAULI36XTIN4VJDOU/</guid>
-      <dc:creator>김영우 기자, 최원석 인턴기자(대구경북과학기술원 기초학부 졸업)</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Aug 2024 09:12:27 +0000</pubDate>
-      <content:encoded>경기 의정부에 사는 50대 박모씨는 추석 벌초를 앞두고 고민에 빠졌다. 작년에 벌초를 하다 예초기 날에 돌이 튀어 눈을 다쳤기 때문이다. 박씨는 “바로 병원에 가 상처를 입진 않았지만, 대행 서비스라도 이용해야 할지 고민”이라고 했다.&lt;br&gt;&lt;br&gt;추석 연휴를 앞두고 행정안전부가 “벌초를 할 땐 예초기 사용과 벌 쏘임에 주의해달라”고 29일 당부했다. 예초기 사고와 벌 쏘임 사고의 절반 이상이 8~9월에 발생하는 것으로 확인되면서다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PN6BYMNCBZNQDOOZUIRYJSLW3M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;제주 용강동 한 가족묘지를 찾은 후손들이 벌초를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 행안부에 따르면 최근 5년간(2019~2023년) 한국소비자원에 접수된 예초기 안전사고 405건 중 245건(60.5%)이 8~9월에 접수됐다. 10건 중 8건은 예초기 날에 피부가 찢어지거나 베이는 열상·절상이었다.&lt;br&gt;&lt;br&gt;행안부 관계자는 “예초기 날에 직접 상처를 입는 경우도 있지만, 돌이나 나뭇가지가 튀어 사고가 나기도 한다”고 말했다.&lt;br&gt;&lt;br&gt;벌 쏘임 사고 역시 절반 이상이 8~9월에 발생했다. 29일 소방청에 따르면 지난 2021년부터 3년간 발생한 벌 쏘임 사고 1만8640건 중 1만779건(57.8%)이 8~9월에 발생했다. 올해 역시 지난 27일 전남 영암 금정면의 한 산에서 벌초를 하고 있던 A(58)씨가 벌에 쏘인 뒤 호흡곤란 증세를 보여 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;행안부는 예초기 사고와 벌 쏘임 예방을 위해 안전 수칙에 따를 것을 요청했다.&lt;br&gt;&lt;br&gt;행안부에 따르면 예초기 작업 전에는 안전화나 장갑 등 안전 장비와 긴 옷을 입어야 한다. 예초기 작업 반경 15m 안으로 들어가서도 안 된다. 돌이나 나뭇가지 등이 튈 수 있어서다. 칼날에 낀 이물질을 제거할 땐 예초기 전원을 끄고 장갑을 껴야 한다.&lt;br&gt;&lt;br&gt;벌 쏘임 예방을 위해선 흰색 계열의 긴 옷을 입고 향수처럼 향이 강한 화장품은 사용하면 안 된다. 벌집을 발견하면 119에 신고하고, 만약 벌집을 건드렸다면 20m 정도 떨어진 곳으로 즉시 대피해야 한다.&lt;br&gt;&lt;br&gt;행안부 관계자는 “벌에 쏘였다면 쏘인 부위를 깨끗한 물로 씻고 얼음 찜질을 해주는 것이 좋다”며 “과 반응이 나타나면 바로 병원에 가야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>학생 위해 배운 심폐소생술로 생명 구한 대구 교사</title>
-      <link>https://www.chosun.com/national/people/2024/08/29/6K7ORPWQI5HUBHGASINXNVM7LA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/08/29/6K7ORPWQI5HUBHGASINXNVM7LA/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Aug 2024 09:11:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7NNZI747KZB5JNBKOZJTLYL3EU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북대 사대부고 이근우 교사/대구시교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 27일 대구 중구의 경북대 사대부고 교무실에 한 남성이 찾아왔다. 이 남성은 생명과학 담당인 이근우(39) 교사를 찾아 “선생님 덕분에 살았다, 감사하다”며 떡 상자를 내려놓았다.&lt;br&gt;&lt;br&gt;고교 교사가 수학 여행을 앞두고 학생들을 위해 배운 심폐소생술로 쓰러진 시민을 구한 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;29일 대구시교육청에 따르면 지난 7일 교사 이근우씨는 방학을 맞아 배드민턴을 치기 위해 중구의 청라국민체육센터를 찾았다. 한창 운동을 하던 중 이씨는 샤워장 인근에서 사람들이 모여 웅성거리는 소리를 들었다.&lt;br&gt;&lt;br&gt;샤워장에는 한 남성이 쓰러져 있었고, 주변 시민들이 심폐소생술을 시행하거나 119에 신고를 하던 중이었다. 그러나 정확한 흉부 압박이 이뤄지지 않고 있다고 판단한 이씨가 직접 심폐소생술을 시행했다. 맥박이 돌아온 남성은 곧이어 도착한 119 구조대에 이송돼 치료를 받고 무사히 퇴원했다.&lt;br&gt;&lt;br&gt;한동안 묻혀있던 이 선행은 퇴원한 남성이 소방과 병원 등을 통해 은인을 수소문해 감사 인사를 전하며 알려졌다.&lt;br&gt;&lt;br&gt;이 교사는 “학생들을 위해 배운 것들로 생명을 구할 수 있어 교육의 가치를 다시 느낄 수 있었다”며 “당연히 해야 할 일을 했을 뿐”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘오징어게임’ 오영수, 강제 추행 2심 첫 재판서 “형량 과해...영화 줄줄이 하차”</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/29/5ZANOUWDYNGLXJHGETKW56SHTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/29/5ZANOUWDYNGLXJHGETKW56SHTA/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Aug 2024 08:41:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5TO73KS6AXAXYBFHYNHB2FBSOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강제추행 혐의로 기소된 배우 오영수씨(80·본명 오세강)가 지난 3월 15일 오후 경기 수원지방법원 성남지원에서 열린 선고 공판을 마친 뒤 법정을 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강제 추행 혐의로 1심 재판에서 징역형 집행유예를 선고 받은 원로 배우 오영수(80)씨에 대한 항소심 첫 재판이 29일 열렸다.&lt;br&gt;&lt;br&gt;수원지법 형사항소 6-1부(재판장 신우정)는 이날 오후 오씨에 대한 항소심 재판을 열고, “피고인 측에서는 ‘(오씨가)고령이며 초범인 데다, 추행 정도가 중하지 않고 막대한 고통을 받고 있는 사정이 양형에 고려돼야 하며, 형이 과도하고, 영화에서 줄줄이 하차하는 등 심판을 받고 있다’는 입장을 냈다”고 밝혔다. 이에 검찰은 “(피고의)항소 기각 의견”이라고 했다.&lt;br&gt;&lt;br&gt;오씨의 변호인 측은 “좋은 방법은 아니지만, 피해자를 증인으로 부를 수 있다면 불러봤으면 좋겠다”고 했다. 이에 재판부는 “고민할 수 있지만 재판부는 현재로선 부정적”이라며 “피해자의 증언을 다시 듣는다는 건 실무에도 안 맞고, 규칙에도 안 맞는다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 이 사건과 관련해 피해자 여성 A씨의 상담사였던 B씨에 대한 증인신문을 진행해보고, A씨에 대한 증인신문 여부를 결정하겠다고 했다. 이날 A씨는 직접 방청석에서 재판을 지켜봤다.&lt;br&gt;&lt;br&gt;오씨는 지난 2017년 여름 연극 공연을 위해 지방에 머물던 때 산책로에서 A씨를 껴안고, A씨 주거지 앞에서 볼에 입맞춤하는 등 두 차례 강제 추행했다는 혐의로 불구속 기소됐다. 오씨는 수사와 재판 과정에서 혐의를 모두 부인했지만, 지난 3월 1심 법원은 오씨의 혐의에 대해 유죄를 인정하며 그에게 징역 8개월에 집행유예 2년을 선고했다. 검찰과 오씨 측은 이에 불복해 각각 항소했다.&lt;br&gt;&lt;br&gt;오씨는 넷플릭스 오리지널 콘텐츠인 드라마 ‘오징어 게임’에 출연해 ‘깐부 할아버지’로 전세계적인 유명세를 얻었다. 지난 2022년 1월 한국 배우로는 처음으로 미국 골든글로브 TV 부문에서 남우조연상을 받기도 했다. 오씨가 1심에서 유죄를 선고받자, KBS는 방송출연규제심사위원회를 열고, 지난 5월 13일자로 오씨에 대해 ‘출연 정지’ 결정을 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>헌재, 탄소중립법 헌법불합치…“온실가스 감축목표 부족”</title>
@@ -868,15 +920,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/5BSSIUEWA5HHXLRWZU6JGIIL5A.gif?width=462&amp;height=260&amp;auth=f72215d654890670a7f7118e8a3b20ee1156c83c251c343092570fe7d7efd08d&amp;smart=true" type="image/jpeg" height="260" width="462"/>
     </item>
     <item>
-      <title>경찰 사칭해 ‘강남역 칼부림’ 예고 30대男, 2심도 징역형 집유</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/29/ZZ6NFQSIRNCS3P6MX6DVODB4MA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/29/ZZ6NFQSIRNCS3P6MX6DVODB4MA/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Aug 2024 07:19:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UM3PYB7VGUGS5V4BPFUFR5I5WI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청 블라인드에 올라온 살인 예고글&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 직원만 가입할 수 있는 온라인 커뮤니티에 ‘살인 예고’ 글을 올린 30대 남성이 2심에서도 징역형 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;서울동부지법 제1-1형사부(재판장 장찬)는 29일 협박, 위계공무집행 등 혐의로 기소된 김모(32)씨에 대한 선고 공판을 열고 1심과 같은 징역 1년에 집행유예 2년을 선고했다. 재판부는 “새로운 양 자료가 제출된 바 없고, 원심이 너무 가벼워서 부당할 정도는 아니다”고 밝혔다.&lt;br&gt;&lt;br&gt;김씨는 지난 8월 21일 온라인 커뮤니티 ‘블라인드’에 ‘오늘 저녁 강남역 1번 출구에서 칼부림한다’는 제목의 게시글을 올린 혐의로 재판에 넘겨졌다. 이 글은 게시한 지 3분 만에 삭제됐으나 게시물이 캡처 형태로 온라인에 퍼졌고 경찰 수사로 이어졌다.&lt;br&gt;&lt;br&gt;블라인드는 특정 직장 현직임을 인증해야만 직장 게시판에 가입해 글을 올릴 수 있는 만큼 당시 이 글의 작성자가 현직 경찰관일 가능성이 제기됐다. 수사에 나선 경찰이 이튿날 김씨를 서울 소재 자택에서 긴급 체포했다.&lt;br&gt;&lt;br&gt;김씨는 경찰이 아닌 일반 회사원으로, 지난 7월 경찰청 블라인드 계정을 돈 주고 구입한 것으로 파악됐다. 블라인드는 소속 회사 이메일을 통해 인증 절차를 거치는데, 김씨는 허위 이메일 주소를 이용해 만들어진 가짜 계정을 구입해 이용한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>피겨 이해인 “훈련 가서 술‧연애 후회…성추행 누명만 벗고 싶다”</title>
       <link>https://www.chosun.com/national/national_general/2024/08/29/BECXMXQEHNCAFNAF2LSWRIGAUQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/29/BECXMXQEHNCAFNAF2LSWRIGAUQ/</guid>
@@ -893,34 +936,6 @@
       <description/>
       <pubDate>Thu, 29 Aug 2024 05:37:12 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YW5AAKQMNRCKZKO66IN3KA3GGA.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;강원 강릉 주문진 소돌해변/ '소돌해수욕장' 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 강릉시의 한 해변에서 여자친구와 물놀이를 하던 20대 남성이 파도에 휩쓸려 숨졌다.&lt;br&gt;&lt;br&gt;29일 강원도소방본부 등에 따르면, 전날 오후 4시 1쯤 강릉시 주문진읍 주문리 소돌해변에서 “사람이 빠진 것 같다”는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;당시 여자친구와 해변을 찾은 A(24)씨는 튜브를 타던 여자친구가 바다 쪽으로 표류하자 근처로 가서 해변 쪽으로 튜브를 밀어준 뒤 파도에 휩쓸린 것으로 전해졌다. A씨는 튜브를 착용하지 않았다고 한다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 해경은 해변에서 250m가량 떨어진 곳에서 A씨를 10여 분만에 구조했다. 협조 요청을 받은 소방대원은 심정지 상태의 A씨에게 응급처치하며 강릉 아산병원으로 이송했으나 결국 숨졌다.&lt;br&gt;&lt;br&gt;소돌해변은 안전 요원이나 구조장비를 배치할 의무가 없는 비지정 해수욕이다. 강원 동해안의 해수욕장은 지난 18일을 끝으로 대부분 올여름 운영을 마친 상태다. 고성 아야진과 천진해수욕장 2곳은 오는 31일 폐장한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>故 이예람 중사 사건 개입 혐의, 前공군 법무실장 2심도 무죄</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/29/NXCHPKGJ5NDNPHRC72Q4CACLFQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/29/NXCHPKGJ5NDNPHRC72Q4CACLFQ/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Aug 2024 07:01:25 +0000</pubDate>
-      <content:encoded>고(故) 이예람 중사 사건 수사에 불법 개입한 혐의로 재판에 넘겨진 전익수 전 공군본부 법무실장이 1심에 이어 항소심에서도 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/APZGRPEH5NP7PLQUTPZX4QHSCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 이예람 중사 사망 사건 수사에 불법 개입한 혐의로 기소된 전익수 전 공군본부 법무실장이 29일 서울 서초구 서울고등법원에서 열린 항소심 선고기일에 출석하고 있다. /뉴시스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사13부(재판장 백강진)는 특정범죄가중처벌등에관한법률위반(면담강요 등) 혐의로 기소된 전 전 실장에게 29일 무죄를 선고했다. 이날 재판부는 수사기관에 면담강요죄를 적용할 수 없다는 점을 토대로 전 전 실장에게 무죄를 선고하면서도, 그의 행동을 정당화할 수 없다고 질책했다.&lt;br&gt;&lt;br&gt;재판부는 “원심의 일부 판단에 잘못된 점이 있기는 하지만, 법관이 입법에서 의도한 바를 확대 해석해 형사처벌을 할 수 없다는 결론에는 동의할 수밖에 없다”고 밝혔다. 이어 “전씨의 행동은 매우 부적절하고 비난 가능성이 크다”며 “이 행위를 형사적으로 처벌할 수 없다는 것이 그 행위를 정당화하거나 법적으로 정당화돼야 한다는 의미가 아니라는 점은 분명히 다시 말씀드린다”고 강조했다.&lt;br&gt;&lt;br&gt;전 전 실장은 2021년 7월 이예람 사건 관련 보안 정보를 자신에게 전달한 군무원에 대한 구속영장이 청구되자, 영장을 청구한 군 검사에게 전화해 “영장이 잘못됐다”고 추궁한 혐의(면담강요) 등으로 2022년 9월 기소됐다.&lt;br&gt;&lt;br&gt;면담강요죄는 ‘자신 또는 타인의 형사사건 수사·재판과 관련해 필요한 사실을 알고 있는 사람에게 정당한 사유 없이 만나자고 강요하는 경우 성립된다’고 규정돼 있다. 통상 범죄 혐의를 받고 있는 사람이 피해자·증인 등에게 만나달라고 요구하는 경우 적용되는 법이다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 전씨에게 무죄를 선고했다. 1심은 “전 전 실장의 행동이 부적절했으나 군 검사는 범행의 객체가 아니기 때문에 죄형법정주의에 따라 면담강요 혐의를 적용할 수 없다”면서도 “매우 부적절한 행위였음을 분명히 지적해둔다”며 질책했다.&lt;br&gt;&lt;br&gt;2심은 면담강요의 대상을 좁게 해석한 1심의 판단이 잘못됐다고 지적했다. 2심은 “원심은 군 검사와 같이 타인의 사건을 수사·재판하는 사람은 면담강요죄 적용에서 제외돼야 한다고 해석했지만, 일부 잘못된 판단도 있다는 견해”라며 “면담강요죄는 ‘사람’(면담강요 대상)이 누구냐를 구별해서 규정하고 있지 않다”고 했다.&lt;br&gt;&lt;br&gt;이 중사는 2021년 3월 2일 선임 부사관 장모 중사에게 성추행당해 이를 신고했지만 수사가 제대로 이뤄지지 않았고 결국 2차 가해에 시달린 끝에 그해 5월 21일 스스로 목숨을 끊었다.&lt;br&gt;&lt;br&gt;한편 이 중사 사망이 알려지며 공군에 대한 비난 여론이 거세지자, 이를 잠재우기 위해 허위사실과 공무상 비밀을 언론에 누설해 이 중사의 명예를 훼손한 혐의를 받는 당시 공군본부 공보 담당 중령 정모(46)씨도 이날 징역 2년 실형을 선고받았다. 불구속 상태로 재판받던 그는 이날 법정구속됐다.&lt;br&gt;&lt;br&gt;공무상 비밀누설 혐의 등으로 함께 기소된 군무원 양씨는 1심 징역 2년에 집행유예 3년에서 벌금 500만원으로 감형됐다. 재판부는 2021년 6월 성추행 가해자 장 중사 영장실질심사에 참여한 사람들의 인적 사항과 심문내용 등을 전씨에게 누설한 혐의가 직무와 관련성이 없어 이 부분이 무죄라고 판단했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“양해도 없이 매장에 돗자리 깔고 아이들 놀게 해”… 자영업자의 토로</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/29/KFQHUNXOYRDFVAWP23O57YZ5KM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/29/KFQHUNXOYRDFVAWP23O57YZ5KM/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Aug 2024 06:33:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LACQGLIB4ZE27DMKH32QZDVXHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 자영업자가 손님들이 동의도 없이 매장 안에 돗자리 펴고, 그곳에서 아이들을 놀게했다고 토로하며 사진을 첨부했다. /아프니까 사장이다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 자영업자가 손님들이 양해도 구하지 않은 채 매장 안에 돗자리를 펴고, 그곳에서 아이들을 놀게 했다는 사연을 전했다.&lt;br&gt;&lt;br&gt;식당을 운영하는 A씨는 28일 자영업자 ‘아프니까 사장이다’를 통해 “세상엔 다양한 사람이 있다”며 이 같은 사연을 털어놨다.&lt;br&gt;&lt;br&gt;A씨는 “아이 셋, 어머님 셋이 점심 마지막 타임에 오셔서 식사 하시다, 매장 내 사람이 아무도 없으니 돗자리 깔고 아기들 놀게 놔두셨다”며 “양해도 구하지 않았다”고 했다. 그러면서 “계산할 때 ‘소란스러워 죄송하다’ 이런 말도 일언반구 없이 계산만 하셨다. 이런 손님도 손님으로 봐야 하나”라고 했다.&lt;br&gt;&lt;br&gt;이런 A씨 글엔 “세상이 참 특이한 사람들이 많다” “저런 생각을 한다는 것 자체가 이해가 안 된다” “이거 지적하면 또 ‘동네 장사하면서 너무 박하네’ 이럴 것 같다” 등의 댓글이 달렸다. 한 네티즌은 “다음부터는 손님이 계산하고 나갈 때 한마디 하시라”고 조언을 건네기도 했다. 이에 A씨는 “제가 아직 어리다. 새파랗게 어린 사람이 말하면 과연 들을까 싶었다”며 “양해의 말도 없는 사람에게 지적할 가치도 없어 보여 아무말 하지 않았다”고 대댓글을 남겼다.&lt;br&gt;&lt;br&gt;특히 댓글 중에는 ‘이래서 노키즈존이 생기는 것’이라는 취지의 반응이 많았다. “손님이 없어도 당연히 양해를 구해야 하는데... 이러니 자영업자들이 노키즈존을 하지” “본인 영업장도 아니고 남의 가게에서 저게 뭐 하는 짓이냐, 이러니 노키즈존이 자꾸만 늘어나는 거다” 등이다.&lt;br&gt;&lt;br&gt;부모가 업장에서 무례한 행동을 했을 때 노키즈존은 자주 언급되는 주제 중 하나다. 지난 3월에는 제주도의 유명 식당이 아이들을 동반한 손님들의 지나친 요구로 노키즈존을 선언한 사연이 전해졌다. 당시 식당 측은 공지사항을 통해 노키즈존으로 운영하게 된 구체적인 이유 6가지를 밝히면서도, “손녀를 두고 있고 아이를 너무나도 좋아하는 입장으로 향후 노키즈존을 언제 끝낼 수 있을지 항상 고민 중”이라고 했다.&lt;br&gt;&lt;br&gt;한국리서치가 2021년 전국 성인 남녀 1000명을 대상으로 실시한 여론조사에서 노키즈존 찬성 비율은 71%로, 반대에 비해 압도적으로 높았다.&lt;br&gt;&lt;br&gt;이유는 다양했다. 보건복지부가 작년 12월 자영업자 205명을 대상으로 진행한 조사 결과 노키즈존 운영 사유로 ‘아동 안전사고 발생 시 사업주가 전적으로 책임져야 해서’가 68.0%로 가장 많았고, ‘소란스러운 아동으로 인해 다른 손님과 마찰이 생길까 봐’(35.9%), ‘처음부터 조용한 가게 분위기를 원해서’(35.2%), ‘자녀를 잘 돌보지 못하는 부모와 갈등이 생길까 봐’(28.1%) 등이 뒤를 이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘이재명 수사’ 검사 탄핵안, 헌재 전원일치로 기각</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/29/GK7GWOMKNFCLHMKPYLCAURGGGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/29/GK7GWOMKNFCLHMKPYLCAURGGGU/</guid>
-      <dc:creator>이민준 기자, 방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Aug 2024 05:14:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NJAY7NIT7VP6PIE7G42RRTRPQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종석 헌법재판소장을 비롯한 헌법재판관들이 29일 오후 헌법소원·위헌법률 심판이 열린 서울 종로구 헌법재판소 심판정에 입장해 착석하고 있다. 이날 헌재는 비위 의혹 등으로 탄핵소추된 이정섭 대전고검 검사에 대한 탄핵안을 기각했다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 29일 비위 의혹 등으로 탄핵소추된 이정섭(사법연수원 32기) 대전고검 검사에 대한 탄핵안을 기각했다. 탄핵소추로 직무가 정지됐던 이 검사는 즉시 직무에 복귀한다.&lt;br&gt;&lt;br&gt;헌법재판소는 ‘대기업 고위 임원 접대’, ‘처남 마약 수사 무마’ 등 의혹으로 탄핵소추된 이 검사에 대해 재판관 전원 일치 의견으로 기각 결정을 내렸다. 다만 헌재 재판관 2명은 이 검사 탄핵을 기각하면서도 “위법 행위가 있었지만 파면을 정당화하는 사유는 아니다”라는 별개 의견을 냈다.&lt;br&gt;&lt;br&gt;이 검사는 지난해 9월 수원지검 2차장검사로 부임해 특별수사팀장을 맡아 이재명 민주당 대표 관련 수사를 총괄하다가 그해 12월 탄핵소추 당했다. 당시 그는 ‘쌍방울 불법 대북 송금’ 사건, 쌍방울의 이 대표 ‘쪼개기 후원’ 의혹, 이 대표 부부의 법인카드 유용 의혹, 쌍방울의 횡령·배임 등 수사를 담당했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NXBFZ43RVNR7W6PDHURK7Z4HVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이정섭 대전고검 검사가 서울 종로구 헌법재판소에서 열리는 자신에 대한 탄핵 사건 2차 변론기일에 출석하며 취재진의 질문에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주당은 이 검사에 대한 탄핵소추안을 발의하며 지난 2020년 12월 엘리시안강촌 리조트에서 한 대기업 고위 임원에게 접대를 받고, 처남의 마약 사건에 영향력을 행사해 수사를 무마했다는 의혹을 제기했다. 또 처남댁 가사도우미의 전과(범죄경력)를 무단 열람하고, ‘김학의 뇌물’ 재판의 증인을 사전 접촉했다는 주장도 했다. 민주당은 작년 12월 1일 국회에서 이 검사에 대한 탄핵안을 단독으로 의결했다.&lt;br&gt;&lt;br&gt;한편, 이 검사의 비위 의혹에 대한 수사는 검찰과 고위공직자범죄수사처(공수처)에서 각각 진행 중이다. 민주당은 이 검사를 청탁금지법 위반 등 혐의로 작년 11월 검찰과 공수처에 고발했고, 서울중앙지검 형사1부(부장 김승호)는 그달 엘리시안강촌 리조트‧용인CC 등을 압수 수색했다. 작년 12월엔 비위 의혹 제보자로 알려진 처남댁 강미정(조국혁신당 대변인)씨를 불러 조사했고, 지난 4월 처남의 휴대폰을 포렌식한 업체도 압수 수색한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>서울 연희동서 싱크홀 발생해 승용차 빠져… 2명 중상</title>
