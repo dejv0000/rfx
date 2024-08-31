@@ -13,6 +13,102 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경기 가평군 캠핑장에서 30대 남성 숨진 채 발견... 경찰 수사</title>
+      <link>https://www.chosun.com/national/incident/2024/08/31/VSP64BB4ORHNLOW4TNA7ARG4MI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/31/VSP64BB4ORHNLOW4TNA7ARG4MI/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Aug 2024 07:53:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKPU66JR2ZACLDQI47NNRQYETM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 가평군의 한 캠핑장에서 혼자 캠핑을 온 30대 남성이 숨진 채 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;31일 가평경찰서에 따르면 이날 오전 10시 30분쯤 경기도 가평군 조종면에 있는 캠핑장 텐트 안에서 A씨가 숨져 있는 것을 캠핑장 관계자가 발견해 경찰에 신고했다.&lt;br&gt;&lt;br&gt;텐트 안에선 숯불을 피운 것으로 보이는 있는 캠핑용 화로가 발견됐다.&lt;br&gt;&lt;br&gt;외부 침입이나 극단적 선택을 의심할 만한 흔적은 확인되지 않았다.&lt;br&gt;&lt;br&gt;A씨는 전날 혼자 이 캠핑장을 찾은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 일산화탄소 중독으로 숨졌을 가능성이 있다고 보고, 부검을 진행해 정확한 사인을 확인할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>'팔레스타인 지지 벽보 훼손' 이스라엘인 서울대 교수…벌금 100만원</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/31/OU6J22OWAZERRMTHIAH3MU5UTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/31/OU6J22OWAZERRMTHIAH3MU5UTQ/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Aug 2024 07:48:34 +0000</pubDate>
+      <content:encoded>지난해부터 이어지는 이스라엘-팔레스타인 전쟁과 관련해, 팔레스타인을 지지하는 포스터를 훼손한 이스라엘 국적의 서울대 교수가 벌금 100만원의 약식명령을 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R6SCPD3VU3FNE5LEDO7NMOAAHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지법 전경./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;31일 법조계와 서울대 팔레스타인 연대동아리 ‘수박’ 등에 따르면, 서울중앙지법 형사27단독 조민혁 판사는 전날 A교수의 재물손괴 혐의를 인정해 벌금 100만원 약식명령을 내렸다. 약식명령은 혐의가 비교적 가벼워 공판을 열지 않고 서면 심리만으로 벌금이나 과태료 등을 부과하는 절차를 뜻한다. 당사자가 불복할 경우 7일 이내에 정식 재판을 청구할 수 있다.&lt;br&gt;&lt;br&gt;A교수는 지난 2월 12일 오후 7시39분쯤 서울대 관악캠퍼스 내 학생회관과 중앙도서관 게시판에 붙어 있던 ‘2·17 국제 행동의 날 대행진’ 포스터를 여러장 훼손한 혐의를 받았다. A교수는 흰색 스프레이를 가져가 포스터에 뿌리는 방식으로 글자를 가리려 한 것으로 조사됐다. 이 포스터에는 이스라엘의 라파 공습을 규탄하고 팔레스타인을 지지하는 내용이 담겼다.&lt;br&gt;&lt;br&gt;수박 측은 “A교수는 포스터를 훼손하기 3일 전, 이 포스터를 붙이는 학생에게 다가가 15분간 폭언을 가하는 등 괴롭히기도 했다”고 주장했다.&lt;br&gt;&lt;br&gt;A교수는 이스라엘 국적으로 2009년 서울대 음대에 임용됐다. A 교수는 지난해 11월 팔레스타인 무장단체 하마스에 납치된 이스라엘인 인질의 무사 송환을 기원하는 공연에서 연주하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>브레이크 안밟는 ‘원페달 드라이빙’...전기차 포비아 또 다른 원인</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/08/31/KIG7UWBRLVE2XIQDJL32OASWHI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/08/31/KIG7UWBRLVE2XIQDJL32OASWHI/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>최근 전기차의 페달 조작 실수 등에 따른 사고가 이어지면서 전기차 특유의 운전법인 ‘원페달 드라이빙’에 대한 논란이 커지고 있다.</description>
+      <pubDate>Sat, 31 Aug 2024 05:11:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H6YNMOZ4JVIOJFGK3LCAU5JRME.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 14일 오후 경기 용인시 수지구 고기동의 한 카페로 전기차가 돌진하는 사고가 발생했다/.뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 전기차의 페달 조작 실수 등에 따른 사고가 이어지면서 전기차 특유의 운전법인 ‘원페달 드라이빙’에 대한 논란이 커지고 있다. 원페달 드라이빙이란 브레이크를 사용하지 않고 가속 페달 하나로만 차량을 움직이고 멈추는 운전법으로 전기차에서만 가능하다. 전기차 차주들은 원페달 드라이빙 사용 시 주행거리를 늘릴 수 있어 차량 판매사에서도 적극 홍보했던 운전법이라며 문제가 없다는 입장이지만, 브레이크를 사용하지 않는 운전 습관이 사고 위험을 키울 수 있다는 지적도 나온다.&lt;br&gt;&lt;br&gt;원페달 드라이빙은 전기차 특유의 ‘회생 제동’ 능력을 이용한 운전법이다. 속도가 붙은 상황에선 가속 페달을 밟지 않아도 타력 주행이 가능한 내연기관차와 달리 전기차는 가속 페달에서 발을 떼는 순간, 운동 에너지를 전기 에너지로 바꿔 충전하는 회생 제동이 실행된다. 이에 따라 속도가 줄어들어 차가 멈추게 된다. 내연기관차 시대엔 브레이크와 가속 페달을 번갈아 밟는 게 공식이었지만 전기차는 가속 페달만으로 차량의 주행과 제동이 가능해진 것이다. 회생 제동을 사용하면 충전이 돼 주행거리가 늘어나는 이점도 있다. 한 전기차 차주는 “원페달 드라이빙을 통해 충전 비용도 아낄 수 있고 운전 피로감도 줄어들었다”며 “원페달 드라이빙을 쓰지 않으면 전기차를 탈 이유가 없다”고 했다.&lt;br&gt;&lt;br&gt;실제 전기차 커뮤니티에는 시내 주행이나 고속도로 주행에서도 아예 브레이크를 사용하지 않고 운전한다는 차주들의 글이 많다. 원페달 드라이빙을 통해 전기차를 부드럽게 멈추고 출발하는 게 운전 실력의 척도란 게 이들의 견해다. 유튜브 등에 원페달 주행법을 검색하면 수십 개의 관련 영상과 노하우 등을 검색할 수 있다. 자동차 업체들도 회생 제동으로 인해 주행 거리를 늘릴 수 있다고 홍보해 왔다.&lt;br&gt;&lt;br&gt;문제는 예상 못 한 장애물이나 상황 등을 마주했을 때다. 브레이크가 아닌 가속 페달 위에 발을 두다 보니 급정거 상황에서 발을 브레이크로 옮기는 데 시간이 더 소요되고, 평소 브레이크를 밟지 않다 보니 그대로 가속 페달을 밟을 가능성도 크다는 것이다. 가속 페달을 놓으면 브레이크가 걸리긴 하지만, 실제 브레이크를 밟는 정도의 급제동 수준의 제동력을 나타내진 않는다. 지난 14일 용인에서 전기차가 카페로 돌진한 사고 역시, 기어 변경 착각뿐 아니라 원페달 드라이빙이 사고를 키운 것 아니냐는 견해도 있다.&lt;br&gt;&lt;br&gt;더욱이 브레이크를 이용하지 않고, 원페달 드라이빙으로만 차를 멈췄을 경우 일부 차량에선 브레이크등이 들어오지 않는다는 문제도 있다. 뒤차에 경고 사인을 전혀 주지 못한다는 뜻이다. 이는 가속 페달에서 완전히 발을 떼야 브레이크등이 들어오도록 한 국내 규정 때문이다. 국토부가 지난해 규정을 바꾸긴 했지만 그전에 만들어진 국산차의 경우 원페달 드라이빙을 하면 차량을 멈춰도 브레이크등이 들어오지 않는다. 이런 차가 전국에 수십만대 돌아다닌다. 이 때문에 전기차를 보면 아예 차선을 바꿔 피한다는 운전자도 많다. 한 사립대 자동차과 교수는 “제조사가 차량 설명서 등에 원페달 드라이빙 위험성을 알리는 문구를 기재하고, 교통 당국도 운전자 실수에 대한 대비책을 적극적으로 마련해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>교육부 “이주호, 버티면 이긴다’ 발언, ‘의사 이긴다’ 아니었다” 해명</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/08/31/R4BXZUU62BAPDJTVLYO7V7UQ2I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/31/R4BXZUU62BAPDJTVLYO7V7UQ2I/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>교육부는 최근 국민의힘 연찬회에서 이주호 교육부 장관(부총리)이 ‘6개월만 버티면 이긴다’는 취지로 발언한 것과 관련해, “힘든 상황을 이겨내자는 뜻이지, 의사를 이기자는 게 아니었다”며 “의정 간 소통을 강조하자는 취지”라고 설명했다.</description>
+      <pubDate>Sat, 31 Aug 2024 07:07:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z7ZMOBKOAC5I7IDP7IQ77NNA6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이주호 부총리 겸 교육부 장관이 29일 오후 인천 영종도 인천국제공항공사 인재개발원에서 열린 국민의힘 국회의원 연찬회에서 의료개혁 관련 보고를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육부는 최근 국민의힘 연찬회에서 이주호 교육부 장관(부총리)이 ‘6개월만 버티면 이긴다’는 취지로 발언한 것과 관련해, “힘든 상황을 이겨내자는 뜻이지, 의사를 이기자는 게 아니었다”며 “의정 간 소통을 강조하자는 취지”라고 설명했다.&lt;br&gt;&lt;br&gt;교육부는 31일 설명자료를 내 “토론 일부 내용이 전체 발언의 취지와 전혀 다르게 알려져 이를 바로잡고자 한다”며 이같이 밝혔다. 29일 있었던 국민의힘 연찬회에서 이 부총리가 ‘6개월만 버티면 이긴다’는 취지로 발언했고 일부 의원들이 ‘이게 전쟁이냐’ ‘의사가 싸움 대상이냐’며 질타한 것으로 알려지며 논란이 일었다.&lt;br&gt;&lt;br&gt;교육부는 이날 “과거부터 진행된 의료개혁 추진과정에서 의료계와 정부 간에 쌓인 불신의 벽이 매우 높았다”며 “(지난해) 서이초에서 발생한 가슴 아픈 일 이후 매주 차담회를 이어가며 현장과 소통해 교육계 신뢰를 회복한 교훈처럼 의료개혁을 완수하려면 의료계와의 소통과 신뢰 구축이 최우선이라는 취지로 말했다”고 설명했다.&lt;br&gt;&lt;br&gt;교육부는 그러면서 “‘이긴다’는 표현은 의사를 대상으로 한 것이 전혀 아니며, 그 반대로 대화와 소통을 통해 의료개혁 추진에 따른 힘든 과정을 극복하자는 의미였다”라며 “정부와 국회가 의료개혁을 위한 구체적인 예산 확보와 제도 마련으로 실행 의지를 명확하게 보이고, 보다 적극적으로 의료계와 소통하고 설득해 나간다면 의료개혁을 완수해 나갈 수 있다는 취지였다”고 했다.&lt;br&gt;&lt;br&gt;이 부총리의 발언이 여권 내에서 논란이 된 건 의대 증원 유예 여부 등을 놓고 당정 간 견해 차가 벌어지고 있기 때문이다. 한동훈 국민의힘 대표 등은 2026학년도 의대 증원 유예를 제안했으나, 윤석열 대통령은 지난 29일 국정 브리핑에서 “이제 의대 증원이 마무리된 만큼 개혁의 본질인 ‘지역·필수 의료 살리기’에 정책 역량을 집중하겠다”며 의료 개혁을 원안대로 추진하겠다는 뜻을 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주 서귀포 주택 창고서 화재... 2명 부상</title>
+      <link>https://www.chosun.com/national/incident/2024/08/31/J3LOQYIPKFFMZJPD5CTKNG5VI4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/31/J3LOQYIPKFFMZJPD5CTKNG5VI4/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Aug 2024 06:45:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z47Q5QFRTJC542UXQVYGSSFDCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오전 10시 31분쯤 화재가 발생한 제주 서귀포시 상예동의 한 주택 창고. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 서귀포의 한 주택 창고에서 불이나 2명이 다쳤다&lt;br&gt;&lt;br&gt;31일 제주 서귀포소방서 등에 따르면 이날 오전 10시 31분쯤 제주도 서귀포시 상예동의 한 주택 창고에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;이 화재로 90대 남성 A씨와 80대 여성 B씨 등 주민 2명이 연기를 마셔 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;또 창고와 주택, 비닐하우스 등 3개 동(3300㎡ 규모)이 불에 탔다.&lt;br&gt;&lt;br&gt;소방 당국은 장비와 인원 등을 투입해 오후 12시 1분쯤 불을 완전히 껐다. &lt;br&gt;&lt;br&gt;서귀포소방서 관계자는 “병원으로 이송됐던 분들은 귀가한 것으로 파악됐다”며 “내주 초 국립과학수사연구원 등과 정확한 화재 원인을 찾기 위한 합동 감식을 진행할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>종이 대자보는 옛말...요즘 대학가는 ‘디지털 현수막’ 대세</title>
+      <link>https://www.chosun.com/national/national_general/2024/08/31/GYD67NFTFVCGDICG62FO345RWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/31/GYD67NFTFVCGDICG62FO345RWM/</guid>
+      <dc:creator>구동완 기자, 김혜민 인턴기자(서울대 사회학 졸업예정)</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Aug 2024 05:05:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W7KFFYUQDFDDFLE4YV2NSB3KHY.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 21일 중앙대 디지털 게시판에 게재된 현수막 앞에서 졸업을 앞둔 대학원생들이 기념사진을 찍고 있다. /독자제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 21일 오후 3시 중앙대에서는 졸업을 앞둔 대학(원)생들이 학사모를 쓰고 디지털 현수막 앞에서 기념사진을 찍고 있었다. 중앙대는 최근 디지털 게시판이 천 현수막을 대체했다.&lt;br&gt;&lt;br&gt;중앙대 관계자는 “각종 포스터와 현수막으로부터 캠퍼스 환경을 지키기 위해 지난 3월부터 학교 곳곳에 디지털 게시판을 설치했다”며 “천 현수막은 물론 학내 대자보와 각종 학교 소식, 동아리 포스터 등도 디지털 게시판을 통해 송출돼 기존에 오프라인으로 게재되던 광고물을 50% 이상 대체했다”고 밝혔다. 중앙대에서는 디지털 게시판이 설치되기 이전에 월 평균 50개, 연간 600여개의 천 현수막이 버려졌다고 한다.&lt;br&gt;&lt;br&gt;대학가에서 최근 학생들의 소셜미디어(SNS) 이용 증가와 환경 공해 문제로 천 현수막과 종이 대자보가 자취를 감추고 있다. 1980년대 대학생들의 의견 표명 공간이었던 현수막과 대자보가 SNS나 디지털 게시판에 밀려 더 이상 내걸리지 않는 것이다. 실제로 학기 초였던 지난 4월 서울 마포구 서강대의 총학생회 전용 게시판은 ‘수필 공모전’을 홍보하는 내용의 포스터 한 장을 제외하곤 텅 비어있었다. 가로 폭이 10m쯤 되는 게시판에는 압정과 스테이플러 심, 찢긴 종이 조각만이 남아 과거의 흔적을 보여줬다.&lt;br&gt;&lt;br&gt;서강대 전자공학과 이제현(24)씨는 “학교 커뮤니티에 글을 올리면 사람들이 더 빠르고 편하게 찾아볼 수 있으니 훨씬 효율적”이라며 “굳이 미관상 좋지 않은 종이 대자보를 붙일 이유가 없다”고 말했다.&lt;br&gt;&lt;br&gt;졸업을 맞아 디지털 현수막을 만들었다는 중앙대 대학원생 김채원(36)씨는 “신청만 하면 학생들도 무료로 게시할 수 있다고 해 제작하게 됐다”며 “나중에 버려야 될 현수막 폐기물도 나오지 않고, 나무에 거추장스럽게 매달지 않아 보기도 좋았다”고 했다.&lt;br&gt;&lt;br&gt;한양대는 작년 8월부터 단계적으로 제한해 오던 현수막 설치를 오는 9월부터 전면 금지한다고 밝혔다. 한양대 관계자는 “현수막 소각처리 비용만 1톤당 10만원이 넘게 들어갈 정도로 환경문제가 심각했다”며 “붙이는 사람이 따로 있고, 철거하는 사람이 따로 있는 문제도 있다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2OHLDABZIRESLI7GTS3OTIBXNU.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대 관정도서관의 텅 빈 게시판 앞을 한 학생이 지나가고 있다. /구동완 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 대학 학생회들은 비용 문제 등 때문에 SNS와 디지털 게시판을 더 선호한다고 한다. 서강대 사회대 학생회 고권영(21)씨는 “최근 2년 동안 대자보를 붙이거나 본 적이 없다”며 “학교에 허가를 받는 절차도 번거로울뿐더러 에브리타임 같은 SNS를 통해 내용을 훨씬 효과적으로 전달할 수 있다”고 말했다. 중앙대 총학생회 측은 “총학생회 사업을 홍보하기 위해 매달 1~2개 이상의 현수막을 만들어야 했는데, 디지털 게시판이 설치된 후 이런 부담을 덜었다”고 했다.&lt;br&gt;&lt;br&gt;현수막과 대자보가 하던 학내 정보 공유와 공론화의 역할은 대학 생활 플랫폼인 ‘에브리타임’이 대신하는 추세다. 에브리타임 운영사 비누랩스에 따르면 2016년 100만명이었던 누적 가입자 수가 올해 처음 700만명을 돌파했다. 한 달에 1번 이상 서비스를 쓴 이용자 수를 뜻하는 월간 활성 사용자 수(MAU)는 지난해 기준 300만명에 달했다. 이는 2019년 168만명에서 2배 가까이 늘어난 수치다.&lt;br&gt;&lt;br&gt;서울대 4학년 백모(25)씨는 “대자보에 실리는 주장들이 양극단으로 편향되어 있어 피곤하게 느껴지는 경우가 많다”고 했다. 온라인 커뮤니티가 공론화의 역할을 더 잘 수행한다는 의견도 있었다. 서울대 국어교육과 박모(24)씨는 “학생회장 선거 당시에도 선본에 대해 문제를 지적하는 글이 에타(에브리타임)에 올라와서 빠르게 인기 게시판에 올라간 적이 있었다”며 “사람들이 쉽게 접근할 수 있는 온라인 특성상 쉽게 쟁점화돼 논란이 빠르게 확산했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/W7KFFYUQDFDDFLE4YV2NSB3KHY.jpeg?width=1592&amp;height=895&amp;auth=f50714e7af44bb3d5238774c91180716c0c4e59742568891092637ee9be45e7a&amp;smart=true" type="image/jpeg" height="895" width="1592">
+        <media:description type="plain">중앙대학교 디지털 현수막 앞에서 졸업생들이 사진을 찍고 있다. /김혜민 인턴기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>신호 위반하다 택시 2대 치고 도주...20대 외국인 검거</title>
+      <link>https://www.chosun.com/national/incident/2024/08/31/HQAOBW3ANZHM5KJB7SWL2RJAXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/31/HQAOBW3ANZHM5KJB7SWL2RJAXA/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Aug 2024 05:39:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QGIURJIWR26HXC4RLTQQ3QTWYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산남부경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한밤중 차를 몰다 택시 2대를 치고 달아난 외국인이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;울산남부경찰서는 특정범죄가중처벌법상 도주치상 혐의로 20대 외국인 여성 A씨를 붙잡아 조사하고 있다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 30일 오후 10시 30분쯤 울산시 남구 신정동의 한 사거리에서 신호를 위반해 좌회전하다 택시 2대를 들이받은 뒤 사고 현장에서 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이 사고로 택시 운전자와 승객 등 4명이 다친 것으로 알려졌다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 현장에서 약 6㎞ 떨어진 울주군 청량면 율리차고지에서 A씨를 체포했다.&lt;br&gt;&lt;br&gt;A씨는 경찰에 “사고가 처음이라 당황해 그랬다”고 진술한 것으로 전해졌다. 음주나 마약, 무면허운전은 아니었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨 등을 상대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘김건희 디올백’ 심의할 수사심의위, 6개 혐의 검토한다</title>
+      <link>https://www.chosun.com/national/court_law/2024/08/31/JYOUPSLNX5C2XDWUJCH3AWLKCQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/31/JYOUPSLNX5C2XDWUJCH3AWLKCQ/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Aug 2024 04:22:25 +0000</pubDate>
+      <content:encoded>김건희 여사의 ‘디올백 수수’ 의혹 수사 결과를 심의할 검찰수사심의위원회(수사심의위)가 총 6가지의 혐의에 대해 논의할 것으로 31일 전해졌다. 대검찰청은 앞서 “김 여사의 청탁금지법 위반 사건을 알선수재, 변호사법위반 법리를 포함해 수사심의위에 회부한다”고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4KVFJT6ZI2W7MZPQR7LHCL7Z5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청사 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 대검찰청은 서울중앙지검과 김 여사 측에 청탁금지법위반·변호사법위반‧알선수재‧직권남용‧증거인멸‧뇌물수수 6개 혐의에 대해 심의하겠다고 최근 알렸다. 김 여사에 대한 고발이 접수된 혐의를 모두 살펴보겠다는 것이다.&lt;br&gt;&lt;br&gt;수사팀과 김 여사 측 변호인은 각 혐의에 대한 의견서를 준비 중인 것으로 알려졌다. 이들은 수사심의위 전날인 5일까지 의견서를 대검에 내야 한다. 수사심의위에는 무작위 추첨으로 선정된 위원(외부 전문가) 15명과 서울중앙지검 수사팀 관계자, 김 여사 측 변호인이 참석할 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4QVIFALC6N62WC3XERFFWWHOFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사가 7월 11일(현지시각) 미국 워싱턴DC 민주주의진흥재단(NED)에서 진행된 북한인권간담회에 참석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 의혹을 처음 제기한 유튜브 채널 ‘서울의소리’ 측은 김 여사가 최재영 목사로부터 디올백을 건네 받아 청탁금지법을 위반했다는 입장이다. 또 김 여사가 디올백을 받은 것이 공무원 등의 직무와 관련이 있어 뇌물수수‧알선수재‧변호사법 위반에도 해당한다고 주장한다. 서울의소리 측은 김 여사가 금융위원회 금융위원 임명에 개입하는 등 직권남용 혐의가 있고, 디올백을 대통령기록물로 지정해 증거인멸을 하려 한 혐의도 있다고 했다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지검 형사1부(부장 김승호)는 청탁금지법상 공직자의 배우자는 처벌할 수 없고, 디올백이 직무 관련성과 대가성이 있다고 보기도 어렵다며 김 여사를 무혐의 처분해야 한다고 결론 내렸다. 이창수 서울중앙지검장은 지난 22일 이원석 검찰총장에게 이 같은 수사 결과를 보고했고, 이 총장은 이튿날 수사심의위 소집을 결정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LHVEH4HQNQ7CVHB7GX733DRSQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이원석 검찰총장(왼쪽)과 이창수 서울중앙지검장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 대해 이 총장은 26일 기자들을 만나 “소모적인 논란이 지속되지 않아야 하기 때문에 모든 법리를 포함해 충실하게 수사심의위에서 공정하게 심의해 줄 것으로 믿는다”며 “검찰 외부의 의견까지 경청해서 더 공정하게 사건을 신중히 최종 처분하겠다는 것”이라고 했다. 그러면서 “수심위의 전례나 통상적인 운영 과정을 살펴보면 임기 내에 마칠 수 있을 것이라고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>백두대간이 ‘조선민주주의인민공화국’ 산맥이라고?</title>
+      <link>https://www.chosun.com/national/2024/08/31/J3BSJ6NIOVDMFOP4TWZJPURGGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/08/31/J3BSJ6NIOVDMFOP4TWZJPURGGE/</guid>
+      <dc:creator>월간산 서현우 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Aug 2024 05:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZGQITANTM5FPNNZHNPE2RL266M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구글에서 '백두대간', 혹은 'baekdudaegan'을 검색하면 조선민주주의인민공화국의 산맥이란 설명이 나오고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구글에서 한반도 산줄기인 ‘백두대간’을 검색하면 조선민주주의인민공화국(북한)의 산맥이라고 소개되고 있어 산악계에서 논란이 일고 있다.&lt;br&gt;&lt;br&gt;백두대간은 백두산에서 시작돼 금강산, 설악산을 거쳐 지리산으로 이어지는 산줄기로 우리 민족 고유의 지리인식체계에서 비롯된 개념이다. 한반도를 지탱하는 골격이자 등줄기로도 불린다. 총 거리는 산림청의 경우 1400km, 지도전문가들은 약 1650km로 추산하고 있으며 이 중 남한에 속한 백두대간은 약 700km다.&lt;br&gt;&lt;br&gt;이처럼 산림청 기준으로 보자면 백두대간의 약 절반이 엄연히 대한민국에 속해 있음에도 불구하고 구글은 이를 북한의 산맥이라고 소개하고 있는 상황이다. 접속 IP 국가를 해외로 바꿔도 마찬가지다. 다만 검색을 반복하다보면 간혹 첫 설명글이 아시아의 산맥으로 변경되기도 하는데, 자동완성 검색어는 시종일관 백두대간을 북한의 산맥이라고 설명하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YVAYBIUY6FG27FZRVRBMVJW7SE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;따로 IP 등을 바꾸지 않고 새로고침만 해도 아시아의 산맥이란 설명과 조선민주주의인민공화국의 산맥이란 설명이 번갈아가며 나온다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구글에서는 이처럼 여러 나라에 걸쳐져 있는 산맥이나 자연 지형을 특정 나라의 것으로 한정해 소개하는 경우가 매우 드물다. 이런 지형들은 해당 대륙의 이름을 따서 설명된다. 가령 히말라야산맥은 아시아의 산맥, 안데스 산맥은 남아메리카의 산맥, 알프스산맥은 유럽의 산맥인 식이다. 이들 모두 자동완성 검색어부터 검색 후 첫 설명글이 일치하고 있다.&lt;br&gt;&lt;br&gt;여러 나라를 지나는 거대한 산맥이 아니라 백두대간처럼 2개 국가에만 걸쳐 있는 산맥들도 마찬가지다. 대표적으로 프랑스와 스페인 사이에 솟아 있는 피레네 산맥 또한 양국 어딘가에 속한 산맥이 아닌 유럽의 산맥으로 나온다. 또한 나일 강도 아프리카의 강, 아마존 강도 남아메리카의 강이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U5AWTOADXNDVNEKVZAR3XG6IOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유럽의 산맥이라 설명되는 피레네 산맥.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그런 의미에서 백두대간을 북한의 산맥이라고 표기하는 현 상황은 기이하다. 그런데 더 큰 문제는 이미 이 상황을 백두대간인문학연구소 김우선 소장이 6개월 전에 인식하고, 시정 요청까지 했는데도 불구하고 아직까지 고쳐지지 않았다는 점이다.&lt;br&gt;&lt;br&gt;김 소장은 올해 2월 백두대간이 구글에서 북한의 산맥으로 표기되고 있는 것을 파악한 뒤 구글에 온라인 절차에 따라 해당 문제를 시정할 것을 요청했다. 하지만 조속히 처리되지 않자 이번엔 주샌프란시스코총영사관에 연락해 미국에 위치한 구글 본사와 직접 접촉해 이 문제를 해결해달라고 전했다.&lt;br&gt;&lt;br&gt;김 소장은 영사관으로부터 “실제로 구글에 ‘백두대간’ 또는 ‘Baekdudaegan’ 검색 시 ‘조선민주주의공화국의 산맥’ 또는 ‘Mountain Range in North Korea’로 결과가 나타나 오류가 있음을 확인하였다. 이에 우리 총영사관은 구글 본사와 접촉해 상기 검색 결과에 오류가 있음을 알리고, 이를 수정해 줄 것을 요청할 계획”이라는 답신을 받았다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U3YM3FA6HVBMLLXD3EPJEP7S2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김 소장이 주샌프란시스코총영사관에 제보하자 회신받은 답변.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그럼에도 불구하고 여전히 구글에선 백두대간을 북한의 산맥으로 소개하고 있다. 김 소장은 “백두대간을 사랑하는 많은 산악인들이 공분하고 있다”며 “구글 측은 즉각적인 해명은 물론이고 사과 및 수정과 더불어 유사 사례가 재발하지 않도록 철저한 대책을 세워야 할 것”이라는 입장이다.&lt;br&gt;&lt;br&gt;&amp;lt;월간산&amp;gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ZGQITANTM5FPNNZHNPE2RL266M.jpg?width=600&amp;height=367&amp;auth=ec83ec15bc2e037099a0428f36a253a6fef15b1685723b1d2bcd565eb47c53e5&amp;smart=true" type="image/jpeg" height="367" width="600">
+        <media:description type="plain">구글에서 '백두대간', 혹은 'baekdudaegan'을 검색하면 조선민주주의인민공화국의 산맥이란 설명이 나오고 있다.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>경남 밀양 한 골프장에서 카트 넘어져…3명 부상</title>
+      <link>https://www.chosun.com/national/incident/2024/08/31/3TO3OWWTRZCEDL6PVC4PHNFCKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/31/3TO3OWWTRZCEDL6PVC4PHNFCKE/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Aug 2024 04:09:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KRUEDMUT5A3YINHKZAHR5XFOBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 30일 오후 8시 31분쯤 경남 밀양시의 한 골프장에서 운행 중이던 카트가 넘어져 3명이 다쳤다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 밀양의 한 골프장에서 운행 중이던 카트가 넘어져 3명이 다쳤다.&lt;br&gt;&lt;br&gt;31일 밀양경찰서 등에 따르면 전날 오후 8시 31분쯤 경남 밀양시 단장면의 한 골프장에서 40대 운전자 A씨가 몰던 카트가 내리막길에서 균형을 잃고 옆으로 넘어졌다.&lt;br&gt;&lt;br&gt;이 사고로 A씨가 중상을 입어 병원에서 치료를 받고 있다. 카트에 타고 있던 2명도 경상을 입었다.&lt;br&gt;&lt;br&gt;경찰은 이들이 캐디 없이 카트를 이용하다 사고가 난 것으로 보고 자세한 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>전국 강변 점령한 ‘총알 자전거’… 시민들은 “출입 금지 시키라” “속도 제한하라”</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/08/31/CCE5NOC6XJFBPI6FGPEBYYF6YA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/31/CCE5NOC6XJFBPI6FGPEBYYF6YA/</guid>
@@ -854,87 +950,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JKG4FQMRYFAINOXMAF6O5RTUWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;횟집에서 먹방을 촬영하는 유튜버 윤숙희에게 술취한 남성이 접근해 허리를 감싸고 있다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;식당에서 카메라를 켜고 먹방을 촬영하던 중 취객들의 불쾌한 신체 접촉으로 피해를 입었다는 여성 유튜버의 사연이 전해졌다.&lt;br&gt;&lt;br&gt;유튜브 채널 ‘윤숙희 혼술하는 여자’에는 지난 21일 ‘대낮에 진상 X저씨들한테 속수무책으로 당했습니다. 먹다가 나왔네요’라는 제목의 영상이 올라왔다.&lt;br&gt;&lt;br&gt;영상 속 유튜버 윤숙희는 서울 구로구 오류역 인근 한 횟집을 찾아 가게 주인의 동의를 받고 먹방을 촬영중이었다.&lt;br&gt;&lt;br&gt;윤숙희가 술을 곁들여 식사하던 도중 술에 취한 중년 남성 일행이 그에게 다가왔다. 이들 중 한 남성은 사진 촬영을 요구하더니 자연스럽게 윤숙희의 허리와 어깨를 감쌌다. 당황한 윤숙희는 신체접촉을 피하고자 남성의 반대편으로 이동해 사진을 찍었다. 윤숙희는 카메라를 향해 “사진 찍을 때 허리를 감싸서 (기분이 나빴다)”며 얼굴을 찌푸렸다.&lt;br&gt;&lt;br&gt;윤숙희는 애써 기분을 가다듬고 다시 식사를 시작했다. 그러나 이 남성이 여러차례 윤숙희에게 접근했다. 이 남성은 마음대로 술병을 들고 따르더니, 합석까지 제안했다. 윤숙희는 불편한 내색을 드러내며 이 남성의 제안을 정중히 거절했다.&lt;br&gt;&lt;br&gt;윤숙희는 “이런 일도 있고, 저런 일도 있지만 기분이 빠르게 다운됐다”며 “표정 관리가 안됐다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XYWOETYSLZG7VMB62OJUYSQ5H4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남성의 일행이 유튜버 윤숙희의 어깨를 만지며 사과하고 있다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러는 사이 이번엔 이 남성의 다른 일행이 카메라 뒤에 서서 방송을 방해했다. 윤숙희는 방송중임을 알렸고, 이후 다시 다가온 그는 “사과한다”며 윤숙희의 어깨를 만졌다. 윤숙희는 이에 반응하지 않았고, 이 남성들은 대뜸 욕설을 하며 가게를 떠났다.&lt;br&gt;&lt;br&gt;이 모습을 지켜본 식당 사장은 윤숙희에게 “죄송하다”며 대신 사과했다. 이에 윤숙희는 “사장님이 사과할 일 아니지 않느냐”고 했다. 표정이 어두워진 윤숙희는 먹던 음식을 남기고 자리에서 일어났지만 재차 미안해 하는 식당 측에 “괜찮다”고 인사한 뒤 가게를 나섰다.&lt;br&gt;&lt;br&gt;영상을 접한 네티즌들은 “성추행이다. 경찰에 신고해야 한다” “영상 증거가 다 남아있으니 성추행, 업무방해로 꼭 신고하시길 바란다” “보는 사람도 화가날 정도로 무례한데 혼자서 얼마나 힘드셨냐” 등의 반응을 보이고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[단독] 시민단체, ‘文정부 행정관 군 수사기록 무단 열람’ 의혹 재정신청</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/30/2X7UFHAFEVDIJHRJDFSGZXHSPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/30/2X7UFHAFEVDIJHRJDFSGZXHSPM/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Aug 2024 05:40:34 +0000</pubDate>
-      <content:encoded>검찰이 문재인 정부 청와대 행정관의 ‘군 사건 기록 무단 열람’ 의혹을 불기소 처분한 데 대해, 고발인 측에서 재정신청을 낸 것으로 30일 확인됐다. 재정신청이 인용될 경우 검찰은 최씨를 기소해야 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4IPKGEZMLSPFPQ2ZGLRNR5GCYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청와대 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 시민단체 자유대한호국단 측은 지난 29일 서울중앙지검에 최용선 전 청와대 국가안보실 선임행정관(현 더불어혁신정책연구원장)의 직권남용권리행사방해 등 혐의 사건에 대한 재정신청을 접수했다. 자유대한호국단은 지난 2022년 7월 이 의혹을 검찰에 고발한 단체다.&lt;br&gt;&lt;br&gt;재정신청은 검찰이 고소·고발 사건을 불기소했을 때 고소·고발인이 이에 불복해 법원에 검찰 결정이 타당한지 판단해달라고 신청하는 제도다. 법원이 재정신청을 인용할 경우 검찰은 공소를 제기해야 하고, 재판이 열리게 된다.&lt;br&gt;&lt;br&gt;이 사건은 최씨가 2017년 8월 국방부 조사본부에 방문해 ‘사이버사 댓글 사건’ 수사팀 관계자들을 만나고, 청와대로 수사 기록을 갖고 오게 해 영장 없이 무단 열람했다는 내용이다. 앞서 국방부 검찰단은 지난 2014년 사이버사령부 댓글 사건을 수사한 뒤 사이버사령관 등을 기소하면서, 김관진 전 장관은 개입하지 않았다고 발표한 바 있다. 그런데 최씨의 국방부 조사본부 방문 이후, 그해 11월 김관진 전 국방장관에 대한 재수사가 시작됐다. 김 전 장관은 같은 달 결국 구속됐다. 경찰은 최씨를 지난 5월 기소 의견으로 송치했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FGNXZDAZ6JCEJEBA2QW5HUJQMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 청사./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공공수사3부(부장 김태훈)는 “지난 5월 경찰로부터 사건을 송치 받은 뒤 보완수사를 진행했으나, 증거불충분으로 불기소했다”고 지난 27일 밝혔다.&lt;br&gt;&lt;br&gt;본지가 입수한 검찰의 불기소결정서에 따르면, 검찰은 “최씨가 2017년 8월 25일 국방부 조사본부를 방문해 관계자를 만나 사이버사 댓글 사건에 대해 언급한 사실, 사이버사 댓글 사건 수사팀장 A씨를 만난 사실 등은 인정된다”고 판단했다. A씨는 이와 관련해 “이태명 당시 국방부 수사단장 등과 함께 2017년 8월 하순 청와대를 방문했다”며 “최씨를 만날 때 보자기에 싸인 A4 용지 1박스 분량의 서류를 국가안보실에 두고 나왔다”고 진술했다고 한다.&lt;br&gt;&lt;br&gt;A씨 진술의 신빙성이 떨어진다는 것이 검찰의 불기소 이유다. 검찰은 불기소결정서에 “A씨는 최씨에게 수사기록 사본을 제공했다고 진술하는데, 이는 과거 자신이 수사팀장이었으므로 지참한 서류가 수사기록 사본일 것이라는 추측성 진술에 불과하다”고 적시했다.&lt;br&gt;&lt;br&gt;또 “A씨는 실제 서류를 직접 본 적이 없어 제공한 서류가 어떤 서류인지 알지 못한다고 진술하고, 당시 상황에 대해서도 전혀 기억이 나지 않는다고 진술했다”고도 했다. 이 사건 수사기록은 총 A4용지 박스 70여 개 분량으로 조사됐는데, A씨가 제공한 서류는 1박스 분량에 불과해 수사기록 사본과는 차이가 있다는 점도 불기소 처분 근거가 된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;자유대한호국단 관계자는 “7년 여 전 벌어진 일에 대해 A씨가 세부 사실을 모두 기억하는 것은 어려운 일”이라며 “충분한 수사가 이뤄졌는지 의문”이라고 했다. 또 “수사기록의 전체 분량을 압축해 보고했을 가능성에 대해서도 살펴봐야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경북대 국악학과 교수 채용 비리...청탁 후 임용된 지원자 ‘집행유예’</title>
-      <link>https://www.chosun.com/national/incident/2024/08/30/5X63RMEQNREV7B3FP4XJDDIIWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/30/5X63RMEQNREV7B3FP4XJDDIIWM/</guid>
-      <dc:creator>대구=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Aug 2024 05:40:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HMP6R5XU3F4MAHT2FBEBTNYEYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고등·지방법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북대 국악학과 교수 채용 과정에서 특혜를 입고 최종합격한 교수에게 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 형사8단독 김미경 판사는 30일 위계에 의한 공무집행 방해 혐의로 기소된 A(45)씨에게 징역 6월에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2021년 3~5월 사이 진행된 경북대 국악학과 교수 채용 과정에서 자신의 지도교수였던 B(67)씨 등으로부터 심사 기준을 비롯한 시험 정보를 미리 받는 등 부정 행위를 저지른 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨에게 특혜를 준 B씨 등 교수 3명은 이미 재판 절차가 끝났다. 이들은 A씨에게 유리하도록 심사기준표를 변경하고, 실기점수 만점을 준 반면, 다른 지원자들에겐 최하점을 준 혐의가 인정됐다. 지난 5월 대법원에서 교수 B씨 등 2명은 징역 10월에 집행유예 2년, 다른 퇴임 교수는 벌금 700만원이 확정됐다.&lt;br&gt;&lt;br&gt;김 판사는 “A씨 범행으로 지원자 16명이 공정하게 평가받을 기회와 국립대 교수 채용 과정에서의 신뢰성 등이 침해됐다”고 했다&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>BTS 슈가 경찰 수사 종료...음주운전 혐의로 검찰에 넘겨져</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/30/CIGFYP4W2FEEPGJQ5GTSWF4S3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/30/CIGFYP4W2FEEPGJQ5GTSWF4S3Y/</guid>
-      <dc:creator>김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Aug 2024 05:29:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FGGRCXP2OUBXKGMY76HIY5YFA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 서울 용산경찰서에 출석한 BTS 슈가 / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 BTS 멤버 슈가(본명 민윤기·31)가 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 용산경찰서는 민씨를 도로교통법 위반 혐의로 검찰에 송치했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;민씨는 지난 6일 음주한 상태로 500m 가량 전동 스쿠터를 몰았다. 민씨가 당시 운전한 전동 스쿠터는 도로교통법상 ‘개인형 이동장치(PM)가 아닌 원동기장치자전거’로 분류돼, 음주운전 시 자동차와 같은 수준의 법적 처분을 받는다.&lt;br&gt;&lt;br&gt;앞서 민씨는 입건된 후 17일 만인 지난 23일 오후 7시 45분쯤 서울 용산경찰서에 출석해 약 3시간에 걸친 경찰 조사를 받았다. 변호인과 함께 출석한 민씨는 이날 취재진에 “굉장히 죄송하다. 많은 팬분들과 많은 분들께 정말 큰 실망을 안겨드려 진심으로 반성하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;민씨는 25일에는 팬 커뮤니티 ‘위버스’에 자필 사과문을 게시하며 “부족한 저에게 늘 과분한 사랑을 주셨던 팬분들께 죄송한 마음뿐이다. 그 어떤 말로도 팬분들이 받으신 상처와 실망을 치유하기 어려움을 알고 있기에, 깊이 후회하고 하루하루 무거운 마음으로 반성하고 있다”고 전했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, '홍원식 前회장 200억 횡령 의혹' 남양유업 전 대표 소환</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/30/EAPU2ZLEIFHNFEUM4DUUYGHQGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/30/EAPU2ZLEIFHNFEUM4DUUYGHQGI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Aug 2024 05:03:42 +0000</pubDate>
-      <content:encoded>홍원식 전 남양유업 회장의 200억원 횡령 의혹을 수사 중인 검찰이 남양유업 전 대표들을 30일 소환했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VKJJVR6LUS24BVKLYBNNZMPZJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍원식 전 남양유업 회장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울중앙지검 공정거래조사부(부장 김용식)는 이날 오전 남양유업 이광범·이원구 전 대표를 참고인 신분으로 불러 조사하고 있다. 검찰은 이날 두 전 대표에게 횡령 의혹 전반에 대해 묻는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 남양유업은 지난 2일 공시를 통해 홍 전 회장과 전직 임직원 3명을 특정경제범죄가중처벌법상 횡령과 배임수재 등 혐의로 고소했다고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;남양유업 측은 홍 전 회장 등이 회사 자기자본의 2.97％에 해당하는 약 201억2223만원을 횡령했다는 입장이다. 검찰은 남양유업 관계자를 소환하는 등 기초 사실관계를 검토 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“남주혁한테 연락왔다”...유도 은메달리스트 허미미, 깜짝 고백</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/30/ET2TUVB6L5EXDAXRPSIFZIZDOA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/30/ET2TUVB6L5EXDAXRPSIFZIZDOA/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Aug 2024 04:56:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XFQBPHDCL5N73AYOAQZBBUL4XI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;독립운동가 허석 의사 후손인 유도 국가대표 허미미./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 남주혁(30)의 오랜 팬으로 알려진 여자 유도 국가대표 허미미(21·경북체육회)가 남주혁에게서 장문의 메시지를 받았다고 밝혔다.&lt;br&gt;&lt;br&gt;허미미는 지난 29일 문경실내체육관에서 진행된 일간스포츠와의 인터뷰에서 “남주혁에게 먼저 연락을 받았다”고 말했다.&lt;br&gt;&lt;br&gt;그는 “남주혁 씨에게 카카오톡이 엄청 길게 왔다. (누구에게) 말하기 싫을 정도로 너무 기뻤다. 지금 처음 말한다. 지금 군대에 있으니깐 아마 시합을 못 봤을 텐데, 노력하는 모습이 너무 멋있고, 항상 응원한다고 연락이 왔다”고 했다.&lt;br&gt;&lt;br&gt;남주혁의 오랜 팬인 허미미가 드디어 소원을 성취한 것이다. 허미미는 작년 3월 중앙일보와의 인터뷰에서 “남주혁 주연의 드라마를 시청하는 것이 취미”라고 밝힌 바 있다. 또한 허미미는 여자 57㎏급 결승을 마친 뒤 파리 현지에서 진행한 취재진과의 인터뷰에서 “(남주혁을) 만날 수 있다면 좋을 것 같다”고 했다. 이후에도 방송 등 공개적인 자리에서 “(남주혁을) 한 번만 보고 싶다”며 소원을 전하기도 했다.&lt;br&gt;&lt;br&gt;허미미는 “앞서 인터뷰할 때는 (남주혁에게) 바로 답장한다고 했는데, (떨려서) 못했다. 하루 종일 생각하고 고민하다가 답장했다”면서 “(남주혁에게) 엄청 팬이라고 했고, 정말 멋있고 감사하다고 했다”고 말했다. 다만 허미미는 “꼭 한번 만나보고 싶다”며 못다 이룬 소원을 언급했다.&lt;br&gt;&lt;br&gt;앞서 허미미는 지난달 29일 2024 파리 올림픽 유도 여자 57㎏ 이하급 결승에서 세계 랭킹 1위 크리스타 데구치에게 반칙패를 당하면서 은메달을 따냈다. 당시 허미미는 “위장 공격일 줄은 몰랐는데 그래도 경기의 일부니까 어쩔 수 없다. 다음에는 그런 것을 잘 생각하고 유도를 하고 싶다”며 결과를 받아들였다. 특히 그는 독립운동가 허석 의사의 5대손으로, 일본 국적을 포기하고 대한민국 유도 국가대표로 활약한 사실이 알려지면서 더욱 화제가 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정부 “연내 의료 인력 추계 기구 출범…2026년 정원도 논의”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/08/30/IBZ5BFG4UVGWBEPSUR7NXR4BFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/30/IBZ5BFG4UVGWBEPSUR7NXR4BFM/</guid>
-      <dc:creator>조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Aug 2024 04:32:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XA3Y3KAJR5PXVKMSYVCVLGEMJU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;조규홍 보건복지부 장관이 30일 서울 종로구 정부서울청사에서 열린 제6차 의료개혁특별위원회 회의에서 참석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보건복지부는 30일 ‘의료개혁 1차 실행 방안’ 발표했다. 복지부는 “(미래 의사 수 추계·조정을 위한 논의 기구를 올해 안에 출범시킨다”고 밝혔다.&lt;br&gt;&lt;br&gt;복지부 관계자는 “고령화에 따라 급증할 의료 수요 대응, 필수‧지역 의료 강화를 위해 필요한 적정 의료인력 규모를 분석하고, 중장기 인력 수급 정책을 수립하기 위한 의료 인력 수급 추계·조정 시스템을 구축할 것”이라 “2026학년도 의대 정원 문제도 논의 대상”이라고 했다. 내년도 입시의 의대 증원은 되돌릴 수 없지만, 2026학년도부터는 재논의가 가능하다는 입장을 재차 밝힌 것이다.&lt;br&gt;&lt;br&gt;복지부는 “수급 추계의 기본 틀인 추계 모형, 모형에 포함되는 변수, 활용 통계 등 추계 방식은 새롭게 구성될 논의기구에서 숙의를 통해 결정한다”며 “논의기구는 수급 추계의 과학적 전문성과 사회적 수용성, 두 가지 측면을 고려하여 역할을 분담하도록 구성한다” 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“딥페이크? 호들갑 떤다” 발언한 119만 유튜버, 결국 수익 정지</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/30/MJG5BPINXNGARCLPIIE5ZTUQVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/30/MJG5BPINXNGARCLPIIE5ZTUQVI/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Aug 2024 03:34:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DSHHBNH7JWAMOAPNH6RRKRLAYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뻑가&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 사회적 문제로 떠오른 딥페이크 사태를 우려하는 여성들을 향해 “호들갑을 떤다”라고 발언한 유튜버가 결국 가이드라인 위반으로 수익 활동이 정지됐다. 이 유튜버는 평소 검은색 고글과 마스크, 모자 등으로 얼굴을 완전히 가린 채 사회적 이슈나 유명인의 사생활 등과 관련해 자극적인 콘텐츠를 올려 왔다.&lt;br&gt;&lt;br&gt;119만 구독자를 보유한 유튜버 뻑가는 지난 26일 올린 영상에서 최근 여성들이 자신의 얼굴이 딥페이크 영상에 이용될 것을 우려해 ‘소셜미디어상 사진을 다 내리라’는 취지의 게시물을 공유하는 상황을 두고 “막 이렇게 호들갑 떠는 글이 퍼지고 있다”며 “이 짤 올리고 퍼트리는 사람들 보면 이런 정보에 밀접하게 반응하고 참여하고 있다고 보면 된다. 지금부터 거르시길 바란다”고 했다.&lt;br&gt;&lt;br&gt;뻑가는 경찰이 내수에 착수한 22만명 규모의 딥페이크 제작 텔레그램 채널에 대해선 “저게 전 세계 사람들 다 모여 있는 단체방”이라며 “한국인의 텔레그램 이용자 수는 전 세계에서 0.33%다. 22만명의 0.33%는 726명 밖에 안 된다”고 주장했다.&lt;br&gt;&lt;br&gt;뻑가는 딥페이크 사태가 남성들에 대한 비난 여론을 위해 여초 커뮤니티에 의해 의도적으로 ‘기획’됐다는 논리를 폈다. 뻑가는 “이런 이슈에 이미 군사작전처럼 시스템이 딱 잡혀있다”며 “어떻게 선동해야 하는지, 숫자는 어떻게 과장해야 하는지 안다. 그래픽 디자인도 깔끔하게 만들어서 잘 퍼질 수 있게 하고, 여성 기자들, 여성 정치인들도 나와서 같은 소리로 선동한다. 외국 언론에도 발 빠르게 제보하고, 좌표도 찍어서 댓글 작업 하는 등 체계가 굉장히 잘 잡혀 있다”고 했다. 이어 “이때다 싶어서 22만명이니 국가비상대책이니 X병을 떨면서 선동하는 여초 (커뮤니티) 애들을 보니까 X같다”고 했다.&lt;br&gt;&lt;br&gt;이 영상에 대해 네티즌들은 “가해자를 비난하는 대신 피해자를 비난하는 것이냐? 또 다른 수준의 망상” “이 사람이 하는 말은 인셀(incel·이성 교제나 결혼 기회를 갖지 못한 젊은 남성)들과 정확히 일치한다)” 등의 반응을 보였다. 해외 네티즌들까지 영어 등 각국 언어로 비슷한 내용의 비판 댓글을 남겼다.&lt;br&gt;&lt;br&gt;논란이 불거지자, 유튜브 측은 가이드라인 위반으로 뻑가 채널 영상의 수익 창출을 정지시킨 것으로 파악됐다. 실제로 유튜브 채널 수익화 여부를 확인하는 웹사이트 ‘이즈디스채널마너타이즈드’(isthischannelmonetized)에 따르면, 뻑가의 채널은 유튜브 파트너 프로그램에서 제외됐다. 이외에도 이 채널의 후원 기능과 멤버십 가입 버튼, 회원 전용 동영상 시청 메뉴 등이 모두 사라진 상태다. 딥페이크 사태를 거론한 문제의 영상은 아예 삭제됐다.&lt;br&gt;&lt;br&gt;유튜브 관계자는 뉴시스에 “유튜브 커뮤니티 가이드는 괴롭힘 및 사이버 폭력에 대한 명확한 정책을 포함하고 있으며, 이를 바탕으로 사회적 또는 정치적 맥락에 따라 특정 개인을 신체적 상해의 위험에 노출시키는 콘텐츠를 금지한다”며 “이러한 정책을 바탕으로 신중한 검토를 거쳐 뻑가 채널의 영상을 삭제했다”고 했다. 이어 “크리에이터의 책임에 관한 가이드라인에 따라 뻑가 채널의 프로그램 참여를 정지시켰다”며 “이에 해당 채널은 유튜브에서 수익을 창출할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>駐뉴질랜드 대사관서 동성직원 성추행 전직 외교관 유죄</title>
-      <link>https://www.chosun.com/national/incident/2024/08/30/PGQE2H6GHJF45H7DPXRGIVNAUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/30/PGQE2H6GHJF45H7DPXRGIVNAUQ/</guid>
-      <dc:creator>인천=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Aug 2024 04:05:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OT2D7AV5P4VWHYEM5Z5C5IMQSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외교관으로 근무할 당시 동성 외국인 직원을 성추행한 혐의로 기소된 전직 외교부 공무원에게 징역형 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;인천지법 부천지원 형사1부(재판장 김정아)는 30일 강제추행치상 혐의로 기소된 A(58)씨의 죄명을 강제추행으로 변경해 징역 2년에 집행유예 3년을 선고했다.&lt;br&gt;&lt;br&gt;또 A씨에게 성폭력 치료 강의 40시간과 사회봉사 160시간 수강을 명령하고, 아동·청소년이나 장애인 관련 기관에 5년 동안 취업하지 못하도록 제한했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 (당시 외교관) 신분에 적합한 행위를 할 직무상 의무가 있는데도 업무 보조를 하는 직원을 상대로 3차례 범행했다”며 “죄질이 나쁘고 비난받을 가능성도 크다”고 판단했다. 또 “피해자는 정신적 고통을 호소하면서 엄벌을 탄원했다”며 “초범이지만 이 사건으로 대한민국 국익에도 부정적인 영향이 미친 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;다만 재판부는 A씨가 피해자의 신체 주요 부위를 만진 혐의는 무죄로 판단했다. 강제추행과 피해자의 외상 후 스트레스 장애(PTSD)의 인과관계도 인정하지 않았다.&lt;br&gt;&lt;br&gt;A씨는 뉴질랜드 웰링턴에서 외교관으로 근무하던 지난 2017년 11~12월 3번에 걸쳐 현지 남성 행정직원 B씨를 강제추행해 외상 후 스트레스장애를 입게 한 혐의를 받았다. B씨는 2019년 7월 뉴질랜드 경찰에 A씨를 고소했지만 현지에서는 수사가 제대로 진행되지 않았고, 2022년 말 한국에 입국한 뒤 A씨를 다시 고소했다.&lt;br&gt;&lt;br&gt;검찰은 경찰로부터 강제추행 사건으로 송치 받은 이 사건에 대해 보완수사를 거쳐 A씨의 혐의를 강제추행에서 강제추행상해로 바꿔 재판에 넘겼다.&lt;br&gt;&lt;br&gt;한편 A씨는 올해 상반기 외교부에서 퇴직한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“인사가 늦었습니다”…교장에 현금다발 든 음료 상자 건넨 교사</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/30/YI5OATGFVNARTIIZJTGVTAJA4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/30/YI5OATGFVNARTIIZJTGVTAJA4Q/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>자신이 근무하는 학교의 교장·교감에게 현금 100만원을 넣은 음료 상자를 건네려 한 40대 교사가 법원으로부터 벌금형을 선고받았다.춘천지법 영월지원 형사1단독 강명중 판사는 부정 청탁 및 금품 등 수수의 금지에 관한 법률 위반 혐의로 기소된 A(42)씨에게 벌금 300만원을 선고했다고 30일 밝혔다.</description>
-      <pubDate>Fri, 30 Aug 2024 04:26:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2NXDPNN5BNM2Y4MQCTVXGHGWMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 영월지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 근무하는 학교의 교장·교감에게 따로 현금 100만원을 건네려 한 40대 교사가 법원으로부터 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 영월지원 형사1단독 강명중 판사는 부정 청탁 및 금품 등 수수의 금지에 관한 법률 위반 혐의로 기소된 A(42)씨에게 벌금 300만원을 선고했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;A 씨는 지난해 3월 중순 강원도 내 한 고교 교장인 B씨를 찾아가 “다른 학교에서 전입을 와 수업도 잘 못하고 정신이 없습니다. 열심히 하겠습니다”라는 말과 함께 현금 100만원이 든 음료 1상자를 전달하려 한 혐의다.&lt;br&gt;&lt;br&gt;A 씨는 또 같은 해 3월 하순과 4월 초순에도 이 학교 교감 C씨를 찾아가 같은 취지의 말을 하면서 현금 100만원이 든 음료 상자를 건네려 하기도 했다. 이 학교 교장과 교감은 A 씨가 건넨 음료 상자에서 현금을 발견하고 곧바로 돌려준 것으로 알려졌다.&lt;br&gt;&lt;br&gt;강 판사는 “피고인이 제공하려 한 액수, 횟수에 비춰 그 죄질이 좋지 않다”면서 “범행을 자백했고, 교장·교감이 금품을 받지 않아 제공에 이르지 않은 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 천안 보호관찰소에서 화재...”전자발찌 찬 남성이 분신 시도”</title>
       <link>https://www.chosun.com/national/regional/2024/08/30/373AXZKQNBH6JMPVC75ZHNV25Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/30/373AXZKQNBH6JMPVC75ZHNV25Y/</guid>
@@ -942,15 +957,6 @@
       <description/>
       <pubDate>Fri, 30 Aug 2024 02:52:06 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V2P63Z45UTLM27CLZAIC3UYZE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남 천안준법지원센터 화재 현장에서 구급대원들이 대피한 사람들을 치료하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 오전 9시 57분쯤 충남 천안시 서북구 성정동 법무부 천안준법지원센터(보호관찰소) 3층 사무실에서 불이 나 집기 등을 태운 뒤 출동한 소방대에 의해 진화됐다.&lt;br&gt;&lt;br&gt;이 불로 50대 1명과 60대 1명이 중상을 입고 병원으로 이송됐고, 13명이 연기를 흡입하는 등 모두 15명이 부상당한 것으로 알려졌다. 소방당국은 소방차 29대를 투입해 오전 10시13분쯤 불을 껐다.&lt;br&gt;&lt;br&gt;이날 불은 화재는 거주 이전과 관련해 불만을 품은 한 남성이 시너를 뿌리고 분신 소동을 일으켜 시작된 것으로 알려졌다. 이 남성은 보호관찰 대상으로 전자발찌를 찾고 있었다. 경찰과 소방당국은 정확한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>"닭, 죽이지 마" 도계장 입구 막은 활동가들, 벌금 확정</title>
-      <link>https://www.chosun.com/national/court_law/2024/08/30/GFOR6KQN7FAU7DFUUXEYL5SQCU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/08/30/GFOR6KQN7FAU7DFUUXEYL5SQCU/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Aug 2024 03:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UQGG22SBFS6DX66CUBD5UM25XI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2019년 10월 용인의 한 도계장 앞에서 동물단체 활동가들이 생닭 수송 차량의 진입을 저지하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동물권 보장을 촉구하며 도계장 입구를 가로막고 생닭 운송 차량을 막은 혐의로 기소된 활동가들에 대해 대법원에서 벌금형이 확정됐다.&lt;br&gt;&lt;br&gt;30일 법조계에 따르면, 대법원 2부(주심 신숙희 대법관)는 업무방해 혐의로 기소된 오모씨 등 동물단체 활동가 3명에게 벌금 300만원씩 선고한 원심을 지난 1일 확정했다. 오씨 등은 2019년 10월 4일 ‘세계 동물의 날’을 맞아 경기도 용인시의 한 도계장 입구 도로에 누워 생닭을 실은 트럭 5대를 가로막고, “닭을 죽이지 말라”는 구호를 외치며 4시간 이상 업무를 방해한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;검찰은 당초 이들을 벌금 300만원에 약식기소했다. 약식기소는 비교적 가벼운 혐의에 대해 서면 심리로 선고해달라 하는 것이다. 이에 오씨 등은 “농장 동물이 처한 끔찍한 현실을 알리겠다”며 정식 재판을 청구했다.&lt;br&gt;&lt;br&gt;활동가들은 1심에서 닭, 소, 돼지가 도살되는 현장의 모습을 담은 영상을 공개하며 “닭과 저의 목숨의 무게는 왜 이렇게 다른가”라고 진술했다. 그러면서 도계장을 막은 것은 정치적 표현의 자유를 행사하기 위한 정당행위라고 주장했다.&lt;br&gt;&lt;br&gt;하지만 1, 2심은 이들의 혐의를 유죄로 인정하고 벌금형을 선고했다. 1심은 “피고인들의 행위 자체는 정당성, 당위성을 부여받기는 어렵다”며 “타인에게 피해를 입히고 법을 위반하는 방법은 ‘나는 옳고, 너는 틀렸다’는 인식을 바탕으로 타인에게 신념을 강요해 반감을 야기시킬 뿐”이라고 지적했다. 2심은 “동물의 생명과 안전을 보호하고, 기업형 축산 시스템에 대해 반대한다는 취지에서 동기나 목적의 정당성이 인정될 여지가 있다”면서도 “오씨 등의 행위는 정당행위에 해당하지 않아 항소를 기각한다”고 했다.&lt;br&gt;&lt;br&gt;대법원도 “원심 판단에 업무방해죄 성립 등에 관한 법리를 오해한 잘못이 없다”며 벌금형을 확정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>연희동 씽크홀 30m 거리에 도로 균열 발생, 도로 통제중</title>
