@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울 폭염 특보, 38일 만에 해제</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/08/31/4EW5JVMGSBDSFGY6YZF4IGVFCM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/08/31/4EW5JVMGSBDSFGY6YZF4IGVFCM/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>서울의 폭염특보가 38일 만에 해제됐다.31일 기상청에 따르면 이날 5시를 기해 서울과 인천, 대전, 세종을 비롯해 전국 곳곳의 폭염특보가 해제되거나 경보에서 주의보로 단계가 낮아졌다. 서울과 인천(옹진군 제외)은 지난달 24일 폭염주의보가 내려진 이래 38일만에 특보가 풀린 것이고, 대전과 세종은 42일 만의 해제다.</description>
+      <pubDate>Sat, 31 Aug 2024 09:25:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IQJRMNC46NFENPV6ELTDSYJE7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 5시를 기해 서울과 인천, 대전, 세종을 비롯해 전국 곳곳의 폭염특보가 해제되거나 경보에서 주의보로 단계가 낮아졌다/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의 폭염특보가 38일 만에 해제됐다.&lt;br&gt;&lt;br&gt;31일 기상청에 따르면 이날 오후 5시를 기해 서울과 인천, 대전, 세종을 비롯해 전국 곳곳의 폭염특보가 해제되거나 경보에서 주의보로 단계가 낮아졌다. 서울과 인천(옹진군 제외)은 지난달 24일 폭염주의보가 내려진 이래 38일만에 특보가 풀렸고, 대전과 세종은 42일 만에 해제됐다.&lt;br&gt;&lt;br&gt;전국 183개 기상특보 구역 중 95곳에 폭염특보가 유지 중이다. 다만, 폭염경보가 내려진 곳은 없고 이보다 낮은 단계인 폭염주의보다.&lt;br&gt;&lt;br&gt;올해 8월은 기록적인 더위로 채워졌다. 이달 1~30일 전국 평균 기온은 28도로 기상관측망이 전국에 확충된 1973년 후 가장 높은 기온을 기록했다.&lt;br&gt;&lt;br&gt;앞으로 기온이 점차 평년 수준을 되찾으면서 선선해질 것으로 보인다. 일요일인 9월 1일엔 토요일과 비교해 체감 온도가 1~2도 가량 떨어질 것으로 전망된다. 9월 1일 아침 최저기온은 19~25도, 낮 최고기온은 30~33도가 되겠다.&lt;br&gt;&lt;br&gt;9월 2일에는 기압골의 영향으로 새벽에서 오후까지 중부지방에 가끔 비도 내릴 것으로 전망된다. 최저기온과 최고기온 예상치는 19~25도, 26~33도다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>어머니에게 흉기 휘두른 20대 아들 체포</title>
+      <link>https://www.chosun.com/national/incident/2024/08/31/Y5XLNQVTXBEAFAXXK5SV5JMAUQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/31/Y5XLNQVTXBEAFAXXK5SV5JMAUQ/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Aug 2024 08:51:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P5JXPBMF5MK3KI4YPKXESNCF7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어머니에게 흉기를 휘두른 20대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 이천경찰서는 존속 살해 미수 혐의로 20대 남성 A씨를 체포해 조사하고 있다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 30일 오전 10시쯤 경기 이천시의 한 아파트에서 자신의 어머니인 50대 B씨에게 흉기를 휘둘러 다치게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;B씨는 A씨의 흉기에 목 부위를 다쳤으나, 생명에 지장은 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 A씨를 현행범으로 체포했다. A씨는 경찰 조사에서 “(어머니가) 나를 괴롭혀 흉기를 휘둘렀다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;지적장애를 앓고 있는 A씨는 정신질환으로 치료를 받은 전력이 있었다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨 등을 상대로 정확한 사건 경위를 조사하고 있다”며 “A씨에 대한 구속영장을 신청할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경기 가평군 캠핑장에서 30대 남성 숨진 채 발견... 경찰 수사</title>
       <link>https://www.chosun.com/national/incident/2024/08/31/VSP64BB4ORHNLOW4TNA7ARG4MI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/31/VSP64BB4ORHNLOW4TNA7ARG4MI/</guid>
@@ -930,24 +948,6 @@
       <description/>
       <pubDate>Fri, 30 Aug 2024 05:18:20 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4BOXEZGCWTTBIBF7BYZYZOQOKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 동작경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어머니 목을 졸라 숨지게 한 30대 아들이 구속된 채 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 동작경찰서는 지난 29일 살인 혐의를 받는 30대 남성 A씨를 구속 송치했다고 30일 밝혔다. A씨는 지난 21일 오전 2시 20분쯤 서울 동작구 상도동의 한 아파트에서 어머니인 60대 B씨를 목 졸라 숨지게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨에게 공격 받던 B씨는 경찰에 “아들이 때린다”며 스스로 신고했고 출동한 경찰은 A씨를 현행범으로 체포했다. B씨는 현장에서 심폐소생술을 받은 후 인근 병원으로 옮겨졌으나 숨진 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이후 경찰은 지난 22일 구속영장을 신청했고, 법원은 같은 달 24일 ‘도주 우려가 있다’며 영장을 발부했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 평소 우울증 등 정신 질환을 앓고 있었던 것으로 확인됐다. 경찰은 A씨가 정신병 증상이 악화돼 범행을 저지른 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨에게 동종 범행 전력은 없는 것으로 확인됐다”며 “모친과 갈등을 겪다 우발적으로 범행을 저지른 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원, ‘배현진 의원 스토킹’ 50대男에 1심 징역 1년 6개월 선고</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/30/TSH6ZO6FSVDBTKFIDTFM6OVB6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/30/TSH6ZO6FSVDBTKFIDTFM6OVB6E/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Aug 2024 06:15:58 +0000</pubDate>
-      <content:encoded>법원이 배현진 국민의힘 의원을 스토킹한 혐의를 받는 남성 최모(59)씨에게 1심에서 실형을 선고했다. 서울동부지법 형사합의11부(재판장 강민호)는 30일 스토킹처벌법 위반, 공직선거법상 허위사실유포 혐의로 기소된 최모(59)씨에게 징역 1년 6개월을 선고하고 보호관찰 3년을 명령했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TIDAKRLFUBFGJNPPWTJCCLQWMQ.jfif"&gt;&lt;figcaption&gt;&lt;small&gt;배현진 국민의힘 의원./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최씨는 지난 3월 배현진 의원의 조모상이 치러지는 서울아산병원 장례식장에서 “나는 배현진 의원과 약혼한 사이”라며 난동을 부린 혐의를 받는다. 또 최씨는 페이스북과 인스타그램 등 소셜미디어를 통해 배 의원을 향한 성적 모욕과 허위 사실을 지속해서 유포한 혐의를 받는다.&lt;br&gt;&lt;br&gt;재판부는 “피고인의 범행으로 피해자는 상당한 공포와 불안감을 느꼈을 것으로 보여 피해 정도가 심각하고 이전 범죄로 징역형을 선고받고 집행유예 기간에 범죄를 저질렀다”며 “책임에 상응하는 엄정한 처벌이 필요하나 뒤늦게나마 범행을 인정한 점을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>카메라 앞 허리 감싸며 “같이 마시자”…혼술하던 여성 유튜버가 겪은 일</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/30/HJXW6HKPPVFMBJELHE3HGERGOM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/30/HJXW6HKPPVFMBJELHE3HGERGOM/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Aug 2024 06:00:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JKG4FQMRYFAINOXMAF6O5RTUWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;횟집에서 먹방을 촬영하는 유튜버 윤숙희에게 술취한 남성이 접근해 허리를 감싸고 있다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;식당에서 카메라를 켜고 먹방을 촬영하던 중 취객들의 불쾌한 신체 접촉으로 피해를 입었다는 여성 유튜버의 사연이 전해졌다.&lt;br&gt;&lt;br&gt;유튜브 채널 ‘윤숙희 혼술하는 여자’에는 지난 21일 ‘대낮에 진상 X저씨들한테 속수무책으로 당했습니다. 먹다가 나왔네요’라는 제목의 영상이 올라왔다.&lt;br&gt;&lt;br&gt;영상 속 유튜버 윤숙희는 서울 구로구 오류역 인근 한 횟집을 찾아 가게 주인의 동의를 받고 먹방을 촬영중이었다.&lt;br&gt;&lt;br&gt;윤숙희가 술을 곁들여 식사하던 도중 술에 취한 중년 남성 일행이 그에게 다가왔다. 이들 중 한 남성은 사진 촬영을 요구하더니 자연스럽게 윤숙희의 허리와 어깨를 감쌌다. 당황한 윤숙희는 신체접촉을 피하고자 남성의 반대편으로 이동해 사진을 찍었다. 윤숙희는 카메라를 향해 “사진 찍을 때 허리를 감싸서 (기분이 나빴다)”며 얼굴을 찌푸렸다.&lt;br&gt;&lt;br&gt;윤숙희는 애써 기분을 가다듬고 다시 식사를 시작했다. 그러나 이 남성이 여러차례 윤숙희에게 접근했다. 이 남성은 마음대로 술병을 들고 따르더니, 합석까지 제안했다. 윤숙희는 불편한 내색을 드러내며 이 남성의 제안을 정중히 거절했다.&lt;br&gt;&lt;br&gt;윤숙희는 “이런 일도 있고, 저런 일도 있지만 기분이 빠르게 다운됐다”며 “표정 관리가 안됐다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XYWOETYSLZG7VMB62OJUYSQ5H4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남성의 일행이 유튜버 윤숙희의 어깨를 만지며 사과하고 있다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러는 사이 이번엔 이 남성의 다른 일행이 카메라 뒤에 서서 방송을 방해했다. 윤숙희는 방송중임을 알렸고, 이후 다시 다가온 그는 “사과한다”며 윤숙희의 어깨를 만졌다. 윤숙희는 이에 반응하지 않았고, 이 남성들은 대뜸 욕설을 하며 가게를 떠났다.&lt;br&gt;&lt;br&gt;이 모습을 지켜본 식당 사장은 윤숙희에게 “죄송하다”며 대신 사과했다. 이에 윤숙희는 “사장님이 사과할 일 아니지 않느냐”고 했다. 표정이 어두워진 윤숙희는 먹던 음식을 남기고 자리에서 일어났지만 재차 미안해 하는 식당 측에 “괜찮다”고 인사한 뒤 가게를 나섰다.&lt;br&gt;&lt;br&gt;영상을 접한 네티즌들은 “성추행이다. 경찰에 신고해야 한다” “영상 증거가 다 남아있으니 성추행, 업무방해로 꼭 신고하시길 바란다” “보는 사람도 화가날 정도로 무례한데 혼자서 얼마나 힘드셨냐” 등의 반응을 보이고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보] 천안 보호관찰소에서 화재...”전자발찌 찬 남성이 분신 시도”</title>
