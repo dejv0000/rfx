@@ -13,6 +13,112 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>입장문 낸 檢 “문다혜씨 압수 수색, 법원 영장받은 적법한 수사” [전문]</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/01/KANT3BMHXJAEHPKCB7R2WQWPEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/01/KANT3BMHXJAEHPKCB7R2WQWPEI/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Sep 2024 04:59:07 +0000</pubDate>
+      <content:encoded>문재인 전 대통령의 딸 다혜 씨에 대한 압수수색과 관련해 검찰이 “정치적 상황과는 무관한 적법한 수사”라는 입장을 내놓았다.&lt;br&gt;&lt;br&gt;이 사건을 수사 중인 전주지검은 1일 “검찰은 문 전 대통령 자녀에 대한 태국 이주 부정 지원 사건과 관련해 법원으로부터 적법하게 발부받은 영장 등에 기초해 실체적 진실 규명을 위해 필요한 한도 내에서 신중하게 수사하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇다음은 전주지검 입장 전문&lt;/b&gt;&lt;br&gt;&lt;br&gt;전주지검 형사3부는 문재인 전 대통령 자녀에 대한 태국 이주 부정지원 사건과 관련하여 법원으로부터 적법하게 발부받은 영장 등에 기초하여 실체적 진실 규명을 위하여 필요한 한도 내에서 신중하게 수사를 진행하고 있습니다.&lt;br&gt;&lt;br&gt;이 사건은 이스타항공 운영을 둘러싼 각종 혐의의 연장선상에서 순차적으로 수사를 진행하고 있는 사건으로 정치적 상황과는 전혀 무관합니다.&lt;br&gt;&lt;br&gt;일각에서 검찰이 문재인 전 대통령의 손자 아이패드를 압수하였다는 주장을 하고 있으나, 당시 전 사위의 주거지 영장 집행 현장에서 발견된 태블릿 중 A00 자녀의 교육용임이 확인된 태블릿은 처음부터 압수를 한 바 없음을 명확히 밝혀두는 바입니다.&lt;br&gt;&lt;br&gt;해당 태블릿 PC는 2024. 1.경 문재인 전 대통령의 전 사위 주거지 압수과정에서 문재인 전 대통령의 딸 Aㅇㅇ의 이메일 등이 저장되어 있어 사건 관련성이 인정된 매체로서 전 사위 측 변호사 참여 하에 그에 대한 충분한 설명을 하는 등 적법한 절차를 거쳐 압수되었고, 해당 압수에 대해 변호사 등으로부터 공식적으로 이의신청된 바도 없습니다.&lt;br&gt;&lt;br&gt;검찰은 적법절차에 따라 압수수색 필요성이 확인된 대상에 대해서만 필요최소한의 범위에서 압수를 하였음에도 일각에서 제기되는 일방적인 음해성 주장에 대해 유감을 표합니다. 더 이상 사실에 기초하지 아니한 주장을 하여서는 안될 것입니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/I5P2FNEQ7FMVU6IX2EK36GJP6M.jpg?width=600&amp;height=343&amp;auth=b6634662fc727f99921d55098a9680e0e70f12778cbb80c1994238473790e5fa&amp;smart=true" type="image/jpeg" height="343" width="600">
+        <media:description type="plain">문재인 더불어민주당 대선후보가 2017년 5월 8일 오후 서울 광화문광장에서 진행된 제19대 대통령 선거 마지막 유세에서 딸 문다혜 씨와 손자로부터 카네이션을 선물받고 기념촬영을 하고 있다. photo 뉴시스</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>김문수 노동장관 "임금체불 청산·체불사업주 엄벌" 지시</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/09/01/YI7YQQURAJGZNAZ3NVZ77OQDQY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/09/01/YI7YQQURAJGZNAZ3NVZ77OQDQY/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Sep 2024 05:05:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PXF5TJLUO6TPMWCNJUWKBZTHIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김문수 신임 고용노동부 장관이 지난달 30일 오후 세종시 정부세종청사에서 열린 취임식에 참석해 취임사를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김문수 고용노동부 장관이 취임 후 첫 번째 업무 지시로 임금체불에 대한 총력 대응을 주문했다고 노동부가 1일 밝혔다.&lt;br&gt;&lt;br&gt;이날 노동부에 따르면, 김 장관은 취임 이튿날인 지난 31일 긴급 간부회의를 열고 “그간 노력에도 청산되지 않은 2198억원을 전액 청산한다는 각오로 총력 대응하라”고 지시했다. 2198억원은 지난 6월 말 기준 임금 체불액 1조436억원 중 청산되지 않은 금액이다.&lt;br&gt;&lt;br&gt;김 장관은 회의에서 “기관장이 매일 체불 상황을 점검하고 체불임금이 모두 청산되도록 현장으로 나갈 것”과 “악의적이고 상습적인 체불사업주에 대해서는 체포영장 신청, 구속수사 등을 원칙으로 한층 강도 높게 대응할 것”을 강조했다고 노동부는 전했다.&lt;br&gt;&lt;br&gt;또 현재 임금체불이 발생 중인 큐텐 계열사에 대해 신속하고 엄정한 수사를 지시했다고 노동부는 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>임현택 의협 회장, 닷새만에 단식 중단… 전공의 대표는 “회장 끌어내려야”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/09/01/6ZUHZ6NVL5AORA2HMAUXMDZAEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/01/6ZUHZ6NVL5AORA2HMAUXMDZAEU/</guid>
+      <dc:creator>안준용 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Sep 2024 05:04:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IKGVJAXXLBLCLLQCLRCIM3SLZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 26일부터 단식 투쟁에 들어간 임현택 대한의사협회 회장이 31일 서울 용산구 의협 회관에서 병원으로 후송되고 있다. /대한의사협회 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임현택 대한의사협회(의협) 회장이 지난 26일 정부의 의대 증원과 국회의 간호법 통과를 규탄하는 단식 투쟁에 들어간 지 닷새 만인 31일 건강 악화로 단식을 중단했다.&lt;br&gt;&lt;br&gt;의협은 31일 “임 회장이 의료공백 사태 수습을 촉구하며 의협 회관 앞마당에서, 농성장 내부 온도가 40도를 넘기는 열악한 환경 속에서 단식을 지속해 왔다”며 “당뇨·고지혈증 등 기저질환이 악화해 고통스러워했고, 부정맥 증상이 심화해 의식 저하로 위험한 상태에 이르렀다”고 했다, 그러면서 “부정맥 등 위험 증상에 대한 응급치료를 받고 회복해 투쟁을 지속해나갈 계획”이라고 했다.&lt;br&gt;&lt;br&gt;임 회장은 이날(31일) 열린 의협 대의원회 임시대의원총회에서 미리 촬영해 둔 영상을 통해 인사말을 한 뒤 관계자들의 부축을 받으며 단식장으로 이동했다. 이후 건강 상태 악화로 인근 병원 응급실로 옮겨졌다.&lt;br&gt;&lt;br&gt;이날 총회에선 의협 비상대책위원회 설치에 관한 투표가 진행됐지만, 투표 인원 189명(총원 242명) 가운데 찬성 53명, 반대 131명, 기권 5명으로 안건이 부결됐다. 일단 비대위는 출범하지 않고 현 집행부 중심 투쟁을 계속하기로 한 것이다. 그러나 의료계에선 “임 회장이 취임 넉 달도 안 돼 비대위 설치 안건이 올라온 것 자체가 리더십에 상당한 타격”이란 말이 나왔다. 의협 대의원회는 임현택 집행부에 대한 재신임이 아닌 ‘경고’라고 했다. 김영준 부의장은 “비대위를 구성하면 집행부가 지금까지 무능했는데 앞으로 더 무능력해지지 않을까 싶어 반대한 대의원들이 많다고 생각한다”며 “결사항전 자세로 강력한 투쟁을 하지 못하면 대의원들이 책임을 물을 것”이라고 했다.&lt;br&gt;&lt;br&gt;특히 전공의 대표인 박단 대한전공의협의회(대전협) 비상대책위원장은 이날 총회에 참석해 임 회장의 자진 사퇴를 촉구하며 “임 회장과 집행부는 해야 할 역할이 있다. 감당하지 못하면 물러나야 하고 물러나지 않으면 끌어내려야 한다”고 했다. 박 위원장은 “의협과 임 회장은 14만 의사를 대표해 무엇을 하고 있느냐”며 “대전협 비대위는 본인 면피에 급급한 무능한 회장과 함께 하지 않겠다”고 했다. 일부 대의원은 지난 28일부터 회원들을 대상으로 임 회장 불신임 청원 동의를 받고 있다.&lt;br&gt;&lt;br&gt;이날 의협 대의원 총회에선 정부를 향한 강경 발언도 쏟아졌다. 김교웅 대의원회 의장은 병원장과 병원 보직 교수 등을 향해 “단지 의사가 환자 곁에 있어야만 한다는 생각조차도 내려놓아야 한다”고 말했다. 김성근 의협 대의원은 투쟁선언문에서 “싸움은 선제공격을 한 쪽이 이기는 것이 아니라 지치는 쪽이 지는 것이다. 대통령 임기가 끝날 때까지 이 싸움은 끝나는 것이 아니다”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>투표지 촬영 SNS 단체 대화방에 올린 50대, 벌금형</title>
+      <link>https://www.chosun.com/national/regional/2024/09/01/HQ7ZGQ5EUNGY7M3KLFTV2W5KFA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/01/HQ7ZGQ5EUNGY7M3KLFTV2W5KFA/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Sep 2024 04:58:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OEP23TEMYVH2ZDUPWL7E4R6IAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 총선 당시 자신이 기표한 투표지를 사진 촬영한 뒤 이를 사회관계망서비스(SNS) 단체 대화방에 올린 50대에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;청주지법 형사11부(재판장 태지영)는 공직선거법 위반 혐의로 재판에 넘겨진 A(53)씨에게 벌금 50만원을 선고했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 4월 청주에 설치된 제22대 국회의원 선거 기표소 안에서 모 후보자를 찍은 투표용지를 촬영한 뒤 이를 1000여명의 불특정 다수인이 참여하고 있는 SNS 단체 채팅방에 게시한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;재판부는 “누구든지 기표소 안에서 투표지를 촬영해선 안 되고, 선거인은 자신이 기표한 투표지를 공개할 수 없다”며 “공정하고 평온한 투표 절차를 보장하려는 공직선거법 취지에 비춰볼 때 죄책이 가볍지 않지만, 잘못을 반성하는 점 등을 참작했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>기업 의뢰 작업 수행하다 사망한 개인사업자...법원 “산재보호법상 근로자 해당”</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/01/6QSLXOIH5JCJNFRTKLLLAHBHZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/01/6QSLXOIH5JCJNFRTKLLLAHBHZM/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Sep 2024 04:22:57 +0000</pubDate>
+      <content:encoded>회사의 의뢰를 받아 실질적인 관리·감독 아래 일하다 숨졌다면 개인사업자였다 하더라도 산업재해 보상금을 줘야 한다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/COCQ6OUU55ER5BQPAQDEUOAUBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울가정법원·서울행정법원 청사. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 법조계에 따르면 서울행정법원 행정13부(재판장 박정대)는 숨진 개인사업자 A씨의 유족이 근로복지공단을 상대로 낸 유족급여 및 장의비 부지급 처분 취소 소송 1심에서 원고 승소로 판결했다.&lt;br&gt;&lt;br&gt;A씨는 2022년 12월 26일 B 기업으로부터 의뢰받은 한 초등학교 음악실 인테리어 공사 현장에서 피아노를 혼자 옮기려고 시도하다 피아노에 깔리는 사고를 당해 결국 숨졌다. 그는 평소 화물차로 이삿짐, 가구 운송 등을 운송하는 개인사업자였지만 이날은 피아노를 운반해달라는 의뢰를 받아 작업 중이었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;유족은 근로복지공단에 A씨의 사망에 따른 유족 급여와 장례 비용을 신청했으나 공단은 2023년 3월 ‘망인은 개인사업자로 B 기업 대표로부터 의뢰 받은 작업을 수행하고 그에 상응하는 비용을 지급 받는 거래 관계에 있으므로 산업재해보상보험법의 적용을 받는 근로자로 볼 수 없다’는 취지의 부지급 결정 처분을 내렸다. 이에 반발한 유족은 그해 4월 소송을 제기했다.&lt;br&gt;&lt;br&gt;A씨 유족 측은 재판 과정에서 A씨가 ▲개인사업자로서 수행하던 용달이 아니라 음악실 내 집기를 옮기는 작업을 수행하다 사망에 이른 점 ▲작업 수행 과정에서 B 기업으로부터 상당한 지휘·감독을 받은 점 ▲망인의 식대 및 업무 소요 비용 등은 B 기업이 부담한 점 등에 비추어 A씨가 B 기업의 상당한 지휘·감독 아래 근로를 제공한 산재보호법상 근로자로 봐야한다고 주장했다.&lt;br&gt;&lt;br&gt;법원도 A씨 유족 측 손을 들어줬다.&lt;br&gt;&lt;br&gt;재판부는 근로자에 해당하는지는 근로자가 사업 또는 사업장에 임금을 목적으로 종속적인 관계에서 근로를 제공했는지 여부에 따라 판단해야 한다는 취지의 대법원 판결을 언급하며 “망인은 임금을 목적으로 종속적인 관계에서 근로를 제공했다”면서 “산재보험법상 근로자에 해당한다”고 설명했다.&lt;br&gt;&lt;br&gt;이어 “망인이 사업주로서의 외관을 갖추었고 취업규칙, 복무규정 등의 적용을 받지 않았다고 하더라도 이는 사용자인 기업이 경제적으로 우월한 지위에서 임의로 정할 수 있는 사항이거나 실질적인 노무 제공 실태와 부합하지 않으므로 이 같은 사정만으로 망인의 근로자성을 부인할 수 없다”고 지적했다.&lt;br&gt;&lt;br&gt;공단 측이 항소하지 않아 이 판결은 그대로 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>밤다운 밤온다…월요일 비오며 평년기온 회복</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/09/01/L5SNVQ6MFNGTFFESRYIRWICP4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/09/01/L5SNVQ6MFNGTFFESRYIRWICP4Y/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Sep 2024 04:38:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WJZIYS2PQBPYBOYKPM6GNPOK74.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;1일 경북 포항시 북구 흥해읍 용한리 해변에서 서퍼들이 가을파도를 타고 있다. 2024.9.1/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;끝 모를 ‘밤 더위’가 9월 들어 꺾이며 밤다운 밤을 맞겠다고 기상청이 1일 밝혔다. 2일 전국 곳곳에 비가 내리면서 평년기온을 회복할 전망이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 2일 전국이 대체로 흐리겠고, 곳곳에 비가 내리겠다. 중부지방은 늦은 새벽부터 가끔 비가 오는 곳이 있겠고 오후에 대부분 그치겠다. 강원영동과 충남은 밤까지 비가 이어지는 곳이 있겠고, 전라·경상권 내륙은 오후부터 밤사이 0.1㎜ 미만의 빗방울이 떨어지는 곳이 있겠다.&lt;br&gt;&lt;br&gt;예상 강수량은 서울·인천·경기·강원영서 5㎜ 안팎, 강원 영동 5∼40㎜, 대전·세종·충남·부산·울산 5∼10㎜, 충북 5㎜ 미만으로 예보됐다.&lt;br&gt;&lt;br&gt;비가 내리면서 중부 지방과 일부 남부 지방의 폭염특보는 차차 해제될 것으로 예상된다. 2일 아침 최저기온은 19∼25도, 낮 최고기온은 26∼33도로 예보됐다. 대부분 지역에서 최저기온이 25도 아래로 예보돼 열대야(밤 최저기온 25도 이상)에서 벗어나는 지역도 많아질 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>건축주·분양업자·공인중개사까지 공모...전세사기범 8323명 검거</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/01/B4P3QETW65GLHCSLO6QFGX5UXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/01/B4P3QETW65GLHCSLO6QFGX5UXE/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Sep 2024 03:58:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7HK6YQM6WBLAJC5O3GKTQP42LQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청년 전세사기 피해자가 지난 6월 23일 서울 서대문구 신촌 U-PLEX 앞에서 열린 '신촌·구로·병점 100억대 전세사기 피해자 대책위원회' 출범 기자회견에 참석한 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 2년간 전세사기 범정부 전국 특별단속을 시행한 결과 40개 조직을 포함해 총 8323명이 검거된 것으로 나타났다. 전세사기 범행엔 건축주부터 분양대행업자, 부동산 상담업자, 공인중개사 등이 대거 가담했다. 1만 6000명이 2조원대에 달하는 피해를 봤고, 30대 이하 사회 초년생 및 청년층에게 피해가 집중된 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰청 국가수사본부는 2022년 7월부터 올해 7월까지 2년간 벌인 전세사기 특별단속 결과, 총 2689건의 의심사례를 수사해 피의자 8323명을 검거하고 이중 610명을 구속했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 전국 18개 시도경찰청 반부패·경제범죄수사대에 전세사기 전담수사팀 2118명 편성해 수사를 진행했다. 수사 결과 사기 유형은 금융 기관의 전세자금 대출 제도를 악용하는 허위 보증보험이 2935명으로 35.3%를 차지해 가장 많았다. ‘무자본 갭투자’의 경우 1994명(24%), 불법 중개감정은 1575명(18.9%) 순으로 검거됐다.&lt;br&gt;&lt;br&gt;가담 피의자는 가짜 임대·임차인이 3141명(37.7%)으로 가장 많았고, 공인중개·중개보조원 2081명(25%), 임대인·소유자 1454명(17.5%), 부동산 상담업자 등 브로커 1122명(13.5%) 순으로 조사됐다.&lt;br&gt;&lt;br&gt;특히 건축주·분양대행업자·부동산 업자, 공인중개사·임대인이 공모·가담한 ‘무자본 갭투자’ 19개 조직과 총책을 중심으로 임대인·임차인 모집책과 가짜 임대인·임차인 등이 가담한 ‘전세자 대출사기’ 21개 조직 등 총 40개 조직이 검거됐다. 15개 조직에는 형법상 ‘범죄단체·집단 조직죄’가 적용됐다.&lt;br&gt;&lt;br&gt;피해자 규모는 1만 6314명으로 피해금은 총 2조 4963억원으로 파악됐다. 피해자 연령은 30대 이하 피해자가 62.8%로, 주택 유형으로는 다세대 주택(빌라)이 59.9%로 가장 많았다. 1인당 피해금은 1억~2억원이 34%로 가장 많았다.&lt;br&gt;&lt;br&gt;경찰은 그간 범죄수익 1918억 8000만원을 몰수·추징 보전했다. 주요 수사 사례로는 무자본 갭투자 방식으로 100억대 범행을 저지른 일당 등이 있다. 경찰은 무자본 갭투자 방식으로 빌라 매입 후 보증보험에 가입해 줄 것처럼 피해자를 속여 임대차 계약을 체결한 뒤 전세보증금 반환보증서를 위조·행사하는 수법으로 피해자 50명에게서 133억원을 뜯어낸 상담업자 등 76명도 검거했다.&lt;br&gt;&lt;br&gt;부산경찰청은 오피스텔 임대관리업체를 설립하고 임대수익을 보장하겠다고 속여 임대차 계약·관리를 위임받은 후 보증금 돌려막기로 임차인 257명으로부터 총 123억원을 챙긴 법인 대표 등 11명을 검거해 2명을 구속했다.&lt;br&gt;&lt;br&gt;조지호 경찰청장은 “서민들의 평온한 일상의 기반을 흔드는 전세사기 조직과 브로커들이 우리 사회에 발붙이지 못하도록 엄정하게 단속하고, 관계 부처와 협력하여 피해회복과 구제에도 힘쓰겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>무더위에 ‘상의 탈의’ 늘자 민원 속출… “처벌 근거는 없어”</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/01/ST5LRFOHJFBYDM2DN7LDPONDKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/01/ST5LRFOHJFBYDM2DN7LDPONDKE/</guid>
+      <dc:creator>서보범 기자, 남병진 인턴기자(한국외대 행정학 4학년)</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Sep 2024 04:11:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CVHA74KQH5LQDLVLLV5RARGX4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 연속 열대야가 이어지던 지난달 12일 오후 서울 영등포구 여의도한강공원 물빛광장 인근에서 한 시민이 상의를 탈의한 채 달리고 있다. 사진은 기사와 직접적 관련이 없음. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 17일 오후 8시 서울 반포한강공원. 서울에 27일째 열대야가 이어졌던 이날 2시간 동안 시민 10여명이 상의를 탈의한 채 운동하는 모습을 볼 수 있었다. 웃옷을 벗은 채 자전거를 타고 공원을 주행하던 오모(31‧남)씨는 “땀이 많이 나 종종 상의를 벗고 주행한다”며 “성적 의도가 있다거나, 난동을 부리는 것도 아닌데 떳떳하지 못할 게 없다”고 했다.&lt;br&gt;&lt;br&gt;역대 최악의 더위로 기록된 올해 여름 하천변이나 공원에서 상의를 탈의한 채 운동하는 시민들이 늘자, 관련 민원이 끊이지 않고 있다. 서울시 미래한강본부 관계자는 “미풍양속을 해친다는 이유로 민원이 계속되고 있다”며 “한강공원을 순찰하면서 ‘옷을 입어달라'고 구두로 안내한다” 했다. 경찰 관계자는 “지난 4월 이후 상의 탈의 관련 민원이 매일 10건 내외로 접수된다”며 “최근에는 민원이 끊이지 않아 주기적으로 단속을 나가기도 했다”고 했다.&lt;br&gt;&lt;br&gt;서울 마포구에 사는 김모(44‧남)씨는 “아내와 자녀들과 함께 가족 단위로 잠수교를 자주 산책하는데 상의를 벗고 있는 사람을 마주치면 민망하다”며 “아이들까지 함께 있어서 교육상 걱정이 된다”고 했다. 서울 송파구에 거주하는 최지원(26)씨는 “석촌호수공원에 사람이 많아 서로 부대끼는 경우도 있는데, 맨몸인 이들과 부딪혀 불쾌한 적도 많다. 아무리 불편하더라도 공공장소에서는 자제해야 한다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;운동 중 상의를 탈의했다는 이유만으로 이를 규제 또는 처벌할 수 있는 근거는 미비하다. 현행법상 공공장소에서 ‘성기나 엉덩이 등 신체 주요 부위를 노출한 경우’를 처벌 대상으로 하기 때문이다. 기존의 경범죄 처벌법은 공공장소에서 과다한 노출을 할 경우 10만원 이하의 벌금을 부과할 수 있도록 규정했다. 하지만 2016년 헌법재판소는 ‘과다한 노출’에 대한 기준이 제시돼 있지 않다는 이유 등으로 해당 규정을 위헌으로 판단했다.&lt;br&gt;&lt;br&gt;서울시 시설관리공단 관계자는 “상의 탈의와 관련해 민원이 들어와도 행정 지도를 할 수 없다”며 “청계천 이용 관리 조례에 시민의 공익을 위해 행정지도 할 수 있다는 항목이 있지만 상의 탈의는 이에 해당하지 않는다”고 설명했다. 조례는 흡연·음주·노숙·취사 등 행위에 대해 행정 지도를 할 수 있도록 규정한다.&lt;br&gt;&lt;br&gt;일부 국가에선 상의를 탈의한 채 운동하는 행위를 불법으로 규정하고 벌금을 부과하기도 한다. 스페인 바르셀로나는 바닷가 인근이 아닌 공공장소에서 상의를 탈의하는 행위를 금지한다. 만약 이를 위반할 경우 벌금 300~750유로를 부과한다. 이탈리아 베니스도 공공장소에서 상의 탈의를 금지하고, 위반시 250~500유로를 부과한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“버티면 이긴다” 이주호 발언... “의사 대상 아니야” 해명</title>
+      <link>https://www.chosun.com/national/education/2024/09/01/T4CYCPHEDBBVFEROKBPMYT6YUY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/09/01/T4CYCPHEDBBVFEROKBPMYT6YUY/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Sep 2024 03:51:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3HSC62JV2RIXARI23DHRFFREPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이주호 사회부총리 겸 교육부 장관이 29일 오후 인천 중구 용유로 인천국제공항공사 인재개발원에서 열린 2024 국민의힘 국회의원 연찬회에서 의대 증원 관련 보고를 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이부호 사회부총리 겸 교육부 장관이 최근 국민의힘 연찬 자리에서 의정 갈등과 관련해 “6개월만 버티면 이긴다”고 발언해 논란이 되는 가운데, 교육부가 “의사를 대상으로 한 말이 아니다”고 해명했다.&lt;br&gt;&lt;br&gt;교육부는 지난달 31일 설명자료를 내고 “토론 일부 내용이 전체 발언의 취지와 전혀 다르게 알려져 이를 바로 잡고자 한다”며 이 같이 밝혔다.&lt;br&gt;&lt;br&gt;교육부는 “과거부터 진행됐던 의료개혁 추진 과정에서 의료계와 정부 간에 쌓인 불신의 벽이 매우 높기 때문에 의료개혁을 완수하기 위해서는 의료계와 소통과 신뢰 구축이 최우선이라는 취지로 말했다”고 설명했다.&lt;br&gt;&lt;br&gt;‘이긴다’는 표현에 대해서는 “의사를 대상으로 한 것이 전혀 아니며, 그 반대로 대화와 소통을 통해 의료 개혁 추진에 따른 힘든 과정을 극복하자는 의미였다”고 해명했다. 특히 “이번 9월이 소통과 신뢰 회복의 골든타임이자 중요한 전환점이 될 수 있음을 강조했다”는 게 교육부 설명이다.&lt;br&gt;&lt;br&gt;교육부는 “정부와 국회가 의료개혁을 위한 구체적인 예산 확보와 제도 마련으로 실행 의지를 명확하게 보이고, 보다 적극적으로 의료계와 소통하고 설득해 나간다면 분위기를 전환해 의료개혁을 완수해 나갈 수 있다는 취지였다”고 밝혔다. 교육부는 “다양한 해결 방안을 논의하고자 비공개로 진행된 토론회에서의 일부 단어가 전체 맥락과 취지가 고려되지 않고 확산하는 것에 안타깝게 생각한다”며 “그로 인해 의료계와 정부, 국회 간의 신뢰와 협조가 저해되지 않기를 바란다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이 부총리는 29일 인천국제공항공사 인재개발원에서 열린 국민의힘 연찬회에서 조규홍 보건복지부 장관, 장상윤 대통령실 사회수석과 함께 의료개혁과 관련한 정부 계획을 보고했다. 이날 의원들과의 비공개 질의응답에서 이 부총리가 ‘6개월만 버티면 우리가 이긴다. 기다려달라’는 취지로 발언했고, 일부 의원이 ‘의사가 싸움의 대상이냐’며 질책한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/3HSC62JV2RIXARI23DHRFFREPA.jpg?width=600&amp;height=400&amp;auth=7f5a7bef6e6404f430685e9c43be1efe3f67239be5b97dc922d29551a4d06afb&amp;smart=true" type="image/jpeg" height="400" width="600">
+        <media:description type="plain">이주호 사회부총리 겸 교육부 장관이 29일 오후 인천 중구 용유로 인천국제공항공사 인재개발원에서 열린 2024 국민의힘 국회의원 연찬회에서 &amp;#39;의대 증원&amp;#39; 관련 보고를 하고 있다. photo 뉴시스</media:description>
+        <media:credit role="author" scheme="urn:ebu">Á¶¼ººÀ</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>경주서 전동카트·자전거 화재…배터리 이상 원인 추정</title>
+      <link>https://www.chosun.com/national/regional/2024/09/01/3LUSNRRZTFCN3EOQZOJBZ4LYWQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/01/3LUSNRRZTFCN3EOQZOJBZ4LYWQ/</guid>
+      <dc:creator>경주=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Sep 2024 03:57:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JCEHEWEU6RAXFISR3JZ2SF2Z3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;소방대원들이 경북 경주 보문단지 내 주차된 전동카트와 자전거에서 난 불을 끄고 있다. /경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경주에서 전기 배터리의 이상이 원인으로 추정되는 화재가 발생했다.&lt;br&gt;&lt;br&gt;1일 경북소방본부에 따르면, 지난 31일 오전 8시 8분쯤 경북 경주시 보문관광단지 내 공터에 세워져 있던 전동카트 1대와 전동자전거 11대가 불에 탔다. 이 불은 소방서 추산 1000만원 상당의 재산 피해를 내고 10여분 만에 꺼졌다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 배터리의 전기적인 요인으로 인해 불이 난 것으로 보고 정확한 화재 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>클럽서 적발된 코카인 1년새 451% 폭증...경찰, 유흥가 마약 단속 강화</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/01/XZZ3ITHKPJBJJAG7GA7CDURJIA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/01/XZZ3ITHKPJBJJAG7GA7CDURJIA/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Sep 2024 03:34:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UJ4KH5GAERJVFGCCC37K4Z65RQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시가 지난 9일 서울경찰청·지역경찰서 등으로 구성된 특별단속반과 젊은 층이 많이 찾는 클럽에 대한 마약류·식품위생법 위반 행위 불시 점검에 나섰다고 11일 밝혔다. 사진은 유흥시설 내 마약 투약 흔적을 확인하고 있는 서울시 특별단속반 모습. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;클럽 및 유흥가를 중심으로 마약 유통이 확산하는 가운데 경찰은 형사기동대 등 추가 경력을 투입해 마약 단속 활동을 강화할 방침이다.&lt;br&gt;&lt;br&gt;경찰청 국가수사본부는 클럽 등 유흥가 일대로 이뤄지는 마약류 확산을 막기 위해 연말까지 단속 활동을 강화한다고 1일 밝혔다. 경찰은 기존 마약 수사 인력에 더해 형사기동대와 기동순찰대까지 마약 단속·수사에 총 동원한다고 밝혔다.&lt;br&gt;&lt;br&gt;올해 들어 7월까지 마약 유형별 압수량은 작년 동기 대비 늘어난 추세다. 마약 종류별로는 올해 코카인의 양이 작년 대비 451.2% 증가한 것으로 나타났다. GHB(물뽕)는 269%, 야바는 221.4%, 케타민은 108.1%, 합성대마는 42.8% 늘어났다.&lt;br&gt;&lt;br&gt;클럽 등 마약류 사범 검거 인원도 매해 늘어나는 추세다. 경찰청 통계에 따르면 2021년 161명이던 클럽 등 마약류 사범 검거 인원은 2022년 454명, 2023년 686명으로 증가했다. 올해 들어서는 상반기에만 358명이 검거됐다. 전체 마약류 사범에서 차지하는 비중도 2021년 1.5%에서 2022년 3.7%, 2023년 3.9%, 올해 상반기 4.2%로 증가 추세다.&lt;br&gt;&lt;br&gt;마약수사대는 클럽 등 유흥가 일대 마약 유통행위를 집중적으로 수사하여 공급을 차단한다. 형사기동대는 탐문과 첩보 수집으로 현장 중심의 단속 활동을 전개한다. 또한, 국제범죄수사계는 외국인 밀집 유흥가 일대의 마약범죄 단속에 수사력을 집중한다.&lt;br&gt;&lt;br&gt;기동순찰대는 클럽 등 유흥가 일대 거점순찰을 통해 검문검색을 활성화하고, 지역경찰·방법순찰대와 협업하여 ‘던지기’ 장소로 사용될 수 있는 골목까지 순찰할 예정이다. 마약 사건 신고 접수 시에는 지역경찰·형사·기동순찰대가 함께 출동하여 업소 내 진입 후 현장을 면밀하게 확인하고 마약사범을 검거할 방침이다.&lt;br&gt;&lt;br&gt;경찰은 지자체와도 특별단속반을 운영한다. 마약류 범죄에 장소를 제공한 업주에 대해서는 담당 행정청에 통보해 영업정지 등 행정처분도 받게 한다.&lt;br&gt;&lt;br&gt;경찰청 관계자는 “클럽·유흥업소 등 업소 내에서 발생하는 마약류 범죄는 시민들의 제보가 결정적이므로 신고자에 대해서는 신원을 보장하고 신고보상금도 지급할 예정이니 많은 관심과 제보를 부탁한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대구 동구 도로서 땅꺼짐 발생...인명피해는 없어</title>
       <link>https://www.chosun.com/national/regional/2024/09/01/2EHWVFXT3VFFBIBNOWCQZZFATU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/01/2EHWVFXT3VFFBIBNOWCQZZFATU/</guid>
@@ -874,113 +980,6 @@
       <description/>
       <pubDate>Fri, 30 Aug 2024 11:48:13 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6W4FBVGYE5AORDGT4F7H3D4K2Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;문재인 당시 더불어민주당 대선 후보가 2017년 5월 8일 오후 서울 광화문광장에서 진행한 제19대 대통령 선거 마지막 유세에서 딸 다혜씨와 기념촬영을 하고 있다. .뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 전 대통령의 전 사위 서모씨의 ‘타이이스타젯 특혜 채용’ 의혹을 수사 중인 검찰이 문 전 대통령 딸 다혜씨의 주거지를 30일 압수 수색했다. 검찰은 문 전 대통령이 이상직 전 더불어민주당 의원을 중소벤처기업진흥공단(중진공) 이사장에 임명하는 대가로 서씨가 이 전 의원이 실소유주로 있는 태국 항공사 임원으로 특혜 채용되고, 다혜씨 가족이 태국으로 이주하는 데 여러 도움을 받은 것으로 의심하고 있다.&lt;br&gt;&lt;br&gt;전주지검 형사3부(부장 한연규)는 이날 서울에 있는 다혜씨 주거지에 검사와 수사관을 보내 전 남편 서씨의 취업과 태국 이주 과정 관련 자료들을 확보했다고 밝혔다. 이날 압수 수색은 법원으로부터 영장을 받아 집행했으며, 검찰은 아직 다혜씨를 피의자 신분으로 전환하지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “압수 수색 영장 집행 과정에서 당사자의 참여권을 철저히 보장했고, 변호인이 참여해 영장을 집행했으며, 여성 검사와 수사관이 면담과 집행을 실시하는 등 적법 절차를 준수하고 인권을 보호하기 위해 필요한 조치를 다 했다”고 말했다.&lt;br&gt;&lt;br&gt;검찰은 이상직 전 의원이 2018년 초 중진공 이사장 후보로 거론될 때, 청와대 인사검증 과정에서 ‘부적격’ 보고가 있었는데도 같은 해 3월 중진공 이사장에 임명됐고, 그 직후부터 문 전 대통령의 전 사위인 서씨를 항공업계 경력이 전무한데도 타이이스타젯 임원으로 채용해 매월 800만원의 급여와 태국 주거지 임차료 월 350만원가량을 지원해 온 것으로 파악했다. 다혜씨 가족에게 지원한 규모는 총 2억원이 넘는 것으로 검찰은 보고 있다.&lt;br&gt;&lt;br&gt;수사팀은 서씨가 취직한 후 문 전 대통령의 다혜씨 부부에 대한 생활비 지원이 끊겼다면, 서씨가 취업 후 받은 급여와 태국 이주를 이 전 의원이 문 전 대통령 측에 건넨 뇌물로 볼 수 있다고 보는 것으로 전해졌다. 검찰은 최근 법원 영장을 발부받아 문 전 대통령 부부 계좌의 거래내역을 추적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>중증 수술 등 800여개 수가 올해부터 인상</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/08/30/WAPYMOD6EZBUXM6HHHD5MK4OYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/30/WAPYMOD6EZBUXM6HHHD5MK4OYQ/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Aug 2024 12:17:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PDAGYNUWNNO4FLEGIMF77J2A5M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;조규홍 보건복지부 장관이 30일 서울 종로구 정부서울청사에서 열린 제6차 의료개혁특별위원회 회의 브리핑에서 의료개혁 1차 실행방안을 발표하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부는 30일 “의료계가 참여해 합리적인 대안을 제시할 경우 2026학년도 의대 정원 규모 논의도 가능하다”고 발표했다. 내년도 입시의 의대 증원은 되돌릴 수 없지만, 2026학년도부터는 재논의가 가능하다는 입장을 분명하게 밝힌 것이다. 이를 위해 올해 안으로 미래 의료 인력 수급 추계·조정을 위한 논의 기구를 출범시키기로 했다. 또 올 하반기부터 800여 개의 중증 암 수술·마취 수가(건보공단이 병원에 주는 돈)를 올리고, 전공의 지도 전문의에게는 최대 8000만원을 지급하기로 했다.&lt;br&gt;&lt;br&gt;대통령 직속 의료개혁특별위원회(의개특위)는 30일 제6차 회의를 열고 이런 내용의 ‘의료개혁 제1차 실행방안’을 심의·의결했다. 특위는 “고령화에 따라 급증할 의료 수요 대응, 필수‧지역 의료 강화를 위해 필요한 적정 의료 인력 규모를 분석하고, 중장기 인력 수급 정책을 수립하기 위한 의료 인력 수급 추계·조정 시스템을 구축할 것”이라고 했다.&lt;br&gt;&lt;br&gt;이와 함께 2027년까지 총 3000여 개의 의료 행위에 대한 수가를 조정하기로 했다. 우선 올해 하반기 상급종합병원(대형 병원)에서 이뤄지는 800여 개의 중증 암 수술, 응급 진료 후 수술 등과 이를 수행하는 데 필요한 마취 수가부터 올리기로 했다. 연간 5000억원 이상을 투입해 내년 상반기에는 종합병원급까지 총 1000여 개(누적) 중증 수술과 마취 행위에 대해 수가를 올린다. 특위는 “그동안 저평가된 의료 행위에 대한 보상을 원가의 100%까지 받을 수 있도록 정상화하겠다”고 했다.&lt;br&gt;&lt;br&gt;내년부터 전공의를 교육하는 지도 전문의에게 최대 8000만원이 지원된다. 대통령 직속 의료개혁특별위원회는 “지도 전문의가 업무 시간을 할애해 전공의를 밀착 지도할 수 있도록 연간 최대 8000만원까지 수당을 지급한다”고 했다. 전공의들이 수련에 집중할 수 있도록 연속 수련 24시간, 주당 수련 72시간으로 단축하는 시범 사업도 실시한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6L72F4JYZVGN3C7JG2NQBA5AZA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다음 달부터는 ‘상급종합병원 구조 전환 지원 사업’도 시행한다. 사업에 참여하는 상급종합병원은 중증 환자 비율을 3년 내 70%까지 올리고 일반 병상을 최대 15%를 감축해야 한다. 대표적으로 서울 ‘빅4(서울대·서울아산·세브란스·삼성서울)’ 병원은 일반 병상을 15% 감축해야 한다. 전공의 비중도 현원 기준 40%대에서 20%대로 줄여야 한다. 또 상급종합병원의 응급 의료 기능을 강화하기 위해 24시간 응급 진료에 대한 당직·대기 보상을 최초로 신설하기로 했다. 복지부 관계자는 “올 하반기 지원 사업에 참여하는 병원에서 24시간 상주하며 당직을 서는 인력을 지원할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;지역 의료를 강화하기 위해 지역 중추 병원인 국립대병원에 내년부터 연간 2000억원씩 재정이 투입된다. 지역 국립대병원의 교수 정원을 내년에 330명 확대하는 것을 시작으로 2027년에 1000명까지 확대한다. ‘계약형 필수의사제’도 도입된다. 내년에는 4개 지역, 8개 진료과(내과·외과·산부인과·소아청소년과·응급의학과·흉부외과·신경과·신경외과) 전문의 96명에게 월 400만원의 지역 근무 수당을 지원한다. 지역 의료 기관에 장기 근무할 것을 선택한 전문의가 지자체와 계약하는 방식이다.&lt;br&gt;&lt;br&gt;노연홍 의료개혁특별위원회 위원장은 “오늘 발표한 1차 실행 방안은 그간 논의만 무성했던 과제들의 실천 로드맵을 제시하고 의료 체계 정상화를 위한 근본 해법 마련의 물꼬를 텄다는 데 의미가 크다”며 “중증·필수 분야의 적은 보상 문제를 해결하도록 2027년까지 불균형적 저수가 체제를 끝내겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/3MJGORSNAVOHRCHP77ELRR2LJQ.jpg?width=6000&amp;height=4000&amp;auth=ea40c788e95fbf5946f5b1037b3ca7ad4829bc86dc6d5e9a5ec80553720c2995&amp;smart=true" type="image/jpeg" height="4000" width="6000">
-        <media:description type="plain">[서울=뉴시스] 배훈식 기자 = 조규홍 보건복지부 장관이 30일 오후 서울 종로구 정부서울청사에서 제6차 의료개혁특위 회의 결과를 발표하고 있다. 2024.08.30. dahora83@newsis.com</media:description>
-        <media:credit role="author" scheme="urn:ebu">dahora83</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>정부청사 어린이집 9월부터 민간 개방</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/08/30/MQLFKIPGLZFI7MCHAKICKL6EYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/08/30/MQLFKIPGLZFI7MCHAKICKL6EYI/</guid>
-      <dc:creator>조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Aug 2024 11:58:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NCLBLOCUVBZ2KU63O4CWKZX6JQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부세종청사 내에 있는 어린이집의 내부 모습. /정부세종청사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공무원 자녀만 이용했던 서울·세종·과천·대전정부청사의 국립 직장 어린이집을 이르면 다음 달부터 지역 주민에게 개방한다. 지자체와 공공기관이 설립한 직장 어린이집 개방도 추진한다.&lt;br&gt;&lt;br&gt;대통령 직속 저출산·고령사회위원회(저출산위)는 30일 ‘제3차 인구 비상 대책 회의’를 열고 이런 내용의 대책을 발표했다. 저출산위는 이날 “공공 영역뿐만 아니라 기업·금융권이 운영하는 민간 직장 어린이집도 주민에게 개방하는 방안도 논의 중”이라고 했다.&lt;br&gt;&lt;br&gt;저출산위는 또 돌봄 시설이 부족한 지역에는 교회 등 종교 시설을 휴일과 야간에 이용할 수 있도록 법령 정비에 나설 방침이다. 건축법상 종교 시설은 종교적 목적이 아닌 다른 용도로 사용할 수 없다. 그런데 돌봄 시설로도 사용할 수 있게 하겠다는 것이다. 저출산위 관계자는 “종교계가 종교 시설을 돌봄 시설로도 사용하겠다고 신청하면, 각 지자체의 지방건축위원회가 심의 절차를 면제해 신속하게 허가를 내주도록 할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;이와 함께 대기업과 그 협력사(중소기업) 직원들 자녀가 함께 다니는 전국 65곳의 ‘상생형 직장 어린이집’에 운영비와 신규 인력 인건비 13억원을 매년 추가 지원할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이웃 상인들 돈 빌려 잠적한 60대…9개월만에 체포</title>
-      <link>https://www.chosun.com/national/incident/2024/08/30/D37B2B32NZBXVDEHRI7LBJM7OM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/30/D37B2B32NZBXVDEHRI7LBJM7OM/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Aug 2024 11:51:46 +0000</pubDate>
-      <content:encoded>서울 강동구 암사시장 인근에서 식당을 운영하며 이웃 상인들로부터 돈을 빌리고 잠적한 60대가 아홉 달 만에 경찰에 붙잡혔다. 30일 경찰에 따르면 강동경찰서는 사기 혐의로 지명수배된 60대 박모씨를 전날 오후 서울시내 한 식당에서 체포했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DOXPPDA5VNBZ7IQOU2CTBNN5PI.jfif"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강동경찰서./강동경찰서 홈페이지 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박씨는 작년 11월까지 암사시장 상인들에게서 돈을 빌린 뒤 갚지 않고 달아난 혐의를 받는다. 경찰은 지난 5월 박씨를 지명수배했고 수배 석 달여만에 체포했다.&lt;br&gt;&lt;br&gt;경찰이 앞서 고소장을 접수한 피해자는 2명으로 피해액은 1억 원 정도다. 경찰은 피해자들의 전화문의와 경찰서 출석이 이어지고 있어 피해 규모가 수억 원에 달할 것으로 추정하고 있다.&lt;br&gt;&lt;br&gt;한편 박씨는 지난 2003년 3명이 사망한 ‘삼전동 방화 살인사건’ 당시 유력한 용의자로 지목된 인물로 알려졌다. 당시 반지하 빌라에서 박씨의 아들과 딸, 딸의 남자친구가 숨졌다. 박씨는 사건 이후 용의선상에 올랐으나 입건되지는 않았다.&lt;br&gt;&lt;br&gt;경찰은 구속영장 신청 여부를 검토 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘문화의 바다 충북, 빛의 항로를 열다’...충북도, 미디어 파사드 전시 개막</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/08/30/ENRDDNLW3BCAXOEKP5K23PDYOM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/08/30/ENRDDNLW3BCAXOEKP5K23PDYOM/</guid>
-      <dc:creator>청주=신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Aug 2024 10:46:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CK7WD2RUTVDD5JGHJEIRGTRZ5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 충북도청 본관 앞에서 열린 미디어 파사드 전시 개막식에서 김영환 충북지사가 환영사를 하고 있다./신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;근대문화유산인 충북도청의 밤이 화려한 ‘문화의 바다로’로 변신한다.&lt;br&gt;&lt;br&gt;충북도는 30일 저녁 초대형 미디어 파사드 ‘문화의 바다 충북, 빛의 항로를 열다’를 개막했다. 미디어 파사드는 외벽에 디지털 미디어 기술을 이용해 영상을 비추는 것을 말한다. 가로 90m, 세로 20m 크기의 충북도청 건물이 초대형 화면이 돼, 충북을 상징하는 다양한 영상이 상영된다.&lt;br&gt;&lt;br&gt;이 영상은 건국대·서원대·청주대·충북대·충북도립대 등 지역 대학생 44명이 꾸린 ‘충청북도 청년 브랜드 참여단’이 기획·제작했다. 이들은 디지털 프로젝션 맵핑 기술과 국내에서는 아직 생소한 AI 미디어파사드를 활용해 다양한 영상을 만들었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UA556BA26ZA5ZMNC4PE6NIELGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일부터 9월7일까지 매일 밤 근대문화유산인 충북도청 본관을 화려하게 수놓을 미디어 파사드 전시 공연을 사전 준비하는 모습/충북도청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영상은 역사, 물, 삶, 길, 첨단 산업 등 충북이 내세우는 다섯 가지 테마로 표현된다. 영상은 20여분 가량 상영되며 7일까지 전시가 이어진다.&lt;br&gt;&lt;br&gt;이 기간 미디어 파사드 전시 외에도 충북도청 잔디광장엔 벼룩시장(플리마켓)과 충청권 하계대학생대회·영동세계국악엑스포 등 주요 행사 홍보도 진행된다.&lt;br&gt;&lt;br&gt;이와 연계해 청주시는 충북도청 앞 청주 옛도심 성안길에서 31일부터 다음 달 1일까지 이틀 동안 골목 축제 ‘성안 이즈 백’을 연다. 1990~2000년 초반 그 시절의 옛 성안길 곳곳에서 춤·연주 공연과 전시가 열리고 골목 여행, 노래 경연 등도 펼쳐진다.&lt;br&gt;&lt;br&gt;김영환 충북도지사는 “1937년 도민들의 성금으로 지어진 충북도청은 국가등록문화재 제55호이다”며 “소중한 근대문화 유산인 충북도청을 도민께 돌려주기 위해 상당공원과 연결된 북측 울타리 철거를 시작으로 도민을 위한 공간으로 재구성하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강원대병원 응급실, 다음달부터 성인 야간 진료 제한</title>
-      <link>https://www.chosun.com/national/regional/2024/08/30/KG424Q2P3FEUHA4NSR3FBSYB3I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/30/KG424Q2P3FEUHA4NSR3FBSYB3I/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>강원대학교병원(이하 강원대병원)이 다음달부터 응급의료센터(응급실) 운영시간을 축소한다.강원대병원은 다음달 2일부터 응급실의 성인 야간 진료를 받지 않는다고 30일 밝혔다.</description>
-      <pubDate>Fri, 30 Aug 2024 10:53:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HZZKIC734SHZHDVIDYAT3E7P5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원대병원 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원대병원이 다음달부터 응급의료센터(응급실) 운영시간을 축소한다.&lt;br&gt;&lt;br&gt;강원대병원은 다음달 2일부터 응급실의 성인 야간 진료를 받지 않는다고 30일 밝혔다. 성인 야간 진료 제한 시간은 오후 6시부터 이튿날 오전 9시까지다. 소아청소년의 진료는 정상적으로 운영된다. 다만 추석 연휴 기간인 다음달 15일부터 18일까지는 성인들도 야간에 진료를 받을 수 있다.&lt;br&gt;&lt;br&gt;강원대병원은 응급의학과 전문의 부족으로 응급실 운영시간 축소가 불가피하다는 입장이다. 강원대병원 응급의료센터엔 5명의 전문의가 근무하고 있었으나, 이 중 2명이 휴직해 현재는 3명의 전문의로만 응급의료센터를 운영하고 있다.&lt;br&gt;&lt;br&gt;강원대병원 관계자는 “거점 국립대병원으로서 소임을 다하지 못한 것에 송구스럽다”면서 “응급의학과 전문의 충원으로 상황을 정상화하기 위해 노력하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원, ‘1조대 코인 사기’ 법정서 흉기 휘두른 50대 男 구속영장 발부</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/30/K4LR32MTTBBNHGGOQBNRMXSZVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/30/K4LR32MTTBBNHGGOQBNRMXSZVQ/</guid>
-      <dc:creator>박정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Aug 2024 09:53:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AJC7KLRGWJQCXWFGYQ33YQGBHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 양천구 서울 남부지법의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1조4000억원 가상자산(코인) 사기 사건을 저지른 혐의로 재판을 받던 가상자산예치서비스 업체 하루인베스트 대표 이모씨에게 법정에서 흉기를 휘두른 50대 남성이 30일 구속됐다.&lt;br&gt;&lt;br&gt;서울남부지법 한정석 영장전담 부장판사는 살인미수 혐의를 받는 50대 A씨에 대해 이날 오전 10시 30분쯤 영장실질심사를 진행한 뒤 “도망할 염려 있다”며 구속영장을 발부했다. 이날 오전 10시쯤 서울 양천구 서울남부지법에 출석한 A씨는 정말 살해할 계획이었는지, 흉기를 어떻게 반입했는지 등 취재진 질문에 답을 하지 않고 법정에 들어갔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 28일 오후 2시 26분쯤 서울남부지법 법정에서 방청 중 피고인석에 앉아 있다가 재판을 받던 이씨에 달려들어 그의 목 부위를 수차례 흉기로 찌른 혐의를 받는다. 이씨는 피습 직후 병원으로 이송돼 치료를 받고 있다. 사건을 수사하는 서울 양천경찰서는 29일 A씨에 대해 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;A씨는 하루인베스트 가상자산 사기 사건의 피해자인 것으로 전해졌다. 경찰은 “A씨가 출금 중단에 따른 손해에 불만을 품고 범행을 했다는 취지로 진술하고 있다”며 “사실 여부를 계속 확인 중”이라고 했다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 범행에 사용한 흉기가 집에서 사용하던 칼인 과도라고 진술한 것으로 전해졌다. 경찰은 “해당 과도는 현재까지 금속성 재질로 피의자는 주거지 인근 마트에서 이를 구입했다고 진술하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>밀양 성폭행 관련 허위 영상 올린 30대 유튜버 재판행</title>
-      <link>https://www.chosun.com/national/incident/2024/08/30/5SBW6UJ77REALHF3OPG76D3OMI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/30/5SBW6UJ77REALHF3OPG76D3OMI/</guid>
-      <dc:creator>대구=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Aug 2024 09:52:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZTV7OPDZIE43WIBGMZYZF3MHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지검/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유튜브 채널을 통해 허위 사실을 유포한 30대 유튜버가 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대구지검 형사1부(부장 원형문)는 30일 스토킹처벌법 위반 및 정보통신망법 위반(명예훼손)등 혐의로 유튜버 A씨를 불구속 기소했다. A씨는 지난해 7월부터 올해 6월 사이 유튜브 채널에 밀양 성폭행 사건 및 신안 염전노예 사건과 관련한 허위 사실을 영상으로 만들어 유포한 혐의를 받고 있다. 이와 별도로 특정 구독자를 협박, 모욕한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “A씨가 ‘공익을 추구한다’는 보안관 컨셉으로 동영상을 유포했다고 주장하나, 실제로는 피해자 동의 없이 콘텐츠를 게재해 오히려 2차 가해를 했다”며 “향후 허위 사실 또는 타인의 약점을 기반으로 수익을 올리는 ‘사이버렉카(화제 되는 사건에 몰려드는 유튜버)’ 범죄에 엄정 대응할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“캄보디아 경찰에 신고해라” 납치된 국민 외면한 대사관</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/30/2EI4ORAZXJDBHBM452ITZFQEYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/30/2EI4ORAZXJDBHBM452ITZFQEYI/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Aug 2024 09:21:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OO6THDM3IRE2RHY7VYRWOBYDFE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 세종대로에 위치한 외교부 전경. /이명원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아에서 범죄 조직에 납치를 당한 한국인이 한국 대사관에 도움을 요청했지만 현지 경찰에 신고하라는 안내만 받았다는 주장이 나왔다.&lt;br&gt;&lt;br&gt;30일 KBS 보도에 따르면 자영업을 하고 있는 40대 A씨는 지난 6월 캄보디아에 갔다가 리딩방(주식 종목을 추천하거나 투자 정보를 제공하는 각종 인터넷 대화방) 사기 조직에 감금됐다.&lt;br&gt;&lt;br&gt;A씨는 당시 현지 투자업체에서 계좌 간 이체 한도가 큰 법인통장을 빌려주면 수수료를 주겠다는 제안을 받고 확인차 캄보디아를 방문했다고 한다.&lt;br&gt;&lt;br&gt;그런데 현지 투자업체라는 곳은 중국인 총책이 운영하는 리딩방 조직이었다. A씨는 범죄임을 직감하고 한국으로 돌아가려고 했지만 리딩방 조직원들이 총을 들이대며 위협했다고 한다.&lt;br&gt;&lt;br&gt;A씨는 휴대전화와 여권을 뺏기고 감금됐지만 다행히 숨겨온 휴대전화가 있어 대사관에 구조를 요청했다. 대사관 측 직원은 도움을 요청하는 A씨에게 ‘현지 경찰에 직접 신고하라’고 안내했다고 한다.&lt;br&gt;&lt;br&gt;A씨는 “(대사관 측이) 구글로 번역해서 그걸(신고를) 하라고 했다”며 “걔네가 다 감시하고 있는데 그걸 그 앞에서 내가 신고하고 있느냐”고 분통을 터뜨렸다.&lt;br&gt;&lt;br&gt;결국 A씨는 감시가 소홀한 틈을 타 건물 6층에서 4층 발코니로 뛰어내려 일주일 만에 극적으로 탈출했다.&lt;br&gt;&lt;br&gt;A씨는 우여곡절 끝에 새벽 6시쯤 한국 대사관에 도착했지만 이번엔 근무가 시작된 뒤 들어오라는 답변을 받았다고 주장했다. A씨는 대사관 근무가 시작되는 시간까지 쓰레기 사이에 숨어있었다고 한다.&lt;br&gt;&lt;br&gt;조선닷컴은 이와 관련한 외교부 측의 입장을 청취하기 위해 여러 차례 전화와 문자로 연락을 취해봤지만 구체적인 답변을 듣지 못했다.&lt;br&gt;&lt;br&gt;다만 외교부는 “캄보디아 내 우리 국민 취업사기 및 감금 피해 신고가 전년대비 증가하고 있다”며 “외교부는 우리 국민의 피해 신고 접수시 신속한 사건 해결 및 피해 최소화를 위해 주재국 경찰청, 이민청 등 관계기관과 긴밀히 협조하고 있다”는 원론적인 입장을 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>가짜 주식 사이트 만들어 투자금 94억 챙긴 일당 검거</title>
-      <link>https://www.chosun.com/national/incident/2024/08/30/AUHDZYWBNRBUVDOGCJN4DMDNHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/08/30/AUHDZYWBNRBUVDOGCJN4DMDNHA/</guid>
-      <dc:creator>칠곡=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Aug 2024 09:17:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZPGJ26NYNG4QWAZMD2BZFWKBKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;칠곡경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가짜 주식거래 사이트를 운영하면서 투자금 94억원을 받아 가로챈 일당이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경북 칠곡경찰서는 자본시장법 위반 등 혐의로 조직 총책인 40대 남성 A씨 등 5명을 구속 송치하고, 11명을 불구속 송치했다고 30일 밝혔다. &lt;br&gt;&lt;br&gt;A씨 등은 지난 2021년 2월부터 올해 4월까지 가짜 주식거래 사이트 2곳을 운영하면서 650여명에게 모두 94억원을 받아 가로챈 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;가족·친구 등으로 구성된 A씨의 조직은 주식투자가 가능한 것처럼 꾸민 가짜 주식거래 사이트를 만들고, “최대 15배 수익을 거둘 수 있는 레버리지 상품을 제공하겠다”며 회원 가입을 유도해 투자금을 가로챈 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 총책 A씨를 압수수색하는 과정에서 현금 5500만원을 압수했고, A씨 일당이 소유한 자동차·부동산 등 5억 상당의 금품을 범죄 수익금으로 보고 처분하지 못하도록 기소 전 추징보전 조치했다. 경찰 관계자는 “공범과 여죄를 계속 수사해 투자 리딩방 사기 범죄에 엄정 대응할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인공지능 시대 교육 통찰 담아… ‘교육철학 및 교육사’ 출간</title>
-      <link>https://www.chosun.com/national/regional/2024/08/30/ZOLK35D73RA73AT7L737KZRQEM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/08/30/ZOLK35D73RA73AT7L737KZRQEM/</guid>
-      <dc:creator>조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Aug 2024 09:01:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LR2HC6DXBNCHHB6BD274UTZ5G4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 출간되는 '교육철학 및 교육사' 표지./서울과학기술대학교&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘정권과 정책이 바뀌어도 한국의 교육은 유독 제자리걸음이다. 철학이 없는 교육, 혼이 빠진 교육, 입시경쟁이라는 교육의 비본질(도구적 가치)이 본질을 압도해 생긴 문제이다.’&lt;br&gt;&lt;br&gt;인공지능(AI) 시대를 맞아 이러한 교육철학적 통찰을 담은 책 ‘교육철학 및 교육사(출판사 ‘공동체’)’가 출간된다. 정창호(고려대), 마상룡(한경대), 마은종(단국대), 박주희(서울과학기술대학교) 교수가 공동 집필했다. 저자들은 모두 철학과 교육학을 전공했다.&lt;br&gt;&lt;br&gt;공동저자인 박주희 국립 서울과학기술대 교육혁신원 교수는 30일 “교육학의 기본적 논리와 사고를 책에 충분하게 담았다”며 “교직 이수 필독서로 손색이 없다”고 말했다&lt;br&gt;&lt;br&gt;저자들은 인공지능 시대를 맞아 교육철학이 더 필요하다고 역설한다. 박 교수는 “교육적 문제의식은 교육활동을 주도하는 교사 뿐 아니라 교육을 받는 학생에게도 필요하다”며 “교육의 본질을 회복하고 가르침과 배움을 통해 성장과 자기실현의 기쁨을 맛봐야 한다”고 말했다.&lt;br&gt;&lt;br&gt;이 책은 챕터 끝에 중요한 교육철학적 질문을 던지며 깊은 사유를 이끌어 낸다. 박 교수는 “인공지능 시대 한국 교육의 고질적인 문제를 해결하기 위해 교육철학과 교육사 분야에서 오래 연구한 권위자들이 손을 잡았다”며 “교육철학과 교육사를 이해하는 데 큰 도움이 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LR2HC6DXBNCHHB6BD274UTZ5G4.jpg?width=562&amp;height=761&amp;auth=ba954ee06cbaf2e00debba1f056bcde4c6dd2a0d35f17da079bb16fe46d55a02&amp;smart=true" type="image/jpeg" height="761" width="562">
-        <media:description type="plain">31일 출간되는 '교육철학 및 교육사' 표지./서울과학기술대학교</media:description>
-        <media:credit role="author" scheme="urn:ebu">서울과학기술대학교</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>연희동 씽크홀 30m 거리에 도로 균열 발생, 도로 통제중</title>
-      <link>https://www.chosun.com/national/national_general/2024/08/30/OD6RM3LGWNFAFAZK6EBUPSRUYA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/08/30/OD6RM3LGWNFAFAZK6EBUPSRUYA/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Aug 2024 00:57:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M3OWFG2XXBSNTIYKJWLPLNV424.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 서대문구 연희동의 한 차도에서 땅꺼짐 현상(싱크홀)이 발생해 승용차가 빠져 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;씽크홀(땅꺼짐) 사고가 발생했던 서울 서대문구 연희동 사고지점 인근에서 30일 오전 도로 균열이 추가로 발생해 교통을 통제하고 있다.&lt;br&gt;&lt;br&gt;서울 서부도로사업소 등에 따르면 사업소는 오전 8시30분쯤 성산로 인근을 순찰하던 중 도로 균열을 발견해 소방과 경찰에 협조를 요청했다.&lt;br&gt;&lt;br&gt;경찰은 인근 2개 차로를 통제하는 중이다.&lt;br&gt;&lt;br&gt;도로 균열이 발생한 곳은 연세대에서 사천교로 향하는 구 성산회관 인근 지역이다. 전날 씽크홀이 발생했던 지점에서 30m가량 떨어져있다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “오늘 순찰하다가 (도로가) 조금 침하한 부분을 발견해서 살펴보고 있다“며 “추가 함몰 우려가 있어 도로통제를 한 상황”이라고 말했다.&lt;br&gt;&lt;br&gt;서울시는 오늘 오후 4시 합동 점검회의를 열고 전날 발생한 씽크홀 사고의 원인을 분석하고 조치를 논의할 예정이다.&lt;br&gt;&lt;br&gt;추가로 지반탐사를 진행해 지반이 약화된 것이 확인되면 지반 강화 작업(그라우팅)을 할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
