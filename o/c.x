@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>박원순이 1100억 써 만든 세운상가 공중보행로, 철거한다</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/01/EORDIVKKNFG2HIZMLZFO4HOX6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/01/EORDIVKKNFG2HIZMLZFO4HOX6A/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Sep 2024 11:30:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VROAPBVAXZG77PUFGV264RXW5Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;세운상가 일대와 공중보행로. 2017.9.18/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 2022년 1100억원을 들여 만든 세운상가 ‘공중보행로’를 철거한다.&lt;br&gt;&lt;br&gt;서울시는 세운상가 공중보행로를 철거하기로 하고 이달 중 주민 공청회를 연다고 1일 밝혔다. 세운상가 공중보행로는 세운상가, 삼풍상가 등 남북으로 길게 들어선 7개 상가의 3층을 연결한다. 예산 1109억원을 들여 2016년 착공, 2022년 개통했다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “주민 의견을 수렴해 내년부터 철거 공사에 들어갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;공중보행로 총 1㎞ 구간 중 삼풍상가~호텔PJ 사이 보행교(250m)를 우선 철거한다. 서울시 관계자는 “나머지 750m 구간은 보행로가 상가 건물에 조성돼 있어 바로 철거하기 어렵다”며 “나중에 세운상가를 허물 때 함께 철거할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;오세훈 시장은 2006년 낡은 세운상가를 허물고 복합 개발하려고 했으나 박원순 전 시장이 이 계획을 백지화하고 상가 재생 목적으로 공중보행로를 만들었다. 그러나 공중보행로를 이용하는 사람이 예상보다 적어 상권 활성화에 도움이 안 된다는 지적이 많았다.&lt;br&gt;&lt;br&gt;지난 8월에는 “1109억원을 들이고도 당초 사업 목적인 보행량 증대를 통한 세운상가 재생에 기여하지 못하고 있다”는 감사원 감사 결과도 나왔다. 감사원 감사보고서에 따르면, 사업 추진 당시 서울시는 공중보행로를 설치하면 매년 10만5440명이 지나다녀 상권이 활성화할 것이라고 예측했으나, 개통 후 실제 보행자는 그 11% 수준인 1만1731명에 불과한 것으로 조사됐다. 서울시 관계자는 “이러한 감사원 지적도 있어 철거에 착수하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;서울시는 지난해 낙후한 세운상가 일대를 재개발해 30~40층 높이의 새 도심을 조성한다는 계획을 발표했다. 세운상가 건물은 허물어 광화문광장 3배 크기의 녹지로 만들 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>알몸 훤히 보이는 리조트 남성사우나... 사측 "블라인드 안 내린 실수"</title>
       <link>https://www.chosun.com/national/national_general/2024/09/01/7GPGO4P5ANDXHBKR6HZT7HGXUA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/01/7GPGO4P5ANDXHBKR6HZT7HGXUA/</guid>
@@ -862,15 +871,6 @@
       <description/>
       <pubDate>Fri, 30 Aug 2024 16:17:45 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IQJRMNC46NFENPV6ELTDSYJE7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 오후 대구 동구 대구시민안전테마파크에 있는 단풍이 붉게 물들고 있다. 기상청에 따르면 이번 주말 낮 최고기온은 28~34도로 덥겠으나, 한여름에 비해 습도가 낮아 아침저녁에는 선선함을 느낄 수 있겠다. 이르면 다음 달 2일부터는 북쪽에서 찬 공기가 불어 들어와 전국 대부분 지역에서 폭염 특보가 해제될 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한국사 교과서 모두 ‘자유민주주의’ 명시</title>
-      <link>https://www.chosun.com/national/education/2024/08/31/KBTVFAM3PFDQJPJ3EMSW4EN3BE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/08/31/KBTVFAM3PFDQJPJ3EMSW4EN3BE/</guid>
-      <dc:creator>유석재 기자, 김경은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Aug 2024 16:07:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S3SQ2LZA75OJNP576D7KJLXC6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최근 초중고교 검정교과서 심사를 통과한 한국학력평가원의 고등학교 한국사 교과서가 '민주주의' 대신 '자유민주주의'라는 표현을 사용하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년부터 학생들이 배우는 고등학교 한국사 검정(檢定) 교과서에서 ‘자유민주주의’라는 용어가 되살아난 것으로 나타났다. 또한 대다수 교과서가 천안함 폭침이 북한의 도발이라는 사실을 명확하게 서술했고, 대체로 대한민국 경제 발전과 산업화의 명암(明暗)도 균형 있게 서술했다. 이전 교과서들처럼 임기가 끝나지도 않은 현 정권에 대한 서술도 크게 줄었다.&lt;br&gt;&lt;br&gt;교육부는 내년부터 중학생과 고등학생이 사용할 새로운 중학교 역사 7종, 고등학교 한국사 교과서 9종이 검정 심사를 통과했다고 30일 밝혔다. 이 교과서들은 윤석열 정부가 2022년 새로 만든 교육과정에 따라 출판사들이 집필해왔고 최근 교육부 검정 심사를 통과했다. 9월부터 교사들이 볼 수 있도록 학교에 전시한다.&lt;br&gt;&lt;br&gt;본지가 고교 한국사 교과서 9종을 분석해보니, 모두 대한민국 정부 수립을 서술하면서 ‘자유민주주의’를 명시했다. 2018년 문재인 정부 때 검정을 통과한 교과서들은 대체로 ‘민주주의’라고 썼다. 이번에 모든 교과서에 ‘자유민주주의’가 돌아온 것은 윤석열 정부가 2022년 교육과정을 개정하면서 ‘자유민주주의에 기초한 대한민국 수립’을 집어넣었기 때문이다. ‘교육과정’은 교과서에 들어갈 내용들이 담긴 가이드라인으로, 따르지 않으면 검정 심사에서 탈락한다.&lt;br&gt;&lt;br&gt;대한민국이 이룬 경제 성장과 산업화 등 자유시장경제 체제에 대한 긍정적인 서술도 늘어났다. 현행 교과서들도 경제 발전을 다루곤 있지만, 경제 성장 과정에서 발생한 문제점들에 주로 초점을 맞추고 있다. 교육계에서는 “새 교과서는 자유민주주의와 자유 시장 경제 체제 등 우리나라 정체성에 대한 서술이 전체적으로 잘 된 것으로 보인다”고 평가했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘돼지 도살 사기꾼’과의 일주일… 놈은 결코 서두르지 않았다</title>
