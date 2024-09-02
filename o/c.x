@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>퇴근길 만원 버스 탄 임산부, 버스기사 이 한마디에 ‘울컥’</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/02/WWQ2SATKCZG45C4PVQIULHWPOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/02/WWQ2SATKCZG45C4PVQIULHWPOI/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Sep 2024 13:13:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TL46Y2XWNZGOLIXQYDVRLSIPNQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울 버스 기사가 만원 버스에서 임산부 승객을 위해 자리를 양보해달라고 외친 사연이 알려져 많은 이들의 마음을 울렸다. /JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의 버스 기사들이 만원 버스에서 임산부 승객을 위해 자리를 양보해달라고 외친 사연이 알려져 많은 이들의 마음을 울렸다.&lt;br&gt;&lt;br&gt;이 사연은 2일 ‘서울특별시버스운송사업조합’ 홈페이지의 ‘칭찬합시다’ 게시판을 통해 알려졌다. 임신 12주차인 임산부라고 밝힌 A씨는 이날 게시판에 ‘440번 기사님 너무너무 감사합니다’라는 제목의 글을 올렸다. 게시글에 따르면, A씨는 이날 저녁 6시쯤 서울 서초구 내곡동 헌인릉 정류소에서 440번 버스에 탑승했다. 버스 기사 이름은 확인하지 못했지만 차량 번호 7381번을 운전하고 있었다고 한다.&lt;br&gt;&lt;br&gt;A씨는 퇴근길 만원 버스에서 좌석에 앉을 수 있을 거라 기대하지 않았다. 그러나 A씨가 버스에 타자마자 A씨의 임산부 배지를 본 기사가 “승객 여러분 임산부가 우리 버스에 탔습니다. 노약자석에 앉으신 분들은 양보 부탁드립니다”고 외쳤다고 한다. A씨는 “버스에 사람이 너무 많고 통로까지 꽉 차있어서 자리에 앉기는 어려웠지만 너무 감사해서 눈물이 왈칵 날 것 같았다”고 했다.&lt;br&gt;&lt;br&gt;A씨가 자리에 앉지 못하자 버스 기사는 다시 한번 안내말을 외치면서 양보를 부탁했지만 안타깝게도 자리는 나지 않았다고 한다. 이에 A씨는 기사에게 “곧 내리겠다”고 말했고, 기사는 “앞문 근처에 넓은 자리에 서있다가 차가 서면 천천히 내리라”고 친절하게 말했다.&lt;br&gt;&lt;br&gt;A씨는 이름 모를 버스 기사를 향해 “정말 감사한데 그 자리에서는 더 감사 인사를 할 수 없어 꾸벅 인사만 드리고 내렸다”며 “따뜻하게 배려해주셔서 감사하다. 출퇴근길 운전이 바쁘고 정신 없으실 텐데 항상 안전 운전하시라”고 했다.&lt;br&gt;&lt;br&gt;비슷한 사연은 또 있었다. 서울 270번 버스를 운행하는 전진옥 씨가 주인공이었다. JTBC 보도에 따르면 전 씨는 지난달 27일 출근시간대 만원 버스 안에서 힘겹게 서 있는 임산부를 발견했는데 당시 노약자석과 임산부석에는 빈 자리가 없었다.&lt;br&gt;&lt;br&gt;전 씨는 신호가 걸렸을 때 사이드 브레이크를 채우고 자리에서 일어나 승객들을 향해 “임산부가 탔으니 자리를 양보해달라”고 외쳤다. 이에 한 승객이 일어나 자리를 양보하면서 임산부는 20분간 편히 앉아 목적지까지 갈 수 있었다. 전 씨는 “(임산부가 버스에서 내리기 전) 앞으로 나와서 고맙다고 인사해서 내가 ‘죄송하다’고 그랬다. 내가 먼저 자리를 마련해줘야 하는데 너무 늦었다”라며 “줄곧 해왔지만 앞으로도 더 열심히 해야 하겠다는 그런 마음이 생겼다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구 달성군 알루미늄 제련 공장서 불.. 대응 1단계 발령</title>
+      <link>https://www.chosun.com/national/regional/2024/09/02/Y7ERB4D2FFGTHICTSWNXACMR7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/02/Y7ERB4D2FFGTHICTSWNXACMR7Y/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Sep 2024 13:32:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YGNTZQXPSBH4DKONKRPXVNU5ZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오후 8시 20분쯤 대구시 달성군 논공 공단에 있는 알루미늄 제련 공장에서 불이 나 소방당국이 진화에 나섰다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 오후 8시 20분쯤 대구시 달성군 논공읍 논공 공단에 있는 알루미늄 제련 공장에서 불이 났다.&lt;br&gt;&lt;br&gt;대구소방본부에 따르면 오후 10시 현재 불은 공장 건물 2동(1358㎡) 중 1동을 태웠으며, 소방당국은 관할 소방서 인력이 모두 출동하는 대응 1단계를 발령해 진화 중이다.&lt;br&gt;&lt;br&gt;화재로 인한 인명 피해는 없다고 소방당국은 밝혔다.&lt;br&gt;&lt;br&gt;소방당국과 경찰은 진화가 마무리되는 대로 자세한 경위를 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 지하철 역무실 음료먹다 직원 구토.. 락스 성분 확인</title>
+      <link>https://www.chosun.com/national/regional/2024/09/02/I2RX4TA4AVGEHJNRGULY6IIWVA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/02/I2RX4TA4AVGEHJNRGULY6IIWVA/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Sep 2024 13:05:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XIRSIJ3ARDJORSEWON6VRTGY5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천교통공사 직원들이 지하철 역무실 냉장고에 있던 음료를 마신 후 구토한 사건과 관련해, 이 음료에서 락스 성분이 나왔다.&lt;br&gt;&lt;br&gt;2일 인천 남동경찰서에 따르면 지난달 국립과학수사연구원에 의뢰한 성분 검사 결과 음료에서 락스 성분이 검출됐다.&lt;br&gt;&lt;br&gt;경찰은 폐쇄회로(CC)TV 분석과 직원 면담 조사 결과 음료에 고의로 락스를 넣은 정황은 발견되지 않았다고 설명했다. 또 페트병에 들어 있던 액체에는 락스 성분 이외 다른 물질은 검출되지 않았다.&lt;br&gt;&lt;br&gt;이 페트병을 보관한 냉장고는 지하철에서 발견된 음식물 등 유실물을 보관하는 용도로도 사용된 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 교통공사 직원 등 40여명을 상대로 조사를 이어가는 한편 지하철 승객이 놓고 갔을 가능성에 대해서도 수사하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “누군가 실수로 음료 병에 락스를 넣고 유실한 것으로 보인다”며 “누가 냉장고에 넣었는지는 확인되지 않아 다양한 가능성을 염두에 두고 수사를 진행 중이다”고 전했다.&lt;br&gt;&lt;br&gt;앞서 지난달 11일 오전 5시쯤 인천 지하철 인천시청역에서 인천교통공사 직원 A씨와 B씨 등 20~30대 남성 2명이 역무실 냉장고에 있던 음료를 마신 후 구토 등 이상 증세를 보였다. 이 음료를 따라준 또 다른 직원 C씨도 음료 맛을 본 후 병원 치료를 받았다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강원 원주천서 다슬기 잡던 70대 물에 빠져 숨져</title>
+      <link>https://www.chosun.com/national/regional/2024/09/02/LCS6QE7EDBE2DCZM5DROGD2GEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/02/LCS6QE7EDBE2DCZM5DROGD2GEQ/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Sep 2024 11:50:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZTWXFQHNUEXAR2CA7LRJW55Q6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원도소방본부 로고. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 오후 2시 18분쯤 강원도 원주시 단구동 원주천에서 다슬기를 잡던 70대 A씨가 2ｍ 깊이의 물에 빠졌다.&lt;br&gt;&lt;br&gt;심정지 상태로 발견된 A씨는 신고를 받고 출동한 소방 당국이 20여분 만에 구조해 병원으로 옮겼으나 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>열대야 끝나니 아침 안개 주의보...일교차 커지자 또 다른 불청객  </title>
+      <link>https://www.chosun.com/national/transport-environment/2024/09/02/N5CZQOKRONBGVJ5FWBAF3GPW44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/09/02/N5CZQOKRONBGVJ5FWBAF3GPW44/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Sep 2024 12:05:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNIAOXPWUJJ7VGAU6ZMCP6MMGY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;가을비가 내리며 찜통 더위가 한풀 꺾인 2일 서울 종로구 송현광장에서 시민들이 산책을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초가을로 접어들면서 곳곳에 이른 아침 짙은 안개가 깔리고 있다. 올여름 혹독했던 ‘밤 더위’가 꺾이면서 일교차가 커진 영향으로 분석된다. 안개는 ‘가을의 불청객’이라 불릴 정도로 대형 교통사고 유발 등 위험성이 크다. 초가을 안개는 오전에 해가 뜨면 대부분 바로 사라지기 때문에 새벽~아침 출근 시간대만 조심하면 큰 사고는 피할 수 있다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 2일 오전 5시 기준 짙은 안개의 영향으로 전남 무안의 가시거리가 90m까지 줄어들었다. 보통 가시거리가 1㎞ 미만이면 시야 확보가 어려운 ‘짙은 안개’가 낀 것으로 본다. 그런데 무안은 눈으로 볼 수 있는 거리가 이보다 10분의 1 수준으로 짧았던 것이다. 이날 전남 보성(가시거리 120m), 함평(190m)과 전북 임실(200m) 등에서도 가시거리가 짧아졌다.&lt;br&gt;&lt;br&gt;안개는 초가을의 문턱에 다다랐음을 알리는 대표적 기상 현상이다. 밤사이 기온이 내려가면서 수증기 결정이 만들어지고, 해가 뜨기 전까지 사라지지 않는 것이다. 일교차가 심할 때 발생하기 때문에 1년 중 가을(9~11월)에 가장 심하다.&lt;br&gt;&lt;br&gt;도로교통공단이 2016~2020년 5년간 날씨에 따른 교통사고를 분석한 결과, 안개 발생 시 교통사고 치사율(교통사고 100건당 사망자 수)은 8.8명으로 맑은 날(1.6명) 대비 5.5배 높게 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내년 폐점 신도림 현대백화점, 6500억 들여 이렇게 바뀐다</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/02/VJIQBF4HVVFTXNJY3LMJ3YQZWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/02/VJIQBF4HVVFTXNJY3LMJ3YQZWU/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Sep 2024 10:25:00 +0000</pubDate>
+      <content:encoded>서울 구로구 신도림역 인근 ‘현대백화점 디큐브시티’가 내년 6월 30일 문을 닫는다. 구로구는 이 자리에 대규모 업무시설과 상업,휴식 공간이 어우러진 ‘캠퍼스형 오피스’가 들어설 예정이라고 2일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QNOF6O5GPJB7TLXJHOVQHHL7JE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신도림역 디큐브시티 용도변경 후 조감도. /구로구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 건물의 소유주 이지스 자산운용은 이곳을 상층부엔 오피스, 저층부엔 스타필드를 두고 있는 코엑스처럼 리모델링할 계획이다. 사업비 6500억원을 들여 내부를 재구조화한다.&lt;br&gt;&lt;br&gt;수도권광역급행철도(GTX) B노선을 주축으로 서울, 인천, 경기도를 잇는 신도림역의 지리적 이점을 활용해 일반적인 업무공간이 아닌 글로벌 혁신기업이 필요로 하는 캠퍼스형 오피스를 조성한다는 구상이다.&lt;br&gt;&lt;br&gt;구로구 관계자는 “캠퍼스형 오피스는 업무시설 외에도 문화, 쇼핑, 먹거리를 즐길 수 있는 상업시설과 휴식 공간이 함께 있는 차별화된 업무환경으로, 애플, 엔비디아, 아마존, 메타 등 글로벌 혁신기업들이 선호하는 것으로 알려져 있다”고 설명했다.&lt;br&gt;&lt;br&gt;저층부에는 현재처럼 식당 등 판매시설이 유지된다. 1층에는 열린 실내정원 등을 만들어 시민들이 자유롭게 쓸 수 있는 휴게 공간을 만들 계획이다.&lt;br&gt;&lt;br&gt;구로구 관계자는 “최근 이지스 측과 면담을 갖고 용도변경 관련 건축심의 건에 대해 구로구의 미래를 어떻게 변화시킬지에 대한 전망과 주민 삶에 미치는 영향 등을 고려해야 한다는 데 의견을 같이했다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 6월 14일에도 구는 이지스 측을 만나 백화점 영업 종료에 대한 주민들의 우려를 전달하고 지역 상권 활성화를 위한 역할을 당부했다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최재영 목사 신청 ‘디올백’ 수사심의위...검찰, 개최 여부 9일 논의</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/02/LKE2I7AXNJBLXAXLFQZSLEMBOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/02/LKE2I7AXNJBLXAXLFQZSLEMBOQ/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Sep 2024 11:08:12 +0000</pubDate>
+      <content:encoded>윤석열 대통령 부인 김건희 여사에게 디올백을 제공한 최재영 목사가 검찰의 수사 결과에 반발해 신청한 검찰 수사심의위원회(수심위) 소집 여부가 다음 주 논의된다.&lt;br&gt;&lt;br&gt;서울중앙지검 검찰시민위원회(시민위)는 오는 9일 서울중앙지검에서 부의심의위원회를 열고 최 목사의 신청을 받아들여 수심위를 개최할지 여부 등을 논의한다. 시민위는 오는 6일까지 주임 검사와 최 목사 측으로부터 의견서를 받아 검토할 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BNEYYQZV5RO4PIVOG5COA44XIQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사에게 명품 가방을 건넨 최재영 목사가 지난달 23일 서울 서초구 대검찰청에서 검찰 수사심의위원회 소집 요청서를 제출하기 위해 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 절차는 이원석 검찰총장이 직권으로 소집한 김 여사 사건 수심위와는 별도 절차다.&lt;br&gt;&lt;br&gt;앞서 윤 대통령 부부를 청탁금지법 위반 등 혐의로 검찰에 고발했던 유튜브 매체 서울의소리 백은종 대표가 수심위 소집을 요구했으나 고발인은 신청 자격이 없다는 이유로 각하되자, 피의자 신분인 최 목사가 지난달 23일 직접 수심위 소집을 신청했다.&lt;br&gt;&lt;br&gt;시민위는 이에 따라 최 목사에 대한 수사 계속 여부, 공소제기 또는 불기소 처분 여부 등을 수심위에 부의할지 여부를 논의하게 됐다.&lt;br&gt;&lt;br&gt;수심위는 국민적 의혹이 제기되거나 사회적 이목이 쏠린 사건의 수사와 기소가 적법했는지 심의하는 기구다. 심의 결과는 권고 사항이어서 수사팀이 반드시 따라야 하는 것은 아니다.&lt;br&gt;&lt;br&gt;한편 이 총장의 직권 회부 결정으로 열리는 수심위는 오는 6일 개최될 예정이다. 수심위는 김 여사에 대해 제기된 청탁금지법 위반, 뇌물수수, 알선수재, 변호사법 위반, 직권남용, 증거인멸 등 6개 혐의를 심의할 예정이다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지검 형사1부(부장 김승호)는 청탁금지법상 공직자의 배우자는 처벌할 수 없고, 디올백이 직무 관련성과 대가성이 있다고 보기도 어렵다며 김 여사를 무혐의 처분해야 한다고 결론 내렸다. 이창수 서울중앙지검장은 지난달 22일 이원석 검찰총장에게 수사 결과를 보고했고, 이 총장은 이튿날 수사심의위 소집을 결정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“총각이라 속였다”…야근한다며 댄스학원 다닌 남편, 이혼 가능할까</title>
       <link>https://www.chosun.com/national/national_general/2024/09/02/ZBOBKNQY6FFNDDMZGSC5J326ZU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/02/ZBOBKNQY6FFNDDMZGSC5J326ZU/</guid>
@@ -815,37 +878,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BTYJPXDXLGEYBBXNZ6DAEQ323A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/픽사베이&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20~49세 남녀 약 43%가 ‘출산할 의향이 없다’고 밝힌 설문 결과가 나왔다. 단, 이들 가운데 44%는 정부 정책과 기업 지원이 대폭 늘면 출산을 고려할 수 있다고 답했다.&lt;br&gt;&lt;br&gt;한반도미래인구연구원은 최근 리서치 업체 엠브레인과 함께 전국 20~49세 남녀 2000명을 대상으로 결혼과 출산에 대한 심층 인식 조사를 해 이같이 나타났다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;설문 결과 미혼 남녀(1164명)의 절반(53%)은 ‘결혼 의향이 있다’고 했다. ‘결혼 의향이 없다’는 27%, ‘잘 모르겠다’는 19%였다. 결혼 의향이 없다는 응답자는 여성(35%)이 남성(22%)보다 높았다. 결혼을 기피하는 이유로 남성은 ‘경제적으로 불안해서’(20%), 여성은 ‘혼자 사는 것이 더 행복할 것 같아서’(18%)를 들었다.&lt;br&gt;&lt;br&gt;‘출산 의향이 없다’는 응답은 전체의 43%에 달했다. 여성(53%)이 남성(33%)보다 많았다. 출산을 원하지 않는 이유로 여성은 ‘아이를 낳을 필요성을 느끼지 못해서’(14%)와 ‘자녀를 돌봄·양육할 경제적 여유가 없어서’(13%), ‘자녀 교육에 막대한 비용이 들기 때문에’(11%) 순으로 답했다. 남성은 ‘고용 상태·직업이 불안정하다고 느껴서’(18%), ‘자녀를 돌봄·양육할 경제적 여유가 없어서’(16%), ‘아이를 낳을 필요성을 느끼지 못해서’(11%)였다.&lt;br&gt;&lt;br&gt;다만 결혼·출산에 뜻이 없더라도 정부 정책과 기업 지원 등 여건이 바뀌면 달라질 수 있다는 응답이 상당했다. 결혼 생각이 없는 미혼 남녀 중 39%, 출산에 뜻이 없다는 응답자 중 44%는 정부 정책과 기업 지원이 크게 늘면 결혼과 출산에 대한 생각을 바꿀 수 있다는 유동층이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“이 차는 이제 제 겁니다”... 공사차량 몰고 사라진 만취남</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/01/2MWVSCXZ7VBLNE67YRPFSOSYRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/01/2MWVSCXZ7VBLNE67YRPFSOSYRQ/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Sep 2024 06:51:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NSSXFPGE5VH7DGZYY2WJLZHQ24.png"&gt;&lt;figcaption&gt;&lt;small&gt;경기 남양주에서 술에 취한 남성이 도로공사 차량을 무단으로 운전해 달아난 사건이 발생했다. /유튜브 영상 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 남양주에서 술에 취한 남성이 도로 공사 차량을 무단으로 운전해 달아난 사건이 발생했다.&lt;br&gt;&lt;br&gt;경찰청 공식 유튜브 채널에는 지난달 30일 ‘공사 차량은 이제 제 겁니다’라는 제목으로 이 사건 현장을 담은 영상이 올라왔다. 사건 현장을 찍은 방범카메라 영상에는 술에 취한 듯한 남성이 비틀거리는 걸음으로 흰색 트럭을 향해 걸어가는 모습이 담겼다. 잠시 후 차에 올라타 운전대를 잡은 남성은 트럭을 몰고 카메라 화면 밖으로 사라졌다.&lt;br&gt;&lt;br&gt;해당 차량은 도로 공사 중이던 작업자들이 사용하던 것으로 화살표 유도등이 설치되어 있었다. 당시 트럭 문은 잠기지 않은 상태였다. 작업자들은 차량 도난을 뒤늦게 알아채고 따라 가보려 했으나 실패했다.&lt;br&gt;&lt;br&gt;이에 작업자들은 112에 신고했고, 신고를 받은 경찰은 도주로를 차단하고 대기했으나 차량은 나타나지 않았다. 경찰은 최초 범행 장소 주변을 수색한 결과 이면도로에 주차 중이던 차량을 발견했다. 용의자로 보이는 남성은 인근에서 만취한 상태로 발견됐다.&lt;br&gt;&lt;br&gt;경찰은 이 남성을 절도 및 도로교통법위반(음주운전) 혐의로 검거했으나, 조사 과정에서 차량의 불법 영득 의사가 확인되지 않아 자동차 등 불법사용죄로 송치했다. 형법 제331조의2(자동차등 불법사용)에 따르면, 권리자의 동의 없이 타인의 자동차, 선박, 항공기 또는 원동기장치자전거를 일시 사용한 자는 3년 이하의 징역, 500만원 이하의 벌금, 구류 또는 과료에 처할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/7EF6ZXAGOJDL7LYTB7FXQJOLHM.png?width=904&amp;height=509&amp;auth=83fc43ea898687e8490070f0b833711f070a6b94bbadf462720c11a7f3432073&amp;smart=true" type="image/png" height="509" width="904">
-        <media:description type="plain">경기 남양주에서 술에 취한 남성이 도로공사 차량을 무단으로 운전해 달아난 사건이 발생했다. /유튜브 영상 캡처</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>운전면허 심의위원 출신 변호사, 사고 후 음주측정 거부하다 벌금 2200만원</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/01/OMFYUYLUJZGMJM7DJMLGUXVBQ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/01/OMFYUYLUJZGMJM7DJMLGUXVBQ4/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Sep 2024 05:50:02 +0000</pubDate>
-      <content:encoded>음주운전을 하다 교통사고를 낸 이후 음주측정거부까지 한 60대 남성 변호사에게 벌금 2200만원이 선고됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XOOTEFTJBH4DLR4FZUCMQRA5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주운전 일러스트. /일러스트=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사4단독 박강균 부장판사는 특정범죄 가중처벌 등에 관한 법률 위반(위험운전치상)과 도로교통법 위반(음주측정거부) 혐의로 재판에 넘겨진 유모씨에게 이 같이 선고했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;유씨는 지난해 7월 5일 오후 10시쯤 술을 마신 채 서울 강남구 압구정로에서 차를 몰다 신호대기 중이던 앞차를 뒤에서 들이받았다. 이 사고로 피해자는 약 2주 간 치료가 필요한 늑골 염좌 등 상해를 입었다.&lt;br&gt;&lt;br&gt;이후 112 신고를 받고 출동한 경찰이 유씨가 횡설수설하고 걸음걸이가 비틀거리며 혈색이 붉은 점 등을 의심해 총 3회에 걸쳐 음주측정을 요구했으나 유씨는 음주측정기에 입을 대고 부는 시늉만 하며 요구에 일체 응하지 않았다.&lt;br&gt;&lt;br&gt;유씨는 한때 지방경찰청에서 운전면허 심의위원, 지방법원에선 민사·가사 조정위원으로 활동한 변호사였던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;박 부장판사는 “유씨는 음주의 영향으로 운전이 곤란한 상태에서 운전을 해 사고를 냈고 음주측정거부는 공권력 경시 풍조까지 조장하는 범죄로 엄중한 처벌이 필요하다”면서도 “유씨가 이 사건 각 범행을 인정하는 점, 유씨가 운전한 차량이 자동차보험에 가입돼 있고 그 보험회사가 피해자에게 치료비 등을 지급한 점, 형사처벌을 받은 전력이 없는 초범인 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>친구 빌려준 통장이 졸지에 사기 통장으로...대법 “손해배상 책임 없어”</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/01/VG6ARDMIXVEBDEDR2WMT6KBWNQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/01/VG6ARDMIXVEBDEDR2WMT6KBWNQ/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Sep 2024 05:37:23 +0000</pubDate>
-      <content:encoded>친구에게 빌려준 통장이 사기 범죄에 쓰였더라도 이를 예견할 수 있었다고 보기 어려운 이상 계좌 주인이 피해자에게 손해를 배상할 필요는 없다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYV43FZZKZHX5PZXJZRJUOUZNU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 법조계에 따르면 대법원 2부(주심 권영준 대법관)는 지난달 1일 투자자 A씨가 계좌 주인 B씨를 상대로 낸 대여금 등 청구 소송에서 원심의 원고 일부 승소 판결을 파기하고 사건을 서울중앙지법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;B씨는 30년 이상 알고 지낸 고등학교 동창 C씨가 정상적으로 금융 거래를 할 수 없는 상황에 놓이자 2011년부터 자신 명의의 통장 등을 빌려줬다. 이후 C씨는 B씨의 계좌를 위험성이 높은 해외선물 거래에 썼는데, 2020∼2021년 A씨로부터 투자금 1억2000만원을 이 계좌를 통해 받은 뒤 돌려주지 않고 잠적했다. 이 과정에서 C씨는 B씨를 사칭해 반환약정서를 써준 것으로도 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 투자금을 돌려받지 못하자 계좌 주인인 B씨를 상대로 소송을 냈다. 투자금 1억2000만원을 반환하거나, C씨의 사기 범죄를 방조한 책임이 있으므로 손해배상금을 지급하라고 요구한 것이다.&lt;br&gt;&lt;br&gt;이 사건의 쟁점은 이러한 기망 행위에 대해 B씨도 공동불법행위자로서 책임이 인정되는지 여부였다.&lt;br&gt;&lt;br&gt;앞서 1심과 2심 법원은 A씨의 주장을 받아들여 6000만원의 배상금 지급을 명령했다. B씨가 자신 명의의 계좌를 양도한 이상 범죄에 이용될 수 있다는 점을 어느 정도 예견할 수 있었을 것이란 취지로 봤다.&lt;br&gt;&lt;br&gt;그러나 대법원 판단은 달랐다. 대법원은 “B씨가 계좌 관련 접근매체를 양도함으로써 C씨의 입출금 및 주식 투자 거래가 이루어지리라는 것을 넘어서 투자 사기와 같이 불법 행위에 해당하는 거래가 이루어진다는 점과 이 계좌가 그 불법행위를 용이하게 한다는 점을 예견할 수 있었다고 볼만한 사정이 없다”며 “그런데도 원심은 B씨가 A씨에게 공동불법행위를 이유로 한 손해배상책임을 부담한다고 판단했다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>입장문 낸 檢 “문다혜씨 압수 수색, 법원 영장받은 적법한 수사” [전문]</title>
       <link>https://www.chosun.com/national/court_law/2024/09/01/KANT3BMHXJAEHPKCB7R2WQWPEI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/01/KANT3BMHXJAEHPKCB7R2WQWPEI/</guid>
@@ -858,15 +890,6 @@
       </media:content>
     </item>
     <item>
-      <title>김문수 노동장관 "임금체불 청산·체불사업주 엄벌" 지시</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/09/01/YI7YQQURAJGZNAZ3NVZ77OQDQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/09/01/YI7YQQURAJGZNAZ3NVZ77OQDQY/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Sep 2024 05:05:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PXF5TJLUO6TPMWCNJUWKBZTHIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김문수 신임 고용노동부 장관이 지난달 30일 오후 세종시 정부세종청사에서 열린 취임식에 참석해 취임사를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김문수 고용노동부 장관이 취임 후 첫 번째 업무 지시로 임금체불에 대한 총력 대응을 주문했다고 노동부가 1일 밝혔다.&lt;br&gt;&lt;br&gt;이날 노동부에 따르면, 김 장관은 취임 이튿날인 지난 31일 긴급 간부회의를 열고 “그간 노력에도 청산되지 않은 2198억원을 전액 청산한다는 각오로 총력 대응하라”고 지시했다. 2198억원은 지난 6월 말 기준 임금 체불액 1조436억원 중 청산되지 않은 금액이다.&lt;br&gt;&lt;br&gt;김 장관은 회의에서 “기관장이 매일 체불 상황을 점검하고 체불임금이 모두 청산되도록 현장으로 나갈 것”과 “악의적이고 상습적인 체불사업주에 대해서는 체포영장 신청, 구속수사 등을 원칙으로 한층 강도 높게 대응할 것”을 강조했다고 노동부는 전했다.&lt;br&gt;&lt;br&gt;또 현재 임금체불이 발생 중인 큐텐 계열사에 대해 신속하고 엄정한 수사를 지시했다고 노동부는 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>임현택 의협 회장, 닷새만에 단식 중단… 전공의 대표는 “회장 끌어내려야”</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/09/01/6ZUHZ6NVL5AORA2HMAUXMDZAEU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/01/6ZUHZ6NVL5AORA2HMAUXMDZAEU/</guid>
@@ -876,24 +899,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IKGVJAXXLBLCLLQCLRCIM3SLZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 26일부터 단식 투쟁에 들어간 임현택 대한의사협회 회장이 31일 서울 용산구 의협 회관에서 병원으로 후송되고 있다. /대한의사협회 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임현택 대한의사협회(의협) 회장이 지난 26일 정부의 의대 증원과 국회의 간호법 통과를 규탄하는 단식 투쟁에 들어간 지 닷새 만인 31일 건강 악화로 단식을 중단했다.&lt;br&gt;&lt;br&gt;의협은 31일 “임 회장이 의료공백 사태 수습을 촉구하며 의협 회관 앞마당에서, 농성장 내부 온도가 40도를 넘기는 열악한 환경 속에서 단식을 지속해 왔다”며 “당뇨·고지혈증 등 기저질환이 악화해 고통스러워했고, 부정맥 증상이 심화해 의식 저하로 위험한 상태에 이르렀다”고 했다, 그러면서 “부정맥 등 위험 증상에 대한 응급치료를 받고 회복해 투쟁을 지속해나갈 계획”이라고 했다.&lt;br&gt;&lt;br&gt;임 회장은 이날(31일) 열린 의협 대의원회 임시대의원총회에서 미리 촬영해 둔 영상을 통해 인사말을 한 뒤 관계자들의 부축을 받으며 단식장으로 이동했다. 이후 건강 상태 악화로 인근 병원 응급실로 옮겨졌다.&lt;br&gt;&lt;br&gt;이날 총회에선 의협 비상대책위원회 설치에 관한 투표가 진행됐지만, 투표 인원 189명(총원 242명) 가운데 찬성 53명, 반대 131명, 기권 5명으로 안건이 부결됐다. 일단 비대위는 출범하지 않고 현 집행부 중심 투쟁을 계속하기로 한 것이다. 그러나 의료계에선 “임 회장이 취임 넉 달도 안 돼 비대위 설치 안건이 올라온 것 자체가 리더십에 상당한 타격”이란 말이 나왔다. 의협 대의원회는 임현택 집행부에 대한 재신임이 아닌 ‘경고’라고 했다. 김영준 부의장은 “비대위를 구성하면 집행부가 지금까지 무능했는데 앞으로 더 무능력해지지 않을까 싶어 반대한 대의원들이 많다고 생각한다”며 “결사항전 자세로 강력한 투쟁을 하지 못하면 대의원들이 책임을 물을 것”이라고 했다.&lt;br&gt;&lt;br&gt;특히 전공의 대표인 박단 대한전공의협의회(대전협) 비상대책위원장은 이날 총회에 참석해 임 회장의 자진 사퇴를 촉구하며 “임 회장과 집행부는 해야 할 역할이 있다. 감당하지 못하면 물러나야 하고 물러나지 않으면 끌어내려야 한다”고 했다. 박 위원장은 “의협과 임 회장은 14만 의사를 대표해 무엇을 하고 있느냐”며 “대전협 비대위는 본인 면피에 급급한 무능한 회장과 함께 하지 않겠다”고 했다. 일부 대의원은 지난 28일부터 회원들을 대상으로 임 회장 불신임 청원 동의를 받고 있다.&lt;br&gt;&lt;br&gt;이날 의협 대의원 총회에선 정부를 향한 강경 발언도 쏟아졌다. 김교웅 대의원회 의장은 병원장과 병원 보직 교수 등을 향해 “단지 의사가 환자 곁에 있어야만 한다는 생각조차도 내려놓아야 한다”고 말했다. 김성근 의협 대의원은 투쟁선언문에서 “싸움은 선제공격을 한 쪽이 이기는 것이 아니라 지치는 쪽이 지는 것이다. 대통령 임기가 끝날 때까지 이 싸움은 끝나는 것이 아니다”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>투표지 촬영 SNS 단체 대화방에 올린 50대, 벌금형</title>
-      <link>https://www.chosun.com/national/regional/2024/09/01/HQ7ZGQ5EUNGY7M3KLFTV2W5KFA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/01/HQ7ZGQ5EUNGY7M3KLFTV2W5KFA/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Sep 2024 04:58:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OEP23TEMYVH2ZDUPWL7E4R6IAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 총선 당시 자신이 기표한 투표지를 사진 촬영한 뒤 이를 사회관계망서비스(SNS) 단체 대화방에 올린 50대에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;청주지법 형사11부(재판장 태지영)는 공직선거법 위반 혐의로 재판에 넘겨진 A(53)씨에게 벌금 50만원을 선고했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 4월 청주에 설치된 제22대 국회의원 선거 기표소 안에서 모 후보자를 찍은 투표용지를 촬영한 뒤 이를 1000여명의 불특정 다수인이 참여하고 있는 SNS 단체 채팅방에 게시한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;재판부는 “누구든지 기표소 안에서 투표지를 촬영해선 안 되고, 선거인은 자신이 기표한 투표지를 공개할 수 없다”며 “공정하고 평온한 투표 절차를 보장하려는 공직선거법 취지에 비춰볼 때 죄책이 가볍지 않지만, 잘못을 반성하는 점 등을 참작했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>기업 의뢰 작업 수행하다 사망한 개인사업자...법원 “산재보호법상 근로자 해당”</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/01/6QSLXOIH5JCJNFRTKLLLAHBHZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/01/6QSLXOIH5JCJNFRTKLLLAHBHZM/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Sep 2024 04:22:57 +0000</pubDate>
-      <content:encoded>회사의 의뢰를 받아 실질적인 관리·감독 아래 일하다 숨졌다면 개인사업자였다 하더라도 산업재해 보상금을 줘야 한다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/COCQ6OUU55ER5BQPAQDEUOAUBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울가정법원·서울행정법원 청사. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 법조계에 따르면 서울행정법원 행정13부(재판장 박정대)는 숨진 개인사업자 A씨의 유족이 근로복지공단을 상대로 낸 유족급여 및 장의비 부지급 처분 취소 소송 1심에서 원고 승소로 판결했다.&lt;br&gt;&lt;br&gt;A씨는 2022년 12월 26일 B 기업으로부터 의뢰받은 한 초등학교 음악실 인테리어 공사 현장에서 피아노를 혼자 옮기려고 시도하다 피아노에 깔리는 사고를 당해 결국 숨졌다. 그는 평소 화물차로 이삿짐, 가구 운송 등을 운송하는 개인사업자였지만 이날은 피아노를 운반해달라는 의뢰를 받아 작업 중이었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;유족은 근로복지공단에 A씨의 사망에 따른 유족 급여와 장례 비용을 신청했으나 공단은 2023년 3월 ‘망인은 개인사업자로 B 기업 대표로부터 의뢰 받은 작업을 수행하고 그에 상응하는 비용을 지급 받는 거래 관계에 있으므로 산업재해보상보험법의 적용을 받는 근로자로 볼 수 없다’는 취지의 부지급 결정 처분을 내렸다. 이에 반발한 유족은 그해 4월 소송을 제기했다.&lt;br&gt;&lt;br&gt;A씨 유족 측은 재판 과정에서 A씨가 ▲개인사업자로서 수행하던 용달이 아니라 음악실 내 집기를 옮기는 작업을 수행하다 사망에 이른 점 ▲작업 수행 과정에서 B 기업으로부터 상당한 지휘·감독을 받은 점 ▲망인의 식대 및 업무 소요 비용 등은 B 기업이 부담한 점 등에 비추어 A씨가 B 기업의 상당한 지휘·감독 아래 근로를 제공한 산재보호법상 근로자로 봐야한다고 주장했다.&lt;br&gt;&lt;br&gt;법원도 A씨 유족 측 손을 들어줬다.&lt;br&gt;&lt;br&gt;재판부는 근로자에 해당하는지는 근로자가 사업 또는 사업장에 임금을 목적으로 종속적인 관계에서 근로를 제공했는지 여부에 따라 판단해야 한다는 취지의 대법원 판결을 언급하며 “망인은 임금을 목적으로 종속적인 관계에서 근로를 제공했다”면서 “산재보험법상 근로자에 해당한다”고 설명했다.&lt;br&gt;&lt;br&gt;이어 “망인이 사업주로서의 외관을 갖추었고 취업규칙, 복무규정 등의 적용을 받지 않았다고 하더라도 이는 사용자인 기업이 경제적으로 우월한 지위에서 임의로 정할 수 있는 사항이거나 실질적인 노무 제공 실태와 부합하지 않으므로 이 같은 사정만으로 망인의 근로자성을 부인할 수 없다”고 지적했다.&lt;br&gt;&lt;br&gt;공단 측이 항소하지 않아 이 판결은 그대로 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>밤다운 밤온다…월요일 비오며 평년기온 회복</title>
       <link>https://www.chosun.com/national/transport-environment/2024/09/01/L5SNVQ6MFNGTFFESRYIRWICP4Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/09/01/L5SNVQ6MFNGTFFESRYIRWICP4Y/</guid>
@@ -901,19 +906,6 @@
       <description/>
       <pubDate>Sun, 01 Sep 2024 04:38:38 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WJZIYS2PQBPYBOYKPM6GNPOK74.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;1일 경북 포항시 북구 흥해읍 용한리 해변에서 서퍼들이 가을파도를 타고 있다. 2024.9.1/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;끝 모를 ‘밤 더위’가 9월 들어 꺾이며 밤다운 밤을 맞겠다고 기상청이 1일 밝혔다. 2일 전국 곳곳에 비가 내리면서 평년기온을 회복할 전망이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 2일 전국이 대체로 흐리겠고, 곳곳에 비가 내리겠다. 중부지방은 늦은 새벽부터 가끔 비가 오는 곳이 있겠고 오후에 대부분 그치겠다. 강원영동과 충남은 밤까지 비가 이어지는 곳이 있겠고, 전라·경상권 내륙은 오후부터 밤사이 0.1㎜ 미만의 빗방울이 떨어지는 곳이 있겠다.&lt;br&gt;&lt;br&gt;예상 강수량은 서울·인천·경기·강원영서 5㎜ 안팎, 강원 영동 5∼40㎜, 대전·세종·충남·부산·울산 5∼10㎜, 충북 5㎜ 미만으로 예보됐다.&lt;br&gt;&lt;br&gt;비가 내리면서 중부 지방과 일부 남부 지방의 폭염특보는 차차 해제될 것으로 예상된다. 2일 아침 최저기온은 19∼25도, 낮 최고기온은 26∼33도로 예보됐다. 대부분 지역에서 최저기온이 25도 아래로 예보돼 열대야(밤 최저기온 25도 이상)에서 벗어나는 지역도 많아질 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“버티면 이긴다” 이주호 발언... “의사 대상 아니야” 해명</title>
-      <link>https://www.chosun.com/national/education/2024/09/01/T4CYCPHEDBBVFEROKBPMYT6YUY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/09/01/T4CYCPHEDBBVFEROKBPMYT6YUY/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Sep 2024 03:51:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3HSC62JV2RIXARI23DHRFFREPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이주호 사회부총리 겸 교육부 장관이 29일 오후 인천 중구 용유로 인천국제공항공사 인재개발원에서 열린 2024 국민의힘 국회의원 연찬회에서 의대 증원 관련 보고를 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이부호 사회부총리 겸 교육부 장관이 최근 국민의힘 연찬 자리에서 의정 갈등과 관련해 “6개월만 버티면 이긴다”고 발언해 논란이 되는 가운데, 교육부가 “의사를 대상으로 한 말이 아니다”고 해명했다.&lt;br&gt;&lt;br&gt;교육부는 지난달 31일 설명자료를 내고 “토론 일부 내용이 전체 발언의 취지와 전혀 다르게 알려져 이를 바로 잡고자 한다”며 이 같이 밝혔다.&lt;br&gt;&lt;br&gt;교육부는 “과거부터 진행됐던 의료개혁 추진 과정에서 의료계와 정부 간에 쌓인 불신의 벽이 매우 높기 때문에 의료개혁을 완수하기 위해서는 의료계와 소통과 신뢰 구축이 최우선이라는 취지로 말했다”고 설명했다.&lt;br&gt;&lt;br&gt;‘이긴다’는 표현에 대해서는 “의사를 대상으로 한 것이 전혀 아니며, 그 반대로 대화와 소통을 통해 의료 개혁 추진에 따른 힘든 과정을 극복하자는 의미였다”고 해명했다. 특히 “이번 9월이 소통과 신뢰 회복의 골든타임이자 중요한 전환점이 될 수 있음을 강조했다”는 게 교육부 설명이다.&lt;br&gt;&lt;br&gt;교육부는 “정부와 국회가 의료개혁을 위한 구체적인 예산 확보와 제도 마련으로 실행 의지를 명확하게 보이고, 보다 적극적으로 의료계와 소통하고 설득해 나간다면 분위기를 전환해 의료개혁을 완수해 나갈 수 있다는 취지였다”고 밝혔다. 교육부는 “다양한 해결 방안을 논의하고자 비공개로 진행된 토론회에서의 일부 단어가 전체 맥락과 취지가 고려되지 않고 확산하는 것에 안타깝게 생각한다”며 “그로 인해 의료계와 정부, 국회 간의 신뢰와 협조가 저해되지 않기를 바란다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이 부총리는 29일 인천국제공항공사 인재개발원에서 열린 국민의힘 연찬회에서 조규홍 보건복지부 장관, 장상윤 대통령실 사회수석과 함께 의료개혁과 관련한 정부 계획을 보고했다. 이날 의원들과의 비공개 질의응답에서 이 부총리가 ‘6개월만 버티면 우리가 이긴다. 기다려달라’는 취지로 발언했고, 일부 의원이 ‘의사가 싸움의 대상이냐’며 질책한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/3HSC62JV2RIXARI23DHRFFREPA.jpg?width=600&amp;height=400&amp;auth=7f5a7bef6e6404f430685e9c43be1efe3f67239be5b97dc922d29551a4d06afb&amp;smart=true" type="image/jpeg" height="400" width="600">
-        <media:description type="plain">이주호 사회부총리 겸 교육부 장관이 29일 오후 인천 중구 용유로 인천국제공항공사 인재개발원에서 열린 2024 국민의힘 국회의원 연찬회에서 &amp;#39;의대 증원&amp;#39; 관련 보고를 하고 있다. photo 뉴시스</media:description>
-        <media:credit role="author" scheme="urn:ebu">Á¶¼ººÀ</media:credit>
-      </media:content>
     </item>
     <item>
       <title>역대급 폭염 속 64kg 리어카 끄는 노인들 “자식들 올 때면 리어카 숨겨”</title>
