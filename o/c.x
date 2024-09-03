@@ -13,6 +13,120 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이재명 ‘위례신도시’ 심리 이번달 마무리...‘대장동’ 범위 시작</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/03/JG3KUUHXCBCKVGNNYPIPP42SPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/03/JG3KUUHXCBCKVGNNYPIPP42SPA/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Sep 2024 12:57:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UZ6RH5FGBBKURMV4US3G4DINSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 3일 오전 서울 서초구 서울중앙지법에서 열린 ‘대장동·위례신도시·성남FC·백현동 사건’ 관련 1심 재판에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표의 이른바 ‘대장동·위례신도시·성남FC·백현동 사건’ 1심 재판에서 재판부가 첫 번째 범위인 ‘위례신도시’ 관련 심리를 이달 중으로 마무리한 뒤 다음 달부턴 두 번째 대목인 ‘대장동’ 부분을 들여다볼 예정이다. 다만 대장동 사건은 워낙 그 내용이 방대해 언제 끝날지 가늠이 안 되는 수준이다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 김동현)는 3일 이 대표 재판을 열고 “9월 말까진 위례 부분을 정리하고 10월 1일부터 (대장동 사건) 증인을 소환해 신문하겠다”고 예고했다. 재판부는 검찰의 대장동 의혹 관련 입증 계획과 피고인 측 의견을 검토한 뒤 이달 안으로 본격적인 심리 방향을 결정할 예정이다.&lt;br&gt;&lt;br&gt;이 대표는 지난해 3월 대장동·위례신도시·성남FC 관련 특혜 의혹 등으로 재판에 넘겨졌다. 그러다 그해 10월 백현동 특혜 의혹으로도 추가 기소·병합돼 현재 이 사건에서 크게 네 갈래로 나눠진 재판을 받고 있다. 그간 재판부는 4개 사건 중 상대적으로 분량이 적은 위례신도시 의혹부터 심리했고 주 2회가량 재판을 진행했다.&lt;br&gt;&lt;br&gt;다만 공판준비기일을 거쳐 작년 10월부터 시작된 위례신도시 관련 심리가 약 11개월 소요된 점을 고려하면, 사건 관계인이 더 많고 내용도 복잡한 대장동 사건 심리는 내년 안에 마무리하기 힘들 것이라는 관측이 나온다. ‘대장동’ 부분이 끝나도 성남FC와 백현동 범위가 남아있는 만큼 이 재판 1심 선고가 언제 나올진 예측조차 어려운 상황이다.&lt;br&gt;&lt;br&gt;재판부는 이날 재판 말미에 “계속 어영부영하다보면 정리는 안 되고 시간만 갈 것 같다”며 “꼭 필요한 검찰 증거 서면을 명확히 해서 주시고, 피고인 측은 거기에 대한 의견을 달라”고 당부했다.&lt;br&gt;&lt;br&gt;지난 대선 이후 7개 사건, 11개 혐의로 기소된 이 대표는 현재 이 재판을 포함해 총 4개의 재판을 받고 있다. 이 가운데 이른바 ‘위증 교사’ 및 ‘공직선거법 위반’ 재판 1심 선고는 올해 11월 전후로 나올 것으로 보인다.&lt;br&gt;&lt;br&gt;대북송금 관련 외국환거래법 위반 등 혐의 재판은 수원지법에서 지난달 첫 재판이 열렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>필리핀 가사관리사 100명 오늘 첫 출근</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/03/EFTGQW6IQ5AQ5LTOTQIKCVEBZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/03/EFTGQW6IQ5AQ5LTOTQIKCVEBZM/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Sep 2024 12:51:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3PUKKYQXR5F75BOT7TBZ2KKBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;필리핀 가사관리사가 아이를 돌보는 모습. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 필리핀 가사관리사 100명이 142개 가정을 대상으로 서비스를 시작했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;이날 첫 출근한 가사관리사들은 지난달 6일 입국해 이달 2일까지 4주간 160시간의 직무 교육, 한국어 학습, 성희롱 예방 및 산업안전교육 등 각종 특화교육을 받았다.&lt;br&gt;&lt;br&gt;이용가정은 총 731가구가 신청해 157가구가 선정됐다. 취소 등에 최종적으로 142가정이 가사관리사와 연결됐다.&lt;br&gt;&lt;br&gt;유형별로는 맞벌이 115가정(81%), 임신부 12가정(8.5%), 다자녀 11가정(7.7%), 한부모 4가정(2.8%) 순으로 많았다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “취소한 사례가 많아 한 달이라도 이용하겠다고 신청한다면 매칭될 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;가사관리사 서비스를 원하는 가정은 ㈜홈스토리생활 대리주부와 ㈜휴브리스 돌봄플러스 앱에서 상시 신청할 수 있다. 신청 대상은 12세 이하 자녀를 둔 서울시민이다.&lt;br&gt;&lt;br&gt;일정 기간 긴 시간 서비스를 받고자 하는 경향이 있는 요양·간병 서비스와 달리 아이 돌봄과 가사 서비스는 비정기적·선택적으로 이용하기를 희망하는 가정이 많았다.&lt;br&gt;&lt;br&gt;서울시의 가이드라인에 따르면 필리핀 가사관리사 업무 범위는 육아와 육아 관련 가사 등이다. 어른을 위한 음식 조리, 장보기 등은 할 수 없다. 가사관리사가 6시간 이상 일하는 경우 아동의 안전이 확보되는 선에서 간단한 청소와 어른 옷 빨래도 가능하다.&lt;br&gt;&lt;br&gt;김선순 서울시 여성가족실장은 “긴장과 설레는 마음으로 서비스를 준비해 온 필리핀 가사관리사들이 현장에서 돌봄 업무를 차질 없이 수행하도록 지원하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김진욱 전 공수처장 “이성윤 ‘황제 조사’ 나이브했다”</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/03/JNRUHIZLSBFUROB7H5RA7V2KDQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/03/JNRUHIZLSBFUROB7H5RA7V2KDQ/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Sep 2024 13:08:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AIDCVQOHBJPNJFI3C7W62QHN4A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김진욱 전 공수처장. 사진은 김 전 처장이 지난해 10월 국회 국정감사에서 의원들의 질의에 답하는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김진욱 전 고위공직자범죄수사처장이 3일 ‘이성윤 관용차 황제 조사’ 논란에 대해 “제가 나중에 보니까 좀 굉장히 나이브(순진)했다”고 말했다. 초대 공수처장으로 3년 임기를 마치고 지난 1월 퇴임한 김 전 처장은 최근 ‘공수처, 아무도 가지 않은 길’이란 책을 출간했다.&lt;br&gt;&lt;br&gt;김 전 처장은 이날 CBS 라디오 ‘김현정의 뉴스쇼’에 나와 ‘황제 조사’ 논란에 대해 “나중에 보니까 그 차(관용차) 말고 소나타가 한 대가 더 있었더라”면서 “그런데 저는 그 차가 있는지는 모르고 그럼 그냥 제 차 보내주지 한거다. 보니까 예전에 검찰에서도 많이 차를 보내주는 것 같더니”라고 했다. 그러면서 “지금도 죄송하게 생각한다. 차를 내준 부분도 저는 국민의 눈높이에 맞지 않다고 송구하게 생각을 한다”고 했다.&lt;br&gt;&lt;br&gt;김 전 처장은 지난 2021년 3월 김학의 전 법무차관 불법 출금(出禁) 수사를 무마하려 했다는 의혹 사건의 핵심 피의자인 이성윤 당시 서울중앙지검장을 조사하면서 자신의 제네시스 관용차를 제공해 은밀하게 과천 공수처 청사로 들어오게 했다. 당시 공수처의 ‘거짓 해명’도 논란이 됐다. 공수처는 황제 조사에 대해 ‘다른 호송용 차량은 뒷좌석 문이 안 열렸기 때문’이란 취지의 보도자료를 냈는데 이는 거짓으로 드러났다.&lt;br&gt;&lt;br&gt;김 전 처장은 공수처가 수사 중인 ‘순직 해병 조사 외압’ 의혹 사건 수사가 늦어진다는 지적에 “그 사건은 부장검사 둘에 검사 하나, 수사관이 4~5명이라고 한다. 8명 가지고 이렇게 큰 수사를 빨리빨리 진행하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;김 전 처장은 “수사가 이렇게 느려진 건 오롯이 인력 문제라고 보는가”란 사회자 질문에 “저는 그렇게 본다”고 답했다. 그는 “공수처 수사를 두고 ‘일부러 질질 끄는 것 같다’, ‘왜 빨리 결과를 안 내놓냐’고 하는 분도 있지만 현재는 그런 여건이 아니다”라고 했다.&lt;br&gt;&lt;br&gt;김 전 처장은 “제가 조직을 운영해 보니까 이 조직이라는 건 조직의 한계가 있다”라며 “예를 들어서 인원이 처장, 차장 빼고 23명인데, 그러면 20명 갖고 일을해야 한다. 중요한 사건들이 많은데 도저히 할 수가 없다”고 했다. 이어 “지금 공수처 인력의 한 서너 배 정도는 더 돼야 된다고 생각한다”고 했다. “월화수목 금금금 하고 토요일 날 나오고 일요일 날 나오고 휴일 날 나와라. 이런 열정페이를 요구하는 조직은 지속 가능성이 없다고 생각을 한다”고도 했다.&lt;br&gt;&lt;br&gt;김 전 처장은 이 사건 결과에 대해 “올해 안에 조사 마치고 한두 달 플러스해서”라며 “올해 안에 끝날 수 있을지 저도 지켜보고 있다”고 했다.&lt;br&gt;&lt;br&gt;김 전 처장은 공수처의 독립성과 중립성을 강조하면서 “임기 중 문재인 정부 시절은 물론 윤석열 정부 들어서도 공수처 수사와 관련해 전화 한 통 받은 적 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>응급실 11곳 뺑뺑이 돌다... 두 살 아기 의식불명</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/09/03/PIXRZTQ7HJAGBH6LW7OAZC4HZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/03/PIXRZTQ7HJAGBH6LW7OAZC4HZE/</guid>
+      <dc:creator>안준용 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Sep 2024 12:39:04 +0000</pubDate>
+      <content:encoded>28개월 여아가 열경련 증상으로 응급 상황에 처했는데도 응급실 11곳에서 ‘수용 불가’ 통보를 받고 한 달 가까이 의식불명에 빠진 사연이 3일 알려져 논란이 일고 있다. 보건복지부는 병원 11곳의 응급의료법 위반 여부 등에 관해 조사에 착수했다. 이 사건은 최근 전국 응급실 의료 공백 사태가 본격적으로 불거지기 전에 벌어진 일이지만, 의료계에선 “전반적으로 응급실 인력 문제 등 여러 사정 때문에 전국의 많은 응급실이 환자를 받기 어려운 상황이 계속돼 왔다”고 했다.&lt;br&gt;&lt;br&gt;이날 소방청 등에 따르면 일요일이던 지난달 4일 오후 8시 40분쯤 경기 고양에 사는 A(2)양이 열경련으로 위급한 상황이란 내용의 119 신고가 접수됐다. 소방 당국은 서울·경기 지역 병원 응급실 11곳에 A양을 수용할 수 있는지 문의했지만, ‘소아신경과 전문의 부재’ ‘병상 부족’ 등을 이유로 곤란하다는 답변을 받았다. 고양 관내 3곳, 김포 관내 2곳, 부천 관내 1곳, 의정부 관내 1곳, 서울 관내 4곳 모두 “치료가 어렵다”며 이송을 거부했다. A양은 부모가 119에 신고한 지 1시간 5분 만에야 12번째 병원인 인천 B대학병원 응급실로 이송됐다. 응급처치 등 1차 치료를 받은 뒤엔 서울 C병원으로 옮겨졌다. A양은 현재 의식이 돌아오지 않은 채 몸도 경직된 상태인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이와 관련해 박민수 복지부 2차관은 “(A양이) 적절하게 응급 이송이 안 됐던 것인지 상황을 확인 중”이라며 “초기 대응 과정에서 개선할 점은 없었는지 등은 의학적으로 세밀히 살펴봐야 할 문제”라고 했다. 복지부는 A양을 받지 않은 병원을 조사해 응급의료법 위반 사항 등이 있다면 처분을 내린다는 방침이다.&lt;br&gt;&lt;br&gt;한편 서울 여의도성모병원 응급실은 전문의 이탈과 남은 의료진 피로 누적으로 추석 연휴 기간 야간엔 신규 환자는 받지 않는 ‘제한적 운영’을 검토 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“여친 죽였다” 자진 신고...옥상 난간 걸터앉아 있었다</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/09/03/ZWIA5NDVBVEZRFP3HGSGDVDLD4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/09/03/ZWIA5NDVBVEZRFP3HGSGDVDLD4/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Sep 2024 12:30:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E4U47JSV3Z3PNKO6IJ5QEYVGZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제경찰서 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 여자친구를 찾아가 살해한 후 스스로 경찰에 신고한 30대 남성이 붙잡혔다.&lt;br&gt;&lt;br&gt;부산 연제경찰서는 3일 살인 혐의로 A(30대)씨를 붙잡아 조사하고 있다.&lt;br&gt;&lt;br&gt;A씨는 이날 오후 7시 36분쯤 부산 연제구 연산동에 위치한 한 오피스텔에서 헤어진 여자친구 B(20대)씨를 흉기로 살해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;그는 범행 이후 “여자친구를 죽였다”고 경찰에 신고했다. 신고를 받고 출동한 경찰은 오피스텔 건물 옥상 난간에 걸터앉아 투신을 시도하려던 A씨를 설득해 붙잡았다.&lt;br&gt;&lt;br&gt;오피스텔에서 발견된 B씨는 119구급대에 의해 병원으로 옮겨졌지만 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 현장에서 범행에 사용된 흉기를 압수하고, 과학수사팀을 투입해 현장감식을 벌이고 있다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 범행 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/E4U47JSV3Z3PNKO6IJ5QEYVGZ4.jpg?width=4032&amp;height=3024&amp;auth=92422e138055cfd65375147ba3e6776f08b51abe98e2ae1f383fa6c73d0f881e&amp;smart=true" type="image/jpeg" height="3024" width="4032">
+        <media:description type="plain">부산연제경찰서 전경. ⓒ 뉴스1 DB</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>검찰, ‘김정숙 한글 재킷’ 샤넬 한국인 디자이너 소환</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/03/TPUNVX7WVZAEBNMEQDBTCLBAZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/03/TPUNVX7WVZAEBNMEQDBTCLBAZE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Sep 2024 12:34:11 +0000</pubDate>
+      <content:encoded>문재인 전 대통령 부인 김정숙 여사의 해외 순방 관련 의혹을 수사하는 검찰이 김 여사가 해외 순방 당시 입은 샤넬 재킷의 기증에 관여한 것으로 알려진 한국인 디자이너를 3일 소환한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EVFFELEDRJFTGBBAYTYXUCREEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문재인 전 대통령의 부인 김정숙 여사가 2018년 10월 15일(현지 시각) 에마뉘엘 마크롱 대통령의 부인인 브리지트 마크롱 여사와 프랑스 파리 루브르 박물관으로 입장하고 있다. 김 여사가 입은 재킷은 샤넬이 한국에서 개최했던 2015/16 크루즈 컬렉션 무대에 소개되었던 작품이다. 김 여사는 이번 프랑스 국빈방한에서 마크롱 대통령 내외의 따뜻한 환대에 사의를 표하고자, 한국와 프랑스의 우정을 상징하는 샤넬의 한글 트위드 자켓을 별도로 빌린 것으로 알려졌다. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울중앙지검 형사2부(부장 조아라)는 이날 오전 샤넬 본사 소속 디자이너 김모씨를 참고인 신분으로 불러 조사했다. 검찰은 김 여사가 프랑스 순방 때 입은 재킷과 비슷한 재킷을 샤넬로부터 기증받은 경위 전반을 물은 것으로 전해졌다. 특히 김 여사의 해외 순방으로부터 3년여가 지난 뒤 재킷이 기증된 이유 등을 캐물었다고 한다.&lt;br&gt;&lt;br&gt;김 여사는 2018년 10월 프랑스 순방 당시 한글을 모티프로 한 샤넬 재킷을 대여해 착용했다. 인터넷에서 김 여사가 이 재킷을 반납하지 않았다는 의혹이 제기되자, 청와대는 2022년 3월 해당 재킷은 샤넬이 돌려받아 국립한글박물관에 기증했다고 해명했다.&lt;br&gt;&lt;br&gt;이후 정치권에선 한글박물관이 기증받은 재킷이 김 여사가 착용했던 것과 다른 제품이라는 지적이 나왔다. 그러자 샤넬은 “한글박물관 요청에 따라 별도 재킷을 제작해 기증했다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난 7월 샤넬 재킷을 기증받은 국립한글박물관의 김일환 관장, 전시운영과 관계자 등을 참고인 신분으로 소환해 조사한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고개 숙인 텔레그램... 성범죄 영상도 삭제</title>
+      <link>https://www.chosun.com/economy/tech_it/2024/09/03/SIGPYNMII5CHTDOY5MUZYRCB6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/economy/tech_it/2024/09/03/SIGPYNMII5CHTDOY5MUZYRCB6I/</guid>
+      <dc:creator>성유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Sep 2024 11:02:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QWZ6NZZSTRJMRKE4FWTEJUIGKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/로이터 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;텔레그램이 최근 딥페이크 성범죄 사태와 관련해 우리 정부가 지난 1일 긴급 삭제를 요청한 디지털 성범죄 영상물 25건을 모두 삭제했다. 관련 규제를 담당하는 방송통신심의위원회(방심위)에 앞으로 지속적으로 협력하겠다는 뜻도 전해왔다. 전날 경찰이 딥페이크 성범죄 방조 혐의로 텔레그램 법인에 대해 내사에 착수했다고 밝힌 지 하루 만이다.&lt;br&gt;&lt;br&gt;3일 방심위에 따르면, 텔레그램 동아시아 책임자는 이날 방심위에 보낸 이메일에서 “최근 한국 당국이 우리 플랫폼에서 불법 콘텐츠(illicit content)를 다루는 데 어려움을 겪고 있다는 사실을 언론 보도를 통해 알게 됐다”며 방심위가 긴급 삭제를 요청한 디지털 성범죄 영상물 25건을 모두 삭제했다고 전했다. 그러면서 “한국 사용자들에게 텔레그램을 더욱 안전하게 만들기 위해 방심위와 신뢰 관계 구축을 희망한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;방심위는 지난 2019년부터 신고 받았거나 모니터링을 통해 발견한 디지털 성범죄 영상물을 삭제해달라고 텔레그램에 이메일로 요구해왔다. 그러나 텔레그램은 공식적인 회신은 하지 않고 삭제 요청에 응했다. 이에 따라 방심위는 해당 콘텐츠가 삭제됐는지 일일이 확인해야 했다. &lt;br&gt;&lt;br&gt;방심위는 작년 삭제를 요청한 161건 중 160건, 올 1~7월엔 78건 중 74건이 삭제된 것으로 파악하고 있다. 방 폭파 등으로 삭제 요청이 이뤄지기 전에 이미 사라진 경우도 많다고 한다. 이와 관련해 텔레그램은 “그동안 한국 당국으로부터 접수한 신고를 성실하게 처리하고 있었기에, 현재와 같은 상황 전개는 매우 안타깝게 생각한다”며 “오해의 소지가 있었다면 사과한다”고 방심위에 전했다.&lt;br&gt;&lt;br&gt;텔레그램은 이날 자사와 소통할 수 있는 새로운 전용 이메일도 방심위에 알렸다. 방심위 관계자는 “텔레그램의 조치 여부를 확인할 수 있는 이메일이라는 설명도 함께 있었다”고 말했다. 앞으로는 한국의 삭제 요구를 받으면 이번처럼 이행 여부를 회신해주겠다는 의미로 해석된다.&lt;br&gt;&lt;br&gt;방심위는 “텔레그램이 최근 국내 사태에 대한 심각성을 인지하고 향후 협력의지를 분명히 한 것으로, 이번에 확보한 전용 이메일을 시작으로 핫라인을 구축해 협력 관계를 다져나가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2030 교사 86% “월급 적어 이직 고민한 적 있다”</title>
+      <link>https://www.chosun.com/national/education/2024/09/03/G5O4ZV6TJFE2VAUVZLBBGRJZ44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/09/03/G5O4ZV6TJFE2VAUVZLBBGRJZ44/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Sep 2024 11:53:10 +0000</pubDate>
+      <content:encoded>교대를 졸업하고 올해 초등교사가 된 강모(24)씨는 최근 이직을 고민하고 있다. 교사가 되기 위해 학창 시절 좋은 성적을 받았지만, 회사에 취직해 자기보다 월급을 두배 이상 받는 친구들을 보며 박탈감을 느꼈다. 강씨 월급은 240만원(세후). 그는 “교사 월급이 많지 않다는 건 알고 있었지만 직접 받아서 생활해보니 턱없이 모자란 것이 체감된다”며 “서른 살 전에 다른 직업을 갖는 게 목표”라고 말했다.&lt;br&gt;&lt;br&gt;최근 2030 교사 대부분은 강씨처럼 월급에 회의감을 느끼고 이직을 고민하는 것으로 나타났다. 한국교원단체총연합회(교총)가 지난달 20~30대 유∙초∙중∙고 교사 4603명을 대상으로 진행한 설문조사에 따르면, 10명 중 9명(86%)이 “월급이 적어 이직을 고민한 적 있다”고 답했다. 교총 측은 “교사 임금 인상률이 3년 연속 1%대로 물가 인상률에 미치지 못하고, 교직 수당은 24년째 제자리여서 실질 임금이 오히려 줄어들고 있는 상황”이라 밝혔다.&lt;br&gt;&lt;br&gt;2년 차 중학교 교사 이모씨는 “교사 월급은 그대로인데 최저임금은 많이 올라서 동료들끼리 ‘편의점에서 아르바이트를 해도 비슷한 돈을 받겠다’는 말까지 한다”고 말했다.&lt;br&gt;&lt;br&gt;젊은 교사들은 교직 이탈을 막으려면 ‘확실한 처우 개선’(53.9%)이 가장 중요하다고 답했다. 그다음은 ‘교권 보장’(37.5%)이었다. 적절한 임금 인상 수준으로는 ‘물가인상률 이상’이라는 의견이 55.7%로 가장 많았고, 다음은 ‘10% 이상’(31.5%), ‘5% 이상’(11.7%) 순이었다. 젊은 교사들은 그동안 교사의 장점으로 여겨졌던 공무원·사학 연금에 대해서도 ‘기대하지 않는다’(93.9%)고 답했다.&lt;br&gt;&lt;br&gt;낮은 처우에 최근 ‘교권 추락’ 현상까지 심해지며 실제 교직을 떠나는 젊은 교사들은 점점 많아지고 있다. 작년 학교를 그만둔 10년 차 미만 교사는 576명으로, 최근 5년 중 가장 많았다. 교대를 다니다가 중간에 그만둔 학생이 작년에만 667명으로, 전체 교대 입학 정원(3847명)의 17.3%에 달했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 소청도 인근 해역서 불법 조업한 중국어선 2척 붙잡아</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2024/09/03/HYTCVGX57ZCRRBX7247VGGTTVI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2024/09/03/HYTCVGX57ZCRRBX7247VGGTTVI/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Sep 2024 11:58:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UH7AN4THO5H2PGAQGIPWZJWEQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;불법 조업한 중국 어선을 쫓는 해경 고속단정. /서해5도 특별경비단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 소청도 인근 해역에서 불법으로 조업한 중국 어선 2척을 해양경찰이 나포했다.&lt;br&gt;&lt;br&gt;중부해경청 서해5도 특별경비단은 영해 및 접속수역법 위반 혐의로 중국 어선 2척을 나포해 인천해경 전용부도로 압송 중이라고 3일 밝혔다.&lt;br&gt;&lt;br&gt;나포된 중국 어선 2척은 이날 오전 10시 45분쯤 인천 옹진군 소청도 남서쪽 특정해역을 6.5km 침범해 불법 조업한 혐의를 받는다.&lt;br&gt;&lt;br&gt;어선 2척은 모두 30t급 철선이다. 어선 2척이 그물을 끄는 ‘쌍타망’ 방식으로 조업한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이들은 해경의 정선 명령을 거부한 채 달아나다가 나포됐다. 배에는 각각 4명씩 총 8명의 중국인 선원이 타고 있었다.&lt;br&gt;&lt;br&gt;해경 관계자는 “가을 조업철을 맞아 중국 어선의 해양 주권 침해행위에 대해 적극 대응할 방침이다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UH7AN4THO5H2PGAQGIPWZJWEQQ.jpg?width=640&amp;height=396&amp;auth=4e3b237533910129b10ec9619e7405b63a11b9f5a1cd459b2244fd333d05f625&amp;smart=true" type="image/jpeg" height="396" width="640">
+        <media:description type="plain">불법 조업한 중국 어선을 쫓는 해경 고속단정. /서해5도 특별경비단</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>[단독] 음주운전 사고 후 달아난 전직 축구선수, 불구속 송치</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/03/CNDEZC2WYFEVXFWOUP5TUUHXXU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/03/CNDEZC2WYFEVXFWOUP5TUUHXXU/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Sep 2024 11:54:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UWSJTOPVHQ6OC5Q2HD57LVIZQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구에서 음주 교통사고를 내고 달아났다가 검거된 전직 축구선수가 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 음주운전, 사고후미조치 혐의를 받는 전직 축구선수 이모(35)씨를 지난달 21일 검찰에 불구속 송치했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;이씨는 지난 7월 12일 오전 6시 6분쯤 서울 강남구 논현동의 한 인도 위 변압기와 가로수를 들이받고 도주했다가 주거지에서 긴급체포됐다. 이씨는 사건 발생 당시 음주 혐의를 부인했지만, 경찰 조사에서 “술을 마시고 운전했다”고 진술했다고 한다.&lt;br&gt;&lt;br&gt;당초 경찰은 피의자가 도주한 점을 고려해 구속영장 신청을 검토했으나 이씨가 음주운전을 시인하고 증거를 제출하는 등 수사에 협조해 결국 영장을 신청하지는 않았다.&lt;br&gt;&lt;br&gt;2010년 강원FC에 입단한 이씨는 독일과 일본, 말레이시아 등지에서 선수로 활동했고, U16 청소년 국가대표로도 뛰었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰총장 후보 올랐던 ’특수통’ 임관혁 서울고검장 사의 표명</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/03/OH25E3XOBJA2ZILKFE7BUZZENQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/03/OH25E3XOBJA2ZILKFE7BUZZENQ/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Sep 2024 10:27:35 +0000</pubDate>
+      <content:encoded>임관혁(사법연수원 26기) 서울고검장이 3일 사의를 표명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T3IBF6QCGZMBPOTKUISOCRACDA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;임관혁 서울고검장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 임 고검장은 이날 법무부에 사의를 표명했다. 임 고검장은 본지 통화에서 “이제 떠날 때가 된 것 같다”며 “당분간 쉴 계획”이라고 밝혔다. 그는 지난 5월 서울고검장으로 임명됐었다.&lt;br&gt;&lt;br&gt;임 고검장은 서울중앙지검 특수1·2부장을 거친 대표적인 ‘특수통’이다. 충남 논산 출신인 그는 ‘한명숙 전 국무총리의 불법 정치자금 수수 사건’ ‘이명박 정부의 자원 비리 의혹 사건’ ‘부산 해운대 엘시티 비리 사건’ 등 굵직한 기업·권력 비리를 수사했다.&lt;br&gt;&lt;br&gt;임 고검장은 윤석열 대통령이 검찰총장으로 있을 때 세월호 참사 특별수사단장도 맡았다. 문재인 정부 시절 서울고검·광주고검 등으로 좌천됐다가 현 정권 출범 이후 검사장, 고검장으로 연이어 승진했다.&lt;br&gt;&lt;br&gt;검찰총장후보추천위원회는 지난달 7일 이원석 검찰총장의 후임 후보자 4명을 압축하며 임 고검장을 후보군에 포함시켰다. 이후 윤 대통령이 심우정(26기) 법무차관을 후보자로 지명하며 검찰총장 후보에서 낙마했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여교사 딥페이크 성착취물 제작·유포 고교생... 범행 대상 더 있었다</title>
+      <link>https://www.chosun.com/national/incident/2024/09/03/ND46STNA6FD7LIEWVBPGNBJKZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/03/ND46STNA6FD7LIEWVBPGNBJKZM/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Sep 2024 10:59:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FDUZX3KER5HYHJJ3N2HSLK2PEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;딥페이크 기술을 활용해 여교사의 얼굴을 나체 사진에 합성한 뒤, 소셜미디어(SNS)에 유포한 고등학생이 학원 선배와 강사, 유명 인플루언서 등을 상대로도 범행한 사실이 확인됐다.&lt;br&gt;&lt;br&gt;인천 남동경찰서는 성폭력범죄의 처벌 등에 관한 특례법 위반 혐의로 입건한 고등학생 A(17)군의 추가 범행을 확인했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;A군은 지난 7월 고등학교 여교사 2명의 얼굴을 딥페이크 기술을 활용해 나체 사진에 합성하고, SNS에 유포한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 이 사건을 수사하는 과정에서 A군의 SNS 계정과 A군이 다니는 고등학교 학생 300여 명의 SNS 계정 등을 조사해 A군이 과거 학원에 함께 다니던 선배와 학원 강사, SNS 유명 인플루언서 등 3명을 상대로 딥페이크 성착취물을 제작해 유포한 사실을 추가 확인했다.&lt;br&gt;&lt;br&gt;A군은 “예뻐서 호기심에 만들게 됐다”고 경찰에 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 조만간 A군을 검찰에 송치할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>(여자)아이들 소속사도 “딥페이크 제작물 확인… 선처 없는 법적 조치”</title>
       <link>https://www.chosun.com/national/national_general/2024/09/03/45WEIU2IVVEPXNF2GHG2ZTUBOU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/03/45WEIU2IVVEPXNF2GHG2ZTUBOU/</guid>
@@ -824,122 +938,6 @@
       <description/>
       <pubDate>Mon, 02 Sep 2024 15:30:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OUH2YJXNSJATRGH4LBYERXWAI4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=유재일&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소변을 식수로 바꿔주는 우주복이 나왔어요. 공상과학 영화 ‘듄(Dune)’에는 사람 몸에서 나오는 수분을 깨끗한 물로 바꿔주는 ‘스틸 슈트(still suit)’가 등장해요. 영화는 미국 작가 프랭크 허버트의 소설 ‘듄’이 원작이에요. 이 슈트에서 아이디어를 얻어, 소변을 정화해 식수로 제공하는 우주복을 개발했대요. 이 우주복은 어떤 원리로 소변을 우주인이 마실 수 있는 물로 바꾸는 걸까요?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DHFXMNJPX5C3NINHBQCQWLMIBU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=유재일&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;우주비행사와 기저귀&lt;/b&gt;&lt;br&gt;&lt;br&gt;우주에서는 산소만큼 우주인들이 마실 물이 귀해요. 지구와 달리 물을 구하는 게 쉽지 않기 때문이에요. 과학자들은 오랫동안 우주에서 물을 얻기 위한 기술들을 개발해 왔어요. 그리고 이미 국제우주정거장(ISS)에선 ‘생명 유지 시스템’을 통해 우주비행사들의 소변과 땀, 호흡 과정에서 배출되는 수분까지 재활용해 깨끗한 물을 만들어내고 있어요.&lt;br&gt;&lt;br&gt;하지만 우주비행사들이 입는 우주복에는 이 같은 장치가 없어요. 우주선 밖으로 나와 우주 공간을 탐사하려면 우주복 내 음료수 가방에 물을 따로 챙겨야 해요. 여기에 저장할 수 있는 물은 1L에 불과해요. 그래서 우주 공간 이동 중 물 부족으로 자칫 탈수 현상이 생기면 혼수상태에 빠질 수도 있어요. 또 오랜 시간 수분을 보충하는 게 어려워 중요한 탐사를 하다가도 중간에 다시 우주선으로 돌아와야 하는 불편함이 있었죠.&lt;br&gt;&lt;br&gt;심지어 우주 공간에서 작업할 때는 화장실을 따로 갈 수 없어요. 그래서 최대 흡수성 의복(MAG)이라고 불리는 우주비행사 전용 기저귀를 차고 다녀야 해요. 문제는 우주비행사들은 국제우주정거장에서 하루 평균 6시간 26분 정도 우주 공간을 탐사하는데, 자신의 대소변이 묻은 대형 기저귀를 계속 차고 있어야 하다 보니 매우 불편하고 비위생적이라는 거죠.&lt;br&gt;&lt;br&gt;우주비행사들에 따르면 MAG가 새는 건 흔한 일이라고 해요. 그러다 보니 요로 감염에 걸려 힘들어하는 이들도 있다고 해요. 그래서 우주 유영 전에는 식사량을 줄이거나 배변량이 적은 음식을 섭취하기도 한대요. 우주비행사들은 기저귀 착용을 자신이 짊어져야 할 짐이라고 생각하고 불편함을 참아왔다고 해요.&lt;br&gt;&lt;br&gt;우주비행사들의 이런 심리적 불편과 위생적 문제를 해결하기 위해, 최근 미국 코넬대 웨일 의대 연구팀이 소변을 식수로 바꿔주는 첨단 우주복 시제품을 개발했어요. 우주선의 생명 유지 시스템과 같은 기술을 우주복에도 적용한 거예요. 이 우주복을 입으면 우주선 밖에서 활동할 때 수분 섭취 걱정을 하지 않아도 된대요. 또 기저귀를 착용하지 않아도 되니 편하고 건강도 함께 챙길 수 있다고 해요.&lt;br&gt;&lt;br&gt;&lt;b&gt;정화 장치 달린 우주복&lt;/b&gt;&lt;br&gt;&lt;br&gt;우주복 등 쪽에 백팩처럼 네모난 상자가 달려 있어요. 여기 안에 들어 있는 정화 장치가 소변을 물로 바꾸는 역할을 해요. 정화 장치 등으로 인해 늘어나는 우주복 무게는 8kg 정도라고 합니다.&lt;br&gt;&lt;br&gt;정화 장치는 우주복 속옷 안의 실리콘 컵과 연결돼 있어요. 우주비행사가 소변을 보면 실리콘 컵에 소변이 모이고, 우주복 등에 달린 정화 장치가 자동으로 켜져요. 컵에 모인 소변은 진공 펌프 역할을 하는 작은 호스를 따라 정화 장치의 여과기로 흘러가요. 이때 이동 과정에서 소변은 항균성 직물 층을 통과하며 세균이나 불순물이 제거돼요.&lt;br&gt;&lt;br&gt;이렇게 정화 장치의 여과기에 도착한 소변은 어떤 원리를 통해 식수로 바뀌게 되는 걸까요? 정답은 삼투 현상과 역삼투 현상입니다.&lt;br&gt;&lt;br&gt;삼투 현상은 반투과성 막을 경계로 농도가 낮은 곳에서 높은 곳으로 물이 이동하는 현상을 말해요. 역삼투 현상은 삼투 현상과 반대로 농도가 높은 곳에서 낮은 곳으로 물이 빠져나오는 걸 말해요. 역삼투 현상이 일어나려면 농도가 높은 곳에 삼투압보다 강한 압력이 주어져야 해요.&lt;br&gt;&lt;br&gt;여과기로 들어온 소변은 반투과성 막을 경계로 유도 용액(소변보다 농도가 높음)을 만나게 돼요. 그러면 삼투 현상으로 인해 소변 속 물이 반투과성 막을 거쳐 유도 용액으로 이동하게 됩니다. 그런 다음 물이 들어 있는 유도 용액에 삼투압보다 강한 압력을 가해요. 그러면 역삼투 현상으로 인해 유도 용액 속 물만 반투과성 막을 통과하게 되고 식수가 됩니다. 이 우주복은 소변 500mL를 수집하고 정화하는 데 불과 5분밖에 걸리지 않는대요.&lt;br&gt;&lt;br&gt;이렇게 소변을 식수로 바꿔주는 우주복 시제품 연구 결과는 국제학술지 ‘프런티어 인 스페이스 테크놀로지’에 지난 7월 공개됐어요. 연구팀은 수집된 소변의 최소 75%를 물로 바꾸는 것이 목표이며, 자원봉사자 100명을 모집해 이 우주복의 기능성과 착용감 등을 시험할 계획이라고 해요.&lt;br&gt;&lt;br&gt;연구팀은 이 우주복이 미국 항공우주국(NASA)의 유인 달 탐사 프로젝트인 ‘아르테미스 계획’에 투입되기를 기대하고 있어요. 달 탐사에 나서는 우주비행사들은 최소 10시간에서 최대 24시간까지 우주 유영을 할 수 있어야 하는데요. 그런 만큼 물을 1L밖에 채우지 못하는 기존 우주복은 적합하지 않아요.&lt;br&gt;&lt;br&gt;연구팀은 극미 중력 상태에서의 실험도 준비하고 있어요. 극미 중력은 중력이 거의 없는 상태를 말해요. 소변을 식수로 바꾸는 우주복이 사용되는 곳이 바로 국제우주정거장이나 달처럼 극미 중력 상태의 공간이기 때문이에요. 이 신형 우주복이 실제로 활용되면 우주비행사들이 우주를 장시간 탐사하는 데 큰 도움이 될 거예요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>퇴근길 만원 버스 탄 임산부, 버스기사 이 한마디에 ‘울컥’</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/02/WWQ2SATKCZG45C4PVQIULHWPOI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/02/WWQ2SATKCZG45C4PVQIULHWPOI/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Sep 2024 13:13:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TL46Y2XWNZGOLIXQYDVRLSIPNQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울 버스 기사가 만원 버스에서 임산부 승객을 위해 자리를 양보해달라고 외친 사연이 알려져 많은 이들의 마음을 울렸다. /JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의 버스 기사들이 만원 버스에서 임산부 승객을 위해 자리를 양보해달라고 외친 사연이 알려져 많은 이들의 마음을 울렸다.&lt;br&gt;&lt;br&gt;이 사연은 2일 ‘서울특별시버스운송사업조합’ 홈페이지의 ‘칭찬합시다’ 게시판을 통해 알려졌다. 임신 12주차인 임산부라고 밝힌 A씨는 이날 게시판에 ‘440번 기사님 너무너무 감사합니다’라는 제목의 글을 올렸다. 게시글에 따르면, A씨는 이날 저녁 6시쯤 서울 서초구 내곡동 헌인릉 정류소에서 440번 버스에 탑승했다. 버스 기사 이름은 확인하지 못했지만 차량 번호 7381번을 운전하고 있었다고 한다.&lt;br&gt;&lt;br&gt;A씨는 퇴근길 만원 버스에서 좌석에 앉을 수 있을 거라 기대하지 않았다. 그러나 A씨가 버스에 타자마자 A씨의 임산부 배지를 본 기사가 “승객 여러분 임산부가 우리 버스에 탔습니다. 노약자석에 앉으신 분들은 양보 부탁드립니다”고 외쳤다고 한다. A씨는 “버스에 사람이 너무 많고 통로까지 꽉 차있어서 자리에 앉기는 어려웠지만 너무 감사해서 눈물이 왈칵 날 것 같았다”고 했다.&lt;br&gt;&lt;br&gt;A씨가 자리에 앉지 못하자 버스 기사는 다시 한번 안내말을 외치면서 양보를 부탁했지만 안타깝게도 자리는 나지 않았다고 한다. 이에 A씨는 기사에게 “곧 내리겠다”고 말했고, 기사는 “앞문 근처에 넓은 자리에 서있다가 차가 서면 천천히 내리라”고 친절하게 말했다.&lt;br&gt;&lt;br&gt;A씨는 이름 모를 버스 기사를 향해 “정말 감사한데 그 자리에서는 더 감사 인사를 할 수 없어 꾸벅 인사만 드리고 내렸다”며 “따뜻하게 배려해주셔서 감사하다. 출퇴근길 운전이 바쁘고 정신 없으실 텐데 항상 안전 운전하시라”고 했다.&lt;br&gt;&lt;br&gt;비슷한 사연은 또 있었다. 서울 270번 버스를 운행하는 전진옥 씨가 주인공이었다. JTBC 보도에 따르면 전 씨는 지난달 27일 출근시간대 만원 버스 안에서 힘겹게 서 있는 임산부를 발견했는데 당시 노약자석과 임산부석에는 빈 자리가 없었다.&lt;br&gt;&lt;br&gt;전 씨는 신호가 걸렸을 때 사이드 브레이크를 채우고 자리에서 일어나 승객들을 향해 “임산부가 탔으니 자리를 양보해달라”고 외쳤다. 이에 한 승객이 일어나 자리를 양보하면서 임산부는 20분간 편히 앉아 목적지까지 갈 수 있었다. 전 씨는 “(임산부가 버스에서 내리기 전) 앞으로 나와서 고맙다고 인사해서 내가 ‘죄송하다’고 그랬다. 내가 먼저 자리를 마련해줘야 하는데 너무 늦었다”라며 “줄곧 해왔지만 앞으로도 더 열심히 해야 하겠다는 그런 마음이 생겼다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대구 달성군 알루미늄 제련 공장서 불.. 대응 1단계 발령</title>
-      <link>https://www.chosun.com/national/regional/2024/09/02/Y7ERB4D2FFGTHICTSWNXACMR7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/02/Y7ERB4D2FFGTHICTSWNXACMR7Y/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Sep 2024 13:32:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YGNTZQXPSBH4DKONKRPXVNU5ZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오후 8시 20분쯤 대구시 달성군 논공 공단에 있는 알루미늄 제련 공장에서 불이 나 소방당국이 진화에 나섰다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 오후 8시 20분쯤 대구시 달성군 논공읍 논공 공단에 있는 알루미늄 제련 공장에서 불이 났다.&lt;br&gt;&lt;br&gt;대구소방본부에 따르면 오후 10시 현재 불은 공장 건물 2동(1358㎡) 중 1동을 태웠으며, 소방당국은 관할 소방서 인력이 모두 출동하는 대응 1단계를 발령해 진화 중이다.&lt;br&gt;&lt;br&gt;화재로 인한 인명 피해는 없다고 소방당국은 밝혔다.&lt;br&gt;&lt;br&gt;소방당국과 경찰은 진화가 마무리되는 대로 자세한 경위를 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천 지하철 역무실 음료먹다 직원 구토.. 락스 성분 확인</title>
-      <link>https://www.chosun.com/national/regional/2024/09/02/I2RX4TA4AVGEHJNRGULY6IIWVA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/02/I2RX4TA4AVGEHJNRGULY6IIWVA/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Sep 2024 13:05:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XIRSIJ3ARDJORSEWON6VRTGY5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천교통공사 직원들이 지하철 역무실 냉장고에 있던 음료를 마신 후 구토한 사건과 관련해, 이 음료에서 락스 성분이 나왔다.&lt;br&gt;&lt;br&gt;2일 인천 남동경찰서에 따르면 지난달 국립과학수사연구원에 의뢰한 성분 검사 결과 음료에서 락스 성분이 검출됐다.&lt;br&gt;&lt;br&gt;경찰은 폐쇄회로(CC)TV 분석과 직원 면담 조사 결과 음료에 고의로 락스를 넣은 정황은 발견되지 않았다고 설명했다. 또 페트병에 들어 있던 액체에는 락스 성분 이외 다른 물질은 검출되지 않았다.&lt;br&gt;&lt;br&gt;이 페트병을 보관한 냉장고는 지하철에서 발견된 음식물 등 유실물을 보관하는 용도로도 사용된 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 교통공사 직원 등 40여명을 상대로 조사를 이어가는 한편 지하철 승객이 놓고 갔을 가능성에 대해서도 수사하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “누군가 실수로 음료 병에 락스를 넣고 유실한 것으로 보인다”며 “누가 냉장고에 넣었는지는 확인되지 않아 다양한 가능성을 염두에 두고 수사를 진행 중이다”고 전했다.&lt;br&gt;&lt;br&gt;앞서 지난달 11일 오전 5시쯤 인천 지하철 인천시청역에서 인천교통공사 직원 A씨와 B씨 등 20~30대 남성 2명이 역무실 냉장고에 있던 음료를 마신 후 구토 등 이상 증세를 보였다. 이 음료를 따라준 또 다른 직원 C씨도 음료 맛을 본 후 병원 치료를 받았다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강원 원주천서 다슬기 잡던 70대 물에 빠져 숨져</title>
-      <link>https://www.chosun.com/national/regional/2024/09/02/LCS6QE7EDBE2DCZM5DROGD2GEQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/02/LCS6QE7EDBE2DCZM5DROGD2GEQ/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Sep 2024 11:50:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZTWXFQHNUEXAR2CA7LRJW55Q6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원도소방본부 로고. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 오후 2시 18분쯤 강원도 원주시 단구동 원주천에서 다슬기를 잡던 70대 A씨가 2ｍ 깊이의 물에 빠졌다.&lt;br&gt;&lt;br&gt;심정지 상태로 발견된 A씨는 신고를 받고 출동한 소방 당국이 20여분 만에 구조해 병원으로 옮겼으나 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>열대야 끝나니 아침 안개 주의보...일교차 커지자 또 다른 불청객  </title>
-      <link>https://www.chosun.com/national/transport-environment/2024/09/02/N5CZQOKRONBGVJ5FWBAF3GPW44/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/09/02/N5CZQOKRONBGVJ5FWBAF3GPW44/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Sep 2024 12:05:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNIAOXPWUJJ7VGAU6ZMCP6MMGY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;가을비가 내리며 찜통 더위가 한풀 꺾인 2일 서울 종로구 송현광장에서 시민들이 산책을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초가을로 접어들면서 곳곳에 이른 아침 짙은 안개가 깔리고 있다. 올여름 혹독했던 ‘밤 더위’가 꺾이면서 일교차가 커진 영향으로 분석된다. 안개는 ‘가을의 불청객’이라 불릴 정도로 대형 교통사고 유발 등 위험성이 크다. 초가을 안개는 오전에 해가 뜨면 대부분 바로 사라지기 때문에 새벽~아침 출근 시간대만 조심하면 큰 사고는 피할 수 있다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 2일 오전 5시 기준 짙은 안개의 영향으로 전남 무안의 가시거리가 90m까지 줄어들었다. 보통 가시거리가 1㎞ 미만이면 시야 확보가 어려운 ‘짙은 안개’가 낀 것으로 본다. 그런데 무안은 눈으로 볼 수 있는 거리가 이보다 10분의 1 수준으로 짧았던 것이다. 이날 전남 보성(가시거리 120m), 함평(190m)과 전북 임실(200m) 등에서도 가시거리가 짧아졌다.&lt;br&gt;&lt;br&gt;안개는 초가을의 문턱에 다다랐음을 알리는 대표적 기상 현상이다. 밤사이 기온이 내려가면서 수증기 결정이 만들어지고, 해가 뜨기 전까지 사라지지 않는 것이다. 일교차가 심할 때 발생하기 때문에 1년 중 가을(9~11월)에 가장 심하다.&lt;br&gt;&lt;br&gt;도로교통공단이 2016~2020년 5년간 날씨에 따른 교통사고를 분석한 결과, 안개 발생 시 교통사고 치사율(교통사고 100건당 사망자 수)은 8.8명으로 맑은 날(1.6명) 대비 5.5배 높게 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내년 폐점 신도림 현대백화점, 6500억 들여 이렇게 바뀐다</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/02/VJIQBF4HVVFTXNJY3LMJ3YQZWU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/02/VJIQBF4HVVFTXNJY3LMJ3YQZWU/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Sep 2024 10:25:00 +0000</pubDate>
-      <content:encoded>서울 구로구 신도림역 인근 ‘현대백화점 디큐브시티’가 내년 6월 30일 문을 닫는다. 구로구는 이 자리에 대규모 업무시설과 상업,휴식 공간이 어우러진 ‘캠퍼스형 오피스’가 들어설 예정이라고 2일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QNOF6O5GPJB7TLXJHOVQHHL7JE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신도림역 디큐브시티 용도변경 후 조감도. /구로구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 건물의 소유주 이지스 자산운용은 이곳을 상층부엔 오피스, 저층부엔 스타필드를 두고 있는 코엑스처럼 리모델링할 계획이다. 사업비 6500억원을 들여 내부를 재구조화한다.&lt;br&gt;&lt;br&gt;수도권광역급행철도(GTX) B노선을 주축으로 서울, 인천, 경기도를 잇는 신도림역의 지리적 이점을 활용해 일반적인 업무공간이 아닌 글로벌 혁신기업이 필요로 하는 캠퍼스형 오피스를 조성한다는 구상이다.&lt;br&gt;&lt;br&gt;구로구 관계자는 “캠퍼스형 오피스는 업무시설 외에도 문화, 쇼핑, 먹거리를 즐길 수 있는 상업시설과 휴식 공간이 함께 있는 차별화된 업무환경으로, 애플, 엔비디아, 아마존, 메타 등 글로벌 혁신기업들이 선호하는 것으로 알려져 있다”고 설명했다.&lt;br&gt;&lt;br&gt;저층부에는 현재처럼 식당 등 판매시설이 유지된다. 1층에는 열린 실내정원 등을 만들어 시민들이 자유롭게 쓸 수 있는 휴게 공간을 만들 계획이다.&lt;br&gt;&lt;br&gt;구로구 관계자는 “최근 이지스 측과 면담을 갖고 용도변경 관련 건축심의 건에 대해 구로구의 미래를 어떻게 변화시킬지에 대한 전망과 주민 삶에 미치는 영향 등을 고려해야 한다는 데 의견을 같이했다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 6월 14일에도 구는 이지스 측을 만나 백화점 영업 종료에 대한 주민들의 우려를 전달하고 지역 상권 활성화를 위한 역할을 당부했다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>최재영 목사 신청 ‘디올백’ 수사심의위...검찰, 개최 여부 9일 논의</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/02/LKE2I7AXNJBLXAXLFQZSLEMBOQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/02/LKE2I7AXNJBLXAXLFQZSLEMBOQ/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Sep 2024 11:08:12 +0000</pubDate>
-      <content:encoded>윤석열 대통령 부인 김건희 여사에게 디올백을 제공한 최재영 목사가 검찰의 수사 결과에 반발해 신청한 검찰 수사심의위원회(수심위) 소집 여부가 다음 주 논의된다.&lt;br&gt;&lt;br&gt;서울중앙지검 검찰시민위원회(시민위)는 오는 9일 서울중앙지검에서 부의심의위원회를 열고 최 목사의 신청을 받아들여 수심위를 개최할지 여부 등을 논의한다. 시민위는 오는 6일까지 주임 검사와 최 목사 측으로부터 의견서를 받아 검토할 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BNEYYQZV5RO4PIVOG5COA44XIQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사에게 명품 가방을 건넨 최재영 목사가 지난달 23일 서울 서초구 대검찰청에서 검찰 수사심의위원회 소집 요청서를 제출하기 위해 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 절차는 이원석 검찰총장이 직권으로 소집한 김 여사 사건 수심위와는 별도 절차다.&lt;br&gt;&lt;br&gt;앞서 윤 대통령 부부를 청탁금지법 위반 등 혐의로 검찰에 고발했던 유튜브 매체 서울의소리 백은종 대표가 수심위 소집을 요구했으나 고발인은 신청 자격이 없다는 이유로 각하되자, 피의자 신분인 최 목사가 지난달 23일 직접 수심위 소집을 신청했다.&lt;br&gt;&lt;br&gt;시민위는 이에 따라 최 목사에 대한 수사 계속 여부, 공소제기 또는 불기소 처분 여부 등을 수심위에 부의할지 여부를 논의하게 됐다.&lt;br&gt;&lt;br&gt;수심위는 국민적 의혹이 제기되거나 사회적 이목이 쏠린 사건의 수사와 기소가 적법했는지 심의하는 기구다. 심의 결과는 권고 사항이어서 수사팀이 반드시 따라야 하는 것은 아니다.&lt;br&gt;&lt;br&gt;한편 이 총장의 직권 회부 결정으로 열리는 수심위는 오는 6일 개최될 예정이다. 수심위는 김 여사에 대해 제기된 청탁금지법 위반, 뇌물수수, 알선수재, 변호사법 위반, 직권남용, 증거인멸 등 6개 혐의를 심의할 예정이다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지검 형사1부(부장 김승호)는 청탁금지법상 공직자의 배우자는 처벌할 수 없고, 디올백이 직무 관련성과 대가성이 있다고 보기도 어렵다며 김 여사를 무혐의 처분해야 한다고 결론 내렸다. 이창수 서울중앙지검장은 지난달 22일 이원석 검찰총장에게 수사 결과를 보고했고, 이 총장은 이튿날 수사심의위 소집을 결정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>도시락에 개구리·돈벌레가...울산 플랜트노조 “공사업체 관리 부실”</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/02/IQ4MO5LLMJCUXGTO5U3XP64AFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/02/IQ4MO5LLMJCUXGTO5U3XP64AFM/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Sep 2024 09:16:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVXLANP3J645PJOORU36KBFDKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;도시락에서 발견됐다는 개구리 사체. /플랜트건설노조 울산지부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산 공단 근로자들에게 개구리와 돈벌레 사체 들어간 도시락이 제공됐다는 주장이 제기돼 관계당국이 조사에 나섰다.&lt;br&gt;&lt;br&gt;플랜트건설노조 울산지부는 2일 울산시청 프레스센터에서 기자회견을 열고 “지난달 26일 온산공단과 석유화학 공단의 플랜트 건설 현장에서 제공되는 도시락에 개구리 사체와 돈벌레로 추정되는 이물질이 나왔다는 조합원 제보가 있었다”고 했다.&lt;br&gt;&lt;br&gt;노조는 플랜트 건설 현장 특성상 식당이 제대로 갖춰진 곳이 없어서, 이곳 근로자들은 점심을 대개 도시락으로 해결하고 있다고 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UCNDBEA6MNATVFKIGHMG2MDWMA.png"&gt;&lt;figcaption&gt;&lt;small&gt;돈벌레 추정 이물질이 발견된 울산 온산공단 한 플랜트건설 현장 도시락. /플랜트건설노조 울산지부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노조는 그러면서 도시락에 이물질이 검출된 것을 두고 “도시락업체에 대한 공사업체의 관리 부실에서 발생한 치명적인 실수”라며 “공사 업체와 도시락 업체 간 모종의 커넥션이 있었던 것은 아닌지 의심하지 않을 수 없다”고 했다.&lt;br&gt;&lt;br&gt;노조는 “울산시 등 관계기관에 현장 위생점검을 실시할 것을 촉구했지만 아직까지 점검이 이뤄진 곳은 극히 일부에 불과하다”면서 “관계기관은 이번 사건을 강력히 지도하고 공단에 제공되는 도시락 업체를 전수조사하라”고 했다. 도시락 업체 선정 자격과 기준을 엄격히 설정해 매월 점검하고 선정 과정을 투명하게 공개하라고도 요구했다.&lt;br&gt;&lt;br&gt;울산시는 전수조사는 현실적으로 어렵지만, 현장 위생점검을 통해 유사 사례를 방지하겠다고 밝혔다. 울산시 측은 “이물질 발견 시 곧바로 신고해야 현장 확인이 가능한데 이번 사례는 사진으로만 전달돼 현장에서 조사한 바가 없다”고 전했다.&lt;br&gt;&lt;br&gt;이어 “전수조사는 현실적으로 어렵지만 하반기 중 구·군과 합동으로 공단 인근 음식점 합동 위생점검을 시행할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/CT7MXZBTZJGXDAXNQPXLPTRBBY.png?width=905&amp;height=541&amp;auth=9a401c743c80cab5e741376e5699801f54ce6e1529ebe73c97fd5a34dc3a70d5&amp;smart=true" type="image/png" height="541" width="905">
-        <media:description type="plain">도시락에서 발견됐다는 개구리 사체, 돈벌레 추정 이물질이 발견된 울산 온산공단 한 플랜트건설 현장 도시락. /플랜트건설노조 울산지부</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>박명수 딸 민서, 폭풍 성장 근황...”날아라 노란 병아리야”</title>
-      <link>https://www.chosun.com/national/people/2024/09/02/KSTFUN55KNE2HCV7HMXWAWL7Y4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/02/KSTFUN55KNE2HCV7HMXWAWL7Y4/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Sep 2024 07:49:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UWS57KDQVFCZXNB4SDLYOCXYG4.png"&gt;&lt;figcaption&gt;&lt;small&gt;박명수 부부(왼쪽)와 딸 민서 양./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개그맨 박명수의 딸 민서(16) 양의 근황이 공개됐다.&lt;br&gt;&lt;br&gt;박명수의 아내 한수민 씨는 2일 자신의 인스타그램 스토리를 통해 “날아라 노랑 병아리”라는 글과 함께 딸 민서 양의 무용 공연 모습을 올렸다.&lt;br&gt;&lt;br&gt;공개된 영상에는 딸 민서 양이 무용을 하는 모습이 담겨 있다. 현재 선화예술고등학교에 재학 중인 민서 양은 노란색 한복을 입은 채 한국 무용을 선보이고 있었다. 한 씨는 이를 보고 “날아라 노랑 병아리”라며 자신의 딸을 응원했다. 한 씨는 이 무대가 딸이 재학 중인 선화예고의 50주년 공연이라고 설명했다.&lt;br&gt;&lt;br&gt;앞서 박명수는 7월 5일 방송된 KBS 쿨FM ‘박명수의 라디오쇼’에서 폭풍 성장한 딸 민서에 대해 언급한 바 있다. 그는 “저희 딸 민서도 고등학교 1학년이다. 너무 많이 컸다. 아빠보다 더 클까 봐 걱정된다”고 이야기했다. 또한 “오늘 아침에도 혼자 열심히 공부하더라. 알아서 잘하는 모습을 보니 많이 컸다”고 전했다.&lt;br&gt;&lt;br&gt;한편, 박명수는 의사 한 씨와 결혼해 슬하에 딸 민서 양 1명을 두고 있다. 딸 민서 양은 명문 예술중학교인 예원학교를 졸업한 후 선화예고에 입학해 화제를 모았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LOZPTZTJNFDAHGWUPKQ7FFE5P4.png?width=427&amp;height=320&amp;auth=e0a31d5e0d5c1072c614a18a4976aade1018f5479395ca9901bf34881d36bb6f&amp;smart=true" type="image/png" height="320" width="427">
-        <media:description type="plain">박명수 부부(왼쪽)와 딸 민서 양./인스타그램</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>檢 ‘김학의 불법 출금’ 이광철·차규근·이규원 2심도 실형 구형</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/02/PJMKCMZCNRDIHIL4WUUZGYNA6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/02/PJMKCMZCNRDIHIL4WUUZGYNA6Q/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Sep 2024 07:34:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O2PGQHA5PRPPNCJKTKULPLP4YY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김학의 전 법무부 차관 불법 출국 금지에 관여한 혐의로 기소된 이광철(왼쪽부터) 전 청와대 민정비서관과 차규근 조국혁신당 의원, 이규원 조국혁신당 대변인이 지난 2021년 10월 15일 서울 서초구 서울중앙지법에서 열린 이 사건 첫 공판에 출석하기 위해 법정으로 향하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 김학의 전 법무부 차관의 출국 시도를 불법적으로 막은 혐의로 기소된 차규근 조국혁신당 의원(당시 법무부 출입국본부장)과 이규원 조국혁신당 대변인(현직 검사)에게 항소심에서 각각 징역 3년, 이광철 전 청와대 비서관에게는 징역 2년을 구형했다.&lt;br&gt;&lt;br&gt;검찰은 2일 서울고법 형사11-3부(재판장 김재령) 심리로 열린 ‘김학의 불법 출국 금지’ 사건 항소심 결심 공판에서 이같이 구형했다. 1심과 동일한 형량이다. 1심에서 차 의원과 이 전 비서관은 무죄, 이 대변인은 징역 4개월의 선고유예 판결을 받았다.&lt;br&gt;&lt;br&gt;검사는 차 전 의원에 대해 “김학의씨가 출국할 경우 자신이 책임자로 있는 출입국본부가 비난받을 것을 우려해 직무와 관련한 불법을 저질렀다”고 했고, 이 대변인에 대해서는 “김씨가 피의자가 아니고 범죄 혐의의 상당성이 없다는 사실을 알면서도 무조건적인 처벌을 위해 범행을 자행했다”고 했다. 이 전 비서관에 대해서는 “김씨가 출국할 경우 (문재인) 대통령의 국정 수행을 부담스러워하며 김씨에 대한 출금 조치가 완성될 수 있도록 했다”고 말했다.&lt;br&gt;&lt;br&gt;이 사건은 차 의원과 이 대변인, 이 전 비서관이 지난 2019년 3월 22~23일 법무장관의 사전 승인을 받지 않고 가짜 사건번호가 적힌 ‘허위 출금 요청서’를 동원해 김학의씨를 긴급 출금한 것이 발단이다. 김씨는 그해 3월 문 전 대통령이 “검경은 조직의 명운을 걸고 진상을 규명하라”고 지시한 직후 출국을 시도하다가 금지당했다. 이후 김씨는 성 접대를 포함한 뇌물 2억원을 받은 혐의로 기소됐지만 2022년 8월 대법원에서 무죄가 확정됐다.&lt;br&gt;&lt;br&gt;검찰은 이들이 출입국관리법 등에 규정된 적법 절차를 어기고 김씨를 불법으로 출국 금지했다고 보고 직권남용 등 혐의로 기소했다. 긴급 출금은 3년 이상 징역에 해당하는 죄를 저질렀다고 의심할 만한 상당한 이유가 있어야 가능한데, 당시 김씨의 혐의는 객관적 증거가 없고 공소시효도 지난 상황이었다는 것이다.&lt;br&gt;&lt;br&gt;그러나 1심 재판부는 작년 2월 “긴급 출국 금지는 위법하지만 직권남용으로 처벌할 수는 없다”며 세 사람의 직권남용에 대해서는 무죄를 선고했다. 이 대변인이 서울동부지검장의 허락 없이 출금 승인 요청서를 만들거나 출금 관련 서류를 자신의 집에 가져다 둔 혐의만 유죄로 인정됐다. 검찰이 이에 불복해 항소한 것이다.&lt;br&gt;&lt;br&gt;검사는 이날 “(김씨가) 아무리 악인(惡人)이라 하더라도 적법 절차는 지켜져야 한다”면서 “당시엔 김씨의 범죄 사실이 아무것도 드러나지 않았고, 어떤 혐의로 수사의뢰할지 결정되지 않았다. 피고인들은 정책이나 정치적 목적을 달성하기 위해 위법을 알면서도 (불법 출금이라는) 위법 행위를 했다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>차 뒷문 열리며 사람이 ‘쿵’… 일주일 만에 두 생명 구한 해경</title>
-      <link>https://www.chosun.com/national/people/2024/09/02/GPEQU7742ZDCJBY67AX2OR2AA4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/02/GPEQU7742ZDCJBY67AX2OR2AA4/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Sep 2024 06:07:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U3IYLEUCUFBQDO3ACYXMTOLYBE.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;앞차에서 떨어진 초등학생을 구조 중인 반윤혁 경장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통영해양경찰서 소속 한 경찰관이 일주일만에 심정지 환자를 두명이나 구조한 사실이 알려졌다.&lt;br&gt;&lt;br&gt;2일 통영해경에 따르면, 거제남부파출소 반윤혁(33) 경장은 지난달 31일 오후 8시쯤 거제시 아주동 인근 도로에서 심정지환자를 발견해 응급조치로 생명을 구했다.&lt;br&gt;&lt;br&gt;이날 휴무를 맞은 반 경장은 아내, 딸과 함께 승용차를 타고 처가로 이동 중이었다. 그때 앞차량의 뒷좌석 문이 갑자기 열리더니 A(11)군이 도로로 굴러떨어졌다. 이 모습을 본 반 경장은 차량을 정차한 뒤 현장으로 달려갔다.&lt;br&gt;&lt;br&gt;A군은 갑작스레 차량에서 떨어져 심정지가 발생했다. 반 경장이 보호자에게 해경 구조대원임을 밝히고 환자를 확인하니 혀가 말리고 눈에 초점이 없는 상태였다. 그는 아내에게 119 신고를 요청한 후 심폐소생술(CPR)을 시작했다. 반 경장이 약 5분간 심폐소생술했한 끝에 A군은 호흡과 의식을 서서히 회복했다. 반 경장은 곧이어 도착한 119구급대에 환자를 인계했다.&lt;br&gt;&lt;br&gt;A군은 어머니가 운전하는 동안 뜻하지 않게 문을 열어 사고로 떨어졌다고 한다. 병원으로 이송된 A군은 현재 회복중인 것으로 알려졌다. 생명에는 지장이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6Q2OGSTQ6RE4POV5Y26J4LHIVI.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;통영 해경 소속 반윤혁 경장. /통영해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반 경장은 일주일 전인 지난달 24일에도 소방관 친구와 휴가차 경남 산청군의 계곡을 찾았다가 20대 심정지 환자를 발견해 심폐소생술로 구조한 바 있다. 이로 인해 그는 산청소방서로부터 하트세이버 인증서를 받을 예정이었다.&lt;br&gt;&lt;br&gt;반 경장은 “처음에는 놀라기도 했지만 평소 많이 훈련해온 탓에 당황하지 않고 무사히 응급조치를 할 수 있었다”며 “앞으로도 언제 어디서든 국민의 안전을 지키는 해양경찰이 되겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘美대사관 월담’ 주도한 대진연 대표, 1심 징역형 집행유예</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/02/IJQPJUBL7FCBHPN3BLT2YKEJEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/02/IJQPJUBL7FCBHPN3BLT2YKEJEY/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Sep 2024 06:29:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/64E5MBUFIMJOKWK2TXSEEJEYH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2019년 10월 18일 오후 3시쯤 친북 단체인 한국대학생진보연합(대진연) 회원들이 서울 중구 정동 주한 미국대사관저 담장에 사다리를 대고 관저 안으로 넘어들어가고 있다. 관저에 기습 침입한 이들은 관저 현관까지 올라가 반미 플래카드를 펼치고 구호를 외쳤다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2019년 주한 미국 대사 관저 담장을 넘어 반미(反美) 시위를 연 친북 단체 한국대학생진보연합(대진연) 전 대표가 5년 만에 1심에서 징역형 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;2일 법조계에 따르면, 서울중앙지법 형사13단독 이용제 판사는 집회 및 시위에 관한 법률 위반 등 혐의로 기소된 대진연 전 대표 김한성씨와 회원 13명에게 지난달 24일 모두 유죄를 선고했다. 김씨에게는 징역 1년 6개월에 집행유예 3년을, 대사 관저 월담 시위 등에 참여한 다른 대진연 회원들에게는 각각 벌금 100만~400만원을 선고했다.&lt;br&gt;&lt;br&gt;대진연 회원 17명은 당시 대표였던 김씨 등의 주도로 2019년 10월 18일 서울 중구의 미국 대사 관저의 담장을 사다리를 타고 넘어 기습적으로 침입했다. 이들은 준비해 온 반미 플래카드를 펼치고 “해리스(당시 주한 미국 대사)는 이 땅을 떠나라” “내정 간섭 중단하라”고 외쳤다. 경찰에 연행되기 전까지 불법 시위는 약 70분간 계속됐다. 김씨는 대진연 회원들이 현행범으로 체포되자 이에 항의하며 경찰서 앞에서 미신고 집회를 개최한 혐의 등도 받았다.&lt;br&gt;&lt;br&gt;이 판사는 “집회와 시위의 자유는 국민의 기본권이지만, 법 질서의 테두리를 벗어나 타인이 참을 수 있는 정도를 넘어선 권리 침해는 허용되지 않는다”며 “시위 금지 장소인 미국 대사 관저에서 시위를 주최하고 무단 침입한 것은 죄질이 좋지 않다”고 했다. 앞서 이 사건으로 먼저 구속 기소된 대진연 회원 4명은 2021년 집행유예가 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
