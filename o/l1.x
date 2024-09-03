@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title> 디엘지, '규제를 뛰어넘은 혁신 스타트업' 세미나 11일 개최</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/201101.jpg" alt="201101.jpg" /&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://dlglaw.co.kr/" target="_blank"&gt;&lt;b&gt;법무법인 디엘지&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5968"&gt;조원희&lt;/span&gt;)와 드림플러스(센터장 길세운)는 오는 11일 오후 3시 서울 서초구 서초동 드림플러스 강남 지하 1층 이벤트홀에서 '규제를 뛰어넘은 혁신 스타트업' 세미나를 연다.&lt;br /&gt;&lt;br /&gt;이번 세미나에서는 스타트업들이 '규제'라는 장벽을 극복하고 성장해온 사례들이 공유될 예정이다. 이커머스, 헬스케어, 에너지 등 다양한 분야의 성공담을 들을 수 있다.&lt;br /&gt;&lt;br /&gt;세미나는 총 6개의 세션으로 구성되며, 각 세션별로 혁신 스타트업의 대표들과 법률 전문가들이 혁신 과정에서의 규제 극복 사례 및 규제 샌드박스 제도의 효과적인 활용 방안을 소개한다.&lt;br /&gt;&lt;br /&gt;주요 연사로는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5968"&gt;조원희&lt;/span&gt;(54·사법연수원 30기) 법무법인 디엘지 대표변호사, 송승훈 백패커 CFO,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13431"&gt;이재환&lt;/span&gt;(54·35기) 무신사 리스크매니지먼트 본부장, 강성지 웰트 대표, 허은 이온어스 대표,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="24874"&gt;양재석&lt;/span&gt;(45·변호사시험 1회) 법무법인 디엘지 변호사가 참여한다.</description>
+			<pubDate>Tue, 03 Sep 2024 05:53:34 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201101</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201101</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201101.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
+			<title>[신간소식] 정세진 율촌 변호사, '한 권으로 끝내는 금융데이터법' 출간</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201099.jpg" alt="201099.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="39910"&gt;정세진&lt;/span&gt;(44·변호사시험 3회) 법무법인 율촌 변호사가 《한 권으로 끝내는 금융데이터법》(박영사 펴냄)을 출간했다. &lt;br /&gt;&lt;br /&gt;정 변호사는 "회사에서 금융데이터 관련 업무를 수행하는 직원들이 법률 이슈를 확인할 수 있는 책이 있다면 얼마나 유용할까하는 고민 속에서 집필을 시작했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;그러면서 "데이터가 경쟁력인 시대에 금융데이터법 관련 기초지식을 쌓기 위해 꼭 읽어야 할 책"이라고 전했다.&lt;br /&gt;&lt;br /&gt;책은 금융데이터 관련 업무 시 반드시 알아야 할 내용을 다루고 있다. 신용정보법을 주요 골자로 하고 있지만 개별 이슈에 따라 개인정보보호법, 금융실명법, 금융지주회사법 등 다양한 법률을 연결해 설명하고 있다. 또한, Q&amp;A와 규제기관의 해석을 담아 실무에 적용할 수 있도록 구성했다.&lt;br /&gt;&lt;br /&gt;정 변호사는 고려대학교 전기전자전파공학부를 졸업하고 카이스트 전자전산학 석사 과정을 마친 후 수년간 엔지니어로 근무했다. &lt;br /&gt;&lt;br /&gt;정 변호사는 현재 성균관대학교 법학전문대학원 및 한국금융연수원 겸임교수로 활동하고 있다.</description>
+			<pubDate>Tue, 03 Sep 2024 05:26:51 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201099</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201099</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201099.jpg</media:thumbnail>
+			<dc:creator>이진영 기자</dc:creator>
+		</item>
+		<item>
 			<title>심우정 검찰총장 후보자 "형사부 강화해 민생범죄 대응 총력"</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201097.jpg" alt="201097.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3204"&gt;심우정&lt;/span&gt;&amp;nbsp;검찰총장 후보자는 3일 "검찰은 어느 때보다 국민이 바라는 역할에 충실해야 한다"며 "민생범죄 대응에 총력을 다하겠다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;심 후보자는 이날 서울 여의도 국회 법제사법위원회에서 열린 인사청문회 모두발언에서 "검찰이 국민 신뢰를 얻기 위해 무엇을 어떻게 해야 하는지 더욱 고심했다"며 이같이 말했다.&lt;br /&gt;&lt;br /&gt;그는 "국민들은 검찰이 범죄로부터 나와 내 이웃을 지켜주고, 맡은 사건 하나하나를 '자신이나 가족의 일'처럼 정성을 기울여 신속히 처리해 주기를 바랄 것"이라며 "지금은 검찰이 그 어느 때보다 국민이 바라는 검찰의 역할에 충실해야 할 때라고 생각한다. 검찰이 해야 할 일을 다 할 때 국민 신뢰를 얻을 것이라 믿는다"고 했다. &lt;br /&gt;&lt;br /&gt;심 후보자는 "강력·마약, 보이스피싱, 다단계·전세 사기, 대형 안전사고, 임금체불 범죄 수사에 총력을 다하겠다"서 "범죄피해를 입은 국민이 조속히 일상으로 돌아갈 수 있도록 범죄피해자에 대한 보호·지원에 부족함은 없는지 잘 살피겠다"고 말했다. &lt;br /&gt;&lt;br /&gt;특히 민생침해 사건을 담당하는 형사부를 강화해 사건을 신속히 처리하겠다고 강조했다. 사건 관계인이 오랜시간 법적으로 불안한 지위에 있지 않도록 하겠다는 점도 언급했다.&lt;br /&gt;&lt;br /&gt;국가 근간을 흔드는 중요 범죄 대응도 강조했다. 심 후보자는 "검찰이 오랜 기간 축적한 전문분야 수사 역량은 꼭 필요한 사건에 집중하면서 흔들림 없이 유지될 수 있게 하겠다"고 했다.&lt;br /&gt;&lt;br /&gt;심 후보자의 인사청문회는 심 후보자의 국회 요구 자료 제출 미비를 이유로 충돌하다 한 차례 정회 후 속개하는 등 파행 위기를 겪었다. &lt;br /&gt;&lt;br /&gt;야당은 심 후보자의 자녀의 입시와 취업 관련 자료 등을 제출하지 않은 점이나 장인인 김충경 동아연필 사장 사망 2년 후에 20억 원을 추가 상속받은 경위 등 재산형성 과정에 관련된 자료를 제출하지 않은 점을 이유로 공세를 펼쳤다. &lt;br /&gt;&lt;br /&gt;김승원 더불어민주당 법사위 간사는 "후보자가 기본적 인사검증자료를 제출하지 않거나 아주 불성실하게 답변하는 태도를 보인다"면서 "요청한 자료 377건 중 70%에 달하는 자료를 제출하지 않았다"고 지적했다. &lt;br /&gt;&lt;br /&gt;정청래 법사위원장도 "후보자가 제출하지 않은 자료들이 군사·외교 문제나 대북관계에 해당하느냐, 국가 안위에 중대한 영향을 미칠 수 있느냐"라며 "요청 자료 중 32%만 제출했다. 그러면서 무슨 인사 검증을 철저히 해달라는 말을 할 수 있느냐."고 질타하기도 했다. &lt;br /&gt;&lt;br /&gt;40분 만에 속개한 청문회에서 심 후보자가 가족의 출신 학교, 자녀의 장학금 내역·학교폭력 가해 여부, 인천지검장 재직 당시 마약 사건 수사 자료 등을 제출하겠다고 밝히면서 본격적으로 진행됐다.</description>
 			<pubDate>Tue, 03 Sep 2024 04:02:38 -0000</pubDate>
@@ -220,25 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201010</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201010.jpg</media:thumbnail>
 			<dc:creator>안현 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 친구에게 빌려준 계좌로 사기 “예견 못하면 공동책임 없다”</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201018.jpg" alt="201018.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;타인에게 장기간 사용을 허락한 계좌가 투자 사기 등 불법 행위에 쓰일 수 있다는 점을 미리 알 수 없었다면 계좌 주인에게는 불법행위에 대한 공동 책임이 없다는 대법원 판단이 나왔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;대법원 민사2부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3751"&gt;권영준&amp;nbsp;&lt;/span&gt;대법관)는 1일 A 씨가 B 씨를 상대로 낸 대여금 소송(&lt;b&gt;2024다238316&lt;/b&gt;)에서 원고 일부 승소 판결한 원심을 파기하고 사건을 서울중앙지법으로 돌려보냈다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;B 씨는 2011년부터 고등학교 동창 C 씨에게 자신 명의 통장을 사용할 수 있도록 카드나 비밀번호를 양도했다. 정상적으로 금융거래를 할 수 없는 상황이었던 C 씨는 B 씨의 계좌를 위험성이 높은 해외선물 투자에 이용했다. 그러던 중 2020년 7월부터 1년간 A 씨는 B 씨 명의의 주식 계좌에 1억2000만 원을 송금했는데, 이 주식 계좌도 C 씨의 투자에 사용됐다. C 씨는 투자금 반환을 요구하는 A 씨에게 B 씨를 사칭해 반환 약정까지 해줬다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;C 씨는 투자 사기 혐의로 수사를 받게 됐고, A 씨는 B 씨에게 자신이 송금한 1억2000만 원에 대해 주위적 청구로 대여금 청구 소송을, 예비적 청구로 불법행위로 인한 손해배상 청구 소송을 냈다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1심과 항소심은 “B 씨는 C 씨에게 자신 명의 계좌의 접근매체를 양도할 경우 범죄에 이용될 수 있다는 점을 어느 정도 예견할 수 있었으므로 C 씨의 사기행위에 대한 공동불법행위자로서 A 씨에게 손해를 배상할 책임이 있다”며 A 씨에게 6000만 원을 지급해야 한다고 판결했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;하지만 대법원의 판단은 달랐다. 여러 정황상 B 씨로서는 C 씨에게 빌려준 계좌가 투자 사기와 같은 불법행위에 사용될 거란 점을 예견할 수 없었기 때문에 B 씨에게 C 씨의 불법행위에 대한 공동 책임이 없다는 것이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;재판부는 “현재 C 씨는 소재 불명으로 사기 혐의에 대한 수사가 중지돼 C 씨가 A 씨를 기망했는지 여부가 명백히 밝혀지지 않았다”며 “B 씨가 C 씨에게 장기간 계좌 사용을 허락해 그 계좌로 주식선물 투자가 이뤄진 것이고 B 씨가 C 씨의 계좌 이용현황을 확인하지 않았다는 사정만으로는 B 씨가 C 씨의 불법행위에 도움을 주었다고 단정할 수 없다”고 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이어 “B 씨와 C 씨는 30년 이상 알고 지낸 동창 관계이고, B 씨가 C 씨에게 이 사건 계좌 외에도 여러 계좌를 사용하도록 허락했는데, 이와 관련해 대가를 받았다고 볼 자료가 없고 2021년 말까지는 C 씨의 계좌 사용 과정에서 특별한 문제가 없었다”고 설명했다.&lt;/p&gt;</description>
-			<pubDate>Sun, 01 Sep 2024 00:10:11 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201018</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201018</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201018.jpg</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
-		</item>
-		<item>
-			<title>(금주 법조계 주요일정) 9월 2~6일</title>
-			<description>&lt;b&gt;△2일(월)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 유동규 외 4명 143차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '정보통신망이용촉진및정보보호등에관한법률위반(명예훼손) 등 혐의' 김만배 외 3명 3차 공판준비기일(오전 10시)&lt;br /&gt;-서울고법, '자격모용 공문서작성 등 혐의' 이규원 검사 외 2명 항소심 10회 공판기일(오전 10시30분)&lt;br /&gt;-서울중앙지법, ‘특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의’ 송영길 소나무당 대표 30차 공판기일(오후 2시)&lt;br /&gt;-법무법인 화우, '간단하지 않은 문제들 - 확률형 아이템 중복규제와 가상자산이용자보호법' 제4회 게임 대담회(오후 3시, 서울 강남구 삼성동 아셈타워 34층 화우연수원)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△3일(화)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 이재명 더불어민주당 대표 외 1명 44차 공판(오전 10시30분)&lt;br /&gt;-서울고법, '위계공무집행방해 등 혐의' 김 모 대대장 외 2명 항소심 5회 공판기일(오후 2시30분)&lt;br /&gt;-법무법인 바른, '자원개발사업 관련 법률이슈 등' 제14회 이머징마켓연구회 세미나(오후 4시, 서울 강남구 대치동 바른빌딩 대강당)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△4일(수)&lt;/b&gt;&lt;br /&gt;-서울중앙지법 '노동조합및노동관계조정법위반 등 혐의' 허영인 SPC그룹 회장 외 19명 13차 공판(오전 10시)&lt;br /&gt;-법무부, 사회통합 이민자 멘토단 간담회 및 자동출입국심사 시연 (오후 1시 30분, 인천공항 제1터미널 동편 입국장)&lt;br /&gt;-법무법인 대륙아주·헤럴드경제, 미래리더스포럼 9월 초청강연(오후 6시30분, 서울 중구 태평로2가 더 플라자 호텔 22층 루비홀)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△5일(목)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정경제범죄가중처벌등에관한법률위반(수재등) 등' 혐의 박영수 전 특검 외 1명 31차 공판(오전 10시)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△6일(금)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '직권남용권리행사방해 등 혐의' 서훈 전 청와대 국가안보실장 외 4명 32차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '공직선거법위반 혐의' 이재명 더불어민주당 대표 28차 공판(오전 10시30분)&lt;br /&gt;-한국법학교수회, '창립 60주년' 기념식 및 학술대회(오전 10시, 서울 플라자 호텔 그랜드볼룸, 메이플홀, 오키드홀)&lt;br /&gt;-서울고법, '특정경제범죄가중처벌등에관한법률위반(횡령) 등 혐의' 황욱정 KDFS 대표 외 1명 항소심 1회 공판기일(오전 11시30분)&lt;br /&gt;-법무법인 태평양, '신우주산업을 쏘아 올리며-선행 사례와의 비교' 세미나(오후 2시, 서울 종로구 공평동 센트로폴리스 B동 25층 태평양 세미나실)&lt;br /&gt;-법무법인 화우·한국사내변호사회, '개인정보 정책 및 규제 대응' 세미나(오후 2시, 서울 강남구 삼성동 아셈타워 34층 화우연수원)</description>
-			<pubDate>Sat, 31 Aug 2024 22:10:12 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201046</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201046</guid>
-			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
