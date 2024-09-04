@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>남의 차 퍽퍽 부수더니 행인 얼굴에 주먹 날리기…“시비 걸고 싶었다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/05/2CTI6SNRBREQROH2VKMOFVOMOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/05/2CTI6SNRBREQROH2VKMOFVOMOQ/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Sep 2024 22:16:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XW2BKY5BHFFNFL335CF6UGJXVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7월 서울 노원의 한 골목에서 한 남성이 주차된 차량 사이드미러를 주먹으로 때리고 있다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의 한 골목길에서 주차된 차량을 부수고 행인을 폭행한 30대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울경찰은 지난 4일 유튜브채널을 통해 ‘차량 손괴, 시민까지 때린 이상동기 범인 추적 검거’라는 제목의 영상을 공개했다.&lt;br&gt;&lt;br&gt;영상에는 지난 7월24일 오전 4시쯤 노원구의 한 골목길에서 비틀거리며 걷는 한 남성의 모습이 담겼다.&lt;br&gt;&lt;br&gt;이 남성은 다짜고짜 주차된 택시에 다가가 사이드미러에 주먹질을 했다. 다른 골목으로 이동한 남성은 이번엔 주차된 트럭의 사이드미러를 주먹으로 쳐 부쉈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2S4Y2IL5FZB3NO3A3RVBCAJF5E.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7월 서울 노원의 한 골목에서 한 남성이 행인의 얼굴에 주먹을 휘두르고 있다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이후 이 남성은 골목에 서있던 한 시민에게 다가가 얼굴에 주먹을 휘두르고 달아났다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 골목 수색과 방범카메라(CCTV) 등으로 남성의 도주 경로를 역추적한 끝에 또 다른 골목에 나타나 주차된 오토바이를 넘어뜨리려던 남성을 붙잡았다.&lt;br&gt;&lt;br&gt;경찰은 재물손괴, 폭행 혐의로 A씨를 현행범으로 체포했다.&lt;br&gt;&lt;br&gt;경찰 조사에서 A씨는 “사람들에게 시비를 걸고 싶었다”며 자신의 범행에 대해 모두 인정했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“내연녀를 누나로 속여 동거” “동시에 6명과 외도” 이혼전문변호사가 본 불륜 사건</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/05/UKBWHP4JRBCTHLV5AAG6FLUX2I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/05/UKBWHP4JRBCTHLV5AAG6FLUX2I/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Sep 2024 22:36:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEFQMENEBJF3RM7PGPXE7UYD7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;SBS 금토드라마 ‘굿파트너’의 작가이자 이혼전문변호사인 최유나씨. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인기리에 방영 중인 SBS 금토드라마 ‘굿파트너’의 작가이자 이혼전문변호사인 최유나씨가 자신이 본 충격적인 불륜 사례 일부를 소개했다.&lt;br&gt;&lt;br&gt;최 변호사는 4일 방송된 tvN ‘유 퀴즈 온 더 블럭’에 출연해 직접 드라마 대본을 쓴 이유 등을 밝혔다.&lt;br&gt;&lt;br&gt;최 변호사는 4년 전 이 프로그램에 출연해 ‘같은 아파트 단지에 살던 남자와 두 집 살림하다 들통난 아내’ ‘옆집 여성과 바람피운 남편’ 등의 사례를 소개했었다. 그는 방송 출연 이후 여러 작가들로부터 ‘실제 에피소드를 몇 개 말해달라’ ‘법률 자문을 도와달라’라는 취지의 요청을 받았지만, “아니다. 내가 직접 쓸 거다”라며 이를 모두 거절했다고 말했다.&lt;br&gt;&lt;br&gt;최 변호사는 “이건 사건을 직접 해본 사람이 쓰지 않고서는 전달이 잘 안 될 것 같다고 생각했다”며 “내가 잘 할 수 있을 것 같다, 내가 해야 조금 더 재밌을 것 같다고 생각했다”고 말했다.&lt;br&gt;&lt;br&gt;최 변호사는 드라마 2회에서 다뤄진 ‘부부 동반 캠핑에서 발각된 불륜 사건’을 언급하기도 했다. 그는 “방영된 뒤 ‘세상에 이런 일이 어디있냐’ ‘설정이 과하다’라는 댓글이 달리더라”라며 “조금 억울했다. 실제로는 너무 자주 일어나는 일”이라고 말했다.&lt;br&gt;&lt;br&gt;그는 외도 사실이 발각됐을 때, 외도 당사자나 내연남·녀가 책임회피를 위해 자주 하는 단골 대사로는 “내가 피해자다”를 꼽았다.&lt;br&gt;&lt;br&gt;최 변호사는 “신기한 게 정말 그렇게 생각하신다. 상대방이 유혹해서 넘어간 거고, 상대가 행복한 결혼생활을 하고 있었더라면 이런 상황이 되지 않았을 것이라고 주장한다”고 전했다. 이어 “실제로 가족 모임하는 자리에 찾아가 ‘어차피 파탄 난 가정인데 왜 나를 이렇게 힘들게 하냐’며 이혼도장을 찍어달라고 요구하는 사람들도 있다”고 했다.&lt;br&gt;&lt;br&gt;최 변호사는 “드라마에는 반복되는 사례들 위주로 썼다”며 “실제로 일어나는 것들은 훨씬 더 어마어마한 것들이 많다”고 했다.&lt;br&gt;&lt;br&gt;최 변호사는 “판례를 찾다가 내연녀를 누나라고 속여 2년 가까이 동거한 남편의 사례도 봤다”고 했다. 그는 아내와 자신의 형이 불륜 관계에 있다는 사실을 알고 찾아온 상담자도 있었다고 했다. 이어 “형이 조카(상담자의 자녀)를 본인 자녀보다 더 예뻐했다고 한다. 상담자는 ‘조카를 많이 사랑하나보다’ 했는데, 나중에 알고 보니 아내와 형 사이에서 난 아이였다”고 했다.&lt;br&gt;&lt;br&gt;그는 “‘외도 키트’를 가지고 다니는 사람들이 있다. 휴대전화나 차량 블랙박스도 여러 대 준비한다”고 했다. 이어 “보통 외도를 저지르는 사람들은 상대가 꼭 한 명이 아닐 수도 있다”며 “3~4명, 저는 동시에 6명까지 외도하는 사람도 봤다”고 했다.&lt;br&gt;&lt;br&gt;그는 “(여러 명과 외도하는 사람은) 배우자한테만 거짓말하는 게 아니라, 다른 상간자 모두에게 거짓말해야 하니까, 굉장히 복잡하다”며 “내연 관계에 있는 사람들끼리 싸우기도 한다”고 전했다. 그러면서 “정말 부지런하기도 하다. (외도하기 위해) 일찍 일어나서 늦게 들어오고, 잠만 자고 바로 나가고, 밖에서 옷도 갈아입고, 휴일도 없고, 크리스마스를 여러 명과 보내야 한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>연금 개혁은 ‘독이 든 성배’… 역대 정부 26년간 보험료율 안 올렸다</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/09/05/XKADVWTJ4RBGVPEBZNY5RRW6DE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/05/XKADVWTJ4RBGVPEBZNY5RRW6DE/</guid>
@@ -796,19 +814,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FSCE6DIRAZC3DBTBAY5KSSXQWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 윤종신과 딸 라임 양이 길을 걷고 있는 모습. /전미라 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 윤종신(55)의 아내이자 전 테니스 선수인 전미라(46)가 가족의 근황을 공개했다.&lt;br&gt;&lt;br&gt;전미라는 3일 자신의 소셜미디어를 통해 윤종신이 본인보다 키가 큰 여성과 손을 잡고 밤거리를 걷고 있는 영상을 공개했다.&lt;br&gt;&lt;br&gt;그러면서 전미라는 “예쁘다. 밤공기, 분위기, 날씨 모두 최고였던날”이라고 썼다.&lt;br&gt;&lt;br&gt;영상 속 여성에 대해서는 해시태그를 통해 ‘#전미라 아님’ ‘#윤라임’ ‘#가족식사’ ‘#아빠보다큰딸’이라고 설명했다.&lt;br&gt;&lt;br&gt;이 영상을 접한 개그우먼 심진화, 가수 손담비 등은 “언니인 줄 알았다”며 놀랍다는 반응을 보였다.&lt;br&gt;&lt;br&gt;윤종신, 전미라 부부는 2006년 결혼해 이듬해 아들 라익 군을 낳았고 2009년 딸 라임 양, 2010년 딸 라오 양을 품에 안아 슬하에 1남2녀를 두고 있다.&lt;br&gt;&lt;br&gt;단신인 윤종신은 지난달 한 예능프로그램에 출연해 “다행히 아이들이 다 엄마 유전자를 닮았다”고 했다. 전미라는 키 175cm의 장신이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6J6EPW3V3ZMQ7ESS2FAT46KZZI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;가수 윤종신. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세 자녀가 모두 훌쩍 큰 모습에 윤종신은 “집안에서 최단신이 됐다”고 고백하기도 했다.&lt;br&gt;&lt;br&gt;윤종신과 손을 잡고 길을 걸은 윤라임양은 올해 15살이 됐으며 중학교 3학년이다. 최근 전미라는 라임 양의 키가 168~169㎝라고 밝혀 화제가 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[단독] 폭행에 대기발령 중 ‘노래방 도우미’ 부른 40대 경찰, 해임됐다</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/04/OIA4VQFFYVFQXP7UHOR5EKADXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/04/OIA4VQFFYVFQXP7UHOR5EKADXU/</guid>
-      <dc:creator>안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Sep 2024 02:11:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V267M5JOROZXC2SA5ASSICJK2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광진경찰서 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금전 문제로 지인을 폭행해 대기발령 조치 된 뒤 한 달 여 후 한 노래방에서 도우미를 불러 동석했다가 경찰에 적발된 경찰관이 지난 5월 초 해임된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;서울 광진경찰서는 지인을 폭행해 대기발령을 받은 상태에서 노래방에 갔다가 도우미를 불러 경찰에 적발된 40대 A경위를 지난 5월 초 해임 조치했다고 4일 밝혔다. A경위는 당시 광진경찰서 내 한 지구대에서 근무하고 있었다.&lt;br&gt;&lt;br&gt;A경위는 지난 2월 19일 서울 강남구의 한 은행에서 지인 남성과 금전 문제로 다투다 주먹다짐을 한 혐의로 입건돼 대기발령 조치된 상태였다.&lt;br&gt;&lt;br&gt;한 달 후인 3월 18일, A경위는 경기 파주시의 한 노래방에서 도우미를 불러 동석했다가 경찰에 적발됐다. 당시 경찰은 “노래방에서 도우미를 제공한다”는 신고를 받고 출동해 A경위의 신원을 확인했다.&lt;br&gt;&lt;br&gt;현직 경찰관의 비위가 반복되자 윤희근 당시 경찰청장은 전국 시·도 경찰청장과 경찰서장과의 화상 회의에서 ‘의무 위반 근절 특별 경보’를 발령했다. 조지호 당시 서울경찰청장은 “청장으로서 송구스럽고 서울시민을 볼 면목이 없다”며 “일선 경찰관과 관리자들에게 책임을 가시적으로 물을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/V267M5JOROZXC2SA5ASSICJK2U.jpg?width=6000&amp;height=4000&amp;auth=c41bc62c99662bb240fecca66e118190d4937af915f3c238c78dc878ea65a749&amp;smart=true" type="image/jpeg" height="4000" width="6000">
-        <media:description type="plain">2023.11.22/뉴스1 ⓒ News1 이재명 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 이재명 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>[단독] ‘축구 아시안게임 金’ 김진야, 병역 특례 봉사자료 위조 적발...문체부에 취소 소송 냈다가 1심 패소</title>
       <link>https://www.chosun.com/national/court_law/2024/09/04/RIGLYCFTUJHXDNBKLVCHTXVOAY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/04/RIGLYCFTUJHXDNBKLVCHTXVOAY/</guid>
@@ -883,19 +888,6 @@
       <description/>
       <pubDate>Tue, 03 Sep 2024 16:22:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YLWMFSAAIRCABEWV3JLARUARDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 열린 심우정 검찰총장 후보자에 대한 국회 인사 청문회는 후보자 검증보다 ‘문재인 수사’ ‘김건희 수사’를 둘러싼 여야 공방만 오갔다. 민주당은 문재인 전 대통령 가족을 둘러싼 검찰 수사는 “패륜 수사”, 윤석열 대통령 부인 김 여사의 ‘디올백 수수’ 의혹 수사는 “봐주기 수사”라고 비판했다. 이에 여당은 “두 사건 모두 사실관계가 분명하고, 적법한 수사다”라고 맞섰다.&lt;br&gt;&lt;br&gt;심 후보자는 “문 전 대통령 관련 사건을 보고받았느냐”는 민주당 이성윤 의원 질의에 “법무부 차관으로 온 이후에는 보고를 받은 게 전혀 없다”고 했다. 또 김 여사 ‘디올백 수수’ 의혹 수사와 관련해 같은 당 전현희 의원이 “서울중앙지검이 감사의 뜻으로 선물을 준 것이라 직무 관련성이 없다고 판단했다”며 “대통령 업무와 관련해 금품을 수수한 것이기 때문에 당연히 대통령을 수사해야 한다”고 하자 심 후보자는 “3일 뒤(6일)에 수사심의위원회가 열린다”고 했다. 아직 최종 결론이 나지 않았다는 취지다.&lt;br&gt;&lt;br&gt;“대통령에 충성 맹세를 했느냐”는 민주당 이건태 의원 질문에는 강하게 맞받았다. 심 후보자는 “모욕적인 질문”이라며 “지금 수사팀 검사들은 대부분 10년 차 이하의 젊은 검사들이다. 평검사들이 출세하겠다고 수사한다고 생각하시는 거냐”고 되물었다. 국민의힘 박준태 의원이 김건희 여사의 오빠인 김진우 이에스아이엔디 대표와의 친분에 대해 묻자 “연락처도 모른다”고 했다. 김 대표와 심 후보자는 고교 동문인 것으로 알려져 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조은희,  성인 대상 디지털성범죄까지 위장수사 허용하는 법안 발의</title>
-      <link>https://www.chosun.com/national/2024/09/03/SFHFRKGUPVDBLNSEPMUVSP6SW4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/09/03/SFHFRKGUPVDBLNSEPMUVSP6SW4/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Sep 2024 08:57:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/53OL4MFIYBI4PPE43AIHKM4SVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조은희 국민의힘 의원이 3일 서울 여의도 국회 의원회관에서 열린 딥페이크 디지털 성범죄 예방과 대응책 마련을 위한 정책토론회에서 개회사를 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 조은희 의원(국민의힘·서울서초갑)은 ‘딥페이크 성범죄 근절을 위한 위장수사 허용2법(성폭력범죄의 처벌 등에 관한 특례법 및 아동·청소년의 성보호에 관한 법률 일부법률개정안)’을 3일 대표발의했다.&lt;br&gt;&lt;br&gt;개정안은 성인 대상의 디지털성범죄에 대해서도 ‘신분위장수사 및 신분비공개수사’ 근거를 신설, 텔레그램에 확산되는 디지털성범죄에 대해 선제적, 적극적인 수사가 가능하도록 했다. 현행법상 아동·청소년 대상 디지털성범죄에 한해서만 위장수사가 허용되고 있어 성인 대상 범죄는 추적 및 증거수집에 어려움을 겪고 있는 입법공백에 대한 보완책 마련에 나선 것이다.&lt;br&gt;&lt;br&gt;그동안 연령을 가리지 않는 디지털성범죄의 특성에도 성인 대상 범죄는 수사할 수 없어 한계로 지적돼 왔다. 경찰청의 2022년 사이버성폭력 사범 집중단속 결과를 보면, 피해자 678명 중 성인이 420명(61.9%)이었다. 지난해에도 사이버성폭력 피해자 686명 중 성인이 3391명(57%)이었다. 서울대 N번방 사건은 위장수사가 불가능해 경찰이 수사에 난항을 겪은 대표 사례다&lt;br&gt;&lt;br&gt;또 개정안에는 아동청소년성보호법 개정을 통해 야간 공휴일 등 긴급한 경우에는 신분비공개 수사를 선제적으로 할 수 있도록 ‘사후승인제도’를 신설했다. 현행법상 텔레그램 등에서 신분비공개수사를 하기 위해서는 사전승인이 필요하여 야간·공휴일 등에 사전승인을 받기 어려운 경우에는 성착취물을 유포하는 텔레그램방을 발견해도 수사에 착수하지 못하고 놓치는 경우가 발생하는 것을 방지하기 위한 대책을 포함한 것이다. 경찰은 “공휴일에 성착취물을 유포하는 텔레그램방을 발견하였음에도 신분 비공개 수사 사전 승인을 받고자 대기하다가 해당 방이 없어지는 경우도 있었다”고 밝혔다.&lt;br&gt;&lt;br&gt;조은희 의원은 “딥페이크 성범죄가 청소년들 사이에서 놀이처럼 확산되는 범죄의 저연령화는 우리사회의 위험신호를 알리는 빨간 경고등이나 다름없다”며 “강력한 수사체계로 이를 반드시 뿌리뽑아야 한다”고 했다. 이어 “해외플랫폼이라서 수사가 어렵다는 점을 노려 텔레그램을 범죄 소굴처럼 악용하는 사례가 잇따르는 사태를 방치해서는 안된다”며 “신분위장수사 및 긴급 비공개수사 확대로 디지털성범죄에 보다 적극적·선제적 대응하여 국민 불안 해소에 적극 나서야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/53OL4MFIYBI4PPE43AIHKM4SVE.jpg?width=5142&amp;height=3528&amp;auth=25eadc71209ed26f2d462104d270bce949e83b297a419721e607254c52f48c70&amp;smart=true" type="image/jpeg" height="3528" width="5142">
-        <media:description type="plain">[서울=뉴시스] 고승민 기자 = 조은희 국민의힘 의원이 3일 서울 여의도 국회 의원회관에서 열린 딥페이크 디지털 성범죄 예방과 대응책 마련을 위한 정책토론회에서 개회사를 하고 있다. 2024.09.03. kkssmm99@newsis.com</media:description>
-        <media:credit role="author" scheme="urn:ebu">고승민</media:credit>
-      </media:content>
     </item>
     <item>
       <title>돌아오지 않는 의대생...2학기 등록률 ‘4%’ 불과 </title>
