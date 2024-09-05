@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>﻿김수찬 “父 차에서 뛰어내리며 인연 끊어…또 거짓말로 일관” 재반박</title>
+      <link>https://www.chosun.com/national/people/2024/09/06/WFLKU3YZ6JAMXHZTMXNBXLSL7I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/06/WFLKU3YZ6JAMXHZTMXNBXLSL7I/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Sep 2024 21:44:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7OOZIB6DH2D66YFSS4KDEKK2KE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 김수찬. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 김수찬의 아버지가 전 부인의 폭로에 관해 “날 악마로 만들었다”고 주장하자, 김수찬은 “또다시 거짓말로 일관하고 있다”며 재반박했다.&lt;br&gt;&lt;br&gt;김수찬은 5일 자신의 팬카페에 “오늘 오전 부친의 반박 주장이 담긴 기사를 봤다”며 “외면할수록, 묵인할수록 오해는 더 쌓여갈 것이고 그 터무니없는 주장들에 불씨가 지펴지게 될 것을 알기에 법적 대응에 앞서 이 글을 적는다”라는 글을 남기며 다시 한번 복잡한 가정사를 언급했다.&lt;br&gt;&lt;br&gt;김수찬은 소속사가 경찰에 어머니 신변 보호를 요청한 것과 관련 “(아버지는) 저와 엄마의 주거지나 연락처도 모르는데 왜 신변 보호 요청을 했는지, 지나친 오버라고 하셨다”며 “흥신소를 고용해 저와 엄마를 미행하고 집 앞 잠복을 일삼으며 치밀하게 괴롭혀오신 분이 하실 말씀은 아닌 것 같다”고 했다.&lt;br&gt;&lt;br&gt;또한 김수찬의 아버지가 ‘아들 이름으로 대출한 건 아이들 학자금이었고, 그 돈을 개인적으로 쓴 일이 없다’고 주장한 것에 대해서는 “학자금 대출 외에도 제 명의로 은행 대출을 받은 기록이 모두 남아 있다. 그리고 그 대출금은 전액 엄마가 변제하셨다”고 반박했다.&lt;br&gt;&lt;br&gt;김수찬은 “제 가족에게 폭행을 일삼던 부친 때문에 구급차에 실려 가신 엄마를 쫓아 응급실에 가던 날, 저는 고작 열 살이었다”며 “부친에겐 이 모든 게 그냥 지나간 일, 없었던 일이 된 것이냐”고 되물었다. 이어 “부친과 함께 일하기를 멈추어야겠다고 다짐한 날 저는 달리는 부친의 차에서 뛰어내렸다”며 “그렇게 절실한 마음으로 끊어낸 인연인데 기사를 확인하고 부친에게 전화를 걸었다”고 했다.&lt;br&gt;&lt;br&gt;몇 년 만에 아버지에게 전화를 건 이유는 “도대체 어떤 생각으로 또다시 이런 거짓말로 일관하며 가족들에게 상처를 주는 것이냐”고 묻고 싶었다고 했다. 아버지는 김수찬에게 “곧바로 정정 기사를 요청하겠다”고 했지만, 이미 거짓말로 응한 인터뷰 기사가 퍼진 상황이라고 했다.&lt;br&gt;&lt;br&gt;김수찬은 “이미 방송을 통해 일부 전해진 사실들이 있기에 제 손으로 부친의 치부를 더 드러내고 싶지는 않았다”며 “소속사의 공식 입장 또한 전해진 상태이기에 충분히 반성의 시간만을 가지실 거라 내심 기대한 것도 사실”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5B2GLY7AMZU656R727RAHNNEU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 방송한 KBS Joy '무엇이든 물어보살'에서는 가수 김수찬의 어머니가 당시 익명으로 출연해 아들의 앞길을 막는 전남편에 대해 폭로했다. /KBS Joy&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김수찬은 본인보다는 어머니를 걱정했다. 그는 “저는 가수 생활을 하며 어느 정도 훈련이 된 탓인지 저에 대한 악의적인 댓글이나 비난들에는 큰 상처를 받지 않지만 수십 년을 참다 용기 내 고백하신 엄마의 소중한 마음을 짓밟는 시선들이 너무나 가슴이 아프다”며 “이 글을 마지막으로 부디 그간 내리던 눈비가 걷히길 바라본다”고 했다.&lt;br&gt;&lt;br&gt;지난 2일 방송된 KBS Joy ‘무엇이든 물어보살’에는 현직 가수의 친모라고 밝힌 사연자가 출연해 “이혼한 지 14년이 됐는데도 전남편이 자꾸 허위 사실을 유포해 아들 앞길을 막고 있다”고 말했다.&lt;br&gt;&lt;br&gt;방송에서는 가수인 아들이 누구인지 공개되지 않았지만, 방송이 나간 이후 김수찬이 자신의 팬카페를 통해 본인의 사연임을 밝혔다. 이에 김수찬의 부친은 5일 한 매체와의 인터뷰에서 “저를 마치 악마 같은 나쁜 인간으로 만들어놨는데 세 아이 아빠로서 어찌 그런 짓을 하겠나”라며 “수찬이 가수 데뷔 후 제가 매니저 일을 했기 때문에 방송가 안팎에 저를 아시는 분들이 많은데, 모두 이 상황을 의아해한다”고 했다.&lt;br&gt;&lt;br&gt;김수찬의 소속사는 모친의 방송 발언 모두 사실 확인을 거쳤다며 경찰에 신변 보호를 요청해 둔 상태라고 밝혔다. 또한 김수찬 부친의 반론 제기 및 악의적인 행위가 추가로 이뤄진다면 선처 없는 강경한 법적 처벌로 대응하겠다고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>섬마을 하늘에서 짜장면이 내려왔다… “뜨끈뜨끈하네”</title>
       <link>https://www.chosun.com/national/national_general/2024/09/06/FCLWNYBDF5ADVIURGCCTJXXVUI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/06/FCLWNYBDF5ADVIURGCCTJXXVUI/</guid>
@@ -909,15 +918,6 @@
       <description/>
       <pubDate>Wed, 04 Sep 2024 23:45:41 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XIRSIJ3ARDJORSEWON6VRTGY5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 금은방에서 수천만원 상당의 귀금속을 훔쳐 제주도로 달아났던 20대가 6시간 만에 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;대구 달서경찰서는 지난 4일 오후 10시 15분쯤 제주시 길거리에서 20대 남성 A씨를 특수절도 혐의로 긴급체포했다고 5일 밝혔다. 앞서 A씨는 4일 오전 4시 3분쯤 대구 달서구 상인동 한 금은방 유리창을 깨고 들어가 귀금속 30여점 등 4000만원 상당을 훔쳐 달아난 혐의로 경찰의 추적을 받고 있었다. 피해품 대부분은 현장에서 회수됐다고 경찰은 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 사건 발생 후 주변 감시카메라(CCTV) 분석 등을 통해 A씨의 신분을 확인했다. 이후 A씨 통화기록과 비행기 탑승 기록 조회 등을 통해 A씨가 제주도로 달아난 것을 확인해 제주 경찰과의 공조 끝에 A씨를 검거했다. 제주도에는 A씨의 지인이 살고 있는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 구체적인 범행동기를 수사 후 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“개그맨 먹방 홍보해줄게” 상인 속여 2억4000만원 꿀꺽한 유튜브 제작자</title>
-      <link>https://www.chosun.com/national/regional/2024/09/05/ZSPNHONGUVCUXEUU7CSNRD6LYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/05/ZSPNHONGUVCUXEUU7CSNRD6LYU/</guid>
-      <dc:creator>오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Sep 2024 00:17:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YCAV2SWOXFFMNEVSVPFFQI44UU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개그맨이 출연하는 ‘먹방 영상’으로 매장을 홍보해 주겠다고 속여 상인들에게 2억 4000만원을 뜯어낸 유튜브 채널 대표가 구속됐다.&lt;br&gt;&lt;br&gt;제주서부경찰서는 “40대 남성 A 씨를 이같은 사기혐의로 구속했다” 고 5일 밝혔다. A 씨는 지난 2022년 7월부터 제주에서 음식점, 카페, 술집 등을 운영하는 상인들에게 유튜브 영상을 촬영해 매장을 홍보해 주겠다고 접근한 뒤 홍보비 명목으로 돈을 뜯어낸 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;실제 A 씨는 지난 2022년 11월부터 2023년 10월까지 유튜브 B 채널에 본편 영상 43편과 쇼츠 영상 80편을 올렸다. 이 중 본편 영상 42편에는 개그맨들이 제주에 있는 식당 또는 카페를 방문해 음식 등을 먹는 모습이 담겼다. 개그맨 중 일부는 KBS 공채 출신이거나 드라마 등에 출연하며 얼굴이 알려진 이들도 있었다.&lt;br&gt;&lt;br&gt;하지만 지난 2023년 10월18일 이후 B 채널에는 영상이 올라오지 않았다. 문제는 A 씨가 영상 게시를 중단한 이후에도 계속해 상인들에게 접근, 매장 홍보비 명목으로 돈을 챙겼다는 점이다. A 씨는 상인들로부터 적게는 60만 원에서 많게는 400만 원까지 받은 뒤 연락을 끊고 잠적했다. 이런 사기 행각을 지난 3월까지 지속한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A 씨에게 속아 돈을 입금한 상인은 75명이고 피해액은 2억4000만 원으로 추산된다. A 씨는 피해자 중 1명에게 투자 명목으로 4000만 원을 뜯어내기도 했다. 경찰은 “도주 및 증거인멸 등의 우려가 있어 A 씨를 구속했으며 곧 검찰에 송치할 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>56년 온기 남기고… 서울 마지막 연탄공장 역사 속으로</title>
