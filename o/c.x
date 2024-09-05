@@ -13,6 +13,85 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대법원도 인정한 부모-자식간 뇌물죄, 문재인 옥죄다 [판읽기] </title>
+      <link>https://www.chosun.com/national/court_law/2024/09/05/HUJLU657LJA4DNXKQDDJAV34BA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/05/HUJLU657LJA4DNXKQDDJAV34BA/</guid>
+      <dc:creator>양은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Sep 2024 09:25:31 +0000</pubDate>
+      <content:encoded>문재인 전 대통령의 딸 다혜씨가 소셜미디어를 통해 전 남편 서모씨의 타이이스타젯 특혜 채용을 수사하는 검찰에 대해 “이쯤 가면 막하자는 거지요? 이제 더 이상은 참지 않겠다”고 반발했다. 고(故)노무현 전 대통령이 지난 2003년 ‘검사와의 대화’에서 “취임 전 부산동부지청에 청탁 전화를 한 적이 있지 않느냐”고 하자 “이쯤 가면 막 하자는 거지요”라고 한 내용을 차용한 것이다.&lt;br&gt;&lt;br&gt;하지만 자녀에 특혜채용이 뇌물죄로 유죄가 확정된 사례도 있다. 2019년 대구고법은 시(市)금고 선정 대가로 경북 경산시 전 세무과장의 아들을 부정 채용한 전 대구은행장에게 직접 뇌물죄를 인정해 징역 1년 6개월을, 전 세무과장에겐 징역 8개월에 집행유예 2년을 각각 선고했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NQU6VHHSTZEYZJPBNCTQO5KW7E.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 유튜브 '판결문 읽어주는 기자'.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 서모씨의 특혜 채용 의혹과 관련해 문 전 대통령에게 형법 129조의 이른바 ‘직접 뇌물죄’를 적용하는 방안을 검토중이다. 결혼한 자녀라도 ‘독립 생계’를 꾸리지 못하고 부모에게 생계를 의지하는 관계라면 자녀에게 준 금품이나 취업 기회 등은 공직자인 부모에 대한 ‘직접 뇌물’이 될 수 있다. 만일 다혜 씨가 결혼 후에도 부모로부터 생활비 지원을 받다가 전남편이 취직 후 부모 지원이 끊겼다면 직접뇌물죄로 의율될 가능성이 커지는 것이다.&lt;br&gt;&lt;br&gt;다혜씨는 소셜미디어에 “‘경제공동체’란 말을 만들어 성공했던지라 다시금 추억의 용어를 소환했다”는 내용도 썼다. 윤석열 대통령이 참여했던 국정농단 수사에서 검찰이 박근혜 전 대통령과 최서원(개명 전 최순실)씨를 ‘경제공동체’로 기소하고 법원이 유죄를 인정한 내용을 말한다. 하지만 친족관계도 아닌 박 전 대통령과 최씨에게 ‘경제공동체’가 인정된 사실은 전(前)사위의 특혜 채용 수사에 불리하게 작용할 가능성도 상당하다는 전망도 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JOJPDOHFMFGQBP5E52O4SSFCLY.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 유튜브 '판결문 읽어주는 기자'.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 ‘판읽기’에서는 문재인 전 대통령 뇌물죄 수사를 두고 과거 유사사건 처벌사례, 관련 법리 등을 살펴 실제 유죄가능성을 다각도로 분석한다. ‘판읽기’는 유튜브에서 ‘판결문 읽어주는 기자’를 검색하면 볼 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가덕도 신공항 부지 조성 공사, 4번째도 유찰...수의계약 가능성 커져</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/09/05/HVRDLRBRBVBW3CR7G5NNDDCWZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/09/05/HVRDLRBRBVBW3CR7G5NNDDCWZY/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>가덕도 신공항 부지 건설 공사를 위한 네 번째 입찰이 무산됐다.</description>
+      <pubDate>Thu, 05 Sep 2024 09:16:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BJDJJPZRZBCF7GPJTIULK33QYA.png"&gt;&lt;figcaption&gt;&lt;small&gt;가덕도 신공항 조감도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가덕도 신공항 부지 건설 공사를 위한 네 번째 입찰이 무산됐다. 조달청과 국토교통부는 5일 가덕도 신공항 부지 건설 공사의 4차 입찰이 최소 조건을 충족하지 못해 유찰됐다고 밝혔다. 2개 이상 컨소시엄이 입찰에 참가해야 하는데, 접수 마감일인 이날까지 1곳(현대건설 컨소시엄)만 등록했기 때문이다. 활주로와 방파제 등을 포함해 가덕도 신공항 관련 총사업비의 78%(10조5300억원)를 차지하는 핵심 공사가 입찰자를 찾지 못해 네 차례나 유찰된 것이다.&lt;br&gt;&lt;br&gt;입찰이 연거푸 유찰됨에 따라 국토부는 수의계약 카드도 검토하는 것으로 전해졌다. 당초 국토부는 10조원이라는 공사 규모 탓에 경쟁 입찰 필요성을 주장하며 수의계약에 반대 입장을 나타냈다. 그러나 유찰이 더 지속될 경우 2029년 개항 계획에 타격을 받을 수 있어 입장 변경이 불가피한 상태라는 게 전문가들의 견해다. 국토부 관계자는 “수의계약 추진도 검토하겠다”고 했다.&lt;br&gt;&lt;br&gt;다만, 수의계약으로 진행할 경우 더 험난한 과정을 겪을 가능성이 크다. 우선 현대건설 컨소시엄과 공사비를 재산정해야 하는데 이 협상 과정이 만만찮을 것으로 보인다. 결과에 따라 특혜 시비 등이 제기될 가능성도 있다. 건설업계에서 여러 뒷말이 나오는 것도 부담이다. 일각에선 반복 유찰과 관련해 수의계약을 염두에 뒀으면서도 향후 수사나 감사를 의식해 국토부가 명분 쌓기식 행정을 한 것 아니냐는 견해도 나오고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>英 왕실 공주도 지드래곤 촬영 삼매경...韓 행사에 무슨 일?</title>
+      <link>https://www.chosun.com/national/people/2024/09/05/47GPTKXM7RE7ZPCSJMSIBVAT7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/05/47GPTKXM7RE7ZPCSJMSIBVAT7A/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Sep 2024 08:59:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VXGJQEK7E5DHXLFLTMXYO7DO4I.png"&gt;&lt;figcaption&gt;&lt;small&gt;유지니 공주가 빅뱅의 멤버 지드래곤 소장품 경매에 참석한 모습이 포착됐다./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 빅뱅 멤버 지드래곤의 소장품 경매 행사에 찰스 3세 영국 국왕의 조카인 유지니 공주가 참석한 사실이 알려졌다.&lt;br&gt;&lt;br&gt;4일(현지 시각) 데일리메일 등에 따르면 유지니 공주는 지난 2일(한국 시각) 인천 파라다이스시티 아트스페이스에서 열린 ‘낫띵 벗 어 ‘G’탱: 지드래곤의 예술과 아카이브’ 관련 행사에 참석했다.&lt;br&gt;&lt;br&gt;이날 행사에서는 미국의 가수 겸 프로듀서인 퍼렐 윌리엄스가 설립한 디지털 경매 플랫폼 ‘주피터’와 지드래곤이 협업해 소장품을 공개했다.&lt;br&gt;&lt;br&gt;당시 참석자들이 촬영한 영상은 소셜미디어에 널리 퍼졌다. 특히 영상 속에 등장한 유지니 공주의 모습이 화제가 됐다. 공개된 영상엔 마이크를 잡은 지드래곤이 “와주셔서 감사드린다”고 말하는 가운데 유지니 공주가 미소를 지으며 휴대폰으로 촬영하고 있는 모습이 담겼다.&lt;br&gt;&lt;br&gt;데일리메일은 유지니 공주가 갤러리 하우저 앤 워스의 부관장 자격으로 행사에 초대된 것으로 보인다고 했다. 유지니 공주가 혼자 한국을 방문한 것인지 남편 잭 브룩스 뱅크와 두 아들도 동행했는지는 알려지지 않았다.&lt;br&gt;&lt;br&gt;유지니 공주는 서거한 엘리자베스 2세 여왕의 차남이자 현 영국 국왕인 찰스 3세의 동생인 앤드루 왕자의 차녀다. 뉴캐슬 대학교에서 예술사와 영문학을 전공했고, 갤러리 디렉터로 일하며 평소 예술 관련 다양한 활동에 참여하고 있다. 2018년 사업가인 잭 브룩스 뱅크와 결혼해 슬하에 두 아들을 두고 있다．&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/6MSYR7VQFNHBFEFRB724MDQUXY.png?width=1230&amp;height=692&amp;auth=9e1e87866d449bf473c5052a5a7f2c897367514dcb16d0bbe514c64244996a91&amp;smart=true" type="image/png" height="692" width="1230">
+        <media:description type="plain">유지니 공주가 빅뱅의 멤버 지드래곤 소장품 경매에 참석한 모습이 포착됐다./인스타그램</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>공직선거법 위반 혐의 안도걸 국회의원 사촌동생 구속</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/05/P4WBIZ3XJVC5LOAVHBNFIBDQEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/05/P4WBIZ3XJVC5LOAVHBNFIBDQEI/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Sep 2024 09:00:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VXATGLD4ATWHWPPBUAVEV3EAXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3월 19일 광주광역시 동구 소재 더불어민주당 광주동남을 안도걸 후보 선거사무실에서 경찰이 압수수색을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 총선 과정에서 공직선거법을 위반한 혐의를 받는 더불어민주당 안도걸(광주 동남을) 의원의 사촌동생이 구속됐다.&lt;br&gt;&lt;br&gt;광주지법 최유신 영장전담 부장판사는 5일 공직선거법 위반 혐의로 안 의원의 사촌동생 안모씨에 대해 사전구속영장을 발부했다. 최 부장판사는 “증거인멸 및 도주 우려가 있다”며 영장 발부 사유를 밝혔다.&lt;br&gt;&lt;br&gt;공범으로 함께 기소된 선거캠프 관계자 A씨에 대해서는 “범죄혐의 소명 및 다툼의 여지가 있고 수사기관이나 법정 출석상황 등에 비춰 구속의 사유나 필요성이 부족하다”며 영장을 기각했다.&lt;br&gt;&lt;br&gt;안씨 등은 지난 22대 국회의원 선거 과정에서 더불어민주당 경선 당시 선거운동원·자원봉사자에게 금품을 제공한 혐의 등을 받고 있다. 안씨는 전남 화순에서 안 의원이 후보시절 홍보 목적으로 전화방을 운영하는 등 불법 선거운동을 한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 ‘안 의원이 경선 후보 당시 안씨를 비롯한 선거캠프 관계자들이 자원봉사자·선거운동원에게 금품·식사비를 제공했다’는 고발장을 받고 수사를 벌여왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VXATGLD4ATWHWPPBUAVEV3EAXA.jpg?width=720&amp;height=446&amp;auth=4ef42dbd0093aa8639e63290da10e1c3706299b54818b565ac41f30f9757da96&amp;smart=true" type="image/jpeg" height="446" width="720">
+        <media:description type="plain">안도걸 후보 선거사무실 들어서는 경찰</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>3억 횡령한 직원에 다시 일할 기회 줬더니 1억 추가 횡령</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/05/O774ZQJUJBFLFDXNNE6DGASF5M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/05/O774ZQJUJBFLFDXNNE6DGASF5M/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Sep 2024 08:13:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 이미지. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;회사에서 3억원 가량을 횡령하다 적발된 직원이 추가로 1억원 가량을 횡령하다 적발돼 실형을 선고받았다. 회사 대표는 직원의 ‘변제 약속’을 믿고 다시 근무할 기회를 줬다가 추가 범행을 당한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;5일 광주지법 형사10단독(나상아 판사)은 업무상횡령, 사문서위조, 위조사문서행사 등의 혐의로 재판에 넘겨진 A씨(40·여)에게 징역 3년을 선고했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 광주의 한 유리업체에서 근무를 하던 지난 2022년 7월부터 지난해 11월까지 수십차례에 걸쳐 회사 자금 4억 9000여만원을 횡령한 혐의다. A씨는 빼돌린 돈 중 수천만원을 자신의 채무 변제와 생활비 등에 사용했다.&lt;br&gt;&lt;br&gt;특히 A씨는 동종전과로 징역 4년을 선고받고 가석방된 기간에 피해 회사에 경리로 취업해 다시 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;회사 대표는 A씨의 범행을 초기에 알아챘으나 ‘채무 변제’ 약속을 믿고 계속 일할 기회를 줬다. 하지만 A씨는 다시 회사 자금에 손을 대 1억원이 넘는 돈을 추가 횡령했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인이 횡령한 금액의 합계가 거액이고 피해가 상당 부분 회복되지 않았다. 가석방과 누범기간에 추가 범행을 저질렀다”며 “회사의 대표가 피고인의 변제 약속을 믿고 계속해 경리 업무를 맡겼음에도 얼마 지나지 않아 추가 범죄를 저지른 점, 범죄 전력 등을 종합적으로 고려해 형을 정했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘고발 사주’ 2심 선고 하루 전 변론 재개… “추가 확인 필요”</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/05/OLVEVRTGBBFLTO7FFPLCA32JXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/05/OLVEVRTGBBFLTO7FFPLCA32JXY/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Sep 2024 08:16:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYSILUO2RZNJ7HRT55YTSRSSPE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;'고발 사주' 의혹으로 기소된 손준성 대구고검 차장검사(검사장)가 지난 7월 24일 서울 서초구 서울고등법원에서 열린 2심 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘고발 사주’ 의혹으로 1심에서 징역 1년이 선고된 손준성 대구고검 차장검사(검사장)의 항소심 선고가 하루 전인 5일 재판부의 결정으로 연기됐다.&lt;br&gt;&lt;br&gt;서울고법 형사6-1부(재판장 정재오)는 오는 6일 선고할 예정이었던 고발 사주 사건 재판에 대해 직권으로 변론을 재개하기로 결정했다고 이날 밝혔다. 항소심 재판부는 다음 달 4일 재판을 열기로 했다.&lt;br&gt;&lt;br&gt;재판부는 “손 검사장의 업무 내용과 절차, 검찰 내부망(이프로스) 전자정보 생성·저장·관리, 김웅 전 국민의힘 의원과의 공모 여부가 선거법 위반과 어떤 관련이 있는지 등에 관해 추가로 확인할 부분이 있다”고 밝혔다. 그러면서 고위공직자범죄수사처(공수처)와 손 검사장 측에 이에 관한 의견과 증거를 제출받기 위해 재판을 재개했다고 설명했다.&lt;br&gt;&lt;br&gt;재판부는 다음 달 4일 공판을 진행하며 위 쟁점 사안에 대해 정리할 전망이다. 앞서 공수처는 항소심 결심 공판에서 손 검사장에게 1심과 같은 징역 5년을 구형했다.&lt;br&gt;&lt;br&gt;항소심 결과가 한 달 이상 늦춰지면서, 선고 이후 재개될 전망이었던 손 검사장의 탄핵 심판 절차도 더 밀릴 것으로 보인다. 손 검사장은 이 사건으로 탄핵이 소추됐지만, 동일한 형사 소송이 진행 중이라는 이유로 탄핵 심판이 중지된 상태다.&lt;br&gt;&lt;br&gt;‘고발 사주’ 사건은 윤석열 대통령이 검찰총장이던 2020년 4·15 총선을 앞두고 자신과 아내의 명예를 훼손한 혐의로 유시민씨, 최강욱 전 민주당 의원 등을 고발해 달라며 당시 손준성 대검 수사정보정책관을 통해 김웅 미래통합당(현 국민의힘) 의원에게 고발장을 전달했다는 의혹에서 시작됐다. 공수처는 손 검사장만 기소했다. 1심은 손 검사장이 총선에 부당한 영향력을 행사한 혐의(선거법 위반)에 대해선 무죄로 보면서도, 실명(實名) 판결문이 첨부된 고발장을 전송한 것과 관련해 공무상 비밀 누설 혐의 등에 대해선 유죄로 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“교통사고 났는데 이송할 병원이 없었다”...120km떨어진 병원 이송</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/09/05/BO3UHOOWBZCHLIZHKJNZZ3FJNU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/09/05/BO3UHOOWBZCHLIZHKJNZZ3FJNU/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Sep 2024 08:26:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRLP7PKFBJGAVF5P2GEG3KQNPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주에서 교통사고 환자가 이송할 병원을 찾지 못해 4시간 만에 강원도 원주의 상급병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;5일 충북소방본부 등에 따르면 지난 4일 오후 9시쯤 청주시 오창읍의 한 도로에서 오토바이를 몰고 가던 A씨는 차선 변경을 하던 46인승 전세 버스에 치이는 사고를 당했다.&lt;br&gt;&lt;br&gt;이 사고로 A씨는 하반신에 다발성 골절을 입고 주요 장기가 손상되는 등 크게 다쳤다. 당시 A씨의 상태로는 전문 장비와 의료진이 있는 대형병원에서 치료를 받아야 했다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 구급대는 중증외상센터가 있는 충북 유일 상급병원인 충북대병원 등 청주권 4개 병원에 이송 가능 여부를 문의했지만, 의료진이 없다는 등의 이유로 모두 이송이 거부됐다.&lt;br&gt;&lt;br&gt;A씨는 사고 약 40분 만에 청주의 2차 종합병원 응급실로 이송돼 기관 내 삽관과 수혈 등 응급 처치를 받았다. 하지만 상태가 심각해 전문 치료를 받을 수 있는 병원을 찾는 과정에서 또다시 12곳의 병원을 수소문했지만 또다시 이송이 거부된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;결국 A씨는 사고 4시간 30여분 만인 이튿날 오전 1시 34분쯤 약 120㎞ 떨어진 강원 원주세브란스기독병원에 도착해 치료를 받을 수 있었다. 사고 당시 A씨는 의식이 있었지만, 처치가 지연되면서 원주로 이송될 당시에는 의식이 저하된 상태였다고 한다. A씨는 현재 중환자실에서 치료를 받는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;소방 관계자는 “그나마 응급처치라도 받을 수 있는 2차 병원으로 이송된 것이 다행이었다”라며 “상급병원 이송이 더 지체됐다면 생명이 위태로웠을 것”이라고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘악동클럽’ 출신 이태근 사망…”코로나 백신 추가 접종 뒤 뇌출혈”</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/05/YUI4UIPYUVGWZLQDPEKTXDX6EI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/05/YUI4UIPYUVGWZLQDPEKTXDX6EI/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Sep 2024 08:15:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AIV3TKPZAQFGA2KGKBGYJA6TTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'악동클럽' 이태근./ MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 ‘악동클럽’ 출신 이태근(41)이 세상을 떠났다.&lt;br&gt;&lt;br&gt;5일 가요계에 따르면, 이태근은 이날 오전 충북 충주시 탄금장례식장에서 발인을 마쳤다. 장지는 천상원으로 알려졌다.&lt;br&gt;&lt;br&gt;이태근은 2001년 MBC ‘목표달성 토요일’ 인기 코너 ‘악동클럽’에 출연해 인기를 얻었고, 다음 해 그룹 ‘악동클럽’으로 가요계에 정식 데뷔했다. 악동클럽이 해체된 뒤 2006년 ‘디 에이디’로 팀을 재정비해 활동했다.&lt;br&gt;&lt;br&gt;TV에 모습을 보이지 않았던 이태근은 2022년 3월 코로나 백신 부스터샷(화이자) 부작용으로 위독한 상황이라는 사실이 알려지면서 다시 주목받았다. 그는 심각한 뇌 손상을 입고 치료를 받아온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이태근의 아내는 당시 청와대 국민청원에 “30대 쌍둥이 아빠 화이자 백신 부스터샷 맞고 뇌 지주막하 출혈로 겨우 숨만 쉴 정도로 힘든 상태”라고 글을 올렸다. 그러면서 “체중이 20㎏ 이상 빠져 뼈만 남았다. 겨우 숨만 쉬고 있다”며 도움을 요청한 바 있다.&lt;br&gt;&lt;br&gt;이태근은 최근까지 자신의 인스타그램에 쌍둥이 딸과 함께 찍은 사진과 일상을 공개하며 회복 의지를 전하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“정말 저렴합니다”...탕비실 간식 170개 중고거래한 직원</title>
       <link>https://www.chosun.com/national/national_general/2024/09/05/3G474LLN6JCCXED3KZNBWBPTI4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/05/3G474LLN6JCCXED3KZNBWBPTI4/</guid>
@@ -810,15 +889,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘공인중개사’ 서경석 “자격증 따고 나와 관련된 건물 거래한 적 없어”</title>
-      <link>https://www.chosun.com/national/people/2024/09/04/J7BD47ZH6BBIFKF3UKHR4JXECQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/04/J7BD47ZH6BBIFKF3UKHR4JXECQ/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Sep 2024 13:03:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ESHIZF5PLZBUZNEEZGJYCEVBIE.png"&gt;&lt;figcaption&gt;&lt;small&gt;개그맨 서경석./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개그맨 서경석이 공인중개사 자격증을 취득한 후 자신과 관련된 건물을 거래한 적이 없다고 밝혔다.&lt;br&gt;&lt;br&gt;4일 개그맨 이경규의 개인 유튜브 채널에 서경석이 출연했다. 이날 방송에서 서경석은 자신이 도전한 공부 분야 등에 대한 이야기를 나눴다.&lt;br&gt;&lt;br&gt;서경석은 “지금 32기 공인중개사”라며 “지금은 얼마나 (시험을) 보시는지 모르겠는데 그때만 해도 제가 보던 해에 40만 명이 응시를 했었다”고 말했다. ‘자격증을 딴 후 건물을 거래한 적 있냐’ 질문에 서경석은 “없다. 중개사가 자기와 관련 있는 부동산을 거래하거나 중개하는 건 대표적인 불법 행위”라고 했다.&lt;br&gt;&lt;br&gt;서경석은 공인중개사 시험을 보게 된 이유에 대해서도 설명했다. 그는 “오랫동안 홍보를 맡았던 회사의 주 종목이 그거(공인중개사 시험)였다”며 “도대체 얼마나 (시험이) 힘들길래 합격하면 합격생들이 열광하고,떨어지면 이렇게 슬퍼할까 생각했다”고 말했다. 이어 “설사 안 붙더라도 공부는 해보자 해서 시작한 것”이라며 “그런데 너무 어려웠다. 6과목 중 5과목이 법인데, 하다가 눈물이 났다. 2년에 걸쳐서 정말 어렵게 합격을 했다”고 했다.&lt;br&gt;&lt;br&gt;이 외에도 서경석은 공인중개사 자격증뿐 아니라 한국사 자격증, 한국어 능력 자격증까지 도전한 사실도 알렸다.&lt;br&gt;&lt;br&gt;서경석은 2021년 제32회 공인중개사 2차 시험에서 4과목 평균 60.83점을 기록, 최종 합격해 화제를 모았다. 특히 서경석이 공인중개사 자격증 교육업체 ‘에듀윌’의 홍보 모델이라, 그의 공인중개사 시험 합격 여부를 두고 관심이 쏠린 바 있다. 앞서 그는 2020년 치룬 제31회 공인중개사 불합격한 후, 재수 끝에 합격했다.&lt;br&gt;&lt;br&gt;한편, 서경석이 공인중개사 시험을 치렀던 2021년과 달리 최근 시험 응시자 수는 감소했다. 작년 한국산업인력공단에 따르면 2023년 공인중개사 자격시험의 응시자와 합격자 수는 모두 2016년 이후 7년 만에 가장 적은 수준을 기록했다. 지난 10월 치러진 제34회 공인중개사 자격시험엔 1·2차를 합쳐 모두 28만 7756명이 신청해 20만 59명이 실제로 응시했으며, 이중 총 4만 2615명이 합격했다. 전년과 비교하면 시험 신청자는 10만 명 이상 줄고, 응시자도 6만 4000여 명 줄었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“공부하러 한국 왔어요” 유학생 20만명 첫 돌파</title>
       <link>https://www.chosun.com/national/education/2024/09/04/FI6BXEKM7JGHRKDVXMC5AEAELE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/09/04/FI6BXEKM7JGHRKDVXMC5AEAELE/</guid>
@@ -846,15 +916,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXOJ6JDLRZBJ3JMT3HJAJ35O5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도로에서 다투던 오토바이 운전자를 때려 숨지게 한 40대 운전자가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 분당경찰서는 상해치사 혐의로 A씨를 붙잡아 조사하고 있다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 이날 오후 3시 22분쯤 경기도 분당구 야탑동 한 도로에서 자신이 운전하던 승용차에서 내려 오토바이 운전자 40대 B씨를 때려 숨지게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;무슨 이유에서인지 이들은 도로변에서 싸웠고 그러던 중 B씨가 A씨에게 맞아 머리 부위를 다쳐 인근 병원으로 옮겨진 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 정확한 사건 경위를 조사하는 한편 조사를 마치는 대로 A씨에 대한 구속영장 신청 여부를 검토할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“사랑 담은 봉사는 감동을 부릅니다”</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/04/JK6ZCDKJUFCRVLIBY6LXPYHQPI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/04/JK6ZCDKJUFCRVLIBY6LXPYHQPI/</guid>
-      <dc:creator>정병선 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Sep 2024 11:55:22 +0000</pubDate>
-      <content:encoded>“사랑을 기반으로 하는 봉사는 다양한 파급 효과를 가져옵니다. 여러분의 손길 하나하나에 네팔 청소년들은 큰 감동을 했을 겁니다.”&lt;br&gt;&lt;br&gt;엄홍길 대장은 4일 인천공항 상주 직원들로 구성된 글로벌봉사단원에게 특별한 감사 인사를 했다. 글로벌봉사단이 네팔의 엄홍길휴먼스쿨을 찾아와 봉사활동을 해준 데 대한 고마움을 표시한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MGLIDDOHRZC2NDJ2QZMB4Y4KHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천공항공사 글로벌봉사단과 네팔 유치원생을 대상으로 봉사 활동을 하는 엄홍길 대장. /엄홍길휴먼재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천국제공항공사(사장 이학재) 글로벌봉사단 40명은 인천공항 명예홍보대사인 엄홍길 대장과 지난 8월 26일부터 9월 3일까지 7박 9일 동안 네팔 딸게셜과 다딩지역 학교를 방문, 수준 높은 봉사활동으로 학생들을 감동시켰다. 글로벌봉사단이 찾아간 곳은 엄홍길휴먼재단이 설립한 16개 휴먼스쿨 중 16차 학교(딸게셜 프라티비 나라얀 학교·전교생 1300명)와 5차 학교(다딩스쿨·120명)였다.&lt;br&gt;&lt;br&gt;이번 봉사활동은 지난 7월 인천국제공항 명예홍보대사로 위촉된 엄홍길 대장과 인천공항의 첫 행사로, 히말라야 산맥이 지나는 네팔 중부 고산지역에 위치한 다딩 지역 학생들을 중심으로 진행됐다. 이곳은 작년 10월 발생한 규모 6.1의 강진으로 큰 피해를 당했지만 국제구호의 손길이 닿지 않았던 곳이다.&lt;br&gt;&lt;br&gt;학교 교장은 “해발 1500m에 있는 다딩 지역은 식수난 등 열악한 환경 때문에 주민들이 떠나고 있지만 그나마 엄 대장이 세운 학교가 주민들의 이탈을 막는 버팀목 역할을 하고 있다”고 했다. 주위보다 나은 교육 여건 때문이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5S4O5OBE5AZLDJEEE4PFWY5ZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천공항공사 글로벌봉사단이 네팔 다딩스쿨을 찾아가 학생들에게 태권도를 가르치고 있다. /엄홍길휴먼재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;글로벌봉사단은 우기(雨期)라 수시로 쏟아지는 폭우로 도로가 팬 위험천만한 산길을 차로 1시간가량 올라가 현지 학생들을 대상으로 한글, 태권도, 한식만들기 요리교실, 음악수업 등 한국 문화를 체험할 수 있는 교육봉사를 위주로 실시했다.&lt;br&gt;&lt;br&gt;또 네팔 현지 NGO(비정부기구)와 협력하여 환경정화 활동과 학교 시설 개보수 작업을 펼쳤다. 학생들은 태권도와 음악수업에 관심을 보였지만 특히, 한국의 전통 음식 비빔밥과 달고나를 함께 만드는 요리수업 시간이 그들의 호기심을 한껏 자극했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6YNWQC2QBH5LH6QEQMFIPXWCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천공항공사 글로벌봉사단과 엄홍길 대장이 학생들에게 학용품을 전달하고 있다. /엄홍길휴먼재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강은정 인천공항공사 ESG경영팀장은 “짧은 시간 엄홍길휴먼재단과 글로벌봉사단, 현지인들이 하나가 되는 세상을 만들어 가는 과정은 감동이었다”며 “카트만두 딸게셜 학교에서 25명의 시각장애인과 350명의 유치원생을 포함한 1300명의 학생, 다딩의 120명 학생에게 작지만 꿈과 희망을 준 듯해 뿌듯했다”고 했다.&lt;br&gt;&lt;br&gt;엄 대장은 “인천공항공사 글로벌봉사단의 체계적인 봉사활동은 학생들에게 기존 봉사단과 전혀 다른 감동을 주었으며 한국에 대한 좋은 이미지는 물론 청소년들의 도전의식을 가슴 깊이 새겨준 시간이었다”고 했다.&lt;br&gt;&lt;br&gt;인천공항은 세계적인 공항기업으로서 글로벌 ESG(환경·Environment, 사회·Social, 지배구조·Governance의 약자로 기업의 비재무적인 요소를 뜻한다) 경영을 지향한다. 친환경, 사회적 책임경영과 투명경영을 통해 지속 가능한 발전 모델을 추구해왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IDHUDQZ24NAIDKR2FJVXB5ASDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천공항공사 글로벌봉사단원들이 학생들에게 태권도를 가르치며 송판 격파를 지도하고 있다. /엄홍길휴먼재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이학재 인천국제공항공사 사장은 “인천공항공사는 2011년 첫 글로벌 봉사단 파견 이후 인도네시아, 몽골, 필리핀 등 저개발국가를 대상으로 총 19차례 봉사단을 내보냈다”며 “이번 봉사활동을 통해 네팔 청소년들에게 희망과 도전의식을 전할 수 있어 기쁘다”고 했다.&lt;br&gt;&lt;br&gt;그는 “인천공항 제2여객터미널 확장사업을 포함한 4단계 건설사업이 올 연말 완공되면 세계 공항의 입지를 더욱 강화해갈 생각이다”며 “앞으로도 인천공항은 글로벌 공항으로서의 사회적 책임을 다하고, 더 나은 세상을 만들기 위한 다양한 ESG활동들을 지속해 나갈 것”이라고 밝혔다. 또 “네팔 봉사처럼 명예홍보대사인 엄 대장과 세계를 무대로 다양한 봉사 활동을 해나갈 예정이다”고 덧붙였다.&lt;br&gt;&lt;br&gt;엄 대장은 세계 최초로 히말라야 8000m 16좌 완등한 세계적인 산악인이자 대한체육회 ‘스포츠영웅’ 명예의 전당에 헌액된 대한민국 대표 체육인이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YGBNZCV27BHY7ONRGCEQBDSE4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천공항공사 글로벌봉사단원들이 엄홍길 대장과 히말라야에 나무 심기를 한 뒤 포즈를 취했다. 이곳은 주민들이 땔감으로 사용하기 위해 벌목하면서 산림이 훼손됐다. /엄홍길휴먼재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 5월 한국-네팔 수교 50주년을 기념해 ‘한국-네팔 우정 원정대 2024′를 결성, 히말라야 미답봉(未踏峯)인 쥬갈 히말라야 1봉(6591m) 원정에 나서 세계 첫 등정이라는 쾌거를 남겼다.&lt;br&gt;&lt;br&gt;지난 2008년 ‘엄홍길 휴먼재단’을 설립해 네팔의 청소년 교육에 앞장서고 있으며, 16좌 완등에 대한 보답 차원에서 네팔 오지를 중심으로 16개 휴먼스쿨을 건립했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>北 공작원 고니시, 실존 인물?... 페루 증인과 1만6000㎞ ‘영상 신문’</title>
       <link>https://www.chosun.com/national/court_law/2024/09/04/V6CAX3F7ORAGRMVQ7RRLKZI4FA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/04/V6CAX3F7ORAGRMVQ7RRLKZI4FA/</guid>
@@ -862,54 +923,6 @@
       <description/>
       <pubDate>Wed, 04 Sep 2024 11:13:37 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GWQLT2NVIJG4FLIC4QYWINNJ4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 오전 9시 서울중앙지법 408호 법정. 피고인석 뒤편 스크린에 서울과 1만6295㎞ 떨어진 페루 리마의 주(駐)페루 한국 대사관 사무실이 나타났다. 국가보안법 위반 혐의를 받는 이정훈(당시 4·27시대연구원 연구위원)씨가 만났다는 북한 공작원 추정 인물인 ‘고니시(Konishi)’의 실존 여부를 증명하기 위한 증인 신문이었다.&lt;br&gt;&lt;br&gt;이씨는 2017년 북한 공작원과 4차례 만나 진보 진영의 동향을 보고하고 암호화된 지령문 송수신 방법 등을 교육받은 혐의로 2021년 기소됐다. 검찰은 이씨가 만난 공작원을 일본계 페루인으로 위장한 ‘고니시’로 지목했다. 고니시가 ‘노구치’라는 여성 공작원과 부부 행세를 하며 페루와 필리핀 등에서 간첩 활동을 하다가 이씨를 국내에서 만났다는 것이다. 그러나 이씨는 “조작 수사”라고 주장했다. 고니시가 간첩이 맞는지, 페루에 살았던 게 맞는지, 위장 신분자가 맞는지 불분명하다고 했다.&lt;br&gt;&lt;br&gt;문제는 고니시 부부가 2020년 2월 사망해 존재 확인이 어렵다는 점이었다. 검찰은 페루에서 고니시를 봤거나, 그의 부부에 대해 알 만한 페루 현지인들을 증인으로 부르겠다고 했고, 재판장인 이준구 형사18단독 판사는 해외 영상 신문 선례를 검토해 이를 허가했다.&lt;br&gt;&lt;br&gt;페루와의 시차(14시간)를 감안해 재판부는 보통 오전 10시에 열리는 재판을 오전 9시(페루는 오후 7시)에 시작했다. 법정에 설치한 스크린은 네 부분으로 분할해 대사관의 증인과 법정 내 피고인 및 변호인, 검사, 통역인 등을 각각 비추도록 했다. 판검사와 변호사가 한 문장씩 질문하면 통역인이 이를 스페인어로 통역하고, 증인이 답하면 다시 한국말로 통역하는 방식으로 진행됐다.&lt;br&gt;&lt;br&gt;현지 대사관에 출석한 증인 3명은 고니시를 조사하거나 직접 만난 사람들. 이들은 모두 “고니시를 페루에서 봤고, 위장 신분이 의심된다”고 증언했다. 페루 시민 후안은 “고니시 부부가 1996년 페루에서 결혼할 때 증인을 섰다”며 “한국 수사관이 보여준 남성 사진과 내가 본 고니시의 얼굴, 스타일 등이 흡사하다”고 증언했다. 페루 변호사 바네사는 검사가 “고니시의 출생 증명서 등에서 의심할 만한 사정이 있느냐”고 묻자 “부모의 호적 자료가 전혀 없고, 고니시가 다녔다는 학교도 찾을 수 없었다”고 했다. 신분이 위조됐을 가능성이 있다는 취지였다.&lt;br&gt;&lt;br&gt;이날 영상 신문은 2시간 가까이 이어졌다. 이 판사는 증인들에게 감사의 뜻을 전하며 “증언이 끝나면 안전하게 귀가하라”고 당부했다. 오는 11월 6일 법원은 국가정보원 직원들에 대한 신문을 진행할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>3층서 불, 손자 품에 안겨 뛰어내린 90대 할머니... 끝내 숨져</title>
-      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2024/09/04/EYVZQOTDJVFG3IKR6CFTT65DMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2024/09/04/EYVZQOTDJVFG3IKR6CFTT65DMM/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Sep 2024 11:12:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EGFMPJOLSBCRXJ46TD2INQHPI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오전 화재가 발생한 경기 수원시 권선구 탑동의 상가주택에서 소방관들이 진화에 나서고 있다. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30대 손자 품에 안겨 불이 난 집에서 뛰어내렸던 90대 할머니가 치료를 받다 끝내 숨졌다.&lt;br&gt;&lt;br&gt;경기 수원서부경찰서와 경기소방재난본부에 따르면 이날 오전 6시 30분쯤 수원시 권선구 3층짜리 상가 건물 3층에서 불이 났다.&lt;br&gt;&lt;br&gt;불이 나자 해당 층에 거주하던 30대 손자 A씨는 90대 할머니 B씨를 안고 2층 패널 지붕 위로 뛰어내렸다. 당시 할머니는 의식 저하 상태로 구조됐으며, A씨는 상반신에 2도 화상을 입어 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;애초 두 사람 모두 생명에는 지장이 없는 것으로 전해졌다. 하지만 고령인 B씨는 이날 정오쯤 결국 숨졌다. 화재 당시 B씨는 현관으로 탈출하려 했으나, 연기 등으로 대피가 어려워지자 안방 창문을 통해 아래로 뛰어내린 것으로 조사됐다. 이웃 주민들에 의하면 최근까지 직장을 다녔던 A씨는 할머니가 인지기능이 떨어지고 거동이 힘들어지자 다니던 직장을 그만두고 할머니를 돌본 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 현재 서울 영등포의 한 화상 전문 병원으로 옮겨져 치료를 받고 있다.&lt;br&gt;&lt;br&gt;소방당국과 경찰은 현장 감식을 통해 자세한 화재 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘깜짝 결혼’ 배우 이유영, 엄마 됐다...지난달 딸 출산</title>
-      <link>https://www.chosun.com/national/people/2024/09/04/PLXS7YZZUBAXNMKVLRYIK2KHN4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/04/PLXS7YZZUBAXNMKVLRYIK2KHN4/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Sep 2024 10:41:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/76MJT7FVEU2ENYM5CV3VYZWMWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이유영./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 이유영(34)이 엄마가 된 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;4일 이유영 소속사 에이스팩토리는 여러 매체를 통해 “이유영이 지난달 첫 딸을 품에 안았다”며 “산모와 아이 모두 건강하다”고 밝혔다.&lt;br&gt;&lt;br&gt;이유영과 그 남편은 2022년 지인들과 모임에서 만나 2년 열애 끝에 지난 5월 부부의 연을 맺었다. 이 사실은 지난 7월 뒤늦게 알려졌다. 당시 소속사 측은 “이유영은 비연예인 남편과 지난 5월 혼인신고를 마치고 정식 부부가 됐다”며 “서로에 대한 깊은 애정과 신뢰로 부부의 연을 맺은 두 사람은 오는 9월 부모가 된다. 출산일이 다가옴에 따라 별도의 결혼식은 아직 예정하고 있지 않다”고 전했다.&lt;br&gt;&lt;br&gt;당초 예정일보다 아이를 일찍 품에 안게 된 이유영은 현재 가족들의 보살핌 속에서 산후조리 중인 것으로 전해졌다. 이유영은 당분간 육아에 집중할 예정이다.&lt;br&gt;&lt;br&gt;앞서 이유영은 작년 2월 인스타그램에 누군가의 팔베개를 하고 있는 사진을 올리면서 네티즌들의 관심을 받았다. 이후 소속사 측은 “최근 이유영이 비연예인 남성과 만남을 시작한 정도만 알고 있다”고 했다.&lt;br&gt;&lt;br&gt;이유영은 2012년 단편영화 ‘꽃은 시드는 게 아니라…’로 연기를 시작해 영화 ‘봄’(2014) ‘간신’(2015), ‘디바’(2020)와 드라마 ‘친애하는 판사님께’(2018), ‘인사이더’(2022) 등에 출연했다. 올해 1월 개봉한 영화 ‘세기말의 사랑’과 지난 7월 2일 종영한 KBS2 드라마 ‘함부로 대해줘’에서 주연을 맡았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“재개발 불만” SUV 몰고 현대건설 사옥 돌진한 60대 체포</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/04/TQBIBASGH5DRTDZIOPFPYRRVLM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/04/TQBIBASGH5DRTDZIOPFPYRRVLM/</guid>
-      <dc:creator>서보범 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Sep 2024 09:17:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KONBUWJKJNKVBCOFJPLQXKEDLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오후 서울 종로구 현대건설 사옥을 들이받은 소형 SUV 차량을 과학수사대가 현장 조사하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재개발 사업에 불만을 품고 SUV 차량을 몰아 현대건설 사옥 정문으로 돌진한 60대 남성이 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;서울 종로경찰서는 이날 오후 4시 40분쯤 서울 종로구 계동 현대건설 사옥 정문을 향해 차량을 몰고 돌진한 이모(63)씨를 특수재물손괴 혐의로 현행범 체포했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EI6YJHHGXNBJ3HKJ4MXRGXXJXM.gif"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오후 4시 40분쯤 서울 종로구 현대건설 사옥 정문으로 SUV 차량이 돌진하는 모습. /독자제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰에 따르면 이씨는 음주·마약 간이검사에서 음성 반응이 나온 것으로 확인됐다. 이씨는 현대건설의 재개발 사업에 불만을 품고 이같은 범행을 저지른 것으로 알려졌다. 이 사고로 인명피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;경찰은 이씨를 상대로 구체적인 범행 경위 등을 수사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/EI6YJHHGXNBJ3HKJ4MXRGXXJXM.gif?width=420&amp;height=746&amp;auth=d50d8d703878771c706c75c7ec4885537f3fbbcc3120137c5e4bb009d7fa7c8b&amp;smart=true" type="image/jpeg" height="746" width="420">
-        <media:description type="plain">4일 오후 4시 40분쯤 서울 종로구 현대건설 사옥 정문으로 돌진했다. /독자 제공</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>경찰, ‘돈 봉투 수수’ 의혹 정우택 전 국회의원 불구속 송치</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/09/04/HQDDCGBIMNBXFMA3KGPZIVJA6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/09/04/HQDDCGBIMNBXFMA3KGPZIVJA6A/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Sep 2024 08:36:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UQGLAZVF45OTHP7S64DPQDVPSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지역 자영업자로부터 돈 봉투를 수수했다는 의혹으로 구속영장이 청구된 정우택 전 국회의원이 영장실질심사에 출석해 취재진 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정우택 전 국회의원이 자영업자로부터 청탁 대가로 돈 봉투를 받은 혐의로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;충북경찰청 반부패경제범죄수사대는 정 전 의원을 뇌물수수, 알선수재 등 혐의로 불구속 송치했다고 4일 밝혔다. 그의 보좌관 2명도 뇌물수수 등의 혐의로 함께 넘겨졌다.&lt;br&gt;&lt;br&gt;정 전 의원은 2022년 청주 상당 국회의원 보궐선거를 전후로 A씨에게 수백만원을 수수한 혐의를 받고 있다. 보좌관들도 그에게 돈을 받고 음식물을 대접받은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 정 전 의원이 돈 봉투를 대가로 상수원보호구역 내 불법영업으로 중단된 카페 영업을 다시 할 수 있도록 해달라거나, 대기업 계열사 협력업체 선정 등을 받게 해달라는 청탁을 받은 것으로 보고 있다.&lt;br&gt;&lt;br&gt;정 전 부의장은 부정한 돈을 받은 적이 없고 음모라며 혐의를 전면 부인하고 있다.&lt;br&gt;&lt;br&gt;경찰은 또 이 같은 사실을 언론사에 제보하도록 사주했다는 의혹을 받은 윤갑근 변호사와 이필용 전 음성군수에게도 공직선거법상 기부행위 등의 혐의를 적용해 불구속 송치했다.&lt;br&gt;&lt;br&gt;이들은 돈 봉투를 건네는 모습이 찍힌 방범카메라(CCTV) 영상을 언론사에 제보하면 변호사 비용을 대납해주겠다고 A씨와 약속한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;정 전 부의장의 ‘돈 봉투 수수’ 의혹은 지난 2월 한 언론에서 정 전 부의장이 A씨로부터 흰 봉투를 받아 주머니에 넣는 모습이 담긴 영상이 공개되면서 불거졌다. 국민의 힘은 이 같은 논란이 불거지자 총선 한달을 앞두고 정 전 의원의 공천을 취소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>58세 상사가 30살 어린 후배에 “좋아해"… 스토킹 1심 유죄</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/04/UJK7MOKRW5HCXJCMEZSYUXZB2E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/04/UJK7MOKRW5HCXJCMEZSYUXZB2E/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Sep 2024 08:31:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FWVKJ6E7ECWRHGOCADSEFAOAPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지법 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신보다 30살가량 어린 동료에게 이성적으로 좋아한다고 고백하고 수십 차례 연락한 50대 경찰 공무원이 스토킹 혐의로 1심에서 유죄를 선고받았다.&lt;br&gt;&lt;br&gt;4일 법조계에 따르면, 서울중앙지법 형사24단독 유동균 판사는 스토킹처벌법 위반 혐의로 기소된 A씨(58)에게 지난달 29일 벌금 300만원의 선고를 유예했다.&lt;br&gt;&lt;br&gt;경찰관인 A씨는 지난 2022년 2월~작년 7월 함께 근무한 20대 B씨를 스토킹한 혐의를 받는다. A씨는 근무지가 바뀐 작년 8월 B씨에게 전화해 “이성적으로 좋아한다”며 고백했다. B씨가 이를 거절하며 연락하지 말라고 했지만, A씨는 그해 8월부터 올해 1월까지 47차례에 걸쳐 전화와 메시지를 지속적으로 보낸 것으로 조사됐다.&lt;br&gt;&lt;br&gt;유 판사는 “A씨는 30세가량 어린 직장 동료의 의사에 반해 전화하거나 메시지를 보냈다”며 “상관인 A씨로부터 원치 않는 연락을 받은 피해자는 상당한 심리적 불안감과 불쾌함을 호소했다”고 밝혔다. 다만 A씨가 잘못을 인정하고 피해자인 B씨가 처벌 원치 않는다며 선고를 유예했다. 선고유예는 혐의는 인정되지만, 경미한 경우 선고를 미뤄 일정 기간 범죄를 짓지 않으면 없던 일로 해주는 판결이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>귄익위 “이재명 헬기 이송한 부산소방·병원 직원 공직자 강령 위반”</title>
@@ -928,15 +941,6 @@
       <description/>
       <pubDate>Wed, 04 Sep 2024 06:17:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PY6AW7CHZ5FRPEPX2WBNZ54YYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2월 이낙연 전 국무총리가 여의도 당사에서 기자회견을 하고 있다./이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이낙연 전 국무총리를 협박해 금품을 뜯으려 한 70대 남성에 대해 법원이 징역형의 집행유예를 내렸다.&lt;br&gt;&lt;br&gt;4일 오전 서울남부지법 형사6단독 노태헌 판사는 공갈미수 혐의를 받는 나모(78)씨에 대해 징역 8개월에 집행유예형을 선고했다&lt;br&gt;&lt;br&gt;노 판사는 “피고인이 여러 차례에 걸쳐 공갈을 하며 8600만원을 받고자 해 죄질이 좋지 않다”며 “정치인에 대한 범죄가 정치적인 테러로 판단되면 민주주의에 대한 도전이기 때문에 엄중한 처벌이 불가피하다”고 했다.&lt;br&gt;&lt;br&gt;다만 노 판사는 “이 사건의 경우 정치적 테러보다는 사적 분쟁에서 비롯된 것이라고 판단했다”며 “피고인의 공갈이 미수에 그친 점, 자백하고 반성하는 모습을 보이고 있는 점 등을 고려해 이번에 한해 특별히 집행을 유예한다”고 했다. 이어 피고인에게 “공소사실에 포함되지 않았지만 위험한 상황이 벌어질 우려가 보인다고 판단된다”며 “추후에도 비슷한 사건이 있게 되면 그때는 엄한 처벌을 받게 될 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;검찰에 따르면 나씨는 약 10년 전부터 피해자를 위해 수천만원을 사용했다고 주장하며 변제를 요구했다. 이를 거절당하자 나씨는 지난해 8월부터 지난 5월까지 30여회에 걸쳐 이 전 총리에게 금품을 요구한 혐의를 받는다.&lt;br&gt;&lt;br&gt;또한 나씨는 이 전 총리에게 ‘내가 살아있는 동안에는 절대로 안 된다는 것을 분명히 기억해야 할 것이다’ ‘항상 조심해서 다녀라. 어디든 보고 있을 테니까’ 등의 문자메시지도 보낸 것으로 조사됐다&lt;br&gt;&lt;br&gt;나씨는 지난해 7월 서울 종로구의 한 예식장에서 흉기를 소지한 채 이 전 총리를 위협했던 것으로도 파악됐다. 이 전 총리 측은 “나씨가 ‘2014년 전남도지사 선거 때부터 이 전 총리를 도우며 거액을 썼다’고 주장하며 돈을 돌려달라고 요구해왔다”고 했다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난달 14일 열린 결심공판에서 나씨에게 징역 2년형을 구형했다. 나씨 측은 이날 공소사실을 모두 인정한다고 입장을 밝혔다. 나씨 측은 “피고인이 피해자를 위해 장기간 지원과 노력을 해왔다는 점, 피고인이 현재 깊이 반성하는 점 등을 고려해 선처를 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>기초연금 40만원으로 올리고 생계급여 동시 수령 가능</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/09/04/PEPQI5XDGRFJPKBUB36NZXPNHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/04/PEPQI5XDGRFJPKBUB36NZXPNHA/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Sep 2024 05:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LVVVMDNUC5OFDAK3V2E6OUNDQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 29일 서울 서대문구 국민연금공단 서울북부지역본부에서 시민들이 연금 상담을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 연금 개혁으로 저소득 어르신은 물론, 청년층의 출산·군 복무에 대한 지원이 모두 두터워진다.&lt;br&gt;&lt;br&gt;4일 보건복지부는 “기초연금을 40만원으로 단계적으로 인상한다” 밝혔다. 기초연금은 만 65세 이상 노인 중 소득이 하위 70%인 노인에게만 지급된다. 현재는 33만4810원이다. 2026년에는 기준중위소득(전체 가구를 소득 순으로 나열했을 때 중간에 오는 가구의 소득) 50% 이하인 저소득 노인의 기초연금을 우선 40만원으로 올리고, 2027년에는 기초연금을 받는 전체 노인들이 40만원씩 받는다.&lt;br&gt;&lt;br&gt;‘줬다 뺏는’ 현행 기초연금의 문제도 손질한다. 지금은 기준중위소득 32% 이하의 저소득 노인이 생계급여를 받을 때 기초연금만큼을 빼고 받는다. 생계급여 수급자는 자신의 소득을 뺀 만큼 생계급여를 받을 수 있는데, 소득을 산정할 때 기초연금이 전액 포함되기 때문이다. 이에 정부는 기초연금과 생계급여를 둘 다 받는 노인에게 기초연금의 일정 비율을 추가로 지급하고, 기초연금을 생계급여 소득 인정액에서 제외하는 방안을 추진한다.&lt;br&gt;&lt;br&gt;또한, 기초연금 수급 조건에 ‘성인일 때 5년 이상 국내 거주’ 항목을 추가한다. 오랫동안 해외에 살다가 기초연금을 받을 나이가 돼서야 한국에 들어온 복수 국적자들이 아무 기여도 없이 일반 국민과 똑같이 기초연금을 받고 있다는 지적에 따른 것이다. 또 해외에 사는 복수 국적자도 우리나라에 소득·재산 신고를 하도록 의무화할 방침이다.&lt;br&gt;&lt;br&gt;출산·군 복무에 대한 ‘크레디트’ 지원도 늘어난다. 우리나라 국민연금은 출산·군 복무 기간 보험료를 내지 않아도 해당 기간 일부를 가입 기간으로 인정하고 있다. 이러한 크레디트 지원을 강화해 청년들의 소득 공백을 보상하겠다는 것이다.&lt;br&gt;&lt;br&gt;출산 크레디트는 첫째부터 가입 기간으로 인정하기로 했다. 현재는 둘째부터 12개월, 셋째 이상부터 18개월 등 최대 50개월을 지원한다. 앞으로는 첫째부터 12개월의 가입 기간을 인정해주고, 최대 50개월이었던 상한도 사라진다. 이 기간 동안 국민연금 전체 가입자의 3년 평균 소득을 100% 인정해준다.&lt;br&gt;&lt;br&gt;군 복무 크레디트도 확대한다. 현재는 현역병, 상근예비역, 사회복무요원 등으로 복무한 사람에게 최대 6개월 동안 전체 가입자 3년 평균 소득의 50%를 인정한다. 앞으로는 군 복무 기간 전체를 인정 기간으로 확대한다. 육군·해병대 18개월, 해군 20개월, 공군·사회복무요원 21개월 등이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>연금개혁 재시동…내는 돈은 4%, 받는 돈은 2% 올린다</title>
