@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>이영창 화우 변호사, 'GCR 40 Under 40' 선정</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/201181.jpg" alt="201181.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.hwawoo.com/kor/main?lang=ko" target="_blank"&gt;&lt;b&gt;법무법인 화우&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8808"&gt;이명수&lt;/span&gt;)는 6일&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="31147"&gt;이영창&lt;span style="font-weight: 400;"&gt;(39·변호사시험 4회)&lt;/span&gt;&amp;nbsp;&lt;/span&gt;변호사가 글로벌 경쟁법 전문저널인 GCR에서 '40세 미만의 가장 유망한 차세대 경쟁법 변호사(GCR 40 Under 40)'로 선정됐다고 밝혔다.&lt;br /&gt;&lt;br /&gt;이영창 변호사는 "앞으로 국내 공정거래 분야의 전문성을 강화하는 동시에, 현재 세계 시장에서 발생하고 있는 공정거래 문제의 해결에 앞장설 수 있도록 변호사로서 국제적 역량 강화에 힘쓰겠다"고 말했다. &lt;br /&gt;&lt;br /&gt;이 변호사는 2017년 법무법인 화우에 입사한 이후 줄곧 공정거래 분야에서 활동하고 있는 화우 공정거래그룹 파트너 변호사다. 공정거래위원회(KFTC) 조사대응 및 행정소송, 컴플라이언스 관련 자문 업무 등을 주로 담당하며 다양한 유형의 카르텔, 부당지원(사익편취), 기업결합, 하도급법 위반, 가맹사업법 위반 사건 등을 수행해 왔다. &lt;br /&gt;&lt;br /&gt;1997년 창간한 공정거래 분야 전문지 GCR(Global Competition Review)은 매년 가장 주목할 만한 공정거래 분야 사건과 우수 경쟁당국, 로펌, 변호사 등을 선정하고 있다. &lt;br /&gt;&lt;br /&gt;</description>
+			<pubDate>Fri, 06 Sep 2024 02:32:26 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201181</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201181</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201181.jpg</media:thumbnail>
+			<dc:creator>이진영 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 법조】 2024년 9월 6일</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[법원]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷'직권남용권리행사방해 등 혐의' 서훈 전 청와대 국가안보실장 외 4명 32차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시, 서울중앙지법&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷'공직선거법위반 혐의' 이재명 더불어민주당 대표 28차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시30분, 서울중앙지법&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷'특정경제범죄가중처벌등에관한법률위반(횡령) 등 혐의' 황욱정 KDFS 대표 외 1명 항소심 1회 공판기일&lt;/b&gt;&lt;br /&gt;-서울고법, 오전 11시30분&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[로펌]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷법무법인 태평양 '신우주산업을 쏘아 올리며-선행 사례와의 비교' 세미나&lt;/b&gt;&lt;br /&gt;-오후 2시, 서울 종로구 공평동 센트로폴리스 B동 25층 태평양 세미나실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷법무법인 화우·한국사내변호사회, '개인정보 정책 및 규제 대응' 세미나&lt;/b&gt;&lt;br /&gt;-오후 2시, 서울 강남구 삼성동 아셈타워 34층 화우연수원&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[학계]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷한국법학교수회, '창립 60주년' 기념식 및 학술대회&lt;/b&gt;&lt;br /&gt;-오전 10시, 서울 플라자 호텔 그랜드볼룸, 메이플홀, 오키드홀&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:2px 0 0 0; border-style:bold; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[오늘의 PICK ]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷국가끼리 판결 집행 상호보증… 헤이그협약 가입 서두를 때다&lt;/b&gt;&lt;br /&gt;대한민국 법원의 재판 효력을 외국 법원에서 보다 안정적으로 인정받고 집행할 수 있도록 ‘헤이그재판협약’ 가입을 서둘러야 한다는 의견이 법원 안팎에서 나오고 있다. 특히 외국 기업 등 외국 당사자가 개입된 민·상사 사건에서 한국 사법부의 재판 신뢰도를 높이고 기판력을 넓히기 위해 가입이 시급하다는 지적이다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/201096" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;b&gt;&lt;br /&gt;▷[인터뷰] “티메프 내년 상반기 M&amp;A 전망” - 회생절차협 참여 최효종 변호사&lt;/b&gt;&lt;br /&gt;대규모 정산과 환불 지연 사태를 일으킨 티몬과 위메프가 ‘자율적 구조조정 지원(Autonomous Restructuring Support·ARS)’ 절차 진행을 연장하지 않기로 한 가운데, 회생절차 협의회에 유일한 채권자 측 변호사로서 참여한 최효종(50·사법연수원 34기) 법무법인 린 변호사는 법률신문과의 인터뷰에서 “현시점에서 ARS 절차 진행 중단은 필요하고 시급한 일”이라며 “특별한 돌발사태가 없다면 회생절차는 개시될 것이고, 내년 상반기 중에는 인수합병이 완료될 것으로 생각한다”고 밝혔다.&lt;br /&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/201092" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;</description>
 			<pubDate>Thu, 05 Sep 2024 22:36:04 -0000</pubDate>
@@ -228,16 +238,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201129</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201129.jpg</media:thumbnail>
 			<dc:creator>유지인 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 대륜, 前 부장검사 출신 남상관 변호사 영입</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/201130.jpg" alt="201130.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.daeryunlaw.com/" target="_blank"&gt;&lt;b&gt;법무법인 대륜&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3573"&gt;김국일&lt;/span&gt;)은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2017"&gt;남상관&lt;/span&gt;(57·사법연수원 30기) 전 부장검사를 최고총괄변호사로 영입했다고 4일 밝혔다. &lt;br /&gt;&lt;br /&gt;남 전 부장검사는 1998년 제40회 사법시험에 합격, 2001년 창원지검 검사로 임관해 2015년 서울중앙지검 부부장검사, 2016년 부산지검 공판부장검사 등을 역임했다. 2019년에는 서울중앙지검 중요경제범죄조사2단 부장검사, 2020년 서울동부지검 중요경제범죄조사단 부장검사 등을 지냈다. 2024년 서울북부지검 중요경제범죄조사단 부장검사를 끝으로 검사생활을 마쳤다.&lt;br /&gt;&lt;br /&gt;남 전 부장검사는 검사 시절 △담보부 부실채권 투자 명목 사기 사건 △여중생 상대 촬영물 유포 협박 강간 사건 △10대 청소년 후배 폭행 사망 매장 사건 등 사회적으로 주목받는 사건들을 수행했다.&lt;br /&gt;&lt;br /&gt;이러한 성과를 바탕으로 대한변호사협회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2700"&gt;김영훈&lt;/span&gt;) 2023 검사평가에 우수 검사로 선정되기도 했다.&lt;br /&gt;&lt;br /&gt;남 전 부장검사는 충북 청주시 서원구에 위치한 법무법인 대륜 청주 분사무소에서 근무할 예정이다. &lt;br /&gt;&lt;br /&gt;그는 "대륜에서 그간 쌓아온 풍부한 경험과 탁월한 역량을 발휘할 수 있게 돼 기쁘다"며 "최고의 법률서비스를 제공하겠다"고 말했다.&lt;br /&gt;</description>
-			<pubDate>Wed, 04 Sep 2024 02:35:52 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201130</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201130</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201130.jpg</media:thumbnail>
-			<dc:creator>안현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
