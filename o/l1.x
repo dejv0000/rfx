@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>"코로나 격리자의 가구원이 행정기관 근로자 경우 생활비 지원 제외는 합헌"</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/201162.jpg" alt="201162.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;코로나19 격리자와 한집에 사는 식구(가구원)가 행정기관의 근로자인 경우, 생활지원비 지원을 제한하는 코로나19 입원·격리자를 위한 생활지원사업 지침은 헌법에 어긋나지 않는다는 헌법재판소의 첫 결정이 나왔다.&lt;p&gt;   &lt;br /&gt;헌재는 지난달 29일 A 씨가 이 같은 내용을 담은 '코로나바이러스감염증-19 관련 입원·격리자 생활지원비 지원사업 안내 2-5판'('해당 안내') 등이 위헌이라며 청구한 헌법소원 사건(&lt;b&gt;2021헌마450&lt;/b&gt;)에서 재판관 전원일치 의견으로 기각 결정했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;A 씨는 2021년 3월 코로나19 확진자와 접촉해 자가격리 통보를 받고 격리 조치를 한 뒤 격리자에 대한 생활지원비 지원을 신청했다. 그러나 A 씨의 아버지가 '부패방지 및 국민권익위원회의 설치와 운영에 관한 법률(부패방지권익위법)' 제2조 제1호 가목의 정부조직법에 따른 각급 행정기관의 근로자라는 이유로 생활지원비 지원 제외 대상이란 안내를 받았다. A 씨는 질병관리청장이 같은 해 3월 발령한 '해당 안내'에 첨부된 안내문 중 격리자의 가구원이 국가, 공공기관, 국가 등으로부터 인건비 재정지원을 받고 있는 기관 등의 근로자인 경우를 지원 제외 대상으로 규정한 부분 등이 평등권 등을 침해한다며 헌법소원을 청구했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;헌재는 "감염병예방법에 따른 생활지원비는 입원·격리 기간에 소득활동을 하기 어려운 점을 고려해 이들의 생활 안정을 위해 한시적으로 지원되는 금전으로, 감염병예방법상 생활지원비 지원 주체인 질병관리청장은 생활지원비 지원의 취지, 재정부담 능력, 감염병 확산 상황 등 제반 사정을 고려해 지원 대상의 범위 등을 어떻게 설정할지에 관한 광범위한 입법재량을 가진다"고 판단했다.         &lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이어 "한정된 재원으로 입원·격리자의 생활안정을 도모하기 위해서는 입원·격리로 인해 생계가 곤란하게 될 위험성을 고려해 지원 대상의 범위를 제한할 필요가 있고, 이 사건 심판청구 무렵은 코로나19가 급속히 늘던 때여서 생활지원비를 지원해야 할 입원·격리자가 늘고 있는 상황이었다"라며 "격리자의 가구원이 행정기관 근로자인 경우 그 행정기관 근로자가 입원하거나 격리자와 함께 격리되더라도 입원·격리기간에 병가, 공가 등 유급휴가를 받을 수 있어 격리자를 포함한 해당 가구가 생계 곤란을 겪을 위험이 현저히 낮다"고 설명했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;그러면서 "제외 규정이 생계를 같이하는 경제공동체인 가구 단위로 생활지원비를 지원하면서 격리자의 가구원이 행정기관 근로자인 경우를 지원 제외 대상으로 규정한 데에는 합리적 이유가 있으므로 이 사건 제외 규정은 청구인의 평등권을 침해하지 않는다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Fri, 06 Sep 2024 03:07:13 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201162</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201162</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201162.jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
 			<title>이영창 화우 변호사, 'GCR 40 Under 40' 선정</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/201181.jpg" alt="201181.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.hwawoo.com/kor/main?lang=ko" target="_blank"&gt;&lt;b&gt;법무법인 화우&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8808"&gt;이명수&lt;/span&gt;)는 6일&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="31147"&gt;이영창&lt;span style="font-weight: 400;"&gt;(39·변호사시험 4회)&lt;/span&gt;&amp;nbsp;&lt;/span&gt;변호사가 글로벌 경쟁법 전문저널인 GCR에서 '40세 미만의 가장 유망한 차세대 경쟁법 변호사(GCR 40 Under 40)'로 선정됐다고 밝혔다.&lt;br /&gt;&lt;br /&gt;이영창 변호사는 "앞으로 국내 공정거래 분야의 전문성을 강화하는 동시에, 현재 세계 시장에서 발생하고 있는 공정거래 문제의 해결에 앞장설 수 있도록 변호사로서 국제적 역량 강화에 힘쓰겠다"고 말했다. &lt;br /&gt;&lt;br /&gt;이 변호사는 2017년 법무법인 화우에 입사한 이후 줄곧 공정거래 분야에서 활동하고 있는 화우 공정거래그룹 파트너 변호사다. 공정거래위원회(KFTC) 조사대응 및 행정소송, 컴플라이언스 관련 자문 업무 등을 주로 담당하며 다양한 유형의 카르텔, 부당지원(사익편취), 기업결합, 하도급법 위반, 가맹사업법 위반 사건 등을 수행해 왔다. &lt;br /&gt;&lt;br /&gt;1997년 창간한 공정거래 분야 전문지 GCR(Global Competition Review)은 매년 가장 주목할 만한 공정거래 분야 사건과 우수 경쟁당국, 로펌, 변호사 등을 선정하고 있다. &lt;br /&gt;&lt;br /&gt;</description>
 			<pubDate>Fri, 06 Sep 2024 02:32:26 -0000</pubDate>
@@ -228,16 +238,6 @@
 			<link>https://www.lawtimes.co.kr/news/201131</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201131</guid>
 			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 린, 원유철·이후삼 前 의원 영입…"GR팀 본격 출범"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201129.jpg" alt="201129.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;원유철 전 미래한국당 대표 · 이후삼 전 더불어민주당 의원&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.law-lin.com/" target="_blank"&gt;&lt;b&gt;법무법인 린&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7428"&gt;임진석&lt;/span&gt;)은 최근 원유철 전 미래한국당 대표와 이후삼 전 더불어민주당 의원을 고문으로 영입하며 GR(Government Relations)팀을 공식 출범했다. &lt;br /&gt;&lt;br /&gt;린 GR팀은 법률안과 관련해 행정부와 국회 대응을 지원하고, 국정감사 증인 출석 관련 자문을 제공하는 역할을 한다. 원 전 대표와 이 전 의원은 국회의원 경력을 바탕으로 GR팀에서 정부규제 및 입법대응, 국정감사 대응 자문 등을 제공할 예정이다. &lt;br /&gt;&lt;br /&gt;원 고문은 5선 의원으로, 여당의 원내대표 및 당대표권한대행, 미래한국당 대표, 경기도 정무부지사 등을 역임했다. 이 고문은 더불어민주당 중앙당 정책위부의장 등 당의 주요 직책을 지내고, 이후 2021년부터 올해까지 공항철도 사장을 역임했다. &lt;br /&gt;&lt;br /&gt;린 GR팀은 김앤장 출신의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15264"&gt;김종식&lt;/span&gt;(51·사법연수원 37기) 변호사가 총괄한다. 경제부총리 경제규제혁신 태스크포스(TF)에서 활동하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4166"&gt;구태언&lt;/span&gt;(55·24기) 변호사, 국회의원실 비서관 출신&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="29689"&gt;강민구&lt;/span&gt;(45·변호사시험 5회) 변호사, 감사원 국장 출신의 엄광섭 전문위원, 한국거래소 법무팀장 출신의 엄세용 전문위원 등이 소속돼 있다. &lt;br /&gt;&lt;br /&gt;또한, 린은 올해 공정거래위원회 상임위원 출신의 박재규 고문, 현대카드 등에서 대외협력 업무를 총괄한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10351"&gt;성해경&lt;/span&gt;(49·33기) 변호사, 민주당 비상근 부대변인 출신의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15067"&gt;배태준&lt;/span&gt;(43·37기) 변호사를 영입하기도 했다. &lt;br /&gt;&lt;br /&gt;린 관계자는 “22대 국회의 첫 국정감사를 앞두고, 규제에 직면한 기업들에게 법률 서비스를 제공할 계획”이라고 말했다.</description>
-			<pubDate>Wed, 04 Sep 2024 02:41:46 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201129</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201129</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201129.jpg</media:thumbnail>
-			<dc:creator>유지인 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
