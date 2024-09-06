@@ -13,6 +13,97 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘어업지도선’ 부품 교체 사업 뒷돈 챙긴 공무원…해경, 구속 송치</title>
+      <link>https://www.chosun.com/national/incident/2024/09/06/VPMWJN3S4VEHJAXBK3JYJGP2FM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/06/VPMWJN3S4VEHJAXBK3JYJGP2FM/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Sep 2024 14:03:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YG5GJL6FIBE3VG2V52OPTQRLW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해양경찰청 전경. /해경청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어업지도선 부품 교체 사업 과정에서 사업자와 공모해 1억 원을 챙긴 혐의를 받는 인천 옹진군 소속 공무원이 구속 송치됐다.&lt;br&gt;&lt;br&gt;해양경찰청 중대범죄수사과는 업무상 배임, 허위공문서 작성 등 혐의로 옹진군 소속 공무원 40대 남성 A씨를 구속해 검찰에 송치했다고 6일 밝혔다. 또 같은 혐의로 선박 부품 납품업체 대표 50대 남성 B씨를 불구속송치 했다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 2020년 6월 인천시 옹진군 어업지도선 ‘인천228호’ 부품 교체 사업을 추진하면서 사업비 1억 원을 챙겨 옹진군에 손해를 끼친 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;해경은 총 15억 원의 인천 228호 부품 교체 사업비 중 예비 부품비 명목으로 편성된 1억 원을 B씨로부터 받아 챙긴 것으로 보고 있다.&lt;br&gt;&lt;br&gt;B씨는 “A씨가 예비 부품을 사용하지 않았다며 1억 원을 돌려달라고 해 현금으로 줬다”고 해경에 진술한 것으로 파악됐다. 그러나 A씨는 “돈을 받은 적이 없다”며 부인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;해경 관계자는 “A씨는 돈을 받지 않았다며 예비 부품을 구입했다고 하지만, 구입한 부품은 인천 228호에는 맞지 않는 부품이고 구입 시기도 교체 사업 추진 이후“라며 “A씨와 B씨가 공모해 범행한 것으로 보고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>35도 폭염 속 링거 꽂고 ‘터벅터벅’… 환자복 입은 남성, 무슨 일?</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/06/ZJ54A5X4CZDGNF7T2XAJZZIMDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/06/ZJ54A5X4CZDGNF7T2XAJZZIMDM/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Sep 2024 13:36:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YD6QAWZTAJGEFF77X3RKFY4VX4.png"&gt;&lt;figcaption&gt;&lt;small&gt;폭염 속 병원복을 입고 갓길을 걷고 있는 치매 노인. /경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;35도에 이르는 폭염 속에서 거리를 배회하던 치매 노인이 경찰에 구조됐다. &lt;br&gt;&lt;br&gt;6일 경찰에 따르면, 지난달 6일 오후 4시쯤 충청남도 예산군의 한 도로에서 순찰을 돌던 경찰이 갓길을 걷고 있는 노인을 발견했다. 환자복 차림의 이 남성은 한쪽 팔에 링거를 꽂은 채 터벅터벅 걸어가고 있었다. &lt;br&gt;&lt;br&gt;이날 낮 최고 기온이 30도를 훌쩍 넘겼고, 노인 옆으로는 차들이 달리는 상황이었다. 이 모습을 의아하게 여긴 경찰은 차를 세운 뒤 노인에게 다가가 “혹시 어디로 가고 계시냐”고 물었다. 그런데  노인은 경찰에게 “집에 가야된다”는 말만 반복하며 횡설수설했다. 그는 인적사항을 물어도 답하지 못했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KZHNSLRAKNBO7HUAMDZ4DCGDVU.png"&gt;&lt;figcaption&gt;&lt;small&gt;폭염 속 병원복을 입고 갓길을 걷고 있는 치매 노인. /경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 노인이 병원에서 나왔다가 길을 잃은 것으로 보고 순찰차에 태워 옷에 적혀 있던 병원으로 데려갔다. 그곳에서 경찰은 노인을 찾고 있던 가족을 만나 안전하게 인계했다. 이 노인은 치매를 앓고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 장면은 경찰청 유튜브에도 올라왔다. 영상을 본 네티즌들은 “치매가 이렇게 무섭다. 환자복에 병원 이름 쓰는 이유가 있네” “저희 어머니도 치매인데 경찰 도움을 받은 적 있다” “폭염인데 그냥 지나쳤으면 어떻게 됐을까, 순찰 지역인 게 천만다행” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정은지에 “반려자로 받아줘”...스토킹 50대 여성 2심서 일부 감형 왜</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/06/D74XHEPW5ZBRTKGKXSA7WX3ZH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/06/D74XHEPW5ZBRTKGKXSA7WX3ZH4/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Sep 2024 12:15:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W2UGNB56DJPXRI25WFRLUMPPGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 정은지. /IST엔터테인먼트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;걸그룹 에이핑크 정은지씨에게 수백 차례 연락하고 집까지 쫓아간 스토커가 항소심에서도 징역형 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;6일 법조계에 따르면, 서울중앙지법 형사항소1-2부(재판장 안희길)는 지난 5일 스토킹처벌법 위반 혐의로 기소된 조모(59)씨에게 1심과 같은 징역 1년에 집행유예 2년, 벌금 10만원, 스토킹 범죄 재범 예방 강의 40시간 수강 명령을 선고했다.&lt;br&gt;&lt;br&gt;다만 1심에서 명령한 보호관찰, 사회봉사 120시간 명령은 파기했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “조씨는 장기간에 걸쳐 범행을 저질렀을 뿐만 아니라 피해자의 명시적인 거부 의사가 있었음에도 범행을 반복한 점 등을 종합하면 죄질이 나쁘고 죄책이 가볍지 않다”고 지적했다. 다만 “당심에 이르러 원심에서 부인하던 부분을 모두 인정하면서 잘못을 진심으로 반성하는 것으로 보인다”며 “형사 처벌 전력이 없는 점, 피해자와의 관계 등 모두 종합하면 원심 형은 다소 무거워 부당하다”고 판단했다.&lt;br&gt;&lt;br&gt;조씨는 2020년 3월~2021년 12월 정씨의 집에 찾아가거나 인스타그램, 팬 소통 플랫폼 ‘버블’ 등을 통해 메시지 수백 개를 보낸 혐의를 받는다. 그는 정씨에게 ‘저를 당신의 집사로, 반려자로 받아주시겠습니까?’라는 메시지를 보냈던 것으로 조사됐다. 이에 정씨가 지난 2021년 12월 “버블 사용을 중단한다”고 밝히기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주말 낮 최고 34도 ‘더운 가을’...다시 폭염·열대야</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/09/06/N5VOPA4JYJFYLOCICNVVXFQSOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/09/06/N5VOPA4JYJFYLOCICNVVXFQSOQ/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Sep 2024 11:46:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2HHKSH747JGZPAVW75KEY6DYKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 더위가 이어지는 가운데 경북 경주시 인왕동 첨성대 인근 해바라기 군락지에서 브루나이 관광객들이 기념사진을 찍고 있다.이날 경주 지역 낮 최고 기온 31도를 기록했다./김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동해상에서 불어오는 동풍(東風)의 영향으로 이번 주말 수도권을 중심으로 폭염 수준의 더위가 찾아올 전망이다. 밤 기온은 떨어졌지만 낮 기온이 가파르게 오르면서 최고 34도에 육박하는 ‘더운 가을’이 한동안 이어질 것으로 보인다.&lt;br&gt;&lt;br&gt;6일 기상청에 따르면, 주말인 7~8일 우리나라는 중국 북부 지방에서 남쪽으로 이동하는 이동성 고기압의 영향으로 낮 동안 기온이 크게 오를 것으로 예상된다. 특히 태백산맥을 넘으며 뜨거워진 동풍이 수도권과 충청권, 남부 지방에 열풍을 공급해 기온을 끌어올릴 전망이다. 6일 기준 경기 남부와 일부 충청·전북·전남·경남권에 발효된 폭염특보가 확대할 수 있다. 7~8일 밤 최저기온은 20~25도, 낮 최고기온은 26~33도로 예보됐다. 일교차가 커지면서 7~8일 각각 수도권을 제외한 전국에 5~20㎜의 소나기가 내리겠다.&lt;br&gt;&lt;br&gt;기온은 점점 높아져 다음 주부턴 낮 최고기온이 34도까지 오를 것으로 보인다. 기상청은 중기 예보에서 9~16일 기온이 최저 19~26도, 최고 27~34도의 분포를 보일 것으로 내다봤다. 일부 지역에선 다시 열대야(밤 최저기온 25도 이상)가 기승을 부릴 수도 있다. 11~12일엔 동풍의 영향으로 강원영동에 비가 내리겠고, 12~13일엔 제주도에 비가 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘전화할 수 있으면 경증’ 발언으로 의료계 반감...박민수 차관 사과</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/09/06/LBP54XCRKVEPNK5TAZRFGG6VRA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/06/LBP54XCRKVEPNK5TAZRFGG6VRA/</guid>
+      <dc:creator>안준용 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Sep 2024 11:48:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/46YCC2XNARPDPA3MM5YM5N2NQQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;박민수 보건복지부 제2차관이 6일 오후 서울 서초구 국제전자센터에서 열린 '제17차 건강보험정책심의위원회'에서 모두발언을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 4일 “환자 본인이 전화할 수 있으면 경증”이라고 발언해 구설에 오른 박민수 보건복지부 2차관이 이틀 만인 6일 “유감의 뜻을 표한다”며 사과했다.&lt;br&gt;&lt;br&gt;박 차관은 이날 서울 서초구 국제전자센터에서 열린 건강보험정책심의위원회 모두 발언에서 “과도한 일반화를 하는 바람에 여러분께 걱정과 심려를 끼쳤다”며 이같이 말했다. 그는 “(경증 환자들에게) 동네 병의원이나 작은 기관의 응급실 방문을 요청하려다 일반화가 이뤄졌다”고 했다.&lt;br&gt;&lt;br&gt;박 차관은 지난 4일 MBC라디오에서 환자나 보호자가 경증 여부를 어떻게 판단하느냐는 질문에 “본인이 경·중증을 판단해 (의료 기관에) 갈 순 없다”면서도 “본인이 전화를 해서 알아볼 수 있는 상황이라는 것 자체가 사실은 경증이라고 이해하면 된다”고 했다. 이에 대한의사협회는 “전화로 쉽게 경·중증 판단이 가능하다는 게 정부 입장이라면 현재 국정 운영 상태가 중증인 것”이라며 박 차관 경질을 요구했다.&lt;br&gt;&lt;br&gt;이와 관련해 정윤순 복지부 보건의료정책실장은 이날 의료 관련 브리핑에서 총 5등급으로 나뉘는 우리나라 응급 환자 중증도 분류 기준(KTAS)에 관해 설명하며 “이런 기준으로 환자 스스로 (경·중증을) 판단하긴 어렵기 때문에 얼마나 위중한지 등에 대한 전문적 판단이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;한편 한국갤럽이 지난 3~5일 전국 18세 이상 1001명을 조사한 결과, ‘내년 의대 신입생은 (증원해서) 약 4500명 선발하되, 2026학년은 기존 수준인 3000여 명만 뽑고 이후 증원 규모를 재논의하자’는 안에 응답자 48%가 찬성했다. 반대는 36%, 의견 보류는 16%로 나타났다. 내년 의대 증원과 관련해선 ‘잘된 일’이라는 응답이 56％, ‘잘못된 일’이라는 응답이 34％로 집계됐다. 6월 조사(잘된 일 66%, 잘못된 일 25%)보다 긍정 응답이 줄고 부정 응답은 늘었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한글과컴퓨터 50대 직원, 사옥 11층서 투신</title>
+      <link>https://www.chosun.com/national/incident/2024/09/06/22VAK47VXVGXTC2SSRH6QVE35M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/06/22VAK47VXVGXTC2SSRH6QVE35M/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Sep 2024 11:06:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HCVSJKHOJUEUO2XB7NYQUFHA3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 분당경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 성남에 있는 한글과컴퓨터 사옥에서 50대 남성이 투신하는 사건이 발생해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;6일 경기 분당경찰서 등에 따르면 이날 오후 3시 20분쯤 경기 성남시 분당구 한글과컴퓨터 사옥 11층 옥상에서 50대 A씨가 투신해 3층 테라스로 떨어져 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 이 회사 직원인 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 회사 직원 등을 상대로 정확한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “유서는 발견되지 않았지만, 별다른 범죄 혐의점은 없는 것으로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;※ 우울감 등 말하기 어려운 고민이 있거나 주변에 이런 어려움을 겪는 가족·지인이 있을 경우 자살예방 상담전화(☎109)에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>중앙지검 “수사심의위 결정 참고해 金여사 최종 처분 예정”</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/06/W5QEMUY7TFGMTGF56MWJK5GKHI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/06/W5QEMUY7TFGMTGF56MWJK5GKHI/</guid>
+      <dc:creator>유희곤 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Sep 2024 10:42:38 +0000</pubDate>
+      <content:encoded>윤석열 대통령의 배우자 김건희 여사의 ‘디올백 수수’ 의혹을 수사한 서울중앙지검이 “검찰수사심의위원회(수사심의위) 결정과 논의 내용을 참고해 최종적으로 사건을 처분할 예정”이라고 6일 밝혔다. 이날 수사심의위가 김 여사의 청탁금지법 위반 등 6개 혐의에 대해 모두 불기소를 권고한 데 따른 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PEWE5GT6PWXKT4GEMUKRO3JNSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검 앞 전경. / 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검은 이날 언론에 배포한 입장문에서 “부장검사를 포함한 서울중앙지검 형사1부 수사팀 전원은 수사심의위에 출석해 그동안의 수사결과를 위원들에게 충실히 설명했다”고 밝혔다. 이어 “수사팀은 일체의 다른 고려 없이 증거와 법리에 따라 전원이 일치된 결론에 이르렀음을 밝혔다”며 “(김 여사가) 고발된 청탁금지법 위반, 뇌물수수 등 외에 알선수재, 변호사법 위반과 관련한 쟁점과 법리도 충분히 설명했다”고 했다.&lt;br&gt;&lt;br&gt;강일원 위원장(전 헌법재판관)을 포함한 수사심의위원 15명은 이날 서울 서초구 대검찰청에서 오후 2시부터 7시까지 5시간여 동안 논의한 뒤 김 여사에 대해 불기소할 것을 서울중앙지검 수사팀에 권고했다. 청탁금지법상 공직자 배우자에 대한 처벌 규정이 없고, 디올백이 직무 관련성과 대가성이 없어 김 여사를 처벌할 수 없다고 본 수사팀 수사 결과와 같은 의견이다. 검찰은 조만간 김 여사에 대해 무혐의 처분할 것으로 보인다.&lt;br&gt;&lt;br&gt;수사심의위는 이날 김 여사에 대해 청탁금지법 위반 혐의 뿐만 아니라 알선수재, 변호사법 위반, 뇌물수수, 증거인멸, 직권남용까지 6개 혐의에 대해 심의를 진행한 결과 모든 혐의에 대해 불기소 처분을 의결했다고 밝혔다. 김 여사에게 디올백을 건넸던 재미 교포 최재영 목사가 앞서 낸 의견서도 함께 검토했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title> [단독] 노웅래∙이정근에 금품 준 사업가, 별건 사기로 실형∙법정구속</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/06/AL34E3EZT5FRTBH2BIYRFKNJNQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/06/AL34E3EZT5FRTBH2BIYRFKNJNQ/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Sep 2024 10:34:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HELLUCJF7BBLHD3XT2LT2HZDAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 노웅래 전 의원과 이정근 전 사무부총장. &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 노웅래 전 의원과 이정근 전 사무부총장에게 각종 청탁과 금품을 건넨 혐의를 받는 사업가 박모씨가 별건 사기 혐의로 1심에서 실형(實刑)을 선고받고 법정 구속됐다.&lt;br&gt;&lt;br&gt;6일 법조계에 따르면, 서울중앙지법 형사28부(재판장 한대균)는 특정경제범죄법 위반(사기) 혐의로 기소된 박씨에게 지난 4일 징역 3년을 선고하고 법정 구속했다. 노 전 의원에게 6000만원을 건넨 혐의로 기소돼 있는 박씨는 구속 상태에서 남은 재판을 받게 됐다.&lt;br&gt;&lt;br&gt;박씨가 구속된 사기 사건은 정치인들과는 무관한 사건이다. 여러 사기 전과가 있던 박씨는 2014년 납골당을 운영하는 한 재단과 봉안증서(납골당 사용권)를 계약하겠다고 속여 약 63억원어치 증서를 뜯어낸 혐의로 기소됐다. 박씨는 서울 종로구의 한 상가 신축∙분양 사업을 추진하다가 자금이 부족하자 사기를 친 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “박씨가 증서 매매 대금을 지급할 의사나 능력이 없었는데도 피해자를 기망해 63억원 상당의 재산상 이익을 편취했다”고 판단했다. 다만 봉안증서 대부분이 회수되거나 무효 처리돼 실질적인 피해액은 5억원에 그친 것으로 나타났다. 재판부는 이러한 점을 고려해 양형을 정했다고 밝혔다.&lt;br&gt;&lt;br&gt;한편, 박씨는 뇌물 공여 및 정치자금법 위반 혐의로 기소돼 노 전 의원과 1심 재판을 받고 있다. 박씨는 2020년 2~12월 노 전 의원에게 용인 물류 단지 개발, 태양광 사업, 발전소 납품 등 청탁과 함께 5차례에 걸쳐 총 6000만원을 건넨 혐의를 받는다. 검찰은 노 전 의원이 친목 모임에서 알게 된 박씨 부인을 통해 금품을 수수하고 청탁을 전달받은 것으로 의심하고 있다.&lt;br&gt;&lt;br&gt;박씨와 그의 부인은 재판에서 돈을 건넸다고 진술했다. 금품을 건네는 과정에서 박씨 측이 녹음한 파일도 재판부에 제출됐다. 하지만 노 전 의원은 “부정한 돈을 받지 않았다” “검찰이 없는 사실을 만들어 덮어씌웠다”고 주장하고 있다.&lt;br&gt;&lt;br&gt;박씨는 또 송영길 전 민주당 대표(현 소나무당 대표)의 측근이었던 이정근씨에게도 각종 청탁 명목 금품과 불법 정치자금 등 약 10억원을 건넸던 것으로 조사됐다. 이씨는 이 사건으로 작년 12월 대법원에서 징역 4년 2개월을 확정받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“뚜껑 열 때 손동작 주의”… 서울우유, 논란 차단하려다 ‘여혐’ 역풍  </title>
+      <link>https://www.chosun.com/national/national_general/2024/09/06/LH4YLL7TJNDQROPWOZLXCUJBBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/06/LH4YLL7TJNDQROPWOZLXCUJBBM/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Sep 2024 10:28:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LSPIEZEAPNB4PJ6JDOFAWJ74OU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울우유가 그릭요거트 제품 홍보를 의뢰하면서 당부한 주의사항 중 일부. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 우유 시장 1위 ‘서울우유’가 제품 체험단에게 “논란의 여지가 있는 손동작을 주의해달라”는 안내문을 전달해 여성혐오 논란에 휘말렸다. 논란이 커지자 서울우유 측은 안내문에서 이 표현을 삭제했다.&lt;br&gt;&lt;br&gt;서울우유는 지난 3일 자사 그릭요거트 제품 홍보에 참여할 인플루언서를 모집하면서 여러 주의사항을 안내했다. 이 안내문에는 의약적 효능을 언급하지 말고, 타사 제품과 비교하지 말라는 내용 등이 담겼다.&lt;br&gt;&lt;br&gt;이중 논란이 된 건 “요거트 뚜껑을 열거나 패키지를 잡을 때 논란의 여지가 있는 손동작 사용주의 부탁드립니다”라는 문구다. 이 안내문을 읽은 네티즌들은 ‘논란의 여지가 있는 손동작’이 엄지와 검지 손가락으로 물건을 집는 ‘집게손’ 모양을 언급하는 것이라고 해석했다.&lt;br&gt;&lt;br&gt;집게손은 최근 젠더갈등의 중심에 선 표현이다. 남성 중심 온라인 커뮤니티에선 집게손이 남성 성기 크기를 조롱하는 상징이라고 주장한다. 반면 이런 주장에 대해 “일상적인 손동작의 의미를 왜곡하고 검열한다”는 반발도 있다.&lt;br&gt;&lt;br&gt;이런 상황에서 서울우유가 집게손을 암시하며 주의하라고 안내하자, “남성들의 주장을 의식해 오히려 여성혐오를 한다”는 비판이 불거진 것이다. 네티즌들은 사이에선 “집게손을 안 쓰면 물건을 집을 때 어떻게 해야 하나” “요거트를 열 때 주먹으로 열어야 하느냐”는 반응이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L5QLIV2ULJFGZJDPOOWUPZR6DA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여성을 젖소에 비유한 서울우유 광고 영상/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울우유의 과거 여성혐오 논란도 재조명되고 있다. 서울우유는 2021년 여성을 젖소에 비유한 광고를 게시했다가 여성혐오라는 비판이 일자 “불편을 느낀 모든 소비자에게 사과드린다”고 밝히고 온라인에서 영상을 삭제했다. 2003년에는 신제품 요구르트를 홍보하기 위해 여성 모델들이 몸에 요구르트를 뿌리는 누드 퍼포먼스를 해 뭇매를 맞았다. 당시 마케팅 직원은 공연음란죄로 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;서울우유는 지난 5일 온라인에서 비판이 제기되자 ‘손동작’과 관련한 주의사항을 삭제했다. 서울우유 측은 “인플루언서들이 사진을 올릴 때 사회적으로 이슈가 되지 않게 조심해달라고 가이드라인을 얘기했던 것”이라며 “모든 소비자가 불편을 느끼지 않도록 조심하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰 수사심의위, ‘디올백 의혹’ 김건희 여사 불기소 권고</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/06/BL2TMK4EL5AE5GFY2W2KAJVL4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/06/BL2TMK4EL5AE5GFY2W2KAJVL4M/</guid>
+      <dc:creator>유희곤 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Sep 2024 10:19:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JYXTV4SUZDAW5PWA5MINLD6TC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 배우자 김건희 여사./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰수사심의위원회(수사심의위)는 6일 ‘디올백 수수’ 의혹을 받는 윤석열 대통령의 부인 김건희 여사에 대해 ‘불기소’ 할 것을 서울중앙지검 수사팀에 권고했다. 청탁금지법상 공직자 배우자에 대한 처벌 규정이 없고, 디올백이 직무 관련성과 대가성이 없어 김 여사를 처벌할 수 없다고 본 수사팀 수사 결과와 같은 의견이다. 검찰은 조만간 김 여사에 대해 무혐의 처분할 것으로 보인다.&lt;br&gt;&lt;br&gt;수사심의위는 이날 김 여사에 대해 청탁금지법 위반 혐의 뿐만 아니라 알선수재, 변호사법 위반, 뇌물수수, 증거인멸, 직권남용까지 6개 혐의에 대해 심의를 진행한 결과 모든 혐의에 대해 불기소 처분을 의결했다고 밝혔다. 김 여사에게 디올백을 건넸던 재미 교포 최재영 목사가 앞서 낸 의견서도 함께 검토했다.&lt;br&gt;&lt;br&gt;김 여사는 2022년 6월부터 9월까지 최 목사에게서 300만원 상당의 디올백과 180만원 상당의 화장품 등을 받은 혐의를 받는다. 최 목사는 디올백 등을 선물하면서 김 여사에게 김창준 전 미국 연방 하원의원의 국정자문위원 임명과 국립묘지 안장, 통일TV 송출 재개 등을 청탁했다고 주장했다.&lt;br&gt;&lt;br&gt;하지만 수사심의위는 수사팀과 마찬가지로 김 여사에게 청탁금지법 위반 혐의 등을 적용할 수 없다고 결론냈다. 디올백 등 선물이 윤 대통령의 직무와 관련이 없을 뿐더러 대가성도 없다는 것이다. 일부 청탁은 존재하지 않았거나 김 여사에게 전달되지 않았고, 통일TV 청탁은 디올백 전달 후 1년이나 지난 시점에 이뤄진 점도 반영됐다고 한다.&lt;br&gt;&lt;br&gt;강일원 수사심의위원장(전 헌법재판관)을 포함한 수사심의위원 15명은 이날 서울 서초구 대검찰청에서 오후 2시부터 7시까지 5시간여 동안 논의한 뒤 이같이 의결했다. 수사심의위 의견은 권고적 효력만 있기 때문에 검찰이 그대로 따를 의무는 없다.&lt;br&gt;&lt;br&gt;김 여사 ‘디올백 수수’ 의혹은 작년 11월 유튜브 채널 ‘서울의소리’가 김 여사의 디올백 수수 장면이 담긴 영상을 공개하면서 불거졌다. 최 목사가 1년2개월 전 김 여사에게 디올백을 주며 손목시계형 몰래카메라로 촬영한 영상이 뒤늦게 공개된 것이다. 작년 12월 김 여사에 대한 고발장이 접수됐고, 서울중앙지검은 지난 5월 이원석 검찰총장 지시로 전담수사팀을 만들어 수사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/CXCTZJONGRBWXAL5WDMF27ODTM.png?width=1800&amp;height=1012&amp;auth=fdcbaaccfa3bfd80f46467757ba2e2ba78819b5615bbe40be6f6f6c175b7d6d6&amp;smart=true" type="image/png" height="1012" width="1800"/>
+    </item>
+    <item>
       <title>[속보] 대진연, 광화문 광장서 집회 중 체포</title>
       <link>https://www.chosun.com/national/national_general/2024/09/06/7PN3BAEJJZCQ5MT6DISRLTK2XY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/06/7PN3BAEJJZCQ5MT6DISRLTK2XY/</guid>
@@ -838,109 +929,6 @@
       <description/>
       <pubDate>Thu, 05 Sep 2024 12:49:13 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DANWRG7CJZLYLG23KPYVZXZTGI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2023년 9월 8일 서울 양천구 목동야구장에서 열린 고려대·연세대 친선경기대회(고연전)에서 고려대(왼쪽)와 연세대 학생들이 열띤 응원을 하고 잇다. 정기 고연전은 야구·농구·빙구·럭비·축구 5개 종목에서 두 대학 선수들이 겨루는 대회다. 고려대가 행사를 주최하는 해에는 연고전, 연세대가 주최하는 해에는 고연전이 정식 명칭이다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일부터 이틀간 열리는 2024 정기 연고전(홀수해는 고연전) 행사에서 럭비 경기는 열리지 않는다. 52번째로 열리는 올해 행사를 주최하는 고려대는 “연세대 측으로 발송한 럭비 경기 취소 요청을 연세대가 수용하면서 올해 럭비 경기는 열지 않기로 최종 확정됐다”고 5일 밝혔다.&lt;br&gt;&lt;br&gt;럭비 경기가 취소된 건 지난달 19일 고려대 럭비부 소속 선수 A씨가 전지훈련 중 사망한 데 따른 추모의 의미다. 고려대에 따르면 당시 일본 이바라키현 류가사키시에서 훈련을 받던 A씨가 탈진 증세를 보여 응급처치 후 현지 병원으로 이송됐으나, 이튿날인 20일 오후 사망했다. 현지 검시 결과 별도로 밝혀진 사인(死因)은 없었고, A씨 부모의 뜻에 따라 현지에서 화장도 진행됐다고 한다.&lt;br&gt;&lt;br&gt;이에 고려대는 “안타까운 사고가 발생한 데 따라 추모의 의미로 경기를 취소하자고 제안했다”고 했다. 연세대도 “고려대 측 상황을 이해해 럭비 경기 취소 요청에 동의했다”고 5일 밝혔다.&lt;br&gt;&lt;br&gt;럭비 경기가 취소돼 이번 연고전에서는 야구·아이스하키·농구·축구 4종목 경기만 진행된다. 양 대학 럭비부는 훈련 휴지기를 가질 계획이다. 고려대 체육위원회에 따르면 정기 고연전·연고전이 시작된 1965년 이래 럭비 경기만 취소된 건 폭우가 쏟아졌던 지난 1999년 이후 25년 만이다. 지난 2019년에는 태풍 ‘링링’의 영향으로 럭비와 축구 경기가 취소됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>만취 운전해 인도 돌진한 운전자 구속...차에 치인 남성은 의식불명</title>
-      <link>https://www.chosun.com/national/2024/09/05/5WWIGXD7HJDTXKXXPJ2JIOHD2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/09/05/5WWIGXD7HJDTXKXXPJ2JIOHD2Q/</guid>
-      <dc:creator>김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Sep 2024 12:47:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ZWRBDT5AD67JR3TLT43A4URNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;성남수정경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만취 상태로 운전하다 인도로 돌진해 편의점 야외 테이블에 앉아있던 남성을 의식불명 상태로 빠뜨린 60대 운전자가 구속됐다.&lt;br&gt;&lt;br&gt;경기 성남수정경찰서는 5일 특정범죄 가중처벌 등에 관한 법률상 위험운전치상과 도로교통법 위반(음주운전) 혐의로 A씨를 구속했다고 밝혔다.&lt;br&gt;&lt;br&gt;A 씨는 지난 3일 오후 9시쯤 술에 취한 상태로 성남시 수정구 상적동의 편도 2차 도로를 운전하다가 인도로 돌진해 B(50대)씨를 들이받은 혐의를 받는다.&lt;br&gt;&lt;br&gt;B 씨는 사고 당시 편의점 야외 테이블에 앉아 있다가 A 씨의 차량에 받혀 건물 외벽까지 튕겨 나갔다. 크게 다친 B씨는 병원으로 옮겨져 치료를 받고 있지만, 아직 의식을 회복하지 못한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A 씨는 B 씨를 들이받고도 계속 돌진해 편의점 옆 식당 통유리창을 깨고 건물 외벽을 들이받고서야 멈춰 섰다. A 씨의 혈중알코올농도는 면허취소 수준의 만취상태였다고 한다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A 씨는 서울 청계산 등산로 입구 일대에서 술을 마신 뒤 귀가하기 위해 3km가량 운전하다 사고를 낸 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 구체적인 사고 경위 등을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“상견례 앞두고 양팔 절단, 아내는 내 곁 지켰다”…패럴림픽 감동 사연</title>
-      <link>https://www.chosun.com/national/people/2024/09/05/66USYKA7MJG6ZASAQQSZEU2EPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/05/66USYKA7MJG6ZASAQQSZEU2EPM/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Sep 2024 12:40:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVPZX63Y4FPALFFCQ6QMPER5KQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김황태 선수가 2일(현지시각) 프랑스 파리 알렉상드로 3세 다리 인근에서 열린 2024 파리 패럴림픽 남자 트라이애슬론(철인 3종) PTS3 등급 경기에서 결승선을 향해 달리고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상견례를 한 달여 앞두고 양팔 절단 사고를 당했던 2024 파리 패럴림픽 트라이애슬론 국가대표 김황태(47) 선수의 사연이 알려졌다.&lt;br&gt;&lt;br&gt;김황태 선수는 5일 공개된 언론 인터뷰에서 “제가 파리 센강을 헤엄친 최초의 한국인이다”라며 기뻐했다.&lt;br&gt;&lt;br&gt;양팔이 없는 김황태 선수는 지난 2일(현지시각) 열린 패럴림픽 트라이애슬론 PTS3 등급 경기에서 1시간24분01초를 기록, 11명 중 10위를 기록했다. 김황태 선수는 센강에서 750ｍ를 헤엄치고, 사이클 20㎞, 육상 5㎞ 코스를 달려 완주했다.&lt;br&gt;&lt;br&gt;김황태 선수는 “사전 연습 때는 유속이 느렸는데, 본 경기 때는 더 빨랐다”며 “모든 영법을 써봤는데 답은 배영이었다. 살아남는 게 목표였다. 지난해 사전대회까지 두 번이나 센강에서 살아남았으니 만족한다”고 했다.&lt;br&gt;&lt;br&gt;최선을 다한 그의 모습에 많은 이들이 감동했고, 파리 시내에서 김황태 선수를 알아보고 인사를 건네는 이들도 있었다고 한다. 김황태 선수는 “소셜미디어로 많은 연락을 받았다”며 “감사하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MXB5K7YRTNLUXK6CER2IOEPVMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024 파리 패럴림픽 트라이애슬론 국가대표 김황태 선수. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김황태 선수는 2000년 8월 전선 가설 작업을 하다가 고압선에 감전돼 양팔을 잃었다. 양가 상견례를 불과 한 달여 앞둔 시점이었다. 당시 7년째 교제하고 있던 아내 김진희씨는 김황태 선수 곁을 지켰고, 현재도 가장 큰 힘이 되어주고 있다.&lt;br&gt;&lt;br&gt;아내 김씨는 현재 김황태 선수의 핸들러(경기 보조인)다. 종목과 종목 사이 경기복 환복과 장비 착용 등을 돕는다. 트랜지션(다음 종목 준비 과정) 시간도 경기 시간에 포함되는데 아내가 큰 도움을 주고 있는 것이다.&lt;br&gt;&lt;br&gt;김황태 선수는 “아내는 항상 희생했다. 2007년 운동을 시작하고 나서는 항상 주말에 집을 비웠다. 딸에게도 미안하고 고맙다”고 했다.&lt;br&gt;&lt;br&gt;김진희씨는 “이제는 남편이 편안하게 운동했으면 좋겠다”며 “가족과도 함께 하는 시간이 많아졌으면 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘이별 통보’ 여친 집 침입, 재결합 거절하자 살해한 30대</title>
-      <link>https://www.chosun.com/national/2024/09/05/CEUYGEYH4VAORB6UPB3BMFXXDI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/09/05/CEUYGEYH4VAORB6UPB3BMFXXDI/</guid>
-      <dc:creator>김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Sep 2024 10:16:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKPU66JR2ZACLDQI47NNRQYETM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재결합 요구를 거절하는 전 여자친구를 흉기로 살해한 30대 남성이 구속됐다.&lt;br&gt;&lt;br&gt;부산 연제경찰서는 5일 살인 혐의를 받는 A씨에 대한 구속영장을 발부받았다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 3일 오후 7시 36분쯤 부산 연제구 한 오피스텔에서 전 여자친구인 B(20대)씨를 흉기로 찔러 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 범행 직후 “여자친구를 죽였다”고 신고하고서 옥상 난간에 걸터앉아 있다가 경찰에게 붙잡혔다.&lt;br&gt;&lt;br&gt;경찰 조사에서 A씨는 헤어진 여자친구에게 다시 교제하자고 요구하며 다투던 중 범행했다고 진술했다. 범행 며칠 전 이별 통보를 받은 A씨는 재결합을 요구하고자 사건 당일 B씨 집에 무단으로 침입한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;B씨는 다시 만나자는 A씨의 제의를 거절했고, A씨는 미리 챙겨간 흉기로 B씨를 살해했다.&lt;br&gt;&lt;br&gt;B씨는 교제하는 동안 A씨를 경찰에 3번 신고하기도 했지만, 신변보호 요청은 하지 않는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘일본도 살인’ 피의자 “국민참여재판 원한다”</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/05/F3NN555CDNFINCVXVWPEF24RNM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/05/F3NN555CDNFINCVXVWPEF24RNM/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Sep 2024 11:36:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2S6TIPAULBXLYLNJ3LRTLQ42FU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아파트 이웃 주민에게 일본도를 휘둘러 숨지게 한 혐의를 받는 30대 남성 백모씨가 서울서부지법서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 은평구 한 아파트 단지에서 일본도로 이웃 주민을 살해한 30대 남성이 법원에 국민참여재판을 요청한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;5일 서울서부지법에 따르면 지난 7월 서울 은평구 소재 아파트 인근에서 일본도를 휘둘러 같은 아파트 주민을 살해한 혐의로 기소된 백모(37)씨가 전날 국민참여재판을 희망한다는 의사 확인서를 제출했다.&lt;br&gt;&lt;br&gt;국민참여재판은 무작위로 선정된 만 20세 이상의 배심원이 유·무죄 및 양형을 평결하고, 법관이 평결을 참고해 판결하는 제도다. 법관이 배심원의 평결을 반드시 따라야 하는 건 아니다.&lt;br&gt;&lt;br&gt;백씨는 지난 7월 29일 밤 11시 22분쯤 은평구의 아파트에서 장식용으로 허가받은 날 길이 약 102㎝의 일본도를 이웃 주민 A씨의 얼굴과 어깨 등에 10여 차례 휘둘러 숨지게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;백씨는 재직 중이던 회사에서 약 3년 전 퇴사한 이후 정치·경제 기사를 섭렵하다 중국 스파이가 한국에 전쟁을 일으키려 한다는 망상에 빠져, 아파트 단지에서 마주친 피해자가 자신을 감시하는 중국 스파이라 생각해 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;백씨는 범행 후 현장을 빠져나와 집으로 달아났으나 범행 약 1시간 뒤 경찰에 체포돼 구속 수사를 받았다. 검찰은 지난달 23일 백씨를 구속 기소했다.&lt;br&gt;&lt;br&gt;검찰은 백씨의 범행을 ‘치밀하게 계획된 이상동기 범죄’라고 판단했다.&lt;br&gt;&lt;br&gt;한편 피해자의 유족은 전날 백씨의 아버지를 사자명예훼손 혐의로 경찰에 고소했다.&lt;br&gt;&lt;br&gt;유족 측 법률대리인은 백씨의 아버지가 일본도 살인사건 발생 후 관련 뉴스 기사에 아들을 옹호하는 댓글을 작성하며 피해자의 명예를 훼손했다고 고소 이유를 밝혔다.&lt;br&gt;&lt;br&gt;백씨의 아버지는 지난달 말부터 이달 초까지 은평구 아파트 살인 사건 관련 기사 8~9개에 약 20회에 걸쳐 “피의자가 나라를 팔아먹은 중국 스파이를 처단하기 위해 살인했다”, “피의자가 공익적인 일을 했기 때문에 오히려 보상받아야 한다”는 등 반복적으로 백씨를 옹호하는 듯한 댓글을 작성한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>여군 첫 KF-21 시험비행 완수 “최고의 전투기 되게 힘 쏟겠다”</title>
-      <link>https://www.chosun.com/national/people/2024/09/05/HXOLB62Y6NAU3CPBRXKLB5DN7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/05/HXOLB62Y6NAU3CPBRXKLB5DN7U/</guid>
-      <dc:creator>양지호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Sep 2024 11:25:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RTVZSE5YARFAZJC6LPE27U3NVU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;정다정 소령이 4일 오전 공군 서산기지에서 KF-21 시험비행조종사로서 첫 평가 임무를 수행한 뒤 기념 촬영을 하고 있다. 정 소령은 지난 8월 23일 여군 최초로 KF-21 개발 시험 비행 자격을 획득했다. /공군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여군 최초이자 유일한 공군 시험비행조종사(test pilot)인 정다정(38) 소령이 양산을 앞두고 있는 국산 초음속 전투기 KF-21의 시험비행조종사가 됐다. 내후년에 개발이 완료되는 KF-21은 현재 시제기 6대로 개발 시험 평가가 진행 중이다.&lt;br&gt;&lt;br&gt;공군은 5일 “정 소령이 여군 최초이자 공군에서는 8번째로 KF-21 시험비행조종사가 됐다”며 “지난달 개발 시험 비행 자격을 얻었고 지난 4일 공군 서산 기지에서 처음으로 KF-21 시제기 전방석에 앉아 시험 비행을 했다”고 밝혔다. 교관이 후방석에 동승하지 않은 상태에서도 단독으로 임무 수행이 가능해졌다는 뜻이다.&lt;br&gt;&lt;br&gt;시험비행조종사는 의도적으로 기체를 조종 불능 상태에 빠뜨린 뒤 다시 안정적인 상태로 회복시키는 등 일반 비행보다 난도가 높은 임무를 수행하는 보직이다. 공중에서 엔진을 껐다가 다시 켜서 비행하는 것이 대표적이다. 항공역학, 전자 제어 법칙, 항공 무기 체계에 대한 공학적 지식도 필수적으로 갖춰야 한다. 시험비행조종사가 되려면 탁월한 비행 실력과 탄탄한 이론 및 장시간의 비행 경험이 필요하다고 공군은 설명했다.&lt;br&gt;&lt;br&gt;정 소령은 2019년 여군 최초로 시험비행조종사로 선발됐다. 정 소령은 KF-21에 앞서서는 주 기종인 KF-16 관련 시험비행조종사로 활약했다.&lt;br&gt;&lt;br&gt;정 소령은 “개발 시험 비행 자격 획득을 위해 갑작스러운 뇌우 속에서 KF-21을 조종해 무사 복귀했던 순간이 제일 기억에 남는다”며 “KF-21을 최고의 전투기로 만드는 데 모든 역량을 쏟아부을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RJIOSZHBTFEXBCINHPRNL74F6Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;정다정 소령이 지난 4일 오전 공군 서산기지에서 KF-21 시험비행조종사로서 첫 평가임무에 나섰다. 사진은  KF-21 전투기에 탑승한 정 소령이 임무에 나서며 정비사들에게 엄지를 치켜올리는 모습. /공군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NYDMTZEP4BFKBHWKQNG655UANE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;정다정 소령이 지난 4일 오전 공군 서산기지에서 KF-21 시험비행조종사로서 첫 평가임무에 나섰다. 사진은 정 소령이 임무에 나서기 전 KF-21 전투기를 점검하고 있는 모습. /공군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RTVZSE5YARFAZJC6LPE27U3NVU.JPG?width=4809&amp;height=3206&amp;auth=a9107a3c7384e6c9a35faadc982416e0ae7257228f3797386400ce5c09f0d6ab&amp;smart=true" type="image/jpeg" height="3206" width="4809">
-        <media:description type="plain">정다정 소령이 9월 4일(수) 오전, 공군 서산기지에서 KF-21 시험비행조종사로서 첫 평가임무에 나섰다. 정 소령은 지난 8월 23일(금) 여군 최초로 KF-21 개발시험비행 자격을 획득했다.  /2024.9.5 공군제공</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>[단독] 기후변화와 환경생태, 고교 선택 과목 됐다</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/09/02/74ZSMUEC7BAH5JXDF4ZRX72364/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/09/02/74ZSMUEC7BAH5JXDF4ZRX72364/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Sep 2024 20:04:00 +0000</pubDate>
-      <content:encoded>고등학교 교과 과정에 ‘기후변화’가 선택 과목 교과서로 나온다. 기후변화의 심각성과 각종 환경 생태 영향, 기상 재난에 대한 대처법 등을 배우게 된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WI22VMUJW5BEDPXUVGSKTEPKAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 기상청에 따르면, 기상청이 개발을 지원해 만든 교과서인 ‘기후변화와 환경생태’(비상교육)가 대전시교육청에서 인정 교과서로 최종 합격했다. &lt;br&gt;&lt;br&gt;비상교육 뿐 아니라 씨마스, 일진사, 천재교육이 출판한 같은 제목의 교과서까지 총 4종이 인정 교과서에 합격했다. 교과서는 제작 주체에 따라 정부가 깊이 관여하는 ‘국·검정 교과서’와 국·검정 교과서가 없는 주제·내용 등을 담은 ‘인정 교과서’로 나뉜다.&lt;br&gt;&lt;br&gt;교과서는 ‘기후와 환경 생태의 특성’ ‘기후 위기와 환경 생태 변화’ ‘기후 위기에 대응하는 우리의 노력’ 등 3단원으로 이뤄져 있다. 기후변화 양상을 배우고 온난화에 따른 해수면 상승에 대응해 어떻게 ‘해상 도시’를 설계할지, 현재 기후 데이터에 따른 한반도의 미래 기후 지도는 어떻게 바뀔지, 탄소 중립 학교를 어떻게 만들어갈지 등을 고민해 보는 식으로 제작됐다.&lt;br&gt;&lt;br&gt;교과서에선 최근 온난화 여파로 발생 중인 각종 극한 기상에 어떻게 대비해야 할지도 배운다. ‘초강력 태풍’이 예보됐을 때, 집중호우가 발생했을 때 어떻게 대응할지를 가르친다. 강한 햇볕이 바닥에 반사돼 나오는 복사열에 의한 폭염과, 한파에 대한 행동 요령 등도 담겼다.&lt;br&gt;&lt;br&gt;기상청 관계자는 “기후변화를 과학적으로 이해하고 미래의 기후위기 대응 역량을 높이는데 도움이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공직선거법 위반 혐의 안도걸 국회의원 사촌동생 구속</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/05/P4WBIZ3XJVC5LOAVHBNFIBDQEI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/05/P4WBIZ3XJVC5LOAVHBNFIBDQEI/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Sep 2024 09:00:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VXATGLD4ATWHWPPBUAVEV3EAXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3월 19일 광주광역시 동구 소재 더불어민주당 광주동남을 안도걸 후보 선거사무실에서 경찰이 압수수색을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 총선 과정에서 공직선거법을 위반한 혐의를 받는 더불어민주당 안도걸(광주 동남을) 의원의 사촌동생이 구속됐다.&lt;br&gt;&lt;br&gt;광주지법 최유신 영장전담 부장판사는 5일 공직선거법 위반 혐의로 안 의원의 사촌동생 안모씨에 대해 사전구속영장을 발부했다. 최 부장판사는 “증거인멸 및 도주 우려가 있다”며 영장 발부 사유를 밝혔다.&lt;br&gt;&lt;br&gt;공범으로 함께 기소된 선거캠프 관계자 A씨에 대해서는 “범죄혐의 소명 및 다툼의 여지가 있고 수사기관이나 법정 출석상황 등에 비춰 구속의 사유나 필요성이 부족하다”며 영장을 기각했다.&lt;br&gt;&lt;br&gt;안씨 등은 지난 22대 국회의원 선거 과정에서 더불어민주당 경선 당시 선거운동원·자원봉사자에게 금품을 제공한 혐의 등을 받고 있다. 안씨는 전남 화순에서 안 의원이 후보시절 홍보 목적으로 전화방을 운영하는 등 불법 선거운동을 한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 ‘안 의원이 경선 후보 당시 안씨를 비롯한 선거캠프 관계자들이 자원봉사자·선거운동원에게 금품·식사비를 제공했다’는 고발장을 받고 수사를 벌여왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/VXATGLD4ATWHWPPBUAVEV3EAXA.jpg?width=720&amp;height=446&amp;auth=4ef42dbd0093aa8639e63290da10e1c3706299b54818b565ac41f30f9757da96&amp;smart=true" type="image/jpeg" height="446" width="720">
-        <media:description type="plain">안도걸 후보 선거사무실 들어서는 경찰</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>‘악동클럽’ 출신 이태근 사망…”코로나 백신 추가 접종 뒤 뇌출혈”</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/05/YUI4UIPYUVGWZLQDPEKTXDX6EI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/05/YUI4UIPYUVGWZLQDPEKTXDX6EI/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Sep 2024 08:15:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AIV3TKPZAQFGA2KGKBGYJA6TTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'악동클럽' 이태근./ MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 ‘악동클럽’ 출신 이태근(41)이 세상을 떠났다.&lt;br&gt;&lt;br&gt;5일 가요계에 따르면, 이태근은 이날 오전 충북 충주시 탄금장례식장에서 발인을 마쳤다. 장지는 천상원으로 알려졌다.&lt;br&gt;&lt;br&gt;이태근은 2001년 MBC ‘목표달성 토요일’ 인기 코너 ‘악동클럽’에 출연해 인기를 얻었고, 다음 해 그룹 ‘악동클럽’으로 가요계에 정식 데뷔했다. 악동클럽이 해체된 뒤 2006년 ‘디 에이디’로 팀을 재정비해 활동했다.&lt;br&gt;&lt;br&gt;TV에 모습을 보이지 않았던 이태근은 2022년 3월 코로나 백신 부스터샷(화이자) 부작용으로 위독한 상황이라는 사실이 알려지면서 다시 주목받았다. 그는 심각한 뇌 손상을 입고 치료를 받아온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이태근의 아내는 당시 청와대 국민청원에 “30대 쌍둥이 아빠 화이자 백신 부스터샷 맞고 뇌 지주막하 출혈로 겨우 숨만 쉴 정도로 힘든 상태”라고 글을 올렸다. 그러면서 “체중이 20㎏ 이상 빠져 뼈만 남았다. 겨우 숨만 쉬고 있다”며 도움을 요청한 바 있다.&lt;br&gt;&lt;br&gt;이태근은 최근까지 자신의 인스타그램에 쌍둥이 딸과 함께 찍은 사진과 일상을 공개하며 회복 의지를 전하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>응급실 100m 앞인데 “연락 안 돼 다른 병원으로”...심정지 여대생 결국 의식 불명</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/05/GHAIVMRYMFC5NIV2VQXE5VJZXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/05/GHAIVMRYMFC5NIV2VQXE5VJZXU/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Sep 2024 07:33:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BFDDAH7JMRJYBND4NDOOCO2OI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 오전 광주 동구 조선대병원 응급실 앞에서 환자와 보호자가 내부로 들어가고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;심정지 상태 여대생이 대학병원 응급실로부터 약 100m 거리에서 발견됐지만, 해당 병원과 연락이 닿지 않아 다른 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;광주 동부소방서 등에 따르면 5일 오전 7시 32분쯤 광주광역시 동구 조선대학교의 한 단과대학 인근 벤치에서 이 학교 학생 A(20)씨가 심정지 상태로 발견됐다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;A씨가 발견된 곳은 조선대병원으로부터 약 100m 거리였다고 한다. 구급대원들은 A씨를 발견한 뒤 ‘스마트 의료지도’를 통해 조선대 병원 응급실 의료진으로부터 원격진료도 받았다.&lt;br&gt;&lt;br&gt;하지만 구급대원들이 A씨를 조선대병원 응급실 이송하려 하자 의료진과 연락이 닿지 않아 인접한 전남대병원으로 이송됐다. 조선대병원과 전남대병원은 약 500m 거리다.&lt;br&gt;&lt;br&gt;조선대병원은 전공의 이탈로 전날부터 매주 수요일 주 1회 타의료과 의사를 지원받아 운영을 시작했다. 당시 조선대병원 응급실은 내과 의사가 근무하고 있었다고 한다.&lt;br&gt;&lt;br&gt;A씨는 전날 오후부터 대학교 동아리 농촌봉사활동 뒤풀이에 참석해 다른 학생들과 학교 근처 식당 등에서 늦은 시간까지 술을 마신 것으로 파악됐다. A씨는 호흡은 돌아왔지만 의식 불명 상태인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨로부터 외상 등 범죄 정황은 없는 것으로 보고 동아리 회원들을 대상으로 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/BFDDAH7JMRJYBND4NDOOCO2OI4.jpg?width=5029&amp;height=3353&amp;auth=2353c629346d7ebe7a201d641d0dbbcdd56dc64b2454537d9c1c0f5a561c3ca3&amp;smart=true" type="image/jpeg" height="3353" width="5029">
-        <media:description type="plain">&lt;YONHAP PHOTO-4337&gt; 응급실 찾은 휠체어 환자
-    (광주=연합뉴스) 정다움 기자 = 전국보건의료산업노동조합 광주·전남본부 조선대병원 지부의 총파업 닷새째인 2일 오전 광주 동구 조선대병원 응급실 앞에서 환자와 보호자가 내부로 들어가고 있다. 2024.9.2
-    daum@yna.co.kr/2024-09-02 14:17:24/
-&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">정다움</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“응급실인줄 몰랐다”... 파견 군의관들, 근무 거부하고 돌아갔다</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/09/05/VEZTCOQ7JBCVTBTXDZAWBS6L3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/05/VEZTCOQ7JBCVTBTXDZAWBS6L3E/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Sep 2024 07:13:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3JWJWFNHABKV5NPLKETYZGPWUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추석 연휴를 앞두고 전국 병원 곳곳이 응급실 운영에 차질을 빚고 있는 가운데 5일 주 1회 성인 진료 중단을 알린 서울 양천구 이대목동병원 권역응급의료센터에 관련 안내문이 붙어있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 5개 대형 병원 응급실에 군의관 15명을 투입한 가운데, 이대목동병원에 배치된 군의관 3명이 응급실 근무를 하지 않고 부대로 복귀한 것으로 나타났다.&lt;br&gt;&lt;br&gt;5일 의료계 등에 따르면 전날 이대목동병원에 배치된 군의관 3명은 이날부터 시작되는 응급실 근무를 하지 않기로 하고 기존 근무지로 돌아간 것으로 알려졌다. 이들은 응급실 근무 계획을 미리 전달받지 못했다는 입장이다.&lt;br&gt;&lt;br&gt;병원 측은 “배정 받은 군의관 3명과 면담한 결과 응급실 근무에 적합하지 않다고 보고 복귀 조치를 통보했다”고 설명했다. 정부 관계자는 “파견 군의관들의 업무 범위를 협의하는 과정에서 문제가 있었다고 한다”며 “응급의학과 전문의 군의관들을 최대한 설득해 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;정부가 응급실 전문의 부족으로 진료 차질을 빚고 있는 병원에 군의관들을 투입하고 있지만, 일부 파견 군의관들은 응급 환자를 받기 어렵다는 입장이다. 최근 울산대병원에도 신경외과 전문의 군의관이 투입됐지만 응급실 근무를 거절한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편 광주 조선대병원은 심정지 환자를 받지 못한 것으로 나타났다. 이날 오전 광주 동구 조선대 학생 A(20)씨가 학교 인근 벤치에 쓰러진 채 심정지 상태로 발견됐지만, 수용을 거부당해 다른 대학병원 응급실로 이송됐다. 현재 A씨는 의식 불명 상태다.&lt;br&gt;&lt;br&gt;부산 기장군의 한 공사 현장에서 추락한 70대 근로자도 수술할 의사를 찾다가 안타깝게 숨졌다. 소방 당국에 따르면 지난 2일 오전 8시 11분 기장군 한 축산 시설 신축 공사 현장 2층에서 70대 노동자 A씨가 자재를 운반하던 중 바닥으로 떨어졌다. A씨는 고신대병원으로 옮겨졌지만, 응급실 진료만 가능할 뿐 수술은 불가했다. 다시 수술이 가능한 곳을 알아보던 중 A씨는 사고 4시간여 만인 낮 12시 30분쯤 숨을 거뒀다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>만취해 고속도로 걸어들어온 남성… 버스에 “문 열어!” 행패까지 </title>
