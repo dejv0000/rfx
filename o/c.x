@@ -13,6 +13,81 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“아저씨 믿고 뛰어내려!”…화재현장서 초등생 온몸으로 받아 구한 경찰</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/06/GLRZQ7M7YZD5HMWU5N5CJWB54M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/06/GLRZQ7M7YZD5HMWU5N5CJWB54M/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Sep 2024 05:07:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NBRHSB4VFNHK3HHQ4ZF46VW6EY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 경기도 평택시 포승읍 석정리의 한 창고 화재 현장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;화재 현장에 출동한 경찰이 건물 2층에 고립된 초등학생을 온몸으로 받아내 구조한 사실이 알려졌다.&lt;br&gt;&lt;br&gt;6일 경찰과 소방당국 등에 따르면 전날 오후 4시쯤 경기도 평택시 포승읍 석정리의 한 창고에 화재가 발생했다.&lt;br&gt;&lt;br&gt;당시 순찰 중에 소방당국의 공동 대응 요청을 받은 평택경찰서 포승파출소 1팀 소속 구자웅 경장과 김관식 경사는 즉시 현장으로 출동했다.&lt;br&gt;&lt;br&gt;신고접수 6분 만에 현장에 도착한 두 사람은 총 3층 높이의 창고 2층에서 창밖으로 얼굴을 내밀고 구조를 요청하고 있는 초등학생 남자아이를 발견했다.&lt;br&gt;&lt;br&gt;구 경장과 김 경사는 아이를 구조하기 위해 건물 안으로 진입하려 했지만 불길과 연기가 확산하고 있어 실패했다.&lt;br&gt;&lt;br&gt;이에 두 경찰관은 아이를 향해 “아저씨들이 밑에서 받을 테니, 우리를 믿고 뛰어내려라”라고 말했다. 용기를 얻은 아이는 창문 밖으로 뛰어내렸고, 두 사람은 아이를 안전하게 받아내 구조했다.&lt;br&gt;&lt;br&gt;구조된 아이는 창고 주인의 아들인 초등학교 6학년 학생 A군이었다. A군은 키 153㎝에 43㎏의 약간 마른 체형이었다.&lt;br&gt;&lt;br&gt;A군은 연기를 흡입해 병원으로 이송됐으며, 현재 통원 치료를 받고 있는 것으로 알려졌다. A군의 가족들은 경찰에 감사의 뜻을 전했다.&lt;br&gt;&lt;br&gt;한편 소방당국은 전기적 요인에 의해 화재가 발생한 것으로 보고 자세한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘올림픽 김예지 효과’…전북종합사격장 이용객 늘었다</title>
+      <link>https://www.chosun.com/national/regional/2024/09/06/H4LZWHHXFNHPJPAK24IP6HCFOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/06/H4LZWHHXFNHPJPAK24IP6HCFOI/</guid>
+      <dc:creator>임실=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Sep 2024 04:42:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZWIM7J6AZMUUXQRZQAIZSNMRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024파리올림픽 사격 은메달리스트 김예지 선수.  /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2024 파리 올림픽 10m 공기권총 은메달리스트 김예지(32·임실군청) 선수가 평소 연습장으로 사용했던 전북종합사격장 이용객이 급증한 것으로 나타났다. 파리 올림픽에서 세계적인 사격 스타로 거듭난 ‘김예지 효과’를 톡톡히 보고 있는 것이다.&lt;br&gt;&lt;br&gt;6일 전북도에 따르면 임실군에 있는 전북종합사격장의 지난달 이용객 수는 3800여명을 기록했다. 지난 6월(1300명)과 7월(1500명)보다 배 이상 급증한 수치다. 이런 추세라면 올해 전북종합사격장 입장객 수는 지난해 2만4000명을 가뿐히 넘을 것으로 보인다. 전북도 관계자는 “김예지 선수가 유명해지면서 사격장 이용 문의가 쇄도하고 있다”고 했다.&lt;br&gt;&lt;br&gt;김예지 선수가 수년 간 훈련장으로 이용해 온 전북종합사격장은 임실군 청웅면에 위치해 있다. 4만여평의 부지에 10m와 25m, 50m 실내 사격장과 야외 클레이 사격장이 갖춰져 있다. 사격 전문 선수들이 주로 사용하며, 일반인들도 공기총 10m와 야외 클레이 A·B 사격장에서 체험이 가능하다.&lt;br&gt;&lt;br&gt;김예지 선수는 10m 공기권총 결선에서 여전사를 연상시키는 강인한 모습으로 올림픽 기간 내내 뜨거운 관심을 받았다. 주 종목인 25m 화약 권총에서 통한의 1발 실수로 예선 탈락이라는 아쉬운 결과를 남겼지만, 테슬라 최고 경영자인 일론 머스크가 “액션 영화에 캐스팅돼야 한다”고 극찬하면서 세계에서 주목을 받았다. 미국 NBC가 선정한 2024 파리올림픽 ‘10대 스타’에도 이름을 올렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 강서경찰서 사격장서 훈련 중 화재…90여명 대피</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/06/NY6JREHX7RDBLE2HUJJ6EV3HGM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/06/NY6JREHX7RDBLE2HUJJ6EV3HGM/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Sep 2024 04:49:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IGIHAZOU5FAIPJ3UOE7BIX4Y2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강서경찰서. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강서경찰서에서 사격 훈련 중 화재가 발생해 경찰 90여명이 대피하는 소동이 벌어졌다.&lt;br&gt;&lt;br&gt;소방에 따르면 6일 오전 9시 35분쯤 서울 강서구 강서경찰서 지하 2층 사격장에서 사격 훈련 도중 화재가 발생했다. 소방은 사격훈련 중 나온 탄피에 남아있던 화약에서 화재가 시작된 것으로 파악하고 있다. &lt;br&gt;&lt;br&gt;소방당국은 차량 15대와 인원 50여을 동원해 오전 10시 5분쯤 화재를 완전히 진화했고 인명 피해는 발생하지 않은 것으로 파악됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘文정부 울산 선거개입’ 재수사...당시 靑 근무 경찰관 소환</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/06/TTMXQTGMNZHA7PJ3465ITXIKTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/06/TTMXQTGMNZHA7PJ3465ITXIKTQ/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Sep 2024 03:35:40 +0000</pubDate>
+      <content:encoded>문재인 정부 청와대의 ‘울산시장 선거 개입’ 사건을 재수사하는 검찰이 당시 대통령비서실에서 근무한 경찰관을 6일 소환했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K2NGRROD5BKUZJGVK2ESDJWT5A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;'울산시장 선거 개입' 사건으로 1심에서 유죄를 받은 송철호 전 울산시장이 지난 5월 21일 오후 서울 서초구 서울고등법원에서 열린 항소심 첫 공판에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공공수사2부(부장 조민우)는 이날 박성갑 충남경찰청 청문감사인권담당관(총경)을 참고인 신분으로 불러 조사 중이다. 검찰은 박 총경을 상대로 2017~2018년 울산경찰청이 김기현 당시 울산시장의 주변 수사를 벌일 때 청와대 차원의 개입이 있었는지 등을 캐묻는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 사건은 2018년 지방선거 당시 문재인 전 대통령의 친구인 송철호 전 울산시장을 당선시키는 데 청와대가 조직적으로 개입했다는 내용이다. 문재인 정부 당시 검찰은 송 전 시장 등 15명을 기소했지만, 임종석 전 대통령 비서실장과 조국(현 조국혁신당 대표) 전 민정수석, 이광철 전 민정비서관은 불기소 처분했다. 당시 검찰은 “범행에 가담했다는 강한 의심이 들지만, 증거나 정황이 혐의를 입증하기에 부족하다”고 했다.&lt;br&gt;&lt;br&gt;작년 11월 기소된 15명 중 12명이 1심에서 유죄를 선고받았다. 고발인인 국민의힘 측 항고에 서울고검은 올 1월 서울중앙지검에 ‘재기수사 명령’을 내렸고, 중앙지검은 지난 3월 대통령기록관을 압수수색하며 강제 수사에 착수한 바 있다.&lt;br&gt;&lt;br&gt;수사는 두 갈래로 나눠 진행되고 있다. 청와대가 송 전 시장의 경쟁 후보였던 김기현(현 국민의힘 의원) 당시 울산시장에 대한 수사를 지시한 ‘하명 수사’ 의혹과 청와대가 송 전 시장의 당내 경쟁자이던 임동호 전 민주당 최고위원에게 불출마를 대가로 공직을 제안한 ‘후보 매수’ 의혹이다.&lt;br&gt;&lt;br&gt;검찰은 울산경찰청 소속 경찰과 울산 지역 더불어민주당 관계자 등 7~8명을 이미 참고인 신분으로 소환해 조사한 것으로 알려졌다. 검사가 여러 차례 울산에 내려가 현장 조사를 벌였다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>토할 때까지 먹이고, 때리고… 가혹행위 일삼은 선임병 ‘집행유예 3년’</title>
+      <link>https://www.chosun.com/national/regional/gangwon/2024/09/06/24P2TKZETZE5NA37OPPWBGB2WU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2024/09/06/24P2TKZETZE5NA37OPPWBGB2WU/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Sep 2024 04:37:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/24UPWP5OARX56LWFKEPUAFKDZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군 복무 시절 후임병에게 구토할 때까지 음식을 먹이거나 때리는 등 가혹행위를 일삼은 선임병에게 법원이 집행유예3년을 선고했다.&lt;br&gt;&lt;br&gt;춘천지법 형사2단독 김택성 부장판사는 부장판사는 위력행사 가혹행위, 폭행, 절도, 특수폭행, 공갈, 재물손괴 혐의로 기소된 A(22)씨에게 징역 1년 6개월에 집행유예 3년을 선고했다. 법원은 또 A씨에게 사회봉사 240시간을 명령했다.&lt;br&gt;&lt;br&gt;강원 고성군 한 부대에서 복무했던 A씨는 지난해 5월 생활관에서 후임병 B(19)씨가 말을 제대로 알아듣지 못한다는 이유로 휴지심에 신문을 넣고 박스테이프로 감아 만든 몽둥이로 때렸다. 쓰레기 정리작업 중에는 야전삽으로 B씨의 발등을 찍는 등 폭행하기도 했다.&lt;br&gt;&lt;br&gt;또 신었던 양말을 후임병의 코와 입 부위에 문지르거나, 임무 수행을 제대로 못한다며 멱살을 잡아 흔들고, TV를 보던 후임병의 머리 위로 방탄 헬멧을 떨어뜨리는 등의 폭행도 이어졌다.&lt;br&gt;&lt;br&gt;A씨는 후임병을 “살찌우겠다”면서 컵라면 국물에 치즈 10장을 넣어 밥을 말아 먹게하고, 부대원들이 회식 후 비빔면 20개를 먹다가 남게 되자 후임병에게 몰아줘 구토할 때까지 먹이기도 했다.&lt;br&gt;&lt;br&gt;그는 일부 후임병들에게 ‘폐급’이라고 지칭하며 욕설을 하거나, 취침 시간에 잠을 자지 못하게 하는 가혹행위도 저질렀다.&lt;br&gt;&lt;br&gt;김 부장판사는 “전체 범행내용 등에 비추어 죄책이 무겁다”면서 “피고인이 범행을 자백하고 반성하고 있고, 피해자들과 합의한 점 등을 고려해 사회봉사를 조건으로 징역형의 집행유예를 선고한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/24UPWP5OARX56LWFKEPUAFKDZU.jpg?width=4032&amp;height=3024&amp;auth=b7651eefb58189bffa422d3266c3a64a41e156c17d5a49ab057f587b7c35f4f0&amp;smart=true" type="image/jpeg" height="3024" width="4032">
+        <media:description type="plain">춘천지법.(뉴스1 DB)</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘신림역 흉기난동범’ 모방 10대 살인미수범, 2심도 실형</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/01/W776KXC4DZFJRABBPM6ULPA4QM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/01/W776KXC4DZFJRABBPM6ULPA4QM/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Sep 2024 08:25:17 +0000</pubDate>
+      <content:encoded>이른바 ’신림역 칼부림 주범’ 범행을 모방해 길거리에서 여중생들을 상대로 흉기 난동을 계획한 10대 소년이 2심에서도 실형을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5EONUUGSCRIULBDYKLLP35QD24.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울고등법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 법조계에 따르면 서울고법 형사7부(재판장 이재권)는 살인미수 혐의로 재판에 넘겨진 황모(17)군에게 징역 장기 5년·단기 3년을 선고했다. 지난 2월 1심이 선고한 징역 장기 6년·단기 4년 판결을 파기하고 감경했다. 만 19세 미만의 미성년자는 소년법에 따라 장기와 단기로 형을 선고하는데, 이는 소년범의 교화를 위해 수형 성적에 따라 형을 탄력적으로 집행하도록 하기 위한 것이다.&lt;br&gt;&lt;br&gt;재판부는 “황군이 신림역 칼부림 사건 등을 동경해 일면식도 없는 어린 피해자들을 범행 대상으로 선택해 인적 드문 공원에서 칼로 찌르려다가 미수에 그친 것으로 범행 동기와 경위 및 내용 등에 비추어 그 죄질이 매우 무겁다”면서도 “각 범행을 자의로 중지함으로써 미수에 그쳤다”고 설명했다.&lt;br&gt;&lt;br&gt;이어 “황군은 현재 17세의 소년으로 사회적·정신적으로 미성숙한 상태”라며 “황군의 부모가 자녀를 제대로 보살피지 못했던 점을 반성해 앞으로 피고인을 올바르게 계도하고 피고인의 치료 및 교화를 위해 노력할 것을 다짐하고 있는 등 피고인이 자신의 잘못된 성행을 개선하고 장래 건전한 인격체로 성장할 가능성이 있다고 보인다”고 했다.&lt;br&gt;&lt;br&gt;황군은 지난해 10월 1일 오후 6시쯤 서울 서초구 한 공원 인근에서 여중생 2명을 따라가 이들을 흉기로 찔러 살해하려 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;경남 창원에 살던 황군은 집에 보관하고 있던 흉기와 둔기를 소지한 채 서울남부터미널에 도착해 관악구 신림동으로 가려고 했으나 남부터미널 일대를 배회하다 버스를 탄 뒤 눈에 띈 동승객 여중생들을 뒤쫓은 것으로 조사됐다. 이후 황군은 이들의 뒤를 몰래 따라가 피해자 1명을 찌르려는 순간 후회감이 들어 범행을 단념한 것으로 파악됐다. 이 피해자는 달아났고, 황군은 함께 있던 또 다른 피해자에게는 “꺼져”라며 쫓지 않았다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 등에 따르면 황군은 지난해 7월 21일 신림역 인근 골목에서 무차별 칼부림을 벌여 4명의 사상자(1명 사망·3명 부상)를 낸 조선(34)의 범행 동영상을 본 뒤 희열을 느꼈다고 한다. 평소 폭력성이 강한 게임 등을 즐겨하던 그는 자신을 영화 ‘배트맨’의 악역 ‘조커’와 같은 실패작이라고 생각했는데, 조선의 범행을 보고 그를 ‘강한 사람’ ‘멋있는 사람’으로 추종해 누군가를 살해하기로 마음먹었다.&lt;br&gt;&lt;br&gt;한편 황군 측이 2심 판단에 불복해 상고장을 제출하며 이 사건은 대법원 판단을 받게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>﻿신현준 갑질 폭로 협박한 매니저, 실형 확정됐지만 ‘행방 묘연’</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/06/U75BQWEYLZCPNA4NYAAAZ7ORPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/06/U75BQWEYLZCPNA4NYAAAZ7ORPQ/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Sep 2024 04:24:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SP2JDRMXOUAWYFX6Y3DXIKTI7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 신현준. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 신현준에게 ‘갑질을 폭로하겠다’고 협박한 혐의를 받은 전 매니저 A(40대)씨의 실형이 확정됐다. 다만, 현재 A씨의 소재가 파악되지 않는 상황이어서 검찰은 형 집행을 위해 A씨 검거에 나설 예정이다.&lt;br&gt;&lt;br&gt;6일 대전지법에 따르면 A씨는 지난달 28일 항소심에서 징역 6개월의 실형을 선고받은 후 7일이 지나도록 항소장을 제출하지 않아 5일 형이 확정됐다.&lt;br&gt;&lt;br&gt;A씨는 지난 4월 1심에서 벌금 500만원을 선고받았다. 이후 검사 항소로 진행된 2심 공판 내내 법정에 출석하지 않았다.&lt;br&gt;&lt;br&gt;항소심 내내 연락이 닿지 않자 검찰과 경찰이 A씨 소재 파악에 나섰지만 찾을 수 없었다. 결국 지난 4월 공시송달 명령이 내려졌다. 공시송달은 법원이 관보 등에 소송 서류를 올리면 상대방에게 전달됐다고 간주하는 절차다.&lt;br&gt;&lt;br&gt;항소심 재판부는 공시송달 명령 후 두 차례 공판 기일이 지나도 출석하지 않은 A씨에 대해 소송촉진특례 규정을 적용해 불출석 상태로 실형을 선고했고, 재판이 마무리됐다.&lt;br&gt;&lt;br&gt;A씨에 대한 형이 확정되면서 검찰은 A씨 검거에 나설 방침이다. 검찰 관계자는 “일반적인 구속과 달리 형이 확정됐기 때문에 형 집행장이 있어야 한다”며 “서류 절차를 마친 후 통화내역, 위치추적 등을 통해 A씨 소재 파악에 나설 것”이라고 했다.&lt;br&gt;&lt;br&gt;A씨는 2021년 2월 신현준에게 성추행당한 사실이 있는 것처럼 메시지를 보내고, 전화를 걸어 온라인 커뮤니티에 자신의 사연을 올리겠다며 협박한 혐의를 받는다. A씨는 2020년 매니저로 일할 당시 소속사로부터 받지 못한 급여를 신현준에게 받아내려 했으나 뜻대로 되지 않자 이에 앙심을 품고 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;1심 재판부는 “신현준은 또 다른 로드매니저의 폭로로 소위 ‘갑질 연예인’으로 언론에 보도되며 당시 출연하던 프로그램에서 하차하게 됐다”며 “A씨의 협박으로 인해 피해자가 심한 두려움을 느꼈을 것으로 보인다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주 해녀 “50년만에 독도에 물질하러 와수다”</title>
+      <link>https://www.chosun.com/national/regional/2024/09/06/K3EWMVTA2FCDBAFUH2O5ATMI4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/06/K3EWMVTA2FCDBAFUH2O5ATMI4M/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Sep 2024 04:04:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YNRGLMO5TNBV3EYOL55NAZCQWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주해녀들이 독도바다 물질시연을 한 뒤 기념촬영을 하고 있다./제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 해녀가 50여년만에 독도 바닷속을 누볐다.&lt;br&gt;&lt;br&gt;제주도는 지난 4~7일 경북 울릉도와 독도 연안어장에서 지역의 어업권과 영유권을 지키는데 큰 역할을 한 제주해녀들의 발자취를 되짚는 물질시연 행사를 개최 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;제주도는 1970년대 독도에서 물질을 했던 제주해녀들의 염원을 실현하고, 제주해녀의 역사적 가치와 헌신을 재조명하기 위해 이번 행사를 기획했다고 설명했다. 행사에는 모두 7명의 제주해녀가 참여했다.&lt;br&gt;&lt;br&gt;특히 1970년대 독도물질 경험이 있는 귀덕2리 어촌계 장영미(69)씨와 비양 어촌계 박영실(66)씨 등 2명의 해녀가 50여 년만에 독도 바다에 입수했다.&lt;br&gt;&lt;br&gt;참가자들은 독도 앞바다에서 과거 물질방식을 그대로 재현하며 독도어장의 해양생물 다양성 등 해양생태계를 확인하는 시연을 펼쳤다. 또한 울릉도와 독도의 해양문화를 탐방하고 울릉군 도동어촌계 해녀들과 만나 지식과 경험을 공유했다.&lt;br&gt;&lt;br&gt;행사에 앞서 제주와 경상북도는 2022년 8월 ‘해양인문 교류 및 섬 생태관광 활성화를 위한 업무협약’을 체결해 독도와 해녀 교류전시 및 해양문화 교류행사 등을 펼치며 3년째 우호를 다지고 있다.&lt;br&gt;&lt;br&gt;제주해녀들은 일제강점기인 1935년 일본어민에 고용돼 울릉도와 독도어장까지 바깥물질을 나갔다. 1950~1970년대에는 독도 의용수비대와 울릉도 어민들의 요청으로 매년 수십 명씩 독도어장에서 미역과 전복을 채취하면서 대한민국 영토 독도의 영유권 강화에 기여한 숨은 주역으로 평가받는다. &lt;br&gt;&lt;br&gt;이들은 독도 의용수비대와 독도 경비대의 경비활동에 필요한 물품운반, 식수보급, 식량조달 을 도왔으며 독도 시설물 건립에도 참여했다.&lt;br&gt;&lt;br&gt;이번 행사에 참여한 해녀들은 “70년전부터 독도 어장을 부지런히 누볐던 선배 해녀들처럼 너무 벅차고 가슴이 뭉클했다”며 “우리땅 독도를 지키는데 제주 해녀들이 큰 보탬이 됐다는 사실이 자랑스럽다”고 말했다.&lt;br&gt;&lt;br&gt;오영훈 제주지사는 자신의 SNS에 “독도는 대한민국 국민이라면 누구나 갈 수 있는 영토임을 제주 해녀가 재확인 한 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>카라큘라, 쯔양에게 옥중 자필 편지… “공갈 방조 혐의는 억울”</title>
       <link>https://www.chosun.com/national/national_general/2024/09/06/FOZ7NYQGZFEQZA6CXZJVW4CRYY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/06/FOZ7NYQGZFEQZA6CXZJVW4CRYY/</guid>
@@ -851,70 +926,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SYZMQZVA3NETBKGRMKCVAS3ZAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오후 5시 33분쯤 부산 북구 덕천동 한 아파트 인근 곡선 경사로를 주행하던 택시가 길가에 주차한 SUV 차량을 충격해 옹벽 아래로 떨어뜨리고 턱에 걸려 있다. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 경사로에 주차하고 있던 차량을 택시가 들이받는 바람에 아래로 떨어져 주변 행인이 다쳤다.&lt;br&gt;&lt;br&gt;4일 부산북부경찰서와 부산소방재난본부에 따르면 전날인 3일 오후 5시 33분쯤 부산 북구 덕천동 아파트 인근 한 경사로에서 70대 운전기사가 몰던 택시가 도로 가장자리에 주차해 있던 스포츠유틸리티차량(SUV) 측면을 들이받았다. 이 사고로 SUV가 5ｍ 높이의 옹벽 아래로 떨어졌다.&lt;br&gt;&lt;br&gt;당시 SUV는 주차 중이라 승객이 없었으나, 택시 운전기사와 추락 충격으로 깨져 날아온 SUV의 유리창 파편에 이마를 맞은 행인 등 2명이 경상을 입었다.&lt;br&gt;&lt;br&gt;경찰은 “택시가 곡선 경사로에서 커브를 돌다가 옹벽 위 도로에 주차된 SUV를 들이받은 것으로 추정된다”고 말했다. 이 사고로 택시 운전사와 추락 충격으로 깨져 날아온 SUV의 유리창 파편에 이마를 맞은 행인 등 2명이 경상을 입었다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>론스타가 냈던 세금 돌려주나…2심도 “정부·서울시 1682억 반환” 판결</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/05/QLSLJG556BABVGCUCYROWZOJYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/05/QLSLJG556BABVGCUCYROWZOJYU/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Sep 2024 06:08:03 +0000</pubDate>
-      <content:encoded>1심에 이어 2심에서도 정부와 서울시가 미국계 사모펀드인 론스타에 부과했던 1680억원대 세금 등을 돌려줘야 한다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F665GKMKUVLPPD3C2N5VJLAOLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고등법원. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 민사14-1부(재판장 남양우)는 5일 론스타펀드 등 9개 회사가 대한민국 정부와 서울시를 상대로 낸 부당이득금 반환 청구 소송에서 원고 일부 승소로 판결했다.&lt;br&gt;&lt;br&gt;원고와 피고 측 항소를 모두 기각하고 미환급 세액 1682억원(법인세 1530억원, 지방소득세 152억원)을 돌려줘야 한다는 1심 판단을 유지했다. 이날 법정에서 선고 이유를 별도로 설명하진 않았다.&lt;br&gt;&lt;br&gt;론스타는 2002~2005년 외환은행과 극동건설, 스타리스 등을 사들인 뒤 2007년 일부를 매각하면서 수천억원대 배당금과 수조원대 시세차익을 얻었지만, ‘한국-벨기에 조세조약’에 따라 국내 기업보다 적은 세금을 냈다.&lt;br&gt;&lt;br&gt;이에 세무당국은 론스타와의 소송 등을 거쳐 론스타가 벨기에의 ‘도관 회사(실질적 관리권 없이 조세회피 목적으로 차린 회사)’를 앞세웠지만 실제로는 국내에 고정 사업장을 두고 있다며 법인세를 부과했다. 외국 법인에 법인세를 부과하려면 국내 고정 사업장이 있어야 한다.&lt;br&gt;&lt;br&gt;하지만 론스타는 과세의 부당성을 이유로 법인세 취소 소송을 제기해 결국 이겼다(2017년 대법원 확정). 정부는 론스타가 국내에 고정사업장을 뒀다고 본 반면에 법원은 그렇지 않다고 판단했기 때문이다.&lt;br&gt;&lt;br&gt;이후 론스타는 대법원 결정으로 취소된 법인세 중 1530여 억원을 돌려받지 못했다며 2017년 12월 정부를 상대로 재차 소송을 제기했다. 아울러 같은 과정으로 부과됐다가 취소된 지방세도 반환하라며 2018년 1월 서울시 등을 상대로 추가 소송을 냈다.&lt;br&gt;&lt;br&gt;1심에서 정부와 서울시 측은 과세처분이 취소됐더라도 원천징수된 세금은 그대로 남아 있어야 한다고 주장했지만, 재판부는 이를 받아들이지 않고 대법원 법인세 취소 판결에 따라 론스타 측 손을 들어줬다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>착륙전 항공기 문 연 30대, 항공사에 7억2700만원 배상 판결</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/09/05/U76VCO2OTBEHBHM2I6WU34A4CI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/09/05/U76VCO2OTBEHBHM2I6WU34A4CI/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Sep 2024 06:05:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YPUNCK4L6FDOFFUCVDLEXODJNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법.고법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;착륙 준비중이던 항공기 출입문을 열어 승객들을 공포에 떨게한 30대 남성에게 항공기 훼손 등의 책임을 물어 항공사에 7억여원을 배상하라고 판결했다.&lt;br&gt;&lt;br&gt;대구지법 민사12부(재판장 채성호)는 아시아나항공이 30대 A씨를 상대로 낸 손해배상청구 소송에서 “A씨는 아시아나 항공 측에 7억2702만8729원을 지급하라”고 5일 판결했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 5월 26일 오후 12시 37분쯤 착륙을 준비하던 제주발 대구행 아시아나항공 8124편에서 비상문 잠금장치를 임의로 조작해 출입문을 연 혐의(항공 보안법 위반·재물손괴)로 재판에 넘겨졌다. A씨의 난동으로 항공기에 타고 있던 초등학생 등 9명이 호흡곤란 등 증세를 보여 착륙 직후 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;당시 비행기는 승객 197명을 태우고 상공 700∼800피트(약 213∼243ｍ)를 날고 있었다. 또 항공기 비상탈출구 불법 개방으로 여객기 비상문과 슬라이드 등 3개 부위가 손상돼 수리비만 6억4000만원가량에 달할 것으로 국토교통부는 추산했다.&lt;br&gt;&lt;br&gt;이에 앞서 대구지법 형사5단독 정진우 판사는 지난 해 11월 항공보안법 위반 등 혐의로 구속기소된 A씨에게 징역 3년에 집행유예 5년을 선고하고 보호관찰과 정신건강의학과 진료 등을 명령했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>택배 집하장서 물건 빼돌린 배달기사 부부 ‘집행유예’</title>
-      <link>https://www.chosun.com/national/regional/2024/09/05/5XTJVEWRVNHWNBK3G7VBRA65OM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/05/5XTJVEWRVNHWNBK3G7VBRA65OM/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Sep 2024 05:13:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;택배 물건 집하장에서 상하차 작업을 하다가 잘못 분류된 물건을 몰래 빼돌린 혐의를 받는 부부 배달기사에게 징역형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;5일 법조계에 따르면 대전지법 형사11단독 장민주 판사는 특수절도 혐의로 기소된 A씨 부부에게 각각 징역 1년에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;택배 배달기사로 일하는 두 사람은 지난 1월 16일 오전 7시 13분쯤 대전 대덕구에 있는 한 택배 집하장에서 배달할 물건을 분류하다가 택배 상자 안에 있는 13만9900원 상당의 옷을 꺼내 가는 등 보름 동안 11차례에 걸쳐 51만원 상당의 물건을 몰래 빼돌린 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이들은 배달 지역별로 택배 상자가 분류되는데, 잘못 분류된 상자가 레일로 들어오면 한 사람이 상자를 뒤로 던져주고 다른 한 사람은 상자 속 물건을 빼내 차 안으로 가져가는 수법으로 물건을 빼돌린 것으로 조사됐다.&lt;br&gt;&lt;br&gt;두 사람이 빼돌린 물품 가운데 7건은 피해자가 누군지도 몰라 배상도 못했다고 한다.&lt;br&gt;&lt;br&gt;장 판사는 “범행이 상당 기간 반복적으로 이뤄졌고, 기본적인 직업윤리를 저버린 범행이라 죄질이 좋지 않다”며 “특정되지 않은 피해자들의 피해가 복구되지 않았고, 일부를 제외하곤 용서도 받지 못했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>보이스피싱 현금수거책으로 일한 10대 알바생, 대법서 무죄 확정</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/05/V4O3WTVK2JCZ7EBJO7BMFWT6LM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/05/V4O3WTVK2JCZ7EBJO7BMFWT6LM/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Sep 2024 05:50:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IHMN6LPFYZXUGQLHFCJRTF3TDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사무 보조 아르바이트인 줄 알고 지원해 보이스피싱 현금수거책으로 일했던 청년이 대법원에서 무죄 판결을 받았다.&lt;br&gt;&lt;br&gt;5일 법조계에 따르면, 대법원 1부(주심 오경미 대법관)는 사기 혐의로 기소된 A씨(21)에게 무죄를 선고한 원심 판결을 지난 7월 31일 확정했다.&lt;br&gt;&lt;br&gt;김씨는 만 18세이던 2022년 6월 ‘캔들 포장 알바’ 채용 공고를 보고 온라인으로 이력서를 냈다. 그런데 해당 공고를 낸 업체가 갑자기 ‘채용을 못 하게 됐다’며 다른 회사의 사무 보조 아르바이트를 제안했고, A씨는 이를 승낙했다.&lt;br&gt;&lt;br&gt;새로 소개받은 회사는 A씨에게 “재무설계 의뢰인에게 돈을 받는 업무”라며 “고객으로부터 받은 돈을 100만원씩 나누어 무통장 입금하라”고 지시했다. 하지만 A씨가 회사 지시로 만난 이들은 보이스피싱 피해자들이었고, 김씨는 피해금을 수거하는 범행에 가담하게 됐다. A씨는 2022년 7~8월 1억원이 넘는 돈을 피해자들로부터 받아 간 것으로 조사됐다. 검찰은 A씨가 보이스피싱 일당과 공모했다고 보고 기소했다.&lt;br&gt;&lt;br&gt;1심은 A씨의 혐의를 유죄로 인정하고 징역 1년 8개월에 집행유예 3년을 선고했다.&lt;br&gt;&lt;br&gt;하지만 2심은 이를 뒤집고 무죄 판결을 내렸다. 2심은 “A씨가 이 사건 당시 보이스피싱 범죄에 가담한다는 점을 인식하지 못한 채 범행을 했을 가능성을 배제할 수 없다”며 “A씨는 당시 아르바이트 외에 사회생활 경험이 없었고, 회사 측의 설명을 그대로 신뢰해 단순한 사무 보조 업무로 믿었을 여지가 다분하다”고 밝혔다. A씨가 일당으로 13만원만 받은 것과 텔레그램 메시지 등 관련 내용을 삭제하지 않은 점 등이 고려됐다.&lt;br&gt;&lt;br&gt;대법원도 원심 판단에 잘못이 없다고 보고 상고를 기각했다.&lt;br&gt;&lt;br&gt;한 법조인은 “보이스피싱 현금 수거책에 대한 유무죄 판단은 피고인의 행위 및 인식 정도에 따라 달라질 수밖에 없다”면서 “사건마다 다르게 판단될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>최재영, 수사심의위 앞두고 “金여사 제출 디올백, 내가 준 것 아냐” 주장</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/05/J6OQZ4HFEZGELLBYPA26JCAZIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/05/J6OQZ4HFEZGELLBYPA26JCAZIU/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Sep 2024 05:26:34 +0000</pubDate>
-      <content:encoded>윤석열 대통령의 배우자 김건희 여사에게 디올백을 건넨 최재영 목사가 “김 여사 측이 동일성 검증을 위해 검찰에 제출한 디올백은 내가 준 것이 아니다”라고 주장했다. 그는 오는 6일 열릴 예정인 검찰수사심의위원회(수사심의위)에 참석해 “의견을 개진할 수 있게 해달라”고도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YHPTVQRXFBMQLOIND5RQCDXNJQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사에게 디올백을 건넨 최재영 목사가 5일 서울 서초구 대검찰청 앞에서 본인의 검찰수사심의위원회 소집 신청을 받아들여줄 것을 요구하는 의견서 공개 기자회견을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최씨는 5일 오전 서울 서초구 대검찰청 앞에서 기자회견을 열고 본인의 수사심의위 소집 신청을 받아들여줄 것을 요구하는 21쪽의 의견서를 공개하며 이 같이 말했다. 그는 “김 여사가 비서에게 ‘쓰라’며 개인적으로 (해당 디올백을) 건네줬다는 제보를 받았다”며 “검찰 수사가 진행될 때 (디올백을) 임의 제출해야 하니 동일 제품을 구입해 제출한 걸로 저는 판단하고 있다”고 했다. 이어 “저는 진위 여부를 판단할 수 있는 시리얼넘버(일련번호)를 갖고 있다”고도 했다.&lt;br&gt;&lt;br&gt;최씨는 이날 “신청인(최씨)이 선물을 준 행위와 김건희 여사에 대한 부탁은 청탁의 목적으로 행해진 것이 맞고 직무 관련성이 존재한다”고 주장했다. 그는 “여러 차례 청탁을 받은 뒤 김 여사는 2022년 9월 13일 고가의 디올백을 선물 받았다”며 “이미 신청인이 청탁했다는 사실을 인지했고 앞으로도 청탁을 할 수 있다는 사실도 인지한 상태에서 디올백을 받은 것”이라고 했다.&lt;br&gt;&lt;br&gt;최씨는 “검찰에서 어떻게 직무 관련성이 인정되지 않는다고 판단한 건지 납득이 가지 않는다”며 “검찰의 결론과 신청인의 주장이 상반되는 상황인 만큼 신청인이 의견을 밝히고 진술할 수 있는 기회를 부여해달라”고 요청했다.&lt;br&gt;&lt;br&gt;최씨는 ‘디올백 수수’ 의혹으로 피의자 조사를 받은 이후 청탁이 있었다는 입장을 유지하고 있다. 김창준 전 미국 연방하원의원의 국정자문위원 임명 및 국립묘지 안장, 통일TV 송출 재개 등을 청탁하거나 청탁하기 위한 만남을 성사시키려 디올백, 샤넬 화장품 세트 등을 선물했다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNWINPNM2EYGK2IIHSNPLW6DFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 전경. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 서울중앙지검 형사1부(부장 김승호)는 청탁금지법상 공직자의 배우자는 처벌할 수 없고, 디올백이 직무 관련성과 대가성이 있다고 보기도 어렵다며 김 여사를 무혐의 처분해야 한다고 결론 내렸다.&lt;br&gt;&lt;br&gt;오는 6일 열릴 수사심의위는 청탁금지법위반·변호사법위반‧알선수재‧직권남용‧증거인멸‧뇌물수수 6개 혐의에 대해 심의할 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울시, 추석 당일·다음날 대중교통 새벽2시까지 연장운행</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/05/DVRNL2OC55FIXAJ6NH3QKZ4NHY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/05/DVRNL2OC55FIXAJ6NH3QKZ4NHY/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Sep 2024 05:33:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UK7LZJYHVBIXXB7XTS47BL5X5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추석 명절을 10여일 앞둔 5일 오전 한 농산물시장에서 시민들이 선물용 과일을 살펴보고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석 당일과 다음 날인 17∼18일 서울 지하철과 시내버스가 새벽 2시까지 연장 운행한다. 추석 연휴 응급환자 발생에 대비해 문 여는 병의원과 약국 1800여곳을 운영한다.&lt;br&gt;&lt;br&gt;서울시는 이같은 내용의 2024 추석 종합대책을 5일 발표했다.&lt;br&gt;&lt;br&gt;귀경객이 몰리는 17∼18일 지하철과 시내버스 막차 시간을 연장한다.&lt;br&gt;&lt;br&gt;지하철 1∼9호선, 우이신설선, 신림선 마지막 열차가 다음 날 새벽 2시에 종착역에 도착하도록 하루 운행이 121회 늘어난다.&lt;br&gt;&lt;br&gt;시내버스는 서울역, 청량리역, 영등포역, 용산역, 수서역, 서울고속터미널, 동서울터미널, 남부터미널에서 종점 방향 막차가 다음 날 새벽 2시에 통과하도록 조정한다.&lt;br&gt;&lt;br&gt;명절 연휴 전후인 13일과 18일 주요 기차역과 터미널에서는 불법 주·정차 특별단속을 한다.&lt;br&gt;&lt;br&gt;연휴 기간 실시간 교통정보는 토피스, 서울교통포털, 엑스(옛 트위터), TBS 교통방송을 통해 볼 수 있다&lt;br&gt;&lt;br&gt;안전 분야 대책도 운영한다.&lt;br&gt;&lt;br&gt;추석 연휴 서울시내 응급의료기관(49곳)과 응급의료기관 외 응급실 운영병원(20곳) 총 69곳이 24시간 운영한다. 연휴 기간 문 여는 병의원과 약국은 올해 설 대비 1.5배인 1800여개로 확대 운영한다.&lt;br&gt;&lt;br&gt;문 여는 의료기관 정보는 서울시 2024 추석 연휴 종합 정보 홈페이지, 응급의료포털, 25개 자치구 홈페이지에서 볼 수 있다.&lt;br&gt;&lt;br&gt;서울시는 지난 3~4일에 이어 오는 10~11일에도 추석맞이 서울사랑상품권을 5% 할인된 금액으로 발행하기로 했다. 9~22일에는 서울사랑상품권을 ‘착한가격업소’에서 사용하면 캐시백이 5%에서 15%로 한시적으로 늘어난다. &lt;br&gt;&lt;br&gt;주요 전통시장에서는 할인행사도 진행되며, 바가지요금, 원산지 허위표시 등 부당거래 집중 점검도 한다.&lt;br&gt;&lt;br&gt;이밖에 온라인 성묘시스템인 ‘사이버추모의집’ 서비스를 운영하고 성묘객을 위해 서울 시립묘지를 경유하는 시내버스 노선은 17∼18일 하루 50회 증회한다.&lt;br&gt;&lt;br&gt;연휴 기간 쓰레기 무단배출 최소화를 위해 자치구별 쓰레기 배출일을 사전에 안내하고 연휴 전 배출된 쓰레기는 최대한 신속히 수거할 예정이다.&lt;br&gt;&lt;br&gt;추석 관련 정보는 2024 추석 연휴 종합 정보 홈페이지에서 볼 수 있다.&lt;br&gt;&lt;br&gt;김태균 서울시 기획조정실장은 “서울시민과 귀성·귀경객이 편안하고 안전한 추석을 보낼 수 있도록 재난 예방 및 대응 체계를 구축하고 24시간 응급의료체계를 유지하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>딥페이크 성착취물 만들고, 텔레그램 통해 판매한 고교생</title>
-      <link>https://www.chosun.com/national/regional/2024/09/05/UGCHM5WU7ZCYDDGMJQC6MBTNPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/05/UGCHM5WU7ZCYDDGMJQC6MBTNPE/</guid>
-      <dc:creator>안산=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Sep 2024 05:11:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CAN752KQEZHDK7QXDFPSAHRYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안산상록경찰서. /경기남부경찰청
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;딥페이크 성착취물을 제작한 뒤 텔레그램을 이용해 판매한 남자 고등학생이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 안산상록경찰서는 청소년보호법상 아동·청소년성착취물의 제작·배포, 성폭력처벌법 위반 혐의로 대구·경북 지역 소재 고등학교 학생 A군을 형사 입건했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;A군은 지난 6월 소셜미디어에 ‘근친, 지인, 연예인 합성, 능욕 판매’라는 광고 게시물을 올린 뒤 연락해오는 이들에게 텔레그램을 이용해 딥페이크 성착취물을 장당 1000~2000원에 판매하는 등 불법 성착취물을 제작하고 유포한 혐의를 받고 있다. 이 같은 방법으로 A군은 10여 차례에 걸쳐 성착취물을 판매해 30만∼40만원을 챙긴 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 소셜미디어를 모니터링하는 과정에서 A군의 게시물을 발견, 구매자를 가장해 수사를 벌여 지난 7월 A군을 검거했다. 또 A군의 자택을 압수수색하고 휴대전화에 대한 디지털포렌식을 실시해 딥페이크 성착취물 317장을 발견해 압수했다.&lt;br&gt;&lt;br&gt;A군 범행의 피해자들은 학생 10명과 교사 1명 등 11명으로, 대부분 A군의 중학교 시절 지인들인 것으로 파악됐다. 구매자들이 자기 지인의 사진을 보내 성착취물 제작을 의뢰한 사례도 있는 것으로 나타나고 있다.&lt;br&gt;&lt;br&gt;경찰은 A군으로부터 딥페이크 성착취물을 구매한 1명도 신원을 특정해 조사하는 한편 나머지 구매자들에 대한 수사도 계속하고 있다. A군은 경찰 조사에서 “돈을 쉽게 벌기 위해 온라인에서 딥페이크 제작법 등을 배워 범행했다”고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 곧 A군에 대해 사전 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>검찰, ‘경기도 법카 사적 유용’ 의혹 김혜경 소환 조사</title>
       <link>https://www.chosun.com/national/court_law/2024/09/05/37FUABQULBGP3LSW4LKCAZ3PLM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/05/37FUABQULBGP3LSW4LKCAZ3PLM/</guid>
@@ -931,15 +942,6 @@
       <description/>
       <pubDate>Thu, 05 Sep 2024 02:42:13 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AXO3PC56I5BJNPLFG2LDLWSS7A.png"&gt;&lt;figcaption&gt;&lt;small&gt;화장품 브랜드 록시땅코리아의 직원이 아시아 홍보대사인 세븐틴의 민규 노출 사진을 소셜미디어에 유출해 논란이 되자 사측이 이를 사과했다. /록시땅코리아 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;화장품 브랜드 록시땅코리아의 직원이 아이돌 그룹 세븐틴의 민규(27·본명 김민규)의 노출 사진을 소셜미디어에 게재해 논란이 인 가운데, 해당 직원이 경찰에 고발 당했다.&lt;br&gt;&lt;br&gt;5일 경찰 등에 따르면 한 팬은 록시땅코리아 직원을 성폭력 범죄의 처벌 등에 관한 특례법 위반(카메라 등 이용촬영) 혐의로 서울 강남경찰서에 고발했다.이 팬은 “성적 욕망 또는 수치심을 유발할 수 있는 사진임을 인지하고 있었을 것으로 판단된다”고 고발 취지를 밝혔다.&lt;br&gt;&lt;br&gt;이 논란은 록시땅코리아 직원으로 보이는 네티즌이 자신의 인스타그램 스토리에 민규가 광고를 촬영할 당시 찍은 것으로 보이는 사진 여러 장을 캡처해 올리면서 불거졌다. 이 네티즌은 “사진첩의 상당 부분 차지하고 있던 민규. 불안해서 못 지웠는데 이제 정리 좀 해볼까”라고 언급했다.  특히 이 사진에는 민규가 노출 사진도 다수 포함돼 논란이 커졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O2DJQHRZARC35CYV6CJRRP5RHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;록시땅코리아 직원으로 보이는 네티즌이 민규가 광고 촬영할 당시 찍은 것으로 보이는 사진을 자신의 인스타그램 스토리에 올렸다. 해외 팬이 노출이 있는 사진을 빨간 원과 회색 사각형으로 가렸다. /X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;논란이 거세지자 록시땅코리아는 3일 공식 소셜미디어 계정을 통해 입장문을 내고 “당사는 최근 록시땅 아시아 앰배서더 캠페인 관련 비공식 사진들이 무단으로 당사 직원 소셜미디어 계정을 통해 게재된 사안에 대해 어떠한 변명의 여지도 없으며 모든 책임을 인정하고 사과드린다”고 했다. 이어 “당사는 해당 직원을 즉각 직무 배제했으며 인사조치(대기발령)를 했다”고 설명했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>편의점에 없던 ‘장애인 시설’, 국가배상 해야하나… 대법원 공개 변론</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/05/5UYGAEIB3BGALJRZOYHTQ3I53E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/05/5UYGAEIB3BGALJRZOYHTQ3I53E/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Sep 2024 01:56:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7SIS66CZ5NBFM7JHUNGXDEHLY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장을 비롯한 대법관들이 지난달 18일 서울 서초구 대법원에서 전원합의체 판결 선고를 하기 위해 자리해 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소규모 편의점에 장애인 접근을 위한 편의시설을 설치하지 않아도 되는 법령을 20년 넘게 그대로 뒀다면, 국가는 장애인들에게 배상해야 할까. 과거 장애인등편의법 시행령은 바닥 면적이 300㎡(약 90평) 미만인 점포는 장애인 출입로, 호출벨 등을 설치하지 않아도 된다고 규정하고 있었다. 이 규정에 따라 2019년 기준 전국 90% 이상 편의점에는 장애인 시설이 없었다.&lt;br&gt;&lt;br&gt;조희대 대법원은 장애인 접근권을 제한한 이 규정을 고치지 않은 것이 위법한지, 국가의 배상 책임이 있는지에 대해 다음 달 23일 공개 변론을 연다고 5일 밝혔다. 전원합의체 공개 변론은 조희대 대법원장이 취임한 후 처음 열리는 것으로, 2021년 공개 변론 이후 3년 만이다.&lt;br&gt;&lt;br&gt;이 사건은 2018년 장애인 김모씨와 이모씨가 GS편의점 운영사인 GS리테일과 정부를 상대로 “장애인들의 편의점 이용이 부당하게 제한되고 있다”며 차별구제 청구 소송을 내면서 시작됐다. 원고와 장애인 단체들은 장애인등편의법 시행령이 장애인의 행복추구권과 일반적 행동자유권을 제한하고, 20년 넘게 이를 개정하지 않은 국가에 배상 책임이 있다고 주장했다.&lt;br&gt;&lt;br&gt;1심과 2심은 “편의점이 장애인을 위한 편의시설을 설치해야 한다”고 판결했지만, 국가 배상 책임은 인정하지 않았다. 정부의 고의∙과실이 있었다고 인정하기 어렵다는 것이다. 해당 시행령은 2심 재판 중인 2022년 4월 개정돼, ‘바닥 면적 50㎡(약 15평) 이상 점포’의 경우 장애인 편의시설 설치가 의무화됐다.&lt;br&gt;&lt;br&gt;대법원은 이 사건을 대법관 전원이 참여하는 전원합의체에 회부해 심리하기로 결정했다. 대법원은 “이 사건은 장애인 접근권에 대한 실질적 보장 여부뿐 아니라 행정입법 부작위로 인한 국가배상책임 인정 여부가 문제 된 다른 영역에도 큰 영향을 미칠 수 있다”며 “국민들 일상적 생활과의 밀접성과 사회적 파급력 등을 고려해 폭넓은 의견을 수렴하고자 여러 기관∙단체에 의견서 제출 요청서를 보냈다”고 밝혔다. 대법원은 한국보건사회연구원, 국가인권위원회, 기획재정부, UN 장애인권특별보고관 등에 의견서를 보내달라고 요청한 것으로 나타났다.&lt;br&gt;&lt;br&gt;대법원은 다음 달 공개 변론에 원고 및 피고 측 전문가를 참고인으로 불러 의견을 들을 예정이다. 장애인 측 참고인으로는 배융호 한국환경건축연구원 부원장과 김중권 중앙대 법학전문대학원 교수가, 정부 측 참고인으로는 안성준 한국장애인개발원 환경정책기획팀장과 안병하 강원대 법학전문대학원 교수가 출석할 예정이다.&lt;br&gt;&lt;br&gt;대법원 전원합의체 공개 변론은 사회적 파급력이 큰 사건을 공개해 재판의 공정성과 투명성을 확대하고, 합리적 규범을 제시하는 대법원 재판 심리의 실제를 국민들에게 전달하기 위해 열린다. 장애인 접근권에 대한 이번 전원합의체 판결은 변론 종결 후 대법원장 및 대법관들의 최종 토론을 거쳐 향후 2~4개월 내에 나올 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“엘베 불법 전단 뗀 여중생을 범죄자 낙인”… 경찰에 항의 쏟아졌다</title>
