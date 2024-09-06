@@ -13,6 +13,87 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 대진연, 광화문 광장서 집회 중 체포</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/06/7PN3BAEJJZCQ5MT6DISRLTK2XY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/06/7PN3BAEJJZCQ5MT6DISRLTK2XY/</guid>
+      <dc:creator>강우석 기자, 서보범 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Sep 2024 10:06:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JSZ3DPI5D5DDFEBDA4AQIDZHSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;./독자제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국대학생진보연합(대진연)이 6일 오후 7시쯤 서울 종로구 광화문광장에서 집회를 벌이다 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;서울 종로경찰서는 이날 공무집행방해 등 혐의로 대진연 관계자 2명을 현행범 체포했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원종합청사 보안요원 앞으로 가스총 휴대한다</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/06/P72RBO3BAREDBEXLWGJXXBOMHA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/06/P72RBO3BAREDBEXLWGJXXBOMHA/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Sep 2024 09:57:24 +0000</pubDate>
+      <content:encoded>최근 법정 내에서 흉기 피습 사건이 발생한 가운데 전국 최대 법원인 서울중앙지법·서울고법 등이 있는 서울법원종합청사가 재발 방지를 위해 법정 보안을 강화한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C2TR4UCHC5A6HCOPD2Q6II7ZLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 법정 내부 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법은 홍동기 서울고법 수석부장판사 주재로 서울중앙지법, 회생법원 수석부장판사, 보안관리대장 등이 참석한 간담회를 거쳐 법정출입구 검색, 복도 및 법정 내부 보안 등을 보강하기로 결정했다고 6일 밝혔다. 앞서 지난달 28일 서울남부지법에선 피고인석에 앉아 재판을 받던 사람이 방청석에 앉아있던 한 남성으로부터 흉기에 목 부위를 수차례 찔리는 사고가 발생했다.&lt;br&gt;&lt;br&gt;서울고법은 먼저 법정 출입을 위해 거치는 검색대에서부터 면밀한 검색이 이루어지도록 하고(지난 4일부터 시행), 법원보안관리대원의 교육 및 훈련을 강화하기로 정했다. &lt;br&gt;&lt;br&gt;아울러 법정 내에서는 법원보안관리대원이 가스총 등을 휴대해 위급상황에 신속하게 대응할 수 있도록 하고(지난 4일부터 시행), 법원보안관리대원이 소송관계인석과 방청석 사이에 위치하도록 조정했다. 방청객 등이 소송관계인이 있는 곳으로 갑작스럽게 진입하는 것 등을 막기 위한 조치다.&lt;br&gt;&lt;br&gt;서울고법은 이를 뒷받침하기 위해 법원보안관리대원 증원과 장비 및 물적 시설 확충 등을 법원행정처에 건의할 예정이라고 설명했다. 그러면서 향후 법원행정처에서 추가로 결정되는 사항도 반영하고, 법정보안 강화 방안을 다각도로 검토하겠다고 했다.&lt;br&gt;&lt;br&gt;서울고법 관계자는 “보안강화 조치로 소송관계인이나 방청객이 입정하는데 상당한 시간이 소요되는 등 불편이 발생할 수 있는데, 이에 대한 이해와 협조가 필요하다”며 “이러한 부분을 고려해 정시에 입정할 수 있도록 준비할 필요가 있다”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이재명 “김문기와 골프·낚시했지만 기억나는 사람 아냐”</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/06/VB2Z4MHBEJG2BCOYQPOK2NUW4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/06/VB2Z4MHBEJG2BCOYQPOK2NUW4Y/</guid>
+      <dc:creator>방극렬 기자, 박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Sep 2024 09:21:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IUEMPV53TVBMPIV7KAKIEUUYQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 6일 서울 서초구 서울중앙지방법원에서 열린 선거법 재판에 출석하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표가 6일 ‘선거법 위반 사건’ 재판 피고인 신문에서 “고(故) 김문기 전 성남도시개발공사 개발1처장과 2015년 호주 출장에서 골프와 낚시 등을 함께 한 건 맞는 듯하지만 기억은 나지 않는다”고 말했다. ‘성남시장 시절 김씨를 몰랐다’는 기존 주장을 이어간 것이다.&lt;br&gt;&lt;br&gt;이 대표는 이날 서울중앙지법 형사34부(재판장 한성진) 심리로 열린 선거법 재판 피고인 신문에서 김씨와 출장에서 레저 활동을 한 사실은 인정하면서도 구체적인 기억은 없다며 혐의를 부인했다. 이 대표는 대선 기간 김씨를 성남시장 시절 알았으면서도 방송에서 몰랐다고 하고, 국정감사에서 국토부 협박으로 백현동 개발 부지 용도를 상향 조정했다고 거짓말한 혐의(선거법상 허위사실 공표)로 2022년 9월 기소됐다.&lt;br&gt;&lt;br&gt;지난 대선 이후 ‘7개 사건 11개 혐의’로 기소된 이 대표가 피고인으로 검찰의 신문을 받은 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;이 대표는 “2015년 1월 호주의 골프장에서 김씨, 유동규(전 성남도개공 본부장)씨와 골프를 쳤느냐”는 검사 질문에 “팩트인 거 같다”면서도 “어떻게 진행했는지 기억나지 않는다”고 했다. ‘골프 일정이 예정된 것이 맞느냐’, ‘김씨와 골프 치러 가는 것을 몰랐느냐’는 질문에 이 대표는 “기억에 없다”고만 했다. 검사가 골프장에서 함께 대화했다는 유씨 진술을 제시하자, 이 대표는 “기억에 없고 하위 직원들과 체통 떨어지게 사소한 잡담은 하지 않는다”고 했다.&lt;br&gt;&lt;br&gt;이에 검사가 “공식 출장 일정에서 이탈해 4~5시간 골프를 친 건 이례적이지 않느냐”고 묻자, 이 대표는 “검사님들 2년 가까이 보는데도 이름 매치되는 분이 잘 없다”며 “출장을 누구하고 갔던지 당연히 기억은 안 난다”고 했다.&lt;br&gt;&lt;br&gt;같은 호주 출장 때 시드니의 한 해변가에서 김씨 등과 갯바위 낚시를 한 사실도 이 대표는 잘 기억하지 못한다고 했다. 이 대표는 “바닷가에 가서 낚싯대 빌려서 했던 건 맞는 거 같다”면서도 “기억이 혼재하다. 사진 보고 기억나는 정도”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VL7UAT4IC5GHRHXSCCNUI4UBQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 이재명(맨 오른쪽) 대표가 성남시장 재직 당시인 2015년 뉴질랜드 출장지에서 성남도시개발공사의 유동규(가운데) 전 기획본부장, 고(故) 김문기(뒷줄 맨 왼쪽) 개발1처장과 함께 촬영한 사진. /국민의힘 이기인 성남시의원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 대표는 “검찰은 (김씨 같은) 하위 직급 실무자와 특별한 관계라는 것을 상상하고 싶어 하는데, 시장이 그렇게 한가하지 않다”며 “그 사람(김문기)과의 특별한 인연이 기억에 없었기 때문에 제가 거기에 대해 관심을 가질 이유가 없다. 유동규만 해도 엄청 시끄러운데”라고 했다.&lt;br&gt;&lt;br&gt;이 대표와 검찰은 이날 신문 내내 치열한 신경전을 펼쳤다. 이 대표는 김씨와의 관련성을 묻는 검사 질문에 수차례 “질문이 많아 일률적 답변이 어렵다” “팩트 위주로 질문해달라”고 받아쳤다. 이 대표는 검찰이 질문하던 도중 끊고 답변을 하거나, 오른손을 가로젓고 고개를 흔들며 주장을 이어나가기도 했다.&lt;br&gt;&lt;br&gt;이에 검찰은 답변 태도를 지적하며 정확한 답을 요구했다. 검사는 “질문이 끝나면 답변을 하라” “묻는 것에 정확히 답변하라”고 했다. 이 대표가 계속 질문을 다시 해달라고 요구하자 검사가 “답변하지 않은 것으로 하겠다”고 말하기도 했다.&lt;br&gt;&lt;br&gt;재판부는 오는 20일 남은 피고인 신문을 진행하고, 이 대표의 최후 진술과 검찰의 구형 의견을 듣는 결심(結審) 공판을 진행할 예정이다. 결심부터 선고까지 한 달 정도 걸리는 것을 감안하면 선고 공판은 빠르면 10월 말쯤 열릴 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, ‘김정숙 여사 샤넬 재킷 의혹’ 前 주프랑스 한국문화원장 소환</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/06/35ZWQWVQ5ZGGBKS3IOZ3DJXDOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/06/35ZWQWVQ5ZGGBKS3IOZ3DJXDOU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Sep 2024 09:09:23 +0000</pubDate>
+      <content:encoded>문재인 전 대통령의 배우자 김정숙 여사의 해외 순방 관련 의혹을 수사하는 검찰이 ‘샤넬 재킷’을 가장 먼저 전시했던 기관장을 두 번째로 소환했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EVFFELEDRJFTGBBAYTYXUCREEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문재인 전 대통령의 부인 김정숙 여사가 2018년 10월 15일(현지 시각) 에마뉘엘 마크롱 대통령의 부인인 브리지트 마크롱 여사와 프랑스 파리 루브르 박물관으로 입장하고 있다. 김 여사가 입은 재킷은 샤넬이 한국에서 개최했던 2015/16 크루즈 컬렉션 무대에 소개되었던 작품이다. 김 여사는 이번 프랑스 국빈방문에서 마크롱 대통령 내외의 따뜻한 환대에 사의를 표하고자, 한국와 프랑스의 우정을 상징하는 샤넬의 한글 트위드 자켓을 별도로 빌린 것으로 알려졌다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 형사2부(부장 조아라)는 6일 전해웅 전 주프랑스 한국문화원장을 참고인 신분으로 불러 조사했다. 지난 7월 말 전 전 원장을 조사한 지 한 달여 만이다. 검찰은 전 전 원장을 상대로 샤넬 재킷을 전시하게 된 경위 등을 물은 것으로 알려졌다. 주프랑스 한국문화원은 지난 2021년 김 여사가 프랑스 순방 때 입은 샤넬 재킷을 처음 전시한 곳이다.&lt;br&gt;&lt;br&gt;김 여사는 2018년 10월 프랑스 순방 당시 한글을 모티프로 한 샤넬 재킷을 대여해 착용했다. 인터넷에서 김 여사가 이 재킷을 반납하지 않았다는 의혹이 제기되자, 청와대는 2022년 3월 해당 재킷은 샤넬이 돌려받아 국립한글박물관에 기증했다고 해명했다.&lt;br&gt;&lt;br&gt;이후 정치권에선 국립한글박물관이 기증받은 재킷이 김 여사가 착용했던 것과 다른 제품이라는 지적이 나왔다. 그러자 샤넬은 “국립한글박물관 요청에 따라 별도 재킷을 제작해 기증했다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;이에 검찰은 지난 3일 재킷 기증 의사를 우리 정부에 처음 밝힌 샤넬 본사 소속 한국인 디자이너 김모씨를 소환해 조사했다. 검찰은 전 전 원장을 조사하며 김씨의 진술 내용에 대해서도 검증하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난 7월 샤넬 재킷을 기증받은 국립한글박물관의 김일환 관장, 전시운영과 관계자 등을 참고인 신분으로 소환했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>재판 중 필리핀 도주한 보이스피싱 조직원…8년 만에 송환</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/06/324KPFHVGFBZ3P6GDMHTECGISI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/06/324KPFHVGFBZ3P6GDMHTECGISI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Sep 2024 09:53:19 +0000</pubDate>
+      <content:encoded>보이스피싱에 가담한 혐의로 재판 받던 중 선고를 앞두고 필리핀으로 도주한 보이스피싱 콜센터 조직원이 8년여 만에 현지에서 검거돼 국내로 송환됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRXSGRZQL3IDI3CMO6NWUQB5RM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 전경. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검은 폭력범죄단체 구리식구파 조직원 출신의 보이스피싱 사범 이모(38)씨를 필리핀 현지에서 검거해 국내로 강제 송환했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;이씨는 지난 2013~2014년 중국 대련시에 있는 보이스피싱 콜센터에서 상담원으로 근무하며 피해자들로부터 26회에 걸쳐 4억원을 가로챈 혐의로 지난 2016년 3월 기소됐다. 재판을 받던 그는 그해 5월 해외로 도주했다. 법원은 2017년 2월 이씨에게 징역 3년을 선고했고 형이 확정됐다.&lt;br&gt;&lt;br&gt;검찰은 지난 2017년 4월 인터폴에 국제 공조수사 및 수배 요청을 내렸고, 지난 5월에는 필리핀 현지 파견 검찰 수사관에게 이씨 관련 정보 제공 및 검거를 요청했다. 이후 필리핀 국가수사청(NBI), 필리핀 이민청 수배자검거팀(FSU) 등 유관 기관과 이씨 정보를 공유하고 주거지 탐문, 사회관계망서비스(SNS) 추적 등을 벌여 이씨를 체포했다.&lt;br&gt;&lt;br&gt;이씨는 필리핀 도주 후 8년간 필리핀 국적의 배우자와 가정을 꾸리고 고가 차량 판매 사업을 통해 생활을 이어간 것으로 조사됐다. 검찰은 이를 바탕으로 차량 위장거래를 시도해 이씨를 검거했다고 한다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “해외 도피 중인 보이스피싱 사범 등 국외 도피 대상자들에 대한 집중 검거 활동을 통해 죄에 상응하는 처벌이 이뤄질 수 있게 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아파트 입주자 단톡방 화재 사진 보고 현장으로 뛰어 간 아빠들 ‘표창’</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/06/DCR5VLMNTBB55DWD4CHRRISDB4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/06/DCR5VLMNTBB55DWD4CHRRISDB4/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Sep 2024 09:14:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZVNNTVEMRBD4JD5CECJTVRKMWA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;인천 계양소방서는 6일 화재 특별유공 시민 표창 수여식을 갖고, 최근 계양구 오류동 아파트 지하 주차장 화재 초기 진화에 앞장선 시민 5명에게 표창장을 전달했다. /계양소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지하 주차장에서 불이 났다는 소식을 접하고 바로 현장으로 뛰어 가 소화기로 진화에 나선 아파트 주민들이 표창을 받았다.&lt;br&gt;&lt;br&gt;불은 지난달 31일 오후 7시 32분쯤 인천시 계양구 오류동의 한 아파트 지하 주차장 2층에서 발생했다.&lt;br&gt;&lt;br&gt;입주자대표 회의를 위해 관리사무소에 모여 있던 박모(59)씨가 회의에 앞서 휴대전화를 진동모드로 바꾸려고 하는 순간, 지하 주차장 차량에 불이 붙은 사진 2장이 화면에 표시됐다. 아파트 주민 110여 명이 참여하고 있는 단톡방에 ‘119에 신고했다’는 내용과 함께 화재 사진이 공유된 것이다.&lt;br&gt;&lt;br&gt;박씨가 “주차장에 불이 났다”고 알리자, 모여 있던 채모(45)씨 등 주민 3명이 바로 250m 정도 떨어진 현장으로 뛰어가 소화기를 들었다. 박씨는 재차 119에 신고했고, 소방서와 통화하며 정확한 화재 위치 등을 안내했다.&lt;br&gt;&lt;br&gt;현장으로 뛰어간 주민들은 소화기를 13대나 사용하며 진화에 나섰고, 그러는 사이 신고를 받고 출동한 소방 당국이 도착했다. 소방 당국은 장비 20여 대와 인력 50여 명을 투입해 20여 분 만에 불을 껐다.&lt;br&gt;&lt;br&gt;박씨는 “화재 사진을 보는 순간, 지난달 인천 청라에서 발생한 지하 주차장 화재 모습이 머릿속에 스치면서 빨리 불을 꺼야겠다는 생각뿐이었는데, 함께 있던 분들도 같은 생각이었던 것 같다”고 했다.&lt;br&gt;&lt;br&gt;현장으로 뛰어갔던 채씨는 “일단 불을 꺼야겠다는 생각뿐이었다”며 “다른 주민분들과 함께 소화기를 분사하느라 정신이 없었는데, 인명피해 없이 마무리돼 다행스럽게 생각한다”고 했다.&lt;br&gt;&lt;br&gt;채씨를 비롯해 현장에서 소화기를 뿌렸던 주민들은 연기를 마셔 며칠간 통원 치료를 받기도 했다. 이들은 모두 어린 자녀를 키우는 아빠들이었다. 단톡방에 처음 화재 사진을 올린 김모씨는 남편과 함께 지하 주차장 입구에서 차량 진입을 통제해 추가 피해를 막았다.&lt;br&gt;&lt;br&gt;인천 계양소방서는 6일 박씨와 채씨 등 5명에게 화재 특별유공 시민 표창장을 전달했다. 초기 진화에 적극적으로 나서 화재 확산을 막은 공로를 인정한 것이다.&lt;br&gt;&lt;br&gt;김희곤 계양소방서장은 “주민분들의 적극적인 대처로 화재가 초기에 쉽게 진압될 수 있었다. 이웃의 생명과 재산을 보호하기 위해 위험을 무릅쓴 주민분들께 감사드린다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4VY3LPN5HNCMPFMU2TKPIFFUIA.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 31일 인천 계양구 한 아파트 지하주차장에서 화재가 발생하자 입주민 3명이 불을 끄기 위해 달려가고 있다. /보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘1m 높이 간격 4단’...지하차도 벽면 ‘탈출 구명봉’ 설치</title>
+      <link>https://www.chosun.com/national/2024/09/06/VGHIXGWMNBD7DCBNUFYZ5O2GBE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/09/06/VGHIXGWMNBD7DCBNUFYZ5O2GBE/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Sep 2024 08:18:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XEFXU6SQBRJTHDHNYWUAWMOAEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남도가 전국 최초로 제안해 추진 중인 '구명봉'. 이 구명봉은 집중호우 때 지하차도가 완전히 물에 잠기기 전 시민들이 봉을 잡고 버티면서 바깥으로 빠져나가도록 돕는 시설이다. /경남도 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 발생한 ‘오송지하차도 침수 사고’ 직후 경남도가 전국 처음으로 제안한 ‘구명봉’이 도내 지하차도 6곳에 설치됐다.&lt;br&gt;&lt;br&gt;경남도는 창원 명곡·용원·석전, 진주 남강, 김해 불암, 함안 검암 등 지하차도 6곳에 구명봉을 설치했다고 6일 밝혔다. 또 올해 하반기까지 창원 3곳, 밀양과 양산에 1곳 등 총 5개 지하차도에 구명봉을 추가로 설치한다고 덧붙였다.&lt;br&gt;&lt;br&gt;구명봉은 집중호우 때 지하차도가 완전히 물에 잠기기 전 시민이 봉을 잡고 버티면서 바깥으로 빠져나가도록 돕는 시설이다. 스테인리스 재질로 지하차도 양쪽 벽면을 따라 도로 양 끝까지 수평으로 설치했다. 바닥 1m 지점부터 시작해 1m 간격을 두고 총 4단 높이다. 긴급 상황 발생 시 물 높이에 따라 구명봉을 잡고 버틸 수 있다.&lt;br&gt;&lt;br&gt;지하차도 출·입구 쪽 벽면에는 지하차도를 탈출한 사람이 도로 위로 이동할 수 있도록 (비상)사다리도 마련돼 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YBJAWNDIDJLLFKMEAFNOUQYNUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구명봉. /경남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번에 설치한 구명봉 시설은 작년 7월 15일 충북 청주 오송지하차도 침수 당시 구조물 난간을 잡고 생명을 구한 의인의 사례를 보고, 사고 약 일주일 만에 경남도 도로과에서 낸 아이디어다. 전국 최초로 행정안전부에 구명봉 설치 사업을 건의해 재난안전특별교부세 6억 5000만원을 받아 설치를 추진하고 있다. 전국 지자체에서도 경남도가 제안한 구명봉이나 유사한 시설을 설치하면서 지하차도 안전시설을 강화하는 추세다.&lt;br&gt;&lt;br&gt;특히 지난 4월 오송지하차도 침수 사고 관할 지자체인 충북도청 도로과에서 직접 경남도를 찾아 구명봉 설계 등 설치 사업 자료를 받아 갔고, 오송지하차도에 구명봉을 설치했다.&lt;br&gt;&lt;br&gt;국토교통부는 구명봉 설치 필요성에 공감하고, 경남도의 사업 성과를 분석한 후 방재 지침 개정을 적극적으로 검토하기로 했다. 경남도도 국토부·행안부와 계속해 사업현황 등을 공유한다는 방침이다.&lt;br&gt;&lt;br&gt;경남도 김영삼 교통건설국장은 “오송지하차도 사례와 같이 극한의 침수 상황에서 구명봉이 있다면 인명 피해 예방이 가능할 것”이라며, “방재지침 개정 등을 통한 구명·구난시설 보강으로 도민 안전 확보에 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>DJ DOC 정재용 “생활고에 400원 외상도…딸 양육비 보내주고 싶다”</title>
+      <link>https://www.chosun.com/national/people/2024/09/06/SKET3ONTKRGRTF7C2U526HTHBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/06/SKET3ONTKRGRTF7C2U526HTHBM/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Sep 2024 08:48:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7EWX3QCNEVCGZIZ5GSTXYYD6HA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;생활고를 겪고 있다고 밝힌 정재용. /채널A&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수많은 히트곡을 가진 DJ DOC 멤버 정재용(51)이 생활고를 겪고 있는 근황을 공개했다.&lt;br&gt;&lt;br&gt;정재용은 5일 방송된 채널A ‘아빠는 꽃중년’에서 400원이 없어 집 근처 편의점에 외상을 달았다며 방송 출연료 입금으로 2년 만에 소득이 생겼다고 감격스러워 했다.&lt;br&gt;&lt;br&gt;2년 전 이혼한 정재용은 마트에서 액자를 구입해 딸 연지양의 사진을 액자에 넣은 뒤 딸이 지켜보고 있다는 마음으로 담배와 술 등을 줄이겠다고 다짐하기도 했다.&lt;br&gt;&lt;br&gt;하지만 방송에서 공개된 정재용의 재정 상태는 심각한 수준이었다. 정재용은 전화 문의를 통해 현재 자신의 건강보험료 체납액만 2969만3480원이라는 사실을 알게 됐다.&lt;br&gt;&lt;br&gt;정재용은 “진짜 힘들었을 때는 이걸 낼 수 없는 생활들이 있었다”며 “먹고, 노는데 쓰고 사치하는데 쓰는 게 아니라 주위로 다 나가야 하는 그런 상황들이었다. 결국엔 (밀린 보험료를) 조금씩 내다가도 못 내게 되더라”고 해명했다.&lt;br&gt;&lt;br&gt;정재용은 전처에게 양육비를 보내고, 딸 이름으로 통장을 만들어 조금씩 돈을 모아주고 싶다는 소망을 밝히며 금용복지지원센터로 찾아가 상담을 받았다. 상담 과정에서 정재용이 대략 2억원의 채무가 있다는 사실이 밝혀졌다.&lt;br&gt;&lt;br&gt;정재용은 본인 명의의 통장도 만들지 못하는 상황이라며 DJ DOC 저작권료가 들어오는 주거래 통장도 오래 전 압류됐다고 밝혔다. 이번 방송 출연료도 소속사 대표의 계좌를 통해 받았다고 했다.&lt;br&gt;&lt;br&gt;정재용은 “제 이름, 제 명의로 된 것을 사용 안 한지가 (오래 됐다). 제가 쓸 수 있는 카드도 전혀 없다”라고 말했다.&lt;br&gt;&lt;br&gt;상담사는 정재용에게 “지금의 생활에서 많은 변화가 필요하다”면서 “딸을 생각해 어떤 일이라도 해야 하고, 소득증대를 위해 주야불문 노력해야 한다”고 조언했다.&lt;br&gt;&lt;br&gt;이에 정재용은 “막일이라도 하고 싶다. 막일도 할 수 있다. 할 수 있는 건 다 해봐야겠다는 생각이다”라며 “양육비는 내가 줄 수 있는 최대한으로, 꾸준히 보낼 것”이라고 다짐했다.&lt;br&gt;&lt;br&gt;한편 정재용은 2018년 19살 연하의 그룹 아이시어 출신 이선아와 결혼해 2019년 딸을 품에 안았으나 2022년 결혼 4년 만에 이혼했다. 딸은 전 아내가 양육 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내년 건강보험료율 2년 연속 동결</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/09/06/X7SBIVCFQBGH7HXRKDW2SZGMIU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/06/X7SBIVCFQBGH7HXRKDW2SZGMIU/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Sep 2024 08:17:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMD6EEZK3VNAPIBLJ2FA7YLRWU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;박민수 보건복지부 제2차관이 6일 오후 서울 서초구 국제전자센터에서 열린 '제17차 건강보험정책심의위원회'에서 모두발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2025년 건강보험료율이 올해와 같은 7.09%로 동결됐다. 지난해에 이어 2년 연속으로 건강보험료율이 동결된 것이다.&lt;br&gt;&lt;br&gt;보건복지부는 6일 오후 2024년 제17차 건강보험정책심의위원회(건정심)를 열고 이같이 결정했다. 이날 건정심에는 건강보험료율 ▲동결 ▲0.9% 인상 등 2개 안이 올라왔다.&lt;br&gt;&lt;br&gt;건강보험 정책 최고 의결기구인 건정심은 복지부 차관, 노동·경영계 위원 8명, 의약계 위원 8명, 복지부·기획재정부·건강보험공단·건강보험심사평가원 등 공익 위원 8명 등 25명으로 구성된다.&lt;br&gt;&lt;br&gt;건강보험료율은 물가 상승과 의료비 증가 등을 고려해 주로 매년 인상돼왔다. 건보료율이 동결된 건 2009년을 포함해 이번에 네 번째다. 2년 연속으로 건보료율이 동결된 건 이번이 처음이다. 지난해 건정심은 총선을 앞두고 급격한 물가 상승 등을 이유로 만장일치로 건강보험료율을 동결했다.&lt;br&gt;&lt;br&gt;이날 복지부는 “지역·필수의료 투자 등 의료개혁 추진을 위한 지출 소요가 있어 일정 수준의 인상 필요성이 제기되었으나, 지속되는 고물가·고금리 등으로 인한 국민 경제의 보험료 부담 여력과 건강보험 제도 도입 이래 가장 안정적으로 운영 중인 건강보험 재정 여건을 고려하여 보험료율은 올해와 같게 유지하기로 결정했다” 밝혔다.&lt;br&gt;&lt;br&gt;올해 건강보험료율은 직장 가입자 기준 7.09%다. 월 평균 건강보험료는 직장 가입자 15만8009원, 지역 가입자 8만3909원이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세]  9월 8일 일요일 (음력 8월 6일 乙亥)</title>
       <link>https://www.chosun.com/national/national_general/2024/09/06/G5LNGHNRBRHENH2DKYTJYCSGVU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/06/G5LNGHNRBRHENH2DKYTJYCSGVU/</guid>
@@ -816,37 +897,6 @@
       <content:encoded>고등학교 교과 과정에 ‘기후변화’가 선택 과목 교과서로 나온다. 기후변화의 심각성과 각종 환경 생태 영향, 기상 재난에 대한 대처법 등을 배우게 된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WI22VMUJW5BEDPXUVGSKTEPKAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 기상청에 따르면, 기상청이 개발을 지원해 만든 교과서인 ‘기후변화와 환경생태’(비상교육)가 대전시교육청에서 인정 교과서로 최종 합격했다. &lt;br&gt;&lt;br&gt;비상교육 뿐 아니라 씨마스, 일진사, 천재교육이 출판한 같은 제목의 교과서까지 총 4종이 인정 교과서에 합격했다. 교과서는 제작 주체에 따라 정부가 깊이 관여하는 ‘국·검정 교과서’와 국·검정 교과서가 없는 주제·내용 등을 담은 ‘인정 교과서’로 나뉜다.&lt;br&gt;&lt;br&gt;교과서는 ‘기후와 환경 생태의 특성’ ‘기후 위기와 환경 생태 변화’ ‘기후 위기에 대응하는 우리의 노력’ 등 3단원으로 이뤄져 있다. 기후변화 양상을 배우고 온난화에 따른 해수면 상승에 대응해 어떻게 ‘해상 도시’를 설계할지, 현재 기후 데이터에 따른 한반도의 미래 기후 지도는 어떻게 바뀔지, 탄소 중립 학교를 어떻게 만들어갈지 등을 고민해 보는 식으로 제작됐다.&lt;br&gt;&lt;br&gt;교과서에선 최근 온난화 여파로 발생 중인 각종 극한 기상에 어떻게 대비해야 할지도 배운다. ‘초강력 태풍’이 예보됐을 때, 집중호우가 발생했을 때 어떻게 대응할지를 가르친다. 강한 햇볕이 바닥에 반사돼 나오는 복사열에 의한 폭염과, 한파에 대한 행동 요령 등도 담겼다.&lt;br&gt;&lt;br&gt;기상청 관계자는 “기후변화를 과학적으로 이해하고 미래의 기후위기 대응 역량을 높이는데 도움이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>대법원도 인정한 부모-자식간 뇌물죄, 문재인 옥죄다 [판읽기] </title>
-      <link>https://www.chosun.com/national/court_law/2024/09/05/HUJLU657LJA4DNXKQDDJAV34BA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/05/HUJLU657LJA4DNXKQDDJAV34BA/</guid>
-      <dc:creator>양은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Sep 2024 09:25:31 +0000</pubDate>
-      <content:encoded>문재인 전 대통령의 딸 다혜씨가 소셜미디어를 통해 전 남편 서모씨의 타이이스타젯 특혜 채용을 수사하는 검찰에 대해 “이쯤 가면 막하자는 거지요? 이제 더 이상은 참지 않겠다”고 반발했다. 고(故)노무현 전 대통령이 지난 2003년 ‘검사와의 대화’에서 “취임 전 부산동부지청에 청탁 전화를 한 적이 있지 않느냐”고 하자 “이쯤 가면 막 하자는 거지요”라고 한 내용을 차용한 것이다.&lt;br&gt;&lt;br&gt;하지만 자녀에 특혜채용이 뇌물죄로 유죄가 확정된 사례도 있다. 2019년 대구고법은 시(市)금고 선정 대가로 경북 경산시 전 세무과장의 아들을 부정 채용한 전 대구은행장에게 직접 뇌물죄를 인정해 징역 1년 6개월을, 전 세무과장에겐 징역 8개월에 집행유예 2년을 각각 선고했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NQU6VHHSTZEYZJPBNCTQO5KW7E.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 유튜브 '판결문 읽어주는 기자'.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 서모씨의 특혜 채용 의혹과 관련해 문 전 대통령에게 형법 129조의 이른바 ‘직접 뇌물죄’를 적용하는 방안을 검토중이다. 결혼한 자녀라도 ‘독립 생계’를 꾸리지 못하고 부모에게 생계를 의지하는 관계라면 자녀에게 준 금품이나 취업 기회 등은 공직자인 부모에 대한 ‘직접 뇌물’이 될 수 있다. 만일 다혜 씨가 결혼 후에도 부모로부터 생활비 지원을 받다가 전남편이 취직 후 부모 지원이 끊겼다면 직접뇌물죄로 의율될 가능성이 커지는 것이다.&lt;br&gt;&lt;br&gt;다혜씨는 소셜미디어에 “‘경제공동체’란 말을 만들어 성공했던지라 다시금 추억의 용어를 소환했다”는 내용도 썼다. 윤석열 대통령이 참여했던 국정농단 수사에서 검찰이 박근혜 전 대통령과 최서원(개명 전 최순실)씨를 ‘경제공동체’로 기소하고 법원이 유죄를 인정한 내용을 말한다. 하지만 친족관계도 아닌 박 전 대통령과 최씨에게 ‘경제공동체’가 인정된 사실은 전(前)사위의 특혜 채용 수사에 불리하게 작용할 가능성도 상당하다는 전망도 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JOJPDOHFMFGQBP5E52O4SSFCLY.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 유튜브 '판결문 읽어주는 기자'.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 ‘판읽기’에서는 문재인 전 대통령 뇌물죄 수사를 두고 과거 유사사건 처벌사례, 관련 법리 등을 살펴 실제 유죄가능성을 다각도로 분석한다. ‘판읽기’는 유튜브에서 ‘판결문 읽어주는 기자’를 검색하면 볼 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>가덕도 신공항 부지 조성 공사, 4번째도 유찰...수의계약 가능성 커져</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/09/05/HVRDLRBRBVBW3CR7G5NNDDCWZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/09/05/HVRDLRBRBVBW3CR7G5NNDDCWZY/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description>가덕도 신공항 부지 건설 공사를 위한 네 번째 입찰이 무산됐다.</description>
-      <pubDate>Thu, 05 Sep 2024 09:16:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BJDJJPZRZBCF7GPJTIULK33QYA.png"&gt;&lt;figcaption&gt;&lt;small&gt;가덕도 신공항 조감도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가덕도 신공항 부지 건설 공사를 위한 네 번째 입찰이 무산됐다. 조달청과 국토교통부는 5일 가덕도 신공항 부지 건설 공사의 4차 입찰이 최소 조건을 충족하지 못해 유찰됐다고 밝혔다. 2개 이상 컨소시엄이 입찰에 참가해야 하는데, 접수 마감일인 이날까지 1곳(현대건설 컨소시엄)만 등록했기 때문이다. 활주로와 방파제 등을 포함해 가덕도 신공항 관련 총사업비의 78%(10조5300억원)를 차지하는 핵심 공사가 입찰자를 찾지 못해 네 차례나 유찰된 것이다.&lt;br&gt;&lt;br&gt;입찰이 연거푸 유찰됨에 따라 국토부는 수의계약 카드도 검토하는 것으로 전해졌다. 당초 국토부는 10조원이라는 공사 규모 탓에 경쟁 입찰 필요성을 주장하며 수의계약에 반대 입장을 나타냈다. 그러나 유찰이 더 지속될 경우 2029년 개항 계획에 타격을 받을 수 있어 입장 변경이 불가피한 상태라는 게 전문가들의 견해다. 국토부 관계자는 “수의계약 추진도 검토하겠다”고 했다.&lt;br&gt;&lt;br&gt;다만, 수의계약으로 진행할 경우 더 험난한 과정을 겪을 가능성이 크다. 우선 현대건설 컨소시엄과 공사비를 재산정해야 하는데 이 협상 과정이 만만찮을 것으로 보인다. 결과에 따라 특혜 시비 등이 제기될 가능성도 있다. 건설업계에서 여러 뒷말이 나오는 것도 부담이다. 일각에선 반복 유찰과 관련해 수의계약을 염두에 뒀으면서도 향후 수사나 감사를 의식해 국토부가 명분 쌓기식 행정을 한 것 아니냐는 견해도 나오고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>英 왕실 공주도 지드래곤 촬영 삼매경...韓 행사에 무슨 일?</title>
-      <link>https://www.chosun.com/national/people/2024/09/05/47GPTKXM7RE7ZPCSJMSIBVAT7A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/05/47GPTKXM7RE7ZPCSJMSIBVAT7A/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Sep 2024 08:59:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VXGJQEK7E5DHXLFLTMXYO7DO4I.png"&gt;&lt;figcaption&gt;&lt;small&gt;유지니 공주가 빅뱅의 멤버 지드래곤 소장품 경매에 참석한 모습이 포착됐다./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 빅뱅 멤버 지드래곤의 소장품 경매 행사에 찰스 3세 영국 국왕의 조카인 유지니 공주가 참석한 사실이 알려졌다.&lt;br&gt;&lt;br&gt;4일(현지 시각) 데일리메일 등에 따르면 유지니 공주는 지난 2일(한국 시각) 인천 파라다이스시티 아트스페이스에서 열린 ‘낫띵 벗 어 ‘G’탱: 지드래곤의 예술과 아카이브’ 관련 행사에 참석했다.&lt;br&gt;&lt;br&gt;이날 행사에서는 미국의 가수 겸 프로듀서인 퍼렐 윌리엄스가 설립한 디지털 경매 플랫폼 ‘주피터’와 지드래곤이 협업해 소장품을 공개했다.&lt;br&gt;&lt;br&gt;당시 참석자들이 촬영한 영상은 소셜미디어에 널리 퍼졌다. 특히 영상 속에 등장한 유지니 공주의 모습이 화제가 됐다. 공개된 영상엔 마이크를 잡은 지드래곤이 “와주셔서 감사드린다”고 말하는 가운데 유지니 공주가 미소를 지으며 휴대폰으로 촬영하고 있는 모습이 담겼다.&lt;br&gt;&lt;br&gt;데일리메일은 유지니 공주가 갤러리 하우저 앤 워스의 부관장 자격으로 행사에 초대된 것으로 보인다고 했다. 유지니 공주가 혼자 한국을 방문한 것인지 남편 잭 브룩스 뱅크와 두 아들도 동행했는지는 알려지지 않았다.&lt;br&gt;&lt;br&gt;유지니 공주는 서거한 엘리자베스 2세 여왕의 차남이자 현 영국 국왕인 찰스 3세의 동생인 앤드루 왕자의 차녀다. 뉴캐슬 대학교에서 예술사와 영문학을 전공했고, 갤러리 디렉터로 일하며 평소 예술 관련 다양한 활동에 참여하고 있다. 2018년 사업가인 잭 브룩스 뱅크와 결혼해 슬하에 두 아들을 두고 있다．&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6MSYR7VQFNHBFEFRB724MDQUXY.png?width=1230&amp;height=692&amp;auth=9e1e87866d449bf473c5052a5a7f2c897367514dcb16d0bbe514c64244996a91&amp;smart=true" type="image/png" height="692" width="1230">
-        <media:description type="plain">유지니 공주가 빅뱅의 멤버 지드래곤 소장품 경매에 참석한 모습이 포착됐다./인스타그램</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
       <title>공직선거법 위반 혐의 안도걸 국회의원 사촌동생 구속</title>
       <link>https://www.chosun.com/national/national_general/2024/09/05/P4WBIZ3XJVC5LOAVHBNFIBDQEI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/05/P4WBIZ3XJVC5LOAVHBNFIBDQEI/</guid>
@@ -857,33 +907,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/VXATGLD4ATWHWPPBUAVEV3EAXA.jpg?width=720&amp;height=446&amp;auth=4ef42dbd0093aa8639e63290da10e1c3706299b54818b565ac41f30f9757da96&amp;smart=true" type="image/jpeg" height="446" width="720">
         <media:description type="plain">안도걸 후보 선거사무실 들어서는 경찰</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>3억 횡령한 직원에 다시 일할 기회 줬더니 1억 추가 횡령</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/05/O774ZQJUJBFLFDXNNE6DGASF5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/05/O774ZQJUJBFLFDXNNE6DGASF5M/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Sep 2024 08:13:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 이미지. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;회사에서 3억원 가량을 횡령하다 적발된 직원이 추가로 1억원 가량을 횡령하다 적발돼 실형을 선고받았다. 회사 대표는 직원의 ‘변제 약속’을 믿고 다시 근무할 기회를 줬다가 추가 범행을 당한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;5일 광주지법 형사10단독(나상아 판사)은 업무상횡령, 사문서위조, 위조사문서행사 등의 혐의로 재판에 넘겨진 A씨(40·여)에게 징역 3년을 선고했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 광주의 한 유리업체에서 근무를 하던 지난 2022년 7월부터 지난해 11월까지 수십차례에 걸쳐 회사 자금 4억 9000여만원을 횡령한 혐의다. A씨는 빼돌린 돈 중 수천만원을 자신의 채무 변제와 생활비 등에 사용했다.&lt;br&gt;&lt;br&gt;특히 A씨는 동종전과로 징역 4년을 선고받고 가석방된 기간에 피해 회사에 경리로 취업해 다시 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;회사 대표는 A씨의 범행을 초기에 알아챘으나 ‘채무 변제’ 약속을 믿고 계속 일할 기회를 줬다. 하지만 A씨는 다시 회사 자금에 손을 대 1억원이 넘는 돈을 추가 횡령했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인이 횡령한 금액의 합계가 거액이고 피해가 상당 부분 회복되지 않았다. 가석방과 누범기간에 추가 범행을 저질렀다”며 “회사의 대표가 피고인의 변제 약속을 믿고 계속해 경리 업무를 맡겼음에도 얼마 지나지 않아 추가 범죄를 저지른 점, 범죄 전력 등을 종합적으로 고려해 형을 정했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘고발 사주’ 2심 선고 하루 전 변론 재개… “추가 확인 필요”</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/05/OLVEVRTGBBFLTO7FFPLCA32JXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/05/OLVEVRTGBBFLTO7FFPLCA32JXY/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Sep 2024 08:16:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYSILUO2RZNJ7HRT55YTSRSSPE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;'고발 사주' 의혹으로 기소된 손준성 대구고검 차장검사(검사장)가 지난 7월 24일 서울 서초구 서울고등법원에서 열린 2심 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘고발 사주’ 의혹으로 1심에서 징역 1년이 선고된 손준성 대구고검 차장검사(검사장)의 항소심 선고가 하루 전인 5일 재판부의 결정으로 연기됐다.&lt;br&gt;&lt;br&gt;서울고법 형사6-1부(재판장 정재오)는 오는 6일 선고할 예정이었던 고발 사주 사건 재판에 대해 직권으로 변론을 재개하기로 결정했다고 이날 밝혔다. 항소심 재판부는 다음 달 4일 재판을 열기로 했다.&lt;br&gt;&lt;br&gt;재판부는 “손 검사장의 업무 내용과 절차, 검찰 내부망(이프로스) 전자정보 생성·저장·관리, 김웅 전 국민의힘 의원과의 공모 여부가 선거법 위반과 어떤 관련이 있는지 등에 관해 추가로 확인할 부분이 있다”고 밝혔다. 그러면서 고위공직자범죄수사처(공수처)와 손 검사장 측에 이에 관한 의견과 증거를 제출받기 위해 재판을 재개했다고 설명했다.&lt;br&gt;&lt;br&gt;재판부는 다음 달 4일 공판을 진행하며 위 쟁점 사안에 대해 정리할 전망이다. 앞서 공수처는 항소심 결심 공판에서 손 검사장에게 1심과 같은 징역 5년을 구형했다.&lt;br&gt;&lt;br&gt;항소심 결과가 한 달 이상 늦춰지면서, 선고 이후 재개될 전망이었던 손 검사장의 탄핵 심판 절차도 더 밀릴 것으로 보인다. 손 검사장은 이 사건으로 탄핵이 소추됐지만, 동일한 형사 소송이 진행 중이라는 이유로 탄핵 심판이 중지된 상태다.&lt;br&gt;&lt;br&gt;‘고발 사주’ 사건은 윤석열 대통령이 검찰총장이던 2020년 4·15 총선을 앞두고 자신과 아내의 명예를 훼손한 혐의로 유시민씨, 최강욱 전 민주당 의원 등을 고발해 달라며 당시 손준성 대검 수사정보정책관을 통해 김웅 미래통합당(현 국민의힘) 의원에게 고발장을 전달했다는 의혹에서 시작됐다. 공수처는 손 검사장만 기소했다. 1심은 손 검사장이 총선에 부당한 영향력을 행사한 혐의(선거법 위반)에 대해선 무죄로 보면서도, 실명(實名) 판결문이 첨부된 고발장을 전송한 것과 관련해 공무상 비밀 누설 혐의 등에 대해선 유죄로 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“교통사고 났는데 이송할 병원이 없었다”...120km떨어진 병원 이송</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/09/05/BO3UHOOWBZCHLIZHKJNZZ3FJNU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/09/05/BO3UHOOWBZCHLIZHKJNZZ3FJNU/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Sep 2024 08:26:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRLP7PKFBJGAVF5P2GEG3KQNPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주에서 교통사고 환자가 이송할 병원을 찾지 못해 4시간 만에 강원도 원주의 상급병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;5일 충북소방본부 등에 따르면 지난 4일 오후 9시쯤 청주시 오창읍의 한 도로에서 오토바이를 몰고 가던 A씨는 차선 변경을 하던 46인승 전세 버스에 치이는 사고를 당했다.&lt;br&gt;&lt;br&gt;이 사고로 A씨는 하반신에 다발성 골절을 입고 주요 장기가 손상되는 등 크게 다쳤다. 당시 A씨의 상태로는 전문 장비와 의료진이 있는 대형병원에서 치료를 받아야 했다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 구급대는 중증외상센터가 있는 충북 유일 상급병원인 충북대병원 등 청주권 4개 병원에 이송 가능 여부를 문의했지만, 의료진이 없다는 등의 이유로 모두 이송이 거부됐다.&lt;br&gt;&lt;br&gt;A씨는 사고 약 40분 만에 청주의 2차 종합병원 응급실로 이송돼 기관 내 삽관과 수혈 등 응급 처치를 받았다. 하지만 상태가 심각해 전문 치료를 받을 수 있는 병원을 찾는 과정에서 또다시 12곳의 병원을 수소문했지만 또다시 이송이 거부된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;결국 A씨는 사고 4시간 30여분 만인 이튿날 오전 1시 34분쯤 약 120㎞ 떨어진 강원 원주세브란스기독병원에 도착해 치료를 받을 수 있었다. 사고 당시 A씨는 의식이 있었지만, 처치가 지연되면서 원주로 이송될 당시에는 의식이 저하된 상태였다고 한다. A씨는 현재 중환자실에서 치료를 받는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;소방 관계자는 “그나마 응급처치라도 받을 수 있는 2차 병원으로 이송된 것이 다행이었다”라며 “상급병원 이송이 더 지체됐다면 생명이 위태로웠을 것”이라고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘악동클럽’ 출신 이태근 사망…”코로나 백신 추가 접종 뒤 뇌출혈”</title>
@@ -909,30 +932,6 @@
 &lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
         <media:credit role="author" scheme="urn:ebu">정다움</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>[단독] 경찰, ‘국산 테이저건’ 도입 무산...계약금 29억도 못 돌려받고 제조사와 소송중</title>
-      <link>https://www.chosun.com/national/2024/09/05/HEQSXV44RJDMTBD2YEJFVNM6O4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/09/05/HEQSXV44RJDMTBD2YEJFVNM6O4/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Sep 2024 07:34:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HI37O2W5ZRJRFNKJAYY7PE6XGY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 미근동 경찰청/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 용의자를 제압하기 위해 세 번 연속 발사할 수 있는 ‘국산 테이저건’(권총형 전기충격기) 도입을 추진해왔지만, 안전 기준 미달로 사실상 무산된 것으로 5일 파악됐다. 특히 경찰은 지난 2022년 이 테이저건 구매 계약 차원에서 총 29억 4300만원을 국내 제조사에 선입금했는데, 이후 테이저건 도입이 무산됐음에도 돈을 돌려받지 못하고 소송을 벌이는 중이다. 현장 경찰관들에게 보급될 테이저건 사업이 총체적으로 부실하게 추진됐다는 지적이 나온다.&lt;br&gt;&lt;br&gt;경찰청은 2016년부터 2018년까지 총 13억원(정부 출연 10억원)을 들여 세 번 연속으로 쏠 수 있는 국산 테이저건을 개발했다. 당시 현장 경찰관들이 보유했던 테이저건은 미국 액슨사의 ‘X26 테이저건’으로, 한 번 장전에 단 한 번의 발사만 가능했다. 다시 쏘려면 10초 이상 시간이 걸려 범인을 마주한 급박한 상황에서는 사실상 재사용이 어려웠다. 이런 단점을 보완하기 위해 추진한 사업이 테이저건의 국산화였다. 전량 수입하던 테이저건의 국산화가 가능해지면 대당 200만원 정도 하던 단가도 저렴해질 것으로 기대됐다.&lt;br&gt;&lt;br&gt;하지만 이 테이저건은 작년 7월 1차 납품 검사에서 안전 기준에 미달했다. 그해 10월 2차 검사에서도 재차 불합격 판정을 받았다. 결국 경찰은 장비에 대한 보완과 납품 검사에 필요한 기간을 고려할 때 연내 납품이 어려운 것으로 판단, 조달청에 계약 해지를 요청했고, 그해 12월 계약을 해지했다.&lt;br&gt;&lt;br&gt;경찰이 예산을 쓸 목적으로 안전 기준도 통과하지 못한 테이저건을 무리하게 보급하려한 것 아니냐는 지적이 나온다. 2022년도 예산에 테이저건 구매가 잡혀있었기 때문에 이 예산을 처리하기 위해 서둘러 구매 계약을 맺은 셈이다. 경찰은 2019년 말 시제품 100정 구매 후 2021년 11월까지 전수 검사를 벌였고 성능을 개선했다고 한다. 이후 2022년 1월부터 6월까지 100정을 현장 시범 운용했다고 한다. 그 결과 문제가 없다고 판단한 경찰은 2022년 11월 “2023년 2월까지 납품한다”는 계약을 체결했다. 본체 2755정, 카트리지 83300발에 대한 총 36억 8000만원의 80%에 해당하는 29억 4300만원을 2022년도 경찰 예산 선금으로 제조사에 지급한 것이다. 경찰은 잔금 7억 3600만원에 대해서만 2023년도 예산으로 이월했다.&lt;br&gt;&lt;br&gt;경찰은 테이저건 도입이 무산됐음에도 제조사에 선지급한 29억 4300만원을 돌려받지 못하고 있다. 제조사가 경찰청을 상대로 납품 검사 결과에 대해 이의 제기를 하는 내용의 소송을 제기했기 때문이다. 경찰청 관계자는 “소송이 한창 진행되고 있기 때문에 구체적인 내용에 대해선 말할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;경찰청은 한국형 전자충격기 구매가 무산됨에 따라 대신 미국산 테이저건(카트리지 포함)을 구매하는 데 총 87억원 가량을 썼다. 경찰청은 국산 테이저건 제조사가 품질을 보완한다면 업체간 경쟁을 통해 도입 여부를 재검토할 수 있다는 입장이다.&lt;br&gt;&lt;br&gt;경찰이 장비 도입 과정에서 잡음이 나오는 건 이번이 처음이 아니다. 현재 현장 경찰에 보급된 38구경 리볼버 권총은 살상력이 높아 피의자가 사망하는 경우가 있었다. 이에 경찰은 플라스틱 재질 탄환을 사용해 위력이 기존 권총의 10분의 1 수준인 저위험 권총을 대안으로 내세웠다.&lt;br&gt;&lt;br&gt;하지만 경찰이 현장 경찰관에게 보급될 ‘저위험 권총’은 1차, 2차 테스트에서 경찰 자체 성능 기준에 미달했다. 지난해 실시한 1차 검증 테스트 때는 경찰이 설정한 목표 15개 항목 중 4개가 기준 미달이었다. 올해 4~6월 2차 검증 테스트 땐 , 2개 항목에서 기준에 미달했다. 경찰은 “목표를 미충족했지만, 목표에 근접하거나 국제표준을 충족했으며, 전문가들도 ‘현장 도입 적정’ 평가를 내렸다”고 밝혔다. 경찰청 관계자는 “향후 저위험 권총에 대한 시범 운용, 테스트 등을 추가로 진행해 100% 문제가 없다고 판단되면 저위험 권총 도입을 단계적으로 추진할 것”이라며 “국산 테이저건 도입 때와 같은 일은 벌어지지 않도록 검증에 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/HI37O2W5ZRJRFNKJAYY7PE6XGY.JPG?width=4960&amp;height=3184&amp;auth=1872aeca3f69e86e69875a756f0e0676cf23f5e9aa016c128b483c90ca9e8da3&amp;smart=true" type="image/jpeg" height="3184" width="4960">
-        <media:description type="plain">(서울=뉴스1) 박정호 기자 = 9일 서울 서대문구 미근동 경찰청 국기대에 걸린 경찰청 깃발이 바람에 휘날리고 있다. 
-
-'이태원 참사' 부실 대응 여부를 수사하고 있는 검찰은 이날 핼러윈 인파 급증 예상 문건 삭제와 관련해 경찰청 정보국 등 7개 장소에 수사관을 보내 압수수색을 진행하고 있다. 2023.2.9/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 박정호 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>김혜경 측 “결론 정한 수사, 진술 거부”...檢 조사 2시간만에 귀가</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/05/J5ZJNIBBERAMXLPB7XFJCXX7N4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/05/J5ZJNIBBERAMXLPB7XFJCXX7N4/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Sep 2024 07:16:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H6DXZGBHZNPITIQ4CJCBBJREPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표 배우자 김혜경씨가 5일 오후 경기도 수원시 영통구 수원지방검찰청에서 '경기도 법인카드 유용' 의혹 관련 피의자 신분 조사에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘경기도 법인카드 사적 유용’혐의를 받는 더불어민주당 이재명 대표의 배우자 김혜경씨에 대한 5일 검찰의 소환 조사가 이날 약 2시간 만에 종료됐다. 이날 김씨는 대부분의 진술을 거부한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;수원지검은 이날 언론에 입장문을 내고 “수원지검 공공수사부(부장 허훈)는 오후 1시 40분부터 3시 35분까지 김씨에 대해 경기도 예산 사적 사용 혐의와 관련된 조사를 진행했다”고 밝혔다. 김씨는 검찰 조사를 마친 후 귀가했다.&lt;br&gt;&lt;br&gt;이날 조사가 끝나고 수원지검 청사 밖으로 나온 김씨의 변호인인 법무법인 다산의 김칠준 변호사는 “어차피 검찰이 추석 밥상 위에서 (미리) 결론을 정해놓고 하는 형식적인 수사라고 생각해 전면적으로 진술을 거부했다”고 말했다. 김 변호사는 “(검찰 질문들이) 저희로서는 익히 예상했던 질문들”이라며 “더 이상 추가 소환은 없을 거 같다”고 했다. 김 변호사는 김씨와 같은 혐의를 받고 있는 이 대표에 대한 소환 조사 일정에 대해선 “잘 모른다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFGIRJQTDTN7QWEBYYF73VS4V4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표와 부인 김혜경씨. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김씨의 검찰 소환 조사 사실은 이날 오전 민주당의 서면 브리핑을 통해 알려졌다. 민주당은 김씨가 이날 오후 검찰에 출석한다며, “야당 대표로 모자라 배우자까지 추석 밥상머리에 제물로 올리려는 정치검찰의 막장 행태를 강력히 규탄한다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 수원지검은 입장문에서 “사실과 다른 허위 주장”이라고 반박했다. 검찰은 “지난 7월 4일부터 8월 2일까지 3회에 걸쳐 김씨에게 출석을 요청하는 한편, 김씨의 변호인과 조사 일정을 협의했으나, 최초 출석 요청일로부터 50일 이상 경과하기 까지 협의가 이뤄지지 않았다”고 밝혔다. 검찰은 “수사가 지연되는 것을 방지하기 위해 8월 26일 서면조사로 대체하겠다는 의사를 김씨의 변호인에게 통보했으나, 변호인은 이를 거부하고, ‘9월 5일 출석해 조사를 받겠다’는 의사를 밝혀 (김씨가)출석일자를 직접 선택했다”고도 했다. 검찰은 또 “김씨의 출석 조사와 관련하여 철저히 보안을 유지했고, 조사 종료시까지 어떠한 내용도 외부에 알린 사실이 없다”고도 했다.&lt;br&gt;&lt;br&gt;경기도 법인카드 사적 유용 의혹은 이 대표가 경기도지사였던 2018년부터 2021년까지 김씨가 사실상 자신의 수행비서로 일한 전 경기도 별정직 5급 공무원 배모씨로 하여금 음식과 사적 물품 등을 결제하도록 했다는 것이다. 검찰은 김씨가 배씨에게 지시해, 경기도 법인카드로 산 초밥과 샌드위치, 과일 등을 자신이 있는 경기 성남시 수내동 자택이나, 경기도지사 관사 등으로 배달하게 한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;이 같은 사실은 전 경기도 별정직 공무원인 공익제보자 조명현씨가 지난 대선을 앞두고 폭로하면서 알려졌다. 조씨는 지난해 8월 김씨와 배씨의 유용 부분 이외에, 이 대표가 경기도 법인카드 유용을 지시하거나 묵인한 점을 조사해달라며 국민권익위원회에 신고했다. 권익위는 이 사건을 검찰에 넘겨, 현재 수원지검이 수사 중이다.&lt;br&gt;&lt;br&gt;수원지검은 이후 이 대표에 대한 소환조사를 진행하고, 이 대표 부부와 배씨에 대한 기소 여부를 검토할 방침이 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“응급실인줄 몰랐다”... 파견 군의관들, 근무 거부하고 돌아갔다</title>
@@ -963,15 +962,6 @@
       <description/>
       <pubDate>Thu, 05 Sep 2024 06:00:45 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3JOMPASFXNFF5OR4MNE3DDEMYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이우용&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이우용(61) 삼성서울병원 암병원장이 세계대장항문학회 신임 회장에 취임한다. 임기는 8일부터 2년간이다.&lt;br&gt;&lt;br&gt;1962년 창립된 세계대장항문학회는 대장항문 질환을 치료하는 81국 449명의 대학병원 의료진으로 구성된 이 분야 대표 학술 단체다.&lt;br&gt;&lt;br&gt;이 신임 회장은 1988년 서울대 의대를 졸업했다. 삼성서울병원 대장암센터장, 외과 과장, 기획실장 등 주요 보직을 두루 거쳤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘경기도 법카 사적 유용’ 의혹 김혜경 소환 조사</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/05/37FUABQULBGP3LSW4LKCAZ3PLM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/05/37FUABQULBGP3LSW4LKCAZ3PLM/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Sep 2024 02:44:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TAOMGTLUZNMRVMLBNA6HDXO3SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공직선거법 위반 혐의로 불구속 기소된 더불어민주당 이재명 전 대표의 배우자 김혜경 씨가 지난 7월 25일 오전 경기 수원시 영통구 수원지방법원에서 열린 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 ‘경기도 법인카드 사적 유용’ 의혹과 관련해 더불어민주당 이재명 대표의 배우자인 김혜경씨를 5일 오후 소환 조사한다.&lt;br&gt;&lt;br&gt;이 사건을 수사 중인 수원지검 공공수사부(부장 허훈)는 이날 오후 2시부터 김씨를 불러 조사한다. 김씨는 이른바 ‘법카 사적 유용 의혹’의 업무상 배임 등 혐의 피의자다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 김씨 측은 검찰에 비공개 소환조사를 요청한 것으로 알려졌다. 김씨는 이날 취재진의 포토라인에 서지 않고, 수원지검 지하통로 등 다른 경로를 통해 청사에 들어갈 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난 7월 4일 이 대표 부부 측에 검찰로 출석해 조사받을 것을 통보했다. 이 대표 측은 “민주당 전당대회인 8월 18일 이후 출석하겠다”고 했고, 이후 검찰과 소환 조사 일정을 조율해 온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;당시 수원지검은 “형사소송법에 근거한 통상의 수사 절차로 고발된 혐의 사실에 관해 당사자의 진술을 듣고 소명할 기회를 주는 차원이며, 검찰은 증거와 법리에 따라 사건을 처분할 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 사건은 이 대표가 경기도지사였던 지난 2018년부터 2021년까지 김씨가 사실상 자신의 수행비서로 일한 전 경기도 별정직 5급 공무원 배모씨로 하여금, 경기도 법인카드로 초밥과 샌드위치, 과일 등의 음식이나 사적 물품 등을 결제해 관사나 경기 성남 수내동 자택으로 사오게 하는 등의 방식으로 경기도 예산을 사적으로 썼다는 의혹이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YMQPBG4TU7XFSVZRKL7U7KIVTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표와 그의 배우자인 김혜경씨. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 같은 사실은 전 경기도 별정직 공무원인 공익제보자 조명현씨가 지난 대선을 앞두고 폭로하면서 수면 위로 드러났다. 조씨는 지난해 8월 김씨와 배씨의 유용 부분 외에, 이 대표가 경기도 법인카드 유용을 지시하거나 묵인한 점을 조사해달라며 국민권익위원회에 신고했다. 권익위는 이 사건을 검찰에 넘겨, 현재 수원지검이 수사 중이다.&lt;br&gt;&lt;br&gt;수원지검은 당시 경기도지사 비서실과 총무과에서 근무했던 직원들에 대한 조사를 진행해왔다. 경기도청에 대한 압수수색도 벌였다. 검찰은 영장에 이 대표와 김씨, 배씨를 피의자로 적시했다. 검찰은 이날 김씨에 대한 소환 조사에 이어 이 대표에 대한 소환 조사를 마친 후, 기소 여부를 검토할 것으로 보인다.&lt;br&gt;&lt;br&gt;김씨는 지난 2022년 9월 7일에도 검찰 소환 조사를 받았다. 김씨는 지난 대선 경선 과정에서 경기도 법인카드로 민주당 전현직 국회의원의 배우자와 자신의 수행원 등 6명에게 식사비 10만4000원을 제공해 공직선거법상 기부행위를 위반한 혐의를 받고 있는데, 이 사건은 수원지법에서 1심 재판이 진행 중이다.&lt;br&gt;&lt;br&gt;한편, 민주당은 이날 오전 서면브리핑을 통해 김씨의 검찰 소환조사 사실을 밝히며, “야당 대표로 모자라 배우자까지 추석 밥상머리에 제물로 올리려는 정치검찰의 막장 행태를 강력히 규탄한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
