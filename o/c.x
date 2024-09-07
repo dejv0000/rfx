@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>오늘·내일 곳곳 소나기… 다음주도 낮 최고 34도 더위</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/09/07/E2FYBZGFL5D2BI46SET3ZVLGMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/07/E2FYBZGFL5D2BI46SET3ZVLGMU/</guid>
+      <dc:creator>안준용 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Sep 2024 01:30:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MCOGH47ITZO7BCYYMGEEU7WHKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 서울 종로구 광화문광장에서 우산을 쓴 시민들이 이동하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 7일은 전국에 구름이 많은 가운데 남부 지방을 중심으로 전국 곳곳에 소나기가 내린다.&lt;br&gt;&lt;br&gt;이날은 절기상 ‘밤 기온이 내려가 풀잎에 이슬이 맺히기 시작한다’는 백로(白露)다. 가을 기운이 완연한 시기를 가리키지만, 이날도 대구 등 일부 지역 낮 최고 기온은 33도에 육박할 것으로 예상된다. 서해안·남해안 지역, 제주도에선 열대야가 나타나는 곳도 있을 것으로 보인다.&lt;br&gt;&lt;br&gt;기상청에 따르면 7일 예상 강수량은 경기 남부·강원·대전·세종·충남·충북 5∼20㎜, 서울·인천·경기 북부 5㎜ 안팎, 전남 동부·전북 동부·대구·경북 5∼60㎜, 광주·전남 서부·전북 서부·울산·경남 5∼40㎜다. 제주도에도 5∼20㎜ 비가 내릴 것으로 보인다.&lt;br&gt;&lt;br&gt;일요일인 8일도 전국에 구름이 많고, 강원 내륙·산지와 전라 동부, 경상권, 제주도 일부 지역에 소나기가 내릴 것으로 예보됐다. 예상 강수량은 5~40㎜다.&lt;br&gt;&lt;br&gt;최근 아침 기온이 떨어지면서 일교차가 10도 안팎으로 클 것으로 보인다. 8일 아침 최저 기온은 서울 23도, 인천 23도, 춘천 21도, 대전 22도, 세종 21도, 전주 22도, 광주 23도, 대구 24도, 부산 25도, 울산 23도, 제주 25도다. 낮 최고 기온은 서울 32도, 인천 30도, 춘천 31도, 대전 33도, 전주 33도, 광주 33, 대구 31도, 부산 31도, 울산 29도, 제주 31도로 예보됐다.&lt;br&gt;&lt;br&gt;추석 연휴 직전인 다음 주(9~13일)도 평년보다 더울 전망이다. 아침 기온 19∼26도, 낮 기온 26∼34도로 평년(최저 기온 16∼21도, 최고 기온 25∼28도)보다 높을 것으로 보인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VYPBVXOXMNFI7EKMKAHXZZUUUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>성비·MBTI로 조 짠다… 두근두근 연애 리얼리티 쇼 같은 패키지 여행</title>
       <link>https://www.chosun.com/national/weekend/2024/09/07/FSWSNAL5UBEKZBHGURWM4QYB6Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2024/09/07/FSWSNAL5UBEKZBHGURWM4QYB6Q/</guid>
@@ -901,15 +910,6 @@ MZ가 로맨틱 연인 찾기 여행에 나섰다.&lt;/small&gt;&lt;/figcaption&
       <description/>
       <pubDate>Fri, 06 Sep 2024 02:07:31 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3KSJUAWRPJJ4XMWWBVXGDZBWGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9월에도 가시지 않는 더위로 열대야 현상이 발생한 3일 제주시 한림읍 협재해수욕장에 관광객들이 찾아와 물놀이를 즐기고 있다. 기상청에 따르면 올해 제주(북부) 열대야 발생 일수는 57일로 1923년 기상 관측 이후 역대 최다 기록인 2022년 56일을 넘겼다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동해상에서 불어오는 동풍(東風)의 영향으로 이번 주말 수도권을 중심으로 폭염에 가까운 더위가 찾아올 전망이다. 밤 기온은 떨어졌지만 낮 기온이 가파르게 오르면서 최고 34도에 육박하는 ‘더운 가을’이 한동안 이어질 것으로 보인다.&lt;br&gt;&lt;br&gt;6일 기상청에 따르면, 주말인 7~8일 우리나라는 중국 북부지방에서 남쪽으로 이동하는 이동성 고기압의 영향으로 낮동안 기온이 크게 오를 것으로 예상된다. 특히 태백산맥을 넘어 뜨거워진 동풍이 수도권과 충청권, 남부지방에 열풍을 공급해 기온을 끌어올릴 전망이다.&lt;br&gt;&lt;br&gt;6일 기준 경기남부와 일부 충청·전북·전남·경남권에 발효된 폭염특보가 확대할 수 있다. 7~8일 최저기온은 20~25도, 최고기온은 26~33도로 예보됐다. 일교차가 커지면서 7~8일 각각 수도권을 제외한 전국에 5~20㎜의 소나기가 내리겠다.&lt;br&gt;&lt;br&gt;기온은 점점 높아져 다음주부턴 최고기온이 34도까지 오를 것으로 보인다. 기상청은 중기예보에서 9~16일 기온이 최저 19~26도, 최고 27~34도의 분포를 보일 것으로 내다봤다. 일부 지역에선 다시 열대야(밤 최저기온 25도 이상)가 기승을 부릴 수도 있다. 11~12일엔 동풍의 영향으로 강원영동에 비가 내리겠고, 12~13일엔 제주도에 비가 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, ‘친인척 불법대출’ 의혹 우리은행 손태승 처남 체포</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/06/BA2C7ET3WVBGHBCWCZCCRI2LJQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/06/BA2C7ET3WVBGHBCWCZCCRI2LJQ/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Sep 2024 02:13:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HKLHTKD3PS5NBBZIWQCLNKANYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손태승 전 우리금융지주 회장 친인척에 대한 부당대출 의혹을 수사 중인 검찰이 우리은행 본점 등 사무실 압수수색에 나선 가운데 지난달 27일 서울 중구 우리은행 본점에서 검찰 관계자들이 압수품 박스를 들고 나서고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;350억원대 친인척 부당대출 의혹에 연루된 손태승 전 우리금융지주 회장의 처남이 검찰에 체포돼 조사를 받고 있는 것으로 6일 파악됐다.&lt;br&gt;&lt;br&gt;서울남부지검 금융조사1부(부장 김수홍)는 횡령 및 사문서위조 혐의를 받는 손 회장의 처남 김모씨를 서울 관악구의 사무실에서 지난 5일 체포해 조사 중이라고 이날 밝혔다. 검찰이 지난달 말 우리은행 본점 및 사건 관계자 주거지를 연이틀 압수수색한 지 8일만이다.&lt;br&gt;&lt;br&gt;김씨는 아내 명의의 회사를 통해 부동산을 매입하는 과정에서 인수 가격을 부풀려 우리은행에서 과도하게 대출을 받은 것으로 알려졌다. 또 검찰은 김씨가 회사 자금을 유용한 사실이 있는지도 조사 중이다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난달 27일 손 전 회장의 친인척 부당대출과 관련해 서울 중구 우리은행 본점 및 선릉금융센터 등 사무실 8곳과 사건 관계자 주거지 4곳 등에 검사와 수사관을 보내 압수수색을 진행했다. 검찰은 다음날인 28일에도 우리은행 본점을 압수수색하는 등 수사의 속도를 높였다. 우리은행은 지난 2020년 4월부터 올해 1월까지 손 전 회장의 친인척에게 350억원 규모의 부당 대출을 내준 사실이 지난달 초 금융당국에 의해 적발된 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>유명 피아니스트, 성매매 혐의로 경찰 수사</title>
