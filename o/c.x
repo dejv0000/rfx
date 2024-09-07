@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>웃통 벗고 내려 남의 차에 소변…신호대기 도중 벌어진 황당 추태</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/08/YB27GPQRI5CADM4W5UIJMNL5W4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/08/YB27GPQRI5CADM4W5UIJMNL5W4/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Sep 2024 22:16:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SCJNIMAUINBEZLUIX6ZQFVW32Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 한 도로에서 신호대기 중이던 차량에서 내린 남성이 다른 차량을 향해 소변을 보는 모습./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;왕복 8차선 도로 한가운데에서 신호 대기 중이던 차량에서 내린 남성이 옆 차로에 정차한 차량으로 다가가 소변을 보는 모습이 포착됐다.&lt;br&gt;&lt;br&gt;8일 여러 온라인 커뮤니티에는 최근 유튜브 채널 한문철 TV에 올라온 ‘신호 대기 중 벤츠를 향해 걸어온 남성이 한 일은? 역대급 황당하고 민망한 영상이네요’라는 제목의 영상이 공유되고 있다.&lt;br&gt;&lt;br&gt;이 영상에는 지난 1일 도로 한가운데에서 상의를 탈의한 남성이 맨발로 승용차 조수석에서 내리는 모습이 담겼다.&lt;br&gt;&lt;br&gt;비틀거리며 차에서 내린 남성은 2개 차선을 넘어 신호 대기 중인 벤츠 승용차 쪽으로 걸어가더니 갑자기 바지를 내린 뒤 차를 향해 소변을 봤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SU6HDSAPGFFMJHKMXMEG7I6QVQ.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 한 도로에서 신호대기 중이던 차량에서 내린 남성이 다른 차량을 향해 소변을 보는 모습./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신호가 바뀌고 차들이 출발하자 이 남성은 당황한 듯 주변을 살폈으나, 곧바로 자리를 뜨지 않고 한동안 도로 위에 서 있었다.&lt;br&gt;&lt;br&gt;벤츠 차량 바로 뒤에서 신호대기 중이던 제보자는 “대체 이게 무슨 상황이냐. 옆에 있던 딸이 ‘아빠, 저 사람 쉬한 거야?’라고 묻더라”며 황당하다는 반응을 보였다. 제보자 블랙박스에는 “대박이다. 처음 봤다”라고 말하는 음성이 녹음되기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZZWS5NU4CNER3J22CN5F667BH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노상방뇨를 하던 남성이 신호가 바뀌고 차들이 출발하자 도로에 우두커니 서있는 모습/유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이를 본 한문철 변호사도 “최근에 본 영상 중에 제일 황당한 영상”이라는 반응을 보였고, 네티즌들은 “마약한 게 아닌지 의심된다” “웃고 지나갈 게 아니라 경찰에 신고해야 한다” “도로에서 저러는 건 처음 본다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;한편 노상 방뇨는 경범죄처벌법 제3조에 따라 10만원 이하의 과태료 또는 구류 등으로 처벌받을 수 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>병장 월급 205만원, 소위 1호봉 189만원...초급간부들 軍 등진다</title>
       <link>https://www.chosun.com/national/2024/09/08/6BPAKZVTYVBENFCIT4VVZIBAF4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/09/08/6BPAKZVTYVBENFCIT4VVZIBAF4/</guid>
@@ -876,15 +885,6 @@ MZ가 로맨틱 연인 찾기 여행에 나섰다.&lt;/small&gt;&lt;/figcaption&
       <description/>
       <pubDate>Fri, 06 Sep 2024 05:07:04 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NBRHSB4VFNHK3HHQ4ZF46VW6EY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 경기도 평택시 포승읍 석정리의 한 창고 화재 현장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;화재 현장에 출동한 경찰이 건물 2층에 고립된 초등학생을 온몸으로 받아내 구조한 사실이 알려졌다.&lt;br&gt;&lt;br&gt;6일 경찰과 소방당국 등에 따르면 전날 오후 4시쯤 경기도 평택시 포승읍 석정리의 한 창고에 화재가 발생했다.&lt;br&gt;&lt;br&gt;당시 순찰 중에 소방당국의 공동 대응 요청을 받은 평택경찰서 포승파출소 1팀 소속 구자웅 경장과 김관식 경사는 즉시 현장으로 출동했다.&lt;br&gt;&lt;br&gt;신고접수 6분 만에 현장에 도착한 두 사람은 총 3층 높이의 창고 2층에서 창밖으로 얼굴을 내밀고 구조를 요청하고 있는 초등학생 남자아이를 발견했다.&lt;br&gt;&lt;br&gt;구 경장과 김 경사는 아이를 구조하기 위해 건물 안으로 진입하려 했지만 불길과 연기가 확산하고 있어 실패했다.&lt;br&gt;&lt;br&gt;이에 두 경찰관은 아이를 향해 “아저씨들이 밑에서 받을 테니, 우리를 믿고 뛰어내려라”라고 말했다. 용기를 얻은 아이는 창문 밖으로 뛰어내렸고, 두 사람은 아이를 안전하게 받아내 구조했다.&lt;br&gt;&lt;br&gt;구조된 아이는 창고 주인의 아들인 초등학교 6학년 학생 A군이었다. A군은 키 153㎝에 43㎏의 약간 마른 체형이었다.&lt;br&gt;&lt;br&gt;A군은 연기를 흡입해 병원으로 이송됐으며, 현재 통원 치료를 받고 있는 것으로 알려졌다. A군의 가족들은 경찰에 감사의 뜻을 전했다.&lt;br&gt;&lt;br&gt;한편 소방당국은 전기적 요인에 의해 화재가 발생한 것으로 보고 자세한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘올림픽 김예지 효과’…전북종합사격장 이용객 늘었다</title>
-      <link>https://www.chosun.com/national/regional/2024/09/06/H4LZWHHXFNHPJPAK24IP6HCFOI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/06/H4LZWHHXFNHPJPAK24IP6HCFOI/</guid>
-      <dc:creator>임실=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Sep 2024 04:42:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZWIM7J6AZMUUXQRZQAIZSNMRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024파리올림픽 사격 은메달리스트 김예지 선수.  /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2024 파리 올림픽 10m 공기권총 은메달리스트 김예지(32·임실군청) 선수가 평소 연습장으로 사용했던 전북종합사격장 이용객이 급증한 것으로 나타났다. 파리 올림픽에서 세계적인 사격 스타로 거듭난 ‘김예지 효과’를 톡톡히 보고 있는 것이다.&lt;br&gt;&lt;br&gt;6일 전북도에 따르면 임실군에 있는 전북종합사격장의 지난달 이용객 수는 3800여명을 기록했다. 지난 6월(1300명)과 7월(1500명)보다 배 이상 급증한 수치다. 이런 추세라면 올해 전북종합사격장 입장객 수는 지난해 2만4000명을 가뿐히 넘을 것으로 보인다. 전북도 관계자는 “김예지 선수가 유명해지면서 사격장 이용 문의가 쇄도하고 있다”고 했다.&lt;br&gt;&lt;br&gt;김예지 선수가 수년 간 훈련장으로 이용해 온 전북종합사격장은 임실군 청웅면에 위치해 있다. 4만여평의 부지에 10m와 25m, 50m 실내 사격장과 야외 클레이 사격장이 갖춰져 있다. 사격 전문 선수들이 주로 사용하며, 일반인들도 공기총 10m와 야외 클레이 A·B 사격장에서 체험이 가능하다.&lt;br&gt;&lt;br&gt;김예지 선수는 10m 공기권총 결선에서 여전사를 연상시키는 강인한 모습으로 올림픽 기간 내내 뜨거운 관심을 받았다. 주 종목인 25m 화약 권총에서 통한의 1발 실수로 예선 탈락이라는 아쉬운 결과를 남겼지만, 테슬라 최고 경영자인 일론 머스크가 “액션 영화에 캐스팅돼야 한다”고 극찬하면서 세계에서 주목을 받았다. 미국 NBC가 선정한 2024 파리올림픽 ‘10대 스타’에도 이름을 올렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>검찰, ‘文정부 울산 선거개입’ 재수사...당시 靑 근무 경찰관 소환</title>
