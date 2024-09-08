@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>처벌 피하려 귀국 미룬 사업가… 대법 “공소시효 정지해야”</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/08/MJ7ZZWR4CRFUXGTY53KHDC7G6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/08/MJ7ZZWR4CRFUXGTY53KHDC7G6Q/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Sep 2024 04:58:44 +0000</pubDate>
+      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PJYVYGBHFHL4UZTJOQNT5KQEDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해외 거주자가 국내법을 어겨 처벌받을 것을 알면서도 특별한 이유 없이 귀국하지 않는 경우 공소시효가 정지돼 추후 기소할 수 있다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;8일 법조계에 따르면, 대법원 1부(주심 노태악 대법관)는 국제조세조정법 위반 혐의로 기소된 A씨에게 벌금 12억5000만원을 선고한 원심 판결을 지난 7월 31일 확정했다.&lt;br&gt;&lt;br&gt;중국 홍콩으로 이주한 사업가 A씨는 2016년 스위스 계좌에 220억원가량을 외화로 보유하면서도 관할 세무서에 신고하지 않은 혐의로 2022년 8월 기소됐다. 국제조세조정법은 매달 말일 기준 해외금융 계좌에 10억원 이상을 보유한 경우, 이듬해 6월 중 관할 세무서에 신고하도록 규정하고 있다.&lt;br&gt;&lt;br&gt;서울지방국세청은 2022년 5월 세무조사를 진행하며 6월 A씨 세무대리인을 통해 20억원의 과태료를 부과하겠다고 사전 통지했다. 당초 A씨의 공소시효(5년)는 2022년 7월 1일까지였다. 하지만 앞서 A씨는 같은 해 4월 국내에서 홍콩으로 출국한 이후 귀국하지 않았다. 그는 국제조세조정법 위반 사건 공소시효가 지난 그해 7월 28일에 귀국했다.&lt;br&gt;&lt;br&gt;A씨는 “신고 안 한 잘못을 인정한다”면서도 공소시효가 지나 처벌 대상이 아니라고 했다. 홍콩에서 생활해 법 위반이나 공소시효를 알지 못한 채 해외에 있었다는 것이다. 반면 검찰은 ‘범인이 형사처분을 면할 목적으로 국외에 있는 경우 그 기간 공소시효는 정지된다’는 형사소송법 조항을 근거로 공소시효가 지나지 않았다고 했다.&lt;br&gt;&lt;br&gt;1, 2심 법원은 공소시효가 지나지 않았다고 봤다. 2심은 “A씨가 적어도 과태료 통지를 받은 6월부터 귀국할 때까지는 처벌을 면할 목적으로 해외에 체류했다고 봐야 한다”면서 “이 기간 공소시효는 정지돼야 한다”고 밝혔다. 국내에서 범죄를 저지르고 해외로 도피하거나, 처벌을 회피하기 위해 해외에 계속 체류하는 경우 공소시효를 정지해야 한다는 기존 대법원 판례를 따른 것이다.&lt;br&gt;&lt;br&gt;1심은 벌금 25억원을 선고했지만, 2심은 A씨가 반성하며 종합소득세 등을 성실히 냈다는 점 등을 고려해 벌금 12억5000만원을 선고했다. 대법원은 원심 판단이 맞는다고 판결했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김포공항 일대, 2030년 ‘비행 택시’ 뜨고 내린다</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/08/HSA55XQ5AVBHTEN73DOXJVN53Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/08/HSA55XQ5AVBHTEN73DOXJVN53Q/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Sep 2024 04:53:21 +0000</pubDate>
+      <content:encoded>2030년에는 서울 강서구 김포공항 일대가 ‘비행 택시’ 등 도심항공교통(UAM) 이착륙장과 첨단 산업 시설을 갖춘 산업 거점으로 탈바꿈할 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZH2NBHLT3VMRBOHDD3J4WRLEXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;UAM 이착륙장 등이 들어설 김포공항 복합환승시설의 조감도. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 강서구 김포공항 일대가 9일 ‘김포공항 혁신지구’로 지정 고시됨에 따라 김포공항 일대 개발을 본격화한다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;서울시에 따르면 김포공항 혁신지구 전체 35만제곱미터(㎡) 땅에 3개 블록이 조성된다.&lt;br&gt;&lt;br&gt;현재 김포공항 국내선 주차장 등이 있는 1블록에는 UAM 이착륙장을 포함한 복합 환승 시설이 들어선다. UAM 이착륙장은 건물 지상 5~7층에 조성된다. 건물 지하 2층~지상 1층에는 택시·지하철·간선급행버스(S-BRT) 등을 탈 수 있는 대중교통 환승 시설도 지어진다. 대중교통 환승시설과 UAM 이착륙장은 전용 엘리베이터로 연결된다. 2030년 완공 예정이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “상업 문화 시설, 국제 회의장, 호텔 등도 들어설 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;현재 급수펌프장 등이 있는 2블록에는 항공 업무·교육 시설이, 화물 창고 등이 있는 3블록에는 첨단 산업 시설이 조성된다. 특히 3블록에는 모빌리티 등 첨단 산업 클러스터 등을 설치해 관련 사업체를 유치하고, 오피스텔과 공공시설이 지어진다.&lt;br&gt;&lt;br&gt;서울시는 첨단 산업 클러스터 조성에 따른 개발 이익을 공공시설 등 확충에 사용할 예정이다. 이외에도 김포공항 인근 주민에게 주변 상가와 오피스텔 임대료를 할인해주고, 공영주차장 이용료 할인 혜택 등도 제공한다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “혁신지구 입주사에 지역 주민을 우선 채용하는 방안도 계획 중”이라고 말했다.&lt;br&gt;&lt;br&gt;서울시는 내년까지 혁신지구 기본 계획 수립을 마치고, 2027년까지 사업 시행 계획 인가를 받아 순차적으로 착공에 들어갈 계획이다. 총 사업비 2조9640억원을 투입한다.&lt;br&gt;&lt;br&gt;김승원 서울시 균형발전본부장은 “김포공항 일대가 미래 교통 허브이자 첨단 산업 중심의 도시로 재탄생할 수 있도록 사업을 추진해 나가겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>일본군 위안부 피해 할머니 별세…생존자 8명 남아</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/08/4276JBJPZFATBIAN6T4755R43E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/08/4276JBJPZFATBIAN6T4755R43E/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Sep 2024 04:50:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KUKFTIAF7PTUSYCQHUVGDHF3OM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고인이 된 일본군 위안부 피해 할머니들의 흉상. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정의기억연대(정의연)는 일본군 위안부 피해자 A씨가 지난 7일 별세했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;정의연에 따르면 A씨는 18세가 되던 해 바느질 공장에 취업하기 위해 친구와 함께 중국으로 향했다 일본군 위안부로 피해를 봤다. 1945년 해방 후에도 귀국하지 못했던 A씨는 2000년대 초반에야 고국으로 돌아와 가족과 상봉했다.&lt;br&gt;&lt;br&gt;그는 정부에 일본군 위안부 피해자로 등록한 뒤 수요시위와 해외 증언 등에 참여하며 일본군 위안부 문제 해결을 위해 늘 앞장섰다고 한다.&lt;br&gt;&lt;br&gt;A씨의 장례는 유족의 뜻에 따라 비공개로 치러질 예정이다.&lt;br&gt;&lt;br&gt;A씨의 별세로 정부에 등록된 일본군 위안부 피해자 중 생존자는 8명으로 줄었다. 이들 모두 94∼96세로, 평균 연령은 95세다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아파트 외벽 페인트 작업하던 50대 15층 높이에서 추락</title>
+      <link>https://www.chosun.com/national/incident/2024/09/08/HO6SHNXZMJFZBEKQEC6YMKQZKI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/08/HO6SHNXZMJFZBEKQEC6YMKQZKI/</guid>
+      <dc:creator>횡성=정성원 기자</dc:creator>
+      <description>8일 오전 7시 57분쯤 강원 횡성군 횡성읍 읍하리 한 아파트에서 외벽 페인트 작업을 하던 A(53)씨가 15층 높이에서 추락하는 사고가 발생했다.</description>
+      <pubDate>Sun, 08 Sep 2024 05:05:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZBX2IPPQYNBZTMDVB6GKWNTCPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 강원 횡성군 횡성읍 한 아파트에서 외벽 페인트 작업을 하던 50대 작업자가 추락하는 사고가 발생, 119구급대원들이 심폐소생술을 하고 있다. /강원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 오전 7시 57분쯤 강원 횡성군 횡성읍 읍하리 한 아파트에서 외벽 페인트 작업을 하던 A(53)씨가 15층 높이에서 추락하는 사고가 발생했다. A씨는 심정지 상태로 인근 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 아파트 외벽 페인트 작업을 하던 중 고정용 로프가 끊어지면서 사고가 난 것으로 보고 목격자 등을 상대로 정확한 사고 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>외국인에 바가지 씌우고 “팁 받았다”한 택시기사, 자격 취소</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/08/TUOSBNUIFRBA5BJIC22Z6ULW6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/08/TUOSBNUIFRBA5BJIC22Z6ULW6M/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Sep 2024 03:40:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7SU7KLLGW3WHCGDH4OAJ5NTP6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국 법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외국인 손님에게 상습적으로 바가지요금을 받으면서 ‘팁(tip·봉사료)’이라고 주장한 택시 기사에게 택시 운전 자격을 취소한 처분이 정당하다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;8일 법조계에 따르면, 서울행정법원 행정4단독 서경민 판사는 최근 개인택시 기사 A씨가 서울시를 상대로 낸 택시 운전 자격 취소 처분에 대한 취소 소송에서 원고 패소 판결을 내렸다.&lt;br&gt;&lt;br&gt;A씨는 2022년 4월과 8월, 작년 2월 총 세 차례 외국인 손님들로부터 부당요금을 받았다가 적발됐다. A씨는 3차 적발 때인 작년 2월에는 서울에서 인천국제공항까지 태국 승객 2명을 태우면서 요금을 부풀린 것으로 조사됐다. 택시 미터기에 찍힌 요금은 5만5700원이었는데, A씨는 톨게이트비 6600원을 포함해 총 7만 2000원을 현금으로 받았다. 실제 요금보다 9700원을 더 받은 것이다.&lt;br&gt;&lt;br&gt;1차 적발 때 경고, 2차 적발 때 자격정지 30일을 받은 A씨는 세 번째 적발로 택시 운전 자격이 취소됐다. 택시발전법과 시행령에 따라 부당요금 징수가 세 번 적발되면 자격이 취소된다.&lt;br&gt;&lt;br&gt;이에 A씨는 서울시의 자격 취소 처분이 부당하다며 소송을 냈다. A씨는 승객들에게 추가로 받은 돈은 캐리어를 싣고 내려준 점 등에 대한 팁이라고 주장했다.&lt;br&gt;&lt;br&gt;하지만 서 판사는 “승객들이 팁을 주겠다는 의사를 표현했다고 볼 수 없다”며 A씨의 주장을 받아들이지 않았다. 서울시 조사에서 해당 태국 승객이 ‘A씨에게 팁을 준 것이 아니다’ ‘공항에 거의 도착했을 때 5만원대였는데, A씨가 미터기를 눌러서 7만 2000원이 됐고 이를 요구했다’고 진술한 점 등이 근거가 됐다.&lt;br&gt;&lt;br&gt;서 판사는 이어 “A씨는 1년이 채 되지 않는 기간 동안 세 차례에 걸쳐 외국인에게 부당요금을 받아 적발됐다”면서 “택시비 부당 징수를 규제해 외국인 방문객의 교통 편의에 이바지하고, 사회 신뢰를 증진하고자 하는 택시 자격 취소 처분의 공익이 A씨의 불이익보다 작지 않다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강변에서 트래킹하던 동호회원 14명 벌에 쏘여</title>
+      <link>https://www.chosun.com/national/regional/2024/09/08/JORMUNMM6BB2NPAE6LLQJ4IPGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/08/JORMUNMM6BB2NPAE6LLQJ4IPGQ/</guid>
+      <dc:creator>영양=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Sep 2024 03:23:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LQ3K6QHYDVFRLG26GV5HHIELBM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 이민경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강변에서 트레킹을 하던 10여명이 벌에 쏘이는 사고가 발생했다.&lt;br&gt;&lt;br&gt;8일 경북소방본부 등에 따르면, 지난 7일 오후 1시 49분쯤 경북 영양군 일월면 주곡리 한 문학관 인근 강변 데크길에서 트레킹을 하던 50~80대 동호인 14명이 벌에 쏘였다. 팔 의 통증을 호소한 50대 A씨 등은 신고받고 출동한 119구급대로부터 응급처치받은 뒤 병원으로 이송됐다. 중상자는 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경북도소방본부 한 관계자는 “말벌에 쏘일 경우 가려움, 메스꺼움 등은 물론 심각할 경우 목숨을 잃을 수도 있는 만큼 조심해야 한다. 특히 호흡곤란 등의 증상이 있으면 즉시 병원 치료를 받아야 한다”고 전했다.&lt;br&gt;&lt;br&gt;앞서 지난 4일 경북 예천군 용문면에서 벌초 작업을 하던 50대 남성 B씨가 벌에 쏘여 목숨을 잃었다. 119 구급대가 현장에 도착했을 때 B씨는 의식을 잃은 상태였고, 이후 심폐소생술을 받으며 병원으로 옮겨졌으나 숨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“자녀에 조카까지 동원”… 고의 교통사고로 보험금 편취한 30대</title>
       <link>https://www.chosun.com/national/court_law/2024/09/08/2F75ABF6JBEPJLUBOWMSARGBJA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/08/2F75ABF6JBEPJLUBOWMSARGBJA/</guid>
@@ -824,36 +878,6 @@ MZ가 로맨틱 연인 찾기 여행에 나섰다.&lt;/small&gt;&lt;/figcaption&
       </media:content>
     </item>
     <item>
-      <title>[오늘의 운세]  9월 7일 토요일 (음력 8월 5일 甲戌)</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/06/7DKIEKQ5XRFDPJTNLAK3Q5GKJQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/06/7DKIEKQ5XRFDPJTNLAK3Q5GKJQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Sep 2024 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	 36년생 오래된 질병이 재발하니 예방 필요. 48년생 새잎 돋으면 묵은 잎 지기 마련. 60년생 목전 소소한 이익에 눈 가리지 않도록. 72년생 평소의 작은 관심이 결실로 연결. 84년생 생각은 깊게 마음은 넓게. 96년생 작은 성취는 맛볼 수 있을 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	 37년생 대수롭지 않은 일로 뜻밖에 즐거움. 49년생 인정과 연민에 이끌리면 큰 손해 본다. 61년생 주위 사람들과의 교류에 힘쓰도록. 73년생 개띠, 양띠와의 거래는 심사숙고. 85년생 대마(大馬)도 한 수 착오에 무너지는 법. 97년생 계획한 일이 차근차근 실행될 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	 38년생 솔선수범이 어떤 훈계보다 낫다. 50년생 형세 불리하면 주위 세력 끌어들이도록. 62년생 용은 물 깊음을 걱정 하지 않는다. 74년생 침묵이 때로는 말없는 강변(强辯). 86년생 눈앞의 것만 보지 말고 이면 봐야. 98년생 명예와 함께 재물도 따르는 운세.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	 27년생 일어나지도 않은 일 미리 걱정할 것 없다. 39년생 앞뒤를 너무 재다 보면 기회 놓칠 수도. 51년생 간만에 독서나 영화 감상 등으로 여유를. 63년생 아랫사람에게 불만 있어도 오늘은 참아야. 75년생 작은 질투가 큰 손실 초래. 87년생 시비구설은 늘 있는 법. 99년생 체념하기에는 시기상조.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	 28년생 남 잘되게 하면 하늘도 굽어본다 했다. 40년생 주눅 들거나 움츠릴 필요 없다. 52년생 곧은 나무가 먼저 잘린다 했다. 64년생 말띠, 양띠와의 술자리는 피하라. 76년생 선 그을 때는 확실히 그어라. 88년생 할 일 산더미인데 몸은 천근만근. 00년생 주위와 부딪히는 상황은 피하도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	 29년생 적극적이고 활동적인 자세 갖도록. 41년생 잠시 쉬었다고 큰일 나지 않는다. 53년생 침울한 하루 감성 관리가 필요. 65년생 협력 필요하다면 말띠가 제격. 77년생 집 안 상서로운 기운이 가득. 89년생 무슨 일 있어도 제자리 이탈 마라. 01년생 최적 타이밍은 바로 지금.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	 30년생 문서 거래와 도장 사용에 주의 필요. 42년생 도전이 두려운 건 확신 부족하기 때문. 54년생 문제 해결 본질은 나에게서 찾아야. 66년생 손실 만회할 수 있는 상황. 78년생 동료가 질투하니 주변을 경계. 90년생 매사 충동적인 행동은 삼가라. 02년생 세상만사 나 하기 나름.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	 31년생 숲은 한 계절에 만들어지지 않는 법. 43년생 술에 술 탄 듯 물에 물 탄 듯 살라. 55년생 고비는 늘 있기 마련 슬기롭게 넘기도록. 67년생 도랑 치고 가재 잡는 격. 79년생 웃음꽃이 활짝 피었습니다. 91년생 좋은 일에 금전 지출. 03년생 큰일은 반드시 웃어른들과 사전에 상의.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	 32년생 순리 따르면 무사 안녕. 44년생 균형감각을 잃지 마라. 56년생 진정 소중한 것이 무엇인지 생각해보도록. 68년생 적극적 활로 모색이 필요. 80년생 제 칼도 남의 칼집에 들면 찾기 어렵다. 92년생 깨지기 전에 깨달아야. 04년생 위에 군림하려는 태도는 절대 위험.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	 33년생 새 옷도 두드리면 먼지 난다. 45년생 먼 일가 가까운 남만 못하다. 57년생 좌고우면 말고 일에 매진하라. 69년생 선제 대응이 최선의 방책. 81년생 복권이든 투기든 사행성 행운이 원만. 93년생 갈 길이 멀면 짐 가볍게 싸도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	 34년생 가는 떡이 커야 오는 떡도 크다. 46년생 길동무가 좋으면 천리 길도 한걸음. 58년생 원숭이띠와의 거래 주의. 70년생 상대의 기분을 이해하도록. 82년생 당장 떨쳐 일어나지 않으면 내일은 더 힘들어질 수도. 94년생 오래 엎드린 새가 높이 난다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	 35년생 붉은색과 숫자 2, 7 행운. 47년생 잘 참다가 한 번씩 욱 하고 올라올 때를 조심. 59년생 작전과 전략이 필요. 71년생 멀리 가려면 천천히 가라. 83년생 경륜과 지혜 발휘하기 여의치 않을 수도. 95년생 이성(異性)의 유혹을 주의.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘음주 운전 사망 사고’ DJ예송 2심서도 징역 15년 구형</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/06/3PKDLJSCGNHK7NIGUYDUMJIC2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/06/3PKDLJSCGNHK7NIGUYDUMJIC2U/</guid>
-      <dc:creator>송원형 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Sep 2024 07:42:31 +0000</pubDate>
-      <content:encoded>검찰이 서울 강남에서 만취 상태로 운전하다 오토바이 배달 기사를 치어 숨지게 한 혐의로 기소돼 1심에서 징역 10년을 선고받은 클럽 DJ 안예송(24)씨의 2심에서 징역 15년을 구형했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZPIK35JAQ3J5FYLX37DMX4BJXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;DJ 안예송씨가 지난 2월 서울 서초구 서울중앙지법에서 열린 영장실질심사에 출석하는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 6일 서울중앙지법 형사항소5-2부(재판장 김용중) 심리로 열린 안씨의 2심 결심 공판에서 재판부에 징역 15년을 선고해 달라고 요청했다. 검찰의 1심 구형량과 같다.&lt;br&gt;&lt;br&gt;안씨는 최후 진술에서 “저로 인해 고귀한 생명을 잃은 피해자분과 그 유가족께 진심으로 사죄의 말씀을 드린다”며 “절대 변명의 여지가 없는 저의 잘못이다. 평생 속죄하는 마음으로 살겠다”고 말했다.&lt;br&gt;&lt;br&gt;한국과 중국을 오가며 활동하는 안씨는 지난 2월 3일 서울 강남구 논현동에서 열린 한 파티에서 술을 마신 뒤 새벽 4시 35분쯤 자신의 벤츠 차량을 몰다 앞서 주행하던 오토바이를 뒤에서 들이받았다. 그 상태로 100m가량 더 이동한 뒤 멈췄는데, 이 사고로 50대 배달 기사가 숨졌다. 당시 안씨의 혈중알코올농도는 0.221%로 면허 취소 수준이었다. 안씨는 사고 이후 사고를 수습하거나 경찰에 신고하지 않고 자신의 반려견을 끌어안은 모습이 목격돼 논란이 됐다.&lt;br&gt;&lt;br&gt;특히 안씨는 사고를 내기 이전엔 또 다른 교통사고를 내고 도주하다가 이와 같은 음주운전 사망사고를 낸 것으로 조사됐다. 안씨는 1차 사고 피해자와 합의하지 않았고, 2차 사고 피해자의 유족과 합의했다. 검찰은 1심에서 “죄질이 무거워 엄중한 책임을 물어야 한다”며 징역 15년을 구형했지만, 1심 재판부는 지난 7월 징역 10년을 선고했다.&lt;br&gt;&lt;br&gt;안씨는 1심 선고 이튿날 항소했다. 검찰도 “만취상태로 중앙선을 침범해 1차 사고를 일으키고도 배달원을 사망하게 하는 2차 사고를 일으키는 등 사안이 매우 중대하다”며 “음주로 인한 ‘블랙아웃’(일시적 기억 상실)으로 기억이 전혀 없음에도 거짓 변명으로 반성하지 않는 점을 볼 때 더 중한 형의 선고를 구한다”며 항소했다.&lt;br&gt;&lt;br&gt;2심 선고는 내달 18일로 예정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이화여대 해킹 공격받아…졸업생 8만명 개인정보 털렸다</title>
       <link>https://www.chosun.com/national/national_general/2024/09/06/IKNFJQUW7NCCZMOLDT7A57ECUQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/06/IKNFJQUW7NCCZMOLDT7A57ECUQ/</guid>
@@ -861,42 +885,6 @@ MZ가 로맨틱 연인 찾기 여행에 나섰다.&lt;/small&gt;&lt;/figcaption&
       <description/>
       <pubDate>Fri, 06 Sep 2024 06:21:32 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N6J342NQA3CLN3KZIZSGSD7P44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화여대 캠퍼스 전경. /이화여대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이화여대의 학사 정보 등을 관리하는 통합정보시스템이 해킹돼 졸업생 8만 명의 개인정보가 무더기로 유출됐다.&lt;br&gt;&lt;br&gt;이화여대는 6일 ‘개인정보 유출 관련 안내 및 사과의 글’을 홈페이지 공지사항에 올려 개인정보 유출 상황을 알리고 사과했다.&lt;br&gt;&lt;br&gt;공지에 따르면 이 학교 통합정보시스템이 해킹 공격을 받아 지난 1982학년도∼2002학년도에 입학한 졸업생 일부의 성명과 주민등록번호, 연락처, 집 주소, 이메일 주소, 학적 정보 등이 유출됐다.&lt;br&gt;&lt;br&gt;이화여대 정보침해대응단 위원장인 신경식 연구·대외부총장은 “해당 기간 전체 졸업생 25만명 중 8만명 정도의 20∼40년 전 과거 정보가 유출됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;일부 졸업생의 경우 보호자 정보도 유출된 것으로 파악됐다. 다만 이번 해킹으로 재학생 관련 정보는 유출되지 않은 것으로 나타났다.&lt;br&gt;&lt;br&gt;이대 측은 지난 3일 오전 11시 55분쯤 통합정보시스템을 실시간 모니터링을 하던 중 해외IP의 비정상적인 접근을 감지했으며, 조사 및 보안 분석을 통해 해킹 공격 이틀 뒤인 5일 오전 11시쯤 개인정보가 유출된 사실을 확인했다.&lt;br&gt;&lt;br&gt;이후 학교 측은 교육부와 개인정보보호위원회에 개인정보 유출 사실을 신고했으며, 개인정보 유출 내역 조회 시스템과 관련 피해 상담 등 민원 센터를 운영하고 있다.&lt;br&gt;&lt;br&gt;이대 측은 “학교는 이번 사안의 심각성을 엄중하게 인식하고 있으며 현재 내부 시스템 점검 및 강화, 유관 기관과의 협력 등을 통해 추가적인 피해 가능성을 차단하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;아울러 “사고 원인을 면밀하게 분석해 시스템 점검, 보안 시스템 강화, 주기적인 보안 점검을 강화하고 재발 방지 대책을 철저히 마련하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>’건강 관리·디지털 격차 해소’... 인천, ‘스마트 경로당’ 100곳 연말까지 구축</title>
-      <link>https://www.chosun.com/national/regional/2024/09/06/HFFEBHBOBRHDNOCEQUV3AIIG3M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/06/HFFEBHBOBRHDNOCEQUV3AIIG3M/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Sep 2024 06:41:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VE5ACG7FF6OHL7OT7R6GXHXVJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천시청 전경./ 인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천시가 노인들의 건강 관리와 디지털 격차 해소 등을 위해 ‘스마트 경로당’을 구축한다.&lt;br&gt;&lt;br&gt;인천시는 연말까지 지역 경로당 100곳을 대상으로 ‘인천형 스마트 경로당 구축사업’을 추진한다고 6일 밝혔다. 이번 사업은 경로당에 화상시스템, 스마트 헬스케어 시스템, 스마트 생활케어 시스템 등 3가지 시스템을 구축하는 걸 주된 내용으로 하고 있다.&lt;br&gt;&lt;br&gt;화상시스템을 통해선 노인들을 위한 건강체조 등 운동 교육과 보이스피싱 예방 교육, 노인복지 정책 안내 등이 이뤄진다. 인천시는 별도의 스튜디오를 확보해 이들 콘텐츠를 제작·송출할 예정이다.&lt;br&gt;&lt;br&gt;스마트 헬스케어 시스템은 체중과 혈압, 심박수, 체온 등 노인들의 건강 정보를 개인별로 측정·관리한다. 이상 데이터가 감지되면 경로당에 배치된 건강관리 도우미가 내용을 확인한 뒤, 보건소나 병원으로 안내하게 된다.&lt;br&gt;&lt;br&gt;스마트 생활케어 시스템은 치매 예방 프로그램과 키오스크 교육 프로그램, 윷놀이 같은 각종 게임을 즐길 수 있는 ‘스마트 테이블’과 건강측정 센서가 장착돼 사용자에게 적절한 운동량을 제시해 주는 ‘워킹머신’ 등으로 구성된다.&lt;br&gt;&lt;br&gt;인천시는 이번 사업에 국비 25억900만 원, 시비 11억1000만 원 등 36억여 원의 사업비를 투입할 방침이다.&lt;br&gt;&lt;br&gt;인천시 관계자는 “내년에도 100개 경로당을 대상으로 스마트 경로당 구축사업을 추진할 계획”이라며 “광역단체 중에선 처음 추진하는 이번 사업을 계기로 건강과 여가 등 어르신들을 위한 맞춤형 프로그램을 제공해 경로당이 더욱 활성화될 수 있게 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘코로나 시국 불법집회 강행’ 민노총 간부들 벌금형</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/06/MWYFI7WHQRHLFANCMVGB232KSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/06/MWYFI7WHQRHLFANCMVGB232KSQ/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Sep 2024 05:41:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D3PQW333ZFMH7YRCNN2UVEL7N4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코로나 팬데믹 시기 방역 조치를 어기고 불법 집회를 연 전국민주노동조합총연맹(민노총) 간부들이 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;6일 법조계에 따르면 서울서부지법 형사6단독 지충현 판사는 지난달 28일 감염병의 예방·관리에 관한 법률 위반 혐의로 기소된 민노총 소속 부위원장 한모(58)씨와 서비스연맹 관광레저산업 노조위원장 최모(54)씨에게 각각 벌금 100만원을 선고했다.&lt;br&gt;&lt;br&gt;집회 및 시위에 관한 법률 위반 혐의가 추가된 민노총 조직쟁의국장 권모(53)씨에게는 벌금 200만원이 선고됐다.&lt;br&gt;&lt;br&gt;이들은 서울시가 코로나 확산 방지를 위해 서울 전 지역에서 열리는 집회를 금지하는 조치를 내린 상황에서 집회를 연 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;이들은 2021년 9월 9일 오후 6시부터 6시 40분까지 서울 서대문구의 노상에서 참가자 30여 명과 함께 집회를 진행했다. 당시는 서울시가 코로나 확산 방지를 위해 집회를 금지한 상황이었지만, 이를 무시하고 불법 집회를 강행한 것이다.&lt;br&gt;&lt;br&gt;특히 시위 주동자인 최씨는 사전 집회 신고의 책임이 있음에도 불구하고, 관할 경찰서인 서울 서대문서에 신고를 하지 않았다. 현행 집시법은 집회 시위가 열리기 48시간 전에 관할 경찰서에 집회 신고를 해야 한다고 규정하고 있다.&lt;br&gt;&lt;br&gt;재판 과정에서 피고인인 이들은 코로나 팬데믹 속에서 집회 금지를 규정한 서울시의 조치가 집회의 자유의 본질적인 내용을 침해하고 비례의 원칙을 위반하는 것으로 무효라고 주장했다.&lt;br&gt;&lt;br&gt;하지만 재판부는 피고인들의 이와 같은 주장을 받아들이지 않았다. 당시 감염병이 확산되는 속도 등에 비춰보면 방역 조치가 긴급하고 신속하게 이뤄져야 할 필요성이 있다는 이유에서다.&lt;br&gt;&lt;br&gt;또한 재판부는 해당 집회가 참가자들 뿐만 아니라 주변 사람들까지도 감염병을 퍼뜨릴 수 있다는 점에서, 서울시의 조치는 국민의 생명과 신체를 보호하기 위해 매우 중요한 공공복리인 감염병 예방이라는 목적을 달성하기 위한 조치라고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“신림역에 칼 들고 서있다” 살인예고男, 2심서도 징역형</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/06/EJKRXQF6OBCY7FBIF4DFVMSZWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/06/EJKRXQF6OBCY7FBIF4DFVMSZWE/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Sep 2024 07:02:12 +0000</pubDate>
-      <content:encoded>‘흉기 난동’ 사건이 벌어졌던 서울 신림역에서 살인을 하겠다는 취지의 예고 글을 온라인에 올려 공포 분위기를 조성한 남성이 2심에서도 징역형을 선고 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FGLAP4NFYZLBJJWHQBZQNAXPBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사항소8-3부(재판장 최진숙)는 6일 협박과 위계공무집행방해 혐의로 재판에 넘겨진 최모(30)씨에게 1심과 같은 징역 1년 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “이 글을 본 사람들이 공포심을 느끼거나, 이 글로 인해 경찰에 신고돼 공무집행이 방해될 가능성은 충분히 인식할 수 있었고 예견 가능했다”며 검찰과 피고인 측 항소를 모두 기각하고 1심 판단을 유지했다.&lt;br&gt;&lt;br&gt;최씨는 지난해 7월 26일 한 인터넷 커뮤니티에 ‘신림역에 칼을 들고 서 있다. 이제부터 사람 죽인다’는 내용의 살인예고 글을 올려 신고를 접수한 경찰관 약 20명이 현장에 출동하도록 해 경찰 업무를 방해한 혐의 등을 받는다.&lt;br&gt;&lt;br&gt;특히 이 글을 게시하기 닷새 전인 7월 21일엔 조선(34)이 신림역 인근 골목에서 흉기 난동을 벌여 4명의 사상자(1명 사망·3명 부상)를 내기도 했다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 “최씨의 범행으로 다수의 경찰이 출동해 공권력 낭비가 컸고, 게시판에 글을 남긴 뒤 앱을 삭제하는 등 지능적 수법을 사용해 죄질이 좋지 않다”고 질타했다.&lt;br&gt;&lt;br&gt;2심 재판부도 원심(1심)의 형을 변경할 만한 특별한 사정 변경이 없고 합리적인 범위를 벗어난 형이라고 보기 어렵다는 취지로 달리 판단하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘여신도 성폭행’ JMS 정명석...검찰, 2심도 징역 30년 구형</title>
-      <link>https://www.chosun.com/national/regional/2024/09/06/QACUXGHNLVGTVMGMJ4HSW27SMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/06/QACUXGHNLVGTVMGMJ4HSW27SMU/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Sep 2024 07:12:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L6WK3JYNGCB7FM5RZLRQOV3W44.png"&gt;&lt;figcaption&gt;&lt;small&gt;대전법원종합청사/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여신도들을 성폭행하고 강제 추행한 혐의로 1심에서 징역 23년이 선고된 정명석 기독교복음선교회(통칭 JMS) 총재에게 검찰이 항소심에서 징역 30년을 구형했다. 이는 앞서 1심에서 검찰이 구형한 형량과 같다.&lt;br&gt;&lt;br&gt;검찰은 6일 대전고법 형사3부(재판장 김병식) 심리로 열린 준강간·준유사강간·강제추행·준강제추행 등 혐의 사건 항소심 결심공판에서 정씨에게 징역 30년을 선고해달라고 요청했다. 또 500시간의 성폭력 치료프로그램 이수, 20년간 위치추적 전자장치(전자발찌) 부착 명령도 청구했다.&lt;br&gt;&lt;br&gt;검찰은 “피고인이 누범기간에 동종 범죄를 저질렀다”며 “종교단체 총재로서 종교적 지위를 이용해 지속적으로 교인 피해자들을 세뇌했다. 성폭력 범행을 마치 종교적 행위인 것처럼 정당화했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “피고인이 범행을 부인하며 반성하지 않고 있다”며 “조력자들이 범행을 은폐하고 있는 점, 신도들이 피해자들에 대한 2차 가해를 하는 점 등을 고려하면 1심 선고보다 높은 형량이 선고돼야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;정씨는 2018년 2월부터 2021년 9월까지 충남 금산군 진산면 월명동 수련원 등에서 23차례에 걸쳐 홍콩 국적 여신도(29)를 추행하거나 성폭행하고, 호주 국적 여신도(30)와 한국인 여신도를 성추행한 혐의(준강간 등)로 구속 기소됐다. 그는 1심에서 징역 23년형을 선고받았다.&lt;br&gt;&lt;br&gt;1심 선고 후 정씨 측은 사실 오인과 법리 오해, 양형 부당 등을 주장하며 항소했다. 검찰도 정씨에게 더 무거운 형을 내려달라며 항소했다.&lt;br&gt;&lt;br&gt;정씨는 자신을 메시아로 칭하면서 신도들을 세뇌한 뒤 범행한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이에 대해 정씨 측은 재판에서 “고소인들이 성적으로 세뇌되거나 항거할 수 없는 상태가 아니었고, 자신은 ‘신이 아니고 사람’임을 분명히 했다”며 혐의를 계속 부인했다.&lt;br&gt;&lt;br&gt;한편 정씨는 앞서 2001년 8월부터 2006년 4월까지 말레이시아 리조트, 홍콩 아파트, 중국 안산 숙소 등에서 20대 여신도 4명을 추행하거나 성폭행해 징역 10년을 선고받고 복역한 뒤 2018년 2월 출소했다.&lt;br&gt;&lt;br&gt;검찰은 항소심이 진행되던 지난 5월 또 다른 여신도 2명을 대상으로 19차례에 걸쳐 성폭력 범행을 더 저지른 것을 파악, 정씨와 측근들을 추가 기소했다. 해당 재판은 이날 열린 항소심과 별도로 진행되고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이재명 “질문 길고 팩트 틀려”...검사 “묻는 말에 답하라”</title>
