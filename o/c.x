@@ -13,6 +13,81 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>티아라 지연과 이혼설 황재균, 새벽까지 술자리 장소는 헌팅포차?</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/08/7UAFX56OSNGIBHNCWJA4LWFYPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/08/7UAFX56OSNGIBHNCWJA4LWFYPA/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Sep 2024 13:45:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZA3JDTR2NVGCPAAFBUU5MTY2XI.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 서울 강남구 한 술집에서 포착된 프로야구 KT 황재균. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 티아라 출신 배우 지연의 남편인 프로야구 KT 황재균(37)이 지인들과 새벽까지 술자리를 갖는 모습이 최근 소셜미디어에 공유되면서 두 사람의 ‘이혼설’이 재차 불거진 가운데, 황재균이 머물렀던 곳이 ‘헌팅포차’였다면서 국민신문고에 한국야구위원회(KBO) 차원의 진상 조사를 요구하는 민원이 접수됐다.&lt;br&gt;&lt;br&gt;8일 한 네티즌은 국민신문고에 ‘황재균 헌팅포차 새벽 술자리 사건’을 조사해달라는 민원을 올렸다고 주장하며 관련 접수 내역을 캡처해 온라인 커뮤니티에 올렸다. 헌팅포차는 남녀 손님들의 합석을 적극 권유하는 실내포장마차의 일종인데, 유부남인 황재균이 그 같은 장소에 머물렀다는 것은 부적절하다는 것이다.&lt;br&gt;&lt;br&gt;게시물을 올린 네티즌 A씨는 “황재균은 지난 4일 부산 사직구장에서 열린 롯데 자이언츠와의 경기에서 수비 중 허리 이상을 느끼고 5회초에 교체된 바 있다”며 “가을야구를 목전에 두고 더욱 순위를 끌어올려야 하는 중차대한 시기인 만큼, 팀내 간판 베테랑이자 최고참인 황재균은 컨디션 회복에 전념하는 등 후배들에게 귀감을 보였어야 함이 마땅하다”고 썼다.&lt;br&gt;&lt;br&gt;이어 “특히 일각에서 ‘이혼설’이라는 억측을 제기했던 만큼, 괜히 오해를 불러일으키지 않도록 행동 하나하나에 더욱 신중을 기했어야 한다”면서 “아무리 경기도, 훈련도 없던 휴식일이라 할지라도 가정이 있는 유부남이 새벽 6시까지 ‘헌팅포차’에서 이성이 섞인 술자리에 있는 모습이 포착된 것은 심히 부적절하다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 그러면서 “허구연 KBO 총재는 ‘2024 KBO 규약’ 제151조[품위손상행위에 따라 황재균의 ‘헌팅포차 새벽 술자리 사건’을 철저히 조사해 그에 따른 엄중한 처분을 내려 줄 것을 강력히 촉구한다”고 했다. 규약에 따르면, 경기 외적으로 품위를 손상하는 행위를 해 사회적으로 물의를 일으킨 경우, 총재는 실격처분, 직무정지, 참가활동정지, 출장정지, 제재금 부과, 경고처분 등 적절한 제재를 할 수 있다.&lt;br&gt;&lt;br&gt;황재균은 최근 서울 강남에 위치한 한 주점을 찾아 지인들과 새벽 6시까지 술자리를 가졌다. 이 자리에는 여성들도 다수 동석한 것으로 알려졌다. 황재균이 술 마시는 사진을 발견한 어느 팬이 지난 4일 일부 언론사에 제보하면서 이 사실이 알려졌다. 이 사진은 주점과 관련된 인스타그램 계정에 올라왔다.&lt;br&gt;&lt;br&gt;황재균과 지연은 2022년 2월, 연애 6개월 만에 결혼을 발표하고 그해 12월 결혼식을 올렸다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YJUCDIUTKRFBFIIK5MOQSTOP2M.png?width=605&amp;height=341&amp;auth=650345c7d4ad43a7e9ea5cd8abfdc7cb9d074008d3b36d0033fc0167ada6edd7&amp;smart=true" type="image/png" height="341" width="605">
+        <media:description type="plain">지난 4일 서울 강남구 한 술집에서 포착된 프로야구 KT 황재균. /인스타그램</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>변협, ‘50억 클럽’ 권순일 징계 여부 최종 판결 때까지 보류</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/08/VL5YQQVIGFCNPMGDBP2MPTJOVI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/08/VL5YQQVIGFCNPMGDBP2MPTJOVI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Sep 2024 12:40:51 +0000</pubDate>
+      <content:encoded>대한변호사협회(변협)가 변호사법 위반 혐의로 기소된 권순일 전 대법관에 대한 징계 여부를 형사사건 최종 판결이 나올 때까지 보류하기로 결정했다. 권 전 대법관은 이른바 ‘대장동 50억 클럽’의 구성원 중 한 명으로 알려져 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QQLLW2KNTNGSHEORS4L75H7UYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권순일 전 대법관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 법조계에 따르면, 변협 징계위원회는 지난달 26일 정례회의를 열어 이 같이 결정했다. 변호사 징계 규칙에 따르면 징계위는 징계 대상자에 대해 공소가 제기된 경우 해당 사건의 판결이 확정될 때까지 심의 절차를 정지해야 한다. 변협 관계자는 “무죄 추정의 원칙에 따라 형사 사건의 최종 판단이 나올 때까지 징계 심의를 멈추게 돼 있다”며 보류 결정 이유를 설명했다.&lt;br&gt;&lt;br&gt;앞서 변협은 지난달 8일 서울중앙지검으로부터 권 전 대법관에 대한 징계 개시 신청서를 접수해 절차를 개시한 것으로 알려졌다. 권 전 대법관은 퇴직 직후인 2021년 1~8월 변호사 등록을 하지 않은 채 대장동 개발 비리의 몸통인 김만배씨가 대주주로 있는 화천대유 고문을 맡아 민사소송 상고심 등에서 변호사 업무를 하고 고문료로 총 1억5000만원을 받은 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;변호사법은 징계시효를 ‘행위 시점으로부터 3년까지’로 규정하고 있는데, 권 전 대법관의 경우 검찰이 기소한 시점에서 징계시효가 얼마 남지 않아 신속하게 징계 절차를 개시했다는 것이 변협 측 설명이다. 변협 관계자는 “징계청구 시효가 만료되기 전 징계 절차에 착수한 것”이라며 “재판 결과가 확정된 뒤 징계 여부도 결정될 전망”이라고 했다.&lt;br&gt;&lt;br&gt;변협 안팎에서는 징계위의 보류 결정에 대해 비판적인 의견도 나온다. 변협의 다른 관계자는 “징계위의 관행과 의사결정 자체는 존중하지만, 이 사안의 사실관계 자체는 나름 명료하다”면서 “사안의 엄중함을 고려해 신속하게 처분하는 것이 바람직할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;한편, 검찰은 권 전 대법관이 김만배씨 부탁을 받고 2020년 이재명 민주당 대표의 선거법 위반 사건 상고심의 무죄 판결을 주도했다는 ‘재판 거래’ 의혹에 대해선 수사를 이어나가고 있다. 검찰 관계자는 “국민적 의혹이 해소될 때까지 계속 수사할 것”이라고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“주호영 성추행은 가짜 뉴스”... 3년만에 보도매체 배상 판결</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/08/5QH4OPDPX5GQXGSACFQHVERDFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/08/5QH4OPDPX5GQXGSACFQHVERDFY/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Sep 2024 11:55:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZAONKVVVKW3NYV5XUZM23VKDC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 소속 주호영 국회부의장/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주호영 국회부의장이 국민의힘 원내대표 시절 여기자를 성추행을 했다는 의혹을 폭로한 인터넷 매체 기사가 ‘가짜 뉴스’였던 것으로 드러났다. 주 부의장 측이 “허위 보도로 명예훼손을 당했다”며 피해를 당했다고 주장하는 기자와 해당 인터넷 매체 등을 상대로 소(訴)를 제기한 지 3년여 만에 나온 결론이다.&lt;br&gt;&lt;br&gt;8일 법조계에 따르면, 서울중앙지법 민사1003단독 김현순 부장판사는 주 부의장이 인터넷 매체 뉴스프리존 발행인 안모씨와 소속 기자 김모씨, 서울의소리 백은종 대표 등 3명을 상대로 손해배상을 청구한 소송에서 원고 일부 승소 판결을 내렸다. 김 부장판사는 “주 부의장의 성추행이 없었음이 분명하다”며 “안씨와 김씨는 각각 500만원씩, 백 대표는 300만원을 배상하라”고 판결했다.&lt;br&gt;&lt;br&gt;이 사건은 2021년 1월 20일 뉴스프리존 기자 김씨가 취재 도중 주 부의장에게 성추행을 당했다고 주장하면서 불거졌다. 김씨는 당시 서울 여의도 국민의힘 당사에서 열린 행사에 참석하기 위해 엘리베이터에 탑승한 주 부의장에게 따라붙으며 ‘문재인 정부의 탈원전 정책’ 관련 입장을 물었다고 한다. 주 부의장은 답변을 거절했고 당직자 등과 함께 김씨를 엘리베이터 밖으로 밀어냈다.&lt;br&gt;&lt;br&gt;김씨는 이 과정에서 주 부의장이 자신의 가슴 부위를 접촉해 추행했다고 주장하며, 경찰에 강제추행 등 혐의로 고소했다. 뉴스프리존과 서울의소리는 김씨의 말을 인용해 ‘주호영 성추행 파문’이라는 제목으로 기사를 보도하며 여러 차례 관련 의혹을 제기했다. 이에 주 부의장은 “친(親)민주당 매체들이 허위 사실을 보도했다”며 김씨 등을 명예훼손으로 형사 고소하고, 민사상 손해배상 소송도 함께 냈다.&lt;br&gt;&lt;br&gt;두 사건을 수사한 경찰은 2021년 8월 주 부의장의 강제추행 혐의가 인정되지 않는다며 불송치 결정을 내렸다. 엘리베이터 CCTV 영상과 김씨 진술 등을 조사한 결과, ‘성추행은 없었다’는 판단이었다. 다만 이듬해 주 부의장이 제기한 명예훼손 사건도 불송치됐다. 김씨 등이 기사 내용을 허위라고 인식했다는 증거가 없고, 공인에 관한 보도라 처벌이 어렵다는 취지였다.&lt;br&gt;&lt;br&gt;수사 결과와 달리 민사 재판은 늘어졌다. 법관 인사로 한 차례 담당 판사가 바뀌고, 코로나의 영향으로 지연됐다고 한다. 김씨 등이 작년 11월 뒤늦게 강제추행 불송치 결정에 이의를 제기했고, 그 결과가 나올 때까지 재판을 미뤄달라고 주장한 것이 받아들여졌다. 강제추행 건에 대한 이의 신청은 결국 기각됐다고 한다.&lt;br&gt;&lt;br&gt;손해배상 소송 사건 1심 법원은 “엘리베이터를 녹화한 CCTV 영상 등에 의하면 주 부의장이 김씨의 가슴 부위를 만지지 않은 것이 분명하다”고 판단했다. 김 부장판사는 “김씨와 기사를 작성한 다른 기자들도 영상을 확인했을 것”이라며 “이들은 허위 사실을 적시해 명예를 훼손하고 인격권을 침해했다. 기사 내용은 공익과도 무관하다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>농구선수 허웅, ‘前여자친구 성폭행’ 무혐의 처분</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/08/TDEMRWJJBJF7DJGSB7REB4AGSQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/08/TDEMRWJJBJF7DJGSB7REB4AGSQ/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Sep 2024 11:15:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EF66B7D2WH33R54DSC347HB22A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 KCC 허웅. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 여자친구에게 성폭행 혐의로 고소당한 프로농구 부산 KCC 허웅(31)이 경찰에서 무혐의 처분을 받았다.&lt;br&gt;&lt;br&gt;8일 경찰 등에 따르면 서울 수서경찰서는 전날 허씨의 준강간상해 혐의에 대해 증거 불충분으로 불송치 결정을 내렸다.&lt;br&gt;&lt;br&gt;앞서 허씨는 지난 6월 말 연인 관계였던 A씨를 공갈미수, 협박, 스토킹 처벌법 및 마약류관리법 위반 등의 혐의로 경찰에 고소했다.&lt;br&gt;&lt;br&gt;A씨가 2021년 5월 말부터 허씨 사생활을 언론과 소셜미디어, 소속 구단 등을 통해 폭로하겠다고 협박하며 허씨에게 3억원을 요구했다는 것이다. 이 사건과 관련해 경찰은 지난달 16일 A씨를 검찰에 송치했다.&lt;br&gt;&lt;br&gt;A씨도 지난 7월 중순 허씨를 고소했다. 2021년 5월 13~14일 무렵 서울의 한 호텔 이자카야에서 허씨와 술을 마시다 언쟁이 있었는데, 그 뒤 호텔 1층 흡연구역으로 자리를 옮겨 계속 다투다가 허씨에게서 폭행당해 치아(래미네이트)가 손상됐다는 것이다. A씨는 허씨와 호텔 방에서 강제로 성관계를 해 임신까지 하게 됐다고도 주장했다. 경찰은 A씨가 고소한 이 건에 대해서는 불송치 결정을 한 것이다.&lt;br&gt;&lt;br&gt;A씨 측은 검찰에 이의 신청할 계획인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정원 67% 뽑는 수시, 9일부터 접수... 2025년 증원 백지화 힘들어</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/09/08/AL4LJQNP5FGOJKAMTDMISSSPJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/08/AL4LJQNP5FGOJKAMTDMISSSPJQ/</guid>
+      <dc:creator>조백건 기자, 오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Sep 2024 12:01:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JVNK4S4RBRITZJS6CN4TOTBNCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025학년도 대학입학시험전형 수시모집 원서접수를 하루 앞둔 8일 서울 강남구 대치동의 한 학원 건물에 의대 입시 홍보문이 붙어있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 4년제 대학 195곳이 9일부터 13일까지 2025학년도 대입 수시 모집 원서를 접수한다. 대학 입시는 ‘수시’와 ‘정시’로 나눠 모집하는데, 수시 모집에서 전체 대학 모집 인원의 약 80%를 선발한다. 의대 역시 내년도 정원 4610명 중 67.6%(3118명)를 수시에서 뽑는다.&lt;br&gt;&lt;br&gt;정부는 의료계가 요구하는 ‘내년도 의대 증원 백지화’는 물리적으로 불가능하다는 입장이다. 정부는 의대 정원을 2024학년도 3113명에서 2025학년도 4610명으로 1497명 늘리겠다고 지난 5월 말 발표했다. 수십만명의 수험생은 이에 대비해 지원할 학과를 결정했고 9일부터 원서를 쓰는 것이다. 수험생들은 수시에서 총 6장의 원서를 쓸 수 있는데, 최상위권 학생들은 올해 크게 늘어난 의대 정원을 고려해 6장을 어느 대학, 어느 학과에 지원할지 전략을 짰다. 최상위권 학생들이 의대로 몰리면, 서울대·연세대·고려대 등 상위권 대학의 다른 학과 지원자들에게도 도미노처럼 영향을 준다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NZA45HIETRHSHOADMPZIJFV2SA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이미 원서 접수가 시작된 상황에서 ‘의대 증원’을 없던 일로 하면 수험생 혼란이 너무 크다는 게 교육계의 지배적 의견이다. 정부가 의대 증원을 백지화하면 의대를 지망하는 학생들은 이에 대해 효력 정지 가처분 신청을 내며 행정소송을 제기할 가능성이 높다. 법원장 출신 변호사는 “지금 와서 의대 모집 인원을 변경하면 수험생들이 큰 타격을 입기 때문에 법원은 가처분 신청을 받아들일 가능성이 더 높다”고 했다. 가처분이 인용되면 수험생들은 증원된 의대 입시안에 맞춰 준비를 하겠지만, 만약 추후 본안(本案) 소송에서 학생들이 패소할 경우 가처분 효력이 사라져 교육 현장엔 대혼란이 벌어질 수 있다. 정부 고위 관계자는 “의대 입시는 의대 준비생뿐만 아니라 다른 수험들에게도 연쇄적으로 큰 영향을 준다”고 했다.&lt;br&gt;&lt;br&gt;법적으로는 의대 증원을 백지화하는 게 불가능한 것은 아니다. 고등교육법 시행령상 ‘천재지변 등 교육부 장관이 인정하는 부득이한 사유’에는 수시 모집 인원과 일정을 바꿀 수 있다. 하지만 그렇게 하기까지 복잡한 절차를 거쳐야 하고 시일이 너무 오래 걸린다. 의대 정원을 바꾸려면 복지부가 의대 총 정원을 다시 변경한 후 교육부가 대학별 정원을 재배정한 뒤 한국대학교육협의회가 다시 심의해서 대학 입학 전형 기본 사항을 바꿔야 한다. 대교협이 바뀐 기본 사항을 대학들에 통보하면 대학별로 수시 모집 계획 변경안을 마련하고 다시 대교협 승인을 거쳐 수정된 모집 요강을 수험생들에게 재공고해야 한다. 정부 관계자는 8일 “수시 모집 이후엔 수능을 치고, 연말에는 정시 모집을 시작해야 한다”면서 “모집 요강을 바꾸는 절차를 지금 다시 진행하는 것은 도저히 불가능하다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KAY6FDRDA5FI3PQEIJKR6DB5ZY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의료계 안에서도 비슷한 지적이 나온다. 조승연 전국지방의료원연합회장은 “내년도 증원을 지금 정지한다는 건 불가능하다”며 “(증원으로 인한) 부작용 완화 방안과 2026학년도 의대 정원 문제를 논의해야 할 시점”이라고 했다.&lt;br&gt;&lt;br&gt;윤석열 대통령의 유감 표명이 필요하다는 목소리도 있다. 세브란스병원의 한 교수는 “내년도 증원 백지화가 현실적으로 정 어렵다면 대통령이 증원 결정 과정의 일부 실수를 솔직하게 인정해야 한다”며 “또 2026학년도에는 증원은 물론 감원까지 논의할 수 있다는 유연한 입장을 보일 필요도 있다”고 했다. 경기도의사회도 7일 성명을 내고 “의학 교육 파탄을 초래한 대통령의 사과가 (의정) 상호 간의 대화를 위한 신뢰 회복의 기본”이라고 했다.&lt;br&gt;&lt;br&gt;지금은 ‘의대 증원’이 아니라 ‘응급실 기능 유지’를 논의해야 할 때라는 지적도 나왔다. 한 전직 대형 병원장은 본지에 “전공의와 정부는 서로를 향해 전속력으로 달리는 기차”라며 “이른 시일 안에 의대 증원 문제에 합의하긴 어렵다”고 했다. 그는 “당장 환자가 죽어나가게 생겼는데, 누가 불을 냈는지 서로 따질 때가 아니다”라며 “불을 어떻게 끌 것인지를 논의하고 증원 문제는 차차 논의해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>야간에 차 4대 들이받고, 음주 측정하는 경찰관 폭행한 20대</title>
+      <link>https://www.chosun.com/national/regional/2024/09/08/W43SPWCQGZDXBMY4IWQOZG26MM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/08/W43SPWCQGZDXBMY4IWQOZG26MM/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Sep 2024 11:55:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/45ZEXVOY4RGVLV2A227VY3Y464.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;밤중에 차를 운전하면서 정차된 차량을 들이받고, 음주 측정을 하는 경찰관을 폭행한 혐의를 받는 20대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 양주경찰서는 도로교통법상 음주운전 및 사고 후 미조치, 공무집행방해 등 혐의로 20대 남성 A씨를 입건해 조사하고 있다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 6일 오후 10시쯤 양주시 옥정동 한 거리에서 승용차를 몰다가 정차한 승용차를 들이받았다.&lt;br&gt;&lt;br&gt;A씨는 이후 아무 조치도 하지 않고 1km 정도 더 운전하다 정차된 다른 차량 3대를 더 들이받았다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰이 A씨를 상대로 음주 측정을 하려 했으나 A씨는 거부하고 물을 뿌리는 등 난동을 부리며 폭행한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 정확한 범행 경위와 동기 등을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김복형 헌법재판관 후보자 “법관 개인 향한 부당 비판, 엄정 대응해야”</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/08/77BYPQ5BBJF3LIBZYXUXLTJLGU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/08/77BYPQ5BBJF3LIBZYXUXLTJLGU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Sep 2024 11:08:13 +0000</pubDate>
+      <content:encoded>김복형(56·사법연수원 24기) 헌법재판관 후보자는 “합리적 비판이 아닌 법관 개인에 대한 부당한 정치적 비판에 대해 엄정하게 대응함으로써 법관이 소신을 가지고 양심에 따라 재판에 임할 수 있는 환경을 마련해줘야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I7SBDNZ27NKSPGPKU75IWWJADY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김복형 서울고법 부장판사(56·사법연수원 24기)./대법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 김 후보자가 국회 인사청문특별위원회에 제출한 서면답변에 따르면 그는 ‘정치적 압박 등으로 사법부 독립이 훼손될 수 있다는 우려가 커지고 있다’는 국민의힘 조배숙 의원 등의 질의에 “사회 여러 세력으로부터 재판의 독립, 사법부의 독립을 지키기 위한 확고한 의지가 필요하다”며 이 같이 답했다.&lt;br&gt;&lt;br&gt;이어 김 후보자는 “법관은 오로지 법과 양심에 따라 재판해야 한다”며 “개인적인 활동으로 인해 공정한 재판에 영향을 미칠 수 있는 외관을 만들지 않도록 신중하게 처신해야 한다”고 했다. ‘사법의 정치화’에 대해선 “사법부의 독립성과 중립성을 위협하고 결국 국민의 사법 신뢰를 무너뜨리는 결과를 야기할 수 있다”며 “사법부와 구성원들이 정치화됐다는 의혹이 제기되지 않도록 각별한 주의가 필요하다”고 답했다.&lt;br&gt;&lt;br&gt;김 후보자는 사법부가 당면한 ‘재판 지연’ 문제를 해결하기 위해선 “법관 및 재판연구원 증원이 필요하다”는 입장을 밝혔다. 김 후보자는 “재판 지연에 대한 국민 우려가 크다는 것을 잘 알고 있다”며 “판단이 어려운 사건이 증가하는 상황에서 사법부의 인적 자원이 부족한 것이 하나의 원인이라고 생각한다”고 했다. 이어 “법관 증원에 찬성한다”는 입장을 밝히며 “재판연구원 등 사법부 인력의 증원과 처우개선이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;김 후보자는 “판사 임용 조건 완화를 고려해야 한다”는 의견도 밝혔다. 김 후보자는 “7~10년의 법조 경력을 가진 법조인이라면 해당 법조 직역에서 이미 중추적 역할을 하는 사람일 수밖에 없다”며 “그중에서도 훌륭한 능력과 자질을 갖춘 사람들이 얼마나 법관으로 전직을 희망할 것인지 생각해봐야 한다”고 했다. 현행 법관 임용 제도는 5년 이상의 법조인 경력을 요구하고 있는데, 내년부터 7년으로, 2029년부터는 10년으로 늘어날 예정이다.&lt;br&gt;&lt;br&gt;김 후보자는 김건희 여사의 ‘디올백 수수’ 의혹을 비롯해 민주당 주도로 추진 중인 ‘검사 탄핵’과 ‘순직 해병 특검법’ 발의 등 여야가 대립하는 현안들에 대해선 “정치적으로 민감한 사안에 개인적 견해를 말씀드리는 건 적절하지 않다”며 말을 아꼈다. 김 후보자는 자신의 정치적 성향을 묻는 질문엔 “정치적 중립성을 지키기 위해 노력해 왔다”며 “진보와 보수 중 어디에 가까운지 생각해본 적이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;한편, 김 후보자는 국민참여재판 확대에 대해선 “사법부에 대한 국민의 신뢰를 제고하고 일반 국민의 생각이나 법 감정을 확인하는 데 많은 도움이 된다”며 “지금보다 활성화될 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;법조인 전관예우에 대해서는 “사회적으로 논란이 되고 있다는 점을 잘 알고 있다”며 사건 수임을 제한하는 변호사법, 일정한 기관에 취업할 수 없도록 제한하는 공직자윤리법 등의 제도를 엄격하게 적용해야 한다고 밝혔다. 헌법재판관으로 임명된 뒤 퇴임하면 “학대피해아동 구조 등 공익활동에 종사하고 싶다는 바람이 있다”고 했다.&lt;br&gt;&lt;br&gt;김 후보자의 인사청문회는 오는 10일 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title> 작업 면적으로 임금 줬던 마루 시공, ‘장시간 저임금’ 벗어난다</title>
+      <link>https://www.chosun.com/national/labor/2024/09/08/67IC2TCNWRG3XKX5IF7OAKUFEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/09/08/67IC2TCNWRG3XKX5IF7OAKUFEQ/</guid>
+      <dc:creator>김윤주 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Sep 2024 11:12:21 +0000</pubDate>
+      <content:encoded>건물 바닥에 나무 마루 까는 일을 하는 마루 시공자들이 내년부터 시중노임단가를 적용받아 지나친 저임금 노동에서 벗어나게 됐다.&lt;br&gt;&lt;br&gt;8일 대한건설협회 등에 따르면, 내년부터 협회가 발표하는 ‘임금 실태 조사’ 직종에 ‘플로어링 마루시공공’이 포함된다. 시중노임단가는 대한건설협회가 매년 두 차례 직종별로 조사해 발표하는 적정 임금 수준으로, 건설 현장에선 일종의 ‘최저 임금’처럼 적용된다. 도배공·배관공 등 건설 현장에서 일하는 대부분 노동자들은 시중노임단가를 통해 본인이 하는 일의 적정 임금을 알 수 있다. 공공기관에서 발주하는 공사도 이 기준을 적용하고, 민간 공사도 이 임금을 반영해 지급할 때가 많다.&lt;br&gt;&lt;br&gt;하지만 마루 시공자들은 그동안 이 조사 대상에서 제외되어 있었다. 시중노임단가는 1일 8시간을 기준으로 적정한 임금을 책정한다. 그런데 마루시공자들은 일한 시간과 상관 없이 작업한 면적으로 임금을 받았다. 건설업체들이 실제 작업한 면적을 정확하게 근로자들에게 알려주지 않아서 일한 만큼 임금을 못 받을 때가 많다고 한다.&lt;br&gt;&lt;br&gt;지난 5월 민생토론회에서는 마루 시공자가 윤석열 대통령 앞에서 이런 열악한 상황을 직접 토로했다. 당시 임승철씨는 “마루 시공자들은 다른 건설 직종보다 낮은 수준의 임금을 받고 주 6일 하루 14시간 이상 노동을 하고 있다”며 적절한 보수와 4대 보험 적용이 필요하다고 말했다.&lt;br&gt;&lt;br&gt;최우영 마루노조 위원장은 “마루 시공자들은 공사 면적으로 근로 계약을 맺기 때문에 실제 일한 시간과 관련 없이 하루 13~14시간 이상 고강도 노동에 시달려야 했다”며 “하루 8시간 기준의 시중노임단가가 정해지면 임금뿐 아니라 근로 시간 등 일하는 환경이 전반적으로 개선되는 데 큰 도움이 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>지상 50m 집진기서 작업하던 30대 벌에 쏘여 헬기 이송</title>
       <link>https://www.chosun.com/national/regional/2024/09/08/K647QFYPV5D5LDWXFZQZBETSAQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/08/K647QFYPV5D5LDWXFZQZBETSAQ/</guid>
@@ -824,15 +899,6 @@ MZ가 로맨틱 연인 찾기 여행에 나섰다.&lt;/small&gt;&lt;/figcaption&
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YD6QAWZTAJGEFF77X3RKFY4VX4.png"&gt;&lt;figcaption&gt;&lt;small&gt;폭염 속 병원복을 입고 갓길을 걷고 있는 치매 노인. /경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;35도에 이르는 폭염 속에서 거리를 배회하던 치매 노인이 경찰에 구조됐다. &lt;br&gt;&lt;br&gt;6일 경찰에 따르면, 지난달 6일 오후 4시쯤 충청남도 예산군의 한 도로에서 순찰을 돌던 경찰이 갓길을 걷고 있는 노인을 발견했다. 환자복 차림의 이 남성은 한쪽 팔에 링거를 꽂은 채 터벅터벅 걸어가고 있었다. &lt;br&gt;&lt;br&gt;이날 낮 최고 기온이 30도를 훌쩍 넘겼고, 노인 옆으로는 차들이 달리는 상황이었다. 이 모습을 의아하게 여긴 경찰은 차를 세운 뒤 노인에게 다가가 “혹시 어디로 가고 계시냐”고 물었다. 그런데  노인은 경찰에게 “집에 가야된다”는 말만 반복하며 횡설수설했다. 그는 인적사항을 물어도 답하지 못했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KZHNSLRAKNBO7HUAMDZ4DCGDVU.png"&gt;&lt;figcaption&gt;&lt;small&gt;폭염 속 병원복을 입고 갓길을 걷고 있는 치매 노인. /경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 노인이 병원에서 나왔다가 길을 잃은 것으로 보고 순찰차에 태워 옷에 적혀 있던 병원으로 데려갔다. 그곳에서 경찰은 노인을 찾고 있던 가족을 만나 안전하게 인계했다. 이 노인은 치매를 앓고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 장면은 경찰청 유튜브에도 올라왔다. 영상을 본 네티즌들은 “치매가 이렇게 무섭다. 환자복에 병원 이름 쓰는 이유가 있네” “저희 어머니도 치매인데 경찰 도움을 받은 적 있다” “폭염인데 그냥 지나쳤으면 어떻게 됐을까, 순찰 지역인 게 천만다행” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>정은지에 “반려자로 받아줘”...스토킹 50대 여성 2심서 일부 감형 왜</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/06/D74XHEPW5ZBRTKGKXSA7WX3ZH4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/06/D74XHEPW5ZBRTKGKXSA7WX3ZH4/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Sep 2024 12:15:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W2UGNB56DJPXRI25WFRLUMPPGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 정은지. /IST엔터테인먼트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;걸그룹 에이핑크 정은지씨에게 수백 차례 연락하고 집까지 쫓아간 스토커가 항소심에서도 징역형 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;6일 법조계에 따르면, 서울중앙지법 형사항소1-2부(재판장 안희길)는 지난 5일 스토킹처벌법 위반 혐의로 기소된 조모(59)씨에게 1심과 같은 징역 1년에 집행유예 2년, 벌금 10만원, 스토킹 범죄 재범 예방 강의 40시간 수강 명령을 선고했다.&lt;br&gt;&lt;br&gt;다만 1심에서 명령한 보호관찰, 사회봉사 120시간 명령은 파기했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “조씨는 장기간에 걸쳐 범행을 저질렀을 뿐만 아니라 피해자의 명시적인 거부 의사가 있었음에도 범행을 반복한 점 등을 종합하면 죄질이 나쁘고 죄책이 가볍지 않다”고 지적했다. 다만 “당심에 이르러 원심에서 부인하던 부분을 모두 인정하면서 잘못을 진심으로 반성하는 것으로 보인다”며 “형사 처벌 전력이 없는 점, 피해자와의 관계 등 모두 종합하면 원심 형은 다소 무거워 부당하다”고 판단했다.&lt;br&gt;&lt;br&gt;조씨는 2020년 3월~2021년 12월 정씨의 집에 찾아가거나 인스타그램, 팬 소통 플랫폼 ‘버블’ 등을 통해 메시지 수백 개를 보낸 혐의를 받는다. 그는 정씨에게 ‘저를 당신의 집사로, 반려자로 받아주시겠습니까?’라는 메시지를 보냈던 것으로 조사됐다. 이에 정씨가 지난 2021년 12월 “버블 사용을 중단한다”고 밝히기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>주말 낮 최고 34도 ‘더운 가을’...다시 폭염·열대야</title>
       <link>https://www.chosun.com/national/transport-environment/2024/09/06/N5VOPA4JYJFYLOCICNVVXFQSOQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/09/06/N5VOPA4JYJFYLOCICNVVXFQSOQ/</guid>
@@ -851,24 +917,6 @@ MZ가 로맨틱 연인 찾기 여행에 나섰다.&lt;/small&gt;&lt;/figcaption&
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/46YCC2XNARPDPA3MM5YM5N2NQQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;박민수 보건복지부 제2차관이 6일 오후 서울 서초구 국제전자센터에서 열린 '제17차 건강보험정책심의위원회'에서 모두발언을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 4일 “환자 본인이 전화할 수 있으면 경증”이라고 발언해 구설에 오른 박민수 보건복지부 2차관이 이틀 만인 6일 “유감의 뜻을 표한다”며 사과했다.&lt;br&gt;&lt;br&gt;박 차관은 이날 서울 서초구 국제전자센터에서 열린 건강보험정책심의위원회 모두 발언에서 “과도한 일반화를 하는 바람에 여러분께 걱정과 심려를 끼쳤다”며 이같이 말했다. 그는 “(경증 환자들에게) 동네 병의원이나 작은 기관의 응급실 방문을 요청하려다 일반화가 이뤄졌다”고 했다.&lt;br&gt;&lt;br&gt;박 차관은 지난 4일 MBC라디오에서 환자나 보호자가 경증 여부를 어떻게 판단하느냐는 질문에 “본인이 경·중증을 판단해 (의료 기관에) 갈 순 없다”면서도 “본인이 전화를 해서 알아볼 수 있는 상황이라는 것 자체가 사실은 경증이라고 이해하면 된다”고 했다. 이에 대한의사협회는 “전화로 쉽게 경·중증 판단이 가능하다는 게 정부 입장이라면 현재 국정 운영 상태가 중증인 것”이라며 박 차관 경질을 요구했다.&lt;br&gt;&lt;br&gt;이와 관련해 정윤순 복지부 보건의료정책실장은 이날 의료 관련 브리핑에서 총 5등급으로 나뉘는 우리나라 응급 환자 중증도 분류 기준(KTAS)에 관해 설명하며 “이런 기준으로 환자 스스로 (경·중증을) 판단하긴 어렵기 때문에 얼마나 위중한지 등에 대한 전문적 판단이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;한편 한국갤럽이 지난 3~5일 전국 18세 이상 1001명을 조사한 결과, ‘내년 의대 신입생은 (증원해서) 약 4500명 선발하되, 2026학년은 기존 수준인 3000여 명만 뽑고 이후 증원 규모를 재논의하자’는 안에 응답자 48%가 찬성했다. 반대는 36%, 의견 보류는 16%로 나타났다. 내년 의대 증원과 관련해선 ‘잘된 일’이라는 응답이 56％, ‘잘못된 일’이라는 응답이 34％로 집계됐다. 6월 조사(잘된 일 66%, 잘못된 일 25%)보다 긍정 응답이 줄고 부정 응답은 늘었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>한글과컴퓨터 50대 직원, 사옥 11층서 투신</title>
-      <link>https://www.chosun.com/national/incident/2024/09/06/22VAK47VXVGXTC2SSRH6QVE35M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/06/22VAK47VXVGXTC2SSRH6QVE35M/</guid>
-      <dc:creator>이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Sep 2024 11:06:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HCVSJKHOJUEUO2XB7NYQUFHA3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 분당경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 성남에 있는 한글과컴퓨터 사옥에서 50대 남성이 투신하는 사건이 발생해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;6일 경기 분당경찰서 등에 따르면 이날 오후 3시 20분쯤 경기 성남시 분당구 한글과컴퓨터 사옥 11층 옥상에서 50대 A씨가 투신해 3층 테라스로 떨어져 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 이 회사 직원인 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 회사 직원 등을 상대로 정확한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “유서는 발견되지 않았지만, 별다른 범죄 혐의점은 없는 것으로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;※ 우울감 등 말하기 어려운 고민이 있거나 주변에 이런 어려움을 겪는 가족·지인이 있을 경우 자살예방 상담전화(☎109)에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>중앙지검 “수사심의위 결정 참고해 金여사 최종 처분 예정”</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/06/W5QEMUY7TFGMTGF56MWJK5GKHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/06/W5QEMUY7TFGMTGF56MWJK5GKHI/</guid>
-      <dc:creator>유희곤 기자, 이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Sep 2024 10:42:38 +0000</pubDate>
-      <content:encoded>윤석열 대통령의 배우자 김건희 여사의 ‘디올백 수수’ 의혹을 수사한 서울중앙지검이 “검찰수사심의위원회(수사심의위) 결정과 논의 내용을 참고해 최종적으로 사건을 처분할 예정”이라고 6일 밝혔다. 이날 수사심의위가 김 여사의 청탁금지법 위반 등 6개 혐의에 대해 모두 불기소를 권고한 데 따른 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PEWE5GT6PWXKT4GEMUKRO3JNSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검 앞 전경. / 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검은 이날 언론에 배포한 입장문에서 “부장검사를 포함한 서울중앙지검 형사1부 수사팀 전원은 수사심의위에 출석해 그동안의 수사결과를 위원들에게 충실히 설명했다”고 밝혔다. 이어 “수사팀은 일체의 다른 고려 없이 증거와 법리에 따라 전원이 일치된 결론에 이르렀음을 밝혔다”며 “(김 여사가) 고발된 청탁금지법 위반, 뇌물수수 등 외에 알선수재, 변호사법 위반과 관련한 쟁점과 법리도 충분히 설명했다”고 했다.&lt;br&gt;&lt;br&gt;강일원 위원장(전 헌법재판관)을 포함한 수사심의위원 15명은 이날 서울 서초구 대검찰청에서 오후 2시부터 7시까지 5시간여 동안 논의한 뒤 김 여사에 대해 불기소할 것을 서울중앙지검 수사팀에 권고했다. 청탁금지법상 공직자 배우자에 대한 처벌 규정이 없고, 디올백이 직무 관련성과 대가성이 없어 김 여사를 처벌할 수 없다고 본 수사팀 수사 결과와 같은 의견이다. 검찰은 조만간 김 여사에 대해 무혐의 처분할 것으로 보인다.&lt;br&gt;&lt;br&gt;수사심의위는 이날 김 여사에 대해 청탁금지법 위반 혐의 뿐만 아니라 알선수재, 변호사법 위반, 뇌물수수, 증거인멸, 직권남용까지 6개 혐의에 대해 심의를 진행한 결과 모든 혐의에 대해 불기소 처분을 의결했다고 밝혔다. 김 여사에게 디올백을 건넸던 재미 교포 최재영 목사가 앞서 낸 의견서도 함께 검토했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title> [단독] 노웅래∙이정근에 금품 준 사업가, 별건 사기로 실형∙법정구속</title>
       <link>https://www.chosun.com/national/court_law/2024/09/06/AL34E3EZT5FRTBH2BIYRFKNJNQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/06/AL34E3EZT5FRTBH2BIYRFKNJNQ/</guid>
@@ -876,51 +924,6 @@ MZ가 로맨틱 연인 찾기 여행에 나섰다.&lt;/small&gt;&lt;/figcaption&
       <description/>
       <pubDate>Fri, 06 Sep 2024 10:34:45 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HELLUCJF7BBLHD3XT2LT2HZDAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 노웅래 전 의원과 이정근 전 사무부총장. &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 노웅래 전 의원과 이정근 전 사무부총장에게 각종 청탁과 금품을 건넨 혐의를 받는 사업가 박모씨가 별건 사기 혐의로 1심에서 실형(實刑)을 선고받고 법정 구속됐다.&lt;br&gt;&lt;br&gt;6일 법조계에 따르면, 서울중앙지법 형사28부(재판장 한대균)는 특정경제범죄법 위반(사기) 혐의로 기소된 박씨에게 지난 4일 징역 3년을 선고하고 법정 구속했다. 노 전 의원에게 6000만원을 건넨 혐의로 기소돼 있는 박씨는 구속 상태에서 남은 재판을 받게 됐다.&lt;br&gt;&lt;br&gt;박씨가 구속된 사기 사건은 정치인들과는 무관한 사건이다. 여러 사기 전과가 있던 박씨는 2014년 납골당을 운영하는 한 재단과 봉안증서(납골당 사용권)를 계약하겠다고 속여 약 63억원어치 증서를 뜯어낸 혐의로 기소됐다. 박씨는 서울 종로구의 한 상가 신축∙분양 사업을 추진하다가 자금이 부족하자 사기를 친 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “박씨가 증서 매매 대금을 지급할 의사나 능력이 없었는데도 피해자를 기망해 63억원 상당의 재산상 이익을 편취했다”고 판단했다. 다만 봉안증서 대부분이 회수되거나 무효 처리돼 실질적인 피해액은 5억원에 그친 것으로 나타났다. 재판부는 이러한 점을 고려해 양형을 정했다고 밝혔다.&lt;br&gt;&lt;br&gt;한편, 박씨는 뇌물 공여 및 정치자금법 위반 혐의로 기소돼 노 전 의원과 1심 재판을 받고 있다. 박씨는 2020년 2~12월 노 전 의원에게 용인 물류 단지 개발, 태양광 사업, 발전소 납품 등 청탁과 함께 5차례에 걸쳐 총 6000만원을 건넨 혐의를 받는다. 검찰은 노 전 의원이 친목 모임에서 알게 된 박씨 부인을 통해 금품을 수수하고 청탁을 전달받은 것으로 의심하고 있다.&lt;br&gt;&lt;br&gt;박씨와 그의 부인은 재판에서 돈을 건넸다고 진술했다. 금품을 건네는 과정에서 박씨 측이 녹음한 파일도 재판부에 제출됐다. 하지만 노 전 의원은 “부정한 돈을 받지 않았다” “검찰이 없는 사실을 만들어 덮어씌웠다”고 주장하고 있다.&lt;br&gt;&lt;br&gt;박씨는 또 송영길 전 민주당 대표(현 소나무당 대표)의 측근이었던 이정근씨에게도 각종 청탁 명목 금품과 불법 정치자금 등 약 10억원을 건넸던 것으로 조사됐다. 이씨는 이 사건으로 작년 12월 대법원에서 징역 4년 2개월을 확정받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“뚜껑 열 때 손동작 주의”… 서울우유, 논란 차단하려다 ‘여혐’ 역풍  </title>
-      <link>https://www.chosun.com/national/national_general/2024/09/06/LH4YLL7TJNDQROPWOZLXCUJBBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/06/LH4YLL7TJNDQROPWOZLXCUJBBM/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Sep 2024 10:28:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LSPIEZEAPNB4PJ6JDOFAWJ74OU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울우유가 그릭요거트 제품 홍보를 의뢰하면서 당부한 주의사항 중 일부. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 우유 시장 1위 ‘서울우유’가 제품 체험단에게 “논란의 여지가 있는 손동작을 주의해달라”는 안내문을 전달해 여성혐오 논란에 휘말렸다. 논란이 커지자 서울우유 측은 안내문에서 이 표현을 삭제했다.&lt;br&gt;&lt;br&gt;서울우유는 지난 3일 자사 그릭요거트 제품 홍보에 참여할 인플루언서를 모집하면서 여러 주의사항을 안내했다. 이 안내문에는 의약적 효능을 언급하지 말고, 타사 제품과 비교하지 말라는 내용 등이 담겼다.&lt;br&gt;&lt;br&gt;이중 논란이 된 건 “요거트 뚜껑을 열거나 패키지를 잡을 때 논란의 여지가 있는 손동작 사용주의 부탁드립니다”라는 문구다. 이 안내문을 읽은 네티즌들은 ‘논란의 여지가 있는 손동작’이 엄지와 검지 손가락으로 물건을 집는 ‘집게손’ 모양을 언급하는 것이라고 해석했다.&lt;br&gt;&lt;br&gt;집게손은 최근 젠더갈등의 중심에 선 표현이다. 남성 중심 온라인 커뮤니티에선 집게손이 남성 성기 크기를 조롱하는 상징이라고 주장한다. 반면 이런 주장에 대해 “일상적인 손동작의 의미를 왜곡하고 검열한다”는 반발도 있다.&lt;br&gt;&lt;br&gt;이런 상황에서 서울우유가 집게손을 암시하며 주의하라고 안내하자, “남성들의 주장을 의식해 오히려 여성혐오를 한다”는 비판이 불거진 것이다. 네티즌들은 사이에선 “집게손을 안 쓰면 물건을 집을 때 어떻게 해야 하나” “요거트를 열 때 주먹으로 열어야 하느냐”는 반응이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L5QLIV2ULJFGZJDPOOWUPZR6DA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여성을 젖소에 비유한 서울우유 광고 영상/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울우유의 과거 여성혐오 논란도 재조명되고 있다. 서울우유는 2021년 여성을 젖소에 비유한 광고를 게시했다가 여성혐오라는 비판이 일자 “불편을 느낀 모든 소비자에게 사과드린다”고 밝히고 온라인에서 영상을 삭제했다. 2003년에는 신제품 요구르트를 홍보하기 위해 여성 모델들이 몸에 요구르트를 뿌리는 누드 퍼포먼스를 해 뭇매를 맞았다. 당시 마케팅 직원은 공연음란죄로 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;서울우유는 지난 5일 온라인에서 비판이 제기되자 ‘손동작’과 관련한 주의사항을 삭제했다. 서울우유 측은 “인플루언서들이 사진을 올릴 때 사회적으로 이슈가 되지 않게 조심해달라고 가이드라인을 얘기했던 것”이라며 “모든 소비자가 불편을 느끼지 않도록 조심하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 대진연, 광화문 광장서 집회 중 체포</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/06/7PN3BAEJJZCQ5MT6DISRLTK2XY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/06/7PN3BAEJJZCQ5MT6DISRLTK2XY/</guid>
-      <dc:creator>강우석 기자, 서보범 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Sep 2024 10:06:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JSZ3DPI5D5DDFEBDA4AQIDZHSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;./독자제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국대학생진보연합(대진연)이 6일 오후 7시쯤 서울 종로구 광화문광장에서 집회를 벌이다 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;서울 종로경찰서는 이날 공무집행방해 등 혐의로 대진연 관계자 2명을 현행범 체포했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원종합청사 보안요원 앞으로 가스총 휴대한다</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/06/P72RBO3BAREDBEXLWGJXXBOMHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/06/P72RBO3BAREDBEXLWGJXXBOMHA/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Sep 2024 09:57:24 +0000</pubDate>
-      <content:encoded>최근 법정 내에서 흉기 피습 사건이 발생한 가운데 전국 최대 법원인 서울중앙지법·서울고법 등이 있는 서울법원종합청사가 재발 방지를 위해 법정 보안을 강화한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C2TR4UCHC5A6HCOPD2Q6II7ZLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 법정 내부 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법은 홍동기 서울고법 수석부장판사 주재로 서울중앙지법, 회생법원 수석부장판사, 보안관리대장 등이 참석한 간담회를 거쳐 법정출입구 검색, 복도 및 법정 내부 보안 등을 보강하기로 결정했다고 6일 밝혔다. 앞서 지난달 28일 서울남부지법에선 피고인석에 앉아 재판을 받던 사람이 방청석에 앉아있던 한 남성으로부터 흉기에 목 부위를 수차례 찔리는 사고가 발생했다.&lt;br&gt;&lt;br&gt;서울고법은 먼저 법정 출입을 위해 거치는 검색대에서부터 면밀한 검색이 이루어지도록 하고(지난 4일부터 시행), 법원보안관리대원의 교육 및 훈련을 강화하기로 정했다. &lt;br&gt;&lt;br&gt;아울러 법정 내에서는 법원보안관리대원이 가스총 등을 휴대해 위급상황에 신속하게 대응할 수 있도록 하고(지난 4일부터 시행), 법원보안관리대원이 소송관계인석과 방청석 사이에 위치하도록 조정했다. 방청객 등이 소송관계인이 있는 곳으로 갑작스럽게 진입하는 것 등을 막기 위한 조치다.&lt;br&gt;&lt;br&gt;서울고법은 이를 뒷받침하기 위해 법원보안관리대원 증원과 장비 및 물적 시설 확충 등을 법원행정처에 건의할 예정이라고 설명했다. 그러면서 향후 법원행정처에서 추가로 결정되는 사항도 반영하고, 법정보안 강화 방안을 다각도로 검토하겠다고 했다.&lt;br&gt;&lt;br&gt;서울고법 관계자는 “보안강화 조치로 소송관계인이나 방청객이 입정하는데 상당한 시간이 소요되는 등 불편이 발생할 수 있는데, 이에 대한 이해와 협조가 필요하다”며 “이러한 부분을 고려해 정시에 입정할 수 있도록 준비할 필요가 있다”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>재판 중 필리핀 도주한 보이스피싱 조직원…8년 만에 송환</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/06/324KPFHVGFBZ3P6GDMHTECGISI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/06/324KPFHVGFBZ3P6GDMHTECGISI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Sep 2024 09:53:19 +0000</pubDate>
-      <content:encoded>보이스피싱에 가담한 혐의로 재판 받던 중 선고를 앞두고 필리핀으로 도주한 보이스피싱 콜센터 조직원이 8년여 만에 현지에서 검거돼 국내로 송환됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRXSGRZQL3IDI3CMO6NWUQB5RM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 전경. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검은 폭력범죄단체 구리식구파 조직원 출신의 보이스피싱 사범 이모(38)씨를 필리핀 현지에서 검거해 국내로 강제 송환했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;이씨는 지난 2013~2014년 중국 대련시에 있는 보이스피싱 콜센터에서 상담원으로 근무하며 피해자들로부터 26회에 걸쳐 4억원을 가로챈 혐의로 지난 2016년 3월 기소됐다. 재판을 받던 그는 그해 5월 해외로 도주했다. 법원은 2017년 2월 이씨에게 징역 3년을 선고했고 형이 확정됐다.&lt;br&gt;&lt;br&gt;검찰은 지난 2017년 4월 인터폴에 국제 공조수사 및 수배 요청을 내렸고, 지난 5월에는 필리핀 현지 파견 검찰 수사관에게 이씨 관련 정보 제공 및 검거를 요청했다. 이후 필리핀 국가수사청(NBI), 필리핀 이민청 수배자검거팀(FSU) 등 유관 기관과 이씨 정보를 공유하고 주거지 탐문, 사회관계망서비스(SNS) 추적 등을 벌여 이씨를 체포했다.&lt;br&gt;&lt;br&gt;이씨는 필리핀 도주 후 8년간 필리핀 국적의 배우자와 가정을 꾸리고 고가 차량 판매 사업을 통해 생활을 이어간 것으로 조사됐다. 검찰은 이를 바탕으로 차량 위장거래를 시도해 이씨를 검거했다고 한다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “해외 도피 중인 보이스피싱 사범 등 국외 도피 대상자들에 대한 집중 검거 활동을 통해 죄에 상응하는 처벌이 이뤄질 수 있게 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이화여대 해킹 공격받아…졸업생 8만명 개인정보 털렸다</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/06/IKNFJQUW7NCCZMOLDT7A57ECUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/06/IKNFJQUW7NCCZMOLDT7A57ECUQ/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Sep 2024 06:21:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N6J342NQA3CLN3KZIZSGSD7P44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화여대 캠퍼스 전경. /이화여대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이화여대의 학사 정보 등을 관리하는 통합정보시스템이 해킹돼 졸업생 8만 명의 개인정보가 무더기로 유출됐다.&lt;br&gt;&lt;br&gt;이화여대는 6일 ‘개인정보 유출 관련 안내 및 사과의 글’을 홈페이지 공지사항에 올려 개인정보 유출 상황을 알리고 사과했다.&lt;br&gt;&lt;br&gt;공지에 따르면 이 학교 통합정보시스템이 해킹 공격을 받아 지난 1982학년도∼2002학년도에 입학한 졸업생 일부의 성명과 주민등록번호, 연락처, 집 주소, 이메일 주소, 학적 정보 등이 유출됐다.&lt;br&gt;&lt;br&gt;이화여대 정보침해대응단 위원장인 신경식 연구·대외부총장은 “해당 기간 전체 졸업생 25만명 중 8만명 정도의 20∼40년 전 과거 정보가 유출됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;일부 졸업생의 경우 보호자 정보도 유출된 것으로 파악됐다. 다만 이번 해킹으로 재학생 관련 정보는 유출되지 않은 것으로 나타났다.&lt;br&gt;&lt;br&gt;이대 측은 지난 3일 오전 11시 55분쯤 통합정보시스템을 실시간 모니터링을 하던 중 해외IP의 비정상적인 접근을 감지했으며, 조사 및 보안 분석을 통해 해킹 공격 이틀 뒤인 5일 오전 11시쯤 개인정보가 유출된 사실을 확인했다.&lt;br&gt;&lt;br&gt;이후 학교 측은 교육부와 개인정보보호위원회에 개인정보 유출 사실을 신고했으며, 개인정보 유출 내역 조회 시스템과 관련 피해 상담 등 민원 센터를 운영하고 있다.&lt;br&gt;&lt;br&gt;이대 측은 “학교는 이번 사안의 심각성을 엄중하게 인식하고 있으며 현재 내부 시스템 점검 및 강화, 유관 기관과의 협력 등을 통해 추가적인 피해 가능성을 차단하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;아울러 “사고 원인을 면밀하게 분석해 시스템 점검, 보안 시스템 강화, 주기적인 보안 점검을 강화하고 재발 방지 대책을 철저히 마련하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘호별 방문.허위사실 공표’ 혐의...조지연 의원, 공직선거법 위반 검찰 조사</title>
