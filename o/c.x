@@ -13,6 +13,34 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“아들, 25학번 만들어줄게”… 자녀 위해 수능 본다는 학부모들, 왜? </title>
+      <link>https://www.chosun.com/national/national_general/2024/09/07/VHIPNWUXYJC63HNUY3DYO25CBY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/07/VHIPNWUXYJC63HNUY3DYO25CBY/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Sep 2024 06:21:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RCKXRGBQAFDXFNDOER4J42WZKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자녀의 과학탐구 표준점수를 높이기 위해 2025학년도 대학수학능력시험을 접수했다는 학부모들의 ‘인증 글’이 화제를 모으고 있다.&lt;br&gt;&lt;br&gt;수능 원서 접수가 시작된 지난달 22일부터 입시 관련 카페에는 과학탐구 영역에 원서를 접수했다는 학부모들의 인증 글이 잇달아 올라왔다.&lt;br&gt;&lt;br&gt;수능 접수 마지막 날이던 지난 6일 한 학부모 A씨는 “95학번 엄마가 아들 25학번 만들어 보려고 한강에 물 한바가지 붓는 중”이라며 “지구과학 45점 받고 2등급이라고 괴로워하는 아이 보니 마음이 다급해졌다. 망설이시는 분들 얼른 다녀오시라”고 했다.&lt;br&gt;&lt;br&gt;A씨는 글 하단에 필수과목인 한국사와 과학탐구 영역 중 생명과학Ⅰ과 지구과학Ⅰ만 선택한 접수증 사진을 첨부하기도 했다.&lt;br&gt;&lt;br&gt;여기에는 다른 학부모들의 응원과 함께, 자신도 과학탐구 수능 원서를 접수했다는 댓글이 이어졌다. “한강에 물 한바가지 같이 붓자” “저도 생1, 지1 신청했다” 등이다.&lt;br&gt;&lt;br&gt;지난달 30일 다른 학부모 B씨는 한국사와 화학Ⅰ, 생명과학Ⅰ만 선택한 수능 접수증 사진을 올린 뒤 “같이 수능 보기로 한 엄마들이 당뇨 있다고 배신해서 혼자 씩씩하게 다녀왔다”며 “우리 아이들 화1, 생1 표준점수는 엄마가 지켜줄 거야”라고 했다. 그러면서 “국·영·수까지 보긴 힘들 것 같아 4교시만 접수했다. 1~3교시 집중 기도할 수 있는 시간 확보한 것도 벌써 든든하다. 망설이고 계신 학부모님들 함께 하자”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TRP47ZDGLJDSPAGPL43K6SAOYU.png"&gt;&lt;figcaption&gt;&lt;small&gt;한 학부모가 수험생 자녀의 과학탐구 표준점수를 높이기 위해 과학탐구 영역에 응시했다며 인증 사진을 올렸다. /네이버 카페&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이처럼 학부모들이 수능 과학탐구 영역 응시에 나선 이유는 응시 인원이 적은 탐구과목의 경우 저득점자가 늘게 되면 성적 향상의 효과가 나타날 수 있기 때문이다. 응시생이 받은 원점수가 평균에서 얼마나 떨어져 있는지를 나타내는 표준점수 특성상 평균이 낮아지면 그만큼 고득점자의 표준점수가 높아진다.&lt;br&gt;&lt;br&gt;특히 이번 수능에서는 이과생들의 ‘과학탐구 이탈 현상’이 예상되는 만큼, 과학탐구를 응시하는 학부모들이 더욱 점수를 깔아주기 위한 행동에 나선 것으로 풀이된다.&lt;br&gt;&lt;br&gt;종로학원에 따르면, 지난 5월 학력평가에서 고3 과탐 응시생 비율은 44.1%로, 통합 수능이 도입된 2021년 이후 최저였다. 수능 1등급은 응시생의 4%, 2등급은 11%로 정해져 있기 때문에 중하위권 수험생들이 과학탐구에서 사회탐구로 전환하면 그만큼 1~2등급 인원은 줄어든다. 의대를 목표로 하는 이과 최상위권 수험생 역시 수능 최저등급 확보가 어려워져 불리해질 수 있는 것이다. 과학탐구 이탈 현상 배경에는 자연계 학과를 지원해도 사회과목 선택을 허용해 주는 대학이 늘었기 때문이라는 해석이 있다.&lt;br&gt;&lt;br&gt;과학 학원을 운영 중이라는 한 강사는 지난달 28일 학부모들과 같이 과학탐구를 응시 선택한 접수증 사진을 올리고 “’사탐런’이라는 신조어가 생길 정도로 이과생들이 과탐 대신 사탐을 선택하는 경우가 늘다 보니 예년과는 다른 결과가 나올 거 같아 불안한 마음”이라며 “선택과목에 대한 균형을 맞추는 데 아주 작은 보탬이 되고자 물리, 화학을 선택해 응시하려 한다”고 했다.&lt;br&gt;&lt;br&gt;다만 전문가는 ‘깔아주기’의 효과가 미비할 것으로 봤다. SBS가 통계학과 교수와 함께 실제 수능 표준점수 산출 방법대로 시뮬레이션해본 결과, 응시자가 1000명인 과목에 학부모 200명이 응시해 전원 0점을 깔아줘도 상위권인 1·2등급 표준 점수가 변동이 없거나 오히려 1점 낮아지는 걸로 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경기 시흥 신안산역 목감역 공사현장 화재... 인명피해는 없어</title>
+      <link>https://www.chosun.com/national/regional/2024/09/10/GFPI6EI3TFF2RGU2GBFZQHTOKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/10/GFPI6EI3TFF2RGU2GBFZQHTOKQ/</guid>
+      <dc:creator>시흥=권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Sep 2024 23:09:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HZOK2K6ZARN5BJ4KIGCOHRSUXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오전 5시쯤 경기 시흥시 목감동 신안선선 목감역 공사 현장에 화재가 발생하자 소방당국이 진화를 하고 있다. /경기도소방재난본부
+ &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 오전 5시쯤 경기 시흥시 목감동 신안산선 목감역 지하 공사 현장에서 화재가 발생했다. 당시 일대에 다량의 검은 연기가 발생하자 인근을 지나던 행인이 119에 신고했다.&lt;br&gt;&lt;br&gt;소방 당국은 지하 공사현장 내부에 고립 작업자가 있을 가능성을 염두에 두고 화재 발생 14분 만인 오전 5시 14분 대응 1단계(3∼7개 소방서에서 31∼50대의 장비를 동원하는 경보령)를 발령했다.&lt;br&gt;&lt;br&gt;또 펌프차 등 장비 36대와 소방관 등 인원 99명을 투입, 화재 발생 1시간 50여 분만인 오전 6시 51분 큰 불길을 잡고 비상 발령을 해제했다. 화재 당시 현장에 작업자들이 없어 인명 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;이번 화재는 현장 인근 도로 60㎝ 아래에 설치된 전력 공급망에서 처음 발생한 것으로 소방 당국은 보고 있다. 진화 과정에서 근 일부 건물과 아파트에서 정전이 발생했으나 현재 복구가 완료된 상태이다. 소방당국은 자세한 화재 원인을 조사할 예정이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“김천은 김밥천국이지”…웃픈 답변 한 마디에 ‘김밥축제’ 여는 도시</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/10/65ZDOWDZPVAAHHSKWWD55WDBKI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/10/65ZDOWDZPVAAHHSKWWD55WDBKI/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Sep 2024 22:08:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BBWL3TMVFMCJQLDZ4HIVA753DY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중구 시내 한 김밥전문점.(기사 내용과는 무관함) /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 김천시가 김밥축제를 열기로 했다. 지역명이 분식점 ‘김밥천국’의 줄임말과 같은 점에서 착안해 축제를 기획한 것인데, 온라인상에선 흥미로운 발상이라며 큰 호응이 이어지고 있다.&lt;br&gt;&lt;br&gt;10일 김천시에 따르면 다음 달 26~27일 사명대사공원에서 2024 김천김밥축제가 열린다.&lt;br&gt;&lt;br&gt;축제에 앞서 시는 관광 트렌드를 이끄는 MZ세대를 대상으로 김천 하면 떠오르는 이미지가 무엇이냐는 질문에 ‘김밥천국’이라는 답변을 받았다고 한다. 이런 ‘웃픈(웃기지만 슬픈)’ 오해를 이용해 ‘김밥’을 주제로 한 축제를 기획하게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CNNYZKHA4BDNJLDUYFETYDDTS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;먹방 유튜버 쯔양이 지난 2월 김천에 있는 김밥천국을 방문한 모습./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시는 유튜브 공식 계정 이름도 ‘김천시(feat. 김밥천국 아님)’로 설정하는 등 적극적인 홍보에 나섰다.&lt;br&gt;&lt;br&gt;인스타그램 등 공식 소셜미디어(SNS)에는 ‘김밥축제 탄생 비하인드’라는 제목의 글을 올리기도 했다.&lt;br&gt;&lt;br&gt;시는 이 게시물에서 “K-콘텐츠 확산에 힘입어 냉동 김밥 등 세계 곳곳에서 김밥의 인기가 뜨겁다”며 축제 의도를 설명했다. 아울러 “웃픈 설문 결과였지만 우리가 김밥천국이 되는거야” “김천=김밥천국? 이거 완전 럭키 비키잖아” 등의 글을 올려 축제를 홍보하고 있다.&lt;br&gt;&lt;br&gt;김천시의 김밥 축제 개최 이유는 여러 온라인 커뮤니티에서도 화제다. 네티즌들은 “김밥천국 때문에 축제 아이디어를 얻었으니 정말 럭키김천” “역발상으로 지역을 홍보하다니 김천 대단하다” 김천이 어딘지 몰랐는데 가고 싶어진다” 등의 반응을 보이고 있다.&lt;br&gt;&lt;br&gt;시는 이번 축제에서 지역 특산물을 활용한 김밥 등 김천에서만 맛볼 수 있는 김밥을 준비할 계획이다. 또 예선을 거처 본선에 오른 10개 팀이 현장에서 김밥 만들기 경연대회를 하는 ‘김밥 쿡킹대회’도 연다.&lt;br&gt;&lt;br&gt;김충섭 시장은 “이번 축제가 김천의 새로운 관광자원이 되길 바라며 많은 분이 즐거운 마음으로 소풍 오시길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMWDW36B7BHYHOX6HTCMBAYHUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김천시 김밥축제 홍보 포스터./김천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“입시는 국민과 약속...의대 정원 바뀌면 학부모 줄소송 낼 것”</title>
       <link>https://www.chosun.com/national/education/2024/09/10/DO4EPO2BLFFGHOJZMQLYINGXKM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/09/10/DO4EPO2BLFFGHOJZMQLYINGXKM/</guid>
@@ -866,32 +894,6 @@
       <description/>
       <pubDate>Sun, 08 Sep 2024 15:40:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZW62DYYZAFAVLFQLKOFOPNYO2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2459] 알록달록 단어팔레트</title>
-      <link>https://www.chosun.com/national/nie/2024/09/09/JFRPEFP22VHRRHWCFIAFNCSQJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/09/09/JFRPEFP22VHRRHWCFIAFNCSQJI/</guid>
-      <description/>
-      <pubDate>Sun, 08 Sep 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A4EQB7HBMJAB3BL2L57FLBQTQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 행정안전부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/09/09/QYOEMZMBFRGJDEP4FOISQZ53QE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/09/09/QYOEMZMBFRGJDEP4FOISQZ53QE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Sep 2024 15:36:18 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;행정안전부&lt;/b&gt;◇과장급 전보▷공공서비스통합과장 김경직▷균형발전제도과장 허남석▷사회재난정책과장 배상원▷중앙민방위경보통제센터장 김창호▷국가정보자원관리원 광주센터 운영총괄과장 류정일&lt;br&gt;&lt;br&gt;▲&lt;b&gt;산업통상자원부&lt;/b&gt;◇과장급 전보▷에너지기술과장 서성태▷산업기술시장혁신과장 강규형▷재생에너지보급과장 최광준&lt;br&gt;&lt;br&gt;▲&lt;b&gt;중소벤처기업부&lt;/b&gt;◇과장급 승진▷대외환경대응과장 이호중&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재밌다, 이 책!] 상상 훈련한 펠프스, ‘생각 주간’ 빌 게이츠… 유명인들 노력 살펴보며 진로 고민해 봐요</title>
-      <link>https://www.chosun.com/national/nie/2024/09/09/XBIVVRUTMVCRDFQRXDMXZH2DYA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/09/09/XBIVVRUTMVCRDFQRXDMXZH2DYA/</guid>
-      <dc:creator>김미향 출판평론가·수필가</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Sep 2024 15:36:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BKXMAGOIQRHZTO7QNH6ZZCWUNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;꿈을 찾는 10대를 위한 진로수업&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;정형권 지음 l 출판사 성안당 l 가격 1만7000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;청소년들이 진로를 탐색하고 성찰하는 데 필요한 가이드북이에요. 진로 탐색에 도움이 되는 다양한 사례와 인물들의 이야기가 책에 담겨 있어요. 인물들이 어떤 노력과 경험을 통해 성공했는지 들려주고, 각 장 마지막 부분에 ‘진로 생각 실천 노트’를 배치해 청소년들이 스스로를 이해하고, 미래를 계획할 수 있도록 했어요.&lt;br&gt;&lt;br&gt;책에서 소개하는 인물들의 도전이 진로 설정에 있어 동기 부여가 될 거예요. 피카소, 마이클 펠프스, 조앤 롤링, 스티브 잡스 등 자신의 분야에서 뛰어난 성과를 달성한 인물들의 이야기는 그들이 꿈을 이루기 위해 노력한 과정을 생생하게 전달해요. 성공의 결과만을 보여주는 것이 아니라, 그 과정에서 있었던 고난과 실패를 통해 얻은 교훈과 성취의 의미를 깊이 이해할 수 있도록 하기 위한 구성이죠.&lt;br&gt;&lt;br&gt;마이클 펠프스는 2004년 아테네 올림픽에서 금메달을 획득하면서 세계에 이름을 알렸습니다. 그러나 금메달을 따기까지 그 여정이 순탄하진 않았어요. 그는 어린 시절 ADHD(주의력 결핍 과잉 행동 장애)로 인해 집중력 부족 문제를 겪었습니다. 이를 조금이라도 완화하기 위해 그의 어머니가 그에게 수영을 시킨 거였어요. 펠프스는 어머니의 바람대로 물속에서 집중력을 발휘하기 시작했어요.&lt;br&gt;&lt;br&gt;그는 통산 28개의 올림픽 메달을 획득하고 2016년 리우 올림픽에서 은퇴했는데요. 경기 중에 일어날 수 있는 모든 상황을 수천, 수만 번 떠올리는 상상 훈련을 매일 잠들기 전과 일어난 직후에 반복했다고 해요. 상상 훈련은 수경이 벗겨지는 것과 같은 돌발 상황 등에도 자신이 원하는 결과를 얻는 것으로 끝나게 했어요. 이런 펠프스의 이야기는 꿈을 이루기 위해 ‘내가 자주 연습해야 할 상상 훈련’에는 어떤 것들이 있는지 생각해보게 합니다.&lt;br&gt;&lt;br&gt;한편 저자는 마이크로소프트(MS) 창업자 빌 게이츠가 세계 최고 IT 기업을 만들 수 있었던 건 1년에 두 번씩 별장에 홀로 칩거하며 ‘생각 주간’을 가졌기 때문이라고 말해요. 방해받지 않고 최고의 집중력을 발휘할 수 있는 환경을 조성한 뒤 중요한 일을 연구하고 공부하는 게 필요하다는 거죠.&lt;br&gt;&lt;br&gt;저자는 청소년들이 자신에게 맞는 진로를 찾기 위해 주기적으로 고민하고 점검하는 일이 중요하다고 강조해요. “지금 10대들에게 필요한 것은 영어나 수학을 공부하듯, 자신의 진로를 주기적으로 생각하고 정리해 보는 시간이다. 진로도 하나의 과목처럼 시간을 정해서 정기적으로 점검하고, 고민의 질을 높여 가야 한다”고 말해요. 물론 이렇게 시간을 들여 고민하더라도 진로를 결정하고 꿈을 이뤄나가는 과정은 쉽지 않을 수 있어요. 이 책 속 인물들의 이야기를 읽어보며 나에게 도움이 될 만한 방법들을 한번 찾아보세요.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[신문은 선생님] [무대위 인문학] 순정 만화서 보기 힘든 남자 같은 여주인공 등장했죠</title>
