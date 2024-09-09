@@ -13,6 +13,58 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>막바지로 향하는 이재명 ‘위증교사 재판’...30일 결심 공판 열려</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/09/D2TRSGDWD5DGRF7UEEOCSU4MDY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/09/D2TRSGDWD5DGRF7UEEOCSU4MDY/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Sep 2024 10:05:40 +0000</pubDate>
+      <content:encoded>이재명 더불어민주당 대표의 이른바 ‘위증교사 사건’에 대한 검찰 구형이 오는 30일 이뤄진다. 이 사건 1심 선고는 빠르면 10월 말 ~ 11월 초에 나올 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J2MGEMDLNZI43HY3BKYJFNZCD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 9일 오후 서울 서초구 서울중앙지방법원에서 열린 검사 사칭 사건 위증교사 관련 재판에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 김동현)는 9일 이 대표 재판을 열고 서류 증거에 대한 조사(서증 조사)를 진행한 뒤 “9월 30일에 피고인 신문을 하고 피고인 최후 변론과 검찰 측 구형 의견도 듣겠다”고 했다. 피고인 신문과 결심(結審) 공판을 함께 진행하겠다고 예고한 것이다.&lt;br&gt;&lt;br&gt;위증교사 사건은 2018년 이 대표가 공직선거법 위반 혐의로 기소돼 재판받을 때 증인에게 위증을 요구했다는 내용을 골자로 하고 있다.&lt;br&gt;&lt;br&gt;이 대표는 2002년 최철호 KBS PD와 함께 검사를 사칭해 ‘분당 백궁 파크뷰 의혹’을 취재했다가 벌금 150만원을 확정 받았다.&lt;br&gt;&lt;br&gt;이와 관련해 이 대표는 2018년 경기도지사 선거에 출마했을 때 “PD가 사칭하는데 옆에 있다가 누명을 썼다”고 허위 사실을 말해 재판에 넘겨졌고, 재판 과정에서 김병량 전 성남시장의 비서였던 김진성씨에게 거짓 증언을 요구한 사실이 알려졌다. 이 대표와 김씨는 작년 10월 각각 위증교사 및 위증 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;당시 이 대표는 김씨에게 ‘김 전 시장이 최 PD에 대한 고소를 취하하는 대신 김 전 시장과 KBS간에 이재명을 주범으로 몰기로하는 합의가 있었다’는 내용의 증언을 부탁한 것으로 전해졌다. 이 대표는 혐의를 부인하고 있지만, 김씨는 법정에서 이 대표의 요구에 따라 위증을 했다고 자백한 바 있고, 이 대표가 김씨에게 수차례 전화로 위증을 요청한 내용이 담긴 녹취록을 증거로 제출하기도 했다.&lt;br&gt;&lt;br&gt;이 대표는 지난 대선 이후 ‘7개 사건 11개 혐의’로 총 4개의 재판을 소화 중이다. 이 가운데 이른바 ‘공직선거법 위반 사건’과 위증교사 사건에 대한 1심 선고는 10월 ~ 11월 중으로 나올 것으로 보인다.&lt;br&gt;&lt;br&gt;이 대표는 지난 6일 열린 ‘공직선거법 위반 사건’에선 피고인 신문을 통해 검찰과 직접 공방을 벌였다. 오는 20일 이 사건에 대한 결심 공판이 잡혀 있다.&lt;br&gt;&lt;br&gt;통상 결심 공판 이후 선고까지 한 달가량 소요되는 점을 감안하면 법조계에선 이 대표에 대한 공직선거법 위반 사건 및 위증교사 사건 1심 선고는 나란히 10월 말 ~ 11월 초에 내려질 것으로 보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공무원에게 식사 대접한 김기웅 서천군수, 선거법 위반 고발</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/09/09/RM5R7EWO2FFD3IQHQOAPZ4HP3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/09/09/RM5R7EWO2FFD3IQHQOAPZ4HP3A/</guid>
+      <dc:creator>서천=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Sep 2024 09:07:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WLTI6G3Y3WKMPATQB6AFW7HAVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김기웅 서천군수.(서천군 제공)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남선거관리위원회는 공무원에게 음식물을 제공하고 본인의 업적을 홍보한 혐의(공직선거법 위반)로 김기웅 서천군수를 대전지검 홍성지청에 고발했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;김 군수는 지난 2022년 12월 중순과 올해 1월 초에 본인의 배우자인 B씨가 운영하는 식당에서 군청 소속 공무원과 모 회사 직원 등 90여명에게 총 180만원 상당의 음식물을 제공한 혐의를 받는다.&lt;br&gt;&lt;br&gt;또 김 군수는 소속 공무원 C씨와 공모해 지난 3월 10차례에 걸쳐 군청 공무원 80여명을 업무시간 외에 본인 소유의 일명 ‘통나무집’에 모이게 한 뒤 주류·과일을 제공하면서 자신의 업적이 담긴 홍보 영상을 보여줬다.&lt;br&gt;&lt;br&gt;김 군수는 지난 5월 중순쯤 타 지역의 골프장을 할인된 금액으로 이용하게 하는 방법으로 소속 공무원 7명에게 8만원씩 총 56만원 상당의 이익을 제공한 혐의도 받는다.&lt;br&gt;&lt;br&gt;선관위는 김 군수의 배우자 B씨와 소속 공무원 C씨도 이날 함께 공직선거법 위반 혐의로 고발했다.&lt;br&gt;&lt;br&gt;공직선거법에 따르면 공무원은 소속 직원 또는 선거구민에게 후보자의 업적을 홍보하는 행위를 할 수 없다. 후보자를 위해 선거구 안에 있는 사람, 기관·단체 등에 기부행위를 하는 것도 금지된다.&lt;br&gt;&lt;br&gt;선관위 관계자는 “제9회 동시 지방선거가 다가올수록 유사한 위법행위가 발생할 게 예상된다”면서 “올바른 선거문화 정착을 위해 선거법 위반 행위에 대한 신고 및 제보가 접수되면 적극 조사하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/WLTI6G3Y3WKMPATQB6AFW7HAVM.jpg?width=4592&amp;height=3062&amp;auth=fcd9406ede70a0ed747989cdbe9feb796565e9685abd7e7150382a7e18235446&amp;smart=true" type="image/jpeg" height="3062" width="4592">
+        <media:description type="plain">김기웅 서천군수.(서천군 제공)/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“여친 회사에 현금 많대”… 아들 말에 사무실 턴 50대 아버지  </title>
+      <link>https://www.chosun.com/national/court_law/2024/09/09/RWDQFNP2EBENLAF6GOTIUXE2FA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/09/RWDQFNP2EBENLAF6GOTIUXE2FA/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Sep 2024 08:39:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6ANHMFYIBRDMBOSJAAJBJ7WM34.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아들 여자친구가 다니는 회사 사장이 사무실에 돈을 보관한다는 말을 전해 듣고 사무실 금고를 턴 50대 남성이 실형을 선고받았다.&lt;br&gt;&lt;br&gt;창원지법 형사6단독 서진원 판사는 특정범죄가중처벌등에관한법률위반(절도) 등 혐의로 기소된 A(58)씨에게 징역 3년 6개월을 선고했다고 9일 밝혔다. 또 A씨와 범행을 공모한 B(61)씨는 징역 1년을 선고했다.&lt;br&gt;&lt;br&gt;A씨에게 금고 위치 등을 알려준 혐의(절도 방조)로 재판에 넘겨진 A씨 아들 C(37)씨에게는 징역 6개월에 집행유예 1년을 선고했다. 사회봉사 80시간도 함께 명령했다.&lt;br&gt;&lt;br&gt;A와 B씨는 지난 6월 경남 창원시의 한 회사 사무실에 몰래 들어가 이곳에 있던 금고를 부수고 현금 3750만원과 상품권 1390만원 등 총 5140만원 상당의 금품을 훔쳐 달아난 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;A씨는 작년 아들 C씨로부터 “여자친구가 다니는 회사 사장이 사무실 금고에 돈을 보관한다”는 말을 들었다. 그는 올해 초 도박으로 가진 돈을 모두 잃게 되자 40년지기인 B씨에게 “좋은 소스가 있다”며 범행 공모를 제안했다.&lt;br&gt;&lt;br&gt;C씨는 범행에 앞서 A씨를 여자친구가 다니는 회사로 데려가 사장실 위치와 방범카메라 위치 등을 알려준 것으로 조사됐다. 범행 뒤에는 아버지 A씨로부터 절도 피해금인 것을 알면서도 현금 1000만원을 받아 챙겼다.&lt;br&gt;&lt;br&gt;A씨는 이렇게 훔친 돈을 다시 도박에 사용해 탕진한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 여러 차례 절도 범죄로 기소돼 장기간 실형을 산 상습 절도범으로 드러났다. 특히 A씨는 작년 2월 출소해 누범기간에 다시 범행을 저질렀다.&lt;br&gt;&lt;br&gt;서 판사는 “피해액이 적지 않고 A씨와 B씨가 과거 여러 차례 절도 범죄로 처벌을 받았음에도 이 사건 범행을 저질렀다”며 “현금 배상이 전혀 이뤄지지 않았고 피해자로부터 용서받지 못한 점, B는 실질적으로 취득한 이익이 170만원 정도인 점, C는 A의 계속된 요청으로 절도 방조 범행에 이르게 된 점 등을 고려해 각각의 형을 정했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세]  9월 10일 화요일 (음력 8월 8일 丁丑)</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/09/ALDXUOPXTRARBOCDGF6CGZ2LVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/09/ALDXUOPXTRARBOCDGF6CGZ2LVQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Sep 2024 09:00:00 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	 36년생 세상에 길은 하나만 있는 게 아니다. 48년생 기회는 준비된 사람에게만 찾아온다. 60년생 큰 노고가 아니어도 목표 달성은 무난할 듯. 72년생 주변의 문제 제기에 당황 말고 차분히 대처. 84년생 출구 없는 터널은 없다. 96년생 말하지 않는 것도 말이다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	 37년생 가까운 사람과의 다툼을 주의. 49년생 명분을 얻었다면 실리는 포기해야. 61년생 지나친 소유욕과 집착은 화를 자초. 73년생 구설 시비 아니면 안전사고에 주의. 85년생 지금 눈앞에 있는 사람이 가장 중요한 사람. 97년생 오늘에 안주 말고 내일을 준비하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	 38년생 원칙과 절차를 무시하면 후회막급. 50년생 아무리 궁해도 까치밥은 남겨 둬야. 62년생 다음을 위해 만반의 대비 필요. 74년생 함께 할 것과 혼자 할 것을 구분하라. 86년생 귀중품 분실이 염려되니 사전에 방비. 98년생 뱀띠와의 거래는 주의.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	 27년생 평범하고 무료하게 시간을 쓸지 마라. 39년생 실수는 깨끗이 인정하라. 51년생 낙담하기에는 너무 이르다. 63년생 건강관리는 음식 조절로부터 비롯. 75년생 마음은 가벼운데 몸은 천근만근. 87년생 주변 상황에 일일이 대응하지 마라. 99년생 손에 쥐여줘도 모르면 어쩔 수 있나.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	 28년생 안심하기에는 아직 이른 듯. 40년생 비교하지 않으면 행복이 저절로. 52년생 횡재수 아니면 슬하에 경사. 64년생 기존 앓던 질환에 합병증을 주의. 76년생 활동에 비해 소득은 별로. 88년생 여럿이 함께할 방법을 찾아보도록. 00년생 기대했던 것 이상으로 딱 맞아떨어질 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	 29년생 현실이 생각과 부합되지 않는구나. 41년생 아니다 싶으면 지금 당장 돌아서라. 53년생 고름 둔들 살 될까. 65년생 일이 되려니 쉽게도 되는구나. 77년생 뜻밖에 새로운 도전이 시작될 수도. 89년생 김 안 나는 숭늉이 더 뜨거운 법. 01년생 재산상의 득실을 꼼꼼하게 따져봐야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	 30년생 지병 있다면 재발과 악화를 주의. 42년생 지금 당장 결실 보려 마라. 54년생 나를 향한 불평불만이 제기될 수도. 66년생 아량으로 아랫사람을 포용하라. 78년생 자존심 때문에 적을 만들면 나만 손해. 90년생 시기 질투는 시기 질투를 부른다. 02년생 매듭은 풀고 넘어가야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	 31년생 건강은 절대 자신하는 것 아니다. 43년생 자신을 낮추고 겸손 또 겸손하라. 55년생 소득만큼의 소비 지출이 생길 듯. 67년생 강태공 세월 낚듯 기다려야. 79년생 윗사람과 아랫사람 사이에 진퇴양난. 91년생 상대에 따라 술맛도 달고 쓰나. 03년생 바른말하고 미움 받을 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	 32년생 토끼띠와의 거래는 손실 초래. 44년생 신장 방광 계통 질환을 주의. 56년생 근심이 점차 사라지니 웃음이 절로 난다. 68년생 기회는 준비된 사람에게 온다. 80년생 예감과 꿈이 잘 맞는 하루. 92년생 점차 해결책이 보이는구나. 04년생 외형과 겉꾸미기에 신경 쓰도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	 33년생 아는 게 병, 모르는 게 약. 45년생 날카로운 지식보다 지혜의 갑옷이 필요. 57년생 이른 충만은 그릇이 작다는 방증. 69년생 자력이 안 되면 타력이라도 빌려야. 81년생 서기(瑞氣)가 남쪽에서 비춘다. 93년생 주거의 안정이 실현되는 시기.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	 34년생 통제할 수 없는 것이 있다. 46년생 꿈이 있는 사람은 늙지 않는다. 58년생 하늘이 사람을 낼 때 재복도 같이 낸다. 70년생 환희의 크고 작고에 따라 고뇌도 비례. 82년생 함께 나눈다 생각해야 편안. 94년생 한 우물만 파다 보면 물 난다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	 35년생 당당하고 대범하게 처신하라. 47년생 물러날 때를 아는 것이 지혜. 59년생 소띠와는 차량 동승을 가급적 피하도록. 71년생 고생은 많고 실속은 적고. 83년생 당장 해야 할 일부터 하라. 95년생 뛰는 사람 위에 나는 사람 있음을 명심.	&lt;br&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] ‘디올백 전달’ 최재영 목사 사건도 수사심의위서 논의</title>
       <link>https://www.chosun.com/national/court_law/2024/09/09/NIOH435ASNCDZBVLCXWDJYU34E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/09/NIOH435ASNCDZBVLCXWDJYU34E/</guid>
@@ -829,15 +881,6 @@
       </media:content>
     </item>
     <item>
-      <title>처벌 피하려 귀국 미룬 사업가… 대법 “공소시효 정지해야”</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/08/MJ7ZZWR4CRFUXGTY53KHDC7G6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/08/MJ7ZZWR4CRFUXGTY53KHDC7G6Q/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Sep 2024 04:58:44 +0000</pubDate>
-      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PJYVYGBHFHL4UZTJOQNT5KQEDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해외 거주자가 국내법을 어겨 처벌받을 것을 알면서도 특별한 이유 없이 귀국하지 않는 경우 공소시효가 정지돼 추후 기소할 수 있다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;8일 법조계에 따르면, 대법원 1부(주심 노태악 대법관)는 국제조세조정법 위반 혐의로 기소된 A씨에게 벌금 12억5000만원을 선고한 원심 판결을 지난 7월 31일 확정했다.&lt;br&gt;&lt;br&gt;중국 홍콩으로 이주한 사업가 A씨는 2016년 스위스 계좌에 220억원가량을 외화로 보유하면서도 관할 세무서에 신고하지 않은 혐의로 2022년 8월 기소됐다. 국제조세조정법은 매달 말일 기준 해외금융 계좌에 10억원 이상을 보유한 경우, 이듬해 6월 중 관할 세무서에 신고하도록 규정하고 있다.&lt;br&gt;&lt;br&gt;서울지방국세청은 2022년 5월 세무조사를 진행하며 6월 A씨 세무대리인을 통해 20억원의 과태료를 부과하겠다고 사전 통지했다. 당초 A씨의 공소시효(5년)는 2022년 7월 1일까지였다. 하지만 앞서 A씨는 같은 해 4월 국내에서 홍콩으로 출국한 이후 귀국하지 않았다. 그는 국제조세조정법 위반 사건 공소시효가 지난 그해 7월 28일에 귀국했다.&lt;br&gt;&lt;br&gt;A씨는 “신고 안 한 잘못을 인정한다”면서도 공소시효가 지나 처벌 대상이 아니라고 했다. 홍콩에서 생활해 법 위반이나 공소시효를 알지 못한 채 해외에 있었다는 것이다. 반면 검찰은 ‘범인이 형사처분을 면할 목적으로 국외에 있는 경우 그 기간 공소시효는 정지된다’는 형사소송법 조항을 근거로 공소시효가 지나지 않았다고 했다.&lt;br&gt;&lt;br&gt;1, 2심 법원은 공소시효가 지나지 않았다고 봤다. 2심은 “A씨가 적어도 과태료 통지를 받은 6월부터 귀국할 때까지는 처벌을 면할 목적으로 해외에 체류했다고 봐야 한다”면서 “이 기간 공소시효는 정지돼야 한다”고 밝혔다. 국내에서 범죄를 저지르고 해외로 도피하거나, 처벌을 회피하기 위해 해외에 계속 체류하는 경우 공소시효를 정지해야 한다는 기존 대법원 판례를 따른 것이다.&lt;br&gt;&lt;br&gt;1심은 벌금 25억원을 선고했지만, 2심은 A씨가 반성하며 종합소득세 등을 성실히 냈다는 점 등을 고려해 벌금 12억5000만원을 선고했다. 대법원은 원심 판단이 맞는다고 판결했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김포공항 일대, 2030년 ‘비행 택시’ 뜨고 내린다</title>
       <link>https://www.chosun.com/national/national_general/2024/09/08/HSA55XQ5AVBHTEN73DOXJVN53Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/08/HSA55XQ5AVBHTEN73DOXJVN53Q/</guid>
@@ -847,15 +890,6 @@
       <content:encoded>2030년에는 서울 강서구 김포공항 일대가 ‘비행 택시’ 등 도심항공교통(UAM) 이착륙장과 첨단 산업 시설을 갖춘 산업 거점으로 탈바꿈할 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZH2NBHLT3VMRBOHDD3J4WRLEXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;UAM 이착륙장 등이 들어설 김포공항 복합환승시설의 조감도. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 강서구 김포공항 일대가 9일 ‘김포공항 혁신지구’로 지정 고시됨에 따라 김포공항 일대 개발을 본격화한다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;서울시에 따르면 김포공항 혁신지구 전체 35만제곱미터(㎡) 땅에 3개 블록이 조성된다.&lt;br&gt;&lt;br&gt;현재 김포공항 국내선 주차장 등이 있는 1블록에는 UAM 이착륙장을 포함한 복합 환승 시설이 들어선다. UAM 이착륙장은 건물 지상 5~7층에 조성된다. 건물 지하 2층~지상 1층에는 택시·지하철·간선급행버스(S-BRT) 등을 탈 수 있는 대중교통 환승 시설도 지어진다. 대중교통 환승시설과 UAM 이착륙장은 전용 엘리베이터로 연결된다. 2030년 완공 예정이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “상업 문화 시설, 국제 회의장, 호텔 등도 들어설 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;현재 급수펌프장 등이 있는 2블록에는 항공 업무·교육 시설이, 화물 창고 등이 있는 3블록에는 첨단 산업 시설이 조성된다. 특히 3블록에는 모빌리티 등 첨단 산업 클러스터 등을 설치해 관련 사업체를 유치하고, 오피스텔과 공공시설이 지어진다.&lt;br&gt;&lt;br&gt;서울시는 첨단 산업 클러스터 조성에 따른 개발 이익을 공공시설 등 확충에 사용할 예정이다. 이외에도 김포공항 인근 주민에게 주변 상가와 오피스텔 임대료를 할인해주고, 공영주차장 이용료 할인 혜택 등도 제공한다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “혁신지구 입주사에 지역 주민을 우선 채용하는 방안도 계획 중”이라고 말했다.&lt;br&gt;&lt;br&gt;서울시는 내년까지 혁신지구 기본 계획 수립을 마치고, 2027년까지 사업 시행 계획 인가를 받아 순차적으로 착공에 들어갈 계획이다. 총 사업비 2조9640억원을 투입한다.&lt;br&gt;&lt;br&gt;김승원 서울시 균형발전본부장은 “김포공항 일대가 미래 교통 허브이자 첨단 산업 중심의 도시로 재탄생할 수 있도록 사업을 추진해 나가겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>아파트 외벽 페인트 작업하던 50대 15층 높이에서 추락</title>
-      <link>https://www.chosun.com/national/incident/2024/09/08/HO6SHNXZMJFZBEKQEC6YMKQZKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/08/HO6SHNXZMJFZBEKQEC6YMKQZKI/</guid>
-      <dc:creator>횡성=정성원 기자</dc:creator>
-      <description>8일 오전 7시 57분쯤 강원 횡성군 횡성읍 읍하리 한 아파트에서 외벽 페인트 작업을 하던 A(53)씨가 15층 높이에서 추락하는 사고가 발생했다.</description>
-      <pubDate>Sun, 08 Sep 2024 05:05:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZBX2IPPQYNBZTMDVB6GKWNTCPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 강원 횡성군 횡성읍 한 아파트에서 외벽 페인트 작업을 하던 50대 작업자가 추락하는 사고가 발생, 119구급대원들이 심폐소생술을 하고 있다. /강원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 오전 7시 57분쯤 강원 횡성군 횡성읍 읍하리 한 아파트에서 외벽 페인트 작업을 하던 A(53)씨가 15층 높이에서 추락하는 사고가 발생했다. A씨는 심정지 상태로 인근 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 아파트 외벽 페인트 작업을 하던 중 고정용 로프가 끊어지면서 사고가 난 것으로 보고 목격자 등을 상대로 정확한 사고 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>외국인에 바가지 씌우고 “팁 받았다”한 택시기사, 자격 취소</title>
       <link>https://www.chosun.com/national/court_law/2024/09/08/TUOSBNUIFRBA5BJIC22Z6ULW6M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/08/TUOSBNUIFRBA5BJIC22Z6ULW6M/</guid>
@@ -863,28 +897,6 @@
       <description/>
       <pubDate>Sun, 08 Sep 2024 03:40:33 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7SU7KLLGW3WHCGDH4OAJ5NTP6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국 법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외국인 손님에게 상습적으로 바가지요금을 받으면서 ‘팁(tip·봉사료)’이라고 주장한 택시 기사에게 택시 운전 자격을 취소한 처분이 정당하다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;8일 법조계에 따르면, 서울행정법원 행정4단독 서경민 판사는 최근 개인택시 기사 A씨가 서울시를 상대로 낸 택시 운전 자격 취소 처분에 대한 취소 소송에서 원고 패소 판결을 내렸다.&lt;br&gt;&lt;br&gt;A씨는 2022년 4월과 8월, 작년 2월 총 세 차례 외국인 손님들로부터 부당요금을 받았다가 적발됐다. A씨는 3차 적발 때인 작년 2월에는 서울에서 인천국제공항까지 태국 승객 2명을 태우면서 요금을 부풀린 것으로 조사됐다. 택시 미터기에 찍힌 요금은 5만5700원이었는데, A씨는 톨게이트비 6600원을 포함해 총 7만 2000원을 현금으로 받았다. 실제 요금보다 9700원을 더 받은 것이다.&lt;br&gt;&lt;br&gt;1차 적발 때 경고, 2차 적발 때 자격정지 30일을 받은 A씨는 세 번째 적발로 택시 운전 자격이 취소됐다. 택시발전법과 시행령에 따라 부당요금 징수가 세 번 적발되면 자격이 취소된다.&lt;br&gt;&lt;br&gt;이에 A씨는 서울시의 자격 취소 처분이 부당하다며 소송을 냈다. A씨는 승객들에게 추가로 받은 돈은 캐리어를 싣고 내려준 점 등에 대한 팁이라고 주장했다.&lt;br&gt;&lt;br&gt;하지만 서 판사는 “승객들이 팁을 주겠다는 의사를 표현했다고 볼 수 없다”며 A씨의 주장을 받아들이지 않았다. 서울시 조사에서 해당 태국 승객이 ‘A씨에게 팁을 준 것이 아니다’ ‘공항에 거의 도착했을 때 5만원대였는데, A씨가 미터기를 눌러서 7만 2000원이 됐고 이를 요구했다’고 진술한 점 등이 근거가 됐다.&lt;br&gt;&lt;br&gt;서 판사는 이어 “A씨는 1년이 채 되지 않는 기간 동안 세 차례에 걸쳐 외국인에게 부당요금을 받아 적발됐다”면서 “택시비 부당 징수를 규제해 외국인 방문객의 교통 편의에 이바지하고, 사회 신뢰를 증진하고자 하는 택시 자격 취소 처분의 공익이 A씨의 불이익보다 작지 않다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>샤워하는 여성 불법 촬영한 20대 항소심 감형…이유는?</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/08/ILH4JPBR25DFPAMKUMZ2QWJM2M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/08/ILH4JPBR25DFPAMKUMZ2QWJM2M/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>원룸 욕실 창문으로 샤워하던 여성을 불법 촬영한 20대가 항소심에서 감형을 받았다. 수사 기관에 자수한 점과 피해자와 합의한 점 등이 양형에 참작됐기 때문이다.춘천지법 형사1부(재판장 심현근)는 성폭력처벌법상 카메라 등 이용 촬영 혐의로 기소된 A(25)씨에게 징역 1년에 집행유예 2년을 선고한 원심을 깨고, 벌금 800만원을 선고했다고 8일 밝혔다.</description>
-      <pubDate>Sun, 08 Sep 2024 02:44:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/24UPWP5OARX56LWFKEPUAFKDZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;욕실에서 샤워하던 여성을 불법 촬영한 20대가 항소심에서 감형을 받았다. 수사 기관에 자수한 점과 피해자와 합의한 점 등이 양형에 참작됐기 때문이다.&lt;br&gt;&lt;br&gt;춘천지법 형사1부(재판장 심현근)는 성폭력처벌법상 카메라 등 이용 촬영 혐의로 기소된 A(25)씨에게 징역 1년에 집행유예 2년을 선고한 원심을 깨고, 벌금 800만원을 선고했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 7월 17일 강원 춘천시 한 원룸의 욕실 창문을 열고 휴대전화로 샤워하던 20대 B씨를 불법 촬영한 혐의다.&lt;br&gt;&lt;br&gt;앞서 1심 법원은 “범행 경위와 방법 등에 비춰볼 때 피고인의 죄책이 가볍지 않다”며 집행유예를 선고했다. 하지만 A씨는 “원심의 형이 무겁다”며 항소했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피고인은 범죄 경력이 없는 초범이고, 수사기관에 이 사건 범행을 자수했다”면서 “피해자 역시 피고인에 대한 처벌을 원하지 않는다는 의사를 표시한 점을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고공행진 물가에…학식으로 끼니 채우는 대학생들</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/08/EGSTOMVVXVCEVPSHQXGASHV4WY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/08/EGSTOMVVXVCEVPSHQXGASHV4WY/</guid>
-      <dc:creator>안준현 기자, 김나연 인턴기자(서울대 언론정보학 졸업)</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Sep 2024 02:45:38 +0000</pubDate>
-      <content:encoded>지난달 20일 세종대 학생회관 1층 식당. 정오가 지난 시점 학생들과 외부인들이 학식을 먹기 위해 줄을 서고 있었다. 식당 안에는 메뉴가 나왔다는 알림음이 계속 울렸다. 30분이 지난 시점이지만 벌써 300개가 넘는 메뉴가 팔렸다. 방학 기간인데도 불구하고 학생 식당은 빈 자리를 찾아보기 어려웠다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y4N6ITNXLVJHBFIB3HXIRP5PMU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울대학교 학생들이 19일 오전 서울 관악구 서울대 학생회관 내 구내식당에서 '천원의 식사' 배식을 받고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이처럼 고공행진 중인 외식 물가로 인해 대학생들이 외부 식당 대신 학생 식당을 찾는 비율이 올라가고 있다. 외식 물가는 37개월 째 치솟고 있다. 통계청에 따르면, 전년 동월 대비 지난달 외식물가 상승률은 3%로 전체 소비자 물가 상승률인 2.4%를 웃돌고 있다. 외식 물가 상승률이 소비자 물가 상승률보다 높은 현상은 2021년 6월부터 3년째 이어지는 중이다.&lt;br&gt;&lt;br&gt;심지어 방학 기간인 와중에도 학생식당을 찾는 비율이 늘고 있는 추세다. 전문가들은 “외식 물가가 비싸지다보니 지갑 사정이 좋지 않은 대학생들이 저렴한 학식으로 눈길을 돌리는 현상”이라고 분석했다.&lt;br&gt;&lt;br&gt;기존 3000원~6000원에서 4000~7000원으로 가격을 올린 뒤 학생들의 반발을 샀던 서울대 학생식당도 방학이지만 학식을 먹으러 온 학생들이 많았다. 서울대는 2023년 7월과 2024년 7월 학식 매출을 비교했을 때 4만9232건에서 5만1601건으로 4.8% 늘었다.&lt;br&gt;&lt;br&gt;서울대 기계공학부에 재학 중인 정석호(24)씨는 “방학에도 주 10회 정도 학식을 먹는다”며 “아침은 굶고 점심·저녁은 모두 학생식당에서 해결한다” 했다. 이어 “비싼 메뉴는 6500원까지도 하지만 양질의 음식이니 괜찮다. 밖에선 영양가 적은 메뉴도 8000원이 넘는 경우가 많기 때문”이라고 했다. 다른 학생은 “밖에서 사먹는 것과 달리 학교 측에서 메뉴를 선정해 영양분이 풍부해 학식을 즐겨 찾는다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/53WEX4AFXBNL7GL3R6C2CQMXAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 한 먹거리 골목. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세종대 학생회관은 작년에 비해 올해 일 평균 방문 수 눈에 띄게 늘었다. 7월 판매량은 전년 동월 대비 73% 증가했다. 해당 학생식당 업체 관계자는 “밖에선 워낙 비싸다 보니 밖에서 한 그릇 먹을 돈이면 여기서 두 그릇은 먹을 수 있다”고 했다. 실제로 이 식당의 인기 메뉴로 꼽히는 제육덮밥은 4500원, 육회비빔밥은 5500원에 판매 중이다. 세종대생들은 “밥은 먹어야 하고, 굶을 수는 없는데 선택지가 별로 없다”며 “저렴한 패스트푸드인 햄버거도 요즘은 세트로 먹으면 8000원은 줘야 하니 가능하면 학생 식당에서 먹는다”고 했다.&lt;br&gt;&lt;br&gt;학기 중에도 학생 식당을 찾는 비율은 올라가는 추세다. 경북대는 학생들 학식 이용률이 지난 1학기 기준 1년 전 대비 10~15%, 월 평균으로는 1250~1300명 늘었다. 교직원도 1100명 늘었다고 한다. 경북대 관계자는 “지난해 5500원에서 6000원으로 500원 늘렸는데도 인기가 상당하다”고 밝혔다. 경북대 로스쿨에 재학 중인 이모(25)씨는 “등록금도 비싼데 식비라도 아껴야 하나 싶어 자주 학식을 먹는다”며 “점심으로 학식을 배부르게 먹으면 저녁까지 거를 때도 있다”고 했다.&lt;br&gt;&lt;br&gt;정부가 경제 사정이 어려운 대학생을 위해 운영 중인 ‘1000원의 아침밥’도 인기다. 고려대는 “올해 1학기에 운영했던 1000원의 아침밥이 2023년 6만121명에서 올해 9만865명으로 51.1% 증가했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/Y4N6ITNXLVJHBFIB3HXIRP5PMU.JPG?width=4722&amp;height=3438&amp;auth=390cbefc15e65287c61969060b451ce0245687d19f2da33545db818a6b6c5ba5&amp;smart=true" type="image/jpeg" height="3438" width="4722">
-        <media:description type="plain">(서울=뉴스1) 김진환 기자 = 서울대학교 학생들이 19일 오전 서울 관악구 서울대 학생회관 내 구내식당에서 '천원의 식사' 배식을 받고 있다. 2023.9.19/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 김진환 기자</media:credit>
-      </media:content>
     </item>
     <item>
       <title>[판읽기]임기 끝난 文 이사 생명연장? 방통위는 전쟁 중</title>
