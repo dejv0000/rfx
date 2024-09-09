@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>법무법인 YK, ‘기업·경제범죄 전문’ 나찬기 전 천안지청장 영입</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/201250.jpg" alt="201250.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.yklawfirm.co.kr/" target="_blank"&gt;&lt;b&gt;법무법인 YK&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="19296"&gt;강경훈&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="19307"&gt;김범한&lt;/span&gt;)는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1570"&gt;나찬기&lt;/span&gt;(57·사법연수원 28기) 전 대전지검 천안지청장을 신임 대표변호사로 선임했다.&lt;br /&gt;&lt;br /&gt;나 대표변호사는 1996년 제38회 사법시험에 합격해 1999년 창원지검 검사로 임관했다. 이후 2010년부터 서울중앙지검 부부장검사(공정거래위원회 법무보좌관 파견근무), 부산지검 외사부장, 대구지검 의성지청장, 법무부 법질서선진화과장, 대검찰청 감찰2과 과장, 서울중앙지검 조사1부 부장검사(조사2부 부장검사 겸직), 대전지검 형사1부 부장검사 등을 역임했다.&lt;br /&gt;&lt;br /&gt;2019년 8월부터 2020년 2월까지 대전지검 천안지청장으로 재직했으며, 이후 법무법인 인월에서 변호사 생활을 시작했다. 검사 재직 중이던 2012년 카이스트에서 지식재산권 관련 석사학위를 취득하기도 했다. &lt;br /&gt;&lt;br /&gt;나 대표변호사는 검사 시절 △전자기업 사주 배임 사건 △중앙회 이사장 배임 사건 △당비 대납 사건 △조선회사 배임 사건 △방위산업 비리 사건 △노조 불법파업 사건 △배우 이정재 배임 의혹 사건 등 굵직한 기업 관련 사건을 수사했다.&lt;br /&gt;&lt;br /&gt;변호사로서도 △채용비리 사건 △코인거래소 대표 사기 사건 △대학교 총장 사학비리 사건 △인수합병 관련 배임 사건 △제3자 뇌물 수수 등 경영 비리 사건 △건설업체의 공정거래법 위반 사건 △기술 유출 사건 등 다양한 사건을 변론해왔다.&lt;br /&gt;&lt;br /&gt;나 대표변호사는 “검찰에서 20년 이상 다양한 사건을 처리한 경험이 일반 시민들에게도 보편적으로 제공돼야 한다는 것이 변호사로서의 소신이다. YK에 합류하면서 더 많은 의뢰인에게 도움을 줄 수 있는 좋은 기회를 얻게 됐다”며 “합리적인 비용으로 전문적이고 수준 높은 법률 서비스를 제공하기 위해 최선을 다하겠다”고 말했다.</description>
+			<pubDate>Mon, 09 Sep 2024 06:10:38 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201250</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201250</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201250.jpg</media:thumbnail>
+			<dc:creator>유지인 기자</dc:creator>
+		</item>
+		<item>
+			<title>변협, 권순일 전 대법관 징계 여부 최종 판결까지 보류</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/201249.jpg" alt="200489.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&amp;nbsp;&lt;p&gt;대한변호사협회(협회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2700"&gt;김영훈&lt;/span&gt;, '변협')는 변호사법 위반 혐의로 재판에 넘겨진&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3924"&gt;권순일&amp;nbsp;&lt;/span&gt;전 대법관에 대한 징계 여부를 최종 확정 판결이 나올 때까지 보류한다. &lt;br /&gt;&lt;br /&gt;9일 법조에 따르면 변협 징계위원회(징계위)는 지난달 26일 정례회의를 열어 이같이 결정했다.&lt;br /&gt;&lt;br /&gt;변호사 징계 규칙에 따르면 징계위는 징계 대상자에 대해 공소가 제기된 경우 해당 사건이 확정될 때까지 심의 절차를 정지해야 한다. &lt;br /&gt;&lt;br /&gt;징계위는 권 전 대법관이 무죄 판결을 받을 가능성도 있는 만큼 사법 절차가 끝날 때까지 징계를 미루는 것이 적합하다고 결론 내린 것으로 전해졌다. &lt;br /&gt;&lt;br /&gt;앞서 검찰은 지난달 7일 권 전 대법관을 변호사법 위반 혐의로 불구속 기소한 후 변협에 징계 개시를 신청했고, 변협은 같은 달 12일 권 전 대법관에 대해 '제명' 의견으로 징계 개시를 청구했다. &lt;br /&gt;&lt;br /&gt;권 전 대법관은 2021년 1월부터 8월까지 변호사로 등록하지 않고 부동산 개발사업 시행업체인 화천대유자산관리의 민사소송 상고심, 행정소송 1심의 재판 상황 분석, 법률문서 작성, 대응 법리 제공 등의 변호사 직무를 수행한 혐의를 받는다.&lt;/p&gt;</description>
+			<pubDate>Mon, 09 Sep 2024 06:07:02 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201249</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201249</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201249.jpg</media:thumbnail>
+			<dc:creator>유지인 기자</dc:creator>
+		</item>
+		<item>
 			<title> 플랫폼법정책학회, '플랫폼 특성과 규제 동향' 세미나 개최</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/201237.jpg" alt="201237.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;사단법인 플랫폼법정책학회(회장 이봉의·이하 플랫폼학회)가 플랫폼 자율규제와 마이데이터 사업·문화콘텐츠 공정유통 관련 논의를 살펴보는 학술대회를 연다.&lt;br /&gt;&lt;br /&gt;플랫폼학회는 오는 26일 서울 중구 세종대로 대한상공회의소에서 '플랫폼의 특성과 플랫폼 규제의 새로운 동향' 추계학술대회를 개최한다고 9일 밝혔다. 플랫폼학회는 플랫폼과 인공지능(AI), 데이터 등 디지털 경제에서 파생되는 다양한 법과 정책 이슈를 심도 있게 분석하고, 우리나라에 맞는 바람직한 법제도 마련에 기여하려는 취지로 지난 4월 창립된 학회다. 초대 회장은 이봉의 서울대 로스쿨 교수가 맡았다.&lt;br /&gt;&lt;br /&gt;이 회장은 "이번 학술대회는 플랫폼에 대한 전반적인 정책 방향을 모색하면서, 현 정부가 내걸었던 자율규제 관련 논의를 살펴보고 마이데이터 사업과 문화 콘텐츠 공정유통 관련 주제를 다룰 예정"이라고 전했다.&lt;br /&gt;&lt;br /&gt;첫 번째 세션은 주진열 부산대 로스쿨 교수가 좌장을 맡았다. 먼저 강형구 한양대 경영대학 교수가 플랫폼의 전반적 특성과 정책을 발표한다. 이어 황용석 건국대 미디어커뮤니케이션학과 교수가 '디지털 플랫폼 자율규제의 안착을 위한 한국형 거버넌스의 탐색'을 주제로 발표한다. 황성기 한양대 로스쿨 교수와 안정민 한림대 글로벌융합대학 교수가 토론한다.&lt;br /&gt;&lt;br /&gt;두 번째 세션에서는 이인호 중앙대 로스쿨 교수가 좌장을 맡았다. 이수경(49·사법연수원 36기) 법무법인 화우 변호사가 '개인정보보호법령상 마이데이터 관련 정책 추진 동향'을 주제로 발표한다. 토론자로는 이재훈 성신여대 법학과 교수와 심성재 개인정보보호위원회 전략기획팀 과장이 나선다.&lt;br /&gt;&lt;br /&gt;이어 최난설헌 연세대 로스쿨 교수가 '문화산업공정유통법(안)의 의의와 법리적 검토'를 발표한다. 이승민(47·36기) 성균관대 로스쿨 교수, 노동환 콘텐츠웨이브 정책협력 리더, 손상민 한국만화가협회 이사가 토론한다.&lt;br /&gt;</description>
 			<pubDate>Mon, 09 Sep 2024 02:46:52 -0000</pubDate>
@@ -221,26 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201214</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201214.jpg</media:thumbnail>
 			<dc:creator>유지인 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 민후, 네플라, 까리용 3사, 법률마케팅 AI 개발 및 확산을 위한 MOU 체결</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/201213.jpg" alt="201213.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.minwho.kr/main/main.html" target="_blank"&gt;&lt;b&gt;법무법인 민후&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14215"&gt;김경환&lt;/span&gt;), 네플라(대표 최주선), 까리용(대표 오경원)은 6일 변호사들의 법률 마케팅을 보조하는 인공지능(AI) 솔루션의 공동 개발 및 확산을 위해 업무협약을 체결했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;네플라는 키워드 광고와 블로그 등 경쟁형 마케팅의 부작용을 경험한 변호사들이 이를 극복하려고 창업한 리걸테크 기업이다. 까리용은 카이스트 출신 연구진이 모여 설립한 기업으로, 리걸 리서치 서비스 '리걸엔진' (LegalEngine)을 개발하고 서비스한다.&lt;br /&gt;&lt;br /&gt;세 회사는 이번 협약으로 법률 마케팅 분야에서 각 회사의 전문 지식과 자원을 효율적으로 활용해 AI 기술의 공동 개발을 진행할 방침이다. 민후의 법률 전문성, 네플라의 데이터 처리 능력, 그리고 까리용의 AI기술 개발 능력을 결합해, 법률 분야의 고객 맞춤형 마케팅 서비스 제공에 큰 변화를 주는 게 목적이다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="30539"&gt;원준성&lt;/span&gt;(41·사법연수원 47기) 민후 대표변호사는 "이번 협력은 고객 만족도를 올리고 변호사들의 법률 마케팅 부문에서의 디지털 전환을 한 단계 끌어올리는 중요한 발판이 될 것"이라고 밝혔다.</description>
-			<pubDate>Fri, 06 Sep 2024 08:51:28 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201213</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201213</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201213.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>한국공법학회-대법원 헌법·행정법연구회, '행정소송법 개정의 시대적 사명과 과제' 공동학술대회 진행</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/201212.jpg" alt="201212.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;한국공법학회&lt;/b&gt;(회장 김재광)와 &lt;b&gt;대법원 헌법·행정법연구회(&lt;/b&gt;회장 박연욱)는 6일 서울 서초구 서울법원종합청사 청심홀에서 '행정소송법 개정의 시대적 사명과 과제'를 주제로 공동학술대회를 열었다.&lt;p&gt;&lt;br /&gt;이날 기조발제를 맡은 김유환 이화여대 로스쿨 명예교수는 '행정소송 제도 개혁의 쟁점: 입법, 판례, 도그마틱의 조화의 관점에서'라는 주제로 발표했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;김 교수는 "1984년 행정소송법 전부 개정 이후 40년 동안 법 개정 논의가 반복됐으나 사실상 모두 중간에 포기됐다"며 "반면 대법원은 그동안 새로운 판례이론을 계속 만들어 냈고 1996년 행정절차법 제정과 2022년 대폭 개정, 2021년 행정기본법 제정 등을 비롯한 수많은 행정법령의 변화가 있었다"고 말했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이어 "국민의 권리의식 및 행정재판에 대한 기대가 놀랄 만큼 성장한 지금, 발전된 판례이론과 국민의 기대를 담아낼 수 있는 행정소송 제도 개혁을 더 이상 지체할 수 없다"며 "행정소송 제도의 개혁은 행정법 이론체계에 큰 영향을 주지만, 잘못된 개혁은 이론적으로 정당화될 수 없으므로 이론적 도그마틱과도 충분한 조화를 이룰 수 있도록 세심한 주의가 필요하다"고 설명했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;'행정소송의 특수성을 고려한 개정 쟁점'을 주제로 진행된 제1세션에서는 서보국 충남대 로스쿨 교수가 발표하고,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15925"&gt;유제민&lt;/span&gt;(41·사법연수원 37기) 서울고법 고법판사와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="22329"&gt;장윤영&lt;/span&gt;(40·42기) 아주대 로스쿨 교수가 토론했다. 사회는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6672"&gt;정상규&lt;/span&gt;(55·29기) 서울서부지법 부장판사가 맡았다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;'무엇이 행정소송제도 개혁을 가로막는가'를 주제로 하는 제2세션에서는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13939"&gt;이희준&lt;/span&gt;(44·35기) 서울고법 고법판사가 발표했다. 이날 이 고법판사는 "전문법원으로서 행정법원의 지위와 역할을 더욱 강화해야 한다"며 "특히 심리방식에서 민사소송과 구별되는 방식으로 공익과 사익의 균형을 구현할 수 있는 방법론적 전문성을 추구해야 한다"고 강조했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이후&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3611"&gt;김길량&lt;/span&gt;(48·31기) 중앙대 로스쿨 교수와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="19285"&gt;한현희&lt;/span&gt;(40·40기) 판사가 토론했으며, 2세션의 사회는 이기춘 부산대 로스쿨 교수가 맡았다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Fri, 06 Sep 2024 08:41:01 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201212</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201212</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201212.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
