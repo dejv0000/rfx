@@ -13,6 +13,96 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>의대 수시 접수 이틀 만에... 지원자, 정원의 4배</title>
+      <link>https://www.chosun.com/national/education/2024/09/10/Y4BY4IYNNBHABJZR4EQZRS5YPM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/09/10/Y4BY4IYNNBHABJZR4EQZRS5YPM/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Sep 2024 12:44:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6T652LVRY5BT5DYTGMNSTDQQHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의대 수시모집이 시작된 9일 오후 충북대학교 의대 본관 앞에서 충북대 채희복, 강원대 김충효, 고대 박평재 교수 등 3명이 삭발식을 열고 2025년 의대 증원 취소를 촉구하고 있다. 이들은 삭발식을 마치고 충북대 의대 첨단강의실로 이동, 오는 13일 오전 10시까지 24시간 단식 투쟁을 이어간다는 계획이다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의대들이 2025학년도 수시 모집을 진행한 지 이틀 만에 이미 모집 정원보다 4배 많은 지원자가 몰린 것으로 나타났다. 입시 절차가 진행 중인 가운데 의료계는 “2025학년도 의대 증원을 백지화하라”고 주장하며 삭발·단식 투쟁을 벌였다.&lt;br&gt;&lt;br&gt;10일 교육계에 따르면, 전국 의대 39곳 가운데 38곳은 원서 접수를 시작했다. 이 대학들엔 접수 둘째날인 10일까지 모집 정원(3047명)보다 4배 많은 1만3339명의 지원자가 몰렸다. 전국 의대는 9일부터 13일 사이에 대학별로 3일 이상 기간을 두고 수시 모집 원서를 접수한다. 올해 입시에서 의대 정원은 4610명으로 작년보다 1497명 늘었다. 전체 모집 인원 중 67.6%(3118명)를 수시 전형에서 선발한다.&lt;br&gt;&lt;br&gt;교육부는 앞서 첫날 의대 원서 접수 현황을 공개했다. 의료계가 계속 ‘의대 증원을 취소하라’고 주장하자 이미 많은 수험생이 원서를 접수해 백지화가 불가능하다는 점을 강조하기 위한 것으로 보인다.&lt;br&gt;&lt;br&gt;수시 원서 접수 첫날인 9일 일부 의대 교수들은 ‘2025년 의대 증원 취소’를 촉구하며 삭발과 단식 투쟁을 시작했다. 채희복 충북대병원·의대 비상대책위원장과 김충효 강원대 의과대학·강원대병원 교수비대위원장, 박평재 고대의료원 교수비대위원장은 9일 충북대 의대 본관 앞에서 삭발식을 했다. 이들은 “의대 증원과 필수 의료 패키지 정책을 폐기하라”며 “2025년 의대 증원을 취소해야 전공의와 의대생들이 제자리로 돌아오도록 설득할 수 있다”고 했다. 이들은 “단식 투쟁이 끝날 때까지 정부의 대답이 없으면 사직할 수밖에 없다”며 13일까지 충북대에서 단식 투쟁을 이어가겠다고 했다.&lt;br&gt;&lt;br&gt;올해는 의대 신입생 증원으로 의대 지원자도 늘어날 것이라는 관측이다. 지난해 전국 39개 의대가 수시 모집에서 1801명을 뽑았는데, 5만5967명이 몰려 경쟁률 31대1을 기록했다. 올해는 이보다 경쟁률이 더 높아질 수 있다는 관측이다. 임성호 종로학원 대표는 “올해 의대 입시에 재도전하는 ‘N수생’(졸업생) 지원자가 늘어나서 전체 지원자가 작년보다 25% 정도 늘어날 것”이라고 했다. 국내 4년제 대학 협의체인 한국대학교육협의회(대교협)는 10일 “수시 모집이 진행되고 있는 현 상황에서 인원이 변경되면 입시 전체가 큰 혼란에 빠질 것”이라며 “대교협 회원 대학들은 발표된 일정에 따라 입시를 진행하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>쯔양 협박해 2억 뜯어낸 여성들, 구속영장 기각...”증거 이미 확보”</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/10/W4NXP3QQSVDHPPATWQVENVJNQY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/10/W4NXP3QQSVDHPPATWQVENVJNQY/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Sep 2024 12:18:23 +0000</pubDate>
+      <content:encoded>유튜버 쯔양(본명 박정원)을 협박해 2억여원을 뜯어낸 혐의를 받는 여성 2명의 구속 영장이 기각됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLYRLVCCKCVSBTRPZS6WYOBOJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜브 '쯔양'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 김석범 영장전담 부장판사는 폭력행위처벌법 위반(공동공갈) 혐의로 기소된 20대 여성 김모씨와 30대 여성 송모씨에 대한 영장실질심사를 진행한 뒤 구속 영장을 기각했다.&lt;br&gt;&lt;br&gt;재판부는 “사안이 중하나 증거가 이미 확보돼있고 도망할 염려가 있다고 단정할 수 없어 구속 사유 및 필요성을 인정하기 어렵다”고 밝혔다.&lt;br&gt;&lt;br&gt;이들은 2021년 6월~2022년 11월 쯔양을 협박해 쯔양의 유튜브 채널 PD로부터 2억 1600여만원을 뜯어낸 혐의를 받는다. 서울 강남경찰서는 지난 7월 쯔양의 지인이 낸 고발장을 접수해 수사에 착수했고, 지난 5일 두 여성에 대한 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;두 여성은 쯔양과 일면식이 없는 사이지만, 쯔양에 지속적인 폭력을 가한 전 남자친구로부터 이야기를 듣고 쯔양 유튜브 채널의 PD를 협박한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>온실가스 배출, 2년 연속 줄었다... 신재생 늘고 경기 둔화 영향</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/09/10/EVOGRV6VEZGV7IA45TKWQ745OM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/09/10/EVOGRV6VEZGV7IA45TKWQ745OM/</guid>
+      <dc:creator>김윤주 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Sep 2024 11:31:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SRDAEJUJNFIG5LSHVZ3AA7SHWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정은해 온실가스종합정보센터장이 10일 세종시 정부세종청사에서 2023년 국가 온실가스 잠정 배출량을 분석한 결과, 전년대비 4.4% 감소한 6억 2420만톤으로 나타났다고 밝히고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라 온실가스 배출량이 2년 연속 감소한 것으로 나타났다. 원전과 태양광·풍력 등 신재생에너지 발전량이 늘어난 가운데 세계적인 경기 둔화 등도 영향을 미쳤다.&lt;br&gt;&lt;br&gt;환경부는 10일 온실가스종합정보센터를 통해 지난해 국가 온실가스 배출량을 잠정 분석한 결과 총 6억2420만t으로, 재작년 잠정치(약 6억5280만t) 대비 4.4% 감소했다고 밝혔다. 특히 발전 등 전환 부문 배출량이 재작년 대비 7.6% 감소한 2억40만t으로 나타났다. 지난해 전환 부문은 코로나 전인 2018년보다는 25.3% 줄었다.&lt;br&gt;&lt;br&gt;환경부는 “지난해 철강과 전자·통신 등 전력 수요 감소에 따라 재작년 대비 총발전량이 소폭 감소했다”며 “에너지원별로는 원전과 신재생에너지 발전량이 증가한 가운데 (탄소 배출이 많은) 석탄·LNG(액화천연가스) 발전은 감소했다”고 밝혔다.&lt;br&gt;&lt;br&gt;지난해 건물 부문은 7%, 산업 부문은 3% 줄었다. 산업 부문은 석유화학, 시멘트 등 온실가스를 다량 배출하는 산업이 세계적인 경기 둔화와 건설업 불황으로 생산이 감소한 영향이 컸다. 반도체 공정에서 온실가스 저감 시설이 확대된 것도 배출량 감소에 영향을 줬다. 평년보다 따뜻한 겨울과 요금 인상 여파로 도시가스 사용량이 줄면서 건물 부문 배출량도 줄었다.&lt;br&gt;&lt;br&gt;지난해 폐기물 부문은 매립량의 지속적인 감소로 온실가스 배출이 1.3% 줄었고, 수송 부문도 주행거리 감소와 무공해차 보급 확대로 1% 감소했다. 농축수산 부문은 벼 재배 면적 감소 등 영향으로 0.1% 줄었다.&lt;br&gt;&lt;br&gt;환경부는 “지난해 국내총생산(GDP) 당 온실가스 배출량은 1990년 이래 가장 낮은 수준인 10억원 당 312.8t을 기록했다”고 밝혔다. GDP의 증가에도 온실가스 배출량이 감소하는 ‘탈동조화’가 나타났다는 평가다.&lt;br&gt;&lt;br&gt;그러나 지난해 전 세계 온실가스 배출량은 재작년 대비 1.1% 늘어난 것으로 나타났다. 온실가스종합정보센터가 국제에너지기구(IEA) 등에 공개된 정보를 분석한 결과, 중국(4.7%), 인도(7%) 등 개발도상국을 중심으로 온실가스 배출량이 늘었다. 다만 미국(-4.1%), 유럽연합(-9%), 독일(-10.1%), 일본(-2.5%) 등에선 온실가스 배출이 재작년 대비 감소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대학생 1인당 공교육비, 중고생보다 769만원 적어</title>
+      <link>https://www.chosun.com/national/education/2024/09/10/EDFFBY3LKBDFVKUCUMNNX2ESHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/09/10/EDFFBY3LKBDFVKUCUMNNX2ESHM/</guid>
+      <dc:creator>표태준 기자, 윤상진 기자, 남병진 인턴기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Sep 2024 12:00:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P7IZVL3UFJX3Q4TOXF66OPKWAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국외국어대학교 전경. /한국외대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국외대는 작년 인공지능(AI) 인재 양성을 목적으로 사회과학·AI융합학부와 금융·AI융합학부를 신설했지만, 여태껏 AI 전공 수업을 담당할 전임 교수를 구하지 못했다. 학생들은 AI 교육은 제대로 받지 못하고 교양 과목 위주로 수업을 듣고 있다. 한국외대 관계자는 “1년 전부터 교수 채용 공고를 올리고 있지만 산업계에 진출하면 연봉을 3~4배 받다 보니 교수 지원자가 없다”고 했다.&lt;br&gt;&lt;br&gt;세계 대학이 고급 인재를 교수로 채용해 4차 산업혁명 인재 양성에 열을 올리고 있지만, 한국 대학은 심각한 ‘교수 구인난’에 시달린다. 교수를 채용해도 열악한 연구 시설과 지원 등 현실을 못 견디고 기업이나 해외 대학으로 빠져나가는 경우가 다반사다. 대학이 투자를 받지 못하고 등록금까지 16년째 동결돼 재정이 부족한 탓으로 분석된다.&lt;br&gt;&lt;br&gt;교육부와 한국교육개발원이 10일 발표한 ‘OECD(경제협력개발기구) 교육 지표 2024′에 따르면, 2021년 기준 한국의 학생 1인당 공교육비 지출액이 고등교육(대학·대학원)의 경우 1만3573달러(약 1823만원)로 OECD 평균(2만499달러·약 2754만원)에 한참 못 미쳤다. 1인당 공교육비 지출액이란 국가와 민간이 학교에 투자한 비용(인건비, 장학금, 연구·개발비 등)을 학생 수로 나눈 것이다.&lt;br&gt;&lt;br&gt;약 3만5000달러인 미국과 영국에 비하면 한국은 3분의 1 수준이다. 호주·캐나다·네덜란드·스웨덴 등이 약 2만5000달러, 독일·일본·프랑스 등은 평균(2만499달러)보다 약간 높았다. 1만5000달러도 안 되는 나라는 한국을 포함해 12곳으로 대부분 남미나 동유럽권 국가였다.&lt;br&gt;&lt;br&gt;반면 한국의 학생 1인당 공교육비 지출액은 초등학생 1만4873달러(약 1998만원), 중·고등학생 1만9299달러(약 2592만원)로 각각 OECD 평균(1만1902달러, 1만3324달러)을 훨씬 웃돌았다. 대학생에게 투입되는 공교육비가 중·고등학생보다 769만원, 초등학생보다 175만원 적다.&lt;br&gt;&lt;br&gt;초·중·고에는 막대한 예산이 돌아가는데, 정작 국가 경쟁력을 좌우할 대학에는 투자하지 않는 셈이다. OECD 측은 “한국은 이탈리아와 함께 대학 교육보다 초등 교육에 더 많은 재원을 투자하는 두 국가”라며 “학령인구 감소를 반영해 공교육비 재정을 재분배할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;투자도 적게 받는데 16년째 등록금이 동결되며 대학 재정은 부실해지는 상황이다. OECD에 따르면, 2022~2023학년도 기준 한국 국공립대 평균 등록금은 5171달러다. 영국은 1만3135달러, 미국은 9596달러다. 사립대는 미국이 3만4041달러로 한국(9279달러)의 3배가 넘었다.&lt;br&gt;&lt;br&gt;한편 학령인구 감소 영향으로 교사 1명이 담당하는 학생 수가 점차 줄며 초·중·고 ‘과밀 학급’ 문제가 해소되는 추세인 것으로 나타났다. 2022년 기준 교사 1인당 학생 수는 초등학교가 15.8명(OECD 평균 14명), 중학교가 13.1명(12.8명)을 기록했다. 고등학교는 10.5명으로 OECD 평균인 12.7명보다 낮았다.&lt;br&gt;&lt;br&gt;한국 초·중·고 국·공립학교 초임 교사의 연봉은 2023년 기준 3만6639달러로 전년 대비 3024달러 늘었지만 여전히 OECD 평균(초등학교 기준 4만2060달러)에 못 미쳤다. 다만 한국 국·공립학교 15년 차 교사의 연봉은 6만4699달러로 OECD 평균(5만6753달러)보다 높았다. 특히 퇴임을 앞둔 최고 호봉 교사 연봉이 한국은 10만3014달러에 달해 OECD 평균(6만8924달러)보다 훨씬 많았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원 “살인예고글 피해자 기재는 추상적일 수밖에”…1심 파기</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/10/FCYYMWQNTREGXIN5TJDCVT2UYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/10/FCYYMWQNTREGXIN5TJDCVT2UYQ/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Sep 2024 11:04:24 +0000</pubDate>
+      <content:encoded>서울 대림역에서 살인을 하겠다는 취지의 예고 글을 온라인에 올려 공포 분위기를 조성한 남성이 1심 판단을 다시 받게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NZNZRZIOFZE47JEH7UJYA5XLKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법, 서울고법. /박강현 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사항소4-2부(재판장 엄철)는 10일 협박 및 위계공무집행방해 혐의로 재판에 넘겨진 박모(33)씨의 항소심에서 원심을 깨고 사건을 1심 법원으로 돌려보냈다.&lt;br&gt;&lt;br&gt;박씨는 지난해 7월 23일 오후 9시 넘어 인천 서구 주거지에서 한 온라인 커뮤니티에 ‘한 잔 마시다가 기분이 더러워 대림동에서 칼춤을 추겠다’는 취지의 글과 함께 대림역을 목적지로 설정한 내비게이션 지도 및 소주·흉기 사진을 올렸다.&lt;br&gt;&lt;br&gt;흉기 난동을 예고하는 이러한 글 때문에 대림역 인근 지구대 소속 경찰관 9명이 현장에 출동해 새벽까지 일대를 집중 순찰하기도 했다.&lt;br&gt;&lt;br&gt;특히 이 글을 게시하기 이틀 전인 7월 21일엔 조선(34)이 신림역 인근 골목에서 묻지마 칼부림을 벌여 4명의 사상자(1명 사망·3명 부상)를 내 당시 흉기 난동에 대한 사회적 경각심이 고조됐을 때였다.&lt;br&gt;&lt;br&gt;앞서 1심은 박씨가 쓴 글을 열람해 신고한 피해자에 대한 협박 혐의는 유죄로 인정했지만, 이와 같은 게시글을 열람한 사람들과 이들로부터 위 내용을 전달받은 대림역 인근 상인들 및 주민들에 대한 협박 혐의는 피해자가 특정되지 않았다며 일부 공소사실에 대한 기소를 무효로 봤다. 박씨에게 징역 1년 집행유예 2년을 선고하면서도 따로 공소기각을 선고하진 않았다. 양측 모두 항소해 이 사건은 2심으로 넘어왔다.&lt;br&gt;&lt;br&gt;그러나 2심은 이처럼 불특정 다수를 상대로 한 범죄는 피해자 관련 기재가 다소 추상적일 수밖에 없다는 취지로 일부 공소사실에 관해 공소를 기각한 원심판결은 위법하다고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 “검사는 이 사건 범행이 불특정 다수를 상대로 한 점을 고려해 다소 예시적·추상적으로 피해자를 기재했으나 이는 범행의 특수성상 불가피할 수밖에 없다”며 “피고인의 방어권 행사의 대상을 명확히 하는 데도 어떠한 모자람이 없다”고 지적했다.&lt;br&gt;&lt;br&gt;형사소송법 제366조는 공소기각 등의 이유로 원심 판결을 파기할 때엔 판결로 사건을 원심 법원에 환송해야 한다고 규정하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“文 만나야”...평산책방서 직원 폭행한 20대 구속</title>
+      <link>https://www.chosun.com/national/2024/09/10/KWDLLLMGE5DBPOZRUVP5MUXNA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/09/10/KWDLLLMGE5DBPOZRUVP5MUXNA4/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Sep 2024 11:49:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5SNHKMWVM6VOKUM4H2LMNRI76Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문재인 전 대통령이 지난해 4월 경남 양산시 하북면 자신의 책방 '평산책방'에서 계산 업무를 하며 손님 책에 사인을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 전 대통령이 운영하는 경남 양산 평산책방에서 40대 여성 직원을 폭행한 20대 남성이 구속됐다.&lt;br&gt;&lt;br&gt;경남경찰청은 10일 상해 및 재물손괴 혐의를 받는 A씨에 대한 구속 전 피의자심문에서 법원이 영장을 발부했다고 밝혔다. 구속영장 발부 사유는 도망 및 증거인멸 우려다.&lt;br&gt;&lt;br&gt;A씨는 지난 8일 오후 7시쯤 양산시 평산책방을 찾아 책방 직원 40대 여성 B씨를 무차별 폭행한 혐의를 받는다. 당시 책방 영업시간이 끝나 B씨가 나가달라고 요구하자 폭행한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 과정에서 A씨는 “오늘 이재명대표가 왔느냐” “문재인 전 대통령을 만나기 전까지 가지 않겠다”고 난동을 피웠다고 한다.&lt;br&gt;&lt;br&gt;범행 당시 현장에는 문재인 전 대통령은 없었다. 이날 문 전 대통령은 양산 사저에서 이재명 더불어민주당 대표를 만났다.&lt;br&gt;&lt;br&gt;A씨는 경기도에 거주하며 지난 2021년쯤 정신질환 진단을 받고 치료를 받은 것으로 전해졌다. 경찰은 A씨의 당적 등을 확인했지만, 현재까지 특별한 정치적 목적 등은 확인되지 않았다.&lt;br&gt;&lt;br&gt;한편, 이날 오전 재단법인 평산책방 이사회는 성명서를 통해 “문재인 전 대통령이 책방지기로 있는 평산책방에서 무차별 폭행 사건이 발생했다. 범행 수법이 잔인하고 전직 대통령 경호구역 안에서 태연히 범행을 저질렀다는 점에서 경악하지 않을 수 없다”며 “난데없는 피습을 당한 직원이 책방 사무를 총괄하는 책임자이자 여성이기에 더욱 심각하게 사건을 바라보고 있다”고 했다. 평산책방 측에 따르면 A씨는 주먹과 발길질로 B씨를 무차별 때렸고, B씨는 왼쪽 팔이 부러지고, 갈비뼈와 척추뼈가 골절됐다. 이런 폭행은 주민들이 몰려나와 말릴 때까지 8분간 이어졌다고 한다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “부상 정도에 따라 상해혐의보다 중한 중상해 혐의를 적용할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;평산책방 측은 “문재인 전 대통령을 향해 날아오는 모든 부당한 정치적 음모와 음해를 멈출 것을 요구한다”며 “경찰이 이번 사건의 진상을 철저히 밝혀내 한 점의 의혹도 남기지 않기를 바란다. 경찰의 수사 상황을 하나하나 지켜보고 이에 분명하게 대응할 것이다”고 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, ‘공직선거법 위반’ 신영대 의원 검찰 송치</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/10/SYHGSL6QTFANNKQVIBTYHX34VE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/10/SYHGSL6QTFANNKQVIBTYHX34VE/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>사전 선거 운동을 한 혐의를 받는 신영대 더불어민주당 의원이 검찰에 송치됐다.전북 군산경찰서는 공직선거법 위반 혐의로 신 의원을 검찰에 송치했다고 10일 밝혔다.</description>
+      <pubDate>Tue, 10 Sep 2024 10:17:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BLQE6BI2C54LYY72X6CZF3SDXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신영대 더불어민주당 의원. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사전 선거 운동을 한 혐의를 받는 신영대 더불어민주당 의원이 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;전북 군산경찰서는 공직선거법 위반 혐의로 신 의원을 검찰에 송치했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;신 의원은 지난 1월 30일 전북 군산시 한 보험사 사무실에서 직원들을 상대로 자신의 의정 활동을 홍보하는 등 사전 선거운동을 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이번 22대 총선의 공식 선거운동 기간은 지난 3월28일부터 선거 전날인 4월 9일까지였다.&lt;br&gt;&lt;br&gt;신 의원은 또 사전 선거운동 과정에서 마이크와 스피커 등을 활용하는 등 불법 선거운동을 벌인 혐의도 받고 있다. 공직선거법에 따르면 연설과 대담, 토론용을 제외하고는 공개된 장소에서 마이크 등 확성장치를 사용한 사전 선거운동이 금지돼 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “공직선거법 위반 혐의를 받는 신 의원에 대한 수사를 마무리하고 지난주 송치했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>추석 귀성은 16일 오전, 귀경은 18일 오후 가장 막힐 듯</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/09/10/WT3UVG3GB5CYFLTSHDALTZBWXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/09/10/WT3UVG3GB5CYFLTSHDALTZBWXY/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>국토교통부는 “올해 추석 연휴엔 3695만명이 이동한다”며 “귀성길 도로는 16일, 귀경길은 18일이 가장 막힐 것으로 예측된다”고 10일 밝혔다.</description>
+      <pubDate>Tue, 10 Sep 2024 11:30:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CLXIWICC3EAF75DHL4CNJ7FDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2월 경기 용인시 기흥구 경부고속도로 수원신갈IC 인근 고속도로에서 귀성 차량이 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국토교통부는 10일 국무회의에서 추석 연휴 기간인 오는 15~18일 나흘간 전국 고속도로 통행료를 면제하는 안이 통과됐다고 밝혔다. 이 기간 하이패스 차로로 통과하면 자동으로 ‘통행료 0원’ 처리되며, 일반 차로 이용자는 고속도로 진입 요금소에서 통행권을 받아 진출 요금소에 제출하면 된다. 고속도로 통행료 면제는 2017년부터 코로나 기간(2020년 추석~2022년 설)을 제외하고 시행되고 있다.&lt;br&gt;&lt;br&gt;국토부는 올 추석 연휴에 총 3695만명이 이동한다고 밝혔다. 추석 당일(17일)을 전후로 귀성 출발은 16일 오전, 귀경 출발은 18일 오후에 가장 몰리면서 도로가 막힐 것으로 예측됐다. 연휴 기간 인천국제공항 이용객은 하루 평균 20만1000명으로, 지난해 연휴 대비 11.6% 증가해 역대 최고 수준에 달할 전망이다. 공항이 가장 붐비는 날은 18일로 예측됐다.&lt;br&gt;&lt;br&gt;서울시는 17, 18일 귀경객을 위해 서울 지하철 1~9호선·우이신설선·신림선(종착역 기준)과 대형 버스 터미널 및 기차역 경유 버스 124개 노선(경유역 기준)을 다음 날 새벽 2시까지 연장 운행 한다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 주영창 서울대 교수, 한국인 최초로 미국재료학회장 당선</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/10/5H5QMIZSVFHTDAKKUZZ5AW5YVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/10/5H5QMIZSVFHTDAKKUZZ5AW5YVY/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Sep 2024 11:02:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ONZUMAU23RDMXNDIZNXD6RL4VI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대 주영창 재료공학부 교수/서울대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 정부 초대 과학기술정보통신부 과학기술혁신본부장을 역임한 주영창 서울대 재료공학부 교수가 한국인 최초로 세계 최대 재료학회인 미국재료학회(Materials Research Society) 회장으로 당선됐다. 주 교수는 내년에 이 학회 부회장직을 수행한 뒤 2026년부터 본격적으로 회장직을 맡는다.&lt;br&gt;&lt;br&gt;서울대 등에 따르면 주 교수는 지난달 진행된 미국재료학회 회장 선거에서 당선돼 한국인 최초로 전 세계의 재료 연구를 이끌게 됐다. 1973년 설립된 미국재료학회는 인공지능, 반도체, 바이오, 에너지, 지속가능성 등과 관련된 과학 기술을 논의하는 곳으로 소재 분야에서 가장 큰 규모와 영향력을 자랑하는 학회다. 재료공학 외에도 물리·화학·기계·화학공학·생명과학 등 다양한 분야의 70여개국 1만3000여명의 연구자들을 회원으로 보유하고 있다. &lt;br&gt;&lt;br&gt;그간 주요 과학기술학회의 회장을 미국이나 유럽 등 서구권 연구자들이 대체로 지내온 것을 감안할 때 이번 주 교수의 당선은 이례적이다. 서울대 관계자는 “주 교수의 미국재료학회장직 당선은 한국 소재 분야 연구 성과가 국제적으로 인정받았다는 것을 보여준다는 점에서 고무적”이라고 평했다. &lt;br&gt;&lt;br&gt;주 교수는 서울대 금속공학과에서 학사, 석사 학위를 취득 후, 미 매사추세츠 공대(MIT)에서 재료공학 박사 학위를 받았다. 이후 독일 막스프랑크연구소(Max Planck Research Institute)와 미 반도체 기업 AMD를 거친 뒤, 1999년부터 모교로 돌아와 재료공학부 교수를 지내고 있다. 이후 서울대에서 대학산업기술지원단장, 차세대융합기술연구원장 등을 지냈고, 윤석열 정부 초대 과학기술정보통신부 과학기술혁신본부장을 맡았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“집에서 담배 좀 그만 펴” 훈계하는 아버지 흉기로 찌른 30대 아들</title>
+      <link>https://www.chosun.com/national/incident/2024/09/10/TUJ6FSAUGFFGJAD62P3GWGJG4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/10/TUJ6FSAUGFFGJAD62P3GWGJG4A/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>집에서 담배를 피우지 말라고 훈계하던 아버지를 흉기로 찌른 30대 아들이 구속됐다.경기 의정부경찰서는 존속살해미수 혐의로 30대 남성 A씨를 입건해 구속 상태로 조사 중이라고 10일 밝혔다.</description>
+      <pubDate>Tue, 10 Sep 2024 10:25:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXOJ6JDLRZBJ3JMT3HJAJ35O5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;집에서 담배를 피우지 말라고 훈계하던 아버지를 흉기로 찌른 30대 아들이 구속됐다.&lt;br&gt;&lt;br&gt;경기 의정부경찰서는 존속살해미수 혐의로 30대 남성 A씨를 입건해 구속 상태로 조사 중이라고 10일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 7일 오전 7시 15분쯤 경기 의정부시 호원동 자택에서 아버지 B씨의 목 부위를 흉기로 찌른 혐의다. B씨는 중상을 입고 병원으로 옮겨졌으며, 다행히 생명엔 지장이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “아버지가 집 안에서 담배를 그만 피우라고 해 화가 나 범행했다”고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 추가 조사를 벌인 뒤 검찰에 송치할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“조민 세미나 참석” 위증 혐의 前 서울대 직원…검찰, 징역 10개월 구형</title>
       <link>https://www.chosun.com/national/court_law/2024/09/10/ZU4AE7WCFZA4DPIXEOY2YJL4QY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/10/ZU4AE7WCFZA4DPIXEOY2YJL4QY/</guid>
@@ -802,48 +892,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7YAJI5WIWNGYVLYQMM26UX24LA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[입에 착착 붙는 일본어] 단골이 되다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/09/10/RZPXCYUCO5AJLBAT36JZIT2EKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/09/10/RZPXCYUCO5AJLBAT36JZIT2EKY/</guid>
-      <description/>
-      <pubDate>Mon, 09 Sep 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/USXNBAMTGFHZ5LGYX4XEMWSBBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 멍하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/09/10/KDNRSYSNOBBXVHY73ITWORMJRE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/09/10/KDNRSYSNOBBXVHY73ITWORMJRE/</guid>
-      <description/>
-      <pubDate>Mon, 09 Sep 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMWJG3G33ZFHTAUHOPGVDSCEW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] You don't look it.</title>
-      <link>https://www.chosun.com/national/nie/english/2024/09/10/2XTBOXHIRRB55L3QBRRD32LPZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/09/10/2XTBOXHIRRB55L3QBRRD32LPZA/</guid>
-      <description/>
-      <pubDate>Mon, 09 Sep 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QTLX7LN23JCARCWBQAERL2DZEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [철학·인문학 이야기] ‘내 뜻대로 돼야 한다’ 집착 갖지 말라… 고통에서 벗어나는 석가모니의 지혜</title>
-      <link>https://www.chosun.com/national/nie/2024/09/10/S3QVN3BBMBA6LM4CNK2PF2FRGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/09/10/S3QVN3BBMBA6LM4CNK2PF2FRGQ/</guid>
-      <dc:creator>안광복 중동고 철학 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Sep 2024 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O4I223DRMBBKBO4UJ4ORCDTR64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;파키스탄 라호르박물관에 있는 석가모니 고행상. ‘반야심경’은 내려놓음의 지혜를 알려주는 불교 경전이에요. /라호르박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“괴물과 싸우는 자는 괴물이 되지 않으려 노력해야 한다.” 철학자 프리드리히 니체의 말입니다. 맞아요. 우리는 싸우면서 은연중에 서로 닮아가지요. 나도 이기고 살아남아야 하니까요. 하지만 그 결과가 과연 행복으로 이어질까요? 불행한 자와 겨루는 가운데 나 역시도 불행해지고 있지는 않은지요?&lt;br&gt;&lt;br&gt;석가모니의 가르침은 고통에서 벗어날 지혜를 일러줍니다. 스님들은 ‘상(相·마음속 틀)을 짓지 말라’라는 말씀을 자주 하세요. 무엇이건 내 뜻대로 돼야 한다는 집착이 ‘상’입니다. 이를 내려놓아야 마음이 편해지며 고통에서 벗어날 수 있어요. ‘반야심경’은 내려놓음의 지혜를 알려주는 불교 경전입니다. 원래 책의 이름은 ‘마하반야바라밀다심경’인데요. 마하는 ‘크다’를, 반야는 ‘지혜’를 뜻해요. 바라밀다는 ‘건너간다’라는 말입니다. 지혜를 다루는 ‘반야경’의 분량은 600권이 훌쩍 넘어요. 여기서 핵심을 260자로 간추려 전체 경전 뒤에 붙여놓은 책이 ‘반야심경’입니다.&lt;br&gt;&lt;br&gt;반야심경의 고갱이는 ‘공(空·비어있음)’과 ‘건너감(바라밀)’입니다. 우리 삶은 왜 괴롭고 힘들까요? 세상이 공이라는, 즉 모든 것이 헛되고 무의미하다는 사실을 모르는 까닭입니다. 이렇게만 들으면 세상을 제대로 살 필요가 없다는 허무주의로 느껴질지 모르겠어요. 하지만 반야심경의 의미를 최진석 서강대 명예교수는 이렇게 얘기해 줍니다. 금으로 황금 사자를 만든다고 해보세요. 금의 원래 모습이 있다고 고집한다면, 절대 황금 사자를 만들 엄두를 내지 못해요. 금에는 원래 모양새가 없다고 여길 때, 황금의 형체가 없음을 즉 공(空)이라는 사실을 알게 될 때 황금 사자 또는 다른 모습으로 바뀔 수 있어요.&lt;br&gt;&lt;br&gt;이쯤 되면 ‘상을 짓지 말라’는 스님들의 깨우침이 이해가 될 듯싶습니다. 원래 그래야 하는 것은 없어요. 그렇기에 우리는 무의미한 욕망에 휘둘리는 마음을 다스리며 끊임없이 지혜의 세계로 건너가야 합니다. 반야심경의 마지막은 세 번 거듭되는 후렴구로 돼 있어요. “아제아제 바라아제 바라승아제 모지 사바하!” 들어보셨지요? “건너가세, 건너가세, 저기로 건너가세. 저기로 다 함께 건너가세. 깨달음이여, 만세!”라는 뜻이라고 해요.&lt;br&gt;&lt;br&gt;하지만 마음을 내려놓고 깨달음으로 나아가기란 결코 쉬운 일이 아닙니다. 수도자들의 삶을 살펴보세요. 그들은 매일 몸과 마음을 다스리며 경건한 일과를 거듭해서 꾸려갑니다. 욕망에 휘둘리지 않으려 애쓰며 열반(涅槃·모든 얽매임에서 벗어나는 경지)에 다다르려 정진하지요.&lt;br&gt;&lt;br&gt;불교 법회에선 반야심경이 끊임없이 되뇌어지곤 합니다. 계속 곱씹는 가운데 깊은 지혜가 솟아날 수 있기 때문이지요. 시중에는 반야심경을 다루는 좋은 해설서들이 많이 나와 있습니다. 살펴보며 지혜를 가꾸어 보기 바랍니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [사소한 역사] 1930년대 독일은 일자리 만들고 물건 나르려 3000㎞ 넘는 아우토반 만들었죠</title>
-      <link>https://www.chosun.com/national/nie/2024/09/10/YTBKXSKCJVGCHEYAF2XSH7R644/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/09/10/YTBKXSKCJVGCHEYAF2XSH7R644/</guid>
-      <dc:creator>김현철 서울 영동고 역사 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Sep 2024 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/76T5G7OG7RCKXGAPAULC4K6ZXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;독일 고속도로 아우토반. 아우토반은 1932년 쾰른과 본을 오가는 20㎞ 도로로 처음 개통됐어요. /브리태니커&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민족 대명절인 추석이 다가오고 있습니다. 매년 추석과 설이 되면 고향을 떠나 서울 등 도시에서 근무하거나 대학에 다니는 사람들이 고향으로 돌아가는 이른바 ‘민족 대이동’이 벌어지는데요. 정부는 ‘추석 민생 안정 대책’ 중 하나로 9월 15~18일 고속도로 통행료를 면제해준다고 합니다. 명절이 되면 고향으로 향하는 차들로 고속도로가 막히는 일이 다반사입니다. 일반 도로와 달리 통행료를 받고, 자동차의 고속 운행에만 사용하도록 지정되는 등의 특징이 있는 고속도로는 어떤 역사를 가지고 있을까요?&lt;br&gt;&lt;br&gt;인류는 과거부터 먼 거리 이동을 편안하게 하기 위해 도로를 개발해 왔어요. 고대 로마 제국은 수도를 중심으로 유럽 각지로 통하는 도로망을 건설했고, 그중 일부는 지금도 사용되고 있죠. 중세 시대에는 도로 교통과 도로 공사 기술이 다소 쇠퇴했다고 알려져 있어요. 16세기 전후로 마차 교통이 점차 발전하면서 도로 개량이 조금씩 이루어졌다고 해요.&lt;br&gt;&lt;br&gt;19세기엔 철도 발전으로 도로는 철도의 보조 수단으로만 여겨졌어요. 그러다 가솔린 자동차의 발명과 개량으로 다시 도로에 사람들의 관심이 쏠리게 됐습니다. 그리고 마차 교통에 적합했던 많은 도로가 자동차 통행에 유리한 방식으로 개량됐습니다. 이후 자동차만 빠른 속도로 이동할 수 있는 고속도로도 생겼지요.&lt;br&gt;&lt;br&gt;세계 각국의 고속도로는 20세기 초·중반에 많이 세워졌어요. 세계에서 가장 유명한 고속도로는 독일의 아우토반입니다. 아우토반은 1932년 쾰른과 본을 오가는 20㎞ 도로로 처음 개통됐습니다. 이후 1933년 집권한 히틀러는 이 아우토반 건설을 통해 실업자를 구제하고 병력과 물자 수송을 강화하겠다고 생각했어요. 그렇게 2차 세계대전 발발 이전까지 3000㎞가 넘는 고속도로망이 만들어졌다고 해요. 미국에선 1926년 건설된 3945㎞의 미국 최초 대륙 횡단 고속도로 ‘루트 66’이 가장 유명해요.&lt;br&gt;&lt;br&gt;한국의 고속도로는 1960년대 후반에 처음 건설됐습니다. 5·16군사정변 후 국가재건최고회의 의장이 된 박정희 의장은 1962년 제1차 경제개발 5개년 계획을 발표했어요. 이 시기에는 대부분 산업 철도 건설에 치중해 상대적으로 도로 개발이 부진했어요. 도로 부문에 대한 저조한 투자로 수송 문제가 경제 발전에 걸림돌이 되기 시작했습니다.&lt;br&gt;&lt;br&gt;그래서 정부는 이를 해결하고자 고속도로를 건설하기로 합니다. 전국적인 교통 조사를 통해 고속도로 건설 계획이 세워졌어요. 이를 토대로 1967년 3월 우리나라 최초의 고속도로인 경인고속도로 착공이 이뤄졌고, 1968년 12월에 개통됐어요. 1968년 2월에 착공한 경부고속도로는 1970년에 완공됐어요. 경인고속도로에 이어 두 번째로 건설된 고속도로인 것이죠.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [재미있는 과학] 빗물에 녹는 석회암과 무리한 지하 공사에 싱크홀 생겨요</title>
       <link>https://www.chosun.com/national/nie/2024/09/10/ABJYZUM44BDIZDAOPVVSYK4UDU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/09/10/ABJYZUM44BDIZDAOPVVSYK4UDU/</guid>
@@ -854,33 +902,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/22TWZDASXJFSFJ6W7LBWJAGPBA.png?width=1200&amp;height=675&amp;auth=1712bc97464aa3605667796f0d0fa6755b064d62b268c7aada3b648d5d57640b&amp;smart=true" type="image/png" height="675" width="1200">
         <media:description type="plain">그래픽=유재일</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 9월 10일</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/10/ECQ7K2TXB5ECLKIE3SY3AUHMLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/10/ECQ7K2TXB5ECLKIE3SY3AUHMLA/</guid>
-      <description/>
-      <pubDate>Mon, 09 Sep 2024 15:31:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PSLY52K3YJAKHDGBCIXO5CZFQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이순신 동상 올라 “윤석열 퇴진” 외친 민노총 조합원 구속영장 기각</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/09/CLWXXQLQSNHB3MDH7GOEXI7L2M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/09/CLWXXQLQSNHB3MDH7GOEXI7L2M/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Sep 2024 14:37:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6WGD33CP5NEADBB7LHUXYNM7RQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오후 서울 종로구 광화문광장에서 시위를 벌이던 민노총 소속 조합원 2명이 이순신 동상 위에 올라가 양손으로 팻말을 들어보이고 있다. /고유찬 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광화문 광장에서 한일정상회담을 규탄하는 기습 시위를 벌이다 이순신 장군 동상에 올라간 민노총 조합원에 대한 구속영장이 9일 기각됐다.&lt;br&gt;&lt;br&gt;민노총 등에 따르면, 서울중앙지법 신영희 영장전담 부장판사는 이날 오후 3시 민주노총 전국택배노조 사무국장 서모 씨의 영장실질심사를 한 뒤 도주 우려가 없다는 등의 이유로 구속영장을 기각했다.&lt;br&gt;&lt;br&gt;서씨는 지난 6일 오후 6시쯤 서울 종로구 광화문 광장에서 기시다 후미오 일본 총리 방한과 한일정상회담 개최를 반대하는 기습 시위를 벌이던 중, 이순신 장군 동상에 올라간 혐의(집시법 위반)를 받는다.&lt;br&gt;&lt;br&gt;서씨 등은 이순신 장군 동상 앞에서 대형 현수막을 펼치려다 경찰에 저지하자, 이순신 장군 동상을 기어올라 거북선 모형 옆에 서서 손피켓을 들고 “윤석열은 퇴진하라” “기시다는 떠나라”를 수차례 외쳤다.&lt;br&gt;&lt;br&gt;경찰은 서씨와 또 다른 민노총 조합원이 신고된 집회 장소를 벗어나 기습 시위를 했다고 보고 집시법 위반 혐의로 현행범 체포했다.&lt;br&gt;&lt;br&gt;경찰은 이 과정에서 서씨가 주도적 역할을 했다고 보고 전날 서씨에 대한 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;민노총 등 시민사회단체는 이날 오후 1시 서대문구 경찰청 앞에서 ‘조합원 구속영장 청구 규탄 및 석방 촉구 기자회견’을 열고 “국민들의 정당한 항의행동과 의사 표현에, 윤석열 정권은 구속 영장 청구라는 반시대적인 대응으로 화답했다”며 “민중의 입에 재갈을 물려 탄압하려는 윤석열 정권에 분노를 금할 수 없다”고 비판했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김포공항 인근 공장서 불… 北 오물풍선 기폭 장치 나왔다</title>
-      <link>https://www.chosun.com/national/incident/2024/09/09/HWWJTLVFZ5HMJEUMV7VMCFOUUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/09/HWWJTLVFZ5HMJEUMV7VMCFOUUQ/</guid>
-      <dc:creator>김포=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Sep 2024 10:28:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AWUQ2N5FVFIZ3A7MNJPL7GVOW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 경기도 김포시 고촌읍 공장 화재 현장에서 발견된 북한 오물 풍선 타이머 추정 물체. 해당 공장에서는 지난 5일 오전 3시 20분쯤 불이 나 1시간 17분 만에 꺼졌다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 5일 김포국제공항 인근의 한 공장에서 발생한 화재 원인이 북한에서 날린 오물 풍선 때문인 것으로 추정돼 소방 당국이 조사 중이다.&lt;br&gt;&lt;br&gt;9일 경기도소방재난본부에 따르면 이날 오전 10시 30분쯤 경기 김포시 고촌읍 태리의 한 1층짜리 자동차 부품 제조 공장의 지붕에서 북한의 대남 오물 풍선 기폭장치와 종이 잔해물 등이 발견됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CZOL4YQ7BFFY5KJ43MH2XNXN7Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 오전 3시 20분쯤 경기 김포시 고촌읍의 1층짜리 자동차부품 제조공장에서 북한 대남 오물 풍선 때문으로 추정되는 불이 났다. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 공장은 김포공항에서 불과 2~3㎞떨어진 곳으로, 나흘 전인 지난 5일 새벽 불이 났다. 당시 화재는 오전 3시 20분쯤 발생했는데, 인근 건물에서 일하던 근무자가 “옆 건물 공장 지붕 오른쪽 끝에서 불꽃이 보인다”며 소방 당국에 신고했다. 현장에 출동한 소방은 신고 1시간17분 만인 오전 4시37분 불을 모두 껐다. 이 화재로 인명 피해는 없었으나, 샌드위치 패널 지붕으로 된 공장 천장 약 50㎡가 불에 탔다.&lt;br&gt;&lt;br&gt;소방 당국은 이날 현장에 화재조사관을 파견해 구체적인 화재 원인을 조사하다 북한 오물 풍선의 기폭장치로 보이는 물체를 발견한 것으로 파악됐다. 소방 관계자는 “현장에서 발견한 물체는 북한 오물 풍선 기폭 장치 등 잔해물이 맞는 것으로 확인됐다”고 말했다.&lt;br&gt;&lt;br&gt;한편, 북한이 날린 대남 오물 풍선으로 수도권 곳곳에서 화재 사고가 잇따르고 있다. 지난 8일 오후 2시쯤에는 경기 파주시 광탄면 한 창고 옥상에 북한의 오물 풍선이 떨어지며 불이 났다. 이 불로 인명피해는 없었으나, 샌드위치 패널조 창고 1동의 지붕 330㎡를 태운 뒤 3시간 만에 진화됐다. 경찰과 소방 당국은 이 창고 지붕 위에서 기폭장치로 추정되는 물체를 발견했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BGIJI5BEFBGOZJSXYO53QOK2JM.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 오전 3시 20분쯤 경기 김포시 고촌읍의 1층짜리 자동차부품 제조공장에서 북한 대남 오물 풍선 때문으로 추정되는 불이 났다. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/HOYGSWMZSBHZ7O62GA54BOJFVM.jpg?width=400&amp;height=225&amp;auth=df0e9be31836e59783b241d7d0e030b5cd725093cb02173e43ea413c0b73fe4d&amp;smart=true" type="image/jpeg" height="225" width="400"/>
     </item>
     <item>
       <title>변협, 무료 법률 챗봇 ‘AI 대륙아주’ 징계 개시 결정...“변호사법 위반”</title>
@@ -933,25 +954,6 @@
       <pubDate>Mon, 09 Sep 2024 07:20:32 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CISI4HPJWVER7HB6WAT7THFHEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;LG트윈스 모자를 쓰고 있는 어린 시절 이강인(왼쪽)과 지난 6월 12일  이강인이 
  잠실 경기장에서 두산 베어스 유니폼을 입고 있는 모습./ 온라인 커뮤니티· 스포츠조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;축구 국가대표 이강인(23·파리생제르맹)과 두산그룹 5세 박상효(25)씨의 교제설이 불거진 가운데, 온라인 커뮤니티에는 두 사람의 열애 흔적들이 공유되고 있다.&lt;br&gt;&lt;br&gt;연예매체 디스패치는 이강인과 박상효씨가 교제 중이라고 9일 보도했다. 박씨는 박진원 두산밥캣 코리아 부회장의 딸이다. 박씨는 프랑스에서 유학 중이며 올해 초 처음 만난 것으로 알려졌다. 이강인의 친누나가 두 사람의 오작교 역할을 했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2372Y3SIWVJYJLNARVL2NMAZYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월 12일 오후 서울 송파구 잠실야구장에서 열린 2024 프로야구 KBO리그 한화 이글스와 두산 베어스의 경기. 축구 국가대표 이강인이 경기를 관람하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;열애설 보도 이후 온라인 커뮤니티에선 “이미 팬들은 이강인의 열애를 눈치채고 있었다”는 반응이 나오고 있다. 두 사람이 지난 6월 12일 잠실야구장 관중석에서 함께 야구를 즐기는 모습이 한 차례 포착된 바 있기 때문이다. 이강인의 친누나도 이 자리에 함께였다.&lt;br&gt;&lt;br&gt;LG트윈스 팬이라고 밝혀왔던 이강인은 당시 두산베어스의 유니폼을 입고 있어 눈길을 끌었다. 경기 이후 “이강인이 두산 손녀와 직관왔다”는 글이 온라인 커뮤니티에 올라오기도 했다.&lt;br&gt;&lt;br&gt;이강인이 가방에 달고 다녔던 크루아상 모양의 키링도 열애 흔적이라는 주장이 제기됐다. 이강인은 과거 자신의 인스타그램에 크루아상과 하트 이모티콘을 올렸다가 삭제한 적이 있는데, 이 크루아상이 박씨와 주고받는 애정 표현으로 보인다는 것이다. 박씨의 인스타그램 소개란에도 크루아상 이모티콘이 적혀있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SQ6PHGHZQBGNXBB7W664WHI46A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3월 19일 인천국제공항에 입국한 이강인의 가방에 크루아상 키링이 달려있는 모습(왼쪽)과 지난 3월 이강인의 인스타그램에 올라왔다 삭제된 게시물/ 스포츠조선·온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;네티즌들은 “팬들은 알고 있었네” “이강인이 두산 유니폼 입은 이유가 이제야 이해된다” “이강인 사랑꾼” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;이강인은 이번 열애설에 대해 입장을 밝히지 않고 있다.&lt;br&gt;&lt;br&gt;이강인은 지난 6일 인천국제공항을 통해 오만으로 출국했다. 한국 축구대표팀은 오는 10일 밤 11시 오만과 2026 국제축구연맹(FIFA) 북중미 월드컵 아시아지역 3차 예선 B조 조별리그 2차전을 갖는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“인간 아닌 동물처럼 행진할 것...” 나체로 기후정의행진 한 참가자들</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/09/W67IAN5HX5DF5ORNFTMQX23NHQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/09/W67IAN5HX5DF5ORNFTMQX23NHQ/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Sep 2024 07:11:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RFNSW4KQGNPJLJVFJIVLX3SA2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;UN이 지정한 푸른하늘의 날인 지난 7일 오후 서울 강남구 서울지하철 2호선 강남역 인근에서 907 기후정의행진에서 참가자들이 다이인(Die-in) 퍼포먼스를 하고 있다./뉴시스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기후정의행진 도중 상·하의를 벗어 자신의 신체를 노출한 참가자 2명이 경찰에 현행범 체포돼 조사를 받았다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 행진 도중 20대 여성 2명을 공연음란 혐의로 현행범 체포했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 다르면 이들은 지난 7일 오후 5시쯤 강남역 인근에서 역삼역 방향으로 행진하던 중 상·하의를 벗는 돌발 행동을 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;피의자들은 경찰 조사에서 “인간중심적 집회를 비판하고 동물과 같은 모습으로 행진하겠다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;참가자들이 돌발 행동을 한 당시 옆에 있던 경찰관들이 이 여성들을 옷으로 감싸 경찰서로 데려갔다. 경찰은 피의자들을 조사한 뒤 지난 8일 석방했으며, 불구속 상태로 수사를 이어갈 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>KTX 표 못 구해 안달인데, 20만표가 ‘노쇼’</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/09/09/VG7GSQSZAJHK3GDKKEI3NPYPJ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/09/09/VG7GSQSZAJHK3GDKKEI3NPYPJ4/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description>추석이 임박하면서 KTX 표 구하기 전쟁이 벌어지는 가운데, 매년 운행이 임박해 승차권을 반환하는 자리가 20만개에 달하는 것으로 나타났다. 취소 수수료율이 워낙 낮은 탓에 복수로 표를 구매한 이들이 시간이 임박해 취소하는 경우가 많기 때문이다.</description>
-      <pubDate>Mon, 09 Sep 2024 02:32:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7LOH6WKZZJPDBL77UT4A2MC7WE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 설 명절 연휴 기간 서울 용산구 서울역에서 귀성객들이 고향으로 출발하는 KTX를 타고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석 KTX 표 구하기 전쟁이 벌어지는 가운데, 명절 기간 승차권 취소로 인해 공석으로 운행되는 좌석이 20만개에 달하는 것으로 나타났다. 취소 수수료율이 워낙 낮은 탓에 복수로 표를 구매한 이들이 시간이 임박해 취소하는 경우가 많기 때문이다. 일종의 모럴 해저드(도덕적 해이)란 지적이 나온다.&lt;br&gt;&lt;br&gt;9일 국회 국토교통위원회 소속 윤종군 의원실에 따르면 지난 5년간 명절 연휴 기간 코레일 열차 승차권 취소율은 평균 판매량(331만6619매) 중 41%(135만8496매)에 달하는 것으로 나타났다. STR 운영사인 SR은 같은 기간 평균 판매량(55만7685매) 가운데 15%(8만704매)가 취소됐다. 취소된 표는 코레일과 SR이 재판매에 나서지만, 이들 중 상당수는 결국 공석으로 운영된다. 올해 설의 경우 19만5244매가 재판매로 이어지지 않았고, SR도 5만4000여표가 공석 처리됐다.&lt;br&gt;&lt;br&gt;코레일은 명절이면 평소보다 열차 운행을 대거 늘려 200만장가량의 표를 판매한다. 이번 추석의 경우 지난달 21일부터 전 국민 대상 예매가 시작됐다. 부산, 대구, 대전, 광주 등 주요 지역으로 향하는 기차표는 예매 시작 5분 내에 모두 매진됐다. 한 이용 승객은 “온 가족이 모여 코레일 휴대전화 애플리케이션, PC 등으로 예매 시도를 했지만 한 장도 하지 못했다”고 했다.&lt;br&gt;&lt;br&gt;상황이 이러니 기승하는 건 암표다. 중고 거래 사이트에는 ‘추석 KTX 기차표 양도’라는 글을 쉽게 찾을 수 있다. 온라인에선 표를 구하지 못했다면 일단 타고 걸릴 경우 부가운임의 0.5배를 지급하는 방법을 쓰라는 팁이 공유되기도 한다. 한쪽에선 표가 대량 취소되는데, 한쪽에선 표를 구하지 못해 암표까지 구하는 기형적 현상이 생겨나는 것이다.&lt;br&gt;&lt;br&gt;전문가들은 티켓의 취소 수수료율이 워낙 낮아서 벌어지는 현상이라고 지적한다. 명절 기간 일반 승차권의 경우 출발 하루 전에 취소하면 400원만 내면 되고, 당일 3시간 전까지 취소하면 운임의 5%만 내면 된다. 3시간부터 출발 시간 1분 전에 취소한다 해도 수수료가 10%밖에 안된다. 한 철도대 교수는 “출발 시간 몇분 전에 취소하면 다른 사람이 일정을 맞추는 게 사실상 불가능하다”며 “임박한 시간대에 이뤄지는 취소 수수료율을 크게 올려야 한다”고 했다.&lt;br&gt;&lt;br&gt;코레일은 조심스러운 입장이다. 매해 취소 수수료로만 수백억원의 수익을 올린다는 지적이 계속되는데다, 수수료율을 올릴 경우 소비자 부담이 커진다는 점도 고려해야 하기 때문이다. 지난해 KTX 가격이 12년째 동결이었다며 가격 인상론을 들고 나왔다가 뭇매를 맞았던 기억도 있다. 코레일 측은 “출발이 얼마 남지 않은 빈 좌석 운임을 할인해 판매하거나, 역귀성, 역귀경 잔여 좌석을 할인하는 방식으로 공석을 줄여갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
