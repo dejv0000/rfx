@@ -13,6 +13,63 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>전공의대표, 의협 회장에 “같은 테이블 앉을 생각 없다” 사퇴 촉구</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/10/4AXHQR345ZD7DATPNOKEKNAFTE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/10/4AXHQR345ZD7DATPNOKEKNAFTE/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Sep 2024 04:52:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7UIALV3SSFCQHEYDLDDCEEQEKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;왼쪽부터 임현택 대한의사협회(의협) 회장, 박단 대한전공의협의회(대전협) 비상대책위원장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전공의(의대 졸업 후 전문의 자격을 따기 위해 종합병원 등에서 수련하는 인턴과 레지던트)와 의대생 대표가 “어떤 테이블에서도 임현택(54) 대한의사협회 회장과 같이 앉을 생각이 없다”며 사퇴를 요구했다.&lt;br&gt;&lt;br&gt;박단(34) 대한전공의협의회 비상대책위원장은 10일 페이스북에 “대한의사협회 임현택 회장은 사직한 전공의와 휴학한 의대생을 대표하지 않는다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;박 위원장은 “아래 기재된 네 사람은 그 어떤 테이블에서도 임 회장과 같이 앉을 생각이 없다”며 “임 회장 및 의협 집행부는 전공의와 의대생 언급을 삼가시길 바라며, 임 회장의 조속한 사퇴를 촉구한다”고 했다.&lt;br&gt;&lt;br&gt;박 위원장은 글 말미에 자신과 대한의과대학·의학전문대학원 학생협회 비상대책위원회의 손정호·김서영·조주신 공동위원장의 직함과 이름을 적었다.&lt;br&gt;&lt;br&gt;박 위원장이 임 회장의 사퇴를 촉구하는 등 대립각을 세운 건 이번이 처음이 아니다.&lt;br&gt;&lt;br&gt;박 위원장은 지난 7월 27일에도 페이스북에서 “학생과의 논의 부재, 발표 직전 공문 발송, 불공평한 의결권 부여 등 올바른 의료를 위한 특별 위원회 진행 과정만 놓고 보아도 임현택 집행부가 학생들을 얼마나 무시하고 있는지 알 수 있다”고 썼다.&lt;br&gt;&lt;br&gt;같은 달 또 다른 게시물에서는 “임현택 회장은 공석에서 전공의와 의대생을 언급하는 것 외 무엇을 하고 있나. 100여 명의 직원과 300억원의 예산은 어디에 허비하고 있나”라며 “임 회장이 아직도 중요한 게 뭔지 모르겠다면 이제 부디 자진 사퇴를 고려하시길 권한다”고 썼다.&lt;br&gt;&lt;br&gt;지난 6월에는 의협 중심을 중심으로 한 의료계 단일 창구소식를 만들겠다고 뜻을 모았다는 내용의 기사를 언급하며 “임현택 회장은 뭐 하는 사람이죠? 중심? 뭘 자꾸 본인이 중심이라는 것인지”라고 적기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시, 추석 연휴 공영주차장 59곳 무료 개방</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/10/IMVZ5DUAGFDSJP37KBIYS247EQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/10/IMVZ5DUAGFDSJP37KBIYS247EQ/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Sep 2024 05:07:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FUSMZSM5WFO55JURKCGOG6WT2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추석 연휴를 앞둔 9일 서울 동대문구 청량리시장이 이용객들로 붐비고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 추석 연휴기간인 14~18일 공영주차장 59곳을 무료로 개방한다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;주요 개방 주차장은 종묘, 동대문(DDP), 수서역, 복정역 등 도심 및 상업지역, 시장 인근 공영주차장 등 59곳이다.&lt;br&gt;&lt;br&gt;상업 지역인 수서역, 사당노외, 복정역, 신천유수지(잠실나루역), 도심외곽에 위치한 천왕역 등 주요 주차장들을 명절 기간 무료 개방해 시민들의 원활한 방문과 더불어 지역경제 활성화를 지원한다.&lt;br&gt;&lt;br&gt;자치구에서도 공영주차장 무료 개방한다. 특히 시장 이용이 원활하도록 다수의 전통시장 인근 공영주차장을 무료로 연다.&lt;br&gt;&lt;br&gt;무료 개방 주차장 정보는 서울시설공단 홈페이지, 네이버 지도, 카카오맵 등에서 확인할 수 있다.&lt;br&gt;&lt;br&gt;윤종장 서울시 교통실장은 “안전하고 쾌적한 주차편의 서비스로 행복한 명절 연휴를 보낼 수 있게 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“나는 중졸” 고백했던 인순이, 67세에 ‘고졸’ 됐다…검정고시 합격</title>
+      <link>https://www.chosun.com/national/people/2024/09/10/7P3LMAVWTREF3AUWAX2D2J7ZTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/10/7P3LMAVWTREF3AUWAX2D2J7ZTM/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Sep 2024 04:48:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QCYGQMYNFNOVTAP2RFDAEWFNLI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;가수 인순이. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 인순이(67·김인순)가 검정고시를 통해 고등학교 졸업 학력을 얻게 됐다고 밝혔다.&lt;br&gt;&lt;br&gt;인순이는 지난 9일 소셜미디어에 “달라진 것 찾기 ^^”라는 글과 함께 자신의 포털사이트 프로필을 게재했다.&lt;br&gt;&lt;br&gt;인순이가 올린 사진을 보면 이전에는 프로필 최종학력이 ‘청산중학교 졸업’이었으나 최근에는 ‘고등학교 졸업 학력 검정고시’로 바뀐 것을 알 수 있다. 인순이는 최근 검정고시에 합격해 고등학교 졸업 인정을 받게 된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;인순이의 검정고시 합격 소식에 뮤지컬 배우 김호영은 “축하드려요!! 멋져요!”라고 댓글을 달았다. 팬들도 “너무 멋지다” “축하드린다” 등의 반응을 보이며 응원했다.&lt;br&gt;&lt;br&gt;인순이는 1957년 흑인 주한미군 아버지와 한국인 어머니 사이에서 태어났다. 어린 시절 홀어머니 밑에서 자란 인순이는 어려운 가정형편 탓에 중학교 졸업 후 고등학교에 진학하지 못하고 생계 활동을 해야 했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVHPV5SLNJM5TFHWJXFNCJGLSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;달라진 인순이의 포털 프로필. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인순이는 한때 포털사이트 프로필에 경기도 포천여자종합고등학교(포천고등학교의 전신)를 졸업한 것으로 기재했으나, 실제로는 경기도 연천 청산중학교가 최종 학력이었다.&lt;br&gt;&lt;br&gt;인순이는 지난 2007년 이 같은 사실을 인정하고 포털사이트 프로필에서 최종학력을 중학교 졸업으로 수정했다.&lt;br&gt;&lt;br&gt;한편 인순이는 1978년 3인조 걸그룹 ‘희자매’로 데뷔한 후 1981년부터 솔로 가수로 활동했다. ‘떠나야 할 그 사람’ ‘밤이면 밤마다’ ‘아름다운 우리나라’ ‘거위의 꿈’ 등의 히트곡을 냈다.&lt;br&gt;&lt;br&gt;인순이의 딸 박세인 양은 미국 명문 스탠포드 대학을 거쳐 글로벌 대기업에 입사해 화제를 모은 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/65Q7QFRNHVD4ZMMV6ESSQVGQRA.jpg?width=576&amp;height=432&amp;auth=87b16fcf60da5c4e90de135d3f8ad06f3809ca76540bd78ab240206f9dcb28e3&amp;smart=true" type="image/jpeg" height="432" width="576">
+        <media:description type="plain">인순이</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>﻿“이재명 왔다갔나?” 묻더니 직원 폭행…평산책방이 밝힌 사건 전말</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/10/UC5U5WBJDBD7DERKALD3C75J3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/10/UC5U5WBJDBD7DERKALD3C75J3A/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Sep 2024 04:51:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/45CLP2N3QJPDJEVKBKEH3ZV4EY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표와 문재인 전 대통령이 8일 경남 양산시 하북면 평산마을 문 전 대통령 사저에서 악수를 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 전 대통령이 퇴임 후 운영하고 있는 경남 양산의 ‘평산책방’ 직원이 폭행당한 사건과 관련 책방 측이 철저한 진상 조사를 요구했다.&lt;br&gt;&lt;br&gt;재단법인 평산책방 이사회는 10일 성명서를 통해 “이재명 민주당 대표가 평산책방을 다녀간 날 문 전 대통령이 책방지기로 있는 평산책방에서 무차별 폭행 사건이 발생했다”며 “범행 수법이 잔인하고 전직 대통령 경호구역 안에서 태연히 범행을 저질렀다는 점에서 우리는 경악하지 않을 수 없다”고 했다.&lt;br&gt;&lt;br&gt;이사회에 따르면, 지난 8일 오후 20대 남성 A씨는 책방 대문을 닫고 퇴근하려던 40대 여직원에게 “오늘 이 대표는 왔다 갔나?” “문 전 대통령을 만나기 전에는 가지 않겠다”고 말했다. 직원이 만류하자 스마트폰을 낚아채 파손하고, 주먹과 발길로 무차별 폭행을 가하기 시작했다고 한다.&lt;br&gt;&lt;br&gt;이사회는 “책방 윗마당에서 시작된 폭력은 아랫마당, 대문 밖, 마을 안길, 길가 주택의 벽, 심지어 길 아래 밭으로까지 이어졌다”며 “두 차례나 직원을 길 밑으로 굴러 떨어트리고 발로 밟아댔다”고 했다. 몇몇 마을 주민이 막아도 폭력은 이어졌고, 여러 주민이 몰려나온 뒤에야 A씨의 행동이 멈췄다며 “8분간 끔찍한 폭행이 자행됐다”고 했다.&lt;br&gt;&lt;br&gt;이사회는 현재 피해 직원의 왼쪽 팔이 부러지고 갈비뼈와 척추뼈가 골절된 상태라고 전했다. 골절된 팔은 절개 후 철심을 박아야 하는 상황이지만 부기가 너무 심해 수술조차 하지 못하고 있다고 했다.&lt;br&gt;&lt;br&gt;이사회는 “우리는 경찰이 이번 사건의 진상을 철저히 밝혀내 한 점 의혹도 남기지 않기를 바란다”며 “경찰의 수사 상황을 하나하나 지켜보고 이에 분명하게 대응할 것”이라고 했다. 이어 “우리는 이 기회에 문 전 대통령을 향해 날아오는 모든 부당한 정치적 음모와 음해를 멈출 것을 요구한다”고 했다.&lt;br&gt;&lt;br&gt;양산경찰서는 상해 혐의로 A씨를 불구속 입건해 조사하고 있다. 평산책방은 통상 오후 6시까지 운영하는데, A씨가 영업시간 이후 책방에 들어오자 직원이 나가달라고 요구하는 과정에서 폭행이 이뤄진 것으로 경찰은 보고 있다.&lt;br&gt;&lt;br&gt;인근 주민이 112에 신고해 경찰이 출동하면서 A씨는 현행범으로 체포됐다. A씨는 횡설수설하면서 난동을 피운 것으로 알려졌다. 현장에 문 전 대통령은 없었다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 8일 경기도에서 양산까지 온 것으로 확인됐다. 체포될 당시 A씨에게서 술 냄새가 많이 났다고 주민들은 전했다.&lt;br&gt;&lt;br&gt;이날 문 전 대통령은 양산에서 이 대표를 만났다. 이 대표의 평산마을 예방은 지난 2월 신년 인사차 방문 후 7개월여 만이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아내 폭행해 숨지게 하고 “자해했다”던 남편… 2심서 징역 9년으로 늘어</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/10/OQIYU2W3ORCXBGRTZHWYAWNUS4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/10/OQIYU2W3ORCXBGRTZHWYAWNUS4/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Sep 2024 04:36:38 +0000</pubDate>
+      <content:encoded>집 안에서 장애인 아내를 수차례 때려 숨지게 한 혐의로 재판에 넘겨진 남편이 2심에서 1심보다 더 무거운 실형을 선고 받았다. 재판부는 “최소한의 인륜마저 저버렸다”고 질타했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CTGM24Z25EX3A2HETGLAQPMMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사8부(재판장 김재호)는 폭행치사 혐의로 기소된 최모(60)씨에게 징역 7년을 선고한 원심을 파기하고 징역 9년을 선고했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;최씨는 작년 12월 3~5일쯤 경기 고양시 아파트 주거지에서 아내 얼굴 부위 등을 수차례 가격해 뇌출혈 등으로 사망에 이르게 한 혐의를 받는다. 단둘이 사는 주거지 안에서 별다른 방범카메라도 없어 피해자의 정확한 사망 이유, 시점 등을 특정하진 못했다.&lt;br&gt;&lt;br&gt;재판 과정에서 최씨 측은 아내가 자해를 해 사망했다는 취지로 주장했다.&lt;br&gt;&lt;br&gt;하지만 1심 및 2심은 아파트 방범카메라, 국립과학수사연구원 부검의 소견, 최씨의 오락가락한 진술 등 여러 정황 증거들을 종합해 최씨가 아내를 때려 뇌출혈 등을 유발해 결국 숨지게 했다고 인정했다.&lt;br&gt;&lt;br&gt;특히 과거에도 최씨가 아내를 자주 폭행해 그로 인해 수회에 걸쳐 형사처벌이나 가정보호사건 송치결정 등을 받은 점도 고려했다. 최씨는 이 사건 직전인 2022~2023년에도 아내를 때린 혐의 등으로 결국 실형을 살고 나온 것으로 조사됐다.&lt;br&gt;&lt;br&gt;당초 1심은 징역 7년을 선고했는데, 2심은 이보다 무거운 징역 9년을 선고했다.&lt;br&gt;&lt;br&gt;2심 재판부는 “피해자는 중증 뇌병변장애를 가지고 있어 이동할 때도 오른손에 지팡이를 짚고 구부정한 자세로 걸을 정도로 거동이 불편했는데, 스스로 사망에 이르게 할 정도로 자신의 얼굴에 반복해 강한 충격을 가한다는 것은 생각하기 어렵다”며 “최씨는 목격자와 방범카메라가 없고 피해자가 장애를 앓고 있다는 점을 악용해 피해자가 치매에 걸려 스스로 자해하다 넘어져 죽었다고 변명하는 등 사망의 원인을 피해자에게 덮어씌우고 있어 일말의 죄책감도 찾아볼 수 없다”고 지적했다.&lt;br&gt;&lt;br&gt;그러면서 “최씨는 (별건인) 특수협박죄 등으로 징역 1년 6개월의 형집행을 마치고 출소한 지 세 달도 지나지 않아 이 사건 범행을 저질렀다”며 “원심이 선고한 형은 너무 가벼워서 부당하다”고 꼬집었다.&lt;br&gt;&lt;br&gt;최씨는 2심 판결에 불복하며 상고장을 제출했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>韓총리, 12일 10시 ‘응급 의료 종합 상황’ 대국민 브리핑</title>
+      <link>https://www.chosun.com/politics/goverment/2024/09/10/SCKVBCJAARDGZOCD3F3LXC7XFQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2024/09/10/SCKVBCJAARDGZOCD3F3LXC7XFQ/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Sep 2024 04:05:44 +0000</pubDate>
+      <content:encoded>정부가 오는 12일 현재의 응급 의료 상황에 관해 설명하는 대국민 브리핑을 한다.&lt;br&gt;&lt;br&gt;국무총리실은 12일 오전 9시 정부서울청사에서 한덕수 국무총리 주재로 의사 집단행동 대응 중앙재난안전대책본부 회의를 하고, 오전 10시부터 ‘응급 의료 종합 상황’을 브리핑한다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;브리핑에서는 한 총리가 현재의 응급 의료 시스템 상황과 추석 연휴 응급 의료 대책을 종합적으로 설명하고, 이와 함께 ‘국민께 드리는 당부 말씀’을 전달할 것으로 알려졌다. 이어서 한 총리와 조규홍 보건복지부 장관, 이상민 행정안전부 장관 등이 언론의 질문에 답한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E7NGA3ZQCFE4HMXIOWH2R36KRE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 16일 정부서울청사에서 한덕수 국무총리가 의대 정원 관련 대국민 담화를 하고 있다. 이날 서울고등법원은 의대생과 교수, 전공의 등이 정부를 상대로 낸 의대 증원 집행 정지 가처분 신청에 대해 기각·각하 결정을 했다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 총리가 의료 개혁과 관련해 브리핑을 하는 것은 지난 5월 16일 이후 약 4개월 만이다. 당시 서울고등법원은 의과대학 학생과 교수, 수험생, 대학병원 전공의가 ‘정부의 2025학년도 의대 입학 정원 증원 및 배분 처분의 효력을 정지해 달라’며 법원에 가처분을 신청한 사건에 대한 항고심에서 기각·각하 결정을 내렸고, 한 총리는 대국민 담화를 통해 “국민 여러분이 감수하는 고통을 송구하게 생각한다”며 “그래도 의료 개혁은 우리가 반드시 가야 할 길”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>7.4조 투입해 인천, 김포 등 출퇴근 30분 단축한다</title>
       <link>https://www.chosun.com/national/transport-environment/2024/09/10/PFCCMDWKCZGU3NHL33GGDGXIKQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/09/10/PFCCMDWKCZGU3NHL33GGDGXIKQ/</guid>
@@ -815,24 +872,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PNY77L4OEY3KNLOMT3R76BEO2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;탁현민 전 비서관. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;탁현민 전 청와대 의전비서관이 8일 밤 자신의 소셜미디어를 통해 문재인 전 대통령 부부 사진을 공유하면서 “누군가 나의 대통령을 물어뜯으면 나도 물어버릴 것”이라고 했다.&lt;br&gt;&lt;br&gt;최근 검찰이 문 전 대통령 일가에 대한 수사에 속도를 내고 있는 것에 대한 반발로 풀이된다.&lt;br&gt;&lt;br&gt;탁 전 비서관은 문 전 대통령과 부인 김정숙 여사가 식사 중 박장대소하는 모습의 사진을 공유하며 “할 수만 있다면 이 웃음을 오래 지키고 싶다”고 했다.&lt;br&gt;&lt;br&gt;이어 “현실정치와 떨어져 있기 때문에 할 수 있는 게 별로 없다”면서도 “해야 한다면 언제든 기꺼이 물겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7OYT6SUPJCAXPON5OBADNMZCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;탁현민 전 비서관이 공개한 문재인 전 대통령과 부인 김정숙 여사의 사진. /페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;탁 전 비서관은 “나의 대통령은 내가 그를 알고 난 후 지금까지 단 한 번도 내게 ‘거짓말’을 하도록 만들지 않았다”며 “이것이 내가 문재인 (전) 대통령을 신뢰하는 이유”라고 했다.&lt;br&gt;&lt;br&gt;탁 전 비서관은 “이런 생각과 글 때문에 또다시 현실정치 언저리로 끌려가더라도 오랫동안 이 웃음을 지키고 싶은 이유가 여기에 있다”고도 했다.&lt;br&gt;&lt;br&gt;한편 검찰은 문 전 대통령의 전 사위이자 딸 문다혜씨의 전 남편인 서모씨의 ‘타이이스타젯 특혜 채용’ 의혹을 수사 중이다. 검찰은 이상직 전 더불어민주당 의원이 중소벤처기업진흥공단(중진공) 이사장에 임명된 대가로 자신이 실소유주인 타이이스타젯 임원으로 서씨를 특혜 채용하고, 다혜씨 가족의 태국 이주를 도왔다고 의심하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘검사 사칭’ 보이스피싱 일당, 경찰에 덜미...텔레그램으로 연락 </title>
-      <link>https://www.chosun.com/national/incident/2024/09/09/OBP4POD42JED3BYBKGDEKB2QAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/09/OBP4POD42JED3BYBKGDEKB2QAI/</guid>
-      <dc:creator>양주=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Sep 2024 01:41:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZLN5HJ2BRERHO2JINHKUA62Q4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금융, 수사기관을 사칭해 피해자들로부터 2억 8000만원을 가로챈 보이스피싱 일당이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 양주경찰서는 사기, 통신사기피해환급법 위반 혐의로 범죄수익금 관리책인 40대 남성 2명 등 4명을 구속 송치하고, 수거책 등 4명을 불구속 송치했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;중국 보이스피싱 조직원들인 이들은 지난 5월 14일 검사를 사칭하거나 저금리 대환 대출을 미끼로 접근해 피해자 6명으로부터 2억 8000만원을 받아 빼돌린 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 피해자들에게 금융기관을 사칭해 “기존 대출보다 저금리인 상품으로 바꿔주겠다”며 피해자들에게 접근했다. 또 서울중앙지검 검사라고 사칭해 범죄에 연루됐으니 처벌을 피하기 위해선 돈을 지정된 통장으로 입금하라는 수법을 쓰기도 했다. 이들은 대포통장을 통해 범죄수익금을 세탁하고, 가상화폐로 환전한 뒤 중국 조직에 전달한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특히 이들은 경찰 수사를 피하기 위해 조직원들끼리 텔레그램으로만 연락했다. 경찰은 현금 인출책을 먼저 붙잡은 후 전자정보와 방범카메라를 추적해 일당을 순차적으로 검거했다. 경찰은 추가 피해자들이 있을 것으로 보고 중국 보이스피싱 조직에 대한 수사를 확대할 계획이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>폭염에 추석 상차림 비용 7~8%↑, 전통시장이 대형마트보다 5만원 저렴</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/09/S2YWSQ2TQVFQDDT3AM24RT75KU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/09/S2YWSQ2TQVFQDDT3AM24RT75KU/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Sep 2024 02:25:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NPRODS642RP2NJ2MYBPEDOI4QI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;추석연휴를 일주일 앞둔 8일 오후 서울 종로구 광장시장에서 고객들이 추석 제수용품을 구매하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 추석 상차림 비용이 전통시장은 24만원, 대형마트는 29만원 수준으로 나타났다. 작년에 비해 7~8%가량 올랐다. 과일은 대형마트가, 채소·육류는 전통시장이 저렴했다.&lt;br&gt;&lt;br&gt;서울시농수산식품공사는 9일 추석 차례상 차림 비용을 발표했다. 서울 내 대형마트, 전통시장 25곳을 대상으로 조사한 결과다.&lt;br&gt;&lt;br&gt;올해 대형마트 상차림 비용은 평균 28만8727원으로 나타났다. 전년대비 8.7% 올랐다. 전통시장 구매비용은 평균 24만785원이다. 작년에 비해 7.4% 상승했다.&lt;br&gt;&lt;br&gt;대형마트는 대체로 사과·배 등 과일류, 청주·식혜 등 가공식품이 전통시장에 비해 저렴했다. 그 외 채소·육류 등은 전통시장의 가격이 쌌다.&lt;br&gt;&lt;br&gt;작년에는 냉해 피해로 사과, 배 가격이 폭등했는데 올해 가격은 안정세를 보이고 있다. 축산물은 도축 마릿수 증가 등으로 전년 대비 시세 하락을 예상하고 있다.&lt;br&gt;&lt;br&gt;반면 무, 시금치 등 일부 채소 품목이 폭염 등 기상악화로 생육이 좋지 못해 가격 상승세를 보이고 있다. &lt;br&gt;&lt;br&gt;참조기도 최근 어획량이 급감하며 시세가 오르는 추세다. 다만 서울시 관계자는 “정부가 추석을 앞두고 참조기, 고등어, 갈치 등 1만2560톤을 공급할 예정이라 추석 성수기 공급은 안정적일 것으로 보고 있다” 말했다.&lt;br&gt;&lt;br&gt;한편 가락시장 가락몰에서는 추석을 맞아 온누리상품권 증정 행사를 진행하고 있다. 총 311개 점포에서 3만4000원 이상 구매시 1만원, 6만7000원 이상 구매시 2만원 상품권을 받을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>결혼 열흘 만에 가출한 베트남 아내, 노래방서 잡히자 한 말은</title>
       <link>https://www.chosun.com/national/national_general/2024/09/09/JGPHV25SMJDXPOL4NMBPXJ4E7E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/09/JGPHV25SMJDXPOL4NMBPXJ4E7E/</guid>
@@ -857,15 +896,6 @@
       </media:content>
     </item>
     <item>
-      <title>임관혁 서울고검장, 검찰 떠나며 “인지 수사 최소화해야”</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/09/PFE3RWGXBBBLBCP5M3IK3PPBWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/09/PFE3RWGXBBBLBCP5M3IK3PPBWI/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Sep 2024 02:07:48 +0000</pubDate>
-      <content:encoded>검찰을 떠나는 임관혁(58·사법연수원 26기) 서울고검장이 “검찰이 인지 수사는 최소한의 영역으로 줄이고 일반 형사사건 처리, 보완수사, 사법통제에 집중해야 한다”고 당부했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ENNWOPRH3JMMUUJ2OGM5U6SEHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임관혁 서울고검장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임 고검장은 9일 오전 검찰 내부망 이프로스에 올린 사직 인사에서 이 같이 밝혔다. 임 고검장은 “지금 검찰은 과부하에 걸려 있다”면서 “다양한 영역에서 크고 작은 인지 수사를 벌이고 있고, 경찰에서 송치된 사건의 처리와 사법통제 업무도 쌓여있으며 공판 부담도 점점 늘고 있다”고 했다. 그러면서 “수사와 공판 모두 전보다 많이 지연되고 있어 사건 당사자들이 힘들어하고 있고, 사건의 실체를 밝히기 더 곤란해졌다”고 했다.&lt;br&gt;&lt;br&gt;임 고검장은 “(검찰이) 언제까지 버텨낼 수 있을지 회의적”이라면서 “아무리 노력해도 모든 걸 잘할 수는 없으며, 때론 과감히 내려놓는 지혜와 용기도 필요하다”고 했다. 그는 “인지 수사는 검찰에 보다 적합한 부패와 금융 등 필요 최소한의 영역으로 줄여야 한다”면서 “그러면 신속한 사건 처리도 어느 정도까지는 가능해질 것”이라 했다. 이어 “해답은 의외로 단순한 곳에 있으며 문제는 실천”이라면서 “지혜와 경륜을 겸비한 신임 검찰총장님과 합심해 여러 난관을 슬기롭게 잘 헤쳐나갈 거라 믿는다”고 덧붙였다.&lt;br&gt;&lt;br&gt;임 고검장은 “검찰에서 어느덧 27년 6개월을 보냈다”면서 “다른 길을 택했으면 어땠을까. 잘 모르겠지만, 이 길이 아니었다면 경험하지 못했을 일과 보람이 있었고 인연과 추억이 있었기에 후회하지 않는다”고 했다. 그는 끝으로 나태주 시인의 시 ‘안부’를 덧붙였다. 시 전문은 다음과 같다. ‘오래 / 보고 싶었다. // 오래 / 만나지 못했다. // 잘 있노라니 / 그것만 고마웠다’.&lt;br&gt;&lt;br&gt;한편 임 고검장은 지난달 심우정 검찰총장 후보자 등과 함께 차기 검찰총장 후보로 올랐다. 임 고검장은 연수원 동기인 심 후보자가 검찰총장 후보자로 지명된 뒤인 지난 3일 법무부에 사의를 표했다. 그는 검찰 재직 시절 대표적 ‘특수통’으로 분류됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>차단기 열리면 나가다 슬쩍 후진…주차비 140만원 떼먹은 공무원들</title>
       <link>https://www.chosun.com/national/national_general/2024/09/09/5LOKIP3Y5FC7XHPKV7YOVAX5WY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/09/5LOKIP3Y5FC7XHPKV7YOVAX5WY/</guid>
@@ -875,27 +905,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4PDXB3VCTTJYSQWBDG4RUM52A4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 지하주차장 입구.(기사와는 직접 관련 없음) /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장기간 요금을 내지 않고 편법으로 유료주차장을 이용한 김포시 공무원들이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;10일 경찰 등에 따르면 경기 김포경찰서는 최근 김포시 공무원 A씨 등 2명을 편의시설 부정이용 혐의로 불구속 입건했다.&lt;br&gt;&lt;br&gt;A씨 등은 올해 초부터 지난 7월까지 김포시의 한 유료주차장에서 요금을 내지 않은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이들은 주차장 입구로 들어갔다가 그대로 출구로 향한 뒤 차단기가 열리면 나가지 않고 후진으로 돌아와 주차장을 이용한 것으로 조사됐다. 출구 차단기가 ‘회차’ 차량으로 인식해 열린 뒤에는 주차장 이용 시간과 상관없이 요금이 부과되지 않는 점을 악용한 것이다. 이들이 이런 수법으로 내지 않은 주차 요금은 총 140만원에 이르는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이들의 행각은 주차장 주인이 경찰에 고소장을 접수하면서 드러났다.&lt;br&gt;&lt;br&gt;김포시는 자체 조사를 통해 입건된 2명 외에 또 다른 7명의 김포시 공무원도 같은 혐의로 경찰 조사를 받는 것으로 파악하고 수사 결과에 따라 징계 여부를 논의할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>법원 “지배적 노조 자동 가입 ‘유니언 숍’ 조항, 소수 노조 차별·부당노동행위 아냐”</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/09/7KLOI54YTFEKHDX4MXAWY7FXRY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/09/7KLOI54YTFEKHDX4MXAWY7FXRY/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Sep 2024 02:02:39 +0000</pubDate>
-      <content:encoded>본인의 의사와 관계없이 입사하면 지배적 노동조합(노조)에 자동 가입하도록 한 이른바 ‘유니온 숍(Union Shop)’ 체결이 소수 노조에 대한 차별이자 부당노동행위가 아니라는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/COCQ6OUU55ER5BQPAQDEUOAUBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울가정법원·서울행정법원 청사. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 법조계에 따르면 서울행정법원 행정12부(재판장 강재원)는 최근 한국노동조합총연맹(한노총) 산하 한국공공사회산업노동조합 한국철도공사노동조합본부가 중앙노동위원회 위원장을 상대로 제기한 부당노동행위 구제 재심 판정 취소 소송에서 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;2017년 2월 설립된 조합원 수 약 2300명의 노조인 원고는 2022년 12월 한국철도공사가 근로자의 3분의 2 이상이 가입한 전국민주노동조합총연맹(민노총) 산하 전국철도노동조합과 단체협약을 체결하면서 입사와 동시에 자동으로 해당 노조에 가입되는 ‘유니언 숍’ 조항을 포함한 건 부당노동행위라고 주장하며 서울지방노동위원회에 구제 신청을 했다.&lt;br&gt;&lt;br&gt;그러나 서울지방노동위원회와 중앙노동위원회가 모두 이를 부당노동행위가 아니라며 기각하자 2023년 6월 소송을 제기했다. &lt;br&gt;&lt;br&gt;재판 과정에서 원고는 “유니온 숍 체결을 허용하는 노동조합법 제81조 제1항 제2호 단서 조항으로 인해 지배적 노조는 갈수록 거대해지고 소수 노조는 상대적으로 조직 확대가 어려운 실정”이라며 “소수 노조의 단결권을 제약하고 합리적 이유 없이 차별하는 것으로 부당노동행위이자 위헌”이라는 취지로 주장했다.&lt;br&gt;&lt;br&gt;하지만 법원은 원고의 단결권 등은 침해되지 않는다는 이유 등으로 이 같은 주장을 물리쳤다. 그러면서 앞서 대법원이 2019년 유니온 숍 규정에 근거해 소수 노조에 가입한 근로자를 무조건적으로 해고하는 것은 부당하다는 판단을 내리는 등 복수노조 체계 하에서 소수 노조의 단결권이 보장되고 있다는 점도 언급했다.&lt;br&gt;&lt;br&gt;재판부는 “해당 단서 조항은 노조가 획득한 근로조건 이익에 비조합원이 무임승차하는 것을 방지하기 위한 것인데 2022년 기준 우리나라의 노조 가입률이 불과 13.1%로 높지 않다는 점에 비춰 보면 노조 조직강제의 필요성은 여전히 인정된다”며 “노조에 적극적으로 가입할 의사가 없는 근로자에게 지배적 노조에 일단 가입하도록 해 노조 조직을 확대하고, 단결력과 단체교섭력을 강화해 더 대등한 노사자치 질서를 형성하는 것으로 목적의 정당성을 인정할 수 있다”고 판단했다.&lt;br&gt;&lt;br&gt;이어 “지배적 노조에서 제명된 경우만이 아니라 탈퇴해 새로운 노조를 조직하거나 다른 노조에 가입하는 경우에도 그 근로자에 대해 해고 등 신분상 불이익을 줄 수 없도록 해 근로자의 노조 선택의 자유 및 소수 노조의 단결권 제한을 최소화했다”고 설명했다.&lt;br&gt;&lt;br&gt;한편 원고 측은 이 판결에 불복해 항소하진 않았지만, 헌법소원을 낸 것으로 확인됐다. 행정법원 관계자는 “원고가 (이 조항 관련) 헌법소원도 제기해 헌법재판소에서 이와 관련한 판단을 받게 될 것으로 보인다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>또래 여학생 사진으로 딥페이크 성착취물 제작한 10대</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/09/LDI2FDMYUNEHJGXOT5QK34C64Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/09/LDI2FDMYUNEHJGXOT5QK34C64Y/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Sep 2024 01:58:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3LFQWT63QRF76QSZAD7W65KDCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주경찰청 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또래 여학생들이 사회관계망서비스(SNS)에 올린 사진을 이용해 딥페이크 기술로 성착취물을 제작한 10대가 검거됐다.&lt;br&gt;&lt;br&gt;광주경찰청은 9일 “10대 여학생 20여 명 사진을 딥페이크 기술로 합성해 성착취물을 제작한 혐의(아동·청소년 성 보호에 관한 법률 위반)로 10대 A군을 검찰에 송치했다”고 밝혔다.&lt;br&gt;&lt;br&gt;A군은 지난해 6월부터 올해 8월까지 같은 학교 피해자들의 SNS 사진을 이른바 ‘텔레그램 봇’으로 합성해 성착취물을 만들고 자신의 휴대전화에 보관한 혐의를 받고 있다. 텔레그램 봇은 인공지능 기술을 이용해 사진이나 영상을 합성할 수 있는 프로그램이다.&lt;br&gt;&lt;br&gt;경찰은 피해자들의 신고를 받고 수사에 착수해 A군의 휴대전화에서 20여 명에 대한 딥페이크 성착취물 등을 확보했다. 성착취물을 유포한 사실은 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;광주경찰은 딥페이크 범죄 전담 수사팀인 ‘허위영상물 범죄 근절 TF(태스크포스)’를 구성하고 관련 범죄에 대한 수사를 하고 있다. 광주경찰은 A군 외에도 4건에 대한 딥페이크 사건을 수사 중이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “딥페이크 피해를 입거나 목격한 경우 수사기관에 신고해달라”며 “피해자나 제보자의 신원을 철저하게 보호하고 피의자 검거 시에는 보상금도 지급할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/3LFQWT63QRF76QSZAD7W65KDCU.jpg?width=719&amp;height=516&amp;auth=6e2d3936192cf73dd9ba09229343cb0ee44171c03d5c2d649cdad18241fd3a84&amp;smart=true" type="image/jpeg" height="516" width="719">
-        <media:description type="plain">광주경찰청 전경</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>文 평산책방서 직원 때린 20대男 현행범 체포</title>
       <link>https://www.chosun.com/national/2024/09/09/AXOOJKSZTNBOZFX66H7ZNUA5UA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/09/09/AXOOJKSZTNBOZFX66H7ZNUA5UA/</guid>
@@ -903,22 +912,6 @@
       <description/>
       <pubDate>Mon, 09 Sep 2024 01:47:22 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NZOHZYWPOZND5CJKJYI5LXV7KE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 4월 문재인 전 대통령이 책방지기로 일하는 '평산책방'에서 앞치마를 착용하고 밝은 표정을 짓고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 전 대통령이 퇴임 후 운영하고 있는 경남 양산의 ‘평산책방’에서 20대 남성이 직원을 때리는 사건이 발생했다.&lt;br&gt;&lt;br&gt;양산경찰서는 상해 혐의로 20대 A씨를 불구속 입건했다고 9일 밝혔다. A씨는 지난 8일 오후 7시쯤 경남 양산시 평산마을 내 평산책방에서 40대 여성 직원 B씨를 폭행한 혐의를 받는다.&lt;br&gt;&lt;br&gt;평산책방은 통상 오후 6시까지 운영하는데, A씨가 영업시간 이후 책방에 들어오자 B씨가 “영업이 끝났으니 나가달라”고 요구하는 과정에서 폭행이 이뤄진 것으로 경찰은 보고 있다.&lt;br&gt;&lt;br&gt;A씨는 또 횡설수설하면서 난동을 피운 것으로 알려졌다. 현장에 문 전 대통령은 없었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;인근 주민이 112에 신고해 경찰이 현장에 출동하면서 A씨는 현행범 체포됐다. 현재 유치장에 입감된 상태다. &lt;br&gt;&lt;br&gt;조사결과 A 씨는 이날 경기도에서 양산까지 온 것으로 확인됐다. 체포될 당시 인근 주민들에 따르면 A씨에게 술 냄새가 많이 난 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “현재까지 구체적인 피의자 조사가 이뤄지기 전으로, 당적 등을 확인했지만 정치적 목적으로 방문한 정황은 없다”면서도 “오늘 오전 중 A씨를 상대로 정확한 사건 경위를 조사할 계획이다”고 말했다.&lt;br&gt;&lt;br&gt;한편, 이날 문 전 대통령은 양산 사저에서 이재명 더불어민주당 대표를 만났다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이원석 “현명하지 못한 처신, 곧바로 처벌 대상 되는 건 아냐”</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/09/BL3MH2VWE5EIPDKCA67TVZUH54/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/09/BL3MH2VWE5EIPDKCA67TVZUH54/</guid>
-      <dc:creator>유희곤 기자, 이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Sep 2024 00:11:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQDLEC52QNM3ZHJKDONN6QAAJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이원석 검찰총장이 9일 오전 서울 서초구 대검찰청으로 출근하며 취재진의 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이원석 검찰총장이 지난 6일 ‘디올백 수수’ 의혹 사건과 관련해 윤석열 대통령 배우자 김건희 여사를 불기소할 것을 권고한 검찰수사심의위원회(수사심의위) 결정에 대해 “대통령께서도 언론을 통해 현명하지 못한 처신이라고 언급하신 것으로 알고 있다. 그러나 현명하지 못한 처신, 부적절한 처신, 바람직하지 못한 처신이 곧바로 법률상 형사처벌 대상이 되거나 범죄 혐의가 인정되는 게 아니라는 점을 많이 고민했다”고 말했다.&lt;br&gt;&lt;br&gt;이 총장은 9일 서울 서초구 대검찰청 출근길에 취재진을 만나 “(그래서) 검찰의 결론만이 아니라 외부 민간 전문가들의 숙의를 거쳐야겠다는 판단을 하게 된 것”이라며 “외부 전문가들의 의견에 대해 존중해 줄 필요가 있다”고 했다. 이 총장은 “저는 국민들로부터 이 사건 수사와 처리에 대해 평가를 받아야 할 위치에 있다”며 “(수사 과정과 절차에 있어서) 국민들께서 보시기에 기대에 미치지 않았다고 한다면 그것은 모두 검찰총장인 제 지혜가 부족한 탓”이라 했다. 이어 “제가 총장으로서 이 사건 처리와 관련해 어려운 점도 많이 있었다”며 “다른 것은 보지 않고 증거와 법리에 따라서만 처리하기 위해서 애쓰고 노력했다는 점은 여러분들께 말씀드릴 수 있다”고 했다.&lt;br&gt;&lt;br&gt;이 총장은 수사심의위에 대해 “전원 외부의 민간 전문가로 구성된 독립적인 위원회”라며 “수사심의위 구성부터 운영 결정과 공보까지 일체 관여하지 않고 수사심의위에서 독립적으로 결정하도록 독립성을 보장했다. 앞서 이태원 참사 때의 수사심의위도 그렇고 이번 수사심의위 결정에 대해서도 미리 제가 그 결정을 존중하겠다 말씀드린 바 있다”고 말했다. 이 총장은 수사심의위 결론을 놓고 검찰 안팎에서 비판이 나오는 것에 대해 “검찰에 미리 마련된 모든 제도를 이번에 다 활용해서 썼다”며 “내 결론에 맞지 않는다고 해서 과정과 절차를 모두 없애야 한다고 한다면 법치주의나 수사 진행과 사건을 처분하는 과정에서 미리 정해진 절차는 의미가 없게 된다” 했다.&lt;br&gt;&lt;br&gt;이 총장은 또 “개인적으로 이번 기회에 공직자의 배우자에 대해서도 법령을 정확하게 보완·정비해서 입법을 충실하게 정리하는 것이 필요하다고 생각한다”고 했다. 현행 청탁금지법상 공직자 배우자의 금품 수수를 처벌할 조항이 없는 점을 가리킨 것으로 풀이된다. 이번 사건과 관련해 수사팀이 김 여사를 검찰청이 아닌 대통령실 경호처 건물에서 조사하는 등 수사 과정에서 불거진 논란에 대해선 “문제가 없었는지 짚어보고 문제가 있었다면 다시는 되풀이되지 않도록 상당하는 진상 파악과 조치가 이뤄질 것”이라고 말했다.&lt;br&gt;&lt;br&gt;한편, 이 총장은 김 여사의 ‘도이치모터스 주가조작 의혹’에 대한 수사에 대해선 “도이치모터스 사건은 최종 사실심인 항소심 판결이 이번 주중(12일)에 예정되어 있다”며 “항소심 판결 결론을 세밀하게 살펴서 충분하게 검토한 다음 수사 전반에 반영해서 다른 고려 없이 증거와 법리에 따라 처리할 것”이라고 했다. 이어 “제 임기가 이번 주에 끝나기 때문에 제가 종결하기는 어려울 것이라고 생각된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RUQVRG3QEZMLFLVRNZGNOY7GHA.jpg?width=5736&amp;height=3875&amp;auth=138d2839d24d60819b20d48726a051427bdda47f698ac4595adeca77837002e3&amp;smart=true" type="image/jpeg" height="3875" width="5736">
-        <media:description type="plain">&lt;YONHAP PHOTO-3807&gt; 질문에 답하는 이원석 검찰총장
-    (서울=연합뉴스) 김성민 기자 = 이원석 검찰총장이 9일 오전 서울 서초구 대검찰청으로 출근하며 취재진의 질문에 답하고 있다. 2024.9.9
-    ksm7976@yna.co.kr/2024-09-09 09:30:58/
-&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">김성민</media:credit>
-      </media:content>
     </item>
     <item>
       <title>성매매 영상·후기 올려 업소 홍보...온라인 유명인 ‘검은 부엉이’ 구속</title>
