@@ -13,6 +13,43 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘강릉대교 사고’ 유발한 20대 ‘음주운전’...면허취소 수준 </title>
+      <link>https://www.chosun.com/national/incident/2024/09/11/BUCFS63LU5EK7KDFJ2M2AUH3Q4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/11/BUCFS63LU5EK7KDFJ2M2AUH3Q4/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Sep 2024 12:53:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PWZY4Y53NRDPFNZV47TNQJGFY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오전 6시 36분쯤 강원 강릉시 홍제동 강릉대교에서 A(77)씨가 몰던 1t트럭이 15m다리 아래로 추락하는 사고가 발생했다. 트럭은 추락과 함께 불이 붙었으며 이 사고로 A씨 등 2명이 숨졌다. /강원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 3일 강릉대교에서 2명이 숨진 차량 추돌 사고를 최초 유발한 20대 운전자가 음주 상태였던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;강릉경찰서는 쏘렌토 승용차 운전자 20대 A씨의 혈액을 채취해 국립과학수사연구원(국과수) 검사를 의뢰한 결과 혈중알코올농도가 ‘면허 취소’ 수치 이상이 나왔다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 3일 오전 6시 36분쯤 강원 강릉시 홍제동 강릉대교에서 교통사고를 유발해 70대 트럭 운전자 등 2명을 숨지게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰에 따르면 사고 당시 A씨가 몰던 쏘렌토 승용차가 앞서가던 QM6 승용차와 추돌한 뒤 마주 오던 포터 트럭과 잇따라 부딪혔다.&lt;br&gt;&lt;br&gt;이 사고로 트럭 운전자 B씨와 동승자 C씨 등 2명이 숨지고, 나머지 승용차 탑승자 등 3명이 다쳤다. A씨는 교통사고처리 특례법상 치사 혐의로 입건돼 조사받고 있다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 병원 치료가 끝나는 대로 정확한 사고 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 37도... 내일 비 온 뒤 ‘가을 폭염’ 1주일 더</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/09/11/5EUMQNNUJ5CGPL6T7TRAM5MPMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/09/11/5EUMQNNUJ5CGPL6T7TRAM5MPMQ/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Sep 2024 11:22:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2OM236QBBIBDAORXPV7SCH7GE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;가을 폭염이 이어진 11일 오후 서울 광화문네거리에서 관광객들이 양산과 얼음커피를 들고 걸음을 옮기고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;티베트 고원 열기로 9월 중순에도 더위가 맹위를 떨치고 있다. 대기 상층을 덮고 있는 티베트 고기압과 남쪽에서 불어오는 뜨겁고 축축한 바람의 영향으로 11일 ‘가을 폭염’이 절정에 달했다. 찬 북풍이 서서히 내려오는 19일까지 ‘더운 가을’은 계속될 전망이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 11일 서울 전역에서 낮 최고기온이 한여름 수준인 35도 내외로 올라갔다. 강서구는 한낮 수은주가 37.1도까지 치솟았고, 마포구(36.8도)·광진구(36.7도) 역시 37도 가까이 기온이 올랐다. ‘서울 최고기온’의 공식 기록으로 삼는 종로구(송월동)는 이날 34.6도를 기록해 최고 기록(1939년·35.1도)을 깨진 못했지만, 다른 지역에서 37도를 넘긴 만큼 사실상 가장 더운 9월을 보낸 셈이다. &lt;b&gt;인천(34.4도), 경기 수원(33.9도), 강원 영월(35도), 전북 정읍(36.1도) 등 전국 10곳에서는 이날 9월 최고기온 기록이 경신됐다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;질병청은 이날 “10일 전국 507개 응급실에 온열 질환자 47명이 들어왔고, 이 중 한 명이 사망했다”고 발표했다. 가을철에 온열 질환 사망자가 나온 것은 이례적이다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;한여름 더위가 9월 중순까지 이어지는 건 예년보다 티베트 고기압의 세력이 강하게 발달했기 때문이다. 보통 9월이 되면 한반도 상공을 덮고 있던 티베트 고기압이 서서히 물러나면서 찬 북풍(北風)이 내려오는 길이 열린다. 그런데 11일 기준 우리나라 대기 상층은 티베트 고기압 끝자락에 여전히 걸려 있다. 고기압에 가로막혀 북쪽 찬 바람이 잘 내려오지 않고 있다.&lt;br&gt;&lt;br&gt;티베트 고기압은 티베트 고원에서 올라오는 열기로 인해 발생한다. 온난화 여파로 고원의 열기가 예년보다 더 뜨거워지며 고기압 세력 역시 강하게 발달한 것으로 분석된다. 최근 중국에 상륙한 11호 태풍 ‘야기’가 북상 과정에서 뜨거운 공기를 티베트 고원 쪽으로 밀어넣은 것도 9월까지 고기압 세력이 강하게 유지되는 원인으로 작용했다.&lt;br&gt;&lt;br&gt;여기에 10~11일에는 우리나라 남쪽에서 발달한 열대 저압부(태풍 전 단계)와 북태평양 고기압 사이에서 고온 다습한 남동풍까지 불어오며 기온을 크게 높였다. 대기 상층은 티베트 고기압이 건재하고, 중·하층으로는 열풍이 들어오며 사실상 한여름 폭염 때와 같은 모습이 만들어진 것이다. 이 영향으로 10일 밤에서 11일 아침 사이 전국 곳곳에서 열대야(밤 최저기온 25도 이상)가 발생했다. 서울은 역대 가장 늦은 열대야 기록을 경신했고, 제주는 올 누적 열대야가 65일로 늘어나며 역대 1위 기록을 새로 썼다.&lt;br&gt;&lt;br&gt;12일에는 열대 저압부가 중국 내륙으로 올라가면서 고온 다습한 남동풍의 공급이 중단되고, 비구름대를 동반한 기압골의 영향으로 전국에 비가 내리며 더위가 주춤할 것으로 예상된다. 12~13일 예상 강수량은 수도권·강원도·충청권 20~60㎜, 전라·경상권 5~40㎜다. 제주는 11~12일엔 30~80㎜의 비가, 13일엔 5~40㎜의 소나기가 올 전망이다.&lt;br&gt;&lt;br&gt;그러나 가을 폭염의 ‘절정’만 지나갈 뿐 더위가 완전히 가시는 것은 아니다. 기상청은 추석 연휴를 포함해 18일까지 최고기온이 33도 내외로 오르며 덥겠다고 예상했다. 이어 19일을 전후해 북쪽에서 찬 바람이 내려오며 ‘가을의 문턱’에 가까워질 전망이다. 다만 13호 태풍 ‘버빙카’가 ‘더운 가을’에 변수다. ‘버빙카’는 16일쯤 일본 오키나와와 중국 상하이 사이 바다에 도달할 것으로 예상되는데, 태풍이 이동하며 우리나라로 고온 다습한 공기를 불어넣을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>작전명 ‘마약’... 경찰, 인터폴 공조해 동남아 마약조직 소탕</title>
+      <link>https://www.chosun.com/national/2024/09/11/4IM5ZTF4G5GYDFS7SORIJDDUVE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/09/11/4IM5ZTF4G5GYDFS7SORIJDDUVE/</guid>
+      <dc:creator>주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Sep 2024 11:22:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6PC26NUUCNN4DGSYAPMBLZ5TJM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;조지호 경찰청장이 10일 오전 서울 세빛섬에서 열린 '2024 국제 마약수사 콘퍼런스(ICON)'에서 참석자와 대화를 나누고 있다./뉴스1
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 경찰이 인터폴(국제형사경찰기구)와 공조해 동남아시아 국제 마약 조직을 소탕하고 1조4000억원 상당의 마약을 압수했다고 경찰청이 11일 밝혔다. 한국 경찰이 인터폴과 협력해 국제 마약 범죄를 적발한 것은 이번이 최초로, 유통 규모 역시 역대 최대급이다.&lt;br&gt;&lt;br&gt;경찰청은 지난 7월 22일부터 16일간 국내에 유입되는 마약류의 주요 생산지인 이른바 ‘골든트라이앵글(미얀마·라오스·태국 접경 지역)’에서 인터폴과 함께 국제 공조 작전을 수행, 마약 사범 29명을 검거했다고 밝혔다. 이번 작전에는 한국을 비롯해 미국·미얀마·베트남·태국·캄보디아·호주 등 총 7국 수사기관이 참여했다. 합동 수사단은 마약류 총 58개(인터폴 추산 총 1조4000억원)를 압수했다고 한다. ‘클럽 마약’으로 불리는 케타민 등 신종 마약 1.5t도 포함됐다.&lt;br&gt;&lt;br&gt;인터폴 수사망이 골든트라이앵글에 집중된 이유는 이 지역이 한국에 마약을 유통하는 주요 거점이라고 판단한 경찰청의 특별 요청이 있었기 때문이다. 경찰청은 이번 공조 작전을 사실상 주도하며 참여국과 실시간으로 정보를 교환했다. 그 결과 태국에서 국내로 마약류를 공급하던 한국인 피의자 1명을 검거했다. 필로폰 16㎏을 상업용 음식 믹서에 위장해 밀수하려던 이 피의자를 검거하면서 작전은 급물살을 탔다. 한국 경찰청이 수사를 주도하면서 인터폴 작전명에 한국어 ‘마약’이 채택되기도 했다.&lt;br&gt;&lt;br&gt;경찰청 관계자는 “국제 공조 작전은 참여한 국가들이 관련 첩보나 단서를 교환하고, 이를 토대로 각 국가에서 수사망을 좁혀가며 전개된다”며 “태국에 구금 중인 한국인 피의자를 국내로 송환할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>북한산 바위틈 왜 쓰레기 투성인가 했더니?</title>
+      <link>https://www.chosun.com/national/people/2024/09/10/5VF6CUCHBZDXHBITSIXDXR2JCQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/10/5VF6CUCHBZDXHBITSIXDXR2JCQ/</guid>
+      <dc:creator>정병선 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Sep 2024 06:59:12 +0000</pubDate>
+      <content:encoded>“산에서 행복을 누리려면 산을 자신의 몸처럼 보호하고 관리해야 합니다.”&lt;br&gt;&lt;br&gt;석채언(63·혜초여행사 대표) 서울시산악연맹회장은 지난 7일 북한산 국립공원 일대에서 직원들과 함께 ‘클린마운틴’ 캠페인을 펼쳤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BQITNZTD7RFDJG5Y2WGAUWFJ3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북한산 국립공원에서 자연환경 보호 캠페인을 벌이고 있는 석채언 서울시산악연맹회장. /서울시산악연맹&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그는 혜초여행사 임직원 52명, 서울시산악연맹 직원 20명과 함께 백운대 탐방 지원센터와 도봉산 탐방 지원센터 입구에서 등산객에게 직접 제작한 클린백과 집게를 배포하며 환경보호의 중요성을 알리는 동시에 직접 쓰레기 줍기 참여를 유도했다.&lt;br&gt;&lt;br&gt;석 회장과 행사 참여자들은 3000개의 친환경 클린백을 배포한 뒤 북한산 팀과 도봉산 팀으로 나눠 직접 쓰레기 줍기에 나섰다. 북한산 팀은 북한산 영봉 능선 코스, 도봉산 팀은 북한산 둘레길 18~20구간에서 환경 정화 산행을 했다.&lt;br&gt;&lt;br&gt;이날 행사는 산을 찾는 등산객 모두가 깨끗한 자연환경을 누리며 다 같이 행복을 느끼자는 취지에서 시작했다. 한편으론, 국립공원관리공단이나 지방자치단체에서 쓰레기를 버리지 못하도록 산행지에 쓰레기통을 없애는 바람에 오히려 보이지 않는 곳에 쓰레기를 버리는 등산객들로 산이 병들어 가는 것을 막자는 의도이기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IPEO3H4ALZBADLC42ADISBX2QU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;석채언 회장과 서울시산악연맹-혜초여행사 직원들이 클린백을 나눠주며 환경운동 동참을 유도하고 있다. /서울시산악연맹&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;석 회장은 평소 이런 문제점 해결에 골몰하던 중 배낭에 묶어 사용할 수 있고 음식물 쓰레기까지 담을 수 있도록 방수 처리된 클린백을 제작해 배포하는 아이디어를 냈다. 클린백은 물에 씻어 산행 때마다 사용 가능하도록 했다.&lt;br&gt;&lt;br&gt;산악인 출신 석 회장은 “평소 산에 오를 때마다 쓰레기를 보면 마음이 불편해져 보이는 대로 배낭에 주워담는 습관이 생겼다”며 “우리가 걷는 등산로는 깨끗하게 보이지만 등산로에서 조금만 눈을 돌리면 비닐과 플라스틱병이 곳곳에 버려져 있는 게 현실이다”고 했다.&lt;br&gt;&lt;br&gt;그는 “한번 산에 다녀간다는 생각을 접고 쓰레기를 버리면 안 된다는 기본 의식을 가지는 것이 중요하지만, 공단이나 지자체에서도 쓰레기를 분리수거할 수 있는 기본적인 시설을 갖추는 것이 바람직하다”고 했다. 석 회장은 “쓰레기를 집으로 가져간다는 것은 현실적으로 어려움이 있는 만큼 하산 때까지 배낭에 넣어와 버리도록 하는 것이 가장 무난한 방법이다”고 했다.&lt;br&gt;&lt;br&gt;그는 “스위스 몽블랑이나 호주 태즈메이니아 등 유명 트레킹 현장을 가면 산에서 버리지 못한 쓰레기를 하산 때 들고 와 등산객이 산 입구에서 분리 수거하는 모습을 볼 수 있다”며 “우리나라는 이런 시설을 갖추지 않고 무조건 쓰레기를 그냥 들고가라고 하는 입장이라 여러 가지 문제점이 드러나고 있다”고 지적했다.&lt;br&gt;&lt;br&gt;이러다 보니 산행할 때 바위틈에 버리거나, 하산 후 지하철 휴지통에 버리거나, 또는 화장실에 쓰레기를 버리는 악순환이 거듭하고 있다는 것이다. 국립공원에는 공단 측이 쓰레기 되가져가기 운동을 펼치며 지난 2007년 쓰레기 수거함이 사라졌다.&lt;br&gt;&lt;br&gt;석 회장은 트레킹 문화탐방 전문 여행사를 운영하며 국내 트레킹 족의 해외 탐방을 주도해왔다. 히말라야를 비롯한 오지 곳곳에 트레킹 코스에 연 3만 명 정도를 보내면서 자연보호를 일성으로 내세운다.&lt;br&gt;&lt;br&gt;그는 “서울시산악연맹 수장이자 트레킹과 문화역사 탐방을 전문으로 하는 여행사 대표로서 책임감을 느낀다”며 “세계 곳곳의 산과 바다를 누비며 자연으로부터 큰 혜택을 받고 있다는 생각에서 환경보호에 대한 무한책임을 느끼기에 산을 찾는 등산객 한 명 한 명 환경보호에 대한 의식을 갖도록 하자는 취지에서 행사를 기획했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;석 회장은 고교(양정고) 때부터 산악부에서 활동했으며 서울시산악연맹 이사와 부회장을 거쳐 지난 2021년 서울시산악연맹 회장에 취임했다. 그는 산과 사람의 공존 그리고 자연보호에 특별한 관심을 기울여왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘업무상 갈등’ 후배 직원 살해한 50대 구속 </title>
       <link>https://www.chosun.com/national/incident/2024/09/11/HDEUZZ3NO5AARNXYVQMFPVKRDM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/11/HDEUZZ3NO5AARNXYVQMFPVKRDM/</guid>
@@ -884,38 +921,6 @@
       <description/>
       <pubDate>Tue, 10 Sep 2024 15:40:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NA5JWGYGWREQXENV77LOEQBXJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 마비(痲痺)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/09/11/5FC4SV5NHNF4JEWAQTO4RCZGKA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/09/11/5FC4SV5NHNF4JEWAQTO4RCZGKA/</guid>
-      <description/>
-      <pubDate>Tue, 10 Sep 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UCJLAYRP2RG4PH4JXKCSZNAFQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 경로의 날</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/09/11/4DST2T7ULZHXPKG7GPWNN3IEEU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/09/11/4DST2T7ULZHXPKG7GPWNN3IEEU/</guid>
-      <description/>
-      <pubDate>Tue, 10 Sep 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EPWNBOG6FBCMBEUQWY4HRIDYEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 미용 수면, 충분한 수면</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/09/11/EVNFVVO3BJBRBK2YPUGB7NKVRI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/09/11/EVNFVVO3BJBRBK2YPUGB7NKVRI/</guid>
-      <description/>
-      <pubDate>Tue, 10 Sep 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XKLJ6LW44REMFPAHVH3X3SOK5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] call a spade a spade</title>
-      <link>https://www.chosun.com/national/nie/english/2024/09/11/PGGBCED7OBFZVMHTRYXQFKWSMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/09/11/PGGBCED7OBFZVMHTRYXQFKWSMY/</guid>
-      <description/>
-      <pubDate>Tue, 10 Sep 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FWMZ5NYHHFEAHA7LEVQ7KOBAHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘사기 혐의’ 前야구선수 임창용 “돈  다 갚았다” 돌연 진술 번복</title>
