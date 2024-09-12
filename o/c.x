@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘집단 마약 의혹’ 유명 아프리카TV 방송인 구속</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/12/SBYTVKCN2ZFKZNW3QCZMWSGEIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/12/SBYTVKCN2ZFKZNW3QCZMWSGEIY/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Sep 2024 12:34:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A2CNBEJMXFNDDJ7TPB7F2SNNHQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;조폭 출신 유튜버 김모씨와 함께 마약을 투약한 혐의를 받는 유명 BJ 박모씨가 12일 서울 서초구 서울중앙지법에서 열린 영장실질심사에 출석한 뒤 법원을 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다른 사람들과 함께 마약을 한 혐의를 받는 유명 인터넷 방송인(BJ)이 12일 구속됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 신영희 영장전담 부장판사는 이날 마약류관리법 위반 혐의로 기소된 BJ 박모씨에 대한 영장실질심사를 진행하고 “도망할 염려가 있다”면서 구속 영장을 발부했다.&lt;br&gt;&lt;br&gt;박씨는 아프리카TV에서 48만명 이상의 구독자를 보유한 BJ로, 지인 등과 자택에서 여러 차례 마약을 투약한 혐의를 받는다. 경찰은 조직폭력배 출신 유튜버 김모씨에 대한 마약 사건 수사 과정에서 박씨도 마약을 투약한 정황을 파악하고 수사를 이어왔다.&lt;br&gt;&lt;br&gt;박씨는 최근 마약 관련 보도가 나오자 “1년 6개월 전 자백하고 경찰서에 다녀왔다. 그때부터 성실히 경찰 조사를 받았다”고 해명했다.&lt;br&gt;&lt;br&gt;한편, 조폭 유튜버 김씨는 2022년 10월부터 작년 8월까지 지인의 자택에서 케타민 등 마약류를 투약한 혐의로 지난 10일 구속 기소됐다. 경찰은 박씨 외에도 그가 운영하는 소속사 관계자와 아프리카TV에서 활동하는 BJ 등 20여 명을 입건해 수사 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>도이치모터스 사건 동원된 계좌주… 검찰, 尹 장모 소환 조사</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/12/AQWC5NCBSFH3BKY227SKL3QI2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/12/AQWC5NCBSFH3BKY227SKL3QI2Y/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Sep 2024 10:30:33 +0000</pubDate>
+      <content:encoded>‘도이치모터스 주가 조작’ 사건을 수사하는 검찰이 윤석열 대통령의 장모 최은순씨를 비공개 소환 조사한 것으로 12일 확인됐다. 최씨는 조사 당시 적극적으로 소명했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HID4S3BUCITM3OPEIEFNNM37I4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 장모 최은순씨./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울중앙지검 반부패수사2부(부장 최재훈)는 지난 7일 최씨를 서울중앙지검 청사로 비공개 소환해 조사했다. 수사팀은 최씨에게 권오수 전 도이치모터스 회장을 알게 된 경위, 김 여사에게 권 전 회장을 소개해준 경위 등을 물은 것으로 전해졌다. 최씨는 검찰 조사에서 진술거부권을 행사하는 대신 적극적으로 소명했다고 한다. 조사는 오후 늦게까지 진행된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 사건 1심 재판부는 작년 2월 권 전 회장에게 징역 2년에 집행유예 3년, 벌금 3억원을 선고하면서 최씨의 계좌 1개, 김 여사의 계좌 3개가 주가조작에 동원됐다고 판단했다. 그러나 법조계에선 계좌 동원만으로는 주가조작으로 처벌할 수 없다는 의견이 많다. 실제로 도이치모터스 주가조작에는 91명 명의, 157개 계좌가 동원됐는데 이 가운데 기소된 사람은 권 전 회장, 증권사 직원 등 14명에 그쳤다.&lt;br&gt;&lt;br&gt;한편, 서울고법 형사5부(재판장 권순형)는 이날 도이치모터스 주가 조작 사건에서 이른바 ‘전주(錢主)’ 역할을 했다가 1심에서 무죄를 선고받은 손모씨에 대해 징역 6개월에 집행유예 1년을 선고했다. 1심은 손씨가 주가조작에 가담한 사실이 인정되지 않는다며 무죄를 선고했었다. 그러나 검찰은 2심 진행 중 손씨에게 주가조작을 방조했다는 혐의를 추가했고, 재판부도 이를 인정한 것이다. 재판부는 “손씨는 도이치모터스 주식에 관해 시세조종을 한다는 사실을 알면서도 그에 편승한 뒤 인위적 매수세를 형성해 다른 피고인들의 시세조종을 용이하게 했다”며 “그에 따라 주식 시세가 증권시장의 정상적 수요와 공급에 따라 형성되지 않아 선의의 일반 투자자에게 피해를 입히는 결과를 보였다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“안세하, 관객 만나기엔 무리”… 학폭 의혹에 뮤지컬도 잠정 하차 </title>
+      <link>https://www.chosun.com/national/national_general/2024/09/12/BU6OVNQUSZDNVBY7VQQ7CT3EFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/12/BU6OVNQUSZDNVBY7VQQ7CT3EFM/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Sep 2024 11:28:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YAZIAPG2OZCTTJC7MIRCDAEQAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뮤지컬 '젠틀맨스 가이드 : 사랑과 살인편'에 출연 중인 안세하. /쇼노트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학교폭력 의혹에 휩싸인 배우 안세하(본명 안재욱)의 활동이 줄줄이 중단되고 있다. 시구 일정이 취소된 데 이어, 이번에는 출연 중인 뮤지컬에서도 일단 하차하기로 했다. &lt;br&gt;&lt;br&gt;뮤지컬 ‘젠틀맨스 가이드 : 사랑과 전쟁편’의 제작사 쇼노트는 12일 인스타그램 등 공식 소셜미디어를 통해 “젠틀맨스 가이드에서 다이스퀴스 역으로 출연 중인 안세하의 최근 이슈와 관련, 사실관계 여부를 떠나 내용이 정리될 때까지는 배우가 작품을 통해 관객을 만나는 것이 무리가 있다고 판단됐다”며 “소속사와 상호 협의를 통해 안세하의 남은 공연 캐스팅 일정을 변경했다”고 했다. &lt;br&gt;&lt;br&gt;이에 따라 당초 안세하가 등장할 예정이던 무대에는 다른 배우들이 대신 올라가기로 했다. 19일과 24일에는 정문성이, 27일에는 정상훈이 출연한다. 쇼노트가 같은 날 공개한 10월 공연 일정에서도 안세하 이름은 빠졌다. 이 때문에 안세하가 공연에서 사실상 완전히 하차한 것 아니냐는 의견도 나온다. &lt;br&gt;&lt;br&gt;오는 15일 예정되어 있던 안세하의 프로야구 경기 시구도 취소됐다. 프로야구 NC 다이노스 측은 11일 “안세하의 시구가 취소됐다”며 “(학교 폭력의) 사실 여부를 떠나 관련 이슈가 정리되기 전에 행사를 진행하는 것은 바람직하지 않다는데 구단과 소속사가 모두 동의했다”고 했다. &lt;br&gt;&lt;br&gt;NC 다이노스 시구는 안세하 학교폭력 폭로의 시발점이 됐던 일정이기도 하다. 자신을 안세하의 중학교 동창이라고 주장한 A씨는 지난 9일 온라인 커뮤니티에 쓴 글에서 “며칠 전 학폭 가해 주동자인 안세하가 시구에 참여한다는 구단 인스타 게시물을 보고 도저히 가만히 있을 수 없었다”며 “아이가 (NC)야구 교실에 매주 참여하는 등 야구를 사랑한다. 아이가 보게 될 경기에서 (안세하가) 시구하는데 손뼉 칠 자신이 없다”고 했다. &lt;br&gt;&lt;br&gt;A씨는 중학교 3학년 시절, 안세하의 강요로 원하지 않는 싸움을 해야 했다고 주장했다. A씨는 안세하를 “학창 시절 씻을 수 없는 상처를 준 악마”라고 표현했다.&lt;br&gt;&lt;br&gt;소속사는 A씨 주장을 전면 부인했지만, 온라인상에는 안세하의 학교폭력을 주장하는 글이 이어졌다. 자신을 안세하의 동문이자 현직 교사라고 밝힌 B씨는 10일 온라인 커뮤니티를 통해 “안세하는 학교에서 모르는 사람이 없는 소위 말하는 일진이었다”며 “복도에서 시비를 걸거나 욕을 하는 경우가 많았고, 저 역시 그런 그를 무서워해 피해 다니려고 했던 것 같다”고 했다. “법적 대응 시 글쓴이(A씨)를 위해 필요하다면 법정에서 증언할 의향이 있다”며 “이번에는 방관자가 되지 않으려고 한다”고도 했다.&lt;br&gt;&lt;br&gt;이 같은 추가 주장에 대해 소속사는 ‘허위사실’이라는 입장을 유지했다. 소속사는 11일 “수사를 통해 학교폭력 게시글이 허위사실이라는 점을 명확히 밝힐 예정”이라며 “근거 없이 아티스트를 비방하는 글을 게시하지 말아 달라”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>비닐봉지에 코 대고 들숨날숨… 배달기사의 수상한 행동, 알고 보니</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/12/F2DA4RF44ZG3XILCST2NY2YKAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/12/F2DA4RF44ZG3XILCST2NY2YKAM/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Sep 2024 10:48:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OSLDIF2KCJGURBS2BMW4UZUJDQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 28일 강남의 한 골목에서 배달기사가 비닐봉지에 코를 대고 시너를 흡입하고 있다. /서울경찰 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;길거리 한복판에서 환각물질이 들어 있는 시너를 흡입하던 남성이 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;12일 서울 수서경찰서에 따르면, 경찰은 지난 12일 화학물질관리법 위반 협의로 오토바이 배달기사 A씨를 체포했다. A씨는 지난달 28일 강남의 한 골목에서 시너를 흡입한 혐의를 받는다.&lt;br&gt;&lt;br&gt;서울경찰 유튜브에 올라온 영상을 보면, A씨는 골목 한복판에 서서 시너를 흡입했다. 흰색 비닐봉지에 코와 입을 대고 여러 차례 숨을 들이켜고 내뱉는 모습이 포착됐다.&lt;br&gt;&lt;br&gt;A씨는 “배달기사가 시너를 흡입하고 있다”는 한 시민의 신고로 경찰에 체포됐다. 112상황실이 실시간 방범카메라 모니터링 시스템을 통해 인상착의와 위치를 파악, 지역 경찰에 신속하게 전달하면서 A씨는 현장에서 검거될 수 있었다. A씨의 배달용 오토바이에서도 시너 흡입에 이용된 증거품이 발견됐다.&lt;br&gt;&lt;br&gt;시너는 화학물질관리법에 따라 환각물질로 분류된다. 화학물질관리법은 환각물질을 ‘흥분·환각 또는 마취의 작용을 일으키는 화학물질로 대통령령으로 정하는 물질’이라 정의하고, 이런 물질을 섭취·흡입한 사람에게 3년 이하의 징역이나 5000만원 이하의 벌금에 처하도록 하고 있다. 관련 대통령령을 보면 시너뿐만 아니라 부탄가스, 접착제, 아산화질소(이른바 해피벌룬) 등도 환각물질에 해당한다.&lt;br&gt;&lt;br&gt;2017년 부탄가스를 흡입한 혐의로 징역 10개월을 선고받은 사람이 화학물질관리법은 형벌 체계상 균형을 상실해 평등원칙을 위반했다는 취지로 헌법소원 심판을 청구하기도 했으나, 헌재는 2021년 전원 일치 의견으로 합헌 결정을 내렸다.&lt;br&gt;&lt;br&gt;당시 헌재는 “환각 상태에서 다른 범죄로 나아갈 위험성까지 고려하면 과태료와 같은 행정벌로는 규제 효과를 기대하기 어려워 행위자에 대한 형사처벌이 불가피하다”며 “심판 대상 조항으로 인한 개인적 쾌락이나 만족의 제한보다 국민 건강 증진 및 사회적 위험 감소라는 공익이 월등히 중대하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“너 능욕방 운영자지?” 엉뚱한 사람 감금·폭행한 10대들</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/12/BWR4LDRBIRHEDMQRNXVFKTG4B4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/12/BWR4LDRBIRHEDMQRNXVFKTG4B4/</guid>
+      <dc:creator>안산=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Sep 2024 10:19:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G7QZVVYCNSPR65WLRMCILJ2MA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지검 안산지청 전경.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;엉뚱한 미성년자를 이른바 텔레그램 ‘능욕방’(딥페이크 불법합성물을 공유하는 채널) 운영자라고 주장하며, 감금한 뒤 폭행하고 이 과정을 실시간으로 방송까지 한 10대들이 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;수원지검 안산지청 형사3부(부장 김영준)는 특수중감금치상 혐의로 10대 A군 등 2명을 구속기소했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, A군 등은 지난달 26일 텔레그램 능욕방 채널에서 알게 된 10대 B군을 유인해 감금하고 폭행한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A군 등은 B군을 유인한 뒤, A군의 거주지로 데려갔으며, B군을 폭행하고, 그의 머리카락을 자르거나 눈썹을 밀기도 한 것으로 알려졌다. 또 B군에게 옷을 벗고 춤을 추게 하는 등의 가혹행위를 벌이기도 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A군 등은 B군이 능욕방의 운영자라고 주장하며, 응징을 한다는 명목으로 이같이 범행한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A군 등은 B군을 폭행하는 장면을 텔레그램 보복방 채널에서 실시간으로 방송해 송출하기도 했다. 한 시청자가 이를 보고, 경찰에 신고하면서 수사가 시작됐다.&lt;br&gt;&lt;br&gt;수사 당국이 휴대전화 대화내역 분석 등을 진행한 결과, 피해자는 능욕방 운영자가 아닌 것으로 파악됐다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “사적 제재를 명분으로 포장한 자극적 콘텐츠를 통해 수익을 추구하는 ‘보복방’ 운영자 등 공범들에 대해서도 경찰과 긴밀히 협력하여 철저히 수사해 나갈 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘KBS 이사 선임 집행정지’ 재판부 기피신청, 법원서 기각</title>
       <link>https://www.chosun.com/national/court_law/2024/09/12/LDH6SQ5KKBECRBR7FLRNEXSCCA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/12/LDH6SQ5KKBECRBR7FLRNEXSCCA/</guid>
@@ -874,22 +919,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TYWXAGZ3FNCA3ANXEIPNPJNXEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문으로 배우는 실용한자] 탐지견(探知犬)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/09/12/G4U62BK55VHI7I6GZ5ZPXLP2BM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/09/12/G4U62BK55VHI7I6GZ5ZPXLP2BM/</guid>
-      <description/>
-      <pubDate>Wed, 11 Sep 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DBJGMXOQIFBMDKM54OCEW3RK6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 달구경을 하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/09/12/W272HSXCCFBKHLYUOLFUKSESKA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/09/12/W272HSXCCFBKHLYUOLFUKSESKA/</guid>
-      <description/>
-      <pubDate>Wed, 11 Sep 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KTUOEBYCINAM7C5Z2XOXOMNRS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>양궁 10연패엔 정의선, 보치아 10연패엔 강성희 있다</title>
       <link>https://www.chosun.com/national/people/2024/09/12/G5WPUXYXMBCTVAK3WKOWKQQZUI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/12/G5WPUXYXMBCTVAK3WKOWKQQZUI/</guid>
@@ -897,31 +926,6 @@
       <description/>
       <pubDate>Wed, 11 Sep 2024 15:40:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UH4OVHKUCRCDVLGIUFFACICGAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 서울 여의도 오텍그룹 본사에서 만난 강성희 회장이 인터뷰 도중 기자에게 보치아 공인구를 보여주고 있는 모습. 강 회장은 “몸이 불편한데도 1시간씩 치열하게 땀 흘리며 경기에 임하는 보치아 선수들을 보면 뭉클해진다”며 “선수들을 도와줄 수만 있다면 보치아 후원만큼은 대(代)를 이어서 하고 싶다”고 말했다. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“보치아 금메달은 엄마가 같이 딴 메달이죠. 뇌성마비 선수들은 공 던질 때 수시로 팔다리가 굳거든요. 틈틈이 옆에서 계속 마사지해줘야 하는 엄마나 코치의 헌신 없이는 이룰 수 없는 성과죠.”&lt;br&gt;&lt;br&gt;2024 파리 패럴림픽에서 일반인에게는 생소한 종목인 ‘보치아’ 한국 대표팀이 ‘금메달 10연패’의 신화를 썼다. 파리 올림픽에서는 양궁이 1988 서울 올림픽 이래 10연패의 쾌거를 이루며 온 국민이 열광했지만, 같은 기간 패럴림픽에서도 한 번도 금메달을 놓치지 않은 종목이 있었던 것이다. 보치아가 지금의 성과를 낼 수 있던 배경에는 15년간 25억원을 지원하며 물심양면으로 후원해 온 ‘숨은 조력자’가 있었다. ‘캐리어에어컨’을 인수하며 이름을 알린 오텍그룹 강성희(69) 회장이 그 주인공이다. 양궁 올림픽 10연패에는 현대차그룹의 정몽구 명예회장, 정의선 회장 부자가 있다면 보치아엔 강성희 회장이 있는 것이다.&lt;br&gt;&lt;br&gt;원래 뇌성마비 환자를 위해 고안된 운동인 보치아는 1984년 LA 패럴림픽부터 정식 종목으로 채택됐다. 이제는 강 회장의 후원을 기반으로 노인과 어린이도 쉽게 즐기는 스포츠로까지 발전하고 있다. “보치아 후원만큼은 앞으로 대(代)를 이어서라도 하고 싶다”는 강 회장을 만나 보치아와 인연을 맺은 사연을 들어봤다.&lt;br&gt;&lt;br&gt;◇‘장애인 車’로 이어진 인연&lt;br&gt;&lt;br&gt;2000년에 45세의 나이로 오텍그룹을 창업한 강 회장이 보치아에 처음 관심을 갖게 된 건 2004년. 사업 초기부터 장애인을 위해 봉사 활동을 꾸준히 해온 강 회장이 국내 최초로 휠체어를 실을 수 있는 리프트가 달린 ‘장애인용 차량’을 만들면서다.&lt;br&gt;&lt;br&gt;창업 직후부터 장애인과 취약 계층을 꾸준히 지원해 온 그는 오텍 공장이 있는 대전광역시와 광주광역시 등에서 매년 장애인의 날만 되면 급식 봉사를 했고, 장애인 복지 시설과 경로당에는 기부도 아끼지 않았다. 그런 강 회장은 2003년쯤 일본 도쿄 모터쇼에 장애인용 차량이 함께 전시돼 있는 모습을 보고 충격을 받았다고 한다. 당시만 해도 우리나라에서 찾아보기 힘들었던 휠체어 리프트가 달린 버스도 볼 수 있었다. 그는 “‘내가 장애인을 위해 봉사 활동을 계속 해왔는데, 명색이 특장차를 만든다는 사람이 장애인용 차량은 왜 못 만들었을까’라고 생각했다”며 “변변한 장애인 관광버스도 한 대 없던 우리나라에서 장애인도 편하게 타고 내리는 차를 만들어야겠다는 결심이 들었다”고 말했다.&lt;br&gt;&lt;br&gt;장애인을 도와오던 강 회장은 2009년에 서울시 보치아 대회를 후원해달라는 부탁을 받으면서 보치아와 첫 인연을 맺었다. 장애인이 아닌데도 장애인을 위한 봉사 활동과 차량 개발에 힘쓰자 장애인 단체들 사이에서 소문이 난 것이다. “강 회장이 장애인을 계속 도와 왔다는데, 마침 보치아가 패럴림픽에서 좋은 성적을 내고 있으니 연맹도 맡아달라고 하면 어떻겠냐”는 반응이 나오기 시작했다. 2015년부터는 대한장애인보치아연맹 회장을 맡게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RBN3H5A3YBPDPOQ34IKH7SFO7E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일(현지 시각) 프랑스 파리 사우스 파리 아레나1에서 열린 2024 파리 패럴림픽 보치아 혼성 복식 경기(BC3 종목)에서 정호원 선수가 입에 문 포인터로 공을 밀어 투구하고 있는 모습. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;◇“보치아 메달은 엄마가 같이 딴 것”&lt;br&gt;&lt;br&gt;강 회장의 보치아 후원은 15년간 멈추지 않고 이어지고 있다. 후원을 시작했을 무렵 유독 심금을 울렸던 선수가 있었다. 보치아 전 국가대표인 김한수(32) 선수. 강 회장이 보치아 후원을 시작했던 2009년, 김 선수를 비롯한 보치아 선수단은 부산에 있는 한 농구장을 빌려 두 달간 합숙훈련에 들어갔다. 그때 강 회장이 만난 김 선수는 환한 미소를 지으며 어머니와 함께 합숙훈련장으로 향했다. 하지만 두 달 뒤 합숙훈련을 다녀온 그와 어머니의 모습은 그야말로 ‘녹초’에 가까웠다. 장애가 있는데도 피곤해하며 꿈을 키우는 선수들의 모습에 강 회장은 큰 감동을 받았다고 했다. 그는 “보치아에서 금메달을 딴다는 것은 가족, 감독, 코치가 모두 헌신해야 가능한 일”이라며 “밥도 혼자 제대로 먹지 못하는 선수를 도와주며 공도 같이 던져주는 모습을 보면서 후원을 멈추지 말아야겠다는 마음이 커졌다”고 했다.&lt;br&gt;&lt;br&gt;그 후 강 회장은 매년 2억원대 후원을 이어가며 현재까지 누적 25억원을 한국 보치아 국가대표를 위해 후원해오고 있다. 지난 2018년 평창 패럴림픽에서는 108일간의 성화 봉송에 참여한 장애인 300여 명에게 승합차, 휠체어 차량, 장애인 버스를 전부 지원했다. 경기 기간에는 장애인 선수들이 공항, 숙소, 경기장을 이동할 때마다 제시간에 움직일 수 있도록 도왔다. 강 회장은 “평창 패럴림픽에서 장애인 국제 대회를 도운 경험 덕분에 이후 국내에서 열린 각종 보치아 대회에서도 선수들의 동선, 숙소, 이동 수단을 짜는 게 훨씬 수월해졌다”고 했다.&lt;br&gt;&lt;br&gt;강 회장의 지원은 여기서 끝나지 않았다. 패럴림픽에 참가하는 선수들이 긴장감 높은 국제 대회에서 더 많은 경험을 쌓아야 한다는 생각이 강했다. 아시아 최초로 2015 보치아 국제 오픈 대회, 2019 아시아·오세아니아 지역 선수권 대회 등 주요 국제 대회를 모두 서울에서 개최하는 데 힘을 보탰다. 더 나아가 2026년 세계 보치아 선수권 대회까지 서울에서 유치하며 1988 패럴림픽을 비롯한 4대 보치아 국제 대회를 모두 한국에서 여는 기록을 세웠다. ‘그랜드 슬램’을 달성한 것은 아시아에서 한국이 처음이다. 강 회장의 노력으로 국내에서 열리는 보치아 대회도 15개까지 늘었다.&lt;br&gt;&lt;br&gt;◇“생활 체육으로 나아가야 장애인 체육도 성장”&lt;br&gt;&lt;br&gt;아직 보치아는 장애인들의 종목으로만 알려져 있다. 하지만 일반인도 쉽게 취미처럼 즐길 수 있는 종목으로 만드는 것이 강 회장의 꿈이다. 이미 국내에서 열리는 ‘오텍배 전국 보치아 대회’에서는 지난 2017년부터 장애인뿐 아니라 학생(초1~고3)과 노인(65세 이상)이 참가할 수 있는 부문도 만들어지기 시작했다. 매 대회 참여하는 비장애인 선수만 40여 명에 달해 장애인 선수의 3분의 2나 된다.&lt;br&gt;&lt;br&gt;강 회장은 보치아가 ‘국민 종목’이 돼야 장애인 지원도 더 강화될 수 있다고 했다. 그는 “일본만 해도 1억2000만명 인구에 ‘장애인 차량’만 연간 4만5000대가 팔리지만, 우리나라는 5000만명 인구에 팔리는 건 2000대뿐일 만큼 우리나라에서 장애인에 대한 관심과 지원은 턱없이 부족하다”며 “보치아를 온 국민이 즐길 수 있는 때가 온다면 장애인 체육도 함께 성장할 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞보치아(boccia)&lt;/b&gt;&lt;br&gt;&lt;br&gt;올림픽이 아닌 패럴림픽에서만 볼 수 있는 독자적인 종목으로 ‘땅 위의 컬링’이라 불린다. 원래 뇌성마비 장애인을 위해 고안돼 1984년 로스앤젤레스(LA) 올림픽에서 처음 공식 종목으로 채택됐다. 가로 6m, 세로 12.5m 경기장에서 한 팀은 적색 공, 다른 팀은 청색 공을 6개씩 던져 흰색 공에 더 가까이 붙인 공을 점수로 계산해 승패를 정한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>本紙 신상협 기자 ‘이달의 편집상’</title>
-      <link>https://www.chosun.com/national/people/2024/09/12/D663UJFAIBFSVJGCCU5UORCZT4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/12/D663UJFAIBFSVJGCCU5UORCZT4/</guid>
-      <description/>
-      <pubDate>Wed, 11 Sep 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KDN2YWIWKNCM5HZ44MPI2NTXFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국편집기자협회(회장 김창환)는 조선일보 신상협 기자의 ‘두려움 없는 총, 꺾이지 않는 칼’(7월 29일 자 A1면) 등 7편을 이달의 편집상 수상작으로 선정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 강형진 HL Klemove CTO 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/09/12/EUS6THKTZJFAHMI7ADMYPB43HQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/09/12/EUS6THKTZJFAHMI7ADMYPB43HQ/</guid>
-      <dc:creator>조선일보, 안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Sep 2024 15:40:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;강형진&lt;/b&gt; HL Klemove CTO 별세, &lt;b&gt;하효정&lt;/b&gt; 남편상, &lt;b&gt;강민석&lt;/b&gt; 부친상=10일22시30분 서울아산병원, 발인 13일11시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;곽찬호&lt;/b&gt; 前 민주평통 광진구협의회 사무국장 별세, &lt;b&gt;곽형동&lt;/b&gt; 통일문화연구원 부원장·&lt;b&gt;곽경희&lt;/b&gt;·&lt;b&gt;곽대종&lt;/b&gt; 산업연구원 前 감사실장 부친상, &lt;b&gt;최병권&lt;/b&gt; 前 LG종합상사 파리지사장 장인상, &lt;b&gt;이영숙&lt;/b&gt;·&lt;b&gt;송미숙&lt;/b&gt; 시부상=10일16시34분 서울아산병원, 발인 13일6시20분, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이희옥&lt;/b&gt; 별세, &lt;b&gt;이재상&lt;/b&gt; OBS경인TV 기자·&lt;b&gt;이재준&lt;/b&gt; 부친상, &lt;b&gt;이수미&lt;/b&gt;·&lt;b&gt;오현주&lt;/b&gt; 시부상=10일23시 동국대일산병원, 발인 13일7시, (031)961-9410&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정시영&lt;/b&gt; 前 정보통신부 부이사관 별세, &lt;b&gt;정기환&lt;/b&gt; 유진투자증권 영등포지점장 부친상=10일18시25분 서울성모병원, 발인 13일6시50분, (02)2258-5961&lt;br&gt;&lt;br&gt;▲&lt;b&gt;최영숙&lt;/b&gt; 별세, &lt;b&gt;정원태&lt;/b&gt; 한국유나이티드제약 글로벌개발본부 부사장 장모상=9일21시42분 서울성모병원, 발인 13일5시, (02)2258-5953&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강태선 ‘대한민국 산악대상’</title>
-      <link>https://www.chosun.com/national/people/2024/09/12/YK3IPJRJ5BAWDFWGIKWJM43LYA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/12/YK3IPJRJ5BAWDFWGIKWJM43LYA/</guid>
-      <description/>
-      <pubDate>Wed, 11 Sep 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7F6SAZE75BT5OJDW5Z7KQVJBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한산악연맹(회장 손중호)은 10일 서울 삼정호텔에서 열린 산악인의 날 기념식에서 해외 고산 등반 지원과 산악인 유가족 자녀 장학금 지원 사업 등 산악 문화 발전에 이바지한 공로로 강태선 서울특별시체육회장(BYN블랙야크그룹 회장)을 대한민국 산악 대상 수상자로 선정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>서울 37도... 내일 비 온 뒤 ‘가을 폭염’ 1주일 더</title>
