@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“재촉하지 마세요. 저도 힘들다”…추석 택배 기사 안타까운 문자</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/14/7LX5R4YDP5CPPNNDUHBVJJOZ6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/14/7LX5R4YDP5CPPNNDUHBVJJOZ6E/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Sep 2024 22:00:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2HXBAFDJTVFIJFANE7QWMP7HIE.png"&gt;&lt;figcaption&gt;&lt;small&gt;온라인 커뮤니티에 공개된 택배기사 문자 메시지./X(구 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석 연휴를 앞두고 택배 물량이 급증한 가운데 “전화해서 재촉하지 말아달라”는 한 택배 기사의 문자 메시지가 공개돼 화제를 모으고 있다.&lt;br&gt;&lt;br&gt;지난 12일 이용자 A씨는 X(구 트위터)에 “마음이 아프다”며 전날 밤 한 택배 기사에게서 받은 문자 메시지를 공개했다.&lt;br&gt;&lt;br&gt;택배 기사는 “OO택배입니다. 배송 물량이 너무 많아서 배송이 지연됩니다. 12시 이전 배송될 예정”이라며 “전화하고 재촉하지 말아달라. 그럼 더 늦습니다. 양해를 부탁드립니다. 죄송합니다. 저도 힘듭니다”라고 남겼다. 이 게시물은 조회수 215만회를 기록했다.&lt;br&gt;&lt;br&gt;또 다른 네티즌도 택배 기사에게 받은 자신의 메시지 내용을 공유했다. 문자에는 “OO택배 물량이 많아서 이제야 배송 시작합니다. 따라서 배송이 지연됨을 알려드리며 우선 아이스박스 배송하고 그 후로 일반 택배 배송해 드릴 예정입니다. 최대한 빠르고 안전하게 배송해 드리도록 노력하겠습니다”라고 적혀있었다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “명절 때는 택배 기사분들 무조건 배려해야 한다. 너무나 고마운 분들이다” “현직 택배기사인데 추석 때는 평소보다 물량이 2배로 뛴다” “안쓰럽다” 등 택배 기사들을 향한 응원하는 댓글을 남겼다.&lt;br&gt;&lt;br&gt;최근 추석 연휴를 앞두고 택배 물량이 많이 늘어난 상황이다. 특수고용직인 택배 노동자들은 자신이 맡은 구역에 할당된 택배 물량을 모두 책임져야 한다. 국토교통부에 따르면 이달 예상되는 택배 물량은 하루 평균 1850만 박스다. 평소 물량인 1660만 박스보다 11% 증가했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>있으나마나 한 서울시 킥보드 주차장</title>
       <link>https://www.chosun.com/national/national_general/2024/09/14/GD7PIATEKBCZXILCCZJUD4HDK4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/14/GD7PIATEKBCZXILCCZJUD4HDK4/</guid>
@@ -953,15 +962,6 @@
       <description/>
       <pubDate>Fri, 13 Sep 2024 01:21:45 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XI3XEL73Z5KCFDI4EUKQD7QMB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오전 경북 울릉군 울릉읍 도동리 도동파출소 앞 도로에서 한국수자원공사 등 관계자들이 파손된 상수도관 복구 작업을 벌이고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 울릉군에 이틀간 300㎜가 넘는 폭우가 쏟아지면서 180여명의 주민이 대피하는 등 피해가 속출했다.&lt;br&gt;&lt;br&gt;13일 경북 울릉군 등에 따르면, 울릉에는 11∼12일 이틀 동안 308.7㎜(누적 강수량)의 비가 쏟아졌다. 지난 11일 시간당 70.4㎜의 비가 쏟아졌는데, 이는 1978년 8월 3일 시간당 73.0㎜를 기록한 이후 46년 만에 최고 기록이다.&lt;br&gt;&lt;br&gt;폭우로 인한 사면 붕괴와 토사 유출 등으로 이날 오전 5시 기준으로 울릉읍에서 도동파출소 구간, 무릉교에서 118전대 구간 도로의 통행이 통제돼 있다. 또 상수관로 파손으로 76가구에 물 공급이 중단돼 생수 등으로 생활하고 있다. 지난 11일에는 1578가구(주민 5199명)가 단수 피해를 겪었다.&lt;br&gt;&lt;br&gt;모텔 1곳과 식당 2곳 등 4곳이 부분 침수 피해를 입었다. 울릉읍 사동리에서는 40대 남성이 주택에 고립됐다가 소방관의 도움을 받아 구조되기도 했다. 차량 침수 피해도 7대로 집계됐다. 또 주민 187명(106세대)도 집을 떠나 민간 숙박시설 등에 대피해 있는 상태다.&lt;br&gt;&lt;br&gt;울릉군은 이날 굴삭기 6대, 덤프트럭 9대 등의 장비를 동원해 도로 복구 작업 등에 나서고 있다.&lt;br&gt;&lt;br&gt;울릉군 관계자는 “현재는 비가 거의 오지 않는 상황이어서 추가 피해는 없을 것으로 보고, 복구 작업에 집중하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>연습생 식당서 밥까지… 하이브 사옥 무단침입해 3일간 숙식한 남성</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/13/CWGSCRTUYZFYVOW3ECLQNPDGDI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/13/CWGSCRTUYZFYVOW3ECLQNPDGDI/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Sep 2024 01:32:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IX5ON27TS47PWGFY4T5Y25HZ4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산구 하이브 사옥. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 방탄소년단, 뉴진스 등이 소속된 연예기획사 하이브 사옥에 무단으로 침입해 3일간 머무른 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;13일 서울 용산경찰서와 하이브 등에 따르면 경찰은 지난 8일 서울 용산구 하이브 사옥에 무단으로 침입한 40대 남성 A씨를 건조물침입 혐의로 현행범으로 체포했다.&lt;br&gt;&lt;br&gt;A씨는 지난 6일 오후 하이브 사옥 지하를 통해 내부로 들어가 2박 3일간 건물 내부에 머무른 것으로 알려졌다. A씨는 이 기간 동안 하이브 연습생들과 직원들이 사용하는 식당 등에서 숙식을 해결했다고 한다.&lt;br&gt;&lt;br&gt;지난 8일 한 하이브 관계자가 사옥을 배회하는 A씨를 수상히 여겨 경찰에 신고했다. A씨는 출동한 경찰에 의해 현행범으로 체포됐는데 흉기 등은 발견되지 않았다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “나는 투자자이며 하이브 관계자와 투자 미팅을 위해 사옥에 들어왔다”고 주장한 것으로 알려졌다. 하이브 측은 사실무근이라는 입장이다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 범행 동기를 수사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“수영강사 추석떡값, 성의껏 보내라”…고인물 회원이 보낸 단톡</title>
