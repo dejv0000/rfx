@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>이종석 헌법재판소장, AACC 총회 참석차 17일 출국</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/201363.jpg" alt="201363.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7888"&gt;이종석&lt;/span&gt;(63·사법연수원 15기) 헌법재판소장이 17일부터 21일까지 태국 방콕에서 열리는 '아시아헌법재판소연합(AACC)' 제6차 총회와 이사회 참석을 위해 17일 출국한다.&lt;p&gt;   &lt;br /&gt;이번 총회는 '지속가능한 사회를 위한 헌법재판기관의 헌법재판 강화'를 주제로 열린다. 이 소장은 아시아 각국의 헌법재판기관장들과 교류하고, AACC 이사회에서 AACC의 대외협력 및 재정 등에 관한 안건을 심의할 예정이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9145"&gt;이영진&lt;/span&gt;(63·22기) 헌법재판관은 총회에서 '변화하는 세계에서 지속가능한 정의를 위한 헌법재판의 발전'을 주제발표한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;총회에 앞서 열리는 이사회에서&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2415"&gt;김정원&lt;/span&gt;(59·19기) 사무처장은 AACC 연구사무국 사무총장 자격으로 한국 헌재가 운영하고 있는 'AACC 연구사무국의 업무현황 및 성과'를 보고할 예정이다.         &lt;/p&gt;&lt;p&gt;   &lt;br /&gt;헌재 관계자는 "AACC 제6차 총회를 통해 아시아 지역 헌법재판기관 간 교류·협력 관계를 강화할 계획"이라며 "헌법재판 경험과 성과를 다른 국가와 공유해 한국 헌재의 국제적 위상이 강화할 것으로 기대한다"고 말했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;AACC는 아시아의 민주주의, 법치주의, 인권 증진을 목적으로 2010년 7월 창설된 아시아 지역 헌법재판 기관 간의 협의체이다. 현재 한국과 인도네시아, 말레이시아, 몽골, 필리핀, 태국, 우즈베키스탄, 러시아, 타지키스탄, 튀르키예, 파키스탄, 아프가니스탄, 카자흐스탄, 아제르바이잔, 키르기스스탄, 미얀마, 인도, 몰디브, 방글라데시, 요르단, 팔레스타인 등 각국의 헌법재판 기관이 가입해 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Fri, 13 Sep 2024 02:01:35 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201363</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201363</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201363.jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
+			<title>검찰, '도이치 주가조작' 尹 장모 비공개 조사…김건희 여사 수사 향방에 촉각</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/201362.jpg" alt="191443.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;윤석열 대통령 장모 최모 씨 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;검찰이 도이치모터스 주가조작 사건과 관련해 윤석열 대통령의 장모 최은순 씨를 비공개 소환 조사했다.&lt;p&gt;   &lt;br /&gt;서울중앙지검 반부패수사2부(부장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11669"&gt;최재훈&lt;/span&gt;)는 지난 7일 최씨를 비공개로 불러 검찰 청사에서 조사했다. &lt;br /&gt;&lt;br /&gt;검찰은 지난 7월 김건희 여사의 명품가방 수수 의혹과 관련해 검찰청사가 아닌 '제3의 장소'에서 대면 조사를 하면서 도이치모터스 주가조작 연루 의혹도 함께 조사했다. 이 사건과 관련된 전주(錢主) 91명에 대한 전수 조사를 진행하며 수사를 대부분 마무리한 상태다.&lt;br /&gt;&lt;br /&gt;도이치모터스 주가조작 사건 1심과 항소심 재판부는 최 씨의 계좌 1개와 김 여사의 계좌 3개가 주가조작 세력에 의해 쓰였다고 판단했다. 이는 해당 주가조작 사건과 관련해 다른 피고인들의 재판 과정에서 나온 것이다.  1심에서는 주가조작 시기 중 1단계(2009년~2010년 9월)에 이어 2단계(2010년 9월∼2011년 4월)에서도 김 여사, 최씨 명의의 계좌가 연속 위탁됐다"고 봤다. 이들의 계좌가 주가조작에 이용됐다는 사실만으로 주가조작에 가담했다고 보거나 공범으로 인정되는 것은 아니며 검찰 수사로 밝힐 부분이다. &lt;br /&gt;&lt;br /&gt;앞서 대통령실은 김 여사의 관여도 없었고 주가조작 행위 자체를 알지 못했다고 밝혔다. &lt;br /&gt;하지만 재판 등에서 공개된 검찰 수사 내용에는 김 여사의 계좌 3개가 주가조작에 이용된 정황이 등장했다. 검찰 수사에 따르면 2010년 10월 28일 주가조작 가담자 민모씨가 '2차 시세조종 주포' 김모씨에게 "잠깐만 계세요. 지금 처리하시고 전화 주실 듯"이라는 내용의 문자 메시지를 보내고 얼마 지나지 않아 김 여사 계좌에서 10만주 매도 물량이 나왔다. 이 물량은 몇 분 뒤 민씨 등이 사 갔다. &lt;br /&gt;&lt;br /&gt;같은 해 11월 1일엔 김 씨와 민 씨 사이에 '12시에 3300에 8만개 때려주셈', '준비시킬게요', '매도하라 하셈'이란 대화가 오간 직후 김 여사 계좌에서 8만주가 매도됐다.&lt;br /&gt;&lt;br /&gt;검찰은 김 여사의 계좌가 주가 하락 방어에 쓰인 정황도 확보했다. 2012년 7월 25일 주가가 계속 하락하자 김 씨는 권오수 전 도이치모터스 회장에게 "혹시 주변에 물 타실 분 있으시면 조금씩 방어라도 해주세요"라고 말했고 같은 날 김 여사 계좌에서 1500주가 매수됐다.  &lt;br /&gt;&lt;br /&gt;이에 따라 지난 12일 항소심에서 주가조작 방조 혐의로 유죄가 선고된 손모씨와 비슷한 역할을 했다고 의심받고 있는 최 씨와 김 여사에게 방조 혐의가 적용될 지 주목된다. 김 여사가 시세조종 사실을 미필적으로나마 인지한 상태에서 작전세력의 요청에 따라 매매 주문 등을 수락한 것인지가 수사의 핵심이 될 전망이다. &lt;br /&gt;&lt;/p&gt;</description>
+			<pubDate>Fri, 13 Sep 2024 01:57:36 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201362</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201362</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201362.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>방통위 'KBS 이사 임명 집행정지' 재판부 기피신청, 법원서 기각…방통위 즉시항고</title>
 			<description>&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/201361.jpg" alt="200455.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;이진숙 방송통신위원장 《연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;KBS 현직 이사들이 제기한 '신임 이사진 임명 처분 효력 집행정지' 심문을 앞두고 방송통신위원회가 재판부를 변경해달라고 낸 기피 신청이 기각됐다. 방통위 측은 즉시항고했다.&lt;p&gt;&amp;nbsp;&amp;nbsp;   &lt;p&gt;서울행정법원 행정14부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5060"&gt;송각엽&amp;nbsp;&lt;/span&gt;부장파사)는 12일 방통위가 낸 기피신청을 받아들이지 않기로 결정했다. 이에 따라 당초 집행정지 사건은 서울행정법원 행정12부(재판장&amp;nbsp;&lt;span class="lawmanlink" serial="4333" style="font-weight: bold;"&gt;강재원&amp;nbsp;&lt;/span&gt;부장판사)가 그대로 심리한다. 기피 신청 기각 결정에 불복한 방통위 측은 이날 법원에 즉시항고장을 제출했다.&lt;/p&gt;   &lt;p&gt;      &lt;br /&gt;앞서 지난 7월 31일 이진숙 방통위원장과 김태규 부위원장은 '2인 회의'를 열고 KBS 이사 정원 11명 중 7명, MBC 방송문화진흥회 이사 정원 9명 중 여권 몫 6명을 신임 이사로 임명했다.   &lt;/p&gt;   &lt;p&gt;      &lt;br /&gt;지난달 27일 KBS 현직 이사들은 대통령과 방통위의 KBS 이사 임명·추천 효력 집행정지를 신청했고, 이 사건은 서울행정법원 행정12부에 배당됐다. 방통위 대리인단은 "행정12부는 MBC 대주주 방문진  신임 이사 임명의 집행정지를 인용한 재판부로 불공정한 재판이 우려된다"면서 지난달 29일 기피신청을 제기했다.   &lt;/p&gt;   &lt;/p&gt;</description>
 			<pubDate>Fri, 13 Sep 2024 01:10:56 -0000</pubDate>
@@ -219,26 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201307</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201307.jpg</media:thumbnail>
 			<dc:creator>유지인 기자</dc:creator>
-		</item>
-		<item>
-			<title> 서산지청·서산범피, 추석 맞아 범죄피해자 45가정에 1350만 원 상당 상품권 전달</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/201301.jpg" alt="201301.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;김승언 지청장(앞줄 왼쪽에서 네 번째)과 김덕호 이사장(다섯 번째). 《서산범피 제공》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대전지방검찰청 서산지청(지청장 김승언)과 사단법인 서산당진태안범죄피해자지원센터(이사장 김덕호·이하 서산범피)는 지난 6일 충남 서산시 예천동 서산지청 대회의실에서 '행복한 추석 함께 보내기 상품권 전달식'을 열었다.&lt;br /&gt;&lt;br /&gt;이날&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10865"&gt;김승언&lt;/span&gt;(50·사법연수원 33기) 지청장, 김덕호 이사장과 위원들이 참석했다. 범죄 피해자 가정 45가구에 농촌사랑상품권 1350만 원 상당을 전달했다.&lt;br /&gt;&lt;br /&gt;김 이사장은 “범죄 피해자들이 가족들과 함께 보다 행복한 명절을 보내길 바란다”고 말했다.&lt;br /&gt;&lt;br /&gt;김 지청장은 “1회성이 아닌 지속적으로 관리하고, 맞춤형 지원을 하겠다"며 "검찰도 깊은 관심을 갖고 피해자들의 원상회복을 위해 더 노력하겠다”고 전했다.&lt;br /&gt;&lt;br /&gt;서산범피는 살인, 상해, 성폭력, 강도, 방화 등 강력 범죄를 당했지만 가해자로부터 합의 또는 기타 배상을 받지 못한 범죄 피해자에게 보호·지원을 제공하는 기관이다.</description>
-			<pubDate>Wed, 11 Sep 2024 07:00:56 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201301</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201301</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201301.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>수원범피·월드비전 경기남부, '강력범죄 피해 청소년 지원' 업무협약</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/201302.jpg" alt="201302.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;이순국 이사장(오른쪽)과 최성호 본부장. 《수원범피 제공》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;수원범죄피해자지원센터(이사장 이순국·이하 수원범피)와 월드비전 경기남부사업본부(본부장 최성호)가 함께 강력범죄 피해로 상처받은 아동·청소년에게 경제적 지원을 하기로 했다.&lt;br /&gt;&lt;br /&gt;지난 10일 경기도 수원시 영통구 수원지방검찰청에서 '범죄피해 아동·청소년 가정이 건강하고 행복한 삶을 살도록 돕는 협력 체계 구축'을 위한 업무 협약식이 열렸다. 이날 이순국 이사장과 최성호 본부장 등이 참석했다. 이번 협약에 따라 양 기관은 범죄 피해 등 긴급한 위기를 겪고 있는 아동·청소년을 발굴·지원하고, 지원사업 정보를 공유하는 상호 연계 체계를 구축할 방침이다.&lt;br /&gt;&lt;br /&gt;이 이사장은 "강력범죄로 상처받은 범죄 피해 아동·청소년은 우리 모두가 관심을 가지고 지켜야 할 아이들"이라며 "피해 아동들에게 다방면으로 지원할 수 있도록 노력하겠다"고 전했다.</description>
-			<pubDate>Wed, 11 Sep 2024 07:00:11 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201302</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201302</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201302.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
