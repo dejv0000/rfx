@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“쯔양, 심리치료도 거절…체중 줄고 집에서만 지내” 측근이 전한 근황</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/14/3RQ3UITZB5CAPPSKMXGVKTLWOE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/14/3RQ3UITZB5CAPPSKMXGVKTLWOE/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Sep 2024 08:12:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FYKD466YIT3AEGD7DXJUGNWTCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 '쯔양' /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;과거 연인이자 전 소속사 대표로부터 긴 시간 폭행을 당해온 유튜버 쯔양(본명 박정원)의 근황이 알려졌다. 구독자 1000만명을 보유한 먹방 유튜버 쯔양은 일부 유튜버들에게 사생활 폭로 협박 피해도 당한 바 있다.&lt;br&gt;&lt;br&gt;14일 쯔양 측 관계자는 YTN과의 인터뷰에서 “쯔양은 협박 사건 이후 심리 치료를 제안받기도 했으나, 거절하고 집에서 대부분의 시간을 보내고 있다”고 전했다.&lt;br&gt;&lt;br&gt;관계자는 “(쯔양이) 평소 사적인 자리에서 만나면 과자나 음식 등을 거의 다 먹으면서 이야기할 정도로 먹는 것을 좋아했는데, 최근에는 잘 먹지 않고 체중도 2~3kg정도 빠진 것 같다”고 했다.&lt;br&gt;&lt;br&gt;쯔양이 최근 악플러 20명을 경찰에 고발한 것에 대해서는 “팬들의 응원과 격려가 가장 큰 힘이 되고 있는데, 일부 악플러들에 대해 방관할 수 없어 지난 10일 서울 강남 경찰서에 정보통신망법 위반 및 모욕죄로 고발했다”고 설명했다.&lt;br&gt;&lt;br&gt;한편 쯔양은 지난 7월 유튜브 라이브 방송을 통해 소속사 대표이자 전 남자친구였던 A씨로부터 4년간 폭행·협박·갈취를 당해왔다고 주장했다. 또한 A씨가 불법 촬영물로 협박해 어쩔 수 없이 유흥업소에서도 일했다고 털어놨다. 쯔양은 “지옥 같은 시간이었다”라며 “거의 매일 맞으며 방송했다”라고 했다. 쯔양은 이 같은 사실을 털어놓은 후 모든 활동을 중단했다.&lt;br&gt;&lt;br&gt;쯔양을 협박해 수천만 원을 뜯어내거나 이를 방조한 혐의를 받는 유튜버들은 지난달 기소돼 재판을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여수산단 공장서 유해화학물질 누출… 인명 피해 없어</title>
+      <link>https://www.chosun.com/national/incident/2024/09/14/AOH6BYNSTRBMZAR75KKP6TDLEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/14/AOH6BYNSTRBMZAR75KKP6TDLEY/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>14일 낮 12시 56분쯤 전남 여수시 여수국가산업단지 한 공장에서 화학물질이 누출되는 사고가 발생했다. 이날 사고는 시운전 과정에서 배관에 균열이 발생해 수산화나트륨이 1ℓ가량 누출됐다.</description>
+      <pubDate>Sat, 14 Sep 2024 06:21:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S65YJ4IRY6VRIPWEDP2P3EQK4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여수국가산업단지 야경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14일 낮 12시 56분쯤 전남 여수시 여수국가산업단지 한 공장에서 화학물질이 누출되는 사고가 발생했다. 이날 사고는 시운전 과정에서 배관에 균열이 발생해 수산화나트륨이 1ℓ가량 누출되며 발생했다. 다행히 누출방지설비가 설치돼 외부로 화학물질이 누출되지 않은 것으로 확인됐다.&lt;br&gt;&lt;br&gt;수산화나트륨은 흡입하거나 피부에 접촉할 경우 상해나 자극을 유발할 수 있고, 물과 닿으면 독성가스가 발생해 유해화학물질로 분류된다.&lt;br&gt;&lt;br&gt;소방당국과 공장 측은 설비 가동을 중단하고 정확한 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>몸값 8000만원… ‘바다의 로또’ 밍크고래 양양 앞바다에서 잡혀</title>
+      <link>https://www.chosun.com/national/regional/2024/09/14/HR6ZXFUCBBBURMYU4TRDLV2HXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/14/HR6ZXFUCBBBURMYU4TRDLV2HXI/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>바다의 로또로 불리는 밍크고래가 강원 양양군 속초 앞바다에서 그물에 걸려 죽은 채 발견됐다.20일 속초해양경찰서에 따르면 이날 오전 6시쯤 강원 양양군 기사문항 북동방 약 5km 해상에서 4.99t급 자망 어선 A호가 조업 중 밍크고래를 혼획했다고 신고했다.</description>
+      <pubDate>Sat, 14 Sep 2024 05:42:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2ZQ4VWA3KRC5RCWZBWI7LDVYRU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오전 6시쯤 강원 양양군 기사문항 북동방 약 5km 해상에서 무게 2t에 달하는 밍크고래가 혼획됐다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;바다의 로또로 불리는 밍크고래가 강원 양양군 속초 앞바다에서 그물에 걸려 죽은 채 발견됐다.&lt;br&gt;&lt;br&gt;14일 속초해양경찰서에 따르면 이날 오전 6시쯤 강원 양양군 기사문항 북동방 약 5km 해상에서 4.99t급 자망 어선 A호가 조업 중 밍크고래를 혼획했다고 신고했다.&lt;br&gt;&lt;br&gt;이날 잡힌 밍크고래는 길이 6.1m, 둘레 3.05m, 무게 2t에 달했으며 불법 포획 흔적은 발견되지 않았다. 이 밍크고래는 약 8000만원에 위판됐다.&lt;br&gt;&lt;br&gt;속초해경 관계자는 “고래 불법 포획 시에는 엄정하게 법을 집행해 나갈 방침”이라며 “조업 중 혼획된 고래도 즉시 해경에 신고해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“이럴 거면 주지 마세요”...’배 1개·컵라면 1개’ 중소기업 황당 추석 선물</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/14/TYPOJMWXRJFDZCFVXEUK6NWX4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/14/TYPOJMWXRJFDZCFVXEUK6NWX4A/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Sep 2024 06:14:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7C6FHT6GCZFM5IHHEADYQBEJAA.png"&gt;&lt;figcaption&gt;&lt;small&gt;추석 선물 상자 안에 든 배를 직원끼리 나눠 가지라고 했다는 글./디시인사이드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중소기업 근로자들이 올린 추석 선물 인증 사진이 온라인상에서 화제를 모으고 있다.&lt;br&gt;&lt;br&gt;14일 디시인사이드 중소기업 갤러리에는 ‘추석 선물 인증’ ‘중소기업 추석 선물 받았다’ 등의 여러 글들이 올라왔다.&lt;br&gt;&lt;br&gt;한 네티즌은 나주 배가 여러 개 들어있는 선물 상자 1개를 사진으로 올렸다. 이와 함께 “1개씩 가져가래요”라고 적었다. 개인이 추석 선물로 나주 배 상자를 하나씩 받는 것이 아니라 하나의 상자 안에 있는 배를 여러 직원이 함께 나눠 가진다는 뜻이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XZLNH7TV6RDYTCWCRXWGMPJMRE.png"&gt;&lt;figcaption&gt;&lt;small&gt;추석 선물로 컵라면과 초코바 1개씩을 받았다고 토로한 글에 등장하는 사진./디시인사이드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 다른 게시글 작성자는 컵라면과 간식거리 1개를 추석 선물로 받았다고 했다. 그는 사진과 함께 “출근했는데 책상 위에 이렇게 돼 있어서 ‘뭐지’하고 앉았다”라며 “부장이 흡연자들 데리고 사장 욕을 하길래 들어봤더니 사장이 가족 여행으로 공항 가기 전에 선물 미리 준다며 우리 회사 앞 편의점에서 2+1 라면을 사서 세팅해놓고 미국 갔다고 한다”고 적었다.&lt;br&gt;&lt;br&gt;이외에도 업체에서 들어온 참치 세트를 나눠 받은 근로자도 있었다. 홍삼 세트 내용물을 직원 수만큼 소분해 추석 선물로 대체했다는 사람도 있었다. 일부는 연휴에도 일을 하지만 선물을 받지 못했다는 푸념 글도 올렸다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “차라리 추석 선물을 안 주는 게 나을 듯” “국회의원들이 이번 추석 휴가비로 424만 원씩 받았다던데, 너무 비교된다” “청년들한테 일 안 한다고 하는데 이런 기업 안에서 어떻게 하냐” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;의원들이 이번에 받은 명절휴가비는 424만 7940원이다. 이는 ‘월 봉급액의 60%를 지급한다’는 일반 공무원 수당 규정과 같은 방식으로 계산된 것이다.&lt;br&gt;&lt;br&gt;반면 HR 테크기업 인크루트가 지난 9월 직장인 1055명을 대상으로 추석 연휴 계획 및 상여금을 설문 조사한 결과에 따르면 직장인 중 35.5%만 추석 상여금을 받는 것으로 조사됐다. 응답자의 40.6%는 “추석 상여금을 받지 않는다”고 답했으며 23.9%는 “잘 모르겠다”고 답한 바 있다. 추석 상여금을 받는다고 응답한 사람들은 평균 83만 8000원을 받았다고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>일가족 3명 탄 차량 5m 고가도로 아래로 추락… 70대 노모 숨져</title>
       <link>https://www.chosun.com/national/incident/2024/09/14/2GQZAP7RPFCEVATDI7YS2GMUMQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/14/2GQZAP7RPFCEVATDI7YS2GMUMQ/</guid>
@@ -956,42 +992,6 @@
       <description/>
       <pubDate>Fri, 13 Sep 2024 05:19:50 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6Z2CPKMHZF7JCPKBDGRQY6BL4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스터디카페 아르바이트를 구한다며 여성들을 속인 뒤 키스방으로 유인해 성범죄를 저지른 혐의로 재판에 넘겨진 40대 남성이 실형을 선고받았다.&lt;br&gt;&lt;br&gt;13일 법조계에 따르면, 부산지법 서부지원 제1형사부(부장판사 이진재)는 간음유인, 강제추행 등 혐의로 기소된 40대 A씨에게 징역 7년을 선고하고 10년간 아동·청소년·장애인 관련 시설 취업제한과 신상 공개를 명령했다.&lt;br&gt;&lt;br&gt;키스방을 운영한 B씨는 징역 2년을 C씨는 징역 1년에 집행유예 2년을 선고받았다. 각각 벌금 2000만원도 함께 선고됐다.&lt;br&gt;&lt;br&gt;A씨는 유사성행위 업소로 알려진 키스방 인력 공급책 역할을 했다. 그는 2021년 11월부터 작년 8월까지 온라인 알바 구인 사이트에서 이력서를 열람하고 20~30대 여성들에게 접근해 스터디카페 아르바이트를 구하는 척 속이고 면접을 봤다.&lt;br&gt;&lt;br&gt;이후 “가벼운 스킨십만 하면 돈을 많이 벌 수 있다. 클럽 정도의 스킨십만 하면 더 많은 돈을 벌 수 있다”며 키스방으로 여성들을 유인해 성범죄를 저지른 혐의로 재판에 넘겨졌다. 이 같은 거짓말에 속아 성범죄 피해를 본 재수생(10대)은 사건 20여일 만에 극단적 선택을 했다.&lt;br&gt;&lt;br&gt;A씨는 “교육 목적으로 신체접촉이 이루어지는 과정에서 합의된 관계였다”며 혐의를 부인해왔다. 하지만 재판부는 피해자와 관련자 진술 내용, 수사 기록 등에 비추어 A씨의 혐의 대부분을 유죄로 인정했다.&lt;br&gt;&lt;br&gt;재판부는 “A씨는 유사한 범죄로 누범 기간 중 자숙하지 않고 범행을 저질렀고 막 성인이 되었거나 성인이 되기 직전의 불특정 여성에게 접근해 약간의 신체접촉으로 큰돈을 벌 수 있다고 속이는 수법으로 자기 성적 욕망을 충족해 죄질이 극히 나쁘다”고 했다.&lt;br&gt;&lt;br&gt;이어 “이 사건으로 피해자 중 일부는 성병에 걸리고 한 명은 극단적 선택을 하는 단초를 제공했음에도, 잘못을 축소하기에만 급급했다”며 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;재판부는 B씨와 C씨에 대해선 “불특정 다수 어린 여성들의 성을 상품화한 점에 대해서 비난 가능성이 매우 크다”고 했다. C씨는 형사 처벌을 받은 전력이 없는 점 등을 들어 법정 구속은 면했다.&lt;br&gt;&lt;br&gt;키스방 운영자 B·C씨는 2022년 11월부터 작년 8월까지 부산진구의 건물 3·4층 및 오피스텔 2개호실에서 키스방을 운영하면서 유사 성행위를 알선하고, 음란행위 등을 목적으로 키스방 종업원 20명을 모집한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“모랑헌 밥 잡수시고...” 제주 ‘노고록 아저씨’ 쌀 100포대 기부</title>
-      <link>https://www.chosun.com/national/regional/jeju/2024/09/13/L222MJIR3RCJVOCCFPFJJ65OW4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/jeju/2024/09/13/L222MJIR3RCJVOCCFPFJJ65OW4/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Sep 2024 06:32:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2EHP6LP33VDM7KZVD4OZRLM57U.png"&gt;&lt;figcaption&gt;&lt;small&gt;/제주 서귀포시 서홍동&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1999년부터 26년째 어려운 이웃을 위해 쌀을 기부하며 이른바 ‘노고록 아저씨’로 불리는 제주의 한 익명 독지가가 이번 추석에도 300만원 상당의 쌀 100포대를 기부했다.&lt;br&gt;&lt;br&gt;13일 제주 서귀포시 서홍동에 따르면, 지난 10일 10㎏들이 쌀 100포대가 서홍동 주민센터에 기탁됐다.&lt;br&gt;&lt;br&gt;기부자는 제주 방언으로 ‘더위가 심해도 추석은 왐수다, 모랑헌 밥 해 잡수시고 건강하십시오’라는 메모를 남겼다. ‘더위가 심해도 추석은 왔습니다. 김이 모락모락 나는 부드럽고 맛난 밥 해 잡수시고 건강하십시오’라는 뜻이다.&lt;br&gt;&lt;br&gt;‘노고록 아저씨’는 지난 26년 동안 매년 설, 추석, 연말 세 차례 쌀을 기부하는 익명의 독지가다. 이번에도 직접 주민센터를 방문하지 않고 배달업체를 통해 쌀과 함께 이런 메모를 보내왔다.&lt;br&gt;&lt;br&gt;‘노고록 아저씨’라는 이름은 그가 쌀을 기부할 때마다 ‘노고록’이라는 단어가 들어간 메모를 함께 보내오면서 붙은 별명이다. 2009년 12월 발간된 제주어사전에서 ‘노고록하다’를 찾아보면 “사람의 성질이나 물건 따위가 여유롭다”는 뜻풀이가 나온다. 제주특별자치도가 홈페이지에 올려둔 제주어사전에서는 ‘오북하게, 마음 놓고 편안히’라고 뜻을 푼다.&lt;br&gt;&lt;br&gt;‘노고록 아저씨’는 올해 설에는 ‘살암시난 혼 해가 가수다. 명절은 돌아오고 노고록하게 잘 보냅써(살다 보니 한해가 갔습니다. 돌아온 명절 여유롭게 잘 보내시길 바랍니다)’, 지난해 연말엔 ‘어두왁 볼각 살암시난 혼 해가 감수다. 새해는 더 노고록헙써(어둡고 힘들어도 살다보니 한해가 갔습니다. 새해에는 더 여유가 충만해지시길 바랍니다)’란 메모를 쌀과 함께 보내왔다.&lt;br&gt;&lt;br&gt;기탁된 쌀은 지역 내 어려운 이웃에게 전달될 예정이다. 오희경 서홍동장은 “기탁자의 따뜻한 마음이 도움이 필요한 이웃들에게 큰 힘이 될 것이며, 나눔 문화가 서홍동 전역으로 널리 퍼질 수 있도록 주민센터도 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>직장갑질119 “뉴진스 멤버 ‘인사 무시’ 주장 사실이면 직장 내 괴롭힘”</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/13/X73CMKBN3ZCGJBIMQNL2JLB7YU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/13/X73CMKBN3ZCGJBIMQNL2JLB7YU/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Sep 2024 06:54:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O2RFTOGZVY23VS7ISLERJTUZPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 뉴진스가 지난 11일 유튜브 라이브 방송을 통해 ″25일까지 어도어를 원래대로 돌려놓으라″고 하이브와 방시혁 의장에게 요구했다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하이브 산하 레이블 어도어의 걸그룹인 뉴진스 멤버 하니가 하이브 내 다른 그룹 매니저에게 인사를 했다가 ‘무시해’라는 얘기를 들었다고 주장한 것과 관련 “사실이라면 직장 내 괴롭힘으로 볼 수 있다”는 해석이 나왔다.&lt;br&gt;&lt;br&gt;시민단체 직장갑질119는 13일 보도자료를 통해 이 같은 주장이 사실이라는 전제로 “업무상 적정범위를 넘는 괴롭힘”이라고 밝혔다.&lt;br&gt;&lt;br&gt;단체는 “고용노동부는 직장 내 괴롭힘 예방‧대응 매뉴얼을 통해 ‘상사나 다수 직원이 특정한 직원과 대화하지 않거나 따돌리는 이른바 집단 따돌림, 업무수행 과정에서의 의도적 무시‧배제 등의 행위는 업무상 적정범위를 넘어간 행위’라 설명하고 있다”며 “매니저가 하니의 인사를 무시하고, 다른 이들에게 뉴진스 맴버들의 인사를 무시할 것을 주문했다면 이러한 행동은 업무상 적정범위를 넘는 괴롭힘으로 볼 수 있다”고 설명했다.&lt;br&gt;&lt;br&gt;단체는 “직원이 직장 내 괴롭힘 피해를 알렸다면 회사는 지체 없이 당사자 등을 대상으로 객관적 조사를 실시해야 하며, 이를 위반하는 경우 500만원 이하의 과태료가 부과될 수 있다”며 “설령 피해 신고가 없더라도 회사가 직장 내 괴롭힘 발생 사실을 인지한 때에는 조사해야 할 의무가 있다”고 했다.&lt;br&gt;&lt;br&gt;다만 단체는 “문제는 뉴진스를 근로기준법상 근로자로 볼 수 있을지 여부”라며 “법원은 연예인을 노조법상 근로자로 보았으나 근로기준법상 근로자 여부에 대해서는 판단한 적이 없다. 과거 고용노동부는 연예인은 근로기준법상 근로자가 아니라고 했다”고 전했다.&lt;br&gt;&lt;br&gt;단체는 “아이돌이 전속계약을 맺었다는 이유로 이들을 노동관계법령 사각지대에 계속 남겨두는 것이 적절할지는 의문”이라며 “아이돌의 노동권이 보장될 수 있도록 제도 개선이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;한편 뉴진스 멤버들은 지난 11일 유튜브 라이브 방송을 통해 기습 해임을 당한 민희진 전 어도어 대표의 복귀를 요구했다.&lt;br&gt;&lt;br&gt;하니는 이 라이브 방송에서 “다른 아이돌팀과 자주 마주칠 수 있는 메이크업 받는 곳에서 다른 아이돌 멤버와 매니저를 마주친 적이 있다”며 “매니저가 제가 들릴 정도로 ‘무시해’라고 말하는 걸 들었다”고 주장했다.&lt;br&gt;&lt;br&gt;뉴진스에 대한 하이브 사내 따돌림 의혹은 과거에도 나온 바 있다. 뉴진스 멤버들의 부모는 한 언론 인터뷰를 통해 방시혁 하이브 의장이 뉴진스 멤버들의 인사를 여러 차례 받아주지 않았다고 주장했다. 이에 사측에 이의를 제기했지만 “방 의장이 안면인식장애가 있을 수 있다”는 답변이 돌아왔다고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원, 대유위니아 계열사 대유플러스 회생계획 인가 결정</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/13/76LF54UBJZAPTO43CWYMKTZTOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/13/76LF54UBJZAPTO43CWYMKTZTOY/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Sep 2024 06:50:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PMJRWID52H5ZJHWPKJ3T6JAQXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울회생법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울회생법원 회생1부(재판장 안병욱 법원장)가 대유위니아그룹 계열사인 대유플러스의 회생계획안을 인가했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;대유플러스는 가장 확실하고도 신속한 회생방안은 인수합병(M&amp;amp;A)을 통해 회생절차를 조기에 종결해 역량 있는 매각주간사로 하여금 기업 가치를 극대화하도록 하는 것이라 판단하고 회생계획안 인가 전 M&amp;amp;A를 추진·달성했고, 투자목적회사인 NR제1호 재기지원 펀드가 422억원에 대유플러스를 인수하기로 했다.&lt;br&gt;&lt;br&gt;NR제1호 재기지원 펀드는 NR제1호 재기지원펀드 사모투자 합자회사가 100% 출자한 업체다. 합자회사의 주요 출자자는 자동차 부품 제조사인 DH오토리드다.&lt;br&gt;&lt;br&gt;대유플러스 측은 회생계획안에서 “M&amp;amp;A 결과 조건부 최종 인수예정자로 선정된 NR제1호 재기지원펀드 투자목적회사가 제출한 최종 인수금액이 채무자 회사를 청산 시 채권자들이 받게 될 금액보다 많은 금액으로 조기 변제가 가능할 것으로 예상된다”고 밝혔다.&lt;br&gt;&lt;br&gt;서울회생법원은 “대유플러스의 근로자 대부분이 회생계획안에 찬성했다”고 설명했다.&lt;br&gt;&lt;br&gt;1967년 자동차 부품제조업체로 설립된 대유플러스는 가전, 에너지, 정보통신업 등으로 사업을 확장하다가 2020년 코로나 사태 등으로 인한 경영 악화·매출 감소가 계속되자 작년 9월 25일 회생절차 개시를 신청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“완전 엉망”…울릉도 도착한 외국인 유튜버, 주저없이 삽부터 들었다</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/13/7RLMUDGJCZAV7LYLK4LUA55WWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/13/7RLMUDGJCZAV7LYLK4LUA55WWQ/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Sep 2024 05:45:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/67YY6DINCBHZXK57IWKK24MNOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세계일주 유튜버 닉케이가 12일 46년만의 폭우가 쏟아진 울릉도에서 수해복구를 돕고 있다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자전거로 전세계를 여행하는 미국인 유튜버가 46년 만의 기록적 폭우가 내린 울릉도를 방문했다가 수해 복구를 도왔다.&lt;br&gt;&lt;br&gt;13일 세계일주 유튜버 ‘닉 케이(NIck K)’는 유튜브 채널을 통해 “울릉도에 도착하자마자 자연재해에 맞닥뜨렸다. 여객선을 타는 내내 비가 쏟아졌지만 섬 상황이 그렇게 심각하다는 걸 몰랐다”며 전날촬영한 영상을 공개했다.&lt;br&gt;&lt;br&gt;경북 포항에서 울릉도행 여객선에 올라탄 닉 케이는 도착 무렵 창 밖으로 폭우가 쏟아지는 모습을 봤다. 곧이어 입도한 그는 “맙소사”를 연발하며 “상황이 좋지 않다”고 했다.&lt;br&gt;&lt;br&gt;카메라에는 경사로에 흙탕물이 폭포수처럼 흘러내리고, 상인들은 가게 안으로 들어찬 흙탕물을 퍼내는 모습이 고스란히 담겼다.&lt;br&gt;&lt;br&gt;상황을 살핀 닉 케이는 “엉망이 됐다. 아마 며칠간 섬에 갇혀서 주민들을 도와야 할 것 같다”며 “빨리 호텔에 가서 짐을 두고 삽을 빌려야겠다”고 했다.&lt;br&gt;&lt;br&gt;곧이어 닉 케이는 직접 삽을 들고 소방대원, 주민들과 함께 토사를 치웠다. 그는 “차들이 지나다닐 수 있게 토사와 돌멩이를 치우고 있다”고 설명했다. 복구 작업이 진행되는 동안에도 경사진 도로 위쪽에서 흙탕물이 끊임없이 쏟아져 내려왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YZFPOQPAZZAABN45E57LLT73G4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;세계일주 유튜버 닉 케이가 12일 촬영한 울릉도 상황./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;닉 케이는 중간중간 인근 피해 상황을 둘러봤다. 한 건물 지하주차장에서는 포크레인으로 토사를 한창 퍼내고 있었고, 부엌까지 토사가 들어찬 가정집도 있었다.&lt;br&gt;&lt;br&gt;닉 케이는 “정말 아름다운 섬인데 지금은 집안 청소가 필요한 상황”이라며 “복구하는데 시간이 좀 걸릴 것 같다”고 했다.&lt;br&gt;&lt;br&gt;기상청에 따르면 울릉에는 지난 11일 99.9㎜의 비가 내린데 이어 12일 208.5㎜의 비가 내렸다. 이틀 사이에 무려 308.4㎜의 비가 내린 것이다.&lt;br&gt;&lt;br&gt;울릉에서 관측된 이번 폭우는 11일 오후 11시를 중심으로 시간당 70.4㎜를 기록했다. 이는 1978년 8월3일 시간당 73.0㎜가 내린 이후 46년 만에 최고 기록이다.&lt;br&gt;&lt;br&gt;갑작스러운 폭우로 산사태가 일어나거나 토사가 길이나 마을로 밀려 내려오는 일이 곳곳에서 발생했다. 울릉군과 울릉경찰서 등에 따르면 현재까지 토사 유입 등으로 시설 피해가 10곳 발생했다. 다행히 현재까지 확인된 인명피해는 없는 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZVSNPWVOHFKWTL2RD66LG5T6NQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울릉도·독도 지역에 호우경보가 발효된 12일 경북 울릉군 울릉읍 일대에서 많은 폭우로 도로가 잠겨있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자전거를 타고 전세계를 여행하는 닉 케이는 지난 7월 일본 여행을 마치고 한국 여행을 시작했다. 부산에서 자전거를 타고 서울까지 가겠다는 계획을 밝힌 그의 첫 한국 여행기 영상은 이날 기준 조회수 170만회를 넘으며 국내 네티즌들 사이 큰 인기를 끌었다. 최근 강원 화천 여행을 거쳐 지난 7일 포항에 도착한 그는 컨디션 난조를 이유로 자전거를 두고 울릉도와 독도 여행을 할 계획임을 밝힌 바 있다.&lt;br&gt;&lt;br&gt;닉 케이의 울릉도 영상을 접한 네티즌들은 “아직 몸 상태도 안좋은데 비 맞아가며 울릉도 복구를 도와줘서 정말 감사하다” “독도를 알리고 수해복구를 돕는 외국인 유튜버라니 성공하길 바란다” “한국인도 살면서 가보기 힘든 울릉도인데 46년만의 폭우가 쏟아진 울릉도를 경험하다니” “역대급 더운 여름에 한국에 와서 몸도 아프고 고생했는데 홍수까지 겪다니. 항상 건강 조심하길” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“이쪽과 절연하길”…‘호텔 난동’ 수노아파 조직원들 향한 판사의 당부</title>
