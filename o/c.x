@@ -13,6 +13,92 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“파리도 졸리는 더위” 친근한 예보...제1호 기상캐스터 김동완 별세</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/15/7EHDPPL6INEY7B2Z26J77XYDOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/15/7EHDPPL6INEY7B2Z26J77XYDOM/</guid>
+      <dc:creator>서보범 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Sep 2024 05:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E2JJF7RXVFEBZDADX4LQLOVXVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;故 김동완 기상 캐스터. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라 제1호 기상캐스터로 알려진 김동완 전 기상청 기상통보관이 향년 89세로 15일 별세했다.&lt;br&gt;&lt;br&gt;김 전 통보관은 1935년생으로, 공군 조종사의 꿈을 접고 1959년 기상청 전신인 국립중앙관상대에 들어갔다. 관상대에서 기상 분석을 하던 그는 예보 전달 부서 사무관이 되며 방송과 인연을 맺고 1965년~1997년 33년간 1호 기상캐스터로서 일기예보를 했다.&lt;br&gt;&lt;br&gt;김 전 통보관이 일기예보를 하던 초창기에는 지금과 달리 방송사에 소속된 기상캐스터가 아닌 기상청 공무원이 예보를 맡았다. 뉴스 말미에 앵커가 “지금부터 마이크를 중앙관상대로 옮겨 날씨를 전해드리겠습니다”고 하면 김 전 통보관이 예보를 하는 방식이었다. 당시 기상청에는 ‘통보관’ 직책도 없었지만, 방송국에서 임의로 그의 직책을 통보관으로 부르면서 정식 명칭이 됐다.&lt;br&gt;&lt;br&gt;그는 날씨 예보방송의 토대를 만들었다는 평가를 받는다. 딱딱한 예보에서 벗어나 손으로 일기도를 그려가며 날씨를 쉽게 전달하고자 했다. “여우가 시집가는 날” “파리가 조는 듯한 더위” 등 청취자 귀에 쏙쏙 들어오는 문구를 활용해 예보 전달력과 주목도를 높이기도 했다. 재치있고 믿을 수 있는 ‘생활예보’를 전달한 공로를 인정받아 2010년 세계 기상의 날에는 국민훈장 동백장을 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/732ETQNTVJD5TEF6RL7P7RQWFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;故 김동완 기상 캐스터. /기상청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 전 통보관을 모셔가기 위한 방송국들의 경쟁은 치열했다. 1974년부터 TBC(동양방송)의 일기예보를 전담한 김 전 통보관은 기상청을 퇴직한 이후 1982년부터 MBC에서 기상캐스터를 맡았다. 그는 생전 인터뷰에서 “TBC 예보를 전담하게 되니까 타 방송국 사장이 백지수표를 내밀며 ‘마음껏 적으라’고 했다. 그러자 이병철 회장이 ‘TBC에서 10년 채우면 삼성 종신이사를 시켜주겠다’고 하셨다”고 했다. 그가 MBC 기상캐스터를 맡았던 당시에는 타 방송 9시 뉴스를 보던 국민들이 날씨 뉴스가 나올 때가 되면 MBC로 채널을 돌렸다.&lt;br&gt;&lt;br&gt;그런 그가 오보(誤報)로 곤혹을 치른 경우도 있었다. 어린이날 오전 6시 날씨 예보에서 “어린이 얼굴만큼이나 맑은 날씨가 되겠습니다”라고 전한 뒤 방송국을 나서자마자 폭우가 쏟아진 것이다. 비를 맞으며 걷다가 목욕탕에 들어선 그를 보곤 손님들이 “김 선생, 비 안온다더니 이게 뭡니까”라 항의했다. 귀가한 그를 향해 아내도 “이게 뭐냐” 따지기도 했다.&lt;br&gt;&lt;br&gt;김 전 통보관은 늦더위가 기승을 부리던 2013년 8월 본지 인터뷰에서 이같이 말했다. “옛말에 ‘여름 손님이 호랑이보다 무섭다’고 했습니다. 여름 손님(더위)이 있어야 가을 손님(결실)도 온다고 하지요. 각별히 건강에 유의하십시오. 지금까지 김동완 통보관이었습니다.”&lt;br&gt;&lt;br&gt;고인의 빈소는 서울 강서구 이대서울병원 장례식장 8호실에 마련됐다. 발인은 17일 오전 7시 30분이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H5ZBZGNLF5GMLEKWDK6ZBUVVSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;33년간 재치 있는 생활예보로 사랑받았던 기상통보관 1호 김동완씨 현역 기상캐스터 시절 모습. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PRZDKQY6QFFMVMDRDQUCN2C5VM.gif?width=480&amp;height=266&amp;auth=3846cfc207acc006c78182bf49e51172860741e6687c433014711f29d1fb4469&amp;smart=true" type="image/jpeg" height="266" width="480"/>
+    </item>
+    <item>
+      <title>백내장 환자 소개받고 40억 뒷돈 준 강남 안과 원장, 2심서 감형</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/15/LFSRPJWKNFDWBCAJDG6UFN6UCQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/15/LFSRPJWKNFDWBCAJDG6UFN6UCQ/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Sep 2024 07:59:09 +0000</pubDate>
+      <content:encoded>백내장 환자를 소개받는 대가로 뒷돈 총 40억원을 건넨 서울 강남의 안과병원 원장이 2심에서 감형받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5SBH6RMYSUSMJ6FMEXX4ESYELI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지법 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사9부(재판장 이성복)는 최근 의료법 위반 혐의로 기소된 서울 강남구의 A 안과병원 대표원장 박모씨에게 징역 1년 6개월에 집행유예 3년을 선고했다고 15일 밝혔다. 앞서 지난 3월 1심이 선고한 징역 1년보다 줄어든 형량이다.&lt;br&gt;&lt;br&gt;재판부는 “영리를 목적으로 환자를 유인하거나 사주하는 행위는 환자 유치를 둘러싸고 금품수수 등의 비리나 불합리한 과다경쟁을 유발해 의료시장의 질서를 혼란시킨다”며 “종국적으로 환자들에게 제공되는 의료의 질을 떨어뜨리고, 부담이 결국 환자들이나 보험회사에 전가된다”고 했다.&lt;br&gt;&lt;br&gt;다만 재판부는 약 4년에 걸친 박씨의 의료법 위반 행위를 ‘실체적 경합범(한 사람이 2개 이상 저지른 범죄를 각각의 행위로 판단)’으로 보고 가중 처벌한 1심에 문제가 있다며 형량을 낮췄다. 대신 박씨의 범행을 ‘포괄일죄’로 판단했다.&lt;br&gt;&lt;br&gt;포괄일죄란 동일한 범죄 행위를 여러 번 했을 때 하나의 범죄로 묶어 처벌하는 것을 뜻한다. 통상 포괄일죄를 적용하면 경합범 가중(가장 중한 죄의 처벌형 기준 50%)을 적용했을 때보다 형량이 줄어든다.&lt;br&gt;&lt;br&gt;A 병원은 개업 초부터 브로커들에게 환자 1명당 현금 150만원 또는 백내장 수술비의 20∼30%를 알선 대가로 주면서, 브로커를 광고 대행업자·직원으로 둔갑시켜 환자들을 속인 것으로 조사됐다. 대표원장 박씨는 2019년 10월부터 작년 7월까지 병원 브로커 6명에게 수차례 환자를 알선받은 대가로 총 40억 원을 지급한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;이들은 백내장을 진단받고 다초점 인공수정체 삽입 수술을 받는 실손보험 가입자가 최대 100% 비용을 보상받을 수 있다는 점을 토대로, 주로 40대 후반∼70대 보험 가입자를 노렸다고 한다.&lt;br&gt;&lt;br&gt;당초 1심은 박씨에 경합범 가중을 적용해 실형을 선고했으나, 2심은 포괄일죄로 보고 감형했다. 2심 재판부는 “박씨의 의료법 위반 범행은 모두 영리를 목적으로 단일하고도 계속된 범의하에 일정 기간 계속해 저질러진 일련의 범죄행위이고 피해법익도 동일해 포괄일죄에 해당한다”고 했다. 같은 이유로 1심에서 실형을 선고받았던 브로커 6명도 2심에선 징역형의 집행유예로 감형받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>손가락 절단 환자, 병원 찾다 94km 떨어진 전북 전주로 이송</title>
+      <link>https://www.chosun.com/national/regional/honam/2024/09/15/U2MBINOC6NFVHEP3SQF6GVCIXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/09/15/U2MBINOC6NFVHEP3SQF6GVCIXE/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Sep 2024 07:49:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EWXB2JKZFNIX7GMVKQS7IY6Z5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 대학병원에 줄 지어 선 구급차. (사진은 기사와 직접적인 관련 없음). /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석 연휴인 주말 손가락 절단 사고를 당한 환자가 병원을 찾지 못해 94㎞ 떨어진 전북 전주시까지 이송돼 수술을 받았다.&lt;br&gt;&lt;br&gt;15일 오후 1시31분쯤 광주광역시 광산구 한 아파트에서 A(50대)씨가 문틈에 손가락이 끼이면서 절단되는 사고를 당했다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 119구급대는 치료를 위해 대학병원 2곳과 종합병원 1곳, 정형외과 전문병원 1곳 등 가까운 의료기관 4곳에 환자 이송을 문의했지만 받아주는 곳은 없었다.&lt;br&gt;&lt;br&gt;이날 광주지역 대학병원들과 종합병원 등은 접합수술을 할 수 있는 의사가 없거나 휴무인 탓에 이 환자를 받지 못했다고 한다.&lt;br&gt;&lt;br&gt;구급대는 전북지역 의료기관을 수소문한 끝에 차로 약 1시간 8분, 거리로 94km 떨어진 전주시의 한 정형외과로 A씨를 이송했다.&lt;br&gt;&lt;br&gt;사고 발생 약 2시간 만인 오후 3시37분쯤 전주시 병원에 도착한 A씨는 접합수술 등 치료를 받았다. A씨는 생명에 지장이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EWXB2JKZFNIX7GMVKQS7IY6Z5E.jpg?width=5744&amp;height=3719&amp;auth=efac17e5e5352390f2f2411a5545e0174423bb0b012af9d9711e7259ba89ca6d&amp;smart=true" type="image/jpeg" height="3719" width="5744">
+        <media:description type="plain">[서울=뉴시스] 정병혁 기자 = 11일 서울의 대학병원에서 구급차들이 줄 지어 서 있다.
+
+정부가 추석 연휴에 응급실 환자가 몰리는 상황에 대비해 11일부터 25일까지 2주간 '추석 명절 비상 응급 대응 주간'을 운영한다. 구체적으로 중증·응급환자에 대한 대응 역량을 높이기 위해 44개 권역응급의료센터에 더해 136개 지역응급의료센터 중 진료 역량을 갖춘 15곳 내외를 거점지역응급의료센터로 지정하고, 한국형 중증도 분류체계(KTAS) 1~2에 해당하는 중증·응급환자를 먼저 수용한다. KTAS 1~2등급은 생명이나 사지에 위험이 있어 빠른 처치가 필요한 상황으로 심정지, 중증외상, 호흡곤란, 극심한 흉통, 복통, 두통, 토혈, 의식장애 등이 해당한다. 2024.09.11. jhope@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">jhope</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>아들 감금하고 때린 경찰관 아빠… 아동학대로 입건</title>
+      <link>https://www.chosun.com/national/regional/gangwon/2024/09/15/PUL6UVITZREGXOOVVJOLS65QII/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2024/09/15/PUL6UVITZREGXOOVVJOLS65QII/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Sep 2024 07:34:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VAOB3YOJ2F6IDHX5ZVPYDNQ5RE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현직 경찰관과 그의 아내가 휴대전화로 게임을 한다는 이유로 자녀를 방에 가두거나 때리는 등 학대한 혐의로 경찰에 붙잡혀 조사를 받고 있다.&lt;br&gt;&lt;br&gt;강원 춘천경찰서는 아동복지법 위반 혐의로 A(49)씨와 그의 아내 B(여·47)씨를 붙잡아 조사하고 있다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 지난 14일 오후 7시 39분쯤 춘천시 효자동의 자택에서 막내아들 C(11)군을 학대한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 C군에게 ‘머리에 검정 비닐봉지를 씌우겠다’고 겁을 준 뒤 C군을 방에 가두고 문에 테이프를 붙였다. 이어 손으로 C군을 폭행했다.&lt;br&gt;&lt;br&gt;B씨는 둔기를 들고 C군을 위협하고, 케이블 타이로 C군의 손을 묶은 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨 부부는 C군이 휴대전화 게임을 한다는 이유로 이 같은 학대를 저지른 것으로 알려졌다.&lt;br&gt;&lt;br&gt;C군의 누나로부터 신고를 받은 경찰은 춘천시 아동학대 전담 공무원과 함께 현장을 찾아 누나 2명을 가정으로부터 즉시 분리해 일시보호시설로 옮겼다. C군은 부모와 함께 있겠다는 의견을 밝혀 따로 분리하지 않았다.&lt;br&gt;&lt;br&gt;A씨는 강원경찰청 소속 경찰관으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨 등을 상대로 정확한 사건 경위를 확인할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VAOB3YOJ2F6IDHX5ZVPYDNQ5RE.jpg?width=4032&amp;height=3024&amp;auth=0c497743e4dd5dfd322a2622240621e2a31dc76e26c7209a07a5ee3276cfd94d&amp;smart=true" type="image/jpeg" height="3024" width="4032">
+        <media:description type="plain">춘천경찰서.(뉴스1 DB)</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>추석 연휴 괴산 아버지집 찾았다가 차에 치여 숨진 30대</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/09/15/COOCYPCMVVBLFMJ655J4IN3I6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/09/15/COOCYPCMVVBLFMJ655J4IN3I6A/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Sep 2024 07:17:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMGZCCBBJLYGV6NJ2GXWQ3X4DM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 괴산경찰서 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석 연휴를 맞아 아버지의 집을 찾은 30대 남성이 스님이 몰던 차량에 치여 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;15일 본지 취재를 종합하면 지난 14일 오후 8시 14분쯤 충북 괴산군 문광면 양곡리 한 도로에서 SUV 차량을 몰던 A씨가 도로를 건너던 B(30대)씨를 치었다. B씨는 사고 직후 병원으로 옮겨졌지만 결국 숨졌다.&lt;br&gt;&lt;br&gt;서울에 거주하던 B씨는 아버지가 사는 고향집을 찾았다가 횡단보도가 없는 도로를 건너던 중 사고를 당한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;SUV 차량 운전자인 A씨는 충북지역 모 사찰의 주지스님으로, 음주나 무면허 상태는 아니었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 길을 건너던 B씨를 미처 발견하지 못해 사고를 낸 것으로 보고 교통사고 처리 특례법상 치사 혐의로 입건했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨를 상대로 정확한 사고경위를 확인할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MMGZCCBBJLYGV6NJ2GXWQ3X4DM.jpg?width=454&amp;height=298&amp;auth=1067e93839dff66e9d32ab38cfc5c7738fead2c3082f37c19e6008c1c378f418&amp;smart=true" type="image/jpeg" height="298" width="454">
+        <media:description type="plain">충북 괴산경찰서 /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>아파트 단지 활보한 1m 대형 도마뱀… 탈출 3시간 만에 잡았다</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/15/3BDGSAKTM5HJZDUMJR5T3KO4SY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/15/3BDGSAKTM5HJZDUMJR5T3KO4SY/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Sep 2024 06:51:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/45JVT5IDMZEPJB3U4TLXJCDA7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김포서 포획된 애완용 도마뱀. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 김포시에서 길이 1m짜리 애완용 도마뱀이 탈출하는 소동이 빚어졌다. 도마뱀은 신고 접수 약 3시간 만에 포획됐다.&lt;br&gt;&lt;br&gt;15일 소방 당국에 따르면 이날 정오쯤 김포시 마산동 한 주민이 산책 중 애완용으로 기르던 테구도마뱀을 놓쳤다는 신고가 접수됐다. 경찰과 소방 당국은 탈출한 도마뱀에게 독은 없지만 사람을 물 수 있어 위험하다고 판단해 재난 문자 발송을 결정했다.&lt;br&gt;&lt;br&gt;이에 김포시는 오후 12시37분쯤 마산동·장기동·구래동 일대에 재난 문자를 보내고 “1m 크기의 대형 도마뱀이 탈출해 마산동 힐스테이트 일대를 돌아다니고 있다”며 “물림 사고 방지를 위해 접근하지 말고 발견 즉시 119에 신고해 달라”는 내용을 전달했다.&lt;br&gt;&lt;br&gt;사라진 도마뱀은 오후 2시51분쯤 신고된 장소 부근에서 포획됐다. 대단지 아파트 인근으로 주변에는 초등학교와 공원 등이 있었다. 다행히 이번 소동으로 인한 피해는 없는 것으로 파악됐으며 도마뱀은 무사히 주인에게 돌아갔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강남 회사 지분 51% 가진 대주주…法, “명의만 빌려줬어도 세금 내야”</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/15/K4B3T2ZVL5GGVDFRV54Z4SY2MA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/15/K4B3T2ZVL5GGVDFRV54Z4SY2MA/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Sep 2024 06:22:07 +0000</pubDate>
+      <content:encoded>회사 지분을 50%이상 가진 대주주라면 실제 경영 참여 여부랑 관계없이 세금 납부 의무를 질 수 있다는 법원의 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YTMY3GW5726I3LHESU63A5FQFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정5부(재판장 김순열)는 최근 A씨가 송파세무서장을 상대로 낸 원천징수처분 취소 소송을 원고 패소로 판결했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2008년 설립된 철근콘트리트 전문 건설회사의 주식 1만500주를 보유한 주주로 등재돼 있었다. A씨의 지분율은 51.22%였다.&lt;br&gt;&lt;br&gt;이 회사는 2017년 7월부터 부가가치세 등을 체납했고, 세무당국은 A씨가 회사의 과점주주(발행주식의 50% 이상을 보유한 대주주)로서 제2차 납세의무가 있다고 판단했다. 경영난에 시달리던 회사는 결국 2020년 6월 폐업했다.&lt;br&gt;&lt;br&gt;이에 송파세무서는 2020년 1월 A씨에게 귀속분 근로소득세 309만원 중 158만원을 납부하라고 통지했다. 국세법상 회사 법인의 재산이 납부해야 할 세금보다 적을 경우, 과점주주는 부족한 금액에 대한 납세 의무를 지는 ‘제2차 납세의무자’가 된다.&lt;br&gt;&lt;br&gt;하지만 A씨는 “친형의 부탁으로 명의를 빌려줘 회사 주주로 등재됐을 뿐, 실제 주식 소유자는 형이고 회사 경영에 참여하거나 주주로서 권리를 행사한 적이 없다”며 과세 처분을 취소해달라는 행정소송을 제기했다.&lt;br&gt;&lt;br&gt;하지만 법원은 A씨의 주장을 받아들이지 않았다. 재판부는 A씨가 회사로부터 급여를 지급받는 등 업무에 관여했다는 점을 토대로 A씨를 제2차 납세의무가 있는 과점주주로 판단했다.&lt;br&gt;&lt;br&gt;재판부는 “A씨는 이 사건 회사의 사내이사 및 주주로 등재되었고 회사로부터 공사를 의뢰받아 수행하고 급여를 지급받았다”며  “A씨가 주식 양수대금의 일부를 부담한 것으로 보이고, 달리 A씨가 주주 명의를 도용당했다는 등의 사정을 찾아볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김다현 “‘父김봉곤 사망’ 가짜뉴스 너무 무서워”…오열한 사연</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/15/UTNW36WKQ5EJFAYY5MDQUZVEDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/15/UTNW36WKQ5EJFAYY5MDQUZVEDM/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Sep 2024 05:10:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NWIIUC5J3FE3DK2Y5YACI64BL4.png"&gt;&lt;figcaption&gt;&lt;small&gt;가수 김다현과 그의 부친인 청학동 훈장 김봉곤. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;TV조선 ‘미스트롯2′에서 3위를 하며 시청자들의 큰 사랑을 받았던 가수 김다현이 ‘아버지가 사망했다’는 내용의 가짜뉴스 때문에 정신적 고통을 받았다고 털어놨다.&lt;br&gt;&lt;br&gt;김다현은 14일 방송된 JTBC ‘아는형님’에 출연해 “3년 전 출연했을 때는 초등학교 5~6학년 정도 됐었다. 지금은 예고생”이라고 인사를 전했다.&lt;br&gt;&lt;br&gt;그는 ‘사춘기는 안 왔느냐’는 MC들의 질문에 “지금 사춘기인 것 같다”고 답했다. 이어 “눈물이 많아졌다. 차를 타서 하늘을 보는데 너무 예뻐서 눈물이 나더라”라고 했다.&lt;br&gt;&lt;br&gt;또 “그리고 주관이 뚜렷해졌다”며 “옛날에는 ‘부모님이 해주셔서 좋아’였다면, 지금은 ‘싫어요’가 명확하게 생긴 것 같다”고 했다.&lt;br&gt;&lt;br&gt;김다현의 아버지는 청학동의 ‘호랑이 훈장’으로 널리 알려진 김봉곤씨다. 김다현은 자신의 호불호가 명확해지면서 아버지에게도 “싫다”고 말하는 일이 예전보다 늘었다고 말했다. 그는 “아버지한테도 싫은 건 싫다고 말한다. 그래서 상처를 많이 받으신다”며 “아버지는 갱년기인 것 같다”고 웃었다.&lt;br&gt;&lt;br&gt;김다현은 최근 가짜뉴스 때문에 눈물을 쏟은 일도 있었다고 털어놨다. 그는 “유튜브를 보는데 ‘아버지가 교통사고로 죽었다’는 내용의 영상이 나오더라”라고 당시 상황을 설명했다.&lt;br&gt;&lt;br&gt;영상의 내용이 사실일까봐 걱정이 된 김다현은 즉시 아버지에게 전화를 걸었다고 한다. 당시 외출 중이었던 아버지가 전화를 받지 않자, 김다현은 아버지가 정말로 돌아가신 줄 알고 눈물을 펑펑 흘렸다고 한다.&lt;br&gt;&lt;br&gt;김다현은 “다행히 그 후에 아버지가 전화를 걸어 (무사하다고) 말씀을 해 주셨다”고 했다. 그는 “가짜뉴스가 너무 무섭더라. 벌써 그 영상이 100만 조회수를 넘었다”며 “팬 중에 어르신분들이 계시니까 진짜 믿고 전화를 많이 하신다”고 덧붙였다.&lt;br&gt;&lt;br&gt;한편 김다현은 2009년 생으로 올해 15세다. 그는 TV조선 ‘미스트롯2′과 MBN ‘현역가왕’에서 3위를 차지했으며, MBN ‘한일가왕전’에서는 MVP에 올랐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“성수가 왜 ‘올리브영역’이냐” 논란에...지하철역 이름 판매 기준 손 본다</title>
       <link>https://www.chosun.com/national/national_general/2024/09/15/SX4SEHVXO5ECXJRJMZWUMUDOJ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/15/SX4SEHVXO5ECXJRJMZWUMUDOJ4/</guid>
@@ -868,33 +954,6 @@
       </media:content>
     </item>
     <item>
-      <title>“막대기 아니라 사람 다리였다” 폭염주의보 그날 풀숲엔... </title>
-      <link>https://www.chosun.com/national/national_general/2024/09/13/I3JGH4DUBBARNNPN2NMTA2QJ34/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/13/I3JGH4DUBBARNNPN2NMTA2QJ34/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Sep 2024 13:18:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZNGAYHURZG7ZCPYZO6A43HVXI.gif"&gt;&lt;figcaption&gt;&lt;small&gt;유튜브 채널 '경찰청'에 올라온 지난달 30일 폐지를 줍던 어르신이 더위를 이기지 못하고 도로에 쓰러진 모습이 찍힌 블랙박스. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염주의보가 발령된 날 폐지를 줍다가 도로에 쓰러진 한 어르신이 경찰의 도움으로 구조됐다.&lt;br&gt;&lt;br&gt;충주경찰서는 지난달 30일 오후 2시 20분쯤 대소원면 36번 국도(청주 방면)에서 교통 예방 순찰을 하다가 갓길에 쓰러진 80대 남성 A씨를 발견해 구조했다고 밝혔다.&lt;br&gt;&lt;br&gt;공개된 블랙박스 영상을 보면, 도로를 달리던 차량 우측에 막대기 모양의 물체가 포착됐다. 이를 이상하게 여긴 경찰은 다시 해당 물체가 있는 쪽으로 다가갔다. 차량에서 내려 확인해 보니 이는 실제 사람 다리였다. 알고 보니 A씨가 더운 날씨에 폐지를 줍다 온열질환으로 풀숲에 얼굴을 박고 쓰러져 있던 것이었다.&lt;br&gt;&lt;br&gt;곧장 경찰은 A씨를 일으켜 세우고 순찰차로 옮겼다. 순찰차로 이동한 A씨는 조금씩 기운을 되찾았고 경찰은 보호자에게 연락을 취해 A씨를 인계했다. A씨가 쓰러진 날은 전국 곳곳에 폭염특보와 폭염주의보가 발령된 날이었다.&lt;br&gt;&lt;br&gt;쓰러져 있던 A씨를 발견한 이재혁 충주경찰서 교통과 경위는 “예방 순찰을 나가던 중 길 가장자리에 막대기인지 다리 모양인지 (구분하기 어려운) 물체가 보였다. 순간 이상한 느낌이 와서 지나치지 않고 확인해 봤는데 어르신이 풀숲에 얼굴을 박고 쓰러져 있어 깜짝 놀랐다”며 “가까이 다가가 보니 어르신은 의식은 있었으나 몸이 경직돼 가는 상태였다. 신속히 구조해야 한다는 생각밖에 없었다”고 말했다.&lt;br&gt;&lt;br&gt;한편, 폭염이 이어지면서 온열질환으로 인한 피해자가 속출하고 있다. 지난 11일 질병관리청 온열질환 응급실 감시체계에 따르면 전날 전국 507개 응급실에 온열질환자 47명이 들어왔다. 이로써 올해 감시체계가 가동된 5월 20일부터 전날까지 누적 환자는 3505명으로, 작년 같은 기간(2천776명)보다 729명 많다. 올해 누적 추정 사망자는 작년 동기간과 같은 32명이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>75세 이상 어르신, 내달 11일부터 코로나 예방 접종</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/09/13/3JEMMPK3HRHGVKO775YIVXULLI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/13/3JEMMPK3HRHGVKO775YIVXULLI/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Sep 2024 11:24:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5G5LLME3JFGRGO3RWC52O6ALUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2023년 10월 19일 서울 강서구 부민병원을 찾은 어르신이 코로나19 백신을 접종 받고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다음 달 11일부터 75세 이상 어르신 대상 코로나 예방접종이 실시된다.&lt;br&gt;&lt;br&gt;13일 질병관리청이 발표한 ‘코로나 예방접종 시행 계획’에 따르면, 10월 11일 75세 이상 어르신을 시작으로, 15일부터 70~74세, 18일부터 65~69세 등 순차적으로 접종이 시작된다. 일반 국민 접종 시기는 다음 달 초 결정된다.&lt;br&gt;&lt;br&gt;65세 이상 어르신과 면역 저하자, 감염 취약 시설 입원자 등 고위험군은 무료로 접종받을 수 있다. 고위험군이 아닌 일반 국민은 접종 비용을 내야 한다. 대부분 1회 접종만 하면 되지만, 12세 이하 면역 저하자는 1회 이상 접종받아야 한다.&lt;br&gt;&lt;br&gt;코로나 예방접종은 전국 지정 의료 기관과 보건소 등 약 1만6000곳에서 사전 예약 없이 받을 수 있다. 지정 의료 기관은 보건소에 문의하거나 ‘예방접종도우미’ 홈페이지에서 확인할 수 있다. 이번 접종은 최근 유행하는 변이 바이러스에 효과적인 면역 반응을 보이는 ‘JN.1 백신’ 755만회분이 활용된다. 질병청에 따르면 지난 백신보다 약 5배 높은 면역 형성 능력을 보인다.&lt;br&gt;&lt;br&gt;지영미 질병청장은 “유행하는 코로나 변이 바이러스가 해마다 달라지기 때문에 고위험군은 매년 접종해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;올여름 코로나 유행은 최근 한풀 꺾였다. 코로나 입원 환자 수는 8월 셋째주(11~17일) 1452명으로 정점을 찍고 이후 이달 첫주(1~7일) 549명으로 3주 연속 감소했다. 올여름 최고치의 37.8% 수준까지 떨어진 것이다. 응급실을 찾은 코로나 환자도 3주 연속 줄었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울 119, 45분간 신고 접수 장애... “관제센터 시스템 오류 추정”</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/13/UVR4J5F4SNAHLB4FW36GZQ3VBY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/13/UVR4J5F4SNAHLB4FW36GZQ3VBY/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Sep 2024 12:19:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TKB72FB4TNOCPKPE5HCATH7U6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오후 서울지역 119 신고 접수에 한때 장애가 발생했다가 약 45분 만에 복구됐다. 사진은 이날 서울시가 보낸 안전 안내 문자. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 일부 지역에 119 신고 시스템 장애가 발생했다.&lt;br&gt;&lt;br&gt;서울시는 13일 밤 8시48분쯤 “오후8시30분부터 서울지역 119신고 접수 장애로 화재 등 긴급상황 발생 시 112로 신고 바란다”는 안전 안내문자를 보냈다.&lt;br&gt;&lt;br&gt;119 신고 시스템은 이날 밤 9시쯤부터 일부 복구됐고 9시15분쯤 정상 복구됐다. 서울시 관계자는 “119시스템은 자동으로 전화를 받아지게 돼있는데 9시부터 15분간은 119 직원들이 수동으로 시스템을 조작해야 전화를 받을 수 있었다”고 설명했다.&lt;br&gt;&lt;br&gt;서울소방재난본부 관계자는 “관제센터 시스템에 오류가 있었던 것으로 보인다”며 “정확한 원인을 파악하는 중”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>의대 수시 지원, 7만명 넘게 몰려...작년보다 1만4300명 늘었다</title>
       <link>https://www.chosun.com/national/education/2024/09/13/74EF5CY3ARD57ESEHVFVLCTTCA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/09/13/74EF5CY3ARD57ESEHVFVLCTTCA/</guid>
@@ -902,51 +961,6 @@
       <description/>
       <pubDate>Fri, 13 Sep 2024 12:09:15 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A4AUJ62LPFKHDF6HWWO2OEBKDE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2025학년도 대입 수시 원서 접수를 시작한 지난 9일 경기 안양시 동안구의 한 학원가 건물에 의대 입시 관련 홍보문이 붙어있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 39개 의대가 2025학년도 수시 모집 원서 접수를 마감한 결과, 지난해보다 1만4346명 많은 지원자가 몰린 것으로 나타났다. 올해 의대 모집 정원이 크게 늘어나면서 지원자도 대폭 증가한 것이다.&lt;br&gt;&lt;br&gt;13일 입시 업체들에 따르면, 전국 39곳 의대는 지난 9일부터 13일까지 수시 모집 원서를 접수했다. 이날 오후 7시 기준 의대 지원자(정원 내)는 총 7만748명으로, 지난해(5만6402명)보다 25.4% 늘었다. 이날 밤늦게까지 원서를 접수하는 의대도 있어 지원자는 더 늘어날 것으로 보인다.&lt;br&gt;&lt;br&gt;전국 의대의 신입생 선발 인원은 4610명으로 작년보다 1497명 늘었다. 이 가운데 67.6%(3118명)를 수시 모집에서 선발한다.&lt;br&gt;&lt;br&gt;올해는 특히 의대 ‘지역인재 전형’ 지원자가 1만9927명으로, 작년(8369명) 대비 두 배 이상으로 늘었다. 지역인재 전형은 의대가 있는 지역 출신 학생을 선발하는 별도 전형이다. 올해 의대 정원이 늘어난 비수도권 의대들은 증원분 대부분을 지역인재 전형으로 배정했다. 올해 비수도권 26개 의대의 지역인재 전형 선발 인원은 지난해 800명에서 올해 1549명으로 2배 가까이 늘었다.&lt;br&gt;&lt;br&gt;입시 전문가들은 “지역인재 전형 선발 인원이 늘어나자 지역 최상위권 학생들이 적극적으로 의대에 지원했다”면서 “수도권 학생들보다 상대적으로 성적이 낮은 지역 학생들 사이에서도 ‘이젠 의대에 도전해볼 만하다’는 분위기가 생긴 것”이라고 말했다.&lt;br&gt;&lt;br&gt;서울 지역 의대에 지원한 학생들도 늘어났다. 종로학원에 따르면 지난 12일 수시 원서 접수를 마감한 서울대·연세대·고려대 의대에 원서를 제출한 지원자는 4235명으로, 작년(3693명)보다 14.7% 늘었다. 이 대학들은 올해 정원이 늘어나지 않았지만, 다른 의대에 다니던 저학년 학생들이 상위권 의대에 재도전하는 경우가 늘어난 영향이라는 분석이다.&lt;br&gt;&lt;br&gt;강동완 진학지도장학사위원회 위원장(부산시교육청 장학사)은 “이공계열 학과에 다니는 학생들이 의대에 재도전하는 경우도 올해 많이 늘었다”고 말했다.&lt;br&gt;&lt;br&gt;정부가 올해 고2 대상인 2026학년도 의대 모집 정원을 재조정할 수 있다는 입장을 밝힌 것도 올해 의대 수시 지원자가 늘어난 데 영향을 끼친 것으로 보인다. 이만기 유웨이교육평가연구소장은 “향후 2026학년도 정원이 다시 줄어들 수 있다는 불안감 때문에 ‘올해 꼭 의대에 가야 한다’는 생각으로 지원서를 낸 수험생이 많다”고 말했다.&lt;br&gt;&lt;br&gt;대학들은 오는 12월 13일까지 수시 합격자를 발표한다. 수험생들은 11월 14일엔 대학수학능력시험(수능)을 치르고, 12월 말에는 정시 모집에 지원한다. 통상 내신 성적이 중요한 ‘수시 모집’에는 고3 재학생이 많이 지원하고, 정시는 재수생 등 ‘N수생’이 많이 지원한다. 올해 의대 증원으로 수능을 치겠다고 지원한 N수생(18만1893명)도 21년 만에 가장 많다.&lt;br&gt;&lt;br&gt;한편 수시 모집에서 올해부터 대폭 정원이 확대된 ‘전공자율선택제’(무전공) 학과에도 많은 학생이 몰린 것으로 나타났다. 무전공 제도는 전공 구분 없이 대학에 입학해 원하는 수업을 들은 뒤, 2학년 때부터 전공을 선택할 수 있는 제도다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>머스크 말 현실 됐다…사격 김예지, 킬러 연기 도전</title>
-      <link>https://www.chosun.com/national/people/2024/09/13/HADFCX3I25FQPMEBHI7SGVO2BE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/13/HADFCX3I25FQPMEBHI7SGVO2BE/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Sep 2024 10:28:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EZLFEKKIJQUQM2VRWIFOCDG74Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024 파리올림픽 사격 은메달리스트 김예지(임실군청) 선수. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2024 파리올림픽 은메달리스트 김예지(임실군청)가 킬러 역할을 맡아 연기에 도전한다. 테슬라 최고경영자(CEO)이자 엑스의 소유주인 일론 머스크가 그의 경기를 보고 “액션 영화에 캐스팅해야 한다”는 말이 실제가 된 것이다.&lt;br&gt;&lt;br&gt;13일 김예지 소속사에 따르면 김예지는 인도의 글로벌 스타 아누쉬카 센과 영화 ‘아시아’ 스핀오프 숏폼 시리즈 ‘크러쉬’에 킬러 역으로 동반 캐스팅됐다. ‘아시아’는 미국과 아시아 7개국 이상 다국적 스타들이 총출동해 인종 혐오와 차별에 대한 이야기를 다룬 작품이다.&lt;br&gt;&lt;br&gt;김예지 소속사인 배우 캐스팅 플랫폼 플필 류민국 대표는 “김예지는 아시아랩의 글로벌 대형 프로젝트 ‘아시아’의 스핀오프 작품에서 세계적인 배우들과 함께 매력적인 킬러 역할의 배우로서 첫 선을 보이는 것에 대해 떨리지만 기쁘다고 했다”며 “곧 공개되면 전 세계 팬들에게 큰 선물이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;아시아랩(Asia Lab)의 CEO이자 연출자인 이정섭 감독은 “아누쉬카 센과 김예지의 동반 캐스팅은 글로벌 쇼트폼 시리즈의 혁신과 새로운 장을 여는 계기가 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 김예지는 2024 파리올림픽 사격 공기권총 10m 결선에서 은메달을 목에 걸었다. 이와 함께 지난 5월 아제르바이잔 바쿠에서 열린 국제사격연맹(ISSF) 사격 월드컵 25ｍ 권총 경기 영상도 소환돼 덩달아 관심을 받았다. 이 영상은 엑스를 통해 빠르게 퍼졌다. 이후 머스크까지 나서 그에게 찬사를 보내면서 화제가 됐다. 머스크는 “액션 영화에도 사격 세계 챔피언이 나온다면 멋질 것 같다”라는 글을 적었다. 이어 “김예지를 액션 영화에 캐스팅해야 한다. 연기는 필요하지 않다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울 양천·구로 5만8000가구 온수 공급 중단...“복구 시점 예측 불가”</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/13/WPBFYJ7UWFDENHC5VH3BL7MPVU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/13/WPBFYJ7UWFDENHC5VH3BL7MPVU/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Sep 2024 11:40:30 +0000</pubDate>
-      <content:encoded>13일 오후 3시 57분쯤 서울 양천구 목동 중소기업유통센터 인근의 지하 온수 배관이 파손돼 양천구·구로구 일부 지역 5만8682가구의 생활용 온수 공급이 중단됐다.&lt;br&gt;&lt;br&gt;서울시와 서울에너지공사 등에 따르면, 피해 지역은 양천구 목동·신정동, 구로구 고척동 등의 아파트와 빌라 약 194곳으로 파악됐다. 에너지공사 관계자는 “각 가구에 온수를 실어 나르는 지름 850mm짜리 배관에서 누수 및 수증기 발생을 확인했다”며 “온수 배관이 노후화해 사고가 발생한 것으로 추정 중”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AOVOW2YDSRID3NPQKWXDPGUABY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오후 서울 양천구 중소기업유통센터 인근 지하 공동구 내부 열수송관에서 누수로 추정되는 사고가 발생해 온수 수증기가 외부로 분출되고 있다. 이 사고로 공동구 내부에 고열의 온수가 분출되고 양천구 목동·신정동과 구로구 고척동 일대 5만8682세대에 온수 공급과 난방이 끊겼다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;에너지공사 측이 도착한 오후 4시 5분쯤 현장에선 수증기가 지면 위로 계속 솟구친 것으로 전해졌다. 공사는 오후 7시 30분쯤 배관 파손 지점에서 양방향 200~300m 거리에 있는 밸브를 모두 잠가 온수 흐름을 중단시켰다. 오후 8시 현재 배관 안에 있는 수증기를 빼는 작업을 진행하고 있다.&lt;br&gt;&lt;br&gt;공사 관계자는 “내부에 차오른 뜨거운 물과 증기가 다 빠진 뒤에 복구 작업을 시작할 수 있다”며 “사고 장소 일대에 열기가 식어야 온수 공급 시점을 예측할 수 있는 상황”이라고 했다.&lt;br&gt;&lt;br&gt;피해 지역 주민들은 추석 연휴를 앞두고 온수가 끊겨 불편함을 호소했다. 양천구 주민 이모(41)씨는 “내일 아침 아이를 씻겨서 고향으로 향하려 했는데 어떻게 해야 할지 모르겠다”며 “지난 겨울에도 난방이 안 돼 곤란했는데 1년도 지나지 않아 또 이런 일이 발생해 황당하다”고 했다. 이 지역은 지난 1월에도 신정 가압장 내 밸브 파손으로 3만8000여 가구에 난방과 생활용 온수 공급이 중단되는 일이 있었다.&lt;br&gt;&lt;br&gt;신정동에 사는 30대 주민은 “명절을 앞두고 이게 웬 날벼락인지 모르겠다”며 “찬물로 샤워를 하기 어려워 친척 집으로 빨리 가야 하나 고민”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>지하철역서 갑자기 쓰러진 여배우...”얼굴 가려준 역무원 감사”</title>
-      <link>https://www.chosun.com/national/people/2024/09/13/L3GYKX75CRHYVGMILKKW3GRZUE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/13/L3GYKX75CRHYVGMILKKW3GRZUE/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Sep 2024 11:38:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XCWIAMIJRJDBBEBMS66WFZTWT4.png"&gt;&lt;figcaption&gt;&lt;small&gt;배우 박환희. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 박환희(35)가 지하철역에서 갑자기 쓰러졌던 자신에게 도움을 준 역무원과 시민들에게 감사 인사를 전했다.&lt;br&gt;&lt;br&gt;박환희는 지난 12일 자신의 인스타그램에 “오늘 룰루랄라 신나고 씩씩하게 아카데미를 가다가 아무런 전조증상 없이 어지럼증과 복통으로 강남역 계단에서 갑자기 쓰러졌다”고 남겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CLJYQZPQFND63OEUKTU4R7XWP4.png"&gt;&lt;figcaption&gt;&lt;small&gt;배우 박환희가 지하철 강남역에서 쓰러졌다 회복됐다고 올린 글. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이어 “제게 다가와서 119 불러주고 마지막까지 보살펴주신 시민 두 분과 강남역 역무원분들 너무너무 감사드린다. 복 받으실 것”이라고 전했다.&lt;br&gt;&lt;br&gt;그러면서 “그 와중에 저 알아보시고 얼굴 가려주신 역무원분 너무 감사하다”고 했다.&lt;br&gt;&lt;br&gt;이후 지하철에 타고 있는 사진과 함께 “지금은 너무 멀쩡하다”며 “잠시 쉬면 낫는 그런 건가 보다. 지금 전 샤워하고 아이스크림을 먹는 중이다. 모두 걱정 마시라”고 덧붙였다.&lt;br&gt;&lt;br&gt;박환희는 2016년 KBS 2TV ‘태양의 후예’에 출연해 얼굴을 알린 뒤 최근 ‘법쩐’, ‘혼례대첩’, ‘닭강정’ 등에 출연했다. 그는 과거 섬유근육통 투병 중임을 밝힌 바 있다. 또한 박환희는 2011년 가수 빌스택스와 결혼한 후 이듬해 득남했다. 이후 결혼 1년 5개월 만에 협의 이혼했으며, 아들은 빌스택스가 키우고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>도이치 2심 판결문도 “김건희 계좌, 권오수 의사로 운용”</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/13/2IJFUUJEO5A27LSAJDY6BC3KEI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/13/2IJFUUJEO5A27LSAJDY6BC3KEI/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Sep 2024 11:36:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UI42MXHA5JIFDCTGECPUH7MPQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사가 13일 청와대 영빈관에서 열린 '2024 파리 패럴림픽 선수단 격려 오찬'에 참석해 윤석열 대통령의 격려사 뒤 박수를 치고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘도이치모터스 주가조작’ 사건 항소심 판결문에 윤석열 대통령의 배우자 김건희 여사의 계좌가 시세 조종에 동원됐다는 취지의 녹취록이 담긴 것으로 13일 나타났다. 1심에 이어 2심 법원도 “김 여사 계좌가 권오수 전 도이치모터스 회장의 의사로 운용됐다”고 판단했다.&lt;br&gt;&lt;br&gt;전날 이 사건 항소심을 선고한 서울고법 형사5부(재판장 권순형)의 판결문을 보면, 재판부는 1심처럼 김 여사 계좌 3개와 모친 최은순씨의 계좌 1개가 시세 조종에 동원됐다고 판시했다. 권 전 회장이 2009~2012년 주가조작 세력을 이용해 도이치모터스 주가를 비정상적으로 끌어올리는 과정에서 김 여사 측 계좌가 활용됐다는 것이다.&lt;br&gt;&lt;br&gt;판결문에는 김 여사가 2010년 도이치모터스 주식을 거래하면서 증권사 직원들과 통화한 녹취록이 담겨있다. 그해 10월 28일 김 여사는 대신증권 직원이 “예, 교수님. 저, 그 10만주 냈고”, “그, 그거 누가 가져가네요”라고 하자, “아 체, 체결됐죠”라고 답했다. 같은 해 11월 1일 대신증권 직원이 “방금 도이치모터스 8만주 다 매도됐습니다”라고 하자, 김 여사가 “예, 알겠습니다”라고 답하는 녹취록도 있다. 이 거래는 1심과 2심에서 모두 시세 조종으로 인정됐다.&lt;br&gt;&lt;br&gt;권 전 회장은 ‘김 여사에게 일임(一任)받은 증권사 직원의 판단으로 매매가 이뤄진 것’이라고 주장했지만, 2심은 권 전 회장의 지시∙관여가 있었다고 판단했다. 재판부는 “해당 매매는 권 전 회장의 의사 아래 거래됐고, 증권사 직원은 지시에 따라 주문∙제출만 한 것”이라며 “직원이 자신의 판단으로 주식 거래를 하는 내용으로 보이지 않는다”고 했다. 계좌주인 김 여사에 대해서는 “거래 결과와 금액을 사후적으로 확인하거나, 직원이 김 여사에게 사후보고를 하고 있을 뿐”이라고 했다.&lt;br&gt;&lt;br&gt;1심도 김 여사의 대신증권 계좌에 대해 “거래 일수나 횟수가 많지 않지만 (권 전 회장 등) 피고인들의 의사에 따라 시세 조종에 이용한 계좌로 인정된다”고 했다.&lt;br&gt;&lt;br&gt;김 여사 측은 “매수를 유도당하거나 계좌가 활용당했다고 해서 주가조작에 가담했다고 볼 수 없다”면서 “수년간 도이치모터스 주식을 간헐적으로 매매한 건 맞지만 주가조작에 관여한 적은 없다”는 입장이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DMYZAF5UAJNCZB7KRMDMXHCKB4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;'도이치모터스 주가조작' 사건의 '전주'(錢主) 손모씨가 지난 12일 서울 서초구 서울고등법원에서 열린 항소심 선고 공판에서 징역 6개월에 집행유예 1년을 선고 받은 뒤 취재진을 피해 법원을 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;항소심에서 추가된 주가조작 방조 혐의로 유죄 판결을 받은 ‘전주(錢主)’ 손모씨가 주가조작꾼과 주식을 사고팔 때 긴밀하게 연락을 주고받은 정황도 판결문에 드러났다. 손씨는 2012년 자신에게 도이치모터스 주식 매수를 권유한 주가조작 선수 김모씨에게 “언제 (자금을) 쏘라는 거냐” “내가 도이치 ‘상(상한가)’ 찍었다”는 메시지를 보냈다. 무리한 투자로 금전적 상황이 어려워지자 “사기 치면 용서 안 한다” “내가 자살을 생각할 만큼 최악이다”라며 김씨를 다그치기도 했다.&lt;br&gt;&lt;br&gt;반면 김 여사가 주가조작꾼들과 직접 연락한 증거는 아직 확보되지 않은 것으로 알려졌다. 권 전 회장도 “김 여사는 개입하지 않았다”고 주장하고 있다.&lt;br&gt;&lt;br&gt;한편, 364쪽의 항소심 판결문에 김 여사의 이름은 84차례, 모친 최씨의 이름은 33차례 언급된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>각종 금융사기 피해 월평균 1300억원... 추석 명절에 범죄 수법 숙지하세요</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/13/PMYD6PIKGJCUDC2ONARNY44IVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/13/PMYD6PIKGJCUDC2ONARNY44IVY/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Sep 2024 09:25:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J4A2EAN2UJG6NHVGAODW2OQLMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무료 로또번호 제공 명목 투자리딩방 사기 유형. /경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보이스 피싱·투자 리딩방·로맨스 스캠 같은 금융 사기 범죄 피해액이 월 평균 1300억원가량이라고 경찰청이 13일 밝혔다. 경찰은 이날 “최근 금융 사기 수법이 매우 정교해졌다”며 “범죄의 여러 유형·수법을 숙지해 추석 명절에 가족·친지와 이를 공유하며 범죄 피해를 방지하는 것이 좋다”고 했다.&lt;br&gt;&lt;br&gt;경찰이 밝힌 올해 누적 보이스 피싱 사기 피해 규모는 1만1734건(7월 기준·3909억원)이다. 8월 기준 투자 리딩방 사기는 6143건(5340억원), 로맨스 스캠 사기는 920건(545억원) 피해가 집계됐다. 경찰은 “사기 유형은 다양하나 사기범의 접근 수법과 범행 과정엔 공통적인 특징이 있다”고 분석했다.&lt;br&gt;&lt;br&gt;보이스 피싱 사기는 ① 저리 대출·신용카드 개설·택배·부고·범칙금 등 각종 내용으로 미끼 문자 발송 ② 전화번호 변작 및 전화 가로채기로 검사·수사관·금융감독원·은행 직원을 사칭해 계좌 이체 또는 현금 상환 요구 ③ 유령 법인을 만들어 대포 통장·대포 폰을 개설해 계좌 이체 또는 현금 인출 후 전달하는 방식으로 금전 편취 순으로 진행된다.&lt;br&gt;&lt;br&gt;투자 리딩방 사기는 ① 투자 전문가·연예인·운동선수·은행·증권사 등 사칭해 SNS에 투자 광고 ② SNS 오픈 채팅방에 있는 수백명이 수익 인증 감사 인사(사실은 가짜 ID를 매크로로 복사·붙여넣기) ③ 피해자가 소액을 입금해 수익을 내고 출금할 수 있게 한 뒤 더 큰 금액이 입금되면 이를 뜯어내는 수법을 쓴다.&lt;br&gt;&lt;br&gt;로맨스 스캠의 유형은 ① 파병 여군·유학생·글로벌 기업 재직 한국계 외국인 등이라며 SNS에 가짜 프로필을 게시한 후 연락을 유도하거나 메시지를 보내 접근 ② 가짜인 외국은행·택배사·증권사 앱 화면을 보여주며 도움 유도 ③ 외국 관세청 직원·항공사 직원 등을 사칭해 통관비·등급 업그레이드 비용 등의 명목으로 계좌 이체를 종용, 돈을 가져가는 방식을 주로 사용한다.&lt;br&gt;&lt;br&gt;경찰은 “제3자에게 관심을 끄는 문자나 링크, SNS 메시지를 받았을 때는 일단 멈추고 사기가 아닌지 생각해야 한다”며 “인터넷과 스마트폰으로 보는 모든 정보가 조작되고 가장됐을 수 있다는 점을 잊지 말아야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
