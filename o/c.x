@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>교사노조 위원장 김용서, 서울시교육감 선거 불출마</title>
+      <link>https://www.chosun.com/national/education/2024/09/15/N4IBQEWNM5D4ZF2NSNJ44CRCJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/09/15/N4IBQEWNM5D4ZF2NSNJ44CRCJI/</guid>
+      <dc:creator>김경은 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Sep 2024 08:29:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GM22HU5SJEUJAD76BL3KH6QVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용서 교사노동조합연맹 위원장이 지난 2023년 1월 26일 서울 영등포구 여의도 국제금융로 교사노동조합연맹 사무실에서 본지와 인터뷰를 하고 있다. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다음달 16일 치러지는 서울시교육감 보궐 선거에 예비 후보로 등록한 진보 후보인 김용서(60) 교사노동조합연맹 위원장이 15일 “일신상의 이유로 서울교육감 입후보를 철회한다”고 밝혔다.&lt;br&gt;&lt;br&gt;김 위원장은 이날 자신의 페이스북에 “서울교육감 선거가 교육 현장에 적합한 교육정책을 합의해 나가고 이를 시행할 수 있는 분이 당선되는 선거가 되길 간절히 기원한다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;김 위원장은 “서이초 1주기를 겪으면서 교육감 출마를 다짐했다. 교직을 사퇴하면서까지 후보 출마를 결심했다”며 “다행히 민주·진보교육감 후보로 훌륭한 분들이 많이 나오셨다. 저를 응원해준 모든 분들, 교사노조 조합원, 한국노총 조합원 여러분께 고맙고도 죄송하다”고 했다.&lt;br&gt;&lt;br&gt;조희연 전 서울시교육감이 지난달 대법원에서 전교조 해직 교사 부당 채용 혐의 등으로 징역 1년6개월에 집행유예 2년을 선고받고 직위를 상실해 열리는 이번 서울시교육감 보궐선거에는 진보와 보수 진영에서 각각 복수의 후보가 출마 뜻을 밝혔다.&lt;br&gt;&lt;br&gt;진보 진영으로 분류되는 김 위원장도 서울시 선거관리위원회에 서울시교육감 보궐 선거 예비 후보로 등록하면서 진보 후보 간 경선 룰 협의 과정에 참여하고 있었는데, 이날 돌연 철회를 발표했다.&lt;br&gt;&lt;br&gt;진보 진영에서 출마 의사를 밝힌 후보는 김 위원장과 강신만 전 전국교직원노동조합(전교조) 부위원장, 곽노현 전 서울시교육감, 김경범 서울대 교수, 김재홍 전 서울디지털대 총장, 안승문 전 서울시 교육위원, 정근식 서울대 명예교수, 홍제남 전 오류중 교장 등 8명이었다.&lt;br&gt;&lt;br&gt;진보 후보들은 진보 진영 단일화 기구인 ‘2024 서울민주진보교육감추진위원회’(추진위)에서 후보 단일화 과정을 거치는 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“파리도 졸리는 더위” 친근한 예보...제1호 기상캐스터 김동완 별세</title>
       <link>https://www.chosun.com/national/national_general/2024/09/15/7EHDPPL6INEY7B2Z26J77XYDOM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/15/7EHDPPL6INEY7B2Z26J77XYDOM/</guid>
@@ -931,15 +940,6 @@
       <description/>
       <pubDate>Fri, 13 Sep 2024 15:30:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HCIXJFI3OZBNTKIJ3JJR5TEPHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경복궁 야간관람&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;▶경복궁 야간관람&lt;/b&gt;&lt;br&gt;&lt;br&gt;긴 폭염이 끝나고 찾아온 가을, 밤의 경복궁을 산책한다. 광화문, 흥례문, 근정전, 사정전, 강녕전 등을 거닐며 불빛 아래 빛나는 궁궐을 느낄 수 있다. 왕실 잔치가 열리던 경회루, 왕비가 머무르던 교태전도 둘러볼 만하다. 하루 3000장을 판매하는데, 온라인으로 예매해야 한다. 입장료 3000원. 외국인은 관람 당일 광화문 매표소에서 발권할 수 있다. 한복 착용자와 만 6세 이하 어린이, 만 65세 이상 어르신은 무료. 오후 8시 30분에 입장을 마감한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6574PDNLWJACXCNHCJMQZNXPWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영화 '베테랑2'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;▶영화 ‘베테랑2′&lt;/b&gt;&lt;br&gt;&lt;br&gt;연쇄살인사건이 발생하자 베테랑 형사 서도철(황정민)과 강력범죄수사대가 단서를 추적하기 시작한다. 연쇄살인범은 다음 살인 대상을 지목하는 예고편을 인터넷에 공개하고, 서도철이 정의감 넘치는 막내 형사 박선우(정해인)를 투입하자 사건은 새로운 방향으로 흘러간다. 2015년에 1341만명이 본 액션 영화 ‘베테랑’의 속편. 류승완 감독은 “이번엔 선악의 경계가 뚜렷하지 않고 정의와 정의가 충돌한다”고 했다. 추석 연휴 개봉작 중 예매율 1위.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7VO5HJQLJ5HH5CRKOY27E6WJCM.png"&gt;&lt;figcaption&gt;&lt;small&gt;정희원 교수 '저속노화 식사법'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;▶책과 강연 ‘저속노화 식사법’&lt;/b&gt;&lt;br&gt;&lt;br&gt;추석 연휴에 과식해 체중이 느는 사람이 많다. 이번엔 식습관을 점검할 기회로 삼아보자. 서울아산병원 정희원 교수가 쓴 베스트셀러 ‘저속노화 식사법’은 노년내과 의사가 알려주는 기적의 식단 혁명이다. 24일 저녁 광화문 교보문고 23층에서는 “밥만 바꿔도 느리게 나이 들 수 있다”고 말하는 정 교수의 강연회가 열린다. 그가 실천한다는 저속노화 식사법의 원리와 효능은 무엇일까. 수강료 1만원. 예스24에서 예매할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오피스텔 ‘택배 실종 사건’ 범인은 이웃 여성들...범행 뒤처리도 치밀했다</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/13/H4536DUDHNBZDP52WSUVBCVE4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/13/H4536DUDHNBZDP52WSUVBCVE4Q/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Sep 2024 14:26:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AHGNLC45TNDL7H6TT6UNHCR2ZU.png"&gt;&lt;figcaption&gt;&lt;small&gt;훔친 택배 상자 박스를 오피스텔과 멀리 떨어진 곳에 버리려 엘리베이터에 타는 여성./YTN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이웃집에 놓인 택배 물품을 여러 차례 훔친 여성 2명이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;인천 서부경찰서는 13일 절도 혐의로 20대 여성 A씨와 B씨를 불구속 입건했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 이달쯤 인천 서구 청라동의 한 오피스텔에서 최소 5차례에 걸쳐 택배 물품을 훔친 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;조사 결과, 오피스텔 입주민이었던 이들은 방범 카메라를 피해 다른 집 앞에 배송된 신발과 식료품 등 물품을 훔친 것으로 파악됐다. 이들은 범행이 발각될까 봐 훔친 택배 상자 등을 오피스텔과 멀리 떨어진 쓰레기장에 내다 버리는 등 치밀함을 보인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 목격자 진술 등을 토대로 피의자 인상착의를 특정해 잠복 수사를 한 뒤 지난 11일 귀가하던 A씨 등을 긴급 체포했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨 등의 신원을 확인한 후 일단 석방 조치했다. 정확한 피해 금액과 여죄를 조사할 것”이라고 했다.&lt;br&gt;&lt;br&gt;경찰은 집 앞에 배송된 택배는 가급적 빨리 가져가고, 고가의 물품은 무인택배함을 이용해달라고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>인천 서구 공장서 화재진화 중... 소방 당국 ‘대응 1단계’</title>
