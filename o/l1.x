@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>심우정 신임 검찰총장 연휴 중 첫 출근 "업무 공백 없게 하라"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201399.jpg" alt="200546.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&amp;nbsp;&amp;nbsp;&lt;br /&gt;&lt;p&gt;&lt;span style="font-weight: bold;" serial="3204"&gt;심우정&amp;nbsp;&lt;/span&gt;신임 검찰총장이 임기 첫 날인 16일 출근해 추석 연휴 기간 근무상황을 점검했다.&lt;br /&gt;&lt;br /&gt;대검찰청은 이날 심 총장이 대검에 출근해 주요 참모들과 추석 연휴 기간 근무 상황을 점검했다고 밝혔다. &lt;br /&gt;&lt;br /&gt;심 총장은 참모들에게 "범죄로부터 국민을 보호하는 검찰 본연의 역할을 다할 수 있도록 역량을 집중하고, 연휴 기간 일선과 긴밀히 소통해 업무 공백이 발생하지 않도록 세심히 챙겨달라"고 당부했다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;대통령은 심 총장의 임명안을 지난 12일 재가했다. &lt;br /&gt;&lt;br /&gt;국회 법제사법위원회는 지난 5일 심 후보자에 대한 인사청문 경과보고서 채택을 논의하기 위한 전체회의를 열었지만 파행돼 청문보고서 채택은 불발됐다. 윤 대통령은 국회에 인사청문보고서를 지난 11일까지 보내달라고 요청했으나 불발된 후 임명안을 재가했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9175"&gt;이원석&amp;nbsp;&lt;/span&gt;전 검찰총장은 임기 만료일인 9월 15일보다 이틀 앞선 13일에 퇴임식을 가졌다. &lt;br /&gt;&lt;br /&gt;심 총장 취임식은 오는 19일 오전 대검에서 열린다.&lt;/p&gt;</description>
+			<pubDate>Mon, 16 Sep 2024 03:06:15 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201399</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201399</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201399.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 대법원, 폐기물관리법 위반 사건 파기환송… "운반차량 증차 아닌 위탁 가능성 충분"</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/201353.jpg" alt="201353.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;사업자가 허가 없이 폐기물 운반 차량을 증차했더라도 임차가 아니라 업무 위탁 가능성이 있다면 폐기물관리법 위반에 해당하지 않을 수도 있어 다시 심리해야 한다는 대법원 판결이 나왔다.&lt;br /&gt;&lt;br /&gt;대법원 형사2부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1658"&gt;오경미&amp;nbsp;&lt;/span&gt;대법관)는 지난달 23일 폐기물관리법 위반 혐의로 기소된 A 씨의 대해 원심을 파기하고 사건을 수원지방법원으로 돌려 보냈다(&lt;b&gt;2023도1924&lt;/b&gt;).&lt;p&gt;&amp;nbsp; &lt;br /&gt;폐기물 중간재활용업체을 운영하는 A 씨는 2019년 11월 20일부터 12월 12일까지 변경허가 없이 운반차량 3대를 증차해 운영한 혐의로 기소됐다. 폐기물관리법에 따르면 중간재활용업자가 운반차량을 증차하거나 다른 중요사항을 변경하려면 관할관청의 변경허가를 받아야 한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;1심과 2심은 "A 씨가 B 폐기물처리업체로부터 운반차량을 임차해 사용한 것이 증차에 해당한다"며 변경허가를 받지 않은 것은 폐기물관리법 위반에 해당한다고 판단해 벌금 50만 원을 선고했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;대법원의 판단은 달랐다. 대법원은 A 씨가 B업체와 체결한 계약의 성격을 명확히 확인할 필요가 있다고 봤다. A 씨가 차량을 임차한 것이 아니라 B 업체에게 폐기물 운반 업무를 위탁했을 가능성이 충분히 존재한다고 본 것이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;재판부는 "임대차가 아니라 위탁계약이라면 A 씨의 행위가 폐기물관리법이 규정하는 '운반차량의 증차'에 해당하지 않아 변경허가를 받을 필요가 없다"고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;대법원은 형벌법규를 해석할 때 엄격한 기준을 적용해야 한다고 강조했다. 형벌조항은 피고인에게 불리한 방향으로 확장 해석해서는 안 된다는 점을 명확히 하며 원심이 이를 충분히 고려하지 않았다고 지적했다. 대법원 관계자는 "A 씨가 운반 업무를 B 업체에 위탁했다는 사실이 인정되면 증차로 볼 수 없으므로 무죄가 선고될 가능성이 크다"며"다만 B업체는 무허가로 폐기물을 처리한 혐의로 폐기물관리법 위반죄가 성립할 수 있다"고 덧붙였다.&lt;/p&gt;</description>
 			<pubDate>Mon, 16 Sep 2024 00:18:13 -0000</pubDate>
@@ -232,16 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201378</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/empty_thumbnail.jpg</media:thumbnail>
 			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>'계약금 증액 미통지' HL 디앤아이한라...과징금 4500만 원</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/201364.jpg" alt="201364.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;HL 디앤아이한라가 발주자로부터 계약 금액이 증액되었음에도 이를 수급사업자에게 제때 알리지 않아 제재를 받게 됐다.&lt;br /&gt;&lt;br /&gt;공정거래위원회(위원장 한기정)는 건설업체인 HL 디앤아이한라(한라)가 하도급법을 위반한 행위에 대해 시정명령과 함께 4500만 원의 과징금을 부과한다고 12일 밝혔다. &lt;br /&gt;&lt;br /&gt;공정위에 따르면, 한라는 2021년 1월부터 2023년 4월까지 18개 수급사업자에게 가설 담장 공사 등 19건의 건설공사를 위탁하면서 하도급대금 조정 의무를 위반했다.&lt;br /&gt;&lt;br /&gt;하도급법에 따르면 원사업자는 발주자로부터 설계변경 또는 물가 변동 등의 이유로 계약 금액을 증액받은 경우 15일 이내에 증액 사유와 내용을 수급사업자에게 통지해야 한다. 30일 이내에 증액된 금액에 따라 하도급대금을 조정해야 하며 이를 지키지 않으면 지연 이자도 지급해야 한다.&lt;br /&gt;&lt;br /&gt;한라는 발주자인 한국토지주택공사(LH)로부터 물가 변동에 따라 총 4차례에 걸쳐 계약 금액을 증액받았지만 수급사업자에게 제때 통지하지 않은 것으로 조사됐다. 법정 기한을 넘겨 하도금 대금 변경 계약을 체결하고 지연된 대금에 대한 이자 1800만 원을 지급하지 않았다.&lt;br /&gt;&lt;br /&gt;공정위 관계자는 "이번 사건은 수급사업자의 권익을 침해하는 불공정 하도급 행위를 적발하고 제재한 사례로 업계에 경각심을 높이는 중요한 계기가 될 것"이라며 "앞으로도 동일·유사한 행위에 대해 엄정한 법 집행을 통해 공정한 하도급거래 질서가 정착될 수 있도록 노력할 것"이라고 말했다.&lt;br /&gt;&lt;br /&gt;</description>
-			<pubDate>Fri, 13 Sep 2024 03:13:13 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201364</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201364</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201364.jpg</media:thumbnail>
-			<dc:creator>이순규 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
