@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>인천 센트럴파크에서 땅꺼짐 발생...인명 피해는 없어</title>
+      <link>https://www.chosun.com/national/incident/2024/09/16/4S6HPSIDFZFRTBM7GNE3SICIH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/16/4S6HPSIDFZFRTBM7GNE3SICIH4/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Sep 2024 13:37:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RBUXU2DUT5CQVJO72BKRHQD6AE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 인천 송도동 센트럴파크에서 땅꺼짐이 발생했다./인천시설공단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 송도의 공원인 센트럴파크에서 땅꺼짐(싱크홀) 현상이 발생했다.&lt;br&gt;&lt;br&gt;16일 인천시 등에 따르면 이날 오전 10시 30분쯤 연수구 송도동 센트럴파크 내 인도에서 지름 약 2m 규모의 땅꺼짐이 발생했다. 인명 피해는 없었다. 인천시설공단 측은 현장에 직원들과 진입금지 팻말, 간이 울타리 등을 배치해 일반 시민들의 접근을 막았다.&lt;br&gt;&lt;br&gt;인천시 관계자는 “땅꺼짐 원인을 파악하고 복구 작업을 진행할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김우빈 “암 진단 당시 짧으면 6개월 산다고...너무 무서웠다”</title>
+      <link>https://www.chosun.com/national/people/2024/09/16/CC7LIMLQIRHI7BKONGYJHOJOUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/16/CC7LIMLQIRHI7BKONGYJHOJOUU/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Sep 2024 13:03:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AWUZFFWAGBIPFNE25EL6Q7X63Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김우빈(35)./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 김우빈(35)이 비인두암 투병 당시를 떠올리며 “병원에서 ‘짧으면 6개월이다’라는 의사 말에 너무 무서웠다”고 고백했다.&lt;br&gt;&lt;br&gt;16일 유튜브 채널 ‘짠한형 신동엽’에는 배우 김우빈과 김성균(44)이 출연했다. 이들은 넷플릭스 영화 ‘무도실무관’에서 함께 호흡을 맞췄다. 이날 김우빈은 무알코올 맥주를 마시며 근황을 전했다. 앞서 김우빈은 2017년 비인두암 판정을 받고 투병 후, 2019년 완치 판정을 받았다.&lt;br&gt;&lt;br&gt;진행자 신동엽이 ‘힘든 투병 생활을 어떤 마음으로 버텼냐’고 물었다. 이에 김우빈은 “전 원래 긍정적인 편이다. 어떤 상황에서도 장점을 찾아내는 성격이다”라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UGQDYONGI5E5TCFM7C56Q3BK7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김우빈(35)이 16일 유튜브 채널 '짠한형'에 출연해 근황을 전했다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이어 “드라마처럼 병원에서 갑자기 ‘짧으면 6개월이다’라는 말씀을 하시니까 너무 놀랐다. 무섭고, 꿈이었으면 좋겠고. 그런 상황들이었다. 그럼에도 불구하고 ‘내가 이걸 이겨내지 못하면 어떡하지?’ 이런 생각을 아예 한 번도 해본 적 없다”라고 전했다.&lt;br&gt;&lt;br&gt;또한 “물론 바로 그런 생각을 하진 못했지만 ‘그냥 이건 기회야’라고 생각하며 치료했다”며 " 데뷔하고 10년 넘게 못 쉬고 바쁘게 지냈으니까. ‘하늘에서 이쯤 나를 되돌아보고 가족들이랑 시간 보내라고 그런 시간을 주신 건 아닐까’라고 생각했다. 사랑하는 사람들 만나고 그랬다. 치료 때문에 몸이 힘든 건 똑같으니까”라고 밝혔다.&lt;br&gt;&lt;br&gt;그는 “단순히 얼굴이 알려졌다는 그 이유만으로 너무 많은 분이 응원해 주시고 기도해 주셨다. 그런 게 저는 진짜 힘이 있다고 믿는다. 병원에서도 놀랄 정도로 경과가 좋았다. 좋아지는 게 눈에 보일 정도였다”며 “그런 응원과 기도 덕분에 제가 빨리 이렇게 건강해질 수 있었다는 생각도 든다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “그 마음이 제 안에서 날아가지 않게 항상 이거를 제가 느끼려고 하고, 제가 받았던 이 기도를 더 많은 사람에게 전달해 주고 싶다. ‘자기 전에 이렇게 더 많은 가정에 기적이 일어났으면 좋겠다’고 항상 기도한다”고 말했다. &lt;br&gt;&lt;br&gt;마지막으로 그는 “제가 받은 이 마음을 잘 간직했다가 잘 전달해 드리는 게 제 마음의 숙제 같은 것이다. 그래서 좀 더 표현하는 것 같다. 특히 부모님에게 표현하는 것은 용기가 필요한 일이더라”며 웃었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 강남에서 코인 거래 위해 위폐 2억여 원 사용한 피의자들, 구속영장 신청</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/16/2EY5PU3IM5BCBD6JJLHWYVKMGY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/16/2EY5PU3IM5BCBD6JJLHWYVKMGY/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Sep 2024 12:16:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UWSJTOPVHQ6OC5Q2HD57LVIZQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남에서 코인 거래 대금으로 위조 지폐 4000여 장을 사용한 남성 2명에게 경찰이 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 사기와 통화 위조 등 혐의를 받는 20대 남성 2명에 대해 이날 오후 구속영장을 신청했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 코인 거래 대금을 지불하는 과정에서 위조지폐를 사용하는 데 관여한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 이 사건 피해자 A씨는 최근 가상자산(코인)을 처분하려고 계획하던 중에 지인 B씨로부터 직거래를 제안받았다. 코인 거래소를 통하면 수수료가 발생하지만, 당사자들이 직접 거래하면 이를 피할 수 있다는 이유였다. 그러면서 B씨는 마침 코인을 사겠다는 지인이 있다며 C씨를 A씨에게 소개했다.&lt;br&gt;&lt;br&gt;이에 A씨는 C씨와 지난 15일 새벽 2시쯤 서울 강남구 논현동에 있는 한 식당에서 만났다. 이곳에서 C씨는 돈다발이 들어있는 가방을 보여줬고, A씨는 휴대전화를 통해 자신이 갖고 있던 3억원 어치 코인을 넘겼다.&lt;br&gt;&lt;br&gt;하지만 이후 돈이 든 가방 내부를 자세히 살펴 본 A씨는 일련번호가 같은 위조지폐 5만원권 4200장이 들어있는 걸 발견했다. 거래 대금이 부족했을 뿐만 아니라 위조지폐이기까지 했던 것이다.&lt;br&gt;&lt;br&gt;A씨는 도망가려던 C씨를 즉각 붙잡았고, 신고를 받아 현장에 도착한 경찰은 새벽 3시쯤 C씨를 곧바로 체포했다.&lt;br&gt;&lt;br&gt;그러나 검거된 C씨는 “나는 B씨가 시켜서 이 장소에 나온 것”이라고 진술했고, 경찰은 추적 수사를 통해 같은날 오후 12시쯤 서울 강남구 역삼동 모처에서 B씨를 붙잡았다.&lt;br&gt;&lt;br&gt;경찰은 현재 B씨와 C씨를 상대로 위조지폐 제작 과정 등 전반적인 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“새롭게 시작합니다”...‘갑질 의혹’ 강형욱, 무료 설루션 예고 </title>
+      <link>https://www.chosun.com/national/people/2024/09/16/UWYPH3RDEJCFBPSHATHINJBFUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/16/UWYPH3RDEJCFBPSHATHINJBFUA/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Sep 2024 11:14:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A5GWBIJEW5BZLHA36WI5QVWWXI.png"&gt;&lt;figcaption&gt;&lt;small&gt;반려견 훈련사 강형욱은 지난 14일 유튜브 채널을 통해 자체 콘텐츠 관련 영상을 올리며 새출발을 알렸다./유튜브 채널 ’강형욱의 보듬TV‘&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;갑질 논란에 휩싸였던 반려견 훈련사 강형욱이 유튜브 자체 콘텐츠를 통해 새출발을 알렸다.&lt;br&gt;&lt;br&gt;14일 유튜브 채널 ‘강형욱의 보듬TV’에는 ‘새롭게 시작합니다’라는 제목의 영상이 올라왔다.&lt;br&gt;&lt;br&gt;강형욱은 안녕하세요. 훈련사 강형욱입니다”라며 “설루션이 필요한 반려견을 모집하고 있습니다”라고 말했다.&lt;br&gt;&lt;br&gt;이어 “평소 반려견 때문에 이웃과 갈등이 있으신 분, 반려견의 공격성 때문에 일상생활이 불가능하신 분, 모든 방법을 다 해봤지만 해결이 안 된 분 등 다양한 고민을 보내주시면 직접 해결해 드리겠습니다”라고 했다. 영상 소개에는 ‘설루션은 100% 무료로 진행된다”고도 적혀있었다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “다시 뵐 수 있어서 기쁘다. 응원한다” “새로운 시작 축하드린다” “기대된다. 얼굴 볼 수 있어서 다행이다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;앞서 강형욱이 운영했던 보듬 컴퍼니 전 직원 2명은 지난 6월 11일 강형욱 부부를 정보통신망법 위반 혐의로 고소했다. 이들은 부부가 직원들의 사내 메신저 내용을 무단 열람하고 다른 직원들에게 그 내용을 누설했다고 주장했다. 보듬컴퍼니는 지난 6월 30일 자로 반려견 교육 서비스를 종료했다.&lt;br&gt;&lt;br&gt;이에 강형욱은 지난 6월 26일 인스타그램을 통해 “최근 경찰서에 나와 아내에 관한 고소장이 접수되었다는 소식을 들었다. 성실히 조사에 임해 진실을 밝히겠다”면서도 “다만 사실 확인이 되지 않은 내용으로 나와 가족에게 불필요한 오해를 일으키거나, 근거 없는 허위 사실을 유포하고 비방한 분들, 허위로 고소한 분들은 법적 대응을 포함한 단호한 조치를 취할 것”이라고 했다. 그러면서 “지난 한 달여간 많은 일을 겪으며 제 삶을 깊이 돌아보는 시간을 가졌다”며 “회사 대표로서의 삶은 접고, 제 본업인 훈련사로서의 삶에 전념하고자 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;그 여파로 강형욱이 출연했던 KBS 2TV ‘개는 훌륭하다’ 프로그램도 지난 7월 잠정 폐지됐다. 강형욱은 같은 달 본인 유튜브 채널에 ‘퍼피교육’ 새 동영상을 올려 50여 일 만에 복귀했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>나란히 ‘옥중 추석’ 유아인·김호중, 수제비·곤드레밥 먹는다</title>
       <link>https://www.chosun.com/national/national_general/2024/09/16/XBKO4NHDQVC57CZC3UVU5RLZLM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/16/XBKO4NHDQVC57CZC3UVU5RLZLM/</guid>
@@ -837,42 +873,6 @@
       <description>14일 오전 3시 49분쯤 충남 당진시 송악읍 서해안고속도로 목포 방향 262km 지점에서 22t 화물트럭이 다마스 승합차를 추돌하는 사고가 발생했다.</description>
       <pubDate>Sat, 14 Sep 2024 01:01:36 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YNCKPAIYFRCKFCZ5VCKZPWJRFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 충남 당진시 송악읍 서해안고속도로에서 22t 화물트럭이 전도되는 사고가 발생, 소방관들이 부상자 구조 작업을 벌이고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14일 오전 3시 49분쯤 충남 당진시 송악읍 서해안고속도로 목포 방향 262km 지점에서 22t 화물 트럭이 다마스 승합차를 추돌하는 사고가 발생했다. 이 사고로 22t 화물 트럭이 옆으로 넘어지면서 화물칸에 실려 있던 16t가량의 퇴비가 도로로 쏟아졌고, 3시간 30분가량 도로 통행이 부분 통제되기도 했다.&lt;br&gt;&lt;br&gt;이날 사고는 다마스 승합차가 엔진 고장으로 3차선 중 2차로에 멈춰 섰고, 뒤따라오던 22t 화물 트럭이 이를 피하려다 다마스 차량을 추돌한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 목격자 등을 상대로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>충청·남부지방 폭염 특보…연휴 첫날 찜통 더위</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/09/14/IMC5ZTHWYZFHNCZLXMLIPZQD5E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/14/IMC5ZTHWYZFHNCZLXMLIPZQD5E/</guid>
-      <dc:creator>조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 14 Sep 2024 00:41:20 +0000</pubDate>
-      <content:encoded>추석 연휴 첫날인 14일 충청권과 남부지방, 제주도를 중심으로 최고 체감 온도가 33도로 올라 무덥겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 충청권과 남부지방, 제주도를 중심으로 폭염특보가 발효된 가운데 이날 낮 최고 기온은 25∼35도로 평년 최고기온(23.8∼27.6도)보다 높겠다.&lt;br&gt;&lt;br&gt;지역별 낮 최고기온은 서울 31도, 춘천 29도, 대전 33, 광주 34도, 대구 35도 제주 32도로 전날과 비슷하거나 조금 높겠다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/325K75CCVRP75MMF7BXTRAD24E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;가을 폭염이 이어진 11일 오후 서울 광화문광장에서 시민과 관광객들이 분수 터널을 지나고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;습도도 높아 최고 체감 온도는 33도 내외, 전라권과 경남권은 35도 내외다.&lt;br&gt;&lt;br&gt;이날 수도권과 강원도는 대체로 흐리고 가끔 비가 내리는 곳이 있겠다. 그 밖의 지역은 가끔 구름이 많겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>드론 의심 물체에 제주공항 약 1시간 ‘마비’...무슨 일?</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/14/HRO66QJSONDI3K33RFQPNUZGCY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/14/HRO66QJSONDI3K33RFQPNUZGCY/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Sep 2024 23:42:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3DVU7YGJEJGDXBXVX25NVGKE74.png"&gt;&lt;figcaption&gt;&lt;small&gt;제주공항 비행 드론 금지 안내 현수막./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주국제공항에서 드론 의심 물체가 발견돼 항공기 운항이 1시간 가까이 중단되는 일이 발생했다.&lt;br&gt;&lt;br&gt;13일 한국공항공사 제주공항에 따르면 이날 오후 9시 5분쯤 제주공항 외곽 순찰을 하던 경비요원이 드론으로 의심되는 물체가 떠 있는 것을 눈으로 확인했다. 이에 따라 오후 9시 17분부터 오후 10시 5분까지, 48분간 제주공항 항공기 운항이 중단됐다.&lt;br&gt;&lt;br&gt;제주공항은 항공기 운항을 중단하고 조사에 나섰다. 드론 의심 물체가 발견된 곳은 주 활주로 상공은 아니고 보조 활주로(남북 활주로) 북단 부근이었다. 하지만 정확한 비행 물체가 확인되지 않자, 제주공항은 상황을 종료한 후 운항을 재개했다.&lt;br&gt;&lt;br&gt;추석 연휴에 접어든 가운데 운항에 차질이 빚어지면서 귀성객과 관광객 등은 큰 불편을 겪었다. 일부 출발편은 애초 예정보다 길게는 2시간 가까이 지연됐다.&lt;br&gt;&lt;br&gt;제주로 향하던 일부 항공편은 운항이 재개될 때까지 착륙하지 못하고 한동안 인근 상공을 맴돌아야 했다. 또 오후 11시부터 커퓨타임(야간 이착륙 금지시간)인 김포공항으로 향할 예정이던 일부 항공편은 결국 인천공항에 착륙했다.&lt;br&gt;&lt;br&gt;공항공사 집계에 따르면 제주 출발편 중 2편(국내선 1, 국제선 1)이 결항하고 김포행 6편이 인천으로 향했으며 18편(국내선 12, 국제선 6)은 지연 운항했다. 도착편 중에는 국제선 1편이 결항했으며 국내선 5편이 지연 운항했다.&lt;br&gt;&lt;br&gt;국가 보안 ‘가급’ 시설인 제주공항 반경 9.3㎞ 이내 지역은 드론 비행 금지 구역이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“군대 가기 싫어”… 병무용 진단서 위조한 20대 ‘집유 2년’</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/14/5L3A74EZUZCMXNIN7UM2ZRUURQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/14/5L3A74EZUZCMXNIN7UM2ZRUURQ/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description>현역병으로 입영하지 않기 위해 병무용 진단서를 위조한 20대에게 법원이 집행유예를 선고했다.춘천지법 형사3단독 박성민 부장판사는 사문서변조 등 혐의로 기소된 A(29)씨에게 징역 1년에 집행유예 2년을 했다고 14일 밝혔다.</description>
-      <pubDate>Sat, 14 Sep 2024 00:47:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HO6TND4Q2XSQBDXD2M2XHVC5Q4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현역병으로 입영하지 않기 위해 병무용 진단서를 위조한 20대에게 법원이 집행유예를 선고했다.&lt;br&gt;&lt;br&gt;춘천지법 형사3단독 박성민 부장판사는 사문서변조 등 혐의로 기소된 A(29)씨에게 징역 1년에 집행유예 2년을 했다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;현역병 입영 통지를 받은 A씨는 지난 2020년 1월 컴퓨터를 이용해 치과에서 받은 병무용 진단서에 ‘악관절염증’, ‘지속적인 내원 필요’ 등을 써서 병무청에 제출하는 등 1년간 진단서 4장을 위조한 혐의다.&lt;br&gt;&lt;br&gt;A씨는 또 코로나 신속항원검사 양성 확인서도 위조해 병무청에 제출하기도 했으며, 이 같은 방법을 통해 병무청으로부터 입영 연기 처분을 받는 등 병무청의 직무집행을 방해했다.&lt;br&gt;&lt;br&gt;박 부장판사는 “진단서 등을 위·변조하고 이를 병무청에 제출해 입영에 관한 직무를 방해했으므로 죄질이 좋지 않다”면서 “초범인 점과 현재 성실히 병역의 의무를 이행하는 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘희귀암 완치’ 윤도현, 라디오 DJ 하차...”병행할 일 많아져”</title>
-      <link>https://www.chosun.com/national/people/2024/09/14/GMGT2HUUB5BG3MQDAWNN5IS55E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/14/GMGT2HUUB5BG3MQDAWNN5IS55E/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Sep 2024 23:22:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ECKFAGAM7NJSXLI5KEJQRFMUFA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;밴드 YB 보컬 윤도현./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;밴드 YB 보컬 윤도현이 2년 만에 MBC FM4U ‘4시엔 윤도현입니다’에서 하차한다.&lt;br&gt;&lt;br&gt;윤도현은 13일 인스타그램을 통해 “익숙한 일이나 사랑하는 일을 내려놓고 새로운 방향을 선택해야 할 때, 그 과정에서 감내해야 하는 심리적 부담과 갈등이 결코 가볍지 않았지만 결정하게 된 일이 있어 말씀드린다”며 “‘4시엔 윤도현입니다’ 라디오 방송을 9월 22일까지만 진행하게 되었습니다”라며 하차 소식을 알렸다.&lt;br&gt;&lt;br&gt;윤도현은 2022년부터 ‘4시엔 윤도현입니다’를 통해 11년 만에 라디오 DJ로 복귀했다. 그는 “당시 복귀를 결정하게 된 이유는 제작진과의 타협점에서 시작됐다. 시즌제나 2인 체제 도입 등 새로운 방식을 시도해 보자는 의견이 있었기 때문이었다”며 “하지만 진행하다 보니 현실적으로 불가능하다고 판단돼 현재 시스템으로 라디오를 진행해 보려 했다”고 전했다.&lt;br&gt;&lt;br&gt;하지만 윤도현은 “저는 YB 활동을 계속하고 있고, 밴드의 유지와 공연은 반드시 해야 하는 일입니다. 또한 창작 작업, 앨범 제작, 이미 오래전에 계약된 뮤지컬 ‘광화문 연가’ 등 병행해야 할 일이 많아졌다”고 설명했다.&lt;br&gt;&lt;br&gt;이어 “라디오를 하면서 계속 휴가를 내는 것은 제작진과 청취자분들께 죄송한 일이라 생각해 이런 결정을 내리게 됐다”면서 “남은 일주일 동안의 방송은 소중히 임하겠다. 라디오는 끝나지만, 공연장에서 활발히 활동할 테니 지켜봐 달라”고 했다.&lt;br&gt;&lt;br&gt;윤도현 후임 DJ는 현재 논의 중이며, 가수 별이 스폐셜 DJ로 나설 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 윤도현은 작년 8월 자신의 인스타그램을 통해 3년간 암 투병 후 완치 판정을 받았다고 고백했다. 그는 암 투병 중에도 라디오 DJ와 음악 활동 등을 이어와 화제를 모았다. 윤도현은 “2021년 건강검진 후 암이란 말을 듣게 됐다”며 “성실하게 약물치료를 2주간 받았으나 실패했고 이후 방사선 치료를 받았다. 약 3년간의 투병을 마치고 드디어 완치 판정을 받았다”라고 전한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“재촉하지 마세요. 저도 힘들다”…추석 택배 기사 안타까운 문자</title>
