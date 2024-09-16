@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>명절 선물에서 단축 근무까지, 법조 추석 복지 풍경</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;/p&gt;추석 명절을 앞두고 법조에서도 직원 복지를 위한 선물·제도에 관심이 높다. 공무원 신분인 검사와 판사는 '공무원 규정'에 따라 명절휴가비를 받지만 대형 로펌들은 법적 제한이 없어 각양각색의 선물과 복지 제도를 운영하고 있다.&lt;br /&gt;&lt;br /&gt;명절 복지가 가장 좋은 곳으로 꼽히는 로펌은 광장이다. 광장은 파트너, 어쏘, 스탭 모두에게 한우, 굴비 등 다양한 명절 선물 세트 중에서 선택할 수 있게 하고 스탭에게는 소정의 명절 상여금도 지급한다. 명절 연휴 전날에는 단축 근무 제도를 시행해 직원들의 만족도가 높다.&lt;br /&gt;&lt;br /&gt;대륙아주 역시 파트너, 어쏘, 스탭 모두에게 명절 선물 세트를 제공한다. 와인, 홍삼 등 원하는 품목을 고를 수 있다. 스탭에게는 명절 상여금도 지급하고 있으며 단축 근무 제도도 보장하고 있다.&lt;br /&gt;&lt;br /&gt;태평양과 율촌은 파트너, 어쏘, 스탭 구분 없이 명절 선물을 제공하며 지평은 직군에 관계없이 같은 금액의 상품권을 지급한다. 율촌은 단축 근무 제도로 직원들의 명절 전날 근무 시간을 줄여주고 있다.&lt;br /&gt;&lt;br /&gt;동인과 화우는 어쏘와 스탭을 대상으로 명절 선물을 지급한다. 동인은 어쏘에게 영양제와 상여금을, 스탭에게는 상여금만을 제공한다. 과거에 단축 근무 제도가 있었으나 현재는 사라진 상태다. 동인 관계자는 "7~8년 전까지 단축 근무 제도가 있었지만 지금은 없어졌다."고 아쉬움을 표했다.&lt;br /&gt;&lt;br /&gt;화우는 어쏘와 스탭에게 백화점 상품권을 지급하며 명절 연휴 전날에는 단축 근무 제도가 시행되어 근무 시간이 정오까지다.&lt;br /&gt;&lt;br /&gt;세종과 바른은 변호사에게 명절 선물을 지급하지 않고 스탭만을 대상으로 세종은 상품권을, 바른은 상여금을 지급한다. 두 로펌 모두 단축 근무 제도를 운영하고 있다.&lt;br /&gt;&lt;br /&gt;김·장은 스탭을 제외한 변호사 직군에 명절 선물이 없는 것으로 알려졌다. 또한 김·장은 다른 주요 로펌과 달라 단축 근무 제도가 마련되어 있지 않다. 김·장 관계자는 "변동사항 없이 연휴 전날에도 동일하게 근무한다"고 전했다.&lt;br /&gt;&lt;br /&gt;한편 대형 로펌들의 다양한 복지와 달리 판사와 검사는 공무원 신분으로서 명절 선물과 단축 근무 제도 없이 '공무원수당 등에 관한 규정 제18조3'에 따라 명절휴가비를 지급 받는다. 지방고법의 고법판사는 "과거에는 법원에서 직원들에게 명절 선물로 김이나 식용유 등을 줬지만 최근에는 명절 선물을 받아본 적이 없다"고 말했다.&lt;br /&gt;</description>
+			<pubDate>Mon, 16 Sep 2024 21:06:23 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201374</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201374</guid>
+			<dc:creator>이진영 기자</dc:creator>
+		</item>
+		<item>
 			<title>심우정 신임 검찰총장 연휴 중 첫 출근 "업무 공백 없게 하라"</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201399.jpg" alt="200546.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&amp;nbsp;&amp;nbsp;&lt;br /&gt;&lt;p&gt;&lt;span style="font-weight: bold;" serial="3204"&gt;심우정&amp;nbsp;&lt;/span&gt;신임 검찰총장이 임기 첫 날인 16일 출근해 추석 연휴 기간 근무상황을 점검했다.&lt;br /&gt;&lt;br /&gt;대검찰청은 이날 심 총장이 대검에 출근해 주요 참모들과 추석 연휴 기간 근무 상황을 점검했다고 밝혔다. &lt;br /&gt;&lt;br /&gt;심 총장은 참모들에게 "범죄로부터 국민을 보호하는 검찰 본연의 역할을 다할 수 있도록 역량을 집중하고, 연휴 기간 일선과 긴밀히 소통해 업무 공백이 발생하지 않도록 세심히 챙겨달라"고 당부했다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;대통령은 심 총장의 임명안을 지난 12일 재가했다. &lt;br /&gt;&lt;br /&gt;국회 법제사법위원회는 지난 5일 심 후보자에 대한 인사청문 경과보고서 채택을 논의하기 위한 전체회의를 열었지만 파행돼 청문보고서 채택은 불발됐다. 윤 대통령은 국회에 인사청문보고서를 지난 11일까지 보내달라고 요청했으나 불발된 후 임명안을 재가했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9175"&gt;이원석&amp;nbsp;&lt;/span&gt;전 검찰총장은 임기 만료일인 9월 15일보다 이틀 앞선 13일에 퇴임식을 가졌다. &lt;br /&gt;&lt;br /&gt;심 총장 취임식은 오는 19일 오전 대검에서 열린다.&lt;/p&gt;</description>
 			<pubDate>Mon, 16 Sep 2024 03:06:15 -0000</pubDate>
@@ -232,16 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201380</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201380.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>정부, '엘리엇 ISDS 판정 취소소송' 영국 법원 각하에 항소</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/empty_thumbnail.jpg" alt="empty_thumbnail.jpg" /&gt;&lt;/p&gt;한국 정부가 미국계 헤지펀드 엘리엇 매니지먼트에 1300억 원이 넘는 돈을 지급하라는 국제투자분쟁(ISDS) 판정에 불복해 낸 소송을 영국 법원이 각하한 데 대해 항소했다.&lt;br /&gt;&lt;br /&gt;정부는 엘리엇 매니지먼트에 약 1389억 원을 지급하라는 국제상설중재재판소(PCA)의 판정에 대해 우리 정부가 낸 취소소송을 각하한 영국 1심 법원의 판결에 불복해 항소법원에 12일(현지시간) 항소장을 제출했다고 13일 밝혔다.&lt;br /&gt;&lt;br /&gt;정부는 관계부처, 로펌, 외부 전문가들과 영국 1심 법원의 각하 판결을 검토한 결과 판결에 한미 자유무역협정(FTA) 해석 등에 중대한 오류가 있다고 보고 이같이 결정했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;앞서 엘리엇은 2015년 삼성물산과 제일모직 합병 승인 과정에서 한국 정부가 국민연금을 동원해 부당하게 개입해 7억7000만달러의 손해를 입었다며 2018년 ISDS를 제기했다. PCA는 지난해 6월 "한국 정부가 엘리엇에 622억 원과 지연 이자·법률 비용 등 총 1300억 원을 지급하라"고 판정했다. 정부는 이에 불복해 중재지인 영국 법원에 이 소송을 냈으나 영국 1심 법원은 본안 판단 없이 사건을 각하했다.&lt;br /&gt;&lt;br /&gt;정부는FTA 규정을 근거로 PCA의 판정에 '관할 위반'이 있어 취소돼야 한다고 주장해왔다. 그러나 지난 8월 1일 영국 법원은 정부가 근거로 든 한미 FTA 제11장의 조항(11.1조)이 영국 중재법상 '실체적 관할'에 관한 문제가 아니라고 봤다.&lt;br /&gt;&lt;br /&gt;영국 중재법상 취소 소송은 '실체적 관할'에 관한 문제를 다뤄야 하는데, 정부가 근거로 든 조항은 당사국의 '실체적 의무'의 범위를 정하는 규정일 뿐이라는 것이다. &lt;br /&gt;&lt;br /&gt;그러나 정부는 해당 조항이 11장 전체에 적용되는 '관문 조항'이라는 점에서 영국 법원의 해석에 오류가 있다는 입장이다. 아울러 이러한 해석이 한미 FTA와 유사한 북미자유무역협정(NAFTA) 등을 다룬 다른 ISDS 판정례들과도 어긋난다고 설명했다.&lt;br /&gt;&lt;br /&gt;법무부는 "영국 법원의 각하 판결에 항소해 바로잡지 않을 경우, 향후 동일하거나 유사한 문언을 가진 투자 협정의 해석 및 적용에 부정적인 영향을 끼칠 우려가 있다"며 "부당한 ISDS 제기가 늘어날 가능성도 항소 제기 결정에 고려했다"고 말했다.&lt;br /&gt;&lt;br /&gt;이어 "앞으로 진행될 항소심에서 1심 각하 판결을 바로잡기 위해 끝까지 최선의 노력을 다하겠다"며 "국민의 알 권리 보장을 위해 법령에 위배되지 않는 범위 내에서 사건 정보를 최대한 공개하겠다"고 덧붙였다.&lt;br /&gt;&lt;br /&gt;정부가 항소심에서 승소할 경우 사건은 1심 법원으로 환송돼 정부가 주장한 중재판정 취소 사유에 대한 본안 판단이 이뤄지게 된다.&lt;br /&gt;&lt;br /&gt;한편 엘리엇은 정부의 항소 결정과 관련해 입장문을 내고 "대한민국이 계속해서 중재 판정에 불복하는 것을 예상하지 못한 바는 아니지만 잘못된 행보"라며 "공정하고 투명하며 신뢰할 수 있는 자본 시장을 구축하려는 스스로의 노력을 부정하는 것으로 코리아 디스카운트를 고착화시키는 행위"라고 비판했다.&lt;br /&gt;&lt;br /&gt;</description>
-			<pubDate>Fri, 13 Sep 2024 05:45:41 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201378</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201378</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/empty_thumbnail.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
