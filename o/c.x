@@ -13,6 +13,20 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>어선 들이받아 3명 숨지게 한 ‘뺑소니 화물선’… 해경, 선장 등 2명 검거</title>
+      <link>https://www.chosun.com/national/regional/honam/2024/09/17/KRNZ5RB2YFAS5O23CWMIKKLK2I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/09/17/KRNZ5RB2YFAS5O23CWMIKKLK2I/</guid>
+      <dc:creator>군산=조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Sep 2024 11:18:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EQC7VYKWOJMOBI4ADQ6SESYLGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 16일 오전 전북 군산시 십이동파도 인근 해상에서 8명이 탑승한 어선이 전복돼 해경이 구조 작업을 벌이고 있다./군산해경 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 16일 전북 군산 해상에서 어선을 들이받아 3명을 숨지게 한 혐의를 받는 석유제품 운반선 선장 등이 검거됐다.&lt;br&gt;&lt;br&gt;군산해양경찰서는 업무상 과실치사 등의 혐의로 1618t급 석유제품 운반선의 선장 A씨 등 관계자 2명을 검거해 수사에 착수했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 경계 소홀 등의 과실로 전날 오전 7시 36분쯤 군산시 십이동파도 남쪽 7.5㎞ 인근 해상에서 35t급 서천 선적 어선 ‘77대령호’를 들이받아 전복시킨 혐의를 받고 있다. 이 화물선은 구호 조치를 하지 않고 사고 현장을 벗어난 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 사고로 사고 어선의 선장(71)과 기관장(53) 등 3명이 숨졌다. 당시 어선에는 8명이 승선했고, 모두 구조됐으나 3명은 의식 불명 상태로 구조됐다.&lt;br&gt;&lt;br&gt;군산해경 관계자는 “어선이 석유제품 운반선과 충돌해 전복된 것으로 추정하고 사고 시간대 항적 분석 등을 통해 혐의 선박을 특정했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4ZAH562JY5PZ5EID22YTPHAE3I.jpg?width=1408&amp;height=792&amp;auth=70a1b0398ac9d71fb0c6fdd7541c8e3fa6de524c7298be42d20806f446b3e968&amp;smart=true" type="image/jpeg" height="792" width="1408">
+        <media:description type="plain">[서울=뉴시스] 최동준 기자 = 16일 전북 군산시 십이동파도 인근 해상에서 어선이 전복되는 사고가 발생해 현장에 출동한 해경이 구조 작업을 벌이고 있다. (사진=군산해양경찰서 제공) 2024.09.08. photo@newsis.com
+ *재판매 및 DB 금지</media:description>
+        <media:credit role="author" scheme="urn:ebu">photocdj</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>불륜女 비방글 올린 아내, 명예훼손죄로 벌금형</title>
       <link>https://www.chosun.com/national/court_law/2024/09/17/PVOESTCGPVGN7DEUTTONKPTJFQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/17/PVOESTCGPVGN7DEUTTONKPTJFQ/</guid>
@@ -902,15 +916,6 @@
       <description/>
       <pubDate>Sat, 14 Sep 2024 10:33:49 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N75CUEQFBVDDVOBVKINENAW4QM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈이 지난 5일 팔레스타인전에서 기회를 놓친 뒤 아쉬워하고 있다. / 고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 내년부터 그라운드 잔디 보호를 위해 서울월드컵경기장에서 열리는 콘서트 등 문화행사에서 그라운드석 판매를 제한한다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;지난 5일 서울월드컵경기장에서 열린 팔레스타인과 월드컵 아시아 3차 예선 1차전 이후 잔디 상태가 나쁘다는 지적이 나온 데 따른 조치다. 축구 대표팀 주장 손흥민은 11일 오만과 2차전 원정 경기를 치른 뒤 “그라운드 상태가 정말 좋아서 선수들이 더 자신 있게 플레이한 것 같다. 홈에서도 이런 부분이 개선되어야 한다”고 말했다.&lt;br&gt;&lt;br&gt;오는 21~22일 서울월드컵경기장에서 예정돼 있는 가수 아이유 콘서트는 이미 티켓이 전석 매진돼 계획대로 열린다고 시는 밝혔다. 행사 주최 측은 잔디 보호 중요성을 인지하고, 그라운드 내 가설무대를 설치하지 않기로 하는 등 잔디 보호를 위한 조치에 동참하기로 했다.&lt;br&gt;&lt;br&gt;서울시는 “콘서트 등 문화행사 대관을 전면 금지하는 방안도 검토했으나 콘서트 관람에 대한 수요가 있고 현재 서울에 2만명 이상 관람객을 수용할 대형 공연장이 없어 그라운드석 판매를 제외한 부분 대관만 허용하기로 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;서울시는 또 서울월드컵경기장에 조성돼 있는 생육에 알맞은 온도가 섭씨 15~24도인 ‘한지형 잔디’ 특성을 고려해 올해와 같은 폭염에 대비, 하절기에는 잔디 사용을 자제하도록 관련 기관과 협의할 예정이다.&lt;br&gt;&lt;br&gt;서울월드컵경기장을 관리하는 서울시설공단과 서울시는 내달 15일 이라크와의 월드컵 3차 예선전을 대비해 최대한 잔디를 보강한 후 축구 경기 관리자들과 함께 상태를 점검한다. 서울시는 “여름철 기록적인 폭염으로 잔디밀도가 약 60% 수준으로 떨어졌다”면서도 “기온이 예년 수준으로 돌아오는 시기부터는 밀도가 회복될 것으로 예상한다. 내달 국가대표 A매치 경기에 지장이 없도록 복구에 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;김영환 서울시 관광체육국장은 “그라운드석 제외 문화행사 대관 조치 시행을 통한 잔디 상시 정비 및 신속 복구로 축구선수들이 최상의 경기력을 유지할 수 있도록 지원하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“우리 가족 풍비박산” 입주민 다툼 말리다 뇌사 빠진 60대 경비원</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/14/FMRRQ7U3CZHEHDYXDOLQ6GNHS4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/14/FMRRQ7U3CZHEHDYXDOLQ6GNHS4/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 14 Sep 2024 10:40:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PWXMA4PTXJDTXO6JQFQBIDRSJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;치료를 받고 있는 A씨. /KBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 아파트에서 일하던 60대 경비원이 입주민들 간 다툼을 말리는 과정에서 폭행을 당해 뇌사 상태에 빠졌다.&lt;br&gt;&lt;br&gt;14일 부산 부산진경찰서 등에 따르면 60대 경비원 A씨는 지난 10일 부산 진구의 한 아파트 주차장 출입구에서 입주민인 20대 남성 B씨에게 폭행을 당해 뇌사 상태에 빠졌다.&lt;br&gt;&lt;br&gt;당시 주차장 진입을 위해 대기하고 있던 B씨는 앞에 있는 차량의 여성 운전자가 시간을 지체하자 말다툼을 벌였다. 경비원 A씨는 이를 말리기 위해 B씨에게 다가갔다.&lt;br&gt;&lt;br&gt;그러나 B씨는 자신을 말리러 온 A씨에게 폭언을 퍼붓고, 다리를 걸어 넘어뜨렸다. A씨는 넘어지면서 머리를 크게 부딪혀 의식을 잃었고, 병원으로 옮겨져 치료를 받았지만 뇌사 판정을 받았다.&lt;br&gt;&lt;br&gt;A씨 가족은 “한순간 젊은 사람의 행동으로 인해 우리 가족은 다 풍비박산 났다”며 “저희가 할 수 있는 모든 것을 동원할 거다. 또 이런 일이 일어나면 안 되지 않나”라고 분노했다.&lt;br&gt;&lt;br&gt;한편 경찰은 중상해 혐의로 20대 B씨에 대해 구속 영장을 신청했다고 13일 밝혔다. 경찰은 아파트에 설치된 방범카메라 영상 등을 토대로 정확한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이마에 세종대왕 붙이고 “얼~씨구씨구 들어간다!” 각설이 도전해 보니</title>
