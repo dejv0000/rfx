@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘노조가 주는 출산장려금’ 첫 수령자 나왔다</title>
+      <link>https://www.chosun.com/national/labor/2024/09/17/EG32JOGVIVC3FHUARTMITQQKFU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/09/17/EG32JOGVIVC3FHUARTMITQQKFU/</guid>
+      <dc:creator>김윤주 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Sep 2024 05:00:00 +0000</pubDate>
+      <content:encoded>서울교통공사 제3노조 ‘올(All)바른노동조합’이 지급하는 출산장려금의 첫 수령자가 나왔다. 올바른노조는 지난 7월 노동조합으로서는 이례적으로 조합원에게 출산장려금을 지급하는 제도를 도입했다.&lt;br&gt;&lt;br&gt;첫 수령자는 서울교통공사 대림승무사업소 소속 기관사 강일수(36)씨다. 올바른노조는 15일 강 기관사에게 출산장려금 100만원을 지급했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E6ZUHA57Z5ALXMGLN6BBW77P3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 서울교통공사 올바른노조가 조합원 강일수(36)씨에게 출산장려금 100만원을 지급했다. /올바른노조 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2020년 결혼한 강씨는 약 3년 간 병원을 다니며 준비한 끝에 지난 7월 26일 예쁜 딸을 얻었다. 강씨는 “아내가 고생이 많았는데 아내와 아이가 건강하게 곁에 있어 기쁘다”며 “동료들로부터 축하까지 받으니 더욱 기쁘고 뿌듯한 마음이 든다”고 말했다.&lt;br&gt;&lt;br&gt;올바른노조는 지난 7월부터 노조 조합원이 첫째를 낳으면 100만원, 둘째를 낳으면 200만원을 지급하고 있다. 사측이 아닌 노조가 직접 직원들의 출산, 육아를 지원하는 것은 흔치 않다.&lt;br&gt;&lt;br&gt;2021년 출범한 올바른노조는 조합원 수 2160명으로, 민주노총 산하 서울교통공사노조, 한국노총 산하 서울교통공사통합노조에 이어 ‘제3노조’다. 1·2노조와 달리, 20대~40대 초반 사이 젊은 조합원이 전체의 90% 이상을 차지해 ‘MZ(1980년대 초반~2000년대 초반 출생) 노조’로 불린다.&lt;br&gt;&lt;br&gt;올바른노조는 2040 젊은 조합원들에게 가장 중요한 문제인 출산, 육아를 지원하기 위해 출산장려금을 도입했다. 재원은 조합원들이 내는 조합비로 마련했다.&lt;br&gt;&lt;br&gt;올바른노조의 출산장려금 도입 소식이 알려진 뒤 사측인 서울교통공사도 회사 차원의 저출생 대응책을 마련하고 있는 것으로 전해졌다. 서울교통공사는 직원이 출산이나 입양을 하면 축하금 차원에서 20만원을 주고 있지만 별도의 출산 장려금은 없다. 공사 관계자는 “사측이 추진 가능한 저출생 해소 방안이 있는지 논의하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;올바른노조 송시영 위원장은 “서울교통공사가 아이를 낳고 기르기에 좋은 환경을 제공하는 회사가 되도록 최선을 다하겠다”며 “현재 사측과 진행 중인 교섭에서 공사 차원의 출산장려금, 임신 직원 주 4.5일제, 재택근무, 시간 단위 연차 사용 등을 도입할 수 있도록 노력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아동 성착취물 범죄자 4000명 중 구속은 260명뿐</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/17/2VR4QJXZWREB7CU2WB34O6YGCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/17/2VR4QJXZWREB7CU2WB34O6YGCE/</guid>
+      <dc:creator>강우석 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Sep 2024 03:46:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NW6YLI7FHG4MKVX77DC6Z7DZGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;딥페이크 예방 교육 관련 안내문. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 지난 3년 7개월간 검거한 아동 성착취물 관련 범죄자 4000여명 중 구속 상태로 검찰에 넘겨진 인원은 261명에 불과한 것으로 나타났다.&lt;br&gt;&lt;br&gt;17일 황정아 더불어민주당 의원이 경찰청으로부터 제출받은 자료에 따르면 2021년부터 올해 7월까지 청소년성보호법 11조(아동·청소년 성착취물의 제작과 배포 등) 위반 혐의로 경찰에 적발된 건수는 모두 4763건으로 드러났다.&lt;br&gt;&lt;br&gt;이 중 검거된 인원은 2021년 1331명, 2022년 986명, 지난해 978명, 올해 1∼7월 762명이다. 전체 검거인원 4057명 중 검찰에 구속 송치된 이는 261명(6.4％)에 불과했다. 단순 소지·시청 여부 등 각 범죄 유형도 현황 별로 따로 집계되지 않는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;최근 딥페이크 성착취물 범죄가 텔레그램 등 소셜미디어를 통해서 확산하고 있다. 특히 소셜미디어를 주로 이용하는 10·20대를 중심으로 범죄가 이뤄지고 있다. 지난 13일에는 텔레그램에서 딥페이크 성착취물을 유포해 1300여명의 피해자를 양산한 일명 ‘지인 능욕방’ 20대 운영자가 검찰에 구속 기소된 바 있다.&lt;br&gt;&lt;br&gt;황 의원은 “딥페이크 등 성착취물 처벌을 강화해야 한다는 지적이 많은 상황에서 아동 성착취물 범죄에 대해서도 명확한 현황 분석을 통해 제대로 된 대책을 마련해야 한다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이유 없이 예비군훈련 안 간 남성...法 “이번만 선고유예”</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/17/MTHD6NSYCNFJ7D25MHKDNNGGME/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/17/MTHD6NSYCNFJ7D25MHKDNNGGME/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Sep 2024 04:01:50 +0000</pubDate>
+      <content:encoded>정당한 이유 없이 예비군 훈련에 참석하지 않은 군 전역자에 대한 형의 선고가 유예됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y7KMAQS6TRIJ3FNODNQZP7NPYI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 경북 경산시 예비군훈련장에서 예비군들이 사격술 예비훈련을 하는 모습. 사진은 기사와 관계 없음. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사11단독 김길호 판사는 병역법 위반 혐의로 재판에 넘겨진 유모씨에게 벌금 50만원 선고유예 판결을 내렸다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;선고유예는 유죄가 인정되지만, 정상을 참작해 형을 선고하지 않는 제도로 2년간 다른 범죄를 저지르지 않으면 처벌을 면제받을 수 있다. 다만 1년 이하 징역이나 금고, 자격정지 또는 벌금형에 해당할 경우에만 선고유예를 할 수 있다.&lt;br&gt;&lt;br&gt;유씨는 지난 1월 29일 휴대전화 병무청 앱을 통해 ‘2024년 3월 12일부터 14일까지 한 예비군훈련장에서 실시하는 병력동원훈련을 받으라’는 내용의 동원훈련소집 통지서를 수령했다.&lt;br&gt;&lt;br&gt;하지만 유씨는 아무런 이유 없이 입영하지 않았다.&lt;br&gt;&lt;br&gt;병역법 제90조에 의하면 동원훈련소집 통지서를 받고도 정당한 사유 없이 지정된 일시에 입영하지 않은 사람 등은 1년 이하의 징역 또는 1000만원 이하의 벌금이나 구류에 처한다.&lt;br&gt;&lt;br&gt;김 판사는 “유씨가 다소 충동적으로 범행을 저지른 것으로 보이고 이 사건 외엔 동원훈련에 불참한 적이 없다”며 “유씨가 뉘우치는 정상이 뚜렷하다고 판단돼 이번에 한해 피고인에 대한 형의 선고를 유예한다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘술 마시지 마’ 음주제한 조건 어긴 전과자, 실형 선고</title>
       <link>https://www.chosun.com/national/court_law/2024/09/17/LQSRCYODRRD5ZO3DTYPZL76BH4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/17/LQSRCYODRRD5ZO3DTYPZL76BH4/</guid>
@@ -864,33 +891,6 @@
       <description/>
       <pubDate>Sat, 14 Sep 2024 05:00:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJCA7FESDBG65PWYJXMXQNKFJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광화문광장 추석 행사 예시도/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석 연휴 서울 곳곳에서 가족들이 함께 즐길 수 있는 체험행사·공연·전시가 열린다.&lt;br&gt;&lt;br&gt;14일 서울시에 따르면 이날부터 18일까지 광화문광장에 푸드트럭을 운영한다. 아이들이 좋아하는 누룽지닭강정, 김치베이컨치즈전, 단호박 식혜 등의 메뉴를 구성했다고 한다. 추석을 맞아 송편도 맛볼 수 있다.&lt;br&gt;&lt;br&gt;광장 한 켠에서는 제기차기, 투호놀이 등 전통놀이도 즐길 수 있다. 특히 16일에는 활쏘기, 대형 윷놀이를 즐기면 경품을 받을 수도 있다. 서울시의 공식 캐릭터 ‘해치와 친구들’ 조형물과 포토월도 설치한다.&lt;br&gt;&lt;br&gt;서울 11개 숲과 공원에서 체험 행사도 열린다.&lt;br&gt;&lt;br&gt;보라매공원에서는 14일 10시~12시 가족과 함께 ‘정원 그림책’을 읽고 식물을 심어보는 프로그램이 예정됐다. 정원을 거닐며 엽서를 만드는 행사도 있다.&lt;br&gt;&lt;br&gt;월드컵 공원에서는 16~18일 전통공예 제작 부스를 만든다. 어린이들이 ‘주령구’, ‘제기’, ‘향낭’을 만들어볼 수 있다. 17~18일 밤엔 천문지도사와 함께 천체망원경으로 보름달을 관찰할 수도 있다.&lt;br&gt;&lt;br&gt;서울숲에서는 14일 3D 현미경으로 풀벌레를 관찰하는 ‘신기한 생물교실’을 연다. 15일에는 공원을 탐사하고 거미를 공부하는 프로그램이 예정됐다. 18일에는 곤충 표본 제작 과정을 배울 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DJOIAYCKUNALNB4VQNN3YL3YJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시뮤지컬단의 공연 모습/세종문화회관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가족과 함께 찾아볼 수 있는 공연, 전시도 많다.&lt;br&gt;&lt;br&gt;창덕궁 돈화문 앞 국악로와 돈화문국악당에서는 17~18일 ‘서울국악축제’를 연다. 우리나라 1호 국악평론가 윤중강씨가 예술감독을 맡았다. 젊은 명인부터 원로 국악인, 무용인 등이 대거 참여한다.&lt;br&gt;&lt;br&gt;세종문화회관은 20일, 22일 양일간 광화문광장에서 뮤지컬, 합창공연을 볼 수 있는 ‘서울시예술단 가을음악회’를 연다. 영화 OST 메들리부터 뮤지컬의 역사를 느낄 수 있는 공연을 준비했다고 한다.&lt;br&gt;&lt;br&gt;서울식물원에서는 14~18일 ‘리듬 : 둘로 존재하는 것으로’라는 제목의 기획 전시가 열린다. 자연과 인간의 조화를 주제로 대형 설치미술과 미디어 작품을 볼 수 있다. 단 17일은 휴관한다.&lt;br&gt;&lt;br&gt;북촌문화센터에서는 14~15일 ‘풍물 재수굿’, 대금과 가야금 공연 등이 예정돼있다. 한 켠에서는 송편 빚기와 이삭 엮기 등을 체험할 수 있다.&lt;br&gt;&lt;br&gt;서울시 공공서비스예약, 서울한옥포털 등의 홈페이지를 통해 자세한 내용을 확인할 수 있다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “사전 예약을 해야하는 프로그램도 많으니 방문 전 홈페이지를 확인해주시길 당부드린다”며 “서울 곳곳에서 가족과 연인과 다양한 행사를 즐기시길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>성범죄 피해자 “가족에 알리지 말라” 했는데…집으로 간 경찰 통지서</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/14/OQCBNGQFVBG4RNYLVDU6SIJYHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/14/OQCBNGQFVBG4RNYLVDU6SIJYHI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 14 Sep 2024 04:34:09 +0000</pubDate>
-      <content:encoded>성폭력 관련 수사 서류를 가족이 보지 못하게 해달라는 피해자의 요청을 잊고 집으로 서류를 보낸 경찰의 행위에 대해 국가가 배상해야 한다는 법원 판결이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BS7G4HOEBBNENDXZXRZVARTFWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법·서울고법 전경. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14일 법조계에 따르면, 서울중앙지법 민사항소7-2부(재판장 해덕진)는 성폭력 피해자 A씨가 국가를 상대로 낸 손해배상 소송에서 “국가가 500만원을 지급하라”고 최근 판결했다. 1심과 같은 결과다.&lt;br&gt;&lt;br&gt;A씨는 2022년 4월 성폭력을 당했다는 취지의 고소장을 경찰에 냈다. 고소장에는 “가족이 이 사건을 알게 돼 고통 받길 원치 않으니 관련 서류를 고소대리인의 주소로 보내달라”고 적었다. 그러나 경찰은 그해 6월 수사결과 통지서를 A씨의 자택으로 보냈다. 통지서를 수령한 A씨와 가족은 충격으로 정신과 치료를 받게 됐다고 한다. A씨는 이로 인한 정신적 손해를 배상하라며 국가와 담당 경찰관들을 상대로 소송을 냈다.&lt;br&gt;&lt;br&gt;1심은 “경찰은 성범죄로 고소된 사건을 수사할 때 고소인 등의 사적인 비밀이 침해되지 않도록 주의해야 할 의무가 있음에도 A씨의 송달장소 변경 요청을 간과했다’며 국가의 배상책임을 인정했다. 또 “경찰관들의 과실로 A씨는 자기정보 통제권과 사생활 비밀이 침해됐고, 가족이 우편물을 개봉해 피해가 커졌다”고 봤다. 다만 경찰관들에 대한 배상 청구는 “고의나 중과실로 위법하게 직무를 집행했다고 단정하기 어렵다”며 받아들이지 않았다.&lt;br&gt;&lt;br&gt;2심은 이런 원심 판단에 오류가 없다고 보고 국가의 항소를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 연세대에 올 연말 ‘저출생 연구원’ 생긴다</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/14/YVKQQBIHUNDP5AQBLFRA4LKHIM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/14/YVKQQBIHUNDP5AQBLFRA4LKHIM/</guid>
-      <dc:creator>구동완 기자, 김혜민 인턴기자(서울대 사회학 졸업예정)</dc:creator>
-      <description/>
-      <pubDate>Sat, 14 Sep 2024 04:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YJ36NO6VG5BQYT2A6W2UW3DH2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연세대 전경. /연세대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연세대가 12월 저출생과 고령화 등 인구문제를 전문적으로 다루는 연구원을 개소한다.&lt;br&gt;&lt;br&gt;13일 연세대에 따르면 이 연구원은 의과대학과 상경대학을 포함해 여러 단과대가 합동으로 출범시키는 융복합 기관으로, 인구문제를 중점으로 다루면서 저출생·고령화뿐만 아니라 이민 문제, 발달장애인 등 사회적 약자를 위한 정책 연구도 함께 진행할 계획이다. 연세대 측은 “인구문제는 복합적 요인이 얽혀 있어 단일 학문적 접근으로 해결이 쉽지 않다고 판단해 학문 간 장벽을 허물기로 한 것”이라며 “교수 10명, 박사급 5명 정도를 영입할 계획이며, 인구문제를 집중적으로 다루는 융복합 연구원은 국내에서 처음”이라고 했다.&lt;br&gt;&lt;br&gt;연구원 설립은 의사 겸 경제학자인 김현철 연세대 의과대학·홍콩과기대 경제학과 교수가 앞장서고 있다. 김 교수는 “정부 정책 데이터를 면밀하게 분석해 실질적인 해결책을 만들어 내는 것이 목표”라면서 “교육·건강·노동문제까지 폭넓게 다루며 우리나라 인구의 양과 질을 어떻게 높일지 고민해 나갈 것”이라 했다. 연구원 이름으로는 ‘인구와 인재(Population and Human Capital) 연구원’이 검토되고 있다고 한다.&lt;br&gt;&lt;br&gt;연구원 설립에는 동문들의 도움이 컸다. 경기 성남시에서 산부인과를 운영 중인 한성식 원장은 6억원을 쾌척했고, 부평시 한 병원의 양문술 원장은 발달장애인 등 연구를 위해 2억원을 내놨다. 한 달 평균 50여 명의 신생아를 받고 있다는 한 원장은 “저출산으로 병원 운영이 어려워지는 것을 염려하는 단순한 문제가 아니다”라며 “여자에게 몰리는 독박 육아를 피해 가족 모두가 육아를 책임져 가족의 행복을 추구할 수 있는 방향을 연구원이 고민해 줬으면 좋겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독]‘응급실 파견’ 대통령실 비서관들 뭐하나 했더니</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/09/14/FJVISUX5DFBWJC5AR2ZB7SSGLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/14/FJVISUX5DFBWJC5AR2ZB7SSGLA/</guid>
-      <dc:creator>조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 14 Sep 2024 02:05:26 +0000</pubDate>
-      <content:encoded>대통령실은 최근 “추석 연휴를 앞두고 17개 시도에 비서관을 급파해 현장 상황을 확인하겠다”고 했다. 의료계 일각에선 “대통령실이 각 지역 내 거점 대형 병원 응급실 의사들을 감시하러 나오는 것 아니냐”는 불만이 나왔다.&lt;br&gt;&lt;br&gt;그런데 파견된 대통령실 비서관들의 활동을 지켜본 각 병원 응급실 의사들 사이에선 “비서관들이 현장 의료진 목소리를 꼼꼼하게 수첩에 써 가더라”는 말이 나온다. 파견된 비서관 대부분은 하루 이틀 간 배정된 권역의 여러 병원 응급실을 돌며 의료진으로부터 응급실 운영 실상을 듣고 돌아갔다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/76MPBY7WLZMK7BQ4VZY2IOK6IM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 13일 서울 중랑구 서울의료원 권역응급의료센터를 방문해 의료진을 격려하고 있다/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 지방 국립대병원의 응급실 전문의는 “지난 10일쯤 대통령실에서 비서관이 내려 왔다”며 “지자체의 응급실 관계자들과 병원 수뇌부, 응급실 현장 의료진의 얘기를 듣고 빼곡히 수첩에 정리를 하더라”고 했다. 한 비서관은 응급의학과 교수로부터 응급 환자가 병원을 찾지 못해 119 구급차를 타고 장시간 헤매는 이른바 ‘응급실 뺑뺑이’가 일어나는 원인과 향후 응급실 상황 전망에 관한 ‘PPT(파워포인트) 강의’를 듣기도 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한 응급의학과 교수는 “대통령실 비서관이 같은 권역 내 다른 병원 응급실까지 여기저기를 다니면서 현장 상황을 챙기더라”며 “그러고는 ‘현장 목소리를 있는 그대로 (상부에) 전달하겠다’고 말하고 상경했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 서울 성매매 적발 3년 새 2배…판검사에 유명 피아니스트까지 성매매에 빠졌다</title>
