@@ -6,6 +6,25 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>(금주 법조계 주요일정) 9월 19~20일</title>
+			<description>&lt;b&gt;△19일(목)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정경제범죄가중처벌등에관한법률위반(수재등) 등' 혐의 박영수 전 특검 외 1명 33차 공판(오전 10시)&lt;br /&gt;-대검찰청, 제46대 심우정 검찰총장 취임식(오전 11시, 서울 서초구 대검찰청 본관 15층 대회의실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;△20일(금)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '공직선거법위반 혐의' 이재명 더불어민주당 대표 28차 공판(오전 10시30분)&lt;br /&gt;-이은애 헌법재판관 퇴임식(오전 11시, 재동 헌법재판소)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 곽병채 외 2명 1차 공판(오후 2시)</description>
+			<pubDate>Tue, 17 Sep 2024 22:05:26 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201398</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201398</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
+			<title>이재명 '선거법 위반'·'위증교사' 재판, 추석 연휴 이후 연달아 마무리…이르면 내달 말 선고 전망</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201379.jpg" alt="201379.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&lt;/span&gt;(60·사법연수원 18기) 더불어민주당 대표에 대한 공직선거법 위반 혐의와 위증교사 혐의에 대한 재판이 각각 추석 연휴 이후인 이달 20일과 30일 마무리된다. 통상 결심 이후 선고까지 한 달가량 걸리는 점을 고려한다면 10월 말이나 11월 중 1심 선고가 나올 가능성이 높다. 어떤 사건의 선고가 먼저 이뤄지더라도 현재 이 대표의 사법 리스크 중 첫 법원 판단이 되는 만큼 전 국민의 관심이 쏠린다.&lt;p&gt;&amp;nbsp;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;서울중앙지법 형사34부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5008"&gt;한성진&amp;nbsp;&lt;/span&gt;부장판사)는 오는 20일 이 대표의 공직선거법 위반 혐의에 대한 결심공판을 열기로 했다. 2022년 9월 사건이 접수된 이후 2년 만이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이날 검찰은 구형량을 밝히고, 이 대표는 최후 진술을 하는 순서로 진행될 것으로 보인다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이 대표는 민주당 대선 후보이던 2021년 12월 방송 인터뷰에서 고(故) 김문기 성남도시개발공사 개발1처장에 대해 "시장 재직 시절 알지 못했다"며 허위 사실을 말한 혐의 등으로 2022년 9월 기소됐다. 지난해 이 대표의 단식과 코로나19 확진 등 건강상 이유, 국회 일정 등으로 여러 차례 재판이 열리지 못하면서 1심 마무리까지도 오랜 시간이 걸렸다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;한편, 서울중앙지법 형사33부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3404"&gt;김동현&amp;nbsp;&lt;/span&gt;부장판사)에서 심리 중인 위증교사 혐의에 대한 결심공판은 30일로 예정돼 있다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이날 재판부는 양측 의견을 반영해 결심 절차 전 이 대표에 대한 피고인 신문을 약 1시간 진행한다. 이어 검찰의 최종의견과 구형 진술, 서증조사에 대한 변호인 의견 진술, 최종변론, 최후진술을 진행할 예정이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이 대표는 자신의 '검사 사칭' 사건과 관련해 공직선거법 위반 혐의 재판이 진행 중이던 2018년 12월 김병량 전 성남시장의 비서였던 김진성 씨에게 여러 차례 전화를 걸어 거짓 증언을 요구한 혐의로 재판에 넘겨졌다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이 대표는 자신의 혐의를 부인하고 있지만, 김 씨는 이 대표의 요구에 따라 거짓 증언을 했다며 자백했다. 김 씨는 이 대표가 자신에게 여러 차례 전화로 위증을 요청한 내용이 담긴 녹취록을 증거로 제출하기도 했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;두 사건 모두 추석 연휴 이후 재판 절차를 마무리 짓게 되면서 결과도 비슷한 시기에 선고될 것으로 보인다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;공직선거법 위반 혐의로 벌금 100만 원 이상 형을 확정받으면 5년간 피선거권이 제한되고 의원직 당선이 무효가 된다. 위증교사 혐의의 경우 금고 이상의 형(집행유예 포함)이 확정될 경우 의원직을 상실하고 5년 동안 피선거권이 박탈된다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;두 사건 외에도 이 대표는 서울중앙지법에서 대장동·백현동·성남FC·위례신도시 사건 재판을, 수원지법에서 쌍방울 불법 대북 송금 사건 등 재판을 받고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Tue, 17 Sep 2024 21:08:40 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201379</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201379</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201379.jpg</media:thumbnail>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] '저작권법 위반 혐의' 코오롱베니트, 대법원서 무죄 확정</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/201324.jpg" alt="201324.jpg" /&gt;&lt;/p&gt;개인의 미들웨어 프로그램을 무단 복제해 증권시장 감시 시스템 등을 만들어 한국거래소(KRX)에 납품한 혐의로 재판에 넘겨진 코오롱베니트 법인과 책임자에게 무죄가 확정됐다. 미들웨어 프로그램은 은행의 뱅킹 업무 및 철도 승차권 예약과 같이 동시 사용자가 폭주할 경우 업무 처리가 원활하게 돌아가도록 감시·제어하는 기능을 한다.&lt;p&gt;&amp;nbsp;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;대법원 형사2부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3286"&gt;김상환&amp;nbsp;&lt;/span&gt;대법관)은 지난달 23일 IT기업인 코오롱베니트의 A 부장과 B 프로그래머에 대한 저작권법 위반 혐의 사건에서 상고를 기각하며 원심을 확정했다(&lt;b&gt;2024도3533&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;이 사건은 데이터베이스와 응용프로그램 간 소통을 돕는 미들웨어 프로그램 '심포니넷'의 저작권자 고모 씨가 IT기업인 코오롱베니트의 A 부장과 B 프로그래머를 상대로 저작재산권 침해를 주장하며 시작됐다. 고 씨는 2011~2015년 9월까지 코오롱베니트와 계약을 맺고 한국거래소의 시스템 개발에 참여했다.계약 종료 후 고씨는 "A 씨 등이 자신의 프로그램 소스 코드를 무단으로 복제하고 이를 바탕으로 새로운 프로그램을 개발했다"며 서울중앙지방법원에 사용금지 가처분 신청과 민사소송을 제기했다. 이후 검찰은 A 씨 등이 공모해 저작물을 무단 복제한 혐의로 기소했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;1심은 A 씨 등이 저작권자인 고씨의 허락 없이 소스 코드를 복제해 저작권을 침해한 사실이 인정된다고 판단했다. 이에 따라 A와 B에게 각각 벌금 1000만 원, 코오롱베니트 법인에는 벌금 500만 원을 선고했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;반면 2심은 "A 씨 등이 저작재산권 침해를 의도했다고 보기 어렵고 이를 뒷받침할 명백한 증거가 부족하다"며 무죄를 선고했다. 항소심 재판부는 "A 씨 등이 코로롱베니트 법인이 소스 코드 저작재산권을 소유하고 있다고 믿고 새로운 프로그램 개발을 진행한 것으로 보인다"며 고의적인 저작권 침해 행위가 아니라고 판단했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;대법원도 "원심의 판단에 논리와 경험의 법칙을 위반하거나 자유심증주의의 한계를 벗어난 잘못이 없다"며 상고를 기각했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Tue, 17 Sep 2024 00:19:03 -0000</pubDate>
@@ -222,26 +241,6 @@
 			<link>https://www.lawtimes.co.kr/news/201383</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201383</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201383.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 10세 아동에 결혼서약·사진 요구 40대 남성 징역형 집행유예 확정</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201382.jpg" alt="201382.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;10세 여아에게 온라인 채팅을 통해 성적인 메시지를 보낸 40대 남성에게 성 착취 목적이 인정돼 징역형 집행유예가 확정됐다.&lt;p&gt;&lt;br /&gt;대법원 형사2부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3751"&gt;권영준&amp;nbsp;&lt;/span&gt;대법관)는 13일 아동·청소년의 성보호에 관한 법률 위반(성 착취 목적 대화 등)·아동복지법 위반(아동학대) 혐의로 기소된 A(40) 씨에게 징역 2년에 집행유예 3년을 선고한 원심을 확정했다(&lt;b&gt;2024도10735&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;&lt;br /&gt;2022년 1월 A 씨는 당시 10살이던 피해자를 가상현실 앱을 통해 알게 됐다. A 씨는 피해자에게 총 45회에 걸쳐 성적 욕망이나 수치심 또는 혐오감을 유발할 수 있는 메시지를 반복적으로 보내고 성 착취를 목적으로 대화한 혐의로 기소됐다. 청소년의 성 보호에 관한 법률(청소년보호법)은 19세 이상의 성인이 아동·청소년에게 성적 욕망이나 수치심, 혐오감을 유발할 수 있는 대화를 지속적으로 하는 행위를 금지한다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;A 씨는 피해자에게 '뽀뽀'나 '결혼' 등을 언급하고 '존댓말을 쓰면 흥분된다' '이 시간부로 나의 소유물이다' 등 성적으로 해석될 수 있는 메시지를 수차례 보냈다. 뽀뽀하는 사진을 보내라든지 결혼 서약서를 작성하라고 요구하기도 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;1심은 A 씨에게 아동학대 혐의만 인정해 징역 1년 6개월에 집행유예 3년을 선고했다. 1심 재판부는 A 씨가 성 행위를 직접 언급하거나 특정 신체 부위 등에 관해선 표현하지 않았다며 성 착취 목적 대화 혐의는 무죄로 판단했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;항소심은 모든 혐의를 유죄로 인정해 1심보다 무거운 징역 2년에 집행유예 3년을 선고했다. 항소심 재판부는 "피고인이 피해자에게 보낸 메시지는 피해자뿐 아니라 피해자와 같은 성별과 연령대의 평균적인 사람들의 성적 도의관념에 비춰 성적 수치심 또는 혐오감을 일으키는 대화에 해당한다"고 판시했다. 그러면서 "성적 욕망이나 수치심 또는 혐오감을 유발할 수 있는 대화는 내용이 반드시 성교 행위 등을 하도록 유인·권유하는 행위에 비견될 정도에 이르러야 한다고 제한적으로 해석할 것은 아니다"라고 밝혔다.            &lt;/p&gt;&lt;p&gt;&lt;br /&gt;대법원도 이 같은 원심 판단에 법리를 오해한 잘못이 없다고 보고 상고를 기각했다.&lt;/p&gt;</description>
-			<pubDate>Fri, 13 Sep 2024 06:01:09 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201382</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201382</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201382.jpg</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
-		</item>
-		<item>
-			<title> 유기천재단, '제20회 월송기념 학술심포지엄' 24일 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201380.jpg" alt="201380.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;재단법인 유기천교수기념사업출판재단(이사장 최종고)은 오는 24일 서울 중구 태평로1가 한국프레스센터에서 '유기천재단 20년: 회고와 과제'를 주제로 제20회 월송기념 학술심포지엄을 개최한다. 같은 날 제10회 유기천법률문화상 시상식도 함께 열린다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9236"&gt;이완규&lt;/span&gt;(63·사법연수원 23기) 법제처장이 제10회 수상자로 선정됐다.&lt;br /&gt;&lt;br /&gt;학술심포지엄의 사회는 성낙인 전 서울대 총장이 맡았다. 기조 발제는 이사장인 최종고 서울대 명예교수가 '한국의 사회발전과 재단의 사명'을 주제로 발표한다. 그뒤 유기천재단의 설립 과정과 학술 활동 지원 등 지난 20년의 성과를 돌아보는 발표가 이어질 예정이다.&lt;br /&gt;&lt;br /&gt;유기천재단은 한국의 대표적인 법학자 월송 유기천 전 서울대 총장을 기념하기 위해 2004년에 설립된 재단이다. 고(故) 유기천 전 총장은 서울대 법대 학장과 사법대학원장, 서울대 총장 등을 역임했으며, 예일대에서 '한국 문화와 형사책임'이라는 논문으로 한국인 최초로 법학박사(SJD) 학위를 받았다. 또 한국 형법을 영어와 독일어로 번역해 세계 무대에 한국 법을 알리는 데 크게 기여한 인물이다.</description>
-			<pubDate>Fri, 13 Sep 2024 05:46:32 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201380</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201380</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201380.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
