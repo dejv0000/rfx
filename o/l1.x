@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] "수영장 수리 핑계로 센터 직원이 알몸 훔쳐본다" 거짓 비방한 회원… 벌금형 확정</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201350.jpg" alt="201350.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;탈의실 누수로 시설 공사를 하던 직원이 실수로 여성 회원이 탈의한 모습을 본 것인데도 "센터 직원이 몰래 여성 회원들의 알몸을 훔쳐본다"고 인터넷 카페 등에 180여 회 비방 목적의 글 올린 회원에게 벌금형이 확정됐다.&lt;p&gt;&lt;br /&gt;대법원 형사2부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3286"&gt;김상환&amp;nbsp;&lt;/span&gt;대법관)는 지난달 23일 명예훼손과 업무방해 혐의로 기소된 A 씨에게 벌금 300만 원을 선고한 원심을 확정했다(&lt;b&gt;2024도8930&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;한 스포츠센터에서 수영 강좌를 듣던 경찰 공무원 A 씨는 2021년 9월 수영장 탈의실 누수로 인해 시설공사를 하던 B 씨가 실수로 자신이 탈의한 모습을 보게 된 것에 앙심을 품고 약 한 달 반 동안 185회에 걸쳐 인터넷 카페에 "B 씨가 작업을 핑계로 여성회원의 알몸을 훔쳐본다"는 취지로 글을 올렸다. B 씨는 해당 센터의 시설을 관리·보수하는 업무를 담당하는 기관장이었는데, 여성 회원들의 알몸을 훔쳐본 사실이 없고 탈의한 A 씨를 마주한 것도 고의가 아니었던 것으로 조사됐다. A 씨는 지역사회 커뮤니티에 수영장을 폐업시켜야 한다는 글도 올렸다. 이에 A 씨는 B 씨 등을 비방할 목적으로 거짓의 사실을 드러내 B 씨와 센터 측의 명예를 훼손하고 허위 사실을 유포해 회사 체육 시설 영업을 방해한 혐의로 기소됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;1심과 항소심은 A 씨에게 벌금 300만 원을 선고했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;1심과 항소심은 "B 씨가 수리를 하다가 우연히 A 씨를 본 것인데 고의로 여성의 나체를 보기 위해 탈의실에 있던 것처럼 표현한 것은 허위 사실에 해당한다"고 판단했다. 또 이 같은 게시글은 비방목적이 크고 전체적으로 공공의 이익을 위한 것이라고 볼 수 없으며, 허위사실이 담긴 글을 유포해 영업을 방해한 혐의도 유죄로 인정된다고 밝혔다.               &lt;/p&gt;&lt;p&gt;&lt;br /&gt;대법원도 이 같은 원심 판결을 그대로 확정했다.&lt;/p&gt;</description>
+			<pubDate>Wed, 18 Sep 2024 00:19:36 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201350</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201350</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201350.jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] 주민센터로 보낸 해외거주자 과징금 고지서 효력 없다</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201348.jpg" alt="201348.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;해외체류자 과징금 고지서를 행정상 관리주소인 주민센터로 보내는 것은 적법한 송달이 아니라는 법원의 판단이 나왔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;서울행정법원 행정4단독&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="21017"&gt;서경민&amp;nbsp;&lt;/span&gt;판사는 A 씨가 서울특별시 영등포구청장을 상대로 제기한 과징금 부과 처분 취소 소송(&lt;b&gt;2023구단72991&lt;/b&gt;)에서 원고 승소 판결했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;해외 거주자인 A 씨는 2020년 명의신탁등기와 관련해 부동산실명법 위반으로 약 6000만 원 과징금 부과 처분을 받았다. 이에 영등포구청은 A 씨의 과징금 처분서를 주민등록상 주소인 응봉동 주민센터로 보냈고 주민센터 직원이 처분서를 수령했다. A 씨는 “과징금 처분이 적법하게 고지되지 않아 효력이 발생하지 않았다”고 주장하며 과징금 부과 취소 소송을 제기했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;법원은 영등포구청의 과징금 송달 방식이 적법하지 않다고 판단했다. 과징금이 적법하게 A 씨에게 고지되지 않아 무효로 봐야 한다고 본 것이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;서 판사는 “지방세기본법 제28조에서 서류의 송달 장소로 정한 주소는 생활의 근거가 되는 곳”이라며 “응봉동 주민센터는 해외체류를 이유로 행정상 관리주소로 등록이 되었을 뿐, 해외체류라는 사유 자체로도 주민센터를 생활의 근거되는 곳으로 볼 수 없다”고 판단했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이어 “영등포구청은 A 씨가 해외체류자임을 쉽게 확인할 수 있었고 A 씨의 해외주소를 파악해 송달이 가능했을 뿐 아니라 파악한 해외 주소로 송달하는 것이 곤란할 경우 공시송달의 방법 등을 통해 송달이 가능했다”며 “응봉동 주민센터는 지방세기본법에서 정한 또 다른 송달 장소인 A 씨의 거래소, 영업소 또는 사무소가 아니다”라고 설명했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;또한 “지방세기본법 제30조에 따라 송달받는 자는 △송달받아야 할 자 △그의 사용인 △종업원 △동거인 등 사리를 분별할 수 있는 사람이 되어야 하는데 응봉동 주민센터 직원은 이에 해당하지 않는다”며 “A 씨가 해외체류신고를 해 응봉동 주민센터가 행정상 관리주소로 등록되었다는 사정만으로는 주민센터 직원에게 송달수령의 권한을 위임했다고 볼 수 없다”고 밝혔다. 그러면서 “2023년 구청 직원이 카카오톡 메시지로 과징금 납부 연락을 한 점도 A 씨의 신청에 따른 적법한 전자송달 방법이 아니다”라고 덧붙였다.&lt;/p&gt;</description>
+			<pubDate>Wed, 18 Sep 2024 00:19:32 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201348</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201348</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201348.jpg</media:thumbnail>
+			<dc:creator>이진영 기자</dc:creator>
+		</item>
+		<item>
 			<title>(금주 법조계 주요일정) 9월 19~20일</title>
 			<description>&lt;b&gt;△19일(목)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정경제범죄가중처벌등에관한법률위반(수재등) 등' 혐의 박영수 전 특검 외 1명 33차 공판(오전 10시)&lt;br /&gt;-대검찰청, 제46대 심우정 검찰총장 취임식(오전 11시, 서울 서초구 대검찰청 본관 15층 대회의실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;△20일(금)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '공직선거법위반 혐의' 이재명 더불어민주당 대표 28차 공판(오전 10시30분)&lt;br /&gt;-이은애 헌법재판관 퇴임식(오전 11시, 재동 헌법재판소)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 곽병채 외 2명 1차 공판(오후 2시)</description>
 			<pubDate>Tue, 17 Sep 2024 22:05:26 -0000</pubDate>
@@ -15,7 +35,7 @@
 			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 		<item>
-			<title>이재명 '선거법 위반'·'위증교사' 재판, 추석 연휴 이후 연달아 마무리…이르면 내달 말 선고 전망</title>
+			<title>이재명 '선거법 위반'·'위증교사' 재판, 이르면 내달 말 선고</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201379.jpg" alt="201379.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&lt;/span&gt;(60·사법연수원 18기) 더불어민주당 대표에 대한 공직선거법 위반 혐의와 위증교사 혐의에 대한 재판이 각각 추석 연휴 이후인 이달 20일과 30일 마무리된다. 통상 결심 이후 선고까지 한 달가량 걸리는 점을 고려한다면 10월 말이나 11월 중 1심 선고가 나올 가능성이 높다. 어떤 사건의 선고가 먼저 이뤄지더라도 현재 이 대표의 사법 리스크 중 첫 법원 판단이 되는 만큼 전 국민의 관심이 쏠린다.&lt;p&gt;&amp;nbsp;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;서울중앙지법 형사34부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5008"&gt;한성진&amp;nbsp;&lt;/span&gt;부장판사)는 오는 20일 이 대표의 공직선거법 위반 혐의에 대한 결심공판을 열기로 했다. 2022년 9월 사건이 접수된 이후 2년 만이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이날 검찰은 구형량을 밝히고, 이 대표는 최후 진술을 하는 순서로 진행될 것으로 보인다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이 대표는 민주당 대선 후보이던 2021년 12월 방송 인터뷰에서 고(故) 김문기 성남도시개발공사 개발1처장에 대해 "시장 재직 시절 알지 못했다"며 허위 사실을 말한 혐의 등으로 2022년 9월 기소됐다. 지난해 이 대표의 단식과 코로나19 확진 등 건강상 이유, 국회 일정 등으로 여러 차례 재판이 열리지 못하면서 1심 마무리까지도 오랜 시간이 걸렸다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;한편, 서울중앙지법 형사33부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3404"&gt;김동현&amp;nbsp;&lt;/span&gt;부장판사)에서 심리 중인 위증교사 혐의에 대한 결심공판은 30일로 예정돼 있다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이날 재판부는 양측 의견을 반영해 결심 절차 전 이 대표에 대한 피고인 신문을 약 1시간 진행한다. 이어 검찰의 최종의견과 구형 진술, 서증조사에 대한 변호인 의견 진술, 최종변론, 최후진술을 진행할 예정이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이 대표는 자신의 '검사 사칭' 사건과 관련해 공직선거법 위반 혐의 재판이 진행 중이던 2018년 12월 김병량 전 성남시장의 비서였던 김진성 씨에게 여러 차례 전화를 걸어 거짓 증언을 요구한 혐의로 재판에 넘겨졌다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이 대표는 자신의 혐의를 부인하고 있지만, 김 씨는 이 대표의 요구에 따라 거짓 증언을 했다며 자백했다. 김 씨는 이 대표가 자신에게 여러 차례 전화로 위증을 요청한 내용이 담긴 녹취록을 증거로 제출하기도 했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;두 사건 모두 추석 연휴 이후 재판 절차를 마무리 짓게 되면서 결과도 비슷한 시기에 선고될 것으로 보인다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;공직선거법 위반 혐의로 벌금 100만 원 이상 형을 확정받으면 5년간 피선거권이 제한되고 의원직 당선이 무효가 된다. 위증교사 혐의의 경우 금고 이상의 형(집행유예 포함)이 확정될 경우 의원직을 상실하고 5년 동안 피선거권이 박탈된다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;두 사건 외에도 이 대표는 서울중앙지법에서 대장동·백현동·성남FC·위례신도시 사건 재판을, 수원지법에서 쌍방울 불법 대북 송금 사건 등 재판을 받고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Tue, 17 Sep 2024 21:08:40 -0000</pubDate>
 			<category>news</category>
@@ -222,26 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201385</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201385.jpg</media:thumbnail>
 			<dc:creator>홍윤지 기자</dc:creator>
-		</item>
-		<item>
-			<title>조현문 강요미수 사건 새 국면</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201387.jpg" alt="199687.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="text-align: center; margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;조현문 전 효성 부사장 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;친형인 조현준 효성그룹 회장에 대한 강요미수 혐의로 기소된 조현문 전 효성그룹 부사장의 재판에서  "사전에 조 전 부사장에게 강요미수 가능성을 알렸다"는 증언이 나왔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;서울중앙지법 형사26단독&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="25801"&gt;최민혜&amp;nbsp;&lt;/span&gt;판사는 지난 9일 강요미수 혐의로 기소된 조 전 부사장과 공갈미수 등 혐의로 기소된 박수환 전 뉴스커뮤니케이션 대표에 대한 10차 공판 기일을 열었다(2022고단5766).&lt;p&gt;&amp;nbsp;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;이날 재판부는 핵심 인물인 공 모 변호사에 대한 증인신문을 진행했다. 공 변호사는 2013년경 조 전 부사장의 메시지를 동생인 조현상 부회장과 효성 임원 등에 직접 전달한 인물이다. 이른바 효성가 '형제의 난'의 핵심 인물 중 하나다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;조 전 부사장 강요미수 혐의는&lt;/b&gt;&lt;br /&gt;조 전 부사장은 2011년 8월 효성그룹 계열사에 대한 감사를 주도한 뒤 '조현준 회장이 계열사 간 부당지원에 관여돼 있다'는 감사결과를 발표했다. 당시 고(故) 조석래 명예회장은 조 전 부사장에게 "가족 간 분란을 일으킨다"며 질책했고, 그 이후 가족 간 갈등이 깊어진 것으로 알려졌다. 특히 조 전 부사장은 2012년 말 배우자에 대한 악성 소문이 돌자, 이를 조 회장이 그룹 홍보팀에 지시해 유포했다고 의심하고 2013년 2월 퇴사했다. 그 과정에서 조 전 부사장은 2013년 1월 홍보대행사 뉴스커뮤니케이션의 박 전 대표와 해당 소문의 유포자를 찾고, 퇴사와 관련한 언론 대응을 한다는 명목으로 용역계약을 체결한 것으로 조사됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;조 전 부사장 측은 2013년 2월 효성 본사를 찾아가 아버지인 조 명예회장 측에게 '조 전 부사장이 효성의 발전에 크게 기여했다'는 내용의 보도자료를 주고, 이를 배포하지 않으면 조 회장을 검찰에 고발하겠다고 말했으나 거부당했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;박 전 대표는 조 전 부사장과 상의한 뒤 2013년 9월 조 회장을 찾아가 조 전 부사장이 보유한 효성 계열사 주식을 매수할 것을 요구한 혐의 등을 받고 있다. 조 전 부사장은 이 같은 요구 사항이 받아들여지지 않자, 2014년 6~11월 효성 계열사 대표들과 조 회장 등을 업무상 배임 혐의로 고발했다. 결국 조 회장도 2017년 조 전 부사장을 고소해 2022년 11월 기소됐다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;혐의 부인과 반대되는 증언 나와&lt;/b&gt;&lt;br /&gt;이날 재판에선 조 전 부사장이 강요미수가 될 수 있다는 것을 알면서까지 보도자료 배포를 강요했다는 증언이 새롭게 나왔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;조 전 부사장의 변호인은 사건의 핵심인 공 변호사에게 "조 전 부사장이 전달한 보도자료 등으로 인해 강요미수로 기소돼 있다. 증인도 공범인데, 강요미수라고 생각하면서 행동한 것인가"라고 물었고, 공 변호사는 "고객(조 전 부사장)에게도 그렇게 될 수 있다고 고지까지 했다"고 말했다. 이에 "알면서 했다는 것이냐"는 질문에 그렇다고 답했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;공 변호사는 지난 기일에 출석해 2013년 2월 효성 방문 당시 조 전 부사장으로부터 이상운 부회장과 조현준 회장, 조현상 부회장 등에게 전달할 메시지를 전달 받아 당사자들에게 전달했다고 진술했다. 이날 공 변호사는 보도자료 관련 메시지의 내용은 보도자료를 배포하지 않으면 조 회장의 비리자료를 가지고 서초동(검찰)에 가겠다는 내용이 포함됐다고 답했다. 또 조 전 부사장이 본인의 퇴사를 긍정적으로 인식하게 하기 위해 효성그룹에서 조 전 부사장의 중공업 PG 업적을 인정하는 보도자료를 배포해주길 바랐던 것이었냐는 질문에 그렇다고 말했다. 조 전 부사장이 '잘 해왔는데 사임하는 것'이라는 이미지를 효성에서 '잘했다'고 하는 것으로 정리되길 원했다는 것이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;다음 공판은 다음 달 30일 오후 3시에 열린다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Fri, 13 Sep 2024 07:10:43 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201387</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201387</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201387.jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>서울대 경영전문대학원 EMBA 신입생 모집</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201383.jpg" alt="201383.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;서울대학교 경영전문대학원(원장 채준)이 다음 달 7일까지 EMBA(Executive MBA) 과정 신입생을 모집한다.&lt;br /&gt;&lt;br /&gt;EMBA는 경영전문석사 학위를 취득할 수 있는 프로그램으로, 교육비의 50% 이상을 소속 기업에서 지원받는 산학 협력 과정이다. 이 과정은 총 2년, 4학기로 운영되며, 수업은 매주 금요일 오후와 토요일 하루 동안 진행된다. 지원 자격은 학사 학위 또는 그에 준하는 학력을 보유하고, 실무 경력이 7년 이상인 사람 등이다.&lt;br /&gt;&lt;br /&gt;원서 접수는 다음 달 7일까지 진행되며, 면접과 합격자 발표는 11월에 예정돼 있다. 입학은 내년 3월이다.&lt;br /&gt;&lt;br /&gt;문의는 서울대 경영전문대학원 EMBA과정 담당(02-880-2521).</description>
-			<pubDate>Fri, 13 Sep 2024 06:01:56 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201383</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201383</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201383.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
