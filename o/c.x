@@ -13,6 +13,40 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>'아내 살해' 로펌 美변호사 2심서 휠체어 타고 등장</title>
+      <link>https://www.chosun.com/national/court_law/2024/07/24/E4ZRMZR4RZFXBEOQC6EMB6ACLY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/07/24/E4ZRMZR4RZFXBEOQC6EMB6ACLY/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Jul 2024 04:51:17 +0000</pubDate>
+      <content:encoded>별거 중이던 아내를 둔기로 마구 때려 숨지게 한 혐의로 재판에 넘겨진 미국 변호사가 2심 첫 재판에 휠체어를 타고 출석했다. 그의 변호인은 ‘우발적 범행’임을 주장하며 형이 너무 무겁다고 호소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UHETNFSDFBOBAEBITOFYQ7SK7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;둔기로 아내를 살해한 혐의를 받는 대형 로펌 출신 미국 변호사 현모 씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사11-1부(재판장 박재우)는 24일 살인 혐의로 기소된 미국 변호사 현모씨의 2심 첫 재판을 진행했다. 앞서 1심은 “일반인들이 상상할 수 없을 만큼 범행 수법이 너무나 잔혹하다”며 현씨에게 징역 25년을 선고했다. 이후 피고인 및 검찰 양측 모두 판결에 불복해 항소했다.&lt;br&gt;&lt;br&gt;현씨는 이날 수의를 입은 채 휠체어를 타고 출석했다. 재판부가 생년월일 등 인적 사항을 묻자 낮은 목소리로 대답했다. 재판 내내 눈은 줄곧 감고 있었다. 변호인은 “현씨가 범행을 자책하느라 구치소 내에서 식사도 제대로 못하는 등 졸도해 실려 갔다”고 말했다.&lt;br&gt;&lt;br&gt;이어 현씨 변호인은 “피고인의 행위로 참혹한 결과가 생긴 것에 대해 반성하고 있다. 본인이 왜 그런 행위를 했는지 스스로 납득을 못하고 자책하고 있다”며 우발적 범행이라는 취지로 주장했다. 그러면서 재판부에서 이 사건 범행 동기에 대해 면밀히 살펴봐달라고 했다.&lt;br&gt;&lt;br&gt;피해자 측 변호인은 “납득하기 어렵다. 1심 과정에선 이런 모습을 보이지 않았다. 진지한 반성의 모습인지 아니면 1심이 중형을 선고해 세상에 나갈 수 없다는 두려움 때문인 것인지 재판부가 살펴봐달라”고 강조했다.&lt;br&gt;&lt;br&gt;국내 대형 로펌 소속 미국 변호사였던 현씨는 작년 12월 서울 종로구의 한 주상복합아파트에서 별거 중인 40대 아내를 살해한 혐의를 받는다. 검찰 조사 등에 따르면, 현씨는 자녀의 옷과 책가방을 가져가려고 찾아온 아내와 말다툼을 벌이게 됐고, 이 과정에서 아내를 금속 막대 모양의 둔기로 수차례 가격한 뒤 ‘미안해’라는 호소도 무시한 채 아내 목을 졸라 살해했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>처벌법 없어 무죄 ‘한양대 딥페이크’ 가해자, 국가에 형사 보상금 청구</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/18/YVKRO4NKM5FGRFQSPKCFY56BKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/18/YVKRO4NKM5FGRFQSPKCFY56BKQ/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Sep 2024 12:32:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TWXTLR3T7FDGTKKVFBN4B5G22I.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘한양대 딥페이크’ 사건 가해자가 범행 당시 처벌 법 조항이 없다는 이유로 무죄가 확정되자, 형사 보상금을 청구했다. 형사 보상은 무죄를 확정받은 피고인이 구금에 따른 손해, 변호사 비용 등을 보상해 달라고 국가에 청구하는 제도다.&lt;br&gt;&lt;br&gt;서울고법 형사5부(재판장 권순형)는 지난달 12일 이 사건 가해자 이모씨의 형사 보상금 청구를 접수했다고 18일 밝혔다. 한양대 재학 중이던 이씨는 2017년 4~11월 17차례에 걸쳐 같은 학교 선·후배 등 여성 지인들의 얼굴을 나체 사진에 합성해달라고 의뢰한 혐의 등으로 2019년 1월 기소됐다. 당시는 딥페이크(음란물 편집·합성 행위)를 처벌할 성폭력 처벌법 조항이 없어, 음란한 물건 제조를 처벌하는 음화제조(淫畵製造) 교사 혐의가 적용됐다. 이 개정법은 2020년 6월 시행됐다.&lt;br&gt;&lt;br&gt;이씨는 피해자를 성적으로 비하하는 발언을 한 혐의(명예훼손), 지하철 등에서 여성의 신체를 불법 촬영한 혐의도 함께 받았다. 한양대는 2018년 3월 이씨를 퇴학시켰고, 이씨는 군에 입대했다. 1·2심을 심리한 군사법원은 이씨에게 모두 징역 8개월을 선고했다. 그러나 대법원은 작년 12월 음화제조 교사 혐의에 대해 무죄 취지로 원심을 파기 환송했다. 컴퓨터 파일은 음란한 물건에 해당하지 않는다고 봤다.&lt;br&gt;&lt;br&gt;사건을 넘겨받은 서울고법 형사8부(부장 김재호)는 이씨의 명예훼손 혐의만 유죄로 인정해 징역 8개월에 집행유예 2년을 선고했고, 지난 3월 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 추석 ‘영월 터널 역주행’ 운전자는 해병대 수색부사관</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/18/I4OLCTONNBEWVI4DB22G5YWFQY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/18/I4OLCTONNBEWVI4DB22G5YWFQY/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Sep 2024 11:24:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GCUHW75RA5MAZAVKRROBBB23V4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 새벽 1시 27분쯤 강원 영월군 국도 38호선 영월2터널에서 승합차가 역주행하던 SUV 차량과 정면충돌해 2명이 사망하고 5명이 다쳤다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석 연휴인 지난 16일 강원 영월에서 발생한 터널 역주행 사고의 가해자가 현역 해병대 부사관이었던 것으로 18일 파악됐다. 경찰은 이 해병대 부사관이 음주 사고를 낸 정황을 조사 중이다.&lt;br&gt;&lt;br&gt;경찰과 군 당국에 따르면, 경북 포항에서 근무하는 해병대 수색부사관 염모(24) 하사는 지난 16일 새벽 1시 27분쯤 강원 영월군 국도 38호선 영월2터널에서 셀토스 SUV 차량을 홀로 몰며 역주행하다가 마주 오던 카니발 승합차를 정면 충돌하는 사고를 냈다.&lt;br&gt;&lt;br&gt;이 사고로 염 하사와 카니발 운전자 A(34)씨가 심정지 상태로 병원에 옮겨졌지만 숨졌다. 승합차에 타고 있던 A씨 아내와 두 자녀, 장인과 장모는 중경상을 입고 병원으로 옮겨져 치료받고 있다. A씨 가족은 명절을 맞아 가족이 함께 이동하다가 사고를 당했다.&lt;br&gt;&lt;br&gt;경찰이 차량 블랙박스와 터널 CCTV 등을 분석한 결과 염 하사는 잘못된 진입로로 들어와 사고 지점인 터널까지 약 4km 구간을 역주행하다가 사고를 냈다. 사고 지점은 고속도로처럼 중앙분리대가 설치된 곳이다.&lt;br&gt;&lt;br&gt;경찰은 “염 하사가 동창들과 술을 마신 뒤 운전을 한 것 같다”는 주변인 진술을 확보한 것으로 알려졌다. 경찰은 염 하사의 음주 여부를 확인하기 위해 숨진 염 하사의 혈액을 채취해 국과수에 정밀 분석을 의뢰한 상태다. 경찰 관계자는 “검사 결과가 나오기까지는 2주 정도가 걸릴 것으로 예상된다”고 했다.&lt;br&gt;&lt;br&gt;해병대 관계자는 “(염 하사는) 사고 당시 휴가 중이었던 것으로 파악했다”며 “조만간 경찰로부터 사건을 인계받아 수사를 이어갈 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GCUHW75RA5MAZAVKRROBBB23V4.jpg?width=455&amp;height=359&amp;auth=0e9049e605b6a1bba2e109c00c7175ad76a24ad896e2daabef218b7653a1a24f&amp;smart=true" type="image/jpeg" height="359" width="455">
+        <media:description type="plain">&lt;YONHAP PHOTO-6795&gt; 강원 영월 터널서 차량 역주행 충돌…2명 사망·5명 부상
+    (서울=연합뉴스) 16일 오전 1시 27분께 강원 영월군 국도 38호선 영월2터널에서 승합차가 역주행하던 SUV 차량과 정면충돌해 2명이 사망하고 5명이 다쳤다. 사진은 이날 충돌로 부서진 차량. 2024.9.16 [강원특별자치도 소방본부제공.재판매 및 DB 금지]
+    photo@yna.co.kr/2024-09-16 21:59:18/
+&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">손형주</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>낮 36도, 밤 28도 “살다 살다 이런 추석은 처음”</title>
       <link>https://www.chosun.com/national/transport-environment/2024/09/18/5FQBFKONAFD65IB5QQP6XMNWYA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/09/18/5FQBFKONAFD65IB5QQP6XMNWYA/</guid>
@@ -911,33 +945,6 @@
       <content:encoded>백내장 환자를 소개받는 대가로 뒷돈 총 40억원을 건넨 서울 강남의 안과병원 원장이 2심에서 감형받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5SBH6RMYSUSMJ6FMEXX4ESYELI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지법 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사9부(재판장 이성복)는 최근 의료법 위반 혐의로 기소된 서울 강남구의 A 안과병원 대표원장 박모씨에게 징역 1년 6개월에 집행유예 3년을 선고했다고 15일 밝혔다. 앞서 지난 3월 1심이 선고한 징역 1년보다 줄어든 형량이다.&lt;br&gt;&lt;br&gt;재판부는 “영리를 목적으로 환자를 유인하거나 사주하는 행위는 환자 유치를 둘러싸고 금품수수 등의 비리나 불합리한 과다경쟁을 유발해 의료시장의 질서를 혼란시킨다”며 “종국적으로 환자들에게 제공되는 의료의 질을 떨어뜨리고, 부담이 결국 환자들이나 보험회사에 전가된다”고 했다.&lt;br&gt;&lt;br&gt;다만 재판부는 약 4년에 걸친 박씨의 의료법 위반 행위를 ‘실체적 경합범(한 사람이 2개 이상 저지른 범죄를 각각의 행위로 판단)’으로 보고 가중 처벌한 1심에 문제가 있다며 형량을 낮췄다. 대신 박씨의 범행을 ‘포괄일죄’로 판단했다.&lt;br&gt;&lt;br&gt;포괄일죄란 동일한 범죄 행위를 여러 번 했을 때 하나의 범죄로 묶어 처벌하는 것을 뜻한다. 통상 포괄일죄를 적용하면 경합범 가중(가장 중한 죄의 처벌형 기준 50%)을 적용했을 때보다 형량이 줄어든다.&lt;br&gt;&lt;br&gt;A 병원은 개업 초부터 브로커들에게 환자 1명당 현금 150만원 또는 백내장 수술비의 20∼30%를 알선 대가로 주면서, 브로커를 광고 대행업자·직원으로 둔갑시켜 환자들을 속인 것으로 조사됐다. 대표원장 박씨는 2019년 10월부터 작년 7월까지 병원 브로커 6명에게 수차례 환자를 알선받은 대가로 총 40억 원을 지급한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;이들은 백내장을 진단받고 다초점 인공수정체 삽입 수술을 받는 실손보험 가입자가 최대 100% 비용을 보상받을 수 있다는 점을 토대로, 주로 40대 후반∼70대 보험 가입자를 노렸다고 한다.&lt;br&gt;&lt;br&gt;당초 1심은 박씨에 경합범 가중을 적용해 실형을 선고했으나, 2심은 포괄일죄로 보고 감형했다. 2심 재판부는 “박씨의 의료법 위반 범행은 모두 영리를 목적으로 단일하고도 계속된 범의하에 일정 기간 계속해 저질러진 일련의 범죄행위이고 피해법익도 동일해 포괄일죄에 해당한다”고 했다. 같은 이유로 1심에서 실형을 선고받았던 브로커 6명도 2심에선 징역형의 집행유예로 감형받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>손가락 절단 환자, 병원 찾다 94km 떨어진 전북 전주로 이송</title>
-      <link>https://www.chosun.com/national/regional/honam/2024/09/15/U2MBINOC6NFVHEP3SQF6GVCIXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/09/15/U2MBINOC6NFVHEP3SQF6GVCIXE/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Sep 2024 07:49:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EWXB2JKZFNIX7GMVKQS7IY6Z5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 대학병원에 줄 지어 선 구급차. (사진은 기사와 직접적인 관련 없음). /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석 연휴인 주말 손가락 절단 사고를 당한 환자가 병원을 찾지 못해 94㎞ 떨어진 전북 전주시까지 이송돼 수술을 받았다.&lt;br&gt;&lt;br&gt;15일 오후 1시31분쯤 광주광역시 광산구 한 아파트에서 A(50대)씨가 문틈에 손가락이 끼이면서 절단되는 사고를 당했다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 119구급대는 치료를 위해 대학병원 2곳과 종합병원 1곳, 정형외과 전문병원 1곳 등 가까운 의료기관 4곳에 환자 이송을 문의했지만 받아주는 곳은 없었다.&lt;br&gt;&lt;br&gt;이날 광주지역 대학병원들과 종합병원 등은 접합수술을 할 수 있는 의사가 없거나 휴무인 탓에 이 환자를 받지 못했다고 한다.&lt;br&gt;&lt;br&gt;구급대는 전북지역 의료기관을 수소문한 끝에 차로 약 1시간 8분, 거리로 94km 떨어진 전주시의 한 정형외과로 A씨를 이송했다.&lt;br&gt;&lt;br&gt;사고 발생 약 2시간 만인 오후 3시37분쯤 전주시 병원에 도착한 A씨는 접합수술 등 치료를 받았다. A씨는 생명에 지장이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/EWXB2JKZFNIX7GMVKQS7IY6Z5E.jpg?width=5744&amp;height=3719&amp;auth=efac17e5e5352390f2f2411a5545e0174423bb0b012af9d9711e7259ba89ca6d&amp;smart=true" type="image/jpeg" height="3719" width="5744">
-        <media:description type="plain">[서울=뉴시스] 정병혁 기자 = 11일 서울의 대학병원에서 구급차들이 줄 지어 서 있다.
-
-정부가 추석 연휴에 응급실 환자가 몰리는 상황에 대비해 11일부터 25일까지 2주간 '추석 명절 비상 응급 대응 주간'을 운영한다. 구체적으로 중증·응급환자에 대한 대응 역량을 높이기 위해 44개 권역응급의료센터에 더해 136개 지역응급의료센터 중 진료 역량을 갖춘 15곳 내외를 거점지역응급의료센터로 지정하고, 한국형 중증도 분류체계(KTAS) 1~2에 해당하는 중증·응급환자를 먼저 수용한다. KTAS 1~2등급은 생명이나 사지에 위험이 있어 빠른 처치가 필요한 상황으로 심정지, 중증외상, 호흡곤란, 극심한 흉통, 복통, 두통, 토혈, 의식장애 등이 해당한다. 2024.09.11. jhope@newsis.com</media:description>
-        <media:credit role="author" scheme="urn:ebu">jhope</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>아들 감금하고 때린 경찰관 아빠… 아동학대로 입건</title>
-      <link>https://www.chosun.com/national/regional/gangwon/2024/09/15/PUL6UVITZREGXOOVVJOLS65QII/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2024/09/15/PUL6UVITZREGXOOVVJOLS65QII/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Sep 2024 07:34:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VAOB3YOJ2F6IDHX5ZVPYDNQ5RE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현직 경찰관과 그의 아내가 휴대전화로 게임을 한다는 이유로 자녀를 방에 가두거나 때리는 등 학대한 혐의로 경찰에 붙잡혀 조사를 받고 있다.&lt;br&gt;&lt;br&gt;강원 춘천경찰서는 아동복지법 위반 혐의로 A(49)씨와 그의 아내 B(여·47)씨를 붙잡아 조사하고 있다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 지난 14일 오후 7시 39분쯤 춘천시 효자동의 자택에서 막내아들 C(11)군을 학대한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 C군에게 ‘머리에 검정 비닐봉지를 씌우겠다’고 겁을 준 뒤 C군을 방에 가두고 문에 테이프를 붙였다. 이어 손으로 C군을 폭행했다.&lt;br&gt;&lt;br&gt;B씨는 둔기를 들고 C군을 위협하고, 케이블 타이로 C군의 손을 묶은 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨 부부는 C군이 휴대전화 게임을 한다는 이유로 이 같은 학대를 저지른 것으로 알려졌다.&lt;br&gt;&lt;br&gt;C군의 누나로부터 신고를 받은 경찰은 춘천시 아동학대 전담 공무원과 함께 현장을 찾아 누나 2명을 가정으로부터 즉시 분리해 일시보호시설로 옮겼다. C군은 부모와 함께 있겠다는 의견을 밝혀 따로 분리하지 않았다.&lt;br&gt;&lt;br&gt;A씨는 강원경찰청 소속 경찰관으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨 등을 상대로 정확한 사건 경위를 확인할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/VAOB3YOJ2F6IDHX5ZVPYDNQ5RE.jpg?width=4032&amp;height=3024&amp;auth=0c497743e4dd5dfd322a2622240621e2a31dc76e26c7209a07a5ee3276cfd94d&amp;smart=true" type="image/jpeg" height="3024" width="4032">
-        <media:description type="plain">춘천경찰서.(뉴스1 DB)</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>추석 연휴 괴산 아버지집 찾았다가 차에 치여 숨진 30대</title>
       <link>https://www.chosun.com/national/regional/chungcheong/2024/09/15/COOCYPCMVVBLFMJ655J4IN3I6A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/09/15/COOCYPCMVVBLFMJ655J4IN3I6A/</guid>
@@ -958,15 +965,6 @@
       <description/>
       <pubDate>Sun, 15 Sep 2024 05:00:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XHPN7IRFONGWRIVXMY2FC57P5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한의사협회(의협)는 지난 10일 응급실에서 근무하는 의사의 실명을 악의적으로 공개한 블랙리스트 유포 행위에 유감을 표명하며 회원들에게 중단하라고 당부했다. 사진은 서울 용산구 대한의사협회관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한의사협회(의협)가 정부의 의대 증원 정책에 대응하기 위해 모은 성금이 28억3000만원에 달하는 것으로 확인됐다. 이 중 수억원이 의협 임원과 ‘블랙리스트’ 피의자 등의 변호사 선임비로 사용된 반면, 집단 사직 이후 생계가 어려운 전공의들을 지원하는 데 쓰인 돈은 아직 없는 것으로도 나타났다.&lt;br&gt;&lt;br&gt;의협은 지난 2월 정부의 의대 증원 및 필수 의료 패키지 정책에 반발하면서 비상대책위원회 체제로 전환했다. 이후 성금 계좌를 만들고 회원들을 대상으로 성금을 걷었다. 당시 각 시·도 의사회는 ‘의협 발전 기금’ ‘의대 증원 저지 및 필수 의료 패키지 폐기 성금’ 등 이름으로 수천만원씩 내기도 했다. 이렇게 모인 성금이 총 28억3000만원이다.&lt;br&gt;&lt;br&gt;의협 비대위는 5월 초 임현택 회장 집행부 출범을 앞두고, 4월 말 해산했다. 해산 전 비대위는 성금 28억3000만원 중 18억원을 시·도의사회 지원금으로 나눠주기로 결정했다. 남은 10억3000만원은 의협의 ‘법률 지원금’으로 남겼다. 이 중 현재까지 3억원 정도를 의협 임원, 사직 전공의 등의 변호사 선임비로 사용했다.&lt;br&gt;&lt;br&gt;성금으로 변호사 선임비를 지원받은 사람 중에는 의료 현장에 파견된 공보의 명단, 학교 수업을 듣는 의대생 등 ‘블랙리스트’를 인터넷에 유포한 혐의로 경찰 조사를 받고 있는 피의자도 있다. 의협은 블랙리스트 피의자 7명에게 2000여만원의 변호사 선임비를 지원한 바 있다.&lt;br&gt;&lt;br&gt;반면, 지금까지 사직 후 생계가 어려운 전공의들은 지원금을 한 푼도 못 받았다. 남은 7억7000만원 성금도 ‘법률지원금’으로 용도가 정해져 있어 생계비로 지원하지 못한다는 것이다. 이에 대해 동료 의료인을 상대로 블랙리스트를 유포한 피의자들에겐 지원하고, 생계가 어려운 사직 전공의들을 도와주지 못하는 건 문제라는 지적이 나온다.&lt;br&gt;&lt;br&gt;지난 6월 의협 집행부는 남은 성금 용도를 ‘전공의 지원금’으로 바꾸려고 시도했지만 실패했다. 대한전공의협의회(대전협) 측이 반대했기 때문이다. 당시 대전협 측은 “박단 대전협 비대위원장 및 공시 송달 인원 13인의 피의자 조사 등에 소요될 것으로 예상되는 법률 비용이 최대 7억7000만원으로 예상된다”며 “대규모 수사 소송이 발생하는 경우 법적 대처가 중요하다. 귀중한 성금은 전공의, 의대생의 법률 지원에 사용할 필요가 있음을 다시 한 번 강조한다”고 했다.&lt;br&gt;&lt;br&gt;한 의협 관계자는 “당시 성금 모금은 대정부 투쟁을 위해 모은 것이기 때문에 사실상 사직 전공의들을 돕기 위한 목적이었는데, 이 돈이 전공의들의 어려운 생계를 해결하는 데는 전혀 도움이 안되고 있다”며 “시·도의사회에서 자체적으로 전공의 지원하는 데 성금을 썼을 수도 있지만, 어떻게 썼는지 의협에 내용 공유가 전혀 안되고 있는 상태”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>北은 법률상 국가 아닌 ‘법인’, 한국서 소송 낼수 있는 이유</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/15/ABGBA3S7ANH4PG2RGXJPXJXACY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/15/ABGBA3S7ANH4PG2RGXJPXJXACY/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Sep 2024 03:30:12 +0000</pubDate>
-      <content:encoded>북한이 지상낙원이라는 거짓 선전에 속아 북한에 끌려갔다 탈출한 재일 교포 5명이 북한 정부를 상대로 낸 손해배상 소송에서 지난 12일 이겨 화제가 됐다. 이들은 1960년대 북송(北送) 사업에 따라 일본에서 북한으로 끌려갔다가 수십년간 인권침해를 당했다며 지난 3월 소송을 냈다. 손해배상 청구 소장(訴狀)에 피고를 ‘조선민주주의인민공화국’, 대표자 국무위원장 ‘김정은’이라고 적었다.&lt;br&gt;&lt;br&gt;이처럼 우리나라에서 북한을 상대로 민사소송을 제기하는 경우가 있다. 북한에서 강제노동을 당하다 탈북한 이들이 북한 정부를 상대로 손해배상 청구 소송을 내거나, 북한에 남아있는 배우자를 상대로 이혼 소송을 제기하는 것이 그 예다. 한국에서 북한을 상대로 민사소송을 낼 수 있는 법적 근거는 무엇일까?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SGFGFCAH4SOHWPYJKKQYMPZ4VQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북한 노동당 기관지 노동신문은 5일 "신형 전술탄도미사일 무기체계 인계인수기념식이 지난 4일에 진행됐다"면서 "중요군수기업소들에서 생산된 250대의 신형 전술탄도미사일 발사대가 조선민주주의인민공화국 국경제1선부대들에 인도되는 의식이 수도 평양에서 거행됐다"라고 보도했다.(사진은 기사 내용과 직접적인 관련 없음) /노동신문 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇ 법률상 북한은 국가가 아닌 ‘법인’&lt;/b&gt;&lt;br&gt;&lt;br&gt;민사재판의 당사자가 되기 위해서는 ‘민사재판권’을 행사할 수 있어야 한다. 우리나라 민사재판권은 영토주권에 따라 대한민국 영토 안에서, 대인주권에 따라 대한민국 국민에 대하여 미치는 것이 원칙이다. 즉, 외국 국가에 대해서는 예외적 경우를 제외하고는 민사재판권을 행사할 수 없기 때문에 소송을 제기할 수 없다.&lt;br&gt;&lt;br&gt;북한은 국내법상 외국 국가가 아니기 때문에 민사소송의 당사자가 될 수 있다. 우리나라의 대법원과 헌법재판소는 북한을 국가로 인정하지 않는다. 우리나라 헌법 제3조가 ‘대한민국 영토는 한반도와 그 부속도서로 한다’고 규정하고 있기 때문이다. 즉, 남한과 북한을 포함한 한반도 전체가 우리나라 영토이기 때문에, ‘조선민주주의인민공화국’은 외국 국가가 아니라는 것이다.&lt;br&gt;&lt;br&gt;법률상 북한의 지위는 하나의 ‘법인(비법인사단)’이다. 민사소송법에 따르면 법인 등기가 돼 있지 않더라도, 대표자가 있고 조직과 유사한 형태를 갖추고 있다면 법인에 준하는 것으로 판단된다. 북한에도 김정은이라는 대표자가 있고, 체계를 갖춘 조직의 형태를 고 있으므로 일종의 법인으로 인정된다. 결론적으로 우리나라 법원은 북한을 국가로 보지 않기 때문에 북한을 상대로 하는 민사소송도 적법하다고 본다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2VP4XE67RLFX7TDDE4RE3IDUPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇ 재판은 주로 공시송달로 이뤄져&lt;/b&gt;&lt;br&gt;&lt;br&gt;북한을 상대로 한 소송에서 주로 쟁점이 되는 것은 ‘송달(送達)’의 방법이다. 송달은 법이 정한 송달장소에서 우편 집배원이 직접 송달받을 사람에게 교부해 전하는 것이 원칙이다. 민사재판이 진행되기 위해서는 원고가 제출한 소장이 피고에 전달돼야 한다.&lt;br&gt;&lt;br&gt;다만 우리나라에서 북한에 물리적으로 접근할 방법이 없기 때문에 주로 ‘공시송달’로 소장이 전달된다. 공시송달이란 소송 상대방의 주소가 불분명할 때 소장 등을 법원 홈페이지 등에 올리고, 2주가 지나면 전달된 것으로 간주하는 제도다.&lt;br&gt;&lt;br&gt;최근 북한 정부를 상대로 손해배상 소송을 하는 경우 미국 뉴욕의 ‘북한 유엔 대표부’로 소장이 전달돼야 한다는 주장이 제기됐다. 비록 북한 유엔 대표부에 대표자가 살고 있진 않지만 북한 정부가 직접 설립한 공식 사무소이기 때문에 적법한 송달 장소라는 것이다.&lt;br&gt;&lt;br&gt;당초 북송 재일교포 탈북민들은 사상 처음으로 소장의 송달 주소를 북한 유엔 대표부로 지정했지만 실제 송달이 이뤄지진 못했다고 한다. 재판부는 “원고들이 해외 송달을 주장했지만, 대법원 판례와 민사소송법을 토대로 피고(북한 정부)를 국내 법인으로 간주하여 소송 서류의 해외 송달 방식은 적절하지 않다고 판단했다”고 밝혔다. 법원이 북한 상대 소송에서 이 같은 송달 방식을 인정한 적은 없고, 주로 공시송달로 재판을 진행해왔다.&lt;br&gt;&lt;br&gt;한편 북한에 남아있는 배우자와 이혼을 할 때도 공시송달에 따라 이혼이 이뤄진다. 북한 땅에 접근할 수 없기 때문에 직접 소장을 전할 수 없기 때문이다. 공시송달로 북한 주민과 이혼 소송할 수 있도록 2009년 북한이탈주민법이 개정됨에 따라, 수백 건의 탈북민 이혼소송이 진행됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>추석 차례상, 송편 빼고 싹 바꿨습니다</title>
