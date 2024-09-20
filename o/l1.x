@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>브라질법원, 엑스에 벌금 부과 ”접속 차단 명령 어기고 우회접속 허용“</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/201461.jpg" alt="201461_as.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=어도비스톡》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;브라질법원의 접속 차단 명령을 어기고 사용자들의 '우회 접속'을 허용한 사회관계망서비스 플랫폼 엑스(X·옛 트위터)가 거액의 벌금을 물게 됐다. &lt;br /&gt;&lt;br /&gt;알레샨드리 지모라이스 브라질 대법관은 19일(현지시간) "중개 서버를 이용해 접속 차단을 우회하도록 한 것으로 보인다"는 이유로 엑스에 하루 500만 헤알(약 12억 원) 벌금을 부과했다고 현지 매체 G1과 로이터 통신이 보도했다.&lt;br /&gt;&lt;br /&gt;지난달 법원의 접속 차단 명령에도 엑스는 통신망 업데이트를 통해 우회 접속을 가능하게 했다. 최근 일부 엑스 사용자들이 이 사실을 당국에 알린 후 내려진 조처다. &lt;br /&gt;&lt;br /&gt;지모라이스 대법관은 관련 결정문에서 "엑스가 지속적·의도적·불법적으로 사법부 명령을 무시하며 저항하고 있다"며 "국내 영토에서 플랫폼을 차단하라는 사법부 결정을 회피하기 위해 만들어진 서버가 접속에 활용되고 있다"고 지적했다.&lt;br /&gt;&lt;br /&gt;엑스는 브라질 대법원에 법률 대리인을 곧 선임할 계획이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;앞서 지모라이스 대법관은 브라질 내 '가짜 뉴스' 단속을 목적으로 일부 엑스 계정 및 게시물 삭제를 결정했으나 엑스는 "언론 자유 탄압"이라며 이를 이행하지 않고 브라질 규정에 명시된 법률 대리인 지명을 미룬 채 반발해 왔다.&lt;br /&gt;&lt;br /&gt;이에 따라 지난달 대법원은 △엑스 서비스 정지 △엑스 벌금 부과 △엑스와 관련된 우주기업 스페이스X의 위성 인터넷 서비스 '스타링크' 계좌 동결 등 일련의 명령을 내렸다.&lt;br /&gt;&lt;br /&gt;</description>
+			<pubDate>Fri, 20 Sep 2024 03:35:24 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201461</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201461</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201461.jpg</media:thumbnail>
+			<dc:creator>이진영 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] 말다툼 후 직장 동료 흉기로 살인 스리랑카 국적 노동자 징역 12년 확정</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/201347.jpg" alt="201347_STOCK.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=어도비스톡》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;말다툼을 하다 직장 동료를 흉기로 찔러 숨지게 한 스리랑카 국적의 30대 노동자에게 중형이 확정됐다.&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p&gt;대법원 형사2부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1658"&gt;오경미&amp;nbsp;&lt;/span&gt;대법관)는 지난달 23일 살인 혐의로 기소된 A(35) 씨에게 징역 12년을 선고한 원심을 확정했다(&lt;b&gt;2024도10653&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;스리랑카 국적의 외국인 노동자인 A 씨는 피해자 B(29) 씨와 전남 영암군에 있는 회사 숙소에서 함께 거주하며 흡연과 청소를 비롯해 숙소 사용 방식, 정치, 종교 등에 관해 자주 다퉈 왔다. 2023년 12월 초 저녁 A 씨는 B 씨와 함께 친구의 생일파티에 참석했다가 숙소로 돌아가던 중 B 씨와 다투게 됐고, 그 과정에서 B 씨로부터 머리를 맞자 화가 난 상태로 숙소로 돌아갔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;자정이 지난 뒤 A 씨는 B 씨의 방을 찾아 폭행에 대해 항의했지만, 계속 B 씨에게 맞게 됐다. 화가 난 A 씨는 주방에 있던 34㎝ 길이의 부엌칼을 가지고 와 "찌르겠다"며 B 씨를 위협했다. 그런데도 B 씨가 왼손으로 A 씨의 칼을 든 손을 잡고 오른손으로 A 씨의 머리를 계속 때리자, A 씨는 양손으로 칼을 잡고 B 씨의 왼쪽 가슴 부위를 찔렀다. B 씨는 그 자리에서 사망했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;1심과 항소심은 A 씨에게 징역 12년을 선고했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;1심은 "A 씨가 칼을 잡은 태양과 방향 등에 비추어 보면 최소한 범행 순간에는 B 씨를 살해하려는 확정적인 고의를 가지고 있었다고 볼 수 있다"며 "A 씨가 평소 B 씨와 자주 다퉈 사이가 좋지 않았고 A 씨에 비해 신체 조건이 월등한 B 씨가 A 씨를 수시로 폭행하거나 비웃었다고 하더라도, 그러한 사정은 B 씨를 사망에 이르게 한 범행에 대해 어떠한 변명도 될 수 없다"고 지적했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;또 "B 씨의 사망으로 인한 피해는 어떠한 것으로도 회복될 수 없고, B 씨의 어린 자녀와 배우자 등 가족들은 이 사건으로 인해 오랜 시간 고통을 받을 것이 분명하다"며 "A 씨는 그에 상응하는 엄중한 형사책임을 져야 한다"고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;다만 △A 씨가 살해의 고의를 부인하는 것 외에는 살해 사실 자체는 인정하고 반성하고 있는 점 △술에 취한 상태에서 B 씨로부터 폭행을 당하자 순간적으로 화가 나 범행을 저지른 것으로 보이고 사전에 치밀하게 계획된 것으로 보이지 않는 점 △대한민국에서 형사처벌을 받은 전력이 없는 점 등은 유리한 정황으로 판단했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;항소심도 "1심 선고 이후 양형에 반영할 만한 새로운 정상이나 특별한 사정변경을 찾아볼 수 없다"며 A 씨와 검사의 항소를 기각했다.&lt;/p&gt;&lt;p&gt;대법원의 판단도 같았다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;재판부는 "A 씨의 연령·성행·환경, 피해자와의 관계, 이 사건 범행의 동기·수단과 결과, 범행 후의 정황 등 기록에 나타난 양형의 조건이 되는 여러 가지 사정들을 살펴보면, 상고 이유에서 주장하는 사정을 참작하더라도 원심이 징역 12년을 선고한 1심 판결을 그대로 유지한 것이 심히 부당하다고 할 수 없다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Fri, 20 Sep 2024 03:17:41 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201347</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201347</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201347.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
 			<title>'SM엔터 시세조종' 김범수 12월까지 구속 연장</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201454.jpg" alt="193858.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;SM엔터테인먼트 시세조종 혐의로 재판 중인 김범수 카카오 경영쇄신위원장의 구속 기간이 연장됐다.&lt;br /&gt;&lt;br /&gt;20일 법조에 따르면, 서울남부지법 형사15부(&lt;span style="font-weight: bold;" class="lawmanlink" serial="2130"&gt;양환승&amp;nbsp;&lt;/span&gt;부장판사)는 19일 자본시장법 위반 혐의로 구속돼 재판받는 김 위원장의 구속기간갱신을 결정했다.&lt;br /&gt;&lt;br /&gt;법원의 구속기간갱신결정으로 김 위원장의 구속 기간은 오는 12월까지로 연장됐다. 법원에서의 구속 기간은 공소장이 접수된 날로부터 2개월이지만, 1심 재판에선 2개월씩 2회에 한해 구속 기간 연장이 가능하다.&lt;br /&gt;&lt;br /&gt;앞서 김 위원장은 7월 23일 구속됐다. 법원은 "증거를 인멸할 염려 또는 도망의 우려가 있다"며 김 위원장에 대한 구속영장을 발부했다. 검찰은 지난달 8일 김 위원장을 구속 상태로 재판에 넘겼다.&lt;br /&gt;&lt;br /&gt;김 위원장은 지난해 2월 16~17일과 27~28일 경쟁사인 하이브의 주식 공개매수를 저지하기 위해 SM엔터 주가를 공개매수가 12만 원보다 높게 고정시키는 방식으로 약 2400억 원 규모의 SM엔터 주식을 총 553회에 걸쳐 시세조종 매집한 혐의를 받고 있다. 검찰은 김 위원장이 배재현 전 카카오 투자총괄대표, 사모펀드 운용사 원아시아파트너스 지창배 회장 등과 공모해 2월 16~17일과 27일 3일간 총 363회에 걸쳐 원아시아파트너스 명의로 장내에서 약 1100억 원 규모의 SM엔터 주식을 고가매수하거나 물량소진 주문 등을 통해 시세조종한 것으로 보고 있다.&lt;br /&gt;&lt;br /&gt;검찰은 또한 같은 달 28일에도 김 위원장이 홍 모 전 카카오 대표, 김 모 전 카카오엔터 대표 등과 함께 카카오와 카카오엔터 명의로 총 190회에 걸쳐 약 1300억 원 규모의 SM엔터 주식을 사들여 시세조종한 것으로 판단한다. 김 위원장은 지난해 2월 16일부터 28일까지 확보한 SM엔터 지분이 합계 8.16%로 주식 대량보유상황 보고(5%룰) 의무가 있음에도 원아시아파트너스 보유 지분을 숨긴 채 보고하지 않은 혐의도 받는다.</description>
 			<pubDate>Fri, 20 Sep 2024 00:41:49 -0000</pubDate>
@@ -219,26 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201367</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201367.jpg</media:thumbnail>
 			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>[포토] 내 마음의 풍경</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201393.jpg" alt="0.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left; "&gt;중국 내 도심 호수 중 가장 넓은 우한시 동후에 가을 새벽의 고요가 깔려 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: right; "&gt;   &lt;b&gt;《우한= 백성현 기자 stwhite@》&lt;/b&gt;&lt;/p&gt;</description>
-			<pubDate>Wed, 18 Sep 2024 05:10:32 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201393</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201393</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201393.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>한국행정법학회·서울대 행정대학원, '행정법학과 행정학의 대화' 공동학술세미나 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/201370.jpg" alt="201370.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국행정법학회(회장 김용섭)는 서울대학교 행정대학원(원장 전영한)과 함께 24일 ‘행정법학과 행정학의 대화’를 주제로 제64회 학술대회를 연다. &lt;br /&gt;&lt;br /&gt;홍준형 서울대 행정대학원 명예교수가 ‘행정법학과 행정학의 공진화 –방향과 과제-’에 대해 기조발표한다.&lt;br /&gt;&lt;br /&gt;좌장은 정하중 서강대 로스쿨 명예교수가 맡는다. &lt;br /&gt;&lt;br /&gt;제1주제는 ‘적극행정과 관료책임의 관계: 제도와 윤리의 측면에서’로, 최태현 서울대 행정대학원 교수가 발표한다. 제2주제는 ‘거버넌스와 규제개혁’이며, 이현수 건국대 로스쿨 교수가 발표할 예정이다. &lt;br /&gt;&lt;br /&gt;토론에는 임도빈 서울대 행정대학원 교수, 방동희 부산대 로스쿨 교수,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7542"&gt;이진수&lt;/span&gt;(49·사법연수원 31기) 서울대 행정대학원 교수, 계인국 고려대 행정전문대학원 교수가 참여한다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2670"&gt;김용섭&lt;/span&gt;(65·16기) 한국행정법학회장은 “이번 학술대회는 행정법학과 행정학의 대화를 통해 두 학문 간에 교차점에서 공행정의 효율성과 정당성을 탐구하는 의미 있는 자리가 될 것으로 기대된다”고 말했다.</description>
-			<pubDate>Wed, 18 Sep 2024 05:10:01 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201370</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201370</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201370.jpg</media:thumbnail>
-			<dc:creator>유지인 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
