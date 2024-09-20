@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>스타벅스서 떡볶이 먹는 손님... “상식 밖 행동” “음식 반입 가능” 시끌 </title>
+      <link>https://www.chosun.com/national/national_general/2024/09/20/4OR6U53C6NFTLJFNSW5FBA4ED4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/20/4OR6U53C6NFTLJFNSW5FBA4ED4/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 20 Sep 2024 05:00:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2JTJ5MTH3FBDLF32BRQWEA4YPE.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4월 한 스타벅스 매장 내에서 떡볶이를 먹고 있는 손님들 모습./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스타벅스 매장에서 떡볶이와 튀김 세트를 가져와 먹은 손님의 모습이 뒤늦게 퍼지며 논란이 일고 있다.&lt;br&gt;&lt;br&gt;최근 한 온라인 커뮤니티에는 ‘스타벅스 떡볶이 진상’이라는 제목의 영상이 올라왔다. 영상을 보면 스타벅스 매장에서 아이와 부모로 추정되는 손님들이 떡볶이, 튀김을 그릇째 포장해 와 먹는 장면이 담겼다. 이후 매장 직원이 이 손님들에게 찾아가 이야기를 했고, 이들은 자리를 떠났다. 이 영상은 지난 4월 한 인스타그램 계정에 올라왔다.&lt;br&gt;&lt;br&gt;영상을 올린 A씨는 “여기 스타벅스다. 두 눈을 의심했다”며 “중국이 아니다. 내가 지금 보고 있는 게 떡볶이랑 튀김 맞나”라고 적었다. 이어 “(손님들이) 한참 맛있게 먹고 있는데 직원이 찾아와 매우 공손하고 친절하게 설명했다”며 “떡볶이 접시 들고 냄새 풍기면서 퇴장했다”고 했다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들의 반응은 엇갈렸다. 일부 네티즌들은 카페에서 떡볶이를 가져와 먹는 것은 상식 밖의 행동이라고 지적했다. “아무리 외부 음식 반입이 가능하더라도 상식이 있는 선에서 해야 하는 것 아니냐” “누가 카페에서 떡볶이 냄새 맡고 싶어 하냐” “도가 지나치다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;반면 영상이 촬영된 카페는 외부 음식 섭취가 가능한 곳이라 문제가 없다는 입장도 있었다. 다른 네티즌들은 “스타벅스는 외부 음식 섭취가 가능해서 정책적으로 허용되지 않나” “냄새만 안 나면 짜장면을 먹어도 상관하지 않는다” 등의 의견을 내놨다.&lt;br&gt;&lt;br&gt;스타벅스의 경우 기본적으로 외부 음식 반입이 가능하다. 단순히 스타벅스가 커피를 파는 것이 아니라 문화 공간을 제공한다는 서비스 차원에서다. 다만, 예외는 있다. 다른 손님에게 영향을 줄 수 있는 냄새가 심한 외부 음식은 제한하고 있다. 예를 들어 피자, 햄버거 등 냄새가 심한 음식, 또는 크기가 커 테이블을 더럽힐 수 있는 음식 등은 반입을 금지하고 있다.&lt;br&gt;&lt;br&gt;한편, 국내 프랜차이즈 카페들은 대부분 외부 음식 반입을 제한하고 있다. 매장 내에서 케이크나 빵 같은 디저트류를 판매하고 있을 뿐 아니라 다른 고객에게 불편을 줄 수 있기 때문이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>진짜 가을이 온다…많은 비 내린 후 늦더위 끝</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/09/20/BYY3NYCGRFHW7JANRLQTR6JVEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/09/20/BYY3NYCGRFHW7JANRLQTR6JVEY/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 20 Sep 2024 04:21:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ON6MEDHPDJIMZDDFOVDXRXUZ7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;비가 내린 20일 오전 제주시 구좌읍 월정리 해안도로에서 우산을 쓴 관광객이 산책하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 전국에 비가 내리며 늦더위가 끝날 것으로 예상된다. 열대야도 더 이상 나타나지 않겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 14호 태풍 ‘풀라산’과 북태평양고기압 사이에서 불어오는 고온다습한 남동풍의 영향으로 전국 곳곳에 비가 내리고 있다. 제주 한라산은 전날부터 비가 내려 현재까지 300㎜ 넘는 강수량이 기록됐다.&lt;br&gt;&lt;br&gt;정체전선이 서서히 남진하면서 주말까지 전국에 비가 예고됐다. 21일까지는 대부분 지역에, 22일은 충청과 남부지방에 오전까지, 강원영동에 오후까지, 제주에 밤까지 강수가 있을 것으로 예상된다.&lt;br&gt;&lt;br&gt;예상 강수량은 전국에서 30~100㎜ 내외다. 시간당 30~50㎜의 강한 비가 쏟아지는 곳도 있겠다. 특히 강원동해안과 강원산지에는 시간당 60㎜ 이상 폭우가 내릴 수 있다.&lt;br&gt;&lt;br&gt;비가 내리고 찬 공기가 유입되면서 20일 낮 기온은 26~31도로 19일과 비교해 2~3도 낮겠다. 21일과 22일 낮 기온은 3~5도 더 낮아져 오랜만에 평년기온(23~27도)과 비슷하겠다. 20일 비가 지나간 이후에는 낮 기온이 30도 아래로 떨어질 전망이다. ‘더운 가을’이 끝나고 가을다운 가을이 오는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>민원인 위법행위 3년새 3.4배 폭증...경찰, 현장  근무여건 개선안 추진</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/20/K4LCLUR67BEZXKFN5GBMZF2NAY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/20/K4LCLUR67BEZXKFN5GBMZF2NAY/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 20 Sep 2024 04:50:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XIRSIJ3ARDJORSEWON6VRTGY5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현장 경찰관들이 업무 과중 등을 호소하며 극단적 선택을 시도하거나 사망하는 사례가 연이어 발생함에 따라 경찰청에서 개선책 마련에 나섰다.&lt;br&gt;&lt;br&gt;경찰청은 7월 30일부터 한 달여간의 ‘현장 근무여건 실태진단팀’ 활동 결과를 바탕으로 개선대책을 마련해 시행한다고 20일 밝혔다. 지난 7월 경찰관들이 업무 과중 등을 호소하며 극단적 선택 시도한 사례가 연이어 발생한 데에 따라 경찰청 차장이 총괄하는 실태 진단팀이 꾸려졌다.&lt;br&gt;&lt;br&gt;조사 결과 경찰서 통합수사팀에 작년 11월 고소·고발 반려제 폐지 이후 전체를 다 접수하기 시작하며 업무 부담이 늘어난 것으로 파악됐다. 올해 6월까지 전국 경찰서에서 접수한 사건은 61만 8900건으로, 작년 같은기간 44만 9285건이 접수한 것과 비교해 37.5% 증가했다.&lt;br&gt;&lt;br&gt;경찰서 민원실이나 교통공익신고 담당 부서에도 민원인들의 폭언·협박이 급증한 것으로 파악됐다. 경찰은 “악성 민원이 계속 증가함에 따라 직무 스트레스를 호소하며 부서를 옮기는 사례까 반복됐다”고 했다. 민원인 위법행위는 2021년 2997건, 2022년 5218건, 2023년 1만 323건으로 불과 3년 새 3.4배 꼴로 증가했다. 같은 민원을 반복적으로 넣는 ‘반복 민원’도 같은 시기 6만 3351건, 7만 957, 8만 5236건으로 증가했다.&lt;br&gt;&lt;br&gt;올해 상반기에 경찰서 청문민원관리팀 581명 중 236명이 교체, 교통 민원실 공익신고 담당자 경력 1년 미만자의 57%, 2년 미만자의 21.1%가 교체되기도 했다.&lt;br&gt;&lt;br&gt;실태조사팀은 경찰서 통합수사팀은 사건 배당 전 접수 단계에서부터 유사 사건을 병합해 수사하는 방식으로 업무를 효율화할 예정이다. 또한, 광역 단위 수사나 난도가 높은 사건은 시도경찰청의 전문부서로 이관하는 범위를 확대하기로 했다.&lt;br&gt;&lt;br&gt;민원부서의 경우, 업무 경감과 공무원 보호를 위해 2026년까지 AI 기반 민원상담 챗봇을 도입할 계획이다. 더불어, ‘악성 민원 대응 지침’을 마련해 민원 처리 과정에서의 공무원 보호 조치를 강화할 방침이다.&lt;br&gt;&lt;br&gt;조지호 경찰청장은 “한정된 인력으로 국민의 요구와 기대에 부응할 수 있도록 이번 대책을 신속하게 추진할 것”이라며 “현장 경찰관들이 역량을 최대한 발휘할 수 있는 여건을 조성하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주 사려니숲길 걷던 탐방객 6명 말벌에 쏘여</title>
+      <link>https://www.chosun.com/national/regional/2024/09/20/PB6KXNT2WJDAVCVMXEU2BZIMFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/20/PB6KXNT2WJDAVCVMXEU2BZIMFY/</guid>
+      <dc:creator>오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 20 Sep 2024 04:19:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAMTKIOV5ZCMVEEJ5L5ZFCQCWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 대전 대덕구 읍내동 한 농가에서 벌집 제거 민원 신고를 받고 출동한 대덕소방서 소속 119 소방대원들이 말벌집을 제거하고 있다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 유명 숲길인 사려니숲길을 걷던 탐방객들이 무더기로 말벌에 쏘이는 사고가 발생했다.&lt;br&gt;&lt;br&gt;20일 제주도소방안전본부에 따르면 지난 19일 제주시 조천읍 교래리 사려니숲길에서 말벌에 쏘였다는 신고가 여러 차례 접수됐다. 신고는 오전 11시 43분부터 오후 1시까지 4차례에 걸쳐 들어왔다. 신고를 받고 출동한 119 구급대가 현장을 확인한 결과 탐방객 6명이 말벌에 쏘인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;이 가운데 팔과 머리, 다리 등에 통증을 호소한 60대 A 씨 등 3명은 119에 의해 인근 병원으로 옮겨져 치료받았다. 또 손과 허리 통증을 호소한 30대 B 씨 등 3명은 현장에서 응급처치를 받았다.&lt;br&gt;&lt;br&gt;제주도소방안전본부에 따르면 최근 3년(2021~2023년)동안 제주지역에서 벌 쏘임 사고로 119 구급대에 의해 병원으로 이송된 사례는 190건이다. 이 중 116건(61%)은 7~9월에 발생했다.&lt;br&gt;&lt;br&gt;보통 벌은 여름과 가을에 활동이 활발해지는데 이 시기에 사람들의 야외 활동이 증가하기 때문에 벌 쏘임 사고가 7~9월 집중되는 것이다. 특히 올해에는 유례없는 폭염으로 벌 활동량이 늘어나면서 10월까지 벌 쏘임 사고가 빈번하게 발생할 것으로 예상된다.&lt;br&gt;&lt;br&gt;제주소방안전본부는 벌 쏘임 사고 예방을 위한 행동요령 준수를 당부하고 있다. 벌 쏘임을 예방하기 위해서는 야외활동 시 벌을 자극할 수 있는 향수, 화장품, 스프레이 등 강한 향이 나는 제품 사용을 자제하고, 밝은 계열의 긴소매 옷을 착용해 피부 노출을 최소화해야 한다. 벌집 발견 시에는 자세를 낮추고 천천히 안전한 장소로 이동하고, 벌집과 접촉했을 경우 머리 부위를 보호하고 신속하게 20m 이상 떨어진 곳으로 대피한 후 즉시 119에 신고해야 한다.&lt;br&gt;&lt;br&gt;벌에 쏘이면 신속히 신용카드 등을 이용해 벌침을 제거하고 쏘인 부위의 감염 방지를 위해 소독하거나 깨끗한 물로 씻은 후 얼음주머니 등으로 찜질하는 등 응급처치해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘대통령실 이전 비위’ 경호처 간부, 브로커에게 공사비 대납 요구</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/20/IFG5WVA6HNDALAJFNHTZK65N2Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/20/IFG5WVA6HNDALAJFNHTZK65N2Q/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 20 Sep 2024 04:23:10 +0000</pubDate>
+      <content:encoded>대통령실이 용산으로 이전할 때 공사비를 부풀려 허위 계약을 체결한 혐의로 구속된 대통령경호처 간부가 브로커에게 공사비를 대신 내게 한 정황을 검찰이 확보한 것으로 20일 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QBSKOWER4D6W6C3ABKUVNIWXAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;용산 대통령실 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울중앙지검 강력범죄수사부(부장 김보성)는 경호처 간부 정모씨의 구속영장에 정씨가 브로커 김모씨에게 경호처장 공관 공사비 1억7600만원을 대납하도록 요구‧협박한 정황을 적시했다. 정씨는 지난 2022년 5~6월 대통령실 이전에 따른 경호처 이전 과정에서 예산을 확보하지 않은 채 시공업자 A씨에게 공사를 맡겼다. 이에 정씨가 자신과의 친분을 바탕으로 대통령실 본관 방탄창호 공사를 따낸 브로커 김씨에게 공사비용을 대납시키기로 마음먹었다는 것이 검찰 조사 결과다. 당시 김씨는 방탄창호 공사대금 16억3000만원을 받은 상태였다.&lt;br&gt;&lt;br&gt;정씨는 공사비 대납을 요구하기 전 김씨가 맡은 대통령집무실 방탄창호 공사의 하자를 찾아내라고 A씨에게 부탁한 것으로 조사됐다. 이에 A씨는 “창호 틈새 마감에 손가락 자국이 있다” 등 하자를 보고했다고 한다. 이를 빌미로 정씨는 지난 2022년 5월 공사현장에서 김씨에게 “경호처장 공관 등을 보수해야 하는데 예산이 없으니 네가 공사비를 A씨에게 지급하라”고 협박했다는 것이다. 이때 정씨는 “공사비를 내지 않으면 이미 설치한 방탄창호를 다 뜯어내고 전부 다시 공사하라”고 말했다고 한다. 김씨는 손해를 우려해 2022년 5~7월 사이 공사비용 1억7600만원을 세 차례에 나눠 A씨 업체에 보냈다고 한다.&lt;br&gt;&lt;br&gt;정씨는 검찰 조사에서 “대통령실 이전 사업 일정이 촉박해 (대납 요구는) 불가피한 측면이 있었다”는 취지로 진술한 것으로 전해졌다. 그러나 검찰은 경호처장 공관 리모델링 공사가 시급하지 않았던 점 등을 바탕으로 정씨가 무리하게 공사를 밀어붙였다고 보고 있다고 한다.&lt;br&gt;&lt;br&gt;정씨와 김씨는 공사비 대납 외에도 방탄창호 공사 입찰 과정에서 공사비를 부풀려 이득을 챙긴 혐의 등으로 지난 12일 구속돼 검찰 수사를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>뇌물 수수 혐의 전 대구지방국세청장 1심서 무죄</title>
+      <link>https://www.chosun.com/national/incident/2024/09/20/NFNM3Y7K7REK3JSK3SC5ORUPM4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/20/NFNM3Y7K7REK3JSK3SC5ORUPM4/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 20 Sep 2024 04:03:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMGA4NO5BFCJ5KDLOB6HLA3DWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지방·고등법원 전경. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세무 비리 혐의로 기소된 전 대구지방국세청장에게 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 형사 11부(재판장 이종길)는 20일 뇌물수수 혐의로 기소된 전 대구지방국세청장 A씨에게 무죄를 선고했다. 하지만 뇌물공여 혐의로 기소된 세무사 B씨와 부정처사후 수뢰 및 허위공문서 작성 혐의로 기소된 세무공무원 5명에겐 징역 8개월~2년 6개월을 각각 선고했다.&lt;br&gt;&lt;br&gt;A씨는 현직이던 지난 2022년 8~9월 세무사 B씨로부터 두 차례에 걸쳐 1300만원 상당의 뇌물을 받은 혐의로 재판에 넘겨졌다. 검찰은 B씨가 “(내가) 의뢰를 맡은 업체가 세무 조사 대상이 됐으니 잘 봐달라”는 취지로 부탁하며 A씨에게 돈을 건넨 것으로 파악했다.&lt;br&gt;&lt;br&gt;하지만 재판부는 B씨가 A씨에게 뇌물을 건넨 것으로 보기 어렵다고 판단했다. A씨의 뇌물 수수 혐의를 뒷받침하는 증거는 B씨의 진술 뿐인데, 정작 B씨는 뇌물을 준 시점을 정확히 기억하지 못했다.&lt;br&gt;&lt;br&gt;재판부는 “A씨와 B씨가 같은 부서에서 일했지만 사적 친분이 없었고, B씨가 뇌물을 줬다고 주장한 시기는 A씨가 국세청장으로 갓 부임한 때로, 뇌물을 받으면 쉽게 그 사실이 노출되는 상황이었다”며 “B씨가 다른 공무원들에게 뇌물을 준 것은 명확히 기억하는 반면, A씨에게 돈을 건넸다는 진술은 일자나 내용 등이 구체적이지 못하며 추측에 의존하고 있다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 또 “B씨가 두 차례에 걸쳐 1300만원을 전달했다고 하는데, 두번째 만남이 있었다고 주장하는 시기는 관공서 집중 감찰 기간과 겹쳐 실제 만남이 있었을지도 의문”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;반면 재판부는 세무사 B씨와 세무공무원 5명 등 6명에 대해선 혐의가 인정된다고 판단했다. B씨는 당시 세무공무원들에게 1000만~2000만원 상당의 뇌물을 건네며 세무 조사를 무마해달라는 등의 청탁을 한 것으로 조사됐다. B씨는 약 23년간 세무공무원으로 일했던 전관(前官) 세무사였다. B씨는 로비 대가로 세무조사 대상 업체들에게 2억원 정도를 받은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;세무공무원 4명은 B씨를 통해 뇌물을 받은 뒤 업체 과세 서류를 삭제·조작했고, 또 다른 세무공무원 1명은 세무 조사 정보를 사전에 B씨에게 알려주거나 세무조사를 하지 않아도 된다는 취지의 허위 공문서를 작성한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “전관 세무사와 국세청 현직 공무원이 결탁해 조세 행정의 신뢰성을 훼손한 만큼 엄벌이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>미아동서 70대 몰던 제네시스 햄버거 가게로 돌진… 1명 심정지</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/20/2J7GPBCJ6ZAYDPCF2CEKGELGLA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/20/2J7GPBCJ6ZAYDPCF2CEKGELGLA/</guid>
+      <dc:creator>서보범 기자, 강우석 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 20 Sep 2024 03:44:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YTLQOIGGGJGEFPJWOYDPBP6F6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강북구 미아동의 한 상가 1층 건물로 승용차가 돌진해 1명이 심정지 상태로 병원으로 이송되고 5명이 중경상을 입었다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강북구에서 주행 중이던 차량이 한 상가 건물 1층으로 돌진해 1명이 심정지 상태로 이송되고 5명이 중·경상을 입는 사고가 20일 발생했다.&lt;br&gt;&lt;br&gt;서울 강북경찰서와 소방당국은 이날 오전 10시 32분쯤 서울 강북구 미아동의 한 상가 1층 건물 햄버거 가게로 70대 남성이 몰던 제네시스 G330 차량이 돌진하면서 중상 2명·경상 4명 등 부상자가 발생했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰과 소방에 따르면 당시 해당 차량은 도로 중앙에 설치된 버스정류장 인근 철제 펜스와 가로수를 들이받으며 상가로 돌진한 것으로 파악됐다. 이 사고로 인근에 있던 시민 1명이 심정지 상태로 발견돼 병원으로 이송됐다. 운전자도 중상을 입고 치료를 받고 있으며, 현재까지 급발진을 주장하지는 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 추후 정확한 사고 원인을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>與 시의원, ‘대기업 오찬’ 김정숙 여사 직권남용 혐의로 고발</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/20/XAG7RP3WCRFDLGB4BHR7JAO5TA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/20/XAG7RP3WCRFDLGB4BHR7JAO5TA/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 20 Sep 2024 03:21:01 +0000</pubDate>
+      <content:encoded>이종배 국민의힘 서울시의원이 문재인 전 대통령의 배우자 김정숙 여사가 2019년 대기업 관계자들을 초청해 청와대에서 오찬을 가진 것은 직권남용이라며 검찰에 고발했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXV7FZRVPK2VCEDZZVDEWTJ67Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종배 국민의힘 서울시의원이 지난 6월 19일 서울 서초구 서초동 서울중앙지방검찰청에 김정숙 여사 타지마할 외유 의혹 관련 고발인 조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 의원은 20일 김 여사를 직권남용 권리행사방해, 업무방해 혐의로 서울중앙지검에 고발했다. 이 의원은 김 여사가 2019년 6월 20일 삼성전자, 롯데 등 10여개 기업의 고위 관계자들을 불러 오찬을 했다며 김 여사가 대기업 총수들의 청와대 오찬 참석 요청 연락을 부하 직원에게 지시한 것은 직권남용에 해당한다고 주장했다. 이 의원은 또 대기업 총수들은 영부인의 요청을 거절할 수 없어 청와대 오찬에 참석했고 이에 기업 업무를 방해받은 것이라고 주장했다.&lt;br&gt;&lt;br&gt;이 의원은 “(김건희 여사의) 정상적인 역할에 대해선 온갖 비난하면서 정작 김정숙 여사의 있을 수 없는 대통령 행세에 대해선 침묵하는 민주당을 규탄하지 않을 수 없다”고 했다.&lt;br&gt;&lt;br&gt;이 의원은 김 여사의 인도 타지마할 외유성 출장 의혹, 샤넬 재킷 의혹 등도 고발한 인물이다. 검찰은 두 의혹에 대해 수사를 진행하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>이은애 “정부 · 국회, 헌법불합치 결정 이후 개선 입법 조속히 노력해야”</title>
       <link>https://www.chosun.com/national/court_law/2024/09/20/4RTPXN4Y3RBRPP2KGLTHDZFCVU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/20/4RTPXN4Y3RBRPP2KGLTHDZFCVU/</guid>
@@ -822,15 +894,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2M2DR7FKXNG23ILAJUJNSOBLXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 18일 오후 9시 42분쯤 신고를 접수한 서울 종암경찰서 석관파출소 소속 유태종 경위가 서울 성북구의 한 아파트 단지로 출동해 북한 발 오물풍선으로 시작된 화재를 진압하고 있다. /종암서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;출동 경찰이 오물풍선으로 발생한 화재를 진압했다.&lt;br&gt;&lt;br&gt;서울 종암경찰서는 지난 18일 오후 9시 42분쯤 지역 주민을 통해 “석관동 한 아파트 화단 나무에 불이 붙었다“는 내용의 신고를 접수했다.&lt;br&gt;&lt;br&gt;종암서에 따르면 사고 지점에서 약 160m 떨어진 석관파출소에서 근무하던 경찰이 신고 접수 30초 후 현장에 도착했다. 출동한 유태종 경위는 순찰차 안에 실린 소화기를 사용해 신고 접수 후 3분 만인 오후 9시 45분쯤 불을 완전히 껐다.&lt;br&gt;&lt;br&gt;약 5분 후 소방당국이 현장에 도착해 일대 상황을 수습했으며 이 화재로 인한 인명 피해는 없었다.&lt;br&gt;&lt;br&gt;경찰은 화재 원인에 대해 “이 자리에 떨어진 오물풍선에 실린 작은 기폭장치가 터지면서 불이 난 것으로 파악했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>제주 아파트 야외 주차장서 충전하던 소형 전기차 화재</title>
-      <link>https://www.chosun.com/national/regional/2024/09/19/HULQ54HUCZHGRN4DCLDRBY3XTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/19/HULQ54HUCZHGRN4DCLDRBY3XTM/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Sep 2024 04:43:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KF2DAGBFEC5DRNWVGKOI7ERMX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주에서 소형 전기차에서 불이 나 소방관이 진압하고 있다./제주도소방안전본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에서 충전 중인 2인승 소형 전기차에서 불이 나 약 40분 만에 꺼졌다.&lt;br&gt;&lt;br&gt;19일 제주소방안전본부에 따르면 전날 오후 4시54분쯤 제주시 화북1동의 한 아파트단지 야외 주차장에서 충전 중인 쎄보 모빌리티 전기차에서 불이 났다는 신고가 접수됐다. 불은 출동한 소방에 의해 39분 만인 오후 5시33분쯤 완전히 꺼졌다.&lt;br&gt;&lt;br&gt;이 화재로 인명피해는 없었으나 전기차 1대가 불에 타고 충전기와 인접한 차량 1대가 열에 의한 피해를 입는 등 696만원 상당의 재산피해가 발생했다.&lt;br&gt;&lt;br&gt;소방 당국은 정확한 화재 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>추석 ‘농로 내비 대란’... “AI 맹신이 만든 문명의 위기 보여줬다”</title>
       <link>https://www.chosun.com/national/national_general/2024/09/19/IJ2EXGUHLBGU7ARJDXRYQAWBYU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/19/IJ2EXGUHLBGU7ARJDXRYQAWBYU/</guid>
@@ -854,48 +917,6 @@
       </media:content>
     </item>
     <item>
-      <title>“단기 기억 상실 진단”… ‘치매 증상’ 고백한 김창옥 근황 </title>
-      <link>https://www.chosun.com/national/people/2024/09/19/YFBRJSGTARFVND7F4RESPWWGL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/19/YFBRJSGTARFVND7F4RESPWWGL4/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Sep 2024 02:56:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMZXHHZD3UKXDWTJ3MFRTVOURA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/'김창옥TV' 유튜브 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 11월 알츠하이머 의심 소견을 받았다고 털어놓은 스타강사 김창옥(50)씨가 방송에 출연해 근황을 전했다. 최종적으로 알츠하이머가 아닌, 단기 기억 상실 진단을 받았다고 한다.&lt;br&gt;&lt;br&gt;김씨는 지난 18일 방영된 MBC 예능프로그램 ‘라디오스타’에 출연해 “지금은 괜찮다”면서도 알츠하이머 의심 증상으로 처음 병원을 방문했던 당시를 회상했다.&lt;br&gt;&lt;br&gt;김씨는 “어느 날은 핸드폰 번호를 모르겠고, 그러다가 집 비밀번호, 동호수, 집이 몇 층인지까지 잊어버리게 됐다”며 “심해지니까 사람도 기억을 못했다. 분명히 나를 잘 아는 분 같은데, 나는 아예 모르겠더라”고 했다.&lt;br&gt;&lt;br&gt;김씨는 처음 검사에서 알츠하이머 의심 소견을 받았지만, 결과적으로 단기 기억 사실 진단을 받았다고 했다. 김씨는 “한 3개월 동안 폐 CT, MRI, 뇌 인지기능 검사까지 다 했다. 결과는 ‘알츠하이머 유전자가 있지만 아직은 아니다’라는 이야기를 들었다. 단기 기억 상실 장애라고 하시더라”고 했다.&lt;br&gt;&lt;br&gt;원인은 어린 시절 부모님이 다투는 모습을 자주 본 데서 비롯된 트라우마였다고 김씨는 설명했다. 김씨는 “선생님 말씀으로는 ‘어린 시절 부모님이 싸우는 모습을 많이 본 것이 원인이 된 것 같다’고 하시더라”며 “선생님께서 ‘트라우마는 뇌가 아니라 몸이 기억하는 것’이라고 하셨다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 여전히 강연과 방송 활동 등을 꾸준히 이어가는 중이라고 밝혔다. 김씨는 “연간 관객수가 10만명 정도고, 강연은 300번 이상 해서 누적 관객수는 350만 명 정도 된다. 20년간 1만 번 이상의 강연을 한 것 같다. 재관람도 많이 해주신다”고 했다.&lt;br&gt;&lt;br&gt;앞서 김씨는 작년 11월 자신의 유튜브 채널에 올린 ‘생각지도 못한 위기가 내 인생을 뒤흔들 때’라는 주제의 강연 영상에서 “최근 숫자를 잊어버려 뇌신경 센터를 다녀왔다”며 알츠하이머 의심 증상을 겪고 있다고 고백했다.&lt;br&gt;&lt;br&gt;당시 김씨는 “처음에는 숫자를 잊어버렸고, 그 숫자를 기억하려고 하면 엄청 스트레스를 받았다”며 “집 번호, 전화번호, 집이 몇 호인지도 잊어버렸다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 “알츠하이머의 큰 원인은 알코올과 스트레스라고 하던데 저는 술을 아예 안 마시고 담배도 안 피운다”며 원인으로 어머니에 대한 죄책감과 강연에 대한 압박 등을 꼽았다. 김씨는 “아버지가 엄마를 때리는 상황이 많이 있었고 엄마는 그 삶을 힘들어했는데 저는 그 삶을 구원하지 못했다는 죄책감이 있다”며 “(그 스트레스가) 도미노처럼 벌어진 것 같다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“집에 진열하려고” 106cm 일본도 들고 거리 배회한 50대 입건</title>
-      <link>https://www.chosun.com/national/incident/2024/09/19/TJK4Y7F5TZHYRBDV2LBQIOIK7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/19/TJK4Y7F5TZHYRBDV2LBQIOIK7Y/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Sep 2024 02:43:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T35XADA3VS4YFBF3CIJ3B3I7I4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어머니 집에 있던 친척 소유의 일본도를 자기 집에 진열하기 위해 거리에 들고 나온 50대 남성이 입건됐다.&lt;br&gt;&lt;br&gt;19일 경찰에 따르면 경기 의정부경찰서는 총포화약법 위반 혐의로 50대 남성 A씨를 입건했다.&lt;br&gt;&lt;br&gt;A씨는 추석 연휴 첫날인 지난 14일 오후 4시 55분쯤 의정부시 의정부동 노상에서 비닐로 감싼 일본도를 들고 약 600m 거리를 도보로 이동한 혐의를 받는다. 그가 들고 있던 일본도는 날길이 74cm, 총길이 106cm였다.&lt;br&gt;&lt;br&gt;A씨를 목격한 시민이 “술을 마신 남자가 일본도를 들고 걸어가고 있다”고 112에 신고했다. 경찰은 50여명의 경관을 동원해 현장 주변을 수색했고, 신고 접수 1시간 만인 오후 6시쯤 A씨를 의정부동 주거지에서 검거해 인근 지구대로 임의동행했다.&lt;br&gt;&lt;br&gt;A씨는 “돌아가신 외삼촌의 일본도가 어머니 집에 있었는데 내 집에 진열하기 위해 들고나왔다”는 내용으로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “(A씨가) 위해 행위를 하진 않았지만 도검을 신고하지 않고 소지만 해도 불법이어서 일단 입건했다”며 “일본도는 압수했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘불법 선거운동’ 의혹 민주 안도걸 의원 소환조사</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/19/PS326DINCZCFZL7YR2VTLAOW3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/19/PS326DINCZCFZL7YR2VTLAOW3Y/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Sep 2024 02:39:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OSRS3BXL7FGT5GEUHXUYVVDABY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3월 19일 광주광역시 동구 소재 더불어민주당 광주동남을 안도걸 후보 선거사무실에서 경찰이 압수수색을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 4·10 총선을 앞두고 더불어민주당 후보 경선 과정에서 불법 선거운동 의혹을 받는 민주당 안도걸(광주 동남을) 국회의원이 경찰 소환조사를 받았다.&lt;br&gt;&lt;br&gt;19일 광주경찰청 반부패범죄수사대에 따르면 공직선거법 위반 등 혐의로 안 의원을 지난 15일 피의자 신분으로 소환해 조사했다.&lt;br&gt;&lt;br&gt;안 의원은 민주당 경선 과정에서 사촌동생 A씨와 함께 전남 화순에서 콜센터를 만들어 운영하고 자원봉사자들에게 급여를 제공한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 지난 5일 A씨를 구속하고 안 의원 등의 불법 선거운동 의혹에 대한 수사를 벌여왔다.&lt;br&gt;&lt;br&gt;안 의원에 대한 소환조사는 A씨에 대한 범행 지시 혹은 공모 여부, 선거 사무실 운영비 출처를 따져보기 위한 연장선상으로 풀이된다.&lt;br&gt;&lt;br&gt;안 의원 등의 4·10 총선 관련 공직선거법 위반 사건 공소시효는 내달 10일 만료된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/OSRS3BXL7FGT5GEUHXUYVVDABY.jpg?width=6894&amp;height=4276&amp;auth=e71d0f4af9e7203f8f2852b90748a1215f9d98cdf78eee0fa81fb44301afc3ea&amp;smart=true" type="image/jpeg" height="4276" width="6894">
-        <media:description type="plain">지난 3월 19일 광주광역시 동구 소재 더불어민주당 광주동남을 안도걸 후보 선거사무실에서 경찰이 압수수색을 하고 있다. /뉴시스</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>명동 보관대서 남의 음료 ‘홀짝홀짝’ 마신 남성... 외국인들 경악</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/19/XVYGLNL5LZANBKLW24UTDS52BQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/19/XVYGLNL5LZANBKLW24UTDS52BQ/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Sep 2024 00:50:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2LHFR2REDRF6TED3UM74HLHRWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 명동의 한 매장 음료보관대에서 남성이 다른 사람의 음료를 마음대로 마시고 있다. /@luntw1002&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 명동의 한 매장 음료 보관대에 놓인 남의 음료를 마음대로 마시는 남성의 영상이 해외에서 공개됐다.&lt;br&gt;&lt;br&gt;지난 16일 대만의 한 인플루언서는 자신의 틱톡 계정에 한 중년 남성의 모습이 담긴 영상을 올렸다.&lt;br&gt;&lt;br&gt;영상 속 남성은 매장 앞에 놓인 음료 보관대에 놓인 음료들을 한 모금씩 마셨다. 심지어 음료 2잔을 집어 들더니 한 곳에 섞어 마시기까지 했다. 음료 보관대는 음료 반입이 금지된 매장에서 음료를 소지한 손님이 쇼핑을 마칠 때까지 음료를 보관하도록 한 곳이다.&lt;br&gt;&lt;br&gt;이 모습을 본 다른 남성이 다가와 제지하려는 듯하지만, 남성은 아랑곳하지 않고 남의 음료를 마셨다. 말리던 남성은 말이 통하지 않자 자리를 피했다. 영상을 올린 인플루언서는 “명동에서 무료로 즐기는 나만의 스페셜티”라며 비꼬았다.&lt;br&gt;&lt;br&gt;이 영상은 150만회 이상 조회됐고, 네티즌들은 “한국 아니겠지? 진짜 명동에서 벌어진 일 맞나” “나라 망신이다” “이래서 내가 가게 들어가기 전에 음료를 다 마신다. 누군가 음료 안에 무언가를 넣어놓을 수도 있다” 등의 반응을 보였다. 이 영상은 일본으로도 퍼져나갔고, 일본 네티즌 역시 “당신 마음대로 마시라고 있는 드링크 바가 아니다” “영상을 보니 메스껍다”고 했다.&lt;br&gt;&lt;br&gt;일각에서는 외국인들이 명동을 많이 찾는 만큼 음료를 마신 남성이 외국인이라고 추측했다. 하지만 이 남성의 국적은 확인되지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/FQLWPJFDN5HNRFKJMJTDFZWJ54.gif?width=300&amp;height=380&amp;auth=81c9d3268a89dcce23edbc6ff8e50c8d3a92105b91baedd0d8a9abf45c2ba03d&amp;smart=true" type="image/jpeg" height="380" width="300">
-        <media:description type="plain">음료 보관대에 놓인 남의 음료를 마시는 남성을 본 다른 남성이 이를 제지하려고 하지만, 남성은 아랑곳하지 않고 음료를 계속 마셨다. /@luntw1002</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>심우정 검찰총장 “국가 근간 흔드는 부패범죄에 수사 역량 집중”</title>
       <link>https://www.chosun.com/national/court_law/2024/09/19/4YPYU4ORERBP3ME2OIOTF55PIQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/19/4YPYU4ORERBP3ME2OIOTF55PIQ/</guid>
@@ -905,15 +926,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/65L7IDLZZZOMFFL5YJCX4LSPEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;심우정 신임 검찰총장이 19일 오전 서울 서초구 대검찰청 청사로 출근하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;심우정 검찰총장은 19일 취임사에서 “검찰의 직접수사 역량을 국가의 근간을 흔드는 중대한 부패범죄·경제범죄에 집중시키겠다”고 했다. 취임 일성(一聲)으로 ‘부패 범죄’ 수사를 강화하겠다고 한 것이다. 검찰이 직접 수사할 수 있는 ‘부패 범죄’에는 공직자범죄나 선거범죄 상당 부분이 포함된다.&lt;br&gt;&lt;br&gt;심 총장은 “중대한 부패범죄와 경제범죄에 적시에 대처하지 못할 경우 그 파급 효과가 크기 때문에 국민 모두가 피해를 입게 된다”며 “검찰의 직접수사 역량은 우리 헌법과 공동체의 가치를 훼손하는 부패범죄, 시장경제질서를 무너뜨리는 경제범죄와 같은 중대범죄에 집중 투입되어야 한다”라고 했다.&lt;br&gt;&lt;br&gt;심 총장은 “검찰의 직접 수사는 검찰의 수사가 꼭 필요한 곳에 한정되어야 할 것”이라며 “오로지 법과 원칙, 증거와 법리에 따른 공정한 수사, 신속하고 정밀하게 환부만 도려내는 수사를 통해 국민이 검찰 수사는 믿을 수 있다고 느끼실 수 있게 하자”고 당부했다.&lt;br&gt;&lt;br&gt;심 총장은 “‘민생 범죄’로부터 국민을 지키는 데 온 힘을 다해야 한다”며 민생 범죄를 담당하는 일선 형사부를 대폭 강화하겠다고 했다. 심 총장은 “우리의 평온한 삶을 위협하는 강력범죄, 지금 막지 않으면 걷잡을 수 없이 번져나갈 마약범죄, 나날이 교묘해지는 보이스피싱 범죄, 수많은 피해자를 만들어내는 다단계·전세 사기와 같은 민생범죄로부터 국민을 든든하게 지켜야 한다”라며 “딥페이크 영상물 범죄와 같은 디지털 성범죄, 스토킹 및 성폭력 범죄로 인해 여성들이 더 이상 불안하지 않아야 하고, ‘사이버렉카’의 악성, 허위 컨텐츠가 사회를 좀먹지 않도록 철저히 대응해야 한다”고 했다. 이어 “민생범죄의 최전선에 있는 일선 형사부의 인력, 조직을 대폭 강화하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;심 총장은 이날 오전 현충원을 참배하고 방명록에 ‘순국선열과 호국영령의 정신을 받들어 본연의 역할을 다하는 국민의 검찰을 만들어 나가겠다’고 썼다. &lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>구하라 협박‧폭행 前남친에 “저런X” 댓글…헌재 “모욕죄 아냐”</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/19/4ALZKUDYPVFA5DELORDMBHSKPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/19/4ALZKUDYPVFA5DELORDMBHSKPU/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Sep 2024 02:17:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SEU4M6TYRBQNJR3HBPZRBYUQDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 고(故) 구하라씨를 생전에 폭행하고 협박한 혐의로 재판에 넘겨져 대법원에서 징역형을 선고받은 최종범씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 ‘카라’ 출신 고(故) 구하라를 폭행하고 성관계 동영상을 유포하겠다고 협박해 실형을 받은 구씨의 전 남자친구 최종범씨 관련 기사에 비방성 댓글을 단 남성에게 모욕죄가 인정되지 않는다는 헌법재판소 판단이 나왔다.&lt;br&gt;&lt;br&gt;19일 법조계에 따르면, 헌재는 지난달 29일 검찰의 기소유예 처분을 취소해달라며 정모씨가 제기한 헌법소원 심판에서 재판관 전원일치로 청구를 인용했다. 기소유예는 혐의가 인정되지만 여러 사유를 참작해 처벌하지 않는 검찰 처분이다.&lt;br&gt;&lt;br&gt;정씨는 2021년 7월 ‘고 구하라 전 남친 최종범, 수척해진 근황 공개’라는 제목의 기사에 “자신의 수척해진 모습을 공개한 건 동정받으려고 그런 건가? 저런 X은 자살해도 절대로 동정 못 받을 거다!”라고 댓글을 달았다. 최씨 측은 이 댓글을 근거로 정씨를 모욕 혐의로 고소했다. 같은 해 12월 인천지검은 모욕 혐의가 인정된다고 보고 정씨를 기소유예 처분했다.&lt;br&gt;&lt;br&gt;정씨는 2022년 5월 “기소유예 처분을 취소해달라”며 헌재에 헌법소원을 제기했다. 정씨는 “댓글을 쓴 것은 사실이나 댓글을 게시하게 된 구체적인 경위, 댓글의 전체 내용과 표현 방식 등을 종합해 볼 때, 이 사건 댓글이 피해자의 사회적 평가를 저하시킬 만한 경멸적인 표현에 해당한다고 보기 어렵다”고 주장했다.&lt;br&gt;&lt;br&gt;헌재는 정씨의 손을 들어주며 “모욕죄에서 말하는 모욕이란 사실을 적시하지 않고 사람의 사회적 평가를 저하시킬 만한 ‘추상적 판단’이나 ‘경멸적 감정’을 표현하는 것을 의미한다”며 “댓글이 무례하고 저속하기는 하지만 피해자 인격적 가치에 대한 사회적 평가를 저하할 만한 모욕적 언사에 해당한다고 단정하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;최종범씨는 2018년 9월 구하라를 때려 상해를 입히고, 구하라에게 성관계 동영상을 보내며 협박한 혐의로 재판에 넘겨졌다. 그는 2020년 7월 2심에서 실형 선고와 함께 법정 구속된 이후 대법원에서 징역 1년형이 확정돼 교도소에서 복역했다. 최종범씨는 출소 후 소셜미디어 활동을 재개해 구하라 팬들로부터 비판을 받았었다.  &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>버스 앞좌석에 구멍 난 양말 신고 두 발 ‘턱’...”사람 있는데 너무하다”</title>
       <link>https://www.chosun.com/national/national_general/2024/09/19/6RYVEXB24VGONLGOQULBBXYQFU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/19/6RYVEXB24VGONLGOQULBBXYQFU/</guid>
@@ -921,24 +933,6 @@
       <description/>
       <pubDate>Thu, 19 Sep 2024 01:52:32 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QPS4PQVTS5C33MXJYBFAHBGLR4.png"&gt;&lt;figcaption&gt;&lt;small&gt;한 승객이 버스 앞좌석에 사람이 있는데도 두 발을 올리고 있다. /보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 승객이 버스 앞좌석에 아무렇지 않게 두 발을 올린 모습이 포착됐다.&lt;br&gt;&lt;br&gt;지난 15일 한 온라인 커뮤니티에는 ‘경기도 광역버스에 있는 매너 없는 진상’이라는 글과 함께 사진 한 장이 올라왔다.&lt;br&gt;&lt;br&gt;공개된 사진을 보면 한 남성이 신발을 벗은 채 앞 좌석 머리 받침대에 양발을 올리고 휴대전화를 보고 있었다. 이 남성은 구멍 난 검은 양말을 신은 채 안전벨트는 착용하지 않은 것으로 보인다. 남성의 앞 좌석에는 한 여성이 앉아 있는 상태였다.&lt;br&gt;&lt;br&gt;작성자 A씨는 “귀에 뭘 꼽지도 않고 영상 소리도 크게 틀어놓고 진상 놀이 중인데, 부끄러운 줄 압시다”라고 남겼다.&lt;br&gt;&lt;br&gt;이 게시글은 여러 온라인 커뮤니티에 빠르게 공유됐다. 이를 본 네티즌들은 “양말에 구멍이 났으면 냄새도 날 것 같다” “강제 하차시켜야 한다” “앞에 사람도 있는데 너무하다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;공공장소에서 두 발을 올리는 등의 행위는 여러 차례 논란이 돼왔다. 지난 7월에도 공항 리무진 버스에서 두 명의 승객이 운전석 등받이 위에 발을 올려놓은 모습이 포착돼 온라인상에서 화제가 됐다. 사진에는 운전기사 바로 뒷자리에 앉은 승객이 신발을 벗은 채 운전석 등받이 위로 발을 쭉 뻗어 올려놓은 모습이 담겨 있었다.&lt;br&gt;&lt;br&gt;지난 4월에도 서울에서 동대구까지 운행하는 한 고속버스 기사가 앞좌석 머리 받침대에 두 발을 올려놓은 승객 때문에 고속도로를 운전하는 내내 신경이 쓰였다고 토로한 사연이 전해진 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>교육활동 침해행위 인정 고교생...학교장 상대 행정소송서 승소</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/19/OZIT5Q332BG4NEXCK2VPBJTHB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/19/OZIT5Q332BG4NEXCK2VPBJTHB4/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Sep 2024 02:12:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IOTUAJ2KFPVEG6ZGOXVYZR3FYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학교 교권보호위원회로부터 교육활동 침해행위가 인정된 고등학생이 학교장을 상대로 행정소송을 제기해 승소했다.&lt;br&gt;&lt;br&gt;인천지법 행정1-3부(재판장 장유진)는 고등학생 A양이 학교장을 상대로 낸 교권보호위원회 심의 결과 통지처분 취소소송에서 원고 승소 판결하고, A양에게 내린 통지 처분을 취소하라고 명령했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;A양은 지난해 12월 1일 자신이 다니는 학교의 교권보호위원회로부터 ‘교육활동 침해행위 인정’ 통지를 받았다. 전달 1일 점심시간에 보건실에서 다른 학생과 상담하고 있던 보건교사에게 소리를 지르고 무례한 언행을 해 모욕감을 느끼게 하고, 상담 중인 학생을 교사의 동의 없이 내보내는 등 보건교사의 교육활동을 부당하게 간섭했다는 이유였다.&lt;br&gt;&lt;br&gt;A양은 징계 등 별다른 조치를 받지 않았으나, 지난 1월 학교장을 상대로 행정소송을 제기했다.&lt;br&gt;&lt;br&gt;A양은 “보건교사와 상담 중이던 학생은 일상적인 얘기 중이어서 상담임을 알지 못했고, 그 학생에게 나가달라고 정중히 부탁하자 보건교사도 이를 제지하지 않았다”고 했다. 또 “보건교사에게 소리를 지르는 등 무례한 언행을 하지 않았다”고 주장했다.&lt;br&gt;&lt;br&gt;재판부는 보건실에서의 A양 행동이 정당한 교육활동을 간섭한 것으로 볼 수 있지만, 반복성이 없어 교육활동 침해로 보기는 어렵다고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 “피고는 ‘원고가 상담 중인 학생을 나가게 했고 치약과 칫솔 등 물품을 여러 차례 요구해 반복적으로 부당한 간섭을 했다’고 주장한다”면서도 “보건교사의 상담 업무를 중단시킨 행위는 정당한 교육활동에 부당하게 간섭한 것으로 볼 수 있으나, 칫솔 등 물품을 요구한 행위는 부당한 간섭으로 보기는 어렵다”고 했다.&lt;br&gt;&lt;br&gt;이어 “교육활동 침해는 부당한 간섭 행위가 반복적으로 이뤄질 경우에 인정된다”며 “원고가 반복적으로 보건교사의 교육활동을 간섭했다고 보기는 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아버지 살해 뒤 아파트 물탱크에 숨긴 30대, 징역 15년 확정</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/19/IBJQJD6KAFCQLLFXHB3YTB4H3Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/19/IBJQJD6KAFCQLLFXHB3YTB4H3Q/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Sep 2024 02:06:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7M7K3FAJJRMULGVCXORFWIDHHQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;함께 살던 60대 부친을 살해한 후 유기한 혐의를 받는 김모씨가 작년 5월 30일 서울 도봉구 서울북부지방법원에서 열린 영장실질심사에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아버지를 살해한 뒤 아파트 지하 저수조에 시신을 숨긴 30대 지적 장애인에게 징역 15년이 확정됐다.&lt;br&gt;&lt;br&gt;19일 법조계에 따르면, 대법원 2부(주심 오경미 대법관)는 존속살해·시체은닉 혐의로 기소된 김모(31)씨에게 징역 15년을 선고하고 10년간 위치추적 전자장치 부착을 명령한 원심 판결을 지난달 23일 확정했다.&lt;br&gt;&lt;br&gt;김씨는 작년 5월 서울 중랑구의 한 아파트에서 부엌에 있던 흉기로 69세 부친을 여러 차례 찔러 살해하고 시신을 아파트 지하 2층 물탱크에 숨긴 혐의로 기소됐다. 김씨는 피해자의 시신을 숨기기 전 현관 입구와 엘리베이터에 설치된 CCTV에 청테이프를 붙여 범행 은폐를 시도했던 것으로 나타났다.&lt;br&gt;&lt;br&gt;김씨는 평소 아버지가 ‘많이 먹지 마라’ ‘영어 단어를 외워라’라고 하는 등 자신에게 잔소리를 하며 괴롭힌다고 생각하고 앙심을 품고 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판의 쟁점은 김씨의 자폐 스펙트럼 장애를 심신미약으로 볼지 여부였다. 김씨는 6세인 1999년 자폐 3급 진단을 받고, 2016년 한차례 약물 치료를 받은 적이 있었다. 변호인은 김씨가 범행 당시 의사 능력이 떨어진 상태라고 주장했다.&lt;br&gt;&lt;br&gt;1심 법원은 이를 받아들이지 않고 김씨에게 징역 20년을 선고했다. 김씨가 범행을 숨기기 위해 CCTV에 청테이프를 붙인 점, 범행 장소인 화장실을 물로 청소한 점 등을 고려하면 변별력이 낮은 상태가 아니라고 판단했다.&lt;br&gt;&lt;br&gt;하지만 2심은 심신미약을 일부 인정해 징역 15년으로 감형했다. ‘자폐 스펙트럼 장애와 지적 불균형으로 의사결정 능력이 손상됐다’는 법원의 정신감정 결과 등이 근거가 됐다. 2심 재판부는 김씨가 CCTV에 청테이프를 붙이면서도 이 모습이 촬영된다는 점까지는 생각하지 못한 점, 시신을 물탱크로 옮기는 과정에 남은 혈흔은 그대로 남겨둔 점 등을 지적하며 “단편적인 부분에만 선택적으로 주의를 기울이고 다양한 관점에서 상황을 인식하는 데에는 상당한 어려움이 있는 것으로 보인다”고 판단했다.&lt;br&gt;&lt;br&gt;김씨가 이에 불복해 상고했지만, 대법원은 “범행의 동기, 수단과 결과, 범행 후의 정황 등을 살펴보면 원심 판결이 심히 부당하다고 할 수 없다”며 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>빠른 속도로 무빙워크 질주하는 휠체어…맨손으로 잡아 세운 ‘영웅’</title>
