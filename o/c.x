@@ -13,6 +13,109 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>5년간 네이버에서 삭제된 ‘개인정보 불법 유통’ 8만건 육박</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/21/55YQTMVJXNERTMDMZXROFPOVSE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/21/55YQTMVJXNERTMDMZXROFPOVSE/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Sep 2024 02:27:03 +0000</pubDate>
+      <content:encoded>최근 5년간 네이버에서 개인정보를 불법으로 유통해 삭제된 게시물이 8만건에 달하는 것으로 나타났다. 개인정보 불법 유통이란 다양한 경로를 통해 수집된 개인정보가 해킹 등 불법적인 방식으로 유출된 뒤 이를 이용해 이익을 취득하는 것을 뜻한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ASHQ4ET7HOJ367WIGT57PDRWHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개인정보보호위원회 현판. /개인정보보호위원회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 이정문 더불어민주당 의원실이 개인정보보호위원회로부터 받은 자료에 따르면, 지난 2020년부터 올해 8월까지 네이버에서 삭제된 개인정보 불법 유통 게시물은 총 8만930건이다. 네이버에 이어 X(옛 트위터)가 7만869건, X와 비슷한 소셜미디어 니터(Nitter)가 5만3847건이다.&lt;br&gt;&lt;br&gt;이 외 핀터레스트(5만275건), 구글(3만5070건), 페이스북(1만6826건), 인스타그램(1만6039건)이 순위에 올랐다. 그 밖에 디시인사이드나 중국 오픈마켓 타오바오도 이름을 올렸다.&lt;br&gt;&lt;br&gt;네이버에서 삭제된 불법 유통 게시물은 2020년 1만5960건, 2021년 1만5741건, 2022년 1만6651건, 2023년 2만419건으로 증가 추세다. 올해는 8월까지 총 1만2101건이 삭제됐다.&lt;br&gt;&lt;br&gt;불법으로 유통되는 개인정보는 이름, 주민등록번호, 연락처, 이메일 등 다양하다. “주민등록번호가 포함된 네이버 아이디를 판다”는 계정 판매글 등이 올라오는 사례가 대표적이다.&lt;br&gt;&lt;br&gt;개인정보보호위원회는 “개인정보 불법 유통 게시물이 탐지되면 해당 사업자에게 유·무선으로 게시물 삭제를 최소 3회 이상 요청하고 조치 결과를 확인한다”며 “사업자 연락 두절, 폐업 등으로 연락할 수 없는 경우 방송통신심의위원회에 차단 심의 요청을 진행한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “개인정보 불법유통을 선제 차단하기 위해 지난 4월 인천경찰청과 상습 판매자 검거를 위한 협업체계를 구축해 프로파일링 정보와 수사 정보를 정기적으로 공유하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ASHQ4ET7HOJ367WIGT57PDRWHY.jpg?width=1000&amp;height=667&amp;auth=2122aa61c6487d2a9fd12cf6cedcb0fd7ae699a6f4cdd6c2a5e8f6754e7e81c2&amp;smart=true" type="image/jpeg" height="667" width="1000">
+        <media:description type="plain">개인정보보호위원회 명패./개인정보보호위원회 제공</media:description>
+        <media:credit role="author" scheme="urn:ebu">개인정보보호위원회 제공</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>청주 한 여관서 방화 추정 화재.. 투숙객 3명 숨져</title>
+      <link>https://www.chosun.com/national/regional/2024/09/21/IYW25IGIERGNFFQ4F6D7JJ2QVI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/21/IYW25IGIERGNFFQ4F6D7JJ2QVI/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Sep 2024 02:41:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZQFPJ3BUINA65E3HN2DYPS3LEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 1시 44분 충북 청주시 상당구 남주동의 한 여관에서 불이 나 투숙객으로 추정되는 남성 3명이 모두 숨졌다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 오전 1시 44분쯤 충북 청주시 상당구 남주동의 한 여관에서 불이 나 투숙객으로 추정되는 남성 3명이 모두 숨졌다.&lt;br&gt;&lt;br&gt;경찰에 따르면 숨진 남성들은 이 여관에 장기 투숙해 온 50∼80대 남성들이었다. 이들은 2층 방과 복도, 3층 방에서 각각 발견됐다.&lt;br&gt;&lt;br&gt;남성들 중 일부는 불이 나자 밖으로 대피하려다 변을 당한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;불은 1시간 만에 진화됐다.&lt;br&gt;&lt;br&gt;여관 건물 현관입구와 2층으로 올라가는 계단에서는 누군가가 신문지를 이용해 불을 붙인 흔적이 발견됐다.&lt;br&gt;&lt;br&gt;경찰은 주변 CCTV 등을 토대로 전날까지 여관에서 머무르던 40대 남성 A씨를 현주 건조물 방화치사 혐의로 붙잡아 조사를 벌이고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충남, 폭우에 비피해 신고 300건.. 천안·대전서 주민 3명 구조</title>
+      <link>https://www.chosun.com/national/regional/2024/09/21/WM7P3WDCB5FZ5PGD7UIWPAQ5X4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/21/WM7P3WDCB5FZ5PGD7UIWPAQ5X4/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Sep 2024 02:29:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SVHPFJQY3NPXNBJPITGX6QG3OU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;호우경보가 발령된 충남 서산에 지난 20일부터 21일 오전 5시까지 249㎜의 물 폭탄이 쏟아져 서산시 읍내동 저지대 도로가 물에 잠겨 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일과 21일 내린 폭우에 대전·세종·충남에서도 119 신고가 잇따랐다.&lt;br&gt;&lt;br&gt;21일 충남소방본부에 따르면 전날 오후부터 이날 오전 9시까지 접수된 비 피해 관련 119 신고는 모두 243건(안전조치 129건, 배수 지원 113건, 인명구조 1건)이다.&lt;br&gt;&lt;br&gt;이날 오전 2시 18분쯤 충남 천안시 동남구 수신면 한 시설하우스 인근에서는 숙소용 컨테이너가 침수됐다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;출동한 소방당국은 인근 배수로가 범람해 고립됐던 A(63)씨를 무사히 구조했다.&lt;br&gt;&lt;br&gt;이날 오전 1시쯤에는 천안시 동남구 신부동 한 도로에서 물에 잠겨 침수된 승용차 1대가 경찰에 인계됐다. 운전자는 사전에 대피한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;1시간 만에 99.1㎜의 비가 쏟아진 충남 서산시 등 충남 북부 서해안 지역은 바닷물 높이가 높아지는 대조기와 집중호우가 겹쳐 곳곳에서 피해가 속출했다.&lt;br&gt;&lt;br&gt;전날 오후 5시1분쯤 서산시 부석면의 한 상가건물에서는 바닷물이 제방을 넘어 들어와 1층이 침수돼 고립됐다는 신고가 접수됐다. 상인 등 주민들이 대피해 인명피해는 없었다.&lt;br&gt;&lt;br&gt;또 전날 오후 10시 20분쯤부터 5시간여 동안 서산에서만 상가, 아파트, 호텔, 주택, 창고, 도로 등 침수신고 49건이 접수됐다.&lt;br&gt;&lt;br&gt;대전에서도 이날 오전 9시 기준 50건의 비 피해 신고가 들어와 소방 당국이 구급차 등 장비 52대 인력 208명이 안전조치, 배수지원, 인명구조에 나섰다.&lt;br&gt;&lt;br&gt;이날 오전 4시쯤 대전 동구 성남동의 한 다세대주택 1층이 침수되고, 빗물이 역류해 집 안으로 들어오고 있다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S6WPH6DYUNNIZDTXZ6ZQCA5HXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 호우특보가 발효된 충남 서산 팔봉면 고성천 범람으로 도로 경사면이 쓸려나간 마을도로를 SUV가 아슬아슬하게 지나가고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소방당국은 이 주택 집 안에 있던 주민 2명을 구조해 동구청에 인계했다.&lt;br&gt;&lt;br&gt;세종에서는 이날 오전 1시쯤 장군면의 한 도로에 가로수가 쓰러졌고, 조치원읍의 한 단독주택 마당이 침수되는 등 7건의 비 피해 신고가 접수됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면 이날 오전 11시 현재 대전, 세종, 충남 전역에 호우주의보가 내려진 상태다.&lt;br&gt;&lt;br&gt;이날 저녁까지 매우 강한 비가 예보됨에 따라 저지대 침수 및 안전사고 발생위험이 높아 주의가 요구된다.&lt;br&gt;&lt;br&gt;전날부터 이날 오전 10시 10분까지 누적 강수량은 서산 264.9mm, 대전(정림) 264.5mm, 홍성 194.9mm를 기록했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>태풍 ‘풀라산’이 뿌리는 폭우… 부산 등 최대 180㎜, 전국 곳곳 호우특보</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/09/21/FRU5X4N74VDUNLQPCKA7K556QU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/09/21/FRU5X4N74VDUNLQPCKA7K556QU/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Sep 2024 00:35:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W2ULZEIFT5NADC65XMMNUVHRRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 경남 창원시 의창구 감계신도시에서 비바람에 쓰러져 도로를 덮친 가로수를 경남소방본부 직원이 제거하고 있다. /경남소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제14호 태풍 ‘풀라산’에서 약화한 열대저압부의 영향으로, 21일 전국에 강하고 많은 비가 내리겠다. 열대저압부란 태풍 전 단계의 약한 열대저기압을 의미한다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 이날 열대저압부가 우리나라에 접근하면서 서해 남부와 남해를 중심으로 강한 바람과 함께 물결이 매우 높게 일겠다. 기상청은 “열대저압부 이동 경로와 가까운 남부 지방과 제주도를 중심으로 많은 비와 함께 강한 바람이 불겠으니 각별히 주의하시기 바란다”고 밝혔다.&lt;br&gt;&lt;br&gt;이날 오전 9시 기준, 전국 곳곳에 호우 특보가 내려졌다. 충남·충북·전북·경북·경남·제주 일부 지역과 부산·울산에는 호우 경보가 발효됐다.&lt;br&gt;&lt;br&gt;이 시각 남부 지방을 중심으로 시간당 30~50㎜의 매우 강한 비가 내리고 있고, 그 밖의 지역에서는 시간당 10~30㎜의 강한 비가 내릴 전망이다. 특히 부산에서는 시간당 70㎜의 비가 쏟아지고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YC2OJTJ3NVMADC25IDSTAEIWSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오후 부산 해운대구 벡스코에서 우산을 쓴 학생들이 갑자기 굵어진 빗줄기에 힘겹게 걸어가고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수도권과 강원 내륙 지방은 이날 오후 3~6시까지, 충청권과 전라권은 오후 6~9시까지, 경상권은 밤 9~12시까지 비가 내릴 전망이다.&lt;br&gt;&lt;br&gt;이날 예상 강수량은 경기 남부 20∼60㎜, 서울·인천·경기 북부 5∼30㎜, 강원 동해안·산지 30∼80㎜, 강원 내륙 5∼50㎜, 대전·세종·충남·충북 30∼80㎜, 광주·전남·전북 및 대구·경북 30∼80㎜, 부산·울산·경남 30∼100㎜ 등이다. 부산과 울산 등에는 최대 180㎜ 이상 비가 내릴 수도 있다.&lt;br&gt;&lt;br&gt;낮 최고 기온은 20~30도로 예보됐다. 무더위는 누그러졌지만, 평년 기온(11.5~19도)보다는 여전히 높다.&lt;br&gt;&lt;br&gt;하늘은 오는 22일까지 전국적으로 흐리다가, 저녁에 중부 지방부터 맑아지겠다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HUURJKUAPFKP3J2X3AK3ACHGJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;호우경보가 발령된 충남 서산에 지난 20일부터 21일 오전 3시 10분까지 239㎜의 물 폭탄이 쏟아진 가운데 서산시 동문근린공원이 물에 잠겨 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HRCCIAQVHVELPHVWZKAW5YVDAY.gif?width=1400&amp;height=788&amp;auth=567718b562a1c746ad34f268c7c23c76703f480bdaa4c8a624cdfd82fe739cf3&amp;smart=true" type="image/jpeg" height="788" width="1400"/>
+    </item>
+    <item>
+      <title>창원 341.6mm 물폭탄.. 경남서 전봇대 쓰러지고 침수 피해 속출</title>
+      <link>https://www.chosun.com/national/regional/2024/09/21/YNNFE3U5K5HMJHFMMWTAMFSG6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/21/YNNFE3U5K5HMJHFMMWTAMFSG6E/</guid>
+      <dc:creator>창원=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Sep 2024 02:11:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IBA4CUXZYRM2LCMGA67L4JUEA4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오후 창원시 의창구 북면의 도로 위로 가로수가 쓰러져 창원소방본부가 안전 조치를 하고 있다. /경남소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일과 21일 전국에 폭우가 쏟아진 가운데 경남에서는 창원 등에 최대 340mm가 넘는 집중호우가 내려 크고 작은 피해가 잇따랐다.&lt;br&gt;&lt;br&gt;21일 경남·창원소방본부에 따르면 이날 오전 8시 기준 호우 관련 신고가 119건 접수됐다.&lt;br&gt;&lt;br&gt;소방 당국은 이날 오전 4시 37분 경남 진주시 이반성면 한 도로에 나무가 쓰러졌다는 신고를 받아 현장으로 출동해 안전조치를 했다. 이날 오전 3시 31분에는 김해시 진례면 한 비닐하우스가 잠기려 한다는 신고에 배수작업을 진행했다.&lt;br&gt;&lt;br&gt;또 오전 1시 41분에는 창원시 마산회원구 합성동 한 도로에 전봇대가 넘어져 소방 당국이 현장을 수습했다.&lt;br&gt;&lt;br&gt;20일 오후 9시 43분에는 산청군 차황면 내곡마을 입구 인근에 나무가 쓰러져 도로 통행을 방해해 치우기도 했다.&lt;br&gt;&lt;br&gt;다행히 현재까지 인명피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;21일 오전 10시 기준 경남 전 지역에 호우 특보가 발령됐다. 창원·고성·양산·김해·사천 지역은 호우 경보가 내려졌다.&lt;br&gt;&lt;br&gt;같은 시간 누적 강수량은 △창원 341.6mm △고성 251mm △김해 241.5mm △사천 219mm △양산 214.1mm △합천 141mm 등을 보였다.&lt;br&gt;&lt;br&gt;경남재난안전대책본부는 비상 2단계를 가동해 2700여 명의 공무원이 비상근무 태세를 갖추고 호우 대비 안전관리에 집중했다.&lt;br&gt;&lt;br&gt;산사태와 누수가 우려되는 창원, 합천, 진주 등 일부 지역의 도민 246명을 급히 대피시켰으며, 도내 세월교·산책로·둔치 주차장 등 276곳을 통제했다.&lt;br&gt;&lt;br&gt;부산지방기상청은 이날 오후 늦게까지 시간당 30~50mm의 매우 강한 비가 지속될 것으로 예보하며 저지대 침수와 안전사고에 각별히 유의할 것을 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>텔레그램 통해 대마 100회분 구매한 20대 男, 징역형 집행유예 선고</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/21/XPURNWX74BBJPOHQFR7CDK4GC4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/21/XPURNWX74BBJPOHQFR7CDK4GC4/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Sep 2024 01:31:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/55KPK7STM5DSRF45BUXWY5CV7Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;텔레그램을 통해 약 50g의 대마를 구매한 20대 남성이 2심에서도 징역형 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;서울고법 형사7부(재판장 이재권)는 마약류 관리에 관한 법률 위반(대마) 혐의로 재판에 넘겨진 전모(25)씨에게 원심과 같은 징역 1년에 집행유예 2년을 선고하고 보호관찰을 명령했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;경찰 조사 등에 따르면 전씨는 2021년 2월 2일 텔레그램 대마 매매 채널을 통해 알게 된 마약류 판매자에게 78만원 상당의 비트코인을 송금하고, 판매자로부터 대마 은닉 위치를 전송 받았다.&lt;br&gt;&lt;br&gt;전씨는 같은 날 오후 10~11시 사이 서울 성동구의 한 빌라 앞 화단 흙 속에 숨겨진 7g 상당의 대마를 취득했다.&lt;br&gt;&lt;br&gt;전씨는 이 무렵부터 그해 3월 24일까지 똑같은 방법으로 총 11회에 걸쳐 합계 약 51g의 대마를 찾아갔다. 총 지불한 금액은 640여만원에 이르렀다. 대마 1회 흡연량이 일반적으로 0.5g인 것을 감안하면 100회 정도 흡연할 수 있는 분량이다.&lt;br&gt;&lt;br&gt;1심 재판부는 “마약류 관련 범죄는 개인의 육체와 정신을 피폐하게 할 뿐만 아니라 중독성, 환각성 등으로 인해 또 다른 범죄를 유발할 수 있어 사회에 미치는 해악이 크다”면서도 “전씨와 함께 거주하고 있는 부모가 전씨의 재범을 방지하고 올바른 길로 이끌겠다고 다짐하는 등 선처를 탄원하고 있다”고 언급하며 징역형 집행유예를 선고했다. 그러면서 보호관찰을 받을 것도 명했다. 보호관찰은 범죄자를 교도소 등에 수용하지 않고 사회 생활을 하게 하는 대신 일정한 감독과 지도를 받도록 하는 처분이다.&lt;br&gt;&lt;br&gt;전씨와 검찰 측 모두 항소했고, 2심 재판 과정에서 전씨는 원심의 형이 너무 무거워 부당하며 본인은 ‘마약류를 투약, 흡연 또는 섭취한 사람’이 아니기 때문에 보호관찰 처분의 대상에 포함될 수 없다는 취지로 주장했다.&lt;br&gt;&lt;br&gt;2심 재판부는 “원심이 피고인에 대해 보호관찰을 명한 것은 정당하다. 1심의 양형이 재량의 합리적인 범위를 벗어나지도 않았다”고 지적하며 전씨와 검찰 측 항소를 모두 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>폭우 200mm 내린 부산서 대형 싱크홀.. 트럭 2대 빠져</title>
+      <link>https://www.chosun.com/national/regional/2024/09/21/3LWYCAVSYNFNLIO7OZWJHRJKXU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/21/3LWYCAVSYNFNLIO7OZWJHRJKXU/</guid>
+      <dc:creator>부산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Sep 2024 01:40:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GXPNYLWSUZJWTJ3WQZMZLSVOBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 8시 45분쯤 부산 사상구 한 도로에서 가로 10ｍ, 세로 5ｍ, 깊이 8m가량의 대형 싱크홀이 발생해 트럭 2대가 빠져있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 부산에 200㎜가 넘는 폭우가 쏟아지는 가운데 도로에 대형 땅꺼짐(싱크홀) 현상이 발생해 트럭 2대가 빠지는 사고가 났다.&lt;br&gt;&lt;br&gt;부산소방재난본부에 따르면 이날 오전 8시 45분쯤 부산 사상구 한 도로에서 가로 10ｍ, 세로 5ｍ, 깊이 8m가량의 대형 싱크홀 현상이 발생했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3SVW2WDM5FCWRFPARFREOBZC3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 8시 45분쯤 부산 사상구 한 도로에서 대형 싱크홀이 발생해 트럭 2대가 빠졌다. /부산소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사고로 당시 도로에서 배수 지원을 나갔던 부산소방본부 배수 차량이 싱크홀에 빠졌고, 바로 옆으로 지나가던 5t 트럭도 구멍으로 빠지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;소방 당국은 이 사고로 인한 인명피해는 없다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 현재 사고 현장 주변을 통제하고 있다.&lt;br&gt;&lt;br&gt;부산 사상구는 사고 수습을 하면서 정확한 원인을 파악하고 있다. 사상구에서는 올해 들어 땅꺼짐 현상이 계속 발생하고 있다.&lt;br&gt;&lt;br&gt;지난달 21일 사상구 감전동에서 지름 약 5ｍ, 깊이 3ｍ의 대형 싱크홀이 발생하는 등 같은 달에만 3차례 땅 꺼짐이 있었다.&lt;br&gt;&lt;br&gt;올해 4월, 5월, 7에도 한 차례씩 발생했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>우편함 속 선거공보물 무심코 버렸다가.. 관리소 직원 벌금형</title>
+      <link>https://www.chosun.com/national/regional/2024/09/21/SZTBOTWEEBDNFIGXQRBTDTIXJA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/21/SZTBOTWEEBDNFIGXQRBTDTIXJA/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Sep 2024 01:01:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CFQH4ZBTOD4J5XI65CQQZBMYFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;우편함에 꽂혀있는 선거공보물. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우편함에 꽂혀있던 국회의원선거 투표안내문과 선거공보물을 무심코 분리수거장에 버린 관리사무소 직원이 투표권을 잃고 벌금도 내게 됐다.&lt;br&gt;&lt;br&gt;춘천지법 형사2부(재판장 김상래)는 공직선거법 위반 혐의로 기소된 A(41)씨에게 벌금 250만원을 선고했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;춘천시 한 오피스텔 관리사무소에서 일하는 A씨는 지난 4월 1일 춘천시선거관리위원회가 오피스텔에 사는 유권자들에게 보낸 제22대 총선 투표안내문과 선거공보 109부를 우편함에서 수거해 분리수거장에 버렸다.&lt;br&gt;&lt;br&gt;이 일로 A씨는 부정한 방법으로 선거의 자유를 방해한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;재판부는 “선거의 자유를 방해하는 범죄는 선거인의 알 권리, 선거의 공정성, 선거관리의 효율성을 해한다는 점에서 죄책이 가볍지 않고, 폐기한 투표안내문과 선거공보의 분량도 적지 않다”고 지적했다.&lt;br&gt;&lt;br&gt;이어 “다만 잘못을 반성하는 태도를 보이는 점과 선거에 영향을 미치려는 정치적인 의도나 특정 후보자의 선거운동을 방해할 목적은 없었던 것으로 보이는 점 등을 참작했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;선거범죄로 벌금 100만원 이상의 형이 확정되면 5년간 선거권이 제한된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충청·경상권 호우 확대에 중대본 2단계 격상…침수 피해 속출</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/21/IQEM4OME6NFGFHVBVBBGIOKIPE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/21/IQEM4OME6NFGFHVBVBBGIOKIPE/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Sep 2024 00:14:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5TXQTUFE35KZTKTXP6GYUU4UJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 남부 지역에 20~21일 시간당 최대 60㎜가 넘는 폭우가 쏟아졌다. 사진은 소방당국이 밤사이 침수된 평택 세교지하차도에서 양수기를 통해 배수 작업을 벌이고 있는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 밤 사이 전국에 많은 비가 내리면서 도로와 주택이 물에 잠기는 등 피해가 속출하고 있다. 정부는 21일 오전 1시부로 중앙재난안전대책본부(중대본)를 1단계에서 2단계로 격상하고, 호우 위기경보 수준은 주의에서 경계로 올렸다.&lt;br&gt;&lt;br&gt;21일 행정안전부 중대본에 따르면, 이날 오전 5시 기준 호우로 인해 충남과 충북 지역 주택 10곳이 물에 잠겼다. 상가 11곳, 공장 2곳, 병원 1곳, 차량 1건이 전날 호우로 침수됐고, 경남·세종·충북·충남에서는 7건의 토사 유출 피해가 발생했다.&lt;br&gt;&lt;br&gt;경기·경남·충북·충남 도로 54곳이 침수됐고, 충남에서는 옹벽이 무너지는 등 공공시설 피해도 속출했다. 현재까지 비로 인한 인명 피해는 발생하지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;전날 호우로 이날 오전 4시 기준 4개 시·도 18기 시군구에서 342가구(506명)가 일시 대피했다. 이 중 330가구(494명)가 아직 귀가하지 못했다. 경북(436명), 부산(37명), 경남(18명), 충남(15명) 등이다.&lt;br&gt;&lt;br&gt;차량 통행도 통제되고 있다. 부산(2곳), 인천(1곳), 세종(4곳), 강원(11곳), 경기(8곳), 충남(6곳), 경북(1곳), 경남(1곳)의 도로 통행이 막혔고, 전국의 지하차도 41곳에 대한 진입이 금지됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SVHPFJQY3NPXNBJPITGX6QG3OU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;호우경보가 발령된 충남 서산에 지난 20일부터 21일 오전 5시까지 249㎜의 물 폭탄이 쏟아진 가운데 서산시 읍내동 저지대 도로가 물에 잠겨 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17개 국립공원 430구간, 둔치주차장 132곳, 하천변 3535곳, 도로 34곳, 하상도로 24곳, 수월교 274곳, 야영장과 캠핑장 11곳 등도 통제된 상태다. 목포와 홍도, 여수와 거문 등을 오가는 여객선 41척도 끊겼다.&lt;br&gt;&lt;br&gt;앞서 정부는 중부지방과 충청권, 경상권에 강한 비가 예상됨에 따라 지난 20일 오전 9시 30분부터 호우 위기 경보 수준을 관심에서 주의로 상향하고, 중대본 1단계를 가동한 바 있다. 정부는 “강수 집중 시간대 외출과 취약지역·시설에 대한 접근을 자제해 안전에 유의해달라”고 당부했다．&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/SVHPFJQY3NPXNBJPITGX6QG3OU.jpg?width=478&amp;height=361&amp;auth=ee851eb5ba4e98448f77655d89825eb725bb7bdd5daa4055bd5c63f22d739802&amp;smart=true" type="image/jpeg" height="361" width="478">
+        <media:description type="plain">&lt;YONHAP PHOTO-1231&gt; 249㎜ 폭우에 잠긴 서산시 읍내동 도로
+
+    (서산=연합뉴스) 호우경보가 발령된 충남 서산에 지난 20일부터 21일 오전 5시까지 249㎜의 물 폭탄이 쏟아진 가운데 서산시 읍내동 저지대 도로가 물에 잠겨 있다. 2024.9.21 [독자 제공. 재판매 및 DB 금지]
+    cobra@yna.co.kr/2024-09-21 05:45:42/
+&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">대전충남취재본부</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“근친상간 허용해야” 10년간 딸 성폭행한 친부의 황당 주장</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/21/QNXHHSCLLFCH7CHOIQ4R6PMJNQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/21/QNXHHSCLLFCH7CHOIQ4R6PMJNQ/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Sep 2024 00:13:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HC5UFRKA6NOBE7TUP5TEJCTY5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고법 춘천재판부. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;약 10년 가까이 친딸을 성폭행하고선 근친상간이 사회적으로 허용되어야 한다고 주장한 아버지가 중형을 선고받았다.&lt;br&gt;&lt;br&gt;21일 법조계에 따르면 서울고법 춘천재판부 형사1부(민지현 부장판사)는 성폭력범죄의 처벌 등에 관한 특례법상 친족 관계에 의한 강간과 살인미수 등 혐의로 기소된 A씨에게 징역 25년을 선고하고, 20년간 위치추적 전자장치(전자발찌) 부착 명령과 아동·청소년 관련 기관 등과 장애인 관련 기관에 10년간 취업제한을 명령했다.&lt;br&gt;&lt;br&gt;A씨는 약 10년간 딸을 상대로 상습적으로 성적 학대한 혐의로 재판에 넘겨졌다. 조사 결과 A씨는 2∼3주에 1회 또는 월 1회 범행을 일삼았으며, 피해자가 싫다고 하면 때릴 듯한 행동을 보였다. 심지어 피해자가 성관계를 거부하자 일산화탄소 중독으로 피해자를 살해하려다 미수에 그쳤다.&lt;br&gt;&lt;br&gt;그러나 A씨는 피해자와 친밀한 관계였을 뿐이라며 혐의를 대부분 부인했으며, 혈연 관계인 딸과의 성관계를 처벌 대상으로 삼는 현행법이 개인의 자유 의지를 부당하게 억압한다며 도리어 자신의 범행을 정당화했다.&lt;br&gt;&lt;br&gt;1심 재판부는 “피해자가 건강하게 성장하도록 보호하고 양육할 책임을 도외시한 채 뒤틀린 성욕을 해소하는 소모적인 성적 도구로 여기며 장기간 추행하고 간음했다”며 “피해자와 합의하고 성적 관계를 맺었고, 이런 관계가 사회적으로 허용될 필요가 있다는 취지로 변소하기도 하는 등 성폭력 범죄를 정당화했다”며 징역 25년을 선고했다.&lt;br&gt;&lt;br&gt;항소심 재판부 판단도 원심과 다르지 않았다. 항소심 재판부는 “피해자가 겪었을 육체적·정신적 고통과 상실감은 실로 상상하기조차 어렵다”며 “근친 사이의 성적 관계가 사회적으로 허용되어야 한다고 주장하는 등 범행을 반성하고 있지 않으며 개선될 가능성도 상당히 희박해 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“곽튜브 싫어해 허위 사실 유포”... 절도 의혹  배포자, 고2 학생</title>
       <link>https://www.chosun.com/national/national_general/2024/09/21/7HNRYIPFVZAS3JRGUGNZCQLOIU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/21/7HNRYIPFVZAS3JRGUGNZCQLOIU/</guid>
@@ -840,38 +943,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMHZZYUH2RGWRMPJ4OYNAVNLJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤상구_피플_국제로타리_차차기(2026~27년)_세계회장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤상구 동서코포레이션 CEO(대표이사)가 민간 자원봉사단체인 국제로타리의 차차기(2026~2027년도) 세계회장으로 공식 확정됐다. 한국인 국제로타리 세계회장은 이번이 두번째다. 윤 회장은 윤보선 전 대통령의 장남으로, 국제로타리 세계이사, 로타리재단 부이사장 등을 거쳐 현재 한국 로타리 백주년기념회 회장을 맡고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[두근두근 뇌 운동] [2465] 제목 외우기</title>
-      <link>https://www.chosun.com/national/nie/2024/09/20/JNDBTC6IS5CSFFGCOXNE2TVJWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/09/20/JNDBTC6IS5CSFFGCOXNE2TVJWM/</guid>
-      <description/>
-      <pubDate>Thu, 19 Sep 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DNFMVUAVVVGXFJUNYZHRKJUF34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 만시지탄(晩時之歎)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/09/20/YKNYHLK5ZNFN7H5HHXA7HIUZLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/09/20/YKNYHLK5ZNFN7H5HHXA7HIUZLA/</guid>
-      <description/>
-      <pubDate>Thu, 19 Sep 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SWVDZNCKUNCKJHFHE7VF3OYVAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 시치미를 떼다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/09/20/74YZI3MQ4NA7VAC7DA4OLESVFA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/09/20/74YZI3MQ4NA7VAC7DA4OLESVFA/</guid>
-      <description/>
-      <pubDate>Thu, 19 Sep 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q3JB73G5UBHDRGUY5VPWOL6TWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 침수 차량</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/09/20/76QBLKXVUFEJ5MGV5KTITUVFZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/09/20/76QBLKXVUFEJ5MGV5KTITUVFZ4/</guid>
-      <description/>
-      <pubDate>Thu, 19 Sep 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6XKBXMNPZGETHKLKYMDWZ3TRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[스피킹이 강해지는 영어] worlds apart</title>
       <link>https://www.chosun.com/national/nie/english/2024/09/20/7QAYEWMAGBHJHDDZCVAJHIHRFY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/09/20/7QAYEWMAGBHJHDDZCVAJHIHRFY/</guid>
@@ -887,57 +958,6 @@
       <description/>
       <pubDate>Thu, 19 Sep 2024 15:35:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VC5UQM4MGNFQZPM65EIMXSC2JI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11일 만난 안성재 셰프는 “심사위원이든 참가자든 자리는 중요하지 않았다. 외식업 발전을 바라며 출연한 선후배들이 존경스러웠다”고 했다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“한국의 외식 산업을 보여줄 기회라 생각했어요. 미쉐린 가이드처럼 정보를 줄 수 있는 큰 플랫폼이잖아요.”&lt;br&gt;&lt;br&gt;세계의 미식 정보를 제공하는 미쉐린 가이드 서울 최신판(2024)에서 가장 높은 3스타를 받은 레스토랑 ‘모수 서울’의 안성재(42) 셰프가 넷플릭스에 나왔다. 17일 공개된 요리 경연 예능 프로그램 ‘흑백요리사: 요리 계급 전쟁’에 백종원 더본코리아 대표와 심사위원으로 나선 것이다. 국내 레스토랑 ‘가온’과 ‘라연’도 3스타를 받았지만, 작년 라연이 2스타로 내려가고 가온이 폐업하면서 모수 서울의 안 셰프는 현재 국내 유일한 3스타 셰프다. 2019년 미쉐린 1스타로 시작해 2020~2022년 2스타, 2023~2024년 3스타를 받았다.&lt;br&gt;&lt;br&gt;안 셰프는 영국의 고든 램지처럼 대외 활동을 활발히 하는 스타 셰프는 아니다. 2015년 케이블 채널 요리 예능에 출연한 적이 있지만 “우스개가 되는 게 싫어서” 몇 번 출연 후 접었고 이후 방송 활동은 하지 않았다. 지난 11일 만난 그는 여전히 ‘셰프테이너(셰프+엔터테이너)’와는 선을 그으며 “많은 셰프가 인생과 자존심을 걸고 요리를 한다. 웃음거리로 쓰이지 않아야 한다는 점을 제작진에게 확인한 뒤 ‘흑백요리사’에 나오게 됐다”고 밝혔다. “요즘 외식업이 어렵고 특히 파인 다이닝은 풀(pool)이 작기 때문에 ‘나 혼자 잘되면 된다’는 마음은 위험해요. 외식업의 수요와 시장을 키우는 데 출연이 도움이 될 거라 생각했습니다.”&lt;br&gt;&lt;br&gt;그의 예능 출연이 이목을 끈 건 모수 서울이 휴업한 뒤 나온 첫 행보였기 때문이기도 하다. CJ제일제당에서 투자를 받아 2017년 서울 한남동에 모수 서울을 열었지만, 계약 기간이 끝나며 올 초 문을 닫았다. 이를 두고 추측이 무성했다. 이에 대해 안 셰프는 “무한한 믿음으로 지원해준 굉장히 고마운 파트너였지만, 기업의 사업 방향과 제가 원하는 요리사로서 삶의 방향이 서로 맞지 않아 제 선택으로 나온 것일 뿐”이라며 “현재는 대기업이 아닌 새로운 파트너와 함께 제가 원하는 것들을 반영해 새 매장을 준비하고 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3BTQVSMBEFEFTBDORLKBKWG5MU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;넷플릭스 예능 '흑백요리사'에 심사위원으로 출연한 백종원(왼쪽) 더본코리아 대표와 안성재 모수 서울 셰프. /넷플릭스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안 셰프는 ‘흑백요리사’에서 기본을 중시하는 냉철한 평가자로 나온다. 일부 참가자에게는 감탄을 하기도 한다. 유명 셰프 20인과 대결하는 무명 요리사 80명 중에는 만화책으로 음식을 배운 참가자부터 수십년간 학교 급식을 조리해온 참가자도 있다. 안 셰프는 “저는 요리를 보수적으로 배웠고 저만의 생각이 뚜렷한데, 그걸 확 부수는 참가자들이 있었다”면서 “음식이 전혀 뒤지지 않아 이렇게도 음식에 접근이 가능하구나 깨닫는 계기가 됐다”고 했다.&lt;br&gt;&lt;br&gt;출연자들이 보여주는 탄탄한 기본기는 요즘 소셜미디어 바람을 타고 빠르게 뜨고 지는 외식 업계에 시사하는 점도 있다. “인플루언서의 소개 등으로 하루아침에 성공을 이룬 듯한 분들이 보이기도 해요. 하지만 들여다보면 대부분 그렇지 않거든요. 몇 년 후 굉장히 힘들어하거나 사라져요.” 안 셰프는 “지속적으로 좋은 아이디어가 나오려면 비즈니스와 삶이 하나가 돼 매 순간을 요리사로 살아가지 않으면 어렵다”고 지적했다. “공부를 잘하는 애가 반드시 요리도 잘하는 건 아니지만, 하고자 하는 음식이 어떻게 발전해왔는지 많이 파고들고 알면 알수록 더 많은 것을 할 수 있어요. 그런데 패기만 가지고 유행을 좇으면 음식이 얕아지고 한두번 먹고 나면 더 이상 찾지 않는 음식이 될 수밖에 없는 거죠.” 그는 이번 프로그램을 계기로 요리사들이 서로 도전적인 경험을 주고받았으면 좋겠다고 했다.&lt;br&gt;&lt;br&gt;당초 6월에 문을 열 것으로 알려졌던 모수 서울의 새 매장은 일정이 지체되면서 올겨울 이태원동에 문을 열게 됐다. 그는 “미쉐린 별 개수에 집착하지 않으려 노력한다”면서 “다만 1스타 때는 자유롭게 산에서 재료도 따와 만들었는데, 3스타가 된 뒤에는 한국의 외식 시장에 대한 평가로 이어질 수 있기에 잘해야 한다는 생각을 가지고 한다”고 했다. 그는 레스토랑에 투자가 이뤄지는 속도, 이를 받아들이는 고객의 속도, 법이나 제도가 변화하는 속도가 모두 다르다는 이야기도 했다. 외국 음식 식당이 늘어나는 만큼 외국 재료도 유연하게 쓸 환경도 필요하다는 것이다. “설탕 종류도 수십가지인데, 한국에 있는 설탕은 한 종류예요. 미국에서 만든 다른 설탕을 들여오고 싶으면 세금을 정말 많이 내야 해요. 여러 부분이 함께 성장한다면 한국의 외식업도 세계적인 붐을 일으킬 수 있지 않을까요.”&lt;br&gt;&lt;br&gt;&lt;b&gt;☞안성재(42)&lt;/b&gt;&lt;br&gt;&lt;br&gt;13세에 미국 이민을 갔다. 자동차 정비사가 되려다가 우연히 요리 학교 홍보물을 접하고 ‘100% 취업 보장’이라는 말에 요리사의 길을 걷게 됐다. 2015년 레스토랑 ‘모수 샌프란시스코’를 열었고 8개월 만에 미쉐린 가이드 1스타를 받는다. 이후 서울로 돌아와 2017년 용산구 한남동에 ‘모수 서울’을 열었다. 2023~2024년 국내 최연소 셰프로 미쉐린 3스타를 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 감사원 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/09/20/E6ATNSDY6ZDFDEJNVQMJO4QZAY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/09/20/E6ATNSDY6ZDFDEJNVQMJO4QZAY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Sep 2024 15:35:00 +0000</pubDate>
-      <content:encoded>▲감사원◇과장 전보▷미래전략감사국 제1과장 한상우&lt;br&gt;&lt;br&gt;▲외교부▷공공외교총괄과장 허정애&lt;br&gt;&lt;br&gt;▲법무부◇고위공무원 전보▷서울출입국·외국인청장 반재열&lt;br&gt;&lt;br&gt;▲우주항공청◇과장급▷감사담당관 김건태&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>현승훈 ‘자랑스러운 부산시민상’</title>
-      <link>https://www.chosun.com/national/people/2024/09/20/G7K6KCZCKVCBNHP6HE3SJHDCRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/20/G7K6KCZCKVCBNHP6HE3SJHDCRA/</guid>
-      <description/>
-      <pubDate>Thu, 19 Sep 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HSODQFIECNGOTIWCIBXBKNWHQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현승훈 화승그룹 회장이 19일 ‘제40회 자랑스러운 부산시민상’ 대상 수상자로 선정됐다. 부산시는 “현 회장이 지역 경제 발전과 일자리 창출에 크게 기여했다”고 밝혔다. 시상식은 10월 4일.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김낙선 6·25 참전 유공자 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/09/20/O3AIIMORLBEYNG3RC544KDB4AU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/09/20/O3AIIMORLBEYNG3RC544KDB4AU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Sep 2024 15:35:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김낙선&lt;/b&gt; 6·25 참전 유공자 별세, &lt;b&gt;김흥래&lt;/b&gt;·&lt;b&gt;김붕래&lt;/b&gt;·&lt;b&gt;김시래&lt;/b&gt; 前 중앙일보 경제에디터·&lt;b&gt;김창래&lt;/b&gt; 前 대한항공 기장 부친상, &lt;b&gt;김명숙&lt;/b&gt;·&lt;b&gt;강백향&lt;/b&gt;·&lt;b&gt;이상원&lt;/b&gt; 시부상=19일1시30분, 충남 당진종합병원, 발인 21일5시30분, (041)358-4414&lt;br&gt;&lt;br&gt;▲&lt;b&gt;채치범&lt;/b&gt; 포항공대 생명과학과 명예교수 별세=18일15시34분 건국대병원, 발인 21일8시30분, (02)2030-7940&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>소설가 한강 ‘포니정 혁신상’</title>
-      <link>https://www.chosun.com/national/people/2024/09/20/OUPAVR5SLVHF5OYSEBIPJFX6SQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/20/OUPAVR5SLVHF5OYSEBIPJFX6SQ/</guid>
-      <description/>
-      <pubDate>Thu, 19 Sep 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ELE5WXJFFEHTI625VBOXBH4DM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소설 ‘채식주의자’로 영국 부커상을 받은 작가 한강(54)이 18회 ‘포니정 혁신상’ 수상자로 19일 선정됐다. 정몽규 포니정재단 이사장은 “국내는 물론 외국 독자의 공감대까지 불러일으키는 흡인력으로 한국 문학의 위상을 높였다”고 선정 이유를 밝혔다. 이 상은 현대차 초대 사장이었던 고(故) 정세영 현대산업개발 명예회장의 애칭인 ‘포니(현대차 자동차 모델) 정’에서 이름을 따 지난 2006년 제정됐다. 상금은 2억원이며, 시상식은 다음 달 17일 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 9월 20일</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/20/AF4AIG5TIRGSVICEZWU6T7XSDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/20/AF4AIG5TIRGSVICEZWU6T7XSDY/</guid>
-      <description/>
-      <pubDate>Thu, 19 Sep 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/65AZSL6JAVHW5NWYYY7UVYJ6PM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>친구같던 사이서 운명 공동체로… “아이 셋, 특별한 선물 받았죠”</title>
-      <link>https://www.chosun.com/culture-life/culture_general/2024/09/20/VZDLKJTHQBAE7FDMX5642B3ODI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2024/09/20/VZDLKJTHQBAE7FDMX5642B3ODI/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Sep 2024 15:30:00 +0000</pubDate>
-      <content:encoded>갓 두 돌이 된 세 쌍둥이 신우·인우·강우(2)를 키우는 신정(33)씨와 박총명(35)씨는 기러기 부부다. 남편 박씨는 중국 베이징에서 해외 연수를 하고 있다. ‘육아는 전쟁’이라는데, 기러기 부부의 육아는 어떨까. 남편 박씨가 추석을 앞두고 휴가차 귀국해있던 지난 13일 경기도 수원 광교의 한 카페에서 부부를 만나 이야기를 들어봤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KMH7JVIJZ5FB7L3RXQ5DG7UDNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 강원도 강릉에서 신정·박총명씨 부부와 두 돌을 맞은 세 쌍둥이가 가족여행 사진을 찍었다. 왼쪽부터 아내 신씨, 강우·신우, 남편 박씨, 인우. 신씨는 "세 아이가 동시에 카메라를 보면서 웃는 사진은 처음"이라고 했다. 중국 베이징에서 연수 중인 박씨는 추석 연휴를 앞두고 귀국했다. /신정·박총명씨 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들은 삼성전자 사무직 사내 커플이다. 신입 사원이던 2014년 처음 만났고, 2017년에 결혼했다. 박씨는 “어차피 결혼할 거라면, 빨리 해서 같은 집에 살고 싶었다”고 했다. 부부의 취미는 여행. 아이들을 낳기 전까지 부지런히 해외를 다녔다. 지금까지 다녀온 국가가 40국을 넘고, 2019년 휴가 때 아프리카에 다녀온 것이 특히 기억에 남는다고 했다.&lt;br&gt;&lt;br&gt;부부는 아이 셋을 낳은 데 대해 “특별한 선물을 받은 느낌”이라고 입을 모았다. 부부는 “2~3명의 아이가 있는 삶을 항상 꿈꿔왔다”면서도 “세 쌍둥이를 낳게 될지는 꿈에도 몰랐다”고 했다. 임신 과정이 쉽지는 않았다. 1년 가까운 임신 시도에도 아이가 들어서지 않았다. 박씨는 “임신을 위해 병원에 다니면서 ‘다산의 기운’을 얻기 위해 미국 시트콤 ‘프렌즈’에 등장하는 주인공 중 한 명인 ‘피비’의 모습을 일부러 시청하기도 했다”고 말했다. 극 중 피비는 세 쌍둥이를 출산한다. 출산 직전에는 아내 신씨가 코로나에 감염되는 일도 있었다. 박씨는 “당시에는 코로나에 감염되면 2주간 의무 격리를 해야 해서, 아내가 남편 없이 출산하게 될까 봐 걱정을 많이 했다”며 “격리 해제 이틀 후 아이들이 세상에 나왔다”고 했다.&lt;br&gt;&lt;br&gt;그렇게 육아가 시작됐다. 부부는 “아기들을 키워본 적도 없었는데, 셋을 동시에 키우려니 정말 힘들었다”고 했다. 부부는 ‘육아 근무 스케줄’을 짜서 교대로 아이들을 봤다.&lt;br&gt;&lt;br&gt;남편 박씨가 해외로 나간 것은 아이들이 18개월쯤 된 올해 3월이다. 박씨는 “회사에서 먼저 연수 제안을 해왔다”며 “애들이 어려서 손이 많이 갈 때라서 고심 끝에 거절했다”고 했다. 이런 이야기를 들은 신씨가 ‘왜 그런 좋은 기회를 스스로 발로 차느냐’고 해서 지원했다고 한다. ‘아이들이 어린데 남편을 해외로 보내는 결정이 쉽지 않았겠다’고 묻자, 신씨는 “사전에 육아 공부가 부족했던 것 같다”며 웃었다. 그는 “아이들이 18개월쯤 되니 ‘혼자서도 충분히 육아를 할 수 있을 것 같다’는 마음으로 승낙을 했지만, 막상 혼자 키워보니 쉽지 않았다”면서도 “남편이 좋은 기회를 받은 것이니 그때로 돌아가더라도 같은 선택을 할 것 같다”고 했다. 신씨의 부친이 오랜 기간 해외 주재원 생활을 했던 것도 이 같은 결정에 도움이 됐다고 한다.&lt;br&gt;&lt;br&gt;그래도 혼자 아이 셋을 보는 건 쉽지 않다. 남편이 없으니 외출도 쉽지 않다는 게 신씨의 설명이다. 운전을 하지 않는 신씨는 아이들과 외출할 때면 대리운전 기사를 부른다. 그 차에 유모차 등 각종 육아 물품을 싣고 동물원으로, 놀이공원으로 향하는 것이다. 돌아올 때도 마찬가지로 대리운전 기사를 불러 귀가한다고 했다.&lt;br&gt;&lt;br&gt;아이들과 아빠가 떨어져 있다 보니 훈육도 쉽지 않다. 아이들이 두 돌이 된 최근에는 이를 특히 절감한다고 한다. 밥을 먹이고, 씻기고, 육아를 하다 보면 훈육할 시간도 모자라는 경우가 많다. 오롯이 신씨의 몫이 된다. 박씨는 “아내와 통화를 하다 보면 너무 힘들어해서 ‘연수를 포기할까’라는 생각도 하게 된다”면서도 “연수를 마치고 한국에 돌아왔을 때 가족에게 더 잘해줘야겠다는 다짐을 거듭 하면서 버티고 있다”고 했다. 부부는 한 달에 두 번씩 2시간 넘게 통화하며 훈육 방향을 잡는다고 한다. 신씨는 “남편에게 울면서 전화할 때도 있지만, ‘지금도 잘하고 있다’는 남편의 격려가 큰 힘이 된다”고 했다.&lt;br&gt;&lt;br&gt;그래도 아이는 행복이다. 친구처럼 지내던 부부는 출산 이후 비로소 ‘운명 공동체’가 됐음을 실감한다고 한다. 박씨는 “아이들을 키우며 서로의 역할과 책임이 더 명확해졌고, 그 과정에서 서로를 더욱 깊이 이해하게 됐다”며 “부부 사이의 소통이 정말 중요하다는 것을 깨닫게 됐고, 비록 지금은 떨어져 있지만 이전보다 더 돈독한 관계를 유지하고 있다”고 했다.&lt;br&gt;&lt;br&gt;신씨는 “출산하게 되면 삶의 많은 부분을 희생해야 한다”면서도 “세 쌍둥이를 키우며 포기한 것도 많지만, 다시 돌아간다고 해도 무조건 아이들을 낳을 것”이라고 했다. 박씨도 “아이를 낳으면 감정과 경험의 폭이 훨씬 커진다”며 “출산을 고민하고 있는 친구들에겐 가급적 두 명 이상 낳기를 추천하고 있다”고 했다. 아이들이 애교를 부릴 때, 과자 같은 간식을 아빠와 엄마에게 먼저 건네줄 때 부부는 특히 행복을 느낀다고 한다. 아이들의 성장을 보며 부모도 함께 성장하고 있는 것이다.&lt;br&gt;&lt;br&gt;부부는 육아에 가장 도움이 된 제도로 육아휴직을 꼽았다. 신씨는 지금도 육아휴직을 하면서 아이들을 돌보고 있다. 삼성전자는 아이 한 명당 2년의 육아휴직을 제공한다. 세 쌍둥이는 도합 6년이 가능하다. 신씨는 고위험 임신이어서 임신 기간부터 육아휴직에 들어가 현재 3년째 휴직 중이다. 신씨는 “휴직을 통해 아이들과 함께하는 시간을 가질 수 있었고, 덕분에 아이들의 성장과 발달을 직접 눈으로 지켜볼 수 있는 소중한 시간을 갖게 됐다”며 “관련 법에는 육아휴직이 1년으로 규정돼 있는데, 직접 사용해 보니 1년은 부족한 것 같고 2년은 돼야 예비 부모들의 심리적 부담이 완화될 수 있을 것 같다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;저출산고령사회위원회와 조선일보가 공동 기획합니다. 위원회 유튜브에서 관련 내용을 볼 수 있습니다. 아이들이 선물한 행복을 공유하고 싶은 분들은 위원회(&lt;/b&gt;&lt;a href="mailto:betterfuture@korea.kr"&gt;&lt;b&gt;betterfuture@korea.kr&lt;/b&gt;&lt;/a&gt;&lt;b&gt;)로 사연을 보내주세요.&lt;/b&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[법없이도 사는법] ‘2심 유죄’  도이치모터스 전주, 판결문 보니</title>
