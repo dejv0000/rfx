@@ -13,6 +13,34 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>하루에 390㎜… 이례적 9월 극한 폭우, 이재민 1500명 발생</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/22/GGICMIXHIBCFTBJA4NOGJULU7Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/22/GGICMIXHIBCFTBJA4NOGJULU7Q/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Sep 2024 15:20:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D4CNMZZINZNJZOOFCZRKLVQZCY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 충북 청주시 석소동에서 집중호우로 인해 도로가 침수되어 출동한 소방대원들이 고립된 택시차량을 이동 조치하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강한 비바람이 동해상을 빠져나가면서 전국에 내려졌던 호우특보가 21일 밤 모두 해제됐으나, 이례적인 가을 폭우로 1500여명의 이재민이 발생했다.&lt;br&gt;&lt;br&gt;행정안전부 중앙재난안전대책본부(중대본)는 “호우특보는 이날 오후 9시 30분을 기해 모두 해제됐다”고 21일 밝혔다. 다만 남부지방과 제주도, 강원 영동에는 시간당 5~10㎜의 비가, 충청 남부에는 0.1㎜ 미만의 빗방울이 떨어지고 있다.&lt;br&gt;&lt;br&gt;강풍특보가 발효된 전라권과 경남권, 경북남부동해안, 제주도에서는 매우 강한 바람이 불겠으니, 시설물 관리와 안전사고 유의해야 한다.&lt;br&gt;&lt;br&gt;중대본에 따르면, 지난 19일부터 21일 오후 10시까지 내린 총 누적 강수량은 제주(산지) 764.5㎜, 경남 창원 519.2㎜, 부산 강서 410.5㎜, 경남 사천 404.5㎜, 전남 여수 399.5㎜다.&lt;br&gt;&lt;br&gt;21일 하루 누적 강수량은 부산 강서가 392.0㎜로 최다였다. 경남 창원 387.5㎜, 전남 여수 327㎜ 충북 옥천 194.5㎜로 집계됐다. 이날 창원, 김해, 부산 등에서 역대 9월 최대 일강수량을 기록했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OTRZMOF4JMG7BT2K7DXS6NF2MM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭우에 고립 주민 구조하는 소방당국./ 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재까지 이번 비로 인한 인명피해는 없는 것으로 알려졌다. 그러나 주택침수 170건, 도로 침수 107건, 토사유출 21건, 옹벽붕괴 1건 등 전국에서 물난리 피해를 겪었다. 농작물 침수 피해도 속출했다. 총 4116ha(헥타르)의 농작물이 이번 비로 침수됐다.&lt;br&gt;&lt;br&gt;이번 비로 인해 7개 시도 46개 시군구에서 1014세대 총 1501명이 대피했다. 이 중 455세대 682명은 집에 돌아가지 못하고 있다. 405세대 595명은 경로당, 공공시설 등 임시주거 시설에서 지내고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FCX3BH2VLRLVHKNXMDNU72B2LY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 부산 사상구 한 도로에서 가로 10m, 세로 5m, 깊이 8m 가량의 대형 땅꺼짐 현상(싱크홀)이 발생해 도로에서 배수 지원을 하던 삼락119안전센터 배수 차량과 5톤 트럭이 빠져있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;총 22개 국립공원 641구간이 통제됐다. 풍랑주의보와 기상 악화로 55개 항로 77척의 여객선이 운항하지 못하고 있으며, 항공기 16편이 결항됐다. 이 밖에도 지하차도 35개소, 둔치주차장 155개소, 하천변 3601개소, 도로 38개소, 수월교 323개소의 출입이 통제된 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ZCUOHUM6YZEJLBD2GU2V4WH6BM.gif?width=1400&amp;height=788&amp;auth=4824547729db7e3863d99f186d1349b43b726a136743db445bc95cbb78956a14&amp;smart=true" type="image/jpeg" height="788" width="1400"/>
+    </item>
+    <item>
+      <title>﻿전국 할퀸 극한 폭우로 1500여명 대피…호우 위기경보 ‘관심’ 하향</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/09/22/2AF77YRUABFKZHRDQNYPOCV4OQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/09/22/2AF77YRUABFKZHRDQNYPOCV4OQ/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Sep 2024 20:49:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2BDGLH7X5FMXTOZEHNXEIQANRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 전북 완주군 봉동읍 둔산리에서 집중호우로 인해 도로가 침수되어 출동한 소방대원들이 고립된 차량을 이동조치하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 오후 전국 모든 지역에서 호우특보가 풀리면서 행정안전부가 가동한 중앙재난안전대책본부는 해제됐다. 다만, 전국을 할퀸 역대급 폭우로 7개 시도에서 1500여 명이 대피하는 등 피해가 속출했다. &lt;br&gt;&lt;br&gt;행정안전부는 전국에 발효 중이던 호우특보가 모두 해제됨에 따라 21일 오후 11시부로 호우 위기경보 수준을 ‘경계’에서 ‘관심’으로 하향 조정하고, 중대본 비상 단계를 해제한다고 밝혔다. &lt;br&gt;&lt;br&gt;중대본에 따르면 이날 오후 11시 기준 부산‧충북·충남·경북·경남·전남·전북 등 7개 시도에서 1014세대 1501명이 대피했다. 이 중 455세대 682명은 집으로 돌아가지 못했다. 정부와 지자체는 405세대 595명에게 임시주거시설을 제공했다. 다른 이들은 친인척집, 경로당‧마을회관, 민간 숙박 시설 등에 머물렀다. &lt;br&gt;&lt;br&gt;이번 비로 인명 피해는 없었지만, 전국 곳곳에서 크고 작은 시설 피해가 잇따랐다. 기상 악화로 55개 항로 77척 여객선의 발이 묶였다. 항공기 16편도 결항했다. 22개 국립공원 641구간, 지하차도 39곳, 하천변 3061곳, 도로 38곳의 접근도 막혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FCX3BH2VLRLVHKNXMDNU72B2LY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 부산 사상구 한 도로에서 가로 10m, 세로 5m, 깊이 8m 가량의 대형 땅꺼짐 현상(싱크홀)이 발생해 도로에서 배수 지원을 하던 삼락119안전센터 배수 차량과 5톤 트럭이 빠져있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도로 침수 107건, 토사유출 21건, 주택 침수 170건의 시설 피해도 잇따랐다. 부산 사상구에서는 싱크홀이 생기는 등 도로 파손이 있어 복구 작업을 진행했다. &lt;br&gt;&lt;br&gt;또 약 4116ha 면적에 달하는 농작물이 침수 피해를 입기도 했다. 이는 여의도 면적(약 290ha)의 약 14배에 달하는 크기다. &lt;br&gt;&lt;br&gt;이날 창원, 김해, 부산, 양산 등에서 역대 9월 일강수량 신기록이 나왔다. 19일 0시부터 20일 오후 10시까지 누적 강수량은 ▲제주 산지 764.5㎜ ▲경남 창원 519.2㎜ ▲부산 강서 410.5㎜ ▲경남 사천 404.5㎜ ▲전남 여수 399.5㎜ ▲충남 논산 256.5㎜ ▲충북 청주 252.3㎜ ▲울산 남구 240.5㎜ 등이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 전세사기 건물에 “폭탄설치” 낙서… 글 쓴 남성 붙잡혀  </title>
+      <link>https://www.chosun.com/national/incident/2024/09/21/GXMRRUZBNZAG7EMRJSATFQ3J74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/21/GXMRRUZBNZAG7EMRJSATFQ3J74/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Sep 2024 14:34:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5LAD7WE23C4BJPMQNQJI2Y4V5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오후 인천 미추홀구 한 오피스텔에 전세사기 피해를 호소하며 폭탄물을 설치했다는 취지의 문구가 적혀 있다./ 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 오피스텔에서 “전세사기를 당해 폭발물을 설치했다”는 취지의 낙서가 발견돼 입주민 50여명이 대피하는 소동이 일어났다.&lt;br&gt;&lt;br&gt;인천 미추홀경찰서는 재물손괴 혐의로 남성 A씨를 붙잡아 조사하고 있다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 오후 4시쯤 인천시 미추홀구 도화동 14층짜리 오피스텔 한 복도에 폭탄을 설치했다는 내용의 글을 쓴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;사진을 보면 복도 벽면에는 ‘전세사기 피해의집 나는 영원히 여기 있다’며 ‘촉발식 폭탄 설치 건들지마’라는 글씨가 푸른색으로 적혀있다.&lt;br&gt;&lt;br&gt;신고를 받은 경찰은 폭발물 설치 여부를 확인하고자 특공대를 투입했고, 수색 결과 폭발물로 추정되는 물건은 발견되지 않았다. 이 과정에서 50여명의 입주민이 대피했다.&lt;br&gt;&lt;br&gt;소동이 발생한 오피스텔은 인천 미추홀구 일대에서 수백억원대 전세보증금을 가로챈 혐의로 구속 기소된 60대 건축업자 이른바 ‘건축왕’의 소유인 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰에 “전세 사기 피해자”라고 진술했다. 다만 그는 현재 이 오피스텔에 거주하지 않는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 전세 사기를 당했는지 여부와 함께 구체적인 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“이라크 파병 미군, 취미는 복싱”… 안성재 독특한 이력 ‘눈길’</title>
       <link>https://www.chosun.com/national/people/2024/09/21/3PNFVTJZMBFONL4FJ5TZPZ3XUA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/21/3PNFVTJZMBFONL4FJ5TZPZ3XUA/</guid>
@@ -951,33 +979,6 @@
       <description/>
       <pubDate>Fri, 20 Sep 2024 00:45:59 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SHPFELQG3W7JJCK6JET7DFEAUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 오전 4시 55분쯤 경기 고양시 일산동구 성석동의 한 도로에서 SUV 차량이 폐지 수거용 리어카를 끌고 가던 60대 여성 A씨를 들이받았다.&lt;br&gt;&lt;br&gt;이 사고로 A씨는 119구급대에 의해 심폐소생술(CPR)을 받으며 인근 병원으로 옮겨졌으나 숨졌다.&lt;br&gt;&lt;br&gt;경찰 조사 결과, SUV 운전자인 70대 남성 B씨는 음주 상태가 아니었던 것으로 확인됐다. B씨는 “리어카를 보지 못했다”고 경찰에 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 교통사고처리 특례법 위반(치사) 등 혐의로 B씨를 입건해 자세한 사고 경위를 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“속옷 차림으로 비틀비틀” 고속도로 운전...알고 보니 필로폰 투약</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/20/4SGZOY65DBC47D32Z7OUAFMXYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/20/4SGZOY65DBC47D32Z7OUAFMXYI/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Sep 2024 00:50:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4D6W6ZOEWFG6VMNI2TWA4BAVMU.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 필로폰 투약 뒤 고속도로를 달리던 40대 남성 A씨를 경찰이 긴급 체포했다./유튜브 채널 '경찰청'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;필로폰을 투약한 뒤 운전대를 잡고 고속도로 위를 달리던 40대 남성이 긴급 체포된 뒤 결국 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;충남 공주경찰서는 19일 마약류 관리에 관한 법률 위반 및 도로교통법상 약물 운전 혐의로 40대 A씨를 구속 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;지난 6일 오전 8시22분쯤 서천공주고속도로 하행선 청양휴게소에서 ‘정차한 차량의 운전자가 마약을 한 것 같다’는 신고가 경찰에 접수됐다. 경찰 출동 당시 A씨는 반소매 내의와 속옷 차림으로 몸이 흠뻑 젖은 상태였다. 그는 몸을 앞뒤로 크게 흔들며 이상 행동을 보였다.&lt;br&gt;&lt;br&gt;경찰은 마약 투약을 의심해 차량 내부를 수색했으나 마약류와 주사기 등을 발견하지 못했다. A씨는 음주와 수배 상태도 아니었다.&lt;br&gt;&lt;br&gt;경찰이 A씨에게 운전 가능 여부를 물어보니 혼자 운전할 수 있다고 답했다. 하지만 A씨는 휴게소를 나와서도 비틀거리며 중앙선을 넘나드는 등 위태롭게 곡예 운전을 했다. 커브길에서는 단독 추돌 사고가 일어날 뻔하기도 했다.&lt;br&gt;&lt;br&gt;경찰은 A씨 차량을 갓길에 멈춰 세웠고, 눈에 초점이 없고 몸을 뒤흔드는 행동 등으로 보아 A씨가 이미 마약을 한 뒤 운전대를 잡았을 것으로 추정했다. 추궁 끝에 경찰은 A씨로부터 이전에 필로폰 투약 혐의로 처벌을 받은 이력이 있다는 사실을 알아냈다.&lt;br&gt;&lt;br&gt;마약 간이 시약 검사를 위해 경찰서로 임의동행한 뒤에도 A씨는 검사를 완강히 거부해 긴급 체포됐다. A씨의 마약 검사 결과, 소변에서 필로폰 양성 반응이 나왔다. 경찰은 A씨를 구속 수사한 끝에 검찰에 송치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>우유·치킨·햄 이어...신유빈, 당진 해나루쌀 광고모델 됐다</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/20/3ZFCU3I6WJENVKTT7P5CF7EN4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/20/3ZFCU3I6WJENVKTT7P5CF7EN4I/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Sep 2024 00:17:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LNGGBNWNT5JEFAZNFPRWA6ZMHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 당진시청에서 진행된 광고모델 계약 체결식 후 신유빈 선수와 오성환 시장이 기념촬영을 하는 모습. /당진시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;파리 올림픽에서 동메달 2개를 따낸 ‘삐약이’ 신유빈(20)이 충남 당진지역의 명품 쌀인 ‘해나루쌀’ 광고 모델이 됐다.&lt;br&gt;&lt;br&gt;충남 당진시는 신유빈 선수와 해나루쌀 광고모델 계약을 체결했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;전날 진행된 광고 모델 계약 체결식에서 신유빈은 “당진 해나루쌀이 널리 알려져 쌀 소비가 늘어나고 농업인들의 어려움이 조금이나마 해결됐으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;오성환 당진시장은 “신유빈 선수가 당진지역 농산물 브랜드 가치를 높이길 기대한다”며 “우리 지역 농특산물 판매량을 늘릴 수 있도록 다양한 노력을 기울이겠다”고 했다.&lt;br&gt;&lt;br&gt;당진시는 신유빈이 등장하는 해나루쌀 광고를 촬영해 방송, 온라인, 해나루쌀 포장재 등에 다양하게 활용할 계획이다.&lt;br&gt;&lt;br&gt;신유빈은 앞서 파리 올림픽 경기 중 바나나와 주먹밥 등 경기 중 간식을 먹는 모습을 연출해 화제를 불렀다. 올림픽 직후 빙그레 바나나맛우유와 bhc치킨 뿌링클, 동원F&amp;amp;B 냉장햄 그릴리 등 모델로 발탁됐다.&lt;br&gt;&lt;br&gt;신유빈은 최근 한국기업평판연구소의 스포츠 스타 브랜드 빅데이터에서 손흥민(축구), 김예지(사격), 오상욱(펜싱) 선수 등을 제치고 브랜드 평판 1위에 오르며 절정의 인기를 누리고 있다. 광고모델 브랜드평판에서도 가수 임영웅과 배우 변우석을 누르고 1위를 차지했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>59t 어선 부산 영도대교 교각 충돌, 정밀 점검예정 </title>
-      <link>https://www.chosun.com/national/regional/2024/09/20/RLRDGM3ZHBF7RJIXJY5ZF5QYBY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/20/RLRDGM3ZHBF7RJIXJY5ZF5QYBY/</guid>
-      <dc:creator>부산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Sep 2024 00:42:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WA5WML37TKRFUF2EQ2DYDOL4H4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 부산 영도구 대교동 남항 인근 해상에서 표류하다가 영도대교 교각과 충돌한 59t급 어선. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 앞바다에서 어선이 영도대교 교각에 부딪히는 사고가 발생했다. 영도대교는 다리 상판을 들어 올릴 수 있는 국내 유일의 도개교로, 부산의 명물로 꼽힌다.&lt;br&gt;&lt;br&gt;20일 부산해양경찰서 등에 따르면 지난 19일 오후 9시 14분쯤 부산 영도구 대교동 남항 인근 해상에서 59t(톤) 어선이 영도대교 교각과 충돌했다.&lt;br&gt;&lt;br&gt;사고 당시 어선에는 6명의 승선원이 있었으나 인명피해는 없었다. 어선은 자체 통신 작업 후 엔진이 작동하지 않아 바다 위에서 표류하다 사고를 낸 것으로 확인됐다.&lt;br&gt;&lt;br&gt;이 사고로 영도대교의 관로가 일부 휘어졌다.&lt;br&gt;&lt;br&gt;부산해경은 승선원을 상대로 자세한 사고 원인을 조사 중이고, 부산시는 이날 영도대교 구조물에 대해 정밀 점검할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>항문에 바둑알… ‘엽기 학폭’ 피해자, 견디다 못해 결국 살인</title>
