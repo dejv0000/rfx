@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>(금주 법조계 주요일정) 9월 23~27일</title>
+			<description>&lt;b&gt;△23일(월)&lt;/b&gt;&lt;br /&gt;-헌법재판소, 김복형 신임 헌법재판관 취임식(오전 10시, 재동 헌법재판소)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 송영길 소나무당 대표 32차 공판(오후 2시)&lt;br /&gt;-법무법인 대륙아주, 조재연 전 대법관 초청 강연 '법조 윤리와 변호사의 자세'(오후 4시 30분, 서울 강남구 역삼동 동훈타워 대륙아주 12층 대회의실)&lt;br /&gt;-서울지방변호사회, 창립 제117주년 기념행사 및 제30회 시민인권상 시상식(오후 5시, 서울 강남구 삼성동 그랜드 인터컨티넨탈 서울 파르나스 호텔 5층 그랜드볼룸)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△24일(화)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '부정경쟁방지 및 영업비밀보호에 관한 법률 위반(영업비밀국외누설 등) 등 혐의' 안승호 전 삼성전자 IP센터장(부사장) 7차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '정보통신망이용촉진및정보보호등에관한법률위반(명예훼손) 등 혐의' 김만배 외 3명 1차 공판(오전 10시)&lt;br /&gt;-대한변호사협회, 2024년 임시총회(오전 11시, 서울 서초구 서초동 대한변협회관 지하 1층)&lt;br /&gt;-법무법인 율촌, '변화의 시대, 인력구조조정의 해법' 웨비나(오후 1시)&lt;br /&gt;-서울중앙지법, '업무상배임 등 혐의' 유준원 상상인 대표이사 외 21명 82차 공판(오후 4시30분)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△25일(수)&lt;/b&gt;&lt;br /&gt;-법무법인 대륙아주·헤럴드경제, 중대재해예방 산업안전법제포럼 9월 초청 강연 '중대재해처벌법의 문제점과 입법 과제'(오전 7시 30분, 서울 중구 소공로 119 더 플라자 호텔 22층 루비홀)&lt;br /&gt;-서울중앙지법 '노동조합및노동관계조정법위반 등 혐의' 허영인 SPC그룹 회장 외 18명 17차 공판(오전 10시)&lt;br /&gt;-대법원, 사법정책자문위원회 제4차 회의(오후 2시)&lt;br /&gt;-법무법인 화우·한국기후환경네트워크·E-순환거버넌스, E-Waste Zero·ESG 경영 실천을 위한 업무협약(오후 2시, 서울 강남구 삼성동 법무법인 화우)&lt;br /&gt;-서울중앙지법, '허위공문서작성 등 혐의' 이규원 조국혁신당 대변인 24차 공판(오후 2시10분)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△26일(목)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정경제범죄가중처벌등에관한법률위반(수재등) 등' 혐의 박영수 전 특검 외 1명 34차 공판(오전 10시)&lt;br /&gt;-법무법인 지평, '이민 정책과 법질서' 지평법정책연구소 정기세미나(오후 2시, 서울 중구 세종대로 그랜드센트럴 B동 3층 지평 오디토리움·유튜브)&lt;br /&gt;-법무법인 대륙아주·사단법인 아시아모델페스티벌조직위원회 업무협약(오후 2시 30분, 서울 강남구 역삼동 동훈타워 대륙아주 12층 대회의실)&lt;br /&gt;-법무법인 세종, '유럽 통합특허법원 제도 시행에 따른 성과 및 전망' 세미나(오후 3시, 서울 종로구 청진동 디타워 23층 세종 세미나실)&lt;br /&gt;-서울고법, '직권남용 권리행사 방해 등 혐의' 임종헌 전 법원행정처 차장 항소심 1차 공판(오후 3시30분)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△27일(금)&lt;/b&gt;&lt;br /&gt;-대법원, 1부 선고(오전 10시)&lt;br /&gt;-서울중앙지법, '직권남용권리행사방해 등 혐의' 서훈 전 청와대 국가안보실장 외 4명 33차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 이재명 더불어민주당 대표 외 1명 47차 공판(오전 10시30분)&lt;br /&gt;-법무법인 지평·BSR, '인권경영 아카데미(2회)'(오후 1시 30분, 서울 중구 세종대로 그랜드센트럴 B동 3층 지평 오디토리움)&lt;br /&gt;&lt;br /&gt;</description>
+			<pubDate>Sat, 21 Sep 2024 22:06:02 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201485</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201485</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>[포토] 내 마음의 풍경</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/201488.jpg" alt="0.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;추분 지나니 더위도 주춤. 경기도 여주시 논에서 콤바인으로 벼를 베고 있다. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;《연합뉴스》&lt;/b&gt;</description>
 			<pubDate>Fri, 20 Sep 2024 20:08:35 -0000</pubDate>
@@ -233,16 +242,6 @@
 			<link>https://www.lawtimes.co.kr/news/201469</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201469</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201469.jpg</media:thumbnail>
-			<dc:creator>이진영 기자</dc:creator>
-		</item>
-		<item>
-			<title>브라질법원, 엑스에 벌금 부과 ”접속 차단 명령 어기고 우회접속 허용“</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/201461.jpg" alt="201461_as.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=어도비스톡》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;브라질법원의 접속 차단 명령을 어기고 사용자들의 '우회 접속'을 허용한 사회관계망서비스 플랫폼 엑스(X·옛 트위터)가 거액의 벌금을 물게 됐다. &lt;br /&gt;&lt;br /&gt;알레샨드리 지모라이스 브라질 대법관은 19일(현지시간) "중개 서버를 이용해 접속 차단을 우회하도록 한 것으로 보인다"는 이유로 엑스에 하루 500만 헤알(약 12억 원) 벌금을 부과했다고 현지 매체 G1과 로이터 통신이 보도했다.&lt;br /&gt;&lt;br /&gt;지난달 법원의 접속 차단 명령에도 엑스는 통신망 업데이트를 통해 우회 접속을 가능하게 했다. 최근 일부 엑스 사용자들이 이 사실을 당국에 알린 후 내려진 조처다. &lt;br /&gt;&lt;br /&gt;지모라이스 대법관은 관련 결정문에서 "엑스가 지속적·의도적·불법적으로 사법부 명령을 무시하며 저항하고 있다"며 "국내 영토에서 플랫폼을 차단하라는 사법부 결정을 회피하기 위해 만들어진 서버가 접속에 활용되고 있다"고 지적했다.&lt;br /&gt;&lt;br /&gt;엑스는 브라질 대법원에 법률 대리인을 곧 선임할 계획이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;앞서 지모라이스 대법관은 브라질 내 '가짜 뉴스' 단속을 목적으로 일부 엑스 계정 및 게시물 삭제를 결정했으나 엑스는 "언론 자유 탄압"이라며 이를 이행하지 않고 브라질 규정에 명시된 법률 대리인 지명을 미룬 채 반발해 왔다.&lt;br /&gt;&lt;br /&gt;이에 따라 지난달 대법원은 △엑스 서비스 정지 △엑스 벌금 부과 △엑스와 관련된 우주기업 스페이스X의 위성 인터넷 서비스 '스타링크' 계좌 동결 등 일련의 명령을 내렸다.&lt;br /&gt;&lt;br /&gt;</description>
-			<pubDate>Fri, 20 Sep 2024 03:35:24 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201461</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201461</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201461.jpg</media:thumbnail>
 			<dc:creator>이진영 기자</dc:creator>
 		</item>
 	</channel>
