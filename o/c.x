@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>의협회장 “블랙리스트 만든 사직 전공의도 피해자...정부가 의사들 사이 다 결딴내고 있어”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/09/21/F7PSIRC4QJD4TDW3ZQ4CVI62AU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/21/F7PSIRC4QJD4TDW3ZQ4CVI62AU/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Sep 2024 05:03:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CUKNWV4YYJPYVOHTLGMYOQAWZU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;임현택 대한의사협회 회장이 21일 서울 성북경찰서에서 의료계 집단행동에 동참하지 않은 의사·의대생의 신상 정보가 담긴 블랙리스트를 작성 혐의로 구속된 전공의 면회를 마치고 취재진의 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 임현택 대한의사협회(의협) 회장이 “정부가 의사들 사이를 다 결딴내고 있다”고 말했다.&lt;br&gt;&lt;br&gt;임 회장은 이날 오후 서울 성북경찰서에서 구속된 사직 전공의 정모씨를 면회한 뒤 이 같이 밝혔다. 정씨는 의료계 집단 행동에 동참하지 않는 의사 명단을 작성·게시한 혐의를 받는다.&lt;br&gt;&lt;br&gt;임 회장은 “구속된 전공의와 리스트에 올라 피해를 입은 분들 모두가 정부가 만든 피해자”라며 “철창 안에 있는 전공의나 리스트에 올라 피해를 당한 전공의나 그 누구라도 돕겠다는 게 협회의 입장”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “오늘 유치장에 있어야 할 자들이 과연 자기 몸 하나 돌볼 시간도 없이 환자들이 죽어가던 현장에 있던 전공의여야 하는가, 아니면 ‘의사들을 악마화하고 의대 정원을 증원하면 선거에서 이길 수 있고 역사에 남는 개혁의 상징이 될 것’이라고 대통령 귀에 속삭인 간신들, 그 명령에 따라 영혼 없이 일사분란하게 움직여 국민들이 길가에서 숨져가게 한 공무원들인가”라고 했다.&lt;br&gt;&lt;br&gt;그는 “이 사태가 하루라도 빨리 끝나서 의사들도 국민들도 걱정하지 않고 살 수 있게, 의사들이 오직 국민들 생명 살리는 걱정만 할 수 있는 세상이 하루라도 빨리 오기를 바랄 뿐”이라고 말했다.&lt;br&gt;&lt;br&gt;사직 전공의 정씨는 지난 7월 전공의 집단 행동 등에 참여하지 않는 의사들의 신상 정보를 담아 ‘감사한 의사’라는 제목의 블랙리스트 명단을 만든 뒤, 텔레그램과 의사 커뮤니티 메디스태프에 여러 차례 게시한 혐의(스토킹스토킹처벌법 위반)로 전날 구속됐다. 전공의 집단 행동 이후 블랙리스트 작성·게시자가 구속된 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;한편 전날 블랙리스트 사이트에는 “어느 정도는 목적을 달성했다고 생각한다”며 “추가적인 업데이트는 더 이상 하지 않고 이제 리스트를 고정하겠다”는 내용의 공지가 올라왔다. 이번 결정은 사직 전공의 정씨가 구속된 점과 무관하지 않다는 분석이 나온다.&lt;br&gt;&lt;br&gt;사이트 관계자는 “(사이트) 링크를 카카오톡이나 네이버 댓글 등 국내 사이트에 올리면 안 된다” “제대로 된 가상사설망(VPN)과 익명 네트워크 토르(Tor)를 같이 써야 한다” 등 사용자들에게 보안 지침을 안내하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>코로나 백신 접종 후 심근경색 사망…보상소송서 유족 패소</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/21/HGEVCQ67INBUDPNS3VCITQCVGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/21/HGEVCQ67INBUDPNS3VCITQCVGQ/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Sep 2024 03:14:11 +0000</pubDate>
+      <content:encoded>코로나 백신을 접종하고 약 한 달 뒤 사망한 남성의 배우자가 정부가 보상 책임을 져야한다며 소송을 냈지만 패소했다. 정부 책임은 의학적으로 인과관계가 인정되는 부작용에만 한정된다는 취지의 판단이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WNTHH6JB6FEL5LFXTN5ZWLLSGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전의 한 병원에서 코로나 백신을 접종하는 모습. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 법조계에 따르면 서울행정법원 행정6부(재판장 나진이)는 유족 이모씨가 질병관리청장을 상대로 낸 코로나 예방접종 후 이상반응 피해보상 거부처분 취소 소송을 최근 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;이씨의 배우자 A씨는 코로나 사태 당시인 2021년 7월 26일 화이자 코로나 백신을 1차 접종한 뒤 9월 6일에 같은 백신 2차 접종을 완료했다.&lt;br&gt;&lt;br&gt;이후 A씨는 그해 10월 26일 심장정지 등으로 쓰러진 후 병원으로 호송돼 심폐소생술과 응급심혈관성형술 등을 받았으나 31일 심근경색으로 숨졌다. A씨는 사망 당시 만 59세였다.&lt;br&gt;&lt;br&gt;이씨는 A씨의 사망 원인인 심근경색에 백신 접종이 기여했다며 감염병예방법에 따라 질병관리청에 예방접종 피해 보상 신청을 했다. 하지만 질병관리청은 2022년 9월 ‘백신보다는 기저 상태의 악화로 인해 사망했을 가능성이 높아 백신 접종과 인과성이 인정되기 어려운 경우에 해당한다’는 이유로 보상을 거부했다.&lt;br&gt;&lt;br&gt;이씨는 2022년 12월 이 처분을 취소하라는 행정소송을 제기했다. 재판 과정에서 인과관계를 인정해야 하고 또 당시 정부가 기자회견을 통해 ‘백신은 안전하고, 백신 접종으로 인한 부작용이 있을 경우 전적으로 책임을 지겠다’는 내용의 공적 견해를 표명했는데 이처럼 거부 처분을 한 것은 신뢰보호의 원칙에 위배된다는 취지로 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OA6LD72BPRHDNCJTNXZ53D7B2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울가정법원·서울행정법원 청사. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 법원은 진료기록 감정촉탁 결과 등 각종 증거들을 종합했을 때 접종과 A씨 사망 사이의 인과 관계가 있다고 볼 수 없다며 청구를 기각했다.&lt;br&gt;&lt;br&gt;재판부는 “A씨는 백신 접종 전부터 기저질환인 당뇨와 고혈압이 있었고, 2020년 10월엔 상세불명의 협심증 진단을 받은 이력이 있다”며 “이 같은 기저질환은 A씨의 사망 원인과 직접 관련이 있거나 발병 위험인자에 해당한다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “A씨가 백신을 2차 접종하고 그로부터 약 50일이 지나 심장정지 등으로 쓰러진 바, 이 사건 백신 접종과 발병이 시간적으로 밀접하다고 단정하기 어렵다”며 “현재로서는 의학적·자연과학적으로 백신과 심근경색증 또는 혈전의 발병 위험 증가 사이의 인과관계가 밝혀지지 않았다”고 설명했다.&lt;br&gt;&lt;br&gt;정부의 기자회견에 대해선 “백신 접종과 인과관계가 인정되는 부작용이 발생한 경우 정부가 책임을 부담하겠다고 한 취지로 보일 뿐이고, 이를 백신 접종 후 발생하는 모든 건강상의 문제에 대해 보상을 해주겠다는 공적인 견해의 표명으로 보기는 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>5년간 네이버에서 삭제된 ‘개인정보 불법 유통’ 8만건 육박</title>
       <link>https://www.chosun.com/national/national_general/2024/09/21/55YQTMVJXNERTMDMZXROFPOVSE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/21/55YQTMVJXNERTMDMZXROFPOVSE/</guid>
@@ -906,23 +924,6 @@
       <description/>
       <pubDate>Thu, 19 Sep 2024 15:45:00 +0000</pubDate>
       <content:encoded>구독자 209만명을 보유한 여행 유튜버 곽튜브(32·본명 곽준빈) 학폭 옹호 논란이 추석 연휴를 지나면서 커지고 있다. 19일 한 인터넷 커뮤니티엔 곽씨의 중학교 동창이라고 주장하는 사람의 글이 올라왔다. 그는 “곽씨가 왜 그렇게 본인을 가혹한 학교 폭력 피해자로 포장하고 다니는지 이해되지 않는다”며 곽씨가 과거 친구의 게임기를 훔쳤다는 주장까지 제기했다. 곽씨 소속사는 ‘허위 사실’이라고 즉각 반박했다.&lt;br&gt;&lt;br&gt;곽씨는 집단 따돌림과 학폭 피해를 견디지 못해 고교를 자퇴한 뒤 검정고시로 대학에 들어가 러시아어를 전공했다. 이어 아제르바이잔 주재 한국 대사관 직원으로 근무하다가 현지인들과 꾸밈 없이 어울리는 여행 콘텐츠를 만들었다. 곽씨가 아픈 과거를 딛고 살아가는 모습에 많은 사람이 ‘구독’과 ‘좋아요’를 눌렀다. 지난 6월엔 한국갤럽이 조사한 ‘한국인이 좋아하는 유튜버’ 2위를 차지했다.&lt;br&gt;&lt;br&gt;그런 곽씨가 지난 16일 한 걸그룹 출신 20대 배우와 이탈리아 로마 여행을 떠난 영상을 올리자 팬들은 분노와 실망을 쏟아냈다. 이 배우는 학폭이나 집단 따돌림 논란을 일으킨 인물이었는데, 곽씨는 이 영상에서 “네가 (학폭) 가해자라고 해서 연락처를 차단했는데 아니라는 기사를 보고 (마음을) 풀었다”고 말한다.&lt;br&gt;&lt;br&gt;이 배우가 받는 의혹 일부는 사실이 아니었지만, 팬들은 “학폭 피해자 이미지로 인기를 얻고 어떻게 논란 당사자에게 면죄부를 주느냐”고 했다. 곽씨는 지난 2월 한국방송대상을 받았고, 유재석·노홍철 등 기성 연예인들과도 어울린다. 인기 유튜버라는 지위를 이용, 20대 여성에게 우월한 표정을 짓는 장면에 ‘초심(初心)을 잃었다’ ‘벼락 부자 같다’ 같은 반응도 나왔다. 곽씨 구독자는 사흘 새 3만명가량 이탈했다.&lt;br&gt;&lt;br&gt;단기간 인기를 얻은 유튜버가 몇몇 사건으로 추락하는 일은 비일비재하다. 최근 구독자 1070만명을 보유한 먹방 유튜버 쯔양(27·박정원)을 협박·공갈한 혐의로 구속된 유튜버 카라큘라(36·이세욱), 구제역(32·이준희), 전국진(32) 사례가 대표적이다. 일각에선 “사소한 이유로 나락으로 보낸다”며 사회 분위기를 탓한다. 그러나 ‘좋아요’ 관심으로 흥했으니 ‘싫어요’ 관심으로 망하는 것은 유튜브 생태계의 법칙이기도 하다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내비 믿었다가… 논두렁에 갇힌 귀경 차량</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/20/SN7MJXFEKJCWVKWBQM3Z3NRILE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/20/SN7MJXFEKJCWVKWBQM3Z3NRILE/</guid>
-      <description/>
-      <pubDate>Thu, 19 Sep 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4LQMA2XCZBC7NORWWFE36Q4VBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/스레드 its.tours&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 17일 충남 아산시의 한 좁은 농로(農路)에 줄지어선 추석 연휴 귀경 차량의 모습. 소셜미디어 스레드에 이 사진을 올린 이용자(&lt;a href="http://its.tours/" target="_blank"&gt;its.tours&lt;/a&gt;)는 “티맵 내비게이션이 이상한 농로로 보내서 1시간째 갇혀 있는 차들이 수백 대 늘어서 있다”고 했다. 티맵 측은 “안내 당시엔 농로로 우회하는 게 30분 가량 빨랐지만, 차량이 쏠린 이후의 상황이 후속 안내에 제대로 반영되지 않았다”며 “전국 이면도로 상황을 더 세밀하게 파악하고 실시간 도로 모니터링을 강화하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘동성 성폭행 혐의’ 배우 유아인 불송치</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/20/IY2SNXOIB5FD7GW6ZS2GYYKX2I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/20/IY2SNXOIB5FD7GW6ZS2GYYKX2I/</guid>
-      <dc:creator>김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Sep 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MGH4BZLXJBGMLLSP34UAXOPFTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 용산경찰서는 동성 성폭행 혐의(유사 강간)로 입건된 배우 유아인(38·본명 엄홍식)씨를 불송치 결정했다고 19일 밝혔다. 경찰은 “증거가 불충분하다는 판단에 따른 것”이라고 했다.&lt;br&gt;&lt;br&gt;유씨를 유사 강간 혐의로 고소한 A(30)씨는 지난 7월 14일 자신이 서울 용산구의 한 주택에서 잠을 자다가 유씨에게 성폭행을 당했다고 주장했다. 이 주택은 유씨나 A씨가 아닌 제3자의 거처로, 당시 현장엔 다른 남성들도 있었던 것으로 알려졌다. A씨 측은 사건 당일 오전 6시쯤 잠들었고 오후 4시에 깨어났는데 그 사이 성폭행을 당했다며 가해자로 유씨를 지목했다. 경찰은 이 진술을 뒷받침할 증거가 없다고 밝혔다.&lt;br&gt;&lt;br&gt;유씨는 지난 3일 마약류관리법 위반(향정), 대마 흡연 및 교사, 증거인멸 교사 등 혐의로 1심에서 징역 1년과 벌금 200만원을 선고받고 법정 구속돼 서울구치소에 수감 중이다. 경찰은 이번 동성 성폭행 고소와 관련, 유씨와 A씨에 대한 마약 검사를 진행했지만 모두 음성이 나왔다고 밝혔다. 경찰은 두 사람을 각 한 차례씩 조사했으나 동성 성폭행 혐의는 입증되지 않았다.&lt;br&gt;&lt;br&gt;다만 유씨 측은 A씨를 무고 등 혐의로 맞고소할 계획은 현재까지 없는 것으로 알려졌다. 마약 혐의로 법정 구속돼 있는 상황 등을 감안한 조치로 해석됐다. 유씨는 2020년 9월부터 2022년 3월까지 프로포폴을 181회 투약하고, 2021년 5월부터 2022년 8월까지 타인 명의로 수면제를 불법 처방 매수한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>법무차관에 김석우, 대검 차장은 이진동</title>
