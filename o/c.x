@@ -13,6 +13,54 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>부산 ‘인구 위기’ 돌파구… 주거·보육·교육·청년·고령층 등 맞춤형으로</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/09/10/T7XO6C6LJRD6JLIRM7VN25KVHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/09/10/T7XO6C6LJRD6JLIRM7VN25KVHU/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Sep 2024 08:58:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5SDDF4DCMPO6UXCSSR6AR46N7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 부산시청 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산시는 “저출생·고령화·청년유출 등 지역 인구 문제에 대한 전면적 대응전략을 마련했다”고 10일 밝혔다. 시에 따르면 부산 인구는 1995년 388만명을 정점으로 이후 하락세를 보였고, 2023년 329만명으로 330만명 선도 무너진 상황이다.&lt;br&gt;&lt;br&gt;합계출산율(한 여자가 15~49세의 가임기간에 낳을 것으로 기대되는 평균 출생아 수)도 1998년 1.3명 이하로 떨어진 이후 2023년 0.66명으로 서울(0.55명)에 이어 최저 수준이다. 고령인구는 2023년 전체 인구 중 22.6%로 특별·광역시 중 최고 수준이다.&lt;br&gt;&lt;br&gt;또 최근 줄어드는 추세를 보이고 있으나 지난 10년간 수도권으로 옮겨간 부산의 청년 인구는 전체 순유출의 54%인 10만1천명에 이른다. 지난 6월 한국고용정보원이 발표한 ‘소멸 위험 지역 현황과 특징’에 따르면 부산은 전국 광역시 중 처음으로 소멸위험 지역(올해 3월 기준)에 진입하기도 했다.&lt;br&gt;&lt;br&gt;이준승 부산시 행정부시장은 이날 기자브리핑을 갖고 “이같은 인구 변화의 위기의식과 불안을 해소하고 이를 새로운 기회의 흐름으로 바꾸기 위해 새로운 인구정책을 수립했다”며 “단순히 출산 제고에 예산을 퍼붓는 방식이 아니라 인구 위기 속도를 ‘완화’하고 인구 문제로 야기될 문제에 적극 ‘대응’하는 데 중심을 두고 시정 정책 전반을 계속 재설계할 계획”이라 말했다.&lt;br&gt;&lt;br&gt;시는 이에 따라 인구감소 요인인 결혼·출산을 가로막는 주거, 교육, 양육, 일자리, 문화, 관광 등 시정 각 분야에서 정책 중심을 규모·양 위주에서 수요자·질 중심으로 바꾸어 임신·출산 동기가 분명한 난임 가구에 대한 지원을 강화하고, 출산·산후조리 지원금을 확대한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DY2DY3Z6PJC6BOIL3H2GANYJBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이준승 부산시 행정부시장이 10일 오후 부산의 인구 문제에 대한 새로운 대응 방안 및 정책에 대해 브리핑을 하고 있다./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년부터 종전 지원을 하지 않았던 난임 시술 중단의 경우에도 회당 50만원을 지급하고 산후조리 비용을 출산 때마다 100만원씩을 지원하기로 했다. 또 월 10만원씩 지원하던 학부모 부담 어린이집 필요경비 대상을 3~5세에서 2~5세로 확대하고 외국 국적 영유아 보육료도 지원한다. 2026년부터는 손자를 보살피는 조부모에게 주는 ‘조부모 돌봄수당’을 지급할 계획이다.&lt;br&gt;&lt;br&gt;신혼부부 대상의 ‘럭키7하우스’를 청년·다자녀 가구 등에도 확대 공급하고 고령층을 위해 주거와 가사·돌봄 서비스가 결합한 ‘시니어 레지던스’ 도 공급하는 방안을 추진한다. 또 내년부터 부산시 앱인 ‘시민플랫폼’에 1만원을 결제한 뒤 그 앱에 올라 있는 최대 11만원짜리 공연 입장권을 살 수 있는 ‘부산청년문화패스’ 대상을 현재 5000명에서 1만명으로 확대하고 중소기업 재칙 청년 복지포인트를 연간 100만원에서 150만원으로 상향 조정하기로 했다.&lt;br&gt;&lt;br&gt;고령층의 왕성한 사회활동을 돕기 위해 현재 각 2곳인 우리 동네 이에스지(ESG)센터와 하하센터를 각 16곳씩으로 확충할 계획이다. 시 측은 “이에스지(ESG)센터와 하하센터는 고령층이 자원재활용이나 각종 취미·실용 프로그램 등에 참여하거나 그 프로그램에 자신의 재능을 기부하는 것을 돕는 시설”이라고 말했다.&lt;br&gt;&lt;br&gt;또 60세까지 직장 은퇴 후 국민연금 지급시까지 비게 되는 5년간 공적연금을 보완한 ‘부산형 노후소득보장제’를 도입하는 방안도 추진한다. 시 측은 “시민들이 지역의 공공개발에 참여토록 하고 그에 따른 이익을 분배받아 노후소득으로 활용하는 방식 등을 검토 중”이라고 말했다.&lt;br&gt;&lt;br&gt;부산 거주 외국인들을 더 늘리고 다양하게 하기 위해 내년 외국인의 주거·취업·창업 등의 과정을 도와주는 ‘외국인 통합지원 센터’ 를 개설하고 2026년쯤엔 지역 특성에 맞는 외국인들이 더 많이 부산에 들어올 수 있도록 하는 ‘부산형 특화비자’를 만들 계획이다.&lt;br&gt;&lt;br&gt;이준승 부시장은 “부산에 관광, 출장을 와 한동안 머무는 사람들을 ‘생활인구’로 파악해 그들의 규모와 수요 등 데이터 분석에 따른 맞춤형 정책을 개발해 나갈 계획”이라며 “거스를 수 없는 인구변화의 힘을 긍정적으로 바꾸고 이끌어 더 활력 있고 지속 가능한 부산의 미래를 열어나갈 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘2024 장기기증의 날’ 기념식 부산서 열려</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/09/11/TGVPBQIIHFE4JPIAEIIORPD7FA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/09/11/TGVPBQIIHFE4JPIAEIIORPD7FA/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Sep 2024 09:00:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GG2G37UC6VAUJIGOPOJOGAZQQU.gif"&gt;&lt;figcaption&gt;&lt;small&gt;부산시와 한국장기기증협회가 11일 오전부산시청 1층 대회의실에서 '2024 장기 기증의 날' 기념식을 갖고 있다. /한국장기기증협회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘장기 기증의 날’ 기념식이 11일 부산에서 열렸다.&lt;br&gt;&lt;br&gt;부산시와 한국장기기증협회는 이날 오전 11시 부산시청 1층 대회의실에서 ‘2024 장기 기증의 날’ 기념식을 가졌다. 강치영 한국장기기증협회장은 “지방자치단체 중 장기 기증의 중요성과 의미를 알고 매년 기념식을 가지는 곳은 부산시가 유일하다”며 “부산이 전국 어느 도시보다 ‘생명 나눔’ 숭고함, 아름다움을 소중히 여긴다는 증거”라고 말했다.&lt;br&gt;&lt;br&gt;이날 기념식에선 그동안 장기기증 활성화에 힘써온 공로로 대안교육기관 나드림 칼리지(교장 김승민)와 스타일 치과 기공 배병수 대표, 생명나눔 실천본부 박경례 이사 등이 부산시장 표창을 받았다.&lt;br&gt;&lt;br&gt;또 지난 2020년 9월11일 부산대병원에서 뇌사 판정을 받은 후 장기 기증으로 9명을 살린 고 김채연(당시 26세)씨의 어머니 최경순씨가 장기기증 사례를 발표했다. 최씨는 “우리 딸은 이미 세상을 떠났지만 아홉 명의 생명이 되어 살아 있기에 장기기증을 후회하지 않는다”고 말했다&lt;br&gt;&lt;br&gt;박형준 부산시장은 “장기기증자의 숭고한 나눔과 희생이 우리 사회의 빛과 소금이 될 것”이라고 영상 축사를 했다. 하윤수 부산시교육감도 “장기기증은 인간이 할 수 있는 가장 고귀한 나눔의 실천”이라며 “우리 사회에 더욱 널리 퍼져야 할 아름다움”이라고 영상 축사를 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 신고 없이 명품시계 국내 반입 혐의로 YG 양현석 기소</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/13/PUJJ7VAJMBA3ZDPE2UDBXLTG5E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/13/PUJJ7VAJMBA3ZDPE2UDBXLTG5E/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Sep 2024 10:51:09 +0000</pubDate>
+      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBNJS2YMDZNH5DKHATQWYX5VNE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;양현석 YG엔터테인먼트 총괄프로듀서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산지검 공공·국제범죄수사부(부장 윤국권)는 13일 양현석 YG엔터테이먼트 총괄 프로듀서를 특정범죄가중처벌법위반(관세) 혐의로 서울서부지법에 불구속 기소했다.&lt;br&gt;&lt;br&gt;양 총괄 프로듀서는 지난 2014년 싱가포르에서 스위스 고가 명품 시계 2개를 업체로부터 받아 세관에 신고하지 않고 국내로 반입한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;부산세관은 2017년 해당 업체가 통관절차 없이 다수의 고가 시계를 국내로 들여온 사실을 적발, 수사를 해왔다. 당시 양 총괄 프로듀서도 세관에 신고를 하지 않은 채 싱가포르에서 이 업체로부터 받은 고가 명품시계 2개를 국내로 반입한 혐의로 조사를 받아왔다.&lt;br&gt;&lt;br&gt;검찰은 “세관에서 수사를 시작했으나 업체 관련자의 해외 출국 등으로 인해 장기긴 수사가 중단됐다가 지난 7월 수사가 재개된 사건”이라며 “부산지법에 관할권이 없고 공소시효가 임박한 점을 고려 서울서부지법에 기소했다”고 말했다.&lt;br&gt;&lt;br&gt;YG 측은 이날 입장문을 내고 “10년의 공소시효 만료를 앞두고 성급하고 무리하게 기소한 검찰의 결정에 깊은 유감”이라며 “당시 사소한 문제에라도 휘말리고 싶지 않아 해당 시계를 조사기관에 자진 제출했고 연예인 협찬 과정을 이해하지 못해 벌어진 일로 보이지만 향후 재판 일정에 성실히 임할 생각”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/Q2UCZ6F3WVH6ZFEVRMV7XNICIE.jpg?width=560&amp;height=420&amp;auth=ed7b7b24d8fa581d2de238e42fb51e38ddb19610cf2517e52e304bd6147f28e9&amp;smart=true" type="image/jpeg" height="420" width="560">
+        <media:description type="plain">YG 양현석 총괄 프로듀서. 사진 제공=YG엔터테인먼트</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>죄수복 입은 이재명 합성사진 유포... 70대에 벌금형</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/22/3CZUIBA56RCDLIEQBO6SRLZQHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/22/3CZUIBA56RCDLIEQBO6SRLZQHY/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Sep 2024 01:55:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBINQJ2I65JDFMKJEP4KPM5C74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 4월 22대 국회의원 총선을 앞두고 이재명 더불어민주당 대표가 죄수복을 입은 가짜 합성사진을 유포한 70대 남성에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;인천지법 형사13부(재판장 장우영)는 공직선거법 위반 혐의로 재판에 넘겨진 A(70)씨에 대해 벌금 100만 원을 선고했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 22대 국회의원 총선을 앞둔 지난 2~3월 인천시 계양구에서 이재명 더불어민주당 대표나 민주당을 비방하는 내용의 인쇄물 300장을 유포한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;이 인쇄물에는 이 대표가 푸른색 죄수복을 입은 것처럼 합성한 가짜 사진과 함께 민주당을 비난하는 문구가 적혀있었다.&lt;br&gt;&lt;br&gt;A씨는 재판에서 “나라가 엉망이 되는 상황을 우려해 정확한 사실을 알리려 했다”며 “법 위반인 줄 몰랐다”고 주장했다.&lt;br&gt;&lt;br&gt;그러나 재판부는 “피고인은 검찰 조사 때 ‘공직선거법이 금지한 행위인 줄 알았지만, 답답한 마음에 인쇄물을 유포했다’는 취지로 진술했다”며 “위법성을 인식했다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인이 유포한 인쇄물의 수가 적지 않고, 유포 지역도 넓어 죄책이 가볍지 않다”며 “범행이 선거 결과에 중대한 영향을 미치지 않은 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>﻿“유부남이 대체 왜 이런 범죄를”…강제추행 피해 폭로한 BJ파이</title>
+      <link>https://www.chosun.com/national/people/2024/09/22/E4TW5FAYF5G4HMUTYBDW6MZN4I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/22/E4TW5FAYF5G4HMUTYBDW6MZN4I/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Sep 2024 00:35:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3V6RLPJDDBH3HDWUKPMOGAWRQM.png"&gt;&lt;figcaption&gt;&lt;small&gt;아프리카TV BJ 파이. /파이 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;웹예능 ‘머니게임’, 서바이벌 예능 ‘피의게임2′ 등에 출연해 유명세를 탄 아프리카TV BJ파이가 유부남으로부터 성추행을 당했다고 폭로했다.&lt;br&gt;&lt;br&gt;파이는 지난 19일 아프리카TV 게시판에 “무거운 이야기를 드리려고 한다”며 “지난 14일 성추행을 당했다”고 밝혔다.&lt;br&gt;&lt;br&gt;파이는 성추행 가해자로 지목한 A씨와는 공적인 자리에서 만나 이름과 얼굴 정도만 알던 사이로, 사적인 친분은 없었다고 했다.&lt;br&gt;&lt;br&gt;사건이 일어난 날, 단체 회식에서 술을 마신 파이는 대리기사가 운전하는 차를 타고 예약해 둔 호텔로 향했다고 했다. 파이는 “그런데 눈을 떴을 때 저는 제 차 안이었고, 제 위에서 A씨가 제 몸을 만지고 있었다”며 “화들짝 놀라 A씨를 밀치며 뒤로 물러났고, 상황 파악을 하려고 애를 썼으나 A씨는 말도 안 되는 변명을 한 뒤 호텔로 다급히 돌아갔다”고 했다.&lt;br&gt;&lt;br&gt;파이는 블랙박스 등을 확인한 결과 “A씨는 일행들에게 ‘집으로 간다’고 이야기한 후 곧장 제가 예약한 호텔로 향했다”고 했다. 파이의 차가 호텔에 도착하자 A씨는 “일행이니 내가 챙기겠다”며 대리기사를 보냈고, 자신이 직접 파이의 차를 운전해 골목길에 세워둔 후 추행했다는 게 파이의 주장이다.&lt;br&gt;&lt;br&gt;파이는 “현재 A씨는 제가 너무 취해 제대로 귀가하지 못할까 봐 챙기러 왔다고 주장하고 있다”며 “겨우 얼굴만 알던 사이에, 일행들에게는 집에 간다고 굳이 거짓말한 후 알려주지도 않은 호텔 정보를 엿듣고 찾아와 저를 깨우지도 않고 음주 운전을 해 호텔 밖으로 제 차를 이동시켜 저를 만지던 상황이 상식적으로 도저히 이해되지 않는다”고 했다. 특히 “A씨는 유부남인데 도대체 저에게 왜 이런 범죄를 저지른 것인지 아직도 납득이 가지 않는다”고 했다.&lt;br&gt;&lt;br&gt;파이는 “이후 크나큰 정신적 고통과 충격에 시달리며 정신과 진료를 받아야만 했다”며 “이 일로 인해 제가 구설에 오르내리고 고통을 받게 될 것이란 것을 너무 잘 알고 있어서 두렵고 겁이 난다”고 했다. 그러나 “A씨의 뻔뻔한 태도는 도저히 제가 이 사건을 묵인할 수 없게 만들었다”며 “이미 조금씩 소문이 퍼지고 있는 상황에서 제가 정확히 이 사건에 대해 말씀을 드리는 게 도리라고 생각했다”고 폭로 이유를 밝혔다.&lt;br&gt;&lt;br&gt;파이는 지난 15일 준강제추행 혐의로 A씨를 고소한 상황이며 자세한 증거는 수사 및 재판 과정에서 제출할 예정이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘영원한 재야’ 장기표 암 투병 중 별세</title>
       <link>https://www.chosun.com/national/people/2024/09/22/LGI63O4YORB45E6FNPWBHYSZEY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/22/LGI63O4YORB45E6FNPWBHYSZEY/</guid>
@@ -926,24 +974,6 @@
       </media:content>
     </item>
     <item>
-      <title>이혼한 전 남편이 잃어버린 딸 찾았다…35만에 극적 상봉한 모녀</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/20/56HYS3W3VRGRZDJMW3DZVBBBS4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/20/56HYS3W3VRGRZDJMW3DZVBBBS4/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Sep 2024 02:42:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XKDX2FICPNGSFFC6PFZLZ4G2II.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 경남 창원시 진해경찰서에서 어머니 A씨와 35년 전 실종됐던 딸 B씨가 B씨의 아들들과 함께 상봉식을 하고 있다. /진해경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“드라마 같은 일이 생겼다.”&lt;br&gt;&lt;br&gt;다섯살 때 길을 잃고 가족과 이별한 소녀가 35년 만에 가족과 재회했다. 죽은 줄만 알았던 딸을 찾은 어머니는 추석 선물을 받았다며 기뻐했다.&lt;br&gt;&lt;br&gt;20일 경남 진해경찰서에 따르면 35년 전 이별한 어머니 A씨와 딸 B씨는 유전자(DNA) 분석을 통해 전날(19일) 상봉했다.&lt;br&gt;&lt;br&gt;A씨는 35년 전 이혼한 남편이 딸을 잃어버렸다는 얘기를 들었다. 오랜 세월 포기하지 않고 딸의 행방을 찾아다닌 A씨는 2022년 주거지 관할인 진해경찰서를 찾아 자신의 유전자(DNA) 등록을 했다.&lt;br&gt;&lt;br&gt;하지만 얼마 지나지 않아 부산가정법원으로부터 딸이 사망 선고를 받은 사실을 확인한 A씨는 망연자실한 채 살고 있었다.&lt;br&gt;&lt;br&gt;이런 가운데 A씨의 딸 B씨는 다섯살 무렵 혼자 집을 나섰다가 길을 잃고 30여년간 양어머니 밑에서 자라왔다.&lt;br&gt;&lt;br&gt;얼마 전 양어머니를 여읜 B씨는 지난 6월 경찰서를 방문해 실종신고와 유전자 채취를 진행했다.&lt;br&gt;&lt;br&gt;기다림 끝에 B씨는 아동권리보장원을 통해 국립과학수사연구원 데이터베이스에 자신과 동일한 유전자가 있다는 소식을 전해 들었다.&lt;br&gt;&lt;br&gt;마침내 A씨 모녀는 진해경찰서에서 마련한 상봉식에서 35년만에 재회했다. 모녀는 그동안 살아왔던 이야기를 주고받으며 재회의 기쁨을 나눴다.&lt;br&gt;&lt;br&gt;A씨는 “드라마 같은 일이 생겼다”며 “추석에 큰 선물을 받은 것 같다. 너무 기쁘고 감사드린다”고 했다.&lt;br&gt;&lt;br&gt;B씨도 “얼마 전 돌아가신 양어머니께서 큰 선물을 주신 것만 같아 더욱 감사하고 뜻깊다”고 말했다.&lt;br&gt;&lt;br&gt;손동영 진해경찰서장은 “두 가족에 좋은 소식을 전달해 드릴 수 있어 가슴이 벅차다”며 “앞으로도 유전자 분석으로 장기 실종자 찾기에 노력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>올해 광주 충장축제, ‘불’을 입혀 확 바꾼다</title>
-      <link>https://www.chosun.com/national/regional/2024/09/20/VUF67LOOCBBMRND5Z3SXQ5NW2M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/20/VUF67LOOCBBMRND5Z3SXQ5NW2M/</guid>
-      <dc:creator>권경안 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Sep 2024 02:32:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4Z43TQHSBNMC5GN4V2I5ARIDKM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;제20회 추억의 충장축제 개막을 하루 앞둔 지난해 10월 4일 오후 광주 동구 금남로 일대에서 임택 광주시 동구청장이 기타를 들었다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해로 21회를 맞는 ‘광주 추억의 충장축제’가 내달 2일부터 6일까지 광주광역시 동구 충장로 일원에서 열린다.&lt;br&gt;&lt;br&gt;광주시 동구는 “충장축제는 지난해 행사기간중 119만5000여 명이 참여한 것으로 집계된 호남을 대표하는 축제”라며 “올해를 기점으로 ‘불’의 이미지를 강렬하게 반영해 변화를 시도하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;광주 충장로와 금남로 등 주요 거리에서는 ‘충장축제’를 알리는 홍보물이 나부끼고 있다. 이 축제는 문체부로부터 ‘대한민국 명예 문화관광축제’로 인정받고 있다.&lt;br&gt;&lt;br&gt;충장축제의 주된 개념은 ‘추억’이다. 역대 ‘70~80′의 감성과 추억을 되새기는 프로그램들이 주를 이뤄왔다. 금남로상에서 펼치는 ‘거리 퍼레이드’는 축제의 백미이다. 여기에 ‘불’의 이미지를 가미해 변화를 시도하는 것이 이번 축제의 핵심이다. 거리 퍼레이드에서 전국 공모 17개팀이 불의 이미지를 입혀 퍼레이드를 펼친다. 이어서 주민들은 불을 ‘나르는’ 퍼레이드를, 이어서는 점화식으로 ‘버닝 포퍼먼스’를 포함한 이벤트를 선보인다. &lt;br&gt;&lt;br&gt;김태욱 축제감독은 “불의 이미지를 추억의 충장축제에 가져와 잊지 못할 추억만들기를 시도하는 것”이라고 말했다.&lt;br&gt;&lt;br&gt;불을 활용하는 여러 프로그램들도 기다리고 있다. 매일 밤 열리는 ‘로맨스 파이어’는 ‘감성’ 캠프파이어다. ‘불멍’존과 ‘화로’존으로 나눠 ‘불멍’을 즐기고, 오붓하고 낭만적인 밤을 만끽할 수 있다. ‘소원 장작’을 태울 수도 있다. 매일 밤 각국의 젊은이들이 기량을 견주는 무대인 ‘파이어 버스킹’도 진행된다. &lt;br&gt;&lt;br&gt;개막식은 내달 2일 오후 7시에 열리고, 3일에는 대동놀이 한마당, 복싱대회 ‘챔피언 2024′, 추억 감성 콘서트를 진행한다. 4일에는 글로벌 문화교류 잔치마당, 발광나이트를 연다. 5일에는 추억의 밀가루 놀이, 고고장 플래시몹, 금남로 1187m(무등산 높이)의 거리를 행진하는 ‘파이어아트 퍼레이드’를 갖는다. 6일에는 주민합창단과 추억유랑단 등이 공연한다.&lt;br&gt;&lt;br&gt;임택 광주시 동구청장은 “각각의 프로그램뿐 아니라 전체적인 분위기에서 추억 못지 않게 불의 감성을 진하게 버무린다”며 “불을 직접적으로 사용하기도 하지만 이미지와 감성을 통해 사람들은 축제 속으로 빠져들게 할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;광주시 동구는 국립아시아문화전당(옛 전남도청)과 충장로, 금남로가 있고 무등산을 뒤로 하는 광주의 원도심이다. 충장로는 여전히 젊은이들의 활보하는 도로이며, 도심속 추억의 공간이기도 하다. 최근에는 아시아문화전당을 중심으로 새로운 문화지대가 펼쳐지고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>중부·남부지방에 강한 비…중대본 가동·위기경보 ‘주의’ 상향</title>
       <link>https://www.chosun.com/national/national_general/2024/09/20/L5MGX2IYO5HXLPT2FAWQGQ3PTY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/20/L5MGX2IYO5HXLPT2FAWQGQ3PTY/</guid>
@@ -960,37 +990,6 @@
       <description/>
       <pubDate>Fri, 20 Sep 2024 01:37:03 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LBUI6KFEJ5PLTGTFVNBRK64JII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 20일 오전 서울 서초구 서울중앙지방법원에서 열린 공직선거법 위반 결심 공판에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표가 20일 ‘공직선거법 위반 사건’ 재판의 피고인으로 출석했다. 이날 검찰 구형이 이뤄지며, 1심 선고는 이르면 다음 달에 나올 것으로 보인다.&lt;br&gt;&lt;br&gt;이 대표는 이날 오전 10시 17분쯤 서울중앙지법에 도착했다. 이 대표는 동행한 박찬대 민주당 원내대표 및 김병주·전현희 민주당 최고위원 등과 악수를 한 후 입장을 발표했다.&lt;br&gt;&lt;br&gt;이 대표는 “세상 일이라는 게, 억지로 조작하고 만든다고 만들어지는 게 아니다”며 “검찰이 검찰 권력을 남용해서 증거도 조작하고, 사건도 조작하고, 정말 안쓰러울만큼 노력하지만, 다 사필귀정할 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “오늘 재판에선 저도 발언할 기회가 있고, 변호사님께서도 하실 주장들을 다 하실 것이기 때문에 국민 여러분께서 자세히 들여다보시면, 진실이 무엇인지 충분히 아실 수 있을 것”이라며 “이 모든 일들이 역사에 남을 것이고, 국민들이 판단할 것이고, 인권과 민주주의의 최후 보루인 법원에서도 사건의 진실을 제대로 판단하고, 정의롭게 결정할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;취재진이 “(공직선거법 위반 관련) 해당 발언들 후회 안하시나요?” “마지막 한 말씀 더 부탁드린다” “4개 재판 중 마무리 되는데 어떻게 보시는지”라고 질문했지만, 이에 답하지 않고 의원들과 법정으로 향했다.&lt;br&gt;&lt;br&gt;이날 이 대표 지지자와 각종 정치 유튜버들도 현장에 나와 “이재명” “이재명을 구속하라” 등의 구호를 외쳤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VG5CQX2PRBLLROH4WPH3YE4UDE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 민주당 의원들과 함께 20일 오전 서울 서초구 서울중앙지방법원에서 열린 공직선거법 위반 결심 공판에 출석해 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사34부(재판장 한성진)는 이날 선거법 재판에서 지난 기일에 마무리하지 못했던 이 대표에 대한 피고인 신문과 검찰 구형 및 이 대표의 최후 진술을 듣는 결심(結審) 공판을 진행할 예정이다. 검찰 구형과 이 대표 최후 진술은 오후 중으로 예정돼 있다.&lt;br&gt;&lt;br&gt;이 대표는 지난 대선을 앞두고 고(故) 김문기 전 성남도시개발공사 처장을 성남시장 시절 알았으면서도 몰랐다고 하고, 국토교통부 협박으로 백현동 개발 부지 용도를 상향 조정했다고 허위 사실을 말한 혐의(선거법상 허위사실 공표)로 2022년 9월 기소됐다. 이 대표는 검찰이 자신의 발언을 섞어 불리한 내용으로 공소를 제기했다며 재판 내내 혐의를 부인해 왔다. 이날 최후 진술에서도 비슷한 취지로 말할 것으로 보인다.&lt;br&gt;&lt;br&gt;원래 선거법 위반 사건은 선거법상 6개월 내에 1심을 끝내도록 하고 있지만, 이 재판은 법정 기한의 3배를 이미 넘어섰다. 그동안 이 대표의 ‘단식 투쟁’과 재판장 사직 등으로 재판이 지연됐기 때문이다.&lt;br&gt;&lt;br&gt;이 대표는 지난 대선 이후 ‘7개 사건 11개 혐의’로 총 4개의 재판을 소화 중이다. 이 가운데 이날 공직선거법 위반 사건에서 가장 빨리 1심 선고가 나올 것으로 전망된다. 결심부터 선고까지 한 달 정도 걸리는 것을 감안하면 선고 결과는 빠르면 10월 안에 나올 전망이다. 이른바 ‘위증교사 사건’에 대한 결심 공판은 오는 30일로 예정돼 있다.&lt;br&gt;&lt;br&gt;이 대표가 선거법 위반으로 벌금 100만원 이상의 형을 확정 받으면 피선거권이 박탈돼 의원직을 잃게 되고, 다음 대선을 포함해 향후 5년간 출마 자격도 없어질 전망이다. 이 경우 민주당은 434억원에 이르는 대선 선거 보전금을 반환해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>마약 투약 혐의 유명 BJ, 檢 구속 송치…혐의는 부인</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/20/3IVG57QKSNHHXOIS7MW4KUPUKU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/20/3IVG57QKSNHHXOIS7MW4KUPUKU/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Sep 2024 01:32:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JCWFSRCXDZKUHI6EHM25DAJ2FA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;집단 마약 투약 의혹에 연루된 유명 BJ 박모씨가 20일 오전 서울 강남경찰서에서 검찰로 송치되고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마약 투약 혐의를 받는 아프리카TV 유명 인터넷 방송인(BJ) 박모(35)씨가 구속 상태로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 박씨를 마약류관리법 위반(향정) 혐의로 20일 오전 서울중앙지검에 구속 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;박씨는 작년 수차례에 걸쳐 지인 3~4명과 함께 주로 자신의 자택에서 마약을 투약한 혐의를 받는다. 경찰은 지난달 27일 박씨에 대해 구속영장을 신청했고, 서울중앙지법 신영희 영장전담 부장판사는 지난 12일 “도망할 염려가 있다”며 영장을 발부했다.&lt;br&gt;&lt;br&gt;이날 오전 서울 강남경찰서에서 검찰로 송치되던 박씨는 “본인 중심으로 BJ들과 집단으로 마약을 투약한 혐의를 인정하나” “해명문에서는 마약 혐의를 부정했는데 거짓인가” “다른 BJ한테 마약을 사오라고 시킨 것인가”라는 질문에는 짧게 “아닙니다”라고 답했다. 취재진의 “할 말이 없느냐”는 질문에는 침묵했다.&lt;br&gt;&lt;br&gt;경찰은 지난달 구속송치한 조직폭력배(조폭) 출신 유튜버 겸 BJ 김강패(33)씨의 마약 혐의를 수사하는 과정에서 박씨가 김씨로부터 마약을 건네받아 함께 마약을 투약한 정황을 포착해 수사를 벌였다. 경찰은 박씨 외에도 그가 운영하는 소속사 관계자와 아프리카TV에서 활동하는 BJ 등 20여명을 입건해 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/JCWFSRCXDZKUHI6EHM25DAJ2FA.JPG?width=4239&amp;height=3060&amp;auth=a38debf08bd1e28fd07447fb5dd8e4eef1c78b7d36684afad509d2511b83d964&amp;smart=true" type="image/jpeg" height="3060" width="4239">
-        <media:description type="plain">(서울=뉴스1) 이재명 기자 = 인터넷 방송인 집단 마약 의혹에 연루된 유명 BJ 세야(본명 박대세)가 20일 오전 서울 강남경찰서에서 검찰로 송치되고 있다. 2024.9.20/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 이재명 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>서울 성북구 날염공장에서 화재 … 소방관 2명 부상</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/20/PWVDQ5EIDZBO5E7VPQORFA2RUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/20/PWVDQ5EIDZBO5E7VPQORFA2RUQ/</guid>
-      <dc:creator>강우석 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Sep 2024 01:30:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6SBAVJ4DYVFRHFZ6PY7FACU4ZI.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 서울 성북구 날염공장에서 발생한 화재현장. 이 화재로 소방관 2명이 화상 등 부상을 입었다. /성북소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 성북구에 위치한 날염공장에서 불이 나 현장에서 진압하던 50대 소방관 2명이 부상을 입었다.&lt;br&gt;&lt;br&gt;서울 성북소방서는 지난 19일 오후 10시 38분쯤 서울 성북구 날염공장에서 불이 났다는 신고를 접수했다고 20일 밝혔다. &lt;br&gt;&lt;br&gt;소방에 따르면 성북구 상월곡동 날염공장의 3층 작업대에서 화재가 발생했고 불은 1시간 32분 만인 20일 0시 10분쯤 완전히 꺼졌다. 진화 과정에서 소방관 2명이 각각 손등 2도 화상, 안면부 화상 등을 입었다.&lt;br&gt;&lt;br&gt;이 화재로 인해 공장 내 자동건조기 6개, 재단·미싱기계가 불에 타는 등 3층이 전소돼 3000만원 상당의 재산피해도 발생했다.&lt;br&gt;&lt;br&gt;소방은 경찰과의 합동감식을 통해 정확한 화재 원인을 파악 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>항문에 바둑알… ‘엽기 학폭’ 피해자, 견디다 못해 결국 살인</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/19/GH22TVSYZRENVKXPWR5EIWOLIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/19/GH22TVSYZRENVKXPWR5EIWOLIU/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Sep 2024 14:38:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YOTJTRZPDJE3JLJM35T7CXBVB4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학교 폭력과 가학 행위를 견디다 못해 중학교 동창을 살해한 10대가 실형을 선고받았다.&lt;br&gt;&lt;br&gt;19일 뉴스1에 따르면, 춘천지법 강릉지원 형사2부(권상표 부장판사)는 지난 5일 살인 혐의로 기소된 A(19)군에게 징역 장기 5년에 단기 3년을 선고했다.&lt;br&gt;&lt;br&gt;A군은 지난 4월 14일 새벽 2시30분쯤 중학교 동창 B(19)군을 흉기로 찔러 살해한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;두 사람의 악연은 A군이 중학교 3학때 삼척으로 전학을 오면서 시작됐다. B군과 친구들은 학창시절 A군을 괴롭혔다. 학교를 졸업한 뒤에도 길에서 A군을 만나면 이유없이 폭행했다.&lt;br&gt;&lt;br&gt;사건이 발생하기 몇시간 전에도 이런 괴롭힘이 있었다. 지난 4월 13일 오후 11시 40분쯤 B군은 또다른 동창생 C(19)군과 함께 강원 삼척의 A군이 사는 아파트에 찾아왔다.&lt;br&gt;&lt;br&gt;이들은 A군에게 집이 더럽다며 냄비에 물을 받아 거실과 방에 뿌린 후 닦으라고 강요했다. 일회용 면도기와 가위로 A군의 머리카락을 강제로 잘랐다. A군의 성기와 음모, 귀, 눈썹을 라이터 불로 지지기도 했다.&lt;br&gt;&lt;br&gt;가학 행위도 저질렀다. B군은 A군에게 “옷을 벗으라”고 한 뒤 자위행위를 시켰다. 면봉과 바둑알 등을 항문에 넣으라고도 했다. C군은 곁에서 이 행위를 휴대전화로 촬영했다.&lt;br&gt;&lt;br&gt;A군의 입에 소주를 강제로 들이붓기도 했다. 이들은 A군이 지시를 따르지 않으면 빗자루와 쓰레받기로 때렸다. 이런 괴롭힘은 3시간 넘게 이어졌다.&lt;br&gt;&lt;br&gt;참다 못한 A군은 이 질긴 인연을 끊기로 했다. A군은 B군이 “옆방에서 매트리스를 가지고 오라”고 하자, 집 주방에 있던 흉기를 가져와 B군을 찔러 살해했다.&lt;br&gt;&lt;br&gt;학폭 피해자에서 살인 사건 가해자가 된 A군은 수의를 입고 피고인석에 서게 됐다.&lt;br&gt;&lt;br&gt;A군 측은 “지적장애와 주의력 결핍 과잉행동장애(ADHD) 등을 진단받고, 신경정신과 처방 약을 먹던 중 사건 당일 B군의 강요로 다량의 음주까지 해 심신상실 또는 심신미약 상태에서 범행했다”며 살인의 고의가 없었다고 주장했다.&lt;br&gt;&lt;br&gt;그러나 재판부는 “사건 전날 피해자 등 일행이 피고인 집에 방문하게 된 경위와 괴롭힘을 당한 경위, 내용 등을 비교적 상세하고 구체적으로 기억하고 있어 변별 능력이나 행위 통제력을 결여했다고 보기 어렵다”고 봤다.&lt;br&gt;&lt;br&gt;A군이 중증 지적장애 진단을 받았고 학업성취도가 낮긴 했지만, 글을 읽고 쓰며 정상적으로 중고교 과정을 이수해 졸업한 점도 판단 근거로 삼았다.&lt;br&gt;&lt;br&gt;재판부는 “A군 측이 형사공탁을 했으나 피해자 유족이 수령을 거절하는 등 용서받지 못했고, 피해자의 부친은 피고인에 대한 엄벌을 탄원하고 있다”고 했다.&lt;br&gt;&lt;br&gt;그러면서도 “피고인은 피해자로부터 사건 이전부터 지속적인 괴롭힘을 당해 왔고, 피해자의 괴롭힘에 대해 형사고소를 하는 등 문제제기를 해왔다”며 “그러나 피해자의 괴롭힘 행위를 제지할 만한 조치를 받지 못한 채 오히려 피해자로부터 더 심한 괴롭힘을 당한 경험이 있어 피해자의 괴롭힘을 가족이나 학교, 경찰 등에 알리지 못했던 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;이어 “약 3시간에 걸쳐 피고인에게 인격말살에 이를 정도의 폭력과 가혹행위를 가해, 피고인이 이를 견디지 못하고 범행에 이르게 된 것으로 참작할 만한 사정이 인정된다”고 했다.&lt;br&gt;&lt;br&gt;A군은 1심 판결에 불복해 항소했다. 검찰도 양형 부당을 이유로 항소했다.&lt;br&gt;&lt;br&gt;검찰은 사건 당시 A군을 괴롭히는데 가담해 특수폭행 혐의로 재판에 넘겨진 C군에게 징역 9년을 구형했다. C군은 오는 10월 17일 선고를 앞두고 있다.&lt;br&gt;&lt;br&gt;검찰은 A군의 집에 불을 내는 등 현주건조물방화미수 혐의로 재판에 넘겨진 다른 동창생 D(19)에게는 ‘장기 6년 및 단기 4년’을 구형했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
