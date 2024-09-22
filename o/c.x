@@ -13,6 +13,64 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>군대 ‘암구호’ 담보잡고 사채 거래한 군인·업자들 수사</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/22/QFBOHWVJOJH6XFUIXTNHT6Y2AA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/22/QFBOHWVJOJH6XFUIXTNHT6Y2AA/</guid>
+      <dc:creator>전주=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Sep 2024 05:04:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KU4APYP6U3CHTIMBVB362SXVGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군인들이 군사기밀인 ‘암구호’를 담보로 해 민간 사채업자에게 돈을 빌린 정황이 포착돼 수사당국이 조사하고 있다.&lt;br&gt;&lt;br&gt;22일 본지 취재를 종합하면 전북경찰청은 최근 암구호를 유출한 혐의(군사기밀 보호법 위반)로 민간 사채업자 등 관련자들에 대한 수사를 마치고 전주지검으로 사건을 송치했다.&lt;br&gt;&lt;br&gt;이들 민간 사채업자와 군인 등은 돈을 빌릴 때 차량이나 주택 등 자산을 담보 잡히듯이 군대 암구호를 담보로 사채 거래를 했다는 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;관련자들은 군인이 채무를 상환하지 않으면 암구호를 유출한 책임을 져야 하기 때문에 암구호를 담보로 하는 사채 거래를 했다는 진술을 하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;그러나 수사 당국은 암구호가 군사기밀이기 때문에 북한으로 유출됐는지 여부도 조사하고 있는 것으로 알려졌다. 수사당국 측은 “사건 관련자들의 휴대전화 디지털 포렌식 절차도 진행할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;해당 사건은 국군 방첩사령부가 충정도 지역 모 부대에서 근무하는 일부 군인이 지난 5월 사채업자에게 돈을 빌리면서 암구호를 알려준 정황을 포착, 군인들을 상대로 조사를 하고 민간 사채업자 관련 수사 부분을 경찰에 이첩하면서 수사가 본격화됐다.&lt;br&gt;&lt;br&gt;암구호는 매일 바뀌는 ‘문어’(問語)와 ‘답어’(答語)로 구성된 군사기밀이다. ‘화랑’이라고 물으면 ‘담배’라고 대답하는 형태다. 아군이라면 지정된 질문과 답변을 주고받아 신원을 확인하고 답변하지 못하거나 틀린 답어를 외치면 적군으로 간주하기 때문에 유출시 처벌대상이 된다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KU4APYP6U3CHTIMBVB362SXVGY.jpg?width=4241&amp;height=2420&amp;auth=00a93854bb33651dcbf9a417e42289f57f92c3d1a50cbd7cc8b1c38843b0fe3e&amp;smart=true" type="image/jpeg" height="2420" width="4241">
+        <media:description type="plain">전북경찰청 전경/뉴스1 ⓒ News1 강교현 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 강교현 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“5년간 3만7000건”...대법 민사사건 절반 낸 ‘소송왕 정씨’</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/22/JRLB7PLJPZCLHJED4IGCTTJOVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/22/JRLB7PLJPZCLHJED4IGCTTJOVM/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Sep 2024 03:49:08 +0000</pubDate>
+      <content:encoded>대법원이 심리 중인 민사소송 중 절반은 서울 거주 50대 남성 정모씨 한 사람이 제기한 것으로 나타났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FXOUFHVPC2D4MZ7K32DLB4DHUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 국회 법제사법위원회 소속 국민의힘 송석준 의원이 대법원으로부터 제출받은 자료에 따르면 지난 6월 30일 기준, 대법원이 심리 중인 7283건의 민사 사건 중 정씨가 낸 소송이 3830건(52％)에 달한다. 2년 내 미제사건으로 범위를 좁히면 전체 민사 사건 4154건 중 3829건(92%)이 정씨의 소송인 것으로 나타났다.&lt;br&gt;&lt;br&gt;정씨는 2016년부터 법관과 법원 공무원, 보험 회사 등을 상대로 무분별하게 소송을 제기해왔다고 한다. 그는 소송을 제기할 때 내야하는 인지 및 송달료를 제대로 내지 않고, 소송이 각하되면 항소하고 대법원 판결에는 재심을 청구하는 등 소송을 다량으로 제기하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;정씨는 2019년부터 지난 6월까지 대법원에 3만7425건, 서울고법에는 1만5937건, 서울중앙지법에 1만4328건 소송을 제기했다고 한다.&lt;br&gt;&lt;br&gt;이는 곧 행정력 낭비와 법원 통계 왜곡으로 이어진다는 분석이 나온다. 대법원에 따르면 올 상반기 민사 사건 평균 처리 기간은 13.9개월로, 2021년 8개월, 2022년 11.7개월, 작년 7.9개월이었던 것과 비교하면 재판 지연이 심화하는 것처럼 보인다.&lt;br&gt;&lt;br&gt;하지만 정씨가 제기한 사건을 제외하면 평균 사건 처리 기간이 올해 상반기 4.2개월로 감소한다. 2021년 4.7개월, 2022년 4.9개월, 작년 4.4개월과 비교하면 처리 속도가 빨라지고 있는 것으로 나타난다.&lt;br&gt;&lt;br&gt;이에 민사소송법 개정으로 작년 10월부터는 소권 남용인에게 500만원 이하의 과태료를 부과하거나 접수를 보류할 수 있지만 여전히 한계가 있다는 지적이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>블랙리스트 만든 전공의 구속에...의료계 “대화하자더니 겁박”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/09/22/6ETSS7PODNCGTF3UVTBJ6QQACU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/22/6ETSS7PODNCGTF3UVTBJ6QQACU/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Sep 2024 04:25:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C6FQBOALCNPO7G6Q3ABRFMCM7U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;의료계 집단행동에 동참하지 않은 의사·의대생의 신상 정보가 담긴 블랙리스트 '감사한 의사'를 유포한 사직 전공의 정 모씨가 20일 서울 서초구 서울중앙지법에서 열린 구속 전 피의자 심문(영장실질심사)을 마친 뒤 경찰과 함께 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전공의 집단 행동 등에 참여하지 않은 의사들의 신상 정보를 담은 ‘블랙리스트’를 만들어 게시한 사직 전공의가 최근 구속된 가운데, 의료계는 잇달아 성명을 발표하며 반발하고 나섰다.&lt;br&gt;&lt;br&gt;서울시의사회는 지난 21일 성명을 통해 사직 전공의 구속을 ‘본보기식 구속’이라 규정하면서 “참담함을 금치 못하겠다”며 강한 유감을 표명했다. 의사회는 “정부는 앞에서는 대화를 청하면서 뒤로는 검경을 통해 겁박하고 있다”며 “정부와 정치권은 더 이상의 사직 전공의 탄압을 멈추고, 사태 해결에 진정성을 보여줘야 한다”고 촉구했다. 이들은 블랙리스트 작성을 정부의 초법적 행위에 대한 저항이라고도 했다. 의사회는 “정부는 6개월여에 걸쳐 공권력을 동원해 전공의 사직 금지, 의대생 휴학 금지 등 초법적 조치를 밀어붙였다”며 “잘잘못을 떠나 이에 대한 저항 수단으로 이런 일이 발생한 것”이라고 했다.&lt;br&gt;&lt;br&gt;전북도의사회도 같은 날 성명을 내고 “의료계 블랙리스트 사건으로 구속된 사직 전공의를 즉시 석방할 것을 촉구한다”고 했다. 이들은 “정부가 의료계의 목소리를 억압하고, 개인적인 의견 표출을 이유로 사직 전공의를 구속하는 행위는 명백히 표현의 자유를 침해한 것”이라고 했다.&lt;br&gt;&lt;br&gt;경기도의사회는 서울 이태원 인근에서 ‘전공의 구속 인권 유린 규탄’을 주제로 집회를 열고, “이런 정도의 소극적 의사 표현 조차 말살하는 것은 북한 수준의 인권 유린”이라고 했다. 구속된 전공의를 면회한 임현택 대한의사협회(의협) 회장은 “구속된 전공의와 리스트에 올라 피해를 입은 분들 모두가 정부가 만든 피해자”라며 “정부가 의사들 사이를 다 결딴내고 있다”고 규탄했다.&lt;br&gt;&lt;br&gt;의료계에선 “증거 인멸 우려도 없고 도저히 구속 사안으로 볼 수 없다”며 정부는 물론 판사까지 비판하기도 했다. 그러나 일각에선 “자성해야 한다”는 목소리도 나온다. 서울의 한 대학병원 교수는 “복귀 전공의 신상을 공개하면서 사실상 조리돌림한 것은 상식적으로 있어선 안 되는 일”이라며 “복귀 전공의는 물론 현실적인 이유 등으로 복귀를 고민하고 있는 전공의들에게도 겁박이나 다름 없다”고 강도 높게 비판했다. 익명을 요구한 한 전공의도 “저런 신상 공개 때문에 복귀를 못하고 고민하고 있는 동료들이 주변에 적지 않다”고 했다.&lt;br&gt;&lt;br&gt;강희경 서울의대 비대위원장은 자신의 페이스북에 “의사 블랙리스트를 만들고 배포하시는 분들은 스스로 얼마나 부끄러운 일을 하고 있는지 깊이 생각해보시기 바란다”며 “블랙리스트의 존재는 전공의들의 사직이 개인의 선택에 의한 것임을 의심하게 한다”고 글을 남겼다. 노환규 전 의협 회장도 페이스북에 “정모씨의 행동은 그 취지가 마녀사냥과 다름없다는 점에서 비판받아 마땅하다”고 썼다. 다만 이 둘 모두 적법한 구속인지에 대해서는 문제를 제기했다.&lt;br&gt;&lt;br&gt;이런 가운데 근무 중인 의사의 실명을 ‘감사한 의사 명단’이라는 제목으로 공개한 아카이브 사이트엔 최근 “추가적인 업데이트는 더 이상 하지 않고 이제 리스트를 고정하겠다”는 공지가 올라왔다. 운영자는 “어느 정도는 (아카이브의) 목적을 달성했다고 생각한다”며 “계속 언론에 소개되는 것이 윤석열 대통령 지지율에 좋지 않은 방향으로 작용할 수 있다고 판단했다”고 했다.&lt;br&gt;&lt;br&gt;운영자는 이용자들에게 ‘보안 가이드라인’을 안내했다. 그는 “(아카이브) 링크를 카카오톡이나 네이버 댓글 등 국내 사이트에 올리면 안 된다”, “제대로 된 가상사설망(VPN)과 익명 네트워크 토르(Tor)를 같이 써야 한다” 등 지침을 안내하면서 이를 어기는 건 ‘저를 잡아가 주세요’라는 것과 같다고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>순찰차에 소변보고, 경찰 무릎 ‘팍’...잇단 난동 20대男 ‘실형’</title>
+      <link>https://www.chosun.com/national/2024/09/22/QDBI4I4H6FDIBDKSY4PW2LTCQU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/09/22/QDBI4I4H6FDIBDKSY4PW2LTCQU/</guid>
+      <dc:creator>울산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Sep 2024 04:36:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXOJ6JDLRZBJ3JMT3HJAJ35O5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰차에 소변을 보고, 경찰관을 폭행하는 등 3개월간 10차례 난동을 부린 20대 남성에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;울산지법 형사4단독 정인영 부장판사는 특수협박과 공무집행방해, 재물손괴 등의 혐의로 기소된 A 씨에게 징역 10개월과 벌금 30만원을 선고했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;판결문에 따르면 A씨는 지난 2022년 11월 초 서울에서 소란을 피우다 신고를 받고 출동한 경찰관들이 자신을 파출소로 연행하려 하자 저항하면서 한 경찰관의 무릎을 발로 찬 혐의 등을 받고 있다.&lt;br&gt;&lt;br&gt;A씨의 난동은 1~2차례가 아니었다. 앞서 같은 해 9월 A씨는 서울 용산구 이태원 한 도로에 주차된 순찰차에 소변을 봤다. 이 일로 파출소로 연행되는 과정에서 경찰관에게 욕설하는 등 소란을 피웠다.&lt;br&gt;&lt;br&gt;이틀 뒤 A씨는 술에 취해 해당 파출소로 들어가려다 제지를 당하자, 옷을 벗고 팬티만 입은 채로 출입문을 밀면서 20분가량 난동을 피우기도 했다. A씨는 같은 해 10월 말에는 부산에 있는 아버지 B 씨 집을 찾아가 욕설을 하고 흉기로 위협했다. 이밖에 주차 문제로 시비가 붙은 외국인에게 욕설하며 맥주병으로 때릴 듯 협박하거나, 한 주점에서 다른 손님의 옷을 가위로 자르기도 했다.&lt;br&gt;&lt;br&gt;정인영 부장판사는 “피고인은 3개월 동안 총 10차례 범행을 저지르고, 지난 2021년 공무집행방해 등 동종범죄로 징역형의 집행유예 기간 중 범행했다”면서 “재범의 위험성과 비난 가능성이 상당하다”고 지적했다.&lt;br&gt;&lt;br&gt;그러면서 “다만 아버지 B씨가 아들 A 씨에 대한 처벌을 원하지 않는 점, A 씨에게 양극성 장애 등 정신질환이 있는 점을 참작했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대통령실 “사직 전공의 33% 신규 취업...이미 의료 현장 돌아온 것”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/09/19/7T5O6TH6QFCADCSZBZFXGSC3PM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/19/7T5O6TH6QFCADCSZBZFXGSC3PM/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Sep 2024 07:43:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L2JSQVJSQ5P6DLX5N2SGZYK45Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장상윤 사회수석이 19일 서울 용산 대통령실 청사에서 의료 현안 관련 브리핑을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부의 의대 증원 정책에 반발해 사직한 전공의 중 약 33%가 다른 의료 기관에 신규 취업한 것으로 나타났다.&lt;br&gt;&lt;br&gt;장상윤 대통령실 사회수석은 19일 브리핑에서 “사직한 전공의(레지던트) 8900여 명 중 33%인 2900여 명은 다른 의료 기관에 신규 취업해 의사로 활동 중”이라며 “전체 레지던트의 40%가 의료 현장에 이미 돌아와 있는 것”이라고 했다.&lt;br&gt;&lt;br&gt;장 수석은 “전공의가 의사라는 직업을 포기한 게 아니라 수련 환경과 의료 체계가 제대로 변화한다면 (병원으로) 복귀해 수련을 이어가고 싶어 한다는 방증”이라며 “전공의가 지도 전문의의 세심한 교육 훈련을 받도록 투자를 강화하고 공정한 보상 체계와 진료 환경을 만드는 게 전공의 복귀의 지름길”이라고 했다.&lt;br&gt;&lt;br&gt;보건복지부에 따르면 13일 오전 11시 기준 수련병원 211곳에 출근한 전공의는 1202명이다. 전체 전공의 1만3531명 중 8.9%에 불과하다. 출근 중인 레지던트는 1만463명 가운데 1090명(10.4%)에 그친다.&lt;br&gt;&lt;br&gt;한편, 이날 장 수석은 여야의정 협의체에 참여하지 않고 있는 의료계를 향해 “정부의 태도 변화 같은 전제 조건을 달며 문제 해결을 미룰 게 아니라, 대화의 장에 나와 머리를 맞대고 해결 방안을 모색하는 게 국민에 대한 도리”라고 했다.&lt;br&gt;&lt;br&gt;장 수석은 “대화의 문이 열려있다는 정부의 일관된 입장은 변함이 없다”며 “환자들은 의사 여러분이 지켜야 할 국민”이라고 했다. 그러면서 “의사의 존재 이유인 환자의 외침을 외면하지 말고 대화의 장으로 나와주길 다시 한번 간곡히 요청한다”고 했다.&lt;br&gt;&lt;br&gt;내년 의대 증원에 대해선 “이미 수시 대학입시가 진행 중인 2025학년도 의대 정원 조정은 현실적으로 불가능하다”며 “다만 2026학년도 이후 정원에 대해 정부는 유연한 입장”이라고 했다. 그는 “의료계가 과학적 근거를 갖춘 합리적인 안을 제시한다면 정부는 열린 마음으로 논의할 것”이라고 재차 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한전, 누수로 수도요금 폭탄…법원 “관리 게을리 해 생긴 손해”</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/22/HN4H77MV65CC7MCCD7ALISQTMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/22/HN4H77MV65CC7MCCD7ALISQTMQ/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Sep 2024 04:00:10 +0000</pubDate>
+      <content:encoded>한국전력공사가 무인 사업장 수도관에서 물이 새 1400만원의 수도요금 폭탄을 맞자 이를 취소해 달라고 소송을 냈지만 패소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NIGDJAOFDDISKIKUSQRTDLCPOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 양재동 가정·행정법원 전경 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정5부(재판장 김순열)는 최근 한전이 서울 중부수도사업소장을 상대로 낸 상하수도 요금 부과처분 취소 소송을 원고 패소로 판결했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;중부수도사업소는 작년 10월 서울 중구에 위치한 한전의 무인 사업장 계량기를 검침한 뒤, 상수도요금 2600여만원·하수도요금 4033여만원·물이용 부담금 361여만원 등 합계 약 7000만원의 요금을 부과했다.&lt;br&gt;&lt;br&gt;이 사업장의 화장실 바닥 배관에서 물이 새면서 많은 요금이 부과됐다고 한다. 2022년 8월 현장 검침 당시엔 계량기 수치가 416㎥이었는데, 1년 2개월 만에 수치가 2만1668㎥로 측정됐다.&lt;br&gt;&lt;br&gt;이 기간동안 한전 사업장에는 상주 직원이 없어 계량기 방문 검침이 주기적으로 이뤄지지 않았고, 누수 사실도 발견되지 못했다. 수도사업소가 검침을 위해 한전에 지속적으로 연락했음에도 회신이 없자, 두 시점의 계량기 수치를 뺀 기준으로 상수도 요금을 산정했다.&lt;br&gt;&lt;br&gt;한전은 수도사업소에 작년 11월 배관 누수에 따른 감면요율을 적용해 달라고 요청했고, 수도사업소는 하수도요금을 면제하는 등 요금을 1480여만원으로 줄여줬다.&lt;br&gt;&lt;br&gt;그러나 한전은 이 요금도 낼 수 없다며 행정소송을 제기했다. 한전은 수도사업소가 1년 2개월간 현장검침을 하지 않았고 설치된 계량기는 2017년 이후 교체 대상임에도 교체하지 않아 누수 사실을 몰랐다고 주장했다.&lt;br&gt;&lt;br&gt;하지만 재판부는 누수를 제때 확인하지 못한 것은 전적으로 무인사업장으로 운영하기로 한 한전의 책임이라며 수도사업소의 손을 들어줬다. 수도 조례에 따르면 수도사용자에게 사업장 내 배관 설비를 관리할 의무를 부여하고, 이를 게을리해 발생한 손해는 사용자에게 부담하도록 하기 때문이다.&lt;br&gt;&lt;br&gt;재판부는 “수도사업소는 수도 조례에 따라 이미 상수도요금, 물이용부담금을 상당한 정도로 경감하고 4000만원 상당의 하수도요금을 면제해 줬다”며 “나아가 한전의 책임 영역에서 발생한 누수 수도 요금을 추가로 감면해 줘야 할 특별한 근거는 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>부산 ‘인구 위기’ 돌파구… 주거·보육·교육·청년·고령층 등 맞춤형으로</title>
       <link>https://www.chosun.com/national/regional/yeongnam/2024/09/10/T7XO6C6LJRD6JLIRM7VN25KVHU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/09/10/T7XO6C6LJRD6JLIRM7VN25KVHU/</guid>
@@ -907,24 +965,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMGA4NO5BFCJ5KDLOB6HLA3DWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지방·고등법원 전경. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세무 비리 혐의로 기소된 전 대구지방국세청장에게 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 형사 11부(재판장 이종길)는 20일 뇌물수수 혐의로 기소된 전 대구지방국세청장 A씨에게 무죄를 선고했다. 하지만 뇌물공여 혐의로 기소된 세무사 B씨와 부정처사후 수뢰 및 허위공문서 작성 혐의로 기소된 세무공무원 5명에겐 징역 8개월~2년 6개월을 각각 선고했다.&lt;br&gt;&lt;br&gt;A씨는 현직이던 지난 2022년 8~9월 세무사 B씨로부터 두 차례에 걸쳐 1300만원 상당의 뇌물을 받은 혐의로 재판에 넘겨졌다. 검찰은 B씨가 “(내가) 의뢰를 맡은 업체가 세무 조사 대상이 됐으니 잘 봐달라”는 취지로 부탁하며 A씨에게 돈을 건넨 것으로 파악했다.&lt;br&gt;&lt;br&gt;하지만 재판부는 B씨가 A씨에게 뇌물을 건넨 것으로 보기 어렵다고 판단했다. A씨의 뇌물 수수 혐의를 뒷받침하는 증거는 B씨의 진술 뿐인데, 정작 B씨는 뇌물을 준 시점을 정확히 기억하지 못했다.&lt;br&gt;&lt;br&gt;재판부는 “A씨와 B씨가 같은 부서에서 일했지만 사적 친분이 없었고, B씨가 뇌물을 줬다고 주장한 시기는 A씨가 국세청장으로 갓 부임한 때로, 뇌물을 받으면 쉽게 그 사실이 노출되는 상황이었다”며 “B씨가 다른 공무원들에게 뇌물을 준 것은 명확히 기억하는 반면, A씨에게 돈을 건넸다는 진술은 일자나 내용 등이 구체적이지 못하며 추측에 의존하고 있다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 또 “B씨가 두 차례에 걸쳐 1300만원을 전달했다고 하는데, 두번째 만남이 있었다고 주장하는 시기는 관공서 집중 감찰 기간과 겹쳐 실제 만남이 있었을지도 의문”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;반면 재판부는 세무사 B씨와 세무공무원 5명 등 6명에 대해선 혐의가 인정된다고 판단했다. B씨는 당시 세무공무원들에게 1000만~2000만원 상당의 뇌물을 건네며 세무 조사를 무마해달라는 등의 청탁을 한 것으로 조사됐다. B씨는 약 23년간 세무공무원으로 일했던 전관(前官) 세무사였다. B씨는 로비 대가로 세무조사 대상 업체들에게 2억원 정도를 받은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;세무공무원 4명은 B씨를 통해 뇌물을 받은 뒤 업체 과세 서류를 삭제·조작했고, 또 다른 세무공무원 1명은 세무 조사 정보를 사전에 B씨에게 알려주거나 세무조사를 하지 않아도 된다는 취지의 허위 공문서를 작성한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “전관 세무사와 국세청 현직 공무원이 결탁해 조세 행정의 신뢰성을 훼손한 만큼 엄벌이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>미아동서 70대 몰던 제네시스 햄버거 가게로 돌진… 1명 심정지</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/20/2J7GPBCJ6ZAYDPCF2CEKGELGLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/20/2J7GPBCJ6ZAYDPCF2CEKGELGLA/</guid>
-      <dc:creator>서보범 기자, 강우석 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Sep 2024 03:44:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YTLQOIGGGJGEFPJWOYDPBP6F6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강북구 미아동의 한 상가 1층 건물로 승용차가 돌진해 1명이 심정지 상태로 병원으로 이송되고 5명이 중경상을 입었다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강북구에서 주행 중이던 차량이 한 상가 건물 1층으로 돌진해 1명이 심정지 상태로 이송되고 5명이 중·경상을 입는 사고가 20일 발생했다.&lt;br&gt;&lt;br&gt;서울 강북경찰서와 소방당국은 이날 오전 10시 32분쯤 서울 강북구 미아동의 한 상가 1층 건물 햄버거 가게로 70대 남성이 몰던 제네시스 G330 차량이 돌진하면서 중상 2명·경상 4명 등 부상자가 발생했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰과 소방에 따르면 당시 해당 차량은 도로 중앙에 설치된 버스정류장 인근 철제 펜스와 가로수를 들이받으며 상가로 돌진한 것으로 파악됐다. 이 사고로 인근에 있던 시민 1명이 심정지 상태로 발견돼 병원으로 이송됐다. 운전자도 중상을 입고 치료를 받고 있으며, 현재까지 급발진을 주장하지는 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 추후 정확한 사고 원인을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>與 시의원, ‘대기업 오찬’ 김정숙 여사 직권남용 혐의로 고발</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/20/XAG7RP3WCRFDLGB4BHR7JAO5TA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/20/XAG7RP3WCRFDLGB4BHR7JAO5TA/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Sep 2024 03:21:01 +0000</pubDate>
-      <content:encoded>이종배 국민의힘 서울시의원이 문재인 전 대통령의 배우자 김정숙 여사가 2019년 대기업 관계자들을 초청해 청와대에서 오찬을 가진 것은 직권남용이라며 검찰에 고발했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXV7FZRVPK2VCEDZZVDEWTJ67Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종배 국민의힘 서울시의원이 지난 6월 19일 서울 서초구 서초동 서울중앙지방검찰청에 김정숙 여사 타지마할 외유 의혹 관련 고발인 조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 의원은 20일 김 여사를 직권남용 권리행사방해, 업무방해 혐의로 서울중앙지검에 고발했다. 이 의원은 김 여사가 2019년 6월 20일 삼성전자, 롯데 등 10여개 기업의 고위 관계자들을 불러 오찬을 했다며 김 여사가 대기업 총수들의 청와대 오찬 참석 요청 연락을 부하 직원에게 지시한 것은 직권남용에 해당한다고 주장했다. 이 의원은 또 대기업 총수들은 영부인의 요청을 거절할 수 없어 청와대 오찬에 참석했고 이에 기업 업무를 방해받은 것이라고 주장했다.&lt;br&gt;&lt;br&gt;이 의원은 “(김건희 여사의) 정상적인 역할에 대해선 온갖 비난하면서 정작 김정숙 여사의 있을 수 없는 대통령 행세에 대해선 침묵하는 민주당을 규탄하지 않을 수 없다”고 했다.&lt;br&gt;&lt;br&gt;이 의원은 김 여사의 인도 타지마할 외유성 출장 의혹, 샤넬 재킷 의혹 등도 고발한 인물이다. 검찰은 두 의혹에 대해 수사를 진행하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이은애 “정부 · 국회, 헌법불합치 결정 이후 개선 입법 조속히 노력해야”</title>
       <link>https://www.chosun.com/national/court_law/2024/09/20/4RTPXN4Y3RBRPP2KGLTHDZFCVU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/20/4RTPXN4Y3RBRPP2KGLTHDZFCVU/</guid>
@@ -932,46 +972,6 @@
       <description/>
       <pubDate>Fri, 20 Sep 2024 03:09:41 +0000</pubDate>
       <content:encoded>이은애 헌법재판관이 헌법불합치 결정 이후 정부와 국회가 신속하게 개선 입법으로 뒷받침해 국민의 기본권이 보장되어야 한다고 강조했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FXD3LBI7U5PSPIAJVWKYEFJT5I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;20일 퇴임하는 이은애 헌법재판관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 재판관은 20일 서울 종로구 헌법재판소 대강당에서 열린 퇴임식에서 “6년 전 저는 헌법재판관으로 취임하면서 ‘소수자와 약자의 목소리에 더욱 세심히 귀 기울여 모든 국민이 인간으로서의 존엄과 가치를 누릴 수 있도록 최선을 다하고, 다양한 가치가 극단적으로 표출돼 갈등을 일으키는 시대상황 가운데 균형 잡힌 시각으로 우리 국민과 미래세대를 위한 기본권의 충실한 보장과 헌정질서 정립에 최선을 다하겠다’고 다짐했다”며 “지난 6년간 부족한 저는 혼신의 힘을 다해 이러한 다짐을 이행하고자 노력했다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “존경하는 이종석 소장님과 동료 재판관님들의 협력과 조언, 성실한 연구관들과 직원 여러분들의 지원으로 낙태죄 사건, 아동의 출생등록될 권리 사건, 가족관계등록법상 가정폭력 피해자의 개인정보를 보호하기 위한 구체적 방안을 마련하지 아니한 입법부작위 사건, 교통약자의 이동편의 증진법 시행규칙상 특별교통수단에 있어 표준휠체어를 이용할 수 없는 장애인을 위한 휠체어 고정설비의 안전기준을 정하지 아니한 행정입법부작위 사건, 기후위기 사건 등 여러 사건에서 헌법불합치결정을 이루어 낸 것을 기쁘게 생각한다”고 떠올렸다.&lt;br&gt;&lt;br&gt;하지만 이 재판관은 “이러한 헌법불합치 결정들은 국민의 기본권 보장을 위한 출발에 불과하다”면서 “헌법불합치 결정들 중 개선 입법이 이루어지지 않은 것에 대해선 조속히 국회와 정부가 노력해 국민의 기본권이 보장되는 합헌적 상태를 완성하기를 기대한다”고 덧붙였다. &lt;br&gt;&lt;br&gt;헌법불합치 결정은 해당 조항은 위헌이지만, 바로 무효로 하면 생기는 혼란을 막기 위해 법 개정에 시한을 두는 결정이다. 헌재는 2019년 모든 낙태를 처벌하는 형법 조항에 대해 헌법불합치 결정을 내렸다. 특수한 사정 때문에 하는 낙태도 있으니 법을 현실에 맞게 고치라는 취지였다. 헌재는 2020년 말까지 보완 입법을 해달라고 했지만 4년이 지나도록 낙태 허용 시기 등을 규정하는 국회·정부 입법은 아직 이뤄지지 않았다. &lt;br&gt;&lt;br&gt;이 재판관은 아쉬움도 있었다고 돌아봤다. 그는 “제가 재임 중 연구하고 고민했던 사형제 사건을 비롯해 중요한 헌법적 쟁점이 있는 여러 사건들을 해결하지 못하고 떠나게 돼 헌재의 결정을 기다리고 있는 청구인들과 국민 여러분께 송구하다”며 “앞으로 헌재가 중요한 헌법적 쟁점이 있는 사건에 더욱 전념할 수 있도록 헌법연구관과 헌법연구원의 증원, 나아가 사전심사의 범위 확대를 비롯한 입법적 제도개선이 있기를 기대한다”고 했다. &lt;br&gt;&lt;br&gt;이 재판관은 1990년 서울서부지법 판사로 임관해 약 34년 동안 판사 생활을 했다. 2002~2004년 헌법재판소 연구관으로 파견 근무했고, 2012년 광주고법 전주재판부 부장판사, 2014년 서울고법 부장판사 등을 역임했다. 이 재판관 후임으론 김복형(56·사법연수원 24기) 서울고법 부장판사가 지명됐고, 윤석열 대통령은 지난 12일 김 재판관 임명안을 재가했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>같은 국적 동료 살해한 외국인 노동자, 징역 12년 확정</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/20/NWZ47YAOLBE6FEKW6EIBRYLKUU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/20/NWZ47YAOLBE6FEKW6EIBRYLKUU/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Sep 2024 03:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X3DWKKO633K5H7KE5K62XKG32Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;직장 동료인 동포를 살해한 혐의로 기소된 스리랑카 출신 외국인 노동자가 징역 12년을 확정받았다.&lt;br&gt;&lt;br&gt;20일 법조계에 따르면, 대법원 2부(주심 오경미 대법관)는 살인 혐의로 기소된 30대 A씨에게 징역 12년을 선고한 원심 판결을 지난달 23일 확정했다.&lt;br&gt;&lt;br&gt;A씨는 작년 12월 3일 전남 영암군의 한 외국인 노동자 숙소에서 같은 스리랑카 출신 20대 직장 동료 B씨를 흉기로 찔러 숨지게 한 혐의를 받는다. 두 사람은 평소에도 종교, 흡연 등 문제 등으로 자주 다퉜다. 특히 덩치가 큰 B씨가 A씨를 종종 때리거나 비웃기도 했다고 한다. 범행 당일도 두 사람은 술을 마신 채 말다툼을 벌이다가, B씨에게 맞은 A씨가 격분해 흉기로 살해한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 “의도치 않게 찌른 것으로 살해 의도는 없었다”고 주장했다. 하지만 1심은 “A씨는 범행 직전 B씨에게 칼을 보이며 ‘찔러 죽여버리겠다’라고 말했고 그 직후 실제로 피해자를 칼로 찔러 사망케 했다”며 살인 고의가 인정된다고 보고 징역 12년을 선고했다.&lt;br&gt;&lt;br&gt;2심도 1심과 동일하게 판단했다. 대법원은 “A씨와 피해자와의 관계, 범행의 동기 및 수단과 결과 등을 살펴보면 원심 판결이 부당하다고 할 수 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>베트남 거점 100억대 모바일 스미싱 범죄조직...경찰에 무더기 검거</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/20/YXVHGYBBA5EFLOSLGOACPUTAWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/20/YXVHGYBBA5EFLOSLGOACPUTAWM/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Sep 2024 02:18:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/44DECGX6XBNO7L5X4PSBXJVWQY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청은 베트남에서 사무실을 차려 국내 조직원들과 함께 모바일 스미싱 범행을 해온 해외 조직원 7명을 검거, 총책 등 3명을 지난 14일 인천국제공항을 통해 강제송환했다고 20일 밝혔다. /경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;베트남에 거점을 두고 100억원대 모바일 스미싱 범죄를 저지른 조직이 무더기로 검거됐다. 경찰은 “이번에 검거된 스미싱 조직 피해자는 230명 피해액이 100억대로, 역대 최대 피해 규모”라고 밝혔다.&lt;br&gt;&lt;br&gt;경찰청은 베트남 공안과 공조 수사를 통해 베트남 현지에서 모바일 스미싱 범죄 조직 총책과 핵심 조직원 총 7명을 검거, 이 중 6명을 국내로 송환했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;이 조직은 베트남 호찌민시 일대에 거점을 두고 청첩장, 부고장, 택배 문자, 자녀사칭 문자 등을 모바일로 발송해 링크를 누르면 악성프로그램을 설치하는 수법으로 피해자 230명에게 총 100억원을 가로챈 혐의를 받는다. 모바일 스미싱 사건 가운데 피해액 기준으로 역대 최대 규모다.&lt;br&gt;&lt;br&gt;경찰은 총책을 비롯해 국내·외 피의자 86명을 검거했다고 밝혔다. 이 중 해외에서 활동한 조직원은 7명으로, 이 중 한 명은 별도 범죄로 베트남 현지에 수감됐다. 나머지 6명은 모두 지난 14일 국내로 강제 송환됐다.&lt;br&gt;&lt;br&gt;사건은 경북경찰청 사이버범죄수사대에서 시작됐다. 경북청은 작년 7월 모바일 청첩장을 받고 사기 피해를 당했다는 신고를 접수, 모바일 스미싱 범죄 수사에 착수했다.&lt;br&gt;&lt;br&gt;경찰은 피해금이 넘어간 가상계좌·법인계좌 등 약 70개 계좌에서 30만건에 이르는 거래 내용을 분석, 집중 수사를 벌였다. 수사 결과 조직원인 베트남인 조직원 2명도 검거하고 이중 1명을 구속했다. 경찰청은 “베트남 공안부와 범죄 조직 첩보를 공유하고 제 3국 도피 차단 조치 등을 통해 이들을 검거했다”고 했다.&lt;br&gt;&lt;br&gt;총책은 지난 4일 베트남 호찌민시의 은신처에서 검거됐고 압박감을 느낀 조직원 2명이 자수하기도 했다. 베트남 공안도 조직원 3명을 검거했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, 티몬·위메프 대표 이틀째 소환</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/20/QI6DNODFLNEGTHE36WQXP23SIY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/20/QI6DNODFLNEGTHE36WQXP23SIY/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Sep 2024 02:46:12 +0000</pubDate>
-      <content:encoded>‘대규모 미정산 사태’를 일으킨 혐의를 받는 티몬‧위메프 대표가 20일 검찰에 피의자 신분으로 조사를 받기 위해 출석했다. 전날(19일)에 이어 이날도 조사를 받는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQEMTWUHGJLRHDQFZ53JYOEWPY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;류광진 티몬 대표(왼쪽)와 류화현 위메프 대표가 대규모 환불 지연 사태와 관련한 피의자 조사를 받기 위해 19일 오전 서울 서초구 서울중앙지검에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울중앙지검 전담수사팀(팀장 이준동 반부패1부장)은 이날 오전 류광진 티몬 대표와 류화현 위메프 대표를 불러 조사하고 있다. 수사팀은 전날 자정쯤까지 심야조사를 진행한 것으로 알려졌는데, 이날도 두 대표를 불러 강도 높은 조사를 이어가고 있는 것이다.&lt;br&gt;&lt;br&gt;수사팀은 티몬‧위메프의 판매자 정산용 대금이 큐텐그룹의 미국 이커머스 업체 ‘위시’ 인수에 쓰이는 과정에서 두 대표가 구영배 큐텐그룹 대표와 공모했는지 여부를 캐묻는 것으로 알려졌다. 지급불능 사태를 인식했는지 여부 등도 조사 중이라고 한다.&lt;br&gt;&lt;br&gt;두 대표는 티몬‧위메프에 입점한 판매자들에게 정산해줘야 할 판매 대금 500억여 원을 ‘위시’ 등 다른 기업 인수에 돌려쓴 혐의(횡령)를 받는다. 또 대금 정산이 어려울 것을 알면서도 상품권을 판매한 혐의(사기)도 있다. 검찰은 사기 피해 규모를 1조4000억원대로 추산하고 있다.&lt;br&gt;&lt;br&gt;류광진 대표는 이날 검찰에 출석하면서 “조사가 끝나면 말씀드리겠다”고 했다. 류화현 대표는 “검찰이 조사를 많이 끝내놓았다”며 “혐의를 부인하는 것은 아니다”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“제발 아이는…” 딸 2주기에 ‘욕설 부부’ 본 진태현, 결국 눈물 쏟았다</title>
-      <link>https://www.chosun.com/national/people/2024/09/20/UP3XFICAGJELJFTAEZOIM2UJVU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/20/UP3XFICAGJELJFTAEZOIM2UJVU/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Sep 2024 00:35:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JKKUXGKJCZGNJB2NUBTEQTQD7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 진태현./JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 진태현(43)이 아이들에게 막말하는 부부의 모습에 2년 전 떠나보낸 딸을 떠올리며 눈물을 흘렸다.&lt;br&gt;&lt;br&gt;진태현은 지난 19일 MC를 맡은 JTBC ‘이혼숙려캠프’를 통해 아내의 욕설 습관 문제로 찾아온 ‘욕설부부’의 일상 영상을 보며 조사에 나섰다. 영상에는 아내가 아이들에게 막말과 욕설하는 모습이 고스란히 담겼다.&lt;br&gt;&lt;br&gt;이를 지켜본 진태현은 “사실 오늘 녹화하러 오면서 즐겁게 촬영하려고 왔다. 딸을 하늘나라로 보낸 지 2주기 되는 날”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q5PL7E3UT5CBJFYGBCD3BZAA2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 진태현이 먼저 떠나보낸 딸을 떠올리며 눈물을 훔치고 있다./JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그는 “(사연자가) 차에서 아이에게 카시트를 해주면서 말하는 모습을 봤다”며 “어제 아내와 (딸의) 카시트를 정리했다. 아이를 가지고 싶어도 못 가지는 사람이 있는데 (아이가) 소중하다는 걸 알아야 한다”고 눈물을 보였다.&lt;br&gt;&lt;br&gt;이어 “저에게는 꿈이었다. 아이를 카시트에 앉혀 보는 것”이라며 “두 분이 이혼하든 말든 상관없지만 하나만 약속해달라. 제발 아이들은 잘 키워야 하지 않나”라고 했다.&lt;br&gt;&lt;br&gt;진태현의 진심 어린 충고에 MC 박하선과 ‘욕설부부’의 아내도 함께 눈물을 흘렸다.&lt;br&gt;&lt;br&gt;끝으로 진태현은 “아까 아이 이야기가 나와 사실 제정신이 아니었다. 죄송하다”고 했다. 그러면서 “이혼이라는 문제를 가지고 여기에 왔지만 도리는 하고 살아야 한다. 인생을 왜 방치하는지, 그러지 말라”고 당부했다.&lt;br&gt;&lt;br&gt;욕설부부는 인터뷰를 통해 “아이에 대한 감사함을 모르고 불평·불만하고 살았다. 아이를 처음 가졌을 땐 축복이라 생각했는데 키우다 보니 그걸 망각했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRYMQRHBWRB2DKJ4ARY2LQTTD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 진태현, 박시은 부부./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;진태현은 2015년 배우 박시은(44)과 결혼했다. 두 사람은 2022년 임신 소식을 알렸지만, 같은 해 8월 출산 약 20일을 앞두고 유산의 아픔을 겪었다.&lt;br&gt;&lt;br&gt;지난 16일 그는 인스타그램을 통해 “오늘은 사랑하는 우리 딸이 떠난지 2년이 되는날”이라며 “행복의 기억과 상실의 기억이 동시에 우리를 너무 괴롭히지만 (아내와) 서로 손잡고 안부를 묻는다. 흘려보내고 흘려 보내야 나도 흘러갈 수 있기에 오늘도 그냥 지나가는 시간이 감사하다”고 적었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/J4SL66U7A5GHVGCEO56XSJ3G4M.jpg?width=436&amp;height=245&amp;auth=39bb3221cd934dd4005f6097e9f9251690024f1b3207ffdd2a866f871f1c5c25&amp;smart=true" type="image/jpeg" height="245" width="436">
-        <media:description type="plain">배우 진태현./JTBC</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>중부·남부지방에 강한 비…중대본 가동·위기경보 ‘주의’ 상향</title>
