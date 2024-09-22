@@ -13,6 +13,75 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“배드민턴 실패보다 더 충격”… 이용대, 이혼 뒤 처음 밝힌 심경</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/22/BVYBIWF62ZHJHNHC6LPUOL3XQY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/22/BVYBIWF62ZHJHNHC6LPUOL3XQY/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Sep 2024 14:07:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DPBWBDOM3ZGDRD3LD72JXG23AU.jfif"&gt;&lt;figcaption&gt;&lt;small&gt;SBS '미운 우리 새끼'에 출연한 이용대. /SBS &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배드민턴 금메달리스트 이용대가 배우 변수미와 이혼한 지 6년만에 관련 심경을 털어놨다. &lt;br&gt;&lt;br&gt;이용대는 22일 방송된 SBS ‘미운 우리 새끼’에 출연해 후배 선수들과 대화를 나누던 중 ‘두번째 결혼은 생각은 없으시냐’는 질문을 받고 “배드민턴에 실패했을 때보다 이혼했을 때가 더 충격적이었다. 더 작아지는 느낌이 들었다”며 “이혼한 사람을 만나 줄까 조심스러웠다”고 했다. &lt;br&gt;&lt;br&gt;이용대는 “결혼을 전제로 만났던 사람도 있다. ‘너무 나이 들면 안 되겠다. 재혼을 해서 안정적인 가정을 꾸려야겠다’고 생각했다”면서도 “하지만 연애하다 마지막에 진지한 상황이 오면 (결혼에 대한) 아픔에 대한 생각이 들었다. 결혼하면 또 실패할까 봐 고민됐다”고 했다. 그러면서 “나한테는 딸이 있기 때문에, 딸이 내가 만나는 사람을 어떻게 생각할지 그런 생각도 계속 머리에 있다”고 했다. &lt;br&gt;&lt;br&gt;앞서 이용대는 2018년 변수미와 협의 이혼 절차를 밟았다. 이용대와 변수미는 2011년 한 행사장에서 만난 뒤 연인으로 발전해 6년 연애 끝에 결혼했으나, 약 1년만에 파경을 맞았다. 두 사람은 이혼 이유로 ‘성격 차이’를 꼽았다. 변수미는 “가정을 지키려 했지만 성격 차이를 극복하지 못했다”고 했고, 이용대는 “정확한 사유는 개인 가정사라서 밝힐 수 없지만 성격 차이로 인한 불화 때문”이라고 했다. &lt;br&gt;&lt;br&gt;변수미는 이용대와 이혼 뒤 성매매 알선 의혹에 휩싸이기도 했다. 2020년 모델·BJ 등으로 활동하는 한미모가 “변수미의 권유로 필리핀 마닐라에서 한 엔터테인먼트 대표를 만났고, 이후 성적 학대에 시달렸다”며 변수미를 검찰에 고발했다. 다만 당시 변수미는 “한미모가 주장하는 성매매 알선은 조금도 사실이 아니며 소설과 같은 이야기”라며 “좋은 일자리를 소개해 주고 좋은 사람 소개도 해주는 등 어려운 시기에 도움을 줬는데 사실관계를 완전히 짜깁기해 말도 안되는 주장을 펼치고 있다”고 반박했다. &lt;br&gt;&lt;br&gt;한편 이용대는 2008 베이징 올림픽 당시 이효정과의 혼합복식에서 금메달을 거머쥐었다. 금메달 확정 뒤 카메라를 보며 한 윙크 세리머니로 화제를 모았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“젊은 세대 많이 보길”… 尹 추천 영화 ‘무도실무관’ 무슨 내용 </title>
+      <link>https://www.chosun.com/national/national_general/2024/09/22/NPZ66D24KBGHZMYBKYESD6UVXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/22/NPZ66D24KBGHZMYBKYESD6UVXI/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Sep 2024 13:04:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2ZBJT46YQ4IM4PFZSBH6Q3FFC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영화 '무도실무관' 장면. 보호감찰관 김선민(김성균)과 무도실무관 이정도(김우빈)가 함께 전자발찌 대상자를 찾아 다니고 있다. /넷플릭스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 참모들을 비롯한 주변에 넷플릭스 영화 ‘무도실무관’을 추천한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;대통령실 관계자는 22일 윤 대통령이 “전자발찌를 착용한 채 국민들을 괴롭히는 중범죄자 위험군을 24시간 감시하며 시민 보호를 위해 어떻게 희생하고 애쓰는지 여실히 보여준다”며 “MZ세대의 공공의식과 공익을 위한 헌신을 상기시키는 영화”라고 평했다고 전했다. 특히 윤 대통령은 “공익을 추구하고 헌신하는 모습을 그린 이런 영화를 젊은 세대들이 많이 봤으면 좋겠다”고 말했다고 한다.&lt;br&gt;&lt;br&gt;영화 무도실무관은 법무부 보호감찰관 김선민(김성균)과 무도실무관 이정도(김우빈)가 함께 범죄를 예방하고 시민들을 보호하기 위해 전자발찌 대상자들을 밀착 감시하며 벌어지는 이야기를 담았다.&lt;br&gt;&lt;br&gt;무도실무관은 실재하지만, 일반 대중들에게는 다소 낯선 직업이다. 배역을 맡은 김우빈도 영화 대본을 받고 무도실무관에 대해 처음 알았다고 한다.&lt;br&gt;&lt;br&gt;무도실무관은 법무부 소속 무기계약직 공무직으로, 재범 위험이 높아 전자발찌 착용 처분을 받은 대상자들을 24시간 밀착 감시하면서 제2의 피해자가 발생하지 않도록 하는 역할을 한다. 주로 유단자들이 선발돼 보호관찰관과 2인 1조로 움직인다. 법무부에 따르면, 작년 7월 기준 전자발찌 착용자 수가 4182명인데 비해 무도실무관은 165명, 보호관찰관은 381명이다.&lt;br&gt;&lt;br&gt;영화 공개 이후 김우빈은 무도실무관에 대해 “이렇게 훌륭한 일을 하는 분들이 우리 주변에 계셨는데 너무 몰랐구나, 그분들 덕분에 안전하게 살고 있다는 걸 이번 계기로 알게 됐다”며 “영화가 공개되고 그 전보다는 관객들이 이 직업에 대해 알게 돼서 너무 감사하다”고 했다. 이어 “(무도실무관이) 상상보다 더 힘든 일을 하더라. 개인적인 일들을 말씀드리기 어렵지만, 일화를 들으니까 정말 쉽지 않겠다는 생각이 들었다”며 “그분들에 관한 감사함을 잊지 않으려고 하면서 촬영에 임했고, 다시 마음에 새기려고 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>울산 지진 “느꼈다” 유감 신고 4건...인명·재산 피해 신고 없어</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/09/22/WR6OYX7HSRFTBMKTYGYAEJEDNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/09/22/WR6OYX7HSRFTBMKTYGYAEJEDNY/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Sep 2024 12:21:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DZXIUUOZHVL23BQZO64IXQ7HN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'22일 오후 규모 2.2의 지진이 발생한 울산 동구 인근 해역(빨간 점)
+이날 울산소방본부에 따르면 이번 지진으로 진동을 느꼈다는 등의 119 신고가 총 4건 들어왔다. /연합뉴스
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 오후 울산 동구 북동쪽 해역 12㎞에서 발생한 지진으로 울산에서 4건의 신고가 접수됐다.&lt;br&gt;&lt;br&gt;울산소방본부에 따르면 이날 지진은 2.2 규모로 진동을 느꼈다는 신고가 4건 접수됐다. 신고가 접수된 지역은 모두 울산 동구 쪽으로 나타났다.&lt;br&gt;&lt;br&gt;이날 지진으로 인한 재산 및 인명피해 신고는 없었다고 소방당국은 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>영화·음악·디자인·창업 등 융복합 축제 부산서 처음 열린다</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/08/19/FLRU2EGJ5REJRMADTMW3YXS4WM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/08/19/FLRU2EGJ5REJRMADTMW3YXS4WM/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 19 Aug 2024 09:00:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JMVNU67LDBFDDF7UVF4E65UUE4.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;오는 9월30일~10월8일 해운대 센텀시티 등지에서 열리는 '페스티벌 시월'의 17개 행사를 연계하는 '시월 빌리지' 조감도./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세계 최대 융복합형 창조산업 축제로 꼽히는 미국의 ‘SXSW’(South by Southwest, 사우스 바이 사우스웨스트)와 같은 축제가 부산에서 열린다. ‘페스티벌 시월’이다.&lt;br&gt;&lt;br&gt;부산시는 “오는 9월30일부터 10월 8일까지 9일간 해운대를 중심으로 시 전역에서 다양한 국제행사를 진행하는 국내 최초의 부산형 융복합 축제, ‘페스티벌 시월(FESTIVAL SHIWOL)’을 개최한다”고 19일 밝혔다. ‘페스티벌 시월’은 부산국제영화제·부산국제록페스티벌·부산글로벌웹툰페스티벌·아시아창업엑스포(플라이 아시아) 등 17개 행사로 이뤄진다.&lt;br&gt;&lt;br&gt;고미진 부산시 관광산업육성과장은 “미국의 SXSW처럼 음악, 영화, 문화, 음식, 창업 및 기술 등 서로 이질적으로 보이지만 창의, 혁신 등의 코드로 이어지는 크고 작은 행사들을 융·복합해서 새로운 시너지를 만들어 보자는 것”이라고 말했다.&lt;br&gt;&lt;br&gt;SXSW는 미국 텍사스주 주도인 오스틴에서 매년 3월 열리는 음악·영화·IT·게임·컨퍼런스 등 창조산업 축제로 1987년 시작됐다. 처음엔 작은 음악 축제로 시작했으나 차츰 분야가 확장되고 참가자들이 연간 30만~50만명으로 늘면서 세계 최대의 창조산업 축제로 성장했다. 축제 명칭은 미국의 ‘남남서쪽(SXSW)’에 있는 오스틴의 지역 정체성을 바탕으로 세계와 함께 호흡하며 창조성, 혁신성을 발전시킨다는 의미를 담아 지어졌다.&lt;br&gt;&lt;br&gt;‘페스티벌 시월(FESTIVAL SHIWOL)’을 구성하는 행사들은 종전 각기 따로 열려오다 이번에 기간을 맞추고 장소를 조율해 ‘시월’의 생태계 속으로 연결됐다. 부산국제영화제, 아시아콘텐츠필름마켓, 부산국제록페스티벌, K뮤직시즌 굿밤콘서트, 부산글로벌웹툰페스티벌, 월드크리에이터페스티벌, 비욘드한글&amp;amp;K컬쳐, 국제음식박람회&amp;amp;마리나세프챌린지, 수제맥주페스티벌, 아시아창업엑스포, 부산디자인페스티벌, 한아세안패션위크, 데이터글로벌해커톤, AI데이터세미나 등이 그 행사들이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6CSWTATZVZFCNG5VDEJAXLNSAM.png"&gt;&lt;figcaption&gt;&lt;small&gt;부산시가 19일 확정한 '페스티벌 시월'의 공식 슬로건 디자인./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시는 이들 행사와 참가자 등의 연계, 교류를 위해 벡스코 야외주차장에 ‘시월 빌리지‘를 설치해 운영한다. 시월 빌리지는 각 행사 참여국이 홍보관으로 활용할 국가관, 부산 콘텐츠를 전시하는 테마하우스, 영화·음악·음식·콘텐츠·스타트업·디자인·패션·투자자 등 서로 다른 업종의 관계자들이 교류하는 네트워킹관, 컨퍼런스 등을 통해 서로의 지식과 정보를 공유하는 컨퍼런스관 등으로 이뤄진다.&lt;br&gt;&lt;br&gt;‘시월 빌리지’의 각 파빌리온(행사관)에선 ‘사일런스뮤직앤파티’, 컨퍼런스, 만남 등 다양한 행사들이 이어진다. 시 측은 “전용 앱을 만들어 각 축제들의 주요 행사와 시월 빌리지 프로그램들에 대한 정보를 제공하고 방문자들이 서로 온라인 대화를 나눌 수 있도록 할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;또 관광 상품화를 위해 17개 행사 공동 마케팅을 추진하고 3종류의 통합입장권을 판매한다. 통합입장권을 구매하면 ‘페스티벌시월’ 17개 행사와 ‘시월 빌리지’에서 열리는 프로그램에 무료로 입장할 수 있다. 지역 호텔 객실 상품과 연계한 ‘묶음 관광상품’, 중국 최대 온라인여행플랫폼 씨트립과 협력해 중국 국경절 연휴 기간을 겨냥한 중국 개별관광객 특화관광상품도 개발해 판매할 계획이다.&lt;br&gt;&lt;br&gt;박근록 부산시 관광마이스국장은 “‘페스티벌 시월’은 종전에 없던 새로운 시도이자 도전”이라며 “한국을 넘어 아시아의 SXSW로 성장하는 게 우리의 목표”라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울교육감 진보 단일화 경선, 곽노현 탈락</title>
+      <link>https://www.chosun.com/national/education/2024/09/22/4JRFCOBQI5DLZNPIF3NN7S3QQQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/09/22/4JRFCOBQI5DLZNPIF3NN7S3QQQ/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Sep 2024 11:08:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OOXDICIYOFO6PITZ5W4WRTUNAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 13일 서울 지하철 3호선 충무로역에 서울특별시 교육감 보궐선거 홍보물이 게시돼 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시교육감 보궐선거 후보 등록(26·27일)을 앞두고 진보 진영의 단일화 후보가 강신만 전 전교조 부위원장, 정근식 서울대 명예교수, 홍제남 전 오류중 교장 등 3명으로 압축됐다. 곽노현 전 서울시교육감과 안승문 전 서울시 교육위원은 단일화 경선에서 탈락했다.&lt;br&gt;&lt;br&gt;22일 진보 진영 단일화를 진행하는 2024서울민주진보교육감추진위(추진위)는 전날부터 이틀간 만 14세 서울 시민을 대상으로 후보 3명을 뽑는 선거인단 투표를 실시한 결과, 강 전 부위원장 등 3명이 상위권을 차지했다고 밝혔다. 순위는 공개하지 않았다. 추진위는 세 사람을 대상으로 24·25일 여론조사를 해 최종 단일 후보를 추대한다.&lt;br&gt;&lt;br&gt;앞서 교육감 후보 선호도 여론조사에서 1위를 기록하며 유력 후보로 거론됐던 곽 전 교육감은 선거인단 투표에서 3위 안에 들지 못해 탈락했다. 한 교육계 인사는 “진보 후보들이 앞다퉈 곽 전 교육감 출마 자격을 문제 삼고 민주당까지 나서서 사퇴를 압박한 것이 투표에 영향을 준 것으로 보인다”고 했다. 선거법 위반으로 징역형을 받는 등 도덕성 문제가 그의 발목을 잡았다는 것이다.&lt;br&gt;&lt;br&gt;그러나 진보 후보 4명(김재홍·조기숙·방현석·최보선)이 추진위 단일화에 참여하지 않고 독자 출마한 상황이다. 서울시교육감 선거에서 진보 진영이 처음으로 단일화에 실패하는 ‘반쪽 단일화’가 될 가능성이 있다는 얘기가 나왔다.&lt;br&gt;&lt;br&gt;조전혁 전 한나라당 의원, 안양옥 전 한국교총 회장, 홍후조 고려대 교수 등 보수 후보 3명의 단일화를 추진하는 통합대책위원회(통대위)는 21일 여론조사 기관 두 곳을 통한 여론조사를 마쳤다. 두 기관 결과를 합산해 25일 전에 최고 득표자를 단일 후보로 추대한다는 계획이다. 그러나 계속 잡음이 나고 있다. 안 전 회장은 이날 입장문에서 “이틀 동안 여론조사를 실시한다고 했는데 하루 만에 끝나 22일은 홍보를 못 했다”며 “이번에 처음 출마해 인지도가 낮은 후보에게 불리한 불공정 조사”라고 주장했다. 이에 대해 통대위 측은 “목표치로 잡은 표본(1000명)이 다 채워져 조사를 끝냈을 뿐”이라고 했다.&lt;b&gt; &lt;/b&gt;통대위에서 단일화를 함께 추진하다 탈퇴한 시민 단체 모임 범시민사회단체연합은 이날 “해당 기구에서 선출된 후보는 중도우파 통합 후보라 할 수 없다”는 입장문을 냈다. 통대위 단일화에 불참한 보수 후보도 2명(윤호상·김영배) 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RCZRZT6MYZOOBL43HPXGHULS6U.jpg?width=4963&amp;height=2433&amp;auth=e0f5117c6249536052af351efa602b6771e823b6b227ada925c144553af8adbc&amp;smart=true" type="image/jpeg" height="2433" width="4963">
+        <media:description type="plain">[서울=뉴시스] 황준선 기자 = 13일 서울 지하철 3호선 충무로역에 서울특별시 교육감 보궐선거 홍보물이 게시돼 있다. 2024.09.13. hwang@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">황준선</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>무알코올 맥주가 더 건강에 안 좋다고? </title>
+      <link>https://www.chosun.com/national/national_general/2024/09/22/OGZKSLEN6ZFMRO43OBFC6A4DOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/22/OGZKSLEN6ZFMRO43OBFC6A4DOI/</guid>
+      <dc:creator>정병선 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Sep 2024 11:41:46 +0000</pubDate>
+      <content:encoded>‘무알코올 맥주를 매일 마실 경우, 당뇨병을 유발할 수 있다’고 러시아 리아노보스티 통신이 경고했다.&lt;br&gt;&lt;br&gt;리아노보스티는 21일(현지시각) “무알코올 맥주는 ‘우리가 생각하는 것보다 위험성이 있으며, 당뇨병을 유발할 수 있다”고 보도했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XQFOHZS5JBFLTCLI4X6SXMYTLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;러시아에서 판매되고 있는 무알코올 맥주.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;모스크바 보건부 비드노프스키 임상병원 건강센터 책임자 자레마 텐은 “무알코올 맥주 2~3캔 이상을 매일 마실 경우 당뇨병을 유발할 수 있으며, 무알코올 맥주는 칼로리가 매우 높아 2~3캔 이상 과도하게 마실 경우 인슐린이 급격히 증가하기 때문에 췌장에 분명히 해롭다”고 밝혔다.&lt;br&gt;&lt;br&gt;그는 “만약 일반인이 매일 또는 격일로 2~3캔 이상의 무알코올 맥주를 마시거나, 주말에 지속적으로 다량으로 마실 경우 이와 같은 증상이 나타날 수 있다”며 “이는 향후 당뇨병에 걸릴 수 있는 탄수화물 대사 장애로 이어질 수 있다”고 경고했다.&lt;br&gt;&lt;br&gt;텐은 “러시아에서 시판되는 무알코올 맥주에는 알코올 제로가 아닌 최대 1%의 알코올이 포함되어 있다”며 “일반인이 무엇보다 맥주 한 캔을 마셔도 일반 맥주 한 캔을 마신 것 같은 효과를 못 느끼기 때문에 마시는 양 조절이 어려워 과잉 섭취로 이어지는 경우가 많다”고 지적했다.&lt;br&gt;&lt;br&gt;국내 시판되는 무알코올 맥주는 알코올 함량이 0.0%인 ‘무알코올 맥주’와 알코올이 1% 미만 함유된 ‘비알코올 맥주’로 나뉜다. 일반 맥주 한 캔에는 평균적으로 탄수화물 18g과 당류 0g이 함유돼 있지만 무알코올 맥주 한 캔에는 평균적으로 탄수화물 35g과 당류 15g이 함유돼 있다.&lt;br&gt;&lt;br&gt;무알코올 맥주 두 캔만 마셔도 세계보건기구의 성인 기준 하루 당 섭취 권장량 25g을 초과하는 수준이다. 전문가들은 무알코올 맥주는 알코올이 없는 대신 탄수화물이나 당 함량이 결코 낮은 편이 아니어서, 과다섭취는 금물이라고 말한다. 실제로 과도한 당류 섭취는 혈당 상승의 원인으로 알려졌다.&lt;br&gt;&lt;br&gt;특히, 무알코올 맥주라고 해서 무조건 알코올 함량이 0%인 것은 아니며, 브랜드에 따라 소량의 알코올을 함유하고 있다는 사실을 주지할 필요가 있다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아내 수갑 채워 감금한 40대 붙잡았더니...전직 경찰관</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2024/09/22/V5OTQSQWLBFNZJX75XOHJDCBZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2024/09/22/V5OTQSQWLBFNZJX75XOHJDCBZM/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Sep 2024 11:35:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXOJ6JDLRZBJ3JMT3HJAJ35O5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전직 경찰관이 부부 싸움 중 아내에게 수갑을 채워 감금했다가 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 분당경찰서는 특수감금 혐의로 40대 A씨에 대해 22일 구속영장을 신청했다고 밝혔다. A씨는 전날 오후 6시쯤 아내 B씨를 사제 수갑과 넥타이 등으로 손과 발을 결박한 뒤 방 안에 1시간가량 가둔 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;수갑은 직접 구입한 것으로 조사됐다&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 과거 경찰관으로 근무하다가 수년 전 퇴직했으며 현재는 공직에 있지 않은 것으로 파악됐다. A씨는 과거에도 가정 폭력을 저지른 혐의로 형사 입건됐던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨에게 긴급 임시조치 1·2·3호를 결정해 B씨 측에 대한 100ｍ 이내 접근 및 전기통신(전화 및 이메일)을 통한 접근 등을 제한했다.  또 A씨가 사제 수갑을 사용한 행위와 관련해서도 유사 경찰 장비 사용 및 휴대를 금지하는 경찰제복법 위반 등 소지가 있는지 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>검찰, 문다혜 태국 이주 도운 靑 행정관 27일 출석 통보</title>
       <link>https://www.chosun.com/national/court_law/2024/09/22/F2ORFVF65JBURPS35GOKB47NFU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/22/F2ORFVF65JBURPS35GOKB47NFU/</guid>
@@ -891,33 +960,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/53GVNBTOF5PYNJQX5VIJSRPW4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'김문기·백현동 의혹' 관련 허위 발언 혐의로 기소된 더불어민주당 이재명 대표가 20일 서울 서초구 서울중앙지법에서 열리는 공직선거법 위반 1심 결심 공판에 출석하며 시간을 확인하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 20일 이재명 더불어민주당 대표의 ‘선거법 위반’ 사건 결심 공판에서 이문세가 부른 ‘사랑이 지나가면’의 가사 일부를 PPT(파워포인트) 화면에 띄웠다. 검찰은 이날 이 대표에게 징역 2년을 구형했다. 검찰이 2022년 9월 기소한 지 2년 만이다.&lt;br&gt;&lt;br&gt;검찰은 이날 서울중앙지법 형사34부(재판장 한성진) 심리로 열린 이 대표의 결심 공판에서 이 대표가 고(故) 김문기 성남도시개발공사 개발사업 1처장을 몰랐다고 허위 발언한 혐의에 대한 의견을 진술하면서 이문세의 노래 ‘사랑이 지나가면’의 가사 일부를 인용했다.&lt;br&gt;&lt;br&gt;이 대표는 지난 대선 기간 2건의 허위 사실을 공표한 혐의를 받고 있다. 방송에 나와 대장동 개발 실무자인 고(故) 김문기 처장을 성남시장 시절에 알고 있었으면서 몰랐다고 하고, 국정감사장에서 국토교통부 협박으로 백현동 개발 부지 용도를 상향 조정했다고 거짓말했다는 것이다.&lt;br&gt;&lt;br&gt;검찰 측은 PPT 화면에 “그 사람 나를 보아도, 나는 그 사람을 몰라요. 그대 나를 알아도, 나는 기억을 못합니다”라는 가사를 띄웠다. 그러면서 “이 노래는 화자에게 깊은 상처가 돼 상대방을 모르기로 한 현재 심경을 표현한 노래”라며 “(김 처장을 모른다는) 이 대표의 입장과 같아 보인다”고 했다. 검찰 측은 “대선 당선을 위해 이 대표는 김 처장과의 관계를 부정해야만 했다”며 “방송에 출연해 거짓말한 것이 명백하다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 김 처장이 뉴질랜드 출장 당시 가족과 했던 영상통화 영상도 법정에서 재생했다. 영상 속 김 처장은 “시장님(이재명)하고 본부장님(유동규)하고 골프까지 쳤다”며 “너무 재밌었고 좋은 시간이었다”고 말했다. 이 대표는 영상이 끝난 직후 잠시 눈을 감았다 떴다.&lt;br&gt;&lt;br&gt;검찰은 “이 대표에게는 형을 감경할 사유가 전혀 존재하지 않는다. 가중할 사유만 있을 뿐”이라며 징역 2년을 구형했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>검·경, 딥페이크 성범죄 핫라인 구축...“긴밀 협력”</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/20/EEBFHYKPBRA7PA74Y7YERXP4IA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/20/EEBFHYKPBRA7PA74Y7YERXP4IA/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Sep 2024 08:49:33 +0000</pubDate>
-      <content:encoded>서울 지역 검찰과 경찰이 최근 확산하는 딥페이크 디지털 성범죄에 대응하기 위해 수사 핫라인을 구축하는 등 긴밀히 협력하기로 했다.&lt;br&gt;&lt;br&gt;서울중앙지검과 서울경찰청, 서울디지털성범죄안심지원센터는 20일 오전 서울중앙지검 청사에서 딥페이크 등 디지털 성범죄 대응을 위한 수사실무협의회를 개최했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WYOIMZKD34RWQHYAKQHU4EBHUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검경이 수사실무협의회를 연 것은 최근 소셜 미디어 등을 중심으로 딥페이크 동영상 피해가 급증한 데 따른 것이다. 올 1~7월 허위영상물 편집 및 반포 등 사건은 전년 동기 대비 157.1% 늘었다.&lt;br&gt;&lt;br&gt;수사실무협의회에선 서울중앙지검 디지털 성범죄 전담검사와 서울경찰청 허위영상물 집중 대응 TF 수사팀 간 ‘핫라인’을 개설하는 등 검경이 상시 협력하는 방안이 논의됐다. 검경은 또 아동·청소년 대상 허위 영상물 및 영리 목적 허위영상물 제작 사범에 대해서는 원칙적으로 구속 수사하는 등 엄정 대응하기로 했다. 또 디지털 성범죄로 취득한 범죄 수익 환수를 위해 수사 초기부터 관련 증거를 확보하고, 범죄 수익 환수가 가능한 죄명을 적극 적용하기로 했다. 허위 영상물 유포의 우려가 있는 경우 서울디지털성범죄안심지원센터 등과 협력해 불법 영상물 삭제·차단 지원을 적극 의뢰하고, AI 프로그램 등으로 지속 모니터링하기로 했다.&lt;br&gt;&lt;br&gt;서울중앙지검은 디지털 성범죄 전담 검사를 2명에서 4명으로 확대 지정하고, 전담검사가 수사 초기부터 경찰과 협력하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>홍대서 여성이 비명 지르자 20대 남성들 달려와 몰카범 제압</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/20/O6O3KW5TA5H6NPZ4WKYSZ2ZIEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/20/O6O3KW5TA5H6NPZ4WKYSZ2ZIEE/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Sep 2024 08:44:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/72HNRAY6MJGNHJEDJAPAZRJNHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;시민들이 A씨와 몸싸움을 벌이고 있는 장면. /MBN 보도화면&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 번화가에서 여성들을 불법 촬영하던 남성이 피해 여성의 비명을 듣고 달려온 시민들에 의해 제압돼 체포된 사건이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;20일 서울 마포경찰서 등에 따르면 지난 15일 오후 5시 40분쯤 서울 마포구 홍대입구역 인근에서 지나가던 여성들을 불법 촬영한 20대 남성 A씨가 시민들에 의해 제압돼 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 성폭력처벌법상 카메라 등 이용촬영 및 폭행 혐의로 입건해 수사 중이다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 범행을 알아차린 한 여성이 비명을 지르자 도주를 시도했으나 비명을 듣고 달려온 20대 남성들에 의해 제압당했다. 당시 범행을 목격한 남성 2명은 피해자의 비명을 듣고 곧바로 A씨를 붙잡았고, 다른 시민은 이 장면을 목격한 뒤 경찰에 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이들은 수많은 시민이 지나가던 번화가 한복판에서 A씨와 격렬한 몸싸움을 벌였다. A씨는 결국 남성들에게 저지당해 현장에서 60미터 정도 떨어진 곳에서 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;A씨 휴대전화에서는 불특정 다수의 여성 신체를 불법 촬영한 영상이 추가로 발견된 것으로 알려졌다. 경찰은 A씨의 휴대전화를 디지털 포렌식 해서 여죄를 밝힐 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>속옷 끌어올려 엉덩이 끼게 한 행위는 장난?... 법원 “강제추행”</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/20/TFCYQTCSSBENJBA3BJZHLWIXKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/20/TFCYQTCSSBENJBA3BJZHLWIXKI/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Sep 2024 08:15:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OFLKI772E3VD6ML2UYTCIVGNXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 영월지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장난을 명목으로 바지와 속옷을 힘껏 잡아당겨 엉덩이에 끼게 한 행위는 강제추행이라는 법원 판결이 나왔다.&lt;br&gt;&lt;br&gt;20일 법조계에 따르면, 춘천지법 영월지원 형사1부(재판장 이민형 지원장)는 아동·청소년의 성보호에 관한 법률 위반(위계 등 추행), 성폭력범죄의 처벌 등에 관한 특례법 위반(업무상 위력 등에 의한 추행)으로 기소된 음식점 업주 A(35) 씨와 종업원 B(27) 씨에게 각각 징역 2년에 집행유예 3년을 선고하고, 성폭력 치료 강의 40시간 수강도 명령했다.&lt;br&gt;&lt;br&gt;두 사람은 평창의 한 음식점에서 일하며 단기 아르바이트생 C(17)군을 상대로 뒤에서 바지와 속옷을 힘껏 잡아당기는 행위를 2022년 8월 5일부터 같은 달 21일까지 총 4차례 한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;C군은 거절 의사를 밝혔지만 두 사람은 ‘우리만의 놀이 문화’라는 명목으로 이런 행위를 한 것으로 알려졌다. C군은 음식점에서 일한 지 일주일도 채 되지 않아 이들의 요구를 계속 거절하기 어려운 상황이었다. 두 사람은 재판에서 “젊은 세대 사이에서 유행하는 놀이로 장난에 불과하다”며 성적 목적이나 추행의 고의가 없었다고 혐의를 부인했다. &lt;br&gt;&lt;br&gt;그러나 재판부는 이들의 주장을 받아들이지 않았다. 재판부는 “피고인들은 C군과 나이 차이가 있고 외관상 체격 차이도 상당할 뿐만 아니라 음식점 업주로서 피해자인 C군의 고용 관계를 결정할 권한이 있었던 점으로 볼 때 이 사건 행위에 있어 위력을 행사했다고 평가할 수 있다”고 했다. 또 “피해자는 ‘차라리 때려달라’고 말하는 등 성적 수치심을 느꼈던 만큼 피고인들이 성적 목적이 없었더라도 이들의 행위는 추행에 해당하고 고의도 인정된다”고 판시했다.&lt;br&gt;&lt;br&gt;두 사람은 1심 판결에 불복해 항소했으며, 2심은 서울고법 춘천재판부에서 진행될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“왜 화났는지 이해돼”...제니, 美 인터뷰서 밝힌 실내흡연 사과 이유</title>
       <link>https://www.chosun.com/national/people/2024/09/20/Z5W73SSSFJARJMOTNEHTTP2ARM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/20/Z5W73SSSFJARJMOTNEHTTP2ARM/</guid>
@@ -957,15 +999,6 @@
       </media:content>
     </item>
     <item>
-      <title>일자리 주선하고 돌봄 제공하는 ‘일자리 편의점’ 구미에서 열렸다</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/20/2WRZZ7ZOHNE3DDMLGNBFRFBN74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/20/2WRZZ7ZOHNE3DDMLGNBFRFBN74/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Sep 2024 07:36:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5TDN5HLNG5GFPOFWJ42L5BNQR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 구미시 원평동의 구미여성인력개발센터에 위치한 일자리 편의점 구미지점/구미시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여성을 위한 일자리 주선과 자녀 돌봄을 연계한 저출생 극복 사업이 경북 구미에서 처음 진행된다.&lt;br&gt;&lt;br&gt;구미시는 20일 구미여성인력개발센터에서 ‘일자리 편의점 경북 1호점 구미지점’을 열었다. 일자리 편의점은 일자리와 자녀 돌봄을 통해 여성의 경력을 이어주고자 도입됐다. &lt;br&gt;&lt;br&gt;일자리 편의점에서는 부품 생산, 포장, 민원 안내, 매장 관리 등 다양한 일자리를 주선한다. 구미여성인력개발센터를 직접 방문하거나 홈페이지를 통해 일자리를 찾을 수 있다. 여성들이 근무하는 시간에는 지역 내 아이돌봄 시설에서 자녀들을 돌봐준다.&lt;br&gt;&lt;br&gt;일자리 편의점에서 출산·육아휴직자 대체인력을 선발한 기업에 3개월간 인건비의 100%를, 소규모 사업장에는 최소 1일에서 최대 3개월까지 인건비 50%를 지원한다. 3개월 이후에는 기업에서 직접 임금을 지급한다.&lt;br&gt;&lt;br&gt;경북도는 일자리 편의점 1호점을 올해 12월까지 운영한 뒤 문제점 등을 보완해 내년에는 예천군과 포항시 등에도 일자리 편의점을 순차적으로 열 계획이다.&lt;br&gt;&lt;br&gt;김장호 구미시장은 “더 많은 구미 여성들이 일할 기회를 얻길 바라며, 시에서도 일과 가정 양립이 가능하도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독]마약 재배 인원 역대 최다 적발...알리·테무엔 ‘대마 LED’ 버젓이</title>
       <link>https://www.chosun.com/national/national_general/2024/09/20/EFNS5SMODVHAJHDBVR577IIXIQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/20/EFNS5SMODVHAJHDBVR577IIXIQ/</guid>
@@ -975,28 +1008,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4TVDKO56BDHND6HYYI6CGCCAA.png"&gt;&lt;figcaption&gt;&lt;small&gt;중국 온라인 쇼핑몰 업체인 테무에 '대마 LED' 키워드로 검색했을 때 나오는 제품들 모습. /테무 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 대마·양귀비 등 마약류를 몰래 재배하다가 경찰에 검거된 마약 사범이 역대 최대 인원으로 집계됐다. 이 가운데 마약 재배에 활용되는 ‘LED 라이트’가 2만원 대에 알리·테무 등 중국 전자 상거래 사이트에 버젓이 올라오는 것으로 20일 파악됐다.&lt;br&gt;&lt;br&gt;이날 중국 전자 상거래 사이트인 테무에 ‘대마 LED’를 검색하니 6000원대부터 2만원선에서 대마 재배에 활용되는 식물 성장등 등이 올라오는 것으로 파악됐다. 식물 성장등 및 식물 LED 등으로 검색해도 대마 재배에 활용될 수 있는 제품들이 등장했다.&lt;br&gt;&lt;br&gt;대마·양귀비 등 마약류를 몰래 재배하다가 경찰에 검거된 마약 사범은 작년 3125명으로 집계됐다. 관련 집계가 시작된 1990년 이후 최다 수치다. 국내 마약 범죄 양상이 단순 투약을 넘어 대마·양귀비 등 마약류 식물을 대규모 재배한 뒤 마약을 제조하는 형태로 진화하고 있고 재배 장소 역시 도심 한복판 까지 침투한 것이다. 경찰은 “전체 마약 범죄 피의자들과 마약 범죄 총량이 늘어나는 추세”라고 했다.&lt;br&gt;&lt;br&gt;경찰이 마약과의 전쟁을 벌이고 있지만 텃밭·야산뿐 아니라 주택가, 대학가 등 도심에서도 몰래 재배하다가 적발되는 경우가 늘어나고 있다. 특히 다세대 주택 등에서 대마를 몰래 재배하는 경우 적발이 쉽지 않다. 경찰은 “대마 투약자들이 대마를 어디서 구했는지 역추적하는 과정에서 적발하거나 재배한 대마를 판매하는 과정에서 재배한 사실이 파악된다”며 “해외에서 대마 종자와 재배 용품 등을 밀수입하는 과정에서 추적하는 방식으로 적발되는 경우도 있다”고 설명했다.&lt;br&gt;&lt;br&gt;이웃 주민들의 민원이나 신고로 적발되는 경우도 있다. 경찰은 “대마 특유의 향이 심해지면 이웃 주민들이 관할 구청이나 집주인에 민원 내지는 신고를 넣는 과정에서 적발되는 사례도 있다”고 했다. 이 외에도 1인 가구인데 지나치게 많은 전기세가 나오는 곳들이 적발되는 사례도 있다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BAAVPAS5ANAKO5JR3N2HFJP2II.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 송파경찰서는 지난 7월 경기 남양주시의 빌라에서 대마초를 재배한 30대 남성을 마약류 관리법 위반 혐의로 검찰에 구속송치했다. 빌라 안에는 약 1~2m의 대마초들이 빽빽하게 재배됐다.남성은 보일러를 통해 온도와 습도를 조절하고, 빛 조절 장치 등 재배시설도 갖춘 채 대마초를 불법으로 재배한 것으로 파악됐다. /송파경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 도심 주택가에서 대마를 재배하다가 적발되는 경우도 있다. 서울 송파경찰서는 집에서 대마를 몰래 재배한 30대 남성 A씨를 마약류관리법 위반 혐의로 지난 7월 검찰에 구속 송치 했다. A씨는 작년 말부터 지난달까지 경기 남양주에 있는 자신의 빌라에 재배 시설을 설치하고 대마를 키운 혐의를 받는다. 경찰은 A씨를 체포한 뒤 대마 101주를 압수 조치했다.&lt;br&gt;&lt;br&gt;대마초를 시중보다 저렴하게 투약할 목적으로 대마 재배에 나서기도 한다. 서울 관악구에 사는 20대 남성 B씨는 지난 7월 대마 종자 50개를 자택에서 기르다 검거됐다. ‘대마초 LED 라이트’라는 이름의 해외직구 제품을 통해서 대마를 기른 것으로 나타났다.&lt;br&gt;&lt;br&gt;경찰이 작년 마약 사범들이 재배한 양귀비와 대마를 압수한 양만 총 18만 488주에 이른다. 이 중 대마는 1만 2304주로 약 2460만명이 피울 수 있는 분량이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>국과수 “인천 지하주차장 전기차 화재, 외부 충격에 배터리팩 손상 가능성” </title>
-      <link>https://www.chosun.com/national/regional/2024/09/20/KGMCYC4BZ5C2RIPPI2JFU3KFEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/20/KGMCYC4BZ5C2RIPPI2JFU3KFEE/</guid>
-      <dc:creator>인천=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Sep 2024 06:58:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XGNNJMKZ3K2TO6OUM2ANOAHNP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 8일 인천 서구의 한 정비소에서 청라지구 아파트 지하 주차장에서 발생한 화재로 전소된 전기차가 2차 합동 감식을 받기 위해 지게차에 실려 정비소 내부로 향하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 1일 발생한 인천아파트 지하주차장 전기차 화재는 차량 하부에 장착된 리튬이온 배터리팩이 외부의 물리적 충격으로 손상된 것이 원인일 가능성이 있다는 국립과학수사연구원 감정 결과가 나왔다.&lt;br&gt;&lt;br&gt;20일 인천경찰청 과학수사대에 따르면 전날 국과수로부터 “차량 하부 배터리 팩에서 불이 시작했을 가능성이 있다”는 정밀 감정 결과를 전달받았다. 경찰은 화재 이후 모두 3번에 걸쳐 국과수 등이 참여하는 현장 합동감식을 실시했다.&lt;br&gt;&lt;br&gt;국과수는 감정 결과에서 “차량 밑면의 외부 충격으로 배터리팩 내부의 셀이 손상되며 절연파괴(규정된 전압을 벗어난 이상 전압에 의하여 절연이 파괴되는 현상)로 이어져 발화했을 개연성을 배제할 수 없다”고 분석했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 화재가 발생한 벤츠 전기차는 하부에 각각 배터리셀 36개로 구성된 모듈 10개가 들어간 배터리팩이 장착돼 있다. 국과수는 이 배터리팩 케이스의 바닥 부분에서 함몰 등 충격 흔적을 발견한 것으로 알려지고 있다.&lt;br&gt;&lt;br&gt;국과수는 다만 배터리관리장치(BMS)는 화재 당시 심한 연소로 파손이 심해 데이터 추출을 할 수 없었다고 밝혔다. BMS에는 배터리 총 동작시간과 누적 충·방전량, 충전 상태, 열화 상태, 급속 충전 횟수 등의 정보가 담긴다. 고전압 부품 절연과 배터리 셀 간 전압편차, 모듈 온도와 같은 배터리 안전 관련 정보도 포함된다.&lt;br&gt;&lt;br&gt;경찰은 벤츠 전기차가 지난 7월 29일 오후 7시 16분쯤 주차됐다가 59시간 가량 지나 화재가 발생한 점을 고려해 차주를 상대로 이전에 외부 충격으로 의심할 만한 상황이 있었는지 조사할 방침이다.&lt;br&gt;&lt;br&gt;전기차 차주는 “지난해에 전기차 정기 점검을 받았고, 불이 날 때까지 특별한 문제 없이 잘 타고 다녔다”고 진술한 것으로 알려지고 있다.&lt;br&gt;&lt;br&gt;경찰은 아파트 관리사무소의 안전관리 책임에 대해서도 수사를 진행하고 있다. 경찰은 업무상 과실치상 혐의로 아파트 관리사무소 야간근무자, 소방 안전관리책임자 등을 입건한 상태이다. 당시 야간근무자는 불이 난 직후 ‘솔레노이드 밸브’와 연동된 정지 버튼을 눌러 스프링클러 작동을 멈춘 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이번 화재로 주민 등 23명이 연기를 마셔 병원으로 옮겨졌으며 차량 87대가 불에 타고 783대가 그을렸다. 또 건물 전기·수도 배관이 녹아 일부 가구에선 약 1주일간 단전·단수가 이어졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘환자 사망’ 양재웅 “책임 통감하지만 의도적 방치 아냐”</title>
-      <link>https://www.chosun.com/national/people/2024/09/20/UZAITUQ755BCXAV5D2EQAYW4WI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/20/UZAITUQ755BCXAV5D2EQAYW4WI/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Sep 2024 06:33:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7LTTH2THTTZ2SGVA2AF3S5HYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정신건강의학과 전문의 양재웅./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정신건강의학과 전문의 양재웅이 자신이 운영하는 병원에서 환자가 사망한 사건과 관련해 “책임을 통감한다”고 밝혔다. 다만 그는 “치료진들이 환자를 의도적으로 방치했다고 보지 않는다”고 했다.&lt;br&gt;&lt;br&gt;양재웅은 지난 19일 한겨레와의 인터뷰에서 “치료를 위해 입원했던 환자가 사망한 것은 너무 안타깝고 죄송스러운 일”이라며 “병원장으로서 깊은 책임을 통감한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “응급 상황에서의 처치를 비롯한 시스템적 측면과 환자 상태를 놓친 부분에 대해서 지속적으로 반성하고, 다시는 반복되지 않을 수 있도록 검토, 점검 중”이라며 “다만 언론에 과장되게 표현되는 것처럼 치료진들이 의도적으로 환자를 방치했다고는 보고 있지 않다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QXESQNCOYBHOHNQMRXBI322MHU.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월27일 새벽 양재웅이 운영하는 부천의 정신병원 격리실에서 강박조처되는 환자 A씨. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 지난 5월 A(33) 씨는 양재웅이 운영하는 부천의 정신병원에 입원한 지 17일 만에 사망했다. 그는 마약류 성분이 포함된 다이어트약 중독 치료를 위해 이곳에 입원했다. 국립과학수사연구원 부검 결과, 사인은 ‘급성 가성 장폐색’으로 추정됐다.&lt;br&gt;&lt;br&gt;공개된 방범 카메라(CCTV) 영상에 따르면 A씨는 격리실에서 복통을 호소하며 격리실을 나가게 해달라고 호소했지만 의료진은 약 2시간 동안 그의 손·발과 가슴을 침대에 묶는 강박 조처를 했다. 이후 A씨는 배가 부풀고 코피를 흘리며 호흡이 거칠어진 모습을 보였고 다음날 새벽 심정지 상태로 발견됐다.&lt;br&gt;&lt;br&gt;환자의 자·타해 위험 때문에 격리·강박이 불가피했다는 게 병원 측 입장이다. 양 원장은 “(격리·강박이) 더 큰 위험을 막기 위한, 일부 위험이 따를 수 있는 치료라 생각한다”면서도 “강박을 무조건 하면 안 된다는 식의 접근은 더 큰 위험을 초래할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;병원이 환자를 방치했다는 의혹에 대해서는 “(CCTV 영상을 보면) 보호사들이 지속적으로 환자를 돌보는 모습이 나온다”며 “간호사실 바로 옆 격리실이었기 때문에 더 밀접하게 환자를 볼 수 있었다”고 주장했다.&lt;br&gt;&lt;br&gt;의료진의 심폐소생술(CPR)에 부족한 점이 보인다는 지적에는 “1년에 한 번씩 내과 과장님이 병동 치료진을 대상으로 응급상황에서의 CPR과 제세동기 사용에 대한 교육을 해왔다”면서 “그럼에도 처음 겪어보는 내과적 응급 상황에서 대처가 미숙했던 것 같다”고 했다. 이어 “지속적으로 반복해서 교육을 더 디테일하게 진행할 계획”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;그러면서 “이번 사망 사건의 본질적 문제는 격리·강박이 아니라 펜타민(디에타민) 중독 위험성”이라며 “(숨진 여성에게) 다른 중독도 의심된다”고 주장했다. 다만 다른 중독이 어떤 종류의 중독인지, 사망과 어떤 관계가 있는지는 정확한 입장을 내놓지는 않았다.&lt;br&gt;&lt;br&gt;그는 “본원의 병원장으로서, 한 인간으로서 다시 한번 진심으로 따님과 동생분을 잃으신 분들에 대해 깊은 애도를 전한다”라며 “건강하게 회복 시켜 드리지 못하고 사망에 이르게 되어 진심으로 사과드린다. 언론에 노출 없이 사과를 전할 기회가 있으면 좋겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/O7LTTH2THTTZ2SGVA2AF3S5HYU.jpg?width=2784&amp;height=3568&amp;auth=e5270210fea54e90f2bbb7bc5faa70726dfcc1e0fdc3c329a44f20b1a839f8be&amp;smart=true" type="image/jpeg" height="3568" width="2784">
-        <media:description type="plain">정신건강의학과 전문의 양재웅ⓒ News1 권현진 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">KwonHyonJin</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>의협부회장, 간호법 공포한 날 “그만 나대세요...건방진 것들” </title>
       <link>https://www.chosun.com/national/national_general/2024/09/20/QRH3L2QYBRERBES27DAFX5A4OM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/20/QRH3L2QYBRERBES27DAFX5A4OM/</guid>
@@ -1004,15 +1015,6 @@
       <description/>
       <pubDate>Fri, 20 Sep 2024 06:13:52 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7LDWH6PT2JE7TEVV3P7ZKGWAMM.png"&gt;&lt;figcaption&gt;&lt;small&gt;/대한의사협회 박용언 부회장 페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의사 업무 일부를 하면서도 법적 보호를 받지 못했던 ‘진료 지원(PA) 간호사’ 합법화의 근거를 담은 간호법 제정안이 20일 공포된 가운데, 박용언 대한의사협회 부회장이 간호사들을 겨냥해 “그만 나대세요. 그럴 거면 의대를 가셨어야죠”라고 했다.&lt;br&gt;&lt;br&gt;박 부회장은 이날 ‘간호협회, 간호법 제정안 공포 환영’이라는 제목의 대한간호협회 보도자료를 캡처해 자기 페이스북에 공유한 뒤 “장기 말 주제에 플레이어인 줄 착각 오지시네요. 주어 목적어 생략합니다. 건방진 것들”이라며 이같이 썼다.&lt;br&gt;&lt;br&gt;이 글에 한 네티즌이 “자기네 직역 지킨다고 오만 환자 다 내버리면서. 의사 집단의 집단 이기주의는 우리나라의 큰 적폐”라고 지적하는 댓글을 달자, 박 부회장은 “집에서 처맞고 사는 아내가 도저히 못 참고 집을 뛰쳐나갔다고 애들 버리고 뭐 하는 짓이냐고 하는 질책은 결코 옳지만은 않다”고 답글을 달았다.&lt;br&gt;&lt;br&gt;박 부회장은 자신의 발언이 기사화하자 “주어 목적어 없는 존재감 없는 제 글에 관심 가져주시고. 송구합니다. 기사 잘 읽겠습니다”라며 재차 페이스북에 글을 올렸다.&lt;br&gt;&lt;br&gt;앞서 간호법 제정안이 공포된 이날 대한간호협회는 간협은 “간호법이 국무회의에서 의결된 데 이어 오늘 공포됨으로써 국민의 보편적 건강권과 사회적 돌봄의 공적 가치를 실현할 수 있게 됐다”며 “대한민국은 앞으로 간호법을 통해 보건 의료의 공정과 상식을 지켜낼 것”이라는 성명을 냈다.&lt;br&gt;&lt;br&gt;이들은 성명에서 “간호법이 만들어져 간호사가 해도 되는 직무와 하지 말아야 할 직무가 명확해져 국민 모두에게 안전한 간호를 제공할 수 있는 기반이 생겼다”며 “전국 65만 간호인은 언제나 그래왔듯 국민 곁에서, 국민을 위해 최선을 다해 건강한 대한민국을 만드는 데 앞장설 것임을 국민 여러분께 약속한다”고 했다.&lt;br&gt;&lt;br&gt;간호법 제정안은 의사의 수술 집도 등을 보조하면서 의사 업무 일부를 담당하는 PA 간호사들의 역할을 명문화하는 게 핵심이다. 미국·영국 등에선 PA 간호사가 법에 규정돼 있지만, 한국 의료법엔 근거 규정이 없었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>뇌물 수수 혐의 전 대구지방국세청장 1심서 무죄</title>
-      <link>https://www.chosun.com/national/incident/2024/09/20/NFNM3Y7K7REK3JSK3SC5ORUPM4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/20/NFNM3Y7K7REK3JSK3SC5ORUPM4/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Sep 2024 04:03:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMGA4NO5BFCJ5KDLOB6HLA3DWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지방·고등법원 전경. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세무 비리 혐의로 기소된 전 대구지방국세청장에게 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 형사 11부(재판장 이종길)는 20일 뇌물수수 혐의로 기소된 전 대구지방국세청장 A씨에게 무죄를 선고했다. 하지만 뇌물공여 혐의로 기소된 세무사 B씨와 부정처사후 수뢰 및 허위공문서 작성 혐의로 기소된 세무공무원 5명에겐 징역 8개월~2년 6개월을 각각 선고했다.&lt;br&gt;&lt;br&gt;A씨는 현직이던 지난 2022년 8~9월 세무사 B씨로부터 두 차례에 걸쳐 1300만원 상당의 뇌물을 받은 혐의로 재판에 넘겨졌다. 검찰은 B씨가 “(내가) 의뢰를 맡은 업체가 세무 조사 대상이 됐으니 잘 봐달라”는 취지로 부탁하며 A씨에게 돈을 건넨 것으로 파악했다.&lt;br&gt;&lt;br&gt;하지만 재판부는 B씨가 A씨에게 뇌물을 건넨 것으로 보기 어렵다고 판단했다. A씨의 뇌물 수수 혐의를 뒷받침하는 증거는 B씨의 진술 뿐인데, 정작 B씨는 뇌물을 준 시점을 정확히 기억하지 못했다.&lt;br&gt;&lt;br&gt;재판부는 “A씨와 B씨가 같은 부서에서 일했지만 사적 친분이 없었고, B씨가 뇌물을 줬다고 주장한 시기는 A씨가 국세청장으로 갓 부임한 때로, 뇌물을 받으면 쉽게 그 사실이 노출되는 상황이었다”며 “B씨가 다른 공무원들에게 뇌물을 준 것은 명확히 기억하는 반면, A씨에게 돈을 건넸다는 진술은 일자나 내용 등이 구체적이지 못하며 추측에 의존하고 있다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 또 “B씨가 두 차례에 걸쳐 1300만원을 전달했다고 하는데, 두번째 만남이 있었다고 주장하는 시기는 관공서 집중 감찰 기간과 겹쳐 실제 만남이 있었을지도 의문”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;반면 재판부는 세무사 B씨와 세무공무원 5명 등 6명에 대해선 혐의가 인정된다고 판단했다. B씨는 당시 세무공무원들에게 1000만~2000만원 상당의 뇌물을 건네며 세무 조사를 무마해달라는 등의 청탁을 한 것으로 조사됐다. B씨는 약 23년간 세무공무원으로 일했던 전관(前官) 세무사였다. B씨는 로비 대가로 세무조사 대상 업체들에게 2억원 정도를 받은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;세무공무원 4명은 B씨를 통해 뇌물을 받은 뒤 업체 과세 서류를 삭제·조작했고, 또 다른 세무공무원 1명은 세무 조사 정보를 사전에 B씨에게 알려주거나 세무조사를 하지 않아도 된다는 취지의 허위 공문서를 작성한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “전관 세무사와 국세청 현직 공무원이 결탁해 조세 행정의 신뢰성을 훼손한 만큼 엄벌이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
