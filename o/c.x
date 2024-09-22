@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“애인 구합니다”…동사무소에 음담패설 가득 적은 종이 들고 찾아온 노인</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/23/53H7HX7RMBBFFASMVDGQS2B3P4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/23/53H7HX7RMBBFFASMVDGQS2B3P4/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Sep 2024 22:29:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JN4B2TRRXFGHRK6U5ROYP24XJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;동사무소 민원인이 건넨 편지./블라인드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;애인을 구한다며 행정복지센터(동사무소)에 음담패설을 가득 적은 종이를 들고 찾아온 노인의 사연이 전해져 공분을 사고 있다.&lt;br&gt;&lt;br&gt;지난 21일 직장인 익명 커뮤니티 ‘블라인드’에는 ‘애인 구하는 할아버지’라는 제목의 글이 올라왔다.&lt;br&gt;&lt;br&gt;동사무소에 근무한다고 밝힌 작성자는 “방금 어떤 할아버지 민원인이 별말 없이 봉투를 주길래 편지인가 하고 읽어봤다”고 운을 뗐다.&lt;br&gt;&lt;br&gt;봉투 안에는 4장의 종이가 들어 있었다. 여기엔 성적인 행위를 묘사한 음담패설이 가득 적혀 있었다고 한다.&lt;br&gt;&lt;br&gt;작성자는 “충격받아서 가만히 있다가 옆에 직원 불러서 쫓아냈는데 사진이라도 찍어 놓을 걸 후회된다. 성희롱 당한 기분”이라며 “옆에 직원이 ‘뭘 원하시냐’고 물어보니까 애인 구한다더라. 왜 동사무소에서 애인을 찾느냐”고 했다.&lt;br&gt;&lt;br&gt;여기서 끝이 아니었다. 이 민원인은 다시 찾아와 “애인 구할 수 없냐”고 물어봤다고 한다. 이때 민원인에게 다시 봉투를 건네 받아 사진을 찍었다는 작성자는 종이에 적힌 내용을 공개했다.&lt;br&gt;&lt;br&gt;종이에는 “전화하세요. 그러면 ○○이가 마당으로 나갈게요. ○○과 애인하면 ○○가”라며 구체적인 성행위를 적어 놨다. 이어 “토요일과 일요일 저녁에는 아무도 안 오고 혼자 있습니다. 인천에서 사는 동생 있는데 동생은 두 달에 한번씩 토요일과 일요일은 안 오고 다른 날 옵니다. ○○과 애인한다면…”이라고 써져 있었다.&lt;br&gt;&lt;br&gt;작성자는 “신고하려고 하니까 팀장님들이 말렸다. 정신이 이상한 사람이라고 하더라”며 “신고할 수는 있을 것 같은데 별로 소용없을 것 같다”고 토로했다.&lt;br&gt;&lt;br&gt;사연을 접한 네티즌들은 “성희롱으로 신고해야 한다” “공무원 극한 직업이다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;일부 네티즌들은 작성자의 사연에 2022년 3월 대구 달서구 모 여자 고등학교와 여자 중학교 인근에서 ‘아이 낳아줄 여성을 구한다’는 내용의 현수막을 건 50대 남성 A씨의 사건을 떠올리기도 했다.&lt;br&gt;&lt;br&gt;A씨는 당시 자기 화물차를 세워두고 ‘혼자 사는 험한 60대 할아버지 아이 낳고 살림할 13∼20세 사이 여성 구한다’는 내용의 현수막을 게시했다가 현행범으로 체포됐다. 재판에 넘겨진 A씨는 아동복지법과 옥외광고물법 위반 혐의로 징역 10개월에 집행유예 2년을 선고받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>의대 증원에도… 과기원·약대 수시, 예상 깨고 지원자 몰렸다</title>
       <link>https://www.chosun.com/national/education/2024/09/23/L256GBTC3FAHXM3KWVQA27BYAE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/09/23/L256GBTC3FAHXM3KWVQA27BYAE/</guid>
@@ -938,15 +947,6 @@
       <description/>
       <pubDate>Fri, 20 Sep 2024 15:55:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2NQDVXONEZI6PHMBPWVXMPXQRI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;사직 전공의 정모씨가 20일 서울 서초구 서울중앙지법에서 영장실질심사를 받고 얼굴을 가리며 나서는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의료계 집단행동에 동참하지 않고 복직한 의사들의 명단이 적힌 이른바 ‘의료계 블랙리스트’를 작성한 혐의를 받는 사직 전공의가 20일 구속됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 남천규 영장전담 부장판사는 이날 스토킹처벌법 위반 혐의를 받는 정모씨에 대한 영장실질심사를 마친 후 “증거를 인멸할 염려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;검찰과 경찰 등에 따르면 정씨는 지난 7월 정부의 의대 증원 정책에 반발한 전공의·의료계 집단행동 등에 참여하지 않는 의사·의대생들의 실명과 병원, 학교 등의 신상 정보를 담은 ‘감사한 의사’ 명단을 만든 뒤 텔레그램과 의사·의대생 온라인 커뮤니티 ‘메디스태프’를 통해 이를 여러 차례 게시한 혐의를 받는다. 명단에 포함된 의사는 800여 명에 달하는 것으로 알려졌다. ‘감사한 의사’는 다수 전공의의 현장 이탈에 동조하지 않고 근무 중인 소수 의사를 비꼬는 표현이다.&lt;br&gt;&lt;br&gt;앞서 정씨는 개인정보보호법 위반 등 혐의로 입건됐으나, 서울경찰청 사이버수사대는 지난 12일 정씨가 당사자 의사에 반해 개인 정보를 온라인에 게재하는 등 지속·반복적인 괴롭힘 행위를 했다고 보고 스토킹처벌법 위반 혐의로 구속영장을 신청했다. 서울중앙지검 공공수사3부(부장 김태훈)는 지난 13일 정씨의 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“그만 나대세요… 건방진 것들” 의협 부회장, 간호사에게 막말</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/09/21/JFHKDMS3ZFDX3LXFO7H777HH6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/21/JFHKDMS3ZFDX3LXFO7H777HH6E/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Sep 2024 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7LDWH6PT2JE7TEVV3P7ZKGWAMM.png"&gt;&lt;figcaption&gt;&lt;small&gt;/대한의사협회 박용언 부회장 페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;진료 지원(PA) 간호사의 의료 행위를 법으로 보호하는 간호법 제정안이 20일 공포된 가운데, 대한의사협회(의협) 부회장이 간호사들을 겨냥해 “건방진 것들”이라고 원색적으로 비난해 논란이 일고 있다.&lt;br&gt;&lt;br&gt;박용언(49) 의협 부회장은 이날 자신의 페이스북에 ‘간호협회, 간호법 제정안 공포 환영’이라는 제목의 간호협회 보도자료를 캡처해 올리며 “그만 나대세요. 그럴 거면 의대를 가셨어야죠”라고 썼다. 박 부회장은 “장기말 주제에 플레이어인 줄 착각 오지시네요”라며 “주어, 목적어 생략합니다. 건방진 것들”이라고도 썼다.&lt;br&gt;&lt;br&gt;대한간호협회는 이날 간호법 제정안 공포 직후 보도자료를 내고 “간호사가 해도 되는 직무와 하지 말아야 할 직무가 명확해져 국민 모두에게 안전한 간호를 제공할 수 있는 기반이 생겼다”며 “간호법을 통해 보건의료의 공정과 상식을 지켜낼 것”이라고 했다. 이에 박 부회장이 ‘장기말’ ‘건방진 것’ 등의 표현을 쓰며 원색적으로 비난한 것이다. 법안 통과 직후에는 임현택 의협 회장도 “직역 이기주의 끝판 간호사 특혜법”이라며 “불법 무면허 의료 행위가 만연하고 의료 현장이 아수라장이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;박 부회장은 자신의 발언이 기사화되자 “주어, 목적어 없는 존재감 없는 제 글에 관심 가져주시고 송구합니다”라고 재차 글을 올렸다. 또 다른 게시물에는 “나는 공산당이 싫어요. 나는 간호법이 싫어요. 나는 의대 증원이 싫어요”라고도 썼다.&lt;br&gt;&lt;br&gt;박 부회장은 올해 임현택 회장 당선 직후 의협 부회장으로 임명됐다. 앞서 의협 기획이사·의무이사와 부대변인 등을 맡은 적이 있다. 단국대 의대를 졸업했고, 서울 은평구에서 마취통증 클리닉을 운영 중이다. 의협은 상근부회장 1명 외에 박 부회장을 포함한 부회장 9명을 두고 있다.&lt;br&gt;&lt;br&gt;의협 전·현직 임원들의 막말 논란은 처음이 아니다. 임현택 회장은 업무상 과실치사로 기소된 의사에게 유죄를 선고한 판사를 향해 “이 여자 제정신입니까”라고 해 파장을 일으켰다. 의대 증원 정책에 대해 노환규 전 의협 회장은 “정부는 의사들을 이길 수 없다”고 했고, 좌훈정 서울시의사회 정책이사는 “데이트(정부와 의료계 협의) 몇 번 했다고 성폭행(의대 증원)해도 되느냐”고 말해 빈축을 샀다. 지난 4월 주수호 당시 의협 비대위 언론홍보위원장은 “매 맞는 아내가 자식 때문에 가출 못할 거라고, 자식을 볼모로 폭력을 행사하는 남편과 무엇이 다르냐”고 했다. 의사를 ‘매 맞는 아내’, 환자를 ‘자식’, 정부를 ‘폭력적 남편’에 빗댄 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>주말 적시고 나면… 가을다운 가을 온다</title>
