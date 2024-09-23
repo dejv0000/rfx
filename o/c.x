@@ -13,6 +13,67 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>DDP~광화문 ‘서울 걷자 페스티벌’ 29일 개최</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/23/B77CVZD55FAFZGUNY6RAGSX24E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/23/B77CVZD55FAFZGUNY6RAGSX24E/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Sep 2024 13:12:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NU2KKXIUJRBIZCLI2FTEIJ56SY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가을의 인사 받으며 서울을 걷다 - 선선한 가을 아침, 텅 빈 서울 도심 거리를 5000여 명이 함께 걸었다. 지난 2023년 9월 17일 오전 '2023 서울 걷자 페스티벌(서울시·조선일보 공동 주최) '참가자들이 출발점인 서울 중구 동대문디자인플라자(DDP)를 나서는 모습. 참가자들은 흥인지문과 율곡터널, 청와대를 거쳐 광화문광장까지 6㎞를 걸었다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;선선한 가을 아침, 차 없는 서울 도심을 여유롭게 걸을 수 있는 ‘2024 서울 걷자 페스티벌’이 오는 29일 동대문과 광화문광장 일대에서 열린다.&lt;br&gt;&lt;br&gt;서울 걷자 페스티벌은 서울시와 조선일보사가 공동 주최하는 국내 대표 걷기 축제다. 올해 11회째다.&lt;br&gt;&lt;br&gt;지난달 19일 참가자 모집을 시작한 지 하루 만에 5000명 접수가 마감됐다.&lt;br&gt;&lt;br&gt;29일 오전 8시 서울 중구 동대문디자인플라자(DDP)를 출발해 흥인지문과 율곡터널, 창덕궁, 경복궁, 청와대를 거쳐 광화문광장으로 들어오는 코스(6㎞)다.&lt;br&gt;&lt;br&gt;휠체어를 타거나 유모차를 끌고 참가할 수도 있다. 서울시 관계자는 “안전을 위해 경찰과 모범 운전자 등 340여 명을 코스 곳곳에 배치할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;참가자들을 위해 코스 중간중간 다양한 즐길거리도 마련한다. 율곡터널 내부는 LED 조명을 활용해 클럽처럼 꾸민다. DJ(디제이)가 신나는 클럽 음악을 튼다. 도착지인 광화문광장에서는 K팝 댄스와 마술, 밴드 공연이 열린다.&lt;br&gt;&lt;br&gt;올해는 6㎞ 코스를 완주한 참가자들에게 서울시 ‘기후동행카드’를 선물한다. 기후동행카드는 월 6만2000원에 서울 지하철, 버스 등 대중교통을 무제한 탈 수 있는 이용권이다.&lt;br&gt;&lt;br&gt;행사 당일 서울 도심의 차량 통행을 오전 6시부터 11시까지 순차적으로 통제한다. 참가자들이 모이는 DDP 앞 도로는 29일 오전 6시부터 8시 25분까지 통제된다. 시내버스 등 47개 노선은 코스를 우회해 운행한다. 교통 통제 정보는 서울시 교통정보시스템(TOPIS) 홈페이지 등을 통해 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ZYYS3QWWVFFWLC7656AQEFQ2XI.jpg?width=768&amp;height=432&amp;auth=241301f42e1e7b0d0f81c8aa78a81645e1b5a05ddcb9675d9466c8924f7c6782&amp;smart=true" type="image/jpeg" height="432" width="768">
+        <media:description type="plain">가을의 인사 받으며 서울을 걷다 - 선선한 가을 아침, 텅 빈 서울 도심 거리를 5000여 명이 함께 걸었다. 17일 오전 '2023 서울 걷자 페스티벌(서울시·조선일보 공동 주최) '참가자들이 출발점인 서울 중구 동대문디자인플라자(DDP)를 나서는 모습. 참가자들은 흥인지문과 율곡터널, 청와대를 거쳐 광화문광장까지 6㎞를 걸었다. /남강호 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>92곳 병원에 연락했지만...추석 당일 30대 여성 끝내 숨졌다</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/09/23/3Y5LSQS35BE7NECRRC65MJBLWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/09/23/3Y5LSQS35BE7NECRRC65MJBLWA/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Sep 2024 13:09:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRLP7PKFBJGAVF5P2GEG3KQNPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 추석 부산에서 응급상황에 처한 30대 여성 환자가 92차례에 걸쳐 치료받을 수 있는 병원을 찾았지만 끝내 찾지 못해 숨진 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;23일 부산소방재난본부 등에 따르면 지난 17일 오전 2시 15분쯤 부산 영도구에서 30대 여성이 의식 장애 증상 등을 보인다는 신고가 119에 접수됐다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 구급대는 당시 환자가 생명이 위험할 수 있는 레벨1 단계로 판단해 구급상황관리센터까지 요청해 치료할 병원을 찾기 위해 전화를 돌렸다고 한다.&lt;br&gt;&lt;br&gt;하지만 부산 시내 10개 병원에서 진료 불가 통보를 받았고, 그 사이 환자는 구급차에서 심정지 상태에 빠졌다. 이에 구급대는 우선 근처에 있는 한 병원 응급실로 옮겼고, 심폐소생술과 약물 투여로 일시적으로 환자의 의식이 돌아왔다.&lt;br&gt;&lt;br&gt;하지만 의료기기 부족으로 상급병원으로 옮겨야 하는 상황이던 환자는 부산 시내 대학병원 3곳은 물론 경남 진주 경상국립대병원과 충남 천안 순천향대병원까지 연락했으나 의료인력 부족 등을 이유로 모두 거절당했다고 한다.&lt;br&gt;&lt;br&gt;환자는 92차례에 걸친 수소문에도 결국 치료를 받지 못하고 오전 6시 25분쯤 숨진 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>산부인과 시술받다 돌연 심정지… 20대女 한 달여 만에 결국 숨져</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/23/JCQRUM4THVAUFBNSSMXB522VEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/23/JCQRUM4THVAUFBNSSMXB522VEI/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Sep 2024 13:02:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰마크. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 속초의 한 산부인과에서 시술 도중 심정지 상태에 빠진 20대 여성이 한 달여 만에 숨졌다.&lt;br&gt;&lt;br&gt;23일 경찰 등에 따르면 지난 6일 오전 20대 여성 A씨가 사망 판정을 받았다. A씨는 지난 7월 24일 오전 10시5분쯤 속초 한 산부인과 병원에서 시술받던 중 돌연 심정지 상태에 빠졌다. 도내 한 종합병원으로 옮겨진 A씨는 줄곧 중환자실에서 치료받았으나, 상태가 호전되지 않았고 끝내 세상을 떠났다.&lt;br&gt;&lt;br&gt;앞서 A씨 가족은 사고 발생 이후 산부인과를 업무상과실치상 혐의로 고소했다. 경찰은 병원을 대상으로 압수수색을 벌여 시술 동의서 등 관련 자료를 확보했다. 시술을 담당한 의사 등 병원 관계자들도 조사했다. 다만 의사는 혐의를 부인한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨가 사망함에 따라 경찰은 업무상과실치사 혐의를 적용해 수사 중이다. 정확한 사망 원인을 파악하기 위해 국립과학수사연구원에 부검을 의뢰했다. 결과가 나오는 대로 확보한 의료기록과 함께 전문 기관에 감정을 맡길 예정이다. 부검 결과는 내달 초쯤 나올 것으로 보인다.&lt;br&gt;&lt;br&gt;한편 속초시는 지난달 13일 산부인과를 찾아 의료법 위반 사항이 있는지 점검했다. 30여개 항목에 걸쳐 광범위하게 살폈으나 ‘부적합’ 항목은 없는 것으로 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“까마귀가 파우치 가져갔어요” 강남 한복판 택배 절도 사건 전말</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/23/3I2OZS6A35AUJCUWC6CVXENSQQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/23/3I2OZS6A35AUJCUWC6CVXENSQQ/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Sep 2024 10:59:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TYDEKKN4AFACLIPMUDKTLMGSHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 22일 오후 5시 17분쯤 까마귀 한 마리가 서울 강남구의 한 건물 앞에 놓인 소포를 물고 날아가는 모습 캡쳐./독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 서초구에 거주하는 작곡가 김진영(33)씨는 지난 22일 황당한 일을 겪었다. 이날 오후 2시 50분쯤 인터넷으로 주문한 파우치가 김씨의 서울 강남구 작업실 앞에 도착했다는 알림을 받고선 오후 8시쯤 수령하러 갔지만 파우치를 도저히 찾을 수 없었다. 다른 곳으로 택배가 배송됐나 싶어 폐쇄회로(CC)TV를 확인한 김씨는 할 말을 잃었다.&lt;br&gt;&lt;br&gt;범인은 ‘까마귀’였다.&lt;br&gt;&lt;br&gt;당일 오후 5시 15분쯤 작업실 앞에 온 까마귀 한 마리가 2분 정도 두리번거리다가 본인의 택배를 물고 간 것이다. 김씨는 “까마귀가 자기 몸 만한 파우치를 가지고 간 어이 없는 상황이라 어디 하소연할 곳도 없다”며 “어느 누가 까마귀가 택배를 가져갔다고 생각하겠느냐”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F3SDLWA655DIHKIU4BGAQVJU3Q.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난 22일 오후 5시 17분쯤 까마귀 한 마리가 서울 강남구의 한 건물 앞에 놓인 소포를 물고 날아가고 있다./독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 서울 도심에서는 까마귀가 사람 물건을 가져갔다는 목격담이 잇따라 나오고 있다. 지난 3월에는 서울 양천구의 한 도로에서 신호 대기중이던 트럭 위에 실려있던 달걀을 까마귀가 가져가는 영상이 인스타그램에 올라와 화제였다. 이 영상에서 까마귀 한 마리는 달걀을 물어간 후 옆에 서 있던 다른 차 위에 착지한다. 이후 다른 까마귀 한 마리도 이 차에 올랐다가 달걀을 물고 날아간다. 까마귀 두 마리가 달걀 하나를 훔쳐간 것이다. 이 영상에는 7000개가 넘는 ‘좋아요’가 달렸다.&lt;br&gt;&lt;br&gt;도심에서 흔히 볼 수 있는 까마귀는 ‘큰부리까마귀’다. 이 까마귀는 알을 낳고 새끼를 키우는 4~6월에는 공격성이 높아져 사람을 공격하는 경우도 심심치 않게 있다고 한다. 환경부는 작년 12월 큰부리까마귀를 유해야생동물로 지정했다.&lt;br&gt;&lt;br&gt;까마귀는 간혹 사람을 직접 공격하기도 한다. 지난 6월에는 서울 용산구의 한 아파트 단지 인근에 ‘큰부리까마귀 공격 대비 행동요령’을 안내하는 현수막이 내걸렸다. 아파트 단지 안에 둥지를 튼 큰부리까마귀가 행인들을 공격하면서 안전사고 우려가 높아졌기 때문이다. 작년 5월에는 서울 노원구에서 길 가던 행인이 까마귀에 머리를 쪼여 피를 흘리는 모습을 봤다는 목격담이 인터넷 커뮤니티에 퍼졌다.&lt;br&gt;&lt;br&gt;최유성 국립생물자원관 국가철새연구센터 연구사는 “요새는 아파트 단지들도 주민들을 위해 녹지를 마련하는 추세이고, 도시에는 기본적으로 음식물 쓰레기 등 먹이가 많기 때문에 나무에 둥지를 트는 까마귀에게는 도심이 좋은 생활 공간”이라며 “여기에 서로 서식지 경쟁을 하는 까치가 1994년 유해 조수로 지정되며 정책적으로도 그 숫자를 줄이고 있는 상황이라 까마귀가 늘어난 측면이 있다”고 했다. 최 연구사는 “지난 1990년대만 해도 도심에서 까마귀는 거의 찾아볼 수 없었던 상황”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/F3SDLWA655DIHKIU4BGAQVJU3Q.gif?width=800&amp;height=450&amp;auth=cc6f3fee43a00b1340b76473ab6e1ae9eaf6884b288fa7137a7d8d8451c01794&amp;smart=true" type="image/jpeg" height="450" width="800">
+        <media:description type="plain">까마귀 가 문 앞에 놓친 소포를 물고 날아가고 있다. /독자제공</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>폰 보며 걷던 어린이가 ‘툭’… 호암미술관 수억대 전시품 떨어졌다</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/23/27GVTH2G6FF5BOZOY753D6XDEA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/23/27GVTH2G6FF5BOZOY753D6XDEA/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Sep 2024 11:20:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZA67355KTNGKPLJWKSOFPYX6PA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이번 사고로 바닥에 떨어진 ‘나무가 있는 세폭화’와 같은 형식의 또 다른 작품. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 용인의 호암미술관에서 어린이 관람객 실수로 수억 원대 전시품이 바닥에 떨어지는 일이 발생했다. 심각한 파손은 발생하지 않았지만 이로인해 작품 전시가 일시 중단됐다.&lt;br&gt;&lt;br&gt;호암미술관에서는 ‘파스텔의 마법사’로 불리는 스위스 작가 니콜라스 파티(44)의 한국 첫 개인전이 열리고 있다. 이번 소동은 추석 연휴 기간인 지난 18일 발생한 일로 한 어린이 관람객이 작품을 등진 채 휴대전화를 보며 걷다가 전시 좌대를 건드렸다.&lt;br&gt;&lt;br&gt;당시 바닥에 떨어진 작품은 ‘나무가 있는 세폭화’다. 휴대용 제단화처럼 접을 수 있는 아치 모양 화면 세 개에 그려진 삼면화 형태다. 파티를 대표하는 형식 중 하나로 ‘캐비닛 작품’이라고 불리기도 한다. 대리석 느낌으로 칠을 한 나무 좌대 위에 설치된 것이 특징이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY437LHRZFERHIWTTG3JZI4XU4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;파티의 대표 작품 형식인 아치형 삼면화. 대리석 느낌으로 칠을 한 좌대에 전시된다. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;파티의 작품은 미술시장에서 수십억 원대에 거래된다. 이 아치형 삼면화 작품들도 마찬가지로 높은 평가를 받는다. 앞서 이달 초 아트페어 프리즈 서울에서 삼면화 한 점이 35만 달러(약 4억6800만원)에 판매되기도 했다.&lt;br&gt;&lt;br&gt;다만 다행히 이번 사고로 인한 큰 피해는 없는 것으로 전해졌다. 미술관 측은 “확인 결과 작품 파손은 없었으나 (그림을 연결하는) 경첩의 나사 2개가 이탈했다”며 “작가와 상의해 조치한 상태”라고 설명했다. 전시가 중단됐던 ‘나무가 있는 세폭화’는 좌대 보완 후 24일부터 다시 관람객을 만난다.&lt;br&gt;&lt;br&gt;한편 스위스 로잔 출생으로 뉴욕에서 활동 중인 파티는 초현실적이고 몽환적인 그림으로 유명한 작가다. 18세기 유럽에서 유행한 후 잊힌 파스텔화의 전통을 재해석해 건축적인 스케일로 파스텔 벽화를 만든다. 이번 전시는 그가 한국에서 여는 첫 개인전으로 지난달 31일 개막했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천서 중학생, 여교사 음란 합성 사진 소지 혐의 경찰 조사</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2024/09/23/3H2QBOARZBABXJJUF6T6G44WNU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2024/09/23/3H2QBOARZBABXJJUF6T6G44WNU/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Sep 2024 10:17:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXOJ6JDLRZBJ3JMT3HJAJ35O5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 중학생이 합성한 여교사의 음란사진을 소지해 경찰 조사를 받고 있다.&lt;br&gt;&lt;br&gt;인천 서부경찰서는 여교사의 합성 사진을 소지한 혐의(성폭력범죄의 처벌 등에 관한 특례법 위반)로 중학생 A군을 수사 중이라고 23일 밝혔다. &lt;br&gt;&lt;br&gt;이 학교 전담 경찰관(SPO)은 이달 초 A군이 성착취물을 소지하고 있다는 첩보를 입수하고 그의 휴대전화에서 관련 사진을 발견한 것으로 파악됐다. 이 사진은 여교사의 얼굴과 나체사진을 인공지능(AI) 기반 딥페이크 기술로 합성한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰관계자는 “해당 사진이 A군이 직접 제작한 것인지 건네 받은 것인지에 대해서는 아직 조사가 안 됐다”며 “조만간 A군을 상대로 정확한 경위를 조사할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>김석우 신임 법무차관 “현장 목소리 들어 국민 체감 정책 실행해야”</title>
       <link>https://www.chosun.com/national/court_law/2024/09/23/HEFP4FAJFZAIJBJMQQUNKZ46RU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/23/HEFP4FAJFZAIJBJMQQUNKZ46RU/</guid>
@@ -855,58 +916,6 @@
       <description/>
       <pubDate>Sun, 22 Sep 2024 15:35:00 +0000</pubDate>
       <content:encoded>▲&lt;b&gt;미디어연대&lt;/b&gt;는 24일 오전 10시 ‘생성형 AI시대, 미디어 리터러시와 민주 시민 교육 방안’을 주제로 서울 목동 한국방송회관 3층 기자회견장에서 ‘2024 수용자 제대로 인식하기 주간’ 기념 토론회를 개최한다.&lt;br&gt;&lt;br&gt;▲&lt;b&gt;학교안전공제중앙회&lt;/b&gt;(이사장 정훈)는 창립 17주년을 기념해 24일 글래드호텔 여의도 블룸홀에서 ‘2024 세계학교안전 콘퍼런스 및 박람회’를 연다.&lt;br&gt;&lt;br&gt;▲&lt;b&gt;송하진&lt;/b&gt; 전 전북지사는 25일부터 10월 1일까지 서울 종로구 한국미술관에서 서예전 ‘거침없이 쓴다’를 연다. 내달 11일부터 11월 10일까지는 전주 현대미술관에서 열린다. 송 전 지사는 서예가 강암 송성용(1913~1999) 선생의 아들이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 박선보 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/09/23/6NZ6YOQCSFHABDVHSSJLCEXUSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/09/23/6NZ6YOQCSFHABDVHSSJLCEXUSM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Sep 2024 15:35:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;박선보&lt;/b&gt; 별세, &lt;b&gt;김민자&lt;/b&gt; NH농협은행 경기본부장 남편상=22일0시8분 아주대병원, 발인 24일6시30분, (031)219-6654&lt;br&gt;&lt;br&gt;▲&lt;b&gt;장덕인&lt;/b&gt; 에너토크 회장 별세, &lt;b&gt;현예자&lt;/b&gt; 남편상, &lt;b&gt;장기원&lt;/b&gt; 엠에스티씨 이사·&lt;b&gt;장기범&lt;/b&gt; 일루미나코리아 상무·&lt;b&gt;장영옥&lt;/b&gt; 델테크놀로지 이사 부친상, &lt;b&gt;이충열&lt;/b&gt; 에너토크 대표 장인상, &lt;b&gt;이해문&lt;/b&gt;·&lt;b&gt;박유미&lt;/b&gt; 시부상=21일22시2분 삼성서울병원, 발인 24일9시, (02)3410-6917&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[리빙포인트] 다 쓴 치약은 변기 물탱크에</title>
-      <link>https://www.chosun.com/culture-life/living/2024/09/23/64SSGHO7KFH3LJF6GUQUBDCY6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/living/2024/09/23/64SSGHO7KFH3LJF6GUQUBDCY6A/</guid>
-      <description/>
-      <pubDate>Sun, 22 Sep 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMSV73LTH5BMLL2B2SKFUMCF6Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;거의 다 쓴 치약은 끝을 가위로 잘라 변기 물탱크에 넣어보자. 남은 치약이 물에 섞여 2주 정도 변기가 깨끗하게 유지된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [식물 이야기] 뿌리가 땅 위를 달리는 풀… 갈대와 비슷한데 물살 센 계곡에서 자라요</title>
-      <link>https://www.chosun.com/national/nie/2024/09/23/GM3SFCMCB5H4ZLZDMONDKTRYEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/09/23/GM3SFCMCB5H4ZLZDMONDKTRYEY/</guid>
-      <dc:creator>김민철 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Sep 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CJGDJ3AYKVEIPB3CHRGO4B5VSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;달뿌리풀(맨 왼쪽)은 열매 이삭이 듬성듬성 엉성하게 달려 있어 휑한 느낌이 납니다. 갈대(가운데)는 갈색 이삭이 무성하게 달려서 산발한 것처럼 보여요. 억새(맨 오른쪽) 흰색 이삭이 한쪽으로 단정하게 모여 있어요. /국립생물자원관·김민철 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;억새와 갈대가 바람에 흔들리는 모습은 가을을 대표하는 풍경 중 하나죠. 그런데 요즘 산의 계곡을 지나다 보면 물가에서 억새 또는 갈대와 비슷하게 생긴 풀이 무리 지어 자라는 것을 볼 수 있습니다. 꽃이삭이 엉성한 편이라면 달뿌리풀일 가능성이 높습니다.&lt;br&gt;&lt;br&gt;갈대와 억새는 어떻게 구분할까요. 억새는 주로 산이나 평지에서 자라고 이삭 색깔도 은색이 도는 흰색이에요. 잎 가운데 흰색의 주맥이 뚜렷한 것도 특징입니다. 또 억새의 이삭은 한쪽으로 단정하게 모여 있습니다. 억새와 갈대는 속(屬)이 다릅니다. 서울 하늘공원, 가평 유명산, 포천 명성산, 정선 민둥산, 창녕 화왕산 등이 억새로 유명한 곳입니다.&lt;br&gt;&lt;br&gt;갈대는 대나무처럼 마디가 있고 이삭이 갈색이라 갈대라 부릅니다. 억새는 높이가 1~2m인데 갈대는 3m까지 자랍니다. 을숙도, 순천만, 충남 서천 신성리(금강 하구) 등이 갈대밭으로 유명하죠. 하나같이 물이 흐르지 않거나 약하게 흐르는 강 하구라는 공통점이 있습니다.&lt;br&gt;&lt;br&gt;이처럼 억새는 주로 산이나 평지에서, 갈대는 주로 강 하구에서 자랍니다. 그 중간인 산의 계곡이나 작은 천에서 자라는 것은 달뿌리풀인 경우가 많습니다. 달뿌리풀은 키도 약 2m로 억새와 갈대의 중간쯤입니다.&lt;br&gt;&lt;br&gt;달뿌리풀은 갈대와 같은 속이라 그런지 둘을 구분하기는 쉽지 않습니다. 달뿌리풀의 가장 큰 특징은 뿌리줄기가 옆으로 뻗는다는 점입니다. 이름 자체가 ‘뿌리’가 땅 위로 ‘달’린다는 뜻을 담고 있습니다. 산의 계곡 또는 개울가에서 땅 위 또는 물속으로 길게 뻗는 뿌리줄기가 있으면 달뿌리풀입니다. 갈대는 뿌리줄기가 땅 위를 달리지 않고 땅속에서 뻗습니다.&lt;br&gt;&lt;br&gt;문제는 ‘달리는 뿌리’가 보이지 않을 때입니다. 그때는 무엇으로 갈대와 달뿌리풀을 구분할 수 있을까요. 우선 갈대는 비교적 꽃과 열매 이삭이 촘촘히 달렸고 산발한 느낌을 줍니다. 반면 달뿌리풀은 꽃과 열매 이삭이 대머리 직전처럼 엉성해 휑한 느낌을 줍니다. 자라는 장소도 갈대는 강 하구처럼 물 흐름이 없거나 약한 곳, 산소가 부족한 진흙땅을 선호하고, 달뿌리풀은 물 흐르는 곳, 산소가 풍부한 모래땅을 좋아합니다.&lt;br&gt;&lt;br&gt;정리하면 이삭이 한쪽으로 단정하게 모여 있으면 억새, 무성하고 산발한 것처럼 보이면 갈대, 대머리 직전처럼 엉성하면 달뿌리풀로 구분할 수 있겠습니다. 또 서식하는 곳에 따라 산 정상 부근이면 억새, 개울가나 작은 천이면 달뿌리풀, 강 하구라면 갈대일 가능성이 높습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 9월 23일</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/23/CHCBYM6KEBEVXMEIPOJTAONEKU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/23/CHCBYM6KEBEVXMEIPOJTAONEKU/</guid>
-      <description/>
-      <pubDate>Sun, 22 Sep 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QUH4MHCHERD37MCTKGPQL6O3MQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재밌다, 이 책!] 사람들 무관심 속 이름조차 희미해진 V양… 죽은 뒤에야 타인의 눈길 끌 수 있었죠</title>
-      <link>https://www.chosun.com/national/nie/2024/09/23/DCREPJVDCJGRDA6XGUDFPIJJCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/09/23/DCREPJVDCJGRDA6XGUDFPIJJCE/</guid>
-      <dc:creator>김미향 출판평론가·수필가</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Sep 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TGGATNWLZFFSBBGUGIR6TWV6E4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;버지니아 울프 글 l 고정순 그림 l 홍한별 옮김 l 출판사 아름드리미디어 l 가격 1만4000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;사회에서 소외된 개인의 고독한 삶과 죽음을 섬세하게 탐구한 단편소설이에요. 주인공은 대도시 런던에서 존재감 없이 살아가는 자매입니다. 화자는 두 사람을 통틀어 ‘V양’이라고 불러요. V양은 이름으로 불리지 못할 만큼 타인의 관심과 기억에서 희미해진 것이지요.&lt;br&gt;&lt;br&gt;V양은 사교 모임 등에 종종 나타나 사람들과 가벼운 인사를 나누지만, 사람들에겐 한편에 덩그러니 놓인 가구 같은 존재예요. 화자도 어쩌다 V양을 만나면 정해진 대화만 할 뿐, 마음을 나누는 이야기는 하지 않아요.&lt;br&gt;&lt;br&gt;그렇게 V양은 투명 인간처럼 살다가 어느 날 조용히 사라져요. 화자는 말합니다. 시골에서라면 푸줏간 주인이나 우편배달부나 교구 목사의 아내가 V양의 죽음을 알았을 거라고요. 그렇지만 도시에선 사람들 사이의 관계가 최소한으로 축소된다고요.&lt;br&gt;&lt;br&gt;다들 한시도 낭비하면 안 된다며 서두르다 보니 푸줏간 주인은 부엌문 앞에 던져 놓은 고기가 그대로 남아 있어도 눈치채지 못하고, 우편배달부는 우편함에 밀어 넣은 편지가 읽히지 않아도 알 리가 없어요. 교구 목사 아내 역시 자매의 집에 던져 넣은 교구 소식지에 적힌 목사의 지시가 이행되지 않아도 알지 못하지요. 그러면서 V양은 사람들의 관심에서 점점 벗어나는 불쌍한 존재가 되고 말아요.&lt;br&gt;&lt;br&gt;V양은 삶이 끝나고 나서야 관심을 받게 됩니다. 어느 날 화자가 V양이 사라졌다는 것을 깨달으면서 말이지요. 산업화와 도시화를 통해 사람들 간 물리적 거리는 가까워졌지만, 정서적 거리는 오히려 멀어졌어요. 버지니아 울프는 V양의 삶과 죽음을 통해 이런 사회에서 인간이 겪는 고독과 타인의 무관심을 비판합니다.&lt;br&gt;&lt;br&gt;버지니아 울프는 소설에서 “이 이야기는 런던에서만 일어날 수 있는 이야기”라고 했지만, 2024년을 살아가는 우리는 알고 있습니다. 이 이야기는 서울에서도 일어날 수 있고, 우리는 누구나 V양이 될 수 있다는 걸요. 여러분은 주변 사람들을 어떻게 대하고 있나요? 바쁜 일상으로 관심 가질 여유가 없다며 그냥 지나친 건 아닌가요? 이 책을 읽고 나면 타인에 대한 무관심과 단절이 당연했던 일상에서 벗어나, 주변 사람들을 다시 한번 돌아보는 시간을 가질 수 있게 될 거예요.&lt;br&gt;&lt;br&gt;이 책은 고정순 그림책 작가가 삽화를 그렸어요. 고 작가가 자신만의 시각으로 소설을 해석해 그린 그림들은 독자가 이야기를 더욱 감각적으로 이해할 수 있게 해줍니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [클래식 따라잡기] “청중에 답례” “흐름 깨뜨려”… 앙코르 보는 시선 엇갈리죠</title>
-      <link>https://www.chosun.com/national/nie/2024/09/23/LUGB6S6WTZH7FMH3GPH6DPKHHY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/09/23/LUGB6S6WTZH7FMH3GPH6DPKHHY/</guid>
-      <dc:creator>김성현 문화전문기자, 기획·구성=오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Sep 2024 15:30:00 +0000</pubDate>
-      <content:encoded>지난 8일 서울 세종문화회관에서 푸치니 오페라 ‘토스카’ 공연 도중에 루마니아 출신 유명 소프라노 안젤라 게오르기우(59)가 무대로 뛰쳐나와 지휘자에게 고함을 치는 초유의 사건이 일어났습니다. ‘토스카’ 3막에서 남자 주인공 카바라도시 역을 맡은 한국인 테너가 유명한 아리아(독창곡)인 ‘별은 빛나건만’을 앙코르(Encore)로 한 번 더 부른 것이 발단이었지요. 당시 게오르기우는 손을 휘저으면서 “이건 독창회가 아니다. 나를 존중해달라”고 객석까지 들릴 만큼 크게 소리쳤어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SLRV73XZ6BCNNMYFSFOMANAQUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이달 초 세종문화회관에서 열린 푸치니 오페라 '토스카'에서 소프라노 안젤라 게오르기우(오른쪽)와 테너 김재형이 공연하는 모습. 게오르기우는 며칠 뒤 공연에서 김재형이 앙코르를 부르자 무대로 뛰쳐나와 지휘자에게 항의하는 소동을 벌였어요. /세종문화회관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 공연이 끝난 뒤에도 게오르기우는 관객 야유가 쏟아지자 무대 인사를 제대로 마치지 않고 서둘러 퇴장했어요. 이 때문에 공연장에선 관객의 항의는 물론이고 환불 요청까지 잇따랐지요. 보통 독주회, 오케스트라 연주회에서는 앙코르가 일반적이지만, 이번 ‘토스카 사태’처럼 오페라 공연 도중에 같은 아리아를 앙코르로 한 번 더 부르는 것에 대해서는 갑론을박이 있습니다. 청중의 환호가 쏟아지는데도 앙코르를 안 하면 어쩐지 인정머리 없이 야박해 보일 것 같고, 반대로 앙코르를 부르면 극의 흐름이 깨지거나 공연 시간이 늘어날 우려가 있지요. 과연 어느 쪽이 옳을까요. 얼핏 질문은 간단하게 보이지만 대답은 그리 쉽지 않습니다. 무엇보다 오페라는 음악과 드라마가 결합된 복합적인 ‘음악극’이기 때문이지요.&lt;br&gt;&lt;br&gt;&lt;b&gt;빈번했던 오페라 앙코르&lt;/b&gt;&lt;br&gt;&lt;br&gt;바로크 시대와 모차르트의 고전주의 초기까지만 해도 오페라 공연 도중에 아리아를 한 번 더 부르는 앙코르 관례는 성행했습니다. 특히 영화 ‘파리넬리’로 유명한 전설적 카스트라토(거세한 남성 가수) 파리넬리 같은 성악가들은 오늘날의 팝 스타와 같은 인기와 부를 누렸고 앙코르도 빈번했어요. 음악 칼럼니스트 이준형씨는 “17세기 이후 이탈리아 오페라가 가수의 초절 기교(virtuosity)를 보여주기 위한 장르로 변모하면서 모든 관심이 가수들에게 집중됐고 아리아 앙코르 역시 일상적 관습이 됐다”고 설명했습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HSG56QPAUBH47H2ZMTC734BUME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작곡가 모차르트가 활동하던 18세기만 해도 오페라 공연 도중에 앙코르를 부르는 일은 관행이었습니다. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;모차르트의 1786년 오페라 ‘피가로의 결혼’ 초연 당시에도 청중의 앙코르 요청이 쏟아졌다는 기록이 있어요. 객석에서 이 공연을 지켜봤던 아버지 레오폴트는 자신의 딸이자 모차르트의 누나인 마리아 안나에게 이런 편지를 보내기도 했습니다.“네 동생의 둘째 날 공연에서는 5곡의 앙코르 요청이 쏟아졌단다. 세 번째 공연에서는 7곡을 다시 불렀지. 그중에서 짧은 이중창은 세 번이나 불러야 했단다.” 여기엔 아들의 성공을 대견스럽게 여기는 아버지의 마음이 담겨 있어요.&lt;br&gt;&lt;br&gt;하지만 당시 앙코르 요청이 쏟아지자 공연 시간이 한없이 늘어날 것을 우려한 요제프 2세 신성로마제국 황제는 ‘독창 외에는 앙코르를 하지 말 것’이라는 독특한 금지령을 내리기도 했습니다. 그만큼 오페라 공연 도중에도 앙코르가 다반사였다는 의미이지요.&lt;br&gt;&lt;br&gt;&lt;b&gt;금지되기 시작한 앙코르 관습&lt;/b&gt;&lt;br&gt;&lt;br&gt;하지만 19세기 낭만주의 시대에 이르러 오페라가 드라마와 음악, 무대와 연출까지 아우르는 종합예술로 변모하면서 오페라의 앙코르 관습에도 변화가 생겼습니다. 특히 독일 작곡가 바그너의 오페라 같은 경우에는 아리아 앙코르는 물론이고 막이 내릴 때까지 중간 박수도 금기시되기에 이르렀어요. “바그너 오페라는 드라마적 요소가 중시되고 노래가 쉼없이 이어지는 ‘무한 선율’이 두드러지기 때문에 ‘아리아 앙코르’는 꿈꾸기 힘들다”(유정우 한국바그너협회장)는 설명이에요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FEQQSDN6KZEHNFXDZXGE76C3QA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이탈리아 출신 명지휘자 아르투로 토스카니니. 그는 오페라 공연 중간에 앙코르를 부르는 걸 금지했어요. /미 의회 도서관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20세기 들어서도 오페라 앙코르를 금지하는 추세는 점차 강화됐어요. 이탈리아 오페라 종가(宗家)인 밀라노 라 스칼라 극장을 이끌었던 전설적 지휘자 아르투로 토스카니니(1867~1957)는 오페라의 흐름을 끊는다는 이유로 1921년 이 극장에서 앙코르를 금지했어요. 마찬가지로 ‘미국 오페라 1번지’인 뉴욕 메트로폴리탄 오페라극장(메트)에서도 오페라 공연 도중에 같은 아리아를 다시 부르는 일은 1994년부터 자취를 감췄어요.&lt;br&gt;&lt;br&gt;하지만 예외 없는 법칙은 없다고 ‘앙코르 금지령’도 언젠가는 깨지기 마련이에요. 특히 페루 출신의 인기 테너 후안 디에고 플로레즈(51)는 2007년 라 스칼라 극장과 이듬해 메트에서 모두 ‘앙코르 금지령’을 깬 이색 기록을 갖고 있어요. 도니체티 오페라 ‘연대의 딸’ 공연 도중에 고음이 즐비한 고난도 테너 아리아를 마친 뒤 관객의 박수 갈채가 쏟아지자 이를 앙코르로 다시 불렀어요. 당시 플로레즈는 “(앙코르는) 언제나 청중이 무얼 원하느냐에 달려 있다”고 말했습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B4LXPHBQGVCLZHZM5W4RGSOQNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;페루 출신 인기 테너인 후안 디에고 플로레즈는 오랜 '앙코르 금지령'을 깨고, 2007년 라 스칼라 극장과 2008년 메트로폴리탄 오페라극장에서 앙코르를 불렀어요. /후안 디에고 플로레즈 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반면 게오르기우는 오페라 도중의 앙코르 관행에 대해 지극히 비판적이에요. 지난 2016년 빈 국립 오페라극장에서도 공교롭게 비슷한 사건이 있었어요. 같은 오페라인 ‘토스카’에서 같은 아리아 ‘별은 빛나건만’을 테너 요나스 카우프만이 앙코르로 거듭 부르자, 게오르기우는 그에 항의하며 퇴장해 한동안 공연을 지연시켰지요.&lt;br&gt;&lt;br&gt;과연 공연 도중이라도 청중이 원하면 같은 아리아를 한 번 더 부르는 것이 옳을까요, 아니면 오페라도 한 편의 드라마이기 때문에 극적 흐름을 끊는 행위는 삼가는 편이 좋을까요. 어쩐지 모차르트와 플로레즈는 ‘오페라 앙코르’를 쌍수를 들고 환영할 것 같고, 반대로 바그너와 토스카니니는 손사래 치며 반대할 것 같습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞앙코르(Encore)&lt;/b&gt;&lt;br&gt;&lt;br&gt;앙코르는 ‘한 번 더’라는 뜻의 프랑스어입니다. 정작 프랑스나 이탈리아에선 같은 뜻의 라틴어에서 유래한 ‘비스(bis)’라고 부르는 경우도 많아요. 피아니스트나 바이올리니스트 같은 기악 연주자의 리사이틀(독주회), 성악가의 독창회, 오케스트라 연주회에서 앙코르는 청중이 보내는 박수 갈채에 대한 ‘따뜻한 답례’에 해당해요. 러시아 출신 명(名)피아니스트 예브게니 키신은 지난 2006년 첫 내한 독주회 당시 10곡의 ‘폭풍 앙코르’를 선사해서 연주 시간만 총 3시간 15분에 이르기도 했지요.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“배드민턴 실패보다 더 충격”… 이용대, 이혼 뒤 처음 밝힌 심경</title>
