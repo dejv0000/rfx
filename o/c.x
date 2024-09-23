@@ -13,6 +13,85 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경기도의회, ‘K-컬처밸리 협약 해제’ 행정조사...토지 매각 반환금 포함된 추경예산도 의결</title>
+      <link>https://www.chosun.com/national/regional/2024/09/23/DG4CH6R5RFGLVNVEVV4ZLASQPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/23/DG4CH6R5RFGLVNVEVV4ZLASQPY/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Sep 2024 05:08:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CM5Q4GAHWNAZXNP6LKHAVDTK2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;CJ가 경기 고양시에 조성하려던 'CJ라이브시티' K팝 공연장(아레나) 공사 현장의 최근 모습. 2021년 10월 착공했으나 작년 4월 이후 공사가 중단된 상태다. /CJ라이브시티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도의회가 경기도와 CJ라이브시티의 ‘K-컬처밸리 협약 해제’와 관련, 책임소재를 따지기 위한 행정사무조사를 벌이기로 했다.&lt;br&gt;&lt;br&gt;경기도의회는 23일 원포인트 임시회 본회의를 열고, ‘경기도 K-컬처밸리 사업협약 부당해제 의혹 행정사무조사 요구의 건’과 ‘행정사무조사 특별위원회 구성의 건’ 등을 의결했다.&lt;br&gt;&lt;br&gt;이 안건은 김정호 경기도의회 국민의힘 대표의원이 낸 것으로, 국민의힘 의원 76명 중 73명의 서명을 받았다. 이날 표결에는 87명의 의원이 참여한 가운데 찬성 80명, 반대 4명, 기권 3명으로 집계됐다. 행정사무조사 특위는 국민의힘, 더불어민주당에서 각각 7명이 참석해 14명으로 구성된다. 위원장은 국민의힘에서 맡기로 했다.&lt;br&gt;&lt;br&gt;행정사무조사 특위는 12월 21일까지 90일간 운영한다. 특위는 K-컬처밸리 협약 해제 전반에 대한 경기도의 책임 여부 등을 살펴보기로 했다. 구체적으로 국토교통부가 주관한 ‘민관합동 PF조정위원회’의 중재안을 경기도가 수용하지 않은 이유, 이 중재안과 관련한 감사원의 사전컨설팅 결과를 받기 전에 협약을 해제한 이유, CJ라이브시티 측에서 주장하는 공사 지연 이유 등을 따져보겠다는 것이다. 또 경기도에서 추진하기로 한 공영개발 방식의 적합성 등도 살펴볼 계획이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PYLWFFQJTVRZPIQYY2NFGLPOFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사업 추진이 무산된 ‘K-컬처밸리 복합개발사업’과 관련해 경기도가 토지매입비 반환금 1524억원을 추경예산에 편성하자 경기도의회 국민의힘이 지난 8월 22일 오전 도의회 브리핑룸에서 기자회견을 열고 반발하고 있다. /경기도의회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;K-컬처밸리는 고양시 일산동구 장항동 32만6400㎡부지 일원에 약 1조8000억원을 들여 K-팝 전문 아레나와 스튜디오, 테마파크, 상업·숙박·관광시설을 조성하는 사업이다.&lt;br&gt;&lt;br&gt;사업시행자인 CJ라이브시티 측은 올 6월 완공을 목표로 3년 전인 2021년 10월 착공했으나 공정률은 3% 수준에 머물렀다. 이에 경기도는 사업 추진 의지가 없다고 보고 지난 6월 28일 협약을 해제하고, 공영개발로 전환하기로 했다. 그러자 고양 일산 주민들을 중심으로 반대 여론이 거세지는 등 논란이 계속됐다.&lt;br&gt;&lt;br&gt;한편, 경기도의회는 이날 37조1744억원 규모의 경기도 1회 추가경정예산안도 의결했다. 이는 올해 본예산 36조1210억원에서 1조534억원 늘어난 것이다. 이 추경예산에는 K-컬처밸리 사업 협약 해제에 따라 시행자인 CJ라이브시티에 자금을 댄 키움파트너스에 돌려줘야 하는 상업용지 매각대금 1524억원이 포함됐다.&lt;br&gt;&lt;br&gt;경기도는 협약 해제일로부터 90일(9월 26일)까지 토지매각 대금을 반환해야 한다며 이 예산을 수립했고, 경기도의회 국민의힘은 행정사무조사 실시를 조건으로 민주당과 합의해 이날 의결했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>송해나, 데프콘과 열애설에 “가족끼리 어색해지게…”</title>
+      <link>https://www.chosun.com/national/people/2024/09/23/ZI3FOCBBI5CWXDS5BNISLZG2KY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/23/ZI3FOCBBI5CWXDS5BNISLZG2KY/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Sep 2024 05:06:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I57A4F7ORZC7JG663DTPEDZ57M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송해나와 데프콘. /송해나 소셜미디어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 데프콘(47)과 열애설이 불거진 모델 송해나(37)가 이를 직접 부인하고 나섰다. 두 사람은 예능 프로그램 ‘나는 솔로’에서 공동 MC를 맡고 있다.&lt;br&gt;&lt;br&gt;송해나는 22일 소셜미디어에 자신과 데프콘의 열애설 기사를 공유하며 황당하다는 반응을 보였다.&lt;br&gt;&lt;br&gt;송해나는 “열애설이라니… 다들 믿고 계신 거 같아서”라며 “다들 오해 마세요. 가족끼리 어색해지게 왜 이래요 정말”이라고 했다.&lt;br&gt;&lt;br&gt;송해나와 데프콘과의 열애설은 지난 6월 처음 불거진 바 있다. 당시 데프콘은 송해나와 한 예능 프로그램에 출연했는데 다른 출연자가 두 사람을 연결시키려 했다.&lt;br&gt;&lt;br&gt;이에 데프콘은 “송해나랑 (방송에서) 오래 보고 싶다. 괜히 엮이고 싶지 않다”면서도 “너는 나 어떻게 생각하는데”라고 물었다. 송해나는 데프콘의 질문에 “사실 조금… 자꾸 생각나게 만드는 사람”이라고 답해 화제가 됐다.&lt;br&gt;&lt;br&gt;두 사람은 최근 한 예능 프로그램에도 함께 출연해 묘한 분위기를 풍기는 장면이 포착돼 열애설이 재점화됐다.&lt;br&gt;&lt;br&gt;최근 공개된 해당 방송 예고편에서는 한 출연자가 “송해나와 데프콘의 관계는 정말 비즈니스인가?”라고 묻는 장면이 공개됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘40도 폭염’ 적중한 기후 학자 “올겨울 영하 18도 한파 가능성”</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/23/4P4PSUJL7FC4ZKNEUQYOSNTYHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/23/4P4PSUJL7FC4ZKNEUQYOSNTYHU/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Sep 2024 05:02:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YEXSWKGZSJP2NBSBKRABVGG4IU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;절기상 낮과 밤의 길이가 같아진다는 추분(秋分)인 22일 오후 서울 종로구 광화문 광장에 마련된 서울야외도서관 광화문 책마당. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올 여름 폭서를 예측한 기후 학자가 이번 겨울 극한 한파를 예상해 이목을 끈다. 이 학자는 11월 초까지 더위가 이어지다 이후 급격하게 추워지면서 올해는 ‘가을다운 가을’이 없을 것이라고도 내다봤다.&lt;br&gt;&lt;br&gt;김해동 계명대 환경공학과 교수는 23일 CBS 라디오 ‘김현정의 뉴스쇼’에 나와 이번 겨울 날씨 전망을 묻는 진행자 질문에 “이번 겨울은 많이 추울 것으로 본다. 비교를 하자면 2021, 2022년 겨울하고 이번 겨울이 비슷비슷한 패턴일 것”이라고 말했다.&lt;br&gt;&lt;br&gt;김 교수는 “지금 이번 가을이 끝나고 겨울로 접어들면 라니냐 현상(태평양 감시 구역 수온이 평년보다 0.5도 이상 수온이 낮아지는 현상)으로 옮겨갈 가능성이 굉장히 높다”며 “그렇게 되면 우리나라와 북미 대륙, 두 쪽으로 북극 한파가 강하게 내려올 가능성이 상당히 높다”고 했다.&lt;br&gt;&lt;br&gt;김 교수는 “과거 미국 텍사스에서 영하 18도 이상 떨어지는 추위로 수돗물도 안 나오고 전기도 안 되는 일이 벌어졌다”며 “그때가 2021, 2022년인데 그때 겨울과 올해 겨울이 비슷할 것으로 전망한다”고 했다. 미국이 겪은 ‘텍사스 한파’와 유사한 한파가 이번 겨울 우리나라에서 벌어질 수 있다는 것이다.&lt;br&gt;&lt;br&gt;김 교수는 또 “올해 같은 경우는 가을다운 가을을 거의 볼 수 없을 것”이라고도 내다봤다. 그는 “당장 내일부터 거의 30도 가까운 고온이 또 이어진다. 이것이 적어도 11월 초순까지는 갈 것”이라며 “이런 더위가 적어도 11월 초순까지는 갈 것이다. 그리고 그 이후에 갑자기 추워질 것으로 보인다. 그러면 가을은 거의 없는 거나 마찬가지”라고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김왕식 대한민국역사박물관 초대 관장 별세</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/09/18/DFSEG57HWRCNZBELBDZO54AKLU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/09/18/DFSEG57HWRCNZBELBDZO54AKLU/</guid>
+      <dc:creator>유석재 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Sep 2024 14:47:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3UMH7F5BIBOQSF6IJDZAFUZQ3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김왕식 교수&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한민국역사박물관 초대 관장을 지낸 김왕식(71) 이화여대 명예교수가 별세한 사실이 뒤늦게 알려졌다. 김 교수의 지인은 “김 교수가 지난 1일 미국 미주리주 컬럼비아시 자택에서 아내 이정희 여사와 함께 불의의 사고로 인해 별세했다”고 전했다.&lt;br&gt;&lt;br&gt;서울 출신인 김 교수는 연세대 정외과(학·석사)를 졸업하고 미국 미주리대에서 정치학 박사 학위를 받은 뒤 이화여대 사범대 사회생활학과(현 사회과교육과) 교수와 사회생활학과장 등을 지냈으며, 한국국가정보학회장, 한국사이버커뮤니케이션학회장, 민주평화통일자문회의 상임위원 등을 역임했다. 2012년 서울 광화문의 옛 문화부 청사에서 문을 연 국내 첫 근현대사 국립박물관인 대한민국역사박물관 관장을 2016년까지 지냈다. 은퇴 후 모교인 미주리대에서 6년째 한국 정치학을 가르쳤다. 저서로는 ‘한국정치과정: 제도의 운용과 정치지식’ ‘한·일 경제협력의 정치경제’ 등이 있다.&lt;br&gt;&lt;br&gt;유족은 딸 김휘원 이화여대 생명의료법연구소 연구원, 아들 김용환 청주대 문헌정보학과 교수, 며느리 정소현씨 등이 있다. 빈소는 19일 오전 11시 연세대 신촌장례식장에 차려질 예정이며 발인은 21일 오전 예정이다. (02)2227-7500&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/44JI6LYR3NFE3KN42GEXSUOTTA.jpg?width=160&amp;height=120&amp;auth=6ac7e14d36fb8971f425c6e8d474ba253eb483dbe3f45896d3394284ff87acc0&amp;smart=true" type="image/jpeg" height="120" width="160">
+        <media:description type="plain">김왕식 교수</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>과즙 내뿜는 영상에...조회수 1317만뷰 터진 ‘울산 울주배’</title>
+      <link>https://www.chosun.com/national/regional/2024/09/23/MKNYBUX3VZAF5N25TOOWUBBGAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/23/MKNYBUX3VZAF5N25TOOWUBBGAI/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Sep 2024 04:50:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SOX2F4RPYN4REN65SNJA3YHMTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조회수가 1317만회를 넘긴 '울주배' 홍보 영상의 한 장면. /울산 울주군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산 울주군의 지역 특산품인 ‘울주배’ 홍보 영상이 소셜미디어에서 게시 약 보름 만에 조회수 약 1317만 회를 기록하면서 폭발적인 인기를 끌고 있다.&lt;br&gt;&lt;br&gt;울주군은 지난 6일 울주군 공식 인스타그램에 게시한 ‘과즙이 많으면 일어나는 일’ 울주배 홍보 영상이 조회수 1317만 회, 좋아요 23만 6000여 개, 댓글 830개, 공유 5만 3000여 회를 기록했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;이 영상에서는 공무원이 사뭇 결의에 찬 표정으로 울주배를 한 입 베어 물면서 과즙을 세차게 내뿜는 장면을 다소 과장되게 연출했다. 울주군은 “영상에서 ‘과즙 가득한 추석 선물, 맛있다! 울주배’라는 메시지와 함께 높은 당도와 시원한 식감이 매력적이라는 점을 부각했다”고 설명했다.&lt;br&gt;&lt;br&gt;영상을 본 누리꾼들은 ‘영상이 너무 웃기다’ ‘울주배가 너무 맛있어 보인다’ ‘불도 끄겠다’ 등 다양한 반응을 보이며 울주배에 대한 높은 관심을 나타냈다.&lt;br&gt;&lt;br&gt;해풍을 맞고 자란 울주배는 약산성 토질에서 생육기간 평균 18.9도의 기온에서 재배돼 당도와 식감이 풍부한 가을철 최고 과일로 꼽힌다. 2022년에는 농림축산식품부가 주최한 ‘대한민국 과일산업대전 대표 과일 선발대회’에서 우수상을 받았다.&lt;br&gt;&lt;br&gt;울주배 홍보 영상이 화제몰이를 하면서 다른 지자체의 콜라보 요청도 이어지고 있다. 경기 이천시는 울주배 영상을 활용해 지역 대표 과일 중 하나인 복숭아 과즙 영상을 올렸다. 이천시도 영상에서 원본 출처를 밝히고 ‘울주군’ 해시태그를 달아 두 도시 홍보에 시너지 효과를 내고 있다.&lt;br&gt;&lt;br&gt;울주군 관계자는 “울주배의 매력을 정해진 틀에 얽매이지 않고 색다른 방식으로 홍보할 수 있어 기쁘다”며 “앞으로도 차별화된 마케팅을 통해 지역 농산물의 매력을 더 널리 알리겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>딥페이크 기술 활용 여교사 성착취물 제작‧유포 고교생, 검찰 송치...교육당국은 퇴학 처분</title>
+      <link>https://www.chosun.com/national/incident/2024/09/23/MCS4AL7FPNESLMLQXOLCITKQRI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/23/MCS4AL7FPNESLMLQXOLCITKQRI/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Sep 2024 04:41:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXOJ6JDLRZBJ3JMT3HJAJ35O5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;딥페이크 기술을 활용해 고등학교 교사 등의 얼굴을 나체 사진에 합성한 뒤, 소셜미디어에 유포한 고등학생이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;인천남동경찰서는 성폭력범죄의 처벌 등에 관한 특례법 위반 혐의로 고등학생 A(17)군을 입건해 검찰에 송치했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;A군은 지난 7월 AI(인공지능)를 이용한 딥페이크 기술을 활용해 고교 여교사 등 4명의 얼굴을 다른 사람의 나체 사진에 합성하고, 소셜미디어를 통해 유포한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 당초 피해 교사 2명으로부터 수사 의뢰를 받아 수사에 착수했고, 수사 과정에서 A군이 다녔던 학원 강사와 선배 등 2명의 피해 사실을 추가로 확인했다. 경찰은 A군의 소셜미디어 계정을 분석해 추가 범행을 확인했고, 모두 4명으로부터 피해 진술을 확보했다.&lt;br&gt;&lt;br&gt;A군은 “예뻐서 호기심에 (불법 합성물을) 만들게 됐다”고 경찰에 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;인천시교육청 북부교육지원청은 최근 교권보호위원회를 열어 중대한 교육활동 침해가 있다고 판단해 A군의 퇴학 처분을 결정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 경찰, 필라테스 회원권 결제 후 폐업한 원장 檢 송치</title>
+      <link>https://www.chosun.com/national/incident/2024/09/23/YOE2FYYF4VEKDAUZEEM6MAMXSE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/23/YOE2FYYF4VEKDAUZEEM6MAMXSE/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Sep 2024 03:56:04 +0000</pubDate>
+      <content:encoded>서울 광진경찰서는 지난달 29일 필라테스 학원을 운영하며 회원권을 판매한 뒤 학원을 갑작스레 폐업한 30대 원장 A씨를 검찰에 사기 혐의로 송치했다고 23일 밝혔다. A씨에게 필라테스 회원권을 구매한 피해자는 최소 50명에 피해액만 5000만원에 달하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UMNKVC673U7FGQ4SQGK2UDWE6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 광진경찰서의 모습 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 서울 광진구 건대입구역 인근에서 필라테스 학원을 운영하며 회원들에게 회원권을 판매한 뒤 지난 5월 “학원을 폐업한다”는 문자를 일괄적으로 보낸 것으로 알려졌다. A씨는 학원 폐업 공지를 보내면서 “앞으로 학원 폐업과 회원권 환불은 폐업 대행 업체가 담당한다”며 “환불을 원할 시 환불 신청서를 써서 제출하라”고 했다.&lt;br&gt;&lt;br&gt;A씨가 운영하는 필라테스 학원은 ‘특별 시즌 이벤트’라며 수강생을 최대한 끌어모은 뒤, 회원권 결제를 유도해 수강비를 챙기고 갑자기 폐업을 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;일부 피해자들은 환불 신청서를 써서 냈지만 그 돈을 아직 못 받고 있다. 이후 폐업 대행업체 측에서 “A씨가 개인회생 신청을 할 예정이니 개인회생 채권으로도 환급이 가능하지만 그 금액이 매우 적을 것”이라며 “채권 환급을 원치 않을 경우 다른 헬스클럽으로 회원권을 이관해주겠다”고 했다.&amp;nbsp;&lt;br&gt;&lt;br&gt;그러나 헬스클럽도 신규 회원 가입 시 이벤트 가격으로 결제를 받기 떄문에 실질적으로 피해자들이 환급받는 금액은 전체 금액에 20~30% 정도였던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 경기 성남시 분당구에서도 필라테스 학원을 운영 중으로, 이곳으로 수사가 확대될 가능성도 있는 것으로 알려졌다. 경찰 관계자는 “9월까지 피해 접수를 추가로 받을 계획”이라고 했다.&lt;br&gt;&lt;br&gt;한편, 필라테스는 2030세대에게 체형 교정, 근력 및 유연성 증진 등에 효과적인 것으로 알려져있다. 최근에는 ‘회원권 먹튀’가 기승을 부리고 있다. 지난 7월 한국소비자원이 발표한 자료에 따르면 2021년부터 지난해까지 접수된 필라테스 관련 피해 구제 신청은 총 2487건에 달했다. 연도별로 보면 2021년 662건에서 2022년 804건, 지난해 1021건 등으로 매년 증가 추세다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UMNKVC673U7FGQ4SQGK2UDWE6M.jpg?width=6000&amp;height=4000&amp;auth=4f7cb871249afc2406efa0f76f22685662bd678e71f852474443c56bd65bec7f&amp;smart=true" type="image/jpeg" height="4000" width="6000">
+        <media:description type="plain">서울 광진경찰서의 모습. 2023.11.22/뉴스1 ⓒ News1 이재명 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 이재명 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>고려아연 경영권 분쟁에...울산 각계서 ‘1인 1 주식 갖기’ 운동</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/23/4W5EKXJ5YFAXNBUMIWZICM63ZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/23/4W5EKXJ5YFAXNBUMIWZICM63ZU/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Sep 2024 03:24:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TXNVEYDNKR4IPORSRQYOS3PWEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산 울주군 고려아연 온산제련소 전경. /고려아연 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사모 펀드 MBK파트너스와 영풍이 함께 시작한 고려아연 경영권 분쟁과 관련해, 고려아연의 사업 거점인 울산에서 향토기업을 지키자며 ‘1인 1 주식 갖기’ 운동이 벌어지고 있다.&lt;br&gt;&lt;br&gt;업계에 따르면, 23일 울산시청 프레스센터에서 2개 문화예술단체, 50개 시민사회단체로 이뤄진 울산 범시민사회단체연합, 3개 사회복지단체가 잇따라 기자회견을 열고 캠페인 동참을 호소했다.&lt;br&gt;&lt;br&gt;이들은 “고려아연은 대한민국 비철금속 산업의 중추적인 기업으로 울산과 국가 경제에 중요한 기여를 해왔다”며 “하지만 최근 MBK파트너스와 영풍의 경영권 인수 시도는 회사의 독립성과 장기적인 성장에 중대한 위협을 주고 있다”고 했다.&lt;br&gt;&lt;br&gt;이들은 “지난 반세기 동안 울산시민의 땀과 애정이 녹아 있는 지역 향토기업인 고려아연을 지켜내기 위해 모든 노력을 다할 것”이라며 “반드시 우리 손으로 향토 기업을 지켜내기 위해 120만 시민의 관심과 지지를 부탁드린다”고 당부했다.&lt;br&gt;&lt;br&gt;오후 2시에는 재울산연합향우회가 시청 프레스센터에서 캠페인 참여를 촉구하는 내용의 기자회견을 연다. 재울산연합향우회는 울산에 거주하는 대구·경북, 호남, 충청, 강원, 제주 출신 인사들의 연합 단체다.&lt;br&gt;&lt;br&gt;재울산연합향우회는 “50년간 울산과 함께 성장해 온 울산의 향토기업 고려아연이 현재 해외 투기자본의 공격을 받아 인수합병 될 위기에 처해 있다”며 “고려아연의 위기는 울산의 안정적인 일자리 뿐만아니라 수소, 이차전지 소재 등 울산의 미래 먹거리 확보에도 영향을 미칠 것이기에 우리가 뿌리내리고 살고 있는 울산의 위기와 직결 될 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;이어 “울산시민과 앞으로 울산에서 살아갈 미래 세대를 위해 우리 재울산 연합향우회는 사모펀드의 고려아연 인수 시도를 강력히 반대하는데 모든 역량을 결집할 것”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 김두겸 울산시장은 지난 16일 성명문과 18일 기자회견을 통해 “약탈적 인수합병 시도를 절대 좌시하지 않겠다”며 주식 사주기 운동을 제안했다. 19일에는 1호 매입자로 나섰다. 20일에는 이윤철 울산상공회의소 회장과 이순걸 울주군수가 각각 2·3호로 주식을 매입했다.&lt;br&gt;&lt;br&gt;지난 20일에는 지역 6개 경영인 단체가 “고려아연은 현 경영진 체제에서 어느 때보다 견조한 사업 성과를 내고 있다”며 1인 1 주식 매입을 선언하기도 했다.&lt;br&gt;&lt;br&gt;고려아연은 세계 1위 비철금속 제련 기업으로, 울산에 약 50년간 사업 거점 중 하나인 온산제련소를 운영해 왔다. 또 고려아연은 국내 핵심 기간산업의 주축 중 하나다. 전자·전기, 반도체, 자동차, 조선, 철강 등 주요 산업에 아연·연·동·은 등 ‘산업의 쌀’ 역할을 하는 기초 원자재를 공급한다.&lt;br&gt;&lt;br&gt;고려아연 경영권 분쟁은 연휴 직전인 지난 12일 고려아연 최대 주주인 ㈜영풍 및 장형진 영풍 고문 측(약 33.13%)이 MBK에 ‘자기 지분 절반+1주’를 넘기기로 하면서 시작됐다. 다음 날인 13일에는 MBK가 오는 10월 4일까지 고려아연 지분 최대 14.6%를 공개 매수한다고 밝히면서 현 경영진과의 지분 대결이 시작됐다.&lt;br&gt;&lt;br&gt;1949년 고(故) 장병희·최기호 창업주가 공동 설립한 영풍은 1974년 고려아연을 설립했고, 영풍그룹 안에서 영풍은 장씨 집안이 고려아연은 최씨 집안이 경영해 왔다. 하지만 최근 주력 사업이 부진한 영풍은 고려아연에 현금 배당을 늘리라고 요구하고, 고려아연은 반대로 장기 투자에 나서며 장씨 집안과 거리를 두려 하자 갈등이 생긴 것이다. MBK가 이 분쟁에 가세하면서 우려가 더 커졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>한국서 펴낸 자율주행 데이터 표준, 미국 자동차 협회 표준으로 발간됐다</title>
       <link>https://www.chosun.com/national/national_general/2024/09/23/VOP4OKLXA5DUNJ3RNXSQYCQKSQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/23/VOP4OKLXA5DUNJ3RNXSQYCQKSQ/</guid>
@@ -862,24 +941,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/K6ZAYRHHQNACDHJZDR5USZNAE4.jpg?width=1079&amp;height=611&amp;auth=03121826f83d914cefc6ce45ea6c36767bd8457d872807f6a70f2360a1035086&amp;smart=true" type="image/jpeg" height="611" width="1079"/>
     </item>
     <item>
-      <title>대학교 앞에서 성매매 업소 운영한 업주 실형</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/21/ZFLIQ2F3AZHQDDG7W7BOBKHB7A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/21/ZFLIQ2F3AZHQDDG7W7BOBKHB7A/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 21 Sep 2024 08:23:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FTGPTVCXJGOPCYLMP3UYTQ3YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법과 서울고등법원이 함께 쓰고 있는 서울 서초동 법원청사 전경. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대학교 인근 교육환경보호구역에서 성매매 업소를 운영한 업주에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;21일 법조계에 따르면 서울중앙지법 형사16단독 이경선 판사는 교육환경 보호에 관한 법률 위반 및 성매매 알선 등 혐의로 재판에 넘겨진 A씨에게 최근 징역 10개월 및 벌금 1000만원을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 서울 서초구 한 건물 지하 1층에서 스포츠마사지 업소를 운영하며 2020년 8월부터 2022년 9월까지 손님들로부터 대금을 받고 고용된 여종업원들과 성매매를 하도록 알선한 혐의를 받는다. A씨는 이를 위해 업소에 방 5개, 샤워장 1개, 여성 종업원 대기실 2개 등의 시설을 설치해 영업한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;특히 이 업소는 인근 대학교 교육환경보호구역 내에 있었던 것으로 파악됐다. 교육환경보호구역은 학생의 보건·위생, 안전, 학습과 교육환경 보호를 위해 학교경계 또는 학교설립예정지 경계로부터 직선거리 200m 범위 안의 지역을 지칭한다. 이러한 구역에선 성행위 또는 유사성행위나 사행성 우려 등이 있는 업소 운영이 금지된다.&lt;br&gt;&lt;br&gt;이 판사는 “피고인은 2017년 동일한 장소에서 성매매 알선 행위를 해 집행유예의 형사처벌을 받은 전력이 있음에도 재범했고 영업 기간도 길다”면서도 “피고인이 범행을 자백하고 있고 어린 자녀를 부양해야 한다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>순천 309mm 물폭탄.. 전남 농경지 78ha 피해, 160여명 대피</title>
-      <link>https://www.chosun.com/national/regional/2024/09/21/37LO3UWZTNFALLOORS72356PV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/21/37LO3UWZTNFALLOORS72356PV4/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 21 Sep 2024 07:45:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3D25QOHKUJGNFHBJKHJ6KOXLXU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오후 3시 15분쯤 전남 해남군 문내면에서 차량에 고립된 운전자를 소방대원이 구조하고 있다. /해남소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 전남에도 폭우가 쏟아지면서 농경지가 침수되고, 수백 가구에 정전이 발생하는 등 피해가 속출했다.&lt;br&gt;&lt;br&gt;전남 재난안전대책본부에 따르면 지난 19일부터 이날까지 내린 비로 주택, 농경지, 공공시설 등 피해 신고가 속속 접수되고 있다.&lt;br&gt;&lt;br&gt;고흥 10㏊, 순천 8.6㏊, 나주 50㏊, 영광 7㏊ 등 전남도의 논 75.6㏊에서 수확을 앞둔 벼가 쓰러졌다.&lt;br&gt;&lt;br&gt;완도에서는 2ha 밭에서 배추 모종이 유실되고 순천에서는 0.3ha의 밭에서 키우던 열무, 갓 등 농작물이 물에 잠겼다.&lt;br&gt;&lt;br&gt;해남 화원면, 장흥 장흥읍, 순천 조례동에서는 도로 5곳이 침수돼 배수 조치를 마쳤으며 강진 옴천면 군도 주변에서는 사면이 유실됐다.&lt;br&gt;&lt;br&gt;완도 신지면에서는 전신주 변압기가 낙뢰로 파손됐다.&lt;br&gt;&lt;br&gt;이날 오전 5시 45분 전남 광양시 옥룡면에서는 나무가 쓰러지면서 전신주를 덮쳐 수백 가구에 전기 공급이 끊겼다.&lt;br&gt;&lt;br&gt;광양에서는 20일 오후 7시쯤에도 비바람에 전기 시설이 훼손돼 옥곡·진상면에서 정전이 발생했다.&lt;br&gt;&lt;br&gt;소방 당국은 주택·도로·상가 침수, 나무 쓰러짐, 폐차장 폐유 유출, 낙석, 빌라 주차장 침수 등 모두 86건의 신고를 받고 현장에서 안전 조치와 배수 활동을 했다.&lt;br&gt;&lt;br&gt;지리산, 내장산(백암) 등 국립공원 5곳은 전면 또는 부분 통제 중이다.&lt;br&gt;&lt;br&gt;지난 20일 영광 백수읍에서는 주택 6동이 침수돼 주민 6명이 일시 대피했다가 배수 조치가 완료된 뒤 귀가했다.&lt;br&gt;&lt;br&gt;장흥 유치면에서는 33세대 42명, 담양 금성·고서면 등 27세대 32명, 광양 광양읍과 봉강면 등 86세대 90명은 산사태 우려 등으로 마을회관 등에서 대피 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G64NMJKCLZMKHOLNQRF7ERJSUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오후 전남 영암군 독천터미널 인근 도로가 빗물에 잠겨 소방 당국이 배수 작업을 하고 있다. /전남 재난안전대책본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뱃길도 막혔다.&lt;br&gt;&lt;br&gt;목포, 완도, 여수, 고흥을 오가는 53개 항로 80척 여객선 가운데 48개 항로의 66척은 운항이 통제 중이다.&lt;br&gt;&lt;br&gt;기상청에 따르면 20일 자정부터 이날 오후 4시까지 내린 비는 순천 309.4㎜, 진도 307.7mm, 장흥 유치 301.5㎜, 장수 235.7㎜ 등이다.&lt;br&gt;&lt;br&gt;전남 15개 시·군에는 호우 경보, 나머지 7개 시·군과 광주에는 호우주의보가 발효됐다. 또 순천·광양·구례·보성·화순·장흥·해남에는 산사태 경보, 여수·담양·곡성·고흥·강진·영암·진도·신안에는 산사태 주의보가 내려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“연예인 아니세요?”… 노홍철에 기내 좌석 바꿔달라고 한 승객  </title>
       <link>https://www.chosun.com/national/national_general/2024/09/21/54DPBZL7HFDYFCRUZE6ZCMNTQI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/21/54DPBZL7HFDYFCRUZE6ZCMNTQI/</guid>
@@ -889,40 +950,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K2ZTLAQ4Q5C3ZNWSROSSVL34LI.png"&gt;&lt;figcaption&gt;&lt;small&gt;장거리 비행에서 방송인 노홍철에게 좌석을 바꿔달라고 요청하는 여성. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장거리 비행에서 한 여성이 방송인 노홍철에게 자리를 바꿔달라고 요청해 수락했는데 알고보니 더 좁은 좌석인 것으로 드러나 네티즌들의 공분을 사고 있다.&lt;br&gt;&lt;br&gt;이런 장면은 노홍철이 20일 올린 유튜브에서 포착됐다. 당시 노홍철은 F1 경기를 보기 위해 인천국제공항에서 이탈리아 밀라노로 향하는 비행기를 타는 중이었다.&lt;br&gt;&lt;br&gt;노홍철은 연착 끝에 겨우 비행기에 탑승했다. 그는 “‘이제 비행기 타면 열몇 시간은 편안히 가겠다’ 싶었는데 한 아주머니가 대뜸 자리를 바꿔달라 그랬다”며 당시 상황이 담긴 영상을 공개했다.&lt;br&gt;&lt;br&gt;영상을 보면, 기내에서 짐을 정리하고 있는 노홍철에게 한 여성이 다가와 “저기요 연예인 아니세요?”라고 말을 건다. 이에 노홍철이 “맞다”고 답하자, 이 여성은 대뜸 “우리 부부가 헤어졌다. 앞자리인데 한번 잠깐만”이라고 말끝을 흐렸다. 이에 노홍철은 “바꿔드릴까요? 얼마든지요”라고 답했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2AVDTAMELZCUDG4QWG4YYD4TVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 노홍철. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부부는 “죄송하다”고 했고, 노홍철은 “아닙니다”라고 답하며 앞좌석으로 이동했다. 문제는 여성의 좌석이 노홍철의 좌석보다 공간이 더 좁다는 점이었다.&lt;br&gt;&lt;br&gt;여성의 좌석에 앉은 노홍철은 이 상황에 대해 “이번 여행 기대가 된다. 좋은 일이 생기기 전에는 항상 한 번씩 조금 먹구름이 끼는데, 이런 게 쌓이고 쌓이면 메인 이벤트가 굉장히 흥미로워진다”고 말했다.&lt;br&gt;&lt;br&gt;영상을 본 네티즌들은 “비행기 좌석별로 가격 차이가 큰데 자신의 좁은 좌석과 바꿔달라는 건 너무하다”라는 반응이 나왔다. 유튜브와 온라인 커뮤니티에는 “처음부터 ‘연예인 아니세요?’라고 묻는 의도가 궁금하다” “단거리도 아니고 장거리 비행은 좌석이 중요한데 더 좁은 곳으로 바꿔달라니” 등의 댓글이 달렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘테라’ 권도형 행선지, 몬테네그로 법무장관이 결정한다</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/21/X32SBA6OTVFEFM2J6OWKIXQZ6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/21/X32SBA6OTVFEFM2J6OWKIXQZ6I/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 21 Sep 2024 07:33:16 +0000</pubDate>
-      <content:encoded>가상 화폐 ‘테라·루나’ 폭락 사태의 핵심 인물인 권도형(33) 테라폼랩스 대표의 한국 송환 여부를 몬테네그로 법무장관이 결정하라는 몬테네그로 대법원 판단이 나왔다. 권씨를 한국으로 보내야 한다는 하급 법원의 결정이 뒤집힌 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JIGUJFUKFVAULD7J46FZD7H4PQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;몬테네그로 교도소서 출소하는 권도형. /EPA 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 본지 취재를 종합하면, 몬테네그로 대법원은 몬테네그로 대검찰청이 제기한 권씨의 송환 여부에 대한 적법성 요청 사건을 몬테네그로 법무장관에게 회부한다고 지난 20일(현지 시각) 밝혔다. 앞서 몬테네그로 고등법원과 항소법원은 “한국 정부의 인도 요청이 미국보다 빨랐다”며 권씨를 한국으로 송환해야 한다고 판단했었다.&lt;br&gt;&lt;br&gt;당초 몬테네그로 고등법원은 지난 2월 권씨의 미국 인도 요청을 받아들였다. 미국 정부 측의 공문이 우리 정부 측 공문보다 하루 먼저 도착했다는 이유였다. 권씨는 상급심인 항소법원에 다시 심리해달라고 요청했고, 항소법원은 “미국 측 공문이 먼저 도착했다는 근거가 없다”며 권씨 측 항소를 받아들였다. 그 후 고등법원은 권씨를 한국으로 보내기로 결정했다.&lt;br&gt;&lt;br&gt;몬테네그로 대검찰청은 ‘권씨를 한국으로 송환하라’는 법원 결정에 절차적 문제가 있다며 지난 3월 20일 대법원에 적법성 판단을 요청했다. 범죄인을 어느 국가로 보낼지 결정하는 것은 법무장관의 고유 권한인데, 법원이 권한을 넘어서 권씨의 한국 송환을 결정했다는 취지였다. 그러자 대법원은 이를 받아들여 권씨의 한국 송환을 잠정 보류하고, 사건을 원심으로 돌려보내 다시 판단하라고 했다.&lt;br&gt;&lt;br&gt;이후 몬테네그로 고등법원은 재심리를 거쳐 우리나라의 범죄인 인도 요청이 미국 측 요청보다 먼저 도착했다는 판단에 문제가 없다고 지난 6월 판단했다. 항소법원도 지난 7월 원심의 판단에 문제가 없다고 보고 권씨를 한국으로 보내야 한다고 봤다.&lt;br&gt;&lt;br&gt;그러나 대법원은 하급심 결정을 뒤집고, 송환 여부와 국가를 법무장관이 결정해야 한다고 판결했다. 대법원은 “한국과 미국 모두 범죄인 인도를 위한 조건이 충족됐다고 판단했다”며 “송환 허가 여부를 결정하기 위해 사건 기록을 법무장관에게 송부해야 한다”고 결정했다. 다만 한미 양국이 구체적으로 어떤 조건을 충족시켰는지는 밝히지 않았다. &lt;br&gt;&lt;br&gt;범죄인 인도에 대한 최종 승인 권한을 가진 몬테네그로 법무장관의 결정에 법조계와 경제계의 관심이 쏠린다. 그간 권씨의 송환 여부 결정을 맡고 있던 안드레이 밀로비치 장관은 권씨를 미국으로 보내겠다는 입장이었으나, 밀로코 스파이치 총리와 갈등을 겪으며 지난 7월 경질됐다.&lt;br&gt;&lt;br&gt;우리 법무부는 몬테네그로 당국의 결정 여부를 지켜보며 대응 방안을 강구하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>마약사범 검거 증가 추세…올해만 벌써 9500명 검거</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/21/KGE2DHWTXJFTZHFK2OALF6WILU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/21/KGE2DHWTXJFTZHFK2OALF6WILU/</guid>
-      <dc:creator>안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 21 Sep 2024 07:10:58 +0000</pubDate>
-      <content:encoded>마약사범 검거 수가 5년 간 계속 증가 추세인 것으로 나타났다. 올해(1월~8월)만 벌써 9498명의 마약사범이 경찰에 검거됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QHEPQ23ZDRGDTJFGABBB3OLJGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;태국, 베트남에 근거를 둔 해외 조직과 연계된 마약사범들이 국내에 유통한 마약류들. 지난 8월 수원중부경찰서가 압수해 증거물품로 전시했다. /수원중부경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국회 행정안전위원회 소속 정춘생 조국혁신당 의원실이 경찰청으로부터 받은 자료에 따르면 올해 1월~8월 검거된 마약사범은 총 9498명이다. 마약류로는 향정(향정신성의약품)이 7007명(73.7%)으로 가장 많았고 이어 마약 1457명(15.3%), 대마 1025명(10.8%) 순이다.&lt;br&gt;&lt;br&gt;사범 유형으로는 투약 4434명(46.7%), 판매 3679명(38.7%), 밀경(불법으로 마약을 재배하는 행위) 1237명(13.0%), 밀수 124명(1.3%), 제조 24명(0.2%)이다.&lt;br&gt;&lt;br&gt;밀경으로 검거된 마약 사범은 지난해 3125명으로 관련 집계를 시작한 1990년 이후 최다였다. 경찰에 따르면 마약 재배는 텃밭, 야산뿐 아니라 주택가와 대학가 등 도심으로 그 범위가 늘어나고 있다. 서울 송파경찰서는 지난 7월 집에서 대마를 몰래 재배한 30대 남성 A씨를 마약류관리법 위반 혐의로 검찰에 구속 송치하기도 했다.&lt;br&gt;&lt;br&gt;최근 5년 간 마약류 사범 검거 수는 2019년 1만411명, 2020년 1만2209명, 2021년 1만2387명, 2023년 1만7817명으로 매년 증가 추세다.&lt;br&gt;&lt;br&gt;올해 마약 유형 별 압수량은 작년 같은 기간보다 대마씨앗 5870%, 코카인 930.4%, 해쉬쉬(대마초를 응고시켜 만든 신종 마약) 258.6%, GHB(물뽕) 217.9%, 양귀비 씨앗이 37.8% 늘어났다. 경찰이 지난해 마약 사범들이 재배한 양귀비와 대마 압수량만 총 18만488주며, 이 중 대마는 1만2304주로 약 2460만명이 피울 수 있는 분량이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/QHEPQ23ZDRGDTJFGABBB3OLJGI.jpg?width=1280&amp;height=720&amp;auth=a8796e2f7b1438e04af204a990b7825b23937d05b0827595004d7851410df0dc&amp;smart=true" type="image/jpeg" height="720" width="1280">
-        <media:description type="plain">수원중부경찰서가 태국, 베트남에 근거를 둔 해외 조직과 연계해 국내에 유통한 마약사범으로부터 압수한 증거물품. /수원중부경찰서</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>정부 “남부지방 시간 당 최고 50㎜ 강우…도로·주택 침수 속출”</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/21/QW5GLJSY25FL3FBHXA4L5E2MEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/21/QW5GLJSY25FL3FBHXA4L5E2MEA/</guid>
-      <dc:creator>안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 21 Sep 2024 06:18:35 +0000</pubDate>
-      <content:encoded>행정안전부 중앙재난안전대책본부(중대본)는 “남부지방에 시간 당 30~50㎜의 강한 비가 내릴 것으로 예상된다”며 “도로와 주택 침수 등 피해가 늘고 있다”고 밝혔다. 현재까지 이번 비로 인한 인명 피해는 없는 것으로 나타났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J53SQBRSASD6FVV32IZ7YX7EFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 부산 부산진구 범천동 한 마을 골목이 폭우로 사람의 무릎 높이까지 물에 잠겨 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중대본에 따르면, 현재 부산과 울산, 충북, 충남, 전북, 경북, 경남, 제주 등에 호우경보가, 대구와 대전, 광주, 세종, 강원 등에 호우주의보가 발령됐다.&lt;br&gt;&lt;br&gt;지난 19일부터 현재까지 누적 강수량은 제주 산지 667.5㎜, 경남 창원 341.6㎜, 부산 북구 269.5㎜, 충남 서산 264.9㎜, 대전 서구 264.5㎜, 전북 익산 224.0㎜ 순이다. 21일 하루에 내린 비로는 부산 북구가가 236.5㎜로 최다였고 이어 대전 서구(230.5㎜), 충남 논산(228.0㎜), 충남 부여(225.5㎜) 순이다.&lt;br&gt;&lt;br&gt;도로침수는 총 78건으로, 경남(38건), 충북(18건), 경기(17건) 순으로 많았고 토사 유출은 15건으로 경남(12건)이 최다였다. 주택 침수도 27건으로 충북(17건), 충남(7건) 순으로 많았다. 상가 침수는 26건, 공장 침수 2건, 병원 침수 1건, 차량 침수 2건이다.&lt;br&gt;&lt;br&gt;현재 22개 국립공원 641구간이 통제되었으며 여객선은 목포-홍도, 여수-거문 등 52개 항로 74척이 통제됐다. 지하차도 48개소, 하천변 3560개소, 도로 34개소, 수월교 295개소도 통제된 상태다.&lt;br&gt;&lt;br&gt;현재까지 6개 시·도 23개 시군구, 377가구 608명이 이번 비로 대피했는데, 276가구 480명은 아직까지 집에 돌아가지 못하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/J53SQBRSASD6FVV32IZ7YX7EFA.jpg?width=1546&amp;height=1038&amp;auth=436d0fb7e57db88164aaa6ee45396fc213d954a8269dcd98e4a55a1d28f02aef&amp;smart=true" type="image/jpeg" height="1038" width="1546">
-        <media:description type="plain">21일 오전 부산 부산진구 범천동 한 마을 골목이 폭우로 사람의 무릎 높이까지 물에 잠겨 있다. (부산소방제공) /연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>의협회장 “블랙리스트 만든 사직 전공의도 피해자...정부가 의사들 사이 다 결딴내고 있어”</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/09/21/F7PSIRC4QJD4TDW3ZQ4CVI62AU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/21/F7PSIRC4QJD4TDW3ZQ4CVI62AU/</guid>
@@ -930,33 +957,6 @@
       <description/>
       <pubDate>Sat, 21 Sep 2024 05:03:51 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CUKNWV4YYJPYVOHTLGMYOQAWZU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;임현택 대한의사협회 회장이 21일 서울 성북경찰서에서 의료계 집단행동에 동참하지 않은 의사·의대생의 신상 정보가 담긴 블랙리스트를 작성 혐의로 구속된 전공의 면회를 마치고 취재진의 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 임현택 대한의사협회(의협) 회장이 “정부가 의사들 사이를 다 결딴내고 있다”고 말했다.&lt;br&gt;&lt;br&gt;임 회장은 이날 오후 서울 성북경찰서에서 구속된 사직 전공의 정모씨를 면회한 뒤 이 같이 밝혔다. 정씨는 의료계 집단 행동에 동참하지 않는 의사 명단을 작성·게시한 혐의를 받는다.&lt;br&gt;&lt;br&gt;임 회장은 “구속된 전공의와 리스트에 올라 피해를 입은 분들 모두가 정부가 만든 피해자”라며 “철창 안에 있는 전공의나 리스트에 올라 피해를 당한 전공의나 그 누구라도 돕겠다는 게 협회의 입장”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “오늘 유치장에 있어야 할 자들이 과연 자기 몸 하나 돌볼 시간도 없이 환자들이 죽어가던 현장에 있던 전공의여야 하는가, 아니면 ‘의사들을 악마화하고 의대 정원을 증원하면 선거에서 이길 수 있고 역사에 남는 개혁의 상징이 될 것’이라고 대통령 귀에 속삭인 간신들, 그 명령에 따라 영혼 없이 일사분란하게 움직여 국민들이 길가에서 숨져가게 한 공무원들인가”라고 했다.&lt;br&gt;&lt;br&gt;그는 “이 사태가 하루라도 빨리 끝나서 의사들도 국민들도 걱정하지 않고 살 수 있게, 의사들이 오직 국민들 생명 살리는 걱정만 할 수 있는 세상이 하루라도 빨리 오기를 바랄 뿐”이라고 말했다.&lt;br&gt;&lt;br&gt;사직 전공의 정씨는 지난 7월 전공의 집단 행동 등에 참여하지 않는 의사들의 신상 정보를 담아 ‘감사한 의사’라는 제목의 블랙리스트 명단을 만든 뒤, 텔레그램과 의사 커뮤니티 메디스태프에 여러 차례 게시한 혐의(스토킹스토킹처벌법 위반)로 전날 구속됐다. 전공의 집단 행동 이후 블랙리스트 작성·게시자가 구속된 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;한편 전날 블랙리스트 사이트에는 “어느 정도는 목적을 달성했다고 생각한다”며 “추가적인 업데이트는 더 이상 하지 않고 이제 리스트를 고정하겠다”는 내용의 공지가 올라왔다. 이번 결정은 사직 전공의 정씨가 구속된 점과 무관하지 않다는 분석이 나온다.&lt;br&gt;&lt;br&gt;사이트 관계자는 “(사이트) 링크를 카카오톡이나 네이버 댓글 등 국내 사이트에 올리면 안 된다” “제대로 된 가상사설망(VPN)과 익명 네트워크 토르(Tor)를 같이 써야 한다” 등 사용자들에게 보안 지침을 안내하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>코로나 백신 접종 후 심근경색 사망…보상소송서 유족 패소</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/21/HGEVCQ67INBUDPNS3VCITQCVGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/21/HGEVCQ67INBUDPNS3VCITQCVGQ/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 21 Sep 2024 03:14:11 +0000</pubDate>
-      <content:encoded>코로나 백신을 접종하고 약 한 달 뒤 사망한 남성의 배우자가 정부가 보상 책임을 져야한다며 소송을 냈지만 패소했다. 정부 책임은 의학적으로 인과관계가 인정되는 부작용에만 한정된다는 취지의 판단이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WNTHH6JB6FEL5LFXTN5ZWLLSGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전의 한 병원에서 코로나 백신을 접종하는 모습. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 법조계에 따르면 서울행정법원 행정6부(재판장 나진이)는 유족 이모씨가 질병관리청장을 상대로 낸 코로나 예방접종 후 이상반응 피해보상 거부처분 취소 소송을 최근 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;이씨의 배우자 A씨는 코로나 사태 당시인 2021년 7월 26일 화이자 코로나 백신을 1차 접종한 뒤 9월 6일에 같은 백신 2차 접종을 완료했다.&lt;br&gt;&lt;br&gt;이후 A씨는 그해 10월 26일 심장정지 등으로 쓰러진 후 병원으로 호송돼 심폐소생술과 응급심혈관성형술 등을 받았으나 31일 심근경색으로 숨졌다. A씨는 사망 당시 만 59세였다.&lt;br&gt;&lt;br&gt;이씨는 A씨의 사망 원인인 심근경색에 백신 접종이 기여했다며 감염병예방법에 따라 질병관리청에 예방접종 피해 보상 신청을 했다. 하지만 질병관리청은 2022년 9월 ‘백신보다는 기저 상태의 악화로 인해 사망했을 가능성이 높아 백신 접종과 인과성이 인정되기 어려운 경우에 해당한다’는 이유로 보상을 거부했다.&lt;br&gt;&lt;br&gt;이씨는 2022년 12월 이 처분을 취소하라는 행정소송을 제기했다. 재판 과정에서 인과관계를 인정해야 하고 또 당시 정부가 기자회견을 통해 ‘백신은 안전하고, 백신 접종으로 인한 부작용이 있을 경우 전적으로 책임을 지겠다’는 내용의 공적 견해를 표명했는데 이처럼 거부 처분을 한 것은 신뢰보호의 원칙에 위배된다는 취지로 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OA6LD72BPRHDNCJTNXZ53D7B2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울가정법원·서울행정법원 청사. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 법원은 진료기록 감정촉탁 결과 등 각종 증거들을 종합했을 때 접종과 A씨 사망 사이의 인과 관계가 있다고 볼 수 없다며 청구를 기각했다.&lt;br&gt;&lt;br&gt;재판부는 “A씨는 백신 접종 전부터 기저질환인 당뇨와 고혈압이 있었고, 2020년 10월엔 상세불명의 협심증 진단을 받은 이력이 있다”며 “이 같은 기저질환은 A씨의 사망 원인과 직접 관련이 있거나 발병 위험인자에 해당한다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “A씨가 백신을 2차 접종하고 그로부터 약 50일이 지나 심장정지 등으로 쓰러진 바, 이 사건 백신 접종과 발병이 시간적으로 밀접하다고 단정하기 어렵다”며 “현재로서는 의학적·자연과학적으로 백신과 심근경색증 또는 혈전의 발병 위험 증가 사이의 인과관계가 밝혀지지 않았다”고 설명했다.&lt;br&gt;&lt;br&gt;정부의 기자회견에 대해선 “백신 접종과 인과관계가 인정되는 부작용이 발생한 경우 정부가 책임을 부담하겠다고 한 취지로 보일 뿐이고, 이를 백신 접종 후 발생하는 모든 건강상의 문제에 대해 보상을 해주겠다는 공적인 견해의 표명으로 보기는 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>폭우 200mm 내린 부산서 대형 싱크홀.. 트럭 2대 빠져</title>
-      <link>https://www.chosun.com/national/regional/2024/09/21/3LWYCAVSYNFNLIO7OZWJHRJKXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/21/3LWYCAVSYNFNLIO7OZWJHRJKXU/</guid>
-      <dc:creator>부산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 21 Sep 2024 01:40:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GXPNYLWSUZJWTJ3WQZMZLSVOBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 8시 45분쯤 부산 사상구 한 도로에서 가로 10ｍ, 세로 5ｍ, 깊이 8m가량의 대형 싱크홀이 발생해 트럭 2대가 빠져있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 부산에 200㎜가 넘는 폭우가 쏟아지는 가운데 도로에 대형 땅꺼짐(싱크홀) 현상이 발생해 트럭 2대가 빠지는 사고가 났다.&lt;br&gt;&lt;br&gt;부산소방재난본부에 따르면 이날 오전 8시 45분쯤 부산 사상구 한 도로에서 가로 10ｍ, 세로 5ｍ, 깊이 8m가량의 대형 싱크홀 현상이 발생했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3SVW2WDM5FCWRFPARFREOBZC3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 8시 45분쯤 부산 사상구 한 도로에서 대형 싱크홀이 발생해 트럭 2대가 빠졌다. /부산소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사고로 당시 도로에서 배수 지원을 나갔던 부산소방본부 배수 차량이 싱크홀에 빠졌고, 바로 옆으로 지나가던 5t 트럭도 구멍으로 빠지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;소방 당국은 이 사고로 인한 인명피해는 없다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 현재 사고 현장 주변을 통제하고 있다.&lt;br&gt;&lt;br&gt;부산 사상구는 사고 수습을 하면서 정확한 원인을 파악하고 있다. 사상구에서는 올해 들어 땅꺼짐 현상이 계속 발생하고 있다.&lt;br&gt;&lt;br&gt;지난달 21일 사상구 감전동에서 지름 약 5ｍ, 깊이 3ｍ의 대형 싱크홀이 발생하는 등 같은 달에만 3차례 땅 꺼짐이 있었다.&lt;br&gt;&lt;br&gt;올해 4월, 5월, 7에도 한 차례씩 발생했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“크~~” 가 사라졌다… 소주 안 마시는 2030</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/21/EQGAX3MCIFHMNM66INJ6QL37FY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/21/EQGAX3MCIFHMNM66INJ6QL37FY/</guid>
-      <dc:creator>김병권 기자, 이세현 인턴기자(서강대 글로벌한국학과 졸업예정)</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Sep 2024 15:50:00 +0000</pubDate>
-      <content:encoded>지난 19일 오후 7시 서울 마포구 홍대거리의 한 호프집. 식사 시간임에도 25개 탁자 중 2개만 손님이 앉아 있었다. 20대 남녀는 술 없이 피자와 파스타만 주문했고, 30대 남녀 세 명의 탁자엔 피자 한 판뿐이었다. 호프집 주인 박모(42)씨는 “우리는 술 장사로 먹고 사는데, 1년 전에 비해 주류 매출이 3분의 1은 줄어 올해 적자가 6000만원이 넘는다”고 했다.&lt;br&gt;&lt;br&gt;과거 주류 시장의 ‘큰손’이었던 2030세대가 술을 외면하고 있다. 2020년대 초반 코로나를 거치면서 대학·직장의 회식 문화가 ‘마시고 죽자’에서 ‘적당히 즐기자’ 기조로 바뀌었기 때문이다. 최근 본지 기자들이 방문한 강남·건대·수유 등 서울 주요 유흥가에서 만난 주점 업주 수십 명은 “2030세대가 술을 마시지 않는다”고 입을 모았다. 강남엔 ‘소주 빼고 다 있는 술집’까지 등장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4LGUPJWTNVFYTF7F4MP5BOBSZU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국세청에 따르면, 국내 전체 주류 출고량은 코로나 이전이었던 2019년 384만1000kL에서 작년 361만9000kL로 약 6% 줄었다. 20세 이상 국민의 1인당 연간 알코올 소비량도 2015년 9.813L에서 2021년 8.071L로 18% 감소했다. 올해 초부터 지난 7월까지의 주세 수입 또한 작년 같은 기간보다 6.6% 줄어들었다.&lt;br&gt;&lt;br&gt;특히 한때 ‘국민 술’로 불렸던 희석식 소주를 외면하는 현상이 두드러진다. 과거 주머니 가벼운 대학생들이 싼값으로 금방 취할 수 있었던 소주를 즐겨 찾았고, MT나 학과 행사 등에서 ‘사발식’ 등으로 소주를 폭음했던 문화가 코로나를 지나면서 ‘멸종’ 수준이라는 것이다. 코로나 이전 2019년 91만5596kL였던 희석식 소주 출고량은 작년 84만4250kL로 약 8% 감소했다. 주류 업계에선 “젊은 대학생과 직장인의 소주 소비가 줄어든 탓”이라고 분석한다.&lt;br&gt;&lt;br&gt;전 사회적인 술 소비량이 줄어들면서 그간 경찰이 골머리를 앓던 ‘주취 소란’도 감소 추세다. 경찰청에 따르면, 지난 2016년 2만1923건이었던 ‘음주소란 통고처분’은 작년 6160건으로 약 72%가 줄어들었다. 취객들로 몸살을 앓던 일선 지구대 경찰들도 “수년 전보다는 확실히 주폭(酒暴)들의 난동 강도와 빈도가 줄어들고 있다”고 말한다.&lt;br&gt;&lt;br&gt;전문가들은 ‘선진국 한국’에서 태어난 2030세대의 입맛이 과거와는 다르다는 분석을 내놨다. 고재윤 한국국제소믈리에협회장(경희대 호텔경영학과 고황명예교수)은 “요즘 젊은이들은 술을 취하려고 마시기보단 그 자체의 맛을 즐기려는 미식(美食)의 차원에서 향유하고 있다”며 “전체 술 소비량 감소와 희석식 소주의 퇴조는 향후 주류 시장의 트렌드일 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>3만명이 티켓 샀는데...레알마드리드, 에스파‧엔믹스 출연 K팝 공연 일방 취소</title>
