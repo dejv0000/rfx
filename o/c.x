@@ -13,6 +13,114 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 중앙지검 “최재영 기소 권고 참고해 사건 처리”</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/24/ULLWDHXHNBFQVADELID23X73ZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/24/ULLWDHXHNBFQVADELID23X73ZE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Sep 2024 14:00:43 +0000</pubDate>
+      <content:encoded>김건희 여사에게 디올백을 공여한 최재영 목사에 대해 검찰수사심의위원회(수사심의위)가 24일 8대7로 기소를 권고한 것에 대해, 서울중앙지검은 “수사심의위 결정을 참고해 관련 사건들을 처분할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNWINPNM2EYGK2IIHSNPLW6DFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 전경. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검은 이날 “형사1부 수사팀은 수사결과를 바탕으로 증거와 법리에 따라 관련 사건들을 처리할 예정”이라며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;수사심의위는 이날 최씨의 청탁금지법 위반, 명예훼손, 주거침입, 위계에 의한 공무집행방해 4개 혐의에 대해 심의하고, 청탁금지법 위반 혐의에 대해 기소를 권고했다. 기소 의견과 불기소 의견이 8대 7로 팽팽하게 맞붙었다고 한다. 수사심의위 결과는 권고여서 수사팀이 반드시 따라야 하는 것은 아니다. 다만 검찰이 김 여사와 최씨의 기소 여부를 결정하는 데 부담이 커졌다는 해석이 법조계에서 나온다.&lt;br&gt;&lt;br&gt;최씨가 디올백 전달 장면 등을 몰래카메라로 촬영해 김 여사의 명예를 훼손했다는 혐의에 대해 수사심의위는 기소의견 1 대 불기소 의견 14로 불기소를 권고했다. 주거침입과 위계에 의한 공무집행방해 혐의는 전원 일치 의견으로 불기소 권고했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MOBDHI5BSNOVDFBGUDUMYLHGAQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;최재영 목사가 24일 오후 서울 서초구 대검찰청 앞에서 검찰수사심의위원회 심의 결과를 기다리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수사심의위원 15명은 강일원 수사심의위원장(전 헌법재판관) 주재로 대검찰청에서 비공개 회의를 열고 8시간 가량 논의 끝에 이같은 결론을 내렸다. 이번에 참여한 위원들은 지난 6일 김 여사에 대한 수사심의위 당시 위원과는 한 명도 겹치지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 검찰수사심의위,  8대7로 ‘디올백’ 전달 최재영 ‘기소’ 권고   </title>
+      <link>https://www.chosun.com/national/court_law/2024/09/24/HAIMSUWTO5HQNNYSGDHD2L2YMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/24/HAIMSUWTO5HQNNYSGDHD2L2YMI/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Sep 2024 13:44:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HGRBXG2PT5OHTEN3VNNWA2SC4E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사에게 '디올백' 등을 건넨 재미교포 최재영씨가 24일 오후 서울 서초구 대검찰청 앞에서 검찰수사심의위원회 심의 결과를 기다리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰수사심의위원회(수사심의위)는 24일 윤석열 대통령의 부인 김건희 여사에게 ‘디올백’을 건넨 재미교포 목사 최재영씨를 “기소하라”고 서울중앙지검 수사팀에 권고했다. 디올백은 청탁의 대가가 아니고, 윤 대통령의 직무와 관련성도 없어서 김 여사와 최씨 모두 청탁금지법으로 기소할 수 없다는 검찰 수사 결과와 정반대 결론이다. &lt;br&gt;&lt;br&gt;앞서 지난 6일 열린 김 여사에 대한 수사심의위도 같은 결론을 내린 바 있다. 수사심의위 결과는 권고에 불과해 수사팀이 반드시 따라야 하는 것은 아니지만, 검찰이 김 여사와 최씨의 기소 여부를 결정하는 데 부담이 상당히 커진 상황이다.&lt;br&gt;&lt;br&gt;수사심의위는 이날 최씨의 청탁금지법 위반, 주거침입, 명예훼손, 위계에 의한 공무집행방해 4개 혐의를 심의한 결과, 청탁금지법 위반 혐의에 대해 기소 처분 의견으로 의결했다고 밝혔다. 이날 결정은 ‘기소 의견’과 ‘불기소 의견’이 8대 7로 갈릴 정도 팽팽했다고 한다. 나머지 혐의에 대해서는 불기소 처분이 맞는다는 데 의견을 모았다. 수사심의위원 15명은 강일원 수사심의위원장(전 헌법재판관) 주재로 대검찰청에서 비공개 회의를 열고 8시간 가량 논의 끝에 이같은 결론을 내렸다. 이번에 참여한 위원들은 지난 6일 김 여사에 대한 수사심의 위원과는 한명도 겹치지 않았다고 한다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전광훈 목사 ‘비례대표 공천 거래’ 혐의 검찰 송치</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/24/YROKHR6HXZHFNKSZEUPBCVN3MY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/24/YROKHR6HXZHFNKSZEUPBCVN3MY/</guid>
+      <dc:creator>서보범 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Sep 2024 13:21:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ADOGP4OV2AFJIFOJGTR5R56IA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전광훈 사랑제일교회 목사가 지난 3월 12일 오전 서울 여의도 자유통일당사에서 열린 홍수환 전 세계 복싱 챔피언 입당식에서 환영사를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전광훈 사랑제일교회 목사가 제22대 총선에서 비례대표 공천을 대가로 신도들에게 금전을 요구한 혐의 등으로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 종암경찰서는 공직선거법 위반 혐의로 전 목사를 검찰에 불구속 송치했다고 24일 밝혔다. 공천 거래 의혹과 연관된 자유통일당 비례대표 예비후보자 등 9명도 공직선거법 위반 혐의로 함께 송치됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면 전 목사는 지난 4월 총선 기간 자유통일당 비례대표 예비 후보자들에게 앞순위 번호 공천을 대가로 수억원대 헌금을 요구한 혐의를 받는다. 또 이를 해명하기 위해 개최한 기자회견 현장에서 유튜버들에게 광고비 명목으로 10만원을 건넨 혐의도 받는다.&lt;br&gt;&lt;br&gt;사랑제일교회 측은 이날 입장문을 내고 “교회와 시민단체의 정당한 활동을 선거법 위반 혐의로 무리하게 연결했다”며 “교회의 권리와 자유를 지키기 위한 활동은 앞으로 계속될 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이어 유튜버에게 금품을 제공했다는 혐의에 대해선 “열악한 환경 속에서도 교회의 목소리를 전달해주는 유튜버를 응원하기 위해 자발적 후원 개념으로 교통비를 지급한 것”이라고 해명했다.&lt;br&gt;&lt;br&gt;전 목사는 2022년 4~10월 자유통일당 대표를 지냈다. 자유통일당은 지난 22대 총선에서 비례대표 의석을 확보하지 못했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>필리핀 가사관리사, 주급제 허용... 취업기간도 3년으로 연장 검토</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/24/N2FKW2Q4VVDXVHOCHGSU3ECEZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/24/N2FKW2Q4VVDXVHOCHGSU3ECEZQ/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Sep 2024 13:06:44 +0000</pubDate>
+      <content:encoded>서울시가 필리핀 가사관리사의 임금 지급 방식을 매주 주는 주급제, 2주에 1번 주는 격주급제, 매달 주는 월급제 등으로 세분화하는 방안을 추진하기로 했다. 7개월로 정해져 있는 가사관리사들의 비자 기간도 최대 3년으로 연장하는 방안을 검토하기로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y4WBVC7NVBGFZHWFFLEGKMXLEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;외국인 가사관리사 조안(오른쪽부터)씨와 자스민 에리카씨가 24일 오전 서울 강남구 홈스토리생활 회의실에서 열린 서울시 외국인 가사관리사 시범사업 관계자 간담회에 참석하고 있다. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 고용노동부와 24일 긴급 간담회를 열고 이 같은 방안을 논의하기로 했다고 밝혔다. 이날 간담회는 앞서 가사관리사 2명의 이탈이 확인됨에 따라 마련된 것이다.&lt;br&gt;&lt;br&gt;지난 18일 필리핀 가사관리사들의 관리를 맡고 있는 서비스 제공업체는 가사관리사 2명이 추석 연휴가 끝난 뒤 숙소로 복귀하지 않았음을 확인했다. 업체는 다음날인 19일 서울시와 고용노동부에 이들의 미복귀 사실을 통보했다.&lt;br&gt;&lt;br&gt;미복귀 사실이 알려지자 일각에서는 ‘월급 규모와 지급 방식에 대한 불만으로 이탈한 것 아니냐’는 지적이 나오기도 했다.&lt;br&gt;&lt;br&gt;이에 서울시는 고용부와 함께 24일 서비스 제공 업체, 가사관리사 등과 함께 긴급 간담회를 진행했다. 간담회에서 서울시와 고용부는 서비스 제공 업체와 가사관리사들의 애로사항을 들었다.&lt;br&gt;&lt;br&gt;김선순 서울시 여성가족실장은 간담회를 마치고 기자들과 만나 “월급을 주급이나 격주로 받기를 희망하는 사람이 있다면 의견을 들어서 할 것”이라며 “다만 오늘 간담회에 참석한 분들은 월급제였으면 좋겠다고 했다”고 말했다.&lt;br&gt;&lt;br&gt;이날 간담회에 참석한 가사관리사들도 급여 수준에 불만을 표하지는 않았다. 김 실장은 “(숙소를 이탈한) 2명이 임금 때문에 이탈하지는 않은 것으로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;간담회에서는 가사관리사들의 체류 기간 연장에 대한 이야기도 나왔다. 취업 활동기간을 3년까지 연장하면 비자 역시 3년으로 연장할 수 있다는 게 고용부 측 설명이다. 현재 가사관리사들은 교육 1개월, 근로 6개월 총 7개월짜리 비자를 받아 일하고 있다.&lt;br&gt;&lt;br&gt;한편 간담회에 참석한 가사관리사들은 임금이나 비자 외에 숙소 통행금지 시간에 대한 문제를 제기했다. 가사관리사들은 숙소 통금 시간이 오후 10시인 점을 두고 “일과를 8시에 마치고 9시에 집에 오면 야외 활동을 할 시간이 없다”며 통금 시간을 0시로 연장해 줄 것을 건의했다.&lt;br&gt;&lt;br&gt;이외에도 가사관리사들은 한 집에서 일을 마치고 다른 집으로 이동할 때 마땅한 휴게 공간이 없다고 지적했다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “간담회에서 나온 의견을 토대로 숙소 통금 시간 연장이나 쉼터 정보 제공 등을 논의할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;한편 서울시와 고용부는 숙소를 이탈한 가사관리사 2명에게 연락을 취했으나 아직 소재를 파악하지 못하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>보수 교육감 단일화 또 무산 되나...후보 2명, 별도 기구서 경선</title>
+      <link>https://www.chosun.com/national/education/2024/09/24/YKGQVE4A4FEUBIOV4KC77KVUTI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/09/24/YKGQVE4A4FEUBIOV4KC77KVUTI/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Sep 2024 11:57:43 +0000</pubDate>
+      <content:encoded>서울시교육감 보궐선거 후보 등록일(26·27일)을 이틀 앞둔 24일 또 다른 보수 진영 단일화 기구가 등장해 별도 경선을 시작하며 단일화가 파행으로 치닫고 있다.&lt;br&gt;&lt;br&gt;보수 성향 후보인 안양옥 전 한국교총 회장, 홍후조 고려대 교수는 이날 오후 보수 교육계 인사가 모인 ‘보수교육감단일화선정위원회(선정위)’가 진행하는 정책 오디션에 참여해 각자 공약을 발표했다. 이 단체는 25일 전직 교장 등 교육계 인사 1242명을 대상으로 모바일 투표를 진행해 득표율이 높은 이를 단일 후보로 추대한다는 계획이다.&lt;br&gt;&lt;br&gt;안 전 회장과 홍 교수는 원래 보수 시민단체가 모인 ‘통합대책위원회(통대위)’가 추진하는 단일화에 조전혁 전 한나라당 의원과 함께 참여했었다. 이 단체는 지난 21일 여론조사를 했고, 득표율이 높은 한 사람을 25일 단일 후보로 추대할 예정이었다. 그러나 안 전 회장과 홍 교수는 23일 “여론조사가 불공정해 무효”라면서 다른 단일화 기구로 갔다. 통대위 측은 “여론조사는 세 후보가 사전에 협의한 대로 진행돼 문제가 전혀 없다”는 입장이다.&lt;br&gt;&lt;br&gt;안 전 회장 등은 조 전 의원에게 출마를 포기하거나 선정위가 진행하는 단일화에 참여하라고 제안했다. 하지만 조 전 의원은 “후보 등록을 코앞에 두고 말이 안 되는 일”이라며 거부 의사를 밝혔다. 이번 선거에서도 보수 진영 후보 단일화가 이뤄지지 않을 가능성이 큰 것이다. 보수 진영은 지난 세 차례 선거에서 모두 단일화에 실패해 조희연 전 서울시교육감에게 내리 패했다.&lt;br&gt;&lt;br&gt;진보 성향 후보 단일화를 진행하는 ‘2024서울민주진보교육감추진위’는 1차 선거인단 투표를 통과한 후보 3명(강신만·정근식·홍제남)을 대상으로 24일부터 이틀간 여론조사를 한 뒤 25일 단일 후보를 선정할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국민연금, 이재용에 손해배상 소송... “제일모직 합병으로 손실”</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/24/KIE7YJJMRRDMJOGVN7Q6F6VLRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/24/KIE7YJJMRRDMJOGVN7Q6F6VLRU/</guid>
+      <dc:creator>방극렬 기자, 박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Sep 2024 11:48:10 +0000</pubDate>
+      <content:encoded>국민연금공단이 2015년 삼성물산과 제일모직 합병으로 인한 피해액을 돌려받기 위해 최근 삼성을 상대로 손해배상 소송을 낸 것으로 전해졌다.&lt;br&gt;&lt;br&gt;24일 법조계에 따르면, 국민연금은 이재용 삼성전자 회장과 최지성 전 삼성그룹 미래전략실장, 삼성물산 등을 대상으로 “제일모직과의 합병으로 인한 손해를 배상하라”는 취지의 소송을 지난 13일 서울중앙지법에 제기했다. 국민연금이 삼성물산과 제일모직 합병에 찬성하도록 부당한 영향력을 행사한 혐의로 각각 징역 2년 6개월이 확정된 문형표 전 보건복지부 장관, 홍완선 전 국민연금 기금운용본부장도 소송 대상에 포함됐다.&lt;br&gt;&lt;br&gt;삼성물산은 2015년 7월 주주총회에서 제일모직과의 합병을 결의했다. 양사는 합병 비율을 ‘1(제일모직) 대 0.35(삼성물산)’로 하기로 결정했는데, 당시 삼성물산 1대 주주였던 국민연금은 이에 동의했다. 하지만 ‘국정 농단’ 특검 및 검찰은 합병 비율이 이 회장에게 유리하도록 삼성물산의 가치가 낮게 책정됐고, 박근혜 정권의 외압으로 국민연금이 자신에게 손해가 되는 합병에 찬성했다면서 관련자들을 기소했다.&lt;br&gt;&lt;br&gt;이 회장 등 삼성 관계자들은 뇌물제공 등의 혐의로 2021년 1월, 문 전 장관 등은 직권남용 등의 혐의로 2022년 4월 각각 유죄가 확정됐다. 당시 법원은 문 전 장관 사건에서 “삼성 합병 찬성을 목적으로 국민연금기금의 의결권 행사에 위법∙부당한 행위를 해 연금공단에 손해를 초래했다”고 했다.&lt;br&gt;&lt;br&gt;국민연금 관계자는 “앞서 법원으로부터 삼성물산과 제일모직 합병 과정·결과로 인해 공단에 손해가 발생했다는 사실을 인정받았기 때문에 이를 보전하기 위해 소송을 낸 것”이라고 말했다. 참여연대는 삼성물산 합병으로 인한 국민연금 피해액이 최소 5200억원에서 최대 6750억원에 이른다고 추산했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산시 주·부금고, 부산·국민은행 그대로 유지</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/09/24/M5AXJKKWARA6FKL7INJJF4NPXQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/09/24/M5AXJKKWARA6FKL7INJJF4NPXQ/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Sep 2024 12:55:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMJUEJLTMOGHTEHF7ITRK2OKNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 남구 문현동 문현금융단지 안 BNK부산은행 본점 전경. /BNK부산은행 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산시 주금고(제1금고)와 부금고(제2금고)로 BNK부산은행과 KB국민은행이 각각 다시 선정됐다.&lt;br&gt;&lt;br&gt;부산시는 24일 금고선정심의위원회에서 주금고 1순위로 부산은행을, 부금고 1순위로 국민은행을 각각 선정했다고 밝혔다. 이로써 부산은행과 국민은행은 내년부터 4년간 15조원이 넘는 부산시 예산을 계속 관리하게 됐다. 시는 박형준 부산시장의 결재를 거쳐 오는 10월 초 부산시 금고 최종 선정 결과를 공고할 계획이다.&lt;br&gt;&lt;br&gt;부산은행은 2001년부터 24년째 부산시 주금고를, 국민은행은 12년째 부산시 부금고를 맡고 있다. 올해 부산시 주금고 선정 입찰에는 부산은행 외에 국민은행과 IBK기업은행이 뛰어들어 치열한 경쟁을 펼쳤다.&lt;br&gt;&lt;br&gt;부산시 주금고는 부산시 예산 중 70%가량인 일반회계와 19개 기금을, 부금고는 나머지 30%가량인 14개 특별회계 예산을 각각 관리한다. 또 시 금고로 지정될 경우 지역에서의 브랜드 신뢰도 상승 등 부가효과를 얻는다.&lt;br&gt;&lt;br&gt;시 측은 “앞으로 4년 안에 부산시가 연간 28조원에 달하는 지방소비세 납입관리자로 지정될 가능성이 높다”며 “주금고와 부금고 가운데 높은 예치금리를 제시하는 쪽이 지방소비세를 관리할 수 있게 되는 이점도 있다”고 말했다.&lt;br&gt;&lt;br&gt;부산은행은 부산신용보증재단에 2020년부터 5년간 연평균 101억원, 모두 505억원을 출연하며 상생 경영을 실천하고, 지역 사회공헌 활동을 활발히 펼치는 등 지역 사회 기여와 시민 편의성 등에서 높은 평가를 받은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;국민은행은 올해 부산신보에 은행 가운데 가장 많은 120억원을 출연했고, 금리와 막강한 자금력을 장점으로 부금고 수성에 성공한 것으로 평가된다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“대학 축제서 칼부림”...흉기 난동 예고한 재학생 검거</title>
+      <link>https://www.chosun.com/national/2024/09/24/VYEYSIYXKBCUHDCX5XFIUSLPLI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/09/24/VYEYSIYXKBCUHDCX5XFIUSLPLI/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Sep 2024 12:14:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SETEN3EINRBMZC3DIJUUW3CLEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 열린 강원대 축제 '백령대동제'의 모습. /강원대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원대학교 축제 기간에 흉기 난동 예고 글을 올린 작성자가 경찰에게 붙잡혔다. 작성자는 강원대 재학생인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;강원 춘천경찰서는 24일 협박 등의 혐의로 강원대 학생 A(20대)씨를 붙잡아 조사하고 있다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;앞서 A씨는 이날 자신의 소셜미디어(SNS)에 “오늘 육주(60주년 기념관) 옆 주점에서 칼부림 예고합니다. 오후 8시∼9시 사이에 칼 두 자루, 망치 한 자루, 곡괭이 하나 들고갑니다”는 내용의 게시글을 올린 혐의를 받는다.&lt;br&gt;&lt;br&gt;강원대는 지난 23일부터 26일까지 학교 축제인 ‘백령대동제’ 기간이라, 수많은 학생과 시민이 학내에 몰려 있는 상황이었다.&lt;br&gt;&lt;br&gt;경찰은 기동순찰대와 특공대 등을 학교에 긴급 투입해 학교 주변을 순찰했다. 또 글 작성자를 찾기 위해 IP 추적에 들어갔다.&lt;br&gt;&lt;br&gt;경찰은 글 작성자인 A씨가 교내에 있다는 사실을 파악하고, 같은 날 오후 8시 5분쯤 붙잡았다. 검거 당시 A씨는 실제 흉기를 소지하지는 않았던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 사건 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국제결혼하려 2570만원 송금한다는 ‘피싱피해자’....알고보니 ‘현금수거책’</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/24/UDJUXSGSFBGJ5HQA4HMJVI45CI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/24/UDJUXSGSFBGJ5HQA4HMJVI45CI/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Sep 2024 12:04:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보이스피싱 피해자인 양 행동하다가 뒤늦게 보이스피싱 현금 수거책이라는 사실이 들통난 40대 남성이 경찰에 검거됐다. &lt;br&gt;&lt;br&gt;24일 강원 태백경찰서에 따르면, 추석 연휴를 사흘 앞둔 지난 11일 지역 내 한 은행에서 보이스피싱 피해 의심 신고가 접수됐다. “결혼자금이라며 해외송금을 하려는 사람이 있다”는 내용이었다.&lt;br&gt;&lt;br&gt;지구대 경찰관들이 은행에 가 송금하려던 40대 남성 A씨를 상대로 조사를 했다. 그는 “인스타그램 광고로 국제결혼 중매업체를 알게 됐고, 업체 측에서는 결혼하려면 2500만원을 먼저 베트남 계좌로 입금해야 한다고 했다”고 말했다.&lt;br&gt;&lt;br&gt;A씨는 이 금원을 어디서 구했느냐는 질문에는 ‘몰던 차를 팔아 2570만원을 받았다’고 진술했다. 그러나 A씨의 말에는 수상한 점이 있었다. 경찰관이 중매업체 전화번호 등을 물었는데 그는 전혀 기억하지 못했다. 경찰관들은 A씨가 보이스피싱 피해자가 아닌 자금 세탁책이나 피의자일 수도 있다고 판단해 은행에 A씨 계좌 출금과 이용 정지를 요청했다.&lt;br&gt;&lt;br&gt;그 뒤 경찰은 그가 차를 팔았다는 울산에 거주하는 B씨에게서 차량 구매 사실을 확인한 후 형사팀에 통보했다. 이후 수사 과정에서 B씨가 A씨의 ‘대환대출’을 빙자한 사기 수법에 넘어가 세 차례에 걸쳐 총 2570만원을 송금한 사실을 확인했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 지난 20일 통신사기피해환급법 위반죄로 검거해 수사하고 있으며, A씨 통장에 그대로 남아있는 피해금 2570만원은 절차에 따라 B씨에게 돌려줄 예정이다. 이준호 태백경찰서장은 “보이스피싱은 무엇보다 예방이 중요한 만큼 시민들과 금융기관의 적극적인 협조가 필요하다”며 “피해가 발생하지 않도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>빈곤 노인 67만명에게 ‘줬다 뺏는’ 기초연금</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/09/24/JG2QRJ3XLVBYNFK6NRMLIPRUZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/24/JG2QRJ3XLVBYNFK6NRMLIPRUZ4/</guid>
+      <dc:creator>안준용 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Sep 2024 11:53:19 +0000</pubDate>
+      <content:encoded>기초생활보장 생계급여를 받는 빈곤 노인 67만여 명이 기초연금 혜택을 보지 못하고 있는 것으로 24일 나타났다. 생계급여 수급자가 기초연금을 받을 경우, 그만큼 생계급여를 깎는 이른바 ‘줬다 뺏는’ 기초연금 제도 때문이다.&lt;br&gt;&lt;br&gt;조국혁신당 김선민 의원실이 보건복지부에서 받은 자료에 따르면, 올해 기준 기초연금을 받았다는 이유로 생계급여가 깎인 노인은 67만4639명에 달했다. 기초연금·생계급여 동시 수급 노인 거의 모두가 감액 대상이었다. 만 65세 이상 소득 하위 70%에게는 월 최대 33만4810원(올해 기준)의 기초연금이 지급되지만, 생계급여를 산정할 때 전월의 기초연금 수령분을 전액 ‘소득’으로 간주해 생계급여를 깎는다. 이에 따라 기초연금이 올라도 정작 생계급여 수급 노인은 혜택을 못 받는 문제가 생겼다. 1인당 삭감된 생계급여액은 월평균 32만4993원으로, 기초연금 최고 지급액의 97.1%에 달했다.&lt;br&gt;&lt;br&gt;이와 관련해 윤석열 대통령은 지난달 국정 브리핑에서 “생계급여를 받는 어르신들은 기초연금을 받으면 그만큼 생계급여가 깎인다”며 “이런 어르신들의 노후 보장을 위해 ‘감액하던 금액’을 추가 지급하는 방안을 추진하겠다”고 했다. 현재 장애인 연금이나 양육 수당 등과 같이 빈곤 노인 기초연금도 생계급여 산정 기준에서 빼겠다는 것이다.&lt;br&gt;&lt;br&gt;이런 가운데 연금 전문가들로 구성된 연금연구회는 이날 정부의 연금 개혁안과 관련해 입장문을 내고 “연령별 국민연금 보험료 차등 부담 등 원칙엔 동의하지만, 연금 지급 보장을 국민연금법에 명문화하는 것은 반대한다”고 했다. 그러면서 “수익률(5년간 연평균 2.35%)이 물가 상승률에도 못 미치는 퇴직연금의 경우엔 가입자가 원하는 경우에 한해 보험료 일부를 국민연금공단에 위탁 운영하는 방안을 검토할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>타워팰리스 지하 3층에 주차된 벤츠서 화재…인명 피해는 없어</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/24/M3VZ32MV6RB6TNDSFCPOHASU64/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/24/M3VZ32MV6RB6TNDSFCPOHASU64/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Sep 2024 11:33:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CRNCL2EFLZFKFA4A3E763V3M4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 오후 5시 48분쯤 서울 강남구 타워팰리스 지하주차장에 세워져 있던 벤츠에서 화재가 발생했으나 약 11분 만에 진화된 모습./강남소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 오후 5시 48분쯤 서울 강남구 도곡동 타워팰리스 지하 3층 주차장에 세워져 있던 벤츠 승용차에서 화재가 발생했다. 다행히 이 화재로 인한 인명피해나 대피는 없었다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방 당국은 오후 5시 59분쯤 화재 현장에 도착했으나 타워팰리스 경비원 등이 이미 진화를 한 상황이었고 운전석 일부만 소실됐다고 한다. 불이 난 벤츠 차량은 전기차가 아닌 것으로 드러났다. 소방 측은 화재가 난 경위 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>차량털이 들키자 폭행하고 도주 20대...훔친 카드 쓰다 덜미</title>
+      <link>https://www.chosun.com/national/2024/09/24/FUOREHA27JGW7BCM7OFLIBPSCQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/09/24/FUOREHA27JGW7BCM7OFLIBPSCQ/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Sep 2024 10:32:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXOJ6JDLRZBJ3JMT3HJAJ35O5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주차된 차량에서 금품을 훔치다 이를 발견한 차주를 때리고 달아난 20대 차량털이범이 경찰에게 붙잡혔다. 훔친 카드를 사용하다가 꼬리를 밟혔다.&lt;br&gt;&lt;br&gt;전북 전주덕진경찰서는 준강도 등 혐의로 A(25)씨를 구속해 조사하고 있다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A 씨는 지난 14일 오후 11시쯤 전북 전주시 덕진구 진북동 한 노상에 세워진 차량에서 금품을 훔치고, 자신의 범행을 목격한 차주 B 씨를 폭행한 뒤 도주한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;신고를 받고 추적에 나선 경찰은 지난 21일 전주 한 시내에서 A 씨를 긴급체포했다. 당시 A씨는 훔친 신용카드를 사용하다가 덜미를 잡혀 경찰에 붙잡힌 것으로 알려졌다.&lt;br&gt;&lt;br&gt;조사 결과 A 씨는 이 같은 차량 절도 범죄를 이어오면서, 고가의 명품가방 등도 훔쳤던 것으로 드러났다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “도주 우려가 있어 A 씨를 구속해 조사하고 있다”며 “여죄가 있는지도 확인 중이다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>의협 젊은의사들 “불법 의료행위 감시 강화하고, 의사확인제 도입하자”</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/09/24/AXKL3UMVLFA4JDZUXNPCVDCSKE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/24/AXKL3UMVLFA4JDZUXNPCVDCSKE/</guid>
@@ -830,24 +938,6 @@ A 씨는 지난 5월 3일 일당 2명과 태국 방콕의 클럽에서 한국인
       </media:content>
     </item>
     <item>
-      <title>92곳 병원에 연락했지만...추석 당일 30대 여성 끝내 숨졌다</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/09/23/3Y5LSQS35BE7NECRRC65MJBLWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/09/23/3Y5LSQS35BE7NECRRC65MJBLWA/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Sep 2024 13:09:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRLP7PKFBJGAVF5P2GEG3KQNPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 추석 부산에서 응급상황에 처한 30대 여성 환자가 92차례에 걸쳐 치료받을 수 있는 병원을 찾았지만 끝내 찾지 못해 숨진 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;23일 부산소방재난본부 등에 따르면 지난 17일 오전 2시 15분쯤 부산 영도구에서 30대 여성이 의식 장애 증상 등을 보인다는 신고가 119에 접수됐다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 구급대는 당시 환자가 생명이 위험할 수 있는 레벨1 단계로 판단해 구급상황관리센터까지 요청해 치료할 병원을 찾기 위해 전화를 돌렸다고 한다.&lt;br&gt;&lt;br&gt;하지만 부산 시내 10개 병원에서 진료 불가 통보를 받았고, 그 사이 환자는 구급차에서 심정지 상태에 빠졌다. 이에 구급대는 우선 근처에 있는 한 병원 응급실로 옮겼고, 심폐소생술과 약물 투여로 일시적으로 환자의 의식이 돌아왔다.&lt;br&gt;&lt;br&gt;하지만 의료기기 부족으로 상급병원으로 옮겨야 하는 상황이던 환자는 부산 시내 대학병원 3곳은 물론 경남 진주 경상국립대병원과 충남 천안 순천향대병원까지 연락했으나 의료인력 부족 등을 이유로 모두 거절당했다고 한다.&lt;br&gt;&lt;br&gt;환자는 92차례에 걸친 수소문에도 결국 치료를 받지 못하고 오전 6시 25분쯤 숨진 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>산부인과 시술받다 돌연 심정지… 20대女 한 달여 만에 결국 숨져</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/23/JCQRUM4THVAUFBNSSMXB522VEI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/23/JCQRUM4THVAUFBNSSMXB522VEI/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Sep 2024 13:02:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰마크. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 속초의 한 산부인과에서 시술 도중 심정지 상태에 빠진 20대 여성이 한 달여 만에 숨졌다.&lt;br&gt;&lt;br&gt;23일 경찰 등에 따르면 지난 6일 오전 20대 여성 A씨가 사망 판정을 받았다. A씨는 지난 7월 24일 오전 10시5분쯤 속초 한 산부인과 병원에서 시술받던 중 돌연 심정지 상태에 빠졌다. 도내 한 종합병원으로 옮겨진 A씨는 줄곧 중환자실에서 치료받았으나, 상태가 호전되지 않았고 끝내 세상을 떠났다.&lt;br&gt;&lt;br&gt;앞서 A씨 가족은 사고 발생 이후 산부인과를 업무상과실치상 혐의로 고소했다. 경찰은 병원을 대상으로 압수수색을 벌여 시술 동의서 등 관련 자료를 확보했다. 시술을 담당한 의사 등 병원 관계자들도 조사했다. 다만 의사는 혐의를 부인한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨가 사망함에 따라 경찰은 업무상과실치사 혐의를 적용해 수사 중이다. 정확한 사망 원인을 파악하기 위해 국립과학수사연구원에 부검을 의뢰했다. 결과가 나오는 대로 확보한 의료기록과 함께 전문 기관에 감정을 맡길 예정이다. 부검 결과는 내달 초쯤 나올 것으로 보인다.&lt;br&gt;&lt;br&gt;한편 속초시는 지난달 13일 산부인과를 찾아 의료법 위반 사항이 있는지 점검했다. 30여개 항목에 걸쳐 광범위하게 살폈으나 ‘부적합’ 항목은 없는 것으로 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“까마귀가 파우치 가져갔어요” 강남 한복판 택배 절도 사건 전말</title>
       <link>https://www.chosun.com/national/national_general/2024/09/23/3I2OZS6A35AUJCUWC6CVXENSQQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/23/3I2OZS6A35AUJCUWC6CVXENSQQ/</guid>
@@ -860,45 +950,6 @@ A 씨는 지난 5월 3일 일당 2명과 태국 방콕의 클럽에서 한국인
       </media:content>
     </item>
     <item>
-      <title>폰 보며 걷던 어린이가 ‘툭’… 호암미술관 수억대 전시품 떨어졌다</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/23/27GVTH2G6FF5BOZOY753D6XDEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/23/27GVTH2G6FF5BOZOY753D6XDEA/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Sep 2024 11:20:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZA67355KTNGKPLJWKSOFPYX6PA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이번 사고로 바닥에 떨어진 ‘나무가 있는 세폭화’와 같은 형식의 또 다른 작품. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 용인의 호암미술관에서 어린이 관람객 실수로 수억 원대 전시품이 바닥에 떨어지는 일이 발생했다. 심각한 파손은 발생하지 않았지만 이로인해 작품 전시가 일시 중단됐다.&lt;br&gt;&lt;br&gt;호암미술관에서는 ‘파스텔의 마법사’로 불리는 스위스 작가 니콜라스 파티(44)의 한국 첫 개인전이 열리고 있다. 이번 소동은 추석 연휴 기간인 지난 18일 발생한 일로 한 어린이 관람객이 작품을 등진 채 휴대전화를 보며 걷다가 전시 좌대를 건드렸다.&lt;br&gt;&lt;br&gt;당시 바닥에 떨어진 작품은 ‘나무가 있는 세폭화’다. 휴대용 제단화처럼 접을 수 있는 아치 모양 화면 세 개에 그려진 삼면화 형태다. 파티를 대표하는 형식 중 하나로 ‘캐비닛 작품’이라고 불리기도 한다. 대리석 느낌으로 칠을 한 나무 좌대 위에 설치된 것이 특징이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY437LHRZFERHIWTTG3JZI4XU4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;파티의 대표 작품 형식인 아치형 삼면화. 대리석 느낌으로 칠을 한 좌대에 전시된다. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;파티의 작품은 미술시장에서 수십억 원대에 거래된다. 이 아치형 삼면화 작품들도 마찬가지로 높은 평가를 받는다. 앞서 이달 초 아트페어 프리즈 서울에서 삼면화 한 점이 35만 달러(약 4억6800만원)에 판매되기도 했다.&lt;br&gt;&lt;br&gt;다만 다행히 이번 사고로 인한 큰 피해는 없는 것으로 전해졌다. 미술관 측은 “확인 결과 작품 파손은 없었으나 (그림을 연결하는) 경첩의 나사 2개가 이탈했다”며 “작가와 상의해 조치한 상태”라고 설명했다. 전시가 중단됐던 ‘나무가 있는 세폭화’는 좌대 보완 후 24일부터 다시 관람객을 만난다.&lt;br&gt;&lt;br&gt;한편 스위스 로잔 출생으로 뉴욕에서 활동 중인 파티는 초현실적이고 몽환적인 그림으로 유명한 작가다. 18세기 유럽에서 유행한 후 잊힌 파스텔화의 전통을 재해석해 건축적인 스케일로 파스텔 벽화를 만든다. 이번 전시는 그가 한국에서 여는 첫 개인전으로 지난달 31일 개막했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천서 중학생, 여교사 음란 합성 사진 소지 혐의 경찰 조사</title>
-      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2024/09/23/3H2QBOARZBABXJJUF6T6G44WNU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2024/09/23/3H2QBOARZBABXJJUF6T6G44WNU/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Sep 2024 10:17:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXOJ6JDLRZBJ3JMT3HJAJ35O5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 중학생이 합성한 여교사의 음란사진을 소지해 경찰 조사를 받고 있다.&lt;br&gt;&lt;br&gt;인천 서부경찰서는 여교사의 합성 사진을 소지한 혐의(성폭력범죄의 처벌 등에 관한 특례법 위반)로 중학생 A군을 수사 중이라고 23일 밝혔다. &lt;br&gt;&lt;br&gt;이 학교 전담 경찰관(SPO)은 이달 초 A군이 성착취물을 소지하고 있다는 첩보를 입수하고 그의 휴대전화에서 관련 사진을 발견한 것으로 파악됐다. 이 사진은 여교사의 얼굴과 나체사진을 인공지능(AI) 기반 딥페이크 기술로 합성한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰관계자는 “해당 사진이 A군이 직접 제작한 것인지 건네 받은 것인지에 대해서는 아직 조사가 안 됐다”며 “조만간 A군을 상대로 정확한 경위를 조사할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김석우 신임 법무차관 “현장 목소리 들어 국민 체감 정책 실행해야”</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/23/HEFP4FAJFZAIJBJMQQUNKZ46RU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/23/HEFP4FAJFZAIJBJMQQUNKZ46RU/</guid>
-      <description/>
-      <pubDate>Mon, 23 Sep 2024 10:00:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A5ZKRGOBOID3QHR6K2XVBMDIE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부 청사 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김석우(52·사법연수원 27기) 신임 법무차관이 “국민이 체감하는 정책을 실행하기 위해서 현장의 목소리를 많이 들어달라”고 당부했다.&lt;br&gt;&lt;br&gt;김 차관은 23일 정부과천청사에서 열린 취임식에서 “현장에 어떤 노력이 있는지를 살펴봐달라”며 이렇게 밝혔다. 상호 소통과 초심도 강조했다.&lt;br&gt;&lt;br&gt;김 차관은 구체적인 정책 추진 사항으로 “전자주주총회를 통해 주주의 권리를 실효적으로 보장할 수 있는 제도를 모색하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;그는 직원들에게 “여러분이 출근할 때 보는 ‘공정하고 따뜻한 법치 행정’이라는 글자에 다 들어있다고 생각한다”며 “장관을 잘 도와 공정하고 따뜻한 법치 행정을 이뤄가도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;김 차관은 박성재 법무부 장관이 서울중앙지검장이었던 2015년에 특수3부장을 맡았다. 이른바 ‘검수완박’ 위헌소송에 대응하기 위해 만들어진 법무부 헌법쟁점연구TF팀장을 지냈고, 작년 2월 검사장(법무부 법무실장)으로 승진했다. 5개월 만인 작년 7월 고검장(법무연수원장)으로 승진했고 이번에 자리를 옮겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>단일화 여론조사 끝나자...교육감 보수 후보 2명 “무효” 주장</title>
-      <link>https://www.chosun.com/national/education/2024/09/23/NWJ4QM6LGZG2LHLVB3RT3C2ZZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/09/23/NWJ4QM6LGZG2LHLVB3RT3C2ZZU/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Sep 2024 08:31:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJNCCCMA4NP4TKTA7JJHSORLCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 서울 지하철 3호선 충무로역에 서울특별시 교육감 보궐선거 홍보물이 게시돼 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시교육감 보궐선거 후보 등록일을 3일 앞두고 보수 진영 후보 단일화가 다시 위기를 맞았다. 안양옥 전 한국교총 회장과 홍후조 고려대 교수가 최근 진행된 단일화 여론조사에 대해 “무효”라며 받아들이지 않겠다고 선언한 것이다.&lt;br&gt;&lt;br&gt;보수 진영 단일화를 추진하는 통합대책위원회(통대위)는 “세 후보가 협의한 대로 여론조사를 진행했고 결과가 나오면 승복하기로 서약까지했다”며 “경선 과정에 문제는 없었다”고 반박했다.&lt;br&gt;&lt;br&gt;안 전 회장 등은 23일 입장문을 내고 “지난 21일 이루어진 서울시민 1000명에 대한 여론조사는 중앙선관위 등의 여론조사 기준에 준해 실시했어야 함에도 불구하고 비공개를 빌미로 조전혁 후보에게 매우 유리한 질문과 답지를 제공했다”며 “두 여론조사 기관이 각각 500명씩 성별, 연령대, 지역별 분포를 고려해 실시했어야 함에도 단순히 500명씩 뭉텅거려 조사해 이 조사 결과는 무효임을 천명한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “조전혁 후보를 향한 알박기 같은 여론조사를 자행한 통합대책위원회의 만행을 규탄한다”며 “우리 두 후보는 25일 최종 결과 발표에 참여하지 않겠다”고 했다.&lt;br&gt;&lt;br&gt;이들은 “조전혁 후보는 본선에서 필패가 예상되기에 이번 선거만 아니라 향후 진보 교육감들이 계속 당선돼 학부모들이 우려하는 ‘혁신교육’을 겪어야 하는 고통이 예상된다”며 “조 후보는 앞서 사퇴한 박선영 후보와 같이 대용단을 내려주기를 요청한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “그렇지 않다면 김영배·안양옥·홍후조 후보가 함께하는 후보 빅텐트 안에 들어와 24일 있을 후보 오디션에 참가하고 직후에 있을 ARS 방식 여론조사에 참여할 것을 요구한다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 통대위 측은 “여론조사가 주말에 진행돼 예상보다 빠른 21일 밤 10시에 조사가 끝났다”며 “각 기관이 여론조사의 중요성을 고려해 많은 인원을 투입해 최선을 다해 조사해 빨리 끝난 것을 두고 불공정하다는 것은 이해가지 않는다”고 했다.&lt;br&gt;&lt;br&gt;이어 “여론조사 질의 항목은 세 후보와 협의를 진행한 내용이며 선관위에 신고한 내용을 그대로 진행했다”며 “안양옥, 홍후조 후보의 의견을 현실적으로 반영 가능한 선에서 최대한 반영했다”고 했다.&lt;br&gt;&lt;br&gt;통대위 측은 “여론 조사를 진행하기 전 경선 결과에 승복하겠다고 각 후보들이 서약도 하지 않았느냐”며 “당시 통보한 규칙 그대로 경선이 진행됐는데 발표도 나기 전 갑자기 ‘무효’라는 것은 이해하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;조전혁 전 의원 측은 “보수 단일화를 위해 통대위에서 계속 다른 후보들을 위해 양보하라는 요구를 웬만하면 다 들어줬다”며 “이미 합의한 대로 여론조사가 끝났는데 이제 와서 받아들일 수 없다는 것은 비상식적인 일”이라고 했다. 안 전 회장 등이 제안한 또 다른 단일화 기구 참여 제안에 대해서는 “후보 등록을 코앞에 둔 상황에서 말이 안 되는 일”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QPNQNG4XLQIQBOB5TLXZ5DRJPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;곽노현 전 서울시교육감. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 보수 진영 교육감 후보 단일화를 추진하던 바른교육국민연합(바교연)과 범시민사회단체연합(범사련)은 ‘단일화 기구 단일화’를 위해 통합대책위원회(통대위)를 꾸렸다. 그러나 단일화 추진 과정에서 범사련이 탈퇴하고 현재는 바교연만 남은 상황이다.&lt;br&gt;&lt;br&gt;통대위는 지난 21일 조전혁·안양옥·홍후조 등 3명 후보에 대한 여론조사를 실시했다. 여론조사 득표율이 가장 높은 후보를 오는 25일 발표해 단일 후보로 추대할 계획이었는데, 안 전 회장 등이 조사가 무효임을 선언하고 나선 것이다. 후보 등록까지 3일밖에 남지 않아 보수 진영 후보 단일화에는 큰 혼란이 예상된다.&lt;br&gt;&lt;br&gt;한편 이날 곽노현 전 서울시교육감은 “경선 결과에 깨끗이 승복한다”며 “이번 서울시교육감 선거에서 진보 진영 승리를 위해 제 역할을 끝까지 하겠다”고 밝혔다. 그는 전날 2024 서울민주진보교육감추진위가 실시한 1차 선거인단 투표에서 탈락했다. 이후 단독 출마 가능성이 제기됐으나 진보 단일화를 위해 물러나겠다는 입장을 공식화한 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MJNCCCMA4NP4TKTA7JJHSORLCI.jpg?width=4798&amp;height=3325&amp;auth=0adc98bceac5f160c5e552e94bb09634f2c70e726dca92b363b923da9ec78fc4&amp;smart=true" type="image/jpeg" height="3325" width="4798">
-        <media:description type="plain">[서울=뉴시스] 황준선 기자 = 13일 서울 지하철 3호선 충무로역에 서울특별시 교육감 보궐선거 홍보물이 게시돼 있다. 2024.09.13. hwang@newsis.com</media:description>
-        <media:credit role="author" scheme="urn:ebu">황준선</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>“아버지·남동생 하늘나라로”… 한기범 앓은 희귀 유전병, 뭐길래</title>
       <link>https://www.chosun.com/national/national_general/2024/09/23/FBUTJK6GHFDQ7JH5IEQB7WJXE4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/23/FBUTJK6GHFDQ7JH5IEQB7WJXE4/</guid>
@@ -908,28 +959,6 @@ A 씨는 지난 5월 3일 일당 2명과 태국 방콕의 클럽에서 한국인
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMLRKXSY6ZDSPGVSN75SNZYFAU.png"&gt;&lt;figcaption&gt;&lt;small&gt;유튜브 채널 '정호근쌤의 인생신당'에 출연한 전 국가대표 농구선수 한기범. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 국가대표 농구선수 한기범이 유전병 ‘마르판 증후군’으로 아버지와 남동생을 떠나보낸 사연을 털어놨다.&lt;br&gt;&lt;br&gt;한기범은 지난 18일 유튜브 ‘정호근쌤의 인생신당’에 출연해 “아버지와 남동생이 같은 병으로 세상을 떠났다. 심장마비로 아버지가 40대에 돌아가셨고, 남동생도 40대에 하늘나라에 갔다”고 했다.&lt;br&gt;&lt;br&gt;한기범은 자신 역시 같은 병으로 심장 수술을 두 차례 했다고 밝혔다. 한기범은 “저는 수술을 해서 살았다. 그래서 지금까지 살게 된 것”이라며 “병원에서 검사받았을 때 심장 때문에 100% 죽는다더라. 그 자리에서 바로 수술해서 살 수 있게 됐다”고 했다.&lt;br&gt;&lt;br&gt;한기범과 가족이 앓은 병은 희귀 유전병 마르판 증후군이라고 한다.&lt;br&gt;&lt;br&gt;서울대병원 희귀질환센터에 따르면, 마르판 증후군은 염색체 15번의 FBN1 유전자 변형으로 골격계 기형이 생기고, 안구의 수정체 탈구 및 근시, 그리고 심장 기형이 동반되는 유전성 질환이다. 키가 크고, 마르고, 얼굴과 사지가 긴 게 대표적인 증상이다. 척추측만증이나 승모판 탈출증, 기흉, 녹내장, 백내장, 근시, 안구돌출 등이 발현되기도 한다. 상염색체 우성 유전으로 자녀에게 물려질 확률은 50%다.&lt;br&gt;&lt;br&gt;한기범은 “아들이 저의 유전자를 50% 받고 태어났다. 일찌감치 주치의한테 검사를 다 받게 했다”며 “외형적 특징도 없고 아직 유전적으로는 거의 없다고 하더라. 그런데 아들의 대를 이어서 분명히 나타날 것 같다”고 했다.&lt;br&gt;&lt;br&gt;한기범은 마르판 증후군의 경우 나타나는 외형적 특징에 대해서 “우선 저처럼 키가 크고, 마른다. 절대 뚱뚱한 사람이 없다”며 “눈이 나쁘고 손가락 발가락이 길고, 운동 측면에서 유연한 특징이 있다”고 했다.&lt;br&gt;&lt;br&gt;한기범은 치료 경과를 묻는 말에 “희망적”이라고 답했다. 한기범은 “저처럼 미리 알아야 한다. 보통 통증 등 외부적으로 증상이 안 나타난다”며 “그래서 전 후 상태를 잘 봐야 한다”고 했다.&lt;br&gt;&lt;br&gt;마르판 증후군은 미국의 제16대 대통령 에이브러햄 링컨이 앓은 질환으로도 잘 알려져 있다. 환자 중 농구 등 운동선수도 많다. 한기범뿐만 아니라 국가대표 출신 추한찬도 마르판 증후군으로 기흉 수술을 받았다고 고백했던 바 있다.&lt;br&gt;&lt;br&gt;2017년 조사 기준 국내 마르판 증후군 환자는 증가세를 보였다. 삼성서울병원 심장혈관센터 김덕경 교수팀이 2006∼2013년 사이 국민건강보험공단 자료를 이용해 분석한 결과, 2006년에 인구 10만명 당 0.90명이던 국내 마르팡증후군 유병률이 2013년에는 2.27명으로 2.5배로 증가한 것으로 나타났다. 특히 10대 유병률이 두드러졌다. 2006년만 해도 10만명당 4.8명이던 10대 환자가 2013년에는 6.4명으로 늘었다. 성별로는 여성(10만명당 1.9명)보다 남성(10만명당 2.6명) 환자가 많았다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>전시 작품에 '오빠 사랑해♡' 낙서했던 남녀 입건</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/23/E4E3GC3OEJDD7JCOR2ML54I2UQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/23/E4E3GC3OEJDD7JCOR2ML54I2UQ/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Sep 2024 08:18:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3NH3ZHZPX37SPTPQGBNO7U2WPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;바트 반 그늑튼씨가 공개한 전시 중인 지도 위에 낙서가 돼 있는 모습. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;네덜란드 출신 한국 여행 유튜버 전시 작품에 낙서를 했던 범인들이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;23일 서울 성동경찰서는 30대 남성 A씨와 20대 여성 B씨를 재물손괴 혐의로 입건해 조사 중이라고 밝혔다. 이들은 지난 15일 새벽 2시쯤 서울 성동구 성수동 한 복합문화공간에 전시된 작품에 ‘오빠 사랑해♡’ 등의 낙서를 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;앞서 서울 곳곳을 여행하며 한국을 알려온 네덜란드 출신 유튜버 바트 반 그늑튼은 소셜미디어를 통해 자신의 작품이 낙서 테러를 당했다고 알렸다.&lt;br&gt;&lt;br&gt;구독자 22만명을 보유한 유튜브 채널 ‘아이고바트’ 운영자인 바트는 최근 서울 법정동 467개를 돌며 한국인에게도 생소한 동네들을 소개하는 ‘웰컴 투 마이 동’(Welcome to My Dong) 프로젝트를 진행 중이었다. 훼손된 작품은 바트의 여정을 서울 지도로 표현한 그림이었다.&lt;br&gt;&lt;br&gt;전시는 지난 9일 시작돼 23일까지 진행될 예정이었지만, 15일 발생한 낙서 사건으로 중단됐다.&lt;br&gt;&lt;br&gt;경찰은 신고가 접수된 후 인근 방범카메라 등을 토대로 범인을 추적해 피의자 한 명의 주거지를 특정했다. 수사망이 좁혀오자 A씨와 B씨는 경찰에 함께 출석해 자수했다.&lt;br&gt;&lt;br&gt;경찰에 출석한 이들은 “작품인지 모르고 낙서했다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/7K4ZXF5L2NER5NGBJXVJYDUVCI.jpg?width=638&amp;height=359&amp;auth=d56b14462d719e46f7b7c891b86127daa5911091b978ee4aafd4f19e8dcd9221&amp;smart=true" type="image/jpeg" height="359" width="638">
-        <media:description type="plain">바트 반 그늑튼씨가 공개한 전시 중인 지도 위에 낙서가 돼 있는 모습./인스타그램 캡처</media:description>
-        <media:credit role="author" scheme="urn:ebu">인스타그램 캡처</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>추석 연휴 지나자 잠적... 필리핀 가사관리사 2명, 입국 한달 만에 연락두절</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/23/YVU5NM6NUVDJZG5U42GG55SYAU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/23/YVU5NM6NUVDJZG5U42GG55SYAU/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Sep 2024 06:41:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZEAWE6UUXUUOVWP7M3ODZMURTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8월 6일 오전 외국인 가사관리사 시범사업에 참여하는 필리핀 가사관리사들이 인천국제공항 제1터미널을 통해 입국하고 있다. /공항사진기자단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 추진한 ‘외국인 가사관리사 시범사업’으로 지난달 입국한 필리핀 노동자 2명이 현재 숙소를 무단이탈한 후 연락이 끊긴 상태인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;23일 서울시 등에 따르면 필리핀 가사관리사 2명은 추석 연휴 기간인 지난 15일 숙소에서 나간 뒤 복귀 예정일인 18일까지 복귀하지 않아 업체에서 연락을 취했으나 연락을 받지 않고 있다.&lt;br&gt;&lt;br&gt;사업주는 외국인노동자가 영업일 기준 5일 이상 무단결근하는 등 노동자의 소재를 확인할 수 없을 경우 지방노동청과 법무부에 ‘이탈(고용변동) 신고’를 해야 한다.&lt;br&gt;&lt;br&gt;현재 연락이 끊긴 필리핀 가사관리사들에 대한 이탈 신고는 오는 26일 이뤄질 예정이다. 이들은 소재가 계속 파악되지 않을 경우 불법체류자로 분류된다.&lt;br&gt;&lt;br&gt;필리핀 가사관리사들이 숙소를 무단 이탈한 이유는 알려지지 않았다.&lt;br&gt;&lt;br&gt;다만 8월분 교육 수당이 제때 지급되지 않은 점, 최저임금을 적용받으면서 주당 노동시간이 40시간 미만이라 제조업에서 일하는 다른 고용허가제(E-9 비자) 외국인노동자보다 임금이 적은 점, 내년 2월 시범사업이 끝난 뒤 고용이 연장되지 않을 수 있다는 우려 등이 이탈의 이유일 것이라는 추측이 나온다.&lt;br&gt;&lt;br&gt;필리핀 가사관리사 100명은 지난달 6일 입국해 이달 2일까지 4주간 160시간의 직무 교육, 한국어 학습, 성희롱 예방 및 산업안전교육 등 각종 특화교육을 받았다. 이후 지난 3일부터 142개 가정을 대상으로 서비스를 시작했다.&lt;br&gt;&lt;br&gt;연락이 끊긴 2명 외 나머지 98명의 필리핀 가사관리사들은 정상 근무 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;서울시 관계자는 조선닷컴과의 통화에서 “가사관리사 이탈 방지를 위해 여러 차례 교육을 실시했음에도 일부 이탈자가 나왔다. 이탈하신 분들은 불법체류 상태에서 일을 하게 되는 것을 감안하면 실질적으로 손해를 보게 될 텐데 잘못된 판단을 한 것이라고 본다”며 “원할 경우 급여지급 방식을 ‘월급제’에서 ‘주급제’로 개선하는 등 근무환경 개선을 고용노동부 등과 협의해 추진하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>낮엔 반팔, 아침·저녁엔 긴팔… 당분간 ‘두 개의 계절’ </title>
       <link>https://www.chosun.com/national/transport-environment/2024/09/23/VOEVQM3GLNE3TDNQKQ452CV2HU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/09/23/VOEVQM3GLNE3TDNQKQ452CV2HU/</guid>
@@ -937,42 +966,6 @@ A 씨는 지난 5월 3일 일당 2명과 태국 방콕의 클럽에서 한국인
       <description/>
       <pubDate>Mon, 23 Sep 2024 07:11:29 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DI46MTHL35K37ALHOKDDOIQEJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주지역 일교차가 10도 이상으로 예보된 23일 오전 광주 북구청 사거리에서 시민들이 긴팔과 반팔 옷을 입은 채 길을 걷고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당분간 기온이 늦여름과 초가을을 오가며 들쑥날쑥할 전망이다. 일교차도 15도 내외로 크게 벌어지며 아침엔 쌀쌀하고, 한낮엔 더울 것으로 예상된다.&lt;br&gt;&lt;br&gt;23일 기상청에 따르면, 찬 북풍의 영향으로 24일 아침 수은주가 최저 10도까지 떨어지며 쌀쌀하겠다. 건조한 공기의 유입으로 하늘은 대체로 맑겠고, 햇볕이 강하게 내리쬐며 낮동안 기온이 가파르게 오를 것으로 예상된다. 24일 전국 기온은 최저 10~21도, 최고 23~29도로 예보됐다.&lt;br&gt;&lt;br&gt;25일부터는 다시 기온이 오를 것으로 보인다. 한낮이 늦여름 수준인 최고 30도까지 오르며 덥겠다. 낮 최고 30도 내외의 날씨는 일요일인 30일까지 이어질 것으로 예상된다. 25일 제주에는 5~20㎜의 가을비도 예고됐다.&lt;br&gt;&lt;br&gt;일교차가 15도 안팎으로 크게 벌어지며 낮과 밤의 기온이 널뛰기를 하는 것은 9월 초중순에 나타나는 환절기 날씨의 특징이다. 올여름은 유독 늦더위가 길어지면서 9월 중순이 지나서야 환절기의 모습이 나타나고 있다. 기상청은 10월 초까지 이런 날씨가 이어질 것으로 내다봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>늦더위 여파로 단풍도 지각...설악산 10월22일, 지리산 25일 절정</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/09/23/5YT3AXWKBJGR3POI3RSNKMYLF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/09/23/5YT3AXWKBJGR3POI3RSNKMYLF4/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Sep 2024 07:25:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBS4CQFCQBIHPBGN34VCCGCCLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8월 30일 오후 대구 동구 대구시민안전테마파크에 식재된 단풍나무 한 그루의 잎이 붉게 물들어 가고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;늦더위 여파로 올 가을은 10월 말이 돼야 단풍이 절정에 이를 것으로 예측됐다. ‘지각 단풍’인 셈이다. 다만 단풍이 제대로 물들 시간적 여유가 사라지며 초록 상태로 잎이 떨어질 가능성도 있다.&lt;br&gt;&lt;br&gt;23일 산림청에 따르면, 올 가을 단풍나무의 절정 시기(산림 50% 이상이 단풍)는 10월 29일로 조사됐다. 단풍은 찬 북풍이 본격 내려오기 시작하는 9월 말부터 물들기 시작한다. 올해 산림별 단풍 절정시기는 설악산 10월 22일, 내장산 10월 27일, 지리산 10월 25일, 한라산 11월 6일 등으로 예상됐다. 산림청은 “지역별로 차이는 있으나 늦더위 여파로 전반적으로 작년보다 단풍이 늦어질 것으로 보고 있다”고 했다.&lt;br&gt;&lt;br&gt;단풍은 일 최저기온이 섭씨 5도 아래로 떨어지면 시작한다. 그런데 이달 1일부터 22일까지 전국 평균 최저기온(62개 지점 기준)은 22.3도를 기록 중이다. 9월 최저기온으로 가장 높았던 작년(19도) 보다 3도 가량 높은 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TW5IVOOYZFBU5LXEMNEUHAP7GM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/산림청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통상 단풍나무는 기온이 1도 오르면 4일씩, 은행나무는 5.7일씩 물드는 속도가 늦어진다. 보통 10월 말이면 산림의 80% 가량이 단풍으로 물들어 왔는데 올해는 같은 시기에 50% 정도 수준에 그칠 것으로 예상된다. 이에 따라 산림의 80%가 단풍으로 물드는 ‘최절정’ 시기는 11월이 돼야 할 것으로 보인다.&lt;br&gt;&lt;br&gt;가을이 짧아질 경우 단풍이 울긋불긋 물들기도 전에 겨울바람을 만나 낙엽이 될 가능성도 있다. 늦가을까지 덥다가 겨울로 갑자기 넘어가면 단풍이 충분히 물들기 전에 단풍 시기가 끝나기 때문이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한라산서 쓰러진 등산객, ‘비번’ 경찰관 도움으로 위기 넘겼다</title>
-      <link>https://www.chosun.com/national/regional/2024/09/23/PY6VTDWM2ZBPNLNTCRUT7BE2SE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/23/PY6VTDWM2ZBPNLNTCRUT7BE2SE/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Sep 2024 06:54:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZQP6RJPGONB4HGUN4WDHQHG44I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한라산에서 쓰러진 등반객을 구조한 서귀포경찰서 대정파출소 마라도치안센터 소속 김주업 경위./제주경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비번 날 제주 한라산을 오르던 경찰관이 등산로에 쓰러져 있는 30대 여성 등산객을 발견하고 응급처치에 나서 급박했던 순간을 넘긴 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;23일 서귀포경찰서에 따르면 대정파출소 마라도치안센터 소속 김주업(45) 경위는 지난 13일 근무가 없는 비번을 맞아 한라산을 찾았다. 오전 11시쯤 한라산 정상에 거의 다다른 김 경위는 쓰러져 있는 등산객 A씨를 발견했다.&lt;br&gt;&lt;br&gt;제주에 홀로 여행을 온 A씨는 이날 등반 중 폭염 때문에 탈진해 30분 이상 기운을 차리지 못한 상태에서 50대 등산객이 119에 신고한 상태였다. 김 경위는 A씨를 발견하고 상비약으로 갖고 있던 식염 포도당 등을 복용토록 하는 한편, 손발을 주무르며 의식을 잃지 않도록 조치했다.&lt;br&gt;&lt;br&gt;그러나 구조대를 기다리는 동안 A씨의 상황은 더욱 악화됐다. 저체온증에 의한 쇼크가 왔기 때문이다. 김 경위는 소지하고 있던 담요를 꺼내 A씨에게 덮어 주며 응급조치에 나섰다. 헬기가 삼각봉대피소로 가고 있다는 소식을 듣고 김 경위는 A씨를 업고 헬기장까지 약 30분간 이송해 산악구조대에게 인계했다.&lt;br&gt;&lt;br&gt;구급대에 따르면 당시 A씨는 심정지가 진행되는 급박한 상황이었던 것으로 전해졌다. 병원으로 옮겨진 A씨는 건강을 되찾았다.&lt;br&gt;&lt;br&gt;김 경위의 이 같은 선행은 A씨가 지난 17일 제주경찰청 홈페이지에 글을 올리면서 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 “혼자 산행을 시작하고 정상을 10분 남긴 시점에 갑자기 어지럽고 잠이 들었다. 심한 어지러움증과 구토 증상도 나타났다”며 “과호흡과 함께 극심한 추위에 몸을 떨며 일어날 수 조차 없었다”고 당시를 떠올렸다. 이어 “때마침 산행 중이시던 김 경위님이 절 보시고선 바로 응급조치를 해주셨다”며 “의식이 반 이상 없어진 저를 어깨에 들쳐업고 구급헬기 착륙장까지 내려가며 저의 체온을 올리려 노력하셨다”고 전했다.&lt;br&gt;&lt;br&gt;A씨는 “구급대원분이 심정지 전 증상들이었다며 정말 천운이었다고 말씀해주셨다. 죽을 뻔한 고비를 김 경위님 덕분에 살아 내려와 말로도 표현하지 못할 정도로 감사드린다”고 전했다.&lt;br&gt;&lt;br&gt;김 경위는 “그 당시에는 제복 입은 사람이라면 누구나 그렇게 했을 것 같다”며 “팔을 다쳐 수술을 하고 재활 중인 상황인데, 당시 너무 급박하다 보니 아픈 것도 몰랐다. 그러다 나중에 조금 통증이 왔다”고 말했다.&lt;br&gt;&lt;br&gt;김 경위는 과거 도주하는 불법 체류 중국인을 검거하는 과정에서 우측 손목 인대 부근이 파열되는 부상을 입었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>보수 교육감 단일화, 또 물건너가나... 이번엔 방식 놓고 분열</title>
-      <link>https://www.chosun.com/national/education/2024/09/23/VNENTLDE4VET3BNF25MMCF6XRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/09/23/VNENTLDE4VET3BNF25MMCF6XRQ/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Sep 2024 06:12:58 +0000</pubDate>
-      <content:encoded>서울시교육감 보궐선거 후보 등록일을 3일 앞두고, 보수 교육계는 후보 단일화를 놓고 진통이 계속되고 있다. 앞서 보수 교육계는 후보 단일화 기구를 ‘통합대책위원회’(통대위)로 합쳤으나, 통대위의 단일화 방식에 반발한 일부 보수 성향 시민사회단체가 독자적으로 단일 후보를 선출하겠다고 나선 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FXUNQ727XFKEFH7CBZBYEFLUKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 지하철 3호선 충무로역에 서울특별시 교육감 보궐선거 홍보물./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육계에 따르면, 최명복 전 서울시의원이 주도하는 ‘서울시보수교육감 후보단일화 선정위원회’(선정위)는 24일 서울 공군호텔에서 보수 교육계 후보들의 교육 정책을 검증하는 ‘공개 오디션’을 열고, 별도 여론조사를 진행해 단일 후보를 선출할 계획이다. 최 전 의원은 “통대위의 단일화 방식은 충분한 토론 없이 여론조사로만 후보를 뽑겠다는 것”이라며 “전직 교장 등 교육계 인사들로 구성된 선거인단을 통해 보수 교육감 후보를 검증해 선출하겠다”고 말했다. 그동안 통대위로 모아졌던 서울교육감 후보 단일화 논의가 다시 갈등을 빚고 있는 것이다.&lt;br&gt;&lt;br&gt;선정위는 김영배 성결대 교수, 안양옥 전 한국교총 회장, 조전혁 전 한나라당 의원, 홍후조 고려대 교수 등을 대상으로 오디션을 진행한다는 계획이다다. 선정위에 따르면, 후보 4명 중 2명이 단일화 경선에 참가하겠다는 의사를 밝힌 상태다.&lt;br&gt;&lt;br&gt;앞서 보수 교육계는 두 곳으로 나뉘어져 있었던 후보 단일화 기구를 통대위로 통합했다. 통대위는 ‘100% 여론조사’ 방식으로 최종 후보를 선출하겠다며 지난 21일 여론조사를 진행했다. 단일화 결과 발표만을 앞두고 있는 상황에서 다른 단일화 기구가 나타난 것이다.&lt;br&gt;&lt;br&gt;통대위 단일화 경선엔 보수 성향 후보 3명(안양옥·조전혁·홍후조)이 참여하고 있으나, 안양옥·홍후조 후보는 “여론조사 문항이 특정 후보에게 유리하게 짜여졌다”며 단일화 과정에 반발하고 있다. 경선에 참여한 한 후보는 “다른 단일화 기구에 참여하는 방안도 검토하고 있다”고 밝혀 단일화 일정이 미뤄질 가능성도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘40도 폭염’ 적중한 기후 학자 “올겨울 영하 18도 한파 가능성”</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/23/4P4PSUJL7FC4ZKNEUQYOSNTYHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/23/4P4PSUJL7FC4ZKNEUQYOSNTYHU/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Sep 2024 05:02:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YEXSWKGZSJP2NBSBKRABVGG4IU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;절기상 낮과 밤의 길이가 같아진다는 추분(秋分)인 22일 오후 서울 종로구 광화문 광장에 마련된 서울야외도서관 광화문 책마당. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올 여름 폭서를 예측한 기후 학자가 이번 겨울 극한 한파를 예상해 이목을 끈다. 이 학자는 11월 초까지 더위가 이어지다 이후 급격하게 추워지면서 올해는 ‘가을다운 가을’이 없을 것이라고도 내다봤다.&lt;br&gt;&lt;br&gt;김해동 계명대 환경공학과 교수는 23일 CBS 라디오 ‘김현정의 뉴스쇼’에 나와 이번 겨울 날씨 전망을 묻는 진행자 질문에 “이번 겨울은 많이 추울 것으로 본다. 비교를 하자면 2021, 2022년 겨울하고 이번 겨울이 비슷비슷한 패턴일 것”이라고 말했다.&lt;br&gt;&lt;br&gt;김 교수는 “지금 이번 가을이 끝나고 겨울로 접어들면 라니냐 현상(태평양 감시 구역 수온이 평년보다 0.5도 이상 수온이 낮아지는 현상)으로 옮겨갈 가능성이 굉장히 높다”며 “그렇게 되면 우리나라와 북미 대륙, 두 쪽으로 북극 한파가 강하게 내려올 가능성이 상당히 높다”고 했다.&lt;br&gt;&lt;br&gt;김 교수는 “과거 미국 텍사스에서 영하 18도 이상 떨어지는 추위로 수돗물도 안 나오고 전기도 안 되는 일이 벌어졌다”며 “그때가 2021, 2022년인데 그때 겨울과 올해 겨울이 비슷할 것으로 전망한다”고 했다. 미국이 겪은 ‘텍사스 한파’와 유사한 한파가 이번 겨울 우리나라에서 벌어질 수 있다는 것이다.&lt;br&gt;&lt;br&gt;김 교수는 또 “올해 같은 경우는 가을다운 가을을 거의 볼 수 없을 것”이라고도 내다봤다. 그는 “당장 내일부터 거의 30도 가까운 고온이 또 이어진다. 이것이 적어도 11월 초순까지는 갈 것”이라며 “이런 더위가 적어도 11월 초순까지는 갈 것이다. 그리고 그 이후에 갑자기 추워질 것으로 보인다. 그러면 가을은 거의 없는 거나 마찬가지”라고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
