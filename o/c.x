@@ -13,6 +13,100 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>의협 젊은의사들 “불법 의료행위 감시 강화하고, 의사확인제 도입하자”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/09/24/AXKL3UMVLFA4JDZUXNPCVDCSKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/24/AXKL3UMVLFA4JDZUXNPCVDCSKE/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Sep 2024 09:26:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PIGCE5UUOZMQJN2OPOIAYJBBVY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;채동영 대한의사협회 홍보이사 겸 부대변인이 24일 오후 서울 용산구 의협 회관에서 기자회견을 열고 '젊은의사 정책자문단' 정책 제안 내용을 발표하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 출범한 대한의사협회(의협) 내 ‘젊은의사 정책자문단’이 대리 시술 등 의사의 불법 의료 행위 감시를 강화하고 시술 의사 신분을 확인할 수 있는 제도를 도입하자고 제안했다.&lt;br&gt;&lt;br&gt;젊은의사 정책자문단은 24일 오후 4시 서울 용산구 의협 회관 지하 1층 대강당에서 기자회견을 열고 이 같은 내용이 담긴 정책을 제안했다. 지난달 출범한 젊은의사 정책자문단은 10여 명의 의대생과 사직 전공의들로 구성됐다. 채동영 홍보이사 겸 부대변인은 “기존 의협의 방식과 문법에서 벗어나 새로운 시각으로 이해 충돌이 없는 중립적인 정책, 젊은 발상의 참신한 정책들을 제안하고 이를 통해 바른 의료가 구현될 수 있도록 하기 위해 설립됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;젊은의사 정책자문단은 의협 내부에 불법 무면허 의료 행위 등을 감시하는 중앙윤리위원회가 있음에도 징계 사유가 ‘품위 유지 의무 위반’으로 한정돼 있고, 실질적으로 부과할 수 있는 불이익이 회원 정지 등에 한정돼 있다고 꼬집었다. 그러면서 의협이 운영 중인 ‘간호사 불법 진료 신고 센터’를 불법 의료 행위 감시 기구로 확대 개편해 상시 운영하고, 자체 조사해 관리 감독하자고 했다.&lt;br&gt;&lt;br&gt;또 의료 시술을 받는 사람이 시술하는 의사의 신분을 확인하고, 무면허 의료 행위가 아님을 보장받을 수 있도록 QR 코드와 의료인 명찰 등을 이용한 ‘의료인 공시 제도’를 도입하자고 했다. 각 의료 기관에서는 의사 면허증을 의무적으로 게시해 피시술자가 QR 코드로 확인한 정보와 시술자 정보를 교차 검증할 수 있도록 하자고도 했다.&lt;br&gt;&lt;br&gt;채 이사는 “젊은 의사들이 선제적으로 자정 작용에 대한 목소리를 내는 것은 앞으로 우리가 낼 정책 제안들에 대한 신뢰를 높이는 데 큰 역할을 할 것”이라며 “앞으로 전공의를 비롯한 젊은 의사들과 의대생들의 목소리가 협회 내에서 보다 높은 비중으로 자리잡을 수 있도록 활동 반경을 넓혀나갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;다만 의대 증원 정책 등 현안에 대해선 “의대 정원은 정치적 요소가 많아 정책자문단에서 할 만한 일은 아니다”라고 선을 그었다. 이어 “당장은 저희에게 다른 의도가 없다는 것을 보여드리고자 하지만, 수련 제도 문제 등은 정책자문단도 논의해야 할 내용”이라고 했다. 여야의정 협의체 참여와 관련해선 “정부가 약속을 지키고 의사들이 신뢰할 수 있도록 하는 게 가장 중요하다”고 했다.&lt;br&gt;&lt;br&gt;한편 의협 측은 집단 행동에 참여하지 않은 의사 신상을 공개한 ‘블랙리스트’ 작성자에 대해 “명백한 불법 행위라고 하면 잘못된 것이 맞지만, 지금 조사나 구속 과정은 부당할 정도로 과하다”고 했다. 의사 회원들이 블랙리스트 작성자에 후원한 것에 대해선 “지원의 의도나 규모를 추측할 수 없다”며 별다른 입장을 내지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>"공천 받게 해줄게" 1억원 가로챈 前언론인 1심 징역 2년</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/24/UYF43Q2OXVAJ7BFDJVCQZJVFRM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/24/UYF43Q2OXVAJ7BFDJVCQZJVFRM/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Sep 2024 09:22:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NZNZRZIOFZE47JEH7UJYA5XLKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지법, 서울고법 전경. /박강현 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 22대 총선에서 대통령 영부인, 유력 정치인들과의 친분을 이용해 공천을 받게 해주겠다고 속여 1억여 원을 가로챈 전직 언론인이 1심에서 실형을 선고받았다.&lt;br&gt;&lt;br&gt;24일 법조계에 따르면, 서울중앙지법 형사21부(재판장 허경무)는 공직선거법 위반과 사기 혐의로 기소된 전직 여성 언론인 A씨에게 징역 2년을 선고했다. A씨에게 금품을 건넨 혐의 기소된 B씨에게는 징역 1년에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 총선을 앞둔 올해 1∼2월 경북 구미갑 지역구 공천을 받게 해주겠다며 B씨에게 3억원을 요구하고, 1억200만원을 실제로 받아 가로챈 혐의로 재판에 넘겨졌다. B씨는 박근혜 정부 청와대 선임행정관을 지낸 뒤 구미 지역에서 수년 간 여러 선거에 출마했지만 당선되지 못한 상황이었다.&lt;br&gt;&lt;br&gt;A씨는 “영부인을 통해 B씨를 (공천에) 추천했다” “현직 의원을 컷오프 시키면 단수공천 가능성이 있다”면서 B씨를 속인 것으로 조사됐다. 하지만 A씨의 휴대전화를 포렌식한 결과, 현직 의원들에게 B씨를 추천한 메시지는 있었지만 공천을 확답 받거나 대가를 수수하는 내용의 대화는 없었던 것으로 조사됐다. 이에 재판부는 A씨가 실제로 단수 공천을 받아줄 의사와 능력이 없었다고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 “A씨의 행동은 공정하고 투명해야 할 후보자 추천이 대통령실, 영부인이나 일부 유력 정치인을 통해 돈으로 좌지우지될 수 있다는 인식을 불러일으킬 수 있는 범죄로 엄히 벌하지 않을 수 없다”고 밝혔다. B씨에 대해서는 “A씨를 사기죄로 고소한 뒤 자수서를 냈다”면서 양형에 유리하게 참작한다고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경부고속도로 서초IC 인근 버스 화재...인명피해 없어</title>
+      <link>https://www.chosun.com/national/incident/2024/09/24/UKWJDDV7CZGZ5M654JE6FP2V64/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/24/UKWJDDV7CZGZ5M654JE6FP2V64/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Sep 2024 09:20:06 +0000</pubDate>
+      <content:encoded>퇴근길 경부고속도로 서초IC 인근에서 화재가 발생해 운전자를 포함한 15명이 대피했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7FA3M2FJ7BEJHPYSKWVQVGPV74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 오후 5시 31분 경부선 서초IC 부근 상행선에서 화재가 발생해 운전자를 포함한 15명이 대피했다. /국토교통부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I42UGXRZUFAXVKJ7HJ4WHBWPCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 오후 5시 31분 경부선 서초IC 부근 상행선에서 화재가 발생해 퇴근길 정체가 발생했다. /국토교통부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소방당국에 따르면 24일 오후 5시 31분쯤 경부고속도로 서초IC 부근 상행선을 달리던 버스 후미에서 화재가 발생했다. 소방당국은 10분만에 화재를 진압했고 버스 안에 타고 있던 버스기사 포함 승객 15명은 전원 대피했다. 화재 여파로 사고 지점 인근에서는 정체가 이어지고 있다.&lt;br&gt;&lt;br&gt;소방당국은 엔진에서 불이 시작된 것으로 보고 정확한 화재원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>촬영 중 건강이상 왔던 이순재 “눈 안 보여, 대본 글씨 키워 봤다”</title>
+      <link>https://www.chosun.com/national/people/2024/09/24/LSGNGL2MONB4RIORJBJBVIU75U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/24/LSGNGL2MONB4RIORJBJBVIU75U/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Sep 2024 09:19:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WH3RWSU7X5AIRJ3OLXC5J2KJGI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이순재가 출연하는 KBS 드라마 '개소리'. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연기 경력 69년 차 대배우 이순재(89)가 드라마 촬영 중 겪었던 건강 이상을 털어놨다.&lt;br&gt;&lt;br&gt;이순재는 24일 KBS 2TV 새 수목드라마 ‘개소리’ 온라인 제작발표회에서 오랜만에 안방극장 복귀를 선택한 이유와 촬영 도중 경험한 건강 악화를 고백했다. 이날 함께 출연한 배우 김용건(78)은 “후반에 이순재 선생님 건강이 안 좋아 모두가 많이 걱정했는데 극복했다”며 말문을 열었다.&lt;br&gt;&lt;br&gt;김용건은 “눈이 잘 보이지 않음에도 대사를 큰 글씨로 프린트해 외워 오시고 리허설도 철저히 하셨다”며 “‘이 작품을 해내겠다’는 완고한 모습을 봤고 촬영장에서 모든 이에게 귀감이 돼 재무장할 수 있는 계기를 주셨다. 작품을 잘 끝내 큰 박수를 보내드리고 싶다”고 했다.&lt;br&gt;&lt;br&gt;이에 이순재는 “어차피 대사는 다 외워야 한다. 대사를 못 외우면 배우가 아니다. 배우마다 편차가 있을 뿐 대사 암기는 당연한 것”이라며 “그래야 드라마가 제대로 된다. 우리는 평생 해온 일이라 숙달이 돼 있다. 글씨를 크게 써서 미리 외워갔다”고 말했다.&lt;br&gt;&lt;br&gt;김유진 감독이 연출하고 변숙경 작가가 극본을 쓴 ‘개소리’는 경찰견 출신 ‘소피’와 함께 그리는 노년 성장기다. 이순재가 연기하는 극 중 ‘이순재’는 대한민국 대표 배우지만 특정 사건에 휘말려 갑질 배우로 전락한다. 김용건, 예수정, 임채무, 박성웅, 김지영 등 레전드급 배우들이 대거 출연한다.&lt;br&gt;&lt;br&gt;이순재는 “작품이 뜸했다. 제안이 왔을 때 두말없이 오케이했다”며 “최초의 시도다. 애완동물 드라마는 있었지만 개와 인간이 직접 소통해 사건을 해결하는 게 처음이라 흥미로웠다”고 했다. 이어 “여성 작가인데 추리력이 강하다. 베테랑들과 함께해 뒷배도 든든하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 이순재는 지난 7월 출연한 채널A 시사·교양 프로그램 ‘절친 토큐멘터리 4인용 식탁’에서도 남몰래 겪었던 건강 문제를 털어놓은 바 있다. 그는 “연극 ‘리어왕’을 하면서 몸무게가 10㎏이나 빠졌다”며 “잘 버텼는데 목욕탕에서 쓰러졌다. 당시 ‘아, 이건 내 인생 끝이구나’ 생각했었다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “병원 응급실에 갔더니 머리는 괜찮다고 하더라. 일어나서 한 달도 안 돼서 약속된 드라마를 찍기 시작했다”며 “촬영을 6개월 이상 강행했더니 결국 눈에 무리가 와서 백내장 수술을 했다”고 했다. 이때 이순재는 시력 회복이 덜 된 상황에서도 제작사 측 사정을 고려해 “내 표정만 잘 보이면 촬영 하자”며 연기 투혼을 펼친 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>신학림 측, ‘대선 허위 인터뷰’ 첫 공판서 “尹대통령 증인 신청 필요”</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/24/BSMNR2Y6TRGC7N62IUIZIFYI4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/24/BSMNR2Y6TRGC7N62IUIZIFYI4A/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Sep 2024 08:38:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W6B2UPFB7RGWQM7SHXTEGLZJ5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 대선 직전 윤석열 대통령의 명예를 훼손할 목적으로 허위 인터뷰를 한 혐의를 받는 화천대유대주주 김만배(왼쪽)씨와 신학림 전 언론노조위원장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 대선 국면에서 대장동 사건과 관련한 허위 인터뷰로 윤석열 대통령의 명예를 훼손한 혐의를 받는 화천대유자산관리 대주주 김만배씨와 신학림 전 언론노조 위원장에 대한 1심 첫 공판에서 검찰이 재판부로부터 “공소사실 요지에 부적절한 내용이 많다”는 취지로 지적을 받았다. 신씨 측은 “윤 대통령에 대한 증인신청과 사실조회가 필요하다”고 주장했다.&lt;br&gt;&lt;br&gt;이 사건을 심리 중인 서울중앙지법 형사21부의 재판장 허경무 부장판사는 24일 “제가 공판준비기일에서 이건 공직선거법상 허위사실 공표죄로 기소된 게 아니기 때문에 공소사실 기재를 수정해야한다고 거듭 말씀드린 바 있다”면서 “오늘 공소사실 요지에 대해서 얘기하는 상황에서 이 사건을 전체적으로 아우르는 형태로 설명을 하는 것은 이해가 되지만 여전히 주객이 전도됐다는 느낌을 받는다”라고 말했다.&lt;br&gt;&lt;br&gt;앞서 재판부는 1차 공판준비기일에서 사건의 핵심인 윤 대통령에 대한 명예훼손과 관계가 없는 간접 정황이 공소장에 너무 많이 포함돼 있다고 지적한 바 있다. 명예훼손 사건인데도 마치 공직선거법상 허위사실 공표죄 공소장을 보는 것 같다고 했다. 검찰은 이를 감안해 공소장을 대폭 수정했다.&lt;br&gt;&lt;br&gt;그러나 검찰은 이날 비슷한 내용을 언급했고, 결국 재판부로부터 “현 상태의 PPT(파워포인트 프레젠테이션) 내용을 가지고 공소요지 진술을 하는 것은 좀 문제가 있다. 살펴봤더니 공소장에 들어가 있지 않은 내용도 PPT에 있는 것들이 있다”며 검찰이 공소장을 단순 낭독할 것을 주문했다. 재판부는 “공소장 변경을 했음에도 불구하고, 공소사실 요지는 과거의 것을 기준으로 설명하고 있는 느낌이 든다”고 했다. 검찰은 “말씀주신 부분은 저희 입장에선 필요하다고 생각해서 넣었다”면서도 재판부의 지시를 따랐다.&lt;br&gt;&lt;br&gt;이 사건에서 김씨와 신씨 등은 배임수‧증재, 정보통신망법상 명예훼손, 청탁금지법 위반 등 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q2AFKYOTIFCJPO4YJ5L6ZMYQHI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김씨와 신씨는 2021년 9월 15일 ‘윤석열 당시 국민의힘 대선 후보가 대검 중수2과장이던 시절 대장동 대출 브로커 조우형씨의 수사를 무마해줬다’는 취지의 허위 인터뷰를 진행했고, 인터뷰 닷새 뒤인 20일 김씨가 그 대가로 신씨 책 ‘대한민국을 지배하는 혼맥지도’ 3권 값 명목으로 위장해 1억6500만원을 줬다는 것이 검찰의 판단이다. 검찰은 김씨와 신씨가 사전에 공모해 가짜 인터뷰를 보도해 선거에 영향을 미치려고 한 것으로도 보고 있다. 실제로 뉴스타파 등 언론사가 대선을 며칠 앞두고 이러한 내용을 보도하기도 했다.&lt;br&gt;&lt;br&gt;검찰 측은 “피고인들은 대통령 선거 결과에 영향을 미치려는 의도로 가짜뉴스를 생산 및 유포함으로써 국민의 알권리는 물론이고 대의민주주의의 실현이라는 헌법 가치도 훼손했다”고 말했다.&lt;br&gt;&lt;br&gt;반면 신씨 측 변호인은 “이 사건은 대통령 하명수사”라며 “이런 면에서 공소권 남용”이라고 했다. 그러면서 “이 사건은 반의사 불벌죄이기 때문에 피해자라고 자처하는 윤 대통령의 처벌에 대한 의사를 분명히 확인해야 한다”며 “윤 대통령에 대한 증인 신청과 사실 조회가 필요하다”고 말했다. 명예훼손죄는 반의사 불벌죄로 피해자가 처벌을 원하지 않으면 기소할 수 없다.&lt;br&gt;&lt;br&gt;이 재판 다음 기일은 내달 22일로 잡혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대청도 특정해역서 불법조업 중국어선 4척 나포</title>
+      <link>https://www.chosun.com/national/incident/2024/09/24/IMEBWFA5IZHIFLXV4WNLLHKAZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/24/IMEBWFA5IZHIFLXV4WNLLHKAZQ/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Sep 2024 08:53:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A4LQCD3O2KS42YE4TEONURMZ6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중부해경청이 24일 경제수역어업주권법 위반 혐의로 나포한 중국어선./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 대청도 특정해역에서 불법으로 조업하던 중국어선들이 해양경찰에 나포됐다.&lt;br&gt;&lt;br&gt;중부지방해양경찰청은 경제수역어업주권법 위반 혐의로 중국어선 4척을 나포했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;해경이 나포한 중국어선 4척은 이날 오전 4시쯤 인천시 옹진군 대청도 남서쪽 특정해역을 약 16㎞ 침범해 불법 조업한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;어선들은 짝을 지어 그물을 끄는 쌍타망 방식으로 조업하다 적발됐다. 적발된 어선들은 쇠창살과 나무 구조물 등을 선박에 설치하고 도주했으나, 결국 나포됐다.&lt;br&gt;&lt;br&gt;나포된 4척의 어선 중 430t급 어선 2척엔 50대 선장 A씨와 30대 선장 B씨 등 31명이, 120t급 2척엔 모두 29명이 각각 타고 있었다.&lt;br&gt;&lt;br&gt;이들 어선은 당시 까나리를 잡고 있었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;해경은 나포 어선에 각각 3억 원의 담보금을 부과할 예정이다. 담보금 납부 여부에 따라 나포 어선들을 인천해경 전용부두로 압송할지 정할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘티메프 미정산 사태’ 수사하는 검찰, 김효종 큐텐테크 대표 조사</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/24/OCIPKE72PBB4LI5B7DDJFDEQL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/24/OCIPKE72PBB4LI5B7DDJFDEQL4/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Sep 2024 08:49:10 +0000</pubDate>
+      <content:encoded>티메프(티몬‧위메프)의 ‘대규모 미정산 사태’를 수사 중인 검찰이 티몬‧위메프의 법인인감‧계좌 등을 관리한 의혹을 받는 큐텐테크놀로지 대표와 큐텐그룹 재무본부장을 24일 소환했다. 김효종 큐텐테크놀로지 대표가 이 사건으로 검찰 조사를 받는 것은 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PEWE5GT6PWXKT4GEMUKRO3JNSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검 앞 전경. / 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울중앙지검 전담수사팀(팀장 이준동 반부패1부장)은 이날 김 대표와 이시준 큐텐 재무본부장을 소환해 조사 중이다. 검찰은 수사 과정에서 별개 법인인 큐텐테크놀로지가 티몬‧위메프의 재무기능을 실질적으로 맡은 정황을 확보한 것으로 알려졌다. 이날 김 대표와 이 본부장을 상대로 큐텐그룹과 티몬‧위메프의 재무 관리가 어떻게 이뤄졌는지를 비롯해, 계열사 간 자금 돌려막기가 이뤄진 정황과 구영배 큐텐 대표의 지시 여부 등을 묻는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;큐텐테크놀로지는 미정산 사태가 발생한 티몬, 위메프, 인터파크커머스의 재무·법무 등을 총괄한 ‘컨트롤타워’로 알려진 곳이다. 큐텐테크놀로지는 티몬‧위메프의 법인인감‧계좌 등을 관리하면서 자체적으로 용역 계약을 체결했다는 의혹을 받고 있다. 티몬‧위메프의 자금이 큐텐테크놀로지의 의사에 따라 유출됐다는 것이다. 류광진 티몬 대표는 지난 19일 검찰에 피의자 신분으로 조사받기 위해 출석하면서 “제가 갖고 있지 않은 법인 도장이 찍힌 것이 사실”이라고 말한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“바늘로 죽인 뒤 제공, 사후 경련일 뿐”… ‘발버둥 랍스터’ 식당 해명</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/24/R4Q6NRR6UFA3VI34TFPBPAKO6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/24/R4Q6NRR6UFA3VI34TFPBPAKO6U/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Sep 2024 08:27:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OE6ACITJRFBVPKTLZ2O5VL2JNI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;움직이는 절단 랍스터. /온라인 커뮤니티
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;몸통이 절단된 채 움직이는 바닷가재(랍스터)를 손님상에 올려 논란이 불거진 서울의 한 식당이 제공 방식에 대해 ‘이미 죽은 랍스터가 사후 경련을 일으키는 것’이라는 취지로 해명했다.&lt;br&gt;&lt;br&gt;랍스터 전문 A식당은 23일 인스타그램에 “바늘로 랍스터를 죽인 후 몸통을 자른 다음 머리를 세우면 바닷물과 핏물이 빠져서 더 맛있는 랍스터 그릴이 완성된다”며 “랍스터가 움직이는 건 사후 경련 현상”이라고 했다.&lt;br&gt;&lt;br&gt;A식당은 “특별한 날 방문해 주시는 고객님께 기대치 못한 즐거움을 드리기 위해 왕관을 씌우고 축하 이벤트를 해드린다”며 “세상 가장 아름다운 감동을 주는 유일무이한 랍스터 매장이 되고 싶다”고도 했다.&lt;br&gt;&lt;br&gt;A식당은 몸이 절단된 채 움직이는 랍스터를 손님상에 올려 손질 및 제공 방식이 비윤리적이라는 비판이 제기됐던 곳이다. SBS플러스 데이팅프로그램 ‘나는 솔로’를 통해 인연을 맺은 커플이 이곳에서 식사하는 모습의 영상이 ‘인스타에서 너무하다고 난리 난 랍스터 식당’ 등의 제목으로 온라인상에 퍼지면서 논란이 확산했다. 영상을 자세히 보면, 랍스터 머리에는 왕관이 씌워져 있고, 양쪽 집게에는 각각 편지와 꽃이 끼워져 있었다.&lt;br&gt;&lt;br&gt;바닷가재나 게, 문어, 오징어 등과 같은 무척추동물도 고통을 느낀다는 연구 결과도 나온 만큼 인도적인 방식으로 조리해야 한다는 목소리가 나왔다. A식당은 이번에 올린 게시물을 통해 이 같은 지적을 해명한 것으로 보인다.&lt;br&gt;&lt;br&gt;한편 일부 유럽 국가는 조리 과정뿐만 아니라 바닷가재를 보관하는 방식 등에도 엄격한 동물보호법을 적용 중이다. 스위스는 2018년 갑각류를 산 채로 요리하는 것은 물론, 바닷가재를 얼음 위에 올려 운반하는 것도 금지했다. 이를 어길 시에는 형사 처벌 대상이 된다. 이탈리아 대법원은 2017년 바닷가재의 집게를 끈으로 고정하고 얼음 위에 올려둔 피렌체의 한 레스토랑에 5000유로(약 740만원)의 벌금을 물리기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4Y3IDJXNPJAPHI3WNPVI6UVM7Y.gif?width=281&amp;height=500&amp;auth=589d26988e6f02920b45e28a7fcc3fa9316e43bc34055a3ec5e7c56eae98ac0d&amp;smart=true" type="image/jpeg" height="500" width="281">
+        <media:description type="plain">손님 상에서 움직이는 절단 랍스터./온라인커뮤니티</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>아들 셋, 딸 둘… 다섯 쌍둥이 ‘팡팡 레인저’가 태어났어요</title>
+      <link>https://www.chosun.com/culture-life/culture_general/2024/09/21/GTFPNMGSYRHS7GC7ULQAIBJNFU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2024/09/21/GTFPNMGSYRHS7GC7ULQAIBJNFU/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 20 Sep 2024 20:04:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WXNLQK2OJRM5PDKVC5Y7HM6WB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울성모병원은 20일 낮 남자아이 3명과 여자아이 2명의 '오둥이'가 건강하게 태어났다고 밝혔다. 사진은 오둥이의 초음파 사진. /서울성모병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다섯쌍둥이가 20일 오전 서울 반포동 서울성모병원에서 태어났다. 국내에서 시술이 아닌 자연 임신으로 다섯쌍둥이가 출생한 것은 처음이다.&lt;br&gt;&lt;br&gt;산모 사공혜란(30)씨의 키는 150cm 정도다. 왜소한 엄마 배에서 이날 오전 11시 37분 첫째 ‘그린(태명·아들)’이 나왔다. 이후 6분간 ‘블루(아들)’, ‘옐로(아들)’, ‘핑크(딸)’, ‘레드(딸)’가 순서대로 태어났다. 세계적인 아동 액션물 파워레인저에 나오는 5인조 영웅의 전투복 색깔로 태명을 지었다. 아버지 김준영(31)씨는 “12월 예정일보다 3개월 먼저 나온 아이들의 몸무게는 1kg이 채 안 된다”며 “파워레인저 용사들처럼 씩씩하고 건강하게 자랐으면 한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/75VZMHI2AZFYHKDMWQ2LFYSQPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/사공혜란씨 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사공씨는 교육공무원, 김씨는 교사다. 이들은 올 2월 살고 있는 경기도 동두천의 한 산부인과에서 초음파 영상으로 다섯쌍둥이를 처음 만났다. 다태아 임신·출산은 합병증 발생 확률이 높다. 사공씨도 고혈압 등의 문제로 임신 27주째에 제왕절개 수술을 해야 했다.&lt;br&gt;&lt;br&gt;그를 진료하던 서울 이대목동병원 전종관 교수는 지난 14일쯤 시설 등에서 좀 더 여유가 있던 서울성모병원으로 전원(병원 옮김) 요청을 했고, 사공씨는 출산 전날인 19일 긴급 이송됐다. 이 병원 산부인과 홍수빈 교수, 소아과 윤영아·신정민 교수 등 7~8명의 전문의가 사공씨를 마크했다. 홍수빈 교수는 “머릿속으로 가상 수술을 수도 없이 했다. 오늘도 수술하는 꿈을 꾸다가 새벽에 깼다”며 “산모와 아이들이 별 탈이 없어 감사할 따름”이라고 했다. ‘파워레인저 5남매’는 현재 신생아 집중치료실에 있다. 아버지 김씨는 “다섯 배로 기쁜 것 같다”고 했다. 서울성모병원 측은 “병원 전체가 경사 분위기”라고 했다.&lt;br&gt;&lt;br&gt;다자녀들은 별도의 양육비, 의료비, 국가장학금 지원과 주택 특별공급, 자녀 세액공제, 국민연금 출산 크레디트 등 혜택이 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>창덕궁 후원에 90㎏ 멧돼지 출몰…수색 끝에 사살</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/24/NJBZHBVGMJCG5MDUBHL4NOWVFQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/24/NJBZHBVGMJCG5MDUBHL4NOWVFQ/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Sep 2024 08:26:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SGWL5O6UTZO2ZD2DTIIXU22U3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창덕궁에 멧돼지가 나타나 수색을 벌인 끝에 사살됐다. 24일 국가유산청 궁능유적본부에 따르면 창덕궁관리소는 멧돼지포획단과 함께 이날 오후 1시쯤 창덕궁 후원 선원전 일대에서 멧돼지 1마리를 사살했다. /국가유산청 궁능유적본부 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 종로구 창덕궁에 나타난 멧돼지가 24일 사살됐다. 관람객 출입이 통제됐지만 멧돼지 출몰 상황이 마무리되면서 25일부터는 정상 관람이 이뤄진다.&lt;br&gt;&lt;br&gt;국가유산청 궁능유적본부에 따르면, 창덕궁관리소는 멧돼지포획단과 함께 이날 오후 1시쯤 창덕궁 후원 선원전 일대에서 멧돼지 1마리를 사살했다.&lt;br&gt;&lt;br&gt;창덕궁관리소 관계자는 “지난 22일 상황실 방범카메라로 멧돼지 1마리가 후원을 돌아다니는 모습을 확인했다”며 “휴궁일인 23일 수색 작업을 했으나 멧돼지를 찾지 못해 24일 오전 10시부터 후원 관람을 중지시키고 예약을 취소했다”고 했다.&lt;br&gt;&lt;br&gt;관리소와 포획단 관계자들은 오전 11시부터 사냥개를 동원해 포획 작업에 다시 나섰고 약 2시간 만에 멧돼지 1마리를 발견해 사살했다. 멧돼지는 약 1.5ｍ 크기로, 몸무게는 약 90㎏였다.&lt;br&gt;&lt;br&gt;궁능유적본부는 그 뒤 홈페이지 공지를 통해 “후원 내 멧돼지 출몰 상황 조치 완료에 따라 후원 관람이 내일부터 정상운영된다”고 알렸다.&lt;br&gt;&lt;br&gt;창덕궁 후원에는 2009년과 2012년, 2013년에도 멧돼지가 출현한 적이 있다. 2022년에는 멧돼지 출몰로 궁궐을 활용한 인기 행사인 ‘창덕궁 달빛기행’이 취소되기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>”법대로” 소송 1년새 50만건 증가… 이혼은 줄고 소년사건 늘어</title>
       <link>https://www.chosun.com/national/court_law/2024/09/24/QBAKW65XK5HVPICZUXO7MDRD7Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/24/QBAKW65XK5HVPICZUXO7MDRD7Q/</guid>
@@ -792,44 +886,6 @@ A 씨는 지난 5월 3일 일당 2명과 태국 방콕의 클럽에서 한국인
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A5ZKRGOBOID3QHR6K2XVBMDIE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부 청사 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김석우(52·사법연수원 27기) 신임 법무차관이 “국민이 체감하는 정책을 실행하기 위해서 현장의 목소리를 많이 들어달라”고 당부했다.&lt;br&gt;&lt;br&gt;김 차관은 23일 정부과천청사에서 열린 취임식에서 “현장에 어떤 노력이 있는지를 살펴봐달라”며 이렇게 밝혔다. 상호 소통과 초심도 강조했다.&lt;br&gt;&lt;br&gt;김 차관은 구체적인 정책 추진 사항으로 “전자주주총회를 통해 주주의 권리를 실효적으로 보장할 수 있는 제도를 모색하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;그는 직원들에게 “여러분이 출근할 때 보는 ‘공정하고 따뜻한 법치 행정’이라는 글자에 다 들어있다고 생각한다”며 “장관을 잘 도와 공정하고 따뜻한 법치 행정을 이뤄가도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;김 차관은 박성재 법무부 장관이 서울중앙지검장이었던 2015년에 특수3부장을 맡았다. 이른바 ‘검수완박’ 위헌소송에 대응하기 위해 만들어진 법무부 헌법쟁점연구TF팀장을 지냈고, 작년 2월 검사장(법무부 법무실장)으로 승진했다. 5개월 만인 작년 7월 고검장(법무연수원장)으로 승진했고 이번에 자리를 옮겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>정부 ‘지역특성 MBTI’ 발표에 시민들 “황당”</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/23/FIQ5CPX6KZBGVICKO4IKHNL66E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/23/FIQ5CPX6KZBGVICKO4IKHNL66E/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Sep 2024 09:50:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NT7ROUY6ZLPDPZYC6QKBY3UBDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;행정안전부가 발표한 '지역 특성 MBTI' 설명 표. /행정안전부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부와 건축공간연구원이 23일 발표한 ‘지역특성 MBTI’ 분석 결과가 소셜 미디어 등을 중심으로 논란을 빚고 있다.&lt;br&gt;&lt;br&gt;‘지역특성 MBTI’는 젊은 세대를 중심으로 유행하는 성격 유형 검사인 MBTI을 본떠 만들었다. ‘내향/외향적 성격’, ‘감각/직관적 성격’ 등을 분류하는 MBTI 성격 검사와는 내용이 다르다.&lt;br&gt;&lt;br&gt;지역특성 MBTI는 인구, 입지, 지역 가치, 특수성 등 4가지 조합을 통해 전국의 인구감소지역 89곳의 특성을 분석했다. 지역 주민 6874명을 대상으로 한 설문조사 등을 통해 만들었다.&lt;br&gt;&lt;br&gt;행안부에 따르면 인구감소지역의 57.3%(51곳)이 ‘INTP’에 해당했다. INTP 지역은 ‘안정적 거주환경을 중심으로 이웃 간 친밀성이 높고(I)’, ‘특정 시기에 지역행사를 통해 방문객이 집중되고(P)’, ‘우수한 자연자산과 전통 유산을 보유해 이를 관광자원으로 활용하며(N)’, ‘전통 가치를 중시하는 특징(T)’을 지닌다고 한다.&lt;br&gt;&lt;br&gt;외부인에 대한 포용력이 높으며 특정 시기에 지역행사와 방문객이 집중되는 등의 특징을 지닌 ‘ENTP’(26곳), 우수한 자연자산을 관광자원으로 활용하고 지역을 대표하는 산업이 발달한 특성이 있는 ‘INFP’(9곳)가 뒤를 이었다.&lt;br&gt;&lt;br&gt;지역 주민들이 희망하는 미래상은 ESTP·ENTP(각 19곳), ESFP(14곳), ESTJ(11곳) 순으로 많았다. 행안부는 각 지역이 원하는 지역의 모습을 만들 수 있도록 주기적으로 지역특성 MBTI 분석 자료를 배포할 예정이다.&lt;br&gt;&lt;br&gt;시민들 사이에서는 “황당하다”는 의견이 주를 이뤘다.&lt;br&gt;&lt;br&gt;이날 온라인 커뮤니티에는 “농담이 아니라 진짜 정부 발표라는 것이 황당하다”, “억지로 MBTI를 갖다 붙였다가 비웃음사기 딱 좋게 된 것 아니냐”, “엉뚱한 곳에 세금을 쓰는 것 아니냐” 등의 의견이 나왔다.&lt;br&gt;&lt;br&gt;행안부 관계자는 “MBTI는 관심을 끌기 위한 차원일 뿐 성격 검사와는 내용이 다르다”며 “연구원 자체 사업으로 정부 예산이 들지는 않았다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>옛 부산시장 관사 복합문화공간 변신</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/09/23/C23WXPPUYNDJXBIHHZLDVRIRMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/09/23/C23WXPPUYNDJXBIHHZLDVRIRMM/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Sep 2024 09:45:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VQP4CUWFE5ORZIEHEKFWSLFQFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 부산 수영구 남천동 옛 부산시장 관사였다가 복합문화공간으로 전면 개조된 도모헌 1층이 언론에 공개되고 있다./연합뉴스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 수영구 남천동 옛 부산시장 관사가 새단장을 거쳐 시민들에게 전면 개방된다.&lt;br&gt;&lt;br&gt;부산시는 24일 오전 옛 부산시장 관사를 ‘도모헌(열린행사장)’으로 개조해 개관식을 갖는다”고 23일 밝혔다. ‘도모헌’은 휴식과 만남, 신선한 아이디어까지 장르를 넘나들며 무엇이든 자유롭게 도모하는 공간이라는 의미를 담고 있다.&lt;br&gt;&lt;br&gt;옛 부산시장 관사는 1985년 전두환 전 대통령 지시로 부산 수영구 남천동 황령산 자락에 지어졌다. 현대 건축의 거장 고(故) 김중업 건축가가 설계했다. 시장 관사와 대통령 방문시 숙소 등으로 사용되다 1993년 민선 시장 출범 후 ‘처음엔 ‘‘부산민속관’으로 시민에 3년간 개방됐다.&lt;br&gt;&lt;br&gt;이후 시민 방문이 갈수록 줄어들고 개방 효과가 떨어지자 다시 관사 및 행사장으로 사용됐다. 그동안에도 관사 앞 야외정원을 개방하거나 안에 숲속어린이도서관을 지어 어린이들이 이용할 수 있게 하기도 했다. 그러다 박형준 시장이 2021년 4월 시장 취임 후 관사에 입주하지 않고 시민 품으로 관사를 돌려주겠다고 밝힌 뒤 내부 시설 등을 다 바꾸고 이번에 시민들에게 전면 개방됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YQDP6I35NJJALPJMPLOQ7I35RQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 부산 수영구 남천동 옛 부산시장 관사를 복합문화공간으로 개조한 도모헌 앞 정원과 광안리 앞바다 모습./연합뉴스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2층 건물 내부는 라운지, 공유오피스, 카페(모모스커피), 계단식강연장, 다목적공간, 컨퍼런스룸, 미팅룸 등으로 개조됐다. 강연장·컨퍼런스룸 등에선 부산학교, 부산스토리, 문화예술 아카데미, 글로벌 클래스, 스페셜티커피 교실 등의 강연 프로그램이 개설된다. 엄마와 아이가 함께 하는 정원가꾸기, 정원 꼬마탐험대 등 힐링 체험이나 가든 시네마, 가든 콘서트, 토요재즈 클럽 등 이벤트 프로그램들도 운영된다.&lt;br&gt;&lt;br&gt;박형준 시장은 “도모헌은 옛 시장관사를 창의적 복원을 통해 새로운 복합문화공간으로 거듭났다”며 “시민들이 일상의 쉼을 즐기고 새로운 영감과 활력을 얻는 공간으로 자리매김할 수 있도록 하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘어벤져스 출연’ 배우 수현, 사업가 남편과 5년만에 이혼</title>
-      <link>https://www.chosun.com/national/people/2024/09/23/5NBZSWHHSJEE5DI4MYJAUJRPU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/23/5NBZSWHHSJEE5DI4MYJAUJRPU4/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Sep 2024 09:21:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PD32PIKF2ZPYVKKI4AWDKS3DJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 수현. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어벤져스 시리즈를 통해 할리우드에 진출했던 배우 수현(본명 김수현‧39)이 결혼 5년 만에 사업가 남편과 이혼했다.&lt;br&gt;&lt;br&gt;23일 수현의 소속사 YG엔터테인먼트는 공식입장문을 통해 “수현씨는 신중한 논의 끝에 그간의 결혼 생활을 마무리하기로 결정하고, 원만한 합의를 거쳐 협의 이혼 절차를 마쳤다”라고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “두 사람은 각자의 길을 걷게 되었지만 서로를 응원하고 있으며 오랜 고민과 충분한 대화 끝에 결정한 사항인 만큼 악의적인 댓글과 추측성 보도는 자제해 주시기를 정중히 부탁드린다”라고 했다.&lt;br&gt;&lt;br&gt;수현은 지난 2019년 3살 연상의 사업가인 위워크 전 대표 차민근씨와 결혼했으며 슬하에 딸 한 명을 두고 있다.&lt;br&gt;&lt;br&gt;한편 수현은 지난 2006년 드라마 ‘게임의 여왕’으로 데뷔했으며 2015년 영화 ‘어벤져스: 에이지 오브 울트론’을 통해 할리우드에 진출하기도 했다. 이외에도 넷플릭스 시리즈 ‘경성크리처’, JTBC 드라마 ‘히어로는 아닙니다만’ 등에 출연했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘민주당 돈봉투 살포 핵심’ 송영길, 연내 1심 결과 나올듯</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/23/SVEOKRR6QNFTXKOTP7LA7QNVSA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/23/SVEOKRR6QNFTXKOTP7LA7QNVSA/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Sep 2024 09:22:38 +0000</pubDate>
-      <content:encoded>더불어민주당 전당 대회를 앞두고 ‘돈봉투’를 살포한 의혹의 정점으로 지목돼 재판을 받고 있는 송영길(61) 전 민주당 대표(현 소나무당 대표)에 대한 1심 재판 결과가 이르면 올해 안으로 나올 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NHKPF3BF6D2Y4CZ7FXPZN4ZTBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송영길 민주당 전 대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사건을 심리 중인 서울중앙지법 형사21부(재판장 허경무)는 23일 다음 기일(내달 2일)에 서류 증거에 대한 조사(서증 조사)를 한 뒤 “내달 말이나 11월 초에 최종절차(결심 공판) 진행이 가능하다”고 밝혔다.&lt;br&gt;&lt;br&gt;만약 예정대로 내달 2일 서증 조사가 끝나면 그 다음 기일인 21일엔 이른바 ‘이정근 녹취파일’이 위법수집 증거라는 것에 대한 송 전 대표 측과 검찰 측의 공방 시간이 주어질 것으로 보인다.&lt;br&gt;&lt;br&gt;다만 송 전 대표 측 변호인은 이전 절차가 얼마나 신속하게 마무리될지 장담할 수 없으니 23일에도 위법수집 증거 공방 기회를 할 가능성을 열어놓아야 한다고 요청했다.&lt;br&gt;&lt;br&gt;재판부는 “어차피 종결로 가고 있다”며 큰 틀에서 일정 변화는 없을 것이라고 예고했다.&lt;br&gt;&lt;br&gt;결심(結審)부터 선고까지 한 달 내외로 걸리는 점을 감안하면 선고 공판은 11월~12월 초중순쯤 열릴 전망이다. 연내에 1심 선고가 가능한 셈이다.&lt;br&gt;&lt;br&gt;송 전 대표는 2020~2021년 자신의 정치활동을 지원·보좌하는 외곽조직인 ‘평화와 먹고사는문제 연구소(먹사연)’을 통해 기업인 7명에게 불법 정치자금 및 뇌물 7억6300만원을 수수한 혐의, 2021년 5월 민주당 전당대회를 앞두고 경선캠프 조직을 이용해 ‘부외 선거자금’을 마련한 후 총 6000만원의 불법 정치자금을 수수하고 총 6650만원의 금품을 살포하는 조직적·대규모 ‘금권선거’를 주도했다는 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;지난 1월 구속기소된 송 전 대표는 지난 5월 재판부의 보석 허가에 따라 풀려나 현재는 불구속 상태로 재판을 받고 있다.&lt;br&gt;&lt;br&gt;앞서 돈봉투 전달 및 수수 과정 등에 개입한 혐의로 재판에 넘겨진 전·현직 민주당 의원들은 잇따라 유죄를 선고받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>단일화 여론조사 끝나자...교육감 보수 후보 2명 “무효” 주장</title>
       <link>https://www.chosun.com/national/education/2024/09/23/NWJ4QM6LGZG2LHLVB3RT3C2ZZU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/09/23/NWJ4QM6LGZG2LHLVB3RT3C2ZZU/</guid>
@@ -850,42 +906,6 @@ A 씨는 지난 5월 3일 일당 2명과 태국 방콕의 클럽에서 한국인
       <description/>
       <pubDate>Mon, 23 Sep 2024 08:51:29 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMLRKXSY6ZDSPGVSN75SNZYFAU.png"&gt;&lt;figcaption&gt;&lt;small&gt;유튜브 채널 '정호근쌤의 인생신당'에 출연한 전 국가대표 농구선수 한기범. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 국가대표 농구선수 한기범이 유전병 ‘마르판 증후군’으로 아버지와 남동생을 떠나보낸 사연을 털어놨다.&lt;br&gt;&lt;br&gt;한기범은 지난 18일 유튜브 ‘정호근쌤의 인생신당’에 출연해 “아버지와 남동생이 같은 병으로 세상을 떠났다. 심장마비로 아버지가 40대에 돌아가셨고, 남동생도 40대에 하늘나라에 갔다”고 했다.&lt;br&gt;&lt;br&gt;한기범은 자신 역시 같은 병으로 심장 수술을 두 차례 했다고 밝혔다. 한기범은 “저는 수술을 해서 살았다. 그래서 지금까지 살게 된 것”이라며 “병원에서 검사받았을 때 심장 때문에 100% 죽는다더라. 그 자리에서 바로 수술해서 살 수 있게 됐다”고 했다.&lt;br&gt;&lt;br&gt;한기범과 가족이 앓은 병은 희귀 유전병 마르판 증후군이라고 한다.&lt;br&gt;&lt;br&gt;서울대병원 희귀질환센터에 따르면, 마르판 증후군은 염색체 15번의 FBN1 유전자 변형으로 골격계 기형이 생기고, 안구의 수정체 탈구 및 근시, 그리고 심장 기형이 동반되는 유전성 질환이다. 키가 크고, 마르고, 얼굴과 사지가 긴 게 대표적인 증상이다. 척추측만증이나 승모판 탈출증, 기흉, 녹내장, 백내장, 근시, 안구돌출 등이 발현되기도 한다. 상염색체 우성 유전으로 자녀에게 물려질 확률은 50%다.&lt;br&gt;&lt;br&gt;한기범은 “아들이 저의 유전자를 50% 받고 태어났다. 일찌감치 주치의한테 검사를 다 받게 했다”며 “외형적 특징도 없고 아직 유전적으로는 거의 없다고 하더라. 그런데 아들의 대를 이어서 분명히 나타날 것 같다”고 했다.&lt;br&gt;&lt;br&gt;한기범은 마르판 증후군의 경우 나타나는 외형적 특징에 대해서 “우선 저처럼 키가 크고, 마른다. 절대 뚱뚱한 사람이 없다”며 “눈이 나쁘고 손가락 발가락이 길고, 운동 측면에서 유연한 특징이 있다”고 했다.&lt;br&gt;&lt;br&gt;한기범은 치료 경과를 묻는 말에 “희망적”이라고 답했다. 한기범은 “저처럼 미리 알아야 한다. 보통 통증 등 외부적으로 증상이 안 나타난다”며 “그래서 전 후 상태를 잘 봐야 한다”고 했다.&lt;br&gt;&lt;br&gt;마르판 증후군은 미국의 제16대 대통령 에이브러햄 링컨이 앓은 질환으로도 잘 알려져 있다. 환자 중 농구 등 운동선수도 많다. 한기범뿐만 아니라 국가대표 출신 추한찬도 마르판 증후군으로 기흉 수술을 받았다고 고백했던 바 있다.&lt;br&gt;&lt;br&gt;2017년 조사 기준 국내 마르판 증후군 환자는 증가세를 보였다. 삼성서울병원 심장혈관센터 김덕경 교수팀이 2006∼2013년 사이 국민건강보험공단 자료를 이용해 분석한 결과, 2006년에 인구 10만명 당 0.90명이던 국내 마르팡증후군 유병률이 2013년에는 2.27명으로 2.5배로 증가한 것으로 나타났다. 특히 10대 유병률이 두드러졌다. 2006년만 해도 10만명당 4.8명이던 10대 환자가 2013년에는 6.4명으로 늘었다. 성별로는 여성(10만명당 1.9명)보다 남성(10만명당 2.6명) 환자가 많았다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>흉기로 남편 찌른 50대 여성… 살인미수 혐의 입건</title>
-      <link>https://www.chosun.com/national/incident/2024/09/23/2FSJB5FHC5ERDEKJTTBXKEVB44/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/23/2FSJB5FHC5ERDEKJTTBXKEVB44/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Sep 2024 09:08:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P5JXPBMF5MK3KI4YPKXESNCF7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;흉기로 남편을 찔러 중상을 입힌 50대 여성이 경찰에 붙잡혔다. 경찰은 이 여성에 대해 응급입원 조치를 했다.&lt;br&gt;&lt;br&gt;인천중부경찰서는 살인미수 혐의로 50대 여성 A씨를 입건했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 7일 오전 2시 30분쯤 인천시 중구 신흥동의 한 주택에서 남편인 60대 B씨를 흉기로 10여 차례 찔러 살해하려 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;당시 행인이 등과 귀 부위를 다쳐 피를 흘리며 집 밖으로 피신한 B씨를 보고 경찰에 신고했고, 경찰은 A씨를 현행범으로 체포했다. B씨는 생명에 지장은 없는 상태인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨에게 정신질환이 있는 것으로 보고, 인천의 한 정신병원에 응급입원 조치했다. A씨는 현재 일반병원으로 옮겨 입원 치료를 받고 있는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “체포 당시 A씨와 정상적인 대화를 할 수 없는 상황이었다”며 “A씨의 건강 상태를 보면서 범행 동기 등 구체적인 사건 경위를 조사할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘北간첩 혐의’ 전 민노총 간부에 징역 20년 구형...“지령에 따라 공작 실행”</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/23/Y36OZSIX55ABPO6BRLGTADB2XI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/23/Y36OZSIX55ABPO6BRLGTADB2XI/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Sep 2024 09:01:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PIEVZA5HZNO4THGVC53D5OH5R4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 1월 18일 오전 국가정보원과 경찰청이 민노총 서울 사무실에 대한 압수수색 영장 집행을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한으로부터 지령을 받아 국내에서 간첩 활동을 벌인 혐의로 재판에 넘겨진 전 민노총 간부에게 검찰이 징역 20년을 구형했다. 검찰은 “북한을 맹종하는 피고인들이 사회주의 혁명을 완수하기 위해 노동계에 침투해 체제 전복을 목적으로 한 사건”이라고 했다.&lt;br&gt;&lt;br&gt;23일 수원지법 형사14부(재판장 고권홍)는 간첩 등 국가보안법 위반 혐의로 기소된 전 민노총 조직쟁의국장 석모(53)씨, 전 민노총 보건의료노조 조직실장 김모(49)씨, 전 민노총 산하 금속노조 부위원장 양모(55)씨, 전 민노총 산하 모 연맹 조직부장 신모(52)씨 등 4명에 대한 결심 공판을 열었다.&lt;br&gt;&lt;br&gt;이날 검찰은 이 사건의 주범으로 꼽히는 석씨에게 징역 20년과 자격정지 20년을 구형했다. 또 김씨에게는 징역 10년에 자격정지 10년, 양씨는 징역 7년에 자격정지 7년, 신씨는 징역 3년에 자격정지 3년을 각각 선고해달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;검찰은 “피고인들은 대한민국 체제 전복을 시도하는 북한 문화교류국과 직접 연계해 범행을 저질렀다”며 “은밀하게 회합일정을 마련했고, 북한 공작원들을 직접 만나 지령을 수수하거나 협의하고, 구체적 임무를 부여받기에 이르렀고, 이에따라 대한민국에서 활동을 이어갔다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 “6·25 전쟁 이후 70여년이 지난 현재까지도 사회주의 세력이 존재하고 있고, 거대 노조를 장악하고 있으며, 체제전복을 준비하고 있다는 사실에 경악을 금치 못하고 있다”며 “피고인들은 중대한 범행을 저질렀음에도 아무런 반성을 하고 있지 않아 중형으로 사회로부터 격리시키는 게 국민의 안녕과 생명을 지키는 유일한 길”이라고 했다.&lt;br&gt;&lt;br&gt;검찰은 또 “현재까지도 범행을 부인하고 수사 과정뿐만 아니라 재판 과정에서도 명백한 증거에도 불구하고 묵비로 일관하거나 범행을 부인하고 있으며, 재범의 위험성이 높다”면서 “피고인들은 대남혁명을 추종하고, 지령에 따라 대남공작 활동을 실행에 옮긴 것이 자명하고 개전의 정이 없다”고 했다.&lt;br&gt;&lt;br&gt;변호인 측은 이 사건을 수사한 국가정보원이 적법한 증거수집 절차를 준수하지 않아 캄보디아, 중국, 베트남 등에서 확보한 사진과 영상 등은 증거 능력이 없다는 등의 취지로 주장하며, 무죄를 선고해달라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZW3VW2S37CFNTA6VJAJ6TB6WDQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 수원시 영통구에 위치한 수원법원종합청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;변호인은 또 “검찰에 의해 피고인들이 북한 지령에 의해 조종된 것처럼 언론에 보도됐다”며 “검찰이 공소장 일본주의(검찰이 기소할 때 법원에 제출하는 건 공소장 하나여야만 하고, 예단이 생기게 할 수 있는 것은 제출할 수 없다는 원칙)를 위배해 피고인들은 재판 시작 전부터 사회적 낙인이 찍혔다”고도 했다.&lt;br&gt;&lt;br&gt;최후 진술에 나선 석씨는 “국가보안법은 사상과 양심의 자유, 생각하는 것조차 처벌할 수 있는 초헌법적 악법으로, 마땅히 폐지돼야 한다”며 “사법부의 현명한 판단을 바란다”고 했다. 김씨 역시 “정권의 위기가 오거나, 위기를 극복하기 위해 활용할 수 있는 게 국가보안법이라고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;석씨는 2018년 10월부터 2022년 12월까지 총 102회에 걸쳐 북한 지령문을 받고 간첩 활동을 한 혐의를 받는다. 2017년 9월과 2018년 9월엔 중국과 캄보디아 등 해외에서 직접 북한 공작원을 접선한 것으로 조사됐다. 또 민노총 내부 통신망 아이디와 비밀번호 등이 기재된 대북 보고문을 북한 측에 전달하고, 북한 지시에 따라 민노총 위원장 선거 후보별 계파 및 성향, 평택 미군기지와 오산 공군기지의 시설·군사 장비 등 사진을 수집한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;석씨와 함께 기소된 나머지 3명도 해외에서 북한 공작원을 만나거나 지령에 따라 간첩 활동을 하는 등의 혐의를 받는다. 이들은 지난해 5월 10일 구속기소됐으며, 지난해 9~10월 보석 석방돼 불구속 상태로 재판을 받아왔다. 선고는 오는 11월 6일 이뤄진다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>MS, 두번째 ‘부산 데이터센터’ 준공</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/09/23/SHII2SCWXBAW7ERATCP642BG7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/09/23/SHII2SCWXBAW7ERATCP642BG7E/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Sep 2024 08:48:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CAGSFNDNFVHX7KSGNOAKOP7O2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;MS사의 부산 강서구 데이터센터 준공식이 23일 오전 열리고 있다. /부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에 마이크로소프트(MS)의 두 번째 데이터센터가 건립됐다.&lt;br&gt;&lt;br&gt;MS사는 23일 부산 강서구 구랑동에서 MS 데이터센터 완공식을 열었다.&lt;br&gt;&lt;br&gt;MS사는 지난 2020년 4월 부산 강서구 국제산업물류도시 안에 첫 번째 데이터센터를 준공했고 이번에 두 번째 데이터센터를 완공했다. 준공식에는 박형준 부산시장, 앨빈 헝 MS사 아태지역 총괄사장, 김도읍 국회의원, 김기영 부산진해경제자역구역청장 등 100여명이 참석했다.&lt;br&gt;&lt;br&gt;부산시는 “인공지능(AI) 클라우드용 데이터센터를 부산에 짓는 사업에 대해 MS사와 지속적인 협력을 하기로 했다”며 “MS 측은 세 번째로 AI 클라우드 데이터센터를 건립하기 위해 부산진해경제자유구역청과 입주 계약 등을 추진 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경희대·외대생 상대로 114억 전세사기 벌인 50대 구속 송치</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/23/OPM6GA7T4RBDRNOHNC47PN376Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/23/OPM6GA7T4RBDRNOHNC47PN376Y/</guid>
-      <dc:creator>강우석 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Sep 2024 08:44:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q3SY3ZGSV5LWK7YR63VSMCV7JQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 동대문경찰서 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 동대문구 대학가에서 110억원대 전세사기를 벌인 50대 남성이 구속 상태로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 동대문경찰서는 지난 20일 특정경제범죄가중처벌법상 사기 등의 혐의로 김모(57)씨를 검찰에 구속 송치했다고 23일 밝혔다. &lt;br&gt;&lt;br&gt;김씨는 경희대·한국외대 등 대학들이 위치한 동대문구 일대에 다수의 부동산을 소유한 임대 업자로 피해자들에게 분양 대금보다 높게 전세계약을 체결하고 보증금을 반환하지 않는 수법으로 114억원을 가로챈 혐의로 받는다. 피해 임차인은 대부분 대학생으로 총 114명에 달하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김씨는 어머니 등 가족 명의로도 다수의 주택을 임대해 김씨 가족 중 일부 역시 범죄 방조 혐의로 불구속 송치됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>전시 작품에 '오빠 사랑해♡' 낙서했던 남녀 입건</title>
@@ -944,24 +964,6 @@ A 씨는 지난 5월 3일 일당 2명과 태국 방콕의 클럽에서 한국인
       <description/>
       <pubDate>Mon, 23 Sep 2024 06:12:58 +0000</pubDate>
       <content:encoded>서울시교육감 보궐선거 후보 등록일을 3일 앞두고, 보수 교육계는 후보 단일화를 놓고 진통이 계속되고 있다. 앞서 보수 교육계는 후보 단일화 기구를 ‘통합대책위원회’(통대위)로 합쳤으나, 통대위의 단일화 방식에 반발한 일부 보수 성향 시민사회단체가 독자적으로 단일 후보를 선출하겠다고 나선 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FXUNQ727XFKEFH7CBZBYEFLUKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 지하철 3호선 충무로역에 서울특별시 교육감 보궐선거 홍보물./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육계에 따르면, 최명복 전 서울시의원이 주도하는 ‘서울시보수교육감 후보단일화 선정위원회’(선정위)는 24일 서울 공군호텔에서 보수 교육계 후보들의 교육 정책을 검증하는 ‘공개 오디션’을 열고, 별도 여론조사를 진행해 단일 후보를 선출할 계획이다. 최 전 의원은 “통대위의 단일화 방식은 충분한 토론 없이 여론조사로만 후보를 뽑겠다는 것”이라며 “전직 교장 등 교육계 인사들로 구성된 선거인단을 통해 보수 교육감 후보를 검증해 선출하겠다”고 말했다. 그동안 통대위로 모아졌던 서울교육감 후보 단일화 논의가 다시 갈등을 빚고 있는 것이다.&lt;br&gt;&lt;br&gt;선정위는 김영배 성결대 교수, 안양옥 전 한국교총 회장, 조전혁 전 한나라당 의원, 홍후조 고려대 교수 등을 대상으로 오디션을 진행한다는 계획이다다. 선정위에 따르면, 후보 4명 중 2명이 단일화 경선에 참가하겠다는 의사를 밝힌 상태다.&lt;br&gt;&lt;br&gt;앞서 보수 교육계는 두 곳으로 나뉘어져 있었던 후보 단일화 기구를 통대위로 통합했다. 통대위는 ‘100% 여론조사’ 방식으로 최종 후보를 선출하겠다며 지난 21일 여론조사를 진행했다. 단일화 결과 발표만을 앞두고 있는 상황에서 다른 단일화 기구가 나타난 것이다.&lt;br&gt;&lt;br&gt;통대위 단일화 경선엔 보수 성향 후보 3명(안양옥·조전혁·홍후조)이 참여하고 있으나, 안양옥·홍후조 후보는 “여론조사 문항이 특정 후보에게 유리하게 짜여졌다”며 단일화 과정에 반발하고 있다. 경선에 참여한 한 후보는 “다른 단일화 기구에 참여하는 방안도 검토하고 있다”고 밝혀 단일화 일정이 미뤄질 가능성도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰도 97세대가 대세…빅 4, ‘특수통’서 ‘공안·기획통’으로</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/23/57IS7GCVURDBBNEA23FIOOV5LU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/23/57IS7GCVURDBBNEA23FIOOV5LU/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Sep 2024 05:34:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFLHY4SYG5CT7JVLATS7L5NRHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성재 법무부 장관(왼쪽)과 심우정 검찰총장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재계는 지난해 말 인사에서 1970년대생을 고위 임원으로 대거 발탁했다. SK는 매출 1조원 이상 계열사 대표 중 1970년대생이 6명에서 10명으로 늘었고, LG그룹은 전체 신규 임원의 97%가 1970년 이후 출생자였다. GS그룹도 허창수 명예회장 아들인 1979년생 허윤홍 사장을 GS건설 대표에 임명했다.&lt;br&gt;&lt;br&gt;97세대(90년대 학번‧70년대생)가 주축이 된 것은 기업뿐이 아니다. 법무검찰의 ‘꽃’으로 꼽히는 검사장도 세대교체 바람이 불며 10명 중 8명을 1970년대생이 차지하고 있다.&lt;br&gt;&lt;br&gt;◇97세대 법무검찰 전면으로&lt;br&gt;&lt;br&gt;23일 본지 취재를 종합하면 윤석열 정부 두 번째 검찰총장인 심우정 총장 체제가 본격화한 이날 기준 검사장(고검장급 포함‧법무연수원 연구위원 제외) 42명 중 85.7%인 36명이 1970년대생으로 집계됐다. 전임자인 이원석 전 총장이 임기를 시작한 2022년 9월에는 전체 34명 중 약 절반인 18명(52.9%)이었는데 2년 만에 30%포인트 넘게 비중이 커졌다. 심우정 총장도 ‘빠른’ 1971년생이다.&lt;br&gt;&lt;br&gt;가장 젊은 검사장은 1975년, 가장 나이 많은 사람은 1966년에 태어나 9살 차이가 난다. 2년 전에는 1963년생이 최고 연장자였고, 1974년생이 ‘막내’여서 11년 차이였다. 사법연수원 기수는 심 총장 체제가 고검장 27~29기‧검사장 29~31기. 이 전 총장 출범 당시는 고검장 25~26기‧검사장 26~30기였다. 2년 만에 검찰 고위간부의 세대 교체가 상당 부분 진행된 셈이다. 다만 평균 연령은 2022년 52.1세, 올해 52.0세로 큰 차이는 없었다.&lt;br&gt;&lt;br&gt;◇'빅 4′ 특수에서 기획으로&lt;br&gt;&lt;br&gt;한동훈 전 법무부 장관(현 국민의힘 대표)과 이 전 총장이 재임한 2년 전에는 두 사람과 같은 ‘특수통’이 검찰 내 핵심 보직으로 꼽히는 ‘빅 4′의 대부분을 차지했다. 당시 송경호 서울중앙지검장, 신봉수 대검찰청 반부패강력부장, 김유철 대검 공공수사부장, 신자용 법무부 검찰국장 중 김유철 검사장만 공안통으로 분류된다.&lt;br&gt;&lt;br&gt;반면 박성재 법무장관과 심 총장 체제에서는 기획통과 공안통이 두 자리씩을 맡게 됐다. 이창수 서울중앙지검장과 구승모 대검 반부패부장은 기획, 김태은 대검 공공수사부장과 송강 법무부 검찰국장은 공안 전문가로 꼽힌다. 심 총장도 한상대 전 총장(재임기간 2011년 8월~2012년 11월) 이후 12년 만의 기획통 출신 검찰총장으로 볼 수 있다.&lt;br&gt;&lt;br&gt;◇휘문고‧수도권 출신 강세…호남 비중은 감소&lt;br&gt;&lt;br&gt;전체 검사장 42명의 출신고교를 보면 경북고와 휘문고가 각각 3명으로 가장 많다. 구승모‧송강 검사장, 구상엽 법무부 법무실장이 심 총장과 같은 휘문고 출신이다. 동문 검사장이 2명씩 있는 고교는 영동고‧현대고‧단대사대부고이다.&lt;br&gt;&lt;br&gt;2년 전에도 검사장 34명 중 휘문고 출신이 3명으로 가장 많았다. 순천고‧단대사대부고‧경원고 출신이 각각 2명이었다.&lt;br&gt;&lt;br&gt;지역별로 보면 서울 출신은 2년 전 20.6%에서 올해 33.3%로 확대됐다. 경기‧인천을 포함한 수도권 출신도 29.4%에서 42.9%로 늘었다. 반면 호남 출신은 2년 전 20.6%였으나 올해는 11.9%까지 감소했고, 같은 기간 대구‧경북(TK) 출신 검사장은 8.8%에서 16.7%로 비중이 커졌다.&lt;br&gt;&lt;br&gt;여성 검사장은 2년 전 2명(노정연 고검장‧김선화 검사장)에서 현재 4명(김선화‧이영림‧정유미‧박성민 검사장)으로 늘었다. 노정연 전 대구고검장은 여성 최초 고검장으로 지난 5월 퇴임했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VYTWSI3XBSYWEEGPKOFSNMXVEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한동훈 전 법무부 장관(현 국민의힘 대표)과 이원석 전 검찰총장 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>송해나, 데프콘과 열애설에 “가족끼리 어색해지게…”</title>
-      <link>https://www.chosun.com/national/people/2024/09/23/ZI3FOCBBI5CWXDS5BNISLZG2KY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/23/ZI3FOCBBI5CWXDS5BNISLZG2KY/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Sep 2024 05:06:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I57A4F7ORZC7JG663DTPEDZ57M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송해나와 데프콘. /송해나 소셜미디어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 데프콘(47)과 열애설이 불거진 모델 송해나(37)가 이를 직접 부인하고 나섰다. 두 사람은 예능 프로그램 ‘나는 솔로’에서 공동 MC를 맡고 있다.&lt;br&gt;&lt;br&gt;송해나는 22일 소셜미디어에 자신과 데프콘의 열애설 기사를 공유하며 황당하다는 반응을 보였다.&lt;br&gt;&lt;br&gt;송해나는 “열애설이라니… 다들 믿고 계신 거 같아서”라며 “다들 오해 마세요. 가족끼리 어색해지게 왜 이래요 정말”이라고 했다.&lt;br&gt;&lt;br&gt;송해나와 데프콘과의 열애설은 지난 6월 처음 불거진 바 있다. 당시 데프콘은 송해나와 한 예능 프로그램에 출연했는데 다른 출연자가 두 사람을 연결시키려 했다.&lt;br&gt;&lt;br&gt;이에 데프콘은 “송해나랑 (방송에서) 오래 보고 싶다. 괜히 엮이고 싶지 않다”면서도 “너는 나 어떻게 생각하는데”라고 물었다. 송해나는 데프콘의 질문에 “사실 조금… 자꾸 생각나게 만드는 사람”이라고 답해 화제가 됐다.&lt;br&gt;&lt;br&gt;두 사람은 최근 한 예능 프로그램에도 함께 출연해 묘한 분위기를 풍기는 장면이 포착돼 열애설이 재점화됐다.&lt;br&gt;&lt;br&gt;최근 공개된 해당 방송 예고편에서는 한 출연자가 “송해나와 데프콘의 관계는 정말 비즈니스인가?”라고 묻는 장면이 공개됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘40도 폭염’ 적중한 기후 학자 “올겨울 영하 18도 한파 가능성”</title>
