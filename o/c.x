@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>음주운전 역주행 사고로 5명 부상…”면허 취소 수치”</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/25/ZNGEPSEXSZFWZK7P6JDF45JP74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/25/ZNGEPSEXSZFWZK7P6JDF45JP74/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Sep 2024 13:49:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHVNB2B2WJHGXODIDACQLHGZVI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;50대 운전자가 만취 상태로 운전대를 잡아 역주행 사고를 내 5명이 부상을 입어 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;25일 소방당국에 따르면 이날 오후 7시15분쯤 전북 정읍시 소성면 소성농공단지 인근 도로에서 A(50대·여)씨가 모는 역주행 차량이 마주오던 SUV 차량과 충돌했다. 이 사고 여파로 정상 주행하던 또다른 차량이 SUV 차량 뒷편을 들이받았다.&lt;br&gt;&lt;br&gt;이 사고로 A씨와 나머지 차량에 타고 있던 운전자와 탑승자 등 총 4명이 부상을 입어 병원으로 이송됐다. A씨는 현장에 출동한 경찰의 음주측정 결과 면허 취소 수준인 혈중알코올농도 0.144%였던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨 등을 상대로 정확한 사고 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MHVNB2B2WJHGXODIDACQLHGZVI.JPG?width=496&amp;height=279&amp;auth=5d8854929aec8ed72a601a4ca53afb489da4fe91add7ff94fbd4d87dbb787185&amp;smart=true" type="image/jpeg" height="279" width="496">
+        <media:description type="plain">119 소방 로고</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>사업비 올렸지만... 위례신사선 입찰, 아무도 참여 안 했다</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/25/UX4DUPO7TJFGFOG23QJJ4P6DAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/25/UX4DUPO7TJFGFOG23QJJ4P6DAQ/</guid>
+      <dc:creator>박진성 기자, 김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Sep 2024 11:32:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKCZYXOKAJGI5BJTHN6FACKTIE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;위례신도시와 서울 강남을 연결하는 위례신사선 경전철 사업자 공모가 유찰됐다. 서울시는 25일 “위례신사선 민간투자사업을 할 사업자를 찾기 위해 공고를 냈으나 마감 시한까지 신청서를 낸 업체가 없었다”고 밝혔다. 지난 6월 기존 사업자(우선협상대상자)인 GS건설이 공사비 상승 등을 이유로 사업을 포기해 사업비를 증액하고 다시 공고를 냈지만 신청한 업체가 없었던 것이다.&lt;br&gt;&lt;br&gt;서울시는 지난달 재공고를 내면서 사업을 하려는 업체가 없으면 시가 직접 예산을 들여 추진하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;그러나 이날 서울시는 “정부와 협의해 사업비를 추가로 증액한 뒤 또 공고를 내겠다”고 했다.&lt;br&gt;&lt;br&gt;이와 관련해 기획재정부가 다음 달 초 공사비 상승 등 상황을 반영해 사업비를 증액할 수 있도록 민자사업 관련 지침을 개정할 것으로 알려졌다. 서울시는 “정부가 지침을 개정하면 바로 재공고를 낼 계획”이라고 했다.&lt;br&gt;&lt;br&gt;위례신사선 경전철은 서울 송파구와 경기 성남·하남시 일대에 조성한 위례신도시와 서울 강남구 신사역을 잇는 14.7㎞ 길이 경전철이다. 2008년부터 신도시의 교통 대책으로 추진됐으나 17년째 첫 삽도 뜨지 못하고 있다. 최초 사업자인 삼성물산 컨소시엄이 2016년 중도 포기했고 지난 6월에는 GS건설 컨소시엄도 공사비 문제로 서울시와 줄다리기를 하다 결국 사업을 접었다. 서울시는 지난달 총 사업비를 1조4847억원에서 1조7605억원으로 늘리고 새 사업자를 찾는 공고를 냈었다.&lt;br&gt;&lt;br&gt;재공고가 유찰됐다는 소식에 위례신도시 주민들은 “17년째 ‘희망 고문’을 당하고 있다”고 반발했다. 김영환 위례공통현안비대위원회 위원장은 “대통령실·기획재정부·국토교통부·서울시를 항의 방문해 주민들의 원성을 전달할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RIQYEUBGWZEONDOSVWON5SEKDI.png?width=480&amp;height=403&amp;auth=751eedb0a84c7db9c743b206db7ea576f0f372813abb5d6e7926902940b9b01e&amp;smart=true" type="image/png" height="403" width="480">
+        <media:description type="plain">그래픽=김현국</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“여친한테 명품 사줌”... 인스타서 난리난 16세 도영이 정체</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/25/H5LSYPKTPRAQHG4BBKIJ45IT6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/25/H5LSYPKTPRAQHG4BBKIJ45IT6I/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Sep 2024 13:15:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DZEE2CGFWVF6TMWJABIXCUMFU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사이버도박으로 피해를 입은 학생들의 얼굴을 합성해 만든 가상 청소년 박도영 군이 인스타그램에 올린 여자친구와의 일상. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;친구에겐 30만원짜리 밥을 사고 여자친구에게 명품을 사주며 인스타그램에 이를 자랑하던 박도영(16) 군. 겉으로 보기엔 남부러운 일상을 보내는 것처럼 보이지만 실상은 사이버도박에 빠져 막다른 길에 다다르는 것은 한순간이었다.&lt;br&gt;&lt;br&gt;박 군은 지난 8월부터 인스타그램(@dy_gamblingdieary)을 통해 소소한 일상을 공개했다. 여자친구와 데이트를 하거나 친구들과 함께 시간을 보내며 유행하는 릴스 영상도 만드는 등 여느 청소년과 다름없었지만 수업 시간에 휴대전화를 보는 일이 잦았다. 어느 날부터는 30만원이 넘는 고급 식당에 가거나 명품 신발 등을 구매한 인증샷을 올렸고, 또 고가 브랜드 의류를 여자친구에게 선물하기도 했다. 특히 여자친구와 100일을 맞아 명품 브랜드의 제품과 꽃다발을 선물하는 등 재력을 자랑하는 모습이었다.&lt;br&gt;&lt;br&gt;그러다가 최근 박 군이 인스타그램에 시급 1만원의 택배 아르바이트를 시작했다는 근황을 알렸다. 가지고 있던 명품 신발을 40만원에 처분한다는 글까지 올렸다. 박 군의 휴대전화에는 ‘돈 안 갚냐’ ‘돈 빌리고 잠수탄 박도영’ 등의 문자메시지가 쏟아졌다. 박 군은 “요즘 제 번호가 이상한데 돌아다니고 있는 것 같은데 모르는 연락이 너무 많이 옵니다. 저 돈 잘 갚고 있습니다. 연락 그만해주세요”라고 호소했다. 결국 박 군의 계정에는 “이젠 다 그만두고 싶다”며 극단적인 선택을 암시하는 듯한 글까지 올라왔다.&lt;br&gt;&lt;br&gt;사실 이 인스타그램 계정의 주인공인 박 군은 사이버도박으로 피해를 본 학생들의 협조를 받아 이들의 얼굴을 합성해 만든 가상의 청소년이다. 경찰청은 모바일 금융 서비스 토스와 협업해 기획한 ‘청소년 사이버도박 예방·근절 캠페인’의 일환으로 이 계정을 운영했다. 가상 인물 ‘만 16세 박도영’을 통해 사이버도박의 심각성을 알리는 예방 영상을 제작해 배포했고, 현실성을 더하기 위해 박 군의 인스타그램까지 개설했다. 특히 인스타그램에선 사이버도박으로 점차 일상이 무너져가는 모습을 시간 순서에 따라 보여줘 현실감이 더해졌다.&lt;br&gt;&lt;br&gt;경찰청은 토스와 함께 도박 의심 계좌를 알려주는 서비스도 만들었다. 토스는 불법 도박 활용 의심 계좌로 송금할 때 경고 알림 문구를 띄우는 기능, 연결된 가족에게 ‘위험’으로 의심되는 거래·송금을 할 때 사고 유형과 발생 일자 등을 알려주는 서비스를 제공한다. 불법 도박 사이트에서 활용되는 토스뱅크 계좌가 있다면 이를 웹을 통해 신고하는 시스템도 구축했다.&lt;br&gt;&lt;br&gt;한국도박문제예방치유원 통계에 따르면 2022년 기준 초·중·고등학교에 재학 중인 청소년 중 약 40%가 도박을 경험한 것으로 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>9월 평균 최저 기온 21.7도, 낮엔 여름... 가을이 사라진다</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/09/25/RNTOEF3VGNG6TPLJ5MUXLJZ5XY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/09/25/RNTOEF3VGNG6TPLJ5MUXLJZ5XY/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Sep 2024 11:40:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YIGIHGM6KFNSPG2PUXHAEQC74Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 부산 해운대해수욕장을 찾은 관광객, 외국인들이 물놀이를 하며 더위를 식히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가을이 사라지고 있다. 과거 1년 중 3개월(9~11월)로 봤던 가을이 올해는 늦더위 여파로 채 두 달도 꽉 채우지 못할 것으로 전망된다.&lt;br&gt;&lt;br&gt;25일 기상청에 따르면, 이달 1일부터 24일까지 전국 평균 최저기온(62개 관측 지점 기준)은 섭씨 21.7도를 기록해 1973년 관측 이래 처음으로 9월 최저기온이 20도 이상으로 올라갔다. 가장 높은 9월 최저기온 기록은 작년에 세운 19도인데 이보다 2도가량 높은 것이다. 이 기간 평균 최고기온도 30.1도로 나타나 사상 첫 30도대를 기록 중이다. 평균 기온은 25.4도로 아직 한반도 계절은 가을보단 여름 쪽에 가깝다.&lt;br&gt;&lt;br&gt;최근 찬 북풍이 내려오며 다소 선선해졌지만 아직 제대로 된 가을은 오지 않았다. 가을 시작일은 ‘일평균 기온이 20도 미만으로 떨어진 후 다시 올라가지 않은 첫날’로 삼는다. 청명한 날이 많은 가을에는 낮 동안 강한 햇볕에 의해 수은주가 가파르게 치솟기 때문에, 평균 기온이 떨어지려면 아침 기온이 큰 폭으로 내려가야 한다. 그런데 25일 오전 8시 기준 서울 기온이 20.5도를 기록하는 등 전국 대부분 지역에서 평년보다 온도가 높았다.&lt;br&gt;&lt;br&gt;올가을은 예년보다 더 짧아질 것으로 보인다. 기상청은 25일 발표한 3개월 전망에서 10월까지 덥고, 겨울(12월~이듬해 2월)은 더 추울 것으로 내다봤다. 기상청은 올 10월 평균 기온이 평년보다 높거나 비슷할 확률이 90%라고 봤다. 이상 고온 발생일수도 평년보다 많을 것으로 진단했다. 이상 고온은 평년 기온을 기반으로 산출해 지역마다 다른데 서울의 경우 10월은 일 최고기온이 24.1도를 초과할 때를 뜻한다.&lt;br&gt;&lt;br&gt;이처럼 ‘더운 10월’을 보내면서 일평균 기온이 20도 아래로 떨어지는 시점도 늦게 찾아올 것으로 예상된다. 가을의 시작이 늦어지는 것이다. 최근 10년(2011~2020년 평균)간 기상학적 가을은 평균적으로 9월 29일 시작해 11월 24일 끝났다. 총 57일로 거의 두 달에 가까웠다. 그러나 올해는 10월 초에도 ‘가을의 기온’에 접어들기 쉽지 않을 것으로 보여 ‘가을’이 여느 때보다 짧을 전망이다.&lt;br&gt;&lt;br&gt;겨울은 더 추울 것으로 예상됐다. 기상청은 찬 대륙고기압이 확장하며 올 12월 기온이 평년보다 낮거나 비슷할 확률이 80%라고 봤다. 겨울은 ‘일평균 기온이 5도 미만으로 내려간 후 다시 올라가지 않는 첫날’부터다. 겨울이 오는 시점은 예년과 비슷한 11월 말이 될 것으로 예상된다. 결국 여름이 길어지고 겨울은 그대로인 계절 길이의 변화로 인해 올해는 가을의 정취를 느낄 수 있는 시간이 종전 두 달가량에서 한 달 반 정도로 크게 줄어드는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정근식, 서울교육감 선거 진보 진영 단일 후보로 선정</title>
+      <link>https://www.chosun.com/national/education/2024/09/25/AND5ZJ2X3RHUJC4MGASDVNOBC4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/09/25/AND5ZJ2X3RHUJC4MGASDVNOBC4/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Sep 2024 11:05:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SS2DHHQYYRJ4HCRNZVQ7W7BFDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오후 서울 마포구 가온스테이지에서 열린 2024서울민주진보교육감추진위원회(추진위) 기자회견에서 서울시교육감 보궐선거 진보진영 단일화 후보로 확정된 정근식 서울대 명예교수가 소감을 말하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;진보 진영 단일화를 진행하는 ‘2024서울민주진보교육감추진위(추진위)’가 정근식 서울대 명예교수를 단일 후보로 추대한다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;추진위는 이날 오후 8시 서울 마포구 가온스테이지에서 열린 기자 회견에서 정 교수가 1차 선거인단 투표와 2차 여론조사 결과를 50대 50으로 합산한 결과 가장 득표율이 높아 단일 후보로 추대한다고 밝혔다.&lt;br&gt;&lt;br&gt;정 교수는 “서울시민의 선택을 받들어 다가올 본선에서 기필코 승리해야 한다는 막중한 책임감을 느낀다”며 “불통과 졸속으로 일관하는 현 정부 교육 정책을 심판하고 혁신교육을 계승 발전시킬 것”이라고 말했다.&lt;br&gt;&lt;br&gt;앞서 추진위는 정 교수를 비롯해 곽노현 전 서울시교육감, 강신만 전 전교조 부위원장, 홍제남 전 오류중 교장, 안승문 전 서울시 교육위원 등 5명을 대상으로 선거인단 투표를 실시했다. 그 결과 곽 전 교육감과 안 전 교육위원이 득표율 3위 안에 들지 못해 탈락했다. 추진위는 나머지 3인을 대상으로 24일부터 이틀간 여론조사를 실시했다.&lt;br&gt;&lt;br&gt;서울대 사회학과 교수인 정 교수는 친일반민족행위진상규명위원회 위원, 진실화해를위한과거사정리위원회 위원장, 민주화운동기념사업회 한국민주주의연구소장 등을 역임했다. 그는 주요 정책 방향으로 기본 학력 보장과 교육 격차 해소, 역사 교육 강화, 미래 창의 교육과 민주 시민 교육 확대 등을 제시했다.&lt;br&gt;&lt;br&gt;이날 오전 보수 진영 단일화를 추진하는 ‘통합대책위원회(통대위)’는 조전혁 전 한나라당 의원을 단일 후보로 추대했다. 이로써 진보와 보수 두 진영의 유력 후보 윤곽이 드러난 셈이다.&lt;br&gt;&lt;br&gt;다만 ‘완벽한 단일화’는 아니다. 진보 진영에서는 김재홍 전 서울디지털대 총장, 조기숙 전 이화여대 교수, 방재석 중앙대 교수, 최보선 전 서울시 교육의원 후보 등 독자 출마를 선언한 후보들이 있다. 보수 진영에서도 윤호상 전 서울미술고 교장, 김영배 성결대 교수 등이 독자 출마를 준비하고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/SS2DHHQYYRJ4HCRNZVQ7W7BFDU.jpg?width=3984&amp;height=2656&amp;auth=780ae930fabcaed95500d23545d20af48e39c4faa4ef749734b17c41888bfab1&amp;smart=true" type="image/jpeg" height="2656" width="3984">
+        <media:description type="plain">&lt;YONHAP PHOTO-6000&gt; 서울시교육감 진보진영 단일화 후보는 정근식
+    (서울=연합뉴스) 서대연 기자 = 25일 오후 서울 마포구 가온스테이지에서 열린 2024서울민주진보교육감추진위원회(추진위) 기자회견에서 서울시교육감 보궐선거 진보진영 단일화 후보로 확정된 정근식 서울대 명예교수가 소감을 말하고 있다. 2024.9.25
+    dwise@yna.co.kr/2024-09-25 20:03:43/
+&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">서대연</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“정신병원 입원시킨다”는 말에…아내 살해한 70대 검거</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/25/VL5ETOPLP5CF3CIAZP6SUQDV7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/25/VL5ETOPLP5CF3CIAZP6SUQDV7Y/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Sep 2024 11:05:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ECHQSRSEI7KTJQHSTDS2I7L2EM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아내를 살해한 70대가 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;전북 군산경찰서는 25일 아내를 살해한 혐의(살인)로 70대 A씨를 긴급체포해 조사 중이라고 밝혔다. 경찰에 따르면 A씨는 이날 오전 4시 15분쯤 전북 군산시 조촌동 자택에서 흉기를 이용해 아내를 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “정신병원에 입원시키겠다는 말을 듣고 화가 나 범행을 했다”는 취지의 진술을 한 것으로 전해졌다. 경찰은 정확한 사고 경위를 조사한 뒤 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ECHQSRSEI7KTJQHSTDS2I7L2EM.jpg?width=2012&amp;height=1276&amp;auth=6adc472ff3bbce3ab77912a51eb817cd54b9eea538240dec71272041e5abb3f6&amp;smart=true" type="image/jpeg" height="1276" width="2012">
+        <media:description type="plain">경찰 로고. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>징역 15년 구형에 “땅에 금붙이 묻었어요” 실토한 금은방 강도</title>
       <link>https://www.chosun.com/national/national_general/2024/09/25/D4UCUQ7HXRHHHNUBYIDX3TYZUA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/25/D4UCUQ7HXRHHHNUBYIDX3TYZUA/</guid>
@@ -826,24 +898,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HGRBXG2PT5OHTEN3VNNWA2SC4E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사에게 '디올백' 등을 건넨 재미교포 최재영씨가 24일 오후 서울 서초구 대검찰청 앞에서 검찰수사심의위원회 심의 결과를 기다리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰수사심의위원회(수사심의위)는 24일 윤석열 대통령의 부인 김건희 여사에게 ‘디올백’을 건넨 재미교포 목사 최재영씨를 “기소하라”고 서울중앙지검 수사팀에 권고했다. 디올백은 청탁의 대가가 아니고, 윤 대통령의 직무와 관련성도 없어서 김 여사와 최씨 모두 청탁금지법으로 기소할 수 없다는 검찰 수사 결과와 정반대 결론이다. &lt;br&gt;&lt;br&gt;앞서 지난 6일 열린 김 여사에 대한 수사심의위도 같은 결론을 내린 바 있다. 수사심의위 결과는 권고에 불과해 수사팀이 반드시 따라야 하는 것은 아니지만, 검찰이 김 여사와 최씨의 기소 여부를 결정하는 데 부담이 상당히 커진 상황이다.&lt;br&gt;&lt;br&gt;수사심의위는 이날 최씨의 청탁금지법 위반, 주거침입, 명예훼손, 위계에 의한 공무집행방해 4개 혐의를 심의한 결과, 청탁금지법 위반 혐의에 대해 기소 처분 의견으로 의결했다고 밝혔다. 이날 결정은 ‘기소 의견’과 ‘불기소 의견’이 8대 7로 갈릴 정도 팽팽했다고 한다. 나머지 혐의에 대해서는 불기소 처분이 맞는다는 데 의견을 모았다. 수사심의위원 15명은 강일원 수사심의위원장(전 헌법재판관) 주재로 대검찰청에서 비공개 회의를 열고 8시간 가량 논의 끝에 이같은 결론을 내렸다. 이번에 참여한 위원들은 지난 6일 김 여사에 대한 수사심의 위원과는 한명도 겹치지 않았다고 한다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>전광훈 목사 ‘비례대표 공천 거래’ 혐의 검찰 송치</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/24/YROKHR6HXZHFNKSZEUPBCVN3MY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/24/YROKHR6HXZHFNKSZEUPBCVN3MY/</guid>
-      <dc:creator>서보범 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Sep 2024 13:21:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ADOGP4OV2AFJIFOJGTR5R56IA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전광훈 사랑제일교회 목사가 지난 3월 12일 오전 서울 여의도 자유통일당사에서 열린 홍수환 전 세계 복싱 챔피언 입당식에서 환영사를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전광훈 사랑제일교회 목사가 제22대 총선에서 비례대표 공천을 대가로 신도들에게 금전을 요구한 혐의 등으로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 종암경찰서는 공직선거법 위반 혐의로 전 목사를 검찰에 불구속 송치했다고 24일 밝혔다. 공천 거래 의혹과 연관된 자유통일당 비례대표 예비후보자 등 9명도 공직선거법 위반 혐의로 함께 송치됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면 전 목사는 지난 4월 총선 기간 자유통일당 비례대표 예비 후보자들에게 앞순위 번호 공천을 대가로 수억원대 헌금을 요구한 혐의를 받는다. 또 이를 해명하기 위해 개최한 기자회견 현장에서 유튜버들에게 광고비 명목으로 10만원을 건넨 혐의도 받는다.&lt;br&gt;&lt;br&gt;사랑제일교회 측은 이날 입장문을 내고 “교회와 시민단체의 정당한 활동을 선거법 위반 혐의로 무리하게 연결했다”며 “교회의 권리와 자유를 지키기 위한 활동은 앞으로 계속될 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이어 유튜버에게 금품을 제공했다는 혐의에 대해선 “열악한 환경 속에서도 교회의 목소리를 전달해주는 유튜버를 응원하기 위해 자발적 후원 개념으로 교통비를 지급한 것”이라고 해명했다.&lt;br&gt;&lt;br&gt;전 목사는 2022년 4~10월 자유통일당 대표를 지냈다. 자유통일당은 지난 22대 총선에서 비례대표 의석을 확보하지 못했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>필리핀 가사관리사, 주급제 허용... 취업기간도 3년으로 연장 검토</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/24/N2FKW2Q4VVDXVHOCHGSU3ECEZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/24/N2FKW2Q4VVDXVHOCHGSU3ECEZQ/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Sep 2024 13:06:44 +0000</pubDate>
-      <content:encoded>서울시가 필리핀 가사관리사의 임금 지급 방식을 매주 주는 주급제, 2주에 1번 주는 격주급제, 매달 주는 월급제 등으로 세분화하는 방안을 추진하기로 했다. 7개월로 정해져 있는 가사관리사들의 비자 기간도 최대 3년으로 연장하는 방안을 검토하기로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y4WBVC7NVBGFZHWFFLEGKMXLEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;외국인 가사관리사 조안(오른쪽부터)씨와 자스민 에리카씨가 24일 오전 서울 강남구 홈스토리생활 회의실에서 열린 서울시 외국인 가사관리사 시범사업 관계자 간담회에 참석하고 있다. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 고용노동부와 24일 긴급 간담회를 열고 이 같은 방안을 논의하기로 했다고 밝혔다. 이날 간담회는 앞서 가사관리사 2명의 이탈이 확인됨에 따라 마련된 것이다.&lt;br&gt;&lt;br&gt;지난 18일 필리핀 가사관리사들의 관리를 맡고 있는 서비스 제공업체는 가사관리사 2명이 추석 연휴가 끝난 뒤 숙소로 복귀하지 않았음을 확인했다. 업체는 다음날인 19일 서울시와 고용노동부에 이들의 미복귀 사실을 통보했다.&lt;br&gt;&lt;br&gt;미복귀 사실이 알려지자 일각에서는 ‘월급 규모와 지급 방식에 대한 불만으로 이탈한 것 아니냐’는 지적이 나오기도 했다.&lt;br&gt;&lt;br&gt;이에 서울시는 고용부와 함께 24일 서비스 제공 업체, 가사관리사 등과 함께 긴급 간담회를 진행했다. 간담회에서 서울시와 고용부는 서비스 제공 업체와 가사관리사들의 애로사항을 들었다.&lt;br&gt;&lt;br&gt;김선순 서울시 여성가족실장은 간담회를 마치고 기자들과 만나 “월급을 주급이나 격주로 받기를 희망하는 사람이 있다면 의견을 들어서 할 것”이라며 “다만 오늘 간담회에 참석한 분들은 월급제였으면 좋겠다고 했다”고 말했다.&lt;br&gt;&lt;br&gt;이날 간담회에 참석한 가사관리사들도 급여 수준에 불만을 표하지는 않았다. 김 실장은 “(숙소를 이탈한) 2명이 임금 때문에 이탈하지는 않은 것으로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;간담회에서는 가사관리사들의 체류 기간 연장에 대한 이야기도 나왔다. 취업 활동기간을 3년까지 연장하면 비자 역시 3년으로 연장할 수 있다는 게 고용부 측 설명이다. 현재 가사관리사들은 교육 1개월, 근로 6개월 총 7개월짜리 비자를 받아 일하고 있다.&lt;br&gt;&lt;br&gt;한편 간담회에 참석한 가사관리사들은 임금이나 비자 외에 숙소 통행금지 시간에 대한 문제를 제기했다. 가사관리사들은 숙소 통금 시간이 오후 10시인 점을 두고 “일과를 8시에 마치고 9시에 집에 오면 야외 활동을 할 시간이 없다”며 통금 시간을 0시로 연장해 줄 것을 건의했다.&lt;br&gt;&lt;br&gt;이외에도 가사관리사들은 한 집에서 일을 마치고 다른 집으로 이동할 때 마땅한 휴게 공간이 없다고 지적했다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “간담회에서 나온 의견을 토대로 숙소 통금 시간 연장이나 쉼터 정보 제공 등을 논의할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;한편 서울시와 고용부는 숙소를 이탈한 가사관리사 2명에게 연락을 취했으나 아직 소재를 파악하지 못하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>보수 교육감 단일화 또 무산 되나...후보 2명, 별도 기구서 경선</title>
       <link>https://www.chosun.com/national/education/2024/09/24/YKGQVE4A4FEUBIOV4KC77KVUTI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/09/24/YKGQVE4A4FEUBIOV4KC77KVUTI/</guid>
@@ -862,33 +916,6 @@
       <content:encoded>국민연금공단이 2015년 삼성물산과 제일모직 합병으로 인한 피해액을 돌려받기 위해 최근 삼성을 상대로 손해배상 소송을 낸 것으로 전해졌다.&lt;br&gt;&lt;br&gt;24일 법조계에 따르면, 국민연금은 이재용 삼성전자 회장과 최지성 전 삼성그룹 미래전략실장, 삼성물산 등을 대상으로 “제일모직과의 합병으로 인한 손해를 배상하라”는 취지의 소송을 지난 13일 서울중앙지법에 제기했다. 국민연금이 삼성물산과 제일모직 합병에 찬성하도록 부당한 영향력을 행사한 혐의로 각각 징역 2년 6개월이 확정된 문형표 전 보건복지부 장관, 홍완선 전 국민연금 기금운용본부장도 소송 대상에 포함됐다.&lt;br&gt;&lt;br&gt;삼성물산은 2015년 7월 주주총회에서 제일모직과의 합병을 결의했다. 양사는 합병 비율을 ‘1(제일모직) 대 0.35(삼성물산)’로 하기로 결정했는데, 당시 삼성물산 1대 주주였던 국민연금은 이에 동의했다. 하지만 ‘국정 농단’ 특검 및 검찰은 합병 비율이 이 회장에게 유리하도록 삼성물산의 가치가 낮게 책정됐고, 박근혜 정권의 외압으로 국민연금이 자신에게 손해가 되는 합병에 찬성했다면서 관련자들을 기소했다.&lt;br&gt;&lt;br&gt;이 회장 등 삼성 관계자들은 뇌물제공 등의 혐의로 2021년 1월, 문 전 장관 등은 직권남용 등의 혐의로 2022년 4월 각각 유죄가 확정됐다. 당시 법원은 문 전 장관 사건에서 “삼성 합병 찬성을 목적으로 국민연금기금의 의결권 행사에 위법∙부당한 행위를 해 연금공단에 손해를 초래했다”고 했다.&lt;br&gt;&lt;br&gt;국민연금 관계자는 “앞서 법원으로부터 삼성물산과 제일모직 합병 과정·결과로 인해 공단에 손해가 발생했다는 사실을 인정받았기 때문에 이를 보전하기 위해 소송을 낸 것”이라고 말했다. 참여연대는 삼성물산 합병으로 인한 국민연금 피해액이 최소 5200억원에서 최대 6750억원에 이른다고 추산했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>부산시 주·부금고, 부산·국민은행 그대로 유지</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/09/24/M5AXJKKWARA6FKL7INJJF4NPXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/09/24/M5AXJKKWARA6FKL7INJJF4NPXQ/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Sep 2024 12:55:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMJUEJLTMOGHTEHF7ITRK2OKNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 남구 문현동 문현금융단지 안 BNK부산은행 본점 전경. /BNK부산은행 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산시 주금고(제1금고)와 부금고(제2금고)로 BNK부산은행과 KB국민은행이 각각 다시 선정됐다.&lt;br&gt;&lt;br&gt;부산시는 24일 금고선정심의위원회에서 주금고 1순위로 부산은행을, 부금고 1순위로 국민은행을 각각 선정했다고 밝혔다. 이로써 부산은행과 국민은행은 내년부터 4년간 15조원이 넘는 부산시 예산을 계속 관리하게 됐다. 시는 박형준 부산시장의 결재를 거쳐 오는 10월 초 부산시 금고 최종 선정 결과를 공고할 계획이다.&lt;br&gt;&lt;br&gt;부산은행은 2001년부터 24년째 부산시 주금고를, 국민은행은 12년째 부산시 부금고를 맡고 있다. 올해 부산시 주금고 선정 입찰에는 부산은행 외에 국민은행과 IBK기업은행이 뛰어들어 치열한 경쟁을 펼쳤다.&lt;br&gt;&lt;br&gt;부산시 주금고는 부산시 예산 중 70%가량인 일반회계와 19개 기금을, 부금고는 나머지 30%가량인 14개 특별회계 예산을 각각 관리한다. 또 시 금고로 지정될 경우 지역에서의 브랜드 신뢰도 상승 등 부가효과를 얻는다.&lt;br&gt;&lt;br&gt;시 측은 “앞으로 4년 안에 부산시가 연간 28조원에 달하는 지방소비세 납입관리자로 지정될 가능성이 높다”며 “주금고와 부금고 가운데 높은 예치금리를 제시하는 쪽이 지방소비세를 관리할 수 있게 되는 이점도 있다”고 말했다.&lt;br&gt;&lt;br&gt;부산은행은 부산신용보증재단에 2020년부터 5년간 연평균 101억원, 모두 505억원을 출연하며 상생 경영을 실천하고, 지역 사회공헌 활동을 활발히 펼치는 등 지역 사회 기여와 시민 편의성 등에서 높은 평가를 받은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;국민은행은 올해 부산신보에 은행 가운데 가장 많은 120억원을 출연했고, 금리와 막강한 자금력을 장점으로 부금고 수성에 성공한 것으로 평가된다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“대학 축제서 칼부림”...흉기 난동 예고한 재학생 검거</title>
-      <link>https://www.chosun.com/national/2024/09/24/VYEYSIYXKBCUHDCX5XFIUSLPLI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/09/24/VYEYSIYXKBCUHDCX5XFIUSLPLI/</guid>
-      <dc:creator>김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Sep 2024 12:14:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SETEN3EINRBMZC3DIJUUW3CLEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 열린 강원대 축제 '백령대동제'의 모습. /강원대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원대학교 축제 기간에 흉기 난동 예고 글을 올린 작성자가 경찰에게 붙잡혔다. 작성자는 강원대 재학생인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;강원 춘천경찰서는 24일 협박 등의 혐의로 강원대 학생 A(20대)씨를 붙잡아 조사하고 있다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;앞서 A씨는 이날 자신의 소셜미디어(SNS)에 “오늘 육주(60주년 기념관) 옆 주점에서 칼부림 예고합니다. 오후 8시∼9시 사이에 칼 두 자루, 망치 한 자루, 곡괭이 하나 들고갑니다”는 내용의 게시글을 올린 혐의를 받는다.&lt;br&gt;&lt;br&gt;강원대는 지난 23일부터 26일까지 학교 축제인 ‘백령대동제’ 기간이라, 수많은 학생과 시민이 학내에 몰려 있는 상황이었다.&lt;br&gt;&lt;br&gt;경찰은 기동순찰대와 특공대 등을 학교에 긴급 투입해 학교 주변을 순찰했다. 또 글 작성자를 찾기 위해 IP 추적에 들어갔다.&lt;br&gt;&lt;br&gt;경찰은 글 작성자인 A씨가 교내에 있다는 사실을 파악하고, 같은 날 오후 8시 5분쯤 붙잡았다. 검거 당시 A씨는 실제 흉기를 소지하지는 않았던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 사건 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국제결혼하려 2570만원 송금한다는 ‘피싱피해자’....알고보니 ‘현금수거책’</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/24/UDJUXSGSFBGJ5HQA4HMJVI45CI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/24/UDJUXSGSFBGJ5HQA4HMJVI45CI/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Sep 2024 12:04:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보이스피싱 피해자인 양 행동하다가 뒤늦게 보이스피싱 현금 수거책이라는 사실이 들통난 40대 남성이 경찰에 검거됐다. &lt;br&gt;&lt;br&gt;24일 강원 태백경찰서에 따르면, 추석 연휴를 사흘 앞둔 지난 11일 지역 내 한 은행에서 보이스피싱 피해 의심 신고가 접수됐다. “결혼자금이라며 해외송금을 하려는 사람이 있다”는 내용이었다.&lt;br&gt;&lt;br&gt;지구대 경찰관들이 은행에 가 송금하려던 40대 남성 A씨를 상대로 조사를 했다. 그는 “인스타그램 광고로 국제결혼 중매업체를 알게 됐고, 업체 측에서는 결혼하려면 2500만원을 먼저 베트남 계좌로 입금해야 한다고 했다”고 말했다.&lt;br&gt;&lt;br&gt;A씨는 이 금원을 어디서 구했느냐는 질문에는 ‘몰던 차를 팔아 2570만원을 받았다’고 진술했다. 그러나 A씨의 말에는 수상한 점이 있었다. 경찰관이 중매업체 전화번호 등을 물었는데 그는 전혀 기억하지 못했다. 경찰관들은 A씨가 보이스피싱 피해자가 아닌 자금 세탁책이나 피의자일 수도 있다고 판단해 은행에 A씨 계좌 출금과 이용 정지를 요청했다.&lt;br&gt;&lt;br&gt;그 뒤 경찰은 그가 차를 팔았다는 울산에 거주하는 B씨에게서 차량 구매 사실을 확인한 후 형사팀에 통보했다. 이후 수사 과정에서 B씨가 A씨의 ‘대환대출’을 빙자한 사기 수법에 넘어가 세 차례에 걸쳐 총 2570만원을 송금한 사실을 확인했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 지난 20일 통신사기피해환급법 위반죄로 검거해 수사하고 있으며, A씨 통장에 그대로 남아있는 피해금 2570만원은 절차에 따라 B씨에게 돌려줄 예정이다. 이준호 태백경찰서장은 “보이스피싱은 무엇보다 예방이 중요한 만큼 시민들과 금융기관의 적극적인 협조가 필요하다”며 “피해가 발생하지 않도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>빈곤 노인 67만명에게 ‘줬다 뺏는’ 기초연금</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/09/24/JG2QRJ3XLVBYNFK6NRMLIPRUZ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/24/JG2QRJ3XLVBYNFK6NRMLIPRUZ4/</guid>
@@ -896,15 +923,6 @@
       <description/>
       <pubDate>Tue, 24 Sep 2024 11:53:19 +0000</pubDate>
       <content:encoded>기초생활보장 생계급여를 받는 빈곤 노인 67만여 명이 기초연금 혜택을 보지 못하고 있는 것으로 24일 나타났다. 생계급여 수급자가 기초연금을 받을 경우, 그만큼 생계급여를 깎는 이른바 ‘줬다 뺏는’ 기초연금 제도 때문이다.&lt;br&gt;&lt;br&gt;조국혁신당 김선민 의원실이 보건복지부에서 받은 자료에 따르면, 올해 기준 기초연금을 받았다는 이유로 생계급여가 깎인 노인은 67만4639명에 달했다. 기초연금·생계급여 동시 수급 노인 거의 모두가 감액 대상이었다. 만 65세 이상 소득 하위 70%에게는 월 최대 33만4810원(올해 기준)의 기초연금이 지급되지만, 생계급여를 산정할 때 전월의 기초연금 수령분을 전액 ‘소득’으로 간주해 생계급여를 깎는다. 이에 따라 기초연금이 올라도 정작 생계급여 수급 노인은 혜택을 못 받는 문제가 생겼다. 1인당 삭감된 생계급여액은 월평균 32만4993원으로, 기초연금 최고 지급액의 97.1%에 달했다.&lt;br&gt;&lt;br&gt;이와 관련해 윤석열 대통령은 지난달 국정 브리핑에서 “생계급여를 받는 어르신들은 기초연금을 받으면 그만큼 생계급여가 깎인다”며 “이런 어르신들의 노후 보장을 위해 ‘감액하던 금액’을 추가 지급하는 방안을 추진하겠다”고 했다. 현재 장애인 연금이나 양육 수당 등과 같이 빈곤 노인 기초연금도 생계급여 산정 기준에서 빼겠다는 것이다.&lt;br&gt;&lt;br&gt;이런 가운데 연금 전문가들로 구성된 연금연구회는 이날 정부의 연금 개혁안과 관련해 입장문을 내고 “연령별 국민연금 보험료 차등 부담 등 원칙엔 동의하지만, 연금 지급 보장을 국민연금법에 명문화하는 것은 반대한다”고 했다. 그러면서 “수익률(5년간 연평균 2.35%)이 물가 상승률에도 못 미치는 퇴직연금의 경우엔 가입자가 원하는 경우에 한해 보험료 일부를 국민연금공단에 위탁 운영하는 방안을 검토할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>"공천 받게 해줄게" 1억원 가로챈 前언론인 1심 징역 2년</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/24/UYF43Q2OXVAJ7BFDJVCQZJVFRM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/24/UYF43Q2OXVAJ7BFDJVCQZJVFRM/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Sep 2024 09:22:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NZNZRZIOFZE47JEH7UJYA5XLKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지법, 서울고법 전경. /박강현 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 22대 총선에서 대통령 영부인, 유력 정치인들과의 친분을 이용해 공천을 받게 해주겠다고 속여 1억여 원을 가로챈 전직 언론인이 1심에서 실형을 선고받았다.&lt;br&gt;&lt;br&gt;24일 법조계에 따르면, 서울중앙지법 형사21부(재판장 허경무)는 공직선거법 위반과 사기 혐의로 기소된 전직 여성 언론인 A씨에게 징역 2년을 선고했다. A씨에게 금품을 건넨 혐의 기소된 B씨에게는 징역 1년에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 총선을 앞둔 올해 1∼2월 경북 구미갑 지역구 공천을 받게 해주겠다며 B씨에게 3억원을 요구하고, 1억200만원을 실제로 받아 가로챈 혐의로 재판에 넘겨졌다. B씨는 박근혜 정부 청와대 선임행정관을 지낸 뒤 구미 지역에서 수년 간 여러 선거에 출마했지만 당선되지 못한 상황이었다.&lt;br&gt;&lt;br&gt;A씨는 “영부인을 통해 B씨를 (공천에) 추천했다” “현직 의원을 컷오프 시키면 단수공천 가능성이 있다”면서 B씨를 속인 것으로 조사됐다. 하지만 A씨의 휴대전화를 포렌식한 결과, 현직 의원들에게 B씨를 추천한 메시지는 있었지만 공천을 확답 받거나 대가를 수수하는 내용의 대화는 없었던 것으로 조사됐다. 이에 재판부는 A씨가 실제로 단수 공천을 받아줄 의사와 능력이 없었다고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 “A씨의 행동은 공정하고 투명해야 할 후보자 추천이 대통령실, 영부인이나 일부 유력 정치인을 통해 돈으로 좌지우지될 수 있다는 인식을 불러일으킬 수 있는 범죄로 엄히 벌하지 않을 수 없다”고 밝혔다. B씨에 대해서는 “A씨를 사기죄로 고소한 뒤 자수서를 냈다”면서 양형에 유리하게 참작한다고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] ‘삼시세끼’ 이주형 PD 목숨 앗아간 70대 택시기사 ‘속도위반’ 결론 송치</title>
