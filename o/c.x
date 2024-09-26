@@ -13,6 +13,261 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울 경전철 9개 중 7개가 첫삽 못 떠 … “살아서 타보겠나”</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/27/B6R2OCWGMVHC5N3HEHE4L2LG2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/27/B6R2OCWGMVHC5N3HEHE4L2LG2U/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 16:39:21 +0000</pubDate>
+      <content:encoded>“17년 동안 짓는다 짓는다 희망 고문만 하고 있네요. 살아생전에 타보긴 하려나...” “이러다 아파트 다 낡아서 재건축할 때 돼야 개통하겠네.”&lt;br&gt;&lt;br&gt;지난 25일 서울 위례신사선 경전철 사업자 공모가 유찰되면서 온라인 커뮤니티 등에 시민들 원성이 빗발치고 있다. 시민들은 대통령실과 기획재정부, 서울시 등도 항의 방문한다는 계획이다. 위례신사선은 4만6000가구가 사는 위례신도시와 서울 강남을 연결하는 노선이다. 2008년부터 민자 사업으로 추진했으나 사업자들이 잇따라 사업을 포기하면서 17년째 착공도 못 하고 있다. 앞서 지난 12일에는 서울 서부선 경전철 사업에 제동이 걸렸다. 노선이 지나는 은평구 등 서울 6구 주민뿐 아니라 서부선의 연장 노선으로 계획된 경기 고양은평선 주변 주민들까지 불안해하고 있다.&lt;br&gt;&lt;br&gt;최근 서울 경전철 건설 사업이 줄줄이 표류하고 있다. 현재 서울시가 추진 중인 경전철 노선은 9개. 총사업비는 10조3000억원이 넘는다.&lt;br&gt;&lt;br&gt;서울시는 지하철 9호선 이후 추가로 지하철을 짓지 않고 경전철로 방향을 바꿨다. 지하철의 사각지대를 공사비, 운영비가 덜 드는 경전철로 보완하겠다는 것이다. 하지만 코로나 사태에 이어 러시아·우크라이나 전쟁이 터지면서 원자재 값, 인건비 등 비용이 급증했고, 사업자들이 사업을 포기하거나 재검토하고 있다. 업계 관계자들은 “비용 부담이 불어나 현재 사업비로는 도저히 공사를 할 수 없다”고 했다. 경전철 사업을 우후죽순 추진하면서 사업의 경제성을 따지는 기재부도 더 깐깐하게 검토하는 추세다. 경전철 사업은 기재부의 민간투자 사업 심의위원회 심사(민투심)나 예비타당성 심사(예타)를 통과해야 추진할 수 있는데 이를 통과하기도 까다로워진 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAS6EJP4JRFQBC7LDZNPJ5JGGA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김하경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9개 노선 중 실제 공사 중인 곳은 동북선과 위례선 등 2곳뿐이다. 동북선은 현재 공정률이 41.2%로 2026년 개통하는 게 목표다. 위례신도시 내부를 오가는 위례선은 다른 경전철과 달리 지상을 달리는 트램(노면전차)으로 짓는다. 구간이 짧아 상대적으로 사업 속도가 빠르다. 내년에 개통할 예정이다.&lt;br&gt;&lt;br&gt;사업 진행 속도가 가장 느린 노선은 민자로 추진 중인 위례신사선과 서부선이다. 위례신사선은 사업자로 선정된 삼성물산과 GS건설이 공사비 증액 등을 요구하며 잇따라 사업을 포기해 착공 시기도 불투명하다. 서울시가 지난달 총사업비를 1조4847억원에서 1조7605억원으로 2758억원 늘리고 새 사업자를 찾는 공고를 냈지만 지난 25일 마감 시한까지 신청서를 낸 업체가 없어 유찰됐다. 서울시는 다음 달 초 사업비를 더 늘려 재공모한다는 계획이다. 위례신사선은 다른 경전철과 달리 위례신도시 주민들이 낸 분담금으로 일부 비용을 충당한다. 그래서 주민들 원성이 더 크다. 위례신도시 주민들은 입주 당시 위례신사선 건설비 명목으로 가구당 약 700만원씩을 한국토지주택공사(LH) 등에 냈다. 위례신도시 주민들은 2013년 이후 차례로 입주했는데 10년 넘게 혜택을 보지 못하고 있는 것이다.&lt;br&gt;&lt;br&gt;서부선은 2021년 두산건설 컨소시엄을 사업자로 선정했으나 4년째 본계약을 체결하지 못하고 있다. 안 그래도 공사비 문제가 걸림돌이었는데 최근 투자자 중 한 곳인 GS건설이 컨소시엄에서 빠졌다. 서울시 관계자는 “사업비를 증액하고 새로운 투자자를 찾고 있다”고 했다.&lt;br&gt;&lt;br&gt;강북횡단선과 목동선은 각각 지난 6월과 7월 기재부 예타를 통과하지 못했다. 강북횡단선은 노선이 긴 데다 북악산 등을 통과해 도심 노선에 비해 수요가 적은 점이 문제로 꼽힌다. 서울시는 연말까지 노선과 정차역 등을 조정해 예타를 다시 신청한다는 계획이지만 전문가들은 “구간을 나누는 등 대안을 고민해야 한다”고 했다. 목동선은 기존 지하철 2·5호선과 노선이 겹친다는 지적이 나온다.&lt;br&gt;&lt;br&gt;면목선은 지난 6월 예타를 통과해 기본 계획을 만들고 있다. 2005년 사업을 시작한 지 19년 만에 예타를 통과한 것이다. 면목선은 처음에 민자로 추진했다가 사업자를 구하지 못해 시가 직접 하고 있다.&lt;br&gt;&lt;br&gt;난곡선은 예타 절차가 진행 중이다. 서울시 관계자는 “올해 안에는 결과가 나올 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;사업비를 증액해 경전철을 지은 뒤에는 운영 적자가 걱정이다. 이상욱 서울시의원이 서울시에서 받은 자료에 따르면, 현재 서울시가 운영 중인 경전철 2개 노선(우이신설선·신림선)의 누적 적자는 2500억원에 달한다. 반면에 ‘교통 복지’ 차원에서 경전철 건설을 서둘러야 한다는 견해도 많다. 고준호 한양대 교수는 “예를 들어 난곡선은 교통이 불편한 관악구 난향동 주민들의 삶의 질을 크게 개선할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞경전철(輕電鐵)&lt;/b&gt;&lt;br&gt;&lt;br&gt;‘중(重)전철’이라고도 불리는 일반 지하철과 달리 객차가 작고 가벼운 전철을 말한다. 보통 객차 2~4량을 연결해 운행하며 고무 바퀴가 달린 경전철도 있다. 상대적으로 공사비, 운영비가 덜 든다. 서울 우이신설선, 김포 골드라인 등이 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/X7SO4FD6GJCV7P2VSK3LVDM45Y.png?width=1200&amp;height=675&amp;auth=e53ade5000a8f04803ef1ac3fd5765adba8dffc3c4b7ed74915103a35b7ca290&amp;smart=true" type="image/png" height="675" width="1200">
+        <media:description type="plain">그래픽=김하경</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>조전혁 “10년간 망친 학력 복구”… 정근식 “조희연 계승, 혁신학교 강화”</title>
+      <link>https://www.chosun.com/national/education/2024/09/27/RE7UAJHYXNCXXI5ZXB4TNUJTWQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/09/27/RE7UAJHYXNCXXI5ZXB4TNUJTWQ/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 16:46:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C5BKSTMK3ZFYJCOPYWFHICZB7E.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=송윤혜&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다음 달 16일 치러지는 서울시교육감 보궐선거의 보수·진보 진영 단일화 기구가 각각 조전혁 전 한나라당 의원과 정근식 서울대 명예교수를 단일 후보로 추대하며 양강 구도로 선거 윤곽이 잡혔다. 두 후보는 26~27일 후보 등록을 마치고 본격 선거운동에 나설 예정이다.&lt;br&gt;&lt;br&gt;본지가 두 후보에게 ‘주요 공약’을 받아 살펴본 결과 쟁점별로 의견이 크게 갈렸다. 조 후보는 “처참한 실패로 끝낸 조희연표 정책을 끝내고 학생들 학력 신장을 이뤄내겠다”고 했다. 진보 성향의 조희연 전 서울시교육감이 10년 재임하면서 추진한 ‘학생 인권’ ‘민주 시민 교육’이 실패했다는 주장이다. 반면 정 후보는 “조희연 정책을 계승해 혁신 교육을 강화하겠다”고 했다.&lt;br&gt;&lt;br&gt;◇”시험 부활해 학력 신장” vs “시대에 맞지 않는 방식”&lt;br&gt;&lt;br&gt;조전혁 후보는 ‘학생인권조례 폐지’를 앞당긴다는 입장이다. 2012년 도입된 학생인권조례는 지난 6월 서울시의회가 폐지를 의결했지만, 조희연 전 교육감이 퇴임 전 법원에 폐지 무효 소송을 내 아직 효력이 유지되고 있다.&lt;br&gt;&lt;br&gt;조 후보는 인권조례는 폐지하고 ‘학생권리의무조례 제정’을 공약으로 내세웠다. 학생들이 학교에서 지켜야 할 사항 등을 조례로 만들어 교권을 강화하고 인성 교육도 활성화하겠다는 것이다. 그는 “학생들에게 권리에는 책임과 의무가 뒤따른다는 것을 알려주지 않아 교권이 추락했다고 본다”며 “새 조례를 제정해 ‘책임지는 권리’ 개념을 심어줄 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GGOZGKA27JEZLPZ7CAZZDNGHZU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=송윤혜&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 후보는 학생인권조례 폐지에 반대한다. 그는 “학생인권조례와 교권 추락은 직접적으로 연관이 없는데 오해가 있는 것 같다”며 “인권조례가 있는 시·도에 더 많은 교권 문제가 벌어지는 것이 아니다”라고 했다. 그러면서도 그는 “조례에서 오해를 일으키는 일부를 수정해야 한다는 의견은 경청하겠다”고 했다.&lt;br&gt;&lt;br&gt;조 후보는 2011년 곽노현 당시 서울시교육감이 폐지한 초등학교 지필 평가(중간·기말고사 등 정기 시험)를 되살리겠다고 공약했다. 그는 “좌파 교육 정책인 지필 평가 폐지로 학력 진단이 이뤄지지 않아 학생들 학력 수준이 크게 떨어졌다”며 “아이들 기초 학력을 챙겨 ‘개천에서 용 나는 사회’를 다시 만들겠다”고 했다. 반면 정 후보는 “지필 평가는 창의력이 요구되는 지금 시대에 맞지 않는다”며 반대하는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;‘혁신학교’는 곽노현·조희연 전 교육감의 대표 정책이다. 혁신학교는 주입식 교육에서 벗어나자는 취지로 시험과 숙제를 줄이는 대신 토론과 체험 중심 수업을 내세우는 학교다. 조 전 교육감 시절 서울 지역에 249개까지 늘었다.&lt;br&gt;&lt;br&gt;정 후보는 “진보 교육 정책을 계승해 혁신학교를 확대·강화하겠다”고 했다. 반면, 조 후보는 “당선되면 혁신학교를 점진적으로 모두 폐지하겠다”는 입장이다. 혁신학교 학생들의 학력이 떨어진다며 학부모들이 강하게 반발하는 등 논란이 많기 때문이다.&lt;br&gt;&lt;br&gt;◇趙 “방과 후 학교 지원금 확대” 鄭 “교육 자치 확대”&lt;br&gt;&lt;br&gt;조 후보는 핵심 공약으로 방과 후 학교 지원금을 최대 100만원까지 확대하는 것을 꼽았다. 방과 후 학교는 사교육 경감 등을 목적으로 정규 수업이 끝나고 진행하는 별도 수업이다. 현재 저소득층 학생들에게 60만원 수준의 방과 후 학교 바우처(지원금)를 주고 있다. 이를 100만원으로 확대하고, 지원을 못 받던 일반 학생들에게도 30만원씩 지원하겠다는 것이다.&lt;br&gt;&lt;br&gt;조 후보는 “학생들이 방과 후 학교에서 다음 학기 내용을 선행 학습할 수 있도록 ‘선행학습금지법’ 개정을 정부·국회에 건의하겠다”고 했다.&lt;br&gt;&lt;br&gt;조 후보는 지하철역 같은 교통 거점에 아이를 맡길 수 있는 ‘등·하원 돌봄 스테이션’ 설치도 공약했다. 학생들이 학교에 등교하면 휴대전화를 의무적으로 반납하게 하고, 교사가 수업에만 집중하도록 행정 업무에서 완전히 손을 떼도록 하는 공약도 있다.&lt;br&gt;&lt;br&gt;정 후보의 ‘1호 공약’은 ‘서울교육플러스위원회 설립’이다. 서울에 11개 있는 교육지원청별로 학생·교사·학부모·지역사회 인사가 모인 위원회를 만들어 지역 맞춤형 교육 정책을 짜겠다는 취지다.&lt;br&gt;&lt;br&gt;문재인 정부에서 진실·화해를위한과거사정리위원회 위원장을 지낸 정 후보는 ‘친일·독재 미화 등 역사 왜곡 교육 방지’도 공약으로 내세웠다. 그는 “뉴라이트 사관이 교육 현장에 들어오는 걸 단호하게 반대하겠다”고 했다. 각종 사료를 구비해 교사와 학생이 토론 수업을 하는 ‘역사교육센터 설립’도 공약했다.&lt;br&gt;&lt;br&gt;‘교사의 정치적 기본권 보장을 위한 법·제도 개선’도 공약으로 내세웠다. 이는 전교조가 꾸준히 요구해 온 사안이다. 교사는 ‘교육의 정치적 중립성’ 때문에 선거운동 등 정치 활동이 제한돼 있는데, 이를 풀도록 국회에 요구하겠다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 흉기 찌르고 계란 투척… 3년간 법정 난동 90여건</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/27/DJKWIQVHDNBBFPW5LOE3GSILTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/27/DJKWIQVHDNBBFPW5LOE3GSILTY/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 20:06:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CTGM24Z25EX3A2HETGLAQPMMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지방법원 청사. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;흉기를 휘두르거나 계란∙물병을 투척하는 등 법정 내 폭력∙난동 사태가 최근 3년여간 90여 건 발생한 것으로 나타났다. 최근 재판 중 피고인을 살해하려 한 사건까지 벌어지자 대법원 법원행정처는 다음 주 ‘법정 보안 강화 대책’을 내놓을 예정이다.&lt;br&gt;&lt;br&gt;26일 박준태 국민의힘 의원실이 대법원에서 받은 자료에 따르면, 2021년 이후 올해 8월까지 법정에서 불거진 폭행∙상해 사건은 19건이었고, 단순히 욕설을 하거나 소란을 피우는 난동 사건을 포함하면 90건이 넘는 것으로 집계됐다. 이 밖에 법정 안팎에서 자해∙자살을 시도하거나, 피고인 등이 도주하는 일도 발생했다.&lt;br&gt;&lt;br&gt;지난달 28일 서울남부지법에서는 가상 자산 사기 사건으로 재판을 받던 업체 대표가 방청석에 있던 사기 피해자에게 흉기로 목을 찔리는 일이 발생했다. 언론에 이 살인 미수 사건이 알려지며 법원의 보안 문제가 지적됐다. 그런데 불과 일주일 전인 21일 대전지법에서도 법정에 나온 구속 피고인이 자신의 국선 변호인을 공격하는 일이 있었다. 가해 피고인은 몰래 준비해온 칫솔로 변론을 하던 변호인의 목을 가격해 8㎝ 길이 상처를 입혔다.&lt;br&gt;&lt;br&gt;2022년 7월 울산지법의 한 형사재판에서는 피고인과 채무 관계가 있던 방청객이 판결 선고 직후 소지하던 라이터로 피고인의 이마를 폭행했다. 같은 해 11월 대구지법 포항지원에선 방청석에 있던 사기 사건 피해자가 재판이 끝난 직후 피고인을 향해 계란을 던진 일도 벌어졌다. 계란이 피고인의 몸에 맞아 터지면서 검사의 사건 기록이 오염되기도 했다.&lt;br&gt;&lt;br&gt;판∙검사를 겨냥한 폭력 사건도 일어난다. 2021년 7월 광주지법의 한 손해배상 1심 재판에서 판사가 판결을 내리자, 이에 화가 난 이해관계자가 욕을 하며 판사에게 휴대전화를 집어던져 어깨에 부딪혔다. 그해 5월 인천지법에서는 피고인이 검사를 향해 뚜껑이 열린 물병을 집어던지는 일도 있었다.&lt;br&gt;&lt;br&gt;재판 전후로 응급 환자가 발생하는 사고도 최근 3년여간 130건가량 발생했다. 선고를 받기 위해 나온 피고인이 법정 복도에서 갑자기 심정지 상태에 빠지거나, 증인으로 나온 피해자가 법원 화장실에서 극단적 선택을 시도하기도 했다.&lt;br&gt;&lt;br&gt;전국 법원은 지난달 흉기 피습 사건 이후 법정에 테러를 막기 위한 투명 가림막을 설치하거나, 보안 관리 대원에게 가스총을 휴대하게 하는 등 개별 조치를 취하고 있다. 법원행정처는 이달 중순까지 각 법원에서 마련한 보안 강화 대책과 관련 인력∙예산∙장비 등에 대한 건의 사항을 보고받았고, 다음 주 종합적인 방안을 도출할 예정이다. 박 의원은 “법치주의에 도전하는 폭력 사고를 방지하고, 구멍 뚫린 법정 보안 시스템을 보완하기 위한 대책을 조속히 도입해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] ‘겨레의 심장된 고귀한 가족’ 반포 래미안 詩碑 놓고 시비</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/27/TSMAD2KKFNAPXMGHYYVLO3T7EU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/27/TSMAD2KKFNAPXMGHYYVLO3T7EU/</guid>
+      <dc:creator>김병권 기자, 안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 20:05:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZTYWEG5PBBGEDENTBKCUI2BABI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 반포동 래미안 퍼스티지 아파트 단지에 조성된 ‘영원한 파라다이스’ 시비(詩碑). /김병권 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남의 한 아파트 단지에 있는 시비(詩碑)의 내용이 최근 논란이 됐다. 서초구 반포동 래미안 퍼스티지 단지에 있는 ‘영원한 파라다이스-래미안 퍼스티지’라는 비석이다. 우면산 정기 받고 한강의 서기 어려 장엄한 우리의 궁궐’ ‘겨레의 심장 되시는 고귀하신 가족들’ 같은 문장에 대해 온라인상에서 “비싼 아파트에 거주하니 고귀하다는 말인가” “천박한 문장이다” 같은 지적이 제기됐다. 이 아파트는 2009년 반포주공 2단지를 재건축한 곳으로 지난 7월 84㎡(34평)가 43억원에 거래됐다.&lt;br&gt;&lt;br&gt;26일 본지 기자들이 찾은 아파트엔 논란이 된 비석 외에 유사한 시가 새겨진 시비가 하나 더 있었다. 주민 대다수는 시비의 존재 자체도 모르거나 내용을 거의 모르고 있었다. 주부 이모(49)씨는 “좋은 시라고 생각하는 건 아니지만 타인에게 피해를 준 것도 아니고 사유지에 세워진 비석을 두고 과도한 논란 같다”고 했다. 10년 넘게 이곳에 거주한 직장인 조모(28)씨는 “학창 시절 자주 본 비석인데 시 구절이 너무 낯간지러워 철거했으면 하는 바람이 있었다”고 했다.&lt;br&gt;&lt;br&gt;아파트 시공사인 삼성물산은 “2009년 준공 당시 재건축 조합의 결정으로 조성된 비석”이라고 했다. 당시 아파트 준공과 입주를 기념하려는 목적으로 세운 것으로 알려졌다. ‘영원한 파라다이스’ 원작자 구성달(79)씨는 “20년 전 재건축에 들어갈 때 주민인 내가 돈 한 푼 안 받고 조합에 투고한 것”이라며 “이제 와서 논란이 되는 건 이해가 가지 않는다”고 했다. 이어 “당시 주민들에게 희망을 주기 위해 쓴 시”라고 했다.&lt;br&gt;&lt;br&gt;실제 서울의 여러 재건축 아파트엔 비슷한 내용의 비석이 있다고 한다. 2019년 입주한 강동구 고덕동의 한 아파트에도 ‘꿈을 꾸었다. 아파트 조경의 신기원을 열겠다고’ ‘그 꿈은 어느 결에 사명이 되었다’ 같은 구절이 새겨진 시비가 있다. 역시 재건축 조합의 결정으로 조성됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 감사원 공직감찰본부장에 이용출</title>
+      <link>https://www.chosun.com/politics/goverment/2024/09/27/DJ6CSE6JN5ACPAA3ZBFWHRZNYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2024/09/27/DJ6CSE6JN5ACPAA3ZBFWHRZNYY/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 20:00:00 +0000</pubDate>
+      <content:encoded>감사원이 핵심 보직인 공직감찰본부장(1급)에 이용출(53) 사회복지감사국장(2급)을 발탁한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;26일 본지 취재를 종합하면, 감사원은 최근 제1사무차장(1급)에 신치환 공직감찰본부장을 보임하고, 이 국장을 승진시켜 신임 공직감찰본부장으로 보임했다. 제1사무차장 자리는 지난 21일 현완교 차장이 명예퇴직해 공석이었다.&lt;br&gt;&lt;br&gt;공직감찰본부장은 공직기강 점검 업무를 총괄하고 국가기관에 대한 특별조사와 공직자 부패행위 신고 사항 감사를 수행하는 핵심 부서인 특별조사국을 지휘하는 보직이다. 전국의 지방자치단체에 대한 감사를 도맡아 하는 지방행정감사1·2국, 정부의 디지털 사업에 대한 감사를 담당하는 디지털감사국도 예하에 두고 있다. 공직감찰본부는 문재인 정부의 국가 통계 조작 의혹, 북한 비무장지대 감시 초소(GP) 철수 부실 검증 의혹, 사드(THAAD·고고도 미사일 방어체계) 배치 고의 지연 의혹 등을 감사하고 있다.&lt;br&gt;&lt;br&gt;이용출 신임 본부장은 1971년 충남 부여 출신으로 대전 보문고와 연세대 행정학과를 졸업했고 행정고시에 합격한 뒤 감사원 IT감사단 1과장, 인사혁신과장, 재정·경제감사국 1과장, 행정안전감사국장, 사회복지감사국장 등을 역임했다. 행정안전감사국장 시절에는 선거관리위원회의 직원 자녀 특혜 채용 의혹에 대한 감사를 착수 단계에서 지휘했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[알립니다] 우리 아이 출생 소식, 액자에 담아 간직하세요</title>
+      <link>https://www.chosun.com/special/announcement/2024/09/27/LYHA3R7G35BJBGINH64TS36WVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2024/09/27/LYHA3R7G35BJBGINH64TS36WVU/</guid>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 16:59:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5SAK6JKMBBHVHC5KXFK55NVABE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 우리 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 20일 ‘우리 아이 이름으로 초록우산에 기부했어요’ 코너에 실린 김리아&amp;lt;사진&amp;gt;양이 이번 주 주인공입니다. 자세한 내용은 홈페이지(&lt;a href="http://reprint.chosun.com/" target="_blank"&gt;reprint.chosun.com&lt;/a&gt;)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[알립니다] ‘아이가 행복 AWARDS’ 주인공을 찾습니다</title>
+      <link>https://www.chosun.com/special/announcement/2024/09/27/ACK2HDSIVRFYZFWEH7OSXGAZZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2024/09/27/ACK2HDSIVRFYZFWEH7OSXGAZZU/</guid>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 16:59:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PB2XDZTQ5ZADNO7CBA5MY2CP6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘아이가 행복입니다 AWARDS(어워즈)’의 주인공을 찾습니다.&lt;br&gt;&lt;br&gt;본지와 대한상공회의소는 사회 각 분야에서 저출생 극복에 기여한 기업·기관·단체를 선정해 시상하는 ‘아이가 행복입니다 AWARDS’를 올해 새롭게 제정합니다. 국가적 과제인 저출생 극복을 위해 노력한 우수 사례를 발굴해 널리 알리고 ‘아이를 낳고 키우기 좋은 사회’로 나아가는 범사회적 분위기를 조성하려 합니다.&lt;br&gt;&lt;br&gt;본지는 우리나라 합계 출산율이 1.0명 아래로 떨어진 2018년부터 ‘아이가 행복입니다’를 주제로 저출생 극복 캠페인을 벌이고 있습니다. 매주 금요일 고정 지면에 아이들 출생 소식을 싣고 국내외에서 출생률 반등에 성공한 기업과 지역을 방문해 그 비결을 전하고 있습니다. 또 저출생 극복을 주제로 한 가족 수기·동영상 공모전, 국제 콘퍼런스 등 다양한 행사도 개최해 왔습니다.&lt;br&gt;&lt;br&gt;본지는 대한상의와 공동 주최하는 ‘아이가 행복입니다 AWARDS’로 저출생 해결에 앞장서는 모범 사례를 발굴해 널리 알리고자 합니다. 이 상을 통해 대한민국의 출산·양육 제도와 문화를 혁신하는 데 기여하고자 합니다. 저출생 극복을 위해 노력한 기업·기관·단체 등은 누구나 신청할 수 있습니다. 공모 분야는 출산 장려, 돌봄 지원, 환경 조성입니다.&lt;br&gt;&lt;br&gt;▲&lt;b&gt;접수 마감&lt;/b&gt;: 9월 30일(월)&lt;br&gt;&lt;br&gt;▲&lt;b&gt;시상식&lt;/b&gt;: 10월 18일(금)&lt;br&gt;&lt;br&gt;▲&lt;b&gt;신청 방법&lt;/b&gt;: 홈페이지(&lt;a href="http://behappykorea.kr/" target="_blank"&gt;behappykorea.kr&lt;/a&gt;) 및 이메일(&lt;a href="mailto:happykorea2024@gmail.com" target="_blank"&gt;happykorea2024@gmail.com&lt;/a&gt;)&lt;br&gt;&lt;br&gt;▲&lt;b&gt;제출 서류&lt;/b&gt;: 참가 신청서, 성과 소개서(홈페이지에서 양식 다운로드) 및 증빙 서류&lt;br&gt;&lt;br&gt;▲&lt;b&gt;문의&lt;/b&gt;: 아이가 행복입니다 사무국(1551-1078)&lt;br&gt;&lt;br&gt;▲&lt;b&gt;주최&lt;/b&gt;: 조선일보사·대한상공회의소&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[인사] 기획재정부 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/09/27/AGPWQRMTSJDWZH7ZIUERGIBIMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/09/27/AGPWQRMTSJDWZH7ZIUERGIBIMU/</guid>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 16:54:55 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;기획재정부&lt;/b&gt;▷경제공급망기획관 이형렬&lt;br&gt;&lt;br&gt;▲&lt;b&gt;환경부&lt;/b&gt;▷중앙환경분쟁조정위원장 황계영▷환경보건국장 박연재▷영산강유역환경청장 김영우▷녹색전환정책관 서영태&lt;br&gt;&lt;br&gt;▲&lt;b&gt;BBS불교방송&lt;/b&gt;▷사장 서진영&lt;br&gt;&lt;br&gt;▲&lt;b&gt;YTN&lt;/b&gt;&amp;lt;보도국&amp;gt;▷이슈기획팀장 겸임 황보연▷사회부장 이만수▷과학기상부장 박소정&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 남상현 前 감사원 감사위원 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/09/27/BAPFM3JVPBBGTN6SLVO6SFOUAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/09/27/BAPFM3JVPBBGTN6SLVO6SFOUAE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 16:54:16 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;남상현&lt;/b&gt; 前 감사원 감사위원 별세, &lt;b&gt;조정현&lt;/b&gt; 남편상, &lt;b&gt;남윤정&lt;/b&gt;·&lt;b&gt;남승엽&lt;/b&gt; 부친상=25일19시35분 신촌세브란스병원, 발인 28일9시, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이인수&lt;/b&gt; 별세, &lt;b&gt;이영표&lt;/b&gt; 아워홈 경영총괄사장 부친상=26일2시 이대서울병원, 발인 28일6시, (02)6986-4440&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정순정&lt;/b&gt; 별세, &lt;b&gt;이미선&lt;/b&gt;·&lt;b&gt;이은희&lt;/b&gt;·&lt;b&gt;이수종&lt;/b&gt; 언론중재위원회 전문위원 모친상, &lt;b&gt;송낙길&lt;/b&gt; 장모상, &lt;b&gt;김묘경&lt;/b&gt; 시모상=26일0시 강원대병원, 발인 28일8시, (033)254-5611&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘건국전쟁’ 김덕영 통일문화대상</title>
+      <link>https://www.chosun.com/national/people/2024/09/27/LJDJV2CWXBEGBM4RNPUALKMBBQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/27/LJDJV2CWXBEGBM4RNPUALKMBBQ/</guid>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 16:53:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z45XNBOIOVFVXIB2Y4UBTIELD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;통일문화연구원(이사장 라종억·뒷줄 가운데)이 26일 주최한 통일문화대상 시상식. 앞줄 왼쪽부터 수상자 임민혁 양선덕 김덕영 강병인 이태규씨. /통일문화연구원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이승만 전 대통령의 생애와 정치적 행보를 다룬 다큐멘터리 영화 ‘건국전쟁’을 만든 김덕영 감독이 26일 통일문화연구원과 매일경제가 주최하는 ‘제17회 통일문화대상’ 대상을 받았다. 문화부문상은 양선덕 서예가와 강병인 작가, 언론부문상은 이태규 한국일보 논설실장과 임민혁 조선일보 정치부 차장이 수상했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>황대일 신임 연합뉴스 사장</title>
+      <link>https://www.chosun.com/national/people/2024/09/27/K7ZHPBC5MNGSZLMWTEXV3LZBAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/27/K7ZHPBC5MNGSZLMWTEXV3LZBAE/</guid>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 16:53:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4F4LGEXE5FTLN4WTNGLTOODQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연합뉴스 신임 사장에 황대일(59) 연합뉴스 선임기자가 내정됐다. 연합뉴스 경영감독 기구인 뉴스통신진흥회는 26일 임시이사회를 열고 사장추천위 추천을 받은 세 후보 중 황 선임기자를 최종 선정했다. 황 신임 사장 후보는 1990년 연합뉴스에 입사해 자카르타 특파원, 경제부장, 콘텐츠총괄본부장 등을 지냈다. 다음 달 10일 연합뉴스 주총에서 정식 선임되면 3년 임기를 시작한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이후송·김현대, 고운문화상</title>
+      <link>https://www.chosun.com/national/people/2024/09/27/BOKW7VG7NJFUXDKCVEKAAW7SFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/27/BOKW7VG7NJFUXDKCVEKAAW7SFE/</guid>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 16:53:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5BXSY3FDVNDAPN7ZQEZVWJN7T4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/고운문화재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재단법인 고운문화재단(이사장 이인수·가운데)은 제32회 고운문화상 수상자로 이후송&amp;lt;오른쪽&amp;gt; 고용노동부 안양지청장과 김현대&amp;lt;왼쪽&amp;gt; 경기도 미래성장산업국장을 선정하고 25일 시상식을 열었다. 올해 32회째를 맞이한 고운문화상은 수원대학교·수원과학대학교 설립자인 고운 이종욱(1921~2009) 박사가 국가 사회 발전에 기여한 사람들의 공적을 기리기 위해 만든 상이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>49년간 의료 봉사 ‘전·진·상 의원’ 올해 다섯 번째 KT희망나눔인상</title>
+      <link>https://www.chosun.com/national/people/2024/09/27/CBMLQYAFI5HCBPNXXS4DEZCTQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/27/CBMLQYAFI5HCBPNXXS4DEZCTQI/</guid>
+      <dc:creator>성유진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 16:52:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TFT3UCMKIZFWPE3WI4QNX3JLGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘전·진·상 의원’의 배현정(가운데) 원장, 최소희(오른쪽) 약국장, 최혜영 사회복지사. /KT그룹 희망나눔재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 금천구 시흥동의 빌라촌엔 ‘전·진·상 의원’이라는 간판을 단 낡은 벽돌 건물 하나가 있다. 1975년 벨기에 출신 배현정(78·본명 마리 헬렌 브라쇠르) 원장 등이 “변두리 판자촌을 살펴달라”는 고(故) 김수환 추기경 권유를 받고 설립한 곳이다. 당시 4만명이 거주하던 시흥 판자촌은 환자의 10% 이상이 결핵 환자일 정도로 열악한 환경이었다. 전·진·상 의원은 49년 간 이곳을 지키며 수십만명에게 무료 혹은 최소한의 비용만 받고 의료 혜택을 베풀어 왔다.&lt;br&gt;&lt;br&gt;KT그룹 희망나눔재단은 전·진·상 의원을 올해 다섯 번째 희망나눔인상으로 선정했다고 26일 밝혔다. 그동안 형편이 어려운 이들에겐 양육비·생계비·장학금도 지원해왔다. ‘전·진·상’은 온전한 자아 봉헌(全), 참다운 사랑(眞), 끊임없는 기쁨(常)이란 뜻이다. 설립자 중 한 명인 배 원장은 벨기에에서 간호대를 졸업한 후 국제가톨릭형제회 단원으로 한국에 왔다. 자원봉사 의사만으론 부족하다는 생각에 중앙대 의대에 편입, 1985년 가정의학과 전문의 자격을 따기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>金배추에… 대형마트 김치 품절 우려</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/27/MZEIY3UQNRE2ZG7RIRZ7ZKGPO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/27/MZEIY3UQNRE2ZG7RIRZ7ZKGPO4/</guid>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 16:41:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DH46LWQQEBDEXK3P5W6PI4AMAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 오후 서울 시내 한 대형 마트의 김치 코너. ‘배추 수급 문제로 배추김치가 소량 입점돼 있다’는 안내문이 걸려 있다. 한여름 같은 무더위가 이어지면서 배추 작황은 부진하고 배추김치 가격은 뛰고 있다. 배추김치가 품절된 마트도 나오고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>생체 정보 무단 수집, 월드코인 과징금 11억</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/27/HYIIP4YJV5AO7GEVMKPBDSM3MU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/27/HYIIP4YJV5AO7GEVMKPBDSM3MU/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 16:39:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YVOVBCS27YDGXCGLOY2BCNYY34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;월드코인에서 홍채 정보를 등록할 때 사용하는 기기 오브. /월드코인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 회원 3만여 명의 홍채 등 생체 정보를 무단 수집했다는 논란에 휩싸였던 ‘월드코인’이 개인정보보호법 위반 혐의로 과징금 11억400만원을 물게 됐다. 개인정보보호위원회는 25일 월드코인에 과징금 7억2500만원, 개인 정보 처리 업무를 맡은 툴스 포 휴머니티(TFH)에 과징금 3억7900만원을 각각 부과하기로 했다고 26일 밝혔다. 위원회는 “이용자가 홍채 코드를 삭제·정지할 방법도 마련하지 않았고, 14세 미만 아동의 연령 확인 절차도 미흡했다”고 했다.&lt;br&gt;&lt;br&gt;월드코인은 홍채 인식 기술을 기반으로 하는 암호화폐로, 작년 7월 출시했다. 개인 홍채 정보를 입력하면 코인 지갑인 ‘월드 앱’에 코인을 보관할 수 있게 돼 있다. 지난 6일 기준 한국에서 2만9991명이 월드 앱에 홍채 정보를 입력했다고 한다. 이 과정에서 이 업체들은 법적 근거 없이 홍채 정보 등을 수집했고, 독일 등의 관련 해외 법인에 이 정보를 무단으로 옮긴 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한가인 “인생 최고 일탈은 일찍 결혼한 것...혼전 임신 의심받기도”</title>
+      <link>https://www.chosun.com/national/people/2024/09/27/4HQ3YT57HNGBLBB56MFAJJKU5I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/27/4HQ3YT57HNGBLBB56MFAJJKU5I/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 15:03:32 +0000</pubDate>
+      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IIDLNAQ35JASTBCF2KFVT4C2AM.png"&gt;&lt;figcaption&gt;&lt;small&gt;배우 한가인./유튜브 채널 '자유부인 한가인'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 한가인(42)이 인생의 최고 일탈로 ‘일찍 결혼한 것’을 꼽았다.&lt;br&gt;&lt;br&gt;배우 한가인은 26일 자신의 유튜브 채널에 첫 영상을 올렸다. 이날 한가인은 제작진의 질문에 답변하는 시간을 가졌다.&lt;br&gt;&lt;br&gt;‘최고 일탈이 무엇이냐’는 PD의 질문에 한가인은 “일찍 결혼한 것이다. 진짜 상상도 못 했다. 왜 이렇게 빨리했는지 모르겠다”며 “다들 합리적인 의심들을 했다. ‘저건 혼전 임신이 아니면 저럴 수가 없다. 말이 안 된다’고 했다”고 했다. 그러면서 “사실은 내가 사실은 좋은 가정에 대한 로망이 있었던 거 같다. 그래서 일찍 결혼한 거 같다. 화목한 가정을 꾸리고 싶었다”고 덧붙였다.&lt;br&gt;&lt;br&gt;별거설과 이혼설에 대해서도 언급했다. 한가인은 “지금은 솔직히 그런 이야기가 없어졌는데 결혼하고 사이 안 좋다는 이야기가 너무 많았다. 쇼윈도 부부라는 이야기나 이혼설, 별거설도 있었다”며 “결혼하고 아기를 6~7년 동안 안 낳으니까 그런 이야기가 슬슬 나왔는데 이제 아기 낳고 잘 사니까 지금은 없어졌다”고 말했다.&lt;br&gt;&lt;br&gt;그는 “서른다섯에 첫째를 낳았다. 그때 너무 늦었다고 생각했는데 지금 생각해 보면 그렇게 늦은 것도 아니었다”며 “당시에 (결혼) 10년 넘고서는 정말 매일 스트레스였다. 남편이 어디 나갈 때 ‘나한테 아기 언제 낳냐고 하면 뭐라고 하지?’ 이 얘기를 해서 우리가 항상 인터뷰할 때 그 얘기 물어보면 대충 그냥 이때쯤이라고 얘기하자고 하기도 했다”며 당시를 떠올렸다.&lt;br&gt;&lt;br&gt;아이 없던 11년간의 결혼생활은 행복했냐는 질문에는 “그땐 그냥..”이라며 말을 아꼈다. 결혼 전 대시는 많이 받았냐는 질문에는 “못 받았다. 그것도 너무 슬프다. (연정훈이) 첫 대시는 아니라서 다행”이라며 “여중, 여고를 나왔고 주변에 남자가 없었다. 내가 진짜 학교랑 집만 왔다 갔다 했다. 누굴 만날 수 있는 기회가 없었다”고 했다.&lt;br&gt;&lt;br&gt;한편, 1982년생 한가인은 만 23세였던 2005년 네 살 연상의 연정훈과 결혼하며 화제를 모은 바 있다. 두 사람은 2016년 딸을, 2019년엔 아들을 품에 안았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오토바이 난폭운전 지적에 너클 끼고 ‘퍽’... 치아 3개 부러져 </title>
+      <link>https://www.chosun.com/national/national_general/2024/09/27/BAYKN2PEUFACHAAJ3LXGMURNXU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/27/BAYKN2PEUFACHAAJ3LXGMURNXU/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 15:52:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUH3OJTLML65KTJYKXURIY3QCM.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울 영등포경찰서./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오토바이 난폭 운전을 지적당한 20대 남성이 너클 낀 손으로 시민을 폭행해 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 26일 특수상해 혐의를 받는 20대 남성 A씨를 전날 현행범 체포했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 25일 오후 10시 15분쯤 영등포구 영등포역 인근 길가에서 오토바이 난폭 운전에 항의하는 남성 2명을 너클 낀 손으로 때린 혐의를 받는다.&lt;br&gt;&lt;br&gt;폭행을 당한 50대 남성은 치아 3개가 부러졌고, 다른 남성 역시 얼굴을 다친 것으로 전해졌다.&lt;br&gt;&lt;br&gt;피해자의 신고를 받고 출동한 경찰은 너클을 압수하고 A씨를 검거했다.&lt;br&gt;&lt;br&gt;경찰 측은 “정확한 사건 경위는 조사 중”이라며 “구속영장 청구 여부를 검토하고 있다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“의사 300명 늘 때 외과는 100명 줄어… 50대 은퇴하면 수술 대란”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/09/27/EZGYHMJ3EJE5HGXTCJR6ERYGYI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/27/EZGYHMJ3EJE5HGXTCJR6ERYGYI/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 16:26:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N6EO5CM3OFANZCD4LKIJASDOGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이우용 삼성서울병원 암병원장은 본지 인터뷰에서 “전공의들이 돌아오려면 정부가 의대 정원 갈등 문제에 유연하게 대응하거나, 의료 수가·소송과 관련해 파격적인 정책을 제시해야 한다”고 말했다. 사진은 그가 서울 일원동 삼성서울병원 내 수술실 앞 복도에서 의료진과 대화하는 모습. /삼성서울병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“의사 국시를 통과한 사람이 1999년 2772명에서 2019년 3115명으로 343명 늘어날 동안, 신규 외과 전문의는 같은 기간 229명에서 126명으로 103명 줄었다. 고령화로 인해 치료하기 어려운 복합 질환자가 늘고 있는데 외과 의사들이 앞으로 은퇴하면서 수술실을 대거 떠나면 ‘수술 대란’이 올 것이다.”&lt;br&gt;&lt;br&gt;이우용 삼성서울병원 암병원장은 대장암 수술의 대가로 불린다. 대장항문외과 전문의인 그는 세계대장항문학회 회장도 맡고 있다. 그는 몸에 흉터가 남지 않게 배꼽 주위에 작은 구멍을 내 치료하는 ‘대장암 복강경 수술’을 국내에 정착시켰다. 이 원장은 “최근 국내에서 대장암뿐 아니라 췌장암 등의 발생 비율도 올라가고 있다. 고난도 수술을 할 수 있는 실력 있는 외과 의사가 필요하다”며 외과 의사들에 대한 집중 지원이 필요하다고 강조했다. 현재 50대 외과 의사들이 정년 퇴임하는 10년쯤 후엔 고난도 수술에 차질이 빚어질 수 있다는 것이다. 다음은 일문일답.&lt;br&gt;&lt;br&gt;-외과 의사가 줄어드는 이유는.&lt;br&gt;&lt;br&gt;“우리 의료 시스템은 특이하다. 의료 수가(건보공단이 병원에 주는 돈)는 낮은데 수술은 많이 하는 ‘박리다매’에 가깝다. 외과 의사들은 수술 원가의 80%를 보전받는다. 20%씩 손해 보며 일하고 있다는 뜻이다. 수가를 정상화해야 한다.”&lt;br&gt;&lt;br&gt;-외과 의사가 얼마나 줄었나.&lt;br&gt;&lt;br&gt;“지난 2022년 전국 권역·지역응급의료센터(대형 병원 응급실)를 방문한 환자 55.4%(30만4725명)가 외과 수술·처치를 받았다. 정형외과는 19.2%, 흉부외과는 6.1% 등 순이다. 그런데 신규 외과 전문의는 20년 넘게 줄고 있다. 1997년 279명에서 2021년 143명으로 절반 가까이로 쪼그라들었다.”&lt;br&gt;&lt;br&gt;-수가를 어떻게 정상화해야 하나.&lt;br&gt;&lt;br&gt;“외과 수가를 올리는 것만으로 안 된다. 외과에는 다양한 분과가 있다. 대장, 간, 췌장 등을 다루는 분과는 응급수술 할 때가 많다. 이 분야에 정밀 유도폭탄을 던지듯 집중적으로 보상해줘야 한다. 지금은 외과를 전공하더라도 응급수술이 비교적 적은 유방, 갑상선, 혈관 등의 분야에 몰리고 있다.”&lt;br&gt;&lt;br&gt;-의료 소송 부담도 크다고 한다.&lt;br&gt;&lt;br&gt;“20년 전까지만 해도 의료 소송이 흔치 않았다. 그런데 지금은 수술실에 보안 카메라를 달고 의사를 감시한다. 그러니 ‘방어 진료’를 할 수밖에 없다. 환자 생존율이 10%에 그쳐도 무리해서라도 수술을 진행했던 과거와 달리, 생존율이 60%여도 사망할 확률 40% 때문에 수술을 하지 않는 분위기다. 수술 후 환자가 잘못되거나 사망하면 의사 면허를 잃을 수 있다는 부담 때문이다.”&lt;br&gt;&lt;br&gt;-대장항문 분과를 택한 이유가 있나.&lt;br&gt;&lt;br&gt;“대장암은 다른 암 질환에 비해 완치율이 높은 편이다. 그래서 환자들과 오래 같이 지낼 수 있다. 새로운 수술법도 계속 나오고 있다. 환자들한테 해줄 수 있는 것도 많다.”&lt;br&gt;&lt;br&gt;-보람을 느꼈던 순간이 있나.&lt;br&gt;&lt;br&gt;“20년 전, 대장암 3기 10대 환자가 찾아왔다. 수술을 마치고 항암 치료까지 잘 견뎌냈다. 시간이 지나 그 환자가 결혼한다고 한 번 더 찾아왔다. 이후엔 세 아기를 낳을 때마다 찾아왔다. 환자 한 명을 수술했을 뿐인데 한 가족을 살렸다는 보람을 느꼈다. 외과 의사가 느끼는 기쁨이다.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JVAFI3XCLBGKTNFM3CIYOKJS3Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;-대장암 환자를 어떻게 흉터 없이 수술했나.&lt;br&gt;&lt;br&gt;“배꼽 주변을 1㎝ 정도 잘라 치료하는 ‘복강경’ 수술을 했다. 이렇게 수술하면 흉터가 거의 남지 않는다. 2000년대 국내에선 생소한 수술 기법이었다. 최대한 수술을 적게 하고 흉터가 남지 않길 원하는 대장암 환자들에게 도움이 될 것 같아 국내에 정착시켰다. 지금은 대장암 수술의 80%를 복강경으로 한다. 외국 의사들이 이 수술법을 배우려고 우리나라를 찾을 만큼 치료 기술이 세계적으로 앞서 있다.”&lt;br&gt;&lt;br&gt;-새로운 수술법을 연구하는 이유는.&lt;br&gt;&lt;br&gt;“모든 걸 환자 관점으로 생각한다. 환자한테 좋은 게 가장 좋은 치료법이다. 국내에 정착시키기 위해 ‘복강경 대장 수술 연구회’를 만들었다. 관심 있어 하는 후배 의사 수십명을 모아 두 달에 한 번씩 교육했다. 혼자서 환자 수천명 살리는 것도 중요하지만, 실력 있는 후배 의사들을 계속 양성해서 더 많은 중증 환자를 살리고 싶었다. 표준화된 시스템을 만들어 전 국민에게 골고루 혜택이 가게 만드는 것도 중요하다고 본다.”&lt;br&gt;&lt;br&gt;-지금은 후배를 양성하기가 어려울 것 같다.&lt;br&gt;&lt;br&gt;“가장 심각한 문제다. 세계 최고 병원이 되려면 진료·연구·교육 세 가지를 갖춰야 한다. 지금은 환자를 진료하는 데만 힘을 쏟고 있다. 연구와 교육은 거의 ‘올스톱’ 됐다. 내년 2월이 고비다. 이후엔 새로운 전문의가 배출되지 않아 전공의 다음 단계인 전임의 수가 부족해지기 때문이다. 의정 갈등이 계속되면 전공의는 물론이고 전임의 대(代)도 끊기게 된다.”&lt;br&gt;&lt;br&gt;-삼성서울병원이 뉴스위크 선정 세계 병원 암 분야 3위에 올랐다.&lt;br&gt;&lt;br&gt;“말 그대로 세계적인 인정을 받았다는 의미다. 제일 기뻐해야 할 사람은 국민이다. 30년 전만 해도 경제적 여유가 있는 사람들은 억대 치료비를 내고 외국에 가서 암 수술을 받았다. 지금은 그보다 낮은 가격에 세계 최고 수준의 암 치료를 받을 수 있다. 세계 1등을 꿈꿔볼 만하다. 그런데 의정 갈등 사태가 너무 오래가고 있다. 빨리 해결되지 않으면 환자들은 세계 최고 수준의 의료를 누리지 못하게 된다.”&lt;br&gt;&lt;br&gt;-의정 갈등은 어떻게 해결할 수 있나.&lt;br&gt;&lt;br&gt;“의정 간 협의점을 찾아야 하는데 어느 쪽도 양보하고 있지 않다. 뾰족한 답이 없어 답답하다. 전공의들이 돌아오려면 정부가 의대 정원 갈등 문제에 유연하게 대응하거나, 의료 수가·소송 관련 파격적인 정책을 제시해야 한다. 외과 레지던트(전공의)는 가장 마지막에 돌아올 것이다. 지금까지 해결된 게 아무것도 없기 때문이다.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EW7SVDVTABAL7BS7Y7FSHAZXRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이우용 세계대장항문학회장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;☞이우용&lt;/b&gt;&lt;br&gt;&lt;br&gt;대장항문외과 전문의이자 삼성서울병원 암병원장. 세계 81국 대장항문 분야 의사들의 학술 단체인 세계대장항문학회 회장도 맡고 있다. 6000건 이상의 대장암 수술을 집도하며 복강경, 항문 내시경 미세수술 등 흉터를 최소화하는 수술법을 국내에 정착시켰다. 생식기를 통하는 방식으로 맹장을 처음 ‘무(無)흉터’ 수술한 기록도 갖고 있다. 서울대 의대를 졸업하고 삼성서울병원에서 대장암센터장, 외과 과장, 기획실장, 건강의학 본부장 등을 두루 거쳤다. 대한외과학회 이사장, 대한대장항문학회 이사장, 한국공공조직은행 이사장 등도 지냈다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/AEMGXMSFHVHDVBMTEHGKA45OCA.png?width=1200&amp;height=675&amp;auth=34870316e4b161efd221494395d602549290fdd7ef6466ed41f2f4ab484d1791&amp;smart=true" type="image/png" height="675" width="1200">
+        <media:description type="plain">사진=삼성서울병원</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>AI·로봇·우주 인재 ‘톱티어 비자’로 모셔온다</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/27/EXXPYHDXIZHQHN5H7J7TF7JE2M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/27/EXXPYHDXIZHQHN5H7J7TF7JE2M/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 16:03:32 +0000</pubDate>
+      <content:encoded>정부가 첨단 산업 분야의 고급 외국인 인재 유치를 위한 ‘톱티어(Top-tier)’ 비자를 신설한다. 주요 경제협력국 청년을 위한 ‘청년 드림’ 비자도 새롭게 만든다.&lt;br&gt;&lt;br&gt;박성재 법무 장관은 26일 이런 내용을 담은 신(新) 출입국·이민 정책 추진을 발표했다. 우선 정부는 AI(인공지능)‧로봇·양자 기술·우주항공 등 첨단 분야 고급 인재를 대상으로 한 ‘톱티어 비자’를 신설해 우수 인재와 동반 가족에게 출입국·체류 편의를 제공할 계획이다. 해외 최상위권 대학의 이공계 학사 학위를 취득했거나, 유명 대학·기업·연구소에 재직하는 외국인, 혹은 세계에서 인정받는 원천 기술을 보유한 외국인 등이 대상이다. 또 이 외국인 전문 인력들의 배우자가 한국어 능력 등 일정 요건을 갖춘 경우, 다른 분야 취업도 허용한다는 방침이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YDOJ76BANFF2RP7QNE64PLUZIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외국인 유학생들에게는 한국어 능력 3급 이상이고 대학을 좋은 점수로 졸업하면 구직을 위한 체류 기간을 2년에서 3년으로 늘려주고, 단일 기업에서의 인턴 허용 기간도 6개월에서 1년으로 연장한다. 또 서비스업 등 비전문 분야 취업도 허용한다.&lt;br&gt;&lt;br&gt;정부는 6‧25전쟁 UN(국제연합) 참전국과 주요 경제협력국 청년들을 위한 청년 드림 비자를 신설한다. 청년 드림 비자를 받은 외국 청년들에게도 어학연수와 첨단 산업, 서비스업, 농·어업, 돌봄 분야 인턴·취업을 허용할 예정이다.&lt;br&gt;&lt;br&gt;정부는 각 지자체의 주요 산업 등 실정을 고려해 외국인 인력을 유치하는 ‘광역형 비자’를 지자체와 함께 설계할 방침이다. 지난 2022년부터 시행 중인 ‘지역 특화형 비자’ 사업 대상도 인구 감소 지역에서 인구 감소 관심 지역으로 범위를 넓힐 계획이다. 이에 따라 인구 감소 문제를 겪고 있는 지방의 인구가 늘고, 지역 경제도 활성화될 것을 정부는 기대하고 있다. 경제계의 수요를 반영하는 ‘비자 제안제’도 도입한다.&lt;br&gt;&lt;br&gt;한편, 정부는 이민 2세대 등 외국인 청소년이 고교 졸업 후 대학에 가지 않더라도 취업 비자로 전환할 수 있도록 허용하고, 장기 체류 예정인 외국인에게 입국 전 사회 통합 교육도 제공하기로 했다. 정부는 국민 일자리 침해 논란이 최소화되도록 매년 필요한 비자 규모를 적정 수준에서 결정하고, 이를 국민에게 미리 알리는 ‘사전 공표제’를 고도화할 방침이다.&lt;br&gt;&lt;br&gt;박 장관은 “현재 국내 체류 외국인은 총인구의 약 5%인 261만명으로, 향후 5년 내에 300만명을 넘을 것으로 예상된다”며 “이번 정책을 통해 전문·기능 인력을 5년 이내에 10만명 이상 추가 확보할 수 있을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] a rookie mistake</title>
+      <link>https://www.chosun.com/national/nie/english/2024/09/27/324SZSNSGZF3VEGB64VH55PYOY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/09/27/324SZSNSGZF3VEGB64VH55PYOY/</guid>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TE6TRLK7NNFB5NH2PRVEETAWQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디] 캣타워</title>
+      <link>https://www.chosun.com/national/nie/chinese/2024/09/27/ENN2QMX4YVH7PIDCBB47F6QBZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/09/27/ENN2QMX4YVH7PIDCBB47F6QBZM/</guid>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SC7QJSJWYVHBZH3L2JV6GOF4JA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[입에 착착 붙는 일본어] 기분이 나쁘다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2024/09/27/D4UVO2HD7REB7LCFQCRDUEZZ5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/09/27/D4UVO2HD7REB7LCFQCRDUEZZ5A/</guid>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UGZHSND66VGYZCEAJFPECCK27E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 팔도강산(八道江山)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2024/09/27/J4FDYWIP4NEWLLSFGNQGVACIQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/09/27/J4FDYWIP4NEWLLSFGNQGVACIQA/</guid>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6VRGZXHEBFDL3LHTQQIQKO2UWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2470] 로꾸거 암송클럽</title>
+      <link>https://www.chosun.com/national/nie/2024/09/27/SHRJD2WNDVEZLMBET37KL4BAGM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/09/27/SHRJD2WNDVEZLMBET37KL4BAGM/</guid>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V25QBSVSTVDWXACP7I3RGOROBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2024년 9월 27일</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/27/ZYA5YUK4NBGA7K2HSAW6AFEOY4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/27/ZYA5YUK4NBGA7K2HSAW6AFEOY4/</guid>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4X6VEPBIEJEUZFUPBMKVCDMYJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[기자의 시각] 정치만 남은 교육감 선거</title>
+      <link>https://www.chosun.com/opinion/journalist_view/2024/09/27/LXHW56GSD5HABMZG6BSPKGB4JQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/opinion/journalist_view/2024/09/27/LXHW56GSD5HABMZG6BSPKGB4JQ/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 15:05:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZMX3E7I3OBKK6XKGCBASIBJ6XY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시교육감 보궐선거 후보 등록일인 26일 오전 서울 종로구 서울특별시선거관리위원회에 선거까지 남은 일수가 표시되어 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시교육감 보궐선거 예비 후보에 등록했던 한 후보는 이달 초 기자에게 “선거가 정치색에 물들어 참담하다”고 했다. 그는 평생 교육계에 몸담았던 인물이다. 교육 전문가로서 공약도 꼼꼼히 준비했는데, 정치 구호만 난무해 화가 난다는 것이다. 며칠 뒤 그는 출마 기자회견에서 특정 정당 색을 상징하는 옷을 입고 나타났다. 플래카드부터 나란히 선 지지자들 옷까지 같은 색으로 통일됐다.&lt;br&gt;&lt;br&gt;교육감 선거는 정당 공천을 받지 못하게 돼 있다. 출마도 1년 내 정당 가입 이력이 없어야 할 수 있다. 투표용지에는 정당 표시 없이 후보 이름만 인쇄된다. 선거를 정치판으로 만들지 말라는 제도적 장치다. 이번 선거에 나섰던 예비 후보 12명의 기자회견을 포털사이트에서 검색해봤다. 하나같이 빨간색(국민의힘) 아니면 파란색(민주당) 옷이나 넥타이를 착용하고 있다.&lt;br&gt;&lt;br&gt;각 후보의 홍보물을 살펴보면 더 낯이 뜨겁다. 방재석 중앙대 교수는 출마 선언문에 자신이 이재명 민주당 대표의 일대기를 다룬 책 ‘인간 이재명’의 기획단 일원이라고 강조했다. 그러면서 ‘노무현 정신을 가장 치열하게 계승한 이재명’이라고 썼다. 정근식 서울대 명예교수는 지난 15일 자신의 페이스북에 이 대표와 함께 찍은 사진을 홍보물로 만들어 올렸다. “실수”라며 삭제했지만 의도는 보인다.&lt;br&gt;&lt;br&gt;보수 성향인 안양옥 전 한국교총 회장은 자신의 페이스북에 이명박·박근혜 전 대통령, 윤석열 대통령과 함께 찍은 사진을 게시했다. 그러면서 ‘3대 정부에 걸쳐 교육의 올바른 길을 제시했다’고 적었다. 조전혁 전 한나라당 의원은 “지난 10여 년간 서울의 교육은 조희연으로 대표되는 좌파 세력에 의해 황폐해졌다” 등 이념 공세에 집중했다.&lt;br&gt;&lt;br&gt;교육감 직선제는 헌법에 적힌 교육의 정치적 중립성, 전문성 같은 가치를 보장하자는 목적으로 2006년 도입됐다. 그러나 유권자들은 교육감 선거에 관심이 없어 누가 출마했는지도 모르고 투표장에 간다. 꾸준히 사람들 입에 오르내린 ‘논란의 인물’에게 더 유리한 구조다. 선거법 위반으로 실형을 산 곽노현 전 서울시교육감이 이번 선거에 당당하게 출마했던 이유다.&lt;br&gt;&lt;br&gt;교육감 직선제를 시·도지사 러닝메이트제나 임명제 등으로 바꿔야 한다는 얘기가 계속 나왔다. 시·도지사 후보는 중도층을 흡수할 수 있는 교육감 러닝메이트를 고를 가능성이 크다. 되레 정치적 중립성과 전문성을 갖춘 교육감이 등장하지 않겠느냐는 것이다.&lt;br&gt;&lt;br&gt;서울시교육감 선거는 최근에야 보수·진보 진영 단일화 기구가 단일 후보를 추대하며 선거 윤곽이 잡혔다. 그런데 보궐선거라 임기가 1년 8개월밖에 안 된다. 학생 교육을 책임지겠다는 이들이 정당에 아부하고 서로 헐뜯으며 이전투구하는 모습을 곧 또 봐야 한다. 정치가 아니라 교육 정책으로 승부하는 선거는 언제쯤 볼 수 있을 것인가.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RNMLPMJPL5FUFBW6GTUZBA5Y2I.png?width=500&amp;height=500&amp;auth=511cde1b7701b3fb9490e3a2075736beb6881aec49a02b9d9bdb5ab4481ecb95&amp;smart=true" type="image/png" height="500" width="500"/>
+    </item>
+    <item>
+      <title>“의사 번아웃… 추석 넘겼지만 앞으로가 문제”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/09/20/PQSRL2RHXBDXPEMX67NCPFMA5M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/20/PQSRL2RHXBDXPEMX67NCPFMA5M/</guid>
+      <dc:creator>안준용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Sep 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VRIL6DOZQBDTFEILWUZ6OSNWEU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이성우 대한응급의학회 정책이사(고대안암 진료부원장)가 지난 2일 서울 여의도 국회에서 열린 더불어민주당 의료대란대책특위-대한응급학회 응급의료 비상사태 간담회에 참석해 발언하고 있다.  /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이성우(55) 고대안암병원 진료부원장(대한응급의학회 정책이사)은 이번 추석 연휴(14~18일) 중 사흘을 병원 응급실에서 보냈다. 연휴 마지막 날인 18일에도 오전 8시부터 오후 6시까지 응급 환자들을 진료했다.&lt;br&gt;&lt;br&gt;이 부원장은 19일 본지 인터뷰에서 “응급실과 배후 진료과(응급 치료 뒤 진료과) 의료진이 병원을 지키고 경증·비응급 환자가 줄어 추석 연휴 동안 큰 사건·사고 없이 지나간 건 다행”이라면서도 “모두가 긴장한 채 대비 태세를 갖췄던 추석 연휴는 끝났고, 이제 당장 앞으로가 문제”라고 했다. 그는 “전공의들이 이탈한 지 7개월이 지나면서 번아웃(극도의 피로)을 호소하며 ‘더 이상은 못하겠다’고 하는 의료진도 늘고 있다”며 “이들이 응급실을 떠나기 시작하면 진료 공백이 걷잡을 수 없이 커질 수 있다”고 했다.&lt;br&gt;&lt;br&gt;-추석 연휴 응급실 상황은 어땠나.&lt;br&gt;&lt;br&gt;“단순 복통 등 경증 환자가 줄긴 했지만, 어제(18일)만 해도 급성 심근경색·뇌경색, 저혈압 쇼크 환자부터 오토바이 교통사고로 머리가 20cm 넘게 찢어진 환자까지 다양한 응급 환자가 왔다.”&lt;br&gt;&lt;br&gt;-특히 힘들었던 점은.&lt;br&gt;&lt;br&gt;“대부분 중증 환자였는데, 병원 중환자실 병상이 이미 가득 차 있어서 즉시 입원이 필요한 경우가 아니면 치료 후 퇴원시킬 수밖에 없었다. 응급실이 겨우 돌아가도 배후 진료에 공백이 생기고 중환자실 병상이 없으면 환자를 받기 어렵다. 연휴엔 내시경 검사도 쉽지 않다.”&lt;br&gt;&lt;br&gt;-정부는 “큰 불상사나 사고는 없었다”고 했다.&lt;br&gt;&lt;br&gt;“큰 사건·사고 없이 지나간 것과 ‘문제없다’고 말하는 것은 전혀 다른 얘기다. 중증 응급환자 진료 역량은 의정 갈등 이전보다 크게 떨어졌다. 응급실과 배후 진료과 의료진은 지칠 대로 지쳤다. 당장 연말까지 버틸 수 있을지도 장담하기 어렵다.”&lt;br&gt;&lt;br&gt;현재 전국 권역·지역응급센터(180곳)에서 근무 중인 의사 수는 1860여 명으로, 전공의 이탈 전인 작년 말(2300여명) 대비 400명 넘게 줄었다. 서울 동북권 중증 응급 환자를 책임지는 고대안암병원 권역응급센터도 전문의가 9명뿐이다. 낮엔 두 명, 야간·새벽엔 한 명이 홀로 12~14시간씩 응급실을 지키고 있다. 7개월 전만 해도 전공의 포함 의사 5~6명이 함께 일했었다.&lt;br&gt;&lt;br&gt;-어떻게 바뀌어야 하나.&lt;br&gt;&lt;br&gt;“권역응급센터를 전문의 한 명이 지키는 현 상황은 비정상적이다. 혼자선 야간·새벽에 CPR(심폐소생술) 환자 한 명만 와도 다른 환자들을 보기 어렵다. 권역응급센터(44곳)에선 최소 의사 두 명이 응급실을 지켜야 환자도, 의사도 산다.”&lt;br&gt;&lt;br&gt;-정부는 당장 무엇을 해야 하는지.&lt;br&gt;&lt;br&gt;“‘지원’과 ‘대화’다. 수가(건강보험공단이 병원에 주는 돈)만 올릴 게 아니라 올린 수가가 실제 중증 응급 환자를 보는 의료진에게 더 많이 돌아가도록 해야 한다. 한시 지원은 상시 지원으로 확대하고, 응급의학과를 포함한 필수 진료과를 보다 강력하게 지원해 의사들을 붙잡아야 한다.”&lt;br&gt;&lt;br&gt;-경증 환자 분산은 맞는 방향 아닌가.&lt;br&gt;&lt;br&gt;“실손보험 등이 있는데 응급실 이용 시 본인 부담금만 올리고 강제로 가지 말라고만 해선 한계가 있다. ‘죽을 만큼 아프지 않으면 응급실 가지 말라’는 메시지가 돼서도 안 된다. 그건 의료의 본질이 아니다. 환자는 본인 중증도를 제대로 알기 어렵다. 그것을 최대한 정확하고 빠르게 안내할 수 있는 시스템, 경·중증 환자 전원(轉院)이 원활하게 이뤄질 수 있는 환경을 마련해야 한다. 또 지역의 작은 응급의료기관도 지원을 강화해 경증 환자들이 믿고 가도록 해야 자연스럽게 ‘흐름’을 분산시킬 수 있다.”&lt;br&gt;&lt;br&gt;-응급실 뺑뺑이 사례는 계속 보도된다.&lt;br&gt;&lt;br&gt;“응급실 뺑뺑이라는 표현엔 문제가 있다. 병원의 수용 여건에 한계가 있는데 ‘수용 불가’나 ‘전원’을 무조건 문제로 취급해선 안 된다. 누구나 본인이 처음 간 병원에서 최종 치료까지 받길 원하지만 현실적으로 어렵다. 그 부분에 대해 국민 이해도 계속 구해야 한다.”&lt;br&gt;&lt;br&gt;-대화를 위해 정부 여당이 여·야·의·정 협의체를 제안했는데.&lt;br&gt;&lt;br&gt;“의제 제한 없이 정부가 좀 더 적극적으로 대화에 나서줬으면 한다. 번아웃에 빠진 의사들에게 가장 절실한 건 시간이 지나면 나아질 것이란 희망이다. ‘지금은 힘들어도 머지않아 동료들이 돌아올 것’이란 희망이 있어야 조금이라도 더 버틸 수 있고, 이 분야에 남을 수 있겠다는 생각도 한다.”&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시, WHO 건강도시상 수상…“세계적 고령친화도시”</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/26/KIKZYG7XN5B3JGRIM2QI6BCACQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/26/KIKZYG7XN5B3JGRIM2QI6BCACQ/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 14:39:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CLH5ORQFGROCBEDJNLZCFKDCUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 25일 서울 중구 동대문디자인플라자(DDP)에서 열린 제10차 건강도시연맹 세계총회에서 서울 미래비전을 발표하고 있다./서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 세계보건기구(WHO)가 주관하는 건강도시상 ‘고령친화도시 우수도시’로 선정됐다고 26일 밝혔다. 서울시가 추진해 온 어르신 건강관리 시스템인 ‘서울 건강장수센터’가 높은 평가를 받았다고 한다.&lt;br&gt;&lt;br&gt;WHO의 지역기구인 서태평양건강도시연맹(AFHC)이 주관하는 건강도시상은 2년에 한 번 열리는 세계총회에서 분야별 건강도시를 선정해 상을 주고 도시의 우수정책을 세계에 홍보한다.&lt;br&gt;&lt;br&gt;건강장수센터는 지역 내 의료기관 및 복지관과 협력을 통해 어르신들이 살던 곳에서 건강한 노후를 보낼 수 있도록 포괄적인 건강관리 서비스를 제공하는 사업이다.&lt;br&gt;&lt;br&gt;단순 의료적 접근을 넘어 사회·정서·심리적 지원을 포괄해 건강문제를 지역사회 내에서 주민과 같이 해결해 나가는 것이 특징이다.&lt;br&gt;&lt;br&gt;서울시는 올해 2개 구(은평·금천구) 7개 센터를 시작으로 2030년까지 100개 센터를 확충할 계획이다.&lt;br&gt;&lt;br&gt;서울시는 지난 25일부터 오는 27일까지 동대문디자인플라자(DDP)에서 ‘제10차 건강도시연맹 세계총회’를 열고 있다. AFHC 창립 20주년 기념행사로 열리는 이번 총회는 6년 만에 열리는 대면 회의이자 역대 최대규모로 열린다.&lt;br&gt;&lt;br&gt;세계 20개국 49개 도시 대표단과 14개 국제기구, 17개국 주한 대사관 관계자 등 1200여명이 모여 건강과 웰빙을 중심으로 도시의 미래를 논의한다.&lt;br&gt;&lt;br&gt;‘스마트 건강도시, 새로운 도시의 미래’을 주제로 ▲스마트 건강도시의 방향과 로드맵 ▲기후 위기 대응 속 건강 약자를 위한 건강친화도시 조성 ▲건강도시 간 파트너십 구축 등에 관한 다양한 논의를 펼친다.&lt;br&gt;&lt;br&gt;오세훈 서울시장은 이번 총회 개막식에서 ▲안전하고 건강한 도시 조성에 서울이 앞장 ▲시민건강권 보장 ▲약자동행도시 조성 ‘건강 도시 서울 3대 비전’을 발표했다.&lt;br&gt;&lt;br&gt;오 시장은 “팬데믹 이후 지구 전체가 하나의 건강 공동체라는 ‘원 헬스’(One Health) 개념을 중심으로 환경과 사람 모두를 건강하게 만드는 일이 중요해졌다”고 말했다.&lt;br&gt;&lt;br&gt;또 오 시장은 “전 세계 인구의 절반 이상이 도시에 거주하는 만큼 도시의 건강이 곧 지구의 건강”이라며 “‘건강 도시’ 구축이야말로 건강하게 잘 살기 위한 웰빙 사회 조성의 핵심”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ICXY2SCAUBKY5JXQ7YVI7KFR6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 25일 서울 동대문디자인플라자(DDP)에서 열린 '제10차 건강도시연맹 세계총회'에서 김태희 서울시 시민건강국장이 세계보건기구(WHO) 주관 건강도시상을 수상한 뒤 기념 촬영을 하고 있다./서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이와 관련해 우선 서울시는 적극적인 탄소 저감 정책을 통해 안전하고 건강한 도시 조성에 앞장서겠다고 밝혔다. 걸어서 30분 내로 일상생활이 가능하도록 도시 공간을 ‘보행 일상권’으로 재편해 탄소 배출을 줄인다.&lt;br&gt;&lt;br&gt;시민 누구나 걸어서 5분 안에 녹색 환경을 즐길 수 있도록 2026년까지 도심 곳곳에 1000곳 이상의 정원을 조성한다. 연간 6000만명이 방문하는 한강공원의 자연성을 회복하고 도시 환경을 개선하기 위해 녹색 수변공간도 확대한다.&lt;br&gt;&lt;br&gt;모든 시민이 ‘99세까지 팔팔(88)’하게 할 수 있도록 건강권 보장에도 힘쓰겠다고 밝혔다. 디지털 헬스케어 ‘손목닥터 9988′과 ‘덜 달달 9988 캠페인’ 등 전 생애에 걸친 촘촘한 건강 관리 서비스를 제공해 모든 시민의 건강권을 보장한다.&lt;br&gt;&lt;br&gt;또 서울시는 누구도 소외되지 않게끔 약자와 동행하는 도시를 만들겠다고 밝혔다.&lt;br&gt;&lt;br&gt;고립·고독 문제를 다루는 전담 조직을 운영해 사회에서 소외되는 청·장년층 등이 없도록 하고 독거노인에 대한 지역 활동 지원과 재택 치료 등 서비스를 강화한다. 치매 환자에 대해선 지역사회의 돌봄을 강화해 환자와 환자 가족의 삶의 질을 높인다. 기후 약자인 저소득 어르신이 건강상 피해를 입지 않도록 생활권 단위의 체계적 돌봄도 제공한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>순천서 10대 여학생, 일면식도 없는 30대男 흉기에 참변</title>
+      <link>https://www.chosun.com/national/regional/honam/2024/09/26/SYFJX7ZACFHRJJT2FHFRQGFADQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/09/26/SYFJX7ZACFHRJJT2FHFRQGFADQ/</guid>
+      <dc:creator>순천=조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 14:36:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UCOHBJMYWJGIRIWPCZWWEA55IE.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“살려주세요!”&lt;br&gt;&lt;br&gt;26일 0시 40분쯤 전남 순천시 조례동 한 병원 앞에서 퀵 배송 기사 이모(68)씨가 비명을 듣고 현장으로 달려갔다. 20m가량 떨어진 인도에서 A(30)씨가 B(18)양을 짓누르고 있었다. 흉기를 든 A씨는 이씨가 다가오자 달아났고, B양은 “아저씨 아파요, 나 좀 살려주세요”라고 했다. B양은 “아는 사람이냐”고 묻자 “모르는 사람”이라고 답하고는 의식을 잃었다. 곧바로 이씨가 112와 119에 신고했다. 배와 가슴 쪽을 세 차례 흉기에 찔린 B양은 병원에 옮겨졌으나 과다 출혈 등으로 결국 숨졌다. 이날 오후 사고 현장에 국화 한 다발을 올려놓은 이씨는 본지에 “가슴이 아파 일손이 안 잡힌다. 학생의 명복을 빈다”고 말했다.&lt;br&gt;&lt;br&gt;심야 시간대 친구를 배웅하고 귀가하던 10대 여학생이 일면식도 없는 남성에게 피습당해 숨진 것이다. 경찰은 달아난 A씨를 범행 2시간 반 만에 검거했다. 경찰은 ‘묻지 마 범죄’로 보고 있다. 경찰 관계자는 “둘은 모르는 사이이고, 원한 관계 등도 아직 확인되지 않았다”고 했다. 고교 1학년 때 자퇴한 B양은 얼마 전 고졸 검정고시에 합격했다고 한다.&lt;br&gt;&lt;br&gt;범행 동기는 오리무중이다. 경찰이 범행 장소 주변 방범 카메라 영상을 분석한 결과 자영업자인 A씨는 B양을 뒤에서 쫓아가고 몸을 덮쳐 순식간에 범행을 저질렀다. 검거 당시 A씨는 과음해 인사불성 상태였다고 한다. 성범죄 여부도 수사 중이다. 다만 경찰은 “범행 장소가 유동 인구가 많은 넓은 도로변 인도여서 성폭행 시도 가능성은 희박해 보인다”고 말했다. 범행 장소 부근에서는 범행에 쓰인 주방용 흉기가 발견됐다. 경찰은 A씨에 대해 조만간 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘20대 연인 사상’ 마세라티 뺑소니 용의자 서울에서 검거</title>
       <link>https://www.chosun.com/national/national_general/2024/09/26/AHHJULI4GBASPNCV7WJJLS76PI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/26/AHHJULI4GBASPNCV7WJJLS76PI/</guid>
@@ -674,36 +929,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JK5BIS4NZRB5JKLQWWWH6AKUNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스쿨버스에서 내리는 아이들(기사내용과 관련 없음).&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천에서 사립 유치원 교사가 아이들 스스로 교실 바닥에 떨어진 김가루를 치우게 했다가 아동학대 사건에 휘말린 뒤 부당 해고를 당했다는 주장이 제기됐다. 교육 당국은 진상 조사에 나섰다.&lt;br&gt;&lt;br&gt;26일 인천시교육청에 따르면 최근 국회 국민동의 청원 게시판에 ‘유치원 원장·원감의 갑질과 괴롭힘으로 쓰러져 가는 교사를 구제해달라’는 제목의 글이 올라왔다.&lt;br&gt;&lt;br&gt;유치원 A교사의 어머니라고 밝힌 청원인은 “사회초년생인 딸이 유치원 원장과 원감에게 협박당하고 억울하게 학부모들 앞에서 무릎을 꿇은 뒤 부당 해고를 당했다”고 주장했다.&lt;br&gt;&lt;br&gt;청원인에 따르면 A교사는 지난 6일 인천 모 사립 유치원에서 바닥에 떨어진 김 가루를 아이들에게 자율적으로 물티슈로 청소하게 했는데, 이 과정이 ‘대변을 치우게 했다’는 내용으로 와전됐다.&lt;br&gt;&lt;br&gt;이에 한 학부모는 자녀로부터 “유치원에서 대변을 치웠다”는 이야기를 듣고 당일 오후 7시쯤 아동학대 신고를 하겠다며 유치원을 찾아 감시카메라(CCTV) 확인을 요청했다.&lt;br&gt;&lt;br&gt;영상에는 아이들이 김 가루를 청소하는 장면이 담겼다. 당시 한 원생이 바지에 실수를 해 냄새가 퍼졌을 뿐 교실이나 복도에 용변이 묻지는 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;청원인은 “A교사는 유아의 기본 생활 습관과 발달과정을 위해 식사 후 정리 시간을 가졌고 용변을 치우게 한 게 아니라고 설명했지만, 원장은 그게 중요한 게 아니라며 무조건 죄송하다고 할 것을 강요했다”고 주장했다.&lt;br&gt;&lt;br&gt;당시 원장과 원감은 “대변이 아닌 것을 안다”면서도 “왜 아이들에게 물티슈를 주며 바닥을 정리하게 했느냐. 우리 유치원에 경찰조사가 오면 절대 안된다” “학부모가 아동학대라면, 아동학대다” 등의 이야기를 하며 학부모에게 무릎을 꿇고 사과할 것을 강요했다고 한다. 이 과정에서 “학부모가 조폭같이 생겼다”며 공포심을 주기도 했다는 게 청원인의 주장이다.&lt;br&gt;&lt;br&gt;A교사는 결국 아무 상황 설명도 하지 못한 채 10여명의 학부모 앞에서 무릎을 꿇었다고 한다. 청원인은 “원장은 이들 앞에서 A교사가 해임되는 것은 당연하다고 말하며 부당해고를 했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;청원인은 “원장과 원감은 압박과 협박으로 교사가 겁먹은 상태를 이용해 아무 말도 못 하게 했고 강압적으로 사직서를 작성하게 하며 갑질과 직장 내 괴롭힘을 했다”며 억울함을 호소했다.&lt;br&gt;&lt;br&gt;국민신문고를 통해 관련 사안을 접수한 인천시교육청은 해당 유치원에 대해 감사 절차에 착수했다. 인천시교육청 관계자는 “우선 유치원을 대상으로 미흡한 점이 있는지 현장 점검을 나갔고 감사도 진행될 예정”이라며 “정확한 사실관계를 조사하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>韓총리 “해상 발생 쓰레기 4분의 3이 폐어구… 어구 생산부터 폐기까지 정부가 관리할 것”</title>
-      <link>https://www.chosun.com/politics/goverment/2024/09/26/VYAZBZKD2BGCTPIEEHCPFF5DMI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2024/09/26/VYAZBZKD2BGCTPIEEHCPFF5DMI/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Sep 2024 00:31:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SRL4E63EJ5LIBFDWLNLSNPKXMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 국무총리가 26일 오전 정부서울청사에서 국정 현안 관계 장관 회의를 주재하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한덕수 국무총리는 26일 해상에서 발생하는 쓰레기의 약 4분의 3이 폐어구라며 “폐어구 발생량을 획기적으로 저감하기 위한 특단의 조치를 더는 늦출 수 없다”고 했다. 정부는 이날 어구가 생산된 때부터 사용 후 재활용 또는 폐기될 때까지의 전 주기를 관리하겠다는 대책을 내놨다.&lt;br&gt;&lt;br&gt;한 총리는 이날 오전 정부서울청사에서 국정 현안 관계 장관 회의를 주재하며 “그동안 어구 실명제와 어구 보증금제 시행 등의 노력을 했음에도, 폐어구로 인해 우리의 바다가 신음하고 있다”고 했다. 한 총리는 “폐어구는 연간 5만t의 해상 발생 쓰레기 중 무려 76%인 3.8만t을 차지하고 있다”며 “바닷속을 떠도는 어구는 해양 생태계를 파괴하고, 연간 4000억원에 이르는 수산업 피해를 야기하고 있다”고 했다.&lt;br&gt;&lt;br&gt;이와 관련해 한 총리는 “정부는 어구의 전 주기 관리를 통해 해양 생태계를 보호하고, 해양 신산업 도약의 기틀을 마련하고자 ‘폐어구 발생 예방을 위한 어구 순환 관리 대책’을 마련했다”고 소개했다.&lt;br&gt;&lt;br&gt;정부가 이날 내놓은 대책에 따르면, 앞으로 각 어선은 어구 적재량과 설치량, 폐어구 처리 장소에 대한 기록을 남기고 보관하도록 의무화된다. 어구를 바다에 불법으로 버리거나 육상에 무단으로 방치하는 것을 예방하기 위한 것이다. 또 조업 중에 어구를 유실한 경우 이를 신고하도록 하고, 유실 어구 정보에 대한 데이터베이스를 구축해 이후 수거 사업에 참고하도록 한다. 또 지금까지는 무허가 조업에서 발생한 불법 방치 어구를 발견해도 이를 철거하려면 행정대집행 절차를 거쳐야 해 2개월 이상이 걸렸지만, 관련 법규를 정비해 발견 즉시 철거하기로 했다.&lt;br&gt;&lt;br&gt;한 총리는 규제와 단속뿐 아니라 “어구 보증금제 활성화, 폐어구 회수 촉진 포인트제 도입, 수거 시설 확충 등 어업인이 자발적으로 참여할 수 있는 보상 체계와 인프라를 구축해 폐어구 회수율을 높이겠다”고 약속했다.&lt;br&gt;&lt;br&gt;한 총리는 “폐어구 등 해양 쓰레기 문제는 전 세계적인 숙제이고, 정부의 노력만으로 한 번에 해결하기는 쉽지 않다”며 “해양수산부 등 관계 부처는 어업인뿐 아니라 유엔 등 국제기구, 지역사회, 환경단체, 민간 기업 등과도 적극적으로 소통해 추가적인 개선 사항 발굴도 지속적으로 추진해달라”고 주문했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>﻿“폭우 속 횡단보도를 한달음에”…휠체어 탄 시민 도운 ‘번개맨’ 정체</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/26/6R3AOFRTIFGQVJB6A56LJDXBQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/26/6R3AOFRTIFGQVJB6A56LJDXBQA/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Sep 2024 00:04:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QPAYMFIKRNDR7GQ2SFWT2N74TE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 13일 밤 휠체어를 타고 왕복 10차선 횡단보도를 건너던 남성을 버스기사 이중호씨가 돕고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭우가 내리던 저녁, 비에 흠뻑 젖으면서도 휠체어 탄 시민이 왕복 10차선 횡단보도를 무사히 건너도록 도운 버스 운전기사의 선행이 마음을 따뜻하게 하고 있다.&lt;br&gt;&lt;br&gt;책 ‘어린이, 세 번째 사람’ 등을 쓴 김지은 아동문학평론가는 지난 14일 자신의 X(옛 트위터)에 “9월 13일 밤 9시 40분쯤 강남 교보문고 사거리. 폭우 속에 휠체어를 탄 분이 횡단보도를 건너는데 반도 못 갔고 (신호는) 점멸 시작. 보행자는 그분뿐”이라는 글을 올렸다. 이어 “정차 중이던 버스의 기사님이 튀어 나가 휠체어를 안전지대까지 밀어드리더니 흠뻑 젖은 채 차로 복귀했다”며 “번개맨 같았다. 470번 1371호. 고맙습니다”라고 했다.&lt;br&gt;&lt;br&gt;김씨가 올린 글은 26일 오전 9시 기준 50만회 가까이 조회됐고, 6500회 이상 공유됐다. 8000개에 가까운 ‘좋아요’를 받기도 했다.&lt;br&gt;&lt;br&gt;당시 버스를 몰았던 서울 간선버스 470번 1371호의 주인공은 버스 운전 10년 경력의 이중호 기사다. 이씨는 추석 연휴 첫날이었던 지난 13일 서울 서초구 강남대로에 있는 왕복 10차선 횡단보도를 휠체어에 탄 채 우산도 없이 홀로 건너는 남성을 발견했다. 남성이 횡단보도를 절반도 채 건너지 못했을 때 신호등의 파란불이 깜빡거리기 시작했다고 한다.&lt;br&gt;&lt;br&gt;늦은 밤 시간대라 어두운 데다 강한 빗줄기로 앞이 잘 보이지 않는 상황이었던 터라 이씨는 신호가 바뀌면 반대편 차로에서 남성을 보지 못하고 바로 출발할 수도 있겠다는 생각이 들었다고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AOHM72CMTJEYDA3YJ757FFA4VQ.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난 13일 밤 휠체어를 타고 왕복 10차선 횡단보도를 건너던 남성을 버스기사 이중호씨가 돕고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;심상치 않은 상황임을 감지한 이씨는 안전벨트를 풀고 잠깐 뒤편을 바라본 뒤 한달음에 횡단보도로 뛰어갔다. 그가 버스에서 나와 횡단보도까지 가는 데 걸린 시간은 5초 정도에 불과했다. 이어 이씨는 휠체어에 탄 시민과 함께 횡단보도를 내달렸다. 남성을 안전한 곳까지 데려다준 후 이씨는 다시 운전석으로 돌아왔다.&lt;br&gt;&lt;br&gt;이씨는 “비 내리는 밤 휠체어 사용에 능숙하지 않은 분이 보호자도, 우산도 없이 언덕 지형을 힘겹게 지나가는 상황이었다”며 “곧장 버스에 있던 승객에게 양해를 구하고 뛰어나갔다”고 당시 상황을 설명했다.&lt;br&gt;&lt;br&gt;그는 “당시에는 ‘사람이 먼저’라는 생각뿐이었다. 같은 일이 일어나도 똑같이 행동할 것”이라며 “앞으로도 손님들이 사고 없이 하루를 안전하게 보내실 수 있도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A44CBFMQBBGTXMPTWBJSW4EXB4.png"&gt;&lt;figcaption&gt;&lt;small&gt;시민들이 휠체어 탄 남성을 도운 버스기사를 칭찬하는 글을 올렸다. /다모아자동차&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 간선버스 470번을 운영하는 다모아자동차 홈페이지 ‘칭찬합니다’ 게시판에도 이씨를 향한 칭찬이 이어졌다. 한 시민은 “빗줄기로 시야가 안 좋았고 (길을 건너던 분은) 수동 휠체어 작동도 어려워 보였다”며 “그때 정차 중이던 470번 버스 기사님이 버스 앞문을 열고 달려 나가시더니 거센 비에도 아랑곳하지 않고 빠르게 도움을 주셨다”고 했다. 이어 “순간 벌어진 따뜻한 장면이었다”며 “기사님 덕분에 추석을 다정한 마음으로 시작하게 됐다. 진심으로 감사드린다”고 했다.&lt;br&gt;&lt;br&gt;다른 시민들도 “폭우 속 보행자 도와주신 기사님 감사드린다” “팍팍한 세상 속에 기사님 같은 분이 계셔서 따뜻해진다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/AOHM72CMTJEYDA3YJ757FFA4VQ.gif?width=480&amp;height=240&amp;auth=4d1836de188eaf6067a84ae42e71b5d1a2910feefe74d1be5e6c5328ac68aede&amp;smart=true" type="image/jpeg" height="240" width="480">
-        <media:description type="plain">지난 13일 밤 휠체어를 타고 왕복 10차선 횡단보도를 건너던 남성을 버스기사 이중호씨가 돕고 있다. /연합뉴스</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>부천 아파트서 50대 여성 추락사...집 안엔 또다른 50대女 시신</title>
-      <link>https://www.chosun.com/national/regional/2024/09/26/SBGRMTSLCFF3THXTG24KCU3APY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/26/SBGRMTSLCFF3THXTG24KCU3APY/</guid>
-      <dc:creator>부천=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 23:21:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ECHQSRSEI7KTJQHSTDS2I7L2EM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 부천시의 아파트에서 지인 사이인 50대 여성 2명이 숨진 상태로 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;26일 부천오정경찰서에 따르면 전날 오후 9시 12분쯤 부천시 오정구의 한 아파트 지상에 여성이 추락해 숨진 것으로 보인다는 112 신고가 접수됐다.&lt;br&gt;&lt;br&gt;신고를 받고 현장에 출동한 경찰은 사망자인 50대 여성 A씨의 행적을 확인하는 과정에서 이 아파트에 사는 A씨의 지인인 50대 여성 B씨가 집안에서 숨져있는 것을 발견했다. B씨의 집안에서는 흉기가 발견됐다.&lt;br&gt;&lt;br&gt;경찰은 방범카메라(CCTV) 분석을 통해 두 사람이 함께 아파트로 들어간 뒤 사건이 발생한 것으로 보고 사망 원인을 밝히기 위해 국립과학수사연구원에 부검을 의뢰할 예정이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “당시 집안에는 두 사람만 있었고 제3자의 개입은 없었던 것으로 보인다”며 “정확한 사건 경위를 조사하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“지원 대신 통제만… 의정갈등 풀려면 규제부터 풀어야”</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/09/26/VBCHPRTT55EEJOWLEKVWHIOW3Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/26/VBCHPRTT55EEJOWLEKVWHIOW3Q/</guid>
@@ -718,206 +943,6 @@ The Chosunilbo</media:credit>
       </media:content>
     </item>
     <item>
-      <title>‘빵셔틀’ 뺨치는 ‘킥보드셔틀’... 신종 학폭 </title>
-      <link>https://www.chosun.com/national/education/2024/09/26/W54HJVU4M5HH3PYAVLDXHUVFH4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/09/26/W54HJVU4M5HH3PYAVLDXHUVFH4/</guid>
-      <dc:creator>김경은 기자, 표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 16:34:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5MDTVBCZEJHUXPNC3KITKJATRM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울에 사는 중학생 A군은 얼마 전 선배 형들한테 카카오톡 아이디(ID)와 비밀번호를 빼앗겼다. ‘카카오톡 빼앗기’는 최근 학생들 사이에서 성행하고 있는 신종 학교 폭력이다. 피해 학생에게 “카톡 ID와 비밀번호를 알려달라”고 겁박한 뒤 엑스(옛 트위터) 등 소셜미디어를 통해 카톡 계정을 불법으로 사들이는 업자에게 당사자 동의 없이 팔아넘긴다.&lt;br&gt;&lt;br&gt;초등학교 5학년인 B양은 한 달 전 ‘전동킥보드 셔틀’을 당했다. 중학생 언니들이 B양의 휴대전화를 강제로 가져간 후 인적 사항을 캐물었는데, 며칠 뒤 가입하지도 않은 킥보드 대여 앱에서 B양 휴대전화로 요금이 청구됐다. 가해 학생들이 B양 명의로 킥보드를 빌려 요금을 떠넘긴 것이다.&lt;br&gt;&lt;br&gt;값비싼 신발이나 가방을 중고 물품 거래 앱에 강제로 올리게 한 다음 팔리면 그 돈을 빼앗는 경우도 있다. 빼앗고 싶은 물건을 중고 거래 앱에 올리게 한 다음 돈은 안 주고 물건을 빼앗는 사례도 있다. 갈취가 아니라, 중고 거래 앱을 이용한 합법적 거래인 듯 포장하기 위해서라고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ONHJLB6GCZEEHGJGE37RWWIJHU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학교 폭력이 나날이 진화하고 있다. 학생들 사이에서도 소셜미디어나 중고 거래 플랫폼 등 사용이 활발해지면서 휴대전화 앱을 이용한 괴롭힘들이 생겨나고 있는 것이다. 이런 괴롭힘들은 ‘사이버 폭력’ 특성상 장소 상관없이 24시간 이뤄져 학생들의 고통이 크다고 한다.&lt;br&gt;&lt;br&gt;25일 교육부가 발표한 ‘2024년 학교폭력 실태조사 결과’에 따르면, 학교 폭력을 당했다는 학생들이 지난해 5만9000명에서 올해 6만8000명으로, 1년 사이 15% 이상 증가했다. 교육부는 매년 초등학교 4학년부터 고등학교 3학년까지 전체 학생(올해 398만명)을 대상으로 학교 폭력 피해 여부를 조사한다.&lt;br&gt;&lt;br&gt;이 가운데 사이버 폭력 피해 학생은 7.4%를 차지했다. 작년보다 0.5%포인트 높아졌다. 비율은 언어 폭력(39.4%), 신체 폭력(15.5%), 집단 따돌림(15.5%) 다음이지만, ‘신종 학폭’은 대부분 사이버 폭력 형태로 생겨나고 있다. 특히 사이버 폭력 피해 응답률은 초등학생(6.3%), 중학생(9.2%), 고등학생(10.4%) 등 연령이 높을수록 높다.&lt;br&gt;&lt;br&gt;조현섭 총신대 중독재활상담학과 교수는 “신체 폭력이나 왕따 괴롭힘 등은 학교 공간만 벗어나면 피해가 덜하지만 사이버 폭력은 공간과 상관없이 학생들이 ‘24시간 감옥’에 갇힌 듯 고통을 겪는다”면서 “차라리 한 대 맞으면 남들한테 억울하다고 하소연이라도 할 텐데 사이버 폭력은 피해 사실을 증명하는 것 자체가 힘들어서 청소년들이 속으로만 끙끙 앓는다”고 했다.&lt;br&gt;&lt;br&gt;신종 사이버 폭력은 성인들의 범죄와 연루되기도 한다. 예컨대, 가해 학생들은 친구의 ‘카카오톡 계정’을 빼앗아 1개당 10만원 정도에 판다. 이렇게 넘겨진 개인 정보는 수사기관의 추적을 피할 수 있어 대포폰(다른 사람 명의 휴대전화)처럼 불법 도박이나 성매매 광고, 협박·사기 등 범죄에 이용된다. 일부 가해 학생들은 피해 학생에게 부모나 친구의 개인 정보까지 요구하는 경우도 있다고 한다. 지난해 서울 대치동 학원가에서 마약 탄 음료를 건네 마시게 한 후 부모에게 연락해 돈을 요구한 범죄자들도 학생들에게 캐낸 ‘카카오톡 계정’을 이용해 부모에게 연락했다.&lt;br&gt;&lt;br&gt;게임을 강요해 불법 도박에 빠지게 하는 경우도 있다. 중학교 2학년인 C군은 지난 5월 수학여행을 갔다가 동급생의 강요로 온라인 ‘사다리 타기’ 게임에 동참했다. 처음엔 소액이라도 무조건 돈을 걸어야 하고 안 하면 따돌림 당할까봐 억지로 했지만 이내 재미를 붙였다. 이후 선배가 카톡으로 보내준 온라인 도박 ‘바카라’ 사이트에 접속했다. 도박 자금을 마련하려고 친구들한테 빌린 돈만 100만원 가까이 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>질질 끌다 ‘여론’에 떠넘겨... 스스로 발목 잡은 검찰</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/26/D6YAAIXSLNBOLB265HTZS6Z4D4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/26/D6YAAIXSLNBOLB265HTZS6Z4D4/</guid>
-      <dc:creator>이슬비 기자, 이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 16:12:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YR2BNLXARNARVOOPPF3O72A2CE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰수사심의위(수사심의위)가 윤석열 대통령 부인 김건희 여사의 ‘디올 백 수수’ 의혹 사건과 관련한 두 차례 심의 결과 서로 다른 결론을 내놓으면서 논란이 일고 있다. 지난 6일 디올 백을 받은 김 여사에 대해선 ‘불기소’를, 지난 24일 공여자인 최재영씨는 ‘기소’할 것을 권고했기 때문이다. 수수자와 공여자라는 차이는 있지만 핵심 쟁점이었던 ‘청탁금지법’에 대해 전혀 다른 판단을 내놓은 것이다.&lt;br&gt;&lt;br&gt;이를 두고 25일 검찰 안팎에서는 “같은 사건으로 다른 결론을 내놔 사회적 논란만 가중시켰다” “검찰 수뇌부가 여론 눈치를 보면서 사건을 질질 끌다가 ‘여론 재판’에 던진 것 아니냐” 등 비판들이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A43R3NJZ3RHK7FETRP3C3UHU2Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“사건 처분을 여론에 따라 하나”&lt;/b&gt;&lt;br&gt;&lt;br&gt;검찰 내부에서는 전날(24일) 수사심의위 결과를 두고 “위원들의 결정을 존중하지만, 사건 처분에서 아무런 책임이 없는 외부 인사들의 판단에 검찰이 휘둘리는 게 맞느냐” “앞으로 사회적 이슈가 되는 사건은 다 수사심의위에 회부해야 하느냐”는 반응이 나왔다. 한 검찰 관계자는 “같은 사건을 두 차례나 수사심의위에 회부하면서 ‘일단 기소해서 법원 판단을 한번 받아보자’는 식으로 흘러갔다”라며 “수사심의위가 검찰에 오히려 독이 된 상황”이라고 했다.&lt;br&gt;&lt;br&gt;수사심의위는 국민적 의혹이 제기되거나 사회적 이목이 쏠린 사건의 수사와 기소가 적법했는지를 심의하는 기구다. 문재인 정부 시절인 2018년 1월 도입됐다. 외부 전문가로 구성된 심의위원 150~300명 중 무작위 추첨으로 15명을 선정해 추가 수사, 기소 여부 등을 심의한 다음 과반수 찬성으로 의결한 결과를 수사팀에 권고한다. 도입 당시엔 검찰이 독점한 기소권을 일정 부분 제한하는 효과가 있을 거란 기대도 있었다.&lt;br&gt;&lt;br&gt;그러나 형사소송법은 검사만이 형사재판의 공소를 제기(기소)할 수 있도록 하고 있다. 검사가 여론의 영향을 받지 않고, 법리대로 처분할 수 있어야 한다는 취지다. 한 차장검사 출신 변호사는 “수사 결과에 대한 책임은 전적으로 검찰의 몫”이라며 “전임 총장이 김 여사 사건을 직권으로 수사심의위에 회부한 것부터가 ‘면피’의 시작이었다”고 말했다.&lt;br&gt;&lt;br&gt;수사심의위 제도 자체에 대한 ‘회의론’도 나왔다. 전날 수사심의위는 최재영씨에 대해 ‘8대7′ 의견으로 기소를 권고했는데, 위원 중 한 명만 다른 결정을 해도 1표 차이로 결과가 달라질 수 있었던 것이다. 장영수 고려대 법학전문대학원 교수는 “매번 바뀌는 위원 구성에 따라 결과가 완전히 달라지는데, 이런 상황을 납득할 수 있는 국민이 있겠느냐”며 “독립성이 보장돼야 하고, 눈치 보지 않아야 하는 검찰이 정치권의 눈치를 본 결과다. 현행 제도대로 운영할 거면 차라리 폐지를 고려해야 한다”고 했다. 김 여사 수사심의위 위원과 최씨 수사심의위 위원은 한 명도 겹치지 않았다.&lt;br&gt;&lt;br&gt;한 부장판사 출신 변호사는 “전문가도 아닌 일반 시민들로 구성된 검찰시민위원회가 수사심의위에 회부하느냐 마느냐를 결정하는 것도 문제”라고 했다. 최씨는 김 여사에게 청탁금지법 위반 혐의를 적용할 수 없다는 검찰 수사 결과가 알려지자, 이에 반발해 수사심의위를 신청했다. 이를 두고 서울중앙지검 검찰시민위원회가 “수사심의위에 부의해야 한다”고 결정해 두 번의 수사심의위가 열린 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OBGYBT7CEBGUBMIZYFAABFD7UE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇검찰, 김 여사·최씨 ‘무혐의’ 처분할 듯&lt;/b&gt;&lt;br&gt;&lt;br&gt;수사심의위의 권고와는 별개로 ‘디올 백 수수’ 의혹 사건을 수사한 서울중앙지검 형사1부는 다음 주 중에 김 여사와 최씨 모두 무혐의 처분하겠다는 방침을 세운 것으로 알려졌다. 수사심의위 권고는 반드시 따라야 할 의무가 없는 데다, 검찰은 디올 백이 대통령의 직무와 관련성이 없다고 결론 냈기 때문이다. 검찰 관계자는 “공직자의 배우자에게 준 금품은 직무 관련성이 있을 때만 처벌할 수 있다는 게 청탁금지법의 취지이고 판례”라고 했다.&lt;br&gt;&lt;br&gt;앞서 검찰이 수사심의위의 권고를 따르지 않은 사례도 여럿 있었다. 이재용 삼성전자 회장의 경영권 승계 의혹 사건의 경우 수사심의위가 불기소를 권고했지만, 수사팀은 원래 의견대로 기소 처분을 했다. 또 백운규 전 산자부 장관 ‘월성 원전 1호기 경제성 평가 조작’ 사건의 경우, 수사심의위가 불기소를 권고했지만, 수사팀은 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] ‘알고리즘 위험성과 해결 방안’ 토론회 개최</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/09/26/RQ5NUZIAPZDGHAEDE52HEOEBTE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/09/26/RQ5NUZIAPZDGHAEDE52HEOEBTE/</guid>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 16:49:29 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;국민의힘 김장겸·고동진 의원실&lt;/b&gt;과 &lt;b&gt;포털 불공정 태스크포스&lt;/b&gt;(TF)는 30일 서울 여의도 국회 의원회관에서 ‘알고리즘 위험성과 해결 방안’ 토론회를 개최한다. 이상근 서강대 교수, 신승원 삼성전자 서비스·제품 보완 총괄 부사장, 강명일 MBC 제3노조 위원장이 발제에 나선다. 이경전 경희대 교수, 김진욱 법무법인 주원 변호사 등이 토론에 참여한다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 강대형씨 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/09/26/IHYRXCPNLJAETC2PBOOZ4JUIKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/09/26/IHYRXCPNLJAETC2PBOOZ4JUIKI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 16:48:33 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;강대형&lt;/b&gt; 별세, &lt;b&gt;강석희&lt;/b&gt; 조선일보 CS공항불로센터 대표 부친상=25일4시 대구전문장례식장, 발인 27일6시, (053)961-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;고옥순&lt;/b&gt; 별세, &lt;b&gt;기만숙&lt;/b&gt;·&lt;b&gt;기주순&lt;/b&gt;·&lt;b&gt;기동호&lt;/b&gt; 우리은행 기업투자금융부문 부문장·&lt;b&gt;기인숙&lt;/b&gt;·&lt;b&gt;기애란&lt;/b&gt;·&lt;b&gt;기승수&lt;/b&gt;·&lt;b&gt;기수연&lt;/b&gt; 모친상, &lt;b&gt;신동빈&lt;/b&gt;·&lt;b&gt;박병식&lt;/b&gt; 장모상, &lt;b&gt;박주현&lt;/b&gt;·&lt;b&gt;양수연&lt;/b&gt; 시모상=24일19시 삼성서울병원, 발인 27일5시45분, (02)3410-6915&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 국가철도공단 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/09/26/LENXBDSLNVHVDPTNW6WZ4CJTBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/09/26/LENXBDSLNVHVDPTNW6WZ4CJTBM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 16:48:01 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;국가철도공단&lt;/b&gt;◇임원 임명▷상임이사 겸 SE본부장 김윤양◇본부장급 전보▷충청본부장 김종호&lt;br&gt;&lt;br&gt;▲&lt;b&gt;호남대&lt;/b&gt;▷기획처장 겸 AI교양대학장 겸 대학혁신본부장 송창수▷학술정보원장 겸 정보통신공학과장 강은주▷홍보실장 겸 통합뉴스센터장 겸 미디어커뮤니케이션학과장 한선&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김경환 한국주택금융공사 사장</title>
-      <link>https://www.chosun.com/national/people/2024/09/26/VA6573HQN5C3ZP52Q34LBPFVQQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/26/VA6573HQN5C3ZP52Q34LBPFVQQ/</guid>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 16:47:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KMZYU3IVBFEWJNGXZNN6IS4UOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금융위원회는 신임 한국주택금융공사 사장으로 국토교통부 차관을 지낸 김경환 서강대 명예교수를 임명 제청했다고 25일 밝혔다. 김경환 내정자는 도시경제학을 전공한 학자로 국토연구원장 등을 지냈다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김성수 서울신문 사장</title>
-      <link>https://www.chosun.com/national/people/2024/09/26/XD54IHALQFBR3NQFVFJS7L3NTI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/26/XD54IHALQFBR3NQFVFJS7L3NTI/</guid>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 16:46:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XXY5OYGXRJGI3MVRUEO6XQW5LQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울신문 사장추천위원회는 25일 김성수(57) 전 서울신문 상무를 신임 사장으로 선출했다. 1993년 서울신문에 입사해 정치부장, 경제부장, 산업부장, 편집국 부국장 등을 지냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>개 식용 종식법 주도 의원들, ‘골든 도그 어워즈’ 수상</title>
-      <link>https://www.chosun.com/national/people/2024/09/26/GSJZZ2PO5NF67P3VLBOLYIIDK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/26/GSJZZ2PO5NF67P3VLBOLYIIDK4/</guid>
-      <dc:creator>강우석 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 16:46:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UQ47P6TKVZHPFMR5FHB6E2HFNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오후 서울 중구 롯데호텔에서 ‘골든 도그 어워즈’ 수상자들이 기념사진을 찍고 있다. /강우석 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1월 국회에서 통과된 개 식용 종식법을 주도한 여야 국회의원들이 세계애견연맹(WDA)이 주는 상을 받았다.&lt;b&gt; &lt;/b&gt;WDA는 지난 2014년 창립해 미국·프랑스·홍콩·일본 등 해외 다수 국가에 지사를 두고 개 식용 금지 홍보 및 각국에서 입법이 이뤄지도록 로비 활동을 벌이는 비영리단체다.&lt;br&gt;&lt;br&gt;WDA는 25일 오후 서울 중구 롯데호텔에서 ‘골든 도그 어워즈 시상식’를 열고 한정애·박홍근 더불어민주당 의원, 이헌승 국민의힘 의원, 조희경 동물자유연대 대표에게 ‘골든 도그 어워즈’를 수여했다.&lt;br&gt;&lt;br&gt;한정애 의원은 이날 시상식에서 “뜨거웠던 여름에 아스팔트 위에서 개 식용을 없애기 위해 소리 질렀던 것을 생각하면 감회가 새롭다”며 “국회에서는 개 식용 금지법 시행을 예정됐던 2027년보다 더 빨리 앞당기기 위해 절차를 밟아가고 있다”고 했다. 박홍근 의원은 “세계적인 경제발전을 이룩한 대한민국이 선진국이냐는 질문을 받은 지점이 바로 개 식용 문제였다”며 “대한민국의 동물 복지를 위해 흔들림 없이 앞으로 나아가겠다”고 밝혔다. 이헌승 의원은 “관습적으로 이어져온 개 식용 문화를 사회적 합의로 끝내는 건 정말 어려운 일이었다”며 “국회와 시민단체, 동물권 복지 향상을 위해 함께하시는 분들과 계속 노력해나가겠다”고 했다.&lt;br&gt;&lt;br&gt;겐린 WDA 회장은 “지혜와 능력을 갖춘 한국 국회와 정부, 산업 종사자 분들 덕에 3년 뒤에 한국에서 개 식용이 종식된다”며 “한국의 역사적인 개 식용 금지 입법은 개고기 산업이 크게 발전한 중국의 법안 개정에도 큰 영향을 미칠 것”이라고 했다.&lt;br&gt;&lt;br&gt;세 의원은 국회 연구모임 동물복지국회포럼의 공동대표다. 한정애 의원이 지난해 6월 ‘개 식용 종식을 위한 특별법안’을 발의한 뒤 ‘개 식용 종식을 위한 초당적 의원모임’ 결성을 주도한 박홍근·이헌승 의원이 공동발의자로 참여한 끝에 지난 1월 9일 재적의원 298인 중 재석 210인, 찬성 208표, 기권 2표로 통과됐다.&lt;br&gt;&lt;br&gt;조희경 대표는 “개 식용 종식법이 통과되기까지 현장에서 같이 눈물 흘렸던 동물 운동가들에게 감사하다”며 “3년 안에 법이 잘 시행될 수 있도록 끝까지 지치지 않고 잘 마무리하겠다”고 밝혔다. 이날 시상식에는 김창준 전 미국 공화당 하원의원, 제니퍼 한 김창준한미연구원 부이사장, 배우 전노민, 가수 이장원, 배다해 부부 등이 참석했다.&lt;br&gt;&lt;br&gt;지난 1월 9일 통과된 ‘개 식용 종식법’은 식용 목적으로 개를 사육·도살·유통·판매하는 행위를 금지하는 내용으로 식용 목적으로 개를 도살하면 3년 이하 징역 또는 3000만원 이하 벌금에 처하고, 개를 사육·유통하면 2년 이하 징역 또는 2000만원 이하 벌금을 받을 수 있다. 다만 법안은 공포 3년 뒤인 2027년부터 효력을 가진다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>12년 만에 ‘보수 단일화’… 교육감 후보에 조전혁</title>
-      <link>https://www.chosun.com/national/education/2024/09/26/3YV5K3VAMRGN7GYZHQTTYGK7TI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/09/26/3YV5K3VAMRGN7GYZHQTTYGK7TI/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 16:35:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JIX5RFEUBJNVDBXFNQVQJD6YFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시교육감 보궐선거에 중도우파 단일 후보로 추대된 조전혁(왼쪽) 전 한나라당 의원과 진보 진영 단일화 후보로 확정된 정근식 서울대 명예교수. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시교육감 보궐선거 후보 등록(26·27일)을 하루 앞두고 조전혁 전 한나라당 의원이 보수 진영 단일화를 추진하는 ‘통합대책위원회(통대위)’ 단일 후보로 선정됐다.&lt;br&gt;&lt;br&gt;통대위는 25일 “조 전 의원, 안양옥 전 한국교총 회장, 홍후조 고려대 교수 등 3명을 대상으로 진행한 여론조사 결과, 조 전 의원이 최고 득표율을 기록해 단일 후보로 추대한다”고 밝혔다. 애초 통대위 경선에 불만을 품고 중도 이탈했던 안 전 회장과 홍 교수는 이날 여론조사 결과를 수용하기로 전격 입장을 바꿨다.&lt;br&gt;&lt;br&gt;조 전 의원은 “좌파 교육 정책으로 망가진 서울 교육, 대한민국 교육의 패러다임을 바꾸겠다”고 했다. 그는 인천대 경제학과 교수로 재직하던 2008년 18대 총선에서 당선돼 국회의원을 지냈다. 2010년 전교조 조합원 명단을 대중에 공개했다가 전교조 측에 손해배상금을 내기도 했다.&lt;br&gt;&lt;br&gt;통대위 경선 결과에 법적 구속력은 없다. 하지만 유력 후보들이 단일화한 만큼 “12년 만에 보수 진영이 단일화에 성공하는 것 아니냐”는 기대감이 나온다.&lt;br&gt;&lt;br&gt;진보 진영 단일화를 진행하는 ‘2024서울민주진보교육감추진위’도 이날 밤 단일 후보로 정근식 서울대 명예교수를 추대했다. 이 단체는 앞서 1차 선거인단 투표를 통해 득표율이 낮은 곽노현 전 서울시교육감 등을 탈락시키고 정 교수, 강신만 전 전교조 부위원장, 홍제남 전 오류중 교장 등 3명을 대상으로 24일부터 이틀간 여론조사를 했다.&lt;br&gt;&lt;br&gt;서울대 사회학과 교수인 정 후보는 참여 정부 시절 친일반민족행위진상규명위원회 위원으로 활동했고, 지난 정부에서 진실·화해를위한과거사정리위원회 위원장을 역임했다. 그는 “본선에서 기필코 승리해 불통과 졸속으로 일관하는 현 정부 교육정책을 심판하겠다”고 말했다.&lt;br&gt;&lt;br&gt;다만 단일화에 참여하지 않고 독자 출마를 선언한 후보들이 보수(2명)와 진보(4명) 모두 있는 상황이다. 이들은 26일부터 진행될 후보 등록을 고심하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오늘 밤부터 강남서 무료 자율주행 택시 달린다</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/26/6HMX7WYJBJHB3JDJYW2TK3KULY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/26/6HMX7WYJBJHB3JDJYW2TK3KULY/</guid>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 16:30:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T3U6LGL3CZC3LA2JFLVQKIOHW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 밤부터 서울 강남 일대를 달릴 자율주행 택시의 모습. KGM 코란도 차량에 레이더와 센서 등을 달아 자율주행 택시로 만들었다. 자율주행 택시는 평일 오후 11시부터 다음 날 오전 5시까지 운행한다. ‘카카오T’ 앱으로 불러 타면 된다. 아직은 시험 운행 기간이라 강남구와 서초구 일부 지역에서만 이용할 수 있다. 요금도 무료다. 자율주행 택시지만 택시 기사가 탄다. 서울시 관계자는 “좁은 골목길에서는 안전을 위해 기사가 직접 핸들을 잡는다”고 했다. 서울시는 내년에 운행 구역을 확대하고 유료화한다는 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘뺑소니 마세라티’에 스러진 20대 연인의 꿈</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/26/2Z6HISZEDZAJLDLPW37ZDROWKM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/26/2Z6HISZEDZAJLDLPW37ZDROWKM/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 16:29:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CAXB3VNWBFFCLAUZE7YDTIFP34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 24일 오전 3시 11분쯤 광주광역시 서구 화정동의 한 도로에서 A(23)씨와 여자친구 B(28)씨가 탑승한 오토바이를 들이받았던 마세라티 차량이 사고 충격으로 파손돼 있다. 이 사고로 B씨가 숨졌고, A씨는 중상을 입어 병원 치료를 받고 있다. /광주 서부경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배달 일을 마친 뒤 오토바이를 타고 퇴근하던 20대 연인이 신호를 무시하고 달린 마세라티 승용차에 뺑소니 사고를 당했다.&lt;br&gt;&lt;br&gt;25일 광주광역시 서부경찰서에 따르면, 지난 24일 오전 3시 11분쯤 광주광역시 서구 화정동의 한 도로에서 마세라티 승용차가 앞서 달리던 오토바이 뒷부분을 들이받았다. 사고로 오토바이 뒷좌석에 탄 여성 A(28)씨가 숨지고 오토바이 운전자 B(23)씨가 크게 다쳤다. B씨는 골반뼈와 턱뼈가 으스러지는 부상을 당해 대학 병원 중환자실에서 치료받고 있다. 이들은 B씨가 음식 배달 일을 마친 뒤 함께 귀가하던 길이었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;사고 당시 방범 카메라 영상에는 흰색 마세라티 차량이 빠른 속도로 A씨 등이 탄 오토바이를 들이받는 장면이 담겼다. 이 충격으로 오토바이는 150m가량 튕겨 나와 형체를 알아보기 힘들 정도로 부서졌다. 마세라티 차량은 브레이크등(燈)이 들어오지 않았던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;마세라티 차량은 사고 현장을 그대로 지나 약 500m를 더 달린 뒤 멈춰 섰다. 운전자는 갓길에 차를 버리고 도주한 것으로 확인됐다. 방범 카메라 영상에는 남성 2명이 급하게 도주하는 모습이 잡혔다. 사고 직전인 오전 3시쯤 서구 상무지구 일대에서 다른 승용차와 함께 질주하는 모습도 확인됐다.&lt;br&gt;&lt;br&gt;해당 차량은 서울의 한 법인 차량인 것으로 파악됐다. 경찰은 사고 전 마세라티 운전자 C씨가 상무지구의 한 주점에서 나오는 모습이 담긴 방범 카메라 영상을 확보해 추적 중이다.&lt;br&gt;&lt;br&gt;한편, B씨는 가족과 의료진을 볼 때마다 A씨의 생사를 묻는다고 한다. B씨의 어머니는 “아들이 사고 직전 여자 친구에게 ‘우리 돈 모이면 결혼하자’고 얘기했다고 한다”며 “차마 여자 친구가 숨졌다는 말을 못 하고 있다”고 전했다. 이어 “아들이 ‘내가 그 길로 가지 않았다면’ 하는 말을 자꾸 하면서 자책하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/CAXB3VNWBFFCLAUZE7YDTIFP34.jpg?width=2560&amp;height=1920&amp;auth=544342efcb4ed45112de0ddd4bcdc0af59092e43681eb02dddd6f751aff44034&amp;smart=true" type="image/jpeg" height="1920" width="2560">
-        <media:description type="plain">지난 24일 오전 3시 11분쯤 광주광역시 서구 화정동의 한 도로에서 A(23)씨와 여자친구 B(28)씨가 탑승한 오토바이를 들이받았던 마세라티 차량이 사고 충격으로 파손돼 있다. 이 사고로 B씨가 숨졌고, A씨는 중상을 입어 병원 치료를 받고 있다. /광주 서부경찰서</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>‘사기 대출 의혹’ 양문석 기소</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/26/PE2D6FVQQNGBJH2UQEAAEVCRZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/26/PE2D6FVQQNGBJH2UQEAAEVCRZU/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 16:27:39 +0000</pubDate>
-      <content:encoded>딸 명의로 ‘사기 대출’을 일으켜 강남 아파트를 샀다는 의혹을 받고 있는 양문석 더불어민주당 의원이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;수원지검 안산지청은 대출 사기와 허위 사실 공표 등 혐의로 양 의원을 불구속 기소했다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;이 의혹은 총선을 앞둔 지난 3월 불거졌다. 양 의원이 2021년 4월 당시 대학생이었던 딸의 이름으로 11억원 사업자 대출을 받아 서울 서초구 아파트를 사는 데 보탰다는 것이다. 양 의원이 사업자 대출을 받는 과정에서 새마을금고를 속이려고 거래 명세서 등 증빙서류를 위조해 제출했다는 의혹도 제기됐다.&lt;br&gt;&lt;br&gt;이날 검찰은 “조사 결과 제기됐던 의혹이 사실로 확인됐다”며 “양 의원과 배우자 A씨가 30억원이 넘는 서울 서초구 아파트를 사려고 ‘사기 대출’ 범행을 사전에 계획·공모한 것으로 파악됐다”고 했다.&lt;br&gt;&lt;br&gt;양 의원은 지난 3월 의혹이 제기되자 “새마을금고가 먼저 대출을 제안했고 의도적으로 속인 적이 없다” 새마을금고가 대출금이 제대로 쓰이는지 확인하지 않았다”는 내용의 해명 글을 페이스북에 올렸는데, 이에 대해 검찰은 “허위 사실”이라고 판단했다.&lt;br&gt;&lt;br&gt;양 의원은 총선 후보자 등록 과정에서 서초구 아파트의 가격을 실거래가(31억2000만원) 대신 공시가격(21억5600만원)으로 써낸 혐의(공직선거법 위반)로도 기소됐다.&lt;br&gt;&lt;br&gt;양 의원은 총선 당시 “국민 눈높이에 맞지 않는 편법 대출을 했다”고 사과하면서도 후보 사퇴는 거부했고 결국 국회의원에 당선됐다. 의혹을 제기한 언론을 겨냥해 “대통령 부인 김건희를 이렇게 취재하고 비판했으면 지금 대한민국이 이렇게 엉망진창으로 떨어졌을까 생각한다. 국회에 입성하자마자 (언론에 대한 징벌적 손해배상제를) 관철시키겠다”고도 했다.&lt;br&gt;&lt;br&gt;한편, 검찰은 양 의원 딸에 대해서는 당시 부모의 요청에 따라 소극적으로 가담한 점 등을 참작해 재판에 넘기지 않고 기소유예 처분을 내렸다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“의대생 출석 안 해도 시험 통과하면 진급”</title>
-      <link>https://www.chosun.com/national/education/2024/09/26/WTEAS4RMURC5PFNRHEWFIKO4DM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/09/26/WTEAS4RMURC5PFNRHEWFIKO4DM/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 16:21:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LOUFR4OOEVHPVPOYCV6N5IZRNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 오전 대전의 한 의과대학 빈 강의실이 텅 빈 모습이다. 가운만 덩그러니 놓여 있다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의대 증원 파행으로 의대생들이 7개월 이상 수업을 거부하면서 정부가 ‘집단 유급’을 막기 위해 비상이 걸렸다. 교육 당국은 각 대학이 의대생들을 유급시키지 않도록 ‘학사 일정 조정 가이드 라인’을 배포하는 등 고육지책을 쓰고 있다.&lt;br&gt;&lt;br&gt;25일 교육계에 따르면, 전국 40곳 의대는 학생들의 집단 유급을 막기 위해 학기제를 학년제로 바꾸거나 등록금 납부 기간을 연장하는 등 조치를 취하고 있다. 가톨릭대 의대는 최근 학생들에게 올해에 한해 유급 규정을 적용하지 않는다고 안내했다. 출석 일수가 부족해도 유급을 시키지 않고, 1학기 때 시험을 보지 않은 경우에도 2학기 추가 시험만 통과한다면 진급을 시키겠다는 것이다. 앞서 교육부는 의대생들이 9월 이후에 복귀해도 유급되지 않도록 하겠다는 입장을 밝혔다. 학사 일정을 조정해 수업에 복귀만 한다면 문제없이 진급할 수 있도록 해주겠다는 것이다.&lt;br&gt;&lt;br&gt;그럼에도 의대생들은 돌아오지 않고 있다. 진선미 더불어민주당 의원실 자료에 따르면, 전국 40개 의대의 2학기 수업 출석률은 2.8%에 불과했다. 이번 달 초 기준으로 등록금을 납부한 학생도 전체 의대생의 3.4%에 그치고 있다. 한 사립대 부총장은 “가장 큰 문제는 의대생들이 돌아올 의사가 없다는 것”이라며 “학사 일정을 조정한다 해도 학생들이 돌아오지 않는다면 무슨 소용이 있겠나”라고 했다.&lt;br&gt;&lt;br&gt;교육계에선 이미 의대생 집단 유급이 불가피하다고 보는 시각도 많다. 한 사립 의대 관계자는 “저녁과 주말에 보충 수업을 한다 해도 제대로 된 교육은 불가능하다”며 “학사 일정 조정을 두고 다른 학과에서는 ‘특혜가 아니냐’는 시각도 많다”고 했다.&lt;br&gt;&lt;br&gt;올해 의대생들이 집단 유급되면 내년부턴 유급생 3000명에 증원된 신입생까지 7500여 명이 6년간 같이 수업을 들어야 한다. 의대 증원에 따른 교원과 시설이 확충되기도 전에 작년 신입생 정원의 두 배가 넘는 학생이 수업을 듣게 돼 교육의 질이 떨어질 수밖에 없다. 또 본과 4학년이 유급될 경우 신규 의사 3000명이 배출되지 않아 의료 현장의 인력 공백이 길어질 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, 金여사·최재영 모두 불기소할 듯</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/26/VNUMC5QB2VCWRKR5P64CEOSHXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/26/VNUMC5QB2VCWRKR5P64CEOSHXM/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 16:12:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXSHK3ROZRGAFC6ZMY3FCJURFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사에게 디올백을 건넨 최재영씨가 25일 위증혐의로 피고발인 조사를 받기위해 서울 영등포경찰서로 출석하며 기자들 질문에 답하고 있다. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘디올백 수수’ 의혹 사건을 두 번째로 심의한 검찰수사심의위원회(수사심의위)가 8대7로 재미 교포 목사 최재영씨를 기소하라고 권고했지만 디올백의 직무 관련성 여부는 명확히 판단하지 않은 것으로 25일 전해졌다.&lt;br&gt;&lt;br&gt;이에 따라 검찰은 수사심의위의 권고와는 별개로 김 여사와 최씨를 모두 무혐의 처분할 예정인 것으로 알려졌다. 검찰 관계자는 “최 목사에 대한 기소 의견이 8명이었지만, 이들이 모두 디올백의 직무 관련성을 인정했다고 볼 수는 없다”면서 “수사 결과, 디올백이 대통령의 직무와 관련성이 없다고 결론 난 만큼 김 여사는 물론, 최 목사도 불기소하는 게 맞는다고 보고 있다”고 했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 전날 수사심의위는 윤석열 대통령 배우자 김건희 여사에게 2022년 9월 300만원 상당의 디올백을 건넨 최씨를 청탁금지법 위반 혐의를 심의하면서 디올백이 윤 대통령 직무와 관련이 있는지를 집중적으로 논의했다.&lt;br&gt;&lt;br&gt;청탁금지법은 공직자 등의 배우자가 ‘직무와 관련해’ 1회 100만원, 연간 300만원 초과 금품(금지 금품)을 주고받거나 요구하면 안 된다고 정하고 있다. 다만 배우자에 대한 처벌 조항이 없다. 금품 공여자인 최씨가 처벌되더라도 김 여사는 기소할 수 없는 것이다. 그러나 검찰은 직무 관련성이 없는 디올백의 경우 두 사람 모두 기소할 수 없다고 보고 있다.&lt;br&gt;&lt;br&gt;심의위원들은 최씨를 기소할지 여부를 표결하면서도, 디올백의 직무 관련성을 근거로 하지는 않았다. 한 비법조인 심의위원은 “국민 법감정을 고려해 법원의 판단을 받아보는 게 좋지 않겠느냐”는 의견을 냈고, 다른 위원은 “직무 관련성과 무관하게 법 조문 해석상 공여자는 처벌할 수 있지 않느냐”며 기소 의견을 낸 것으로 전해졌다. 청탁금지법 8조 5항의 ‘누구든지 공직자나 공직자의 배우자에게 금지 금품 등을 제공하거나 제공을 약속해서는 안 된다’는 조문 그대로 해석한 것으로 보인다. 이 조항에 대해 검찰은 입법 취지와 판례 등을 고려해 ‘직무 관련성’을 전제로 해야 한다고 보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국군의날 앞두고 광화문에 뜬 블랙이글스</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/26/GEL7LLXCZJAZDIJ7TYOYEWS25Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/26/GEL7LLXCZJAZDIJ7TYOYEWS25Y/</guid>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 16:10:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NFZAXNKXOVENZFXI2GYQXTIRBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공군 특수비행팀 블랙이글스가 25일 오후 서울 광화문광장 상공을 날고 있다. 다음 달 1일 국군의 날 행사를 앞두고 ‘예행 연습’을 한 것이다. 이날 온라인 커뮤니티 등에는 “서울 도심에서 전투기 굉음이 들려 깜짝 놀랐다”는 반응이 많았다. 서울시에 따르면, 비행 훈련은 27일까지 실시한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>임신·육아기 유연근무 의무화한다</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/09/26/CTT5WQIN4BHX7KSKRE3UHRQXAA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/26/CTT5WQIN4BHX7KSKRE3UHRQXAA/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 16:01:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6RUNZVSAC5ONRPIEWNQ43ZCJTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 25일 서울 영등포구 여의도 중소기업중앙회에서 '일·가정 양립 우수기업 성과 공유'를 주제로 열린 4차 인구비상대책회의에 참석해 발언하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령은 25일 “일·가정 양립에 앞장서고 있는 우수 중소기업에 대해서는 세제 혜택을 검토하고, 국세 세무조사 유예와 같은 방안도 강구하겠다”고 했다. 여성가족부의 ‘가족 친화 인증’, 고용노동부의 ‘일·생활 균형 우수기업’으로 선정된 중소기업은 국세청 정기 세무조사를 유예하고, 지방세 세무조사 유예도 추가로 확대하는 방안을 지자체들과 협의해 나가겠다는 것이다.&lt;br&gt;&lt;br&gt;윤 대통령은 이날 서울 여의도 중소기업중앙회에서 열린 ‘제4차 인구 비상 대책 회의’에서 “(일·가정 양립을 위해) 정책 자금 지원, 입찰 사업 우대 등 기업이 체감할 수 있는 인센티브를 마련하겠다”며 이같이 말했다. 윤 대통령은 “기업들의 일·가정 양립 지원이 단순한 비용 지출에 그치지 않고 기업의 경쟁력을 높이고 더 큰 성장을 이끄는 투자가 되는 것”이라며 “정부도 최선을 다해 뒷받침하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DVYAXMAMA5BRLLF37EPDEWIVLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;저출산 대책 설명하는 주형환 부위원장 - 주형환(오른쪽) 저출산고령사회위원회 부위원장이 24일 정부서울청사에서 ‘일·가정 양립 우수기업 성과 공유회’ 사전 브리핑을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 저출산고령사회위원회(저출산위)는 임신·육아기 근로자는 업무 특성상 불가피한 경우를 제외하고는 재택근무, 시차 출퇴근제(출퇴근 시간을 조정) 등&lt;b&gt; &lt;/b&gt;유연 근무할 수 있도록 법으로 의무화하는 방안을 마련하겠다고 했다. 또 다음 달부터는 공무원 자녀가 이용하는 정부청사 국립 직장어린이집 18곳을 지역 주민에게 개방하기로 했다. 국가기관·공공기관·지자체가 운영 중인 직장어린이집 총 614곳도 민간에 개방하는 방안을 추진 중이다.&lt;br&gt;&lt;br&gt;이날 ‘일·가정 양립 우수기업 성과 공유회’를 통해 기업들의 우수 사례도 발표했다. LG전자는 연간 최대 3개월의 난임 치료 휴직과 최대 6일의 유급 난임 치료 휴가 제도를 운영하고, 법정 육아휴직과 별도로 6개월간의 임신휴직도 주고 있다. 포스코는 그룹사와 협력사뿐 아니라 지역 중소기업 직원 자녀까지 이용 가능한 ‘상생형 직장어린이집’을 운영 중이다. 생산 공장 주 4일 근무제 등을 도입한 한화제약, 난임 부부 진단 검사비 등을 지원하는 신한금융그룹, 완전 자율 출퇴근제를 운영하는 화장품 제조 중견기업 마녀공장 등도 일·가정 양립 우수 기업으로 꼽혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] dwell on the past</title>
-      <link>https://www.chosun.com/national/nie/english/2024/09/26/YZ43AUMQXNEARMZVJBVZCLYNSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/09/26/YZ43AUMQXNEARMZVJBVZCLYNSU/</guid>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C2DS44GGXFEZJDCJEGQ4ZATGQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 죄책감을 느끼다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/09/26/Y7REGCYKG5BPZFM72UIPWJSAPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/09/26/Y7REGCYKG5BPZFM72UIPWJSAPM/</guid>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MCHX4PCVZBDIJP4HUGI5PLTVVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 사력을 다하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/09/26/B5RW2KS265BWZKSFZ5DOWQXG6U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/09/26/B5RW2KS265BWZKSFZ5DOWQXG6U/</guid>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TCVSWQ2XIJGN3B4XD7VGJJAXP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 만천하(滿天下)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/09/26/GT5CXQCVQFFR7BNJVIBN74OZMI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/09/26/GT5CXQCVQFFR7BNJVIBN74OZMI/</guid>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAR3V4AOXFAGNCMAULGBONHUYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2469] 문장 꽈배기</title>
-      <link>https://www.chosun.com/national/nie/2024/09/26/CJMMTJIGP5CAFBUOEBYDZFLDBY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/09/26/CJMMTJIGP5CAFBUOEBYDZFLDBY/</guid>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2I2GXIQQ3VEUDEAGDRGEGO4QL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [뉴스 속의 한국사] 왕과 신하의 비밀 대화… 음모 꾸미는 것 아닐까 의심받았죠</title>
-      <link>https://www.chosun.com/national/nie/2024/09/26/PLFOJDALWRDVJECYGNILLT25W4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/09/26/PLFOJDALWRDVJECYGNILLT25W4/</guid>
-      <dc:creator>유석재 기자, 기획·구성=오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 15:31:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNJ6YRDXPFH7JMTQ66JNJNCWF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조선 시대 서인(西人) 당파의 대표적 인물 송시열 초상화예요. 1659년 효종 임금은 송시열과 독대를 하면서 북벌(北伐) 문제를 의논했어요. 이를 ‘기해 독대’라고 불러요. /국립중앙박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 24일 서울 용산 대통령실에서 있었던 윤석열 대통령과 국민의힘 지도부 만찬을 앞두고, 한동훈 국민의힘 대표가 대통령과의 독대(獨對)를 요청했지만 성사되지 않았다는 뉴스가 나왔어요. 그런데 ‘독대’가 무엇일까요? 글자 그대로 놓고 보면 ‘(누군가를 다른 사람 없이) 혼자서 만난다’는 뜻입니다. 하지만 조선 시대에는 이 말이 사뭇 긴장감 넘치는 단어였어요. 그 ‘누군가’란 바로 임금을 말하는 것이기 때문이었습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;왕과 특정 신하 둘이서 몰래 나누는 대화&lt;/b&gt;&lt;br&gt;&lt;br&gt;전통적으로 임금이 신하를 불러 정치나 경전에 대한 의견을 듣는 것을 ‘소대(召對·불러서 만남)’라고 했어요. 또 여러 신하가 차례로 돌아가며 임금 앞에서 자기 의견을 말하는 것을 ‘윤대(輪對·돌아가며 만남)’라 했죠. 그런데 조선 시대엔 이렇게 왕과 신하가 만나더라도 반드시 그 자리에 참석해야 하는 사람들이 있었습니다. 바로 왕의 비서 격인 승지(承旨)와 역사책의 원고인 사초를 쓰는 사관(史官)이었습니다.&lt;br&gt;&lt;br&gt;그런데 ‘독대’는 바로 이 승지와 사관마저도 없는 채로 왕과 신하만 남아 대화하는 것이었습니다. 이러면 어떤 결과를 낳게 될까요? 승지가 매일 임금을 수행하며 온갖 일정과 대화와 읽은 문서들을 기록하는 ‘승정원 일기’와, 사관이 쓴 사초를 바탕으로 편찬되는 ‘조선왕조실록’ 어디에도 왕과 신하가 대화한 그 내용은 기록되지 않게 되는 것이죠. 한마디로 남몰래 나누는 밀담이었던 것입니다.&lt;br&gt;&lt;br&gt;공개적이고 투명한 행정을 원칙으로 삼았던 조선 왕조의 관료 사회에선 바로 이 독대를 금기로 여겼습니다. 특정 신하가 임금을 독대하게 되면 두 사람 사이에 비밀스러운 음모가 있었을 것으로 의심을 받았기 때문이죠. 사간원과 사헌부에 속해 임금에게 쓴소리를 하고 여러 관료의 잘못을 따졌던 관리들을 대간(臺諫)이라고 했는데요. ‘독대’는 이들에게 비판받기 딱 좋은 일이었던 것입니다. 물론 예외도 있었는데, 왕이 가까운 친족이나 부마(임금의 사위)를 접견하거나, 승지나 사관에게 간단한 지시를 내리는 일 정도는 독대로 치지 않았다고 합니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;정치적 카드가 된 효종·송시열 ‘기해 독대’&lt;/b&gt;&lt;br&gt;&lt;br&gt;조선 초기만 하더라도 ‘독대 불가’ 원칙이 아직 확립되지 않아, 4대 임금 세종 같은 경우엔 종종 민심과 여론 파악을 위해 신하와 독대하는 일이 있었습니다. 11대 중종 때도 권신(권세 있는 신하)인 김안로가 왕과 독대한 일이 있었죠. 하지만 조선 후기에 접어들면 상황이 달라지게 됩니다. 매우 드물게 일어난 독대가 심각한 정치적 파장으로 이어졌던 것이죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZLW6LFIQDFBMNOB6O6UPPCZU5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송시열이 효종을 독대한 창덕궁 희정당. 효종이 북벌의 구체적인 계획을 제시하자, 송시열은 그 대의에 동의하면서도 국내 문제부터 해결하고 민심을 수습하는 게 우선이라고 제안했어요. /국가유산청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대표적인 사건이 1659년(효종 10년)의 ‘기해 독대’입니다. 효종 임금이 당대의 큰 학자이자 서인(西人) 당파의 대표적인 인물인 송시열(1607~1689)과 만난 사건이었습니다. 창덕궁 희정당에서 송시열과 단독으로 대면한 효종은 북벌(北伐) 문제를 허심탄회하게 의논했다고 합니다. 북벌이란 당시 유학자들이 정통성이 없다고 봤던 청나라를 군사적으로 공격해 병자호란(1636~1637)의 치욕을 씻으려 했던 계획으로 끝내 실행되진 못했죠.&lt;br&gt;&lt;br&gt;독대였는데 그 대화 내용이 어떻게 남아 있을까요? 당사자인 송시열이 ‘악대설화’란 책을 썼기 때문입니다. 이 기록에선 효종이 북벌의 구체적인 계획을 제시했고, 송시열은 그 대의에 동의하면서도 ‘주자(朱子)의 가르침에 따라 국내 문제부터 해결하고 민심을 수습하는 게 우선’이라 제안했다고 합니다. 해석하기에 따라 효종과 뜻을 같이했다고 볼 수도 있고, 사실상 북벌을 반대한 것이라고 볼 수도 있습니다.&lt;br&gt;&lt;br&gt;문제는 이 기록의 공개 시점이었습니다. 효종이 승하한 뒤 현종·숙종 때 ‘예송 논쟁’이 크게 일어났는데요. 그 핵심은 효종이 아버지 인조의 적장자(정실이 낳은 맏아들)가 아니기 때문에 사후 대우에 차이를 둬야 한다는 것이었습니다. 그런 주장을 한 사람이 바로 송시열이어서 숙종 초에 자칫 역적으로 몰릴 위기에 놓이자 ‘내가 이렇게 선대 임금과 뜻을 함께한 사람’이라고 주장하기 위해 그 내용을 밝힌 거예요. 송시열은 일단 정치적 위기를 모면했지만 기해 독대는 두고두고 비판의 대상이 됩니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;세자 교체 들끓은 숙종·이이명 ‘정유 독대’&lt;/b&gt;&lt;br&gt;&lt;br&gt;1717년(숙종 43년) ‘정유 독대’로 알려진 또 한 번의 독대 사건이 발생했습니다. 숙종 때 서인 세력은 송시열을 중심으로 하는 노론과 윤증을 중심으로 하는 소론으로 나뉘었는데, 이후 노론이 주요 집권 세력이 됐습니다. 숙종과 독대한 인물은 노론 당파인 좌의정 이이명(1658~1722)이었고, 독대에서 세자 교체를 논의했다는 의심을 받았습니다. 훗날 경종이 되는 세자는 1701년 사약을 받고 죽은 장희빈의 아들로서, 노론의 반대 세력인 남인의 지지를 받고 있었습니다. 이 때문에 노론은 세자를 기피하고 훗날 영조가 되는 이복동생 연잉군을 지지하고 있었어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5YPTUX6PIBGE3CZCAXYZY6BHPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;숙종과 독대한 좌의정 이이명. 그는 독대에서 세자 교체를 논의했다는 의심을 받았어요. /국립중앙박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노론 측은 ‘임금이 세자 교체 의사를 드러내자 이이명은 그것을 만류했고, 대신들이 회의를 거친 끝에 세자가 대리청정(왕 대신 정사를 돌봄)하기로 결정했던 것’이라며 반박했습니다. 그러나 소론 측은 ‘노론이 세자의 실패를 유도하기 위해 함정을 판 것’이라고 주장했죠. (이영춘 ‘조선후기 왕위계승 연구’) 정유 독대의 당사자인 이이명은 송시열과 마찬가지로 독대를 했다는 사실 때문에 비판을 받았던 것입니다.&lt;br&gt;&lt;br&gt;그렇다면 21세기인 지금 대통령과 둘이서만 만나는 일을 ‘독대’라고 하는 것은 시대착오적인 표현일까요? 꼭 그렇지만은 않은 것 같습니다. 표준국어대사전에는 ‘독대’를 ‘①벼슬아치가 다른 사람 없이 혼자 임금을 대하여 정치에 관한 의견을 아뢰던 일 ②어떤 일을 의논하려고 단둘이 만나는 일. 주로 윗사람과의 만남을 이른다’고 풀이하고 있기 때문입니다. 조선 시대보다 뜻이 확장된 것입니다. 현대의 독대는 예전처럼 음모나 중상모략의 원천이 될 수도 있지만, 바른말로 상대방이 미처 생각지 못했던 부분을 일깨워 주는 역할을 할 수도 있지 않을까요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [생활 속 경제] 풍선 한쪽 누르면 다른 쪽 부풀어 올라… 누를 게 아니라 공기 빼야 해요</title>
-      <link>https://www.chosun.com/national/nie/2024/09/26/S34NKPOIXFFVJHFYZNJNUAZDPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/09/26/S34NKPOIXFFVJHFYZNJNUAZDPA/</guid>
-      <dc:creator>연유진 '뉴스로 키우는 경제 지능' 저자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 15:31:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7M7PVC5QIRC47MISZ6VTZPK3ME.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Q. 요즘 가계 부채 문제가 심각해서 은행에서 대출받는 게 어려워졌다고 해요. 그런데 대출 규제가 ‘풍선 효과’를 일으킬지 모른다는 뉴스를 봤어요. 풍선 효과가 뭔가요?&lt;/b&gt;&lt;br&gt;&lt;br&gt;A. ‘풍선 효과’라는 말은 1970년대 미국 정부가 마약상들과 벌였던 ‘마약과의 전쟁(War on Drugs)’에서 유래했어요. 당시 미국은 중남미에서 유입되는 마약을 막기 위해 처벌을 강화하고 해외 마약 카르텔 단속 작전을 펼쳤어요. 하지만 예상치 못한 결과가 나타났어요. 콜롬비아 갱단들을 집중 단속했더니, 이번엔 멕시코에서 새로운 마약 유통 세력이 성장한 거죠. 멕시코에 대한 단속을 강화했더니 이번엔 엘살바도르, 과테말라, 온두라스 등 주변국들로 마약 유통 거점이 옮겨가 세력을 키웠습니다. 마약상들은 끊임없이 새로운 방법을 찾아내 미국에 마약을 유통했어요. 이후 반세기가 흘렀지만 미국은 아직도 마약 문제를 해결하지 못했어요.&lt;br&gt;&lt;br&gt;풍선 효과는 미국 정부의 마약 단속 실패 모습을 풍선에 빗댄 말이에요. 단속을 피해 중남미를 이리저리 옮겨 다니는 마약 밀매상들의 모습이 풍선 한쪽을 눌렀을 때 다른 한쪽이 부풀어 오르는 모습과 닮았거든요. 이후 풍선 효과는 정부가 규제를 통해 공급을 억제하더라도 결국 다른 길을 찾아 거래가 이뤄지는 현상을 가리키는 경제 용어로도 폭넓게 쓰이게 됐죠.&lt;br&gt;&lt;br&gt;최근 우리나라에서도 풍선 효과라는 말을 자주 들을 수 있어요. 금융 당국이 한창 ‘가계 부채와의 전쟁’을 벌이고 있거든요. 지난 8월 한 달 동안 전체 금융권 가계 대출은 무려 9조8000억여 원 늘었어요. 특히 은행권 가계 대출이 9조3000억여 원이나 증가했죠. 가계빚이 폭증한 원인으로 부동산이 지목됐어요. 수개월간 수도권 지역을 중심으로 집값과 전셋값이 오르면서 주택 매수 심리를 자극했거든요. 깜짝 놀란 금융 당국은 시중은행들에 한도 금액을 줄이는 등 규제를 강화해 대출을 줄이라고 주문했죠.&lt;br&gt;&lt;br&gt;하지만 주택이 필요한 실수요자들은 가만히 있지 않았어요. 인터넷전문은행이나 지방은행까지 돌며 신용 대출을 받았어요. 보험사, 카드사 등 제2금융권 문도 두드렸어요. 8월 말 기준 카드사 9곳의 ‘카드론’ 대출 잔액은 41조8310억원으로, 한 달 새 6000억원 이상 늘어났습니다.&lt;br&gt;&lt;br&gt;다행히 9월 들어 가계 대출 증가세는 조금 진정됐지만, 풍선 효과의 불씨는 여전히 살아 있어요. 한국은행이 기준금리를 내릴 거라는 기대 심리와 가을철 이사 수요 등이 남아있기 때문이죠.&lt;br&gt;&lt;br&gt;풍선 효과는 왜 생길까요? 그건 주택 같은 특정 재화나 서비스에 대한 수요가 굳건하기 때문이에요. 풍선 안에 갇힌 공기 양이 변함없다면, 풍선을 아무리 눌러도 부피가 줄지 않아요. 공기가 사라지는 게 아니라 압력이 낮은 쪽으로 움직일 뿐이니까요. 시장도 마찬가지예요. 전체 수요가 줄지 않으면 규제로 공급을 억제해도 거래가 줄지 않아요. 수요는 빈틈을 찾아 다른 곳으로 이동하죠. 정부 규제에는 늘 빈틈이 있기 마련이거든요. 그래서 마약이나 가계 부채 같은 어려운 문제를 해결하려면 근본적으로 수요를 줄일 대책이 필요해요. 마치 풍선에서 서서히 공기를 빼는 것처럼 말이죠.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>음주운전 역주행 사고로 5명 부상…”면허 취소 수치”</title>
       <link>https://www.chosun.com/national/national_general/2024/09/25/ZNGEPSEXSZFWZK7P6JDF45JP74/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/25/ZNGEPSEXSZFWZK7P6JDF45JP74/</guid>
@@ -929,36 +954,6 @@ The Chosunilbo</media:credit>
         <media:description type="plain">119 소방 로고</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>“10년 살면 되지” 여친 살해 김레아에... 검찰, 무기징역 구형</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/25/ICYBO4IQNNGM5P2EKEQGJNBNX4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/25/ICYBO4IQNNGM5P2EKEQGJNBNX4/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 09:14:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZPAUOGMAP7RIKEFUTSQDQ4LRME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이별을 통보한 여자친구를 살해하고, 여자친구의 어머니에게도 흉기를 휘둘러 중상을 입힌 혐의로 신상이 공개된 김레아(26). /수원지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 이별을 통보한 여자친구를 흉기로 찔러 살해하고, 그의 어머니까지 중상을 입힌 혐의로 신상이 공개된 김레아(26)에게 25일 무기징역을 구형했다.&lt;br&gt;&lt;br&gt;수원지법 형사14부(재판장 고권홍)는 이날 김레아의 살인 및 살인미수 혐의 결심 공판을 열었다. 이날 검찰은 “범행의 중대함과 참혹함을 깨닫지 못하고 있는 피고인에게 반드시 중형이 선고돼야 한다”며 무기징역을 선고해달라고 재판부에 요청했다. 검찰은 또 김레아에게 전자장치 부착 30년, 보호관찰 5년, 모친 접견금지 등 특별준수사항 명령을 내려달라고도 했다.&lt;br&gt;&lt;br&gt;김레아는 지난 3월 25일 오전 9시 35분쯤 경기 화성시 봉담읍 자신의 오피스텔에서 여자친구인 A씨와 그의 어머니 B씨에게 과도를 휘둘러 A씨를 살해하고, B씨에게 전치 10주 이상의 중상을 입힌 혐의(살인 및 살인미수)를 받는다. 김레아는 A씨가 이별을 통보하자 이같이 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰은 “피고인은 피해자와 연인관계를 유지하며 강하게 집착하고, 자주 다투며 피해자 주변인까지 죽인다고 수시로 협박했다”며 “피해자와의 성관계 영상을 보관하고 있어, 이별하는데 큰 장애였을 것”이라고 했다. 검찰은 또 “피고인은 이전에도 다른 연인과의 성관계 영상을 유포하겠다고 협박해 조사받은 이력이 있다”며 “피해자를 여러 차례 흉기로 찌르고, 도망가는 피해자를 붙압아 또 여러 차례 찌르는 등 범행이 매우 잔혹하다”고 했다. 그러면서 “이를 목격한 (피해자)모친이 받은 고통은 헤아릴 수 없다”고도 했다. 검찰은 “피고인은 심신미약에 의해 범행한 것이라며 감경을 시도하고, 사실과 다른 주장을 반복하며 책임을 회피하고 있어 반성하고 있다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;김레아의 변호인은 “피고인이 진심으로 반성하고 있고 용서를 구하고 있다”며 “처음부터 폭력적 성향이 있거나, 계획 살인을 벌인 건 아니었다. 피고인 부모는 피해자를 위해 위령제를 지내는 등 죄송한 마음으로 잘못을 뉘우치고 있는 점 등을 살펴 최대한의 선처를 해달라고 간곡히 부탁한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZW3VW2S37CFNTA6VJAJ6TB6WDQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 수원시 영통구에 위치한 수원법원종합청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최후 진술에 나선 김레아는 “어떤 이유, 어떤 상황에서든 살인은 일어나면 안 된다고 생각한다”며 “매일 매 순간 죄책감과 후회로 힘들다. 남은 인생은 피해자와 (피해자)어머님께 할 수 있는 모든 것을 다 하겠다”고 했다. 김레아는 “저 때문에 사람들에게 욕먹고 상처받고 큰 고통을 받고 있는 (자신의)어머님과 동생, 강아지한테도 너무 미안하고 죄송하다. 피해자가 만약 보고 있다면 미안하다고 말하고 싶다”고도 했다. 재판부가 김레아에게 “지금 강아지한테도 미안하다고 한 거냐”고 하자 방청석에선 ‘허’ 하는 탄식이 나오기도 했다.&lt;br&gt;&lt;br&gt;이날 김레아는 쑥색 수의를 입고, 긴 머리를 뒤로 넘겨 묶은 모습이었다. 그는 앞선 재판에서 항상 앞머리를 길게 늘어뜨리고, 마스크를 착용해 얼굴을 대부분 가린 상태로 법정에 나왔는데, 이날 처음 얼굴을 온전히 보인 것이다. 그는 사건 당시 손을 다쳐 양 손에 반깁스를 한 상태였다. 김레아는 최후 진술 내내 흐느끼며 눈물을 흘렸다.&lt;br&gt;&lt;br&gt;이날 법정에선 범행 당시 김레아를 피해 오피스텔 복도로 달아나는 A씨의 모습이 담긴 사건 현장의 방범카메라(CCTV) 영상이 일부 공개되기도 했다. 이날 검찰 구형에 앞서 진행된 피고인 신문에서는 김레아가 구치소로 접견 온 자신의 어머니와 나눈 대화 녹취록도 공개됐다. 김레아는 “아이폰 돌려받을 수 있나. 아이패드랑 컴퓨터 안 걸리는 게 좋으니까 알아봐달라” “한 10년 살면 되지 않을까” “같이 행복하게 살자”라고 말한 것으로 나타났다.&lt;br&gt;&lt;br&gt;김레아는 범행 당시 소주 한 병과 두통약을 먹었다는 주장도 했다. 재판부가 “당일 오전 학교 수업을 앞두고 소주를 마신다는 게 이해가 안 되는데 심신 미약을 위한 허위 주장이 아니냐”고 묻자 그는 “절대 아니다. 두통이 심해지면 소주와 두통약을 먹는다”고 말했다. 김레아는 피해자 모친이 흉기를 먼저 들고 있었고, 이를 빼앗기 위해 양손을 다쳤으며, 이후 기억은 정확하게 나지 않는다고도 했다.&lt;br&gt;&lt;br&gt;또 국립법무병원에서 실시한 김레아의 정신감정 결과도 공개됐다. 병원 측은 “사건 당시 (김레아는)심신미약이나 심신상실에 이르는 정신질환이 존재하지 않았고, 판단력은 건재하였던 것으로 사료된다”는 소견을 냈다. 김레아는 재판 과정에서 과거 정신질환을 앓고 있었다며 심신미약을 주장해왔다.&lt;br&gt;&lt;br&gt;한편, 김레아에 대한 1심 선고는 다음달 23일 이뤄진다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/ZPAUOGMAP7RIKEFUTSQDQ4LRME.jpg?width=1856&amp;height=2448&amp;auth=9491e5b82c36a9f05610f7649c7e80e135abfcc4117623b77335dc9510dd1ca6&amp;smart=true" type="image/jpeg" height="2448" width="1856">
-        <media:description type="plain">김레아. 수원지검 제공.</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>“우리 돈 모이면 결혼할까”…20대 연인 꿈 짓밟은 ‘뺑소니 마세라티’</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/25/CVC64OOM3NFJ3DJ7K2Z26XBDGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/25/CVC64OOM3NFJ3DJ7K2Z26XBDGI/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 06:44:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CAXB3VNWBFFCLAUZE7YDTIFP34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 24일 오전 3시 11분쯤 광주광역시 서구 화정동의 한 도로에서 A씨와 여자친구 B씨가 탑승한 오토바이를 들이받았던 마세라티 차량이 사고 충격으로 파손돼 있다. 이 사고로 B씨가 숨졌고, A씨는 중상을 입어 병원 치료를 받고 있다. /광주 서부경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“돈 모이면 우리 결혼할까.” 지난 24일 새벽 오토바이를 타고 퇴근길에 올랐던 20대 연인의 미래를 꿈꾸던 대화는 과속 차량의 뺑소니로 지켜질 수 없는 약속이 됐다.&lt;br&gt;&lt;br&gt;25일 광주 서부경찰서에 따르면 지난 24일 오전 3시 11분쯤 광주광역시 서구 화정동의 한 도로에서 A(23)씨와 여자친구 B(28)씨가 탑승한 오토바이를 마세라티 승용차가 들이받았다. 이 사고로 B씨는 숨졌고, A씨는 골반 뼈와 턱뼈가 으스러지는 부상을 입고 광주의 한 대학병원 중환자실에서 치료를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 가족과 의료진을 볼 때마다 B씨의 생사를 묻고 있다. A씨 어머니는 “아들이 ‘내가 사고 났던 길로 가지 않았다면’ ‘여자친구를 태우지 않았다면’이란 말을 되뇌며 끝없이 자책한다”며 “연인의 죽음을 알고 충격받아 치료를 거부하거나 극단적 선택을 할까 봐 여자친구가 위독하다고만 했다”고 전했다.&lt;br&gt;&lt;br&gt;사고 당시 인근 방범카메라 영상에는 마세라티 차량이 매우 빠른 속도로 A씨 등이 탑승한 오토바이를 덮치는 모습이 담겨 있다. 방범카메라 영상 속 마세라티 차량은 사고 당시 브레이크등이 켜지지 않았다. 사고 직후 마세라티 운전자와 탑승자 등 2명이 차량을 버리고 달아나는 모습도 확인됐다.&lt;br&gt;&lt;br&gt;A씨는 병원으로 옮기는 구급차에 오르고서야 의식을 찾았다고 한다. A씨 어머니는 “아들이 생각지도 못한 사고를 당했기 때문에 어떻게 사고를 당했는지 기억하질 못한다”며 “사고 장면도 뉴스 영상을 보고서야 알았다”고 했다.&lt;br&gt;&lt;br&gt;하지만 A씨는 여자친구와 나눈 대화만큼은 또렷이 기억했다고 한다. A씨 어머니는 “아들은 지난해 12월부터 배달기사로 일해왔고 새벽 2시쯤 퇴근했는데 이날은 함께 뭇국을 차려먹으려고 장을 보고 돌아오던 길이었다”며 “돈 모이면 결혼할까라는 이야기를 나누며 퇴근하던 길이었다는데”라며 말을 잇지 못했다.&lt;br&gt;&lt;br&gt;이어 “의사 선생님은 아들에게 연인의 죽음을 알려야지 않겠느냐고 하는데 여자친구가 살아만 있어주면 자신 때문에 당한 고통을 평생 책임지겠다고 말하는 아들을 보면 차마 입을 뗄 수가 없다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 의식만 차린 채 수술이 필요한 상황이지만 다음주가 돼야 턱뼈 수술을 받을 수 있고, 골반 뼈 수술은 다른 병원으로 옮겨야 받을 수 있다고 한다. A씨 어머니는 “의정 갈등 여파로 의료진이 부족해 바로 수술을 받을 수 없어 완치될 수 있을지도 장담 못하는 상황”이라고 했다.&lt;br&gt;&lt;br&gt;경찰은 A씨 연인을 들이받고 달아난 마세라티 차량 운전자의 신원을 일부 특정해 추적하는 중이다. 경찰은 차적 조회를 통해 마세라티 차량이 서울의 한 법인 소유인 것으로 확인했지만, 운전자와는 연관성이 낮은 것으로 보고 있다.&lt;br&gt;&lt;br&gt;다만 마세라티 차량의 보험정보를 통해 가입자를 확인했고, 해당 인물의 지인을 용의자로 추정하고 있다. 하지만 용의자로 특정한 인물의 휴대전화가 꺼져 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “용의자 신원을 어느 정도 특정해 검거활동 중”이라며 “반드시 검거해 음주운전 여부 등을 조사할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>사람 잡는 ‘사적 제재’ 방조한 유튜브</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/25/PAATUU4ZKRAFNIIZDGEHPFH4KY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/25/PAATUU4ZKRAFNIIZDGEHPFH4KY/</guid>
-      <dc:creator>광주광역시=진창일 기자, 주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Sep 2024 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6YVBV7VQBFHGRLKGW46OZ34NIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 22일 오전 3시 48분쯤 광주광역시 광산구 산월동의 한 도로에서 추돌사고 뒤 사망한 운전자의 차량. 사고 당시 이른바 '음주운전 헌터'라 불리는 유튜버가 이 차량을 뒤쫓았었다. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VLN2L27AKBDJRFVZFQG6B663SA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이 유튜버가 과거 자신의 유튜브 채널에 올린 영상. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 22일 새벽 광주광역시에서 ‘음주 운전 추적’ 유튜버를 피해 달아나던 30대 남성 운전자가 대형 트레일러를 들이받고 사망하는 사고가 발생했다. 당시 이 운전자는 유튜버 A씨 등이 탄 차량 3대와 약 1.9㎞ 추격전을 벌인 끝에 숨졌다. 이 과정이 유튜브를 통해 생중계돼 400여 명이 지켜봤지만 유튜브는 별다른 조치를 취하지 않았다. 전문가들 사이에서는 “이렇게 위험천만한 방송을 방치한 유튜브가 더 문제”라는 지적이 나온다.&lt;br&gt;&lt;br&gt;유튜버 A씨는 밤 거리에 잠복해 있다가 술을 마신 것으로 의심되는 운전자를 추적·응징하는 영상을 찍어 올리는 유튜버다. 스스로를 ‘광주 보안관’이라고 부른다. 온라인에서는 ‘음주 운전 헌터(사냥꾼)’라고도 불린다.&lt;br&gt;&lt;br&gt;A씨는 지난 1월 생중계 도중 음주 운전을 한 것으로 추정되는 운전자와 실랑이가 붙어 경찰 조사를 받기도 했다. 하지만 이후에도 A씨는 유튜브 생중계를 계속했고 결국 사망 사고까지 발생했다. 그가 운영하는 유튜브 채널의 구독자는 7만명이 넘는다. 영상은 800개가 넘는다.&lt;br&gt;&lt;br&gt;경찰 대신 민간인이 하는 이른바 ‘사적제재(私的制裁)’는 위법이다. A씨의 행위는 사적제재에 해당할 소지가 크다는 게 전문가들 지적이다. 이윤호 동국대 경찰행정학과 교수는 “최근 유튜브에 ‘사적제재’ ‘사적보복’ 콘텐츠가 증가하고 있다”며 “조회 수가 곧 수익이다 보니 자극적인 콘텐츠가 양산되고 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WY65YTPMG5EORPRUUA4FN2CSIQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온라인 커뮤니티 등에서는 이번 사망 사고를 계기로 “음주 운전이 불법이긴 하지만 경찰도 아닌 유튜버가 이른바 ‘사적제재’를 하는 것이 맞느냐”는 논란이 일고 있다.&lt;br&gt;&lt;br&gt;24일 광주광역시 광산경찰서에 따르면, 22일 오전 3시 50분쯤 광주광역시 광산구 산월동의 한 교차로에서 B(35)씨가 몰던 BMW 차량이 갓길에 주차돼 있던 대형 트레일러를 들이받았다. 이 사고로 BMW 차량은 완전히 불탔고 B씨는 병원으로 이송됐으나 숨졌다.&lt;br&gt;&lt;br&gt;사고 전 유튜버 A씨는 광산구 월계동 인근 도로에서 신호 대기 중이던 B씨의 차량에 다가가 “술을 마셨느냐” “음주 운전 신고를 했다”면서 실랑이를 벌였다고 한다. 이 모습은 A씨 유튜브 채널을 통해 생중계됐다. 이후 B씨는 A씨의 추격을 피해 약 1.9㎞를 달아나다 추돌 사고를 냈다고 한다.&lt;br&gt;&lt;br&gt;당시 방범카메라 영상에는 차량 3대가 B씨를 뒤쫓는 모습이 담겨 있다. A씨 외에도 A씨 영상을 즐겨 보는 이른바 ‘추종자’들이 모는 차량 2대가 더 있었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 국립과학수사연구원에 B씨의 음주 여부에 대한 감정을 의뢰하는 한편, A씨를 참고인으로 불러 사고와 연관성을 조사 중이다.&lt;br&gt;&lt;br&gt;사망한 운전자 유족들은 “아무리 음주 운전이 중죄(重罪)라도 경찰도 아닌 유튜버가 이렇게 사람을 죽음으로 내몰아도 되느냐”고 반발하고 있다. 한 유족은 “B씨가 4년 전부터 공황장애를 앓고 있었고 A씨 영상을 자주 봤다고 한다”며 “A씨의 추격에 심한 압박감을 느껴 사고를 냈을 가능성이 크다”고 했다.&lt;br&gt;&lt;br&gt;그동안 A씨가 자신의 유튜브 채널에 올린 영상에는 운전자들과 몸싸움을 벌이거나 폭언을 주고받는 모습이 그대로 담겨 있다. 지난 3월 영상에서 A씨는 차량을 주차한 뒤 집에 들어가려는 운전자를 붙잡고 “음주했잖아요” “동영상 다 찍어”라면서 실랑이를 벌였다. 또 다른 영상에는 음주 운전을 한 것으로 의심되는 차량을 뒤쫓아가 경찰에 신고한 뒤 “또 잡았다” “이렇게 또 1승을 땄네요”라고 말하는 모습이 담겼다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 B씨를 뒤쫓는 과정에서 B씨가 위협을 느낄 만한 행위를 했는지, 그 행위를 사고 원인으로 볼 수 있는지 조사하고 있다”며 “위법 사항이 발견되면 입건할 방침”이라고 했다.&lt;br&gt;&lt;br&gt;◇돈벌이 수단 된 유튜브 ‘사적제재’&lt;br&gt;&lt;br&gt;최근 유튜브에는 ‘사적제재’ ‘사적보복’ 콘텐츠가 증가하고 있다. “우리가 정의를 구현한다”는 사람들의 카타르시스를 자극하면서 조회 수를 올리는 것이다. 지난 1월에는 한 유튜버가 60대 경비원을 폭행한 10대 남학생을 붙잡아 무릎 꿇게 한 뒤 욕설을 하는 영상이 올라왔다. 이 유튜버는 “할아버지 폭행범을 잡아 참교육했다”고 했다. 이 영상은 조회 수가 34만회에 달했다. “경찰 대신 시민들이 범죄자를 잡아 통쾌하다”는 댓글도 여럿이다.&lt;br&gt;&lt;br&gt;조회 수가 곧 돈이다 보니 ‘정의 구현’ 콘텐츠의 수위는 날이 갈수록 높아지고 있다. 지난 5월에는 부산지법 인근에서 50대 유튜버가 다른 유튜버를 흉기로 찔러 살해하는 모습을 생중계했다. 당시 피습 장면과 피해자의 비명 등이 여과 없이 유튜브를 탔다.&lt;br&gt;&lt;br&gt;콘텐츠의 종류도 다양해지고 있다. 한 유튜버는 마약 사범들을 경찰에 제보하는 영상을 올려 인기를 끌었다. 영상을 찍기 위해 위험천만한 도심 추격전을 벌이기도 한다. 실시간 생중계 영상에는 시민들의 얼굴이 그대로 노출됐다.&lt;br&gt;&lt;br&gt;유튜버가 불확실한 제보를 근거로 개인 신상을 무단 공개해 제3자가 피해를 보기도 한다. ‘밀양 여중생 집단 성폭행 사건’의 가해자 신상을 폭로하던 한 유튜버는 엉뚱한 사람을 가해자의 여자 친구로 지목해 논란이 일었다. 가해자의 여자 친구로 지목된 여성은 온라인에서 ‘마녀사냥’을 당했고 이 유튜버는 명예훼손 등 혐의로 불구속 기소됐다.&lt;br&gt;&lt;br&gt;전문가들은 “민간인인 유튜버가 범죄 의심자를 뒤쫓아 처벌하는 ‘사적제재’ 영상은 사람들의 복수심과 분노를 조장하고 공권력의 신뢰를 떨어뜨릴 수 있다”고 지적한다. 이윤호 교수는 “우리나라 헌법은 어떤 개인에게도 다른 사람을 제재할 권리를 주지 않았다”며 “‘정의 구현’이라는 가치가 유튜브 조회 수를 올리는 수단이 되고 있는 현실이 개탄스럽다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
