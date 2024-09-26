@@ -13,6 +13,76 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘20대 연인 사상’ 마세라티 뺑소니 용의자 도주 도운 지인 경찰 수사</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/26/A6Z7CVUG3RAZ5JBXYVKTLI6V2E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/26/A6Z7CVUG3RAZ5JBXYVKTLI6V2E/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 10:08:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CAXB3VNWBFFCLAUZE7YDTIFP34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 24일 오전 3시 11분쯤 광주광역시 서구 화정동의 한 도로에서 A(23)씨와 여자친구 B(28)씨가 탑승한 오토바이를 들이받았던 마세라티 차량이 사고 충격으로 파손돼 있다. 이 사고로 B씨가 숨졌고, A씨는 중상을 입어 병원 치료를 받고 있다. /광주 서부경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 20대 연인을 사상케 한 뺑소니 용의자의 도주를 도운 지인에 대한 수사에 착수했다.&lt;br&gt;&lt;br&gt;광주 서부경찰서는 26일 2명 사상자를 낸 마세라티 승용차 운전자의 지인 A(31)씨를 범인은닉도피 혐의로 입건해 조사 중이라고 밝혔다. A씨는 지난 24일 오전 3시 11분쯤 광주광역시 서구 화정동의 한 도로에서 오토바이를 탄 20대 연인을 상대로 뺑소니 사고를 내고 달아난 운전자 B(32)씨의 도주를 도운 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 B씨가 사고를 낼 당시 함께 질주했던 모습이 확인된 벤츠 승용차 차주로 알려졌다. 경찰은 A씨를 상대로 “사고 이후 B씨의 부탁을 받고 대전까지 데려다줬다”는 진술을 확보한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;당시 사고로 오토바이 뒷좌석에 탄 여성 C(28)씨가 숨지고 남자친구인 오토바이 운전자 D(23)씨가 크게 다쳤다. D씨는 골반뼈와 턱뼈가 으스러지는 부상을 당해 대학 병원 중환자실에서 치료받고 있다. 이들은 B씨가 음식 배달 일을 마친 뒤 함께 귀가하던 길이었다고 한다.&lt;br&gt;&lt;br&gt;사고 당시 방범 카메라 영상에는 흰색 마세라티 차량이 빠른 속도로 오토바이를 들이받는 장면이 담겼다. 이 충격으로 오토바이는 150m가량 튕겨 나와 형체를 알아보기 힘들 정도로 부서졌다. 마세라티 차량은 브레이크등(燈)이 들어오지 않았던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;마세라티 차량은 사고 현장을 그대로 지나 약 500m를 더 달린 뒤 멈춰 섰다. 방범 카메라 영상에는 B씨 등 남성 2명이 급하게 도주하는 모습이 잡혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/CAXB3VNWBFFCLAUZE7YDTIFP34.jpg?width=2560&amp;height=1920&amp;auth=544342efcb4ed45112de0ddd4bcdc0af59092e43681eb02dddd6f751aff44034&amp;smart=true" type="image/jpeg" height="1920" width="2560">
+        <media:description type="plain">지난 24일 오전 3시 11분쯤 광주광역시 서구 화정동의 한 도로에서 A(23)씨와 여자친구 B(28)씨가 탑승한 오토바이를 들이받았던 마세라티 차량이 사고 충격으로 파손돼 있다. 이 사고로 B씨가 숨졌고, A씨는 중상을 입어 병원 치료를 받고 있다. /광주 서부경찰서</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>피해자 두번 울리던 기습‧먹튀 공탁…앞으로는 못한다</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/26/H2WNCKMDKZDNLNDRNI3YAFWNUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/26/H2WNCKMDKZDNLNDRNI3YAFWNUU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 09:43:19 +0000</pubDate>
+      <content:encoded>이른바 ‘기습공탁’ ‘먹튀공탁’으로 불리던 형사공탁제도 악용이 앞으로는 불가능하게 된다. 법무부는 형사공탁 과정에서 법원이 피해자의 의견을 듣는 절차를 신설하고, 공탁금 회수를 원칙적으로 제한하는 개정안이 26일 국회 본회의를 통과했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LY62L66G6ZLH3KDFE3GPVO3IQI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;26일 오후 서울 여의도 국회에서 열린 본회의./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기습공탁은 선고 직전 피고인이 피해자 몰래 공탁금을 내 피해자의 의사와 상관 없이 감형을 받아 문제가 됐다. 이른바 ‘신림동 흉기 난동’ 사건의 범인 조선(34)이 2심 선고를 나흘 앞두고 기습공탁을 해 논란을 빚기도 했다.&lt;br&gt;&lt;br&gt;법무부는 판결 선고가 임박한 시점에 형사공탁을 할 경우 법원이 피해자 의견을 의무적으로 청취하는 규정을 신설했다. 피해자가 사망한 경우엔 유족의 의사를 듣도록 했다. 다만 피해자의 의견을 듣기에 곤란한 사정이 있다면 예외를 인정한다. &lt;br&gt;&lt;br&gt;법무부 관계자는 “개정안의 통과로 피해자 의사가 반영되지 않은 상태에서 양형이 이뤄지는 것을 방지할 수 있다”며 “헌법이 명시한 피해자의 재판절차 진술권이 충실히 보장될 것으로 기대된다”고 했다.&lt;br&gt;&lt;br&gt;이른바 ‘먹튀 공탁’이라고 불리는 형사공탁금 회수도 원칙적으로 제한된다. 그간 공탁금을 내고 감형을 받은 뒤, 피해자의 수령 의사가 확인되기 전 공탁물을 회수하는 경우가 알려지면서 사회적 논란이 빚어졌다. 그러나 개정된 공탁법에 따르면 피해자가 공탁물 회수에 동의하거나 수령을 거절할 경우, 무죄 판결 또는 불기소 결정이 있는 경우에만 회수가 허용된다.&lt;br&gt;&lt;br&gt;개정법은 공포 후 3개월이 지난 날부터 시행되고, 개정 규정은 법이 시행된 이후 형사공탁한 경우부터 적용된다.&lt;br&gt;&lt;br&gt;법무부 관계자는 “범죄피해자들이 사각지대 없이 절차적 권리를 충실히 보장 받고, 그 변화를 직접 체감할 수 있도록 제도 개선을 위해 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>李위증교사 녹취, 판사가 전체 들은 이유 [판읽기]</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/26/WX4TQZ72ZZDXNC7A3HPMSAJD6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/26/WX4TQZ72ZZDXNC7A3HPMSAJD6M/</guid>
+      <dc:creator>양은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 09:25:51 +0000</pubDate>
+      <content:encoded>이재명 대표의 ‘위증교사’ 사건 재판도 막바지로 치닫고 있다. 결심공판을 앞두고 마지막으로 열린 지난 9일 재판에서는 검찰이 유죄 증거로 제출한 핵심 증거들이 공개됐다. 이 중에는 이 대표가 김진성씨에게 문제의 증언을 부탁하는 녹취 전체가 약 30분간 재생됐다.&lt;br&gt;&lt;br&gt;이 대표는 2018년 검사사칭 사건 연루를 부인해 공직선거법 위반으로 기소되자 김병량 성남시장 비서였던 김진성씨에게 위증을 교사한 혐의로 기소됐다. 김씨에게 전화를 걸어 ‘김병량 시장이 KBS최철호 PD에 대한 고소를 취하하는 대신 이재명을 주범으로 몰기로 하는 합의가 있었다’는 증언을 부탁했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6OSGVC4NI5DVDJ3N7GIBNRSQGU.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 유튜브 '판결문 읽어주는 기자'.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 재생된 전화 녹취에 따르면 김씨는 증언을 부탁하는 이재명 대표(당시 경기도지사)에게 “저기 기억도 잘 안납니다”라고 했다. 이에 이 대표는 “그때 어쨌는 정치적으로 나를 처벌해야 곤경을 벗어나는 상황”이었다며 “검찰도 나를 손봐야 해서 그렇고 이해관계가 일치해서 나한테 덮어씌워야 도움이 됐던 사건”이라고 했다. 김씨는 이 대표가 증언을 요구한 내용에 대해 ‘기억나지 않는다’ ‘잘 모른다’고 했지만 이 대표는 “그런 얘기를 들었다고 해주면 되지”라고 했다.&lt;br&gt;&lt;br&gt;이날 전체 녹취를 듣게 된 것은 이 대표측 요구에 따른 것이다. 검찰은 주요 부분을 재생하며 이 대표가 김씨가 모르는 내용을 증언해 달라고 했음을 강조했지만 이 대표 변호인이 ‘의도적인 편집’이라고 항의하며 재판장에게 ‘전체를 다 듣자’고 했다. 재판장이 이를 받아들여 2018년 12월~1월 사이에 이뤄진 네 차례의 통화, 약 30여분간의 녹취 전체가 재생된 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RPMPH537FRBCDN4FEZ2NFOYGUI.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 유튜브 '판결문 읽어주는 기자'.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이중에는 이 대표가 구속된 누군가를 언급하며 김씨가 그에게 돈을 주지 않았느냐고 묻고, 김씨가 이를 부인하며 자신이 아닌 다른 사람이라고 말하는 내용도 있다. 이처럼 이 대표가 이 사건과 직접 관련 없는 얘기를 꺼낸 의도를 두고 의문이 커지고 있다.&lt;br&gt;&lt;br&gt;검찰이 공개한 증거 중에는 이 대표와 KBS 이모 기자와의 2002년 6월 통화 녹취록도 있었다. 이 대표는 이 기자가 검사사칭 사건 직후 자신에게 ‘KBS와 성남시가 이재명을 검사사칭 주범인 것처럼 몰고자 했다’고 제보했다며 이 기자를 증인으로 신청했었다.&lt;br&gt;&lt;br&gt;그러나 검찰은 녹취록에서 대화자가 이모 기자가 아닌 ‘불명’(不明)으로 돼 있었다고 밝혔다. 내용상으로도 이 기자가 제보하는 게 아니라 이 대표가 주장을 말하고 대화자가 근거가 무엇인지 되묻는 형식이라고 했다. 지난 7월 증인으로 나온 이 기자 또한 “그런 대화가 있나, 전혀 기억나지 않는다” “녹취록에 등장하는 사람들은 내가 모르는 사람들”이라고 했었다.&lt;br&gt;&lt;br&gt;26일 ‘판읽기’에서는 최초로 법정에서 공개된 ‘위증교사 녹취’ 30분 전체를 전격 분석한다. 또한 이날 검찰이 제시한 이 대표측의 통화녹취록, 최PD와 김진성씨의 검찰 및 법정 증언 등 핵심 증거도 들여다본다. ‘판읽기’는 유튜브에서 ‘판결문 읽어주는 기자’를 검색하면 볼 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공직선거법 위반 민주당 정동영 의원 재판행</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/26/JJG63DRQZVH7RAKFESQ362RJKI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/26/JJG63DRQZVH7RAKFESQ362RJKI/</guid>
+      <dc:creator>전주=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 08:47:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PV7WSD3PCF4Q2WMAXK6NH6Z4QU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정동영 더불어민주당 국회의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사전 선거 운동을 한 혐의로 검찰 조사를 받아 온 더불어민주당 정동영(전북 전주시병) 의원이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;전주지검 형사3부(부장 한연규)는 26일 공직선거법 위반 혐의(사전선거운동·허위사실 공표)로 정 의원을 불구속기소 했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 정 의원은 지난해 12월 13일 자신의 지역구에 있는 공동주택 위탁관리 업체 A사의 종무식에서 선거구민 250명을 상대로 ‘자신에게 투표해달라’며 지지를 호소한 혐의로 기소됐다. 정 의원은 지난 1월 9일엔 A사의 시무식에 참석해 지지를 호소한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;정 의원이 지지를 호소한 날은 공식 선거운동 기간이 아니었다. 제22대 총선의 공식 선거운동 기간은 지난 3월 28일부터 선거 전날인 4월 9일까지였다.&lt;br&gt;&lt;br&gt;정 의원은 여론조사를 앞두고 지지자들에게 응답 연령을 ‘20대로 해달라’고 요구한 의혹이 불거진 이후, 이에 대한 입장을 묻는 기자의 질의에 “저는 어디 가서 그런 이야기를 한 적이 없다. 음해고 엉터리 제보”라고 허위 답변을 한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “앞으로도 선거 질서를 해치는 부정선거 사범에 대해서는 엄정하게 대응해 공정하고 공명한 선거 풍토를 만들 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PV7WSD3PCF4Q2WMAXK6NH6Z4QU.jpg?width=2220&amp;height=3102&amp;auth=42c638bba27e2a198b98a9fac6ffa46dd7f25f4570b300d500af25263dc97811&amp;smart=true" type="image/jpeg" height="3102" width="2220">
+        <media:description type="plain">정동영 국회의원. 2024.4.11/뉴스1 ⓒ News1 유경석 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 유경석 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>구로구 오피스텔서 불, 인명 피해는 없어..."배터리 충전 중 발화"</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/26/QDNCKAWO2BAHXO32JFGI5BWOPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/26/QDNCKAWO2BAHXO32JFGI5BWOPI/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 08:47:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHVNB2B2WJHGXODIDACQLHGZVI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 구로구 소재 19층짜리 오피스텔에서 화재가 발생했다. 소방당국은 충전 중이던 배터리를 화재 원인으로 보고 있다.&lt;br&gt;&lt;br&gt;소방당국에 따르면 26일 오전 11시 51분쯤 서울 구로구 오류동 19층짜리 오피스텔 14층에서 화재가 났다.&lt;br&gt;&lt;br&gt;화재로 주민 57명이 자력 대피했고 인명피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;소방은 인력 62명과 장비 2대를 투입해 오후 12시 9분쯤 완진했다.&lt;br&gt;&lt;br&gt;소방 관계자는 “개인 호실에서 충전 중이던 배터리에서 불이 나기 시작해 옆에 있던 침대로 옮겨 붙었다”며 “스프링클러가 바로 작동한 덕분에 큰 불로 번지지 않았고 정확한 화재 원인을 조사 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>폭력조직원과 지인 폭행… 외식업체 전 대표, 구속기소</title>
+      <link>https://www.chosun.com/national/incident/2024/09/26/BKARMM4XINEZRLDU4ZVELHZCQM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/26/BKARMM4XINEZRLDU4ZVELHZCQM/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 08:30:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SBM2E363W5AXNIN6O67JIDOWQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지방검찰청./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외식업 프랜차이즈 회사 전 대표가 폭력조직원과 함께 지인을 폭행한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;인천지검 강력범죄수사부(부장 박성민)는 폭력행위 등 처벌에 관한 법률상 공동상해와 특수상해 등 혐의로 모 외식업체 전 대표 A(43)씨를 구속기소 했다고 26일 밝혔다. 또 특수상해 등 혐의로 폭력조직원 B(43)씨를 불구속기소 했다.&lt;br&gt;&lt;br&gt;이들은 지난해 8월 2일 오전 1시 20분쯤 인천시 연수구 동춘동의 한 유흥업소에서 함께 술을 마시다던 평소 알고 지내던 30대 남성 C씨를 폭행해 다치게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 C씨의 머리를 향해 유리 재질의 얼음통을 던지고 담뱃불로 얼굴을 지진 것으로 알려졌다. 또 C씨의 몸과 머리에 소변을 보기도 한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“잘 만나보세”...대구 달서구에서 청년 만남·저출생 극복 축제 연다</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/26/TULYWX4O2FHFLNY3PCVKNCBH7I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/26/TULYWX4O2FHFLNY3PCVKNCBH7I/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 08:20:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZZBQRBUU4BHGXOE7I7FIVAUOJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;두근두근 페스티벌 포스터/대구 달서구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구에서 만남과 결혼, 출산과 돌봄 등을 주제로 한 저출생 극복 축제가 열린다.&lt;br&gt;&lt;br&gt;대구 달서구는 오는 28일 오후 1시부터 오후 6시까지 두류공원에서 ‘두근두근 페스티벌(페스티벌)’을 개최한다. 이 행사는 달서구의 결혼특구 선포 6주년을 맞아 ‘달서애(愛)반하다, 달서에서 미래를 꿈꾸다’를 주제로 진행된다.&lt;br&gt;&lt;br&gt;축제 현장에는 청춘남녀의 만남과 신혼부부의 출산, 육아 등 다양한 정보를 얻을 수 있는 ‘체험(정보)부스’ ‘스페셜 부스’가 조성된다. 체험 부스는 ‘만남·결혼 존’, ‘출산·돌봄 존’, ‘달서·꿈 존’ 등으로 구성된다. 스페셜 부스는 청년들을 위한 취업 정보와 각종 대외활동 등 정보를 제공하는 ‘MZ 존’, 경품과 이색 체험 등이 가능한 ‘투게더 존’으로 구성돼 있다.&lt;br&gt;&lt;br&gt;연인이 되기 전 서로 만남을 이어가는 ‘썸남썸녀’들의 사연, 연인들의 결혼 프로포즈 사연 등을 읽어주는 ‘보이는 라디오’, 버스킹 공연, 달서구 내 14개 동(洞)에서 준비한 결혼을 주제로 한 이색 퍼레이드도 예정돼 있다.&lt;br&gt;&lt;br&gt;이태훈 달서구청장은 “우리 희망인 청년들과 모든 가족들이 사랑 가득한 축제의 장을 즐기시길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3CBJWGJSCNGGJEK25TND446YIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2023년 열린 두근두근 페스티벌./대구 달서구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 달서구는 지난 2016년 전국 최초로 결혼장려팀을 신설하고 2018년엔 결혼특구를 선포하는 등 청춘남녀의 만남을 비롯한 저출생 극복 정책을 발굴하고 있다. 올해까지 달서구 주선으로 결혼한 커플도 172쌍에 달한다. 올해부터는 저출생 극복이 국가 발전 과제라는 문제 인식 하에 ‘잘 만나보세, 뉴(New) 새마을운동’을 주제로 관련 사업을 진행 중이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세]  9월 27일 금요일 (음력 8월 25일 甲午)</title>
       <link>https://www.chosun.com/national/national_general/2024/09/26/PI33YU2FMNHLFG6ZZJKOIVFJGU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/26/PI33YU2FMNHLFG6ZZJKOIVFJGU/</guid>
@@ -829,47 +899,6 @@ The Chosunilbo</media:credit>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YIGIHGM6KFNSPG2PUXHAEQC74Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 부산 해운대해수욕장을 찾은 관광객, 외국인들이 물놀이를 하며 더위를 식히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가을이 사라지고 있다. 과거 1년 중 3개월(9~11월)로 봤던 가을이 올해는 늦더위 여파로 채 두 달도 꽉 채우지 못할 것으로 전망된다.&lt;br&gt;&lt;br&gt;25일 기상청에 따르면, 이달 1일부터 24일까지 전국 평균 최저기온(62개 관측 지점 기준)은 섭씨 21.7도를 기록해 1973년 관측 이래 처음으로 9월 최저기온이 20도 이상으로 올라갔다. 가장 높은 9월 최저기온 기록은 작년에 세운 19도인데 이보다 2도가량 높은 것이다. 이 기간 평균 최고기온도 30.1도로 나타나 사상 첫 30도대를 기록 중이다. 평균 기온은 25.4도로 아직 한반도 계절은 가을보단 여름 쪽에 가깝다.&lt;br&gt;&lt;br&gt;최근 찬 북풍이 내려오며 다소 선선해졌지만 아직 제대로 된 가을은 오지 않았다. 가을 시작일은 ‘일평균 기온이 20도 미만으로 떨어진 후 다시 올라가지 않은 첫날’로 삼는다. 청명한 날이 많은 가을에는 낮 동안 강한 햇볕에 의해 수은주가 가파르게 치솟기 때문에, 평균 기온이 떨어지려면 아침 기온이 큰 폭으로 내려가야 한다. 그런데 25일 오전 8시 기준 서울 기온이 20.5도를 기록하는 등 전국 대부분 지역에서 평년보다 온도가 높았다.&lt;br&gt;&lt;br&gt;올가을은 예년보다 더 짧아질 것으로 보인다. 기상청은 25일 발표한 3개월 전망에서 10월까지 덥고, 겨울(12월~이듬해 2월)은 더 추울 것으로 내다봤다. 기상청은 올 10월 평균 기온이 평년보다 높거나 비슷할 확률이 90%라고 봤다. 이상 고온 발생일수도 평년보다 많을 것으로 진단했다. 이상 고온은 평년 기온을 기반으로 산출해 지역마다 다른데 서울의 경우 10월은 일 최고기온이 24.1도를 초과할 때를 뜻한다.&lt;br&gt;&lt;br&gt;이처럼 ‘더운 10월’을 보내면서 일평균 기온이 20도 아래로 떨어지는 시점도 늦게 찾아올 것으로 예상된다. 가을의 시작이 늦어지는 것이다. 최근 10년(2011~2020년 평균)간 기상학적 가을은 평균적으로 9월 29일 시작해 11월 24일 끝났다. 총 57일로 거의 두 달에 가까웠다. 그러나 올해는 10월 초에도 ‘가을의 기온’에 접어들기 쉽지 않을 것으로 보여 ‘가을’이 여느 때보다 짧을 전망이다.&lt;br&gt;&lt;br&gt;겨울은 더 추울 것으로 예상됐다. 기상청은 찬 대륙고기압이 확장하며 올 12월 기온이 평년보다 낮거나 비슷할 확률이 80%라고 봤다. 겨울은 ‘일평균 기온이 5도 미만으로 내려간 후 다시 올라가지 않는 첫날’부터다. 겨울이 오는 시점은 예년과 비슷한 11월 말이 될 것으로 예상된다. 결국 여름이 길어지고 겨울은 그대로인 계절 길이의 변화로 인해 올해는 가을의 정취를 느낄 수 있는 시간이 종전 두 달가량에서 한 달 반 정도로 크게 줄어드는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>정근식, 서울교육감 선거 진보 진영 단일 후보로 선정</title>
-      <link>https://www.chosun.com/national/education/2024/09/25/AND5ZJ2X3RHUJC4MGASDVNOBC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/09/25/AND5ZJ2X3RHUJC4MGASDVNOBC4/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 11:05:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SS2DHHQYYRJ4HCRNZVQ7W7BFDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오후 서울 마포구 가온스테이지에서 열린 2024서울민주진보교육감추진위원회(추진위) 기자회견에서 서울시교육감 보궐선거 진보진영 단일화 후보로 확정된 정근식 서울대 명예교수가 소감을 말하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;진보 진영 단일화를 진행하는 ‘2024서울민주진보교육감추진위(추진위)’가 정근식 서울대 명예교수를 단일 후보로 추대한다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;추진위는 이날 오후 8시 서울 마포구 가온스테이지에서 열린 기자 회견에서 정 교수가 1차 선거인단 투표와 2차 여론조사 결과를 50대 50으로 합산한 결과 가장 득표율이 높아 단일 후보로 추대한다고 밝혔다.&lt;br&gt;&lt;br&gt;정 교수는 “서울시민의 선택을 받들어 다가올 본선에서 기필코 승리해야 한다는 막중한 책임감을 느낀다”며 “불통과 졸속으로 일관하는 현 정부 교육 정책을 심판하고 혁신교육을 계승 발전시킬 것”이라고 말했다.&lt;br&gt;&lt;br&gt;앞서 추진위는 정 교수를 비롯해 곽노현 전 서울시교육감, 강신만 전 전교조 부위원장, 홍제남 전 오류중 교장, 안승문 전 서울시 교육위원 등 5명을 대상으로 선거인단 투표를 실시했다. 그 결과 곽 전 교육감과 안 전 교육위원이 득표율 3위 안에 들지 못해 탈락했다. 추진위는 나머지 3인을 대상으로 24일부터 이틀간 여론조사를 실시했다.&lt;br&gt;&lt;br&gt;서울대 사회학과 교수인 정 교수는 친일반민족행위진상규명위원회 위원, 진실화해를위한과거사정리위원회 위원장, 민주화운동기념사업회 한국민주주의연구소장 등을 역임했다. 그는 주요 정책 방향으로 기본 학력 보장과 교육 격차 해소, 역사 교육 강화, 미래 창의 교육과 민주 시민 교육 확대 등을 제시했다.&lt;br&gt;&lt;br&gt;이날 오전 보수 진영 단일화를 추진하는 ‘통합대책위원회(통대위)’는 조전혁 전 한나라당 의원을 단일 후보로 추대했다. 이로써 진보와 보수 두 진영의 유력 후보 윤곽이 드러난 셈이다.&lt;br&gt;&lt;br&gt;다만 ‘완벽한 단일화’는 아니다. 진보 진영에서는 김재홍 전 서울디지털대 총장, 조기숙 전 이화여대 교수, 방재석 중앙대 교수, 최보선 전 서울시 교육의원 후보 등 독자 출마를 선언한 후보들이 있다. 보수 진영에서도 윤호상 전 서울미술고 교장, 김영배 성결대 교수 등이 독자 출마를 준비하고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/SS2DHHQYYRJ4HCRNZVQ7W7BFDU.jpg?width=3984&amp;height=2656&amp;auth=780ae930fabcaed95500d23545d20af48e39c4faa4ef749734b17c41888bfab1&amp;smart=true" type="image/jpeg" height="2656" width="3984">
-        <media:description type="plain">&lt;YONHAP PHOTO-6000&gt; 서울시교육감 진보진영 단일화 후보는 정근식
-    (서울=연합뉴스) 서대연 기자 = 25일 오후 서울 마포구 가온스테이지에서 열린 2024서울민주진보교육감추진위원회(추진위) 기자회견에서 서울시교육감 보궐선거 진보진영 단일화 후보로 확정된 정근식 서울대 명예교수가 소감을 말하고 있다. 2024.9.25
-    dwise@yna.co.kr/2024-09-25 20:03:43/
-&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">서대연</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“정신병원 입원시킨다”는 말에…아내 살해한 70대 검거</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/25/VL5ETOPLP5CF3CIAZP6SUQDV7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/25/VL5ETOPLP5CF3CIAZP6SUQDV7Y/</guid>
-      <dc:creator>진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 11:05:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ECHQSRSEI7KTJQHSTDS2I7L2EM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아내를 살해한 70대가 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;전북 군산경찰서는 25일 아내를 살해한 혐의(살인)로 70대 A씨를 긴급체포해 조사 중이라고 밝혔다. 경찰에 따르면 A씨는 이날 오전 4시 15분쯤 전북 군산시 조촌동 자택에서 흉기를 이용해 아내를 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “정신병원에 입원시키겠다는 말을 듣고 화가 나 범행을 했다”는 취지의 진술을 한 것으로 전해졌다. 경찰은 정확한 사고 경위를 조사한 뒤 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/ECHQSRSEI7KTJQHSTDS2I7L2EM.jpg?width=2012&amp;height=1276&amp;auth=6adc472ff3bbce3ab77912a51eb817cd54b9eea538240dec71272041e5abb3f6&amp;smart=true" type="image/jpeg" height="1276" width="2012">
-        <media:description type="plain">경찰 로고. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>징역 15년 구형에 “땅에 금붙이 묻었어요” 실토한 금은방 강도</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/25/D4UCUQ7HXRHHHNUBYIDX3TYZUA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/25/D4UCUQ7HXRHHHNUBYIDX3TYZUA/</guid>
-      <dc:creator>진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 09:59:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ORRKJ6DJVHVPPA226GLUPFMOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지검이 25일 춘천시 한 대학교 캠퍼스애서 회수한 금붙이. /춘천지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금은방에서 강도행각을 벌였던 40대가 검찰이 중형을 구형하자 훔친 금품을 은닉했던 장소를 실토했다.&lt;br&gt;&lt;br&gt;춘천지검 형사2부(부장 홍승현)는 25일 강원도 춘천시의 한 대학교 교내에서 강도상해 혐의로 기소된 A(42)씨가 은닉한 금품을 압수했다고 밝혔다. A씨는 지난 5월 1일 오후 4시50분쯤 춘천시 운교동의 한 금은방에 침입해 주인에게 흉기를 휘두른 뒤 금품을 훔쳐 달아난 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 기소된 뒤에도 자신이 훔친 금품을 숨긴 장소를 진술하지 않았다. 검찰은 지난달 29일 열린 결심공판에서 피해 회복이 되지 않은 점을 고려해 징역 15년을 구형했고 이달 12일 선고가 예정됐었다.&lt;br&gt;&lt;br&gt;A씨는 검찰의 중형 구형에 압박감을 느꼈고 검찰의 설득 끝에 대학교 교내 나무 밑에 4000만원 상당의 금팔찌를 숨겼던 사실을 털어놨다. 검찰은 선고기일 연기 신청 뒤 피해 금품을 회수했다.&lt;br&gt;&lt;br&gt;검찰은 회수한 금품을 피해자에게 돌려줄 예정이다. 또 피해 회복이 된 점을 고려해 A씨에 대한 구형량 변경을 검토 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4ORRKJ6DJVHVPPA226GLUPFMOI.jpg?width=500&amp;height=388&amp;auth=ee68db66890abf87dc832ef897f7af0a9fe3dedfb69223c9407d545dbedfcb16&amp;smart=true" type="image/jpeg" height="388" width="500">
-        <media:description type="plain">춘천지검이 25일 춘천시 한 대학교 캠퍼스애서 회수한 금붙이. /춘천지검</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>나체로 우산 쓰고 거리 배회... 마약도 음주도 아니었다, 왜?</title>
       <link>https://www.chosun.com/national/national_general/2024/09/25/6EEZKSWBINHBDF534ZPY3YWH2I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/25/6EEZKSWBINHBDF534ZPY3YWH2I/</guid>
@@ -877,24 +906,6 @@ The Chosunilbo</media:credit>
       <description/>
       <pubDate>Wed, 25 Sep 2024 09:55:46 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LDWNQYCLJZFCPDVQNQFP5X4BMM.gif"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 혜화동에서 나체 상태로 우산만 쓴 채 거리를 배회한 남성. /유튜브 '서울경찰'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 종로구에서 나체로 우산만 쓴 채 거리를 배회한 남성이 경찰에 검거된 가운데, 이 남성은 마약을 복용하거나 음주 상태가 아니었던 것으로 확인됐다. &lt;br&gt;&lt;br&gt;25일 서울경찰청이 운영하는 유튜브 채널 ‘서울경찰’에는 ‘한밤중 한 남성의 허전한(?) 외출… 우산은 챙겼는데 중요한 게 없습니다’라는 제목으로 이 사건을 다룬 영상이 올라왔다. 영상에는 지난 7월 늦은 밤 서울 종로구 혜화동 일대의 한 골목길에서 나체로 우산을 쓴 채 거리를 걷고 있는 남성이 등장했다. 이 모습을 본 주민들이 “옷을 벗은 남성이 돌아다니고 있다”고 경찰에 신고했고, 출동한 경찰은 이 남성을 찾기 위해 골목 구석구석을 수색해야 했다. &lt;br&gt;&lt;br&gt;이 남성은 경찰이 자신을 쫓는지도 모른 채 빠른 걸음으로 골목을 활보했고, 경찰은 목격자와 실시간으로 소통하며 예상 경로를 따라가다가 골목 한가운데 주저앉아 있는 남성을 발견했다. 이 남성은 경찰을 마주친 후에도 앉은 채로 두리번거렸다. &lt;br&gt;&lt;br&gt;경찰은 이 남성을 공연음란죄로 현행범으로 체포했다. 이 남성은 당시 마약을 복용하거나 술을 마시지 않은 상태였던 것으로 확인됐다. &lt;br&gt;&lt;br&gt;비슷한 시기 경기 양평군에서도 한 중년 여성이 주말 대낮에 속옷만 입고 왕복 2차선 도로를 걸어 다닌 일이 있었다. 같은 달 울산에서는 어깨에 수건만 걸친 한 남성이 자전거를 타고 도로를 지나다가 이를 목격한 운전자들의 신고로 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;공공장소에서 지나치게 신체 부위를 노출할 경우 경범죄 처벌법이나 형법상 공연음란죄가 적용될 수 있다. 경범죄 처벌법 제3조 제1항 제33호(과다노출)에 따르면, 공공장소에서 신체 주요 부위를 노출해 다른 사람에게 불쾌감을 준 경우 10만원 이하의 벌금, 구류 또는 과료에 처할 수 있다. 형법 245조(공연음란)에 따르면 공연히 음란한 행위를 한 자는 1년 이하의 징역, 500만원 이하의 벌금, 구류 또는 과료에 처할 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>사법정책자문위 “법원장 추천제 없애고, 고법 부장판사도 임명해야”</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/25/GVD6R4HFTBD5HATZGWM33F3T7A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/25/GVD6R4HFTBD5HATZGWM33F3T7A/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 09:53:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TTMUVSNFGBONDJ6LGZFFW5LM4U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;권오곤 사법정책자문위원회 위원장이 지난달 14일 서울 서초구 대법원에서 열린 3차 회의에서 발언하고 있다. /대법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 사법정책자문위원회가 ‘법원장 후보 추천제’를 대신할 독립된 위원회를 마련하고, 고등법원 소속 판사도 지방법원장이 될 수 있도록 허용하라고 25일 조희대 대법원장에게 건의했다. 김명수 전 대법원장은 법원 내 엘리트로 평가받는 고법 부장판사들이 지방법원장이 될 수 없도록 만들었는데, 이를 되돌려 바꾸자는 것이다.&lt;br&gt;&lt;br&gt;사법정책자문위는 이날 오후 4차 회의를 열고 합리적인 법원장 보임 제도 등에 대한 건의문을 채택했다. 사법정책자문위는 ‘김명수 대법원’에서 운영된 법원장 후보 추천제에 대해 “충분한 적임자 추천의 한계, 추천 절차 진행 과정에서의 논란, 실시 법원의 절차적 부담 등에 대한 여러 의견이 제시돼 합리적으로 개선할 필요가 있다”면서 “적임자를 법원장에 보임할 수 있도록 소속 법관의 천거 및 투표보다는, 독립된 위원회의 심의∙자문을 거치는 새로운 보임 절차를 마련할 필요가 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;그러면서 “지방법원장은 지방법원 소속 법관 중에서 보임하는 방안을 지향하되, 법원의 특성과 후보군 등을 면밀히 살펴 필요한 경우 소속 법원의 종류 및 심급과 관계없이 능력과 자질을 갖춘 법관이 법원장 후보로 포함될 수 있도록 허용하는 것이 바람직하다”고 했다. 지방법원 부장판사만이 아니라 고법 부장판사들도 법원장으로 임명할 수 있게 해야 한다는 것이다.&lt;br&gt;&lt;br&gt;법관의 인사는 전적으로 대법원장의 권한이지만, 김 전 대법원장은 ‘사법 개혁’을 내세우며 지방법원 소속 판사들이 추천한 같은 법원 법관 중에서 법원장을 임명하는 추천제를 도입∙시행했다. 법원장 추천제는 실력 있는 고법 부장판사들의 법원장 보임을 막고, 법원장이 자신을 뽑아준 판사들 눈치를 보게 한다는 비판을 받아 왔다.&lt;br&gt;&lt;br&gt;이에 조희대 대법원장은 작년 12월 취임한 후 법원장 추천제 전면 개편을 검토했고, 올해 초 정기 인사에서도 추천제를 시행하지 않았다. 여기에 대법원장 자문 기구인 사법정책자문위가 지난달과 이번 달 두 차례 논의 결과 이 같은 결론을 내린 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRICU5SC7BKILLFJO7BC7QZSZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장이 지난 13일 서울 서초구 대법원 청사에서 열린 '제10회 대한민국 법원의 날' 기념식에서 발언하고 있다. /대법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자문위는 지방법원과 고등법원으로 법관 인사를 이원화하는 것에 대해서는 “지법과 고법의 균형적 발전을 위해 지속적으로 추진하는 것이 바람직하다”면서도 “고법판사 사직 등을 막기 위해 개선이 필요하다”고 했다. 고등법원에서만 근무하는 고법판사들은 법원의 허리 격으로 실력 있다는 평가를 받지만, 지방법원 판사보다 업무 강도가 높고 계속된 지방 순환 근무 등으로 부담이 커 퇴직이 잦았다.&lt;br&gt;&lt;br&gt;사법정책자문위는 “고법판사의 순환 근무는 필요한 범위 내에서 제한적으로 실시하는 것이 바람직하다”며 “일정 기간 고등법원에서 근무한 고법판사가 지방법원으로 복귀를 희망할 경우 이원화에 지장이 없는 범위 내에서 허용할 필요가 있다”고 했다. 이어 “법관 처우와 근무 환경을 개선해 법관들이 자긍심을 갖고 근무할 여건을 조성해야 한다”고 했다.&lt;br&gt;&lt;br&gt;다만 사법정책자문위가 건의한 내용에 대법원장이 반드시 따라야 하는 것은 아니다. 법원행정처 관계자는 “자문위의 건의문을 대법원장이 신중하게 검토할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>송혜희 비극 막을 수 있을까... 실종아동 찾을 때 영장 없이 수사</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/25/N7CG3MPZDZBCRNIHXFWUWAIEZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/25/N7CG3MPZDZBCRNIHXFWUWAIEZQ/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 09:27:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZQDSLEUD55CU7F6TAHJBLP34RM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1999년 실종된 딸을 찾아 전국을 누볐던 송길용씨의 살아 생전 모습. /이신영 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;실종아동을 수색·수사하는 과정에서 경찰이 영장 발부 없이도 폐쇄회로(CC)TV 영상과 카드 사용 내역을 확보할 수 있게 됐다. ‘송혜희를 찾아주세요’라는 현수막을 전국 방방곡곡에 붙이며 25년간 딸을 찾았던 아버지 송길용씨가 세상을 떠난 가운데, 송씨처럼 국내에서 실종 신고가 접수된 이후 20년 이상 찾지 못한 아동은 1000명 안팎으로 집계된다. 개정안으로 송씨 부녀와 같은 비극이 해소될 것으로 전망된다.&lt;br&gt;&lt;br&gt;25일 경찰청에 따르면 ‘실종아동 등’을 수색·수사할 때 경찰관이 CCTV 정보, 신용·교통카드 사용 내역, 병원 진료일시·장소 기록 등을 제공받을 수 있도록 개정된 ‘실종아동등의 보호 및 지원에 관한 법률’(실종아동법)이 이달 27일부터 시행된다. 적용 대상자는 보호자로부터 이탈된 18세 미만 아동, 지적·자폐·정신장애인, 치매환자다.&lt;br&gt;&lt;br&gt;실종아동 등은 실종 후 발견까지의 시간이 길어질수록 강력범죄·사고 등의 우려가 커져 신속한 수색 조치가 중요하다. 하지만 법 개정 이전에는 실종아동 등 수색·수사 시 CCTV 영상이나 신용·교통카드 사용 정보 등을 추적하려면 영장을 필수로 발부받아야 해 시간이 지연되는 문제가 있었다. 영장을 발부받지 못하는 사례도 있었다. &lt;br&gt;&lt;br&gt;이에 실종아동 수색의 ‘골든 타임’을 놓친다는 지적이 나오자 법이 개정됐다. 경찰은 이번 법 개정을 통해 실종아동 등과 관련한 다양한 정보를 요청하는 즉시 제공 받을 수 있게 되면서 더욱 신속하고 정확한 수색이 가능해질 것으로 전망한다.&lt;br&gt;&lt;br&gt;개정법은 경찰관서의 자료 제공 요청을 부당하게 거부할 경우 1년 이하의 징역 또는 1000만원 이하의 벌금에 처하도록 규정했다. 또한 제공받은 정보를 실종 수사·수색 외 용도로 이용하는 경찰관에 대해선 5년 이하의 징역 또는 5000만원 이하의 벌금을 부과하도록 했다.&lt;br&gt;&lt;br&gt;다만 실종 상황에서 범죄 혐의점이 발견되는 경우는 영장을 청구해 수사를 진행한다. 경찰 관계자는 “실종 수사의 경우 범죄 혐의점이 발생하지 않더라도, 행정 업무로서 경찰권이 발동된다”며 “이번 개정안은 행정작용에서 실종 아동 등 수색의 시급성을 인정한 것으로, 실종 수사·수색에 걸리는 시간이 크게 줄어들 것으로 보인다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“10년 살면 되지” 여친 살해 김레아에... 검찰, 무기징역 구형</title>
@@ -907,24 +918,6 @@ The Chosunilbo</media:credit>
       <media:content url="https://www.chosun.com/resizer/v2/ZPAUOGMAP7RIKEFUTSQDQ4LRME.jpg?width=1856&amp;height=2448&amp;auth=9491e5b82c36a9f05610f7649c7e80e135abfcc4117623b77335dc9510dd1ca6&amp;smart=true" type="image/jpeg" height="2448" width="1856">
         <media:description type="plain">김레아. 수원지검 제공.</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>'교비 횡령' 휘문고, 자사고 취소→유지로 2심서 뒤집혀</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/25/56RZ2ZAFPZDB7IG4WTQT6YCTVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/25/56RZ2ZAFPZDB7IG4WTQT6YCTVI/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 09:14:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7UEESKFLO7Y3HVDRVR6N2ZHVFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구 휘문고등학교 전경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시교육청이 2020년 서울 휘문고에 내린 자율형사립고 지정 취소 처분이 적합하다는 판단이 25일 항소심에서 뒤집혔다.&lt;br&gt;&lt;br&gt;서울고법 행정11-1부(재판장 최수환)는 이날 학교법인 휘문의숙이 서울시교육감을 상대로 낸 자사고 지정 취소처분 취소 소송에서 원심을 뒤집고 원고 승소로 판결했다.&lt;br&gt;&lt;br&gt;이 사건은 휘문고 학교법인인 휘문의숙은 지난 2018년 서울시교육청 감사에서 학교발전기금 38억여 원 회계 부정이 확인된 것이 발단이다. 학교법인 이사장과 사무국장은 2020년 각각 징역 4년을 확정받기도 했다. 이에 서울시교육청은 ‘거짓이나 부정한 방법으로 회계를 집행한 경우 자사고 지정을 취소할 수 있다’는 초·중등교육법 시행령을 근거로 같은 해 7월 자사고 지정을 취소하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;이에 휘문의숙이 반발해 낸 처분 취소 소송에서 1심은 “장기간 횡령과 배임이 이뤄졌고 원고가 교육기관으로서 사회적 책임을 다하지 못한 것으로 볼 수 있다”면서 원고 패소 판결을 내렸다.&lt;br&gt;&lt;br&gt;그러나 항소심은 이를 뒤집고 휘문고를 자사고로 유지하는 것이 맞는다고 판결했다. 서울시교육청의 처분 근거인 시행령이 상위법에서 규정한 범위를 벗어난 문제가 있다는 것이다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “교육청의 객관적 처분 사유에 대한 1심 판단은 수긍이 가능하지만, 처분의 근거인 초·중등교육법 시행령이 위임 입법의 한계를 벗어나 효력을 인정할 수 없다”고 밝혔다. 재판부는 “시행령은 개인의 권리 의무, 학생과 학부모의 학교 선택권, 학교 법인의 사립학교 운영에 관한 내용을 변경하는 새로운 내용”이라며 “모법인 초·중등교육법 61조에서 위임받은 사항을 규정한 것이라 보기 어렵다”고 설명했다.&lt;br&gt;&lt;br&gt;이날 선고 후 서울시교육청은 “비리 사학에 면죄부를 준 것”이라 반발하며 대법원에 상고하겠다고 밝혔다. 대법원에서 항소심 판결이 확정되면 휘문고는 자사고 지위를 유지하게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>23년 루게릭병 투병 농구선수 박승일 별세</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/25/GTFL5PCUDVA7BIG3VWFRT676UQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/25/GTFL5PCUDVA7BIG3VWFRT676UQ/</guid>
-      <dc:creator>정병선 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 08:06:44 +0000</pubDate>
-      <content:encoded>프로 농구선수 출신으로 23년째 루게릭병(근위축성 측삭경화증)과 사투를 벌여온 박승일(53)씨가 25일 별세했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L5LD5WKQCFBHRO7YIPP7DVPBNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2023년 12월 13일 경기 용인 모현다목적복지회관에서 '루게릭요양병원 착공식'이 열렸다. 지난 2002년 프로농구 선수 출신 국내 최연소 프로농구 코치였다 같은 해 루게릭병을 앓고 있는 박승일 전 코치가 참석, 최희암 감독 등 참석자들이 기념촬영을 하고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박씨는 2m2cm, 85kg의 장신 농구 선수였다. 그는 연세대 출신으로 1994년 기아차 농구단에 입단했다. 미국에서 농구 유학 중이던 2002년 현대모비스 코치로 발탁돼 금의환향했다.&lt;br&gt;&lt;br&gt;당시 최연소 프로농구 코치로 화제를 모았지만 그해 갑작스러운 근육 이상과 함께 루게릭병 판정을 받고 투병해왔다. 박씨는 온몸의 근육이 마비된 채 오직 눈으로만 세상과 소통해왔다.&lt;br&gt;&lt;br&gt;박씨는 기부천사 가수 션과 공동대표로 2011년 루게릭병 환자를 위한 승일희망재단을 설립, 평생 자신의 꿈이자 희망이었던 루게릭요양병원 설립에 나섰다. 2023년 12월 션과 재단의 노력으로 연예인을 비롯 어린이부터 기업에 이르기까지 33만 5259명의 기부행력속에 203억원을 모금, 국내 최초의 루게릭요양병원을 착공(용인시)했다.&lt;br&gt;&lt;br&gt;박씨는 병원 착공식에 참석했지만 올 연말 완공 예정이던 병원(전체면적 4995㎡ 지하 2층, 지상 4층 규모의 76병상 규모)의 모습을 보지 못한 채 세상을 떠났다. 유가족으로는 어머니 손복순씨와 누나 박성자·명희씨가 있다.&lt;br&gt;&lt;br&gt;빈소는  분당서울대학교병원(1588-3369). 발인 27일 7시.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“남은 삶 환우 위해 살겠다”… ‘루게릭병’ 박승일, 23년간 투병 끝 별세</title>
