@@ -13,6 +13,85 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘20대 연인 사상’ 마세라티 뺑소니 용의자 서울에서 검거</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/26/AHHJULI4GBASPNCV7WJJLS76PI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/26/AHHJULI4GBASPNCV7WJJLS76PI/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 13:51:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GKIXV3LUXJJ5PDKLONMLRJ34DA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 25일 오후 광주 서부경찰서에서 국립과학수사연구원 관계자들이 '음주 뺑소니 사망사고' 차량인 마세라티를 대상으로 정밀 감정을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뺑소니 사고로 20대 연인 2명을 사상케 한 ‘마세라티 뺑소니’ 용의자가 도주 사흘 만에 서울에서 검거됐다.&lt;br&gt;&lt;br&gt;광주경찰청은 26일 “이날 오전 9시 50분쯤 서울 강남구의 한 도로에서 특정범죄가중처벌법상 도주치사상 혐의를 받는 마세라티 운전자 A(32)씨와 도주를 도운 B(33)씨 서울에서 검거했다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 24일 오전 3시 11분쯤 광주광역시 서구 화정동의 한 도로에서 20대 연인이 타고 있던 오토바이를 들이 받은 뒤 구호조치 없이 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;사고로 오토바이 뒷좌석에 탄 여성 C(28)씨가 숨지고 오토바이 운전자 D(23)씨가 크게 다쳤다. D씨는 골반뼈와 턱뼈가 으스러지는 부상을 당해 대학 병원 중환자실에서 치료받고 있다. 이들은 D씨가 음식 배달 일을 마친 뒤 함께 귀가하던 길이었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;사고 당시 방범 카메라 영상에는 A씨가 모는 흰색 마세라티 차량이 빠른 속도로 C씨 등이 탄 오토바이를 들이받는 장면이 담겼다. 이 충격으로 오토바이는 150m가량 튕겨 나와 형체를 알아보기 힘들 정도로 부서졌다. 또 다른 영상에서는 A씨를 포함한 남성 2명이 급하게 도주하는 모습이 잡혔다.&lt;br&gt;&lt;br&gt;A씨는 사고 당시 함께 자신과 함께 도로를 질주했던 지인인 벤츠 운전자 E(31)씨의 차량을 타고 대전으로 도주한 것으로 파악됐었다. 경찰은 “사고 이후 A씨의 부탁을 받고 대전까지 데려다 줬다”는 E씨의 진술을 확보하는 한편 그를 범인은닉도피 혐의로 입건해 조사 중이다.&lt;br&gt;&lt;br&gt;A씨는 사고 직후 휴대전화를 꺼둔 채 광주를 벗어나 도피행각을 벌여왔다. 경찰은 A씨의 마세라티 차적 조회 결과 서울의 한 법인 소유로 파악했지만, A씨와 연관성이 없는 곳이었다. 또 보험 가입자도 달라 추적에 난항을 겪었었다.&lt;br&gt;&lt;br&gt;해당 사건을 수사 중인 광주 서부경찰서와 광주경찰청 형사기동대 등 4개팀 30여 명의 경찰이 투입돼 사고 직후부터 도주 경로를 추적한 끝에 A씨를 검거했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 음주운전 여부와 범행 전후 행적, 도주 이유 등을 조사할 방침이다. 경찰은 A씨가 뺑소니 사고 직전 광주 상무지구의 한 주점에서 나서는 모습 영상과 주류를 결제한 영수증 등 음주운전 정황을 확보했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GKIXV3LUXJJ5PDKLONMLRJ34DA.jpg?width=2792&amp;height=2012&amp;auth=32838525580a9dfa00c5ca1d1e0f7d43fbe5cac0266c92e69796858aa77f4b59&amp;smart=true" type="image/jpeg" height="2012" width="2792">
+        <media:description type="plain">&lt;YONHAP PHOTO-4197&gt; 마세라티 정밀 감정하는 국과수
+    (광주=연합뉴스) 정다움 기자 = 지난 25일 오후 광주 서부경찰서에서 국립과학수사연구원 관계자들이 '음주 뺑소니 사망사고' 차량인 마세라티를 대상으로 정밀 감정을 하고 있다. 2024.9.26
+    daum@yna.co.kr/2024-09-26 15:03:26/
+&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">정다움</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>경찰, ‘김건희 여사 공천개입 의혹’ 명태균 소환 조사</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/26/LUREP32HB5FMRLV244DTNSC3AM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/26/LUREP32HB5FMRLV244DTNSC3AM/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 10:57:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KATKF4ABLJAC7MIRYKRPYPPTTU.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청 광역수사단. /구동완 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 ‘공천개입 의혹’의 핵심 당사자로 지목된 명태균씨가 경찰에 출석해 조사를 받았다.&lt;br&gt;&lt;br&gt;서울경찰청 반부패범죄수사대는 26일 명씨를 고소인 자격으로 불러 조사했다고 이날 밝혔다. 앞서 명씨는 인터넷 매체인 뉴스토마토의 ‘김 여사의 총선 공천 개입’ 보도와 관련해 기자 2명과 편집국장 등 3명을 정보통신망법상 명예훼손 혐의로 지난 19일 고소했다.&lt;br&gt;&lt;br&gt;뉴스토마토는 김 여사가 4·10 총선을 앞두고 당시 5선 중진 김영선 전 국민의힘 의원에게 지역구를 창원 의창에서 김해갑으로 옮겨 출마하라고 요청했다는 의혹을 지난 5일 보도했다. 매체는 또 명씨가 윤석열 대통령 부부와의 친분을 바탕으로 국민의힘 공천 관련 정보를 접했고, 김 전 의원의 지역구 이동과 개혁신당 비례대표 공천 논의 등에도 관여했다고 보도했다.&lt;br&gt;&lt;br&gt;이에 명씨는 페이스북에 “영부인에 대한 근거 없는 정치적 의혹을 제기하기 위해 음모론적으로 해당 기사를 작성했다”며 “허위사실유포에 대한 민형사 소장을 접수한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“사건 무마 돕겠다”…수억대 금품 수수 혐의 변호사 구속</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/26/2X572S3DA5ATVEYTPSRR64YH7U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/26/2X572S3DA5ATVEYTPSRR64YH7U/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 13:17:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GB2QVSXGQ43PLKNU274VNS32AQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주지법 전경. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰 수사 무마를 돕는 대가로 수억원의 금품을 수수한 혐의를 받는 변호사가 26일 구속됐다.&lt;br&gt;&lt;br&gt;광주지법 김희석 영장전담판사는 이날 변호사법 위반 혐의로 A변호사에 대한 구속영장을 발부했다. 김 판사는 “도주 우려가 있다”고 발부 사유를 밝혔다.&lt;br&gt;&lt;br&gt;수사 당국에 따르면, A변호사는 금융권의 부실 대출에 연루된 피의자들을 상대로, “검찰 수사가 무마되도록 돕겠다”며 5억원을 받아낸 혐의다. 부실 대출 사건을 수사 중이던 광주지검은 A변호사의 비위 정황을 파악해 추가 수사를 벌여 법원에 영장을 청구했다.&lt;br&gt;&lt;br&gt;검찰은 A변호사의 구체적인 혐의 사실에 대해 수사 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>맞벌이 부부 육아휴직 2년에서 3년으로 확대</title>
+      <link>https://www.chosun.com/national/labor/2024/09/26/FSXEFJID6RHLXPJWT4ND5AUHPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/09/26/FSXEFJID6RHLXPJWT4ND5AUHPQ/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>내년부터 맞벌이 부부의 육아휴직 기간이 최대 3년으로 늘어난다. 배우자 출산휴가는 10일에서 20일로 확대된다.</description>
+      <pubDate>Thu, 26 Sep 2024 11:11:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2SV7HC7735PRXMG76HVAUXQ4TI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;26일 오후 서울 여의도 국회에서 열린 제418회국회(정기회) 제9차 본회의 모습/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년부터 맞벌이 부부의 육아휴직 기간이 최대 3년으로 늘어난다. 배우자 출산휴가는 10일에서 20일로 확대된다.&lt;br&gt;&lt;br&gt;여야는 26일 국회에서 본회의를 열고 육아지원 3법(남녀고용평등법, 고용보험법, 근로기준법)을 통과시켰다. 개정된 법은 공포일로부터 4개월 후부터 시행된다.&lt;br&gt;&lt;br&gt;이번 법 개정에 따라 부모가 각각 육아휴직을 3개월 이상 사용하는 경우 육아휴직 기간은 현재 2년에서 부모별 1년 6개월씩 총 3년으로 확대된다. 분할 사용 횟수도 기존 2회에서 3회로 늘어난다. 배우자 출산 휴가도 길어진다. 현재는 10일까지 휴가를 사용할 수 있지만, 앞으론 20일을 3회로 분할해 쓸 수 있다. 난임 치료 휴가도 현행 3일(유급 1일)에서 6일(유급 2일)로 늘어난다.&lt;br&gt;&lt;br&gt;8세 이하 자녀의 육아를 위해 1년간(육아휴직 미사용 시 2년) 근로 시간을 주당 15시간까지 줄일 수 있는 제도인 ‘육아기 근로 시간 단축’ 대상은 자녀 연령을 12세 이하로 확대한다. 또 육아휴직 미사용기간을 두 배로 가산해 육아기 근로시간 단축에 사용하는 것도 가능해졌다. 고용노동부는 “일·가정 양립 활성화를 위한 제도적 기반이 마련됐다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내년부터 제왕절개도 자연분만처럼 본인부담 ‘0원’</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/09/26/WKO46NNCI5DCJOIXIIGRDHX6WQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/26/WKO46NNCI5DCJOIXIIGRDHX6WQ/</guid>
+      <dc:creator>안준용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 11:11:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PXETVHA5TFLG7BPFGRGED2ZJMI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 경기 동두천의 교육공무원 부부가 출산한 다섯 쌍둥이 중 첫째가 갓 태어난 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년 1월부터는 제왕절개 분만 시 본인 부담금이 면제된다. 지금은 자연분만을 할 때만 본인 부담금이 면제되고, 제왕절개를 할 경우엔 본인 부담률이 5%다. 하지만 내년부터는 분만 방법과 관계없이 본인 부담금을 면제해주는 것이다.&lt;br&gt;&lt;br&gt;보건복지부는 26일 건강보험정책심의위원회(건정심)를 열고 이 같은 내용을 포함한 임신·출산 지원안을 심의·의결했다.&lt;br&gt;&lt;br&gt;오는 11월부터는 현재 ‘난임 부부당 25회(인공수정 5회·체외수정 20회)’인 난임 시술 지원도 ‘출산당 25회’로 바뀐다. 난임 시술을 통해 임신·출산한 뒤 추가 임신을 원하면 새롭게 25회 지원을 받게 되는 것이다.&lt;br&gt;&lt;br&gt;예컨대 인공수정 시도 다섯번 만에 임신·출산한 뒤 추가 임신을 원하는 경우, 종전까지는 인공수정 기회(총 5회)가 남지 않아 체외수정 시술만 받을 수 있었다. 하지만 앞으로는 출산 후 다시 인공수정 기회 5회와 체외수정 기회 20회가 생긴다.&lt;br&gt;&lt;br&gt;또 11월부터는 45세 이상 여성이 난임 시술을 받을 때 본인 부담률도 현행 50%에서 30%로 낮아진다. 종전엔 45세 미만만 본인 부담률 30%가 적용돼 “초혼·초산 연령은 오르는데, 개인별 건강 상태 등과 무관하게 나이를 기준으로 차등 지원한다”는 비판이 있었다.&lt;br&gt;&lt;br&gt;복지부는 이와 함께 혈당 조절이 어려워 인슐린을 투여해야 하는 임신부 등 ‘임신 중 당뇨병 환자’에게 혈당 수치를 실시간 확인할 수 있는 연속 혈당 측정기도 지원한다.&lt;br&gt;&lt;br&gt;한편 복지부는 이날 건정심에서 다음 달부터 건강보험이 적용되는 코로나 치료제와 관련, 환자 본인 부담금을 현행과 같은 5만원 수준으로 유지하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법 “영장 압수물에 ‘휴대전화’ 적혀있지 않으면 압수 안돼”</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/26/2FRQZNZVVFDVVBQCC6FFHD4WD4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/26/2FRQZNZVVFDVVBQCC6FFHD4WD4/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 10:20:50 +0000</pubDate>
+      <content:encoded>법원이 발부한 압수수색 영장에 ‘휴대전화’라고 명확히 쓰여져 않다면 수사기관이 이를 임의로 압수할 수 없다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N2HHNYEXI442BTEHVSTPA7ZL3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 법조계에 따르면 대법원 3부(주심 이숙연 대법관)는 전날 수사기관의 압수에 관한 처분 취소·변경 기각 결정에 대한 재상고 사건에서 원심을 깨고 사건을 춘천지법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;경찰은 지난 5월 A씨의 기부금품 위반 혐의를 수사하기 위해 춘천지법으로부터 압수수색 영장을 발부받은 뒤 A씨의 휴대전화를 압수했다.&lt;br&gt;&lt;br&gt;당시 법원은 영장에 압수 대상 물건을 ‘정보처리장치(컴퓨터, 노트북, 태블릿 등) 및 정보저장매체(USB, 외장하드 등)에 저장되어 있는 본건 범죄사실에 해당하는 회계, 회의 관련 전자정보’라고 적었다.&lt;br&gt;&lt;br&gt;경찰은 이 영장을 근거로 A씨의 휴대전화를 압수했다. 영장에 ‘휴대전화’가 명시돼 있는 건 아니었지만, 통상 경찰은 휴대전화를 정보처리장치 또는 정보저장매체 등에 해당한다 보고 압수해왔기 때문이다.&lt;br&gt;&lt;br&gt;A씨는 휴대전화 압수가 부당하다며 준항고를 제기했지만 기각됐다. 당시 춘천지법은 휴대전화가 정보처리장치 또는 정보저장매체에 해당한다고 판단했다.&lt;br&gt;&lt;br&gt;하지만 대법원은 달리 판단했다. 대법원은 “영장에 기재된 ‘압수할 물건’에 휴대전화에 저장된 전자정보가 포함되어 있지 않다면, 특별한 사정이 없는 한 그 영장으로 휴대전화에 저장된 전자정보를 압수할 수 없다”고 했다. 영장에 ‘휴대전화’가 특정돼 있지 않는 이상 수사기관이 이를 압수할 수 없다는 것이다.&lt;br&gt;&lt;br&gt;대법원은 수사기관이 자의적으로 휴대전화가 ‘정보처리장치나 정보저장매체’라고 판단해 압수해선 안된다고 판단했다. 대법원은 “법관이 영장을 발부하면서 ‘압수할 물건’을 특정하기 위하여 기재한 문언은 엄격하게 해석해야 하고, 함부로 피압수자 등에게 불리한 내용으로 확장해석 또는 유추해석을 하는 것은 허용될 수 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘파타야 드럼통 살인사건’ 마지막 피의자 구속...“도주·증거인멸 우려”</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/26/6J74RAW2B5FATCPJO32BIT6DDY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/26/6J74RAW2B5FATCPJO32BIT6DDY/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 10:33:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2FFJZ2SNCVNXNPVVWQCCWMUMDA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;태국 파타야에서 공범 2명과 함께 한국인 관광객을 납치 살해한 혐의를 받는 피의자 김모씨가 26일 오후 경남 창원 성산구 창원지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공범 2명과 함께 태국 파타야에서 한국인 관광객을 살해하고, 시신을 유기한 뒤 도주했다 4개월 만에 붙잡힌 김모(30대)씨가 26일 구속됐다.&lt;br&gt;&lt;br&gt;창원지법 이재원 영장전담 부장판사는 이날 오후 2시부터 강도살인 등의 혐의를 받는 김씨에 대한 구속 전 피의자 심문(영장실질심사)을 진행한 후 구속영장을 발부했다. 이 부장판사는 “도주 및 증거인멸 우려가 있다”고 영장 발부 사유를 밝혔다.&lt;br&gt;&lt;br&gt;수사 당국에 따르면, 김씨는 한국인 공범 2명과 함께 지난 5월 3일 태국 방콕의 한 클럽에서 만난 한국인 남성 관광객 A(34)씨를 렌터카에 태워 파타야로 납치한 뒤 살해한 혐의를 받는다. 이들은 또 A씨의 시신을 대형 플라스틱 재질의 드럼통에 시멘트와 함께 넣어 저수지에 유기한 혐의도 있다.&lt;br&gt;&lt;br&gt;피의자 3명은 또 A씨의 시신을 훼손하고, 경남에 있는 A씨 가족에게 마치 A씨를 살해할 것처럼 협박해 돈을 요구했다가 미수에 그친 혐의도 받고 있다. 이들은 A씨의 휴대전화를 이용해 370만원을 빼돌린 혐의도 받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z6QU2DLIP5F3RIFVO5JOFBXDNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;태국 현지 언론이 파타야 드럼통 살인사건 용의자 2명의 사진과 3명의 실명을 공개했다. /더 네이션&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오후 1시32분쯤 영장실질심사를 위해 창원지법에 출석한 김씨는 반바지에 운동복 차림으로, 마스크를 착용해 얼굴을 가린 모습이었다. 그는 “살인 혐의를 인정하느냐” “피해자를 왜 살해했느냐” “유족에게 할 말 없느냐”는 취재진의 질문에 거듭 “죄송합니다”라고 답했다.&lt;br&gt;&lt;br&gt;경찰은 지난 5월 12일 범행 직후 국내로 들어와 있던 공범 이모(20대)씨를 전북 정읍에서 붙잡았다. 또 다른 공범 이모(20대)씨는 범행 직후 캄보디아로 도주했다가 붙잡혀 지난 7월 10일 국내로 송환됐다. 이들 2명은 구속 상태로 재판을 받고 있으며, 혐의를 부인하고 있다.&lt;br&gt;&lt;br&gt;김씨는 범행 직후 태국을 떠나 타인의 신분증을 도용하는 방법으로 도피처를 옮겨 다니면서 경찰 추적을 피해왔다. 김씨에 대한 첩보를 입수한 경남경찰청과 베트남 현지 공안은 지난 11일 베트남 한 은신처에서 김씨를 붙잡았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘서울대 n번방’ 주범에 징역 10년 구형</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/26/FFA5CUKTXVGLPB2SZX6PWXO3TY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/26/FFA5CUKTXVGLPB2SZX6PWXO3TY/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 10:30:52 +0000</pubDate>
+      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KIRJ6WSVKJH6DMBRBOAC2WKVRI.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울대 동문·지인 등을 상대로 딥페이크 성범죄를 저지른 박모(39)씨의 검거 장면. /서울경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 26일 이른바 ‘서울대 n번방’ 사건으로 기소된 딥페이크 성범죄 주범에게 징역 10년을 구형했다.&lt;br&gt;&lt;br&gt;검찰은 이날 서울중앙지법 형사31부(재판장 박준석) 심리로 열린 서울대 n번방 사건 재판에서 청소년성보호법 위반(성착취물 제작∙배포) 등 혐의로 기소된 주범 박모(39)씨에게 “징역 10년을 선고해달라”고 했다. 성폭력처벌법 위반 등 혐의로 함께 기소된 딥페이크 영상 제작자 강모(31)씨에게는 징역 6년을 구형했다.&lt;br&gt;&lt;br&gt;검찰은 “박씨는 4년간 2000개 이상 허위 영상물을 반포하는 등 기간과 횟수에 비춰보면 상습성이 인정된다”면서 “평소 아는 사이였던 지인 대상으로 범행을 저질러 피해자들이 큰 고통을 겪고 있다”고 했다. 그러면서 “피해자들은 앞으로 긴 시간 영상이 돌아다니는 것은 아닌지, 누군가 본 것은 아닌지 고통받아야 한다는 점 등을 고려해 달라”고 말했다.&lt;br&gt;&lt;br&gt;검찰은 또 박씨가 재판 과정에서 울거나 괴로워한 모습을 지적하며 “박씨는 올해 4월까지 범행을 반복하며 중단하거나 되돌릴 기회가 있었지만 그렇게 하지 않았다”면서 “괴로운 표정을 짓는 것이 자신의 미래에 대한 걱정인지 진정한 반성인지 봐 달라”고 했다.&lt;br&gt;&lt;br&gt;강씨에 대해서는 “허위 영상물을 직접 제작하는 주요한 역할을 했고, 제작 기간이 약 1년 9개월로 짧지 않은 점 등을 고려해 달라”고 했다.&lt;br&gt;&lt;br&gt;서울대 졸업생인 박씨와 서울대 로스쿨 졸업생인 강씨는 2021년부터 최근까지 서울대 동문 12명을 포함, 여성 총 61명을 대상으로 얼굴을 합성한 음란물을 텔레그램으로 유포한 혐의로 기소됐다. 박씨가 만들고 운영한 텔레그램 채널과 단체 채팅방만 200여 개로, 비슷한 성적 취향을 가진 이들을 선별해 채팅방 링크를 주는 방식으로 음란물을 퍼뜨린 것으로 조사됐다. 앞서 이들과 함께 딥페이크 음란물을 제작하고 유포한 공범 박모(28)씨는 1심에서 징역 5년을 선고받았다.&lt;br&gt;&lt;br&gt;박씨는 이날 최후 진술에 앞서 “실례가 안 된다면 방청석에 혹시나 있을 피해자와 가족분들에게 사죄하고 싶다”면서 방청석을 향해 고개를 숙였다. 이어 “피해자들이 고통받길 바라거나 피폐해지길 바란 것이 아니었다. 그분들에 대해 미안하고 송구하다는 말을 하고 싶다”며 “평생 참회하고 속죄하겠다”고 했다.&lt;br&gt;&lt;br&gt;강씨도 “제가 저지른 범행 때문에 죽고 싶을 만큼 후회스럽다. 피해자분들께 사죄한다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 다음 달 30일 선고하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘20대 연인 사상’ 마세라티 뺑소니 용의자 도주 도운 지인 경찰 수사</title>
       <link>https://www.chosun.com/national/national_general/2024/09/26/A6Z7CVUG3RAZ5JBXYVKTLI6V2E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/26/A6Z7CVUG3RAZ5JBXYVKTLI6V2E/</guid>
@@ -839,23 +918,6 @@ The Chosunilbo</media:credit>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7M7PVC5QIRC47MISZ6VTZPK3ME.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Q. 요즘 가계 부채 문제가 심각해서 은행에서 대출받는 게 어려워졌다고 해요. 그런데 대출 규제가 ‘풍선 효과’를 일으킬지 모른다는 뉴스를 봤어요. 풍선 효과가 뭔가요?&lt;/b&gt;&lt;br&gt;&lt;br&gt;A. ‘풍선 효과’라는 말은 1970년대 미국 정부가 마약상들과 벌였던 ‘마약과의 전쟁(War on Drugs)’에서 유래했어요. 당시 미국은 중남미에서 유입되는 마약을 막기 위해 처벌을 강화하고 해외 마약 카르텔 단속 작전을 펼쳤어요. 하지만 예상치 못한 결과가 나타났어요. 콜롬비아 갱단들을 집중 단속했더니, 이번엔 멕시코에서 새로운 마약 유통 세력이 성장한 거죠. 멕시코에 대한 단속을 강화했더니 이번엔 엘살바도르, 과테말라, 온두라스 등 주변국들로 마약 유통 거점이 옮겨가 세력을 키웠습니다. 마약상들은 끊임없이 새로운 방법을 찾아내 미국에 마약을 유통했어요. 이후 반세기가 흘렀지만 미국은 아직도 마약 문제를 해결하지 못했어요.&lt;br&gt;&lt;br&gt;풍선 효과는 미국 정부의 마약 단속 실패 모습을 풍선에 빗댄 말이에요. 단속을 피해 중남미를 이리저리 옮겨 다니는 마약 밀매상들의 모습이 풍선 한쪽을 눌렀을 때 다른 한쪽이 부풀어 오르는 모습과 닮았거든요. 이후 풍선 효과는 정부가 규제를 통해 공급을 억제하더라도 결국 다른 길을 찾아 거래가 이뤄지는 현상을 가리키는 경제 용어로도 폭넓게 쓰이게 됐죠.&lt;br&gt;&lt;br&gt;최근 우리나라에서도 풍선 효과라는 말을 자주 들을 수 있어요. 금융 당국이 한창 ‘가계 부채와의 전쟁’을 벌이고 있거든요. 지난 8월 한 달 동안 전체 금융권 가계 대출은 무려 9조8000억여 원 늘었어요. 특히 은행권 가계 대출이 9조3000억여 원이나 증가했죠. 가계빚이 폭증한 원인으로 부동산이 지목됐어요. 수개월간 수도권 지역을 중심으로 집값과 전셋값이 오르면서 주택 매수 심리를 자극했거든요. 깜짝 놀란 금융 당국은 시중은행들에 한도 금액을 줄이는 등 규제를 강화해 대출을 줄이라고 주문했죠.&lt;br&gt;&lt;br&gt;하지만 주택이 필요한 실수요자들은 가만히 있지 않았어요. 인터넷전문은행이나 지방은행까지 돌며 신용 대출을 받았어요. 보험사, 카드사 등 제2금융권 문도 두드렸어요. 8월 말 기준 카드사 9곳의 ‘카드론’ 대출 잔액은 41조8310억원으로, 한 달 새 6000억원 이상 늘어났습니다.&lt;br&gt;&lt;br&gt;다행히 9월 들어 가계 대출 증가세는 조금 진정됐지만, 풍선 효과의 불씨는 여전히 살아 있어요. 한국은행이 기준금리를 내릴 거라는 기대 심리와 가을철 이사 수요 등이 남아있기 때문이죠.&lt;br&gt;&lt;br&gt;풍선 효과는 왜 생길까요? 그건 주택 같은 특정 재화나 서비스에 대한 수요가 굳건하기 때문이에요. 풍선 안에 갇힌 공기 양이 변함없다면, 풍선을 아무리 눌러도 부피가 줄지 않아요. 공기가 사라지는 게 아니라 압력이 낮은 쪽으로 움직일 뿐이니까요. 시장도 마찬가지예요. 전체 수요가 줄지 않으면 규제로 공급을 억제해도 거래가 줄지 않아요. 수요는 빈틈을 찾아 다른 곳으로 이동하죠. 정부 규제에는 늘 빈틈이 있기 마련이거든요. 그래서 마약이나 가계 부채 같은 어려운 문제를 해결하려면 근본적으로 수요를 줄일 대책이 필요해요. 마치 풍선에서 서서히 공기를 빼는 것처럼 말이죠.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [재밌다, 이 책!] 초대형 비행선 순식간에 태운 수소… 원소는 작지만 인류에 큰 영향 끼쳐요</title>
-      <link>https://www.chosun.com/national/nie/2024/09/26/GGQRNV5L5RHEZGNADOE5HKV2ZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/09/26/GGQRNV5L5RHEZGNADOE5HKV2ZU/</guid>
-      <dc:creator>김성신 출판평론가</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 15:31:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LQXKQUACFBBT5FMHNFOTRTTQ4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;무섭지만 재밌어서 밤새 읽는 원소 이야기&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;사마키 다케오 지음 | 출판사 더숲 | 가격 1만6000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;우리가 사는 현실 세계는 물질로 이루어져 있어요. 그리고 이 물질들은 ‘원소’로 구성돼 있습니다. 원소는 물질의 기본 성분으로, 화학적으로 더 이상 분해되지 않는 성분이지요. 그런데 무서운 원소 이야기라니, 원소엔 어떤 무시무시한 면이 있는 걸까요?&lt;br&gt;&lt;br&gt;수소 이야기부터 해 볼게요. 책은 ‘힌덴부르크호 화재 사고’를 통해 수소의 무서움을 알려줍니다. 힌덴부르크호는 길이가 245m에 달하는, 초대형 비행선이었어요. 1937년 5월 독일에서 출발해 대서양을 횡단한 힌덴부르크호는 미국 뉴저지주에 있는 레이크허스트 비행장에 도착한 후 계류를 위해 밧줄을 내리고 있었어요. 그러다 갑자기 비행선에 전류가 흐르면서 불꽃이 발생했고, 비행선 뒷부분에서 배출되고 있던 수소로 옮겨붙었어요. 비행선은 순식간에 불길에 휩싸였고, 이 사고로 36명이 사망했습니다.&lt;br&gt;&lt;br&gt;힌덴부르크호는 독일 나치당의 지원을 받아 완성됐어요. 나치를 선전하는 데 동원되기도 했죠. 이 때문에 미국에 입국하기 전부터 힌덴부르크호는 화제가 됐고, 비행선을 취재하러 나온 언론에 화재의 참상이 고스란히 촬영됐어요. 저자는 불지옥 같았던 이 장면이 사람들의 뇌리에 수소에 대한 공포심을 심었다고 설명해요.&lt;br&gt;&lt;br&gt;수소 외에도 이 책은 인류가 문명을 발전시키는 동안 벌어진 충격적인 사고와 역사적 사건을 통해 원소에 관한 이야기를 들려줍니다. 실제로 사람이 섭취하거나 가까이만 해도 생명이 위험해질 수 있는 독성을 가진 원소가 있어요. 잘못 다루면 큰 폭발을 일으키는 원소도 있고요. 인류를 지구상에서 사라지게 할 수 있는 핵무기와 관련해서도 원소 이야기를 빼놓을 수 없지요. 이렇게만 보면 원소는 정말 무시무시한 존재인 것 같습니다.&lt;br&gt;&lt;br&gt;하지만 이 책은 우리를 두려움에 떨게 하려고 원소에 관한 무서운 이야기를 들려주는 건 아니에요. 다양한 원소가 우리 삶에 어떻게 영향을 미치고 있는지 보여줌으로써, 과학에 대한 관심을 끌어내고자 한 것이죠. 공포 영화가 무서워도 끝까지 보게 되듯이, 무서운 원소 이야기를 통해 과학에 재미를 느낄 수 있도록 구성한 거예요.&lt;br&gt;&lt;br&gt;화재를 일으키지 않는 안전 성냥의 발명부터 꿈의 물질로 여겨졌던 프레온 가스가 오존층 파괴의 주범으로 밝혀진 사건 등 흥미로운 원소 이야기들도 담겨 있답니다. 운석 충돌이 공룡 멸종의 원인임을 증명한 원소 이야기도 들려주지요. 우리 삶에 원소가 어떤 영향을 미쳤는지, 원소를 통해 인류는 어떤 발전을 했는지 궁금한 친구들은 한번 읽어보면 좋겠습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 9월 26일</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/26/IG5JDIPYLVCZPPH5UA7K6U67MM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/26/IG5JDIPYLVCZPPH5UA7K6U67MM/</guid>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YNSSYE7AJFC3RMEETKJXUV4LTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>음주운전 역주행 사고로 5명 부상…”면허 취소 수치”</title>
       <link>https://www.chosun.com/national/national_general/2024/09/25/ZNGEPSEXSZFWZK7P6JDF45JP74/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/25/ZNGEPSEXSZFWZK7P6JDF45JP74/</guid>
@@ -869,45 +931,6 @@ The Chosunilbo</media:credit>
       </media:content>
     </item>
     <item>
-      <title>사업비 올렸지만... 위례신사선 입찰, 아무도 참여 안 했다</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/25/UX4DUPO7TJFGFOG23QJJ4P6DAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/25/UX4DUPO7TJFGFOG23QJJ4P6DAQ/</guid>
-      <dc:creator>박진성 기자, 김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 11:32:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKCZYXOKAJGI5BJTHN6FACKTIE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;위례신도시와 서울 강남을 연결하는 위례신사선 경전철 사업자 공모가 유찰됐다. 서울시는 25일 “위례신사선 민간투자사업을 할 사업자를 찾기 위해 공고를 냈으나 마감 시한까지 신청서를 낸 업체가 없었다”고 밝혔다. 지난 6월 기존 사업자(우선협상대상자)인 GS건설이 공사비 상승 등을 이유로 사업을 포기해 사업비를 증액하고 다시 공고를 냈지만 신청한 업체가 없었던 것이다.&lt;br&gt;&lt;br&gt;서울시는 지난달 재공고를 내면서 사업을 하려는 업체가 없으면 시가 직접 예산을 들여 추진하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;그러나 이날 서울시는 “정부와 협의해 사업비를 추가로 증액한 뒤 또 공고를 내겠다”고 했다.&lt;br&gt;&lt;br&gt;이와 관련해 기획재정부가 다음 달 초 공사비 상승 등 상황을 반영해 사업비를 증액할 수 있도록 민자사업 관련 지침을 개정할 것으로 알려졌다. 서울시는 “정부가 지침을 개정하면 바로 재공고를 낼 계획”이라고 했다.&lt;br&gt;&lt;br&gt;위례신사선 경전철은 서울 송파구와 경기 성남·하남시 일대에 조성한 위례신도시와 서울 강남구 신사역을 잇는 14.7㎞ 길이 경전철이다. 2008년부터 신도시의 교통 대책으로 추진됐으나 17년째 첫 삽도 뜨지 못하고 있다. 최초 사업자인 삼성물산 컨소시엄이 2016년 중도 포기했고 지난 6월에는 GS건설 컨소시엄도 공사비 문제로 서울시와 줄다리기를 하다 결국 사업을 접었다. 서울시는 지난달 총 사업비를 1조4847억원에서 1조7605억원으로 늘리고 새 사업자를 찾는 공고를 냈었다.&lt;br&gt;&lt;br&gt;재공고가 유찰됐다는 소식에 위례신도시 주민들은 “17년째 ‘희망 고문’을 당하고 있다”고 반발했다. 김영환 위례공통현안비대위원회 위원장은 “대통령실·기획재정부·국토교통부·서울시를 항의 방문해 주민들의 원성을 전달할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RIQYEUBGWZEONDOSVWON5SEKDI.png?width=480&amp;height=403&amp;auth=751eedb0a84c7db9c743b206db7ea576f0f372813abb5d6e7926902940b9b01e&amp;smart=true" type="image/png" height="403" width="480">
-        <media:description type="plain">그래픽=김현국</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>“여친한테 명품 사줌”... 인스타서 난리난 16세 도영이 정체</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/25/H5LSYPKTPRAQHG4BBKIJ45IT6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/25/H5LSYPKTPRAQHG4BBKIJ45IT6I/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 13:15:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DZEE2CGFWVF6TMWJABIXCUMFU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사이버도박으로 피해를 입은 학생들의 얼굴을 합성해 만든 가상 청소년 박도영 군이 인스타그램에 올린 여자친구와의 일상. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;친구에겐 30만원짜리 밥을 사고 여자친구에게 명품을 사주며 인스타그램에 이를 자랑하던 박도영(16) 군. 겉으로 보기엔 남부러운 일상을 보내는 것처럼 보이지만 실상은 사이버도박에 빠져 막다른 길에 다다르는 것은 한순간이었다.&lt;br&gt;&lt;br&gt;박 군은 지난 8월부터 인스타그램(@dy_gamblingdieary)을 통해 소소한 일상을 공개했다. 여자친구와 데이트를 하거나 친구들과 함께 시간을 보내며 유행하는 릴스 영상도 만드는 등 여느 청소년과 다름없었지만 수업 시간에 휴대전화를 보는 일이 잦았다. 어느 날부터는 30만원이 넘는 고급 식당에 가거나 명품 신발 등을 구매한 인증샷을 올렸고, 또 고가 브랜드 의류를 여자친구에게 선물하기도 했다. 특히 여자친구와 100일을 맞아 명품 브랜드의 제품과 꽃다발을 선물하는 등 재력을 자랑하는 모습이었다.&lt;br&gt;&lt;br&gt;그러다가 최근 박 군이 인스타그램에 시급 1만원의 택배 아르바이트를 시작했다는 근황을 알렸다. 가지고 있던 명품 신발을 40만원에 처분한다는 글까지 올렸다. 박 군의 휴대전화에는 ‘돈 안 갚냐’ ‘돈 빌리고 잠수탄 박도영’ 등의 문자메시지가 쏟아졌다. 박 군은 “요즘 제 번호가 이상한데 돌아다니고 있는 것 같은데 모르는 연락이 너무 많이 옵니다. 저 돈 잘 갚고 있습니다. 연락 그만해주세요”라고 호소했다. 결국 박 군의 계정에는 “이젠 다 그만두고 싶다”며 극단적인 선택을 암시하는 듯한 글까지 올라왔다.&lt;br&gt;&lt;br&gt;사실 이 인스타그램 계정의 주인공인 박 군은 사이버도박으로 피해를 본 학생들의 협조를 받아 이들의 얼굴을 합성해 만든 가상의 청소년이다. 경찰청은 모바일 금융 서비스 토스와 협업해 기획한 ‘청소년 사이버도박 예방·근절 캠페인’의 일환으로 이 계정을 운영했다. 가상 인물 ‘만 16세 박도영’을 통해 사이버도박의 심각성을 알리는 예방 영상을 제작해 배포했고, 현실성을 더하기 위해 박 군의 인스타그램까지 개설했다. 특히 인스타그램에선 사이버도박으로 점차 일상이 무너져가는 모습을 시간 순서에 따라 보여줘 현실감이 더해졌다.&lt;br&gt;&lt;br&gt;경찰청은 토스와 함께 도박 의심 계좌를 알려주는 서비스도 만들었다. 토스는 불법 도박 활용 의심 계좌로 송금할 때 경고 알림 문구를 띄우는 기능, 연결된 가족에게 ‘위험’으로 의심되는 거래·송금을 할 때 사고 유형과 발생 일자 등을 알려주는 서비스를 제공한다. 불법 도박 사이트에서 활용되는 토스뱅크 계좌가 있다면 이를 웹을 통해 신고하는 시스템도 구축했다.&lt;br&gt;&lt;br&gt;한국도박문제예방치유원 통계에 따르면 2022년 기준 초·중·고등학교에 재학 중인 청소년 중 약 40%가 도박을 경험한 것으로 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>9월 평균 최저 기온 21.7도, 낮엔 여름... 가을이 사라진다</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/09/25/RNTOEF3VGNG6TPLJ5MUXLJZ5XY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/09/25/RNTOEF3VGNG6TPLJ5MUXLJZ5XY/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 11:40:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YIGIHGM6KFNSPG2PUXHAEQC74Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 부산 해운대해수욕장을 찾은 관광객, 외국인들이 물놀이를 하며 더위를 식히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가을이 사라지고 있다. 과거 1년 중 3개월(9~11월)로 봤던 가을이 올해는 늦더위 여파로 채 두 달도 꽉 채우지 못할 것으로 전망된다.&lt;br&gt;&lt;br&gt;25일 기상청에 따르면, 이달 1일부터 24일까지 전국 평균 최저기온(62개 관측 지점 기준)은 섭씨 21.7도를 기록해 1973년 관측 이래 처음으로 9월 최저기온이 20도 이상으로 올라갔다. 가장 높은 9월 최저기온 기록은 작년에 세운 19도인데 이보다 2도가량 높은 것이다. 이 기간 평균 최고기온도 30.1도로 나타나 사상 첫 30도대를 기록 중이다. 평균 기온은 25.4도로 아직 한반도 계절은 가을보단 여름 쪽에 가깝다.&lt;br&gt;&lt;br&gt;최근 찬 북풍이 내려오며 다소 선선해졌지만 아직 제대로 된 가을은 오지 않았다. 가을 시작일은 ‘일평균 기온이 20도 미만으로 떨어진 후 다시 올라가지 않은 첫날’로 삼는다. 청명한 날이 많은 가을에는 낮 동안 강한 햇볕에 의해 수은주가 가파르게 치솟기 때문에, 평균 기온이 떨어지려면 아침 기온이 큰 폭으로 내려가야 한다. 그런데 25일 오전 8시 기준 서울 기온이 20.5도를 기록하는 등 전국 대부분 지역에서 평년보다 온도가 높았다.&lt;br&gt;&lt;br&gt;올가을은 예년보다 더 짧아질 것으로 보인다. 기상청은 25일 발표한 3개월 전망에서 10월까지 덥고, 겨울(12월~이듬해 2월)은 더 추울 것으로 내다봤다. 기상청은 올 10월 평균 기온이 평년보다 높거나 비슷할 확률이 90%라고 봤다. 이상 고온 발생일수도 평년보다 많을 것으로 진단했다. 이상 고온은 평년 기온을 기반으로 산출해 지역마다 다른데 서울의 경우 10월은 일 최고기온이 24.1도를 초과할 때를 뜻한다.&lt;br&gt;&lt;br&gt;이처럼 ‘더운 10월’을 보내면서 일평균 기온이 20도 아래로 떨어지는 시점도 늦게 찾아올 것으로 예상된다. 가을의 시작이 늦어지는 것이다. 최근 10년(2011~2020년 평균)간 기상학적 가을은 평균적으로 9월 29일 시작해 11월 24일 끝났다. 총 57일로 거의 두 달에 가까웠다. 그러나 올해는 10월 초에도 ‘가을의 기온’에 접어들기 쉽지 않을 것으로 보여 ‘가을’이 여느 때보다 짧을 전망이다.&lt;br&gt;&lt;br&gt;겨울은 더 추울 것으로 예상됐다. 기상청은 찬 대륙고기압이 확장하며 올 12월 기온이 평년보다 낮거나 비슷할 확률이 80%라고 봤다. 겨울은 ‘일평균 기온이 5도 미만으로 내려간 후 다시 올라가지 않는 첫날’부터다. 겨울이 오는 시점은 예년과 비슷한 11월 말이 될 것으로 예상된다. 결국 여름이 길어지고 겨울은 그대로인 계절 길이의 변화로 인해 올해는 가을의 정취를 느낄 수 있는 시간이 종전 두 달가량에서 한 달 반 정도로 크게 줄어드는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>나체로 우산 쓰고 거리 배회... 마약도 음주도 아니었다, 왜?</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/25/6EEZKSWBINHBDF534ZPY3YWH2I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/25/6EEZKSWBINHBDF534ZPY3YWH2I/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 09:55:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LDWNQYCLJZFCPDVQNQFP5X4BMM.gif"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 혜화동에서 나체 상태로 우산만 쓴 채 거리를 배회한 남성. /유튜브 '서울경찰'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 종로구에서 나체로 우산만 쓴 채 거리를 배회한 남성이 경찰에 검거된 가운데, 이 남성은 마약을 복용하거나 음주 상태가 아니었던 것으로 확인됐다. &lt;br&gt;&lt;br&gt;25일 서울경찰청이 운영하는 유튜브 채널 ‘서울경찰’에는 ‘한밤중 한 남성의 허전한(?) 외출… 우산은 챙겼는데 중요한 게 없습니다’라는 제목으로 이 사건을 다룬 영상이 올라왔다. 영상에는 지난 7월 늦은 밤 서울 종로구 혜화동 일대의 한 골목길에서 나체로 우산을 쓴 채 거리를 걷고 있는 남성이 등장했다. 이 모습을 본 주민들이 “옷을 벗은 남성이 돌아다니고 있다”고 경찰에 신고했고, 출동한 경찰은 이 남성을 찾기 위해 골목 구석구석을 수색해야 했다. &lt;br&gt;&lt;br&gt;이 남성은 경찰이 자신을 쫓는지도 모른 채 빠른 걸음으로 골목을 활보했고, 경찰은 목격자와 실시간으로 소통하며 예상 경로를 따라가다가 골목 한가운데 주저앉아 있는 남성을 발견했다. 이 남성은 경찰을 마주친 후에도 앉은 채로 두리번거렸다. &lt;br&gt;&lt;br&gt;경찰은 이 남성을 공연음란죄로 현행범으로 체포했다. 이 남성은 당시 마약을 복용하거나 술을 마시지 않은 상태였던 것으로 확인됐다. &lt;br&gt;&lt;br&gt;비슷한 시기 경기 양평군에서도 한 중년 여성이 주말 대낮에 속옷만 입고 왕복 2차선 도로를 걸어 다닌 일이 있었다. 같은 달 울산에서는 어깨에 수건만 걸친 한 남성이 자전거를 타고 도로를 지나다가 이를 목격한 운전자들의 신고로 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;공공장소에서 지나치게 신체 부위를 노출할 경우 경범죄 처벌법이나 형법상 공연음란죄가 적용될 수 있다. 경범죄 처벌법 제3조 제1항 제33호(과다노출)에 따르면, 공공장소에서 신체 주요 부위를 노출해 다른 사람에게 불쾌감을 준 경우 10만원 이하의 벌금, 구류 또는 과료에 처할 수 있다. 형법 245조(공연음란)에 따르면 공연히 음란한 행위를 한 자는 1년 이하의 징역, 500만원 이하의 벌금, 구류 또는 과료에 처할 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“10년 살면 되지” 여친 살해 김레아에... 검찰, 무기징역 구형</title>
       <link>https://www.chosun.com/national/court_law/2024/09/25/ICYBO4IQNNGM5P2EKEQGJNBNX4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/25/ICYBO4IQNNGM5P2EKEQGJNBNX4/</guid>
@@ -918,24 +941,6 @@ The Chosunilbo</media:credit>
       <media:content url="https://www.chosun.com/resizer/v2/ZPAUOGMAP7RIKEFUTSQDQ4LRME.jpg?width=1856&amp;height=2448&amp;auth=9491e5b82c36a9f05610f7649c7e80e135abfcc4117623b77335dc9510dd1ca6&amp;smart=true" type="image/jpeg" height="2448" width="1856">
         <media:description type="plain">김레아. 수원지검 제공.</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>“남은 삶 환우 위해 살겠다”… ‘루게릭병’ 박승일, 23년간 투병 끝 별세</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/25/EGBC23OKFVBYVGNLG42DFTYQGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/25/EGBC23OKFVBYVGNLG42DFTYQGU/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 08:04:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L5LD5WKQCFBHRO7YIPP7DVPBNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박승일 승일희망재단 공동대표가 작년 12월 13일 루게릭 요양병원 착공식에 참석한 모습. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프로농구 코치로 활동하다가 루게릭병 진단을 받고 투병해 온 박승일(53) 승일희망재단 공동대표가 25일 세상을 떠났다.&lt;br&gt;&lt;br&gt;승일희망재단은 이날 인스타그램 등 공식 소셜미디어를 통해 “박승일 공동대표가 23년 간의 긴 투병 생활을 뒤로하고 소천하셨다”며 부고 소식을 전했다. 이어 “대한민국에 루게릭병이라는 희귀 질환을 알리고 루게릭 요양병원 건립과 환우·가족을 위해 애써주신 고인의 삶을 기억하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;고인은 연세대와 실업 기아자동차에서 농구 선수로 뛰었다. 2002년 프로농구 울산 모비스에서 코치로 일하던 중 루게릭병 판정을 받고 지금까지 투병해 왔다. 2011년 가수 션(52·한국명 노승환)과 함께 비영리재단 승일희망재단을 설립해 아이스버킷챌린지 등 루게릭 요양병원 건립을 위한 모금 활동을 진행했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LWU4564E3VMHPDSXCEKX3C3KJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박승일 승일희망재단 공동대표가 루게릭병 진단을 받기 전 건강했던 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그는 판정 직후 “나에게 남은 시간이 얼마인지 모르지만 그 시간을 무의미하게 보내고 싶지 않다”며 “루게릭병 환우를 위해 살고 싶다”는 뜻을 전한 바 있다. 2009년엔 눈으로 움직이는 마우스를 이용해 저서 ‘눈으로 희망을 쓰다’를 펴내기도 했다.&lt;br&gt;&lt;br&gt;그 노력의 산물인 루게릭 요양병원은 작년 12월 경기도 용인에서 첫 삽을 떠 올해 말 문을 연다. 연면적 4995㎡·지하 2층·지상 4층 규모로 병상 76개와 재활치료 시설 등을 갖출 예정이다. 고인은 작년 12월 착공식에 구급차를 타고 참석했었다.&lt;br&gt;&lt;br&gt;앞서 공동대표인 션은 지난 6월 건설 현장 사진과 조감도를 공개한 뒤 “218억 원 규모의 국내 최초 루게릭요양병원이 이렇게 지어지고 있다. 올해 12월 완공을 예정으로 잘 진행되고 있다”며 “꿈은 포기하지 않으면 이루어진다. 14년 전 승일이와 만나 꿈을 꿨고 14년간 달려왔다”는 소회를 밝혔다.&lt;br&gt;&lt;br&gt;고인의 빈소는 분당서울대학교병원 장례식장 3층 10호실에 마련됐다. 발인은 27일 오전 7시다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독]대기업 직장인도 가담한 100억대 스미싱 조직…여BJ 동반 호화 파티까지 벌였다</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/25/WIU5D6MCLNEOBBSQRV6SU7MISI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/25/WIU5D6MCLNEOBBSQRV6SU7MISI/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 07:22:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KHZH4K7TONEBTFJI3NQBFW5NLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;모바일 스미싱 범죄를 저지른 주요 피의자들이 베트남 호치민시에서 검거 된 모습./경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가짜 청첩장이나 부고 문자를 미끼로 한 ‘모바일 스미싱’ 범죄로 100억대 피해액을 냈다가 경찰에 검거된 조직원들이 범죄피해금 등을 통해서 여성 BJ를 해외로 불러들이며 호화 파티를 했던 것으로 25일 나타났다.&lt;br&gt;&lt;br&gt;경찰청 수사 결과 고등학교 친구 및 직장 선·후배 사이로 만난 주범 15명은 모두 직장을 다니며 생계에 어려움도 따로 겪지 않았지만, 총책이 베트남에서 호화 생활을 이어 나가는 모습을 보고 범행에 가담한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰청은 지난 20일 베트남에 거점을 두고 모바일 스미싱 범죄를 저지른 조직을 무더기로 검거했다. 피해자는 230명에 피해액이 100억대로 같은 범죄 피해액 중 역대 최대 규모라고 경찰은 밝혔다. 이 조직은 베트남 호찌민시 일대에 거점을 두고 청첩장·부고장·택배문자·주민등록증 발급 등을 모바일로 발송해 링크를 누르면 악성프로그램을 설치하는 수법으로 피해자들의 계좌에서 돈을 빼냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/44DECGX6XBNO7L5X4PSBXJVWQY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청은 베트남에서 사무실을 차려 국내 조직원들과 함께 모바일 스미싱 범행을 해온 해외 조직원 7명을 검거, 총책 등 3명을 지난 14일 인천국제공항을 통해 강제송환했다고 20일 밝혔다./경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30대 남성인 총책 A씨는 한국에서 휴대폰 대리점을 운영하며 보이스피싱 범죄 조직에 유심을 넘기는 일을 해온 것으로 조사됐다. 대포 유심을 지속적으로 넘긴 정황이 경찰에 포착되고 수사 선상에 오르자 2018년 베트남으로 도피 생활을 이어 나가며 스미싱 범죄 조직을 꾸리게 된 것으로 전해진다.&lt;br&gt;&lt;br&gt;A씨는 자신의 인스타그램에 베트남에서 고급 리조트에서 지내며 슈퍼카 등 여러대를 몰고 다니는 모습을 올린 것으로 파악됐다. 그 중에는 아프리카TV의 여성 BJ에게 4000만원 상당의 별풍선(후원금)을 보내고 과시하는 내용도 있었던 것으로 전해진다. A씨는 “BJ를 베트남 호화 별장에 직접 초대해 같이 여행도 다녔다”고 과시한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 고등학교·고향 친구들에게 함께하면 가담하면 범죄 수익을 낼 수 있다고 설득한 것으로 조사됐다. “텔레그램을 통해 범행을 저지르니 절대 붙잡힐 일 없다”고도 주변인들을 포섭하기도 했다. 결국 A씨의 호화로운 생활과 가담하라는 유혹에 14명이 넘어갔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FWLL2RPT6NEYDNSFUHXFWA6LOA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북경찰청 수사 결과 이들은 생계에 어려움을 겪지 않는 직장인들로 파악됐다. 대기업 직장인도 포함됐다. 사기 등 전과 내역도 없는 것으로 파악됐다. 이들은 총책 A씨가 인스타그램에 올린 사진 등을 보며 돈을 더 벌고 싶어서 범행에 가담한 것으로 전해졌다. 범죄 수익으로 적게는 300만에서 많게는 1000만원 정도의 수익을 낸 것으로 조사됐다.&lt;br&gt;&lt;br&gt;스미싱 범죄 피해자는 대부분 50·60대로 범행으로 퇴직금을 잃은 경우도 있다고 경찰은 밝혔다. 경북청 관계자는 “피해자들은 이런 모바일 청첩장이 생소하거나, ‘지인이 돌아가셨다’는 부고 연락을 많이 받는 연령대인데 이런 신종 범죄에도 취약해서 속을 수 밖에 없었다”며 “범행 수법이 점차 고도화 되는 만큼 문자에 URL 링크가 첨부된 경우 클릭하기 전에 다시 한번 확인할 필요성이 있다”고 했다.&lt;br&gt;&lt;br&gt;이들은 추적이 어려운 베트남에 사무실을 차리고, 피해자들의 은행 계좌에서 빼낸 돈을 도박 사이트 등을 통해 자금을 세탁하기도 했다. 경찰은 70여개의 계좌에서 30만건의 거래 내역을 분석한 결과 베트남 국적 조직원을 검거했다. 베트남 공안과 공조 수사를 통해 베트남에서 도피 중인 일당도 붙잡았다. 경찰은 총책을 비롯해 국내·외에서 조직원 86명을 검거했다.&lt;br&gt;&lt;br&gt;경찰은 현금 1억 9000만원 상당을 압수했고 조직원들이 구매한 외제 차량, 거주 빌라, 아파트와 관련한 범죄 수익금을 추적하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“우리 돈 모이면 결혼할까”…20대 연인 꿈 짓밟은 ‘뺑소니 마세라티’</title>
