@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>유승준 “비자 발급 또 거부당했다”</title>
+      <link>https://www.chosun.com/national/people/2024/09/29/2KMS34OOPZCRBIV2DHY2AGA5DQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/29/2KMS34OOPZCRBIV2DHY2AGA5DQ/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Sep 2024 22:08:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KIDRTR75VBAYBKMLDQYVGFRKKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 유승준. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;병역 기피 논란으로 입국금지 조치를 당한 가수 유승준(스티브 유)이 작년 11월 대법원 승소에도 최근 비자 발급이 또 거부됐다.&lt;br&gt;&lt;br&gt;유승준은 28일 인스타그램에 그의 법적 대리인 류정선 변호사의 입장문을 올렸다.&lt;br&gt;&lt;br&gt;입장문에 따르면 미국 로스앤젤레스(LA) 총영사관은 유승준이 지난 2월 제기한 비자발급신청에 대해 최근 거부처분 통보를 했고, 유승준의 2020년 7월 2일(2차 거부처분일) 이후 행위 등이 대한민국의 안전보장, 질서유지, 공공복리, 외교관계 등 대한민국의 이익을 해칠 우려가 있는 경우에 해당한다는 이유로 비자 발급을 거부했다.&lt;br&gt;&lt;br&gt;앞서 유승준은 2002년 입대를 앞두고 돌연 미국 시민권을 취득해 병역 기피 논란에 휩싸였고 한국 입국이 제한됐다. 이후 2015년 재외동포비자(F-4) 발급을 신청했다가 거부당하자 LA총영사관을 상대로 소송을 제기해 2020년 3월 대법원 승소 판결을 받았다.&lt;br&gt;&lt;br&gt;하지만 LA 총영사관은 비자 발급을 재차 거부했고, 유승준은 두 번째 취소 소송을 제기해 작년 11월 다시 대법원에서 최종 승소했다. LA 총영사관의 유승준 비자 거부는 이번이 세 번째다.&lt;br&gt;&lt;br&gt;류정선 변호사는 “이는 행정청이 법원의 판결마저 무시하고 위법한 처분을 계속하는 것으로서, 유승준에 대한 인권침해일 뿐만 아니라 법치주의 근간을 훼손하는 중대한 문제일 수 있다”고 했다. 특히 “법무부와 관계 행정청이 사법부 판단을 존중하지 않고 있는 것에 깊은 우려를 표한다”고도 했다.&lt;br&gt;&lt;br&gt;그러면서 “유승준은 본 소송대리인과 많은 고민 끝에 3차 거부처분에 대한 취소소송과 입국금지결정 자체에 대한 부존재 또는 무효 등 확인소송을 제기하게 됐다”고 알렸다.&lt;br&gt;&lt;br&gt;유승준이 관광비자로 입국할 수 있는데도 영리활동을 하기 위해 재외동포(F4) 비자를 고집한다는 의혹에 대해서는 “전혀 사실이 아니다”라며 “다른 사증(비자)으로 소송을 하는 경우에는 소의 적법성 자체가 문제 될 가능성이 높고, 이 사건은 재외동포의 지위에서 소송을 진행하는 것이 유리할 수 있다는 변호사들의 권유 때문이었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“좌파들 공인 교과서 못 쓰게 압력...자신들 미는 교제 시장 지키려는 것”</title>
       <link>https://www.chosun.com/national/education/2024/09/29/3S5RUNAFCBBKFA3ENYGD5KXUOE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/09/29/3S5RUNAFCBBKFA3ENYGD5KXUOE/</guid>
@@ -926,15 +935,6 @@
       <description/>
       <pubDate>Fri, 27 Sep 2024 03:09:26 +0000</pubDate>
       <content:encoded>극단주의 테러조직인 이슬람국가(IS) 가입을 선동한 혐의로 기소된 시리아인에게 무죄를 선고한 하급심 판결이 대법원에서 파기됐다. 이 사건은 2016년 제정된 ‘테러방지법’ 위반 혐의로 기소된 첫 사건이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4LTM3XMCGYTGXRC4TTA256M2XE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 1부(주심 노태악 대법관)는 27일 극단주의 테러 조직인 이슬람국가(IS) 가입을 선동한 혐의(테러방지법 위반) 등으로 기소된 시리아인 A(39)씨에게 무죄를 선고한 원심을 파기하고 사건을 인천지법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;대법원은 “원심은 테러단체 가입 선동에 관한 법리를 오해함으로써 필요한 심리를 다하지 않아 판결에 영향을 미친 잘못이 있다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2015년 10월~2018년 6월 소셜미디어에 IS를 찬양하는 글과 동영상, IS 대원과 대화할 수 있는 링크를 올린 혐의(테러단체 가입 선동)로 구속기소됐다. 그는 경기 평택 폐차장에서 함께 일하던 외국인 노동자에게 IS가 만든 홍보 영상과 사진을 보여주며 IS 가입을 권유한 혐의(테러단체 가입 권유)도 받았다. 테러방지법에 따르면 테러 단체 가입을 지원하거나 권유·선동하면 5년 이하 징역형에 처할 수 있다.&lt;br&gt;&lt;br&gt;1심은 A씨의 테러단체 가입 권유 혐의는 무죄로, 선동 혐의는 유죄로 보고 징역 3년을 선고했다. 1심은 “소셜미디어를 통해 테러단체 가입을 불특정 다수에게 선동했음을 인정할 수 있다”며 “피고인의 행위는 누군가를 끔찍한 테러리스트가 되도록 조장하거나 자극할 수 있다”고 했다. &lt;br&gt;&lt;br&gt;그러나 2심은 A씨의 모든 혐의를 무죄로 판단했다. 2심은 “A씨가 테러단체 활동을 찬양, 고무하거나 지지 호소하는 것을 넘어 선동했다는 것을 충분히 증명했다고 보기 무리가 있다”고 했다.&lt;br&gt;&lt;br&gt;대법원은 테러단체 가입 권유 혐의에 대해선 원심과 같이 무죄로 판단했다. 하지만 ‘선동’ 혐의에 대해서는 충분한 심리가 이뤄지지 않았다고 판단, 2심 판결을 깨고 사건을 다시 심리하도록 했다. &lt;br&gt;&lt;br&gt;대법원은 “A씨가 (소셜미디어에) 게시한 글과 영상 등은 테러단체 활동에 대한 단순한 지지, 찬양, 동조를 넘어 IS에 가담 및 동참하는 행위를 고무하는 취지로 이해될 가능성이 있다”고 했다. &lt;br&gt;&lt;br&gt;이어 “원심은 피고인의 행위가 테러단체 가입이 실행되는 것을 목표로 피선동자에게 테러단체 가입을 결의, 실행하도록 충동하고 격려하거나 부추기는 행위를 했다고 볼 수 있는지를 심리했어야 한다”고 했다. 대법원은 5년 1개월간 이 사건을 심리한 끝에 이날 선고를 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘너 딸 마약 먹였다’ 보이스피싱으로 3000만원 뜯은 20대 중국 남성 구속</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/24/TJLFCBE72ZAFLKLETLFAWMSXCI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/24/TJLFCBE72ZAFLKLETLFAWMSXCI/</guid>
-      <dc:creator>강우석 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Sep 2024 01:06:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IKHFNGXBTR44Z3CAR6P5GWYVZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중랑경찰서. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;피해자의 딸을 납치했다며 석방 대가 명목으로 금품을 가로채려 한 보이스피싱 조직원이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 중랑경찰서는 지난 13일 보이스피싱 범죄로 현금·골드바 등 3000만원 상당의 금품을 탈취한 중국국적 남성 A(28)씨를 전기통신금융사기 특별법 위반 혐의로 체포해 구속했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 당시 공범과 함께 피해자에게 전화를 걸어 ‘딸을 납치했다’며 석방 대가 명목으로 금품을 요구했다. 하지만 피해자가 딸의 생사확인을 요구하며 금품을 건네지 않자 검거를 우려해 도주하던 중 미행하던 경찰에 체포됐다. A씨는 ‘자녀를 납치해 마약을 강제로 먹였다’ ‘살리고 싶으면 돈을 가져와라’ 등 보이스피싱 수법으로 다른 피해자에게도 현금 1600만원을 추가로 가로챈 것으로 확인됐다.&lt;br&gt;&lt;br&gt;당시 피해자가 골드바를 구입하기 위해 방문한 금거래소의 주인은 피해자의 모습을 보고 보이스피싱 범죄를 직감해 경찰 신고를 접수했다. 신고자는 보이스피싱범과 통화중인 피해자에게 서면으로 ‘도와주겠다’고 쓰고 범인이 눈치채지 못하도록 ‘포장했으니 가져가라’ 등 말을 한 뒤 상품 케이스 속에는 골드바를 넣지 않아 피해를 예방했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “범인을 검거하는데 결정적 도움을 준 시민에게 포상을 실시했다”며 “A씨의 공범 및 추가 혐의에 대해서도 수사를 이어나갈 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보] “상급종합병원 중환자실·4인실 이하 입원 수가 50% 가산 지원”</title>
