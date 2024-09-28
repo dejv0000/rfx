@@ -13,6 +13,55 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“살인마가 하는 식당 가지마”…순천 여고생 살해 30대, 신상 털렸다</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/28/XCXW5SPDGBACBAVF4EF4Z65DTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/28/XCXW5SPDGBACBAVF4EF4Z65DTU/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Sep 2024 07:13:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LZ7UNVLMMZFOVKVQAJAJRF2I24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 운영하는 것으로 알려진 식당 앞에 시민들이 던진 계란 흔적이 남아 있다 ./TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 순천에서 10대 여고생을 흉기 살해한 30대 남성의 신상정보가 온라인상에 확산하면서 그가 운영하는 것으로 알려진 식당 리뷰에 ‘별점 테러’가 쏟아지고 있다.&lt;br&gt;&lt;br&gt;28일 여러 온라인 커뮤니티에는 순천 여고생 살인사건 가해자 A씨(30)의 이름과 사진, 소셜미디어(SNS) 계정 등 신상정보가 퍼졌다.&lt;br&gt;&lt;br&gt;네티즌들은 A씨 SNS에 몰려가 질타를 퍼붓는 한편 경찰에 A씨에 대한 신상 공개를 촉구하는 글을 남기고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/USETTZG3ZRBJPHDVNY5OEU3CXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 운영하는 것으로 알려진 식당 리뷰 게시판 상황 ./온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨가 운영하는 것으로 알려진 음식점 정보도 함께 알려졌다. 이 식당 리뷰 게시판에는 “여기가 살인자가 하는 찜닭집 맞나” “살인마가 하는 찜닭집” “절대 가지말아야 할 식당으로 소문 다 났다” 등의 글과 함께 별점 테러가 이어지고 있다.&lt;br&gt;&lt;br&gt;일부 시민들은 현재 폴리스라인이 쳐진 이 식당 주변에 계란 등을 투척한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBZ7X7AOH5EZVOLTHTQXANFOWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 순천의 한 거리에서 A씨가 여고생에게 흉기를 휘두르기 위해 다가가는 모습./TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순천경찰서에 따르면 A씨는 지난 26일 새벽 0시40분쯤 순천시 조례동의 한 길거리에서 B(18)양을 흉기로 여러 차례 찔러 살해하고 달아난 혐의로 이날 구속됐다.&lt;br&gt;&lt;br&gt;A씨는 범행 직전까지 자신이 운영하는 식당에서 혼자 술을 마신 뒤 흉기를 들고 나와 길을 가던 B양을 쫓아가 범행을 저지른 것으로 조사됐다. 당시 B양은 친구를 배웅하고 귀가 중이었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;범행을 목격한 행인은 “아가씨가 비명 지르길래 난 말리려고 쫓아왔다. 그런데 남자가 도망가 버리더라고. 내가 ‘아가씨 저 남자 알아요?’ 하니까 모르는 사람이라고 했다. 아가씨가 ‘저 좀 살려주세요’ 그러고 의식을 잃어버렸다”고 말했다.&lt;br&gt;&lt;br&gt;B양은 병원으로 옮겨져 치료받았으나 과다 출혈 등으로 숨졌다.&lt;br&gt;&lt;br&gt;신고를 받은 경찰은 당일 오전 3시쯤 사고 현장 인근에서 행인과 시비가 붙은 만취 상태의 A씨를 발견하고 긴급체포했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/URAUQJTE5FKNFNWFKMAXUB7BUM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전남 순천 도심에서 흉기를 휘둘러 10대 여성을 살해한 A씨가 28일 오전 광주지법 순천지원에서 구속 전 피의자 심문(영장실질심사)를 마친 뒤 취재진의 질문을 받고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 일면식도 없는 피해자를 대상으로 한 ‘묻지마 범행’ 가능성이 큰 것으로 보고 경위 등을 수사하고 있다.&lt;br&gt;&lt;br&gt;앞서 A씨는 이날 순천지원에서 열린 구속전 피의자 심문(영장실질심사)에 출석하면서 취재진에게 “(사건 당시) 소주 네 병 정도 마셔서 기억이 나질 않는다”며 “증거는 다 나왔기 때문에 (범행을) 부인하지 않겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/LZ7UNVLMMZFOVKVQAJAJRF2I24.jpg?width=677&amp;height=438&amp;auth=a7f944eb84743d27cb1486e2ead316207a0cda191608c4761e9ec204419ca3f5&amp;smart=true" type="image/jpeg" height="438" width="677">
+        <media:description type="plain">A씨가 운영하는 것으로 알려진 식당 앞에 시민들이 던진 계란 흔적이 남아 있다 ./TV조선</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>법무장관이 밥 푸고, 前 대법관은 카레 얹어...주말 탑골공원 배식 봉사</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/28/CTH326Y5EVFRFDWOVMO67MLEGU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/28/CTH326Y5EVFRFDWOVMO67MLEGU/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Sep 2024 07:51:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JOT2UOXTDFFNPAGLOSQCVTFINQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성재(오른쪽) 법무부장관, 민일영(가운데) 전 대법관이 28일 서울 종로구 탑골공원 뒤편에 있는 원각사 무료급식소를 찾아 배식 봉사를 하고 있다. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말인 28일 점심 무렵, 서울 종로구 탑골공원 뒤편에 있는 원각사에서 배식 번호표를 든 사람들이 법당 안으로 하나 둘씩 들어섰다. 갈색 앞치마를 두르고 흰색 위생모를 쓴 이들이 분주하게 움직였다.&lt;br&gt;&lt;br&gt;박성재 법무부장관이 밥을 푸면, 민일영 전 대법관이 따뜻한 카레을 얹었다. 배고픈 사람들을 위한 배식 봉사에 나선 것이다. 이들은 오후 2시 마지막 배식자가 밥을 받을 때까지 300인분 카레를 나눠 담았다.&lt;br&gt;&lt;br&gt;이날 박성재 장관은 지하철을 타고 혼자 원각사를 찾았다고 한다. 민일영 전 대법관은 지난 2009년 대법관 취임 이후 매달 한 번씩 종로 원각사에서 무료급식 봉사활동을 해왔고, 퇴임 이후에는 한 달에 두 번씩 찾고 있다고 한다.&lt;br&gt;&lt;br&gt;원각사 무료 급식소는 지금껏 한 번도 문을 닫지 않았다. 1년 365일 쉬지 않고 200~300명 소외계층에게 점심을 대접한다. 1993년 보리 스님이 공원에서 급식을 한 것이 시작이었다. ‘배고픔에는 휴일이 없다’며 코로나 때도 급식을 이어갔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PFW3HXWULJE7LA4WJYRGBPX474.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성재(오른쪽) 법무부장관, 민일영(가운데) 전 대법관이 28일 서울 종로구 탑골공원 뒤편에 있는 원각사 무료급식소를 찾아 배식 봉사를 하고 있다. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민 전 대법관은 “눈 온다고, 비 온다고, 전염병이 돈다고 배고픔이 없어지는 건 아니다”라며 “여기서 드시지 않으면 하루 밥 한 끼 제대로 못 드시는 분들이 정말 많다”고 했다.&lt;br&gt;&lt;br&gt;박 장관은 “휴일이라 개인적인 일정을 소화했을 뿐이다”라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>연봉 4억까지 제시... 지방 대학병원 응급실 전문의 구인난</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/09/28/FVPQIOYX5JGTJNSLIBLJUIRBNA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/28/FVPQIOYX5JGTJNSLIBLJUIRBNA/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Sep 2024 07:04:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y3EI5IZHRNOFVFKSCYKSQIJ3V4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 27일 오후 서울의 한 대형 병원 응급의료센터 앞에 주 1회 성인 진료를 중단한다는 안내문이 놓여 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전·세종 지역 대학 병원들이 응급실 의료 인력을 구하기 위해 억대 연봉을 내걸고 전문의를 구하고 있지만, 구인에 어려움을 겪고 있는 것으로 나타났다.&lt;br&gt;&lt;br&gt;28일 의료계에 따르면 대전 건양대병원은 지난 9일부터 권역응급의료센터(대형 병원 응급실)에서 일할 내·외과, 심장혈관흉부외과, 소아청소년과 전문의를 구하고 있다. 병원은 모집 공고에 연봉 2억7500만원을 제시했지만, 지원자가 많지 않아 채용에 어려움을 겪고 있다.&lt;br&gt;&lt;br&gt;올해 상급종합병원(대형 병원)으로 지정된 이 병원은 현재 소아심장분과 전문의 부재로 심장 관련 세부 진료에 차질을 빚고 있다. 평일 야간·주말·공휴일에는 소아과 진료가 불가하다. 병원 측은 “인력 부족으로 응급실 병상을 축소 운영한다”며 “중증·응급 환자 우선으로 진료할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;세종시 내 유일한 지역응급의료센터인 세종충남대병원 응급실은 두 달째 신규 전문의를 구하고 있다. 연봉에 각종 인센티브를 더해 연간 급여 최대 4억원까지 제시했지만, 적임자를 찾지 못했다.&lt;br&gt;&lt;br&gt;이달부터 응급실 야간 운영을 중단한 이 병원은 다음 달에도 이 같은 방침을 유지하기로 했다. 병원 측은 “의료진 감소에 따라 성인 응급실 이용이 제한된다”며 “10월 1일부터 31일까지 한 달간 주간 진료만 가능하다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>순천 여고생 살해범 구속…“소주 네 병 마셔 기억 안 나”</title>
+      <link>https://www.chosun.com/national/incident/2024/09/28/QJGTJ4XPN5ARPDQHAL5WWTXHBE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/28/QJGTJ4XPN5ARPDQHAL5WWTXHBE/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Sep 2024 06:53:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IYY5U5ZKLNNEZE2OOLRZKUC3JM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 순천 도심에서 길을 가던 여고생을 살해한 혐의를 받는 A(30)씨가 28일 오전 광주지법 순천지원에서 열린 구속전 피의자 심문을 받고 법원을 나서며 심경을 말하고 있다./뉴시스
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;심야 시간에 전남 순천 도심에서 10대 여성 청소년을 흉기로 찌르고 달아난 30대 남성이 구속됐다.&lt;br&gt;&lt;br&gt;광주지법 순천지원 정희영 부장판사는 28일 살인 혐의로 A(30)씨에 대해 “주거 부정 및 도주 우려가 있다”며 경찰이 신청한 구속영장을 발부했다. A씨는 이날 오전 순천지원에서 열린 구속전 피의자 심문(영장실질심사)에 출석하면서 취재진에게 “(사건 당시) 소주 네 병 정도 마셔서 기억이 나질 않는다”며 “증거는 다 나왔기 때문에 (범행을) 부인하지 않겠다”고 말했다.&lt;br&gt;&lt;br&gt;A씨는 26일 오전 0시 44분쯤 순천시 조례동 길거리에서 B(18)양을 흉기로 찔러 살해하고 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 범행 당시 음주 상태였던 것으로 알려졌다. 흉기에 세 차례 찔린 B양은 병원으로 옮겨져 치료받았으나 과다 출혈 등으로 숨졌다.&lt;br&gt;&lt;br&gt;당시 B 양은 친구를 배웅하고 귀가 중이었던 것으로 알려졌다. 범행 장면을 목격한 시민이 “누군가 여학생을 흉기로 찌르고 달아났다”고 경찰에 신고한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>길거리서 지인에 시너 뿌리고 불 붙인 40대 男, 경찰에 긴급체포</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/28/5CFCNSHOIFGYJL2557DHJJMKUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/28/5CFCNSHOIFGYJL2557DHJJMKUA/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Sep 2024 05:46:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DOXPPDA5VNBZ7IQOU2CTBNN5PI.jfif"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강동경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;길거리에서 지인에 시너를 뿌리고 불을 붙여 화상을 입게 한 40대 남성이 경찰에 긴급체포됐다.&lt;br&gt;&lt;br&gt;서울 강동경찰서는 지인에게 불을 붙여 다치게 한 40대 남성 A씨를 긴급체포했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 전날 오전 11시 45분쯤 서울 강동구 고덕동 노상에서 지인 B씨의 몸에 가연성 액체 시너를 뿌리고 라이터로 불을 붙인 혐의를 받는다.&lt;br&gt;&lt;br&gt;B씨가 불이 붙은 옷을 벗으며 불은 꺼졌지만, A씨와 B씨 모두 전신에 화상을 입고 현재 병원에서 치료받고 있는 상태다.&lt;br&gt;&lt;br&gt;A씨는 B씨에 대한 개인적 원한을 품고 범행을 저지른 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “가해자와 피해자 모두 치료를 마치는 대로 구체적인 사건 경위 등을 조사할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>오늘 강원·경상에 비, 서쪽 지역은 낮밤 일교차 10도 이상</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/09/28/3HJGNSDQRNEY7L4MLDTRG36BTU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/28/3HJGNSDQRNEY7L4MLDTRG36BTU/</guid>
@@ -913,51 +962,6 @@
       <description/>
       <pubDate>Fri, 27 Sep 2024 01:54:52 +0000</pubDate>
       <content:encoded>지난 6월 임명된 김병민 서울시 정무부시장이 11억8800여만원의 재산을 신고한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E6TPIGSPKN6QH3YV3QFCWZZHQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부공직자윤리위원회가 27일 공개한 ‘9월 수시 재산공개 대상자 재산등록사항’에 따르면 김 부시장은 서울 광진구 소재 아파트 14억원, 차량 2570만원, 예금 1억2849만7000원과 부채 3억6537만4000원 등 총 11억8882만3000원의 재산을 신고했다.&lt;br&gt;&lt;br&gt;위원회는 올해 6월 2일부터 7월 1일까지 신분이 바뀐 고위 공직자 87명의 보유 재산을 27일 관보에 공개했다.&lt;br&gt;&lt;br&gt;전임 정무부시장인 강철원 서울시 시정고문은 종전보다 44만4000원 늘어난 15억6528만4000원의 재산을 신고했다. 여기에는 13억6500만원 상당의 서초구 반포동 아파트 등이 포함됐다.&lt;br&gt;&lt;br&gt;김학배 전 서울시 자치경찰위원장은 44억9888만원을 신고해 퇴직자 재산 상위 3위 안에 들었다. 김 전 위원장은 토지 3억5597만원과 건물 22억1647만원 등을 신고했다.&lt;br&gt;&lt;br&gt;이외에 김성섭 전 서울시 자치경찰위원회 사무국장은 19억7813만원을, 이해우 서울시 경제정책실장은 12억1514만원을 신고했다. 정상훈 서울시 복지정책실장은 건물 21억4090만원을 포함해 총 36억9325만원을 신고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>의대생들, 수업 거부해도 “국가장학금 주세요”…3200명 신청</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/09/27/XI7Y22UIRJC2VELTAF3SBGYKPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/27/XI7Y22UIRJC2VELTAF3SBGYKPM/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Sep 2024 01:24:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LGQSRDBA42FJFZBN3KWP2JARAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 한 의과대학의 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의대생 3000여명이 수업 거부 상황에서 2학기 국가장학금을 신청한 것으로 나타났다.&lt;br&gt;&lt;br&gt;27일 국회 보건복지위원회 소속 김미애 국민의힘 의원이 교육부에서 받은 ‘의과대학별 국가장학금 신청 현황’을 보면 2학기 전국 39개 의대(의학전문대학인 차의과대 제외) 학생 3201명이 국가장학금을 신청했다. 국가장학금은 국내 대학 재학생에게 소득 수준에 따라 금액을 차등해 지원하는 장학금이다.&lt;br&gt;&lt;br&gt;차의과대를 제외한 전국 39대 의대 재학생은 1만9105명으로, 약 17%에 해당하는 학생들이 국가장학금을 신청한 셈이다. 지난 23일 공개된 2학기 전국 의대생 등록 인원은 635명이었다. 장학금 신청 인원이 등록 인원의 5배가량 된다.&lt;br&gt;&lt;br&gt;작년 2학기(5954명)보다 신청 인원이 줄어들기는 했지만, 의대생들이 수업에 참여하지 않고 있다는 점을 고려하면 장학금 신청 규모는 예상보다 크다는 평이 나온다.&lt;br&gt;&lt;br&gt;올해 2학기 국가장학금은 5월 21일~6월 20일, 8월 14일~9월 11일 두 차례에 걸쳐 신청받았다. 의대 정원 증원 정책에 반발해 대다수 의대생이 수업을 거부하고, 증원을 원점 재검토하지 않으면 강의실에 복귀하지 않겠다고 밝힌 시점이었음에도 국가장학금을 신청했다는 뜻이다.&lt;br&gt;&lt;br&gt;이보다 앞선 올해 1학기에는 39개 의대에서 7210명이 국가장학금을 신청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>성범죄 소년범 2963명 중 소년원 간 건 143명뿐…4.8% 불과</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/27/N5NDMDJCEJDMBPPRAXMZWLJFXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/27/N5NDMDJCEJDMBPPRAXMZWLJFXQ/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Sep 2024 01:41:21 +0000</pubDate>
-      <content:encoded>작년 한해동안 성범죄로 보호처분을 받은 소년범은 2963명이지만 소년원에 보내진 것은 143명으로 나타났다. 소년법상 보호처분은 19세 미만의 소년이 죄를 범했을 때 내리는 처분으로 1호(보호자 위탁)~10호(장기소년원 송치)로 나뉜다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PV7UT6EUS3RFPF7D4GKFHQLNGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 대법원 사법연감에 따르면 작년 소년보호 사건으로 접수된 청소년 5만94명 중 성범죄로 재판을 받은 청소년은 3701명, 보호처분을 받은 청소년은 2963명이다. 형법상 강간죄로 50명, 강제추행으로 223명, 성폭력처벌법 위반으로 1797명, 아동·청소년성보호법 위반으로 893명이 보호처분을 받았다.&lt;br&gt;&lt;br&gt;성범죄를 저지른 청소년 중 소년원에 송치하는 8호·9호·10호 처분을 받은 경우는 143명(4.8％)에 불과한 것으로 나타났다. 비교적 경미한 처분으로 분류되는 1호(보호자 위탁)·2호(수강명령)·3호(사회봉사)가 1794명(60.5％)으로 대부분을 차지했다.&lt;br&gt;&lt;br&gt;작년 전국 법원에 접수된 소년보호사건은 총 5만94건으로 전년 대비 7052건(16.4%) 늘어났다. 절도 혐의가 1만7315건(34.6%)으로 가장 많았고, 사기 4784건(9.6%), 폭력행위 등 처벌에 관한 법률 위반 3916건(7.8%), 폭행 3681건(7.3%), 도로교통법 위반 3096건(6.2%), 성폭력범죄의 처벌 등에 관한 특례법 위반 2225건(4.4%) 순이다.&lt;br&gt;&lt;br&gt;보호처분을 받은 청소년은 총 3만253명으로, 처분 시점 기준 16세가 5149명(17％), 15세가 4981명(16.4％), 14세가 4704명(15.5％) 순으로 파악됏다. 보호처분을 받은 10세 이상 14세 미만 촉법소년은 전년(5245명)보다 약 36.8% 늘어난 1930명이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>뜨거운 환절기…강원영동은 내일까지 최대 100㎜ 많은 비</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/09/27/SWHXQEFG3VB4FPYPIZC3PCRZUY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/09/27/SWHXQEFG3VB4FPYPIZC3PCRZUY/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Sep 2024 01:19:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZBJA4X2TURJHPFDH5RVPZFIR4Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 26일 대구 달서구 테마파크 이월드를 찾은 시민들이 큰 일교차 속에 활짝 핀 황화코스모스 꽃밭에서 기념촬영을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뜨거운 환절기가 이어지고 있다. 이번 주말 습한 동풍(東風)이 불면서 강원영동에 많은 비가 내리겠고, 태백산맥을 타고 넘은 고온건조한 바람이 서쪽 지역을 달구며 낮동안은 늦여름처럼 더울 전망이다.&lt;br&gt;&lt;br&gt;27일 기상청에 따르면, 동풍의 영향으로 27~28일 강원영동에 30~100㎜의 제법 많은 가을비가 내리겠다. 울릉도·독도·경북동해안·경북북동산지에 5~40㎜, 울산에 5~20㎜의 비도 각각 예고됐다.&lt;br&gt;&lt;br&gt;비의 원인은 습기를 많이 머금은 동풍이다. 이 바람이 태백산맥을 넘기 전 습기를 소진하면서 강원영동에 비를 뿌리는 것이다. 강원 고성평지에는 27일 오전 8시 15분을 기해 호우경보가 발효됐다. 호우경보는 3시간 강수량이 90㎜ 이상일 때 발효된다.&lt;br&gt;&lt;br&gt;이후 태백산맥을 오르며 건조해진 바람은, 서쪽으로 내려가면서 뜨거워져 백두대간 서쪽 지역에 열풍을 공급하겠다. 이에 주말동안 강원영동을 제외한 대부분 지역에서 낮 최고기온이 30도 가까이 오르며 덥겠다. 낮동안 달궈진 공기가 대기 상층의 찬 공기와 만나며 27일 제주를 제외한 전국에 5~20㎜의 소나기가 오는 곳이 있겠다.&lt;br&gt;&lt;br&gt;28일 아침 최저기온은 15~22도, 낮 최고기온은 23~30도로 예보됐다. 29일은 최저 14~22도, 최고 23~29도의 기온 분포를 보이겠다. 기상청은 당분간 기온이 평년(최저 11~18도, 최고 23~26도)보다 조금 높을 것으로 내다봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>78세 김용건 “늦둥이 아들 곧 36개월… 둘째 차현우와 많이 닮았다”</title>
-      <link>https://www.chosun.com/national/people/2024/09/27/ZMOCNLPK3BEJREOXY3NQCI7MWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/27/ZMOCNLPK3BEJREOXY3NQCI7MWQ/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Sep 2024 01:16:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V2PFGFP5ZFG4BFZKKWNWAVLT34.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김용건이 지난 7월 27일 서울 용산구 CGV 용산아이파크몰에서 열린 영화 '비공식작전‘(감독 김성훈) VIP 시사회에 참석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 김용건(78)이 방송에서 세 살배기 늦둥이 막내아들을 언급하며 애정을 드러냈다.&lt;br&gt;&lt;br&gt;김용건은 26일 오후 방송된 채널A 예능프로그램 ‘아빠는 꽃중년’에서 자택을 공개하며 막내아들 이야기를 꺼냈다. 그는 막내아들이 오는 10월이면 36개월이 된다고 밝히며 “가끔 본다. 요새 말 좀 한다. 못 보면 영상통화로 얘기한다. 점점 편해지고 있다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “영상통화 할 때 뭐 만들고 이러면 시선도 안 준다. 이름 부르면 본다”며 “가끔 집에 오면 장난감을 한 보따리 들고 온다. 배드민턴하자고 하고 풍선도 불어달라고 한다”고 했다. 어린 아들과 놀아줄 때면 힘든 몸을 뒤로하고 손주와 놀아주는 영화 ‘대부’ 속 한 장면이 생각난다고도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HQCEJ65WDBDFXHRW4QU32HPGNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용건이 세 살배기 늦둥이 막내아들의 영상을 보는 모습. 아래는 첫째 하정우와 둘째 차현우의 어린 시절 사진. /채널A 방송화면&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1946년생인 김용건은 2021년 39세 연하 여자 친구와의 사이에서 아들을 품에 안아 화제를 모았었다. 당시 여자 친구는 혼전임신 후 김용건이 출산을 반대했다며 고소장을 접수하기도 했으나, 김용건이 아들을 호적에 올리고 출산·양육을 적극 지원하기로 약속하면서 취하했다.&lt;br&gt;&lt;br&gt;이런 일련의 일들을 떠올린 듯 김용건은 “시간이 지나니까 내가 (아이에 대해) 얘기도 하고 그렇게 자연스럽게 되나보다”라며 아들이 자란 후 알게 되고 놀랄 부분에 대해서도 어떻게 설명해야 할지 고민 중이라는 솔직한 마음을 전했다.&lt;br&gt;&lt;br&gt;한편 이날 김용건 집에 초대된 방송인 김구라는 김용건의 막내아들 영상을 보며 “둘째 아들과 늦둥이 아들이 닮았다”고 했다. 김용건도 “둘째와 많이 닮았다”며 웃었다. 김용건은 슬하에 배우 형제인 하정우(46·본명 김성훈)와 차현우(44·김영훈)를 뒀다. 1977년 결혼한 전 부인과는 1996년 이혼했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“아이들 코막고 용변 치웠다”…'김가루 청소’ 교사 무릎꿇린 유치원 반박</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/27/GO6ZYHZRBBDAJKKLNRRG3I4L3M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/27/GO6ZYHZRBBDAJKKLNRRG3I4L3M/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Sep 2024 00:27:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5BOV2LUBCC7UBBTML4JXYSYPXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;교실 책상 위에 물티슈가 올려져 있다.(기사와 직접 관련 없음)/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 사립 유치원 교사가 아이들에게 바닥에 떨어진 김가루 청소를 시켰다가 부당해고를 당했다는 주장이 제기되자 유치원 측이 “김가루가 아닌 용변을 치우게 했다”며 반박에 나섰다.&lt;br&gt;&lt;br&gt;27일 인천 중부경찰서에 따르면 지난 6일 중 모 유치원에서 A교사가 아이들에게 용변을 치우게 했다는 취지의 아동학대 신고가 112에 접수됐다.&lt;br&gt;&lt;br&gt;유치원과 학부모 측은 A 교사가 바지에 실수를 한 아이로 인해 바닥에 묻은 용변을 다른 아이들에게 물티슈를 주고 청소하게 했다고 주장했다.&lt;br&gt;&lt;br&gt;이번 사건은 A교사 측이 억울하게 아동학대 누명을 쓰고 부당해고를 당했다는 취지의 국회 국민동의 청원글을 올려 세간에 알려졌다.&lt;br&gt;&lt;br&gt;A교사 측은 “바닥에 떨어진 김 가루를 아이들에게 자율적으로 청소하게 한 과정이 ‘대변을 치우게 했다’는 내용으로 와전됐다”고 주장했다. 이 과정에서 원장과 원감의 강압적인 지시에 따라 10여명의 학부모 앞에서 무릎을 꿇었고 사직서까지 작성하게 됐다는 게 A교사 측 입장이다.&lt;br&gt;&lt;br&gt;그러나 유치원 측은 A교사가 원생들에게 용변 청소를 시킨 사실이 있다고 반박했다. 현장 감시카메라(CCTV) 영상에 A교사로부터 물티슈를 건네받은 아이들이 바닥에 묻은 이물질을 닦거나 코를 움켜쥐는 모습이 찍혔다는 것이다.&lt;br&gt;&lt;br&gt;유치원 관계자는 “바닥에 아무것도 없는 상황에서 한 아이가 용변을 흘렸고 A 교사가 건넨 물티슈로 다른 아이들이 용변을 치웠다”며 “김가루가 아닌 용변이 확실하다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “사회초년생인 A교사를 배려해 학부모들에게 사과하게 한 뒤 원만히 해결하려 했는데 전혀 다른 주장을 하고 있다”며 “사실이 아닌 내용으로 유치원 측이 큰 피해를 보고 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;학부모들은 이날 오후 경찰에 고소장을 접수할 예정인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A교사의 아동학대 혐의가 있는지 CCTV 영상 분석과 관련자 조사 등을 거쳐 정확한 사건 경위를 조사할 방침이다. 경찰 관계자는 “아직 CCTV 영상 속 물체가 무엇인지 확인이 어렵다”며 “고소장이 접수되는 대로 조사할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;인천시교육청은 이 유치원의 관리·감독이 잘 이뤄졌는지에 대해 감사에 착수했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
