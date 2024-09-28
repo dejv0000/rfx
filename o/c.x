@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>광주 마세라티 뺑소니범 직업·거주지·도주과정 의문투성이</title>
+      <link>https://www.chosun.com/national/incident/2024/09/28/5HJS7MCNYNDE3IVWRODN44EM4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/28/5HJS7MCNYNDE3IVWRODN44EM4E/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Sep 2024 09:07:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MLB6KUXJKAB52XGH4K32AN6FYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 24일 오전 3시 11분쯤 광주광역시 서구 화정동의 한 도로에서 남녀가 탑승한 오토바이를 들이받았던 마세라티 승용차가 사고 충격으로 파손돼 있다. 이 사고로 오토바이에 타고 있던 여성이 숨졌고, 남성은 중상을 입어 병원 치료를 받고 있다. /광주 서부경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주 마세라티 뺑소니 사망사고 피의자들이 검거됐지만, 이들의 수상한 행적에 대한 의문이 해소되지 않으면서 궁금증이 증폭되고 있다.&lt;br&gt;&lt;br&gt;28일 광주서부경찰서 등에 따르면 마세라티 운전자 A(33)씨가 태국에 주로 거주했던 것으로 확인됐다. 하지만 A씨가 광주에 온 경위나 직업, 국내 주소 등은 뚜렷하게 밝혀지지 않았다. 그는 경찰 조사에서 무직이라고 주장한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨의 국내 주소지는 주민등록등본상 광주 북구 한 행정복지센터로 기재돼 있는 것으로 알려졌다. 통상 공공기관 주소지가 개인의 주민등록 주소지로 돼 있는 경우는 흔치 않은 일이다.&lt;br&gt;&lt;br&gt;A씨가 사고를 낸 경위, 도주 과정 등에도 의문점이 많다. 이달 중순 한국으로 입국한 A씨는 수도권 등에서 20대 시절부터 알고 지낸 또래와 만나다가 사고 전날인 23일 고향인 광주에 와서 사고를 냈다.&lt;br&gt;&lt;br&gt;그는 광주에 오자마자 친구로부터 마세라티를 빌려 탔고, 이 차량으로 음주운전을 해 사고를 낸 것으로 드러났다. A씨가 운전한 마세라티 차량은 서울의 한 법인 소유 차량인데, 해당 법인은 “되돌려받지 못한 차량”이라고만 경찰에 답한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 도주 과정에서 주도면밀하게 행동했다. 사고 후 마세라티를 버리고 현장을 벗어난 A씨는 또래의 도움으로 벤츠 차량으로 갈아타고 곧장 대전까지 도주했다. 경찰 추적을 피하기 위해 휴대전화 전원을 껐고, 조력자 휴대전화로 해외 출국을 위한 항공편을 예약했다.&lt;br&gt;&lt;br&gt;그러나 뺑소니 사고 용의자를 추적 중이라는 보도가 나오고 출국금지가 내려지면서 A씨는 해외 도피를 포기하고, 다른 조력자로부터 건네받은 대포폰을 이용해 서울로 몸을 숨겼다. 하지만 추적에 나선 경찰이 도주 67시간 만에 서울 강남구 한 지하철역 인근에서 A씨를 체포했다. 대포폰 사용 등 도주 과정에서 보여준 행적 때문에 A씨가 조직폭력배라는 소문도 돌았으나 경찰은 이를 부인했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N4LVQEVFWZOTFAHUP5CJIXUCYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'광주 뺑소니 사망사고' 운전자의 도주 과정을 도운 혐의(범인 도피)를 받는 30대 조력자 B씨가 28일 오후 광주지방법원에서 열리는 구속 전 피의자 심문(영장실질심사)에 출석하기 위해 이동하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 28일 광주지법에서 열린 구속 전 피의자 심문(영장실질심사)에 불출석했다. A씨는 변호인을 통해 불출석 의견서를 제출했다. 이에 따라 재판부는 서면으로 실질 심사를 진행하고 있다. A씨의 도주를 도운 고교 동창 B(33)씨만 영장실질심사에 출석했다.&lt;br&gt;&lt;br&gt;A씨는 지난 24일 오전 3시 11분쯤 광주광역시 서구 화정동의 한 도로에서 20대 연인이 타고 있던 오토바이를 들이받은 뒤 구호조치 없이 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;사고로 오토바이 뒷좌석에 탄 여성 C(28)씨가 숨지고 오토바이 운전자 D(23)씨가 크게 다쳤다. D씨는 골반뼈와 턱뼈가 으스러지는 부상을 당해 대학 병원 중환자실에서 치료받고 있다. 이들은 D씨가 음식 배달 일을 마친 뒤 함께 귀가하던 길이었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;사고 당시 방범 카메라 영상에는 A씨가 모는 흰색 마세라티 차량이 빠른 속도로 C씨 등이 탄 오토바이를 들이받는 장면이 담겼다. 이 충격으로 오토바이는 150m가량 튕겨 나와 형체를 알아보기 어려울 정도로 부서졌다. 또 다른 영상에서는 A씨를 포함한 남성 2명이 급하게 도주하는 모습이 잡혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 이종기 경북신문 발행인 별세</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/09/28/NKHASKHGIRAAXOR2X75FJMOYZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/09/28/NKHASKHGIRAAXOR2X75FJMOYZM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Sep 2024 08:27:45 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;이종기&lt;/b&gt; 경북신문 발행인 별세, &lt;b&gt;이석우&lt;/b&gt; 경북신문 편집국장·&lt;b&gt;이수민&lt;/b&gt;·&lt;b&gt;이은경&lt;/b&gt; 부친상=28일10시30분 신촌세브란스병원, 발인 30일8시,&amp;nbsp;(02)2227-7500&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“살인마가 하는 식당 가지마”…순천 여고생 살해 30대, 신상 털렸다</title>
       <link>https://www.chosun.com/national/national_general/2024/09/28/XCXW5SPDGBACBAVF4EF4Z65DTU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/28/XCXW5SPDGBACBAVF4EF4Z65DTU/</guid>
@@ -937,15 +955,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MPILDPSAOBKTNMDLEP4R7UITOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;불법 선거운동 혐의로 입건된 최재영 목사가 27일 오전 경기도 수원시 경기남부경찰청으로 출석하며 취재진 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령의 부인 김건희 여사에게 고가의 가방 등을 건넨 최재영 목사가, ‘미국 국적’ 신분으로 불법 선거운동을 한 혐의로 조사받기 위해 27일 경찰에 출석했다.&lt;br&gt;&lt;br&gt;최 목사는 이날 오전 10시 경기남부경찰청 반부패·경제범죄수사대에 피의자 신분으로 나왔다. 최 목사는 선거 운동을 할 수 없는 미국 국적자 신분임에도 지난 4·10 국회의원 선거를 앞두고 경기 여주·양평 지역구에 더불어민주당 후보로 출마했던 최재관 전 지역위원장의 선거 운동을 도운 혐의를 받고있다. 현행법상 대한민국 국민이 아닌 자는 국회의원선거에서 선거 운동을 할 수 없다. 최 목사는 재미교포로, 대한민국 영주권도 없다.&lt;br&gt;&lt;br&gt;그는 지난 6월 24일 다른 선거법 위반 등 혐의로 경기남부경찰청에서 조사받기 위해 출석했을 당시, 국민의힘 이철규 의원에 대해 “이 의원이 절 ‘디올백 사건과는 무관한 선거법 위반 혐의로 엮은 것은 상당히 큰 실수”라고 주장해 이 의원의 명예를 훼손한 혐의도 받는다.&lt;br&gt;&lt;br&gt;최 목사는 이날 경찰에 출석하면서 “윤석열 대통령은 지난 국회의원 선거에서 자당이 불리한 지역만 골라서 민생토론을 하고 선심성 공약을 남발하는 등 선거중립(의무)을 위반했는데, 검찰은 수사를 하고 있지 않다”며 “최재영 목사가 민주당 후보 유세 차량에 올라가서 단 몇 분, 몇 마디 지원유세 한 거는 집요하게 고발하는 만행을 저지르고 있다”고 했다. 그는 또 “지금 김건희씨가 지난 재보궐선거와 총선에도 개입한 정황 등이 폭로되고 있는데 빨리 수사에 착수해달라”며 “오늘 성실하게 사실관계 확인을 하고, 진실 규명에 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NO6X3F7A7NNEJCNCPUILRCDQAE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;최재영 목사가 27일 오전 경기 수원시 장안구 경기남부경찰청에 공직선거법 위반 혐의 관련 조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최 목사는 검찰 수사심의위원회가 이른바 ‘디올백 사건’에 대해 청탁금지법 위반 혐의로 기소 권고 결론을 내린 것과 관련해선, “검찰과 대통령실은 아무 말이 없다. 김건희씨도 보강 수사를 받아야 되는 상황”이라며 “제 검찰 수사 라인을 객관적인 인물로 교체해달라”고도 했다.&lt;br&gt;&lt;br&gt;최 목사는 이 사건들과는 별개로, 공식 선거운동 기간 전이었던 지난 2월 양평군에서 열린 한 강연회에서 최 전 위원장에 대한 지지발언을 하는 등 부정 선거 운동을 한 혐의도 있다. 당시 촬영된 영상과 경찰 조사 등에 따르면 최 목사는 당시 모인 청중 약 100명 앞에서 “올바른 탄핵을 할 수 있는 그런 일꾼을 뽑아야죠, 양평은 누굽니까? 최재관이랍니다”라고 발언했다.&lt;br&gt;&lt;br&gt;또 그는 지난 3월 여주시에서 열린 강연회에서 이철규 의원으로부터 “김건희 여사가 공천을 받으면서 한 사람당 얼마를 받는다는 얘기를 했다”라는 취지의 발언을 들었다고 말해 이 의원의 명예를 훼손한 혐의도 받고 있다. 최 목사는 이런 혐의를 부인한 것으로 알려졌다. 그러나 경찰은 최 목사에게 제기된 이 두 가지 혐의가 모두 인정된다고 보고, 지난 8월 검찰에 송치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>공수처, 김건희 여사 ‘공천개입 의혹’ 고발 사건 배당, 본격 검토</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/27/JWPQXBFDHVDS3OYK7KK73ZHDRY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/27/JWPQXBFDHVDS3OYK7KK73ZHDRY/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Sep 2024 02:04:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHLFO5L2P5ICDCJQ2SDVTAP2R4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오동운 고위공직자범죄수사처장이 지난 7월 24일 오전 국회에서 열린 법제사법위원회 전체회의에서 의원질의에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처가 윤석열 대통령 부부가 2022년 국회의원 재·보궐선거 과정에서 국민의힘 공천에 개입했다는 의혹 사건을 배당하고 검토에 들어갔다.&lt;br&gt;&lt;br&gt;시민단체 사법정의바로세우기시민행동이 지난 23일 윤 대통령과 부인 김건희 여사를 직권남용 권리행사 방해·공직선거법 위반·청탁금지법 위반 혐의로 공수처에 고발한 데 따른 것이다. 공수처는 이 사건을 수사4부에 배당했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;최근 불거진 윤 대통령 부부의 ‘공천개입 의혹’은 크게 두 가지다. 첫 번째 의혹은 2022년 6월 국회의원 재·보궐선거에서 윤 대통령 부부가 정치 브로커인 명태균씨로부터 김영선 전 의원을 경남 창원 의창 후보자로 공천해 달라는 부정한 청탁을 받고 영향력을 행사한 것으로 의심된다는 내용이다. 또 다른 의혹은 김 전 의원이 지난 4·10 총선 공천을 앞두고 경남 창원 의창 지역구를 포기하고 경남 김해갑 출마선언을 하는 과정에 김 여사가 개입한 것으로 의심된다는 내용이다.&lt;br&gt;&lt;br&gt;공수처에 고발된 것은 첫 번째 의혹이다. 그러나 고발된 혐의 가운데 공직선거법 위반, 청탁금지법 위반 혐의는 공수처법상 공수처의 수사 범위에 해당하지 않는다.&lt;br&gt;&lt;br&gt;오동운 공수처장은 지난 23일 국회 법제사법위원회 전체회의에서 박은정 조국혁신당 의원이 수사를 서두르라는 취지로 질의하자, “공직선거법 위반 관점에서 이 사건을 지켜봐 왔는데, 말씀하신 정치자금법 위반과 관련해서 검토해 보겠다”고 답했다. 공수처법상 정치자금법 위반은 수사 범위에 포함된다.&lt;br&gt;&lt;br&gt;공수처 관계자는 “수사 범위를 포함해 종합적으로 고발 사건을 검토할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“다 죽여버릴 거야” 대리비 안 내고 버티던 30대 男, 출동한 경찰에 흉기 휘둘러 실형</title>
       <link>https://www.chosun.com/national/national_general/2024/09/27/KQJUMXEYS5AH5BJ6327Z6Y66CY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/27/KQJUMXEYS5AH5BJ6327Z6Y66CY/</guid>
@@ -953,15 +962,6 @@
       <description/>
       <pubDate>Fri, 27 Sep 2024 01:58:13 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PW4S2BTUIJX7LVLTUCKH6G7IRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대리운전 기사에게 대리비를 내지 않고 버티던 30대 남성이 출동한 경찰에게 흉기를 휘두르고 협박한 혐의로 실형을 선고 받았다.&lt;br&gt;&lt;br&gt;서울남부지법 형사13단독 김재은 판사는 특수공무집행방해 혐의를 받는 임모(39)씨에 대해 징역 1년 2개월을 선고했다.&lt;br&gt;&lt;br&gt;임씨는 지난 3월 17일 오후 6시 40분쯤 서울 영등포구 거주지에서 “대리운전 고객이 집에 들어가 돈을 안 준다”는 신고를 받고 출동한 경찰에게 19cm 길이의 과도를 들고 휘둘렀다. 임씨는 당시 술에 취한 상태였던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;그는 경찰에게 “다들 내 집에서 꺼져” “더 들어오면 너네 다 죽여 버린다”고 협박했다. 출동한 경찰로부터 “대리운전 요금을 지불하라”는 요구를 받고 화가 나서 범행을 저지른 것으로 파악됐다.&lt;br&gt;&lt;br&gt;또한 임씨는 대리비를 받지 못해 그의 집 안까지 따라 들어갔던 60대 여성 대리운전 기사에게 옷을 벗고 자신의 문신을 보여주며 공포감을 주기도 했다.&lt;br&gt;&lt;br&gt;임씨는 자신의 집에 경찰이 동의 없이 들어와 바디캠으로 속옷만 입고 있던 자신을 찍은 것이 위법한 공무집행이라고 주장했다. 하지만 재판부는 “사법경찰관이 현행범을 체포하는 경우 영장 없이 타인의 주거지를 수색할 수 있다”며 “촬영 또한 위법이 있다고 볼 수 없다”고 임씨의 주장을 받아들이지 않았다.&lt;br&gt;&lt;br&gt;재판부는 “공무집행방해 범행은 정당한 공권력 행사를 방해하여 국가의 기능을 해하는 범죄로 그 죄책이 가볍지 않다”며 “피고인은 공무집행방해죄 등으로 실형 1회, 징역형의 집행유예 1회를 포함해 4회에 걸쳐 처벌 받은 전력이 있고 사기죄로 징역형 집행유예를 선고 받은 중 범행을 저질렀다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고위공직자 재산공개…김병민 서울시 정무부시장 11억8882만원 신고</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/27/MCPWSTUG7VCW5K7UE3CLPYQEXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/27/MCPWSTUG7VCW5K7UE3CLPYQEXE/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Sep 2024 01:54:52 +0000</pubDate>
-      <content:encoded>지난 6월 임명된 김병민 서울시 정무부시장이 11억8800여만원의 재산을 신고한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E6TPIGSPKN6QH3YV3QFCWZZHQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부공직자윤리위원회가 27일 공개한 ‘9월 수시 재산공개 대상자 재산등록사항’에 따르면 김 부시장은 서울 광진구 소재 아파트 14억원, 차량 2570만원, 예금 1억2849만7000원과 부채 3억6537만4000원 등 총 11억8882만3000원의 재산을 신고했다.&lt;br&gt;&lt;br&gt;위원회는 올해 6월 2일부터 7월 1일까지 신분이 바뀐 고위 공직자 87명의 보유 재산을 27일 관보에 공개했다.&lt;br&gt;&lt;br&gt;전임 정무부시장인 강철원 서울시 시정고문은 종전보다 44만4000원 늘어난 15억6528만4000원의 재산을 신고했다. 여기에는 13억6500만원 상당의 서초구 반포동 아파트 등이 포함됐다.&lt;br&gt;&lt;br&gt;김학배 전 서울시 자치경찰위원장은 44억9888만원을 신고해 퇴직자 재산 상위 3위 안에 들었다. 김 전 위원장은 토지 3억5597만원과 건물 22억1647만원 등을 신고했다.&lt;br&gt;&lt;br&gt;이외에 김성섭 전 서울시 자치경찰위원회 사무국장은 19억7813만원을, 이해우 서울시 경제정책실장은 12억1514만원을 신고했다. 정상훈 서울시 복지정책실장은 건물 21억4090만원을 포함해 총 36억9325만원을 신고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
