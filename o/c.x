@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>오늘 강원·경상에 비, 서쪽 지역은 낮밤 일교차 10도 이상</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/09/28/3HJGNSDQRNEY7L4MLDTRG36BTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/09/28/3HJGNSDQRNEY7L4MLDTRG36BTU/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Sep 2024 01:12:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KZYE6EWV4RIYFMM2Q4LIGMLJ7M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;쌀쌀한 아침을 보인 27일 서울 광화문 네거리에서 시민들이 긴소매 옷을 입고 출근하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 28일 전국에 가끔 구름이 많겠고, 강원도와 경상권 동해안은 대체로 흐리고 비가 내리는 곳이 있겠다. 서쪽 지역은 당분간 낮 기온이 올라 덥겠고, 낮과 밤의 기온차가 10도 이상으로 크겠다.&lt;br&gt;&lt;br&gt;이날 강원 영동 중·남부는 오전까지, 부산·울산·경북 동해안과 경북 북동 산지는 늦은 오후까지 비 소식이 예보됐다. 제주도 산지는 밤부터 비가 내리는 곳이 있겠다. 오후부터 저녁 사이 전라권 동부와 경상 서부 내륙을 중심으로 한때 소나기가 내리는 곳이 있겠다. 오는 29일은 전국이 대체로 맑겠으나, 강원 영동과 경상권 동해안, 제주도는 대체로 흐리겠다.&lt;br&gt;&lt;br&gt;당분간 기온은 최저 11~18도, 최고 22~26도로, 평년보다 조금 높겠다. 서쪽 지역을 중심으로 낮 기온이 30도 가까이 올라 덥겠고, 내륙을 중심으로 낮과 밤의 기온차가 10도 이상으로 크겠으니 건강 관리에 유의해야 한다.&lt;br&gt;&lt;br&gt;이날 밤부터 제주도 동부와 산간 지역은 바람이 순간 풍속 70km/h(20m/s) 이상으로 매우 강하게 불면서 강풍 특보가 발표될 가능성이 있겠다. 또 이날부터 경상권 해안에, 오는 29일부터 전남 남해안과 제주도에 바람이 순간 풍속 55km/h(15m/s) 내외로 강하게 부는 곳이 있겠다. 시설물 관리와 안전 사고에 유의해야 한다.&lt;br&gt;&lt;br&gt;이날부터 동해 남부 해상과 남해 동부 해상, 남해 서부 먼바다, 제주도 해상에, 오는 29일부터 서해 남부 남쪽 먼바다에 차차 바람이 30~60km/h(9~16m/s)로 매우 강하게 불고, 물결이 1~4m로 매우 높게 일면서 풍랑 특보가 발표될 가능성이 있겠다. 항해나 조업하는 선박은 유의해야 한다.&lt;br&gt;&lt;br&gt;이날까지 동해상을 중심으로 돌풍과 함께 천둥·번개가 치는 곳이 있겠으니, 해상 안전 사고에 유의해야 한다. 오는 29일까지 강원 동해안과 경상권 해안에, 당분간 제주도 해안에는 너울에 의한 높은 물결이 백사장으로 강하게 밀려오거나 갯바위나 방파제를 넘는 곳이 있겠으니, 해안가 안전 사고에 유의해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>청주 소아당뇨 환자 ‘응급실 뺑뺑이’ 돌다 인천으로 이송</title>
+      <link>https://www.chosun.com/national/incident/2024/09/28/LQFMT6Y6JNBLPLSEG7XHQPDE5E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/28/LQFMT6Y6JNBLPLSEG7XHQPDE5E/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Sep 2024 02:17:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ5MKOWXLHR5MC6ZFA6RRLWNLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급대 출동 사진&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주에서 8세 소아당뇨 환자가 응급실 뺑뺑이를 돌다 인천까지 이송되는 일이 벌어졌다.&lt;br&gt;&lt;br&gt;28일 충북도소방본부에 따르면 전날 오후 10시24분쯤 청주시 서원구 개신동에서 “아들의 당 수치가 높다. 도와달라”는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;현장에 도착한 구급대는 소아당뇨 환자인 A(8)군이 고혈당 증세로 인슐린 투여가 시급하다는 사실을 확인, 치료할 수 있는 병원을 찾기 시작했다. .&lt;br&gt;&lt;br&gt;119구급대는 충북, 충남, 세종, 대전 지역 병원 10여곳에 이송을 요청했으나 소아 전문의와 소아 병상 부족 등을 이유로 거부당했다.&lt;br&gt;&lt;br&gt;수소문 끝에 A군은 자정을 넘겨 신고접수 2시간 30분 만에 청주에서 110㎞쯤 떨어진 인천 인하대병원에 입원할 수 있었다. 현재 A군은 치료를 받아 안정을 찾은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오늘 서울 도심서 대규모 법회·집회로 교통혼잡… 세종대로 등 통제</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/28/O5TLRIK3GZFM7BUUUFCQRY3ZXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/28/O5TLRIK3GZFM7BUUUFCQRY3ZXE/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Sep 2024 01:49:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CLINQC5YBAOQIZNSPMLLIHTMCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중구 세종대로와 광화문 광장 일대에서 열린 집회 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말인 28일 세종대로 등 서울 도심 일대에서 대규모 법회와 집회가 열려 교통 혼잡을 빚을 전망이다.&lt;br&gt;&lt;br&gt;서울시와 서울경찰청 등은 행사 전날인 27일 오후 10시부터 29일 오전 6시까지 광화문교차로~세종대로 사거리 구간 차량 통행을 부분·전면 통제한다고 밝혔다. 이 기간 세종대로를 지나는 버스 노선은 우회해서 운행하며 ‘KT 광화문지사’, ‘세종문화회관’ 등 버스 정류장은 일시적으로 폐쇄된다.&lt;br&gt;&lt;br&gt;대한불교조계종은 28일 약 3만명 규모의 ‘2024 불교도대법회’ 행사를 연다. 경찰은 세종대로(광화문로~세종로) 남북 간 1:1 양방 가변 차로를 운영할 예정이다. 또 본 행사인 법회 및 선명상 대회가 진행되는 오후 2시~5시에는 차량을 전면 통제하고 순차적으로 통행을 재개한다. 이 시간에는 서울 지하철 5호선 광화문역 2·9번 출구 이용도 막힌다.&lt;br&gt;&lt;br&gt;전국민중행동은 28일 오후 3시부터 세종대로(태평로터리∼숭례문) 일대에서 대규모 집회를 갖는다. 이들은 오후 3시 50분부터 한강대로를 통해 남영로터리까지 행진할 예정이다.&lt;br&gt;&lt;br&gt;경찰은 집회와 행진 등 진행 시간에 가변차로를 운영하고 교통경찰 170여명을 배치해 차량의 원활한 이동을 돕는다는 계획이다.&lt;br&gt;&lt;br&gt;경찰은 “세종대로와 한강대로 일대에서 교통 정체가 예상돼 가급적 대중교통 이용을 권고드린다”며 “부득이하게 차량을 이용해야 할 경우엔 교통정보를 미리 확인해달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광주 마세라티 뺑소니 사망사고 운전자 구속영장</title>
+      <link>https://www.chosun.com/national/incident/2024/09/28/IX6O3UEJNJFGTN7K4HOOQPNKKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/28/IX6O3UEJNJFGTN7K4HOOQPNKKE/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Sep 2024 02:00:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MLB6KUXJKAB52XGH4K32AN6FYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 24일 오전 3시 11분쯤 광주광역시 서구 화정동의 한 도로에서 남녀가 탑승한 오토바이를 들이받았던 마세라티 승용차가 사고 충격으로 파손돼 있다. 이 사고로 오토바이에 타고 있던 여성이 숨졌고, 남성은 중상을 입어 병원 치료를 받고 있다. /광주 서부경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주 ‘마세라티 뺑소니 사망사고’를 수사 중인 경찰이 가해자인 운전자와 도피 조력자에 대해 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;광주 서부경찰서는 28일 운전 중 오토바이를 치어 2명을 숨지거나 다치게 하고 달아난 혐의(특정범죄가중처벌법상 도주치사)로 마세라티 운전자인 30대 A씨와 그의 도피 행각을 도운 B씨에 대해 범인도피 혐의로 각각 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 24일 오전 3시 11분쯤 광주광역시 서구 화정동의 한 도로에서 20대 연인이 타고 있던 오토바이를 들이받은 뒤 구호조치 없이 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;사고로 오토바이 뒷좌석에 탄 여성 C(28)씨가 숨지고 오토바이 운전자 D(23)씨가 크게 다쳤다. D씨는 골반뼈와 턱뼈가 으스러지는 부상을 당해 대학 병원 중환자실에서 치료받고 있다. 이들은 D씨가 음식 배달 일을 마친 뒤 함께 귀가하던 길이었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;사고 당시 방범 카메라 영상에는 A씨가 모는 흰색 마세라티 차량이 빠른 속도로 C씨 등이 탄 오토바이를 들이받는 장면이 담겼다. 이 충격으로 오토바이는 150m가량 튕겨 나와 형체를 알아보기 어려울 정도로 부서졌다. 또 다른 영상에서는 A씨를 포함한 남성 2명이 급하게 도주하는 모습이 잡혔다.&lt;br&gt;&lt;br&gt;A씨는 사고 직후 휴대전화를 꺼둔 채 광주를 벗어나 도피행각을 벌여왔다. 경찰은 A씨의 마세라티 차적 조회 결과 서울의 한 법인 소유로 파악했지만, A씨와 연관성이 없는 곳이었다. 또 보험 가입자도 달라 추적에 난항을 겪었다. 이 과정에서 B씨가 A씨에게 대포폰 등을 제공하며 도주를 도운 것으로 경찰은 보고 있다.&lt;br&gt;&lt;br&gt;해당 사건을 수사 중인 광주 서부경찰서와 광주경찰청 형사기동대 등 4개 팀 30여 명의 경찰이 투입돼 사고 직후부터 도주 경로를 추적한 끝에 A씨를 검거했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 음주운전 여부와 범행 전후 행적, 도주 이유 등을 조사할 방침이다. 경찰은 A씨가 뺑소니 사고 직전 광주 상무지구의 한 주점에서 나서는 모습 영상과 주류를 결제한 영수증 등 음주운전 정황을 확보했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“배탈 났잖아”…전국 자영업자 울린 ‘장염맨’ 징역 3년 6개월</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/28/FNTJA5YL2FA6VI6TU5BCOZQQ2M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/28/FNTJA5YL2FA6VI6TU5BCOZQQ2M/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Sep 2024 01:05:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LSA3UPAGHVFLVBWTEKOAYGBIJM.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 음식점 3000여곳에 전화를 걸어 “장염에 걸렸다”며 치료비나 합의금 등 명목으로 업주들로부터 수천만원을 뜯어내 속칭 ‘장염맨’으로 불린 40대 남성이 1심에서 실형을 선고받았다.&lt;br&gt;&lt;br&gt;28일 법조계에 따르면, 전주지법 형사5단독 박상곤 판사는 사기 및 사기미수 혐의로 기소된 A(40)씨에게 징역 3년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 6월부터 올해 4월까지 약 10개월간 음식점 업주 456명을 속여 합의금 명목으로 1억여원을 받아 챙긴 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;A씨는 휴대전화로 ‘전국 맛집’을 검색해 나온 음식점들을 범행 대상으로 골랐다. 제주도를 포함해 전국 17개 시·도의 식당들이 범행 대상이었다. 무작위로 전화를 걸어 “일행과 식사했는데 장염에 걸렸다”며 합의금을 요구했다. 업주가 거부하면 “보상이 없으면 구청에 알려 영업을 정지시키겠다” “법적 책임을 각오하라”는 협박까지 했다.&lt;br&gt;&lt;br&gt;정작 A씨는 실제로는 전화를 건 음식점에서 식사한 사실이 없었던 것으로 조사됐다. 첩보를 입수한 전북경찰청 형사기동대가 피해 업주들의 진술과 통화 녹음 파일을 확보, 계좌 내용 등을 분석해 지난 4월 12일 부산시 한 모텔에서 A씨를 체포했다.&lt;br&gt;&lt;br&gt;피해 업주들은 온라인상에서 사례를 공유하면서 ‘장염맨을 조심하라’고 서로에게 당부하기도 했다. A씨는 피해 업주들에게 받은 합의금을 숙박비와 치아 치료비 등으로 썼다고 수사기관에서 진술했다.&lt;br&gt;&lt;br&gt;박 판사는 “피고인은 동종 범죄로 처벌받고 누범기간 중에 불특정 다수의 피해자를 상대로 범행해 비난 가능성이 크다”며 “현재까지도 피해 복구를 위한 노력을 하지 않았고 다수의 피해자가 처벌을 원하는 점에 비춰 피고인에 대한 실형 선고는 불가피하다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“나한테 미안해야 되는거 아니냐” 지갑 훔쳤던 동창 우연히 만나 때린 40대</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/28/L73YNJWNBFE3LDFTF3VB5N3L4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/28/L73YNJWNBFE3LDFTF3VB5N3L4E/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 27 Sep 2024 23:17:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOIPX7HDNFCOHOGTNKRO6EMBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;과거 자신의 지갑을 훔쳤던 고교 동창생을 우연히 식당에서 만나 폭행한 40대가 항소심에서 감형받았다. 1심에선 벌금형을 선고받았지만 2심은 “다소 참작할 만한 사정이 있다”며 선처했다.&lt;br&gt;&lt;br&gt;28일 법조계 등에 따르면, 춘천지법 형사1부(재판장 심현근)는 폭행 혐의로 1심에서 벌금 50만원을 선고받았던 A(40)씨의 항소심에서 원심판결을 파기하고, 벌금 50만원에 대한 선고를 유예했다. 선고유예는 유죄는 인정되지만, 경미한 경우 선고를 미뤄 일정 기간 범죄를 짓지 않으면 없던 일로 해주는 판결이다.&lt;br&gt;&lt;br&gt;A씨는 작년 7월 11일 오후 9시 30분쯤 강원 원주시 한 식당에서 고교동창 B(39)씨의 머리를 손으로 1대 때린 혐의로 기소됐다. 과거 자신의 지갑에 손을 대 처벌받았던 B씨를 우연히 보게 되자 “너 아직도 사기 치고 다니냐” “나한테 미안해야 되는 거 아니냐”라고 말하며 머리를 때린 혐의다.&lt;br&gt;&lt;br&gt;A씨는 수사기관에서 “과거 사건으로 인해 피해자에게 서운한 마음이 있었고, 이에 피해자로부터 사과받고자 하는 마음에 손으로 머리를 쳤다”고 진술했다. 이들은 과거 가깝게 지냈던 고등학교 동창 사이였으나 2015년 B씨가 A씨의 지갑을 훔쳐 형사처벌을 받은 이후 서로 연락하지 않고 지낸 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이 사건으로 당초 벌금 50만원의 약식명령을 받았던 A씨는 정식재판청구 절차를 거쳐 법정에 섰다.&lt;br&gt;&lt;br&gt;1심을 맡은 춘천지법 원주지원은 “피해자가 수년 전 피고인의 지갑을 절취하고 이를 배상하지 않은 전력이 있다고 해도, 피고인이 식당 내 여러 사람이 있는 가운데 피해자에게 명예를 훼손하는 발언을 하며 폭행한 행위는 충분히 처벌받을 만한 행위에 해당한다”며 50만원의 벌금형을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 항소했다. 그는 “B씨와는 30년 넘게 알고 지낸 친구 사이로, 가볍게 툭 친 것에 불과하고, 형법상 폭행에 해당하는 물리적인 마찰은 없었다”는 취지로 주장했다.&lt;br&gt;&lt;br&gt;2심은 형의 선고를 유예하는 판결을 내렸다. 2심 재판부는 “피고인이 행사한 유형력의 정도가 비교적 경미하며, 이 사건 범행에 이르게 된 경위에 다소 참작할 만한 사정이 있다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>구본무 회장 미션으로 히트… 트럼프 건배 전통주도 골라준 그녀</title>
       <link>https://www.chosun.com/national/2024/09/28/AGU5MC6KA5GLFHZTNTUG6YTT3E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/09/28/AGU5MC6KA5GLFHZTNTUG6YTT3E/</guid>
@@ -904,63 +958,6 @@
       <description/>
       <pubDate>Fri, 27 Sep 2024 00:27:28 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5BOV2LUBCC7UBBTML4JXYSYPXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;교실 책상 위에 물티슈가 올려져 있다.(기사와 직접 관련 없음)/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 사립 유치원 교사가 아이들에게 바닥에 떨어진 김가루 청소를 시켰다가 부당해고를 당했다는 주장이 제기되자 유치원 측이 “김가루가 아닌 용변을 치우게 했다”며 반박에 나섰다.&lt;br&gt;&lt;br&gt;27일 인천 중부경찰서에 따르면 지난 6일 중 모 유치원에서 A교사가 아이들에게 용변을 치우게 했다는 취지의 아동학대 신고가 112에 접수됐다.&lt;br&gt;&lt;br&gt;유치원과 학부모 측은 A 교사가 바지에 실수를 한 아이로 인해 바닥에 묻은 용변을 다른 아이들에게 물티슈를 주고 청소하게 했다고 주장했다.&lt;br&gt;&lt;br&gt;이번 사건은 A교사 측이 억울하게 아동학대 누명을 쓰고 부당해고를 당했다는 취지의 국회 국민동의 청원글을 올려 세간에 알려졌다.&lt;br&gt;&lt;br&gt;A교사 측은 “바닥에 떨어진 김 가루를 아이들에게 자율적으로 청소하게 한 과정이 ‘대변을 치우게 했다’는 내용으로 와전됐다”고 주장했다. 이 과정에서 원장과 원감의 강압적인 지시에 따라 10여명의 학부모 앞에서 무릎을 꿇었고 사직서까지 작성하게 됐다는 게 A교사 측 입장이다.&lt;br&gt;&lt;br&gt;그러나 유치원 측은 A교사가 원생들에게 용변 청소를 시킨 사실이 있다고 반박했다. 현장 감시카메라(CCTV) 영상에 A교사로부터 물티슈를 건네받은 아이들이 바닥에 묻은 이물질을 닦거나 코를 움켜쥐는 모습이 찍혔다는 것이다.&lt;br&gt;&lt;br&gt;유치원 관계자는 “바닥에 아무것도 없는 상황에서 한 아이가 용변을 흘렸고 A 교사가 건넨 물티슈로 다른 아이들이 용변을 치웠다”며 “김가루가 아닌 용변이 확실하다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “사회초년생인 A교사를 배려해 학부모들에게 사과하게 한 뒤 원만히 해결하려 했는데 전혀 다른 주장을 하고 있다”며 “사실이 아닌 내용으로 유치원 측이 큰 피해를 보고 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;학부모들은 이날 오후 경찰에 고소장을 접수할 예정인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A교사의 아동학대 혐의가 있는지 CCTV 영상 분석과 관련자 조사 등을 거쳐 정확한 사건 경위를 조사할 방침이다. 경찰 관계자는 “아직 CCTV 영상 속 물체가 무엇인지 확인이 어렵다”며 “고소장이 접수되는 대로 조사할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;인천시교육청은 이 유치원의 관리·감독이 잘 이뤄졌는지에 대해 감사에 착수했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경남 고성서 5t트럭, 시내버스 충돌로 트럭기사 숨져</title>
-      <link>https://www.chosun.com/national/regional/2024/09/27/JGFTQFNZVRFHLKORL3ITKCRSZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/27/JGFTQFNZVRFHLKORL3ITKCRSZA/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Sep 2024 00:24:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ECHQSRSEI7KTJQHSTDS2I7L2EM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 26일 오전 6시 25분쯤 경남 고성군 영현면 영부리 영현면사무소 인근 편도 1차로에서 5t 트럭과 시내버스가 서로 충돌하는 사고가 났다.&lt;br&gt;&lt;br&gt;이 사고로 60대 트럭 기사가 숨지고, 60대 시내버스 기사는 중상을 입었다. 사고 당시 시내버스에 승객은 없었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 마주 오던 두 차량이 충돌한 원인 등 정확한 사고원인을 조사중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내일 오후 세종대로 전면통제... 서울 도심 대규모 법회·집회</title>
-      <link>https://www.chosun.com/national/2024/09/27/MTGIFHALBBEQXK3L2YQEAIXOPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/09/27/MTGIFHALBBEQXK3L2YQEAIXOPA/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Sep 2024 23:41:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BUEN6HFFPT7CTAMABVR2V73EOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 28일 대한불교조계종의 ‘2024 불교도 대법회’(국제 선명상 대회)와 전국민중행동의 대규모 집회가 열림에 따라 도심 곳곳에서 교통 혼잡이 예상된다.&lt;br&gt;&lt;br&gt;서울경찰청은 불교도 대법회의 본행사인 법회와 선(禪)명상이 예정된 이날 오후 2시부터 5시까지 세종대로(광화문∼세종대로교차로)의 차량 통행을 전면 통제한다. 경찰은 이 행사에 수만명이 참석할 것으로 보고 있다.&lt;br&gt;&lt;br&gt;또 전국민중행동은 이날 오후 3시부터 세종대로(태평로터리∼숭례문) 일대에서 집회를 열고 오후 3시 50분부터 한강대로를 통해 남영로터리까지 행진한다. 전국민중행동은 집회에 1만명이 참석한다고 신고했다.&lt;br&gt;&lt;br&gt;경찰은 당일 가변차로를 운영하고 교통경찰 170여명을 배치해 차량 우회를 돕는 등 시민 불편을 줄일 계획이다. 경찰 관계자는 “세종대로와 한강대로 일대에 교통 정체가 예상되니 가급적 대중교통을 이용해달라”며 “부득이하게 차량을 이용할 경우에는 교통정보를 미리 확인해달라”고 당부했다.&lt;br&gt;&lt;br&gt;집회 시간과 장소 등 자세한 교통상황은 서울경찰청 교통정보 안내 전화(☎02-700-5000)나 교통정보센터 홈페이지(&lt;a href="http://www.spatic.go.kr/" target="_blank"&gt;www.spatic.go.kr&lt;/a&gt;), 카카오톡(교통정보센터 내비게이션)을 통해 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/BUEN6HFFPT7CTAMABVR2V73EOY.jpg?width=3948&amp;height=2961&amp;auth=84e288e285c09dee6750cd3375e6bcf9eef53a13d7b9344b8fc25ca69d56c054&amp;smart=true" type="image/jpeg" height="2961" width="3948">
-        <media:description type="plain">서울경찰청 전경. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>초등학생 가방도 ‘탈탈’… 점심시간 빈 교실 턴 50대 실형</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/27/3LW6SXB2JRDUZJ3UUBJSEALU6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/27/3LW6SXB2JRDUZJ3UUBJSEALU6I/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Sep 2024 23:52:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KOLTCJDCXC63AS3GA5VDFOJLB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;텅 빈 초등학교 교실. 사진은 기사 내용과 관련 없음./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;점심시간 초등학교 교실이 비어있는 틈을 노려 현금과 상품권을 훔친 50대 남성이 실형을 선고받았다.&lt;br&gt;&lt;br&gt;대전지법 형사 4단독(재판장 이제승)은 특정범죄 가중처벌에 관한 법률 위반(절도) 등 혐의로 기소된 A(56)씨에게 징역 1년 8개월을 선고했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 4월 17일 오후 2시15분쯤 울산 남구 한 초등학교 1·2학년 교실에 들어가 캐비닛과 지갑 등을 뒤져 45만원 상당의 현금과 상품권을 훔친 혐의를 받는다.&lt;br&gt;&lt;br&gt;또 지난 4월 30일 오전 11시50분쯤 대전 대덕구의 한 초등학교 교실에 침입해 교사용 책상과 학생 가방 등에서 60만원 상당의 금품을 절취한 혐의로도 기소됐다.&lt;br&gt;&lt;br&gt;A씨는 점심시간에 초등학교 교실이 비어있다는 사실을 알고 뒷문으로 침입한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 동종범행으로 8차례 형사처벌을 받은 전력이 있음에도 또다시 범행했다”면서도 “절취한 금액이 크지 않은 점과 피해자들과 합의한 점 등을 참작했다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>하룻밤 사이 엄마와 딸 둘 추행한 이웃 남성…”이사했다”며 집행유예</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/27/KGLL32HSGFGZTAHFQQXMYOE3XM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/27/KGLL32HSGFGZTAHFQQXMYOE3XM/</guid>
-      <description/>
-      <pubDate>Thu, 26 Sep 2024 22:40:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6Z2CPKMHZF7JCPKBDGRQY6BL4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자기 집에 놀러 온 30대 여성과 어린 두 딸 등 세 모녀를 상대로 한밤중 성범죄를 저지른 이웃 남성이 징역형의 집행유예를 선고받자 검찰이 1심에 불복해 항소했다.&lt;br&gt;&lt;br&gt;27일 법조계에 따르면 춘천지법 영월지원 형사1부(재판장 이민형)는 성폭력범죄의 처벌 등에 관한 특례법 위반(13세 미만 미성년자 강제추행·준강제추행), 준강제추행 혐의로 불구속기소 된 40대 A씨에게 징역 3년에 집행유예 5년을 선고했다. 또 120시간의 사회봉사와 40시간의 성폭력 치료 강의 수강, 아동·청소년·장애인 관련 기관에 5년간 취업제한을 각각 명령했다.&lt;br&gt;&lt;br&gt;A씨는 작년 12월 3일 오후 8시 34분쯤 자기 아파트에 놀러 온 30대 이웃 주민 B씨와 식사를 겸해 술을 마셨다. B씨가 잠이 들자 함께 온 B씨의 10대 두 딸에 이어 B씨를 강제 추행한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;공소장에 따르면 A씨는 사건 당일 밤 오후 10시 30분쯤 자기 집 작은 방에서 B씨와 큰딸이 잠이 든 틈을 타 거실에서 혼자 영화를 보던 B씨의 작은 딸을 침대로 불러 신체를 만지는 등 2차례 추행했다. A씨의 추행에 B씨의 작은딸이 자기 집으로 가자, A씨는 이번에는 작은 방에 있던 큰딸의 옆에 누워 몸을 만지며 추행했다. 당시 큰딸은 잠을 자는 척하면서 A씨의 추행을 뿌리쳤다.&lt;br&gt;&lt;br&gt;A씨는 여기서 그치지 않고 술에 취해 작은 방에서 잠이 든 B씨의 옆에 누워 추행하는 등 밤사이 세 모녀를 상대로 추행한 사실이 공소장을 통해 드러났다.&lt;br&gt;&lt;br&gt;이튿날 B씨는 평소 친분이 있는 이웃으로 지내던 A씨가 자신뿐만 아니라 두 어린 딸까지 추행한 사실을 깨닫고 경악했다. 바로 자기 남편에게 피해 사실을 알리고 경찰에 신고했다. &lt;br&gt;&lt;br&gt;재판부는 “평소 친분으로 집에 놀러 온 지인과 그 자녀를 성범죄 대상 삼아 범행을 저질렀다는 점에서 죄질이 나쁘고 비난 가능성이 크다”며 “피해자들 역시 오랫동안 심각한 정신적 고통을 받은 점 등을 고려해 형을 정했다”고 했다. 다만 “의도적·계획적으로 이 사건 범행을 저지른 것이 아니고 원만하게 합의한 점, 미성년 피해자들의 정서적 회복을 위해 자신의 생활근거지를 옮긴 점 등을 양형에 참작했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;1심 판결에 양형 부당 등을 이유로 검찰만 항소한 이 사건의 2심은 서울고법 춘천재판부에서 다시 살핀다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 흉기 찌르고 계란 투척… 3년간 법정 난동 90여건</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/27/DJKWIQVHDNBBFPW5LOE3GSILTY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/27/DJKWIQVHDNBBFPW5LOE3GSILTY/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Sep 2024 20:06:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CTGM24Z25EX3A2HETGLAQPMMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지방법원 청사. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;흉기를 휘두르거나 계란∙물병을 투척하는 등 법정 내 폭력∙난동 사태가 최근 3년여간 90여 건 발생한 것으로 나타났다. 최근 재판 중 피고인을 살해하려 한 사건까지 벌어지자 대법원 법원행정처는 다음 주 ‘법정 보안 강화 대책’을 내놓을 예정이다.&lt;br&gt;&lt;br&gt;26일 박준태 국민의힘 의원실이 대법원에서 받은 자료에 따르면, 2021년 이후 올해 8월까지 법정에서 불거진 폭행∙상해 사건은 19건이었고, 단순히 욕설을 하거나 소란을 피우는 난동 사건을 포함하면 90건이 넘는 것으로 집계됐다. 이 밖에 법정 안팎에서 자해∙자살을 시도하거나, 피고인 등이 도주하는 일도 발생했다.&lt;br&gt;&lt;br&gt;지난달 28일 서울남부지법에서는 가상 자산 사기 사건으로 재판을 받던 업체 대표가 방청석에 있던 사기 피해자에게 흉기로 목을 찔리는 일이 발생했다. 언론에 이 살인 미수 사건이 알려지며 법원의 보안 문제가 지적됐다. 그런데 불과 일주일 전인 21일 대전지법에서도 법정에 나온 구속 피고인이 자신의 국선 변호인을 공격하는 일이 있었다. 가해 피고인은 몰래 준비해온 칫솔로 변론을 하던 변호인의 목을 가격해 8㎝ 길이 상처를 입혔다.&lt;br&gt;&lt;br&gt;2022년 7월 울산지법의 한 형사재판에서는 피고인과 채무 관계가 있던 방청객이 판결 선고 직후 소지하던 라이터로 피고인의 이마를 폭행했다. 같은 해 11월 대구지법 포항지원에선 방청석에 있던 사기 사건 피해자가 재판이 끝난 직후 피고인을 향해 계란을 던진 일도 벌어졌다. 계란이 피고인의 몸에 맞아 터지면서 검사의 사건 기록이 오염되기도 했다.&lt;br&gt;&lt;br&gt;판∙검사를 겨냥한 폭력 사건도 일어난다. 2021년 7월 광주지법의 한 손해배상 1심 재판에서 판사가 판결을 내리자, 이에 화가 난 이해관계자가 욕을 하며 판사에게 휴대전화를 집어던져 어깨에 부딪혔다. 그해 5월 인천지법에서는 피고인이 검사를 향해 뚜껑이 열린 물병을 집어던지는 일도 있었다.&lt;br&gt;&lt;br&gt;재판 전후로 응급 환자가 발생하는 사고도 최근 3년여간 130건가량 발생했다. 선고를 받기 위해 나온 피고인이 법정 복도에서 갑자기 심정지 상태에 빠지거나, 증인으로 나온 피해자가 법원 화장실에서 극단적 선택을 시도하기도 했다.&lt;br&gt;&lt;br&gt;전국 법원은 지난달 흉기 피습 사건 이후 법정에 테러를 막기 위한 투명 가림막을 설치하거나, 보안 관리 대원에게 가스총을 휴대하게 하는 등 개별 조치를 취하고 있다. 법원행정처는 이달 중순까지 각 법원에서 마련한 보안 강화 대책과 관련 인력∙예산∙장비 등에 대한 건의 사항을 보고받았고, 다음 주 종합적인 방안을 도출할 예정이다. 박 의원은 “법치주의에 도전하는 폭력 사고를 방지하고, 구멍 뚫린 법정 보안 시스템을 보완하기 위한 대책을 조속히 도입해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] ‘겨레의 심장된 고귀한 가족’ 반포 래미안 詩碑 놓고 시비</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/27/TSMAD2KKFNAPXMGHYYVLO3T7EU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/27/TSMAD2KKFNAPXMGHYYVLO3T7EU/</guid>
-      <dc:creator>김병권 기자, 안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Sep 2024 20:05:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZTYWEG5PBBGEDENTBKCUI2BABI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 반포동 래미안 퍼스티지 아파트 단지에 조성된 ‘영원한 파라다이스’ 시비(詩碑). /김병권 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남의 한 아파트 단지에 있는 시비(詩碑)의 내용이 최근 논란이 됐다. 서초구 반포동 래미안 퍼스티지 단지에 있는 ‘영원한 파라다이스-래미안 퍼스티지’라는 비석이다. 우면산 정기 받고 한강의 서기 어려 장엄한 우리의 궁궐’ ‘겨레의 심장 되시는 고귀하신 가족들’ 같은 문장에 대해 온라인상에서 “비싼 아파트에 거주하니 고귀하다는 말인가” “천박한 문장이다” 같은 지적이 제기됐다. 이 아파트는 2009년 반포주공 2단지를 재건축한 곳으로 지난 7월 84㎡(34평)가 43억원에 거래됐다.&lt;br&gt;&lt;br&gt;26일 본지 기자들이 찾은 아파트엔 논란이 된 비석 외에 유사한 시가 새겨진 시비가 하나 더 있었다. 주민 대다수는 시비의 존재 자체도 모르거나 내용을 거의 모르고 있었다. 주부 이모(49)씨는 “좋은 시라고 생각하는 건 아니지만 타인에게 피해를 준 것도 아니고 사유지에 세워진 비석을 두고 과도한 논란 같다”고 했다. 10년 넘게 이곳에 거주한 직장인 조모(28)씨는 “학창 시절 자주 본 비석인데 시 구절이 너무 낯간지러워 철거했으면 하는 바람이 있었다”고 했다.&lt;br&gt;&lt;br&gt;아파트 시공사인 삼성물산은 “2009년 준공 당시 재건축 조합의 결정으로 조성된 비석”이라고 했다. 당시 아파트 준공과 입주를 기념하려는 목적으로 세운 것으로 알려졌다. ‘영원한 파라다이스’ 원작자 구성달(79)씨는 “20년 전 재건축에 들어갈 때 주민인 내가 돈 한 푼 안 받고 조합에 투고한 것”이라며 “이제 와서 논란이 되는 건 이해가 가지 않는다”고 했다. 이어 “당시 주민들에게 희망을 주기 위해 쓴 시”라고 했다.&lt;br&gt;&lt;br&gt;실제 서울의 여러 재건축 아파트엔 비슷한 내용의 비석이 있다고 한다. 2019년 입주한 강동구 고덕동의 한 아파트에도 ‘꿈을 꾸었다. 아파트 조경의 신기원을 열겠다고’ ‘그 꿈은 어느 결에 사명이 되었다’ 같은 구절이 새겨진 시비가 있다. 역시 재건축 조합의 결정으로 조성됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
