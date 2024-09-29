@@ -13,6 +13,37 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>100억대 투자 사기 ‘가짜 수산업자’ 조력자들, 피해자 협박 등으로 유죄</title>
+      <link>https://www.chosun.com/national/regional/2024/09/29/JXBCL36HB5GJFJAXXCQTONEEKI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/29/JXBCL36HB5GJFJAXXCQTONEEKI/</guid>
+      <dc:creator>포항=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Sep 2024 09:38:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F7S2DUPUOQHMWOSGE5HVVJMVRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지방법원 포항지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;100억 원대 투자사기를 벌인 ‘가짜 수산업자’ 사건과 관련, 사기 피해자들을 협박한 조력자들에게 유죄가 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 포항지원 형사1단독 송병훈 부장판사는 공동공갈 등 혐의로 기소된 가짜 수산업자 김모(47)씨의 수행원 40대 A씨에게 징역 1년 2개월, 또 다른 수행원 30대 B씨에게 징역 1년 6개월에 집행유예 3년을 선고하고 보호관찰과 120시간 사회봉사를 명령했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;또 같은 혐의로 재판에 넘겨진 40대 수행원 C씨에게 벌금 400만원, 증거은닉 혐의로 기소된 20대 D씨에게 벌금 200만원을 선고했다.&lt;br&gt;&lt;br&gt;가짜 수산업자 김씨의 수행원으로 일하던 A씨와 B씨는 2020년 12월 부산에서 김씨에게 사기 피해를 입은 이들로부터 ‘투자금을 돌려달라’는 말을 듣자, 김씨와 합세해 욕설하거나 위해를 가할 것처럼 협박한 혐의를 받고 있다. 이들은 또 2021년 1월에는 또 다른 피해자가 피해자 법인 명의로 빌린 벤츠 승용차를 가져가자, 사무실 등을 찾아가 ‘차를 돌려달라’고 요구하며 가족에게 위해를 가할 듯 위협한 혐의 등으로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;또 이들과 수행원 C씨는 김씨 지시로, 2020년 12월 중고차 판매업자를 찾아가 위협해 2000만원을 받아낸 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 2021년 3월 김씨가 체포됐다는 연락을 받고, 김씨 주거지를 찾아가 김씨의 동거녀 D씨와 함께 노트북 1대와 컴퓨터 2대를 숨긴 혐의를 받는다.&lt;br&gt;&lt;br&gt;재판부는 “증거나 여러 사정에 비춰보면 피고인들이 피해자를 공갈한 것으로 판단된다. 또 A씨는 누범 기간에 범행을 저질렀고, 일부 피해자와는 합의도 되지 않았다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;한편, 가짜 수산업자 김씨는 2018년부터 2021년까지 “선동 오징어(배에서 잡아 바로 얼린 오징어)에 투자하면 수개월 안에 3∼4배의 수익을 낼 수 있다”고 속여 피해자 7명으로부터 총 116억 2000여만원을 받아 챙긴 혐의로 2022년 7월 대법원에서 징역 7년형이 확정돼 복역 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>순천 10대 여학생 피습 현장에 분향소...시민들 국화꽃 놓고 애도</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/29/B6ITLZJC4FEG3MH4C7KVBLP5MU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/29/B6ITLZJC4FEG3MH4C7KVBLP5MU/</guid>
+      <dc:creator>순천=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Sep 2024 09:08:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4OZFIE75TJLW7KB7OYR7HYAC7Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;29일 새벽 전남 순천시 조례동에 마련된 '묻지마 살인(추정)' 피해자를 추모하기 위한 애도 물결이 이어지고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 순천에서 10대 여학생을 잔혹하게 살해한 30대 남성의 신상이 알려지면서 지역사회의 공분과 추모가 이어지고 있다. 해당 사건 피의자는 혼자 소주 4병을 마신 뒤 일면식도 없는 여성을 살해한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;29일 전남 순천시에 따르면 지난 26일 순천시 조례동의 한 거리에서 일면식도 없던 남성에게 흉기 피습을 당해 숨진 여학생 A(18)양을 애도할 공간이 필요하다는 시민들의 요청을 받고 사건 현장에 분향소를 열었다.&lt;br&gt;&lt;br&gt;시민들은 “고인의 명복을 빈다” “다음 생에서는 고통 없길 바란다”는 글과 국화꽃을 남기며 A양의 넋을 달래고 있다.&lt;br&gt;&lt;br&gt;전남 순천경찰서에 따르면 경찰은 10대 여성을 살해한 혐의(살인)로 박모(30)씨를 구속해 수사 중이다. 박씨는 지난 26일 0시 40분쯤 전남 순천시 조례동의 한 거리에서 A(18)양을 흉기로 찔러 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A양은 흉기 피습을 당한 뒤 목격자가 “아는 사람이냐”고 묻자 “모르는 사람”이라고 답한 뒤 의식을 잃었던 것으로 전해졌다. 복부와 가슴 등에 중상을 입은 A양은 병원으로 옮겨져 치료를 받았지만 숨졌다.&lt;br&gt;&lt;br&gt;박씨는 약 2시간 30분이 지난 뒤 범행 현장으로부터 약 1.5㎞ 떨어진 곳에서 다른 사람과 시비가 붙었고, 신고를 받고 출동한 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;박씨가 검거된 뒤 그의 성명, 직업, 나이 등 신상정보도 온라인에 퍼지고 있다. 박씨는 다른 지역 출신으로 약 3개월 전 순천에서 프랜차이즈 식당을 열었다고 한다. 현재 이 식당 온라인 리뷰 창에는 “살인자” “평생 손가락질 받고 고통 속에 살아라”는 내용이 담긴 댓글이 달리고 있다.&lt;br&gt;&lt;br&gt;A양은 최근 검정고시에 합격한 뒤 경찰관을 꿈꾸며 대학 입시를 준비 중이었던 것으로 전해졌다. 경찰은 박씨가 사건에 앞서 여자친구와 다툰 정황을 확인하고 홧김에 ‘묻지마 범행’을 저질렀을 가능성을 따져보고 있다.&lt;br&gt;&lt;br&gt;박씨는 지난 28일 광주지법 순천지원에서 열린 구속영장 실질심사에서 취재진과 만나 “A양과 모르는 사이”라고 했다. 또 범행 이유에 대해 “(사건 당시) 소주를 네 병 정도 마셔서 기억이 나질 않는다”며 “증거는 다 나왔기 때문에 (범행을) 부인하지 않겠다”고 말했다.&lt;br&gt;&lt;br&gt;전남경찰청은 30일 신상정보공개위원회를 열고 박씨의 신상공개 여부를 심의한다.&lt;br&gt;&lt;br&gt;현행 ‘특정중대범죄 피의자 등 신상정보 공개에 관한 법률’은 수단의 잔인성, 중대한 피해, 충분한 증거, 국민의 알 권리, 공공의 이익 등 요건을 충족하면 피의자의 신상정보를 공개할 수 있도록 규정하고 있다. 경찰 관계자는 “신상정보 공개가 결정되면 얼굴·성명·나이 등 피의자 정보를 전남경찰청 홈페이지에 게시할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RZFW5UCNQRNMZPQYYEWWTBDGAE.JPG?width=1080&amp;height=810&amp;auth=34e09e97a95e849cd296d2f3689b48951639d0ef937d7e20e1806b7b8fb716b9&amp;smart=true" type="image/jpeg" height="810" width="1080">
+        <media:description type="plain">(순천=뉴스1) 김동수 기자 = 29일 새벽 전남 순천시 조례동에 마련된 '묻지마 살인(추정)' 피해자 추모 공간 인근에 현수막이 내걸렸다.(독자 제공)2024.9.29/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(순천=뉴스1) 김동수 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>강남 한복판서 미니쿠퍼 절도해 음주운전 한 주한미군...오산 美 공군기지 인근에서 검거</title>
+      <link>https://www.chosun.com/national/incident/2024/09/29/ETS5Z6U3CNC7ZI55JVAAFXWGUM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/29/ETS5Z6U3CNC7ZI55JVAAFXWGUM/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Sep 2024 09:02:23 +0000</pubDate>
+      <content:encoded>술에 취해 차량을 훔쳐 타고 50km를 운전한 주한미군이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NC4K3DDUZNBSLMYAWFFXXVDVHU.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;제7공군 마크./제7공군 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남경찰서는 주한 미군인 제7공군 소속 20대 남성 A씨를 절도 혐의로 긴급 체포했다고 밝혔다. A씨는 이날 오전 1시 30분쯤 서울 강남구 신사동의 한 골목에서 정차 중인 미니쿠퍼를 훔쳐 달아난 혐의를 받는다. &lt;br&gt;&lt;br&gt;건물 주차장의 장애물을 치우기 위해 잠시 하차했던 차량 주인 B씨는 차량을 가로막았지만 A씨는 이를 피해 달아난 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 차를 몰고 다니다 오전 2시 50분쯤 경기 오산의 공군기지 근처에서 경찰에 긴급 체포됐다. 검거 당시 A씨의 혈중알코올농도는 면허취소 수준이었던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 “도주 과정에서 다른 범죄가 발생했는지도 조사할 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>내년부터 5월 15일은 ‘세종대왕 나신 날’…국가기념일 지정</title>
       <link>https://www.chosun.com/national/national_general/2024/09/29/64BDNAM43FFRPFGGZGW27X7VXY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/29/64BDNAM43FFRPFGGZGW27X7VXY/</guid>
@@ -915,33 +946,6 @@
       <description/>
       <pubDate>Fri, 27 Sep 2024 12:06:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5WNW6ZQQPNDJHGYE5KXLOKJAKM.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울시가 오는 2028년 준공을 목표로 하고 있는 종로구 송현문화공원의 조감도. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이승만 대통령 기념관 부지로 거론됐던 서울 종로구 열린송현녹지광장에 서울광장 2배 크기의 녹지 공원이 조성된다. 광장 동편에 짓는 ‘이건희 미술관’과 함께 2028년 완공할 예정이다. 공원 지하에는 차량 450대를 댈 수 있는 주차장을 조성한다.&lt;br&gt;&lt;br&gt;서울시는 27일 이러한 계획을 확정하고 설계 용역을 발주했다고 밝혔다. 예상 조감도도 공개했다.&lt;br&gt;&lt;br&gt;서울 도심 한가운데 있는 열린송현녹지광장 부지는 우리나라 근현대사의 흔적을 담고 있는 땅이다. 일제강점기에 식산은행 사택이 있었고 해방 이후에는 미군과 미 대사관 숙소로 쓰였다. 이후 높은 담장에 둘러싸인 채 방치돼 있었는데, 서울시가 이 부지를 사들여 2022년 녹지 광장으로 개방했다.&lt;br&gt;&lt;br&gt;작년 11월 이승만 대통령 기념관 건립추진위원회가 “열린송현녹지광장에 기념관을 짓자”고 제안해 광장 서편에는 기념관, 동편에는 미술관을 짓는 방안을 검토했다. 이승만 대통령 기념관 건립 부지는 지난달 용산구 국립중앙박물관 옆 공터로 최종 확정됐다.&lt;br&gt;&lt;br&gt;녹지 공원은 2만7000㎡ 크기다. 넓은 잔디밭 곳곳에 나무를 심어 ‘도심 속 정원’ 형태로 조성한다. 서울시 관계자는 “잔디밭에서 다양한 문화 행사도 열 계획”이라고 했다.&lt;br&gt;&lt;br&gt;지하 주차장은 승용차 400대, 관광버스 50대를 댈 수 있는 규모로 만든다. 서울시 관계자는 “서울 도심 주차난을 완화하는 데 도움이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;이건희 미술관은 광장 동편 1만㎡ 부지에 들어선다. 고(故) 이건희 삼성전자 회장이 기증한 그림 등 2만3000여 점을 전시할 예정이다. 2025년 착공해 2028년 개관한다는 계획이다.&lt;br&gt;&lt;br&gt;서울시는 미술관 개관 일정에 맞춰 녹지 공원을 조성하기로 했다. 임창수 서울시 미래공간기획관은 “열린송현녹지광장 일대가 대한민국을 대표하는 문화 관광 명소가 되길 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘손태승 친인척 부당대출’ 의혹...우리은행 前본부장 구속</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/27/FWQ2OH4OGVFRVND3VTQ3AYAMEU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/27/FWQ2OH4OGVFRVND3VTQ3AYAMEU/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Sep 2024 11:48:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AGR4CG6YURKKHEI5CRSKXVY2KQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손태승 전 우리금융지주 회장 친인척 부당대출 의혹과 관련해 대출을 주도한 핵심 인물로 알려진 우리은행 임모 전 본부장이 27일 서울 양천구 서울남부지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;손태승 전 우리금융지주 회장의 350억원대 친인척 부당 대출과 관련해 이를 주도한 혐의를 받는 우리은행 전 본부장이 27일 구속됐다.&lt;br&gt;&lt;br&gt;서울남부지법 한정석 영장전담 판사는 이날 오후 2시쯤 특정경제범죄가중처벌법상 배임·수재 혐의로 임모 전 본부장에 대한 영장실질심사를 진행했다. 한 판사는 “증거를 인멸할 염려와 도망할 염려가 있다”며 임 전 본부장에 대한 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;검찰에 따르면 임 전 본부장은 우리은행 신도림금융센터장, 선릉금융센터장을 맡으며 손 전 회장의 처남 김모씨와 친분을 쌓은 뒤 부당 대출을 주도한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이날 오후 1시 50분쯤 서울남부지법에 출석한 임 전 본부장은 “친인척 관련 대출이 정상적인 절차를 밟았느냐” “대출해주고 대가성 금품을 받았느냐” 등의 질문을 받지 않고 묵묵히 법정에 들어갔다.&lt;br&gt;&lt;br&gt;우리은행은 지난 2020년 4월부터 올해 1월까지 손 전 회장의 친인척에게 350억원 규모의 부당 대출을 내준 사실이 지난달 초 금융당국에 의해 적발된 바 있다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난달 27일 손 전 회장의 친인척 부당 대출과 관련, 서울 중구 우리은행 본점 및 선릉금융센터 등 사무실 8곳과 사건 관계자 주거지 4곳 등에 검사와 수사관을 보내 압수수색을 진행했다. 또한 검찰은 지난 24일 손 전 회장의 처남 김씨를 특정경제범죄가중처벌법상 횡령·사문서위조 등 혐의로 구속기소했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>박봄, 이민호 사진 올리고 “남편♥”… 해킹 의혹 받은 게시물 뭐길래</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/27/HQIZTSYGTRF25HGV4YNYUAC2WI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/27/HQIZTSYGTRF25HGV4YNYUAC2WI/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Sep 2024 10:46:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UCPOMSBJMRC6ZOYGFQR46OVTYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 박봄, 배우 이민호. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 투애니원의 멤버 박봄이 자신의 인스타그램에 배우 이민호 사진과 함께 “남편♥”이라는 문구를 적은 게시물을 올려 ‘셀프 열애설’이 불거졌다. 다소 생뚱맞은 게시물에 일각에서는 계정이 해킹당한 것 아니냐는 의혹까지 제기됐다.&lt;br&gt;&lt;br&gt;27일 오후 박봄 공식 인스타그램 계정에는 박봄과 이민호 사진을 나란히 배치한 사진과 함께 “진심 남편♥”이라는 문구가 적힌 게시물이 올라왔다. 하단에는 ‘이민호’ ‘박봄’ 등의 해시태그(#)가 붙었다.&lt;br&gt;&lt;br&gt;현재 이 게시물에는 댓글 4000개 이상이 달리고 있다. 국내는 물론 해외 네티즌들은 “정말 결혼하는 거냐” 등 의문을 드러냈다.&lt;br&gt;&lt;br&gt;앞서 박봄은 여러 차례 이상형으로 이민호를 꼽았다. 2013년 한 라디오 방송에 출연해 ‘투애니원 공연에 한 명의 남자 배우를 초대한다면 누구를 초대하겠냐’는 질문에 주저 없이 “이민호”라고 답했다. 또 2014년 라디오 방송에서도 이상형에 대해 “이민호, 김우빈 씨처럼 키 큰 분을 좋아한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A6U5CCS33VAI5H3NUVSSNXJYIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박봄이 27일 이민호 사진과 함께 "남편"이라는 문구를 적어 올렸다. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일각에서는 해킹 가능성을 제기하기도 했다. 한 네티즌은 “그간 게시물도 잘 안 올리다가 요 며칠 폭주 중”이라며 “해킹당한 것 아니냐”고 했다.&lt;br&gt;&lt;br&gt;이와 관련, 박봄 소속사 관계자는 “박봄이 요즘 드라마 ‘상속자들’을 보고 있는데, 주인공인 이민호씨에 푹 빠져서 그런 게시물을 올리게 된 것 같다”며 “특별한 이유 없는 해프닝”이라고 했다. 그러면서 “해당 게시물을 내릴 것”이라고 했다.&lt;br&gt;&lt;br&gt;박봄 측근은 OSEN에 “단순 팬심에 올린 것으로 보인다”며 “열애는 아닐 것”이라고 했다. 해킹 의혹에 대해선 “본인에게 직접 확인 중”이라고 했다.&lt;br&gt;&lt;br&gt;한편 박봄은 오는 10월 4일부터 6일까지 투애니원 데뷔 15주년 기념 공연 단독 콘서트에 참여한다. 투애니원이 콘서트에서 완전체로 무대를 선보이는 건 10년 6개월 만이다. 서울 콘서트를 시작으로 아시아 투어도 진행한다. 구체적으로 11월 16일 마닐라, 11월 23일 자카르타, 11월 29~12월 1일 고베, 12월 13~15일 도쿄, 12월 8일 홍콩, 12월 21일, 내년 1월 25일 방콕, 2월 8일 타이베이에서 각각 열릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 환경부 청사 내 ‘일회용컵 사용 금지’…연내 전국 공공기관 확대 추진</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/09/27/NRY7O7NOT5B7TGPI7CQ5LMB5XM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/09/27/NRY7O7NOT5B7TGPI7CQ5LMB5XM/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Sep 2024 09:58:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I4ZD7NEI7BNXXLAZPRJWCMK3UY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 커피전문점에 일회용컵이 쌓여 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다음 주부터 환경부 및 전국 산하·소속기관에서 일회용컵 사용이 금지된다. 환경부는 현재 ‘권고’로 돼 있는 공공기관 내 일회용품 줄이기 지침을 ‘금지’로 바꿀 수 있는 방안도 검토 중이다.&lt;br&gt;&lt;br&gt;27일 환경부에 따르면, 오는 30일부터 환경부 세종청사와 전국 20개 소속기관 청사에서 일회용컵 사용이 금지된다. 다음 달 7일부터는 한국수자원공사·한국환경공단 등 환경부 11개 산하기관에서도 사용이 금지된다. 김완섭 환경부 장관은 “환경부 공무원부터 일회용컵 사용을 자제하자는 취지”라고 했다.&lt;br&gt;&lt;br&gt;현재 ‘공공기관 일회용품 등 사용 줄이기 실천 지침’이라는 국무총리 훈령에 따라 각 공공기관에선 일회용품 사용 자제가 권고되고 있다. 다만 이 지침이 권고에 그치는 만큼 ‘일회용품 줄이기 캠페인’ 등을 벌일 때를 제외하면 열기가 금세 시들해진다는 한계가 있었다.&lt;br&gt;&lt;br&gt;환경부는 연말까지 국무총리실과 각 부처, 전국 지자체 등과 협의해 현재 ‘권고’로 돼 있는 현재 지침을 ‘금지’로 바꿀 수 있는 안을 검토 중이다. 이렇게 되면 정부 부처에선 일회용컵 사용이 모두 금지된다. 각 지자체는 지자체장이 ‘권고’와 ‘금지’ 중 하나를 선택할 수 있게 된다.&lt;br&gt;&lt;br&gt;환경부 관계자는 “환경부가 일회용품 줄이기 정책을 펼치는 만큼 환경부 공무원부터 솔선수범하자는 의미”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>연매출 118억원… ‘빚 2억’ 30대, 고기 팔아 인생 역전한 사연 </title>
