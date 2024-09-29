@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[기억과 추모] 최광률 초대 헌법재판관 별세</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201681.jpg" alt="201681.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5727"&gt;최광률&amp;nbsp;&lt;/span&gt;초대 헌법재판관이 29일 별세했다. 향년 88세.&lt;br /&gt;&lt;br /&gt;1936년 서울에서 태어난 최 전 재판관은 서울대 부설고와 서울대 법대를 졸업하고, 1958년 제10회 고등고시 사법과에 합격했다. 이후 1962년 대전지법 판사로 임관해 서울형사지법·서울민사지법 판사를 지냈다. 1969년 변호사로 개업한 뒤 명지대 강사, 공증인가 아세아합동법률사무소 대표변호사, 대한변호사협회 사무총장, 사법연수원 강사, 한국법학원 총무이사, 동양종합 법무법인 대표변호사, 공정거래위원회 비상임위원 등을 역임했다. 1988~1994년까지 초대 헌법재판관을 지냈다.&lt;p&gt;&lt;br /&gt;1983년 국민훈장 모란상을, 1990년 한국법률문화상을, 1997년 청조근청훈장을 받았다.&lt;br /&gt;&lt;br /&gt;한국행정판례연구회 명예회장을 지내던 2021년에는 헌정논문집 '규범과 현실의 조화-합리성과 실효성' 출간기념회도 열었다. 최 전 재판관의 업적을 기념하기 위해 국내 저명 법률가 32명이 논문집 작성에 참여했다.&lt;br /&gt;&lt;br /&gt;고인의 유족으로는 부인 기혜자 씨와 딸 혜경·미경·유경 씨, 사위 김용균·김진우·최창원 씨 등이 있다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;빈소는 서울대학교병원 장례식장 1호실에 차려졌다. 발인은 10월 1일 오전 7시 가회동 성당에서 진행된다. 장지는 가평읍 금대리 선산이다.&lt;/p&gt;</description>
+			<pubDate>Sun, 29 Sep 2024 04:29:59 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201681</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201681</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201681.jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 일회용 바늘 재사용한 한의사 면허정지 처분… 법원 "처분 정당"</title>
 			<description>&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201633.jpg" alt="201633_as.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=어도비스톡》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;사용 후 폐기해야 하는 일회용 바늘을 소독해 재사용한 한의사에 대해 보건복지부가 내린 1개월 면허 자격정지 처분은 정당하다는 법원 판단이 나왔다.&lt;br /&gt;&lt;br /&gt;서울행정법원 행정1부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9396"&gt;양상윤&amp;nbsp;&lt;/span&gt;부장판사)는 7월 12일 한의사 A 씨가 보건복지부장관을 상대로 제기한 한의사 면허 자격정지 처분 취소 소송(&lt;b&gt;2023구합83592&lt;/b&gt;)에서 원고 패소 판결했다.&lt;br /&gt;&lt;br /&gt;2002년경부터 대구에서 한의원을 운영한 A 씨는 2017년 3월부터 2018년 12월까지 환자 11명에게 일회용 멀티니들(MTS)을 소독해 재사용한 것으로 조사됐다. MTS(Microneedle Therapy System)는 미세 침을 이용해 피부의 재생력과 회복력을 높혀주는 치료 방법이다. 보건복지부는 2023년 8월 구 의료법 제66조 제1항과 의료법 시행령 제32조 제1항, 의료관계 행정처분 규칙 제4조에 따라 A 씨에게 한의사 면허 자격정지 1개월 처분을 내렸다.&lt;br /&gt;&lt;br /&gt;A 씨는 "MTS 시술행위는 진료행위에 해당하지 않고, 1회에 한해 멀티니들을 철저히 소독해 재사용했을 뿐 아니라 환자들에게 건강상 문제가 발생한 적도 없어 비도덕적 진료행위에 해당하지 않는다"며 처분 취소해 달라는 소송을 냈다.&lt;br /&gt;&lt;br /&gt;법원은 A 씨의 주장을 받아들이지 않았다.&lt;br /&gt;&lt;br /&gt;재판부는 "의료기기법 제3조 제2항, 구 의료기기법 시행규칙 제2조 등에 따르면 MTS 기기는 '의약품 흡수 유도 피부 자극기'에 해당하는 의료기기"라며 "A 씨는 화장품의 흡수를 돕기 위해 0.25 ~ 0.5mm 길이의 일회용 멀티니들이 부착된 MTS 기기로 환자들의 피부를 자극해 화장품의 흡수를 돕는 시술을 했는데, 이러한 MTS 시술행위는 시술기구, 시술방법과 내용, 시술 과정에서 발생할 수 있는 피부 손상 및 감염의 가능성 등을 고려할 때 의학적 전문지식을 기초로 하는 경험과 기능으로 의료인이 행하지 않으면 보건위생상 위해가 생길 수 있는 의료행위(진료행위)에 해당한다"고 지적했다.&lt;br /&gt;&lt;br /&gt;이어 "문제가 된 일회용 멀티니들이 구 의료법 제4조 제6항에 따른 재사용 금지 일회용 주사 의료용품에 해당하지 않더라도, MTS 시술에서 멀티니들을 재사용할 경우 감염 등의 위험이 있어 A 씨의 위반 행위는 사회 통념상 의료인에게 기대되는 바람직한 진료행위에 어긋나는 비도덕적 진료행위에 해당한다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;그러면서 "의료인의 업무는 일반 국민의 생명과 건강에 직접적으로 영향을 미치므로 상당히 높은 수준의 준법 의식이 요구된다"며 "일회용 멀티니들의 재사용으로 인한 감염 가능성과 A 씨의 위반 행위 횟수, 기간, 대상 환자 수 등을 고려할 때 위법성의 정도가 결코 가볍지 않고 구체적으로 환자에게 위험이 발생하지 않았다고 해서 달라지지 않는다"라고 덧붙였다.</description>
 			<pubDate>Sun, 29 Sep 2024 00:10:16 -0000</pubDate>
@@ -232,16 +242,6 @@
 			<link>https://www.lawtimes.co.kr/news/201637</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201637</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201637.jpg</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
-		</item>
-		<item>
-			<title>“능력 뛰어나도 추천·투표 통과해야 법원장 되는 현실 문제있다”</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201642.jpg" alt="200613.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;내년 초 법관 인사를 앞두고 ‘법관의 꽃’으로 불린 고등부장 및 고법판사의 지방법원장 보임 길이 열릴지 법원 안팎의 관심이 뜨겁다. 대법원 사법정책자문위원회(위원장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3865"&gt;권오곤&lt;/span&gt;)가 25일 대법원에서 열린 제 4차회의에서 법원의 종류와 심급에 관계없이 능력과 자질을 갖춘 법관이 법원장 후보에 포함될 수 있도록 제도를 손질해야 한다고 건의한 데 따른 것이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;지난 코트에서는 김명수 전 대법원장이 도입한 ‘법원장 후보 추천제’가 시행되면서 지방법원의 부장판사만 지방법원장으로 보임돼 왔다. 법원장 후보 추천제는 각 법원 소속 법관이 투표를 통해 추천한 후보 가운데 1명을 대법원장이 법원장으로 임명하는 제도다. 김명수 코트가 법원 관료문화를 타파하고 인사에 구성원의 의견을 폭넓게 반영하겠다며 2019년 도입했다. 하지만 역량 있는 고법 부장판사들의 법원장 임명을 막는다고 우려하는 목소리가 높았다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;자문위는 “법원장 후보 추천제는 민주적이고 수평적인 사법행정 구현과 법관인사 이원화 제도의 정착에 기여했으나 충분한 적임자 추천의 한계, 추천절차 진행 과정에서의 논란 등으로 법원장 보임제도를 합리적으로 개선할 필요가 있다”고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;그러면서 “지방법원의 법원장은 소속 법관 중에서 보임하는 방안을 지향하되, 법원의 특성과 후보군 등을 살펴 필요한 경우에는 소속 법원의 종류 및 심급에 관계없이 능력과 자질을 갖춘 법관이 법원장 후보로 포함될 수 있도록 허용하는 것이 바람직하다”고 건의했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;법원행정처가 자문위의 건의와 법원 구성원의 의견을 반영해 법원장 보임제도 개편안을 마련하고 내년 초 법관 정기인사에 적용할 방침이어서 내년 인사에 어떤 변화가 있을지 관심이 쏠린다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;이날 자문위는 지방법원과 고등법원으로 법관 인사를 이원화하는 현행 제도에 대해서도 개선이 필요하다고 밝혔다. 자문위는 이원화 제도 추진은 바람직하다면서도 “고등법원 판사의 순환근무 제도를 이원화 제도의 취지에 부합하도록 개선할 필요가 있다”며 “다른 고등법원의 재판장 공석 충원 등에 필요한 범위 내에서 제한적으로 실시하는 것이 바람직하다”고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;자문위는 또 “지방권 고등법원 판사 지원을 활성화하기 위해 일정 기간 근무한 고등법원 판사가 지방법원으로의 복귀를 희망할 경우 이원화의 정착에 지장이 없는 범위 내에서 허용하고, 지방법원에서 충분한 경력을 쌓은 법관이 고등법원 판사로 보임된 경우 재판장 보임 시기가 단축될 수 있도록 재판장 보임 요건을 완화할 필요가 있다”고 밝혔다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;</description>
-			<pubDate>Fri, 27 Sep 2024 20:06:43 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201642</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201642</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201642.jpg</media:thumbnail>
 			<dc:creator>홍윤지 기자</dc:creator>
 		</item>
 	</channel>
