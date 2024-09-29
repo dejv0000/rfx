@@ -13,6 +13,126 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>내년부터 5월 15일은 ‘세종대왕 나신 날’…국가기념일 지정</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/29/64BDNAM43FFRPFGGZGW27X7VXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/29/64BDNAM43FFRPFGGZGW27X7VXY/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Sep 2024 08:04:04 +0000</pubDate>
+      <content:encoded>내년부터 5월 15일은 ‘세종대왕 나신 날’, 5월 27일은 ‘우주항공의 날’로 국가기념일이 된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2GG3GVLUKFPNVGZMMRRXRIZFNA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 광화문광장 세종대왕 동상 앞에서 태극기가 휘날리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부는 이 같은 내용을 담은 ‘각종 기념일 등에 관한 규정’ 개정안을 11월 4일까지 입법예고한다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;그동안 정부와 지방자치단체, 시민단체 등은 세종대왕 탄신일인 5월 15일마다 세종대왕의 탄생을 기리는 행사를 열어왔다. 이에 일각에서는 ‘세종대왕 탄신일을 국가기념일로 지정해야 한다’는 주장도 있었다.&lt;br&gt;&lt;br&gt;행안부 관계자는 “‘세종대왕 나신 날’이 국가기념일로 지정되면 세종대왕을 기리는 행사가 지금보다 더 확대될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;한편 우주항공청이 출범한 5월 27일은 우주 경제에 대한 국민적 관심을 높이기 위해 ‘우주항공의 날’로 지정된다.&lt;br&gt;&lt;br&gt;세종대왕 나신 날은 문화체육관광부와 국가유산청이, 우주항공의 날은 우주항공청이 각각 주관 부처다.&lt;br&gt;&lt;br&gt;입법예고 내용은 국민참여입법센터 등에서 확인할 수 있다. 개정안에 대한 의견은 우편, 팩스, 국민참여입법센터 등으로 제출하면 된다.&lt;br&gt;&lt;br&gt;행안부 관계자는 “정확한 시행일이 아직 정해진 건 아니다”라며 “올해 국무회의를 거쳐 내년부턴 이 두 날이 국가기념일에 포함될 것으로 보고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>순천 10대 여성 살해 피의자 신상 공개되나</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/29/GUNHXXCFQVAUJGY6G7MPQU5MEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/29/GUNHXXCFQVAUJGY6G7MPQU5MEY/</guid>
+      <dc:creator>무안=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Sep 2024 07:49:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RZFW5UCNQRNMZPQYYEWWTBDGAE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;29일 새벽 전남 순천시 조례동에 마련된 '묻지마 살인(추정)' 피해자 추모 공간 인근에 현수막이 내걸렸다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 전남 순천에서 10대 여성을 살해한 30대 남성의 신상공개 여부를 심의한다.&lt;br&gt;&lt;br&gt;전남경찰청은 “30일 오후 신상정보공개위원회를 열고 살인 혐의로 구속된 A(30)씨에 대한 신상공개 여부를 심의한다”고 29일 밝혔다. A씨는 지난 26일 0시 40분쯤 전남 순천시 조례동의 거리에서 B(18)양을 흉기로 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;현행 ‘특정중대범죄 피의자 등 신상정보 공개에 관한 법률’은 수단의 잔인성, 중대한 피해, 충분한 증거, 국민의 알 권리, 공공의 이익 등 요건을 충족하면 피의자의 신상정보를 공개할 수 있도록 규정한다. 위원회는 7인 이상으로 구성되며 과반수 이상이 외부 위원으로 채워져야 한다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “신상정보 공개가 결정되면 얼굴·성명·나이 등 피의자 정보를 전남경찰청 홈페이지에 게시할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RZFW5UCNQRNMZPQYYEWWTBDGAE.JPG?width=1080&amp;height=810&amp;auth=34e09e97a95e849cd296d2f3689b48951639d0ef937d7e20e1806b7b8fb716b9&amp;smart=true" type="image/jpeg" height="810" width="1080">
+        <media:description type="plain">(순천=뉴스1) 김동수 기자 = 29일 새벽 전남 순천시 조례동에 마련된 '묻지마 살인(추정)' 피해자 추모 공간 인근에 현수막이 내걸렸다.(독자 제공)2024.9.29/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(순천=뉴스1) 김동수 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>[오늘의 운세]  9월 30일 월요일 (음력 8월 28일 丁酉)</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/29/IBXUE2JOGJEYVASMUECLF3EDZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/29/IBXUE2JOGJEYVASMUECLF3EDZE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Sep 2024 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 대인관계의 첫 번째 원칙, 존중과 배려. 48년생 내가 편해야 주위 사람도 편안. 60년생 더불어 함께할 때 더 발전. 72년생 동료와의 결속력이 성패를 좌우. 84년생 얼굴 표정에 각별히 신경 쓰도록. 96년생 지금까지 핑계로 성공한 사람은 없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 희망은 익숙한 곳에 있다. 49년생 목돈을 기대했으나 푼돈이 되었구나. 61년생 주변 사람의 고민에 너무 깊이 개입 마라. 73년생 정직이 최상의 방책. 85년생 과로, 과민, 과식 3과를 조심. 97년생 분노할 때 하는 말이 경우를 벗어난다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 구름 걷힌 밤하늘에 달빛이 밝구나. 50년생 숫자 3, 8과 푸른색은 피하라. 62년생 만사형통은 집안 화목으로부터. 74년생 실물수 있으니 사전 예방하도록. 86년생 한 걸음 양보하면 두 걸음 전진. 98년생 강인한 심지와 유연한 자세로 무장하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 책임 따르는 일은 섣불리 나서지 마라. 39년생 확장 말고 현 상황을 유지하도록. 51년생 알아도 모르는 척. 63년생 어리석은 양은 늑대에게 하소연한다. 75년생 어설픈 감정 표현은 오해 살 수도. 87년생 언제나 선택은 자신 몫. 99년생 포장이 내용과 다를 수 있다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 어려움 있다면 원숭이띠에게 부탁하라. 40년생 기회는 왔을 때 잡는 것. 52년생 추락 지점이 상승 지점. 64년생 평온한 일상에 행복 깃든다. 76년생 본분 지키는 게 중요. 88년생 이성 간 문제 생길 수 있으니 이해와 배려 필요. 00년생 매사에 장애 많은 하루.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 자존심에 고집부리면 시비만 초래. 41년생 배뇨기관 질환 주의. 53년생 계획보다 의욕 앞서면 후회막급. 65년생 서쪽은 피하는 게 상책. 77년생 쉽게 생각한 게 어려움으로 닥칠 수도. 89년생 앞길이 구만 리 조급할 것 없다. 01년생 아무리 굶주려도 씻나락은 먹지 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 집안 편하면 만사형통. 42년생 감사와 고마움 속에 고달픔도 즐거움. 54년생 이롭지 못하니 북쪽 출입 삼가도록. 66년생 덤벙대지 말고 침착성 유지하라. 78년생 이래도 저래도 그만. 90년생 오늘을 놓치고 다시 언제를 기다리나. 02년생 절기와 시운은 예외 없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 가까울수록 계산은 정확하게. 43년생 금전적 이익 기대해도 좋다. 55년생 내부 무시하고 외부를 넓힐 수 있겠나. 67년생 자신만의 공동체를 구축하도록. 79년생 여건에 맞는 전략 필요할 듯. 91년생 여유로움은 바쁠 때 짜내는 것. 03년생 세상사 뜬구름 같은 것을.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 바람 등진 백로 날갯짓이 수월. 44년생 조급한 추진이 실패 부를 수도. 56년생 긴 안목에서 큰 흐름 주목해야. 68년생 친한 사이일수록 예의는 더 필요. 80년생 손실 있어도 약속 꼭 지키도록. 92년생 투자 문제면 한 번 더 고민. 04년생 무리 말고 현실에 충실하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 백지장도 맞들면 나으니 협조 구하라. 45년생 건강은 과신하는 것이 아니다. 57년생 신상(身上)은 곤(困)하지만 큰 흉(凶)은 없다. 69년생 하나를 들어 두 개를 얻은 격. 81년생 첫 끗발 좋아할 것 없다. 93년생 말 한마디로 천 냥 빚을 갚는다 했다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 안 하는 것보다 늦더라도 하는 것이 낫다. 46년생 나무만 보고 숲을 판단하면 오산. 58년생 사려 깊지 못한 처신은 땅을 치고 후회할 일. 70년생 주변의 도움이 기대되는 시기. 82년생 우연히 나선 여행에 소득 있다. 94년생 시작했으면 어떤 어려움도 불사해야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 삼수갑산을 가더라도 임 따라 가랬다. 47년생 긁어 부스럼 만들지 마라. 59년생 필요 이상의 인내는 병 된다. 71년생 뜻하지 않은 귀인의 도움으로 어려움 해결. 83년생 분주한 세상에 마음이 번잡. 95년생 동분서주 뛰고 또 뛰어도 현실은 제자리.	&lt;br&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한·베트남 치안협력 확대...베트남서 치안총수 회동</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/29/7TWEYRABXBCJFDMKGI6JOILBUY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/29/7TWEYRABXBCJFDMKGI6JOILBUY/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Sep 2024 06:24:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5JWC7ZGB5A6NI6HYM4E7333RQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조지호 경찰청장과 루옹 탐 쿠앙 베트남 공안부 장관. /경찰청
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국과 베트남이 온라인 불법도박, 디지털성폭력 등 국경을 뛰어넘는 범죄 해결을 위해 치안 협력을 확대하기로 했다. 한국과 베트남은 치안 협력 공조로 최근 150억대 불법 도박 조직을 합동으로 검거한 바 있다. 베트남 방문 한국 관광객이 역대 최고를 기록하는 등, 여러 분야에서 치안 협력 필요성이 커지고 있는 국가다.&lt;br&gt;&lt;br&gt;29일 경찰청에 따르면 조지호 경찰청장은 28일부터 이틀간 베트남 하노이에서 팜 민 찐 베트남 총리와 르엉 땀 꽝 공안부 장관을 잇달아 만났다.&lt;br&gt;&lt;br&gt;조 청장은 찐 총리와 만난 자리에서 “베트남과 한국이 지난 수년간 다양한 분야에서 협력해 온 포괄적 전략 동반자 관계를 바탕으로, 치안 협력에서도 성공적인 성과를 이뤄냈다”고 했다. 찐 총리는 “한국과 베트남의 치안 협력은 전 세계적으로 모범적인 사례로 평가받는다”며 “앞으로도 양국의 경찰 협력은 지속해서 강화될 것”이라고 했다.&lt;br&gt;&lt;br&gt;르엉 땀 꽝 장관과 치안 총수 회담에서는 초국경 범죄에 대한 양국의 공조를 더욱 강화하기로 합의했다. 최근 양국 경찰은 합동 수사를 통해 하노이에서 약 150억 원 규모의 불법도박 사이트를 운영하던 범죄 조직을 검거하기도 했다. 공안과 경찰 합동 작전으로 주요 조직원 검거한 뒤 중요 피의자 5명을 송환했다.&lt;br&gt;&lt;br&gt;치안 총수 회담에서는 한국 경찰이 개발한 디지털 성폭력물 국제 대응 플랫폼 ‘아이나래’에 베트남 공안이 참여하는 방안에 대해서도 논의했다. ‘아이나래’는 각국의 법 집행 기관들과 디지털 성착취물의 유포 현황을 공유해 신속히 삭제, 차단하고자 한국 경찰이 개발했다.&lt;br&gt;&lt;br&gt;양국은 베트남 최고 지도자인 또 럼 서기장이 공안부 장관이던 2017년부터 양국 치안 총수급 교류를 하며 과학수사, 범죄자 송환 등에서 치안 협력 모델을 구축했다. 한국 경찰과 베트남 공안은 ‘혈흔 및 화재감식 등 베트남 과학수사 역량 강화 프로젝트’를 비롯한 다양한 협력 사업을 진행하기로 했다. 한국 경찰은 그동안 네 차례에 걸친 공적개발원조(ODA) 사업을 통해 베트남 공안에 현장증거분석, 디엔에이(DNA) 감정, 디지털포렌식, 교통사고 예방 및 수사기법 기술을 전수했다.&lt;br&gt;&lt;br&gt;조 청장은 베트남 교민과 현지에서 활동하는 국내 기업 관계자들과 간담회도 진행했다. 베트남 관광청에 따르면 베트남을 방문한 한국 관광객 수는 꾸준히 늘고 있으며 올해는 4월까지 역대 최대인 160만명을 기록했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘윤석열 퇴진’ 외치던 집회 참가자 1명 경찰 밀치다 체포</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/29/3DC4EMRYSVFCFN2S2OYTPIH3E4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/29/3DC4EMRYSVFCFN2S2OYTPIH3E4/</guid>
+      <dc:creator>강우석 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Sep 2024 07:41:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/352FJBIBZJJYXEEMWXI32H532E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 정권 퇴진 전국동시다발 시국대회 참가자들이 28일 오후 서울 용산구 대통령실로 행진하던 중 숙대입구역 인근에서 연막탄을 터뜨리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 도심에서 연막탄을 이용한 정권 퇴진 운동을 벌이다 이를 말리는 경찰을 밀친 집회 참가자가 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;서울 용산경찰서는 지난 28일 오후 4시쯤 용산구 숙대입구역 인근에서 집회에 참여한 진보단체 회원 A씨를 공무집행방해 혐의로 현행범 체포했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;이날 전국민중행동·민주노총·자주통일평화연대·전국비상시국회의 등 진보단체들은 오후 3시부터 서울 중구 시청역 일대에서 ‘윤석열 정권 퇴진 시국대회’를 개최한 뒤 대통령실 인근인 남영사거리까지 행진했다. 이 과정에서 일부 참가자가 붉은 연기가 나오는 연막탄을 세 차례 터트렸다. 경찰이 연막탄 사용을 저지하자  A씨는 이 과정에서 경찰을 강하게 밀쳐 체포됐다. A씨 외 참가자들은 경찰과 대치하며 행진을 멈추기도 했다.&lt;br&gt;&lt;br&gt;경찰은 연막탄을 사용한 참가자를 특정하기 위해 입건 전 조사(내사)에 착수했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 30대男에게 마약 받은 10대 여학생 투신 사망</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/29/SZ3T2J47H5FRVLTJGM4B7U53DM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/29/SZ3T2J47H5FRVLTJGM4B7U53DM/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Sep 2024 07:38:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IGIHAZOU5FAIPJ3UOE7BIX4Y2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강서경찰서. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미성년자에게 마약을 건넨 30대 남성이 검찰에서 구속 수사를 받고 있다. 해당 남성에게서 마약을 건네 받고 투약한 10대 여학생은 당일 투신, 사망한 채 발견됐다.&lt;br&gt;&lt;br&gt;서울 강서경찰서는 마약 소지 및 교부 혐의로 30대 남성 A씨를 지난 11일 검찰에 송치했다. A씨는 현재 서울남부지검에서 구속 상태로 수사를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 지난 6월 24일 서울 강서구에서 10대 여학생 B씨에게 마약을 건넨 혐의를 받는다. 같은날 B씨는 강서구 모처에서 마약을 투약하고 투신해 사망했다고 한다. A씨가 B씨 이외의 다른 사람에게 마약을 건넨 정황은 발견되지 않았으며, A씨와 B씨가 연인 사이는 아니었다고 전해진다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “수사 중 밝혀진 새로운 혐의를 추가해 곧 기소할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“이렇게 월드컵 나가서 뭐하냐” 김판곤에 직격탄 날린 이정효</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/29/BRZMYFWWIRFJBNW5KQIADUVJDY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/29/BRZMYFWWIRFJBNW5KQIADUVJDY/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Sep 2024 06:49:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ANKZ7JB4VOHNPIRE42IQOFGT4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이정효 광주FC 감독. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프로축구 이정효 광주FC 감독(49)이 홍명보 국가대표 축구팀 감독 선임 논란에 대해 작심발언을 쏟아냈다. 특히 이정효 감독은 김판곤 울산HD 감독(55)의 “(감독 힘을 빼다)월드컵에 못 나가면 누가 책임질 거냐”는 발언을 겨냥한 듯 “이렇게 월드컵을 나가서 뭐 하냐”고도 했다.&lt;br&gt;&lt;br&gt;이정효 감독은 지난 28일 경기 전 취재진과 만나 “국회 문체위의 대한축구협회 현안 질의를 봤다”며 “하고 싶은 말이 많다. 개인적인 생각은 월드컵에 나가고 나가지 않고는 중요한 것 같지 않다는 것이다”라고 했다.&lt;br&gt;&lt;br&gt;이 감독은 “이렇게 월드컵에 나가서 뭐 할 것인가”라며 “먼저 쇄신하고 정확하게 앞으로 어떤 방향으로 나갈 건지에 대해서 명확하게 짚은 다음에 일을 하는 게 맞다고 본다. 그다음에 월드컵을 생각해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “월드컵을 이번만 나가는 것은 아니다. 우리나라도 월드컵 우승을 한 번 해봐야 하지 않나. 우리나라가 월드컵 우승을 못하란 법은 없다”며 “그러려면 이번에 정확하게 쇄신하고, 단계적으로 나가면 될 것 같다. 얼렁뚱땅 넘어가면 시간이 흐르면 또 잊혀진다”고 했다.&lt;br&gt;&lt;br&gt;이 감독은 “대충 수습하고 넘어가면 또 벌어진다”고 강조하며 “월드컵 끝나고 나서 ‘다음 월드컵은 어떻게 할 거냐’, 항상 똑같다. 이참에 다 뜯어고치는 게 훨씬 낫다. 일단 칼을 댔으니 뭐라도 베야 할 것 같다”고 했다.&lt;br&gt;&lt;br&gt;한편 김판곤 감독은 지난 27일 기자회견에서 “정치하시는 분이나, 유튜버나 정말 우리가 해야 할 일이 뭔지 지혜롭게 판단해야 한다. 월드컵에 못 나가면 누가 책임질 건가”라며 “(월드컵 예선)벌써 두 경기를 치렀고 다음 두 경기가 내일모레다. 이런 것에 에너지를 쏟아야지 감독 면박을 주고 힘을 빼고 팀을 와해시킬 때가 아니다”라고 했다.&lt;br&gt;&lt;br&gt;김 감독은 “이번 대표팀 감독을 영입할 때 아시안컵이 끝나고 완전히 오합지졸이 된 팀워크를 누가 가장 빠른 시간 안에 수습을 할 것인지가 중요했다”며 “‘이런 목적을 갖고, 이렇게 찾는다’고 국민과 미디어를 설득만 잘했다면 이런 사태는 안 왔을 것”이라고 했다.&lt;br&gt;&lt;br&gt;김 감독은 “축구협회 관계자들은 스스로 돌아봐야 한다”면서도 “나중에 평가할 수 있는 시기가 있다. 잘못된 건 뭐라고 하고, 그다음엔 감독에게 책임지라고 하라. 감독 뽑은 사람에게도 나중에 책임지라고 하면 된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>재즈에서 오케스트라까지...10월, 대구는 음악으로 물든다</title>
+      <link>https://www.chosun.com/national/regional/2024/09/29/65VZSAMG35C6LILPELSU3NXTOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/29/65VZSAMG35C6LILPELSU3NXTOQ/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Sep 2024 06:50:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HT26XDVKI5ANRBAA6ZBTO6C74I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제17회 대구국제재즈축제 포스터. /대구국제재즈축제 조직위원회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 10월 대구 곳곳에서 다양한 장르의 음악축제가 열린다.&lt;br&gt;&lt;br&gt;가장 먼저 시민들을 찾아가는 축제는 ‘대구국제재즈축제’다.&lt;br&gt;&lt;br&gt;대구국제재즈축제는 10월 3~5일 대구 수성못 상화동산 특설무대에서 열린다. 올해로 17회를 맞는 이 축제는 대구국제재즈축제조직위원회·(사)희망나눔이 주최·주관하고, 대구재즈메세나협의회의 후원으로 진행된다. 전회 무료공연이다.&lt;br&gt;&lt;br&gt;이번 축제에서는 시카고 출신의 재즈 기타리스트 ‘팀 피츠제럴드 트리오’, 버클리음대 출신 아티스트 신현필을 중심으로 필윤, 허진호, 임슬기로 이뤄진 ‘신현필 퀄텟’, 인도네시아 대표 재즈 기타리스트 ‘에루카크라 &amp;amp; 더 넥스트 휴먼’ , 대구 출신의 세계적인 피아니스트 스완 김, 일렉트릭 베이스 제임스 아킨슨, 드러머 크리스티앙 모란으로 구성된 ‘스완 김 일렉트릭 재즈퓨전 트리오’의 무대를 만나볼 수 있다. 축제의 대미는 일본을 대표하는 여성 색소포니스트가 속한 ‘고바야시 가오리 퀸텟’이 장식한다.&lt;br&gt;&lt;br&gt;공연과 함께 재즈 악기 체험존, 포토존, 푸드트럭, 플리마켓 등도 마련되고, 사전 좌석 예약제를 통해 테이블 좌석 이용도 가능하다.&lt;br&gt;&lt;br&gt;강주열 조직위원장은 “야외 무료 공연인 만큼 보다 많은 시민들이 부담 없이 여유를 가지고 재즈 축제를 즐겨주시면 좋겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3KYF6E4ACBJWBCLT5JO5FV3X3Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대구오페라하우스가 기자간담회를 열고 올해 21회를 맞는 대구국제오페라축제와 관련된 언론 브리핑을 하고 있다. 올해 축제는 10월 4일부터 11월 8일까지 이어진다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구국제오페라축제는 10월 4일부터 11월 8일까지 36일간 대구오페라하우스와 대구 일대에서 열린다. 이번 축제에서는 개막작인 ‘장미의 기사’를 비롯해 ‘264, 그 한 개의 별’ ‘시칠리아 섬의 저녁기도’ ‘라 트라비아타’ 등의 작품이 소개된다. ‘264, 그 한 개의 별’은 민족시인으로, 대구에서 주로 활동했던 이육사를 소재로 한 작품이다. 대구오페라하우스는 축제 폐막 콘서트 형태로 ‘푸치니 서거 100주년 갈라 콘서트’를 무대에 올린다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2VDVCXLOPVDEXACRRLUGYQCL44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024 월드 오케스트라 페스티벌 포스터./대구문화예술진흥원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10월 10일부터는 월드 오케스트라 페스티벌이 시작된다. 11월 27일까지 이어지는 이번 페스티벌에서는 정명훈, 레오니다스 카바코스, 기돈 크레머 등 저명한 지휘자들이 지휘 뿐만 아니라 같은 무대에서 연주자로 관객들을 만날 예정이다. 개막 공연인 ‘정명훈&amp;amp;라 페니체 오케스트라’에서 정명훈은 피아니스트로서 모차르트의 ‘피아노 협주곡 23번 A장조, K.488′를, 지휘자로 프로코피예프의 ‘로미오와 줄리엣 모음곡 2번, Op.64′를 관객들에게 선보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제16회 대구 퀴어문화축제, 큰 혼란 없이 마무리</title>
+      <link>https://www.chosun.com/national/regional/2024/09/29/SOSY2G46C5F4REH7R5SSULP4OE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/29/SOSY2G46C5F4REH7R5SSULP4OE/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Sep 2024 06:12:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LHHGGXTLINOZRAEH74OP3QU6YY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 대구 중구 동성로 대중교통전용지구에서 제16회 대구퀴어문화축제 퍼레이드가 열리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 28일 대구 도심에서 열린 제16회 대구 퀴어문화축제(퀴어 축제)가 큰 혼란 없이 마무리됐다. 작년 행사에서는 무대 설치 장소 등의 문제로 대구시 공무원과 경찰 간 물리적 충돌이 발생하는 등 초유의 공권력 대치 상황이 벌어지기도 했다.&lt;br&gt;&lt;br&gt;29일 경찰 등에 따르면 올해 퀴어 축제는 28일 정오쯤부터 오후 7시까지 대구 중구 반월당네거리 달구벌대로 일대 3개 차로에서 열릴 예정이었다. 하지만 시작 전 경찰과 조직위 측이 무대와 안전펜스 설치 위치를 두고 이견을 보이면서 실랑이가 벌어졌다. 이런 탓에 축제는 예정보다 30분가량 늦게 시작됐다.&lt;br&gt;&lt;br&gt;앞서 축제 조직위는 그동안 행사를 열었던 대구 중구 대중교통전용지구에 집회를 신고했지만, 경찰이 차량 정체 등을 이유로 2개 차로 중 1개 차로와 인도 일부만 사용하도록 조직위에 통고했다. 이에 조직위는 경찰을 상대로 옥외집회 금지 통고 집행정지 가처분 신청을 법원에 냈지만 기각됐고, 장소를 반월당네거리 달구벌대로 일대로 변경했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ASF6B7AXMFP3FMN3SVIAPQD5GM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 대구 중구 반월당사거리인근 달구벌대로에서 '대구경북 퀴어 반대 국민대회'가 열리고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같은 날 퀴어 축제 장소 인근인 현대백화점 건너편에서는 대구기독교총연합회 등이 주최한 ‘대구·경북 퀴어(동성애) 반대 국민대회’가 열렸다. 경찰에 따르면 이날 퀴어 축제에는 1000여명, 반대 집회에는 3000여명이 참석했다.&lt;br&gt;&lt;br&gt;행사 시작 이후 별다른 충돌은 발생하지 않았고, 이날 오후 7시 40분쯤 퀴어축제와 반대 국민대회 모두 큰 혼란 없이 마무리됐다. 대구경찰 관계자는 “퀴어 축제는 별다른 문제점 없이 잘 마무리됐다”며 “경찰은 앞으로도 집회의 자유와 집회 참가자들의 안전을 철저히 보장하겠다”고 말했다.&lt;br&gt;&lt;br&gt;한편 대구경찰은 이날 퀴어 축제 행진 등에 대비해 17개 중대 경력 1400명을 주요 거리에 배치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대검, ‘형사부 강화 TF’ 출범...형사부 개선 방안 논의</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/29/UU3GFKG54BF53MB6UF3FFIW3WE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/29/UU3GFKG54BF53MB6UF3FFIW3WE/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Sep 2024 06:11:32 +0000</pubDate>
+      <content:encoded>대검찰청이 형사부 강화 방안 논의를 위해 평검사들로 구성된 태스크포스(TF)를 출범했다. 심우정 검찰총장이 취임사에서 “민생범죄의 최전선에 있는 일선 형사부의 인력, 조직을 대폭 강화하겠다”고 말한 바 있는데, 대검이 구체적인 개선책 마련에 착수한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4KVFJT6ZI2W7MZPQR7LHCL7Z5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검은 지난 27일 ‘검찰 형사부 강화 TF’ 출범식을 갖고 첫 회의를 열었다. 대검은 “이번 TF는 검찰총장이 취임사를 통해 밝힌 바와 같이 민생범죄 대응 역량을 강화하기 위해 조직됐다”면서 “직접 형사사건 업무를 처리 하는 일선 평검사들로 구성했다”고 했다.&lt;br&gt;&lt;br&gt;이번 TF는 일선 지방검찰청 소속 평검사 7명으로 구성됐다. 이들의 연차는 사법연수원 42기부터 변호사 시험 8회까지 다양하고, 소속 검찰청도 서울중앙지검·대구서부지청·김천지청 등 모두 다르다.&lt;br&gt;&lt;br&gt;이들은 수시로 온·오프라인 회의를 가지면서 형사부 개선 방안을 마련해 연말까지 대검에 전달할 계획이다.&lt;br&gt;&lt;br&gt;앞서 심 총장은 지난 19일 취임사에서 “‘민생 범죄’로부터 국민을 지키는 데 온 힘을 다해야 한다”며 민생 범죄를 담당하는 일선 형사부를 대폭 강화하겠다고 했다.&lt;br&gt;&lt;br&gt;대검은 “TF와 수시로 소통하면서 도출해낸 해결책을 신속히 제도·정책으로 정비·시행할 것”이라면서 “검찰이 범죄로부터 국민을 든든히 지키고 국민의 권리를 수호하는 본연의 역할을 다할 수 있도록 할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>무등산 증심사 식당건물 화재 3시간 만에 주불 진화…“중요 국가유산·인명 피해 없어”</title>
+      <link>https://www.chosun.com/national/national_general/2024/09/29/EHWEWQT2FBB25MNZAJUBWEFXLY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/29/EHWEWQT2FBB25MNZAJUBWEFXLY/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Sep 2024 05:33:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D3MI2ZQ2KFLJVCAPLXIWUGGH54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오후 광주 동구 무등산 증심사 내에서 불이 나 소방 당국이 잔불을 정리하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시를 대표하는 사찰인 증심사에서 난 화재가 발생 3시간 만에 주불이 진화됐다.&lt;br&gt;&lt;br&gt;29일 광주소방본부 등에 따르면 이날 오전 9시 51분쯤 광주광역시 동구 무등산 증심사 식당 건물(공양간)에서 불이 났다. 불은 공양간 용접작업 중 튄 불꽃 때문에 발생한 것으로 추정된다.&lt;br&gt;&lt;br&gt;소방당국은 소방대응 1단계를 내린 뒤 화재로부터 약 3시간 만인 이날 낮 12시 44분쯤 주불을 잡았다. 화재로 공양간과 증심사 생활관 2동이 전소됐다.&lt;br&gt;&lt;br&gt;증심사는 통일신라 시대에 창건됐고, 6·25 전쟁 당시 소실된 이후 1970년대 복원됐다. 광주시 지정문화재이며 보물 철조 비로자나불 좌상 등 국가유산(문화재)를 보유하고 있다.&lt;br&gt;&lt;br&gt;소방당국은 목조건물인 사찰에서 불이 나 진화작업에 어려움을 겪었다. 화재로 인명피해나 중요 국가유산 피해는 발생하지 않은 것으로 전해졌다. 소방당국은 완전 진화를 마치고 정확한 화재 원인을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UGDJWTJVQZNYBOPHU3ZBNHZG6U.JPG?width=713&amp;height=465&amp;auth=befb200c25432dd2297641a326c5bda59eca7aace025dfcecb8ed893f1ff6e87&amp;smart=true" type="image/jpeg" height="465" width="713">
+        <media:description type="plain">(광주=뉴스1) 김태성 기자 = 29일 광주 무등산 증심사 공양전에서 화재가 발생, 불길과 연기가 치솟는 가운데 소방대원들이 진화작업을 펼치고 있다. 2024.9.29/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(광주=뉴스1) 김태성 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>면허 신청·경력 증명 위한 인감증명서, 30일부터 온라인 무료 발급</title>
       <link>https://www.chosun.com/national/national_general/2024/09/29/Z3KMD7VNMBAIDPQV22MTR5D7MA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/29/Z3KMD7VNMBAIDPQV22MTR5D7MA/</guid>
@@ -815,19 +935,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UCPOMSBJMRC6ZOYGFQR46OVTYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 박봄, 배우 이민호. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 투애니원의 멤버 박봄이 자신의 인스타그램에 배우 이민호 사진과 함께 “남편♥”이라는 문구를 적은 게시물을 올려 ‘셀프 열애설’이 불거졌다. 다소 생뚱맞은 게시물에 일각에서는 계정이 해킹당한 것 아니냐는 의혹까지 제기됐다.&lt;br&gt;&lt;br&gt;27일 오후 박봄 공식 인스타그램 계정에는 박봄과 이민호 사진을 나란히 배치한 사진과 함께 “진심 남편♥”이라는 문구가 적힌 게시물이 올라왔다. 하단에는 ‘이민호’ ‘박봄’ 등의 해시태그(#)가 붙었다.&lt;br&gt;&lt;br&gt;현재 이 게시물에는 댓글 4000개 이상이 달리고 있다. 국내는 물론 해외 네티즌들은 “정말 결혼하는 거냐” 등 의문을 드러냈다.&lt;br&gt;&lt;br&gt;앞서 박봄은 여러 차례 이상형으로 이민호를 꼽았다. 2013년 한 라디오 방송에 출연해 ‘투애니원 공연에 한 명의 남자 배우를 초대한다면 누구를 초대하겠냐’는 질문에 주저 없이 “이민호”라고 답했다. 또 2014년 라디오 방송에서도 이상형에 대해 “이민호, 김우빈 씨처럼 키 큰 분을 좋아한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A6U5CCS33VAI5H3NUVSSNXJYIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박봄이 27일 이민호 사진과 함께 "남편"이라는 문구를 적어 올렸다. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일각에서는 해킹 가능성을 제기하기도 했다. 한 네티즌은 “그간 게시물도 잘 안 올리다가 요 며칠 폭주 중”이라며 “해킹당한 것 아니냐”고 했다.&lt;br&gt;&lt;br&gt;이와 관련, 박봄 소속사 관계자는 “박봄이 요즘 드라마 ‘상속자들’을 보고 있는데, 주인공인 이민호씨에 푹 빠져서 그런 게시물을 올리게 된 것 같다”며 “특별한 이유 없는 해프닝”이라고 했다. 그러면서 “해당 게시물을 내릴 것”이라고 했다.&lt;br&gt;&lt;br&gt;박봄 측근은 OSEN에 “단순 팬심에 올린 것으로 보인다”며 “열애는 아닐 것”이라고 했다. 해킹 의혹에 대해선 “본인에게 직접 확인 중”이라고 했다.&lt;br&gt;&lt;br&gt;한편 박봄은 오는 10월 4일부터 6일까지 투애니원 데뷔 15주년 기념 공연 단독 콘서트에 참여한다. 투애니원이 콘서트에서 완전체로 무대를 선보이는 건 10년 6개월 만이다. 서울 콘서트를 시작으로 아시아 투어도 진행한다. 구체적으로 11월 16일 마닐라, 11월 23일 자카르타, 11월 29~12월 1일 고베, 12월 13~15일 도쿄, 12월 8일 홍콩, 12월 21일, 내년 1월 25일 방콕, 2월 8일 타이베이에서 각각 열릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>법원, 김형석 독립기념관장 임명 효력정지 신청 각하·기각</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/27/6YINEXJAVNGBPG6ATPOUA3USHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/27/6YINEXJAVNGBPG6ATPOUA3USHA/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Sep 2024 10:15:37 +0000</pubDate>
-      <content:encoded>법원이 김형석 독립기념관장의 임명 효력을 멈춰달라는 광복회의 요구를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6ZWCUCY2SXUKPYY3N6HMNGEOZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김형석 독립기념관장이 지난달 26일 오전 서울 여의도 국회에서 열린 정무위원회 전체회의에 출석해 질의에 답변하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정2부(재판장 고은설)는 27일 광복회가 윤석열 대통령을 상대로 낸 임명결정 무효 확인 소송 집행정지 신청을 각하했다. 각하는 형식적 요건을 갖추지 못해 사건을 심리 없이 끝내는 것을 뜻한다.&lt;br&gt;&lt;br&gt;재판부는 “광복회는 이 사건 처분의 무효확인을 구하는 본안 소송을 제기할 원고 적격이 인정된다고 할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;같은날 법원은 독립기념관장에 지원했다가 탈락한 김진 광복회 부회장과 김정명 서울과학종합대학원 석좌교수가 낸 집행정지 신청은 기각했다. 기각은 형식이 갖춰진 내용을 살펴본 결과, 청구 이유가 없어 이를 인정하지 않는 것이다.&lt;br&gt;&lt;br&gt;재판부는 “이 사건 처분으로 회복하기 어려운 손해가 발생할 우려가 있다거나 그 손해를 예방하기 위해 처분의 효력을 정지할 긴급한 필요가 있다고 인정하기 부족하다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 국가보훈부는 지난달 7일 신임 독립기념관장에 김 관장을 임명했다. 그러자 광복회는 그의 역사관이 치우쳤다며 임명에 반발했고, 임명 과정에 절차적 하자도 있다며 이에 불복하는 소송과 집행정지 신청을 냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6ZWCUCY2SXUKPYY3N6HMNGEOZ4.jpg?width=5318&amp;height=3558&amp;auth=71c7f33bad12dd8b8dd3c8a422e9da2f7813ef23c9fabc5e76a589fc4b1f6426&amp;smart=true" type="image/jpeg" height="3558" width="5318">
-        <media:description type="plain">김형석 독립기념관장이 26일 오전 서울 여의도 국회에서 열린 정무위원회 전체회의에 출석해 질의에 답변하고 있다. 2024.8.26/뉴스1 ⓒ News1 구윤성 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 구윤성 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>[단독] 환경부 청사 내 ‘일회용컵 사용 금지’…연내 전국 공공기관 확대 추진</title>
       <link>https://www.chosun.com/national/transport-environment/2024/09/27/NRY7O7NOT5B7TGPI7CQ5LMB5XM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/09/27/NRY7O7NOT5B7TGPI7CQ5LMB5XM/</guid>
@@ -846,15 +953,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BLMWY4DG3NB3BLNK7XWCYFV4PA.png"&gt;&lt;figcaption&gt;&lt;small&gt;고기 유통·판매 사업으로 작년 118억원 매출을 올린 최상훈씨. /'휴먼스토리' 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마트 정육점에서 고기를 팔아 5개월만에 빚 2억원을 모두 갚은 한 청년의 사연이 화제를 모으고 있다. &lt;br&gt;&lt;br&gt;이 같은 사연은 사연의 주인공은 축산업체 대표 최상훈(33)씨다. 유튜브 채널 ‘휴먼스토리’에 지난 21일 올라온 영상을 통해 알려지게 됐다. 27일 기준 최씨가 출연한 영상 조회수는 23만회를 넘길 정도로 이목을 끌고 있다. &lt;br&gt;&lt;br&gt;최씨는 “5~6년 전 힘든 일을 겪었는데 혼자 일어섰고, 저처럼 힘드신 분들께 경험이나 노하우를 알려드리고 싶다”며 출연 계기를 전했다. &lt;br&gt;&lt;br&gt;최씨에 따르면, 그는 5년 전 이혼 후 28살의 나이에 사업에 실패해 빚 2억원을 지게 됐다. 밑천 없이 할 수 있는 일을 찾던 그는 마트 정육점에서 올린 공고를 보고 서비스 판매직으로 취업하면서 축산업에 발을 들였다. 최씨는 “(취업한 곳이) 마트에 입점한 정육점이었는데, 공고에 판매한 만큼 벌어갈 수 있게 해준다고 적혀 있어 찾아갔다”며 “내가 여기에서 큰돈을 벌 수 있는지 따져봤는데 속된 말로 각이 나와 올인했다”고 했다. &lt;br&gt;&lt;br&gt;최씨가 일하게 된 정육점은 개인사업자로 마트와 계약한 다음, 고기를 판매한 뒤 마진과 수수료를 제외한 금액을 가져가는 구조였다. 최씨와 계약할 당시 마트 측은 “고기가 너무 안 팔리니 네가 팔 수 있는 만큼 팔아봐라. 조건을 맞춰주겠다”고 제안했다고 한다. &lt;br&gt;&lt;br&gt;최씨는 손님을 모으기 위해 틈틈이 공부하고, 남들보다 더 많은 시간 일했다. 최씨는 “누군가를 이기려면 일단 두 배로 노동하고 공부해야 한다고 생각했다. 잘난 게 없으니까 노동력으로 승부 봐야 남들과 격차를 좁힐 수 있을 것으로 생각했다”며 “2시간씩 자면서 일했다. 손님들이 뭘 사 가는지 분석했다. 그 당시 직원으로 일할 때라 급여 250만원 받았다”고 했다. 또 “어떻게 얘기해야 손님이 좋아하실지 고민했다”며 “팔기만을 원하고 말을 걸면 거부감이 들 것 같았다. 그런 느낌을 지우고, 손님이 저와 대화에 흥미를 느낄 수 있게 노력했다”고 했다.&lt;br&gt;&lt;br&gt;그렇게 최씨는 한달 매출 1억8000만원을 올렸다. 인센티브를 처음엔 3600만원 받았고, 두번째 달엔 5200만원을 받았다. 꾸준히 실적을 쌓아 사업 실패로 진 빚 2억원을 갚는 데 단 5개월이 걸렸다고 한다. &lt;br&gt;&lt;br&gt;마트 정육점에서 일하며 얻은 노하우를 바탕으로 최씨는 고기 유통·판매 개인 사업에 뛰어들었다. 마트와 백화점 등에 입점했고, 작년 기준 연매출 118억원을 달성했다고 한다. 최씨는 “일하는 동안 공부해서 사업을 키우려면 조직과 시스템이 있어야 한다는 걸 깨닫고 사업체를 만들어 키워왔다”며 “마진율 폭이 좀 큰데 40%씩 남을 때도 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“무서워서 도망쳤다”...음주운전으로 20대 연인 들이받은 30대 남성, 범행 인정</title>
-      <link>https://www.chosun.com/national/incident/2024/09/27/2WJXEZ7KQ5CUZMZD73JVFVJVJQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/09/27/2WJXEZ7KQ5CUZMZD73JVFVJVJQ/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Sep 2024 09:53:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3QOGD5CIVVPFFO3H5RUGWPME3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 25일 오후 광주 서부경찰서에서 국립과학수사연구원 관계자들이 '음주 뺑소니 사망사고' 차량인 마세라티를 대상으로 정밀 감정을 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뺑소니 사고로 20대 연인 2명을 숨지게하거나 다치게 한 30대 남성이 범행을 시인했다.&lt;br&gt;&lt;br&gt;27일 광주 서부경찰서에 따르면 특정범죄가중처벌법상 도주치사상 혐의를 받는 마세라티 운전자 A(32)씨가 “사람을 친 사실을 알았지만 술을 마신데다 경찰 사이렌 소리가 들려 무서워서 도주했다”고 범행 사실을 인정했다.&lt;br&gt;&lt;br&gt;A씨는 지난 24일 오전 3시 11분쯤 광주시 서구 화정동의 한 도로에서 음주 상태로 마세라티 차량을 운행하다 20대 연인이 타고 있던 오토바이를 들이 받은 뒤 별다른 조치 없이 도주한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이 사고로 오토바이 뒷좌석에 탔던 여성 B(28)씨가 숨졌고, 운전자인 남성 C(23)씨가 턱뼈와 골반뼈가 으스러지는 중상을 입고 병원 치료를 받고 있다. C씨가 음식 배달 일을 마친 뒤 연인이었던 B씨와 함께 귀가하던 길이었다.&lt;br&gt;&lt;br&gt;A씨는 사고 직전 광주시 서구 상무지구 일대에서 지인과 함께 술을 마신 뒤, 차량을 몰고 이동하다 범행을 저지른 것으로 조사됐다. A씨는 사고 직후 지인의 차량을 타고 대전으로 도주했다.&lt;br&gt;&lt;br&gt;이후 A씨는 해외로 출국하는 항공권을 예매하려고 하거나, 휴대전화를 인천공항에 버리는 등 경찰 추적을 피하려다 서울 강남구에서 경찰에게 체포됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨의 구체적인 범행 경위를 조사하고 구속영장을 신청할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>서울교육감 보궐선거, 4명(보수2·진보2) 최종 후보 등록</title>
       <link>https://www.chosun.com/national/education/2024/09/27/LALPJFP5WVAKZFJXFVV7Y7GHKA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/09/27/LALPJFP5WVAKZFJXFVV7Y7GHKA/</guid>
@@ -868,88 +966,6 @@
 이번 보궐선거는 다음달 11,12일 사전투표에 이어 16일 본 투표가 이뤄진다. 2024.9.26/뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 황기선 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>검찰 “‘이재명 재판 참고인 진술조서 조작’ 주장은 사법방해”</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/27/FPHHPWXLTRD75HHSQJPG57CUBA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/27/FPHHPWXLTRD75HHSQJPG57CUBA/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Sep 2024 09:16:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IUTE4PUQ5VOY3NGKCDP74GNVPY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 지난 10일 서울 서초구 서울중앙지법에서 열린 '대장동 배임·성남FC 뇌물' 관련 특정범죄가중처벌 등에 관한 법률 위반(뇌물) 등 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 이재명 더불어민주당 대표 재판에서 공개된 참고인 진술조서가 창작됐다고 주장한 민주당에 “검찰의 정당한 공소유지를 방해하는 사법방해는 즉각 중단돼야 한다”고 27일 비판했다.&lt;br&gt;&lt;br&gt;민주당 검찰독재위원회는 전날 성명을 내고 남욱 변호사 등 대장동 개발사업 민간업자들이 과거 이 전 대표 측근들을 유흥주점에서 접대한 것과 관련해 검찰이 유흥업소 운영자 A씨의 진술을 조작했다고 주장했다.&lt;br&gt;&lt;br&gt;A씨는 지난 10일 서울중앙지법에서 열린 이 전 대표 재판에 나와 과거 검찰 진술 내용에 대한 변호인 신문에 “기억이 나지 않는다”, “조사받을 때 검사님과 이야기할 때 (정진상 전 민주당 당대표 정무조정실장, 김용 전 민주연구원 부원장 등이) 왔다고 하니까 왔다고 한 것”이라고 진술했다.&lt;br&gt;&lt;br&gt;민주당은 이를 두고 “증인이 진술조서와 정면으로 배치되는 증언을 한 것” “검찰이 원하는 답을 끌어내기 위해 참고인 진술을 유도했다”고 했다.&lt;br&gt;&lt;br&gt;서울중앙지검은 이에 대해 남 변호사가 비용을 낸 접대 일시와 장소 등을 객관적인 증거와 당사자 확인으로 특정했다고 반박했다. 검찰에 따르면 정영학 회계사가 임의제출한 휴대전화에는 A씨가 2013년 9월 12일 ‘유본’, ‘정실장’ ‘김위원’이 방문한 저녁 자리 술값을 남 변호사에게 대신 내 달라는 문자메시지가 있었다. 수사팀은 남욱에게 이를 보여주고 유동규 전 성남도시개발공사 기획본부장, 정진상 전 민주당 당대표 정무조정실장, 김용 전 민주연구원 부원장이 A씨 가게에 온 사실을 확인했다.&lt;br&gt;&lt;br&gt;A씨도 검찰 참고인 조사에서 기록을 보고 당시 상황을 진술했고, 진술조서와 문자메시지 모두 증거로 채택됐다. A씨는 지난 10일 법정에서도 “이름은 기억하지 못하지만 유본, 정실장, 김위원이라는 사람이 왔다” “들었던 이야기와 분위기를 토대로 남욱에게 ‘시장(이재명) 측근이 확실해’라고 문자메시지를 보냈다”고 진술했다.&lt;br&gt;&lt;br&gt;또한 검찰은 성남도시개발공사 관계자 정모씨가 2020년 9월 23일 A씨에게 3000만원을 보내며 현금으로 만들어달라고 했고, 이 돈이 유 전 본부장을 거쳐 정 전 실장에게 전달된 점을 관련 증거와 진술로 확인했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 “이재명 당시 성남시장 측근이자 성남시 정책실장이었던 정진상이 위례신도시 개발사업 공모 절차 이전부터 남욱, 정영학 등 대장동 민간업자로부터 유흥주점에서 접대와 금품을 한 사실이 명확히 밝혀지자 이를 가리기 위해 민주당이 수사과정을 호도하고 있다”고 비판했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법, 간호사 골수 채취 의료법 위반 사건 공개 변론…역대 4번째</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/27/HRTYW5SVHNF47J5XKU5ZD6FKZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/27/HRTYW5SVHNF47J5XKU5ZD6FKZI/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Sep 2024 08:59:08 +0000</pubDate>
-      <content:encoded>간호사가 골수 채취를 하면 무면허 의료 행위에 해당하는지를 두고 대법원이 공개 변론을 연다. 대법원 전원합의체 사건이 아닌 소부 사건의 공개변론이 진행되는 것은 역대 4번째다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/US44TUU6MRGTDHAKZ2X6TUHWAE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원 건물/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 2부(주심 오경미 대법관)는 다음달 8일 오후 2시 의료법 위반 사건의 공개 변론을 진행한다고 27일 밝혔다. 대법원이 소부 사건 공개 변론을 실시하는 건 지난 2022년 3월 27일 이후 약 2년 7개월 만이다.&lt;br&gt;&lt;br&gt;이 사건 피고인은 종합병원을 운영하는 사회복지재단으로, 소속 의사들이 종양전문 간호사들에게 골수 검사에 필요한 검수 검체를 채취하는 ‘골막 천자’를 시켰다가 의료법 위반 혐의로 기소됐다. 골막 천자는 혈액·종양성 질환 진단을 위해 골반뼈의 골막을 뚫어 골수를 채취하는 행위다.&lt;br&gt;&lt;br&gt;의료법에 따르면 의료인이 아니면 의료행위를 할 수 없고, 의료인들도 면허된 것 외의 의료행위를 할 수 없다.&lt;br&gt;&lt;br&gt;1심은 재단에 무죄를 선고했다. 1심은 “종양전문 간호사들이 의사의 지시나 위임 아래 의료행위를 하는 것이 무면허 의료행위에 해당한다는 점이 증명됐다고 보기 부족하다”고 했다.&lt;br&gt;&lt;br&gt;그러나 2심은 유죄로 판단을 뒤집고 벌금 2000만원을 선고했다. 2심은 “간호사가 골막 천자를 직접 수행한다면 진료보조가 아닌 진료행위 자체에 해당하므로 무면허 의료행위에 해당한다”고 했다.&lt;br&gt;&lt;br&gt;대법원 공개 변론의 쟁점은 골막 천자의 법적 성격이다. 의사는 간호사에게 진료보조 행위를 지시하거나 위임할 수는 있지만, 의사만이 할 수 있는 진료행위 자체를 하도록 지시·위임할 수는 없다.&lt;br&gt;&lt;br&gt;만약 골막 천자를 의사만 할 수 있는 ‘절대적 의료행위’로 본다면, 간호사의 골막 천자는 무면허 의료에 해당하게 된다. 반면 골막 천자를 절대적 의료행위가 아닌 ‘진료보조 행위’라고 판단하면, 의사의 적절한 지시·감독이 있었는지도 따져 유무죄를 가리게 된다.&lt;br&gt;&lt;br&gt;또 골막 천자를 한 간호사가 의료법상 ‘전문 간호사’였는데, 이들에게 허용되는 진료보조 행위의 범위를 일반 간호사와 다르게 볼 것인지도 관건이다.&lt;br&gt;&lt;br&gt;이날 변론에서는 검찰과 피고인 양측의 주장을 뒷받침하는 전문가들이 참고인으로 출석해 의견을 진술·청취할 예정이다.&lt;br&gt;&lt;br&gt;검찰 측 참고인으로는 정재현 해운대부민병원 소화기센터 진료부장과 조병욱 신천연합병원 소아청소년과 진료과장이 출석한다. 피고인 측 참고인으로는 윤성수 서울대 의대 내과학교실 교수, 배성화 대구가톨릭대병원 혈액종양내과 교수, 최수정 성균관대 임상간호대학원 교수가 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>성심당 대전역점, 계속 영업한다</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/27/K4ZFHZZ5IZHP7CAPBMH5RC44FQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/27/K4ZFHZZ5IZHP7CAPBMH5RC44FQ/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Sep 2024 07:49:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M7TM2LNBYFABM6F3V2ERABG5LM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 대표 빵집으로 꼽히는 ‘성심당’ 대전역점에서 한 시민이 아이와 함께 빵을 사들고 나오고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전의 대표 빵집 ‘성심당’이 대전역에서 계속 영업을 이어갈 수 있게 됐다. 올 초 불거진 대전역사 내 월세 논란은 코레일유통이 월 수수료를 당초 제시한 4억4100만원에서 1억3300만원으로 대폭 낮추면서 마무리됐다.&lt;br&gt;&lt;br&gt;코레일유통은 27일 보도자료를 통해 “대전역 2층 종합제과점 공개경쟁 입찰 결과 기존 성심당 운영업체인 로쏘㈜가 선정됐다”고 밝혔다. 코레일유통은 지난 13일부터 23일까지 사업자 모집공고를 통해 제안서를 접수했고, 전날 평가위원회를 열어 이같이 결정했다. 대전에서 매장 6개를 운영하는 성심당의 대전역점은 지난 2019년 역사 2층에 위치한 현재 자리로 이전했으며, 매달 1억여 원의 수수료를 코레일유통에 납부해 왔다.&lt;br&gt;&lt;br&gt;성심당 대전역 매장의 임차계약이 만료되자 코레일유통은 올 2월 새 사업자 선정을 위한 입찰을 실시했다. 그러나 월 수수료를 기존의 4배가 넘는 4억4100만원의 금액을 제시하면서 논란이 됐다. 코레일유통이 월 매출의 17%를 수수료로 받아야 한다는 내부 규정을 토대로 제시한 금액이지만, 월세 4억원은 과하다는 주장도 나왔다.&lt;br&gt;&lt;br&gt;코레일유통은 지난 2월부터 6월까지 현 성심당 자리 운영업체를 선정하기 위해 총 5회에 걸쳐 입찰을 진행했으나 모두 ‘기준가격 미충족’으로 유찰됐다. 논란이 이어지자 코레일유통은 지난 7월 감사원 사전컨설팅을 의뢰했고, 감사원은 국가계약법을 기반으로 입찰기준가격(월 수수료)을 조정할 것을 권고했다.&lt;br&gt;&lt;br&gt;이후 진행한 6번째 공개경쟁입찰에서 기존에 제시한 월 수수료를 1억3300만원으로 대폭 낮췄고 기존 운영업체인 성심당도 입찰에 응했다. 감사원 컨설팅 결과 입찰이 수차례 유찰된 경우, 모집 업종과 관련된 다수의 업체에 견적을 의뢰해 입찰 기준을 재검토할 수 있다는 판단이 나와 이에 따랐다는 게 코레일유통 측 설명이다.&lt;br&gt;&lt;br&gt;코레일유통은 “감사원 사전컨설팅을 통해 철도역 상업시설의 공공의 가치 및 경제적 효용성을 높일 수 있는 새로운 운영 방안을 마련한 사례”라며 “현재 갈등관리연구기관과 손잡고 지역 향토기업과 소상공인 육성에 필요한 합리적인 수수료 체계를 검토하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“범죄 기록 남을 텐데 할 거야?” 딥페이크 근절 영상에 뜬 김예지</title>
-      <link>https://www.chosun.com/national/national_general/2024/09/27/WWFUNGLCQRB7PMZPHHDQ5WO6TU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/09/27/WWFUNGLCQRB7PMZPHHDQ5WO6TU/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Sep 2024 07:27:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z4EROZKFXJF3BJUI3SI2U66V64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/전북경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2024 파리 올림픽 사격 여자 공기소총 10m에서 은메달을 딴 김예지 선수(32·임실군청)가 전북경찰과 딥페이크 범죄 근절 홍보 영상을 찍었다.&lt;br&gt;&lt;br&gt;27일 경찰청이 공개한 영상을 보면, 김예지는 한 손에 사격 표적지를 들고 “범죄 기록도 남을 텐데 할 거야?”라며 “딥페이크를 활용한 허위 합성물은 제작·배포 모두 명백한 범죄입니다”라고 말한다.&lt;br&gt;&lt;br&gt;전북경찰청은 이 영상을 소셜미디어 등에 게시하고 도내 금융·교육기관 등과 공유해 교육자료로 활용되도록 할 예정이다.&lt;br&gt;&lt;br&gt;최종문 전북경찰청장은 “국민의 사랑을 받고 있는 김예지 선수가 영상 제작에 참여해 범죄 예방 효과가 커질 것으로 기대하고 있다”며 “앞으로도 국민 눈높이에 맞는 홍보를 통해 범죄 사전 예방에 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;김예지는 파리 올림픽 사격 공기권총 10ｍ 결선에서 은메달을 목에 걸었다. 김예지 경기 장면은 소셜미디어를 타고 해외에서 크게 화제가 되며 폭발적인 인기를 누렸다. 태극마크가 그려진 흰색 야구 모자와 사격용 조준경·눈가리개를 착용한 채 무표정으로 턱을 치켜드는 모습이 이목을 끌었다.&lt;br&gt;&lt;br&gt;김예지 영상에는 일론 머스크 테슬라 최고경영자(CEO)도 그를 상찬하는 댓글을 달았다. 그는 “액션 영화에도 사격 세계 챔피언이 나온다면 멋질 것 같다”며 “김예지를 액션 영화에 캐스팅해야 한다. 연기는 필요하지 않다”고 평가했다.&lt;br&gt;&lt;br&gt;실제로 김예지는 ‘킬러’ 역할로 영화에 캐스팅되기도 했다. 영화 ‘아시아’의 스핀오프 숏폼 시리즈 ‘크러쉬’에서다. 이 영화를 연출하는 이정섭 감독은 “센과 김예지의 ‘아시아’ 스핀오프 숏폼 시리즈의 킬러 동반 캐스팅은 글로벌 숏폼 시리즈에 혁신을 가져오는 계기가 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/TB7BM4VXKRCN5EPZTGAJZJA2BM.gif?width=430&amp;height=242&amp;auth=4e213fa016a8d13a232c3eb4eacb4b4acb5be9b6a1c720852776781951bb1661&amp;smart=true" type="image/jpeg" height="242" width="430"/>
-    </item>
-    <item>
-      <title>충주 골재채취장서 60대,돌무더기에 묻혀 숨져</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/09/27/2IDWDCMENJFQJNTKA2RKK33XUY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/09/27/2IDWDCMENJFQJNTKA2RKK33XUY/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Sep 2024 08:09:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRLP7PKFBJGAVF5P2GEG3KQNPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 충주의 한 골재채취장에서 굴삭기가 돌무더기에 파묻히는 사고가 발생했다.&lt;br&gt;&lt;br&gt;충북소방본부 등에 따르면 27일 오전 11시43분쯤 충북 충주시 대소원면 금곡리의 한 골재 채취 작업장에서 석산 일부가 무너지면서 작업 중이던 굴삭기를 덮쳤다.&lt;br&gt;&lt;br&gt;당시 A씨는 골재를 트럭에 상차하는 작업을 하던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 사고로 굴삭기 기사 60대 A씨가 묻혀 소방 당국에 의해 약 2시간 20분 만에 구조됐으나 끝내 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 업체 관계자와 목격자 등을 상대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>관광시설 특혜 혐의 김철수 전 속초시장,법정선다</title>
-      <link>https://www.chosun.com/national/regional/gangwon/2024/09/27/ZYU53Z3GVNFM3LB4Q7IWYU2TZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2024/09/27/ZYU53Z3GVNFM3LB4Q7IWYU2TZA/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Sep 2024 08:07:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6RCEUKU3ILRA4WU7G33VB7LM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지검 속초지청/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김철수 전 속초시장이 속초해수욕장 관광테마시설 업체선정 관련 특혜를 준 혐의로 재판에 넘겨졌다. 수사가 시작된지 2년 만이다.&lt;br&gt;&lt;br&gt;춘천지검 속초지청은 김 전 시장과 간부급 공무원 A씨를 직권남용권리행사방해 혐의로 불구속기소 했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;두 사람은 2020년 관광테마시설 설치를 맡을 업체 선정 과정에서 평가 방법을 임의로 변경하는 방법 등으로 특정 업체가 사업 대상자로 선정되도록 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;당시 이 사업에는 5개 업체가 응모했지만, 특정업체가 선정되면서 특혜 의혹이 불거졌다.&lt;br&gt;&lt;br&gt;검찰은 이 업체 회장 B씨와 대표이사 C씨에게도 특정경제범죄법상 사기와 배임, 업무상횡령, 공전자기록등불실기재, 상법 위반 등 혐의를 적용해 불구속 기소했다.&lt;br&gt;&lt;br&gt;감사원은 속초시가 규정을 위반해 평가점수를 산정하는 등 특정업체에 유리하게 한 사실을 발견해 경찰에 수사를 의뢰했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “피고인들이 범죄에 상응하는 처벌을 받도록 공소 유지를 빈틈없이 하겠다”며 “앞으로도 지방행정의 적법·투명성이 확보되도록 관련 범죄에 엄정 대응하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘4조 투자’ 삼성전자 반도체 기술 중국 빼돌린 前 임원 구속 기소</title>
-      <link>https://www.chosun.com/national/court_law/2024/09/27/C6A2HVLJGRBINGCJVR7VXFINI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/27/C6A2HVLJGRBINGCJVR7VXFINI4/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Sep 2024 08:00:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRXSGRZQL3IDI3CMO6NWUQB5RM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 전경. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성전자가 4조원을 투자해 개발한 반도체 핵심기술을 중국에 빼돌리고 878억원을 챙긴 전직 임원이 27일 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울중앙지검 정보기술범죄수사부(부장 안동건)는 중국 청두가오전(CHJS) 대표 최모(66)씨와 개발실장 오모(60)씨를 산업기술보호법과 부정경쟁방지법 위반 등의 혐의로 구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;최씨는 삼성전자 임원과 하이닉스반도체(현 SK하이닉스) 부사장을 역임하는 등 국내 반도체 업계에서 30년을 근무했다. 오씨는 삼성전자 수석연구원을 지냈다. 검찰에 따르면 최씨는 중국 청두시에서 약 4600억원을 투자받아 2020년 9월 합작회사 CHJS를 설립하고, 헤드헌팅 업체를 통해 오씨 등 국내 반도체 핵심 인력을 계속 영입했다. 이후 삼성전자의 독자 기술인 20나노급(18나노·20나노) D램 반도체 생산에 필요한 온도, 압력 등 700여 단계 공정 핵심 정보를 중국으로 빼돌려 무단으로 사용했다.&lt;br&gt;&lt;br&gt;D램 반도체 공정기술 개발에는 글로벌 반도체 업체도 통상 4~5년이 걸리지만, 최씨는 1년 6개월여 만인 2022년 4월에 중국에서 두 번째로 시범 생산에 성공했다. 최종 생산까지 성공하면 삼성전자와 국내 업계 피해는 최소 수십조원에 달할 것으로 추산된다. 최씨는 수사가 시작하자 공장 운영을 중단했다고 한다.&lt;br&gt;&lt;br&gt;검찰은 지난 10일 경찰에서 사건을 넘겨받아 최씨가 중국 반도체회사 지분 약 860억원&amp;nbsp;상당을 받고, 보수&amp;nbsp;명목으로 18억원을 받은 사실을 확인했다. CHJS 법인도 양벌규정에 따라 함께 기소했다. 양벌규정은 법인 대표자 등이 업무와 관련해 위법 행위를 했을 때 법인도 함께 처벌하는 규정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산 낚시배 선원, 상어에 손가락 등 물려</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/09/27/CV36VPNA7ZHB7JEPNR2N7YJEZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/09/27/CV36VPNA7ZHB7JEPNR2N7YJEZA/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Sep 2024 07:50:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YVHWMBGTXVFNXAJRYUJCRB65NA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 15일 부산 중구 중앙동 자갈치 크루즈 선착장 앞 해상에서 발견된 상어 사체. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 부산 앞바다 상어 출몰이 잦아지고 있다.&lt;br&gt;&lt;br&gt;27일 오전 3시 30분쯤 부산 영도구 생도 인근 해상 9.77t 어선에서 손님들과 함께 밤낚시를 하던 60대 선원 A씨가 몸길이 90㎝ 크기의 청상아리에게 공격을 받았다. 청상아리는 상어의 일종으로 평균 2.5~3.2m, 체중 60~140kg 가량 크기까지 자라고 동작이 날쌘 것으로 알려져있다.&lt;br&gt;&lt;br&gt;A씨는 당시 낚시배 승객이 잡은 어획물을 확인하던 중 청상아리에게 발등과 손가락을 물렸다. 공격을 당한 A씨는 병원으로 옮겨져 치료받았으며 큰 부상은 아닌 것으로 전해졌다. 이 낚시배에는 선원 2명과 낚시 승객 16명이 타고 있었다.&lt;br&gt;&lt;br&gt;부산 앞바다에서의 상어 출몰은 이 뿐만 아니다. 지난 15일 오후 2시 30분쯤 부산 자갈치 크루즈 선착장 앞 해상에서 길이 2ｍ가량의 청새리상어 사체가 포획 흔적 없이 심하게 부패된 상태로 발견됐다.&lt;br&gt;&lt;br&gt;지난 12일 영도구 생도 해상에서 조업 중이던 어선에, 그 달 4일 부산 태종대 인근 해상에서도 각각 상어가 잇달아 잡혔다. 이들 상어는 모두 공격성이 낮은 악상어로 추정됐다.&lt;br&gt;&lt;br&gt;전문가들은 부산 연안까지 상어가 자주 출몰하는 건 지난 여름 유례없는 폭염에 바닷물 온도가 올라가면서 난류성 어종들이 늘어나고, 상어가 먹이인 이들 난류성 어종을 따라 연안으로 들어오기 때문인 것으로 추정하고 있다.&lt;br&gt;&lt;br&gt;부산해경은”연안 낚시객과 물놀이객, 해양 레저객들은 상어 출몰에 각별히 주의할 필요가 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>울산 온산읍 에폭시 공장서 연기... 4명 병원 이송</title>
-      <link>https://www.chosun.com/national/regional/2024/09/27/FPLDOOPOHZB5DNOSQ67QVBYSJA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/09/27/FPLDOOPOHZB5DNOSQ67QVBYSJA/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Sep 2024 05:00:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2H5O6EUNNVA4LETQGR3RT2PD5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 오전 10시 15분 울산 울주군 온산읍 학남리 한 합성수지 가공업체 공장에서 원인 미상의 연기가 발생해 작업자 4명이 두통 등을 호소하며 병원에 이송됐다. /울산소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 오전 울산 울주군 온산읍 학남리의 합성수지 가공업체인 제일화성에서 원인 미상의 연기가 발생해 작업자 4명이 구토와 두통 등을 호소해 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;울산소방본부와 경찰에 따르면 이날 오전 10시 15분쯤 흰 연기와 타는 냄새가 난다는 신고가 119에 접수됐다.&lt;br&gt;&lt;br&gt;이날 연기는 반응기 내부 50㎏가량의 에폭시를 테스트하던 중 온도가 섭씨 200도까지 치솟는 이상발열로 인해 발생한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방당국이 인력 42명, 장비 16대를 동원해 반응기 냉각 작업을 했다.&lt;br&gt;&lt;br&gt;냉각 작업 중 반응기 주변 배관에서 불이 났다가 2분 만에 꺼지기도 했다.&lt;br&gt;&lt;br&gt;공장 내에 있던 작업자들은 모두 자력 대피했으나 이중 4명은 구토와 두통 등을 호소해 인근 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;현장 인근에서는 한때 유해 화학 물질인 톨루엔과 오존 등이 미량 검출됐으나, 현재는 검출되지 않는 상태다.&lt;br&gt;&lt;br&gt;울주군은 지역주민에게 “원인 미상의 연기가 발생해 어지럼증 및 구토를 유발할 수 있으니 이 지역을 우회하고 주택 창문을 닫아달라”는 내용의 재난안전문자를 보냈다.&lt;br&gt;&lt;br&gt;소방 당국은 냉각 작업을 마무리한 뒤 정확한 경위를 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
