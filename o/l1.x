@@ -15,7 +15,7 @@
 			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 		<item>
-			<title>10월 3일(목) 신문 휴간입니다</title>
+			<title>3일(목) 신문 휴간입니다</title>
 			<description>10월 3일(목) 신문 휴간입니다</description>
 			<pubDate>Mon, 30 Sep 2024 22:08:47 -0000</pubDate>
 			<category>news</category>
