@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>【오늘의 국회일정】 2024년 10월 1일</title>
+			<description>&lt;b&gt;◇ 국회의장&lt;/b&gt;&lt;br /&gt;10:00 건군76주년 국군의 날 기념식(서울공항&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;◇ 의원실 세미나&lt;/b&gt;&lt;br /&gt;14:00 김성환 의원실 등, [목민관클럽 제8차 정기포럼·지역순환경제 국제포럼] 지속가능한 로컬 민주주의 경제 모델 구축(의원회관 대회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;◇ 소통관 기자회견&lt;/b&gt;&lt;br /&gt;11:20 김승원 의원, [국회 법제사법위원회 소속 더불어민주당 위원 일동, 정치 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
+			<pubDate>Mon, 30 Sep 2024 22:30:11 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201720</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201720</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>10월 3일(목) 신문 휴간입니다</title>
 			<description>10월 3일(목) 신문 휴간입니다</description>
 			<pubDate>Mon, 30 Sep 2024 22:08:47 -0000</pubDate>
@@ -13,16 +22,6 @@
 			<link>https://www.lawtimes.co.kr/news/201716</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201716</guid>
 			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>'수십억 횡령·배임 의혹' 이호진 전 태광그룹 회장 불구속 송치</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/201722.jpg" alt="201722.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;이호진 전 태광그룹 회장《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;계열사를 동원해 거액의 비자금을 조성한 혐의를 받는 이호진 전 태광그룹 회장이 검찰에 넘겨졌다.&lt;br /&gt;&lt;br /&gt;서울지방경찰청 반부패수사대는 30일 이 전 회장을 특정경제범죄가중처벌법상 횡령·배임 혐의로 불구속 송치했다.&lt;br /&gt;&lt;br /&gt;이 전 회장은 임원들이 그룹 계열사에 근무하는 것처럼 허위로 장부를 작성하고 직원들의 계좌로 급여를 지급한 뒤 이를 빼돌리는 방식으로 수십억 원의 비자금을 조성한 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;또한, 태광CC가 골프 연습장 공사비 8억 6000만 원을 대납하게 한 혐의와 계열사 법인카드 8000여만 원을 사적으로 사용한 혐의도 있다.&lt;br /&gt;&lt;br /&gt;경찰은 이 전 회장과 함께 '태광 2인자'였던 김기유 전 경영협의회 의장도 횡령과 배임 혐의로 불구속 송치했다. 경찰은 이 전 회장과 김 전 의장을 공범으로 보고 있는 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;경찰은 지난 5월 이 전 회장에 대해 구속영장을 신청했으나, 법원은 "구속 사유와 필요성을 인정하기 어렵다"며 영장을 기각했다.&lt;br /&gt;&lt;br /&gt;경찰은 지난해 10월부터 12월까지 이 전 회장의 업무상 횡령·배임 의혹과 관련해 그의 자택과 태광그룹 사무실, 임원 2명의 자택 등을 압수수색했다. 이에 태광그룹은 이 사건이 이 전 회장의 공백 동안 벌어진 전 경영진의 전횡이라며 김 전 의장을 서울서부지검에 고발했다. 사건을 검토한 검찰은 이를 경찰에 이관했다.&lt;br /&gt;&lt;br /&gt;경찰은 올해 1월 이 전 회장의 계좌 내역을 확보하며 자금 흐름을 파악했고, 법무부를 통해 출국 금지를 요청하며 횡령 혐의 수사에 속도를 냈다.&lt;br /&gt;&lt;br /&gt;김 전 의장은 이 전 회장이 비자금 조성을 한 사실이 있다고 주장해왔다. 계열사 사외이사로 근무 중인 임원들의 급여 중 일부를 현금으로 빼돌려 비자금을 조성했다는 것이다. 그는 "회장이 돈이 필요할 때 나한테 전화를 했다. '1000만 원만 갖고 오세요'하면 그 돈을 갖다줬다. 회장은 매달 3000만 원을 요구했다. 그렇게 전달한 돈만 10억 가까이 된다"고 주장했다.&lt;br /&gt;&lt;br /&gt;김 전 의장의 주장에 태광 측은 "경찰이 임직원에게 급여를 주지 않고 별도로 비자금을 조성했다고 추궁했는데 이는 회장과는 무관하고 미지급 급여는 전부 지급했다"고 반박했다. 그러면서 김 전 의장의 비위를 고발했다. 태광 측은 김 전 의장이 직책도 없는 태광산업의 법인카드를 골프장 이용 대금, 와인 구매 대금 등으로 1억원 이상을 전용했다고 봤다. 태광관광개발(현 티시스)에 직책이 없던 2016~2017년 1500만 원 상당의 상품권을 사적으로 사용한 사실도 검찰에 고발했다. &lt;br /&gt;&lt;br /&gt;앞서 이 전 회장은 421억 원을 횡령하고 법인세 9억 3000여만 원을 포탈한 혐의로 2011년 구속기소됐다. 이후 2019년 6월 징역 3년형이 확정돼 복역하고, 2021년 10월에 만기 출소했다.</description>
-			<pubDate>Mon, 30 Sep 2024 14:09:05 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201722</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201722</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201722.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
 		</item>
 		<item>
 			<title>이재명 '위증교사 혐의' 1심, 11월 25일 선고…공직선거법 선고 열흘 뒤</title>
