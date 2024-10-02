@@ -6,6 +6,24 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>【오늘의 국회일정】 2024년 10월 2일</title>
+			<description>&lt;b&gt;◇ 국회사무총장&lt;/b&gt;&lt;br /&gt;11:00 국정감사 종합상황실 현판식(의사과 전면)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 상임위원회&lt;/b&gt;&lt;br /&gt;10:00 법제사법위원회 전체회의(본관 406호)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 의원실 세미나&lt;/b&gt;&lt;br /&gt;07:30 박주민 의원실 등, [민생경제와 혁신성장포럼 세미나] 개미투자자 보호와 자본시장 활성화를 위한 상법 개정 과제(의원회관 제9간담회의실)&lt;br /&gt;&lt;br /&gt;09:30 이상휘 의원실 등, 동해 심해 유전 탐사시추, 한국 에너지 안보의 열쇠를 쥐다(의원회관 제2소회의실)&lt;br /&gt;&lt;br /&gt;10:00 윤종오 의원실 등, 제주제2공항 이대로 좋은가 쟁점과 갈등 해결 방안을 위한 토론회(의원회관 제1간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 나경원 의원실, [에너지안보와 국가안보 지키기 국회토론회] 중수로 폐쇄 경위 진단과 유사시 핵무장을 위한 대응방안(의원회관 제4간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 김남근 의원실 등, 개미투자자 보호를 위한 국정감사를 제안한다 : 기업지배구조 개선으로 누구나 투자하고 싶은 자본시장 만들기(의원회관 제11간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 김영환 의원실, 공공기관 경영평가 제도 개선을 위한 정책토론회(국회도서관 강당)&lt;br /&gt;&lt;br /&gt;10:00 박수민 의원실 등, 국가비전2050포럼 : 대한민국 지도자를 위한 국가발전의 기본원리(의원회관 제10간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 김정호 의원실 등, 유럽통합특허법원, 기업은 왜 열광하는가? : 기업이 원하는 판사와 소송대리인(의원회관 제1세미나실)&lt;br /&gt;&lt;br /&gt;10:00 염태영 의원실 등, 전세제도개선 정책토론회 : 반환보증보험제도를 중심으로(의원회관 제5간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 김성환 의원실 등, 한국사회 불평등 연속토론회. 6회차 : 교육 불평등과 빈곤의 대물림(의원회관 제8간담회의실)&lt;br /&gt;&lt;br /&gt;13:30 정희용 의원실 등, 국산재 및 산림바이오매스 이용 활성화를 위한 제도 및 법령 개선 국회토론회(의원회관 제2소회의실)&lt;br /&gt;&lt;br /&gt;14:00 염태영 의원실 등, [매입임대주택 정책 진단과 개선방안 모색을 위한 토론회] 8.8 대책, 매입임대주택 무제한 매입 방안 무엇이 문제인가?(의원회관 제7간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 오기형 의원실 등, 가업상속공제 위헌성 진단과 개선 방안 모색 토론회(의원회관 제4간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 김윤 의원실 등, 국민건강권 확보를 위한 의약품 품절사태 해소방안 국회정책토론회(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;14:00 민병덕 의원실 등, 국회ESG포럼 발족식 및 기념 토론회 (국회도서관 강당)&lt;br /&gt;&lt;br /&gt;14:00 김남근 의원실 등, 서울시 예산낭비사업 무엇이 문제인가(의원회관 제3간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 김종민 의원실 등, 언제나, 누구나 AI : 커스터마이징(의원회관 제2세미나실)&lt;br /&gt;&lt;br /&gt;15:00 김주영 의원실 등, 유럽에서 공무직 제도화의 길을 모색한다(의원회관 제3세미나실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 소통관 기자회견&lt;/b&gt;&lt;br /&gt;09:20 윤종오 의원, [쿠팡CLS 대리점 갑질 폭로 및 윤종오 국회의원 쿠팡 현안 관련 발언 기자회견]&lt;br /&gt;&lt;br /&gt;10:00 남인순 의원, [전국요양보호사협회, 노인의 날 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:20 부승찬 의원, [국군조직법 개정안 발의 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:40 한창민 의원, [사회적 참사 관련 기자회견]&lt;br /&gt;&lt;br /&gt;13:20 박지혜 의원, [더불어민주당 개혁행동포럼, 산업계 의견수렴 관련 기자회견]&lt;br /&gt;&lt;br /&gt;13:40 박은정 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;14:00 신성범 의원, [황강 취수장 관련 기자회견]&lt;br /&gt;&lt;br /&gt;14:20 박상용 의원, [창녕군 지역 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;15:00 송옥주 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
+			<pubDate>Tue, 01 Oct 2024 22:30:09 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201717</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201717</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
+			<title>【오늘의 법조】 2024년 10월 2일</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[법원]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷'특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 송영길 소나무당 대표 33차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시, 서울중앙지법&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷'노동조합및노동관계조정법위반 등 혐의' 허영인 SPC 회장 외 18명 19차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시, 서울중앙지법&lt;br /&gt;&lt;b&gt;&lt;br /&gt;▷'특정경제범죄가중처벌등에관한법률위반(횡령) 등 혐의' 경남은행 PF 횡령 사건 관련 이승기 외 2명 1차 공판&lt;/b&gt;&lt;br /&gt;-오후 3시 20분, 서울고법&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;   &lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[로펌]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷법무법인 대륙아주·헤럴드경제, '윤석열 정부의 고용·노동 정책' 미래리더스포럼 김민석 고용노동부 차관 초청 강연&lt;/b&gt;&lt;br /&gt;-오전 7시 30분, 서울 중구 소공로 119 더 플라자 호텔 22층 다이아몬드홀&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width:2px 0 0 0; border-style:bold; border-color:lightgray;" /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;   &lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[오늘의 PICK ]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷'형사부 강화 TF' 출범한 대검…"민생범죄 대응역량 제고"&lt;/b&gt;&lt;br /&gt;대검찰청이 민생범죄 대응역량을 강화하기 위해 일선 검찰청 형사부 검사들로 구성된 태스크포스(TF)를 출범했다. 심우정 검찰총장이 취임사에서 '형사부 강화'를 통해 민생범죄 대응에 중점을 두겠다는 뜻을 밝힌 데 이어 대검이 실행 방안 마련에 나선 것이다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;   &lt;a href="https://www.lawtimes.co.kr/news/201684" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;b&gt;&lt;br /&gt;▷[판결] '이태원참사 부실대응' 이임재 전 용산서장, 금고 3년…"위험성 예견할 수 있었다"&lt;/b&gt;&lt;br /&gt;2022년 이태원 참사 발생 전후 부실하게 대응한 혐의 등으로 재판에 넘겨진 이임재 전 서울 용산경찰서장이 1심에서 금고형을 선고받았다.서울서부지법 형사합의11부(재판장 배성중 부장판사)는 30일 업무상 과실치사상 등 혐의로 기소된 이 전 서장에게 금고 3년을 선고했다(2023고합25).&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;   &lt;a href="https://www.lawtimes.co.kr/news/201712" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;</description>
+			<pubDate>Tue, 01 Oct 2024 22:30:03 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201715</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201715</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>'수십억 횡령·배임 의혹' 이호진 전 태광그룹 회장 불구속 송치</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201722.jpg" alt="201722.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;이호진 전 태광그룹 회장《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;계열사를 동원해 거액의 비자금을 조성한 혐의를 받는 이호진 전 태광그룹 회장이 검찰에 넘겨졌다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;서울지방경찰청 반부패수사대는 30일 이 전 회장을 특정경제범죄가중처벌법상 횡령·배임 혐의로 불구속 송치했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 전 회장은 임원들이 그룹 계열사에 근무하는 것처럼 허위로 장부를 작성하고 직원들의 계좌로 급여를 지급한 뒤 이를 빼돌리는 방식으로 수십억 원의 비자금을 조성한 혐의를 받는다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;또한, 태광CC가 골프 연습장 공사비 8억 6000만 원을 대납하게 한 혐의와 계열사 법인카드 8000여만 원을 사적으로 사용한 혐의도 있다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;경찰은 이 전 회장과 함께 '태광 2인자'였던 김기유 전 경영협의회 의장도 횡령과 배임 혐의로 불구속 송치했다. 경찰은 이 전 회장과 김 전 의장을 공범으로 보고 있는 것으로 알려졌다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;경찰은 지난 5월 이 전 회장에 대해 구속영장을 신청했으나, 법원은 "구속 사유와 필요성을 인정하기 어렵다"며 영장을 기각했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;경찰은 지난해 10월부터 12월까지 이 전 회장의 업무상 횡령·배임 의혹과 관련해 그의 자택과 태광그룹 사무실, 임원 2명의 자택 등을 압수수색했다. 이에 태광그룹은 이 사건이 이 전 회장의 공백 동안 벌어진 전 경영진의 전횡이라며 김 전 의장을 서울서부지검에 고발했다. 사건을 검토한 검찰은 이를 경찰에 이관했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;경찰은 올해 1월 이 전 회장의 계좌 내역을 확보하며 자금 흐름을 파악했고, 법무부를 통해 출국 금지를 요청하며 횡령 혐의 수사에 속도를 냈다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;김 전 의장은 이 전 회장이 비자금 조성을 한 사실이 있다고 주장해왔다. 계열사 사외이사로 근무 중인 임원들의 급여 중 일부를 현금으로 빼돌려 비자금을 조성했다는 것이다. 그는 "회장이 돈이 필요할 때 나한테 전화를 했다. '1000만 원만 갖고 오세요'하면 그 돈을 갖다줬다. 회장은 매달 3000만 원을 요구했다. 그렇게 전달한 돈만 10억 가까이 된다"고 주장했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;김 전 의장의 주장에 태광 측은 "경찰이 임직원에게 급여를 주지 않고 별도로 비자금을 조성했다고 추궁했는데 이는 회장과는 무관하고 미지급 급여는 전부 지급했다"고 반박했다. 그러면서 김 전 의장의 비위를 고발했다. 태광 측은 김 전 의장이 직책도 없는 태광산업의 법인카드를 골프장 이용 대금, 와인 구매 대금 등으로 1억원 이상을 전용했다고 봤다. 태광관광개발(현 티시스)에 직책이 없던 2016~2017년 1500만 원 상당의 상품권을 사적으로 사용한 사실도 검찰에 고발했다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;앞서 이 전 회장은 421억 원을 횡령하고 법인세 9억 3000여만 원을 포탈한 혐의로 2011년 구속기소됐다. 이후 2019년 6월 징역 3년형이 확정돼 복역하고, 2021년 10월에 만기 출소했다.&lt;/p&gt;</description>
 			<pubDate>Tue, 01 Oct 2024 09:35:28 -0000</pubDate>
@@ -22,15 +40,6 @@
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/201720</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201720</guid>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>3일(목) 신문 휴간입니다</title>
-			<description>10월 3일(목) 신문 휴간입니다</description>
-			<pubDate>Mon, 30 Sep 2024 22:08:47 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201716</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201716</guid>
 			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 		<item>
@@ -230,16 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201671</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/empty_thumbnail.jpg</media:thumbnail>
 			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>[기억과 추모] 최광률 초대 헌법재판관 별세</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/201681.jpg" alt="201681.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5727"&gt;최광률&amp;nbsp;&lt;/span&gt;초대 헌법재판관이 29일 별세했다. 향년 88세.&lt;br /&gt;&lt;br /&gt;1936년 서울에서 태어난 최 전 재판관은 서울대 부설고와 서울대 법대를 졸업하고, 1958년 제10회 고등고시 사법과에 합격했다. 이후 1962년 대전지법 판사로 임관해 서울형사지법·서울민사지법 판사를 지냈다. 1969년 변호사로 개업한 뒤 명지대 강사, 공증인가 아세아합동법률사무소 대표변호사, 대한변호사협회 사무총장, 사법연수원 강사, 한국법학원 총무이사, 동양종합 법무법인 대표변호사, 공정거래위원회 비상임위원 등을 역임했다. 1988~1994년까지 초대 헌법재판관을 지냈다.&lt;p&gt;   &lt;br /&gt;1983년 국민훈장 모란상을, 1990년 한국법률문화상을, 1997년 청조근청훈장을 받았다.&lt;br /&gt;&lt;br /&gt;한국행정판례연구회 명예회장을 지내던 2021년에는 헌정논문집 '규범과 현실의 조화-합리성과 실효성' 출간기념회도 열었다. 최 전 재판관의 업적을 기념하기 위해 국내 저명 법률가 32명이 논문집 작성에 참여했다.&lt;br /&gt;&lt;br /&gt;고인의 유족으로는 부인 김혜자 씨와 딸 혜경·미경·유경 씨, 사위 김용균·김진우·최창원 씨 등이 있다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;빈소는 서울대학교병원 장례식장 1호실에 차려졌다. 발인은 10월 1일 오전 7시 가회동 성당에서 진행된다. 장지는 가평읍 금대리 선산이다.&lt;/p&gt;</description>
-			<pubDate>Sun, 29 Sep 2024 04:29:59 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201681</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201681</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201681.jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
