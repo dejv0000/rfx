@@ -13,6 +13,156 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘디올백’ 10개월 만에 金여사 무혐의 처분… 더 커진 정치적 논란</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/03/ZRECTIR2ANGSDE24RAKWWXIMSU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/03/ZRECTIR2ANGSDE24RAKWWXIMSU/</guid>
+      <dc:creator>유희곤 기자, 김형원 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 02 Oct 2024 15:55:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SBWMU4UIBFPUDGPFRILAAH3NHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령과 부인 김건희 여사가 지난 1일 성남 서울공항에서 열린 건군 76주년 국군의날 기념식에서 박수치고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 부인 김건희 여사의 명품 가방 수수 의혹을 수사한 검찰이 2일 김 여사에 대해 무혐의 처분을 했다. 작년 11월 관련 몰래카메라 영상 공개 후 10개월여 만에 수사가 일단락돼 김 여사는 법적 책임을 벗게 됐다. 하지만 김 여사의 처신을 둘러싼 책임 공방이 10월 국회 국정감사와 맞물려 이어지면서 여권의 정치적 부담과 논란은 커지고 있다.&lt;br&gt;&lt;br&gt;명품 가방 수수 사건은 재미 교포 최재영씨가 2022년 9월 코바나컨텐츠 사무실을 방문해 김 여사에게 300만원 상당의 디올백을 건네는 과정을 손목시계형 몰래카메라로 촬영하고, 총선을 5개월 앞둔 작년 11월 야당 성향의 유튜브가 영상을 공개하며 시작된 것이다. 서울중앙지검 형사1부(부장 김승호)는 이날 디올백을 받은 것이 청탁금지법 위반인지와 관련해 “대통령 직무와 관련이 없고, 공직자 배우자 처벌 규정도 없다”며 ‘혐의 없음’ 처분했다고 밝혔다. 디올백은 김 여사와의 우호적 관계를 유지하고 접견 기회를 얻기 위한 수단일 뿐 구체적 현안에 대한 알선 대가로 볼 수 없다는 게 수사팀 판단이다. 김 여사가 2022년 6월과 8월 최씨에게서 각각 받은 179만원 상당 샤넬 화장품, 40만원 상당 양주에 대해서도 수사팀 판단은 같았다.&lt;br&gt;&lt;br&gt;하지만 김 여사가 고가의 가방을 받은 것과 관련, 법적 책임과 별개로 도덕적·정치적 책임이 남았다는 지적이 여권에서도 나온다. 더불어민주당 등 야당은 이날 윤 대통령이 거부권을 행사한 김건희 특검법을 오는 4일 본회의에서 재표결하고 부결될 경우 다시 특검법을 발의하겠다는 입장이다. 7일부터 시작하는 국정감사도 ‘김건희 국감’이 될 것이라고 야당은 예고하고 있다. 국민의힘은 김 여사 관련 특검에는 반대하지만 당 지도부를 포함해 많은 의원들이 김 여사가 자기를 둘러싼 논란에 대해 직접 입장을 밝혀야 한다고 주장하고 있다.&lt;br&gt;&lt;br&gt;한편 검찰은 이르면 다음 주쯤 도이치모터스 주가조작 사건에 대해서도 김 여사를 혐의 없음 처분할 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MLVLF3D4HRAZ7OYFDRMQVABRHE.jpg?width=4563&amp;height=2567&amp;auth=4e20e4c605cd3f639127f8fb94d02113d1ad85d15bb221463cd7971cff65806e&amp;smart=true" type="image/jpeg" height="2567" width="4563">
+        <media:description type="plain"> 윤석열 대통령 부부, 건군 76주년 국군의날 기념식 참석
+    (성남=연합뉴스) 홍해인 기자 = 윤석열 대통령과 부인 김건희 여사가 1일 성남 서울공항에서 열린 건군 76주년 국군의날 기념식에서 박수치고 있다. 2024.10.1 [대통령실통신사진기자단]
+    hihong@yna.co.kr/2024-10-01 11:10:06/
+&amp;lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&amp;gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">진성철</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>[단독] 올 장마 기간 서울 비 예보, 60%가 틀렸다</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/10/03/P2U5AAESUFG6NJI7XJ534BWVSI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/10/03/P2U5AAESUFG6NJI7XJ534BWVSI/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 02 Oct 2024 20:02:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JJREEOGALVORFPEFAV5SA273HY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7월 25일 장마가 주춤한 가운데 서울 송파구 롯데월드타워 전망대 서울스카이에서 바라본 한강이 황톳빛을 보이고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올 장마 기간 기상청의 서울 지역 비 예보 중 60%가 어긋난 것으로 나타났다. 날씨 불확실성이 커진 상황을 감안하더라도 기상청이 전반적인 강수량 구간으로 내놓은 예보조차 맞지 않아 문제였다는 지적이다.&lt;br&gt;&lt;br&gt;2일 국민의힘 임이자 의원이 올 장마철(중부지방 기준 6월 29일~7월 27일) 총 29일 동안 서울의 비 예보와 실제 강수량을 조사한 결과, 기상청은 도합 27일간 비가 온다고 예보했고 2일간은 비가 오지 않는다고 예보했다. 이 2일간은 실제 비가 오지 않았다.&lt;br&gt;&lt;br&gt;그런데 기상청이 비 예보를 내보낸 27일 중 16일(59.3%)은 예보가 틀렸고, 11일(40.7%)은 예보가 맞았다. 예보가 틀린 16일 가운데 비가 아예 내리지 않거나, 실제 강수량이 예보된 최소 강수량에도 미치지 못해 예측 구간에서 벗어난 날이 11일에 달했다. 예보에서 주로 주목하는 ‘최대 강수량’에 비해 실제 강수량이 절반 아래여서 예보의 실효성이 크게 떨어진 날도 4일이나 됐다. 반면 기상청 예보치보다 2배 넘게 비가 쏟아진 날은 단 하루였다. 이번 장마에서 기상청이 전반적으로 ‘과다 예측’을 한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NFCXQGBX3VCKHFIAZPMUVDUKJM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올여름 장마전선은 늦더위를 불러올 정도로 강하게 발달한 티베트 고기압과 북태평양 고기압 세력이 장마 기간 한반도 상공에서 서로 힘겨루기를 하며 동서로 얇고 좁은 띠 형태로 형성됐다. 비가 내리는 지역이 좁다 보니 같은 서울이라도 지역에 따라 강수 편차가 컸다.&lt;br&gt;&lt;br&gt;올해는 기상청이 매일 오후 예보한 향후 며칠간 서울의 비 예보가 실제와 큰 차이를 보였다.&lt;br&gt;&lt;br&gt;7월 3일 기상청은 4~5일 서울에 30~80㎜의 비가 내릴 것으로 예보했다. 그런데 정작 4~5일에 실제 내린 양은 2~23㎜에 그쳤다. 예보한 최대 강수량의 4분의 1가량이었던 것이다. 이런 식으로 7월 3일부터 9일까지 일주일 가까이 예보가 연속으로 어긋났다. 비가 많이 내린다고 했는데, 실제로는 비 구경을 하기 어려울 만큼 적은 양이 내린 것이다. 7월 7일 기상청은 8일 서울에 최대 100㎜ 이상의 비를 예보했으나 실제로는 8.5~24.5㎜만 내리기도 했다. 단순히 비의 변동성이 컸다고 설명하기엔 예보와 강수 차가 너무 컸다.&lt;br&gt;&lt;br&gt;7월 중순에 들어서도 이런 ‘과잉 예보’는 이어졌다. 7월 18일 기상청은 18~19일 5~20㎜의 비를 예보했으나 실제로는 2㎜ 미만의 비가 내렸다. 19일엔 20~21일 이틀간 50~120㎜를 예보했는데 실제는 16~43㎜였다. 22일에도 22~23일 이틀간 50~120㎜를 예보했으나 14.5~34㎜에 그쳤다. 반대로 7월 16일엔 16~18일 3일간 80~120㎜, 많은 곳은 150㎜ 이상을 예보했는데 실제로는 140~274㎜의 비가 내렸다. 당시 기상청은 “과잉 예보 후 축소 예보를 했다”는 지적을 받았다.&lt;br&gt;&lt;br&gt;예보가 어긋나고 있는 것은 강수 관련 데이터에서도 나타난다. 올 7월 전국 강수 유무 정확도(ACC·강수 맞힘과 무강수 맞힘의 비율)는 77%로 최근 5년 중 가장 낮은 것으로 나타났다. ACC는 2020년 78.2%에서 2021년 83.2%, 2022년 83.8%까지 올라갔다가 작년에 78.2%, 올해 77%로 내리막을 걷고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 기상청 차장에 김승희 前 환경부 국장 내정</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/10/03/A4DEK5IEMBAV5L6LIMV33PGOWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/10/03/A4DEK5IEMBAV5L6LIMV33PGOWU/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 02 Oct 2024 20:04:00 +0000</pubDate>
+      <content:encoded>기상청 신임 차장에 김승희(55) 국민의힘 환경노동위원회 수석전문위원이 내정된 것으로 2일 알려졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 최근 김 위원에 대한 차기 기상청 차장 인사 검증 절차가 사실상 마무리됐다. 임명은 국정감사 이후가 될 것으로 보인다. 김 위원은 충남 논산 출신으로 대전 대성고, 서울대 정치학과를 졸업하고 36회 행정고시에 합격해 1992년 환경부에 입직했다. 환경부 정책총괄과장, 청와대 선임행정관, 대기환경정책관, 영산강유역청장, 한강유역청장 등을 지냈다.&lt;br&gt;&lt;br&gt;김 위원이 차장에 선임될 경우 기상청은 이례적으로 예보 경험이 없는 청·차장이 동시에 근무하는 체제를 맞게 된다. 환경부 출신 인사가 외청인 기상청 요직에 간 적은 과거에도 있었으나, 예보가 핵심 업무인 기상청은 통상 청·차장 중 1명은 기상청·공군 등에서 예보 경험이 있는 예보관 출신을 발탁해왔다. 현 장동언 기상청장은 기상청에서 세계 9번째 독자 날씨 시뮬레이터인 ‘한국형 수치예보모델’ 등을 개발한 기상연구관 출신으로 예보관 출신은 아니다. 이에 차장은 예보 전문가가 맡아야 한다는 목소리가 컸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>채소 값은 고공행진… 시금치 58%·배추 53%·무 41% 뛰어</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/03/GMRZK433YRE75GD5I2JISKWQJM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/03/GMRZK433YRE75GD5I2JISKWQJM/</guid>
+      <dc:creator>구동완 기자, 강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 02 Oct 2024 15:55:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JS6WEDROJND4DEWXAU2W6FA72A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 서울의 한 대형 마트에 ‘1인 일 3통으로 한정판매합니다’라며 배추 구매량을 제한하는 팻말이 설치돼있다. 이날 통계청은 지난달 소비자 물가 상승률이 1.6%로 3년 6개월 만에 2% 아래로 떨어졌다고 발표했다. 하지만 배추 가격은 최근까지 이어진 무더위 탓에 1년 전보다 53.6% 치솟는 등 고공 행진을 하고 있다. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9월 소비자물가 상승률(1.6%)이 3년 6개월 만에 1%대에 진입했지만 배추(53.6%), 무(41.6%) 등 채소류 물가는 지난해 같은 달보다 11.5% 올랐다. 시민들은 1%대 물가 상승률을 체감하기 어렵다고 말한다.&lt;br&gt;&lt;br&gt;2일 농수산식품유통공사 가격 정보(KAMIS)에 따르면 9월 적상추 100g의 소매 판매 가격은 2139원으로 지난해 같은 달 1656원보다 29% 올랐다. 적상추는 지난 4월만 해도 100g에 829원이었다. 시금치와 다다기 오이 가격도 급등했다. 시금치 100g 가격은 작년보다 58% 올라 3732원을 기록했다. 지난 4월 가격(704원)과 비교하면 5배 이상으로 뛰었다. 다다기 오이도 작년에 비해 약 22% 올랐다. 상추와 더불어 대표적인 쌈 채소로 꼽히는 깻잎은 장당 100원에 육박하면서 ‘금깻잎’이라는 말도 나오고 있다.&lt;br&gt;&lt;br&gt;식당을 운영하는 자영업자들은 “채소가 고기보다 비싸다”고 한숨을 쉰다. 서울 동대문구에서 보쌈집을 운영하는 지연군(63)씨는 얼마 전부터 쌈 채소에 알배추와 상추를 반씩 섞기 시작했다. 최근 알배추 시세가 포기당 2만원이 훌쩍 넘었기 때문이다. “상추도 출혈을 감내하고 한 박스에 14만원이나 주고 사 왔지만, 보쌈에 배추를 싸 먹는 걸 선호하는 몇몇 손님들은 상추를 주니까 화를 낸다”고 했다.&lt;br&gt;&lt;br&gt;채소 반찬을 줄이거나 리필을 요구하는 손님들에게 추가 비용을 받기도 한다. 충남 홍성에서 추어탕집을 운영 중인 이모(65)씨는 “시금치 등 나물 밑반찬을 제공하기 어려워 멸치 볶음과 어묵 볶음으로 대체하고 있다”며 “겨울에 쓰려고 얼려뒀던 봄나물을 미리 꺼내 쓰기도 한다”고 말했다. 서울 마포구에서 고깃집을 운영하는 유모(40)씨는 “손님들이 상추를 더 요구하면 추가 요금 2000원을 받는다”고 했다.&lt;br&gt;&lt;br&gt;전문가들은 채소 가격이 급등한 원인으로 이상기후로 인한 올여름 폭염의 장기화를 지목하고 있다. 더위가 계속되며 농가의 작황이 부진해지자 농수산물 수급에 비상이 걸렸다는 것이다. 이은희 인하대 소비자학과 교수는 “지난여름에 고온 현상이 지속되면서 고랭지 재배 농가부터 비닐하우스 농가까지 작황이 모두 좋지 않았다”며 “이상기후에 대응해 작물 재배와 공급 문제를 어떻게 해결할 것인지 정부가 종합 대책을 세워야 할 시점”이라고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰 “디올백은 만남의 수단… 뒤늦게 청탁 주장한 최재영 진술 못 믿어”</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/03/E2YI2YZOZVCXJC7CD3M4U3S7OQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/03/E2YI2YZOZVCXJC7CD3M4U3S7OQ/</guid>
+      <dc:creator>유종헌 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 02 Oct 2024 15:55:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJ4WOPX4WZMONMF3K4Z3AMN4IM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;최재영 목사가 지난 9월 27일 경기 수원시 장안구 경기남부경찰청에 출석해 공직선거법 위반 혐의 관련 조사를 받기 전 취재진에게 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 부인 김건희 여사의 ‘디올백 수수’ 의혹을 수사한 서울중앙지검 수사팀은 2일 김 여사뿐만 아니라 김 여사에게 디올백을 준 재미 교포 목사 최재영씨도 무혐의 처분했다. 최씨는 ‘디올백’에 대해 직무 관련성과 대가성이 있다며 자신을 처벌해 달라고 주장했고, 최씨가 신청한 검찰수사심의위원회도 지난달 24일 8대7로 최씨를 청탁금지법 위반 혐의로 기소하라고 권고했다. &lt;b&gt;하지만 수사팀은 디올백이 윤 대통령 직무와 관련이 없고, 최씨의 바뀐 진술을 신뢰할 수도 없다고 판단해 불기소 처분하기로 했다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;청탁금지법은 공직자 배우자가 ‘직무와 관련해’ 1회 100만원, 연간 300만원 초과 금품을 받으면 안 된다고 규정한다. 또 누구든지 공직자나 공직자 배우자에게 금지 금품을 제공해선 안 된다. 검찰은 입법 취지와 판례를 볼 때 최씨를 기소하려면 ‘디올백’이 대통령 직무와 관련해 대가성 있는 금품으로 인정돼야 한다고 보고 있다.&lt;br&gt;&lt;br&gt;최씨는 지난 5월 검찰 조사에서 작년 6~9월 김 여사에게 준 디올백과 샤넬 화장품 등에 대해 “접견을 이끌어내는 수단” “취임 축하 선물”이라고 진술했다. 최씨는 비슷한 시기 언론 인터뷰에서도 “대가성이라든지 직무 관련성은 없었다”는 취지로 말했다. 최씨와 김 여사가 주고받은 카카오톡 메시지 내용도 비슷했다.&lt;br&gt;&lt;br&gt;최씨는 김창준 전 미국 연방하원의원의 국정자문위원 임명 등을 김 여사에게 청탁했다고 주장하고 있다. 하지만 최씨가 주장한 청탁 모두가 실현되지 않았고, 김 여사가 대응하지 않거나 김 여사에게 직접 전달되지 않은 게 대부분이라는 게 검찰 수사 결과다. 수사팀은 이런 점을 볼 때 디올백 등이 대통령 직무와 관련 있다고 보기 어렵고, 김 여사와 우호적 관계를 유지하거나 접견 기회를 얻기 위한 수단으로 보는 게 맞는다고 판단했다. 검찰 관계자는 “최씨가 의도를 갖고 치밀하게 계획했다”며 “최씨가 최근 직무 관련성이 있다고 주장하지만 이는 검찰 진술서, 문자메시지 등 객관적 증거와 배치된다”고 했다. 그러면서 “국민 법 감정에 맞지 않을 수 있지만, 수사팀이 법률가의 직업적 양심에 따라 내린 결론”이라고 했다.&lt;br&gt;&lt;br&gt;최씨 측은 이날 검찰이 윤 대통령 부부의 변호인 역할을 했다고 비판했다. 김 여사를 고발했던 ‘서울의소리’ 측은 항고하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>의대생 휴학 승인 서울대 監査 착수</title>
+      <link>https://www.chosun.com/national/education/2024/10/03/2AKNHWMJZFCRDN5GIPK6RTVLBI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/03/2AKNHWMJZFCRDN5GIPK6RTVLBI/</guid>
+      <dc:creator>김경은 기자, 오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 02 Oct 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4L26M5NPUVKR5PSTO6C45Z4IYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 서울 관악구 서울대 행정관 건물로 교육부 감사 담당 직원들이 들어가고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육부가 의대생들이 낸 집단 휴학계를 승인한 서울대에 대해 대규모 감사에 착수했다.&lt;br&gt;&lt;br&gt;2일 오후 교육부는 감사관실과 인재정책기획국 직원 등 12명을 서울 관악구 서울대 대학 본부로 투입했다. 지난달 30일 서울대 김정은 의대 학장이 전국에서 처음으로 의대생들의 휴학계를 전격 처리했는데, 이 과정이 학칙에 따라 적법하게 처리됐는지 등을 중점 확인하겠다는 것이다. 정부는 그동안 ‘의대 증원’에 반발한 의대생들의 휴학은 법적으로 인정되지 않는 ‘동맹휴학’이기 때문에 승인해선 안 된다는 입장을 고수해왔다.&lt;br&gt;&lt;br&gt;교육부 측은 “서울대 의대의 ‘휴학 승인’ 조치를 취소할지는 감사 결과를 보고 판단하겠다”고 밝혔다. 법령상 교육부 장관은 대학이 학사 등과 관련해 법령을 위반하면 총장에게 시정 명령을 내릴 수 있다.&lt;br&gt;&lt;br&gt;교육부는 이날 전국 40개 의대에 ‘동맹휴학’을 허가하지 않도록 요구하는 공문도 내려보냈다. 교육부는 공문에서 “의대생의 학습권 보호, 교육 여건 악화, 의료 인력 양성 차질 등을 고려해 동맹휴학을 허가하지 않도록 해달라”고 요청했다. 서울대처럼 정부 방침을 어기고 휴학을 승인하는 대학들이 나오지 않도록 단속에 나선 것이다.&lt;br&gt;&lt;br&gt;하지만 이날 의대 교수 단체들은 서울대 의대의 휴학 승인을 지지하는 성명을 잇따라 발표했다. 서울의대·서울대병원 교수비상대책위원회는 성명서에서 “서울대 의대 학장의 휴학 승인 조치가 학생들을 보호하고 제대로 된 의대 교육을 수호하고자 하는 정당하고 필요한 조치라고 판단해 강력 지지한다”고 밝혔다. 전국의과대학교수협의회(전의교협)도 “교육부는 대학 자율성을 침해하는 월권 행위, 교육 파괴 난동을 즉각 중단하기를 바란다”며 “다른 39개 의과대학의 학장, 총장도 학생들의 피해를 막기 위해 휴학 신청을 승인해야 한다”고 했다.&lt;br&gt;&lt;br&gt;정부는 강경 대응 하고 있지만, 서울대처럼 다른 대학들도 정부 방침을 어기고 휴학을 승인할 가능성은 아직 남아 있다. 서울대처럼 휴학 승인 권한이 총장이 아닌 의대 학장에게 있는 곳이 40곳 가운데 21곳이나 되기 때문이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공무원 승진때 육아휴직도 경력 인정</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/10/03/BLPQYTIOOFG6DCUPQT5YNS2FB4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/03/BLPQYTIOOFG6DCUPQT5YNS2FB4/</guid>
+      <dc:creator>안준용 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 02 Oct 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O3JJ6I6SMFD3DBGKQAHU47QD4U.png"&gt;&lt;figcaption&gt;&lt;small&gt;게티이미지뱅크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년부터 공무원이 육아휴직(자녀당 최대 3년)을 쓰면 휴직 기간 전체를 승진에 필요한 근무 경력으로 인정받는다. 공직사회와 대기업을 중심으로 육아휴직 등 출산·양육 지원 제도가 강화되는 가운데 중소·중견기업은 여전히 사정이 열악한 곳이 많아 ‘출산·양육 지원 혜택도 빈익빈 부익부’라는 지적이 나온다.&lt;br&gt;&lt;br&gt;인사혁신처는 2일 육아휴직 전(全) 기간을 승진 경력으로 인정해주는 내용이 포함된 ‘출산·양육 친화 근무 여건 조성책’을 발표했다. 현재 공무원은 자녀 1인당 최대 3년의 육아휴직을 쓸 수 있다. 둘째 이하 자녀를 위해 쓰는 육아휴직은 휴직 전 기간을 근무 경력으로 인정하지만, 첫째 자녀를 위한 육아휴직은 1년만 인정하고 있다. 예컨대 두 자녀를 양육하며 육아휴직 6년을 쓸 경우, 4년만 경력으로 인정하는 것이다. 이에 정부는 내년부터는 육아휴직 전 기간을 근무 경력으로 인정해 승진에서 불리하지 않도록 제도를 개선한다.&lt;br&gt;&lt;br&gt;공무원 육아휴직 수당도 올린다. 현재는 육아휴직 시 평소 받던 봉급의 80%만 수당으로 지급된다. 한도가 월 150만원이다. 하지만 정부가 내년부터 기업들에 지원하는 육아휴직 급여 상한을 현재 월 150만원에서 최대 250만원으로 올리는 내용의 ‘저출생 종합 대책’을 시행하면서 공무원도 이에 맞춰 올리기로 했다. 내년부터는 육아휴직 첫 3개월간 월 250만원 한도에서 봉급의 100%를 받고, 다음 3개월간은 월 200만원 한도에서 봉급의 100%를 받는다. 그다음부터는 월 160만원 한도에서 봉급의 80%를 받게 된다. 이번 제도 개편은 국가공무원이 대상인데, 각 지방자치단체가 국가공무원 인사 제도를 표준으로 삼고 있는 만큼 시차를 두고 지방 공무원에게도 적용될 것으로 정부는 보고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7DLVTTYZ7JFY5F2SBULEYJHV3Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 강화되는 공직사회와 대기업의 출산·양육 지원 제도를 놓고 사정이 열악한 중소·중견기업 직원들 사이에선 “박탈감을 느낀다”는 목소리도 나온다. 삼성전자·현대차·LG전자·포스코·네이버 등 주요 대기업은 육아휴직 기간을 법에서 정한 1년에 더해 최대 2년까지 보장한다. 삼성전자는 자녀가 만 12세 이하 또는 초등학교 6학년 이하면 육아휴직을 쓸 수 있다. 육아휴직 법정 요건은 만 8세 이하 또는 초등학교 2학년 이하 자녀를 둔 경우인데, 이를 확대한 것이다. 현행 남녀고용평등법에 따라 기업도 법상 육아휴직 기간(최대 1년)은 반드시 근속 기간에 포함해야 하고, 1년 초과 시 추가 인정 여부는 회사마다 다르다. 포스코는 첫째 출산 시 200만원, 둘째 이상 500만원을 출산장려금으로 주고, 육아휴직 기간(최대 2년)을 모두 근속연수로 인정해 휴직 중 승진하는 경우도 있다.&lt;br&gt;&lt;br&gt;반면 중소·중견기업의 경우엔 대개 법에서 정한 1년만 육아휴직이 가능하다. 내년 2월부터는 부부가 모두 3개월 이상 쓰는 경우에 한해 육아휴직 기간이 1년 6개월씩 부부 합산 최대 3년으로 늘지만, 가계 소득과 승진 가능성을 감안할 때 부부가 모두 휴직하는 것 자체가 어렵다는 목소리가 많다. 서울의 한 중견기업에 다니는 워킹맘 A(34)씨는 “우리 회사는 사실상 달라지는 게 없다”며 “육아휴직 1년 중 6개월만 쓰고 일단 복직했지만, 가족의 양육 도움을 못 받는 상황에서 더 버티기 힘들면 남편 휴직 대신 내가 사직하기로 했다”고 말했다. 2022년 한국경제연구원 조사에 따르면 대기업 종사자의 출산율이 중소기업 종사자 대비 37% 높았다. 중소기업의 경우, 인력난뿐만 아니라 육아휴직을 경력으로 인정해 퇴직금 등을 지급해야 하는 부담 때문에 육아휴직 자체를 달가워하지 않는 경우가 많다.&lt;br&gt;&lt;br&gt;경기도의 한 중소기업에 재직 중인 회사원 B(36)씨는 “육아휴직 기간이 늘어도 눈치 안 보고 쓸 수 있는 공무원이나 대기업 직원만 혜택을 보는 만큼 중소기업 지원을 더 강화해야 한다”며 “육아휴직 기간이 길다곤 하지만 우리나라는 유연근무가 거의 불가능하고 주거비·교육비 부담은 훨씬 크기 때문에 육아휴직 급여를 더 올려줘야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대통령실 이전 공사 비리 경호처 간부 구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/03/FJHRK2SPU5E7HESLPE3HQ3N574/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/03/FJHRK2SPU5E7HESLPE3HQ3N574/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 02 Oct 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LRIX3ZQUYF6WXSPPV6AOY7J52Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대통령 취임식을 하루 앞둔 지난 2022년 5월 9일 서울 용산 대통령 집무실로 사용될 국방부 청사 앞에서 공사 및 이사 관계자들이 막바지 준비를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대통령 경호처 간부가 대통령실 용산 이전 과정에서 공사비를 부풀리고, 공사 브로커를 협박해 경호처 시설 공사 비용을 대납하게 한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울중앙지검 강력범죄수사부(부장 김보성)는 2일 경호처 간부 정모씨를 사기, 공갈, 제3자 뇌물, 직권남용, 대통령경호법 위반 혐의 등으로 구속 기소했다. 또 방탄 창호 공사 브로커 김모씨도 사기, 조세범처벌법 위반 혐의로 구속 기소했다. 인테리어 공사업자 A씨는 뇌물 공여 혐의로 불구속 기소됐다.&lt;br&gt;&lt;br&gt;정씨는 2022년 5~7월 A씨와 함께 대통령실 건물의 경호처 사무 공간 개선 공사비를 실제 원가보다 부풀려 1억원을 가로채고, 김씨를 협박해 A씨에게 줄 경호처장 공관 및 경호처 직원 관사 등 시설 공사비 1억7600만원을 대납하게 한 혐의 등을 받는다. 정씨는 이 과정에서 경호처 부하 직원에게 허위 준공감독조서를 작성하게 하고, 감사원에도 허위 자료를 제출한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;김씨는 2022년 5월 정씨와의 친분을 바탕으로 대통령 집무실, 대통령 관저의 방탄 창호 공사를 수주하면서 공사비를 부풀려 15억7000만원을 가로챈 혐의를 받는다.&lt;br&gt;&lt;br&gt;이번 검찰 수사는 작년 10월 감사원의 수사 의뢰로 시작됐다. 검찰은 감사원의 수사 요청 내용 외에도 정씨가 2021년 8월 문재인 전 대통령의 경남 양산 사저 공사 과정에서 김씨에게 2억원 상당의 창호 공사를 몰아준 혐의, 2022년 3월 A씨에게 박근혜 전 대통령의 대구 사저 공사 수주 대가로 1600만원을 받기로 한 혐의도 추가로 확인했다. 한편, 이번 검찰 수사 대상에는 과거 윤석열 대통령 부인 김건희 여사의 전시회 디자인을 맡았던 대통령 관저 리모델링 업체는 포함되지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>다자녀 공무원 승진 가점… 미혼·난임 역차별 지적도 나와</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/10/03/7YCRO7MY4BHV5AOFSXFYMFN5IA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/03/7YCRO7MY4BHV5AOFSXFYMFN5IA/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 02 Oct 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XZXDN4FVNBGAPBJDMIE5ZCE7GE.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일부 정부 부처와 지방자치단체에서는 다자녀 공무원을 승진 때 가점 등으로 우대하는 정책을 시행 중이다. 저출산 극복에 공직 사회가 앞장선다는 취지지만, 미혼 직원 등에게는 ‘역차별’이란 불만도 제기되고 있다.&lt;br&gt;&lt;br&gt;인사혁신처는 지난 1월부터 다자녀 양육 공무원에 대한 승진 우대 근거를 담은 공무원 임용령 개정안을 시행했다. 9급에서 8급으로, 8급에서 7급으로 승진시킬 공무원을 정할 때 다자녀를 키우면 가점을 줄 수 있도록 했다. 이에 맞춰 기획재정부와 농림축산식품부, 관세청 등은 성과 평가 지침을 개정해 승진할 때 자녀 숫자에 따라 가점을 0.5~1점 준다. 일부 지방자치단체도 비슷한 제도를 운영하거나 시행을 준비하고 있다. 일부 민간 기업에서도 ‘셋째 낳으면 특진’ 같은 제도를 운용하고 있다.&lt;br&gt;&lt;br&gt;하지만 일각에서는 “역차별”이라는 주장도 제기한다. 애를 낳고 싶어도 갖지 못하는 난임·불임 부부, 결혼하지 않은 미혼 직원 등을 도리어 차별하는 제도라는 것이다. 출산이나 육아에 따른 불이익을 없애는 수준을 넘어 지나친 혜택을 주는 것은 공평하지 않다는 지적도 만만치 않다. 중앙 부처에서 근무하는 30대 주무관 A씨는 “능력과 성과에 따른 승진이 아니라 업무와 전혀 관련 없는 부분에서 가점을 주는 건 형평에 맞지 않는다”고 했다.&lt;br&gt;&lt;br&gt;이상림 서울대 인구정책연구센터 책임연구원은 “다자녀 공직자에 대한 혜택이 필요한 것은 맞지만, 승진 가점제에서 제외되는 공직자들의 반발이 클 수밖에 없다”며 “이들을 설득하고 합의하는 과정이 필요하다”고 했다. 앞서 비슷한 제도를 도입했다가 폐지한 지자체도 있다. 충북 음성군은 2015년 다자녀 공무원에게 승진 가점을 주는 제도를 도입했다가, 불공정 논란이 제기되자 이듬해 철회했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 판결] “대리 기사도 노조법상 근로자”</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/03/QBANK65CYZBBLK5BTLM5KUVNUE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/03/QBANK65CYZBBLK5BTLM5KUVNUE/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 02 Oct 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2EMHRIDWTJAFJPPEYSPSJISTHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 마포역 인근에서 한 대리운전기사가 업무를 보고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대리운전 기사도 단체교섭이 가능한 노동조합법상 근로자가 될 수 있다는 대법원의 첫 판결이 나왔다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 노태악 대법관)는 부산 지역 대리운전 업체가 기사 A씨를 상대로 낸 근로자 지위 부존재 확인 소송에서 원고 패소로 판결한 원심을 확정했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;이번 대법원 판결은 대리운전 기사도 단결권, 단체교섭권, 파업을 포함한 단체행동권 등 노동 3권을 가질 수 있는 ‘노조법상 근로자’라는 것이다. 주 52시간제나 4대 보험 가입, 퇴직금 및 수당 지급 등을 보장받을 수 있는 근로기준법상 근로자라고 인정한 것은 아니다. 통상 노조법상 근로자 범위가 근로기준법보다 넓게 인정되는데, 대리운전 기사가 근로기준법상 근로자로 인정된다는 대법원 판단은 아직 나오지 않았다.&lt;br&gt;&lt;br&gt;이 소송은 대리운전 기사들이 2018년 12월 노조를 설립한 후 소속 업체를 상대로 단체교섭을 요구한 것이 발단이 됐다. 회사 측은 “대리운전 기사들은 독립적으로 영업을 하는 사업자”라며 A씨 등이 노조법상 근로자가 아니라고 확인해 달라는 소송을 냈다. 회사와 기사들은 ‘동업 계약서’를 쓰고 대리운전 서비스를 제공하고 있었다. 당시 대리운전 기사들은 법적으로 근로자로 분류되지 않아 노조 설립이 가능한지, 노동 3권을 행사할 수 있는지가 쟁점이 됐다.&lt;br&gt;&lt;br&gt;1·2심은 대리운전 기사도 노조법상 근로자에 해당한다고 판결했다. A씨 같은 기사들이 대리운전 업체의 스마트폰 앱을 통해서만 고객을 배정받을 수 있고, 늦은 밤 등 특정 시간대 근무가 사실상 의무화돼 있다는 점 등이 고려됐다. 기사들이 회사가 정하는 규칙에 따라 근무하는 종속 관계에 있다고 본 것이다. 1심은 “대리운전 기사들이 근로기준법상 근로자에 해당한다고 볼 정도는 아니지만, 다양한 방식으로 업체의 지휘∙감독을 받았던 것으로 보인다”고 했고, 2심도 같은 취지로 판단했다.&lt;br&gt;&lt;br&gt;업체 측이 상고했지만, 대법원도 4년 넘게 심리한 끝에 원심 판결이 맞는다고 판단했다. 고용노동부도 2020년 대리운전 기사 노조 설립을 허가하며 노동 3권을 인정한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>56년간 시어머니 모신 며느리 등 표창</title>
+      <link>https://www.chosun.com/national/people/2024/10/03/O6NJPFUOVRBKXHEU4AGGMPZ6CQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/03/O6NJPFUOVRBKXHEU4AGGMPZ6CQ/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 02 Oct 2024 15:35:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S54OLVZASBCSLOX5P2AAJEQGC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 서울시 ‘노인의 날 기념식’에서 서울시장 표창장을 받은 수상자들이 오세훈 시장과 기념사진을 찍고 있다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울에 사는 최모씨는 2007년부터 청각장애가 있는 아버지를 모시고 있다. 18년째다. 최씨 아버지는 올해 103세가 됐다. 이모씨는 100살이 넘은 아버지(101)를 돌보고 있다. 이씨 아버지는 2019년 뇌경색으로 쓰러져 바깥바람이라도 쐬려면 휠체어를 타야 한다. 이씨는 자신도 고령이지만 직접 아버지를 돌보고 있다. 이들처럼 고령 부모를 모시고 있는 시민 24명이 표창장을 받았다. 서울시는 2일 서울시청에서 ‘노인의 날 기념식’을 열고 최씨 등에게 서울시장 표창을 수여했다고 밝혔다. 서울시 관계자는 “노인의 날을 맞아 효를 몸소 실천하고 있는 시민들을 찾아 응원하려는 것”이라고 했다. 이들 외에 56년간 시어머니(100)를 모신 며느리 김모씨도 상을 받았다.&lt;br&gt;&lt;br&gt;이날 서울시는 노인복지에 기여한 시민 57명과 단체 5곳에도 표창을 수여했다. 서울 종로구 삼청동의 안모 통장은 1998년부터 1000번 이상 혼자 사는 노인의 집을 찾아 안부를 묻거나 방 청소 등을 한 공로로 표창장을 받았다. 은평신용협동조합은 2021년부터 저소득층 노인 818명에게 후원금 총 1500만원을 전달해 수상 단체로 선정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>윤윤수·박세리, 한미 유대 강화 공로 ‘밴플리트상’</title>
+      <link>https://www.chosun.com/national/people/2024/10/03/FSNL2QKVORHPLBLX5YCDUB7ZAU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/03/FSNL2QKVORHPLBLX5YCDUB7ZAU/</guid>
+      <dc:creator>최수현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 02 Oct 2024 15:35:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TEJF24CJ7BB5ZMHA5VLFPRY4SE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 30일 밴플리트상을 공동 수상한 윤윤수(오른쪽) 휠라홀딩스 회장과 박세리 박세리희망재단 이사장. /휠라홀딩스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤윤수(79) 휠라홀딩스 회장과 박세리(47) 박세리희망재단 이사장이 한미 관계 발전에 기여한 공로로 밴플리트상을 공동 수상했다. 윤 회장과 박 이사장은 지난달 30일(현지 시각) 미국 뉴욕 플라자호텔에서 뉴욕 한미 친선 비영리단체 코리아소사이어티가 주는 이 상을 받았다. 밴플리트상은 6·25전쟁 당시 미8군 사령관을 지내고 1957년 코리아소사이어티를 창립한 제임스 밴플리트 장군을 기리기 위해 1995년 제정됐다. 고(故) 김대중 전 대통령과 반기문 전 유엔 사무총장, 고 이건희 삼성 선대 회장 등이 이 상을 받았다. 윤 회장은 한미동맹재단과 주한미군전우회 설립을 주도해 한미 동맹 강화에 헌신하고 워싱턴 DC의 한국전 참전 용사 기념 공원 ‘추모의 벽’ 건립 기금을 지원한 공로 등을 인정받았다. 박 이사장은 스포츠를 통해 미국과 한국의 유대 강화에 기여하고 LPGA(미국여자프로골프) 투어에서 한국 여자 골프 위상을 높였다고 코리아소사이어티는 설명했다.&lt;br&gt;&lt;br&gt;윤 회장은 “글로벌 패션 산업의 성장과 번영은 한미 양국 간 끈끈한 유대의 결실 중 하나”라고 수상 소감을 밝혔다. 박 이사장은 “스포츠를 넘어 그 이상의 협력과 공존이 이루어질 수 있도록 미국과 한국에서 활발한 활동을 이어가겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 권영애 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/10/03/JPYRAW6AI5BPDCITKB2K3IBULQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/10/03/JPYRAW6AI5BPDCITKB2K3IBULQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 02 Oct 2024 15:35:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;권영애 &lt;/b&gt;별세, &lt;b&gt;이창종 &lt;/b&gt;부경엔지니어링 사장 모친상=1일14시42분 대전 성심장례식장, 발인 4일7시, (042)522-4494&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김순희 &lt;/b&gt;별세, &lt;b&gt;김승호&lt;/b&gt; 법무법인 센트럴 전자기계부장·&lt;b&gt;김문호 &lt;/b&gt;미주조선일보LA 편집국장·&lt;b&gt;김경옥 &lt;/b&gt;모친상=1일20시5분 경기 곤지암농협장례문화원, 발인 4일10시, (031)798-9750&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[인사] 환경부 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/10/03/WIEJCNAWSZA3FFDSDIIXCEMHZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/10/03/WIEJCNAWSZA3FFDSDIIXCEMHZY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 02 Oct 2024 15:35:00 +0000</pubDate>
+      <content:encoded>▲환경부◇과장급 전보▷물관리위원회지원단장 김진식▷기후변화정책관실 기후전략과장 염정섭&lt;br&gt;&lt;br&gt;▲통계청◇3급(부이사관) 승진▷사회통계기획과장 김경희▷가계수지동향과장 이진석◇4급(서기관) 승진▷기획재정담당관실 안은진▷통계데이터기획과 김병주▷농어업동향과 전찬선&lt;br&gt;&lt;br&gt;▲금융위원회▷상임위원 김범기&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2024년 10월 3일</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/03/VUQZTSCZ4VAUJKMHYYRING2QYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/03/VUQZTSCZ4VAUJKMHYYRING2QYQ/</guid>
+      <description/>
+      <pubDate>Wed, 02 Oct 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KWNPATPKGBCB5J6LRCZKQLRPKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최동석이 불륜남 맞소송 걸자… 박지윤 측 “이성 관계 절대 없었다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/02/34YIXAVGLNHT3OEZ2PNJAOLONA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/02/34YIXAVGLNHT3OEZ2PNJAOLONA/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 02 Oct 2024 14:19:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EBNSXEJ4QZFIJNSKG2TSL3JJIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 최동석(왼쪽)과 박지윤. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 박지윤(45) 측이 전남편 최동석(46)으로부터 상간자위자료 손해배상청구소송을 당했다는 보도와 관련해 사실무근이라는 입장을 밝혔다. 앞서 박지윤도 최동석의 외도를 주장하며 불륜 상대방에 대한 소송을 제기한 상태다.&lt;br&gt;&lt;br&gt;2일 일간스포츠에 따르면 최동석은 지난달 30일 제주지방법원에 박지윤과 남성 A씨를 상대로 상간자위자료 손해배상청구소송을 제기했다. 최동석은 박지윤과 A씨의 부정행위로 혼인이 파탄 났다며 소송을 낸 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이에 박지윤 소속사 JDB 엔터테인먼트 측은 이날 “개인사라 소송 내용에 대해 일일이 확인은 어렵다”면서도 “혼인 기간 중은 물론 이후 이혼소송 중에도 어떠한 부정행위 또는 배우자 외 이성 관계가 없었다는 것이 박지윤의 공식 입장”이라고 반박했다.&lt;br&gt;&lt;br&gt;서로의 외도를 주장 중인 두 사람의 진흙탕 싸움은 최근 박지윤이 최동석의 여성 지인 B씨를 상간녀로 지목하고 손해배상 소송을 제기했다는 소식이 전해지며 이목이 쏠렸다. 현재 이 소송은 제주가정법원 가사소송 2단독에서 진행되고 있다.&lt;br&gt;&lt;br&gt;최동석은 인스타그램에 글을 써 “제 지인이 박지윤으로부터 소송을 당한 건 맞다”면서도 “결혼 생활 중 위법한 일은 절대 없었고 사실무근으로 인한 명예훼손에 대해서는 강경하게 대응할 것”이라고 했다. 또 이날 공개된 한경닷컴과의 인터뷰에서도 B씨를 재판에 도움을 준 지인일 뿐이라고 했다.&lt;br&gt;&lt;br&gt;B씨와 함께 있던 목격담이 지역 온라인 커뮤니티에 올라온 것을 두고도 “브런치 카페 앞에서 찍힌 건데, 당시 ‘힘내라’고 어깨를 두드리는 장면이 찍힌 것”이라고 해명했다. 그러면서 “이성적인 사이도 아닐뿐더러, 설사 이성적이라 해도 혼인 파탄 후 만난 거라 위법 행위가 성립되지 않는다”고 주장했다.&lt;br&gt;&lt;br&gt;최동석과 박지윤은 KBS 30기 공채 아나운서 동기로 2009년 결혼 후 슬하에 1남 1녀를 뒀다. 결혼 14년 만인 작년 10월 파경 소식을 전했으며, 현재 법원에 이혼 조정신청서를 제출하고 이혼 절차를 밟고 있다. 박지윤은 2008년 KBS 퇴사 후 프리랜서로 활동 중이고 최동석은 2021년 회사를 나와 여러 방송에 출연하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세]  10월 3일 목요일 (음력 9월 1일 庚子)</title>
       <link>https://www.chosun.com/national/national_general/2024/10/02/JGYTYIKEBFEKLFC5UXZFTSXSWU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/02/JGYTYIKEBFEKLFC5UXZFTSXSWU/</guid>
@@ -724,32 +874,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QPKP6I4GNRL3XH3NJ5SZZKWV7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;피트 로즈. /AP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국 메이저리그(MLB) 역대 개인 통산 안타 1위 기록을 보유한 피트 로즈(83) 전 신시내티 레즈 감독이 1일(한국 시각) 세상을 떠났다. 로즈는 1963년부터 1986년까지 MLB에서 24시즌을 뛰는 동안 3562경기 4256안타를 기록, MLB 역대 최다 경기 출장과 개인 통산 최다 안타 기록을 갖고 있다. 통산 타율 0.303, 160홈런, 1314타점, 198도루. 현역 시절 타격 1위 3번, 최다 안타 1위에 7번 올랐다. 통산 4256안타는 MLB에서 앞으로 깨기 어려운 기록 중 하나로 꼽힌다. 1970년대 ‘빅 레드 머신’으로 불린 레즈 타선을 이끌며 두 차례 월드시리즈를 제패했고, 17번 올스타에 뽑혔다. 2루수와 우익수, 좌익수, 3루수, 1루수 5개 수비 위치에서 올스타에 뽑힐 정도로 다재다능했고, 볼넷을 얻고 1루까지 전력질주하는 ‘허슬 플레이’로 유명했다.&lt;br&gt;&lt;br&gt;업적만 보면 MLB 명예의 전당 입성은 당연했지만 도박 논란에 휘말리며 수렁에 빠졌다. 1989년 레즈 감독 시절 자기 팀 승부에 돈을 건 사실까지 밝혀지면서 MLB에서 영구 추방되는 중징계를 받았다. 이후에도 탈세 혐의로 유죄 판결을 받아 옥살이를 하기도 했다. 로즈는 생전 과도한 처벌을 받았다고 주장하며 복권을 신청했지만 이뤄지지 않았다. 올해 초 LA 다저스 오타니 쇼헤이 통역사 미즈하라 잇페이의 불법 도박 사실이 밝혀지자 로즈는 “1970~80년대 통역사가 있었으면 처벌을 받지 않았을 것”이라고 말해 재차 논란을 자초했다. 이날 MLB 사무국은 “로즈의 가족, 경기에서 함께 뛰었던 선수들, 그리고 로즈의 위대함, 근성, 결단력에 감탄했던 팬들에게 깊은 애도를 표한다”며 “명복을 빈다”는 성명을 발표했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>소녀처럼… 핑크로 물든 가을</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/02/2S7552NPWNEHRLXFFHMJ3FHDRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/02/2S7552NPWNEHRLXFFHMJ3FHDRQ/</guid>
-      <description>/KBS</description>
-      <pubDate>Tue, 01 Oct 2024 16:38:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SVH3DLLBZNH6THFKFAZKRSVMVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 오전 충북 청주시 청원구의 한 핑크뮬리 정원에서 관광객들이 가을 풍경을 즐기고 있다. 이날 전국 곳곳에 가을비가 내리며 선선한 가을 날씨를 보였다. 핑크뮬리는 가을에 활짝 피는 서양 억새의 일종이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>불꽃축제 100만 인파 대비, 여의나루역 ‘무정차’ 통과</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/02/67MJDREQN5HH3OKIIYGSCEBD6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/02/67MJDREQN5HH3OKIIYGSCEBD6A/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 01 Oct 2024 16:37:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E54F4NTTVJHQZOID2CUBEEE6D4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2023년 10월 7일 오후 서울 여의도 한강공원 일대에서 열린 '2023 서울세계불꽃축제'에서 화려한 불꽃들이 밤하늘을 수놓고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 5일 밤 여의도에서 열리는 ‘서울세계불꽃축제’에 100만명이 넘는 인파가 몰릴 것으로 예상되는 가운데 서울시가 시민 안전 대책을 발표했다.&lt;br&gt;&lt;br&gt;1일 서울시에 따르면, 행사 당일 오후 2시부터 10시까지 여의동로 마포대교 남단~63빌딩 구간의 차량 통행을 금지한다. 이 길을 지나는 버스 노선(19개)은 모두 우회한다. 대신 행사장 근처를 지나는 지하철 5·9호선의 운행 횟수를 평소보다 각각 18회, 52회 늘린다.&lt;br&gt;&lt;br&gt;행사장과 제일 가까운 지하철 5호선 여의나루역은 사람이 많이 몰리면 열차가 서지 않고 ‘무정차’ 통과한다. 서울시 관계자는 “좀 걷더라도 여의도역을 이용하는 게 안전하다”고 했다.&lt;br&gt;&lt;br&gt;행사가 끝나는 오후 8~10시에는 시민들이 빠르게 빠져나갈 수 있도록 여의도에 버스를 집중 배차할 계획이다.&lt;br&gt;&lt;br&gt;행사 당일 오후 4~9시 한강대교를 지나는 버스는 노들섬에 정차하지 않는다. 원효대교는 행사 시간에 걸어서 지나갈 수 없다. 불꽃놀이를 보려는 시민들이 다리에 몰리는 것을 막기 위해서다.&lt;br&gt;&lt;br&gt;이날 여의도 일대에선 공공자전거 따릉이와 전동킥보드, 전기자전거를 빌리거나 반납할 수 없다.&lt;br&gt;&lt;br&gt;자세한 통제 정보는 서울교통정보센터(TOPIS) 홈페이지 등에서 확인할 수 있다.&lt;br&gt;&lt;br&gt;서울시는 주최사인 한화, 서울경찰청 등과 종합안전본부를 설치하고 행사장 곳곳에 안전 관리 인력 1907명을 배치할 계획이다. 이는 작년(1486명)보다 28% 많은 것이다.&lt;br&gt;&lt;br&gt;이번 불꽃축제는 5일 오후 7시부터 90분간 진행된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“북한으로 돌아갈래” 버스 훔쳐 北 가려던 30대 탈북 남성 체포</title>
-      <link>https://www.chosun.com/national/incident/2024/10/02/QDGOTBWM6VAFZCVHDCRYIX2NAY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/02/QDGOTBWM6VAFZCVHDCRYIX2NAY/</guid>
-      <dc:creator>파주=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 01 Oct 2024 16:37:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z2DJBSP52BKLVIKVUY5GFTVW3M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경기 파주시 통일대교에 적막감이 흐르고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“북한으로 돌아가고 싶다”며 버스를 훔쳐 경기 파주 통일대교를 건너려던 30대 탈북민이 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;1일 경기 파주경찰서에 따르면, 이날 새벽 1시쯤 30대 남성 A씨가 파주 문산읍의 한 버스 차고지에서 마을버스를 훔쳤다. 당시 버스 문은 열려 있었고 운전석에 차량 키가 놓여 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨가 향한 곳은 임진강을 횡단하는 파주 통일대교였다. 이 다리는 남과 북을 연결하는 유일한 육로다. 다리 너머는 민간인 출입 통제 구역이라 미리 허가를 받아야 갈 수 있다.&lt;br&gt;&lt;br&gt;A씨가 몰던 버스가 통일대교 남단에 있는 검문소에 다다르자, 이곳을 지키던 군부대 초병들이 막아섰다. 그러나 A씨는 바리케이드를 밀고 그대로 북쪽으로 달렸다. 달리던 버스는 다리 북단의 바리케이드를 들이받고서야 멈췄다. A씨는 1시 30분쯤 출동한 경찰에 체포됐다. 이 과정에서 다친 사람은 없었다.&lt;br&gt;&lt;br&gt;경찰 조사 결과, A씨는 10여 년 전 탈북했고 서울 관악구 신림동에 혼자 살았던 것으로 파악됐다. 특별한 직업 없이 곳곳을 떠돌아다녔다고 한다. 가족은 북한에 살고 있는 것으로 알려졌다. 범행 동기를 묻는 경찰 질문에 A씨는 “남한 생활이 힘들어 북한으로 돌아가고 싶었다” “가족도 보고 싶고 우발적으로 버스를 훔쳤다”고 답했다고 한다. A씨는 범행 당시 술을 마시거나 마약을 한 상태는 아니었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “현재 차량 절도 현행범으로 체포한 상태로, 구체적인 범행 이유 등을 조사하고 있다”고 했다. 국가보안법 위반 혐의를 적용할 수 있을지도 검토 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>창원자통, 위헌심판도 신청… 국보법 사범 계속된 ‘재판 농단’</title>
       <link>https://www.chosun.com/national/court_law/2024/10/02/P2BLLYEOSFE6BB4HNLOZT22KLI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/02/P2BLLYEOSFE6BB4HNLOZT22KLI/</guid>
@@ -757,15 +881,6 @@
       <description/>
       <pubDate>Tue, 01 Oct 2024 16:36:45 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SVUVA7PDPDDDF2B4BLES4LYPKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원간첩단 사건으로 기소된 자주통일 민중전위(자통) 관계자들. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한 지령을 받고 국내에서 반국가 활동을 한 혐의로 기소된 경남 창원의 ‘자주통일 민중전위(자통)’ 조직원 4명이 지난달 23일 1심 재판부에 위헌법률심판 제청 신청을 낸 것으로 1일 전해졌다. 이들에게 국가보안법·형법이 적용됐는데, 일부 조항이 위헌이라는 주장이다. 재판부가 이를 받아들일 경우 헌법재판소 판단이 나올 때까지 재판은 멈추게 된다. 법조계에선 “국보법 위반 사범의 재판 지연 시도에 법원이 휘둘려선 안 된다”는 말이 나온다.&lt;br&gt;&lt;br&gt;자통 조직원들은 2023년 3월 구속 기소됐지만, 1년 7개월간 유무죄를 가리는 정식 재판은 단 두 차례만 열렸다. 이들이 국민참여재판, 재판부 기피 등을 잇따라 신청하면서 재판을 지연시켰기 때문이다. 그러는 사이 이들은 작년 12월 구속 기간 만료를 앞두고 법원의 보석 결정으로 풀려났다. 처음 이 사건을 심리하던 서울중앙지법은 지난 4월 자통 조직원들의 요청을 받아들여 창원지법으로 사건을 이송했는데, 창원지법은 6개월간 쟁점·증거를 정리하는 준비 기일만 세 차례 열었을 뿐이다. 한 법조인은 “서울중앙지법 재판부가 ‘집중 심리가 필요하다’며 창원지법으로 보냈는데, 이후 한 차례도 정식 재판을 못 했다는 게 황당하다”고 했다.&lt;br&gt;&lt;br&gt;자통뿐만 아니라 북한 노동당 대남 공작 기구인 문화교류국에 포섭된 다른 국내 지하 조직 사건 재판도 비슷한 상황이다. 작년 4월 기소된 제주 ‘ㅎㄱㅎ’ 조직원들은 지난 7월 제주지법에 1심 재판부 기피 신청을 냈고, 이후 재판이 멈췄다. 제주지법은 4일 만에 이를 기각했는데, 피고인들의 항고를 접수한 광주고법이 62일째 결론을 내지 않고 있다. 광주고법이 항고를 기각하더라도 피고인들이 대법원에 재항고할 가능성이 높아 재판 지연은 이어질 전망이다. 작년 5월 기소된 경기 수원의 ‘민주노총 간첩단’ 사건을 심리 중인 수원지법은 지난 3월 ‘캄보디아 현지에 사실 조회 신청을 해달라’는 피고인의 요청을 받아들이면서 5개월간 재판을 멈추기도 했다. 캄보디아는 검찰이 이 사건 피고인들과 북한 공작원이 접촉했다고 보는 곳이다. 결국 캄보디아로부터 회신을 받지 못한 수원지법은 지난달 23일 결심(結審)을 열었고, 검찰은 전 민주노총 간부에게 징역 20년을 구형했다. 내달 6일 1심 선고 예정이다.&lt;br&gt;&lt;br&gt;충북 청주의 ‘충북동지회’ 조직원 3명도 법관 기피 신청 등으로 재판을 지연시키다 지난 2월 기소된 지 2년 5개월 만에 1심에서 각각 징역 12년을 선고받았다. 2심 재판부는 재판을 빠르게 진행해 지난 7월 결심을 할 예정이었다. 하지만 조직원들은 결심 당일 재판부 기피 신청을 냈고, 대법원이 지난달 20일 이를 최종 기각할 때까지 78일이 걸렸다. 한 공안 검사는 “국보법 사범의 재판 지연은 ‘뉴 노멀’이 됐다”면서 “제지하고 싶어도 마땅한 방법이 없어 답답하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이젠 ‘2026학년도 정원’으로 옮겨가는 의정 갈등</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/10/02/CY2C7BP2OJCRDFSZNRGF6CCC34/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/02/CY2C7BP2OJCRDFSZNRGF6CCC34/</guid>
-      <dc:creator>조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 01 Oct 2024 16:15:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4YXK4TJGEJFHZBZUHD5T6YZTDI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2025학년도 대입 수시 원서 접수를 시작한 지난 9월 9일 오후 경기 안양시 동안구의 한 학원가의 건물에 의대 입시 관련 홍보문이 붙어있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올 초 의대 증원으로 촉발된 의정(醫政) 갈등의 초점이 ‘2025학년도 정원’에서 ‘2026학년도 정원’으로 옮겨가는 조짐이 나타나고 있다.&lt;br&gt;&lt;br&gt;국내 모든 의사가 소속된 대한의사협회(의협)는 지금까지 “내년도 의대 증원 백지화 없인 대화도 없다”는 입장이었다. 반면 정부는 “2026학년도 정원은 재검토할 수 있지만, 내년도는 불가능하다”고 맞서 왔다.&lt;br&gt;&lt;br&gt;그런데 의협은 지난 30일 “내년도 의대 증원을 피할 수 없다면 2026학년도부터는 (의대 정원) 감원이 가능하다는 걸 법적으로 보장하라”고 요구했다. 2026학년도 의대 정원의 축소가 가능하다고 정부가 보장하면, 내년도 의대 증원 백지화를 고수하지 않을 수 있다는 여지를 보인 것이다. 이에 대해 정부 고위 관계자는 1일 “정부가 제안한 ‘의료 인력 수급 추계 위원회’(인력 추계위)에 의료계가 참여하면 2026년부터 의사가 어느 정도 필요한지 다시 추계 조사를 하게 될 것”이라며 “조사 결과가 ‘감원해야 한다’고 나온다면 감원할 수 있다”고 했다. 의료계 내에서도 “정부 발표대로, 인력 추계위에 의료계 추천 전문가 과반이 들어간다면 내년도 의대 증원분만큼, 2026학년도에 감원을 할 수 있는 것 아니냐”는 얘기가 나왔다.&lt;br&gt;&lt;br&gt;그러나 정부 안팎에선 “2026학년도 이후 의사 수 추계 조사에서 감원을 해야 한다는 결과가 나오긴 어려울 것”이란 분석이 지배적이다. 매년 배출되는 의사와 전문의 수 등이 정해져 있어 미래 필요 의사 수의 경우 계산하기가 쉬운 편이라는 것이다. 누가 조사를 해도 기존의 정부 용역 조사처럼 ‘2030년엔 의사 1만명이 부족하다’는 결론이 나올 것이란 의미다.&lt;br&gt;&lt;br&gt;양측이 ‘2026학년도 의사 정원 문제’를 다루기로 합의한다 해도, 논의가 계속되긴 쉽지 않을 것이란 관측이 많다. 우선 전공의 다수는 여전히 ‘2025학년도 증원 백지화’를 요구하고 있다. 어떤 합의를 해도 전공의가 거부할 가능성이 상당하다는 뜻이다.&lt;br&gt;&lt;br&gt;또 인력 추계위의 성격에 대한 양측의 이견도 걸림돌이 될 수 있다. 의료계는 추계위가 적정 의사 인원을 결정해야 한다는 입장이다. 정부는 최종 의결은 환자도 참여한 복지부 보건의료정책심의위에서 해야 하며, 추계위는 자문 기구라고 하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>위험한 응급실</title>
@@ -789,46 +904,6 @@
       </media:content>
     </item>
     <item>
-      <title>[입에 착착 붙는 일본어] 제정신으로 돌아오다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/10/02/3QGCC7PEF5C2DI526YFGJ2LGN4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/10/02/3QGCC7PEF5C2DI526YFGJ2LGN4/</guid>
-      <description/>
-      <pubDate>Tue, 01 Oct 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BCLRNXKRH5BRNH4IFXS3ZNWLHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 유영(遊泳)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/10/02/C4XGHBNXIVGOREZVWJBGZO65XA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/10/02/C4XGHBNXIVGOREZVWJBGZO65XA/</guid>
-      <description/>
-      <pubDate>Tue, 01 Oct 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UHHNJ4YWCVHDPO6MM7UMVKHZR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] have a knack for</title>
-      <link>https://www.chosun.com/national/nie/english/2024/10/02/BU7NZORXLNFNLK56PZGNOJ2YSI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/10/02/BU7NZORXLNFNLK56PZGNOJ2YSI/</guid>
-      <description/>
-      <pubDate>Tue, 01 Oct 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VD34VYOO5VABHE4H7AHFV7NQPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 팔자 주름</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/10/02/5AJXIJNFD5F5ZA6DBKP3JB7QGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/10/02/5AJXIJNFD5F5ZA6DBKP3JB7QGU/</guid>
-      <description/>
-      <pubDate>Tue, 01 Oct 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OYSCONK3XRA4VH7XZWUMUK2TO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2472] 양손으로 또박또박</title>
-      <link>https://www.chosun.com/national/nie/2024/10/02/FHINOUPBZBGYLH6XR7YJUGKIRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/10/02/FHINOUPBZBGYLH6XR7YJUGKIRQ/</guid>
-      <description/>
-      <pubDate>Tue, 01 Oct 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UZKC4R22WZEBLPBFOMGHSJT32A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [예쁜 말 바른 말] [364] ‘늦깎이’와 ‘늘그막’</title>
       <link>https://www.chosun.com/national/nie/2024/10/02/5Y6IFNXW6JBTTKYGWMHRV6M5MU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/10/02/5Y6IFNXW6JBTTKYGWMHRV6M5MU/</guid>
@@ -836,41 +911,6 @@
       <description/>
       <pubDate>Tue, 01 Oct 2024 15:38:43 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4G2G6AAPBEEJICO7RGENG4WOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;*할아버지는 “늙으막에 자식들에게 봉양받는 시대는 이제 끝이니 퇴직하고 재취업했다”고 하셨고, 고모할머니는 “자식들 뒷바라지하느라 못다 한 공부를 하고 싶어 늦깍이 대학생이 되었다”고 말씀하셨다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;이 중 틀리는 말을 찾아 바르게 고쳐 보세요. ‘늙으막’은 ‘늘그막’, ‘늦깍이’는 ‘늦깎이’로 고쳐야 해요.&lt;br&gt;&lt;br&gt;‘늦깎이’는 ‘늦다’의 어간 ‘늦-’에 ‘깎다’의 어간 ‘깎-’과 ‘-이’를 합친 말이에요. 본래 ‘늦게 머리를 깎은 사람’, 즉 ‘나이가 들어 승려가 된 사람’을 가리키는 말이었어요.&lt;br&gt;&lt;br&gt;예를 들면 ‘그 스님은 늦깎이로 사십 세가 넘어서야 불교에 입문했다’와 같이 써요. 현재는 의미가 확대되어 ‘나이가 꽤 들어서 어떤 일을 시작하거나 성공한 사람’이나 ‘남보다 사물의 이치를 늦게 깨달은 사람’을 모두 ‘늦깎이’라고 해요. 또 과일이나 채소 따위가 늦게 익은 것도 ‘늦깎이’라고 하지요.&lt;br&gt;&lt;br&gt;‘늘그막’은 ‘늙어 가는 무렵’을 가리키는 말이에요. ‘늙다’의 명사형이 ‘늙음’이듯, ‘늙으막’으로 써야 한다고 생각하기 쉬운데, ‘늘그막’이 맞는 표기랍니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;[예문]&lt;/b&gt;&lt;br&gt;&lt;br&gt;-고향에서 형제들과 모여 사는 것이 늘그막의 유일한 꿈이다.&lt;br&gt;&lt;br&gt;-사과나무에서 아직 늦깎이는 따지 못했어.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [동물 이야기] 가을이면 들리는 ‘귀뚤귀뚤’ 소리… 수컷 귀뚜라미가 날개 비비는 소리죠</title>
-      <link>https://www.chosun.com/national/nie/2024/10/02/RM45QO5J5FD4PPPTEEIHMTRQ6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/10/02/RM45QO5J5FD4PPPTEEIHMTRQ6I/</guid>
-      <dc:creator>정지섭 기자, 도움말=김태우 국립생물자원관 환경연구관</dc:creator>
-      <description/>
-      <pubDate>Tue, 01 Oct 2024 15:38:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZAKKG6OG5RCCRLP2WQHOQPMG4A.png"&gt;&lt;figcaption&gt;&lt;small&gt;풀밭에서 흔히 볼 수 있는 극동귀뚜라미의 모습이에요. 우리나라에 사는 귀뚜라미는 40종이 넘는답니다. /국립생물자원관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;불볕더위가 어느새 물러가고 선선한 가을 날씨로 바뀌었어요. 시끄럽던 매미 소리가 사라지고 귀뚜라미가 우는 소리가 곳곳에서 들려오고 있지요. 가을의 전령으로도 불리는 귀뚜라미는 어떤 곤충일까요?&lt;br&gt;&lt;br&gt;우리나라에는 40여 종의 귀뚜라미가 살고 있어요. 종류마다 조금씩 다르지만 대체로 갈색이나 검은색을 하고 있고 폴짝폴짝 잘도 뛰어다니죠. 귀뚜라미는 밤에 주로 활동하는 야행성이랍니다. 지하철역 계단이나 아파트 입구, 보도블록 같은 데서도 귀뚜라미가 귀뚤귀뚤 우는 소리를 들을 수 있는데요.&lt;br&gt;&lt;br&gt;이건 귀뚜라미가 사람 사는 곳을 유독 좋아해서가 아니라 어느 환경에도 뛰어나게 적응하기 때문이에요. 귀뚜라미는 먹는 것도 이것저것 가리지 않는 잡식성이랍니다. 죽은 벌레, 낙엽, 먹다 남은 과일 등 무엇이든 잘 먹죠. 어두운 밤 땅바닥에서 주로 활동하는 귀뚜라미의 몸은 대체로 짙은 갈색이나 검정 등 어두컴컴한 색이에요. 그런데 청솔귀뚜라미처럼 나무나 풀에서 주로 살아가는 일부 종은 녹색이에요.&lt;br&gt;&lt;br&gt;귀뚜라미는 가을에 모습을 드러내기 전까지 무얼 하며 지낼까요? 대부분의 귀뚜라미는 늦봄 무렵에 알에서 태어나 애벌레로 여름 내내 무럭무럭 자라요. 애벌레는 어른벌레(성충)와 빼닮았지만 날개는 달리지 않았죠.&lt;br&gt;&lt;br&gt;가을이 되면 비로소 어른벌레가 되는데요. 번데기 과정을 거치지 않고 애벌레 단계에서 바로 탈바꿈을 하는 ‘불완전 변태’를 거친답니다. 이렇게 어른이 된 귀뚜라미들 중 오직 수컷만 울음소리를 내요. 앞날개 한 쌍을 마주 비벼서 ‘귀뚤귀뚤’ 소리를 내는데, 수컷 날개에만 소리가 내는 마찰판과 마찰 돌기가 있거든요.&lt;br&gt;&lt;br&gt;시끄럽게 들리기도 하는 귀뚜라미의 울음소리는 사실 수컷이 암컷을 찾아 부르는 사랑의 노래랍니다. 이 소리에 반해서 찾아온 암컷과 짝을 짓고 알을 낳은 다음, 겨울이 오기 전에 생을 마감해요.&lt;br&gt;&lt;br&gt;하지만 수컷 울음소리를 듣고 찾아오는 것은 암컷뿐만이 아니랍니다. 귀뚜라미의 천적인 기생파리도 이 울음소리를 듣고 찾아와 귀뚜라미 몸속에 몰래 알을 낳아요. 그럼 그 알 속에서 구더기들이 부화해 귀뚜라미의 속살을 파먹으면서 자라고, 귀뚜라미는 시름시름 죽어가게 되죠. 이렇게 기생파리의 먹잇감이 되지 않으려고 외국의 일부 귀뚜라미 종은 수컷인데도 울음소리를 내지 않는 쪽으로 진화하고 있대요.&lt;br&gt;&lt;br&gt;귀뚜라미는 다가올 식량 위기를 해결할 수 있는 새로운 먹거리로도 각광 받고 있어요. 세계 각국에서 귀뚜라미를 활용한 식품을 개발하고 있죠. 우리나라도 몇 년 전 농촌진흥청에서 귀뚜라미에서 뽑은 단백질 성분으로 분말을 만들어 양갱이나 초콜릿 등을 만드는 기술을 개발해서 화제가 됐어요.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [숨어있는 세계사] 히틀러에게 열광한 800만 청소년… ‘광기의 역사’에 이용됐죠</title>
-      <link>https://www.chosun.com/national/nie/2024/10/02/SFCFEVOZZBHVJG2G3U72W2I324/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/10/02/SFCFEVOZZBHVJG2G3U72W2I324/</guid>
-      <dc:creator>서민영 계남고 역사 교사, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 01 Oct 2024 15:37:29 +0000</pubDate>
-      <content:encoded>얼마 전 중국 ‘문화대혁명’ 시기 홍위병을 상징하는 인물 쑹빈빈(75)이 사망했다는 소식이 전해졌어요. 마오쩌둥은 1966년부터 10년간 ‘자본주의를 몰아내고 사회주의 사상을 실천하자’는 문화대혁명을 주도했는데요. 반대파를 몰아내고 정치적 입지를 강화하려는 목적이 있었죠. 이 과정에서 수많은 지식인과 정부 관료들이 ‘반동분자’로 몰리며 죽거나 쫓겨났어요.&lt;br&gt;&lt;br&gt;이 무시무시한 사회운동의 중심엔 마오쩌둥의 호위 부대 ‘홍위병’이 있었어요. 1000만명이 넘었던 것으로 알려진 홍위병은 놀랍게도 중·고교생과 대학생들로 이뤄진 조직이었죠. 당시 고등학생이었던 쑹빈빈은 ‘교사를 공격하자’는 내용의 대자보를 쓰고, 심지어 교감 선생님을 때려 죽이기까지 했어요. 그는 문화대혁명 관련 행사에서 마오쩌둥 팔에 붉은색 홍위병 완장을 채우며 홍위병을 대표하는 인물로 거듭났죠.&lt;br&gt;&lt;br&gt;이처럼 어린 학생들이 ‘광기(狂氣)의 역사’ 중심에 있었다는 사실은 지금도 많은 사람을 놀라게 해요. 하지만 세계사 속에는 홍위병 같은 청소년 단체들이 더 있었답니다. 오늘은 정권의 선전 선동에 이용된 청소년 조직들에 대해 알아볼게요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IU2KNWSVXVBBLPXCI2U75XHGMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1966년 중국 베이징 천안문 광장에 홍위병 약 100만명이 모인 가운데, 쑹빈빈(우측)이 마오쩌둥(좌측)의 팔에 붉은색 홍위병 완장을 채워주고 있어요. 이 행사 이후 쑹빈빈은 홍위병을 상징하는 인물이 됐어요. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;지식인 탄압하고 문화유산 불태운 홍위병&lt;/b&gt;&lt;br&gt;&lt;br&gt;수많은 사람을 죽음으로 몰았던 홍위병은 어떻게 등장하게 된 걸까요? 1949년 중화인민공화국이 수립된 이후, 마오쩌둥은 부강한 사회주의 국가를 만들겠다며 ‘대약진 운동’을 벌였어요. 하지만 현실과 맞지 않는 무리한 계획을 세워서 결국 운동은 실패로 돌아갔어요. 입지가 줄어들게 된 마오쩌둥은 반대파를 없애기 위해 ‘과거 청산’이라는 구호를 내세우며 문화대혁명을 일으킵니다. 그리고 이 과정에서 자신을 추종하는 청소년 조직을 적극 이용했어요. 홍위병이란 이름은 칭화대 부속 중학교 학생들이 ‘마오쩌둥 주석을 보위하는 붉은색의 보위병’이라는 말을 사용한 데서 유래한 것으로 알려져 있어요.&lt;br&gt;&lt;br&gt;마오쩌둥은 홍위병들이 중국 전역에 문화대혁명의 이념을 알릴 수 있도록 공짜 기차표를 지급하기도 했어요. 베이징의 홍위병은 전국 각지의 학교와 공장으로 몰려다녔고, 지방의 홍위병은 혁명 이념을 배우기 위해 베이징을 찾았죠. 그렇게 홍위병 사이에서 마오쩌둥은 점점 신앙이 되어갔어요. 집집마다 그의 초상화를 걸었고, 항상 마오쩌둥의 어록을 학습하고 그의 사상을 전파했어요.&lt;br&gt;&lt;br&gt;홍위병은 ‘사회 정화’라는 명분을 내세우며 점차 폭력적으로 변해갔어요. 이들은 붉은 완장을 차고 무리지어 다니며 교사와 지식인들을 거리로 끌고 나와 마구 때렸죠. 체제를 비판할 우려가 있는 지식인 계층들을 탄압했던 거예요. 이들은 문화유산과 서적들도 ‘파괴해야 할 구시대 산물’이라고 보고 불태워 버리기도 했어요. 심지어는 ‘부르주아가 키우는 짐승’이라며 고양이들을 죽이기도 했죠. 홍위병은 1976년 마오쩌둥의 사망으로 문화대혁명이 막을 내릴 때까지 계속됐어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PKE2F5H5WZDRPOAIOHSX2NYOTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1930년대 히틀러 유겐트 단원들. 당시 히틀러 유겐트는 군대 같은 조직을 갖고 있었고 기초 군사훈련도 받았대요. /게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;소년들 영웅 심리 자극한 히틀러&lt;/b&gt;&lt;br&gt;&lt;br&gt;제2차 세계대전을 일으킨 아돌프 히틀러는 ‘히틀러 유겐트’라는 청소년 친위대를 만들었어요. 히틀러 유겐트는 1926년 나치당이 독일 청소년들에게 나치당의 신조를 가르치고 훈련하기 위해 만든 조직이었는데요. 나치당은 이 조직을 이용해 다양한 정치 캠페인을 벌였습니다. 히틀러의 연설을 듣기 위해 히틀러 유겐트 단원 수만명이 전국에서 모여들기도 했어요.&lt;br&gt;&lt;br&gt;어린 학생들이 히틀러와 나치즘에 열광한 이유는 무엇이었을까요? 히틀러 유겐트의 상징인 갈색 제복과 배지는 10대들의 소속 욕구와 영웅 심리를 자극했어요. 히틀러 유겐트 단원이 된다는 것은 자신의 신체 능력을 뽐낼 기회이기도 했죠. 히틀러 유겐트에선 강한 체력을 기르기 위해 수영, 달리기 등의 체력 훈련을 했답니다. 장애가 있거나 부모 한쪽이 유대인인 경우에는 가입할 수 없었대요.&lt;br&gt;&lt;br&gt;히틀러 유겐트는 군대와 거의 똑같은 편성으로 조직됐어요. 캠핑과 행진 등을 하며 단원들의 소속감을 높이고, 심지어 기초적인 군사훈련도 받았습니다. 단원들은 한자리에 모여 나치의 연설을 들으며 히틀러에게 더욱 복종하게 됐죠. 히틀러유겐트는 제2차 세계대전이 시작된 1939년 무렵엔 약 800만명의 청소년이 가입한 거대 조직이 되었습니다. 이런 상황에서 당시 독일에는 나치와 히틀러에게 반대하는 의견이 생기기 어려웠겠죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SRMTJA3V5FHXPH6DSUTHTCKIRM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘히틀러 유겐트’의 선전 포스터. 갈색 제복을 입은 소년 단원 뒤로 독일 나치 친위대 군인의 모습이 희미하게 그려져 있어요. 하단에 흰색 글씨로 쓰인 독일어 ‘Auch Du’는 ‘당신도’라는 뜻이에요. /게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;빈민층 10대 노린 독재자 폴 포트&lt;/b&gt;&lt;br&gt;&lt;br&gt;‘킬링 필드(The Killing Fields)’라는 영화를 들어본 적이 있나요? 1970년대 캄보디아에서 벌어진 대학살을 다룬 영화인데요. 당시 캄보디아에선 독재자 폴 포트가 이끄는 급진 공산주의 단체인 ‘크메르 루주’가 공포정치를 펼치고 있었어요. 크메르 루주는 자본주의와 관계된 모든 제도와 사람들을 없애려고 했죠. 자본가는 물론 의사·교수·법조인·과학자 등 지식인을 수용소에 가뒀고, 잔인한 방법으로 고문하고 죽였어요. 1975년부터 4년 동안 당시 캄보디아 인구의 4분의 1(200만명)이 희생됐다고 하니, 말 그대로 ‘대학살’이었던 거죠.&lt;br&gt;&lt;br&gt;그런데 이 잔혹한 일에 앞장섰던 이 중 많은 수가 10대 어린 소년이었습니다. 폴 포트는 제대로 교육받지 못한 빈민층 소년들을 자신의 편으로 만들었어요. 사회적 차별과 경제적 불평등에 민감한 이들을 세뇌하고, 이들에게 폭력을 휘두를 권한까지 줬죠. 크메르 루주 지도부는 충성스러운 소년들에겐 충분한 보상을 해줬어요. 10대 청소년에게 수용소 한 곳의 관리를 맡기기도 했죠. 이를 통해 수용소에서는 더욱 잔인한 폭력이 이어졌다고 해요. 크메르 루주 정권은 1979년 종식됐지만, 그 후유증은 오랫동안 이어졌습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/34ZNWNAA5NDGVFOA5OZUKUU63U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;앳된 얼굴의 ‘크메르 루주’ 군인들의 모습. 1970년대 캄보디아의 독재자 폴 포트는 자신을 추종하는 10대 청소년들을 이용해 공포정치를 펼쳤어요. /게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 10월 2일</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/02/DQ3UJSGAORGEPNTB7TJ2D446PA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/02/DQ3UJSGAORGEPNTB7TJ2D446PA/</guid>
-      <description/>
-      <pubDate>Tue, 01 Oct 2024 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TEBZMYWA4NCT7N34M7CWLYYY2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“행복할 땐 행복만 해야”… 한소희, 사생활 논란 이후 올린 영상</title>
-      <link>https://www.chosun.com/national/people/2024/10/01/KOQCLE2NZREUDAO6H4VDUIZO5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/01/KOQCLE2NZREUDAO6H4VDUIZO5M/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 01 Oct 2024 14:45:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5LKYHRA5KJAMHH7WY6VXNQJQD4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/한소희 블로그&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사생활 논란과 모친 불법 도박장 운영 등으로 구설에 올랐던 배우 한소희가 근황을 전하는 영상을 공개했다. &lt;br&gt;&lt;br&gt;한소희는 지난달 27일 자신의 네이버 블로그에 ‘경성크리처2와 처음이자 마지막 브이로그’라는 제목으로 영상 4개를 올리고, 최근 촬영한 넷플릭스 시리즈 ‘경성크리처 시즌2′를 홍보하고 근황을 전했다. 이날은 경성크리처 시즌2 영상이 넷플릭스에 공개된 날이기도 했다.  &lt;br&gt;&lt;br&gt;영상에서 한소희는 팬들을 향해 “행복은 모두에게 공통으로 주어지는 거니까 그 행복을 만끽하면서 사셨으면 좋겠다”며 “저도 요즘 주어진 행복을 있는 그대로 만끽하려고 한다”고 했다. 그러면서 “행복할 땐 행복만 해야 한다. 혼란스러운 상황들, 결정을 내려야 하는 순간이 오면 늘 그렇듯 현명하게 잘 이겨내실 거라 믿는다”고 했다.&lt;br&gt;&lt;br&gt;이번 영상은 지난 3월 한소희가 배우 류준열과 ‘환승연애’ 했다는 의혹이 불거진 뒤 블로그에 처음 올라온 것이다. &lt;br&gt;&lt;br&gt;한소희는 “저를 사랑해 주시는 분들, 또 그냥 저를 믿고 응원하고 지지해 주시는 분들에게 어떻게 하면 좀 최대한 제가 갚아드릴 수 있을지 생각하는 요즘”이라며 “결국에는 이 직업 자체가 저만 좋자고 하는 일이 아니기 때문에 더 그런 생각을 하게 된다”고 했다. 이어 “완벽하지 않은 저의 모습에 대한 질책에서 오는 것도 있는 것 같다”며 “조금 더 저를 채찍질하고 더 많이 단련과 훈련을 시켜서 조금 더 근사한 모습으로 찾아뵙고자 한다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYHG4L4J6NO6PHCUUJXSMOIEAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한소희가 지나달 25일 오전 서울 용산구 드래곤시티 호텔에서 열린 넷플릭스 시리즈 '경성크리처' 시즌2 제작발표회에서 포즈를 취하고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한소희는 영상에서 피어싱 스티커를 붙이는 모습을 공개하기도 했다. 한소희는 작년 9월 소셜미디어를 통해 얼굴 눈 밑과 입술 밑에 피어싱한 모습을 공개했으나, 한 달 만인 10월 전부 제거했다고 밝혔던 바 있다. 한소희는 “전에 뚫었던 곳에 붙이겠다”며 “이렇게 좋은 아이템이 있는데 왜 그때 고통을 참아가면서까지 뚫었는지”라고 했다. &lt;br&gt;&lt;br&gt;한편 한소희가 주연으로 등장하는 경성크리처 시즌2는 공개 이틀 만에 글로벌 TV쇼부문 3위에 오르고, 한국·미국·일본·독일·프랑스 등 80개국 TOP10에 들 정도로 화제를 모으고 있다. 경성크리처 시즌1은 1945년 괴물 실험이 벌어지는 경성의 한 병원에서 윤채옥(한소희)과 장태상(박서준)이 사투를 벌이는 내용이었고, 시즌2는 2024년을 배경으로 두 사람의 엇갈리는 운명과 로맨스가 주된 이야기로 담겼다. &lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘인민군과 싸운 경찰’ 한효동 前강경서장 별세</title>
@@ -882,15 +922,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BYQE4IR7DZEA3PUGAXSVO7TMFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한효동 前 강경경찰서장. /유족 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·25전쟁 당시 충남 논산에서 벌어졌던 ‘강경 전투’의 마지막 생존자인 한효동(97) 前 강경경찰서장이 지난달 30일 대전 자택에서 별세했다.&lt;br&gt;&lt;br&gt;고인은 1927년 충남 논산에서 태어나 대전고를 졸업하고 1948년 경찰관이 됐다. 6·25전쟁 때 강경경찰서(옛 논산경찰서)에 근무했다. 당시 강경경찰서 경찰관들은 남진하던 북한 인민군 1000여 명과 맞서 싸웠다. 고인은 강경 전투에 참전한 공로 등으로 녹조근정훈장을 받았다. 유족으로는 아내 양채호씨, 딸 영숙씨, 아들 윤우·일권·선우·운우씨가 있다. 빈소는 대전 건양대병원, 발인은 3일 오전 7시. (042)600-6660&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>9월 폭염 물러가자, 얼음 어는 ‘10월 한파’</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/10/01/QABFBJ5NGFEPFOEVSJNAMFLDEQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/10/01/QABFBJ5NGFEPFOEVSJNAMFLDEQ/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 01 Oct 2024 11:46:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ZFMJXYBEFF45PXRNXYBIRYXXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오전 충북 청주시 청원구의 한 핑크뮬리 정원에서 관광객들이 가을 풍경을 즐기고 있다. 이날 전국 곳곳에 가을비가 내리며 선선한 가을 날씨를 보였다. 핑크뮬리는 가을에 활짝 피는 서양 억새의 일종이다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 역대 가장 뜨거운 9월을 보낸 것으로 나타났다. 반대로 10월은 수은주가 갑자기 뚝 떨어지며 얼음이 어는 등 예년보다 쌀쌀할 것으로 전망된다.&lt;br&gt;&lt;br&gt;1일 기상청에 따르면, 올 9월 전국 평균 일 최저기온은 20.9도를 기록해 기상관측망이 전국으로 확대된 1973년 이후 처음으로 20도를 넘어섰다. 종전 1위인 작년 9월(19도)보다 1.9도, 평년(1991~2020년·30년 평균) 9월(16.1도)보다는 4.8도 높은 것이다.&lt;br&gt;&lt;br&gt;올 9월은 평균 일 최고기온도 30도에 육박했다. 29.6도를 기록하며 종전 1위인 1975년 9월(27.2도)보다 2.4도, 평년(25.9도)보다 3.7도 높았던 것으로 조사됐다. 최저·최고기온이 반영된 일 평균기온은 24.7도로 종전 1위(2023년 22.6도) 기록을 2.1도 뛰어넘어 역시 최고치를 기록했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LGFZWI6PPJA4FENVVRMLQS4QLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 전국 97개 관측 지점 중 74곳(76.3%)에서 9월 기온 신기록이 작성됐다. 서울은 지난달 19일 마지막 열대야(밤 최저기온 25도 이상)를 겪으며 ‘역대 가장 늦은 열대야’ 기록을 세웠다. 지난달 서울 폭염일(일 최고기온 33도 이상)은 6일로, 서울에서 9월 기온이 관측되기 시작한 1908년 이래 가장 많았다. 서울에서 ‘9월 폭염’이 발생한 것은 올해 전까지 1939년(4일), 1920년(1일), 1935년(1일), 1943년(1일), 1948년(1일) 등 다섯해밖에 없었다.&lt;br&gt;&lt;br&gt;‘가을 폭염’이라는 신조어가 탄생할 정도로 올 9월이 무더웠던 것은 중순까지 한여름처럼 한반도 대기 상·하층에 티베트 고기압과 북태평양 고기압이 각각 세력을 뻗치고 있었던 점이 크게 작용했다. 여기에 한반도 남쪽을 지난 태풍이 고온 다습한 열기를 불어넣으며 늦더위를 부추겼다. 온난화 여파로 9월 평균기온은 1973년 이후 51년간 1.4도가량 상승했다.&lt;br&gt;&lt;br&gt;10월은 9월과 정반대 모습을 보일 것으로 예상된다. 1~2일 전국에 비가 내린 후 찬 공기가 본격 남하하며 2일 최고기온이 전날보다 5~10도가량 떨어지는 등 쌀쌀할 전망이다. 예상 강수량은 강원 영서와 충북·전북권 5∼10㎜, 강원 영동과 경상권·제주도 5∼40㎜, 광주·전남권 5∼20㎜ 등이다. 2일 아침 최저기온은 7∼17도, 낮 최고기온은 18∼23도로 예보됐다. 전날보다 5~10도가량 기온이 떨어지는 곳이 많고, 평년과 비교해도 2~4도가량 낮은 기온 분포를 보일 것으로 예상된다. 일부 강원 산지에는 얼음이 어는 곳도 있겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>女 민원인 앞에서 바지 훌러덩... 양양군수 국힘 탈당</title>
       <link>https://www.chosun.com/national/regional/2024/10/01/MQRCWGEXRNF4BPW2B463HX72LA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/01/MQRCWGEXRNF4BPW2B463HX72LA/</guid>
@@ -898,27 +929,6 @@
       <description/>
       <pubDate>Tue, 01 Oct 2024 11:58:49 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QP54OVEIRRBOTJFK52H4K3RFN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김진하 강원 양양군수. /양양군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김진하 강원 양양군수가 여성 민원인 앞에서 바지를 내리는 등 부적절한 행위를 하고 민원 해결 대가로 금품을 받았다는 의혹이 제기됐다. 논란이 일자 김 군수는 소속 정당인 국민의힘을 탈당했다. 경찰은 조사에 착수했다.&lt;br&gt;&lt;br&gt;강원경찰청은 김 군수의 비위 의혹에 대해 내사(입건 전 조사)를 진행 중이라고 1일 밝혔다. 경찰 등에 따르면, 강원 양양에서 펜션·카페를 운영하는 여성 민원인 A씨는 작년 12월 자신의 카페에서 김 군수를 만났다고 한다. 당시 A씨는 잠깐 화장실에 다녀왔는데 김 군수가 바지를 내리고 있었다고 한다. A씨는 김 군수를 카페 주차장에 세워둔 김 군수 차로 데리고 갔는데 김 군수가 차 안에서도 바지를 내리는 등 성적 행위를 했다고 주장하고 있다.&lt;br&gt;&lt;br&gt;김 군수가 민원을 해결해주겠다며 A씨로부터 현금과 안마 의자 등 금품을 받았다는 의혹도 제기되고 있다. 지역에서는 A씨가 자기 펜션이 있는 땅의 용도를 변경해 달라는 민원을 김 군수에 했다는 얘기가 나오고 있다.&lt;br&gt;&lt;br&gt;경찰은 최근 A씨에 대한 조사를 마쳤으며 구체적인 사실관계를 조사 중이다. 경찰 관계자는 “조사를 마친 뒤 조만간 김 군수의 입건 여부를 결정할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;김 군수는 논란이 커지자 지난달 30일 소속 정당인 국민의힘에 ‘일신상의 이유’를 들어 탈당계를 제출했으며, 국민의힘 강원도당은 탈당계를 바로 처리했다. 국민의힘 강원도당은 김 군수를 윤리위원회에 회부하는 등 진상 조사를 준비 중이었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XY5WXPX2QZCUDLLFQUOLEHG7YU.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 12월 폐쇄회로(CC)TV에 찍힌 김진하 양양군수의 모습이 지난 24일 보도됐다. 김 군수는 여성 민원인에게 성적으로 부적절한 행동을 했다는 의혹을 받고 있다. /KBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 강원도당은 논평을 통해 “카페 방범카메라 영상에는 김 군수가 카페 안에서 바지를 내리고, 본인의 차량 뒷자리에서 내리면서 바지춤을 정리하는 모습이 찍혔지만 김 군수는 ‘직접 하의를 벗은 것은 맞지만, 여성이 요청해서 한 것’이란 비루하고 뻔뻔한 해명을 내놨다”며 “김 군수는 즉각 군수직을 사퇴하고 양양군민에게 석고대죄하는 한편 수사기관 조사에 성실히 임해야 한다”고 밝혔다. 민주당 강원도당이 언급한 카페 방범카메라 영상은 A씨가 제보한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;본지는 김 군수의 입장을 듣기 위해 수차례 연락했지만 받지 않았다. 김 군수는 강원도청 공무원 출신으로 2022년 지방선거에서 3선에 성공했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>작년 70회 이상 외래진료 환자 144만명</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/10/01/MOZ4WXRS4FFTPOCUVPCRS54Z3I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/01/MOZ4WXRS4FFTPOCUVPCRS54Z3I/</guid>
-      <dc:creator>강다은 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 01 Oct 2024 12:42:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YOX4VM77G747CA4B2NTTFMZGYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;물리치료를 받는 허리 통증 환자. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 한 해 동안 외래진료를 70회 이상 받은 과다 진료 환자가 144만명에 달한 것으로 나타났다. 이들은 주로 물리치료나 주사, 침술 등 처치를 받았다.&lt;br&gt;&lt;br&gt;1일 국회 보건복지위원회 소속 국민의힘 김미애 의원이 국민건강보험공단에서 받은 자료에 따르면, 지난해 연간 70회 이상 외래진료 이용 인원은 144만853명이었다. 공단은 입원 없이 연간 외래진료 70회 이상을 이용할 경우 ‘과다 진료’로 보고 있다. 이들은 약 7조1000억원의 진료비를 사용했고, 이 중에 건강보험에서 약 6조4000억원이 지급됐다. 연 70회 이상 진료 인원은 전체 외래환자의 3%에 불과하지만, 이들이 사용한 건강보험금은 전체 외래환자 지급액의 18.3%로 나타났다.&lt;br&gt;&lt;br&gt;연간 70회 이상 외래진료를 받는 환자 수는 2020년 125만9162명에서 지난해 144만853명이 대 매년 증가 추세다. 올해 전공의 집단 사직 사태 등으로 병원 이용이 제한되면서 올 상반기 기준으로 이미 70회 이상 진료를 받은 과다 진료 환자는 13만2047명에 그쳤다. 다만 하반기에는 더 늘어날 수 있다.&lt;br&gt;&lt;br&gt;외래진료를 많이 받는 환자들은 주로 주사, 침술, 물리치료 등 처치를 받았다. 가령 올해 상반기 최다 외래진료 이용자인 40대 여성은 통증을 이유로 상반기에만 919회 진료를 받았는데, 주로 주사를 맞았다.&lt;br&gt;&lt;br&gt;정부는 지난 7월부터 의료 남용을 방지하기 위해 연간 외래진료를 365회 초과해 받는 경우 건강보험 본인 부담률을 상향 조정하는 ‘본인 부담 차등화’ 조치를 시행하고 있다. 아동, 임산부, 중증 질환자 등을 예외로 하고 연간 365회 넘게 외래진료를 받은 사람은 366회째부터 90%의 본인 부담금을 내야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>여수 바다서 어선 뒤집혀 선장 실종… 베트남 선원 3명 구조</title>
-      <link>https://www.chosun.com/national/regional/honam/2024/10/01/N6NPDESQJVFXNFX4XMGUBAASPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/10/01/N6NPDESQJVFXNFX4XMGUBAASPE/</guid>
-      <dc:creator>여수=조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 01 Oct 2024 12:39:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PD3HW45X7GERIJ2UACPN42REOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오후 전남 여수 바다에서 어선이 전복돼 선장이 실종됐다. 해경이 뒤집힌 선체를 수색하고 있다./여수해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 여수 바다에서 어선이 뒤집히면서 선장이 실종돼 해경이 수색에 나섰다.&lt;br&gt;&lt;br&gt;1일 오후 7시 20분쯤 여수시 삼산면 소거문도 북동쪽 1.8km 해상에서 4t급 고흥 선적 어선 A 호가 뒤집혀 승선원 4명 중 3명이 구조되고 선장이 실종됐다. 여수해경은 경비함정 5척을 현장에 급파했고, 선체 밑바닥이 바다 위로 드러난 것을 확인했다 .&lt;br&gt;&lt;br&gt;해경에 따르면, 베트남 국적 선원 3명은 다른 어선에 의해 구조됐으나 선장은 실종됐다. 구조된 선원들은 건강 상태가 양호하다. 해경은 선체를 두드려 선체 내부에 선장이 생존해 있는지 확인함과 동시에 잠수 인력을 투입해 수중수색에 나섰다.&lt;br&gt;&lt;br&gt;또 선장이 바다에 빠졌을 가능성에 대비해 인근 해역을 중심으로 수색을 진행 중이다. 해경 관계자는 “사고 해역의 기상이 좋지 않아 수색에 어려움이 있다”며 “수색을 우선 진행하고 사고 원인을 조사할 방침”이라고 밝혔다. 남해안 먼바다 일대에는 현재 풍랑·강풍 특보나 예비특보가 발효된 상태다.&lt;br&gt;&lt;br&gt;한편, 이날 오후 5시 10분쯤 제주도 서귀포시 서홍동 황우지 해안 일명 선녀탕 인근 갯바위에서 낚시꾼 2명이 파도에 휩쓸려 물에 빠졌다는 신고가 접수됐다. 해경은 구조대를 현장에 보내 자력으로 물 밖으로 나온 1명의 안전을 확인하고, 실종된 다른 1명을 찾고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/PD3HW45X7GERIJ2UACPN42REOQ.jpg?width=719&amp;height=540&amp;auth=eb7880c4dc4ff73b4bac54f3595342fbfc634e16d28b908cb8ff58e971a8ac57&amp;smart=true" type="image/jpeg" height="540" width="719">
-        <media:description type="plain">여수 해경 실종자 수색</media:description>
-      </media:content>
     </item>
     <item>
       <title>6월엔 어렵더니, 9월엔 쉬워져...널뛰기 수능 모의평가에 수험생 혼란</title>
