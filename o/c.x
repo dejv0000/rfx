@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대통령실 앞 모인 의대 교수들 “부실 의사 양산하려는 정부, 즉각 중단하라”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/10/03/CM5XDDBJ4VEAFABMWD7NVQLQAY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/03/CM5XDDBJ4VEAFABMWD7NVQLQAY/</guid>
+      <dc:creator>안준용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 03 Oct 2024 09:42:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AIYIDLUFBNO2TIZJKNJQQ22C6E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전국 의대 교수들이 3일 오후 서울 용산구 대통령실 앞에서 '의학교육평가원 무력화 저지를 위한 전국 의과대학 교수 결의대회'를 열고 정부를 규탄하는 내용의 손팻말을 들어보이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 의대 교수 300여 명(경찰 추산)이 3일 서울 용산구 대통령실 인근에 모여 “정부가 한국의학교육평가원(의평원)을 말살하고, 의대 교육을 무너뜨리려 하고 있다”고 주장했다.&lt;br&gt;&lt;br&gt;이들은 이날 오후 용산 전쟁기념관 앞 광장에서 ‘의평원 무력화 저지를 위한 전국 의대 교수 결의대회’를 열고 정부를 규탄했다. 앞서 교육부는 지난달 의대의 교육 여건이 나빠져 의평원 인증 평가에서 ‘불인증’을 받더라도 처분을 1년 이상 유예하는 내용 등이 담긴 대통령령 개정안을 입법예고했다.&lt;br&gt;&lt;br&gt;이를 규탄하기 위해 모인 참가자들은 ‘교육농단 저지하여 의평원을 지켜내자’ ‘불법증원 밀어붙인 책임자는 물러나라’는 손팻말을 들고 “의평원이 망가지면 의학교육 망가진다” 등의 구호를 외쳤다. 이들은 의사 가운 대신 흰색 상의에 검은색 마스크를 썼다.&lt;br&gt;&lt;br&gt;최창민 전국 의과대학 교수 비상대책위원장은 “의대 교육의 질을 보장하는 최소한의 안전장치인 의평원을 정부가 무력화하려 하고 있다”며 “정부는 의대를 말살할 게 아니라 교육 가능한 환경을 만드는 데 집중하라”고 했다. 이어 국회를 향해 “시행령 개정을 막고 의평원이 제 기능을 발휘할 수 있는 법안을 만들어 달라”고 했다.&lt;br&gt;&lt;br&gt;김창수 전국 의과대학 교수협의회장은 “정부가 의평원 무력화를 통해 후진국 수준 의사를 양산하려 하고 있다”면서 “우리 투쟁은 의료 정상화가 될 때까지 끝까지 지속할 것”이라고 했다. 오세옥 부산의대 교수 비대위원장도 “정원을 늘려 아프리카 의대를 만드는 것이 교육 선진화가 결코 아니다”라며 “그간 교수들의 지나친 인내와 무관심이 오늘의 의료 사태 배경이 됐다. 이제는 우리 교수들이 분노해야 한다”고 했다.&lt;br&gt;&lt;br&gt;의대 교수들은 시국선언문에서 현 정부 정책을 ‘급발진·역주행·음주운전’에 비유하며 의평원 무력화 시도 즉각 중단, 의대 증원 즉각 중단, 필수의료 패키지와 대통령 직속 의료개혁특위 파기, 책임자 즉각 처벌을 요구했다.&lt;br&gt;&lt;br&gt;이날 결의대회에는 안철수 국민의힘 의원, 박주민 더불어민주당 의원 등도 참석했다. 국회 보건복지위원장인 박 의원은 “국회 국정감사 등을 통해 의평원을 무력화하려는 정부의 시도를 반드시 막아내겠다”고 했다.&lt;br&gt;&lt;br&gt;이런 가운데 전날 윤석열 대통령이 “의료개혁은 반드시 흔들림 없이 추진해야 한다”고 언급한 것과 관련해 대한의사협회(의협) 관계자는 “대통령의 현실 외면으로 ‘의료 시스템 붕괴’는 피할 수 없는 상황으로 가고 있다”고 했다. 그러면서 “의료 시스템 붕괴를 막기 위한 더 강력한 대응책을 내부적으로 논의할 것”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 조규홍 보건복지부 장관은 지난달 30일 사직 전공의들에게 “매우 안타깝고 미안한 마음”이라며 사과했고, ‘의사 인력 수급 추계 위원회’ 위원 과반수 추천권도 주겠다고 했지만 의료계는 이를 거부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 소래포구 인근 비닐하우스 단지 화재… 어망 등 어구 손실</title>
+      <link>https://www.chosun.com/national/incident/2024/10/03/BBUIQKSE3RAHVNCFXGD3DP5JMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/03/BBUIQKSE3RAHVNCFXGD3DP5JMA/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 03 Oct 2024 08:58:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GHR6MJTSCBMGXE3DJ4D7N3ZO2U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오전 3시 26분쯤 인천시 남동구 소래포구 인근 비닐하우스 단지에서 화재가 발생해 소방관들이 진화 작업을 벌이고 있다. /인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 소래포구 어민들의 어망 등을 보관하던 비닐하우스 단지에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;3일 인천소방본부 등에 따르면 이날 오전 3시 26분쯤 인천시 남동구 소래포구 인근 비닐하우스 단지에서 화재가 발생해 비닐하우스 8개 동과 컨테이너 1개가 불에 탔다.&lt;br&gt;&lt;br&gt;소방 당국은 펌프차 등 장비 44대와 소방관 등 인력 130여 명을 투입해 화재 발생 4시간 16분 만에 불을 완전히 껐다.&lt;br&gt;&lt;br&gt;이번 화재로 인명피해는 없었으나, 비닐하우스 안에 있던 어망 등 어구가 불에 타 약 2억7000여 만원에 달하는 재산 피해가 발생한 것으로 추정되고 있다. 이곳엔 어민 50여 명의 어망 등이 보관돼 있던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;유정복 인천시장과 박종효 인천 남동구청장 등은 이날 오후 현장을 찾아 피해 어민들을 위로했다. 또 어민들이 이번 화재로 인한 어망 손실로 가을 조업에 차질을 빚지 않도록 행정적 지원 방안을 마련하기로 했다.&lt;br&gt;&lt;br&gt;유정복 시장은 “피해 어민들이 하루빨리 정상적인 생활로 돌아갈 수 있도록 노력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 文 딸 다혜씨 휴대전화 포렌식 시작…압수수색 한 달여 만</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/03/F72IP6M7ONHPDFQ5BRYCGHTIFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/03/F72IP6M7ONHPDFQ5BRYCGHTIFY/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 03 Oct 2024 08:37:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I5P2FNEQ7FMVU6IX2EK36GJP6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문재인 전 대통령이 19대 대선 후보 시절 선거 유세에서 딸 문다혜 씨와 기념촬영을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 전 대통령의 전 사위 서모씨의 ‘타이이스타젯 특혜 채용’ 의혹을 수사 중인 검찰이 지난 2일 문 전 대통령의 딸 문다혜씨의 휴대전화 포렌식 작업을 시작한 것으로 전해졌다. 지난 8월 30일 다혜씨 집과 사무실, 별장 등을 압수 수색한 지 한 달여 만이다.&lt;br&gt;&lt;br&gt;3일 본지 취재를 종합하면, 전주지검 형사3부(부장 한연규)는 전날 서울 서초구 대검찰청 디지털포렌식센터에서 다혜씨 변호인 입회하에 압수물 포렌식(디지털 증거 추출) 절차를 시작했다.&lt;br&gt;&lt;br&gt;검찰은 지난 8월 30일 서울 종로구 부암동의 다혜씨 집과 그가 운영하는 서울 서대문구의 전시 기획사, 제주도 별장 등 총 3곳을 압수 수색해 휴대전화 등을 확보했지만, 한 달 넘게 포렌식을 시작하지 못했다. 다혜씨 측은 압수물 선별 작업 절차에 변호인이 참관하겠다는 의사를 전한 것으로 알려졌다. 형사소송법은 조사 대상의 참여권을 보장하도록 하고 있다. 검찰 관계자는 “당사자의 참여권을 최대한 보장하기 위해 변호인과 일정을 조정한 것”이라고 했다. 압수물은 광주고검과 대검찰청 2곳에 나뉘어 보관됐다고 한다.&lt;br&gt;&lt;br&gt;다혜씨 압수 수색 영장에는 문 전 대통령이 ‘뇌물 수수 등 피의자’로 적시돼 있는 것으로 전해졌다. 또 뇌물 액수로 서씨가 2018년 7월~2020년 4월 이상직 전 민주당 의원이 실소유한 태국 항공사 타이이스타젯에 임원으로 취업해 받은 급여와 체류비 등 2억2300여만 원이 특정됐다고 한다.&lt;br&gt;&lt;br&gt;다혜씨는 검찰 수사에 반발하면서 지난달 12일 자신의 엑스(옛 트위터)에 “나는 내 아버지에게 칼을 겨누기 위해 즈려밟고 더럽혀져야 마땅한 말(馬)일뿐”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>취객 부축하는 척 지갑 훔친 남성...건너편 건물 시민이 영상 찍어 신고</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/03/W2STZJ653ZCTHIEPUNXLBGZMH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/03/W2STZJ653ZCTHIEPUNXLBGZMH4/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 03 Oct 2024 08:27:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EXNFZ34PW5FD7M5IW5E3XCAZGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 울산 길거리에서 취객에게 다가가 부축을 해주는 척하면서 주머니를 터는 속칭 '부축빼기' 수법으로 지갑과 스마트폰을 훔친 60대 남성이 경찰에 검거됐다. 이 남성은 벤치에 엎드려 자고 있는 취객 주머니에서 지갑을 빼낸 뒤(사진 왼쪽) 다른 벤치로 자리를 옮겨 절도한 지갑에 든 현찰을 셌다. /경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;길거리에서 취객에게 다가가 부축을 해주는 척하면서 주머니를 터는 속칭 ‘부축빼기’ 수법으로 지갑과 스마트폰을 훔친 60대 남성이 검거됐다. 이 남성은 혐의를 부인했지만 건너편 건물에서 범행 과정을 촬영하던 시민의 제보로 결국 체포됐다.&lt;br&gt;&lt;br&gt;3일 경찰청 유튜브와 울산경찰청 등에 따르면, 울산중부경찰서는 최근 60대 A씨를 절도 혐의로 구속 송치했다. A씨는 지난달 17일 오후 10시쯤 중구 성남동 길가에서 벤치에 누워있는 취객의 지갑을 훔쳐 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;유튜브에 올라온 범행 당시 영상을 보면, A씨는 술에 취해 벤치에 엎드려 자고 있는 취객을 보고선 몇 분간 근처를 서성이다가 그에게 다가간다. 그러고는 피해자 옆에 앉아 그의 주머니에서 지갑과 스마트폰을 훔친 뒤 범행 장소를 뜬다.&lt;br&gt;&lt;br&gt;곧바로 경찰에 “누가 벤치에 누워 있는 사람의 지갑을 가져가려고 한다”는 112신고가 접수됐다. 건너편 건물 2층에서 범행 과정 일체를 지켜보고 촬영하던 시민이 경찰에 신고한 것이다. 이 시민은 A씨가 범행 직후 근처 벤치에 앉아 지갑 속 돈을 확인하는 모습도 영상으로 촬영했다.&lt;br&gt;&lt;br&gt;시민은 A씨의 인상착의를 설명하고 경찰이 출동할 때까지 그의 동선을 파악해서 전달했다. 현장에서 경찰을 만난 A씨는 “그저 잠든 피해자를 깨우고 있었다”며 범행을 부인했지만, 신고자가 촬영한 범행 장면을 토대로 추궁하자 그제야 시인했다. 경찰은 A씨를 현행범으로 체포했다.&lt;br&gt;&lt;br&gt;경찰은 범행 장면을 촬영하고 인상착의를 알리는 등 A씨의 검거를 도운 신고자에게는 감사장을 수여하고 신고포상금을 지급했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 전국 대학병원 산과 전문의 4명 중 3명은 의정 갈등 이후 사직 고려</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/10/03/MCKKLN5JVNA3RISWDPJWOUYBQQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/03/MCKKLN5JVNA3RISWDPJWOUYBQQ/</guid>
@@ -851,33 +887,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5N7PFCSLRCALKXWC7LGBLEWHAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;래퍼 나플라(본명 최니콜라스석배). /메킷레인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사회복무요원 복무 중 정신질환을 앓는 것처럼 꾸며 일찍 소집해제 판정을 받으려고 한 래퍼 나플라(본명 최니콜라스석배)가 대법원에서 징역형의 집행유예를 확정받았다.&lt;br&gt;&lt;br&gt;2일 법조계에 따르면, 대법원 1부(주심 서경환 대법관)는 병역법 위반 등 혐의로 기소된 나플라에게 징역 1년 2개월에 집행유예 2년을 선고한 원심 판결을 지난달 12일 확정했다.&lt;br&gt;&lt;br&gt;나플라는 2021년 서울 서초구청 사회복무요원으로 근무 중 출근 기록을 조작하고 우울증과 공황장애가 악화된 것처럼 연기해 조기 소집해제를 시도한 혐의로 기소됐다. 나플라는 구청 배치 후 141일간 단 한 번도 구청에 출근하지 않았지만, 구청과 병무청 공무원들은 일일복무상황부 등 공문서에 그가 출근한 것처럼 써줬다고 한다. 그는 또 약 1년가량 반복적으로 정신과 진료를 받고 약을 처방받았으나 대부분 실제로 투약하지 않고 집에 보관한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;1심은 징역 1년의 실형을 선고했지만, 2심은 징역 1년 2개월에 집행유예 2년으로 감형했다. 1심에서 유죄로 인정됐던 병무청 직원 등의 공무집행을 방해한 혐의가 무죄로 뒤집힌 데다, 별도로 기소된 마약 사건에서 징역 10개월에 집행유예 2년이 확정된 점 등이 고려됐다.&lt;br&gt;&lt;br&gt;나플라와 검찰이 상고했지만, 대법원은 원심 판단이 맞다며 이를 기각했다.&lt;br&gt;&lt;br&gt;한편, 나플라와 함께 병역 비리 혐의로 기소된 ‘빅스’ 출신 래퍼 라비(본명 김원식)는 지난 4월 항소심에서 징역 1년에 집행유예 2년을 선고받고 상고하지 않아 판결이 그대로 확정됐다. 라비는 뇌전증에 걸린 것처럼 연기해 허위 진단서를 받은 뒤 병무청에 제출해 병역 의무를 피하려 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>권영민 교수 등 5명 ‘경암상’</title>
-      <link>https://www.chosun.com/national/people/2024/10/01/7JFRSXC44JHFJOEWV57KJIGAIY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/01/7JFRSXC44JHFJOEWV57KJIGAIY/</guid>
-      <dc:creator>부산=박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Sep 2024 16:54:29 +0000</pubDate>
-      <content:encoded>경암교육문화재단은 30일 ‘제20회 경암상’ 수상자를 선정해 발표했다. 경암상은 분야별로 뛰어난 업적을 낸 학자나 전문가에게 주는 상이다. 올해 수상자는 권영민 서울대 국문학과 명예교수(인문사회 분야), 박승범 서울대 화학부 교수(자연과학 분야), 허원도 KAIST 생명과학과 교수(생명과학 분야), 조계춘 KAIST 건설·환경공학과 교수(공학 분야), 김은선 미국 샌프란시스코 오페라 음악감독(특별상)이다. 수상자에게는 상금 2억원과 상패가 수여된다. 시상식은 오는 11월 1일 부산 경암교육문화재단 경암홀에서 열린다. 경암교육문화재단은 고(故) 송금조 태양그룹 회장이 사재 1000억원을 내 2004년 설립했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주 갯바위서 낚시하다 파도에 휩쓸린 40대, 끝내 숨진 채 발견</title>
-      <link>https://www.chosun.com/national/regional/2024/10/02/HQKDVBMQK5AHZD5UDLO6GL5EEM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/02/HQKDVBMQK5AHZD5UDLO6GL5EEM/</guid>
-      <dc:creator>오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Oct 2024 02:27:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JP5MI3EPOVJX3OZEMTR4PFG6KM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제10호 태풍 '산산'이 세력을 키우며 일본을 향해 북상 중인 지난 8월28일 오후 제주 서귀포시 예래동 해안에 태풍의 간접 영향으로 너울성 파도가 밀려와 갯바위에 부딪혀 큰 물보라를 만들고 있다. 사진과 기사는 관련이 없음/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에서 낚시하다 파도에 휩쓸려 실종된 40대 남성이 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;제주 서귀포해양경찰서는 2일 오전 8시 44분쯤 서귀포시 서홍동 황우지 해안 인근 해상 수심 10ｍ에서 40대 A씨 시신을 발견했다. A씨는 발견 당시 구명조끼를 착용하지 않은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 전날 오후 5시 10분쯤 황우지 해안 일명 ‘선녀탕’ 인근 갯바위에서 낚시하던 중 높은 파도에 휩쓸려 실종됐다. 당시 함께 파도에 휩쓸린 50대 B씨는 스스로 빠져 나왔으나 A씨는 실종돼 해경이 수색을 벌여왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“무시했다고 착각”…마트 계산원 27차례 찌른 20대 징역 7년</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/02/FC6KZR6ZHRACDM5C226IJ65R3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/02/FC6KZR6ZHRACDM5C226IJ65R3U/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Oct 2024 02:24:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RGWTSAZQUBEBLDT6ZO5ZPJKGTY.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 횡성의 한 마트에서 50대 여성 계산원에게 흉기를 27차례 휘둘러 살해하려 한 20대 남성이 1심에서 징역 7년을 선고받았다.&lt;br&gt;&lt;br&gt;2일 법조계에 따르면, 춘천지법 원주지원 형사1부(이수웅 부장판사)는 살인미수 혐의로 구속 기소된 A(28)씨에게 징역 7년을 선고했다. 5년간 보호관찰도 함께 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난 5월 26일 오후 1시 44분쯤 횡성의 한 마트 계산대 앞에서 미리 준비한 흉기로 B(56)씨의 머리와 얼굴, 목 등을 27차례 찔러 살해하려 한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 사건 당일 낮 12시 57분쯤 이 마트에 들렀다가 오전 담당 계산원이 자신을 향해 “미친”이라고 말했다고 착각해, 이에 화가 나 복수할 생각으로 집에 있던 흉기를 가지고 왔다. &lt;br&gt;&lt;br&gt;다시 마트를 찾은 그는 교대 근무 중이던 B씨에게 “오전 근무자는 어디에 있느냐”고 물었다. 이에 B씨는 “식사하러 갔다”고 했으나, A씨는 “모른다”고 대답한 것으로 오해하고 자신을 무시한다고 생각해 이같이 범행한 것으로 조사됐다. 범행 과정에서 A씨는 손에 쥐고 있던 흉기가 미끄러져 손을 다치는 바람에 미수에 그쳤다. &lt;br&gt;&lt;br&gt;B씨는 사건 직후 병원 치료를 받았다. 생명에는 지장이 없으나 외상 후 스트레스 장애를 안게 됐다.&lt;br&gt;&lt;br&gt;재판부는 “A씨의 양극성 정동장애, 편집성 성격장애 등 정신과적 증상이 이 사건 범행에 일부 영향을 미친 것으로 보인다”면서도 “피해자에게 상당한 신체적, 정신적 고통을 가했고 엄벌을 탄원하고 용서받지 못했으며, 피해 회복을 위해 별다른 노력을 기울이지 않고 있다”고 판시했다.&lt;br&gt;&lt;br&gt;다만 재판부는 검사가 청구한 전자장치 부착 명령에 대해선 살인 범죄 전력이 없고 재범 개연성이 있다고 보기 어렵다는 점 등을 들어 기각했다.&lt;br&gt;&lt;br&gt;A씨와 검찰 모두 1심 판결에 불복해 항소했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>한변, “청문회서 증인에 모욕적 언행한 정청래 인권위 진정”</title>
       <link>https://www.chosun.com/national/national_general/2024/10/02/UJXU43FSRRB2XLJN24AKWKNLPY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/02/UJXU43FSRRB2XLJN24AKWKNLPY/</guid>
@@ -885,15 +894,6 @@
       <description/>
       <pubDate>Wed, 02 Oct 2024 02:22:48 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SN4T4TM6XBKLHKL5XQKBIQIBJA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;(서울=뉴스1) 김민지 기자 = 정청래 법제사법위원장이 지난달 25일 오전 서울 여의도 국회에서 열린 법사위 전체회의에서 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한반도인권과 통일을 위한 변호사 모임(한변)이 정청래 더불어민주당 의원이 국회에서 인권침해를 저질렀다며 이애 대한 진정을 국가인권위원회(인권위)에 제기한다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;한변은 이날 입장문을 내고 정 의원이 지난 6월 있었던 채상병 특검 입법 청문회에서 정 의원이 증인에게 모욕적인 언사와 퇴장지시를 일삼는 등 증인들의 인격권을 침해했다며 인권위에 정 의원을 출석시킬 것과 국회의장에게도 정 의원 징계를 요청하라는 진정을 접수할 예정이라고 밝혔다. 정 의원이 인권위의 출석 요구에 불응할 경우 인권위법에 따라 최대 1000만원의 과태료를 부과받을 수 있다. &lt;br&gt;&lt;br&gt;정 의원은 당시 청문회에서 이종섭 전 국방부 장관과 임성근 전 해병대 1사단장, 이시원 전 대통령비서실 공직기강비서관 등 주요 증인들에게 호통을 치거나 ‘10분간 퇴장’ 조치를 취한 바 있다.  &lt;br&gt;&lt;br&gt;한변은 “국회의원의 면책특권은 만인 앞에서 망신을 주는 폭거의 수단이 아닌 국익과 국민을 위한 장치라는 것을 본 진정을 통해 국회의원들이 되새기길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘티메프 미정산 사태’ 구영배 큐텐 대표 재소환</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/02/YRNYEHPJTFEGVEZDIXHUN6VDNA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/02/YRNYEHPJTFEGVEZDIXHUN6VDNA/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Oct 2024 00:47:27 +0000</pubDate>
-      <content:encoded>티몬‧위메프(티메프)의 ‘대규모 미정산 사태’를 수사하는 검찰이 사태의 ‘정점’으로 지목된 구영배 큐텐그룹 대표를 2일 다시 소환했다. 지난달 30일 소환해 조사한 지 이틀 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2LIZGUGVMVJARDQEX6GDKHKNZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구영배 큐텐 대표가 지난 7월 30일 오후 서울 여의도 국회에서 열린 정무위원회의 티몬·위메프 미정산 사태에 대한 현안질의에서 사과하며 고개를 숙이고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 전담수사팀(팀장 이준동 반부패1부장)은 이날 오전 구 대표를 1조4000억원대 사기·500억원대 횡령·배임 등 혐의 피의자 신분으로 소환해 조사하고 있다. 구 대표는 이날 오전 9시 검찰에 출석하면서 취재진이 ‘큐텐이 계열사 정산대금을 임의로 사용했다는 의혹을 인정하냐’고 묻자 “그렇지는 않다”고 답했다. 검찰은 구 대표가 티메프에 입점한 판매자들에게 지급됐어야 할 정산대금을 유용해 미국 이커머스 업체 ‘위시’를 인수하는 데 사용한 것으로 의심하고 있는데, 이를 부인하는 취지다.&lt;br&gt;&lt;br&gt;구 대표는 ‘큐텐이 위메프가 티몬에 빌려준 차입금 52억원을 빼돌려 사용한 정황이 나왔는데 어떤 입장이냐’ ‘대금 정산 주기를 늘리라고 직접 지시한 것이 맞느냐’ ‘미정산 사태의 정점이라는 주장에 대해 어떻게 생각하냐’는 질문엔 답하지 않았다.&lt;br&gt;&lt;br&gt;검찰은 이날 큐텐 그룹 산하 쇼핑몰의 물류 배송 업무를 담당하는 큐익스프레스의 마크 리 대표도 소환해 조사하고 있다. 티메프의 역마진 상품의 판매가 늘어나면 티몬‧위메프의 손실이 누적되고, 큐익스프레스의 매출은 늘어나는 구조다. 검찰은 큐익스프레스의 나스닥 상장을 추진하던 구 대표가 실적을 늘리기 위해 역마진 상품 판매를 지시했다고 의심하고 있다. 리 대표는 이날 검찰에 출석하면서 ‘구 대표가 역마진 상품 판매를 직접 지시했나’ ‘위시 인수 과정에서 결정적인 역할을 했다는 진술이 있다’는 취재진 질의에 답하지 않았다.&lt;br&gt;&lt;br&gt;검찰은 1차 조사 당시 구 대표가 재무 상황이 악화하는 것을 알면서도 돌려막기식 영업을 하는 데 관여했는지, 티메프 등 각 계열사 재무팀을 자회사인 큐텐테크놀로지로 이전·통합한 구조를 활용해 계열사 자금을 임의로 사용했는지, 이 과정에서 구 대표의 직접 지시가 있었는지를 집중 조사한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰은 그간 류광진 티몬 대표, 류화현 위메프 대표, 이시준 큐텐그룹 재무본부장 등을 조사하며 “구 대표가 미정산 사태의 정점”이라는 취지의 진술을 확보한 것으로 전해졌다. 구 대표에게 적자가 누적되고 있는 자금 흐름을 보고했고, 이로 인한 위험성도 경고했다는 것이 핵심 관계자들의 공통된 진술이라고 한다.&lt;br&gt;&lt;br&gt;검찰은 구 대표를 비롯한 핵심 관계자들에 대한 조사를 마치는 대로 구속영장 청구 여부를 검토할 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>교육부, 서울대에 감사단 파견</title>
