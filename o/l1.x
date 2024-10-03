@@ -6,6 +6,24 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>【오늘의 법조】 2024년 10월 3일</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[오늘의 PICK ]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷명품가방 수수 사건' 김건희 여사·최재영 모두 불기소&lt;/b&gt;&lt;br /&gt;검찰이 윤석열 대통령과 김건희 여사의 청탁금지법 위반 및 뇌물수수 혐의에 대해 혐의없음 결론을 내리고 불기소처분했다. 김 여사에게 명품가방을 건넨 최재영 목사와 가방을 주고받는 장면을 몰래 촬영해 공개한 서울의소리 백은종 대표 등도 불기소처분했다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/201738" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;b&gt;&lt;br /&gt;▷고려아연 자사주 매입 가능해졌다…법원, 영풍 제기 가처분 기각&lt;/b&gt;&lt;br /&gt;고려아연 경영권을 두고 분쟁 중인 최대주주 영풍이 고려아연을 상대로 자기주식 취득금지 가처분 신청을 냈으나 법원이 기각 결정했다. 법원 결정에 따라 고려아연은 즉시 자사주 매입을 추진할 전망이다. 서울중앙지법 민사50부(재판장 김상훈 부장판사)는 2일 영풍 측이 고려아연 최윤범 회장을 상대로 낸 자기주식 취득금지 가처분 신청(2024카합21412)을 기각했다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/201735" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Wed, 02 Oct 2024 22:37:08 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201750</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201750</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
+			<title>【오늘의 국회일정】 2024년 10월 3일</title>
+			<description>&lt;b&gt;◇ 국회의장&lt;/b&gt;&lt;br /&gt;15:00 한덕수 국무총리 접견(의장집무실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 소통관 기자회견&lt;/b&gt;&lt;br /&gt;09:40 모경종 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;14:00 주진우 의원, [국민의힘 법률자문위원회, 검사 탄핵 청문회 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
+			<pubDate>Wed, 02 Oct 2024 22:37:02 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201754</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201754</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>금융당국, LG 장녀 구연경 檢 통보..'미공개 정보 이용'</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/201757.jpg" alt="201757_0.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="text-align: center; margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;《LG사옥=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;금융당국이 구연경 LG복지재단 대표의 미공개 정보 이용 주식 부정 거래 의혹을 검찰에 넘기기로 했다. 구 대표는 고 구본무 LG그룹 선대회장의 장녀다.&lt;br /&gt;&lt;br /&gt;2일 금융권에 따르면, 금융위원회는 이날 증권선물위원회를 열고 구 대표의 자본시장법 위반 혐의를 검찰에 통보키로 의결했다.&lt;br /&gt;&lt;br /&gt;앞서 금융감독원은 구 대표가 지난해 미공개 정보를 이용해 바이오업체 '메지온' 주식 3만 주를 취득했다는 의혹 조사에 착수했다. 이후 구 대표를 자본시장법 위반 혐의로 금융위에 넘겼다.&lt;br /&gt;&lt;br /&gt;코스닥 상장사인 메지온은 심장 희귀질환 치료를 위한 신약 등을 개발하는 바이오업체다. 지난해 4월 구 대표 남편인 윤관 최고투자책임자(CIO)가 재직하는 블루벤처스런(BRV) 캐피탈 매니지먼트로부터 제3자 배정 유상증자로 500억 원을 투자받았다. 이 투자 이후 메지온 주가는 주당 1만8000원 수준에서 한 때 5만 원대로 치솟았다.&lt;br /&gt;&lt;br /&gt;금융당국은 구 대표가 메지온의 투자 유치 소식을 미리 알고 발표 전 주식 3만 주를 미리 취득한 것으로 의심하고 있다. 이에 검찰은 미공개 정보를 이용해 주식 거래를 규제하는 자본시장법 위반 혐의를 살펴볼 것으로 보인다.&lt;br /&gt;&lt;br /&gt;구 대표는 미공개 정보를 이용한 주식 부정거래 논란이 일자 메지온 주식을 LG복지재단에 기부하려고 했으나, LG복지재단 이사회가 해당 주식 수령을 보류한 상태다.</description>
 			<pubDate>Wed, 02 Oct 2024 12:41:25 -0000</pubDate>
@@ -221,26 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201710</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201710.jpg</media:thumbnail>
 			<dc:creator>안현 기자</dc:creator>
-		</item>
-		<item>
-			<title>이수경 화우 변호사, '개인정보 보호의 날' 국무총리상 수상</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201711.jpg" alt="201711.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;개인정보보호위원회(위원장 고학수)가 30일 서울 강남구 삼성동 코엑스 그랜드 컨퍼런스룸에서 개최한 ‘제4회 개인정보 보호의 날’ 기념식에서&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14585"&gt;이수경&lt;/span&gt;(49·사법연수원 36기) 법무법인 화우 변호사가 국무총리상을 수상했다.&lt;p&gt;   &lt;br /&gt;   &lt;p&gt;이수경 변호사는 2015년부터 올해 7월까지 개인정보보호위원회 조사 및 정책 개선 자문과 개인정보 관련 규제 정비에 일조하고, 법률신문의 ‘AI 뉴노멀’ 칼럼 등 각종 매체에 개인정보 보호에 대해 정보를 쉽게 전달하는 등 개인정보 제도 안착 및 산업 활성화에 이바지한 공로를 인정받았다.      &lt;p&gt;&amp;nbsp;&amp;nbsp;   &lt;/p&gt;      &lt;p&gt;이수경 변호사는 정보통신부와 산업통상자원부에서 WTO, FTA, 세이프가드 국제협력, 지적재산권 및 반덤핑을 포함한 무역 관련 업무를 경험했다. 이후 방통위 편성평가정책과, 방송기반총괄과, 이용자정책총괄과, 개인정보보호과를 두루 거치며 각종 규제업무를 담당했다. 특히 방송통신위원회 근무 당시인 2018년 미국 아메리칸대학교에서 개인정보분야 교육 훈련을 이수했으며, 데이터 3법 개정, 국내 사업자의 EU GDPR(유럽 연합 일반 데이터 보호 규칙) 대응에 참여했다.&lt;/p&gt;      &lt;p&gt;&amp;nbsp; &lt;br /&gt;개인정보보호위원회로 개인정보 업무가 통합된 이후부터는 다크패턴, 슈퍼앱, API 등에 대한 개인정보위의 조사 관련 법률 자문뿐만 아니라 개인정보위의 서비스별 자율규제 협약, 사전적정성 제도 도입 등에 기여했다. AI에 활용되는 공개 정보 및 해외사업자를 위한 우리나라 개인정보보호법 안내서 발간과 온라인 맞춤형 광고 제도, 국외이전 제도 개선 작업 등 개인정보 보호 및 산업 활성화를 위해 힘썼다.&lt;/p&gt;      &lt;p&gt;&lt;br /&gt;이수경 변호사는 “일언지좌(一言之佐,한 마디의 도움을 주는 사람)를 꿈꾸지만 늘 그렇지 못해 송구했다”며 “개인정보위에 작은 보탬이라도 됐다면 오롯이 위원회 여러분들의 덕분”이라고 수상 소감을 밝혔다.   &lt;/p&gt;      &lt;p&gt;&amp;nbsp;&lt;/p&gt;      &lt;/p&gt;&lt;/p&gt;</description>
-			<pubDate>Mon, 30 Sep 2024 08:14:20 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201711</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201711</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201711.jpg</media:thumbnail>
-			<dc:creator>안재명 기자</dc:creator>
-		</item>
-		<item>
-			<title>'제4회 개인정보 보호의 날' 기념식, "개인정보는 국가·기업 경쟁력 핵심 원천"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/201704.jpg" alt="201704.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;고학수(왼쪽 네 번째) 개인정보보호위원회 위원장이 개인정보보호위원장표창 수상자들과 기념 촬영을 하고 있다. 《연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;개인정보보호위원회(이하 '개인정보위')는 30일 서울 강남구 삼성동 코엑스에서 '제4회 개인정보 보호의 날' 기념식을 열었다. &lt;br /&gt;&lt;br /&gt;'안전한 개인정보, 신뢰받는 인공지능(AI) 시대'를 주제로 진행된 이번 행사는 산·학·관 관계자 400여 명이 참석해 개인정보 보호의 중요성과 미래 비전을 함께 논의하는 자리로 마련됐다. &lt;br /&gt;&lt;br /&gt;고학수 개인정보위 위원장은 이날 환영사에서 "AI 시대에서 개인정보는 국가와 기업의 경쟁력을 좌우하는 핵심 원천"이라며 "개인정보 보호의 날을 통해 개인정보의 가치와 그 중요성이 사회 전반으로 확산되고, 개인정보가 안전한 신뢰받는 AI 시대로 도약하기를 기대한다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;이어 윤한홍 국회 정무위원장은 영상을 통해 "개인정보 보호위원회는 국민들의 소중한 개인정보를 지키고, 개인정보 자기결정권을 확립하기 위한 법과 제도를 마련하며, 기업이 데이터를 안전하게 활용할 수 있는 기반을 조성하는 성과를 이뤄냈다"고 전했다. 디디에 레인더스 유럽연합(EU) 집행위원회 법무청장과 마이크로소프트의 개인정보 보호책임자(CPO)인 쥴리 브릴도 각각 개인정보 보호위원회의 책임과 역할을 지지하는 영상 메시지를 보냈다.&lt;br /&gt;&lt;br /&gt;개인정보의 보호와 안전한 활용에 기여한 유공자들을 위한 포상 수여식도 진행됐다. 이번 수여식에서는 훈장과 포장 등 총 10점의 정부포상과 개인정보보호위원장 표창이 수여됐다. &lt;br /&gt;&lt;br /&gt;개인정보 분쟁조정위원회 위원장으로서 정보주체의 권익 강화를 위해 헌신해온 이인호 중앙대 로스쿨 교수가 국민훈장 동백장을 수상했다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4499"&gt;황창근&lt;/span&gt;(58·군법 9회) 홍익대 법학과 교수는 개인정보 미래포럼 공동의장으로서 개인정보 보호 인식 제고 및 제도 개선에 기여한 공로로,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="16858"&gt;김병필&lt;/span&gt;(45·사법연수원 38기) 한국과학기술원(KAIST) 교수는 AI 프라이버시 민·관 정책협의회 분과장으로서 각각 근정포장을 받았다.&lt;br /&gt;&lt;br /&gt;대통령 표창은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9736"&gt;박상철&lt;/span&gt;(46·32기) 서울대 로스쿨 교수, 나은아 한국인터넷진흥원 단장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="21801"&gt;최주선&lt;/span&gt;(39·42기) 법무법인 민후 변호사에게 수여됐다. 국무총리 표창은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5208"&gt;최창영&lt;/span&gt;(56·24기) 법무법인 해광 변호사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="34186"&gt;윤호상&amp;nbsp;&lt;/span&gt;(37·변호사시험 5회) 법무법인 세종 변호사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14585"&gt;이수경&lt;/span&gt;(49·36기) 법무법인 화우 변호사, 주식회사 로지올(대표 채헌진)이 수상했다.&lt;br /&gt;&lt;br /&gt;이어 토크 콘서트가 진행됐다. 아나운서 김대호, 삼프로TV 뉴미디어 본부장 권순우, 배우 정보석, 네이버 AI센터장 하정우, 유튜버 요룰레히 등이 패널로 참여해 AI 시대의 개인정보와 데이터 활용법에 대해 논의하며 개인정보의 중요성을 강조했다. &lt;br /&gt;&lt;br /&gt;유튜버 요룰레히의 축하공연과 함께 다양한 체험 부스도 마련돼 참석자들이 개인정보 관련 프로그램에 참여할 수 있었다. &lt;br /&gt;&lt;br /&gt;개인정보위는 관계자는 "앞으로도 데이터 처리 방식의 근본적 변화가 이뤄지는 AI 시대에 맞추어 실질적으로 정보주체의 권익을 보호할 수 있는 정책을 마련하는 한편, 우리 기업들이 안전하게 데이터를 활용할 수 있도록 신산업, 신기술 혁신을 적극 지원해 나갈 계획"이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;개인정보 보호의 날은 2011년 9월 30일 「개인정보 보호법」이 최초로 시행된 날을 기념해 매년 개최되는 법정 기념일이다.</description>
-			<pubDate>Mon, 30 Sep 2024 07:32:11 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201704</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201704</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201704.jpg</media:thumbnail>
-			<dc:creator>유지인 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
