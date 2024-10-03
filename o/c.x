@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대법 "임의 영상신문에서 증인선서 없이 녹음된 파일, 증거 안 돼"</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/03/KWWUAVB5YVHR5NS6D5IBWSWH6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/03/KWWUAVB5YVHR5NS6D5IBWSWH6U/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 03 Oct 2024 03:03:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X3DWKKO633K5H7KE5K62XKG32Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법에 허용되는 사유가 없는데도 임의로 증인 선서 없이 영상 신문을 진행했다면, 그 녹음 파일 및 녹취서를 증거로 채택할 수 없다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;3일 법조계에 따르면, 대법원 1부(주심 노태악 대법관)는 사기 혐의로 기소된 A씨에게 징역 6개월에 집행유예 2년을 선고한 원심 판결을 지난달 12일 깨고 사건을 서울서부지법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;대학 교수인 A씨는 2016년 대학원생들을 조교로 허위 등록해 장학금을 받게한 뒤 이를 빼돌린 혐의 등으로 기소됐다. A씨의 혐의를 입증하기 위해서는 허위 조교로 등록된 B씨의 증언이 필요했다. 그런데 동남아에 체류하던 B씨는 코로나로 출석이 어려운 상황이라 증인 신문이 이뤄지지 않았다. 결국 1심에서는 B씨 관련 범행에 대해 무죄가 선고됐고, 다른 대학원생들 관련 범행만 유죄로 인정돼 2019년 11월 벌금 700만원이 선고됐다.&lt;br&gt;&lt;br&gt;이에 항소한 검찰은 이듬해 2심에서 B씨를 증인으로 신청했다. 문제는 당시 형사소송법은 ‘피고인과 대면해 진술하는 경우 심리적인 부담으로 정신의 평온을 현저히 잃을 우려가 있는 자’ 등 제한적인 경우에만 영상 신문을 허용하고 있었다. B씨는 이에 해당하지 않아 영상 신문을 할 수 없는 상황이었다.&lt;br&gt;&lt;br&gt;그러나 항소심 재판부는 영상 신문을 허락했고, 2020년 9월 증인 선서를 생략한 뒤 화상 장치를 이용한 신문을 진행했다. A씨의 변호인도 영상 신문 절차에 이의가 없다고 했다. 재판부는 신문 당시 녹음한 파일과 녹취록을 증거로 A씨의 혐의를 모두 유죄로 인정해 징역형 집행유예를 선고했다.&lt;br&gt;&lt;br&gt;대법원은 “원심 판단에 증거재판주의를 위반하거나 증거조사에 관한 법리를 오해해 판결에 영향을 미친 잘못이 있다”며 판결을 파기했다. 법에서 정하지 않은 편법으로 선서 없이 한 증언은 증거가 될 수 없고, 이에 기초한 녹음 파일과 녹취록도 증거로 삼을 수 없다는 것이다. 이는 “피고인과 변호인이 그와 같은 절차 진행에 동의하였거나 사후에 그 증거조사 결과에 대하여 이의를 제기하지 않고 동의했더라도 마찬가지”라고 했다.&lt;br&gt;&lt;br&gt;다만 2021년 8월 코로나를 계기로 형사소송법이 개정돼 영상 재판의 요건이 완화됐다. 현행 형사소송법은 B씨처럼 해외에 있거나 건강 상태가 나빠 출석이 어려운 경우 영상 신문을 허용하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“주차뒤 39초간 소주 1병 마셔” 음주운전 혐의 60대 무죄, 왜</title>
+      <link>https://www.chosun.com/national/regional/2024/10/03/CSJUVEIDCJC6JHOANBWJAJDK6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/03/CSJUVEIDCJC6JHOANBWJAJDK6A/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 03 Oct 2024 01:12:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WR3X7ZT6OE4TJP523HLMCVZB4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구법원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전을 한 혐의로 재판에 넘겨진 60대에 대해 법원이 구체적인 증거 부족 등을 이유로 무죄를 선고했다.&lt;br&gt;&lt;br&gt;대구지법 형사6단독 문채영 판사는 도로교통법 위반 혐의로 기소된 A씨에게 무죄를 선고했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월 16일 오후 11시 38분쯤 운전면허 취소 수준(0.08％ 이상)에 해당하는 혈중알코올농도 0.128％ 상태에서 대구 중구 한 도로에서 수성구 한 아파트 주차장까지 약 2.4㎞ 구간에서 자신의 벤츠 차량을 운전한 혐의로 재판에 넘겨졌다. 당시 A씨는 주차 후 약 39초간 차 안에서 머물다가 밖으로 나왔다. 약 40분 뒤인 17일 오전 0시 11분쯤 경찰의 음주 측정 결과 혈중알코올농도는 0.128％였다. 또 A씨가 차를 주차하는 모습이 정상적이지 않았고, 차에서 내리자마자 비틀거렸다는 목격자 진술도 있었다.&lt;br&gt;&lt;br&gt;하지만 A씨는 “주차 후 차 안에서 약 39초 동안 있으며 알코올 도수가 25도인 소주(375㎖) 1병을 모두 마셨을 뿐 음주운전을 하지는 않았다”고 주장했다.&lt;br&gt;&lt;br&gt;이에 재판부는 후행 음주로 인한 A씨 혈중알코올농도 증가분을 산출했지만, A씨가 도로교통법상 음주운전 처벌 기준인 혈중알코올농도 0.03％ 이상인 상태에서 차를 몰았다고 판단할만한 결과는 얻지 못했다. 또 수사당국이 A씨가 언제, 어디에서, 어떤 종류의 술을 얼마나 마셨는지 등도 제대로 확인하지 못했다고 지적했다.&lt;br&gt;&lt;br&gt;문 판사는 “A씨는 음주 측정 직전 경찰에게 집에서 술을 마셨다고 했다가 진술을 바꿨고, A씨 주장대로 주차 후 술 한병을 모두 마셨다고 해서 곧바로 술에 취한 듯한 행동을 한다는 건 쉽게 납득가지 않는다. 하지만 이런 정황증거와 추측만으로 A씨가 음주운전을 했다고 단정하기 어렵다”며 무죄 선고 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가출 소녀인 척 성관계 유인…문신 보여주며 수천만원 뜯었다</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/03/WAQFPXCKL5HU7MRHO5IMKHI6OQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/03/WAQFPXCKL5HU7MRHO5IMKHI6OQ/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 03 Oct 2024 01:38:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OT2D7AV5P4VWHYEM5Z5C5IMQSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가출한 여성 청소년처럼 행세하면서 성관계를 미끼로 남성들을 유인한 뒤 금품을 빼앗은 일당 3명에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;인천지법 형사14부(재판장 손승범)는 특수강도와 강도 등 혐의로 기소된 A(25)씨에 대해 징역 6년을 선고했다고 3일 밝혔다. 재판부는 또 같은 혐의로 함께 기소된 B(25)씨와 C(24)씨에 대해 각각 징역 4년과 4년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;A씨 등은 지난해 8~11월 가출한 여성 청소년 행세를 하면서 성관계를 미끼로 지적장애인 D(24)씨 등 남성 5명을 유인한 뒤 2300만 원 상당의 금품을 빼앗은 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;친구 사이인 이들은 SNS(사회관계망서비스)를 통해 알게 된 피해자들에게 몸에 새긴 용과 도깨비, 잉어 등 문신을 보여주면서 “미성년자인 내 동생과 성관계하려 했으니 신고해 구속시키겠다”며 협박한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨 등은 피해자들의 전신사진이나 신분증을 촬영한 뒤 10~17시간 동안 차 안이나 모텔 등지에 감금했다.&lt;br&gt;&lt;br&gt;또 피해자의 휴대전화를 빼앗아 대출을 받게 하거나 신용카드를 발급하게 하고, 이른바 ‘카드깡’을 시켜 현금을 빼앗았다. 피해자가 대출 부적격자인 경우엔 휴대전화를 새로 개통하게 한 뒤 단말기를 빼앗기도 했다.&lt;br&gt;&lt;br&gt;재판부는 “온라인상으로 가출한 여성 미성년자라는 가상의 인물을 만들어 피해자들을 유인한 뒤, 피해자들이 미성년자를 대상으로 성적인 행위를 시도하였다는 걸 빌미로 금품을 빼앗고 피해자들을 감금해 죄질이 매우 나쁘다”며 “피해자들은 상당한 공포심과 불안감 등을 겪었을 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;이어 “다만 피고인들이 범행의 사실관계를 모두 인정하고 있는 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>알바생 추행하고 “월급 올려줄게”… 60대 편의점 사장 ‘징역 3년’</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/03/K2QGGMNDCJDHXAAZBB4E7NBLUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/03/K2QGGMNDCJDHXAAZBB4E7NBLUA/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>20대 아르바이트생을 강제 추행한 것도 모자라 이를 무마하기 위 월급을 올려주겠다며 회유까지 시도한 60대 편의점 업주에게 1심 법원에 이어 항소심 법원이 징역형을 선고했다.서울고법 춘천재판부 형사1부(재판장 민지현)는 강제추행 등 혐의로 기소된 A(61)씨에게 원심과 같은 징역 3년을 선고했다고 3일 밝혔다.</description>
+      <pubDate>Thu, 03 Oct 2024 01:06:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/24UPWP5OARX56LWFKEPUAFKDZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신보다 40살 어린 20대 아르바이트생을 강제 추행한 것도 모자라 이를 무마하기 위해 월급을 올려주겠다며 회유까지 시도한 60대 편의점 업주에게 1심 법원에 이어 항소심 법원이 징역형을 선고했다.&lt;br&gt;&lt;br&gt;서울고법 춘천재판부 형사1부(재판장 민지현)는 강제추행 등 혐의로 기소된 A(61)씨에게 원심과 같은 징역 3년을 선고했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;강원도 원주에서 편의점을 운영하는 A씨는 지난해 8월 13일 새벽 아르바이트를 마치고 귀가하기 위해 짐을 챙기던 20대 B씨의 신체를 만지고 옷을 강제로 벗기려 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;또 A씨는 지난해 8월 20일과 28일에도 노래방과 택시 뒷좌석, 편의점 등에서 B씨를 강제로 껴안고 양손으로 몸을 만지는 등 강제 추행하기도 했다.&lt;br&gt;&lt;br&gt;특히 A씨는 범행 이후 B씨가 경제적으로 어려움을 겪는 상황을 알고는 “월급을 올려주겠다”며 범행을 무마하려 한 사실이 재판 과정에서 드러났다.&lt;br&gt;&lt;br&gt;1심에서 징역 3년을 선고받은 A씨는 “형이 무겁다”며 항소했지만, 항소심 재판부 역시 “죄질이 나쁘다”며 이를 기각했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피고인은 피해자로부터 용서받지 못했으며, 피해자는 피고인에 대한 엄벌을 탄원하고 있다”면서 “피고인이 주장하는 사정은 이미 원심에서 반영한 내용으로 양형 조건에 변화가 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“손톱·두피 다 까졌다”…약봉지 쥔 채 온몸 굳어버린 남성, 무슨일?</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/03/M7AHSRGH2NG2BFF6QIIKIRTXLY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/03/M7AHSRGH2NG2BFF6QIIKIRTXLY/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 02 Oct 2024 23:56:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CX4SKV32T5BYXBMMHVS7SS3WLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;약물 알레르기로 고통을 호소하던 A씨가 파출소 앞에 주저 앉은 모습./경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;항생제 복용 후 아나필락시스(anaphylaxis) 쇼크에 빠진 시민이 경찰의 응급처치로 생명을 구한 사연이 전해졌다.&lt;br&gt;&lt;br&gt;3일 경기남부경찰청에 따르면 지난달 27일 오후 6시50분쯤 시흥경찰서 능곡파출소 주차장으로 A씨 차량이 들어왔다.&lt;br&gt;&lt;br&gt;차에서 내려 파출소를 향해 힘겹게 발걸음을 옮기던 A씨는 이마를 손으로 짚거나 차량에 몸을 기대고 중간중간 바닥에 주저앉는 등 고통을 호소했다. 겨우 파출소 출입문 앞까지 도달했지만 곧 의식을 잃고 쓰러졌다.&lt;br&gt;&lt;br&gt;당시 A씨는 평소처럼 항생제를 복용했으나 5분이 채 지나기도 전 손톱과 두피가 까지는 증상과 함께 호흡 곤란 증상이 나타난 것으로 전해졌다. 약제, 음식물, 곤충, 꽃가루 등 알레르기 유발물질에 의해 급격하게 진행되는 아낙필락시스 쇼크 증상이었다.&lt;br&gt;&lt;br&gt;A씨는 경찰청 유튜브를 통해 “항생제 약을 먹었다. (기존에 먹던) 똑같은 약을 먹었기 때문에 별문제 없겠거니 하고 먹었는데 5분도 안 돼서 손톱과 머리 두피가 다 까졌다”며 “‘이거 안 되겠다. 병원 가야 하겠다’는 생각에 차를 끌고 거기(파출소 근처)까지 왔는데 몸이 완전히 굳어버렸다”고 했다.&lt;br&gt;&lt;br&gt;이어 “옆에 파출소가 있으니 (차를) 세워 놓고 ‘내가 여기 있다’는 걸 이야기 해줘야 했다”며 “(그런데) 말은 안 나오지. 걸음은 걷기도 힘들지”라며 당시 상황을 떠올렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SY5FYPWGRNG2LNSIQC3FQJMUVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨를 상대로 하임리히법을 실시하는 경기 시흥경찰서 능곡파출소 소속 이주성(43) 경감(사진 오른쪽)과 장경주(33) 경사. /시흥경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다행히 능곡파출소 소속 이주성(43) 경감과 장경주(33) 경사가 파출소 앞에 쓰러진 A씨를 발견해 달려갔다. A씨는 “정신을 차려 보라”는 외침에도 호흡이 어려운 듯한 모습을 보였다. 고통을 호소하던 와중 A씨는 약 봉투를 보여주며 무언가 계속 이야기하려 했다.&lt;br&gt;&lt;br&gt;그러자 이 경감은 A씨를 상대로 ‘하임리히법’을 실시했다. 하임리히법이란 음식과 같은 이물질이나 알레르기 반응 등으로 인해 기도가 막혔을 때 취하는 응급처치법이다. 약물 오복용을 의심한 것이다.&lt;br&gt;&lt;br&gt;이후 A씨는 구토를 한 뒤 점차 안정되는 모습을 보였다. A씨 상태가 여전히 좋지 않다고 판단한 이 경감과 장 경사는 A씨를 순찰차에 태워 응급실로 옮겼다.&lt;br&gt;&lt;br&gt;순찰차 안에서도 A씨는 또 한차례 호흡곤란 증세를 보였다. 장 경사는 곧바로 순찰차를 세워 다시 한 번 하임리히법을 실시해 위기를 넘겼다.&lt;br&gt;&lt;br&gt;무사히 응급실에 도착한 A씨는 건강을 회복했다. A씨는 “병원에서 10분만 늦었으면 죽었을 것이라며 빨리 와서 천만 다행이라고 했다”며 “애 많이 써주신 경찰관님께 다시 한 번 더 감사드린다”고 말했다.&lt;br&gt;&lt;br&gt;이 경감은 “목을 부여잡고 숨이 안쉬어진다는 대상자의 말을 듣고, 최근 교육받은 ‘하임리히법’이 떠올라 몸이 먼저 반응했다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘디올백’ 10개월 만에 金여사 무혐의 처분… 더 커진 정치적 논란</title>
       <link>https://www.chosun.com/national/court_law/2024/10/03/ZRECTIR2ANGSDE24RAKWWXIMSU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/03/ZRECTIR2ANGSDE24RAKWWXIMSU/</guid>
@@ -838,42 +883,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XIRSIJ3ARDJORSEWON6VRTGY5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아내 폭행을 이유로 내려진 접근금지 등 임시조치 명령을 어기고 아내를 찾아간 50대 공무원이 경찰에 구속됐다.&lt;br&gt;&lt;br&gt;인천 논현경찰서는 스토킹 범죄의 처벌 등에 관한 법률 위반 등 혐의로 50대 남성 A씨를 구속했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 최근 경찰로부터 아내 B씨 주변 접근과 연락을 금지하는 임시조치 명령을 받고도 계속해서 B씨를 찾아가거나 전화 연락을 한 혐의를 받고 있다. B씨는 앞서 A씨로부터 폭행을 당했다는 이유 등으로 경찰에 고소장을 제출했고, 경찰은 A씨에게 접근금지 등 임시조치 명령을 내렸다.&lt;br&gt;&lt;br&gt;인천지법은 지난달 29일 A씨에 대한 구속 전 피의자 심문(영장실질심사)를 진행해 “도주나 증거 인멸의 우려가 있고 혐의가 소명된다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨를 상대로, B씨 고소 내용에 대한 조사 등을 진행할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[단독] 요양보호사 불렀더니 5060 남자가 왔다</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/02/QEPQC4BZ6RDPLLWVGHBAN34ENI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/02/QEPQC4BZ6RDPLLWVGHBAN34ENI/</guid>
-      <dc:creator>장윤 기자, 구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 01 Oct 2024 20:10:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JYPCP34435GV5B5QCRHR2MFA4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산시 장기요양요원지원센터에서 남성 요양보호사 30여 명이 ‘직무 역량 강화’ 교육을 받고 있다. 이날 강의를 들은 한 남성 요양보호사는 “요양보호사 자격증을 딴 후에도 경쟁력을 갖추기 위해 추가 교육을 받고 있다”고 했다. /울산광역시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재작년에 다니던 회사를 정년 퇴직한 남성 이은선(62·경기 의정부)씨는 지난 8일부터 의정부의 한 요양보호사학원을 다니고 있다. 이씨는 “앞으로 20~30년은 더 살 텐데 정년 없이 할 수 있는 일을 고민하던 중 요양보호사인 처제의 추천을 받았다”고 했다. 처음엔 ‘남자가 무슨 요양보호사냐’며 손사래를 쳤다고 한다. 거동이 불편한 노인들의 목욕을 돕거나 때론 용변까지 처리해줘야 하는 요양보호사 일이 여성만의 전유물이라고 생각했기 때문이다.&lt;br&gt;&lt;br&gt;하지만 “남성 요양보호사가 요즘 늘고 있다”는 주변 권유에 이씨는 마음을 돌렸다고 한다. 이씨가 다니는 요양보호사학원의 남성 수강생 숫자는 전체의 20%다. 이씨는 “중풍이 심한 90대 장모, 함께 나이 들어갈 아내를 전문적으로 돌보기 위해서도 내가 자격증을 공부하는 게 낫겠다고 판단했다”고 말했다. 서울 강남구의 A 요양보호사학원은 “작년까지만 해도 한 반 교육생 25명 중 남성은 2명 정도였지만 올해 들어 6~7명 정도까지 늘었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFKNMHWKRZALRK2GIW7EIKGOJ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5060남성들이 요양보호업계에 뛰어들고 있다. 은퇴한 5060남성들은 그간 자영업이나 건물 관리직(경비), 택배나 택시 운전 같은 분야에서 일자리를 알아보곤 했다. 하지만 보건복지부가 김미애 국민의힘 의원에게 제출한 자료를 보면, 최근 5년간 현업 남성 요양보호사 수는 2020년 2만4538명에서 지난 8월 기준 4만2672명으로 73% 증가했다. 남성 요양보호사 자격증 취득자 수도 2020년 17만7051명에서 지난 7월 기준 30만4724명으로 72% 증가했다.&lt;br&gt;&lt;br&gt;남성 요양보호사들은 요양보호사 자격증 취득에 초기 비용이 거의 들지 않는 점이 가장 큰 장점이라고 말한다. 경기도에서 활동 중인 한 60대 남성 요양 보호사는 “자영업엔 수천만 원에서 수억 원의 창업 비용이 드는데 요즘 같은 불경기에 망하기 딱 좋다”고 했다. 일선 요양보호사 학원 수강료는 80만~90만원 수준이고, 향후 취업하면 국가가 전액 환급해준다. 320시간 교육을 수료하면 자격증 시험에 응시할 수 있다. 합격률은 90%에 육박한다.&lt;br&gt;&lt;br&gt;가족을 돌보기 위해 요양보호사 자격증을 따는 5060 남성도 적잖다. 은퇴자 허영선(63·경기 남양주)씨는 지난해 11월 요양보호사 자격증을 취득했다. 허씨는 “뇌졸중에 걸린 어머니가 요양병원에 계셨는데, 비용도 많이 들 뿐더러 남의 손에 부모님을 맡기기도 편치 않았다”고 했다. 그는 자격증 취득 이후 집에서 어머니를 돌보고 있다. 가족요양급여 제도를 통해 시급 1만1000원 하루 3시간, 한 달 27일에 대한 급여 90만원을 수령한다. 몸이 편찮은 가족을 집에서 돌보고 돈을 받을 수 있다는 것이다.&lt;br&gt;&lt;br&gt;야간 근무가 잦은 경비 업무나 사고 위험이 적잖은 택시·건설·택배보다는 비교적 안전하다는 점도 5060 남성들이 요양보호사 자격증에 눈길을 돌리는 이유다. 일부 5060 남성은 노인 요양원 창업을 위해 요양보호사 자격증을 취득하기도 한다. 사업가 김모(66)씨는 “향후 요양 산업이 유망할 것으로 판단돼 내가 직접 이 업의 속성을 알아보기 위해 자격증을 공부하고 있다”고 했다. 실제 노인장기 요양 등급자는 올해 105만명에서 2050년 297만명으로 3배 가까이 늘어날 전망이다.&lt;br&gt;&lt;br&gt;일선 요양업계에선 5060 남성 요양보호사의 유입을 대체로 긍정적으로 바라보고 있다. 한 요양병원장은 “남성 노인들은 여성 요양보호사가 목욕을 시켜주거나 용변을 처리하는 일을 불편하게 여기곤 한다”며 “비교적 근력이 좋은 남성 요양보호사가 현장에서 환영받고 있다”고 했다. 일선 남성 요양보호사들은 “여성 요양보호사보다 훨씬 쉽게 구직이 가능하다”고 말한다.&lt;br&gt;&lt;br&gt;가정 방문 요양을 받는 남성 노인들에게 성희롱·성추행 등을 당하는 여성 요양보호사 문제도 5060 남성 요양보호사로 해결할 수 있다는 일각의 지적도 있다. 다만 올해 8월 기준 66만8309명인 전체 요양보호사 중 남성은 아직 4만2672명(6.3%)에 불과한 실정이다. 남기철 동덕여대 교수는 “고령화로 요양보호업 수요가 늘고 국가 재정 지원도 증가할 전망”이라며 “요양보호사 처우가 과거보다 나아지면서 5060 남성들의 유입도 향후 더 활발해질 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 행정안전부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/10/02/EKMCY77DBREWNA3H5CDBRSXKSI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/10/02/EKMCY77DBREWNA3H5CDBRSXKSI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 01 Oct 2024 16:55:27 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;행정안전부&lt;/b&gt;▷민방위심의관 장한&lt;br&gt;&lt;br&gt;▲&lt;b&gt;국가보훈부&lt;/b&gt;◇3급 승진▷보훈문화정책실 보훈문화정책관실 기념사업과장 장숙남▷복지증진국 복지정책과장 김법수◇4급 승진▷차관실 신인수▷기획조정실 정책기획관실 기획재정담당관실 정충복▷제대군인국 제대군인정책과 김시은&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한국해양교통안전공단&lt;/b&gt;▷안전관리실장 겸 미래사업실장 김신효▷해양모빌리티실장 김영두▷대외협력팀장 송태한&lt;br&gt;&lt;br&gt;▲&lt;b&gt;아시아투데이&lt;/b&gt;▷편집국 비즈테크부장 이도윤&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>60년간 영화·드라마 498편 출연… 원로배우 전숙 별세</title>
-      <link>https://www.chosun.com/national/people/2024/10/02/AAXHMKPBOBFRJIM4VN335LWQOQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/02/AAXHMKPBOBFRJIM4VN335LWQOQ/</guid>
-      <dc:creator>윤수정 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 01 Oct 2024 16:54:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QEO3QJOR5NGXZIRWXOIAFGLVOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1950년대 중반부터 60년간 한국 영화와 드라마 조·단역으로 활약한 원로 배우 전숙(본명 전갑례·98)이 지난 29일 별세했다. 영화계와 유족들에 따르면 고인은 1일 오전 인천에서 수목장으로 안장됐다. 유족은 2남 1녀.&lt;br&gt;&lt;br&gt;고인은 1955년 ‘불사조의 언덕’을 연출한 고(故) 전창근 감독의 출연 제의로 본격적인 영화 활동을 시작했다. 주로 다양한 어머니상을 연기하며 얼굴을 알렸다. ‘시집가는 날’(1965), ‘문정왕후’(1967), ‘충열도’(1977), ‘과부3대’(1983), ‘산산이 부서진 이름이여’(1991), ‘식객: 김치전’(2010) 등 2010년대에 이르기까지 498편에 출연했다. 마지막 영화 출연작이었던 ‘그것만이 내 세상’(2018)에선 92세 나이로 병실 노파 역을 연기하며 관객을 만났다. 1992년 제30회 대종상 영화제 특별연기상을 수상했고, 2001년 제39회 영화의 날 기념식 공로영화인으로 선정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘MLB 최다 안타왕’ 피트 로즈 하늘로…</title>
-      <link>https://www.chosun.com/national/people/2024/10/02/S6ZISKSZKVEADMU2NMBJRESOSI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/02/S6ZISKSZKVEADMU2NMBJRESOSI/</guid>
-      <dc:creator>배준용 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 01 Oct 2024 16:53:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QPKP6I4GNRL3XH3NJ5SZZKWV7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;피트 로즈. /AP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국 메이저리그(MLB) 역대 개인 통산 안타 1위 기록을 보유한 피트 로즈(83) 전 신시내티 레즈 감독이 1일(한국 시각) 세상을 떠났다. 로즈는 1963년부터 1986년까지 MLB에서 24시즌을 뛰는 동안 3562경기 4256안타를 기록, MLB 역대 최다 경기 출장과 개인 통산 최다 안타 기록을 갖고 있다. 통산 타율 0.303, 160홈런, 1314타점, 198도루. 현역 시절 타격 1위 3번, 최다 안타 1위에 7번 올랐다. 통산 4256안타는 MLB에서 앞으로 깨기 어려운 기록 중 하나로 꼽힌다. 1970년대 ‘빅 레드 머신’으로 불린 레즈 타선을 이끌며 두 차례 월드시리즈를 제패했고, 17번 올스타에 뽑혔다. 2루수와 우익수, 좌익수, 3루수, 1루수 5개 수비 위치에서 올스타에 뽑힐 정도로 다재다능했고, 볼넷을 얻고 1루까지 전력질주하는 ‘허슬 플레이’로 유명했다.&lt;br&gt;&lt;br&gt;업적만 보면 MLB 명예의 전당 입성은 당연했지만 도박 논란에 휘말리며 수렁에 빠졌다. 1989년 레즈 감독 시절 자기 팀 승부에 돈을 건 사실까지 밝혀지면서 MLB에서 영구 추방되는 중징계를 받았다. 이후에도 탈세 혐의로 유죄 판결을 받아 옥살이를 하기도 했다. 로즈는 생전 과도한 처벌을 받았다고 주장하며 복권을 신청했지만 이뤄지지 않았다. 올해 초 LA 다저스 오타니 쇼헤이 통역사 미즈하라 잇페이의 불법 도박 사실이 밝혀지자 로즈는 “1970~80년대 통역사가 있었으면 처벌을 받지 않았을 것”이라고 말해 재차 논란을 자초했다. 이날 MLB 사무국은 “로즈의 가족, 경기에서 함께 뛰었던 선수들, 그리고 로즈의 위대함, 근성, 결단력에 감탄했던 팬들에게 깊은 애도를 표한다”며 “명복을 빈다”는 성명을 발표했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>창원자통, 위헌심판도 신청… 국보법 사범 계속된 ‘재판 농단’</title>
       <link>https://www.chosun.com/national/court_law/2024/10/02/P2BLLYEOSFE6BB4HNLOZT22KLI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/02/P2BLLYEOSFE6BB4HNLOZT22KLI/</guid>
@@ -911,15 +920,6 @@
       <description/>
       <pubDate>Tue, 01 Oct 2024 15:38:43 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4G2G6AAPBEEJICO7RGENG4WOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;*할아버지는 “늙으막에 자식들에게 봉양받는 시대는 이제 끝이니 퇴직하고 재취업했다”고 하셨고, 고모할머니는 “자식들 뒷바라지하느라 못다 한 공부를 하고 싶어 늦깍이 대학생이 되었다”고 말씀하셨다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;이 중 틀리는 말을 찾아 바르게 고쳐 보세요. ‘늙으막’은 ‘늘그막’, ‘늦깍이’는 ‘늦깎이’로 고쳐야 해요.&lt;br&gt;&lt;br&gt;‘늦깎이’는 ‘늦다’의 어간 ‘늦-’에 ‘깎다’의 어간 ‘깎-’과 ‘-이’를 합친 말이에요. 본래 ‘늦게 머리를 깎은 사람’, 즉 ‘나이가 들어 승려가 된 사람’을 가리키는 말이었어요.&lt;br&gt;&lt;br&gt;예를 들면 ‘그 스님은 늦깎이로 사십 세가 넘어서야 불교에 입문했다’와 같이 써요. 현재는 의미가 확대되어 ‘나이가 꽤 들어서 어떤 일을 시작하거나 성공한 사람’이나 ‘남보다 사물의 이치를 늦게 깨달은 사람’을 모두 ‘늦깎이’라고 해요. 또 과일이나 채소 따위가 늦게 익은 것도 ‘늦깎이’라고 하지요.&lt;br&gt;&lt;br&gt;‘늘그막’은 ‘늙어 가는 무렵’을 가리키는 말이에요. ‘늙다’의 명사형이 ‘늙음’이듯, ‘늙으막’으로 써야 한다고 생각하기 쉬운데, ‘늘그막’이 맞는 표기랍니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;[예문]&lt;/b&gt;&lt;br&gt;&lt;br&gt;-고향에서 형제들과 모여 사는 것이 늘그막의 유일한 꿈이다.&lt;br&gt;&lt;br&gt;-사과나무에서 아직 늦깎이는 따지 못했어.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘인민군과 싸운 경찰’ 한효동 前강경서장 별세</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/10/01/J4APEN2B7JEAFKX7FYH6H5VLRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/10/01/J4APEN2B7JEAFKX7FYH6H5VLRA/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 01 Oct 2024 12:57:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BYQE4IR7DZEA3PUGAXSVO7TMFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한효동 前 강경경찰서장. /유족 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·25전쟁 당시 충남 논산에서 벌어졌던 ‘강경 전투’의 마지막 생존자인 한효동(97) 前 강경경찰서장이 지난달 30일 대전 자택에서 별세했다.&lt;br&gt;&lt;br&gt;고인은 1927년 충남 논산에서 태어나 대전고를 졸업하고 1948년 경찰관이 됐다. 6·25전쟁 때 강경경찰서(옛 논산경찰서)에 근무했다. 당시 강경경찰서 경찰관들은 남진하던 북한 인민군 1000여 명과 맞서 싸웠다. 고인은 강경 전투에 참전한 공로 등으로 녹조근정훈장을 받았다. 유족으로는 아내 양채호씨, 딸 영숙씨, 아들 윤우·일권·선우·운우씨가 있다. 빈소는 대전 건양대병원, 발인은 3일 오전 7시. (042)600-6660&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>女 민원인 앞에서 바지 훌러덩... 양양군수 국힘 탈당</title>
