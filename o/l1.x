@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>법원행정처, 법정 보안 강화 종합대책 발표…형사법정 차단막 정식 설치 검토</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;&amp;nbsp;&lt;/div&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201755.jpg" alt="201552.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;아크릴 보호막이 설치된 서울남부지법 형사법정의 모습. 《사진=서울남부지법 제공》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201755.jpg" alt="201552.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;아크릴 보호막이 설치된 서울남부지법 형사법정의 모습. 《사진=서울남부지법 제공》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대법원 법원행정처가 법정 피습 사건 재발 방지를 위한 법정 보안 강화 대책을 내놓았다. 보안 검색 관련 장비와 인력을 확충하고 형사법정에 시범적으로 설치한 차단막의 정식 도입을 검토할 예정이다.&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;법원행정처는 2일 이 같은 내용을 담은 '법정 보안 강화를 위한 종합 대책'을 일선 법원에 송부했다고 밝혔다.      &lt;/p&gt;&lt;p&gt;&lt;br /&gt;대책은 △법정 내 보안 강화 △검색 강화 △보안 인력 확충 및 역량 강화 등 3가지 방안이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;법정 보안 강화를 위해 형사법정 안 차단막 설치를 검토할 방침이다. 앞서 법원행정처는 서울남부지법 등에 형사법정 차단막을 시범 설치했는데, 시범 도입 경과를 보고 정식 설치에 나서겠다는 계획이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;서울남부지법(법원장 황정수)은 최근 형사 법정 한 곳에 아크릴 소재의 투명 가림막을 소송관계인 석과 방청석 사이에 시범 설치했다.&lt;b&gt;&lt;a href="https://www.lawtimes.co.kr/news/201552" target="_blank"&gt;《법률신문 9월 25일 단독보도 참고》&lt;/a&gt;&lt;/b&gt; 검사·변호인·피고인석과 가까운 방청석 첫 줄도 비운다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;보안관리대원의 상황 대응 능력을 제고하기 위해 법정 안 근무 위치도 변경할 계획이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;검색 단계 보안 강화를 위해 노후장비를 수리하거나 교체하고 새 장비를 도입할 예정이다. 또 각급 법원 홈페이지에 보안검색 관련 내용을 신설하고 변호사협회에 협조 공문을 보낸다는 계획이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;보안 인력 확충을 위해 증원과 관리직렬 공무원, 법원 행정인턴 활용도 검토한다. 보안 인력 대상 교육도 강화할 예정이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;법원행정처는 "법정 보안 강화를 위한 종합대책이 각급 법원에서 구체적인 환경 개선 및 제도로 실현될 수 있도록 예산 및 인력 지원을 계속할 예정"이라고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Thu, 03 Oct 2024 04:44:16 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201755</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201755</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201755.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 법조】 2024년 10월 3일</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[오늘의 PICK ]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br /&gt;▷명품가방 수수 사건' 김건희 여사·최재영 모두 불기소&lt;/b&gt;&lt;br /&gt;검찰이 윤석열 대통령과 김건희 여사의 청탁금지법 위반 및 뇌물수수 혐의에 대해 혐의없음 결론을 내리고 불기소처분했다. 김 여사에게 명품가방을 건넨 최재영 목사와 가방을 주고받는 장면을 몰래 촬영해 공개한 서울의소리 백은종 대표 등도 불기소처분했다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/201738" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;hr style="border-width:1px 0 0 0; border-style:dashed; border-color:lightgray;" /&gt;&lt;b&gt;&lt;br /&gt;▷고려아연 자사주 매입 가능해졌다…법원, 영풍 제기 가처분 기각&lt;/b&gt;&lt;br /&gt;고려아연 경영권을 두고 분쟁 중인 최대주주 영풍이 고려아연을 상대로 자기주식 취득금지 가처분 신청을 냈으나 법원이 기각 결정했다. 법원 결정에 따라 고려아연은 즉시 자사주 매입을 추진할 전망이다. 서울중앙지법 민사50부(재판장 김상훈 부장판사)는 2일 영풍 측이 고려아연 최윤범 회장을 상대로 낸 자기주식 취득금지 가처분 신청(2024카합21412)을 기각했다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/201735" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Wed, 02 Oct 2024 22:37:08 -0000</pubDate>
@@ -229,16 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201712</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201712.jpg</media:thumbnail>
 			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>네플라·개인정보전문가협회, 개인정보 법률지식 확산 MOU 체결</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201710.jpg" alt="201710.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;최경진 협회장과 최주선(39·사법연수원 42기) 네플라 주식회사 대표가 28일 서울 역삼동 네플라 사무실에서 업무협약식을 체결했다.&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;개인정보전문가협회(회장 최경진)와 네플라 주식회사(대표&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="21801"&gt;최주선&lt;/span&gt;)는 28일 서울 역삼동 네플라 본사에서 개인정보 분야 법률지식의 확산과 상호 협력을 위한 업무협약(MOU)을 체결했다.&lt;br /&gt;&lt;br /&gt;이번 협약은 개인정보보호 관련 법률 및 실무지식을 필요로 하는 다양한 주체들이 더 쉽게 전문 지식에 접근하고 관련 전문가들과의 교류할 수 있도록 마련됐다.&lt;br /&gt;&lt;br /&gt;양 기관은 이번 업무협약을 통해 △개인정보 분야 교육자료 공유 △협회 회원 및 전문가 간 교류 활성화 등 다양한 활동을 추진할 예정이다.&lt;br /&gt;&lt;br /&gt;개인정보전문가협회는 개인정보 관련 정책 및 입법에 관한 의견을 개진하고, 관련 연구 및 학술 활동을 하는 전문가 단체다.&lt;br /&gt;&lt;br /&gt;네플라는 전문가들이 법률지식을 공유하고 이를 바탕으로 자신을 홍보할 수 있는 플랫폼이다.&lt;br /&gt;&lt;br /&gt;네플라 관계자는 "이번 MOU는 네플라가 특정 분야 전문가 단체와 맺는 첫 번째 협약"이라며 "체계적인 법률지식 공유 및 전문가와 법률소비자 간의 소통을 촉진하는 데 있어 큰 진전을 이룰 것"이라고 밝혔다.</description>
-			<pubDate>Mon, 30 Sep 2024 08:15:14 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201710</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201710</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201710.jpg</media:thumbnail>
-			<dc:creator>안현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
