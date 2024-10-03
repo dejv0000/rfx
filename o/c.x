@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>명지학원, 1100억원대 증여세 취소… 대법 “‘출연 재산’ 좁게 봐야”</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/04/ZHMZXAPXYJAEJHJJ764R5U5WLQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/04/ZHMZXAPXYJAEJHJJ764R5U5WLQ/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 03 Oct 2024 22:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MB43KSMPLJG7HLWZYOWG7BLAVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 명지대 전경. /명지대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;명지대, 명지전문대를 운영하는 학교법인 명지학원이 2016년 부과 받은 1100억원대 증여세를 취소해야 한다는 취지의 대법원 판결이 나왔다.&lt;br&gt;&lt;br&gt;4일 법조계에 따르면, 대법원 2부(주심 권영준 대법관)는 명지학원이 중부세무서장을 상대로 낸 증여세 부과 처분 취소 소송에서 원고 패소 판결을 내린 원심 판결을 지난달 13일 깨고 서울고법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;이 사건은 명지학원이 1997년 서울 중구에 세운 명지빌딩을 2007년 약 2603억원에 매각한 것이 발단이다. 명지학원은 매각 대금 중 1628억여 원을 자회사인 명지건설, 명지의료재단 등에 대여했다.&lt;br&gt;&lt;br&gt;과세 당국은 2016년 “명지학원이 빌딩 매각 대금을 공익목적 사업 외에 사용했다”면서 1124억원의 증여세 등을 부과했다. 상속세 및 증여세법은 ‘공익법인이 출연(出捐) 받은 재산을 매각하고, 그 매각 대금을 공익목적 외에 사용한 경우 증여세를 부과한다’고 규정하고 있다. 직접 기부나 증여받은 재산을 공익사업 외에 사용하지 말라는 취지의 조항이다. 명지학원은 이에 불복해 소송을 냈다.&lt;br&gt;&lt;br&gt;쟁점은 명지학원의 빌딩 매각 대금이 상증세법이 규정하는 ‘출연 받은 재산의 매각 대금’에 해당하는지였다. 1심과 2심은 과세 당국의 손을 들어줬다. 명지학원이 세운 빌딩 자체를 출연 받은 재산으로 봐야 한다고 본 것이다.&lt;br&gt;&lt;br&gt;하지만 대법원은 이를 다시 심리하라며 파기 환송했다. 대법원은 “상증세법의 ‘출연 받은 재산’은 공익법인이 증여받은 당해 재산만을 가리킨다고 봐야 한다. ‘출연 받은 재산으로 취득한 재산’ 또는 ‘출연 받은 재산의 매각 대금, 운용소득으로 취득한 재산’까지 포함된다고 해석할 수 없다”고 했다. 즉, 명지빌딩은 명지학원이 기부받거나 증여받은 재산으로 취득한 것이지, 빌딩 자체를 기부∙증여받은 것이 아니므로 과세 대상이 될 수 없다는 의미다.&lt;br&gt;&lt;br&gt;이번 판결은 공익법인이 출연 받은 재산의 매각 대금 등에 대한 증여세 과세의 허용 범위와 한계를 설정한 판례다. 대법원 판결 취지에 따라 1124억원의 증여세는 파기환송심에서 취소될 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>진보 정근식 “뉴라이트 역사 교육 막겠다”</title>
       <link>https://www.chosun.com/national/education/2024/10/04/GQWMTTO6UNC2BPARKEHGQQ3RXI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/04/GQWMTTO6UNC2BPARKEHGQQ3RXI/</guid>
@@ -875,15 +884,6 @@
       <description/>
       <pubDate>Wed, 02 Oct 2024 08:47:38 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A6KMNZ77ZZE65EPHBWUZJHZHPQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;한식진흥원 홈페이지에 올라온 김치찌개 조리법/SBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;농림축산식품부 산하 공공기관이 황당한 한식 조리법이 담긴 자료를 발간하고 홍보한 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;2일 SBS 보도에 따르면, 한식진흥원 홈페이지에는 한때 잘못된 한식 조리법이 올라오거나 김치를 ‘파오차이(泡菜)’라고 표기하는 등의 오류가 있었다. 한식진흥원은 농림축산식품부 산하 공공기관으로, 한식의 세계화를 목표로 설립됐다. 매년 100억 원 이상 예산을 투입해 한식을 세계에 알리는 역할을 해왔다.&lt;br&gt;&lt;br&gt;대표적인 오류 사례를 보면, 한식진흥원은 김치찌개 재료로 ‘살아있는 미꾸라지’, ‘우거지’, ‘숙주’ 등을 적어놓았다. 조리 전 준비사항에는 ‘살아있는 미꾸라지에 굵은 소금을 뿌리고 뚜껑을 덮어 5분 정도 놔뒀다가 체망에 넣고 거품이 나도록 문질러 씻는다’고 적혀 있었다. 이는 추어탕 조리법을 김치찌개 조리법으로 잘못 기재했던 것으로 보인다.&lt;br&gt;&lt;br&gt;이외에도 김치를 중국식 절임채소인 ‘파오차이’(泡菜)로 소개하거나, 떡갈비의 유래를 전라도 광주가 아닌 경기도 광주라고 쓴 것으로 나타났다.&lt;br&gt;&lt;br&gt;한식진흥원이 발간한 ‘한식 메뉴의 외국어 표기 활용 안내서’ 책자에도 다수의 오기가 발견됐다. 홍합탕을 ' 홍어탕(Hongeotang)’으로, 순대를 ‘소머리 수육(Someorisuyuk)’으로, 족발을 ‘조기찜(Jogijjim)’ 등으로 잘못 써 책자 8만부가 폐기된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이런 오류는 홈페이지에 1년 4개월간 노출돼 있었으며, 대부분 시민이 민원을 제기한 뒤에야 정정됐다고 한다. 현재 홈페이지에는 정보가 수정돼 있다. 한식진흥원은 이런 오류가 발생한 것에 대해 사과하며 자료 모니터링을 강화하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“이런 엽기적인 일이”...카페 테라스서 용변 본 중국인 추정男</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/02/CCHLYFXTBFHS5ODRZB3K6C34FE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/02/CCHLYFXTBFHS5ODRZB3K6C34FE/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Oct 2024 08:09:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WHEXWCKALJHM7ECPLLCMS3AXD4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경기 수원시에서 카페를 운영한다는 A씨가 자신의 카페 테라스에서 중국인으로 추정되는 한 남성이 대변을 봤다며 올린 사진. /'아프니까 사장이다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국인으로 보이는 한 남성이 경기 수원시의 한 카페에서 화장실이 아닌 테라스에 대변을 봤다는 주장이 나왔다.&lt;br&gt;&lt;br&gt;2일 자영업자 온라인 커뮤니티에는 ‘뉴스에서 보던 일이 저에게도 일어나네요’라는 제목의 글과 함께 사진이 올라왔다. 글 작성자인 A씨가 공개한 사진을 보면 검은색 모자를 쓰고, 빨간색 티셔츠를 입은 장발 남성 B씨가 쭈그려 앉아 바지를 벗은 모습이 포착됐다.&lt;br&gt;&lt;br&gt;글에 따르면 지난달 30일 중국인으로 보이는 일행 3명이 카페를 방문했는데, 이중 두 명은 부부로 추정됐고 이들은 중국어로 이야기를 나눴다.&lt;br&gt;&lt;br&gt;5년째 카페를 운영 중이라는 A씨는 “남자가 영어로 주문했다. 중국 본토는 아니고 홍콩 쪽 사람들 같다”며 “16시 20분쯤 B씨가 오더니 화장실이 어딘지 묻길래 뒷문으로 나가서 왼쪽에 화장실이 있다고 안내해 드렸다”고 했다.&lt;br&gt;&lt;br&gt;A씨에 따르면 먼저 들어가 있는 손님 때문에 B씨가 화장실 문 앞에서 기다렸다고 한다. 시간이 조금 흐른 후 B씨는 자리로 돌아왔고, 일행은 10여 분 후 “잘 먹었다”며 웃으며 인사하고 매장을 떠났다.&lt;br&gt;&lt;br&gt;문제는 그 이후였다. A씨는 “손님들이 빠지고 잠시 쉬는 시간이 생겨 화장실 청소를 했다. 이후 세탁한 수건을 널러 테라스로 향했다. 그런데 그곳에서 대변을 발견했다”고 했다. B씨가 테라스 구석에 배치한 화분 뒤에서 변을 본 것으로 추정된다.&lt;br&gt;&lt;br&gt;그는 “지름이 약 30cm 이상 되는 대변이 바닥에 있었다. 정말 한 바가지였다”며 “방범 카메라(CCTV)를 돌려봤다. 순간 (화장실 위치를 물어봤던) 그 남성이 떠올라 대략 시간을 검색해 봤더니 변을 보고 있는 모습이 보였다”고 설명했다.&lt;br&gt;&lt;br&gt;이어 “정말 황당하고 어이가 없었다. 가게 안 테라스에 대변을 보고 간 사람은 (카페 운영) 5년 만에 처음이었다”며 “결국 내가 물로 그 많은 대변을 다 씻어내고 상황은 종료됐다”고 했다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “진짜 대박이다” “살다 살다 이런 엽기적인 일도 있구나” “정신이 혼미해진다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘여신도 성폭행’ JMS 정명석, 항소심서 징역 17년으로 감형</title>
