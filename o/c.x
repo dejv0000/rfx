@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] “전광훈, 공천 대가로 금품 요구” 제보자 검찰 송치</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/04/PEDBIFLDXJA2VNA4ASYRNNL4VE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/04/PEDBIFLDXJA2VNA4ASYRNNL4VE/</guid>
+      <dc:creator>서보범 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Oct 2024 04:52:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6T33BAURAWPCW3IXRHIWRRAYSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전광훈 사랑제일교회 목사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 22대 총선 과정에서 전광훈 사랑제일교회 목사로부터 공천을 대가로 금품을 요구받았다는 의혹을 폭로한 당시 자유통일당 당원들이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 종암경찰서는 지난 총선 당시, 부부 관계인 자유통일당 당원 이정우·이하영씨를 공직선거법 위반 혐의로 지난달 20일 검찰에 송치했다고 4일 밝혔다. 이들은 ‘비례대표 공천을 받으려면 수억원을 내라’는 취지의 요구를 받았다며 전 목사와 김학성 전 자유통일당 공천관리위원장을 지난 3월 경찰에 고발했다. 전 목사 역시 공직선거법 위반으로 최근 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이씨 부부는 지난 총선 과정에서 자유통일당 비례 앞 순번을 대가로 한 전 목사의 금품 요구를 거절하지 않고 이에 응했다는 혐의를 받는다. 전 목사 측이 이씨 부부에게 금품을 요구했고, 이를 적극 부인하지 않았기 때문에 양측 간 금품 수수 의사가 있었다고 경찰은 보고 있다. 경찰은 전 목사 측이 이씨에게 수억원을 요구하는 내용의 녹취록을 확보한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;또 이씨 부부는 지난 2월 유동규 계양을 예비후보 선거사무소 개소식에서 전 목사와 만나 현금 1000만원을 건넨 혐의도 받는다. 경찰은 이씨 부부가 비례대표 공천을 대가로 이를 건넨 것으로 보고 있다. 이씨 부부는 지난 3월 자유통일당 비례대표 공천 명단에서 탈락했다.&lt;br&gt;&lt;br&gt;이씨는 4일 본지 통화에서 “저는 전 목사 측의 공천 비리 의혹을 제보한 공익제보자”라며 “후보 입장에서 금품 요구를 받았다고 해서 어떻게 당에 대해 강경한 태도를 보일 수 있나”고 했다. 이어 “전 목사 측에서 공천을 받으려면 수억원을 내라고 요구했지만 이에 응하지 않고 공천 결과를 기다렸다”며 “이후 공천에 탈락했을뿐만 아니라 입당조차 무효라는 말을 듣고 제보를 결심했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 전 목사 측은 “이씨 부부가 금품을 제공해 공천을 거래하겠다는 요구를 오히려 거절했다”며 혐의를 부인했다. 서울북부지검은 지난달 이씨에 대한 조사를 진행한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>작년 자살 사망자 수 전년 대비 1000명 증가</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/10/04/JVQHUCKLDFEF7HE2XFLEVBGTSI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/04/JVQHUCKLDFEF7HE2XFLEVBGTSI/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Oct 2024 05:04:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2SFMYEM5LZBM7O2A32O26GP4SI.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라 자살률이 세계 최고 수준을 보이는 가운데, 지난해 자살 사망자 수가 전년 대비 1000여명 증가한 것으로 나타났다.&lt;br&gt;&lt;br&gt;4일 통계청이 발표한 ‘2023년 사망 원인 통계’에 따르면, 지난해 자살 사망자 수는 1만3978명으로, 전년 대비 1072명(8.3%) 증가했다. 일평균 자살 사망자 수는 38.3명으로 집계됐다. 자살 사망률(자살률)은 인구 10만명당 27.3명으로, 전년 대비 2.2명(8.5%) 증가했다.&lt;br&gt;&lt;br&gt;성별로 보면, 남성과 여성 자살률이 모두 증가했다. 남성의 경우 자살 사망자가 2022년 9019명에서 지난해 9747명으로 728명(8.07%) 늘었다. 같은 기간 여성 자살 사망자는 3887명에서 4231명으로 344명(8.85%) 늘었다.&lt;br&gt;&lt;br&gt;연령별로 보면, 자살 사망자는 60대(13.6%), 50대(12.1%), 10대(10.4%) 순으로 증가폭이 컸다. 80세 이상(-1.9%)은 전년 대비 다소 감소했다. 반면 자살률은 80세 이상(59.4명)이 가장 높았고, 뒤이어 70대(39명), 50대(32.5명), 40대(31.6명), 60대(30.7명) 순으로 높았다.&lt;br&gt;&lt;br&gt;복지부는 “사회적 고립, 경제난 심화 등 코로나가 남긴 후유증과 더불어 자살을 하나의 선택지로 인식하는 경향이 높아진 데 따라 자살 사망자와 자살률이 늘어난 것으로 추정된다”고 했다. 실제 정신 질환자 수는 2017년 321만명, 2019년 368만명, 2021년 411만명, 2022년 434만명으로 매해 증가하는 추세다.&lt;br&gt;&lt;br&gt;경제협력개발기구(OECD) 국제 비교를 위해 연령 표준화를 거친 자살률은 24.8명이었다. 이는 OECD 전체 평균(10.7명)의 2배가 넘는 수치다. 우리나라가 OECD 국가 중 압도적 자살 사망률 1위 국가다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원, 20대 여성 BJ 살해 40대 남성에 징역 25년…“반성‧죄책감 없어”</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/04/YNFU747JLBCXTKTDHI4YN5CBYM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/04/YNFU747JLBCXTKTDHI4YN5CBYM/</guid>
+      <dc:creator>김명일 기자, 구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Oct 2024 04:40:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 은평구의 한 오피스텔에서 20대 여성 인터넷 방송 진행자(BJ)를 목 졸라 살해한 40대 남성에게 중형이 선고됐다.&lt;br&gt;&lt;br&gt;4일 서울서부지법 형사11부(재판장 배성중)는 살인 등 혐의로 재판에 넘겨진 김모씨(44)에게 징역 25년과 15년간 위치 추적 장치 부착 명령을 선고했다. 김씨의 도피를 도운 혐의(범인도피)로 함께 재판에 넘겨진 전 아내 송모씨에게는 징역 6개월에 집행유예 1년이 선고됐다. 앞서 검찰은 김씨에게 징역 30년과 전자발찌 부착 명령 15년을 구형했다.&lt;br&gt;&lt;br&gt;김씨는 지난 3월 11일 오전 3시 30분쯤 은평구의 한 오피스텔에서 인터넷 개인방송 진행자인 20대 여성 A씨의 목을 졸라 살해하고 현금 등을 훔친 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;이날 선고를 앞둔 김씨는 피해자와 성관계를 가졌다고 주장하며 항변했다. 이에 재판부는 “(피해자에게서) 피고인의 DNA가 검출되지 않았다”면서 피고의 주장과 배치된다고 의문을 제기했다. 그러면서 “피해자의 재물을 빼앗으려 했거나 (피해자에게) 선물한 돈을 돌려받으려는 과정에서 다툼이 발생해 확정적 고의로 목을 졸라 살해한 게 아닌가 하는 의문이 있다”고 지적했다.&lt;br&gt;&lt;br&gt;다만 재판부는 불고불리(不告不理·검사가 기소하지 않은 부분은 법원이 판단하지 않는다)의 원칙에 따라 유무죄를 판단했다고 밝혔다. 고의로 살인을 저질렀다고 의심되지만, 이 부분은 기소된 사실에 포함되지 않아 더 따지지 않겠다는 뜻이다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 피해자의 목을 졸라 살해했고 피해자는 극심한 고통 속에 생을 마감했으며, 유족과 지인들은 형용할 수 없는 고통을 겪고 있다”며 “확정적인 고의로 살해했다고 단정할 수 없는 사정을 고려하더라도 엄중한 처벌이 불가피하다”고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;이어 “피고인은 피해자가 강압적 성관계 도중 세이프워드(그만하라는 의사표시)를 외치지 않아 목을 조르는 행위를 멈추지 않았다거나 과거 살인전과 때문에 119신고를 못했다는 식으로 주장하며 책임 회피에 급급하고 있다”고 했다. &lt;br&gt;&lt;br&gt;재판부는 “자신의 행동을 반성하고 유족에게 죄책감을 느낀다는 정황을 도저히 찾아볼 수 없다”며 “과거 유사한 수법의 살인 전과가 있고 그 외에 폭력 전과도 두 차례 있는데도 자중하지 않고 이 사건 범행으로 피해자의 생명을 빼앗았다”고 했다.&lt;br&gt;&lt;br&gt;앞서 경찰은 범행 사흘 뒤인 지난 3월 14일, A씨가 사망했다는 신고를 접수해 이튿날인 3월 15일 서울 구로구의 한 만화방에서 김씨를 긴급체포했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 대통령실 진입하려 한 대진연 회원 4명 체포</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/04/HNVZPTURBFBVZJRFCV27H3BRHA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/04/HNVZPTURBFBVZJRFCV27H3BRHA/</guid>
+      <dc:creator>김보경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Oct 2024 04:26:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4X4GIM4OZLEZLZZWUWCI2HMDE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 7일, 전날 용산 대통령실 진입을 시도하다 경찰에 연행된 회원들의 석방을 촉구하는 한국대학생진보연합(대진연) 회원들이 서울 용산경찰서 앞에 모여 경찰을 규탄하는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 용산경찰서가 대학생진보연합(대진연) 회원 4명을 현행범으로 체포해 조사 중이다.&lt;br&gt;&lt;br&gt;서울 용산경찰서는 4일 오전 11시 30분쯤 대통령실 진입을 시도한 대진연 회원 4명을 공동건조물침입 혐의로 체포해 조사중이라고 밝혔다. 대진연은 소셜미디어 채널을 통해 “김건희 특검을 요구하며 대통령실에 면담을 요청하러 갔다”고 밝혔다.&lt;br&gt;&lt;br&gt;대진연 회원들은 용산서로 연행된 후에도 경찰서 안에서 “김건희를 특검하라” “거부권 남발 중단하라” “윤석열을 탄핵하라” 등 구호 외치며 휴대전화를 이용해 유튜브 라이브를 진행했다. 이들은 “대학생들이 대통령실에 면담 요청을 하러 갔는데 이렇게까지 대학생들을 연행하고 수갑까지 채워놓은 상황입니다” 등 경찰 대응 상황을 해설하거나 “윤석열을 어떻게 가만히 놔둘 수 있겠습니까” 등 연설문도 큰 소리로 읊으며 사실상 경찰서 안에서 시위를 이어갔다.&lt;br&gt;&lt;br&gt;경찰이 여성 회원을 끌자 “남경(男警)은 만지지 마세요!” 등 외치기도 했다. “촬영하지 말라” “휴대전화를 달라”는 경찰 요구에도 불응하며 라이브 방송 중인 휴대전화에 “경찰이 핸드폰을 빼앗아 가려고 합니다!” 등 소리쳤다.&lt;br&gt;&lt;br&gt;대진연은 지난 1월에도 윤 대통령 탄핵과 김 여사 특검을 주장하며 대통령실에 진입하려 하다 경찰에 체포됐다. 경찰은 “자세한 경위는 추가로 조사할 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>게임 속 여성 유저에 음란 메시지 보낸 30대의 최후</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/04/IOZ7B6SDDFANXHR75ELP5XCC5Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/04/IOZ7B6SDDFANXHR75ELP5XCC5Y/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>온라인 게임 속 여성 유저에게 성적 수치심을 일으키는 저속한 표현을 남발한 30대 남성에게 1심 법원에 이어 항소심 법원도 벌금형을 선고했다.춘천지법 형사1부(재판장 심현근)는 성폭력 처벌법상 통신매체 이용 음란 혐의로 기소된 A(34)씨에게 원심과 같은 벌금 200만원을 선고했다고 4일 밝혔다.</description>
+      <pubDate>Fri, 04 Oct 2024 04:25:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/24UPWP5OARX56LWFKEPUAFKDZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온라인 게임 속 여성 유저에게 성적 수치심을 일으키는 저속한 표현을 남발한 30대 남성에게 1심 법원에 이어 항소심 법원도 벌금형을 선고했다.&lt;br&gt;&lt;br&gt;춘천지법 형사1부(재판장 심현근)는 성폭력 처벌법상 통신매체 이용 음란 혐의로 기소된 A(34)씨에게 원심과 같은 벌금 200만원을 선고했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 6월 온라인 게임 속 여성 유저 B씨에게 수차례 음란한 메시지를 보내 성적 수치심과 혐오감을 준 혐의로 약식기소됐다.&lt;br&gt;&lt;br&gt;그러나 A씨는 벌금형 약식명령에 불복했고, 무죄를 주장하며 정식 재판을 청구했다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 “성적 욕망을 유발하거나 만족시킬 목적이 없었다”고 주장했으나, 1심 재판부는 A씨가 다른 유저들의 만류나 경고에도 B씨의 실명과 함께 여성의 성기를 자극적으로 지칭하는 단어를 사용한 점, 성행위를 암시하는 표현을 집요하고 반복적으로 보낸 점 등을 이유로 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;항소심 재판부 역시 “원심의 판단은 정당하다”면서 A씨의 항소를 기각했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “원심 판결 선고 이후 양형에 반영할 만한 새로운 정상이나 특별한 사정변경을 찾아볼 수 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>교육부, 40개 의대 총장 온라인 회의... “의대 휴학 확산 안 돼” </title>
       <link>https://www.chosun.com/national/education/2024/10/04/Q62WKFEQRNG3TON7IO3YQYL2LM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/04/Q62WKFEQRNG3TON7IO3YQYL2LM/</guid>
@@ -859,33 +904,6 @@ The Chosunilbo</media:credit>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KWNPATPKGBCB5J6LRCZKQLRPKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>의료계 “인력 추계위, 내년 정원 논의 안하면 참여 않겠다”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/10/02/HBXTYV2BWJFCFEYMOVJQMTFNFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/02/HBXTYV2BWJFCFEYMOVJQMTFNFM/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Oct 2024 12:43:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y4RR623MU5KYFB3C2BGNAK37BI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9월 30일 오후 서울 서대문구 신촌 세브란스병원에서 의료진이 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한의사협회(의협)와 의대 교수 단체 등 의료계는 2일 “정부가 (올해 입시인) 2025학년도 의대 정원을 포함해 의제의 제한 없이 논의할 것을 요구한다”고 했다. 그러지 않으면 정부가 제안한 ‘의료 인력 수급 추계 위원회’(인력 추계위)에 전문가 추천을 하지 않겠다고 했다. 그동안 정부는 “2026년도 정원은 재검토할 수 있지만 내년도는 불가능하다”면서, 의료계 추천 전문가가 과반수인 인력 추계위를 만들겠다고 했다. 의료계 안팎에선 “인력 추계위가 가동하지 않으면 의료 파행이 지속될 것”이라는 지적이 나왔다.&lt;br&gt;&lt;br&gt;최안나 의협 대변인은 이날 브리핑을 열고 이 같은 내용을 담은 의협, 대한의학회, 한국의과대학·의학전문대학원협회, 전국의과대학교수협의회, 전국의과대학교수 비상대책위원회 등 5개 단체의 ‘의대 정원 증원 논의에 대한 의료계 공동 입장’을 발표했다. 최 대변인은 “정부는 2025년도 입시 절차가 시작됐다는 이유만으로 증원 철회가 불가능한 것처럼 호도하고 있지만, 입시가 완전히 종료되기 전까지는 정부가 의지만 있으면 (증원 철회가) 충분히 가능하다”고 했다. 또 “만일 정부가 잘못된 정책을 강행할 경우 내년 의대 교육 파탄을 피할 수 없으며, 2026년부터는 증원이 아니라 원래 정원 3058명도 뽑을 수 없고 감원이 불가피하다”고 했다. 박단 대한전공의협의회 비대위원장도 지난 1일 페이스북을 통해 “2025년도 의대 정원에 대한 입장 변화 없다”고 했다. 의료계가 정부 방침을 거부하는 모양새가 된 것이다.&lt;br&gt;&lt;br&gt;조규홍 보건복지부 장관이 최근 사직 전공의들을 향해 “매우 안타깝고 미안한 마음”이라고 처음 사과하는 등 의료계를 대화의 장으로 끌어내기 위해 노력했지만, 의료계가 거부하면서 양측이 평행선을 달릴 것이라는 전망이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아침 최저 6도 ‘가을 한파’... 내일 전국 곳곳 비</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/10/02/BQRB33BZFZBNJEAB27PSLTBIQE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/10/02/BQRB33BZFZBNJEAB27PSLTBIQE/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Oct 2024 12:15:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIQ7D3L6UVPJ3MRM66TILOAQBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 아침 서울 종로구 세종대로 사거리 모습. 한 시민이 겉옷에 달린 모자를 눌러쓴 뒤 손으로 꽁꽁 싸매고 있다. 이날 서울 아침 기온은 10도로 떨어져 쌀쌀했다. 설악산 등 강원도 산지는 아침 기온이 0도까지 떨어졌다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;찬 북풍(北風)의 영향으로 늦여름에서 늦가을로 갑자기 계절이 바뀐 듯 2일 올가을 들어 가장 쌀쌀한 하루가 지났다. 3일에도 ‘가을 한파’에 가까운 추위가 이어질 것으로 예상된다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 2일 오전 8시 기준 서울 아침 기온이 11.7도를 기록하는 등 중부 지방을 중심으로 기온이 전날보다 5~10도가량 뚝 떨어졌다. 북쪽에서 내려온 찬 공기가 지표로 깔리고, 바람까지 불며 쌀쌀했다. 설악산의 최저기온은 0.2도를 기록했고, 파주(6도), 춘천(7.5도), 충주(9.6도) 등 내륙 곳곳의 최저기온도 10도를 밑돌았다.&lt;br&gt;&lt;br&gt;3일에도 쌀쌀한 가운데 비구름대를 동반한 저기압의 영향으로 전국 곳곳에 비가 내릴 것으로 보인다. 예상 강수량은 경기남부·충청권 5㎜, 강원·전라권·제주도 5~40㎜, 경상권 10~60㎜ 등이다. 3일 최저기온은 6~18도, 최고기온은 17~22도로 예보됐다. 강원 산지에는 얼음이 어는 곳도 있겠다.&lt;br&gt;&lt;br&gt;한편 대만을 관통한 18호 태풍 ‘끄라톤’의 영향으로 우리나라 쪽으로 고온 다습한 수증기가 밀려오며 이번 주말 비 소식이 예고됐다. 5~6일 제주도에 비가 내리겠고, 6일에는 비구름대가 남부 지방까지 비를 뿌리겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>사업비 775억 더 올려, 위례신사선 재입찰하기로</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/02/ZNXIENAT3JDLPN6RLD6K46UYKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/02/ZNXIENAT3JDLPN6RLD6K46UYKI/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Oct 2024 11:46:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W6TREI54S5BC3ACFTAGOVHUDI4.png"&gt;&lt;br&gt;&lt;br&gt;민자 사업자가 공사비 상승 등을 이유로 사업을 포기해 장기 표류할 위기에 놓인 위례신사선 경전철 사업이 다시 추진된다. 서울시는 4일 사업비를 775억원 추가 증액해 재차 사업자 모집 공고를 낸다고 밝혔다.&lt;br&gt;&lt;br&gt;위례신사선은 4만6000가구가 사는 수도권 위례신도시와 서울 강남을 연결하는 14.7㎞ 길이 경전철이다. 2008년부터 추진됐으나 사업자(우선 협상 대상자)로 선정된 삼성물산과 GS건설이 잇따라 사업을 포기하면서 17년째 본계약도 체결하지 못하고 있다. 서울시는 지난 8월 총사업비를 1조4847억원에서 1조7605억원으로 2758억원 증액해 재공모를 했으나 지원한 업체가 한 곳도 없어 지난달 25일 결국 유찰됐다.&lt;br&gt;&lt;br&gt;서울시가 이번에 사업비를 775억원 추가 증액하면 당초 1조4847억원이었던 사업비가 1조8380억원으로 3533억원 증가하게 된다. 서울시 관계자는 “이번에는 관심을 갖는 업체가 있을 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;사업비 추가 증액은 기획재정부가 이날 ‘민간투자 활성화 방안’을 발표하면서 가능해졌다. 기재부는 최근 공사비 상승 등 비용 인상 요인을 반영해 민자 사업비를 최대 4.4%까지 증액할 수 있게 했다.&lt;br&gt;&lt;br&gt;서울시는 다음 달까지 사업자 공모를 실시한 뒤 내년 1월 새 사업자를 선정한다는 계획이다. 다만 서울시 계획대로 사업을 재추진하더라도 개통 시기는 2030년 이후로 1년 이상 지연될 가능성이 크다. 기재부 관계자는 “사업자가 확정되면 최대한 빨리 사업이 진행될 수 있도록 지원하겠다”고 했다.&lt;br&gt;&lt;br&gt;이를 두고 위례신도시 주민들은 “사업비 증액은 환영할 일이지만 진작 올렸다면 사회적 비용과 시간을 절약할 수 있었을 것” “시민들이 반발하니 찔끔 움직이는 전형적인 ‘뒷북 행정’”이라고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>법정 차단막 설치하고 인턴도 투입… 보안 강화 나선 법원</title>
       <link>https://www.chosun.com/national/court_law/2024/10/02/MJWHGKMEUVHTTOBB7H7SSZ6HDQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/02/MJWHGKMEUVHTTOBB7H7SSZ6HDQ/</guid>
@@ -905,24 +923,6 @@ The Chosunilbo</media:credit>
       <media:content url="https://www.chosun.com/resizer/v2/OSRS3BXL7FGT5GEUHXUYVVDABY.jpg?width=6894&amp;height=4276&amp;auth=e71d0f4af9e7203f8f2852b90748a1215f9d98cdf78eee0fa81fb44301afc3ea&amp;smart=true" type="image/jpeg" height="4276" width="6894">
         <media:description type="plain">지난 3월 19일 광주광역시 동구 소재 더불어민주당 광주동남을 안도걸 후보 선거사무실에서 경찰이 압수수색을 하고 있다. /뉴시스</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>우리나라 성인 3분의  1 이상 “통일 필요 없다” 역대 최고치</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/02/XWWSEPOCWNCNDDZYXLVEIU2XFE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/02/XWWSEPOCWNCNDDZYXLVEIU2XFE/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Oct 2024 08:20:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TRDTLORETNORBH4UMXG6ZFS7MA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영호 통일부 장관이 지난 9월 15일 서울 영등포구 여의도 KBS아트홀에서 열린 '제2회 이산가족의 날' 기념행사에서 인사말을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라 성인 3분의 1 이상은 ‘통일이 필요하지 않다’ ‘분단된 현 상태가 좋다’고 생각한다는 서울대 조사 결과가 2일 나왔다. 2007년 관련 조사가 시작된 이래 가장 높은 수치다. 보수는 북한에 부정적이고 진보는 긍정적이라는 기존 구도도 허물어지고 있는 것으로 나타났다.&lt;br&gt;&lt;br&gt;서울대 통일평화연구원은 이날 ‘2024년 통일 의식 조사’ 결과를 발표했다. 지난 7월 1일부터 같은 달 23일까지 만 19세 이상 1200명에게 “통일이 필요한가”라고 물었을 때 ‘그렇다’는 응답이 36.9%, ‘그렇지 않다’는 응답이 35%로 집계됐다. 조사가 시작된 2007년 이후 통일이 필요하다는 응답은 역대 최저치를, 통일이 필요 없다는 응답은 역대 최고치를 기록했다. 작년에 비해 통일이 필요하다(43.8%)는 응답과 필요하지 않다(30%)는 응답 변동이 컸다. 특히 20대(47.4%)와 30대(45%)에서 통일이 필요하지 않다는 의견이 많았다. ‘남북이 사실상 2개 국가로 분단된 현재대로가 좋다’고 한 응답자도 31.2%로, 작년(28.4%)보다 증가, 역대 가장 높은 수치를 기록했다.&lt;br&gt;&lt;br&gt;통일이 되지 말아야 할 이유로는 ‘통일에 따르는 경제적 부담(33.9%)’과 ‘통일 이후 생겨날 사회적 문제(27.9%)’가 지목됐다. ‘통일이 이념 갈등이나 범죄, 빈부 격차와 부동산 투기 등을 악화시킬 것’이라는 부정적 응답이 전체의 60% 이상이었다. 통일이 남한에 이익이 되지 않을 것이라는 응답(57%)도 이익이 될 것이라는 응답(43%)보다 많았다. 작년엔 각각 54.1%, 45.9%였다.&lt;br&gt;&lt;br&gt;북한에 ‘적대 의식’을 가진 사람도 22.3%로, 작년(18.6%)보다 상승했다. 정치 성향과 대북 인식이 높은 상관관계를 보였던 기존 패턴도 변했다. ‘북한 정권과 대화와 타협이 가능하다’고 응답한 진보 성향 응답자는 27.4%, 보수 성향 응답자는 26.7%로 거의 차이가 없었다. 작년까지만 해도 같은 답변을 한 응답자는 진보·보수에서 각각 41.3%, 24.2%였다. 김병로 통일평화연구원 부교수는 “북한과 대화와 타협이 가능하다고 생각했던 진보층 인식에 북의 ‘적대적 두 국가 선언’이 큰 영향을 준 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;김범수 서울대 통일평화연구원장은 본지 통화에서 “올해는 오물 풍선 등 북한의 위협을 시민들이 생활에서 직접 체감할 일이 많았고, 북한 측에서 지난해 남북 관계를 ‘적대적 두 국가’로 규정하며 남북 관계의 긴장이 높아진 영향이 큰 것으로 보인다”고 했다. 김 원장은 “특히 젊은 세대는 통일에 따른 경제적 부담을 실질적이고 장기적인 짐으로 생각할 뿐 아니라, 북에 직계 가족이 없는 등의 이유로 민족의식이 상대적으로 약해 기성세대보다 통일 필요성을 작게 느낀 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>동부간선 지하도로 15년 만에 착공…2029년 개통 목표</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/02/H4NEU2MDVVAL5LCU6EQ5SGPTC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/02/H4NEU2MDVVAL5LCU6EQ5SGPTC4/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Oct 2024 05:27:58 +0000</pubDate>
-      <content:encoded>2029년부터 서울 성북구 석관동에서 강남구 대치동까지 지하도로를 이용해 10분대에 갈 수 있게 될 것으로 보인다. 동부간선도로 지하에 승용차가 다닐 수 있는 왕복 4차로 도로가 새로 생기는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PP2COIKQ3BOUHFV2RQWMAC6QGA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;동부간선도로. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 2일 성북구 서울특별시 민방위교육장에서 ‘동부간선 지하도로’ 착공식을 열었다고 밝혔다.&lt;br&gt;&lt;br&gt;지하도로는 성북구 석관동 월릉IC부터 강남구 대치동 대치IC까지 12.5㎞ 구간을 잇는다. 민간 투자와 시비를 포함한 사업비 총 1조3512억원을 투입해 중랑천과 한강 아래를 지나는 왕복 4차로 도로를 만든다. 승용차나 1t 이하 화물차 등 소형차가 지나다닐 수 있다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “기존 동부간선도로 월릉IC와 군자IC로 진출입할 수 있을 예정”이라며 “삼성IC, 청담IC, 대치IC를 새로 만들어 영동대로와 도산대로에서도 진출입이 가능해진다”고 말했다.&lt;br&gt;&lt;br&gt;통행 요금은 강남에서 출발하는 경우 군자IC까지 1600원, 전 구간을 이용하면 2500원이다.&lt;br&gt;&lt;br&gt;서울시는 지하도로가 개통되면 하루에 동부간선도로를 지나는 차량 6만7000여 대 정도가 지하도로로 분산될 것으로 보고 있다. 하루 교통량의 44% 수준이다. 서울시 관계자는 “월계IC에서 대치IC까지 소요시간도 50분대에서 10분대로 40분 정도 줄어들 것으로 예상한다”고 했다.&lt;br&gt;&lt;br&gt;동부간선도로는 지난 1991년 개통해 하루에 차량 약 15만 대가 이용하고 있다. 서울시는 2009년 오세훈 시장 1기 재임 시절 ‘동부간선 지하도로를 만들겠다’는 구상을 발표했고, 2015년부터 본격적으로 지하도로 조성 사업에 나섰다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “교통량 증가로 정체가 생기고, 매년 여름 집중호우로 도로 침수가 반복돼 지하화가 필요했다”며 “지하도로는 침수 방지를 위한 설계 지침과 기준이 적용돼 기습 폭우가 와도 통행 제한 없이 이용할 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;서울시는 동부간선 지하도로 개통 후 버스나 트럭도 다닐 수 있는 11.5㎞ 길이의 지하도로를 중랑천 아래에 추가로 만들 예정이다. 여름철 비가 오면 물에 잠겨 지나다닐 수 없는 중랑천 하류 동부간선도로 구간을 모두 지하화하고 중랑천을 복원한다는 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>한변, “청문회서 증인에 모욕적 언행한 정청래 인권위 진정”</title>
