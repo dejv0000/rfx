@@ -13,6 +13,27 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“전날 밤부터 명당 자리 사수”...불꽃 축제 보러 여의도 100만명 운집</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/05/HNCJOWC3SVF6RPGR577OCN4NJE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/05/HNCJOWC3SVF6RPGR577OCN4NJE/</guid>
+      <dc:creator>강지은 기자, 김도연 기자, 구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 05 Oct 2024 09:10:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/33HCM5JC6RORFBWWJZGRCRX2DA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 5일 서울 영등포구 여의도한강공원이 2024 서울세계불꽃축제를 찾은 관람객들로 붐비고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘2024 서울세계불꽃축제’가 열리는 여의도 한강공원은 5일 축제를 즐기려는 인파로 낮부터 북적거렸다. 불꽃 개막식은 오후 7시임에도 시민들은 전날 밤부터 명당 자리를 사수하려고 전국 각지에서 몰려들었다.&lt;br&gt;&lt;br&gt;인파가 107만명이 몰릴 것으로 예상되는 가운데 경찰과 주최 측 지자체가 모두 인파 관리에 나선다. 경찰은 총 2417명을 투입했다. 이날 이른 아침 부터 명당 자리를 사수하려는 시민들이 몰리면서 경찰·현장 관리 인력들과 실랑이가 벌어지기도 했다. 5호선 여의나루역은 오후 6시부터 인파 밀집으로 무정차 통과했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HLKUZPF5FRC47GHTS7Q6BCM7NM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오후 한강공원에서 매트리스를 펼쳐 놓은 시민의 모습. /김도연 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여의도 한강공원의 불꽃놀이 명당을 노리며 시민들은 새벽부터 각지에서 몰려들기도 했다.한강변 앞에 자리를 차지하고 있던 여의도 주민 구본재(54)씨는 청주에서 온 장인장모, 평택에서 온 처제네 가족을 위해 자리를 맡아두고 있었다. 구씨는 “오전 5시 30분부터 교대로 가족들과 교대로 대기 중”이라며 “새벽엔 바람이 차가워 침낭을 두르고 있었다”고 했다.&lt;br&gt;&lt;br&gt;시민들은 텐트, 캠핑의자, 우산, 돗자리, 담요 등 만반의 준비를 갖춘 채로 불꽃축제에 대한 기대감을 드러냈다. 한강변 맨 앞자리에 자리를 차지한 이수현(15)양은 “유튜브에서 불꽃 축제 영상을 많이 봤고 가족들이나 어른들이 ‘살면서 한번 쯤은 봐야 한다’는 말에 기대를 품고 맨 앞자리를 잡았다”고 했다. 경기 의정부 가구공장에서 일하고 있는 네팔인 허리 수레스타(33)씨는 “지난해 지인 추천으로 불꽃축제에 왔다가 아름다운 불꽃에 반했다”며 “올해 직장 동료 4명과 함께 쉬는 날을 맞아 다시 찾았다”고 했다&lt;br&gt;&lt;br&gt;전날 밤부터 자리 잡기에 나선 시민들도 있었다. 곳곳에서 에어백과 간이 매트리스, 텐트를 펼쳐놓은 모습도 눈에 띄었다. 전날 밤부터 명당 자리를 찾아 진을 치고 있었다는 심모(42)씨는 일가족이 4일 오후 8시부터 경기 용인 집에서 출발해 자정 무렵에 여의도 한강공원의 자리를 선점했다고 한다. 초등학교 2·3·5학년 자녀들은 차 안에서 잠을 자고, 남편 손모(42)씨는 이불 2겹을 뒤집어 쓰고 한강 앞에서 자리를 지켰다고 한다. 손씨는 “매년 오다 보니 아이들이 ‘올해는 불꽃 축제 안가?’라고 보채니, 아이들을 생각하며 견뎠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GO3YL3FIL5GJFNRBG4KJ47FHFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;진보 진영 정근식 서울시교육감 후보가 5일 서울 여의도 한강공원에 찾아 선거 유세에 나섰다./김도연 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인파가 몰린 가운데 교육감 보궐 선거를 앞두고 진보 진영 정근식 후보가 한강공원을 찾기도 했다.  이날 정 후보는 이원종 배우, 이기영 배우, 안진걸 민생경제연구소 소장과 함께 현장을 찾았다. 이들은 북을 치며 유세를 하고 다니기도 했다.&lt;br&gt;&lt;br&gt;현장을 관리하는 경찰과 시민 간 충돌도 발생했다. 일부 시민들은 출입 금지 테이프가 둘린 곳 안으로도 들어가 돗자리로 자리를 잡으려고 했다. 이동 통로에 자리를 잡으려는 시민도 있었다. 경찰이 통로에 자리를 잡으려는 시민을 제지하자 “비어 있는데 여기서 좀 봐도 되지 않느냐”고 항의했다. 실랑이가 벌어지는 가운데도 테이프 아래로 들어와서 자리를 잡는 시민들 모습도 눈에 띄었다.&lt;br&gt;&lt;br&gt;경찰은 한강 교량 등에 불법 주·정차를 하는 차량에도 엄정 대응한다는 방침이다. 불꽃 축제를 관람하기 위해 강변북로 등에 주·정차하는 차량이 있을 경우 즉시 견인 조치를 하는 등 단속을 시행할 방침이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DX7VG5Y7TD3PZGISWBID7Z2WEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2023년 한화그룹이 '서울세계불꽃축제'에서 선보인 불꽃쇼. /한화그룹 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>지연·황재균 2년만에 이혼…“다름 극복 못해”</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/05/PYLFL77BCBDLJD7ZKQFGUM2W2A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/05/PYLFL77BCBDLJD7ZKQFGUM2W2A/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 05 Oct 2024 09:17:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BLMBTGNCWVVMEIF3NNEV5GMXJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 티아라 출신 지연, 황재균. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 티아라 지연과 프로야구 kt wiz 내야수 황재균이 결혼 2년여 만에 파경을 맞았다.&lt;br&gt;&lt;br&gt;지연은 5일 법률대리인을 통해 입장문을 발표하고 “서로 합의 하에 이혼을 위한 조정 절차를 진행하게 되었다”고 밝혔다.&lt;br&gt;&lt;br&gt;그는 “빠르게 입장 표명하지 못한 점 너른 양해를 부탁드린다”라며 “향후 더 좋은 모습으로 인사드릴 수 있도록 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;지연을 대리하는 법무법인 태성 측은 “서로의 다름을 극복하지 못하여 별거 끝에 이혼에 합의하고 절차 진행을 위해 서울가정법원에 이혼 조정 신청서를 접수한 상황”이라고 전했다.&lt;br&gt;&lt;br&gt;두 사람은 앞서 2022년 12월 결혼했으나, 1년 반 만인 지난 6월 이혼설에 휩싸였다.&lt;br&gt;&lt;br&gt;당시 KNN라디오에서 야구 중계를 하던 이광길 해설위원이 캐스터에게 “그거 알아? 황재균 이혼한 거”라고 발언한 게 그대로 방송을 타며 이혼설이 퍼졌다. 당시 지연 측은 이혼설을 부인했다. 처음 발언한 이 해설위원도 오해였다고 해명했으나 논란은 지속됐다. 지난달 황재균이 오전 6시까지 지인들과 술자리를 가진 모습이 포착되며 또 이혼설이 확산했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/BLMBTGNCWVVMEIF3NNEV5GMXJE.jpg?width=720&amp;height=545&amp;auth=1ceb335d699a6eb042657de8a09684ba524562491fd10250bf9ccd3fbc3ed367&amp;smart=true" type="image/jpeg" height="545" width="720">
+        <media:description type="plain">지연 황재균</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>필리핀 가사관리사 ‘통금’ 없어진다...월 2번 임금 지불 방안 시행</title>
       <link>https://www.chosun.com/national/national_general/2024/10/05/SJXCAAMABBAXZEQHJBJISGBXEQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/05/SJXCAAMABBAXZEQHJBJISGBXEQ/</guid>
@@ -903,15 +924,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 은평구의 한 오피스텔에서 20대 여성 인터넷 방송 진행자(BJ)를 목 졸라 살해한 40대 남성에게 중형이 선고됐다.&lt;br&gt;&lt;br&gt;4일 서울서부지법 형사11부(재판장 배성중)는 살인 등 혐의로 재판에 넘겨진 김모씨(44)에게 징역 25년과 15년간 위치 추적 장치 부착 명령을 선고했다. 김씨의 도피를 도운 혐의(범인도피)로 함께 재판에 넘겨진 전 아내 송모씨에게는 징역 6개월에 집행유예 1년이 선고됐다. 앞서 검찰은 김씨에게 징역 30년과 전자발찌 부착 명령 15년을 구형했다.&lt;br&gt;&lt;br&gt;김씨는 지난 3월 11일 오전 3시 30분쯤 은평구의 한 오피스텔에서 인터넷 개인방송 진행자인 20대 여성 A씨의 목을 졸라 살해하고 현금 등을 훔친 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;이날 선고를 앞둔 김씨는 피해자와 성관계를 가졌다고 주장하며 항변했다. 이에 재판부는 “(피해자에게서) 피고인의 DNA가 검출되지 않았다”면서 피고의 주장과 배치된다고 의문을 제기했다. 그러면서 “피해자의 재물을 빼앗으려 했거나 (피해자에게) 선물한 돈을 돌려받으려는 과정에서 다툼이 발생해 확정적 고의로 목을 졸라 살해한 게 아닌가 하는 의문이 있다”고 지적했다.&lt;br&gt;&lt;br&gt;다만 재판부는 불고불리(不告不理·검사가 기소하지 않은 부분은 법원이 판단하지 않는다)의 원칙에 따라 유무죄를 판단했다고 밝혔다. 고의로 살인을 저질렀다고 의심되지만, 이 부분은 기소된 사실에 포함되지 않아 더 따지지 않겠다는 뜻이다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 피해자의 목을 졸라 살해했고 피해자는 극심한 고통 속에 생을 마감했으며, 유족과 지인들은 형용할 수 없는 고통을 겪고 있다”며 “확정적인 고의로 살해했다고 단정할 수 없는 사정을 고려하더라도 엄중한 처벌이 불가피하다”고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;이어 “피고인은 피해자가 강압적 성관계 도중 세이프워드(그만하라는 의사표시)를 외치지 않아 목을 조르는 행위를 멈추지 않았다거나 과거 살인전과 때문에 119신고를 못했다는 식으로 주장하며 책임 회피에 급급하고 있다”고 했다. &lt;br&gt;&lt;br&gt;재판부는 “자신의 행동을 반성하고 유족에게 죄책감을 느낀다는 정황을 도저히 찾아볼 수 없다”며 “과거 유사한 수법의 살인 전과가 있고 그 외에 폭력 전과도 두 차례 있는데도 자중하지 않고 이 사건 범행으로 피해자의 생명을 빼앗았다”고 했다.&lt;br&gt;&lt;br&gt;앞서 경찰은 범행 사흘 뒤인 지난 3월 14일, A씨가 사망했다는 신고를 접수해 이튿날인 3월 15일 서울 구로구의 한 만화방에서 김씨를 긴급체포했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, 대통령실 진입하려 한 대진연 회원 4명 체포</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/04/HNVZPTURBFBVZJRFCV27H3BRHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/04/HNVZPTURBFBVZJRFCV27H3BRHA/</guid>
-      <dc:creator>김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Oct 2024 04:26:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4X4GIM4OZLEZLZZWUWCI2HMDE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 7일, 전날 용산 대통령실 진입을 시도하다 경찰에 연행된 회원들의 석방을 촉구하는 한국대학생진보연합(대진연) 회원들이 서울 용산경찰서 앞에 모여 경찰을 규탄하는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 용산경찰서가 대학생진보연합(대진연) 회원 4명을 현행범으로 체포해 조사 중이다.&lt;br&gt;&lt;br&gt;서울 용산경찰서는 4일 오전 11시 30분쯤 대통령실 진입을 시도한 대진연 회원 4명을 공동건조물침입 혐의로 체포해 조사중이라고 밝혔다. 대진연은 소셜미디어 채널을 통해 “김건희 특검을 요구하며 대통령실에 면담을 요청하러 갔다”고 밝혔다.&lt;br&gt;&lt;br&gt;대진연 회원들은 용산서로 연행된 후에도 경찰서 안에서 “김건희를 특검하라” “거부권 남발 중단하라” “윤석열을 탄핵하라” 등 구호 외치며 휴대전화를 이용해 유튜브 라이브를 진행했다. 이들은 “대학생들이 대통령실에 면담 요청을 하러 갔는데 이렇게까지 대학생들을 연행하고 수갑까지 채워놓은 상황입니다” 등 경찰 대응 상황을 해설하거나 “윤석열을 어떻게 가만히 놔둘 수 있겠습니까” 등 연설문도 큰 소리로 읊으며 사실상 경찰서 안에서 시위를 이어갔다.&lt;br&gt;&lt;br&gt;경찰이 여성 회원을 끌자 “남경(男警)은 만지지 마세요!” 등 외치기도 했다. “촬영하지 말라” “휴대전화를 달라”는 경찰 요구에도 불응하며 라이브 방송 중인 휴대전화에 “경찰이 핸드폰을 빼앗아 가려고 합니다!” 등 소리쳤다.&lt;br&gt;&lt;br&gt;대진연은 지난 1월에도 윤 대통령 탄핵과 김 여사 특검을 주장하며 대통령실에 진입하려 하다 경찰에 체포됐다. 경찰은 “자세한 경위는 추가로 조사할 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>교육부, 40개 의대 총장 온라인 회의... “의대 휴학 확산 안 돼” </title>
       <link>https://www.chosun.com/national/education/2024/10/04/Q62WKFEQRNG3TON7IO3YQYL2LM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/04/Q62WKFEQRNG3TON7IO3YQYL2LM/</guid>
@@ -924,15 +936,6 @@
         <media:credit role="author" scheme="urn:ebu">Jun Key Byong
 The Chosunilbo</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>“냄새나서 대리비 못 줘, 차에 다 베었네” 분노 부른  벤츠남 갑질</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/04/R36ON3QOVVHVJEVP3ZMFII7C2M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/04/R36ON3QOVVHVJEVP3ZMFII7C2M/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Oct 2024 02:10:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UEKTXBOS4RDMJCY6BOVER56OZY.gif"&gt;&lt;figcaption&gt;&lt;small&gt;흰색 옷을 입은 대리기사가 자신의 옷 냄새를 맡고 있다. /보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대리운전 기사의 몸에서 냄새가 난다는 이유로 목적지에 도착했지만 비용을 지불하지 않은 남성의 행동이 온라인에서 공분을 일으키고 있다.&lt;br&gt;&lt;br&gt;3일 온라인 커뮤니티 보배드림에는 ‘벤츠남 대리 불러놓고 대리기사 냄새난다고 돈 안 줌’이라는 제목의 게시물이 올라왔다.&lt;br&gt;&lt;br&gt;작성자 A씨는 “어젯밤에 아파트 지하 주차장에서 있었던 일”이라며 “대리기사에게서 냄새난다고 대리비를 못 준다고 한다”고 상황을 설명했다. 이어 “냄새난다고 하니까 대리기사가 자기 옷 냄새를 맡는 장면이 너무 짠하다”고 했다.&lt;br&gt;&lt;br&gt;A씨가 올린 5분 분량의 영상을 보면, 차주로 보이는 남성은 경상도 사투리를 쓰며 “냄새나서 대리비를 줄 수 없다”며 “그럼 당신이 잘하든지”라고 큰소리를 냈다. 이어 대리운전 회사에 전화해 “요즘은 노숙자 비슷한 사람들도 대리기사 하느냐”며 따지기 시작했다. 그는 “차에 XX 냄새 다 배었다”며 욕설했고, “죄송한 게 아니라, 기본은 지켜야 할 거 아닙니까. 안 그래요?”라고 따져 묻기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WANKAPGHNND2LPD2QHTZXQ3KLE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;흰색 옷을 입은 대리기사 차주로 보이는 남성에게 고개를 숙이고 있다. /보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대리기사는 자기 옷 냄새를 계속해서 맡은 뒤 “죄송하다”며 거듭 사과했다. 고개를 숙여 사과하는 모습도 포착됐다. 그러자 차주는 “냄새나는 거 인정하느냐”며 대리기사를 향해 삿대질하면서 말을 이어갔다. 그의 항의는 영상 분량 5분이 다 지나도록 끝나지 않았다.&lt;br&gt;&lt;br&gt;A씨는 “회사에 (항의) 전화하면 배차가 안 되는지 대리기사님이 계속 사과하는 모습을 보는 게 너무 마음이 아프다”고 했다. 이어 “결국 냄새나는 거 인정하게 해서 차주는 돈도 안 주고, 지켜보던 분이 계좌로 대리기사분 대리비를 챙겨줬다”고 전했다. 그러면서 “저 차주가 꼭 대리기사분에게 대리비와 제대로 된 사과를 했으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;이 글은 4일 오전 11시 기준 10만회 넘게 조회됐다. 네티즌들은 “대리기사님도 누군가의 아빠이고 한 가정의 가장일 텐데 인신공격도 모자라서 대리비까지 안 줬다는 건 인성 쓰레기다” “냄새가 심했으면 출발하기 전에 기사를 바꿔 달라고 하던가, 집에 와서 저러는 건 일부러 돈 안 주려고 하는 것 같다” “대리기사님 맘 많이 상하셨을 것 같다. 힘내시라” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘여고생 살인’ 박대성, 여학생 노렸나 묻자 “조금씩 기억난다”</title>
