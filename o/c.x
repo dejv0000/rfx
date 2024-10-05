@@ -13,6 +13,30 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>의대교수들 “정부 의대생 휴학 승인거부는 반헌법적”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/10/05/PIOQZCTDAZHJVADIKKECKAQHSY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/05/PIOQZCTDAZHJVADIKKECKAQHSY/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 05 Oct 2024 04:52:44 +0000</pubDate>
+      <content:encoded>의대교수 단체들이 의대생 휴학 승인을 해선 안 된다는 정부의 방침에 대해 “반헌법적”이라고 비판하고 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MA5QKIUUCVNNPJNGSML5DXPQTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국의과대학교수협의회(전의교협)와 전국의과대학교수비상대책위원회(전의비) 등 의대 교수단체들은 5일 공동 성명을 내고 이렇게 밝혔다.&lt;br&gt;&lt;br&gt;이들 단체는 “대통령실과 교육부의 휴학 승인 거부 지시는 자유민주주의의 소중한 가치를 훼손하는 반헌법적 행정지도”라며 “대학 총장들은 의대생의 휴학 신청을 즉시 승인해야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “휴학은 개인 사정이나 기타 부득이한 사유 등 개인 자유의사에 따라 신청할 수 있고, 다수가 신청했다고 해서 휴학을 허락할 수 없다는 규정은 없다”고 지적했다. 이들은 “휴학을 승인하지 않으면 유급 또는 제적으로 인해 학생들이 피해를 볼 수 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이들 단체는 “학생들이 수업을 듣기 시작한다 해도 남은 일정상 정상적인 교육이 불가능한 상황임을 이제 인정해야 한다”며 “부실한 의학 교육으로 부실한 의사들을 배출하면 그 피해는 고스란히 국민에게 이어지게 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;한편 의대 증원에 반발하는 의대생들이 7개월 넘게 수업을 거부하며 학교로 돌아오지 않는 가운데, 서울대 의대는 지난달 30일 전국 최초로 의대생들의 집단 휴학을 승인했다. “동맹 휴학은 승인할 수 없다”는 정부의 방침과 충돌하는 결정을 내린 것이다.&lt;br&gt;&lt;br&gt;이후 다른 학교 의대로 휴학이 확산할 조짐을 보이자, 교육부는 전국 40개 의대 총장과 온라인으로 ‘전국 의대 총장 협의회’를 열었다. 교육부는 “동맹휴학은 정당한 휴학 사유가 아니며, 휴학을 승인하지 말아달라”고 대학들에 협조를 요청했다. 교육부는 집단 휴학을 승인한 서울대 의대엔 지난 2일 감사단을 파견해 감사에 나섰다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강원 고성 한우농장서 럼피스킨 발생… 올해 8번째</title>
+      <link>https://www.chosun.com/national/regional/gangwon/2024/10/05/EWY6TZADGZAFXEZA3SFVY35WZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2024/10/05/EWY6TZADGZAFXEZA3SFVY35WZY/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 05 Oct 2024 04:36:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EZIKZPUB4VPGDNX3T2FFQLDYZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방역당국이 소독약을 뿌리며 럼피스킨 확산을 막기 위한 방역작업을 벌이고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;농림축산식품부는 지난 4일 강원 고성군의 한우농장에서 럼피스킨이 발생했다고 5일 밝혔다. 지난 3일 경기 평택시와 강원 양양군에서 럼피스킨이 확인된 지 하루 만이다.&lt;br&gt;&lt;br&gt;올해 축산농가에서 확인된 럼피스킨은 8건으로 늘었고, 강원지역은 지난해부터 2년간 10건이 발생했다.&lt;br&gt;&lt;br&gt;방역당국은 럼피스킨 확산 방지를 위해 발생 농장에 초동방역팀과 역학조사반을 파견해 농장 출입을 제한하고 역학 조사를 벌이고 있다.&lt;br&gt;&lt;br&gt;이 농장에서 기르는 소 81마리 중 럼피스킨에 감염된 소에 대해서는 긴급행동지침(SOP)에 따라 살처분할 방침이다.&lt;br&gt;&lt;br&gt;이와 함께 방역당국은 고성군 인접 3개 시군(속초·인제·양구)의 축산시설 종사자와 차량에 대해서 이날 자정까지 일시 이동중지 명령을 내렸다.&lt;br&gt;&lt;br&gt;고성군과 인접한 속초시 소 사육농가에 대해서는 긴급 백신접종도 실시할 예정이다.&lt;br&gt;&lt;br&gt;강원도 관계자는 “9월 11일 양구, 10월 3일 양양에 이어 전날 고성에서 추가 발생하는 등 럼피스킨 확산이 우려되는 엄중한 상황”이라며 “소 사육 농장에 대한 럼피스킨 백신접종, 소독 등 방역에 만전을 기하고, 추가적인 확산을 막기 위해 총력을 기울이겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EZIKZPUB4VPGDNX3T2FFQLDYZY.jpg?width=3528&amp;height=2440&amp;auth=9a9e3efd107db92c7b4fc5830a2ca29e2ad9937a00b4b96c46d46f31a110bfd8&amp;smart=true" type="image/jpeg" height="2440" width="3528">
+        <media:description type="plain">[여주=뉴시스] 김종택 기자 = 소 바이러스성 질병인 럼피스킨병이 발생한 경기도 여주시 한 한우농장 일대에서 19일 방역 차량이 방역작업을 하고 있다. 
+
+정부는 최근 두 달 새 가축전염병인 럼피스킨이 네 차례 발생하자 검사와 소독 등 방역 관리를 강화하기로 했다. 2024.09.19. jtk@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">JTK</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>만취한 행인 몰래 지문인식…2550만원 빼돌린 30대 징역 5년</title>
       <link>https://www.chosun.com/national/court_law/2024/10/05/Q64HBJYA5NH3XANQDIFHTVJG6Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/05/Q64HBJYA5NH3XANQDIFHTVJG6Y/</guid>
@@ -872,15 +896,6 @@ The Chosunilbo</media:credit>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PBOHYN2A7BGTFMZYH7JDQOLTWQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;배우 한가인(왼쪽)이 자녀 라이딩 일정을 공개했다./유튜브 채널 '자유부인 한가인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 한가인이 자녀 등하교 라이딩을 하느라 바쁜 일정을 공개하자 네티즌들 사이에서는 엇갈린 반응이 나왔다.&lt;br&gt;&lt;br&gt;한가인은 지난 3일 유튜브 채널 ‘자유부인 한가인’에 자녀 등하교 라이딩하는 모습을 담은 영상을 올렸다.&lt;br&gt;&lt;br&gt;영상에서 한가인은 새벽 6시에 기상해 아이들 아침 식사를 챙겼다. 이후 7시 30분 국제학교에 다니는 첫째 딸의 등교를 위해 집을 나섰다. 한가인은 신당동 집에서 출발해 역삼동에 있는 학교까지 딸을 내려주고 돌아왔다.&lt;br&gt;&lt;br&gt;앞서 딸이 상위 1% 영재 판정을 받았다고 고백했던 한가인에게 제작진은 “영재원이냐”고 물었다. 한가인은 “비인가 국제학교”라고 설명했다. 이어 “딸을 보면 아시겠지만 참여하고 발표하고 말하는 걸 너무 좋아한다. 혹시 일반 학교에 갔을 때 선생님들이 수업하실 때 방해될 요소가 있을 것 같았다. 고민하다 국제학교에 입학시킨 것”이라고 했다.&lt;br&gt;&lt;br&gt;오전 9시에는 둘째 아들을 유치원에 데려다줬다. 한가인은 “남편이 촬영이 있어서. 원래는 남편이 데려다준다”고 말했다. 이후 오전 11시쯤 한가인은 엄마들과 브런치 모임을 위해 강남으로 출발했다. 그는 “또 강을 건넌다. (다른 엄마들이) 강남 쪽에 모여 있다. 이쯤 되면 이사 가야 하나 했는데 저랑 남편은 강북 체질”이라고 했다.&lt;br&gt;&lt;br&gt;브런치 후 한가인은 둘째 하교 픽업을 위해 나섰다. 둘째와 서점에 들른 후 첫째 아이를 데리러 갔고, 바로 수학학원에 데려다줬다. 저녁 식사는 차에서 배달받아 딸과 함께 먹었다. 오후 7시쯤 혼자만의 시간을 보낸 뒤 오후 9시쯤 다시 학원 수업을 마친 딸을 데리고 집으로 돌아갔다.&lt;br&gt;&lt;br&gt;이를 두고 네티즌들 사이에서는 엇갈린 반응이 나왔다. 네티즌들은 “애들 라이딩 하다 보면 하루가 다 간다” “대한민국 엄마들의 일상” “한가인만 이런 것도 아니다” 등 한가인의 일상이 평범하다는 반응을 보였다.&lt;br&gt;&lt;br&gt;반면 일각에서는 “대한민국 0.1% 여유로운 가정의 애 키우는 엄마의 삶” “남편 전문직인 전업주부나 가능한 일정” “맞벌이 엄마들의 숨 가쁜 일상과는 너무 거리가 먼 얘기” 등 부유층의 삶이기에 가능한 일상이라는 의견을 내놨다.&lt;br&gt;&lt;br&gt;한편, 1982년생 한가인은 만 23세였던 2005년 네 살 연상의 연정훈과 결혼했다. 두 사람은 2016년 딸을, 2019년엔 아들을 품에 안았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>훔친 마을버스 몰고 파주 통일대교 진입...월북 시도한 30대 탈북민 구속</title>
-      <link>https://www.chosun.com/national/regional/2024/10/04/XLJSYC2TJVA4NHR3BLQEEMHORA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/04/XLJSYC2TJVA4NHR3BLQEEMHORA/</guid>
-      <dc:creator>의정부=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Oct 2024 02:36:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T73VYPAX5L2NS7VMAZHV6OK3QQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 파주시 통일대교. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한으로 가기 위해 버스를 훔쳐 타고 파주 통일대교를 건너려던 30대 탈북민이 구속됐다.&lt;br&gt;&lt;br&gt;경기북부경찰청 안보수사2대는 국가보안법·군사기지보호법 위반, 차량 절도, 무면허 운전 등 혐의로 30대 남성 A씨를 구속했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 1일 오전 1시쯤 파주시 문산읍의 한 차고지에서 마을버스를 훔쳐 통일대교로 진입해 월북하려 한 혐의를 받는다. 당시 버스 문이 열려 있었고, 운전석에 열쇠가 놓여 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 차고지에서 약 4.5km를 달려 통일대교 남단으로 진입한 뒤 구조물을 피해 북쪽으로 약 800m를 달리다 북문 검문소 앞 바리케이드를 들이받고 멈춘 것으로 조사됐다.&lt;br&gt;&lt;br&gt;2011년 홀로 탈북한 A씨는 일정한 직업 없이 건설 현장 일용직 등으로 일하며 생계를 유지한 것으로 알려졌다. 지난 2년동안은 기초생활수급자로 생활했고, 최근 수개월간 고시원 월세도 내지 못했던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 조사에서 A씨는 북한에 두고 온 가족들을 보고 싶었다고 진술했다. 당시 음주나 마약 상태는 아니었던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>한컴 김상철 회장 검찰 송치... 코인으로 비자금 조성 혐의</title>
       <link>https://www.chosun.com/national/regional/2024/10/04/JJSOHDGHPVB2ZLBIBX2N4V6ZAA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/04/JJSOHDGHPVB2ZLBIBX2N4V6ZAA/</guid>
@@ -927,15 +942,6 @@ The Chosunilbo</media:credit>
       <description/>
       <pubDate>Fri, 04 Oct 2024 01:49:57 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PRYZFBADFZJ5VFYS2TTBXBVEUE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;완연한 가을 날씨를 보인 4일 오전 서울 종로구 광화문사거리에서 출근길 시민들이 발걸음을 재촉하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 주말 낮과 밤이 다른 계절인듯 일교차가 크게 벌어지겠다고 기상청이 4일 밝혔다. 충청권과 남부지방을 중심으로 한낮 수은주가 25도 내외로 치솟으며 특히 기온차가 심할 전망이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 주말인 5~6일 전국이 최저 8~20도, 최고 20~27도의 기온 분포를 보이겠다. 5일까지 내륙을 중심으로 아침 기온이 10도 이하로 떨어지며 쌀쌀하겠고, 경기북동부와 강원도에선 5도 아래로 떨어지며 서리가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;일요일인 6일에는 곳곳에 비 소식이 있다. 오전부터 전남권과 제주도에, 낮부터 그 밖에 남부지방에 가끔 비가 내리다가 저녁에 대부분 그치겠다. 예상 강수량은 경기남부·강원도·충청권 1㎜ 내외, 전라·경상권 5~20㎜, 제주도 5~40㎜ 등이다.&lt;br&gt;&lt;br&gt;다음주에도 비가 예고됐다. 7일 남해동부해상에서 동해상으로 이동하는 저기압의 영향으로 전국이 대체로 흐린 가운데 남부지방과 제주도에 비가 내리겠다. 강원영동에는 동풍의 영향으로 7~8일 이틀간 비가 예상된다.&lt;br&gt;&lt;br&gt;수요일인 9일부터는 비구름이 걷히며 주말까지 대체로 맑은 날씨를 보이겠다. 다만 일교차는 여전히 10~15도가량 크게 벌어질 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>버스서 팔 닿자...3살 아이 쌍코피 ‘퍽’, 할머니 팔도 물어뜯었다</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/04/RL4HOZ2HUVB2RLS4SMXFVBXRRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/04/RL4HOZ2HUVB2RLS4SMXFVBXRRQ/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Oct 2024 00:54:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4KDITFADXFF6ZGVHNWKLPQQQE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산의 한 시내버스에서 20대 여성에게 팔을 물린 60대 여성 팔에 난 상처./온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 시내버스에서 20대 여성 승객이 팔이 닿았다는 이유로 3세 아이와 60대 여성을 무차별 폭행하는 사건이 발생했다.&lt;br&gt;&lt;br&gt;4일 부산진경찰서에 따르면 지난 2일 부산의 한 시내버스에서 20대 여성이 3세 아이와 60대 여성을 폭행했다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;이와 관련 한 온라인 커뮤니티에는 ‘부산 버스 아동, 노인 폭행 사건’이라는 제목의 글이 올라왔다. 사건 피해자들의 어머니이자 며느리인 A씨가 올린 글이다.&lt;br&gt;&lt;br&gt;A씨는 맞벌이 가정의 두 아이를 둔 엄마로, 사건은 지난 1일 둘째아이를 본인 집으로 데려가 봐줬던 A씨 시어머니가 다음날인 2일 오전 8시20분쯤 둘째아이와 함께 버스를 타고 A씨 집으로 가던 중 발생했다. 당시 두명이 앉는 자리에 시어머니는 아이를 안고 앉았고, 옆자리엔 20대 여성 승객 B씨가 앉았다.&lt;br&gt;&lt;br&gt;A씨는 “시어머니가 아이의 다리를 잘 감싼 채 다시 한번 들어 올리던 중 팔 부분이 여성에게 닿았다. 순간 방어할 시간도 없이 여성분이 아이의 얼굴을 주먹으로 가격했다”며 “한 번에 그치지 않고 손바닥으로 여러 차례 공격이 가해졌다”고 주장했다.&lt;br&gt;&lt;br&gt;그러면서 “아이의 양쪽 코에서 코피가 났다. 반사적으로 시어머니가 두 팔로 아이의 얼굴을 막았으나 여성은 막고 있던 팔을 한 손으로 잡아끌고 이로 물었다”며 “버스는 멈췄고 감사하게도 주변 승객분들이 같이 막아주고 신고해 주셨다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XXVFUX24NFFIPACD2GJO72XFRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산의 한 시내버스에서 20대 승객에게 폭행당한 3세 아이의 상해진단서./온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 “젊은 여성이 2020년생 만 3세인 아이와 1957년생 할머니를 폭행하다니. 손이 떨릴 정도로 화가 나고 그 공포감에 있었을 두 사람에게 정말 미안하다”며 “어머님은 한 여성 승객이 적극적으로 막고 끝까지 도와주시지 않았다면 더 큰 사고가 났을 거라며 울며 감사해 하셨다”고 했다.&lt;br&gt;&lt;br&gt;가해자인 B씨는 사과는커녕 반성 없는 태도를 보인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 “본인이 느끼기에 아이가 산만했으며 본인은 분노조절장애가 있다고 주장한다. 단 한마디의 사과도 없다. 이해할 수 없지만 그렇다 하더라도 아이와 노인을 그렇게 폭행하는 게 정당한 이유인지, 그걸로 본인의 죄를 벗어날 생각부터 하는 게 너무 화난다”며 “그냥 넘어갈 생각이 없으며 응당한 벌을 받게 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;경찰은 감시카메라(CCTV)와 목격자 진술 등을 토대로 정확한 사건 경위를 조사중이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“모두 목에 문신이”... 박대성 머그샷에 소환된 흉악범들, 왜? </title>
