@@ -13,6 +13,54 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>정부 ‘의대 6년→5년’ 검토... 의료계 “실소만 나와”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/10/06/TTJMWZO6TBEJZOAEMRLSP6RTDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/06/TTJMWZO6TBEJZOAEMRLSP6RTDM/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Oct 2024 12:14:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2FJSJJQXBER3HSSEGXFXDUQBU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 서울 종로구 서울대 의과대학의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부는 6일 의대생 집단 휴학계 제출에 따른 신규 의사 배출 공백을 막기 위해 의대 교육 과정을 현행 6년에서 5년으로 줄이는 방안도 검토한다고 밝혔다.&lt;br&gt;&lt;br&gt;이날 교육부가 발표한 ‘의과대학 학사 정상화를 위한 비상 대책’에는 이런 내용의 교육 과정 단축·탄력 운영 방향이 담겼다. 오석환 교육부 차관은 브리핑에서 “내년에 학생들이 복귀해서 정상적으로 운영해 가는 과정에서 인력 양성의 공백을 줄이기 위한 방법”이라며 “내년뿐만 아니라 제도화를 통해 학사 운영 기간을 단축하는 방안을 마련해나갈 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;의대생이 두 학기째 수업을 거부하는 상황에서 예과 2년, 본과 4년 등 현행 6년의 의대 학사 일정을 그대로 유지하면 앞으로 신규 의사 배출에 공백이 생길 수밖에 없다는 것이다. 매년 의대 졸업생 등 3000여 명이 신규 의사로 나와야 하는데, 올해 본과 4학년 학생 대부분은 집단으로 휴학계를 제출하면서 졸업 요건을 갖추지 못하고 있다.&lt;br&gt;&lt;br&gt;정부는 의대 학사 일정을 어떻게 5년으로 줄일지에 대한 구체적인 계획도 발표하지 않았다. 교육부 관계자는 “각 대학이 알아서 상황에 맞게 정하면 되도록 정부가 길을 터줄 수 있다”면서도 “일률적으로 바꾸는 것이 아니라 학교별·학년별 교육 과정을 다르게 손보겠다는 것”이라고 했다. 예컨대 올해 수업을 건너뛴 본과 4학년들은 수업 일수를 채우려면 2026년 초에야 졸업할 수 있지만, 4학년 학사 일정을 기존 2학기에서 1학기로 줄일 경우, 이들이 내년 7~8월쯤 졸업할 수도 있다는 것이 교육부 설명이다.&lt;br&gt;&lt;br&gt;정부는 지난 4일까지만 해도 의대생들을 어떻게든 진급시켜야 한다는 입장을 고수했다. 의대생들은 연간 30주 이상 수업을 들어야 하는데, 이들이 11월 초에라도 복귀하면 내년 2월까지 남은 16주 동안 오전·오후로 수업을 진행해 30주를 채울 수 있다는 입장이었다. 하지만 정부는 단 이틀 만에 ‘조건부 휴학 승인’으로 입장을 바꾸면서 실현 가능한 방안도 제시하지 않았다. 강희경 서울의대·서울대병원 교수 비대위원장은 “실소를 금할 수 없다. 지금도 가르칠 게 너무 많아서 본과에서 가르치던 것을 예과로 내린 경우도 있는데 교육 기간을 줄인다는 건 말도 안 된다”며 “정부는 어떻게든 의사 배출을 하겠다는 건데 그 기간 동안 돌팔이 의사가 나온다면 어디다 쓰겠다는 건가”라고 했다. 김현아 전국의과대학교수협의회 부회장도 “의사가 1년 동안 나오지 않는 공백을 도저히 감내할 수 없으니까 이런 말도 안 되는 편법을 내놓았다”고 비판했다.&lt;br&gt;&lt;br&gt;한편 정부는 의사 국가시험과 전공의 선발 일정도 조정할 방침이다. 현재 본과 4년생은 9~11월에 실기 시험을 보고, 이듬해 졸업을 앞두고 1월쯤 필기 시험을 치른다. 이후 3월 전공의 수련을 시작한다. 상반기에 충원되지 않은 전공의는 하반기(9월)에 뽑기도 한다. 교육부 관계자는 “매년 학년별 의대 학사 일정이 달라질 때마다 이에 맞춰 국가시험과 전공의 선발 일정도 유연화하겠다”고 밝혔다. 앞으로는 의사 국가시험과 전공의 선발을 정해진 달에만 하는 것이 아니라 의대생 교육 일정에 따라 조정할 수 있다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JZ333JW2UNNQVAKFWL4AVBLKGY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이주호 사회부총리 겸 교육부 장관이 6일 오후 서울 종로구 세종대로 정부서울청사에서 의과대학 학사 정상화를 위한 비상 대책(안) 발표를  마치고 질문에 답변하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“구영배, 작년 10월부터 ‘티메프’ 정산 불능 알았다”…檢, 구속영장에 적시</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/06/2KOVZTOWBNCAXETOR4T5GDMINA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/06/2KOVZTOWBNCAXETOR4T5GDMINA/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Oct 2024 12:10:12 +0000</pubDate>
+      <content:encoded>티몬‧위메프(티메프)의 ‘대규모 미정산 사태’를 수사하는 검찰이 구영배 큐텐 대표 등 주요 경영진이 작년 10월 이미 정산이 불가능하다는 상황을 알고 있었던 정황을 이들의 구속영장에 적시한 것으로 전해졌다. 미정산 사태는 지난 7월 불거졌는데, 이보다 9달가량 앞서 주요 경영진들은 정산이 안된다는 것을 알았다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U4HPFHU4O5DKPLL5WADOIFG6MQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2024년 7월 30일 티메프사태와 관련 국회 정무위 전체회의에 구영배(왼쪽부터) 큐텐 대표, 류광진 티몬 대표, 류화현 위메프 대표가 출석해 있다. /이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 본지 취재를 종합하면, 서울중앙지검 전담수사팀(팀장 이준동 반부패1부장)은 구 대표, 류광진 티몬 대표, 류화현 위메프 대표에 대한 구속영장을 지난 4일 청구하면서 이 같은 정황을 담은 것으로 알려졌다. 세 사람은 ‘티메프’ 사태와 관련해 1조5950억원 상당의 정산 대금을 편취한 혐의를 받는다. 또 계열사에 일감을 몰아주면서 티몬과 위메프 법인에 692억원의 손해를 끼친 혐의, 미국 전자상거래 회사 ‘위시’ 인수대금 명목 등으로 티몬·위메프 자금 671억원을 횡령한 혐의도 있다.&lt;br&gt;&lt;br&gt;검찰은 이시준 큐텐 재무본부장이 작년 10월 티몬‧위메프가 판매한 상품권의 대금 정산이 지연되는 것을 인식하고, 주변에 “티메프의 생사가 왔다 갔다 한다”는 취지로 말한 정황을 확보해 구속영장에 적시한 것으로 전해졌다. 또 류화현 위메프 대표 등 다른 주요 경영진들도 올해 초부터는 판매자들에게 정산 대금을 지급하는 것이 불가능하다는 것을 인식하고 있었다는 정황도 확보했다고 한다. 이를 구 대표도 보고 받아 알고 있었던 것으로 검찰은 의심하고 있다.&lt;br&gt;&lt;br&gt;검찰은 주요 경영진을 조사하면서 구 대표가 티몬을 인수한 직후인 2022년 9월 “티몬은 날아갈 수 있으니 큐텐으로 뽑아갈 것 뽑자”는 취지로 경영진들에게 말했다는 사실도 파악해 구속영장에 적시한 것으로 알려졌다. 같은 해 12월 류광진 대표가 “길어야 6개월이 시한부인데 걱정이다. 이제 상품권도 거의 최대치다”라고 말한 사실도 포함했다고 한다. 주요 경영진이 2년여 전부터 이미 미정산 위기가 올 수 있다는 위험성을 인식하고 있었다는 것이 검찰의 시각이다.&lt;br&gt;&lt;br&gt;검찰은 구 대표가 이러한 위험 상황을 알고도 티메프에 이른바 ‘역마진 상품’을 판매하도록 지시해 물류 배송을 담당한 큐익스프레스의 실적을 올리도록 한 것으로 보고 있다고 한다. 또 티메프가 경영자문‧재무 업무 대행 등 명목으로 큐텐과 큐익스프레스에 용역비를 지급하는 등 일감을 몰아줘 티메프에 수백억원대 손해를 끼쳤다고 보고 있다. 검찰은 구 대표가 큐익스프레스를 미국 나스닥에 상장하기 위해 이 같은 일을 벌였다고 보는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4RHY7ZG4FJFPNFW2FCTW6P6GQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;티몬·위메프의 정산 지연 사태가 이어진 지난 7월 25일 오후 피해자들이 서울 강남구 티몬 신사옥 내부로 진입해 사무실을 점거하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 큐텐그룹과 티메프 경영진이 2022년 말 기준 5000억원에 달하는 미정산 금액을 460억여원으로 대폭 축소해 금융감독원에 허위 보고한 사실도 구속영장에 담았다고 한다. 티메프 측은 신규 투자 유치를 골자로 한 경영개선 계획서도 금감원에 제출했으나, 검찰은 이 역시 허위로 판단하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난달 19일과 20일 류광진·류화현 대표를 소환 조사한 데 이어, 지난달 30일과 지난 2일에는 구 대표도 소환 조사했다. 검찰은 “사안의 중대성, 증거인멸 가능성, 도주 우려 등을 종합적으로 고려해 구속영장을 청구했다”고 했다.&lt;br&gt;&lt;br&gt;티메프 사태는 지난 7월 위메프가 입점 업체들에 정산 대금을 지급하지 않으면서 불거졌다. 티메프는 현재 서울회생법원에서 회생 절차를 밟고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“소주 4병 마셨다” 박대성의 거짓말… 압색 해보니 2병만 비웠다</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/06/3CSFZVT5QJFFHBQHJENVX4X7FU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/06/3CSFZVT5QJFFHBQHJENVX4X7FU/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Oct 2024 13:16:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S6AE4MEMQBFXJPGK3FSPSRGFUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남경찰청은 지난 9월 30일 신상정보공개심의위원회을 열고 전남 순천 도심 길거리에서 10대 소녀를 흉기로 찔러 숨지게 한 혐의로 구속된 박대성씨의 신상정보를 공개했다. /전남경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 순천에서 일면식도 없는 10대 소녀를 이유 없이 흉기로 살해한 박대성(30)이 범행 전 소주 4병을 마셨다는 진술은 거짓으로 확인됐다.&lt;br&gt;&lt;br&gt;6일 순천경찰서에 따르면 경찰은 지난달 28일 전남 순천시 조례동 박대성의 가게를 압수수색한 결과, 소주 2병만 비워진 것으로 확인됐다. 압수수색 당시 가게의 식탁에는 안주와 소주병 4개가 올려져 있었는데, 이 중 술이 모두 비워진 것은 2병뿐이었다. 나머지 2병 중 1병은 마개가 따져 있었지만 술은 그대로였고, 나머지 1병은 마개도 따지 않은 상태였다.&lt;br&gt;&lt;br&gt;경찰은 지난 4일 10대 여성을 흉기로 살해한 혐의로 박 씨를 검찰에 구속 송치했다. 박 씨는 지난달 26일 0시 44분쯤 순천시 조례동의 한 거리에서 A(18) 양을 흉기로 여러 차례 찔러 살해한 혐의를 받는다. A양은 이날 아버지의 약을 대신 사러 나갔다가 변을 당한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 박 씨는 범행 전날인 지난달 25일 오후 9시쯤 자신의 가게에서 혼자 술을 마셨다. 범행 20분 전엔 박 씨의 형이 동생이 자살할지도 모른다고 신고해 출동한 경찰과 5분간 면담을 진행했다. 이후 가게에서 흉기를 챙겨 나와 길을 가고 있는 A양을 800m 따라가 살해했다. 박 씨는 같은 날 오전 2시쯤 행인과 다툼을 벌이다 경찰에 긴급체포됐다.&lt;br&gt;&lt;br&gt;박 씨는 경찰 조사에서 “가게에서 혼자 소주 4병을 마시고 만취 상태여서 기억이 나지 않는다”며 구체적인 범행 동기를 진술하지 않았다. 경찰 관계자는 한 언론에 “소주를 4병 마셨다고 진술해 이를 확인하기 위해 가게에 갔다”며 “진술한 것처럼 범행 당시 만취 상태였는지 의구심이 든다”고 했다. 경찰은 박 씨와 피해자가 모르는 사이로 원한이나 금전적 관계도 없었던 것으로 확인했다.&lt;br&gt;&lt;br&gt;전남경찰청은 지난달 30일 신상정보공개심의위원회를 열고 범행의 잔인성과 피해의 중대성이 인정된다며 박대성의 신상정보를 공개했다. 경찰은 박 씨의 사건 당일 이동 동선과 진술 내용을 토대로 구체적인 범행 동기와 정신병력 유무, 계획적 범행 여부 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>문다혜 만취운전 장면 보니... 우회전 차로서 좌회전, 행인도 칠뻔</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/06/46ZKPYQHL5CCXHSB6JE5LH7FVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/06/46ZKPYQHL5CCXHSB6JE5LH7FVY/</guid>
+      <dc:creator>강우석 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Oct 2024 11:50:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HWFDQHS5AJHUPNLIRISSYSIPOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문재인 전 대통령의 딸 다혜씨. /X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 전 대통령의 딸 문다혜(41)씨가 서울 용산구 이태원에서 음주 운전을 해 택시 기사가 다치는 사건이 발생했다. 서울 용산경찰서는 지난 5일 문씨를 도로교통법 위반 혐의로 입건하고 조만간 소환 조사할 방침이라고 6일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 문씨는 5일 오전 2시 51분쯤 이태원동 해밀톤호텔 앞 이태원역 삼거리에서 만취 상태로 운전 중 빨간불 신호에 우회전만 가능한 차로에서 좌회전을 시도했고, 잠시 뒤 뒤따라온 택시와 부딪힌 것으로 조사됐다. 택시 기사는 목 부근에 경상을 입었다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MBQYW4TT5JH2FP6ALD3M7G5SBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 오전 2시 51분쯤 문재인 전 대통령의 딸 문다혜씨가 만취 상태로 운전한 캐스퍼 차량이 우회전 차로에서 좌회전을 시도하고 있다. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문씨는 경찰 적발 당시 혈중 알코올 농도가 면허 취소(0.08% 이상) 수준인 0.14%였던 것으로 조사됐다. 다만 음주 측정에 불응하는 등 이상 행동은 벌이지 않고 경찰에 협조한 뒤 귀가조치 됐다. 문씨가 운전하던 차량은 2021년 문 전 대통령이 임기 중 ‘광주형 일자리’ 홍보를 위해 인수한 현대차의 경형 스포츠유틸리티차량(SUV) 캐스퍼다. 문 전 대통령은 지난 4월 해당 차량을 문씨에게 준 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6W2DYZDFKVHCBOQSORLJFXTSC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 새벽 문재인 전 대통령의 딸 문다혜씨가 만취 상태로 캐스퍼 차량을 몰다가 골목길에서 행인을 칠 뻔하는 모습. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문씨는 지난 4일 오후 사고 지역에서 약 150m 떨어진 골목에 캐스퍼 차량을 주차하고 미쉐린 가이드에 선정된 고급 소고기 식당에 방문했고, 이후 주점 등 최소 3차례 자리를 옮겼다고 한다. 취한 듯 비틀거리며 갈지(之)자로 걷다가 혼자 차량에 탑승해 운전을 시작하거나, 골목에서 가다 서다를 반복하다가 행인을 거의 칠 뻔한 장면, 행인이 문씨에게 항의하는 듯한 장면, 문씨가 운전석에서 두 손으로 얼굴을 감싸 쥐는 장면 등이 인근 감시 카메라들에 포착됐다.&lt;br&gt;&lt;br&gt;국민의힘은 과거 문 전 대통령이 음주 운전을 ‘살인 행위’에 비유한 발언을 언급하며 “더불어민주당이 음주 운전을 옹호하는 것이 아니라면 이번 사건에 대한 명확한 입장 표명이 있어야 할 것”(신주호 상근 부대변인)이라고 했다. 민주당 박찬대 원내대표는 문씨 사고에 대해 “해서는 안 되는 일”이라며 “당의 입장이 (음주 운전을 해선 안 된다는 국민적 상식과) 다를 것이 있겠나”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MBQYW4TT5JH2FP6ALD3M7G5SBE.jpg?width=1510&amp;height=886&amp;auth=e13ff4c4048ef7bb55b31756f63b92fa95163b33fdb885b5872c4285447d5f17&amp;smart=true" type="image/jpeg" height="886" width="1510">
+        <media:description type="plain">지난 5일 오전 2시 51분쯤 문재인 전 대통령의 딸 문다혜씨가 만취 상태로 운전한 캐스퍼 차량이 우회전 차로에서 좌회전을 시도하고 있다. /TV조선</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“75세에 ‘죽는다’더니 아카데미상 탔다”... 윤여정이 전한 후일담</title>
+      <link>https://www.chosun.com/national/people/2024/10/06/PXCROC76GZGS5OY4SIVAVWHQLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/06/PXCROC76GZGS5OY4SIVAVWHQLM/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Oct 2024 12:37:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TOI5WGAQDFHYRAEBPHNTEDWW2A.png"&gt;&lt;figcaption&gt;&lt;small&gt;75세에 큰일이 일어난다는 점괘를 소개하는 배우 윤여정. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 윤여정이 아카데미 여우주연상 수상에 얽힌 비하인드 스토리를 공개했다. 윤여정은 과거 75세에 ‘죽는다’는 점괘를 받았는데 그해 아카데미상을 수상했다고 전했다.&lt;br&gt;&lt;br&gt;윤여정은 지난 4일 최화정이 운영하는 유튜브 채널 ‘안녕하세요 최화정이에요’에 영화감독 김초희와 함께 출연했다. 영상에서 윤여정은 자신의 가방 내부 물건을 소개하는 ‘왓츠 인 마이 백’ 콘텐츠를 즉석에서 진행했다. 이때 가방에서 나온 물건 중 하나가 점쟁이의 점괘를 적은 종이였다. 최화정은 “(윤여정) 선생님이 타로나 점을 좋아하는데 그 어디를 가도 선생님이 그 나이에 아카데미상을 받는다는 점괘는 없었다”고 운을 뗐다. 김초희 감독은 “내가 (점을) 본 데에서는 선생님이 아카데미 상 받는 해에 ‘죽는다’고 하더라”고 언급했다.&lt;br&gt;&lt;br&gt;이에 윤여정은 “내가 캐나다에서 ‘파친코’ 촬영을 하는데 얘(김초희 감독)가 그렇게 전화를 하더라”며 “내가 ‘괜찮아 아무튼 살아는 있어’라고 했다”고 떠올렸다. 그는 “나중에 와서 들어보니까 세 군데서 내 몸수가 너무 나쁘다고 하더라. 특히 어떤 청주 할배가 (나보고) 죽는다고 했다더라. 그래서 겁이 나서 (전화를 한 거다)”라고 말했다. 이어 “그 청주 할배가 ‘아카데미’를 모른 거다. 75살에 무슨 큰일이 터진다더라. 그런데 그 큰일이 뭔가 하니 늙었으니까 ‘죽는다’로 해석한 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;아카데미 시상식 당시 일화에 대해서도 소개했다. 최화정은 “아카데미 시상식 무대가 굉장히 높았다. 그런데 선생님이 계단으로 안 가고 무대에 바로 올라가신 것”이라며 “무대를 한 번에 오르는 건 (꾸준히) 운동을 안 했으면 절대 못 하는 거다. 선생님 댁에 가면 철봉이 있다”고 했다.&lt;br&gt;&lt;br&gt;영화 ‘그것만이 내 세상’에 함께 출연한 배우 이병헌과의 일화도 있었다. 그는 “이병헌이라는 배우가 끈질기더라. 편의점에서 둘이 콜라 한 잔 마시는 간단한 신을 ‘한 번만 더 가자’고 하더라. 그래서 내가 ‘너 이걸로 아카데미 탈 거냐’고 그랬다”며 “내가 아카데미상 타니 이병헌이 문자가 와서 ‘저보고 아카데미 갈 거냐고 하시더니 선생님이 타셨네요’라고 하더라”고 했다.&lt;br&gt;&lt;br&gt;윤여정은 지난 2021년 제93회 미국 아카데미 시상식에서 영화 ‘미나리’로 여우조연상을 수상했다. 윤여정의 아카데미 수상은 한국 배우 최초이자, 아시아 여성으로도 ‘사요나라’(1957)의 우메키 미요시 이후 두 번째 수상이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“정원도시박람회 예산안 조속 처리”...최민호 세종시장, 단식농성</title>
       <link>https://www.chosun.com/national/regional/2024/10/06/6VSGUMLN3BGF7AES7CDSSLOP4Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/06/6VSGUMLN3BGF7AES7CDSSLOP4Y/</guid>
@@ -908,22 +956,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘마세라티 뺑소니범’ 위드마크 적용 결과, 음주단속 기준 미달</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/04/ZS77QO7TRJCPDC5MY5QNRMJ2JM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/04/ZS77QO7TRJCPDC5MY5QNRMJ2JM/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Oct 2024 08:50:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NDKIELMI3FO5DPWKXIVFK3S2CI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오전 광주 서구 서부경찰서에서 '뺑소니 사망사고' 마세라티 운전자 김모 씨가 검찰로 송치되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 뺑소니 사고로 20대 연인을 사상케 한 ‘마세라티 뺑소니’ 운전자에 대해 혈중알코올농도를 유추하는 위드마크(Widmark) 공식을 적용한 결과 음주운전 단속기준에 미달한 것으로 나타났다.&lt;br&gt;&lt;br&gt;광주 서부경찰서는 4일 “특정범죄가중처벌법상 도주치사상 혐의로 마세라티 운전자 김모(32)씨에 대해 위드마크 공식 적용 결과 단속기준인 혈중알코올농도 0.03%에 미달했다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난달 24일 오전 3시 11분쯤 광주광역시 서구 화정동의 한 도로에서 20대 연인이 타고 있던 오토바이를 들이받은 뒤 구호조치 없이 달아난 혐의를 받고 있다. 이 사고로 오토바이 뒷좌석에 타고 있던 여성이 숨졌고 남성은 중상을 입어 병원에서 치료를 받고 있다.&lt;br&gt;&lt;br&gt;김씨는 사고 직후 달아나 지난달 26일 오후 9시50분쯤 서울 강남구의 한 도로에서 경찰에 붙잡혔다. 김씨가 검거된 시점이 사고로부터 약 67시간 뒤였기 때문에 경찰은 김씨를 붙잡고도 혈중알코올농도를 측정할 수 없었다. 다만 김씨는 음주운전 사실을 인정했다.&lt;br&gt;&lt;br&gt;사고 직전 김씨와 함께 도로를 질주하고, 김씨를 대전까지 도피시킨 벤츠 차량 운전자 A(31)씨는 위드마크 공식 적용 결과 단속기준(0.03%)을 상회해 음주운전 혐의가 적용될 예정이다.&lt;br&gt;&lt;br&gt;경찰은 A씨와 김씨의 지인에게 연락을 취하며 도피를 도왔던 마세라티 차량 동승자 B(30)씨에 대한 사전구속영장을 신청했지만, 법원에서 기각됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/NDKIELMI3FO5DPWKXIVFK3S2CI.jpg?width=4000&amp;height=6000&amp;auth=2f0a2a330d64e1c311e633e01a71198cbb1022403b6e3aa954cf771ed1525fde&amp;smart=true" type="image/jpeg" height="6000" width="4000">
-        <media:description type="plain">&lt;YONHAP PHOTO-3483&gt; 검찰로 이송되는 '뺑소니' 마세라티 운전자
-    (광주=연합뉴스) 김혜인 기자 = 4일 오전 광주 서구 서부경찰서에서 '뺑소니 사망사고' 마세라티 운전자 김모(33) 씨가 검찰로 송치되고 있다. 2024.10.4
-    in@yna.co.kr/2024-10-04 08:34:09/
-&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">김혜인</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>건보공단, 동성 사실혼 부부 피부양자 자격 등록 완료 </title>
       <link>https://www.chosun.com/national/welfare-medical/2024/10/04/D5KFUWEMIFBK7KIWHFR5YSTRKU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/04/D5KFUWEMIFBK7KIWHFR5YSTRKU/</guid>
@@ -931,37 +963,6 @@
       <description/>
       <pubDate>Fri, 04 Oct 2024 07:48:33 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KDGMRRI2KA46HU7WSUQT32S2JI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 국민건강보험공단 종로지사 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민건강보험공단(건보공단)이 동성 사실혼 부부의 피부양자 자격 등록을 처음으로 받아들였다. 이는 대법원이 동성 부부의 건강보험 피부양자 자격을 인정한 첫 판결을 따른 결과다.&lt;br&gt;&lt;br&gt;4일 건보공단은 이성 사실혼 부부와 같은 기준을 적용해 동성 동반자의 피부양자 자격을 인정하기로 했다. 동성 배우자를 둔 오승재 씨는 이날 자신의 페이스북에 “지난 9월 20일 건보공단 울산동부지사에 신고한 동성 배우자 건강보험 피부양자 등록 처리가 완료됐다”며 “늦었지만 다행이다. 그리고 기쁘다”고 적었다. 오 씨는 “이성 사실혼 배우자에게 적용되는 기준에 맞춰 동일한 서류를 제출했고, 역시 동일한 절차를 밟았다”면서 “건보공단이 동성 배우자에게 차별적인 기준이나 잣대를 들이밀지 않고, 동등한 기준과 절차를 적용했다는 점도 의의가 있다고 생각한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이는 지난 7월 18일 대법원 전원합의체가 동성 동반자에 대해 건강보험 피부양자 자격을 인정하는 선고에 따른 것이다. 건보공단은 이 판결 이후 동성 부부에게 어떤 기준으로 피부양자 자격을 부여할지를 두고 고심하다가 결국 동성 사실혼 부부에 대해 이성 사실혼 부부와 같은 기준을 적용해 피부양자 자격을 인정하기로 했다. 이에 따라 자격 관리 업무 지침 개정 없이 기존의 지침을 준용하기로 했다.&lt;br&gt;&lt;br&gt;동성 사실혼 부부가 피부양자 자격 취득을 위해 건보공단에 제출해야 하는 서류는 피부양자 자격 취득 신고서, 사실혼 관계 인우보증서, 사실혼 양 당사자 간의 가족관계증명서, 사실혼 공증자료 등 4개다. 서류를 제대로 갖춰서 제출했다면, 이성 사실혼 부부와 마찬가지로 3일 이내에 피부양자 자격을 승인받을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘돈봉투 수수 의혹’ 정우택 불구속 기소</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/10/04/U6KJRCADA5EJTD53AJDEIPAI7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/10/04/U6KJRCADA5EJTD53AJDEIPAI7E/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Oct 2024 07:39:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5G2PHBNSDR2IXFBVK5TAIG6XUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정우택 전 국회부의장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정우택 전 국회부의장이 지역 자영업자로부터 청탁과 함께 돈 봉투를 받은 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;청주지검은 4일 정 전 부의장을 알선수재, 정치자금법 위반 등의 혐의로 불구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면, 정 전 부의장은 2022년 3월부터 약 7개월 동안 지역 카페업자 A씨로부터 수차례에 걸쳐 돈 봉투 등 740만원 상당의 금품을 받은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 금품을 건네며 “상수원보호구역 내에 있는 카페를 영업할 수 있도록 공무원들에게 방법을 알아봐 달라”고 부탁한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;그러나 정 전 부의장은 “부정한 돈을 결코 받은 적 없다”며 혐의를 부인하고 있다.&lt;br&gt;&lt;br&gt;검찰은 또 돈봉투 수수 의혹을 언론사에 제보하도록 사주한 윤갑근 전 대구고검장과 이필용 전 음성군수에게도 공직선거법 위반 혐의를 적용해 불구속 기소했다.&lt;br&gt;&lt;br&gt;윤 전 고검장은 4·10 총선 당시 정 전 부의장과 국민의힘 공천을 두고 경쟁을 벌였었다. 이들은 돈 봉투를 건네는 모습이 찍힌 방범카메라(CCTV) 영상을 언론사에 제보하면 변호사 비용을 대신 내주겠다고 A씨와 약속했다고 한다.&lt;br&gt;&lt;br&gt;이와 관련해 윤 전 고검장 측은 “언론 제보를 사주한 적도, 변호사비를 대신 내주겠다고 약속한 적도 없다”면서 혐의를 부인했다.&lt;br&gt;&lt;br&gt;금품을 수수한 정 전 부의장의 전 보좌관과 비서관, 뇌물을 공여하고 변호사비 대납을 요구한 A씨도 공직선거법 위반 혐의 등으로 각각 불구속 기소됐다.&lt;br&gt;&lt;br&gt;청주지검 관계자는 “공무원의 청렴성에 대한 일반 국민의 신뢰를 훼손하는 뇌물 사범, 유권자의 자유로운 의사 결정을 방해하는 선거 사범에 대해 엄정 대응하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5G2PHBNSDR2IXFBVK5TAIG6XUI.jpg?width=4553&amp;height=3211&amp;auth=42ec8cba651eb297edceb44ad53296c8abc609a5fe4adc394c9a91ff2b13c517&amp;smart=true" type="image/jpeg" height="3211" width="4553">
-        <media:description type="plain">뇌물수수 등 혐의로 경찰 수사를 받아온 정우택 전 국회의원이 19일 오후 구속 전 피의자 심문(영장실질심사)을 받기 위해 청주지방법원에 출석하고 있다. 2024.8.19/뉴스1 ⓒ News1 박건영 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 박건영 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>서울 신안산선 지하철 공사 현장서 철근 떨어져...60대 인부 사망</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/04/PSGYKQB5DZHTJE4UGABUJYOPNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/04/PSGYKQB5DZHTJE4UGABUJYOPNY/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Oct 2024 07:29:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W7LQNR72KFEPDMC237PO5WU5CA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 영등포경찰서 모습./영등포경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 신안산선 지하철 공사 현장에서 작업 중이던 60대 남성이 떨어지는 철근에 맞아 사망하는 사고가 발생했다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서에 따르면 오늘 낮 12시 43분 서울 영등포구 신길동 신안산선 지하철역 출입구 공사장에서 “작업자가 머리에 피를 흘린 채 쓰러져 있다”는 내용의 신고가 접수됐다.&lt;br&gt;&lt;br&gt;소방에 따르면 지하 65m의 공사 현장에서 굴삭기가 철근을 옮기던 과정에서 철근이 떨어지는 바람에 작업자가 피해를 입은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이 사고로 공사장에서 근무하던 60대 내국인 남성 인부가 심정지 상태로 병원에 이송됐지만 끝내 숨졌다.&lt;br&gt;&lt;br&gt;이 남성은 소방이 출동한 당시에는 의식이 있었지만 병원 이송을 준비하던 과정에서 심정지 상태에 빠졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “신고를 접수하고 현장 조사 등 사고 내용을 파악 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이재명 지지자들, ‘탄원서 물량공세’ 주도하며 재판부 압박</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/04/NELWLTQOJRHVFMSRXOEQL73O7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/04/NELWLTQOJRHVFMSRXOEQL73O7E/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Oct 2024 06:57:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PO4E5I7RZNGTHMT3GF5N7H5HKQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 이재명 대표와 박찬대 원내대표 등 의원들이 4일 오전 국회에서 열린 의원총회에서 김건희 특검법 등을 요구하는 구호를 외치고 있다. /이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표의 이른바 ‘공직선거법 위반 사건’ 1심 선고까지 40일 정도 남은 가운데, 이 대표 지지자들이 재판부를 향해 ‘탄원서 물량공세’를 하고 있는 것으로 나타났다. 이 대표의 ‘사법 리스크’가 본격화되면서 이들이 사법부를 압박하는 ‘행동 대장’을 자처하고 있는 것이다.&lt;br&gt;&lt;br&gt;4일 법조계에 따르면 이 대표 공직선거법 위반 사건을 심리하는 서울중앙지법 형사34부(재판장 한성진)엔 지난달 25일부터 이날까지 휴일을 제외한 6일 동안 탄원서 60여건이 접수됐다. 법원 관계자는 “한 명이 여러 명을 대표해 제출할 수도 있기 때문에 실제 탄원서는 수백, 수천 개에 이를 수도 있다”고 말했다.&lt;br&gt;&lt;br&gt;탄원서는 재판의 유무죄 판결에 직접적인 영향을 미치진 않지만, 재판부가 양형 사유로 어느 정도 참작할 순 있다. 한 현직 판사는 “현실적으로 다 읽긴 어렵지만, 주요 사건의 경우 재판부가 이를 무시하진 않는다”고 했다. 이에 따라 이 대표 지지자들이 탄원서 물량공세를 주도하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;실제로 지난달 20일 이 대표의 공직선거법 위반 사건 1심 결심(結審) 공판이 끝난 뒤 이 대표 지지자 모임인 온라인 커뮤니티 ‘재명이네 마을’ ‘잼잼자원봉사단’ ‘잼잼기사단’은 이 사건 재판부에 탄원서를 보내자는 내용의 문서를 인터넷을 통해 공유하기 시작했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QDJBAWKPL5O73JVMS3BC37HAZE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 지난달 30일 서울 서초구 서울중앙지방법원에서 열린 '위증 교사 혐의' 1심 결심 공판을 마친 후 법정을 나서며 지지자들을 향해 인사하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들은 탄원서 양식과 함께 ‘가급적 친필로 작성한다’는 지침을 공유하고 있다. 탄원서 양식에는 “정치적 경쟁자를 제거하기 위해 억지 기소와 사건 조작 등을 통해 죄 없는 사람을 음해하고 있는 검찰의 조작 범죄행위를 바로잡아 쓰러져가는 민주주의를 지키고 사법 정의를 바로 세울 마지막 보루인 재판부에서 올바른 재판 결과로 바로 잡아주시길 간곡히 부탁드립니다”라는 글을 예시로 적기도 했다.&lt;br&gt;&lt;br&gt;이 대표의 공직선거법 위반 1심 선고는 다음 달 15일, 위증 교사 1심 선고는 다음 달 25일 나온다. 검찰은 이들 재판에서 각각 징역 2년, 징역 3년을 구형했다. 현재 이 대표는 지난 20대 대선 이후 ‘7개 사건 11개 혐의’로 총 4개의 재판을 받고 있다. 4개 재판 가운데 2개 재판의 1심 선고가 초읽기에 들어가면서 이 대표의 ‘사법 리스크’가 재점화되는 양상이다.&lt;br&gt;&lt;br&gt;공직선거법 위반 사건은 이 대표가 지난 대선을 앞두고 고(故) 김문기 전 성남도시개발공사 처장을 성남시장 시절 알았으면서도 몰랐다고 하고, 국토교통부 협박으로 백현동 개발 부지 용도를 상향 조정했다고 허위 사실을 말한 혐의, 위증 교사 사건은 2018년 이 대표가 공직선거법 위반 혐의로 기소돼 재판받을 때 증인에게 위증을 요구했다는 내용을 골자로 하고 있다.&lt;br&gt;&lt;br&gt;현재 위증 교사 사건을 심리하는 서울중앙지법 형사33부(재판장 김동현)엔 이와 같은 조직적인 탄원서 접수가 이뤄지진 않고 있다.&lt;br&gt;&lt;br&gt;민주당 내부에선 “두 재판 가운데 최소 한 사건에선 집행유예 유죄가 뜰 수 있다”는 위기감이 공유되고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>싸구려 대체품으로 포르셰 수리했다 엔진 ‘펑’… 배상 책임은</title>
@@ -994,15 +995,6 @@
         <media:credit role="author" scheme="urn:ebu">Jun Key Byong
 The Chosunilbo</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>명지학원, 1100억원대 증여세 취소… 대법 “‘출연 재산’ 좁게 봐야”</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/04/ZHMZXAPXYJAEJHJJ764R5U5WLQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/04/ZHMZXAPXYJAEJHJJ764R5U5WLQ/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Oct 2024 22:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MB43KSMPLJG7HLWZYOWG7BLAVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 명지대 전경. /명지대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;명지대, 명지전문대를 운영하는 학교법인 명지학원이 2016년 부과 받은 1100억원대 증여세를 취소해야 한다는 취지의 대법원 판결이 나왔다.&lt;br&gt;&lt;br&gt;4일 법조계에 따르면, 대법원 2부(주심 권영준 대법관)는 명지학원이 중부세무서장을 상대로 낸 증여세 부과 처분 취소 소송에서 원고 패소 판결을 내린 원심 판결을 지난달 13일 깨고 서울고법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;이 사건은 명지학원이 1997년 서울 중구에 세운 명지빌딩을 2007년 약 2603억원에 매각한 것이 발단이다. 명지학원은 매각 대금 중 1628억여 원을 자회사인 명지건설, 명지의료재단 등에 대여했다.&lt;br&gt;&lt;br&gt;과세 당국은 2016년 “명지학원이 빌딩 매각 대금을 공익목적 사업 외에 사용했다”면서 1124억원의 증여세 등을 부과했다. 상속세 및 증여세법은 ‘공익법인이 출연(出捐) 받은 재산을 매각하고, 그 매각 대금을 공익목적 외에 사용한 경우 증여세를 부과한다’고 규정하고 있다. 직접 기부나 증여받은 재산을 공익사업 외에 사용하지 말라는 취지의 조항이다. 명지학원은 이에 불복해 소송을 냈다.&lt;br&gt;&lt;br&gt;쟁점은 명지학원의 빌딩 매각 대금이 상증세법이 규정하는 ‘출연 받은 재산의 매각 대금’에 해당하는지였다. 1심과 2심은 과세 당국의 손을 들어줬다. 명지학원이 세운 빌딩 자체를 출연 받은 재산으로 봐야 한다고 본 것이다.&lt;br&gt;&lt;br&gt;하지만 대법원은 이를 다시 심리하라며 파기 환송했다. 대법원은 “상증세법의 ‘출연 받은 재산’은 공익법인이 증여받은 당해 재산만을 가리킨다고 봐야 한다. ‘출연 받은 재산으로 취득한 재산’ 또는 ‘출연 받은 재산의 매각 대금, 운용소득으로 취득한 재산’까지 포함된다고 해석할 수 없다”고 했다. 즉, 명지빌딩은 명지학원이 기부받거나 증여받은 재산으로 취득한 것이지, 빌딩 자체를 기부∙증여받은 것이 아니므로 과세 대상이 될 수 없다는 의미다.&lt;br&gt;&lt;br&gt;이번 판결은 공익법인이 출연 받은 재산의 매각 대금 등에 대한 증여세 과세의 허용 범위와 한계를 설정한 판례다. 대법원 판결 취지에 따라 1124억원의 증여세는 파기환송심에서 취소될 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
