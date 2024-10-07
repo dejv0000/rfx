@@ -6,7 +6,17 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
-			<title>조희대 대법원장, "우리나라 법관 수, 다른 나라보다 현저히 부족...필요 인력 확충에 관심과 지원 간곡히 부탁해"</title>
+			<title>광장, 국제분쟁그룹 신설… 그룹장으로 '국제중재 전문' 박은영 변호사 영입</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201824.jpg" alt="201824.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.leeko.com/leenko/main.do?lang=KR" target="_blank"&gt;&lt;b&gt;법무법인 광장&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3235"&gt;김상곤&lt;/span&gt;)이 국제분쟁그룹을 신설하고 그룹장으로 런던국제중재법원(LCIA) 부원장 등을 역임한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="543"&gt;박은영&lt;/span&gt;(59·사법연수원 20기) 변호사를 영입했다고 7일 밝혔다. &lt;br /&gt;&lt;br /&gt;박 변호사는 30년 가까이 국제중재를 포함한 다양한 국제분쟁해결 분야에서 활동하며 쌓은 전문성을 바탕으로 광장의 국제분쟁그룹을 이끌 예정이다.&lt;br /&gt;&lt;br /&gt;국제분쟁그룹은 국제중재팀(팀장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="16608"&gt;한상훈&amp;nbsp;&lt;/span&gt;변호사)과 국제소송팀(팀장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9765"&gt;이기리&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="31109"&gt;이연우&amp;nbsp;&lt;/span&gt;변호사)을 주축으로 구성돼 있다. 광장 관계자는 "분쟁의 성격에 따라 국제IP분쟁팀, 국제통상분쟁팀, 경제제재대응팀과 협력하여 점점 더 고도화되고 복잡해지는 국제분쟁에 대응하며, 고객에게 지역과 형태를 불문하고 종합적인 법률 서비스를 제공할 계획"이라고 말했다.&lt;br /&gt;&lt;br /&gt;박 변호사는 국내에서 국제분쟁해결 분야 전문가로 꼽힌다. 대구 영진고와 서울대 사법학과를 졸업하고 1988년 제30회 사법시험에 합격했다. 1994년 서울민사지법 판사로 임관해 서울지법 서부지원 판사를 지낸 뒤 1997년 변호사로 개업해 김·장 법률사무소에 합류했다. 김·장 변호사시절에는 미국 뉴욕대 법대에서 법학석사(LL.M.)와 법학박사(J.S.D.)도 취득했다.&lt;br /&gt;&lt;br /&gt;박 변호사는 국제중재 분야를 개척한 1세대 전문가이다. 그는 런던국제중재법원(LCIA) 부원장과 아시아태평양 평의회 의장, 싱가포르국제중재센터(SIAC) 중재인 등을 역임했다. 현재는 SIAC 중재법원 상임위원, 한국 평회의 의장, 인도 국제중재조정센터(IAMC) 감독위원, 국제상공회의소(ICC) 국제중재위원회 상임위원으로 활동하고 있다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3235"&gt;김상곤&lt;/span&gt;(56·23기) 광장 대표변호사는 "국내 최고의 국제분쟁 전문가인 박은영 변호사가 국제분쟁그룹을 이끌게 돼 광장의 국제분쟁 해결 역량이 더욱 강화됐다"며 "앞으로도 고객에게 최선의 법률 서비스를 제공하기 위해 투자를 아끼지 않을 것"이라고 말했다.</description>
+			<pubDate>Mon, 07 Oct 2024 06:13:27 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201824</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201824</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201824.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
+			<title>조희대 대법원장, "법관 수, 외국 비해 현저히 부족...인력 확충해야"</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201818.jpg" alt="201818.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;조희대 대법원장이 7일 국회에서 열린 법제사법위원회의 대법원 등에 대한 국정감사에 출석해 인사말을 하고 있다.《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6022"&gt;조희대&lt;/span&gt;(67·사법연수원 13기) 대법원장이 7일 "우리나라의 법관 수가 다른 나라에 비해 현저히 부족해 근본적인 한계가 있는 상황"이라며 "국민들이 신속하고 충실한 재판을 받을 수 있도록 법관 증원 및 재판연구원, 사법보좌관, 법원조사관 등 필요한 인력 확충에 많은 관심과 지원을 간곡히 부탁드린다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;조 대법원장은 이날 여의도 국회 본관에서 국회 법제사법위원회(위원장 정청래)가 진행하는 대법원 국정감사에 참석해 "지난달 법관 임용을 위한 최소 법조경력 요건 등에 관한 법원조직법 개정 법률이 국회 본회의를 통과했다"며 "위원장님과 위원 여러분께 깊은 감사의 말씀을 드리며 더욱 다양하고 풍부한 경험과 인품, 실력을 겸비한 법관 임용을 할 수 있도록 법관 임용 절차를 지속적으로 개선하겠다"고 강조했다. &lt;br /&gt;&lt;br /&gt;조 대법원장은 인사말을 통해 "국민들이 더욱 쉽게 등기 제도를 이용할 수 있는 부동산등기법 일부개정 법률안이 내년 1월 시행을 앞두고 있다"며 "또한 내년 하반기에는 국회와 유관기관의 협조 아래 오랜 기간 준비해 온 형사 전자소송이 전면 시행될 예정으로 국민 형사 절차 접근성이 획기적으로 확대되고 효율성 또한 크게 향상될 것으로 기대된다"고 말했다.&lt;br /&gt;&lt;br /&gt;그러면서 "이번 국정감사를 통해 저와 사법부 구성원 모두 성실하고 진지하게 국민 목소리를 경청하겠다"며 "지난 일 년을 돌아보며 새 변화와 발전을 모색하겠다"고 덧붙였다. &lt;br /&gt;&lt;br /&gt;법사위는 이날 △대법원(법원행정처) △사법연수원 △사법정책연구원 △법원공무원교육원 △법원도서관 △양형위원회 △윤리감사관 등에 대한 국정감사를 진행한다.</description>
 			<pubDate>Mon, 07 Oct 2024 03:04:49 -0000</pubDate>
 			<category>news</category>
@@ -231,16 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201796</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201796.jpg</media:thumbnail>
 			<dc:creator>안현 기자</dc:creator>
-		</item>
-		<item>
-			<title>檢, '티메프 사태' 구영배·류광진·류화현 구속영장 청구</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/201798.jpg" alt="201798.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;구영배 큐텐 회장 · 류광진 티몬 대표이사 · 류화현 위메프 대표이사《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;티몬·위메프(티메프) 판매대금 미정산 사태를 수사 중인 검찰이 구영배 큐텐 회장 등에 구속영장을 청구했다. &lt;br /&gt;&lt;br /&gt;서울중앙지검 티몬·위메프 사태 전담수사팀(팀장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="12060"&gt;이준동&amp;nbsp;&lt;/span&gt;반부패1부장검사)는&amp;nbsp;4일 구 회장과 류광진 티몬 대표이사, 류화현 위메프 대표이사에 대해 특정경제범죄가중처벌등에관한법률위반(사기, 횡령, 배임) 혐의로 구속영장을 청구했다. &lt;br /&gt;&lt;br /&gt;이들은&amp;nbsp;1조5950억 원 상당의&amp;nbsp;물품 판매 등 정산대금을 가로챈 혐의를 받는다. 또 계열사 일감 몰아주기로 티메프에 692억 원의 손해를 입히고,&amp;nbsp;미국 전자상거래 회사 '위시' 인수대금 등으로 티메프 자금 671억 원을 횡령한 혐의도 있다.  &lt;br /&gt;&lt;br /&gt;검찰 관계자는 이들의 혐의와 관련해 "사안의 중대성, 증거인멸 가능성, 도주 우려 등을 종합적으로 고려해&amp;nbsp;각각&amp;nbsp;사전 구속영장을&amp;nbsp;청구했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;앞서 검찰은 지난달 19일 류광진 대표를, 20일에는 류화현 대표를 연이어 불러 조사했다. 구 대표는 지난달 30일과 이달 2일 두 차례에 걸쳐 조사받았다.</description>
-			<pubDate>Fri, 04 Oct 2024 09:23:01 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201798</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201798</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201798.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
