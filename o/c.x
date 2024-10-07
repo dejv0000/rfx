@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>피해자 이름·나이 담긴 ‘박대성 사건’ 보고서 유출... 경찰, 조사 착수</title>
+      <link>https://www.chosun.com/national/regional/2024/10/07/WFNPIZQD6BERDKWHBSFZLKVXAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/07/WFNPIZQD6BERDKWHBSFZLKVXAI/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 07 Oct 2024 13:37:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PNV5DKVHPNBF6W4E76OI2CVOBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;순천 도심 길거리에서 10대 소녀를 흉기로 살해한 박대성이 지난 4일 오전 순천경찰서에서 검찰로 송치되고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 순천에서 10대 여학생을 이유 없이 흉기로 살해한 박대성(30)의 범행에 대해 경찰과 지방자치단체가 작성한 보고서가 온라인에 유출돼 경찰이 경위 파악에 나섰다.&lt;br&gt;&lt;br&gt;전남경찰청 사이버범죄수사대는 7일 박대성 살인사건 발생 보고서가 카카오톡 단체 대화방 등 사회관계망(SNS)에 유포된 경위를 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;전남경찰청 강력계, 순천시 안전총괄과 등이 각각 작성한 것으로 추정되는 두 종류의 보고서는 대외 유출이 금지된 공문서이다.&lt;br&gt;&lt;br&gt;각 보고서에는 피의자 박대성뿐만 아니라 피해자의 실명 나이 등 개인정보와 언론 등에 공개되지 않은 사건 개요 등이 담겼다.&lt;br&gt;&lt;br&gt;경찰은 사건 당일인 지난달 26일 보고서가 유출된 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰은 내사를 거쳐 최초 유포자 등이 확인되면 공무상비밀누설 또는 개인정보 보호법 위반 등 혐의를 적용해 공식 수사로 전환할 계획이다.&lt;br&gt;&lt;br&gt;박대성은 지난달 26일 0시 44분쯤 전남 순천시 조례동에서 길을 걷던 A(18)양을 흉기로 여러 차례 찔러 숨지게 한 혐의(살인)로 구속됐다.&lt;br&gt;&lt;br&gt;그는 배달음식점을 운영하는 가게에서 홀로 술을 마시다가 흉기를 챙겨 밖으로 나왔고 일면식 없는 A양을 800m가량 쫓아가 범행한 것으로 조사됐다. A양은 이날 아버지의 약을 대신 사러 나갔다가 변을 당한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 수단의 잔인성·국민의 알권리·중대한 피해 등을 고려해 박대성의 신상·머그샷(mugshot) 얼굴 사진을 지난달 30일 전남경찰청 누리집에 공개했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘재산 축소신고’ 공직선거법 위반 혐의 이상식 의원 기소</title>
+      <link>https://www.chosun.com/national/regional/2024/10/07/WK2F5LSYSNAIROGZH6ECL3G6YM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/07/WK2F5LSYSNAIROGZH6ECL3G6YM/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 07 Oct 2024 11:11:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4IUB6X7L6DAJ436VN5JEL667YA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상식 더불어민주당 국회의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4·10 총선에서 재산을 축소 신고한 혐의를 받는 더불어민주당 이상식(경기 용인갑) 의원이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;7일 법조계에 따르면 수원지검 공공수사부(부장 허훈)는 7일 공직선거법 위반 혐의를 받는 이 의원을 불구속 기소했다.&lt;br&gt;&lt;br&gt;이 의원은 4·10 총선 재산 신고 과정에서 총재산 96억원을 73억원가량으로 축소 신고한 혐의다.&lt;br&gt;&lt;br&gt;검찰은 이 의원이 신고한 재산 중 배우자가 보유한 미술품 가액이 40억원 이상인데 17억8000여만원으로 낮춰 허위 신고한 것으로 봤다.&lt;br&gt;&lt;br&gt;이 의원은 지난 3월 배포한 입장문에서도 허위 사실을 유포한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이 의원은 당시 입장문에서 “2020년 당시 배우자 미술품은 15억원 가치였고 최근 이우환 작품 등 가액이 3∼4배 급등했지만 2024년 현재 작품을 계속 보유하고 있어 미실현 이익일 뿐이므로 세금을 납부하지 않았다”고 해명한 바 있다.&lt;br&gt;&lt;br&gt;그러나 검찰은 미술품 매매로 이 의원의 재산이 늘어난 것이지 미술품 가액이 상승한 것이 아닌 걸로 판단했다.&lt;br&gt;&lt;br&gt;수원지검 성남지청 형사1부(부장 송준구)는 이날 공직선거법 위반 혐의를 받는 국민의힘 김은혜(성남시분당구을) 의원에 대해 기소유예 처분했다. 기소유예는 혐의가 인정되지만 검찰이 여러 정황을 고려해 피의자를 재판에 넘기지 않는 처분이다.&lt;br&gt;&lt;br&gt;김 의원은 올해 2월 예비후보 신분으로 버스에서 자신의 이름이 적힌 겉옷을 입고 선거 유세를 한 혐의로 고발당했다.&lt;br&gt;&lt;br&gt;공직선거법상 예비후보자는 버스나 정기여객 같은 자동차와 선박, 열차 등에서 명함을 주거나 선거유세를 할 수 없다.&lt;br&gt;&lt;br&gt;김 의원은 당시 버스 기사에게 명함 1장을 배부한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;4·10 총선 관련 공소시효 만료는 이달 10일이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>한글날 앞두고...경상국립대, 우리나라 첫 국어사전 품었다</title>
       <link>https://www.chosun.com/national/2024/10/07/IGNYTQKYSZGONHUPOMTZ3TN7LQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/10/07/IGNYTQKYSZGONHUPOMTZ3TN7LQ/</guid>
@@ -906,15 +924,6 @@
       <content:encoded>베트남에 공장을 짓겠다는 거짓말로 끌어모은 수백억원의 투자금을 자신의 경영권 방어에 몰래 쓴 코스닥 상장사 경영진들에게 실형이 확정됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/US44TUU6MRGTDHAKZ2X6TUHWAE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원 건물. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 법조계에 따르면 대법원 3부(주심 이흥구 대법관)는 자본시장법 위반 등 혐의로 기소된 하이소닉(옛 지투하이소닉) 전 대표 류모(56)씨에게 징역 3년에 벌금 100억원을 선고한 원심을 지난달 12일 확정했다. 공범으로 함께 기소된 동업자 배모(52)·김모(53)씨에 대해서도 징역 3년을 확정했다.&lt;br&gt;&lt;br&gt;하이소닉은 국내 대기업과 거래하던 휴대폰용 카메라부품 제조업체였다. 류 전 대표는 2016년 200억원 규모의 신주인수권부사채(BW) 발행을 결정했고, 이로써 마련되는 자금을 베트남 공장 증설에 모두 사용한다고 공시했지만 거짓말이었다.&lt;br&gt;&lt;br&gt;류 전 대표 등은 발행 자금을 베트남 공장이 아닌 자신의 경영권을 방어하고자 최대주주의 지분을 사들이는 데 썼고, 총 193억8000여만원의 부당이득을 챙긴 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;이들은 2018년 하이소닉을 인수한 대표 곽모(51)씨의 횡령을 방조한 혐의도 받았다. 곽씨는 당시 사채자금을 끌어오는 등 회사에 약 92억원의 손해를 입힌 것으로 조사됐다. 결국 곽씨는 횡령 등 혐의로 징역 5년에 벌금 5억원을 확정받았다.&lt;br&gt;&lt;br&gt;1심은 지난 2020년 류 전 대표에 징역 5년을, 배씨와 김씨에게는 징역 3년을 선고했다. 이들에게 각각 벌금 100억원도 선고했다. 1심은 “자본시장의 공정성과 신뢰성을 훼손하는 행위로서 그 비난가능성이 매우 높다”고 지적했다.&lt;br&gt;&lt;br&gt;그러나 2심은 “회사를 상장폐지 위기에 이르게 한 곽씨에게 확정된 형(징역 5년·벌금 5억원)을 감안하면 경영권을 확보하려 했던 류 전 대표에게 더 중한 형을 부과하는 것은 형평에 맞지 않는다”며 징역 3년으로 감형했다. 배씨와 김씨에게 선고된 벌금 100억원도 선고 유예했다.&lt;br&gt;&lt;br&gt;대법원 역시 “원심의 판단은 정당해 수긍할 수 있으며 자유심증주의의 한계를 벗어나거나 법리를 오해하는 등 판결에 영향을 미친 잘못이 없다”며 상고를 기각했다.&lt;br&gt;&lt;br&gt;하이소닉은 2018년 12월 거래정지 된 이후 회생 절차를 밟았고, 경영진이 교체된 이후 작년 3월 거래가 재개됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>교도소·구치소는 초만원… 정원 5만명에 6만2000명 수용</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/06/47HKNMGTXJFABC3USFXBGFKKAU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/06/47HKNMGTXJFABC3USFXBGFKKAU/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 06 Oct 2024 03:58:49 +0000</pubDate>
-      <content:encoded>전국 교정시설의 재소자 수용률이 지난 8월 기준 124.5%를 기록한 것으로 나타났다. 전체 정원보다 24.5% 많은 수용자를 데리고 있다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PPMWR5NPLRGCNPR2GTZIY6RXUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 법무부가 박지원 더불어민주당 의원실에 제출한 자료에 따르면, 전국 교정시설의 수용률은 지난 2021년 106.4％에서 2022년 108.1％, 2023년 118.4％로 꾸준히 늘었다. 올해 8월 31일 기준으로는 124.5％를 기록했다. 특히 서울구치소의 경우 작년 수용정원이 2247명이었으나 3436명을 수용해 수용률 152.9％를 기록했다.&lt;br&gt;&lt;br&gt;교정시설 수용 정원은 이 기간 계속해서 증가했으나, 늘어나는 수용자를 따라잡기엔 역부족이었던 것으로 나타났다. 전국 교정시설의 수용 정원은 지난 2021년 4만8980명에서 2022년 4만8990명, 2023년엔 4만9922명으로 늘었다. 올해 8월 기준 수용 정원은 5만192명이다. 그러나 이 기간 실제 수용자 수는 2021년 5만2130명, 2022년 5만2940명, 2023년 5만9088명을 기록했다. 올해 8월 기준 수용자 수는 6만2514명으로, 정원보다 1만2000여명을 넘겨 수용 중이다.&lt;br&gt;&lt;br&gt;국가인권위원회는 지난 4월 교정시설 과밀 수용이 인간의 존엄성에 반하는 비인도적 처우라며 법무부 장관에게 권고를 개선한 바 있다. 대법원에서는 지난 2022년 7월 교정시설 과밀수용에 대해 국가배상책임을 인정하는 판결이 나오기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IBA46RIDLKBTYVMXPZGBVKCZMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박지원 더불어민주당 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당시 대법원은 교도소나 구치소가 수용자 한 사람당 2㎡ 미만의 공간을 배정할 정도로 과밀수용을 하고 있다면 인간으로서의 존엄과 가치를 침해한 위법한 행위라고 판단했다.&lt;br&gt;&lt;br&gt;박 의원은 “재범을 막고 범죄자들의 네트워크 형성을 막기 위해서라도 과밀수용은 해소되어야 한다”며 “법무부가 윤석열 정부 국정과제이기도 한 교정시설 과밀화 해소를 위해 법무시설 기준규칙 개정 등에 나서길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>선물 돌려달라는 남친 뒤통수 휴대폰으로 때린 30대 女 선고유예</title>
       <link>https://www.chosun.com/national/regional/2024/10/06/X3CI3Y3WKNHVVFTKRTCF3FUDMM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/06/X3CI3Y3WKNHVVFTKRTCF3FUDMM/</guid>
@@ -940,15 +949,6 @@
       <description/>
       <pubDate>Sat, 05 Oct 2024 07:41:03 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FZCP7DL765KNNH3TCDIOD4W4OA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;한은숙 고용노동부 외국인력담당관이 10월 24일 오전 서울 강남구 홈스토리생활 회의실에서 열린 서울시 외국인 가사관리사 시범사업 관계자 간담회에서 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;필리핀 가사관리사가 추석 연휴 기간 숙소를 이탈하는 등 논란이 이어지는 가운데 관계 당국이 ‘통금’ 논란을 낳은 10시 숙소 복귀 방침을 없애기로 결정했다.&lt;br&gt;&lt;br&gt;5일 서울시에 따르면 시와 고용노동부는 그간 진행하던 필리핀 가사관리사 오후 10시 인원 확인을 하지 않기로 결정했다. 희망자를 조사해 월에 2번 격주로 임금을 지급하는 방안도 진행하기로 했다.&lt;br&gt;&lt;br&gt;지난달 24일 고용노동부와 서울시는 긴급 간담회를 열고 가사관리사들의 통금 등에 대한 의견을 청취했다. 기존에는 시범사업 참여 업체가 오후 10시로 숙소 복귀 시간을 정해두고 가사관리사 인원을 파악했는데, 이를 진행하지로 않기로 한 것이다.&lt;br&gt;&lt;br&gt;관계 당국은 임금을 2번에 걸쳐 격주로 주는 방안 역시 진행하기로 결정했다. 서울시 관계자는 “30여명이 간담회에서 월급을 격주로 나눠 받고 싶다는 의견을 냈는데, 희망하는 인원에 한해 임금을 2번에 나눠 지급하기로 했다”며 “근로계약을 갱신한 후 희망자에 한해 바로 진행할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;이는 필리핀 가사 관리사 2명이 추석 연휴 도중 서울의 숙소를 이탈한 사건의 후속 조치로 풀이된다. 이 사건 직후 필리핀 가사관리사들의 낮은 임금과 열악한 처우에서 이탈자가 발생했다는 지적이 나왔다.&lt;br&gt;&lt;br&gt;무단 이탈 뒤 연락이 두절된 필리핀 가사관리사 2명은 지난 4일 부산 연제구의 한 숙박업소에서 경찰과 부산출입국외국인청에 검거됐다. 법무부는 이들을 관련법에 따라 조사한 뒤 강제 퇴거할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>개 식용 종식법 주도 의원들, ‘골든 도그 어워즈’ 수상</title>
-      <link>https://www.chosun.com/national/people/2024/09/26/GSJZZ2PO5NF67P3VLBOLYIIDK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/09/26/GSJZZ2PO5NF67P3VLBOLYIIDK4/</guid>
-      <dc:creator>강우석 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Sep 2024 16:46:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UQ47P6TKVZHPFMR5FHB6E2HFNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오후 서울 중구 롯데호텔에서 ‘골든 도그 어워즈’ 수상자들이 기념사진을 찍고 있다. /강우석 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1월 국회에서 통과된 개 식용 종식법을 주도한 여야 국회의원들이 세계애견연맹(WDA)이 주는 상을 받았다.&lt;b&gt; &lt;/b&gt;WDA는 지난 2014년 창립해 미국·프랑스·홍콩·일본 등 해외 다수 국가에 지사를 두고 개 식용 금지 홍보 및 각국에서 입법이 이뤄지도록 로비 활동을 벌이는 비영리단체다.&lt;br&gt;&lt;br&gt;WDA는 25일 오후 서울 중구 롯데호텔에서 ‘골든 도그 어워즈 시상식’를 열고 한정애·박홍근 더불어민주당 의원, 이헌승 국민의힘 의원, 조희경 동물자유연대 대표에게 ‘골든 도그 어워즈’를 수여했다.&lt;br&gt;&lt;br&gt;한정애 의원은 이날 시상식에서 “뜨거웠던 여름에 아스팔트 위에서 개 식용을 없애기 위해 소리 질렀던 것을 생각하면 감회가 새롭다”며 “국회에서는 개 식용 금지법 시행을 예정됐던 2027년보다 더 빨리 앞당기기 위해 절차를 밟아가고 있다”고 했다. 박홍근 의원은 “세계적인 경제발전을 이룩한 대한민국이 선진국이냐는 질문을 받은 지점이 바로 개 식용 문제였다”며 “대한민국의 동물 복지를 위해 흔들림 없이 앞으로 나아가겠다”고 밝혔다. 이헌승 의원은 “관습적으로 이어져온 개 식용 문화를 사회적 합의로 끝내는 건 정말 어려운 일이었다”며 “국회와 시민단체, 동물권 복지 향상을 위해 함께하시는 분들과 계속 노력해나가겠다”고 했다.&lt;br&gt;&lt;br&gt;겐린 WDA 회장은 “지혜와 능력을 갖춘 한국 국회와 정부, 산업 종사자 분들 덕에 3년 뒤에 한국에서 개 식용이 종식된다”며 “한국의 역사적인 개 식용 금지 입법은 개고기 산업이 크게 발전한 중국의 법안 개정에도 큰 영향을 미칠 것”이라고 했다.&lt;br&gt;&lt;br&gt;세 의원은 국회 연구모임 동물복지국회포럼의 공동대표다. 한정애 의원이 지난해 6월 ‘개 식용 종식을 위한 특별법안’을 발의한 뒤 ‘개 식용 종식을 위한 초당적 의원모임’ 결성을 주도한 박홍근·이헌승 의원이 공동발의자로 참여한 끝에 지난 1월 9일 재적의원 298인 중 재석 210인, 찬성 208표, 기권 2표로 통과됐다.&lt;br&gt;&lt;br&gt;조희경 대표는 “개 식용 종식법이 통과되기까지 현장에서 같이 눈물 흘렸던 동물 운동가들에게 감사하다”며 “3년 안에 법이 잘 시행될 수 있도록 끝까지 지치지 않고 잘 마무리하겠다”고 밝혔다. 이날 시상식에는 김창준 전 미국 공화당 하원의원, 제니퍼 안 김창준한미연구원 부이사장, 배우 전노민, 가수 이장원, 배다해 부부 등이 참석했다.&lt;br&gt;&lt;br&gt;지난 1월 9일 통과된 ‘개 식용 종식법’은 식용 목적으로 개를 사육·도살·유통·판매하는 행위를 금지하는 내용으로 식용 목적으로 개를 도살하면 3년 이하 징역 또는 3000만원 이하 벌금에 처하고, 개를 사육·유통하면 2년 이하 징역 또는 2000만원 이하 벌금을 받을 수 있다. 다만 법안은 공포 3년 뒤인 2027년부터 효력을 가진다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘굿파트너’ 쓴 변호사 “인간 최유나는 집에 두고 출근해요” </title>
