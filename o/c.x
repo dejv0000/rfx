@@ -13,6 +13,183 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 2026년 쓰레기 직매립 못하는데… 공공소각장 한 곳도 못지어</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/10/09/LQOSJZXRDREQ5PHZ7Z6BT3ZFZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/10/09/LQOSJZXRDREQ5PHZ7Z6BT3ZFZA/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 08 Oct 2024 20:02:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RDPEQ53K2ZI3LG6PHKAX5YXECI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수도권매립지관리공사에 따르면 올해 1∼10월 수도권 기초자치단체가 수도권매립지에 반입한 누적 생활폐기물의 양은 총 60만2천856t으로 1년치 반입총량인 60만88t보다 많은 것으로 나타났다. 공사는 매립지 부족 문제해결을 위해 지난해부터 반입 총량제를 시행했으나 올해도 해를 넘기기 전에 반입총량이 모두 사용됐다. 사진은 16일 오후 인천 서구 수도권매립지 제2매립장 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2026년부터 수도권 지역의 생활폐기물을 직매립하지 못하도록 한 정부 조치가 사실상 시행이 불가능한 것으로 나타났다. 현재 수도권 지역에서 자체 소각하지 못하는 생활폐기물은 하루 2500t에 달하는데 2026년까지 완공이 예정된 공공 소각장은 한 곳도 없기 때문이다.&lt;br&gt;&lt;br&gt;8일 국민의힘 임이자 의원이 환경부에서 받은 자료에 따르면, 현재 수도권 지역에 부족한 소각 용량은 서울 일 1156t, 인천 295t, 경기 1017t 등 총 2468t으로 집계됐다. 하루 2468t의 생활폐기물이 해당 지역에서 자체 처리되지 못한 채 수도권 매립지나 민간 소각장으로 간다는 뜻이다.&lt;br&gt;&lt;br&gt;수도권 33개 시·군 가운데 현재 공공 소각장 용량이 부족한 곳은 26곳이다. 이 중 2026년까지 소각장 증설이 예정된 곳은 하나도 없다. 2026년에 ‘잉여 쓰레기’가 갈 곳이 없는 것이다. 서울시는 마포 신규 소각장(일 1000t)의 준공 예정일을 2029년 12월로 잡고 있다. 인천시와 경기도도 2027~2031년 안에 신규 소각장 증설을 마무리한다는 계획이다. 2026년까지 쓰레기 발생량이 획기적으로 줄지 않는 이상 처리할 방법이 없다.&lt;br&gt;&lt;br&gt;생활폐기물 직매립 금지는 국토 면적이 좁은 우리나라 특성상 쓰레기를 바로 땅에 묻지 않고, 소각장에서 태운 후 소각재만 묻게 하는 제도다. 2026년부터 수도권에서 먼저 시행되고, 2030년부터 전국으로 확대된다. 그러나 대표적 님비 시설인 소각장 증설에 주민 반대가 워낙 심해 제대로 시행할지 확신할 수 없는 상황이다. 환경부는 “2026년 직매립 금지 목표는 변함 없으나, 지자체 사정에 따라 시행 유예가 불가피할 수있어 의견 수렴을 통해 결정할 예정”이라고 했다. 제도 시행 유예 가능성을 열어둔 것이다.&lt;br&gt;&lt;br&gt;다만 이런 사정을 감안해도 직매립 금지를 언제까지 미룰 수도 없다는 지적이다. 일각에선 기존에 있는 민간 소각장을 활용해야 한다는 지적이 나온다. 2020년부터 생활폐기물을 공공 소각장이 아닌 민간 소각장에 위탁 처리한 지자체는 전국 226곳 중 누적 105곳(46.4%·올 5월 기준)에 달한 것으로 집계됐다. 일본의 경우 공공·민간 소각장 중에서 각 지자체가 생활폐기물 처리를 어디에 맡길지 선택하도록 하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“목숨 3개냐”… ‘시속 200㎞’ 전동킥보드 영상 와글와글 </title>
+      <link>https://www.chosun.com/national/national_general/2024/10/09/TYUC53GXZVHO3MR4DT22RTGGSY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/09/TYUC53GXZVHO3MR4DT22RTGGSY/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 08 Oct 2024 16:06:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJ3ZIKGSGVBK5JYS2XP7BCJ33I.gif"&gt;&lt;figcaption&gt;&lt;small&gt;전동킥보드처럼 생긴 이동장치를 탄 남성이 빠른 속도로 도로를 달리고 있다. /틱톡&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전동킥보드로 보이는 이동장치로 차량보다 빠른 속도로 도로를 주행하는 영상이 온라인상에 확산해 논란이 일고 있다.&lt;br&gt;&lt;br&gt;9일 여러 온라인 커뮤니티에는 ‘시속 200㎞ 킥보드 한국 상륙’ 등을 제목으로 한 게시물이 확산했다. 여기에는 회색 상·하의를 입은 남성이 전동킥보드처럼 보이는 이동장치를 타고 국내 한 도로를 차량보다 빠른 속도로 달리는 모습이 담겼다. 안장 없이 손잡이만 있는 형태의 이동장치여서 전동킥보드로 비쳤으나, 바퀴의 크기 등 전체적인 구조는 전동스쿠터처럼 보였다.&lt;br&gt;&lt;br&gt;한 틱톡 계정에 올라온 전체적인 상황이 담긴 영상을 보면, 운전자는 준비운동을 하더니 주행을 위해 도로를 나섰다. 촬영자가 “직진할 거냐”라고 묻자, 운전자는 고개를 끄덕이더니 빠른 속도로 달리기 시작했다. 먼저 가고 있던 트럭을 앞지를 정도의 속력이었다. 운전자는 바람의 저항을 이기기 위해 허리를 숙이고 다리를 굽혔다. 차량에서 이 같은 모습을 찍던 촬영자가 “내리막길도 아닌데 (시속) 180㎞가 나온다”라고 말하는 음성도 담겼다.&lt;br&gt;&lt;br&gt;온라인상에서 운전자를 지적하는 반응이 이어졌다. “목숨이 한 3개 있는 거냐” “킥보드 제한속도 있지 않냐” “과속방지턱이라도 한번 잘못 걸리면 최소 20m는 날아갈 것 같다” 등이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZLEWULS3YBHKTMJU5LJDYCPRLA.png"&gt;&lt;figcaption&gt;&lt;small&gt;여러 온라인 커뮤니티에 '시속 200㎞ 킥보드 한국 상륙' 등을 제목으로 한 영상이 확산했다. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R2X2NTAAZBB5DHHH3D2THBVIWE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;운전자가 트럭을 앞지르고 있다. /틱톡&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전동스쿠터를 개조한 것 같다는 반응도 많았다. “그냥 안장 없앤 스쿠터로 보인다” “서서 타는 오토바이” 등이다. 한 네티즌은 “이거 전동킥보드가 아니라 불법 무판 전동스쿠터”라며 “업체가 껍데기만 전동킥보드로 둔갑시켜서 전동킥보드 행세하는 것”이라고 했다. 이 네티즌은 “한국 일반도로에서 (개조 전동스쿠터가) 시속 100㎞ 이상으로 폭주 뛴 게 몇년이 지났다. 현재도 진행형”이라고도 했다.&lt;br&gt;&lt;br&gt;실제로 영상에 담긴 이동장치는 현행법에 저촉될 소지가 있다. 문제의 이동장치가 개인형 전동장치(PM)로 분류되는 전동킥보드라고 가정했을 때는 시속 25㎞를 한눈에 봐도 넘어 속도 제한을 어긴 것이다. 전동스쿠터라고 봐도 문제다. 자동차관리법상 최대 시속 25㎞ 이상인 이륜자동차는 보험 가입과 번호판 장착 대상으로 규정 중이지만, 영상 속 이동장치에는 아무런 번호판이 없다.&lt;br&gt;&lt;br&gt;한편 한국도로교통공단 교통사고분석시스템에 따르면, PM 사고 건수는 2019년 447건에서 2023년 2389건으로 5년 새 5배가량 늘었다. 사망자 수 또한 2019년 8명에서 2023년 24명으로 3배 증가했다. PM 사고 사망자의 경우 공작물 충돌이나 전도, 도로 이탈 등 단독사고로 발생한 사망자 비율이 62.5%로 매우 높게 나타났다. PM은 외부 충격으로부터 신체를 보호해 줄 별도의 안전장치가 없기 때문이다.&lt;br&gt;&lt;br&gt;PM은 원동기장치자전거, 2종 소형, 1·2종 보통 등의 운전면허 소지자만 운행할 수 있다. 안전모를 반드시 착용해야 하고 자전거 도로 또는 차도 우측 가장자리를 이용해야 한다. 또 자동차와 마찬가지로 음주 후에는 이용해서는 안 되고, 음주운전 시 단속과 처벌을 받는다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오늘 578돌 한글날, 요즘 청년들 문해력 현주소는…</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/09/JBOW3NWDLZCQXCXECAFJLQELR4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/09/JBOW3NWDLZCQXCXECAFJLQELR4/</guid>
+      <description/>
+      <pubDate>Tue, 08 Oct 2024 15:55:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E3DPTYKMEBF2HLX2O34LCBBKUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제578돌 한글날을 하루 앞둔 8일 대구 달서구 계명대 성서캠퍼스에서 열린 한국어 퀴즈 대회에 참가한 외국인 유학생들이 ‘받아쓰기’ 답을 적은 스케치북을 들어 보이고 있다. 한자 교육 부실화로 인해 과거 일부 청소년 문제로 지적됐던 문해력 저하 현상이 최근 2030 청년들 전반에 나타나면서, 일상생활 소통이 어려워지고 있다는 우려가 나오고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“쉬는 김에 그냥 군대 갈래”</title>
+      <link>https://www.chosun.com/national/education/2024/10/09/NUNZQCBQ7RFR5EAVGP7DFTWQRA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/09/NUNZQCBQ7RFR5EAVGP7DFTWQRA/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 08 Oct 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FXQGNMZL6BF35M3TBIA2IIWALU.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부의 ‘의대 증원’ 정책에 반발해 대다수 의대생이 수업을 거부하고 있는 가운데, 군 입대를 이유로 휴학한 의대생이 1000명 넘는 것으로 나타났다.&lt;br&gt;&lt;br&gt;8일 진선미 더불어민주당 의원실이 교육부에서 받은 자료에 따르면, 지난달 23일 기준 전국 37개 의대에서 1059명이 군 입대 사유로 휴학 허가를 받았다. 전국 40개 의대 중 자료를 제출하지 않은 3개 의대는 제외한 수치다. 이는 지난해 입대 휴학 의대생(162명)의 6.5배에 달한다. 2021년과 2022년에도 입대 휴학 의대생은 각각 116명, 138명으로 100명대에 머물렀다.&lt;br&gt;&lt;br&gt;올해 입대 휴학 의대생 1059명은 국립대 358명, 사립대 701명으로 집계됐다. 한 국립대에선 69명이 입대를 이유로 휴학했다. 이 학교는 2021~2023년 입대 휴학 의대생이 연간 한 자릿수에 불과했다. 다른 국립대는 올해 53명, 한 사립대는 49명, 또 다른 국립대는 46명이 입대 휴학을 냈다.&lt;br&gt;&lt;br&gt;입대 휴학 의대생 중 상당수는 정부의 의대 증원에 반발해 단체로 수업을 거부하는 기간 동안 군 복무를 해결하려는 것으로 보인다. 지금까지 의대생들은 대체로 의사 면허를 딴 다음 군의관이나 공중보건의로 복무했는데, 올해는 현역 군인에 지원하는 경우가 많다. 이 때문에 앞으로 군의관과 공중보건의 공급에 차질이 생길 것이란 우려가 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>봄 아니고 가을이야… 이 ‘철 없는’ 벚꽃아</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/09/37XZYT4PVNCF7KNONNPLBKNX3Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/09/37XZYT4PVNCF7KNONNPLBKNX3Q/</guid>
+      <description/>
+      <pubDate>Tue, 08 Oct 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQR2GOSE55CGTOIUDRF47HHKI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 오후 경남 남해군 삼동면의 벚나무에 벚꽃이 핀 모습. 지나가던 시민이 휴대폰을 들어 벚꽃 사진을 찍고 있다. 이례적으로 따뜻한 가을이 이어지면서 경남 등 해안 지역에서 봄에 피는 벚꽃이 목격되고 있다. 남해군 관계자는 “이상기후로 벚나무가 계절을 착각해 가을에 꽃을 피운 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>文 부녀 차량 2대 과태료만 11차례… 상습 체납</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/09/H3I2VI7UNRDVPAPYR2BY3GUCBI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/09/H3I2VI7UNRDVPAPYR2BY3GUCBI/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 08 Oct 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7ZWU2VSJRCUPBFLANR7OSMRIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문재인 대통령이 지난 2021년 10월 6일 오후 청와대 경내에서 '광주형 일자리'에서 생산된 경형 스포츠유틸리티차(SUV) 캐스퍼를 운전하고 있다.(왼쪽) 지난 5일 오전 2시 51분쯤 문재인 전 대통령의 딸 문다혜씨가 만취 상태로 운전한 캐스퍼 차량이 우회전 차로에서 좌회전을 시도하고 있다. /청와대·TV조선 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 전 대통령과 음주운전 혐의로 입건된 문재인 전 대통령의 딸 문다혜(41)씨 부녀(父女)가 소유한 차량 2대에 최소 11차례의 과태료가 부과된 사실이 알려졌다.&lt;br&gt;&lt;br&gt;음주 상태였던 문씨가 지난 5일 서울 용산구 이태원동에서 몰았던 현대 캐스퍼 차량은 두 차례 주정차 위반 과태료를 체납한 기록이 있는 것으로 파악됐다. 이 차량은 2021년 10월 문재인 전 대통령이 ‘광주형 일자리’를 통해 만들어진 첫 모델이다. 당시 청와대는 “문 대통령이 개인적으로 사용하기 위해 구매한 것으로 퇴임 후에도 계속 사용할 예정”이라고 했다. 해당 차량의 자동차등록원부에 따르면, 문씨가 소유한 캐스퍼 차량은 문 전 대통령 소유였던 작년 6월 서울에서 주정차 위반으로 과태료 처분을 받은 뒤, 이를 내지 않아 그해 11월 압류 조치를 받았다.&lt;br&gt;&lt;br&gt;또 문 전 대통령에서 문씨로 명의가 이전된 후인 올해 8월 제주에서도 이 차량은 과태료 체납으로 대체 압류 처분을 받았다. 문 전 대통령은 해당 차량을 올해 4월 문씨에게 양도했다. 문씨가 캐스퍼를 몰기 전 탔던 쏘렌토 차량도 최소 9차례 과태료 체납으로 압류 처분을 받았다. 문씨가 몰던 쏘렌토 차량은 원래 문 전 대통령의 명의였다가 2022년 5월 문씨에게 명의가 이전됐고, 이후 올해 4월 문씨에서 문 전 대통령으로 다시 명의가 이전됐다.&lt;br&gt;&lt;br&gt;한편 문씨는 지난 4일 오후 6시 57분쯤 서울 용산구 이태원동의 한 신축 건물 공사장 앞에 있는 이면도로에 해당 차량을 댄 뒤, 7시간 뒤인 5일 오전 2시 17분쯤 차량으로 돌아왔다. 이어 34분 후인 오전 2시 51분쯤 이태원 해밀톤호텔 앞에서 캐스퍼 차를 운전하던 중 차선을 변경하다 뒤따라오던 택시와 접촉 사고가 냈다. 피해자인 택시 기사 신고로 출동한 경찰이 음주 측정을 한 결과, 문씨의 당시 혈중알코올농도는 0.149%로 면허 취소(0.08% 이상) 수준이었다. 경찰은 문씨 측과 소환 일정 등을 조율 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“헌법재판관 공석이면 변론 못 연다” 국회 질책한 재판관</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/09/SIPLC5IJT5AO3BEU3DG22C6H3E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/09/SIPLC5IJT5AO3BEU3DG22C6H3E/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 08 Oct 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CA223ELUABNLBAEJNV6X6CUGBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문형배·정정미 헌법재판관이 8일 오후 서울 종로구 헌법재판소 소심판정에서 열린 이진숙 방송통신위원장 탄핵 심판 2회 변론준비기일에 입장해있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문형배 헌법재판관이 8일 이진숙 방송통신위원장의 탄핵 심판 변론 준비 절차를 마무리하면서, 오는 17일 이후 예상되는 ‘헌법재판소 마비’ 사태에 대한 국회의 입장을 따져 물었다.&lt;br&gt;&lt;br&gt;헌법재판관 9명 중 이종석 헌재소장과 이영진·김기영 재판관의 임기가 17일에 끝난다. 세 재판관의 후임은 국회가 선출해야 하는데, 여야 대립으로 이 절차가 진행되지 않고 있다. 헌재는 재판관 9명 중 7명이 출석해야 사건을 심리할 수 있다.&lt;br&gt;&lt;br&gt;문 재판관은 이날 이 위원장에 대한 탄핵 심판 정식 변론을 다음 달 12일 열겠다고 밝히면서 “헌법재판관 3명이 공석이 될 가능성이 있다”며 “6명이 남게 되면 헌법재판소법에 따라 변론을 열 수 없는데, 이에 대한 청구인(국회)의 입장은 무엇이냐”고 물었다. 이 위원장을 탄핵 소추한 국회 측 대리인 임윤태 변호사는 “특별히 (입장이) 없다”고 답했다. 이에 문 재판관이 “대응 방안도 없으시겠네요”라고 하자, 임 변호사는 “그건 국회에 알아봐야 할 것 같다”고 했다.&lt;br&gt;&lt;br&gt;문 재판관은 이 위원장 측에게도 “국회가 탄핵 소추해 탄핵 심판이 열려야 하는데, 국회가 재판관을 선출하지 않으면 국회가 만든 법에 따라 변론을 할 수 없게 된다”며 “대응 방안을 검토해보라. 헌법은 법률의 상위”라고 했다.&lt;br&gt;&lt;br&gt;문 재판관은 진보 성향 법관 모임 ‘우리법연구회’ 회장 출신이다. 한 법조인은 “국회가 새 재판관을 뽑지 않으면 17일 이후 헌재가 아무것도 할 수 없다는 답답함을 드러낸 것 같다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘남민전 사건’ 옥살이 이재오, 44년 만에 무죄</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/09/2VATCOPAP5F27CORG5FM5TFUU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/09/2VATCOPAP5F27CORG5FM5TFUU4/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 08 Oct 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NVBVX763EVM5FI4SGD2C5IS57Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이재오 민주화운동기념사업회 이사장이 지난 2023년 7월 28일 서울 여의도 국회에서 박광온 더불어민주당 원내대표를 만나기 위해 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유신 말기 최대 공안 사건으로 알려진 ‘남민전(남조선민족해방전선 준비위원회)’ 사건에 연루돼 옥살이를 한 이재오(79) 민주화운동기념사업회 이사장이 재심(再審)을 통해 44년 만에 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;서울고법 형사5부(재판장 권순형)는 8일 이 이사장의 국가보안법 위반 사건 재심에서 무죄를 선고했다. 이 이사장은 1979년 남민전 사건에 연루돼 구속됐고, 1980년 대법원에서 징역 5년에 자격정지 5년을 확정받았다. 이 이사장은 당시 한국민주투쟁국민위원회(민투)를 이끌었는데, 민투가 남민전 산하 조직이라는 혐의를 받았다. 재판부는 이 이사장이 남민전 활동에 가담했다거나 민투가 남민전 산하 조직이라고 볼 근거가 없다는 취지로 무죄를 선고했다. 앞서 이 이사장은 지난 5월 법원에 재심을 신청했다.&lt;br&gt;&lt;br&gt;남민전은 1976년 반유신 등을 내세워 설립된 지하조직으로, 운동 자금을 마련한다고 무장 강도 짓을 벌이기도 했다. 실제 북한과 연계를 시도했다는 의혹도 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이재명 ‘대북 송금’ 판사 “李 요청한 재배당 안돼”</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/09/C7RBYJ7J4ZCG3HXP5D7NGZQRFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/09/C7RBYJ7J4ZCG3HXP5D7NGZQRFM/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 08 Oct 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DGHWYHEF2ROA5DMTIWMLABMZRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 지난 9월 30일 서울 서초구 서울중앙지방법원에서 열린 '검사 사칭 위증교사 혐의' 결심 공판을 마친 뒤 법원을 나서고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표의 ‘불법 쌍방울 대북송금’ 사건을 맡은 재판부가 ‘재판부를 바꿔 달라’는 이 대표의 요청에 대해 “어려울 것 같다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;이 대표 측은 8일 수원지법 형사11부(재판장 신진우) 심리로 열린 두 번째 공판준비기일에서, 같은 사건으로 기소된 이화영 전 경기도 평화부지사에게 중형을 선고한 현 재판부가 이 대표 사건을 심리하는 것은 무죄 추정 원칙에 배치된다고 주장했다. 이 대표 측 변호인은 “현 재판부가 본의 아니게 이 사건 수사 기록을 사전에 검토하고, 이 대표를 대면하는 셈”이라며 “변호인 입장에서 보면 (재판부가) 아무런 사전 지식도 없는 백지상태에서 심리해야 공정할 것”이라고 했다.&lt;br&gt;&lt;br&gt;신진우 부장판사가 재판장을 맡은 형사11부는 이 대표와 공범 관계인 이화영씨 사건 1심을 20개월간 심리했고, 지난 6월 이씨에게 징역 9년 6개월을 선고했다. 이 대표 측 변호인은 지난달 30일 ‘다른 재판부로 재배당해 달라”는 의견서를 냈다.&lt;br&gt;&lt;br&gt;이에 검찰은 “재배당 요청 자체가 통상적인 사건에서 보기 힘든 특혜를 요구하는 것” “재판을 지연시키기 위한 주장”이라며 반대 의견을 냈다.&lt;br&gt;&lt;br&gt;신 부장판사는 “대법원 예규 등을 종합적으로 검토해 볼 때 이런 경우에 대한 명확한 법률 문헌상 근거가 없다”며 “재배당 요청을 받아들이면, 또 다른 헌법 가치를 저해할 위험이 있다”고 했다. 이어 “재판부에서 형사소송법에 따라 실체적 진실을 밝히고, 피고인 인권을 보호하는 방향으로 (재판을) 진행해야지, 재배당은 어려울 것 같다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>혼숙을 “혼자 숙박”으로… 우천시 취소엔 “어느 도시냐”</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/09/ZM7DGRULHFHX7AP5KTZRZIJYMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/09/ZM7DGRULHFHX7AP5KTZRZIJYMI/</guid>
+      <dc:creator>강지은 기자, 김도연 기자, 박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 08 Oct 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S73S3WYQAVGCXDHVJLKPAM4G2Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경주에서 펜션을 운영 중인 김모(45)씨는 지난 8월 한 고객에게서 “혼숙(混宿·남녀가 여럿이 한데 뒤섞여 잠)이 안 되는 특별한 이유가 있냐. 혼자 가고 싶었는데 아쉽다”는 예약 문의를 받고 어리둥절했다. 1분쯤 지나서야 문의자가 ‘혼숙’을 ‘혼자 숙박’이라는 뜻으로 썼음을 직감하고 “혼자서 숙박하실 수 있다”고 답변했다.&lt;br&gt;&lt;br&gt;수년 전 일부 청소년의 문제로 지목됐던 문해력 저하 현상이 2030 성인층 전반에서 나타나면서 일상생활 소통이 어려워지고 있다. 전문가들은 “일선 고교 현장에서 한자보다 영어 교육을 우선시하면서 한국어의 어휘력 기반 자체가 무너지고 있다”며 “이대로 수십 년이 지나면 서로 같은 한국어로 소통하는 일이 쉽지 않을 수도 있다”고 우려했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W3FF45TDEJHWFPSAZ5KRWTZQYE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;진학사 채용 플랫폼 ‘캐치’가 7일 Z세대(1990년대 중반~2000년대 초반에 태어난 세대) 시민 1344명을 조사한 결과 무려 61%가 ‘가결(可決·회의에서 의안을 합당하다고 결정함)’의 뜻을 모르는 것으로 나타났다. ‘가결’을 포함, ‘이지적(理智的)’ ‘북침(北侵)’ ‘무운(武運)’ ‘결재(決裁)’ ‘모집인원(募集人員): 0명’ 등 여섯 문항의 정답을 모두 맞힌 비율은 28%에 불과했다.&lt;br&gt;&lt;br&gt;일선 어린이집 교사들은 “가정통신문을 이해하지 못하는 일은 이미 비일비재하다”고 했다. ‘금일(今日)까지 지문 등록 동의서를 제출해 달라’고 공지하면 대부분이 금요일에 가져오고, ‘우천 시(雨天時) 행사가 취소될 수 있다’는 공지엔 “우천시(市)가 어디냐”고 묻는 식이다.&lt;br&gt;&lt;br&gt;종교 기관에서도 한자어가 대부분인 경전과 교리를 신도들이 이해하지 못하는 현상이 발생한다. 개신교회에선 고어체로 된 개역 성경 대신 ‘현대인의 성경’ ‘쉬운 성경’ 등을 도입했지만 이마저도 어렵다며 아예 영어 예배로 가는 신도들이 적잖다. 불교도 마찬가지다. 서울의 한 유명 사찰 관계자는 “법회 때마다 한글 풀이 불경을 나눠주고 진행하는데도 이마저도 이해를 못 한다”고 했다.&lt;br&gt;&lt;br&gt;젊은 층 문해력 저하의 원인으로는 부실한 한자 교육이 꼽힌다. 내년부터 시행될 예정인 고교학점제로 한문(한자) 교육이 더 부실해질 것이란 우려가 나온다. 한국어 어휘의 70%를 차지하는 한자어에 대한 이해도가 떨어지며 문해력 자체의 기반이 무너지고 있다는 지적이 상당하다. 충남의 한 국어 교사는 “일상적인 한자어의 의미를 확인하는 시험 문제의 정답률이 25~35% 정도로 해가 갈수록 떨어진다”고 했다. 울산의 한 교등학교 교감 이모(52)씨는 “수업 시수도 적고 수능도 치지 않기 때문에 한문 수업의 중요도가 많이 떨어졌다”고 했다.&lt;br&gt;&lt;br&gt;신종호 서울대 교육학과 교수는 “이 때문에 현 2030세대는 한자의 뜻을 배우지 않고 한글의 소리로만 낱말을 배운 세대”라며 “유사한 발음을 들으면 의미를 헷갈리고, 생소한 단어를 들으면 익숙한 소리로 의미를 대체하는 형편”이라고 했다. 그래서 대충돌(大衝突)을 대충 지은 돌[石] 이름으로, 시발점(始發點)을 욕설로, 족보(族譜)를 족발 보쌈 세트의 준말로, 두발(頭髮)을 두 다리로 착각하는 일이 발생한다는 것이다.&lt;br&gt;&lt;br&gt;한자어에 익숙하지 않은 2030세대가 사회에 진출하면서 기성세대와의 마찰도 잦아지고 있다. 현역병 정모(23)씨는 “입대 초반엔 ‘점호’ ‘당직사관’ ‘행정반’ 같은 단어 자체를 이해할 수 없어서 몇 달 동안 눈치로 때웠다”고 했다. 일반 회사에서 쓰이는 구두(口頭), 반려(返戾), 품의(稟議), 송부(送付), 하기(下記) 같은 단어를 전혀 이해하지 못해 ‘성인 대상 문해력 과외’를 받는 젊은 직장인들도 있다. 이 과외를 하는 강사 이승화(36)씨는 “한자어는 대부분 이해하지 못하고 문장을 구성해도 주술 호응이 안 되며, 그나마 서너 문장을 잇지 못하는 경우가 허다하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;문화체육관광부가 발표한 2023년 국민 독서 실태 조사 결과, 성인 종합 독서율은 43%였다. 10명 가운데 약 6명이 1년에 책 한 권도 읽지 않은 것으로, 10년 전(72.2%)보다 대폭 감소한 수치다. 오현석 부산대 국어교육과 교수는 “독서를 하면 정확한 한자어 뜻을 몰라도 단어 간 유추 능력으로 어휘력을 늘릴 수 있는데 현 상황은 우려스럽다”고 했다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;신종호 교수는 “한자 중심 문화에 속한 한국의 특성상 학술 용어 등 대다수 전문 용어는 순수 우리말이 아닌 한자어로 돼 있어 한자를 이해하지 않고는 그 개념을 깊이 있게 이해할 수가 없다”고 했다. 김덕호 사단법인 국어문화원 연합회장은 “젊은 세대에게 한자어의 개념과 기원을 익히도록 해 우리말로서 한자어에 익숙해지도록 교육 체계 자체를 바꿔야 한다”고 했다. &lt;b&gt;오현석 교수는 “청소년의 문해력 문제가 성인까지 연속적으로 이어지는데, 제도권 교육을 떠난 성인들이 어휘력·문해력을 높이기 가장 좋은 방법은 원론적이지만 꾸준한 독서”라고 했다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고려대 94학번, 입학 30년 맞아 5억</title>
+      <link>https://www.chosun.com/national/people/2024/10/09/5CHW23FNMJALZGPXYNERMDXFU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/09/5CHW23FNMJALZGPXYNERMDXFU4/</guid>
+      <dc:creator>김보경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 08 Oct 2024 15:35:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AZT3NCCGFNCNPB7GVAIWK27JSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/고려대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대는 94학번 졸업생들이 입학 30주년을 맞아 발전 기금 5억원을 기부했다고 8일 밝혔다. 이번 기부는 단체 기부 캠페인 ‘KU Circle for Miracle’의 일환으로 이뤄졌다. 김동원 총장은 “기부해주신 발전 기금은 개교 120주년 기념 사업을 성공적으로 수행하는 데 큰 도움이 될 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[인사] 행정안전부 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/10/09/3YCY2HBYY5GMFBJR5TLIBKHN6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/10/09/3YCY2HBYY5GMFBJR5TLIBKHN6M/</guid>
+      <description/>
+      <pubDate>Tue, 08 Oct 2024 15:35:00 +0000</pubDate>
+      <content:encoded>▲행정안전부◇과장급 전보▷성과관리담당관 김종수▷공무원단체과장 정명호&lt;br&gt;&lt;br&gt;▲기획재정부◇서기관 승진▷기획조정실 기획재정담당관실 이기웅▷운영지원과 박종훈▷예산실 예산정책과 신경아▷세제실 소득세제과 권순배▷경제정책국 종합정책과 최문성▷국고국 국고과 이재홍▷공공정책국 공공정책총괄과 이희한▷대외경제국 대외경제총괄과 김미진▷개발금융국 국제기구과 이상홍▷기획재정부 송혜영▷기획재정부 이경숙&lt;br&gt;&lt;br&gt;▲방위사업청◇부이사관 승진▷대변인 조용진▷정책조정담당관 도윤희&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 김봉민 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/10/09/6BBQ6EQVERGPVIJ5LFV377FTTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/10/09/6BBQ6EQVERGPVIJ5LFV377FTTU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 08 Oct 2024 15:35:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;김봉민&lt;/b&gt; 별세, &lt;b&gt;김대종&lt;/b&gt; 한국투자증권 정보보호담당 상무·&lt;b&gt;김경이·김현이&lt;/b&gt; 부친상=8일8시40분 여의도성모병원, 발인 10일5시, (02)3779-2182&lt;br&gt;&lt;br&gt;▲&lt;b&gt;강재희&lt;/b&gt; 별세, &lt;b&gt;박형태 &lt;/b&gt;아내상, &lt;b&gt;박중수&lt;/b&gt;·&lt;b&gt;박시수&lt;/b&gt; 스페이스레이더 대표 모친상=8일0시 한양대병원, 발인 10일8시, (02)2290-9456&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이영호&lt;/b&gt; 前 수원 중앙요양원장 별세, &lt;b&gt;김미자&lt;/b&gt; 前 중부대 성악과 교수 남편상, &lt;b&gt;이민&lt;/b&gt; 도르트문트 오페라극장 단원·&lt;b&gt;이내리&lt;/b&gt; 플루티스트 부친상, &lt;b&gt;강민구&lt;/b&gt; 이데일리 ICT부 기자 장인상=8일1시50분 충남대병원, 발인 10일11시, (042)280-8181&lt;br&gt;&lt;br&gt;▲&lt;b&gt;유장부&lt;/b&gt; 별세, &lt;b&gt;유정환&lt;/b&gt; 사업·&lt;b&gt;유창엽&lt;/b&gt; 연합뉴스 뉴델리 특파원·&lt;b&gt;유태월&lt;/b&gt; 사업·&lt;b&gt;유기환&lt;/b&gt; 사업 부친상=8일3시20분 춘천 교원예움 강원장례식장, 발인 10일8시30분, (033)261-4441&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정영애&lt;/b&gt; 별세, &lt;b&gt;최종원&lt;/b&gt; 배우 아내상, &lt;b&gt;최나래&lt;/b&gt; 배우·&lt;b&gt;최나미&lt;/b&gt; 잼엔터테인먼트 대표 모친상, &lt;b&gt;김옥수&lt;/b&gt; 블러썸이엔씨 이사 장모상=7일15시45분 서울대병원, 발인 10일10시, (02)2072-2091&lt;br&gt;&lt;br&gt;▲&lt;b&gt;천연섭&lt;/b&gt; 별세, &lt;b&gt;김종찬&lt;/b&gt;·&lt;b&gt;김종혁&lt;/b&gt; 국민의힘 최고위원 모친상=8일7시 동국대일산병원, 발인 10일7시30분, (031)961-9412&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한국어 배우는 베트남 공안들… ‘바람이 불어오는 곳’ 떼창도</title>
+      <link>https://www.chosun.com/national/people/2024/10/09/S2C7VWYIERBQXM4XVEL2TBTWVA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/09/S2C7VWYIERBQXM4XVEL2TBTWVA/</guid>
+      <dc:creator>아산=구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 08 Oct 2024 15:35:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RM5YHRR5OFEVNK6J5XJFOHJWDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 충남 아산 경찰인재개발원의 한 강의실에서 베트남 공안들이 한국어 수업을 듣고 있다./구아모 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“노래를 듣습니다.” “비빔밥을 좋아합니다.”&lt;br&gt;&lt;br&gt;지난 7일 충남 아산 경찰인재개발원의 한 강의실에서 한국어 문장을 서투르게 낭독하는 목소리가 들려왔다. 베트남 공안(경찰) 13명이 한국어 수업을 듣고 있었다. 이들은 ‘좋아합니다’ ‘좋습니다’ 같은 문장을 소리 내 읽으면서 한 글자씩 연필로 받아 적기도 했다. 한 수강생이 “야채을?”이라고 묻자 강사는 “받침이 없으면 뒤에 ‘를’을 붙여야 한다”고 고쳐줬다.&lt;br&gt;&lt;br&gt;베트남 공안들이 최근 한국에 와서 6주 과정 한국어 교육 프로그램을 소화하고 있다. 한국·베트남 교류가 매년 활성화하면서 베트남 내 한국어 수요가 커지고 있기 때문이다. 베트남 내 거주하는 한국인은 17만8000명. 지난달까지 베트남을 찾은 한국인 관광객은 333만여 명으로 베트남 내 1위다. 베트남의 대표적 휴양지 다낭은 한국인이 워낙 많아 ‘경기도 다낭시’라고 불릴 정도다.&lt;br&gt;&lt;br&gt;이 때문에 베트남 정부는 2016년 한국 정부에 한국어 교육 프로그램을 만들어달라고 요청했고 매년 베트남 경찰 10여 명이 한국을 방문해 기초 한국어 과정을 이수한다. 지금까지 수료자가 70명 안팎이다. 베트남 정부는 이 프로그램을 수료한 인력을 다낭 등 한국인 밀집 지역에 집중 투입하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한국인 범죄자들이 베트남에 도피하는 사건도 일어난다. 지난달에 태국 파타야에서 한국인 관광객을 살해한 피의자가 베트남으로 도주했다가 베트남 공안에 붙잡혀 지난달 24일 한국에 강제 송환됐다. 경찰은 지난 9월 기준 106명의 한국인 범죄자가 베트남에 도피했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZEUFSTZK2RCVDHQSYXWHLKBAXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 베트남 공안들이 전주 한옥마을을 찾아 한복을 입고 기념 사진을 촬영하고 있다./경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수강생들은 “업무 중 한국인을 상대할 일이 많아 수업을 듣게 됐다”고 한다. 다낭경찰서 소속 부 티트 엉 링(32)씨는 “우리 지역이 한국인 관광객이 제일 많은 곳인데, 한국 사람들과 관계를 맺을 일이 많아서 한국어 교육을 받게 됐다”고 했다. 호찌민 경찰서에서 한국인 거주 등록 관련 업무를 하는 다오 웅엔 비엣 헌(40)씨는 “한국인들이 공안이라고 하면 무서워하는 경우도 있는데 한국어로 가볍게 인사라도 건네면 친밀감이라도 쌓일 것 같아 신청하게 됐다”고 한다.&lt;br&gt;&lt;br&gt;부 비엣 하(27)씨는 “드라마 도깨비를 좋아하고, 가수 방탄소년단을 좋아한다”며 “돌아가서 한국인 범죄 사건 등에 한국어를 활용하고 싶다”고 했다. 수업 담당자인 오세열 경위(54)는 “자음, 모음 단계부터 차근차근 한국어를 배우는 데도 한국 문화에 관심이 많아 습득력들이 빠르다”며 “김광석씨의 ‘바람이 불어오는 곳’이나 쿨의 ‘아로하’ 같은 노래는 이미 베트남 현지에서도 유명해 한국어 학습 이해도가 높다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RM5YHRR5OFEVNK6J5XJFOHJWDI.jpg?width=4000&amp;height=3000&amp;auth=e901590915b052364f9ad796b7b26966551c3cd23c0bc9e9a2ff9c86b4e3aaaa&amp;smart=true" type="image/jpeg" height="3000" width="4000"/>
+    </item>
+    <item>
+      <title>다섯 쌍둥이 출산 부부에게… 매일유업, 1년간 분유 지원</title>
+      <link>https://www.chosun.com/economy/industry-company/2024/10/09/TDXMTBNGWBA4FGEGLZQGEKBULE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/economy/industry-company/2024/10/09/TDXMTBNGWBA4FGEGLZQGEKBULE/</guid>
+      <dc:creator>석남준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 08 Oct 2024 15:35:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TMTDTYYD6JHARBJJWMVZ6LKK5M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;다섯 쌍둥이 아버지 김준영씨(왼쪽)에게 매일홀딩스 고정수 최고운영책임자(COO)가 분유 지원을 약속하며 기념촬영을 하고 있다. /매일유업&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;매일유업이 지난달 국내 최초 자연 임신으로 다섯 쌍둥이를 출산한 김준영(31)·사공혜란(30)씨 부부에게 1년간 분유를 지원한다고 8일 밝혔다. 경기도 동두천시에 사는 사공씨는 지난달 20일 서울성모병원에서 아들 셋, 딸 둘을 출산했다. 자연 임신으로 다섯 쌍둥이가 태어난 건 국내에선 처음이고, 세계에서도 희귀한 일이다.&lt;br&gt;&lt;br&gt;매일유업은 다섯 쌍둥이의 출산을 축하하며 1년간 분유(앱솔루트 프리미엄 산양)를 지원하기로 결정했다. 앞서 윤석열 대통령이 자연산 미역과 아기 옷 다섯벌을, 지난 2021년 다섯 쌍둥이를 출산한 서혜정(33) 육군 소령은 유모차를 선물하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2024년 10월 9일</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/09/SLYYYUPRCZHOVC6J73BLZK7QKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/09/SLYYYUPRCZHOVC6J73BLZK7QKQ/</guid>
+      <description/>
+      <pubDate>Tue, 08 Oct 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BLX33AA53BA2ZA3NO4ZSKK6YHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [동물 이야기] 동물·사람 피 먹는 유일한 박쥐… 앞니로 피부 찢고 수십 분간 핥아 먹어요</title>
+      <link>https://www.chosun.com/national/nie/2024/10/09/EBLKKLBKIJEGPOYRMZD47TJJQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/10/09/EBLKKLBKIJEGPOYRMZD47TJJQA/</guid>
+      <dc:creator>정지섭 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 08 Oct 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L6YHYCPSK5C3TJ2WWKMGJTZSS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;흡혈박쥐는 보통 돼지나 소의 피를 빨아 먹으며 살아요. 피를 먹을 때 아주 작은 상처만 내기 때문에 동물들은 흡혈박쥐에게 물린 줄도 모르는 경우가 많답니다. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;얼마 전 스페인에서 박쥐의 생태를 연구하는 과학자들이 모여 국제회의를 열었어요. 회의에선 기후변화로 많은 박쥐들이 생존 위협을 받고 있다는 얘기와 함께, 흡혈박쥐가 지나치게 악마화되고 있다는 지적도 나왔죠. 포유동물의 피를 먹는 박쥐는 딱 한 종류뿐이고, 사람을 노리는 경우는 좀처럼 없는데 드라큘라 같은 전설과 영화·소설 때문에 공포가 부풀려졌다는 거예요.&lt;br&gt;&lt;br&gt;다 자란 흡혈박쥐는 몸길이가 9㎝, 활짝 편 날개 너비가 20㎝, 몸무게는 45g 정도로 아담해요. 멕시코, 브라질, 아르헨티나 등 중남미에 분포하죠. 오래전 유럽 사람들이 중남미로 탐험을 왔을 때, 이 박쥐를 발견하고 드라큘라를 비롯한 유럽의 흡혈귀 전설을 떠올려서 이런 이름을 갖게 됐어요.&lt;br&gt;&lt;br&gt;흡혈박쥐는 주로 소·돼지·말 등 가축의 피를 먹어요. 아주 드물게 사람의 피를 노리기도 한대요. 흔히들 상상하는 흡혈박쥐의 모습이 있죠. 어두운 밤 날개를 펄럭이며 목표물의 어깨나 가슴 위에 내려앉아 날카로운 이빨을 목에 콱 꽂고 피를 빨아먹는 모습이요. 흡혈박쥐는 실제로 야행성이긴 하지만 식사 모습은 우리 상상과는 많이 다르답니다.&lt;br&gt;&lt;br&gt;흡혈박쥐는 먹잇감을 찾기 위해 지면 위 90㎝ 높이로 저공비행을 해요. 그러곤 곤히 잠들어 있는 가축 근처 땅에 내려앉은 뒤 폴짝 점프하거나 기어서 몸으로 올라가요. 흡혈박쥐는 그 어떤 박쥐보다도 땅 위에서 능숙하게 걸을 수 있어요. 적당한 부위를 찾아낸 다음 날카로운 앞니로 피부를 찢어요. 그리고 흘러나오는 피를 혓바닥으로 핥아먹는 거죠.&lt;br&gt;&lt;br&gt;흡혈박쥐의 혓바닥은 오목하게 홈이 파져 있어 흐르는 피를 들이마시기에 알맞은 구조예요. 흡혈박쥐의 침엔 피가 굳지 않고 계속 흐를 수 있게 하는 항응고 성분이 있어요. 이렇게 20분 정도 피를 핥아 먹는데, 한 번에 자기 몸무게의 40% 무게까지 먹을 수 있답니다. 너무 피를 많이 먹어 배가 빵빵해진 채 가축 옆에 널브러져 있는 모습도 가끔 발견되죠.&lt;br&gt;&lt;br&gt;흡혈박쥐가 만들어내는 상처는 아주 작기 때문에 가축들은 자기에게 어떤 일이 일어났는지도 모른 채 잠을 잔답니다. 흡혈박쥐에게 물렸다고 해서 목숨을 잃는 건 아니지만, 흡혈박쥐가 이리저리 가축을 옮겨다니면서 상처를 내고 피를 먹는 과정에서 감염병이 퍼질 위험이 있죠.&lt;br&gt;&lt;br&gt;이들은 여느 박쥐무리들처럼 사회성이 아주 강해요. 수십 마리씩 모여 작은 무리를 이루고, 이 무리들이 다시 모여 수천 마리 규모의 집단을 만들어요. 무리 구성원들끼리는 동료애가 강한데, 마땅한 먹잇감을 찾지 못해 굶주린 동료를 위해 먹은 피를 게워주기도 해요. 흡혈박쥐는 영양분을 흡수하는 속도가 매우 빨라서 이틀만 피를 먹지 못해도 굶주려 죽을 수 있거든요. 암컷이 어린 새끼를 키울 때도 젖을 뗄 무렵이 되면 피를 게워서 먹인답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [예쁜 말 바른 말] [365] ‘아람’과 ‘보늬’</title>
+      <link>https://www.chosun.com/national/nie/2024/10/09/IY47YXLFTREH3IS5RLKB7SFPSA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/10/09/IY47YXLFTREH3IS5RLKB7SFPSA/</guid>
+      <dc:creator>류덕엽 교육학 박사·전 서울 양진초 교장</dc:creator>
+      <description/>
+      <pubDate>Tue, 08 Oct 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UADHVWOTXFDJ5FIJZWCNU746GY.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;* 커다란 밤나무가 바람에 흔들거리자 쩍 벌어진 밤송이 속 영근 아람이 툭툭 떨어졌다. 할머니는 굵은 아람만 골라 보늬를 벗겨 내어 손주들에게 나눠 주셨다.&lt;br&gt;&lt;br&gt;이 문장에 있는 ‘아람’과 ‘보늬’는 무슨 뜻일까요? 오늘 578돌 한글날을 맞아 가을과 관련된 예쁜 순우리말을 알아봅시다.&lt;br&gt;&lt;br&gt;‘아람’은 ‘밤이나 상수리 따위가 충분히 익어 저절로 떨어질 정도가 된 상태 또는 그런 열매’를 뜻해요. 예를 들면 ‘흔들지도 않은 밤나무 가지에서 남은 밤송이가 저 혼자 아람이 벌어져 떨어져 내렸다’와 같이 써요. 유의어는 ‘알밤’ ‘열매’이고, ‘아름’은 비표준어입니다. 관용구 ‘아람 벌다’는 아람이 활짝 벌어지는 것을 말하고, ‘아람 불다’는 아람이 나무에서 떨어지거나 곧 떨어질 상태에 있는 것을 말해요.&lt;br&gt;&lt;br&gt;‘보늬’는 밤이나 도토리 따위의 속에 있는 얇고 떫은맛이 나는 속껍질을 뜻해요. 예를 들면 ‘할머니는 꼼꼼하게 밤의 보늬를 벗겨 내셨다’와 같이 써요. 유의어는 ‘속껍질’ ‘내피(內皮)’ ‘본의(本衣)’이고, ‘버네’는 경기도나 충청도에서 쓰는 방언입니다.&lt;br&gt;&lt;br&gt;[예문]&lt;br&gt;&lt;br&gt;-과수원을 거닐며 토실한 아람을 주웠다.&lt;br&gt;&lt;br&gt;-보늬 밤 조림은 알맹이를 감싼 보늬를 벗겨 내지 않고 조려서 씹는 맛이 특별하고 몸에도 좋다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [숨어있는 세계사] 녹슨 공장지대와 기술혁신 중심… 美 대선 최대 격전지죠</title>
+      <link>https://www.chosun.com/national/nie/2024/10/09/CYD5P5X5XFC4ZFFU2DTQLF6YAY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/10/09/CYD5P5X5XFC4ZFFU2DTQLF6YAY/</guid>
+      <dc:creator>윤서원 서울 단대부고 역사 교사, 기획·구성=윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 08 Oct 2024 15:30:00 +0000</pubDate>
+      <content:encoded>미국 대통령 선거가 한 달 앞으로 다가온 가운데, 후보인 공화당의 도널드 트럼프 전 대통령과 민주당의 카멀라 해리스 부통령이 미 전역을 돌며 선거 유세를 벌이고 있어요. 얼마 전 트럼프는 미시간주(州)에서 선거 유세를 하며 “내가 대통령이 되면 미국 어디서도 내연기관 자동차·트럭을 금지할 수 없을 것”이라고 말해 화제가 됐었는데요. 트럼프는 왜 이런 말을 했을까요?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3JTU7F2YXZGV7PPIYI2AHIXMKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미국 펜실베이니아주 '베들레헴 스틸' 공장이 녹슨 상태로 남겨져 있는 모습이에요. 세계 최대 규모 철강회사였던 베들레헴 스틸은 제조업 쇠퇴로 어려움을 겪다가 결국 2003년 문을 닫았어요. /브리태니커&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미시간주는 미국 북동부의 ‘러스트벨트’(Rust Belt·쇠락한 제조업 중심 지역)를 상징하는 지역이에요. 미시간주는 과거 세계 자동차 산업의 중심지였지만 지금은 쇠락한 상태죠. 이런 상황에서 트럼프는 평소 전기차와 친환경 에너지를 지지하는 해리스를 의식하고 이런 발언을 한 것으로 해석돼요. 이곳에선 2016년 대선 때는 트럼프가, 2020년 대선에선 민주당의 조 바이든 대통령이 우세였어요. 러스트벨트는 이번 대선에서 승패를 판가름할 최대 격전지로 꼽혀요.&lt;br&gt;&lt;br&gt;선벨트(Sun Belt·일조량이 많은 남부 지역) 역시 격전지입니다. 미국 남부 주들을 잇고 있는 선벨트는 남동쪽 버지니아와 플로리다에서 남서쪽 네바다와 남부 캘리포니아까지 이어진답니다. 이번 미 대선에선 이 두 지역에서 승리하는 후보가 대통령이 될 것이라는 전망이 많아요. 오늘은 러스트벨트와 선벨트라는 용어가 어떻게 생겨났는지, 그리고 두 지역의 특징은 뭔지 알아볼게요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IKWMCFQSRFAONC3IJ4ME5OVB3Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;철강 노동자 앞 연설 이후 유명해진 ‘러스트 벨트’&lt;/b&gt;&lt;br&gt;&lt;br&gt;미국 사회에서 ‘벨트’는 비슷한 사회·경제·문화적 특성을 공유하는 지역들을 한데 묶어 표현하는 말이에요. 보통 산업이나 기후를 기준으로 삼는답니다. 대표적인 예가 ‘러스트벨트’와 ‘선벨트’예요. 러스트벨트는 인디애나·일리노이·미시간·미주리·오하이오·위스콘신·펜실베이니아·웨스트버지니아·뉴욕주에 걸쳐 있죠. ‘러스트(Rust)’는 ‘녹(綠)’이란 뜻인데요, 이 지역 산업이 쇠퇴해 공장에 녹이 슬었다는 의미에서 붙여진 이름이에요.&lt;br&gt;&lt;br&gt;러스트벨트라는 말은 1984년 민주당 대선 후보였던 월터 먼데일이 오하이오주의 철강 노동자들 앞에서 한 연설 이후 널리 쓰이기 시작했답니다. 당시 먼데일은 공화당 출신 로널드 레이건 대통령의 경제 정책을 비판하기 위해 “산업 도시를 녹슨 땅으로 만들고 있다”고 말했어요.&lt;br&gt;&lt;br&gt;그러나 이 지역은 눈부신 발전을 거듭했던 기간도 있었어요. 철광석과 석탄이 많이 매장된 지역이라 19세기 제철 산업과 금속 관련 제조업이 크게 성장했고, 이를 바탕으로 기계와 자동차 산업의 중심지가 되기도 했죠. 미시간주에서 가장 큰 도시 디트로이트는 ‘자동차 도시(Motor City)’라는 별명을 얻을 정도였어요.&lt;br&gt;&lt;br&gt;하지만 이 지역은 1960년대 후반부터 내리막길을 걷게 됩니다. 기술 발전으로 공장이 자동화되면서 이전보다 필요한 노동력이 줄었고, 또 많은 미국 기업들이 인건비를 줄이기 위해 아시아와 남미로 공장을 옮겼거든요.&lt;br&gt;&lt;br&gt;&lt;b&gt;목화 재배하던 선벨트, 첨단 기술 중심지됐죠&lt;/b&gt;&lt;br&gt;&lt;br&gt;반대로 선벨트는 한창 성장하고 있는 지역이에요. 선벨트라는 말은 1960년대 미국 공화당의 전략가 케빈 필립스가 춥고 눈이 많이 오는 미국 북동부와 이 지역을 대비하기 위해 처음 사용했어요. 20세기 전만 해도 미국 남부 지역은 ‘코튼 벨트(Cotton Belt)’라고 불릴 정도로 목화 재배를 많이 한 농업 지역이었어요. 하지만 온화한 기후와 상대적으로 낮은 인건비·세율 등으로 20세기 후반부턴 여러 산업이 몰려들기 시작했죠. 석유·항공우주·군사·IT 관련 산업이 대표적이에요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I62VDIXTUZBEJF3J6L5H4UJGTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미국 남부 텍사스주에 있는 휴스턴시 전경이에요. 선벨트 지역 대표 도시 중 한 곳인 휴스턴은 1961년 미 항공우주국(NASA)의 우주 센터가 건립된 후 다양한 항공우주·에너지 관련 기업들도 들어섰답니다. /게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;예를 들어, 선벨트에 속한 텍사스주 휴스턴엔 1961년 미 항공우주국(NASA)의 ‘우주 센터’가 들어섰어요. 이후 휴스턴엔 항공우주 관련 기업들이 잇따라 자리 잡으며 ‘우주 도시(Space City)’로 불릴 정도가 됐어요. 1970년대 ‘오일쇼크’ 이후 텍사스의 석유 산업도 빠른 속도로 성장했죠. 또 1990년대 이후에는 캘리포니아주와 텍사스주가 세계적인 기술 혁신의 중심지가 됐습니다. 뉴욕의 살인적인 땅값을 피해 선벨트 지역으로 옮겨온 금융·IT 기업들도 있어요. 살기 좋은 따뜻한 기후에 일자리도 많아지니, 최근엔 북동부와 중서부에서도 많은 사람이 선벨트로 이주해오고 있답니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;‘승자 독식’ 미국 대선, 경합주 승리가 중요해요&lt;/b&gt;&lt;br&gt;&lt;br&gt;트럼프와 해리스는 이런 지역적 특성을 고려해 두 지역에서 집중적인 선거 유세를 벌이고 있습니다. 미국의 대통령 선거는 우리나라처럼 가장 많은 표를 얻은 사람이 당선되는 방식이 아니에요. 미국은 주(州)별로 인구에 비례한 선거인단을 갖고 있는데요, 주마다 투표를 해서 승리한 후보 측에 선거인단을 모두 몰아주는 ‘승자 독식’ 방식이랍니다. 미국 전체 선거인단 538명 중 최소 과반인 270명을 확보해야 대통령이 될 수 있어요. 이 때문에 정치 성향이 확고한 주보다는 지지율이 엇비슷한 ‘경합주’에서 표를 가져오는 것이 중요하죠.&lt;br&gt;&lt;br&gt;트럼프는 2016년 대선에서 펜실베이니아·미시간·위스콘신 등 러스트벨트에서 승리를 거뒀었는데요. 당시 “미국을 다시 위대하게(Make America Great Again)”라는 구호를 내세우며 쇠락한 제조업을 살리고 블루칼라(생산직 노동자)의 어려움을 해결하겠다고 약속해 지지를 받았어요. 트럼프는 제조업 일자리 회복을 약속하며 다시 이 지역에서의 승리를 노리고 있답니다.&lt;br&gt;&lt;br&gt;선벨트는 전통적으로 공화당 지지세가 강한 지역이에요. 또 새로 성장하는 기업체가 많은 만큼 세금 인하와 규제 완화를 지향하는 공화당의 경제 정책을 선호하죠. 선벨트가 펼쳐진 남부 지역은 가족 중심의 전통적 가치관을 중시하는 경향이 있어 보수적인 사회 정책을 지지하기도 하는데요, 그중에서도 기독교 신앙이 강한 미국 동남부 주들은 ‘바이블벨트(Bible Belt)’로 묶이기도 해요.&lt;br&gt;&lt;br&gt;그런데 최근엔 일자리를 찾아 몰려든 젊은 세대가 늘어나면서 선벨트에서도 민주당의 입지가 커지고 있어요. 이 지역에선 최근 이민자도 많아지고 있는데요, 해리스는 다양성을 강조한 정책을 제안해 이민자 커뮤니티의 지지를 끌어내려고 노력하고 있답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘광주형 일자리’ GGM 노조, 쟁의행위 85.9% 가결... 무파업 약속도 깨나</title>
+      <link>https://www.chosun.com/national/labor/2024/10/08/VYZADJTCUBCCNE4UTBTABXIOBU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/10/08/VYZADJTCUBCCNE4UTBTABXIOBU/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>광주글로벌모터스(GGM) 노조는 임금·단체협약(임단협) 교섭 쟁의행위 찬반투표가 85.97％의 찬성률로 가결됐다고 8일 밝혔다.</description>
+      <pubDate>Tue, 08 Oct 2024 14:20:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RJ4NOZRZX5DPJEKL6UNJAY2M6Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;광주 글로벌모터스(GGM)의 전기차 '캐스퍼' 생산라인./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주글로벌모터스(GGM) 노조는 임금·단체협약(임단협) 교섭 쟁의행위 찬반 투표가 85.97％의 찬성률로 가결됐다고 8일 밝혔다. 이는 GGM노조가 파업을 위한 쟁의권을 확보했다는 의미로 언제든 파업에 나설 수 있다는 뜻이다.&lt;br&gt;&lt;br&gt;GGM 노조 등에 따르면 전날부터 이날 오후까지 이어진 찬반 투표에는 지회 조합원 222명 중 202명이 참여해 190명이 파업에 찬성했다. 쟁의행위 찬반 투표가 이어진 건 노사의 임단협 관련 교섭이 원활히 진행되지 않고 있기 때문이다. 양측은 지난 7월부터 교섭 중이지만 제대로 된 협상 테이블 조차 차리지 못하고 있다. 노조는 업무시간 중 회사 안에서 교섭할 것을 요구하고 있지만, 사측은 업무를 마친 후 회사 밖인 광주그린카진흥원에서 교섭하자고 맞섰다.&lt;br&gt;&lt;br&gt;이달 4일과 7일 열린 전남지방노동위원회 주관 조정 회의에도 노사 양측은 조정안을 마련하지 못해 오는 17일까지 추가 회의를 갖기로 협의한 상황이다. 업계에선 파업 가능성이 커졌다는 분석이 나온다.&lt;br&gt;&lt;br&gt;GGM은 2019년 문재인 정부 시절 국정 과제로 추진된 ‘광주형 일자리’ 사업을 통해 만들어진 자동차 위탁 생산 회사다. 광주시, 현대차, 산업은행 등이 출자하고 한국노총, 지역 시민단체 등이 참여해 ‘완성차 업계보다 적은 연봉을 받고 누적 생산 35만대까지 파업을 하지 않겠다’는 협약을 맺었다. 그러나 이는 일종의 노·사·민·정 간의 신사협정이었기 때문에 법적 구속력은 없다. GGM의 차량 생산량은 지난해까지 11만대다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“해외 나온 북한 요원들은 ‘국정원이 나 좀 안 건드려 주나’ 한다”</title>
       <link>https://www.chosun.com/national/weekend/2024/10/05/BEOZEK75UNDMRKJOPJQJMQZDZ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2024/10/05/BEOZEK75UNDMRKJOPJQJMQZDZ4/</guid>
@@ -779,68 +956,6 @@ A 씨는 지난 5월 3일 일당 2명과 태국 방콕의 클럽에서 한국인
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O63IPFEL6NAWNGZTJCHYYFRU5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구에 사는 가정주부 최모(46)씨는 요즘 심한 코 막힘과 눈 따가움으로 약물 치료를 받고 있다. 진단은 알레르기성 비염과 결막염이다. 최씨는 돼지풀 꽃가루 알레르기 환자다. 잡초 중 하나인 돼지풀은 알레르기 항원이 많아서 알레르기를 일으키는 주범으로 꼽힌다. 전국적으로 분포하며 하천 주변이나 숲, 공원 등에 많다. 동네 하천 주변을 산책하면 최씨의 비염 증세는 심해진다.&lt;br&gt;&lt;br&gt;그는 매년 시즌마다 겪는 계절형 알레르기 환자이기에, 돼지풀 꽃가루가 심한 8월 말이나 9월 초를 항상 긴장하며 지냈다. 하지만 올해는 9월 초에 알레르기 증세를 겪지 않고 지내다가 10월이 돼서야 시달리고 있다. 지난여름 폭염이 극심한 데다, 무더위가 9월 하순까지 이어져 꽃가루 생성이 줄고, 발생 시기도 늦춰진 탓이다. 삼성서울병원 알레르기내과 강노을 교수는 “공기가 건조해지고, 선선해지기 시작하던 8월 말이나 9월 초에 진료실을 찾던 알레르기 환자들이 올해는 9월 말과 10월 초에 몰려오고 있다”며 “환자들도 자신의 증세가 늦게 나타난 것을 신기해한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K34QQNFZSBDMFGIZCBOYDWSQ5Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건강보험심사평가원 2021년 통계에 따르면, 알레르기 환자는 봄·가을에 많다. 9월에 257만여 명으로 가장 많고, 그다음이 4월(243만여 명)이다. 하지만 올해는 긴 여름 탓에 10월에 환자가 가장 많을 것으로 추산된다.&lt;br&gt;&lt;br&gt;한반도가 무더운 여름이 길게 늘어난 아열대성 기후로 변하면서 질병 발생 패턴이 바뀌고 있다. 요즘 선선하고 서늘한 아침 공기로 천식 증세를 보이는 환자가 늘고, 코점막 과민 반응으로 재채기를 하거나 콧물을 훌쩍이는 감기 유사 증세를 호소하는 이가 증가했다. 일교차가 커지고 공기가 건조해지기 시작하는 9월경 늘기 시작하던 환절기 호흡기 질환이 10월로 옮겨 온 것이다.&lt;br&gt;&lt;br&gt;온난화 여파로 우리나라 계절은 여름이 극단적으로 길어지는 변화를 겪고 있다. 100년 새 여름은 한 달 가까이 늘어난 반면, 겨울은 20일이 줄었다. 기상청이 1912년부터 기록이 존재하는 전국 관측 지점 6곳(서울·인천·대구·부산·강릉·목포)을 기준으로 최초 9년(1912~1920년)과 최근 10년(2011~2020년)의 여름 길이를 비교한 결과 96일에서 127일로 31일(32.3%) 늘었다. 같은 기간 겨울은 107일에서 87일로 20일(18.7%)이 줄었다. 가을은 74일에서 64일로 열흘, 봄은 88일에서 87일로 하루가 각각 줄었다.&lt;br&gt;&lt;br&gt;뇌졸중은 대개 추운 겨울에 환자가 많았다. 하지만 최근 수년간 여름 무더위가 지속되면서, 탈수가 뇌졸중 촉발 요인으로 작용해 7월에 많고, 일교차가 커진 10월에도 발생 환자가 많아졌다. 올해도 이와 비슷한 뇌졸중 발생 패턴을 보일 것으로 예상되므로 뇌졸중에 대한 경각심이 필요하다. 질병관리청에 따르면, 한 해 뇌졸중 발생 환자는 10만8900여 명이다(2021년).&lt;br&gt;&lt;br&gt;가을철 야외 활동 과정에서 걸리게 되는 진드기 매개 질병이나 쓰쓰가무시병에 대한 위험이 더 커질 가능성도 있다. 높은 기온은 진드기와 진드기들이 전파하는 병원체의 번식을 촉진할 수 있기 때문이다. 진드기의 활동 시기도 높은 기온에 따라 길어지므로, 올해는 예년보다 늦은 가을까지 진드기 물림 감염병 위험이 계속될 수 있다.&lt;br&gt;&lt;br&gt;진드기는 주로 풀밭이나 덤불, 농작업을 하는 환경에 서식한다. 야외 활동 할 때는 진드기에게 물리지 않도록 가능한 한 긴팔과 긴바지를 입고, 맨살이 풀에 닿지 않도록 해야 한다. 야외에서 휴식할 때는 맨바닥에 앉지 말고, 돗자리를 쓰는 게 좋다. 야외 활동 후 몸에 벌레 물린 상처가 있거나 검은 딱지가 생겼으면 신속히 병원을 찾아야 한다.&lt;br&gt;&lt;br&gt;올겨울 독감과 코로나19 유행 시기도 늦춰질 것으로 예상된다. 고려대구로병원 감염내과 김우주 교수는 “독감은 날씨가 쌀쌀해지면서 실내에 머무는 시간이 늘고, 사람과의 접촉이 밀접해지면서 유행하는데, 올해는 그 시기가 늦춰질 것으로 예상된다”며 “지난여름에 기온에 상관없이 유행하던 코로나19 감염자가 많았는데, 이들의 항체 면역력이 떨어지는 시기인 12월경에는 코로나19가 다시 유행할 것으로 보인다”고 말했다. 김 교수는 “그래도 독감 백신은 10~11월 예정된 시기에 맞아 두는 게 좋다”며 “코로나19 재유행에 대비해 고령자와 만성질환자들은 독감과 코로나19 백신을 양쪽 팔에 하나씩 동시에 접종받는 것을 권장한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>27주 미숙아 항공 이송 작전… 한·일 의료진 머리 맞댔다</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/10/08/3FK5XPT4FJG47NC7LDKCBZEXK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/08/3FK5XPT4FJG47NC7LDKCBZEXK4/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Oct 2024 20:02:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6Z7NBYTSFBKROFC4F7HO457QI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 김포공항에서 일본 도쿄로 향하는 여객기 내부에 설치된 인큐베이터에 일본 아기가 누워 있다. 지난 8월 16일 세브란스병원에서 690g의 초미숙아로 태어난 아기는 의료진 도움으로 이날 기준 1.4㎏으로 체중이 늘었다. /세브란스병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광복절인 지난 8월 15일 밤 11시쯤, 세브란스병원 응급실로 한 40대 일본인 산모가 119 구급차에 실려왔다. 한국으로 ‘태교 여행’을 왔다가 극심한 진통을 느낀 27주 차 임신부였다. 자궁 내 아기가 반대로 들어서 있는 악조건이었다. 분만을 담당한 이준호 교수는 “자궁경부가 열리면서 산통이 심해져 응급 분만을 할 수밖에 없는 상황이었다”고 했다.&lt;br&gt;&lt;br&gt;8월 16일 오전 1시 30분, 제왕절개 수술을 통해 690g의 초(超)미숙아가 태어났다. 아기는 태어난 직후 신생아집중치료실(NICU)로 옮겨져 치료를 받았다. 맥박과 호흡 등 바이탈 사인(필수 생체 신호)이 비교적 안정적으로 유지되자, 태어난 지 한 달여쯤 지난 추석 연휴에 일본으로 이송이 결정됐다. 아기 몸무게도 1.4kg으로 늘었다. 하지만 상황이 만만치 않았다. 미숙아들은 체온 조절 등을 할 수 없어 인큐베이터에 들어있는 상태로 이송해야 하기 때문이다. 만일의 사태에 대비하기 위해 전문 의료진도 동행해야 했다.&lt;br&gt;&lt;br&gt;주치의인 박민수 교수 등 신생아과 교수들은 회의 끝에 아기를 직접 일본으로 이송하기로 결정했다. 이수민 교수가 공항 당국과 항공사(대한항공), 일본 측과 긴밀한 연락을 주고받으며 ‘이송 작전’을 짰고, 한정호 교수와 조수진 간호사가 동행을 자원했다. 아기가 태어난 날 당직 근무를 하고 있던 한 교수는 출산 직후부터 아이를 돌봐왔고, 조 간호사는 일본어에 능통했기 때문이다.&lt;br&gt;&lt;br&gt;‘디데이(D-Day)’는 지난 4일. 오전 6시 아기가 들어있는 인큐베이터를 실은 앰뷸런스가 병원을 나섰다. ‘1차 목적지’는 오전 9시 김포공항을 출발해 일본 도쿄 하네다공항으로 가는 대한항공 항공편. 아기와 의료진를 태운 앰뷸런스는 곧장 활주로로 직행했다. 사전에 공항 측 협조를 받았기에 가능한 일이다. 앰뷸런스에 동승했던 아기 엄마는 공항 출국장을 거쳐 정상 수속을 밟고 항공기에 탑승했다.&lt;br&gt;&lt;br&gt;국내에서 태어난 초미숙아를 인큐베이터에 넣어 해외로 이송한 것은 이번이 처음이다. 대한항공은 항공기 내 좌석 6개의 의자를 젖혀 인큐베이터를 설치할 공간을 마련했다. 간이 커튼도 설치해 아기에게 다른 승객들의 관심이 쏠리는 것을 막았다.&lt;br&gt;&lt;br&gt;한 교수와 조 간호사는 비행 내내 인큐베이터 모니터로 아기의 바이탈 사인을 확인했다. 난기류가 심한 일부 구간에서는 아기를 인큐베이터에서 꺼내 품에 안고 가기도 했다. 인큐베이터가 흔들려 아기가 다치는 상황에 대비한 것이다.&lt;br&gt;&lt;br&gt;오전 11시 40분쯤 항공기가 일본 도쿄 하네다 공항에 도착했다. 다른 승객들이 항공기에서 다 내린 후 일본 국립성육의료센터 의료진이 탑승했다. 아기를 인계받기 위해 온 것이다. 한국 의료진으로부터 아기의 건강 상태에 대한 설명을 들은 일본 측 의료진은 아기를 겉싸개로 꽁꽁 싸서 활주로에 대기하고 있던 앰뷸런스로 이동해 아기를 병원으로 이송했다.&lt;br&gt;&lt;br&gt;아기 엄마는 일본에 도착한 직후 한 교수와 조 간호사에게 울먹이며 “정말 고맙다”고 말했다고 한다. 조 간호사도 울먹이며 아기와 작별 인사를 했다. 한 교수는 “환자의 안전을 우선시하고, 환자와 보호자를 존중하는 마음으로 이송을 지원하게 된 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYZ4BG7G5NEDPCIKPQAYUEGO2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세브란스병원에서 초미숙아로 태어난 일본인 신생아의 엄마가 일본으로 돌아가기 전 이 병원 신생아집중치료실 의료진에게 전달한 편지. /세브란스병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아기 엄마는 일본으로 출발하기 전날, 세브란스병원 신생아집중치료실 의료진에게 서툰 한국어로 쓴 편지를 전달했다. “갑자기 한국 생활이 시작되면서 고독과 불안으로 가득 찼는데, 세브란스 의료진에게 격려를 받았고 그것이 유일한 ‘힐링’이었습니다. 아기를 크게 키워주셔서 감사합니다. 아기가 크면 (세브란스병원에) 놀러올 테니 잘 부탁드립니다.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>노벨 의학상에 암·당뇨병 등 난치병 치료 열쇠 찾아낸 과학자들</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/08/JAKCTDMZP5GWPB4SCVOWTTISQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/08/JAKCTDMZP5GWPB4SCVOWTTISQA/</guid>
-      <dc:creator>김철중 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Oct 2024 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LNTMCKR4L5LQVL5JUEIXJ65JXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;게리 러브컨 미국 하버드 의대 교수(왼쪽)와 빅터 앰브로스 미국 매사추세츠 의대 교수. /AP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해의 노벨 의학상은 세포에서 유전자 기능을 조절하는 핵심 원리 마이크로리보핵산(microRNA)을 발견한 2명의 미국 과학자에게 돌아갔다. 이들의 발견은 1993년에 이뤄졌다.&lt;br&gt;&lt;br&gt;스웨덴 카롤린스카 연구소 노벨위원회는 “2024 노벨 생리의학상 수상자로 분자 생물학자인 미국 매사추세츠 의대 빅터 앰브로스(Victor Ambros·71)와 하버드 의대 게리 러브컨(Gary Ruvkun·72) 교수를 선정했다”고 7일 발표했다.&lt;br&gt;&lt;br&gt;노벨위원회는 “이들은 암을 포함한 난치병을 고칠 수 있는 차세대 치료제의 비밀 열쇠로 여겨지는 마이크로RNA를 발견하여 인류가 난치병 정복에 한 걸음 더 다가가는 데 기여했기에 노벨 의학상을 시상한다”고 밝혔다.&lt;br&gt;&lt;br&gt;이로써 노벨 의학상은 지난해 코로나19 백신 개발에 결정적인 기여를 한 메신저리보핵산(mRNA) 연구자들이 받은 데 이어 2년 연속 RNA 관련 연구 성과가 수상하게 됐다.&lt;br&gt;&lt;br&gt;수상자인 빅터 앰브로스와 게리 러브컨 교수는 1990년대 초반 미생물인 예쁜꼬마선충의 배아 발생에 영향을 주는 유전자를 찾다가 마이크로RNA를 처음 발견했다. 이후 마이크로RNA가 세포의 발생, 성장, 노화 등을 조절하는 유전자 발현 과정에 핵심 역할을 한다는 사실이 밝혀졌다. 마이크로RNA가 비정상적으로 작동되면 암, 당뇨병 또는 자가면역과 같은 심각한 질병이 발생할 수 있다. 마이크로RNA 발견으로 이런 과정을 이해하게 됐고, 유전자 조절이라는 새로운 세계로 접근할 수 있게 됐다. 두 과학자는 1980년대 후반 2002년 노벨상을 수상한 로버트 호비츠 박사 연구실에서 연구원 생활을 같이 했는데, 이것이 마이크로RNA를 발견하는 계기가 됐다.&lt;br&gt;&lt;br&gt;노벨상은 7일 의학상을 시작으로, 8일에는 물리학상, 9일 화학상, 10일 문학상이 발표되며, 11일 평화상을 거쳐 14일 경제학상으로 막을 내린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>디딤돌소득 받은 31%… 근로소득 오히려 증가</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/08/DAR6RLTDAVB2XHNKWJO5TZNGXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/08/DAR6RLTDAVB2XHNKWJO5TZNGXM/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Oct 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VFNF3CETJFMGHII52D2D3T6VDY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 7일 서울 중구 동대문디자인플라자(DDP)에서 열린 '2024 서울 국제 디딤돌소득 포럼' 개회식에서 환영사를 하고 있다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 가구 소득이 적을수록 더 많은 현금을 지원하는 ‘디딤돌 소득(안심 소득)’의 시범 운영 결과를 7일 공개했다.&lt;br&gt;&lt;br&gt;디딤돌 소득은 가구 소득과 상관없이 일정 금액을 주는 ‘기본 소득’과 달리 가구 소득이 적을수록 더 많은 현금을 준다. 가구 소득이 중위 소득의 85%(4인 가구 기준 487만원) 이하면서 재산이 3억2600만원 이하인 가구에 차등적으로 현금을 지원한다. 가구 소득이 중위 소득의 85%보다 적으면 그 차액의 절반을 주는 방식이다.&lt;br&gt;&lt;br&gt;서울시가 2022년 477가구를 대상으로 처음 실험했고 작년에는 그 대상을 1533가구로 늘려 1년간 2차 실험을 벌였다. 서울시는 이날 중구 동대문디자인플라자(DDP)에서 ‘2024 서울 국제 디딤돌 소득 포럼’을 열고 2차 실험 결과를 발표했다.&lt;br&gt;&lt;br&gt;그 결과에 따르면, 지원 전후 지원 대상 1533가구 중 476가구(31.1%)의 근로소득이 증가했다. 서울시 관계자는 “현행 기초생활 보장 제도는 일을 해서 소득이 생기면 수급 자격을 잃고 다시 자격을 회복하기 어려운데, 디딤돌 소득은 가구 소득이 중위 소득의 85% 이상으로 늘어나면 일시적으로 현금 지원이 중단됐다가 줄어들면 자동으로 다시 현금이 지급된다”며 “이런 구조 덕분에 수급자들이 일하는 데 부담이 없는 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;실험 대상 가구 중 132가구(8.6%)는 소득이 중위 소득의 85%를 넘어 지원 대상에서 벗어났다.&lt;br&gt;&lt;br&gt;이날 포럼에는 미국 ‘오픈AI’의 CEO(최고경영자) 샘 올트먼이 한 기본 소득 실험의 책임자인 엘리자베스 로즈 박사가 참석했다. 올트먼의 기본 소득 실험은 2020년부터 3년간 미국 주민 1000명을 대상으로 매달 기본 소득 1000달러를 주고 변화를 살핀 것이다. 미국 내에서 가장 큰 기본 소득 실험으로 꼽힌다. 실험 결과 기본 소득을 받은 가구의 소득은 현금을 지원받았는데도 연간 2500~4100달러 줄었다. 주당 근로시간도 평균 1.3시간 감소했다. 현금을 지원받으면서 근로 욕구가 떨어져 전체 소득은 오히려 감소했다는 분석이 나온다. 로즈 박사는 “수입이 많은 사람들에게는 현금이 도움을 주지 못했다”며 “모두에게 다 같은 돈을 주는 건 효율적이지 못할 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;오세훈 시장은 “디딤돌 소득이 가구 소득을 늘리고 근로 의욕도 꺾지 않는다는 사실이 입증되고 있다”며 “내년 하반기에는 디딤돌 소득을 전국으로 확산시키는 데 시동을 걸겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>우리금융저축銀·캐피탈도 손태승 친인척에 14억 대출</title>
-      <link>https://www.chosun.com/economy/stock-finance/2024/10/08/AV5T45KXNJEWVE3OWCWR76PV3I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/economy/stock-finance/2024/10/08/AV5T45KXNJEWVE3OWCWR76PV3I/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Oct 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5IAGACYQNRIPNMGV7QYKBB6DOE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;7일 서울 중구 우리은행 본점. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;손태승 전 우리금융 회장의 친인척이 우리은행에서 350억원대 부당 대출을 받은 사실이 지난 8월 알려진 데 이어 우리금융저축은행과 우리금융캐피탈 등 계열사에서도 손 전 회장 친인척이 연루된 부당 대출이 있었던 것으로 드러났다.&lt;br&gt;&lt;br&gt;7일 금융감독원 ‘수시 검사 결과’에 따르면, 저축은행과 캐피탈에서 발생한 부당 대출 규모는 각각 7억원이다. 두 곳 모두에서 통상적 기준과 절차를 지키지 않은 대출이 일어났고, 대출금 일부가 유용됐다. 금감원은 “대출금 유용 혐의 관련자들을 수사기관에 통보했고, 부적정 대출에 관여한 우리금융저축은행·우리금융캐피탈 임직원에 대해서는 자체 징계를 요구했다”고 밝혔다.&lt;br&gt;&lt;br&gt;먼저 우리금융저축은행은 올해 1월 A법인에 신용 대출 7억원을 내줬다. A법인은 손 전 회장 처남댁 B씨가 대표로 있는 회사다. 당시 담당자는 이 대출에 대해 ‘부적정’ 의견을 냈지만, 우리은행 출신 그룹장, 심사부장 등이 개입하면서 대출이 이뤄졌다. A법인이 받은 대출금은 B씨 개인 계좌로 이체돼 개인적 용도로 유용되기도 했다.&lt;br&gt;&lt;br&gt;우리금융캐피탈은 지난 2022년 10월 손 전 회장의 장인 C씨가 대표이사로 있던 D법인에 7억원 규모 부동산 담보대출을 내줬다. 금감원에 따르면 이 대출금도 일부가 유용됐다. 대출 만기 연장 과정에서는 신용 등급 악화, 담보물 시세 하락 등에도 불구하고 채권 보전 조치 없이 만기 연장이 승인됐다.&lt;br&gt;&lt;br&gt;앞선 금감원 검사 결과에 따르면, 우리은행 경영진이 손 전 회장 친인척 관련 부당 대출을 인지한 시점은 지난해 9~10월쯤이다. 당시 경영진이 부당 대출에 대해 적절히 조치하지 않은 탓에 저축은행 등 계열사에서 다른 부당 대출이 발생했다는 것이 금감원의 시각이다.&lt;br&gt;&lt;br&gt;특히 부당 대출이 은행에서 그치지 않고 다른 계열사로 퍼지면서 은행을 넘어 금융지주를 문책할 수 있는 사안이 됐다. 임종룡 우리금융 회장은 손 전 회장 친인척의 부당 대출과 관련해 오는 10일 국회 정무위원회 국정감사에 증인으로 출석할 예정이다. 주요 금융지주 회장이 국감 증인으로 출석하기는 이번이 처음이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>미래 향한 발차기… 특수부대 입시 학원 등장</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/08/3TNBYOB5IVCZHD6B5SMEDO7XMA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/08/3TNBYOB5IVCZHD6B5SMEDO7XMA/</guid>
-      <description/>
-      <pubDate>Mon, 07 Oct 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6B3KBNAB55A7JHWUUDJWGROVJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 오후 경기 수원의 한 수영장에서 특수부대 입시 전문 학원 수강생들이 복근 강화 훈련을 하고 있다. 해군특수전전단(UDT)이나 해군 해난구조전대(SSU) 등 특수부대 입대 시험을 준비하는 수강생들이다. 요즘은 이런 특수부대 입대 준비 학원까지 등장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인권위 “학생 휴대폰 수거, 인권 침해 아니다”</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/08/TRZJW54RVNAHXFZKVKGIEWZQRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/08/TRZJW54RVNAHXFZKVKGIEWZQRU/</guid>
-      <dc:creator>김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Oct 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NM2GK7CTABF4FARHLKXFXVDMFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2023년 9월 1일 대전의 한 고등학교에서 교사가 수업에 앞서 학생들의 휴대전화를 수거하고 있다. 당시 교육부가 ‘교원의 생활지도에 관한 고시’를 시행하면서 학생이 수업 중 휴대전화를 사용하는 행위를 금지했으나 휴대전화 수거가 ‘인권 침해’ 아니냐는 논란은 계속됐다. 국가인권위원회는 7일 휴대전화 수거가 인권 침해가 아니라고 결정했다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회(인권위)는 7일 고등학교에서 학생 휴대전화를 수거하는 것은 인권침해가 아니라고 결정했다. 인권위는 2014년 11월 학생 휴대전화 수거가 인권침해라고 봤는데 10년 만에 입장을 바꾼 것이다. 인권위는 이날 오후 전원위원회를 열고 지난해 3월 제기된 ‘고등학교 교칙에 따라 일과 시간에 학생 휴대전화를 수거·보관하는 일은 인권침해’라는 진정을 8대2로 기각했다.&lt;br&gt;&lt;br&gt;인권위는 2014년 이후 휴대전화 수거가 인권침해라는 진정 300여 건을 모두 ‘인권침해 행위가 맞는다’고 인정했다. 당시 인권위에 진정을 제기한 한 고등학생은 휴대전화를 월요일 오전에 수거해 보관하다가 금요일 오후 일과가 종료될 때 돌려주는 기숙사 규정이 인권침해라고 했다. 당시 인권위는 이런 학칙이 헌법상 행복추구권이 포괄하는 행동 및 통신의 자유를 침해한다고 봤다. 또 휴대전화의 부정적인 영향을 인정하면서도 휴대전화가 단순한 통신 기기가 아니라 다른 사람들과의 소통을 돕는 긍정적인 면이 크다고 봤다. 이후에도 비슷한 논리로 교내 휴대전화 수거가 인권침해라고 판단했다.&lt;br&gt;&lt;br&gt;하지만 이번 인권위 결정은 달랐다. 휴대전화 소지를 허용함으로써 수업 불법 촬영 등으로 인한 교권 침해로 발생하는 인권침해가 단순 수거로 인한 인권침해보다 더 크다고 봤다. 휴대전화 사용으로 인한 갈등·징계 논란으로 교사의 교권과 학생의 학습권 침해 피해가 휴대전화 사용 허용으로 인한 인권 보장보다 크다고 봤다. 학생들이 휴대전화에 과몰입하는 탓에 다른 학생과 제대로 상호작용을 하지 못한다는 점도 문제라고 판단했다.&lt;br&gt;&lt;br&gt;인권위의 이번 판단은 경기도 등 일부 광역자치단체에서 시행 중인 학생인권조례와 충돌할 것이란 전망도 나온다. 교육부는 지난해 7월 서울 서이초 교사 사망 사건 이후 ‘교원의 학생 생활 지도에 관한 고시’를 마련하고 수업 중 휴대전화를 수거할 수 있도록 했다. 하지만 일선 교육 현장에선 ‘학생은 소지품, 사적 기록물 등 사생활의 자유와 비밀이 침해되거나 감시받지 않을 권리를 가진다’는 학생인권조례와 상충된다는 지적이 나왔다.&lt;br&gt;&lt;br&gt;인권위는 그간 학생 휴대전화를 수거하는 학교들에 대해 “인권침해”라며 “수거하지 말라”는 권고를 해왔다. 하지만 일선 학교장들은 “휴대전화를 수거하지 않을 경우 수업 자체가 불가능하다”며 이를 따르지 않는 경우가 상당했다. 한 고교장은 “교육청이 지급한 태블릿PC를 걷는 데 10분 넘게 걸린다”며 “정상적인 교육 목표를 달성할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;외국에선 휴대전화가 학생 교육에 지장이 된다는 데 공감대를 갖고 이를 규제하고 있다. 프랑스는 최근 중학교 200곳을 시범 대상으로 지정, 휴대전화 사용을 금지했다. 뉴질랜드도 지난 5월 전국 모든 초중고교에서 휴대전화 사용을 금지했다. 미국에서도 이 같은 조치를 취하는 주(州)가 증가하는 추세다.&lt;br&gt;&lt;br&gt;하지만 이번 결정에 대해 일부 단체는 반발하고 있다. 35곳 단체로 구성된 ‘국가인권위원회 바로잡기 공동행동’에선 “인권위는 그간 여러 번 휴대전화 수거를 인권침해라고 판단했는데, ‘그때는 인권침해가 맞고 지금은 아니다’라는 것인가”라며 “과거로 퇴보한 결정”이라고 했다. 일각에선 인권위원들의 성향이 보수적이기 때문에 이런 결정이 나왔다는 지적도 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 판결] 최승호 체제 때 ‘적폐’ 몰린 포항 MBC 사장 손배 승소</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/08/VZSS3KFR5VCRJCFQSAC7CJJP5E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/08/VZSS3KFR5VCRJCFQSAC7CJJP5E/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Oct 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2WEVXFLEZ6BFIUPEVT5A5JZNJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;MBC 신임 사장 후보자인 최승호 뉴스타파 PD가 지난 2017년 12월 7일 서울 여의도 방송문화진흥회에서 열린 최종 면접에 참석하기 위해 이사장실로 향하고 있는 모습. 최 PD는 이날 MBC사장으로 선임됐다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최승호 전 MBC 사장 취임 이후 이른바 ‘적폐’로 몰려 해임된 지방 MBC 사장에게 회사가 4억여원을 배상하라는 판결이 대법원에서 확정됐다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 엄상필 대법관)는 최근 오정우 전 포항MBC 사장이 회사를 상대로 “남은 임기 급여와 퇴직금을 달라”며 낸 소송에서 “포항MBC는 4억211만원을 배상하라”고 판결한 원심을 확정했다고 7일 밝혔다. 오 전 사장이 2018년 5월 소송을 낸 지 약 6년 만이다.&lt;br&gt;&lt;br&gt;오 전 사장은 박근혜 정부 시절인 2017년 3월 임기 3년의 대표이사로 취임했지만, 이듬해 3월 임기 2년을 남기고 주주총회에서 해임됐다. 오 전 사장의 해임 사유는 경영 실적 악화 등이었지만, 당시 언론계에선 2017년 말 취임한 최승호 전 MBC 사장이 사실상 노조 출신들로 새 임원진을 구성하기 위해 ‘적폐 청산’ 인사를 했다는 지적이 나왔다. 최 전 사장 취임 이후 MBC 대주주인 방송문화진흥회는 경영 실적이 나쁘다는 사유 등을 들어 지역 방송사 사장 16명을 잔여 임기와 상관없이 해임했다.&lt;br&gt;&lt;br&gt;1·2심 모두 오 전 사장의 해임이 부당하다고 판단했다. 1심은 오 전 사장이 받아야 할 임금과 퇴직금을 5억6843만원으로 봤지만, 2심은 임금 기준을 다르게 적용해 배상금을 4억211만원으로 정했다. 양측 모두 불복했지만, 대법원도 2심 판결에 잘못이 없다며 상고를 기각했다.&lt;br&gt;&lt;br&gt;대법원은 최근 비슷한 취지의 소송을 낸 이강세 전 광주MBC 사장에 대해서도 회사의 배상 책임을 인정했다. 다만, 대법원은 배상 액수를 일부 조정해야 한다는 취지로 원심을 파기하고 사건을 광주고법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘음주운전 사고’ 문다혜, 7시간 동안 3차까지 술자리</title>
       <link>https://www.chosun.com/national/national_general/2024/10/08/X3O4DAU4HJHFFAFQFDENP43X5E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/08/X3O4DAU4HJHFFAFQFDENP43X5E/</guid>
@@ -848,117 +963,6 @@ A 씨는 지난 5월 3일 일당 2명과 태국 방콕의 클럽에서 한국인
       <description/>
       <pubDate>Mon, 07 Oct 2024 15:45:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6NUIF2RK4FEVBHADKVCM4G6J6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주운전 사고를 낸 문다혜 씨가 7일 서울 용산경찰서에서 출두 통보를 받은 가운데 이날 용산서 별관 앞에서 기자들이 문 씨를 기다리고 있다. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 전 대통령 딸 문다혜(41)씨의 음주 운전 사건을 조사 중인 경찰은 문씨가 4일 밤부터 다음 날 새벽까지 7시간가량 3차에 걸친 술자리를 한 뒤 사고를 낸 것으로 보고 정확한 음주량 등을 조사 중인 것으로 7일 알려졌다.&lt;br&gt;&lt;br&gt;서울경찰청 고위 관계자는 이날 기자 간담회에서 “문씨는 5일 새벽 2시 51분 사고를 내고 현장에서 한 차례 음주 측정에 응한 뒤 인근 파출소까지 걸어왔다”고 했다. 당시 문씨 차량에 동승자는 없었으며 문씨가 측정을 거부하지는 않았다고 한다. 하지만 이 과정에서 문씨가 부축하려는 여경의 손을 뿌리치는 모습이 감시 카메라에 포착되기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U5YKT5Q3VJBNXKSVZ3X6DNJZTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문다혜&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 문씨의 불법 주정차·신호 위반·난폭 운전 혐의 등도 들여다보고 있다. 문씨는 5분 이상 주차가 불가능한 황색 점선 구역에 약 7시간가량 캐스퍼 차량을 불법 주차한 것으로도 나타났다. 이 차량은 2021년 10월부터 이번 사고 이전까지 두 차례 사고를 냈고, 과태료 체납 때문에 압류를 당한 전력도 있다. 문씨가 사고 당일 새벽 이 차량이 아닌 다른 차량을 자신의 차량으로 착각한 듯 차량 문을 열려는 장면도 공개됐다. 경찰은 사고 직전 우회전 차선에서 좌회전을 시도하거나, 행인을 거의 칠 뻔한 문씨에 대한 난폭 운전 조사 진정을 접수하고 조사에 나선 상황이다.&lt;br&gt;&lt;br&gt;문씨는 사고 당일 오후 6시 57분쯤 미쉐린 가이드에 선정된 고급 소고기 식당 인근에 자신의 캐스퍼 차량을 주차한 뒤 7시간가량 최소 음식점 세 곳을 들렀던 것으로 알려졌다. 오전 12시 38분쯤 문씨는 3차로 들른 한 음식점에서 두부김치와 소주 한 병을 주문했다. 해당 음식점 업주는 7일 본지와 만나 “문씨가 남성 1명과 들어와 소주 한 병과 두부김치 등을 주문했다”며 “식당에 들어올 때부터 꾸벅꾸벅 졸 정도로 많이 취해 있었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] draw the line</title>
-      <link>https://www.chosun.com/national/nie/english/2024/10/08/ETGAD3IXWNEVVGOH5UQSXL3VIQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/10/08/ETGAD3IXWNEVVGOH5UQSXL3VIQ/</guid>
-      <description/>
-      <pubDate>Mon, 07 Oct 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/32RANRA7O5HDLFQ646HWZAYHLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] ~에 속하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/10/08/OUMTFAODR5C73IKV4BDXGMPTIQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/10/08/OUMTFAODR5C73IKV4BDXGMPTIQ/</guid>
-      <description/>
-      <pubDate>Mon, 07 Oct 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DR5XS2UUZFHCXJP6EXRRPQGRKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 응수(應酬)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/10/08/OWKPW2PWVZFQDNJH4B4QXNOD3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/10/08/OWKPW2PWVZFQDNJH4B4QXNOD3Y/</guid>
-      <description/>
-      <pubDate>Mon, 07 Oct 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IOQ36V6BWBFXXNQXWHYDN3SEJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 크기별로 분류하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/10/08/4AOAHPVXENGYPOZAX7WZWBK7YY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/10/08/4AOAHPVXENGYPOZAX7WZWBK7YY/</guid>
-      <description/>
-      <pubDate>Mon, 07 Oct 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZMKD3TMUQRE2XGMWHEAEIFCFPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2475] 바꿔 부르기</title>
-      <link>https://www.chosun.com/national/nie/2024/10/08/UAVXHHBHPZAALMKAHNZAJTZYQE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/10/08/UAVXHHBHPZAALMKAHNZAJTZYQE/</guid>
-      <description/>
-      <pubDate>Mon, 07 Oct 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HGMKFTS4ZJFBNIWMEKITGSCLW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이근백 추계최은희문화사업회장</title>
-      <link>https://www.chosun.com/national/people/2024/10/08/ISZNGQC5JFGZRJCLX3YG7ZEYNM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/08/ISZNGQC5JFGZRJCLX3YG7ZEYNM/</guid>
-      <dc:creator>김광진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Oct 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O3HMZZHLJVFUZMZDFZZKOGVFYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이근백 추계최은희장학회장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이근백 추계최은희장학회장이 한국 민간 신문의 첫 여기자 고(故) 최은희 여사를 기리는 추계문화사업회 10대 회장에 추대됐다.&lt;br&gt;&lt;br&gt;추계최은희문화사업회는 일제강점기 언론인으로 독립운동과 여성 계몽 운동의 선구자로 활약한 추계 최은희의 정신을 계승하며, 추계의 장남인 고(故) 이달순 전 수원대 총장과 장손인 이근백 회장을 중심으로 1983년 설립됐다. 이후 41년간 매년 최은희 여기자상을 지원해 최근까지 42명의 수상자를 배출했다. 언론학을 전공하는 대학생들에게 장학금을 지급하는 사업도 하고 있다.&lt;br&gt;&lt;br&gt;추계최은희문화사업회 역대 회장으로는 이수성 전 국무총리, 정대철 대한민국헌정회회장, 김민하 전 민주평통수석부의장, 서청원 전 국회의원, 하경근 전 중앙대총장, 안병용 전 의정부시장 등이 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 고봉달 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/10/08/TPBBJQ57RNBS7N6CKXMN46MKRE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/10/08/TPBBJQ57RNBS7N6CKXMN46MKRE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Oct 2024 15:40:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;고봉달&lt;/b&gt; 별세, &lt;b&gt;김옥이&lt;/b&gt; 남편상, &lt;b&gt;고혁성&lt;/b&gt; 한국농수산식품유통공사 홍보실장 부친상=6일12시20분 울산시티병원, 발인 8일6시, (052)280-8400&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김경식&lt;/b&gt; 별세, &lt;b&gt;권남순&lt;/b&gt; 남편상, &lt;b&gt;김원배&lt;/b&gt; 전자신문 전자모빌리티부장·&lt;b&gt;김인순&lt;/b&gt; 부친상, &lt;b&gt;고국현&lt;/b&gt; 한국지역난방공사 경영지원본부장 장인상=6일19시30분 서울대병원, 발인 9일6시, (02)2072-2010&lt;br&gt;&lt;br&gt;▲&lt;b&gt;양장환&lt;/b&gt; 변호사 별세, &lt;b&gt;이태진 &lt;/b&gt;남편상, &lt;b&gt;양제연&lt;/b&gt;·&lt;b&gt;양유경&lt;/b&gt; 부친상, &lt;b&gt;양태환 &lt;/b&gt;동생상, 6일14시 서울성모병원, 발인 9일7시20분, (02)2258-5965&lt;br&gt;&lt;br&gt;▲&lt;b&gt;차상일&lt;/b&gt; 별세, &lt;b&gt;차경식&lt;/b&gt; 생명보험사회공헌위원회 사무처장 부친상=6일19시40분 서울의료원, 발인 9일4시30분, (02)2276-7000&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 기획재정부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/10/08/JKQYGEB53ZDPXLDNDTOZ3MREQQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/10/08/JKQYGEB53ZDPXLDNDTOZ3MREQQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Oct 2024 15:40:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;기획재정부&lt;/b&gt;◇부이사관 승진▷홍보담당관 한재용▷기획재정담당관 이준범▷조세정책과장 양순필▷재산세제과장 박지훈▷경제구조개혁총괄과장 김시동▷재정정책총괄과장 박재형▷기획재정부 장도환▷기획재정부 윤정인▷기획재정부 박성궐&lt;br&gt;&lt;br&gt;▲&lt;b&gt;외교부&lt;/b&gt;▷기후변화대사 정기용&lt;br&gt;&lt;br&gt;▲&lt;b&gt;중소벤처기업부&lt;/b&gt;◇부이사관 승진▷국무조정실 파견 윤세명▷벤처정책과장 이상천▷디지털혁신과장 박승록&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한국해양과학기술원&lt;/b&gt;▷제주연구소장 김동성▷해양영토연구본부장 정진용▷해양데이터·인프라본부장 서만덕▷행정지원본부장 김영성▷경영기획본부장 서재규▷대외협력본부장 유주형▷연구선운영부장 김현석▷해양력강화·방위연구부장 김응▷해양재난연구부장 최진용&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국립암센터 근로자 1명 방사선 피폭... 선형가속기 가동되며 사고</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/08/LTYTUVKJLVEIZOM2GRTBUJ7LLI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/08/LTYTUVKJLVEIZOM2GRTBUJ7LLI/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Oct 2024 15:30:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AWVDHCHYXOURXC5MZ7QWCE3W7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국립암센터 전경. /국립암센터 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 고양시 국립암센터에서 일하던 근로자 1명이 방사선에 피폭되는 사고가 발생해 원자력안전위원회(이하 원안위)가 조사에 나섰다.&lt;br&gt;&lt;br&gt;7일 원안위에 따르면 이날 낮 12시 50분쯤 국립암센터 근로자 1명이 선형가속기실에 머무르던 중 선형가속기가 가동되면서 방사선에 피폭됐다. 이는 오후 5시 22분 원안위에 보고됐다. 이에 원안위는 피폭된 근로자를 한국원자력의학원으로 이송하라고 안내했다. 또 사건 조사를 위해 한국원자력안전기술원(KINS) 전문가 2명을 국립암센터로 파견했다.&lt;br&gt;&lt;br&gt;선형가속기는 방사선을 이용해 암세포를 파괴하는 의료 장비로, 현재 국립암센터는 환자 치료용 선형가속기 5대를 운영 중이다. 이들 장치는 원자력안전법에서 규정한 허가 장치에 해당한다. 원안위는 KINS 사건조사와 피폭자 조사 등을 통해 사건의 상세 경위를 파악하고 피폭 선량 평가를 실시할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 10월 8일</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/08/2DYUQVH2CNCLVJLQOSZH3LPOJQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/08/2DYUQVH2CNCLVJLQOSZH3LPOJQ/</guid>
-      <description/>
-      <pubDate>Mon, 07 Oct 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H7PLCGKLQ5EPDINMRJ3S2T3D34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재미있는 과학] 우주선 밖으로 나간 첫 민간인… 고도 732㎞서 우주 유영했죠</title>
-      <link>https://www.chosun.com/national/nie/2024/10/08/VVD6CAXYKZA5PDA5GCQKTN34OI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/10/08/VVD6CAXYKZA5PDA5GCQKTN34OI/</guid>
-      <dc:creator>김형자 과학칼럼니스트, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Oct 2024 15:30:00 +0000</pubDate>
-      <content:encoded>지난달 세계 최초로 민간인 우주 유영(游泳)에 도전한 미국의 ‘폴라리스 던(Polaris Dawn)’ 팀이 5일간의 우주 비행을 마치고 지구로 귀환했어요. 이 민간 우주인들은 지구 상공 732㎞에서 우주를 자유롭게 헤엄쳤죠. 이번 우주여행 프로젝트는 미 항공우주국(NASA)이 아닌 민간 기업 ‘스페이스X’가 주도적 역할을 했는데요, 앞으로 우주여행이 한 발짝 가까워진 것일까요? 오늘은 이들이 어떻게 우주를 탐험하고 돌아왔는지 알아볼게요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AOPPTQBTSNBARNIM2UAJZQDDPE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=유재일&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;우주인 4명, 상공 1400㎞까지 올랐죠&lt;/b&gt;&lt;br&gt;&lt;br&gt;‘폴라리스 던’은&lt;b&gt; &lt;/b&gt;미국의 전자 결제업체 ‘시프트4′를 창업한&lt;b&gt; &lt;/b&gt;억만장자 제러드 아이잭먼과 스페이스X의 일론 머스크가 협력해 진행하는 우주 비행 프로젝트예요. 영어 단어 폴라리스(Polaris)는 북극성, 던(Dawn)은 여명(동틀 무렵)이라는 뜻이에요. 옛날 탐험가들은 어두운 밤에 밝게 빛나는 북극성을 보며 길을 찾아갔어요. 이번 프로젝트는 민간 우주여행의 이정표가 됐다는 의미가 있죠. 2022년 아이잭먼은 세 차례 우주 비행을 하겠다는 프로젝트를 발표했는데, ‘폴라리스 던’은 그 첫 번째 비행이었어요.&lt;br&gt;&lt;br&gt;‘폴라리스 던’에 참가한 민간 우주인은 모두 4명이에요. 지휘를 맡은 아이잭먼을 포함해 퇴역 공군 조종사인 포티, 스페이스X 엔지니어인 길리스와 메논이죠. 이들을 태운 스페이스X의 우주 캡슐 ‘드래건’은 이 회사의 주력 발사체인 ‘팰컨9′에 실려 발사됐어요.&lt;br&gt;&lt;br&gt;발사 첫날, 민간 우주인을 태운 드래건은 곧바로 지구 상공 1216㎞까지 올라갔어요. 이튿날엔 고도 1400㎞까지 도착해 지구 주위를 따라 도는 궤도 비행을 했죠. 국제우주정거장이 떠있는 높이(약 400㎞)보다 3배 이상 높이 올라간 거예요. 1960~70년대 달을 탐사하러 떠났던 미국의 아폴로 우주선 이후 반세기 만에 인류가 비행한 가장 높은 지점이죠.&lt;br&gt;&lt;br&gt;그런데 드래건의 목표 지점은 왜 1400㎞였을까요? 이전까지 가장 높은 궤도 비행고도는 1374㎞였어요. NASA가 1966년 발사한 제미니 11호가 이 높이까지 올라갔죠. 이번엔 이 기록을 넘는 게 목표였어요. 하지만 1400㎞ 이상 비행은 전문 우주인도 해보지 못했기 때문에 이전 기록보다 약간 높은 곳으로 정한 거예요.&lt;br&gt;&lt;br&gt;또한 이번 폴라리스 던 프로젝트의 임무 중 하나는 우주 방사선이 인체에 미치는 영향을 조사하는 것이었어요. 지구 상공 1000㎞ 바깥엔 태양에서 날아온 하전입자(플라스마)가 몰려있는 방사능 영역 ‘밴앨런대(Van Allen Belt)’가 있어요. 이곳에선 국제우주정거장에 머무는 우주인들이 3개월 동안 받는 방사선이 단 몇 시간 만에 쏟아져요. 드래건은 1400㎞ 지점 궤도를 6바퀴 돌면서 연구를 진행했어요. 그러곤 고도를 낮춰 우주 유영을 준비하죠.&lt;br&gt;&lt;br&gt;&lt;b&gt;유영 전 우주선 내부 공기를 뺀 이유는?&lt;/b&gt;&lt;br&gt;&lt;br&gt;우주 유영은 지구 상공 732㎞에서 이뤄졌어요. 사람이 우주를 돌아다니려면 저기압인 우주 환경에 적응하는 과정이 필요한데요, 지금까지 우주비행사들이 우주 유영을 할 때는 국제우주정거장 내 격리된 공간인 ‘에어록(Air lock)’에서 기압을 서서히 낮춰 저기압에 적응했어요. 에어록에는 두 개의 문이 있어요. 첫 번째 문은 우주선 내부와 이어지는 문이에요. 우주인들이 우주 유영을 위해 에어록에 들어오면, 이 문을 단단히 잠가 우주선에서 공기가 빠져나가지 않게 막아요. 그리고 두 번째 문은 우주와 연결되어 있죠. 이 문이 열리면서 우주인은 우주로 나가게 돼요.&lt;br&gt;&lt;br&gt;그런데 드래건에는 이런 에어록 장치가 없었어요. 스페이스X는 대신 우주선 자체를 에어록으로 만드는 기술을 이용했는데요. 우주 비행 첫날부터 미리 우주선 실내 전체의 공기를 서서히 빼내면서 기내 압력을 낮추고, 우주인의 산소 농도를 높이는 ‘사전 호흡’ 과정을 거쳤어요. 우주정거장이 없던 1960년대에 미국과 소련 우주비행사들이 이런 방식으로 우주 유영을 준비했어요.&lt;br&gt;&lt;br&gt;&lt;b&gt;우주선 밖 ‘스카이워커’에서 우주 유영했죠&lt;/b&gt;&lt;br&gt;&lt;br&gt;우주 유영은 승무원 4명 중 2명(아이잭먼·길리스)이 나섰어요. 먼저 스페이스X가 새로 개발한 선외 활동(EVA·Extravehicular Activity) 우주복을 입은 아이잭먼이 드래건 꼭대기의 해치를 열고 우주로 몸을 내밀었어요.&lt;br&gt;&lt;br&gt;이날 우주 유영은 과거처럼 우주인이 전력과 공기를 제공받는 얇은 ‘생명선’에 의지해 우주를 둥둥 떠다니는 것은 아니었어요. 우주선에 설치된 사다리 형태 구조물 ‘스카이워커’를 잡고 우주 공간으로 나오는 방식이었죠. 민간인 첫 우주 유영인 만큼, 안전을 고려한 거예요. 우주인들은 스카이워커에서 발을 떼지 않은 채 한 손으로는 우주선 외부에 부착된 손잡이를 잡고, 다른 한 손은 자유롭게 움직였죠. 이들은 우주선의 스카이워커 위에 서서 각각 10분간 움직였어요.&lt;br&gt;&lt;br&gt;우주 유영 중에는 팔과 다리를 구부리며 새로 개발한 우주복의 성능을 시험했어요. 이 우주복은 패딩 점퍼처럼 두툼한 기존 우주복과는 달리 부피가 작고 가벼운 것이 특징이에요. 어깨 관절 부분은 회전하도록 만들어져 팔을 편하게 움직일 수 있고, 헬멧엔 자동차 전면 유리에 사용되는 ‘헤드업 디스플레이’가 부착돼 생존에 필요한 여러 가지 정보를 보여주죠.&lt;br&gt;&lt;br&gt;유영이 끝난 뒤엔 해치가 닫히고 기내 압력을 재조정하는 작업이 이뤄졌어요. 이후 이들은 지구 대기권에 재진입해 무사히 미국 플로리다주(州) 인근 바다에 착륙했답니다. 이번 미션에서 수행된 실험들의 결과는 아직 공개되지 않았지만, 민간인 우주 비행 시대의 가능성을 보여줬다는 것은 확실한 성과예요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [철학·인문학 이야기] 낭비벽으로 평생 빚에 시달린 발자크… 글 쓸 때는 하루 열여섯 시간 몰두했죠</title>
-      <link>https://www.chosun.com/national/nie/2024/10/08/AN2GAGOKIBH63N7O4UU2O25KQE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/10/08/AN2GAGOKIBH63N7O4UU2O25KQE/</guid>
-      <dc:creator>안광복 중동고 철학 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Oct 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MSW6TYHAA5C47KBV5LAK2TTU7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19세기 프랑스 소설가 오노레 발자크의 사진이에요. 그는 하루 열여섯 시간씩 글을 쓴 작가이자, 인쇄소를 운영한 사업가였죠. 하지만 사업 실패와 낭비벽으로 평생 빚에 쫓기며 살았어요. /브리태니커&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오노레 발자크는 19세기 프랑스 소설가입니다. 그의 업적은 입이 딱 벌어지게 만듭니다. ‘대표작’이라 할만한 소설만 70여 편이에요. 그의 작품에 등장하는 인물은 2000명에 다다르지요. 소설 속 인물은 모두 그가 머릿속으로 만든 사람이에요. ‘살아있는 인쇄 기계’라는 별명이 있을 정도로 엄청나게 편지를 많이 썼고, 여러 사업을 벌이기도 했죠.&lt;br&gt;&lt;br&gt;발자크는 이해하기 어려운 낭비벽을 지닌 사람이었습니다. 그는 유럽 전역에 이름을 날린 작가였기 때문에 원고료가 최고 수준이었어요. 그렇지만 발자크의 사치는 언제나 도를 넘었습니다. 당시 돈 많은 귀족이나 누릴 법한 자가용 마차를 사고, 제복을 입힌 하인을 몇 명이나 두곤 했답니다. 귀도 얇아서, 허황된 소문과 성급한 판단으로 어설프게 사업을 벌여 날린 돈도 어마어마했어요. 빚을 많이 진 그는 언제나 거처를 구할 때 문이 둘 있는 집을 찾았다고 해요. 앞문에서 문을 두드리는 빚쟁이들을 피해 뒷문으로 달아나기 위해서였대요. 그는 뻔뻔한 구석까지 있어서 자신을 ‘오노레 드 발자크’라고 소개하곤 했습니다. 이름 사이에 ‘드’는 귀족을 뜻하는 호칭이에요. 한데 그는 그냥 시민이었습니다.&lt;br&gt;&lt;br&gt;그렇지만 천재의 삶을 보통 사람 잣대로 평가해선 안 되지요. 20세기 최고 전기(傳記) 작가로 알려진 슈테판 츠바이크는 차분한 눈으로 발자크가 누구인지 들려줍니다. 발자크는 자정에 깨서 하루 열여섯 시간을 쉬지 않고 소설을 쓰고 고쳤습니다. 학자들은 그가 작업을 위해 평생 마셔댄 커피가 5만잔에 이를 것이라고 짐작해요. 발자크는 “(내가) 세계에 내줄 수 있는 시간은 하루에 한 시간뿐”이라고 말하곤 했습니다.&lt;br&gt;&lt;br&gt;그렇다면 발자크가 진짜 자기 모습을 하고 있을 때는 언제일까요? 소설 쓰기에 몰두해 있는 하루 열여섯 시간일까요, 아니면 미친 듯이 자유를 누리는 한 시간 남짓일까요? 발자크는 미친 듯이 일했고, 쉴 때는 과도하게 늘어졌으며, 짧게 쾌락을 즐기는 순간에도 거침이 없었지요. 그의 엄청난 창작 작업은 지나친 낭비로 진 빚을 갚으려는 발버둥이기도 했습니다. 크고 강하게 분출하려면 강한 압력이 있어야 합니다. 발자크는 위대한 문학 작품을 낳고자 은연중 스스로에게 엄청난 고통을 불어넣었던 셈입니다.&lt;br&gt;&lt;br&gt;‘인간 희극’은 발자크가 자기 소설 전집에 붙인 제목입니다. 여기에는 왕과 귀족이 사라지고 산업 문명과 민주주의가 자리 잡던 시대 분위기가 오롯이 담겨 있어요. 그래서 발자크는 ‘19세기의 풍속 화가’라는 별명을 갖고 있기도 합니다. ‘인간 희극’에 담긴 ‘고리오 영감’ 같은 작품들을 꼭 읽어보세요. 아울러, 발자크 전기를 쓴 츠바이크의 다른 전기도 살펴보시길 권합니다. 마리 앙투아네트 전기가 대표적이죠. 번뇌와 고통에서 보석 같은 삶의 의미를 길어내는 문학의 위대함을 느낄 수 있을 겁니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [사소한 역사] 고려 시대때도 했던 탈놀이… 역병·악귀 쫓기 위한 의식이었대요</title>
-      <link>https://www.chosun.com/national/nie/2024/10/08/VESWL4S3ARAP3GDS43LVZATZUE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/10/08/VESWL4S3ARAP3GDS43LVZATZUE/</guid>
-      <dc:creator>황은하 상경중 역사 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Oct 2024 15:30:00 +0000</pubDate>
-      <content:encoded>최근 경북 안동에서 ‘국제 탈춤 페스티벌’이 열렸어요. 26국 50여 공연 팀이 참가해 자국 탈을 쓰고 전통 공연을 뽐냈는데요. 우리나라 전통 공연인 하회별신굿탈놀이도 선보였어요. 안동에서 탈춤 페스티벌이 열린 이유는 무엇일까요? 국보로 지정된 하회탈의 본고장이 안동이기 때문이에요. 안동 하회마을에서는 고려시대부터 각시탈, 양반탈 같은 여러 종류의 하회탈을 이용한 하회별신굿탈놀이가 이어져 왔답니다. 오늘은 탈이 언제부터, 어떻게 사용되기 시작한 것인지에 대해 알아볼게요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FAXKCPL5KFCCJJC444DCPTWZPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 안동의 전통 탈놀이인 '하회별신굿탈놀이' 공연 모습이에요. 마을 공동 제사인 별신굿의 한 순서로 진행돼요. 고려 시대에 만들어진 것으로 알려진 하회탈은 국보로 지정됐답니다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;탈이 처음 나타난 것은 원시시대부터라고 해요. 사냥을 위해 짐승 가죽을 뒤집어쓰고 짐승 소리를 흉내 내거나, 자신의 부족을 상징하는 동식물과 관련된 탈을 쓰고 종교적 의식을 하기도 했죠. 시간이 흐르고 국가가 건설되며 탈은 다양한 형태와 역할을 갖게 됐어요. 가뭄이 심할 때 열리는 기우제 때 탈을 쓰기도 하고, 전쟁에서 적에게 두려움을 주기 위해 탈을 쓰기도 했죠. 탈은 우리나라뿐 아니라 세계 곳곳에서 다양한 용도로 쓰여 왔답니다.&lt;br&gt;&lt;br&gt;탈은 여러 전통 행사에 빠지지 않고 등장하는 물건이에요. 먼저 역병과 악귀를 쫓기 위해 치러졌던 우리나라의 전통 의식 ‘처용무’를 살펴볼게요. 처용무는 신라 헌강왕 때 처용이라는 사람이 노래를 부르고 춤을 추며 역병의 신으로부터 아내를 구했다는 설화에서 유래됐어요. 이후 사람들은 역병과 악귀가 집에 들어오는 것을 막기 위해 처용의 얼굴을 그려 대문에 붙이곤 했대요. 고려와 조선의 궁중에서는 한 해의 마지막 날에 그해 남은 나쁜 기운과 귀신들을 쫓기 위해 처용탈을 쓰고 춤을 추는 의식을 치렀답니다. 이때 쓰는 처용탈은 팥죽색 피부에 하얀 치아를 하고, 구슬 귀고리를 한 게 특징이에요. 지금도 울산에서는 ‘처용문화제’를 열고 있답니다.&lt;br&gt;&lt;br&gt;탈춤 중에선 세계적인 문화유산으로 인정받은 경우도 있답니다. 아프리카에 있는 잠비아에선 매년 ‘무칸다’라는 성인식 축제를 여는데요, 이 행사에서 소년들은 집을 떠나 1~3개월 동안 야영지에서 생활하며 공동체 의식 등을 배워요. 이 성인식은 ‘마키시 가면무도회’로 마무리돼요. 소년들이 각각 특정한 가면을 쓰고 춤을 추죠. 이 가면무도회는 문화적 가치를 인정받아 2008년 유네스코 문화유산으로 지정되기도 했답니다.&lt;br&gt;&lt;br&gt;티베트 가극 역시 빼놓을 수 없는 대표적인 탈 공연이에요. 티베트 가극은 민요와 민속춤, 곡예 등이 결합된 전통 공연이에요. 커다란 얼굴 모양 가면을 쓴 이야기꾼이 공연을 진행하는데요. 641년 티베트로 시집온 당나라 문성공주를 환영하기 위해 가면 쓴 배우가 춤과 노래를 한 것에서 유래됐다고 전해져요. 여기에 티베트 전통 음악과 종교 무용이 더해져서 현재 티베트 가극으로 재창조됐답니다. 티베트 가극은 오늘날에도 전문 가극단이 있을 정도로 활발하게 이어지고 있어요. 2009년엔 유네스코 문화유산에도 등재됐답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 술 취해 아파트서 알몸 상태로 음란행위... 20대 男 입건</title>
