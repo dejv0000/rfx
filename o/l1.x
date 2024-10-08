@@ -6,6 +6,36 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>법무부·대한변협, '제10기 청년법조인 해외진출 아카데미 개소식'</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/201843.jpg" alt="201843.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무부(장관&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1239"&gt;박성재&lt;/span&gt;)와 대한변호사협회(협회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2700"&gt;김영훈&lt;/span&gt;)는 세계한인법률가회(IAKL, 회장 김권회)와 함께 7일 서울 서초동 대한변호사협회 대강당에서 '제10기 청년법조인 해외진출 아카데미 개소식'을 개최했다. &lt;br /&gt;&lt;br /&gt;해외진출 아카데미는 우수한 대한민국 청년 법조인과 한국 법률서비스의 해외진출 경쟁력을 강화하기 위해 2014년부터 시작된 전문 교육 과정이다. 올해 10회차를 맞았다. &lt;br /&gt;&lt;br /&gt;앞으로 12월 11일까지 국제거래, 국제중재 등 분야의 전문가들이 청년법조인 100명에게 10회에 걸쳐 국제법무 전반에 대한 교육을 제공할 예정이다. &lt;br /&gt;&lt;br /&gt;아카데미를 수료한 청년법조인들은 선발과정을 거쳐 내년 3월부터 각국의 전문로펌, 국제기구 등에 3개월~1년간 파견돼 국제법무 실무를 경험하는 '제2기 글로벌 펠로우십 프로그램'에 참여한다. 글로벌 펠로우십 프로그램은 아카데미를 수료한 경력 1~10년의 법조인들에게 국내·외 전문로펌 등에서 1년 이내로 근무하며 업무를 경험할 수 있도록 하는 실무과정이다. 제1기 글로벌 펠로우십은 올해 3월부터 6개국, 11개 기관에 총 15명의 청년법조인을 파견했다. &lt;br /&gt;&lt;br /&gt;개소식에는 제1기 글로벌 펠로우십 프로그램을 통해 세계 각지에서 활동하고 있는 변호사 3명이 영상편지로 후배들을 응원했다. 베트남 하노이 소재 로펌에서 근무 중인 정아진 변호사는 "법무부 해외진출 아카데미를 통해 쌓은 지식들이 글로벌 펠로우십 과정에서 큰 도움이 됐다"며 "베트남 현지에서 한국 기업들에게 많은 자문을 제공하는 뜻 깊은 시간을 보내고 있다"고 말했다. &lt;br /&gt;&lt;br /&gt;김영훈 대한변호사협회장은 "해외진출에 관심이 많았지만 방법을 잘 알지 못했던 청년 법조인에게 선배 법조인이 경험과 노하우를 전수하는 소중한 기회가 될 것으로 생각한다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;정홍식 법무부 국제법무국장도 "대한민국 대표 청년법조인들이 세계 각국에 활발히 진출해 국가경쟁력을 제고하고 해외시장을 개척하기를 기대한다"고 말했다. &lt;br /&gt;&lt;br /&gt;법무부 관계자는 "대한변협과 함께 우수한 법조인들의 해외진출을 지원하겠다"며 "지역별, 분야별로 다각화된 전문화 교육 과정을 마련하고 지속적인 협업을 이어 나가겠다"고 전했다. &lt;br /&gt;</description>
+			<pubDate>Tue, 08 Oct 2024 03:29:08 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201843</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201843</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201843.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>배우 이영애 열린공감TV 고소 사건 서울고검이 직접 재수사</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/201857.jpg" alt="201857.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=이영애 인스타그램》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;배우 이영애 씨가 유튜브 채널 열린공감TV가 자신을 폄하하고 허위사실을 유포했다며 대표 정천수 씨를 고소한 사건을 서울고검이 재수사한다.&lt;br /&gt;&lt;br /&gt;8일 법조계에 따르면 서울고검은 지난해 10월 이 씨가 정 씨를 정보통신망법 위반(명예훼손) 혐의로 고소한 사건을 지난 8월부터 수사하고 있다.&lt;br /&gt;&lt;br /&gt;이 씨는 지난해 9월 이승만대통령기념관 건립을 위해 이승만대통령기념재단에 5000만 원을 기부한 것을 두고 열린공감TV가 '이영애의 기부가 윤석열 대통령과 김건희 여사 부부와 연관돼 있다'고 보도하자 서울 용산경찰서에 정 씨를 고소했다.&lt;br /&gt;&lt;br /&gt;이후 사건은 경기 양주경찰서로 이송돼 불송치 결정이 내려졌지만 이 씨 측의 이의신청에 따라 검찰에 송치됐다. 사건을 넘겨받은 의정부지검은 올해 6월 불기소 결정을 내렸다.&lt;br /&gt;&lt;br /&gt;이 씨 측은 검찰의 불기소 처분에 불복해 항고했고, 상급청인 서울고검은 이를 받아들여 지난 8월 재기수사 명령을 내렸다.&lt;br /&gt;&lt;br /&gt;통상 재기수사는 상급 검찰청이 기존에 수사한 검찰청으로 사건을 돌려보내 이뤄진다. 그러나 서울고검은 이 사건의 경우 의정부지검으로 사건을 돌려보내지 않고 직접 수사를 하기로 결정했다. 추가 수사할 내용이 많지 않거나 단순한 사건일 경우 상급 검찰청이 사건을 내려보내지 않고 직접 수사에 나서기도 한다.</description>
+			<pubDate>Tue, 08 Oct 2024 03:28:14 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201857</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201857</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201857.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>이복현 금감원장, 고려아연 불공정거래 즉각 조사 지시..."투자자 피해 우려 높다"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/201856.jpg" alt="201856.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;이복현 금융감독원장《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;이복현 금융감독원장이 고려아연 공개매수 관련 불공정거래를 즉각 조사하라고 지시했다. 영풍과 고려아연 간 공개매수전이 과열양상을 보이자 엄정 대처에 나선 것으로 보인다.&lt;br /&gt;&lt;br /&gt;이 원장은 8일 임원회의에서 "상대방의 공개매수를 방해할 목적의 불공정거래 행위가 확인될 경우 누구든 법과 원칙에 따라 엄중조치할 것"이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;또 '공시 이전 공개매수가보다 고가로 자사주를 취득할 계획'이나 '자사주 취득 가능 규모가 과장됐다'고 주장하는 등 풍문 유포 행위와 주가에 부당한 영향을 미칠 수 있는 행위에 대해서도 경고했다. &lt;br /&gt;&lt;br /&gt;이 원장은 공개매수 과정뿐 아니라 이후에도 자본시장법 등 관련법 위반 여부를 철저히 살펴보라고 주문했다. 투자자 피해 우려가 큰 만큼, 금융소비자 보호 조치도 지시했다. &lt;br /&gt;&lt;br /&gt;이 원장은 "장기적인 기업가치를 도외시한 지나친 공개매수 가격 경쟁은 종국적으로 주주가치 훼손을 초래할 가능성이 높다"고 우려를 표했다. &lt;br /&gt;&lt;br /&gt;최근 영풍·MBK파트너스와 고려아연은 경영권을 두고 분쟁을 벌이며 서로 공개매수 가격을 올리는 방식으로 대립하고 있다.&lt;br /&gt;&lt;br /&gt;금감원장은 지난달 30일에도 공개매수 과정에서 시장 질서를 해치는 행위나 불공정거래가 발생할 경우 강력히 대응하겠다고 경고한 바 있다.</description>
+			<pubDate>Tue, 08 Oct 2024 03:27:12 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201856</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201856</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201856.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
 			<title>법무법인 화우, 코스닥 1위 '알테오젠'과 바이오헬스 업무협약</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201838.jpg" alt="201838.jpg" style="width: 600px; height: auto;" /&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;div class="cheditor-caption-wrapper"&gt;      &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;         &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;왼쪽부터 알테오젠 강상우 전무, 박순재 대표, 화우 이성호 고문, 강남일 변호사, 권동주 변호사. 《화우 제공》&lt;/figcaption&gt;         &lt;/figure&gt;      &lt;/div&gt;   &lt;p&gt;&lt;br /&gt;&lt;/p&gt;   &lt;/div&gt;&lt;a href="https://www.hwawoo.com/kor/main?lang=ko" target="_blank"&gt;&lt;b&gt;법무법인 화우&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8808"&gt;이명수&lt;/span&gt;)는 지난 4일 서울 강남구 삼성동 아셈타워 화우 제1회의실에서 바이오기업 알테오젠(대표이사 박순재)과 업무협약을 맺었다. &lt;br /&gt;&lt;br /&gt;이번 협약으로 화우는 알테오젠의 지속형 바이오매터, 항체–약물 접합치료제, 항체 바이오시밀러 사업 부분 등에서 발생할 수 있는 바이오헬스, 지식재산, 기업자문, 금융, 인사∙노동, 공정거래, 조세, 관세, 국제통상, 형사 등의 분야에 관해 통합적인 법률 자문을 제공할 예정이다. &lt;br /&gt;&lt;br /&gt;알테오젠은 혈관주사(IV) 제형 의약품을 피하주사(SC) 제형으로 변경할 수 있는 히알루로니다제 플랫폼 하이브로자임 원천기술(ALT B4)을 개발하며, SC제형 항체-약물접합체(ADC) 치료제 개발을 선도하는 기업이다. 2014년 코스닥시장에 상장해 현재 시가총액 18조 원을 넘어서 코스닥 시총 1위 기업으로 자리 잡았다.  &lt;br /&gt;&lt;br /&gt;화우 바이오헬스센터(센터장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3950"&gt;권동주&lt;/span&gt;)는 특허법원, 복지부, 식약처, 건강보험심사평가원, 행정법원, 검찰, 경찰 등에서 다양한 경험을 쌓은 국내 최고 수의 변호사와 전문가들로 구성돼 있다. 이들은 특허팀, 급여전략팀, 의약품 인허가 및 우수의약품 제조·관리(GMP)팀, 규제 쟁송 자문팀, 형사 대응팀을 중심으로 제약 바이오헬스 산업 분야에 원스톱 종합 법률 서비스를 제공한다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3950"&gt;권동주&lt;/span&gt;(56·사법연수원 26기) 바이오헬스센터장은 “지금까지 반도체, 2차 전지 분야가 대한민국을 대표하는 기술이었다면 향후에는 바이오헬스 분야가 대한민국의 대표적인 미래 먹거리가 될 것"이라며 "이번 협약을 통해 화우는 바이오헬스센터를 중심으로 알테오젠이 글로벌 탑 티어 바이오기업으로 나아가는데 법적 조력자가 되겠다”고 말했다.</description>
 			<pubDate>Tue, 08 Oct 2024 00:52:41 -0000</pubDate>
@@ -209,36 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201806</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201806.jpg</media:thumbnail>
 			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>티아라 지연·황재균, '이혼 조정신청서' 제출</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201805.jpg" alt="201805.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;티아라 지연 · 야구선수 황재균《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;그룹 티아라 멤버 겸 배우 지연(31)과 kt 위즈 소속 프로야구 선수 황재균(37)이 이혼 절차를 밟고 있다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;5일 언론 보도에 따르면 지연과 황재균이 지난달 서울가정법원에 이혼 조정신청서를 제출해 이혼 절차를 밟고 있는 것으로 전해졌다. 2022년 12월 결혼한 두 사람의 이혼설은 여러 차례 불거진 바 있다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;지연 측 법률대리인 법무법인 태성의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="25246"&gt;최유나&lt;/span&gt;(39·변호사시험 1회) 변호사는 5일 "양측은 서로의 다름을 극복하지 못해 별거 끝에 이혼에 합의하고 절차 진행을 위해 서울가정법원에 이혼 조정 신청서를 접수한 상황"이라고 밝혔다. 최 변호사는 인기 드라마 ‘굿파트너’의 작가다. 이 드라마는 최고 시청률 17.7%를 찍을 정도로 큰 인기를 끌었다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;황재균도 이날 공식 입장을 내 "지연 씨와 저는 성격 차이로 인해 고심 끝에 별거를 거쳐 이혼하기로 합의했다”며 “비록 부부로서의 인연이 끝났지만 서로의 가는 길을 앞으로도 응원하고 지지할 것"이라고 했다.&lt;/p&gt;</description>
-			<pubDate>Sat, 05 Oct 2024 12:03:56 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201805</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201805</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201805.jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>[포토] 내 마음의 풍경</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/201801.jpg" alt="0.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;가을바람에 밤송이 터지니, 성큼 다가온 계절이 입가에 번진다.&lt;br /&gt;&lt;p style="text-align: right;"&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;   &lt;p style="text-align: right;"&gt;      &lt;b&gt;《한인섭 서울대 로스쿨 교수 제공》&lt;/b&gt;   &lt;/p&gt;   &lt;/b&gt;</description>
-			<pubDate>Fri, 04 Oct 2024 20:06:06 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201801</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201801</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201801.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>변호사 신분증 스마트폰 속으로 ‘쏙’</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/201540.jpg" alt="201540.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;대한변호사협회 홈페이지에 게시된 모바일 변호사 신분증 예시.&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;div style="margin-bottom:15px; padding:15px; background-color:#fdf3d8"&gt;   &lt;b&gt;요약&lt;/b&gt;&lt;br /&gt;▶변협이 모바일 변호사 신분증 서비스를 도입하며 변호사들의 관심을 끌고 있다.&lt;br /&gt;▶모바일 신분증은 기존 플라스틱 신분증과 동일한 효력을 지니며 기존 신분증 대비 편리성과 보안성이 높아졌다.&lt;br /&gt;▶변호사들 사이에서는 편리함을 느끼는 긍정적 반응과 실물 신분증에 익숙한 이들의 반응이 엇갈린다.&lt;br /&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대한변호사협회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2700"&gt;김영훈&lt;/span&gt;)가 지난달 12일 ‘모바일 변호사 신분증’ 서비스를 공식 개시했다. 2022년 모바일 운전면허증이 도입된 이후 정부와 민간에서 모바일 신분증 사용이 활성화되고 있는 가운데, 변호사들도 모바일 신분증을 통해 변호사 신분을 증명할 수 있게 된 것이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;플라스틱 신분증과 동일한 효력&lt;/b&gt;&lt;/p&gt;&lt;p&gt;모바일 변호사 신분증은 개인 스마트폰에서 사용 가능한 디지털 신분증이다. 기존 플라스틱 신분증보다 접근성과 편의성이 높다. 기존의 플라스틱 변호사 신분증을 재발급하려면 1만 원의 비용과 일주일 가량의 시간이 소요됐으나, ‘나의 변호사’ 앱을 통해 모바일 신분증을 사용하면 즉시 발급이 가능해 시간과 비용을 절감할 수 있다. 이와 함께 실물 신분증을 소지해야 하는 불편함은 물론 도난·분실에 대한 우려가 줄어들 전망이다. 모바일 변호사 신분증은 현행 실물 변호사 신분증과 동일한 효력을 지니며 법원·검찰·경찰·교정기관 등에서 사용이 가능하다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;대한변협 관계자는 “변호사 업무 수행 중 신분증 제시가 요구되는 모든 곳에서 모바일 변호사 신분증이 원활히 사용될 수 있도록 관련 기관들과 협조를 진행하고 있다”고 말했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;‘나의 변호사’ 앱 통해 사용 가능&lt;/b&gt;&lt;/p&gt;&lt;p&gt;모바일 변호사 신분증은 나의 변호사 애플리케이션을 통해 발급 받을 수 있다. 2011년 3월 이후 실물 플라스틱 변호사 신분증을 발급 받은 회원이라면 나의 변호사 앱을 통해 바로 발급 가능하다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;변협 회원 홈페이지 아이디와 비밀번호를 사용해 로그인한 후 마이페이지에서 ‘나의 신분증’ 버튼을 클릭한 뒤 보안 설정(암호 설정) 절차를 거치면 모바일 신분증이 발급된다. 수사기관 등에서 모바일 신분증 진위를 확인할 경우, ‘사본출력 승인코드 생성’ 버튼을 눌러 6자리 승인 코드를 생성한 후 이를 담당자에게 제공하면 검증할 수 있다. 정부24 등에서 사용이 가능한 일반 모바일 신분증의 경우 QR코드 인식 오류 문제가 발생할 수 있으나 모바일 변호사 신분증은 승인 코드 방식을 사용해 이런 문제를 극복한 것으로 보인다. 변협 전산팀 관계자는 “국가에서 시행하고 있는 일반 모바일 신분증의 경우 신원확인 검증앱 등의 QR코드를 스캔해 위조 여부를 검증하는 반면, 모바일 변호사 신분증은 변협에서 자체 개발한 승인코드 입력을 통한 검증 방법을 사용하기 때문에 인식이 잘 안되는 어려움은 전혀 없다”고 설명했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;모바일 변호사 신분증은 스마트폰 화면 캡처 방지 기능과 함께 신분증 하단에 일정 문구가 지속적으로 흐르도록 설계된 안전 장치도 추가했다. 해당 문구가 흐르지 않거나 보이지 않으면 신분증의 효력이 인정되지 않는다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;변호사들 반응은&lt;/b&gt;&lt;/p&gt;&lt;p&gt;변호사들 사이에서는 긍정적인 반응과 신중한 반응이 엇갈리고 있다. 변호사들은 “플라스틱 신분증을 대체할 수 있어 편리하다”는 의견과 “자주 사용하지 않을 것 같다”는 의견이 이어졌다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;한 로스쿨 출신 변호사는 “실제 열람한 시간이 표시돼 위조 위험도 줄고 화면도 선명하게 보여 편리하다”고 말했다. 반면 다른 소형 로펌 소속 변호사는 “아직 나의 변호사 앱을 사용하지 않는 변호사들도 많아 모바일 신분증이 활성화되기까지는 시간이 걸릴 것 같다”고 전망했다. 서초동에 근무하고 있는 한 변호사는 “젊은 변호사들은 모바일 신분증을 더 선호할지 모르지만 나처럼 기존 플라스틱 신분증에 익숙한 변호사들에게는 그다지 큰 효용성을 느끼지 못할 것 같다”고 말했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;</description>
-			<pubDate>Fri, 04 Oct 2024 20:06:05 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201540</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201540</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201540.jpg</media:thumbnail>
-			<dc:creator>안현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
