@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>뉴진스 하니 “국감 나가기로 결정…멤버들·버니즈 지키겠다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/10/HCGUWCHQE5FARN4FBEIQE7W3EQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/10/HCGUWCHQE5FARN4FBEIQE7W3EQ/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 09 Oct 2024 22:07:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TKG2CGAYTZAWFNSUYD4PR26MNM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 뉴진스 하니, 그가 9일 팬소통앱을 통해 팬들에게 보낸 메시지. /뉴스1, 온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘하이브 내 따돌림’ 사건과 관련해 이달 25일 열리는 국회 환경노동위원회(이하 환노위) 국정감사에 참고인으로 채택된 그룹 뉴진스 하니가 홀로 출석하겠다는 뜻을 밝혔다.&lt;br&gt;&lt;br&gt;하니는 9일 팬 소통 플랫폼 포닝을 통해 팬들에게 보낸 메시지에서 “나 결정했어! 국회에 나갈거야! 국정검사!(국정감사) 혼자 나갈 거예요!”라고 말했다.&lt;br&gt;&lt;br&gt;그는 “걱정 안 해도 된다. 내 스스로와 멤버들, 버니즈(뉴진스 팬덤)를 위해서 나가기로 결정했다”고 했다. 이를 본 팬들이 걱정과 우려의 메시지를 보내자 하니는 “힘든 것 없다. 나가고 싶다”면서 “아직 매니저님들이나 회사는 모른다. 많이 생각해봤지만 나가는 게 맞다고 생각을 한다”고 했다.&lt;br&gt;&lt;br&gt;하니는 “버니즈한테 먼저 얘기해주고 싶었다”며 “이런 사건을 겪으면서 많은 것을 알게 됐는데, 응원해주시는 분들에게 정말 감사해야 하는 걸 (깨달았다)”이라고 했다. 이어 “응원해주거나 누군가의 편에 남아 있어주는 것은 정말 쉽지 않는 일이라고 생각한다”며 “걱정할 필요 없다. 잘하고 올게”라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “어떻게 될지 잘 모르겠지만, 일단은 내게 배움이 많은(많은 것을 배울 수 있는) 경험일 거라고 생각한다”며 “뉴진스, 버니즈 지키겠다”라고 덧붙였다.&lt;br&gt;&lt;br&gt;하니는 앞서 지난달 라이브 방송 중 하이브 소속 매니저 등에게 인사했다가 ‘무시해’라는 얘기를 들었다고 주장한 바 있다.&lt;br&gt;&lt;br&gt;하니는 직접 해당 아이돌이나 그들의 소속 레이블명을 언급하지 않았으나, 이후 그룹 아일릿 소속사인 레이블 빌리프랩이 직접 나서 반박 입장을 표명했다. 빌리프랩 측은 “아일릿 의전 담당 구성원(매니저)은 뉴진스 멤버에 대해 ‘무시해’라는 발언을 한 적이 없다. 아일릿 멤버들도 뉴진스 멤버들에게 인사를 하지 않고 지나간 적이 없다”고 했다.&lt;br&gt;&lt;br&gt;이와 관련해 환노위는 지난달 30일 전체회의를 열어 국정감사 증인·참고인 35명을 의결하면서 하니를 아이돌 따돌림, 직장 내 괴롭힘 문제 참고인으로 채택했다. 하니 외에도 민희진 전 대표의 후임으로 어도어 대표를 겸하고 있는 김주영 하이브 최고인사책임자(CHRO)도 아이돌 따돌림 문제 대응 부실 등을 이유로 같은 날 증인으로 채택됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘돈봉투’ 의원은 검찰 불출석… 검사는 국감 안 가면 처벌</title>
       <link>https://www.chosun.com/national/court_law/2024/10/10/XABPLSBWV5HFPIOPEGQSQKTWJA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/10/XABPLSBWV5HFPIOPEGQSQKTWJA/</guid>
@@ -882,15 +891,6 @@
       <description/>
       <pubDate>Tue, 08 Oct 2024 09:47:23 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LJIKS2KSZBFOTO5DLYDJBQQCQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이현재 하남시장. /하남시청 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 하남시에 있는 미군 반환 공여지인 캠프콜번이 첨단산업의 중심지로 변신을 꾀하고 있다. 하남시가 캠프콜번에 대한 도시개발사업 민간사업자 공모에 앞서 설명회를 개최한 가운데 국내 내로라하는 건설사들이 참석하며 관심을 나타냈다.&lt;br&gt;&lt;br&gt;하남시와 하남도시공사는 8 일 서울 코엑스 컨퍼런스룸에서 캠프콜번 도시개발사업 민간사업자 공모 사전설명회를 개최했다. 이날 설명회에는 이현재 하남시장과 최철규 하남도시공사 사장 등 내외빈을 비롯해 GS건설, HDC현대산업개발 등 주요 건설사 업계 관계자 300여명이 참석했다. 캠프콜번 도시개발사업은 하산곡동 일원 약 25만㎡ 규모의 반환 미군기지인 캠프콜번 부지에 미래형 첨단산업 등 하남시의 자족기능 강화를 위한 융·복합단지를 조성하는 사업이다.&lt;br&gt;&lt;br&gt;이 시장은 설명회에서 5개 철도와 5개 고속도로망이 운영 중이거나 확정, 추진 중인 편리한 교통 여건을 하남시의 강점이라며 캠프콜번 부지가 큰 잠재력을 갖고 있다고 강조했다.&lt;br&gt;&lt;br&gt;이 시장은 “캠프콜번은 대한민국 최대의 업무 중심지인 서울 강남과 인접한 최고의 위치로써 부지조성이 용이하다는 장점이 있다”라며 “또한 국방부 소유 국유지로 토지 공급가격이 저렴하고 보상을 걱정할 필요가 없는 점도 큰 강점”이라고 소개했다.&lt;br&gt;&lt;br&gt;아울러 하남도시공사는 캠프콜번을 하남시 산업발전 및 일자리 창출을 위한 업무·산업시설 등 자족시설을 조성할 수 있는 전략육성시설로 조성해 우수기업을 유치한다는 청사진을 그렸다. 주요 개발 방향으로는 실수요자 중심의 개발을 위한 민관합동사업 추진과 민간사업자 실수요자 직접 사용 권장을 통한 신속한 부지 활성화 도모, 각종 인센티브 제공(원스톱 처리 지원 등)이 제시했다.&lt;br&gt;&lt;br&gt;이 시장은 “설명회에서 제안된 민간사업자들의 창의적인 의견들을 캠프콜번 도시개발사업에 반영해 실수요자 중심의 개발을 위한 민관합동사업을 성공적으로 완수하겠다”고 말했다.&lt;br&gt;&lt;br&gt;한편 캠프콜번 부지는 2007년 4월 반환됐다. 캠프콜번 부지 활용을 위해 지난 2022년 국방부와 업무협약을 맺은 하남시는 올해 10월 말 민관합동 사업에 참여할 민간사업자를 모집하는 공모를 진행할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한국범죄방지재단, 재소자 위한 모금 전시회 개최</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/08/WIWIUDM2URBORIJHIENLFC23PA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/08/WIWIUDM2URBORIJHIENLFC23PA/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Oct 2024 09:12:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XATMGIXZNJHLNE2TQXTCH4BZMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국범죄방지재단 '재소자를 위한 모금 사진전' 포스터. /한국범죄방지재단 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국범죄방지재단(이사장 이귀남 전 법무부장관)이 창립 30주년을 기념해 오는 12~16일 서울 강남구 역삼1동 문화센터 전시실에서 ‘재소자를 위한 모금 사진전’을 연다. ‘그대, 다시 꽃으로 피어나리’를 주제로 열리는 사진전에는 작가 고홍곤씨의 작품 80여점이 전시된다. 전시는 △혼돈 △위무 △극복 △소생 등 4개 테마로 구성되며, 야생화 사진과 글이 어우러진 포토에세이 형식으로 작품을 선보인다.&lt;br&gt;&lt;br&gt;고 작가는 2003년 홍익대학교 산업미술대학원 사진디자인과를 졸업한 뒤 전문 사진작가로 전향했으며, 대검찰청 과학수사과에서 사진감정관으로 근무했다. 꽃을 주제로 한 사진 작품으로 지난해까지 9번의 전시회를 열었다.&lt;br&gt;&lt;br&gt;재단 측은 “전국 재소자들에게 야생화 사진집과 사진 액자를 기부함으로써 추운 겨울을 견뎌내고 끝내 피어나는 꽃들의 강인한 생명력을 통해 삶의 격려와 위로를 전달하고자 했다”며 “스스로 긍정적인 변화를 이끌어내고 사회 복귀를 돕는 새로운 희망을 주고자 했다”고 했다. 또 “모금 전시회를 통해 우리 사회가 재소자를 단순히 처벌의 대상으로만 보는 것이 아니라 사회의 일원으로 바라보는 시각을 갖게 되기를 기대한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>'상암 논두렁 잔디' 논란에 린가드까지 소환... 국감 참고인 채택</title>
