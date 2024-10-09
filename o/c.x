@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“얼굴이 4분의 3 됐다”... 곽튜브, 논란 3주 만에 복귀</title>
+      <link>https://www.chosun.com/national/people/2024/10/09/63SPD7UJQ5DMNBCY2PQJPGJPWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/09/63SPD7UJQ5DMNBCY2PQJPGJPWE/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 09 Oct 2024 10:05:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CW4TNCWBXZG6DMZHNHEPOFRBMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이나은 옹호 논란 이후 약 3주 만에 모습을 드러낸 곽튜브. /유튜브 채널 ‘더 밥 스튜디오’&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여행 유튜버 곽튜브(32·본명 곽준빈)가 같은 그룹 멤버를 따돌렸다는 의혹을 받은 에이프릴 출신 배우 이나은(25) 옹호 논란 이후 처음으로 대중 앞에 모습을 드러냈다. 논란 이후 약 3주 만이다.&lt;br&gt;&lt;br&gt;곽튜브는 지난 8일 유튜브 채널 ‘더 밥 스튜디오’에 출연해 방송인 김풍, 침착맨, 빠니보틀, 키드밀리와 대화를 나눴다.&lt;br&gt;&lt;br&gt;김풍은 뒤늦게 도착한 곽튜브에게 음료를 건네며 “너 요즘 다이어트 하니?”라고 물었다. 최근 논란으로 마음 고생을 해 살이 빠졌다고 에둘러 언급한 것이었다. 곽튜브는 김풍의 질문에 별다른 대답을 하지 않고 씁쓸한 미소만 지었다.&lt;br&gt;&lt;br&gt;이어 빠니보틀이 “얼굴이 4분의 3이 됐다”고 하자 곽튜브는 “많이 빠지진 않았나 보다. 4분의 3이면”이라고 농담을 하며 무거운 분위기를 풀어보려고 했다. 빠니보틀은 다시 “반쪽이라고는 못하겠다”고 말하며 웃었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJBAYKWMBNBXPCHHORDXZZEKKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이나은 옹호 논란 이후 약 3주 만에 모습을 드러낸 곽튜브. /유튜브 채널 ‘더 밥 스튜디오’&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;곽튜브는 지난달 16일 자신의 유튜브 채널에 이나은과 이탈리아 로마를 여행한 영상을 올렸다가 비판을 받았다. 평소 자신이 학교폭력 피해자로서 힘든 시기를 겪었다고 밝혀온 곽튜브가 이 영상을 통해 ‘멤버 따돌림 의혹’을 받는 이나은을 ‘대리 용서’했다는 게 이유였다.&lt;br&gt;&lt;br&gt;논란이 일자 곽튜브는 영상을 내리고 두 차례 사과문을 올렸으나 여진이 계속 이어졌다. 앞서 곽튜브가 출연한 교육부의 학폭예방 공익광고가 유튜브에서 비공개 처리됐고, 부산광역시가 주최하는 부산 국제트래플페어는 곽튜브 토크 콘서트를 취소했다. 이후 곽튜브는 공개일정을 취소하고 자숙하는 시간을 가졌었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>뒤집힌 차량 보고 뛰어간 경찰과 시민들, 탑승객 4명 구했다</title>
+      <link>https://www.chosun.com/national/incident/2024/10/09/EOIEPGBDSRGGZGHEO33CVX2MWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/09/EOIEPGBDSRGGZGHEO33CVX2MWY/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 09 Oct 2024 09:15:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FWMRA566DRH5PEDOY6OK6FOI7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오전 8시 35분쯤 경북 칠곡군 중앙고속도로에서 중앙분리대를 들이받고 뒤집힌 승용차에 불길이 일고 있다./대구경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당직 근무를 마치고 귀가하던 경찰관이 충돌사고로 뒤집힌 차량에 타고 있던 시민 4명을 구조했다.&lt;br&gt;&lt;br&gt;9일 대구 군위경찰서에 따르면 이날 오전 8시 35분쯤 경북 칠곡군 가산면의 중앙고속도로 다부 IC 인근에서 창원 방향으로 운행하던 승용차 1대가 핸들 고장으로 중앙분리대를 충돌하고 뒤집혔다.&lt;br&gt;&lt;br&gt;야간 당직 근무를 마치고 퇴근하던 군위경찰서 경비안보과 소속 이동환 경사가 이를 목격한 뒤, 운행하던 차량을 갓길에 세웠다.&lt;br&gt;&lt;br&gt;이 경사는 즉시 사고 차량으로 달려간 뒤, 아직 탈출하지 못한 운전자 등 4명을 확인하고 차량 뒷문을 열고 탑승객 4명을 밖으로 빼냈다. 이 과정에서 사고를 목격한 시민 2명도 이 경사와 함께 인명 구조에 힘을 보탰다. 구조 과정에서 사고 차량에 연기와 함께 불이 붙었지만 이 경사 등이 신속하게 탑승객들을 구조하면서 별다른 인명 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;이 경사는 “평소 국민 안전을 지키기 위해 받은 비상대비 훈련이 큰 도움이 됐다”며 “경찰관으로 해야할 일을 했을 뿐”이라고 말했다. 경찰은 정확한 사고 원인을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>분당서도 학생 부족으로 중학교 폐교…1기 신도시 첫 사례</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/09/26O4SSVLYNCARCWPX6SK2CND2A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/09/26O4SSVLYNCARCWPX6SK2CND2A/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 09 Oct 2024 08:17:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YHB4XJF6K7ZGBKV4NVKXNB23ZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 성남시 분당구 금곡동 청솔중학교. /카카오맵&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 성남시 분당구에 있는 한 중학교가 학생 수 부족으로 폐교 절차를 밟고 있다.&lt;br&gt;&lt;br&gt;9일 경기도교육청 등에 따르면 경기 성남시 분당구 금곡동에 있는 청솔중학교의 폐교가 사실상 확정됐다.&lt;br&gt;&lt;br&gt;청솔중은 지난달 27일부터 이달 2일까지 적정규모학교 육성 추진 여부에 대해 학부모 41명 전원을 대상으로 설문조사를 실시했다.&lt;br&gt;&lt;br&gt;적정규모학교 육성은 ‘경기도교육청 적정규모학교 육성 및 지원에 관한 조례’에 근거해 소규모 학교 등 적정규모 이하의 학교를 본교 폐지, 신설대체 이전, 통합운영학교 등으로 추진하는 것이다. 학부모의 과반이 동의하면 해당 학교는 폐교 수순을 밟는다.&lt;br&gt;&lt;br&gt;청솔중학교는 1995년 개교 당시 전교생이 150여명이었지만 이후 줄곧 줄어서 현재는 43명이다.&lt;br&gt;&lt;br&gt;이번 설문조사에서 투표에 참여한 학부모 38명 중 25명(65.79%)이 적정규모학교 육성 추진에 찬성했고 반대는 13명(34.21%)이었다.&lt;br&gt;&lt;br&gt;이에 따라 교육 당국은 올해 청솔중 적정규모학교 육성 세부계획 수립 및 추진위원회 운영, 행정예고 등을 거쳐 내년 2월 폐교 절차를 완료할 계획이다.&lt;br&gt;&lt;br&gt;청솔중학교 재학생 중 전학 희망 학생은 반경 1.5㎞에 있는 다른 학교 2곳으로 전학할 수 있으며 청솔중에서 졸업을 희망하면 졸업 시까지 재학이 가능하다.&lt;br&gt;&lt;br&gt;이 학교가 폐교되면 분당을 비롯해 고양 일산, 부천 중동, 안양 평촌, 군포 산본 등 1기 신도시 중 첫 사례가 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세]  10월 10일 목요일 (음력 9월 8일 丁未)</title>
       <link>https://www.chosun.com/national/national_general/2024/10/09/DOLEVEQ3JRCI5EJVHPRJ67FZUI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/09/DOLEVEQ3JRCI5EJVHPRJ67FZUI/</guid>
@@ -880,14 +907,6 @@ A 씨는 지난 5월 3일 일당 2명과 태국 방콕의 클럽에서 한국인
       </media:content>
     </item>
     <item>
-      <title>DSC플랫폼, ‘지자체·대학 동반성장 포럼’ 11일 개최</title>
-      <link>https://www.chosun.com/national/weekend/2024/10/08/EUXNPGV3BZF3LCK56MP3ZJNVCQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2024/10/08/EUXNPGV3BZF3LCK56MP3ZJNVCQ/</guid>
-      <description/>
-      <pubDate>Tue, 08 Oct 2024 05:20:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CZEC3V6CDJDSNBQDEDK4ZFJD5Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충청권 메가시티와 DSC 공유대학의 미래를 주제로 한 ‘지자체·대학 동반성장 포럼’이 11일 오전 10시 대전 롯데시티호텔 1층 크리스탈볼룸에서 열린다.&lt;br&gt;&lt;br&gt;이번 포럼은 충청권 24개 대학이 참여한 대전·세종·충남 지역혁신플랫폼(DSC플랫폼)이 개최한다. DSC플랫폼은 지자체와 대학 간 지역 혁신 사업(RIS사업) 일환으로 4년 전부터 협업해왔다. ‘RIS사업’이 내년부터 더욱 확장된 ‘RISE사업’으로 전환되면서, 이에 따른 충청권 대학의 역할과 미래에 대해 토론을 이어갈 예정이다.&lt;br&gt;&lt;br&gt;첫 번째 세션은 한국직업능력연구원 주휘정 연구위원의 ‘RISE 체제 전환에 따른 충청권 대학 공유협업의 방향과 과제’, 충북지역혁신플랫폼 이재권 대학교육혁신본부장의 ‘RISE 체계에서 공유대학 운영방안: 충북 공유대학 사례를 중심으로’, DSC플랫폼 박용한 대학교육혁신본부장의 ‘충청권 메가시티와 DSC공유대학의 미래’ 발제로 이뤄진다.&lt;br&gt;&lt;br&gt;두 번째 세션은 지민석 DSC플랫폼 기획조정실장을 좌장으로, 주휘정 연구위원·이재권 본부장·충청권특별지방자치단체 합동추진단 송인경 과장·DSC플랫폼 박용한 대학교육혁신본부장·DSC플랫폼 이영림 모빌리티소부장본부장·DSC플랫폼 안재민 모빌리티ICT본부장 등이 ‘지자체·대학 동방성장과 충청권 메가시티와 DSC공유대학의 미래’를 주제로 토론을 벌인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>소주 7병 마시고 수업 중 성추행한 무자격 미국인 강사 징역 7년</title>
       <link>https://www.chosun.com/national/regional/yeongnam/2024/10/08/XPNHPTIKOJHTHG3QGWRVYE43AA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/10/08/XPNHPTIKOJHTHG3QGWRVYE43AA/</guid>
@@ -952,15 +971,6 @@ A 씨는 지난 5월 3일 일당 2명과 태국 방콕의 클럽에서 한국인
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TPVKV3OWD5EFHDOMMHZAJ5TBGA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘라임 펀드 사건’ 핵심 인물 김봉현 전 스타모빌리티 회장으로부터 술 접대를 받은 검사에게 무죄를 선고한 판결이 8일 대법원에서 뒤집혔다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 오경미 대법관)는 이날 청탁금지법 위반 혐의로 기소된 검찰 출신 이모 변호사와 나모 검사, 김봉현씨에 대해 무죄를 선고한 원심 판결에 대해 “향응 액수 선정에 관한 법리를 오해한 잘못이 있다”면서 깨고 사건을 서울남부지법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;나 검사는 2019년 7월 서울 강남구 청담동의 한 유흥업소에서 김씨와 이 변호사로부터 100만원어치 이상의 술과 안주 등을 접대받은 혐의로 기소됐다. 김씨와 이 변호사는 술자리에서 접대한 혐의를 받았다.&lt;br&gt;&lt;br&gt;당시 해당 술자리에는 나 검사 외 다른 검사 2명과 이종필 전 라임자산운용 부사장, 김모 전 청와대 행정관도 동석했던 것으로 나타났다. 다만 다른 검사들은 일찍 술자리를 떠나 접대비 100만원 이하로 계산돼 불기소됐다. 청탁금지법은 공직자가 동일인으로부터 1회에 100만원을 초과하는 금품 등을 받으면 안 된다고 규정한다.&lt;br&gt;&lt;br&gt;이 사건은 김씨가 2020년 10월 이른바 ‘옥중 서신’을 통해 술접대 사실을 폭로하면서 불거졌다. 그는 “검사 3명을 청담의 룸살롱에서 접대했다. 당시 라임 수사팀이 만들어지면 합류할 검사라고 했는데 실제 한 명이 수사팀에 참여했다”고 주장했다. 검찰은 김씨가 결제한 전체 술값 536만원을 근거로 술자리에 오래 머무른 나 검사와 김씨 등이 114만원씩 향응을 주고받은 것으로 보고 기소했다.&lt;br&gt;&lt;br&gt;그러나 1심은 “검사가 제출한 증거만으로는 이 사건 향응 가액이 100만원을 초과한다는 점이 합리적 의심의 여지 없이 증명됐다고 볼 수 없다”며 무죄를 선고했다. 또 다른 공직자 청와대 행정관이 중간에 술자리에 합류했으니, 총액을 다시 나누면 나 검사가 받은 최종 접대비는 약 93만원으로 계산된다는 것이다. 2심도 같은 결론을 내렸다.&lt;br&gt;&lt;br&gt;대법원은 원심의 계산법이 잘못됐다고 지적했다. 검사들과 달리 청와대 행정관은 김씨와의 친분으로 우연히 자리에 동석했고, 머무른 시간도 다른 만큼 접대비를 똑같이 나누면 안 된다고 봤다. 대법원은 “피고인과의 관계, 향응 제공 목적, 참석 경위와 시간 등에 비추어 피고인과 다른 참석자(청와대 행정관)가 받은 향응 가액이 동일하다고 볼 수 없는 사정이 증명된 경우, 이를 구분해 총비용에서 공제한 뒤 분할해 피고인이 받은 향응 가액을 정해야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;대법원은 검사들과 행정관이 접대받은 액수를 객관적으로 나눌 경우 나 검사의 접대비가 100만원을 넘을 가능성이 높다고 판단했다. 이에 따라 파기환송심은 술자리 참석자들이 각각 받은 향응을 다시 계산해 유무죄를 따질 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘공직선거법 위반’ 민주당 이개호 의원·장세일 후보, 경찰 수사 착수</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/08/4T6APRNQAVGXZFEWEK4T76FXY4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/08/4T6APRNQAVGXZFEWEK4T76FXY4/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Oct 2024 02:10:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VSVLZAROIFKHXFFQSCRGFBY5AQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장세일 전남 영광군수 재선거 후보가 더불어민주당 박찬대 원내대표, 정진욱 비서실장, 이개호 의원과 지난달 22일 전남 영광군 법성면 일대를 방문해 군민과 기념 촬영하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공직선거법 위반 혐의로 시민단체에 고발당한 장세일 더불어민주당 영광군수 후보와 이개호 민주당 의원에 대해 경찰이 수사에 착수했다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 8일 오후 4시쯤 김순환 서민민생대책위원회(서민위) 사무총장을 고발인 신분으로 불러 조사한다고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 서울경찰청은 서민위는 지난 4일 장 후보와 이 의원을 공직선거법 위한 혐의로 수사해달라며 제출한 고발장을 접수했다. 영등포경찰서는 이 사건을 배당받아 본격적으로 수사에 착수했다.&lt;br&gt;&lt;br&gt;서민위는 이 의원이 강종만 전 영광군수에게 ‘장 후보를 지지하라’는 취지의 이야기를 했다고 주장했다. 고발장에 따르면 제보자 A씨는 “장관님(이개호 의원)이 강종만 군수가 장세일 후보를 도우면, 강 군수가 추진해오던 풍력 사업을 적극 돕겠다고 했지 않았냐”며 이 의원의 과거 발언을 확인받으려 했다.&lt;br&gt;&lt;br&gt;강 전 군수는 선거법 위반 혐의로 군수직을 상실하기 전 해상풍력변전소 건축허가를 내는 등 친환경 에너지 사업을 육성하려 했다. 이에 대해 이번 선거 과정에서 강 전 군수가 장 후보를 지지해야 지금껏 이어오던 풍력사업을 지속할 수 있다는 취지로 얘기했다는 주장이다.&lt;br&gt;&lt;br&gt;이에 서민위는 “이 의원이 장 후보의 경선 승리를 위해 로비한 정황이 드러났다”며 공직선거법 위반 혐의로 이 의원과 장 후보를 고발했다. 이 의원은 서민위 고발 내용이 사실과 다르다고 반박한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편 이번 선거는 강 전 군수가 지난 5월 공직선거법 위반으로 벌금 200만원 선고받아 군수직을 상실하며 치러지게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“4년 동안 지옥 같았다”…어린시절 왕따 피해 고백한 성시경·박서준</title>
       <link>https://www.chosun.com/national/national_general/2024/10/08/YSZ5SJV23RGWXN5C3F7CPJGNIM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/08/YSZ5SJV23RGWXN5C3F7CPJGNIM/</guid>
@@ -968,15 +978,6 @@ A 씨는 지난 5월 3일 일당 2명과 태국 방콕의 클럽에서 한국인
       <description/>
       <pubDate>Tue, 08 Oct 2024 00:31:03 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DWJJT7GHPBCAVBTUM4FKZXLVCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 성시경(왼쪽), 배우 박서준./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 성시경과 배우 박서준이 학창 시절 따돌림 피해를 당했다고 털어놨다.&lt;br&gt;&lt;br&gt;7일 유튜브 채널 ‘성시경’에는 ‘처음 만난 서준이한테 반해버렸습니다’라는 제목의 영상이 올라왔다.&lt;br&gt;&lt;br&gt;이 영상에서 박서준은 “어릴 때는 진짜 소심하고 낯가림도 엄청 심했다. 너무 쑥스러워서 식당에서 주문도 못했다”며 “그런 성격이 너무 싫었던 건 중학교 3학년 때였다. 어디 가서 말도 못하고 제 자신이 너무 바보 같았다”고 운을 뗐다.&lt;br&gt;&lt;br&gt;이에 성시경은 “허우대도 멀쩡하고 키도 컸을텐데 친구들 사이에서 왕따는 없지 않았나”고 물었고, 박서준은 “초등학교 땐 왕따도 좀 당했다. 중학교 때도 자연스럽게 조용한 부류 중 한 명이었다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AAO4ZOX5TVG57AB543LAPZODMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 박서준과 가수 성시경./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러자 성시경은 “요즘 왕따 논란이 많다. 나도 처음 얘기하는데 (초등학교) 1학년 때부터 4학년 때까지 지옥이었다”며 “(가해자들이) ‘끝나고 남아’라고 하는데 난 누굴 때리는 성격도 아니고 싸움도 싫었다. 근데 지나고 나니까 누굴 때린 거보다 다행인 거 같다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “(왕따가) 얼마나 지옥 같은지 난 정확히 기억하고 있다. 애들이 참 순수한데 순수한 만큼 너무 순수하게 못됐다”고 덧붙였다.&lt;br&gt;&lt;br&gt;박서준은 “결국에는 자존감과 자신감의 문제인 것 같다”며 “그때는 당연히 내가 ‘난 별거 아니니까’라며 자신감도 많이 떨어진 아이였는데 연기를 시작하면서 자신감도 생기고 얘기도 조금 할 수 있게 됐다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>총선 사범 기소 의원 20명선… 돈 대신 ‘가짜 뉴스’ 뿌렸다</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/08/S3PGHEJG5NEW5PNVJPNFZHIGUU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/08/S3PGHEJG5NEW5PNVJPNFZHIGUU/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Oct 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6J5BJZXXEVDYXCOGMMUHNUU3II.png"&gt;&lt;figcaption&gt;&lt;small&gt;양문석 더불어민주당 경기 안산갑 후보가 지난 4월 4일 지역구에서 유세하고 있다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 4·10 총선의 선거 사범 공소시효(6개월)가 오는 10일 끝난다. 검찰이 재판에 넘기는 22대 국회의원은 최대 20명으로 2000년 16대 총선 이후 가장 적을 것으로 전망된다. 법조계에선 2022년 검경 수사권 조정으로 검찰의 선거 범죄 직접 수사가 어려워진 데다, 금품 선거는 줄고 허위 사실 공표 혐의는 늘었는데 대법원의 이재명 더불어민주당 대표 과거 선거법 사건 파기로 처벌은 까다로워진 게 영향을 미쳤다는 분석이 나온다.&lt;br&gt;&lt;br&gt;◇'선거법 위반’ 22대 의원 최대 20명&lt;br&gt;&lt;br&gt;7일 본지 취재를 종합하면, 이날까지 검찰이 4·10 총선 관련 공직선거법 위반 혐의로 불구속 기소한 현역 의원은 국민의힘 구자근·조지연 의원, 더불어민주당 김문수·안도걸·양문석·이상식·정동영·정준호 의원 등 8명이다. 이들은 불법 기부 행위, 호별 방문 또는 사전 선거운동, 허위 사실 공표, 불법 전화홍보방 운영 등의 혐의를 받고 있다. 법원에서 벌금 100만원 이상이 확정되면 당선이 무효가 된다. 이정헌 민주당 의원의 선거사무장은 미신고 선거 사무원(자원봉사자)에게 현금 300만원을 준 혐의로 기소됐는데, 이 사무장이 벌금 300만원 이상을 확정받으면 이 의원도 의원직을 잃게 된다.&lt;br&gt;&lt;br&gt;이 외에도 수사를 받는 것으로 알려진 의원은 국민의힘 3명(김형동‧서일준‧신성범), 더불어민주당 8명(박균택‧박용갑‧송옥주‧신영대‧신정훈‧어기구‧이병진‧조계원), 조국혁신당 1명(조국) 등 총 12명이다. 이들 중 일부는 무혐의 처분을 받을 수도 있다. 조계원 민주당 의원은 경찰에서 무혐의 처분을 받았지만, 고발인 측이 이의신청을 한 상태다. 지난 3월 외신기자 간담회에서 딸이 학위와 의사면허를 자진 반납했다고 말해 허위 사실 공표 혐의로 송치된 조국 의원의 경우 서울중앙지검이 현재까지 대면 조사를 하지 않았다. 이런 상황을 종합하면 검찰이 선거법 위반 혐의로 기소하는 22대 의원은 20명 정도에 달할 것으로 알려졌다. 이는 2000년 16대 총선 때 현역 의원 26명이 기소된 이후 가장 적은 규모다. 2004년 17대 때 기소된 의원은 46명이었고 이후 2008년 18대 23명, 2012년 19대 28명, 2016년 20대 33명, 2020년 21대 27명이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S23NRKEQTFDLVBUEB2TQIBKH4Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;◇檢, 수사권 조정 이후 선거 사범 수사 못해&lt;br&gt;&lt;br&gt;법조계에선 이번 총선 관련 현역 의원 기소 숫자가 2000년 이후 최저인 이유에 대해 여러 해석이 나온다. 우선 2022년 문재인 정부 때 ‘검수완박(검찰 수사권 완전 박탈)’으로 불리는 검경 수사권 조정으로 검찰이 직접 선거 범죄 수사를 하지 못하면서 수사 역량이 떨어졌다는 지적도 있다. 이에 비해 선거법 사건 공소시효는 1994년 대상자별로 달랐던 선거법을 통합한 후 지금까지 6개월로 유지되고 있다. 검찰 관계자는 “검찰의 경찰에 대한 수사지휘권도 없어지면서 짧은 기간 내에 종료해야 하는 선거사범 수사가 경찰에서 어느 정도 진행되고 있는지, 보완할 점은 없는지를 중간중간에 파악하기 어려워졌다”고 말했다.&lt;br&gt;&lt;br&gt;다음으로 선거에서 금품보다 ‘말’이 차지하는 비중이 중요해졌기 때문이라는 지적도 나온다. 대검찰청에 따르면 2016년에 역대 총선 최초로 흑색‧불법선전사범(35.6%) 비율이 금품선거사범(20.6%)을 앞섰고, 2020년과 이번 총선에도 비슷한 경향을 보였다고 한다. 검찰 관계자는 “SNS(소셜미디어)가 발달하고 선거 문화도 점점 바뀌면서 돈이 오고 가는 행태가 확실히 줄었다”고 말했다.&lt;br&gt;&lt;br&gt;흑색선전, 즉 허위 사실 공표 혐의를 받는 선거사범이 늘고 있지만 처벌은 더 어려워졌다는 분석이 있다. 대법원 전원합의체는 이 대표가 2018년 경기지사 선거 당시 열린 방송토론회에서 ‘친형을 강제 입원시키려고 한 적 없다’는 취지로 한 발언 등에 대해 선거법상 허위 사실 공표 혐의로 기소돼 벌금 300만원을 선고한 원심을 2020년 7월 7(무죄) 대 5(유죄) 의견으로 파기 환송했다. 당시 대법원은 이 대표 혐의에 대해 “토론회 발언은 상대 후보자의 의혹 제기에 대한 답변·해명하는 과정에서 나온 것으로, 적극적으로 반대 사실을 공표한 것이 아니다”라며 “표현의 자유가 제 기능을 발휘하기 위해서는 그 생존에 필요한 ‘숨 쉴 공간’이 필요하다”고 밝혔다. 선거 담당 부장검사를 지낸 변호사는 “이 대표 파기환송심 이후 허위 사실 공표죄 적용이 어려워지면서 불기소 처분하는 사례가 늘었다”고 말했다.&lt;br&gt;&lt;br&gt;한편, 대법원 법원행정처는 최근 일선 법원에 ‘선거법 위반 사건을 정해진 처리 기간(1심 6개월, 2·3심 각 3개월)에 끝내 달라’는 내용의 권고문을 보냈다. 한 법조인은 “이 대표의 지난 대선 선거법 위반 사건은 1심이 2년째 진행 중인데 법원이 올해 총선 사건은 빨리 처리하겠다는 의지를 보인 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 술 취해 아파트서 알몸 상태로 음란행위... 20대 男 입건</title>
