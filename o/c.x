@@ -13,6 +13,63 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>PSG, 한글날 맞아 훈민정음·호랑이 들어간 특별 유니폼 출시</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/09/72VASE3WTNHXDCUXSEILH356NU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/09/72VASE3WTNHXDCUXSEILH356NU/</guid>
+      <dc:creator>장민석 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 09 Oct 2024 03:32:37 +0000</pubDate>
+      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZICUJVSZFZDR3LJ3FR3CYIA2KE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이강인이 새로 출시된 PSG 한글 유니폼을 들어보이고 있다. / PSG 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;국가대표 미드필더 이강인(23)의 소속팀 파리 생제르맹(PSG)이 한글날을 맞아 2년 연속 한글 유니폼을 출시했다.&lt;br&gt;&lt;br&gt;PSG 구단은 9일 소셜미디어를 통해 이강인이 ‘한글 유니폼’을 들고 있는 사진을 게재했다. ‘한국의 한글날을 축하하며 한글이 들어간 한정판 유니폼을 판매하고 있다’는 메시지도 전했다. 이강인은 10일 요르단과 월드컵 3차 예선 원정 4차전을 치르기 위해 대표팀에 합류해 있다.&lt;br&gt;&lt;br&gt;이강인이 직접 들고 있는 새로운 홈 유니폼 뒷면엔 ‘이강인’이 한글 글씨로 되어 있고, 등번호 숫자엔 훈민정음 언해본이 적혀 있다. 등번호 아래엔 호랑이 두 마리가 새겨져 있다. 허리엔 태극기가 박혔다. PSG는 소셜미디어를 통해 ‘2024년 10월 9일, 제578돌을 맞은 한글날을 PSG가 함께 기념하고 축하합니다’란 메시지도 전했다.&lt;br&gt;&lt;br&gt;PSG는 작년에도 한글 유니폼을 제작해 수퍼스타 킬리안 음바페가 이를 입고 뛰는 장면이 화제가 되기도 했는데 올해는 작년보다 업그레이드된 버전이 출시됐다. 이강인 등 PSG 선수들은 오는 20일 스트라스부르와 벌이는 2024~2025시즌 프랑스 리그1 8라운드 홈경기를 통해 새 한글 유니폼을 선보일 예상이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/LRHEV7R6ENC3TAYN67NJIXMJ7Q.jpg?width=1080&amp;height=1720&amp;auth=177831eb9a92818381a247a4b836d4044480c08daeec12dee322613b9aef60aa&amp;smart=true" type="image/jpeg" height="1720" width="1080">
+        <media:description type="plain">이강인이 새로 출시된 PSG 한글 유니폼을 들어보이고 있다. / PSG 인스타그램</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>이주호 부총리 “휴학할 자유 누구에게나 있지 않다”</title>
+      <link>https://www.chosun.com/national/education/2024/10/09/NGIBPHXDEZCATHTZBEHJSGHHYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/09/NGIBPHXDEZCATHTZBEHJSGHHYQ/</guid>
+      <dc:creator>김경은 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 09 Oct 2024 04:35:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/USHWM2INTZOPPCXREMEOICKB5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오전 열린 국회 교육위원회의 교육부, 국가교육위원회 등의 국정감사에서 이주호 사회부총리 겸 교육부 장관(가운데)이 의원 질의에 답변하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이주호 부총리 겸 교육부 장관이 9일 수업을 거부해 학교로 돌아오지 않고 있는 의대생들과 관련해 “휴학에 대한 자유가 누구에게나 있지는 않다”고 말했다.&lt;br&gt;&lt;br&gt;이 부총리는 8일 시작해 자정을 넘겨 진행된 국회 교육위원회 국정감사에서 고민정 더불어민주당 의원이 ‘휴학할 자유는 누구에게나 있다’는 취지로 질의하자 이 같이 답했다. 그러면서 “특히 의대 학생은 국민의 생명과 건강에 직결되는 인력 수급에 관련된 사안”이라며 “동맹휴학은 (국민의 건강과 생명을)직접적으로 훼손한다”고 했다.&lt;br&gt;&lt;br&gt;교육부는 지난 6일 ‘내년 3월 1학기 복귀’를 전제로 의대생 휴학을 허용해주기로 했다. 각 대학은 상담 등을 통해 의대생들이 휴학하는 사유가 정부의 ‘의대 증원’ 정책에 반대해 집단으로 하는 동맹휴학이 아니라는 점을 확인하고, 휴학원에 ‘2025학년도 시작에 맞춰 복귀한다’고 명기한 경우에만 휴학을 승인해줄 수 있다. 앞서 지난달 30일 의대생들 휴학원을 일괄 승인한 서울대 의대에 대해서는 교육부가 현재 감사를 진행하고 있다. 의대생들은 ‘조건부 휴학’이 “개인의 자유를 침해하는 반헌법적 대책”이라며 “학생의 기본 권리에 대한 명백한 침해이자 협박”이라고 반발하고 있다.&lt;br&gt;&lt;br&gt;이와 관련해 고 의원이 ‘휴학 승인은 서울대 의대 학장의 권한 내에서 한 것’이라고 말하자 이 부총리는 “공익에 필수적인 국민 생명, 건강에 관련된 의료 인력 수급은 교육부에 지도감독 권한이 있다”고 했다. “(그 권한을)행사해서 모든 의대에 동맹휴학은 안 된다고 모든 의대에 요청했고, 그 상황에서 (서울대 의대가)독단적으로 (휴학 승인을) 결정했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;고 의원이 동맹휴학인지 아닌지 무엇을 근거로 판단하느냐면서 이 부총리에게 “휴학해본 적 없느냐”고 묻자 이 부총리는 “저는 휴학해본 적이 없다”고 답했다. 고 의원이 “(대학생들은)다들 한번씩은 (휴학을)한다”면서 “요즘은 취업이 안 돼서, 여행하려고, 편입하려고, 군대 때문에도 한다. 그 사람들이 동맹휴학인지 아닌지 의대 학장이 어떻게 판단하느냐”고 질의하자 이 부총리는 “그러니까 (서울대 의대 학장은)판단하지 않고 대규모 휴학을 승인해준 것”이라고 답했다.&lt;br&gt;&lt;br&gt;의대생들이 올해는 휴학하되 내년 3월에는 학기 시작과 더불어 복귀를 해야 한다는 ‘조건부 휴학’에 응하지 않고 계속 수업을 거부하면 학칙에 따라 유급 또는 제적 처리된다. 고 의원은 휴학원을 내고도 승인 받지 못한 학생들은 추후 소속 의대와 대학, 교육부를 향해 집단소송을 제기할 수 있다고 지적했다.&lt;br&gt;&lt;br&gt;고 의원이 ‘의대생들이 집단으로 휴학원을 제출하게 된 원인 제공을 누가 했느냐’고 묻자 이 부총리는 “정부 정책에 학생들이 동맹휴학으로 반발을 한 사안”이라면서 “독재라고 생각하지 않는다”고 말했다.&lt;br&gt;&lt;br&gt;이 부총리는 서울대 의대 감사를 철회할 가능성도 언급했다. 더불어민주당 소속 김영호 교육위원장이 “조건부 휴학 승인을 제시했으니 서울대 의대 감사를 철회하고 서울대를 설득하는 게 교육부의 바람직한 역할 아니겠나”라고 질의하자 이 부총리는 “여러 대안에 대해 서울대와 대화하겠다”고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내일 의사단체-정부 대면… 대화 물꼬 트이나</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/10/09/QU3YQOO4SRADRBHFID7KHXZD4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/09/QU3YQOO4SRADRBHFID7KHXZD4Y/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 09 Oct 2024 04:15:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TP7O53RXFDXFOGVRKNECKHF5PQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 대학 병원을 찾은 내원객들이 진료를 위해 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의정 간 대화가 꽉 막힌 상황에서 오는 10일 의사 단체와 정부가 한 테이블에 앉아 의견을 주고받는다.&lt;br&gt;&lt;br&gt;서울의대·서울대병원 교수협의회 비상대책위원회와 정부는 오는 10일 오후 2시부터 4시까지 서울대 의대 융합관 박희택홀에서 ‘의료개혁, 어디로 가는가’ 토론회를 연다.&lt;br&gt;&lt;br&gt;비대위 측에선 강희경 비대위원장(서울대병원 소아청소년과 교수)과 하은진 위원(서울대병원 신경외과 교수)이, 정부 측에선 장상윤 대통령실 사회수석과 정경실 복지부 의료개혁추진단장이 테이블에 앉는다.&lt;br&gt;&lt;br&gt;이들은 &lt;b&gt;▲&lt;/b&gt;지속 가능한 의료 체계 구축 방안, &lt;b&gt;▲&lt;/b&gt;의대 교육 정상화 방안, &lt;b&gt;▲&lt;/b&gt;환자 중심의 의료 체계 구축 방안, &lt;b&gt;▲&lt;/b&gt;의료 정책 결정 과정의 절차적 정당성, ▲2000명 증원 왜 필요한가 등을 주제로 논의할 예정이다.&lt;br&gt;&lt;br&gt;비대위는 “의료계와 정부는 의료 위기에 공감하지만, 그 원인과 해결책에 대해선 여전히 큰 의견 차이가 있다”며 누가 옳은지를 따지는 토론이 아니라 한국 의료의 위기를 극복하고 미래를 대비하기 위한 숙론(熟論)의 장이 될 것이라는 데 의미를 부여했다.&lt;br&gt;&lt;br&gt;의정이 대면한다는 점에서 의미 있는 자리지만, 대화에 나설 의사 단체 측이 전체 의사를 대표하지 못한다는 점에서 향후 본격적인 대화 물꼬를 틀 계기가 될지는 미지수라는 분석이 나온다.&lt;br&gt;&lt;br&gt;이날 토론회는 유튜브 채널 ‘보건복지부TV’에서 생중계된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IGZRFW32F5AC7K7UUUE4VUKNH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;[서울의대·병원 교수 비대위 제공]&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘윷놀이 도박’ 20만원 잃자 불 붙여 지인 살해한 60대 男, 징역 35년 확정</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/09/PZPVE5HZ5FCGZNVBOELB6FQDLQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/09/PZPVE5HZ5FCGZNVBOELB6FQDLQ/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 09 Oct 2024 03:46:30 +0000</pubDate>
+      <content:encoded>윷놀이 도박 도중 돈을 잃자 다툼을 벌인 뒤 지인의 몸에 불을 질러 살해한 60대 남성에게 징역 35년이 확정됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYV43FZZKZHX5PZXJZRJUOUZNU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원 건물. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 법조계에 따르면 대법원 3부(주심 엄상필 대법관)는 살인, 보험사기방지 특별법 위반 혐의로 재판에 넘겨진 김모(63)씨에게 징역 35년을 선고한 원심 판결을 지난달 12일 확정했다.&lt;br&gt;&lt;br&gt;김씨는 2022년 11월 오후 6시 반쯤 전남 고흥군 한 컨테이너에서 20년 전부터 알고 지낸 60대 남성을 살해한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;김씨는 피해자 포함 4명과 윷놀이 도박을 하다 20만원을 잃었는데, 김씨가 피해자에게 계속 윷놀이를 할 것을 종용했으나 피해자가 윷놀이를 그만하겠다며 자리를 떠나자 이 같은 범행을 저지른 것으로 파악됐다.&lt;br&gt;&lt;br&gt;김씨는 피해자를 쫓아가 그의 멱살을 잡고 컨테이너로 끌고 와 쇼파에 앉힌 뒤 휘발유를 붓고 라이터로 피해자 몸에 불을 붙인 것으로 조사됐다. 김씨는 피해자 머리와 몸 상반신을 적실 정도의 휘발유를 들이부은 것으로 나타났다. 피해자는 화상을 입고 병원 치료를 받다 4개월 뒤인 이듬해 3월 숨졌다.&lt;br&gt;&lt;br&gt;이게 끝이 아니었다. 앞서 김씨는 이혼하고 홀로 지내던 피해자의 처지를 이용해 자신을 보험수익자로, 피보험자를 피해자로 설정한 사망 보험에 가입하기도 했다.&lt;br&gt;&lt;br&gt;범행 직후 김씨는 다른 일행과 함께 피해자를 병원으로 옮겼고 일부 치료비를 부담했다. 이 과정에서 김씨는 “내가 실수로 난로를 넘어뜨려 화상을 입었고, 피해자에 대한 치료비를 부담하고 있다”는 취지로 허위 진술해 자신 명의의 일상배상책임 보험금 800만원을 편취한 혐의도 있었다. 이 과정에서 범행 목격자와도 공모했다.&lt;br&gt;&lt;br&gt;1·2심 모두 김씨에게 징역 35년과 10년간 위치추적 전자장치 부착을 명령했다. 김씨는 살해할 고의는 없었다고 혐의를 부인했으나 받아들여지지 않았고, 대법원도 원심 판결에 잘못이 없다며 그의 상고를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈, 세종시장 단식에 “동병상련…정치논리가 시민 삶 막아”</title>
+      <link>https://www.chosun.com/national/regional/seoul/2024/10/09/ZYJM6LMSUJGQLBPQCM6KQAYHXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/10/09/ZYJM6LMSUJGQLBPQCM6KQAYHXI/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 09 Oct 2024 03:39:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUVPSGXBUBIRZPYAQ2BL7FCHMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 8일 오전 서울 영등포구 콘래드 호텔에서 열린 서울 핀테크 위크 2024 컨퍼런스 개회식에서 개회사를 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 정원도시박람회와 빛 축제 예산 삭감에 항의하며 지난 6일부터 단식 농성에 들어간 최민호 세종시장에 동병상련의 기억이 있다며 “정치논리가 시민의 삶을 가로막아선 안 된다”고 말했다.&lt;br&gt;&lt;br&gt;오 시장은 9일 페이스북 글을 통해 이같이 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “정원도시박람회와 빛 축제를 위한 예산이 여소야대라는 정치적 상황에 막혀 단식이라는 결단에 이르렀다는 소식을 듣고 그 결심을 충분히 이해하면서도 마음이 아팠다”며 “공약을 지키고자 하는 결의와 의지는 결코 가볍지 않으리라 생각한다”고 했다.&lt;br&gt;&lt;br&gt;이어 오 시장은 동병상련의 기억이 있다며 “3년 전 서울시의회가 극도의 여소야대였을 때 ‘서울런’, ‘손목닥터 9988′, ‘디딤돌소득’(옛 안심소득)’과 같은 시민들께 꼭 필요한 공약 사업이 정치적 이유로 전액 삭감됐을 때 느꼈던 좌절감과 무력감은 아직도 생생하다”고 했다.&lt;br&gt;&lt;br&gt;또 오 시장은 “빛 축제와 정원도시박람회는 단순한 행사가 아니라 세종시의 미래 비전을 담고 있는 중요한 사업”이라며 “이런 사업이 정치적 갈등으로 인해 좌초되지 않도록 세종시의회가 더 넓은 시각에서 협력해주길 기대한다”고 했다.&lt;br&gt;&lt;br&gt;아울러 “의회와의 협력은 결코 쉽지 않은 길이다. 그러나 시장님이 세종시를 위해 보여주신 그 결단과 의지로 결국 이 난관을 극복하고 더 나은 길로 나아가리라 믿는다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>직장인 4명 중 1명은 월 400만원 이상 받는다…역대 최고치</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/09/L2ZQJPNSDZG3ZKLCXRSWQFJRBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/09/L2ZQJPNSDZG3ZKLCXRSWQFJRBM/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 09 Oct 2024 03:24:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6S3PESFBIRQ3SJP4AJEWGCZJBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광화문에서 출근하는 직장인./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한민국 직장인 4명 중 1명은 한 달에 400만 원 넘게 벌고 있는 것으로 조사됐다. 이는 역대 최고치 기록이다.&lt;br&gt;&lt;br&gt;8일 통계청이 발표한 ‘2024년 상반기 지역별 고용 조사’에 따르면 올해 상반기 임금 근로자는 2869만3000명으로 전년보다 26만1000명 늘었다.&lt;br&gt;&lt;br&gt;이들을 임금 수준별로 보면 200만~300만원 미만이 32.1%로 가장 많았고, 400만원 이상이 25.9%로 뒤를 이었다. 이어 300만~400만원 미만 21.9%, 100만~200만원 미만 10.7%, 100만원 미만 9.4% 순이었다.&lt;br&gt;&lt;br&gt;특히 400만원 이상 월급자가 1.9%포인트 늘어 가장 많이 증가했다. 300만~400만원도 0.6%포인트 늘어 눈길을 끌었다. 100만원 미만도 0.3%포인트 올랐다. 100만~200만원과 200만~300만원은 각각 1.6%포인트, 1.2%포인트 줄었다.&lt;br&gt;&lt;br&gt;임금 근로자가 408만4000명으로 가장 많은 제조업 분야에서 400만원 이상 월급자의 비중은 36.6%로 전년 상반기보다 2.0%포인트 늘었다. 제조업 임금 근로자 중에서는 400만원 이상 비중이 가장 컸다.&lt;br&gt;&lt;br&gt;산업대분류별로 400만원 이상 임금 근로자 비중이 가장 높은 직종은 금융 및 보험업으로 49.5%가 400만원 이상이었다. 보건업 및 사회복지 서비스업에서는 400만원 이상의 월급을 받는 이들은 9.5%에 그쳐 전체 업종 중 비중이 가장 낮았다.&lt;br&gt;&lt;br&gt;임금 근로자를 포함한 전체 취업자는 지난해 상반기 2869만3000명으로 전년 동기 2843만2000명에 비해 26만1000명이 늘었다.&lt;br&gt;&lt;br&gt;산업 소분류별 취업자를 보면 음식점업 종사자가 166만6000명(5.8%)으로 가장 많았으며, 전년 대비 3만5000명이 증가했다. 주간 돌봄 시설 등 ‘비거주 복지시설 운영업’ 종사자가 155만3000명(5.4%), 작물재배업 종사자가 137만5000명(4.8%) 등으로 뒤를 이었다.&lt;br&gt;&lt;br&gt;전공계열별로 보면 교육 분야 전공자와 보건 분야 전공자가 자신의 전공을 살려 취업하는 비중이 높았다. 교육 전공자의 52.7%가 교육 서비스업에 취업했고, 보건 전공자의 60.1%는 보건업 및 사회복지 서비스업에서 일자리를 구했다.&lt;br&gt;&lt;br&gt;공학, 제조·건설 전공자의 28.1%는 제조업에 취업했다. 인문학 전공자 중에는 교육 서비스업으로 진출하는 이들의 비중이 가장 높았고, 경영 및 행정·법학 전공자 중에는 도매 및 소매업으로 진출하는 이들이 가장 많은 것으로 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서울시, 임산부 특별 대우한다…공공시설 이용료 감면, 행사 우선 입장</title>
       <link>https://www.chosun.com/national/national_general/2024/10/09/TL5V6VNZAVBINMTNPRXMA54IQ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/09/TL5V6VNZAVBINMTNPRXMA54IQ4/</guid>
@@ -847,15 +904,6 @@ A 씨는 지난 5월 3일 일당 2명과 태국 방콕의 클럽에서 한국인
       <content:encoded>21만721명의 게이머들이 8일 ‘게임산업에 관한 법률’에 대한 헌법소원 청구를 제기한다. 이는 2008년 헌법재판소 설립 이래 가장 많은 청구인이 참여했던 미국산 쇠고기 관련 위헌확인 소송의 청구인 수(9만5988명)의 두 배를 뛰어넘는 사상 최대 규모의 헌법소원이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BFC4CGMRWBELPO3JCNGLZOIDDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오전 서울 종로구 헌법재판소 앞에서 청구인 대표 김성회씨가 발언하고 있는 모습. /박혜연 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구독자 약 92만명의 유튜브 채널 ‘김성회의 G식백과’ 운영자 김성회씨와 이철우 변호사(한국게임이용자협회장), 게이머들은 이날 오전 헌법재판소에 심판 청구서를 제출했다.&lt;br&gt;&lt;br&gt;이 소송은 김성회씨가 지난달 5일 자신의 유튜브 채널에 “게임산업법에 대한 문제점을 공론화하면서 헌법소원 청구인 모집을 시작하겠다”는 내용의 영상을 올리면서 시작됐다. 영상 업로드 후 지난달 5일~27일 23일간 총 21만750명이 헌법소원 청구자로 모였다고 한다.&lt;br&gt;&lt;br&gt;이들은 ‘범죄·폭력·음란 등을 지나치게 묘사하여 범죄심리 또는 모방심리를 부추기는 등 사회질서를 문란하게 할 우려가 있는 것’에 해당하는 게임물을 제작·반입하는 경우 형사처벌 할 수 있다는 게임산업법 제32조 2항 3호 조항이 위헌이라고 주장하고 있다. 해당 조항으로 수백개의 게임이 국내에서 차단돼 게임업계인들의 창작의 자유 및 게이머들의 문화향유권 등 기본권이 제한된다는 것이다.&lt;br&gt;&lt;br&gt;청구인 대표 김성회씨는 이날 “오징어게임이라는 영상 콘텐츠는 세계적인 K 콘텐츠라는 평가를 받고 있지만, 오징어게임과 유사한 형태의 게임물은 지나치게 폭력적이라며 금지되는 게 현실”이라며 “한국의 영화, 웹툰, 웹소설, 음반 등 콘텐츠 중 게임만 홀로 악마화 돼 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “대한민국 영화,문화 콘텐츠 중 유일하게 오직 게임에만 남아있는 이 법으로 인해 게임업계인들의 창작의 자유, 게이머들의 문화향유권이 제한당하고 있다”며 “햔국 게이머들은 세상의 모든 폭력적, 선정적인 게임들을 무분별하게 남용할 수 있기를 원하는 것이 아니라 글로벌 스탠다드에 비슷하게만 취급되길 바랄 뿐”이라고 했다.&lt;br&gt;&lt;br&gt;이철우 변호사는 “범죄, 폭력, 음란을 ‘지나치게 묘사’ 했다는 기준이 불분명해 게임 심의자가 누군지에 따라 해석이 바뀔 수 있고, 영화, 드라마, 웹툰 등에 없는 유독 엄격한 잣대가 게임에만 있다”고 성명문을 통해 밝혔다.&lt;br&gt;&lt;br&gt;한편 법조계에서도 해당 조항이 지나치게 모호하다는 지적이 나온다. 헌법재판소의 ‘게임물 규제법제에 관한 헌법적 검토’ 보고서는 “해당 조항을 통해 범죄 폭력 음란 등의 묘사가 어느 수위에 이르러야 지나치다고 할 것인지 예측하기란 쉽지 않다”며 “규정이 명확성 원칙에 반한다고 단언하기는 어려우나 보다 상세한 규율을 통해 예측가능성 제고하는 것이 바람직하다”고 언급한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“주님 지켜라” 정명석 성범죄 공범 2인자, 징역 7년 확정</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/08/AUHJE6TH3NGY7A3QQ4KFNO5CSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/08/AUHJE6TH3NGY7A3QQ4KFNO5CSQ/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Oct 2024 02:09:59 +0000</pubDate>
-      <content:encoded>정명석 JMS(기독교복음선교회) 총재의 여신도 성폭행 범행의 공범인 ‘2인자’ 김지선(46)에 대해 대법원이 징역 7년을 확정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HNH4QYIWH7ERCJDABIG77ZWLOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;JMS 총재 정명석. /JMS 공식 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 2부(주심 김상환 대법관)는 8일 준유사강간 등 혐의로 기소된 김지선에게 징역 7년을 선고하고 성폭력 치료프로그램 이수명령 80시간, 취업제한 10년을 명령한 원심 판결을 확정했다.&lt;br&gt;&lt;br&gt;김지선 외에 함께 성폭행 범행을 돕거나 방조한 민원국장 김모씨는 징역 3년, 성폭력 치료프로그램 이수명령 80시간, 취업제한 5년을 확정 받았다.&lt;br&gt;&lt;br&gt;통역을 해 범행을 돕거나 방 밖에서 감시한 혐의(강제추행 방조)를 받는 간부에겐 징역 1년 6개월 집행유예 3년, 준강간방조 등 혐의로 기소된 수행원 2명에 대해선 무죄를 확정했다.&lt;br&gt;&lt;br&gt;대법원은 “원심이 법리 등을 오해해 판결에 영향을 미친 잘못이 없다”고 설명했다.&lt;br&gt;&lt;br&gt;앞서 정명석의 ‘후계자’로 알려진 김지선은 2018년 3~4월 홍콩 국적 여신도에게 잠옷을 건네며 ‘여기서 주님을 지키며 잠을 자라’고 지시해 정명석의 준유사강간 범행에 가담한 혐의로 구속 기소됐다. 그는 ‘정명석 신격화’에 앞장서며 교인들을 현혹한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;JMS는 미모의 여신도들을 ‘신앙스타’로 뽑아 ‘하나님의 신부’로 예우해 왔는데, 김지선 등은 “재림예수인 정명석의 사랑은 아무나 받지 못한다”며 피해자들을 세뇌한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;민원국장 김씨는 피해자가 정명석에게 성폭행당했다고 호소했으나 ‘그것이 하나님의 극적인 사랑’이라는 말을 하고, 2021년 9월 피해자를 정명석에게 데려가 범행하는 동안 근처에서 대기한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JJ5GPI6AZ5IB5IOUFCU2OFOJ6I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;검찰과 경찰이 지난해 3월 23일 충남 금산 월명동 수련원과 세계선교본부에 대해 기독교복음선교회(JMS) 정명석 총재의 여신도 성폭행 혐의 사건과 관련 압수수색에 들어갔다. 사진은 월명동 세계선교본부 외부 모습과 수련원 표지석. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당초 1심은 김지선에게 징역 7년, 민원국장 김씨에게 징역 3년, 나머지 간부·수행원들에게는 각각 징역형 집행유예 및 징역 1년 6개월, 징역 2년 6개월의 실형을 선고했다. 하지만 2심은 수행원 2명에 대해선 “수행원으로서 대기했다고 해 범행을 방조했다고 보기는 어렵다”며 징역 1년 6개월∼2년 6개월의 실형을 선고한 원심을 뒤집어 무죄를 선고했다.&lt;br&gt;&lt;br&gt;한편 정명석은 성범죄로 징역 10년을 선고받고 출소한 직후인 2018년 2월부터 2021년 9월까지 충남 금산군 월명동 수련원 등에서 23차례에 걸쳐 피해자들을 성폭행하거나 추행한 혐의(준강간 등)로 구속 기소돼 1심에서 징역 23년을 선고받았다. 지난 2일 2심은 “원심 판결은 대법원 양형위원회의 양형기준에 따라 산출된 권고형의 합리적 범위를 벗어났다고 봐야 한다”며 징역 17년으로 형량을 낮췄다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>전·현직 검사 '라임 술접대' 무죄 판결, 대법서 뒤집혀</title>
       <link>https://www.chosun.com/national/court_law/2024/10/08/JCM2BWVG2FCTDGK6EPD6EGL5BQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/08/JCM2BWVG2FCTDGK6EPD6EGL5BQ/</guid>
@@ -863,15 +911,6 @@ A 씨는 지난 5월 3일 일당 2명과 태국 방콕의 클럽에서 한국인
       <description/>
       <pubDate>Tue, 08 Oct 2024 02:30:36 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TPVKV3OWD5EFHDOMMHZAJ5TBGA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘라임 펀드 사건’ 핵심 인물 김봉현 전 스타모빌리티 회장으로부터 술 접대를 받은 검사에게 무죄를 선고한 판결이 8일 대법원에서 뒤집혔다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 오경미 대법관)는 이날 청탁금지법 위반 혐의로 기소된 검찰 출신 이모 변호사와 나모 검사, 김봉현씨에 대해 무죄를 선고한 원심 판결에 대해 “향응 액수 선정에 관한 법리를 오해한 잘못이 있다”면서 깨고 사건을 서울남부지법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;나 검사는 2019년 7월 서울 강남구 청담동의 한 유흥업소에서 김씨와 이 변호사로부터 100만원어치 이상의 술과 안주 등을 접대받은 혐의로 기소됐다. 김씨와 이 변호사는 술자리에서 접대한 혐의를 받았다.&lt;br&gt;&lt;br&gt;당시 해당 술자리에는 나 검사 외 다른 검사 2명과 이종필 전 라임자산운용 부사장, 김모 전 청와대 행정관도 동석했던 것으로 나타났다. 다만 다른 검사들은 일찍 술자리를 떠나 접대비 100만원 이하로 계산돼 불기소됐다. 청탁금지법은 공직자가 동일인으로부터 1회에 100만원을 초과하는 금품 등을 받으면 안 된다고 규정한다.&lt;br&gt;&lt;br&gt;이 사건은 김씨가 2020년 10월 이른바 ‘옥중 서신’을 통해 술접대 사실을 폭로하면서 불거졌다. 그는 “검사 3명을 청담의 룸살롱에서 접대했다. 당시 라임 수사팀이 만들어지면 합류할 검사라고 했는데 실제 한 명이 수사팀에 참여했다”고 주장했다. 검찰은 김씨가 결제한 전체 술값 536만원을 근거로 술자리에 오래 머무른 나 검사와 김씨 등이 114만원씩 향응을 주고받은 것으로 보고 기소했다.&lt;br&gt;&lt;br&gt;그러나 1심은 “검사가 제출한 증거만으로는 이 사건 향응 가액이 100만원을 초과한다는 점이 합리적 의심의 여지 없이 증명됐다고 볼 수 없다”며 무죄를 선고했다. 또 다른 공직자 청와대 행정관이 중간에 술자리에 합류했으니, 총액을 다시 나누면 나 검사가 받은 최종 접대비는 약 93만원으로 계산된다는 것이다. 2심도 같은 결론을 내렸다.&lt;br&gt;&lt;br&gt;대법원은 원심의 계산법이 잘못됐다고 지적했다. 검사들과 달리 청와대 행정관은 김씨와의 친분으로 우연히 자리에 동석했고, 머무른 시간도 다른 만큼 접대비를 똑같이 나누면 안 된다고 봤다. 대법원은 “피고인과의 관계, 향응 제공 목적, 참석 경위와 시간 등에 비추어 피고인과 다른 참석자(청와대 행정관)가 받은 향응 가액이 동일하다고 볼 수 없는 사정이 증명된 경우, 이를 구분해 총비용에서 공제한 뒤 분할해 피고인이 받은 향응 가액을 정해야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;대법원은 검사들과 행정관이 접대받은 액수를 객관적으로 나눌 경우 나 검사의 접대비가 100만원을 넘을 가능성이 높다고 판단했다. 이에 따라 파기환송심은 술자리 참석자들이 각각 받은 향응을 다시 계산해 유무죄를 따질 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>﻿박단 “환자 사망했는데 잔 의사 누구인가”…선배 의사 공개 저격</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/10/08/FRO2X3DXBRCIHPAUW5MFJZK4BM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/08/FRO2X3DXBRCIHPAUW5MFJZK4BM/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Oct 2024 02:29:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SYFMTHXSQH7I5T6XZBUZHFPP4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박단 대한전공의협의회 비대위원장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전공의 집단이탈로 의료공백 상황이 이어지는 가운데, 전공의 단체 대표가 소셜미디어를 통해 의대 교수 등 선배 의사들을 공개 저격했다. &lt;br&gt;&lt;br&gt;박단 대한전공의협의회 비상대책위원장은 8일 자신의 페이스북에 의대 교수, 전문의 등이 간호사들에게 약 처방은 물론 전공의들이 맡아왔던 동맥관 삽입 등 고난도 업무까지 넘기고 있다는 내용의 기사를 공유하며 “지금 대학 병원에 남아있는 의사는 누구입니까”라고 했다. &lt;br&gt;&lt;br&gt;박 위원장은 “환자가 사망했음에도 사망 선언은커녕 자느라 들여다보지도 않은 의사는 누구입니까. 진료 가능함에도 전공의 부재를 핑계로 수용 거부한 의사는 누구입니까”라고 했다. 이어 “의사로서의 정체성을 포기하고 간호사에게 본인의 업무를 떠넘긴 의사는 누구입니까. 부당한 겁박과 부실 교육을 자행하는 정부의 횡포에도 침묵하고 있는 의사는 누구입니까”라고 덧붙였다. &lt;br&gt;&lt;br&gt;그는 “작금의 붕괴는 수십 년간 그들이 묵인했던 대한민국 의료의 실상”이라며 “그래서 당신들은 어디에서 무얼 하고 있습니까”라고 물었다. &lt;br&gt;&lt;br&gt;선배 의사들이 병원을 떠난 전공의 대신 간호사에게 일을 시키고, 정부의 탄압에는 별다른 대응을 하지 않고 있다는 취지로 풀이된다. &lt;br&gt;&lt;br&gt;현재 상황에서 전공의들이 정부와의 대화에 참여하거나 복귀할 가능성은 여전히 낮아 보인다. 전공의들은 대화를 촉구하는 정부와 정치권을 향해 ‘2025년 의대 증원 백지화’를 조건으로 내걸고 있다. 그러나 이미 수시모집이 끝났고, 11월 중순인 수능이 한 달여 앞으로 다가와 의대 증원 정책을 이제와서 뒤집기는 현실적으로 어려운 상황이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>유명 女연예인 72명 딥페이크 4300건 만들고 판 20대 검거</title>
@@ -887,15 +926,6 @@ A 씨는 지난 5월 3일 일당 2명과 태국 방콕의 클럽에서 한국인
       </media:content>
     </item>
     <item>
-      <title>국방장관 “우크라 공습에 북한군 사망 사실인 듯…추가 파병 가능성”</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/08/Q4RBC6W3JNCHJBI3JIOEQKJSAA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/08/Q4RBC6W3JNCHJBI3JIOEQKJSAA/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Oct 2024 02:21:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JXIXGG2VHVOLHH25QO5VQ44RFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 국방부 장관이 8일 서울 용산구 국방부에서 열린 국정감사에서 업무 보고를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김용현 국방부 장관이 러시아·우크라이나 전쟁 과정에서 러시아 점령지에 파견됐던 북한군이 사망했다는 외신 보도가 사실일 가능성이 높다고 밝혔다.&lt;br&gt;&lt;br&gt;김용현 장관은 8일 국회 국방위원회의 국방부 국정감사에서 “우크라이나에서 있었던 북한군 장교와 병사의 사상자 발생은 여러 가지 정황으로 봤을 때 사실일 가능성이 높다고 평가하고 있다”라고 말했다.&lt;br&gt;&lt;br&gt;김 장관은 ‘북한이 러시아를 도와 정규군을 파견할 가능성이 있느냐’라는 질문에는 “러시아와 북한은 거의 군사 동맹에 버금가는 상호 협약을 맺고 있기 때문에 추가 파병을 할 가능성이 매우 높다”라며 “여기에 대한 대비도 잘하겠다”라고 했다.&lt;br&gt;&lt;br&gt;지난 4일 우크라이나 현지매체 키이우포스트는 소식통을 인용, 전날 우크라이나 동부 도네츠크 지역에 대한 우크라이나군의 미사일 공격으로 사망한 20여명 가운데 북한군 장교 6명이 포함됐다고 보도했다. 부상을 입은 북한군 장교 3명은 모스크바 병원으로 이송된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;러시아 소셜미디어에 따르면 공습 당시 북한군 장교와 사병들은 러시아군의 훈련 시연을 참관 중이었던 것으로 알려졌다. 앞서 우크라이나 정보 당국은 지난해 공병부대를 포함해 일부 북한군 병력이 러시아군 점령 지역에 도착했다고 발표한 바 있다. 키이우포스트는 “이는 러시아와 북한의 긴밀한 협력 관계를 의미한다”고 했다.&lt;br&gt;&lt;br&gt;북한이 러시아에 무기를 지원하고 있는 것은 공공연한 사실이었지만, 북한군이 현지에서 사망한 소식이 전해진 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;볼로디미르 젤렌스키 우크라이나 대통령은 지난달 안보리 고위급 회의에서 북한과 이란을 러시아 전쟁 범죄의 공범으로 규정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이번엔 제주 시장서 황금향 바꿔치기? ...“노란색 골랐는데 왜 초록색이”</title>
       <link>https://www.chosun.com/national/national_general/2024/10/08/ECK4GI6RKNHVHAIXL6DLQOZZT4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/08/ECK4GI6RKNHVHAIXL6DLQOZZT4/</guid>
@@ -905,15 +935,6 @@ A 씨는 지난 5월 3일 일당 2명과 태국 방콕의 클럽에서 한국인
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NTAENCACSVB2LGYNZ7FVP26V6A.png"&gt;&lt;figcaption&gt;&lt;small&gt;한 유튜버가 제주 동문시장에서 구매한 황금향이 바꿔치기 됐다며 올린 사진./유튜브 '더들리'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주도 동문시장에서 소비자가 직접 골랐던 제품이 아닌 다른 제품의 향금향을 팔았다는 주장이 나왔다.&lt;br&gt;&lt;br&gt;구독자 약 83만명을 보유한 유튜버 ‘더들리’는 지난 6일 제주 여행 후기를 담은 영상을 올렸다.&lt;br&gt;&lt;br&gt;문제가 된 장면은 더들리가 시장에서 황금향 바꿔치기를 당했다고 의심하는 부분이었다. 그가 올린 사진 속 황금향 20개 중 7개가 초록빛을 띠고 있었다.&lt;br&gt;&lt;br&gt;더들리는 “제주 동문시장에서 황금향을 샀다. 전부 (색이) 노란 것만 구매했는데, 숙소에 와서 포장을 풀어보니까 파란 게 섞여 있는 애들로 일부가 바뀌어 있었다”고 주장했다. 이어 “파란 애들은 후숙해서 먹으면 되는 거니까 사실 큰 상관은 없지만, 고른 물건을 주지 않고 다른 물건을 주시는 건 좀 그렇다. 슬펐다”고 말했다.&lt;br&gt;&lt;br&gt;이 장면은 사진으로 캡처돼 여러 온라인 커뮤니티에 공유됐다. 제주도에 10년째 거주 중인 청년이라고 밝힌 한 네티즌은 “황금향은 약 8월 말부터 나온다. 아마 지금 판매하고 있는 건 대부분 작년에 수확해서 팔다가 남은 저장품일 거다. 선입, 선출해야 하기 때문”이라고 댓글을 남겼다.&lt;br&gt;&lt;br&gt;이외에도 네티즌들은 “품질이 어떻든 간에 소비자가 고른 물건으로 줘야지. 이렇게 바꿔치기 하니까 점점 더 시장에 갈 이유를 못 느낀다” “저런 경우가 많아서 점점 재래시장 안 가게 되는 것 같다” “제주도 황금향을 보니 인천 소래포구 제주 버전 같다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;이와 관련 제주 동문시장 관계자는 8일 조선닷컴과의 통화에서 “황금향 바꿔치기 관련 접수된 민원 사항이 없어서 어떤 매장에서 구입한 것인지, 사실관계를 확인하기 어렵다”며 “요즘에는 소셜미디어가 활발해서 상인들이 (바꿔치기 등) 이렇게 장사를 하지는 않았을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;한편, 지난 5월 제주 유명 고깃집이 ‘비계삼겹살’을 판매해 논란이 됐다. 한동안 제주도를 가는 내국인 관광객 수가 감소했고, 이에 지난 6월 제주관광혁신 비상대책위를 구성했다. 7월에는 제주관광 불편신고센터를 출범하면서 방문객 수 회복에 힘쓰고 있다. 그 결과, 추석 연휴에 30만 명 넘는 관광객이 제주를 찾으며 올해 누적 관광객 1000만명을 돌파했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>법사위, 김영철 검사 동행명령장 발부...야당 단독 의결</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/08/YK6TWCBJ7ZFX7EHXOABRBBTKRM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/08/YK6TWCBJ7ZFX7EHXOABRBBTKRM/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Oct 2024 02:16:31 +0000</pubDate>
-      <content:encoded>국회 법제사법위원회는 8일 전체회의를 열고 이날 국정감사에 증인으로 출석하지 않은 김영철 서울북부지검 차장검사에 대한 동행명령장 발부안을 야당 단독으로 의결했다.&lt;br&gt;&lt;br&gt;정청래 법사위원장은 “김 차장검사가 수사 중인 사안임을 이유로 불출석 사유서를 제출했지만, 수사·재판 중이라도 국회가 독자적 진실 규명 등을 목적으로 할 경우 국정감사에 출석해야 한다”면서 “동행명령장을 발부해 국감에 출석시키고자 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JPJ5J3CZ3FOOFIRROHMOLM6UII.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;정청래 법제사법위원장이 8일 오전 서울 여의도 국회 법제사법위원회에서 국정감사에 출석하지 않은 김영철 서울북부지검 차장검사에 대한 동행명령장을 경위들에게 전달하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 더불어민주당은 김 차장검사를 이날 법사위 국감 일반증인으로 단독 채택했다. 김 차장검사의 ‘장시호 모해위증교사 의혹’을 법사위에서 검증하겠다는 취지다. 그러나 김 차장검사는 공수처가 해당 의혹을 수사 중이라는 이유로 불출석 의사를 밝혔다.&lt;br&gt;&lt;br&gt;국민의힘은 “이미 김 차장검사에 대한 탄핵청문회가 열렸는데 국감 출석을 요구하는 것은 현직 검사 망신 주기”라는 취지로 반대했지만, 민주당은 단독으로 김 차장검사에 대한 동행명령장 발부안을 가결했다. 이에 따라 국회 직원이 동행명령장 집행을 위해 김 차장검사를 찾을 것으로 보인다.&lt;br&gt;&lt;br&gt;다만 김 차장검사가 동행을 거부할 경우 국회가 출석을 강제할 수는 없다. 정 위원장도 “동행명령장을 발부해도 물리력을 동원해 강제로 여기까지 오게 하는 것은 쉽지 않아 보인다”고 했다.&lt;br&gt;&lt;br&gt;한편 법사위는 이날 국감에 불출석한 노소영 아트센터 나비 관장과 노재헌 동아시아문화센터 원장에 대해서는 다시 출석 요구를 하기로 했다. 두 사람은 ‘노태우 전 대통령 비자금 의혹’과 관련해 증인으로 채택됐지만 출석하지 않았고, 별도의 불출석 사유서도 내지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘공직선거법 위반’ 민주당 이개호 의원·장세일 후보, 경찰 수사 착수</title>
       <link>https://www.chosun.com/national/national_general/2024/10/08/4T6APRNQAVGXZFEWEK4T76FXY4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/08/4T6APRNQAVGXZFEWEK4T76FXY4/</guid>
@@ -921,24 +942,6 @@ A 씨는 지난 5월 3일 일당 2명과 태국 방콕의 클럽에서 한국인
       <description/>
       <pubDate>Tue, 08 Oct 2024 02:10:34 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VSVLZAROIFKHXFFQSCRGFBY5AQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장세일 전남 영광군수 재선거 후보가 더불어민주당 박찬대 원내대표, 정진욱 비서실장, 이개호 의원과 지난달 22일 전남 영광군 법성면 일대를 방문해 군민과 기념 촬영하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공직선거법 위반 혐의로 시민단체에 고발당한 장세일 더불어민주당 영광군수 후보와 이개호 민주당 의원에 대해 경찰이 수사에 착수했다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 8일 오후 4시쯤 김순환 서민민생대책위원회(서민위) 사무총장을 고발인 신분으로 불러 조사한다고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 서울경찰청은 서민위는 지난 4일 장 후보와 이 의원을 공직선거법 위한 혐의로 수사해달라며 제출한 고발장을 접수했다. 영등포경찰서는 이 사건을 배당받아 본격적으로 수사에 착수했다.&lt;br&gt;&lt;br&gt;서민위는 이 의원이 강종만 전 영광군수에게 ‘장 후보를 지지하라’는 취지의 이야기를 했다고 주장했다. 고발장에 따르면 제보자 A씨는 “장관님(이개호 의원)이 강종만 군수가 장세일 후보를 도우면, 강 군수가 추진해오던 풍력 사업을 적극 돕겠다고 했지 않았냐”며 이 의원의 과거 발언을 확인받으려 했다.&lt;br&gt;&lt;br&gt;강 전 군수는 선거법 위반 혐의로 군수직을 상실하기 전 해상풍력변전소 건축허가를 내는 등 친환경 에너지 사업을 육성하려 했다. 이에 대해 이번 선거 과정에서 강 전 군수가 장 후보를 지지해야 지금껏 이어오던 풍력사업을 지속할 수 있다는 취지로 얘기했다는 주장이다.&lt;br&gt;&lt;br&gt;이에 서민위는 “이 의원이 장 후보의 경선 승리를 위해 로비한 정황이 드러났다”며 공직선거법 위반 혐의로 이 의원과 장 후보를 고발했다. 이 의원은 서민위 고발 내용이 사실과 다르다고 반박한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편 이번 선거는 강 전 군수가 지난 5월 공직선거법 위반으로 벌금 200만원 선고받아 군수직을 상실하며 치러지게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산 동래 지하철역에 ‘이동노동자 쉼터’ 문 열어</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/10/08/JH2HDXHQINGNRCZZUAPAAQ2AHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/10/08/JH2HDXHQINGNRCZZUAPAAQ2AHU/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Oct 2024 02:01:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HVUDWFVGPNHVDGT2LFFJNHDBWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 문을 연 부산 동래 도시철도역 인근 이동노동자 쉼터, '도담도담'./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;택배·배달기사 등 일정한 근무장소 없이 영업활동을 하는 플랫폼 종사자(이동노동자)들을 위한 간이 쉼터가 부산 동래 도시철도역 인근에 문을 열었다.&lt;br&gt;&lt;br&gt;부산시는 8일 동래 도시철도역 인근에 부산시 이동노동자 쉼터, ‘도담도담’을 개설했다. ‘도담도담’은 불볕더위나 강추위 속에서도 외부 활동을 많이 해야 하는 택배기사, 배달 라이더, 대리기사, 보험설계사 등 이동노동자들을 위한 간이 휴식 공간이다.&lt;br&gt;&lt;br&gt;이 쉼터는 동래 도시철도역에서 50~60m쯤 떨어져 있다. 30㎡ 규모 컨테이너 건축물에 공기청정기, 무선인터넷, 각도 조절 의자, 냉·난방기, 휴대전화 충전기 등 휴식에 필요한 편의시설을 갖추고 있다. 평일은 물론 주말·공휴일에도 24시간 운영한다.&lt;br&gt;&lt;br&gt;쉼터 이용 희망자는 서면·사상·해운대 이동노동자 지원센터에 등록을 하고 출입권한을 부여받아야 한다. 서면·사상·해운대 이동노동자 지원센터는 이동노동자들의 휴식·사무실 공간을 겸하면서 이들을 위한 법률 등 각종 상담이나 직무능력개발 및 교양강좌 운영 등도 한다. 2019년 서면, 2022년 사상과 해운대에 문을 열었다.&lt;br&gt;&lt;br&gt;신창호 부산시 디지털경제실장은 “이동노동자 지원센터 이용자는 작년 5만8904명이었고 올해는 8월 기준으로 5만명을 넘기는 등 계속 늘어나고 있다”며 “변화하는 노동환경 및 노동시장에 적극 대응, 이동노동자 지원센터 등과 같은 새로운 정책들을 개발해 나갈 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>나들이 가기 좋은 한글날…큰 일교차 주의</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/10/08/62AG6KPH7BDCBL2JMZCX72YUQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/10/08/62AG6KPH7BDCBL2JMZCX72YUQY/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Oct 2024 01:49:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6SC6OGCBR5MF7FM2ZRGFTZMDVA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 강원 인제 북면 용대리에서 열린 제6회 인제 가을꽃축제장을 찾은 어린이 관람객들이 가을꽃을 구경하고 있다. /인제군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한글날인 9일 아침·저녁으로 쌀쌀하겠고, 낮동안은 포근해 나들이 가기 좋은 날이 될 전망이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 9일 우리나라는 동해북부해상에서 동쪽으로 이동하는 고기압 가장자리에 들면서 전국에 가끔 구름이 많겠고, 제주도는 대체로 흐리겠다. 제주도에는 5~20㎜의 비가 내리겠다.&lt;br&gt;&lt;br&gt;9일 기온은 최저 10~18도, 최고 20~25도로 예보됐다. 내륙을 중심으로 아침 기온이 10도 내외로 떨어지며 쌀쌀하겠고, 낮동안은 수은주가 가파르게 오르며 일교차가 10도 가량 크게 벌어지겠다.&lt;br&gt;&lt;br&gt;10일에는 중국 북부지방에서 남쪽으로 이동하는 고기압 가장자리에 들며 한글날과 비슷한 날씨가 예상된다. 이후 이번 주말까지 전국이 대체로 맑겠고 기온도 최저 10~17도, 최고 22~25도의 분포를 보이며 완연한 가을날이 이어질 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>제주 관광객 머리 위로 끊어진 전선이…2도 화상 감전 ‘아찔’</title>
