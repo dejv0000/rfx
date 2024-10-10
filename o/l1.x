@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>검찰, 김병기 민주당 의원 '공직선거법 위반' 무혐의</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201890.jpg" alt="201890.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;더불어민주당 이재명 상임공동선대위원장이 3월 28일 동작구 상도동에서 김병기 후보 지원 유세를 하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;검찰이 지난 4월 총선을 앞두고 여론조사 결과를 왜곡해 공표한 혐의로 고발된 김병기 더불어민주당 의원에게 무혐의 판단을 내렸다.&lt;br /&gt;&lt;br /&gt;서울중앙지검 공공수사2부(&lt;span style="font-weight: bold;" class="lawmanlink" serial="12002"&gt;조민우&amp;nbsp;&lt;/span&gt;부장검사)는 공직선거법상 허위논평·보도 금지 및 허위사실공표 혐의로 고발된 김 의원의 사건 기록을 지난달 말 경찰에 반환했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;김 의원은 지난 3월 한 여론조사 보도를 인용해 '서울 동작갑 국회의원 후보 지지도 조사에서 장진영 국민의힘 후보를 앞서고 있다'고 주장했다. 당시 장 후보는 '여론조사 문항에는 후보자들 이름이 없고 정당 이름만 있어 사실상 정당 지지도와 유사한 조사인데 마치 이름을 넣은 것처럼 발표했다'며 김 의원을 서울 동작경찰서에 고발했다. &lt;br /&gt;&lt;br /&gt;경찰은 인용 보도 자체에 오류가 있었고 김 의원에게 고의성이 없었다고 보고 무혐의 판단했다. 사건 기록을 검토한 검찰도 같은 결론을 내렸다. &lt;br /&gt;&lt;br /&gt;이 사건과 별개로 서울 동작경찰서는 김 의원 부부가 동작구의회 부의장 법인카드를 사적 유용했다는 의혹에 대해 근거가 없다고 보고 지난 8월 내사 종결했다. &lt;br /&gt;</description>
+			<pubDate>Thu, 10 Oct 2024 02:42:42 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/201890</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201890</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201890.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2024년 10월 10일</title>
 			<description>&lt;b&gt;◇ 국정감사&lt;/b&gt;&lt;br /&gt;10:00 정무위원회 국정감사(본관 604호)&lt;br /&gt;&lt;br /&gt;10:00 기획재정위원회 국정감사(정부세종청사)&lt;br /&gt;&lt;br /&gt;10:00 과학기술정보방송통신위원회 국정감사(본관 627호)&lt;br /&gt;&lt;br /&gt;10:00 국방위원회 국정감사(합동참모본부)&lt;br /&gt;&lt;br /&gt;10:00 행정안전위원회 국정감사(본관 445호)&lt;br /&gt;&lt;br /&gt;10:00 문화체육관광위원회 국정감사(본관 506호)&lt;br /&gt;&lt;br /&gt;10:00 보건복지위원회 국정감사(본관 601호)&lt;br /&gt;&lt;br /&gt;10:00 환경노동위원회 국정감사(본관 622호)&lt;br /&gt;&lt;br /&gt;10:00 국토교통위원회 국정감사(본관 529호)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 의원실 세미나&lt;/b&gt;&lt;br /&gt;10:00 박정 의원실, 기후위기에 역행하는 화석연료 보조금, 교통에너지환경세, 배출권거래제, 어떻게 뜯어고칠까?(의원회관 제1세미나실)&lt;br /&gt;&lt;br /&gt;14:00 어기구 의원실 등, 농협 유통구조 혁신을 위한 국회 토론회(의원회관 제8간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 이개호 의원실 등, 탄소중립 실천을 위한 국산목재 이용 확대 방안 국회토론회(의원회관 제2소회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;◇ 소통관 기자회견&lt;/b&gt;&lt;br /&gt;11:00 윤종오 의원, [서울지방노동위원회 조정 결렬 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
 			<pubDate>Wed, 09 Oct 2024 22:30:26 -0000</pubDate>
@@ -232,16 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201855</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201855.jpg</media:thumbnail>
 			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>플랫폼법정책학회 '플랫폼 규제 법안' 특별 세미나 22일 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/201871.jpg" alt="201871.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;플랫폼법정책학회(회장 이봉의)가 국회입법조사처와 함께 오는 22일 서울 영등포구 여의도 국회의원회관 제3세미나실에서 '플랫폼 규제 법안의 주요 쟁점과 전망'을 주제로 특별 세미나를 개최한다.&lt;br /&gt;&lt;br /&gt;이날 강민국(경남 진주시을)·김재섭(서울 도봉구갑) 국민의힘 의원과 강준현(세종을)·유동수(인천 계양구갑) 더불어민주당 의원이 축사할 예정이다.&lt;br /&gt;&lt;br /&gt;먼저 이호영 한양대 로스쿨 교수가 '온라인 플랫폼 독과점 규제법안 비교 분석'을 주제로 발표한다. 이어 유영국 한신대 평화교양대학 교수가 '온라인 플랫폼 중개거래의 공정화법안 비교 분석'을 주제로 발표할 예정이다.&lt;br /&gt;&lt;br /&gt;종합토론의 좌장은 전성훈 서강대 경제학과 교수가 맡는다. 토론에는 이상규 중앙대 경제학과 교수,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6123"&gt;서정&lt;/span&gt;(53·사법연수원 26기) 법무법인 한누리 변호사, 유병준 서울대 경영전문대학원 교수, 박설민 공정거래위원회 온라인플랫폼정책과장, 최은진 국회입법조사처 금융공정거래팀 입법조사관보가 참여할 예정이다.</description>
-			<pubDate>Tue, 08 Oct 2024 06:59:28 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201871</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201871</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201871.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
