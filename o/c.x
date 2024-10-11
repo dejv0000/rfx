@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“소설가 부녀가 나누는 최고의 사랑”… 한강, 부친 한승원에 추천한 책은</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/12/2IUTDAU44FFMFPQEVVAABVYJNM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/12/2IUTDAU44FFMFPQEVVAABVYJNM/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Oct 2024 22:56:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XLU5UUBUDRLRZAYDNLKJ2GV5VY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오전 전남 장흥군 안양면 해산토굴(한승원문학관) 작업실에 노벨상 소설가 한강이 아버지 한승원 작가에게 보낸 자필 편지가 놓여있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아시아 여성 최초로 노벨문학상을 받은 작가 한강(54)이 부친 한승원(85) 작가에게 추천한 책들이 이목을 끌고 있다.&lt;br&gt;&lt;br&gt;11일 연합뉴스에 따르면, 한 작가는 이날 전남 장흥에 있는 자신의 작업실 해산토굴을 공개하며 딸 한강이 매년 보내온 책들과 직접 쓴 손 편지와 메모를 소개했다.&lt;br&gt;&lt;br&gt;한 작가에 따르면, 한강은 매년 어버이날이나 생일, 명절이 되면 안부를 묻는 손편지와 함께 책을 아버지에게 선물했다. 공개된 한강의 손편지를 보면, 한강은 “사랑하는 아버지, 생신 축하드려요. 건강하게 지내세요. 재미있게 읽어보실 수 있는 책을 2권 골라봤어요” “아버지 마음 건강히 잘 지내고 계세요? 최근에 읽고 참 좋았던 책 2권 보내드려요” 등의 메시지와 함께 한 작가에게 책을 보냈다.&lt;br&gt;&lt;br&gt;한강이 부친에게 보낸 책 중에는 ‘월든’ 같은 유명 고전부터 단편 소설까지 수십권에 달했지만, 자연환경을 소재로 한 서적들도 많았다.&lt;br&gt;&lt;br&gt;한 작가는 가장 재밌게 읽었던 책으로 로빈 윌 키머러의 ‘이끼와 함께’를 꼽았다. ‘이끼와 함께’는 인디언의 후손이자 여성 생태학자인 작가의 작품으로, 섬세한 시적 감성으로 이끼의 삶을 풀어낸 자연 에세이다. 한 작가는 “이끼와 풀의 이야기를 문학적으로 잘 담아내 재미있게 읽었다”며 “아버지인 나를 닮아서 그런지 딸도 자연에 대한 애정이 남다르다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2HBYPKWTOVLATBZ3ZVM4EX74YU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2005년 11월  문학사상사 주관으로 서울 프레스센터에서 열린 이상문학상 시상식에서 수상자인 한강 씨가 작가인 아버지 한승원 작가와 함께하고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RVHFZPHNJFKQ5EFAVEUPEBN5CQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오전 전남 장흥군 안양면 해산토굴(한승원문학관) 작업실에 노벨상 소설가 한강이 아버지 한승원 작가에게 보낸 자필 편지가 놓여있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 초 한강은 자연의 아름다움을 세밀하게 묘사한 메리 올리버의 ‘긴 호흡’을 아버지에게 보내며 편지에 “이 책을 읽으면 마음이 편안해진다”고 적었다.&lt;br&gt;&lt;br&gt;한 작가는 “어린 딸이 나를 따라 책을 읽었던 게 불과 몇 년 전 같은데 이제는 딸이 골라준 책을 읽는 즐거움에 푹 빠졌다”며 “소설가 부녀가 나눌 수 있는 최고의 사랑인 것 같다”고 했다.&lt;br&gt;&lt;br&gt;한 작가는 1968년 등단해 장편소설 ‘아제아제 바라아제’, ‘초의’, ‘달개비꽃 엄마’, 소설집 ‘새터말 사람들’, 시집 ‘열애일기’, ‘달 긷는 집’ 등을 펴냈다. 이상문학상, 현대문학상, 김동리문학상 등을 받았다. 올해 초에는 자전적 장편소설 ‘사람의 길’을 펴냈다.&lt;br&gt;&lt;br&gt;한 작가는 한강의 노벨상 수상과 관련한 기자회견에서 “한림원 심사위원들이 대개 늙은 작가나 늙은 시인들을 선택하더라. 그래서 우리 딸은 몇 년 뒤에야 탈지 모른다 생각했다”며 “어제 결정은 갑작스러웠다. 당혹감이라고 할 수 있다”고 했다. 그러면서 “노벨문학상은 최근 발표된 작품에만 관심을 두는 게 아닌 그 작가의 인생에 발표한 작품을 총체적으로 관조해서 결론을 내는 것”이라며 “이 때문에 우리 딸은 아직 차례가 오지 않았다고 생각했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사진 요청했더니 일행이 무차별 폭행... 제시 “당일 처음 본 사람”</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/12/VCDM5DNBT5DDZCZI2L3FNKUVTE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/12/VCDM5DNBT5DDZCZI2L3FNKUVTE/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Oct 2024 22:16:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CSK2MLN2YJFXFFJIZVG4M6BEVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 제시(흰색 상의) 일행이 사진을 요청한 팬을 무차별 폭행하고 있다. /뉴스1·JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 제시의 팬이 사진을 요청했다가 제시 일행에 의해 무차별 폭행을 당하는 일이 벌어진 가운데, 제시가 문제의 일행에 대해 “당일 처음 본 사람”이라고 해명했다.&lt;br&gt;&lt;br&gt;제시는 12일 인스타그램을 통해 “최근 저와 관련된 폭행 사건에 관한 보도로 많은 분들께 심려를 끼친 점에 대해 진심으로 사과드린다”고 운을 뗐다.&lt;br&gt;&lt;br&gt;제시는 “최근 지인과 개인적인 모임을 하던 중 저의 팬인 피해자가 사진을 요청했으나, 늦은 밤인 관계로 두 차례 정중하게 거절했다”며 “그 순간 인근에 있던, 제가 그날 처음 본 사람으로부터 (팬이) 폭행당하는 일이 있었다. 당시 갑작스럽게 발생한 상황에 너무 당황해 그 팬분을 세심히 배려하지 못했다”고 했다.&lt;br&gt;&lt;br&gt;제시는 “경위를 불문하고 팬분께서 이 같은 불의의 피해를 보신 것에 대단히 안타깝게 생각하고, 도의적인 책임을 느낀다”며 “사건이 발생한 이후 저와 소속사는 피해자 모친과 연락해 피해자가 신속히 가해자를 찾아 사과와 보상을 받고, 아울러 가해자가 합당한 처벌을 받을 수 있도록 하기 위해 노력하고 있다”고 했다.&lt;br&gt;&lt;br&gt;끝으로 “부디 이 사건과 관련해 일방적인 주장만을 반영하거나, 추측에 기반한 보도를 자제해 주시길 간곡히 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;이 같은 일은 전날 JTBC 사건반장 보도로 알려졌다. 이에 따르면, 피해자 A씨는 18세 미성년자로 지난달 29일 새벽 서울 압구정의 한 편의점을 가던 중 골목에서 제시를 발견하고 단지 사진을 요청했다가 제시 일행으로부터 갑작스럽게 폭행을 당했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/US5Z7I3RM5DUJHAAW3VZYSNNLU.png"&gt;&lt;figcaption&gt;&lt;small&gt;제시(흰색 상의) 일행이 사진 요청한 팬을  폭행하고 있다. /JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당시 상황이 담긴 방범카메라 영상을 보면, A씨가 제시에게 다가가자 제시 인근에 서 있던 남성이 A씨에게 거칠게 다가간다. 앉아 있던 제시는 이 남성의 팔을 잡아 붙들어 말리는데, 옆에 서 있던 다른 남성이 느닷없이 A씨에게 주먹질하기 시작한다. 제시는 폭행 상황이 발생하자, 처음엔 어쩔 줄 몰라하는 듯한 모습을 보이다 더이상 조처하지 않고 현장을 떠난다.&lt;br&gt;&lt;br&gt;A씨는 “워낙 제시 팬이라 사진 찍으러 갔다”며 “제시가 ‘안 된다’ ‘죄송하다’길래 저도 죄송하다고 하고 가려는데, 옆에서 한명이 걸어왔다. 그 사람이 뒤에서 얼굴을 때렸다”고 했다. 그러면서 “사람이 맞는데, (제시가) 별다른 대처가 없었다. 연루되기 싫어서 도망간 건지는 모르지만, 많이 실망했다”고 했다. “영상으로만 봐도 그냥 가만히 보기만 한다. 평소에 좋아했던 연예인인데 그런 부분에 대해 많이 실망스럽다”고도 했다.&lt;br&gt;&lt;br&gt;A씨 어머니가 제시 소속사를 직접 찾아갔을 당시 소속사는 가해 남성에 대해 “중국인이다. 제시와는 전혀 모르는 사이고, 프로듀서와 친분 있는 사람이다”라고 말했다고 한다. 가해 남성은 현재 한국에 없는 상태인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이에 A씨가 가해 남성 지인인 프로듀서에게 항의 메시지를 보내자, 프로듀서는 사과하면서도 “제시는 폭행한 사람을 전혀 모르고, 이 일에 관여되지 않는다. 자꾸 제시쪽에 연락해서 협박하면 안 된다”는 답을 보내왔다.&lt;br&gt;&lt;br&gt;A씨는 “폭행당한 후 정신적 충격이 너무 크다”라며 “하루빨리 가해 남성이 잡혔으면 좋겠다”라고 했다.&lt;br&gt;&lt;br&gt;경찰은 사건을 접수하고 가해 남성 지인인 프로듀서에게 출석 요구를 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>끝없이 펼쳐진다, 지리산에서 본 파도</title>
       <link>https://www.chosun.com/national/weekend/2024/10/12/EIQQVF2HMBAPTACU2IWNHPAUXU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2024/10/12/EIQQVF2HMBAPTACU2IWNHPAUXU/</guid>
@@ -674,15 +692,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YPUNCK4L6FDOFFUCVDLEXODJNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법·고법. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신을 무시한다는 이유로 아내를 흉기로 찔러 살해한 혐의로 재판에 넘겨진 80대 남성에게 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 형사12부(재판장 어재원)는 11일 살인 혐의로 기소된 A씨에게 징역 20년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 7월 15일 오전 대구 북구 한 아파트에서 70대 아내 B씨가 아침밥을 차려주지 않고 자신을 무시한다는 이유 등으로 둔기로 머리를 때리고 흉기로 수차례 찔러 살해한 혐의를 받는다. A씨는 범행 후 “아내를 흉기로 찔렀다’며 112에 신고했고, 출동한 경찰에 붙잡혔다. 경찰 조사에 따르면 A씨는 평소에도 B씨를 수시로 폭행했던 것으로 드러났다.&lt;br&gt;&lt;br&gt;재판부는 “배우자를 살해한 반인륜적 범죄로서 죄질이 나빠 비난 가능성이 높다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;앞서 검찰은 A씨의 범행이 잔혹한 점 등을 고려해 심신미약 여부를 가리기 위한 통합심리분석을 실시했지만, 전반적인 지적 능력은 정상 수준으로 확인됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>청주서 세종대왕·초정약수 축제 열려...탄산 풀 등 갖춘 ‘초정치유마을’도 개장</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/10/11/PI6ZSRFCNVGN3HE3ZZHHYXGK6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/10/11/PI6ZSRFCNVGN3HE3ZZHHYXGK6E/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Oct 2024 05:35:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XGJE6UPDBB6PLU5EACSA54DBOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘제12회 세종대왕과 초정약수축제’에서 세종대왕이 한양을 떠나 초정리에 도착하는 어가 행렬 모습을 재현하고 있다. /청주시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주시 대표 축제 중 하나인 ‘세종대왕과 초정약수축제’가 ‘초정행궁의 비밀’을 주제로 11일부터 13일까지 내수읍 초정행궁 일대에서 열린다. 청주시는 이날 초정행궁에서 ‘초정치유마을’ 개장식을 겸해 축제를 개막했다. &lt;br&gt;&lt;br&gt;초정치유마을은 국가균형발전위원회 시범사업으로 총사업비 296억원을 들여 조성했다. 3만2412㎡ 부지에 건물 2개동과 치유공원을 갖췄으며 초정광천수를 이용한 탄산 치유풀과 스파 치유풀 시설 외에도 순환프로그램과 명상프로그램 등을 마련했다.&lt;br&gt;&lt;br&gt;이날 개장식에 이어 초정영천제, 양로연, 마당극, 초정약수 가요한마당, 개막식 등이 진행됐다. 이번 축제에서 청주시는 세종대왕 어가행차 등 전통 행사 뿐만 아니라 현대적 감성을 더한 다채로운 프로그램을 선보인다.&lt;br&gt;&lt;br&gt;조선왕조실록에는 세종대왕이 초정약수 인근에 행궁을 짓고 123일간 머물면서 눈병을 치료했다고 기록돼 있다. 청주시는 이를 토대로 세종대왕과 관련된 역사적 사실과 세계 3대 광천수인 초정약수를 알리기 위해 매년 축제를 열고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘님과 함께’ ‘신사동 그 사람’ 히트곡 제조… 작곡가 남국인 별세</title>
       <link>https://www.chosun.com/national/people/2024/10/11/FZSMSITIRVCR5KY7NC5XSPK3JU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/11/FZSMSITIRVCR5KY7NC5XSPK3JU/</guid>
@@ -690,15 +699,6 @@
       <description/>
       <pubDate>Fri, 11 Oct 2024 05:19:17 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRG2YUAJSFDKPPRPTYRYTXCS6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작곡가 남국인./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘님과 함께’ ‘신사동 그사람’ 등 수많은 히트곡을 남긴 작곡가 남국인(82·남정일)이 별세했다.&lt;br&gt;&lt;br&gt;고인은 지난 10일 오후 7시 47분쯤 노환으로 눈을 감았다고 유족은 전했다.&lt;br&gt;&lt;br&gt;고인은 1942년생으로 부산 배정중, 배정고를 졸업했다. 작곡가 백영호에게 발탁돼 ‘녹슬은 기타’라는 노래를 발표하며 가수로 나섰다. 가수 남강수와 듀엣 ‘남형제’로 활동하기도 했다. 군대에 다녀온 뒤 작곡가의 길로 들어섰다. 작곡가로서 발표한 첫 곡은 배호의 ‘누가 먼저 말했나’다.&lt;br&gt;&lt;br&gt;고인은 2020년 작고한 작사가 아내 정은이와 호흡을 맞추며 수많은 히트곡을 남겼다. 고인의 대표곡으로는 남진 ‘님과 함께’, 주현미 ‘비 내리는 영동교’, ‘신사동 그 사람’, 나훈아 ‘사랑은 눈물의 씨앗’, 전영록 ‘사랑은 연필로 쓰세요’, 김승진 ‘스잔’, 설운도 ‘잃어버린 30년’, 김상진 ‘고향이 좋아’ 등이 있다.&lt;br&gt;&lt;br&gt;예술사에 미친 영향을 인정 받아 2000년 문화관광부장관 표창을 받았다.&lt;br&gt;&lt;br&gt;빈소 은평성모병원 장례식장 7호실, 발인 13일 오전 7시, 장지 경기 광주 시안가족추모공원이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“이웃들이 내 험담”…아파트 13층서 벽돌 던진 30대</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/11/BWNTBMTZJBBTBOKWPMD2AM622Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/11/BWNTBMTZJBBTBOKWPMD2AM622Y/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>주민들이 자신을 험담한다는 생각에 아파트 13층에서 소화기 등을 던진 30대가 법원으로부터 징역형을 선고받았다.춘천지법 형사3단독 박성민 부장판사는 특수상해미수 등 혐의로 기소된 A(39)씨에게 징역 1년 6개월을 선고했다고 11일 밝혔다.</description>
-      <pubDate>Fri, 11 Oct 2024 05:25:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZBYTKCD3XRFVPO4SIQFBUUGJ2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 전경. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이웃 주민들이 자신을 험담한다고 여겨 아파트 13층에서 소화기 등을 던진 30대가 법원으로부터 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사3단독 박성민 부장판사는 특수상해미수 등 혐의로 기소된 A(39)씨에게 징역 1년 6개월을 선고했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 4월 13일 강원 춘천시 한 아파트 13층에서 승강기 앞에 놓여 있던 벽돌을 집어던져 불특정 피해자에게 상해를 가하려다 미수에 그친 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 아파트 1층에서 주민들이 모여 이야기를 나누는 모습이 자신을 험담한다고 생각해 이 같은 범행을 저지른 것으로 드러났다. 다행히 A씨가 던진 벽돌에 다친 사람은 없었으나 주차해 있던 차량의 유리가 파손됐다.&lt;br&gt;&lt;br&gt;A씨는 또 지난 5월 9일에도 같은 아파트 13층에서 2.8kg 무게의 소화기를 1층으로 집어던지기도 했다.&lt;br&gt;&lt;br&gt;박 부장판사는 “각 범행의 위험성이 상당히 크고, 수사기관에서 조사받은 이후 재차 범행을 저지른 점은 불리한 정상”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>5·18기념재단 “노태우 일가 비자금 수사 촉구” 고발장 낸다</title>
