@@ -13,6 +13,28 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“극단적 선택하겠다” 112에 4시간 동안 45차례 허위신고 50대 구속</title>
+      <link>https://www.chosun.com/national/regional/2024/10/11/BFATAKYYF5AVXH3VAXKCFUIWEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/11/BFATAKYYF5AVXH3VAXKCFUIWEQ/</guid>
+      <dc:creator>오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Oct 2024 04:48:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5VPINB7SAJADRH3SQMY5WYAG2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4시간 동안 45차례나 112에 허위신고를 한 50대가 구속됐다.&lt;br&gt;&lt;br&gt;제주동부경찰서는 상습적으로 112 상황실에 전화를 걸어 허위 신고한 혐의(위계에 의한 공무집행방해)로 50대 남성 A씨를 구속해 조사하고 있다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 8일 오전 5시 10분부터 약 4시간 동안 45차례에 걸쳐 112에 전화해 횡설수설하는 등 지난 7월부터 약 3개월 동안 122번에 걸쳐 허위 신고한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 “극단적 선택을 하겠다”는 신고까지 했으며, 지구대 경찰관 2명과 소방 구급대원 2명이 출동하자 “집으로 오게 해 대화하고 싶었다”고 진술한 것으로 조사됐다. 경찰 조사 결과 A씨는 허위 신고 등 혐의로 재판을 받는 도중에도 범행을 계속한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;형사 처벌과는 별개로 지난 7월부터 시행된 112신고의 운영 및 처리에 관한 법률에 따르면 범죄나 각종 사건·사고 등 위급한 상황을 거짓으로 꾸며 112 신고하면 500만 원 이하의 과태료 처분도 받을 수 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>5·18기념재단 “노태우 일가 비자금 수사 촉구” 고발장 낸다</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/11/5R2QGIC2Q5FJTNY5VFBQLK24NE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/11/5R2QGIC2Q5FJTNY5VFBQLK24NE/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Oct 2024 03:55:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IUIXGC5UVBETLBIYGJYZ4DHPPU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 노태우 전 대통령 아들 노재헌 변호사(오른쪽)와 딸 노소영 아트센터 나비 관장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5·18기념재단이 고(故) 노태우 전 대통령의 딸 노소영 아트센터 나비 관장과 최태원 SK그룹 회장과 이혼소송 과정에서 불거진 ‘노태우 비자금’과 관련한 수사를 촉구하는 고발장을 낸다.&lt;br&gt;&lt;br&gt;5·18기념재단은 “오는 14일 대검찰청에 조세범 처벌법 및 범죄수익은닉의 규제 및 처벌 등에 관한 법률 위반 등 혐의로 노태우 일가에 대한 고발장을 대검찰청에 제출할 예정이다”고 11일 밝혔다. 기념재단은 노 전 대통령의 아내인 김옥숙 여사, 자녀인 노재헌 동아시아문화센터 원장과 노소영 관장 등을 피고발 대상으로 지목했다.&lt;br&gt;&lt;br&gt;‘노태우 비자금’은 최태원 SK그룹 회장과 노소영 관장의 이혼소송 항소심에서 수면 위로 떠올랐다. 당시 재판 과정에서 노 관장은 김옥숙 여사가 ‘맡긴 돈’이라며 남긴 메모, 50억원짜리 약속어음 6장이 찍힌 사진 등을 증거로 제시하며 “부친 자금 300억원이 선경(현 SK)에 들어갔다”고 주장했다.&lt;br&gt;&lt;br&gt;기념재단은 “피고발인 노소영은 최태원 회장과 이혼 소송에서 피고발인 김옥숙이 1998년과 1999년 작성한 비자금 내역에 관한 메모를 법원에 제출함으로써 그동안 숨겨온 부정축재 은닉재산의 실체를 스스로 인정했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “법원 판결에 따르면 SK주식은 노태우의 범죄수익 300억원에서 유래한 재산에 해당하고, 피고발인 노소영은 해당 자금이 불법 비자금이라는 것을 알면서도 재산분할금을 취득하려 한 만큼 철저한 수사와 엄중한 처벌이 시급하다”고 했다.&lt;br&gt;&lt;br&gt;기념재단 관계자는 “언론을 통해 알려진 공익재단 기부금 및 국정감사 과정에서 밝혀진 보험금 등 새로운 비자금 의혹도 함께 고발할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/IUIXGC5UVBETLBIYGJYZ4DHPPU.JPG?width=2351&amp;height=1763&amp;auth=77ab53b5600fa9887b4695d175feaf166d6b8f01a5b198f49d3298948ab9dc95&amp;smart=true" type="image/jpeg" height="1763" width="2351">
+        <media:description type="plain">고(故) 노태우 전 대통령 아들 노재헌 변호사(오른쪽)와 딸 노소영 아트센터 나비 관장. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(파주=뉴스1) 임세영 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>인권위 "골프장서 여성 회원 가입 제한은 차별"</title>
       <link>https://www.chosun.com/national/national_general/2024/10/11/5R7HRQTQZZFO7KGTLV42QQ6YVQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/11/5R7HRQTQZZFO7KGTLV42QQ6YVQ/</guid>
@@ -784,15 +806,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEAWN6QZA4GN2TVZFO7IPCXSTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1988년 5월 18일 오전 국회 귀빈식당에서 야3당 영수회담에 들어가기에 앞서 김종필(왼쪽) 공화당·김대중(가운데) 평민당·김영삼(오른쪽) 민주당 총재가 손을 맞잡고 협조를 다짐하고 있다. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1980년 계엄사령부 합동수사본부가 당시 공화당 총재였던 김종필(JP) 전 국무총리를 불법구금한 것은 중대한 인권침해라는 판단이 나왔다.&lt;br&gt;&lt;br&gt;진실·화해를위한과거사정리위원회(위원장 김광동)는 지난 8일 열린 제88차 위원회에서 “합수부가 김 전 총리를 불법구금, 강제로 국회의원직을 사퇴하도록 하고 재산을 강제로 헌납받은 사건은 중대한 인권침해”라고 판단했다고 밝혔다. 이번 조사는 김 전 총리 유족 측이 관련 조사를 신청하면서 진행됐다.&lt;br&gt;&lt;br&gt;진실화해위에 따르면 전두환 신군부는 1980년 5월 17일 밤 11시 20분쯤 김 전 총리를 강제 연행한 뒤 밤 12시 계엄령을 발표했다. 이후 47일간 김 전 총리를 불법구금하고, 부정축재와 개인비리 조사 등 위압적인 수사를 이어간 것으로 파악됐다. 김 전 총리는 ‘재산헌납 기부서'와 ‘국회의원직 사퇴서'를 제출한 이후인 7월 2일에야 석방됐다.&lt;br&gt;&lt;br&gt;당시 합수부는 김 전 총리가 3억3000만원에 달하는 부동산과 무기명 예금증서 43억여원을 포함, 총 216억4000여만원을 국가에 헌납했다고 발표했다.&lt;br&gt;&lt;br&gt;진실화해위는 “국가가 강압으로 국회의원직 사퇴서를 받은 것은 의사결정의 자유 및 공무담임권을 침해한 것으로 위법한 공권력 행사”라며 “또 강압으로 얻은 서류를 토대로 재산에 대해 소유권이전등기 절차를 이행한 것은 의사결정 자유와 재산권 등을 침해한 것”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “국가의 위법한 공권력 행사로 발생한 중대한 인권침해에 대해 피해자와 가족들에게 사과하고, 피해·명예 회복을 위한 조치가 필요하다”고 권고했다. 진실화해위는 국가기록원·법원·국군방첩사령부·1기 진실화해위 조사자료 등 자료를 분석해 이같은 결과를 내놨다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“두 번 다시 손대지 않겠다”… ‘마약수수’ 오재원 최후 진술</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/10/VZR6CZFJN5AY7IQTUQX37ZV3RY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/10/VZR6CZFJN5AY7IQTUQX37ZV3RY/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Oct 2024 05:49:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZCGQ6ENCQZA7HNZZRL6UXEQDOI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;마약 투약 혐의로 체포된 전직 프로야구 선수 오재원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상습 마약 투약 혐의 실형에 이어 필로폰 수수 혐의로 추가 기소된 전 프로야구 선수 오재원(39)씨에게 검찰이 징역 4개월을 구형했다.&lt;br&gt;&lt;br&gt;검찰은 10일 서울중앙지법 형사24단독 유동균 판사 심리로 열린 마약류 관리에 관한 법률 위반(향정) 혐의 사건 결심 공판에서 오씨에게 징역 4개월을 선고해달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;오씨 측 변호인은 “피고인은 선수 시절 주전으로서 자리를 지켜야 한다는 강박감과 불면증으로 수면제를 복용하게 됐고 모친의 투병 등으로 정신적으로 피폐해졌다”며 “자신의 잘못된 행동을 깊이 반성하고 있다. 어떠한 처벌도 겸허히 받아들일 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “마약 사범에게 엄벌을 내리는 게 모든 문제를 해결할 방법이 될 수 있는지, 오히려 재범을 낮추기 위해 치료가 필요한 게 아닌지 참작해달라”며 선처를 호소했다. 오씨는 최후 진술을 통해 “사회에 해악을 끼치는 마약에 두 번 다시 손대지 않겠다”며 “물의를 일으켜 정말 죄송하다”고 했다.&lt;br&gt;&lt;br&gt;오씨는 작년 11월 지인으로부터 필로폰 약 0.2g을 수수한 혐의로 올해 5월 재판에 넘겨졌다. 앞서는 2022년 11월부터 1년여간 11차례 필로폰을 투약하고 지인에게 향정신성 의약품 스틸녹스정(졸피뎀 성분의 수면유도제) 2242정을 받은 혐의 등으로 구속기소 됐다.&lt;br&gt;&lt;br&gt;특히 오씨는 자신의 필로폰 투약을 신고하려는 지인을 막기 위해 멱살을 잡고 협박하거나 망치로 휴대전화를 부순 혐의도 받았는데, 1심 재판부는 이를 보복 협박으로 판단했다. 이에 지난 7월 26일 열린 1심에서 징역 2년 6개월을 선고받았다.&lt;br&gt;&lt;br&gt;당시 검찰은 오씨가 마약류 범죄로 한 차례 기소유예 전력이 있음에도 장기간 마약류를 상습 투약해 왔다며 항소했다. 오씨 측도 1심 판단에 불복해 현재 2심이 진행되고 있다. 이번 추가 기소 건에 대한 선고일은 오는 24일이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>고양이에게 생선 맡겼다…관리인이 창고에서 68억원 훔쳐</title>
       <link>https://www.chosun.com/national/incident/2024/10/10/MVJQ2T3AERFUFD22OCL72WGBYU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/10/MVJQ2T3AERFUFD22OCL72WGBYU/</guid>
@@ -810,19 +823,6 @@
       <description/>
       <pubDate>Thu, 10 Oct 2024 04:08:02 +0000</pubDate>
       <content:encoded>티몬·위메프 미정산 사태의 책임자 구영배 큐텐 그룹 대표와 티몬·위메프 경영자들의 구속 여부가 이르면 10일 결정된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJOVI6M2SBM3XNOR3CGYI7O2MQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;티몬·위메프(티메프)의 판매 대금 미정산 사태의 핵심 피의자인 구영배 큐텐그룹 대표(왼쪽부터)와 류화현 위메프 대표, 류광진 티몬 대표가 10일 오전 서울 서초구 서울중앙지방법원에서 열리는 특정경제범죄 가중처벌 등에 관한 법률 위반(사기·횡령·배임) 혐의 관련 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. .뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 신영희 영장전담 부장판사는 이날 오전 특정범죄가중처벌법상 사기·횡령·배임 등 혐의를 받는 구 대표의 구속 전 피의자심문(영장실질심사)을 열었다. 법원은 이날 류화현 위메프 대표, 류광진 티몬 대표의 구속 필요성도 따진다.&lt;br&gt;&lt;br&gt;이날 오전 9시 35분쯤 법원에 도착한 구 대표는 “미정산 사태 가능성을 2년 전부터 인지했냐”는 취재진의 질문에 “그렇지 않다. 사건 발생하고 (인지했다)”고 했다. 1조5000억원대 정산대금을 편취했다는 혐의를 인정하냐는 질문에는 “그렇지 않다”고 답했다.&lt;br&gt;&lt;br&gt;회사의 위기 징후를 2년 전 감지하고도 미정산 금액을 축소해 금융감독원에 허위 보고했다는 의혹에 대해서도 “아는 바 없다”고 했다. 구 대표는 “한 번 더 피해자들과 국민 여러분께 진심으로 사죄드린다”며 “오늘 재판에서 성실히 소명하도록 하겠다”고 말한 뒤 법정으로 향했다.&lt;br&gt;&lt;br&gt;류화현 대표도 이날 오전 10시 20분쯤 눈물을 보이며 법원에 출석했다. 그는 “미정산 사태를 올 초부터 알고 있었느냐”는 취재진 질문에 “이번 사태와는 다르게 상품권 정산이 지연된 걸 알고 있었다”고 답했다.&lt;br&gt;&lt;br&gt;이어 “이 사태를 주도한 게 구영배 대표라는 입장이냐”는 질문에 “저도 책임이 있다. 당시 구 대표가 자금을 구하는 것과 내외부에 얘기한 것이 달라 감정이 격해진 게 있다”고 했다. “위메프를 흑자로 만들고 좋은 회사를 만들고 싶어 복귀했다. 흑자를 만들기 위해 신용대출도 받은 부분을 해명할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;이어 도착한 류광진 티몬 대표는 취재진 질문에 답하지 않고 법정에 들어섰다&lt;br&gt;&lt;br&gt;구 대표는 정산대금을 지급할 수 없을만큼 경영이 악화된 사실을 알고도 류광진, 류화현 대표와 공모해 판매자들을 속여 돌려막기식 영업으로 1조5950억원 상당의 물품 판매대금을 가로챈 혐의 등을 받는다.&lt;br&gt;&lt;br&gt;검찰은 구 대표가 티메프에 603억원, 위메프에 89억여원대 손해를 입히고 미국 전자상거래 회사를 인수하기 위해 회삿돈 671억원을 횡령했다고 보고 있다. 또 이들이 미정산 사태 2년 전 이미 위기 징후를 감지하고도 2022년 말 기준 5000억원대 미정산 금액을 460억 원대로 10분의 1 이상 축소해 금융감독원에 허위 보고한 정황을 파악했다고 한다.&lt;br&gt;&lt;br&gt;이에 검찰은 지난 4일 “티메프 사태의 사안의 중대성과 증거인멸 가능성, 도주 우려 등을 고려해 이들에게 구속영장을 청구했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조전혁 “서울 교육 정상화”... 정근식 “조희연 교육 계승”</title>
-      <link>https://www.chosun.com/national/education/2024/10/10/N2TNJGJ3IRDWVLKNQJVOUNSOH4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/10/N2TNJGJ3IRDWVLKNQJVOUNSOH4/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Oct 2024 04:09:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZBZFECNJMBLPPASEKQCGF7BE2E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;10·16 서울시교육감 보궐선거 사전투표를 하루 앞둔 10일 보수 진영 단일 후보인 조전혁 후보(왼쪽)와 진보 진영 단일 후보인 정근식 후보가 서울 종로구 서울시교육청에서 기자회견을 열고 각각 정견발표를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 오전 서울시교육청에서 서울시교육감 조전혁 보수 단일 후보와 정근식 진보 단일 후보의 기자회견이 진행됐다. 조전혁 후보는 ‘서울 교육 정상화’를, 정근식 후보는 ‘조희연 교육 계승’을 강조했다.&lt;br&gt;&lt;br&gt;조전혁 후보는 “조희연 전임 교육감의 대표 정책인 혁신학교와 학생인권조례 정책은 철저히 실패로 판명됐다”며 “조전혁이 서울 교육을 10년만에 정상화하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;조 후보는 서울 교육 정상화를 위해 ‘공교육 품질 관리’에 집중하겠다고 말했다. 이를 위해 구체적으로 서울시교육청 산하에 ‘학교평가청’을 신설하고, 교육감 직속 ‘학부모의회’를 신설하겠다고 했다.&lt;br&gt;&lt;br&gt;학교평가청을 통해 학교의 교육력을 정확하게 측정하고, 교육 서비스의 질을 획기적으로 개선하겠다는 입장이다.&lt;br&gt;&lt;br&gt;조 후보는 “교사를 개별적으로 평가한다는 것은 아니다”며 “예로 들면 학교 급식에 관해 정기적으로 학생 만족도 조사를 실시하고, 결과를 상·중·하로 나눠 발표하면 하에 속한 학교는 급식 질을 개선하기 위해 엄청 노력하게 된다”고 말했다. 이어 “학교가 학부모와 아이들을 만족시킬 수 있도록 학교가 서로 경쟁하도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;교육감 직속 학부모의회는 학부모 의견을 적극적으로 받아들이겠다는 의지를 표현한 것이라고 했다. 조 후보는 “기존 학부모 위원회보다 적극적으로 운영하겠다”며 “공교육 서비스는 학부모를 만족시켜야 할 의무가 있다”고 했다.&lt;br&gt;&lt;br&gt;또 조 후보는 학생의 권리만을 일방적으로 강조한 학생인권조례를 학생권리의무조례로 개정하고, 교사가 민원인과 직접 맞대응하지 않도록 ‘교육청 콜센터’를 운영하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;정근식 후보는 “의료대란을 부른 졸속 정책이 교육 대란으로 이어지지 않도록 하겠다”고 밝혔다. 또 “선생님들이 가장 두려워하는 것은 새로운 교육감이 와서 교육 현장을 뒤집어 엎는 것”이라며 “역사의 시계가 되돌아가서 교육 현장이 혼란에 빠지는 일이 없도록 하고 싶다”고 강조했다.&lt;br&gt;&lt;br&gt;정 후보는 학생 평가를 최소화하는 조희연 전 교육감 기조를 그대로 유지하는지 묻는 질문에 “과거처럼 일률적 시험으로는 미래 사회에 제대로 대응할 수 없다. 학생이 가지고 있는 잠재적 능력이 뭔지 찾는 진단이 필요하고, 이를 학교와 교사가 도와주는 게 중요하다”고 했다.&lt;br&gt;&lt;br&gt;또 조희연 전 교육감 정책인 혁신학교로 기초 학력이 떨어졌다는 비판에 대해 “정말 혁신학교 정책으로 기초 학력이 떨어진 것인지, 외국인 학생과 다문화 학생 등 사회적 변화로 인해 그런 것인지 정확히 분석해 객관적으로 판단해야 한다”고 했다.&lt;br&gt;&lt;br&gt;정 후보는 교육 격차를 해소하고 기초 학력을 보장하기 위해 ‘학습진단치유센터’ 설치와 ‘서울교육 양극화 지수’ 개발을 약속했다. 학습진단치유센터는 서울 각 구별로 만들 생각”이라며 “학습 진단을 전문으로 하는 사람들로 꾸려, 현직 교사들에게 부담되지 않게 하겠다”고 말했다. 서울교육 양극화 지수도 서울의 각 지역별 교육 수준 차이를 해결할 수 있도록 개발하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;한편 정 후보 측은 이날 오후 2시 긴급 기자회견을 추가로 진행한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/ZBZFECNJMBLPPASEKQCGF7BE2E.JPG?width=2000&amp;height=1280&amp;auth=75e92d4939b3259684870e9207b922d2b00917dcca06766ba5be373b998fa593&amp;smart=true" type="image/jpeg" height="1280" width="2000">
-        <media:description type="plain">(서울=뉴스1) 이동해 기자 = 10·16 서울시교육감 보궐선거 사전투표를 하루 앞둔 10일 보수 진영 단일 후보인 조전혁 후보(왼쪽)와 진보 진영 단일 후보인 정근식 후보가 서울 종로구 서울시교육청에서 기자회견을 열고 각각 정견발표를 하고 있다. 2024.10.10/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 이동해 기자</media:credit>
-      </media:content>
     </item>
     <item>
       <title>‘민원인 앞 바지 벗고, 금품 받고’… 경찰, 양양군청 압수수색</title>
