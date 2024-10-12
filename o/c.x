@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“설악산서 여자친구 길 잃어”…스웨덴서 온 구조요청에 조난자 극적 구조</title>
+      <link>https://www.chosun.com/national/2024/10/12/IHUHEDJ7SFEWDBZLOKUYOV6LJM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/10/12/IHUHEDJ7SFEWDBZLOKUYOV6LJM/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Oct 2024 11:43:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JGXA4TZUGFFNJB2JCAMXWED2N4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구조대원과 설악산국립공원 직원들이 등산 후 내려오던 중 길을 잃고 다친 B씨를 들것으로 옮기고 있다. /강원도소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스웨덴인 여성이 설악산 등산 중 길을 잃었다가, 스웨덴에 있던 남자친구의 도움으로 구조됐다.&lt;br&gt;&lt;br&gt;12일 강원도소방본부 등에 따르면 지난 11일 오후 6시56분쯤 스웨덴에 거주하는 남성 A씨로부터 “여자친구 B씨가 설악산 등산 중 길을 잃었다”는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;B 씨는 한국에 놀러 와 혼자 설악산을 오른 뒤 하산하던 중 날이 어두워지자 길을 잃었다. 그러다 3m 아래로 떨어지면서 다리도 다쳤다.&lt;br&gt;&lt;br&gt;우리나라 119 연락처 등을 몰랐던 A씨는 소셜미디어(SNS) 메신저를 통해 스웨덴에 있는 남자친구 A씨에게 구조 요청을 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/25C5FVA4VBGXZJPYJ47UUTZB3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스웨덴인 B씨를 들것으로 옮기는 모습. /설악산국립공원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여자친구 연락을 받은 A 씨는 휴대전화 위치정보시스템(GPS)을 확인해 한국 119에 알렸다. 통역을 통해 B씨 위치를 확인한 소방 당국 등은 이날 오후 8시 20분쯤 B 씨를 발견하고, 응급조치했다. 이어 들것에 실어 오후 11시 47분쯤 하산했다. 발목 등을 다친 B 씨는 인근 병원으로 옮겨져 치료받고 있지만 생명에는 지장이 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;소방당국 관계자는 “외국어로 구조 요청이 들어와 통역을 통해 A씨가 보내준 위치정보를 확인할 수 있었다”며 “산은 휴대전화가 터지는 지역이면 위치 정보가 더 정확하게 나온다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>남성은 어떻게 전 여친 집에 들어가 살해했나…배달앱에 남은 기록</title>
       <link>https://www.chosun.com/national/national_general/2024/10/12/BAA4M3KVDNG2LJ7G3FQOTPOJVM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/12/BAA4M3KVDNG2LJ7G3FQOTPOJVM/</guid>
@@ -840,15 +849,6 @@
         <media:description type="plain">방송국에서 ‘편집한다’라고 하면 거북목으로 고독한 편집실 골방에 처박혀 밤낮없이 영상을 자르고 붙이고 다듬는 작업을 일컫는다. 여기에 자막 쓰고 디자인 의뢰하고 CG를 넣는 후반 작업까지 PD의 영역이다.</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>부산 지하철 노사 잠정 합의... 노조, 11일 파업 철회</title>
-      <link>https://www.chosun.com/national/2024/10/10/HUQTXKYITVGUJEG5FH77ECP4UI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/10/10/HUQTXKYITVGUJEG5FH77ECP4UI/</guid>
-      <dc:creator>김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Oct 2024 14:08:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3V35QHIJVJFWPMC7I55CYNBMJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;잠정합의안 도출한 부산지하철 노사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산교통공사 노사가 임금을 포함한 단체협상 최종교섭에서 잠정 합의안을 마련했다. 이에 따라 11일 예고된 노조 총파업은 철회됐다.&lt;br&gt;&lt;br&gt;10일 부산시에 따르면 부산교통공사와 부산 지하철노조는 이날 오후 3시부터 부산 금정구 노포차량기지에서 최종 교섭을 열고, 6시간이 넘는 마라톤 회의를 열었다.&lt;br&gt;&lt;br&gt;노사는 핵심 쟁점이던 임금 인상과 관련해 정부 가이드라인인 전년 대비 총액 2.5% 인상키로 잠정 합의했다. 앞서 노조는 임금 4.8% 인상을 요구했고, 사측은 1.5% 인상안을 내놓으면서 이견을 보였다.&lt;br&gt;&lt;br&gt;노사는 이번 잠정합의안에서 공무직 임금 격차를 해소하기 위한 보전 수당 8만원을 지급하기로 잠정 합의했다. 인력 충원과 관련한 쟁점은 조직 진단 결과에 따라 결정하는 것으로 정리했다.&lt;br&gt;&lt;br&gt;노사는 또 가족수당 기준 변경을 위한 협의체 구성과 안전 지원경비 지급 대상 확대 등에도 합의했다.&lt;br&gt;&lt;br&gt;노사 모두 파업은 막아야 한다는 공감대를 형성하면서 잠정 합의안을 마련한 것으로 전해졌다. 앞서 노조는 지난 6월 4일부터 15차례 교섭에서도 입장 차가 좁혀지지 않자 11일부터 무기한 전면 파업을 예고한 바 있다.&lt;br&gt;&lt;br&gt;이번에 도출한 잠정 합의안은 내주 노조의 대의원대회에서 의견을 묻고, 최종 확정된다. 대의원대회에서 합의안을 인준하면 노사는 정식합의서를 체결할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>13남매 키운 두 엄마 등장... 임산부의 날, 모처럼 잔치날</title>
