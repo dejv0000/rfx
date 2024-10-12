@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>남성은 어떻게 전 여친 집에 들어가 살해했나…배달앱에 남은 기록</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/12/BAA4M3KVDNG2LJ7G3FQOTPOJVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/12/BAA4M3KVDNG2LJ7G3FQOTPOJVM/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Oct 2024 09:59:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7EACVGCXYBCBHDPOG5VN7JE5MQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 3일 전 남자친구 김모(31)씨에게 살해당한 A씨가 생전 촬영한 영상. 김씨는 이별 후에도 A씨의 집에 수차례 찾아왔다. /SBS '궁금한 이야기 Y'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;데이트 폭행을 일삼던 남성이 자신을 피하던 전 여자친구의 집에 들어가 살해한 수법이 공개됐다. &lt;br&gt;&lt;br&gt;부산 연제경찰서는 지난달 3일 살인 혐의로 김모(31)씨를 체포했다. 김씨는 부산 연제구 연산동 한 오피스텔에서 전 여자친구인 20대 A씨를 살해한 혐의를 받는다. &lt;br&gt;&lt;br&gt;김씨는 “여자친구를 죽였다”고 경찰에 직접 신고했다. 신고를 받고 출동한 경찰은 옥상 난간에 앉아 투신을 시도하려는 김씨를 설득해 현장에서 체포했다. &lt;br&gt;&lt;br&gt;A씨는 자신의 집 현관에서 흉기에 찔려 의식을 잃은 채 발견돼 인근 병원으로 옮겨졌으나 끝내 숨졌다. &lt;br&gt;&lt;br&gt;11일 방송된 SBS ‘궁금한 이야기 Y’에 따르면, 유족들은 김씨가 어떻게 A씨의 집에 들어갔는지 의아해했다.  &lt;br&gt;&lt;br&gt;김씨는 1년가량 사귀면서 폭언과 폭행을 일삼았고, A씨는 경찰에 3번이나 신고했다. A씨가 이별을 통보하자 집에 찾아와 현관 비밀번호를 이것저것 눌러보고 밤새 집요하게 문을 두드렸다. A씨의 이웃이 “그 남자 이상하더라. 대문에 귀를 착 대고 사람이 있나 없나 확인하더라”고 기억을 할 정도였다. 사건이 일어나기 한 달 전 김씨를 피해 새로운 곳으로 이사한 상황이었다.  &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DZUJXWYDSJGAVI5NIF33ZCGWDY.png"&gt;&lt;figcaption&gt;&lt;small&gt;교제 당시 김씨의 폭행으로 A씨 몸에 남은 상처. /SBS '궁금한 이야기 Y'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김씨의 휴대전화에서 의아한 흔적이 발견됐다. 사건이 있던 날 오후 A씨는 배달앱을 통해 카드결제로 음식을 주문했다. 그런데 배달 업체 측은 “방금 카드결제 말고 계좌이체 하신다고 해서 연락드렸다”는 문자를 보냈고, A씨는 “아닌데요”라고 답했다. 누군가 사건 직전 결제 방식을 바꾼 것이다. &lt;br&gt;&lt;br&gt;배달 업체 관계자는 당시 어떤 남성이 A씨의 오피스텔 계단에 있던 일을 떠올렸다. 남성은 자신에게 음식을 주면 된다며 현금을 주겠다고 했다. 배달 기사가 “왜 이렇게 하냐”고 묻자 남성은 “여자친구 집인데 서프라이즈 하려고 한다”고 답했다고 한다. &lt;br&gt;&lt;br&gt;그렇게 배달 기사는 결제 방식을 바꿨고, A씨 집 앞에 음식을 놔두고 돌아가려던 찰나 남성이 갑자기 계단을 뛰어 올라가던 모습이 잊히지 않는다고 했다. 마치 문이 열리기만을 기다렸던 듯했다. 나중에 뉴스를 보고 그 남성이 김씨라는 것을 알게 됐다고 한다. &lt;br&gt;&lt;br&gt;A씨의 휴대전화에 남은 의아한 흔적은 또 있었다. 김씨는 A씨에게 폭언과 폭행을 행사한 후 우울증 약 때문에 그 상황이 기억나지 않는다고 했다. 그리고 그는 이번에도 수사기관에 같은 진술을 했다. A씨의 동생은 “김씨가 심신미약을 주장한다고 들었다”고 했다. &lt;br&gt;&lt;br&gt;이광민 정신과 전문의는 “대부분의 약들이 신경안정제와 수면제”라며 “많은 용량을 한꺼번에 먹고 잠을 자지 않으면 ‘전향적 기억상실’이라고 해서 약을 먹고 난 이후의 기억을 잃는 효과가 나타난다”고 했다. 이 전문의는 “다만 판단력이 와해된다거나 현실 검증력이 떨어지지는 않는다”고 했다. &lt;br&gt;&lt;br&gt;김씨는 사건 전 A씨의 현 남자친구 직장을 찾아가 눈물로 이별을 호소한 뒤 흉기를 준비해 A씨 집을 찾았다. 현관문이 열리기 전까지 장시간 기다린 후 A씨를 살해하고, 지인과 경찰에 전화했다. &lt;br&gt;&lt;br&gt;곽대경 동국대 경찰행정학과 교수는 “자기 책임을 회피하거나 감면하려는 시도에서 나온 이야기로 봐야 한다”고 했다. &lt;br&gt;&lt;br&gt;경찰은 김씨를 구속한 후 수사를 이어가고 있다. 경찰 관계자는 약 영향을 받았다는 김씨의 진술에 대해 “자기의 주장인데 우리가 장담할 수는 없다”며 “자기가 복용한 약은 제출했다”고 밝혔다. 경찰은 계획범죄 가능성이 높은 것으로 보고 사건 경위 전반에 대해 보강 수사를 하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>음주 뺑소니 60대 검거...10대 오토바이 운전자 숨져</title>
+      <link>https://www.chosun.com/national/2024/10/12/OAUPAQ65XZFAHDCKM2HUMLLGEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/10/12/OAUPAQ65XZFAHDCKM2HUMLLGEU/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Oct 2024 08:27:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKPU66JR2ZACLDQI47NNRQYETM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 전주에서 술에 취해 승용차를 몰다 사고를 내고 도주한 60대 운전자가 경찰에게 붙잡혔다. 이 사고로 10대 오토바이 운전자가 숨졌다.&lt;br&gt;&lt;br&gt;전북 전주덕진경찰서는 특정범죄 가중처벌 등에 관한 법률 위반(도주치사)과 도로교통법 위반(음주운전) 혐의로 A씨를 붙잡아 조사하고 있다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 오전 0시 20분쯤 전북 전주시 덕진구 송천동 한 도로에서 SUV 차량을 몰던 중 10대 B군이 몰던 오토바이를 들이받고 달아난 혐의를 받는다. A씨는 교차로에서 신호를 위반해 좌회전하다가, 맞은 편에서 오는 오토바이를 친 것으로 전해졌다. 이 사고로 크게 다친 B군은 병원으로 옮겨졌으나 숨졌다.&lt;br&gt;&lt;br&gt;사고를 낸 A씨는 현장에서 도주를 시도했지만, 경찰의 추적 끝에 20여분 만에 붙잡혔다.&lt;br&gt;&lt;br&gt;음주 측정 결과 A씨의 혈중알코올농도는 면허 취소 수준이었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨에 대한 구속영장을 신청하고, 자세한 사고 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>재보선 마지막 주말 총력전… 한동훈 “민주당 패륜 심판” 이재명 “윤석열 2차 심판”</title>
       <link>https://www.chosun.com/politics/assembly/2024/10/12/QVGZUEK3D5DFNKXLOIP6QGOHB4/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2024/10/12/QVGZUEK3D5DFNKXLOIP6QGOHB4/</guid>
@@ -822,23 +840,6 @@
         <media:description type="plain">방송국에서 ‘편집한다’라고 하면 거북목으로 고독한 편집실 골방에 처박혀 밤낮없이 영상을 자르고 붙이고 다듬는 작업을 일컫는다. 여기에 자막 쓰고 디자인 의뢰하고 CG를 넣는 후반 작업까지 PD의 영역이다.</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>“2000명 근거 있다” “시뮬레이션 해봤나”... 대통령실·의대교수 150분 공방</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/10/10/XB2HAKS5QFCQ5IQGLYP62J5L5I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/10/XB2HAKS5QFCQ5IQGLYP62J5L5I/</guid>
-      <dc:creator>조백건 기자, 오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Oct 2024 14:28:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W77YE7VQMVGBJGBSLZLZTEBNPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오후 서울대 의대 융합관 박희택홀에서 열린 의료 개혁 토론회 발표자들이 행사 시작 전 손을 맞잡고 있다. 왼쪽부터 정경실 복지부 의료개혁추진단장, 장상윤 대통령실 사회수석, 유미화 녹색소비자연대 대표(진행자), 강희경 서울대 의대 비대위원장, 하은진 서울대 의대 비대위원. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“2000명 의대 증원은 충분한 과학적 근거가···.”&lt;br&gt;&lt;br&gt;“무슨! 시뮬레이션 해봤어요?”&lt;br&gt;&lt;br&gt;10일 오후 2시부터 2시간 30분간 서울대 의대에서 열린 ‘의료 개혁, 어디로 가는가’ 토론회는 시작부터 긴장감이 돌았다. 정부 측에선 의대 증원을 주도하는 대통령실 장상윤 사회수석과 정경실 보건복지부 의료개혁추진단장이 참석했다. 대통령실 인사가 의료계와의 공개 토론에 나선 것은 ‘의정 갈등’이 시작된 지난 2월 이후 8개월 만에 처음이었다. 의료계에선 강희경 서울대 의대 교수협 비대위원장(소아과 교수)과 하은진 비대위원(신경외과 교수)이 참석했다.&lt;br&gt;&lt;br&gt;장 수석이 먼저 ‘의대 2000명 증원의 필요성’에 대해 발표했다. 그는 “부족한 의사 수는 2035년에 1만명이 아니라, (면밀히 따지면) 2배 이상으로 늘어난다”며 “사실상 최소 4000명 이상 증원이 필요하다. 2000명은 필요 최소한의 숫자”라고 했다.&lt;br&gt;&lt;br&gt;그러자 관객석에 서 있던 흰 가운을 입은 중년 의사 한 명이 고함을 질렀다. “어떻게 2000명이야. 어떻게.” 그러자 장 수석은 “발제(발표)할 시간을 보장해 달라”고 말했다. 이어 장 수석이 “(의대 증원 발표 전에도) 의사 단체들과 증원 문제를 37차례 협의를 했고···”라고 하자, 그 남성은 또 말을 자르며 “그거 거짓말이잖아”라고 소리쳤다.&lt;br&gt;&lt;br&gt;이날 토론회는 양측이 직접 공방을 벌이는 게 아니라 각자 입장을 사회자에게 설명하는 방식으로 진행이 됐다. 충돌을 피하기 위해서였다. 하지만 실제 토론회에선 가시 돋친 공방이 오가기도 했다. 장상윤 수석은 “지표상 우리나라 의사 수는 OECD(경제협력개발기구) 중 부동의 꼴찌”라고 했다. 그러자 강희경 교수는 “하루 2시간 공부하고 1등 하는 학생에게 ‘(같은 또래) 평균 공부 시간이 5시간인데 이래서 되겠어’라고 하는 꼴”이라며 “1000명당 2.6명(OECD 통계)의 한국 의사로도 세계 톱 성적을 유지했다”고 말했다.&lt;br&gt;&lt;br&gt;참석한 교수들이 “우리나라 건강보험 재정은 지속적이지 않다”고 하자, 정경실 단장은 “현 정부에서 내년에 2조원의 국가 재정을 보건·의료에 투입하기로 했다. 교수님들 놀라시는 거 보니 모르셨나보다”라고도 했다.&lt;br&gt;&lt;br&gt;최근 논란이 됐던 ‘응급실 대란’ 문제가 나오자 양측 인사 모두 말이 빨라졌다. 장 수석은 “응급실 뺑뺑이는 이번 사태 이전에도 있었던 문제”라며 “수도권도 응급실 의사가 부족하고 지역으로 가면 훨씬 더 부족하다. 이 문제도 의료 개혁의 주요 이유”라고 했다.&lt;br&gt;&lt;br&gt;이에 하은진 교수는 “아까운 돈을 의사 수 늘리는 데 쓰지 말고 (응급실 등 의료) 시스템 개선에 써야 한다”고 했다.&lt;br&gt;&lt;br&gt;행사 막바지에 장 수석은 “오늘 희망의 싹을 봤다”며 “이런 자리라면 정부는 항상 열려 있다”고 했다. 강 교수도 “매주 공개된 자리에서 이런 논의를 하면 좋겠다”고 했다. 하지만 의료계에선 “의대 증원을 둘러싼 정부와 의료계의 기존 이견을 재확인한 정도에 그쳤다”는 지적도 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 10월 11일</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/11/DGZYJYVEMBBPHOBDAY5ZK6J55U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/11/DGZYJYVEMBBPHOBDAY5ZK6J55U/</guid>
-      <description/>
-      <pubDate>Thu, 10 Oct 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CNHCSKFQZ5D6PN4RUIYHCDDKWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>부산 지하철 노사 잠정 합의... 노조, 11일 파업 철회</title>
