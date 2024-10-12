@@ -13,6 +13,85 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘인천 흉기난동 부실 대응’ 경찰관 해임 확정</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/12/YNIJ6V35JVCL5L5V72YPDR6YUM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/12/YNIJ6V35JVCL5L5V72YPDR6YUM/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Oct 2024 03:01:43 +0000</pubDate>
+      <content:encoded>2021년 발생한 ‘인천 층간소음 흉기 난동’ 사건 관련 부실 대응으로 해임된 전직 경찰관들이 불복해 소송을 냈지만 대법원에서 패소했다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 서경환 대법관)는 지난 10일 A(50) 전 경위가 인천경찰청장을 상대로 “해임 처분을 취소하라”며 낸 행정소송 상고심에서 원고 패소 판결한 원심을 심리불속행 기각으로 확정했다. 이에 따라 이들의 해임은 확정됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7C5ZMHJA7ZAF7EGL46SPLDMSHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘인천 층간소음 흉기 난동 사건’ 당시 경찰 2명이 건물 밖으로 나가는 모습. /피해자 가족 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 논현경찰서 소속 한 지구대에서 근무하던 A씨와 B(26) 전 순경은 2021년 11월15일 오후 인천 남동구 한 빌라에서 4층에 살던 50대 남성이 아래층 거주자인 40대 여성에게 흉기를 휘두르는데도 범행 제지나 피해자 구호 등 조치 없이 현장을 이탈했다. 피해자는 범인이 휘두른 흉기에 목을 찔려 의식을 잃었고 뇌수술을 받았다. 피해자의 남편과 딸도 얼굴과 손 등을 다쳐 전치 3∼5주의 병원 진단을 받았다.&lt;br&gt;&lt;br&gt;경찰은 같은 달 징계위원회를 열고 이들 경찰관에게 성실의무 위반 등으로 각각 해임 처분을 내렸다. 해임은 경찰공무원 징계 가운데 파면 다음으로 수위가 높다.&lt;br&gt;&lt;br&gt;두 사람은 해임 징계에 불복해 각각 행정소송을 제기했다. A씨 사건의 2심 재판부는 “A씨와 B씨는 권총과 테이저건 등을 갖고 있었고 수적으로도 우세해 가해자를 충분히 제압할 수 있었다”며 원고 패소 판결했다. A씨가 상고했지만 대법원은 본안 심리 없이 2심 판결을 확정한 것이다. B 전 순경의 경우 지난 3월 대법원에서 패소가 확정됐다.&lt;br&gt;&lt;br&gt;한편 두 사람은 직무유기 혐의로 기소돼 항소심에서 각각 징역 1년에 집행유예 3년을 선고받았다. A씨는 항소심 판결에 불복해 상고했고, B씨는 상고하지 않아 원심이 확정됐다.&lt;br&gt;&lt;br&gt;흉기 난동 사건의 주범 C씨는 살인미수 혐의로 기소돼 대법원에서 징역 22년의 판결을 확정받았다．&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“죽겠다” 신고 해놓고 출동한 경찰에 “왜 왔냐”며 주먹질...40대 ‘실형’</title>
+      <link>https://www.chosun.com/national/2024/10/12/DARX3VTY25GQPEQCQZXVNG3GGY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/10/12/DARX3VTY25GQPEQCQZXVNG3GGY/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Oct 2024 01:43:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취한 채로 “죽겠다”며 112에 신고하고, 이에 출동한 경찰을 때린 40대에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;청주지법 형사2단독 안재훈 부장판사는 공무집행방해, 특정범죄가중처벌법상 도주치상, 도로교통법 위반(음주운전) 등의 혐의로 기소된 A(44)씨에게 징역 3년 8개월을 선고했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 6월 4일쯤 청주시 청원구 자신의 집에서 만취 상태로 112에 신고해 출동한 경찰관 2명을 때린 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;당시 A씨는 경찰에 “극단 선택을 하겠다”는 취지로 수차례 전화했다. 출동한 경찰관이 신고 경위를 묻자 “내가 언제 오라고 했느냐”며 욕설과 함께 경찰관들을 폭행했다.&lt;br&gt;&lt;br&gt;A씨는 또 지난 4월 13일 낮 12시30분쯤엔 청주의 한 병원 장례식장에서는 만취 상태로 차량을 운전하다가, 오토바이를 들이받아 운전자에게 전치 8주의 상해를 입혔다. 당시 A씨의 혈중알코올농도는 면허 취소 수치인 0.108%였다.&lt;br&gt;&lt;br&gt;A씨는 과거 음주운전으로 3차례 처벌받은 전력이 있는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;재판과정에서 A씨는 공무집행방해 혐의에 대해서는 정당방위를 주장했지만, 재판부는 A씨가 체포 현장에서 부렸던 난동과 저항의 정도, 경찰관이 피고인을 체포하는 과정에서 사용한 완력은 범죄자를 체포하는 과정에서 수반될 수 있는 수준에 불과하다며 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;안 부장판사는 “공무집행방해죄에 대해 부인하며 반성하지 않고 있어 엄벌이 불가피하다”며 “사건의 발단도 피고인이 심경이 좋지 않을 때마다 경찰을 불러서 화풀이하는 대상으로 여기는 태도에서 비롯됐다”고 지적했다. 또 “10년 이내 음주운전 전과가 3회에 이르고, 법정에서도 시종일관 불량한 태도를 보인 점 등에 비춰보면 준법정신이 현저히 결여돼 있고, 개선의 여지도 크지 않다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한국 축구장 잔디보고 ‘절레절레’… 린가드, 국정감사 불출석 결정 </title>
+      <link>https://www.chosun.com/national/national_general/2024/10/12/WJUDRTJHOBD43LRS3ZCTP2PDKI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/12/WJUDRTJHOBD43LRS3ZCTP2PDKI/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Oct 2024 01:56:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZWAI42IZUI24RTIXVIQHP5KS7A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제시 린가드. /뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프로축구 K리그1 FC서울 소속 제시 린가드가 국회 국정감사 참고인 불출석을 결정했다. 국회 행정안전위원회는 서울월드컵경기장(상암경기장)의 ‘잔디’를 둘러싼 논란 속 린가드에게 참고인 출석 요구서를 보냈던 바 있다.&lt;br&gt;&lt;br&gt;프로축구계 관계자는 12일 “린가드가 국회에 참고인 불출석 사유서를 제출하기로 했다”라며 “팀 훈련과 K리그1 경기 일정 때문에 참고인으로 참석하기 어려운 상황을 고려한 결정”이라고 연합뉴스에 말했다.&lt;br&gt;&lt;br&gt;앞서 린가드는 서울월드컵경기장에 대한 불만을 직접적으로 드러냈다. 린가드는 지난달 29일 서울월드컵경기장에서 열린 하나은행 K리그1 2024 32라운드 홈 경기를 마친 뒤 잔디 상태에 대한 이야기를 듣자마자 얼굴을 찌푸리며 절레절레 고개를 저었다. 린가드는 “심각하다고 생각한다”며 훈련장과 경기장 상태를 지적했다. “선수들끼리는 서로 핑계 대지 말자고 하지만 환경 자체는 굉장히 실망스럽다”며 “좋은 축구를 하기 위해서는 그에 맞는 좋은 컨디션이 절실하다”고도 했다.&lt;br&gt;&lt;br&gt;이후 국회 행정안전위원회는 오는 15일 서울시청에서 예정된 서울시 국정감사에 린가드를 참고인으로 부르겠다며 출석 요구서를 보냈다. 위성곤 더불어민주당 의원이 최근 논란이 된 서울월드컵경기장 잔디 상태와 관련, 축구 인프라가 뛰어난 잉글랜드 프로축구(EPL) 무대에서 활약했던 린가드에게 의견을 들어보고자 참고인으로 채택했다.&lt;br&gt;&lt;br&gt;다만 린가드 참고인 채택 당시 ‘잔디 전문가’도 아닌 린가드를 국감 참고인으로 채택한 것에 대한 지적도 일부 나왔다. 결국 린가드는 구단과 상의한 끝에 훈련과 경기 일정을 고려해 국감 참고인으로 출석하지 않기로 했고, 국회에 불출석 사유서를 내기로 했다.&lt;br&gt;&lt;br&gt;한편 서울월드컵경기장 잔디 상태는 손흥민도 한차례 지적했다. 손흥민은 지난 10일 오만 무스카트의 술탄 카부스 스타디움에서 열린 2026 북중미 월드컵 아시아 3차 예선 B조 2차전에서 오만에 3-1로 승리한 뒤 진행한 인터뷰에서 “(오만 경기장)그라운드 상태가 너무나도 좋아서 선수들이 플레이할 때 더 자신 있게 한 것 같다”며 “이런 부분이 홈 경기장에서도 계속 개선됐으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 한동훈 신변 위협 글에 수사 착수… 주변 경호도 강화</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/12/ERPBOLXAKJBCTAXJBFY3O63EHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/12/ERPBOLXAKJBCTAXJBFY3O63EHM/</guid>
+      <dc:creator>서보범 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Oct 2024 02:16:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TZHIH5HNIGP5WQ2HZ7TSRYYZUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한동훈 국민의힘 대표가 지난 9일 오후 부산 금정구 부산대학교 앞에서 윤일현 금정구청장 후보 지원유세를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한동훈 국민의힘 대표의 신변을 위협하겠다는 내용의 온라인 게시글이 올라와 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;서울 마포경찰서는 지난 11일 오후 9시 15분쯤 온라인 커뮤니티 디시인사이드에 한 대표에게 물리적 폭력을 행사하겠다는 내용의 게시글이 게재됐다는 신고를 접수, 수사에 착수했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 해당 게시글 작성자의 신원을 파악하기 위해 디시인사이드에 대해 압수수색 영장을 신청하는 등 작성자를 추적 중인 것으로 파악됐다. 해당 게시글은 현재 삭제된 상태로 알려졌다.&lt;br&gt;&lt;br&gt;또 경찰은 한 대표 자택 관할인 서울 수서경찰서와 국민의힘 당사 관할 영등포경찰서에 공조를 요청해 인근 순찰을 강화했다.&lt;br&gt;&lt;br&gt;한 대표는 부산 금정구청장 보궐선거를 앞두고 오는 12일 부산 금정구 노포동 오시게장을 찾아 국민의힘 윤일현 후보 지원 유세에 나설 것으로 알려졌다. 경찰은 한 대표 부산 일정에도 경호 인력을 배치할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최보선 서울시교육감 후보 사퇴... 진보 진영 정근식으로 단일화</title>
+      <link>https://www.chosun.com/national/education/2024/10/12/SVDJ6J3CBJHNROOBOD6TIWNJCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/12/SVDJ6J3CBJHNROOBOD6TIWNJCE/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Oct 2024 00:47:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NXY5J4INP6JC3TZ3IGAFPNO7TE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시교육감 후보들이 지난 11일 오후 EBS 합동토론회에 참석해 기념촬영을 하고 있다. 최보선(왼쪽에서 세 번째) 후보는 12일 오전 기자회견을 열어, 서울시교육감 후보에서 사퇴하고 정근식(맨 왼쪽) 후보를 지지한다고 선언했다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최보선 서울시교육감 후보가 사전투표 둘째 날인 12일 서울시교육감 보궐선거에서 사퇴하고, 진보 진영 단일 후보로 선출된 정근식 후보를 지지한다고 선언했다.&lt;br&gt;&lt;br&gt;진보 성향 후보이자 서울시교육의원 출신인 최 후보는 이날 오전 9시 서울시교육청 앞에서 기자회견을 열었다. 그는 “정근식 후보가 서울 교육을 책임질 적임자”라며 “이번 단일화가 서울 교육 발전과 변화를 위한 중요한 토대가 될 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;최 후보는 이전까지 진보 진영 단일화에 참여하지 않겠다는 의사를 밝혀왔다. 하지만 이날 사퇴 및 정 후보 지지 선언을 하면서, 이번 서울시교육감 보궐선거에 나서는 진보 진영 후보는 정근식 후보 한 명으로 완전한 단일화가 이뤄졌다.&lt;br&gt;&lt;br&gt;이로써 오는 16일 치러지는 서울시교육감 보궐선거 후보는 정근식 후보와 보수 진영 단일 후보인 조전혁 전 한나라당 의원, 윤호상 한양대 교육대학원 겸임교수 등 3명으로 좁혀졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/NXY5J4INP6JC3TZ3IGAFPNO7TE.jpg?width=720&amp;height=479&amp;auth=02291489a8e18f3bee0424aeefa66e1a1a38aaeb62a9713d5e692dc404997b4e&amp;smart=true" type="image/jpeg" height="479" width="720">
+        <media:description type="plain">EBS 서울시교육감 토론회</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>오세훈 시장, 서울시교육감 사전투표 “교육 정책은 아이들 성장·서울 미래 좌우”</title>
+      <link>https://www.chosun.com/national/education/2024/10/12/OG5DHJFZM5BXVETSPW7XCMI5VU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/12/OG5DHJFZM5BXVETSPW7XCMI5VU/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Oct 2024 02:21:10 +0000</pubDate>
+      <content:encoded>오세훈 서울시장이 12일 서울 용산구 한남동 주민센터에서 서울시교육감 보궐선거 사전투표를 했다.&lt;br&gt;&lt;br&gt;오 시장은 이날 오전 자신의 페이스북에 ‘사전투표, 오늘까지입니다’라는 제목의 글을 올려 “방금 아내와 함께 서울시교육감 보궐선거 사전투표를 마쳤다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UEPQUOZYNBMKVNRGS7LAYGVIRY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;10·16 재·보궐선거 사전투표 마지막날인 12일 오전 서울 한남동 주민센터에 마련된 투표소에서 오세훈 서울시장과 배우자 송현옥 씨가 사전투표를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 “꽤 많은 투표에 임해봤지만, 투표함 앞에 서면 늘 마음이 새롭고 경건하다. 특히 이번 교육감 선거는 무게감이 더 크게 느껴진다”며 “교육 정책은 아이들의 성장뿐 아니라 서울의 미래까지 좌우할 만큼 중요하기 때문이다”고 했다.&lt;br&gt;&lt;br&gt;이어 “아이들의 교육을 위해, 나아가 서울의 미래를 위해 최선의 한 표를 행사해달라”며 오늘 사전투표와 16일 본투표 참여를 독려했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UEPQUOZYNBMKVNRGS7LAYGVIRY.JPG?width=5192&amp;height=3622&amp;auth=60caf68f325393dad70bb6d76131f5b53382bd27ffb950087bede5e50a56f5d7&amp;smart=true" type="image/jpeg" height="3622" width="5192">
+        <media:description type="plain">(서울=뉴스1) 이동해 기자 = 10·16 재·보궐선거 사전투표 마지막날인 12일 오전 서울 한남동 주민센터에 마련된 투표소에서 오세훈 서울시장과 배우자 송현옥 씨가 사전투표를 하고 있다. 2024.10.12/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 이동해 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>9년 일한 아나운서 계약종료한 EBS...항소심도 “부당해고”</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/12/UOFT7CVT6JGIZNQD6H6DBE4U74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/12/UOFT7CVT6JGIZNQD6H6DBE4U74/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Oct 2024 00:33:53 +0000</pubDate>
+      <content:encoded>9년간 방송에 출연한 프리랜서 아나운서에게 계약 종료를 통보한 한국교육방송(EBS)의 조치는 부당해고에 해당한다는 항소심 판단이 나왔다.&lt;br&gt;&lt;br&gt;서울고법 행정7부(재판장 구회근)는 EBS가 중앙노동위를 상대로 낸 부당해고 구제 재심 판정 취소 소송에서 원고 패소 판결한 원심과 같은 판단을 유지했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CTHBSDU7JJD4DA7XJ7BXHM3A64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아나운서 A씨는 2012년 4월부터 매주 월∼금요일 방송하는 EBS 저녁뉴스 진행자로 일했다. 별도의 근로계약서 없이 일하던 A씨는 2020년 8월에야 첫 계약서를 썼는데, EBS는 2021년 8월 계약 기간이 만료됐다며 계약 종료를 통보했다.&lt;br&gt;&lt;br&gt;그러자 A씨는 “EBS의 계약종료는 서면 통보 의무를 지키지 않아 부당해고에 해당한다”며 경기지방노동위원회에 구제신청을 냈고, 지노위는 A씨 손을 들어줬다. EBS는 중앙노동위원회가 재심 신청을 기각하자 이번 소송을 냈다.&lt;br&gt;&lt;br&gt;하지만 1심도 A씨 손을 들어줬다. 1심은 “A 씨가 EBS에 입사한 이후 2년이 지난 시점인 2014년 4월부터는 기간제법에 따라 무기계약직 근로자로 간주했다고 보는 것이 타당하다”며 “EBS의 출연 계약 종료는 부당해고에 해당한다”고 판결했다. A씨가 임금을 목적으로 종속적인 관계에서 EBS에 근로를 제공했으므로 근로기준법상 근로자에 해당한다는 것이다. 재판부는 EBS가 뉴스 진행 시간 등 일정을 일방적으로 결정했고, 업무와 관련해서도 구체적인 지시를 내렸다고 봤다.&lt;br&gt;&lt;br&gt;EBS는 항소했지만 2심 법원도 같은 판단을 내렸다. 항소심 재판부는 “원고가 주장하는 사유는 1심 주장과 크게 다르지 않고, 추가로 제출된 증거를 포함해 살펴보더라도 원고의 주장을 배척한 1심의 판단은 정당하다”면서 “A 씨는 임금을 목적으로 종속적 관계에서 EBS에 근로를 제공했다고 할 것이므로 근로기준법상 근로자에 해당한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“투숙객이 알몸으로 돌아다녀요”… 한강대교 위 호텔에 제기된 민원</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/12/JKOAZML5QRHZJOWLKC4CMGGJIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/12/JKOAZML5QRHZJOWLKC4CMGGJIY/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Oct 2024 00:07:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLTHKZEZIILV2FGF5WNOJXRQS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스카이 스위트 침실. /서울시 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한강 전망이 보이는 한강대교 위 호텔이 인기를 끌고 있는 가운데, 투숙객 모습이 밖에서 들여다보인다는 민원이 제기됐다.&lt;br&gt;&lt;br&gt;11일 서울시에 따르면, 최근 시 미래한강본부 운영부 운영총괄과에는 “한강대교 전망 호텔 스카이 스위트 내부 이용자의 모습이 보이지 않도록 조치를 요청한다”는 민원이 접수됐다.&lt;br&gt;&lt;br&gt;민원이 제기된 스카이 스위트는 한강대교 상부에 있던 직녀카페를 개조해 선보인 숙박 공간으로, 정식 개관 전부터 화제를 모았다. 지난 7월 16일 정식 개관했는데, 그 전 진행된 무료 숙박 체험에 6203명의 시민이 신청할 정도로 관심이 뜨거웠다.&lt;br&gt;&lt;br&gt;문제는 호텔 곳곳에 설치된 통창으로 인해 밖에서도 내부가 일부 들여다보인다는 점이다. 스카이 스위트 침실 남서쪽과 침대 옆 욕실에 통창이 설치돼 있는데, 블라인드로 통창을 가릴 수 있지만 블라인드를 치지 않으면 밖에서 안이 들여다보인다. 실제로 한 투숙객은 후기에서 “뷰는 매우 좋지만, 밖에서 다 보인다”며 “블라인드를 저가 제품으로 달아놓은 게 조금 아쉽다”고 했다. 다른 투숙객도 “블라인드를 열어놓으면 외부에서 내부가 보이는 위치들이 있으나, 멋진 전망을 위해 감수해야 하는 부분”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UGEZWJMC2GP6N6HQI3GUAYKSRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스카이 스위트 호텔 침실과 욕실에 통창이 설치돼 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KUJMLZLTBDVC7IJVKTZL7FSSM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 한강대교 상부에 자리한 스카이 스위트 호텔. 외부에서 내부 일부가 보인다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;향후 수개월 간 예약이 완료되는 등 투숙객이 줄을 잇는 가운데, 이 같은 민원이 제기되자 시는 대책을 마련하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;시 미래한강본부 운영부 운영총괄과는 민원 답변에서 “스카이 스위트 내부에서 투숙객이 알몸으로 돌아다녀 시민들에게 불쾌감을 줬다고 지적해주셨다”며 “운영업체를 통해 호텔 이용자들이 동일한 사례로 시민들에게 불쾌감을 초래하지 않도록 주의 조치하겠으며 유리에 반투명 시트지 부착 등도 검토하겠다”고 했다. 그러면서 “서울시가 민간에 위탁 운영하고 있는 시설에서 이 같은 사례가 발생했음을 죄송하게 생각한다”고 했다.&lt;br&gt;&lt;br&gt;한편 스카이 스위트는 침실, 거실, 욕실, 간이 주방 등으로 구성된 144.13㎡(43평) 규모의 객실 한 개로, 최대 4명이 입실 가능하다. 이용 요금은 최저 34만5000원, 최고 50만원으로 예약은 온라인 숙박 예약 플랫폼 업체 에어비앤비에서 이뤄진다. 호텔 운영은 라마다 호텔과 밀리토피아 호텔을 운영하는 주식회사 산하HM이 위탁 운영한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“소설가 부녀가 나누는 최고의 사랑”… 한강, 부친 한승원에 추천한 책은</title>
       <link>https://www.chosun.com/national/national_general/2024/10/12/2IUTDAU44FFMFPQEVVAABVYJNM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/12/2IUTDAU44FFMFPQEVVAABVYJNM/</guid>
@@ -665,15 +744,6 @@
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한강 작가의 노벨문학상 수상을 기념하는 ‘전라남도 문학박람회’가 추진된다.&lt;br&gt;&lt;br&gt;김영록 전남도지사는 11일 축하 성명을 통해 “우리 고장 출신 한강 작가의 한국인 최초 노벨문학상 수상을 축하하고, 기념하기 위해 매년 ‘전라남도 문학박람회’를 개최하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;김 지사는 “이번 수상은 우리 문학이 세계적 수준임을 증명하는 역사적 쾌거이자, 시대와 역사에 대한 깊은 통찰력과 풍부한 감성을 담은 작품들로 전 세계 독자들에게 뜨거운 감동을 선사한 결과”라며 “앞으로도 특별한 작품세계로 대한민국 국민은 물론, 전 세계인의 가슴에 깊은 울림을 줄 것으로 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;김 지사는 “전남은 조선시대 윤선도, 정철, 김인후 선생부터 김남주, 조정래, 이청준, 김영랑, 박화성, 한승원, 한강 작가에 이르기까지 한국문학의 정신적 토양이 된 문학의 고장으로서 유서 깊은 역사와 전통 속에 찬란한 문화·예술을 꽃피웠다”며 “앞으로도 면면히 이어진 문학 정신의 지평을 더욱 넓히고 깊이를 더하도록, 한강 작가의 노벨상 수상을 기념해 매년 ‘전라남도 문학박람회’를 개최하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;한강 작가는 광주에서 태어났다. 한강 작가의 아버지(한승원)는 교사 생활을 하다가 광주에서 상경해 전업작가의 길로 나섰다. 지금은 고향인 전남 장흥에서 작품 활동 등을 해오고 있다.&lt;br&gt;&lt;br&gt;이날 김성 장흥군수는 한승원 작가가 거처하는 장흥군 안양면 ‘해산 토굴’을 찾아가 “한승원과 한강 작가의 기념관을 건립해 ‘문림 의향’의 고장인 장흥을 드높이고 싶다”고 말했다. 장흥은 작가 이청준, 송기숙, 한승원을 포함한 많은 문인과 작가들을 배출해왔다.&lt;br&gt;&lt;br&gt;한승원 작가는 이에 대해 “노벨평화상을 받은 김대중 대통령 기념관을 목포에 짓고 광주에는 김대중 컨벤션 센터가 있듯이 (한강 작가의 고향인) 광주에서 욕심을 내지 않을까 싶다”며 “군수님도 욕심이 대단하다. 그 아이의 흔적을 여기(장흥)에 남기고 싶어 하는 것을 저로서는 뭐라 말할 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>한강 다녔던 광주 효동초 “우리 선배 노벨 문학상 수상에 감격”</title>
-      <link>https://www.chosun.com/national/regional/2024/10/11/BQ2Q5A7FLNCCNJGW7YJHV6LLVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/11/BQ2Q5A7FLNCCNJGW7YJHV6LLVI/</guid>
-      <dc:creator>광주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Oct 2024 05:39:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SZ56KWYN5FPXRE64UBBCSGMWNI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;한강 작가가 재학했던 광주 북구 효동초등학교의 한 교실에서 11일 오전 노벨문학상 수상과 관련한 수업을 진행하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노벨 문학상을 수상한 작가 한강이 다녔던 광주광역시 효동초등학교가 수상 소식을 담은 교육 자료를 배포하며 기쁨을 함께 나눴다.&lt;br&gt;&lt;br&gt;효동초는 11일 오전 한강 작가의 노벨 문학상 수상소식을 담은 신문기사를 스크랩해 재학생 1115명에게 교육자료로 배포했다.&lt;br&gt;&lt;br&gt;학생들은 한강 작가의 노벨 문학상 수상 관련 기사를 읽으며 작가에 대해 알아보는 시간을 가졌다. 이어 1980년 5·18 광주민주화운동을 주제로 쓴 ‘소년이 온다’ 일부를 돌아가며 낭독했다. 효동초는 학내 전광판에 한 작가의 수상 소식을 올렸고, 축하 현수막을 제작해 내걸었다.&lt;br&gt;&lt;br&gt;한강 작가는 1977년 광주 효동초에 입학했으며 1979년 아버지인 한승원 작가를 따라 서울로 이사하면서 전학을 간 것으로 알려졌다.&lt;br&gt;&lt;br&gt;강택구 효동초 교장은 “한국인 최초로 노벨문학상을 받은 한강 작가가 효동초 출신이라는 사실이 너무나 감격스럽다”며 “우리 아이들이 자긍심을 갖고 학교에 다닐 수 있도록 한강 작가를 더 알 수 있는 계기 수업을 열게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘기후 위기’ 현실화 신호일까… 북극에 나타난 오징어, 처음 잡혔다</title>
       <link>https://www.chosun.com/national/national_general/2024/10/11/5LLYT52A4BCDLG2X2NGMTBKNO4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/11/5LLYT52A4BCDLG2X2NGMTBKNO4/</guid>
@@ -681,15 +751,6 @@
       <description/>
       <pubDate>Fri, 11 Oct 2024 05:59:35 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QLW33EHLAZD7HCXSVOP3G3ZQB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북위 77도에서 심해카메라로 관찰한 오징어(왼쪽)와 넷트로 채집한 오징어 유생. /극지연구소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 유일 쇄빙연구선 아라온호가 북극해에서 해빙(海氷) 감소와 오징어의 출현 등 지구온난화 영향을 확인했다.&lt;br&gt;&lt;br&gt;극지연구소는 아라온호가 78일간의 북극 연구 항해를 종료하고 지난달 30일 광양항에 도착했다고 11일 밝혔다. 아라온호는 이번 항해 도중 북위 77도 지점에서 오징어 유생(완전한 성체로 자라기 전의 상태)을 처음 채집한 것으로 전해졌다. 북극해 고위도 지역에서 오징어의 서식 가능성을 확인한 것이다. 작년 여러 마리 대게를 잡은 데 이은 이번 성과는 북극해 밖에 살던 해양생물들이 점차 북극으로 유입되고 있음을 의미한다고 연구소는 설명했다.&lt;br&gt;&lt;br&gt;또 아라온호는 북위 74도에서 가로 350m·세로 110m 크기의 대형 빙산과 만나기도 했다. 캐나다나 그린란드 빙하에서 떨어져 나와 북극해를 떠돌던 빙산으로 추정되는데, 태평양 쪽 북극해에서는 보기 드문 규모다. 연구소는 “빙산이 녹으면서 주변 해수의 염분을 떨어뜨려 북극해 생태계에 영향을 미칠 수 있다”고 우려했다.&lt;br&gt;&lt;br&gt;올해 해빙 분포도 평년 대비 크게 줄어든 것으로 파악됐다. 아라온호는 북극 항해마다 관측장비를 설치하고 이듬해 회수한다. 이전까지는 해빙이 배의 접근을 막거나 장비를 손상시켜 실패하는 일이 잦았지만, 올해는 장비를 온전히 회수했다. 연구소는 “대형 빙산의 등장과 해빙의 감소, 비북극권 해양생물의 출현 배경에는 지구온난화가 있을 것으로 추정된다”고 했다.&lt;br&gt;&lt;br&gt;아라온호는 약 한 달간의 정비를 마치고 이달 말 남극으로 떠난다. 신형철 극지연구소장은 “아라온호는 2009년 첫 북극행 이후 14번의 항해에서 보지 못했던 북극 바다의 새로운 모습을 보고 돌아왔다”며 “관측하고 채집한 자료를 분석해 기후변화의 영향을 더 구체적으로 살피고 우리나라 기후변화 대응 역량 향상에 기여할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“아침밥도 안 차려줘”…아내 살해한 80대 남편 징역 20년</title>
-      <link>https://www.chosun.com/national/regional/2024/10/11/WW6WTQV3WRH25CPAU6BBLD3V44/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/11/WW6WTQV3WRH25CPAU6BBLD3V44/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Oct 2024 05:13:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YPUNCK4L6FDOFFUCVDLEXODJNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법·고법. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신을 무시한다는 이유로 아내를 흉기로 찔러 살해한 혐의로 재판에 넘겨진 80대 남성에게 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 형사12부(재판장 어재원)는 11일 살인 혐의로 기소된 A씨에게 징역 20년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 7월 15일 오전 대구 북구 한 아파트에서 70대 아내 B씨가 아침밥을 차려주지 않고 자신을 무시한다는 이유 등으로 둔기로 머리를 때리고 흉기로 수차례 찔러 살해한 혐의를 받는다. A씨는 범행 후 “아내를 흉기로 찔렀다’며 112에 신고했고, 출동한 경찰에 붙잡혔다. 경찰 조사에 따르면 A씨는 평소에도 B씨를 수시로 폭행했던 것으로 드러났다.&lt;br&gt;&lt;br&gt;재판부는 “배우자를 살해한 반인륜적 범죄로서 죄질이 나빠 비난 가능성이 높다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;앞서 검찰은 A씨의 범행이 잔혹한 점 등을 고려해 심신미약 여부를 가리기 위한 통합심리분석을 실시했지만, 전반적인 지적 능력은 정상 수준으로 확인됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘님과 함께’ ‘신사동 그 사람’ 히트곡 제조… 작곡가 남국인 별세</title>
@@ -714,15 +775,6 @@
       </media:content>
     </item>
     <item>
-      <title>현역 의원 14명 '공직선거법 위반' 기소…4명은 계속 수사</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/11/ABU7EJUW5ZEA3IO63FCC3UJGVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/11/ABU7EJUW5ZEA3IO63FCC3UJGVY/</guid>
-      <dc:creator>유희곤 기자, 이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Oct 2024 02:55:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BWBB3FRUXBA6VP7AMCIWMBBWTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제22대 국회의원 선거를 이틀 앞둔 지난 4월 8일 지지를 호소하는 더불어민주당 이재명 대표와 국민의힘 한동훈 비대위원장./ 뉴시스 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검찰청은 지난 4‧10 총선에서 공직선거법을 위반한 혐의로 제22대 국회의원 14명을 기소했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;14명 중 국민의힘은 강명구·구자근·장동혁·조지연 의원 등 4명, 더불어민주당은 김문수·신영대·신정훈·안도걸·양문석·이병진·이상식·정동영·정준호·허종식 의원 등 10명이다. 유형별로는 허위사실 유포 및 흑색선전이 6명으로 가장 많았고, 금품선거 혐의는 3명이었다. 경선운동 방법 위반·여론조사 공표 금지·여론조사 거짓 응답·확성장치 사용·호별 방문 혐의가 적용된 당선인이 각각 1명이었다.&lt;br&gt;&lt;br&gt;검찰은 아직 기소 여부를 정하지 않은 국민의힘 김형동·신성범, 더불어민주당 송옥주 의원과 이미 재판에 넘긴 신영대 의원 등 4명은 계속 수사 중이다. 공직선거법의 공소시효는 선거일로부터 6개월로서 지난 10일 끝났지만, 공범이 기소되면 시효가 정지돼 수사를 계속할 수 있다.&lt;br&gt;&lt;br&gt;선거사무장 4명, 회계책임자 5명 등 당선인 관계자 9명도 재판에 넘겨졌다. 이 중에는 의원 본인이 기소된 경우도 있다. 국회의원은 공직선거법 위반 혐의로 본인이 벌금 100만원 이상이 확정되면 의원직을 잃고, 사무장이나 회계책임자 등이 벌금 300만원 이상을 받아도 당선이 무효화된다.&lt;br&gt;&lt;br&gt;조국혁신당은 조국 대표를 비롯해 6명이 입건됐지만 모두 혐의없음 처분을 받았다. 개혁신당과 진보당은 각각 낙선자 4명과 1명이 기소됐다.&lt;br&gt;&lt;br&gt;검찰은 이번 총선 선거사범 총 3101명을 입건해 32.9%인 1019명(구속 13명 포함)을 기소했다. 공범 기소 등으로 시효가 정지됐거나 정치자금법 위반 등 다른 혐의로 수사가 끝나지 않은 피의자는 14명이다.&lt;br&gt;&lt;br&gt;2020년 제21대 총선 입건자는 2874명이었고, 구속 36명 포함 1154명(40.2%)이 재판에 넘겨졌다. 검찰 관계자는 “정당간 경쟁 심화로 선관위 신고나 고소·고발이 늘면서 입건 수는 증가했지만, 2020년 12월 공직선거법이 개정되면서 전화나 말로 하는 선거운동이 상시 허용된 영향 등으로 기소율은 줄었다”고 말했다.&lt;br&gt;&lt;br&gt;‘검수완박’(검찰 수사권 완전 박탈)으로 검찰이 직접 인지한 수사 대상도 4년 전 168명에서 올해 43명으로 급감한 것도 선거사범 감소 요인으로 꼽힌다.&lt;br&gt;&lt;br&gt;대검은 “중요사건은 원칙적으로 수사검사가 직접 공판에 관여하고, 공직선거법이 정한 선거사범 재판기간(1심 6개월, 2·3심 3개월)이 지켜지도록 법원과 긴밀히 협의하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>디지털 기기 붙들고 사는 아이들... 5년 만에 거북목 등 호소 학생 8만명 증가</title>
       <link>https://www.chosun.com/national/education/2024/10/11/T2CNK7JSUZDRVH2CUDHELE5SWQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/11/T2CNK7JSUZDRVH2CUDHELE5SWQ/</guid>
@@ -736,24 +788,6 @@
       </media:content>
     </item>
     <item>
-      <title>뉴진스 하니 “국감 혼자 나가겠다”…하니母·다니엘 “온 마음으로 지지”</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/11/IV7BSUUBYFGQ7LKYXAETVE5UT4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/11/IV7BSUUBYFGQ7LKYXAETVE5UT4/</guid>
-      <dc:creator>김가연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Oct 2024 00:07:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TKG2CGAYTZAWFNSUYD4PR26MNM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 뉴진스 하니, 그가 9일 팬소통앱을 통해 팬들에게 보낸 메시지. /뉴스1, 온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 뉴진스 하니가 홀로 국회 환경노동위원회(이하 환노위) 국정감사에 참석하겠다고 밝힌 가운데, 가족들과 멤버들도 그를 적극 지지하고 나섰다.&lt;br&gt;&lt;br&gt;하니는 10일 팬 소통플랫폼 포닝을 통해 모친으로부터 받은 메시지를 공개했다. 그는 “우리 엄마가 보내주신 메시지! 버니즈(뉴진스 팬덤)와 공유하고 싶다고 하셨는데 방법이 따로 없어서 여기에 올린다”며 장문의 영문 메시지를 공유했다.&lt;br&gt;&lt;br&gt;공개된 바에 따르면, 하니 어머니는 “하니가 홀로 국감에 나가 직장 내 괴롭힘과 따돌림에 대해 증언하기로 한 데 대해, 우리 가족 모두가 온 마음을 다해 지지하고 있다”고 말했다. 이어 “하니가 하이브 내에서 일어난 (따돌림) 사건을 말했을 때 몹시도 화가 났다”며 “이게 하니가 계속해서 겪게 될 일이라고 생각했고, 이런 일이 반복되지 않도록 막아야 했다. 그래서 딸이 목소리를 높일 수 있도록 격려했다”고 했다.&lt;br&gt;&lt;br&gt;그는 “하니가 국회에 참석하는 건 큰 책임이 따르는 일이고, 하니 역시도 이를 가볍게 생각하지 않는다”라며 “하니는 정말 큰 용기를 내 자신을 위해 목소리를 냈다. 우리는 딸을 정말 자랑스럽게 생각한다”고 했다. 그러면서 “하니를 사랑하고 아껴주는 모든 이들이 딸에게 힘을 주고 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;뉴진스 멤버 다니엘도 “우리의 강하고 용기 있고 아름다운 팜팜언니(하니 애칭). 언니는 영원히 나의 전폭적인 지원을 받고 있다. 언니 파이팅”이라는 댓글을 남겼다.&lt;br&gt;&lt;br&gt;앞서 전날 하니는 포닝을 통해 팬들에게 메시지를 보내 국감에 출석하기로 결정했다고 밝혔다. 그는 “걱정 안 해도 된다. 내 스스로와 멤버들, 버니즈를 위해서 나가기로 결정했다”며 “뉴진스, 버니즈 지키겠다”고 말했다.&lt;br&gt;&lt;br&gt;하니는 앞서 지난달 라이브 방송 중 하이브 소속 매니저 등에게 인사했다가 ‘무시해’라는 얘기를 들었다고 주장한 바 있다.&lt;br&gt;&lt;br&gt;하니는 직접 해당 아이돌이나 그들의 소속 레이블명을 언급하지 않았으나, 이후 그룹 아일릿 소속사인 레이블 빌리프랩이 직접 나서 반박 입장을 표명했다. 빌리프랩 측은 “아일릿 의전 담당 구성원(매니저)은 뉴진스 멤버에 대해 ‘무시해’라는 발언을 한 적이 없다. 아일릿 멤버들도 뉴진스 멤버들에게 인사를 하지 않고 지나간 적이 없다”고 했다.&lt;br&gt;&lt;br&gt;이와 관련해 환노위는 지난달 30일 전체회의를 열어 국정감사 증인·참고인 35명을 의결하면서 하니를 아이돌 따돌림, 직장 내 괴롭힘 문제 참고인으로 채택했다. 하니 외에도 민희진 전 대표의 후임으로 어도어 대표를 겸하고 있는 김주영 하이브 최고인사책임자(CHRO)도 아이돌 따돌림 문제 대응 부실 등을 이유로 같은 날 증인으로 채택됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>﻿도로 경계벽 충돌 뒤 테슬라 화재…운전자 뒷좌석서 사망</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/11/ZA4NBDXG6FBVTPZTIWPOXUGVHE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/11/ZA4NBDXG6FBVTPZTIWPOXUGVHE/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Oct 2024 23:17:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TCHTSPP6XVDSDHJEODTLU3BQIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 경기 안성시 대덕면 한 도로에서 테슬라 차량이 도로 경계벽을 들이받은 후 화재가 나 운전자 1명이 사망했다. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 안성시의 한 도로에서 전기차에 화재가 발생해 탑승자 1명이 숨졌다.&lt;br&gt;&lt;br&gt;10일 오후 5시 45분 안성시 대덕면 한 도로에서 테슬라 차량이 단독으로 사고를 낸 후 불이 나 1명이 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;차량이 도로 경계벽을 들이받은 후 화재가 난 것으로 전해졌다. 10여분 만에 불길이 잡혔지만, 차량 내부에서 시신 1구가 수습됐다.&lt;br&gt;&lt;br&gt;목격자에 따르면 테슬라 차량이 활활 탈 정도로 불이 나 일대에 연기가 심하게 났고, 차량 유리창은 전부 깨진 상태였다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 도로 방범카메라(CCTV) 분석 결과 해당 차량에 운전자 1명만 탑승했던 것을 확인했다. 다만 시신은 운전석이 아닌 뒷좌석에서 발견됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “운전자가 차량 앞쪽에서 불이 나자 뒷좌석으로 이동해 문을 열려고 하다가 변을 당한 것으로 보인다”고 했다. 경찰은 차량과 시신이 모두 심하게 불에 타 운전자 행적을 통해 신원을 확인한 후 자세한 사고 원인을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“2000명 근거 있다” “시뮬레이션 해봤나”... 대통령실·의대교수 150분 공방</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/10/10/XB2HAKS5QFCQ5IQGLYP62J5L5I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/10/XB2HAKS5QFCQ5IQGLYP62J5L5I/</guid>
@@ -761,33 +795,6 @@
       <description/>
       <pubDate>Thu, 10 Oct 2024 14:28:24 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W77YE7VQMVGBJGBSLZLZTEBNPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오후 서울대 의대 융합관 박희택홀에서 열린 의료 개혁 토론회 발표자들이 행사 시작 전 손을 맞잡고 있다. 왼쪽부터 정경실 복지부 의료개혁추진단장, 장상윤 대통령실 사회수석, 유미화 녹색소비자연대 대표(진행자), 강희경 서울대 의대 비대위원장, 하은진 서울대 의대 비대위원. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“2000명 의대 증원은 충분한 과학적 근거가···.”&lt;br&gt;&lt;br&gt;“무슨! 시뮬레이션 해봤어요?”&lt;br&gt;&lt;br&gt;10일 오후 2시부터 2시간 30분간 서울대 의대에서 열린 ‘의료 개혁, 어디로 가는가’ 토론회는 시작부터 긴장감이 돌았다. 정부 측에선 의대 증원을 주도하는 대통령실 장상윤 사회수석과 정경실 보건복지부 의료개혁추진단장이 참석했다. 대통령실 인사가 의료계와의 공개 토론에 나선 것은 ‘의정 갈등’이 시작된 지난 2월 이후 8개월 만에 처음이었다. 의료계에선 강희경 서울대 의대 교수협 비대위원장(소아과 교수)과 하은진 비대위원(신경외과 교수)이 참석했다.&lt;br&gt;&lt;br&gt;장 수석이 먼저 ‘의대 2000명 증원의 필요성’에 대해 발표했다. 그는 “부족한 의사 수는 2035년에 1만명이 아니라, (면밀히 따지면) 2배 이상으로 늘어난다”며 “사실상 최소 4000명 이상 증원이 필요하다. 2000명은 필요 최소한의 숫자”라고 했다.&lt;br&gt;&lt;br&gt;그러자 관객석에 서 있던 흰 가운을 입은 중년 의사 한 명이 고함을 질렀다. “어떻게 2000명이야. 어떻게.” 그러자 장 수석은 “발제(발표)할 시간을 보장해 달라”고 말했다. 이어 장 수석이 “(의대 증원 발표 전에도) 의사 단체들과 증원 문제를 37차례 협의를 했고···”라고 하자, 그 남성은 또 말을 자르며 “그거 거짓말이잖아”라고 소리쳤다.&lt;br&gt;&lt;br&gt;이날 토론회는 양측이 직접 공방을 벌이는 게 아니라 각자 입장을 사회자에게 설명하는 방식으로 진행이 됐다. 충돌을 피하기 위해서였다. 하지만 실제 토론회에선 가시 돋친 공방이 오가기도 했다. 장상윤 수석은 “지표상 우리나라 의사 수는 OECD(경제협력개발기구) 중 부동의 꼴찌”라고 했다. 그러자 강희경 교수는 “하루 2시간 공부하고 1등 하는 학생에게 ‘(같은 또래) 평균 공부 시간이 5시간인데 이래서 되겠어’라고 하는 꼴”이라며 “1000명당 2.6명(OECD 통계)의 한국 의사로도 세계 톱 성적을 유지했다”고 말했다.&lt;br&gt;&lt;br&gt;참석한 교수들이 “우리나라 건강보험 재정은 지속적이지 않다”고 하자, 정경실 단장은 “현 정부에서 내년에 2조원의 국가 재정을 보건·의료에 투입하기로 했다. 교수님들 놀라시는 거 보니 모르셨나보다”라고도 했다.&lt;br&gt;&lt;br&gt;최근 논란이 됐던 ‘응급실 대란’ 문제가 나오자 양측 인사 모두 말이 빨라졌다. 장 수석은 “응급실 뺑뺑이는 이번 사태 이전에도 있었던 문제”라며 “수도권도 응급실 의사가 부족하고 지역으로 가면 훨씬 더 부족하다. 이 문제도 의료 개혁의 주요 이유”라고 했다.&lt;br&gt;&lt;br&gt;이에 하은진 교수는 “아까운 돈을 의사 수 늘리는 데 쓰지 말고 (응급실 등 의료) 시스템 개선에 써야 한다”고 했다.&lt;br&gt;&lt;br&gt;행사 막바지에 장 수석은 “오늘 희망의 싹을 봤다”며 “이런 자리라면 정부는 항상 열려 있다”고 했다. 강 교수도 “매주 공개된 자리에서 이런 논의를 하면 좋겠다”고 했다. 하지만 의료계에선 “의대 증원을 둘러싼 정부와 의료계의 기존 이견을 재확인한 정도에 그쳤다”는 지적도 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 中 엿볼라… 경찰서 보안카메라 다 바꾼다</title>
-      <link>https://www.chosun.com/national/2024/10/11/MB2MFZGOCFD2XHVQOBQ6KSGKMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/10/11/MB2MFZGOCFD2XHVQOBQ6KSGKMY/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Oct 2024 20:06:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5OLTVUNBRBEGDJXRSZ2OIPINL4.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청이 전국 경찰 관서에 있는 중국산 등 해킹 위협에 취약한 보안 카메라 667대를 교체한다는 방침을 세운 것으로 10일 알려졌다. 중국산 보안 카메라가 산업 스파이를 검거하는 산업기술안보수사대 등 경찰 내 각종 중요 시설에 설치된 사실을 뒤늦게 파악했기 때문이다. 이런 중국산 보안 카메라는 최근 3년간 전국 지자체와 공공기관에 1만5000개가량이 설치됐던 것으로도 나타났다.&lt;br&gt;&lt;br&gt;경찰청이 더불어민주당 박정현 의원실에 제출한 자료를 보면, 경찰청을 비롯해 시·도 경찰청 18곳, 중앙경찰학교에 중국산 보안 카메라 760대가 설치돼 있다. 경기남부청(177대)엔 중국산 보안 카메라가 가장 많은데, 산업 스파이를 잡는 산업기술안보수사대 사무실에도 중국산 보안 카메라를 운용 중이다. 광주(光州) 경찰청에서 간첩·이적 사범을 수사하는 안보수사대에도 중국산 보안 카메라가 있다.&lt;br&gt;&lt;br&gt;경찰이 운용하는 중국산 보안 카메라 중엔 중국 항저우에 본사를 둔 다후아(大華)사의 제품이 590대로 가장 많은 것으로 알려졌다. 이 회사는 중국 정부가 지분을 보유하고 있다. 국민의힘 박충권 의원실 자료를 보면, 최근 3년간 다후아가 제작한 보안 카메라는 경찰뿐 아니라 한국토지주택공사(4095대), 항만공사(358대), 한국도로공사(348대)를 비롯해 지자체 79곳에 총 1만4495대가 설치됐었다. 일부 기관은 이런 사실을 뒤늦게 인지하고 교체 작업에 착수한 상황이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “중국이 해킹·백도어 등 수법으로 자국산 보안 카메라를 통해 국내 기밀을 엿볼 가능성을 배제할 수 없으니 예방적 차원에서 전량 교체를 추진하는 것”이라고 했다. 실제 최근 중국산 IP카메라를 통해 내밀한 사생활 영상이 중국에 대량 유출된 사실이 나타나기도 했다. 이날 국회 과학기술정보통신위원회 국정감사에서도 “중국이 카메라뿐 아니라 와이파이 공유기 등 장비를 해킹해 국가 기밀 등을 조직적으로 탈취할 수 있다”는 우려가 제기됐다.&lt;br&gt;&lt;br&gt;경찰이 운용하는 보안 카메라 대부분이 중국산인 이유는 ‘중소기업 제품 구매 촉진 및 판로 지원법’ 때문이다. 중소기업 진흥을 꾀한다는 취지지만 기술력과 자금력이 딸리는 중소기업들은 값싼 중국산을 ‘상표 갈이’해 국산으로 둔갑시키는 경우가 허다하다. 그럼에도 해당 법률 때문에 경찰청 등 공공기관은 중소기업 간 공개 입찰로 중국산 납품을 사실상 강제받는 형편이다.&lt;br&gt;&lt;br&gt;실제로 조달청 공고를 보면 보안 카메라 제품은 2만999개가 있는데, 한국정보통신기술협회의 보안 인증을 받은 제품은 736개(3.5%)에 불과하다. 중국산 보안 카메라 대부분은 100만원 안팎으로, 협회 인증을 받은 보안 카메라 가격의 절반 수준이다&lt;br&gt;&lt;br&gt;중국은 2017년 반체제 인사들에 대한 정보기관들의 도청·감시 및 조사 권한을 대폭 강화하는 내용의 국가정보법을 전격 시행했다. 서방에선 중국 기업이 자국 장비에 정보를 몰래 빼낼 장치를 설치해 놓았다가 추후 이를 활성화할 수 있다는 가능성을 제기해 왔다. 주요국들은 정보 보안을 이유로 중국산 영상 보안 장비에 대한 통제를 강화하고 있다.&lt;br&gt;&lt;br&gt;미국 바이든 정부는 2022년 중국산 영상 보안 장비 수입을 전면 금지시켰다. 영국·호주 등도 주요 국가 시설에서 중국산 영상 장비를 철거하는 조치를 취했다. 우리나라에서도 군부대에 설치된 방범 카메라(보안 카메라) 1300여 대가 중국산인 걸 확인하고, 순차적으로 철거키로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 최중증 환자도 거부한 응급실 논란</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/10/11/S3JFHNFSKFGBXGR6DKMUSEZGIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/11/S3JFHNFSKFGBXGR6DKMUSEZGIE/</guid>
-      <dc:creator>조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Oct 2024 20:03:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQBACOEPK5QXRXP2CZOSNPE5LI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;분당 차병원 권역응급의료센터&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도의 대표적인 대형 병원인 분당차병원 응급실이 최근 의식을 잃고 몸을 떠는 최중증 환자를 수용하지 않은 것으로 10일 알려졌다. 의료계 내에서도 “납득하기 어렵다”는 말이 나온다. 분당차병원 응급실은 인력과 시설이 가장 잘 갖춰진 최고 등급(권역응급의료센터) 응급실이다.&lt;br&gt;&lt;br&gt;의료계에 따르면, 여성 A(69)씨는 9일 오후 5시 30분쯤 119 구급차에 실려 경기도 성남시의 분당차병원 응급실에 도착했다. A씨는 당시 의식이 없었고, 경련 증세를 보였다고 한다. 응급의학과 의사들은 본지에 “의식이 없고 경련까지 있다면 KTAS(한국형 중증도 분류)상 최고 등급인 1~2등급 환자”라고 했다. 즉시 처치·치료를 하지 않으면 목숨을 잃을 수 있는 최중증 응급 환자였다는 뜻이다.&lt;br&gt;&lt;br&gt;그런데 분당차병원은 “진료할 의사가 없다”며 A씨 수용을 거부했다고 한다. 이에 현장의 119 대원들은 다른 병원 응급실에 전화를 했다. 다른 병원의 응급실 의사는 119에 “급한 환자다. 일단 분당차병원 응급실에 들어가라”고 했다.&lt;br&gt;&lt;br&gt;119 대원들이 재차 부탁하자 분당차병원 응급실은 A씨에게 항경련제 주사를 2회 투입했다. 그 외 다른 검사는 하지 않고 ‘수용 불가’ 입장을 밝혔다고 한다. 한 응급의학과 교수는 “뇌졸중이 아닌지 머리 CT(컴퓨터단층촬영) 검사라도 했어야 했다”고 했다. 수술할 의사가 없다고 해도 이런 응급 조치 후에 광역 응급의료 상황실을 통해 전원(병원 옮김) 의뢰를 하는 게 순서라는 얘기다.&lt;br&gt;&lt;br&gt;분당차병원 측은 “A씨는 뇌전증이 의심돼 전문의가 있는 다른 병원으로 빨리 보내는 게 더 낫다고 의료진이 판단했다”고 했다. A씨는 결국 인근 용인세브란스병원으로 이송됐고, 뇌전증이 아닌 급성신부전 진단을 받고 중환자실에 입원했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국감 나가는 뉴진스 하니… 의원들 ‘팬들이 지켜본다’ 초긴장</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/11/VQZFANXMIRBBHMOMOW2Z4CCKD4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/11/VQZFANXMIRBBHMOMOW2Z4CCKD4/</guid>
-      <dc:creator>윤수정 기자, 김태준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Oct 2024 20:02:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FV4FYRNM2FHQTBQTN4SKFHD7EY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오는 15일 열리는 국회 환경노동위원회 국정감사에 참석 의사를 밝힌 걸그룹 뉴진스 멤버 하니. 현직 아이돌이 국감장에 등장하는 건 처음이다.(왼쪽) 하니는 지난 9일 밤 팬과의 소통 플랫폼 ‘포닝’에서 국정감사에 출석한다고 적었다. /송정헌 스포츠조선 기자·포닝&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;걸그룹 뉴진스 멤버 하니(20)가 15일 국회 환경노동위원회 국정감사에 참고인으로 출석한다. 현직 아이돌 그룹 멤버가 국감에 나오는 첫 사례다.&lt;br&gt;&lt;br&gt;하니는 9일 밤 뉴진스의 팬 전용 플랫폼인 ‘포닝’에 “나 결정했어! 국회에 나갈 거야! 국정검사! 혼자 나갈 거예요”라고 올렸다. 베트남계 호주 국적자인 하니는 한국어가 서툰 탓에 ‘감사’를 ‘검사’로 표현한 것으로 보인다. 하니는 “걱정 안 해도 된다. 스스로랑 멤버들을 위해서, 그리고 버니즈(뉴진스 팬덤명)를 위해서 나가기로 정했다”면서 “아직 매니저들이나 회사는 모른다. 많은 생각을 해봤지만 나가는 게 맞다. 잘하고 오겠다”고 했다. 이어 “이 경험을 통해서 어떻게 될지 잘 모르겠지만 일단은 배움이 많은 경험일 거라고 생각한다”며 “뉴진스, 버니즈를 지키겠다”고 강조했다.&lt;br&gt;&lt;br&gt;하니는 국감에서 ‘아이돌 따돌림과 직장 내 괴롭힘’ 문제에 대해 진술할 전망이다. 하니는 그동안 소속사인 어도어의 모회사인 하이브 계열 레이블 내에서 따돌림을 당했다고 주장해 왔다. 이에 지난달 30일 안호영 국회 환노위원장(더불어민주당)은 “고용노동부 등에 대한 국감에서 아이돌 따돌림과 직장 내 괴롭힘 문제를 질의하겠다”며 하니를 ‘참고인’ 명단에 포함시켰다. 뉴진스 소속사 어도어 대표인 김주영 하이브 최고인사책임자는 ‘증인’으로 불렀다. 안 의원은 “지역구 사무실 등에 뉴진스 직장 내 괴롭힘 사실 확인 요청이 쇄도하고 있다”며 “이를 확인할 필요가 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;하니의 국감 출석은 22대 국회 첫 국감의 최대 하이라이트가 될 전망이다. 하니의 국감 출석 배경에는 지난달 11일 뉴진스 멤버들이 하이브와 분쟁을 겪고 있는 민희진 전(前) 어도어 대표를 지지하기 위해 올린 영상이 발단이 됐다. 이 영상에서 하니는 “하이브 사옥 복도에서 마주친 다른 계열사 그룹 매니저에게 ‘무시해’라고 들었고, 문제를 제기했지만 제대로 된 조치를 받지 못했다”고 주장했다. 해당 계열사와 그룹으로 지목된 빌리프랩과 걸그룹 아일릿 측은 “아일릿 의전 담당 구성원(매니저)은 ‘무시해’라는 발언을 한 적이 없다”며 부인했다. 하지만 뉴진스 팬들은 최근 문체위, 환노위 등 엔터사와 관계된 국감 현안을 다루는 위원회 소속 여야 의원실에 ‘하니가 겪은 직장 내 괴롭힘을 조사해달라’ ‘하이브의 부정행위를 다뤄달라’와 같은 집단 민원을 메일, 문자, 팩스, 전화 등으로 전달하는 이른바 ‘총공(총공격)’을 펼쳐왔다.&lt;br&gt;&lt;br&gt;환노위 소속 의원들은 예상치 못했다는 반응을 보이고 있다. 안 의원 측은 “증인이 아니라 참고인이기 때문에 국감장에 나올지는 하니의 선택에 달렸다”며 “우리도 하니가 실제로 출석할지 여부는 확신하지 못했다”고 말했다. 국민의힘 소속인 한 환노위원은 “하니가 막상 나온다고 하니 부담스럽다. 열광적 팬클럽이 있으니 신중하게 접근해야 할 것 같다”고 했다. 한 민주당 의원은 “10일 국감도 시작한 지 40분 만에 파행됐는데, 하니를 불러 놓고 또 파행되는 거 아닌가 우려가 된다”고 했다. 이날 환노위는 “일제시대 선조들의 국적은 일본이다”라고 발언한 김문수 고용노동부 장관에 대해 민주당 의원들이 사과를 요구하고, 김 장관이 거부하면서 40분 만에 파행됐다.&lt;br&gt;&lt;br&gt;직장 내 괴롭힘 문제를 조명한다며 아이돌 그룹 멤버를 참고인으로 부른 것이 과연 적절하냐는 지적도 나온다. 전형적인 ‘국감 띄우기용’ 소환 사례가 아니냐는 것이다. 실제로 빌리프랩과 뉴진스 양측의 입장을 뒷받침할 사내 폐쇄회로TV 영상은 현재 뉴진스에 아일릿 멤버들이 90도로 인사하는 장면만이 남아 있고, 애초에 녹음이 되지 않아 발언을 확인하기 어려운 상태로 알려졌다. 환노위 관계자는 “뉴진스 사례가 직장 내 괴롭힘 문제가 맞는지부터 의문이고, 이를 국감장에서 다루는 것이 적절한지도 모르겠다”며 “이보다 심각한 직장 내 괴롭힘 사례가 많은데, 국감이 다소 희화화될 수 있어 우려된다”고 했다.&lt;br&gt;&lt;br&gt;가요계에선 “현직 아이돌이 국감장에 나가는 초유의 사태인 만큼 그룹의 향후 행보에도 영향을 미칠 수밖에 없을 것”이란 우려가 나온다. 한 유명 가요 기획사 관계자는 “하니의 경우 피해자의 입장을 자처하며 나선 것이지만, 이미지가 중요한 아이돌의 특성상 분쟁의 중심에 서 있는 것 자체가 부담스러울 것”이라며 “향후 계속 활동을 해 나가야 할 뉴진스의 이미지에 얼마나 긍정적인 작용을 할지 의문스럽다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>자율주행 유모차·근력 보조 로봇… 삶을 편하게 만드는 기술 한자리에</title>
