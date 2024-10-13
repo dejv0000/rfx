@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울시 공공병원 의사·간호사 11% “최근 1년간 성희롱·성폭력 경험”</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/13/PHU6RNMJLBGXDARVCDRGXWKSPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/13/PHU6RNMJLBGXDARVCDRGXWKSPI/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 13 Oct 2024 08:20:20 +0000</pubDate>
+      <content:encoded>서울시 공공병원에서 일하는 의사·간호사 10명 중 1명 정도가 지난 1년간 병원 내에서 성희롱이나 성폭력을 당한 것으로 나타났다. 가해자의 76.5%는 환자였고, 피해자의 64.7%는 성희롱·성폭력 피해를 참고 넘어간 것으로 나타났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4REYF7K4SBDSVAPGCRGORNFNYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시의회는 지난 7월 서울시 산하 의료기관에서 일하는 의사와 간호사 300명을 대상으로 ‘의료인 성인지감수성 여론조사’를 진행한 결과 이 같이 나타났다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;조사 결과 응답자의 11.3%인 34명이 “최근 1년간 병원 내에서 성희롱·성폭력 피해 경험이 있다”고 응답했다. 성별로는 남성은 7.1%, 여성은 12%가 성희롱·성폭력 피해를 입었다고 답했다.&lt;br&gt;&lt;br&gt;‘가해자가 누구였는지 모두 골라보라’는 질문에 환자를 고른 응답자가 76.5%로 가장 많았다. 상급자(20.6%)와 환자의 보호자(17.6%)가 그 뒤를 이었다.&lt;br&gt;&lt;br&gt;‘성희롱과 성폭력 피해에 어떻게 대처했는지 모두 골라보라’는 질문엔 ‘참고 넘어갔다’고 답한 응답자가 64.7%로 가장 많았다. 동료나 친구, 가족과 상의했다는 응답자가 26.5%, 가해자에게 문제를 제기하고 사과를 요구했다는 응답자가 23.5%로 뒤를 이었다.&lt;br&gt;&lt;br&gt;반면 여성가족부나 국가인권위원회 등 관련기관이나 경찰·검찰에 신고했다는 응답자는 없었다. 병원 내 상담 창구 등에 신고했다는 응답자도 2.9%에 그쳤다.&lt;br&gt;&lt;br&gt;‘관련 기관이나 경찰·검찰에 신고하지 않은 이유를 모두 고르라’는 질문엔 ‘신고하더라도 병원이나 기관에서 아무런 조치도 취할 것 같지 않아서’라고 답한 응답자가 42.4%로 가장 많았다.&lt;br&gt;&lt;br&gt;또 전체 응답자의 32.3%는 ‘직장 내 성희롱·성폭력 사건을 신고할 수 있는 병원 내 절차에 대해 잘 모른다’고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘MZ조폭’ 전성시대...경기남부 조폭 검거 대다수 ‘20~30대’</title>
       <link>https://www.chosun.com/national/incident/2024/10/13/PTXASTPCT5DP5KSSQ6XFGKXNXM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/13/PTXASTPCT5DP5KSSQ6XFGKXNXM/</guid>
@@ -916,15 +925,6 @@
       <description/>
       <pubDate>Fri, 11 Oct 2024 05:59:35 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QLW33EHLAZD7HCXSVOP3G3ZQB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북위 77도에서 심해카메라로 관찰한 오징어(왼쪽)와 넷트로 채집한 오징어 유생. /극지연구소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 유일 쇄빙연구선 아라온호가 북극해에서 해빙(海氷) 감소와 오징어의 출현 등 지구온난화 영향을 확인했다.&lt;br&gt;&lt;br&gt;극지연구소는 아라온호가 78일간의 북극 연구 항해를 종료하고 지난달 30일 광양항에 도착했다고 11일 밝혔다. 아라온호는 이번 항해 도중 북위 77도 지점에서 오징어 유생(완전한 성체로 자라기 전의 상태)을 처음 채집한 것으로 전해졌다. 북극해 고위도 지역에서 오징어의 서식 가능성을 확인한 것이다. 작년 여러 마리 대게를 잡은 데 이은 이번 성과는 북극해 밖에 살던 해양생물들이 점차 북극으로 유입되고 있음을 의미한다고 연구소는 설명했다.&lt;br&gt;&lt;br&gt;또 아라온호는 북위 74도에서 가로 350m·세로 110m 크기의 대형 빙산과 만나기도 했다. 캐나다나 그린란드 빙하에서 떨어져 나와 북극해를 떠돌던 빙산으로 추정되는데, 태평양 쪽 북극해에서는 보기 드문 규모다. 연구소는 “빙산이 녹으면서 주변 해수의 염분을 떨어뜨려 북극해 생태계에 영향을 미칠 수 있다”고 우려했다.&lt;br&gt;&lt;br&gt;올해 해빙 분포도 평년 대비 크게 줄어든 것으로 파악됐다. 아라온호는 북극 항해마다 관측장비를 설치하고 이듬해 회수한다. 이전까지는 해빙이 배의 접근을 막거나 장비를 손상시켜 실패하는 일이 잦았지만, 올해는 장비를 온전히 회수했다. 연구소는 “대형 빙산의 등장과 해빙의 감소, 비북극권 해양생물의 출현 배경에는 지구온난화가 있을 것으로 추정된다”고 했다.&lt;br&gt;&lt;br&gt;아라온호는 약 한 달간의 정비를 마치고 이달 말 남극으로 떠난다. 신형철 극지연구소장은 “아라온호는 2009년 첫 북극행 이후 14번의 항해에서 보지 못했던 북극 바다의 새로운 모습을 보고 돌아왔다”며 “관측하고 채집한 자료를 분석해 기후변화의 영향을 더 구체적으로 살피고 우리나라 기후변화 대응 역량 향상에 기여할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘님과 함께’ ‘신사동 그 사람’ 히트곡 제조… 작곡가 남국인 별세</title>
-      <link>https://www.chosun.com/national/people/2024/10/11/FZSMSITIRVCR5KY7NC5XSPK3JU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/11/FZSMSITIRVCR5KY7NC5XSPK3JU/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Oct 2024 05:19:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRG2YUAJSFDKPPRPTYRYTXCS6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작곡가 남국인./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘님과 함께’ ‘신사동 그사람’ 등 수많은 히트곡을 남긴 작곡가 남국인(82·남정일)이 별세했다.&lt;br&gt;&lt;br&gt;고인은 지난 10일 오후 7시 47분쯤 노환으로 눈을 감았다고 유족은 전했다.&lt;br&gt;&lt;br&gt;고인은 1942년생으로 부산 배정중, 배정고를 졸업했다. 작곡가 백영호에게 발탁돼 ‘녹슬은 기타’라는 노래를 발표하며 가수로 나섰다. 가수 남강수와 듀엣 ‘남형제’로 활동하기도 했다. 군대에 다녀온 뒤 작곡가의 길로 들어섰다. 작곡가로서 발표한 첫 곡은 배호의 ‘누가 먼저 말했나’다.&lt;br&gt;&lt;br&gt;고인은 2020년 작고한 작사가 아내 정은이와 호흡을 맞추며 수많은 히트곡을 남겼다. 고인의 대표곡으로는 남진 ‘님과 함께’, 주현미 ‘비 내리는 영동교’, ‘신사동 그 사람’, 나훈아 ‘사랑은 눈물의 씨앗’, 전영록 ‘사랑은 연필로 쓰세요’, 김승진 ‘스잔’, 설운도 ‘잃어버린 30년’, 김상진 ‘고향이 좋아’ 등이 있다.&lt;br&gt;&lt;br&gt;예술사에 미친 영향을 인정 받아 2000년 문화관광부장관 표창을 받았다.&lt;br&gt;&lt;br&gt;빈소 은평성모병원 장례식장 7호실, 발인 13일 오전 7시, 장지 경기 광주 시안가족추모공원이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>5·18기념재단 “노태우 일가 비자금 수사 촉구” 고발장 낸다</title>
