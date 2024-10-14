@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘제시 팬 폭행’ 피해자 “일행 프로듀서, 갱단 같았다” 주장</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/15/JAD4JYC43RFJPCT5WHB35ACEMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/15/JAD4JYC43RFJPCT5WHB35ACEMQ/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 14 Oct 2024 22:57:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CSK2MLN2YJFXFFJIZVG4M6BEVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 제시(흰색 상의) 일행이 사진을 요청한 팬을 무차별 폭행하고 있다. /뉴스1·JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘가수 제시 팬 폭행’ 사건의 피해자가 “제시 일행이었던 프로듀서가 한인 갱단일 수 있다”는 의혹을 제기했다. 이 프로듀서는 래퍼를 겸업하는 ‘코알라’로, 제시의 ‘눈누난나’, ‘어떤X’ 등 앨범 제작에 참여한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;제시에게 사진 촬영을 요청했다가 제시 일행에게 폭행당한 피해자 측이 14일 JTBC ‘사건반장’을 통해 제시의 사과문에 대한 입장을 전했다.&lt;br&gt;&lt;br&gt;피해자의 어머니는 “사과문을 봤는데 자기변명만 하고 ‘일행이 아니다, 갑자기 나타났다’ 이건 말이 안 된다. 왜냐면 저희 아이가 봤을 때 (그들이) 같이 있었다더라”고 했다. 이어 “걔(가해자)를 보자마자 일어나서 잡으려고 했는데 놓치더라. 그다음에 때리는데 가만히 보고 있더라. (그래놓고) ‘모른다. 갑자기 나타나서 때렸다’ 이러니까 화가 났다. 아는 사람이 아니고서야 저런 행동을 취하겠나”라고 했다.&lt;br&gt;&lt;br&gt;피해자 A군도 “사과문에 ‘도의적인 책임’이라고 쓴 것부터 제시가 직접 쓴 것 같지 않다”며 “그래서 진정성이 느껴지지 않았다”라고 했다.&lt;br&gt;&lt;br&gt;사건반장은 한 제보자를 인용해 “코알라의 오른팔에는 ‘K’가 왼팔에는 ‘OS’가 크게 새겨져 있는데, 이는 LA 한인 갱단 중 하나인 ‘Korean Outlaws’의 약자”라고 전했다.&lt;br&gt;&lt;br&gt;A군은 “사건 당시 코알라의 행동이 갱단 같았다”며 “마치 갱단의 제스처와 비슷했고, 주변에 있던 친구들이 폭행 당시 ‘갱’이라는 말을 들었다”고 주장했다.&lt;br&gt;&lt;br&gt;다만 이와 관련해서 코알라 측은 입장을 밝히지 않았다고 사건반장은 전했다. 제시 소속사 측은 “코알라는 제시와 몇 번 음악 작업을 같이 했다”며 “제시는 갱단과 연관이 없고 코알라가 갱단이라는 것에 대해선 전혀 아는 바가 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>﻿“영주권만 받고 ‘먹튀’” 제주도에 쏠린 중국 투자이민</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/15/IA7NA7W6RFCO3K24JC5SVGKZ2M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/15/IA7NA7W6RFCO3K24JC5SVGKZ2M/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 14 Oct 2024 22:05:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4AVQGZYWMNEO7GG2TNJTEYMT3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8월 오후 5시쯤 방문한 제주시의 한 약국 앞(왼쪽사진). 간판도 중국어로 되어 있고, 고객 대다수가 중국인이었다. 중국어로 제작된 제주시의 한 베이커리 메뉴판의 모습(오른쪽 사진). /김병권 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 5년간 국내에 투자이민을 온 외국인 10명 중 8명은 ‘제주도에 투자한 중국인’으로 나타났다. 투자이민제는 법무부 장관이 고시한 지역의 관광‧휴양시설에 기준금액 이상 투자한 외국인의 국내 체류를 허가하는 제도다.&lt;br&gt;&lt;br&gt;15일 법무부가 전현희 더불어민주당 의원실에 제공한 자료에 따르면 2019~2023년 투자이민자 116명 가운데 중국 국적자는 104명으로 전체의 89.7%를 차지했다. 이 가운데 제주도에 투자이민을 온 중국인은 92명(79.3%)이었다.&lt;br&gt;&lt;br&gt;투자 금액 기준으로는 제주도가 총 795억1000만원을 유치해 투자이민제를 통한 국내 총투자액(910억7000만원)의 87.3%가 집중됐다.&lt;br&gt;&lt;br&gt;투자이민이 가능한 다른 지역인 부산 동부산 관광단지, 강원 평창 알펜시아와 강릉 정동진지구, 전남 여수 경도 해양관광단지와 화양지구는 지난 5년간 투자이민 유치가 없었다.&lt;br&gt;&lt;br&gt;이 기간 투자이민자 116명과 배우자, 미성년 자녀까지 총 340명이 자유로운 거주 자격(F-2)을 받았다. 1476명은 5년 이상 투자를 유지해 영주 비자(F-5)를 새로 받았다. 투자 금액 기준은 기존 5억원에서 작년 10억원으로 상향됐다.&lt;br&gt;&lt;br&gt;정부는 외국 자본의 국내 투자를 촉진하고 지역 경제 활성화로 연계하기 위해 2010년 제주도에 이 제도를 처음 도입했다. 제주 부동산 투자이민제도는 성과를 거뒀으나 부동산 가격 과열, 중국인 소유 토지 잠식, 숙박시설 과잉 공급, 환경훼손 등의 문제도 제기됐다.&lt;br&gt;&lt;br&gt;전 의원은 “투자이민제 시행 목적이 우량한 외국인을 유치해 지역 균형발전을 도모하는 것인 만큼 투자국 다변화와 투자 지역 분산이 필요하다”며 “영주권만 받고 투자금을 회수하는 ‘먹튀’ 사례도 발생하고 있어 법무부에 제도 개선을 요구하겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 제주도는 “제주도가 중국인들의 섬으로 변하고 있다”는 대만 언론 보도에 대해 이례적으로 해명했다. 지난 6월 대만 매체는 ‘제주도, 중국 섬 되나? 뒤치다꺼리하느라 바쁜 한국 정부’ 제목의 기사에서 “중국인 관광객이 제주도의 관광산업과 부동산 경기를 부양한 것은 사실이지만, 동시에 중국인들이 한몫 챙기기 위해 제주도의 땅을 사들이기 시작하면서 ‘제주도가 중국의 섬으로 변하고 있다’는 이야기가 나왔다”고 했다.&lt;br&gt;&lt;br&gt;이에 제주도 측은 “제주도의 전체 면적 1850㎢ 중 중국 국적의 외국인이 소유한 땅은 0.5%에 불과하다”며 “이를 두고 ‘중국 섬이 됐다’는 것은 지나치게 과장된 표현”이라고 반박했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>연대 “휴대폰 불가능” 해명했지만… 문제지 인증샷 등장</title>
       <link>https://www.chosun.com/national/national_general/2024/10/15/YN3EH3GMNVAPREAHF5N5DOEZWM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/15/YN3EH3GMNVAPREAHF5N5DOEZWM/</guid>
@@ -855,15 +873,6 @@
       </media:content>
     </item>
     <item>
-      <title>[단독] ‘단순 두통 MRI’ 건보 축소 후에도 年 50만건</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/10/14/NB4ICVNAZFDXHKC5E6C6KO5F6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/14/NB4ICVNAZFDXHKC5E6C6KO5F6I/</guid>
-      <dc:creator>조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 13 Oct 2024 20:03:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/72DNXADP2ZBTNKIR2G4ZNGMHSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;MRI(자기공명영상) 촬영. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고가의 뇌·뇌혈관 MRI(자기공명영상)에 대한 건강보험이 확대된 이듬해인 2019년 두통·어지럼증으로 인한 MRI 촬영 건수가 2017년의 13배로 급증한 것으로 나타났다. 이 중 절반가량은 MRI 검사가 필요 없는 ‘단순 두통·어지럼증’이었다. 또 건보 확대 후, 질환 1개를 찾아내는 데 투입된 MRI 촬영 건수도 4배 이상 늘어났다.&lt;br&gt;&lt;br&gt;서명옥 국민의힘 의원이 13일 건강보험공단에서 받은 ‘뇌·뇌혈관 MRI 보장성 강화 효과’ 자료에 따르면, 뇌 MRI 검사에 대한 건강보험 적용이 대폭 확대된 시점(2018년 10월) 직후인 2019년, 두통과 어지럼으로 뇌 MRI를 촬영한 건수는 60만9449건이었다. 뇌경색 등 중증 뇌 질환으로 진단받은 환자에게만 건강보험을 적용해 주던 2017년의 MRI 검사 건수(4만3928건)보다 13배 많은 수치다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SSTFKOLQNBEXDAWTANDBPN3NB4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건보공단은 이렇게 늘어난 2019년의 뇌 MRI 검사 중 45%(27만6944건)에 대해 “건강상 이득이 없고, 오히려 부작용이나 비용 소모를 초래하는 비효율적 검사(low value care)”로 규정했다.&lt;br&gt;&lt;br&gt;결국 2020년 4월, 암이나 ‘벼락 두통’ 등 7가지 증상이 있어야 MRI 건보 혜택을 주도록 요건이 강화됐다. 이후 2021·2022년 두통·어지럼증 MRI 촬영 건수는 각각 51만7784건, 51만6499건이었다. 서명옥 의원은 “2019년보다는 감소했지만, 한번 혜택이 늘어난 MRI 촬영 건수는 잘 떨어지지 않고 있다”고 했다. 이 시기 불필요한 MRI 비율은 2021년 34.6%(17만여건 ), 2022년 36.8%(19만여 건)에 달했다고 공단은 밝혔다.&lt;br&gt;&lt;br&gt;뇌 MRI 촬영이 증가하자, 질환을 추가로 발견하는 효과도 2019년 기준 26%가량 높아졌다고 공단은 추정했다. 하지만 건보공단은 “뇌 MRI가 추가적 질환 발견보다는 불필요한 촬영에 더 많이 사용됐다”며 “건보 재정 투입의 효율성이 감소한 것으로 볼 수 있다”고 했다.&lt;br&gt;&lt;br&gt;건보공단은 ‘MRI 비효율’의 사례로 신규 질환 진단 1건당 MRI 투입량도 구체적으로 제시했다. 뇌 MRI 건보 확대 전인 2016년과 2017년, 신규 질환 1개를 찾아내는 데 투입된 MRI 촬영 건수는 연평균 각각 2.85건, 2.76건이었다. 그런데 건보 확대 이후인 2019년엔 촬영 건수가 4배 이상인 12.1건으로 급증했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘반도체 생명수’ 초순수 국산화 3년 만에 결실...내년 첫 사용</title>
       <link>https://www.chosun.com/national/transport-environment/2024/10/14/74GBEOKF75HUFP2JKSULJ6PPRA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/10/14/74GBEOKF75HUFP2JKSULJ6PPRA/</guid>
@@ -871,15 +880,6 @@
       <description/>
       <pubDate>Sun, 13 Oct 2024 18:00:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VVYZFMYQGJDRPCTEDGQV5KN7GY.png"&gt;&lt;figcaption&gt;&lt;small&gt;경북 구미 SK실트론 2공장에 마련된 ‘초순수 실증 플랜트’에서 작업자가 장비를 확인하고 있다. /한국수자원공사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘반도체 생명수’로 불리는 초순수(ultra pure water)가 국산화에 성공해 이르면 내년 상반기에 국내 반도체 공장에서 처음 사용된다. 우리나라가 웨이퍼(반도체 원판)를 처음 생산한 1983년 이후 41년간 일본에서 수입해오던 초순수가 처음으로 순수 국내 기술로 대체되는 것이다.&lt;br&gt;&lt;br&gt;13일 한국수자원공사(수공)에 따르면, 국산 초순수가 SK하이닉스 이천 공장에서 웨이퍼 생산 공정에 투입된다. 환경부가 2021년 6월 ‘초순수 국산화’를 정부 과제로 선정하고 국내 기업들과 경북 구미의 SK실트론 2공장에 ‘초순수 실증 플랜트’를 만들어 국산화에 나선 지 3년 만에 이룬 성과다. 초순수는 물을 구성하는 수소·산소만 남기고 무기질과 박테리아 등을 전부 제거한 물로 반도체 웨이퍼의 불순물을 씻어내는 데 쓰인다.&lt;br&gt;&lt;br&gt;초순수는 반도체 공정에 반드시 필요하지만 그동안 일본에 수입을 의존해왔다. 일본은 1980년대부터 통상산업성(현 경제산업성) 주도로 구리타·노무라 같은 초순수 생산 기업을 지원하면서 세계 시장을 장악했다. 인공지능(AI) 산업 발달에 따라 고사양 반도체 생산이 늘어난 최근에는 웨이퍼 1장을 만드는 데 초순수 7t가량이 필요한 것으로 알려졌다. 미국도 초순수 기술을 ‘주권 기술(soverign tech)’로 다루면서 투자하고 있다.&lt;br&gt;&lt;br&gt;우리나라는 2025년까지 초순수 관련 설계·운영 기술은 100%, 핵심 장비는 70%가량 국산화 달성을 목표로 하고 있다. 수공은 반도체 생산 공정에서 사용된 오염된 용수를 정수해 재사용하는 방안도 추진 중이다. 수공과 SK하이닉스는 2025년부터 용인 반도체 클러스터 등 국내 반도체 공장에 이런 물 공급 시스템이 구축될 수 있도록 지난 11일 업무협약을 맺었다. 이렇게 되면 물 재활용이 가능해져 하천에서 끌어오는 물 공급량 부담을 줄일 수 있게 된다.&lt;br&gt;&lt;br&gt;윤석대 수공 사장은 “초순수 국산화 등 물을 활용한 원천기술이 글로벌 시장을 선도할 수 있도록 지속적인 기술 발전과 반도체 산업 발전을 위한 안정적인 용수공급에 최선을 다할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조전혁의 러브콜, 윤호상이 거절… 진보는 정근식으로 최종 단일화</title>
-      <link>https://www.chosun.com/national/education/2024/10/14/MVPEKAQGW5CVJEIAHX6KVFDLLQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/14/MVPEKAQGW5CVJEIAHX6KVFDLLQ/</guid>
-      <dc:creator>김경은 기자, 오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 13 Oct 2024 16:33:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DXXALDHNDZASLIX5PNZ66SWDAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시교육감에 출마한 조전혁(왼쪽) 후보와 정근식(오른쪽) 후보가 13일 용산구 효창운동장에서 열린 재경 완도군 향우회 행사에서 주먹을 쥐어 보이고 있다. /연합뉴스·뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 16일 열리는 서울시교육감 보궐선거를 나흘 앞두고 진보 진영 후보가 정근식 후보로 최종 단일화됐다. 이에 보수 진영의 조전혁 후보는 보수 성향의 윤호상 후보에게 단일화를 제안했지만, 윤 후보는 거절 의사를 밝혔다.&lt;br&gt;&lt;br&gt;서울시교육의원 출신의 진보 성향 최보선 후보는 하반기 재·보궐선거 사전 투표 이틀째인 지난 12일 오전 서울시교육청 앞에서 기자회견을 열고 “정근식 후보가 서울 교육을 책임질 적임자”라며 후보에서 사퇴했다. 이에 따라 진보 진영은 앞서 단일화 기구에서 추대된 정 후보로 ‘완전한 단일화’가 성사됐다. 다만 11~12일 이틀간 진행된 사전 투표를 포함해 본투표(16일) 투표용지에는 최 후보의 사퇴 사실이 기재되지 않고, 대신 본투표일 각 투표소에 최 후보 사퇴 관련 안내문과 현수막이 게재된다.&lt;br&gt;&lt;br&gt;이로써 서울시교육감 후보는 진보 진영의 정근식 후보와 보수 조전혁·윤호상 후보 등 세 명으로 압축됐다. 조전혁 후보 측은 13일 논평을 내고 “교육 개혁을 위해 반드시 선거에서 이겨야 하는 절박감이 커지고 있다”며 “윤호상 후보에게 공개적으로 단일화를 제안한다”고 밝혔다. 조 후보 측은 “세 불리를 느낀 정근식·최보선 후보가 단일화를 성사하면서 보수 진영 역시 단일화를 통해 힘을 모아야 한다는 서울 시민들의 요청이 쇄도하고 있다”고 했다. 보수 진영은 조희연 전 교육감이 당선된 세 번의 선거에서 모두 단일화에 실패해 패배했다는 평가를 받아왔다. 같은 날 정근식 후보도 윤 후보를 향해 “비상식적인 퇴행, 친일 교육과 역사 왜곡에 맞설 정책 연대를 제안한다”고 밝혔다. 그러나 이날 오후 윤 후보는 본지에 “(유권자에게) 사전 투표까지 하게 하고 나서 중간에 그만두는 것은 안 된다. 현재 교육감 후보는 세 명”이라며 사실상 단일화 거절 의사를 밝혔다.&lt;br&gt;&lt;br&gt;서울미술고 교장 출신의 윤 후보는 단일화 없이 완주하겠다는 의지를 계속 밝혀왔다. 윤 후보는 지난 2022년 서울시교육감 선거에도 출마해 득표율 5.34%를 기록했다. 당시 보수 진영에서 조전혁 후보 23.49%, 박선영 후보 23.1%, 조영달 후보 6.63% 등을 얻었지만, 진보 조희연 후보가 38.1%로 당선됐다. 이번에 정근식 후보와 단일화하며 사퇴한 최보선 후보는 2022년 출마해 3.3%를 얻었다.&lt;br&gt;&lt;br&gt;3자 구도로 치러진 2018년 서울시교육감 선거에서도 보수 박선영(36.15%) 후보와 중도를 표방하며 독자 출마한 조영달(17.26%) 후보가 얻은 표를 합하면 조희연 전 교육감(46.58%)보다 많았다. 2014년에도 문용린·고승덕·이상면 후보로 보수 표가 나뉘면서 조 전 교육감이 승리했다.&lt;br&gt;&lt;br&gt;한편 11~12일 열린 서울시교육감 선거 사전 투표율은 8.28%로 집계됐다. 구별로는 종로구가 10.52%로 투표율이 가장 높고 동작구(9.28%), 서초구(9.14%), 성북구(8.98%), 양천구(8.9%) 순이었다. 투표율이 가장 낮은 곳은 금천구(6.92%)였고, 동대문구(7.32%), 관악구(7.39%), 중랑구(7.55%), 영등포구(7.57%) 등도 사전 투표율이 낮았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이재명표 ‘일산대교 무료화’ 대법서 취소 확정</title>
