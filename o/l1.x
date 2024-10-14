@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>방사청, 6년간 소송 패소액 7147억 중 로펌에 맡긴 것만 6080억…소송 건수도 매년 증가</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/202008.jpg" alt="202008.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;최근 6년간 방위사업청의 소송 패소액은 7147억 6200만 원이며 이중 민간에 위임한 소송의 패소 금액만 6080억 1400만 원에 달한 것으로 나타났다. 방사청이 소의 금액이 큰 사건을 민간에 위임하고 이러한 소송의 승소율이 낮아 패소 금액 지출로 국민 혈세가 낭비되고 있다는 지적이 나온다. &lt;br /&gt;&lt;br /&gt;13일 국회 국방위원회 소속 허영 더불어민주당 의원이 방사청으로부터 제출받은 자료에 따르면 방사청의 최근 6년간 연도별 소송 패소 금액은 △2019년 1076억 8700만 원 △2020년 458억 6700만 원 △2021년 1864억 600만 원 △2022년 899억 5000만 원 △2023년 2777억 9200만 원 △2024년 6월 기준 70억6000만 원으로 나타났다.&lt;br /&gt;&lt;br /&gt;방사청이 수행 중인 소송도 점점 늘어나고 있다. 최근 5년간 방사청이 수행한 소송은 △2019년 40건 △2020년 32건 △2021년 38건 △2022년 40건 △2023년 44건으로 증가 추세를 보이고 있다.&lt;br /&gt;&lt;br /&gt;소송 내용별로는 물품 대금이 32건으로 가장 많았고, 손해배상 30건, 시효중단을 위한 재판상 청구 확인 11건, 부당이득금 반환 청구의 소 10건, 채무부존재 확인의 소 10건 등 133건의 판결이 확정됐다.&lt;br /&gt;&lt;br /&gt;방사청 법무 운영 규정 제13조에 따라 소의 금액이 크거나 사건의 중요도·난이도·복잡성 등을 고려해 필요하다고 인정할 경우 민간 위임을 통해 외부 변호사를 소송대리인으로 위임할 수 있다. 하지만 방사청이 민간에 위임한 소송의 패소 금액이 전체 패소 금액의 85%인 6080억1400만 원에 달한 것으로 나타났다. &lt;br /&gt;&lt;br /&gt;지난 6년간 방사청이 수행한 소송 211건 중 민간 또는 정부법무공단에 위임한 소송은 48건으로 그 중 방사청이 직접 진행한 소송의 승소 및 일부승소율은 61.3%인 반면, 위임 소송의 승소 및 일부 승소율은 25%에 불과했다.&lt;br /&gt;&lt;br /&gt;패소 금액이 가장 큰 소송은 2020년 SNT모티브를 상대로 법무법인 평안(대표변호사 주상용)에 위임한 채무 부존재 확인 소송으로 해당 소송의 패소 금액은 약 1504억 9366만 원이다.&lt;br /&gt;&lt;br /&gt;허영 의원은 "방사청은 소의 금액이 큰 사건을 민간에 위임함으로써 패소에 따른 책임은 민간에 돌리면서도 수천억 원의 패소 금액 지출로 국민 혈세를 낭비하고 있다"며 "방사청은 매년 증가하는 소송 수를 줄이기 위해 협의체 구성 등을 통해 방산 업체와 중재를 적극 진행함으로써 패소 금액 발생을 방지해야만 한다"고 개선을 요구했다.</description>
+			<pubDate>Mon, 14 Oct 2024 04:19:42 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/202008</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202008</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202008.jpg</media:thumbnail>
+			<dc:creator>김지현 기자</dc:creator>
+		</item>
+		<item>
 			<title>이영진 헌법재판소 재판관, 내달부터 성균관대 로스쿨 석좌교수로</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/202007.jpg" alt="202007.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9145"&gt;이영진&lt;/span&gt;(63·사법연수원 22기) 헌법재판소 재판관이 모교인 성균관대의 석좌교수로 부임한다.&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;17일 6년의 임기를 마치는 이 재판관은 다음달 1일부터 성균관대 로스쿨 석좌교수로 부임해 후학 양성에 나선다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;서울 남강고와 성균관대 법학과를 졸업한 이 재판관은 1990년 제32회 사법시험에 합격했다. 청주지법 판사를 시작으로 수원지법, 서울지법 판사와 법원행정처 사법제도연구법관, 서울고법 판사, 전주지법 부장판사, 수원지법 부장판사, 사법연수원 교수, 서울중앙지법 부장판사, 서울고법 창원재판부 부장판사, 서울고법 부장판사 등을 거쳤다. 2009년에는 개방형 국회 법제사법위원회 전문위원에 직접 공모해 제18대 국회에서 첫 국회 파견 판사로 활동했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이 재판관은 서울고법 부장판사를 지내던 2018년 10월 바른미래당 몫으로 추천돼 헌법재판관 후보로 선출됐다. 이 재판관과 함께 임기를 시작한&amp;nbsp;&lt;span class="lawmanlink" serial="7888" style="font-weight: bold;"&gt;이종석&lt;/span&gt;(63·15기) 헌법재판소장과&amp;nbsp;&lt;span class="lawmanlink" serial="3650" style="font-weight: bold;"&gt;김기영&lt;/span&gt;(56·22기) 재판관은 17일 동시에 퇴임한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Mon, 14 Oct 2024 02:40:51 -0000</pubDate>
@@ -230,16 +240,6 @@
 			<link>https://www.lawtimes.co.kr/news/201944</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201944</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201944.jpg</media:thumbnail>
-			<dc:creator>안현 기자</dc:creator>
-		</item>
-		<item>
-			<title>한국민사법학회, 이달 18~19일 추계국제학술대회 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/201979.jpg" alt="201979.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국민사법학회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2358"&gt;김재형&lt;/span&gt;)는 오는 18일부터 19일까지 성균관대학교 법학전문대학원 지하1층 모의법정에서 '코로나 시대 이후의 사회적 변화와 민사법적 대응'을 주제로 추계 국제학술대회를 개최한다.&lt;br /&gt;&lt;br /&gt;이번 학술대회는 한국민사법학회, 성균관대학교 법학연구원 동아시아법·정치연구소, 법제처가 주최하며 법무법인 세종이 후원한다.&lt;br /&gt;&lt;br /&gt;첫째 날인 18일(금)에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2358"&gt;김재형&lt;/span&gt;(59·사법연수원 18기) 한국민사법학회 회장의 개회사와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9236"&gt;이완규&lt;/span&gt;(63·23기) 법제처장의 축사, 권철 성균관대 법학연구원장의 환영사가 이어질 예정이다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7852"&gt;이계정&lt;/span&gt;(52·31기) 서울대 로스쿨 교수가 전체 사회를 맡고, 윤석찬 부산대 로스쿨 교수·송오식 전남대 명예교수·박동진 연세대 로스쿨 교수가 세션별 사회를 본다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9801"&gt;조인영&lt;/span&gt;(47·32기) 연세대 로스쿨 교수는 종합토론을 진행한다.&lt;br /&gt;&lt;br /&gt;제1부에서는 '디지털 정보사회로의 변화와 법적 문제'를 주제로 △블록체인 기반 가상자산의 사법적 성질에 관한 소고 △민사전자재판 △AI와 민사책임 △자율주행자동차와 민사법적 책임 △소비자계약에 있어서 인공지능 어시스턴트 사용에 관한 유럽법 연구소 프로젝트 등이 발표된다.&lt;br /&gt;&lt;br /&gt;발표자로는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14870"&gt;신지혜&lt;/span&gt;(46·36기) 한국외대 로스쿨 교수,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10301"&gt;맹준영&lt;/span&gt;(50·33기) 수원지방법원 부장판사를 비롯해 코린 블레리 프랑스 폴리테크니크 대학 사법교수, 나카하라 타로 일본 도쿄대학 교수 등이 참여한다.&lt;br /&gt;&lt;br /&gt;제2부는 '포스트 코로나 시대의 계약법적 변화'를 주제로 △위기의 시대에 조응하는 계약법 △인공지능 작동의 합일적 귀속을 위한 법률행위론 △공공분야의 계약법적 변화 등을 논의한다. &lt;br /&gt;&lt;br /&gt;둘째 날인 19일(토)에는 제3부 사회적 갈등과 환경 변화에 대한 대응을 주제로 △노인 등 디지털소외계층에 대한 법적 보호 문제 △의료 인공지능과 의사의 설명 의무 △노동환경의 변화와 민사법적 대응 △인역권(타인의 동산이나 부동산을 이용하는 권리)을 통한 환경보호 등의 발표가 이어진다. &lt;br /&gt;&lt;br /&gt;김천수 성균관대 로스쿨 교수·추신영 전북대 로스쿨 교수가 사회를 맡았고, 박수곤 경희대 로스쿨 교수가 종합토론을 진행한다. 이후 이준형 연구윤리 위원장의 연구윤리교육으로 학술대회가 마무리될 예정이다.</description>
-			<pubDate>Fri, 11 Oct 2024 08:31:19 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201979</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201979</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201979.jpg</media:thumbnail>
 			<dc:creator>안현 기자</dc:creator>
 		</item>
 	</channel>
