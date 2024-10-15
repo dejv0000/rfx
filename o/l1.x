@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] '22개 네트워크 운영' 유디치과 설립자, 의료법 위반 1심 징역형 집행유예</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/202058.jpg" alt="202058.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;네트워크 방식으로 동시에 22개의 치과를 소유·운영한 혐의를 받는 유디치과 설립자가 1심에서 징역형 집행유예를 선고받았다.&lt;p&gt;   &lt;br /&gt;서울중앙지법 형사11단독&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="22096"&gt;김길호&amp;nbsp;&lt;/span&gt;판사는 15일 의료법 위반 혐의로 재판에 넘겨진 김모 씨에 대해 징역 3년에 집행유예 5년을 선고했다(&lt;b&gt;2023고단7176&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;김 씨는 지난 2012년 8월부터 2015년 11월경까지 18명의 명의상 원장을 고용해 총 22개의 치과병원을 운영한 혐의로 기소됐다. 의료법 제33조 제8항에서는 의료인은 어떤 명목으로도 둘 이상의 의료기관을 개설·운영할 수 없다고 규정한다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;김 씨는 2000년대 '반값 임플란트'를 내세워 전국에 100여 개의 치과를 운영했는데, 2012년 의료법 개정 이후 네트워크 방식의 운영이 금지되자 각 치과 브랜드 및 경영지원 서비스를 제공하는 방식으로 계약을 변경했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;2015년 보건복지부 등은 김 씨가 사실상 네트워크 방식으로 치과를 운영하고 있다고 보고 검찰에 고발했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;검찰은 유디치과 대표이사 고모 씨와 명의상 원장 등을 기소했다. 그러나 김 씨가 미국으로 도피하면서 2015년 11월 기소 중지 처분이 이뤄졌다. 이후 명의 원장 등에 대한 유죄가 확정됐고, 검찰은 수사를 재기해 지난해 12월 김 씨를 불구속 기소했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;하지만 현재 미국에 체류 중인 것으로 알려진 김 씨는 재판에 불출석했고, 이날 선고기일에도 모습을 드러내지 않았다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;한편 김 씨는 국내 소송대리인을 선임해 지점 원장들을 상대로 영업권 양도 대금 청구소송 등을 제기해 현재 항소심 등이 진행 중이다.&lt;/p&gt;</description>
+			<pubDate>Tue, 15 Oct 2024 02:59:54 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/202058</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202058</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202058.jpg</media:thumbnail>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
+			<title>법원도서관, 23일 박태웅 작가 초청 'AI 주제' 법률소양강좌</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/202053.jpg" alt="202053.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법원도서관(관장 전지원)은 23일 오후 3시 경기 고양시 법원도서관 법마루 1층 복합문화공간에서 박태웅 작가를 초청해 인공지능(AI)을 주제로 법률소양 강좌를 연다.&lt;p&gt;   &lt;br /&gt;이날 박 작가는 AI의 출현과 AI가 현재 일상에 미치는 영향 등을 주제로 강연한다.   &lt;p&gt;      &lt;br /&gt;이번 강의는 대면으로 진행되며 시민 누구나 무료로 수강할 수 있다. 22일까지 법원도서관 홈페이지에서 사전 신청하면 된다.      &lt;p&gt;&amp;nbsp; &lt;br /&gt;박 작가는 현재 한빛미디어 이사회 의장으로 재직 중이며 KTH 부사장, 엠파스 부사장, 안철수연구소 경영지원실장, 나모인터랙티브 부사장을 지냈다. 《박태웅의 AI 강의 2025》, 《박태웅의 AI 강의》, 《눈 떠보니 선진국》 등 다수의 저서를 펴냈다.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;   &lt;/p&gt;&lt;/p&gt;</description>
+			<pubDate>Tue, 15 Oct 2024 02:59:10 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/202053</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202053</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202053.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
 			<title>법무법인 린, 한국능률협회컨설팅(KMAC)과 업무협약 체결</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/202051.jpg" alt="202051.jpg" /&gt;&lt;/p&gt;&lt;br /&gt;&lt;a href="https://www.law-lin.com/" target="_blank"&gt;&lt;b&gt;법무법인 린&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7428"&gt;임진석&lt;/span&gt;)은 14일 한국능률협회컨설팅(대표이사 한수희)과 공동 사업 추진과 신규 가치 창출을 위한 업무협약(MOU)을 체결했다고 밝혔다. &lt;br /&gt;&lt;br /&gt;한국능률협회컨설팅(KMAC)은 1989년 설립된 진단평가 기반의 경영 컨설팅 전문기관이다.&lt;br /&gt;&lt;br /&gt;이번 협약의 주요 내용은 양사의 전문성에 기반한 공동 사업 추진, 고객의 니즈에 대한 공동 지원, 브랜드 가치 제고를 위한 협력으로 구성됐다. &lt;br /&gt;&lt;br /&gt;세부적으로는 양사는 공동 프로젝트 추진팀을 구성해 △국내∙외 사업 확장 개발 △컨퍼런스∙교육∙세미나 등 공동 프로그램 기획 △신규 서비스 상품 개발 및 대외 홍보 등 업무에 긴밀하게 협력하기로 했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7428"&gt;임진석&lt;/span&gt;(59·사법연수원 20기) 린 대표변호사는 "KMAC와 협력을 통해 새로운 법률 시장을 개척하고 고객과 시장의 신뢰를 받는 명실상부한 '원스톱(one-stop) 서비스 종합 로펌'으로서 위상을 더욱 강화하겠다"며 "국제, TMT, IP, HR, ESG, 중대재해, 상장기업자문 등 각 분야 전문가들로 구성된 린의 전문팀이 KMAC의 사업 추진 과정에서 발생하는 법률 리스크 대응 및 관리를 적극적으로 지원하겠다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;한수희 KMAC 대표이사는 "KMAC의 경영 컨설팅 노하우와 법무법인 린의 법률 전문성 결합을 통해 혁신적인 서비스를 제공함으로써 고객들에게 더욱 신뢰받는 파트너가 될 것으로 기대한다"며 "양사 간의 협력을 통해 앞으로 더욱 복잡해지고 있는 경영 환경에서 법률적 안정성을 확보하고 동시에 경영의 효율성과 성과를 극대화할 수 있는 종합 솔루션을 제공할 것”이라고 말했다.&lt;br /&gt;</description>
 			<pubDate>Tue, 15 Oct 2024 02:18:38 -0000</pubDate>
@@ -220,26 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201948</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201948.jpg</media:thumbnail>
 			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 고객사은품 머그컵 무단반출해 해고된 직원… 法 "해고는 부당"</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/201938.jpg" alt="201938.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;회사 허락 없이 고객사은품인 머그컵을 무단 반출했다는 이유로 직원을 해고하는 것은 부당하다는 법원의 판단이 나왔다.&lt;br /&gt;&lt;br /&gt;서울행정법원 행정3부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5411"&gt;최수진&amp;nbsp;&lt;/span&gt;부장판사)는 7월 26일 A 사가 중앙노동위원회를 상대로 제기한 부당해고구제 재심판정취소 소송(&lt;b&gt;2023구합7973&lt;/b&gt;9)에서 원고 패소 판결했다.&lt;br /&gt;&lt;br /&gt;자동차 구입·판매업체인 A 사는 2023년 2월 징계위원회를 열고 2014년부터 근무해 온 직원 B 씨의 해고를 결정했다. A 회사는 △고객사은품인 머그컵 세트 5개와 달력 1개를 무단 반출한 점 △회사의 재산에 손실을 입히고 업무수행에 지장을 준 점 △고객 응대 업무에서 배제되었음에도 지시를 불이행한 점 등을 근거로 B 씨에게 해고를 통보했다.&lt;br /&gt;&lt;br /&gt;B 씨는 부당해고를 주장하며 충남지방노동위원회에 구제를 신청했다. 2023년 4월 충남지방노동위원회는 "징계사유가 정당하지 않다"며 B 씨의 구제신청을 인용했다.&lt;br /&gt;&lt;br /&gt;A 사는 이에 불복해 중앙노동위원회에 재심을 청구했으나 중노위는 "머그컵 세트 무단 반출은 정당한 징계사유에 해당하지만 그 외 사유는 징계사유로 인정되지 않고, 징계 수위가 너무 무겁다"며 A 회사의 재심 신청을 기각했다. 이에 불복한 A 사는 법원에 소송을 제기했다.&lt;br /&gt;&lt;br /&gt;그러나 법원 역시 A 사의 주장을 받아들이지 않았다.&lt;br /&gt;&lt;br /&gt;재판부는 "A 사의 취업규칙에 따르면 허가 없이 회사 물품을 외부로 반출하는 행위는 금지되어 있어 B 씨가 머그컵 세트 5개를 허락 없이 무단으로 반출한 것은 회사 규칙을 위반한 행위로 볼 수 있다"며 "무단 반출로 머그컵 세트 증정이 한 달가량 지연되면서 회사 업무에도 일정 부분 지장이 발생한 점은 인정된다"고 판단했다.&lt;br /&gt;&lt;br /&gt;다만 "B 씨가 고객들에게 머그컵 세트 5개 중 2개를 이미 증정했고 나머지 3개도 고객에게 증정하기 위해 가지고 있다가 회사에 반환했으므로 불법 취득 의사가 있었다고 보기는 어렵다"며 "A 사가 B 씨를 절도로 고소한 형사사건에서도 혐의없음의 불기소 결정이 이뤄졌다"고 설명했다. &lt;br /&gt;&lt;br /&gt;이어 "B 씨가 달력 4개를 서비스 어드바이저에게 알리고 반출한 점에서 무단 반출로 보기 어렵고, 달력은 고객 증정을 위해 충분히 확보된 상태였다"며 "또 B 씨가 2021년 9월부터 고객 응대 업무에서 배제되기는 했지만 고객을 전혀 만나지 말라는 지시는 없었고, B 씨는 2014년부터 약 7년간 서비스 어드바이저 업무를 맡아 상당수 친분이 있는 고객이 있었을 것이어서 B 씨에게 기존 고객들에 대한 고객 관리 행위를 하는 것까지 회사가 문제 삼는 것은 지나친 조치로 판단된다"고 덧붙였다.&lt;br /&gt;&lt;br /&gt;재판부는 "머그컵의 재산적 가치와 B 씨의 반출 의도, A 사의 업무수행 지장 정도 등을 종합적으로 고려해 머그컵 세트의 무단 반출은 징계 사유가 될 수 있으나 이를 이유로 해고하는 것은 과중한 조치"라고 밝혔다.</description>
-			<pubDate>Sun, 13 Oct 2024 00:19:34 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201938</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201938</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201938.jpg</media:thumbnail>
-			<dc:creator>이진영 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] “공인중개사, ‘채무인수’ 법적 성격 설명 의무 없다”</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/201949.jpg" alt="201949.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;공인중개사가 매매계약을 중개할 때 채무인수의 법적 성격에 관해 조사·확인해 설명해야 할 주의의무가 있다고 보기 어렵다는 대법원 판결이 나왔다. 공인중개사의 중개행위는 당사자 사이의 매매 등 법률행위가 용이하게 성립될 수 있도록 돕고 주선하는 사실행위이고, 이는 변호사 등이 하는 법률사무와는 구별된다는 취지다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;대법원 민사1부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5554"&gt;서경환&amp;nbsp;&lt;/span&gt;대법관)는 지난달 12일 A 씨가 공인중개사 B 씨와 한국공인중개사협회를 상대로 낸 손해배상소송(&lt;b&gt;2024다239364&lt;/b&gt;)에서 원고일부 승소 판결한 원심을 파기하고 사건을 울산지법으로 돌려보냈다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;2018년 11월 A 씨는 자신이 소유하던 울산의 아파트에 대해 한국에너지공단(공단)과 보증금 2억 원에 부동산 임대차 계약을 맺었다. 이후 B 씨의 중개로 2020년 5월 A 씨는 C 씨와 2억8000만 원의 아파트 매매계약을 체결하고, 임대차보증금 2억 원은 C 씨가 인수해 매매대금에서 공제하기로 약정했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;그러나 공단은 보증금을 돌려받지 못했다. 주택임대차보호법에 따라 임차인이 법인인 경우 임차인의 동의 없이는 매수인은 임대차보증금 반환 채무를 면책적으로 인수할 수 없기 때문이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이에 공단은 전세금 보장 신용보험회사에 보험금 지급을 청구했고, 보험금을 지급한 보험회사는 A 씨를 상대로 구상금 청구 소송을 냈다. 2021년 7월 법원은 “A 씨는 보험회사에 2억 원을 지급하라”고 판결했다. 이에 A 씨는 B 씨와 공인중개사협회를 상대로 이 사건 소송을 냈다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;A 씨는 “공단이 법인으로서 주택임대차보호법상 대항력이 있는 임차인이 아니고 매수인이 임대인의 지위를 당연히 승계하는 것이 아니므로, B 씨는 임차인을 참여시켜 면책적 채무인수 계약을 체결했어야 했는데도 이를 간과해 자신이 임대차보증금 반환 의무를 여전히 부담하게 돼 손해를 입게 됐다”고 주장했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1심은 A 씨의 청구를 기각했다. △B 씨가 중개한 매매계약의 계약서에는 임차인이 법인이고 주택임대차보호법상 대항력이 없다는 사실을 알 수 있는 아무런 사정이 없고 △대항력 여부 확인과 임대차보증금 반환의무 관련 법적 효과를 알려주는 것은 공인중개사로서 B 씨의 업무 범위가 아니라는 것이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;그러나 항소심은 B 씨의 주의 의무를 인정해 원고 일부 승소 판결했다. 항소심은 “B 씨가 임대차계약서를 매매계약서에 첨부하는 과정에서 A 씨가 매매계약을 통해 공단에 대한 임대차보증금 반환채무를 면하고자 한다는 것을 충분히 알 수 있었을 것”이라며 “만일 B 씨가 A 씨에게 이러한 내용을 설명했다면 A 씨는 C 씨가 임대차보증금 반환채무를 ‘면책적’으로 인수하기 전까지는 부동산 소유권을 이전해주지 않았거나 매매계약을 체결하지 않았을 것”이라고 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;하지만 대법원은 다시 판단을 뒤집었다. 재판부는 “부동산중개행위는 거래당사자 사이에 매매 등 법률행위가 용이하게 성립할 수 있도록 조력하고 주선하는 사실행위에 불과하다”며 “변호사법에서 규정한 법률사무와는 구별된다”고 판시했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이어 “부동산 매수인이 매매목적물에 관한 임대차보증금 반환채무 등을 인수하는 한편 그 채무액을 매매대금에서 공제하기로 약정한 경우, 채무인수의 요건에 관한 분석 등을 통해 채무인수의 법적 성격을 가리는 행위는 단순한 사실행위가 아닌 법률사무에 해당한다”고 설명했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;그러면서 “따라서 공인중개사가 부동산을 중개하는 과정에서 채무인수의 법적 성격까지 조사·확인해 설명할 의무가 있다고 보기 어렵다”며 “중개 과정에서 잘못된 정보를 전달했다는 등의 특별한 사정이 없으면 채무인수의 법적 성격에 관해 조사·확인해 설명하지 않았다는 사정만으로 선량한 관리자의 주의로 신의를 지켜 중개행위를 하여야 할 의무를 위반하였다고 볼 수 없다”고 판시했다.&lt;/p&gt;</description>
-			<pubDate>Sun, 13 Oct 2024 00:19:30 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/201949</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/201949</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/201949.jpg</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
