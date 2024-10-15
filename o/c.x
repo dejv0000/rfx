@@ -13,6 +13,37 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>제주 환자 “서울 안 가게 해달라”…尹 “그러려고 여기 왔습니다”</title>
+      <link>https://www.chosun.com/politics/politics_general/2024/10/15/YBU5GYQ24JDYXBMPDT3LHH22JY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/politics_general/2024/10/15/YBU5GYQ24JDYXBMPDT3LHH22JY/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Oct 2024 12:47:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3VONV4XGPJOX7HCN4N7GXZMJKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 15일 제주시 제주대병원 제주지역암센터를 찾아 입원 환자와 대화를 나눈 뒤 인사하고 있다. /대통령실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 15일 제주특별자치도를 방문해 “제주대병원이 빠른 시일 내에 상급 종합병원으로 지정될 수 있도록 적극 지원하겠다”고 두 차례 약속했다.&lt;br&gt;&lt;br&gt;윤 대통령은 이날 오후 제주국제자유도시개발센터(JDC)에서 ‘세계로 열린 청정한 섬, 글로벌 휴양 도시 제주’를 주제로 민생 토론회를 열어 “제주도의 의료 환경을 확실하게 개선해야 한다”며 제주도의 상급 종합병원 부재(不在)를 문제로 거론했다. 윤 대통령은 “제주도에 70만명이 거주하고 있고 매년 1000만명 이상이 방문해서 의료 수요가 늘고 있는데, 서울과 진료 권역이 묶여 있어 상급 종합병원이 하나도 없다”며 “제주도민들은 부족한 의료 인프라 때문에 가족이 크게 아프기라도 하면 서울을 비롯한 육지로 나가서 진료받아야 하는 상황이다. 기상 여건이 나빠서 이동이 불가능하면 응급 환자와 가족 분들이 얼마나 애가 타겠느냐”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령은 이에 “제주도에 상급 종합병원이 조속히 지정될 수 있도록 하겠다”고 했다. 윤 대통령은 “지역 특성을 감안해서 진료 권역을 (서울과 묶이지 않게) 재설정하고, 상급 종합병원에 관한 제도를 개선하고, 상급 종합병원에 필요한 물적 의료 시설의 지원을 적극적으로 추진할 것”이라고 약속했다. 그러면서 “중증 환자와 감염병 대응을 위한 제주대병원, 서귀포의료원의 기능 확충을 차질없이 신속하게 지원하겠다”고 했다.&lt;br&gt;&lt;br&gt;우동기 지방시대위원장은 민생 토론회 후 브리핑에서 “윤 대통령이 제주권 상급 종합병원 지정은 지체하지 말고 빨리 시행하라고 주문했다”고 전했다. 윤 대통령은 상급 종합병원 지정을 반드시 하겠다는 의미에서 “정부 측 답변에 (애매한) ‘검토’라는 말도 쓰지 말라”고 지시했다고 한다.&lt;br&gt;&lt;br&gt;윤 대통령은 이어서 제주대병원을 방문해 의료진을 비롯한 병원 관계자들과 간담회를 하고 “어느 지역에 살더라도 중증 필수 의료의 접근성을 보장받아야 한다”며 “제주도에 상급 종합병원이 없다는 것은 상식적으로 맞지 않다. 제주대병원이 빠른 시일 내에 상급 종합병원으로 지정될 수 있도록 적극 지원하겠다”고 했다.&lt;br&gt;&lt;br&gt;제주대병원 김우정 진료부원장이 “중환자실 전담 전공의 유치를 위해 운영비 지원이 필요하다”고 건의하자, 윤 대통령은 즉석에서 조규홍 보건복지부 장관에게 “상급 종합병원 지정을 위해서는 적정한 인력도 필요한 만큼, 빠른 시일 내에 검토해 추진하라”고 지시했다. 송성욱 응급의료센터장은 “최근 제주대병원이 거점지역응급의료센터로 지정되면서 권역센터 수준의 수가를 적용받아 상당히 도움이 되고 있지만, 이런 지원이 한시적인 만큼 앞으로도 지속될 수 있기를 희망한다”고 했다. 이 건의에 대해서도 윤 대통령은 즉석에서 조 장관에게 “비상 진료 체계 내에서만 한시적으로 진행하는 것이 아닌, 제도화를 통한 안정적인 지원이 가능하도록 적극 검토하라”고 지시했다.&lt;br&gt;&lt;br&gt;윤 대통령은 “가장 중요한 것은 속도”라며 “지역완결적 의료체계를 구축할 수 있도록 속도를 내겠다”고 강조했다. 윤 대통령은 “제주대병원이 하루빨리 상급 종합병원으로 지정될 수 있도록 속도를 내달라”고 조 장관과 장상윤 사회수석에게 재차 당부했다고 한다.&lt;br&gt;&lt;br&gt;간담회 후 윤 대통령은 병원 로비에서 한 환자를 만났다. 이 환자가 “제주 지역 환자가 서울까지 가지 않도록 해주십시오”라고 말하자, 윤 대통령은 “그러려고 여기 왔습니다. 걱정 마십시오”라고 답했다고 대통령실은 전했다.&lt;br&gt;&lt;br&gt;상급 종합병원이란, 중증 환자 비율 34% 이상, 필수 진료 과목 9개를 포함한 20개 이상의 진료 과목, 입원 환자 10명당 1인 이상의 의사, 소아·신생아 중환자실 등 일정한 요건을 갖춘 종합병원이다. 통상 해당 지역의 응급 환자, 중환자 치료를 전담한다. 정부는 매년 상급 종합병원을 지정하고 있고 지난해 말 11개 진료 권역 47개 병원이 지정됐으나 이 가운데 제주도 병원은 없다. 제주~서울 항공편을 이용해 120분 내에 환자가 서울의 병원으로 이동할 수 있는 것으로 간주돼 제주가 서울과 같은 진료 권역으로 묶여 있다보니, 제주도 병원이 상급 종합병원으로 지정되기 위해선 서울의 ‘빅5′ 병원들과 경쟁해야만 했다.&lt;br&gt;&lt;br&gt;대통령실은 윤 대통령이 제주도 내 상급 종합병원 지정을 공개리에 약속해 정책 추진력을 높이기 위해 이날 간이식으로 끼니를 때우며 강행군을 했다고 밝혔다. 윤 대통령은 이날 오전 서울 용산 대통령실 청사에서 국무회의를 주재하고 곧바로 경기 성남 서울공항으로 이동해 항공편으로 제주도로 이동했다. 점심은 기내에서 김밥 한 줄로 때웠다. 민생 토론회 직후엔 곧바로 제주대병원 방문 일정이 이어져, 저녁 식사도 서울공항으로 돌아오는 항공편에서 샌드위치로 대신했다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>비만약 위고비 출시 첫날, 유통업체 홈피 한때 마비</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/10/15/L56ZYGTWH5CWPMRJCQ7YJ2QKGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/15/L56ZYGTWH5CWPMRJCQ7YJ2QKGI/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Oct 2024 11:17:22 +0000</pubDate>
+      <content:encoded>15일 비만 치료제 ‘위고비’가 국내 출시됐다. 제약사를 거쳐 공급되고 나면, 소비자는 이르면 이달 말부터 병·의원에서 위고비를 처방받을 수 있다.&lt;br&gt;&lt;br&gt;위고비는 일론 머스크 테슬라 창업주 등 유명 인사들의 체중 감량에 쓰였다고 알려진 비만 치료제다. 소화 속도를 늦추는 호르몬(GLP-1)을 모방해 식욕을 줄이고 포만감을 높여주는 원리다. 펜처럼 생긴 주사제로 환자가 주 1회 직접 배나 허벅지 등에 주사를 놓으면 된다. 4주 분량의 국내 공급 원가는 37만원으로, 유통비 등을 포함해 병·의원에서 책정하는 가격은 80만원 안팎이 될 전망이다. 건강보험 적용을 받지 않기 때문에 환자가 약값을 전액 부담해야 한다.&lt;br&gt;&lt;br&gt;병·의원이 앞다퉈 물량 확보에 나서면서 위고비를 대량 주문하는 국내 유통사 홈페이지는 이날 오전 약 1시간 동안 서버가 마비된 것으로 알려졌다. 일부 병·의원은 2~3주 전부터 위고비 예약을 받았다. 서울 중구의 피부과 A 의원은 지난달 말부터 ‘위고비’ 예약을 받았는데 시작 일주일 만에 10명 이상이 예약금 5만원을 내고 신청했다. 이 의원에서 이보다 늦게 신청한 환자들은 12월쯤 위고비를 받을 수 있다고 한다. 위고비 품귀 현상으로 A 의원이 제약사에서 구매할 수 있는 위고비가 한 달에 9개로 한정돼 있기 때문이다. 경기 성남시의 가정의학과 B 의원도 이달 5일까지 위고비 예약을 받았다. 예약금은 10만원이었다.&lt;br&gt;&lt;br&gt;식품의약품안전처에 따르면, 위고비는 체질량지수(BMI·체중을 키의 제곱으로 나눈 값) 30㎏/㎡ 이상인 고도 비만 환자 또는 BMI 27~30㎏/㎡ 미만 비만 환자면서 고혈압 등 동반 질환이 있는 환자에게 체중 감량 목적으로 처방해야 한다. 울렁거림, 설사, 구토 등 부작용도 임상 시험에서 확인됐다. 그러나 앞서 기자가 문의해보니, A·B 의원 모두 몸무게 등을 알려주지 않아도 위고비 예약이 가능했다.&lt;br&gt;&lt;br&gt;식약처는 이날 “앞으로 한 달간 온라인에서 위고비를 사고 파는 행위를 집중 단속한다”고 발표했다. 식약처는 지난 7일 GLP-1 계열 비만 치료제는 비만에 해당하는 환자만 신중하게 사용해야 한다고 권고했다. 식약처 관계자는 “정상 체중인 사람들이 처방받을 경우 오남용 우려가 있고, 여러 부작용이 발생할 수 있다는 점을 충분히 인지하고 처방을 결정하라는 취지”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VDNP647NAM5V5C7YQI36ZV6HJU.jpg?width=5000&amp;height=3333&amp;auth=e38d87f505ad36e84d7f778da7d402fdb5bbbed5faac6e25aa8f1078f4cbdeff&amp;smart=true" type="image/jpeg" height="3333" width="5000">
+        <media:description type="plain">15일 오전 서울 시내 한 호텔에서 열린 덴마크 제약회사 노보 노디스크의 비만치료제 위고비 한국 출시 행사장에 위고비 관련 안내판이 놓여 있다. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>유튜브에 ‘바카라’ 생중계...타짜 소년범 10년간 5배 늘었다</title>
+      <link>https://www.chosun.com/national/2024/10/15/NWYGWXOQAFHMLPZXKY5G4H2GDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/10/15/NWYGWXOQAFHMLPZXKY5G4H2GDM/</guid>
+      <dc:creator>주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Oct 2024 11:15:31 +0000</pubDate>
+      <content:encoded>도박 범죄를 저지른 청소년이 최근 10년 새 5배 넘게 급증한 것으로 15일 나타났다. 도박에 중독돼 의료 기관을 찾는 청소년 환자 역시 늘어나는 추세다.&lt;br&gt;&lt;br&gt;경찰청이 더불어민주당 강유정 의원실에 제출한 자료에 따르면, 올해(이하 8월 기준) 형사 입건된 도박 혐의 소년범(14세 이상 19세 미만)은 328명으로 2015년 59명의 5.6배로 늘었다. 14세 미만 촉법소년은 올해 45명 검거됐다. 관련 통계를 잡기 시작한 2021년 3명의 15배로 급증했다.&lt;br&gt;&lt;br&gt;청소년 도박 중독 환자 역시 증가했다. 건강보험심사평가원에 따르면, 19세 미만 청소년 도박 중독 환자 수는 올해 181명으로 2015년 27명의 6배 이상으로 늘었다. 이 중엔 10세 환자도 있었다. 사행산업통합감독위원회에 따르면 한국도박문제예방치유원을 통해 도박 중독 관련 치유·상담을 받은 청소년은 올해 2665명으로 2017년 503명의 4.6배로 늘었다.&lt;br&gt;&lt;br&gt;청소년들이 도박에 빠져드는 건 스마트폰으로 도박 사이트에 쉽게 접근할 수 있기 때문이다. 최근 불법 도박 사이트 운영자들이 청소년을 주요 타깃으로 삼으면서 문제는 더욱 심각해지고 있다. 경찰청 관계자는 “도박 총책들은 청소년들이 많이 모여 있는 카카오톡 오픈 채팅방, 텔레그램 방을 찾아가 광고한다”며 “모집책들은 ‘처음 가입하면 게임 머니를 주겠다’며 몇몇 청소년을 유혹하고, 주변 친구들에게 사이트를 소개할 경우엔 추가 게임 머니를 인센티브 형식으로 주는 다단계 사기 범행을 벌이고 있다”고 했다.&lt;br&gt;&lt;br&gt;특히 청소년들은 유튜브를 통해서 불법 도박을 접하고 있는 추세다. 유튜브에서 ‘바카라’를 검색할 경우 수십 개의 실시간 생방송을 별도의 성인 인증 없이 시청할 수 있다. 유튜브 댓글난에는 불법 도박 사이트 주소가 도배돼 청소년들도 쉽게 접근할 수 있다. 강유정 의원은 “불법 도박 사이트를 폐쇄하려면 방송통신심의위원회의 심의를 거쳐야 하는데 이 과정에서 1주일~3개월이 소요되는 반면, 복제 도박 사이트를 개설하는 데 걸리는 시간은 하루에서 이틀이면 충분하다”며 “급증하는 불법 도박 사이트 창궐에도 정부 차원 대책은 미비하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>檢, 허위 대출로 ‘180억 횡령’ 우리은행 전 직원에 20년 구형</title>
       <link>https://www.chosun.com/national/2024/10/15/27PT6AULF5HHBDF4B3G4UOUD4Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/10/15/27PT6AULF5HHBDF4B3G4UOUD4Q/</guid>
@@ -802,24 +833,6 @@
       </media:content>
     </item>
     <item>
-      <title>금강호휴게소 텐트 안에서 30대 여성 숨진 채 발견</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/15/SVA2MA2KVBACNLHXWHSSU45XMA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/15/SVA2MA2KVBACNLHXWHSSU45XMA/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Oct 2024 23:56:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 군산시 금강호휴게소 인근 텐트 안에서 30대 여성이 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;15일 군산경찰서 등에 따르면 전날 오후 5시 10분쯤 금강호휴게소 인근에 설치되어 있던 텐트에서 A씨(37·여)가 숨진 채 발견됐다. A씨와 함께 있던 30대 남성 B씨가 이를 발견하고 최초 신고했다.&lt;br&gt;&lt;br&gt;남성 B씨는 사고 전날 A씨와 함께 술을 마신 뒤 잠이 들었다고 진술했다.&lt;br&gt;&lt;br&gt;경찰 출동 당시 A씨는 이미 사후강직이 진행된 상태였으며 특별한 외상은 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 텐트 안에 화로가 놓여 있었던 것으로 볼 때 A씨의 사인은 일산화탄소 중독일 가능성이 높다고 보고 있다.&lt;br&gt;&lt;br&gt;경찰 조사에서 B씨는 “극단적 선택을 하려다 인터넷에서 A씨를 만났는데, 서로 마음을 고쳐먹고 여행을 다녔다”고 진술했다.&lt;br&gt;&lt;br&gt;경찰은 A씨와 B씨의 관계, 사망 경위 등을 조사하고 국립과학수사연구원에 의뢰해 시신을 부검할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>영탁 “이진호에 돈 빌려준 건 사실… 두달만에 전액 돌려받아”</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/15/M7JAW5YLCZB4HE3U2GLUZZ7LC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/15/M7JAW5YLCZB4HE3U2GLUZZ7LC4/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 01:42:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H67IP62BNAEO7MODCOYJ7XUVTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 영탁이 지난달 3일 서울 용산구 블루스퀘어 마스터카드홀에서 가진 새 미니 앨범 '슈퍼슈퍼'(SuperSuper) 발매 쇼케이스에서 인사를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 영탁 측이 불법도박 사실을 인정한 개그맨 이진호에게 돈을 빌려줬으나, 전액 돌려받았다고 밝혔다.&lt;br&gt;&lt;br&gt;영탁 소속사 어비스컴퍼니는 15일 공식 입장을 내고 “이진호씨가 세금 문제로 작년 7월 18일에 소속 아티스트 영탁에게 금전적 도움을 요청하여 도움을 드렸다”면서도 “9월 12일에 전액 다시 돌려받았다”고 했다.&lt;br&gt;&lt;br&gt;어비스컴퍼니는 “이진호씨로부터 금전적인 피해를 입은 사실이 없다”며 “팬분들께서 많은 걱정과 우려를 주셔서 사실관계를 전해드린다”고 했다.&lt;br&gt;&lt;br&gt;앞서 이진호는 전날 자신의 인스타그램을 통해 인터넷 불법도박 사실을 직접 털어놨다. 이진호는 “2020년 우연한 기회로 인터넷 불법도박사이트에서 게임을 시작하게 됐고, 감당하기 힘든 빚을 떠안게 됐다”며 “너무나 부끄럽고, 죄송하다. 저에게 남겨진 채무는 무슨 일이 있어도 변제해 나갈 것을 약속드린다”고 했다.&lt;br&gt;&lt;br&gt;이후 연예 매체 등에서 방탄소년단(BTS) 멤버 지민과 방송인 이수근, 가수 영탁, 하성운 등이 이진호에게 돈을 빌려줬다가 피해를 입었다는 보도가 나왔다. 이와 관련, 지민 소속사 빅히트 뮤직은 언론 공지를 통해 “언론에 보도된 것처럼 (지민에게) 금전 피해가 발생한 것은 사실이며, 차용증을 쓰고 대여해 준 것이 전부”라고 했다. 이진호가 대부업체에서 빌린 돈도 원금만 13억원에 이르는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이진호는 지난 6월 돈을 갚을 능력이 없는데도 지인에게 수천만 원을 빌린 뒤 갚지 않은 혐의로 고소당했다. 이후 이진호가 채무를 변제했고, 지난달 초 피해자가 고소를 취하하면서 서울 강남경찰서는 해당 사건을 불송치했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>﻿“이진호, 사채 빚만 13억…현재 1인 오피스텔서 생활 중”</title>
       <link>https://www.chosun.com/national/people/2024/10/15/NZNUVSQJFVBLZAF7OLRQBS7DBM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/15/NZNUVSQJFVBLZAF7OLRQBS7DBM/</guid>
@@ -827,15 +840,6 @@
       <description/>
       <pubDate>Mon, 14 Oct 2024 23:49:01 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DUWTBRZITJPFHBCIPK424EAF4U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;코미디언 이진호. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코미디언 이진호가 인터넷 불법 도박 사실을 스스로 밝힌 가운데, 그가 대부업체와 지인들로부터 20억원 넘는 돈을 빌린 것으로 전해졌다.&lt;br&gt;&lt;br&gt;15일 연예계에 따르면 이진호는 동료 연예인들에게 총 10억원가량의 돈을 빌렸고, 따로 대부업체에서 빌린 돈도 13억원이 넘는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이진호는 BTS 지민에게 “급전이 필요하다”며 1억원을 빌렸고, 동료이자 선배 코미디언 이수근에게도 돈을 빌렸다. 특히 이수근의 지인에게도 돈을 빌려 이수근이 대신 변제했다고 한다. 이 밖에도 방송국 임원, PD, 작가들도 비슷한 피해를 당한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;지난 6월 이진호는 돈을 갚을 능력이 없는데도 지인에게 수천만 원을 빌린 뒤 갚지 않은 혐의로 고소당했다. 이후 이진호가 채무를 변제했고, 지난달 초 피해자가 고소를 취하하면서 서울 강남경찰서는 해당 사건을 불송치했다.&lt;br&gt;&lt;br&gt;14일 유튜브 채널 ‘연예뒤통령’에 따르면, 올 초부터 업계에서는 이진호가 불법 도박을 한다는 소문이 빠르게 퍼졌다. 동료 연예인뿐만 아니라 방송 관계자들에게까지 돈을 빌리러 다녔기 때문이다. 강남 사채업자 사이에서도 이진호의 이름이 오르내렸다고 한다.&lt;br&gt;&lt;br&gt;이진호가 불법 도박에 빠지게 된 데에는 투자 실패가 영향을 미쳤다고 한다. 2018~2019년 이진호는 지인이 운영하는 회사에 투자했다. 처음에는 자산 일부를 투자해 돈을 벌었고, 이진호는 자신이 그동안 방송 활동을 하면서 모았던 돈 전액을 이 회사에 투자했다. 지인들에게도 투자를 권유했다.&lt;br&gt;&lt;br&gt;하지만, 이 투자는 실패로 돌아갔다. 이진호와 지인들은 거액의 돈을 모두 날렸다.&lt;br&gt;&lt;br&gt;이후 이진호는 마음을 다잡지 못했다고 한다. 또, 코로나 시국과 맞물리면서 외부 활동 대신 집에만 머물면서 인터넷 도박에 손을 대기 시작한 것으로 전해졌다. 방송 녹화가 끝나면 이진호는 인터넷 도박에만 몰두했고, 그의 지인이라면 한 번쯤은 돈 빌려달라는 얘기를 들을 정도였다.&lt;br&gt;&lt;br&gt;이진호는 유튜버에게 “지금은 도박을 끊었다”며 “피해를 회복할 수 있는 유일한 방법은 내가 방송활동 통해서 돈을 벌어서 갚는 방법밖에 없다. 다른 일을 할 수도 있겠지만 피해 금액을 갚는데 시간이 더뎌지지 않겠나. 기회를 달라”고 요청했다고 한다.&lt;br&gt;&lt;br&gt;현재 이진호는 모든 재산을 처분하고 경기도에 있는 1인 오피스텔에서 생활하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편 이진호는 14일 자신의 소셜미디어에 “2020년 우연한 기회로 인터넷 불법 도박사이트에서 게임을 시작하게 됐고, 감당하기 힘든 빚을 떠안게 됐다”고 밝혔다. 그는 “매월 꾸준히 돈을 갚아 나가고 있고, 앞으로도 죽을 때까지 이 빚은 꼭 제힘으로 다 변제할 생각”이라며 “경찰 조사 역시 성실히 받고 제가 한 잘못의 대가를 치르겠다”고 했다.&lt;br&gt;&lt;br&gt;이진호가 고정 출연했던 JTBC ‘아는 형님’ 측은 “이진호가 다음 촬영부터 하차한다. 기존 촬영분도 최대한 편집할 예정”이라고 했다. 넷플릭스 예능 ‘코미디 리벤지’ 측은 이미 제작이 끝난 만큼 이진호 출연 부분을 그대로 내보내는 방향을 검토 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“잡아먹으려고”... 축 늘어진 개, 아스팔트 위로 질질 끌고 간 노인</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/15/OXCEM7SYMBEF5IVODNGVRQ6RFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/15/OXCEM7SYMBEF5IVODNGVRQ6RFM/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 01:16:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WHWWZHC4WBF7DJKBFU3JP624XY.png"&gt;&lt;figcaption&gt;&lt;small&gt;경기 광주의 시골 마을에서 한 노인이 개를 목줄로 묶고 질질 끌고 가고 있다. /인스타그램 '애니멀디펜더'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 노인이 몸보신을 하기 위해 개를 죽인 후 바닥에 질질 끌고 다니는 모습이 포착됐다.&lt;br&gt;&lt;br&gt;지난 13일 인스타그램 계정 ‘애니멀디펜더’에는 경기 광주의 한 시골 마을에서 한 노인이 축 늘어진 개를 목줄로 묶어 질질 끌고 가는 모습이 담긴 영상이 올라왔다.&lt;br&gt;&lt;br&gt;영상을 보면 제보자의 신고를 받고 출동한 촬영자가 노인에게 “(개를) 왜 죽였냐”고 묻자 노인은 “잡아먹으려고”라고 답했다. 이에 두 사람은 언성을 높이며 말다툼을 벌였다. 촬영자가 개의 상태를 확인하러 다가가니, 이미 숨이 끊겨 미동도 없는 상태였다. 이후 노인은 흉기를 들고 나타나 “성질나니까. 나도 이제 그만 살라고”라고 말하며 위협하기도 했다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “마음이 너무 아프다” “영상도 제대로 못 보겠다. 소름 끼친다” “끔찍하다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;이 노인은 14일 JTBC ‘사건반장’을 통해 “(개가) 갑자기 푹 쓰러져서 죽었다”고 말했다. 하지만 이내 “(지인이) 약으로 해 먹으려고 잡아 달라고 하길래 잡아 주는 건데 중풍 걸려서 (하반신을) 다 못 쓴다”고 고백했다.&lt;br&gt;&lt;br&gt;노인은 “보신탕 해서 개소주 내려 먹으면 낫는다는 속설이 있기 때문에 해 먹는 것”이라며 “그런 상황에서 우리 두 늙은이가 개를 한 마리 잡으려고 했다. 그러니까 이해하고 눈감아 달라”고 했다.&lt;br&gt;&lt;br&gt;당초 제보자가 신고할 때에는 개가 다치긴 했으나 살아있었지만, 촬영자가 도착했을 때는 이미 사망했다고 한다.&lt;br&gt;&lt;br&gt;노인은 동물 학대와 특수협박으로 경찰에 신고당한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편, 2027년 2월7일 개식용 종식법의 본격 시행을 앞두고 있다. 식용 목적의 개 사육·도살·유통·판매 모두 법으로 금지돼 위반 시 처벌된다. 정부는 이를 위한 ‘로드맵’(개식용 종식 기본계획)을 지난달 26일 확정하고, 관련 업계의 전·폐업 이행을 지원하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>칠곡 할매 래퍼 ‘수니와 칠공주’ 서무석 할머니 별세</title>
