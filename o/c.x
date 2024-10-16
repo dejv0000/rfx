@@ -13,6 +13,100 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>﻿한소희, 혜리에게 몰래 악플 달았다?…”본인 부계정 아냐” 의혹 부인</title>
+      <link>https://www.chosun.com/national/people/2024/10/16/YN22M6EOVNGVDEFZ6JYVHHZFVI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/16/YN22M6EOVNGVDEFZ6JYVHHZFVI/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Oct 2024 05:05:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYHG4L4J6NO6PHCUUJXSMOIEAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 한소희가 지난달 25일 오전 서울 용산구 드래곤시티 호텔에서 열린 넷플릭스 시리즈 '경성크리처' 시즌2 제작발표회에서 포즈를 취하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 한소희가 소셜미디어 비공개 계정으로 배우 혜리에게 악플을 달았다는 의혹을 부인했다.&lt;br&gt;&lt;br&gt;16일 다수 온라인 커뮤니티와 소셜미디어 등에서는 혜리 공식 인스타그램 계정에 악플을 단 네티즌 A씨의 계정이 화제가 됐다.&lt;br&gt;&lt;br&gt;A씨는 “느그 언니(류준열 전 여자친구 혜리)랑 류(한소희 전 남자친구 류준열) 합쳐도 (한소희한테) 안 되더라” “애초에 1700만(팔로워)를 채운다고 생각하는 능지(지능이 낮다고 비꼴 때 쓰는 신조어) 수준” “간만에 한소희 때문에 혜리 따봉(좋아요) 수 많이 박혀서 좋았겠다. 지금은 다 빠졌지만” 등 혜리를 깎아내리는 악의적 댓글을 달았다. A씨 계정이 만들어진 건 올해 3월이다. 한소희와 배우 류준열의 열애설이 터지면서 ‘환승연애’ 의혹이 일었던 시기다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AVIKMA4GT5GOPBK4SXTX6I3MJM.png"&gt;&lt;figcaption&gt;&lt;small&gt;배우 혜리 인스타그램에 악플을 단 계정이 배우 한소희의 것이라는 의혹이 불거졌다. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그런데, 이 계정을 한소희와 절친한 사이로 잘 알려진 배우 전종서가 팔로우한다는 점에서 논란이 됐다. 팔로우하는 계정이 19개뿐인 전종서가 자신과 관계없는 악플러를 팔로우할 이유가 없다는 점에서 사실은 A씨가 한소희 아니냐는 의혹이 불거졌다.&lt;br&gt;&lt;br&gt;A씨 계정의 프로필 사진이 토성 사진이라는 점도 한소희 비공개 계정설에 힘을 실었다. 한소희는 이 토성 사진과 동일한 사진을 지난 7월 2일 자신이 직접 운영하는 공식 인스타그램 계정에 올렸다.&lt;br&gt;&lt;br&gt;또한, A씨 계정 아이디에는 고양이(cat)와 영화 어벤저스(Avengers) 단어가 들어가는데, 한소희가 평소 좋아하는 것들로 알려져있다. &lt;br&gt;&lt;br&gt;한소희 측은 사실이 아니라는 입장이다. 한소희 소속사 9아토엔터테인먼트는 공식입장을 통해 “금일 보도된 한소희 배우 관련 언론에 노출된 소셜미디어 계정은 한소희의 부계정이 아님을 알려드린다”고 밝혔다. 전종서 소속사 앤드마크는 “개인 사생활이라 확인하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XICBZDBOVVAMPAJBWBY3TROTO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 한소희(왼쪽)와 전종서. /한소희 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 지난 3월 15일 소셜미디어에 한소희와 류준열이 하와이에서 시간을 보내는 장면이 목격됐다는 글이 퍼졌고, 양측은 열애설이 불거진 지 하루 만에 연인 사이임을 인정했다. 이 과정에서 혜리가 자신의 인스타그램에 “재밌네”라는 글을 올리면서 류준열이 혜리와의 관계를 정리하기 전 한소희와 연인 사이로 발전하는 이른바 ‘환승연애’를 했다는 추측이 나왔다.&lt;br&gt;&lt;br&gt;한소희는 류준열과 혜리가 결별한 이후인 올해 초 두 사람이 가까워졌다며 혜리를 저격하는 듯한 게시물을 올려 거듭 논란이 됐다.&lt;br&gt;&lt;br&gt;혜리는 “제 사소한 행동 하나하나가 어떤 파장을 가져오게 될지 미처 생각하지 못했던 것 같다”며 사과했다. 한소희와 류준열은 3월 말 결별 소식을 전했다. 한소희 측은 “소통의 방법이 옳지 않았고 죄송하다. 어떤 질타도 달게 받겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“지하 주택에 물 차오르면 119에 자동 신고” 서울 종로구 ‘비상벨’ 시범사업 시작</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/16/M6JXLQKQY5HJ7HK6GAJXOWILEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/M6JXLQKQY5HJ7HK6GAJXOWILEE/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Oct 2024 05:04:59 +0000</pubDate>
+      <content:encoded>서울 종로구는 지하 주택 침수 예방을 위해 전국 최초로 119 연계 ‘종로 비상벨’ 시범사업을 시작한다고 16일 밝혔다. 지하 주택에서 재난 안전 사고가 발생했을 때 119가 즉시 출동해 인명 피해를 예방하는 것이다. 종로구는 “소방청, 서울종합방재센터와 함께 사업을 선보일 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIAGVYRZ5JO4DKJUFD7G7FQCUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 오후 서울 종로구 신영동 인근에서 지하주택 종로 비상벨 시연이 진행되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;종로 비상벨은 ‘침수 센서’와 ‘비상벨’로 구성된다. &lt;br&gt;&lt;br&gt;침수 센서는 지하 주택에 경계 단계(2cm) 이상 물이 차오르면 구청, 거주자, 보호자, 동행파트너 등에게 알림 문자를 보낸다. 위험 단계(15cm) 이상 침수되면 자동으로 소방서에 신고한다. &lt;br&gt;&lt;br&gt;거주자가 위급상황에서 비상벨을 누르면 119에서 신고를 받고 양방향 통화 장치로 주민 상태를 확인, 신속하게 출동할 수 있다.&lt;br&gt;&lt;br&gt;종로구는 “기존 침수 방지 시설은 초기 대응에는 적합하지만 비상탈출이나 인명구조에 취약하고, 지하 주택 주민의 대피를 돕는 동행 파트너는 전문적 구조 활동에 한계가 있었다”며 “종로 비상벨은 이를 보완한다는 점에서 의미가 있다”고 했다.&lt;br&gt;&lt;br&gt;이달부터 시범 운영이 시작된다. 효과를 분석한 뒤 2025년부터 확대 시행할 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘배터리 군납 비리’ 에스코넥 직원 영장 심사 당일 숨진 채 발견</title>
+      <link>https://www.chosun.com/national/regional/2024/10/16/KU7CVTBG3RGSDMJV3OWQP5E7IU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/16/KU7CVTBG3RGSDMJV3OWQP5E7IU/</guid>
+      <dc:creator>수원=권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Oct 2024 05:01:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/44FQMUQWNEQB7ZEV2UUC3ZKC4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박순관 에스코넥 대표가 6월 25일 오후 경기 화성 아리셀 공장 화재 현장에서 고개 숙여 사과하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 화성 일차전지 제조업체 아리셀 화재사고 수사 과정에서 배터리 군납 비리가 적발돼 수사를 받아온 모회사 에스코넥 관계자가 구속영장 심사 당일 사망한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;16일 경기 화성서부경찰서에 따르면 이날 오전 11시쯤 화성시 장안면 단독주택에서 에스코넥 관리자급 직원 A씨가 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;A씨는 국방부의 품질검사를 조작해 불량 배터리를 납품한 혐의와 관련해 이날 오전 10시30분 수원지법에서 구속 전 피의자 심문(영장실질심사)을 받을 예정이었다. 그러나 법원에 나오지 않고 연락이 닿지 않자 소재 확인에 나선 경찰에 발견됐다.&lt;br&gt;&lt;br&gt;아리셀 화재 사고를 수사하던 경찰은 아리셀이 2021년 군납을 시작할 당시부터 품질검사를 조작해 올해 2월까지 47억원 상당을 납품한 정황을 포착했다. 에스코넥도 2017∼2018년 국방부에 전지를 납품할 당시 시험데이터를 조작하는 수법으로 품질검사를 통과한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이에 따라 경찰은 아리셀과 에스코넥의 전현직 임직원 24명을 형사 입건해 조사해왔으며, 이 가운데 혐의가 무거운 A씨 등 3명에 대해 지난 10일 사전구속영장을 신청했다. &lt;br&gt;&lt;br&gt;법원은 이날 A씨를 제외한 2명에 대해서만 실질심사를 진행했다. 이들의 구속 여부는 오후 늦게 나올 전망이다.&lt;br&gt;&lt;br&gt;한편 아리셀 박순관 대표와 박중언 총괄본부장은 지난 6월 24일 아리셀 공장에서 불이 나 근로자 23명이 숨지고 8명이 다친 화재 사고와 관련해 구속 기소된 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 통일부 압수수색…이스타 ‘방북 전세기’ 특혜 의혹 수사</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/16/PVSS52PIBNF2VDODIOENUETIPM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/16/PVSS52PIBNF2VDODIOENUETIPM/</guid>
+      <dc:creator>전주=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Oct 2024 04:59:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V4XKXZCUW257ROLSDALZ5XT76U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;통일부 내부 모습. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 전 대통령의 전 사위 서모(44)씨의 ‘타이이스타젯 특혜 채용’ 의혹을 수사 중인 검찰이 통일부를 압수수색하고 있다. &lt;br&gt;&lt;br&gt;전주지검 형사3부(부장 한연규)는 지난 14일부터 통일부 남북관계관리단(옛 남북회담본부)을 압수수색 해 ‘남북 평화 협력 기원 남측 예술단’ 전세기 선정과 관련한 증거물을 확보하고 있다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;문재인 정부 당시 통일부는 우리 예술단의 방북 전세기로 이스타항공을 선정했다. 이상직 전 더불어민주당 의원이 만든 이스타항공은 2018년 3월 29일과 31일 평양으로 가는 ‘남북 평화 협력 기원 남측 예술단’을 특별전세기로 실어날랐다.&lt;br&gt;&lt;br&gt;당시 대형 항공사가 아닌 이스타항공을 선정한 것과 관련해 특혜 의혹이 제기됐었다. &lt;br&gt;&lt;br&gt;검찰은 이런 의혹을 밝히기 위해 방북 전세기 선정 과정에 대한 증거물을 확보하고 있다. 앞서 검찰은 이달 초 조명균 전 통일부 장관의 주거지 등에 대한 압수수색도 진행했다.&lt;br&gt;&lt;br&gt;검찰은 문재인 전 대통령과 이상직 전 의원의 관계에 수사력을 집중하고 있다. 검찰은 2018년 3월 이상직 전 의원이 중소벤처기업진흥공단(중진공) 이사장에 임명되는 과정에 청와대가 관여한 것으로 보고 있다. 이 전 의원은 중진공 이사장에 임명된 직후 문 전 대통령 사위였던 서씨를 자신이 사실상 소유하고 있는 태국 저비용 항공사 타이이스타젯에 전무이사로 채용하고, 중진공 직원들을 동원해 서씨 가족이 태국에서 정착하도록 도운 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰은 문 전 대통령 가족을 지원한 것이 중진공 이사장 임명에 대한 대가인지 여부를 집중 조사 중이다. 이 전 의원이 창업한 이스타항공도 방북전세기 선정 등 각종 혜택을 받은 것으로 의심하고 있다. 검찰은 2019년 이스타항공이 관광 수요가 많은 중국, 싱가포르 등 여러 알짜배기 노선 운항권을 국토교통부로터 배분받은 과정도 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>음주 차량, 하필 울타리 뚫고 경찰청 주차장에 추락</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/16/RDTDSEYSTRAOTCFGAMOFV5HVZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/RDTDSEYSTRAOTCFGAMOFV5HVZM/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Oct 2024 04:57:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VRNIGJHKMZLTRC5HK6FMPAPKYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 15일 밤 울산경찰청 주차장으로 추락해 전복된 음주 운전자 차량. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만취 상태의 운전자가 운전하던 차량이 하필 경찰청 주차장에 추락하는 사고가 발생했다.&lt;br&gt;&lt;br&gt;16일 울산경찰청에 따르면 전날 음주운전을 하다 울산경찰청 주차장에 추락한 50대 남성 A씨를 도로교통법 위반 혐의로 불구속 입건했다.&lt;br&gt;&lt;br&gt;A씨는 전날 밤 오후 10시 32분쯤 음주상태로 차를 몰다 가로수와 울타리를 들이받고 울산경찰청 주차장으로 4m가량 추락했다.&lt;br&gt;&lt;br&gt;운전자 A씨는 사고 후 스포츠 유틸리티(SUV) 차량에서 스스로 빠져나와 횡설수설하며 서성거리고 있었다. A씨는 크게 다치지는 않은 상태였다. 음주측정 결과 A씨의 혈중알코올농도는 0.153%로 면허취소 수치였다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 만취 상태로 오르막길을 운전하다가 울산경찰청 청사 울타리를 뚫고 진입해 4m 아래 주차장으로 추락한 것으로 보고 있다. 경찰은 A씨를 상대로 정확한 사고 경위를 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전동킥보드 타고 가다 노인 친 20대... 벌금 500만원 선고</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/16/4MWMYWN43JGSRGD7CYEDTZIEPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/16/4MWMYWN43JGSRGD7CYEDTZIEPQ/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Oct 2024 04:47:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OT2D7AV5P4VWHYEM5Z5C5IMQSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전동킥보드를 타고 가다 70대 노인을 치어 다치게 한 20대 여성에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;인천지법 형사17단독 김은혜 판사는 교통사고 특례법상 치상 혐의로 기소된 A씨에 벌금 500만 원을 선고했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 7월 2일 오후 7시 27분쯤 인천시 서구 일대에서 전동킥보드를 타고 가다가 B(여‧72)씨를 치어 다치게 한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 당시 시속 10㎞의 속도로 전동킥보드를 몰다 사고를 낸 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨의 전동킥보드에 치인 B씨는 외상성 뇌출혈로 병원에 이송돼 전치 8주의 진단을 받았다.&lt;br&gt;&lt;br&gt;재판부는 “피해자가 입은 상해의 정도가 가볍지 않고, 피고인이 피해자와 합의하기 위해 진지한 노력을 다한 바가 없다”며 “다만 피고인이 가입한 보험회사를 통해 피해자에게 치료비가 지급된 점, 잘못을 반성하고 있는 점, 초범인 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>던져둔 마약 찾으러…남의 아파트 양수기함 뒤진 30대 여성 체포</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/16/NPKVXN3IT5E75MZMFFMCTSUTMM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/NPKVXN3IT5E75MZMFFMCTSUTMM/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Oct 2024 04:32:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ELNA6BGCKDKNLLFPIFELT6664M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 송파경찰서. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;던지기 수법으로 마약을 전달받으려 남의 아파트 양수기함을 뒤지던 30대 여성이 경찰에 검거됐다.&lt;br&gt;&lt;br&gt;서울 송파경찰서는 마약류관리법 위반과 건조물침입 혐의로 30대 여성 A씨를 현행범으로 체포해 조사 중이라고 16일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 14일 밤 서울 송파구의 한 아파트 양수기함에 숨겨져 있던 필로폰을 가져가려다 주민 신고로 경찰에 적발됐다. 경찰은 범행 현장에서 필로폰 소량을 발견했다. A씨는 마약 간이시약 검사에서 필로폰 양성 반응이 나왔다고 한다.&lt;br&gt;&lt;br&gt;경찰은 지난 15일 A씨에 대해 구속영장을 신청하는 한편, 마약 판매자에 대한 추적에 나섰다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/DFFUB77XMGEZBBZOVQMFAO32TE.jpg?width=600&amp;height=449&amp;auth=a1d08b5e851caccc1ffca3dd83000a3735145d1992492aa6b31dda1fea4ce1e0&amp;smart=true" type="image/jpeg" height="449" width="600">
+        <media:description type="plain">서울 송파경찰서</media:description>
+        <media:credit role="author" scheme="urn:ebu">위키피디아</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>홍명보, 야유 사라졌단 말에 웃으며 “이유 모르겠다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/16/2OQLWMZLLBF6XFDRQ3GOQK5YLE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/2OQLWMZLLBF6XFDRQ3GOQK5YLE/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Oct 2024 04:44:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI72KWRHVVFPXNTCBOMY44XFOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍명보 감독이 15일 야유가 사라졌다는 질문을 받고 웃고 있다. /엠빅뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;월드컵 3차 예선 이라크전에서 승리한 홍명보 한국 축구대표팀 감독이 기자회견에서 오래간만에 웃는 모습을 보였다.&lt;br&gt;&lt;br&gt;홍명보 감독은 15일 경기도 용인 미르스타디움에서 열린 경기 후 가진 기자회견에서 “오늘 아주 좋았던 게, 후반전 교체로 들어간 선수들이 팀을 위해 헌신하는 모습이었다”면서 “그런 점들이 팀에 자리 잡아 가고 있다. 우리가 어떤 식으로 나아가야 하는지 선수들이 알아나가는 과정에 있다”고 평가했다.&lt;br&gt;&lt;br&gt;앞서 지난달 5일 서울월드컵경기장에서 열린 월드컵 3차 예선 팔레스타인전에서는 관중들이 홍명보 감독에게 야유를 쏟아낸 바 있다. 대표팀 감독 선임 과정에서 ‘특혜 논란’이 불거졌기 때문이다. 결국 한국 대표팀(FIFA랭킹 23위)은 팔레스타인(96위)과 0대0으로 비겼다.&lt;br&gt;&lt;br&gt;홍명보 감독은 ‘이번 홈경기 때는 야유가 없었다’는 질문에는 “그 이유는 제가 잘 모르겠다”고 답하며 웃었다.&lt;br&gt;&lt;br&gt;한국 대표팀은 이날 이라크를 3대2로 꺾으면서 오만, 요르단전에 이어 3연승을 거뒀다.&lt;br&gt;&lt;br&gt;홍명보 감독은 “오늘이 어떻게 보면 올해 가장 중요한 경기였다고 생각한다”며 “승리해서 기쁘고, 승리를 가져온 선수들을 축하해주고 싶다. 짧은 시간 동안 우리 선수들이 보여준 모습은 굉장히 좋았다”고 말했다.&lt;br&gt;&lt;br&gt;한편 앞서 대한축구협회는 위르겐 클린스만 전 감독과 결별한 뒤 5개월간 새 감독을 물색하다가 지난 7월 홍명보 감독을 대표팀 사령탑으로 선임했다. 이 과정에서 다수의 외국인 감독이 한국 축구 대표팀 사령탑 자리를 원했음에도 뚜렷한 이유 없이 홍명보 감독에게 지휘봉을 맡겼다는 사실이 알려져 논란이 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, 만취해 경찰 폭행·모욕한 초임 검사에 징역 10개월 구형</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/16/FEYGXXP2NND4XJFJMMYYB2M24M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/FEYGXXP2NND4XJFJMMYYB2M24M/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Oct 2024 04:41:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBIS5H2QF6WUCBMPWKJEMHLQ6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 양천구 서울남부지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만취 상태로 경찰관을 폭행하고 모욕한 혐의를 받는 초임 검사가 첫 재판에서 혐의를 인정했다. 검찰은 해당 검사에세 징역 10개월을 구형했다.&lt;br&gt;&lt;br&gt;서울남부지법 형사4단독 장민석 판사는 16일 공무집행방해, 모욕 등 혐의로 재판에 넘겨진 수원지검 소속 심모(29) 검사에 대한 첫 공판을 열었다.&lt;br&gt;&lt;br&gt;심 검사 측 변호인은 “혐의를 전부 인정하고 증거에 모두 동의한다”고 했다. 심 검사는 “당시 만취했었냐”는 장 판사의 질문에 “만취했었다”며 인정했다.&lt;br&gt;&lt;br&gt;이날 검찰은 “피고인은 형사처벌 전력이 없고 범행을 반성하고 있으나 고위공직자로서 일반 국민의 신뢰를 저버리고 현장에서 애쓰는 경찰들에게 유형력을 행사한 점에 대해 준엄한 법의 심판이 있어야 한다”며 심 검사에 대해 징역 10개월을 구형했다.&lt;br&gt;&lt;br&gt;심 검사는 최후 진술에서 “대한민국 안전을 지키기 위한 경찰 분들의 노고를 알면서도 경찰관의 자부심을 모독하게 돼 입이 열 개라도 죄송하다”며 “앞으로 이런 일이 반복되지 않도록 하겠다. 피해 경찰들이 입은 피해를 회복하도록 노력하겠다”고 선처를 호소했다.&lt;br&gt;&lt;br&gt;또한 심 검사 측 변호인은 “(피고인은) 사건 이후 잘못을 인정하고 후회의 나날을 보내고 있다”면서도 “범행 당시 (술에 취해) 사리 분별이 어려울 정도였다. 신체가 제약 받는다고 느끼고 본능적으로 몸부림치는 과정에서 벌어진 일”이라고 주장했다.&lt;br&gt;&lt;br&gt;심 검사는 지난 4월 밤 서울 영등포구의 한 놀이터에서 술에 취한 채 누워있던 중, 신고를 받고 출동한 경찰관의 얼굴 등을 주먹으로 폭행한 혐의를 받는다.&lt;br&gt;&lt;br&gt;그는 지난해 변호사시험에 합격한 초임 검사로 사건 직후 파출소에 연행된 후에도 경찰관에게 저항하며 물리력을 행사한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;심 검사는 지난해 9월 임관해 속칭 스카이(SKY·서울·연세·고려대)급 법학전문대학원을 졸업한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, ‘자리 대가 돈거래 의혹’ 서울개인택시조합 압수수색</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/16/5QXCZLXA5NEJJGWTDISDOY3FXQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/5QXCZLXA5NEJJGWTDISDOY3FXQ/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Oct 2024 04:17:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 조합 임원 자리를 대가로 돈거래를 했다는 의혹을 받는 서울개인택시운송사업조합에 대해 강제 수사에 나섰다.&lt;br&gt;&lt;br&gt;16일 서울경찰청 형사기동대는 이날 오전 서울 송파구 신천동의 조합 본사 사무실 등을 압수수색했다고 밝혔다.&lt;br&gt;&lt;br&gt;서울개인택시운송사업조합 이사장 차모 씨 등은 조합 이사와 감사 등 직책을 대가로 수백만 원에서 수천만 원 상당의 금품을 받았다는 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;서울개인택시운송사업조합은 5만명에 달하는 서울 개인택시 기사들 대부분이 소속된 직능단체다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>한국 노인 10명 중 8명 “70은 넘어야 노인”...경로당 이용 줄고, 스마트폰 이용 늘어</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/10/16/LLFGOY36DVBGJA5SAVZF23FBNI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/16/LLFGOY36DVBGJA5SAVZF23FBNI/</guid>
@@ -790,15 +884,6 @@
       <content:encoded>김건희 여사의 ‘도이치모터스 주가 조작 연루 의혹’을 수사 중인 서울중앙지검이 내일(16일) 오후 2시 서울중앙지검 청사에서 ‘레드팀 회의’를 열고 김 여사 처분 방향에 대해 논의한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A2Y4VPJPDZMJZGJJD2BVXHHV5Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사가 지난 6일 오전 경기 성남 서울공항에서 한·아세안(ASEAN) 정상회의 참석차 출국하기 위해 공군 1호기에 올라 인사하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내일 오후 소집되는 레드팀 회의에는 수사팀을 지휘하는 4차장 검사를 뺀 1·2·3 차장검사가 ‘레드팀’으로 합류, 수사 내용에 허점이 없는지 검증할 것으로 알려졌다. 여기에 각 차장검사 산하 선임급 부장검사 1~2명과 평검사, 인권보호관 등 총 15명이 레드팀으로 수사팀의 결론을 검토하게 된다.&lt;br&gt;&lt;br&gt;서울중앙지검 반부패수사2부(부장 최재훈)는 회의 결과를 바탕으로 최종 검토를 거친 뒤 17일 최종 결론을 내릴 전망이다. 법조계에선 검찰이 김 여사를 무혐의 처분할 것이란 전망이 우세하다.&lt;br&gt;&lt;br&gt;일각에선 이번 사건을 ‘디올백 수수 사건’처럼 검찰 수사심의위원회에 회부해야 한다는 의견도 나왔지만, 수사팀은 수사심의위 대신 레드팀 회의와 외부 의견 수렴 등을 거쳐 자체적인 결론을 내린다는 방침이다. 이 사건으로 수사심의위를 신청할 수 있는 사건 관계인이 김 여사밖에 없다는 점도 수사심의위 개최의 걸림돌로 꼽힌다.&lt;br&gt;&lt;br&gt;레드팀은 아군 중 일부가 가상의 적군으로 활동하면서 취약점을 파악하기 위해 아군을 모의 공격하는 것을 일컫는 군사 용어다. 검찰은 과거에도 주요 사건 처분 전 레드팀을 활용해 결론에 문제가 없는지 검토한 적이 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘北 위협’ 경기도, 파주·연천·김포 ‘위험구역’ 설정</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/15/R4FRUP5ABJG3NOO2M6SIWOT23Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/15/R4FRUP5ABJG3NOO2M6SIWOT23Y/</guid>
-      <dc:creator>수원=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 07:39:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZW3JXYOMK27R3RLE6O4E35R6J4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도청 전경. /경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한의 대남 위협 수위가 높아지고 있는 가운데 경기도가 대북전단 살포를 방지하기 위해 파주시, 김포시, 연천군 3개 시군, 11곳을 ‘위험구역’으로 설정했다.&lt;br&gt;&lt;br&gt;김성중 경기도 행정1부지사는 15일 오후 기자회견을 열고 “남북관계가 급격하게 경색됨에 따라 접경지역 주민들의 생명과 안전이 위협받는 엄중한 상황”이라며 이같이 발표했다.&lt;br&gt;&lt;br&gt;이어 “북한이 8개 포병여단에 완전사격 준비태세 예비 지시를 하달하는 등 군사적 움직임까지 포착되고 있고 대북 전단을 살포할 경우 포격할 가능성을 배제할 수 없다”면서 “경기도는 대북전단 살포 행위가 군사적 충돌을 유발시킬 수 있는 위험천만한 위기조장 행위로 판단했다”고 설명했다.&lt;br&gt;&lt;br&gt;이번 위험구역 설정은 최근 북한의 오물풍선이 증가하고, 여기에 무인기 평양 침투를 주장하는 북한의 위협에 따른 경기도 차원의 대응 조치다.&lt;br&gt;&lt;br&gt;도는 위험구역으로 설정된 지역에 특별사법경찰단을 투입해 대북전단 살포 행위를 강력히 단속한다는 방침이다. 현행 사법경찰직무법은 위험구역에서 금지 또는 제한된 행위를 위반할 경우 형사입건해 수사하도록 하고 있다.&lt;br&gt;&lt;br&gt;앞서 김동연 지사는 지난 14일 국회 행정안전위원회의 경기도 국정감사에서 " 연천·포천·파주·김포·고양 전 지역에 대한 위험구역 설정을 검토하라고 지시했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>60대 노동자, 공사 현장에서 굴착기 끼여 사망</title>
       <link>https://www.chosun.com/national/incident/2024/10/15/FHHUF4POOVD3JGFNXPH7K4ZUDE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/15/FHHUF4POOVD3JGFNXPH7K4ZUDE/</guid>
@@ -841,24 +926,6 @@
 &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>검찰, ‘의료계 블랙리스트’ 유포 전공의 구속 기소</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/15/R2JAH27KIVBLZJHLSJMPNU7XEU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/15/R2JAH27KIVBLZJHLSJMPNU7XEU/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 07:07:17 +0000</pubDate>
-      <content:encoded>의료계 집단행동에 동참하지 않는 의사·의대생 1100여명의 이름이 담긴 이른바 ‘의료계 블랙리스트’ 명단을 인터넷과 메신저 등에 게시한 사직 전공의가 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울중앙지검 공공수사3부(부장 김태훈)는 15일 사직 전공의 정모씨를 스토킹범죄처벌법 위반 혐의로 구속 기소했다. 정씨는 ‘의료계 블랙리스트’ 명단을 ‘감사한 의사’라며 의사 커뮤니티 메디스태프와 텔레그램 등에 총 26차례 게시한 혐의를 받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7TML75FHER4ZAXB25FXEM6AINY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의료계 집단행동에 동참하지 않은 의사·의대생의 신상 정보가 담긴 블랙리스트 '감사한 의사'를 유포한 사직 전공의 정모씨가 지난달 20일 서울중앙지법에서 열린 영장실질심사를 마친 뒤 경찰과 함께 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정씨가 게시한 명단에는 의료계 집단행동에 참여하지 않은 전공의·전임의·의대생 등 1100여명의 소속 병원, 진료과목, 대학, 이름 등 개인정보가 담겨 있었다.&lt;br&gt;&lt;br&gt;앞서 정씨를 수사하던 서울경찰청 사이버수사대는 지난달 12일 정씨에 대해 구속영장을 신청했고, 서울중앙지법 남천규 영장전담 부장판사는 지난달 20일 “증거를 인멸할 염려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;검찰은 “이번 사건은 의료계 내 집단행동에 참여하지 않은 피해자들의 개인정보를 온라인상에 배포해 집단적으로 조롱, 멸시의 대상이 되도록 한 범행”이라면서 “온라인 스토킹의 전형적인 모습을 띠고 있다”고 했다. 이어 “공소유지에 만전을 기하는 한편 유사·모방범죄 및 각종 불법 행위에 엄정 대응할 것”이라고 했다.&lt;br&gt;&lt;br&gt;정씨는 법률대리인을 통해 “제가 작성한 글로 인해 피해를 입은 모든 분들께 죄송하다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹, 대학 수시 관리 부실 논란에 경위 파악·책임자 문책 지시</title>
-      <link>https://www.chosun.com/politics/politics_general/2024/10/15/5RFDWWK3X5E57MQ372JNGQBFUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/politics_general/2024/10/15/5RFDWWK3X5E57MQ372JNGQBFUQ/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 06:54:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OSLMNVBTMQIYKJCEVTQTM7AUUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 15일 서울 용산 대통령실 청사에서 열린 국무회의를 주재하고 있다./대통령실 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연세대·한성대 등 일부 대학이 수시 시험 관리 부실로 논란을 빚은 데 대해 윤석열 대통령이 15일 경위 파악과 책임자 문책을 지시했다.&lt;br&gt;&lt;br&gt;대통령실은 “윤 대통령이 이날 오전 용산 대통령실에서 열린 국무회의에서 최근 대학 수시 모집 과정에서 일부 대학의 시험 관리 부실과 관련해 이주호 부총리 겸 교육부 장관에게 경위 파악을 당부했다”고 밝혔다. 윤 대통령은 이 부총리에게 “책임자는 철저히 문책하고, 사태가 재발하지 않도록 엄정하게 조치하라”고 지시한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘의료용 마약류 수수’ 오재원 세 번째 기소</title>
       <link>https://www.chosun.com/national/court_law/2024/10/15/B2VGZ3YB7RBGBM7HJNMZVFUURE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/15/B2VGZ3YB7RBGBM7HJNMZVFUURE/</guid>
@@ -866,69 +933,6 @@
       <description/>
       <pubDate>Tue, 15 Oct 2024 07:39:41 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZCGQ6ENCQZA7HNZZRL6UXEQDOI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;마약 투약 혐의로 구속된 전직 프로야구 선수 오재원. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;필로폰 투약 혐의로 구속돼 재판을 받고 있는 전 국가대표 야구선수 오재원(39)씨가 마약 수수 혐의로 추가로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울중앙지검 강력범죄수사부(부장 김보성)는 15일 마약류 관리에 관한 법률 위반(향정) 혐의로 오씨를 불구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;오씨는 2021년 5월부터 지난 3월까지 야구선수 등 14명으로부터 총 86회에 걸쳐 스틸녹스 2253정, 자낙스 112정 등 의료용 마약류인 수면제 2365정을 수수한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;자신의 명의로 처방받아 오씨에게 수면제 등을 건넨 14명 중 황모씨와 김모씨 등 전·현직 야구선수는 약식기소됐고, 죄질이 가벼운 3명은 보호관찰소 선도조건부 기소유예, 9명은 교육조건부 기소유예 처분을 받았다.&lt;br&gt;&lt;br&gt;검찰은 수사 결과 오씨가 야구단 주장과 선배라는 지위를 이용해 20대 초·중반 또는 1·2군을 오가는 선수 등에게 수면제를 처방해달라고 요구했고, 이 과정에서 욕설과 협박도 있었다고 했다.&lt;br&gt;&lt;br&gt;오씨가 재판에 넘겨지는 것은 이번이 세 번째이다. 우선 2022년 11월부터 지인 하모씨와 1년여 간 필로폰을 11차례 투약하고, 작년 4월에 지인의 아파트 복도 소화전에 필로폰 약 0.4g을 보관한 혐의로 지난 4월 구속 기소됐다. 자신의 필로폰 투약 신고를 막기 위해 하씨의 휴대전화를 망치로 부수고, 하씨를 협박한 혐의 등도 적용됐다. 작년 1월부터 올 3월까지 지인 9명으로부터 89차례에 걸쳐 스틸녹스정 2242정을 수수하고, 또 다른 지인 명의를 도용해 스틸녹스정 20정을 산 혐의도 받았다. 지난 7월 1심에서 징역 2년 6개월을 선고받았다.&lt;br&gt;&lt;br&gt;오씨는 지난 5월에는 지인 이모씨로부터 필로폰 약 0.2g을 수수한 혐의로 추가 기소됐다. 검찰은 지난 10일 결심 공판에서 징역 4개월을 구형했고, 오는 24일 1심 선고가 있다.&lt;br&gt;&lt;br&gt;오씨는 2007년부터 2022년까지 16년간 프로야구 두산 베어스에서 선수 생활을 했다. 2014년 인천 아시안게임, 2015년 프리미어12, 2017년 월드베이스볼클래식(WBC)에 국가대표로 출전하기도 했다.  은퇴 후에는 해설위원으로 활동했지만 ‘코리안 특급’ 박찬호 비난 발언 등이 논란이 돼 하차했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>연세대, 논술시험 문제 유출 관련 입장 발표... “공정성 훼손 없었다”</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/13/GIQBPODG7ZHVBJG72P7CMHJTBU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/13/GIQBPODG7ZHVBJG72P7CMHJTBU/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 13 Oct 2024 13:40:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B4S2JN63HZHKXOVNNSYNZZIIY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연세대 신촌캠퍼스 전경. /연세대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연세대가 수시 모집 자연계열 논술 고사 도중 수학 시험 문제가 인터넷에 유출됐다는 의혹을 부인하는 내용의 공식 입장을 13일 오후 발표했다.&lt;br&gt;&lt;br&gt;연세대 입학처는 이날 홈페이지에 입장문을 내고 “수시모집 자연 계열 논술시험 고사장 한 곳에서 감독관의 착오로 인하여 정해진 시간 이전에 문제지가 배부됐다”면서도 연습지 아래에 문제지를 놓도록 해 수험생이 시험 시작 이전에 문제를 볼 수 없었다고 해명했다. 이어 “감독관이 문제지 배부 직후 시험 시각을 착각한 것을 인지하여 문제지를 직접 회수했다”며 배부부터 회수까지 모든 문제지는 연습지에 의해 가려진 상태여서 학생들은 문제를 볼 수 없었다고 밝혔다.&lt;br&gt;&lt;br&gt;입학처는 “문제지가 배부되기 전에 통신이 가능한 전자기기는 전원을 끈 상태로 가방에 넣도록 해 최초 문제지가 배부된 시점부터 회수 전까지 학생들이 해당 문제를 직접 온라인으로 공유할 수 없었다”며 시험 도중 촬영된 것처럼 인터넷에서 공유된 문제지는 시험 종료 이후 답안지를 수거하는 과정에서 불법적으로 촬영된 것이라고 설명했다.&lt;br&gt;&lt;br&gt;또 시험 시작 전 감독관이 문제지의 매수, 파본 등을 확인하는 과정에서 일부 학생이 문제지 속 도형을 봤다는 주장에 대해 “시험 시작 전에 문제지가 배부된 사안과 무관한 부분”이라며 “사실상 그 도형이 있다는 인상을 인지하였다고 하더라도 문제를 적시할 수 없으므로 공정성을 해치는 정보가 아니다”라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “문제지가 사전에 직접 유출되었다는 일부 언론의 보도는 사실과 다르고, 논술 시험의 공정성을 훼손시킬 만한 행위는 파악되지 않았다”며 “개인 감독관의 실수로 초래된 사건이지만 별도의 위원회를 구성하여 현 단계에서 파악하지 못한 입시의 공정성을 해치는 일이 있었는지 조사할 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;입학처는 “필요하다면 경찰 등 사법당국에 조사를 의뢰하여 한 치의 의혹도 없게 하겠다”며 “부정한 사실이 발견되면, 관련 규정에 따라 공정하게 처리할 방침”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘친구 모친상’ 문자 누르자 좀비폰 감염...연락처·금융정보 다 털렸다</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/15/VEJLOXHFFJFYXHGDHGI3CTICK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/15/VEJLOXHFFJFYXHGDHGI3CTICK4/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 07:09:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H6OQRBUJK5EBVEQO6LPXRBOWTE.png"&gt;&lt;figcaption&gt;&lt;small&gt;좀비폰 메신저를 이용한 실제 범행 대화 내용. /KISA&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘8월 22일 어머니가 심장마비로 22시에 돌아가셨습니다. 빈소 http://***.***.’&lt;br&gt;&lt;br&gt;스미싱(악성 앱 설치 등을 유도하는 사기 수법) 피해자 휴대전화에 저장된 연락처로 청첩장이나 부고 문자 등 지인을 사칭한 미끼 문자를 발송하는 수법이 기승을 부리고 있다. 정부는 “출처가 불분명한 인터넷 주소를 통해 앱 설치를 해서는 안 된다”고 당부했다.&lt;br&gt;&lt;br&gt;15일 경찰청, 과학기술정보통신부, 한국인터넷진흥원(KISA)에 따르면 최근 스미싱 범죄는 피해자의 휴대전화에 악성 앱을 심어 속칭 ‘좀비폰’을 만든 뒤 휴대전화 연락처 목록에 있는 지인들에게 미끼문자를 대량 유포해 추가 피해자를 양산하는 행태를 보인다.&lt;br&gt;&lt;br&gt;실제로 KISA에서 탐지한 미끼문자 신고·차단 현황에 따르면, 올해 1월부터 9월까지 전체 미끼문자 109만 건 중 청첩장·부고장 등 지인 사칭형 문자는 총 24만여 건이다. KISA는 “탐지되지 않은 실제 유포량은 더 많을 것으로 추정된다”며 “상당수 국민의 휴대전화가 본인도 모르는 사이에 좀비 폰 상태로 남아 있을 가능성이 크다”고 했다.&lt;br&gt;&lt;br&gt;KISA가 확인한 최근 스미싱 수법은 다음과 같다. 먼저 1차 피해자는 모르는 번호로 발송된 부고장이나 교통 범칙금 등을 가장한 미끼문자를 받고, 장례식장 위치 등을 확인하기 위해 문자 내에 기재된 링크를 누르게 된다.&lt;br&gt;&lt;br&gt;그 링크를 누르면 악성 앱이 설치돼 휴대전화 내 연락처, 통화목록, 사진첩 등 모든 개인·금융정보가 탈취된다. 이를 이용해 휴대전화 소액결제나 오픈뱅킹을 통한 계좌이체 등 피해가 발생하게 된다.&lt;br&gt;&lt;br&gt;스미싱 일당은 여기서 그치지 않고 악성 앱에 감염된 휴대전화를 원격 조종해 연락처 목록에 있는 지인들에게 똑같은 미끼문자를 대량으로 유포한다.&lt;br&gt;&lt;br&gt;KISA는 “이렇게 유포된 미끼문자는 모르는 번호가 아닌 평소에 알고 지내던 사람의 전화번호로 발송되기에 지인들이 별다른 의심 없이 문자 속에 있는 링크를 눌러 같은 피해를 보기 쉽다”고 했다.&lt;br&gt;&lt;br&gt;범인들은 1차 피해자의 메신저 계정도 원격 조종한다. 연락처 목록에 있는 지인들에게 ‘거래처에 급히 돈을 보낼 일이 있는데 50만원만 빌려주면 이자를 보태서 내일 바로 갚겠다’라는 식으로 속여 2차 피해까지 입힌다는 것이다. 특히 스미싱 일당은 기존 대화 내용을 토대로 지인 사이에서만 알 수 있는 내용을 언급하면서 접근하기 때문에 범죄임을 의심하기 어려워 피해로 이어질 가능성이 매우 크다고 한다.&lt;br&gt;&lt;br&gt;KISA는 이같이 고도화한 수법의 범죄를 예방하기 위해서는 스미싱 여부를 확인할 수 있는 서비스인 ‘보호나라’를 이용하라고 권고했다. 카카오톡 채널의 보호나라를 친구로 추가해 의심스러운 문자·카카오톡 메시지를 복사해 보내면, ‘악성’과 ‘정상’ 여부를 판단해준다.&lt;br&gt;&lt;br&gt;또 출처를 알 수 없는 앱이 함부로 설치되지 않도록 스마트폰 보안 설정을 하고(보안위험 자동차단 활성화) 대화 상대방이 개인·금융정보 또는 금전을 요구하거나 앱 설치를 요구하면 반드시 전화나 영상통화 등으로 상대방을 정확히 확인하는 편이 좋다.&lt;br&gt;&lt;br&gt;경찰청 관계자는 “초기 악성 앱은 정보를 탈취하는 기능 위주였으나 최근에는 휴대전화를 원격 조종하는 기능까지 추가될 정도로 진화했다”며 “좀비폰 상태로 남아 있으면 범인들이 언제든지 조종해 가족·지인에게까지 피해가 발생할 수 있으므로 휴대전화 보안 상태 점검을 생활화해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“보쌈시켰더니 비곗덩어리만”... 환불 대신 1점 리뷰 남긴 사연</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/15/WPGE5QJPCFDJZDGHQAYVKHIYVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/15/WPGE5QJPCFDJZDGHQAYVKHIYVM/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 07:34:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IP5D7WYLJBEAZOJAUKVPO6TNZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;포장 주문해서 받은 보쌈의 대부분이 비계로 이루어져 있는 모습./에펨코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;포장 주문한 보쌈에 비계가 지나치게 많이 섞여 배달앱에 별점 1점 리뷰를 남겼다는 사연이 전해졌다.&lt;br&gt;&lt;br&gt;지난 14일 한 온라인 커뮤니티에 ‘이렇게 보쌈 와서 강하게 리뷰 남겼다’는 제목의 글과 함께 사진 여러 장이 올라왔다.&lt;br&gt;&lt;br&gt;작성자 A씨는 “위에 3~5점 정도는 괜찮아서 먹었는데 밑에는 비곗덩어리만 나왔다”며 “화나서 강하게 리뷰를 남겼다”고 했다.&lt;br&gt;&lt;br&gt;A씨가 공개한 사진 속 보쌈은 남은 7~8점의 절반 이상이 살코기를 거의 찾아볼 수 없을 만큼 하얀 비계의 비중이 높아 보였다.&lt;br&gt;&lt;br&gt;A씨는 환불을 요청하는 대신 주문한 배달앱에 별점 1점의 리뷰를 남겼다고 한다. A씨는 “원래 이렇게 살은 없고 비곗덩어리만 있는 거냐. 먹지 못하고 전부 버렸다. 다시는 주문하지 않을 것 같다”고 리뷰를 남겼다.&lt;br&gt;&lt;br&gt;A씨는 환불 요청을 하지 않은 이유에 대해 이미 윗부분에 있던 3~5점 정도를 먹은 점을 고려했다고 했다. A씨에 따르면 이 음식점은 보쌈 전문 가게가 아니며, 사이드로 주문한 보쌈이다.&lt;br&gt;&lt;br&gt;그는 “밑에 있는 비계 보쌈을 보고 너무 화났지만, 방문 포장이고 거리가 거리인 만큼 다시 가기도 귀찮다”라며 “한 끼에 15000원이 남들에게는 적은 금액일 수도 있겠지만, 학생인 나로서는 이런 음식을 받고 너무 화나서 글을 쓰게 됐다”고 추가로 댓글을 남겼다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “비계가 많은 건 실수일 수 있지만 비계를 밑 부분에 깔았다는 거에 인류애가 사라지는 기분이다” “불판 닦는 고기를 잘못 보낸 것 아니냐” “아무리 비계를 좋아한다고 해도 저건 심하다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천 호텔 엘리베이터 12층서 추락…타고 있던 30대 근로자 사망</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/15/TKET5XXBMJB7BOEIIS2TSDLXFA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/15/TKET5XXBMJB7BOEIIS2TSDLXFA/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 07:28:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 영종도에 있는 5성급 호텔에서 엘리베이터가 추락하는 사고가 발생해 엘리베이터 교체 작업을 하던 30대 노동자가 숨졌다.&lt;br&gt;&lt;br&gt;15일 인천경찰청 형사기동대 등에 따르면 전날 오후 5시 36분쯤 인천 중구 영종도에 있는 5성급 호텔에서 교체 작업을 하던 엘리베이터가 지상 12층에서 지하 2층으로 떨어지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;이 사고로 당시 엘리베이터에 타고 있던 시공업체 소속 30대 노동자 A씨가 크게 다쳐 119구급대에 의해 병원으로 옮겨졌으나 결국 숨졌다.&lt;br&gt;&lt;br&gt;당시 A씨는 호텔 엘리베이터를 교체하기 위해 철거 작업을 하던 중 사고를 당한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 목격자와 엘리베이터 시공업체 관계자 등을 상대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘4500억원대 유사수신’ 아도인터내셔널 모집책 1심서 징역 5년...“경제 질서 왜곡”</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/15/ZWAVC4LFSRBGDCN7L72A2YULMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/15/ZWAVC4LFSRBGDCN7L72A2YULMM/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 06:38:32 +0000</pubDate>
-      <content:encoded>다단계 업체 아도인터내셔널의 수천억원대 유사수신 범행에 가담한 60대 남성 투자 모집책이 1심에서 실형을 선고 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FTGPTVCXJGOPCYLMP3UYTQ3YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사5단독 박병곤 판사는 15일 유사수신 행위의 규제에 관한 법률 위반 등 혐의로 재판에 넘겨진 함모(62)씨에게 징역 5년을 선고했다. 유사수신은 법령에 따른 인허가나 등록·신고 없이 원금 이상의 지급 등을 약속하면서 불특정 다수로부터 자금을 모으는 행위다.&lt;br&gt;&lt;br&gt;박 판사는 “유사수신 범행은 건전한 경제 질서를 왜곡하는 등 파급력이 크다”며 “피해자들을 경제적 곤궁에 빠뜨리고 사회 전반에 끼치는 악영향이 커 엄한 처벌이 필요하다”고 짚었다.&lt;br&gt;&lt;br&gt;그러면서 “피고인은 이 사건 범행에서 중요한 역할을 담당했고, 피해자들은 경제적·정신적 고통을 호소하며 엄벌을 바라고 있다”고 지적했다.&lt;br&gt;&lt;br&gt;실제로 피해자들은 이 재판부에 600건이 넘는 탄원서를 제출한 것으로 나타났는데, 한 명이 여러 명을 대표해 제출할 수 있는 점을 고려하면 접수된 탄원서는 수천·수만 개에 이를 것으로 보인다.&lt;br&gt;&lt;br&gt;함씨는 아도인터내셔널 대표 이모씨 등과 공모해 고수익을 보장하겠다며 약 14만회에 걸쳐 투자금 4500여억원의 유사수신에 가담한 혐의를 받는다. 이들은 전국에서 투자설명회를 열어 투자자들을 모은 뒤, 자체 개발한 앱 등을 통해 투자하도록 유도한 것으로 조사됐다. 함씨는 재판 과정에서 범행에 대해 인정했고, 재판부는 이를 유죄로 판단했다.&lt;br&gt;&lt;br&gt;앞서 아도인터내셔널 대표 이씨는 지난 7월 같은 법원 다른 재판부 1심에서 사기 등 혐의로 징역 15년을 선고 받았다. 피고인과 검찰 측 모두 항소해 현재 2심이 진행 중이다.&lt;br&gt;&lt;br&gt;한편 다른 유사수신 혐의로 함씨와 함께 기소된 여성 김모(62)씨, 남성 장모(42)씨, 여성 김모(44)씨는 이날 무죄를 선고 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내년 전문의 시험 응시 가능 전공의 576명…올해 초의 20% 수준</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/10/13/X3EV7J4OJRGAHKACSSWJKK7RBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/13/X3EV7J4OJRGAHKACSSWJKK7RBQ/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 13 Oct 2024 07:04:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BGUSGLQNWFLWZGSBVRNJLH3OKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 한 대형병원 전공의 전용공간. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년 초 시행될 예정인 전문의 자격 시험을 볼 수 있는 전공의가 평소의 20% 수준인 576명에 불과한 것으로 나타났다. 의정 갈등 여파에 따른 전문의 배출 감소가 현실화될 것으로 보인다.&lt;br&gt;&lt;br&gt;13일 국회 보건복지위원회 소속 전진숙 더불어민주당 의원이 보건복지부로부터 제출받은 자료에 따르면, 지난달 30일 기준으로 211개 수련병원에서 1327명의 전공의가 계약을 유지 중인 것으로 나타났다. 이 가운데 내년 전문의 자격 시험을 치를 수 있는 ‘수료 예정’ 고연차 전공의는 553명이었다. 올해 하반기 수련을 재개한 전공의 중 고연차인 23명을 더하면, 내년 전문의 자격 시험 응시 자격이 있는 이들은 총 576명으로, 지난해 전문의 자격 시험 응시자(2782명)와 비교하면 20.7% 수준이다.&lt;br&gt;&lt;br&gt;이들을 과목별로 분류하면 가정의학과가 96명으로 가장 많았다. 필수진료과로 불리는 ‘내·외·산·소(내과·외과·산부인과·소아청소년과)’는 총 148명이었는데, 내과(91명)가 절반 이상을 차지했다.&lt;br&gt;&lt;br&gt;일부 수련병원은 전공의 사직서를 수리하지 않고 있어, 서류상 병원에 소속되어 있지만 출근하지 않는 전공의도 있다. 내년 전문의 시험 응시자가 576명보다 더 적을 가능성도 있는 것이다. 전체 전공의 중 95%가량은 보건복지부가 관리하는 100개 주요 수련병원에 소속돼 있는데, 지난달 30일 기준으로 이 병원들에 출근 중인 고연차 전공의는 396명이었다. 다만 보건복지부는 “행정안전부가 관리하는 수련병원을 더하면 실제 출근 중인 전공의는 이보다 더 많을 수 있다”는 입장이다.&lt;br&gt;&lt;br&gt;의료계에서는 전문의 배출 급감으로 인해 의료 공백이 더 커질 가능성이 높아졌다는 지적이 나왔다. 의사들은 전문의 자격 취득 직후 대형 병원에서 전임의(세부 전공 중인 전문의)로 근무하거나, 군의관·공중보건의사(공중보건의사)로 일한다. 신규 전문의 숫자가 줄어들면 전임의·군의관·공보의 감소로 이어질 수밖에 없는 구조다. 서울 시내 대학병원의 한 교수는 “이대로라면 내년에는 신규 전문의도, 전공의도 없을 수 있다”며 “단순히 진료를 보기 어려운 수준을 넘어서 의료 현장이 심각한 타격을 입을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>보증금 71억 가로챈 60대 전세사기범, 징역 13년</title>
-      <link>https://www.chosun.com/national/regional/2024/10/15/22ERBESVS5H3PL5R77K24WKIG4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/15/22ERBESVS5H3PL5R77K24WKIG4/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 07:02:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YPUNCK4L6FDOFFUCVDLEXODJNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;80여명 세입자의 전세보증금 등 71억 원을 가로챈 60대 남성에게 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 형사11단독 전명환 판사는 15일 사기 혐의로 재판에 넘겨진 A씨에게 징역 13년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 2020년 12월부터 지난 3월까지 대구 남구 대명동 일대 다가구주택 등 건물 12채를 본인과 가족 명의로 사들인 뒤 청년 등 임차인 104명으로부터 전세보증금 88억 원가량을 받아 챙긴 뒤 제때 돌려주지 않은 혐의로 기소됐다. 조사 결과 A씨는 새로운 세입자와 임대차계약 당시 기존 세입자들에게 돌려줘야 할 전체 임대차보증금 액수를 줄여 알리는 등 보증금 반환에 아무런 문제가 없을 것처럼 속인 것으로 나타났다.&lt;br&gt;&lt;br&gt;이러한 A씨 범행에 속아 계약 기간 만료 이후 보증금 8400만원을 돌려받지 못하던 한 30대 여성 세입자는 지난 5월 신변을 비관하는 유서를 남기고 스스로 목숨을 끊었다. 이 세입자는 후순위인데다 소액 임차인(2019년 계약 당시 6000만 원 이하)에도 해당되지 않아 최우선변제금도 받을 수 없었다고 한다. 또 사망한 당일에도 임대인이 월세를 요구하며 인터넷 선을 자르는 등 괴롭힘이 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;다만 재판부는 검찰 공소사실 가운데 피고인 소유 담보 가치가 임대차보증금 합계액보다 높았을 당시 이뤄진 계약 행위에 대해서는 무죄로 판단했다. 이런 이유 등으로 피해자는 87명, 피해액은 71억원으로 줄었다.&lt;br&gt;&lt;br&gt;재판에서 A씨는 대부분의 혐의를 인정하면서도 금리 인상 등으로 인한 외부적 요인 탓에 생긴 일이라고 주장했다.&lt;br&gt;&lt;br&gt;재판부는 “A씨는 보증금을 돌려주지 못할 상황임에도 지속해서 임대차 계약을 진행해 피해자를 양산했고, 이런 탓에 피해자들이 경제적으로 심각한 어려움을 겪었고, 1명은 극단적인 선택도 했다. 그럼에도 범행 발생 원인을 외부적 요인으로 돌리는 등 자신의 잘못을 진지하게 반성하는지 의문이 드는 점 등을 종합했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“~해줘”와 “~해라” 사이 눈치 게임... 직장인 1922명 속마음은</title>
