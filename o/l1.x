@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>'불법 촬영 혐의' 황의조, 재판서 혐의 인정…징역 4년 구형</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/202112.jpg" alt="9.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;축구선수 황의조 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&amp;nbsp;&lt;p&gt;불법 촬영 혐의를 부인해 온 축구선수 황의조 씨가 재판에서 자신의 혐의를 인정했다. 검찰은 황 씨에게 징역 4년을 선고해달라고 요청했다.&lt;br /&gt;&lt;br /&gt;서울중앙지법 형사13단독&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="21105"&gt;이용제&amp;nbsp;&lt;/span&gt;판사는 16일 황 씨의 성폭력 처벌 특례법 위반(카메라 등 이용 촬영) 혐의에 대한 공판기일을 진행했다(&lt;b&gt;2024고단3521&lt;/b&gt;).&lt;br /&gt;&lt;br /&gt;이날 황 씨의 변호인은 "공소사실을 모두 인정한다"고 밝혔다. 황 씨 역시 "변호인 말대로 본인의 잘못을 인정하는가"라는 판사의 질문에 "모두 인정한다"고 답변했다.&lt;br /&gt;&lt;br /&gt;황 씨 측은 피해자 중 1명과 원만하게 합의하고 합의금을 지급했다는 취지의 의견서를 제출했다. 황 씨 측 변호인은 "황 씨가 가족을 부양해야 한다는 양형사정을 고려해달라"며 "나머지 피해자와도 합의를 시도할 예정"이라고 했다.&lt;br /&gt;&lt;br /&gt;그러나 피해자 측 변호사는 "본인을 위한 선처 그 이상도, 그 이하도 아니다"라며 "범행 이후 2차 가해로 더 힘들었고, 재판이 끝나더라도 피해자의 불안과 고통은 끝나지 않을 것"이라고 주장했다.&lt;br /&gt;&lt;br /&gt;검사는 황 씨에게 징역 4년을 구형했다. 검사는 "황 씨가 촬영한 영상을 고려할 때 피해자의 상처와 수치심이 극심했을 것으로 보이고, 유포로 인해 심각한 피해를 입었다"고 말했다. 이어 "피해자 중 한 명은 여전히 합의 의사가 없음을 명확히 하고 있으며, 엄벌을 탄원하고 있다"면서 "황 씨가 공소사실을 인정했지만, 이전까지는 혐의를 부인하면서 피해자에게 다시 한번 씻을 수 없는 상처를 줘 진심으로 마음에서 우러나오는 반성을 하는 것인지도 의문이다"라고 덧붙였다.&lt;br /&gt;&lt;br /&gt;황 씨 측 변호인은 "수사단계에서 억울한 마음에 범죄 혐의를 다툰 것은 사실이지만, 공판단계에서 잘못을 인정하고 반성했다"며 "대한민국 축구 발전을 위해 상당히 기여했고, 다시 한번 국가와 국민을 위해 활동할 수 있도록 최대한 선처해달라"고 말했다.&lt;br /&gt;&lt;br /&gt;황 씨는 최후진술에서 "저의 잘못으로 인해 피해를 입게된 피해자분들에게 진심 어린 사죄를 드린다"며 "현재까지 용서받지 못한 피해자에 대해서도 용서를 구하고, 앞으로 피해 회복을 위해 최선을 다할 것"이라고 말했다. 이어 "이번 일을 거울삼아 앞으로는 어떤 잘못도 하지 않고, 축구선수로서 최선의 노력을 하면서 살도록 하겠다"고 강조했다.&lt;br /&gt;&lt;br /&gt;이 판사는 황 씨에 대한 선고기일을 12월 18일 오전 10시로 지정했다.&lt;br /&gt;&lt;br /&gt;황 씨는 상대방 여성 2명의 동의 없이 여러 차례 성관계 영상을 불법 촬영한 혐의를 받는다. 앞서 황 씨는 지난해 6월 자신과 여성들의 모습이 담긴 사진과 동영상을 소셜네트워크서비스에 공유한 형수를 협박 등 혐의로 경찰에 고소했다. 수사 과정에서 경찰은 불법 촬영 정황을 포착해 황 씨를 피의자 신분으로 전환했고, 올해 2월 검찰에 불구속 송치했다.&lt;br /&gt;&lt;br /&gt;한편, 형수 이모 씨는 동영상 등을 올리고 황 씨를 협박한 혐의로 구속기소돼 징역 3년을 확정받았다.&lt;/p&gt;</description>
+			<pubDate>Wed, 16 Oct 2024 02:43:10 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/202112</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202112</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202112.jpg</media:thumbnail>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2024년 10월 16일</title>
 			<description>&lt;b&gt;◇ 상임위원회&lt;/b&gt;&lt;br /&gt;10:00 국회운영위원회 전체회의(본관 319호)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;◇ 국정감사&lt;/b&gt;&lt;br /&gt;10:00 기획재정위원회 국정감사(본관 430호)&lt;br /&gt;&lt;br /&gt;10:00 외교통일위원회 국정감사(주과테말라대사관, 주알제리대사관, 주중국대사관)&lt;br /&gt;&lt;br /&gt;10:00 농림축산식품해양수산위원회 국정감사(산림청)&lt;br /&gt;&lt;br /&gt;10:00 보건복지위원회 국정감사(본관 601호)&lt;br /&gt;&lt;br /&gt;10:00 국토교통위원회 국정감사(본관 529호)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 의원실 세미나&lt;/b&gt;&lt;br /&gt;07:00 최형두 의원실 등, 한국 미래 신기술 발전을 위한 AI·모빌리티 신기술전략 조찬포럼(의원회관 제8간담회의실)&lt;br /&gt;&lt;br /&gt;09:00 최형두 의원실 등, [국회 과방위 과학기술원자력 법안소위 주최 간담회] NEBS 재미 한인과학자들의 긴급 제안(의원회관 제1간담회의실)&lt;br /&gt;&lt;br /&gt;09:30 안태준 의원실 등, 사법정의 실현을 위한 연속 토론회. 제1차 토론회: 공직선거법상 당선목적 허위사실공표죄에 대한 검토(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;10:00 장철민 의원실 등, [스토킹처벌법 시행 3주년 국회 토론회] 일터에서 여성들이 사라진다(의원회관 제3간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 임종득 의원실, 2024 삼봉 정도전 학술포럼: "삼봉 정도전이 꿈꾼 이상사회"(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;14:00 김교흥 의원실 등, 2024 제7회 국회자살예방포럼 국제세미나(의원회관 대회의실)&lt;br /&gt;&lt;br /&gt;14:00 나경원 의원실, 해외 원전의 성공적 수행을 위한 팀코리아 전략과 대한민국 원전 생태계 활성화 방안(국회도서관 강당)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;◇ 소통관 기자회견&lt;/b&gt;&lt;br /&gt;09:00 임종득 의원, [국방 현안 관련 기자회견]&lt;p&gt;&lt;br class="ch_bogus_spacer"&gt;&lt;/p&gt;&lt;p&gt;10:20 이성권 의원, [헤이그 국제아동탈취협약 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 정혜경 의원, [산업안전보건법 현업고시 확대 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;11:20 강유정 의원, [영화 지원 예산 및 정책 정상화를 촉구하는 영화인 기자회견]&lt;br /&gt;&lt;br /&gt;11:40 정혜경 의원, [노동위원회 조정 중지, 배달의민족 갑질 규탄 기자회견]&lt;br /&gt;&lt;br /&gt;13:00 정태호 의원, [지방교부세 삭감 관련 기자회견]&lt;br /&gt;&lt;br /&gt;13:20 정혜경 의원, [현대제철 국정감사 증인채택 요구 기자회견]&lt;br /&gt;&lt;br /&gt;14:40 김원이 의원, [국립목포대학교 의과대학 신설 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;</description>
 			<pubDate>Tue, 15 Oct 2024 22:39:30 -0000</pubDate>
@@ -232,16 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202098</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202098.jpg</media:thumbnail>
 			<dc:creator>안현 기자</dc:creator>
-		</item>
-		<item>
-			<title> 한국범죄방지재단 창립 30주년 행사 다음 달 7일 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/202100.jpg" alt="2021100.jpg" /&gt;&lt;/p&gt;한국범죄방지재단(이사장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8681"&gt;이귀남&lt;/span&gt;·전 법무부 장관)이 다음 달 7일 오후 6시 서울 중구 태평로1가 한국프레스센터 20층에서 창립 30주년 행사를 연다.&lt;br /&gt;&lt;br /&gt;이날 행사에서는 재단 창립 30주년을 축하하기 위해 세시봉 출신 윤형주 재단 부이사장과 소리꾼 장사익의 공연이 펼쳐진다. 또한, 재단의 지난 30년간의 활동을 영상으로 돌아보고, 앞으로의 발전 방향을 모색하는 시간도 마련될 예정이다.&lt;br /&gt;&lt;br /&gt;재단 관계자는 “재단의 유지와 발전을 위해 아낌없는 관심과 성원을 보내주신 분들께 감사의 마음을 전하는 시간도 준비했다”고 밝혔다.&lt;br /&gt;&lt;br /&gt;1994년 12월에 설립된 한국범죄방지재단은 민간 차원의 범죄예방 활동, 재소자의 정서 순화 활동, 범죄방지 관련 정기 학술 세미나 개최 등 다양한 활동을 이어온 재단법인이다.</description>
-			<pubDate>Tue, 15 Oct 2024 09:12:32 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/202100</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202100</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202100.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
