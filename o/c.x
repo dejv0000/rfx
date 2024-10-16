@@ -13,6 +13,148 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 진보 정근식, 서울시교육감 당선 유력</title>
+      <link>https://www.chosun.com/national/education/2024/10/16/AHMCOZIRPNGFFIPVVP4C6VVGDE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/16/AHMCOZIRPNGFFIPVVP4C6VVGDE/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Oct 2024 13:49:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YXLLKAGJARJ6TCJXW3EIHLM3MU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 15일 오후 정근식 후보가 서울 관악구 신림역네거리에서 지지를 호소하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 서울시교육감 보궐선거에서 정근식 진보 진영 단일 후보의 당선이 유력해졌다.&lt;br&gt;&lt;br&gt;중앙선거관리위원회에 따르면 이날 오후 11시 5분 기준 서울시교육감 보궐선거 개표율은 50.3%다. 현재 정 후보가 득표율 52.04%(50만2766표)로 조전혁 보수 후보 득표율 44.26%(42만7664표)를 크게 앞서면서, 당선이 유력시되고 있다. 윤호상 후보 득표율은 3.68%(3만5646표)다.&lt;br&gt;&lt;br&gt;정 후보의 당선이 확정될 경우 서울 교육은 조희연 전 교육감의 ‘혁신학교’ ‘학생인권조례’ 등 지난 10년간의 진보 교육 기조가 계속해서 이어진다. 서울대 사회학과를 졸업한 정 후보는 전남대 사회학과 교수로 재직하다 2003년 서울대 사회학과 부교수로 임명됐다. 2006년부터는 서울대 사회학과 교수로 재직했다.&lt;br&gt;&lt;br&gt;정 후보는 한국 근현대사 연구에 매진한 인물이다. 노무현 정부 시절 친일반민족행위진상규명위원회 위원으로, 문재인 정부 시절 진실·화해를위한과거사정리위원회 위원장을 지냈다. 정 후보는 지난 15일 유세 현장에서 “민주·진보 모든 후보가 한뜻으로 함께하는 단일 후보 정근식”이라며 “친일 등 역사 왜곡을 막아 ‘역사 앞에 당당한 교육’을 만들어내겠다”고 말했다.&lt;br&gt;&lt;br&gt;이번 서울시교육감 보궐선거는 조 전 교육감이 지난 8월 전교조 해직 교사 부당 채용 혐의 등으로 대법원에서 유죄 확정 판결을 받아 직을 상실하면서 치러지게 됐다. 이번 서울시교육감 보궐 선거에는 진보 진영의 정근식 후보와 보수 조전혁·윤호상 후보가 최종 출마했다. 새로 선출되는 교육감 임기는 조 전 교육감의 잔여 임기인 1년 8개월(2026년 6월까지)이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YXLLKAGJARJ6TCJXW3EIHLM3MU.jpg?width=4154&amp;height=2769&amp;auth=c8b9e75aeafef3644252148704a3217280d6eaf7ae56bd45624549d07202a755&amp;smart=true" type="image/jpeg" height="2769" width="4154">
+        <media:description type="plain">&lt;YONHAP PHOTO-3416&gt; 지지 호소하는 정근식 후보
+    (서울=연합뉴스) 임화영 기자 = 서울시교육감 보궐선거를 하루 앞둔 15일 오후 정근식 후보가 서울 관악구 신림역네거리에서 지지를 호소하고 있다. 2024.10.15
+    hwayoung7@yna.co.kr/2024-10-15 12:58:29/
+&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">임화영</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>사람·정책도 모르는 선거에 세금 565억... 교육감 직선 ‘무용론’</title>
+      <link>https://www.chosun.com/national/education/2024/10/16/IVFA7ERMZZHAFMFAMOH32NUNUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/16/IVFA7ERMZZHAFMFAMOH32NUNUA/</guid>
+      <dc:creator>김경은 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Oct 2024 14:03:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SPQY4F3MBNECVEHE5KYRR5XPPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울특별시교육감 보궐선거가 치러진 16일 오전 서울 반원초등학교 강당에 차려진 반포3동 제2투표소에서 유권자들이 투표하고 있다. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 열린 서울시교육감 보궐선거 최종 투표율은 23.5%에 그쳤다. 이날 함께 치러진 부산 금정구청장, 인천 강화군수, 전남 영광군수·곡성군수 등 4개 기초단체장 선거 투표율(53.9%)의 절반에도 못 미친 것이다.&lt;br&gt;&lt;br&gt;조희연 전 교육감의 직위 상실로 인해 열린 이번 선거의 투표율은 과거 교육감 선거에 비해서도 유독 낮았다. 2014년 지방선거 때 치러진 교육감 선거 투표율은 58.6%였고, 2018년, 2022년에도 각각 59.9%, 53.2%를 기록했다. 이번과 마찬가지로 교육감 선거가 단독으로 치러진 작년 4월 울산시교육감 보궐선거(26.5%) 때보다도 투표율이 더 낮은 것이다.&lt;br&gt;&lt;br&gt;서울시교육감은 유치원부터 초·중·고까지 학생 84만명을 관할하고, 공립학교 교사와 교육공무원 5만여 명의 인사권을 행사한다. 연간 서울시교육청 예산만 11조원이 넘는다.&lt;br&gt;&lt;br&gt;이처럼 권한이 막강한데도 투표율이 낮은 것은 교육감 선거가 원래 학부모가 아니면 유권자 관심이 높지 않은 데다 선거가 평일에 열린 탓으로 분석된다. 주요 언론사가 실시한 여론조사도 없어 중앙선거관리위원회가 주관하는 토론회조차 제대로 열리지 못했다. 그러다 보니 누가 출마했는지, 후보의 교육 공약은 무엇인지도 잘 모르고 유권자들이 투표장에 가는 경우가 허다해 ‘깜깜이 선거’라고도 불린다. 박남기 광주교대 교육학과 교수는 “투표율이 20%대에 그치면 조직을 동원할 수 있는 역량을 갖춘 쪽이 유리해지기 때문에 국민 대표성은 사라진다”고 했다.&lt;br&gt;&lt;br&gt;교육감은 해방 후 대통령이 임용하는 방식에서 1991년 간선 방식으로 바뀌어 교육위원회, 학교운영위원회, 교원단체 등이 선출했다. 이후 2006년 법 개정을 통해 2007년 2월 부산교육감 선거부터 직선제로 바뀌었다.&lt;br&gt;&lt;br&gt;교육감 선거는 정당 공천을 받지 못하고 투표용지에도 정당 표시가 없다. 하지만 선거 때마다 후보들은 보·혁을 상징하는 빨간·파란색 유니폼을 입고 정치색을 드러냈다. 후보들이 정당 지원 없이 큰 규모의 선거를 치르다 보니 뒤탈도 많다. 공정택·곽노현·문용린·조희연 등 직선제 서울시교육감 4명 모두 선거법 위반 등으로 사법 처리됐다.&lt;br&gt;&lt;br&gt;이렇게 주민들 관심이 낮은 선거지만, 선거 관리 비용으로 이번에만 세금 565억원이 투입됐다. 이 때문에 차라리 직선제를 폐지하고 교육감을 시·도지사 러닝메이트제나 시·도지사 임명제 등으로 바꾸자는 목소리가 높다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이세중 前 대한변협 회장 별세…1세대 인권 변호사</title>
+      <link>https://www.chosun.com/national/2024/10/16/THSUOTGZRFA2DD4ZWF4IXUCYXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/10/16/THSUOTGZRFA2DD4ZWF4IXUCYXY/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Oct 2024 13:59:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/62HIISI3JZPEHPKONBQRW4HRVU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;(서울=뉴스1) 박지혜 기자 = 20일 오후 서울 중구 대한상공회의소에서 열린 2024년 2학기 외국인 유학생 장학금 수여식에서 우정교육문화재단 이중근 이사장을 대신해 이세중 재단 전 이사가 인사말을 하고 있다.&#13;&#13;부영그룹의 우정교육문화재단은 이날 장학금 수여식을 열고 국내 대학에 재학 중인 외국인 유학생 33개국 99명에게 장학금 4억200만원을 기부했다.&#13;&#13;우정교육문화재단은 지난 2008년 재단 설립 후 현재까지 15년째 국내 외국인 유학생에게 장학금을 지급해 오고 있다. 지금까지 아시아, 아프리카, 중남미 등 43개국 출신 외국인 유학생 총 2548명에 누적으로 100억원의 장학금을 지원했다. 2024.8.20/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민청학련 사건 등을 변호하며 ‘1세대 인권 변호사’로 불린 이세중 전 대한변호사협회 회장이 16일 향년 89세의 나이로 별세했다.&lt;br&gt;&lt;br&gt;고인은 1956년 사법고시와 행정고시에 합격한 뒤, 서울지법 판사를 거쳐 1963년부터 변호사로 활동해왔다. 군사정권 시절 1세대 인권 변호사로서 1974년 민청학련 사건과 1975년 고(故) 김지하 시인의 반공법 위반 사건 등 시국 사건의 변호를 맡았다.&lt;br&gt;&lt;br&gt;이후 경제정의실천시민연합(경실련), 환경운동연합, 공명선거실천시민운동협의회 등에서 활동해온 고인은 1993년 대한변협 회장, 1998년~2000년 KBS 이사장, 2009년 사회복지공동모금회 회장, 2006년 변협 인권재단 초대 이사장 등을 역임했다. 2018년부터 2020년까지 부영그룹 회장 직무대행도 지냈다.&lt;br&gt;&lt;br&gt;1995년 국민훈장 무궁화장, 2005년 효령대상, 2014년 만해 대상 등을 수상했다.&lt;br&gt;&lt;br&gt;유족으로는 아들 정우·석우, 딸 윤정·숙정·숙진씨가 있다. 빈소는 신촌 세브란스병원, 발인은 19일 오전 11시.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/62HIISI3JZPEHPKONBQRW4HRVU.JPG?width=2968&amp;height=2104&amp;auth=09cddbb6b086cff09525fdb348c0e4c1f256faf7ce1ae077381b0f9539ffd79d&amp;smart=true" type="image/jpeg" height="2104" width="2968">
+        <media:description type="plain">(서울=뉴스1) 박지혜 기자 = 20일 오후 서울 중구 대한상공회의소에서 열린 2024년 2학기 외국인 유학생 장학금 수여식에서 우정교육문화재단 이중근 이사장을 대신해 이세중 재단 전 이사가 인사말을 하고 있다.
+
+부영그룹의 우정교육문화재단은 이날 장학금 수여식을 열고 국내 대학에 재학 중인 외국인 유학생 33개국 99명에게 장학금 4억200만원을 기부했다.
+
+우정교육문화재단은 지난 2008년 재단 설립 후 현재까지 15년째 국내 외국인 유학생에게 장학금을 지급해 오고 있다. 지금까지 아시아, 아프리카, 중남미 등 43개국 출신 외국인 유학생 총 2548명에 누적으로 100억원의 장학금을 지원했다. 2024.8.20/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 박지혜 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>제시, 폭행 혐의 피고소인 신분으로 경찰 출석 조사… “가해자 사건 당일 처음 봐”</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/16/7MCL7V646ZBXTG7AFNH6A2NQ4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/7MCL7V646ZBXTG7AFNH6A2NQ4Y/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Oct 2024 13:10:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/US5Z7I3RM5DUJHAAW3VZYSNNLU.png"&gt;&lt;figcaption&gt;&lt;small&gt;제시(흰색 상의) 일행이 사진 요청한 팬을  폭행하고 있다. /JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국계 미국인 가수 제시(본명 호현주·36)에게 사진 촬영을 요청한 미성년자 팬이 제시 일행에게 폭행당한 사건과 관련해 제시가 서울 강남경찰서에 16일 오후 10시 5분쯤 도착해 조사를 받으러 들어갔다.&lt;br&gt;&lt;br&gt;제시는 취재진 질문에 일단 때린 사람을 빨리 찾고 벌을 받았으면 좋겠다. 오늘 있는 대로 다 말하고 오겠다”고 답했다. 이어 “사건 당일 가해자를 처음 본 게 맞느냐”는 질문에는 “그렇다”고 답했고, 가해자와의 관계를 묻는 질문에는 “가해자를 처음 보는 게 맞는다”고 했다. 피해자에게는 “너무 죄송하다”고 했다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면, 지난달 29일 새벽 서울 강남구 압구정동에서 피해자 A씨가 제시에게 다가가 사진 촬영을 요청했다가 제시 주변에 있던 남성 B씨에게 폭행을 당하는 일이 발생했다. 제시는 폭행을 말렸으나 이후 현장을 떠났고, A씨의 신고로 출동한 경찰이 인근에서 제시 일행을 찾아 A씨의 행적을 물었으나 모른다고 답한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이후 B씨 외에도 주변에 있던 제시와 프로듀서, 또 다른 일행 등 총 4명이 피해자로부터 폭행 등 혐의로 고소당해 입건됐다. 경찰은 사건 당시 B씨와 함께 있던 프로듀서를 지난 11일 저녁 피고소인 신분으로 불러 조사한 바 있다. 한편 방송을 통해 사건 당시 영상이 공개되면서 한 네티즌이 제시를 범인은닉·도피 혐의로 고발하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZI2D6SAS6VGF3EPOWX644OXBBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국계 미국인 가수 제시(한국명 호현주)가 16일 오후 10시 6분쯤 서울 강남경찰서에 출석하고 있다. /김병권 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제시는 지난 12일 자신의 인스타그램에 글을 올려 피해자에게 사과했다. 제시는 게시글에서 “지인과 개인적인 모임을 갖던 중 저의 팬인 피해자께서 저에게 사진을 요청하셨으나 늦은 밤인 관계로 두 차례 정중히 거절했다”며 “그 순간 인근에 있던, 제가 그날 처음 본 사람으로부터 (팬이) 갑자기 폭행을 당하는 일이 있었다”고 밝혔다. 이어 “경위를 불문하고 저의 팬분께서 불의의 피해를 입으신 것에 대하여 대단히 안타깝게 생각하고, 도의적 책임을 느낀다”고 덧붙였다.&lt;br&gt;&lt;br&gt;한편 제시는 한국계 미국인 가수 겸 래퍼로, 2005년 ‘Get Up’으로 데뷔했다. 이후 ‘언프리티 랩스타’ ‘언니들의 슬램덩크’ ‘나 혼자 산다’ ‘놀면 뭐하니?’ 등의 예능 프로그램에 출연해 이름을 알렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전남 곡성군수에 민주당 조상래 당선… 55.26% 득표</title>
+      <link>https://www.chosun.com/national/regional/honam/2024/10/16/DXZFENHPH5H5VADPR4U64AGNWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/10/16/DXZFENHPH5H5VADPR4U64AGNWM/</guid>
+      <dc:creator>곡성=조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Oct 2024 13:10:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LDJ66IXTKCP6DZVIX5LNIBG2MI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 전남 곡성군수 재선거에서 당선된 조상래 더불어민주당 후보. 오른쪽은 고배를 마신 박웅두 조국혁신당 후보./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조상래 더불어민주당 전남 곡성군수 후보가 16일 치러진 재선거에서 조국혁신당 후보를 꺾고 당선됐다.&lt;br&gt;&lt;br&gt;이날 중앙선거관리위원회에 따르면 곡성군수 재선거에서 조상래 민주당 후보가 8706표(55.26%)를 득표해 박웅두 조국혁신당 후보(5648표·35.85%)를 앞섰다. 최봉의 국민의힘 후보는 3.48%를 득표했다.&lt;br&gt;&lt;br&gt;조 당선인은 곡성 오곡면 출생으로 곡성군의원과 전남도의원, 곡성군체육회장 등을 지냈다. 앞서 두 차례 지방선거에서 군수 후보로 출마했으나 고배를 마신 그는 세 번째 도전 끝에 당선됐다.&lt;br&gt;&lt;br&gt;무소속으로 이번 재선거를 시작했던 조 당선인은 민주당 복당이 받아들여져 100% 국민참여 방식으로 치른 경선에서 민주당 후보로 선출됐다.&lt;br&gt;&lt;br&gt;당선 즉시 임기를 시작하는 조상래 당선인은 “말이 아니라 행동으로, 약속에 그치지 않고 실천하는 정책으로 곡성의 변화를 가져오겠다”며 “절대 실망시키지 않도록 최선의 노력을 하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/XBEN347WAJD5TBAI43F5CZ3LKA.jpg?width=5340&amp;height=3004&amp;auth=fe7634ec3fe5d4623f3e72d1d8a129b76488a402f277d56f416b9e204711d80c&amp;smart=true" type="image/jpeg" height="3004" width="5340">
+        <media:description type="plain"> 전남 곡성군수에 민주당 조상래 당선
+    (곡성=연합뉴스) 김혜인 기자 = 10·16 재보궐선거가 치러진 16일 오후 전남 곡성군 곡성읍 선거사무실에서 더불어민주당 조상래 후보가 당선 소식을 듣고 기뻐하고 있다. 2024.10.16
+    in@yna.co.kr/2024-10-16 22:21:06/
+&amp;lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&amp;gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">김혜인</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>불법대부업체가 연예인들에 “돈 갚아라” 협박 전화, 무슨 일?</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/16/3CJYSVWS2FBJXHUH4UWPBH4T5I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/3CJYSVWS2FBJXHUH4UWPBH4T5I/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Oct 2024 11:19:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CFETKS6P2FFQTDOFQ2J2MNZHBE.png"&gt;&lt;figcaption&gt;&lt;small&gt;빅플래닛메이드엔터 소속 연예인들. /빅플래닛메이드엔터 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 태민과 이무진, 허각 등이 속한 연예기획사 빅플래닛메이드엔터 소속 매니저가 자기 휴대전화에 담긴 연예인 연락처 1200개 등을 담보로 불법대부업체에서 대출을 받은 것으로 16일 전해졌다. 빅플래닛메이드엔터 측은 “당사에서 근무하던 직원으로 인해 개인정보가 유출된 분들에게 심심한 사과의 말씀을 드린다”고 했다.&lt;br&gt;&lt;br&gt;빅플래닛메이드엔터 모회사인 원헌드레드(ONE HUNDRED) 측은 이날 공식 입장을 내고 이같이 알렸다. 원헌드레드는 “빅플래닛메이드엔터 소속 매니저 A씨가 연락처를 담보로 40여개 불법대부업체로부터 소액 대출을 받고 이를 갚지 못하자 불법대부업체들이 담보로 맡긴 전화번호로 연락·협박하는 사건이 발생했다”고 했다.&lt;br&gt;&lt;br&gt;사측은 지난 9월 30일 대부업체 측에서 이런 사실을 연락받은 뒤 A씨를 사직 처리했다. 원헌드레드는 그러나 “A씨 개인의 금전 문제로 사건이 일단락될 것이라 기대했으나 금일(16일) 불법대부업체가 다시 당사에 전화를 걸어와 욕설과 함께 A씨 대신 금전 문제를 해결할 것을 협박해 왔다”라고 했다. 원헌드레드는 “이에 당사는 이번 사건이 단순히 사내 문제로 해결될 사안이 아니라고 파악해 선의의 피해자가 발생하지 않기를 바라는 마음에 피해 사실을 전부 알려드리게 됐다”고 했다.&lt;br&gt;&lt;br&gt;원헌드레드 설명에 따르면, A씨가 대부업체에 넘긴 전화번호는 약 1200여개다. A씨가 일했던 빅플래닛메이드엔터 소속 직원과 연예인, A씨가 이전에 일했던 소속사 관계자, 타 소속사 연예인 등이 포함됐다. 원헌드레드는 “불법대부업체들은 아직은 전 직장이었던 빅플래닛메이드엔터 임직원들에게 협박 전화와 문자를 남기고 있는 상황”이라며 “시간이 지날수록 A씨 휴대전화에 있던 다른 번호로도 연락할 가능성이 크다”고 했다. 원헌드레드는 “당사는 사태의 심각성을 무겁게 받아들이며 오늘까지도 협박 전화를 걸어온 불법대부업체에 대해 경찰 신고와 함께 법적 대응을 준비 중”이라고 했다.&lt;br&gt;&lt;br&gt;원헌드레드는 차가원 피아크그룹 회장과 가수 MC몽이 공동 설립한 기업으로 산하에 빅플래닛메이드엔터, 밀리언마켓, INB100 등의 레이블을 두고 있다. 빅플래닛메이드엔터에는 그룹 비비지(VIVIZ)와 가수 이승기·태민·이무진·하성운, 방송인 이수근 등이 소속돼있다. 이번 사건으로 소속 연예인들의 피해는 아직 알려지지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>문다혜 피해 택시기사 “文측에서 만나자 해… 합의 마쳤다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/16/S7OL2LIJ6RCUTEDEKHDR2LWF6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/S7OL2LIJ6RCUTEDEKHDR2LWF6I/</guid>
+      <dc:creator>서보범 기자, 강우석 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Oct 2024 11:43:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U5YKT5Q3VJBNXKSVZ3X6DNJZTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문다혜&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전 혐의를 받는 문재인 전 대통령의 딸 문다혜(41)씨가 피해 택시기사와 형사 합의를 마친 것으로 16일 파악됐다.&lt;br&gt;&lt;br&gt;서울 용산경찰서는 지난 9일 문씨 음주운전 사고 피해 택시기사 A씨에 대한 피해자 조사를 진행했다. 경찰에 따르면 이날 문씨 변호인 측은 A씨에 대해 형사 합의를 위한 만남을 요청한 것으로 확인됐다. 문씨 측에서 먼저 합의금을 제시했고, A씨는 경찰에 진단서를 제출하지 않기로 했다고 한다. 문씨는 변호인을 통해 ‘경황이 없어서 죄송하다’는 취지의 손편지를 전달한 것으로도 알려졌다.&lt;br&gt;&lt;br&gt;피해 택시기사 A씨는 16일 한 언론과의 인터뷰에서 “(문씨가) 술 냄새가 많이 났고 눈이 감길 정도였다”며 “제가 ‘이거 어떻게 하죠?’라고 물으니 ‘어떻게 했으면 좋겠어요?’라고 되물었다. 대화가 안되니 경찰에 신고하러 갔다”고 했다. 당시 사고 현장 인근 CCTV에는 A씨가 인근 파출소로 뛰어가는 장면이 포착됐다. 그러면서 “사고 당시 문씨 차량은 시속 40~50km 정도로 속도를 냈다“며 “제 차를 안 받고 사람이라도 쳤다면 큰일날 뻔 했다”고 말했다.&lt;br&gt;&lt;br&gt;한편 경찰은 문씨 측과 피의자 조사 일정을 조율하고 있다. 경찰은 문씨와 함께 술자리를 가졌던 동석자에 대해서도 참고인 조사를 검토 중이다. 문씨의 당시 혈중 알코올 농도는 면허 취소 수준(0.08%) 이상인 0.149%였다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, ‘김건희 도이치 의혹’ 레드팀 회의 마쳐…이르면 내일 처분</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/16/WHFOEPXC2VGBDNKE7HAWEWY5VQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/16/WHFOEPXC2VGBDNKE7HAWEWY5VQ/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Oct 2024 12:36:00 +0000</pubDate>
+      <content:encoded>김건희 여사의 ‘도이치모터스 주가 조작 연루’ 의혹을 수사하는 서울중앙지검은 16일 이른바 ‘레드팀 회의’를 열고 김 여사 처분 방향에 대해 4시간 동안 논의를 가졌다. ‘레드팀’은 아군 중 일부가 가상의 적군으로 활동하면서 취약점을 파악하기 위해 아군을 모의 공격하는 것을 가리키는데, 검찰 수사심의위원회(수사심의위) 대신 ‘자체 검증’을 거친 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HUEXBSKXWVLKPPSEMRHLTVOWNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사가 지난 6일 성남 서울공항에서 공군 1호기에 탑승하기 위해 이동하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검은 이날 오후 1시50분부터 5시50분까지 1~4차장검사와 증권·금융 사건에 전문성이 있는 부장·부부장·평검사 등 15명이 참석한 회의를 열고 수사 결과를 검토했다. 수사를 맡은 서울중앙지검 반부패수사2부(부장 최재훈) 수사팀이 사건 개요와 처분 방향을 설명한 뒤, 레드팀 역할을 맡은 검사들이 논리의 허점이나 의문이 드는 점을 지적하는 방식으로 진행됐다고 한다.&lt;br&gt;&lt;br&gt;검찰은 수사심의위를 소집할 경우 검찰총장의 수사지휘 논란이 발생할 수 있고, 외부 위원들이 짧은 시간 안에 주가조작 사건의 법리적 쟁점을 모두 파악하기 어려운 만큼 수사 전문성을 갖춘 검찰 내부 인력을 동원해 막바지 법리 검토를 하는 방안을 택한 것으로 전해졌다. 검찰총장은 이 사건에 대한 수사지휘권이 배제돼 있다.&lt;br&gt;&lt;br&gt;일각에서는 수사팀의 결론이 이미 정해진 상황에서 요식행위에 그친 것 아니냐는 비판이 나온다. 다만 수사팀은 이날 회의에서 수사 결과를 뒤집을 만한 의견이나 논리가 제시될 경우 사건을 전면 재검토하는 것도 고려한다는 뜻을 밝혔던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰은 이날 회의 내용을 바탕으로 내부 검토를 마무리하고, 이르면 17일 처분할 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 만덕~센텀 대심도 9.6km 다 뚫었다</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/10/15/TNG2JFDZV5EPDB274QGQQ34MUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/10/15/TNG2JFDZV5EPDB274QGQQ34MUA/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Oct 2024 06:04:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PYO5QZGXOJAH7PTXIXR6ERWFEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 북구 만덕동과 해운대구 재송동 센텀시티간을 잇는 9.62km의 왕복 4차로 지하도로(대심도)가 최근 관통됐다. 이 대심도는 2026년 1월 완공예정이다./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 북구 만덕동~해운대구 재송동(센텀시티)을 잇는 지하도로(내부순환 도시고속화도로)가 관통됐다.&lt;br&gt;&lt;br&gt;부산시 건설본부는 15일 오후 ‘부산 내부순환(만덕~센텀) 도시고속화도로’ 건설현장에서 관통식을 개최했다. 이 도로는 만덕동과 센텀시티간 9.62km를 잇는 왕복 4차로의 지하도로다. 지하 40~120m를 가로지르는 도로로 지하 깊은 곳을 지나는 도로라서 ‘대심도’라고 하기도 한다.&lt;br&gt;&lt;br&gt;7901억원(국비 898억원, 시비 1118억원, 민자 5885억원)을 들여 2019년 11월 착공해 2026년 1월 준공 예정이다. 시 건설본부 측은 “당초 2024년 11월 공사를 마칠 계획이었으나 공사 중 최근 동래구 온천동 지하에서 12세기 말~13세기 초 고려시대 유물 등 문화재들이 출토되면서 14개월가량 공사 지연이 불가피하게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D5J4O5QRKJAARKBCY5FYVOOC2I.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재 공정률은 67%다. 만덕~센텀 대심도는 부산의 첫 대심도이고 길이로는 서부간선지하도로(10.3km)에 이어 전국 2번째다. 부산엔 또 사상구 감전동~해운대구 송정동간 19.2km를 연결하는 ‘사상~해운대간 대심도’도 건설될 계획이다.&lt;br&gt;&lt;br&gt;만덕~센텀 대심도는 개통되면 만덕~센텀 구간 통행시간이 기존 평균 41.8분에서 11.3분으로 30분 이상 단축될 것으로 시 측은 추정하고 있다. 손상영 시 건설본부 도로교량건설부장은 “센텀~만덕 대심도 건설에 따른 경제효과는 통행비용 연간 648억원 절감, 생산유발 1조2323억원, 고용창출 9599명 등으로 예상된다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘속옷 재단’ 간판 걸고 담배 제조한 중국인들...13만개비 압수</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/16/S2ZHIIEVRZDEFAYKBASF2T3BI4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/S2ZHIIEVRZDEFAYKBASF2T3BI4/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Oct 2024 12:03:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PCDBRBXJBVFZDNVVYIVU6AETGM.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울 영등포구 대림동 일대에서 적발된 불법담배 제조 공장. /서울경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 영등포구 대림동 일대에서 불법으로 담배 제조 공장을 운영한 중국인 일당이 경찰에 검거됐다.&lt;br&gt;&lt;br&gt;서울경찰청 기동순찰대는 16일 담배사업법 위반 등 혐의로 중국인 여성 8명을 체포해 조사 중이라고 밝혔다. 이 가운데 제조 책임자인 소위 ‘작업반장’을 맡은 1명은 구속상태로 조사를 받고 있다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이들은 최소 1년 전부터 대림동에서 불법 담배 공장 2곳을 운영하며 시가 약 13억원 어치의 담배를 제조한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이들은 하루에 150보루 분량의 담배를 생산했는데, 한 보루에 약 2만5000원을 받고 판매한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특히 공장 한 곳은 초등학교 맞은편 주택가에 있었는데, ‘란제리 재단 전문/대형재단판구비 ○○재단’ 간판을 걸고 위장 영업을 했다. 중국인이 선호하는 담배브랜드를 도용한 ‘짝퉁 담배’도 만든 것으로 조사됐다.&lt;br&gt;&lt;br&gt;“대림동 일대에 두 군데 공장에서 불법 담배를 제조하고 있다”는 주민 제보를 토대로 탐문해오던 경찰은 지난 12일 현장을 급습해 이들을 검거했다.&lt;br&gt;&lt;br&gt;검거된 8명 중 4명은 불법체류자였다. 담배 제조가 불법임을 알고도 신고하지 못하도록 불법체류자 위주로 고용한 것으로 경찰은 보고 있다. 경찰은 현장에서 담배 1360보루와 13만개비, 담뱃잎 280㎏, 압축기와 건조기 등 생산장비 28대를 압수했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “불법 담배는 건강 경고문구와 주요성분 함유량이 기재돼있지 않고 검증되지 않은 유해 성분이 함유될 수 있으므로 절대 구매하면 안 된다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“짐 많다”며 차 훔쳐 사고낸 20대 운전자… 무면허에 수배 들통</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/10/16/KC22IK6ELFGQXF646BUKQEUKGY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/10/16/KC22IK6ELFGQXF646BUKQEUKGY/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Oct 2024 12:02:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKPU66JR2ZACLDQI47NNRQYETM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20대 수배자가 차를 훔쳐 무면허 상태로 운전하다 사고까지 내고 달아났다 경찰에 붙잡혔다. 대전서부경찰서는 절도와 도로교통법 위반(무면허·사고 후 미조치) 등 혐의로 A씨를 조사하고 있다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 12일 오전 2시 30분쯤 대전 서구 괴정동 길가에 시동이 켜진 채 세워져 있던 스포츠유틸리티차(SUV)를 훔쳐 운전하다 인근에 주차된 다른 차를 들이받고 그대로 SUV를 몰고 달아난 혐의를 받고 있다. A씨는 얼마 가지 않아 차를 버리고 도주했다. SUV 차주의 신고를 받은 경찰은 반나절 만에 주거지에서 그를 붙잡았다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 다른 범행에 대한 벌금을 내지 않아 수배된 상태였다. 운전면허는 한 번도 취득한 적 없는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “짐이 많아 집까지 걸어가기 어렵기도 하고 차 문도 잠겨 있지 않아 훔쳤다”고 진술했다. 경찰은 A씨가 범행 전 술을 마신 사실을 시인한 점을 토대로 음주운전 혐의 적용 가능성도 검토하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KKPU66JR2ZACLDQI47NNRQYETM.jpg?width=400&amp;height=225&amp;auth=e53576f30c6739955bf433b86ab8da59d9536dd2ed2632cc9f8f4ecc4276b3d8&amp;smart=true" type="image/jpeg" height="225" width="400">
+        <media:description type="plain">경찰 로고. /조선일보 DB</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>[단독] 경찰, ‘연세대 논술문제 유출’ 공공범죄수사대 배당</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/16/N5BNKDCV4VFZBNBIRWVHMAO23U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/N5BNKDCV4VFZBNBIRWVHMAO23U/</guid>
+      <dc:creator>고유찬 기자, 구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Oct 2024 10:38:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNQOZDVUEJEXRHQAG47Y7NTF7Q.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청 광역수사단. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 최근 연세대에서 발생한 대입 논술문제 유출 관련 고발 사건을 서울경찰청 광역수사단 공공범죄수사대에 배당하고 본격적인 수사에 나섰다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “해당 사건을 신속하게 규명할 필요성이 있다고 보고 공공범죄수사대에 배당한 것”이라며 “현재 고소장 내용을 검토 중”이라고 16일 밝혔다.&lt;br&gt;&lt;br&gt;윤석열 대통령은 15일 오전 열린 국무회의에서 이주호 사회부총리 겸 교육부 장관에게 “책임자는 철저히 문책하고, 사태가 재발하지 않도록 엄정 조치하라”고 지시한 바 있다.&lt;br&gt;&lt;br&gt;같은 날 오후 연세대는 문제지 등을 촬영해 온라인에 게시한 수험생 등 6명을 업무방해 등 혐의로 경찰에 고발했다. 인문계·자연계 유출자 각각 1명과 특정되지 않은 4명이 대상이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 연세대, ‘논술문제 유출’ 고발장 제출…경찰, 수사 착수</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/15/JPY43YBTRVEN3PTEUFQY57D3BU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/15/JPY43YBTRVEN3PTEUFQY57D3BU/</guid>
+      <dc:creator>구동완 기자, 고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Oct 2024 08:59:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HG6T34KCUB77YS36EPLGIOVISA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연세대학교 캠퍼스. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 연세대에서 발생한 대입 논술 문제 유출 사태에 대해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;15일 경찰 등에 따르면 연세대는 이날 오후 서울 서대문경찰서 민원실에 고발장을 제출했다. &lt;br&gt;&lt;br&gt;고발 대상은 신원이 특정된 인문계열과 자연계열 유출자 1명씩과 특정되지 않은 4명 등 총 6명이다. 연세대는 사진 속 문제지와 답안지 필기 내용 등을 토대로 유출자 2명의 신원을 파악한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “해당 고발장을 접수했으며, 사건을 수사팀에 배당해 수사에 착수할 예정”이라고 밝혔다. &lt;br&gt;&lt;br&gt;윤석열 대통령은 이날 오전 용산 대통령실에서 주재한 국무회의 마무리 발언에서 일부 대학의 시험 관리 부실과 관련해 이주호 사회부총리 겸 교육부 장관에게 경위 파악을 지시하며 “책임자는 철저히 문책하고, 사태가 재발하지 않도록 엄정 조치하라”고 말했다.&lt;br&gt;&lt;br&gt;연세대는 이번 논술 시험에서 공정성을 훼손하는 행위가 있었는지 등 전반에 대해서도 16일 중으로 경찰에 수사를 의뢰할 방침이다.&lt;br&gt;&lt;br&gt;앞서 지난 12일 서울 연세대 신촌캠퍼스에서 수시 모집 자연 계열 논술 고사에서 한 고사장에 들어온 감독관 2명이 시험 시작 시간을 착각, 시험 시작 약 1시간 전인 12시 55분에 문제지 등을 배부했다.&lt;br&gt;&lt;br&gt;이후 감독관의 관리, 감독이 소홀한 점을 노리고 한 수험생이 휴대전화를 사용해 문제지 내용을 인터넷 커뮤니티에 유포했다. 이에 따라 문제지가 시험 시작 전 유출되는 전례 없는 사고가 발생했고, 수험생과 학부모를 중심으로 논란이 일기 시작했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“브라이언은 선비”···카카오 김범수, 두번째 재판에서도 ‘SM 시세조종’ 혐의 부인</title>
       <link>https://www.chosun.com/national/national_general/2024/10/16/HQCNDKFQD5DBJOAD26BG6YZJOA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/HQCNDKFQD5DBJOAD26BG6YZJOA/</guid>
@@ -589,48 +731,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;할아버지를 흉기로 살해한 20대 남성이 법정에 출석한 할머니의 증언을 듣고 오열했다.&lt;br&gt;&lt;br&gt;지난 15일 서울동부지법 형사합의12부(재판장 이정형)는 존속살해 혐의로 재판에 넘겨진 A씨(23)의 첫 공판기일을 진행했다.&lt;br&gt;&lt;br&gt;이날 휠체어를 타고 법정에 나온 A씨의 할머니는 “손자가 아직 어리고 순하고 착하다. 처벌을 적게 받기를 원한다”며 “제 목숨과 바꿀 수도 있다”고 선처를 호소했다. 이를 듣던 A씨는 결국 오열했다.&lt;br&gt;&lt;br&gt;A씨는 지난 8월 6일 오전 12시 30분쯤 서울 성동구 금호동에 있는 다세대 주택에서 70대 할아버지를 술을 마신 상태에서 흉기로 여러 차례 찔러 살해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;사건 당시 A씨는 가족관계등록부상 피해자의 아들로 등재되어 있었는데 실제로는 손자인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;조사결과 A씨는 유년 시절부터 할아버지가 자신을 폭행하고 할머니를 괴롭혔다는 이유로 할아버지에게 강한 불만을 품어왔던 것으로 드러났다. 최근까지도 경찰에 A씨 할아버지와 관련한 가정폭력 신고가 여러 건 접수됐던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“사골 국 끓이려다”…경주 한 식당에서 화재, 건물·집기 타 2800여만 원 피해  </title>
-      <link>https://www.chosun.com/national/regional/2024/10/16/XEXKQCM6RJF7HMD6HXCMV2B7PI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/16/XEXKQCM6RJF7HMD6HXCMV2B7PI/</guid>
-      <dc:creator>경주=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 05:53:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T3ZXFBM3MZHGZAPWT5IC6SOPBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 15일 오후 10시 43분쯤 불이 난 경북 경주시 하동의 한 식당에서 소방관들이 진화작업을 벌이고 있다./경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 오후 10시 43분쯤 경북 경주시 하동 한 식당 건물에서 화재가 발생, 1시간여만에 꺼졌다. 이 불로 건물 절반과 집기 등이 불에 타 소방서 추산 2800여만원 재산피해가 발생했다. 직원들은 퇴근 한 이후라 인명피해는 없었다.&lt;br&gt;&lt;br&gt;불이 나자 소방 당국은 장비 11대와 인력 29명을 동원해 진화 작업에 나섰다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 “사골 국을 끓이기 위해 가스레인지를 켜놓고 퇴근했다”는 식당 관계자의 진술 등을 바탕으로 자세한 화재 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내년 DDP·홍대입구에 ‘디자인 학교’ 생긴다</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/16/AEBH4FMPIBB5JP2W3KRVCQLIW4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/AEBH4FMPIBB5JP2W3KRVCQLIW4/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 05:45:07 +0000</pubDate>
-      <content:encoded>서울시가 디자이너들을 위한 전문 교육 플랫폼 ‘서울형 디자인 스쿨’을 운영하기로 했다. 성수 등 서울 시내 3곳에 디자인 제품 상설 전시장을 만들고, 디자인기업을 위한 안심보험도 내년부터 도입한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EPNLSIHSMZBILMZBXX4ORQQL54.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울시가 16일 발표한 '디자인산업 발전 5개년 계획'의 주요 내용. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 16일 이 같은 내용을 담은 ‘디자인산업 발전 5개년 계획’을 발표했다. 서울시가 디자인 산업 발전을 위한 계획을 발표한 것은 지난 2009년 ‘디자인산업 활성화 종합계획’ 이후 15년 만이다.&lt;br&gt;&lt;br&gt;우선 서울시는 디자인 교육을 위한 ‘서울형 디자인 스쿨’을 운영한다. 올해 1000명을 대상으로 온라인 교육을 시작해, 내년부턴 중구 동대문디자인플라자(DDP)와 마포구 홍대입구역 인근에 있는 서울디자인창업센터에서 오프라인 교육도 진행할 계획이다.&lt;br&gt;&lt;br&gt;서울시가 이처럼 ‘디자인 학교’를 만들기로 한 건 디자인 기업의 인력난과 디자이너의 취업난이 겹치고 있어서다. 서울시 관계자는 “기업들은 ‘디자이너들의 이직이 잦아 숙련된 인력 채용이 힘들다’고 하고, 디자이너들은 ‘교육을 제대로 받지 못해 좋은 기업에 취직하기 어렵다’고 한다”고 말했다.&lt;br&gt;&lt;br&gt;서울시가 운영하는 서울형 디자인 스쿨에서는 디자이너를 꿈꾸는 사람들과 이미 경력이 있는 디자이너 모두 수업을 들을 수 있다. 서울시는 수업을 듣는 이들에게 기업·대학과 연계한 실습 기회와 해외 전시회에 참가할 수 있는 기회를 제공할 예정이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “국내외 대학 교수와 전문가는 물론 세계적인 디자이너들도 강사로 모시려고 한다”고 말했다.&lt;br&gt;&lt;br&gt;서울시는 또 2026년까지 서울 시내 3곳에 디자이너와 디자인 기업을 위한 제품 상설 전시장을 마련할 계획이다. 이를 위해 이미 만들어져 있는 DDP와 서울디자인창업센터를 활성화하고, 2026년까지 성동구 성수동에 980㎡ 규모의 팝업 스토어를 새로 만든다.&lt;br&gt;&lt;br&gt;디자인 기업을 위한 안심보험도 내년 상반기부터 도입한다. 서울시가 신한EZ화재보험과 공동 개발 중인 ‘디자인기업 안심보험‘은 기업이 시제품을 개발하다 파손·도난이 발생하거나 제품 납품에 실패하는 경우 제작비의 최대 60%까지 보장하는 상품이다. 서울시 관계자는 “보험료의 30%를 서울시가 부담할 계획”이라며 “5년간 1500개 업체를 지원할 방침”이라고 했다.&lt;br&gt;&lt;br&gt;이외에도 서울시는 디자인 개발이 필요한 제조업체와 디자인 업체를 매칭해 디자인 개발 비용이나 해외 판로 개척 등을 지원해주고, 서울디자인위크도 전시 중심에서 산업박람회로 전환해 기업들의 판로를 넓혀준다는 계획이다.&lt;br&gt;&lt;br&gt;최인규 서울시 디자인정책관은 “역량 있는 디자이너와 디자인 기업에 적극적으로 투자·지원해 서울 디자인 산업이 국제적으로 도약할 수 있는 기반을 마련하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내년부터 30세 이상 1만명에 연간 35만원 ‘디지털 평생 교육 이용권’ 지원</title>
-      <link>https://www.chosun.com/national/education/2024/10/16/757LJDC4YRDZ5PK73Z5KLAV7IM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/16/757LJDC4YRDZ5PK73Z5KLAV7IM/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 05:40:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKQZWT3MFVKZJOMPRWP3PWDY5U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이주호 사회부총리 겸 교육부장관이 16일 세종시 정부세종청사에서 '인공지능·디지털 30+ 프로젝트'를 발표하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 내년부터 30세 이상 성인 1만명에게 인공지능·디지털 분야 수업을 들을 수 있는 바우처 성격의 디지털 평생 교육 이용권을 준다.&lt;br&gt;&lt;br&gt;디지털 평생 교육 이용권은 저소득층 위주였던 기존의 평생 교육 바우처와 달리, 30세 이상 일반 성인들도 신청해 이용할 수 있다. 구체적인 신청 방법은 내년 3월쯤 안내될 예정이다.&lt;br&gt;&lt;br&gt;이외에도 정부는 인공지능·디지털 선도대학 100곳을 육성해 성인이 원하는 대학에서 맞춤형 디지털 재교육 등을 받을 수 있도록 한다.&lt;br&gt;&lt;br&gt;16일 오전 이주호 부총리 겸 교육부 장관은 이 같은 내용이 담긴 ‘인공지능·디지털 30+ 프로젝트’를 발표했다. 이 부총리는 “인공지능·디지털 역량이 선택이 아닌 필수인 만큼, 30세 이상 성인도 관련한 재교육 등을 통해 역량을 강화할 수 있는 평생 교육 정책들을 추진하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;교육부는 디지털 평생 교육 이용권인 ‘인공지능·디지털 커리어점프 패스’를 신설하고, 내년부터 해당 이용권을 통해 30세 이상 성인 1만명에게 연간 35만원을 지원해준다.&lt;br&gt;&lt;br&gt;해당 이용권으로 30대 실무자는 직무 효율성을 높이는 데이터 분석 및 시각화·디지털 마케팅 등의 수업을, 40대 중간관리자는 디지털 전략적 활용에 도움되는 클라우드 이해 등의 수업을 평생교육기관 등에서 들을 수 있다.&lt;br&gt;&lt;br&gt;또 교육부는 대학을 중심으로 성인의 인공지능·디지털 역량 제고를 지원하겠다고 밝혔다. 인공지능·디지털 선도대학 100곳을 육성해 30~40대가 인공지능 기반 프로그래밍이나 빅데이터 분석 등 자신에게 필요한 수업을 온라인과 오프라인으로 듣고 교육 과정을 이수할 수 있도록 한다.&lt;br&gt;&lt;br&gt;교육부와 과학기술정보통신부에서 개별적으로 운영해온 디지털 역량 진단·조사는 ‘한국형 디지털 역량 진단 인증 체계’로 일원화해 취업이나 경력 전환 등에 활용될 수 있도록 한다.&lt;br&gt;&lt;br&gt;정부는 이번 프로젝트에 들어가는 전체 예산 규모는 1100억원, 총 수혜 인원은 66만명이 될 것으로 예상하고 있다.&lt;br&gt;&lt;br&gt;지난해 스위스 국제경영개발연구원 조사에 따르면 우리나라의 ‘디지털 경쟁력’은 64개국 중 6위로 세계적 수준이지만, 인재 분야의 디지털 기술 능력은 48위로 낮았다. 과기부 실태조사에서도 개인의 디지털 정보화 수준이 30대부터 점차 하락하는 것으로 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/KKQZWT3MFVKZJOMPRWP3PWDY5U.JPG?width=4804&amp;height=2192&amp;auth=0b1950ad139e256d2dc418d6fd833302788113a74c361636a2bd6e2c7ed5d646&amp;smart=true" type="image/jpeg" height="2192" width="4804">
-        <media:description type="plain">(세종=뉴스1) 김기남 기자 = 이주호 사회부총리 겸 교육부장관이 16일 세종시 정부세종청사에서 AID(인공지능·디지털) 30+ 프로젝트 발표하고 있다. 
-
-교육부는 관계부처와 함께 30세 이상 성인이 인공지능·디지털 분야의 재교육·향상교육을 통해 직무와 일상생활에서 삶의 질을 높일 수 있도록 하는 'AID(인공지능·디지털) 30+ 프로젝트'를 진행한다고 밝혔다. 2024.10.16/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(세종=뉴스1) 김기남 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>호프집에서 산업디자인 연구? 세금 ‘꼼수’ 통로된 R&amp;D 공제</title>
-      <link>https://www.chosun.com/national/2024/10/15/DX4R7XUINZGV7C5YTVVX5E2FBA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/10/15/DX4R7XUINZGV7C5YTVVX5E2FBA/</guid>
-      <dc:creator>주형식 기자, 김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Oct 2024 16:20:23 +0000</pubDate>
-      <content:encoded>경기 수원시 영통구의 한 맥줏집은 올해 2월 산업 디자인을 연구한다며 국세청에 ‘R&amp;amp;D(연구·개발) 세액공제’를 신청해 인정받았다. 덕분에 한 해 수백만 원의 세액공제가 예상된다고 한다. 지난 10일 본지 기자가 찾아가 보니, 이곳은 여느 호프집과 똑같은 모습이었다. 주방엔 조리 기구들이 설치됐고, 홀엔 손님용 테이블, 의자들로 가득 찼다. 아르바이트생은 ‘여기서 디자인 연구·개발을 하고 있냐’는 질문에 “5개월 넘게 일했는데 처음 듣는다”고 했다. 업주는 “휴일에 시간이 나면 디자인 연구·개발을 하기 때문에 문제될 게 없다”고 했다.&lt;br&gt;&lt;br&gt;‘R&amp;amp;D 세액공제’는 연구 및 인력 개발에 사용한 비용을 법인세 또는 소득세(사업소득 소득세만 해당)에서 공제해주는 제도다. 미래 성장 동력 및 일자리 창출을 돕자는 취지로 도입됐다. 공제 혜택을 받고 있는 기업 수는 해마다 증가해 작년 4만3378곳이 총 4조6434억원을 공제받았다. 기술 종류, 기업 규모에 따라 세액공제율이 달라지는데 이 중 일반 R&amp;amp;D 세액공제는 기술 문턱이 높은 신성장·원천기술 및 국가전략기술에 비해 세액공제를 받기 수월한 편이다. 기업들은 연구·개발 전담 부서 조직을 따로 만들어 여기서 발생한 인건비, 재료비, 임차료 등을 세액공제받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XZ2V4E4D3VHMXHJQHEMUASDF3I.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김하경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제도 취지는 좋지만, 현실에선 실제 연구를 하지도 않으면서 세액공제 혜택만 누리다 적발되는 기업이 적지 않은 게 문제다. 국세청이 국민의힘 박수영 의원실에 제출한 자료에 따르면, 국세청이 허위·부정 신고로 사후 추징한 액수는 2021년 25억원(155건)에서 2022년 64억원(316건), 작년 144억원(771건)으로 2년 만에 5배 넘게 늘었다. 현재 국세청은 세액공제의 기본 요건이 되는 연구 여부를 과학기술정보통신부 산하 사단법인 한국산업기술진흥협회(이하 산기협)에 맡기고 있다. 연구·개발 활동이 없어 연구소 인정을 취소한 건수는 작년에만 145건이다.&lt;br&gt;&lt;br&gt;그나마 당국에 적발되는 건 극히 일부분이다. 산기협에 따르면 연구소 소재 여부를 파악하지 못한 기업이 393곳이다. 산기협이 연구소에 직접 가서 연구 여부를 불시 점검해야 하는데 이조차 하지 못하는 것이다. 과기부 관계자는 “신고한 주소에 연구소 사무실이 없다 하더라도 세액공제 취소 절차를 밟으려면 청문 등 절차를 걸쳐야 해 최소 1년 정도 걸린다”고 했다. 서울 금천구의 한 교육 업체는 지난 2016년부터 ‘산업 디자인 연구’ 명목으로 8년 동안 1억원 안팎의 세액공제를 받았다. 그런데 본지 기자가 지난달 27일 교육 업체가 신고한 연구소에 가보니 사무실은 방치돼 있었다. 문은 닫혀있고 책상, 의자는 어질러져 있었다. 인근 사무실 관계자는 “저곳에서 누가 일하는 걸 본 적 없다”며 “뭐 하는 곳이냐”고 되물었다. 서울 영등포구의 한 데이터 업체는 방송 통신 및 정보 서비스 연구를 한다고 신고했지만, 실제 가보면 택배 업체가 운영 중이었다.&lt;br&gt;&lt;br&gt;정부의 관리·감독이 허술한 탓에 R&amp;amp;D 세액공제가 사실상 ‘사각지대’로 방치됐다는 분석이 나온다. 산기협의 조사 인력은 41명인 데 비해, 당국에 신고한 기업 연구소는 7만9010곳(올해 8월 기준)이다. 현 인력으로는 연구 여부를 직접 확인하는 데 걸리는 시간만 2년 3개월로 예상된다는 게 산기협 설명이다. 산기협 관계자는 “매년 5000여 곳의 연구소가 새로 신청되고 있다”며 “허위 또는 부정한 방법, 연구개발 활동이 없거나 자격 미달 등으로 취소된 연구소도 매년 2000여 곳에 달해 전체 기업을 상대로 전수 조사를 벌이기엔 사실상 불가능하다”고 했다.&lt;br&gt;&lt;br&gt;일부 기업들은 컨설팅 업체에 의뢰해 실제 하지도 않은 연구를 한 것처럼 속이다 적발되기도 한다. 산기협은 지난해 기업 13곳 의뢰를 받아 가짜 R&amp;amp;D 실적을 제출한 컨설팅 업체를 적발했다. 이 컨설팅 업체는 수백만 원의 자문료를 받고 사무실에 일하고 있는 연구원 사진 등을 연구 자료 근거로 제출했다. 하지만 이는 모두 컨설팅 업체가 연출한 가짜 연구소로 조사됐다. 박수영 의원은 “세법상 세액공제는 실질적으로 보조금 지원에 준하는 효과가 있다”며 “실제 R&amp;amp;D를 수행하지 않으면서도 부당하게 혜택을 가로채는 기업들 때문에 선량한 기업들이 피해를 보지 않도록 범부처가 나서 엄정히 대응할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞R&amp;amp;D 세액공제&lt;/b&gt;&lt;br&gt;&lt;br&gt;기업이 연구·개발, 인력 개발에 투자한 비용을 법인·소득 세액에서 공제해 미래 성장 동력 창출을 돕도록 하는 제도. 제조업 등 일부 업종에만 적용되다가, 2020년부터 모든 업종으로 확대됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>﻿한소희, 혜리에게 몰래 악플 달았다?…”본인 부계정 아냐” 의혹 부인</title>
       <link>https://www.chosun.com/national/people/2024/10/16/YN22M6EOVNGVDEFZ6JYVHHZFVI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/16/YN22M6EOVNGVDEFZ6JYVHHZFVI/</guid>
@@ -638,15 +738,6 @@
       <description/>
       <pubDate>Wed, 16 Oct 2024 05:05:24 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYHG4L4J6NO6PHCUUJXSMOIEAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 한소희가 지난달 25일 오전 서울 용산구 드래곤시티 호텔에서 열린 넷플릭스 시리즈 '경성크리처' 시즌2 제작발표회에서 포즈를 취하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 한소희가 소셜미디어 비공개 계정으로 배우 혜리에게 악플을 달았다는 의혹을 부인했다.&lt;br&gt;&lt;br&gt;16일 다수 온라인 커뮤니티와 소셜미디어 등에서는 혜리 공식 인스타그램 계정에 악플을 단 네티즌 A씨의 계정이 화제가 됐다.&lt;br&gt;&lt;br&gt;A씨는 “느그 언니(류준열 전 여자친구 혜리)랑 류(한소희 전 남자친구 류준열) 합쳐도 (한소희한테) 안 되더라” “애초에 1700만(팔로워)를 채운다고 생각하는 능지(지능이 낮다고 비꼴 때 쓰는 신조어) 수준” “간만에 한소희 때문에 혜리 따봉(좋아요) 수 많이 박혀서 좋았겠다. 지금은 다 빠졌지만” 등 혜리를 깎아내리는 악의적 댓글을 달았다. A씨 계정이 만들어진 건 올해 3월이다. 한소희와 배우 류준열의 열애설이 터지면서 ‘환승연애’ 의혹이 일었던 시기다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AVIKMA4GT5GOPBK4SXTX6I3MJM.png"&gt;&lt;figcaption&gt;&lt;small&gt;배우 혜리 인스타그램에 악플을 단 계정이 배우 한소희의 것이라는 의혹이 불거졌다. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그런데, 이 계정을 한소희와 절친한 사이로 잘 알려진 배우 전종서가 팔로우한다는 점에서 논란이 됐다. 팔로우하는 계정이 19개뿐인 전종서가 자신과 관계없는 악플러를 팔로우할 이유가 없다는 점에서 사실은 A씨가 한소희 아니냐는 의혹이 불거졌다.&lt;br&gt;&lt;br&gt;A씨 계정의 프로필 사진이 토성 사진이라는 점도 한소희 비공개 계정설에 힘을 실었다. 한소희는 이 토성 사진과 동일한 사진을 지난 7월 2일 자신이 직접 운영하는 공식 인스타그램 계정에 올렸다.&lt;br&gt;&lt;br&gt;또한, A씨 계정 아이디에는 고양이(cat)와 영화 어벤저스(Avengers) 단어가 들어가는데, 한소희가 평소 좋아하는 것들로 알려져있다. &lt;br&gt;&lt;br&gt;한소희 측은 사실이 아니라는 입장이다. 한소희 소속사 9아토엔터테인먼트는 공식입장을 통해 “금일 보도된 한소희 배우 관련 언론에 노출된 소셜미디어 계정은 한소희의 부계정이 아님을 알려드린다”고 밝혔다. 전종서 소속사 앤드마크는 “개인 사생활이라 확인하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XICBZDBOVVAMPAJBWBY3TROTO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 한소희(왼쪽)와 전종서. /한소희 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 지난 3월 15일 소셜미디어에 한소희와 류준열이 하와이에서 시간을 보내는 장면이 목격됐다는 글이 퍼졌고, 양측은 열애설이 불거진 지 하루 만에 연인 사이임을 인정했다. 이 과정에서 혜리가 자신의 인스타그램에 “재밌네”라는 글을 올리면서 류준열이 혜리와의 관계를 정리하기 전 한소희와 연인 사이로 발전하는 이른바 ‘환승연애’를 했다는 추측이 나왔다.&lt;br&gt;&lt;br&gt;한소희는 류준열과 혜리가 결별한 이후인 올해 초 두 사람이 가까워졌다며 혜리를 저격하는 듯한 게시물을 올려 거듭 논란이 됐다.&lt;br&gt;&lt;br&gt;혜리는 “제 사소한 행동 하나하나가 어떤 파장을 가져오게 될지 미처 생각하지 못했던 것 같다”며 사과했다. 한소희와 류준열은 3월 말 결별 소식을 전했다. 한소희 측은 “소통의 방법이 옳지 않았고 죄송하다. 어떤 질타도 달게 받겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“지하 주택에 물 차오르면 119에 자동 신고” 서울 종로구 ‘비상벨’ 시범사업 시작</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/16/M6JXLQKQY5HJ7HK6GAJXOWILEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/M6JXLQKQY5HJ7HK6GAJXOWILEE/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 05:04:59 +0000</pubDate>
-      <content:encoded>서울 종로구는 지하 주택 침수 예방을 위해 전국 최초로 119 연계 ‘종로 비상벨’ 시범사업을 시작한다고 16일 밝혔다. 지하 주택에서 재난 안전 사고가 발생했을 때 119가 즉시 출동해 인명 피해를 예방하는 것이다. 종로구는 “소방청, 서울종합방재센터와 함께 사업을 선보일 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIAGVYRZ5JO4DKJUFD7G7FQCUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 오후 서울 종로구 신영동 인근에서 지하주택 종로 비상벨 시연이 진행되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;종로 비상벨은 ‘침수 센서’와 ‘비상벨’로 구성된다. &lt;br&gt;&lt;br&gt;침수 센서는 지하 주택에 경계 단계(2cm) 이상 물이 차오르면 구청, 거주자, 보호자, 동행파트너 등에게 알림 문자를 보낸다. 위험 단계(15cm) 이상 침수되면 자동으로 소방서에 신고한다. &lt;br&gt;&lt;br&gt;거주자가 위급상황에서 비상벨을 누르면 119에서 신고를 받고 양방향 통화 장치로 주민 상태를 확인, 신속하게 출동할 수 있다.&lt;br&gt;&lt;br&gt;종로구는 “기존 침수 방지 시설은 초기 대응에는 적합하지만 비상탈출이나 인명구조에 취약하고, 지하 주택 주민의 대피를 돕는 동행 파트너는 전문적 구조 활동에 한계가 있었다”며 “종로 비상벨은 이를 보완한다는 점에서 의미가 있다”고 했다.&lt;br&gt;&lt;br&gt;이달부터 시범 운영이 시작된다. 효과를 분석한 뒤 2025년부터 확대 시행할 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘배터리 군납 비리’ 에스코넥 직원 영장 심사 당일 숨진 채 발견</title>
@@ -825,77 +916,6 @@
       <description/>
       <pubDate>Tue, 15 Oct 2024 16:38:12 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M2YUMCIM4ZF3NIWZ2BHQVDD27A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문헌일 서울 구로구청장이 15일 자진 사퇴한다고 밝혔다. 2022년 취임한 지 2년 만이다.&lt;br&gt;&lt;br&gt;구로구에서 엔지니어링 회사를 운영해온 문 구청장은 인사혁신처가 회사 주식을 팔거나 백지신탁하라고 하자 불복해 소송을 냈었다. 1심과 2심 법원에서 잇따라 패소하자 문 구청장은 주식을 팔거나 백지신탁하는 대신 구청장직 사퇴를 택했다. 현직 지방자치단체장이 이러한 논란으로 자진 사퇴하는 것은 이례적인 일이다. 문 구청장이 자기 재산을 지키기 위해 구청장직을 중도 사퇴한다는 지적이 나온다.&lt;br&gt;&lt;br&gt;문 구청장은 이날 사퇴문을 발표하고 “구민 여러분과의 약속을 지키지 못하게 돼 매우 송구스럽고 죄송한 마음”이라고 밝혔다.&lt;br&gt;&lt;br&gt;문 구청장은 본지 통화에서 “명예도 좋지만 평생 가꿔온 회사를 하루아침에 저버릴 수 없어 고민 끝에 사퇴하기로 했다”며 “사퇴한 후에는 회사로 돌아갈 계획”이라고 했다.&lt;br&gt;&lt;br&gt;문 구청장은 2022년 7월 지방선거에서 국민의힘 후보로 출마해 당선됐다. 국민의힘 후보가 구로구청장에 당선된 것은 12년 만이었다.&lt;br&gt;&lt;br&gt;문 구청장은 1990년 구로구에 ‘문엔지니어링’이라는 정보통신 설비 회사를 설립, 운영해 왔다. 그가 보유한 주식은 4만8000주로 평가액이 170억원 수준인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;문 구청장은 지방선거 당시 이 회사 회장직은 내려놨지만 주식은 계속 보유했고 인사혁신처 주식백지신탁심사위원회는 작년 3월 문 구청장이 보유한 주식을 매각하거나 백지신탁하라고 결정했다. 구청장의 업무와 회사의 이해 관계가 충돌할 수 있다는 것이다. 공직자윤리법에 따르면, 고위공직자는 직무와 관련성이 있는 회사의 주식을 보유한 경우 매각하거나 금융기관에 백지신탁해야 한다.&lt;br&gt;&lt;br&gt;문 구청장은 이에 불복해 행정소송을 냈으나 1심과 2심 모두 패소했다. 사건은 현재 대법원에 올라가 있다.&lt;br&gt;&lt;br&gt;문 구청장은 소송 과정에서 “회사가 구로구 내 사업을 수주하지 못하게 정관을 변경했고 본사도 구로구에서 금천구로 이전해 직무 관련성이 없다”고 주장했지만 법원은 받아들이지 않았다.&lt;br&gt;&lt;br&gt;문 구청장이 물러나면 내년 4월 새 구청장을 뽑기 위한 보궐선거를 치러야 한다. 16일부터 부구청장이 구청장 직무를 대행한다. 주민 입장에서는 구정 공백이 불가피한 상황이 됐다. 이에 대해 문 구청장은 “내가 갖고 있는 회사가 구로구와 관련된 일을 전혀 하지 않아 이런 일이 생길 줄 몰랐다”고 했다.&lt;br&gt;&lt;br&gt;홍성걸 국민대 행정학과 교수는 “주식 백지신탁 제도가 도입된 지 20년 가까이 됐다”며 “주식을 팔 수 없다면 애초에 선거에 출마하지 말았어야 한다”고 했다.&lt;br&gt;&lt;br&gt;정부공직자윤리위원회에 따르면 문 구청장의 재산은 작년 3월 148억원에서 올 3월 196억원으로 48억원 증가했다. 문 구청장이 보유한 주식의 평가액이 120억원에서 170억원으로 상승한 덕분이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>14만명 ‘비행기 원정 진료’에… 尹대통령 “제주에 상급종합병원 지정 추진”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/10/16/F4MTMV4GUVHFNJUKCHC54OTOCQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/16/F4MTMV4GUVHFNJUKCHC54OTOCQ/</guid>
-      <dc:creator>강다은 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 16:10:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UJEEUSMRPBM2BMU5SI5VOQGCAE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 15일 제주시 제주대학교병원을 방문해 입원중인 어린이 환자를 만나고 있다./대통령실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 제주도 내에 있는 병원에 대한 상급 종합병원 지정을 추진한다. 상급 종합병원은 일반 종합병원 대비 수가(건보공단이 병원에 주는 돈)를 더 적용받아 장비, 인력 등에 투자를 늘릴 수 있다. 그간 제주도민 상당수는 서울로 ‘원정 진료’를 갔는데, 상급 종합병원이 제주에 생기면 더 높은 질의 의료 서비스를 가까이에서 받을 수 있게 되는 것이다.&lt;br&gt;&lt;br&gt;윤석열 대통령은 15일 제주도 제주국제자유도시개발센터(JDC)에서 ‘세계로 열린 청정한 섬, 글로벌 휴양 도시 제주’를 주제로 29번째 민생 토론회를 열었다. 윤 대통령은 “무엇보다 제주도의 의료 환경부터 확실하게 개선해야 한다”며 “제주도의 상급 종합병원이 조속히 지정될 수 있도록 하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;상급 종합병원이란, 종합병원 중 중증 환자 비율 34% 이상, 필수 진료 과목 9개를 포함한 20개 이상 진료 과목, 입원 환자 10명당 1인 이상의 의사, 소아·신생아 중환자실 등 일정 요건을 갖춘 병원으로, 통상 500개 이상 병상을 갖춘 뒤 해당 지역의 응급 환자, 중환자 치료를 전담한다. 정부는 2011년부터 매년 상급 종합병원을 지정하고 있는데, 지난해 12월 서울, 강원 등 11개 진료 권역의 47개 병원이 지정됐다.&lt;br&gt;&lt;br&gt;그간 제주도 내에는 상급 종합병원이 없어 제주 도민의 불편함이 컸다. 매년 약 14만명의 경·중증 환자가 서울의 병원을 찾아 진료를 받았다. 항공편을 이용해 120분 내에 환자가 병원으로 이동할 수 있다는 점 등 때문에 제주가 서울 권역으로 묶이다 보니, 제주도 소재 의료기관이 상급 종합병원으로 지정되기 위해서는 서울 ‘빅5′ 병원들과 경쟁해야만 했다. 이에 정부는 올 연말까지 상급 종합병원 지정·평가 제도 개선을 위한 정책 연구를 해 그 결과를 바탕으로 2026년 6월까지 진료 권역을 재설정한다. 섬이라는 특수성을 고려해 ‘제주 진료 권역’을 추가로 설정하는 방안을 검토 중이다. 병상 500개 이상을 갖춘 제주대 병원과 제주한라병원이 상급 종합병원 후보가 된다. 우동기 대통령 직속 지방시대위원회 위원장은 “비수도권에서도 ‘빅5′ 병원 수준의 의료 서비스를 제공할 체계를 구축할 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 외에도 윤 대통령은 이날 제주도를 ‘하늘을 나는 택시’ 도심항공교통(UAM) 시범 운용 구역으로 지정하고, 제주도 그린수소 실증 사업에 2026년까지 560억원을 투입하는 등의 내용을 담은 ‘제주 도약 비전’ 세 가지를 발표했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 10월 16일</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/16/YBG5S772NRDWLBNEUH5AI7ESGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/YBG5S772NRDWLBNEUH5AI7ESGI/</guid>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3R5JLRD5ABBYJC2YC7WFGAI3G4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>마라톤 경기 중 차에 치인 선수… 70대 운전자 “미처 못 피했다”</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/16/4EFHWOBZPFARZGINMAIRLD6NSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/4EFHWOBZPFARZGINMAIRLD6NSU/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 15:02:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HQ6IV7OATVMTTASQNCHU3AGKBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11일 오후 경남 김해시 김해종합운동장에서 열린 '제105회 전국체육대회' 개막식에서 각 지역 선수단이 입장하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 김해에서 열린 전국체전 하프마라톤 경기 도중 70대 운전자가 몰던 승용차가 달리던 선수를 들이받는 사고가 발생했다.&lt;br&gt;&lt;br&gt;15일 김해중부경찰서 등에 따르면 이날 오전 11시34분쯤 김해시 구산동 노인복지회관 인근 3차로에서 70대 운전자 A씨의 차량이 통제 구간(1·2차선)을 달리던 선수 B(20대)씨를 뒤에서 치었다.&lt;br&gt;&lt;br&gt;B씨는 경기도체육회 소속으로 당시 남자일반부 경기에 출전 중이었다. 그는 이 사고로 왼쪽 다리 관절을 다쳤고 경기도 한 병원으로 옮겨져 치료받았다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 사고 직전 주행 구간인 3차선을 달리다가 우회전한 뒤 통제 구간인 2차선으로 진입했다. 이를 발견한 경기 진행요원이 A씨 차량을 3차선으로 유도했으나 A씨는 그대로 앞서가던 B씨를 들이받았다.&lt;br&gt;&lt;br&gt;추돌 순간 차량 속도는 시속 20㎞ 정도였던 것으로 알려졌다. A씨는 경찰에 ‘B씨를 발견했으나 미처 피하지 못했다’는 취지의 진술을 했다고 한다. 경찰은 차량 블랙박스 영상과 목격자 진술 등을 토대로 정확한 사고 경위를 살펴보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주 환자 “서울 안 가게 해달라”…尹 “그러려고 여기 왔습니다”</title>
-      <link>https://www.chosun.com/politics/politics_general/2024/10/15/YBU5GYQ24JDYXBMPDT3LHH22JY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/politics_general/2024/10/15/YBU5GYQ24JDYXBMPDT3LHH22JY/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 12:47:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3VONV4XGPJOX7HCN4N7GXZMJKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 15일 제주시 제주대병원 제주지역암센터를 찾아 입원 환자와 대화를 나눈 뒤 인사하고 있다. /대통령실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 15일 제주특별자치도를 방문해 “제주대병원이 빠른 시일 내에 상급 종합병원으로 지정될 수 있도록 적극 지원하겠다”고 두 차례 약속했다.&lt;br&gt;&lt;br&gt;윤 대통령은 이날 오후 제주국제자유도시개발센터(JDC)에서 ‘세계로 열린 청정한 섬, 글로벌 휴양 도시 제주’를 주제로 민생 토론회를 열어 “제주도의 의료 환경을 확실하게 개선해야 한다”며 제주도의 상급 종합병원 부재(不在)를 문제로 거론했다. 윤 대통령은 “제주도에 70만명이 거주하고 있고 매년 1000만명 이상이 방문해서 의료 수요가 늘고 있는데, 서울과 진료 권역이 묶여 있어 상급 종합병원이 하나도 없다”며 “제주도민들은 부족한 의료 인프라 때문에 가족이 크게 아프기라도 하면 서울을 비롯한 육지로 나가서 진료받아야 하는 상황이다. 기상 여건이 나빠서 이동이 불가능하면 응급 환자와 가족 분들이 얼마나 애가 타겠느냐”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령은 이에 “제주도에 상급 종합병원이 조속히 지정될 수 있도록 하겠다”고 했다. 윤 대통령은 “지역 특성을 감안해서 진료 권역을 (서울과 묶이지 않게) 재설정하고, 상급 종합병원에 관한 제도를 개선하고, 상급 종합병원에 필요한 물적 의료 시설의 지원을 적극적으로 추진할 것”이라고 약속했다. 그러면서 “중증 환자와 감염병 대응을 위한 제주대병원, 서귀포의료원의 기능 확충을 차질없이 신속하게 지원하겠다”고 했다.&lt;br&gt;&lt;br&gt;우동기 지방시대위원장은 민생 토론회 후 브리핑에서 “윤 대통령이 제주권 상급 종합병원 지정은 지체하지 말고 빨리 시행하라고 주문했다”고 전했다. 윤 대통령은 상급 종합병원 지정을 반드시 하겠다는 의미에서 “정부 측 답변에 (애매한) ‘검토’라는 말도 쓰지 말라”고 지시했다고 한다.&lt;br&gt;&lt;br&gt;윤 대통령은 이어서 제주대병원을 방문해 의료진을 비롯한 병원 관계자들과 간담회를 하고 “어느 지역에 살더라도 중증 필수 의료의 접근성을 보장받아야 한다”며 “제주도에 상급 종합병원이 없다는 것은 상식적으로 맞지 않다. 제주대병원이 빠른 시일 내에 상급 종합병원으로 지정될 수 있도록 적극 지원하겠다”고 했다.&lt;br&gt;&lt;br&gt;제주대병원 김우정 진료부원장이 “중환자실 전담 전공의 유치를 위해 운영비 지원이 필요하다”고 건의하자, 윤 대통령은 즉석에서 조규홍 보건복지부 장관에게 “상급 종합병원 지정을 위해서는 적정한 인력도 필요한 만큼, 빠른 시일 내에 검토해 추진하라”고 지시했다. 송성욱 응급의료센터장은 “최근 제주대병원이 거점지역응급의료센터로 지정되면서 권역센터 수준의 수가를 적용받아 상당히 도움이 되고 있지만, 이런 지원이 한시적인 만큼 앞으로도 지속될 수 있기를 희망한다”고 했다. 이 건의에 대해서도 윤 대통령은 즉석에서 조 장관에게 “비상 진료 체계 내에서만 한시적으로 진행하는 것이 아닌, 제도화를 통한 안정적인 지원이 가능하도록 적극 검토하라”고 지시했다.&lt;br&gt;&lt;br&gt;윤 대통령은 “가장 중요한 것은 속도”라며 “지역완결적 의료체계를 구축할 수 있도록 속도를 내겠다”고 강조했다. 윤 대통령은 “제주대병원이 하루빨리 상급 종합병원으로 지정될 수 있도록 속도를 내달라”고 조 장관과 장상윤 사회수석에게 재차 당부했다고 한다.&lt;br&gt;&lt;br&gt;간담회 후 윤 대통령은 병원 로비에서 한 환자를 만났다. 이 환자가 “제주 지역 환자가 서울까지 가지 않도록 해주십시오”라고 말하자, 윤 대통령은 “그러려고 여기 왔습니다. 걱정 마십시오”라고 답했다고 대통령실은 전했다.&lt;br&gt;&lt;br&gt;상급 종합병원이란, 중증 환자 비율 34% 이상, 필수 진료 과목 9개를 포함한 20개 이상의 진료 과목, 입원 환자 10명당 1인 이상의 의사, 소아·신생아 중환자실 등 일정한 요건을 갖춘 종합병원이다. 통상 해당 지역의 응급 환자, 중환자 치료를 전담한다. 정부는 매년 상급 종합병원을 지정하고 있고 지난해 말 11개 진료 권역 47개 병원이 지정됐으나 이 가운데 제주도 병원은 없다. 제주~서울 항공편을 이용해 120분 내에 환자가 서울의 병원으로 이동할 수 있는 것으로 간주돼 제주가 서울과 같은 진료 권역으로 묶여 있다보니, 제주도 병원이 상급 종합병원으로 지정되기 위해선 서울의 ‘빅5′ 병원들과 경쟁해야만 했다.&lt;br&gt;&lt;br&gt;대통령실은 윤 대통령이 제주도 내 상급 종합병원 지정을 공개리에 약속해 정책 추진력을 높이기 위해 이날 간이식으로 끼니를 때우며 강행군을 했다고 밝혔다. 윤 대통령은 이날 오전 서울 용산 대통령실 청사에서 국무회의를 주재하고 곧바로 경기 성남 서울공항으로 이동해 항공편으로 제주도로 이동했다. 점심은 기내에서 김밥 한 줄로 때웠다. 민생 토론회 직후엔 곧바로 제주대병원 방문 일정이 이어져, 저녁 식사도 서울공항으로 돌아오는 항공편에서 샌드위치로 대신했다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>유튜브에 ‘바카라’ 생중계...타짜 소년범 10년간 5배 늘었다</title>
-      <link>https://www.chosun.com/national/2024/10/15/NWYGWXOQAFHMLPZXKY5G4H2GDM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/10/15/NWYGWXOQAFHMLPZXKY5G4H2GDM/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 11:15:31 +0000</pubDate>
-      <content:encoded>도박 범죄를 저지른 청소년이 최근 10년 새 5배 넘게 급증한 것으로 15일 나타났다. 도박에 중독돼 의료 기관을 찾는 청소년 환자 역시 늘어나는 추세다.&lt;br&gt;&lt;br&gt;경찰청이 더불어민주당 강유정 의원실에 제출한 자료에 따르면, 올해(이하 8월 기준) 형사 입건된 도박 혐의 소년범(14세 이상 19세 미만)은 328명으로 2015년 59명의 5.6배로 늘었다. 14세 미만 촉법소년은 올해 45명 검거됐다. 관련 통계를 잡기 시작한 2021년 3명의 15배로 급증했다.&lt;br&gt;&lt;br&gt;청소년 도박 중독 환자 역시 증가했다. 건강보험심사평가원에 따르면, 19세 미만 청소년 도박 중독 환자 수는 올해 181명으로 2015년 27명의 6배 이상으로 늘었다. 이 중엔 10세 환자도 있었다. 사행산업통합감독위원회에 따르면 한국도박문제예방치유원을 통해 도박 중독 관련 치유·상담을 받은 청소년은 올해 2665명으로 2017년 503명의 4.6배로 늘었다.&lt;br&gt;&lt;br&gt;청소년들이 도박에 빠져드는 건 스마트폰으로 도박 사이트에 쉽게 접근할 수 있기 때문이다. 최근 불법 도박 사이트 운영자들이 청소년을 주요 타깃으로 삼으면서 문제는 더욱 심각해지고 있다. 경찰청 관계자는 “도박 총책들은 청소년들이 많이 모여 있는 카카오톡 오픈 채팅방, 텔레그램 방을 찾아가 광고한다”며 “모집책들은 ‘처음 가입하면 게임 머니를 주겠다’며 몇몇 청소년을 유혹하고, 주변 친구들에게 사이트를 소개할 경우엔 추가 게임 머니를 인센티브 형식으로 주는 다단계 사기 범행을 벌이고 있다”고 했다.&lt;br&gt;&lt;br&gt;특히 청소년들은 유튜브를 통해서 불법 도박을 접하고 있는 추세다. 유튜브에서 ‘바카라’를 검색할 경우 수십 개의 실시간 생방송을 별도의 성인 인증 없이 시청할 수 있다. 유튜브 댓글난에는 불법 도박 사이트 주소가 도배돼 청소년들도 쉽게 접근할 수 있다. 강유정 의원은 “불법 도박 사이트를 폐쇄하려면 방송통신심의위원회의 심의를 거쳐야 하는데 이 과정에서 1주일~3개월이 소요되는 반면, 복제 도박 사이트를 개설하는 데 걸리는 시간은 하루에서 이틀이면 충분하다”며 “급증하는 불법 도박 사이트 창궐에도 정부 차원 대책은 미비하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, 허위 대출로 ‘180억 횡령’ 우리은행 전 직원에 20년 구형</title>
-      <link>https://www.chosun.com/national/2024/10/15/27PT6AULF5HHBDF4B3G4UOUD4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/10/15/27PT6AULF5HHBDF4B3G4UOUD4Q/</guid>
-      <dc:creator>김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 09:39:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JUGXYGBJBUK6WXCXW7UDTQ3LQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중구 우리은행 본점 모습. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대출 관련 서류를 조작하는 수법으로 180억원에 가까운 돈을 횡령한 혐의(특정경제범죄 가중처벌 등에 관한 법률상 사기)를 받는 우리은행 전 직원에게 검찰이 징역 20년을 구형했다.&lt;br&gt;&lt;br&gt;창원지검은 창원지법 형사2부(부장 김성환) 심리로 열린 이번 사건 결심 공판에서 이같이 선고해달라고 재판부에 요청했다고 15일 밝혔다. 또 벌금 1억원과 추징금 105억4000여만원도 함께 구형했다.&lt;br&gt;&lt;br&gt;우리은행 경남 김해의 한 지점에서 근무하던 A씨는 지난해 7월부터 지난 5월까지 35차례에 걸쳐 개인·기업체 등 고객 17명 명의의 대출 서류를 위조하는 방법으로 허위 대출을 신청하고, 대출금 등 177억7000만원을 빼돌린 혐의로 구속 기소됐다.&lt;br&gt;&lt;br&gt;검찰 조사결과 A씨는 마치 고객의 정상적인 대출 신청이 있는 것처럼 속여 범행을 이어간 것으로 드러났다. 특히 결재권자가 부재할 때는 관행적으로 실무담당자가 시급한 대출 결재를 대신 해온 점, 지점 대출 요청을 받은 본점이 대출명의자가 아닌 지점으로 대출금을 송금하고 이를 지점에서 처리하도록 하는 경우 등 은행 차원의 관리·감독이 미흡한 점을 노린 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 또 지난해 7월부터 9월 사이에는 개인 대출고객 2명에게 연락해 “남아 있는 대출 절차를 위해 이미 입금된 대출금을 잠시 인출해야 한다”고 속여 2억2000만원을 지인 계좌로 받기도 했다.&lt;br&gt;&lt;br&gt;그는 이렇게 빼돌린 돈 대부분을 가상자산 투자와 기조 채무를 돌려막는 데 쓴 것으로 드러났다. 이날 검찰은 “피해액 중 105억원은 아직 회수되지 않았고, 기소 전 몰수 보전으로 확보된 44억원을 제외하더라도 피해액은 60억원이 넘는다”면서 “사실상 회복이 불가한 금액이 60억원인 만큼 징역 20년을 선고해달라”고 밝혔다.&lt;br&gt;&lt;br&gt;A씨 측 변호인은 “피해자인 우리은행에도 관리 감독 부실의 책임이 있었고, A씨가 70억원 상당을 변제한 후 자수한 점 등을 참작해달라”고 재판부에 요청했다. A씨는 최후진술에서 “엄청난 피해액을 한평생 갚는다 해도 어렵겠지만, 제 삶이 다할 때까지 변제의 책임을 다하겠다”며 “우리은행과 피해자들에게 피해를 끼쳐 진심으로 사죄드린다”고 말했다.&lt;br&gt;&lt;br&gt;이번 사건 선고는 오는 12월 12일 열릴 예정이다.&lt;br&gt;&lt;br&gt;한편, 우리은행 측은 자체 내부통제 시스템을 통해 이상 징후를 포착했으며, 은행 측이 소명을 요구하자 A씨는 지난 6월 10일 경찰에 자수했다. 경찰은 이날 A씨를 긴급체포했고, 6월 12일 영장을 발부받아 구속했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>구로구청장 자진 사퇴, “170억 주식 백지신탁 때문”</title>
-      <link>https://www.chosun.com/national/regional/seoul/2024/10/15/RFJOLOHWAJFYNGWLDBA4HYKWOU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/10/15/RFJOLOHWAJFYNGWLDBA4HYKWOU/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 09:25:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W3JBO3ODVY4RVHSXV37DZ65APE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문헌일 서울 구로구청장./구로구 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문헌일 서울 구로구청장이 구청장 자리에서 스스로 물러나기로 했다. 국민의힘 소속으로 2022년 7월 취임한지 2년여만이다. 법원의 판단에 따라 자신이 운영해온 회사의 170억원 상당의 주식을 매각하거나 백지신탁해야 하기 때문이다.&lt;br&gt;&lt;br&gt;구로구는 문 구청장이 16일부로 자진 사퇴한다고 15일 밝혔다. 문 구청장은 사퇴문을 발표하며 “최근 법원에서는 제가 주주로 있었던 기업과 구청장의 직무 사이에 업무 연관성이 있다는 판결을 내렸다”며 “법원의 결정은 그간 사심 없이 공명정대하게 구정을 수행해 온 저로서는 매우 아쉽고 가슴 아픈 결정”이라고 말했다.&lt;br&gt;&lt;br&gt;지난해 3월 주식백지신탁심사위원회는 문 구청장이 가진 ‘문엔지니어링’ 주식이 공직자 업무와 상충한다고 보고 해당 주식을 백지신탁하라고 결정했다. 고위 공직자와 국회의원은 직무와 연관성 있는 3000만원 이상의 보유 주식은 매각하거나 백지신탁해야한다.&lt;br&gt;&lt;br&gt;문엔지니어링은 1990년 창립했다. 정보통신 설계·감리 회사다. 문 구청장이 1994년 인수해 현재까지 최대주주로 있다. 대표, 회장직을 거쳐 지난 2022년 지방선거를 앞두고 회사의 직함을 내려놨다.&lt;br&gt;&lt;br&gt;문 구청장은 이에 불복해 행정소송을 제기했으나 1심과 2심 모두 패소했다.&lt;br&gt;&lt;br&gt;문 구청장은 “비록 구청장직을 내려놓게 되었지만 계속 구로구의 밝은 미래를 응원할 것”이라며 “앞으로도 구로구가 발전하는 데에 미약하나마 끝까지 힘을 보태겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;문 구청장은 16일 구의회 의장에게 사임통지서를 제출한다. 이에 따라 구로구는 17일부터 엄의식 부구청장 권한대행 체제로 운영된다. 보궐선거는 내년 4월 치러진다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, ‘손태승 친인척 부당대출’ 주도한 우리은행 전 본부장 구속 기소</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/15/YKPVGOR5BVEPTJCNTZPYBBUA74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/15/YKPVGOR5BVEPTJCNTZPYBBUA74/</guid>
-      <dc:creator>박정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 09:03:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AGR4CG6YURKKHEI5CRSKXVY2KQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손태승 전 우리금융지주 회장 친인척 부당대출 의혹과 관련해 대출을 주도한 핵심 인물로 알려진 우리은행 임모 전 본부장이 지난달 27일 서울 양천구 서울남부지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;손태승 전 우리금융지주 회장의 친인척에 대한 부당대출을 주도한 혐의를 받는 우리은행 임모 전 본부장이 15일 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울남부지검 금융조사1부(부장 김수홍)는 특정경제범죄가중처벌 등에 관한 법률 위반(배임·수재 등) 혐의로 임 전 본부장을 구속 기소했다고 이날 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 임 전 본부장은 우리은행 신도림금융센터장과 선릉금융센터장으로 재직할 당시 손 전 회장의 처남인 김모씨와 친분을 쌓아 부당대출에 관여한 혐의를 받는다.&lt;br&gt;&lt;br&gt;검찰은 우리은행이 2020년 4월부터 올해 초까지 손 전 회장의 친인척과 관련된 업체 등에 대해 도합 350억원 규모의 특혜성 부당대출을 실행했다는 금융감독원 조사 결과를 넘겨받아 수사 중이다.&lt;br&gt;&lt;br&gt;검찰은 지난달 25일 임 전 본부장에 대한 구속영장을 청구했고, 법원은 이틀 뒤인 27일 영장실질심사를 진행한 후 “증거 인멸 및 도망할 염려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;앞서 손 전 회장의 처남 김씨도 특정경제범죄가중처벌법상 횡령 등 혐의로 지난달 24일 구속 기소됐다. 김씨는 아내 명의의 회사 자금을 유용하는 등 혐의를 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
