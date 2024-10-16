@@ -13,6 +13,403 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“브라이언은 선비”···카카오 김범수, 두번째 재판에서도 ‘SM 시세조종’ 혐의 부인</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/16/HQCNDKFQD5DBJOAD26BG6YZJOA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/HQCNDKFQD5DBJOAD26BG6YZJOA/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Oct 2024 09:55:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MTGHNTEXESGBAIV7HIJS377WJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;SM엔터테인먼트 시세조종 의혹을 받는 김범수 카카오 경영쇄신위원장이 22일 오후 서울 양천구 서울남부지방법원에서 영장실질심사를 받기 위해 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘SM엔터테인먼트(SM) 시세조종’ 의혹을 받는 카카오 창업주 김범수 경영쇄신위원장이 두 번째 재판에서도 혐의를 부인했다. 김 위원장은 “수많은 회의에 참석했지만 위법한 것에 승인한 적은 없었다”고 말했다.&lt;br&gt;&lt;br&gt;16일 오후 2시 서울남부지법 형사합의15부(재판장 양환승)는 자본시장법 위반 등의 혐의를 받는 김 위원장과 홍은택 전 카카오 대표, 김성수 전 카카오엔터 대표, 강호중 카카오투자전략실장 등에 대한 두 번째 공판을 진행했다.&lt;br&gt;&lt;br&gt;이날 카카오 측 변호인은 검찰의 공소사실을 모두 부인했다. 변호인은 “피고인들은 위법한 장내 매수를 논의하거나 공모한 적이 없고 적법한 절차로 인식했다”며 “카카오의 장내매수로 인해 시장에서 실질적 피해자도 없었다”고 했다.&lt;br&gt;&lt;br&gt;특히 “투자 전략실 직원들은 ‘브라이언(김 위원장의 영어 이름)은 선비라서 (SM) 경영권 분쟁에 뛰어들기 싫다 그랬다’고 말했다”며 “김 위원장은 하이브 공개 매수에 적극 대응하는 방안에 소극적인 입장을 취해왔다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 “카카오 측은 SM 인수를 위해 하이브 공개매수를 저지하려 했고 특정 시점에 주식을 대량 매집해 하이브 공개매수가인 12만원 이상으로 SM 주식 시세를 고정·안정시키려 했다”고 말했다. 이어 검찰은 지난해 2월 15일 김 위원장이 배재현 전 카카오 투자총괄대표에게 “평화적으로 SM을 가져와라”고 말한 것은 ' 더 이상 실패하지 말고 SM 경영권을 가져오라’는 의미라고 주장했다.&lt;br&gt;&lt;br&gt;이날 재판부는 김 위원장에 대한 보석 심문도 진행했다. 김 위원장 측 변호인은 “피고인들이 직접 기억과 증거를 확인하며 사실관계를 상기하는 것이 방어권 보장 차원에서 굉장히 중요하다”며 “피고인 방어권 확보를 위해서라도 보석이 절실하다”고 했다.&lt;br&gt;&lt;br&gt;이어 “피고인은 IT 산업을 이끌 신성장·미래산업 발굴에 집중해왔다”며 “피고인의 구속이 장기간 이어져 골든타임을 놓치면 카카오와 IT 산업 전체가 타격을 받아 회복하기 어려운 상황인 점 등을 고려해달라”고 했다.&lt;br&gt;&lt;br&gt;검찰은 지난 7월 구속 사유와 마찬가지로 증거 인멸과 도주 우려를 사유로 들어 김 위원장의 구속 상태를 유지할 것을 주장했다. 검찰은 “피고인이 최고의사결정권자이자 최대 주주인 것을 고려해 사안 실체를 밝혀야 한다”며 “이번 사건은 개인 비리가 아닌 카카오 총수로 벌인 일이다. 경영 활동을 하고 싶다는 것이 보석 사유가 될 수 없다”고 했다.&lt;br&gt;&lt;br&gt;김 위원장은 재판을 마치기 전 “수많은 회의에 참석했지만 위법한 것에 승인하거나 결론을 내려본 적이 없다”며 “검찰에서는 ‘카카오 측’이라고 하면서 내가 하지도 않음 수많은 것들을 (했다고) 말하는데, 너무 답답하다. 억울한 상황을 참착해줬으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 지난 10일 김 위원장은 구속된지 80일만에 재판부에 보석을 청구했다. 1심 구속기간은 공소장이 접수된 날을 기준으로 2개월이며, 필요에 따라 2개월씩 2회 연장할 수 있다. 김 위원장은 담당 재판부 결정으로 오는 12월 7일까지 구속기간이 연장된 상태다.&lt;br&gt;&lt;br&gt;검찰에 따르면 피고인들은 지난해 2월 SM 인수 과정에서 경쟁 상대인 하이브의 공개 매수를 방해하기 위해 SM 주가를 하이브의 공개매수가(12만원)보다 높게 고정시키려고 시세를 조종한 혐의를 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] ‘논술문제 유출’ 연세대, 추가 고발... 진상조사위도 발족</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/16/WMWDGM5B2BBEVJ7GOFJXOFRJUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/WMWDGM5B2BBEVJ7GOFJXOFRJUU/</guid>
+      <dc:creator>고유찬 기자, 구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Oct 2024 09:10:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HJ2AH7H4HVKG3LCPJWLO4ALS4Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;연세대학교 캠퍼스. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연세대가 최근 논란이 된 수시모집 논술시험 문제 유출 사태와 관련해 “시험의 공정성 전반을 검증해달라”며 16일 오후 경찰에 추가 고발장을 제출했다.&lt;br&gt;&lt;br&gt;연세대 관계자는 “오늘 오후 서대문경찰서에 추가 고발장을 제출했다”며 “이번 시험에서 공정성 훼손이 있었는지, 부당하게 이득을 본 수험생들이 있었는지를 경찰 수사를 통해 밝혀달라는 취지”라고 했다.&lt;br&gt;&lt;br&gt;이날 연세대는 경찰 고발과 별개로 자체 진상조사위원회도 발족했다. 진상조사위는 대학 본부나 입학처와 분리된 독립 기구다. 연세대는 2021년 음대 입시곡 유출 사태 때도 이러한 진상조사위를 구성한 적이 있다. 진상조사위는 감독관들의 감독에 허점은 없었는지 등을 조사할 방침이다.&lt;br&gt;&lt;br&gt;전날 연세대는 문제지 등을 촬영해 온라인에 게시한 수험생 등 6명을 업무방해 혐의로 경찰에 고발했다. 인문계·자연계 유출자 각각 1명과 특정되지 않은 4명이 대상이다. 해당 사건은 서울경찰청 광역수사단 공공범죄수사대에 배당됐으며, 경찰은 현재 고발장 내용을 검토하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘동창생·교사 얼굴에 나체사진 합성’ 딥페이크 성착취물 제작 판매한 고교생</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/16/25G5C7UT7VD47HCJBR2EY7AG6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/16/25G5C7UT7VD47HCJBR2EY7AG6E/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Oct 2024 09:19:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ULTQIIB2KSBKUAGUKH76YBJDW4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;딥페이크 성범죄가 사회적 문제로 떠오른 가운데 온라인에서 딥페이크 성범죄물을 제작하는 봇(bot)과 채팅방 등을 쉽게 접할 수 있다. /엑스 게시물, 텔레메트리오 화면 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동창생과 교사 등 지인의 얼굴을 나체사진과 합성한 딥페이크 성 착취물을 제작해 판매한 고교생이 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;수원지검 안산지청 형사2부(부장 이세희)는 아동·청소년의 성보호에 관한 법률 위반(성착취물제작)등의 혐의를 받는 10대 A군 구속기소했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면, A군은 지난 2월부터 7월까지 동창생 10명과 교사 1명의 얼굴을 여성 나체 사진과 합성, 모두 321개의 성 착취물과 허위영상물 등을 제작한 혐의를 받고 있다. A군은 이중 116개의 성 착취물을 판매한 것으로 조사됐다. A군은 스스로 성 착취물을 제작하거나, 다른 사람의 요청을 받고 만들어 판매하기도 한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A군은 SNS모니터링 중이던 경찰에 의해 덜미를 잡혔다. 당시 A군은 성 착취물을 장당 2000원에 판매하고 있었던 것으로 조사됐다. 검·경은 A군에게 성 착취물 제작을 요청한 이들에 대한 수사도 진행하고 있다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “피해자들에게 상담, 심리치료 등을 적극 지원했다”며 “경찰과 협력해 딥페이크 영상물 제작 및 유포 범행을 엄단하겠다”고 말했다.&lt;br&gt;&lt;br&gt;한편, 대검찰청은 지난 14일 디지털 성범죄 대응TF 첫 회의를 열고, 딥페이크 등 디지털 성범죄 대응과 사건 처리 기준 등을 정비하는 등 사건 수사와 처벌을 강화하는 방안을 모색하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘지인능욕방’ 딥페이크 영상 264개 올린 20대 구속기소</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/10/16/VSANCK6YYVGLTKVX6AT2YEJ6XY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/10/16/VSANCK6YYVGLTKVX6AT2YEJ6XY/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Oct 2024 08:41:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SGSOYSVCHGHB6ISGK7LKH5KBOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지인 사진으로 딥페이크 불법 합성물을 만든 20대 구속 기소. &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;텔레그램에 ‘지인 능욕방’을 운영하면서 지인의 SNS 일상 사진으로 딥페이크 불법 합성물을 만들어 올리고 아동 성착취물등을 유포한 20대가 구속기소 됐다.&lt;br&gt;&lt;br&gt;부산지검 여성아동범죄조사부(부장 손은영)는 성폭력처벌법 위반(허위 영상물 편집·반포 등), 청소년성보호법 위반(성 착취물 배포 등) 혐의로 20대 A씨를 구속기소했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 5월부터 올 6월까지 텔레그램 ‘지인 능욕방’을 개설한 뒤 6년 간 알고 지내던 여성의 SNS에 올라온 일상사진으로 딥페이크 허위 영상물 264개를 직접 제작해 올린 혐의를 받고 있다. A씨는 또 자신의 ‘지인 능욕방’ 참여자들과 공모해 아동·청소년 대상 성착취물 및 딥페이크 불법 영상물 15개를 유포한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;검찰은 보완 수사 과정에서 A씨가 단순히 텔레그램 대화방 참여자들의 성 착취물 유포 범행을 방조한 것이 아니라 공모한 사실을 밝혀내 ‘공동정범’으로 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 최근 이같은 지인능욕 딥페이크 영상물을 제작하고 자신의 텔레그램 대화방 참여자들이 성착취물·딥페이크 허위영상물을 유포하게 방조한 혐의로 경찰에 붙잡혀 구속송치됐다.&lt;br&gt;&lt;br&gt;검찰은 “사건을 송치받은 뒤 추가조사 등을 통해 A씨가 대화방 참여자들의 범행을 방조하는 데 그친 게 아니라 공모한 사실을 밝혀내 ‘방조범’이 아닌 ‘공범’으로 기소했다”고 말했다.&lt;br&gt;&lt;br&gt;검찰은 또 피해자 보호를 위해 부산시 여성폭력방지종합지원센터에 해당 성 착취물 등 불법 영상물 삭제, 차단 조치를 의뢰했다.&lt;br&gt;&lt;br&gt;검찰은 “향후에도 경찰, 피해자 지원기관과 협력해 딥페이크 영상물 제작 및 유포 범행을 엄단하고 2차 피해 방지를 위해 최선을 다할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2399] 열려라, 단어창고</title>
+      <link>https://www.chosun.com/national/nie/2024/06/14/44OVMBNODVAIVFVHLYCDIBB4BM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/14/44OVMBNODVAIVFVHLYCDIBB4BM/</guid>
+      <description/>
+      <pubDate>Thu, 13 Jun 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QXMXDO2B2ZFANE7DEGRL7G5LAE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2400] 양손으로 또박또박</title>
+      <link>https://www.chosun.com/national/nie/2024/06/17/DAAW4EZDM5BHLPKJ3B7FAXLTYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/17/DAAW4EZDM5BHLPKJ3B7FAXLTYQ/</guid>
+      <description/>
+      <pubDate>Sun, 16 Jun 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JEAKSNLBMZDJTB6PZ5MBUBYNMQ.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2401] 사다리를 타자</title>
+      <link>https://www.chosun.com/national/nie/2024/06/18/QUE264DEDNAZTIKVBTBZ7ZRABA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/18/QUE264DEDNAZTIKVBTBZ7ZRABA/</guid>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KL4GVS3SIJB45L6S5DFDGBNYJ4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2402] 강세 바꿔 읽기</title>
+      <link>https://www.chosun.com/national/nie/2024/06/19/S5BCQZPYXNHIJBDTCAIGL7OTSU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/19/S5BCQZPYXNHIJBDTCAIGL7OTSU/</guid>
+      <description/>
+      <pubDate>Tue, 18 Jun 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6SIH5F3GKJFX3GFCNFPIWK4RLE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2403] 바꿔 부르기</title>
+      <link>https://www.chosun.com/national/nie/2024/06/20/TWEOPFERTBGM5AQXXCRFO3FK7U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/20/TWEOPFERTBGM5AQXXCRFO3FK7U/</guid>
+      <description/>
+      <pubDate>Wed, 19 Jun 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RB36C3HMOBGTTAYHPEQ77ZN4SU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2405] 날씨 따라 삼천리</title>
+      <link>https://www.chosun.com/national/nie/2024/06/24/H56HQDT5URBPPJCLL2EWXTYO4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/24/H56HQDT5URBPPJCLL2EWXTYO4Y/</guid>
+      <description/>
+      <pubDate>Sun, 23 Jun 2024 15:35:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SFXO63NSPBFWLCSFDUMXESVBMM.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2406] 날짜 계산기</title>
+      <link>https://www.chosun.com/national/nie/2024/06/25/75XHRITWTJED3KQ53I6T5JWJRE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/25/75XHRITWTJED3KQ53I6T5JWJRE/</guid>
+      <description/>
+      <pubDate>Mon, 24 Jun 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5MWHTZD2RBO5HF4YZXBKJTME4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2407] 퍼즐 맞추기</title>
+      <link>https://www.chosun.com/national/nie/2024/06/26/AAANYR6TKVGGVNASMADE4MJPAY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/26/AAANYR6TKVGGVNASMADE4MJPAY/</guid>
+      <description/>
+      <pubDate>Tue, 25 Jun 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R7TFM74D25FFJEA6QZHMXR3G7U.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2408] 돌려라 룰렛 계산기</title>
+      <link>https://www.chosun.com/national/nie/2024/06/27/37DMHMGT2RC2RO4IN26YIEOC2Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/27/37DMHMGT2RC2RO4IN26YIEOC2Q/</guid>
+      <description/>
+      <pubDate>Wed, 26 Jun 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XOHG52BU5NABJF5P5QXSHV3QZE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2409] 칙칙폭폭 꼬리 잇기</title>
+      <link>https://www.chosun.com/national/nie/2024/06/28/PHSIGQZ7SZCT3MCUPHVR4ABWF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/28/PHSIGQZ7SZCT3MCUPHVR4ABWF4/</guid>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/273K6DRXZVDXPOCYAWP33SBFW4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2410] 쿵작쿵작 장단치기</title>
+      <link>https://www.chosun.com/national/nie/2024/07/01/OTSZUJHNN5EXXEQVPAUVSGMU4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/01/OTSZUJHNN5EXXEQVPAUVSGMU4Y/</guid>
+      <description/>
+      <pubDate>Sun, 30 Jun 2024 15:35:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IG4QDBMEKRAR5JLBJJ5XYNCCKI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2411] 알록달록 단어팔레트</title>
+      <link>https://www.chosun.com/national/nie/2024/07/02/3D66DT3ONNHTVCYAVEC7UE6OXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/02/3D66DT3ONNHTVCYAVEC7UE6OXE/</guid>
+      <description/>
+      <pubDate>Mon, 01 Jul 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DURWOBS4TNA2FLKB2AYBPLGVEU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2412] 따르릉 글자교환소</title>
+      <link>https://www.chosun.com/national/nie/2024/07/03/2IF2VRHEDRCMFJGPKS3BHI6WXQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/03/2IF2VRHEDRCMFJGPKS3BHI6WXQ/</guid>
+      <description/>
+      <pubDate>Tue, 02 Jul 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L726PIY5XZEAXLXX4S3AMSTLYM.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2413] 손가락 낭독회</title>
+      <link>https://www.chosun.com/national/nie/2024/07/04/DGZIL3BX6ZHRFDCZQURCHZNSPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/04/DGZIL3BX6ZHRFDCZQURCHZNSPY/</guid>
+      <description/>
+      <pubDate>Wed, 03 Jul 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3GU7AISZSVGWFAJL6SNDIRGZNI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2414] 초성 이어가기</title>
+      <link>https://www.chosun.com/national/nie/2024/07/05/PRRSRXXY45EBZJCCC7253KFCB4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/05/PRRSRXXY45EBZJCCC7253KFCB4/</guid>
+      <description/>
+      <pubDate>Thu, 04 Jul 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5MWL3P4JARAVNNHRB5FXHUEXZE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2415] 얼굴 삼행시</title>
+      <link>https://www.chosun.com/national/nie/2024/07/08/NY3V3IQ5UNCEBF45MYZIWU3QEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/08/NY3V3IQ5UNCEBF45MYZIWU3QEI/</guid>
+      <description/>
+      <pubDate>Sun, 07 Jul 2024 15:35:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F3WRT3ZEV5ASRLJ7L7DSRVNLSE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2416] 오늘은 뭘 볼까</title>
+      <link>https://www.chosun.com/national/nie/2024/07/09/ITK7N5KEONAQ5EAV7DVRMMPSEM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/09/ITK7N5KEONAQ5EAV7DVRMMPSEM/</guid>
+      <description/>
+      <pubDate>Mon, 08 Jul 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BWFQE7JISRBMLCSPJ4R5B6SIAE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2417] 제목 외우기</title>
+      <link>https://www.chosun.com/national/nie/2024/07/10/ZR2GA3KJQZEZRFDXFKC7CNWSBU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/10/ZR2GA3KJQZEZRFDXFKC7CNWSBU/</guid>
+      <description/>
+      <pubDate>Tue, 09 Jul 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5FALPEHAVFEXTK4WDRCLFYNCTI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2418] 그때를 기억하시나요</title>
+      <link>https://www.chosun.com/national/nie/2024/07/11/INN4AHWBRVBDVFBDPIAF3I53FM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/11/INN4AHWBRVBDVFBDPIAF3I53FM/</guid>
+      <description/>
+      <pubDate>Wed, 10 Jul 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TFYCKMDGI5GONPXAWMVW4H7HBE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2419] 칼럼 풀어 읽기</title>
+      <link>https://www.chosun.com/national/nie/2024/07/12/FCGSQXTSMZCK7G6L3TQHIQ64TM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/12/FCGSQXTSMZCK7G6L3TQHIQ64TM/</guid>
+      <description/>
+      <pubDate>Thu, 11 Jul 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J7LZHIWNINAYPA2LMGIE4ICWBU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2420] 신문은 스케치북</title>
+      <link>https://www.chosun.com/national/nie/2024/07/15/X3NDV27JYZH5VMVOSVTD6KT7NA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/15/X3NDV27JYZH5VMVOSVTD6KT7NA/</guid>
+      <description/>
+      <pubDate>Sun, 14 Jul 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4IL7L6AWJBY5OPY4RUJ7FMP7Q.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2421] 문장 꽈배기</title>
+      <link>https://www.chosun.com/national/nie/2024/07/16/2SSQYD2HYFHWZPNBSKN64YZ6IM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/16/2SSQYD2HYFHWZPNBSKN64YZ6IM/</guid>
+      <description/>
+      <pubDate>Mon, 15 Jul 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JYZGDVZ2DRCOFEED3P4RHIOAZ4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2422] 로꾸거 암송클럽</title>
+      <link>https://www.chosun.com/national/nie/2024/07/17/ODWCFLN3DFDUHDXNPGNHBJDKM4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/17/ODWCFLN3DFDUHDXNPGNHBJDKM4/</guid>
+      <description/>
+      <pubDate>Tue, 16 Jul 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UTH5NZMJYVEAHAAGI64ZVF2KVE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2423] 열려라, 단어 창고</title>
+      <link>https://www.chosun.com/national/nie/2024/07/18/MG2X244WCVATVMIV6RX5ITOYWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/18/MG2X244WCVATVMIV6RX5ITOYWY/</guid>
+      <description/>
+      <pubDate>Wed, 17 Jul 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XZMVCZ4ADJEITENPW46GL33OAA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2424] 양손으로 또박또박</title>
+      <link>https://www.chosun.com/national/nie/2024/07/19/SQCIISZ4WRANZHC4IUUOBYWL74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/19/SQCIISZ4WRANZHC4IUUOBYWL74/</guid>
+      <description/>
+      <pubDate>Thu, 18 Jul 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JLF36X25BRBLFPDO3A2U3URXLM.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2425] 사다리를 타자</title>
+      <link>https://www.chosun.com/national/nie/2024/07/22/AM7MSO7LANF5NPEIM6N62LZ7YE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/22/AM7MSO7LANF5NPEIM6N62LZ7YE/</guid>
+      <description/>
+      <pubDate>Sun, 21 Jul 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RFW7NFRCRZHL3JUDHQE2CVNW7I.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2426] 강세 바꿔 읽기</title>
+      <link>https://www.chosun.com/national/nie/2024/07/23/LITKMQMZOZHN7FVZAVJWTEAFHQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/23/LITKMQMZOZHN7FVZAVJWTEAFHQ/</guid>
+      <description/>
+      <pubDate>Mon, 22 Jul 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E34CXWYRZ5EZLP2ILVHJ6MEIUI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2427] 바꿔 부르기</title>
+      <link>https://www.chosun.com/national/nie/2024/07/24/BAGCETDTZVA3BFIS7TSUPOWD2M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/24/BAGCETDTZVA3BFIS7TSUPOWD2M/</guid>
+      <description/>
+      <pubDate>Tue, 23 Jul 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5W6NZINR5VDRXBVZECHNGF3CBA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2428] 암호로 바꿔 쓰기</title>
+      <link>https://www.chosun.com/national/nie/2024/07/25/DBBRHYEADRAWLGNRSKN56BGOJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/25/DBBRHYEADRAWLGNRSKN56BGOJI/</guid>
+      <description/>
+      <pubDate>Wed, 24 Jul 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P7RS6K4QIBEWDN7VZ64M52THXI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2429] 날씨 따라 삼천리</title>
+      <link>https://www.chosun.com/national/nie/2024/07/26/LZIOOXBOH5CC5OAE3ROTRLAALQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/26/LZIOOXBOH5CC5OAE3ROTRLAALQ/</guid>
+      <description/>
+      <pubDate>Thu, 25 Jul 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TPZUPOVBUBD5JKUPQ56IQFOHZA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2430] 날짜 계산기</title>
+      <link>https://www.chosun.com/national/nie/2024/07/29/CKQG2Y3GV5A6LOG5PEFJJDL764/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/29/CKQG2Y3GV5A6LOG5PEFJJDL764/</guid>
+      <description/>
+      <pubDate>Sun, 28 Jul 2024 15:35:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E7F5PX4EPRB67HL7QFJAJBHLWM.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2431] 퍼즐 맞추기</title>
+      <link>https://www.chosun.com/national/nie/2024/07/30/WL434CR6JZB2ZHXH5JN5L6HO6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/30/WL434CR6JZB2ZHXH5JN5L6HO6U/</guid>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 16:15:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GB2PEDF5LFACXKZJWLGL4M3WTQ.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2432] 돌려라 룰렛 계산기</title>
+      <link>https://www.chosun.com/national/nie/2024/07/31/PNJBYJC3QVEWHOTQ5M6RLGYPMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/31/PNJBYJC3QVEWHOTQ5M6RLGYPMA/</guid>
+      <description/>
+      <pubDate>Tue, 30 Jul 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FE74E5NUVJGXDPC6ZX7ZWLLDRY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2433] 칙칙폭폭 꼬리 잇기</title>
+      <link>https://www.chosun.com/national/nie/2024/08/01/QFUJJY42GVEAXEZFT373DQJ4U4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/01/QFUJJY42GVEAXEZFT373DQJ4U4/</guid>
+      <description/>
+      <pubDate>Wed, 31 Jul 2024 17:31:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBWHX7XO45GUBPSKBQHO3PERTQ.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2434] 쿵작쿵작 장단 치기</title>
+      <link>https://www.chosun.com/national/nie/2024/08/02/ONGVFNFTWVCHXP5TWS5CS4EAXQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/02/ONGVFNFTWVCHXP5TWS5CS4EAXQ/</guid>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 15:35:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5RMZLXM6GFBILP44OCIXFUN7I4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2435] 알록달록 단어팔레트</title>
+      <link>https://www.chosun.com/national/nie/2024/08/05/EPZ54TJSMJCKDCXJDJZKMEDHTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/05/EPZ54TJSMJCKDCXJDJZKMEDHTM/</guid>
+      <description/>
+      <pubDate>Sun, 04 Aug 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QCJU6NE5F5BAHFRDZ2W4SRLBWY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2436] 따르릉 글자교환소</title>
+      <link>https://www.chosun.com/national/nie/2024/08/06/OWPUEGS6JVG5XOADAPSJUMDCAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/06/OWPUEGS6JVG5XOADAPSJUMDCAQ/</guid>
+      <description/>
+      <pubDate>Mon, 05 Aug 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7MI32GEO2FGH7PQ3DB7NFLAWPU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2437] 손가락 낭독회</title>
+      <link>https://www.chosun.com/national/nie/2024/08/07/JN3QHXS3HVF2XLJTTP3BACDC6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/07/JN3QHXS3HVF2XLJTTP3BACDC6M/</guid>
+      <description/>
+      <pubDate>Tue, 06 Aug 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UIPNNMO76RHWHAV4TQE63GHJP4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2438] 초성 이어가기</title>
+      <link>https://www.chosun.com/national/nie/2024/08/08/RVJISN5PUFEETBYBENWFSWZCPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/08/RVJISN5PUFEETBYBENWFSWZCPQ/</guid>
+      <description/>
+      <pubDate>Wed, 07 Aug 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HPC6KCMMYBBI3P7SP2NOPBLIIQ.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2439] 얼굴 삼행시</title>
+      <link>https://www.chosun.com/national/nie/2024/08/09/CACTDYMF3NA4VCA7JQS27CZPTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/09/CACTDYMF3NA4VCA7JQS27CZPTQ/</guid>
+      <description/>
+      <pubDate>Thu, 08 Aug 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XIW57O2IDFHFTLMEL67Y3WSG3I.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2443] 칼럼 풀어 읽기</title>
+      <link>https://www.chosun.com/national/nie/2024/08/16/SLAAIBSAOJBRTCTI4AKE532FKI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/16/SLAAIBSAOJBRTCTI4AKE532FKI/</guid>
+      <dc:creator>장형태 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E7KIIHPKRBHJFHRXXSOVVOKC5I.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2455] 퍼즐 맞추기</title>
+      <link>https://www.chosun.com/national/nie/2024/09/03/ESTLKM5BLZANND2ZED44J7YO7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/09/03/ESTLKM5BLZANND2ZED44J7YO7Y/</guid>
+      <description/>
+      <pubDate>Mon, 02 Sep 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FGYIOGX3DFFI3C42X56SQNPYO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2456] 돌려라 룰렛 계산기</title>
+      <link>https://www.chosun.com/national/nie/2024/09/04/S3PLG3G7OJCKNPU2HZADZP7PCA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/09/04/S3PLG3G7OJCKNPU2HZADZP7PCA/</guid>
+      <description/>
+      <pubDate>Tue, 03 Sep 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VAQ6NRNYHFDDHHCF2RMSZNXIBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2457] 칙칙폭폭 꼬리 잇기</title>
+      <link>https://www.chosun.com/national/nie/2024/09/05/WOZNHGQMYBA5HDXCQ4HQ2GKMV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/09/05/WOZNHGQMYBA5HDXCQ4HQ2GKMV4/</guid>
+      <description/>
+      <pubDate>Wed, 04 Sep 2024 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MV7DFKPCMJCHVML4HYJLHMHQUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2464] 오늘은 뭘 볼까</title>
+      <link>https://www.chosun.com/national/nie/2024/09/19/WLTMZCFJZBETNOMZVUSDU3QJUM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/09/19/WLTMZCFJZBETNOMZVUSDU3QJUM/</guid>
+      <description/>
+      <pubDate>Wed, 18 Sep 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J3Q6H6Y2KBCSHFHTWBVRLGTRZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>여자 때려 구속된 ‘징맨’ 황철순, 2심서 3000만원 공탁...피해자는 거절</title>
       <link>https://www.chosun.com/national/national_general/2024/10/16/25VXBY4GYVAPNNPMK7JWZ25XBM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/25VXBY4GYVAPNNPMK7JWZ25XBM/</guid>
@@ -270,37 +667,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V4XKXZCUW257ROLSDALZ5XT76U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;통일부 내부 모습. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 전 대통령의 전 사위 서모(44)씨의 ‘타이이스타젯 특혜 채용’ 의혹을 수사 중인 검찰이 통일부를 압수수색하고 있다. &lt;br&gt;&lt;br&gt;전주지검 형사3부(부장 한연규)는 지난 14일부터 통일부 남북관계관리단(옛 남북회담본부)을 압수수색 해 ‘남북 평화 협력 기원 남측 예술단’ 전세기 선정과 관련한 증거물을 확보하고 있다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;문재인 정부 당시 통일부는 우리 예술단의 방북 전세기로 이스타항공을 선정했다. 이상직 전 더불어민주당 의원이 만든 이스타항공은 2018년 3월 29일과 31일 평양으로 가는 ‘남북 평화 협력 기원 남측 예술단’을 특별전세기로 실어날랐다.&lt;br&gt;&lt;br&gt;당시 대형 항공사가 아닌 이스타항공을 선정한 것과 관련해 특혜 의혹이 제기됐었다. &lt;br&gt;&lt;br&gt;검찰은 이런 의혹을 밝히기 위해 방북 전세기 선정 과정에 대한 증거물을 확보하고 있다. 앞서 검찰은 이달 초 조명균 전 통일부 장관의 주거지 등에 대한 압수수색도 진행했다.&lt;br&gt;&lt;br&gt;검찰은 문재인 전 대통령과 이상직 전 의원의 관계에 수사력을 집중하고 있다. 검찰은 2018년 3월 이상직 전 의원이 중소벤처기업진흥공단(중진공) 이사장에 임명되는 과정에 청와대가 관여한 것으로 보고 있다. 이 전 의원은 중진공 이사장에 임명된 직후 문 전 대통령 사위였던 서씨를 자신이 사실상 소유하고 있는 태국 저비용 항공사 타이이스타젯에 전무이사로 채용하고, 중진공 직원들을 동원해 서씨 가족이 태국에서 정착하도록 도운 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰은 문 전 대통령 가족을 지원한 것이 중진공 이사장 임명에 대한 대가인지 여부를 집중 조사 중이다. 이 전 의원이 창업한 이스타항공도 방북전세기 선정 등 각종 혜택을 받은 것으로 의심하고 있다. 검찰은 2019년 이스타항공이 관광 수요가 많은 중국, 싱가포르 등 여러 알짜배기 노선 운항권을 국토교통부로터 배분받은 과정도 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>음주 차량, 하필 울타리 뚫고 경찰청 주차장에 추락</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/16/RDTDSEYSTRAOTCFGAMOFV5HVZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/RDTDSEYSTRAOTCFGAMOFV5HVZM/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 04:57:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VRNIGJHKMZLTRC5HK6FMPAPKYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 15일 밤 울산경찰청 주차장으로 추락해 전복된 음주 운전자 차량. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만취 상태의 운전자가 운전하던 차량이 하필 경찰청 주차장에 추락하는 사고가 발생했다.&lt;br&gt;&lt;br&gt;16일 울산경찰청에 따르면 전날 음주운전을 하다 울산경찰청 주차장에 추락한 50대 남성 A씨를 도로교통법 위반 혐의로 불구속 입건했다.&lt;br&gt;&lt;br&gt;A씨는 전날 밤 오후 10시 32분쯤 음주상태로 차를 몰다 가로수와 울타리를 들이받고 울산경찰청 주차장으로 4m가량 추락했다.&lt;br&gt;&lt;br&gt;운전자 A씨는 사고 후 스포츠 유틸리티(SUV) 차량에서 스스로 빠져나와 횡설수설하며 서성거리고 있었다. A씨는 크게 다치지는 않은 상태였다. 음주측정 결과 A씨의 혈중알코올농도는 0.153%로 면허취소 수치였다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 만취 상태로 오르막길을 운전하다가 울산경찰청 청사 울타리를 뚫고 진입해 4m 아래 주차장으로 추락한 것으로 보고 있다. 경찰은 A씨를 상대로 정확한 사고 경위를 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전동킥보드 타고 가다 노인 친 20대... 벌금 500만원 선고</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/16/4MWMYWN43JGSRGD7CYEDTZIEPQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/16/4MWMYWN43JGSRGD7CYEDTZIEPQ/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 04:47:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OT2D7AV5P4VWHYEM5Z5C5IMQSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전동킥보드를 타고 가다 70대 노인을 치어 다치게 한 20대 여성에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;인천지법 형사17단독 김은혜 판사는 교통사고 특례법상 치상 혐의로 기소된 A씨에 벌금 500만 원을 선고했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 7월 2일 오후 7시 27분쯤 인천시 서구 일대에서 전동킥보드를 타고 가다가 B(여‧72)씨를 치어 다치게 한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 당시 시속 10㎞의 속도로 전동킥보드를 몰다 사고를 낸 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨의 전동킥보드에 치인 B씨는 외상성 뇌출혈로 병원에 이송돼 전치 8주의 진단을 받았다.&lt;br&gt;&lt;br&gt;재판부는 “피해자가 입은 상해의 정도가 가볍지 않고, 피고인이 피해자와 합의하기 위해 진지한 노력을 다한 바가 없다”며 “다만 피고인이 가입한 보험회사를 통해 피해자에게 치료비가 지급된 점, 잘못을 반성하고 있는 점, 초범인 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>던져둔 마약 찾으러…남의 아파트 양수기함 뒤진 30대 여성 체포</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/16/NPKVXN3IT5E75MZMFFMCTSUTMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/NPKVXN3IT5E75MZMFFMCTSUTMM/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 04:32:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ELNA6BGCKDKNLLFPIFELT6664M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 송파경찰서. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;던지기 수법으로 마약을 전달받으려 남의 아파트 양수기함을 뒤지던 30대 여성이 경찰에 검거됐다.&lt;br&gt;&lt;br&gt;서울 송파경찰서는 마약류관리법 위반과 건조물침입 혐의로 30대 여성 A씨를 현행범으로 체포해 조사 중이라고 16일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 14일 밤 서울 송파구의 한 아파트 양수기함에 숨겨져 있던 필로폰을 가져가려다 주민 신고로 경찰에 적발됐다. 경찰은 범행 현장에서 필로폰 소량을 발견했다. A씨는 마약 간이시약 검사에서 필로폰 양성 반응이 나왔다고 한다.&lt;br&gt;&lt;br&gt;경찰은 지난 15일 A씨에 대해 구속영장을 신청하는 한편, 마약 판매자에 대한 추적에 나섰다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/DFFUB77XMGEZBBZOVQMFAO32TE.jpg?width=600&amp;height=449&amp;auth=a1d08b5e851caccc1ffca3dd83000a3735145d1992492aa6b31dda1fea4ce1e0&amp;smart=true" type="image/jpeg" height="449" width="600">
-        <media:description type="plain">서울 송파경찰서</media:description>
-        <media:credit role="author" scheme="urn:ebu">위키피디아</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>홍명보, 야유 사라졌단 말에 웃으며 “이유 모르겠다”</title>
       <link>https://www.chosun.com/national/national_general/2024/10/16/2OQLWMZLLBF6XFDRQ3GOQK5YLE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/2OQLWMZLLBF6XFDRQ3GOQK5YLE/</guid>
@@ -317,15 +683,6 @@
       <description/>
       <pubDate>Wed, 16 Oct 2024 04:41:46 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBIS5H2QF6WUCBMPWKJEMHLQ6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 양천구 서울남부지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만취 상태로 경찰관을 폭행하고 모욕한 혐의를 받는 초임 검사가 첫 재판에서 혐의를 인정했다. 검찰은 해당 검사에세 징역 10개월을 구형했다.&lt;br&gt;&lt;br&gt;서울남부지법 형사4단독 장민석 판사는 16일 공무집행방해, 모욕 등 혐의로 재판에 넘겨진 수원지검 소속 심모(29) 검사에 대한 첫 공판을 열었다.&lt;br&gt;&lt;br&gt;심 검사 측 변호인은 “혐의를 전부 인정하고 증거에 모두 동의한다”고 했다. 심 검사는 “당시 만취했었냐”는 장 판사의 질문에 “만취했었다”며 인정했다.&lt;br&gt;&lt;br&gt;이날 검찰은 “피고인은 형사처벌 전력이 없고 범행을 반성하고 있으나 고위공직자로서 일반 국민의 신뢰를 저버리고 현장에서 애쓰는 경찰들에게 유형력을 행사한 점에 대해 준엄한 법의 심판이 있어야 한다”며 심 검사에 대해 징역 10개월을 구형했다.&lt;br&gt;&lt;br&gt;심 검사는 최후 진술에서 “대한민국 안전을 지키기 위한 경찰 분들의 노고를 알면서도 경찰관의 자부심을 모독하게 돼 입이 열 개라도 죄송하다”며 “앞으로 이런 일이 반복되지 않도록 하겠다. 피해 경찰들이 입은 피해를 회복하도록 노력하겠다”고 선처를 호소했다.&lt;br&gt;&lt;br&gt;또한 심 검사 측 변호인은 “(피고인은) 사건 이후 잘못을 인정하고 후회의 나날을 보내고 있다”면서도 “범행 당시 (술에 취해) 사리 분별이 어려울 정도였다. 신체가 제약 받는다고 느끼고 본능적으로 몸부림치는 과정에서 벌어진 일”이라고 주장했다.&lt;br&gt;&lt;br&gt;심 검사는 지난 4월 밤 서울 영등포구의 한 놀이터에서 술에 취한 채 누워있던 중, 신고를 받고 출동한 경찰관의 얼굴 등을 주먹으로 폭행한 혐의를 받는다.&lt;br&gt;&lt;br&gt;그는 지난해 변호사시험에 합격한 초임 검사로 사건 직후 파출소에 연행된 후에도 경찰관에게 저항하며 물리력을 행사한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;심 검사는 지난해 9월 임관해 속칭 스카이(SKY·서울·연세·고려대)급 법학전문대학원을 졸업한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘자리 대가 돈거래 의혹’ 서울개인택시조합 압수수색</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/16/5QXCZLXA5NEJJGWTDISDOY3FXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/5QXCZLXA5NEJJGWTDISDOY3FXQ/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 04:17:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 조합 임원 자리를 대가로 돈거래를 했다는 의혹을 받는 서울개인택시운송사업조합에 대해 강제 수사에 나섰다.&lt;br&gt;&lt;br&gt;16일 서울경찰청 형사기동대는 이날 오전 서울 송파구 신천동의 조합 본사 사무실 등을 압수수색했다고 밝혔다.&lt;br&gt;&lt;br&gt;서울개인택시운송사업조합 이사장 차모 씨 등은 조합 이사와 감사 등 직책을 대가로 수백만 원에서 수천만 원 상당의 금품을 받았다는 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;서울개인택시운송사업조합은 5만명에 달하는 서울 개인택시 기사들 대부분이 소속된 직능단체다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>한국 노인 10명 중 8명 “70은 넘어야 노인”...경로당 이용 줄고, 스마트폰 이용 늘어</title>
@@ -355,15 +712,6 @@
       <content:encoded>불법 촬영 혐의로 기소된 축구선수 황의조(32·알란야스포르)가 첫 재판에서 모든 혐의를 인정했다. 수사 과정에서는 혐의를 부인하다가 법정에서 태도를 바꾼 것이다. 이날 검찰은 황의조에게 징역 4년을 선고해달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SZNCX2ZAUNLB5HFSA2RTE5LWU4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;불법 촬영 혐의로 기소된 축구선수 황의조가 16일 서울 서초구 서울중앙지법에서 열린 성폭력처벌법 위반 사건 1심 첫 재판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사13단독 이용제 판사는 16일 성폭력처벌특례법 위반(카메라 등 이용 촬영) 혐의로 기소된 황의조의 첫 공판 기일을 열었다. 검은 정장을 입고 출석한 황의조는 이날 재판 내내 고개를 푹 숙이고 있었다.&lt;br&gt;&lt;br&gt;황의조 측은 이날 혐의를 모두 인정했다. 황의조 측 변호인은 “(공소사실을) 모두 인정한다”고 밝혔다. 이 판사가 “(피해자) 변호인 말대로 본인 행동이 맞고 잘못을 인정하냐”고 황의조에 다시 묻자, 그는 직접 “맞다”고 답했다.&lt;br&gt;&lt;br&gt;검찰은 황의조에게 징역 4년을 구형했다. 검찰은 “황의조가 촬영한 영상을 고려할 때 (피해자의) 상처와 수치심이 극심했을 것으로 보이며 유포로 인해 심각한 피해를 입었다”고 지적했다.&lt;br&gt;&lt;br&gt;이어 “피해자 중 한 명은 여전히 합의 의사가 없음을 명확히 하며 엄벌을 탄원하고 있다”며 “황의조가 공소사실을 인정했지만 이전까지는 혐의를 부인하면서 다시 한번 씻을 수 없는 상처를 줘 진심으로 마음에서 우러나오는 반성을 하는 것인지도 의문”이라고 했다.&lt;br&gt;&lt;br&gt;황의조는 여성 2명에 대해 상대방 동의 없이 여러차례 성관계 영상을 촬영하거나 영상 통화를 녹화한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;앞서 작년 6월 황의조의 형수는 자신이 황의조의 전 연인이라 거짓 주장하며, 그의 사생활을 폭로하는 글과 사진·영상을 소셜미디어에 공유했다. 황의조는 자신의 형수를 협박 등 혐의로 경찰에 고소했다. 황의조의 사생활을 유포한 혐의를 받은 황의조의 형수는 지난달 대법원에서 징역 3년형을 확정받고 복역 중이다.&lt;br&gt;&lt;br&gt;경찰은 유포된 황의조의 영상을 분석하는 과정에서 그에게 불법 촬영 범행을 저지른 정황이 있다고 판단, 지난 2월 황의조를 검찰에 송치했다. 검찰은 지난 7월 황의조를 성폭력처벌법 위반 혐의로 불구속 기소했다.&lt;br&gt;&lt;br&gt;황의조는 피해자 중 한 명과는 합의했지만, 다른 한 명과는 합의하지 못한 것으로 전해졌다. 이날 피해자 측 변호인은 “피해자는 전국민적 2차 피해를 당해 너덜너덜해졌고, 합의 의사가 없으며 엄벌을 탄원하고 있다”며 “황의조가 갑자기 법정에서 사죄하며 후회한다는 태도를 보이는 건 피해자를 위한 게 아니라 본인을 위한 선처 때문”이라고 했다.&lt;br&gt;&lt;br&gt;황의조는 최후 발언에서 “제 잘못으로 인해 피해를 입게 된 피해자분들께 진심어린 사죄를 드린다”며 “이번 일을 거울 삼아 앞으로 어떠한 잘못도 하지 않고 축구선수로서 최선의 노력을 다할 것”이라고 했다. 이어 “재판장께서 이번에 한하여 최대한 선처를 해주길 간절히 청한다”고 밝혔다.&lt;br&gt;&lt;br&gt;황의조에 대한 1심 판결 선고는 오는 12월 18일 내려질 예정이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>10만원 짜리를 78만원에...노인 상대 68억 등친 ‘떴다방’ 적발</title>
-      <link>https://www.chosun.com/national/regional/2024/10/16/MNOKVDKO35AOLISRHTZXLLZ274/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/16/MNOKVDKO35AOLISRHTZXLLZ274/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 02:24:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2HE4P6R4GVLF3BMWDZR7ZCYWCE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2021년부터 올해 5월까지 제주시 두 곳에서 일명 '떴다방' 홍보관을 운영하며 노인들을 상대로 건강기능식품 등을 판매한 일당이 검거됐다./제주자치경찰단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노인을 상대로 ‘떴다방’을 운영하면서 건강기능식품 등을 팔아 65억원을 등친 일당이 구속됐다.&lt;br&gt;&lt;br&gt;제주도 자치경찰단은 노인을 현혹해 일반식품을 의약품인 것처럼 속여 고가로 판매해 부당이득을 챙긴 혐의(약사법, 건강기능식품에 관한 법률 등 위반)로 모 건강기능식품 판매 업체 총괄 관리이사 A씨 등 3명을 구속했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 2021년 11월부터 지난 5월까지 제주지역에서 건강기능식품 홍보관 두 곳을 운영했다. 이들은 일반 제품을 각종 질병 예방과 치료에 효과가 있는 의약품인 것처럼 허위·과장 광고해 비싼 가격에 팔아 폭리를 취한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이 과정에서 공범인 2호점 점장 B씨는 직접 제품을 판매했으며, 2호점 대표인 C씨는 A·B씨가 원활히 영업할 수 있도록 단속에 대비하는 역할을 맡았다.&lt;br&gt;&lt;br&gt;조사 결과 이들은 1700여 명에게 단가 6만원인 제품을 48만원에, 10만원인 제품을 78만원에 판매하는 식으로 모두 65억원의 매출을 올린 것으로 확인됐다.&lt;br&gt;&lt;br&gt;특히 이들은 병원 처방약 복용을 중단하고 자신들이 판매하는 제품을 꾸준히 섭취하면 질병이 치료된다며 허위 정보를 홍보했다. 더 나아가 제품 섭취 후 부작용을 호소하는 피해자들에게 건강이 호전되면서 나타나는 일시적 반응이라 속여 지속적인 구매를 유도한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;또 소비기한이 지난 제품을 폐기하지 않고 시식용으로 제공한 것으로 드러났다.&lt;br&gt;&lt;br&gt;특히 제품을 구매할 여력이 없는 노인들에게도 우선 제품을 가져가도록 한 뒤 미수금이 발생하면 물품 대금 지급약정서를 작성하게 하고 이를 대부업체에 채권으로 넘긴 것으로 나타났다. 이중에서는 중증장애인과 기초수급자도 포함된 것으로 확인됐다.&lt;br&gt;&lt;br&gt;제주 자치경찰단은 구속된 3명 이외에 범행 가담 정도가 상대적으로 적은 조직원과 홍보강사 등 13명은 불구속 송치할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독]정부, 의식 잃은 환자 수용 거부한 분당차병원 조사 착수</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/10/16/OMGTFLUKGND5LKETW5MQEI67QI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/16/OMGTFLUKGND5LKETW5MQEI67QI/</guid>
@@ -374,24 +722,6 @@
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그런데 분당차병원은 “진료할 의사가 없다”며 A씨 수용을 거부했다고 한다. 119 구급대원들이 거듭 부탁을 하자, 분당차병원 응급실은 A씨에게 항경련제 주사를 2회 투입했고 그 외 다른 검사는 하지 않고 ‘수용 불가’ 입장을 고수했다는 것이다.&lt;br&gt;&lt;br&gt;이를 두고 응급의학과 의사들 사이에서도 “그 정도 중증이라면 일단 받아서 CT(컴퓨터단층촬영) 검사나 피 검사를 했어야 했다” “납득하기 어렵다”는 말이 나온다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 의사 집단행동 중앙사고수습본부(이하 중수본) 산하 비상대응반 등은 15일 오전 분당차병원을 방문해 당시 환자 진료 기록과 응급실 및 관련 배후 진료과 의사들의 당직 일지 등을 확보한 것으로 알려졌다. 건강보험공단 직원과 보험심사평가원(심평원) 직원, 경기도 공무원 등이 현장 조사를 벌였다고 한다. 분당차병원 측은 이날 조사에서 중수본 관계자들에게 “인력, 병상 부족으로 수용할 수 있는 상황이 아니었다”는 취지의 진술을 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;중수본 비상대응반은 15일 분당차병원 조사를 마친 뒤 환자를 최종 수용한 용인세브란스병원을 방문해 A씨의 상태를 확인했다고 한다. A씨는 현재 내과 중환자실 입원해 있지만 상태가 호전되지 않고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;분당차병원 관계자는 “(현장 조사 등) 자세한 내용은 말하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>서울대 김용환 교수, 한국인 최초 美 ‘데이빗슨 메달' 수상</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/16/DX5O4OWSKFAS7GXL5FCMLO5JME/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/DX5O4OWSKFAS7GXL5FCMLO5JME/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 02:16:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/COFB4I7UCVGAXDLZRH5SYY4YNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용환 교수./서울대학교&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대학교는 조선해양공학과 김용환 교수가 미국 조선학회(SNAME)가 주관하는 선박 연구 분야 학술공로상 ‘케니스 데이빗슨 메달’의 2024년 수상자로 선정됐다고 16일 밝혔다. 김 교수는 한국인 최초 수상자로, 우리나라 조선공학 학계의 위상이 한 단계 도약했다는 평가가 나온다.&lt;br&gt;&lt;br&gt;이동체 역학 연구의 선구자였던 고(故) 데이빗슨 교수의 이름을 딴 이 메달은 미국 조선학회가 2년마다 선박 연구 분야에서 세계적 수준의 기여도를 인정받은 학자 한 명에게 수여한다. 김 교수는 비서구권 국가가 배출한 첫 수상자이다.&lt;br&gt;&lt;br&gt;김 교수는 2004년부터 서울대에서 선박해양 유체역학 분야를 연구하고 있다. 그는 지난해 독일 바인브룸(Weinblum) 재단의 2023~2024년 추모 연사로 지명되거나, 지난달 영국의 로이드선급재단에게서 70억원의 발전기금 지원을 약속받는 등 “세계 최고 학자의 반열에 올랐다”는 평을 들어왔다.&lt;br&gt;&lt;br&gt;서울대 공대 관계자는 “국내 조선업체들이 세계 최상위를 점하고 있는 산업계와는 달리 학계에서는 한국이 그에 걸맞은 위상을 확보하지 못하고 있다는 것이 그간의 일반적 평가”라며 “김 교수의 이번 수상은 한국 조선공학 학계의 위상을 한 단계 더 도약시켰다는 점에서 뜻깊은 쾌거”라고 수상의 의미를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“정부 사업하니 돈 좀”...이 말로 10억 뜯어낸 40대 구속</title>
-      <link>https://www.chosun.com/national/incident/2024/10/16/QXLC322ARVBIDEGZPYGT3CUDIM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/16/QXLC322ARVBIDEGZPYGT3CUDIM/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 02:10:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYKZEZQJUXCIW7GCG23U3XQ3AE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구경찰청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주변 지인들에게 “높은 이자를 줄테니 돈을 빌려달라”고 한 뒤 10억 원을 뜯어내고 잠적한 40대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;대구경찰청 반부패·경제범죄수사대는 사기 혐의로 A씨를 구속했다고 16일 밝혔다. A씨는 지난 1월부터 7월 사이 지인 4명에게 10억 원을 빌린 뒤 갚지 않은 혐의를 받고 있다. A씨는 “정부미(米) 유통 사업을 하려는데, 잘 되면 대출이 크게 나올 것”이라며 “사업 자금에 쓸 돈을 빌려주면 이자를 높게 쳐서 갚겠다”는 식으로 지인들에게 돈을 빌렸다.&lt;br&gt;&lt;br&gt;A씨는 앞서 지인들에게 고급 외제차를 타고 다니는 모습과 함께, 소액을 잠시 빌린 다음 날 원금과 함께 10% 이자를 덧붙인 금액을 수차례 갚는 식으로 신뢰를 얻었다. A씨가 “이자를 높게쳐서 갚겠다”고 하자 지인들은 그간 A씨가 보여준 행동들을 믿고 선뜻 돈을 빌려준 것으로 조사됐다.&lt;br&gt;&lt;br&gt;하지만 A씨는 정부미 유통 사업을 하지 않았고, 빌린 돈 10억 원을 생활비나 채무 변제에 쓰며 대부분 탕진했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “최근 정부 지원사업으로 쌀이나 금을 유통한다며 투자를 유도하는 사례가 늘고 있다”며 “사기 피해를 당하지 않기 위해선 먼저 사업의 실체를 확인해야하며, 지속적으로 돈을 빌려달라는 사람을 경계할 필요가 있다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>尹, 재보궐선거 투표… 김건희 여사 동행 안 해</title>
       <link>https://www.chosun.com/politics/politics_general/2024/10/16/LSMDFGLDOFAHDARXJY4T3UOKBQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/politics_general/2024/10/16/LSMDFGLDOFAHDARXJY4T3UOKBQ/</guid>
@@ -399,42 +729,6 @@
       <description/>
       <pubDate>Wed, 16 Oct 2024 02:06:15 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/33BPUGDQVJJKHCMUQYNBNJEPCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 10·16 재·보궐선거 투표일인 16일 서울 용산구 용산공예관 투표소에서 투표하고 있다. /대통령실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 16일 오전 10·16 재·보궐 선거 투표소에서 투표했다. 김건희 여사는 동행하지 않았다.&lt;br&gt;&lt;br&gt;정혜전 대통령실 대변인은 “윤 대통령이 2024년 하반기 재·보궐선거일인 오늘 오전 서울 용산공예관에 마련된 투표소에서 소중한 한 표를 행사했다”고 서면 브리핑을 통해 밝혔다.&lt;br&gt;&lt;br&gt;대통령실은 윤 대통령이 선거사무원들에게 “수고 많으세요. 투표하러 (유권자들이) 많이 오셨나요?”라고 인사하고, 신분증 확인 등 본인 확인 절차를 거쳐 기표소로 이동해 기표한 뒤 투표지를 접어 투표함에 넣었다고 전했다. 이후 윤 대통령은 참관인들에게 “수고 많으세요”라고 격려하고 투표소를 떠났다.&lt;br&gt;&lt;br&gt;윤 대통령은 취임 이후 치러진 2022년 8회 전국동시지방선거와 올해 22대 국회의원 선거에서는 사전 투표를 했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>딥페이크 성범죄 피의자 474명 검거...80%가 10대</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/16/XFHG6M5HSVAQFP3CIAHEDSTXLI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/XFHG6M5HSVAQFP3CIAHEDSTXLI/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 01:56:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6SOPKOGV6BDUXBDEOJUU63225Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 올해 딥페이크 성범죄 피의자 총 474명을 검거했다. 이중 10대가 381명으로 80.3%를 차지하고 촉법소년은 71명으로 전체 14.9%를 차지했다.&lt;br&gt;&lt;br&gt;경찰청은 16일 올해 1월 1일부터 10월 14일까지 전국 경찰에 접수된 딥페이크 성범죄 사건은 총 921건이라고 밝혔다. 텔레그램 기반 딥페이크 성범죄가 확산하면서 경찰이 집중 단속에 나선 8월 28일을 기점으로 단속 후 476건이 접수됐다. 집중 단속 전까지는 일평균 1.9건의 신고가 접수됐는데, 집중 단속 뒤로는 일 평균 9.92건으로 늘었다.&lt;br&gt;&lt;br&gt;같은 기간 경찰에 검거된 딥페이크 성범죄 피의자는 총 474명이다. 피의자를 연령별로 보면 10대가 381명으로 80.4%를 차지해 가장 많았다. 이중 만 14세 미만 소년범인 촉법소년은 71명(14.9%)으로 집계됐다. 20대는 75명(15.8%), 30대는 13명(2.7%)이다. 40대 2명(0.4%), 50대 이상 3명(0.6%)도 검거됐다.&lt;br&gt;&lt;br&gt;경찰은 내년 3월 31일까지 시·도경찰청 사이버성폭력수사팀을 중심으로 딥페이크 성범죄 집중 단속을 이어갈 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“한화는 깡패 집단”…야구팬 분노 부른 ‘롯데팬’ 일주어터, 결국 사과</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/16/BSLGE3RTZBDFFJDTQ7TP4QQO4E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/BSLGE3RTZBDFFJDTQ7TP4QQO4E/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 01:57:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GP4SZG4MTVDTBDEZGVRS4YXSCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 일주어터(왼쪽)./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유튜버 일주어터(본명 김주연)가 프로야구 한화 이글스 비하를 ‘깡패 집단’에 비유했다가 논란이 일자 사과했다.&lt;br&gt;&lt;br&gt;일주어터는 지난 14일 유튜브 채널 ‘뉴잼스’에서 공개된 ‘딥담화’ 영상에서 다른 출연진과 함께 한국프로야구위원회(KBO) 리그에 대한 주제로 이야기를 나눴다.&lt;br&gt;&lt;br&gt;롯데팬으로 알려진 일주어터는 LG 트윈스, 롯데 자이언츠, KIA 타이거즈가 언급되자 “한화는 쳐주지도 않는다”고 말했다. 한화의 낮은 성적을 지적한 것으로 풀이된다. 이후로도 그는 한화의 사내 분위기에 대해 “깡패 집단 같다” “폐쇄적인 조직 문화” 등의 발언을 이어갔다.&lt;br&gt;&lt;br&gt;영상이 공개되자 프로야구 팬들 사이에서는 일주어터의 발언이 부적절하다는 지적이 일었다.&lt;br&gt;&lt;br&gt;결국 ‘뉴잼스’ 제작진은 15일 유튜브 커뮤니티를 통해 “영상 3분쯤 한화의 사내 문화에 대해 부적절한 단어를 포함한 발언 및 한화 구단 팬 분들 포함 관계자 분들에 관한 잘못된 발언을 내보낸 사실이 있다”며 “불편함을 느끼셨을 한화 팬 여러분께 진심으로 죄송하다”고 사과문을 올렸다.&lt;br&gt;&lt;br&gt;아울러 “편집 과정에서 좀 더 세세히 살폈어야 했는데 판단 착오로 인하여 결과적으로 많은 분들에게 실망감 및 불편함을 드렸다”며 “이는 변명의 여지 없이 명백한 제작진 잘못이다. 다시 한번 고개 숙여 죄송하다”고 거듭 사과했다. 제작진은 이 영상을 비공개 처리 및 삭제했다.&lt;br&gt;&lt;br&gt;논란 이후 잠시 개인 소셜미디어(SNS) 계정 활동을 중단했던 일주어터는 16일 유튜브 댓글과 SNS 게시물 등을 통해 사과에 나섰다. &lt;br&gt;&lt;br&gt;일주어터는 “생각 없는 언행으로 상처를 드려 진심으로 죄송하다. 야구 예능부터 시구까지 야구팬으로서 제가 뭐가 된 것 같고 성덕이라고 생각해서 혼자 너무 신난 요즘이었던 것 같다. 그래서 야구 관련된 콘텐츠들에서는 너무 경솔하고 안일한 발언들을 한 것 같다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “이상하게 야구 콘텐츠를 할 때는 세게 얘기하면 더 재밌어해 주시는 것만 같고 야구팬분들께 관심을 받는 거 같아서 잘 알지도 못하면서 자극적으로만 얘기했던 것 같다”며 “정말 부끄럽다”고 했다.&lt;br&gt;&lt;br&gt;끝으로 “제작진에게 편집 요청을 했다고 해도 어쨌든 제가 했던 말이고 비하할 의도가 없었다고 해도 그렇게 들으신 분들이 많으니 모두가 제 잘못”이라며 “앞으로 다른 어떠한 모든 콘텐츠에서도 한번 더 생각하고 조심하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;일주어터는 SBS ‘웃찾사’ tvN ‘코미디빅리그’에서 활동한 코미디언이다. 유튜브에서 일주일간 이색적인 다이어트를 진행하며 결과를 확인하는 콘텐츠로 66만명의 구독자를 모았다. 최근에는 야구 관련 예능프로그램에 출연하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>트랙터 작업하다 다리 절단…대법 “교통사고 아닌 업무상과실”</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/16/RS7T7NS2VFDB7LMQLVLOE5VAJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/16/RS7T7NS2VFDB7LMQLVLOE5VAJY/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 01:49:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X3DWKKO633K5H7KE5K62XKG32Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;논에서 트랙터로 작업하던 중 사고를 냈다면 교통사고가 아닌 업무상 과실로 봐야 한다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;16일 법조계에 따르면, 대법원 1부(주심 신숙희 대법관)는 업무상 과실치상 혐의로 기소된 A씨에 대한 상고심에서 이같이 판단한 원심을 지난달 27일 확정했다.&lt;br&gt;&lt;br&gt;문제의 사고는 A씨가 2022년 3월 광주 광산구의 논에서 피해자 B씨의 도움을 받아 소형 트랙터를 조작하는 법을 배우던 중 일어났다. 조작법을 가르쳐 주고 뒤쪽에 서 있던 B씨의 오른쪽 다리가 회전 날에 말려 들어가 절단된 것이다. B씨는 결국 오른쪽 다리 허벅지까지 절단해야 했다.&lt;br&gt;&lt;br&gt;검찰은 A씨에게 업무상 과실치상죄를 적용해 기소했다. 그런데 1심은 이 사고를 A씨가 트랙터를 이동하는 과정에서 발생한 교통사고처리법상 교통사고로 봤다. 업무상 과실치상죄가 아닌 교통사고처리 특례법을 적용할 경우, 피해자가 처벌을 원하지 않으면 처벌할 수 없다. 이에 1심은 B씨는 기소 전 처벌을 원치 않는다는 의사를 밝혔다는 점을 근거로 공소를 기각했다.&lt;br&gt;&lt;br&gt;하지만 항소심은 “이 사건 사고는 단순히 트랙터 이동 과정에서 발생한 것으로 보기 어렵다”며 1심 판결을 파기했다. A씨가 논에서 트랙터를 이용해 바닥을 갈아엎는 작업을 하던 도중 사고가 생겼기 때문에 교통사고로 볼 수 없다는 것이다.&lt;br&gt;&lt;br&gt;A씨가 상고했지만 대법원도 2심과 동일하게 판단했다. 2심의 파기환송 판결이 대법원에서 확정돼 A씨는 1심부터 다시 재판을 받아야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘조교 인건비 유용’ 혐의로 벌금 받은 前 서울대 교수, 2심서 무죄</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/16/VLN6C4H55BB2XOQLUYGYR3LTGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/16/VLN6C4H55BB2XOQLUYGYR3LTGQ/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 01:36:20 +0000</pubDate>
-      <content:encoded>대학원생 조교 앞으로 나오는 인건비 등을 편취·유용한 혐의로 1심에서 벌금형을 선고받고 항소한 전직 서울대 교수가 2심에서 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LKDQRRKEWNHO6JPJXNKKBIUMLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 관악구 서울대학교 정문의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 법조계에 따르면 서울중앙지법 형사9부(재판장 이성복)는 사기 혐의로 재판에 넘겨진 전 서울대 서어서문학과 교수 김모(65)씨에게 벌금 500만원을 선고한 원심 판결을 파기하고 최근 무죄를 선고했다.&lt;br&gt;&lt;br&gt;앞서 김씨는 같은 학과 전·현직 교수 5명과 공모해 2014년부터 2018년까지 강의 조교를 허위 등록하는 방식으로 서울대에서 지급하는 각종 연구지원금 등 명목의 인건비 5700여만원을 타내 학과 운영 경비로 쓴 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;애초 법원은 검찰의 청구를 받아들여 2021년 10월 이들 6명에게 벌금 1000만원의 약식 명령을 내렸는데, 이 가운데 김씨만 불복해 정식 재판을 청구했다.&lt;br&gt;&lt;br&gt;1·2심 판단이 엇갈린 이유는 김씨가 역할을 분담해 범행을 공모했는지 여부에 대해 달리 판단했기 때문이다. &lt;br&gt;&lt;br&gt;1심은 학과 교수회의에서 이 같은 범행 논의가 있었는데, 김씨가 연구년 휴직 기간을 빼고 모든 회의에 참석하는 등 이러한 내용에 대해 몰랐을 리 없다는 취지로 판단했다. &lt;br&gt;&lt;br&gt;하지만 김씨는 “공모 사실이 없고, 아무런 실행 행위도 분담하지 않았다”는 취지로 항소했다.&lt;br&gt;&lt;br&gt;2심은 김씨의 주장을 받아들여 범행에 관여·공모했다고 보긴 어렵다고 판단했다. 재판부는 “해당 학과에서 인건비를 허위 신청·수령하는 관행은 2010년 무렵부터 생겨난 것으로 보이는데, 김씨는 2000년부터 2012년까지 서울대 성폭력상담소에서 상근하며 장기간 학과 운영이나 행정 업무에 실질적으로 관여하지 않은 것으로 보인다”며 “피고인이 이 같은 인건비 신청·수령 관행의 존재나 성격에 대해 잘 알지 못했다는 항변이 허위라고 단정하기 어렵다”고 설명했다.&lt;br&gt;&lt;br&gt;그러면서 “이러한 관행이 굳어진 이후엔 인건비 신청·수령 등은 서무 조교가 논의해 결정했고, 교수회의에서 구체적인 논의나 의결은 사실상 이뤄지지 않고 사후적으로 형식적인 보고가 있었던 것으로 보인다”며 “김씨가 교수회의에 참석해 이 사건 관련 회의 자료를 제공받았다는 사정만으론 김씨가 인건비 편취 범행과 관련해 그 어떠한 기능적 행위지배가 존재한다고 보기도 어렵다”고 덧붙였다.&lt;br&gt;&lt;br&gt;검찰 측이 이 판결에 불복해 상고장을 제출해 이 사건은 대법원 판단을 받게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“눈물이 안 멈춰”… 하니, 국정감사 출석 이후 밝힌 심경 </title>
@@ -453,15 +747,6 @@
       </media:content>
     </item>
     <item>
-      <title>“페미는 맞아야” 알바 폭행男, 항소심서도 심신미약 인정</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/16/NX5O6JFTPRG23NJGIFKIINO6LU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/NX5O6JFTPRG23NJGIFKIINO6LU/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 01:22:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BUZJ6W2KHQLDC2FOFPKLKMQJ2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20대 남성이 지난해 11월 4일 밤 경남 진주시 하대동의 한 편의점에서 아르바이트 중이던 20대 여성을 무차별 폭행하는 사건이 발생했다. 사진은 범행 당시 편의점 내부 CCTV 화면 일부. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;짧은 ‘숏컷’ 헤어스타일을 했다는 이유로 편의점 아르바이트생을 폭행하고 이를 말리던 남성도 폭행한 20대 남성이 항소심에서도 심신미약을 인정받아 징역 3년을 선고받았다.&lt;br&gt;&lt;br&gt;15일 창원지법 형사1부(이주연 부장판사)는 특수상해, 재물손괴 등으로 재판에 넘겨진 20대 남성 A씨에 대한 항소심에서 검찰과 피고인의 항소를 기각하고 원심을 유지했다.&lt;br&gt;&lt;br&gt;앞서 지난 4월 1심 재판부는 A씨에게 징역 3년을 선고하고, 치료비와 위자료, 편의점 물적 손해금 등으로 총 1250만원을 배상하라고 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 11월 경남 진주시 하대동의 한 편의점에서 아르바이트 중이던 20대 여성 B씨의 머리가 짧다는 이유로 폭행한 혐의를 받는다. 당시 A씨는 “여성이 머리가 짧은 걸 보니 페미니스트다” “페미니스트는 좀 맞아야 한다” 등의 발언을 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 B씨가 경찰에 신고하려 하자 휴대전화를 빼앗아 전자레인지에 넣고 작동시켜 파손한 혐의도 받고 있다. 당시 상황을 목격하고 말리려던 50대 남성 손님 C씨에게는 “왜 남자 편을 들지 않느냐, 저 여자는 페미니스트다”라며 주먹으로 폭행했다.&lt;br&gt;&lt;br&gt;1심 재판부는 A씨가 범행 당시 심신미약 상태로 추정된다는 정신감정 결과가 나왔다며 검찰이 구형한 징역 5년보다 적은 징역 3년을 선고했다.&lt;br&gt;&lt;br&gt;항소심 재판부도 “피고인이 당시 피해자에게 하는 행동이나 범행 수법이 비상식적이라는 점을 심신미약의 근거로 포함하는 건 다소 부적절한 면이 있으나 당심에서 이뤄진 증인신문 등 모든 증거를 종합해 보더라도 검사가 심신미약 사유 부존재를 증명했다고 보기에는 부족하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>가게 앞에서 바지 입은 채 소변 보는 남성…“당혹스럽다”</title>
       <link>https://www.chosun.com/national/national_general/2024/10/16/OFZ4GN7ZUVESLGOZZHRFQSJ5PE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/OFZ4GN7ZUVESLGOZZHRFQSJ5PE/</guid>
@@ -471,24 +756,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TZ2T7I2255HR3ACIIQXUIA7CBQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;한 남성이 바지를 입은 채 가게 앞에서 소변을 보고 있다. /아프니까사장이다&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취한 남성이 가게 입구에서 바지를 입은 채 소변을 보는 모습이 포착됐다.&lt;br&gt;&lt;br&gt;지난 14일 한 온라인 자영업자 커뮤니티에는 ‘매장 앞에서 서서 오줌싸네요’라는 제목의 글이 올라왔다.&lt;br&gt;&lt;br&gt;술집을 운영한다는 작성자 A씨는 “(한 남성이) 화장실을 찾길래 안내해 줬는데 매장 앞에 그냥 서서 오줌을 쌌다”며 “이후 다시 가게로 들어와 자리에 앉았다. 이런 경험은 처음이라 당혹스럽다”고 적었다.&lt;br&gt;&lt;br&gt;글과 함께 올라온 사진을 보면, 반소매에 반바지를 입은 남성이 가게 입구로 추정되는 곳에서 고개를 땅으로 향한 채 서 있다. 그가 서 있는 바닥은 소변으로 추정되는 액체로 축축하게 젖어 있었다. 오른손에는 화장실 열쇠가 달린 것으로 보이는 주걱을 쥐고 있었다.&lt;br&gt;&lt;br&gt;A씨는 “방범카메라 보다가 소리질렀다”며 “정상은 아닌 것 같았다. (아르바이트생에게 들으니) 취한 상태였다더라. 제가 소독약 뿌려가며 나무 데크 전부 닦았다”고 했다.&lt;br&gt;&lt;br&gt;이어 “영업 끝났다고 해도 계속 딴소리만 해서 마감도 한 시간이나 늦게 했다”며 “일상적인 생활은 가능한지 의문스럽다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “요즘엔 사람이 제일 무섭다” “진짜 할 말이 없다” “아픈 분 아니냐. 저러고 와서 자리에 앉았으면 냄새는 어떡하냐” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;이처럼 공공장소에서 소변을 보는 일은 종종 발생한다. 지난달에는 한 남성이 신호 대기 중인 차량을 향해 소변을 보는 모습이 유튜브 채널 ‘한문철 TV’를 통해 공개돼 논란이 됐다. 7월에는 제주도의 한 도로변 화단에서 속옷을 내린 채 쭈그리고 앉은 여성의 모습이 JTBC ‘사건반장’을 통해 알려졌다. 노상 방뇨는 경범죄처벌법 제3조에 따라 10만원 이하의 과태료 또는 구류 등으로 처벌받을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>이진호 빚더미 앉힌 불법 온라인 도박... 신고 건수 4년간 3배 늘었다</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/16/LMWF66MNHNFCTK2J2KFKC6E2K4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/LMWF66MNHNFCTK2J2KFKC6E2K4/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 00:28:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54QLHH3LC5IYNH36I6VJ4EWS6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 8월 9일 오전 서울 마포구 하나은행 H-STAGE 1에서 청소년 불법도박 예방 선포식이 열린 가운데 한 참석자가 청소년 불법 도박에 관한 생각을 적는 행사에 참가하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개그맨 이진호가 불법 온라인 도박에 빠져 큰 빚을 지게 됐다고 고백한 가운데, 불법 도박 관련 신고도 지난 4년간 3배 가까이 늘어난 것으로 조사됐다.&lt;br&gt;&lt;br&gt;16일 국회 문화체육관광위원회 소속 민형배 더불어민주당 의원이 사행산업통합감독위원회로부터 제출받은 자료에 따르면 지난해 불법 온라인 도박 신고는 총 3만9082건으로 나타났다. 이는 2019년(1만3064건)에 비해 약 3배 증가한 수치다. 같은 기간 불법 사행산업 감시활동도 1만60662건에서 4만8648건으로 약 3배 뛰었는데, 지난해는 전체 감시활동 중 불법 온라인 도박 신고가 80.3％를 차지했다. 올 8월까지 불법 사행산업 신고는 3만2309건으로 △불법 스포츠 도박은 1만1962건 △불법 카지노는 1만733건 △불법 온라인 도박은 9507건으로 각각 나타났다.&lt;br&gt;&lt;br&gt;최근 5년간 불법 도박 규모가 100조원을 돌파했다는 통계도 있다. 지난해 10월 발표된 사행산업통합감독위원회의 ‘최근 5년간 불법 도박 총 매출액 추정치’에 따르면 불법 도박 규모가 102조7236억원에 달했다. 이는 2019년 추정치(81조5474억원)에서 26%가 증가한 수치다. 같은 기간 도박 중독 치유 서비스를 받은 사람도 10만여명에 달했는데, 10대 이용자도 총 7880명이었다.&lt;br&gt;&lt;br&gt;도박 범죄를 저지른 청소년이 최근 10년 새 5배 넘게 급증하는 등 청소년 도박 문제도 심각한 수준으로 나타났다. 경찰청에 따르면 올해 8월 기준 형사 입건된 도박 혐의 소년범(14세 이상 19세 미만)은 328명으로 2015년(59명)보다 5.6배로 늘었다. 14세 미만 촉법소년은 올해 45명 검거돼 관련 통계를 잡기 시작한 2021년(3명)의 15배로 급증했다.&lt;br&gt;&lt;br&gt;청소년 도박 중독 환자 역시 증가했다. 건강보험심사평가원에 따르면, 19세 미만 청소년 도박 중독 환자 수는 올해 181명으로 2015년(27명)의 6배 이상이었다. 한국도박문제예방치유원을 통해 도박 중독 관련 치유·상담을 받은 청소년은 올해 2665명으로 2017년(503명)의 4.6배로 늘었다.&lt;br&gt;&lt;br&gt;한편, 경찰은 불법 온라인 도박 사실을 고백한 이진호에 대한 입건 전 조사에 착수했다. 15일 서울 강남경찰서는 한 민원인이 국민신문고를 통해 신청한 이진호의 상습도박, 사기 혐의 수사 의뢰 건을 접수해 입건 전 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;이진호는 지난 14일 소셜미디어에 글을 올리고 “2020년 우연한 기회로 인터넷 불법도박 사이트에서 게임을 시작하게 됐고, 감당하기 힘든 빚을 떠안게 됐다”고 밝혔다. 그는 “매월 꾸준히 돈을 갚아 나가고 있고, 앞으로도 죽을 때까지 이 빚은 꼭 제힘으로 다 변제할 생각”이라며 “경찰 조사 역시 성실히 받고 제가 한 잘못의 대가를 치르겠다”고 했다.&lt;br&gt;&lt;br&gt;이진호는 동료 연예인들에게 총 10억원가량의 돈을 빌렸고, 따로 대부업체에서 빌린 돈도 13억원이 넘는 것으로 알려졌다. BTS 지민에게도 1억원 가량을 빌렸고 선배 개그맨 이수근에게도 돈을 빌렸다. 가수 영탁 측도 돈을 빌려줬다가 전액 돌려받았다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>최동석 “박지윤에 미안… 쌍방 상간 소송 취하하고 싶다”</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/16/PPOFTBEGYZEFJP3VPODFAYLWQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/PPOFTBEGYZEFJP3VPODFAYLWQA/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 00:02:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XNLQLBPQKBB7RKTM3STHIL35VA.png"&gt;&lt;figcaption&gt;&lt;small&gt;최동석. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 최동석이 전 아내 박지윤과 진행 중인 ‘쌍방 상간 소송’에 대해 “후회된다”는 심경을 밝혔다.&lt;br&gt;&lt;br&gt;최동석은 15일 방영된 TV조선 ‘이제 혼자다’에 출연, 박지윤과 쌍방으로 진행 중인 상간자위자료 손해배상청구소송을 언급하며 “끝까지 가고 싶지 않다. 소송을 빨리 취하하고 싶다”며 “상대가 하든 안 하든 내가 한 소송은 취하하고 싶다”고 했다. 그러면서 “그렇게 하는 게 실타래를 푸는 첫 단계인 것 같다”고 했다.&lt;br&gt;&lt;br&gt;앞서 박지윤은 지난 6월 최동석 지인을 상대로 소송을 제기했고, 이 같은 소식이 언론 보도 등을 통해 뒤늦게 알려진 직후인 지난달 말 최동석도 박지윤 지인을 상대로 맞소송을 제기했다. 서로가 외도했다고 주장하고 있는 것이다&lt;br&gt;&lt;br&gt;최동석은 박지윤과 진흙탕 싸움을 하게 된 배경에 대해 “상대가 지인에 대해 오해하고 소송을 거니까 저는 이게 적당하지 않다고 생각했다”며 “제 변호사들도 ‘소장 접수하시죠’라고 해서 이렇게 된 것”이라고 했다. 이어 “처음엔 불륜남이 되는 게 억울했다. 왜 이런 소송을 해서 시끄럽게 만들지라는 생각에 울컥하고 화가 나기도 했다”며 “오명을 뒤집어쓴 상황에서 가만히 있으면 말이 안 되는 것 같다는 생각이 들었다”고 했다.&lt;br&gt;&lt;br&gt;최동석은 “맞소송으로 시끄러워질 건 알았다”면서도 “근데 가만히 있으면 내가 나쁜 사람이라고 공인되는 것 같았다”고 했다. 그러면서 “그동안 답답했던 걸 계속 참아왔던 상황에서 이렇게 일이 벌어지니까 (소송하게 됐다)”고 했다. 또 “이성적으로는 얻는 게 하나도 없다는 걸 아는데, 감정이 끓어오르니까 ‘왜 나만 가만히 있어야 하지, 참아야 하지’라는 생각이 있었던 것 같다”고 했다.&lt;br&gt;&lt;br&gt;‘전 아내에게 할 말이 있냐’는 질문에 최동석은 “미안하다”고 했다. 최동석은 “어쨌든 나와 살고 헤어지는 과정에서 그 친구도 어쩌면 겪지 않아도 될 일들을 겪고 있는 거니까 미안하다는 말, 그말이 가장 하고 싶다”고 했다.&lt;br&gt;&lt;br&gt;한편 최동석과 박지윤은 상간 소송과 관련, 각자 외도를 전면 부인했다. 최동석은 인스타그램을 통해 “결혼 생활 중 위법한 일은 절대 없었다”고 했고, 박지윤은 소속사를 통해 “혼인 기간 중은 물론 이후 이혼소송 중에도 어떠한 부정행위 또는 배우자 외 이성 관계가 없었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>에이즈 걸린 40대, 여중생과 상습 성매매…“추가피해 우려”</title>
       <link>https://www.chosun.com/national/national_general/2024/10/16/55XSIJDYAZGSDJXMPCUSNTMHBM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/55XSIJDYAZGSDJXMPCUSNTMHBM/</guid>
@@ -496,24 +763,6 @@
       <description/>
       <pubDate>Tue, 15 Oct 2024 23:45:41 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RERJLOYNOE3ONCLJA7FBKRKVG4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;에이즈 치료제로 알려진 ‘빅타비’. /AP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;후천성면역결핍증(AIDS)에 걸린 40대 남성이 10대 청소년을 상대로 성매매한 사실이 알려져 여성단체가 대책 마련을 촉구했다.&lt;br&gt;&lt;br&gt;15일 광주여성인권지원센터 등에 따르면 광주지검은 최근 아동·청소년 성 보호법 위반 혐의로 40대 남성 A씨를 구속 기소했다.&lt;br&gt;&lt;br&gt;A씨는 올해 초부터 채팅앱으로 알게 된 중학생 B양을 자신의 차량에 태워 여러차례 성매매를 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;조사 과정에서 A씨는 감염 사실을 숨겼다. 당시 그는 “차에서 혈압약을 가져다 달라”고 요청했는데, 이를 수상하게 여긴 수사관이 해당 약 성분을 검색해보면서 에이즈 감염 사실이 드러났다.&lt;br&gt;&lt;br&gt;경찰은 피임기구를 사용했다는 A씨 진술을 토대로 B양에 대한 감염 검사를 진행했고, 다행히 B양은 전염되지 않은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 또다른 여성과 성매매를 했을 가능성을 염두에 두고 조사했지만, 여성 측과 연락이 닿지 않거나 조사를 거부해 추가 범행을 확인하지 못했다.&lt;br&gt;&lt;br&gt;이와 관련 광주여성인권지원센터는 보도자료를 내고 “A씨는 이전에도 아동·청소년 성범죄로 처벌받은 전력이 있지만 계속 같은 범죄를 저지르고 있다”며 “추가 피해가 우려되는 상황”이라고 지적했다.&lt;br&gt;&lt;br&gt;이어 “채팅앱을 통해 성범죄를 저질렀다면 A씨가 사용한 각종 온라인 플랫폼을 철저하게 조사해 여죄를 찾고 그 대상이 된 아동·청소년을 보호조치 해야 한다”고 강조했다.&lt;br&gt;&lt;br&gt;A씨는 2011년 아동·청소년의 성보호에 관한 법률 위반 혐의로, 2019년경에는 아동·청소년 대상 강제추행 혐의로 처벌받은 전력이 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>재벌가 사위가 아내에 10년간 경제 지원을?… 억울한 조한선 “한참 웃었다”</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/15/KYHFE75GFZDSZLGWXOU2KVEPPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/15/KYHFE75GFZDSZLGWXOU2KVEPPU/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 03:12:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6B6YTZKLWFKDNNVFN4K5LG75B4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배우 조한선. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 조한선(43)이 자신의 아내가 재벌가 사위로부터 10년간 경제적 지원을 받았다는 의혹을 직접 반박했다.&lt;br&gt;&lt;br&gt;조한선은 14일 자신의 인스타그램 스토리를 통해 “와이프와 통화하다 한참 웃었다”라며 “국제학교 보내고 싶었는데 근처도 못 가본 아이들에게 미안하다”라고 했다.&lt;br&gt;&lt;br&gt;재계 등에 따르면 윤관 블루런벤처스(BRV) 대표가 국세청의 종합소득세 추징에 불복해 제기한 심판 청구에 대해 2022년 12월 조세심판원이 기각한 결정문에는 윤 대표가 국내 한 지인에게 10년간 경제적 지원을 했다는 내용이 포함됐다.&lt;br&gt;&lt;br&gt;결정문에는 “청구인(윤 대표)은 2010년쯤부터 2019년쯤까지 국내에서 지인과 사적인 관계를 지속적으로 유지하면서 해당 지인과 그 자녀에게 학비 등 생활비를 지원하고 아파트를 무상으로 사용하도록 한 사실이 있다”고 나와 있다. 윤 대표는 고(故) 구본무 LG그룹 전 회장의 사위이자 구연경 LG복지재단 대표의 남편이다.&lt;br&gt;&lt;br&gt;인터넷매체 더팩트는 ‘사적 지인’으로 유명 연예인의 아내 A씨가 지목되고 있다고 보도했다. &lt;br&gt;&lt;br&gt;이후 온라인에서는 A씨가 조한선 아내 정해정씨가 아니냐는 추측이 쏟아졌다. 네티즌들은 조한선이 분당에 거주했다는 점, 제주 학교에 아이들을 보냈다는 점 등을 근거로 의혹을 제기했다.&lt;br&gt;&lt;br&gt;그러자 조한선이 인스타그램 글을 통해 직접 반박에 나선 것이다. 조한선 소속사 미스틱액터스도 여러 언론을 통해 “확인해 본 결과 전혀 사실이 아니다”라고 했다.&lt;br&gt;&lt;br&gt;조한선은 미술 전공 대학원생이었던 정씨와 3년 열애 끝에 2010년 1월 결혼했다. 현재 슬하에 두 자녀가 있다. 조한선은 2002년 시트콤 ‘논스톱3′로 데뷔해 영화 ‘늑대의 유혹’ 등에 출연했다. 이후 활동이 뜸하다가 2019년 드라마 ‘스토브리그’로 다시 관심을 받았다.&lt;br&gt;&lt;br&gt;정씨는 1983년생으로, 과거 몇몇 예능 프로그램에서 얼굴을 알린 바 있다. 2020년 MBC 예능프로그램 ‘전지적 참견 시점’에 조한선과 함께 출연하기도 했다. 당시 조한선은 아내에 대해 “아내와 소개팅으로 만났다”며 “나는 아무런 정보도 없이 나갔는데 첫눈에 반했다. 청바지가 어울리는 여자가 이상형이었는데 딱 제 이상형이었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“딥페이크 걱정돼”… 졸업 앨범서 사진 빼달라는 교사들</title>
-      <link>https://www.chosun.com/national/education/2024/10/16/JOCUP4SKVVHDBBNR3ZAPC5PVJQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/16/JOCUP4SKVVHDBBNR3ZAPC5PVJQ/</guid>
-      <dc:creator>김경은 기자, 오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 16:40:52 +0000</pubDate>
-      <content:encoded>서울의 중학교 교사 강모씨는 지난해 학교에서 졸업 앨범 제작 업무를 맡았다가 곤욕을 치렀다. 동료 교사들에게 “사진을 앨범에 넣어야 하니 사진 활용 동의서를 내달라”고 했는데, 얼굴 실리는 걸 원하지 않는다며 동의를 거부하는 교사가 많았기 때문이다. 강씨는 “교사들은 싫다고 하지, 학생들은 ‘왜 앨범에 어떤 선생님 사진은 있고 어떤 선생님은 없냐’고 묻지, 둘러대느라 진땀을 뺐다”고 했다. 서울 한 초등학교는 올해부터 교사 사진 대신 만화로 얼굴을 그린 캐리커처를 싣기로 했다. 선생님들 얼굴을 아예 빼자니 학생과 교사 모두 아쉽고, 그림으로 그려서 넣으면 사진처럼 엉뚱한 용도로 사용될 가능성이 낮아 학교 측이 낸 고육책이다.&lt;br&gt;&lt;br&gt;학교 졸업 앨범에서 선생님 얼굴이 사라지고 있다. 과거 졸업 앨범엔 학생·교사는 물론 교장·교감·사무 직원들까지 얼굴 사진이 빼곡히 담겼지만 최근엔 선생님들 얼굴 사진이 빠진 졸업 앨범이 늘고 있다. 본인 사진이 ‘딥페이크(인공지능으로 만든 가짜 콘텐츠)’ 성범죄 등에 활용될까 두려워하는 교사들이 급증한 탓이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ROXS3ZPU3NEK5MFK2JNKBDH7KA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김하경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국교총이 지난달 30일부터 지난 9일까지 전국 유·초·중·고 교사 3537명에게 설문했더니, 93%는 졸업 앨범에 실린 본인 사진이 불법으로 합성돼 ‘딥페이크 성범죄’에 도용되거나 초상권 침해를 당할까 봐 우려된다고 답했다. 이 가운데 ‘매우 우려된다’는 응답이 70%에 달했다. 교사 10명 중 7명(67%)은 졸업 앨범을 이제 만들지 말아야 한다고 답했다.&lt;br&gt;&lt;br&gt;졸업 앨범 사진뿐 아니라 일상생활에서 학생들과 사진을 찍을 때도 문제가 생길까 봐 걱정된다는 교사도 84%나 됐다.&lt;br&gt;&lt;br&gt;이렇게 교사들이 사진을 공개하거나 찍는 걸 꺼리는 분위기는 학생들의 휴대전화 사용이 활발해진 수년 전부터 생겨났다. 하지만 지난 8월 말 딥페이크 성범죄 피해가 10대들 사이에서도 발생해 사회적으로 논란이 된 이후 사진에 거부감을 갖는 교사들이 급증하는 추세다.&lt;br&gt;&lt;br&gt;18년 차 중학교 교사 민모씨는 “새 학년이 시작되기 전에 학부모들끼리 단톡방이나 인터넷 학부모 커뮤니티 등에서 졸업 앨범의 교사 사진을 돌려보며 ‘얼평(얼굴 품평)’이 벌어진다는 걸 알게 된 후로 앨범에서 내 얼굴은 무조건 빼달라고 학교에 요구하고 있다”고 말했다. 2022년 경남 진해에선 배달 앱 게시판에 특정 학교 여교사 4명의 사진 및 실명과 함께 이들을 모욕하는 글이 올라와 경찰이 수사에 나섰는데, 게시판에 올라온 사진들은 5년 전 학교 졸업 앨범에 실린 것이었다.&lt;br&gt;&lt;br&gt;교육부에 따르면, 지난 1월부터 이달 11일까지 전국 17개 시도교육청에서 파악한 ‘학교 딥페이크 피해자’는 총 850명으로, 학생이 814명으로 대다수를 차지했지만, 교사도 33명 포함됐다. 나머지 3명은 직원이었다.&lt;br&gt;&lt;br&gt;졸업 앨범이 처음 나왔던 시절엔 사진이 귀했고, 학교를 졸업한 사실을 기념할 만한 책자가 필요했다. 사진이 흔해진 지금도 사람들 뇌리에 졸업 앨범은 당연히 구입해야 하는 것으로 남아 있다. 10년 차 초등 교사 하모씨는 “6학년 중간에 전학 가더라도 자신이 오래 다닌 학교에서 졸업 앨범을 사고 싶어하는 아이들이 많다”며 “추억을 가져가고 싶은 것”이라고 했다.&lt;br&gt;&lt;br&gt;교총 관계자는 “졸업 앨범에서 담임 등 교사들 모습이 점차 사라지고 사제 간 사진 촬영마저 피하는 현실이 안타깝고 씁쓸하다”며 “학생들에게 졸업 앨범은 훗날 학창 시절을 떠올리고 은사를 기리는 소중한 매개체인 만큼 없어지지 않도록 딥페이크 등 신종 범죄와 교권 침해에 대응할 수 있는 제도 마련이 절실하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 작년 조산아 2만명… 의대 3곳은 받아줄 교수 0명</title>
@@ -543,23 +792,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OGMF52SG6FPNXG772YL234VJUE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 의과대학 앞으로 시민이 발걸음을 옮기고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육부가 의대 증원에 반발해 이탈한 의대생들에게 수업 복귀를 전제로 휴학을 승인하기로 하면서 각 대학은 소속 학생들에게 복귀 의사를 묻는 절차를 진행 중이다. 이런 가운데 일부 학교가 학생들에게 ‘2학기 복귀를 위한 시한’도 제시하며 복귀를 촉구한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;15일 의료계에 따르면, 이날 가톨릭대 의대는 학장 명의로 소속 학생들에게 21일까지 복귀할 것을 촉구하는 문자메시지를 발송했다. 가톨릭 의대는 메시지에서 “학교는 금번 교육부가 ‘의과대학 학사 정상화를 위한 비상 대책안’을 발표함에 따라 우리 학교의 교육 정상화를 위한 절차를 수행하고자 한다”면서 “이에 따라 2학기 최소 수업 가능 일수를 고려해 10월 21일을 복귀 시한으로 결정했다”고 밝혔다. 앞서 교육부는 지난 6일 의대생들에 대한 제한적 휴학 승인 방침을 밝히면서 2학기에 복귀해 남은 수업 일수를 최대한 채우도록 하되, 정상 수업 이행이 불가능하다면 내년 복귀를 전제로 조건부 휴학이 가능하도록 각 대학에 지침을 내렸다. 이에 대학 측이 학생들에게 우선 2학기 복귀를 독려한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;가톨릭 의대는 “복귀를 결정함에 있어 학생 개개인의 의사와는 상관없는 부당한 외부 압력이나 강요 등이 확인되는 경우, 학교는 학칙에 따라 엄정하게 대응할 것”이라고도 공지했다. 교육부 방침대로 ‘동맹휴학’은 불허하겠다는 뜻이다.&lt;br&gt;&lt;br&gt;이날 충북대 의대도 학장 명의의 문자메시지를 소속 학생들에게 보내 ‘다음달 1일까지 수강신청 기간을 추가했다’며 복귀 여부를 물었다. 상당수 국립대가 학생들에게 이처럼 복귀 여부를 확인 중인 것으로 알려졌다. 교육 당국은 학생들이 휴학하려면 반드시 대학 측에 의사를 전해 확인을 받아야 한다는 입장이다. 다만 이날 일부 대학 측은 “시한을 정해서 학생들을 복귀시키기는 이미 늦었다”면서 내년 복귀를 추진하겠다는 뜻을 나타냈다.&lt;br&gt;&lt;br&gt;한편 유홍림 서울대 총장은 이날 국회 교육위원회 국정감사에서 “휴학뿐 아니라 학사 운영과 관련한 모든 권한은 학장에게 있다”며 “학장의 결정을 존중한다”고 밝혔다. 서울대 의대는 지난달 30일 의대 학장이 학생들이 낸 1학기 집단 휴학계를 일괄 승인했다. 이어 지난 8일 교육부가 의대 운영 40교에 ‘대규모 휴학 승인이 이뤄지지 않도록 학교장이 직접 관리해달라’고 요청하자, 강원대 등은 휴학 승인권자를 학장에서 총장으로 변경했다. 앞서 40개 의대 중 절반가량은 휴학 승인권이 총장에게 있었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[인사] 고용노동부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/10/16/D7E3VXFXWZACHEPCI34V65GOCI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/10/16/D7E3VXFXWZACHEPCI34V65GOCI/</guid>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 17:08:30 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;고용노동부&lt;/b&gt;◇3급 승진▷국제협력담당관 장현석&lt;br&gt;&lt;br&gt;▲&lt;b&gt;서울신문&lt;/b&gt;◇이사▷콘텐츠본부장(편집인 겸임) 김태균▷논설실장 황수정◇국장▷편집국장 김상연▷뉴미디어국장 박상숙&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 강종순씨 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/10/16/D43YZQEOMJB7BDYGXW4Y7AE2ZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/10/16/D43YZQEOMJB7BDYGXW4Y7AE2ZI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 17:07:34 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;강종순&lt;/b&gt; 별세, &lt;b&gt;전재균&lt;/b&gt; 사업·&lt;b&gt;전재완&lt;/b&gt; IBK투자증권 대구센터 부장 모친상, &lt;b&gt;강영구&lt;/b&gt; 한국화재보험협회 이사장·&lt;b&gt;배효대&lt;/b&gt; 前 LG디스플레이 상무 장모상=15일1시50분 상주시민 장례식장, 발인 17일7시, (054)536-8800&lt;br&gt;&lt;br&gt;▲&lt;b&gt;유덕순&lt;/b&gt; 신촌예배당 권사 별세, &lt;b&gt;최윤희&lt;/b&gt;·&lt;b&gt;최은미&lt;/b&gt;·&lt;b&gt;최정식&lt;/b&gt; 숭실대 일반대학원장·&lt;b&gt;최방식&lt;/b&gt; 前 시민의신문 편집국장·&lt;b&gt;최경순&lt;/b&gt; 모친상, &lt;b&gt;오인택&lt;/b&gt;·&lt;b&gt;박종순&lt;/b&gt;·&lt;b&gt;정기복&lt;/b&gt; 장모상, &lt;b&gt;이경효&lt;/b&gt;·&lt;b&gt;장유미&lt;/b&gt; 시모상=15일2시23분 이대서울병원, 발인 17일7시, (02)6986-4442&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>박종순 회장, 모교 중동고에 10억</title>
       <link>https://www.chosun.com/national/people/2024/10/16/GAFKO7CDGJGT3CEC5VQ46KGAGA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/16/GAFKO7CDGJGT3CEC5VQ46KGAGA/</guid>
@@ -567,41 +799,6 @@
       <description/>
       <pubDate>Tue, 15 Oct 2024 17:07:14 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AKEYTZ7LNFHXBPWYIALH4OH5GM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 중동중·고등학교 총동문회는 중동고 58회 졸업생 박종순(77) 윤성F＆C 회장이 (재)중동장학회에 장학금 10억원을 기부했다고 15일 밝혔다. 장학금은 대학 이공계 학과에 진학한 졸업생들의 학비로 지급될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>방일영문화재단, 저술 지원 언론인 선정</title>
-      <link>https://www.chosun.com/national/people/2024/10/16/6EXPNPIOWRBFLLVPV62GEBGVU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/16/6EXPNPIOWRBFLLVPV62GEBGVU4/</guid>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 17:06:30 +0000</pubDate>
-      <content:encoded>방일영문화재단(이사장 변용식)이 2024년 하반기 저술 지원을 받을 전·현직 언론인과 언론학자 13명을 발표했다. 다음은 선정된 명단. ▷김현석 KBS 연구위원 ▷김형택 뉴스1 편집위원 ▷맹수열 국방일보 취재데스크 ▷문재완 한국외대 법학전문대학원 교수 ▷손수호 전 국민일보 논설위원 ▷오명철 전 동아일보 논설위원 ▷오종찬 조선영상비전 사진부장 직대 ▷이계진 한국아나운서클럽 회장 ▷이민형 인덕대 시각디자인학과 조교수 ▷이영훈 울산 MBC 편성제작국장 ▷정위용 동아일보 기획위원 ▷조영미 부산일보 사회부 기자 ▷최형석 조선일보 총무팀장&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>황정민·신민아·김덕영 등 ‘아름다운예술인상’ 수상</title>
-      <link>https://www.chosun.com/national/people/2024/10/16/3JOE4CH5VNHRBKG2AJV7BRRUKE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/16/3JOE4CH5VNHRBKG2AJV7BRRUKE/</guid>
-      <dc:creator>신정선 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 17:06:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E2D5ROW27JGF5DIAA5BE3WB3U4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;황정민, 신민아, 김덕영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신영균예술문화재단(이사장 안성기)이 주최하는 ‘제14회 아름다운예술인상’ 수상자로 배우 황정민(영화), 연출가 손진책(연극), 김동호 부산국제영화제 초대 집행위원장(공로), 배우 신민아(굿피플), 김덕영 감독(독립영화)이 선정됐다.&lt;br&gt;&lt;br&gt;영화 부문 수상자로 선정된 배우 황정민은 영화 ‘서울의 봄’과 ‘베테랑2′ 등에서 선보인 뛰어난 연기로 한국 영화 발전에 기여한 공로를 인정받았다. 연극 부문 손진책 연출가는 최근작 ‘햄릿’에서 깊이 있는 연출로 찬사를 받았다. 공로 부문 김동호 부산국제영화제 초대 집행위원장은 영화인의 해외 진출과 세계화에 기여한 업적을, 배우 신민아는 불우 어린이와 독거 노인을 위한 기부 활동이 높은 평가를 받았다. 김덕영 감독은 이승만 대통령 다큐멘터리 ‘건국전쟁’으로 관객들에게 큰 반향을 불러일으켰다. 2011년 제정된 아름다운예술인상은 매해 뛰어난 업적을 남겼거나 귀감이 된 예술인을 선정해 상금 각 2000만원과 상패를 수여한다. 시상식은 오는 24일 서울 고덕동 스테이지28에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘2026 아·태 대법원장 회의’ 한국서 열린다</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/16/BJVWAW6QH5C3NPWRO2OHRLOGKU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/16/BJVWAW6QH5C3NPWRO2OHRLOGKU/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 17:05:32 +0000</pubDate>
-      <content:encoded>‘아시아·태평양 대법원장 회의(The Conference of Chief Justices of Asia and the Pacific·아태 회의)’가 2026년 한국에서 개최된다. 이 회의가 우리나라에서 열리는 건 역대 세 번째로, 2011년 이후 15년 만이다.&lt;br&gt;&lt;br&gt;15일 대법원에 따르면, 지난 13일 말레이시아 쿠알라룸푸르에서 열린 19차 회의에서 한국이 20차 회의 개최지로 확정됐다. 아태 대법원장 회의는 한국과 호주, 일본, 싱가포르, 중국, 미국 등 30여 아태 국가 대법원장들이 2년마다 모여 사법 선진화 등을 논의하는 국제 행사다.&lt;br&gt;&lt;br&gt;이 회의를 주관하는 ‘아시아·태평양 법률가 협회’는 지난 9월 한국 대법원에 다음 회의를 개최해줄 것을 공식 요청했고, 조희대 대법원장이 이를 수락했다고 한다. 조 대법원장은 이날 수락 연설에서 “세종대왕의 법치주의에 관한 연구 성과를 공유하는 ‘세종 국제 콘퍼런스’를 내년에 개최하고, 이를 기반으로 2026년 아태 대법원장 회의도 성공적으로 열겠다”고 했다. 아태 대법원장 회의와 함께 2026년 한국에서는 아시아·태평양 법률가 협회 총회도 열릴 예정이다.&lt;br&gt;&lt;br&gt;우리 대법원은 이번 19차 회의에서 세종대왕의 업적을 알리는 홍보물을 제작해 각국 대표단에 배포했다. 조 대법원장은 평소 세종대왕이 ‘애민 정신’으로 한글을 창제해 백성이 공정∙신속하게 재판받도록 한 업적을 강조해왔다.&lt;br&gt;&lt;br&gt;앞서 한국은 1999년 8차 회의, 2011년 14차 회의를 주최했다. 대법원 관계자는 “국제회의의 성공적인 개최를 위해 주인 의식을 갖고 최선을 다해 준비하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“시한부에도 랩하며 천국 같은 1년 보내” 칠곡 할매 래퍼그룹 서무석 할머니 별세</title>
-      <link>https://www.chosun.com/national/people/2024/10/16/GH3KFWWICZE37H47EAWV3CUOPY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/16/GH3KFWWICZE37H47EAWV3CUOPY/</guid>
-      <dc:creator>대구=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 17:05:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6PRIP25CAJD7JJ36AVOSJAHEMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서무석 할머니&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 칠곡의 할머니 랩 그룹 ‘수니와 칠공주’의 멤버 서무석씨가 15일 85세로 별세했다. 수니와 칠공주는 작년 8월 칠곡군 경로당에서 한글을 배운 만학도 할머니 8명이 결성한 그룹이다. 평균 나이는 85세. 수니와 칠공주는 리더인 박점순(82)씨와 7명의 공주들이라는 뜻이다. 뒤늦게 배운 한글로 가사를 써 7곡을 지었고 외신에도 나왔다.&lt;br&gt;&lt;br&gt;서씨는 지난 1월 병원에서 혈액암 3기 진단을 받았다. 병원에서는 3개월 시한부 판정을 내렸으나 서씨는 암 투병 사실을 숨긴 채 래퍼 활동을 계속했다고 한다. 서씨의 장녀 전경숙(65)씨는 “(어머니가) 가족들 외엔 암 투병 사실을 모르게 해달라고 했다”며 “랩을 하시면서 어린아이처럼 행복해하는 모습을 보니 말릴 수가 없었다. 어머니는 천국 같은 1년을 보내신 것”이라고 말했다. 칠곡군 관계자는 “평소 ‘하늘 올라갈 때까지 랩하고 노래하다 가면 좋겠다’고 하셨는데 아프신 줄은 몰랐다”고 했다.&lt;br&gt;&lt;br&gt;서씨는 지난 4일에도 서울 광화문광장에서 열린 ‘2024 한글 주간’ 개막식 무대에서 ‘환장하지’ ‘나는 지금 학생이야’ 등 노래를 불렀다. 그러나 이틀 뒤인 6일부터 건강이 악화돼 입원했고 암이 폐로 전이됐다는 검사 결과를 받았다. 서씨의 투병 소식이 알려지자 배우 김영옥씨는 ‘만나서 같이 랩을 하기로 약속했는데 누워 계시면 안 된다. 병상을 박차고 일어나길 바란다’는 편지를 서씨에게 보냈다. 강정애 국가보훈부 장관도 “건강을 회복해 꼭 다시 뵙게 되길 기도한다”고 했다.&lt;br&gt;&lt;br&gt;그러나 서씨는 입원 9일 만인 이날 세상을 떠났다. 서씨의 빈소는 대구 달서구 남대구전문장례식장. 나머지 수니와 칠공주 멤버들은 16일 빈소에서 서씨를 추모하는 랩 공연을 할 계획이라고 했다. 박점순씨는 “언니가 하늘 나라에서는 아프지 말고 행복하게 랩을 하면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;서씨는 생전에 ‘열두 살에 공부를 하고 싶어도 종이가 없고 연필이 없어, 포대(布袋)를 종이 삼았고 성냥을 연필 삼았다’는 시를 남겼다.&lt;br&gt;&lt;br&gt;이날 한덕수 국무총리는 소셜미디어에 ‘(수니와 칠공주) 할머니들의 시와 노래에는 유머와 에너지가 넘쳤다’며 ‘세상을 탓하고 남을 야단치기보다, 자신과 남들을 다 같이 응원해 오셨던 고인의 명복을 빈다’는 추모 글을 올렸다.&lt;br&gt;&lt;br&gt;김재욱 칠곡군수는 “투병 중에도 열정을 불살라 사람들에게 ‘늦어도 할 수 있다’는 감동을 준 서무석 할머니를 잊지 않고 추모하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>내달 14일 수능… 수험생 위해 밝히는 촛불</title>
@@ -630,33 +827,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M2YUMCIM4ZF3NIWZ2BHQVDD27A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문헌일 서울 구로구청장이 15일 자진 사퇴한다고 밝혔다. 2022년 취임한 지 2년 만이다.&lt;br&gt;&lt;br&gt;구로구에서 엔지니어링 회사를 운영해온 문 구청장은 인사혁신처가 회사 주식을 팔거나 백지신탁하라고 하자 불복해 소송을 냈었다. 1심과 2심 법원에서 잇따라 패소하자 문 구청장은 주식을 팔거나 백지신탁하는 대신 구청장직 사퇴를 택했다. 현직 지방자치단체장이 이러한 논란으로 자진 사퇴하는 것은 이례적인 일이다. 문 구청장이 자기 재산을 지키기 위해 구청장직을 중도 사퇴한다는 지적이 나온다.&lt;br&gt;&lt;br&gt;문 구청장은 이날 사퇴문을 발표하고 “구민 여러분과의 약속을 지키지 못하게 돼 매우 송구스럽고 죄송한 마음”이라고 밝혔다.&lt;br&gt;&lt;br&gt;문 구청장은 본지 통화에서 “명예도 좋지만 평생 가꿔온 회사를 하루아침에 저버릴 수 없어 고민 끝에 사퇴하기로 했다”며 “사퇴한 후에는 회사로 돌아갈 계획”이라고 했다.&lt;br&gt;&lt;br&gt;문 구청장은 2022년 7월 지방선거에서 국민의힘 후보로 출마해 당선됐다. 국민의힘 후보가 구로구청장에 당선된 것은 12년 만이었다.&lt;br&gt;&lt;br&gt;문 구청장은 1990년 구로구에 ‘문엔지니어링’이라는 정보통신 설비 회사를 설립, 운영해 왔다. 그가 보유한 주식은 4만8000주로 평가액이 170억원 수준인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;문 구청장은 지방선거 당시 이 회사 회장직은 내려놨지만 주식은 계속 보유했고 인사혁신처 주식백지신탁심사위원회는 작년 3월 문 구청장이 보유한 주식을 매각하거나 백지신탁하라고 결정했다. 구청장의 업무와 회사의 이해 관계가 충돌할 수 있다는 것이다. 공직자윤리법에 따르면, 고위공직자는 직무와 관련성이 있는 회사의 주식을 보유한 경우 매각하거나 금융기관에 백지신탁해야 한다.&lt;br&gt;&lt;br&gt;문 구청장은 이에 불복해 행정소송을 냈으나 1심과 2심 모두 패소했다. 사건은 현재 대법원에 올라가 있다.&lt;br&gt;&lt;br&gt;문 구청장은 소송 과정에서 “회사가 구로구 내 사업을 수주하지 못하게 정관을 변경했고 본사도 구로구에서 금천구로 이전해 직무 관련성이 없다”고 주장했지만 법원은 받아들이지 않았다.&lt;br&gt;&lt;br&gt;문 구청장이 물러나면 내년 4월 새 구청장을 뽑기 위한 보궐선거를 치러야 한다. 16일부터 부구청장이 구청장 직무를 대행한다. 주민 입장에서는 구정 공백이 불가피한 상황이 됐다. 이에 대해 문 구청장은 “내가 갖고 있는 회사가 구로구와 관련된 일을 전혀 하지 않아 이런 일이 생길 줄 몰랐다”고 했다.&lt;br&gt;&lt;br&gt;홍성걸 국민대 행정학과 교수는 “주식 백지신탁 제도가 도입된 지 20년 가까이 됐다”며 “주식을 팔 수 없다면 애초에 선거에 출마하지 말았어야 한다”고 했다.&lt;br&gt;&lt;br&gt;정부공직자윤리위원회에 따르면 문 구청장의 재산은 작년 3월 148억원에서 올 3월 196억원으로 48억원 증가했다. 문 구청장이 보유한 주식의 평가액이 120억원에서 170억원으로 상승한 덕분이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘박원순 피해자 공개’ 김민웅 유죄 확정</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/16/X5C67L6DPJGURPKFRIUHJ3P4XM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/16/X5C67L6DPJGURPKFRIUHJ3P4XM/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 16:37:28 +0000</pubDate>
-      <content:encoded>고(故) 박원순 전 서울시장의 성폭력 사건 피해자 신원을 소셜미디어에 공개한 혐의로 기소된 김민웅(68) 전 경희대 미래문명원 교수가 대법원에서 유죄가 확정됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TUDJJTXO5JD43DNJN2Q2V73LSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민웅 전 경희대 미래문명원 교수. /페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 3부(주심 엄상필 대법관)는 최근 성폭력범죄처벌법 위반(비밀 준수 등) 혐의로 재판을 받은 김씨에게 징역 1년에 집행유예 2년을 선고하고, 120시간의 사회봉사 및 40시간의 성폭력 치료 강의 수강 명령을 내린 원심 판결을 확정했다고 15일 밝혔다. 김씨가 2022년 4월 재판에 넘겨진 지 약 2년 6개월 만이다.&lt;br&gt;&lt;br&gt;김씨는 2020년 12월 자신의 페이스북에 박 전 시장 재직 당시 비서실에서 근무했던 성폭력 사건 피해자 A씨가 2016년부터 2018년까지 박 전 시장에게 보낸 생일 축하 편지 등 손편지 세 통의 사진을 공개하면서 A씨의 실명 등 인적 사항을 그대로 노출한 혐의로 기소됐다. 김씨는 이 사진과 함께 “자, 어떻게 읽히십니까? 지속적인 성추행 괴롭힘을 당해왔다고 주장한 여성이 쓴 편지”라면서 A씨가 성폭력을 당한 피해자라고 보기 어렵다는 취지의 2차 가해 글도 올렸다. 김씨는 더불어민주당 김민석 의원(서울 영등포구을)의 친형으로, ‘조국백서’의 공동 저자이다. 현재는 좌파 성향 시민 단체 촛불승리전환행동(촛불행동) 상임대표로 활동하며 윤석열 대통령 퇴진 운동을 주도하고 있다.&lt;br&gt;&lt;br&gt;앞서 1심에서 김씨는 자신의 혐의를 인정해 징역 6개월에 집행유예 1년을 선고받았다. 하지만 그는 1심 판결에 양형 부당 등을 이유로 불복해 항소한 뒤 “A씨의 실명을 공개할 의도가 없었고, A씨를 피해자로 볼 수도 없다”며 혐의를 부인했다. 2심 재판부는 “피해자는 망인의 지지자들로부터 무차별적인 욕설과 비난을 받았고 결국 이름을 바꾸기에 이르렀다”면서 “피고인은 자기 잘못을 진심으로 반성하거나 자숙하는 태도를 보이지 않는다”고 지적했다. 그러면서 징역 1년에 집행유예 2년으로 1심보다 더 무거운 처벌을 내렸다.&lt;br&gt;&lt;br&gt;김씨는 상고심에서 친문 성향의 한동수 전 대검 감찰부장 등을 변호인으로 추가 선임했지만, 대법원은 “원심 판단에 성폭력범죄처벌법상 비밀 준수죄의 성립 등에 관한 법리를 오해해 판결에 영향을 미친 잘못이 없다”며 그의 상고를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부친상 문자 눌렀다가… 나도 지인도 다 털렸다</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/16/5BNJ6GTHKVEMLG6Q7PR6BPHS6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/5BNJ6GTHKVEMLG6Q7PR6BPHS6Q/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 16:37:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PDIWY3QP4JC7PMFRBPQBCONWXM.png"&gt;&lt;figcaption&gt;&lt;small&gt;사진=게티이미지뱅크, 그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“죄송합니다. 해킹당해 스팸 문자가 발송됐습니다. 제발 누르지 말아주세요.”&lt;br&gt;&lt;br&gt;직장인 안모(39)씨는 최근 이런 문자메시지를 휴대전화 주소록에 저장된 지인 400여 명에게 하나하나 보냈다. 안씨 휴대전화에서 ‘아버지가 돌아가셨습니다’라는 부고장 사칭 ‘미끼 문자’가 일괄 발송됐기 때문이다. 안씨는 “동료 직장인 이름으로 서울 유명 병원에 빈소가 있다는 부고 문자가 왔길래 의심 없이 링크를 눌렀다가 순식간에 악성 앱이 설치됐고 곧바로 해킹됐다”고 했다. 이후 안씨는 신용카드 사용을 정지하고 대출 계좌를 동결하는 등 조치를 취한 뒤 휴대전화를 아예 초기화했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C77SGHZD35FBLL5Y35UEP3S5FU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지인이 보내는 부고장·청첩장 등을 사칭해 지인의 휴대전화를 해킹하는 악성 미끼 문자가 올해 24만건(올해 1~9월·전체 124만건) 적발됐다고 경찰청·과학기술정보통신부·한국인터넷진흥원(KISA)이 15일 밝혔다. 미끼 문자에 있는 링크를 누르면 악성 앱이 설치되고, 휴대전화 내 연락처, 통화 목록, 사진첩 등 모든 개인·금융 정보가 빠져나간다. 당장 돈이 빠져나가는 것은 아니지만, 이를 이용해 휴대전화 소액 결제나 은행 앱을 통한 계좌이체 등 피해가 발생한다.&lt;br&gt;&lt;br&gt;이렇게 악성 앱에 감염된 폰을 ‘좀비 폰’이라고 부른다. 범죄자들은 이런 좀비 폰 주소록에 있는 지인들에게 대량의 미끼 문자를 유포한다. 모르는 번호가 아닌 평소에 알고 지내던 사람의 이름과 연락처가 부고장·청첩장에 적혀 있어 별다른 의심 없이 문자 속에 있는 링크를 눌렀다가 피해를 당한다. ‘어머니가 심장마비로 돌아가셨습니다’ ‘모바일 청첩장, 많이 와주세요’ 같은 식이다.&lt;br&gt;&lt;br&gt;범죄자들은 단순 미끼 문자를 유포할 뿐 아니라, 아예 원격조종 기술을 통해 막역하다고 판단되는 지인에게 말을 걸어 직접 금전을 갈취하기도 한다. 30대 남성 A씨는 최근 친한 학교 선배 B씨에게 “거래처에 물품 대금을 보내는데 1일 이체한도를 초과해서 돈이 부족하다”며 “1000만원을 거래처에 보내주면 내일 바로 갚겠다”는 메시지를 받았다. 평소 선배 B씨의 말투 그대로여서 A씨는 1000만원을 입금했다.&lt;br&gt;&lt;br&gt;그런데 다음 날 선배 B씨가 “누가 내 명의를 도용해 돈을 빌려달라고 다닌다니 조심하라”는 문자를 보냈다. 그제야 A씨는 사기 피해자가 됐다는 사실을 깨달았다. A씨는 “미끼 문자 범죄를 조심하라는 말을 많이 들었지만, 친하게 지내던 선배한테 메시지가 원래 나누던 대화창에서 오니 꼼짝없이 속았다”고 했다. KISA는 “범죄자들이 기존 대화 내용을 면밀하게 분석, 지인 사이에서만 알 수 있는 내용을 언급하면서 접근하기 때문에 의심하기가 어렵다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MX2B5RAOAFHGHG4KWHLJFEMFHU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지인뿐 아니라 시민들의 일상생활과 밀접한 공공기관의 범칙금 부과 통지서를 사칭하는 유형도 있다. ‘쓰레기 분리 위반 대상으로 민원이 신고돼 안내 드린다’ 같은 문자다. ‘고객님 택배 배송 주소 불일치로 물품이 취소됐다’ 같은 택배 사칭형 피해도 상당수다.&lt;br&gt;&lt;br&gt;정부는 이런 미끼 문자 사기를 예방하려면 V3·알약·모바일가드 등 모바일 백신 프로그램을 실행해 수시로 보안 상태를 점검할 필요가 있다고 권고한다. 출처를 알 수 없는 앱이 함부로 설치되지 않도록 스마트폰 보안 설정을 하고(보안 위험 자동 차단 활성화) 대화 상대방이 개인·금융 정보 또는 금전을 요구하거나 앱 설치를 요구하면 반드시 전화나 영상 통화 등으로 상대방을 정확히 확인하는 편이 좋다.&lt;br&gt;&lt;br&gt;개인·금융 정보가 유출되지 않도록 스마트폰에 신분증 사진이나 계좌·비밀번호 등을 저장해두지 않아야 한다. 경찰청 관계자는 “초기 악성 앱은 정보를 탈취하는 기능 위주였으나 최근에는 휴대전화를 원격조종하는 기능까지 추가될 정도로 진화했다”며 “좀비 폰 상태로 남아 있으면 범인들이 언제든지 조종해 가족·지인에게까지 피해가 발생할 수 있으므로 휴대전화 보안 상태 점검을 생활화해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조전혁 “서울 교육 10년 암흑기 끝내겠다” 정근식 “역사 앞에 당당한 교육 만들겠다”</title>
-      <link>https://www.chosun.com/national/education/2024/10/16/DXRGQIJ54RAVHLZQIA4VJMSK3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/16/DXRGQIJ54RAVHLZQIA4VJMSK3U/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 16:31:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6LJ4PWB3XVHYPJKA3BXXGM7EXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시교육감 보궐선거에 출마한 조전혁 후보와 정근식 후보./연합뉴스·뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시교육감 보궐선거를 하루 앞둔 15일 보수 조전혁 후보와 진보 정근식 후보는 각각 여야 텃밭으로 유명한 지역을 집중 공략하며 막판 거리 유세에 나섰다.&lt;br&gt;&lt;br&gt;조 후보는 이날 오전 서울 서초구 서초역을 시작으로 강동구 암사역, 광진구 군자역 등을 지나 오후 7시 30분 강남구 강남역에서 마지막 유세를 펼쳤다. 조 후보는 유세 현장에서 “제가 조희연 전 교육감이 망친 서울 교육 10년의 암흑기를 돌려놓겠다”며 “체인지(體仁智) 교육으로 서울 교육을 정상화하겠다”고 말했다. 체인지 교육은 체육·인성 교육을 강화하고 학생들 학력 수준을 평가할 다양한 수단을 마련하겠다는 내용으로, 조 후보의 대표 공약이다.&lt;br&gt;&lt;br&gt;서울대 사회학과 명예교수인 정 후보는 이날 오전 유세를 서울대에서 시작했다. 이후 금천구·구로구·마포구 등을 돌다 오후 7시 광화문 대한민국역사박물관에서 마지막 유세를 했다. 정 후보는 유세 현장에서 “민주·진보 모든 후보가 한뜻으로 함께하는 단일 후보 정근식”이라며 “친일 등 역사 왜곡을 막아 ‘역사 앞에 당당한 교육’을 만들어내겠다”고 말했다. 문재인 정부 진실·화해를위한과거사정리위원회 위원장을 지낸 정 후보는 ‘역사 교육 강화’ 등이 대표 공약이다.&lt;br&gt;&lt;br&gt;지난 8월 조희연 전 서울시교육감이 ‘전교조 교사 부당 채용’으로 유죄가 확정되며 치러지게 된 이번 선거는 서울 교육의 향방을 결정한다는 의미가 있다. 조 후보는 서울 지역 혁신학교 249곳을 점진적으로 폐지하고 학생인권조례 폐지를 앞당긴다는 계획이다. 반면 정 후보는 혁신학교를 확대·강화하고 학생인권조례를 유지해야 한다는 입장이다.&lt;br&gt;&lt;br&gt;현재 전국 시도교육감이 보수·진보 각각 8명씩인 데다 수도 서울의 교육감은 특히 무게감이 있어서 이번 선거 결과에 따라 전체 교육계 분위기가 바뀔 수 있다는 관측도 나온다.&lt;br&gt;&lt;br&gt;이번 서울교육감 보궐선거는 투표율이 20% 안팎에 그칠 것으로 예상된다. 유권자 관심이 저조해 판세가 오리무중이라는 평이 많다. 지난 11~12일 치러진 사전 투표는 유권자 832만1972명 중 68만9460명이 참여해 투표율이 8.28%에 그쳤다. 같은 날 치러진 부산 금정구청장 보궐선거(20.63%), 인천 강화군수 보궐선거(27.9%)에 비해 투표율이 저조했다. 결국 16일 본투표에서 각 진영 지지자가 얼마나 결집하느냐가 승패를 가를 것이란 분석이 나온다.&lt;br&gt;&lt;br&gt;서울시교육감 보궐선거 투표용지에는 두 후보 이외에도 윤호상 후보와 12일 사퇴한 최보선 후보 이름이 함께 적혀 있다. 윤 후보는 단일화를 거부하고 완주를 선언했다. 최 후보는 투표용지 인쇄 이후 사퇴해 용지에 그대로 이름이 남았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>14만명 ‘비행기 원정 진료’에… 尹대통령 “제주에 상급종합병원 지정 추진”</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/10/16/F4MTMV4GUVHFNJUKCHC54OTOCQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/16/F4MTMV4GUVHFNJUKCHC54OTOCQ/</guid>
@@ -664,82 +834,6 @@
       <description/>
       <pubDate>Tue, 15 Oct 2024 16:10:14 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UJEEUSMRPBM2BMU5SI5VOQGCAE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 15일 제주시 제주대학교병원을 방문해 입원중인 어린이 환자를 만나고 있다./대통령실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 제주도 내에 있는 병원에 대한 상급 종합병원 지정을 추진한다. 상급 종합병원은 일반 종합병원 대비 수가(건보공단이 병원에 주는 돈)를 더 적용받아 장비, 인력 등에 투자를 늘릴 수 있다. 그간 제주도민 상당수는 서울로 ‘원정 진료’를 갔는데, 상급 종합병원이 제주에 생기면 더 높은 질의 의료 서비스를 가까이에서 받을 수 있게 되는 것이다.&lt;br&gt;&lt;br&gt;윤석열 대통령은 15일 제주도 제주국제자유도시개발센터(JDC)에서 ‘세계로 열린 청정한 섬, 글로벌 휴양 도시 제주’를 주제로 29번째 민생 토론회를 열었다. 윤 대통령은 “무엇보다 제주도의 의료 환경부터 확실하게 개선해야 한다”며 “제주도의 상급 종합병원이 조속히 지정될 수 있도록 하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;상급 종합병원이란, 종합병원 중 중증 환자 비율 34% 이상, 필수 진료 과목 9개를 포함한 20개 이상 진료 과목, 입원 환자 10명당 1인 이상의 의사, 소아·신생아 중환자실 등 일정 요건을 갖춘 병원으로, 통상 500개 이상 병상을 갖춘 뒤 해당 지역의 응급 환자, 중환자 치료를 전담한다. 정부는 2011년부터 매년 상급 종합병원을 지정하고 있는데, 지난해 12월 서울, 강원 등 11개 진료 권역의 47개 병원이 지정됐다.&lt;br&gt;&lt;br&gt;그간 제주도 내에는 상급 종합병원이 없어 제주 도민의 불편함이 컸다. 매년 약 14만명의 경·중증 환자가 서울의 병원을 찾아 진료를 받았다. 항공편을 이용해 120분 내에 환자가 병원으로 이동할 수 있다는 점 등 때문에 제주가 서울 권역으로 묶이다 보니, 제주도 소재 의료기관이 상급 종합병원으로 지정되기 위해서는 서울 ‘빅5′ 병원들과 경쟁해야만 했다. 이에 정부는 올 연말까지 상급 종합병원 지정·평가 제도 개선을 위한 정책 연구를 해 그 결과를 바탕으로 2026년 6월까지 진료 권역을 재설정한다. 섬이라는 특수성을 고려해 ‘제주 진료 권역’을 추가로 설정하는 방안을 검토 중이다. 병상 500개 이상을 갖춘 제주대 병원과 제주한라병원이 상급 종합병원 후보가 된다. 우동기 대통령 직속 지방시대위원회 위원장은 “비수도권에서도 ‘빅5′ 병원 수준의 의료 서비스를 제공할 체계를 구축할 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 외에도 윤 대통령은 이날 제주도를 ‘하늘을 나는 택시’ 도심항공교통(UAM) 시범 운용 구역으로 지정하고, 제주도 그린수소 실증 사업에 2026년까지 560억원을 투입하는 등의 내용을 담은 ‘제주 도약 비전’ 세 가지를 발표했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2480] 돌려라 룰렛 계산기</title>
-      <link>https://www.chosun.com/national/nie/2024/10/16/V6XOSKRTNJE47JTJNDX6QOUHPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/10/16/V6XOSKRTNJE47JTJNDX6QOUHPE/</guid>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WTBBXK7VIJDU7IFFKHFBJKARZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] can't resist</title>
-      <link>https://www.chosun.com/national/nie/english/2024/10/16/XYL24GEIRFDPVHGBX6NDJKWN4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/10/16/XYL24GEIRFDPVHGBX6NDJKWN4I/</guid>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4QOI6TXORNA4LGGHDXLING56LE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 말이 딱 들어맞다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/10/16/B3UEK4LAE5EEBH2667EY7BYZYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/10/16/B3UEK4LAE5EEBH2667EY7BYZYQ/</guid>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJOWRR3GCBBDDEOBWXXLDBA6BA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 침식을 잊다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/10/16/RDXZ4N4FCNHZXFAK5FBGLIU4GY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/10/16/RDXZ4N4FCNHZXFAK5FBGLIU4GY/</guid>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7O4PHNKKUBA6NHVEOJEGEO7IC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 유독(惟獨)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/10/16/QL6YIKLR2FHGFPJ6XU3QT5LYME/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/10/16/QL6YIKLR2FHGFPJ6XU3QT5LYME/</guid>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2G6ZOAFSBCH5FVQV6HKI5J6PE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>연세대, ‘논술문제 유출’ 공식 사과… 5가지 방지책 발표</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/15/4SXIJERP3NGKNC6C4MEQUHUDVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/15/4SXIJERP3NGKNC6C4MEQUHUDVM/</guid>
-      <dc:creator>구동완 기자, 고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 14:50:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MGTMAIGAWQXU5ZR667MUKSHFT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연세대 신촌캠퍼스. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연세대가 대입 논술 시험문제 유출 사태와 관련, 수험생과 학부모에게 공식 사과하고 재발방지 대책을 밝혔다.&lt;br&gt;&lt;br&gt;연세대는 15일 밤 입학처 홈페이지를 통해 수험생과 학부모에게 공식 사과하는 한편 시험관리 시스템의 철저한 재점검과 지정좌석제 도입 등 5가지 재발방지책을 제시했다.&lt;br&gt;&lt;br&gt;이는 지난 12일 서울 연세대 신촌캠퍼스에서 수시 모집 자연 계열 논술 고사에서 시험문제 유출 사건이 발생한 지 3일 만이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;다음은 연세대가 올린 사과문 전문&lt;/b&gt;&lt;br&gt;&lt;br&gt;수험생 및 학부모님께&lt;br&gt;&lt;br&gt;우선 2025학년도 수시모집 논술시험의 진행과정에서 발생한 사고로 인하여 겪으셨을 혼란과 정신적 고통을 드린 점에 대해 진심으로 사과드립니다. 물론 이번 사고로 인하여 그동안의 노력이 수포로 돌아가는 것은 아닌지 걱정하셨을 수험생 및 학부모님께 어떤 말씀을 드린다 할지라도 그 마음의 상처가 치유되지 않을 것이라 생각합니다.&lt;br&gt;&lt;br&gt;지난 3일간 대학에서 철저하게 사고 경위 등을 조사한 결과 이번 논술시험에서 시험 시작 전 촬영된 문제지가 유출되어 입시의 공정성을 침해한 객관적 사실은 발견되지 않았습니다. 그러나 이번 사건과 관련된 의심스러운 상황을 모두 해소시키는 것이 대학의 의무라고 생각하여 금일 오후 사법당국에 한 점 의혹 없는 조사와 수사를 의뢰하였습니다. 특히 이번 사건으로 부당한 이득을 본 자가 있으면 교내외를 막론하고 강력히 처벌해 줄 것을 요청하였습니다. 사법당국의 신속한 조사와 수사를 통해 투명하게 진상이 규명되어 수험생 및 학부모님께서 관용할 수 있는 결과가 나오기를 바랍니다.&lt;br&gt;&lt;br&gt;또한 향후 이러한 사태가 재발하지 않도록 다음과 같은 대책을 수립하고자 합니다.&lt;br&gt;&lt;br&gt;첫째, 현재 시험관리시스템을 철저하게 재점검하여 공정성을 훼손할 우려가 있는 장애요인이 있다면, 이를 제거하겠습니다.&lt;br&gt;&lt;br&gt;둘째, 감독현장에서 개별 감독위원의 실수가 예방될 수 있도록 보다 철저한 교육을 진행하고, 그러한 실수가 바로 공정성을 침해하는 결과로 이어지지 않기 위한 프로토콜을 강화하겠습니다.&lt;br&gt;&lt;br&gt;셋째, 고사장을 현행 자유좌석제에서 지정좌석제로 변경하겠습니다.&lt;br&gt;&lt;br&gt;넷째, 문제오류가 발생하지 않도록 사전검토를 2단계 이상으로 나누고 각 검토가 독립적으로 이루어지도록 하겠습니다.&lt;br&gt;&lt;br&gt;마지막으로, 수험생 및 학부모님들께서 공정성에 문제가 있다고 의견 주신 내용을 면밀히 검토하여 그러한 요소가 있다면 개선하도록 하겠습니다.&lt;br&gt;&lt;br&gt;다시 한번 이번 사태로 마음 고생하셨을 수험생과 학부모님께 진심으로 사과드리며, 앞으로 입시 관련 공정성과 신뢰를 회복하기 위해 최선의 노력을 다하겠습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [숨어있는 세계사] ‘철의 여인’ ‘엄마 리더십’… 시대 이끈 여성 지도자 있었죠</title>
-      <link>https://www.chosun.com/national/nie/2024/10/16/4URPNEY4ANEJ7HEMB2SUMMYC6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/10/16/4URPNEY4ANEJ7HEMB2SUMMYC6E/</guid>
-      <dc:creator>정세정 장기중 역사 교사, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 15:32:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QYQJX6HZIFAVRARX6SWUGV34ZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월 치러진 멕시코 대통령 선거에서 클라우디아 셰인바움 당시 후보가 당선을 확정지은 뒤 지지자들에게 손을 흔들고 있어요. 셰인바움은 멕시코 최초 여성 대통령이에요. /게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;멕시코 첫 여성 대통령 클라우디아 셰인바움이 지난 1일 임기를 시작했어요. 그는 2030년까지 멕시코를 이끌게 되는데요, 정부 부처 장관은 남성과 여성을 같은 수로 임명하고, 대통령실 보좌진에도 여성을 대거 등용했답니다. 특히 그는 멕시코의 어두운 면으로 꼽히는 여성에 대한 폭력 사건을 줄이겠다고 밝혔어요. 멕시코 정치에도 새로운 바람이 불기 시작한 거예요.&lt;br&gt;&lt;br&gt;11월 미국 대통령 선거에서 민주당 여성 후보 카멀라 해리스 부통령이 당선된다면 셰인바움과 어떤 정책 협력을 할지도 관심이 모이고 있어요. 미국과 멕시코는 3000km 이상 국경을 맞대고 있는데요. 두 나라는 이민자 문제를 두고 복잡하게 얽혀 있어 해결해야 할 과제가 많답니다. 오늘은 세계 여성 지도자들의 활약을 살펴볼게요.&lt;br&gt;&lt;br&gt;&lt;b&gt;강경한 리더십으로 ‘철의 여인’ 별명 얻었죠&lt;/b&gt;&lt;br&gt;&lt;br&gt;역사적으로 가장 큰 영향력을 미친 여성 지도자는 누구일까요? 영국 최초 여성 보수당 대표였던 마거릿 대처를 꼽는 사람도 많을 거예요. 대처는 11년이나 총리를 지냈는데요, 그의 정치 철학은 ‘대처리즘’이라고도 불린답니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N5ASK5UO65H5PCCZ7P6CKXG2GI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1984년 마거릿 대처 당시 영국 총리가 보수당 회의에서 연설을 하고 있어요. ‘작은 정부’를 추구했던 대처는 각종 규제를 완화하고, 공기업을 민영화하는 정책을 펼쳤답니다. /게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대처가 영국 총리에 오른 것은 1979년이에요. 1970년대 영국은 경제 성장은 더디고 실업자들은 늘어난 상황이었습니다. 인플레이션도 극심했는데, 영국 파운드화 가치가 하락하며 국제통화기금(IMF)의 지원을 받을 정도였어요. 1970년대 말엔 각 분야 노동조합들이 연합해서 파업을 벌여 국민들은 일상생활에서 큰 고통을 겪었어요. 거리엔 쓰레기가 쌓여가고, 심지어 시신을 묻을 매장인조차 구할 수 없었대요. 이런 상황에서 실시된 총선거에서 대처가 이끄는 보수당이 승리를 거뒀고, 대처는 총리가 됩니다.&lt;br&gt;&lt;br&gt;대처는 이전과 다른 경제 정책을 추진했어요. 정부의 역할을 축소하고, 시장 중심으로 경제 구조를 다시 짰죠. 인플레이션을 막기 위해 금리를 높여 통화량을 줄였고요. 각종 규제를 완화해 중소기업을 지원하고, 공기업은 민영화를 추진했답니다. 이전까진 과도한 규제로 인해 경제 성장이 더딜 뿐 아니라, 국가가 많은 산업과 기업을 관리하는 것이 비효율적이라고 봤던 거예요. 이 외에도 대처는 여러 사회 제도를 큰 폭으로 수정했어요. 법과 질서를 강조했던 대처는 노동조합이 가졌던 특권을 줄이고, 경찰의 권한도 늘렸답니다. 대외적으론 강력한 반공주의 정책을 펼치기도 하죠. 대처는 이런 강경한 리더십 덕분에 ‘철의 여인(Iron Lady)’이란 별명도 얻어요.&lt;br&gt;&lt;br&gt;총리직을 맡는 동안 대처의 인기는 매우 높았어요. 영국의 시장경제를 살려냈다는 평가도 받는답니다. 하지만 그의 강경한 리더십에 불만을 품은 국민도 많았어요. 1980년대 말 영국 경제가 다시 불황에 빠지면서 대처는 점차 인기를 잃었고, 결국 1990년 총리에서 물러나게 된답니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;좌·우파 모두 기용하며 난민 포용 정책 폈어요&lt;/b&gt;&lt;br&gt;&lt;br&gt;영국에 대처가 있었다면, 독일엔 ‘무티’로 불리는 앙겔라 메르켈 총리가 있었어요. 무티(Mutti) 는 독일어로 ‘엄마’를 뜻하는데요. 그의 정치 스타일이 어머니처럼 안정적이면서도 강인하다고 해서 붙은 별명이죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ABFPEBGM4ZBNBEQ3U7YAWREDYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2021년 앙겔라 메르켈 당시 독일 총리가 벨기에 브뤼셀에서 열린 EU 정상회의에서 연설을 하고 있어요. 메르켈은 세계 경제 위기나 대규모 난민 이주 사태 속에서도 유럽의 단합을 이끌었다는 평가를 받아요. /게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동독의 물리학자였던 메르켈은 1990년 독일 통일 이후 서독으로 건너가 정치에 발을 들였어요. 헬무트 콜이 이끌던 기민당에 입당해 정치 경력을 쌓기 시작하죠. 하원 의원과 환경부 장관 등을 맡은 그는 2005년 독일의 첫 여성 총리이자 최연소 총리가 됩니다&lt;br&gt;&lt;br&gt;서독 출신들이 주도하는 독일 정치권에서 동독 출신 메르켈은 스스로 말한 것처럼 ‘체제 밖에 있는 사람’이었어요. 자신의 정치적 정체성을 ‘외부인’이라고 생각한 거죠. 이런 생각 덕분인지 그녀는 정책을 결정할 때 특정 정치 세력에 얽매이지 않고 실용적인 방법을 택했다는 평가를 받는답니다.&lt;br&gt;&lt;br&gt;포용과 중재에 능한 메르켈은 16년을 집권했는데도 퇴임 직전 지지율이 70%를 넘을 정도로 큰 인기를 얻었어요. 글로벌 금융 위기, 남유럽 재정 위기, 대규모 난민 이주 사태 등 위기 앞에서 EU(유럽연합)의 단합을 이끌며 ‘유럽의 여제(女帝)’라고 불리기도 했죠. 그는 자신이 정치적으로 위기를 맞을 것이 분명했는데도 100만명 넘는 난민을 받아들여요. 그의 이런 인도주의는 한편에선 칭찬받았지만, 유럽 곳곳의 난민 위기를 불러왔다며 비난을 받기도 했어요.&lt;br&gt;&lt;br&gt;&lt;b&gt;미얀마의 민주화 영웅… ‘선택적 침묵’ 비판도&lt;/b&gt;&lt;br&gt;&lt;br&gt;민주화에 앞장선 여성 지도자도 있답니다. 미얀마의 전 국가고문이자, 노벨 평화상 수상자인 아웅산 수지 이야기예요. 아웅산 수지는 미얀마 독립운동 지도자 아웅산 장군의 딸로, 영국에서 생활하다 1988년 어머니의 병간호를 위해 고국으로 돌아왔어요. 당시 미얀마 수도 양곤에선 군부 정권에 맞선 민주화 시위가 벌어지고 있었는데요. 한 달 넘게 이어진 시위에서 수천 명이 목숨을 잃었어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TZLOQ3EU4JE5NII4QMRUM6OZ5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2012년 노르웨이 오슬로에서 열린 기자회견에서 노벨평화상 수상 소감을 발표하는 아웅산 수지. 그는 1991년 미얀마의 민주화를 이끈 공로로 노벨평화상을 받았지만, 군부 정권에 의해 구금을 당해 뒤늦게 소감을 발표한 거예요. /게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고국의 참혹한 모습을 본 아웅산 수지는 민주주의민족동맹(NLD)을 만들어 민주화 운동에 나섭니다. 아웅산 수지는 살해 위협을 받으면서도 미얀마의 민주주의와 인권을 위해 싸웁니다. 이 때문에 아웅산 수지는 군부로부터 6년간 가택 연금을 당하기도 했어요. 아웅산 수지는 민주화 공로로 1991년엔 노벨 평화상을 받았어요.&lt;br&gt;&lt;br&gt;이후에도 민주화 운동을 이어오던 아웅산 수지는 2016년 미얀마의 정치 환경이 바뀌며 국가고문과 외무부 장관에 올랐는데요. 막상 국정 운영을 맡은 다음엔 자신의 정치적 지지 세력을 의식해 미얀마의 소수 민족 로힝야족에 대한 국가 탄압엔 선택적으로 침묵했다는 비판을 받았어요. 현재 그는 군부가 다시 일으킨 쿠데타로 인해 구금된 상태예요.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [동물 이야기] 폴란드 홍수 주범이 비버?… 비버가 짓는 댐이 오히려 물살 약하게 해요</title>
-      <link>https://www.chosun.com/national/nie/2024/10/16/MGZCUCCGIBGVBE3CKVJFGPTPXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/10/16/MGZCUCCGIBGVBE3CKVJFGPTPXE/</guid>
-      <dc:creator>정지섭 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 15:32:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KOZ5DFWCJBB7TC4TR33T5EG5XM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;얼마 전 폴란드에서 큰 홍수가 발생하자 폴란드 총리가 “비버 때문에 피해가 더욱 커졌다”고 주장해 논란이 일었어요. 비버가 굴을 파고 댐을 만드는 과정에서 강둑이 손상되는 바람에 홍수 피해가 더 커졌다는 거예요. 이 주장에 일부 생물학자들은 정부가 대처를 잘못해 놓고 비버를 희생양으로 삼으려 한다며 총리를 비판했죠. 총리 발언 때문에 한때 멸종위기까지 몰렸다 개체수를 회복한 비버가 무분별한 사냥 대상이 될 수 있다고 걱정하는 목소리도 나왔어요.&lt;br&gt;&lt;br&gt;난데없이 정쟁의 대상이 된 비버는 주로 미국과 캐나다 등 북아메리카에 사는 것으로 알려졌지만 유럽에도 살고 있답니다. 유선형이면서도 딴딴한 몸집, 납작하고 비늘로 뒤덮인 꼬리, 물갈퀴가 달린 뒷발 등은 비버들이 가진 공통점이죠. 다만 유럽에 사는 비버는 머리뼈가 상대적으로 더 가늘면서 길쭉하고, 꼬리 너비는 좁고, 털 색깔도 다소 옅은 편이에요. 북유럽 스칸디나비아 반도와 독일·체코·헝가리 등에 살고 있어요.&lt;br&gt;&lt;br&gt;다 자라면 몸길이는 1.3m, 꼬리길이는 30cm에 이르는 비버는 지구의 북반구에서 가장 덩치가 큰 설치류예요. 물에 댐을 짓는 습성으로 유명하죠. 앞니로 나무를 갉아서 가지를 잘라내요. 여기에 진흙과 돌을 섞어 단단한 댐을 만들죠.&lt;br&gt;&lt;br&gt;어떤 사람들은 이 댐이 비버의 집인줄 아는데, 사실은 집이 아니라 일종의 담벼락이랍니다. 초식동물인 비버는 늑대 등 육식동물들이 아주 좋아하는 먹잇감이에요. 비버는 이들의 공격을 피해서 물가에 집을 지어요. 비버는 뭍에서는 동작이 굼뜨지만, 헤엄과 잠수 실력은 일품이거든요. 그런데 강이나 냇가 같은 곳에 집을 지으면 애써 지어놓은 집이 물살에 떠내려갈 수도 있어요. 이런 일이 벌어지지 않도록 보금자리 근처에 댐을 지어 물살을 약하게 하는 거랍니다.&lt;br&gt;&lt;br&gt;비버가 짓는 댐은 주변 동식물들에게도 도움이 된대요. 우선 댐 자체가 물고기와 작은 새들의 보금자리가 되기도 하고요. 물살이 느려지면 토양 침식도 적어져 땅이 불모지가 되는 일도 막아주죠. 이렇게 보면 비버 때문에 홍수 피해가 커진다는 말이 터무니 없어 보이지만, 일부 과학자들은 아주 근거 없는 말은 아니라고 해요. 왜냐면 비버는 때로는 강둑에 굴을 파고 들어가 살면서 이 부근에 댐을 짓는데, 이 경우엔 둑이나 제방에 영향을 미칠 수도 있대요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LV3Q3MVG5ZHJZOPMLGYGCRXF54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;잔망루피&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대표적인 설치류인 쥐의 경우 눈도 뜨지 못하고 털도 제대로 나지 않은 벌거숭이 채로 태어나 빠른 속도로 자라는데요. 갓 태어난 비버 새끼는 몸길이 30cm, 꼬리길이 8cm로 웬만한 쥐보다 훨씬 커요. 생후 10~12주는 돼야 젖을 떼는 등 설치류치고는 성장 속도가 아주 느리답니다. 동글동글하고 귀여운 모습의 비버는 캐릭터나 마스코트로도 인기가 많은데요. 대표적인 게 ‘잔망루피’랍니다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [예쁜 말 바른 말] [366] ‘돛’과 ‘닻’</title>
-      <link>https://www.chosun.com/national/nie/2024/10/16/NIAIUBBIZFD6VD7EZ5NXC5OYT4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/10/16/NIAIUBBIZFD6VD7EZ5NXC5OYT4/</guid>
-      <dc:creator>류덕엽 교육학 박사·전 서울 양진초 교장</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 15:32:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2G6Q5KA3BFG6LDEY76HZDQGW2E.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=정서용&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 한강 작가가 노벨문학상 수상자로 선정되었다는 소식이 전해졌어요. 해 질 무렵 썰물이 빠져나간 모래펄에 녹슨 닻들이 박혀 있는 것을 보고 쓰게 된 소설 ‘붉은 닻’이 그녀의 첫 소설입니다.&lt;br&gt;&lt;br&gt;위 그림에 나온 ‘닻’은 ‘돛’과 어떻게 다른지 알고 있나요? 표기가 비슷해서 두 낱말을 헷갈리는 사람이 많아요.&lt;br&gt;&lt;br&gt;‘닻(anchor)’은 갈고리가 달린 기구예요. 배를 한 곳에 멈춰 있게 하기 위해 닻에 줄을 매어 물 밑바닥으로 가라앉히죠. 닻의 갈고리가 흙바닥에 박혀 배가 단단히 고정된답니다. 관용구 ‘닻을 올리다’는 ‘어떤 일을 시작하거나 시작하려 하다’, ‘닻을 감다’는 ‘하던 일을 걷어치우고 단념하다’라는 뜻이에요.&lt;br&gt;&lt;br&gt;‘돛(sail)’은 배 기둥에 매어 펴 올리고 내리도록 만든 넓은 천이에요. 바람을 받아 배를 움직이게 하는 역할을 해요. 참고로 돛을 단 배를 돛단배, 돛배, 범선(帆船)이라 해요. 속담 ‘순풍에 돛을 단 배’는 일이 뜻한 대로 순조롭게 진행되는 상황을 비유적으로 표현한 말이랍니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;[예문]&lt;/b&gt;&lt;br&gt;&lt;br&gt;-그 재단은 청년 부부를 위해 희망을 닻을 올리고 출범했다.&lt;br&gt;&lt;br&gt;-지난 주말 영산강에서 황포돛배를 탔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2024년 10월 16일</title>
@@ -766,19 +860,6 @@
       <description/>
       <pubDate>Tue, 15 Oct 2024 12:47:49 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3VONV4XGPJOX7HCN4N7GXZMJKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 15일 제주시 제주대병원 제주지역암센터를 찾아 입원 환자와 대화를 나눈 뒤 인사하고 있다. /대통령실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 15일 제주특별자치도를 방문해 “제주대병원이 빠른 시일 내에 상급 종합병원으로 지정될 수 있도록 적극 지원하겠다”고 두 차례 약속했다.&lt;br&gt;&lt;br&gt;윤 대통령은 이날 오후 제주국제자유도시개발센터(JDC)에서 ‘세계로 열린 청정한 섬, 글로벌 휴양 도시 제주’를 주제로 민생 토론회를 열어 “제주도의 의료 환경을 확실하게 개선해야 한다”며 제주도의 상급 종합병원 부재(不在)를 문제로 거론했다. 윤 대통령은 “제주도에 70만명이 거주하고 있고 매년 1000만명 이상이 방문해서 의료 수요가 늘고 있는데, 서울과 진료 권역이 묶여 있어 상급 종합병원이 하나도 없다”며 “제주도민들은 부족한 의료 인프라 때문에 가족이 크게 아프기라도 하면 서울을 비롯한 육지로 나가서 진료받아야 하는 상황이다. 기상 여건이 나빠서 이동이 불가능하면 응급 환자와 가족 분들이 얼마나 애가 타겠느냐”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령은 이에 “제주도에 상급 종합병원이 조속히 지정될 수 있도록 하겠다”고 했다. 윤 대통령은 “지역 특성을 감안해서 진료 권역을 (서울과 묶이지 않게) 재설정하고, 상급 종합병원에 관한 제도를 개선하고, 상급 종합병원에 필요한 물적 의료 시설의 지원을 적극적으로 추진할 것”이라고 약속했다. 그러면서 “중증 환자와 감염병 대응을 위한 제주대병원, 서귀포의료원의 기능 확충을 차질없이 신속하게 지원하겠다”고 했다.&lt;br&gt;&lt;br&gt;우동기 지방시대위원장은 민생 토론회 후 브리핑에서 “윤 대통령이 제주권 상급 종합병원 지정은 지체하지 말고 빨리 시행하라고 주문했다”고 전했다. 윤 대통령은 상급 종합병원 지정을 반드시 하겠다는 의미에서 “정부 측 답변에 (애매한) ‘검토’라는 말도 쓰지 말라”고 지시했다고 한다.&lt;br&gt;&lt;br&gt;윤 대통령은 이어서 제주대병원을 방문해 의료진을 비롯한 병원 관계자들과 간담회를 하고 “어느 지역에 살더라도 중증 필수 의료의 접근성을 보장받아야 한다”며 “제주도에 상급 종합병원이 없다는 것은 상식적으로 맞지 않다. 제주대병원이 빠른 시일 내에 상급 종합병원으로 지정될 수 있도록 적극 지원하겠다”고 했다.&lt;br&gt;&lt;br&gt;제주대병원 김우정 진료부원장이 “중환자실 전담 전공의 유치를 위해 운영비 지원이 필요하다”고 건의하자, 윤 대통령은 즉석에서 조규홍 보건복지부 장관에게 “상급 종합병원 지정을 위해서는 적정한 인력도 필요한 만큼, 빠른 시일 내에 검토해 추진하라”고 지시했다. 송성욱 응급의료센터장은 “최근 제주대병원이 거점지역응급의료센터로 지정되면서 권역센터 수준의 수가를 적용받아 상당히 도움이 되고 있지만, 이런 지원이 한시적인 만큼 앞으로도 지속될 수 있기를 희망한다”고 했다. 이 건의에 대해서도 윤 대통령은 즉석에서 조 장관에게 “비상 진료 체계 내에서만 한시적으로 진행하는 것이 아닌, 제도화를 통한 안정적인 지원이 가능하도록 적극 검토하라”고 지시했다.&lt;br&gt;&lt;br&gt;윤 대통령은 “가장 중요한 것은 속도”라며 “지역완결적 의료체계를 구축할 수 있도록 속도를 내겠다”고 강조했다. 윤 대통령은 “제주대병원이 하루빨리 상급 종합병원으로 지정될 수 있도록 속도를 내달라”고 조 장관과 장상윤 사회수석에게 재차 당부했다고 한다.&lt;br&gt;&lt;br&gt;간담회 후 윤 대통령은 병원 로비에서 한 환자를 만났다. 이 환자가 “제주 지역 환자가 서울까지 가지 않도록 해주십시오”라고 말하자, 윤 대통령은 “그러려고 여기 왔습니다. 걱정 마십시오”라고 답했다고 대통령실은 전했다.&lt;br&gt;&lt;br&gt;상급 종합병원이란, 중증 환자 비율 34% 이상, 필수 진료 과목 9개를 포함한 20개 이상의 진료 과목, 입원 환자 10명당 1인 이상의 의사, 소아·신생아 중환자실 등 일정한 요건을 갖춘 종합병원이다. 통상 해당 지역의 응급 환자, 중환자 치료를 전담한다. 정부는 매년 상급 종합병원을 지정하고 있고 지난해 말 11개 진료 권역 47개 병원이 지정됐으나 이 가운데 제주도 병원은 없다. 제주~서울 항공편을 이용해 120분 내에 환자가 서울의 병원으로 이동할 수 있는 것으로 간주돼 제주가 서울과 같은 진료 권역으로 묶여 있다보니, 제주도 병원이 상급 종합병원으로 지정되기 위해선 서울의 ‘빅5′ 병원들과 경쟁해야만 했다.&lt;br&gt;&lt;br&gt;대통령실은 윤 대통령이 제주도 내 상급 종합병원 지정을 공개리에 약속해 정책 추진력을 높이기 위해 이날 간이식으로 끼니를 때우며 강행군을 했다고 밝혔다. 윤 대통령은 이날 오전 서울 용산 대통령실 청사에서 국무회의를 주재하고 곧바로 경기 성남 서울공항으로 이동해 항공편으로 제주도로 이동했다. 점심은 기내에서 김밥 한 줄로 때웠다. 민생 토론회 직후엔 곧바로 제주대병원 방문 일정이 이어져, 저녁 식사도 서울공항으로 돌아오는 항공편에서 샌드위치로 대신했다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>비만약 위고비 출시 첫날, 유통업체 홈피 한때 마비</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/10/15/L56ZYGTWH5CWPMRJCQ7YJ2QKGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/15/L56ZYGTWH5CWPMRJCQ7YJ2QKGI/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 11:17:22 +0000</pubDate>
-      <content:encoded>15일 비만 치료제 ‘위고비’가 국내 출시됐다. 제약사를 거쳐 공급되고 나면, 소비자는 이르면 이달 말부터 병·의원에서 위고비를 처방받을 수 있다.&lt;br&gt;&lt;br&gt;위고비는 일론 머스크 테슬라 창업주 등 유명 인사들의 체중 감량에 쓰였다고 알려진 비만 치료제다. 소화 속도를 늦추는 호르몬(GLP-1)을 모방해 식욕을 줄이고 포만감을 높여주는 원리다. 펜처럼 생긴 주사제로 환자가 주 1회 직접 배나 허벅지 등에 주사를 놓으면 된다. 4주 분량의 국내 공급 원가는 37만원으로, 유통비 등을 포함해 병·의원에서 책정하는 가격은 80만원 안팎이 될 전망이다. 건강보험 적용을 받지 않기 때문에 환자가 약값을 전액 부담해야 한다.&lt;br&gt;&lt;br&gt;병·의원이 앞다퉈 물량 확보에 나서면서 위고비를 대량 주문하는 국내 유통사 홈페이지는 이날 오전 약 1시간 동안 서버가 마비된 것으로 알려졌다. 일부 병·의원은 2~3주 전부터 위고비 예약을 받았다. 서울 중구의 피부과 A 의원은 지난달 말부터 ‘위고비’ 예약을 받았는데 시작 일주일 만에 10명 이상이 예약금 5만원을 내고 신청했다. 이 의원에서 이보다 늦게 신청한 환자들은 12월쯤 위고비를 받을 수 있다고 한다. 위고비 품귀 현상으로 A 의원이 제약사에서 구매할 수 있는 위고비가 한 달에 9개로 한정돼 있기 때문이다. 경기 성남시의 가정의학과 B 의원도 이달 5일까지 위고비 예약을 받았다. 예약금은 10만원이었다.&lt;br&gt;&lt;br&gt;식품의약품안전처에 따르면, 위고비는 체질량지수(BMI·체중을 키의 제곱으로 나눈 값) 30㎏/㎡ 이상인 고도 비만 환자 또는 BMI 27~30㎏/㎡ 미만 비만 환자면서 고혈압 등 동반 질환이 있는 환자에게 체중 감량 목적으로 처방해야 한다. 울렁거림, 설사, 구토 등 부작용도 임상 시험에서 확인됐다. 그러나 앞서 기자가 문의해보니, A·B 의원 모두 몸무게 등을 알려주지 않아도 위고비 예약이 가능했다.&lt;br&gt;&lt;br&gt;식약처는 이날 “앞으로 한 달간 온라인에서 위고비를 사고 파는 행위를 집중 단속한다”고 발표했다. 식약처는 지난 7일 GLP-1 계열 비만 치료제는 비만에 해당하는 환자만 신중하게 사용해야 한다고 권고했다. 식약처 관계자는 “정상 체중인 사람들이 처방받을 경우 오남용 우려가 있고, 여러 부작용이 발생할 수 있다는 점을 충분히 인지하고 처방을 결정하라는 취지”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/VDNP647NAM5V5C7YQI36ZV6HJU.jpg?width=5000&amp;height=3333&amp;auth=e38d87f505ad36e84d7f778da7d402fdb5bbbed5faac6e25aa8f1078f4cbdeff&amp;smart=true" type="image/jpeg" height="3333" width="5000">
-        <media:description type="plain">15일 오전 서울 시내 한 호텔에서 열린 덴마크 제약회사 노보 노디스크의 비만치료제 위고비 한국 출시 행사장에 위고비 관련 안내판이 놓여 있다. /연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
-      </media:content>
     </item>
     <item>
       <title>유튜브에 ‘바카라’ 생중계...타짜 소년범 10년간 5배 늘었다</title>
@@ -808,24 +889,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W3JBO3ODVY4RVHSXV37DZ65APE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문헌일 서울 구로구청장./구로구 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문헌일 서울 구로구청장이 구청장 자리에서 스스로 물러나기로 했다. 국민의힘 소속으로 2022년 7월 취임한지 2년여만이다. 법원의 판단에 따라 자신이 운영해온 회사의 170억원 상당의 주식을 매각하거나 백지신탁해야 하기 때문이다.&lt;br&gt;&lt;br&gt;구로구는 문 구청장이 16일부로 자진 사퇴한다고 15일 밝혔다. 문 구청장은 사퇴문을 발표하며 “최근 법원에서는 제가 주주로 있었던 기업과 구청장의 직무 사이에 업무 연관성이 있다는 판결을 내렸다”며 “법원의 결정은 그간 사심 없이 공명정대하게 구정을 수행해 온 저로서는 매우 아쉽고 가슴 아픈 결정”이라고 말했다.&lt;br&gt;&lt;br&gt;지난해 3월 주식백지신탁심사위원회는 문 구청장이 가진 ‘문엔지니어링’ 주식이 공직자 업무와 상충한다고 보고 해당 주식을 백지신탁하라고 결정했다. 고위 공직자와 국회의원은 직무와 연관성 있는 3000만원 이상의 보유 주식은 매각하거나 백지신탁해야한다.&lt;br&gt;&lt;br&gt;문엔지니어링은 1990년 창립했다. 정보통신 설계·감리 회사다. 문 구청장이 1994년 인수해 현재까지 최대주주로 있다. 대표, 회장직을 거쳐 지난 2022년 지방선거를 앞두고 회사의 직함을 내려놨다.&lt;br&gt;&lt;br&gt;문 구청장은 이에 불복해 행정소송을 제기했으나 1심과 2심 모두 패소했다.&lt;br&gt;&lt;br&gt;문 구청장은 “비록 구청장직을 내려놓게 되었지만 계속 구로구의 밝은 미래를 응원할 것”이라며 “앞으로도 구로구가 발전하는 데에 미약하나마 끝까지 힘을 보태겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;문 구청장은 16일 구의회 의장에게 사임통지서를 제출한다. 이에 따라 구로구는 17일부터 엄의식 부구청장 권한대행 체제로 운영된다. 보궐선거는 내년 4월 치러진다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘투숙객 19명 사상’ 부천 화재 호텔 건물주 등 4명 구속… 法, “도주 우려”</title>
-      <link>https://www.chosun.com/national/incident/2024/10/15/3Y5TFTATUJDJ5NO4AOP3OPKE2I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/15/3Y5TFTATUJDJ5NO4AOP3OPKE2I/</guid>
-      <dc:creator>부천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 09:30:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T4DQBI74ZNPN5ORWPQS3WLVN4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8월 투숙객 7명의 사망자가 발생한 경기도 부천 호텔 화재 건물주 A씨 등 3명이 15일 오전 부천시 원미구 인천지방법원 부천지원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;투숙객 7명이 숨지고 12명이 다치는 등 많은 인명피해가 발생했던 경기 부천 호텔 화재 사건과 관련해 건물 안전 관리와 초동 대처를 제대로 하지 않은 혐의를 받는 건물주 등 4명이 구속됐다.&lt;br&gt;&lt;br&gt;양우창 인천지법 부천지원 영장 전담 부장판사는 15일 업무상과실치사‧상 등 혐의로 경찰에 입건된 건물주 A(66)씨 등 4명에 대해 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;양 부장판사는 이날 A씨와 호텔 매니저 B(여‧36)씨, A씨의 딸이자 호텔 공동 운영자인 C(여‧45)씨 등 3명에 대한 구속 전 피의자 심문(영장실질심사)을 진행한 뒤 “도주의 우려가 있다”며 이같이 결정했다. 영장실질심사 포기 의사를 밝히고 법정에 출석하지 않은 또 다른 호텔 공동 운영자 D(42)씨에 대해선 서면으로만 심사를 진행한 뒤, 이들과 같은 이유로 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨 등 4명은 지난 8월 22일 오후 7시 37분쯤 경기 부천시 원미구 중동의 한 호텔에서 발생한 화재와 관련해, 안전관리 등을 제대로 하지 않아 19명의 사상자를 발생시킨 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 지난 2017년 5월 이 호텔을 인수한 뒤, 이듬해인 2018년 5월 객실 에어컨을 교체하는 과정에서 영업 지장 등을 이유로 기존에 설치된 노후 전선을 계속 사용하도록 한 것으로 드러났다. 이 호텔은 2004년 준공됐다.&lt;br&gt;&lt;br&gt;호텔 매니저 B씨는 화재 직후 경보기가 울리자 2분여 동안 임의로 껐다가 다시 켠 것으로 조사됐다. B씨는 “비상벨이 울리면 일단 끄고 화재 여부를 확인한 뒤 다시 켜기로 내부 방침이 정해져 있었다”고 경찰에 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 국립과학수사연구원 감정 결과 등을 토대로 호텔 7층 810호 객실에 설치된 벽걸이형 에어컨에서 전기적인 원인으로 처음 화재가 발생한 것으로 판단했다. 열려있던 객실 문을 통해 급속히 확산한 이번 화재 사고로, 투숙객 7명이 목숨을 잃었고 12명이 중경상을 입었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 경찰, ‘연세대 논술문제 유출’ 수사 착수</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/15/JPY43YBTRVEN3PTEUFQY57D3BU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/15/JPY43YBTRVEN3PTEUFQY57D3BU/</guid>
-      <dc:creator>구동완 기자, 고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 08:59:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HG6T34KCUB77YS36EPLGIOVISA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연세대학교 캠퍼스. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 연세대에서 발생한 대입 논술 문제 유출 사태에 대해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;15일 경찰에 따르면, 서울 서대문경찰서는 2025학년도 연세대 대입 논술 문제 유출 사태에 대한 수사에 착수했다.&lt;br&gt;&lt;br&gt;이는 이날 오후 연세대 측이 서울 서대문경찰서에 고발장을 접수하며 “해당 사건과 관련해 사실 관계를 엄정하게 조사해달라”고 수사를 의뢰한 데 따른 것이다.&lt;br&gt;&lt;br&gt;윤 대통령은 이날 오전 용산 대통령실에서 주재한 국무회의 마무리 발언에서 일부 대학의 시험 관리 부실과 관련해 이주호 사회부총리 겸 교육부 장관에게 경위 파악을 지시하며 “책임자는 철저히 문책하고, 사태가 재발하지 않도록 엄정 조치하라”고 지시한 바 있다.&lt;br&gt;&lt;br&gt;앞서 지난 12일 서울 연세대 신촌캠퍼스에서 수시 모집 자연계열 논술 고사에서 한 고사장에 들어온 감독관 2명이 시험 시작 시간을 착각, 시험 시작 약 1시간 전인 12시 55분에 문제지 등을 배부했다.&lt;br&gt;&lt;br&gt;이후 감독관의 관리, 감독이 소홀한 점을 노리고 한 수험생이 휴대전화를 사용해 문제지 내용을 인터넷 커뮤니티에 유포했다. 이에 따라 문제지가 시험 시작 전 유출되는 전례 없는 사고가 발생했고, 수험생과 학부모를 중심으로 논란이 일기 시작했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>檢, ‘손태승 친인척 부당대출’ 주도한 우리은행 전 본부장 구속 기소</title>
       <link>https://www.chosun.com/national/national_general/2024/10/15/YKPVGOR5BVEPTJCNTZPYBBUA74/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/15/YKPVGOR5BVEPTJCNTZPYBBUA74/</guid>
@@ -833,140 +896,6 @@
       <description/>
       <pubDate>Tue, 15 Oct 2024 09:03:48 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AGR4CG6YURKKHEI5CRSKXVY2KQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손태승 전 우리금융지주 회장 친인척 부당대출 의혹과 관련해 대출을 주도한 핵심 인물로 알려진 우리은행 임모 전 본부장이 지난달 27일 서울 양천구 서울남부지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;손태승 전 우리금융지주 회장의 친인척에 대한 부당대출을 주도한 혐의를 받는 우리은행 임모 전 본부장이 15일 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울남부지검 금융조사1부(부장 김수홍)는 특정경제범죄가중처벌 등에 관한 법률 위반(배임·수재 등) 혐의로 임 전 본부장을 구속 기소했다고 이날 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 임 전 본부장은 우리은행 신도림금융센터장과 선릉금융센터장으로 재직할 당시 손 전 회장의 처남인 김모씨와 친분을 쌓아 부당대출에 관여한 혐의를 받는다.&lt;br&gt;&lt;br&gt;검찰은 우리은행이 2020년 4월부터 올해 초까지 손 전 회장의 친인척과 관련된 업체 등에 대해 도합 350억원 규모의 특혜성 부당대출을 실행했다는 금융감독원 조사 결과를 넘겨받아 수사 중이다.&lt;br&gt;&lt;br&gt;검찰은 지난달 25일 임 전 본부장에 대한 구속영장을 청구했고, 법원은 이틀 뒤인 27일 영장실질심사를 진행한 후 “증거 인멸 및 도망할 염려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;앞서 손 전 회장의 처남 김씨도 특정경제범죄가중처벌법상 횡령 등 혐의로 지난달 24일 구속 기소됐다. 김씨는 아내 명의의 회사 자금을 유용하는 등 혐의를 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, 北 함정 정보 반출 전 ADD 연구원에 징역 1년 6개월 구형</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/10/15/E4UOHVU2W5HDXMG2TUCSNQNUQM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/10/15/E4UOHVU2W5HDXMG2TUCSNQNUQM/</guid>
-      <dc:creator>대전=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 08:59:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/THYJKH2BCBFXTCDF5KYUBUE5WQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전지검. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한의 함정 정보를 수첩에 적어 외부로 가지고 나간 혐의로 재판에 넘겨진 전 국방과학연구소(ADD) 연구원에게 검찰이 징역 1년 6개월을 구형했다. 또 수첩 등 증거를 숨기는 데 도움을 준 동국대 교수에게는 징역 10개월을 구형했다.&lt;br&gt;&lt;br&gt;검찰은 15일 대전지법 형사11단독 장민주 판사 심리로 열린 ADD 전 간부급 연구원 A씨와 동국대 교수 B씨의 군사기밀보호법위반, 증거은닉 등의 혐의 사건 결심 공판에서 A씨에게 징역 1년6개월, B씨에게 징역 10개월을 각각 선고해달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;A씨는 2019년 ADD를 퇴사할 때 북한 함정 정보 등의 군사기밀 자료가 담긴 개인 수첩을 반납하지 않고 외부로 반출한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;ADD를 퇴사한 A씨는 동국대 교수로 임용된 후 북한의 공기부양정 침투에 대응해 무인 수상정 군집학습 시뮬레이터를 구현하는 과제를 ADD와 계약했다. 이 과제에 동국대 동료 교수인 B씨도 함께 참여했다.&lt;br&gt;&lt;br&gt;검찰은 A씨와 ADD를 퇴사하면서 2급 군사기밀 접근 권한이 없어졌지만, 수첩에 기록한 북한 함정 정보를 활용해 과제 모의실험을 위한 북한 공기부양정 모형을 만든 것으로 보고 있다.&lt;br&gt;&lt;br&gt;A씨의 혐의와 관련해 2020년 5월 경찰의 압수수색이 시작되자, B씨는 A씨의 요청을 받고 동국대 건물 지하 주차장에서 수첩 등이 담긴 박스를 건네받아 보관한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰은 수첩에 담긴 북한의 함정 정보는 A씨가 ADD 재직 당시 연구원에 비치된 북한 전투 책자와 군사기밀 정보 책자를 보고 옮겨 적은 것으로 보고 있다.&lt;br&gt;&lt;br&gt;하지만 A씨와 B씨는 모두 혐의를 부인하고 있는 상태다.&lt;br&gt;&lt;br&gt;A씨 측은 재판 과정에서 “책자 열람 당시 제원은 기밀 사항이기 때문에 항목만 적었다. 북한 공기부양정 배수량, 폭, 등 정확한 수치는 인터넷에 떠도는 정보를 보고 추가로 적었다”면서 “(책자를) 그대로 베꼈다면 모두 일치해야 하는데 수첩에 적은 수치가 실제 수치와 절반가량 불일치한 것으로 나타나 군사기밀을 점유했다고 보기 힘들다”고 말했다.&lt;br&gt;&lt;br&gt;B씨 측은 박스 안의 물건을 정확히 알지 못하고 A씨로부터 전달받기만 했을 뿐이라고 주장하고 있다.&lt;br&gt;&lt;br&gt;B씨는 “제가 범죄에 이용당한 것 같아 억울하고 긴 고통의 시간이 너무 원통하다”면서 “누구의 범행을 돕는 어리석은 행동은 하지 않았고, 검찰·경찰이 의심하는 그런 일은 하지 않았다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/THYJKH2BCBFXTCDF5KYUBUE5WQ.jpg?width=4176&amp;height=2556&amp;auth=ef8e9965b1ee63fd785cd0932253971e088b201b6479a2a655f4908f6f94658e&amp;smart=true" type="image/jpeg" height="2556" width="4176">
-        <media:description type="plain">대전지검. /뉴스1</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>검찰, 백원우 前 민정비서관 압수수색… 文 전 사위 특혜채용 의혹</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/15/UGJ4H4LLCJEPLALAL7IYHA54TQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/15/UGJ4H4LLCJEPLALAL7IYHA54TQ/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 08:47:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RNLDW74HOJJJJCXLUGJEBRKPAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백원우 전 청와대 민정비서관./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 전 대통령의 사위였던 서모(44)씨의 타이이스타젯 특혜 채용 의혹을 수사 중인 검찰이 백원우 전 청와대 대통령비서실 민정비서관에 대한 압수수색을 진행했다.&lt;br&gt;&lt;br&gt;전주지검 형사3부(부장 한연규)는 15일 백 전 비서관의 주거지에 수사관을 보내 이 사건과 관련한 압수수색 영장을 집행했다고 밝혔다. 검찰은 문 전 대통령의 딸 다혜씨가 남편 서씨의 타이이스타젯 취업으로 태국에 이주하는 과정에서 청와대의 부정한 지원이 있었는지 확인하기 위해 이날 압수수색을 진행한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난 2월 백 전 비서관을 참고인 신분으로 불러 조사를 진행했다. 당시 검찰은 이상직 전 더불어민주당 의원의 중소벤처기업진흥공단(중진공) 이사장 임명 과정을 조사하기 위해 백 전 비서관을 소환했다.&lt;br&gt;&lt;br&gt;검찰은 항공 관련 경력이 전무한 서씨가 2018년 7월 타이이스타젯 전무이사로 특혜 채용된 대가로, 이 전 의원이 중진공 이사장에 임명된 것으로 의심하고 있다. 검찰 관계자는 “영장 집행과정에서 당사자의 참여권을 철저히 보장했다”며 “구체적 증거물 등에 관한 내용은 밝히기 어렵다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>윤재웅 동국대 총장, 예일대서 ‘한류’ 주제 특강</title>
-      <link>https://www.chosun.com/national/education/2024/10/15/VEFQL64L45BMNKG6NRVWHKXCBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/15/VEFQL64L45BMNKG6NRVWHKXCBQ/</guid>
-      <dc:creator>김승범 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 08:18:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PBLFYMG7Y5GSNK3ZB6LAEUVEL4.png"&gt;&lt;figcaption&gt;&lt;small&gt;윤재웅 동국대 총장이 11일(현지 시각) 미국 예일대에서 '한류'를 주제로 영어 특강을 진행하고 있다. /동국대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동국대는 윤재웅 총장이 지난 11일(현지 시각) 미국 예일대 스털링 기념 도서관 강의실에서 ‘서정주의 시와 BTS의 노래’를 주제로 영어 특강을 했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;동국대에 따르면, 윤 총장은 서정주의 시 ‘고창 선운사의 동백꽃 제사’와 BTS의 노래 ‘작은 것들의 시’를 비교하면서 ‘사랑과 위로의 한류 문화콘텐츠’에 대해 설명했다. 윤 총장은 이날 강연에서 “오늘날 세계에 큰 영향을 미치는 한류가 단순히 경제적 경쟁력만 가지고 있는 것이 아니라, 역사와 철학과 문화와 예술이 결합한 민족의 독특한 에너지에서 유래하는 문화 콘텐츠”라고 말했다.&lt;br&gt;&lt;br&gt;또 윤 총장은 한류의 글로벌 확산을 ‘한국 문화 콘텐츠의 역동적인 에너지가 전 세계에서 소비되고 향유되는 현상’으로 설명하고 한류의 핵심 경쟁력으로 슬픔과 상처에 대한 공감, 꿈과 희망을 향한 갈망, 생명에 대한 지혜, 실생활에 유용한 가치, 작고 주목받지 못하는 것들에 대한 관심, 감각적 아름다움의 향유 등을 꼽았다.&lt;br&gt;&lt;br&gt;동국대는 한류의 지속가능한 발전 및 확산을 위해 지난해 7월 한류융합학술원을 설립하고 한류와 관계된 학문·문화·산업 등 다양한 영역에서 연구를 추진하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>재보선 마지막 주말 총력전… 한동훈 “민주당 패륜 심판” 이재명 “윤석열 2차 심판”</title>
-      <link>https://www.chosun.com/politics/assembly/2024/10/12/QVGZUEK3D5DFNKXLOIP6QGOHB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2024/10/12/QVGZUEK3D5DFNKXLOIP6QGOHB4/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 12 Oct 2024 06:12:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EVNZ3MZ6ZJOCHA2LWMRFJLFEKE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;한동훈 국민의힘 대표가 12일 오전 부산 금정구에서 윤일현 금정구청장 후보 지원 유세를 하고 있다. /국민의힘&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 한동훈 대표와 더불어민주당 이재명 대표가 10·16 재·보궐선거에서 상대 당을 심판해야 한다고 12일 주장했다.&lt;br&gt;&lt;br&gt;한 대표는 이날 오전 부산 금정구 오시게 시장에서 금정구청장 보궐선거 윤일현 후보를 위해 유세하며 “부산 금정이 민주당의 패륜적인 언행으로 인해 전국의 주목을 받고 있다”며 민주당 김영배 의원의 ‘혈세 낭비’ 발언을 비판했다. 금정구청장 보궐선거는 국민의힘 김재윤 전 구청장이 지난 6월 심혈관계 질환으로 별세하면서 치러지는 선거인데, 김영배 의원은 지난 10일 페이스북에 민주당 후보 지원 유세를 하는 사진을 올리고 “보궐선거 원인 제공, 혈세 낭비 억수로 하게 만든 국민의힘 정당 또 찍어줄 낍니까”라고 썼다. 김 의원은 11일 “고인의 죽음을 무겁게 생각하지 못했다”며 사과했고, 민주당은 김 의원을 징계하겠다고 했다.&lt;br&gt;&lt;br&gt;한 대표는 “열심히 일하다가 돌아가신 분을 모욕하는 것은 사람이 아니다”라며 “아무리 자기들 잇속이 중요해도 이건 아니지 않는가. ‘사람 되기는 어려워도 괴물이 되지는 말자’는 영화 속 말이 생각났다”고 했다.&lt;br&gt;&lt;br&gt;한 대표는 이어서 “김영배 의원은 단지 SNS에 (’혈세 낭비’라는 글을) 한 번 올린 것이 아니라, 이렇게 많은 사람이 모인 공식 유세 장소에서 똑같은 말을 유세차에 올라서 했다”며 “우발적으로, 실수로 그런 말을 한 게 아니었다”고 주장했다. 그러면서 “(민주당은) 그걸 지금 와서 그 사람을 징계하겠다고 한다”며 “그동안 뭐 해놓고, 표가 무서워서 그럴 뿐”이라고 했다.&lt;br&gt;&lt;br&gt;한 대표는 “금정은 그런 언행을 허용하는 곳이 아니라는 것을 보여달라”며 “우리가 얼마나 그런 패륜적인 언행에 화가 나 있는지를 표로 보여달라”고 했다.&lt;br&gt;&lt;br&gt;한 대표는 또 “정부와 여당에 대해 부족하다고 여기시는 분이 많이 있다는 것을 잘 알고 있다”며 “그렇기 때문에 더욱 더 우리 당에 힘을 불어넣어달라. 제가 여러분의 저희 당에 대한 사랑과 지지를 바탕으로 당과 정치를 쇄신할 수 있게 해달라”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q3W2FY3GNRNNDDQ6QQ2EPA7J6M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 이재명 대표가 12일 오전 부산 금정구에서 김경지 금정구청장 후보 지원 유세를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주당 이재명 대표는 이날 오전 부산 금정체육공원 앞에서 진행한 김경지 후보 지원 유세에서 “여러분이 금정구청장 한 명을 뽑는 것이 아니라 이 나라의 미래를 결정하는 것이라는 생각으로 투표해달라”며 정권 심판론을 주장했다.&lt;br&gt;&lt;br&gt;이 대표는 “지난 총선에서 국민이 압도적 의사로 ‘이렇게 하면 안 된다’고 정권을 심판했는데도 (윤석열 정권은) ‘별것 아니네’ 하지 않느냐”며 “(윤석열 정권이) 아직도 자신이 왜 총선에서 심판받았는지 모르면 이번 기회에 2차 심판을 반드시 해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이 대표는 그러면서 “정부가 잘하기에 따라 살만한 세상이 되고, 정부가 그 권력으로 이권을 챙기고 범죄를 덮고 반대하는 사람을 명예훼손죄로 잡아 구속영장 청구하면 나라 망한다”며 “이번 선거는 금정구청장 선거가 아니라 대한민국의 운명에 관한 선거”라고 강조했다.&lt;br&gt;&lt;br&gt;이 대표는 “권력이란 먼바다를 항해하는 배와 같다”며 “선장이 술 먹고 ‘네 마음대로 해, 나 어딘지도 몰라’라면서 지도도 볼 줄 모르고, ‘너 나랑 잘 알지? 항해사 해봐’ 그러면 항해가 되겠느냐”고도 했다.&lt;br&gt;&lt;br&gt;이 대표는 보수세가 강한 금정구에서 열세였던 김경지 후보가 상대 후보와 격차를 좁혔다는 여론조사 결과가 나왔다며 “결과를 알 수 없는 초박빙인 것이 분명하다”고도 했다. 이 대표는 그러면서 “내 한 표, 내 친구 한 표로 승패가 결정난다는 생각으로 꼭 투표해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경기북부서 ‘北 오물 풍선’ 관련 신고 이틀새 8건 접수</title>
-      <link>https://www.chosun.com/national/2024/10/12/6RM3EHB7VJACJF3XQTIQWPLAZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/10/12/6RM3EHB7VJACJF3XQTIQWPLAZ4/</guid>
-      <dc:creator>김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 12 Oct 2024 03:30:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7UW3XRVUMNCLHHWZWFMYK27ZWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 북한의 대남 쓰레기 풍선이 서울 시내 하늘 위에 떠 있다. 오른쪽은 오물이 담긴 곳이 터지며 쓰레기가 떨어지는 모습. /연합뉴스·뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한이 날려보낸 오물 풍선이 경기 북부지역 곳곳에서 발견됐다.&lt;br&gt;&lt;br&gt;12일 경기북부경찰청에 따르면 전날 오전 5시부터 이날 오전 5시까지 8건의 오물 풍선 관련 신고가 접수됐다.&lt;br&gt;&lt;br&gt;북한 오물 풍선으로 인한 인명·재산 피해는 현재까지 없는 것으로 파악됐다. 경찰은 이 중 4건은 군 당국에 인계했다. 경기 북부에서는 현재까지 북한 오물 풍선과 관련해 2662건의 신고가 접수됐다. 이 중 1327건은 군에 인계했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I6NSJE2CWFALXP24FEZZLOA4EE.png"&gt;&lt;figcaption&gt;&lt;small&gt;북 오물 풍선 구조도. /그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한은 지난 5월부터 우리나라를 향해 오물 풍선을 날렸다. 지난 11일에는 우리 군이 평양으로 무인기를 보내 ‘삐라’(전단)를 살포했다고 주장했다. 그러면서 또다시 오물 풍선을 띄웠다. 올해 들어서만 28차례다. 이에 대해 우리 군 합동참모본부는 “북한 주장에 대한 사실 여부를 확인해줄 수 없다”고 했다.&lt;br&gt;&lt;br&gt;한편, 국회 행정안전위원회 채현일 의원(더불어민주당)이 국방부에서 받은 ‘북한 오물 풍선 구조도’에 따르면, 오물 풍선은 지름 3~4m 크기 고무풍선에 쓰레기, 거름 등을 채운 비닐봉지를 매달아 만들었다. 풍선과 봉지 사이에 건전지로 작동하는 발열 타이머를 달았고, 쓰레기 봉지에는 화약 띠를 두르고, 발열 타이머와 전선으로 연결했다. 일정 시간이 지나면 화약이 터지면서 봉지 아랫부분이 열려 안에 있는 쓰레기가 넓게 뿌려지게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독]신발 자율권 줬는데...  안세영은 왜 협회 후원사 신발 또 신었나</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/15/OZNA2QBSYBDJNCAS4OWOBKU24Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/15/OZNA2QBSYBDJNCAS4OWOBKU24Q/</guid>
-      <dc:creator>김영준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 08:35:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VHUFK4U2UVCDBJRK7JMHYISZYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;파리올림픽에 출전한 안세영. 대한배드민턴협회 후원사인 요넥스 신발을 신고 있다. /대한배드민턴협회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 배드민턴 간판 안세영(22·삼성생명)은 파리올림픽 금메달 획득 후 대한배드민턴협회를 향한 작심 비판을 쏟아냈다. 그 중 하나는 협회가 국가대표 선수들에게 협회 후원사 제품만을 쓰도록 강제한다는 것. 후원사 신발이 발에 잘 맞지 않아 물집까지 잡혀가며 훈련과 경기를 뛰었다는 사실이 드러나 협회는 국민적 공분을 샀다. 하지만 협회는 “후원사와의 계약에 명시된 사항이라 예외를 둘 수 없다”는 입장을 보여왔다.&lt;br&gt;&lt;br&gt;그러나 해당 문제가 국회에서까지 거론되며 파장이 커지자 배드민턴협회는 지난 14일 “15일 개막하는 BWF(세계배드민턴연맹) 덴마크 오픈부터 안세영에 한해 한시적이고 예외적으로 경기화 자율 선택권을 주기로 후원사와 합의했다”고 밝혔다. 후원사 용품 사용 관련 계약 조항 변경에 대한 논의가 결론이 날 때까지 일단 문제 제기를 했던 안세영에게만 원하는 신발을 신도록 해주겠다는 것이다.&lt;br&gt;&lt;br&gt;하지만 정작 안세영은 15일 덴마크 오픈 여자단식 첫 경기 32강전에 자신이 선호하는 아식스 신발 대신 협회 후원사 요넥스 신발을 그대로 신고 나왔다. 안세영은 폰피차 체키웡(태국)을 상대로 게임 스코어 2대0(21-16 21-8)으로 무난하게 승리했지만, 불편을 호소했던 신발을 그대로 신고 나와 의문이 생겼다. 그는 직전에 열린 전국체전에는 국가대표 신분으로 뛴 게 아니라서 아식스 신발을 신었다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 안세영은 스스로 아식스 신발 착용을 거부했다고 한다. 안세영은 덴마크 오픈 참가를 위해 지난 13일 출국했는데, 협회와 후원사 요넥스는 출국 전엔 “원하는 신발을 신되, 로고를 가려야 한다”는 방침을 안세영에게 전달했다. 로고를 가리지 않아도 되는 완전한 자율권을 주기로 결정한 건 출국 이후였던 것.&lt;br&gt;&lt;br&gt;출국 전 ‘조건부 허락’ 방침을 들은 안세영은 “로고를 어떻게 가려야 할 지도 모르겠고, 다른 선수들도 있는데 나만 특혜를 받는 게 싫다”며 아식스 신발을 준비하지 않은 채 덴마크로 떠나 요넥스 신발을 신고 경기를 뛴 것으로 전해졌다. 배드민턴계 관계자는 “안세영이 덴마크 오픈 이후 국제대회에도 계속 요넥스 신발을 신을 지는 마음을 정하지 않은 것으로 안다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ALHTIGYTBPDRKTN5PSB4BK564.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 전국체전 경기에 참가한 안세영이 아식스 신발을 신고 있는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오세훈 시장, 서울시교육감 사전투표 “교육 정책은 아이들 성장·서울 미래 좌우”</title>
-      <link>https://www.chosun.com/national/education/2024/10/12/OG5DHJFZM5BXVETSPW7XCMI5VU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/12/OG5DHJFZM5BXVETSPW7XCMI5VU/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 12 Oct 2024 02:21:10 +0000</pubDate>
-      <content:encoded>오세훈 서울시장이 12일 서울 용산구 한남동 주민센터에서 서울시교육감 보궐선거 사전투표를 했다.&lt;br&gt;&lt;br&gt;오 시장은 이날 오전 자신의 페이스북에 ‘사전투표, 오늘까지입니다’라는 제목의 글을 올려 “방금 아내와 함께 서울시교육감 보궐선거 사전투표를 마쳤다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UEPQUOZYNBMKVNRGS7LAYGVIRY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;10·16 재·보궐선거 사전투표 마지막날인 12일 오전 서울 한남동 주민센터에 마련된 투표소에서 오세훈 서울시장과 배우자 송현옥 씨가 사전투표를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 “꽤 많은 투표에 임해봤지만, 투표함 앞에 서면 늘 마음이 새롭고 경건하다. 특히 이번 교육감 선거는 무게감이 더 크게 느껴진다”며 “교육 정책은 아이들의 성장뿐 아니라 서울의 미래까지 좌우할 만큼 중요하기 때문이다”고 했다.&lt;br&gt;&lt;br&gt;이어 “아이들의 교육을 위해, 나아가 서울의 미래를 위해 최선의 한 표를 행사해달라”며 오늘 사전투표와 16일 본투표 참여를 독려했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/UEPQUOZYNBMKVNRGS7LAYGVIRY.JPG?width=5192&amp;height=3622&amp;auth=60caf68f325393dad70bb6d76131f5b53382bd27ffb950087bede5e50a56f5d7&amp;smart=true" type="image/jpeg" height="3622" width="5192">
-        <media:description type="plain">(서울=뉴스1) 이동해 기자 = 10·16 재·보궐선거 사전투표 마지막날인 12일 오전 서울 한남동 주민센터에 마련된 투표소에서 오세훈 서울시장과 배우자 송현옥 씨가 사전투표를 하고 있다. 2024.10.12/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 이동해 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>경찰, 한동훈 신변 위협 글에 수사 착수… 주변 경호도 강화</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/12/ERPBOLXAKJBCTAXJBFY3O63EHM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/12/ERPBOLXAKJBCTAXJBFY3O63EHM/</guid>
-      <dc:creator>서보범 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 12 Oct 2024 02:16:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TZHIH5HNIGP5WQ2HZ7TSRYYZUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한동훈 국민의힘 대표가 지난 9일 오후 부산 금정구 부산대학교 앞에서 윤일현 금정구청장 후보 지원유세를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한동훈 국민의힘 대표의 신변을 위협하겠다는 내용의 온라인 게시글이 올라와 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;서울 마포경찰서는 지난 11일 오후 9시 15분쯤 온라인 커뮤니티 디시인사이드에 한 대표에게 물리적 폭력을 행사하겠다는 내용의 게시글이 게재됐다는 신고를 접수, 수사에 착수했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 해당 게시글 작성자의 신원을 파악하기 위해 디시인사이드에 대해 압수수색 영장을 신청하는 등 작성자를 추적 중인 것으로 파악됐다. 해당 게시글은 현재 삭제된 상태로 알려졌다.&lt;br&gt;&lt;br&gt;또 경찰은 한 대표 자택 관할인 서울 수서경찰서와 국민의힘 당사 관할 영등포경찰서에 공조를 요청해 인근 순찰을 강화했다.&lt;br&gt;&lt;br&gt;한 대표는 부산 금정구청장 보궐선거를 앞두고 오는 12일 부산 금정구 노포동 오시게장을 찾아 국민의힘 윤일현 후보 지원 유세에 나설 것으로 알려졌다. 경찰은 한 대표 부산 일정에도 경호 인력을 배치할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한양대, 한양중국센터 20주년... 중국 유학생 동문회 출범</title>
-      <link>https://www.chosun.com/national/education/2024/10/15/JALT6YOBBNB2LFL46BLEAXMY4A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/15/JALT6YOBBNB2LFL46BLEAXMY4A/</guid>
-      <dc:creator>김승범 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 08:44:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KFNI5UU4PZGZNJ33BZQVY45YDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이기정 한양대 총장이 12일 중국 베이징 쉐라톤호텔에서 개최된 ‘한양중국센터 설립 20주년 기념식 및 한양대 유학생 동문회(화베이) 창립총회’에서 발표를 진행하고 있다. /한양대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한양대는 12일 중국 베이징에서 한양중국센터 설립 20주년 기념식과 함께 한양대 유학생 동문회(화베이) 창립총회를 개최했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;이번 행사는 베이징·허베이성·톈진·네이멍구자치구 등 중국 화베이 지역에 거주하는 한양대 출신 중국인 유학생 동문들이 참석한 가운데 한양대의 글로벌 네트워크 강화를 목표로 진행됐다. 이번에 창립된 한양대 유학생 동문회는 화베이 지역의 동문들 간 교류와 상호 발전을 도모할 예정이다. 이날 행사에는 한양대 이기정 총장을 비롯해 최중섭 대외협력처장, 김한성 국제처장, 김달호 한양중국센터 대표와 함께 중국인 유학생 동문 80명, 중국에 거주 중인 한국인 동문 등이 참석했다.&lt;br&gt;&lt;br&gt;이 총장은 “중국 사회 각계각층에서 활약하고 있는 동문들을 보며 자부심을 느낀다”며 “한양대가 더 큰 발전을 이루고 세계적인 대학으로 도약할 수 있도록 동문들이 힘을 모아주길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;한양대는 2003년을 ‘국제화 원년’으로 선포한 이후 지난 20여년간 세계 유수 대학들과의 협력, 다양한 해외 교류 프로그램 운영, 외국인 유학생 유치, 글로벌 연구 및 교육 환경 조성에 힘써왔다. 특히 2004년에는 국내 대학 최초로 중국 상하이에 현지법인 한양중국센터를 설립했다. 한양중국센터는 그동안 중국 현지 입시 진행을 통해 우수 유학생을 유치하고, 글로벌 인재 양성을 위한 맞춤형 현지 교육과정을 운영하는 등 다양한 성과를 거뒀다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>교육부·서울대 ‘의대생 휴학 취소’ 놓고 충돌</title>
-      <link>https://www.chosun.com/national/education/2024/10/12/CRKOVQHGWBCNRGXNS6PIUIPADE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/12/CRKOVQHGWBCNRGXNS6PIUIPADE/</guid>
-      <dc:creator>김경은 기자, 표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Oct 2024 20:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4FGJ77O46RM2NPXAAQVJYIOMYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 서울 종로구 서울대학교 의과대학. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의대생 집단 휴학을 승인한 서울대와 이를 부당 행위로 보고 감사에 착수한 교육부가 ‘휴학 승인 취소’를 놓고 충돌하고 있다. 교육부는 “서울대 총장이 휴학을 취소하면 되지 않느냐”는 입장이다. 반면 서울대는 “휴학을 취소하려면 교육부 장관이 직접 시정명령을 내려야 한다”고 맞서고 있다.&lt;br&gt;&lt;br&gt;11일 본지 취재를 종합하면, 교육부는 원래 서울대에 이날까지 감사를 진행하겠다고 통보했지만 이를 번복하고 21일까지 추가 감사를 진행하기로 했다. 앞서 교육부는 지난달 30일 밤 김정은 서울대 의대 학장이 기습적으로 의대생 집단 휴학을 승인하자 “대학의 책무를 저버린 부당 행위”라며 지난 2일부터 감사에 착수했다.&lt;br&gt;&lt;br&gt;이후 교육부는 지난 6일 ‘의대 학사 정상화를 위한 비상 대책’을 발표하고 내년에 학교 복귀를 전제로 올해 1학기 의대생들의 휴학을 승인한다는 방침을 밝혔다. ‘집단 휴학 절대 불허’라는 기존 입장에서 한발 물러난 것이다.&lt;br&gt;&lt;br&gt;문제는 이 방침이 나오기 전 이미 휴학이 승인된 약 700명의 서울대 의대생은 어떻게 하느냐는 것이다. 교육부는 내년 복귀 여부 등을 확인하는 절차를 거치지 않았기 때문에 우선 휴학 승인을 일괄 취소해야 한다고 본다. 감사 과정에서 교육부는 서울대 측에 “학장이 휴학을 승인했더라도 상급자인 총장이 이를 취소하면 되지 않느냐”는 입장을 밝힌 것으로 전해졌다.&lt;br&gt;&lt;br&gt;하지만 서울대는 학칙상 의대생 휴학 승인 권한이 의대 학장에게 있어 총장이 이를 일방적으로 취소할 근거가 없다는 입장이다. 총장이 법적 근거 없이 휴학을 취소해 버리면 향후 의대생들이 소송을 내면 질 수밖에 없으니 휴학을 취소하려면 교육부 장관이 직접 하라는 것이다. 고등교육법 60조에 따르면, 교육부 장관은 대학의 법 위반 행위에 대해 시정명령을 내리고, 대학이 이를 이행하지 않으면 직접 위반 행위를 취소할 수도 있다.&lt;br&gt;&lt;br&gt;교육계에선 “교육부가 서울대에 책임을 떠넘긴다”는 지적이 나오고 있다. 휴학을 취소하면 학생들의 집단 반발과 소송이 이어질 것이 뻔하기 때문에 후폭풍을 감당하지 않으려 한다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 10월 12일</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/12/MNXJMBUAN5BRHEHVLQTLVYHRH4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/12/MNXJMBUAN5BRHEHVLQTLVYHRH4/</guid>
-      <description/>
-      <pubDate>Fri, 11 Oct 2024 17:00:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U2KIAO3NWJGYHJZIFLPJGBMMBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 10월 16일 수요일 (음력 9월 14일 癸丑)</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/15/AIPNVCJJHJDZDAV2VA2GITEWUI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/15/AIPNVCJJHJDZDAV2VA2GITEWUI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Oct 2024 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;style&gt;
-#fortuneBanner{ width: 100%; position: relative; max-width: 100%; height: auto; overflow: hidden;}
-#fortuneBanner a{ z-index: 2; position: absolute; left: 0; top: 0; right: 0; bottom: 0; width: 100%; max-width: 100%; height: auto;}
-#fortuneBanner img{ z-index: 1; width: 100%; max-width: 100%; height: auto;}
- &lt;/style&gt;
- &lt;div id="fortuneBanner"&gt;
-&lt;a href="https://www.chosun.com/jeomsin"&gt;&lt;/a&gt;
-&lt;img src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5VT5QRVJSND7VGWTDG5MP7Q5IU.png" alt=""&gt;
- &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 낙상과 안전사고 주의. 48년생 자제력 무너질 수 있으니 자기 단속 철저히 하라. 60년생 북쪽 문은 피하는 게 상책. 72년생 실수를 만회할 기회는 반드시 온다. 84년생 새로운 국면을 맞이하게 될 듯. 96년생 문제 삼지 않으면 문제 안 된다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 시비 구설이 나면 사전 위험 경고인 줄 알아라. 49년생 용띠와의 거래에 주의가 필요. 61년생 적게 먹으면 약주 많이 먹으면 망주. 73년생 천석꾼 천 가지 만석꾼 만 가지 걱정. 85년생 내면의 고독감 이겨낼 수 있어야. 97년생 작은 것에 만족하면 큰일 못 할 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 즐기지 않으면 고통만 따른다. 50년생 무조건 참는다고 상책인 것은 아니다. 62년생 따라만 해서는 성공할 수 없다. 74년생 아랫사람이라고 막 대하면 망신당할 수도. 86년생 오늘에 만족하면 현재 이곳이 천당. 98년생 무엇이든 첫 단추를 잘 끼워야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 갈등과 분쟁이 화해와 단합으로. 39년생 건강은 지속적 관리가 핵심. 51년생 타협과 협상 필요한 시점. 63년생 세상에 흠결 하나 없는 사람 없다. 75년생 윗사람과 지인에게 도움 청하도록. 87년생 시간 지체되더라도 순리대로 진행. 99년생 답답한 마음에 변화 이동은 손실 초래.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 담대하고 과감해질 필요 있다. 40년생 관심 필요한 곳에 진심 다하도록. 52년생 불뚝 성질이 일 그르친다. 64년생 지출 많은 시기니 절약 필요. 76년생 큰 그릇은 늦게 이뤄진다 했다. 88년생 정중한 거절이 관계의 지속. 00년생 시기와 질투 부러움으로 고민스러운 하루.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 씹지 않은 밥맛 알 수 있을까. 41년생 빠르다고 다 좋은 건 아니다. 53년생 왕자 원하거든 먼저 공주 돼라. 65년생 전문가에게 자문 구하도록. 77년생 긴장 늦추지 마라. 89년생 급과속도 위험하지만 급제동이 더 위험. 01년생 죽 끓듯 한 냄비 근성 버려야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 경제적 여유는 언제나 오려나. 42년생 잊혀 가는 추억에 아쉬움과 그리움만. 54년생 못 먹을 감나무 쳐다보지도 마라. 66년생 말보다 행동 중시한 참모 필요. 78년생 쥐띠라면 가족이라도 경계. 90년생 성취의 기쁨에 환호성이 절로. 02년생 실천 없는 말은 스치는 바람에 불과.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 넘어진 사람이 지팡이 탓만 한다더라. 43년생 이익을 좇되 양심까지 버려서야. 55년생 똑같은 조건에도 결과는 천양지차. 67년생 작은 욕심은 부려 봐도 좋을 듯. 79년생 마음 가는 대로 결행하면 손실 초래. 91년생 운명적인 만남이 있을 수도. 03년생 정직이 최상의 방책.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 최악만 아니라면 차악도 고려 대상. 44년생 돕겠다고 말한 사람을 경계. 56년생 두통과 소화불량 나타날 수도. 68년생 붉은색과 숫자 2, 7이 행운 부른다. 80년생 가까이 앉아야 정도 두터워진다. 92년생 같은 돌에 두 번 걸려 넘어지는 건 수치다. 04년생 기회는 왔을 때 잡는 것.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 사람들이 모두 좋아 할 수만은 없다. 45년생 일어나지도 않은 일을 미리 고민할 것 없다. 57년생 배뇨 기관 질환 주의. 69년생 길운이 집안으로 모이니 만사가 형통. 81년생 육체 건강보다 정신 건강이 중요. 93년생 상황은 늘 변하기 마련.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 오랜 지기(知己)가 내 맘 같지 않구나. 46년생 남방이 유익하니 남쪽으로 가라. 58년생 오래 전 빌려준 돈을 받을 수도. 70년생 투자나 매매 계약은 다음 기회에. 82년생 흰 이슬 내리면 여름 가고 가을 오는 줄 알라. 94년생 아프면 무조건 병원부터 가라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="640" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 무엇보다 빠른 철수가 이득. 47년생 허약한 육체가 마음도 허약하게. 59년생 용두사미 되지 않도록. 71년생 차분하게 자신만의 시간을 가져봄이 어떨까. 83년생 동업에는 손해가 적지 않을 듯. 95년생 내가 맞추면 주위가 편안.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
