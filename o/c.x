@@ -13,6 +13,109 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>내일부터 전국 ‘진짜’ 가을비 내린다…그친 뒤 기온 ‘뚝’</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/17/NOQBGHK5AVFFZKB2VTPOB54RMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/17/NOQBGHK5AVFFZKB2VTPOB54RMU/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 12:31:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EDJDXGBCONKCBJD446CLIRHREM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 시민이 우산을 쓰고 이동하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일부터 전국에 많은 가을비가 내린 뒤 기온이 급격히 떨어질 것으로 예상된다.&lt;br&gt;&lt;br&gt;17일 기상청은 이날 밤 제주에서 시작한 비가 18일 낮부터 전국적으로 확대되고, 19일까지 내릴 것으로 예상된다고 예보했다.&lt;br&gt;&lt;br&gt;비는 19일 새벽 서쪽 지역부터 그치기 시작해 낮에 대부분 그치겠으나, 제주와 강원 영동에서는 늦은 밤까지 이어질 것으로 관측된다.&lt;br&gt;&lt;br&gt;19일까지 예상 강수량은 △서울, 인천, 경기, 서해5도 20~60㎜ △강원 동해안·산지 50~100㎜ △강원내륙 20~60㎜ △대전, 세종, 충남, 충북 20~60㎜ △광주, 전남, 전북 10~60㎜ △부산, 울산, 경남 남해안, 경북 북부, 울릉도·독도 30~80㎜ △대구, 경북 남부, 경남내륙 10~50㎜ △제주도 10~60㎜ 등이다.&lt;br&gt;&lt;br&gt;최근 날이 맑아 평년기온을 웃돌았던 기온은 비가 그친 뒤 우리나라 북쪽에서 고기압이 확장, 찬 북풍이 거세게 불어 들면서 평년기온과 비슷하거나 약간 낮은 수준으로 떨어질 것으로 예측된다.&lt;br&gt;&lt;br&gt;20일 아침에는 전국적으로 기온이 급격히 떨어질 것으로 전망된다. 18일 아침 최저기온은 12~20도, 낮 최고기온은 19~26도일 것으로 예상된다. 19일은 아침 최저기온과 낮 최고기온이 13~21도와 15~25도를 웃돌 것으로 보인다. 18일 오후부터 전국에 강풍까지 불어 더 체감기온은 더 낮을 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰 밀치고 도망친 30대 불법체류자...도주 10시간 만에 검거</title>
+      <link>https://www.chosun.com/national/incident/2024/10/17/CB2OHESLCBAWXPFO7DMPPDV4QI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/17/CB2OHESLCBAWXPFO7DMPPDV4QI/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 12:03:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GXNIZ5JAPR7MFWIMABJK5MNNOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 나주경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;출입국관리법 위반 혐의로 붙잡힌 30대 불법체류자가 경찰을 밀치고 도주했다가 10시간 만에 검거됐다.&lt;br&gt;&lt;br&gt;전남 나주경찰서는 도주 등 혐의로 태국 국적의 불법체류자 30대 남성 A씨를 체포했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 전날 오후 10시 30분쯤 나주경찰서에서 경찰관을 밀치고 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 “외국인들이 싸운다”는 112 신고를 받고 출동해 A씨와 외국인 여성 B씨를 조사하던 중 이들의 불법체류 사실을 확인하고, 순찰차 2대에 나눠 태워 조사를 위해 경찰서로 향했다.&lt;br&gt;&lt;br&gt;경찰서에 도착한 A씨는 순찰차에서 내리자마자 경찰을 밀치고 달아났다.&lt;br&gt;&lt;br&gt;추적에 나선 경찰은 도주 10시간 만인 17일 오전 8시 30분쯤 금천면에서 A씨를 긴급 체포했다. 경찰은 A씨를 상대로 정확한 사건 경위를 조사할 예정이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “조사 결과를 토대로 A씨에 대한 신병 처리 방향을 결정할 방침”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “A씨와 다툰 불법체류 여성은 출입국관리소에 인계해 출국 조치할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 도주하는 과정에서 대응에 문제가 없었는지 감찰에 나설 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘압수물 횡령’ 경찰관 구속...“도망 염려”</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/17/CCBQSZGIZZF5HEEYBUQMAGBS2Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/17/CCBQSZGIZZF5HEEYBUQMAGBS2Q/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 12:01:35 +0000</pubDate>
+      <content:encoded>각종 범죄에서 압수한 금품에 손을 대고 빼돌린 혐의를 받는 경찰관이 17일 구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VHELCYWMZBAMZAATN2GTMU73SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 남천규 영장전담 부장판사는 이날 절도 혐의를 받는 정모 경사에 대한 영장실질심사를 마친 후 “도망할 염려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면 현재 서울 강남경찰서 범죄예방대응과 소속인 정 경사는 앞서 수사과에서 근무하던 때 압수물 관리 업무를 담당했는데, 당시 불법 자금으로 압수된 현금 3억원가량을 가로챈 혐의를 받는다. 정 경사는 올해 6월 중순부터 이달 초까지 현금을 빼돌린 것으로 조사됐다. 지난 7월 범죄예방대응과로 인사발령이 난 이후에도 범행을 이어갔다. 정 경사는 현재 직위해제 상태다.&lt;br&gt;&lt;br&gt;통상 경찰은 현금 등 귀중품 관련 압수품을 밀봉된 상태로 보관하는데, 정 경사는 압수물에 접근할 수 있는 점을 이용해 압수품에 다른 물품을 채워 넣은 뒤 보관된 돈을 빼돌리는 수법을 쓴 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 최근 압수물 현황을 살피며 실제 보관된 현금과 장부상 금액이 맞지 않는 점을 수상하게 여겨 조사를 하는 과정에서 이 같은 범죄 혐의를 파악한 것으로 전해졌다. 정 경사는 지난 14일 긴급 체포됐다.&lt;br&gt;&lt;br&gt;최근 압수한 금품을 횡령하는 현직 경찰의 비위(非違)가 잇따르고 있다. 서울 용산경찰서의 형사과 소속 A 경사도 자신이 훔친 돈을 되돌려 놓으려고 하던 과정에서 압수물 점검에 나온 직원에게 발각돼 지난 16일 긴급 체포됐다. A 경사는 보이스피싱 범죄 수사 당시 경찰이 압수한 금액 1억 5000만원 상당을 빼돌린 혐의를 받는다.&lt;br&gt;&lt;br&gt;이에 따라 경찰청은 이날 지휘부 화상회의를 열고 전국 경찰서를 대상으로 범죄 압수물 관련 긴급현장점검과 전수 점검 조치를 지시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인권위 “‘태영호 쓰레기’ 발언은 인권침해”</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/17/E5YSR5KOBRDEHG7IKCG66HBGDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/17/E5YSR5KOBRDEHG7IKCG66HBGDM/</guid>
+      <dc:creator>서보범 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 12:09:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/654E4C2DABK5DCFSGWJ7PEBGJI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;태영호 국민의힘 의원이 지난 2023년 8월 7일 오전 서울 여의도 국회 본관 앞에서 8일째 단식 중인 이재명 더불어민주당 대표를 찾아가 지난 6일 대정부 질문 당시 태 의원에게 '쓰레기' 발언을 한 박영순 의원에 대한 출당 및 제명 조치를 촉구하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 국회 본회의장에서 당시 국민의힘 태영호 의원에게 “쓰레기”라고 한 더불어민주당 박영순 의원 발언은 탈북민 인권침해이며, 국회는 이를 신속히 징계해야 한다는 국가인권위원회 판단이 17일 나왔다. 인권위가 국회의원 발언을 인권침해로 규정하고 국회에 관련 권고를 한 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;인권위 침해구제제1위원회는 당시 박 의원의 ‘쓰레기’ 발언을 인권침해로 규정하고 의원들이 국회법을 어기고 모욕적 발언을 할 경우 신속히 징계 절차를 밟는 등 대책을 마련할 것을 국회의장에게 권고하기로 했다고 밝혔다. 국회법 146조는 의원이 본회의 또는 위원회에서 다른 사람을 모욕하거나 다른 사람의 사생활에 대해 발언하는 행위를 금지하고 있다.&lt;br&gt;&lt;br&gt;지난해 9월 6일 당시 태 의원은 국회 대정부 질문에서 북한인권재단 이사 추천을 하지 않는 민주당을 향해 “공산 전체주의 맹종”이라고 했다. 그러자 박 의원은 “북한에서 쓰레기가 나왔어, 쓰레기가”라고 했다. 두 사람은 22대 총선에서 낙선해 현재는 전직 의원 신분이다. 위원회는 박 전 의원이 현직 의원이 아니라는 점을 고려해 이 같은 수준의 결정에 그쳤다고 했다.&lt;br&gt;&lt;br&gt;22대 국회 개원 이후 속출하는 각종 인권침해·모욕성 발언과 관련한 진정도 인권위에 접수되고 있다고 한다. 인권위 관계자는 “국회의원의 헌법상 면책 특권이 인권침해 발언을 정당화할 수는 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“사법의 정치화 우려”...헌재 3人, 헌재 위기 말하고 떠났다 </title>
+      <link>https://www.chosun.com/national/court_law/2024/10/17/TWA7MMTSVVBOLMDZSWIIUO65XM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/17/TWA7MMTSVVBOLMDZSWIIUO65XM/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 11:39:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NCNBHQSBPBE5BPDH5RHXSEMOKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 서울 종로구 헌법재판소에서 헌법재판관 퇴임식이 열렸다. 이날 퇴임한 이종석 헌법재판소장과 이영진·김기영 헌법재판관이 직원들의 박수를 받으며 퇴임식장에 입장하고 있다. 이 소장은 퇴임사에서 “사법의 정치화를 경계하고 재판의 독립을 이루도록 노력해야 한다”고 했다. 재판관 3명이 퇴임하면서 헌법재판소는 당분간 재판관 6명 체제로 운영될 것으로 보인다. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이종석 헌법재판소장과 이영진·김기영 재판관이 6년 임기를 마치고 17일 퇴임했다. 국회에서 후임 재판관을 선출하지 않아 헌법재판소는 한동안 ‘6인 체제’로 운영될 전망이다. 떠나는 헌법재판관들은 “사법의 정치화가 우려된다” “사건 처리가 정체될 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 소장은 이날 열린 퇴임식에서 “헌재가 현재 위기 상황이라고 느끼고 있다”면서 “재판의 독립을 이루도록 노력해야 한다”고 강조했다. 이 소장은 “최근 몇 년 사이 (헌재에) 권한쟁의 심판, 탄핵 심판과 같은 사건이 크게 증가하고 있다”면서 “정치적 성격의 분쟁이 사법부에 많이 제기되는 이른바 정치의 사법화 현상이 나타나면 뒤이어 사법의 정치화가 나타날 우려가 있다”고 말했다. 국회 과반수를 차지한 야당이 방송통신위원장과 검사들에 대한 탄핵을 소추하고 대통령 탄핵 청문회를 강행하자, 여당이 절차적 문제를 제기하며 권한쟁의 심판을 청구하는 일이 반복되고 있다는 점을 지적한 것이다. 이 소장은 “사법의 정치화 현상은 헌재 결정에 대한 불신을 초래해 민주주의 질서를 해칠 것”이라며 “헌재가 우리 사회와 국민을 지키는 튼튼한 버팀목이 될 것이라 굳게 믿는다”고 했다.&lt;br&gt;&lt;br&gt;이영진 재판관은 “헌재에 신속한 사건 처리를 요청하는 목소리가 커지고 있다”며 “후임 재판관이 선출되지 않은 상황이어서 사건의 심리와 처리는 더욱 정체될 것”이라고 했다. 김기영 재판관은 “여러 사건을 접하며 치열한 고민의 흔적을 담은 의견을 내고 싶었다. 앞으로 헌재가 더 좋은 결정을 많이 할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5UOXGUX7YZCBBIX3GMHTJZ24BE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종석 헌법재판소장과 이영진·김기영 헌법재판관이 17일 서울 종로구 헌법재판소에서 퇴임식을 마친 뒤 기념사진을 촬영하고 있다. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세 재판관이 이날 임기 만료로 퇴임하면서 재판관 9명 중 3명이 공석이 됐다. 헌법재판소법은 재판관이 최소 7명 있어야 사건을 심리할 수 있다고 규정한다. 하지만 헌재는 지난 14일 이진숙 방송통신위원장의 가처분 신청을 받아들여 이 조항의 효력을 스스로 정지시켰다. 이에 따라 남은 재판관 6명이 한시적이지만 심리를 진행할 수 있게 됐고, 전원(6명)이 찬성하면 탄핵이나 위헌 등을 결정할 수도 있게 됐다.&lt;br&gt;&lt;br&gt;다만 일시적인 6인 체제에서 탄핵 등 민감한 사건에 대한 결론을 내긴 어려울 것으로 보인다. 앞서 헌재는 ‘심리 정족수 7명’ 조항의 효력을 정지하면서 “재판관 6명의 의견이 팽팽하게 맞서 나머지 3명의 재판관 의견에 따라 사건의 향배가 달라질 수 있는 경우, 공석인 재판관이 임명되기를 기다려 결정하면 된다”며 “신속한 결정을 위해 후임 재판관 임명 전에 쟁점을 정리하고 증거조사를 하는 등 사건을 성숙시킬 필요가 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;한편, 더불어민주당은 후임 재판관으로 정계선 서울서부지법원장과 김성주 광주고법 판사를 추천하는 것을 검토 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/Y3LNRKKKIBAFHI7SAP4KXCGBEI.jpg?width=3907&amp;height=2198&amp;auth=e9cafc1f0babf75378abfc016db7585464a9f49dc0ba5c35e3871bd80e20d6e9&amp;smart=true" type="image/jpeg" height="2198" width="3907">
+        <media:description type="plain">이종석 헌법재판소장과 이영진·김기영 헌법재판관이 17일 서울 종로구 헌법재판소에서 퇴임식을 갖고 있다. /박상훈 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">박상훈 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“잘못 본 줄”... 불화설 걸그룹 ‘샵’ 이지혜·서지영 15년 만에 카메라 앞에</title>
+      <link>https://www.chosun.com/national/people/2024/10/17/CYE6PJY5ONEFNMVLUQ3DDV3HKU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/17/CYE6PJY5ONEFNMVLUQ3DDV3HKU/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 11:31:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NMTKEWJV25C3XHYPWO4Z3FZE7Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 이지혜(왼쪽)와 서지영./유튜브 채널 '밉지않은 관종언니'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 이지혜가 그룹 샵으로 함께 활동했던 서지영과 만나 불화설에 대해 언급했다.&lt;br&gt;&lt;br&gt;이지혜는 17일 자신의 유튜브 채널에 ‘15년 만에 카메라 앞에서 함께한 이지혜 서지영’이라는 제목의 영상을 올렸다. 이들은 함께 영상에 출연해 대화를 나눴다.&lt;br&gt;&lt;br&gt;이지혜는 서지영에 대해 “내 인생의 한 획을 함께했던 친구”라며 “너무나도 친했고 (중간에) 보류시간이 있었긴 하지만, 다시 친해진 나의 절친”이라고 소개했다.&lt;br&gt;&lt;br&gt;이들은 과거 불화설에 대해 언급했다. 두 사람은 샵으로 활동하던 2002년 10월 엘리베이터에서 몸싸움을 벌였고, 이 사건으로 샵은 해체됐다. 이후 이들은 화해 후 잘 지내고 있다는 근황을 전한 바 있다.&lt;br&gt;&lt;br&gt;이지혜는 앞서 샵 멤버들과 서지영 없이 다 같이 모임을 가졌던 것 관련해 “원래 (멤버들) 다 만나려고 했는데 지영이가 외국 일정으로 못 만났다. 오해될 만한 기사가 났는데 오늘 이렇게 같이 인사를 드림으로써 더 이상 이제 멤버 간의 이런 불화에 대한...”이라고 말했다. 이에 서지영은 “뭐 다 사실이었다. 근데 그러기엔 좀 오래되긴 했다. 사람들이 어차피 이제 관심이 없다”라고 덧붙였다.&lt;br&gt;&lt;br&gt;이들은 그룹 재결합에 대해서도 다뤘다. 서지영이 얼마 전 그룹 god 콘서트를 다녀온 이야기를 하자 이지혜는 “god도 콘서트를 여는 거 보면 샵도 콘서트 한 번 하는 거 어떠냐”고 물었다.&lt;br&gt;&lt;br&gt;서지영은 “떨리는 것도 문제인데 이제는 말을 조금만 크게 해도 기침이 나온다. 우리는 립싱크 가수인데 언니는 라이브를 잘해서 그게 참 미안한 부분이다. 그 시절에 내가 팀도 잘 만났고 운이 좋았다고 느낀다”고 말했다. 이에 이지혜는 “장담 드릴 순 없지만 칠순 전에 가능할 수 있다”며 “지영이가 마음이 아예 없으면 (영상에도) 나오지 않는다. 마음을 열어주시면 당장은 조금 힘들지만, 60대에 (콘서트를 할 수 있겠다는) 그런 마음이 든다”고 했다.&lt;br&gt;&lt;br&gt;마지막으로 서지영은 “너무 오랜만에 이렇게 인사드리는 거라 떨리고 횡설수설해서 너무 죄송하다”며 “그렇지만 언니한테 조금이라도 도움이 됐으면 하는 마음으로 용기 내서 나왔다. 그래도 종종 언니 유튜브를 통해 인사드리겠다”고 했다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “제목 잘못 본 줄 알고 눈 비비고 다시 봤다” “두 분의 우정을 응원한다” “어릴 때는 누구나 실수할 수 있다. 지금 둘이 잘 지내는 거 보니 너무 좋아 보인다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>포항엔 목재센터, 봉화엔 목재 거리... 경북도, 364억 투입해 목재 산업 키운다</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/17/5PCY2357QZFAXCRWRRKTPVHCNQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/17/5PCY2357QZFAXCRWRRKTPVHCNQ/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 11:50:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3BW3JF6QHBFWLLR7O5NWXMX7RM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 울진군에서 자라난 금강송./울진군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 울진·봉화 지역에 자라는 소나무인 ‘금강송(춘양목)’으로 유명한 경북도가 목재 산업 활성화에 나선다. 방치되는 목재 등 산림 부산물을 활용해 자원 낭비를 막고, 목재 수요와 일자리도 함께 늘리겠다는 취지다.&lt;br&gt;&lt;br&gt;경북도는 오는 2027년까지 총 364억원을 도내 목재 산업 활성화에 투입하겠다고 17일 밝혔다. 김천시에선 130억원을 투입해 국산 목재를 건축 재료로 활용하는 등 목재 수요를 늘리기 위한 ‘국산 목재 목조건축 실연사업’을 추진 중이다. 포항시에는 첨단 건조 시설과 자동 설비 등을 갖춘 100억 규모 ‘목재자원화센터’가 2026년까지 조성될 방침이다.&lt;br&gt;&lt;br&gt;봉화군은 내년까지 나무로 만들어진 목조 공연장과 목재 특화 거리 등으로 구성된 ‘목재 친화 도시’로 거듭날 전망이다. 사업비 50억원이 투입된다. 구미시에는 지역 주민과 방문객들이 목재를 이용해 도구를 만드는 등 체험 활동을 할 수 있는 52억 규모 ‘목재 문화체험장’이 생긴다. 성주군에는 나무 벌채 시에 발생하는 산림 부산물과 미이용 목재를 활용하는 ‘30억 규모 산림자원화센터’가 들어선다.&lt;br&gt;&lt;br&gt;이 밖에도 경북 지역 내 어린이집을 비롯해 아동이 이용하는 시설을 국산 목조로 리모델링하는 사업이 진행 중이다.&lt;br&gt;&lt;br&gt;경북 지역은 과거 울진과 봉화 지역에서 생장하는 금강송이 임금의 관(棺)이나 궁궐 건축 자재로 쓰인 전통을 바탕으로 목재 산업의 중심지로 성장했다. 하지만 값싼 수입 목재가 들어오면서 국산 목재 경쟁력이 낮아지며 일자리가 줄어들고 산업도 쇠퇴했다. 도는 산림 자원을 활용해 친환경 목재 제품 생산과 관광 콘텐츠를 통해, 목재 산업의 새로운 성장 모델을 만들겠다는 포부다.&lt;br&gt;&lt;br&gt;조현애 경북도 산림자원국장은 “풍부한 산림 자원을 바탕으로 경북도가 국산 목재 산업을 다시 한번 선도하겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>접촉 사고 수습하던 60대 여성 2명, 음주 차량에 치여 참변</title>
+      <link>https://www.chosun.com/national/incident/2024/10/17/BCZ7C7TN6RFCJMCS62RJWS34RI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/17/BCZ7C7TN6RFCJMCS62RJWS34RI/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 11:01:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/63PW6TQYZ5WLMWKGMGPJSTAWE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 영암경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술을 마시고 차를 몰다 접촉 사고를 수습하던 60대 여성 2명을 치어 숨지게 한 50대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;전남 영암경찰서는 특정범죄가중처벌 등에 관한 법률상 위험운전 치사 혐의로 50대 남성 A씨에 대해 구속영장을 신청할 예정이라고 17일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 전날 오후 7시쯤 전남 영암군 신북면의 편도 1차로 도로에서 운전하다 60대 여성 2명을 치어 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;숨진 여성 2명은 각자 차를 몰다가 접촉 사고를 내 현장에서 이를 수습하던 중이었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 사고 당시 면허 취소 수준의 음주 상태에서 운전을 하다 사고를 낸 것으로 조사됐다. A씨는 이전에도 음주운전으로 처벌받은 전력이 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨를 상대로 정확한 사고 경위를 조사하고 있다”며 “조사 결과 등을 토대로 A씨에 대한 구속영장을 신청할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘불법 대북송금’ 김성태 “이화영이 ‘이재명은 뱀 같은 사람’이라 해”</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/17/B5GLGFKV6NASVKITJPJRJIVXGY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/17/B5GLGFKV6NASVKITJPJRJIVXGY/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 10:46:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2UZNMDHWIJL6HNDR4KQEJ62Y6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사가 지난 2일 국회 법제사법위원회에서 열린 박상용 수원지검 부부장검사에 대한 '탄핵소추 사건 조사' 관련 청문회에 출석, 의원 질의를 듣고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“(이화영이)나한테 이재명이 뱀 같은 사람이라고 했다.”&lt;br&gt;&lt;br&gt;‘불법 대북송금’과 불법 뇌물 및 정치자금 수수 등의 혐의로 1심에서 징역 9년 6개월이 선고된 이화영 전 경기도 평화부지사에 대한 항소심 재판에 증인으로 나온 김성태 전 쌍방울 그룹 회장이 17일 법정에서 한 말이다.&lt;br&gt;&lt;br&gt;이화영 측 변호인이 “이재명에게 (대북송금을)보고했다고 진술하지 않으면 불리하게 진술할 것이라고 협박한 것 아니냐”고 묻자, 김 전 회장은 “전혀 그런적 없다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;수원고법 형사1부(재판장 문주형)는 이날 오후 이 전 부지사의 외국환거래법 위반, 뇌물 및 정치자금법 위반, 증거인멸교사 혐의에 대한 2심 6차 공판을 열고, 김 전 회장에 대한 증인신문을 진행했다.&lt;br&gt;&lt;br&gt;이날 변호인 측은 김 전 회장이 이 전 부지사를 회유·협박해, 이재명 더불어민주당 대표에 대한 허위진술을 하게 했다는 취지로 주장했다. 이 전 부지사는 당초 모든 혐의에 대해 부인해오다가, 지난해 6월 입장을 바꿔 “당시 이재명 경기도지사에게 방북 추진을 보고했다”고 검찰에 진술한 것으로 알려졌다. 그러나 이 전 부지사 측은 또 입장을 번복해 검찰의 회유와 압박에 의한 것이었다고 주장하고 있다.&lt;br&gt;&lt;br&gt;변호인은 김 전 회장에게 “검찰 조사 과정에서 피고인(이화영)에게 ‘이재명이 들어갈 수 있도록 우리가 협력 안 하면 형님에게 불리하게 진술할 것이다” ‘빨리 이재명에게 보고했다고 진술하고 법정에서 인정해달라’라고 한 거 아니냐”고 물었다.&lt;br&gt;&lt;br&gt;이에 김 전 회장은 “전혀 아니다. 왜 뇌물 받은 사람이 재판을 잘 받으면 되지, 자꾸 절 끌어들이는지 이해가 안 된다”며 “그때 이것저것 얘기할 때, 본인이 나한테 ‘이재명이 뱀 같은 사람이다’라고 했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VA63UNIG2W47SEWJJAKJ675R4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대북송금 관련 혐의로 기소된 김성태 전 쌍방울그룹 회장이 지난 7월 12일 오후 경기 수원시 영통구 수원지방법원에서 열린 선고 공판을 마치고 나와 취재진의 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;변호인이 “이재명에게 보고했다는 진술을 얻기 위해 피고인을 압박한 사실 없냐”고 재차 묻자, 김 전 회장은 “뇌물은 저도 같이 기소됐다”며 “사건 조작이네 뭐네 그러는데, 초등학생도 아니고 짜장면 사준다고 검찰이 회유한다고 (진술을)바꾸는 거냐. (검찰청에서)갈비탕을 먹었네 하는 건 비상식적인 거 같다”고 했다. 이 전 부지사 측이 주장하는 ‘검찰청 술자리 회유 의혹’에 대해 반박한 것이다.&lt;br&gt;&lt;br&gt;이어 김 전 회장은 “이화영 부지사는 당시 거꾸로 큰소리치고, 탁자 손바닥으로 치고 조사받았다”며 “제가 검찰 프락치도 아니고, 저도 처벌받을 각오로 증언하는 거다. (허위 진술을)압박한 적 없고, 압박받을 분도 아니다”라고 했다.&lt;br&gt;&lt;br&gt;변호인은 김 전 회장에게 “북한에 사기 당했다고 생각하지 않냐” “800만불 사기당한 거 아니냐” “삥 뜯긴 거 아니냐”고 따지기도 했다. 그러자 김 전 회장은 “무슨 사기를 당했다는 거냐”고 했고, 검찰도 “지금 뭐하는 거냐”고 했다.&lt;br&gt;&lt;br&gt;이날 재판부는 “10월 24일 변론을 종결하겠다”고 했다.&lt;br&gt;&lt;br&gt;이 전 부지사는 이 대표가 경기도지사이던 2019년 도지사 방북 비용 300만 달러와 북한 스마트팜 사업 비용 500만 달러를 쌍방울 그룹이 대신 북한 측에 내게 한 혐의를 받는다. 이 전 부지사는 또 경기도 평화부지사, 경기도 산하기관인 킨텍스 대표이사로 재임했을 당시 쌍방울 측에서 법인 카드와 차량 등을 제공받고, 자신의 측근에게 허위 급여를 지급하도록 하는 등의 방식으로 모두 3억3400여만 원의 정치자금(뇌물 2억5900여만 원)을 받은 혐의도 받는다. 그는 자신의 법인카드 사용 등에 대한 자료를 쌍방울로 하여금 삭제하도록 한 혐의도 있다.&lt;br&gt;&lt;br&gt;1심 재판부인 수원지법 형사11부(재판장 신진우)는 지난 6월 7일 이 전 부지사에 대한 불법 대북 송금 혐의(외국환거래법 위반)와 뇌물, 증거인멸교사 등을 모두 유죄로 판단하고, 징역 9년6개월에 벌금 2억5000만원, 추징금 3억2595만원을 선고했다. 재판부는 경기도가 지급해야 할 스마트팜 사업비와 당시 이재명 지사 방북비용 등 800만 달러를 쌍방울이 북한 측에 전달한 사실을 모두 인정했다.&lt;br&gt;&lt;br&gt;한편, 이 대표는 이 사건으로 기소돼 수원지법에서 1심 재판을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사법정책자문위 “재판한 판사가 선고까지 맡도록 인사 주기 개선해야”</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/17/EEHS5GMDKFE6RC7V3FRMDP5QXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/17/EEHS5GMDKFE6RC7V3FRMDP5QXA/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 10:55:33 +0000</pubDate>
+      <content:encoded>대법원장 자문 기구인 사법정책자문위원회가 17일 법관의 전보인사 주기를 개편하고 법원공무원 9급 공채 방식을 개선할 필요가 있다고 조희대 대법원장에게 건의했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7EVFMVJDC5JZZOYA2BMKVH5BAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월 대법원에서 열린 사법정책자문위원회 1차 회의에서 권오곤 위원장이 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 자문위는 ‘법관 전보인사 주기 개편안’과 ‘권역별 선발 등 법원공무원 임용제도 개선안’을 안건으로 올려 논의를 진행했다.&lt;br&gt;&lt;br&gt;우선 법관 전보인사 주기와 관련해 자문위는 “심리와 판결의 주체가 가급적 일치돼 국민의 재판받을 권리를 실질적으로 보장할 수 있도록 하는 것이 바람직하다”며 “권역 내 순환근무를 최소화하는 등 장기화된 사무분담 기간을 확보할 수 있는 방향으로 개선해야한다”고 했다.&lt;br&gt;&lt;br&gt;사무분담은 법관을 각 재판부에 배정하는 것을 뜻한다. 사무분담이 변경되면 재판의 연속성이 저해돼 재판이 지연될 수 있다는 우려가 나왔다. 이에 대법원 법원행정처는 지난 1월 재판장의 최소 사무분담 기간을 3년으로, 재판장 아닌 법관의 최소 사무분담 기간을 2년으로 늘렸다. 이처럼 사무분담 기간이 길어짐에 따라 법관의 전보인사 발령도 최소화하라는 게 자문위의 취지다.&lt;br&gt;&lt;br&gt;이어 자문위는 “생애 주기와 권역별 인력수급 사정 등을 고려해 전보인사의 기준과 주기 등 순환근무 방식을 합리적으로 개선해야 한다”며 “적정한 권역별 근무 기간을 확보해 재판의 연속성과 법관 사이의 형평성을 제고해야 한다”고 했다.&lt;br&gt;&lt;br&gt;아울러 사법정책자문위는 지방에 있는 법원에서 장기간 일할 수 있는 공무원을 확보하기 위해, 지역 단위로 9급 법원공무원을 선발하는 방식을 일부 도입할 것을 제안했다. &lt;br&gt;&lt;br&gt;사법정책자문위는 “현행 전국 모집 방식의 9급 법원공무원 임용제도는 지방에 있는 법원에 배치되는 임용자들의 새로운 환경 부적응, 교통 및 생활비 부담 증가로 인한 근무 의욕 저하 등으로 이어지고 있다”며 “이는 지방 소재 법원의 업무 공백과 지역 사법서비스의 저하로 이어질 수 있어 개선이 필요하다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 호프집에서 산업디자인 연구? 세금 ‘꼼수’ 통로된 R&amp;D 공제</title>
+      <link>https://www.chosun.com/national/2024/10/15/DX4R7XUINZGV7C5YTVVX5E2FBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/10/15/DX4R7XUINZGV7C5YTVVX5E2FBA/</guid>
+      <dc:creator>주형식 기자, 김보경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 14 Oct 2024 16:20:23 +0000</pubDate>
+      <content:encoded>경기 수원시 영통구의 한 맥줏집은 올해 2월 산업 디자인을 연구한다며 국세청에 ‘R&amp;amp;D(연구·개발) 세액공제’를 신청해 인정받았다. 덕분에 한 해 수백만 원의 세액공제가 예상된다고 한다. 지난 10일 본지 기자가 찾아가 보니, 이곳은 여느 호프집과 똑같은 모습이었다. 주방엔 조리 기구들이 설치됐고, 홀엔 손님용 테이블, 의자들로 가득 찼다. 아르바이트생은 ‘여기서 디자인 연구·개발을 하고 있냐’는 질문에 “5개월 넘게 일했는데 처음 듣는다”고 했다. 업주는 “휴일에 시간이 나면 디자인 연구·개발을 하기 때문에 문제될 게 없다”고 했다.&lt;br&gt;&lt;br&gt;‘R&amp;amp;D 세액공제’는 연구 및 인력 개발에 사용한 비용을 법인세 또는 소득세(사업소득 소득세만 해당)에서 공제해주는 제도다. 미래 성장 동력 및 일자리 창출을 돕자는 취지로 도입됐다. 공제 혜택을 받고 있는 기업 수는 해마다 증가해 작년 4만3378곳이 총 4조6434억원을 공제받았다. 기술 종류, 기업 규모에 따라 세액공제율이 달라지는데 이 중 일반 R&amp;amp;D 세액공제는 기술 문턱이 높은 신성장·원천기술 및 국가전략기술에 비해 세액공제를 받기 수월한 편이다. 기업들은 연구·개발 전담 부서 조직을 따로 만들어 여기서 발생한 인건비, 재료비, 임차료 등을 세액공제받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XZ2V4E4D3VHMXHJQHEMUASDF3I.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김하경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제도 취지는 좋지만, 현실에선 실제 연구를 하지도 않으면서 세액공제 혜택만 누리다 적발되는 기업이 적지 않은 게 문제다. 국세청이 국민의힘 박수영 의원실에 제출한 자료에 따르면, 국세청이 허위·부정 신고로 사후 추징한 액수는 2021년 25억원(155건)에서 2022년 64억원(316건), 작년 144억원(771건)으로 2년 만에 5배 넘게 늘었다. 현재 국세청은 세액공제의 기본 요건이 되는 연구 여부를 과학기술정보통신부 산하 사단법인 한국산업기술진흥협회(이하 산기협)에 맡기고 있다. 연구·개발 활동이 없어 연구소 인정을 취소한 건수는 작년에만 145건이다.&lt;br&gt;&lt;br&gt;그나마 당국에 적발되는 건 극히 일부분이다. 산기협에 따르면 연구소 소재 여부를 파악하지 못한 기업이 393곳이다. 산기협이 연구소에 직접 가서 연구 여부를 불시 점검해야 하는데 이조차 하지 못하는 것이다. 과기부 관계자는 “신고한 주소에 연구소 사무실이 없다 하더라도 세액공제 취소 절차를 밟으려면 청문 등 절차를 걸쳐야 해 최소 1년 정도 걸린다”고 했다. 서울 금천구의 한 교육 업체는 지난 2016년부터 ‘산업 디자인 연구’ 명목으로 8년 동안 1억원 안팎의 세액공제를 받았다. 그런데 본지 기자가 지난달 27일 교육 업체가 신고한 연구소에 가보니 사무실은 방치돼 있었다. 문은 닫혀있고 책상, 의자는 어질러져 있었다. 인근 사무실 관계자는 “저곳에서 누가 일하는 걸 본 적 없다”며 “뭐 하는 곳이냐”고 되물었다. 서울 영등포구의 한 데이터 업체는 방송 통신 및 정보 서비스 연구를 한다고 신고했지만, 실제 가보면 택배 업체가 운영 중이었다.&lt;br&gt;&lt;br&gt;정부의 관리·감독이 허술한 탓에 R&amp;amp;D 세액공제가 사실상 ‘사각지대’로 방치됐다는 분석이 나온다. 산기협의 조사 인력은 41명인 데 비해, 당국에 신고한 기업 연구소는 7만9010곳(올해 8월 기준)이다. 현 인력으로는 연구 여부를 직접 확인하는 데 걸리는 시간만 2년 3개월로 예상된다는 게 산기협 설명이다. 산기협 관계자는 “매년 5000여 곳의 연구소가 새로 신청되고 있다”며 “허위 또는 부정한 방법, 연구개발 활동이 없거나 자격 미달 등으로 취소된 연구소도 매년 2000여 곳에 달해 전체 기업을 상대로 전수 조사를 벌이기엔 사실상 불가능하다”고 했다.&lt;br&gt;&lt;br&gt;일부 기업들은 컨설팅 업체에 의뢰해 실제 하지도 않은 연구를 한 것처럼 속이다 적발되기도 한다. 산기협은 지난해 기업 13곳 의뢰를 받아 가짜 R&amp;amp;D 실적을 제출한 컨설팅 업체를 적발했다. 이 컨설팅 업체는 수백만 원의 자문료를 받고 사무실에 일하고 있는 연구원 사진 등을 연구 자료 근거로 제출했다. 하지만 이는 모두 컨설팅 업체가 연출한 가짜 연구소로 조사됐다. 박수영 의원은 “세법상 세액공제는 실질적으로 보조금 지원에 준하는 효과가 있다”며 “실제 R&amp;amp;D를 수행하지 않으면서도 부당하게 혜택을 가로채는 기업들 때문에 선량한 기업들이 피해를 보지 않도록 범부처가 나서 엄정히 대응할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞R&amp;amp;D 세액공제&lt;/b&gt;&lt;br&gt;&lt;br&gt;기업이 연구·개발, 인력 개발에 투자한 비용을 법인·소득 세액에서 공제해 미래 성장 동력 창출을 돕도록 하는 제도. 제조업 등 일부 업종에만 적용되다가, 2020년부터 모든 업종으로 확대됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>법원, '티메프 사태' 해피머니 회생절차 개시</title>
       <link>https://www.chosun.com/national/court_law/2024/10/17/W4UPM36IPNC5LM4ABS4ZYBOKSY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/17/W4UPM36IPNC5LM4ABS4ZYBOKSY/</guid>
@@ -701,15 +804,6 @@
       <content:encoded>여자 친구와 결혼을 앞둔 30대 남성 A씨는 요새 고민이 깊다. 여자 친구가 “인생에 한 번뿐인 결혼식”이라며 ‘톱 티어(최고 등급) 예식장’으로 꼽히는 서울 신라호텔 영빈관에서 결혼하기를 바라기 때문이다. 결혼 성수기(3~6월, 10~12월)에 영빈관 결혼 비용은 대관료와 꽃 장식, 식대를 포함해 1억원가량이다. 연봉을 7000만원가량 받는 A씨는 “나 같은 평범한 직장인이 결혼할 수 있는 곳은 아니다”라며 “하지만 여기서 결혼하지 않으면 평생 원망받을 것 같아 적금을 깨려 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XDR67NQ4U5BZFNAWZHN5KSAKF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 송파구 롯데월드타워 76층에 있는 시그니엘 서울 결혼식장 내부 모습. /시그니엘 서울 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;결혼 성수기인 가을이 되자 2030 예비 부부가 서울 시내 특급 호텔 예식장으로 몰리고 있다. 서울 신라호텔을 비롯, 시그니엘 서울, 웨스틴조선 서울, 포시즌스 호텔 서울 등 유명 호텔에서 결혼하려면 최소 4000만원에서 최고 1억원까지 들지만 일부 호텔은 이미 내년 겨울까지 예약이 마감됐다. 웨스틴조선 서울 관계자는 “지금 예약하면 내년 겨울에나 식을 식을 치를 수 있다”며 “화·수요일 등 선호도가 떨어지는 평일 예약도 몰린다”고 했다.&lt;br&gt;&lt;br&gt;‘2030′이 웬만한 직장인의 연봉보다 많은 돈을 내고서라도 특급 호텔에서 결혼하려는 것은 ‘영빈관 결혼식’ 등이 ‘버킷 리스트(죽기 전 꼭 해야 할 일)’로 꼽히기 때문이다. 결혼 정보 회사 듀오가 지난달 미혼 남녀 500명 설문 조사해 보니 가장 선호하는 결혼식 장소는 호텔(64%)이었다. 내년 봄 시그니엘 서울에서 결혼할 예정인 20대 여성 B씨는 “시그니엘 결혼식이 인생 목표였다”며 “신랑감과 함께 대출을 받았다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2BVW6RJYKJH6XESNFMFZL2MZ2Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시그니엘 서울 웨딩홀은 지상 123층, 높이 555m로 세계에서 여섯째로 높은 건물인 서울 송파구 롯데월드타워 76층에 있다. 성수기 기준 대관비는 5시간에 1100만원, 식대는 최소 3500만원이다. 가장 저렴한 식사는 1인당 23만원, 최소 보증 인원이 150명이다. B씨는 “연락을 거의 하지 않던 중학교 동창에게도 청첩장을 보냈다”며 “신랑과 합친 연봉이 1억원 남짓이지만 만족한다”고 했다. 의사·변호사 등 일부 전문직 남성도 ‘품위 유지’를 이유로 호텔 결혼식을 선호한다.&lt;br&gt;&lt;br&gt;웨딩 인 헤븐(천국에서 하는 결혼식)이라는 문구를 내건 이곳은 ‘서울의 스카이라인이 한눈에 내려다보이는 파노라마 뷰와 자연 채광이 어우러진 곳’ ‘할리우드 셀레브리티(유명인)들의 웨딩 플래너가 만든 구름 위 콘셉트의 웨딩홀’이라고 홍보한다. 피로연 식사로는 미슐랭 별 셋을 받은 프랑스 셰프가 만든 ‘파리지앵’ 코스 요리가 나오는데, 참치 타르타르와 와인, 랍스터와 블랙 앵거스 스테이크 등이 차례로 나온다. 서울 신라호텔 영빈관 역시 “기품 있는 인테리어와 신랑·신부를 위한 세심한 배려로 영원한 미래를 약속하는 최고 장소”임을 내세운다. 호텔 코스 요리와 와인울 준다.&lt;br&gt;&lt;br&gt;업계 관계자들은 코로나 시기 결혼식이 급감하며 적당한 가격대의 중소 예식장이 줄줄이 폐업한 것이 ‘초호화 결혼식’ 수요를 오히려 끌어올렸다고 분석한다. 국세 통계 포털에 따르면 2018년 1030곳이던 전국 예식장은 2022년 말 기준 759곳으로 26.3% 준 반면, 혼인 건수는 2022년 19만1690건으로 1970년 이후 역대 최소를 기록한 뒤 2023년 19만3657건으로 반등했다. 올해도 4~5월 결혼 건수가 전년보다 20% 넘게 늘었다. 한 호텔 관계자는 “요즘 2030은 어중간한 가격으로 어중간한 만족을 얻느니 무리해서라도 기억에 남을 만한 추억 만들기를 선호한다”며 “이럴 바에는 호텔에서 결혼하겠다는 남녀가 코로나 이후 많아졌다”고 했다.&lt;br&gt;&lt;br&gt;초호화 결혼식이 대중화하면서 하객들의 축의금 부담도 커지고 있다. 그간 ‘표준 축의금’으로 여기던 5만~10만원보다 호텔 식대가 비싸졌기 때문이다. 시그니엘 서울 식대는 1인당 20만~35만원, 다른 호텔들도 20만원에 육박하는 식사를 제공한다. 직장인 김예송(31)씨는 “최근 호텔 결혼식에 갔는데 10만원은 부족하다 싶어 급하게 식장 ATM 기계에서 5만원을 뽑아 보탰다”고 했다. 최근엔 ‘축의금 가이드라인’도 주목을 받았다. 적당한 사이는 5만원, 친한 친구는 10만원, 친한 친구인데 배우자·애인과 같이 가면 15만원, ‘정말 친한 친구’는 30만원이라고 한다.&lt;br&gt;&lt;br&gt;한편에선 결혼식에 과도한 비용이 들어간다며 식을 아예 생략하거나 극소수 가족·친척·지인만 초대하는 ‘스몰 웨딩’도 활발하다. 지난달 결혼한 대기업 사원 윤모(35)씨는 “1억원 가까운 돈을 결혼식에 쓰는 건 비상식적”이라며 “졸업한 대학 캠퍼스에서 30여명 정도 불러 간단히 식을 마쳤다”고 했다. “허세로 가득한 호텔 결혼식을 하느니 차라리 집을 사겠다”는 2030도 적잖다.&lt;br&gt;&lt;br&gt;듀오의 지난달 설문 조사에서 응답자 31%는 결혼식을 꼭 하지 않아도 된다고 응답했다. 이유로는 결혼식 비용이 너무 비싸서(33%), 허례허식 같아서(31%), 다른 곳에 투자하고 싶어서(22%)라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘딥페이크 성범죄’ 피의자 80%가 10대</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/17/FOP77BU66VEKJBLEVWNDGGCJ5I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/17/FOP77BU66VEKJBLEVWNDGGCJ5I/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 15:50:00 +0000</pubDate>
-      <content:encoded>사람 얼굴 사진에 음란물을 합성하는 ‘딥페이크 성범죄’ 피의자 10명 중 8명은 10대인 것으로 16일 나타났다. 전체 피의자 가운데 15%는 형사 처벌을 받지 않는 14세 미만 촉법소년이다.&lt;br&gt;&lt;br&gt;경찰청에 따르면 올해 1~10월 검거된 딥페이크 성범죄 피의자 474명 중 10대 피의자가 381명(80.3%)으로 가장 많다. 이 중 71명(14.9%)이 촉법소년이다. 20대 75명(15.8%), 30대 13명(2.7%), 40대 2명(0.4%), 50대 이상 3명(0.6%)도 검거됐다.&lt;br&gt;&lt;br&gt;하루 평균 10건의 딥페이크 성범죄 사건이 접수되고 있다. 경찰은 올해 딥페이크 사건 921건을 수사 중인데, 이 중 476건은 경찰이 집중 단속에 나선 8월 28일 이후 접수된 것들이다. 경찰은 “딥페이크 범죄 피해의 심각성이 널리 알려지며 피해자들이 적극적으로 수사 의뢰를 하고 있다”고 했다. 경기남부청은 작년 11월부터 올해 7월까지 텔레그램에서 딥페이크 성착취물을 판매한 10대 남성 2명을 구속했고, 또 다른 10대 남성 판매자 1명을 불구속 입건했다. 서울경찰청은 올해 1∼3월 생성형 인공지능(AI)을 이용해 여성 연예인 72명을 합성, 4313건 음란물을 제작·판매한 20대 남성을 검거했다.&lt;br&gt;&lt;br&gt;경찰은 내년 3월 31일까지 시·도경찰청 사이버성폭력수사팀을 중심으로 딥페이크 성범죄 집중 단속을 이어갈 방침이다. 경찰은 “10대들은 소셜미디어 사용과 사진 공유가 일상이다 보니 이것이 범죄라는 인식도 잘 못하기도 한다”며 “딥페이크 영상은 엄하게 처벌받는 심각한 범죄”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“어르신 편히 건너세요”… 녹색등 시간 늘린다</title>
       <link>https://www.chosun.com/national/national_general/2024/10/17/ZNETZRFCNVDOHFGOTSRDTEPYIU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/17/ZNETZRFCNVDOHFGOTSRDTEPYIU/</guid>
@@ -728,32 +822,6 @@
       <content:encoded>문재인 전 대통령 전 사위 서모씨의 ‘타이이스타젯 특혜 채용’ 의혹을 수사 중인 검찰이 이스타항공이 방북 전세기로 선정된 경위를 확인하기 위해 통일부와 통일부 남북관계관리단(옛 남북회담본부) 사무실 등을 압수 수색했다고 16일 밝혔다. 문재인 정부 당시 통일부는 우리 예술단이 방북에 이용한 전세기로 이스타항공을 선정했고, 남북회담본부가 실무를 진행했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 전주지검은 지난 14일부터 이날 오전까지 사흘 동안 통일부와 남북관계관리단을 압수 수색해 이스타항공이 ‘남북 평화 협력 기원 남측 예술단’ 전세기로 선정될 당시 관련 자료들을 확보했다. 검찰은 이달 중순 이와 관련해 조명균 전 통일부 장관의 집도 압수 수색했다. 전주지검 측은 “이스타 항공의 방북 전세기 운항 과정 자료 확보가 필요해 법원에서 발부받은 영장을 집행했다”면서 “전 정부의 대북 관계 전반에 대한 수사가 아닌, 방북 전세기 선정 과정에 한정해 사실관계를 확인 중”이라고 했다.&lt;br&gt;&lt;br&gt;저가 항공사인 이스타항공은 2018년 3월 29일과 31일 평양으로 가는 ‘남북 평화 협력 기원 남측 예술단’을 특별 전세기에 태워 왕복 운항했다. 공연에 필요한 방송 장비 등 화물 수송은 대한항공이 맡았다. 검찰은 문 전 대통령과 이스타항공 창업주인 이상직 전 더불어민주당 의원의 관계에 수사력을 집중하고 있다. 전 사위 서씨 특혜 채용과 딸 다혜씨 가족의 태국 이주 등을 지원해준 대가로 당시 정부가 이 전 의원의 이스타항공에 각종 혜택을 줬다고 의심하고 있다.&lt;br&gt;&lt;br&gt;한편, 최근 서울 이태원에서 만취 상태로 교통사고를 낸 다혜씨가 피해 택시 기사와 형사합의를 마친 것으로 확인됐다. 다혜씨 측에서 먼저 합의금을 제시했고, 택시기사는 경찰에 진단서를 제출하지 않기로 했다고 한다. 택시 기사는 경찰에서 “(사고 당시) 문씨는 술 냄새가 많이 났고 눈이 감길 정도로 취해 있었다”며 “‘어떻게 하죠?’라고 물으니 ‘어떻게 했으면 좋겠어요?’라고 되묻는 등 대화가 안 돼 경찰에 신고했다”고 말한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>성관계 불법 촬영 혐의 황의조 징역 4년 구형</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/17/FU4AUKROCBBVNKR2OS3VYDHLNA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/17/FU4AUKROCBBVNKR2OS3VYDHLNA/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJ3X33JR2NHJPIXUZ42WMOP6UM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성관계 영상을 불법 촬영한 혐의로 기소된 축구 선수 황의조(32·튀르키예 알란야스포르)씨가 법정에서 모든 혐의를 인정했다. 수사 과정에서는 “사실무근”이라며 혐의를 부인하다가 태도를 바꾼 것이다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사13단독 이용제 판사는 16일 성폭력처벌특례법 위반(카메라 등 이용 촬영) 혐의로 기소된 황씨의 첫 공판을 진행했다. 검은 정장을 입고 출석한 황씨는 무표정하게 정면을 응시하거나 고개를 푹 숙이고 있었다.&lt;br&gt;&lt;br&gt;황씨 측 변호인은 “(공소사실을) 모두 인정한다”고 했다. 이 판사가 황씨에게 “본인 잘못을 인정하냐”고 묻자, 황씨는 직접 “맞는다”고 답했다. 이에 따라 곧바로 결심 절차가 진행됐다.&lt;br&gt;&lt;br&gt;검찰은 황씨에게 징역 4년을 구형했다. 성폭력 치료 프로그램 이수와 신상 정보 공개, 5년간의 취업 제한 명령도 함께 요청했다. 검찰은 “피해자의 상처와 수치심이 극심했을 것으로 보이고, 영상 유포로 심각한 피해를 입었다”며 “황씨가 진심으로 반성을 하는 건지도 의문”이라고 했다.&lt;br&gt;&lt;br&gt;황씨는 최후 진술에서 “제 잘못으로 인해 피해를 입게 된 피해자분들께 진심 어린 사죄를 드린다”며 “최대한 선처를 해주길 간절히 청한다”고 말했다.&lt;br&gt;&lt;br&gt;황씨는 지난 2022년 6~9월 상대의 동의 없이 성관계 영상을 촬영한 혐의 등으로 지난 7월 재판에 넘겨졌다. 피해 여성 2명 중 한 명은 황씨와 합의한 뒤 처벌불원서를 냈지만, 다른 한 명과는 합의가 이뤄지지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편 황씨 관련 영상을 소셜미디어에 유포한 황씨의 형수는 지난달 대법원에서 징역 3년을 확정받았다. 황씨의 1심 선고는 오는 12월 18일 내려질 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“내가 1등”…  신나는 가을 운동회</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/17/ATURQCYK65AG7ADMC2A3IV2SAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/17/ATURQCYK65AG7ADMC2A3IV2SAM/</guid>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBZSTJ3S3NCVHKGGLSSMFXHD5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 오전 경북 경산시 경산서부초등학교 운동장에서 가을 운동회가 열렸다. 80m 달리기 종목에 참가한 어린이가 제일 먼저 결승선을 끊으며 환호하고 있다. 최근 날씨가 선선해지면서 전국 곳곳에서 가을 운동회가 열리고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>늘어난 고소득 시니어층 “재산 상속? 내가 다 쓸 것”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/10/17/4GZGZ4GOWVGPHOUZAORX7LDJGM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/17/4GZGZ4GOWVGPHOUZAORX7LDJGM/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 15:50:00 +0000</pubDate>
-      <content:encoded>충북에 사는 A(77)씨는 집 근처 노인 복지관에서 파트타임으로 일하고 있다. 방문자들에게 복지관 이용 방법 등을 안내해 주고 한 달에 약 25만원을 받는다. A씨는 “35년 동안 직장 생활을 해서 국민연금을 받긴 하지만, 자식한테 손 벌리지 않고 용돈을 벌고 싶어 노인 일자리를 선택했다”고 했다.&lt;br&gt;&lt;br&gt;16일 보건복지부가 발표한 ‘2023년 노인 실태 조사’ 결과에 따르면, 지난해 9~11월 실시된 65세 이상 국민 1만78명 대상 조사에서 ‘노인이라고 생각하는 연령’은 평균 71.6세로 조사됐다. 2020년(70.5세) 대비 1.1세 올라갔다. 복지부는 “소득과 자산이 높아지고, 은퇴 후에도 계속 일하고자 하는 새로운 노년층이 등장하고 있다”고 했다. 3년 단위 조사에서 일하는 노인 비율은 2017년 30.9%, 2020년 36.9%, 지난해 39%로 계속 늘었다.&lt;br&gt;&lt;br&gt;소득·자산 수준도 꾸준히 증가했다. 노인 연간 가구 소득은 2020년 3027만원에서 지난해 3469만원으로 늘었다. 노인의 금융 자산은 3213만원에서 4912만원으로, 부동산 자산은 2억6183만원에서 3억1817만원으로 올랐다.&lt;br&gt;&lt;br&gt;특히 노인 4명 중 1명(24.2%)은 ‘재산을 자녀에게 상속하는 대신 배우자와 함께 다 쓰겠다’고 했다. 이 같은 응답은 2008년 첫 노인 실태 조사에선 9.2%에 불과했으나, 2014년 15.2%, 2017년 17.3%, 2020년 17.4%로 오른 데 이어 올해는 20%를 넘어선 것이다.&lt;br&gt;&lt;br&gt;재산 상속 방식은 ‘모든 자녀에게 고루 상속’(51.4%), ‘자신과 배우자를 위해 사용’, ‘부양을 많이 한 자녀에게 많이 상속’(8.8%), ‘경제적으로 어려운 자녀에게 많이 상속’(8.4%) 순이었다. ‘장남에게 더 많이 주겠다’는 비율은 2008년 첫 조사 당시 21.3%에서 점점 줄어 6.5%까지 떨어졌다. 임을기 복지부 노인정책국장은 “베이비붐 세대가 노인 세대로 진입하면서, 재산 상속에 관한 가치관 변화가 나타나는 것”이라고 했다.&lt;br&gt;&lt;br&gt;자녀에게 용돈을 받는 노인은 줄고, 직접 돈을 버는 노인은 늘었다. 노인 가구의 전체 소득 중 근로·사업 소득이 차지하는 비율은 조사를 시작한 2008년 39%에서 지난해 53.8%로 늘었다. 반면, 용돈 등 사적 이전 소득의 비율은 같은 기간 30.4%에서 8%로 줄었다.&lt;br&gt;&lt;br&gt;혼자 사는 노인은 늘고, 자녀와 함께 사는 노인은 줄었다. 지난 2020년 독거노인 가구는 전체의 19.8%였는데, 지난해 32.8%로 늘었다. 자녀 동거 가구는 같은 기간 20.1%에서 10.3%로 줄었다. 이에 따라 노인 가구의 평균 가구원 수는 2명에서 1.8명으로 감소했다.&lt;br&gt;&lt;br&gt;독거노인 가구는 건강, 생계 등 측면에서 어려움이 큰 것으로 나타났다. 지난해 독거노인 가구 중 스스로 ‘건강하다’고 응답한 비율은 34.2%로 노인 부부 가구(48.6%)보다 낮았다. 독거노인 가구 중 ‘생활상의 어려움이 있다’고 응답한 비율은 73.9%로 노인 부부 가구(48.1%)보다 높았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>예비 아빠도 육아휴직 간다</title>
       <link>https://www.chosun.com/national/labor/2024/10/17/DN3TK4UPGZCXRMN7FZIDRROTAU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/10/17/DN3TK4UPGZCXRMN7FZIDRROTAU/</guid>
@@ -761,54 +829,6 @@
       <description/>
       <pubDate>Wed, 16 Oct 2024 15:50:00 +0000</pubDate>
       <content:encoded>배우자가 출산하기 전이라도 남성 근로자가 출산휴가나 육아휴직을 쓸 수 있도록 제도 개선이 추진된다.&lt;br&gt;&lt;br&gt;김문수 고용노동부 장관은 16일 경기 성남의 한 어린이집을 찾아 부모들과 간담회를 열고 이런 개선 방안을 밝혔다. 김 장관은 “내년부터 20일로 확대되는 배우자 출산휴가를 출산 전에도 사용할 수 있도록 하고, 산모를 돌봐야 할 사유가 있을 땐 배우자 임신 중 육아휴직을 할 수 있도록 제도 개선을 추진하겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NOUCD5GQPRGI7HKKXXQQOLDFLQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 일명 ‘육아지원 3법’(남녀고용평등법·고용보험법·근로기준법 개정안)이 국회를 통과함에 따라 내년 2월부터 육아휴직 기간이 최대 1년에서 1년 6개월로 늘어나고, 배우자 출산휴가는 10일에서 20일로 늘어난다. 이에 더해 남성 근로자가 배우자 임신 중에 출산휴가나 육아휴직을 쓸 수 있도록 연내 남녀고용평등법 개정도 추가로 추진하겠다는 것이다.&lt;br&gt;&lt;br&gt;현재는 여성 근로자의 경우 출산 전후에 90일간 휴가를 쓸 수 있지만, 남성 근로자는 배우자 출산 후에만 휴가를 쓸 수 있다. 육아휴직도 여성 근로자는 임신 중에도 쓸 수 있지만, 남성 근로자는 태어난 자녀 양육을 위해서만 쓸 수 있다.&lt;br&gt;&lt;br&gt;노동부는 육아휴직을 1주 단위로도 쓸 수 있도록 법 개정을 추진하겠다고 밝혔다. 현재 육아휴직은 월 단위로만 쓸 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2481] 칙칙폭폭 꼬리 잇기</title>
-      <link>https://www.chosun.com/national/nie/2024/10/17/LQOP4GTSJJDNHBTBINIZXWJSIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/10/17/LQOP4GTSJJDNHBTBINIZXWJSIE/</guid>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X5YL5QYXMZFGPC2PNISZVDA5LQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] beat the odds</title>
-      <link>https://www.chosun.com/national/nie/english/2024/10/17/MFJXM7PASNA3FI7GIFQVDSTYXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/10/17/MFJXM7PASNA3FI7GIFQVDSTYXA/</guid>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PYRPTFUQDBF6BBP2C3XRVSY7XI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 사나이 체면이 떨어지다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/10/17/WTJHXQ73GNAFFLVJUXXGFWUZME/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/10/17/WTJHXQ73GNAFFLVJUXXGFWUZME/</guid>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ACH6YDQJ5FC5NI4VKP2XVYVSUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 고기만두</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/10/17/6PW3UCWYJVA27MBNFCRWZIY44U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/10/17/6PW3UCWYJVA27MBNFCRWZIY44U/</guid>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SHJLJBAUUZFCFIHQ2MOGCBDE2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 체증(滯症)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/10/17/CVFOAOAYCNA6NMATVABEWUFZ2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/10/17/CVFOAOAYCNA6NMATVABEWUFZ2A/</guid>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7PZZNCM35NBSDPXHTATKZ7UA5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 윤보선민주주의연구원 학술회의 개최</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/10/17/JLAW56MIXVEH3LSRIBWIIZM4UE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/10/17/JLAW56MIXVEH3LSRIBWIIZM4UE/</guid>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 15:45:00 +0000</pubDate>
-      <content:encoded>윤보선민주주의연구원(원장 김용호)은 17일 오후 1시 서울 프레스센터 19층에서 ‘한국 사회는 건전한가? 다양한 시각과 해법’을 주제로 학술회의를 개최한다. 김학준 단국대 석좌교수가 기조연설을 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>제41회 최은희여기자상 시상식</title>
@@ -858,22 +878,6 @@
     iso64@yna.co.kr/2024-10-16 22:58:20/
 &amp;lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&amp;gt;</media:description>
         <media:credit role="author" scheme="urn:ebu">조남수</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>[속보] 진보 정근식, 서울시교육감 당선 유력</title>
-      <link>https://www.chosun.com/national/education/2024/10/16/AHMCOZIRPNGFFIPVVP4C6VVGDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/16/AHMCOZIRPNGFFIPVVP4C6VVGDE/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 13:49:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YXLLKAGJARJ6TCJXW3EIHLM3MU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 15일 오후 정근식 후보가 서울 관악구 신림역네거리에서 지지를 호소하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 서울시교육감 보궐선거에서 정근식 진보 진영 단일 후보의 당선이 유력해졌다.&lt;br&gt;&lt;br&gt;중앙선거관리위원회에 따르면 이날 오후 11시 5분 기준 서울시교육감 보궐선거 개표율은 50.3%다. 현재 정 후보가 득표율 52.04%(50만2766표)로 조전혁 보수 후보 득표율 44.26%(42만7664표)를 크게 앞서면서, 당선이 유력시되고 있다. 윤호상 후보 득표율은 3.68%(3만5646표)다.&lt;br&gt;&lt;br&gt;정 후보의 당선이 확정될 경우 서울 교육은 조희연 전 교육감의 ‘혁신학교’ ‘학생인권조례’ 등 지난 10년간의 진보 교육 기조가 계속해서 이어진다. 서울대 사회학과를 졸업한 정 후보는 전남대 사회학과 교수로 재직하다 2003년 서울대 사회학과 부교수로 임명됐다. 2006년부터는 서울대 사회학과 교수로 재직했다.&lt;br&gt;&lt;br&gt;정 후보는 한국 근현대사 연구에 매진한 인물이다. 노무현 정부 시절 친일반민족행위진상규명위원회 위원으로, 문재인 정부 시절 진실·화해를위한과거사정리위원회 위원장을 지냈다. 정 후보는 지난 15일 유세 현장에서 “민주·진보 모든 후보가 한뜻으로 함께하는 단일 후보 정근식”이라며 “친일 등 역사 왜곡을 막아 ‘역사 앞에 당당한 교육’을 만들어내겠다”고 말했다.&lt;br&gt;&lt;br&gt;이번 서울시교육감 보궐선거는 조 전 교육감이 지난 8월 전교조 해직 교사 부당 채용 혐의 등으로 대법원에서 유죄 확정 판결을 받아 직을 상실하면서 치러지게 됐다. 이번 서울시교육감 보궐 선거에는 진보 진영의 정근식 후보와 보수 조전혁·윤호상 후보가 최종 출마했다. 새로 선출되는 교육감 임기는 조 전 교육감의 잔여 임기인 1년 8개월(2026년 6월까지)이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/YXLLKAGJARJ6TCJXW3EIHLM3MU.jpg?width=4154&amp;height=2769&amp;auth=c8b9e75aeafef3644252148704a3217280d6eaf7ae56bd45624549d07202a755&amp;smart=true" type="image/jpeg" height="2769" width="4154">
-        <media:description type="plain">&lt;YONHAP PHOTO-3416&gt; 지지 호소하는 정근식 후보
-    (서울=연합뉴스) 임화영 기자 = 서울시교육감 보궐선거를 하루 앞둔 15일 오후 정근식 후보가 서울 관악구 신림역네거리에서 지지를 호소하고 있다. 2024.10.15
-    hwayoung7@yna.co.kr/2024-10-15 12:58:29/
-&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">임화영</media:credit>
       </media:content>
     </item>
     <item>
