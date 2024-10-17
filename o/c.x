@@ -13,6 +13,45 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>42억원 상당 케타민 유통하려다 경찰 위장거래에 덜미... 유통책 등 검거</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/17/T3E74R3ZCBHMTLOPMSEYCJGA24/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/17/T3E74R3ZCBHMTLOPMSEYCJGA24/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 05:06:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IX46TEKIVFG7JN7GL7OPHNAFJI.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 압수한 케타민. /서울경찰청 광역수사단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국에서 밀수입한 케타민을 국내에 유통하려던 유통책과 공범들이 경찰의 함정수사로 검거됐다.&lt;br&gt;&lt;br&gt;서울경찰청 마약범죄수사대는 마약류관리에관한법률 위반 혐의로 피의자 16명을 검거, 이중 케타민 유통책인 50대 한국인 남성 A씨와 중간 유통책, 드랍퍼(마약을 은닉 장소에 가져다 두는 사람) 등 3명을 구속 송치했다고 17일 밝혔다. 해외 총책 B씨는 필로폰 밀수 혐의도 받고 있어 지난 1월 인천지검에서 적색수배가 내려졌고, 현재 필리핀의 한 수용소에 수감된 국내 총책 C씨에 대해서는 인터폴 적색수배 중이다.&lt;br&gt;&lt;br&gt;앞서 경찰은 미국에서 밀수입한 케타민을 국내에 유통하기 위해 구매자를 찾고 있다는 첩보를 국가정보원으로부터 입수했다. 이후 지난 2월 샘플 거래를 통해 케타민 소지 사실을 확인한 뒤 수사에 착수했다. 경찰은 한 달 뒤 매수자로 위장해 케타민 1.7kg을 판매하려고 거래 장소에 나온 유통책 A씨를 긴급체포했다. 경찰은 CCTV 추적 등을 통해 중간 유통책과 드랍퍼를 차례대로 적발하고 마약 매수·투약자 11명도 검거해 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 판매하려고 했던 케타민 1.7kg를 포함해 42억원 상당의 케타민 1.8kg과 합성대마 9장, 대마 21주, 엑시터시 6정 등을 압수했다. 케타민 1.8kg은 약 6만명이 동시 투약할 수 있는 분량이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “마약류 집중단속과 연계하여 밀수입 및 대규모 유통 사범에 대해 수사력을 집중할 예정”이라며 “국내 유통책들은 단시간에 큰돈을 벌 수 있다는 생각에 마약류 범죄에 가담하는 경우가 많은데, 반드시 경찰의 수사망에 포착·검거될 수밖에 없으므로 마약류 범죄 유혹에 넘어가서는 안 된다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한성대 “수시 실기 사고 사과…재발 방지책 마련”</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/17/JKGUH2JDUZAEZDWWSV6FMSUHCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/17/JKGUH2JDUZAEZDWWSV6FMSUHCE/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 03:37:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EQQEFFNRB7DVHCXWMIBCLFXEEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한성대 전경 /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한성대는 지난 13일 ICT디자인학부 기초디자인 수시 실기전형에서 자료가 늦게 배부된 사고와 관련해 “혼란과 불편을 겪은 수험생과 학부모님들께 진심으로 사과드린다”고 17일 밝혔다.&lt;br&gt;&lt;br&gt;한성대는 이날 보도자료를 내고 “이번 사안을 엄중히 받아들이고 있다”며 실기고사 감독관에 대한 사전교육 강화, 고사장별 현장점검 절차 개선 등 재발방지책을 마련하겠다고 했다.&lt;br&gt;&lt;br&gt;한성대에 따르면, 이번 수시 실기 고사 응시 수험생은 총 1908명이고, 이 사고가 발생한 제17고사실에선 총 24명이 시험을 봤다. 이날 이 고사실의 감독관은 제시어가 포함된 시험 문제지를 정시에 배부했지만, 시험 40분이 지나서야 보조 자료인 제시어 관련 이미지 사진을 배부했다.&lt;br&gt;&lt;br&gt;문제는 ‘카드, 고무줄, 실뭉치’ 소재의 조형적 특징을 이용해 화면을 구성하는 것이었는데, 감독관이 이미지 사진을 배부하지 않아 이 카드가 트럼프 카드인지, 신용카드인지 학생들이 혼란을 빚었다. 문제는 신용카드였다.&lt;br&gt;&lt;br&gt;한성대는 “규정에 따라 사고 다음 날인 14일 오전 대학입학공정관리위원회를 열고, 수시 실기고사 평가위원들에게 해당 고사실에서 고사 개시 후 40분이 지나 이미지 사진이 배부되었다는 사실을 고지했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 한성대는 재발 방지를 위해 실기고사 감독관에 대한 사전 교육을 강화하고, 매뉴얼에 따라 감독업무를 철저히 이해하겠다고 했다. 고사장 별 현장 점검 체계를 강화해 즉시 대응 조치가 이루어지도록 하고, 매 학년도 실기고사 후 결과를 종합 검토해 개선 사항을 메뉴얼 및 절차와 사전 교육에 반영하겠다고 했다.&lt;br&gt;&lt;br&gt;앞서 연세대도 지난 12일 수시 논술시험 문제가 온라인에 유출된 사고와 관련해 15일 수험생과 학부모에게 사과하고 재발방지를 위한 대책을 발표했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EQQEFFNRB7DVHCXWMIBCLFXEEA.jpg?width=719&amp;height=479&amp;auth=c67cd1ead81eb4536803309846d9cca7a584b2ede68cf396d114e937d964d95e&amp;smart=true" type="image/jpeg" height="479" width="719">
+        <media:description type="plain">한성대</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>외도 들통나자 아내 바다에 빠뜨리고 돌 던져 살해한 남편…징역 28년 확정</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/17/4UFPLZLEKRF4JIRSFECITPKW54/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/17/4UFPLZLEKRF4JIRSFECITPKW54/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 03:54:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R56HVBL3URIVRCWMKRJSTJKR2M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;인천해경 관계자들이 작년 7월 19일 인천 중구 잠진도 무의대교 교각 아래에서 아내를 살해한 후 수난사고로 위장한 30대 남편 A씨와 현장검증을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외도가 들통나자 아내를 바다에 빠뜨리고 돌을 던져 살해한 30대 남편이 대법원에서 징역 28년을 확정받았다.&lt;br&gt;&lt;br&gt;17일 법조계에 따르면 대법원 1부(주심 서경환 대법관)는 살인 혐의로 기소된 박모(31)씨에게 징역 28년을 선고한 원심 판결을 확정했다.&lt;br&gt;&lt;br&gt;박씨는 지난해 7월 15일 새벽 인천 중구 덕교동 잠진도 제방에서 30대 아내를 살해한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;박씨는 2020년 아내와 혼인했는데, 같은 해 외도한 사실이 들켰다. 박씨는 그 뒤 피해자로부터 과도하게 감시당한다 여기며 불만을 품었다가 수영을 못하는 피해자를 물에 빠뜨려 익사시키기로 마음먹은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;범행 당시 박씨는 아내를 뒤에서 밀어 빠트린 뒤 아내가 올라오지 못하게 주위에 있던 돌로 가격해 결국 익사하게 만든 것으로 조사됐다.&lt;br&gt;&lt;br&gt;박씨는 범행 이후 경찰에 신고하면서 “아내와 낚시를 즐기러 잠진도로 캠핑을 왔다”며 “짐을 가지러 차에 간 사이 아내가 바다에 휩쓸려 갔다”고 거짓 진술했다. 그는 아내가 실제로 사라져 찾은 것처럼 카카오톡 메시지를 보내는 등 흔적을 만들기도 했다.&lt;br&gt;&lt;br&gt;그러나 해양경찰이 방범카메라 영상 등 범행 증거를 제시하자 “아내와 불화가 있었다”며 “더는 함께 살기 힘들다고 생각해 범행했다”고 실토했다.&lt;br&gt;&lt;br&gt;1심 법원은 박씨에게 징역 23년을 선고했다. 항소심 법원은 그러나 “원심의 형은 가벼워서 부당하다”며 징역 28년으로 형을 늘렸다.&lt;br&gt;&lt;br&gt;2심 재판부는 “만약 군 감시자료인 방범카메라에 촬영된 영상이 없었다면 피고인이 의도했던 것처럼 실족사로 처리되었을지도 모른다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “늦은 밤 아무도 없는 바닷가에서 믿고 있던 남편으로부터 잔혹하게 살해당한 피해자가 느꼈을 공포심과 신체적·정신적 고통을 가늠하기 힘들다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;박씨는 불복했지만 대법원은 “징역 28년을 선고한 것이 심히 부당하다고 할 수 없다”며 상고를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“모레부터 안나와도 돼”…아나운서 출신 유튜버가 받은 해고 카톡</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/17/VAF6VR45IZGMDB4NKF2HKP5VTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/17/VAF6VR45IZGMDB4NKF2HKP5VTQ/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 03:38:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2W2D2KRFZRCP7PNSLEJJUX7JEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아나운서 출신 유튜버 '지윤일기'./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;회사로부터 카카오톡으로 해고 통보 메시지를 받은 아나운서로 활동한 경력이 있는 유튜버 겸 스피치 강사의 사연이 전해졌다.&lt;br&gt;&lt;br&gt;17일 여러 온라인커뮤니티에는 유튜브 채널 ‘지윤일기’에 최근 올라온 ‘이제야 밝히는 이야기. 카톡 한 줄로 무너진 3년의 꿈. 아나운서 부당해고’라는 제목의 영상 내용이 공유되고 있다.&lt;br&gt;&lt;br&gt;이 유튜버는 용인외고와 연세대를 졸업한 뒤 22세였던 2019년부터 아나운서 준비를 시작했다. 그는 준비를 시작한지 3년만에 한 스포츠 채널에 합격해 방송을 시작했다.&lt;br&gt;&lt;br&gt;그는 “방송 데뷔를 하기 위해 열심히 교육을 듣고 혼자서 공부도 정말 많이 했다. 퇴근 후 회사에 남아 3시간씩 공부를 하고 갔다”며 “그렇게 얻어낸 방송의 기회. 그토록 바라던 나의 모습이라 달달 외운 멘트를 한 글자 한 글자 내뱉을 때마다 행복했다”고 떠올렸다.&lt;br&gt;&lt;br&gt;그러던 어느 날 출근 준비를 하던 그는 ‘내일 모레부터 안 나와도 돼’라는 내용의 카톡 메시지를 받았다. 회사 측의 일방적 통보였다.&lt;br&gt;&lt;br&gt;유튜버는 “이렇게 카톡 한 줄로 해고 통보를 받은 이후 내 인생은 완전히 달라졌다”고 했다. &lt;br&gt;&lt;br&gt;이어 “아나운서를 준비하고 또 아나운서로 일하면서 가장 힘들었던 건 오랜 준비 기간도 연이은 불합격도 아니었다. 선택받아야만 일할 수 있는 삶이라는 것이었다. 선택을 받지 못하면 내가 들인 시간과 노력은 그 가치를 잃었다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “해고 통보를 계기로 삶의 목표를 바꿨다”며 주체적인 삶을 살기로 했다고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZALEKLE4UZBY5IH4LSGGKQET6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아나운서 출신 유튜버 '지윤일기'./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사람들에게 도움이 되는 정보를 전달하는 일에 매력을 느껴 아나운서라는 직업을 꿈꿨다는 그는 꼭 아나운서가 아니어도 이 일을 할 수 있다는 것을 깨달았다고 한다. 현재 그는 서울 강북구청 소속 아나운서로 일하며 온라인 스피치 강의를 꾸려나가고 있다.&lt;br&gt;&lt;br&gt;그는 “카톡 한 줄로 무너진 꿈은 오히려 새로운 꿈을 꾸게 해주었다”며 “아나운서를 하고 싶었던 가장 본질적인 이유를 꼭 아나운서가 아닌 다른 방법으로도 이어갈 수 있다면, 그런 삶에서 내가 선택권을 가질 수 있다면 난 꿈을 이룬 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;이날 오후 조회수 21만회를 기록중인 이 영상에는 “아무리 프리랜서라도 카톡 한줄 통보는 너무하다” “멋있고 배우고 싶은 사람” “취업준비생인데 영상 보고 울컥했다” 등의 반응이 이어지고 있다.&lt;br&gt;&lt;br&gt;노동법에 따르면 3개월 이상 근무한 근로자에게는 한달 전 ‘해고예고’를 해야 한다. 해고예고 없이 즉시 해고할 경우 사업주는 근로자에게 30일치 이상의 통상임금을 지급해야 한다. &lt;br&gt;&lt;br&gt;프리랜서 계약서를 작성한 경우 근로자가 아니라 노동법 적용은 받지 않는다. 다만 계약만 프리랜서 형식일 뿐 일반 근로자와 같이 근무한 것이라면 근로자성을 인정받아 노동법 보호를 받는다. 이 경우 계약기간 만료 전 해고는 부당해고에 해당한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 연세대 ‘논술 유출’ 수험생들, “문제 유출 정황 추가로 확인”... 집단소송 돌입</title>
       <link>https://www.chosun.com/national/national_general/2024/10/17/IKSZE74KFBFRBL6R2HOTI4EMNM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/17/IKSZE74KFBFRBL6R2HOTI4EMNM/</guid>
@@ -842,38 +881,6 @@
       <description/>
       <pubDate>Thu, 25 Jul 2024 15:45:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TPZUPOVBUBD5JKUPQ56IQFOHZA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2430] 날짜 계산기</title>
-      <link>https://www.chosun.com/national/nie/2024/07/29/CKQG2Y3GV5A6LOG5PEFJJDL764/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/29/CKQG2Y3GV5A6LOG5PEFJJDL764/</guid>
-      <description/>
-      <pubDate>Sun, 28 Jul 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E7F5PX4EPRB67HL7QFJAJBHLWM.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2431] 퍼즐 맞추기</title>
-      <link>https://www.chosun.com/national/nie/2024/07/30/WL434CR6JZB2ZHXH5JN5L6HO6U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/30/WL434CR6JZB2ZHXH5JN5L6HO6U/</guid>
-      <description/>
-      <pubDate>Mon, 29 Jul 2024 16:15:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GB2PEDF5LFACXKZJWLGL4M3WTQ.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2432] 돌려라 룰렛 계산기</title>
-      <link>https://www.chosun.com/national/nie/2024/07/31/PNJBYJC3QVEWHOTQ5M6RLGYPMA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/07/31/PNJBYJC3QVEWHOTQ5M6RLGYPMA/</guid>
-      <description/>
-      <pubDate>Tue, 30 Jul 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FE74E5NUVJGXDPC6ZX7ZWLLDRY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2433] 칙칙폭폭 꼬리 잇기</title>
-      <link>https://www.chosun.com/national/nie/2024/08/01/QFUJJY42GVEAXEZFT373DQJ4U4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/01/QFUJJY42GVEAXEZFT373DQJ4U4/</guid>
-      <description/>
-      <pubDate>Wed, 31 Jul 2024 17:31:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBWHX7XO45GUBPSKBQHO3PERTQ.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 헌재법에 위헌소송? 상식깬 발상으로 헌재 마비 막은 변호사</title>
