@@ -13,6 +13,141 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 연세대 ‘논술 유출’ 수험생들, “문제 유출 정황 추가로 확인”... 집단소송 돌입</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/17/IKSZE74KFBFRBL6R2HOTI4EMNM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/17/IKSZE74KFBFRBL6R2HOTI4EMNM/</guid>
+      <dc:creator>구동완 기자, 고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 00:14:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PAG2GDFZX5DBFOXXQMWXCTF7RA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 연세대학교 2025학년도 수시모집 논술시험을 마친 수험생들이 고사장을 나서고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 12일 발생한 연세대 수시모집 논술시험 문제 유출 사태와 관련해 수험생들이 집단소송 준비에 들어간 가운데, 해당 수험생들이 문제 유출 정황을 추가로 확인했다고 밝혔다.&lt;br&gt;&lt;br&gt;집단소송을 추진하는 20대 A씨는 “시험지를 일찍 배부해 문제가 된 72호 고사장(경영관 104호)에서 시험 시작 30분 전인 오후 1시 30분쯤 같은 시험에 응시하는 다른 고사장 수험생에게 논술 특정 문항에 대한 정보가 메시지로 전달된 점이 확인됐다”고 본지에 밝혔다. A씨는 “시험지를 미리 받고 중간에 휴대전화를 써서 문제를 공유한 것”이라고 했다.&lt;br&gt;&lt;br&gt;A씨는 “(텍스트로) 전달된 문항은 총 3개로 단답식 두 개, 주관식 하나였다”며 “이는 해당 수험생이 ‘양심고백’한 것으로 이 수험생 또한 이번 집단소송에 참여했다”고 밝혔다.&lt;br&gt;&lt;br&gt;또한 A씨는 “해당 고사장에서 휴대전화 관리가 부실하게 이뤄진 점이 추가로 발견됐다”고도 했다. 해당 고사장에서 휴대전화 종료와 관련, 오후 12시 40분쯤 학생들에게 안내했던 것이 전부였고, 당시 자리에 없어 안내를 못 들은 수험생들이 상당수 있었다는 주장이다.&lt;br&gt;&lt;br&gt;연세대는 14일 발표한 입장문에서, 지난 12일 논술 고사 당일 문제지가 1시간가량 일찍 배부되고, 문항 유출 정황이 나타난 데 대해 “문제지는 연습지로 가려진 상태여서 학생들은 문제를 볼 수 없었다”며 “통신이 가능한 전자 기기는 전원을 끈 상태로 가방에 넣도록 해서 온라인으로 문제 공유가 불가능했다”고 설명했다. 이후 연세대는 15일 밤 입학처장 명의로 낸 사과문에서 “입시 공정성을 침해한 객관적 사실은 발견되지 않았다”며 기존 입장을 반복했다.&lt;br&gt;&lt;br&gt;A씨는 “연대 측의 주장과는 다르게 시험의 공정성이 현저하게 훼손됐기에 재시험은 반드시 필요하다”면서 “논술시험 무효 소송을 추진할 것”이라고 했다. 시급성을 고려해서 시험 결과에 대한 효력정지 가처분도 신청하기로 했다. A씨는 “합격자 발표가 나오게 되면 상황을 되돌리기 어렵기 때문에 가처분을 신청하려는 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;이날 오전 기준 A씨와 함께 소송 참여 의사를 밝힌 수험생과 학부모는 약 100여명이다. A씨는 “법무법인 한 곳과 상담을 마쳤고, 오늘 내로 변호인을 선임해 본격적인 소송 절차에 나설 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] ‘핼러윈 참사 부실 대응’ 김광호 전 서울경찰청장 무죄</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/17/VLGYMTZ5ERDIZBFGZOXCS4XQB4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/17/VLGYMTZ5ERDIZBFGZOXCS4XQB4/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 02:44:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BKIMX4JDZZKERCPSY5SYVNFZNI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;핼러윈 참사에 부실 대응한 혐의로 기소된 김광호 전 서울경찰청장이 17일 오전 서울 마포구 서울서부지방법원에서 열린 1심 선고공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;핼러윈 참사에 부실하게 대응한 혐의로 재판에 넘겨진 김광호(60) 전 서울경찰청장이 1심에서 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;서울서부지법 형사합의12부(재판장 권성수)는 17일 오전 업무상 과실치사상 혐의를 받는 김 전 청장에게 무죄를 선고했다. 김 전 청장은 핼러윈 참사 대응과 관련해 기소된 경찰 간부 중 최고위직이다.&lt;br&gt;&lt;br&gt;재판부는 “대규모 인파사고 발생 가능성을 예측할 수 없었고, 구체적이고 직접적인 주의의무를 위반하지 않았다”며 이러한 판결을 내렸다.&lt;br&gt;&lt;br&gt;김 전 청장과 같은 혐의를 받는 류미진 전 서울청 인사교육과장, 정대경 전 112 상황팀장에게도 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;앞서 검찰은 김 전 청장이 안전사고 발생을 막기 위해 경찰 조직을 지휘하고 감독할 의무가 있음에도 불구하고 제 역할을 다하지 않았다며 금고 5년을 구형했었다.&lt;br&gt;&lt;br&gt;지난달 30일 재판부는 김 전 청장과 마찬가지로 부실 대응 혐의를 받는 이임재 전 서울용산경찰서장에게 금고 3년, 박희영 용산구청장에게 무죄를 선고했으며, 검찰은 이에 항소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김재중 “나는 입양아, 동방신기 뮤비 촬영 중 알았다”</title>
+      <link>https://www.chosun.com/national/people/2024/10/17/PTGP45KFNNB4NNAJD6X4NNEAQM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/17/PTGP45KFNNB4NNAJD6X4NNEAQM/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 02:55:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7R3I26YBHJLJ5DC6IRRBKQH7EE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;동방신기 출신 가수 김재중. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 동방신기 출신 가수 김재중(38)이 자신이 입양아라는 사실을 밝히며 입양 사실을 알게 된 사연을 공개했다.&lt;br&gt;&lt;br&gt;김재중은 지난 16일 방송된 MBC ‘라디오스타’에 출연해 자신이 3살 때 누나만 8명인 대가족의 막내아들로 입양이 됐다고 밝혔다.&lt;br&gt;&lt;br&gt;김재중은 “어렸을 때는 내가 입양된 사실을 몰랐다”며 “동방신기로 데뷔하고 나서야 알게 됐다. 알고 나서도 입양에 대한 이야기를 가족들과 나누는 것이 서로 불편했다”고 고백했다.&lt;br&gt;&lt;br&gt;입양 사실을 알게 된 계기에 대해서는 “동방신기 시절 부산에서 뮤직비디오를 촬영하고 있었는데 모르는 번호로 전화가 왔다”며 “당시 사생팬들의 전화에 시달리고 있었던 때라 받지 않으려 했는데, 왠지 꼭 받아야 할 것 같은 느낌이 들었다. 촬영 중인데도 불구하고 잠깐 멈춰달라고 부탁한 후 전화를 받았다”고 했다.&lt;br&gt;&lt;br&gt;이어 “전화를 받자 ‘재준아, 잘 있었어?’라고 하더라. ‘재준은 작은 엄마가 부르던 이름인데 누구길래 날 이렇게 부르지?’라고 생각했다”며 “순간 상대방이 누구라고 말을 안 했는데도 모든 퍼즐이 맞춰지는 것 같았다”고 했다. 전화를 건 사람이 자신의 친부모라는 사실을 직감할 수 있었다는 것이다.&lt;br&gt;&lt;br&gt;김재중은 “어떻게 된 일인지 알아보니 회사에서 포토북을 만들면서 어릴 때 사진을 썼는데 그걸 보고 가족이 연락을 한 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;김재중은 “제가 입양됐다는 사실을 가족들은 다 알고 있었지만 저한테만 비밀로 했던 것”이라며 “막내 누나와 나는 한 살 터울이지만 실제로는 10개월 차이다. 동네에 입양 소문이 날까 봐 누나는 본인의 생일을 나의 출생일에 맞춰 축하했다. 성인이 된 후에야 진짜 생일을 챙길 수 있었다. 정말 고맙다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>50년 물질 강인한 삶...제주해녀 13명에 ‘명인·명장’ 헌정</title>
+      <link>https://www.chosun.com/national/regional/2024/10/17/HPPNFS6RO5BE5PWPV6CASPPJMM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/17/HPPNFS6RO5BE5PWPV6CASPPJMM/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 02:27:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5POUU2QFYJDA3B24BUYMBX5M3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 '제주 해녀 대상군 명인·명장’으로 선정된 13명. 왼쪽부터 윗줄 강득춘·김숙자·김원옥·오은란·이금옥씨, 가운뎃줄 이만순·이복렬씨(이상 명인 7명), 고미자·김영자씨, 아랫줄 김주순·양금순· 오창희·현경자씨(이상 명장 6명). /제주해녀문화예술연구협회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;50년 넘게 한평생 거친 바다에서 해산물을 채취하며 외길을 걸어온 해녀 13명이 명인·명장으로 선정됐다.&lt;br&gt;&lt;br&gt;(사)제주해녀문화예술연구협회는 17일 제주해녀문화 보존과 전승을 위해 물질 경력 최소 50년 안팎의 원로·은퇴 해녀 중에서 ‘대상군 명인’을 선정하고, 현재 활동 중인 상군 해녀 중에서 ‘대상군 명장’을 선정했다고 설명했다.&lt;br&gt;&lt;br&gt;명인 해녀는 한림수협 옹포어촌계 강득춘(86), 모슬포수협 화순어촌계 김숙자(87), 모슬포수협 하모어촌계 김원옥(78), 추자도수협 대서어촌계 오은란(72), 제주시수협 김녕어촌계 이금옥(88), 한림수협 협재어촌계 이만순(82), 서귀포수협 위미1리어촌계 이복렬(79) 등 7명이다.&lt;br&gt;&lt;br&gt;명장 해녀는 모슬포수협 상모어촌계 고미자(67), 제주시수협 조천어촌계 김영자(69), 추자도수협 예초어촌계 김주순(69), 모슬포수협 사계어촌계 양금순(66), 서귀포수협 강정동어촌계 오창희(61), 서귀포수협 위미2리어촌계 현경자(71) 등 6명이다.&lt;br&gt;&lt;br&gt;해녀는 노동력과 숙련도에 따라 상군(上軍)·중군(中軍)·하군(下軍)으로 구별한다. 대상군(大上軍)은 상군 중에서도 덕망이 높고 기량이 특출한 해녀로서 해산물 채취 능력은 물론 조직의 리더로서 품성과 자질을 갖춰야 추대된다.&lt;br&gt;&lt;br&gt;선정은 수협중앙회와 제주지역 5개 수협에서 1차 추천을 받고 나서 2차 심사를 거쳤다.&lt;br&gt;&lt;br&gt;‘제주해녀문화’는 오랜 전통과 공동체 정신을 잇는 인류의 지속 가능한 발전 모델로 주목받으면서 2016년 유네스코 인류무형문화유산에 등재됐다. 제주 해녀들은 제주를 기점으로 한반도는 물론 일본 열도, 중국 다롄과 칭다오, 러시아 블라디보스토크 등 동북아시아 곳곳에서 활동했다.&lt;br&gt;&lt;br&gt;양종훈 제주해녀문화예술연구협회 이사장은 “세계의 보물인 제주 해녀의 위대함을 널리 알리기 위해 올해 처음 명인·명장 헌정식을 마련했다”며 “세계 각지로 나갔던 제주 해녀들의 강인한 삶이 미래로 전승되길 바란다”고 기대했다.&lt;br&gt;&lt;br&gt;18일 오후 4시 국립제주박물관에서는 ‘2024 제주해녀 대상군 명인·명장 헌정식 및 축하 음악회’가 열린다. 음악 공연은 미8군 군악대와 육군 7군단 군악대가 참여한 한미연합군악대가 맡는다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“남자면 맞았을 것” “내가 남자면 쳤어”...청담 유명 산부인과 男女의사 기싸움 결말은</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/17/NIHI6R4QGJGIXFT3WECVUPLJPM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/17/NIHI6R4QGJGIXFT3WECVUPLJPM/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 02:27:01 +0000</pubDate>
+      <content:encoded>서울 강남구 청담동의 한 유명 산부인과 병원에서 말싸움을 벌이다 동료 여성 의사를 밀치며 폭행한 60대 남성 의사가 벌금형을 선고 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HARD63R6ONC75IVX2P25SH55QA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 권혜인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사11단독 김길호 판사는 폭행 혐의로 기소된 민모(60)씨에게 벌금 50만원을 선고했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;민씨는 지난 2022년 7월 21일 오전 8시 40분쯤 이 병원 공동운영자인 이모(44)씨를 폭행한 혐의를 받는다. &lt;br&gt;&lt;br&gt;민씨는 폭행 전날 다른 공동운영자들과 자신의 약물 처방과 관련된 문제로 회의를 했는데, 당시 이씨로부터 반말을 듣는 등 서로 언쟁을 벌인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이튿날 출근한 민씨는 나이가 더 어린 상대로부터 반말을 듣고, 기분이 상했다는 이유로 이씨 등을 연구실로 불러 관련 대화를 나누던 도중 이씨에게 “어제 한 행동은 용납이 안 된다. 선생님이 남자였으면 어제 제게 맞았을 것”이라고 말했다. &lt;br&gt;&lt;br&gt;이씨는 이에 “제가 남자였으면 선생님을 한 대 쳤을 것”이라며 되받았다. 이에 민씨가 흥분해 이씨의 멱살을 잡는 등 위협하고 폭행한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이 사건이 일어난 병원은 2000년대 초 개원해 청담동 일대에서 임산부들에게 인기가 많은 곳으로 알려졌다. 연예인 등 각종 유명인들이 이곳에서 출산의 기쁨을 누리기도 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>﻿“과거와 수법 똑같다” 11년 전 제시 이태원 폭행 사건 피해자 등장</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/17/RIF6RVYG6VC4JPZEKGVDQSPNRM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/17/RIF6RVYG6VC4JPZEKGVDQSPNRM/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 01:52:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OV6QDUWULVNOHAKHJDCAIOOONQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일행의 팬 폭행 의혹과 관련해 가수 제시가 16일 밤 서울 강남경찰서에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국계 미국인 가수 제시(36‧본명 호현주)에게 사진 촬영을 요청한 미성년자 팬이 폭행당한 사건이 논란인 가운데, 제시가 연루됐던 과거 폭행 사건이 재조명됐다.&lt;br&gt;&lt;br&gt;제시는 2013년 5월 서울 이태원의 한 클럽 여자 화장실에서 벌어진 폭행 사건에 휘말렸다.&lt;br&gt;&lt;br&gt;당시 피해자인 재미교포 A씨는 제시와 제시 친구 2명을 집단폭행 혐의로 고소했다. A씨는 “클럽 화장실에서 마주쳐서 먼저 들어가라고 양보했는데 제시와 친구들이 이유 없이 시비를 걸고 때렸다”고 주장했다. 불구속 입건된 제시는 “폭행에 가담한 적이 없으며 A씨와 친구와의 싸움을 말렸을 뿐”이라고 반박했다.&lt;br&gt;&lt;br&gt;두 사람의 주장이 엇갈리면서 사건은 장기화됐고, 이후 A씨가 제시에 대한 고소를 취하하고 미국으로 떠났다. 당시 일부 언론사는 A씨가 고소를 취하하면서 제시가 폭행에 가담하지 않았다는 사실을 뒤늦게 인정했다고 보도했다.&lt;br&gt;&lt;br&gt;이렇게 논란이 마무리되면서 제시는 활동을 이어갔다. 2015년 방송된 엠넷 ‘언프리티랩스타’에서 한 래퍼는 제시를 향해 “언니에게 어울리는 장소는 이태원. 모두가 알고 있지. 이미 소문난 네 행동”이라며 과거 사건을 언급하기도 했다.&lt;br&gt;&lt;br&gt;그리고 제시는 지난달 29일 서울 강남구 압구정동에서 벌어진 폭행 사건에 연루됐다. 미성년자 피해자는 자신을 폭행한 가해자 B씨와 주변에 있었던 제시, 또 다른 일행 등 총 4명을 폭행 혐의 등으로 경찰에 고소했다.&lt;br&gt;&lt;br&gt;당시 제시의 팬이었던 피해자는 제시에게 다가가 사진 촬영을 요청했다가 제시 주변에 있던 남성 B씨에게 폭행당했다. 제시는 이를 말리다 현장을 떠났고, 이후 피해자의 신고로 경찰이 출동했다. 제시는 B씨와 처음 보는 사이이며 그가 중국인으로, 현재는 한국에 없다는 입장이다.&lt;br&gt;&lt;br&gt;이 사건을 접한 11년 전 폭행 사건 피해자 A씨는 16일 JTBC ‘사건반장’에 “사건을 대하는 태도가 유사해서 인상적이었다”며 “제시가 절 때리지 않았다고 인정한 적 없다. 분명히 날 때렸다”고 주장했다. 당시 직장 등을 이유로 미국행 항공권 준비를 마친 상태에서 사건이 발생했고, 고소한 상태에서는 출국이 어려워 어쩔 수 없이 고소를 취하했을 뿐이라고 했다.&lt;br&gt;&lt;br&gt;A씨는 “(이번에도) CCTV가 없었다면 제시는 그때처럼 ‘전혀 연루되지 않았다’고 잡아뗐을 것”이라며 “제시 측이 가해자가 출국해 (한국에) 없다고 하는데 옛날에도 똑같았다”고 했다.&lt;br&gt;&lt;br&gt;한편 제시는 지난 12일 자신의 인스타그램을 통해 피해자에게 사과했다. 그는 “제가 그날 처음 본 사람으로부터 (팬이) 갑자기 폭행당하는 일이 있었다”며 “경위를 불문하고 저의 팬분께서 불의의 피해를 입으신 것에 대해 대단히 안타깝게 생각하고 도의적 책임을 느낀다”고 했다.&lt;br&gt;&lt;br&gt;16일 경찰에 출석한 제시는 “일단 때린 사람을 빨리 찾고 (그 사람이) 벌을 받았으면 좋겠다. 오늘 있는 대로 다 말하고 오겠다”고 말했다. 이어 “가해자를 처음 본 게 맞다”며 피해자에게는 “너무 죄송하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“오점 남기지 말라”…‘허위 사실유포·고소’ 강용석 향한 판사의 당부</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/17/PH4FIVBIGVH7TFIQGY3GBWDDHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/17/PH4FIVBIGVH7TFIQGY3GBWDDHU/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 01:53:00 +0000</pubDate>
+      <content:encoded>“피고인은 지식·경험·견문이 저희들보다 많을 것으로 보인다. 딱히 드릴 말씀이 없습니다만 계속 오점을 남기시면 좋지 않을 것 같다. 잘 생각해보시길 바란다.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/63AMFONCSRJA5GSXYUGBEIBMYI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;강용석 변호사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 오전 서울중앙지법 422호 법정에서 형사항소4-1부 재판장 양지정(50·사법연수원 30기) 부장판사가 선고 내용을 모두 읽은 뒤 이렇게 당부했다.&lt;br&gt;&lt;br&gt;이날 재판부는 조국 조국혁신당 대표(전 법무부 장관)와 금융회사 간 정경유착 의혹을 제기하며 허위사실을 유포한 혐의(정보통신망법상 명예훼손) 및 유명 블로거였던 ‘도도맘’ 김미나씨에게 허위 고소를 종용한 혐의(무고교사)를 받는 강용석(55·연수원 23기) 변호사에 대한 선고 공판을 진행했다. 강 변호사는 각 혐의에 대해 별도 기소돼 재판을 받았는데, 이날 재판부는 선고를 한꺼번에 했다.&lt;br&gt;&lt;br&gt;재판부는 해당 사건에서 형량을 변경할 만한 사정을 찾기 어렵다는 취지로 피고인과 검찰 측 항소를 모두 기각하고 원심 판결을 유지했다. 앞서 1심은 각 사건에서 강 변호사에게 벌금 500만원 및 징역 6개월에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;강 변호사는 2019년 자신의 유튜브 채널에서 조 대표 부부의 자산관리인인 한국투자증권 프라이빗뱅커 김경록씨가 한투증권 오너 일가의 친인척이라며 정경유착이 벌어지고 있다는 취지로 주장했다. 한투증권 측은 “김씨는 오너가와 무관한 사이”라며 그를 고소했다.&lt;br&gt;&lt;br&gt;강 변호사는 재판 과정에서 “허위 사실이라고 인식하지 못했고, 공익을 목적으로 비판적 의견을 표명했을 뿐”이라며 무죄를 호소했으나 받아들여지지 않았다.&lt;br&gt;&lt;br&gt;무고교사 사건과 관련해선 강 변호사는 2015년 김씨를 부추겨 모 증권사 본부장 A씨를 강간치상죄로 고소하도록 종용했다는 혐의로 재판에 넘겨졌다. 김씨는 법정에서 A씨에게 강간이나 강제추행을 당한 적은 없지만, 강 변호사가 합의금을 목적으로 허위 고소를 종용했다고 증언했다.&lt;br&gt;&lt;br&gt;회색 양복을 입고 출석한 강 변호사는 이날 두 손을 쥔 채 묵묵히 선고 내용을 들었고, 마지막엔 고개를 숙여 인사를 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>BTS 제이홉, 맏형 진과 뜨거운 포옹…“충성! 전역했습니다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/17/JYQ4JLPYY5E4ZN36RMU2ITGUCY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/17/JYQ4JLPYY5E4ZN36RMU2ITGUCY/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 02:03:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WFYTAPPBAVOMHNRS327PHWCCDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 방탄소년단(BTS) 멤버 제이홉이 17일 강원 원주시 육군 36사단 신병교육대 앞에서 전역하며 동료 멤버 진의 축하를 받고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 방탄소년단(BTS)의 멤버 제이홉이 17일 ‘맏형’ 진의 마중 속에 만기 전역했다.&lt;br&gt;&lt;br&gt;제이홉은 17일 오전 10시쯤 강원도 원주 육군 제36보병사단 신병교육대 정문을 나섰다. 그는 지난해 4월 육군 현역으로 입대해 기초군사훈련을 마친 뒤 이곳에서 조교로 복무해 왔다.&lt;br&gt;&lt;br&gt;이날 신병교육대 앞에는 제이홉을 찍으려는 팬들과 취재진이 가득했다. 주인공인 제이홉이 위병소 정문을 나서자 곳곳에서 플래시가 터졌다.&lt;br&gt;&lt;br&gt;제이홉을 기다리고 있던 건 취재진뿐만이 아니었다. 지난 6월 BTS 멤버 중 처음으로 만기 전역한 진이 커다란 꽃다발을 들고 ‘동생’ 제이홉을 마중 나온 것이다. 진은 꽃다발을 건넨 뒤, 전역을 축하하는 마음을 담아 제이홉을 포옹하기도 했다.&lt;br&gt;&lt;br&gt;제이홉은 취재진과 팬들 앞에서 “충성”을 외치며 늠름하게 경례했다. 제이홉이 각 방송사의 마이크가 달린 ‘뭉치’를 들어올리자 진은 자신이 도우미를 자처하며 나섰다. 진은 제이홉의 옆에 쭈그리고 앉아 마이크를 들었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LOQHSWP4HRPALJKLBP7D5H7CRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 방탄소년단(BTS) 멤버 진이 17일 강원 원주시 육군 36사단 신병교육대 앞에서 전역한 멤버 제이홉이 인사말을 할 때 마이크를 들어주고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제이홉은 “건강하게 잘 전역했다. 정말 감사하다”며 “팬 여러분들 덕분에 건강하게 무사하게 잘 마칠 수 있었다”고 인사를 전했다.&lt;br&gt;&lt;br&gt;이어 “1년 6개월 조교 임무를 수행하다 보니 여러가지로 행군을 정말 많이 했는데 그럴 때마다 원주시민분들을 정말 많이 마주쳤다”며 “그때마다 군 장병들에게 인사와 응원을 해주신 시민분들께도 감사하다는 인사드리고 싶다. 너무 감동이었고, 뜨거운 감정을 어떻게 표현해야 할지 모르겠다”며 원주시민들에게도 감사 인사를 전했다.&lt;br&gt;&lt;br&gt;그는 “나라를 지키기 위해서 장병분들이 노고와 헌신(을 하고 있으며), 나라를 위해 많은 것들을 하고 계신다”며 “그런 분들께 국민 여러분이 많은 관심과 사랑을 주시면 큰 의미가 될 것 같다”고 했다.&lt;br&gt;&lt;br&gt;제이홉은 군가 ‘전선을 간다’ 첫 소절을 부르며 차량에 탑승했다. 그는 떠나는 순간까지 창문 밖으로 자신을 마중온 취재진과 팬들을 향해 인사했고, ‘손 키스’ 팬 서비스를 선보이기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OKLOTXI7RZMLJBUUKJGGNNUI2E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;방탄소년단(BTS) 제이홉이 17일 강원도 원주시에 위치한 육군 제36보병사단 백호 신병교육대에서 육군 현역으로 군 복무를 마친 뒤 진(왼쪽)과 함께 차로 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광주글로벌모터스, 파업권 획득 여부 이르면 오늘 결정</title>
+      <link>https://www.chosun.com/national/labor/2024/10/17/EZBGKLVLFFDCZBLSKMMKG3OAQM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/10/17/EZBGKLVLFFDCZBLSKMMKG3OAQM/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>노사민정 대타협을 통해 탄생한 GGM(광주글로벌모터스)의 노조 파업권 획득 여부가 이르면 오늘 결정된다.</description>
+      <pubDate>Thu, 17 Oct 2024 01:32:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RJ4NOZRZX5DPJEKL6UNJAY2M6Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8월 광주 글로벌모터스(GGM) 전기차 '캐스퍼' 생산라인./조선DB  &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노사민정 대타협을 통해 탄생한 GGM(광주글로벌모터스)의 ‘파업권 획득’ 여부가 이르면 오늘 결정된다. GGM은 2019년 문재인 정부 시절 국정 과제로 추진된 ‘광주형 일자리’ 사업을 통해 만들어진 자동차 위탁 생산 회사다. 광주시, 현대차, 산업은행 등이 출자하고 한국노총, 지역 시민단체 등이 참여해 ‘완성차 업계보다 적은 연봉을 받고 누적 생산 35만대까지 파업을 하지 않겠다’는 협약을 맺었다. 파업권 획득 후 실제 파업으로 이어지면 당초 약속이 파행되며 광주형 일자리의 요체도 깨진다는 평가다.&lt;br&gt;&lt;br&gt;17일 GGM에 따르면, 이날 전남지방중앙노동위는 노사 교섭 계속 여부를 결정한다. 지난 8일 GGM 노조는 임금·단체협약(임단협) 교섭 쟁의행위 찬반 투표를 진행해 85.97％의 찬성률로 가결한 상태다. 전남지방지노위 회의에서 노사 입장 차이가 크다고 판단해 교섭 중지 결정이 내리지면 노조는 파업권을 획득하게 된다.&lt;br&gt;&lt;br&gt;업계에선 파업의 파급력을 의식해 지노위 측이 양측에 교섭 시간을 더 부여하는 방식의 행정 지도를 내릴 수 있다는 관측이 나온다. 그러나 임금 인상 등을 두고 양측 입장 차가 큰 만큼 교섭 중지 가능성도 거론된다. 사측은 GGM을 설립하면서 35만대까진 물가상승률 수준 인상을 약속한만큼 이를 지켜야 한다는 입장이지만, 노조 측은 큰 폭의 인상을 주장하고 있다. 교섭 중지 결정이 내려지면 노조는 실제 파업에 돌입할지 논의하는데, 민노총 노조가 들어선 만큼 이 경우엔 실제 파업 돌입 가능성이 매우 크다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] “치마는 짧을 수록 좋다” 서울 일선서 경찰, 성비위로 대기 발령</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/17/SFMRVY3PBBDE7AO4MOTAYWRNX4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/17/SFMRVY3PBBDE7AO4MOTAYWRNX4/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 01:09:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y46RTREEVZFFZLBE2WJRPBEA5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 일선서 경찰이 성 비위 의혹으로 대기 발령을 받았다.&lt;br&gt;&lt;br&gt;서울경찰청은 지난 16일 서울 일선서 소속 A경정에 대해 성 비위를 사유로 대기 발령을 내렸다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;A경정은 신임 여직원에게 “치마는 짧을수록 좋다”는 등의 성적인 발언을 한 의혹을 받고 있다. 또 사무실에서 회의 후 여직원에게 “노래 한 곡 불러라”는 등 발언을 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A경정은 과거 대정보관으로 선정되는 등 업무 능력을 인정받아왔다고 한다. 경찰청이 매년 1회 전국 정보경찰을 대상으로 선정하는 대(大) 정보관은 경력 25년 이상 정보 업무에 헌신하고, 특히 경찰 업무 역량 및 기여도가 탁월한 전문 정보 경찰에게 주어진다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A경정은 현재 징계 결정에 따라 대기 발령이 난 상태”라며 “자세한 경위를 파악 중”이라고 했다.&lt;br&gt;&lt;br&gt;A 경정은 본지에 “징계 사유에 대해 아직 전달 받은 것이 없다”며 “상황에 대해 잘 모르고 일단은 대기 명령만 받은 상태”라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 金여사 ‘도이치모터스’ 불기소... “주가조작 인식 못해”</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/17/MLDP5NN3BJDZPD4R2GVJH3IZ7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/17/MLDP5NN3BJDZPD4R2GVJH3IZ7E/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 01:00:00 +0000</pubDate>
+      <content:encoded>김건희 여사의 도이치모터스 주가조작 연루 의혹을 수사해온 검찰이 17일 김 여사를 불기소 처분했다. 지난 2020년 4월 고발장을 접수한지 4년 6개월 만이다.&lt;br&gt;&lt;br&gt;검찰은 김 여사 명의 계좌 3개가 주가조작에 이용된 것으로 볼 수 있다면서도 김 여사가 주가조작 세력과 공모했다거나 이들의 주가조작을 인식했다고 보기 어렵다고 결론 내렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L63YV456MRKO3H7Q3ET363F3FY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사가 지난 9일(현지시각) 싱가포르 샹그릴라 호텔에서 열린 싱가포르 동포 초청 오찬 간담회에 참석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇계좌서 주가조작 이뤄졌지만…”김여사가 가담하진 않아”&lt;/b&gt;&lt;br&gt;&lt;br&gt;검찰은 2010~2011년 김 여사 명의 계좌 6개에서 고가매수·통정매매 등 이상 거래가 발생한 사실을 확인하고 2021년 권오수 전 도이치모터스 회장 등을 기소할 때 이 계좌들도 포함했다. 그중 1·2심 법원에서 유죄로 인정된 계좌는 3개다. 나머지 2개는 공소시효가 완성됐다는 이유로 법원이 별도 판단을 내리지 않았고, 1개는 시세조종에 해당하지 않는다며 무죄로 봤다.&lt;br&gt;&lt;br&gt;검찰은 유죄로 인정된 3개 계좌에 대해서도 김 여사를 주가조작 혐의로 기소할 수 없다고 결론 내렸다. 김 여사가 주가조작 선수 김모씨, 블랙펄인베스트먼트에게 각각 일임한 계좌 2개에 대해서는 일임받은 인물들이 “김 여사에게 시세조종을 한다는 얘기를 하지 않았고 김 여사도 알지 못했을 것”이라고 진술했다고 한다. 관련자들의 진술을 종합할 때 김 여사가 주가조작 사실을 알면서 계좌를 맡겼다고 보기 어렵다는 것이 검찰 판단이다.&lt;br&gt;&lt;br&gt;김 여사가 직접 운용한 대신증권 계좌 1개에서 나온 통정매매 12회에 대해서는 검찰도 “김 여사가 권 전 회장에게 연락을 받고 주문한 것으로 추정된다”고 했다. 그러나 권 전 회장과 김 여사의 연락 내용을 확인할 증거가 없다면서, 단지 연락을 주고받았던 정황만으로 김 여사가 시세조종에 가담했다고 단정하기 어렵다고 봤다. 권 전 회장이 김 여사에게 단순히 매도를 추천·권유했을 수도 있다는 것이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇”김여사, 시세조종 인식 못해”...방조 혐의도 적용 안 해&lt;/b&gt;&lt;br&gt;&lt;br&gt;김 여사와 비슷한 역할을 했다는 의심을 받은 전주 손모씨는 2심에서 주가조작 방조 혐의가 인정돼 유죄가 선고됐다. 이에 일각에선 “검찰이 김 여사를 방조 혐의로 기소할 수도 있다”는 관측이 나왔지만, 검찰은 “손씨와 김 여사는 다르다”고 판단했다.&lt;br&gt;&lt;br&gt;손씨는 전문투자자로서 주가조작 세력과 직접 연락을 주고받으며 주식을 사고팔았기 때문에 시세조종 범행을 인식했지만, 주식 관련 전문성이 부족한 김 여사는 단순 추천으로 주식을 매매해 시세조종 범행을 인식하기 어려웠다고 검찰은 봤다. 실제손씨와 연락을 주고받았던 2차 주가조작 선수 김모씨는 “손씨는 주가관리 사실을 알고 있었다”면서 “김 여사에게는 주가조작 사실을 알린 적 없다”고 했다고 한다.&lt;br&gt;&lt;br&gt;또 2010년 1월~2011년 3월 김 여사가 권 전 회장과 1차 주가조작 선수 이모씨를 제외한 다른 주범들과 직접 연락한 증거도 나오지 않았다고 한다. 이씨의 주가조작 가담 기간은 공소시효가 만료돼 법원에서 면소 판결을 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMZ4KALX3ZL7BN4PR2PK4FSEPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손모씨가 지난 9월 '도이치모터스 주가조작 의혹' 관련 항소심에서 주가조작 방조 혐의에 대해 유죄를 선고받은 뒤 법정을 나서고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주가조작 세력들은 검찰 수사가 본격화된 2020~2021년 서로 통화하며 “김건희 걔는 아는 게 없지” “뭐 먹은 것도 없을 걸” “김건희는 그냥 ‘원 오브 뎀(one of them)’” 등 김 여사가 주가조작을 인지하지 못했을 거라는 취지의 대화를 나누기도 했다고 한다.&lt;br&gt;&lt;br&gt;검찰은 “권 전 회장 등이 주가를 조작하면서 김 여사 등 초기투자자들의 계좌와 자금을 범행에 활용한 것이 사건의 실체”라고 결론 내렸다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇최강욱 고발로 시작…4년 6개월 만 처분&lt;/b&gt;&lt;br&gt;&lt;br&gt;이 사건은 2020년 4월 최강욱 전 더불어민주당 대표의 고발로 시작됐다. 검찰은 2021년 12월 권 전 회장을 구속기소하는 등 총 9명을 정식 재판에 넘기면서도 김 여사에 대해서는 처분을 내리지 않았다.&lt;br&gt;&lt;br&gt;검찰은 그간 총 2차례 김 여사를 서면으로 조사했고, 지난 7월에는 ‘디올백 사건’과 함께 직접 대면 조사하기도 했다. 또 최근에는 김 여사 혐의와 관련해 주가조작 세력을 다시 조사하고, 최은순씨를 포함한 계좌주 91명에 대해 사실상 전수조사를 벌이기도 했다.&lt;br&gt;&lt;br&gt;서울중앙지검은 지난 16일에는 내부 ‘레드팀 회의’를 4시간 동안 진행하는 등 막판까지 법리 검토를 이어간 끝에 최종적으로 불기소 처분을 내렸다. 고발장 접수 4년 6개월 만이다.&lt;br&gt;&lt;br&gt;한편 검찰은 최은순씨 등 그간 기소되지 않았던 계좌주들도 함께 불기소 처분했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산도서관, 노벨문학상 한강 작품세계 특별전...독서동아리 토론회도</title>
+      <link>https://www.chosun.com/national/regional/2024/10/17/WEO4GXYJRJG7XICXWCH23JSYLU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/17/WEO4GXYJRJG7XICXWCH23JSYLU/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 00:47:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XX45TNREKBIS3JE3DXH2RYQXAU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 15일 서울 여의도 국회도서관 중앙홀에 마련된 '한강 작가 노벨문학상 수상 특별전'을 찾은 시민이 '소년이 온다'를 읽고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산도서관은 노벨문학상을 수상한 한강(54)의 책을 전시하는 특별전과 작품세계를 살펴보는 다양한 프로그램을 마련한다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;부산도서관은 “한강 작가에 관한 대중의 관심이 노벨문학상 수상으로 폭발적으로 증가하면서 주요 저서가 매진되거나 대출이 어려운 상황에서 시민들이 한강 작가와 주요 저서를 알 수 있도록 행사를 마련했다”고 밝혔다.&lt;br&gt;&lt;br&gt;먼저 한강의 작품세계를 그의 주요 저서를 통해 살펴볼 수 있도록 도서관 2층 특화자료실에서 연말까지 특별전시를 한다. 특화자료실에는 노벨문학상을 비롯한 국내외 유수 문학상 수상작과 스테디셀러 도서 1400여권이 비치돼 있다.&lt;br&gt;&lt;br&gt;또 시민들이 다 읽은 책을 지역 서점에 가져가면 책값의 50%를 도서교환권으로 주는 ‘행복한 책 나눔 사업’을 통해 회수한 도서 1만3700여권 중 한강 작가의 저서만을 선별해 임시도서로 등록하는 방법으로 연말까지 특별 도서 열람 기회를 제공한다.&lt;br&gt;&lt;br&gt;부산도서관이 지원하는 독서동아리는 한강의 책을 읽고 작품의 의미를 알아보고 생각을 나눈다. 처음으로 17일 강서구 오래서점 오래나르샤 회원들이 한강의 책 ‘작별하지 않는다’를 읽고 토론한다.&lt;br&gt;&lt;br&gt;강은희 부산도서관장은 “많은 시민이 한강 작가의 작품세계를 이해해보고, 이를 계기로 국내외 거장들의 문학세계를 폭넓게 아는 기회가 되길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>복통 호소한 50대, 병원 10곳서 이송 거부…결국 이틀 뒤 사망</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/17/OFKOQBYNPFE7HPL4W7OOU6IRRM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/17/OFKOQBYNPFE7HPL4W7OOU6IRRM/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 00:01:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FFFJ2DOGZRNY5KRI7OSSH3F6LM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;응급실 관련 이미지. 이번 사건과 직접적인 관련 없음. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의정 갈등으로 인한 의료 공백이 길어지고 있는 가운데 복통을 호소한 50대 남성이 병원 10곳으로부터 이송을 거부당하고 뒤늦게 치료를 받았으나 끝내 사망한 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;16일 보건복지부와 경남소방본부 등에 따르면 지난달 6일 오전 3시 28분쯤 경남 거제 연초면에 사는 50대 남성 A씨가 복통과 구토 증세를 보인다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;A씨는 전날 오후 9시쯤 아랫배 통증 등으로 인근 응급실을 방문했으나, 컴퓨터단층촬영(CT) 등에서 특이사항이 발견되지 않아 진통제를 맞고 귀가한 상태였다.&lt;br&gt;&lt;br&gt;신고를 받고 구급대원들이 현장에 도착했을 당시 환자의 의식은 명료했으나, 아랫배 통증과 구토 증상 등을 호소했다.&lt;br&gt;&lt;br&gt;구급대는 A씨가 전날 방문한 의료기관으로부터 비뇨기학과 진료 필요성이 있다는 소견을 듣고, 치료에 적합한 병원을 찾기 시작했다.&lt;br&gt;&lt;br&gt;이 과정에서 창원과 진주, 부산 등 병원 10곳에 전화로 이송 문의를 했으나 거절당했다.&lt;br&gt;&lt;br&gt;구급대는 수소문 끝에 같은 날 오전 4시 46분쯤 거제지역 한 병원에 A씨를 이송했다. A씨는 급성 복막염 진단을 받았으나 의료진 부족 등 이유로 수술은 받지 못했다.&lt;br&gt;&lt;br&gt;A씨는 최종적으로 같은 날 오전 8시 53분쯤 도착한 부산 소재 한 병원에서 수술을 받고 중환자실에 입원했으나 이틀 뒤 숨졌다.&lt;br&gt;&lt;br&gt;복지부는 이날 설명자료를 통해 “당시 환자의 의학적 상태 변화 및 의료기관 처치 내역, 최초 이송 병원 선정 및 전원 과정 등에 대한 세부적인 사항은 관할 지자체를 통해 조사할 예정”이라며 “사실관계 파악 후에 추가적인 조사가 필요할 경우 보건복지부 차원의 직접 조사도 검토하겠으며, 대응 과정에서 미흡한 부분이 확인될 경우 관련 대책을 강구할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“가발처럼 빽빽해진다”… 허위 광고 논란에 사과한 개그맨 </title>
+      <link>https://www.chosun.com/national/national_general/2024/10/17/PEJ35XZVUNF7HOFRKAY4MFVHZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/17/PEJ35XZVUNF7HOFRKAY4MFVHZ4/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 00:21:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PAKDXMSLOFPHJCAHCFR5AC34NU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;임우일. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개그맨 임우일이 탈모 관련 제품 허위 광고 논란에 대해 사과했다. &lt;br&gt;&lt;br&gt;임우일은 17일 유튜브 채널을 통해 “늦은 나이에 받는 관심과 수익에 눈이 멀어 바보같이 광고를 찍으면서도 이 광고가 문제가 될 거라고는 전혀 생각하지 못했다”며 “광고가 논란이 된 걸 인지한 이후 대행사에 상황을 전달했고, 논란이 된 광고를 모두 내려달라고 요청했다”고 했다. &lt;br&gt;&lt;br&gt;논란이 불거진 광고는 임우일이 최근 홍보한 한 화장품 업체의 탈모 관리 제품이다. 임우일은 이 제품을 두고 “(머리숱이) 가발처럼 빽빽해진다” “(바르면 머리카락이) 이렇게 잘 자란다” “잔머리가 조금씩 올라온다” 등의 표현을 썼다. &lt;br&gt;&lt;br&gt;고발 전문 유튜버 ‘사망여우’가 지난 10일 “이렇게 광고하면 안 된다”며 허위 과대 광고를 지적하는 글을 올리면서 논란이 시작됐다. 온라인상에서는 “광고는 본인 브랜드가치로 무언가를 담보하는 행위인데 왜 아무 생각이 없냐” “연예인들 저런 사기 광고 제대로 한번 일 터져야 한다” 등의 지적이 제기됐다. “임우일 광고 보고 2개 샀는데, 머리카락이 더 빠져서 하나도 다 쓰지도 못하고 버렸다” 등 실제로 피해를 입었다는 사례도 나왔다. &lt;br&gt;&lt;br&gt;이와 관련, 임우일은 “제 무지함으로 부족한 저를 응원해 주시는 분들에게 피해를 끼쳐드려서 정말 죄송하다”며 “앞으로는 이와 같은 문제가 생기지 않게 늘 주의하겠다”고 했다. &lt;br&gt;&lt;br&gt;임우일은 2011년 KBS 26기 공채 개그맨으로 데뷔했으나 긴 무명 생활을 거치다 최근 유튜브를 통해서 주목받았다. 후배 이승환과 지난 2022년부터시 시작한 유튜브 채널 구독자 수는 약 61만 500명이다. 일상 속 소재를 활용해 공감대를 모으는 스케치 코미디가 주요 콘텐츠다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>얼룩덜룩 불량 우동 내놓고 “XX새끼야”…입금자명으로 욕한 점주</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/17/AD6VUXTDGZAVRDG323QO3TGAHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/17/AD6VUXTDGZAVRDG323QO3TGAHU/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 00:12:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QADUW33BUVDKVKWROR26EZIKGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구의 한 식당에서 나온 얼룩덜룩한 면발의 우동(왼쪽)과 환불금 계좌이체 내역 관련 문자메시지./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구의 한 음식점에서 음식 상태가 불량해 환불을 받은 손님이 업주로부터 욕설을 들었다는 사연이 전해졌다.&lt;br&gt;&lt;br&gt;16일 온라인 커뮤니티 보배드림에는 ‘대구 음식점의 기가 막힌 대처. 도와주세요’라는 제목의 글이 올라왔다.&lt;br&gt;&lt;br&gt;작성자는 최근 직장 후배와 한 프랜차이즈 음식점을 찾아 텐동 2개와 우동 2개를 주문했다. 준비된 음식 중 우동의 면발 상태가 불량했다. 얼룩덜룩하고 익지 않은 듯 질긴 상태였다.&lt;br&gt;&lt;br&gt;이에 작성자는 직원을 불러 “우동이 정상품이 맞나. 인터넷에 찾아봐도 이런 면은 아닌 것 같다”고 물었다. 직원은 곧 다시 삶은 우동을 제공했지만 상태는 비슷했다.&lt;br&gt;&lt;br&gt;작성자는 “그때 당시에는 ‘원래 이런가보다’ 싶었다. 우동은 좀 찝찝해서 남기고 (음식값은) 다 결제하고 나왔다”고 했다. &lt;br&gt;&lt;br&gt;가게를 나선 작성자는 이후 면발의 상태가 이상하다는 생각이 들어 프랜차이즈 본사에 문의했다. 본사 고객관리팀은 “냉동 면을 사용하는데 간혹 그런 불량이 나온다. 해당 대리점 측에 우동값은 환불 조치하라고 하겠다. 죄송하다”고 사과했다.&lt;br&gt;&lt;br&gt;그로부터 이틀 뒤 작성자는 계좌로 우동 값을 환불받았다. 이때 입금 알림 문자를 보고 경악을 금치 못했다고 한다. 그가 공개한 메시지를 보면 입금자명에 ‘XX 새끼야’라는 욕설이 적혀 있다.&lt;br&gt;&lt;br&gt;작성자는 “입금자명을 바꿔서 보냈더라. 사람이 어떤 생각과 마음을 갖고 있으면 이렇게 할 수가 있는 거냐. 화도 안 난다. 어이가 없었다”고 했다.&lt;br&gt;&lt;br&gt;이 사실을 본사 측에 알린 작성자는 본사로부터 “2회 적발 시 영업정지를 내릴 수 있는 1회 경고 조치에 관한 내용증명을 보내겠다”는 답변을 들었다고 한다.&lt;br&gt;&lt;br&gt;작성자는 “맹세컨대 흔히 이야기하는 진상짓이나 블랙컨슈머 같은 일은 해본 적 없고 정당한 문의였다”며 “이런 경우는 살다 살다 처음이라 어떻게 대처해야 할지 모르겠다. 저런 마인드를 가진 장사꾼을 어떻게 정신 차리게 해줄 수 있겠나”며 조언을 구했다.&lt;br&gt;&lt;br&gt;이후 작성자는 추가로 글을 올려 “본사 통해서 점주의 말을 전해 들었다. ‘욱해서 그랬다’란다. 절대로 장사를 해서는 안 되는 마음가짐을 갖고 계신 듯하다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “본인이 얼마나 해서는 안 될 행동을 했는지 많이 느꼈으면 좋겠고, 본사에게는 점주에게 정말 진정성 있는 사과를 할 수 있는 방법을 생각해서 연락 달라고 했다”며 업주 측의 진정성 있는 사과문과 함께 합의금에 준하는 금액을 아동시설에 기부하는 방식을 원한다고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 학생에게 쓰라고 줬더니…교직원 무이자 대출해 준 교육청</title>
       <link>https://www.chosun.com/national/education/2024/10/17/UK6VRNWQ7RB5HABE3TY25W7YEI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/17/UK6VRNWQ7RB5HABE3TY25W7YEI/</guid>
@@ -741,113 +876,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBWHX7XO45GUBPSKBQHO3PERTQ.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[두근두근 뇌 운동] [2434] 쿵작쿵작 장단 치기</title>
-      <link>https://www.chosun.com/national/nie/2024/08/02/ONGVFNFTWVCHXP5TWS5CS4EAXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/02/ONGVFNFTWVCHXP5TWS5CS4EAXQ/</guid>
-      <description/>
-      <pubDate>Thu, 01 Aug 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5RMZLXM6GFBILP44OCIXFUN7I4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2435] 알록달록 단어팔레트</title>
-      <link>https://www.chosun.com/national/nie/2024/08/05/EPZ54TJSMJCKDCXJDJZKMEDHTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/05/EPZ54TJSMJCKDCXJDJZKMEDHTM/</guid>
-      <description/>
-      <pubDate>Sun, 04 Aug 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QCJU6NE5F5BAHFRDZ2W4SRLBWY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2436] 따르릉 글자교환소</title>
-      <link>https://www.chosun.com/national/nie/2024/08/06/OWPUEGS6JVG5XOADAPSJUMDCAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/06/OWPUEGS6JVG5XOADAPSJUMDCAQ/</guid>
-      <description/>
-      <pubDate>Mon, 05 Aug 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7MI32GEO2FGH7PQ3DB7NFLAWPU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2437] 손가락 낭독회</title>
-      <link>https://www.chosun.com/national/nie/2024/08/07/JN3QHXS3HVF2XLJTTP3BACDC6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/07/JN3QHXS3HVF2XLJTTP3BACDC6M/</guid>
-      <description/>
-      <pubDate>Tue, 06 Aug 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UIPNNMO76RHWHAV4TQE63GHJP4.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2438] 초성 이어가기</title>
-      <link>https://www.chosun.com/national/nie/2024/08/08/RVJISN5PUFEETBYBENWFSWZCPQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/08/RVJISN5PUFEETBYBENWFSWZCPQ/</guid>
-      <description/>
-      <pubDate>Wed, 07 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HPC6KCMMYBBI3P7SP2NOPBLIIQ.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2439] 얼굴 삼행시</title>
-      <link>https://www.chosun.com/national/nie/2024/08/09/CACTDYMF3NA4VCA7JQS27CZPTQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/09/CACTDYMF3NA4VCA7JQS27CZPTQ/</guid>
-      <description/>
-      <pubDate>Thu, 08 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XIW57O2IDFHFTLMEL67Y3WSG3I.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2443] 칼럼 풀어 읽기</title>
-      <link>https://www.chosun.com/national/nie/2024/08/16/SLAAIBSAOJBRTCTI4AKE532FKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/08/16/SLAAIBSAOJBRTCTI4AKE532FKI/</guid>
-      <dc:creator>장형태 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 15 Aug 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E7KIIHPKRBHJFHRXXSOVVOKC5I.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2455] 퍼즐 맞추기</title>
-      <link>https://www.chosun.com/national/nie/2024/09/03/ESTLKM5BLZANND2ZED44J7YO7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/09/03/ESTLKM5BLZANND2ZED44J7YO7Y/</guid>
-      <description/>
-      <pubDate>Mon, 02 Sep 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FGYIOGX3DFFI3C42X56SQNPYO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2456] 돌려라 룰렛 계산기</title>
-      <link>https://www.chosun.com/national/nie/2024/09/04/S3PLG3G7OJCKNPU2HZADZP7PCA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/09/04/S3PLG3G7OJCKNPU2HZADZP7PCA/</guid>
-      <description/>
-      <pubDate>Tue, 03 Sep 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VAQ6NRNYHFDDHHCF2RMSZNXIBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2457] 칙칙폭폭 꼬리 잇기</title>
-      <link>https://www.chosun.com/national/nie/2024/09/05/WOZNHGQMYBA5HDXCQ4HQ2GKMV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/09/05/WOZNHGQMYBA5HDXCQ4HQ2GKMV4/</guid>
-      <description/>
-      <pubDate>Wed, 04 Sep 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MV7DFKPCMJCHVML4HYJLHMHQUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2464] 오늘은 뭘 볼까</title>
-      <link>https://www.chosun.com/national/nie/2024/09/19/WLTMZCFJZBETNOMZVUSDU3QJUM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/09/19/WLTMZCFJZBETNOMZVUSDU3QJUM/</guid>
-      <description/>
-      <pubDate>Wed, 18 Sep 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J3Q6H6Y2KBCSHFHTWBVRLGTRZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>여자 때려 구속된 ‘징맨’ 황철순, 2심서 3000만원 공탁...피해자는 거절</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/16/25VXBY4GYVAPNNPMK7JWZ25XBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/25VXBY4GYVAPNNPMK7JWZ25XBM/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 08:00:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IE4MG7R3J5CN5DBMVKKWKMJGPE.png"&gt;&lt;figcaption&gt;&lt;small&gt;/황철순 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;과거 tvN 코미디빅리그에서 ‘징맨’으로 알려진 보디빌더 황철순씨가 폭행 혐의 항소심에서 여성 피해자에게 3000만원을 공탁했지만 피해자가 거절하면서 선고가 내달로 연기됐다.&lt;br&gt;&lt;br&gt;16일 법조계에 따르면, 서울중앙지법 형사항소2-1부(재판장 곽정한 부장판사)는 폭행치상 등 혐의로 기소된 황철순에 대한 항소심 선고기일을 내달 13일로 연기했다.&lt;br&gt;&lt;br&gt;황철순은 항소심에서 3000만원을 공탁했지만, 피해 여성은 공탁금 수령을 거절한 것으로 알려졌다. 황철순은 1심에서도 피해자를 위해 2000만원의 공탁금을 걸었는데 거절당했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인이 당심에서 추가로 공탁금을 냈는데 15일 피해자 측에서 공탁금 수령의사가 없다는 내용의 의견서를 제출했다”며 “이를 어떻게 양형에 반영해야 할지 좀 더 고민해봐야 할 것 같다”며 선고 연기 이유를 밝혔다.&lt;br&gt;&lt;br&gt;황철순은 작년 10월 16일 전남 여수시의 한 건물 야외 주차장에서 피해 여성인 A씨와 말다툼을 하다가 A씨를 수차례 폭행한 혐의를 받는다.&lt;br&gt;&lt;br&gt;황철순은 주먹으로 A씨의 얼굴과 머리를 때리고 A씨의 머리채를 잡은 뒤 차량으로 끌고 가 조수석에 앉혀 폭행을 이어간 것으로 조사됐다.&lt;br&gt;&lt;br&gt;폭행을 당한 A씨는 3주간의 치료가 필요한 골절 등 상해를 입었다. 황철순은 같은 해 8월 1일 자신의 주거지에서도 A씨의 머리를 2~3회 때리고 머리채를 잡아끄는 등 폭행한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;황철순은 1심에서 실형을 선고받았다. 원심을 맡은 서울중앙지법 형사2단독 박소정 판사는 “피해자가 입은 상해 정도가 중하고, 피해자가 느꼈을 공포심이 상당하다”고 했다. 그러면서 도주 우려를 이유로 법정 구속했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>30초 만에 싹쓸이… 제주여행 왔다 금은방 턴 10대 일행 징역형 구형</title>
-      <link>https://www.chosun.com/national/regional/jeju/2024/10/16/3ZXEJYKWAFFHXEVES5QAXPWMOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/jeju/2024/10/16/3ZXEJYKWAFFHXEVES5QAXPWMOY/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 06:58:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6I72GNH5JEORMWBMJWXYVV3R4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;금은방 유리 출입문 깨는 피의자/ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주도에 여행을 왔다가 금은방을 턴 10대 일행이 징역형을 구형받았다.&lt;br&gt;&lt;br&gt;16일 연합뉴스에 따르면, 제주지검은 제주지법 형사3단독(전용수 부장판사) 심리로 열린 공판에서 특수절도 등 혐의로 구속기소 된 10대 A군과 B군에게 각각 징역 장기 1년 6개월, 단기 1년을 선고해달라고 요청했다.&lt;br&gt;&lt;br&gt;함께 기소된 20대 C씨에게는 수사 단계에서 자백과 부인을 반복한 태도 등을 고려해 징역 2년을 구형했다.&lt;br&gt;&lt;br&gt;이들은 지난달 13일 오전 2시 10분쯤 제주시 일도동의 한 금은방 유리문을 깨고 안으로 들어가 3600만원 상당의 귀금속을 훔친 혐의를 받는다.&lt;br&gt;&lt;br&gt;수사 결과 오토바이 헬멧과 검정 옷을 입은 A군은 돌로 금은방 유리문을 부순 뒤 들어가 진열대에 있던 순금 팔찌 등을 쓸어담았다. B군은 오토바이를 탄 채 기다리다 범행을 마친 A군을 태워 달아났다.&lt;br&gt;&lt;br&gt;침입부터 도주까지 30초가량 걸렸으며, 범행에 사용된 오토바이와 헬멧은 훔친 것으로 조사됐다. 유일한 성인인 C씨는 모텔에서 대기하며 이들과 수시로 연락을 나눴던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경비업체 신고를 접수한 경찰은 사건 발생 2시간 30분 만인 오전 4시 50분쯤 제주시 한 모텔에 숨어있던 이들을 검거하고 피해품도 모두 회수했다. 이들이 훔친 귀금속은 3594만원 상당으로 파악됐다.&lt;br&gt;&lt;br&gt;이들은 제주로 여행을 왔다가 떠나기 전 생활비를 마련하기 위해 범행한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;피고인들은 모두 혐의를 인정했다. A군 변호인은 “합의를 위해 노력 중”이라며 “아직 어리고 처벌 전력이 없으며, 반성하는 점 등을 고려해 선처 바란다”고 했다.&lt;br&gt;&lt;br&gt;B군 변호인은 “초범이고 나이가 어리며, 피해품이 회수된 점 등을 고려해달라”고 했다. C씨 변호인은 “수사 초기에는 책임을 회피하기도 했으나 잘못을 인정하고 반성하고 있다”며 선처를 호소했다.&lt;br&gt;&lt;br&gt;선고 공판은 다음 달 열릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 헌재법에 위헌소송? 상식깬 발상으로 헌재 마비 막은 변호사</title>
       <link>https://www.chosun.com/national/court_law/2024/10/16/KQ7RX6TITFDHTCB4WDTYNILM6E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/16/KQ7RX6TITFDHTCB4WDTYNILM6E/</guid>
@@ -873,24 +901,6 @@
       <description/>
       <pubDate>Wed, 16 Oct 2024 07:27:40 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UPNA5ZYHB5C53FNT3Q5WBZ2VGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 성시경 유튜브 채널에 출연한 배우 장동건. /성시경 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 성시경(45)이 사생활 논란이 있었던 배우 장동건(52)을 자신의 유튜브 채널에 출연시켰다가 악플에 시달리고 있다.&lt;br&gt;&lt;br&gt;지난 14일 성시경의 개인 유튜브 채널 ‘성시경’에는 배우 장동건과 영화감독 허진호가 게스트로 출연해 다양한 주제로 이야기를 나눴다.&lt;br&gt;&lt;br&gt;성시경은 장동건과의 인연이 20년가량 됐다며 “(장동건과 처음 만난 후)술 먹고 들어갔는데 다음 날 ‘잘 들어갔니? 다음에 꼭 보자’라면서 연락도 하더라”라며 “형이 워낙 슈퍼스타에 잘생기고 다정하고 성격 좋고 하니까 뭐 개를 발로 찬다거나 내성 발톱이 있다거나, 큰 단점이 하나는 있을 줄 알았다”고 했다.&lt;br&gt;&lt;br&gt;함께 출연한 허진호 감독도 “나는 동건이가 화를 내는 걸 딱 한 번 봤다”며 장동건의 인성을 칭찬했다.&lt;br&gt;&lt;br&gt;하지만 장동건은 지난 2020년 배우 주진모와 나눈 낯 뜨거운 내용의 사적인 대화 메시지가 유출되면서 사생활 논란에 휩싸인 바 있다. 장동건은 당시 유부남이었다.&lt;br&gt;&lt;br&gt;네티즌들은 “진짜 이건 아니다” “아무리 유튜브라도 적당히 하자” “장동건은 사적으로 만나라” “성시경이 (장동건은) 단점 없는 사람이라는 발언을 해서 더 욕먹게 만드는 거 같다” “나중에 (버닝썬 사태 핵심 인물인) 승리도 게스트로 나오겠다” “이럴 거면 (불법도박을 한)이진호랑 승리도 불러라” “구독 취소하겠다” 등의 댓글을 달며 반발했다.&lt;br&gt;&lt;br&gt;반면 “집단광기의 현장이다. 보기 싫으면 그냥 보지 마라” “연예인한테는 무슨 성직자 같은 기준을 요구하는 게 웃기다” “장동건이 다른 방송에도 출연했었는데 왜 성시경만 비판하나” 등의 반응을 보이며 성시경을 감싼 네티즌들도 있었다.&lt;br&gt;&lt;br&gt;한편 장동건은 최근 허진호 감독의 영화 ‘보통의 가족’에 출연해 사생활 논란 이후 4년 만에 스크린에 복귀했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘배터리 군납 비리’ 에스코넥 직원 영장 심사 당일 숨진 채 발견</title>
-      <link>https://www.chosun.com/national/regional/2024/10/16/KU7CVTBG3RGSDMJV3OWQP5E7IU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/16/KU7CVTBG3RGSDMJV3OWQP5E7IU/</guid>
-      <dc:creator>수원=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 05:01:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/44FQMUQWNEQB7ZEV2UUC3ZKC4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박순관 에스코넥 대표가 6월 25일 오후 경기 화성 아리셀 공장 화재 현장에서 고개 숙여 사과하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 화성 일차전지 제조업체 아리셀 화재사고 수사 과정에서 배터리 군납 비리가 적발돼 수사를 받아온 모회사 에스코넥 관계자가 구속영장 심사 당일 사망한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;16일 경기 화성서부경찰서에 따르면 이날 오전 11시쯤 화성시 장안면 단독주택에서 에스코넥 관리자급 직원 A씨가 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;A씨는 국방부의 품질검사를 조작해 불량 배터리를 납품한 혐의와 관련해 이날 오전 10시30분 수원지법에서 구속 전 피의자 심문(영장실질심사)을 받을 예정이었다. 그러나 법원에 나오지 않고 연락이 닿지 않자 소재 확인에 나선 경찰에 발견됐다.&lt;br&gt;&lt;br&gt;아리셀 화재 사고를 수사하던 경찰은 아리셀이 2021년 군납을 시작할 당시부터 품질검사를 조작해 올해 2월까지 47억원 상당을 납품한 정황을 포착했다. 에스코넥도 2017∼2018년 국방부에 전지를 납품할 당시 시험데이터를 조작하는 수법으로 품질검사를 통과한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이에 따라 경찰은 아리셀과 에스코넥의 전현직 임직원 24명을 형사 입건해 조사해왔으며, 이 가운데 혐의가 무거운 A씨 등 3명에 대해 지난 10일 사전구속영장을 신청했다. &lt;br&gt;&lt;br&gt;법원은 이날 A씨를 제외한 2명에 대해서만 실질심사를 진행했다. 이들의 구속 여부는 오후 늦게 나올 전망이다.&lt;br&gt;&lt;br&gt;한편 아리셀 박순관 대표와 박중언 총괄본부장은 지난 6월 24일 아리셀 공장에서 불이 나 근로자 23명이 숨지고 8명이 다친 화재 사고와 관련해 구속 기소된 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“중년 간부인데 군복 입었다고 밥값 대신 결제” 이어지는 미담</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/16/L7RBWVVCBFEH3EQMBPQTL6BVSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/16/L7RBWVVCBFEH3EQMBPQTL6BVSY/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Oct 2024 02:38:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AMPAI4PJ4BI7BCIWYW2J3IMTZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;휴가를 나온 군 장병들. 기사와 직접적인 관련 없음. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 시민이 중년 군 간부들의 밥값을 대신 결제해주고 사라졌다는 훈훈한 사연이 알려졌다. 최근 온라인상에서는 시민들이 군복을 입은 장병들의 식사비나 커피값을 대신 결제했다는 미담이 이어지고 있다.&lt;br&gt;&lt;br&gt;16일 군대 관련 페이스북 페이지 ‘육군훈련소 대신 전해드립니다’(이하 육대전)에는 한 군 간부의 감사인사가 올라왔다.&lt;br&gt;&lt;br&gt;중년의 직업군인이라는 글 작성자 A씨는 “저에게도 이런 일이 일어났다”고 놀라워하며 최근 자신이 겪은 일을 소개했다.&lt;br&gt;&lt;br&gt;A씨는 “강원도 양구에 있는 21사단으로 출장 차 오게 되었다”며 “지난 15일 시내에 있는 육개장집에서 점심을 먹고 나온 뒤, 일행 1명과 결제를 하려 했는데 직원이 ‘뒤 테이블에 계셨던 아주머니가 군인들 고생한다고 결제하고 가셨다’고 전했다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 “어안이 벙벙했다”며 “저흰 병들도 아니고 군복 입은 중년 남자 둘이었다. 감사함, 미안함, 뿌듯함 이런 감정들을 느낀 하루였다”라고 했다.&lt;br&gt;&lt;br&gt;이어 “아내에게 말했더니 ‘대한민국 아직 죽지 않았네’라고 하더라”며 “혹시 이 글을 보실진 모르겠지만, 덕분에 감사히 잘 먹었다! 베풀어주신 마음 소중히 받겠다! 감사하다!”고 했다.&lt;br&gt;&lt;br&gt;한편 온라인상에서는 20대 여성이 식당에서 합석했던 군인의 식사비를 몰래 내줬다거나, 한 시민이 휴가를 나와 혼자 칼국수를 먹고 있는 육군 장병의 식사비를 대신 결제해줬다는 등의 미담이 이어지고 있다.&lt;br&gt;&lt;br&gt;지난해 10월엔 군인이 시킨 음료 뚜껑에 ‘나라를 지켜주셔서 감사합니다’라는 문구를 적어 전달한 카페 알바생이 국가보훈부 장관으로부터 직접 감사 인사를 받기도 했다.&lt;br&gt;&lt;br&gt;박민식 당시 국가보훈부 장관은 당초 카페 알바생 하지호씨에게 태블릿PC를 선물하려고 했으나, 하씨는 “작은 행동이 누군가에겐 큰 기쁨이 될 수 있다고 평소에 생각한 것이기에 큰 선물을 받을 수 없다. 차라리 국가유공자에게 기부하고 싶다”며 거절한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
