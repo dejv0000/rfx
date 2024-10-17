@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>﻿떡볶이, 어묵, 튀김 15개, 모둠전…이 모든 게 1만원인 분식집</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/18/BSFXOPIAMBHADD45WWXY6V4JII/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/18/BSFXOPIAMBHADD45WWXY6V4JII/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Oct 2024 22:21:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2SSKU5JFYVHCNIO5JQMWLIWZQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 동래구의 한 음식점에서 1만원에 판매하는 '마감 떨이' 상품. /에펨코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 분식집에서 이른바 ‘마감 떨이’ 상품으로 당일 조리된 음식을 1만원에 판매해 화제가 되고 있다. &lt;br&gt;&lt;br&gt;지난&amp;nbsp;12일&amp;nbsp;한&amp;nbsp;온라인&amp;nbsp;커뮤니티에는&amp;nbsp;‘분식집&amp;nbsp;만원&amp;nbsp;랜덤박스&amp;nbsp;혜자&amp;nbsp;도전’이라는&amp;nbsp;글이&amp;nbsp;올라왔다.&amp;nbsp;이&amp;nbsp;글은&amp;nbsp;34만회&amp;nbsp;가까이&amp;nbsp;조회됐고,&amp;nbsp;다른&amp;nbsp;온라인&amp;nbsp;커뮤니티에도&amp;nbsp;‘부산&amp;nbsp;분식집&amp;nbsp;1만원&amp;nbsp;랜덤박스’라는&amp;nbsp;글로&amp;nbsp;퍼졌다.&lt;br&gt;&lt;br&gt;글쓴이 A씨는 부산 동래구 사직동의 한 분식집에서 오후 9시부터 마감 시간까지만 판매하는 ‘오늘의 마감 랜덤 음식’ 메뉴를 소개했다. 당일 조리됐던 음식을 ‘사장님 마음대로’ 보내주기에 어떤 음식을 받게 될지는 알 수 없다. “사장님 믿고 주문해 보는 메뉴”라는 설명이 붙었다. &lt;br&gt;&lt;br&gt;1만원을 내고 A씨가 받은 음식의 종류는 11가지나 됐다. 어묵 4개, 떡볶이 떡 5개, 쥐포 튀김 3개, 고구마튀김 2개, 새우튀김 5개, 오징어튀김 5개, 꼬지산적 1개, 명태전 2개, 동그랑땡 2개, 소고기 육전 1개, 부추전 1장 등이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7FQ2ARUPBVEO3J2JASQBB53GFU.png"&gt;&lt;figcaption&gt;&lt;small&gt;글쓴이 A씨가 지난달 '오늘의 마감 랜덤 음식'을 주문하고 받은 음식. /에펨코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 한 달 전에도 같은 메뉴를 주문한 사진을 공개했었다. 당시에는 오징어튀김, 새우튀김, 돼지고기 깻잎전, 동그랑땡에 부추전과 김치전이 배달됐다. &lt;br&gt;&lt;br&gt;네티즌들은 “1만원인데 무슨 2인분이 오나” “3만원 받아도 될 듯한 양” “이 정도면 원가만 받고 파는 것”이라며 놀라워했다. &lt;br&gt;&lt;br&gt;일각에서는 “떡볶이와 어묵은 못 팔면 버려야 하니 사장님한테도 이득일 텐데, 튀김류는 다음날까지 파는 곳도 있던데 당일 판매만 한다는 믿음이 생긴다”는 반응도 나왔다. 해당 음식점에서 음식을 구매한 영수증을 인증한 후 작성된 리뷰에는 “튀김이 깔끔하다” “양도 푸짐하고 맛있다”는 내용이 있었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 조희연은 물러났지만 특별채용 해직 교사들 아직 학교에 남아 있어</title>
       <link>https://www.chosun.com/national/education/2024/10/18/HAPM7KZMG5BKDOHR7ASPPRMCVA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/18/HAPM7KZMG5BKDOHR7ASPPRMCVA/</guid>
@@ -764,19 +773,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/G74WARW5MBOB7LVBLCY64CLQP4.JPG?width=5498&amp;height=3806&amp;auth=f70e16974fcfc56651324b34a31443ebd7e0c9ad70494e2cb62d420ba8ae7789&amp;smart=true" type="image/jpeg" height="3806" width="5498">
         <media:description type="plain">(서울=뉴스1) 안은나 기자 = 경찰청 및 시·도청 안보수사팀장 및 책임안보수사관 지원자들이 15일 서울 서대문구 경찰청에서 열린 안보수사 지휘역량 평가시험에서 시험 시작을 기다리고 있다. 2023.6.15/뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 안은나 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>화성시, 불법도박 이진호 홍보대사서 해촉</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/17/J277EHBJIZHFPBMGTN7S32AI6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/17/J277EHBJIZHFPBMGTN7S32AI6A/</guid>
-      <dc:creator>김병권 기자, 안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Oct 2024 05:55:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GGM6342IVRNVJJECCGFNFMNKNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;코미디언 이진호. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인터넷 불법도박 사실을 인정한 개그맨 이진호(38)씨가 화성시 홍보대사에서 해촉됐다.&lt;br&gt;&lt;br&gt;화성시는 “이진호씨를 화성시 홍보대사에서 해촉했다”고 17일 밝혔다. 화성 출신인 이씨는 지난해 3월 제23회 화성시 시민의날 기념식에서 화성시 홍보대사로 위촉됐다.&lt;br&gt;&lt;br&gt;화성시는 “이씨가 불법도박 사실을 인정한 이후 홍보대사를 그만두고 싶다는 뜻을 밝혀왔고, 시에서도 해촉 사유가 있다고 봤다”며 “지난 16일 해촉 결재안을 올렸고, 오늘 결재가 났다”고 밝혔다.&lt;br&gt;&lt;br&gt;이씨는 지난 14일 본인 인스타그램에 “2020년 우연한 기회로 인터넷 불법 도박사이트에서 게임을 시작하게 됐고, 감당하기 힘든 빚을 떠안게 됐다”며 “금전적인 손해도 손해지만, 무엇보다 나를 믿고 돈을 빌려주신 분들께 너무 죄송했다”는 글을 올렸다.&lt;br&gt;&lt;br&gt;이씨는 동료 연예인들에게 약 10억원을 빌렸고, 대부업체에서 대출한 돈도 13억원이 넘는 것으로 알려졌다. BTS 지민과 개그맨 이수근씨도 이씨에게 돈을 빌려준 것으로 드러났다. 가수 영탁도 이씨에게 돈을 빌려줬다가 전액 돌려받았다고 한다.&lt;br&gt;&lt;br&gt;한편 강남경찰서는 이씨의 불법도박과 관련, 입건 전 조사(내사)에 착수한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GGM6342IVRNVJJECCGFNFMNKNE.jpg?width=3402&amp;height=2407&amp;auth=c8bd12d089d05d2a2074efdf3cf7ea646dbcf095f1ba5597e7c7747faca73ecd&amp;smart=true" type="image/jpeg" height="2407" width="3402">
-        <media:description type="plain">코미디언 이진호. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
       </media:content>
     </item>
     <item>
