@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“군인 밥값 내줬다” 미담 ‘봇물’…국방장관 “장병 대신해 감사”</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/19/Z5JHRL7D5VBBRKCLDDKVSYQFVA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/19/Z5JHRL7D5VBBRKCLDDKVSYQFVA/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Oct 2024 22:15:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7DOFO43LCW6HEHU2BVK4VWZQDQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 국방부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 온라인상에서 시민들이 군복을 입은 장병들의 식사비나 커피값을 대신 결제했다는 미담이 이어지자 김용현 국방부 장관이 직접 감사의 인사를 전했다.&lt;br&gt;&lt;br&gt;김용현 장관은 18일 전하규 국방부 대변인을 통해 “최근 식당이나 카페 등에서 국민 여러분이 (군 장병의) 음식값을 대신 내주시는 등 애정 어린 응원을 보내주신다는 소식을 들었다”며 “이런 소식이 익명으로 전파되다 보니 개별적으로 인사를 드리거나 감사를 표할 수 없어 매우 아쉽게 생각한다. 우리 50만 국군 장병들의 마음을 대신해 언론을 통해 감사한 마음을 전한다”고 했다.&lt;br&gt;&lt;br&gt;이어 김 장관은 “앞으로도 우리 군은 자유대한민국을 굳건히 수호하겠다”며 “국민 여러분의 지속적인 사랑과 성원을 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;국방부에 따르면 지난 6월 16일부터 이달 17일까지 온라인상에 시민들이 군복을 입은 장병들의 식사비나 커피값을 대신 결제해줬다는 미담이 6건 올라왔다.&lt;br&gt;&lt;br&gt;군대 관련 페이스북 페이지 ‘육군훈련소 대신 전해드립니다’(이하 육대전)에는 지난 6월 16일 한 여성이 경기도 의정부의 한 카페에서 커피를 마시고 있는 육군 병사에게 “맛있게 드세요”라며 케이크를 줬다는 사연이 전해졌다.&lt;br&gt;&lt;br&gt;이달 17일엔 휴가를 나와 강원도 원주 터미널 근처에서 식사 중이던 한 공군 병사의 밥값을 청년 2명이 대신 계산해주고 갔다는 사연이 게재됐다. 병사가 감사 인사를 하자 청년들은 “나라 지켜주는 게 감사하다. 따듯한 세상이 됐으면 좋겠다”라며 악수를 청했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FDY7JSC5JVGYPJ5AUMRK5JXSIE.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;카페 직원 하지호(왼쪽)씨와 박민식 당시 보훈부장관. /페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 지난해 10월엔 군인이 시킨 음료 뚜껑에 ‘나라를 지켜주셔서 감사합니다’라는 문구를 적어 전달한 카페 알바생이 국가보훈부 장관으로부터 직접 감사 인사를 받기도 했다.&lt;br&gt;&lt;br&gt;박민식 당시 국가보훈부 장관은 당초 카페 알바생 하지호씨에게 태블릿PC를 선물하려고 했으나, 하씨는 “작은 행동이 누군가에겐 큰 기쁨이 될 수 있다고 평소에 생각한 것이기에 큰 선물을 받을 수 없다. 차라리 국가유공자에게 기부하고 싶다”며 거절한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최동석·박지윤 ‘부부간 성폭행’ 의혹까지…경찰 “확인 중”</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/19/XJA2CZMQEVGOJLARFKER7TV5RM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/19/XJA2CZMQEVGOJLARFKER7TV5RM/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Oct 2024 21:30:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EBNSXEJ4QZFIJNSKG2TSL3JJIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최동석(좌측)과 박지윤. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 최동석(46)과 박지윤(45)이 이혼 과정에서 폭로전을 벌이고 있는 가운데 부부간 성폭행 의혹이 제기돼 경찰이 확인에 나섰다.&lt;br&gt;&lt;br&gt;지난 18일 한 네티즌은 국민신문고에 ‘경찰은 최동석, 박지윤 부부의 성폭행 사건을 철저히 수사해 범죄 혐의가 드러날 시 엄히 처벌받게 해줄 것을 강력히 촉구하는 바입니다’라는 제목의 민원을 접수했다.&lt;br&gt;&lt;br&gt;앞서 한 언론은 두 사람이 이혼 과정에서 나눈 메신저와 녹취록을 공개했는데 박지윤은 “나 겁탈하려고 했다, 성폭행하려고 했다”라고 얘기했고, 최동석은 “왜? 그건 부부끼리 그럴 수 있는 거야”라고 답하는 내용이 담겼다. 박지윤은 최동석에게 “부부끼리도 성폭행이 성립돼”라고 지적했다. 네티즌은 이런 내용을 토대로 민원을 제기한 것으로 보인다.&lt;br&gt;&lt;br&gt;해당 민원은 현재 제주특별자치도 경찰청에 배정됐으며, 경찰은 사실관계를 확인한 후 수사 여부를 정할 방침이다.&lt;br&gt;&lt;br&gt;제주경찰청 관계자는 언론 인터뷰에서 “해당 민원이 국민신문고 민원에 올라와 사실관계를 확인할 예정”이라며 “아직 수사 단계는 아닌 상태”라고 밝혔다.&lt;br&gt;&lt;br&gt;한편 최동석과 박지윤은 KBS 아나운서 30기 입사 동기다. 두 사람은 2009년 결혼해 1남 1녀를 뒀다. 그러나 작년 10월 결혼 14년 만에 이혼 절차를 밟는 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;최동석과 박지윤은 최근 이혼 과정에서 서로 상대방이 불륜행위를 한 것으로 의심된다면서 추가로 손해배상소송을 제기한 상태다.&lt;br&gt;&lt;br&gt;최동석은 여러 논란이 불거진 후 TV조선 이혼 예능프로그램 ‘이제 혼자다’에서 자진 하차했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘가운데 중(中)’의 지혜</title>
       <link>https://www.chosun.com/national/weekend/2024/10/19/XSYUTSLRJZCJXJYFLTBL7DIBEI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2024/10/19/XSYUTSLRJZCJXJYFLTBL7DIBEI/</guid>
@@ -752,24 +770,6 @@
       <description/>
       <pubDate>Fri, 18 Oct 2024 02:22:15 +0000</pubDate>
       <content:encoded>18일 국회 법제사법위원회에서 열린 서울중앙지검 등에 대한 국정감사가 개회 1시간 여만에 파행됐다. 전날 서울중앙지검은 김건희 여사가 ‘도이치모터스 주가 조작’에 연루됐다는 의혹에 대해 불기소 처분하면서 “수사 초기 당시 김 여사의 주거지, 사무실 및 휴대폰에 대해 청구한 압수 수색 영장이 기각됐다”고 밝혔다. 해당 압수 수색 영장엔 도이치모터스 주가 조작과 관련한 혐의인 ‘자본시장법 위반’이 빠져 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F7RZYUMEGFPONOTDKPKYROKDVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이창수 서울중앙지검장이 18일 오전 국회 법제사법위원회의 서울고검, 수원고검, 서울중앙지검 등에 대한 국정감사에서 조상원 서울중앙지검 4차장 검사의 귓속말을 듣고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 서영교 더불어민주당 의원은 “압수 수색 영장에 대한 자료를 요구한다”며 “(도이치모터스 주가 조작이 아닌) 코바나콘텐츠 협찬 의혹에 대한 영장만 청구했다면 대국민 사기극 아니냐”고 주장했다. 정청래 법사위원장도 “관련 보도를 보고 저도 굉장히 분노했다”며 이창수 서울중앙지검장에게 “해당 보도가 맞는지, 검찰 발표가 맞는지” 물었다.&lt;br&gt;&lt;br&gt;이창수 지검장은 “제가 보고받기로는 피의자에 대한 압수 수색 영장 청구는 코바나콘텐츠 관련 사건으로 알고 있다”고 답했다. 정 위원장이 “김건희 피의자에 대해서 그(도이치모터스 주가 조작) 사건에 대해서 압수 수색 영장은 청구를 안 한 게 맞는 것이냐”고 다시 물었고, 이 지검장은 “형식적으로 보면 그 말씀이 맞다”고 했다. 이에 서 의원은 “거짓말”이라며 지적했다.&lt;br&gt;&lt;br&gt;이 지검장은 “2020~2021년에 있었던 일인데, 당시 서울중앙지검 반부패수사2부에서 코바나콘텐츠 협찬 의혹과 도이치모터스 주가 조작 사건을 같이 수사했다”며 “동시에 수사를 진행하면서 어떤 때는 두 가지 피의사실을 같이 (영장에) 쓰기도 하고, 어떤 때는 단독으로 넣기도 했다”고 해명했다. 논란이 된 압수 수색 영장은 2020년 11월 검찰이 청구한 것으로, 이 때 서울중앙지검장은 이성윤 민주당 의원이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DYL3CQXMNNLZNPURBJNJHOQ4KQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 아세안 정상회의 참석에 동행한 김건희 여사가 지난 9일(현지시각) 라오스 비엔티안 왓타이 국제공항에 도착해 환영나온 라오스측 인사와 대화하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주진우 국민의힘 의원은 “모든 영장에 대해 어떤 건 기각됐고, 어떤 건 발부된 건지 (도이치모터스 주가 조작과 관련한) 전체 현황을 제출해달라”고 했다. 주 의원은 “지난 문재인 정부 시기 (김 여사를) 피의자로 특정 못 해서 소환조차 못했다”고도 했다.&lt;br&gt;&lt;br&gt;이 지검장의 발언을 두고 장내 소란이 계속되자 정 위원장은 11시 2분 “의사진행이 어렵다”며 정회를 선포했다. 국정감사는 11시 20분 재개됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>성범죄 출소 11일 만에… 지적장애 여동생 성폭행한 20대 남성</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/18/DGGOXMM3C5CQBKXSWBRVQE2AGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/18/DGGOXMM3C5CQBKXSWBRVQE2AGI/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Oct 2024 02:27:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6Z2CPKMHZF7JCPKBDGRQY6BL4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성범죄 전과가 있는 20대 남성이 지적장애를 가진 친여동생을 성폭행한 혐의로 항소심에서 원심보다 높은 형을 선고받았다. &lt;br&gt;&lt;br&gt;18일 법조계에 따르면, 부산고법 형사2부(이재욱 부장판사)는 성폭력범죄의 처벌 등에 관한 특례법(친족관계에 의한 강간·장애인 강간) 위반 혐의로 기소된 A씨에게 징역 9년을 선고한 원심을 파기하고 징역 12년을 선고했다. 10년간 위치추적·전자장치 부착과 10년간 아동·청소년 및 장애인 관련기관 취업제한을 명령한 원심은 유지됐다.&lt;br&gt;&lt;br&gt;A씨는 지난 2월 13일 부산 연제구의 한 모텔에서 심한 지적장애가 있는 친여동생 B씨(20대)를 객실로 데려고 들어가 성폭행한 혐의를 받는다. A씨는 강간죄와 강간미수죄 등으로 징역 6년을 선고받고 복역한 후 출소 11일 만에 범행한 것으로 드러났다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 “자신의 동생이자 지적장애를 가진 피해자를 강간한 것으로, 범행의 경위와 수법, 내용, 피해자와의 관계 등에 비추어 볼 때 그 죄책이 매우 중하다”며 징역 9년을 선고했다.&lt;br&gt;&lt;br&gt;검사는 형이 적어 부당하다며 항소했고 2심 재판부는 이를 받아들였다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “A씨는 피해자의 오빠로서 지적장애가 있는 피해자를 보호해야 함에도, 피해자를 자신의 성적 욕구를 분출한 대상으로 삼았을 뿐만 아니라 범행 이후엔 이를 숨기기 위해 피해자를 협박하거나 회유하기도 했다”며 “수사 단계에서 음주 때문이라고 하는 등 죄책을 미루기도 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;그러면서 “A씨는 왜곡된 성적 욕망을 제거하는 데 어려움을 가진 것으로 보인다”며 “이에 따라 재범 위험성은 상당히 크다고 판단돼, 원심의 형은 가벼워 부당하다고 인정된다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 한국 성범죄자 위험성 평가척도(KSORAS) 평가에서 총 22점을 기록한 것으로 알려졌다. A씨의 성범죄 재범 위험성은 ‘높음’ 수준이었으며, 정신병질자 선별도구(PCL-R) 평가에선 총점 21점을 받아 정신병질적 성격 특성은 ‘중간’ 수준으로 조사됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>소비기한 1년 6개월 지난 시럽 보관한 음식점 업주 적발</title>
-      <link>https://www.chosun.com/national/incident/2024/10/18/4RR2JTBI5NDTJK5SHPX4FBP3RE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/18/4RR2JTBI5NDTJK5SHPX4FBP3RE/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Oct 2024 02:24:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VE5ACG7FF6OHL7OT7R6GXHXVJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천시청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소비기한이 지난 식재료를 보관하거나 행정 관청에 신고하지 않고 음식을 만들어 불법 판매한 음식점 업주들이 인천시 특별사법경찰에 적발됐다.&lt;br&gt;&lt;br&gt;인천시 특별사법경찰은 식품위생법 위반 혐의로 음식점 업주 A씨 등 9명을 입건했다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등 4명은 인천 강화군 마니산 등산로와 남동구 인천대공원 주변 등지에서 소비기한이 지난 식재료를 조리장 내 냉장고와 진열대 등에 보관한 혐의를 받고 있다. A씨의 경우 소비기한이 1년 6개월 지난 과일향 시럽 등을 보관한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;B씨 등 5명은 인천 중구의 한 해수욕장 주변에서 행정관청에 신고하지 않고 핫도그와 떡볶이, 튀김, 칼국수 등을 만들어 판매한 혐의다.&lt;br&gt;&lt;br&gt;시 특별사법경찰은 지난달 23일부터 10월 11일까지 관광지, 터미널, 공원 등 다중이용시설 주변 식품제조‧판매업소 48곳을 대상으로 단속을 진행해 이들을 적발했다.&lt;br&gt;&lt;br&gt;식품위생법은 소비기한이 지난 제품을 보관‧사용하거나 관할 행정기관에 영업 신고를 하지 않고 식품접객업 등을 영업하는 경우, 3년 이하 징역 또는 3000만 원 이하의 벌금에 처하도록 규정하고 있다.&lt;br&gt;&lt;br&gt;시 특별사법경찰은 이번에 입건한 A씨 등 9명을 수사한 뒤 검찰에 송치할 방침이다.&lt;br&gt;&lt;br&gt;시 특별사법경찰은 이번 단속 과정에서 식품위생법상 위생 취급 기준을 위반해 적발된 음식점 3곳에 대해선 해당 지역 구청에 통보해 과태료 처분할 예정이다.&lt;br&gt;&lt;br&gt;시 특별사법경찰 관계자는”식품 유통 질서를 확립해 시민 건강을 보호할 수 있도록 힘쓰겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“손목 자르고 싶어” 주민센터서 손도끼 자해 소동 벌인 70대 男, 징역형 집형유예</title>
