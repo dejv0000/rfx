@@ -13,6 +13,133 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>내년부터 서울 초1 난독, 고1 경계선지능 진단 검사 실시</title>
+      <link>https://www.chosun.com/national/education/2024/10/18/VUYGV6WQCVGCFMBFY72IUOVCO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/18/VUYGV6WQCVGCFMBFY72IUOVCO4/</guid>
+      <dc:creator>김경은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Oct 2024 08:04:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QKCC3SPSF4PEGKMCCR2VYZ6H2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 정근식 서울시교육감이 '서울학습진단치유센터(가칭) 기본 계획'을 결재하고 있다. /서울시교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년부터 서울 시내 초등학교 1학년은 난독, 고등학교 1학년은 경계선지능 심층 진단을 받는다.&lt;br&gt;&lt;br&gt;18일 서울시교육청은 ‘서울학습진단치유센터(가칭)’를 만들어 난독(難讀)·난산(難算)·경계선지능 등 학습 장애 요인으로 인해 기초학력을 익히는 데 어려움을 겪는 학생들을 적극 지원하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;먼저, 난독은 듣고 말하는 데엔 어려움이 없지만 문자를 판독하는 부분에 이상이 있는 증세로, 일종의 읽기 장애를 가리킨다.&lt;br&gt;&lt;br&gt;난산은 수의 개념을 이해하지 못하고 연산 능력이 떨어지는 수학 학습 장애의 한 형태다. 숫자가 연속으로 이어진다는 개념을 잘 이해하지 못하고 기본적인 사칙연산을 잘하지 못하는 경우가 많다.&lt;br&gt;&lt;br&gt;경계선지능은 IQ 85 이상을 정상 지능, IQ 70 이하는 지적장애라고 볼 때 IQ가 그 사이인 71~84에 해당하는 경우를 말한다. 특수학급에 들어가기는 어렵고, 일반 학급에서는 방치되는 경우가 많아 학습 축적이 느리다. 연결된 사고가 어렵기 때문에 단계별로 하나하나 알려줘야 한다.&lt;br&gt;&lt;br&gt;학생 수십 명을 한꺼번에 담당해야 하는 학교 현장에서는 이 같은 아이들을 놓치기가 쉽다. 따라서 ‘서울학습진단치유센터’를 통해 통상적인 학교 수업을 따라가기 벅찬 학생들을 심층 진단하고 맞춤 지원해 기초학력을 끌어올리겠다는 취지다.&lt;br&gt;&lt;br&gt;이는 지난 16일 치러진 보궐선거에서 당선된 정근식 신임 서울시교육감이 후보 시절부터 추진한 공약이기도 하다. 다만 완전히 새로운 기관은 아니다. 시교육청이 한글이나 기초수학 등 학습 기본기를 배우고 익히는 데 어려움을 겪는 아이들을 위해 2012년부터 운영해온 서울학습도움센터의 역할과 기능을 한층 강화하는 것이다.&lt;br&gt;&lt;br&gt;이를 위해 시교육청은 지역별 센터와 협의해 ‘기초학력 심층진단팀’ 12개를 신설하고, 학습에 방해가 되는 요인들을 학년별로 나눠 특정 학년 학생 전체를 대상으로 지능 여부를 진단하기로 했다. 일단 내년부터 권역별로 시범 운영에 들어가고, 오는 2027년까지 3년간 서울 시내 25개 구 전체로 확대할 계획이다.&lt;br&gt;&lt;br&gt;내용별로 들여다보면, 난독은 내년에 초등학교 1학년부터 시작해 2026년부터는 초등학교 2학년까지 확대한다.&lt;br&gt;&lt;br&gt;난산은 2026년부터 초등학교 1~2학년을 대상으로 난독과 함께 실시한다.&lt;br&gt;&lt;br&gt;경계선지능은 내년에는 고등학교 1학년, 2026년에는 중학교 1학년과 고등학교 1학년을 대상으로 하고, 2027년부터는 중학교 1학년·고등학교 1학년에 초등학교 3학년까지 추가 시행한다.&lt;br&gt;&lt;br&gt;대학이나 해당 지역 전문기관 등과 연계해 교사 및 보호자들을 대상으로 연수나 상담을 하는 ‘학습도움 네트워크’도 강화하기로 했다.&lt;br&gt;&lt;br&gt;정근식 교육감은 “교육 격차를 해소하고 모든 학생의 기초학력을 보장하겠다는 서울 교육의 의지를 상징하는 것”이라며 “앞으로 학교 현장을 중심으로 대학, 지역기관 등과 협력해 모든 학생이 꿈을 펼치고 행복한 미래를 준비하는 서울 교육을 실현할 수 있도록 적극 지원하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 10월 20일 일요일 (음력 9월 18일 丁巳)</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/18/X4NBCV53ONC23NC5HYUCJQVFOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/18/X4NBCV53ONC23NC5HYUCJQVFOI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Oct 2024 08:05:00 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 숲 짙어야 범 들지. 48년생 나무에 오르라고 했으면 흔들진 말아야지. 60년생 자초지종 따져 근원적 해결책 찾도록. 72년생 이 보 전진 위한 일 보 후퇴. 84년생 쉽게 데운 구들이 쉽게 식는 법. 96년생 친구 덕 볼 일 있다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 푸른 옷 입은 사람을 조심. 49년생 원인 없는 결과 있나. 61년생 지인 말이라고 무턱대고 믿진 말라. 73년생 차량 안전사고 대비하도록. 85년생 자신만의 감옥에 스스로를 가두지 말라. 97년생 목표 향해 꾸준히 나아가는 게 상책.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 마음의 안정과 여유가 필요. 50년생 임기응변으로 무리 없이 해결될 듯. 62년생 해결의 열쇠는 가까운 곳에. 74년생 감정에 치우치면 일을 그르칠 수도. 86년생 인생은 100m 단거리 경주가 아니다. 98년생 남다른 책임감이 스트레스 원인.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 목적 없는 하루는 공허할 뿐. 39년생 한 곳, 하나, 한 사람에게 집중하라. 51년생 책임감의 크기가 사람 크기. 63년생 행여 요행 바라고 했다간 후회막심. 75년생 주변 여론 신경 쓸 것 없다. 87년생 소신대로 추진해도 좋다. 99년생 극성스럽게 한다고 될 일 아니다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 웃음 속에 행복이 깃든다. 40년생 본인의 탓이 아니니 너무 자책하지 말라. 52년생 게 등에 소금 뿌려봐야. 64년생 인연을 소중히 여기도록. 76년생 원망은 잊고 은혜는 기억하라. 88년생 배우자에게도 할 말 안 할 말 있다. 00년생 오늘 못 하면 내일은 더 못 한다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 붉은색과 숫자 2·7 행운 부른다. 41년생 몸 건강해야 마음도 건강. 53년생 식은 죽도 불어 가며 먹으랬다. 65년생 객관적·이성적으로 판단하도록. 77년생 사색과 성찰 시간 필요할 듯. 89년생 첨예한 의견 충돌은 미연에 방지하도록. 01년생 조급히 서두르면 되치기 당할 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 몸 힘들어도 마음만은 청춘. 42년생 두 사람이 합심하니 어려움 해결. 54년생 동남방 피하는 게 상책. 66년생 변화 예측하며 가도록. 78년생 소득 없이 바쁘기만. 90년생 오늘 안주하면 훗날 뒤처질 수밖에. 02년생 모임과 교제는 다음으로 미뤄라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 오늘이 마지막이란 생각으로 접근. 43년생 아랫사람 포용하면 내가 편안. 55년생 인내와 끈기가 결실로 보답. 67년생 과로로 인한 질병 악화 조심. 79년생 이웃으로 인한 즐거움이 기대. 91년생 과로·과민·과식 3과를 조심. 03년생 힘들더라도 중도 포기는 손해막급.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 서쪽과 숫자 4·9 행운 부른다. 44년생 사사로운 감정이 괜한 오해 살수도. 56년생 복 중에는 건강 복이 제일. 68년생 과정이 결과보다 중요. 80년생 불필요한 언사는 피하도록. 92년생 귀신보다 무서운 것이 사람. 04년생 지지부진한 일에 해결의 실마리가 보일 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 뜻하지 않은 서신 있다면 분명 희소식. 45년생 핑계 대지 말고 틈틈이 노력하도록. 57년생 괜한 일로 꼬투리 잡힐 짓 말라. 81년생 적절한 휴식은 능률을 높인다. 69년생 애정 전선에 장애 발생할 수도. 93년생 어려운 이에게 베풀면 하늘이 갚아준다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 도움이 필요하다면 돼지띠에게. 46년생 건강한 사람은 건강의 중요성 모른다. 58년생 오해가 이해가 될 때까지 설득 또 설득. 70년생 손해가 있더라도 소신껏 행동하면 이익. 82년생 진척이 없을 때는 잠시 휴식을. 94년생 모험보다 안정이 필요.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 한 차례 태풍이 쓸고 지나간 뒤 하늘이 더 맑은 법. 47년생 가벼운 운동으로 삶의 여유를. 59년생 사소한 것이 큰 차이를 낳는다. 71년생 쇠똥에 미끄러져 개똥에 코 박은 셈. 83년생 장거리 외출할 일이 생길 수도. 95년생 많은 활동에 비해 소득은 별로.	&lt;br&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?width=800&amp;height=420&amp;auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true" type="image/png" height="420" width="800"/>
+    </item>
+    <item>
+      <title>[오늘의 운세] 10월 19일 토요일 (음력 9월 17일 丙辰)</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/18/IMKS7YP4VBHW5BY4L74XDL5TXQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/18/IMKS7YP4VBHW5BY4L74XDL5TXQ/</guid>
+      <description/>
+      <pubDate>Fri, 18 Oct 2024 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 허례 삼가고 내실 기하라. 48년생 부탁할 일 있다면 지금이 기회. 60년생 반전 계기 맞이할 듯. 72년생 농사는 머슴에게 길쌈은 아낙에게 물어라. 84년생 오만하고 경솔한 태도 경계. 96년생 훼방꾼은 외부 아닌 내부에 있음을 명심.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 조급하게 서두른다고 될 일 아니다. 49년생 가족 간 사소한 오해 주의. 61년생 화해의 기운이 성공을 부른다. 73년생 대인 관계에 스트레스가 적지 않을 듯. 85년생 감정 변화에 기분이 오르락내리락. 97년생 확장하지 말고 현 상황을 유지하도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 혀가 칼보다 많은 상처를 줄 수도. 50년생 참고 기다리면 좋은 때는 분명 온다. 62년생 조바심 내지 말고 순리에 맡겨야. 74년생 사랑과 연기는 감출 수 없다. 86년생 하고 싶은 말 다 하면서 사는 사람 없다. 98년생 손실이 사람에게 있으니 항시 경계.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 안 될 일을 열심히 하면 추락이 가속. 39년생 끝까지 변함없는 관심을. 51년생 집안일은 집 안에서 해결하라. 63년생 실도랑 모여 대동강 된다. 75년생 눈앞만 보지 말고 시야 넓히도록. 87년생 길이 아니면 가지 말라. 99년생 감정적 대응은 절대 금물.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 운기가 점차 왕성해지는 시기. 40년생 뜻한 바 있다면 의도 철저히 숨겨라. 52년생 사람과의 언쟁은 나만 손해. 64년생 사업 관련이면 냉탕·온탕 왔다 갔다. 76년생 격분할 때는 아무것도 하지 말아야. 88년생 실속 없는 하루 될 듯. 00년생 단비가 적시에 내리는구나.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 행복은 건강의 다른 말. 41년생 고통 뒤 즐거움은 더 값지다. 53년생 대수롭지 않은 일로 근심 걱정. 65년생 구더기 무서워 장 안 담글까. 77년생 한 사람 책망으로 백 사람 경계시켜라. 89년생 이익으로 사람 판단 말라. 01년생 진중하고 무게감 있게 처신하도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 앉은 영웅보다 돌아다니는 바보가 낫다. 42년생 중요한 결정은 뒤로 미루도록. 54년생 생각은 많고 마음은 허전. 66년생 함부로 속단 말라. 78년생 순리를 따라야지 억지로 한다고 되겠나. 90년생 이미 함께하였다면 믿어라. 02년생 생각을 바꾸면 세상이 바뀐다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 주변 사람들로 심사가 시끄럽다. 43년생 지금 만나는 주변 사람들이 현재 자신의 수준. 55년생 우선순위와 경중을 따져보고 진행하라. 67년생 머뭇거리다 기회 놓칠라. 79년생 소띠와의 관계에 손실이 염려. 91년생 승진이 아니면 포상이 따를 듯. 03년생 신경성 질환을 주의.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 손실로 얻은 경험 값지게 여겨야. 44년생 문서 거래와 도장 찍을 일이면 오늘이 적기. 56년생 신경 과민으로 주변과 충돌 염려. 68년생 집 나간 며느리 효부인 줄 알겠구나. 80년생 돈 가뭄에 단비 내릴 듯. 92년생 절약·절제하며 후일 도모. 04년생 뒤로 넘어져도 코 깨질 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 흰색과 숫자 4·9 행운 부른다. 45년생 출루만 할 수 있다면 사구도 괜찮다. 57년생 진솔하고 담백한 친구를 만나라. 69년생 인내와 끈기가 성공의 열쇠. 81년생 누구에게나 무조건 고개 숙여 인사하라. 93년생 마음을 비우고 때를 기다리도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 자손 일에 사사건건 간섭 말아야. 46년생 고상한 언어는 인품을 높인다. 58년생 진퇴 동정을 시의에 맞게 하도록. 70년생 자신의 운명을 사랑하라. 82년생 트집 잡힐 만한 일은 절대 피하라. 94년생 유시무종하지 않도록 시작과 마무리를 철저히.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 여건이 성숙되기를 기다려라. 47년생 의사 전달을 분명히 해야 오해 없다. 59년생 양보할 줄 모르면 협상에 나서지 말라. 71년생 주위의 불평불만은 사전에 예방하라. 83년생 필요하다면 삼고초려 대수냐. 95년생 남쪽 문은 피하는 게 상책.	&lt;br&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?width=800&amp;height=420&amp;auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true" type="image/png" height="420" width="800"/>
+    </item>
+    <item>
+      <title>“농업인 어려움 해결되길”… 신유빈, 햅쌀 1억원어치 기부</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/18/DTZGV3KMAVH3TCT747CFPTAOEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/18/DTZGV3KMAVH3TCT747CFPTAOEI/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Oct 2024 07:34:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EWC3UAWWRJOGLP6PDAITF7NYGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여자 탁구 간판 신유빈(대한항공)이 불우이웃을 돕기 위해 자신이 광고 모델로 있는 당진 해나루쌀 햅쌀을 구매해 충남 당진시와 경기 수원시에 기부한다고 소속사 매니지먼트GNS가 18일 밝혔다. 사진은 신유빈과 오성환 당진시장. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;탁구 선수 생활 이후 꾸준히 선행을 이어온 신유빈이 이번엔 불우이웃과 쌀 생산 농가를 돕기 위해 1억원 상당의 햅쌀을 기부하기로 했다.&lt;br&gt;&lt;br&gt;신유빈 소속사 매니지먼트GNS는 18일 “신유빈이 1억원 상당의 당진 해나루쌀 햅쌀을 구매해 충남 당진시와 경기 수원시에 기부하겠다는 의사를 밝혔다”고 했다. 신유빈은 지난달 당진 해나루쌀 광고 모델로 발탁됐다.&lt;br&gt;&lt;br&gt;매니지먼트GNS에 따르면, 신유빈은 날씨가 추워지면서 도움이 필요한 이웃에게 따뜻한 마음을 전하는 한편 쌀 생산 농가를 돕고자 했다. 신유빈은 매년 쌀 소비량이 감소하는 데 대해 “해나루쌀이 널리 알려져 쌀소비가 늘어나고 우리나라 농업인의 어려움이 조금이나마 해결됐으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;신유빈은 당진해나루쌀조합공동사업법인과 당진시농협쌀조합공동사업법인을 통해 1억원어치 해나루쌀을 구매하고, 햅쌀 출하 시기에 맞춰 당진시와 수원시에 쌀을 기탁해 지역 내 소외계층에게 전달할 예정이다.&lt;br&gt;&lt;br&gt;신유빈은 “쌀쌀해지는 날씨에 이웃들에게 작지만 따뜻한 행복이 전해졌으면 좋겠다”며 “맛 좋은 햅쌀로 따뜻한 식사를 드셨으면 한다”고 했다.&lt;br&gt;&lt;br&gt;신유빈은 생애 첫 월급을 받은 이후부터 꾸준히 기부를 이어오고 있다. 2024 파리 올림픽 이후 광고를 줄줄이 따낸 뒤에도 모델료 등을 지속해서 취약계층에 전달 중이다. 지난달에는 신유빈이 16세 때 첫 월급으로 운동화를 기부했던 수원의 아동보육시설에 또 주먹밥과 바나나 등 먹거리를 기부한 사실이 알려져 이목을 끌었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘박지윤과 쌍방 불륜 소송’ 최동석, 이혼 예능서 자진 하차</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/18/UBFQ75WVFFF7XDTK42EGXTW4ZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/18/UBFQ75WVFFF7XDTK42EGXTW4ZM/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Oct 2024 07:29:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XNLQLBPQKBB7RKTM3STHIL35VA.png"&gt;&lt;figcaption&gt;&lt;small&gt;최동석. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;KBS 아나운서 출신 방송인 최동석(46)이 TV조선 이혼 예능프로그램 ‘이제 혼자다’에서 자진 하차한다. 최동석은 최근 이혼 과정에서 아내 박지윤(45)과 나눈 메신저와 녹취록이 공개된 후 논란에 휩싸였다.&lt;br&gt;&lt;br&gt;최동석 소속사 스토리앤플러스는 18일 언론 공지를 통해 “최동석 씨가 TV조선 ‘이제 혼자다’에서 하차하게 되었음을 알려드린다”며 “‘이제 혼자다’ 제작진과 소속사의 긴 논의 끝에 하차를 결정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “이번 일로 프로그램에 피해가 가지 않기를 간절히 바라며, 개인사로 심려를 끼친 부분에 대해 다시 한번 고개 숙여 깊이 사죄드린다”고 했다.&lt;br&gt;&lt;br&gt;TV조선 ‘이제 혼자다’ 측은 “최동석이 출연한 기존 촬영분은 방송하지 않기로 결정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EBNSXEJ4QZFIJNSKG2TSL3JJIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최동석과 박지윤. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최동석과 박지윤은 이혼 과정에서 서로 상대방이 불륜행위를 한 것으로 의심된다면서 추가로 손해배상소송을 제기한 상태다.&lt;br&gt;&lt;br&gt;최근 최동석과 박지윤이 이혼 과정에서 나눈 메신저와 녹취록이 공개됐는데 최동석은 박지윤이 정신적으로 불륜을 저지르고 있다고 주장했고, 박지윤은 최동석의 망상과 의처증이라고 맞섰다.&lt;br&gt;&lt;br&gt;메신저와 녹취록에는 최동석이 박지윤에게 욕설을 하고, 업무적으로 만나는 남성에 대해 의심하는 내용도 담겨 있어 논란이 됐다.&lt;br&gt;&lt;br&gt;한편 최동석과 박지윤은 KBS 아나운서 30기 입사 동기다. 두 사람은 2009년 결혼해 1남 1녀를 뒀다. 그러나 작년 10월 결혼 14년 만에 이혼 절차를 밟는 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조국 일가, 웅동학원 사회 환원 5년째 ‘미적미적’</title>
+      <link>https://www.chosun.com/national/2024/10/18/2AYJVT2D6JBHTN7UDY3B4KSD5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/10/18/2AYJVT2D6JBHTN7UDY3B4KSD5A/</guid>
+      <dc:creator>부산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Oct 2024 06:22:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMQ3YK72SVNPHMSAASAXF6UATA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서지영 국민의힘 의원이 18일 오전 부산 금정구 부산대학교에서 열린 국회 교육위원회의 경남·부산·울산교육청에 대한 국정감사에서 질의하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조국혁신당 조국 대표의 모친이 이사장으로 있는 학교법인 웅동학원의 사회 환원과 이사장 사퇴가 국정감사 도마 위에 올랐다.&lt;br&gt;&lt;br&gt;18일 부산대학교에서 열린 국회 교육위원회 2024년 경남도·부산시·울산시 교육청 국정감사에서 국민의힘 서지영 의원은 경남교육청을 상대로 “웅동학원 사회 환원이 지켜지지 않는다”고 지적했다.&lt;br&gt;&lt;br&gt;서 의원은 “2019년 당시 조국 (법무부) 장관 후보자는 ‘가족 모두는 웅동학원 직함과 권한을 내려놓겠다’고 했는데, 정경심 교수만 이사직에서 물러났다”고 지적했다.&lt;br&gt;&lt;br&gt;이어 “조국 대표의 모친인 A씨는 2019년 8월 ‘향후 이사회를 소집해 웅동학원을 국가 또는 공익재단에 의해 운영되도록 교육청 등의 도움을 받아 법적 절차를 밟고 저와 제 며느리(조국 대표 아내)는 이사직에서 물러날 것입니다’고 했는데, 최근에 A씨가 다시 이사장으로 연임됐다”고 비판했다. 조 대표의 모친 A씨는 지난 2009년 이사로 취임해 2010년 이사장 자리에 오른 뒤 14년째 이사장직을 유지하고 있다.&lt;br&gt;&lt;br&gt;서 의원은 “웅동학원은 조국 일가가 40년 동안 운영하고 있고, 사회환원도 지켜지지 않았는데 교육청은 무엇을 하고 있었느냐”며 “A씨가 이사장 자리에서 내려오도록 권고하겠느냐”고 질의했다. 이에 박종훈 교육감은 “요구하겠다”고 답했다.&lt;br&gt;&lt;br&gt;앞서 조국 대표는 법무부 장관 후보이던 지난 2019년 8월 인사청문회를 앞두고, 가족 일가가 웅동학원을 이용해 사익을 편취했다는 의혹 등이 일자 웅동학원을 개인이 아닌 국가나, 공익재단에서 운영되도록 하겠다고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;국민의힘 조정훈 국회 교육위 반장이 “웅동학원이 중앙정부와 지방정부에 국·공립화 요구를 한 적이 있느냐”고 질문하자, 박 교육감은 “국·공립화 요구한 적이 없다”고 답변했다. 조 의원은 웅동학원 측의 국·공립화 요구 여부를 다시 교육부 관계자에게 물었고, 교육부는 “확인해보겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“‘나는 솔로’ PD, 국정감사 증인 채택 이후 연락두절”</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/18/5RPA5IQHARGVJFZLMSYP6TMAA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/18/5RPA5IQHARGVJFZLMSYP6TMAA4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Oct 2024 06:17:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UAKQINWETBEZTA4DTIIDTAIKJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'나는 솔로' 남규홍 PD. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송작가에 대한 갑질 의혹이 제기돼 국회 국정감사 증인으로 채택된 예능프로그램 ‘나는 솔로’ PD가 증인 출석요구서를 받지 않고 연락두절 상태라는 사실이 알려졌다.&lt;br&gt;&lt;br&gt;강유정 더불어민주당 의원은 18일 문화체육관광위 국감에서 의사진행 발언을 통해 “제가 오는 24일 (문화체육관광부 종합감사) 증인으로 신청한 남규홍 ‘나는 솔로’ PD가 출석 요구서 수령 자체를 회피하고 있다는 소식을 들었다”며 ‘FIFA U-17 여자 월드컵 대회’ 참석을 핑계로 국정감사 출석을 거부한 정몽규 대한축구협회 회장 사례보다 훨씬 심각하다고 했다.&lt;br&gt;&lt;br&gt;강유정 의원은 “국회 행정실에서 남규홍 PD에게 찾아가서 증인 출석 요구서를 전달하려고 했다”며 “전화를 했는데 이후에 행정실과 모든 연락을 끊고 받고 있지 않다고 한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “통신사 협조를 얻어서 주소지로 찾아갔더니 그 주소지가 남규홍 PD 주소지가 아니었다고 한다. 회사에도 전달하려고 했으나 문이 잠겨 있어서 서류를 앞에 두고 왔다고 한다”며 “결국 증인 출석요구서를 인터넷으로 공시 송달하는 이런 웃지 못할 사태까지 벌어졌디”고 설명했다.&lt;br&gt;&lt;br&gt;강 의원은 “만약 남규홍 PD가 오는 24일 국정 감사장에 불출석한다면 그 즉시 국정감사에 앞서서 남규홍PD 고발 건을 안건으로 올려주셨으면 하는 요청을 드린다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 전재수 문체위원장은 “여야가 합의한 증인에 대해서는 엄중하게 대처하겠다”며 “납득할 만한 사유 없이 핑계로 일관해 국정감사를 피하기만 하면 된다고 판단할 수 있을 것 같은데 그렇지 않다. 이 문제는 저희가 국정감사가 끝이 나더라도 고발은 물론 별도의 청문회나 행안질의를 통해 반드시 책임을 물을 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편 남규홍 PD는 자신과 딸을 작가 명단에 올리고 방송작가들에게 불공정 계약서 체결을 강요해 재방료를 가로챘다는 의혹이 제기된 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>만취 사망사고 낸 女DJ, 2심서 징역 10년→8년 감형</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/18/SXJ57KIDAND7ZCHXFBPITFUQGA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/18/SXJ57KIDAND7ZCHXFBPITFUQGA/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Oct 2024 06:43:40 +0000</pubDate>
+      <content:encoded>새벽에 서울 강남 일대에서 만취한 상태로 운전대를 잡은 뒤 오토바이 배달 기사를 치어 숨지게 한 20대 여성 클럽 DJ가 2심에서 형(刑)이 감경됐다. 피해자 측과 합의한 게 감형의 주요 요인이 된 것으로 보인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7OMYHYFLOFHILKD2XTJIIPXJJI.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2월 클럽 DJ 안예송씨가 만취 상태로 운전하다 오토바이 배달 기사를 치어 숨지게 한 현장. 검찰은 안씨의 재판에서 해당 차량 몰수를 구형했고, 법원은 이를 받아들였다. /대검찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사항소5-2부(재판장 김용중)는 특정범죄가중처벌법상 위험운전치사·도주치상, 도로교통법상 사고후미조치·음주운전 혐의 등으로 기소된 안예송(24)씨에 대한 원심 판결을 파기하고 징역 8년을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “안씨는 만취 상태에서 도로 한 가운데 한참 서 있거나 신호를 위반하고 과속하는 등 매우 위험하게 운전해 사고를 냈다”면서도 “항소심 들어 피해자 측과 추가 합의한 점 등을 고려하면 1심 형은 다소 무거워 보인다”고 했다. 재판 과정에서 대표적 감형 사유 중 하나가 피해자 측과의 합의다.&lt;br&gt;&lt;br&gt;앞서 1심은 “두 차례의 교통사고 모두 오로지 피고인의 잘못만으로 발생했다. 주의의무 위반의 정도 및 위법성이 매우 중하다”며 징역 10년을 선고한 바 있다.&lt;br&gt;&lt;br&gt;한국과 중국 등을 오간 DJ였던 안씨는 지난 2월 3일 서울 강남구 논현동에서 열린 한 생일파티에서 음주량을 기억조차 못할 정도로 폭음한 뒤 만취한 상태에서 운전해 사고를 낸 혐의 등을 받는다.&lt;br&gt;&lt;br&gt;안씨는 새벽 4시 37분쯤 자신의 벤츠 차량을 몰다 과속해 앞서 주행하던 오토바이를 뒤에서 들이받아 50대 배달 기사가 사망했다. 당시 그의 혈중알코올농도는 0.221%로 면허 취소 수준으로 조사됐다. 특히 안씨는 사고를 내기 이전엔 또 다른 교통사고로 피해자를 다치게 한 뒤 도주하다가 이같은 음주운전 사망사고를 낸 것으로 파악됐다.&lt;br&gt;&lt;br&gt;안씨는 사망사고를 낸 이후 자신의 애완견을 끌어안은 채 피해자에 대한 구호 조치를 제대로 하지 않은 것으로 전해져 논란이 일기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울회생법원, 과도 반입 시도한 채무자 적발…경찰 신고</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/18/6GODSK2AIVDNPJXUWXGLBBVXCU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/18/6GODSK2AIVDNPJXUWXGLBBVXCU/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Oct 2024 05:51:49 +0000</pubDate>
+      <content:encoded>개인 회생 사건 채무자가 법원에 흉기를 갖고 들어가려다 적발됐다. 법원 측은 “앞으로도 법정과 청사 보안을 위해 보안검색절차를 철저히 진행할 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KP7VORGSQRHQBI7B5I3MZOJLRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울회생법원. /박강현 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울회생법원은 18일 “전날 오전 10시 50분쯤 서울회생법원으로 들어가려던 한 60대 여성 A씨의 가방에서 에어캡(일명 ‘뽁뽁이’)에 포장된 길이 20cm의 과도를 탐지·적발했다”고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 개인 회생 사건의 채무자로 당일 오전 예정된 채권자집회기일에 참석하기 위해 방문한 것으로 확인됐다. 그는 “평소 가지고 다니던 것”이라는 취지로 해명했지만, 법원은 A씨의 칼을 압수 조치하고 즉시 경찰에 신고했다.&lt;br&gt;&lt;br&gt;법원 관계자는 “법원을 방문하는 당사자 및 민원인은 법정 출입 시 안전에 위협이 되는 물건을 소지해서는 안 된다”며 “과도가 상당히 위험성이 높은 흉기로 보이고, 경우에 따라 경범죄 처벌법 내지 폭력행위 등 처벌에 관한 법률 위반 소지도 있어 보여 A씨를 경찰에 신고했다”고 설명했다.&lt;br&gt;&lt;br&gt;앞서 지난 8월 28일 서울남부지법에선 피고인석에 앉아 재판을 받던 사람이 방청석에 앉아있던 한 남성으로부터 흉기에 목 부위를 수차례 찔리는 사고가 발생했다.&lt;br&gt;&lt;br&gt;이후 전국 최대 법원인 서울중앙지법·서울고법 등이 있는 서울법원종합청사는 재발 방지를 위해 법정출입구 검색, 복도 및 법정 내부 보안 등을 보강하고 법원보안관리대원이 가스총 등을 휴대할 수 있도록 조치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>팬 폭행 사건 연루 여파? 제시, 전속계약 한달만에 소속사와 결별 </title>
+      <link>https://www.chosun.com/national/national_general/2024/10/18/J6ZHLIRASZFUFFTFLBDSMULRTA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/18/J6ZHLIRASZFUFFTFLBDSMULRTA/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Oct 2024 06:02:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OV6QDUWULVNOHAKHJDCAIOOONQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일행의 팬 폭행 의혹과 관련해 가수 제시가 16일 밤 서울 강남경찰서에 출석하고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 제시가 소속사 DOD를 떠난다. 올해 초 박재범이 설립한 모어비전과 계약을 끝내고, 새 소속사와 전속계약을 맺은 지 약 한달만이다. 일각에서는 최근 불거진 일행의 팬 폭행 논란이 한달만에 새 소속사와 결별하는 데 영향을 미친 것 아니냐는 의견도 나온다.&lt;br&gt;&lt;br&gt;DOD는 18일 “당사와 제시는 향후 활동에 대해 많은 대화를 나눴고, 제시의 요청으로 심사숙고 끝에 2024년 10월 18일부로 전속계약을 종료하기로 결정했다”고 했다.&lt;br&gt;&lt;br&gt;DOD는 “최근 좋지 않은 소식으로 심려를 끼쳐드린 점 다시 한번 죄송하다는 말씀드린다”며 “짧은 기간이지만 당사와 함께해준 제시에게 감사의 마음을 전하며, 제시의 앞날을 진심으로 응원하겠다”고 했다.&lt;br&gt;&lt;br&gt;제시는 지인이 팬을 폭행한 사건에 연루됐다. 지난달 29일 새벽 서울 강남구 압구정동에서 제시와 함께 있던 남성 중 한명이 제시에게 사진 촬영을 요청한 팬을 무차별 폭행한 것이다. 방범카메라 영상에는 팬이 일행으로부터 폭행당하는 상황을 뒤로하고 제시가 현장을 떠나는 모습이 고스란히 담겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/US5Z7I3RM5DUJHAAW3VZYSNNLU.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 29일 제시(흰색 상의) 일행이 사진 요청한 팬을  폭행하고 있다. /JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 논란이 커지자, 제시는 지난 12일 팬이 폭행 피해를 봤다는 점에 대해서는 도의적 책임을 느낀다면서도 문제의 일행은 당일 처음 봐 자신과 관련 없다는 취지로 해명했다.&lt;br&gt;&lt;br&gt;이 과정에서 제시 일행 중 하나였던 프로듀서 ‘코알라’가 한인 갱단과 관련 있다는 의혹도 제기됐다. 오른팔과 왼팔에 각각 ‘K’ ‘OS’ 문신이 새겨져 있었는데, 이게 LA 한인 갱단 중 하나인 ‘Korean Outlaws’의 약자라는 것이다. 피해자 역시 제시 일행들에 대해 “(행동이) 마치 갱단의 제스처와 비슷했고, 주변에 있던 친구들이 폭행 당시 ‘갱’이라는 말을 들었다”고 했다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 지난 16일 제시를 피의자 신분으로 불러 조사했다. 제시와 프로듀서, 그리고 직접적으로 폭행을 가한 남성 등 총 4명이 고소당해 입건된 상태다. 제시는 이날 취재진에게 “가해자를 처음 보는 게 맞는다”며 “(피해자에게) 너무 죄송하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘라이터로 지지고, 항문에 이물질까지…’ 가혹행위 20대 징역 7년</title>
+      <link>https://www.chosun.com/national/regional/gangwon/2024/10/18/NBOE5DYWFJF25PM4PQIQMC7CGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2024/10/18/NBOE5DYWFJF25PM4PQIQMC7CGI/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Oct 2024 05:51:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ETKH4QNLREMEU7HFWJP3H4EW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 강릉지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;라이터로 몸 곳곳을 지지고, 항문에 이물질을 넣게 시키는 등의 가혹행위에 가담한 20대가 실형을 선고 받았다. 이 같은 가혹행위를 견디지 못한 피해자는 앞서 다른 가해자를 살해해 징역형을 선고 받았다.&lt;br&gt;&lt;br&gt;춘천지법 강릉지원 형사2부(재판장 권상표)는 특수폭행 등의 혐의로 기소된 A(20)씨에게 징역 7년을 선고했다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 4월 13일 오후 11시 40분쯤 강원 삼척시 B(19)군의 집에 찾아가 B군의 성기와 음모, 머리카락, 귀, 눈썹 부위를 라이터 불로 지지는 등 가혹행위를 한 혐의로 재판에 넘겨졌다. 당시 범행은 B군의 중학교 동창인 C(19)군도 함께했다.&lt;br&gt;&lt;br&gt;A씨와 C군은 이날 B군에게 옷을 벗게 한 뒤 자위행위를 시키고, 항문에 이물질을 넣도록 강요했다. 이들은 B군의 행위를 동영상으로 촬영했다. 범행은 3시간 동안 이어졌다고 한다.&lt;br&gt;&lt;br&gt;가혹행위를 견디다 못한 B군은 이튿날인 4월 14일 오전 2시 30분쯤 집안에 있던 흉기로 C군을 찔러 살해했다. C군은 중학교 동창이던 B군을 평소 길거리에서 만나게 되면 이유 없이 폭행과 괴롭힘을 일삼았던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;B군은 결국 살인 혐의로 재판에 넘겨져 지난달 징역 장기 5년에 단기 3년을 선고받았다. 살인사건 조사과정에서 B군의 가혹행위 피해사실이 드러나면서 A씨가 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;재판부는 이 사건에 앞서 B군의 집을 찾아 불을 지르려 했던 혐의(현주건조물방화미수)로 기소된 D(19)군에게 징역 장기 5년에 단기 3년의 실형을 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/3ETKH4QNLREMEU7HFWJP3H4EW4.jpg?width=2529&amp;height=1686&amp;auth=ade1f1b91fa52eb8da7f719c4efd68d3f3b41e59afe9194f48e0f689579e9a6c&amp;smart=true" type="image/jpeg" height="1686" width="2529">
+        <media:description type="plain">춘천지방법원 강릉지원 전경.(뉴스1 DB)</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>[속보] 변호사가 우산 받쳐주고...문다혜, 음주운전 13일 만에 경찰 출석</title>
       <link>https://www.chosun.com/national/national_general/2024/10/18/A4G3SUNKIRBDVL2HIN5XRCLIGI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/18/A4G3SUNKIRBDVL2HIN5XRCLIGI/</guid>
@@ -760,23 +887,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/74B35C23DZD2BO2FW6AXN37Z3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;자신의 영상 콘텐츠로 담기 위해 남성이 소란을 피우고 있다. /틱톡&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도 넘은 장난으로 타인에게 불편을 끼치는 유튜버와 틱톡커 등의 사례가 이어지는 가운데, 이번에는 대형마트에서 우유를 쏟고 계산대 위에 올라가 서는 등의 모습이 담긴 영상이 공개돼 비판받고 있다.&lt;br&gt;&lt;br&gt;자신을 고등학생 자녀를 둔 아버지라고 밝힌 A씨는 지난 16일 JTBC ‘사건반장’을 통해 “최근에 아이가 보여준 영상을 보고 큰 충격을 받았다”며 “요즘 이상한 사람이 너무 많다. 이건 아닌 것 같다”고 했다. 그러면서 “초등학교 학생들 사이에서 저런 민폐 행동이 유행처럼 번지는 경우도 있다. 정말 안타깝다”고 했다.&lt;br&gt;&lt;br&gt;A씨 자녀가 보여준 영상은 팔로워 수가 약 5만명인 한 남성 틱톡커의 영상이다. A씨는 주로 공공장소에서 주변의 시선은 아랑곳하지 않고 소란을 피우는 콘텐츠를 찍어 올린다.&lt;br&gt;&lt;br&gt;대표적인 게 대형마트에서 촬영한 영상이다. 이를 보면, A씨는 마트 계산대 쪽에서 배트맨 흉내를 내다가 돌연 계산대 위로 올라가 섰다. 빈 곳이 아니라, 실제로 계산이 이뤄지고 있는 장소였다. 계산을 하려던 사람들이 불편을 겪는 상황이었지만, A씨는 내려오지 않고 그대로 서서 조커를 따라 하는 다른 남성을 향해 “조커”라고 큰 소리로 외치는 등 기행을 이어갔다.&lt;br&gt;&lt;br&gt;A씨는 마트에서 우유와 시리얼을 들고 가다 미끄러지는 상황을 연출하기도 했다. 이외에도 A씨는 대중교통 안에서 큰 소리로 노래를 부르고, 서점을 찾아 다른 사람들이 조용히 책을 읽고 있는 테이블 위에 올라가 소리를 지르는 영상을 촬영해 올렸다. 경찰서 앞에서 경찰이 보는 앞에서 자기 머리 위에 밀가루를 쏟아붓기도 했다.&lt;br&gt;&lt;br&gt;이런 영상들은 조회수가 많게는 300만회가 넘는다. 다른 영상들도 조회수가 대부분 100만회가 넘는다. 댓글에는 다양한 반응이 달린다. “공공장소에서 이래도 되냐” “보는 내가 다 부끄럽다” 등 A씨의 부적절한 행동을 지적하는 의견도 있는 반면, “오늘은 약하다” “다음엔 롤 캐릭터로 찍어달라” 등 오히려 부추기는 경우도 있다.&lt;br&gt;&lt;br&gt;틱톡은 짧은 시간 안에 사용자들의 눈길을 끌기 위해 자극적이고 선정적인 콘텐츠가 많이 올라오는 플랫폼 중 하나다. 틱톡이 작년 3분기(7~9월) 유해 콘텐츠로 판명해 삭제한 영상만 약 1억3653만건이다. 성인 인증이나 연령 확인 절차가 사실상 없어 미성년자도 성인과 같은 수준으로 이런 콘텐츠에 노출돼 지속해서 문제가 제기돼 왔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>주운 카드로 양주 250만원 긁은 50대, 잡고 보니 전과 46범</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/17/PLXJDMVC2BAN7NZ2TIRFHI3JZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/17/PLXJDMVC2BAN7NZ2TIRFHI3JZI/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Oct 2024 08:14:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;길에서 주운 체크카드로 고급 술집에서 250만원 상당의 양주를 마신 50대 남성이 경찰에 붙잡혔다. 이 남성은 동종·이종 범죄로 46차례 처벌받은 전력이 있었는데, 검거 당시 사기와 절도 혐의로 서울 관내 경찰서에서 수배까지 내려져 있었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;17일 경찰에 따르면, 광주 북부경찰서는 점유이탈물 횡령·여신전문금융법 위반 혐의로 50대 A씨를 체포해 조사했다. &lt;br&gt;&lt;br&gt;A씨는 지난 10일 광주 북구 운암동 한 도로에서 바닥에 떨어져 있던 체크카드를 주웠다가 서구 동천동의 한 술집에서 고급 양주 4병을 시켜 마신 뒤 습득한 카드로 250만원 상당을 결제한 혐의를 받는다.&lt;br&gt;&lt;br&gt;도난 신고를 접수한 경찰은 방범카메라 분석 등 추적에 나서 지난 16일 오후 1시쯤 광주의 한 고시원에 있던 A씨를 검거했다. A씨는 46건의 전과가 있었는데, 최근 서울 일대에서도 사기와 절도 행각을 벌이다 수배가 내려져 있던 상태였다.&lt;br&gt;&lt;br&gt;A씨는 경찰 추적을 피해 서울에서 광주로 도피해왔다가 이 같은 범행을 저지른 것으로 조사됐다. 그는 “생활비가 없어서 범행했다’는 취지로 경찰에 진술했다. 북부경찰서는 체포한 A씨를 상대로 구체적인 범행 경위를 조사한 뒤 17일 서울 강서경찰서로 A씨의 신병을 인계했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[리빙포인트] 변기 청소에 식초 써보세요</title>
-      <link>https://www.chosun.com/culture-life/living/2024/08/05/2UQNL2Y5DRCGFNIXSP5DEB3DIQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/living/2024/08/05/2UQNL2Y5DRCGFNIXSP5DEB3DIQ/</guid>
-      <description/>
-      <pubDate>Sun, 04 Aug 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XTC4YAPSBNFUNPKDYNLNCU5EUA.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;화장실 변기에 자꾸 물때가 끼고 냄새가 난다면 물탱크 청소를 해보자. 물탱크에 식초 2컵을 풀고 잠시 후 솔로 닦으면 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>尹 “사회 교란하는 거짓 선동, 가짜 뉴스 물리쳐야” </title>
       <link>https://www.chosun.com/politics/politics_general/2024/10/17/QVM3LTLVA5GDZL5MAP456C6YRA/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/politics_general/2024/10/17/QVM3LTLVA5GDZL5MAP456C6YRA/</guid>
@@ -784,15 +894,6 @@
       <description/>
       <pubDate>Thu, 17 Oct 2024 08:08:43 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TKQ7YNLUDRPY7BW466IAHUJ6EU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 17일 오후 강원 강릉시 아이스아레나에서 열린 2024년 바르게살기운동 전국회원대회에서 축사를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령은 17일 “우리 사회를 교란하는 거짓 선동과 가짜 뉴스를 물리쳐야 한다”고 말했다.&lt;br&gt;&lt;br&gt;윤 대통령은 이날 오후 강원 강릉시에서 열린 2024년 바르게살기운동 전국회원대회에 참석해 축사를 통해 “가짜 뉴스와 허위 선동을 바탕으로 해서는 자유민주주의 사회가 될 수 없다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;바르게살기운동협의회는 진실, 질서, 화합의 3대 정신을 실천하기 위한 국민운동을 목표로 하는 법정 사회단체로, 1989년에 설립돼 올해로 출범 35주년을 맞았다. 약 82만명이 회원으로 활동하고 있고, 이날 대회에는 8000여명이 참석했다.&lt;br&gt;&lt;br&gt;윤 대통령은 “대회의 기치가 ‘자유와 번영의 대한민국’으로 돼 있는데, 자유주의 사회는 진실에 터 잡는 것”이라고 강조했다. 이어 “자유인은 확고한 책임 의식을 갖고 다른 사람의 자유를 존중해야 하고, 우리 국민 모두의 자유가 공존하기 위해서는 법과 질서를 지켜야 한다”며 “첫 번째가 진실이고 두 번째가 질서”라고 두 가치를 강조했다.&lt;br&gt;&lt;br&gt;윤 대통령은 또 “자유주의 사회는 힘 있는 사람만 자유를 누리는 것이 아니라, 어려운 형편에 처해 있는 사람에게 따뜻한 손길을 내밀면서 스스로 일어나 자유인이 될 수 있도록 도와주고, 협력하면서 우리 사회의 통합을 이루는 것”이라고 했다.&lt;br&gt;&lt;br&gt;윤 대통령은 “바르게살기운동은 바로 이런 자유민주주의 사회를 제대로 건설하기 위한 운동”이라며 “바르게살기운동협의회는 전국 곳곳에서 온기 나눔 캠페인을 통해 어려운 이웃과 도움의 손길을 나눴고, 국가적 재난이나 재해가 발생했을 때 가장 먼저 현장으로 달려가 피해 복구 지원과 구호 활동에 앞장서주셨다. 자유와 연대의 정신을 실천으로 보여주고 계신다”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령은 “AI(인공지능)를 비롯한 첨단 기술의 발전으로 큰 기회의 문이 열리고 있지만, 동시에 여러 도전이 우리 앞에 놓여 있다”며 “북한은 도발과 위협을 멈추지 않고 있고, 안보와 경제를 위협하는 글로벌 복합 위기도 계속되고 있다”고 진단했다. “저출생과 고령화로 인한 인구 위기도 우리의 발걸음을 무겁게 하고 있다”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령은 그러면서 “게다가 끊임없이 생산되는 가짜 뉴스들이 우리의 자유민주주의를 위협하고 있다”며 “지금이야말로 바르게살기운동의 3대 정신인 진실, 질서, 화합의 힘이 절실할 때다. 여러분께서 진실의 힘으로, 우리 사회를 교란하는 거짓 선동과 가짜 뉴스를 물리쳐주셔야 한다”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령은 이어서 “대한민국과 미래 세대를 위해 개혁의 발걸음을 멈추지 않겠다”고 했다. 윤 대통령은 “연금 개혁, 노동 개혁, 교육 개혁, 의료 개혁의 4대 개혁은 국가의 지속 가능한 발전을 위해 지금 당장 하지 않으면 안 되는 절체절명의 과제들”이라며 “많은 어려움이 있을 것이고, 저항이 있을 것이지만, 4대 개혁을 반드시 완수할 것”이라고 했다.&lt;br&gt;&lt;br&gt;윤 대통령은 이날 대회를 마친 뒤 김진태 강원지사와 김시성 강원도의회 의장을 비롯한 참석자들과 함께 강문해변을 돌아보며 시민들을 만났다.&lt;br&gt;&lt;br&gt;윤 대통령은 이어서 김 지사 등과 늦은 오찬을 함께 하며 산업단지에 기업이 잘 들어서고 있는지, 규제 개선이 필요한 부분은 무엇인지, 인구 추이는 어떻게 되는지, 지역 관광 산업 활성화 방안은 무엇인지 등을 묻고 지역 현안을 청취했다고 대통령실은 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독]경찰청, 잇따른 범죄 압수금 횡령에 전국 경찰서 전수 점검 지시</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/17/7DLNGLAKLRBNVNU7DTBS2EBWVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/17/7DLNGLAKLRBNVNU7DTBS2EBWVY/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Oct 2024 07:25:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DDVM2VYNVRPPFGBD6O5MC3TC74.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 경찰관이 억대 규모의 범죄 압수금을 횡령하는 사건들이 발생한 가운데, 경찰이 전국 경찰서 현장 긴급 점검에 나서기로 했다.&lt;br&gt;&lt;br&gt;경찰청은 17일 오후 3시 전국 경찰 지휘부 화상회의를 열고 범죄 압수물 횡령 등 경찰관의 의무 위반 행위에 대해 긴급현장점검과 전수 점검 조치를 지시했다.&lt;br&gt;&lt;br&gt;이날 회의에서 경찰청은 비위 행위가 발견된 강남경찰서와 용산경찰서 외에 타 경찰서에도 유사 사례가 없는 지 검토하도록 지시했다. 점검 결과와 함께 유사 사례 재발을 방지하기 위한 개선 계획 또한 보고하도록 했다. 경찰청 국가수사본부는 18일부터 25일까지 전국 경찰관서를 대상으로 통합 증거물 관리 현황 전수조사를 실시할 방침이다.&lt;br&gt;&lt;br&gt;최근 범죄 압수금을 관리하는 경찰관이 압수 금액을 빼돌리는 사건들이 잇달아 발생하고 있다. 서울 용산경찰서는 16일 오후 6시 54분쯤 용산서 형사과 소속 경찰관 A씨를 긴급 체포했다. A씨는 보이스피싱 범죄 수사 중 경찰이 압수한 현금을 빼돌린 혐의를 받는다. A씨가 빼돌린 금액은 억대 규모로 추정되고 있으며, 경찰은 수사를 통해 정확한 규모를 파악할 계획이다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 지난 14일 강남경찰서 B경장을 압수물 3억원을 횡령한 혐의로 긴급체포했다. B 경장은 도박 업소 등 불법 행위를 수사하며 경찰이 압수한 범죄 수익을 수 차례 빼돌린 혐의를 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>법원 “방통위, MBC PD수첩 과징금 취소해야…‘2인 체제’ 의결은 위법”</title>
@@ -817,77 +918,6 @@
       </media:content>
     </item>
     <item>
-      <title>[오늘의 운세] 10월 18일 금요일 (음력 9월 16일 乙卯)</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/17/VLONUUTIOBGDZIRAIA3V7W4LEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/17/VLONUUTIOBGDZIRAIA3V7W4LEE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Oct 2024 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 지금 이 순간을 즐기는 게 최선. 48년생 잘못 옮긴 말이 화 부를 수도. 60년생 잘나간다고 과속하면 위험천만. 72년생 어디에도 치우침 없는 중도를 견지하도록. 84년생 유흥 시류에 빠지기 쉬운 시기. 96년생 이성 관계는 소강상태가 지속.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 채웠으면 비울 줄도 알아야. 49년생 모든 행위에 앞서 선택 기준은 가족. 61년생 할 수 있는 것과 할 수 없는 것을 구분하라. 73년생 아무리 바빠도 할 일은 빼먹지 말라. 85년생 크게 낙심할 일은 아니다. 97년생 경제적 빈곤보다 생각의 빈곤이 문제.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 생각지 못한 귀인이 방문. 50년생 잃고도 얻는 것이 있다. 62년생 자만심으로 자존심이 다칠 수도. 74년생 먼저 예단하지 말고 타진한 뒤 진행하는 것이 우선. 86년생 정체와 지체가 반복되는 하루. 98년생 구설수 있으니 언행을 삼가도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 좋은 소식, 안 좋은 소식이 동시에. 39년생 개똥참외도 먼저 맡은 사람이 임자. 51년생 어차피 할 일이면 즐겁고 재미있게. 63년생 진급 혹은 명예 살아나는 시기. 75년생 육친이 시기하니 주변을 경계. 87년생 주책없는 사람은 되지 말라. 99년생 귀중품 분실에 대비 철저히.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 첫술에 배부를 수 있나. 40년생 한 발짝 물러나 전체 보는 안목 필요. 52년생 계획에 없는 유희를 경계하라. 64년생 지난 일에 집착 말라. 76년생 안주하는 삶도 계획은 있어야. 88년생 생각만큼 쉽게 끝나지 않을 수도. 00년생 비관은 사고를 정지시킨다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 꼭 해야 할 일이 아니라면 나서지 말라. 41년생 주변사람 부러워할 것 없다. 53년생 관절, 치아 질환 주의. 65년생 억지로 될 일 아닌 듯. 77년생 감정 변화 많을 수도. 89년생 꿩이 없으니 닭이라도 감지덕지. 01년생 역경을 만나더라도 흔들림 없이 가야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 지금 당장 결과 보려 하지 말라. 42년생 선택과 집중도 우선순위 필요. 54년생 계약이나 문서거래는 전문가 조언이 필수. 66년생 단도직입보다 은근하게 접근하도록. 78년생 친구 동료로 인해 웃음이 만면. 90년생 투자한 만큼 가치는 있을 듯. 02년생 긁어 부스럼 만들지 말라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 곤란함 있다면 아랫사람과 상의. 43년생 생각만큼 쉽게 끝나지 않을 수도. 55년생 여러 가지를 동시에 진행하려 말라. 67년생 입 귀에 걸릴 만큼 뜻밖에 웃을 일이. 79년생 생각 너무 많아도 문제. 91년생 여행과 운동으로 삶의 여유를. 03년생 미리 서두르면 나중이 편안.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 기대치 낮춰야 후회 없다. 44년생 중요한 일 처리는 오전보다 오후에. 56년생 정신적 내진 설계 갖추도록. 68년생 지금에 만족하면 나중이 행복. 80년생 입은 있으나 할 말이 없으니 유구무언. 92년생 물질적인 도움은 받을 수 있다. 04년생 긁어 부스럼 만들지 말라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 작은 것도 허투루 넘기지 말아야. 45년생 씨앗도 제때에 맞게 뿌려야 싹이 튼다. 57년생 현재 자신이 처한 환경을 고려하면서 움직이도록. 69년생 마음의 여유가 재물의 여유. 81년생 뱀띠가 도우면 목적 달성 쉽다. 93년생 계획은 여유를 갖고 세우도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 결론은 빠를수록 좋다. 46년생 믿는 대로 이루어지리라. 58년생 맞아봐야 아픈 줄 알까. 70년생 결과 좋다고 과정까지 정당화되진 않을 수도. 82년생 준비했던 만큼만 발휘해도 잘한 것. 94년생 무작정 벌이면 수습 어려우니 꼼꼼히 따져보도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 신중한 처신은 허물을 적게 한다. 47년생 옳은 충언도 사람과 상황을 봐가며. 59년생 아는 사이 금전거래에 셈을 정확히. 71년생 삼대(三代) 거지 없고 삼대 부자 없다. 83년생 최선을 다하는 모습에 주위가 감동. 95년생 금전적 문제로 건강을 해칠 수도.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?width=800&amp;height=420&amp;auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>[리빙포인트] 다 쓴 치약은 변기 물탱크에</title>
-      <link>https://www.chosun.com/culture-life/living/2024/09/23/64SSGHO7KFH3LJF6GUQUBDCY6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/living/2024/09/23/64SSGHO7KFH3LJF6GUQUBDCY6A/</guid>
-      <description/>
-      <pubDate>Sun, 22 Sep 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMSV73LTH5BMLL2B2SKFUMCF6Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;거의 다 쓴 치약은 끝을 가위로 잘라 변기 물탱크에 넣어보자. 남은 치약이 물에 섞여 2주 정도 변기가 깨끗하게 유지된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“인생 즐기려고 애들 버렸냐더라”…양육권 포기한 율희 ‘오열’</title>
-      <link>https://www.chosun.com/national/people/2024/10/17/PWGTDOUXT5DBTDHWWVYYBNVPHM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/17/PWGTDOUXT5DBTDHWWVYYBNVPHM/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Oct 2024 07:51:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3H3UE7CKUZB77D6HP6PUVT3QWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 라붐 출신 율희가 자녀들에 대해 이야기 하며 눈물을 보이고 있다. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세 아이의 엄마인 그룹 라붐 출신 율희(본명 김율희‧27)가 이혼 후 근황을 공개하며 오열했다.&lt;br&gt;&lt;br&gt;율희는 지난 16일 TV조선 ‘이제 혼자다’ 선공개 영상에서 이혼 과정에서 양육권을 포기했다는 사실이 알려진 후 쏟아진 반응에 상처를 입었다고 밝혔다.&lt;br&gt;&lt;br&gt;율희는 지난 2018년 FT아일랜드 최민환과 결혼해 슬하에 1남 2녀를 뒀지만 지난해 이혼 과정에서 양육권을 포기했다.&lt;br&gt;&lt;br&gt;방송에서 율희는 실제로 ‘아이들 자기가 안 키우잖아’라는 말을 듣기도 했다. 율희는 “(일부 사람들은) ‘너 이렇게 놀고 살려고, 네 인생 즐기려고 아이들 버렸구나’라고 하더라”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DO5P7UHZQCWHB6R3T2Z23W5L4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;FT아일랜드 최민환과 율희. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이혼 후 율희는 자신의 소셜미디어를 통해 일상을 공개해왔는데 ‘율희, 세 자녀와 안 사니 여유로운 아침’ 등 율희가 양육 의무에서 벗어나 일상을 만끽하고 있다는 식의 추측성 기사들이 나오기도 했다.&lt;br&gt;&lt;br&gt;율희는 아이들을 사랑하지 않아서 양육권을 포기한 것이 아니라며 “집 나오기 전까지 울면서 아이들 사진을 다 찍었다”고 했다.&lt;br&gt;&lt;br&gt;율희는 앞서 양육권을 전 남편인 최민환이 가져간 것에 대해 “현실적인 문제와 최대한 심리적인 불안함이 크지 않도록 (아이들이) 지금까지 생활하던 공간에서 지내는 게 맞다고 판단했다”고 설명한 바 있다.&lt;br&gt;&lt;br&gt;한편 최민환은 이혼 후 KBS 2TV ‘슈퍼맨이 돌아왔다’를 통해 세 아이를 혼자 돌보는 모습을 공개해왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2391] 얼굴 삼행시</title>
-      <link>https://www.chosun.com/national/nie/2024/06/03/MVJOVAJNQVDPNG6FGAUYPQDTQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/03/MVJOVAJNQVDPNG6FGAUYPQDTQA/</guid>
-      <description/>
-      <pubDate>Sun, 02 Jun 2024 20:01:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2SALETBLVH6FDWEAWO3LGQB5M.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2392] 오늘은 뭘 볼까</title>
-      <link>https://www.chosun.com/national/nie/2024/06/04/HIVT54OU4ZGABDURMALOZ24TWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/04/HIVT54OU4ZGABDURMALOZ24TWE/</guid>
-      <description/>
-      <pubDate>Mon, 03 Jun 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GPJBYKMHKNAA3ENPYKJS5SSQYY.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2393] 제목 외우기</title>
-      <link>https://www.chosun.com/national/nie/2024/06/05/YSHPQF3IGVBU3FOPXVVP7AAN6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/05/YSHPQF3IGVBU3FOPXVVP7AAN6M/</guid>
-      <description/>
-      <pubDate>Tue, 04 Jun 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C6OUJP4SMBGANOOLI55EKPMWKI.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2394] 그때를 기억하시나요</title>
-      <link>https://www.chosun.com/national/nie/2024/06/07/WOZTD5VKCFBDFAEADRYDFRB7UA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/07/WOZTD5VKCFBDFAEADRYDFRB7UA/</guid>
-      <description/>
-      <pubDate>Thu, 06 Jun 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QX3PQSB7H5CKXK57SKLEIV57DM.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>윤홍근 BBQ 회장, 1심서 벌금 3000만원...가족회사에 2억 지원 배임 혐의</title>
       <link>https://www.chosun.com/national/regional/2024/10/17/X2MY4T7AXVHDXEOGSTOD54TBGU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/17/X2MY4T7AXVHDXEOGSTOD54TBGU/</guid>
@@ -895,19 +925,6 @@
       <description/>
       <pubDate>Thu, 17 Oct 2024 07:34:59 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QKKMZINMBLZ4RJMZU7EXRRWPIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 BBQ 매장의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경영난을 겪는 가족회사에 지주회사 자금을 대여해 회사에 손해를 끼친 혐의로 기소된 윤홍근 제너시스BBQ 그룹 회장이 1심에서 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;수원지법 성남지원 형사2부(재판장 이진혁)는 17일 특정경제범죄가중처벌법 상 배임 혐의로 기소된 윤 회장에게 벌금 3000만원을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 공소사실 배임액 43억여원 중 2억1000여만원에 대해 “피해사(제너시스BBQ)와 계약사(J사) 간 법률상 이해관계가 없어 자금 지원 자격이 없는데도 피고인이 부담해야 할 자금을 피해사가 대신 지원한 것으로 볼 수 있다”며 “피고인의 가족회사에 대한 자금 지원은 배임에 해당하며, 고의가 있었다고 인정할 수 있다”고 판시했다.&lt;br&gt;&lt;br&gt;그러나 나머지 공소사실 배임액 41억원에 대해서는 배임으로 볼 수 없고, 고의가 있었다고 보기도 어렵다고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 J사가 윤 회장 일가가 설립한 가족회사지만 실제로는 제너시스BBQ 그룹의 계열사처럼 운영됐고, 그룹 계열사와 공동이익 및 시너지 효과를 추구하는 관계였다는 점을 판단의 근거로 들었다.&lt;br&gt;&lt;br&gt;윤 회장은 제너시스BBQ 그룹이 2013~2016년 J사에 자금 수십억 원을 대여하도록 한 뒤 충분한 회수 조처를 하지 않아 제너시스BBQ에 재산상 손해를 끼친 혐의로 기소됐다. J사는 윤 회장 일가가 2013년 7월 지분 100%를 투자해 설립한 개인 회사이며 자본 잠식 등 이유로 매각됐다.&lt;br&gt;&lt;br&gt;이 사건 수사는 경쟁사인 bhc치킨이 2021년 4월 윤 회장을 배임 혐의로 고발하면서 시작됐다. 1년여간 수사한 경찰은 2022년 7월 불송치 처분했으나 bhc의 항고가 받아들여져 검찰은 윤 회장에게 배임 혐의가 있다고 보고 지난해 1월 불구속 기소했다.&lt;br&gt;&lt;br&gt;제너시스BBQ 관계자는 “공소사실의 전체 배임액 43억여원 중 2억1000여만원에 대해 유죄로 판단한 벌금형 선고는 아쉽다”며 “항소를 통해 모든 대여 행위가 정상적인 경영 활동이었음을 입증하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대공수사 교육 받는 수사관들, 지원은커녕 자비 쓰며 교육 받는다</title>
-      <link>https://www.chosun.com/national/2024/10/17/U32LKTJDQBFV5PS56ZLKIAUG4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/10/17/U32LKTJDQBFV5PS56ZLKIAUG4Q/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Oct 2024 06:06:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G74WARW5MBOB7LVBLCY64CLQP4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;작년 6월 경찰청 및 시·도청 안보수사팀장 및 책임안보수사관 지원자들이 서울 서대문구 경찰청에서 열린 안보수사 지휘역량 평가시험에서 시험 시작을 기다리고 있는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 국정원의 대공 수사권이 경찰로 전면 이양된 가운데, 경찰청이 안보 수사 교육을 받기 위해 상경한 경찰관들의 숙박비ㆍ식비ㆍ교통비 등을 지원하지 못하는 것으로 17일 나타났다. 이들은 자비를 들여 교육을 받고 있다.&lt;br&gt;&lt;br&gt;경찰청은 대공 전문수사 인력을 양성하기 위해 예산 16억원을 들여 안보 수사 연구·교육 센터를 열었다. 매년 경찰 670여명이 안보 수사 연구·교육 센터에서 ‘안보 수사 전문 교육’을 받은 뒤 대공 수사 현장에 투입된다. 산업 기술 유출 수사, 테러·방첩수사, 디지털 포렌식, 해외 첩보 수집 등 다양한 대공 수사 실무를 배운다.&lt;br&gt;&lt;br&gt;그런데 이 교육을 받기 위해 상경한 경찰들은 자비로 숙박비, 식비를 충당하고 있다. 예를 들어 ‘대공수사 실무1(수사서류작성)’ 교육 과정은 5일 동안 진행되는데, 상경한 경찰들은 교육 여비를 받지 못하기 때문에 5일 동안 자비를 들여 숙소를 마련해야 한다.&lt;br&gt;&lt;br&gt;올해 경찰청 예산에 ‘안보수사 전문과정 교육 여비’가 반영되지 못하면서 벌어진 일이다. 경찰청은 숙박비 9750만원, 식비 5220만원, 교통비 3410만원 등 총 2억2000만원의 예산을 지난해 신청했지만 통과되지 못했다고 한다. 올해 경찰이 안보 수사 역량 강화를 위해 잡은 예산은 345억원 정도다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/G74WARW5MBOB7LVBLCY64CLQP4.JPG?width=5498&amp;height=3806&amp;auth=f70e16974fcfc56651324b34a31443ebd7e0c9ad70494e2cb62d420ba8ae7789&amp;smart=true" type="image/jpeg" height="3806" width="5498">
-        <media:description type="plain">(서울=뉴스1) 안은나 기자 = 경찰청 및 시·도청 안보수사팀장 및 책임안보수사관 지원자들이 15일 서울 서대문구 경찰청에서 열린 안보수사 지휘역량 평가시험에서 시험 시작을 기다리고 있다. 2023.6.15/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 안은나 기자</media:credit>
-      </media:content>
     </item>
     <item>
       <title>42억원 상당 케타민 유통하려다 경찰 위장거래에 덜미... 유통책 등 검거</title>
