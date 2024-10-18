@@ -13,6 +13,94 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 변호사가 우산 받쳐주고...문다혜, 음주운전 13일 만에 경찰 출석</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/18/A4G3SUNKIRBDVL2HIN5XRCLIGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/18/A4G3SUNKIRBDVL2HIN5XRCLIGI/</guid>
+      <dc:creator>김보경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Oct 2024 04:41:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SDKHZDA65BME7KTORUBYN6ODR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주운전 사고를 일으킨 문재인 전 대통령의 딸 다혜 씨가 18일 오후 서울 용산경찰서로 출석하며 취재진 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 전 대통령의 딸 문다혜(41)씨가 경찰 조사를 받기 위해 18일 오후 1시 40분 서울 용산경찰서에 출석했다. 음주운전 사건이 발생한 지 13일 만이다.&lt;br&gt;&lt;br&gt;하얀색 제네시스 G80 차량에서 변호사가 먼저 내려 검은색 우산을 펼쳤다. 문씨는 변호사가 받쳐준 우산을 쓰고 용산서 별관으로 들어서다가 취재진 앞에 서서 “죄송합니다”라고 했다. “음주운전으로 경찰 조사 받는데 한 말씀 부탁한다”는 취재진 질문에는 “죄송합니다, 성실히 조사 받겠습니다”라고 답하고 “당시 상황 기억하시나요”라는 질문에는 “죄송합니다”라고 답하며 용산서 별관으로 들어섰다. 경찰 관계자에 따르면 문씨 조사에는 1시간 30분쯤 소요될 전망이다.&lt;br&gt;&lt;br&gt;문씨는 지난 5일 오전 2시 51분쯤 서울 용산구 이태원역 근처에서 만취 상태로 자차를 몰다가 같은 길을 지나던 택시를 추돌했다. 경찰은 도로교통법 위반(음주운전) 등 혐의로 문씨를 조사할 계획이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;문씨는 출석 후 취재진에 ‘사죄문’을 전달했다. 아래는 ‘사죄문’ 전문.&lt;/b&gt;&lt;br&gt;&lt;br&gt;사죄문&lt;br&gt;&lt;br&gt;모든 분들께 깊이 사죄드립니다.&lt;br&gt;&lt;br&gt;해서는 안 될 큰 잘못을 했습니다. 부끄럽고 죄송합니다. 다시는 이런 일 없도록 반성하며 살겠습니다. 글로 말씀드리는 것이 제 마음을 더 솔직하게 표현할 수 있을 듯 하여 이렇게 글로 사죄의 말씀을 드립니다.&lt;br&gt;&lt;br&gt;저의 잘못으로 피해를 입은 기사님과 가족분들께는 다시 한번 진심으로 사죄드립니다. 기사님이 언론취재를 받는 곤혹스런 상황까지 겪게 되셔서 더욱 송구합니다. 하루 빨리 평온을 되찾으셨으면 합니다.&lt;br&gt;&lt;br&gt;그렇게 술을 많이 마시고 운전을 하였고 사고까지 발생하게 한 점에 대하여 깊이 반성하고 있습니다. 그나마 기사님이 신고해 주신 덕분에 제가 운전을 멈추고 더 큰 사고를 피할 수 있었다고 생각합니다. 기사님께 진심으로 감사드립니다. 사고 후 저의 사죄를 받아주신 것도 감사합니다.&lt;br&gt;&lt;br&gt;많은 분들이 걱정하시고 음주운전한 것을 꾸짖으셨습니다. 다시는 걱정하시지 않도록 저 자신을 성찰하며 살겠습니다.&lt;br&gt;&lt;br&gt;죄송합니다. 깊이 사죄드립니다.&lt;br&gt;&lt;br&gt;2024.10.18&lt;br&gt;&lt;br&gt;문다혜 올림&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z6NL4ULVNJDWJMUOWC3KMX4XMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문재인 전 대통령의 딸 문다혜(41)씨가 경찰 조사를 위해 서울 용산경찰서에 출석하고 있다. /김보경 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/SQURAYVFUBEZPIFMH5XHYEKWK4.jpg?width=4128&amp;height=2322&amp;auth=3642a8f02dbed62b5cb90461a67099c39dd80637880a70f2f04b5b1e9d377781&amp;smart=true" type="image/jpeg" height="2322" width="4128">
+        <media:description type="plain"> 경찰 출석하는 문다혜
+    (서울=연합뉴스) 서대연 기자 = 음주운전 사고를 일으킨 문재인 전 대통령의 딸 문다혜 씨가 18일 오후 서울 용산경찰서로 출석하고 있다. 2024.10.18
+    dwise@yna.co.kr/2024-10-18 13:52:32/
+&amp;lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&amp;gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">서대연</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>의협회장, 대통령실 인사 겨냥해 “정신분열증 환자의 X소리”</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/18/DONOB3KPM5BN5MFHEFY2GX33I4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/18/DONOB3KPM5BN5MFHEFY2GX33I4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Oct 2024 05:06:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7AMI7APWIBIC7IH7KMCTHRHKXY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;임현택 대한의사협회장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임현택 대한의사협회(의협) 회장이 의대 정원이 늘어도 문제없이 교육이 가능하다고 주장한 대통령실 관계자를 향해 “정신분열증 환자의 X소리”라고 원색적인 비난을 퍼부었다. 임현택 회장은 과거 여러 차례 막말 논란에 휘말린 바 있다.&lt;br&gt;&lt;br&gt;임 회장은 지난 17일 밤 11시쯤 자신의 소셜미디어를 통해 “내년 예과 1학년의 경우 올해 신입생과 내년 신입생을 합쳐 7500여 명이 수업을 듣게 된다. 실습보다 강의 위주인 예과 1학년 교육 특성을 감안하면 교육이 가능하다고 판단하고 있다”는 대통령실 고위관계자의 발언을 소개했다. 임 회장은 이 고위관계자가 장상윤 대통령실 사회수석이라고 특정했다.&lt;br&gt;&lt;br&gt;이어 임 회장은 “장상윤 이 작자는 도대체 제정신인지. 매일 같이 정신분열증 환자 같은 X소리 듣는 것도 지친다”며 “장상윤은 무책임한 소리 그만하고 내가 하는 얘기가 틀리면 전 재산을 사회에 환원해서 책임지겠다고 하고, 공탁해야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;임 회장은 의정 갈등이 시작된 후 거친 발언으로 여러 차례 구설에 올랐다. 임 회장은 과거 집단 휴진에 동참하지 않은 대한아동병원협회를 “멀쩡한 애 입원시키는 사람들”이라고 비하했고, 자신의 소셜미디어를 통해 강선우 더불어민주당 의원을 ‘미친 여자’라고 표현해 논란이 되기도 했다.&lt;br&gt;&lt;br&gt;의대생 단체인 대한의과대학·의학전문대학원학생협의회(의대협)는 지난 7월 보도자료를 통해 “임 회장이 의협 회장이라는 무거운 자리에 있음에도 ‘표현의 자유’라며 부적절한 공적 발화를 일삼고 있다”며 “임 회장의 연이은 막말, 개인의 무례 때문에 의료계 전체의 이미지가 실추됐다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] “베트남으로 갈래요” 한국 의사 수십명 지원</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/10/17/BGBTPWJQNBH3HKAMNKUMYCPOXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/17/BGBTPWJQNBH3HKAMNKUMYCPOXM/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Oct 2024 20:02:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZGSO33YZJL4ZFCRSGVT5ACP5XY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 대학병원에서 의료진이 분주하게 움직이는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 한국 의사들의 베트남 진출이 다시 활발해지고 있다. 한국 의사들에게 ‘주 44시간 근무, 월급 3000만원’ 등 파격적 근무 조건을 내놓는 베트남 현지 병원도 나타났다.&lt;br&gt;&lt;br&gt;16일 의료계에 따르면, 다음 달 2일 베트남 호찌민 의대에서 열리는 외국인 의사를 위한 영어 시험에 국내 의사 30명 이상이 응시한 것으로 확인됐다. 지난달 말 이들은 신체검사를 받으러 호찌민을 방문했다고 한다. 베트남의 자격 인정 절차를 거쳐 현지 병원에서 근무하며 돈을 벌려는 것이다.&lt;br&gt;&lt;br&gt;한국보건산업진흥원의 ‘해외 진출 보건 의료 인력 국가별 진출 가이드북’에 따르면, 베트남은 의료 기술 수준이 높은 국가의 의사에게 현지 자격 시험 성적을 따로 요구하지 않고, 출신 국가에서 받은 의사 면허증 등 공증 서류를 내도록 하고 있다. 다만 베트남 현지에서 신체검사와 의료인 영어 시험을 거쳐야 한다. 영어 시험 등 베트남의 외국인 의사 활동 자격 인정 절차는 코로나로 중단됐다가 약 3년 만에 재개됐다고 한다. 2020년 기준 베트남의 인구 1000명당 의사 수는 0.99명으로 한국(2.5명)의 절반에 못 미친다.&lt;br&gt;&lt;br&gt;최근 베트남 진출을 희망하는 한국 의사가 늘면서, 서류 공증 작업이나 현지 소통 등을 대신해 주는 중개 업체도 성업 중이다. A 중개 업체 관계자는 “베트남에서 인기가 많은 성형외과, 피부과뿐 아니라 응급의학과 전문의나 치과 의사 등도 베트남 현지 활동 자격을 많이 신청한다”고 했다.&lt;br&gt;&lt;br&gt;올해는 사직 전공의 문의도 늘었다고 한다. B 중개 업체 관계자는 “일부 사직 전공의는 개원가에 취직했다가 근무 조건에 만족하지 못하고 해외 진출을 생각하고 있다”고 했다.&lt;br&gt;&lt;br&gt;‘베트남의 삼성’이라고 하는 ‘빈 그룹’의 의료 계열사 ‘빈멕 헬스케어 시스템’은 지난 5~6월 내과·소아과·산부인과 전문의 등 한국 의사를 모집했다. 공고에서는, 베트남 수도 하노이에 있는 규모 4000㎡ 최신식 병원에서 근무할 한국 의사에게 주 44시간 근무에 월 급여 3000만원, 주거 지원금 월 800달러(약 108만원) 등 파격적 근무 조건을 제시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“인간성 회복 기대 어렵다”...’여성 다방업주 2명 살해’ 이영복 무기징역</title>
+      <link>https://www.chosun.com/national/incident/2024/10/18/RQWALAQJE5FDFANTSESLKR7ZBQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/18/RQWALAQJE5FDFANTSESLKR7ZBQ/</guid>
+      <dc:creator>고양=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Oct 2024 04:52:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NXSFFCU64ONLFVDG4H5YUS5E5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 고양시와 양주시 다방에서 60대 여성 업주 2명을 잇따라 살해한 혐의로 구속된 이영복. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 고양시와 양주시에서 혼자 일하던 여성 다방업주 2명을 잇달아 살해한 이영복(57)에게 1심 법원이 무기징역을 선고했다.&lt;br&gt;&lt;br&gt;의정부지법 고양지원 형사합의1부(재판장 김희수)는 강도살인 및 성폭력처벌법 위반(강간 등 살인)혐의로 구속기소된 이씨에게 무기징역을 선고했다고 18일 밝혔다. 또 신상정보 공개 고지 10년, 아동·청소년 관련 기관과 장애인 관련 기관 취업제한 10년, 위치추적 전자장치 부착 20년 등을 명령했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 손쉽게 제압할 수 있다고 판단한 여성을 대상으로 무고한 생명을 빼앗는 범죄를 저질렀을 뿐만 아니라 과거에도 크고 작은 범죄를 저질러 왔던 터라 교화의 가능성이 있다거나 인간성을 회복할 수 있을 것이라고 기대하기 어렵다”며 “피해자들의 유족에게 아무런 피해 회복의 노력도 하고 있지 않다”고 양형이유를 설명했다.&lt;br&gt;&lt;br&gt;이어 “무고한 사람의 생명을 침해한 범죄는 반드시 상응하는 대가를 치르게 해서 재발하지 않도록 할 필요성이 크다”며 “기간의 정함이 없이 사회로부터 격리된 상태에서 수감생활을 통해 자신의 잘못을 진정으로 참회하고 사망한 피해자들에게 속죄하는 마음을 갖고 살아가도록 하는 것이 정당하다고 판단된다”고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난 9월 결심 공판에서 이영복에게 사형을 구형했다.&lt;br&gt;&lt;br&gt;이영복은 지난해 12월 30일과 올해 1월 5일 고양시와 양주시 다방에서 홀로 영업하는 60대 여성 업주 2명을 잇달아 살해하고 현금을 뺏어 달아난 혐의를 받고 있다. 그는 범행 후 경찰 수사망을 피해 도주했다가 지난 1월 5일 강원 강릉에서 긴급체포됐다.&lt;br&gt;&lt;br&gt;검찰은 국립과학수사연구원의 유전자 감정 결과 등 보완 수사를 통해 이영복이 양주시 다방의 업주를 상대로 성폭행을 시도한 혐의를 확인하고 강간 등 살인 혐의를 추가 적용했다. 이영복은 대부분의 공소 사실에 동의하면서도 성범죄 혐의에 대해서는 부인했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>유실물 신고된 교통카드 500장 잔액 털어간 경찰 직원 검찰 송치</title>
+      <link>https://www.chosun.com/national/incident/2024/10/18/RKRSSAR4ZBG3JNNFCRBTUWCIAU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/18/RKRSSAR4ZBG3JNNFCRBTUWCIAU/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Oct 2024 04:48:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4BOXEZGCWTTBIBF7BYZYZOQOKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 동작경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰서 직원이 유실물로 접수된 교통카드 수백장을 빼돌린 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 서울 동작경찰서 소속 행정관 50대 여성 A씨를 업무상 횡령 혐의로 지난 7월 송치했다고 18일 밝혔다. A씨는 범죄예방대응질서계에서 근무하며 유실물로 접수된 교통카드 500여 장을 수년간 횡령한 혐의를 받는다. A씨는 현재 휴직 상태로, 빼돌린 금액은 총 800여 만원으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨의 범행은 지난 3월 한 시민이 잃어버린 교통카드에서 돈이 빠져나간 사실을 인지하고 경찰에 신고하며 드러났다. 사건을 접수한 영등포경찰서가 교통카드 출금 기록을 추적한 결과, 유실물 업무를 맡던 A씨가 접수된 교통카드 잔액을 자신의 계좌로 입금했다고 한다.&lt;br&gt;&lt;br&gt;통상 유실물로 접수된 교통카드는 경찰에서 보관하다가 일정 기간이 지난 후 국고로 환수된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“코 심하게 골아서...” 교도소서 재소자 죽이려 한 80대 무기수 </title>
+      <link>https://www.chosun.com/national/national_general/2024/10/18/UA2NO554E5HF3HRZJEL74BOPHI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/18/UA2NO554E5HF3HRZJEL74BOPHI/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Oct 2024 04:23:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HC5UFRKA6NOBE7TUP5TEJCTY5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고법 춘천재판부. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;살인죄로 무기징역을 받고 교도소에서 복역하던 중 함께 수형 중이던 재소자가 코를 심하게 곤다는 이유로 말다툼하다가 살해를 시도한 80대가 추가로 실형을 선고받았다.&lt;br&gt;&lt;br&gt;18일 법조계에 따르면, 서울고법 춘천재판부 형사1부(재판장 민지현)는 살인미수와 공용물건손상 혐의로 기소된 A(82)씨가 낸 항소를 기각하고, 징역 5년을 선고한 원심판결을 유지했다.&lt;br&gt;&lt;br&gt;A씨는 작년 12월 6일 3시 50분쯤 원주교도소 수용실에서 무게 8.8㎏의 나무 밥상과 식판으로 B(60)씨의 얼굴과 상체를 수차례 내려찍어 살해하려 한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;그는 나무 밥상으로 B씨를 내려찍다가 놓치자 이후, 건조대에 있는 식판을 집어 들고 식판이 깨질 때까지 폭행했다. B씨는 코뼈가 부러지고 뇌진탕 진단을 받는 등 약 4주간 치료가 필요한 상처를 입었다.&lt;br&gt;&lt;br&gt;A씨는 범행 전날 B씨의 코골이를 문제 삼으며 말다툼하다가 욕설을 듣자 범행을 마음먹은 것으로 조사됐다. A씨는 1999년 4월 창원지법에서 살인죄 등으로 무기징역을 선고받은 상태였다.&lt;br&gt;&lt;br&gt;1심은 “살인죄로 수형 중 또다시 살인미수 범행을 저질렀음에도 반성이나 미안함을 보이기보다는 수사기관에서 ‘피해자를 죽이겠다’ ‘처리해야겠다’라고 진술하는 등 범행 원인이 피해자라는 태도를 보였다”며 “또 수형생활이 지겹다는 태도를 보이는 점에 비추어 보면 성품과 행실 개선 의지나 반성의 기미를 찾기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;2심은 “항소심에 이르러 양형 조건에 본질적인 변화가 발생했다고 평가하기 어렵고, 원심의 양형은 합리적인 범위 내에서 이뤄져 타당하다”며 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>중앙지검장 “김여사 무혐의, 법리 따라 처리... 용산과 소통한 적 없다”</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/18/LBDHESWYJZGRNOXYCW7GKZQYGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/18/LBDHESWYJZGRNOXYCW7GKZQYGI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Oct 2024 03:38:37 +0000</pubDate>
+      <content:encoded>이창수 서울중앙지검장은 18일 윤석열 대통령 부인 김건희 여사의 디올백 수수 의혹 및 도이치모터스 주가조작 연루 의혹을 무혐의 처분한 데 대해 “수사팀과 머리를 맞대고 증거와 법리에 따라서 제대로 처리했다고 생각한다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HQD5HKBL5BNUVP7LIY6PAGZXTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이창수 서울중앙지검장이 18일 오전 서울 여의도 국회에서 열린 법제사법위원회의 서울고등검찰청, 서울중앙지방검찰청 등에 대한 국정감사에서 의원 질문에 답변하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 지검장은 이날 국회 법제사법위원회 국정감사에서 검찰이 부실 수사를 했다는 지적에 대해 이같이 말했다. 두 사건 모두 압수 수색 등 강제수사를 진행하지 않았다는 지적에 이 지검장은 “압수 수색을 자꾸 말씀하시는데 기본적으로 그렇게 아무 사건이나 휴대전화를 무조건 가져와야 하는 것은 아니다”고 했다.&lt;br&gt;&lt;br&gt;특히 디올백 수수 의혹 수사 과정에서 “임의적인 방법으로 충분한 진술을 확보했고, 카카오톡도 전부 확보했다”고 말했다. 김 여사는 디올백 수수와 관련해 디올백을 건넨 재미교포 목사 최재영씨와의 카카오톡 일체를 임의제출했다.&lt;br&gt;&lt;br&gt;김 여사를 검찰청사가 아닌 대통령경호처 부속청사에서 조사한 것에 대해선 “기본적으로 검찰청으로 나오라는 소환 요구를 했으나, 변호인 측에서 경호 안전 문제가 있기 때문에 검찰청으로 나가는 것보다는 다른 곳에서 하면 안 되냐는 의사를 전해왔다”고 설명했다.&lt;br&gt;&lt;br&gt;그러면서 “수사 준칙이라든가 법무부 검찰사건사무규칙에 보면 조사 장소에 있어서는 피의자 또는 변호인과 상의하게 돼 있다”고 덧붙였다. 김 여사 측과 상의를 거쳐 조사했다는 취지다.&lt;br&gt;&lt;br&gt;한편, 이 지검장은 ‘디올백 사건에 대해 용산 대통령실과 소통했느냐’는 질의엔 “그런 적 없다”며 “이런 오해를 받을 수 있기 때문에 수사팀에 변호인과 소통하라고 얘기했다”고 밝혔다.&lt;br&gt;&lt;br&gt;‘두 사건을 불기소해주기로 하고 지검장 자리를 받았느냐’ ‘대통령실로부터 외압이나 무혐의 종결 지침이 있었느냐’는 질문에 이 지검장은 “그런 적 없다”고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 송도에 재외동포웰컴‧한인비즈니스센터 개관</title>
+      <link>https://www.chosun.com/national/regional/2024/10/18/TYD5PQQ3AVE45I7SQOZ7AERXDA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/18/TYD5PQQ3AVE45I7SQOZ7AERXDA/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Oct 2024 04:42:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XP35H3ZO2NJWJADGR2BBV3HYGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 인천 연수구 송도국제도시 부영송도타워에서 열린 ‘재외동포웰컴센터‧한인비즈니스센터 개소식’에서 유정복 인천시장(사진 왼쪽에서 7번째)과 이상덕 재외동포청장(사진 왼쪽에서 6번째) 등 참석자들이 기념촬영을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라를 찾는 재외동포들에게 맞춤형 서비스를 제공하기 위한 재외동포웰컴센터가 18일 인천 송도국제도시에 문을 열었다.&lt;br&gt;&lt;br&gt;인천시는 이날 인천 연수구 송도국제도시 부영송도타워에서 ‘재외동포웰컴센터’ 개소식을 열었다.&lt;br&gt;&lt;br&gt;이 건물 30층에 조성된 재외동포웰컴센터는 총 1034㎡ 규모로, 콘퍼런스룸과 미팅룸, 세미나룸, 갤러리, 휴식공간, 오픈오피스 등 시설을 갖췄다.&lt;br&gt;&lt;br&gt;재외동포웰컴센터는 우리나라를 찾는 재외동포들에게 주거와 의료, 관광, 교육 등에 대한 정보를 제공하게 된다. 또 재외동포 대상 한국어 교육과 문화체험, 전시 프로그램 등을 진행한다.&lt;br&gt;&lt;br&gt;재외동포웰컴센터와 같은 공간에 문을 연 한인비즈니스센터는 재외동포 경제인과 기업을 대상으로, 투자 상담과 컨설팅, 비즈니스 역량 강화 프로그램 등을 지원하게 된다.&lt;br&gt;&lt;br&gt;재외동포웰컴센터와 한인비즈니스센터가 들어선 부영송도타워 34~36층엔 외교부 산하 재외동포청이 입주해 있다.&lt;br&gt;&lt;br&gt;재외동포청은 708만 명에 달하는 재외동포와 관련한 정책과 사업을 총괄하는 정부기관으로 지난해 출범했다.&lt;br&gt;&lt;br&gt;유정복 인천시장은 “재외동포웰컴센터와 한인비즈니스센터가 300만 인천시민과 700만 재외동포를 연결하는 출발점이 돼 인천이 글로벌 도시로 도약하는 기반이 되길 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YWDHGPCXX5GPJFEO2PC7WAGFYQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;18일 인천 연수구 송도국제도시 부영송도타워 30층에 문을 연 재외동포웰컴센터 내부 휴게공간./인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>호텔 수영장서 숨진 해병대원…총지배인은 1심서 금고형</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/18/QAP6EJWRH5GW5K3R5T5MSS5XCM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/18/QAP6EJWRH5GW5K3R5T5MSS5XCM/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Oct 2024 04:40:15 +0000</pubDate>
+      <content:encoded>서울 서초구 한 호텔 수영장에 안전요원을 배치하지 않아 사망사고를 낸 호텔 총지배인이 금고형을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BHM32ZX2JVK7HLMEMPNYOHDGDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사11단독 김길호 판사는 업무상과실치사 혐의로 재판에 넘겨진 소모(47)씨에게 금고 8개월에 집행유예 2년을 선고했다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;서초구 양재 인근에 위치한 이 호텔에선 지난 2022년 2월 6일 사망 사고가 발생했다. 당시 투숙객인 20대 남성이 오후 6시 넘어 호텔 수영장에서 수영을 하다 의식을 잃었는데, 30여분간 홀로 방치돼 심정지 상태에 이르렀고 병원으로 이송됐지만 당일 숨졌다. 피해자는 해병대 소속 군인이었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;소씨는 해당 호텔 총지배인으로 호텔 내 시설에 대한 관리와 인력 배치 등을 총괄하는데, 수영장에 안전요원을 두지 않은 것으로 조사됐다. 그는 재판 과정에서 범행을 인정했지만, 피해자의 유족 측과는 합의에 이르지 못했고 유족들은 소씨의 공탁금 수령도 거부했다.&lt;br&gt;&lt;br&gt;김 판사는 “소씨는 수영장 내 안전사고 방지 의무를 다하지 않아 결과적으로 피해자가 사망에 이르는 중대한 결과를 초래해 사안이 매우 무겁다”면서도 “피해자의 유족이 제기한 관련 민사소송에서 인정된 손해배상금이 모두 유족 측에게 지급됐고 피고인도 피해회복을 위해 나름 노력한 점 등을 참작한다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>광주 ‘마세라티 뺑소니범’, 불법 도박 범죄조직 가담 정황 포착</title>
       <link>https://www.chosun.com/national/national_general/2024/10/18/JC33HR4NYVHD5DOUBUAS6CUUXI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/18/JC33HR4NYVHD5DOUBUAS6CUUXI/</guid>
@@ -800,51 +888,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QX3PQSB7H5CKXK57SKLEIV57DM.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[두근두근 뇌 운동] [2395] 칼럼 풀어 읽기</title>
-      <link>https://www.chosun.com/national/nie/2024/06/10/OOXGHQQTLNEVLMQESNXKM5CE6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/10/OOXGHQQTLNEVLMQESNXKM5CE6M/</guid>
-      <description/>
-      <pubDate>Sun, 09 Jun 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ENPVWWOB7JHERL7VMQHCPWWLWU.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2396] 신문은 스케치북</title>
-      <link>https://www.chosun.com/national/nie/2024/06/11/A3UPFHFQVFBLXF46RBIMZVB2YM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/11/A3UPFHFQVFBLXF46RBIMZVB2YM/</guid>
-      <description/>
-      <pubDate>Mon, 10 Jun 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DYNT3UHJCJGGZHMZ7CYT2LR6BE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2397] 문장 꽈배기</title>
-      <link>https://www.chosun.com/national/nie/2024/06/12/PUZLA3X4GBEGXLTJ3HVKYHX32Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/12/PUZLA3X4GBEGXLTJ3HVKYHX32Q/</guid>
-      <description/>
-      <pubDate>Tue, 11 Jun 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WVY6ALCMAVDS7EDUBGD7AR6ATE.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2398] 로꾸거 암송클럽</title>
-      <link>https://www.chosun.com/national/nie/2024/06/13/BXPQLUT77VG7HITFCF7AH67BAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/06/13/BXPQLUT77VG7HITFCF7AH67BAI/</guid>
-      <description/>
-      <pubDate>Wed, 12 Jun 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MKKW7GBTD5HNHK3HECJ25I2PBA.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, '티메프 사태' 연루 해피머니 전·현직 관계자 압수수색</title>
-      <link>https://www.chosun.com/national/2024/10/17/ZC55FYWD45ANXKDG7VQ4NMOHSE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/10/17/ZC55FYWD45ANXKDG7VQ4NMOHSE/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Oct 2024 07:45:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZSAVS2IQJVP3LLATSNFIXVSPQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 ‘티메프’(티몬·위메프) 미정산 사태와 관련해, 일부 가맹점에서 사용이 중지된 해피머니 상품권 운영사 관계자들 주거지를 압수수색했다..&lt;br&gt;&lt;br&gt;서울경찰청 금융범죄수사대는 17일 오전부터 해피머니 상품권 운영사인 해피머니아이엔씨 전 대표와 현 재무이사 주거지 2곳을 압수수색 중이라고 밝혔다. 해피머니 상품권은 티몬과 위메프 등에서 액면가의 7~10%가량 할인된 가격으로 판매되다 최근 정산 지연 사태가 일어나며 많은 가맹점이 사용을 중지했다. 이에 상품권 구매자들은 상품권 환불도 못 받고 있다며 해피머니아이엔씨 류승선 대표 등을 사기 혐의로 경찰에 고소했다.&lt;br&gt;&lt;br&gt;서울경찰청 금융범죄수사대는 지난 8월 해피머니 상품권 관련 고소·고발 사건 54건을 이관받아 수사 중이다. 해피머니 대표와 한국선불카드 대표 등 2명은 피의자로 전환돼 경찰 수사를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/ZSAVS2IQJVP3LLATSNFIXVSPQA.jpg?width=5685&amp;height=3581&amp;auth=9caff183d960d6223451abf4428d5733f0a7018c096d767415211b5378e6bd41&amp;smart=true" type="image/jpeg" height="3581" width="5685">
-        <media:description type="plain">[서울=뉴시스] 김근수 기자 = 경찰 관계자가 11일 오전 서울 마포구 서울경찰청 반부패공공금융강력마약범죄 수사대 안으로 들어가고 있다. 배우 유아인(본명 엄홍식)이 예정된 2차 피의자 조사에 출석할 예정이었으나 취재진이 많다는 이유로 경찰에 불출석 통보를 했다. 2023.05.11. ks@newsis.com</media:description>
-        <media:credit role="author" scheme="urn:ebu">FSW2004</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>윤홍근 BBQ 회장, 1심서 벌금 3000만원...가족회사에 2억 지원 배임 혐의</title>
       <link>https://www.chosun.com/national/regional/2024/10/17/X2MY4T7AXVHDXEOGSTOD54TBGU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/17/X2MY4T7AXVHDXEOGSTOD54TBGU/</guid>
@@ -852,33 +895,6 @@
       <description/>
       <pubDate>Thu, 17 Oct 2024 07:34:59 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QKKMZINMBLZ4RJMZU7EXRRWPIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 BBQ 매장의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경영난을 겪는 가족회사에 지주회사 자금을 대여해 회사에 손해를 끼친 혐의로 기소된 윤홍근 제너시스BBQ 그룹 회장이 1심에서 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;수원지법 성남지원 형사2부(재판장 이진혁)는 17일 특정경제범죄가중처벌법 상 배임 혐의로 기소된 윤 회장에게 벌금 3000만원을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 공소사실 배임액 43억여원 중 2억1000여만원에 대해 “피해사(제너시스BBQ)와 계약사(J사) 간 법률상 이해관계가 없어 자금 지원 자격이 없는데도 피고인이 부담해야 할 자금을 피해사가 대신 지원한 것으로 볼 수 있다”며 “피고인의 가족회사에 대한 자금 지원은 배임에 해당하며, 고의가 있었다고 인정할 수 있다”고 판시했다.&lt;br&gt;&lt;br&gt;그러나 나머지 공소사실 배임액 41억원에 대해서는 배임으로 볼 수 없고, 고의가 있었다고 보기도 어렵다고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 J사가 윤 회장 일가가 설립한 가족회사지만 실제로는 제너시스BBQ 그룹의 계열사처럼 운영됐고, 그룹 계열사와 공동이익 및 시너지 효과를 추구하는 관계였다는 점을 판단의 근거로 들었다.&lt;br&gt;&lt;br&gt;윤 회장은 제너시스BBQ 그룹이 2013~2016년 J사에 자금 수십억 원을 대여하도록 한 뒤 충분한 회수 조처를 하지 않아 제너시스BBQ에 재산상 손해를 끼친 혐의로 기소됐다. J사는 윤 회장 일가가 2013년 7월 지분 100%를 투자해 설립한 개인 회사이며 자본 잠식 등 이유로 매각됐다.&lt;br&gt;&lt;br&gt;이 사건 수사는 경쟁사인 bhc치킨이 2021년 4월 윤 회장을 배임 혐의로 고발하면서 시작됐다. 1년여간 수사한 경찰은 2022년 7월 불송치 처분했으나 bhc의 항고가 받아들여져 검찰은 윤 회장에게 배임 혐의가 있다고 보고 지난해 1월 불구속 기소했다.&lt;br&gt;&lt;br&gt;제너시스BBQ 관계자는 “공소사실의 전체 배임액 43억여원 중 2억1000여만원에 대해 유죄로 판단한 벌금형 선고는 아쉽다”며 “항소를 통해 모든 대여 행위가 정상적인 경영 활동이었음을 입증하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>용산署, 범죄 압수금 빼돌린 경찰 수사 중</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/17/WKT5RCF63JCYXA2POHDQ6OFSV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/17/WKT5RCF63JCYXA2POHDQ6OFSV4/</guid>
-      <dc:creator>김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Oct 2024 05:34:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LIKRNHCPXFECRBSQLGUJAXWXGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산경찰서. /김보경 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;범죄 압수금을 빼돌린 경찰이 수사를 받고 있다.&lt;br&gt;&lt;br&gt;서울 용산경찰서는 16일 오후 6시 54분쯤 용산서 형사과 소속 경찰관 A씨를 긴급 체포했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 보이스피싱 범죄 수사 중 경찰이 압수한 현금을 빼돌린 혐의를 받는다. A씨가 빼돌린 금액은 억대 규모로 추정되고 있으며, 경찰은 수사를 통해 정확한 규모를 파악할 계획이다.&lt;br&gt;&lt;br&gt;수사 중인 경찰은 “정확한 사항은 파악 중”이라면서 “A씨에 대한 수사를 이어갈 방침”이라고 밝혔다.&lt;br&gt;&lt;br&gt;수사가 종료된 후 혐의가 확정되면 A씨에 대한 내부 징계 절차가 논의될 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘강제추행 혐의’ 오태완 의령군수, 항소심에서 ‘직 유지’ 벌금형</title>
-      <link>https://www.chosun.com/national/regional/2024/10/17/K4L7M5OOVNDUVJ4RKAGDCALRWY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/17/K4L7M5OOVNDUVJ4RKAGDCALRWY/</guid>
-      <dc:creator>김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Oct 2024 07:04:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C6JOLNQPHNA6ZAM3USWFCTB5ZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오태완 의령군수. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;언론인 간담회에서 기자를 성추행한 혐의로 기소돼 1심에서 징역형을 선고받은 오태완 경남 의령군수가 항소심에서 벌금형을 선고받았다. 이 판결이 대법원에서 확정되면 오 군수는 직을 내려놓지 않아도 된다.&lt;br&gt;&lt;br&gt;창원지법 형사 3-1부(재판장 오택원)는 17일 강제추행 혐의로 기소된 오 군수에 대한 항소심에서 징역 6개월에 집행유예 2년을 선고한 원심을 파기하고 벌금 1000만 원을 선고했다. 선출직 공무원은 일반 형사 사건에서 금고 이상의 형이 확정되면 그 직을 상실한다.&lt;br&gt;&lt;br&gt;오 군수는 지난 2021년 6월 의령군 한 식당에서 열린 기자간담회에서 한 여성 기자의 손을 잡거나 성희롱성 발언을 한 혐의(강제추행)로 기소됐다.&lt;br&gt;&lt;br&gt;오 군수 측은 이 사건 수사 단계부터 공소사실과 같은 발언이나 행동을 한 자체가 없다며 혐의를 부인해왔다. 또 이 같은 말과 행동을 했다고 하더라도 형법상 정한 강제추행에는 해당하지 않는다고 주장했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 원심과 같이 오 군수의 강제추행 행위가 있었으며, 형법상 강제추행에도 해당한다고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 “피해자의 일관된 진술과 증인들 증언, 제출된 증거들을 면밀히 검토한 결과 공소사실과 같은 말과 행동이 있었음을 인정한다”며 “오 군수의 행위는 도덕적 관념을 고려할 때 일반인이 성적 수치심을 일으키게 하는 언동으로 충분히 평가할 수 있어 강제추행에도 해당한다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “다만 강제추행 정도가 중하다고 보기는 어려운 점과 당시 격식 있는 자리였다기보다 술 등이 섞인 편한 분위기에서 나온 우발적인 행동이었던 점 등을 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;오 군수는 항소심 선고 후 “저로서는 아쉬운 결정으로, 상고 여부는 변호사와 논의해 결정하겠다”며 “추후 진실을 밝히는 데 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고독사 절반은 5060 男...20대 고독사 10명 중 6~7명은 자살</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/10/17/Z27PRWTSYVBYVBOIS4KKOHO4LQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/17/Z27PRWTSYVBYVBOIS4KKOHO4LQ/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Oct 2024 06:08:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VAUZCLIAKBAD5E5L2ZKDIYMVIQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2년간(2022~2023년) 우리나라 고독사 사망자 중 절반 이상은 50·60대 남성인 것으로 나타났다. 또 이 기간 20대 고독사 사망자 10명 중 6~7명은 자살한 것으로 드러났다.&lt;br&gt;&lt;br&gt;17일 보건복지부는 ‘2024년 고독사 사망자 실태 조사’ 결과를 발표했다. 이번 조사는 지난 2022~2023년 2년 동안 우리나라에서 발생한 고독사에 대해 분석한 것이다.&lt;br&gt;&lt;br&gt;2022년 고독사 사망자는 3559명, 2023년 3661명으로 가장 최근 조사인 2021년(3378명)보다 다소 증가했다. 복지부는 고독사 사망자 수가 증가한 원인으로 1인 가구 증가와 고독사의 법적 정의 확대를 꼽았다. 2022년 조사 당시 고독사의 법적 정의는 ‘홀로 사는 사람이 혼자 임종을 맞고 일정한 시간이 흐른 뒤 발견되는 죽음’이었으나, 법 개정 이후에는 ‘주변 사람들과 단절된 채 사회적 고립 상태로 생활하던 사람이 임종하는 것’으로 범위가 넓어졌다는 것이다.&lt;br&gt;&lt;br&gt;반면, 우리나라 전체 사망자 100명당 고독사 사망자 수는 2022년(0.95명), 2023년 1.04명으로 2021년(1.06명)보다 줄었다. 또 최근 5년간(2019~2023년) 고독사 사망자의 연평균 증가율은 5.6%로 실태 조사를 처음 시작한 이후 5년간(2017~2021년)의 연평균 증가율(8.8%)보다 낮아졌다.&lt;br&gt;&lt;br&gt;고독사가 많이 발생한 지역은 경기(2022년 749명·2023년 922명), 서울(678명·559명), 부산(317명·287명) 등 순이었다. 가장 적게 발생한 지역은 세종(11명·8명)이다. 이는 대체로 인구가 많은 지역과 일치한다는 것이 복지부의 분석이다.&lt;br&gt;&lt;br&gt;성별로는 남성 사망자(2023년 기준 84.1%)가 여성 사망자(15.9%)보다 5배 이상 많았다. 연령별로는 60대가 가장 많은 1146명이었고, 이어 50대(1097명), 40대(502명), 70대(470명) 등 순이었다. 특히, 50·60대 남성 고독사는 2022년 54.1%, 2023년 53.9%를 차지했다.&lt;br&gt;&lt;br&gt;고독사가 가장 많이 발생한 장소는 주택으로 나타났다. 지난해 기준 주택에서 발생한 고독사는 전체의 48.1%였다. 이어 아파트(21.8%), 원룸·오피스텔(20.7%), 고시원(3.9%), 여관(3.7%) 등 순이었다. 가족(2023년 기준 26.2%)보다는 임대인·경비원·건물관리자(34.5%)가 고독사의 최초 발견자인 경우가 더 많았다.&lt;br&gt;&lt;br&gt;고독사 사망자 중 자살의 비율은 2022년 13.9%, 2023년 14.1%로 2021년(16.9%)보다는 줄었다. 나이가 어릴 수록 전체 고독사 중 자살이 차지하는 비중이 높게 나타났다. 2022년 20대 고독사 사망자 중 71.7%가, 30대 고독사 사망자 중 51%가 자살했다. 2023년의 경우, 각각 59.5%, 43.4%였다.&lt;br&gt;&lt;br&gt;전체 고독사 사망자 중 기초생활보장 수급자 비중은 2022년 39.7%, 2023년 41.4%였다. 복지부는 “이는 경제적 취약 가구에 대한 관심이 필요하다는 점과 고독사가 경제적 취약 가구에 한정되어 발생하지 않는다는 점을 동시에 보여준다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>대공수사 교육 받는 수사관들, 지원은커녕 자비 쓰며 교육 받는다</title>
@@ -919,15 +935,6 @@
       <description/>
       <pubDate>Thu, 17 Oct 2024 02:27:01 +0000</pubDate>
       <content:encoded>서울 강남구 청담동의 한 유명 산부인과 병원에서 말싸움을 벌이다 동료 여성 의사를 밀치며 폭행한 60대 남성 의사가 벌금형을 선고 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HARD63R6ONC75IVX2P25SH55QA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 권혜인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사11단독 김길호 판사는 폭행 혐의로 기소된 민모(60)씨에게 벌금 50만원을 선고했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;민씨는 지난 2022년 7월 21일 오전 8시 40분쯤 이 병원 공동운영자인 이모(44)씨를 폭행한 혐의를 받는다. &lt;br&gt;&lt;br&gt;민씨는 폭행 전날 다른 공동운영자들과 자신의 약물 처방과 관련된 문제로 회의를 했는데, 당시 이씨로부터 반말을 듣는 등 서로 언쟁을 벌인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이튿날 출근한 민씨는 나이가 더 어린 상대로부터 반말을 듣고, 기분이 상했다는 이유로 이씨 등을 연구실로 불러 관련 대화를 나누던 도중 이씨에게 “어제 한 행동은 용납이 안 된다. 선생님이 남자였으면 어제 제게 맞았을 것”이라고 말했다. &lt;br&gt;&lt;br&gt;이씨는 이에 “제가 남자였으면 선생님을 한 대 쳤을 것”이라며 되받았다. 이에 민씨가 흥분해 이씨의 멱살을 잡는 등 위협하고 폭행한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이 사건이 일어난 병원은 2000년대 초 개원해 청담동 일대에서 임산부들에게 인기가 많은 곳으로 알려졌다. 연예인 등 각종 유명인들이 이곳에서 출산의 기쁨을 누리기도 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“가발처럼 빽빽해진다”… 허위 광고 논란에 사과한 개그맨 </title>
-      <link>https://www.chosun.com/national/national_general/2024/10/17/PEJ35XZVUNF7HOFRKAY4MFVHZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/17/PEJ35XZVUNF7HOFRKAY4MFVHZ4/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Oct 2024 00:21:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PAKDXMSLOFPHJCAHCFR5AC34NU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;임우일. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개그맨 임우일이 탈모 관련 제품 허위 광고 논란에 대해 사과했다. &lt;br&gt;&lt;br&gt;임우일은 17일 유튜브 채널을 통해 “늦은 나이에 받는 관심과 수익에 눈이 멀어 바보같이 광고를 찍으면서도 이 광고가 문제가 될 거라고는 전혀 생각하지 못했다”며 “광고가 논란이 된 걸 인지한 이후 대행사에 상황을 전달했고, 논란이 된 광고를 모두 내려달라고 요청했다”고 했다. &lt;br&gt;&lt;br&gt;논란이 불거진 광고는 임우일이 최근 홍보한 한 화장품 업체의 탈모 관리 제품이다. 임우일은 이 제품을 두고 “(머리숱이) 가발처럼 빽빽해진다” “(바르면 머리카락이) 이렇게 잘 자란다” “잔머리가 조금씩 올라온다” 등의 표현을 썼다. &lt;br&gt;&lt;br&gt;고발 전문 유튜버 ‘사망여우’가 지난 10일 “이렇게 광고하면 안 된다”며 허위 과대 광고를 지적하는 글을 올리면서 논란이 시작됐다. 온라인상에서는 “광고는 본인 브랜드가치로 무언가를 담보하는 행위인데 왜 아무 생각이 없냐” “연예인들 저런 사기 광고 제대로 한번 일 터져야 한다” 등의 지적이 제기됐다. “임우일 광고 보고 2개 샀는데, 머리카락이 더 빠져서 하나도 다 쓰지도 못하고 버렸다” 등 실제로 피해를 입었다는 사례도 나왔다. &lt;br&gt;&lt;br&gt;이와 관련, 임우일은 “제 무지함으로 부족한 저를 응원해 주시는 분들에게 피해를 끼쳐드려서 정말 죄송하다”며 “앞으로는 이와 같은 문제가 생기지 않게 늘 주의하겠다”고 했다. &lt;br&gt;&lt;br&gt;임우일은 2011년 KBS 26기 공채 개그맨으로 데뷔했으나 긴 무명 생활을 거치다 최근 유튜브를 통해서 주목받았다. 후배 이승환과 지난 2022년부터시 시작한 유튜브 채널 구독자 수는 약 61만 500명이다. 일상 속 소재를 활용해 공감대를 모으는 스케치 코미디가 주요 콘텐츠다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 경찰, ‘연세대 논술문제 유출’ 공공범죄수사대 배당</title>
