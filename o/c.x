@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘음주운전’ 문다혜, 불법 숙박업 의혹도…제주시가 수사 의뢰</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/19/W2G2Q43G2ZC6VDBLZJQUHRCHWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/19/W2G2Q43G2ZC6VDBLZJQUHRCHWY/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Oct 2024 02:40:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZLTSQFDHVFFO7FQPCD5NBPNPA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주 운전 혐의로 입건된 문재인 전 대통령의 딸 문다혜(가운데)씨가 18일 오후 서울 용산경찰서에 출석하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전 혐의로 입건된 문재인 전 대통령의 딸 문다혜씨가 불법 숙박업을 했다는 의혹이 불거져 제주시가 제주자치경찰에 수사를 의뢰했다.&lt;br&gt;&lt;br&gt;19일 제주시는 제주 한림읍 협재리에 있는 문다혜씨 소유의 단독주택에서 미신고 불법 숙박업이 이뤄졌다는 민원이 국민신문고를 통해 제기돼 제주자치경찰단에 수사를 의뢰했다고 밝혔다.&lt;br&gt;&lt;br&gt;문다혜씨는 농어촌민박 등록을 하지 않은 상태에서 숙박업 영업을 했다는 의혹을 받고 있다. 다만 제주시 측은 문다혜씨가 불법 숙박행위를 했는지 현재는 단정할 수 없다는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;공중위생법에 따르면 신고를 하지 않고 숙박업을 하다 적발되면 2년 이하의 징역 또는 2000만원 이하의 벌금에 처해질 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7KYOXBNQIFICNEY4CFMSPHSY3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;불법 숙박업 의혹이 제기된 문다혜씨 소유 제주 단독주택. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문다혜씨 전 남편 항공사 특혜 채용 의혹을 수사하고 있는 전주지검은 지난 8월 해당 주택을 압수수색했는데 이 과정에서 불법 숙박업 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;이 단독주택은 문다혜씨가 지난 2022년 문 전 대통령의 멘토로 알려진 송기인 신부로부터 3억8000만원에 매입했다.&lt;br&gt;&lt;br&gt;한편 문다혜씨는 지난 5일 새벽 서울 용산구 이태원동에서 혈중알코올농도 0.149%의 만취 상태로 운전하다가 택시를 들이받는 사고를 내 전날(18일) 서울 용산경찰서에 출석해 조사를 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>빠른 이차성징  ‘성조숙증’ 10년 새 2.6배</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/10/19/6REWH5K5QZGQ5G2DWRUVGO5BIM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/19/6REWH5K5QZGQ5G2DWRUVGO5BIM/</guid>
+      <dc:creator>강다은 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Oct 2024 02:25:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N2UW2PZZL5BCJCJ3QXFN3CGXSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;기사 본문과 직접적 관련 없음./클립아트코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사춘기에 나타나는 이차 성징이 시기가 빨라지는 질환인 ‘성조숙증’이 10년 사이 2.6배 늘어난 것으로 나타났다.&lt;br&gt;&lt;br&gt;19일 국회 보건복지위원회 소속 박희승 더불어민주당 의원이 국민건강보험공단에서 받은 자료에 따르면 성조숙증 환자는 2014년 9만 6733명에서 지난해 25만 1599명으로 160% 급증했다. 올해도 7월까지 벌써 19만 4803명이 성조숙증을 진단받았다.&lt;br&gt;&lt;br&gt;성조숙증은 이차 성징이 이르게 나타나는 질환이다. 여자아이가 8세 이전에 가슴이 발달하고 남자아이가 9세 이전에 고환이 커지거나 음모가 발달하면 성조숙증을 의심할 수 있다.  성조숙증의 원인으로는 서구화한 식습관, 소아 비만, 환경 호르몬 등이 꼽힌다.&lt;br&gt;&lt;br&gt;성별로 나눠 보면 성조숙증을 겪는 아이들 대부분이 여아였지만, 최근 남아 성조숙증 환자가 빠르게 늘어나고 있다. 실제 성조숙증 환자 중 여아 비중은 2014년 91.9%에서 지난해 80.7%로 줄었다. 그만큼 남아들 사이에서 성조숙증이 늘어난 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전기 배선함 열어봤더니 웃통 벗은 남자가 ‘쿨쿨’…무슨 일?</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/19/J4T4RRZI3VC4BLS7DLYBH6MEEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/19/J4T4RRZI3VC4BLS7DLYBH6MEEY/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Oct 2024 01:37:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MLTGAA5QZZFWXIIQHMXSMHJOZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰에 쫓기던 남성이 전기 배선함에 숨어있다 체포되는 장면. /경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;위조지폐를 사용한 혐의로 경찰에 쫓기던 남성이 전기 배선함에 숨어있다 체포됐다.&lt;br&gt;&lt;br&gt;19일 경찰에 따르면 지난 9월 2일 경북 김천경찰서에 “한 남성이 5만원권으로 담배를 사 갔는데, 자세히 보니 가짜 돈”이라는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;지역에선 이전에도 비슷한 내용의 신고가 두 번이나 접수된 상황이었다. 특히 이 남성은 당시 타 경찰서에서도 마약 복용, 위조지폐 사용 등 혐의로 쫓고 있던 피의자였다. 경찰은 이 남성을 신속하게 검거할 필요가 있다고 판단해 추적에 나섰다.&lt;br&gt;&lt;br&gt;경찰은 곧 도로변에 세워져 있던 남성의 승용차를 발견하고 차량 두 대로 가로막으며 검거에 나섰다. 하지만 남성은 거침없이 후진을 해 경찰의 차량을 들이박더니 전속력으로 달아나기 시작했다.&lt;br&gt;&lt;br&gt;남성은 경찰의 추격을 피해 도주하다 전봇대를 들이받자 차량을 버리고 왕복 6차로 도로를 무단횡단해 도주했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CSD4JLXTYRB43KF4D2S76TZMRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰에 쫓기던 남성이 전기 배선함에 숨어있다 체포되는 장면. /경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김천서 112 상황실에서는 혹시 모를 상황에 대비해 기동순찰대, 소방, 타 경찰서 등에 수색 공조를 요청했고, 수사과 경찰관들은 피의자 동선 파악을 위해 수색을 진행했다.&lt;br&gt;&lt;br&gt;공개된 방범카메라 영상을 보면 도망치던 남성은 인근 아파트에 들어가더니 엘리베이터에 올라탔다. 남성은 여러 버튼을 마구 누르더니 구석에 쪼그려 앉고, 승강기 바닥을 기는 등 이상 행동을 보였다.&lt;br&gt;&lt;br&gt;이후 남성을 찾기 위해 수색을 하던 경찰은 남성 거주지 앞에 설치돼 있던 전기 배선함을 열어보고 깜짝 놀랐다. 도주했던 남성이 전기 배선함 속에서 웃통을 벗은 채 잠을 자고 있었기 때문이다. 남성은 마약에 취해 잠을 자고 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 곧바로 남성을 제압하고 체포에 성공했다. 남성은 위조통화행사, 마약 투약 등 혐의로 구속됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“무료급식 달라” 복지관 직원 흉기로 협박한 70대 체포</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/19/ZQ43B4QKORHGBBMR5IXGU6EVCI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/19/ZQ43B4QKORHGBBMR5IXGU6EVCI/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Oct 2024 01:30:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJACOCQWWU5QCEDLXLXU6WACM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무료 급식을 받지 못한다는 소식에 흉기를 들고 복지관 직원을 협박한 70대 남성이 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 서대문경찰서는 지난 17일 오후 2시 20분쯤 서울 서대문구 복지관의 여성 직원을 흉기로 협박한 혐의로 70대 남성 A씨를 체포했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;경찰 조사 결과, 술에 취했던 A씨는 무료 급식을 받을 수 없다는 연락을 받고 화가 나 집에서 흉기를 들고 복지관을 찾아가 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;특수협박 혐의로 A씨를 현장에서 체포한 경찰은 정확한 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>생후 18개월 자녀 방치해 숨지게 한 20대 엄마 구속</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/10/19/GFN2JXQVLNFEXEW66ALR4YDISQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/10/19/GFN2JXQVLNFEXEW66ALR4YDISQ/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Oct 2024 00:45:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;생후 18개월 자녀를 방치해 숨지게 한 20대가 구속됐다.&lt;br&gt;&lt;br&gt;부산경찰청은 아동학대처벌법위반 혐의로 20대 친모 A씨를 구속했다고 19일 밝혔다. A씨는 지난 15일 해운대구 한 아파트에서 생후 18개월 된 자녀를 돌보지 않고 방임해 숨지게 한 혐의를 받는다. 숨진 아이는 사망 당시 보통 아이들 몸무게의 절반 수준에 불과했던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 지인의 신고로 붙잡혔다.&lt;br&gt;&lt;br&gt;지난 15일 오후 8시쯤 A씨의 지인은 ‘아이가 숨졌다’고 경찰에 신고했고, 경찰은 현장에서 A씨를 체포했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>술 마시고 직장 동료 때려 숨지게 한 60대 집행유예</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/19/FNSVUHH2WZG2ZECVSEXNPL7HKY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/19/FNSVUHH2WZG2ZECVSEXNPL7HKY/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Oct 2024 00:19:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DSJ3PKUZD3MJLF5ZPLGG6BS4QU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지법. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;함께 술을 마시던 직장 동료를 폭행해 숨지게 한 60대에게 징역형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;19일 법조계에 따르면 서울서부지법 형사합의12부(재판장 권성수)는 폭행치사 혐의로 기소된 A(61)씨에게 징역 3년에 집행유예 5년을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “폭행의 방법이나 정도 등에 비춰 죄질이 좋지 않다”고 지적하며 “피고인의 행위로 인해 피해자의 사망이라는 돌이킬 수 없는 결과가 발생했다는 점에서 그 책임이 무겁다”고 말했다.&lt;br&gt;&lt;br&gt;다만 A씨가 범행을 인정하며 반성하는 점, 유족들과 합의한 점, 유족들이 피고인에 대한 처벌을 더 이상 원하지 않는 점 등을 고려했다고 판결 이유를 밝혔다.&lt;br&gt;&lt;br&gt;앞서 A씨는 당시 술에 취해 심신미약 상태였음을 주장한 것으로 전해졌다. 다만 재판부는 그가 사건 당시 똑바로 서 있거나 걸을 수 있었던 점, 다른 사람에게 구호를 요청했던 점 등을 고려해 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;A씨는 지난해 12월 20일 밤 9시쯤 서울 용산구 삼각지역 인근 술집에서 일행과 술을 마시던 중 직장동료 B(60)씨를 폭행해 사망에 이르게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;몸싸움 도중 A씨가 넘어진 B씨의 얼굴을 때린 후 B씨는 의식이 없는 상태로 응급실로 옮겨졌으며, 이후 B씨는 토사물로 기도가 막혀 질식사했다.&lt;br&gt;&lt;br&gt;검찰은 1심 판결에 불복해 항소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>과즙세연 “LA서 방시혁을 어떻게 우연히 만나나? 약속하고 만난 것”</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/19/YH2FRCJD3VASZKWIPDFJ6BERBU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/19/YH2FRCJD3VASZKWIPDFJ6BERBU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Oct 2024 00:19:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QCAGNAYSCD67JBMQF7IAJX5KBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인터넷 방송 BJ 과즙세연(왼쪽)과 방시혁 하이브 의장. /뉴스1, 유튜브 채널 아이엠워킹&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인터넷 방송 BJ 과즙세연(본명 인세연)이 방시혁 하이브 의장과 미국 캘리포니아주 로스앤젤레스(LA) 베벌리힐스에서 만난 이유를 밝혔다.&lt;br&gt;&lt;br&gt;과즙세연은 지난 18일 방송인 탁재훈이 진행하는 유튜브 방송에 출연해 “우연히 만난 것은 아니었다”며 “어떻게 이분을 우연히 횡단보도에서 만나겠나. 약속하고 만난 것”이라고 했다.&lt;br&gt;&lt;br&gt;과즙세연은 지난 8월 방 의장과 함께 LA 베벌리힐스의 한 횡단보도를 건너는 모습이 포착돼 화제를 모았다. 방 의장은 과즙세연 일행의 사진을 무릎을 굽혀가면서 정성껏 찍어주기도 했다.&lt;br&gt;&lt;br&gt;과즙세연은 방 의장이 당시 식당 예약을 대신 해줬다며 “예약이 되게 어려운 식당이 있다. 이분과 동행해야 예약이 된다고 해 같이 갔다. 밥은 같이 먹지 않았다. 같이 먹을 만큼 친한 사이는 아니어서 예약을 해주시고 음식 설명만 해주시고 가셨다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HDLTFUSPXFFY3AH7XW52MLWLPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방시혁 하이브 의장이 미국 LA에서 무릎을 굽혀가며 한 여성의 사진을 찍어주고 있다. /인터넷 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이어 “그래서 제가 개인 방송에서도 엄청 친절하시다고 말한 것”이라며 “미국에서 처음 만났던 거다. 완전 초면이었다”고 했다.&lt;br&gt;&lt;br&gt;과즙세연은 “당시 사건으로 기사가 많이 나다 보니까 위축이 되더라”면서도 “다음에는 광화문 횡단보도를 가겠다”고 했다.&lt;br&gt;&lt;br&gt;한편 하이브 측은 방시혁 의장이 과즙세연과 그의 언니를 만난 것에 대해 “지인이 모이는 자리에서 두 여성 중 한 명을 우연히 만났고, 엔터 사칭범과 관련해 어떻게 대응해야 하는지 조언을 준 바 있다”며 “이후 두 사람이 함께 LA에 오면서 관광지와 식당을 물어와서 예약해주고 안내해줬다”고 설명했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>카메라 모듈 검사장비 기술 중국에 빼돌린 일당 집유</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/19/BHJIUGKALVHKJDJSLUAKP4HACY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/19/BHJIUGKALVHKJDJSLUAKP4HACY/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Oct 2024 00:12:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/47MF7KUED4N5SF4LTC2ZKLJJDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국에 카메라 모듈 검사장비 관련 기술을 빼돌린 일당이 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;19일 법조계에 따르면 서울중앙지법 형사25부(재판장 지귀연)는 부정경쟁방지법상 영업비밀 국외누설 등의 혐의로 기소된 A씨 등 7명에게 징역 1~2년‧집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;A씨 등은 국내 카메라 모듈 검사장비 업체 B사에서 일하다 2022년 6월부터 12월에 중국 업체의 국내 자회사로 이직했다. 카메라 모듈이란 스마트폰이나 자동차 등에 장착돼 소형화된 사진기를 구성하는 부품을 말한다. &lt;br&gt;&lt;br&gt;이들은 외장하드나 클라우드 계정에 담아 유출한 B사의 장비 부품 소스코드와 설계 자료 등을 이직한 회사에서 새 회사에서 활용해 시험용 제품을 개발한 혐의를 받고 있다. B사는 2018년쯤부터 애플에 카메라 모듈 검사장비 등을 납품해 업계에서 선도업체로 평가받은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;재판부는 “피고인들의 범행은 B사가 기술 연구‧개발에 투입한 막대한 시간과 비용을 헛되게 했을 뿐 아니라 업계의 건전한 경쟁과 거래 질서를 심각하게 저해했다”며 유죄를 선고했다. 그러면서도 B사의 경영이 악화하고 애플과의 거래도 종료되는 상황에서 A씨 등이 자신들의 노하우와 경력을 계속 살려 경제활동을 유지하려 한 범행 동기를 양형에 고려했다고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“군인 밥값 내줬다” 미담 ‘봇물’…국방장관 “장병 대신해 감사”</title>
       <link>https://www.chosun.com/national/national_general/2024/10/19/Z5JHRL7D5VBBRKCLDDKVSYQFVA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/19/Z5JHRL7D5VBBRKCLDDKVSYQFVA/</guid>
@@ -674,15 +746,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4BOXEZGCWTTBIBF7BYZYZOQOKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 동작경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰서 직원이 유실물로 접수된 교통카드 수백장을 빼돌린 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 서울 동작경찰서 소속 행정관 50대 여성 A씨를 업무상 횡령 혐의로 지난 7월 송치했다고 18일 밝혔다. A씨는 범죄예방대응질서계에서 근무하며 유실물로 접수된 교통카드 500여 장을 수년간 횡령한 혐의를 받는다. A씨는 현재 휴직 상태로, 빼돌린 금액은 총 800여 만원으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨의 범행은 지난 3월 한 시민이 잃어버린 교통카드에서 돈이 빠져나간 사실을 인지하고 경찰에 신고하며 드러났다. 사건을 접수한 영등포경찰서가 교통카드 출금 기록을 추적한 결과, 유실물 업무를 맡던 A씨가 접수된 교통카드 잔액을 자신의 계좌로 입금했다고 한다.&lt;br&gt;&lt;br&gt;통상 유실물로 접수된 교통카드는 경찰에서 보관하다가 일정 기간이 지난 후 국고로 환수된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“코 심하게 골아서...” 교도소서 재소자 죽이려 한 80대 무기수 </title>
-      <link>https://www.chosun.com/national/national_general/2024/10/18/UA2NO554E5HF3HRZJEL74BOPHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/18/UA2NO554E5HF3HRZJEL74BOPHI/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Oct 2024 04:23:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HC5UFRKA6NOBE7TUP5TEJCTY5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고법 춘천재판부. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;살인죄로 무기징역을 받고 교도소에서 복역하던 중 함께 수형 중이던 재소자가 코를 심하게 곤다는 이유로 말다툼하다가 살해를 시도한 80대가 추가로 실형을 선고받았다.&lt;br&gt;&lt;br&gt;18일 법조계에 따르면, 서울고법 춘천재판부 형사1부(재판장 민지현)는 살인미수와 공용물건손상 혐의로 기소된 A(82)씨가 낸 항소를 기각하고, 징역 5년을 선고한 원심판결을 유지했다.&lt;br&gt;&lt;br&gt;A씨는 작년 12월 6일 3시 50분쯤 원주교도소 수용실에서 무게 8.8㎏의 나무 밥상과 식판으로 B(60)씨의 얼굴과 상체를 수차례 내려찍어 살해하려 한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;그는 나무 밥상으로 B씨를 내려찍다가 놓치자 이후, 건조대에 있는 식판을 집어 들고 식판이 깨질 때까지 폭행했다. B씨는 코뼈가 부러지고 뇌진탕 진단을 받는 등 약 4주간 치료가 필요한 상처를 입었다.&lt;br&gt;&lt;br&gt;A씨는 범행 전날 B씨의 코골이를 문제 삼으며 말다툼하다가 욕설을 듣자 범행을 마음먹은 것으로 조사됐다. A씨는 1999년 4월 창원지법에서 살인죄 등으로 무기징역을 선고받은 상태였다.&lt;br&gt;&lt;br&gt;1심은 “살인죄로 수형 중 또다시 살인미수 범행을 저질렀음에도 반성이나 미안함을 보이기보다는 수사기관에서 ‘피해자를 죽이겠다’ ‘처리해야겠다’라고 진술하는 등 범행 원인이 피해자라는 태도를 보였다”며 “또 수형생활이 지겹다는 태도를 보이는 점에 비추어 보면 성품과 행실 개선 의지나 반성의 기미를 찾기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;2심은 “항소심에 이르러 양형 조건에 본질적인 변화가 발생했다고 평가하기 어렵고, 원심의 양형은 합리적인 범위 내에서 이뤄져 타당하다”며 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>중앙지검장 “김여사 무혐의, 법리 따라 처리... 용산과 소통한 적 없다”</title>
       <link>https://www.chosun.com/national/court_law/2024/10/18/LBDHESWYJZGRNOXYCW7GKZQYGI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/18/LBDHESWYJZGRNOXYCW7GKZQYGI/</guid>
@@ -690,40 +753,6 @@
       <description/>
       <pubDate>Fri, 18 Oct 2024 03:38:37 +0000</pubDate>
       <content:encoded>이창수 서울중앙지검장은 18일 윤석열 대통령 부인 김건희 여사의 디올백 수수 의혹 및 도이치모터스 주가조작 연루 의혹을 무혐의 처분한 데 대해 “수사팀과 머리를 맞대고 증거와 법리에 따라서 제대로 처리했다고 생각한다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HQD5HKBL5BNUVP7LIY6PAGZXTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이창수 서울중앙지검장이 18일 오전 서울 여의도 국회에서 열린 법제사법위원회의 서울고등검찰청, 서울중앙지방검찰청 등에 대한 국정감사에서 의원 질문에 답변하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 지검장은 이날 국회 법제사법위원회 국정감사에서 검찰이 부실 수사를 했다는 지적에 대해 이같이 말했다. 두 사건 모두 압수 수색 등 강제수사를 진행하지 않았다는 지적에 이 지검장은 “압수 수색을 자꾸 말씀하시는데 기본적으로 그렇게 아무 사건이나 휴대전화를 무조건 가져와야 하는 것은 아니다”고 했다.&lt;br&gt;&lt;br&gt;특히 디올백 수수 의혹 수사 과정에서 “임의적인 방법으로 충분한 진술을 확보했고, 카카오톡도 전부 확보했다”고 말했다. 김 여사는 디올백 수수와 관련해 디올백을 건넨 재미교포 목사 최재영씨와의 카카오톡 일체를 임의제출했다.&lt;br&gt;&lt;br&gt;김 여사를 검찰청사가 아닌 대통령경호처 부속청사에서 조사한 것에 대해선 “기본적으로 검찰청으로 나오라는 소환 요구를 했으나, 변호인 측에서 경호 안전 문제가 있기 때문에 검찰청으로 나가는 것보다는 다른 곳에서 하면 안 되냐는 의사를 전해왔다”고 설명했다.&lt;br&gt;&lt;br&gt;그러면서 “수사 준칙이라든가 법무부 검찰사건사무규칙에 보면 조사 장소에 있어서는 피의자 또는 변호인과 상의하게 돼 있다”고 덧붙였다. 김 여사 측과 상의를 거쳐 조사했다는 취지다.&lt;br&gt;&lt;br&gt;한편, 이 지검장은 ‘디올백 사건에 대해 용산 대통령실과 소통했느냐’는 질의엔 “그런 적 없다”며 “이런 오해를 받을 수 있기 때문에 수사팀에 변호인과 소통하라고 얘기했다”고 밝혔다.&lt;br&gt;&lt;br&gt;‘두 사건을 불기소해주기로 하고 지검장 자리를 받았느냐’ ‘대통령실로부터 외압이나 무혐의 종결 지침이 있었느냐’는 질문에 이 지검장은 “그런 적 없다”고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천 송도에 재외동포웰컴‧한인비즈니스센터 개관</title>
-      <link>https://www.chosun.com/national/regional/2024/10/18/TYD5PQQ3AVE45I7SQOZ7AERXDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/18/TYD5PQQ3AVE45I7SQOZ7AERXDA/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Oct 2024 04:42:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XP35H3ZO2NJWJADGR2BBV3HYGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 인천 연수구 송도국제도시 부영송도타워에서 열린 ‘재외동포웰컴센터‧한인비즈니스센터 개소식’에서 유정복 인천시장(사진 왼쪽에서 7번째)과 이상덕 재외동포청장(사진 왼쪽에서 6번째) 등 참석자들이 기념촬영을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라를 찾는 재외동포들에게 맞춤형 서비스를 제공하기 위한 재외동포웰컴센터가 18일 인천 송도국제도시에 문을 열었다.&lt;br&gt;&lt;br&gt;인천시는 이날 인천 연수구 송도국제도시 부영송도타워에서 ‘재외동포웰컴센터’ 개소식을 열었다.&lt;br&gt;&lt;br&gt;이 건물 30층에 조성된 재외동포웰컴센터는 총 1034㎡ 규모로, 콘퍼런스룸과 미팅룸, 세미나룸, 갤러리, 휴식공간, 오픈오피스 등 시설을 갖췄다.&lt;br&gt;&lt;br&gt;재외동포웰컴센터는 우리나라를 찾는 재외동포들에게 주거와 의료, 관광, 교육 등에 대한 정보를 제공하게 된다. 또 재외동포 대상 한국어 교육과 문화체험, 전시 프로그램 등을 진행한다.&lt;br&gt;&lt;br&gt;재외동포웰컴센터와 같은 공간에 문을 연 한인비즈니스센터는 재외동포 경제인과 기업을 대상으로, 투자 상담과 컨설팅, 비즈니스 역량 강화 프로그램 등을 지원하게 된다.&lt;br&gt;&lt;br&gt;재외동포웰컴센터와 한인비즈니스센터가 들어선 부영송도타워 34~36층엔 외교부 산하 재외동포청이 입주해 있다.&lt;br&gt;&lt;br&gt;재외동포청은 708만 명에 달하는 재외동포와 관련한 정책과 사업을 총괄하는 정부기관으로 지난해 출범했다.&lt;br&gt;&lt;br&gt;유정복 인천시장은 “재외동포웰컴센터와 한인비즈니스센터가 300만 인천시민과 700만 재외동포를 연결하는 출발점이 돼 인천이 글로벌 도시로 도약하는 기반이 되길 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YWDHGPCXX5GPJFEO2PC7WAGFYQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;18일 인천 연수구 송도국제도시 부영송도타워 30층에 문을 연 재외동포웰컴센터 내부 휴게공간./인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>호텔 수영장서 숨진 해병대원…총지배인은 1심서 금고형</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/18/QAP6EJWRH5GW5K3R5T5MSS5XCM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/18/QAP6EJWRH5GW5K3R5T5MSS5XCM/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Oct 2024 04:40:15 +0000</pubDate>
-      <content:encoded>서울 서초구 한 호텔 수영장에 안전요원을 배치하지 않아 사망사고를 낸 호텔 총지배인이 금고형을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BHM32ZX2JVK7HLMEMPNYOHDGDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사11단독 김길호 판사는 업무상과실치사 혐의로 재판에 넘겨진 소모(47)씨에게 금고 8개월에 집행유예 2년을 선고했다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;서초구 양재 인근에 위치한 이 호텔에선 지난 2022년 2월 6일 사망 사고가 발생했다. 당시 투숙객인 20대 남성이 오후 6시 넘어 호텔 수영장에서 수영을 하다 의식을 잃었는데, 30여분간 홀로 방치돼 심정지 상태에 이르렀고 병원으로 이송됐지만 당일 숨졌다. 피해자는 해병대 소속 군인이었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;소씨는 해당 호텔 총지배인으로 호텔 내 시설에 대한 관리와 인력 배치 등을 총괄하는데, 수영장에 안전요원을 두지 않은 것으로 조사됐다. 그는 재판 과정에서 범행을 인정했지만, 피해자의 유족 측과는 합의에 이르지 못했고 유족들은 소씨의 공탁금 수령도 거부했다.&lt;br&gt;&lt;br&gt;김 판사는 “소씨는 수영장 내 안전사고 방지 의무를 다하지 않아 결과적으로 피해자가 사망에 이르는 중대한 결과를 초래해 사안이 매우 무겁다”면서도 “피해자의 유족이 제기한 관련 민사소송에서 인정된 손해배상금이 모두 유족 측에게 지급됐고 피고인도 피해회복을 위해 나름 노력한 점 등을 참작한다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>광주 ‘마세라티 뺑소니범’, 불법 도박 범죄조직 가담 정황 포착</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/18/JC33HR4NYVHD5DOUBUAS6CUUXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/18/JC33HR4NYVHD5DOUBUAS6CUUXI/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Oct 2024 02:54:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QGZIGIFIJRK7TFNNVSPOYU6ARY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 오전 광주 서구 서부경찰서에서 '뺑소니 사망사고' 마세라티 운전자 김모(33) 씨가 검찰로 송치되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20대 연인을 사상케 한 ‘마세라티 뺑소니 사건’ 피의자가 해외에서 불법 사이버 도박 범죄조직에 가담한 정황이 포착돼 경찰이 수사에 착수했다.&lt;br&gt;&lt;br&gt;18일 광주경찰청 형사기동대 등에 따르면 뺑소니 사건 뒤 태국으로 도피했던 마세라티 뺑소니 차량 운전자 김모(32)씨에 대해 불법 사이버 도박 범죄조직 가담 관련 단서를 확보하고 수사를 진행 중이다.&lt;br&gt;&lt;br&gt;김씨는 지난달 24일 오전 3시 11분쯤 광주광역시 서구 화정동의 한 도로에서 20대 연인이 타고 있던 오토바이를 들이 받은 뒤 구호조치 없이 달아난 혐의(특정범죄가중처벌법상 도주치사상)로 검찰에 구속 송치됐다. 이 사고로 연인 중 여성 1명이 숨졌고 남성 1명은 중상을 입어 치료를 받고 있다.&lt;br&gt;&lt;br&gt;김씨는 지난달 24일 사고 직후 대전을 통해 인천공항으로 이동한 뒤 오전과 오후 2차례 태국으로 달아나려 했다. 그는 비행기 표까지 구매했지만 경찰이 출국금지 조치를 내려 공항에서 현행범으로 체포될 것을 우려해 태국행을 포기했다.&lt;br&gt;&lt;br&gt;김씨는 지난해 12월 태국으로 출국한 뒤 9개월 만에 귀국했고 총 4차례 태국으로 입출국한 기록도 확있됐었다. 다만 경찰은 김씨가 연루된 불법 사이버 도박 범죄조직 거점을 도피처로 삼으려 했던 태국으로 단정짓진 않고 있다.&lt;br&gt;&lt;br&gt;김씨가 뺑소니 사고를 냈던 마세라티 차량은 서울 소재의 한 유통법인 소속 차량으로 파악됐다. 경찰은 또 다른 범죄로 실형을 선고 받아 교도소에 수감 중인 해당 법인 대표 A씨를 자동차관리법 위반 혐의로 입건해 수사 중이다. 경찰은 A씨가 10대 상당의 대포차량을 소유한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;김씨가 도주에 사용했던 대포폰 유통경로도 추적 중이다. 김씨는 해외 도피를 포기한 뒤 서울에서 지인 B(32)씨를 만나 도피행각을 이어갔다. B씨는 김씨의 대포폰을 마련해 주는 등 도피를 도왔었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6WQVTVBB7FJKDJ4YBEMFYLW3FI.jpg?width=6000&amp;height=4000&amp;auth=49afaefa028b7e3ba9f1f66441a14c9e8de22b7ea892cd5b45b4512f5d5b071c&amp;smart=true" type="image/jpeg" height="4000" width="6000">
-        <media:description type="plain">&lt;YONHAP PHOTO-3447&gt; 송치되는 '뺑소니 사망사고' 마세라티 운전자
-    (광주=연합뉴스) 김혜인 기자 = 4일 오전 광주 서구 서부경찰서에서 '뺑소니 사망사고' 마세라티 운전자 김모(33) 씨가 검찰로 송치되고 있다. 2024.10.4
-    in@yna.co.kr/2024-10-04 08:23:14/
-&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">김혜인</media:credit>
-      </media:content>
     </item>
     <item>
       <title>헤비메탈 가수로 변한 소방관… ‘아파트 화재 대피’ 노래 화제  </title>
@@ -735,34 +764,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YW7SB5FEM5EILMTF5AQDIEUDWA.png"&gt;&lt;figcaption&gt;&lt;small&gt;나경진 소방교가 헤비메탈 가수 분장을 한 채 아파트 화재 발생 시 대피 요령을 담은 노래를 부르고 있다. /소방관 삼촌 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“자기 집에 불이 나고 대피할 수 있다면 신속하게 나가라 생명을 지켜라”&lt;br&gt;&lt;br&gt;유튜브를 통해 소방 관련 사안을 재치 있게 전달해 ‘제2의 충주맨’이라고도 불리는 ‘소방관 삼촌’이 헤비메탈 콘셉트로 아파트 화재 발생 시 대피 요령을 담은 노래를 공개해 화제를 모으고 있다. &lt;br&gt;&lt;br&gt;소방관 삼촌 유튜브 채널에는 15일 ‘노래로 배우는 아파트 화재 발생 시 행동 요령’이라는 제목의 영상이 올라왔다. &lt;br&gt;&lt;br&gt;소방관들이 회의 중인 다소 평범한 장면으로 시작하는 이 영상은, 소방관 삼촌 채널을 주도적으로 만든 나경진 충북소방본부 소방교가 헤비메탈 분장을 하고 등장하면서 반전을 맞는다. &lt;br&gt;&lt;br&gt;흰 분칠에 검은색 립스틱을 바른 나 소방교는 강렬한 메탈 사운드를 배경으로 “자기 집에 불이 나고 대피할 수 있다면 신속하게 나가라 생명을 지켜라” “하지만 길이 막혀있다면 구조를 요청해” “창문에 손 흔들며 구조를 기다려라” “불길 속에 안전, 살아 남아라” “연기 속에 숨을 쉬며 길을 찾아라” “화염을 손길 피해 벗어나라” “이 불타는 지옥에서 탈출하라” 등의 가사를 쉼 없이 내뱉는다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EZ5NHVAQR5C5NDJANLUID54IBI.png"&gt;&lt;figcaption&gt;&lt;small&gt;나 소방교를 비롯한 충북소방악대 대원들이 실제 헤비메탈 벤드처럼 합주하고 있다. /소방관 삼촌 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다른 소방관이 열정적으로 전자기타를 켜는 모습이 나오고, 나 소방교는 다시 노래를 시작한다. “다른 집에 불이 나고 화염과 연기 들어오지 않는다면 집 안에 머물러” “하지만 불길이 다가오면 만반에 준비해 문을 닫고 젖은 천으로 틈을 막아라” “불길 속에 안전, 살아 남아라” “연기 속에 숨을 쉬며 길을 찾아라” “화염의 손길 피해 벗어나라” “이 불타는 지옥에서 탈출하라” 등 보다 실질적인 대처 방법이 담겼다.&lt;br&gt;&lt;br&gt;나 소방교를 비롯한 다른 소방관들이 함께 모여 실제 헤비메탈 밴드처럼 연주하는 모습도 연출됐다. 영상은 “집으로 연기가 밀려오면 빠르게 대피해” “불가능하다면 구조요청 소리쳐라” “구조대가 올 때까지 창가에 서서 생명을 지킬 방법 절대로 잊지마” “불길의 악마여, 널 이겨내리라” “생명의 불꽃, 꺼지지 않으리” “이 노래로 외쳐, 생존의 찬가” “대피의 길에서 승리를 외치리라”라는 가사를 마지막으로 끝난다. &lt;br&gt;&lt;br&gt;이 영상은 AI 기술을 활용해 각종 영화에 나온 장면을 추출해 편집했다. 영상에 출연한 소방관들은 현직 소방공무원들로 구성된 충북소방악대 대원들이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2ZYONTUVWNDJFEY5NM7MYOLLE4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;나 소방교가 전방주시하지 않은 채 춤추다 기둥에 부딪혀 넘어지는 모습을 연출하고 있다. /소방관 삼촌 유튜브 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;나 소방교는 충주시 유튜브를 운영하는 ‘충주맨’ 김선태 주무관의 영상을 우연히 보고 영감을 받아 소방 관련 이슈를 유쾌하게 풀어내는 영상을 제작하기 시작했다. 충주맨 사례를 보고 “소방 조직과 관련된 홍보 영상을 저렇게 재미있게 만들어보자”라고 생각했다고 한다. &lt;br&gt;&lt;br&gt;그렇게 시작한 소방관 삼촌 채널의 영상은 호평을 받았다. 올해 초 겨울철 빙판길 안전사고를 예방하기 위해 제작한 ‘소방관 슬릭백’을 시작으로, 전방주시 태만을 경고하기 위해 차에서 내려 춤을 추며 걷다 전봇대에 부딪히는 구성의 ‘세계로 가 소방관’ 등 많은 영상을 이목을 끌었다. &lt;br&gt;&lt;br&gt;충주맨 김 주무관이 직접 나 소방교의 영상을 언급하기도 했다. 김 주무관은 나 소방교 영상에 대해 “재미있다. 더 노력하시면 될 것 같다”며 장난식으로 견제하는듯한 반응을 보였다. &lt;br&gt;&lt;br&gt;나 소방교는 지난 3월 소방관 삼촌 유튜브 운영과 관련해 “일이라고 생각하지 않고 취미라고 생각하고 있어서 재밌고 즐겁게 하고 있다”며 “소방 업무를 하다 보면 정신적으로 몰리는 경우가 있는데, 저 같은 경우 영상 작업 그리고 운동을 하면서 스트레스를 풀어내는 편”이라고 했다. “영상을 만들어서 사람들이 보고 좋아해 줄 때 뿌듯하다”고도 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>덤프트럭으로 앞 오토바이 들이받아 숨지게 한 운전자, 1심서 선고유예 받은 이유는</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/18/YJJ4VOW76BFG7PRE6U2YWLMSJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/18/YJJ4VOW76BFG7PRE6U2YWLMSJI/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Oct 2024 02:37:13 +0000</pubDate>
-      <content:encoded>덤프트럭 운행 도중 앞에 있던 오토바이 운전자를 치어 숨지게 한 60대 기사가 선고유예 판결을 받았다. 기사의 과실이 크다고 보긴 어렵다는 취지의 판단이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G6IWTAZIIFK63H3TR7EGWGS2YA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;덤프트럭 등 화물차 모습. 사진은 기사와 관련 없음. /뉴스1
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사21단독 정재용 판사는 교통사고 처리 특례법 위반(치사) 혐의로 재판에 넘겨진 엄모(67)씨에 대한 형(금고 1년)의 선고를 유예했다고 18일 밝혔다. 선고유예는 유죄가 인정되지만, 정상을 참작해 형을 선고하지 않고 이후 일정 기간 다른 범죄를 저지르지 않으면 처벌을 면하게 하는 제도다.&lt;br&gt;&lt;br&gt;엄씨는 지난 4월 13일 오전 10시 55분쯤 서울 서초구 동작대로 편도 4차로의 2차로에서 정상적인 속도로 가고 있었다. 그러던 도중 오토바이를 탄 피해자가 3차로에서 2차로로 차선을 변경해 엄씨 앞에 위치하게 됐다.&lt;br&gt;&lt;br&gt;피해자는 별다른 사유 없이 감속했고, 이를 미처 발견하지 못한 엄씨는 그대로 피해자의 오토바이 뒷부분을 들이받으며 그를 밟고 지나갔다. 피해자는 현장에서 즉사했다.&lt;br&gt;&lt;br&gt;엄씨는 피해자의 유족과 합의하고, 유족에게 2억원을 지급하는 등 피해 회복 노력을 벌였다.&lt;br&gt;&lt;br&gt;정 판사는 이러한 점들을 감안해 “이 사건 사고 당시 엄씨는 정상적인 속도로 직진해 진행하고 있었기 때문에 조수석 쪽의 사이드미러나 보조거울을 동시에 살펴보긴 어려웠던 상황으로 보인다”며 “피해자가 시야의 사각지대에서 덤프트럭 앞쪽으로 들어왔고 별다른 이유 없이 감속하다가 사고를 당한 것으로 보이는 점 등에 비춰 피고인의 과실이 크다고 보기 어렵다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>'김학의 무혐의’ 수사팀 불기소한 공수처… 대법 “문제없다”</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/18/5KJBVWMW7BDH3FYRDNBPCIOOGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/18/5KJBVWMW7BDH3FYRDNBPCIOOGY/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Oct 2024 02:36:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IGPZXIDI4FNVDG3YKUZCTYYAZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조국혁신당 차규근 의원. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김학의 전 법무부 차관의 ‘별장 성 접대 의혹’을 무혐의 처분한 수사팀 검사들을 직무유기 혐의로 기소하지 않는 것이 맞는다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;18일 법조계에 따르면, 대법원 3부(주심 오석준 대법관)는 차규근 조국혁신당 의원(당시 법무부 출입국본부장)이 이 사건과 관련해 공소를 제기해달라며 낸 재정신청에 대한 재항고를 전날 기각했다. 재정신청은 고소·고발에 대한 검찰의 불기소 처분이 적절한지 다시 판단해 달라고 법원에 요청하는 제도다.&lt;br&gt;&lt;br&gt;이 소송은 차 의원이 ‘별장 성 접대 의혹’을 2013년 처음 수사했던 검사들이 김 전 차관의 범죄를 알고도 불기소했다며 특수 직무유기 혐의로 고위공직자범죄수사처(공수처)에 고발한 것이 발단이다. 공수처는 서울중앙지검을 압수수색하는 등 관련 기록을 확보했지만 혐의를 입증하지 못했다. 결국 작년 11월 수사팀 검사들을 불기소했다.&lt;br&gt;&lt;br&gt;이에 차 의원이 불복해 재정신청을 냈지만, 서울고법은 지난 4월 이를 기각했다. 대법원도 불기소 처분이 타당하다고 판단했다.&lt;br&gt;&lt;br&gt;‘김학의 별장 성 접대 의혹’은 2006~2007년 당시 검사 신분이었던 김 전 차관이 건설업자 윤중천씨로부터 그의 별장에서 뇌물과 성 접대를 받았다는 의혹이다. 박근혜 정부였던 2013년 3월 김 전 차관이 법무부 차관에 임명된 직후 사건이 알려지면서 논란이 됐다. 당시 경찰은 김 전 차관과 윤씨를 특수 강간 등 혐의로 검찰에 넘겼지만, 검찰은 2013~2014년 두 차례 수사에서 모두 무혐의 처분을 내렸다.&lt;br&gt;&lt;br&gt;이후 2019년 3월 문재인 당시 대통령이 “검경은 조직의 명운을 걸고 책임지라”면서 재수사가 시작됐다. 김 전 차관은 성 접대를 포함해 총 1억7000여 만원의 뇌물 수수 혐의로 기소됐지만 2022년 8월 대법원에서 무죄가 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>﻿미동 없는 어미와 먹이 찾는 새끼들…안타까운 장면의 끔찍한 비밀</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/18/MDUDJMN7JBGKZAAGP62K4LPG4U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/18/MDUDJMN7JBGKZAAGP62K4LPG4U/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Oct 2024 01:59:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O33CSOUCCRGWXE3FHS7MAQHSKM.png"&gt;&lt;figcaption&gt;&lt;small&gt;길거리에 쓰러져 미동 없는 어미 고양이를 향해 새끼 고양이들이 먹이를 찾고 있다. 수의사들은 고양이에게 약물을 먹여 이 영상을 촬영한 것으로 보고 있다. /﻿SMACC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 도로에 고양이가 쓰러져 있다. 새끼 고양이들이 울면서 먹이를 찾지만, 어미 고양이는 눈을 크게 뜬 채 미동도 하지 않는다. 생명이 위독한 어미의 상태를 모르는 듯 그 곁을 떠나지 못하는 새끼 고양이들의 모습에 많은 이들이 안타까움을 표했다.&lt;br&gt;&lt;br&gt;그런데, 이 동영상은 연출된 장면을 촬영한 것으로 드러났다. 수의사들은 어미 고양이에게 의도적으로 약물을 투여해 이 영상을 촬영했다고 분석했다. 이처럼 안타까운 상황에 놓인 동물을 구조하는 ‘가짜’ 동영상이 늘어나고 있다.&lt;br&gt;&lt;br&gt;29개 동물보호단체로 구성된 ‘소셜미디어 동물 학대 연합(SMACC)’은 지난 1일 ‘사기를 찾아라: 가짜 동물 구조의 실체를 파헤치다’라는 보고서를 발간했다.&lt;br&gt;&lt;br&gt;보고서에 따르면 단체가 6주 동안 페이스북, 인스타그램, 유튜브, 틱톡, X(옛 트위터)를 조사한 결과 1022개의 가짜 구조 동영상을 발견했다. 이 동영상들은 총 5억7000만회 조회됐다.&lt;br&gt;&lt;br&gt;단지 ‘좋아요’와 ‘공유’가 목적은 아니었다. 가짜 구조 콘텐츠의 21%는 구조된 동물을 돕겠다며 시청자들에게 페이팔 링크를 통해 기부를 요청했다.&lt;br&gt;&lt;br&gt;가짜 구조 콘텐츠는 길거리에 버려지거나 산 채로 묻힌 동물, 포식자의 공격을 받아 치료가 필요한 동물 등 매우 위험한 상황에 처한 동물의 모습을 보여준다. 특히 새끼 고양이나 강아지, 어린 원숭이가 주로 이용되는데 아마도 이 동물들이 다루기 쉽기 때문으로 추정된다.&lt;br&gt;&lt;br&gt;가장 많은 동영상은 길가나 쓰레기장, 쓰레기통에 버려진 것처럼 보이는 동물을 구조하는 내용이었다. 또 동물이 어딘가에 갇힌 모습을 보여주는 동영상도 많았다.&lt;br&gt;&lt;br&gt;한 동영상 속 강아지는 1분 넘게 병에 머리가 끼어 있다가 ‘구조자’의 도움으로 병을 제거한 후 동물병원으로 옮겨졌다. 이 영상을 검토한 수의사는 “물병 속에서 발버둥 치는 강아지를 1분 동안 촬영하는 건 진정한 구조보다는 극적인 콘텐츠 제작에 집중하고 있음을 시사한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BOAS6ARTARHGXDCZM72XTI3CIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;거대한 뱀이 염소를 잡아먹으려는 순간 '구조자'에 의해 살아나는 동영상. /﻿SMACC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일부 동영상은 맹금류나 거대한 뱀이 고양이, 개, 염소, 심지어 원숭이를 사냥하려는 모습을 보여줬다. ‘구조’라는 이름으로 동영상 제작자가 중간에 끼어들어 동물들이 실제로 죽음을 맞지는 않는다. 하지만 촬영하는 동안 위험에 처했던 동물들이 심각한 공포를 겪었을 것이라고 수의사들은 우려했다.&lt;br&gt;&lt;br&gt;단체는 진짜와 가짜 구조 동영상을 판별하는 방법을 소개했다.&lt;br&gt;&lt;br&gt;첫째, 출처를 확인한다. 진짜 동물보호 단체와 관련 없는 계정에 동물 구조 동영상이 여러 개 올라와 있는 경우 가짜일 가능성이 높다. 구조자가 항상 같은 사람이거나 구조된 동물들에 대한 후속 조치를 알리지 않는다면 의심해야 한다.&lt;br&gt;&lt;br&gt;둘째, 구조되는 동물을 눈여겨본다. 가짜 구조 동영상은 비슷한 설정과 이야기 구조로 만들어진다. 동일한 동물이 여러 동영상에 등장한다면 가짜다.&lt;br&gt;&lt;br&gt;셋째, 카메라 앵글을 확인한다. 실제 구조 상황에서 동물들은 촬영을 도와주지 않는다. 여러 개의 카메라 앵글을 사용해 동물 구조 모습을 명확하게 보여주는 건 설정된 상황을 촬영하고, 편집했을 가능성이 크다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>중앙지검 국정감사, 1시간 만에 파행</title>
       <link>https://www.chosun.com/national/court_law/2024/10/18/Q26PU2TU4NH3PH5GABLNYJ6E7E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/18/Q26PU2TU4NH3PH5GABLNYJ6E7E/</guid>
@@ -770,15 +771,6 @@
       <description/>
       <pubDate>Fri, 18 Oct 2024 02:22:15 +0000</pubDate>
       <content:encoded>18일 국회 법제사법위원회에서 열린 서울중앙지검 등에 대한 국정감사가 개회 1시간 여만에 파행됐다. 전날 서울중앙지검은 김건희 여사가 ‘도이치모터스 주가 조작’에 연루됐다는 의혹에 대해 불기소 처분하면서 “수사 초기 당시 김 여사의 주거지, 사무실 및 휴대폰에 대해 청구한 압수 수색 영장이 기각됐다”고 밝혔다. 해당 압수 수색 영장엔 도이치모터스 주가 조작과 관련한 혐의인 ‘자본시장법 위반’이 빠져 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F7RZYUMEGFPONOTDKPKYROKDVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이창수 서울중앙지검장이 18일 오전 국회 법제사법위원회의 서울고검, 수원고검, 서울중앙지검 등에 대한 국정감사에서 조상원 서울중앙지검 4차장 검사의 귓속말을 듣고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 서영교 더불어민주당 의원은 “압수 수색 영장에 대한 자료를 요구한다”며 “(도이치모터스 주가 조작이 아닌) 코바나콘텐츠 협찬 의혹에 대한 영장만 청구했다면 대국민 사기극 아니냐”고 주장했다. 정청래 법사위원장도 “관련 보도를 보고 저도 굉장히 분노했다”며 이창수 서울중앙지검장에게 “해당 보도가 맞는지, 검찰 발표가 맞는지” 물었다.&lt;br&gt;&lt;br&gt;이창수 지검장은 “제가 보고받기로는 피의자에 대한 압수 수색 영장 청구는 코바나콘텐츠 관련 사건으로 알고 있다”고 답했다. 정 위원장이 “김건희 피의자에 대해서 그(도이치모터스 주가 조작) 사건에 대해서 압수 수색 영장은 청구를 안 한 게 맞는 것이냐”고 다시 물었고, 이 지검장은 “형식적으로 보면 그 말씀이 맞다”고 했다. 이에 서 의원은 “거짓말”이라며 지적했다.&lt;br&gt;&lt;br&gt;이 지검장은 “2020~2021년에 있었던 일인데, 당시 서울중앙지검 반부패수사2부에서 코바나콘텐츠 협찬 의혹과 도이치모터스 주가 조작 사건을 같이 수사했다”며 “동시에 수사를 진행하면서 어떤 때는 두 가지 피의사실을 같이 (영장에) 쓰기도 하고, 어떤 때는 단독으로 넣기도 했다”고 해명했다. 논란이 된 압수 수색 영장은 2020년 11월 검찰이 청구한 것으로, 이 때 서울중앙지검장은 이성윤 민주당 의원이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DYL3CQXMNNLZNPURBJNJHOQ4KQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 아세안 정상회의 참석에 동행한 김건희 여사가 지난 9일(현지시각) 라오스 비엔티안 왓타이 국제공항에 도착해 환영나온 라오스측 인사와 대화하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주진우 국민의힘 의원은 “모든 영장에 대해 어떤 건 기각됐고, 어떤 건 발부된 건지 (도이치모터스 주가 조작과 관련한) 전체 현황을 제출해달라”고 했다. 주 의원은 “지난 문재인 정부 시기 (김 여사를) 피의자로 특정 못 해서 소환조차 못했다”고도 했다.&lt;br&gt;&lt;br&gt;이 지검장의 발언을 두고 장내 소란이 계속되자 정 위원장은 11시 2분 “의사진행이 어렵다”며 정회를 선포했다. 국정감사는 11시 20분 재개됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“손목 자르고 싶어” 주민센터서 손도끼 자해 소동 벌인 70대 男, 징역형 집형유예</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/18/TCMF23LYYBHE3L3YFIMTM7U3LA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/18/TCMF23LYYBHE3L3YFIMTM7U3LA/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Oct 2024 02:20:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CO6B7DZNNR4JDISVGSQ6XIMRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안마 바우처가 중단됐다는 이유로 주민센터에서 손도끼를 꺼내 자해 소동을 벌인 70대 남성이 징역형 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;서울남부지법 형사13단독 김재은 판사는 특수공무집행방해 혐의로 기소된 김모(71)씨에 징역 1년에 집행유예 2년을 지난 11일 선고했다. 김씨는 지난 3월 서울 양천구의 한 주민센터에서 복지팀장 박모씨에게 안마바우처 중단에 대한 민원을 제기하던 중 손도끼를 꺼내 탁자에 올려두고 “팔에 통증이 심해 손목을 도끼로 잘라버리고 싶다. 안마 바우처 연장이 절실하다”며 자해할 것처럼 박씨를 협박한 혐의를 받는다.&lt;br&gt;&lt;br&gt;김씨는 지난해 2월 서울시에서 만 60세 이상 노인성 질환자, 지체·뇌병변 장애인을 대상으로 하는 ‘안마 바우처’ 서비스 대상자로 선정됐다가 올 1월 서비스 연장이 거절됐다. 항의 차 찾아간 주민센터에서 재차 “바우처 서비스 연장은 불가능하다”는 답변을 받자 자해 소동을 벌인 것이다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 2023년 특수협박죄로 징역 4개월에 집행유예 1년을 선고받은 전력이 있다”면서도 “범행을 자백한 점, 박씨가 피고인에 대한 선처를 탄원하고 있다는 점 등을 고려해 형을 정했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>전학 가는 친구에게 “행복했어, 잊지 않을게”…100만 울린 이 노래</title>
