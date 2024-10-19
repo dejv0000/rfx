@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘불법도박’ 고백한 이진호, 결국 ‘아는형님’ 통편집</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/20/WGSPFZVYGBG3TFZYBJC7BLEPX4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/20/WGSPFZVYGBG3TFZYBJC7BLEPX4/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Oct 2024 22:28:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GGM6342IVRNVJJECCGFNFMNKNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;코미디언 이진호. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인터넷 불법 도박 사실을 스스로 밝힌 코미디언 이진호가 출연 중이던 방송에서 통편집됐다.&lt;br&gt;&lt;br&gt;19일 오후 방송된 JTBC ‘아는 형님’에서는 출연진들이 가수 민경훈의 결혼을 축하하는 시간을 가졌다.&lt;br&gt;&lt;br&gt;2021년 이 방송에 합류해 고정으로 출연해왔던 이진호는 단체 영상에서만 짧게 등장했다. 단체샷을 제외하고는 대부분의 분량이 편집된 것이다.&lt;br&gt;&lt;br&gt;‘아는 형님’ 측은 지난 14일 이진호가 불법 도박을 했다고 밝힌 직후, “이진호는 이번주 촬영부터 하차하게 됐다. 이미 촬영된 것에 대해서는 최대한 편집해 방송할 계획”이라는 입장을 밝힌 바 있다.&lt;br&gt;&lt;br&gt;이진호는 앞서 지난 14일 자신의 인스타그램에 장문의 글을 올려 불법 도박을 한 사실을 털어놨다. 그는 “2020년 우연한 기회로 인터넷 불법 도박사이트에서 게임을 시작하게 됐고, 감당하기 힘든 빚을 떠안게 됐다”고 밝혔다. 그는 “매월 꾸준히 돈을 갚아 나가고 있고, 앞으로도 죽을 때까지 이 빚은 꼭 제힘으로 다 변제할 생각”이라며 “경찰 조사 역시 성실히 받고 제가 한 잘못의 대가를 치르겠다”고 했다.&lt;br&gt;&lt;br&gt;이진호는 동료 연예인 등으로부터 10억원 가량의 돈을 빌린 것으로 알려졌다. BTS 지민에게 “급전이 필요하다”며 1억원을 빌렸고, 함께 ‘아는 형님’에 출연하던 이수근과 방송국 임원, PD, 작가들에게도 돈을 빌린 것으로 전해졌다. 또 그가 따로 대부업체에서 빌린 돈도 13억원이 넘는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;현재 이진호는 모든 재산을 처분하고 경기도에 있는 1인 오피스텔에서 생활하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>美는 수입 막은 中 CCTV, 한국은 소방본부·전기연구원에만 261개</title>
       <link>https://www.chosun.com/national/2024/10/20/H5L3X4BODFHNDECGHGKYAHPPNI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/10/20/H5L3X4BODFHNDECGHGKYAHPPNI/</guid>
@@ -886,15 +895,6 @@
       <description/>
       <pubDate>Fri, 18 Oct 2024 02:21:50 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4OO4CE2HZBRVIXYWOB4ENZVMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 안양의 한 초등학교 합창동아리 학생들이 전학가는 친구를 위해 작별 노래를 불러주는 모습./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전학 가는 친구에게 마음을 담아 노래를 불러준 초등학생들의 영상이 화제다.&lt;br&gt;&lt;br&gt;18일 인스타그램에서는 경기 안양시 한 초등학교 음악 교사 A씨가 올린 합창동아리 학생들의 영상이 약 110만의 조회수를 기록중이다.&lt;br&gt;&lt;br&gt;지난 10일 올라온 이 영상에는 학생들이 교실에서 다른 학교로 전학 가는 친구에게 노래를 불러주는 모습이 담겼다. 학생들은 동요 ‘노을’에 개사한 노랫말을 붙여 전학 가는 친구에게 작별의 노래를 불러줬다.&lt;br&gt;&lt;br&gt;전학을 가는 친구는 ‘헤어질 때 말 못했던 내 마음. 고마웠어, 행복했어, 사랑했어. 나에게 너란 친구 있어 감사해. 친구야 고마워. 잊지 않을게’라는 가사를 듣다가 두 손으로 얼굴을 가린 채 눈물을 흘렸다.&lt;br&gt;&lt;br&gt;A씨는 게시글을 통해 “또 한 명의 친구가 전학을 간다. 조용히, 열심히 하는 친구였는데 아쉽다”며 “아이들은 감정 표현이 아직 많이 어색해서 친구에게 하는 말을 노랫말로 배운다. (전학 가는 아이가) 건강하게 잘 지내길 바란다”고 했다.&lt;br&gt;&lt;br&gt;전학가는 학생의 아버지라고 밝힌 네티즌은 댓글을 통해 “아이가 합창단 활동하면서 진심으로 참여하고 좋아하는 모습을 볼 때 너무 뿌듯했다”며 “아이가 평생 잊지 못할 좋은 추억을 만들어주셔서 감사하다. 선생님과 합창단원 아이들 모두 행복하시길 바란다”고 남겼다.&lt;br&gt;&lt;br&gt;영상을 접한 네티즌들은 “선생님도 학생들도 모두 훌륭하다” “전학 가는 친구는 저 순간을 평생 기억 하겠다” “같이 눈물 글썽였다” 등 아이들의 노래 선물에 감동했다는 반응을 보이고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울고검, ‘金여사 디올백’ 서울의소리 항고 형사부에 배당</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/18/EM6D7N2YPNDL7II4DH4YMW4OWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/18/EM6D7N2YPNDL7II4DH4YMW4OWI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Oct 2024 01:38:25 +0000</pubDate>
-      <content:encoded>서울고검이 윤석열 대통령 배우자 김건희 여사의 ‘디올백 수수’ 의혹 재수사 여부 검토에 착수했다. 이 의혹을 처음 제기한 인터넷매체 ‘서울의소리’가 검찰의 불기소 처분에 불복해 항고한 데 따른 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EPIWIE6XKS5TI5YFUNUPM67DFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고등검찰청(왼쪽)과 서울중앙지방검찰청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고검은 서울의소리가 김 여사에 대한 검찰 불기소 처분에 불복해 항고한 사건을 형사부에 배당했다고 18일 밝혔다. 지난 2일 서울중앙지검 형사1부(부장 김승호)는 서울의소리 측이 고발한 윤 대통령과 김 여사의 모든 혐의를 불기소 처분했다.&lt;br&gt;&lt;br&gt;이에 고발인인 백은종 서울의소리 대표와 정대택씨는 검찰 결정에 불복해 지난 7일 서울중앙지검에 항고장을 제출했다.&lt;br&gt;&lt;br&gt;서울의소리는 지난해 11월 김 여사가 재미교포 목사 최재영씨로부터 디올백을 받는 모습이 담긴 ‘몰래카메라’ 영상을 공개한 뒤 같은 해 12월 윤 대통령 부부를 검찰에 고발했다.&lt;br&gt;&lt;br&gt;사건을 정식 배당한 서울고검은 서울중앙지검으로부터 수사 기록을 넘겨받아 윤 대통령과 김 여사에 대한 불기소 처분이 적절했는지 살펴볼 전망이다.&lt;br&gt;&lt;br&gt;다만 법조계에선 서울중앙지검이 두 번의 수사심의위원회까지 거친 끝에 불기소 결정을 내린 만큼 서울고검에서 결론이 뒤집힐 가능성은 크지 않다는 관측이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>전국에 강한 가을비, 비온 뒤엔 기온 ‘뚝’</title>
