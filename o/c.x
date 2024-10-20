@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>기온 ‘뚝’ 쌀쌀한 가을 날씨, 다음 주 초에도 비 예보</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/10/20/CYNTHWBHKVB5TE7VQIIYAJXEXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/10/20/CYNTHWBHKVB5TE7VQIIYAJXEXM/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>비가 그친 뒤 찬공기가 내려오며 전국적으로 쌀쌀한 가을 날씨를 보이고 있다.</description>
+      <pubDate>Sun, 20 Oct 2024 04:41:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RKJ4GA5H4NOEZLA7XNTSNBDM4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 서울 서초구 반포한강공원에서 바라본 N서울타워 앞에 억새가 피어있다/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비가 그친 뒤 찬공기가 내려오며 전국적으로 쌀쌀한 가을 날씨를 보이고 있다. 일요일인 20일 서울의 아침 기온이 10도 안팎을 기록하며 올 가을 들어 가장 낮은 온도를 나타냈다. 월요일엔 남부와 제주에서 비가 시작돼 화요일 전국으로 확대되며 당분간 쌀쌀한 날씨가 이어질 전망이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 20일 낮 최고기온은 서울 18도, 인천 18도, 수원 18도, 춘천 16도, 강릉 15도, 청주 18도, 대전 18도, 전주 19도, 광주 20도, 대구 17도, 부산 20도, 제주 20도 등 전국 대부분이 15~20도 가량에 머물겠다. 바람도 강하게 불어 동해안과 남해안, 제주 해안에는 강풍특보도 내려져 있다. 기상청 관계자는 “북쪽의 찬 공기가 남하하면서 기온이 큰 폭으로 떨어지겠고, 바람도 점차 강해지면서 체감온도는 더욱 낮겠다”고 했다.&lt;br&gt;&lt;br&gt;월요일인 21일엔 전국이 대체로 흐릴 전망이다. 남부 지방과 제주도에는 오후부터 가끔 비가 오고 22일에는 전국으로 확대될 것으로 보인다.&lt;br&gt;&lt;br&gt;21~22일 예상 강수량은 제주도 30~80㎜(많은 곳 120㎜ 이상), 광주, 전남, 경상권 20~60㎜(많은 곳 80㎜ 이상), 경기 동부, 강원도, 충청권, 전북 10~50㎜, 서울, 인천, 경기 서부, 서해5도 5~40㎜로 전망됐다. 아침 최저기온은 5~17도, 낮 최고기온은 17~24도로 예보됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시, 세빛섬에서 미혼남녀 100명 단체 미팅 연다</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/20/ZKNXNU24FFGOTEGHL2MGNFJ7CA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/20/ZKNXNU24FFGOTEGHL2MGNFJ7CA/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 20 Oct 2024 04:33:27 +0000</pubDate>
+      <content:encoded>서울시가 다음달 반포한강공원 세빛섬에서 미혼남녀 100명을 모아 단체 ‘미팅’을 연다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HUKKKBT2KNHHXP6LMZPFQ6KGSI.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울시의 단체 미팅 '설렘in한강'의 포스터/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 우리카드와 함께 단체 미팅 ‘설렘, in 한강’을 11월 23일에 연다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;참가자들은 당일 오후 3시부터 9시까지 한강 요트 투어를 비롯해 커플 레크리에이션 게임과 일대일 대화, 칵테일 데이트 등 다양한 프로그램에 참여한다. &lt;br&gt;&lt;br&gt;행사 마무리에는 TV 연애프로그램처럼 참가자들이 마음에 드는 이성을 1~3순위까지 기재하고 용지를 제출한다. 최종 커플 성사 여부는 다음날 당사자들에게 개별 통지할 예정이다.&lt;br&gt;&lt;br&gt;연결된 커플들에겐 총 1000만원 상당의 식사 상품권, 서울달 기구 탑승권 등을 제공한다. &lt;br&gt;&lt;br&gt;서울에 거주하는 25~39세(1999~1985년생) 미혼 남녀 100명이 참여할 수 있다. &lt;br&gt;&lt;br&gt;신청 시에는 주민등록등본(초본)과 재직증명서(직장인)·사업자등록증명원(사업자)·소득금액증명서(프리랜서), 혼인관계증명서(상세) 등 서류를 반드시 제출해야 한다.&lt;br&gt;&lt;br&gt;시는 서류·자기소개서 검토, 성범죄 이력 조회 등을 거친 뒤 무작위 추첨을 통해 남녀 각각 50명을 선정하고 다음 달 18일까지 개별 통보할 예정이다.&lt;br&gt;&lt;br&gt;작년 데이터 분석 업체 ‘피앰아이’의 조사에 따르면 현재 솔로인 남녀 10명 중 3명은 연애를 하기 싫어서가 아니라, 이성과 만날 기회가 없거나 마음에 드는 사람을 아직 만나지 못해서인 것으로 나타났다. 이 설문조사에서 전국 20~69세 남녀 3000명 중 64.6%가 연애를 하고 있지 않으며, 그중 18.0%는 ‘만날 기회가 없어서’, 14.1%는 ‘마음에 드는 사람을 찾지 못해서’라고 응답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>의장 선거에서 ‘기표 인증샷’...성남시의회 국민의힘 시의원 무더기 송치</title>
+      <link>https://www.chosun.com/national/regional/2024/10/20/2EZSZH2ME5FNLOTXQO4456E4ZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/20/2EZSZH2ME5FNLOTXQO4456E4ZE/</guid>
+      <dc:creator>성남=권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 20 Oct 2024 03:38:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D7XZNX66ZBENLLDW4TRFDROZGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 성남시의회 민주당 의원들이 지난 8월 시의회 의장 선출 과정의 부정 행위를 규탄하는 기자회견을 갖고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 성남시의회 의장 선거 과정에서 내부 반란표를 막는다며 담합해 비밀투표 원칙을 어긴 혐의로 국민의힘 소속 시의원 16명이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;성남중원경찰서는 위계에 의한 공무집행 방해 혐의로 국민의힘 소속 성남시의원 16명을 최근 수원지검 성남지청에 불구속 송치했다고 20일 밝혔다. 성남시의회는 국민의힘이 18명으로 다수당이며, 더불어민주당 14명, 무소속 2명으로 구성돼 있다.&lt;br&gt;&lt;br&gt;이들은 지난 6월 26일 제9대 후반기 의장 선거 당시 기표지를 스마트폰으로 촬영한 뒤 소속 정당 시의원 등이 참여하고 있는 메신저 단체 채팅방에 인증 사진을 올리는 등 비밀투표의 원칙을 어긴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;당시 성남시의회는 의장에 국민의힘 이덕수(3선) 의원을, 부의장에 역시 국민의힘 안광림(재선) 의원을 선출했다. 국민의힘 소속 시의원 18명 가운데 이덕수 의장 등 2명은 혐의가 드러나지 않아 송치 대상에서 제외된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;성남시의회 더불어민주당은 지난 7월 “국민의힘 의원들이 의장 선출 과정에서 담합해 특정 후보에게 투표하도록 강요하고, 기표지를 휴대폰으로 촬영해 메신저를 통해 인증샷을 요구하는 등 비밀투표의 원칙을 위반하고 부정행위를 저질렀다”며 경찰에 고발했다.&lt;br&gt;&lt;br&gt;경찰은 국민의힘 시의원들의 휴대전화를 압수해 분석한 결과 혐의가 확인됐다고 판단해 이들을 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>인천 서구 공장 화재...강한 바람에 인근 야산으로 번져</title>
       <link>https://www.chosun.com/national/regional/2024/10/20/UZCQZLZSNNGLPEUOI5FWWQ6IUQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/20/UZCQZLZSNNGLPEUOI5FWWQ6IUQ/</guid>
@@ -860,24 +887,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UAKQINWETBEZTA4DTIIDTAIKJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'나는 솔로' 남규홍 PD. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송작가에 대한 갑질 의혹이 제기돼 국회 국정감사 증인으로 채택된 예능프로그램 ‘나는 솔로’ PD가 증인 출석요구서를 받지 않고 연락두절 상태라는 사실이 알려졌다.&lt;br&gt;&lt;br&gt;강유정 더불어민주당 의원은 18일 문화체육관광위 국감에서 의사진행 발언을 통해 “제가 오는 24일 (문화체육관광부 종합감사) 증인으로 신청한 남규홍 ‘나는 솔로’ PD가 출석 요구서 수령 자체를 회피하고 있다는 소식을 들었다”며 ‘FIFA U-17 여자 월드컵 대회’ 참석을 핑계로 국정감사 출석을 거부한 정몽규 대한축구협회 회장 사례보다 훨씬 심각하다고 했다.&lt;br&gt;&lt;br&gt;강유정 의원은 “국회 행정실에서 남규홍 PD에게 찾아가서 증인 출석 요구서를 전달하려고 했다”며 “전화를 했는데 이후에 행정실과 모든 연락을 끊고 받고 있지 않다고 한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “통신사 협조를 얻어서 주소지로 찾아갔더니 그 주소지가 남규홍 PD 주소지가 아니었다고 한다. 회사에도 전달하려고 했으나 문이 잠겨 있어서 서류를 앞에 두고 왔다고 한다”며 “결국 증인 출석요구서를 인터넷으로 공시 송달하는 이런 웃지 못할 사태까지 벌어졌디”고 설명했다.&lt;br&gt;&lt;br&gt;강 의원은 “만약 남규홍 PD가 오는 24일 국정 감사장에 불출석한다면 그 즉시 국정감사에 앞서서 남규홍PD 고발 건을 안건으로 올려주셨으면 하는 요청을 드린다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 전재수 문체위원장은 “여야가 합의한 증인에 대해서는 엄중하게 대처하겠다”며 “납득할 만한 사유 없이 핑계로 일관해 국정감사를 피하기만 하면 된다고 판단할 수 있을 것 같은데 그렇지 않다. 이 문제는 저희가 국정감사가 끝이 나더라도 고발은 물론 별도의 청문회나 행안질의를 통해 반드시 책임을 물을 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편 남규홍 PD는 자신과 딸을 작가 명단에 올리고 방송작가들에게 불공정 계약서 체결을 강요해 재방료를 가로챘다는 의혹이 제기된 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>만취 사망사고 낸 女DJ, 2심서 징역 10년→8년 감형</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/18/SXJ57KIDAND7ZCHXFBPITFUQGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/18/SXJ57KIDAND7ZCHXFBPITFUQGA/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Oct 2024 06:43:40 +0000</pubDate>
-      <content:encoded>새벽에 서울 강남 일대에서 만취한 상태로 운전대를 잡은 뒤 오토바이 배달 기사를 치어 숨지게 한 20대 여성 클럽 DJ가 2심에서 형(刑)이 감경됐다. 피해자 측과 합의한 게 감형의 주요 요인이 된 것으로 보인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7OMYHYFLOFHILKD2XTJIIPXJJI.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2월 클럽 DJ 안예송씨가 만취 상태로 운전하다 오토바이 배달 기사를 치어 숨지게 한 현장. 검찰은 안씨의 재판에서 해당 차량 몰수를 구형했고, 법원은 이를 받아들였다. /대검찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사항소5-2부(재판장 김용중)는 특정범죄가중처벌법상 위험운전치사·도주치상, 도로교통법상 사고후미조치·음주운전 혐의 등으로 기소된 안예송(24)씨에 대한 원심 판결을 파기하고 징역 8년을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “안씨는 만취 상태에서 도로 한 가운데 한참 서 있거나 신호를 위반하고 과속하는 등 매우 위험하게 운전해 사고를 냈다”면서도 “항소심 들어 피해자 측과 추가 합의한 점 등을 고려하면 1심 형은 다소 무거워 보인다”고 했다. 재판 과정에서 대표적 감형 사유 중 하나가 피해자 측과의 합의다.&lt;br&gt;&lt;br&gt;앞서 1심은 “두 차례의 교통사고 모두 오로지 피고인의 잘못만으로 발생했다. 주의의무 위반의 정도 및 위법성이 매우 중하다”며 징역 10년을 선고한 바 있다.&lt;br&gt;&lt;br&gt;한국과 중국 등을 오간 DJ였던 안씨는 지난 2월 3일 서울 강남구 논현동에서 열린 한 생일파티에서 음주량을 기억조차 못할 정도로 폭음한 뒤 만취한 상태에서 운전해 사고를 낸 혐의 등을 받는다.&lt;br&gt;&lt;br&gt;안씨는 새벽 4시 37분쯤 자신의 벤츠 차량을 몰다 과속해 앞서 주행하던 오토바이를 뒤에서 들이받아 50대 배달 기사가 사망했다. 당시 그의 혈중알코올농도는 0.221%로 면허 취소 수준으로 조사됐다. 특히 안씨는 사고를 내기 이전엔 또 다른 교통사고로 피해자를 다치게 한 뒤 도주하다가 이같은 음주운전 사망사고를 낸 것으로 파악됐다.&lt;br&gt;&lt;br&gt;안씨는 사망사고를 낸 이후 자신의 애완견을 끌어안은 채 피해자에 대한 구호 조치를 제대로 하지 않은 것으로 전해져 논란이 일기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울회생법원, 과도 반입 시도한 채무자 적발…경찰 신고</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/18/6GODSK2AIVDNPJXUWXGLBBVXCU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/18/6GODSK2AIVDNPJXUWXGLBBVXCU/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Oct 2024 05:51:49 +0000</pubDate>
-      <content:encoded>개인 회생 사건 채무자가 법원에 흉기를 갖고 들어가려다 적발됐다. 법원 측은 “앞으로도 법정과 청사 보안을 위해 보안검색절차를 철저히 진행할 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KP7VORGSQRHQBI7B5I3MZOJLRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울회생법원. /박강현 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울회생법원은 18일 “전날 오전 10시 50분쯤 서울회생법원으로 들어가려던 한 60대 여성 A씨의 가방에서 에어캡(일명 ‘뽁뽁이’)에 포장된 길이 20cm의 과도를 탐지·적발했다”고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 개인 회생 사건의 채무자로 당일 오전 예정된 채권자집회기일에 참석하기 위해 방문한 것으로 확인됐다. 그는 “평소 가지고 다니던 것”이라는 취지로 해명했지만, 법원은 A씨의 칼을 압수 조치하고 즉시 경찰에 신고했다.&lt;br&gt;&lt;br&gt;법원 관계자는 “법원을 방문하는 당사자 및 민원인은 법정 출입 시 안전에 위협이 되는 물건을 소지해서는 안 된다”며 “과도가 상당히 위험성이 높은 흉기로 보이고, 경우에 따라 경범죄 처벌법 내지 폭력행위 등 처벌에 관한 법률 위반 소지도 있어 보여 A씨를 경찰에 신고했다”고 설명했다.&lt;br&gt;&lt;br&gt;앞서 지난 8월 28일 서울남부지법에선 피고인석에 앉아 재판을 받던 사람이 방청석에 앉아있던 한 남성으로부터 흉기에 목 부위를 수차례 찔리는 사고가 발생했다.&lt;br&gt;&lt;br&gt;이후 전국 최대 법원인 서울중앙지법·서울고법 등이 있는 서울법원종합청사는 재발 방지를 위해 법정출입구 검색, 복도 및 법정 내부 보안 등을 보강하고 법원보안관리대원이 가스총 등을 휴대할 수 있도록 조치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 변호사가 우산 받쳐주고...문다혜, 음주운전 13일 만에 경찰 출석</title>
       <link>https://www.chosun.com/national/national_general/2024/10/18/A4G3SUNKIRBDVL2HIN5XRCLIGI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/18/A4G3SUNKIRBDVL2HIN5XRCLIGI/</guid>
@@ -955,14 +964,6 @@
       <description/>
       <pubDate>Thu, 17 Oct 2024 15:45:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3S46ELVEWNCHDAET5NPUAE2FUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 인천 연수구 송도컨벤시아에서 열린 대한응급의학회 추계 학술 대회에 참석한 응급실 의사 등 의료진 1000여명이 ‘응급의학 연구의 미래 방향’에 대한 발표를 듣고 있다. /대한응급의학회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 오전 9시 인천 송도컨벤시아 그랜드볼룸 홀에선 대한응급의학회 추계 학술대회가 열렸다. 전국 400여 응급실에서 일하고 있는 응급실 의사 등 의료진 1000명 정도가 이날 행사에 참석했다.&lt;br&gt;&lt;br&gt;응급실 의사들은 서로 인사를 나누며 “힘내세요” “전공의 선생님들이 내년에는 돌아와야 할 텐데”라고 말했다. 이날 행사장엔 전공의들을 위한 좌석을 별도로 마련해 놨지만, 오전엔 한 명도 없이 텅 비어 있었다. 오후엔 2~3명이 앉아 있었다.&lt;br&gt;&lt;br&gt;작년 대한응급의학회 추계 학술대회에는 1500~1600여 명의 의사 등이 참석했다. 통상적인 참석 인원이다. 그런데 이번엔 60%가량만 참여한 것이다. 학술대회에 온 응급실 의사들은 “올 6월 춘계 학술대회 참석 인원(500여 명)보다는 많아졌지만, 여전히 참석률이 저조한 편”이라며 “응급실을 지키던 전공의 집단 이탈 후 남아 있는 의사들은 잦은 당직으로 학술대회 참석이 어렵다”고 했다.&lt;br&gt;&lt;br&gt;학생을 가르치고, 연구를 하고, 진료를 하던 교수들이 ‘진료’에만 매달리고 있다는 뜻이다. 응급실 의사들은 “다른 필수 진료과도 사정은 똑같다”며 “연구를 못 하면 세계적 수준의 우리나라 의료는 점점 뒤처질 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;실제 이날 학술대회에서도 ‘연구량 저하’가 분명하게 드러났다. 응급의학회의 춘계·추계 학술대회엔 보통 연구 결과(포스터 연구 발표)가 100여 편 발표된다. 그런데 이날 행사에선 발표된 연구 결과는 예년의 10분의 1도 안 되는 7편이었다. 김인병 대한응급의학회 이사장(명지병원 의무부원장)은 이날 행사 개회사에서 “어려운 상황에서도 학술 활동, 응급의학의 발전은 지속돼야 한다”고 말했다.&lt;br&gt;&lt;br&gt;김 이사장 등 이 학회 임원들은 기자들에게 “응급의학 발전을 위해 우리는 환자를 봐야 한다” “책임을 다해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;이날 행사에선 의정 갈등 사태 후, 소아 응급 환자 치료에 걸리는 시간이 늘어났다는 연구, 정부가 응급실에 내원한 경증 환자의 본인 부담금을 인상했지만 장기적으로 응급실 과밀 문제를 해결하기엔 역부족이라는 연구 결과 등이 발표됐다.&lt;br&gt;&lt;br&gt;양혁준 가천대 길병원 교수는 “응급의학이 잘되려면 결국 사명감을 가지고 일하는 전공의가 있어야 하는데, 이번 사태로 자포자기한 전공의가 많다”며 “이들의 마음을 잘 풀어줬으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 10월 18일</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/10/18/NF2Q43ERPZCUBNZAREVVTI5J3A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/10/18/NF2Q43ERPZCUBNZAREVVTI5J3A/</guid>
-      <description/>
-      <pubDate>Thu, 17 Oct 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TJSR7GHQ7FFRXL3H25UYZQIFTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>둘일 땐 몰랐던 ‘트라이앵글’의 안정감… 즐거움도 세 배!</title>
