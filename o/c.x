@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>﻿현주엽, 감사 결과 드디어 밝혀졌다…'먹방’ 촬영하러 18회 무단이탈</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/23/WTVFOJKTZNAOVAEYZOCOVEJJPE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/23/WTVFOJKTZNAOVAEYZOCOVEJJPE/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Oct 2024 22:25:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DA6DX55NDJHTRE462R4557DKLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;현주엽 휘문고 농구부 감독. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시교육청이 ‘먹방’ 촬영을 이유로 근무지를 무단 이탈한 의혹을 받는 현주엽 휘문고 농구부 감독에 대해 ‘감봉’ 처분을 요구한 사실이 처음으로 공개됐다. 시 교육청은 감사를 끝내고 관련자 처분을 요구했다고만 밝힐 뿐 구체적인 처분 요구 내용은 공개하지 않았었다.&lt;br&gt;&lt;br&gt;23일 국회 교육위원회 강경숙 조국혁신당 의원이 서울시교육청으로부터 받은 자료에 따르면 시 교육청은 근무지를 18회 무단으로 이탈한 현 감독에 대해 휘문고 측이 감봉 처분을 하라고 요구했다.&lt;br&gt;&lt;br&gt;감봉은 견책과 함께 경징계에 해당한다. 휘문고는 사립학교라 인사권과 징계 권한이 재단에 있어 교육청이 직접 징계할 수 없다.&lt;br&gt;&lt;br&gt;교육청은 감사 결과 보고서에서 “현 감독이 방송 촬영을 이유로 겸직 활동 시 지각‧조퇴‧외출‧연차를 사용하여야 함에도 사전 허가 없이 18회 무단이탈해 운동부 지도자 본연의 의무를 소홀히 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;현 감독은 ‘토요일은 밥이 좋아’ 한 개 프로그램 출연만으로도 주 2일 이상 6주간을 촬영했다. 또 동계 전지훈련 기간과 제61회 춘계 남녀 동구대회, 병가 기간에도 방송에 출연했다. 작년 2월 휘문고에서 연습경기 도중 학생이 다쳤을 때도 자리를 비웠다.&lt;br&gt;&lt;br&gt;또한 2023년 11월부터 2024년 2월까지 현 감독의 방송활동 기간 중 코치 역할을 대신할 사람을 적절한 채용 절차와 보수 없이 고용해 관련 법을 위반했다고 교육청은 판단했다. 현 감독 대신 근로계약을 체결하지 않고 무보수로 근무한 A씨는 ‘재능기부 코치’로 불렸다. A씨는 현 감독의 고등학교 동문인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;다만 훈련 시 가혹 행위, 친분 있는 선수 특혜, 차별, 언어폭력 등에 대해서는 ‘판단하기 어렵다’며 특별한 처분을 내리지 않았다. 교육청은 “일부 학생과 학부모가 위와 같은 언행을 직접 보거나 들었다고 주장하고 있어 일부 사실인 것으로 보이나 본인은 부인하고 있다”고 했다.&lt;br&gt;&lt;br&gt;현 감독이 돈을 주고 감독에 채용됐다는 의혹 역시 감사 처분에서 제외됐다. 교육청은 현 감독이 자신이 대표로 있는 법인 이름으로 두 차례에 걸쳐 총 2000만원을 기부한 사실은 맞지만 감독 채용의 대가성을 확인할 수 없었다고 했다.&lt;br&gt;&lt;br&gt;현 감독이 자녀를 휘문중 농구부에 넣기 위해 코치에게 부당한 압력을 행사했다는 의혹은 애초 감사 대상에서 제외됐다.&lt;br&gt;&lt;br&gt;현 감독 채용 과정에서 전임 코치에게 인건비를 부당하게 지급하는 농구부 파행 운영도 적발됐다. 휘문고 교장은 현 감독 이전에 근무하던 코치 2명이 중도 계약 해지 사유에 해당하지 않음에도 학교 운영위원회 심의를 거치지 않고 ‘출근하지 말라’고 구두로 제시했다. 2명의 코치에게는 정식 절차 없이 인건비 3159만원을, 현 감독에게는 임용 보고 없이 2000만원가량을 법인 회계에서 전출 받아 지급했다고 교육청은 설명했다.&lt;br&gt;&lt;br&gt;감사 결과를 바탕으로 교육청은 교장에게 중징계인 정직 처분을 하라고 재단에 요구했다. 휘문의숙은 교육청의 징계 처분 요구를 이행하지 않고 지난달 30일 감사 결과를 취소해 달라며 서울행정법원에 행정소송을 제기했다.&lt;br&gt;&lt;br&gt;앞서 올해 3월 휘문고의 한 학부모는 현 감독이 ‘먹방’ 촬영 등 방송활동을 이유로 감독 일을 소홀히 했고, 자신의 고교 선배를 보조 코치로 선임해 수련을 맡도록 하는 등 업무를 제대로 하지 않았다며 교육청에 탄원서를 냈다. 이에 교육청은 휘문고에 대한 특별 장학을 실시한 후 정식 감사에 착수했다.&lt;br&gt;&lt;br&gt;현 감독 측은 당시 업무태만 의혹은 사실이 아니라고 밝혔다. 현 감독 측 관계자는 “부족한 근무 시간은 대체 근무 등을 통해 보충했다”며 “겸직 및 근무 태만 의혹은 사실이 아니다”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>법원장들 모아놓고… 與 “이재명 엄정 판결” 野 “혐의 성립 안된다”</title>
       <link>https://www.chosun.com/national/court_law/2024/10/23/OM2KMUFDGJCSZNJOLEGTP2F64U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/23/OM2KMUFDGJCSZNJOLEGTP2F64U/</guid>
@@ -789,15 +798,6 @@
       <description/>
       <pubDate>Tue, 22 Oct 2024 01:49:41 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RXBYC2ONKJGPFBPLTKUOSY7PUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;통영해경이 신종마약으로 엑스터시와 케타민이 혼합된 알약 형태인 증거물을 적발하고 있다. /통영해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외국인 전용 유흥주점을 운영하면서 신종 마약류를 판매·투약한 귀화자들이 구속 송치됐다.&lt;br&gt;&lt;br&gt;경남 통영해양경찰서는 마약류 관리에 관한 법률 위반 혐의로 베트남 출신 귀화자인 유흥주점 업주 A(40대)씨와 상습 투약자 3명 등 총 4명을 구속했다고 22일 밝혔다. 다른 베트남 출신 귀화자인 여성 접객원 30대 B씨 등 3명은 불구속 송치했다.&lt;br&gt;&lt;br&gt;A씨 등은 지난해 9월부터 올해 8월까지 진주시 한 유흥주점에서 향정신성의약품인 엑스터시(MDMA) 등 마약류를 상습 판매하고, 투약한 혐의를 받는다. A씨는 한국 남성과 결혼해 2019년부터 유흥주점을 운영해 온 것으로 확인됐다.&lt;br&gt;&lt;br&gt;A씨는 같은 베트남 출신 여성 접객원들을 고용하고, 손님들에게 마약류를 판매·알선했다. 이들의 주요 손님은 외국인들로 특히 양식장이나 어선 등에서 일해 노동 강도가 높은 해양 노동자들이었다.&lt;br&gt;&lt;br&gt;A씨는 손님들이 일명 ‘마약 파티’를 예약하면, 가게 문을 닫고 별도로 투약할 수 있는 장소를 마련해줬다. 유흥주점 주변을 비추는 감시카메라(CCTV)로 경찰 단속을 피하는 등 치밀하게 범행했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVISNDMCEJCOTKYZFY66MJMWXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 단속에 대비해 확보한 대피로. /통영해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 경찰 단속에 대비해 천장에 마약류를 나눠 담을 지퍼백을 숨겨놓거나, 평소 사용하지 않는 후문으로 도주할 수 있는 길도 마련한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이들이 판매한 마약류는 필로폰보다 환각 작용이 3배나 강한 엑스터시와 성범죄 약물로 알려진 동물용 마취제 케타민 성분이 혼합된 알약 형태의 신종 마약이었다. 한 알에 15만원을 받았다고 한다. 개별로 투약하는 것보다 환각이나 흥분 상태 유지 시간은 짧지만, 두 가지 마약 효과를 낼 수 있어 손님들이 자주 찾았던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 해경 조사에서 지금껏 11차례에 걸쳐 마약을 판매해 700만원을 벌었다는 취지로 진술했다고 한다.&lt;br&gt;&lt;br&gt;해경 관계자는 “A씨가 인정하는 횟수보다 더 많이 거래가 있을 것으로 보고 여죄를 확인 중이며 마약을 조달한 경로도 추적하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰에 1500번 장난전화 일삼은 60대 남성 체포</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/22/BXIELU2RW5ENJEE4TXKV5EURSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/22/BXIELU2RW5ENJEE4TXKV5EURSQ/</guid>
-      <dc:creator>강우석 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Oct 2024 01:49:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2B6SFAHPHW6ZXODR6HAA6OZEMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 혜화경찰서 전경 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰서에 1500회 가량 장난 전화를 일삼고 출동한 경찰을 폭행까지 한 60대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 혜화경찰서는 경찰서에 수시로 전화를 걸어 욕설을 하고 경찰을 주먹으로 때린 60대 남성 이모씨를 경범죄처벌법 위반·공무집행방해·모욕 혐의로 입건했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이씨는 공중전화 등을 이용해 경찰에 장난 전화를 걸다 지난 17일 오전 7시쯤 종로구 종로5가파출소 인근에서 체포됐다. 체포 당시 이씨는 출동한 경찰을 주먹으로 때리고, 욕설까지 한 혐의도 받고 있다. 이씨는 경찰서에 연행된 뒤에도 1시간 가량 고성을 지르며 난동을 부린 것으로 전해졌다. 이씨는 경찰조사 과정에서 장난전화를 1500회 가량 일삼았다고 진술했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “정확한 장난전화 횟수는 집계 중”이라며 “이 씨에 대해 구속 영장을 신청했으나 기각됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>부산 공사현장서 건설자재 쓰러져 60대 근로자 숨져</title>
