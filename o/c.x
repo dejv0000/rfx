@@ -13,6 +13,132 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title> “최민환 이혼 요구에 지옥”...율희, 양육권 포기한 이유 밝혔다  </title>
+      <link>https://www.chosun.com/national/people/2024/10/22/FZIRMLHYOBFD3AP4M2CANLYTCA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/22/FZIRMLHYOBFD3AP4M2CANLYTCA/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Oct 2024 14:04:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3H3UE7CKUZB77D6HP6PUVT3QWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 라붐 출신 율희가 자녀들에 대해 이야기 하며 눈물을 보이고 있다. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 라붐 출신 율희(본명 김율희‧27)가 이혼 후 근황을 공개했다. 율희는 FT아일랜드 최민환(32)과의 이혼 과정에서 세 아이의 양육권을 포기해 일부 네티즌들의 비판을 받은 바 있다.&lt;br&gt;&lt;br&gt;율희는 22일 방송된 TV조선 ‘이제 혼자다’에 출연해 “(이혼) 위기를 못 느꼈다. 그래서 너무 갑작스러웠다”며 “그걸 알게 된 순간부터 저 혼자만의 지옥이었다”라고 했다.&lt;br&gt;&lt;br&gt;결혼 생활에 대해서는 “다복한 가정을 원했기 때문에 둘 다 너무 행복했다. 아이들을 보고 있을 때면 마냥 행복했다”며 “이 아이들이 없었으면 내가 살면서 어떠한 것들 때문에 이렇게 입이 쫙 찢어지게 웃을 수 있을까”라고 했다.&lt;br&gt;&lt;br&gt;그러나 율희는 “진지하게 ‘이혼’이라는 글자가 제 인생에 다가왔을 때, 처음엔 ‘극복해 보자’ 그랬다. 아이들이 있으니까”라며 “‘나는 이겨내지 못했구나’ 느꼈을 때는 이미 둘 다 골이 깊어졌을 때였다. 우리는 서로를 위해 이런 결정이 맞겠다 싶을 정도였다”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DO5P7UHZQCWHB6R3T2Z23W5L4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최민환과 율희. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;율희는 “(이혼) 이야기는 제가 꺼내지 않았다”며 “아이들 문제가 너무 고민됐다. 키우냐, 안 키우냐 그런 문제가 아니라 정말 이 아이들이 받을 상처가 걱정됐다”고 했다.&lt;br&gt;&lt;br&gt;양육권을 포기한 이유에 대해서는 “어느 부모가 내 핏덩이들 안 보고 싶겠냐. 그 결정이 제일 힘들었다. 힘들다는 말조차 대체할 수 없을 정도였다”며 아이들의 경제적 여건을 지켜주고 싶어 양육권을 포기했다고 밝혔다.&lt;br&gt;&lt;br&gt;한편 율희는 지난 2018년 최민환과 결혼해 슬하에 1남 2녀를 뒀지만 지난해 이혼 과정에서 양육권을 포기했다. 최민환은 이혼 후 KBS 2TV ‘슈퍼맨이 돌아왔다’를 통해 세 아이를 혼자 돌보는 모습을 공개해왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조계종 총무원장 “종교 지도자들, 의정갈등 중재안 낼 것”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/10/22/CT6SP3XM7BCGNPY6NIWKMV2DWI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/22/CT6SP3XM7BCGNPY6NIWKMV2DWI/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Oct 2024 13:58:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4PFJP6OICVKDDNL2DSIPDFDRLY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;22일 오후 서울 종로구 한국불교역사문화기념관에서 열린 의료계-종교지도자협의회 간담회에서 조계종 총무원장 진우스님(왼쪽)과 임현택 대한의사협회 회장이 대화를 나누고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사단법인 한국종교지도자협의회(종지협) 대표의장인 대한불교조계종 총무원장 진우스님은 의대 정원 문제 등 의정 갈등 사태에 대해 중재안을 내겠다고 22일 밝혔다. 이에 임현택 대한의사협회(의협) 회장은 “종교계 어르신들이 정부와 중재를 할 수 있는 여건을 만들어주신다면 의료계도 더 이상 국민이 걱정하지 않게 의료 정상화를 할 의향이 있다”고 했다.&lt;br&gt;&lt;br&gt;종지협과 의협에 따르면, 진우스님은 이날 종지협 대표들과 함께 서울 종로구 한국불교역사문화기념관에서 임현택 의협 회장을 비롯한 의료단체 대표들과 간담회를 가졌다.&lt;br&gt;&lt;br&gt;진우스님은 의료단체들의 의견을 청취한 뒤 의료계와 정부 사이에 이견이 있는 부분을 검토해 여야의정 협의체에 종교지도자협의회의 중재안을 내겠다는 뜻을 나타냈다. 임 회장은 “의료계는 어떻게든 이 사태를 해결하고 싶다”고 했다.&lt;br&gt;&lt;br&gt;진우스님은 “국민이 불편하니까 정부와 의료계가 서로 협의할 수 있도록 우리(종지협)가 중재를 해보면 좋겠다”며 “의료계의 입장을 허심탄회하게 말해달라”고 했다. 이에 이진우 대한의학회장은 “정부 정책이 의료현장과 지속해서, 합리적으로 논의하면서 점진적으로 추진됐다면 이런 상태까지는 아니었을 것이라는 아쉬움이 있다”며 “젊은 의사들이 미래 희망이 없기 때문에 나간 것이라 생각하고, 지금이라도 희망을 줄 수 있는 정책과 제도가 만들어지길 원한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/64BLXHJ7EJNIZCGEJFNANPO6OQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 오후 서울 종로구 한국불교역사문화기념관에서 열린 의료계-종교지도자협의회 간담회에서 조계종 총무원장 진우스님(가운데)이 발언하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김창수 전국의과대학 교수협의회(전의교협) 회장도 “의료 현장은 발등에 불이 떨어진 격”이라며 “지금 가장 중요한 것은 전공의들과 의대생들의 신뢰를 얻어 대화를 시작하는 것”이라고 했다. 이에 이용훈 한국 천주교 주교회의 의장은 “한국 천주교 주교회의에서도 의료공백 사태와 관련해 국민 생명과 불편, 필수의료, 수가 문제 등에 대해 구체적으로 논의했다”며 “의료계도 직역별로 의견이 달라 아쉽고, 정부가 조금 더 신중하게 대처했으면 사태가 여기까지 오지 않았을 텐데 하는 아쉬움도 있다”고 했다.&lt;br&gt;&lt;br&gt;이날 간담회에는 종교계에서는 진우스님과 이용훈 의장 외에 원불교 나상호 교정원장, 유교 최종수 성균관장, 천도교 윤석산 교령 등이 참석했다. 의료계에서는 임현택 회장과 이진우 회장, 김창수 회장, 박평재 고대 의대 교수비대위원장, 최안나 의협 기획이사 겸 대변인 등이 참석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 법원, 71일만에 ‘제주 ㅎㄱㅎ’ 재판부 기피 항고 기각</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/22/LSWXLMU4SJHMLIVOOJBVRZGN2E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/22/LSWXLMU4SJHMLIVOOJBVRZGN2E/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Oct 2024 12:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SKOHLTUTPZDKFKMI5UGM7DITY4.png"&gt;&lt;figcaption&gt;&lt;small&gt;국가정보원이 지난 2023년 12월 제주도에 있는 진보 정당 지역위원장 A씨의 자택을 압수 수색하고 있는 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동남아에서 북한 공작원과 접선하고 북한의 지령을 받아 국내에서 활동한 혐의로 기소된 제주 ‘ㅎㄱㅎ’ 조직원 3명이 “1심 재판부를 바꿔달라”며 낸 기피 신청에 대한 항고가 두 달여 만에 기각된 것으로 22일 확인됐다. 이들은 돌아가며 국민참여재판, 위헌법률심판 제청, 재판부 기피 신청을 하며 재판을 지연시키고 있다. 그 결과 정식 재판은 1년 6개월 동안 5차례밖에 열리지 않았다.&lt;br&gt;&lt;br&gt;광주고법 제주 형사1부(재판장 이재신)는 피고인들이 낸 재판부 기피 기각에 대한 항고를 지난 10일 기각했다. 지난 7월 31일 피고인들이 항고한 지 71일 만이다. 앞서 이들은 같은 달 12일 재판부 기피를 신청했는데, 제주지법은 4일 만에 이를 기각했다. 그러자 곧이어 항고했고, 이에 따라 재판은 석 달 동안 멈췄다.&lt;br&gt;&lt;br&gt;검찰이 작년 4월 총책 강모(54)씨와 조직원 고모(54)씨, 박모(49)씨를 국가보안법 위반 혐의로 기소한 이후 정식 재판은 다섯 번 열렸다. 이들은 작년 4월 24일 제주지법 형사2부 심리로 열린 첫 재판(공판준비기일)에서 국민참여재판을 신청했고, 재판부는 그해 6월 19일 국민참여재판 배제 결정을 내렸다.&lt;br&gt;&lt;br&gt;이들은 배제 결정에 항고했고, 재판은 또 멈췄다. 3개월 만에 항고가 기각되자 피고인들은 대법원에 재항고했다. “국민참여재판을 받게 해달라”며 위헌법률심판제청도 냈다. 대법원은 그해 11월 재항고를 기각했다. 법원의 판단이 길어지면서 구속 기소됐던 고씨와 박씨는 정식 재판이 열리기도 전인 작년 9월 보석으로 풀려났다. 지난 1월 29일 첫 정식 재판이 열리기까지 9개월여가 걸린 것이다. 공안부장 출신 변호사는 “재판 지연 행태가 도를 넘고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“부산은 ‘조폭 도시’냐?” 부산경찰청 국감서 질타</title>
+      <link>https://www.chosun.com/national/regional/2024/10/22/X62BV6FKBBFIJNGFQ2OZOP3Q3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/22/X62BV6FKBBFIJNGFQ2OZOP3Q3A/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Oct 2024 12:49:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MXGZYR6555M37BKFOIUKFWA5NE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김수환 부산경찰청장이 국회 행정안전위원회의 부산경찰청에 대한 국정감사가 열린 22일 오후 부산 연제구 부산경찰청에서 의원들의 질의에 답변하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 국회 행정안전위원회의 부산경찰청 국정감사에서 경찰의 조직폭력범죄 현장 대응과 관리 문제가 도마에 올랐다.&lt;br&gt;&lt;br&gt;의원들은 이날 경찰이 ‘조폭 도시’라는 부산의 오명을 씻기 위해 더욱 적극적으로 나서야 한다고 입을 모았다.&lt;br&gt;&lt;br&gt;더불어민주당 모경종 의원은 이날 “’부산 조폭’이라고 검색만 해도 기사가 많이 뜬다. 해운대구 유흥가에서 조폭이 일반 시민을 폭행하고, 호텔에서 흉기를 동원한 집단 난투극도 있었다”며 “조직 폭력 관련된 범죄가 이렇게 많은데 모니터링을 제대로 하고 있는 거냐”고 지적했다.&lt;br&gt;&lt;br&gt;이어 “서울 인구는 900여만 명이고 부산 인구는 300여만 명으로, 인구는 3배 차이가 나는데 조직폭력배 조직 수와 구성원 수는 크게 차이가 없다”며 정기적으로 특별단속을 하지만 실질적으로 세력이 약화되지 않는다는 게 부산 시민들이 느끼시는 감정이고, 전국적으로도 ‘부산에 조폭이 많나’ ‘부산은 아직도 저러나’ 이런 인식을 갖게 된다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHJMV2LN7VNERNFUWJZX5AIMNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 모경종 의원이 22일 부산 연제구 부산시청에서 열린 국회 행정안전위원회의 부산시에 대한 국정감사에서 질의하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주당 김성회 의원도 “부산 서면에서 조폭이 일반 시민을 폭행했는데, 출동한 경찰이 조폭인줄도 모르고, 체포하지 않은 채 신원만 확인하고 귀가시켰다”며 “싸움의 원인이 있던 게 아니라 지나가다 아무나 때리는 상황이었는데 너무 안일하게 본 게 아닌지, 현장 매뉴얼이 더 정교하게 다듬어져야 한다”고 질타했다.&lt;br&gt;&lt;br&gt;이에 대해 김수환 부산경찰청장은 “19개파 426명의 조폭을 관리하고 있다. 보수적으로 관리하고 있어 인원이 많은 건 사실”이라고 답했다.&lt;br&gt;&lt;br&gt;이어 “서면 현장에 형사가 나갔으면 (조폭인지) 알았을 텐데 아쉽게 생각한다”며 “사후에 구속은 했다. 매뉴얼을 보완하겠다”고 했다.&lt;br&gt;&lt;br&gt;또 “부산은 조폭도시냐”는 국민의힘 조승환 의원의 질문에 김 청장은 “부산은 조폭도시가 아니다. 다만 조폭 범죄 우려가 있으니 잘 관리하겠다”고 재차 강조했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7EVHW6N2GVJOZMUAQQWKBNY5KQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 조승환 의원이 22일 부산 연제구 부산시청에서 열린 국회 행정안전위원회의 부산시 국정감사에서 질의하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 국감에서는 지난 1월 민주당 이재명 대표 피습사건 당시 현장 미보존 논란과 인파 관리에 대한 지적도 나왔다.&lt;br&gt;&lt;br&gt;우발상황에 대비하지 못한 부산경찰청 현장 기동대에 대해 징계처분 여부를 묻는 질문에 김 청장이 “현장에 있는 직원들에 대해선 특별한 조치를 하지 않았다”고 답변하자 박정현 더불어민주당 의원은 “공수처에서는 무혐의 처분했으나 이 사건은 앞으로 계속 밝혀져야 한다. 증거 인멸할 수밖에 없었던 사유와 기동대의 현장 조치 상황을 정리해 보고해달라”고 요청했다.&lt;br&gt;&lt;br&gt;앞서 민주당은 이재명 대표 피습 사건 당시 경찰이 현장을 보존하지 않고 물청소를 한 건 범행 현장을 훼손한 혐의(증거인멸)로 우철문 전 부산경찰청장과 옥영미 전 부산 강서경찰서장을 공수처에 고발했다. 공수처는 수사 끝에 지난 8월 우 전 청장과 옥 전 서장에게 혐의없음 결론을 내리고 불기소 처분했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>영등포구청, ‘불법 숙박업’ 의혹 문다혜 오피스텔 현장 실사</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/22/XDYH7ATJRBAUPG5EA3OLJYWF7Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/22/XDYH7ATJRBAUPG5EA3OLJYWF7Q/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Oct 2024 12:16:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WGRQLBZSKOQTLG4DIIGN37AU7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 18일 음주운전 혐의로 입건된 문재인 전 대통령의 딸 문다혜 씨가 서울 용산경찰서에서 열린 조사를 마치고 건물을 나서며 얼굴을 감싸쥐고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 영등포구청은 22일 불법 숙박업 의혹을 받는 문재인 전 대통령의 딸 문다혜(41)씨의 오피스텔로 현장 실사를 나갔다고 이날 밝혔다. 문씨는 구청 신고 절차를 거치지 않고 자신이 소유한 오피스텔 호실을 공유 숙박업체 ‘에어비앤비’에 올려 투숙객을 모았다는 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;영등포구청은 이날 오후 3시쯤부터 약 30분간 영등포역 인근에 있는 문씨의 오피스텔에 방문해 투숙객 숙박 여부를 확인했다. 문씨의 불법 숙박업 의혹이 불거진 후 구청이 진행한 첫 실사로, 구청 측은 별다른 증거를 발견하진 못했다. 구청 관계자는 “방문 당시 초인종을 눌러도 인기척 없이 문만 굳게 닫혀 있었다”고 했다.&lt;br&gt;&lt;br&gt;오피스텔을 공유숙박 업소로 운영하려면 지방자치단체에 ‘관광숙박업’ 사업자 등록을 하거나, ‘농어촌 민박업’ 신고 등을 해야 한다. 문씨는 이 절차를 밟지 않았다. 구청 측은 문씨의 오피스텔 호실에 투숙객 혹은 실거주자가 머물렀다는 증거를 확보한 후 문씨를 경찰에 고발할 방침이다. 사업자 등록 없이 주거용 건물에서 미신고 숙박업 영업을 할 경우, 공중위생관리법 위반 혐의가 적용될 수 있다.&lt;br&gt;&lt;br&gt;한편 이날 오전에는 문씨의 오피스텔에서 투숙객이 나오는 장면이 목격되기도 했다. 해당 투숙객에 따르면, “누가 물어보면 사촌 동생 집에 왔다고 대답하라”는 안내가 있었다고 한다.&lt;br&gt;&lt;br&gt;영등포구청은 “향후 불시 방문이나 감시 카메라를 통해 증거를 모아 경찰에 수사를 의뢰할 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 버스 적자 지원에 상한선 둔다... 준공영제 20년 만에 개편</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/22/XPE3BFD6QRC5ZC2QT6AXBGTM3I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/22/XPE3BFD6QRC5ZC2QT6AXBGTM3I/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Oct 2024 11:41:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JA6UPMYIIVHNHN5CPFN653CK7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 22일 오전 서울시청 브리핑룸에서 서울시내버스 준공영제 혁신방안 관련 발표를 마치고 퇴장하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 시내버스 준공영제를 개편한다. 이명박 시장 시절인 2004년 도입한 이후 20년 만이다.&lt;br&gt;&lt;br&gt;준공영제는 민간 회사가 버스를 운행하고 시가 적자를 보전해주는 방식이다. 코로나 이후 적자가 불어나 현재 누적 적자가 8700억원에 달한다. 이에 서울시가 재정 지원 방식을 일부 수정하기로 한 것이다.&lt;br&gt;&lt;br&gt;서울시가 22일 발표한 ‘시내버스 준공영제 혁신 방안’에 따르면, 현재는 연말에 수입과 비용을 정산해 적자를 전액 보전해주고 있는데 앞으로는 사전에 정한 금액만 보전해주기로 했다. 서울시 관계자는 “그동안 적자 규모 등을 분석해 다음 해 지원할 금액을 미리 확정할 계획”이라며 “버스 회사는 경영 혁신, 공동 구매 등을 통해 비용을 절감하면 더 많은 돈을 남길 수 있게 된다”고 했다.&lt;br&gt;&lt;br&gt;버스 기사 인건비와 연료비는 쓰는 만큼 실비로 정산해주고 있는데 앞으로는 상한액을 두기로 했다. 버스 회사들이 연료비를 과다 청구하는 등 도덕적 해이 사례가 늘고 있다는 판단에서다.&lt;br&gt;&lt;br&gt;서울시는 이렇게 재정 지원 방식을 바꾸면 연간 600억원 정도 세금을 아낄 수 있을 것이라고 추산했다.&lt;br&gt;&lt;br&gt;사모펀드가 버스 회사를 인수·운영하는 절차도 까다롭게 바꾼다.&lt;br&gt;&lt;br&gt;서울시는 일정한 요금과 서비스 수준을 유지하기 위해 세금을 들여 시내버스 적자를 보전해 주고 있는데 일부 사모펀드가 시내버스 회사를 인수해 과도한 배당 수익을 얻는 것은 문제라는 지적이 나오고 있기 때문이다.&lt;br&gt;&lt;br&gt;현재 서울 시내 버스회사 64곳 중 6곳을 사모펀드가 갖고 있다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “이들 회사는 많게는 40억원 넘게 당기순이익을 올리면서 주주들에게 배당하고 있다”며 “회사 자본금이나 사내유보금까지 끌어와 배당한 사례도 있다”고 했다.&lt;br&gt;&lt;br&gt;앞으로 과도한 배당을 막기 위해 당기순이익보다 많은 액수를 배당할 수 없게 규제한다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “적자는 공공이 보전하고 이익은 제3자가 가져가는 건 문제”라며 “사모펀드가 돈 버는 구조를 허물겠다는 것”이라고 했다.&lt;br&gt;&lt;br&gt;아울러 사전심사제도를 신설해 단기 이익에 치중하는 사모펀드의 버스 회사 인수를 막는다는 계획이다. 서울시 관계자는 “단기 이익을 노리는 외국계 사모펀드의 경우 버스 회사 인수가 사실상 불가능해질 것”이라고 했다.&lt;br&gt;&lt;br&gt;중복 노선을 폐지하는 등 시내버스 노선도 전면 개편하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>춘천 양계장서 화재로 9명 대피…닭 17만 마리 폐사</title>
+      <link>https://www.chosun.com/national/regional/2024/10/22/NNDSQ5X36NDRPIMNKGKQMSUDLU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/22/NNDSQ5X36NDRPIMNKGKQMSUDLU/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Oct 2024 12:07:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GHI2JQIM2ZELURORLF6CCAWCAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 오후 5시 50분쯤 강원 춘천시 신북읍 율문리 한 양계장에서 불이 나 외국인 근로자 등 9명이 대피했다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 오후 강원 춘천시 신북읍 율문리 한 양계장에서 불이 났다.&lt;br&gt;&lt;br&gt;강원도 소방본부에 따르면 이날 오후 5시 50분쯤 춘천시 신북읍 율문리 한 양계장에서 불이 났다는 신고가 접수됐다. 출동한 소방 당국은 약 2시간 여 만에 불을 진화했다.&lt;br&gt;&lt;br&gt;소방 당국은 이날 화재로 외국인 근로자를 포함한 양계장 관계자 9명이 대피해 인명 피해는 없는 것으로 파악했다.&lt;br&gt;&lt;br&gt;이날 불로 닭 17만마리와 샌드위치 패널 건물 3개 동이 불에 타는 등 소방 당국 추산 약 10억원의 재산 피해가 났다. 불은 양계장 창고에서 시작해 계사 2동으로 확산된 것으로 추정된다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 화재 원인 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>배드민턴협회장 “안세영 인사 안한다” 주장했다 국감장서 ‘뭇매’</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/22/J2MSXOEVANHVTONNWE6OKMRLIE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/22/J2MSXOEVANHVTONNWE6OKMRLIE/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Oct 2024 11:25:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4O3RA3MY7NMXNGQSWUPVYIPGPQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김택규 대한배드민턴협회장이 22일 오후 서울 여의도 국회에서 열린 문화체육관광위원회 국정감사에 증인으로 출석했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김택규 대한배드민턴협회장이 국정감사에 출석해 파리올림픽 여자 배드민턴 단식 금메달리스트인 안세영 선수가 선배와 코치진에게 인사를 안 한다며 태도를 지적하는 듯한 발언을 했다가 의원들의 질타를 받고 사과했다.&lt;br&gt;&lt;br&gt;22일 국회 문화체육관광위원회 국정감사에 증인으로 출석한 김택규 회장은 협회에 공개적으로 불만을 제기한 안세영을 ‘인성 나쁜 잘난 스포츠 스타로 매도 했다’는 지적을 받았다.&lt;br&gt;&lt;br&gt;양문석 더불어민주당 의원은 김 회장이 사실이 아니라고 반박하자 ‘안세영이 세계적인 스타여서 그런지 선수촌장이나 협회장에게도 인사를 하지 않는다’는 김 회장의 과거 발언을 소개했다.&lt;br&gt;&lt;br&gt;양 의원이 안세영은 고의로 인사를 안 한 적이 없다고 한다고 전하자, 김 회장은 “그럼 저만 그렇게 느끼나 보죠”라고 답했다.&lt;br&gt;&lt;br&gt;양 의원은 “말장난해요?”라고 언성을 높였지만 김 회장은 “이번에 덴마크 대회에 가서도 선배들이나 코치진한테 인사를 하지 않았다는 연락이 왔다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VNNNMU6RTNP5PIDLEBJANT4SEY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;덴마크오픈 여자 단식에서 준우승을 차지하며 세계 랭킹 1위 탈환에 성공한 배드민턴 국가대표팀 안세영이 22일 오후 인천국제공항 1터미널을 통해 귀국하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 양 의원이 “선수가 좋은 성적을 낼 수 있도록 도와줘야 하는 협회장이 스타를 인격적으로 저격하고 왕따시키고선 잘한다는 소리를 들으니 기분이 좋았느냐”고 하자 김 회장은 “제가 뭐를 왕따시켰나”라고 했다.&lt;br&gt;&lt;br&gt;김윤덕 민주당 의원도 “회장님은 인격적으로 문제가 있어 보인다. 인사 잘하고 다니시라”고 했고, 김 회장이 “네, 알겠습니다”라고 답하자 김 의원은 그 말투를 따라 하듯 “네∼”라고 반복해 장내에서 웃음이 터지기도 했다.&lt;br&gt;&lt;br&gt;이후 민주당 의원들은 김 회장의 ‘안세영 인사’ 발언은 안세영의 이미지를 훼손한 것이라고 질타했고 김 회장은 “안세영 선수에게 사과한다”고 했다.&lt;br&gt;&lt;br&gt;한편 안세영은 지난 20일 덴마크에서 열린 2024 덴마크오픈 여자 단식 결승전에서 세계 랭킹 3위 왕즈이(중국)에게 0-2로 패해 준우승을 했다. 이번 대회에서는 감독과 코치가 안세영에게 적극적으로 작전을 전달하지 않고 먼 곳을 보는 등의 행동을 보여 논란이 되기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>나홀로 입국한 안세영 “딱히 할 말 없다”…코치진과 불화설에 침묵</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/22/AJE5A2BEEJGDBGB5ORL4B34N3U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/22/AJE5A2BEEJGDBGB5ORL4B34N3U/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Oct 2024 12:03:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UZLV73IFPVIQDDTLTTVFESW6AI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;덴마크오픈 여자 단식에서 준우승을 차지하며 세계 랭킹 1위 탈환에 성공한 배드민턴 국가대표팀 안세영이 22일 오후 인천국제공항 1터미널을 통해 귀국하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한배드민턴협회의 부조리에 대해 공개적으로 불만을 제기했던 여자 배드민턴 안세영 선수가 덴마크 오픈에서 준우승을 차지한 뒤 귀국했다.&lt;br&gt;&lt;br&gt;22일 인천국제공항을 통해 귀국한 안세영은 대표팀과 별도로 이동하며 몰려든 취재진에 “딱히 할 말이 없다”고만 답하고 현장을 떠났다.&lt;br&gt;&lt;br&gt;안세영은 ‘국정감사장에서 협회장이 안세영 선수가 인사를 안 한다는 얘기를 했다’, ‘코치진과 불화가 있다는 얘기가 있다’ 등의 질문에는 답하지 않았다.&lt;br&gt;&lt;br&gt;안세영은 이날 김학균 감독, 성지현 코치 등 대표팀 동료들과 함께 귀국했음에도 시간차를 두고 따로 움직여 눈길을 끌었다.&lt;br&gt;&lt;br&gt;김학균 감독은 이날 오후 5시 35분쯤 입국장에 모습을 드러냈고, 안세영은 오후 6시쯤 뒤이어 나왔다. 두 사람은 서로 다른 게이트를 이용해 동선까지 완전히 분리됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UXEKKZ2WJZJ2RCIECNUKVADJWU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;덴마크오픈 여자 단식에서 준우승을 차지하며 세계 랭킹 1위 탈환에 성공한 배드민턴 국가대표팀 안세영이 22일 오후 인천국제공항 1터미널을 통해 귀국하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안세영은 지난 13일 출국 당시에도 대표팀 동료들이 이동한 뒤 홀로 벤치에서 약 1시간을 기다렸다가 출국을 하기도 했다.&lt;br&gt;&lt;br&gt;함께 입국한 김학균 배드민턴 대표팀 감독은 안세영과의 불화설에 대해 “아직 시간이 필요하다. 서로 해야 할 것들이 많으니 조금 기다려달라. 조금씩 해결해 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;한편 안세영은 지난 20일 덴마크에서 열린 2024 덴마크오픈 여자 단식 결승전에서 세계 랭킹 3위 왕즈이(중국)에게 0-2로 패해 준우승을 했다. 이번 대회에서는 감독과 코치가 안세영에게 적극적으로 작전을 전달하지 않고 먼 곳을 보는 등의 행동을 보여 논란이 됐다.&lt;br&gt;&lt;br&gt;이날 국회 국정감사에 출석한 김택규 대한배드민턴협회장은 안세영이 선배와 코치진에게 인사를 안 한다며 태도를 지적하는 듯한 발언을 했다가 의원들의 질타를 받고 사과하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>남욱 “김만배, 대장동 프레임 ‘尹·국힘’ 쪽으로 작업하겠다고 해” 법정 증언</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/22/PRWHSFDRBRGQJAQGLSK4W7KWHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/22/PRWHSFDRBRGQJAQGLSK4W7KWHM/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Oct 2024 10:55:11 +0000</pubDate>
+      <content:encoded>지난 대선 국면에서 대장동 사건과 관련한 허위 인터뷰로 윤석열 대통령의 명예를 훼손한 혐의를 받는 화천대유자산관리 대주주 김만배씨와 신학림 전 언론노조위원장에 대한 1심 재판에서 “(김씨가) 대장동 사건의 프레임을 윤석열 후보의 부산저축은행 부실수사로 바꾸는 작업을 하겠다고 했다”는 증언이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P5FZSBNDNNKWTAXU2SGVZM23ME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남욱 변호사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사건을 심리 중인 서울중앙지법 형사21부(재판장 허경무)는 22일 대장동 민간개발업자인 남욱 변호사를 증인으로 채택해 진술을 들었다. 남씨는 대장동 사건의 핵심 인물 중 한 명으로 여겨진다.&lt;br&gt;&lt;br&gt;이날 출석한 남씨는 2021년 9월 대장동 의혹 등에 대한 언론 보도가 시작되자 김씨가 ‘언론 프레임’을 바꾸겠다고 발언한 내용 등을 법정에서 증언했다. 법정 증언은 그 자체를 증거로 쓸 수 있어 ‘증거 가치’가 높다.&lt;br&gt;&lt;br&gt;남씨는 법정에서 “언론에서 이재명 더불어민주당 대표와 대장동 관계를 물고 늘어지기 시작하며 상황이 급박해지자 김씨가 ‘프레임을 바꿔야 한다. 그 작업을 내가 할 것’이라고 했다”며 “김씨가 ‘대장동은 국민의힘과 관련 있다’ 등의 뉘앙스로 말했다”고 주장했다.&lt;br&gt;&lt;br&gt;또 “(김씨가) 대장동 사건은 이재명 대표와 관련이 없고, 윤석열 쪽과 관련이 있다는 취지로 포커스를 맞춰서 언론 작업을 하겠다고 했다”며 “일단 윤석열 쪽으로 프레임을 돌려야 한다고 말했다”고 증언했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M5626BRANGYXFWTKLSSPBK2FWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김만배(왼쪽)씨와 신학림 전 언론노조위원장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김씨와 신씨는 2021년 9월 15일 ‘윤석열 당시 국민의힘 대선 후보가 대검 중수2과장이던 시절 대장동 대출 브로커 조우형씨의 수사를 무마해줬다’는 취지의 허위 인터뷰를 진행했고, 인터뷰 닷새 뒤인 20일 김씨가 그 대가로 신씨 책 ‘대한민국을 지배하는 혼맥지도’ 3권 값 명목으로 위장해 1억6500만원을 줬다고 검찰은 보고 있다.&lt;br&gt;&lt;br&gt;검찰은 김씨와 신씨가 이처럼 사전에 공모했고 가짜 인터뷰를 보도해 선거에 영향을 미치려고 한 것으로 판단하고 있다. 실제로 뉴스타파 등 언론사가 대선을 며칠 앞두고 이러한 내용을 보도하는 등 ‘윤석열이 대장동 몸통’이라는 가짜 뉴스가 확산한 바 있다.&lt;br&gt;&lt;br&gt;이 재판에서 검찰 측은 ‘피고인들이 의도적으로 가짜뉴스를 생산 및 유포함으로써 국민의 알권리는 물론이고 대의민주주의의 실현이라는 헌법 가치를 훼손했다’는 논리로 주장하고 있는 반면, 김씨와 신씨 측은 ‘이 사건은 대통령 하명수사로 공소권을 남용했다’는 취지로 맞서며 혐의를 부인하고 있다.&lt;br&gt;&lt;br&gt;이 재판 다음 기일은 오는 29일로 잡혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>민주당, 법원 국감서도 '金여사 불기소' 비판 계속</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/22/VUZNJXP5W5EVHHN2PEFRJ4RAHE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/22/VUZNJXP5W5EVHHN2PEFRJ4RAHE/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Oct 2024 10:58:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YRPF34SYSVB7VHF4IRXEEYEW3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김정중(오른쪽) 서울중앙지방법원장이 22일 국회 법제사법위원회에서 열린 법원 국정감사에 출석해 의원들의 질의에 답하고 있다. /이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당은 22일 국회 법제사법위원회의 법원 국정감사에서 도이치모터스 주가조작 사건에 연루된 김건희 여사를 불기소한 검찰에 대한 비판을 이어갔다.&lt;br&gt;&lt;br&gt;민주당 장경태 의원은 “(도이치모터스) 2차 주가조작 과정에서 사실상 통정거래의 절반에 육박하는 계좌는 유일하게 김건희 여사 계좌밖에 없다. 이 분에 대한 수사는 이뤄져야 하고 기소돼야 하는 것 아닌가”라며 “재주는 곰이 부리고 돈은 조련사가 벌었는데 곰만 기소하고 조련사는 불기소한 것”이라고 말했다.&lt;br&gt;&lt;br&gt;그러면서 장 의원은 “동일한 (주가조작) 범죄에 대해 여러 혐의가 입증되는 과정이라면, 범죄에 함께 연결되어 있는 사람에 대해서는 불기소하느냐고 법원이 지적해야 하는 것 아니냐”고 윤준 서울고법원장에게 물었다. 도이치모터스 주가조작 사건 전주 손모씨가 서울고법 항소심에서 유죄 판결을 받았는데, 김 여사도 기소해야 하는 것 아니냐는 취지였다. 윤 법원장은 “재판부가 기소되지 않은 사람에 대해 기소하라고 할 수는 없게 돼 있다”고 답했다.&lt;br&gt;&lt;br&gt;김용민 의원은 “김 여사는 통정매매 후 매매 계약 체결 여부와 금액 등을 확인했다”면서 “(주가조작 세력의) 매도 주문, 실행 지시를 따른 김 여사도 공범 관계로 볼 수 있는 것 아니냐”고 김정중 서울중앙지법원장에게 물었다. 김정중 법원장은 “불기소 처분의 구체적 자료를 접하지 못한 상태에서 섣부른 말씀드리는 것은 부적절하다”며 답을 피했다.&lt;br&gt;&lt;br&gt;검찰이 김 여사를 봐주기 수사했다는 주장도 나왔다. 김승원 의원은 김 여사 등에 대한 압수수색 영장 청구 현황을 제시하면서 “검찰은 (도이치모터스 관련) 김 여사에 대해 주거지나 휴대전화, PC 등을 압수수색하지 않았다. 그러고 무혐의를 결정했다”고 지적했다. 전현희 의원은 “검찰은 김 여사가 일반 투자자이고 이용당했다는 식으로 관심법 수사를 했다”고 비판했다.&lt;br&gt;&lt;br&gt;정청래 의원은 “서울중앙지검은 김 여사가 비전문가라 주가조작범이 아니라고 했지만, 김 여사는 타짜고 전문가”라며 “기소를 안 해서 재판할 수 없는 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편, 일부 의원들은 이날 국감 자리에서 법관들을 상대로 지역구 관련 민원을 넣거나 개인 인연을 자랑하기도 했다. 정청래 의원은 서울시의 마포구 신규 소각장 증설 계획과 관련해 “지자체와 협의를 하지 않아 위법”이라며 “주민들이 행정소송을 하고 있는데 사법정의를 살리는 차원에서 잘 살펴봐야 하지 않겠느냐”고 김국현 행정법원장에게 물었다. 정 의원의 지역구는 마포을이다. 김국현 법원장은 “담당 재판부에서 잘 살펴서 현명하고 공정하게 판단할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;민주당 서영교 의원은 과거 자신의 선거법 위반 사건 항소심에서 재판장으로 무죄를 선고한 이상주 수원고법원장에게 “저를 개인적으로 아시죠” “고법원장이 귀한 판단을 해주셔서 이 자리에 있다”고 말했다. 이에 이 고법원장은 “그 부분에 대해 평가하긴 어렵다”고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전주서 70대女 자택서 숨진 채 발견.. 유력 용의자도 숨져</title>
+      <link>https://www.chosun.com/national/regional/2024/10/22/4FI73NIEPFE2XFQSCKHZHY2ABI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/22/4FI73NIEPFE2XFQSCKHZHY2ABI/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Oct 2024 10:46:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IVBTVGJY7XDLOA3U3GL7YIBJEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북 전주완산경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 전주에서 70대 여성이 숨진 채 발견돼 경찰이 수사 중이다.&lt;br&gt;&lt;br&gt;전주완산경찰서에 따르면 이날 오전 6시 30분쯤 전주시 완산구 평화동 한 주택에서 70대 여성 A씨가 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;당시 요양보호사가 혼자 살던 A씨 집을 방문했다가 그가 숨진 것을 확인하고 신고했다.&lt;br&gt;&lt;br&gt;현장을 수사하던 경찰은 30여분 뒤 A씨 주택 인근에서 유력한 용의자인 70대 남성 B씨가 숨져 있는 것을 발견했다.&lt;br&gt;&lt;br&gt;경찰은 B씨가 지인 관계인 A씨를 숨지게 한 뒤 극단적인 선택을 한 것으로 추정하고 정확한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“이기면 다 해결?”… ‘정몽규 회장 불참’ 국감서 이어진 지적 </title>
+      <link>https://www.chosun.com/national/national_general/2024/10/22/KIMG7OBW5ZBAXE43J2MN2P35AA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/22/KIMG7OBW5ZBAXE43J2MN2P35AA/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Oct 2024 10:16:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EALC6OHHXMLMRK2V3WEE5QCA54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정몽규 대한축구협회장이 지난달 24일 오전 서울 여의도 국회에서 열린 문화체육관광위원회의 대한축구협회 등에 대한 현안 질의에서 의원 질의에 답변하고 있다. 왼쪽은 홍명보 축구국가대표팀 감독, 오른쪽은 이임생 축구협회 기술총괄이사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정몽규 대한축구협회장이 국정감사 증인 출석 요구에 해외 출장을 이유로 불출석했지만, 국감장에서는 축구협회에 대한 질타가 이어졌다.&lt;br&gt;&lt;br&gt;국회 문화체육관광위원회가 22일 진행한 문화체육관광부 산하 대한체육회 등 6개 공공 기관 국정감사에서, 여야 의원들은 정 회장의 축구협회 사유화 의혹과 홍명보 축구 대표팀 감독 선임 논란 등을 언급하며 축구협회에 대한 감사를 더욱 면밀히 진행하라고 문체부를 압박했다.&lt;br&gt;&lt;br&gt;다만 이날 국감장에는 축구협회 측 인사는 아무도 없었다. 정 회장은 이날과 24일 국감에 증인 출석 요청을 받았는데, 이날은 도미니카공화국에서 열리는 국제축구연맹(FIFA) U-17(17세 이하) 여자 월드컵 출장을 이유로 참석하지 않았다.&lt;br&gt;&lt;br&gt;배현진 국민의힘 의원은 지난달 24일 열렸던 축구협회 현안 질의에 이어 이날 국감에서도 HDC현대산업개발의 회장을 겸하는 정 회장이 축구협회를 사유화하려 한 정황이 발견됐다고 지적했다.&lt;br&gt;&lt;br&gt;배 의원은 이정우 문체부 체육국장에게 “(현안 질의에서) 축구협회는 (천안축구종합센터 설계 디자인 공모 과정에서) ‘HDC현대산업개발에 도움을 받았으나 자문 계약을 맺지 않았다’고 해명했지만, 천안 축구종합센터 건설사업 관리 자문 용역 계약서에는 축구협회와 HDC현대산업개발이 표기돼 있다”고 언급했다.&lt;br&gt;&lt;br&gt;이 국장은 이날 제기한 의혹에 대해 감사를 하겠다면서도 “감사를 시작할 때는 지적한 사항이 포함돼 있지 않아 10월 말로 예정된 감사 최종 결과 발표 때는 포함이 안 될 수도 있을 것 같다”고 했다. 감사 결과 최종 발표 시점이 더 늦어질 수 있다고도 했다.&lt;br&gt;&lt;br&gt;한국 대표팀이 오만, 요르단전에 이어 이라크전까지 3연승을 거둔 이후의 홍 감독 태도를 문제 삼는 발언도 나왔다. 앞서 홍 감독은 지난 15일 한국 대표팀이 월드컵 3차 예선인 이라크전에서 이긴 뒤 가진 기자회견에서 ‘이번 홈경기 때는 야유가 없었다’는 질문에 “그 이유는 제가 잘 모르겠다”고 답하며 웃었다.&lt;br&gt;&lt;br&gt;이에 대해 김재원 조국혁신당 의원은 “홍 감독은 (경기장에서 야유가 없어진 것에 대해) 미소를 지으며 ‘잘 모르겠다’고 (기자회견에서) 얘기했다”며 “‘성적만 좋다만 아무 문제도 없다’ 이렇게 생각하는 것 같다. 국민을 무시하고 있는 아주 오만한 태도”라고 했다. 김 의원은 축구협회가 ‘이기면 모든 게 해결되는 것 아니냐’는 생각을 가지게 된 것 같다며 문체부에 “국민 기대에 부응하는 감사를 해라”고 요구하기도 했다.&lt;br&gt;&lt;br&gt;김 의원이 “문체부는 최근 국가대표팀 성적이 정 회장의 4 연임 및 축구협회 감사 최종 결과에 영향을 미치는 문제라고 보나”라고 묻자, 이 국장은 “전혀 그렇게 생각하지 않는다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘흡연장 살인’ 최성우 측 “구치소서 성폭행 당해, 양형에 참작해야”</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/22/S3SLBPJHZFAKHLZ2T46KYCZ2EM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/22/S3SLBPJHZFAKHLZ2T46KYCZ2EM/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Oct 2024 10:16:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUPWTCQEBZGVTLQ6HAQ32LMYJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중랑구 아파트 이웃주민 살해 피의자 최성우. /서울북부지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아파트 흡연장에서 우연히 마주친 이웃 주민을 폭행해 숨지게 한 혐의(살인)를 받는 최성우(28) 측이 첫 재판에서 “최씨가 구치소에서 심한 폭행과 성폭행을 당했다”고 주장하며 양형에 참작해달라고 요청했다.&lt;br&gt;&lt;br&gt;22일 서울북부지법 형사합의13부(이태웅 부장판사)의 심리로 진행된 1차 공판에서 최씨 측 변호인은 “최씨가 피해자를 살해하려는 고의까지는 없었다”며 최씨의 혐의가 살인이 아닌 상해치사에 해당한다는 취지의 주장을 펼쳤다.&lt;br&gt;&lt;br&gt;아울러 최씨 측 변호인은 최씨가 심리분석 전날 구치소에서 심한 폭행과 성폭행을 당한 사실이 있다고 주장하며 양형에 참작해달라고 요청했다.&lt;br&gt;&lt;br&gt;검찰에 따르면 최성우는 지난 8월 20일 서울 중랑구의 한 아파트 흡연장에서 우연히 마주친 70대 남성을 무차별적으로 폭행해 사망에 이르게 한 혐의를 받는다. 두 사람은 같은 아파트 이웃 주민이었다.&lt;br&gt;&lt;br&gt;최성우는 피해자의 얼굴과 머리 등을 주먹으로 수십 차례 때리고 조경석에 피해자 머리를 내리찍기도 한 것으로 조사됐다. 피해자는 병원 이송 1시간 만에 숨졌다.&lt;br&gt;&lt;br&gt;최성우는 경찰에서 “피해자와 쌓인 게 많았다”고 진술했지만 조사 결과 피해자가 자신과 어머니에게 위해를 가한다는 망상에 빠져 범행을 한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;검찰은 지난달 신상정보공개심의위원회를 열고 최성우에 대한 신상정보를 공개하기로 결정했다.&lt;br&gt;&lt;br&gt;검찰은 “이 사건이 특정중대범죄 피의자 등 신상정보 공개에 관한 법률에서 규정하는 특정중대범죄에 해당하고, 범행수단이 잔인하고 중대한 피해가 발생했으며 공공의 이익을 위해 공개의 필요가 있고 유족이 신상정보 공개를 요청한 점 등을 고려했다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘尹 명예훼손’ 재판부 “변경된 공소장도 갸우뚱”…검찰에 또 지적</title>
       <link>https://www.chosun.com/national/court_law/2024/10/22/D4B57ZTB6ZA37IOX5USBWHAEBY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/22/D4B57ZTB6ZA37IOX5USBWHAEBY/</guid>
@@ -685,48 +811,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LFPOMWXINBGLLMJ6TFE6232NYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[두근두근 뇌 운동] [2484] 따르릉 글자교환소</title>
-      <link>https://www.chosun.com/national/nie/2024/10/22/GAY4PH4TSNFALCLXTJT3IA6FHE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/10/22/GAY4PH4TSNFALCLXTJT3IA6FHE/</guid>
-      <description/>
-      <pubDate>Mon, 21 Oct 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/32MDNM4PTNFDZCDYTUQ67BSYGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 시선, 관점</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/10/22/EQRAUYQZDFBMPHKR3VBPXTLV2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/10/22/EQRAUYQZDFBMPHKR3VBPXTLV2A/</guid>
-      <description/>
-      <pubDate>Mon, 21 Oct 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YSDGIMUKUFF57NL45X7EFY2QZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] feel the pinch</title>
-      <link>https://www.chosun.com/national/nie/english/2024/10/22/LC7QCXE62FDYJHD7KRUWDA7U6U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/10/22/LC7QCXE62FDYJHD7KRUWDA7U6U/</guid>
-      <description/>
-      <pubDate>Mon, 21 Oct 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BH2DF7QGB5ES5ODVSQ7TWYYKYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [사소한 역사] 합스부르크 왕족의 결혼 선물… 대중들이 갖게 된 건 19세기 이후래요</title>
-      <link>https://www.chosun.com/national/nie/2024/10/22/252WC5TQKJBD3BUE2LCLWDV3RA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/10/22/252WC5TQKJBD3BUE2LCLWDV3RA/</guid>
-      <dc:creator>황은하 상경중 역사 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Oct 2024 15:30:00 +0000</pubDate>
-      <content:encoded>세상에서 가장 비싸고 단단한 보석이라고 하면 무엇이 떠오르나요? 아마 다이아몬드일 거예요. 다이아몬드는 어떤 물질에도 긁히지 않고, 빛을 반사하는 특징이 있어 반짝거리죠. 다이아몬드 구하기는 굉장히 어려워서, 암석 수십 톤에서 1g 정도를 구할 수 있답니다. 그런데 최근엔 실험실에서도 다이아몬드를 만들 수 있게 됐어요. 바로 ‘랩 그로운(Lab Grown) 다이아몬드’인데요, 천연 다이아몬드와 동일한 물질인데도, 가격은 10~20% 수준이에요. 크기가 작을수록 만들기가 쉬워서 최근엔 작은 크기 다이아몬드 가격이 크게 떨어졌다고 해요. 오늘은 인류가 언제부터 다이아몬드를 사용했는지 알아볼게요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/424PA72TIZDRVETRYLRSEXGEEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;자연 상태의 다이아몬드는 보통 형태도 다양하고 표면은 거칠어요. 우리가 흔히 보는 각진 다이아몬드는 원석을 갈고 닦아 만든 것이랍니다. /게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다이아몬드는 기원전 7세기쯤 인도에서 최초로 발견됐어요. 당시 인도에서도 다이아몬드를 장신구 등에 사용했대요. 불상의 눈이나 힌두교 여신상의 눈에도 박았답니다. 이후 유럽 지역으로 전파된 다이아몬드는 ‘정복할 수 없다’는 뜻의 그리스어 아다마스(adamas)에서 현재 이름을 얻었다고 합니다. 로마에서는 ‘가장 값비싼 옥’으로 여겨졌어요. 그래서 왕이나 귀족의 장신구를 꾸밀 때나 거칠고 단단한 물건을 갈고닦는 연마제로 다이아몬드를 사용했답니다.&lt;br&gt;&lt;br&gt;다이아몬드가 예물로 사용된 건 언제부터일까요? 1477년 합스부르크 왕가의 막시밀리안 1세는 부르고뉴의 여공작 마리와 결혼하며 다이아몬드 반지를 선물했다고 해요. 이후 왕족과 귀족들 사이에서는 결혼할 때 다이아몬드 반지를 주고받는 문화가 생겼다고 합니다. 하지만 과거 다이아몬드는 지금보다 구하기가 훨씬 어려웠기 때문에 아무나 가질 수 없었죠. 유럽에서는 다이아몬드를 왕족과 귀족만 소유할 수 있도록 규제하기도 했대요.&lt;br&gt;&lt;br&gt;오늘날처럼 많은 사람이 다이아몬드를 가질 수 있게 된 것은 19세기 이후부터예요. 제국주의 시대 유럽의 여러 나라는 천연자원을 얻고, 자국의 물건을 팔기 위해 다른 나라들을 침탈했는데요. 그 과정에서 다이아몬드도 세계로 유통됐답니다. 영국 정치인이자 기업인 세실 로즈는 남아프리카 공화국에서 대규모 다이아몬드 광산이 발견되자 발 빠르게 이 광산들을 매입해요. 그는 1888년 ‘드비어스’라는 다이아몬드 광산 회사를 세우고, 점차 다이아몬드 채굴과 유통을 늘려나가기 시작합니다. 드비어스는 장식용 말고도 군수품 생산에 사용되는 산업용 다이아몬드도 판매했어요.&lt;br&gt;&lt;br&gt;다이아몬드 판매를 더 늘리고 싶었던 드비어스는 새로운 전략을 생각해냈어요. 과거 왕족들이 그랬던 것처럼, 일반 시민들도 결혼할 때 다이아몬드 반지를 주고받게 하는 것이죠. 드비어스는 ‘다이아몬드는 영원하다(A Diamond is Forever)’라는 문구로 다이아몬드 반지를 광고했어요. 영원한 사랑을 세상에서 가장 단단한 광물인 다이아몬드 반지에 담아 약속하도록 홍보한 것이죠. 이 광고로 인해 다이아몬드는 단순한 보석 이상의 의미를 갖게 되었고, 현재까지도 다이아몬드 반지는 결혼의 상징이 됐답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [고전 이야기] ‘가족은 늘 함께해야’ 이상적 가치관, 폭력적인 다섯째 때문에 흔들렸죠</title>
-      <link>https://www.chosun.com/national/nie/2024/10/22/6RXCLH43FRBL3D6CJHFV3MRZS4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/10/22/6RXCLH43FRBL3D6CJHFV3MRZS4/</guid>
-      <dc:creator>배혜림 창원 창북중 국어 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Oct 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JVF27DAW7NEEBFKCOPIXMSEWBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1988년 출판된 '다섯째 아이' 초판본 표지. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 우리나라 한강 작가가 아시아 여성 최초로 노벨 문학상을 받아 세계적인 화제가 됐어요. 이 책의 저자 도리스 레싱은 2007년 노벨 문학상을 받았는데, 역대 최고령(88세) 수상 기록을 세웠던 인물이랍니다. 영국 작가인 레싱은 사회 제도의 부조리를 드러내는 사회성 짙은 작품 세계를 보여줬어요.&lt;br&gt;&lt;br&gt;소설의 배경이 되는 1960~1970년대 서구 사회는 가족 중심의 전통적 가치관에서 벗어나 개인의 선택과 삶을 중시하는 자유로운 가치관이 퍼졌던 시기였어요. 그러나 소설의 중심 인물인 데이비드와 해리엇은 당시 사회 분위기와는 달리 전통적인 가치관을 중요하게 생각한답니다. 이혼 가정에서 자란 데이비드는 누구보다 행복한 가정을 꿈꿨고, 화목한 가정에서 자란 해리엇 역시 인생에서 행복한 가정 생활이 중요하다는 생각을 갖고 있었죠. 남편은 돈을 벌고, 아내는 자녀를 많이 낳은 뒤 잘 기르는 것이 둘이 생각하는 이상적인 가정의 모습이었답니다. 둘은 넷째 자녀까지 얻으며 꿈꿔왔던 가정을 이뤄가는 듯 보였죠.&lt;br&gt;&lt;br&gt;불행이 찾아온 것은 해리엇이 다섯째 아이를 임신한 순간부터였습니다. 다섯째는 다른 아이들과 달리 배 속에서부터 거칠게 움직였어요. 해리엇은 자신이 ‘괴물을 임신한 게 아닐까’라는 생각마저 하죠. 다섯째 ‘벤’은 또래 아이들보다 덩치가 훨씬 컸어요. 남다른 힘을 가진 벤은 성장할수록 공격적인 행동을 하며 가족들을 불안하게 합니다. 자기 뜻대로 되지 않으면 소리를 지르며 가족들을 위협했어요. 통제 불능 벤 때문에 가족이 무너지는 것을 참을 수 없던 데이비드는 벤을 요양소로 보냅니다. 벤이 사라지자 가족들은 잠시나마 예전의 화목함을 되찾죠.&lt;br&gt;&lt;br&gt;하지만 해리엇은 행복한 가정이 완성되려면 가족이 모여 살아야 한다고 생각했어요. 그는 결국 요양소에서 벤을 데려옵니다. 해리엇은 벤의 행동을 고치기 위해 노력하지만, 벤의 존재로 인해 가족은 점차 무너지기 시작합니다. 해리엇은 자신의 신념과 벤을 두려워하는 다른 가족들 사이에서 내적 갈등을 겪어요.&lt;br&gt;&lt;br&gt;결국 해리엇과 데이비드 가족은 어떻게 됐을까요? 소설은 비행 청소년들과 어울리던 벤이 집을 떠나는 것으로 끝나요. 도리스 레싱은 2000년에 후속작 ‘Ben, in the world(세상 속의 벤)’를 출간했는데, 여기에 집을 떠난 벤의 삶이 그려져 있답니다.&lt;br&gt;&lt;br&gt;소설은 우리가 삶에서 가장 중요하다고 믿었던 가치관이 실제로 얼마나 의미가 있는 것인지 비판적인 물음을 던집니다. 내 가치관이 옳지 않을 수 있다고 느낀 순간 내릴 수 있는 최선의 선택은 가치관을 과감히 버리거나 바꾸는 거예요. 하지만 그렇게 할 수 있는 사람은 많지 않아요. 저자는 해리엇을 통해 보통의 사람들이 저지르는 실수를 보여줘요. 애써 현실을 무시하며 자신의 생각을 고수하다가, 마지막에 가서야 무의미함을 깨닫는 거예요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 날씨] 2024년 10월 22일</title>
       <link>https://www.chosun.com/national/national_general/2024/10/22/RB2PUHZ5RZAONBG5YG4PK4V47I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/22/RB2PUHZ5RZAONBG5YG4PK4V47I/</guid>
@@ -758,15 +842,6 @@
 '지옥' 시즌2에서는 시즌1으로부터 8년 후, 고지와 시연이 만연해진 세상 속 다양한 위치에 있는 사람들이 어떻게 대혼란에 대처해왔을지를 담아냈다. 오는 25일 공개. 2024.10.21. jini@newsis.com</media:description>
         <media:credit role="author" scheme="urn:ebu">jini</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>‘불법 숙박업’ 의혹 문다혜 오피스텔...구청, 현장 실사 나간다</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/21/C4GP7G65E5DQNE4UMMQJR2LILQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/21/C4GP7G65E5DQNE4UMMQJR2LILQ/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Oct 2024 11:37:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WE3J3DZGDCBTO3UDU5YPO7NX34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주운전 사고를 일으킨 문재인 전 대통령의 딸 문다혜씨가 지난 18일 오후 경찰 조사를 받기 위해 서울 용산구 용산경찰서로 출석하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 전 대통령의 딸 문다혜씨가 소유한 서울 영등포구의 오피스텔로 ‘불법 숙박업’을 했다는 의혹에 대해 구청이 현장 실사에 나선다.&lt;br&gt;&lt;br&gt;서울 영등포구청은 “문씨가 소유한 것으로 파악되는 오피스텔에 투숙객이 있는지, 실제로 숙박업에 쓰였는지 등을 확인하기 위해 문씨의 오피스텔로 현장 조사에 나선다”고 21일 밝혔다.&lt;br&gt;&lt;br&gt;등기부등본상 문씨가 소유주에 이름을 올리고 있는 영등포구 영등포동 소재의 오피스텔은 1호선 영등포역과는 400m 가량, 5호선 영등포시장역과는 600m 가량 떨어져 있어 ‘더블 역세권’에 자리하고 있다.&lt;br&gt;&lt;br&gt;문씨는 이곳에 입주하지 않고 숙박 공유업체 ‘에어비앤비’에 오피스텔을 등록해 숙박업소로 운영했다는 의혹을 받고 있다. 해당 오피스텔을 공유숙박 업소로 운영하려면 지방자치단체에 ‘관광숙박업’으로 사업자 등록하거나, ‘농어촌 민박업’으로 신고 혹은 ‘외국인관광 도시민박업’ 등으로 등록해야 하지만, 문씨의 오피스텔은 어디에도 해당하지 않았다.&lt;br&gt;&lt;br&gt;영등포구청 관계자는 “해당 건물은 숙박업소로 신고되지 않았다”며 “오피스텔 조사에 나서 투숙객이 있는지 혹은 실거주자가 있는지 등을 확인할 예정”이라고 했다. 영등포구청은 문씨의 오피스텔이 숙박업소로 쓰였을 경우, 증거 자료 등을 토대로 경찰에 고발할 방침이다.&lt;br&gt;&lt;br&gt;한편 사업자 등록 없이 주거용 건물에서 미신고 숙박업 영업을 하면 공중위생관리법 위반 혐의가 적용될 수 있다. 법정형은 2년 이하 징역 또는 2000만원 이하 벌금이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7KYOXBNQIFICNEY4CFMSPHSY3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 오전 촬영한 제주시 한림읍에 위치한 문다혜씨 소유의 단독주택 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 문씨가 제주도에 보유한 단독주택 또한 미신고 불법 숙박업에 사용됐다는 민원이 국민신문고를 통해 제기돼, 제주시는 지난달 초 사실관계를 확인하기 위해 제주자치경찰단에 수사를 의뢰하기도 했다.&lt;br&gt;&lt;br&gt;국민의힘 신동욱 의원이 제주특별자치도청에서 제출받은 자료에 따르면 문씨의 제주 주택은 지난 9월 말 기준 ‘관광숙박업’으로 등록, ‘농어촌 민박업’으로 신고된 사실이 없었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘뉴진스님’ 윤성호, 1000만원 기부… 스님들 빵 터트린 한마디는</title>
@@ -819,15 +894,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NMWJXZWCOFJP7B2BFZQWDEII6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 21일 오전 서울시청 브리핑룸에서 외로움·고립은둔 문제 해결을 위한 종합대책 '외로움 없는 서울'을 발표하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년 4월 외로울 때 언제든 전화를 걸어 상담을 받을 수 있는 ‘24시간 콜센터’가 생긴다.&lt;br&gt;&lt;br&gt;서울시는 이 같은 내용을 골자로 하는 ‘고립·은둔 종합 대책’을 21일 발표했다. 오세훈 시장은 “1인 가구가 급증하는 가운데 외로움은 더 이상 개인의 문제가 아니다”라며 “공공이 나서서 선제적으로 시민의 마음 건강을 챙기려는 것”이라고 했다. 통계청에 따르면, 서울시내 1인 가구는 전체 가구의 38.2%에 달한다. 세 가구 중 한 가구 이상이 나 홀로 사는 것이다.&lt;br&gt;&lt;br&gt;외로움이나 고립감을 느끼는 서울시민은 ‘외로움 안녕 120′ 콜센터에 전화하면 전담 직원과 통화할 수 있다.&lt;br&gt;&lt;br&gt;서울시는 “전담 직원은 고립·은둔 생활을 극복하고 나온 시민을 채용할 계획”이라고 했다. 상담 결과에 따라 시립병원 등 관련 기관에 연결해준다. 직접 통화하는 게 부담스럽다면 카카오톡 상담도 받을 수 있다.&lt;br&gt;&lt;br&gt;상담을 받거나 다른 시민과 어울릴 수 있는 공간도 4곳 생긴다. 이름은 ‘마음 편의점’이다. 편의점처럼 편하게 들를 수 있는 장소라는 뜻이다. 비치된 라면도 끓여 먹을 수 있다. 내년 3월부터 시범 운영할 예정이다.&lt;br&gt;&lt;br&gt;고립·은둔 상황인 시민들이 다른 시민들과 어울리게 하는 프로그램도 만든다. 대표적인 것이 ‘365 서울 챌린지’ 프로그램이다. 서울시 걷기 축제나 박람회 등에 참여하면 ‘활동 점수’를 주는데, 이 점수를 많이 쌓으면 서울시 공공 자전거 ‘따릉이’ 이용권이나 한강공원 캠핑장 이용권 등을 선물한다.&lt;br&gt;&lt;br&gt;중장년 1인 가구를 위한 ‘건강동행밥상’ 프로그램도 개설한다. 모여서 요리 수업을 듣고 음식도 나눠 먹는 프로그램이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>인천공항, 3분기 여객수 1815만명 역대 최다</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/10/21/WASQU2YNTZHDNJWKN5B2XLXIZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/10/21/WASQU2YNTZHDNJWKN5B2XLXIZU/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description>인천국제공항공사는 국제선 기준 올해 3분기 여객 실적이 역대 최고치를 기록했다고 21일 밝혔다.</description>
-      <pubDate>Mon, 21 Oct 2024 11:41:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N5J35NL34NK5DK3XPKGCTUPFTA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 인천국제공항 출국장이 여행객들로 붐비고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천국제공항공사는 국제선의 올해 3분기 여객 실적이 역대 최고치를 기록했다고 21일 밝혔다. 코로나로 주춤했던 항공업계 수요가 완전히 회복된 것이란 분석이 나온다.&lt;br&gt;&lt;br&gt;이날 인천공항에 따르면 지난 3분기 국제선 여객 실적은 1815만6842명을 기록했다. 이는 기존 역대 최대였던 2019년 3분기(1792만4471명)보다 1.3% 증가한 것이며, 전년 동기보다는 17.8% 늘어난 것이다.&lt;br&gt;&lt;br&gt;지역별로는 이 기간 동남아 노선 이용객이 502만3073명으로 가장 많았다. 이어 일본(439만1793명), 중국(290만306명), 미주(179만1340명), 동북아(172만141명) 순이다. 인천국제공항공사는 “하계 성수기를 이용한 여행객이 크게 늘었고 회복이 더뎠던 중국 노선 여객 회복 등도 영향을 미쳤다”고 밝혔다.&lt;br&gt;&lt;br&gt;실제 중국 노선 이용객은 지난해 3분기보다 50% 늘어, 코로나 사태 이전인 2019년 3분기(363만6159명) 대비 79.8%까지 회복됐다. 한국을 찾는 관광객이 늘어난 데다 환승 수요 증가도 영향을 미친 것으로 풀이된다. 올 3분기 전체 환승객은 218만5163명으로 전년 동기보다 9.4% 증가했고, 이 중 중국 노선 환승객은 전년보다 24.6% 늘었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>검찰, ‘친부 살해 혐의’ 무기수 김신혜 재심서 무기징역 구형</title>
       <link>https://www.chosun.com/national/court_law/2024/10/21/CUZYRULI7RCMNF2ABPIAZQBVYU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/21/CUZYRULI7RCMNF2ABPIAZQBVYU/</guid>
@@ -855,22 +921,6 @@
       <content:encoded>대한변호사협회(변협)가 로펌이 제공하는 인공지능(AI) 서비스 광고를 사실상 금지시켰다. 이에 대해 법조계에서는 “개별 로펌을 통제·감시하는 사실상의 검열”이라는 비판이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G3KSFRORDCELKGQONKT2KMRONA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한변호사협회 회관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;변협은 21일 서울 서초구 변협 대회의실에서 제3차 임시 총회를 열고 ‘변호사 광고에 관한 규칙 제정안’을 수정 가결했다. 제정안에는 법무법인에서 제공하는 AI 서비스의 광고를 제한하는 세부 기준이 포함됐다.&lt;br&gt;&lt;br&gt;제정안 5조는 △변호사등은 협회가 인증하고 책임변호사가 감독하는 인공지능 등 프로그램 외에는 이를 업무에 이용한다는 사실을 광고할 수 없음 △변호사등은 소비자가 인공지능 등 프로그램을 직접 사용하게 하거나 소비자에게 인공지능 등 프로그램을 연결하는 방식·내용의 광고를 할 수 없음 △협회의 인증기준 등은 별도의 규정에 따름을 규정한다.&lt;br&gt;&lt;br&gt;변협 관계자는 해당 조항에 대해 “변호사들이 AI를 사용하는 것까지는 허용하지만 AI를 국민들에게 제공하는 것은 결코 안된다는 것”이라며 “AI를 이용해 돈을 벌고 싶은 회원이 있다면 협회 인증을 받으라는 취지”라고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 변협은 AI 기반 법률 상담 서비스 ‘AI 대륙아주’와 관련해 변호사법 위반 소지가 있다며 지난달 9일 대륙아주와 소속 변호사 7명을 징계위원회에 회부하고, 같은 달 24일 징계 개시를 청구했다. 변호사법상 광고규정과 동업금지조항을 위반했다는 취지다. 이에 대륙아주는 지난 8일 AI 대륙아주 서비스를 전면 중단했다.&lt;br&gt;&lt;br&gt;법조계 관계자는 “로펌의 노하우, 투자 등이 담긴 AI를 변협이 심사하는 게 적정한지 의문”이라며 “영업의 자유를 침해할 수 있는 ‘빅브라더스식’ 검열이자 규제로 보인다”고 지적했다.&lt;br&gt;&lt;br&gt;한편 이날 함께 안건에 오른 ‘협회 자체회관 부지 매입 및 신축의 건’은 2표 차이로 부결됐다. 이날 서울중앙지법 민사50부(재판장 김상훈)는 안병희 변호사 등 변협 총회 대의원이 변협을 상대로 낸 ‘총회의안 상정 및 결의금지 가처분 신청’을 기각했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>북한산 내려오다 다쳐 고립된 60대… 119 대원들, 밤새 지켰다</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/21/5S3JILADKFCE7EGJAW3O3C6SWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/21/5S3JILADKFCE7EGJAW3O3C6SWM/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Oct 2024 10:15:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3V5LGWRQTZIUBAMC74ZXYMAIC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 경기 고양시 덕양구 북한산에서 60대 등산객이 다쳐 구조대원들이 밤새 야영을 하는 '비박'을 하며 구조활동을 하고 있다. 이 등산객은 21일 일출 직후 소방헬기에 의해 무사히 구조됐다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구급대원들이 하산하다 부상으로 고립된 60대 등산객 곁을 밤새도록 지켜 구조한 사연이 전해졌다. 당시 기상 상황이 좋지 않아 헬기가 접근할 수 없는 상황이어서 구급대원들은 신고자들과 밤을 새우는 ‘비박’을 선택했다.&lt;br&gt;&lt;br&gt;21일 경기도북부소방재난본부에 따르면, 전날 오후 5시 10분쯤 고양시 덕양구 북한산 염초1봉 인근에서 산악동호회 회원들과 함께 등반에 나섰던 60대 여성 A씨가 하산 중 비탈길에서 넘어져 허리 등을 다쳤다는 내용의 119 신고가 접수됐다. 같은 동호회 회원 60대 남성 B씨도 기력이 저하돼 하산이 어려웠다.&lt;br&gt;&lt;br&gt;구급·구조대원들은 오후 6시 6분쯤 북한산 보리사 지점에서 등반을 시작해 신고 약 50분만에 산악동호회 회원들을 발견했다.&lt;br&gt;&lt;br&gt;상태가 괜찮은 다른 동호회원 4명은 119 대원들의 도움으로 하산했으나, 문제는 A씨와 B씨였다. 사고 현장이 바위를 높게 타고 넘어야 하는 ‘릿지 구간’이어서 들것으로도 하산이 어려운데, 설상가상 일몰과 강풍으로 소방헬기 출동이 불가능했기 때문이다. 암벽 구간 약 300ｍ가 급경사이고 노면이 이슬로 젖어 있어 자칫하다 더 큰 사고로 이어질 수 있는 상황이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S6NHUPRFY5N2HNJSU35GGM6EXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 오후 경기 고양시 덕양구 북한산에서 60대 등산객이 다쳐 구조대원들이 밤새 야영을 하는 '비박'을 하며 구조활동을 하고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;결국 대원들은 헬기가 뜰 수 있는 상황이 될 때까지 구조자들과 밤을 새기로 결정했다. 이날 밤 북한산의 기온은 9도까지 떨어졌고, 사고 지점이 바람골이었던 탓에 체감온도는 훨씬 낮았다. 이런 상황 속 대원 15명이 교대로 인근 초소를 오가며 패딩 등 보온장비에 의지해 밤새 버텼다.&lt;br&gt;&lt;br&gt;다행히 이 과정에서 별다른 비상 상황은 발생하지 않았고, 다음날 21일 일출 직후 출발한 구조헬기가 오전 6시 40분쯤 현장에 도착해 A씨와 B씨를 무사히 구조했다. 이들은 인근 병원으로 옮겨져 치료를 받았다.&lt;br&gt;&lt;br&gt;경기도북부소방재난본부 관계자는 “북한산에 중강도의 난기류까지 발효돼 헬기를 이용한 구조가 도저히 불가능한 상황이었다”며 “대원들이 산에서 밤을 지새우는 ‘비박’을 실시한 뒤 아침에 부상자는 무사히 병원으로 이송됐다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/QXW2VR3UYBCP3GIIQYODJKQ4WM.jpg?width=747&amp;height=420&amp;auth=fb2cab47d295e1a3827094eed2a598e474d6ff2a25843b4a0a2dce65f423bf83&amp;smart=true" type="image/jpeg" height="420" width="747">
-        <media:description type="plain">&lt;YONHAP PHOTO-3431&gt; 북한산서 부상당한 등산객 밤샘 구조활동
-    (고양=연합뉴스) 지난 20일 경기 고양시 덕양구 북한산에서 60대 등산객이 다쳐 구조대원들이 밤을 새우는 '비박'을 하며 구조활동을 하고 있다. 이 등산객은 21일 아침 일몰 직후 소방헬기에 의해 무사히 구조됐다. 2024.10.21 [경기도북부소방재난본부 제공. 재판매 및 DB금지]
-    suki@yna.co.kr/2024-10-21 13:36:57/
-&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">경기북부취재본부</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>교육부 “대입 전형 논란, 재발 방지책 검토... 재시험은 연세대 판단”</title>
       <link>https://www.chosun.com/national/education/2024/10/21/AOMVPYBXDFD45CODVLIUX5LRJU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/21/AOMVPYBXDFD45CODVLIUX5LRJU/</guid>
@@ -887,15 +937,6 @@
       </media:content>
     </item>
     <item>
-      <title>“판사 마음 움직이자” 스터디 나선 팬덤… 법원은 탄원서 전쟁 중</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/21/6JXEHNLUQBGRZJJU3BPYXKI7ZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/21/6JXEHNLUQBGRZJJU3BPYXKI7ZA/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Oct 2024 08:59:11 +0000</pubDate>
-      <content:encoded>“우리 가수를 향한 진정성을 담아 보낸다면 판사님도 돌덩이가 아닌 이상 녹아내리리라 믿습니다”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PVDZW5NOD2OCSN7VEHFMUWRCDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;트로트 가수 김호중/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 12일 오후 서울 광진구 뚝섬 한강공원에서 중년 여성 6명이 둘러앉아 A4용지에 탄원서를 쓰고 있었다. ‘김호중♥아리스’라고 새겨진 보라색 펜을 든 60대 여성 A씨는 ‘서울중앙지법 주소’와 ‘사건번호’ 쓰는 법을 일대일 과외하듯 가르쳐 주고 있었다. 이들은 모두 트로트 가수 김호중의 팬들이다. 위험운전치상 등 혐의로 기소된 김호중의 다음 달 1심 선고를 앞두고, 팬들이 탄원서 작성법을 공부하는 스터디 모임을 자발적으로 꾸린 것이다.&lt;br&gt;&lt;br&gt;최근 법원에서 재판받는 연예인이나 정치인 등 유명인들의 팬덤에서 ‘탄원서 쓰기’ 열풍이 불고 있다. ‘좋은 탄원서 작성법’을 영상으로 만들어 서로 공유하거나, 탄원서 작성법을 가르쳐주는 모임을 갖는 식이다. 탄원서는 억울한 사정이나 선처·엄벌을 구하기 위한 의견을 담은 문서다. 법원에는 주로 사건 당사자·관계자가 탄원서를 보내는데, 제출 자격·횟수·내용 등에 제한이 없어 재판과 직접 관련이 없는 지지자들도 탄원서를 보낼 수 있다.&lt;br&gt;&lt;br&gt;서울 중랑구에 사는 박모(65)씨는 이날 1시간 가량 지하철을 타고 김호중 탄원서 스터디를 찾았다. 김호중의 이니셜이 박힌 기타 브로치를 모자에 단 박씨는 “나도 음악만 하느라 평생 탄원서라는 건 써본 적이 없는데, 판사님께 제대로 된 탄원서를 가수에게 도움이 됐으면 해 스터디에 나왔다”며 “법정에서 다 전달되지 못한 가수의 사정과 팬들의 간곡한 마음을 탄원서에 담았다”고 했다.&lt;br&gt;&lt;br&gt;지지자들에게 탄원서는 재판에 관여할 수 있는 창구이자 수단이다. 김호중 탄원서 스터디를 주도한 A씨는 “김호중의 공개 재판 과정을 챙겨봤는데 재판부나 변호인 등이 전하지 못한 말이 많은 것 같아, 탄원서로라도 꼭 전하고 싶었다”고 했다.&lt;br&gt;&lt;br&gt;탄원서 스터디를 만든 이유에 대해 A씨는 “김호중 팬들은 법률 용어에 익숙하지 않은 중년 여성이 대부분이라, 탄원서를 어떻게 써야 할 지 막막해 하는 경우가 많았다”며 “그나마 사회생활을 하며 탄원서를 써본 경험이 있는 내가 재능기부 차원으로 나서게 된 것”이라고 했다. 10월에만 스터디를 3번 진행했고, 참여 인원은 수십명이 넘는다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AY3XXXLO2FH6NPFVPPX2RC5AQI.png"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 탄원서 보내기 운동 관련 포스터&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판부를 향한 탄원서 공세는 일종의 팬덤 활동으로 자리 잡았다. 이재명 더불어민주당 대표의 지지자들도 오는 11월 공직선거법 위반·위증교사 혐의에 대한 선고를 앞두고, 탄원서 물량 공세에 나섰다. 지난달 25일 결심 공판 이후 열흘간 재판부에 접수된 탄원서만 100여 건이 넘는 것으로 전해졌다. 이 대표 지지자들은 유튜브에 ‘탄원서 쉽게 쓰는 방법’ ‘전 국민 탄원서 쓰기’ 등을 주제로 영상을 올려, 탄원서 양식과 작성법을 자세히 공유하고 있다.&lt;br&gt;&lt;br&gt;걸그룹 뉴진스의 팬덤 ‘버니즈’ 1만 명도 지난 5월 민희진 어도어 전 대표의 해임을 반대하는 탄원서를 서울중앙지법에 냈다. 당시 민 전 대표가 자신을 해임하려 하는 하이브를 상대로 가처분을 낸 사건에서 팬들이 법원에 “민 대표의 해임을 반대한다”며 옹호하는 탄원서를 낸 것이다. 그러자 하이브 측을 지지하는 업계 관계자들도 탄원서 수십장을 법원에 제출해 ‘탄원서 맞불 작전’에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AOQSVX7XCLMLL2CZIOWMIRIOYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민희진(왼쪽) 어도어 전 대표와 방시혁 하이브 의장. 양 측은 지난 4월 22일부터 경영권 탈취를 두고 분쟁을 이어가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;잇딴 탄원서 대란에 법원도 업무가 크게 늘고 있다. 법원 관계자는 “하루에도 수십 장씩 탄원서가 들어오면 분류하는 것부터 쉽지 않다”며 “특히 전자 소송으로 진행되는 민사 사건은 탄원서를 문서로 남기기 위해 직원들이 탄원서를 하나하나 스캔한다”고 했다. 그러면서 “사실상 사건 당사자나 관계자가 아닌 탄원서가 재판에 큰 영향을 주지 않지만, 수많은 탄원서가 들어온다면 재판부로서도 신경을 아예 안 쓰기도 어려울 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>중국 전기버스 업체들, 배터리 검사 위한 정보 제공 요청에 “협조하겠다”</title>
       <link>https://www.chosun.com/national/transport-environment/2024/10/20/SLKXTSR5XZDOPK2EMH63GAVE5M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/10/20/SLKXTSR5XZDOPK2EMH63GAVE5M/</guid>
@@ -903,15 +944,6 @@
       <description>한국교통안전공단(이사장 정용식·TS)은 중국산 전기버스 배터리 검사를 위해 중국 업체 20여곳에 ‘BMS(배터리관리시스템)’ 정보 제공을 요청했다고 20일 밝혔다.</description>
       <pubDate>Sun, 20 Oct 2024 08:04:44 +0000</pubDate>
       <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CDL4LO2EFIOPLTUFLJVCVKJR4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중국 CRRC가 제작한 전기 버스/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국교통안전공단은 중국산 전기버스 배터리 검사를 위해 중국 업체 20여곳에 ‘BMS(배터리관리시스템)’ 정보 제공을 요청했다고 20일 밝혔다. 배터리 화재 등 안전 검사를 위해선 BMS 정보 제공이 선행돼야 하는데, 그동안 일부 중국 업체들은 이 정보를 제공하지 않았다. 본지가 지난 16일 ‘中 전기버스 3000대, 배터리 안전검사 못할 판’ 기사를 통해 문제를 지적하자, 이번에 한국교통안전공단이 대책 마련에 나선 것이다. 중국 업체들은 “협조하겠다”는 의사를 밝힌 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한국교통안전공단은 지난 18일 중국 전기버스 제조사 및 판매사 등 24개 회사와 간담회를 개최했다. 정부는 전기차 화재 등을 대비해 전기차 배터리 안전 검사를 의무화하는 안을 지난 5월 입법예고 한 상태로 내년 시행을 앞두고 있다. 배터리 안전 검사는 전자장치 진단기를 통해 배터리 모듈의 온도와 열에 의한 변질 상태, 배터리 셀 간 전압 편차 등을 확인하는 게 핵심인데, 이를 위해선 전기차의 두뇌에 해당하는 BMS의 정보 제공이 필요하다. BMS는 자동차 제작사가 만드는 것이기 때문에 이들이 동의 주체다.&lt;br&gt;&lt;br&gt;현대차가 2022년 가장 먼저 정보를 제공하는 등 승용차 업체들은 대부분 문제가 없었지만, 하이거·주룽·양저우야싱·진룽·난징 진룽 등 20사의 중국 버스 제조사의 BMS 정보 제공이 이뤄지지 않아 문제로 지적 돼 왔다. 자칫 국내에서 운행 중인 3000여대 전기 버스가 깜깜이로 운행될 가능성이 있었기 때문이다.&lt;br&gt;&lt;br&gt;그러나 이번에 간담회를 통해 24개 중국 전기버스 업체들은 정부가 시행하는 제도의 필요성에 공감하고 정부 정책에 적극적으로 협조하겠다고 밝혔다. 국내에선 전기차 화재가 큰 관심인데다, 정보 제공을 하지 않으면 국내 판매에 지장을 겪을 가능성도 있기 때문이다. 중국 전기 버스의 국내 시장 점유율은 지난해 기준 54.1%에 달한다.&lt;br&gt;&lt;br&gt;한국교통안전공단은 제조사들과의 협업을 통해 이른 시일 내에 배터리 안전검사 기술을 개발하고, 소규모 제작사가 수입한 자동차도 배터리 안전검사가 시행될 수 있도록 지원할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>시효 지난 범죄로 혐의 바꾼 검찰, 받아준 고법… 대법이 깼다</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/21/SAO7L3ZSEVEELPS3V3K2GVTWLM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/21/SAO7L3ZSEVEELPS3V3K2GVTWLM/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Oct 2024 06:41:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NHEQVWTMCW2CMXABO2PLBEGLME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 재판 중 공소시효가 지난 죄명을 피고인에게 적용해달라고 요청하고, 하급심이 이를 받아줘 유죄가 나온 판결이 대법원에서 바로잡혔다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 신숙희)는 최근 사기 등 혐의로 기소된 A씨에게 징역 6년을 선고한 원심에 대해 “공소시효 법리를 오해한 잘못이 있다”며 사건을 깨고 대전고법으로 돌려보냈다고 21일 밝혔다. 공소시효가 지난 혐의에는 면소(免訴) 판결을 내리거나 검찰의 공소장 변경 신청을 받아주지 않았어야 하는데, 고법에서 이를 잘못 판단했다는 것이다.&lt;br&gt;&lt;br&gt;약사가 아닌 약국 직원 출신 A씨는 2016∼2021년 경남·충남 지역에서 약사를 속여 면허를 대여받아 약국을 운영하다가 적발됐다. 검찰은 A씨가 자격 없이 약국을 열어 의약품을 만들고, 이 과정에서 각종 문서를 위조∙행사했다고 보고 작년 6월 기소했다.&lt;br&gt;&lt;br&gt;1심은 이중 사문서 위조 및 행사 혐의를 제외한 다른 혐의를 모두 인정해 징역 2년 6개월을 선고했다. A씨는 2016년 9월 약국을 개설하면서 부동산임대차계약서에 가명으로 날인을 했는데, 이를 타인 명의의 문서를 조작하는 사문서 위조∙행사 범행으로 볼 수 없다는 것이다.&lt;br&gt;&lt;br&gt;이에 검찰은 항소심에서 공소장을 바꿔 사서명 위조 및 행사 혐의를 적용했다. 이 혐의는 이미 만들어진 문서에 다른 사람의 서명만 기재해도 죄가 성립된다. 적용되는 형법 조항과 법정형도 달라진다. 2심 재판부는 검찰의 공소장 변경을 허가한 뒤 해당 혐의까지 모두 유죄로 판단하고 A씨에게 징역 6년을 선고했다.&lt;br&gt;&lt;br&gt;하지만 대법원은 검찰이 신청하고 고법이 받아준 공소장 변경이 잘못됐다고 봤다. 최초 기소 시점(2023년 6월)을 기준으로 범행 때부터 사문서 위조 및 행사죄의 공소시효(7년)는 지나지 않았지만, 변경된 사서명 위조 및 행사죄(5년)는 지났다. 대법원은 “(검찰의) 공소 제기 당시 이미 공소시효가 완성됐다. 원심은 공소시효 완성 여부를 판단하지 않은 채 이 부분 공소사실을 유죄로 인정했다”며 다시 심리하라고 했다.&lt;br&gt;&lt;br&gt;대법원 관계자는 “기소 전 공소시효가 완성됐는데도 이를 면소로 처리하지 않고 유죄로 판단한다면 공소시효 제도를 잠탈(潛脫∙규제나 제도따위에서 교묘히 빠져나감)하는 결과가 된다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김민재, 4년만에 이혼... “아이를 1순위 두고 최선 다할 것”</title>
@@ -927,46 +959,6 @@
     dwise@yna.co.kr/2024-09-07 18:13:48/
 &lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
         <media:credit role="author" scheme="urn:ebu">서대연</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“제정신인가” 고속도로 중앙분리대 넘어 불법유턴한 승용차</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/21/ZQDOW7HU3BAABIPIAO3XF3GY5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/21/ZQDOW7HU3BAABIPIAO3XF3GY5A/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Oct 2024 06:51:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/33ZR2JBXUZAODOTR5MHDBJQWOY.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 서오산 톨게이트 출구 근처에서 불법유턴하는 차량/ 보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한밤중 고속도로에서 차량 한 대가 중앙분리대를 넘어 유턴하는 장면이 포착됐다.&lt;br&gt;&lt;br&gt;온라인 커뮤니티 보배드림에는 지난 11일 ‘서오산 톨게이트 출구에서 불법 유턴 그랜저 차량’이라는 제목의 글이 올라왔다. 작성자 A씨는 “10일 오후 8시쯤 서오산 톨게이트 출구에서 중앙방지턱을 넘어 불법 유턴한 그랜저 차량”이라며 블랙박스 영상을 올렸다.&lt;br&gt;&lt;br&gt;영상에는 고속도로 양방향으로 차들이 주행하고 있는 가운데 검정 그랜저 한 대가 유턴을 하기 위해 1차선을 가로막고 서 있는 모습이 담겼다. 이 차량은 중앙분리대를 밟고 올라서서 반대 차선에서 차량이 다가오지 않을 때까지 기다린 뒤 덜컹거리면서 유턴해 사라졌다. 차체에서 떨어져 나온 듯한 물체가 고속도로 한복판에 남겨지기도 했다.&lt;br&gt;&lt;br&gt;A씨는 “깜빡이도 켜지 않고 있어 마주오는 차량이 얼마나 놀랬겠느냐”며 “사고는 안 나서 다행이지만 엄청 놀랐다”고 했다. 이어 “신고하고 싶었지만 번호판이 보이지 않아 신고 못 했다”고 했다.&lt;br&gt;&lt;br&gt;영상을 접한 네티즌들은 “음주운전 아닐까. 제정신이면 차 손상하면서까지 저러겠나” “하단 커버 떨어진 것 같다” “톨게이트 요금보다 수리비가 더 나오겠다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;도로교통법 62조는 자동차를 운전해 고속도로 등을 횡단하거나 유턴 또는 후진하면 안 된다고 명시하고 있다. 다만 긴급자동차 또는 도로의 보수·유지 등의 작업을 하는 자동차 중 고속도로에서 위험 방지 작업이나 사고 긴급 조치 등이 필요할 때는 예외적으로 허용하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>2600억 규모 ‘부산 미래성장 펀드’ 운용사 11곳 선정</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/10/21/RN3YZD5ANJBL5MUZ3IC4FK32BM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/10/21/RN3YZD5ANJBL5MUZ3IC4FK32BM/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Oct 2024 06:41:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RYSBFV2Q6ASKSQNG5HM5WWXQPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 연산동 부산시청 전경./뉴스1
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지역 사상 최대인 2600억원 규모의 ‘부산 미래성장 벤처펀드’ 운용사 11곳이 선정됐다.&lt;br&gt;&lt;br&gt;부산시와 중소벤처기업부는 ‘부산 미래성장 벤처펀드’의 자(子)펀드를 운용할 11개사를 확정했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;‘부산 미래성장 벤처펀드’는 지난 6월 부산시와 중기부, 금융기관 등이 1011억원 규모로 조성한 모(母)펀드와 이번에 선정된 11개사가 만드는 자펀드 등 총 2589억원으로 이뤄졌다. 11개 자펀드는 오는 연말까지 결성해 운용에 들어갈 예정이다.&lt;br&gt;&lt;br&gt;이번에 선정된 11개 자펀드 운용사는 부산 지역 스타트업 등에 주로 투자하는 ‘지역 리그’ 6개사와 부산과 여타 지역에 투자하는 ‘수도권 리그’ 5개사로 구성됐다. 지역 리그 6개사는 에스벤처스 부산대학교기술지주·나아아이비캐피탈 BNK벤처투자·부산지역대학연합기술지주 부산창조경제혁신센터·시리즈벤처스 서울대기술지주 등이다.&lt;br&gt;&lt;br&gt;수도권 리그 5개사는 에이플투자파트너스·유안타인베스트먼트·코리야에셋투자증권 등이다. 수도권 리그는 운용 펀드 중 부산에 40%를 의무적으로 투자하도록 했다. 시 측은 “이는 수도권 자금을 부산으로 유입시키는 데 성공했다는 의미를 갖고 있다”고 말했다. 지역리그 분야 펀드는 679억원, 수도권리그 분야 펀드는 1910억원 규모다&lt;br&gt;&lt;br&gt;또 다음 달 중 해외를 상대로 투자하는 글로벌 리그 자펀드 운용사 1곳을 추가로 선정할 예정이다. ‘글로벌 리그’ 자펀드는 334억원 규모로 조성될 계획이다. 글로벌 리그 자펀드까지 더하면 ‘부산 미래성장 벤처펀드’의 총 규모는 3000억원 가량으로 늘어난다.&lt;br&gt;&lt;br&gt;박형준 부산시장은 “전례없는 지역 중심의 대규모 펀드인 ‘부산 미래성장 벤처펀드’는 부산 경제에 새로운 활력을 불어넣고 지속 가능한 발전을 위한 토대를 마련하는 든든한 마중물이 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이중근 노인회장 “노인연령 65→75세 상향 조정 건의”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/10/21/I2XKIYUKVFHR7JOQNIMPTZVEBY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/21/I2XKIYUKVFHR7JOQNIMPTZVEBY/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Oct 2024 04:44:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5TSFZUCLGFOCFNHVDBCNU2CODM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이중근 신임 대한노인회장이 21일 서울 중구 대한상공회의소 국제회의장에서 열린 제19대 대한노인회장 취임식에서 취임사를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이중근 신임 대한노인회장이 정부에 노인 연령을 현행 65세에서 75세로 연간 1년씩 단계적으로 상향 조정할 것을 건의하겠다고 했다.&lt;br&gt;&lt;br&gt;이 회장은 21일 오전 서울 중구 대한상공회의소에서 지하 2층 국제회의장에서 열린 ‘제19대 대한노인회장 취임식’에서 “현재 노인 인구는 1000만명이지만 2050년에는 2000만명으로, 나머지 인구 3000만명 중 20세 이하 1000만명을 제외하고 남은 중추 인구인 2000만명이 2000만 노인의 복지에 치중하다 보면 생산 인구가 없게 된다는 염려가 있다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;이 회장은 “신규 노인 예정자로 정년 연장 첫 해에는 정년 피크 임금의 40%를 받고 10년 후인 75세에도 20% 정도를 받는 생산 잔류 기간을 10년 연장하고자 한다”며 “기본 수당을 받으면서 생산에 동참할 수 있도록 연금 등 노인 부양을 비롯한 초고령화 사회 문제들을 해결하는 데 큰 도움이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;평균 수명이 늘어나는 가운데 정년이 연장되면, 곧 노인이 되는 인구가 기본 수당을 받으며 경제 활동에 참여할 수 있어 연금 등 고령화로 촉발된 사회 문제를 해결할 수 있다는 것이다.&lt;br&gt;&lt;br&gt;이 회장은 이와 함께 자택에서 임종을 맞도록 하는 ‘재가(在家) 임종 제도’를 추진하겠다고도 했다. 이 회장은 “현재 요양원에서 쓸쓸히 임종을 맞이하시는 분들이 많다”며 “대안으로 요양원에 지원되는 예산 및 제도를 재가 및 도우미 등의 지원을 병행해 노인들이 집에서 사랑하는 가족들의 손을 잡고 임종할 수 있도록 하려고 한다”고 했다.&lt;br&gt;&lt;br&gt;19대 대한노인회장에 당선된 이중근 회장은 2017~2020년 제17대 회장을 지내다 중도 사퇴한 뒤 다시 한번 당선됐다. 임기는 오는 10월부터 4년이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“끔찍한 일 당했다”…BJ 13시간 기다린 스토커, 무단침입 모습 보니</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/21/MFOJM2X5BNEBJAONVO2RO2VCUA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/21/MFOJM2X5BNEBJAONVO2RO2VCUA/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 20 Oct 2024 22:33:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NHSHSPCLN5HXJHA6TTGDP36FTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;BJ 조예리씨가 공개한 무단침입 피해 관련 영상. 문 뒤에 숨어 있던 남성(왼쪽)이 문이 열리자 집 안으로 들어가려 하는 모습./온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;숲(SOOP·옛 아프리카TV)에서 스트리머로 활동 중인 BJ 조예리(20)씨가 스토킹 피해를 호소하며 자신의 집에 무단침입하는 남성의 모습이 담긴 CCTV 영상을 공개했다.&lt;br&gt;&lt;br&gt;조씨는 지난 18일 자신의 인스타그램을 통해 “인스타에 올리기 힘든 끔찍한 일을 당했다”며 건물 복도에 설치된 감시카메라(CCTV) 영상을 올렸다.&lt;br&gt;&lt;br&gt;영상을 보면 현관문이 살짝 열리자 문 뒤에 숨어 있던 한 남성이 문틈을 비집고 무단침입을 시도한다. 그 뒤 현관문을 두고 실랑이 하는 듯 문이 여닫히길 반복한다. 집 주인은 이 남성을 문 밖으로 밀쳐내려 했지만 결국 실패해 문이 완전히 닫혔다.&lt;br&gt;&lt;br&gt;조씨는 “내가 문을 열고 나올 때까지 13시간 동안 집 앞에서 기다리다 문을 열고 나서는 순간 현관문 뒤에 가해자가 튀어나왔다”며 “살려달라고 소리치는 제 입을 막고 저와 실랑이를 벌인 뒤 집 안으로 저를 세게 밀쳐 넘어뜨렸다”고 했다.&lt;br&gt;&lt;br&gt;이어 “그 후에는 인스타에 올리기 힘든 끔찍한 일들을 안에서 당했다”고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P7HTMVDTK5EZTODX7EO7P2QBUA.gif"&gt;&lt;figcaption&gt;&lt;small&gt;BJ 조예리씨가 공개한 무단침입 피해 관련 영상./온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그는 “조작한 거 아니냐고 하시는데 경찰 측에서 증거 자료로 채택한 8월28일 촬영된 조작 아닌 원본 자료”라고 했다. 가해자의 신원에 대해서는 밝히지 않았다.&lt;br&gt;&lt;br&gt;영상을 본 네티즌들은 “13시간이나 집앞에서 기다렸다가 들어오는데 무슨 수로 피하나” “너무 무섭고 소름끼친다” “반드시 잡아야 한다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;스토킹 행위는 2021년 10월21일부터 시행된 ‘스토킹 범죄의 처벌 등에 관한 법률(스토킹 처벌법)’에 따라 처벌받는다. 이는 그간 스토킹 행위를 엄중하게 처벌하지 못하는 경범죄 처벌법의 한계를 극복하고자 도입됐다.&lt;br&gt;&lt;br&gt;이후 2022년 9월 ‘신당역 살인사건’이 발생하면서 스토킹 처벌법의 한계에 관한 지적이 대두되자 피해자의 의사 없이는 처벌하지 않는 ‘반의사 불벌’ 조항을 폐지하고 온라인 스토킹 유형을 추가하는 등의 방향으로 법률이 개정됐다.&lt;br&gt;&lt;br&gt;검찰에 따르면 이 법 위반으로 검찰에 입건된 피의자는 지난해에만 1만438명으로 집계됐으며 올해도 8월까지 8881명이 피의자로 접수됐다.&lt;br&gt;&lt;br&gt;서울에서는 2019년부터 올해 6월까지 5년간 혼자 사는 여성을 노린 주거침입 성범죄가 246건 발생한 것으로 집계됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XDV3JEAJRFCVE4N4QLSX4N33I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;BJ 조예리./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/P7HTMVDTK5EZTODX7EO7P2QBUA.gif?width=604&amp;height=297&amp;auth=2c1bab7dca0be5d8e4661c758f378d3042706f74ef34a9de779640bfc580f25a&amp;smart=true" type="image/jpeg" height="297" width="604">
-        <media:description type="plain">BJ 조예리씨가 공개한 무단침입 피해 관련 영상./온라인커뮤니티</media:description>
       </media:content>
     </item>
   </channel>
