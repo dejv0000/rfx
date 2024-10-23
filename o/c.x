@@ -13,6 +13,55 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>불량한 환경에 신생아 딸 방치해 죽인 父, 징역 4년 그친 이유는</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/23/LKGEJCTXYJADXLVHU4N6XBOH6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/23/LKGEJCTXYJADXLVHU4N6XBOH6A/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 23 Oct 2024 04:37:47 +0000</pubDate>
+      <content:encoded>비위생적인 주거·양육 환경에서 자신의 신생아 딸을 안 씻기고 굶기는 등 지속적인 학대로 숨지게 한 아버지가 2심에서도 실형을 선고 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CTGM24Z25EX3A2HETGLAQPMMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고등법원. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 법조계에 따르면 서울고법 형사3부(재판장 이창형)는 최근 아동학대범죄의 처벌 등에 관한 특례법 위반(아동학대치사) 혐의를 받는 김모(28)씨에게 원심과 같이 징역 4년을 선고하고 40시간의 아동학대 치료프로그램 이수 및 5년간 아동관련기관 취업제한을 명령했다.&lt;br&gt;&lt;br&gt;경찰 조사 등에 따르면 김씨는 아내와 헤어진 후 2019년 4월부터 돌 정도가 된 딸을 혼자 양육하게 됐는데, 이 무렵부터 그해 8월까지 인천 미추홀구 주거지에서 설거지, 청소, 쓰레기 배출 등을 전혀 하지 않았다.&lt;br&gt;&lt;br&gt;당시 우울증 증세도 겪은 김씨는 딸을 지저분한 환경에 노출시켰을 뿐만 아니라 일주일에 1~2회 가량만 씻기고, 기저귀도 제때 갈아주지 않아 엉덩이와 음부에 발진과 욕창이 나도록 방치했다. 또 분유나 이유식 등도 제대로 먹이지 않아 딸이 영양 결핍 상태가 되도록 내버려뒀다.&lt;br&gt;&lt;br&gt;쓰레기로 가득차 악취가 나는 등 극도로 불량한 환경에 사실상 버려진 딸이 경련, 구토 등 이상 징후를 보였음에도 김씨는 그를 신속히 병원에 옮기지 않았고, 결국 딸은 2020년 6월 패혈증 및 혈관 내 응고 등으로 숨졌다.&lt;br&gt;&lt;br&gt;앞서 1심인 인천지법 형사14부(재판장 손승범)는 “김씨는 부모로서 가장 기본적인 의무조차 이행하지 않아 비극적인 결과를 초래해 그 죄책이 매우 무겁다”면서도 “김씨는 이 사건 범행 당시 만 23세로 양육에 관한 경험·지식이 부족했고, 사실혼 관계에 있던 딸의 어머니와 결별한 후 정서적·심리적으로 불안한 상태였고 경제적으로도 열악한 환경에 처해있었다”고 참작해 중형을 선고하진 않았다.&lt;br&gt;&lt;br&gt;김씨가 양형 부당을 이유로 항소했으나 2심 재판부는 “피해 아동의 사망이라는 돌이킬 수 없는 결과가 발생했다”면서 “혼자 감당하기 어려운 양육 환경에 처해 있었던 점 등 참작할 부분이 있기는 하나 원심의 양형이 부당하다고 할 수 없다”고 지적하며 항소를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 한강 수영장 탈의실서 몰카 찍은 40대 남성, 檢 송치</title>
+      <link>https://www.chosun.com/national/incident/2024/10/23/APGVND22Y5HXVOLNKYG2YHINZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/23/APGVND22Y5HXVOLNKYG2YHINZY/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 23 Oct 2024 04:41:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XH7ST3MBNXOBYYXRMLEDBBN3PQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 광진경찰서의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뚝섬한강공원 수영장 남자 탈의실에서 미성년자 등 남성 2명의 알몸을 몰래 촬영한 남성이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 광진경찰서는 성폭력처벌법상 카메라등이용촬영 혐의를 받는 40대 남성 A씨를 지난 10일 검찰에 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 8월 3일 오후 2시 40분쯤 서울 광진구 뚝섬한강공원 수영장 남자 탈의실에서 불법 촬영을 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 A씨는 휴대전화로 미성년자를 포함한 남성 2명의 알몸을 몰래 촬영했다. “한 남성이 다른 남성을 촬영하고 있다”는 다른 이용객의 신고를 받고 출동한 경찰은 A씨의 휴대전화에서 피해자의 사진을 확인하고 그 자리에서 현행범 체포했다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 일반인보다 지적 능력이 떨어지는 것으로 확인됐다. 경찰은 A씨의 휴대전화를 포렌식해 여죄 등을 확인했으나 추가 범죄 혐의점은 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UJXCOUHBIOPYN6FKSXJLDEXY7M.jpg?width=6000&amp;height=4000&amp;auth=d4b516eb57516db4673732cc5089dd55f74a9db5cf8e81fe96340e0e80886d34&amp;smart=true" type="image/jpeg" height="4000" width="6000">
+        <media:description type="plain">서울 광진경찰서의 모습. 2023.11.22/뉴스1 ⓒ News1 이재명 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 이재명 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“초등생 딸에 400만원 명품백 선물한 남편, 사랑인가요?”…아내의 고민</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/23/7I2FTHI4GNBX7CMVQH6WLVLEJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/23/7I2FTHI4GNBX7CMVQH6WLVLEJQ/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 23 Oct 2024 04:16:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5RSZV7AURNHTJMXMQ3MRPRNN2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;베이비 디올 가방./디올&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초등학생 딸에게 수백만원의 명품 가방을 선물하려는 남편과 의견 다툼이 생겼다는 아내의 사연이 전해졌다. 남편은 ‘경제 공부’를 위한 선물이라는 입장인데, 이를 두고 온라인상에서 다양한 의견이 오가고 있다.&lt;br&gt;&lt;br&gt;22일 한 온라인 커뮤니티에 ‘초등 아이에게 400만원 넘는 백팩 사주는 게 사랑인가요?’라는 제목의 글이 올라왔다.&lt;br&gt;&lt;br&gt;작성자는 “남편과 이견이 좁혀지지 않아 서로 협의 후 글을 올린다. 솔직한 답변을 부탁드린다”고 운을 뗐다.&lt;br&gt;&lt;br&gt;그는 “남편이 출장 다녀오는 길에 초등학생 5학년 딸 선물로 400만원이 넘는 명품 D사 백팩을 사 왔다”며 “어린아이에게 벌써 사치품을 주는 게 상식적으로 이해되지 않는다”고 했다.&lt;br&gt;&lt;br&gt;급한대로 아이가 선물을 보지 못하도록 숨겨둔 작성자는 이 가방을 되팔거나 시누이에게 선물로 주자며 남편을 설득했지만, 이견을 좁힐 수 없었다.&lt;br&gt;&lt;br&gt;작성자 남편은 “미리 경제 공부시키는 것”이라는 입장이었다.&lt;br&gt;&lt;br&gt;남편은 작성자에게 “아이가 비싸고 좋은 물건 좋아하게 키우는 게 왜 나쁘냐”며 “돈은 돈이 필요한 사람이 버는 거다. 돈맛을 알아야 돈을 버는 사람으로 크는 거고 나중에 남편감을 고르건 시부모를 고르건 기준이 되는 건 재력이기 때문에 그때 가서 부자 (남편)를 고를 수 있다”고 주장했다.&lt;br&gt;&lt;br&gt;그러면서 “우리 딸이 가난을 철학이나 청빈함 따위로 포장하며 빈곤하게 살게 하고 싶냐. 당신은 세상 돌아가는 걸 너무 모른다”고 나무랐다.&lt;br&gt;&lt;br&gt;이 같은 남편의 입장을 전한 작성자는 “초등학교 5학년 아이에게 400만원 넘는 가방 선물하는 게 사랑이고, 경제관념을 심어주는 거냐”며 의견을 구했다.&lt;br&gt;&lt;br&gt;이 글은 게재 하루 만인 23일 조회수 20만회를 넘기며 네티즌들의 관심을 모았다.&lt;br&gt;&lt;br&gt;네티즌들은 “범죄의 표적이 되기 좋다” “친구들 사이에서 질투와 시기, 왕따의 대상이 될 수 있다” 등 아이에게 오히려 해가 될 수 있다는 의견을 냈다. 또 “본인의 허영심을 아이에게 투영하는 꼴이다” 등의 반응도 보였다. 한 네티즌은 “경제를 알게 하려면 주식을 사주면서 함께 공부하라”고 조언해 다른 네티즌들의 공감을 얻었다.&lt;br&gt;&lt;br&gt;앞서 영국 파이낸셜타임스(FT)는 한국의 어린이 명품 시장 상황을 조명하며 한국인의 ‘과시욕’을 꼬집었다.&lt;br&gt;&lt;br&gt;FT는 지난 7월 ‘몽클레르 겨울 외투가 아이들의 교복이 됐다-한국의 키즈 명품 붐’이라는 제목의 기사를 통해 한국의 출산율은 해마다 낮아지고 있지만 어린이 명품 시장은 계속 성장하고 있다며 이는 한국인의 과시욕이 큰 영향을 끼치기 때문이라고 분석했다.&lt;br&gt;&lt;br&gt;특히 FT는 이런 현상을 긍정적으로만 볼 수는 없다며 이창용 한국은행 총재가 지난 6월 국내 인플레이션이 경제협력개발기구(OECD) 평균보다 높게 나오는 구조적 요인 중 하나로 ‘한국인들의 명품 선호 때문에 물가를 억제하기 어려운 측면이 있다’고 지적한 내용을 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title> LA 다저스 전설적 투수 발렌수엘라, 갑작스런 병환으로 별세</title>
+      <link>https://www.chosun.com/national/people/2024/10/23/PBRCGRUXVZBETNYLUCJP34OY3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/23/PBRCGRUXVZBETNYLUCJP34OY3A/</guid>
+      <dc:creator>배준용 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 23 Oct 2024 04:40:43 +0000</pubDate>
+      <content:encoded>미국 메이저리그(MLB) LA 다저스의 가장 전설적인 투수이자 최근 다저스 경기 캐스터로 활동하던 페르난도 발렌수엘라가 23일 급작스레 별세했다. 향년 63세.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6BAXXS7DTJMUZFX5BY4STKYO7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;LA 다저스의 전설적인 투수 페르난도 발렌수엘라가 23일 갑작스럽게 세상을 떠났다./AFP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미 폭스스포츠 등 현지 언론에 따르면 발렌수엘라는 23일 병으로 쓰러져 병원으로 이송됐지만, 갑작스레 숨을 거둔 것으로 전해졌다. 이날 MLB 사무국은 “다저스를 대신해 우리는 발렌수엘라의 별세에 깊은 애도를 표한다”며 “그는 역대 다저스 선수 중 가장 영향력 있는 선수였으며 선수뿐만 아니라 캐스터로서도 항상 우리 곁에 머물렀다”고 밝혔다. 사무국은 이어 “그가 너무 일찍 세상을 떠난 것을 애도한다. 발렌수엘라의 아내 린다와 그의 가족에게 가장 깊은 위로의 뜻을 전한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;멕시코 출신인 페르난도 발렌수엘라는 다저스 역사상 가장 위대한 투수로 꼽힌다. 국내 팬들 사이에선 다저스에서 활약한 류현진과 닮은 꼴로도 잘 알려져있다.&lt;br&gt;&lt;br&gt;발렌수엘라는 1980년 19세의 나이로 메이저리그에 데뷔해 1981년 25경기에서 13승7패 평균자책점 2.48의 눈부신 활약을 펼쳐 메이저리그에 ‘발렌수엘라 열풍’을 일으켰다. 데뷔 2년 만에 메이저리그 내셔널리그 신인왕과 사이영상을 동시에 수상했다.&lt;br&gt;&lt;br&gt;이후로도 그는 1987년까지 7시즌 연속 메이저리그 두 자릿수 승수를 기록했고 특히 1986년에는 시즌 21승을 달성, 다승왕과 함께 커리어 하이를 기록했다. 미국 메이저리그 올스타에 6번 선정됐다. 1990년에는 노히트노런을 달성하는 역대급 기록도 남겼다.&lt;br&gt;&lt;br&gt;메이저리그에서 총 17시즌 동안 173승 153패 평균자책점 3.54를 기록한 뒤 1997 시즌 이후 은퇴했다. 다저스는 그의 등번호 34번을 영구 결번으로 지정했고, 2014년 메이저리그 명예의 전당에도 헌액됐다.&lt;br&gt;&lt;br&gt;은퇴 후 발렌수엘라는 다저스의 스페인어 중계팀에 캐스터 겸 해설가로 꾸준하게 활동하며 미국 내 히스패닉 등에 다저스 경기를 알리는 중심적인 역할을 해왔다. 수년 전부터 당뇨병을 앓았지만 사망에 이르게 한 자세한 원인은 아직정확히 확인되지 않고 있다. 미 ESPN은 “다저스가 발렌수엘라의 사망을 알렸으나 정확한 그의 사인은 밝히지 않았다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘장갑차 위 반전시위’ 8명, 업무방해 유죄...항소심서 뒤집혀</title>
+      <link>https://www.chosun.com/national/incident/2024/10/23/LAJQSX42ANFQVPPU2F46WXAOWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/23/LAJQSX42ANFQVPPU2F46WXAOWA/</guid>
+      <dc:creator>의정부=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 23 Oct 2024 04:15:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OLFJNNHBFAD5ZWM75T7MPXL3DA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무기박람회에서 장갑차 위에 올라가 반전시위를 한 반전단체 회원들이 항소심에서 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;의정부지법 형사1부(재판장 심준보)는 업무방해 혐의로 기소된 비폭력 반전 시민단체 ‘전쟁 없는 세상’ 소속 A씨 등 8명에게 무죄를 선고한 1심 판결을 파기하고 벌금 50만원을 선고했다고 23일 밝혔다. 피고인 중 B씨 등 2명은 벌금 50만원에 집행유예 1년이 선고됐다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 2022년 9월 경기 고양시 킨텍스에서 열린 대한민국 방위산업전 2022 전시장에 전시된 K808 장갑차 위에 올라가 기타와 바이올린을 연주하고, ‘전쟁 장사를 멈춰라’는 문구가 쓰인 현수막을 펼치며 시위해 주최 측의 업무를 방해한 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;1심 재판부는 피고인들의 행동을 업무방해로까지 볼 수는 없다고 보고 무죄를 선고했다. 재판부는 당시 피고인들이 확성기나 앰프를 사용하지도 않았고, 해당 장소가 관람객이 자유롭게 오가며 관람하며 정숙한 곳이 아니었다고 판단했다. &lt;br&gt;&lt;br&gt;하지만, 항소심 재판부는 ‘실제 업무가 방해로 인한 피해가 발생하지 않더라도 그러한 위험성이 있었다면 업무방해죄가 성립될 수 있다’고 판단했다. 재판부는 “피고인들이 시위를 시작하자 관람객들이 자리를 뜬 점과 안전사고 및 전시 장비 파손 우려가 있었다는 행사 관계자의 진술 등 상황을 고려해 보면 전시 운영에 관한 업무 방해죄의 요건이 성립된다”고 말했다. &lt;br&gt;&lt;br&gt;재판부는 이어 “피고인 중 일부에 동종 전과가 있는 점 등은 불리하나 범행 동기에 참작할 만한 사정이 있고, 위력을 행사한 시간이 길지 않았던 점 등을 고려했다”고 밝혔다. 이들 8명은 항소심 유죄 판결에 불복, 대법원에 상고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>굿캅·배드캅 역할 분담까지… 檢·금감원 사칭 보이스피싱에 60대 여성 피해 심각</title>
       <link>https://www.chosun.com/national/national_general/2024/10/23/AJZWE3R5Z5H67MCADGWU6OSNYY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/23/AJZWE3R5Z5H67MCADGWU6OSNYY/</guid>
@@ -807,15 +856,6 @@
       </media:content>
     </item>
     <item>
-      <title>“투자금 챙겨 잠적”… 상장 앞두고 투자 사기, 백종원 사칭범이었다</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/22/J7XKEZQ62RBFVN5R3XT7Q3KL2Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/22/J7XKEZQ62RBFVN5R3XT7Q3KL2Y/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Oct 2024 05:52:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RG7D4VDBRZBELM4WQT47ANSNGU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;백종원 더 본 코리아 대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 넷플릭스 예능 ‘흑백요리사’ 등으로 큰 인기를 끌고 있는 백종원 더본코리아 대표를 사칭한 투자 사기 사건이 발생해 경찰이 용의자 추적에 나섰다.&lt;br&gt;&lt;br&gt;22일 경찰 등에 따르면 서울 마포경찰서는 전날 신원불상자 A씨의 사기 혐의 고소장을 접수해 조사 중이다. A씨는 더본코리아가 다음 달 코스피 상장을 앞두고 오는 28일부터 일반 투자자 대상 청약을 진행하는 점을 노려 공모주 청약을 허위 광고한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 더본코리아 공식 홈페이지에서 회사 소개를 따와 백 대표를 사칭했다. 투자자들에겐 상장 전 지분 투자 방식으로 미리 이득을 챙기라고 권유한 뒤 투자금을 챙겨 잠적한 것으로 알려졌다. 경찰 관계자는 “현재 용의자를 특정하고 있는 단계”라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LYWOWAYBMNAHTHJLNMFOA7BDL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/더본코리아 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더본코리아 측은 이날 홈페이지에 ‘더본코리아 특별공모 사칭 주의 안내’라는 글을 띄우고 “최근 더본코리아 IPO 특별공모 청약을 안내하는 문자와 특별공모 신청 사이트가 확인돼 피해가 예상된다”며 “더본코리아는 어떠한 방법으로도 공모주 안내 및 가입을 진행하지 않고 있다”고 강조했다.&lt;br&gt;&lt;br&gt;이어 “해당 불법 사이트에 대해 경찰 신고와 동시에 법률대리인을 통해 강력하게 법적 대응할 계획”이라며 “해당 공모주 안내 및 불법 사이트는 당사와 무관해, 해당 광고로 인한 개인정보 도용 및 피해가 없기를 당부드린다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] ‘불법 도박 인정’ 이진호, 피의자 신분 경찰 출석...취재진 질문에 “죄송하다”</title>
       <link>https://www.chosun.com/national/incident/2024/10/22/UM3MESXH5BDCJOFM3A3VBRBBEM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/22/UM3MESXH5BDCJOFM3A3VBRBBEM/</guid>
@@ -823,15 +863,6 @@
       <description/>
       <pubDate>Tue, 22 Oct 2024 04:58:12 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P3UMDDQB25LD7MXJ2MVN6BVARQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;인터넷 불법 도박 사실을 털어놓은 개그맨 이진호가 22일 오후 서울 강남경찰서에 피의자 신분으로 출석하며 고개숙여 사과하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;불법 도박을 인정한 개그맨 이진호(38)씨가 22일 오후 1시 55분 피의자 신분으로 서울 강남경찰서에 출석했다. 국민신문고에 상습 도박, 사기 혐의 등으로 고발당한지 8일 만이다. 경찰은 이씨를 도박 혐의로 수사하고 있다.&lt;br&gt;&lt;br&gt;K5를 타고 강남경찰서에 도착한 이씨는 검은 티셔츠에 검은 바지를 입고 있었다. 이씨는 사기 의혹, 불법 도박에 빠진 이유, 팬과 동료 연예인에게 할 말을 묻는 취재진 질문에 연신 “죄송하다”고 답했다. 경찰서 안으로 들어서면서는 “조사를 성실히 받겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 이씨는 지난 14일 본인 인스타그램에 “2020년 우연한 기회로 인터넷 불법 도박사이트에서 게임을 시작하게 됐고, 감당하기 힘든 빚을 떠안게 됐다”며 “금전적인 손해도 손해지만, 무엇보다 나를 믿고 돈을 빌려주신 분들께 너무 죄송했다”는 글을 올렸다. 이씨는 이수근, BTS 지민, 영탁 등에게도 억대의 돈을 빌린 것으로 알려졌다. 이씨는 이후 화성시 홍보대사에서 해촉됐고, 출연 중이던 ‘아는 형님’에서도 하차했다.&lt;br&gt;&lt;br&gt;앞서 경찰은 이씨에 대한 국민신문고 진정서를 접수한 후 이씨에 대한 입건 전 조사(내사)를 진행해왔다. 경찰 관계자는 “이씨를 소환함으로써 이씨를 피의자로 전환하고 본격적인 수사에 착수한 것”이라고 밝혔다. 경찰은 국민 신문고를 통해 접수된 사기 혐의에 대해서도 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공수처, 檢서 ‘디올백 수사’ 기록 못 받아…‘채상병 수사’ 검사 연임은 불투명</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/22/X3KIB3NW5ZBETH2EGG74QSQBHM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/22/X3KIB3NW5ZBETH2EGG74QSQBHM/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Oct 2024 04:49:10 +0000</pubDate>
-      <content:encoded>윤석열 대통령 배우자 김건희 여사의 ‘디올백 수수’ 의혹과 관련해 알선수재 등 혐의를 수사 중인 고위공직자범죄수사처(공수처)가 검찰의 수사 기록을 확보하지 못하고 있는 것으로 22일 확인됐다. &lt;br&gt;&lt;br&gt;주요 사건인 ‘순직 해병 조사 외압’ 의혹을 수사하는 부장검사들의 임기 만료도 5일 앞으로 다가왔다고 한다. 법조계에선 수사 공백이 동시다발적으로 생길 수 있다는 분석이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NNZLO3FG4BTQDU7FGIEFPRM33E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공수처 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공수처 관계자는 이날 정례 브리핑에서 “김 여사의 디올백 수수 의혹과 관련해 검찰에 불기소이유서 등 수사 기록을 지난 7일 요청했으나, 아직 전달 받은 내용이 없다”고 밝혔다. 서울중앙지검 형사1부(부장 김승호)는 지난 2일 김 여사에 대해 불기소 처분한 상태다.&lt;br&gt;&lt;br&gt;이 관계자는 “공수처법상 검찰에 수사 자료를 요청할 수 있는 근거 조항이 있다”면서도 “해당 조항은 강행규정이 아니어서 검찰이 응할 필요는 없다”고 했다.&lt;br&gt;&lt;br&gt;한편, 작년 7월 해병대 고(故) 채수근 상병이 수해 복구 지원 도중 숨진 것에 대한 해병대수사단의 초동 조사를 무마하려 했다는 외압 의혹을 수사 중인 이대환 수사4부장과 차정현 수사기획관(부장검사)의 임기는 5일을 남겨둔 것으로 전해졌다. 오는 27일까지 연임안이 재가되지 않으면, 이들은 28일부터 더 이상 수사에 참여할 수 없다는 것이 공수처 설명이다.&lt;br&gt;&lt;br&gt;이들은 연임을 희망해 지난 8월 공수처 인사위원회에서 연임이 의결됐었다. 그러나 두 달 동안 임면(任免)권을 가진 윤 대통령이 연임안을 재가하지 않아 연임 여부가 불투명하다. 공수처 관계자는 “연임안 재가가 안 되고 있는 이유는 알지 못한다”면서도 “일단은 재가를 기다리고 있는 상황”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>올해 인천 딥페이크 범죄 피의자 24명 검거...1명 빼고 모두 청소년</title>
@@ -861,15 +892,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6R76PTYOJFMH5D52KM44QBTY7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최서원(개명 전 최순실) 씨에 대한 명예 훼손 혐의로 기소된 더불어민주당 안민석 의원이 지난 4월 23일 오전 경기도 수원시 영통구 수원지방법원에서 열린 첫 공판을 마치고 나오고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박근혜 정부 국정농단 사건 핵심인물인 최서원(개명 전 최순실)씨가 자신에 대한 허위사실을 유포해 명예를 훼손한 혐의를 받는 안민석 전 더불어민주당 의원의 재판에 증인으로 나온다.&lt;br&gt;&lt;br&gt;수원지법 형사19단독 설일영 판사는 22일 안 의원의 정보통신망법 위반(명예훼손 등) 혐의 속행 공판을 열었다. 이날 재판부는 “(검찰이 신청한 2명의 증인 중)최씨를 12월 5일에 먼저 소환하겠다”고 말했다.&lt;br&gt;&lt;br&gt;재판부는 당초 지난 6월 18일 최씨에 대한 증인신문을 진행할 예정이었다. 그러나 인사이동으로 판사가 교체되면서, 이날 최씨에 대한 증인신문 일정을 다시 잡은 것이다.&lt;br&gt;&lt;br&gt;안 전 의원은 최씨가 박근혜 전 대통령의 비선 실세라는 의혹이 제기되던 2016년부터 각종 라디오와 TV 방송 등에 출연해 “독일 검찰이 독일 내 최순실 재산을 추적 중인데 돈세탁 규모가 수조원대”라는 주장을 했다. 안 전 의원은 “최씨가 페이퍼컴퍼니를 세워 돈을 빼돌린 기업은 독일에서만 수백개에 달한다는 사실이 독일 검찰로부터 확인됐다”고도 주장했다. 안 전 의원은 또 최씨가 록히드마틴 회장과 만나 사드(THAAD·고고도 미사일 방어체계) 도입에 관여했다는 의혹을 제기하면서 실제 사실관계를 확인하지 않고, “최씨가 록히드마틴 측에 무기 계약을 몰아줬다”고 발언했다. 또 “스위스 비밀 계좌에 입급된 한 기업의 돈이 최씨와 연관돼 있다”는 등 확인되지 않은 의혹을 숱하게 제기했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LY7SSK74J7SQQNDOP2YC6AGUNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박근혜정부의 '국정농단' 사건을 주도한 혐의로 복역 중인 최서원씨(개명 전 최순실) /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최씨는 지난 2019년 9월 “안 의원의 발언은 모두 거짓”이라며 안 의원을 고소했고, 검찰은 안 전 의원의 발언이 허위 사실이라고 판단하고 지난해 11월 불구속 기소했다.&lt;br&gt;&lt;br&gt;이날 안 전 의원 측은 검찰의 공소사실에 대한 입장을 묻는 재판부에 또다시 “부인 취지”라고 답했다. 안 전 의원의 변호인은 “맥락으로 봤을 때 의견 표명이었으며, 공적 관심사에 대한 공익적 발언으로 (최씨에 대한)비방이나 고의가 없었다”고 말했다. 안 전 의원 측은 지난 4월 23일 열린 첫 재판에서도 “국정농단 청문회 위원, ‘최순실 게이트’ 국민조사위원 등 피고인의 공적 지위를 주목해야 한다”며 “공적 목적의 연장선상에서 한 발언이고, 전 국민적 관심이 본격화된 상황에서 국민적 열망을 대변한 것일 뿐 악의적 명예훼손의 고의가 없었음을 분명히 말씀드린다”고 했다.&lt;br&gt;&lt;br&gt;한편, 이날 재판은 최씨에 대한 증인신문 일정만 정한 채 9분 만에 마무리됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘BTS 활동 중단’ 전 주식 판 하이브 직원들, “입대가 중요 정보인지 의문”</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/22/52BFL26FGRDPHKHDOLMQWNUVHY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/22/52BFL26FGRDPHKHDOLMQWNUVHY/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Oct 2024 03:03:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VBDCV2ANNJO7BJ7533LBJ4HHDU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;방탄소년단(BTS) 진의 입대일인 13일 경기도 연천군 육군 5사단 신병교육대 앞에 진의 팬이 그의 사진을 들고 기다리고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아이돌 그룹 방탄소년단(BTS)의 활동 중단을 알리는 영상이 공개될 것을 미리 알고 주식을 내다 판 하이브 계열사 전현직 직원들이 첫 재판에서 혐의를 부인했다.&lt;br&gt;&lt;br&gt;서울남부지법 형사합의13부(재판장 김상연)는 22일 오전 10시 10분 자본시장법 위반 혐의를 받는 하이브 계열사 전현직 직원 3명의 첫 공판을 진행했다.&lt;br&gt;&lt;br&gt;변호인들은 이날 “공소사실을 부인한다”고 했다. 이들은 “BTS 멤버의 군 입대 정보를 알았으나 완전체 활동 중단 사실과 구체적 발표 시기 등에 대해서는 몰랐다”며 “군 입대 자체가 미공개 중요 정보인지도 알지 못했다”고 주장했다.&lt;br&gt;&lt;br&gt;또한 “입대 자체가 미공개 중요 정보인지 의문”이라며 “미공개 중요 정보가 확실히 어떤 것인지 공소사실에서 특정이 안 돼 애매하다”고도 했다.&lt;br&gt;&lt;br&gt;검찰은 “BTS 아티스트 군 입대 및 활동 중단 소식을 미공개 중요 정보로 보고 특정해 공소를 제기했다”며 “공소사실에 구체적으로 기재했다”고 피고인들 주장에 반박했다.&lt;br&gt;&lt;br&gt;검찰에 따르면 이들은 BTS 멤버 진(본명 김석진)의 군 입대 및 완전체 활동 중단 사실이 포함된 영상이 곧 공개될 것이라는 사실을 미리 알고, 보유 중이던 소속사 주식을 처분해 손실을 회피한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 비주얼 크리에이티브(VC) 및 의전팀 근무 경력을 이용해 미공개 중요 정보를 취득한 것으로 확인됐다. 또한 그룹 멤버들과 수시로 접촉할 수 있었고 업무 담당자들과도 밀접한 친분을 유지했다고 한다. 이런 방법으로 이 직원들은 총 2억3000만원의 손실을 줄인 것으로 드러났다.&lt;br&gt;&lt;br&gt;앞서 BTS는 지난해 6월 유튜브를 통해 “단체 활동을 잠정 중단하고 당분간 개별 활동에 돌입할 것”이라는 입장을 발표했고, 다음날 하이브 주가는 24.87% 급락, 시가 총액은 2조원 가까이 줄었다.&lt;br&gt;&lt;br&gt;다음 재판은 내달 26일 오후 2시 20분에 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>의학회·의대협회, 여야의정 협의체 참여키로</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/10/22/3WWR4KDUFRATDDM6BSWSGVD2VY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/22/3WWR4KDUFRATDDM6BSWSGVD2VY/</guid>
@@ -877,15 +899,6 @@
       <description/>
       <pubDate>Tue, 22 Oct 2024 02:23:32 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y7YVVLTJQJNHHMIZ42YUHZCCS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 대학병원에서 의료진이 이동하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한의학회가 한국의과대학·의학전문대학원협회(KAMC)와 함께 여야의정 협의체에 참여하기로 22일 결정했다.&lt;br&gt;&lt;br&gt;의료계에 따르면, 이진우 대한의학회 회장은 이날 학회 임원들에게 의정사태 해결을 위해 이같이 결정했다는 내용의 메시지를 보냈다.&lt;br&gt;&lt;br&gt;이 회장은 “전쟁 중에도 대화는 필요하다”며 협의체 참여 필요성을 강조했다. 그는 “그동안 의학회는 의협(대한의사협회) 중심의 하나된 목소리를 강조하며 힘을 보태왔으나 진전이 없는 상태였다”며 “전임 회장님들과 심도 깊게 논의했고, 운영위원회에서도 논의한 끝에 여야의정 협의체에 KAMC와 함께 참여하는 것으로 결정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이 회장은 “(대한의학회) 이사님들께 미리 말씀드리고 일일이 상의하지 못함을 죄송스럽게 생각한다”며 “의정 사태 해결을 위한 어려운 결정임을 이해해 주시고 지지해 주시기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJ66HEL2RNA5ZO4JESXP4SIYNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진우 대한의학회장. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 회장은 또 “이번 결정 이후 여러 가지 비난이나 의학회의 입장이 어려워질 수도 있음을 충분히 수백번 아니 수천번 고민한 후의 결정임을 다시 한번 말씀드린다”며 “부디 이번 결정을 통해 의정사태 해결의 한 알의 밀알이 되길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대전교도소 내 폭행사건…수감자 장 파열로 입원 치료</title>
-      <link>https://www.chosun.com/national/regional/2024/10/22/2FINB4CKVZHYZBQ2SI5PP2WKYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/22/2FINB4CKVZHYZBQ2SI5PP2WKYU/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Oct 2024 02:27:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5I22IJFYMILALF3PQSTZMQZQFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전교도소. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전교도소에서 폭행 사건이 발생해 50대 수감자가 내장 파열에 따른 복강내 출혈로 대학병원으로 응급 이송돼 치료를 받고 있는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;22일 대전교도소와 지역 의료계 등에 따르면 지난 18일 낮 12시쯤 대전교도소에 수감 중인 50대 A씨가 대전의 한 대학병원에 응급 이송됐다. A씨는 이송 당시 내장 파열로 복강내 출혈이 심한 상태였던 것으로 알려졌다. 이송된 병원에는 해당 응급치료가 가능한 의사가 없었던 터라 A씨는 다른 대학병원으로 이송돼 입원치료를 받고 있다.&lt;br&gt;&lt;br&gt;이에 앞서 대전교도소 내에서는 교정직원 등이 연루된 수감자 폭행 사건이 벌어진 것으로 전해졌다. 사건 발생 직후 교도소 측은 조사에 들어갔으며, 폭행 의혹이 제기된 해당 직원을 직무에서 배제했다.&lt;br&gt;&lt;br&gt;교도소 측은 “해당 사건과 관련해 대전지방교정청 광역특별수사팀이 A씨의 폭행 피해 주장과 발생 경위 등에 대해 엄중하게 조사 중”이라며 “구체적인 사건 경위에 대해선 현재 조사 중이라 밝히기 힘들다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>부산 공사현장서 건설자재 쓰러져 60대 근로자 숨져</title>
@@ -912,15 +925,6 @@
       <description>전국 흐리고 비</description>
       <pubDate>Mon, 21 Oct 2024 15:30:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SHMJIVFQHZBNTPNDF4LX46MMPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강북구도 하니 국정감사 조롱 논란… 결국 영상 비공개 처리</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/21/XR3MNKGC7FFFVMGJAS727IN5GY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/21/XR3MNKGC7FFFVMGJAS727IN5GY/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Oct 2024 14:03:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YIST6DZL6JHE5BSDJSMJN7P56I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강북구가 유튜브에 하니 국정감사를 패러디한 영상을 올렸다가 비공개 처리했다. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강북구가 걸그룹 뉴진스 하니의 국정감사를 패러디한 영상을 공식 유튜브 계정에 올렸다가 당사자를 조롱했다는 비난 속 비공개 처리하고 사과했다. 앞서 코미디 프로그램 ‘SNL코리아’도 비슷한 방식으로 국정감사 당시의 하니를 따라했다가 여론의 뭇매를 맞았다. &lt;br&gt;&lt;br&gt;강북구는 21일 유튜브 채널 게시물을 통해 “우선 강북구 유튜브 채널 내 영상으로 인해 많은 분들께 심려를 끼쳐 드린 점 깊이 사과드린다”며 “당초 제작 의도와 달리 외국인 차별 소재라는 많은 분들의 지적에 대한 우려와 염려를 겸허히 받아들여 해당 영상은 비공개 처리했다”고 했다.&lt;br&gt;&lt;br&gt;앞서 강북구는 지난 17일 지역 내 ‘한마음체육대회’를 홍보하기 위해 올린 영상에서 국정감사 당시 하니 모습을 패러디했다. 하니와 비슷한 스타일의 옷을 입은 여성이 ‘대회가 어디에서 열리는지 아시냐’는 질문을 받자, 더듬거리며 “강남구 한마음체육대회?”라고 말하는 모습이 연출됐다. &lt;br&gt;&lt;br&gt;이 모습이 일부 네티즌 사이에서는 베트남계 호주인인 하니가 국정감사에서 의원들의 질의를 잘 이해하지 못하는 모습을 조롱하는 것으로 읽혔다. 특히 영미권 국가에서 아시아인 등 비영어권 출신 외국인‧이민자의 발음을 지적하거나 무시하는 것은 전형적인 인종차별로 인식되기에 비판은 이어졌다. 한 네티즌은 강북구에 이 사안으로 민원을 제기한 화면을 캡처해 올리기도 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q7MGNAIV7FHXTJZYHI2LCAETIQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김의성, 지예은. 지난 19일 공개된 방송에서 각각 국감장에서 하니와 셀카를 찍어 논란을 빚었던 한화오션 사장과 참고인으로 출석한 하니를 연기했다.  /SNL코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이와 관련, 강북구는 “이번 영상으로 인해 불편함을 느끼셨을 모든 분들께 다시 한번 진심으로 사과드린다”며 “향후 콘텐츠 제작 과정에서 더욱 신중하게 고민하고 주의를 기울이도록 하겠다”고 했다. &lt;br&gt;&lt;br&gt;비슷한 논란은 지난 19일 공개된 쿠팡플레이 ‘SNL코리아 시즌6′에서도 불거졌다. 배우 지예은이 하니의 어눌한 발음을 흉내 낸 점이 문제가 됐다. 하니를 연기한 지예은 인스타그램에도 “하니는 그 누구보다 진지했다” 등 비판 댓글이 달렸다. 다만 일각에서는 “그냥 화제가 된 인물을 패러디한 것” 등 문제가 없다는 반응도 나왔다. &lt;br&gt;&lt;br&gt;한편 하니는 지난 15일 국회 환경노동위원회 국정감사에 연예 기획사 하이브 내 따돌림 문제로 국회 국정감사에 참고인으로 출석했다. 하니는 회사 내에서 부당하다고 느꼈던 경험 등을 털어놓으며 “선배든, 후배든, 동기들이든 지금 계신 연습생들도 이 일을 당하지 않았으면 좋겠다는 마음으로 나왔다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>빌라 주차장에 신발장·장롱·선반… “개인 창고냐” 입주민 분노</title>
