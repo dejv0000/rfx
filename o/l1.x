@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>檢, '김건희 여사 공천개입' 강혜경씨 소환조사</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/202283.jpg" alt="202283.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;'명태균 게이트'를 폭로한 강혜경씨가 23일 오전 경남 창원시 성산구 창원지검에 출석해 조사를 앞두고 입장을 밝히고 있다.《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;윤석열 대통령 부부가 불법 여론조사 제공의 대가로 김영선 전 국민의힘 의원에게 공천 특혜를 줬다는 의혹을 제기한 강혜경 씨가 검찰에 출석했다.&lt;p&gt;   &lt;br /&gt;강 씨는 23일 오전 10시부터 창원지검에 정치자금법 위반 혐의 피의자 신분으로 출석해 조사를 받고 있다.&lt;br /&gt;&lt;br /&gt;강 씨는 이날 청사로 들어가기 전 취재진에 "성실히 조사받고 오겠다"며 "대한민국 검사를 믿기 때문에 진실을 꼭 밝혀주실 거라 믿는다"고 말했다. 명 씨가 '김건희 여사에게 김 전 의원 공천을 받아주겠다고 한 것은 격려 차원이었다'고 주장한 데 대해 "격려 차원이 아니었다"고 반박했다. &lt;br /&gt;&lt;br /&gt;강 씨는 명태균 씨가 실운영했다고 알려진 여론조사 업체 미래한국연구소에서 일했다. 김 전 의원의 회계 담당 보좌진으로도 근무했다. 검찰은 이날 조사에서 강 씨를 상대로 확보한 자료를 확인할 것으로 보인다. &lt;br /&gt;&lt;br /&gt;앞서 강 씨는 21일 국회 법제사법위원회 국정감사에 증인으로 나와 지난 대선 당시 명 씨가 윤 대통령을 위해 3억 7500만 원어치의 여론조사를 해주고, 그 대가로 김 전 의원의 공천을 받았다고 주장했다. 공천 과정에 김 여사의 힘이 작용했다는 의혹도 제기했다. &lt;br /&gt;&lt;br /&gt;한편 이 사건을 수사하는 창원지검 형사4부(&lt;span style="font-weight: bold;" class="lawmanlink" serial="14244"&gt;김호경&amp;nbsp;&lt;/span&gt;부장검사)는 수사인력을 보강한 뒤 압수수색으로 확보한 자료를 분석하고 추가 자료를 확보하는 데 힘을 쏟고 있다. 수사팀은 17일 대검과 부산지검으로부터 검사 1명씩을 파견받았다. 수사팀은 지난달 30일 김 전 의원과 명 씨 등에 대한 압수수색을 한 뒤, 명 씨에 대해 추가 압수수색을 이어가고 있는 것으로 알려졌다. &lt;br /&gt;&lt;/p&gt;</description>
+			<pubDate>Wed, 23 Oct 2024 03:05:09 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/202283</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202283</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202283.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
 			<title>공수처, 하반기 검사 공개모집…부장검사 3명·평검사 4명</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/202279.jpg" alt="2.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;고위공직자범죄수사처&lt;/b&gt;(처장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2045"&gt;오동운&lt;/span&gt;)가 결원을 보충하기 위해 검사 7명을 공개 모집한다.&lt;br /&gt;&lt;br /&gt;공수처는 이달 28일부터 다음달 4일까지 부장검사 3명, 평검사 4명에 대한 2024년 하반기 검사 채용을 진행한다고 밝혔다.&lt;br /&gt;&lt;br /&gt;공수처법상 검사 정원은 25명이지만 현 인원은 18명에 불과하다. 결원인 7명에는 오는 27일 임기가 만료되는 검사 1명과 의원면직되거나 의원면직 예정인 검사 3명(부장검사 1명·평검사 2명) 등이 포함된다. &lt;br /&gt;&lt;br /&gt;공수처 설치 및 운영에 관한 법률에 따라 검사 임기는 3년이며 3회 연임 가능해 최대 12년까지 근무할 수 있다. 정년은 63세이다.&lt;br /&gt;&lt;br /&gt;부장검사 지원자는 변호사 자격 12년 이상, 평검사는 변호사 자격 7년 이상 보유해야 한다. 수사기관에서 근무하는 동안 3년 이상 실수사경력이 있는 경우 서류전형에서 우대한다.&lt;br /&gt;&lt;br /&gt;평검사의 경우 변호사 자격을 7년 이상 보유하면 되므로 변시 6회 합격자도 이번부터 지원이 가능하다.&lt;br /&gt;&lt;br /&gt;원서접수가 끝나면 서류전형과 면접시험이 진행된 뒤 인사위원회 추천 절차를 거쳐 대통령이 최종 임명한다. 특히 면접시험은 평검사에 한해 집단면접시간 확대 및 수사 관련 서류 작성 실습을 추가해 우수 인재 변별력을 확보할 계획이다. &lt;br /&gt;</description>
 			<pubDate>Wed, 23 Oct 2024 02:39:18 -0000</pubDate>
@@ -232,16 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202260</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/202260.png</media:thumbnail>
 			<dc:creator>안현 기자</dc:creator>
-		</item>
-		<item>
-			<title>김신 전 대법관, 동아대 로스쿨에 발전기금 기부</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/202257.jpg" alt="202257.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;김신(오른쪽) 석좌교수와 이해우 총장이 발전기금 기부 기념촬영을 하고 있다. 《사진출처=동아대학교》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;동아대학교(총장 이해우)는 21일 대법관 출신&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2995"&gt;김신&lt;/span&gt;(67·사법연수원 12기) 석좌교수가 법학전문대학원 발전기금으로 1000만 원을 기부했다고 밝혔다. 전달식은 지난 17일 동아대 부민캠퍼스 총장실에서 진행됐다.&lt;/p&gt;&lt;br /&gt;이번 기부는 김 교수의 두 번째 발전기금 기부로 2022년에도 1000만 원을 기부한 바 있다. &lt;br /&gt;&lt;br /&gt;김신 석좌교수는 "판사 시절 지금의 동아대 로스쿨 건물에서 근무했으며 대법관 퇴임 후 동아대에서 좋은 기회를 주셔서 학교에서 책 3권을 집필할 수 있었다"며 "로스쿨 구성원이 최선을 다하고 있기에 앞으로 동아대 로스쿨이 성장할 것이고 앞으로도 기여하겠다"고 말했다. &lt;br /&gt;&lt;br /&gt;이해우 총장은 "대법관 출신인 김신 석좌교수님의 존재는 학교로서 큰 영광이며 동아대 로스쿨은 변호사뿐 아니라 검사와 로클럭(재판연구원)을 꾸준히 배출하고, 글로컬대학에도 선정된 만큼 앞으로도 학교 발전을 위해 더욱 힘쓰겠다"고 덧붙였다.&lt;br /&gt;&lt;br /&gt;김신 석좌교수는 1980년 제22회 사법시험에 합격한 후 부산지방법원과 부산고등법원 판사, 울산지방법원 부장판사, 부산고등법원 수석부장판사, 울산지방법원장 등을 역임했다. &lt;br /&gt;&lt;br /&gt;이후 2012년부터 6년간 대법원 대법관으로 지내고 2018년 9월부터 동아대 석좌교수로 부임해 후학 양성에 힘쓰고 있다.&lt;br /&gt;</description>
-			<pubDate>Tue, 22 Oct 2024 05:15:53 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/202257</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202257</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202257.jpg</media:thumbnail>
-			<dc:creator>이진영 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
