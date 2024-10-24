@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>율희 “최민환 업소 출입, 내 가슴에 돈 꽂은 적도”…작심 폭로</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/25/HRAHTCHLLRAWLMHWUOV2SKDYBU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/25/HRAHTCHLLRAWLMHWUOV2SKDYBU/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Oct 2024 22:27:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZIGDGF3PUVBZNERZQ6EUZM626M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;라붐 출신 율희./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 라붐 출신 율희가 전 남편인 FT아일랜드 최민환이 결혼 기간 동안 유흥업소에 출입했다고 폭로하며 관련 녹취록을 공개했다.&lt;br&gt;&lt;br&gt;율희는 24일 밤 10시쯤 자신의 유튜브 채널 ‘율희의 집’에 ‘제목없음’이라는 제목의 영상을 게재했다. 이 영상에서 율희는 최근 TV조선 ‘나는 혼자다’ 출연 후 비난 여론이 늘어난 상황을 의식한 듯 이혼 전 최민환과 생긴 갈등에 대해 털어놨다.&lt;br&gt;&lt;br&gt;율희는 “소송이 아예 없었고 합의 이혼으로 정리가 됐기 때문에 누가 잘못했고 하는 걸 굳이 (이야기) 꺼내는 게 맞나 생각했다”고 했다. 이어 “‘사람들이 두 사람 간의 이야기를 다 몰라서 하는 얘기일 수 있으니까’ 하고 앞만 보기가 힘들더라”며 “내가 왜 이렇게 까지 비난을 받아야 할까 괜히 억울할 때도 있고 속상할 때도 있었다”고 했다.&lt;br&gt;&lt;br&gt;두 사람의 갈등이 깊어진 건 이혼하기 약 1년 전쯤으로, 율희는 최민환의 유흥업소 방문 사실을 알게 됐다고 주장했다.&lt;br&gt;&lt;br&gt;율희는 “큰 사건이 있었다. 그때를 기점으로 결혼 생활은 180도 달라졌다. 육아로 힘든 거나 다툰 건 괜찮고 견딜 수 있었다. 대가족으로 사는 것도 즐거웠는데 그 사건 이후 그 집에 있기 싫고 괴로웠다. 가족들 마주하는 것도 힘들었다”고 했다.&lt;br&gt;&lt;br&gt;그는 “(최민환이) 가족들 앞에서 제 몸을 만지거나, 술 취해서 제 가슴에 돈을 꽂는 일이 있었다”고 했다. 이어 “여동생 부부와 고스톱을 치며 술을 마시던 자리였고 시어머니는 설거지 중이었다. 갑자기 (최민환이) 잠옷 카라 가슴 쪽에 돈을 반 접어서 끼웠다. 내가 업소를 가봤겠나 뭘 알겠나. 나중에 그 사건을 알고 보니 습관이었던 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;이어 “시부모님 다 같이 있는데 중요 부위 만지고 가슴 쥐어뜯고 하는 게, 술 마셔서 애정표현이 격해진 건 줄 알았다”며 “(업소 출입) 퍼즐이 맞춰지니 이건 못 고치는구나 생각했고 어디다 얘기할 데도 없었다”고 토로했다.&lt;br&gt;&lt;br&gt;율희는 양육권을 포기한 배경에 대해서도 이야기 했다. 그는 “양육에 대한 건 별개라고 생각했다. 그 사람이 저질렀던 행동이 밉고 싫은 거랑 별개로 아이 아빠로서는 아이들에게 잘못한 게 없지 않느냐. 현실적으로 집도 있고, 대가족이 있고 아이들도 이 생활을 행복해하니까”라고 말했다.&lt;br&gt;&lt;br&gt;최민환의 유흥업소 방문 사실을 알게 된 뒤에는 아이들의 양육권을 가져올 계획이었다고 한다. 율희는 “그때 제시했던 돈이 5000만원에 양육비 월 200만원이었다”며 네 가족이 살기엔 현실적으로 부족한 금액이었다고 털어놨다. 그러면서 “아이를 데리고 나왔을 때 잘 챙겨서 나오려면 소송 밖에 없는데 너무 지쳐 있었다. 싸움할 여력조차 없었고 자문을 구할 만한 곳도 없었다”고 했다.&lt;br&gt;&lt;br&gt;이혼 전 채널A ‘오은영의 금쪽상담소’에 출연했던 방송 내용에 관련해서도 해명했다. 당시 최민환은 율희의 과도한 교육열에 대한 고민을 털어놨다. 율희가 아이들을 집에서 1시간30분 거리의 영어유치원을 보낸다거나, 교육비로 한달에 700만원 이상을 지출한다는 게 그의 고민이었다. 이에 두 사람의 이혼이 율희의 교육열과 사치 때문이라는 일각의 추측이 나오기도 했다.&lt;br&gt;&lt;br&gt;율희는 “영어유치원도 합의가 된 상태로 기분 좋게 다녔다. 거리도 그렇게 멀지 않았다. 부풀려서 나갔다”며 실제 거리는 8~9㎞였다고 주장했다. 교육비 문제에 대해서도 “둘 다 벌이가 있어서 가능했다. 생활비도 같이 부담을 하고 있었다. 유치원 비용에 대해서도 서로 문제를 제기한 적이 없었다”며 의도와는 다른 내용으로 방송이 나갔고, 이는 이혼사유가 아니라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V4S4WZMN3JBTTF3PFHUFS2BFAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;율희가 전 남편 최민환의 통화 녹취록을 공개했다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영상 말미에는 2022년 7월~8월 새벽 녹음된 최민환의 통화 녹취록을 공개하기도 했다. 녹취록에는 최민환이 새벽 시각 유흥업소 출입을 위해 대기하고 여성 접대부를 찾는 내용, 유흥비로 200여만원을 지출한 정황 등이 담겼다.&lt;br&gt;&lt;br&gt;2018년 결혼한 율희와 최민환은 슬하에 세 자녀를 뒀다. 방송을 통해 다복한 가족의 일상을 공개하기도 했으나 결혼 5년 만인 작년 12월 이혼했다. 양육권을 가진 최민환은 자녀들을 데리고 KBS2 ‘슈퍼맨이 돌아왔다’에 출연했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“변협의 로톡 변호사 징계 하자 없다”… 법원, 공정위 과징금 처분 뒤집어</title>
       <link>https://www.chosun.com/national/court_law/2024/10/25/TT7MWHYQLJAXRKS6XCB5ZFQ6NM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/25/TT7MWHYQLJAXRKS6XCB5ZFQ6NM/</guid>
@@ -748,15 +757,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/6TEX346GHJDTFFW435PO76JXMU.png?width=870&amp;height=526&amp;auth=5ff71c4fd7134e8f9fabee928196ecab0d057aa14fb4d018d8ce72ece4fe9b88&amp;smart=true" type="image/png" height="526" width="870">
         <media:description type="plain">이지현이 국수집에서 아르바이트 체험을 하고 있다./유튜브</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>의사에 위반행위 자백 강요한 보건소...인권위 “절차 시정하라”</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/24/LEUVIQYADRBMDPCQW4WFQYQONE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/24/LEUVIQYADRBMDPCQW4WFQYQONE/</guid>
-      <dc:creator>김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Oct 2024 04:32:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QEHCMCTHAZCHVCZXOZDU6QYZYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가인권위원회. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회가 행정 조사 과정에서 대상자에게 위반 행위를 인정하라고 강요한 것은 인권 침해라는 판단을 내놨다.&lt;br&gt;&lt;br&gt;인권위는 지난 6월 탈모예방제를 구입해 복용한 치과의사 A씨가 의료법 위반 자백을 강요받은 사건에 대해 인권침해가 맞는다고 판단했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;인권위에 따르면 보건소 직원 B, C씨는 A씨가 구입해 자가복용한 탈모치료제를 문제 삼았다. 전문의약품을 구입한 후 적법한 절차를 따르지 않았다는 것이다. A씨는 탈모예방제를 다른 환자에게 처방한 것이 아니므로 진료 기록부는 기록하지 않았고, 구입한 형태 그대로 복용했으므로 의약품 조제를 하지도 않았다고 진술했다.&lt;br&gt;&lt;br&gt;특별사법경찰관을 겸임하고 있는 보건소 직원은 A씨에게 조사 사실을 통보한 후, 변호사가 동석해도 되냐는 A씨의 질문에 “확인서를 받는 것뿐이니 변호사가 함께할 필요가 없다”고 답했다. 그러나 A씨 병원 내방 시 보건소 직원들은 A씨에게 의료법 위반 사실을 확인하는 서류에 서명하라고 강요하고, 불리한 진술을 거부할 권리도 설명하지 않았다고 한다.&lt;br&gt;&lt;br&gt;B, C씨는 이후 의료행위, 진료기록부 미작성, 전문의약품 조제 행위를 했다며 A씨를 검찰에 넘겼다. 검찰은 A씨를 기소하지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;인권위는 보건소 직원인 B, C씨가 본인들이 행정조사 중인지, 범죄수사 중인지 명확히 판단하지 못한 태도를 보인 탓에 A씨가 적절한 방어권을 행사하기 어려웠다고 봤다. 그러면서 해당 지자체에 조사 시 절차를 마련하고 ‘행정조사기본법’을 준수해 불리한 진술을 강요하는 확인서에 서명 요구하는 등의 조사 관행을 개선하라고 권고했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>문체부와 축구협회 카르텔 의혹 제기에 유인촌 장관 “용납 못한다”</title>
