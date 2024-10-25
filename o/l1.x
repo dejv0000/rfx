@@ -6,6 +6,36 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>박근혜 전 대통령 탄핵 대리인 조원룡 변호사, 공탁금 편취 혐의로 변협 제명</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/202369.jpg" alt="202369.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;조원룡 변호사 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p style="text-align: center;"&gt;&lt;br /&gt;&lt;/p&gt;박근혜 전 대통령 탄핵 심판 대리인을 맡았던&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="16249"&gt;조원룡&lt;span style="font-weight: 400;"&gt;(63·사법연수원 38기)&lt;/span&gt;&amp;nbsp;&lt;/span&gt;변호사가 의뢰인에게 받은 공탁금을 가로챈 혐의로 대한변호사협회로부터 제명됐다. 조 변호사는 사망한 사무장이 저지른 일이라고 해명했으나 변협 징계위원회는 성실의무 및 품위유지의무 위반 혐의로 지난 21일 제명을 의결했다.&lt;br /&gt;&lt;br /&gt;제명은 영구 제명 다음으로 강력한 처분으로 변호사법 제90조에 따르면 변호사 징계는 △영구 제명 △제명 △3년 이하 정직 △3000만 원 이하의 과태료 △견책으로 구분된다.&lt;br /&gt;&lt;br /&gt;조 변호사는 2020년 소유권이전등기 말소 소송을 의뢰받은 의뢰인에게 '매수인에게 받은 중도금 1억 6000만 원을 공탁해야 한다'고 안내했으나 실제로는 해당 금액을 공탁하지 않고 8000만 원은 개인적으로, 나머지 8000만 원은 사무장이 사용한 것으로 조사됐다. 이후 의뢰인에게 돈을 돌려주겠다고 약속했으나 이행하지 않았다. 다른 의뢰인과의 상담 중 반말과 욕설을 한 혐의도 추가로 적용됐다. &lt;br /&gt;&lt;br /&gt;조 변호사는 변협의 소명 요청에 응하지 않은 것으로 전해졌다.&lt;br /&gt;&lt;br /&gt;그밖에도 조 변호사는 폭행, 부적절한 발언, 대여금 미변제, 수임료 미반환 및 사건 미진행 등 변호사로서의 의무를 다하지 않아 5차례 징계를 받은 전력이 있다. 2023년에는 ‘포항 지진 피해 소송’ 인지대 명목으로 전직 기업인에게서 7억 원을 빌린 뒤 갚지 않아 사기 혐의로 징역 3년의 실형을 선고받은 바 있다. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;</description>
+			<pubDate>Fri, 25 Oct 2024 04:10:38 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/202369</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202369</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202369.jpg</media:thumbnail>
+			<dc:creator>이진영 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] '한동훈 허위사실 유포' 황희석 전 위원...대법원 "벌금 500만 원 확정</title>
+			<description>&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;img src="https://image.lawtimes.co.kr/thumb/180/202365.jpg" alt="202365.jpg" style="width: 600px; height: auto;" /&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;황희석 전 법무부 인권국장《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5077"&gt;한동훈&lt;/span&gt;(51·사법연수원 27기) 국민의힘 대표를 겨냥해 '노무현재단 계좌 추적' 의혹을 제기한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4500"&gt;황희석&lt;/span&gt;(58·31기) 전 열린민주당 최고위원에게 벌금 500만 원이 확정됐다.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;대법원 형사1부&lt;/b&gt;(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5554"&gt;서경환&amp;nbsp;&lt;/span&gt;대법관)는 25일 정보통신망법상 명예훼손 혐의로 기소된 황 전 위원에게 벌금 500만 원을 선고한 원심을 확정했다(&lt;b&gt;2024도11594&lt;/b&gt;). &lt;br /&gt;&lt;br /&gt;황 전 위원은 2021년 11월 TBS 유튜브 채널 '국회 앞 유정다방'에 출연해 "(검찰이) 2019년 9∼10월 노무현재단 계좌 추적으로 거래내역을 다 열어봤다"며 "유시민 전 노무현 재단 이사장을 잡으려고 채널A 기자와 정보를 공유해 소위 검언유착했다"고 주장했다.&lt;br /&gt;&lt;br /&gt;2019년 당시 전국 특별수사를 지휘하는 대검 반부패·강력부장이던 한 대표는 황 전 최고위원의 주장에 대해 "노무현재단이나 유 전 이사장의 계좌를 추적한 적이 없다"며 고소했다.&lt;br /&gt;&lt;br /&gt;1심은 황 전 위원의 발언이 한 대표의 명예를 훼손했다고 판단해 벌금 500만 원을 선고했다. &lt;br /&gt;&lt;br /&gt;1심은 "발언 내용이 시간적·공간적으로 구체적 사실을 포함하고 있고, 단정적 표현을 하거나 당연한 전제 사실인 듯 말했다"며 "단순한 의견 표명 또는 의혹 제기라고 보기 어렵다"고 판단했다.&lt;br /&gt;&lt;br /&gt;항소심도 황 전 위원의 항소를 기각하고 그의 명예훼손 혐의를 유죄로 인정했다.&lt;br /&gt;&lt;br /&gt;항소심은 "발언이 이루어진 시점에 이미 객관적으로 밝혀진 사정 등에 비춰 볼 때 황 전 위원에게 허위 사실의 인식이 있어 보인다"고 설명했다.&lt;br /&gt;&lt;br /&gt;황 전 위원은 불복해 상고했으나, 대법원도 "원심 판단은 논리와 경험의 법칙에 위배되지 않으며, 정보통신망법상 명예훼손죄의 성립에 관한 법리를 오해한 잘못이 없다"면서 판결을 그대로 확정했다.&lt;br /&gt;&lt;br /&gt;황 전 최고위원에 앞서 같은 의혹을 제기했던 유 전 이사장도 재판에 넘겨져 지난 6월 대법원에서 벌금 500만원이 확정됐다(2024도841). &lt;br /&gt;</description>
+			<pubDate>Fri, 25 Oct 2024 04:10:00 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/202365</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202365</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202365.jpg</media:thumbnail>
+			<dc:creator>이순규 기자</dc:creator>
+		</item>
+		<item>
+			<title>이세원 서화담 변호사, 송무 업무툴 '리우(LIU)' 특허 결정</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/202364.jpg" alt="202364.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;이세원 변호사&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;현직 변호사가 출원한 송무 업무 자동화 프로그램이 21일 특허청으로부터 특허 결정을 받았다. 바로&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15613"&gt;이세원&lt;/span&gt;(49·사법연수원 37기) 법률사무소 서화담 대표변호사가 지난해 9월 출원한 송무 업무 자동화 프로그램 '리우(LIU)'다.&lt;br /&gt;&lt;br /&gt;리우는 법원에서 사건 관련 알림이 도착하면 이를 의뢰인에게 자동으로 이메일로 전달하는 프로그램이다. 대법원 사이트에서 문건을 자동으로 추출해 로펌 내부 시스템에 저장·출력하며, 관련 사건의 기일도 캘린더에 자동으로 반영한다. 소송 문건을 실시간으로 송달하고 전송할 수 있는 기능도 갖췄다.&lt;br /&gt;&lt;br /&gt;리우는 외부 서버가 아닌, 주식회사 황지엔의 서버 또는 클라우드를 활용해 설치하여 로펌 내부에서만 이용할 수 있다는 점이 특징이다. 독립성을 보장함으로써 외부로 데이터가 유출되지 않도록 설계해 보안성을 높였다.&lt;br /&gt;&lt;br /&gt;이 변호사는 2020년 리우의 구상을 시작해 2022년 삼성 SDS를 통해 외주 개발을 의뢰, 2023년 2월 최종 개발을 마쳤다.&lt;br /&gt;&lt;br /&gt;그는 "법조는 IT와 관련돼 보수적인 성향이 있어 새로운 기술 도입에 대해 주저하는 경향이 있어 조직 내 자동화 프로그램 도입을 두려워하는 분들도 있는 것 같다"며 "하지만 IT 기술이 법률 서비스의 질을 높이고, 반복적인 업무를 줄여 핵심적인 법률 업무에 더 집중할 수 있게 돕는 만큼 인식의 전환이 필요하다"고 말했다. &lt;br /&gt;&lt;br /&gt;이어 "리우뿐 아니라 다양한 측면에서 업무 효율성을 높일 수 있는 방법이 많다"며 "기술을 잘 활용하면 더 나은 법률 서비스를 제공할 수 있다"고 덧붙였다.&lt;br /&gt;&lt;br /&gt;이세원 변호사는 서울 용산고와 서울대 공법학과를 졸업해 2003년 제45회 사법시험에 합격했다. 그는 2010년 삼성전자 법무팀과 인사팀에서 선임변호사로 활동했다. 2018년부터 법무법인 서화담 변호사로 활동하고 있다. &lt;br /&gt;이 변호사는 2022년 12월 중순부터 다음 해 1월까지 법률신문에 '변호사 사무실 경영의 오답노트' 칼럼을 3회에 연재하기도 했다.</description>
+			<pubDate>Fri, 25 Oct 2024 04:00:09 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/202364</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202364</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202364.jpg</media:thumbnail>
+			<dc:creator>안현 기자</dc:creator>
+		</item>
+		<item>
 			<title>한국외대 공익활동법센터, '공익활동과 법, 현황과 지향점' 학술대회 내달 15일 개최</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/202363.jpg" alt="202363.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;한국외대 법학연구소 공익활동법센터(센터장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13524"&gt;장보은&lt;/span&gt;)는 11월 15일 14시부터 서울 영등포구 국회 의원회관 2층 3세미나실에서 '공익활동과 법, 현황과 지향점'을 주제로 학술대회를 개최한다. &lt;br /&gt;&lt;br /&gt;이번 행사는 한국외대 법학연구소 공익활동법센터가 주관하고,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13313"&gt;박주민&lt;/span&gt;(51·사법연수원 35기)·정태호·윤건영·&lt;span style="font-weight: bold;" class="lawmanlink" serial="1795"&gt;김한규&lt;/span&gt;(50·31기) 더불어민주당 의원과 이인선·조은희 국민의힘 의원이 주최한다.&lt;br /&gt;&lt;br /&gt;사회는 김스지 법무법인 디케이 변호사가 맡았고, 최승필 한국외대 법학전문소장과 주최 의원들이 축사한다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13524"&gt;장보은&lt;/span&gt;(44·35기) 센터장의 개회사로 시작되는 이번 학술대회는 △비영리재단의 운영(김정연 이화여대 로스쿨 교수) △공익법인 과세제도 변화의 필요성(김일석 한국공익법인협회 상임이사) △개정 기부금품법의 내용 및 발전 방향(이희숙 재단법인 동천 변호사)에 관한 주제를 다룬다.&lt;br /&gt;&lt;br /&gt;종합토론에는 김진아 아름다운재단 사무총장, 박동순 YMCA사무국장, 황신애 한국모금가협회 상임이사, 최호윤 회계법인 더함 회계사, 박지훈 기획재정부 과장이 참여한다.&lt;br /&gt;&lt;br /&gt;한국외대 공익활동법센터는 민간공익활동에 관한 국내외 법 제도를 연구하고 발전방안을 제시해 민간공익활동 증진에 기여하기 위해 설립됐다.&lt;br /&gt;&lt;br /&gt;별도의 참가비는 없으며 학술대회 관련 문의는 이메일(&lt;a href="mailto=npolaw@naver.com" target="_blank"&gt;&lt;b&gt;npolaw@naver.com&lt;/b&gt;&lt;/a&gt;)로 하면 된다.</description>
 			<pubDate>Fri, 25 Oct 2024 02:35:36 -0000</pubDate>
@@ -212,34 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202324</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202324.jpg</media:thumbnail>
 			<dc:creator>이진영 기자</dc:creator>
-		</item>
-		<item>
-			<title>노소영 아트센터 나비, SK사옥서 퇴거</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;br /&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/202321.jpg" alt="202321.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size: 14px; line-height: 1.6em;"&gt;지난 6월 21일 SK본사 서린빌딩 내 위치해 있던 아트센터 나비 모습.《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;span style="text-align: center;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;최태원 SK그룹 회장과 이혼 소송 중인 노소영 아트센터 나비 관장이 운영하는 미술관이 SK서린빌딩에서 조용히 퇴거했다.&lt;br /&gt;&lt;br /&gt;24일 재계 등에 따르면 아트센터 나비는 최근 서울 종로구 SK서린빌딩 4층에서 퇴거했다. 아트센터 나비는 국내 모처로 이전한 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;아트센터 나비는 2000년 12월 서린빌딩 4층에 입주했다. SK서린빌딩에는 SK그룹 계열사들이 대거 입주해 있고, SK그룹의 실질적인 본사 역할을 한다.&lt;br /&gt;&lt;br /&gt;앞서 건물을 관리하는 SK이노베이션은 아트센터 나비와의 계약이 2019년 종료됐다며 지난해 4월 소송을 제기했다. &lt;br /&gt;&lt;br /&gt;지난 6월 법원은 아트센터 나비가 퇴거해야 한다고 판결했다. &lt;br /&gt;&lt;br /&gt;당시 서울중앙지법 민사36단독&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8193"&gt;이재은&amp;nbsp;&lt;/span&gt;부장판사는 SK이노베이션이 아트센터 나비 미술관을 상대로 낸 부동산 인도 등 청구소송(&lt;b&gt;2023가단5130890&lt;/b&gt;)에서 "아트센터 나비는 SK이노베이션에게 이 사건 부동산을 인도하고, 10억4560만 원을 지급하라"며 원고 일부승소 판결했다. 이 부장판사는 "SK이노베이션이 계약에 정한 날짜에 따라 적법하게 계약이 해지됐으므로 아트센터 나비는 목적물(부동산)을 인도해야 한다"고 밝혔다. 이 부장판사는 노 관장의 이혼 소송과 불가분의 관계에 있어 이혼 소송의 종국 판단을 기다려야 한다는 아트센터 나비 주장에 대해서도 "특수성이 있다고 할 수 없다"며 받아들이지 않았다.&lt;br /&gt;&lt;br /&gt;1심에서 패소한 아트센터 나비 미술관 측이 항소하지 않기로 하면서 판결은 그대로 확정됐다.&lt;br /&gt;</description>
-			<pubDate>Thu, 24 Oct 2024 02:27:51 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/202321</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202321</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202321.jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>트리니티·한앤박 "한국과 미국의 상속 증여, 차이를 알면 답이 보인다" 세미나</title>
-			<description>상속·증여 문제를 겪는 한국계 미국인 등 이민자를 위해 한·미 양국 로펌이 합동 세미나를 열었다. &lt;br /&gt;&lt;br /&gt;법무법인 트리니티는 23일 서울 강남구 그랜드 인터컨티넨탈 서울 파르나스 메이플룸에서 미국 상속·증여 전문 로펌 한앤박 법률그룹(HAN&amp;PARK LAW GROUP)과 '한국과 미국의 상속 증여, 차이를 알면 답이 보인다'를 주제로 출판 기념 세미나를 공동주최했다. &lt;br /&gt;&lt;br /&gt;이날 세미나는 한국계 미국인 등 한국과 미국을 오가며 생활하는 이민자와 그 가족들이 겪는 상속, 증여, 신탁 관련 문제를 다루기 위해 마련됐다. &lt;br /&gt;&lt;br /&gt;세미나 발표는 ≪한국과 미국의 상속 증여, 차이를 알면 답이 보인다≫의 공동저자인 김상훈 트리니티 대표변호사와 HAN&amp;PARK LAW GROUP 박유진·박하얀 미국변호사(캘리포니아주)가 맡았다. &lt;br /&gt;&lt;br /&gt;이날 '한국의 상속증여'를 주제로 강연한 김상훈 대표변호사는 "미국 상속법과 한국 상속법의 가장 큰 차이점은 유류분 제도"라며 "상속·증여세와 달리 상속법 적용은 국적에 따라 결정된다"고 말했다. &lt;br /&gt;&lt;br /&gt;HAN&amp;PARK LAW GROUP 대표인 박유진 미국변호사는 "미국의 이민 문제는 상속·증여 문제로 연결되기도 한다"며 "미국 상속·증여세의 특징은 면제액 혜택이 크다는 것"이라고 설명했다. 다만 "세율은 공화당, 민주당 정부에 따라 바뀌기도 한다"고 덧붙였다.   &lt;br /&gt;&lt;br /&gt;HAN&amp;PARK LAW GROUP 서울사무소 대표 박하얀 미국변호사는 "미국에선 신탁이 상속과 증여 절세를 위한 유용한 제도"라며 "특히 비거주 외국인도 이를 활용할 수 있다"고 말했다. &lt;br /&gt;&lt;br /&gt;김 대표변호사는 한국상속신탁학회장과 법무부 상속법·가사소송법 개정위원회 위원을 맡았다. 지난해에는 대한변호사협회의 우수변호사상을 수상했다. 박하얀 서울사무소 대표는 한림대 미국법학과 겸임 교수를 역임하고 있다. &lt;br /&gt;&lt;br /&gt;이번 출판기념 합동 세미나는 이날을 시작으로 총 세 차례에 걸쳐 열린다. 2차 세미나는 다음 달 3일 오후 2시 미국 LA 옥스포드팔라스호텔에서, 3차는 5일 부에나파크 로스코요테컨트리 클럽에서 진행된다.</description>
-			<pubDate>Thu, 24 Oct 2024 00:23:26 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/202305</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202305</guid>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>【오늘의 국회일정】 2024년 10월 24일</title>
-			<description>&lt;b&gt;◇ 국회의장&lt;/b&gt;&lt;br /&gt;08:30 2024년 제15회 아시아미래포럼(대한상공회의소 지하2층 국제회의장)&lt;br /&gt;&lt;br /&gt;09:10 2024 뉴시스 포럼-10년 후 한국(포시즌호텔 3층 그랜드볼룸)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 국정감사&lt;/b&gt;&lt;br /&gt;09:30 국방위원회 국정감사(본관 419호)&lt;br /&gt;&lt;br /&gt;10:00 정무위원회 국정감사(본관 604호)&lt;br /&gt;&lt;br /&gt;10:00 기획재정위원회 국정감사(한국은행 대구경북본부, 광주지방국세청)&lt;br /&gt;&lt;br /&gt;10:00 교육위원회 국정감사(본관 522호)&lt;br /&gt;&lt;br /&gt;10:00 과학기술정보방송통신위원회 국정감사(본관 627호)&lt;br /&gt;&lt;br /&gt;10:00 외교통일위원회 국정감사(본관 401호)&lt;br /&gt;&lt;br /&gt;10:00 문화체육관광위원회 국정감사(본관 506호)&lt;br /&gt;&lt;br /&gt;10:00 농림축산식품해양수산위원회 국정감사(본관 501호)&lt;br /&gt;&lt;br /&gt;10:00 산업통상자원중소벤처기업위원회 국정감사(본관 534호)&lt;br /&gt;&lt;br /&gt;10:00 환경노동위원회 국정감사(본관 622호)&lt;br /&gt;&lt;br /&gt;10:00 국토교통위원회 국정감사(본관 529호)&lt;br /&gt;&lt;br /&gt;15:00 법제사법위원회 국정감사(감사원)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 의원실 세미나&lt;/b&gt;&lt;br /&gt;14:00 어기구 의원실 등, 석탄발전소 폐쇄 부지의 활용과 정의로운 전환 연구 발표회(의원회관 제3세미나실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 소통관 기자회견&lt;/b&gt;&lt;br /&gt;09:00 강경숙 의원, [국가교육위원회 관련 설문 발표 기자회견]&lt;br /&gt;&lt;br /&gt;09:40 이학영 의원, [신규댐 추진 규탄을 위한 주민대책위원회 기자회견]&lt;br /&gt;&lt;br /&gt;13:20 강득구 의원, [환경부 기후대응댐 정책 규탄 기자회견]&lt;br /&gt;&lt;br /&gt;13:40 강승규 의원, [북한군 해외파병 규탄 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
-			<pubDate>Wed, 23 Oct 2024 22:37:46 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/202303</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202303</guid>
-			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
