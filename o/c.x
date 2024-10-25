@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 검찰, ‘尹 불법 여론조사 의혹’ 업체 대표 압수수색</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/25/3BPTS3NIANB6LLQCGUXVGBGHSM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/25/3BPTS3NIANB6LLQCGUXVGBGHSM/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 25 Oct 2024 04:51:54 +0000</pubDate>
+      <content:encoded>정치 브로커 명태균씨의 ‘여론조사 비용 불법 조달 의혹’을 수사하는 검찰이 25일 명씨가 실질적으로 운영한 여론조사업체 대표를 압수수색 했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 창원지검 형사4부(부장 김호경)는 이날 오전 미래한국연구소 소장 김모씨의 자택과 사무실 등을 압수수색했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WD7S4T5PTZH4BNMYWSEG6GHVSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'불법 여론조사 의혹'의 핵심 인물인 명태균씨, /페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김씨는 김영선 전 의원의 친인척이며 16·17대 국회에서 김 전 의원의 보좌관으로도 근무했었다. 김씨는 미래한국연구소의 대표이사로 등기돼 있지만 언론에는 “실소유주는 명씨이고 나는 이름만 빌려준 것”이라고 해왔다. 반면 명씨는 “미래한국연구소는 나와 관련 없다”는 입장이다.&lt;br&gt;&lt;br&gt;창원지검은 미래한국연구소가 지난 대선 당시 윤석열 후보를 위해 ‘맞춤형 여론조사’를 실시했고, 명씨가 그 대가로 김영선 전 의원의 공천을 받아냈다는 의혹을 수사 중이다. 미래한국연구소가 지난 대선 당시 80여차례에 걸쳐 3억7500만원 상당의 공표·미공표 여론조사를 실시해 윤석열 캠프에 제공했고, 그중 일부는 결과를 왜곡하기도 했다는 내용이다.&lt;br&gt;&lt;br&gt;이 의혹의 제보자인 강혜경씨는 “국민의힘 지방선거 예비후보들이 여론조사 비용 2억2700만원을 대납했다”고 주장하고 있다. 명씨가 두 명의 예비후보에게 공천을 미끼로 여론조사 비용 대납을 요구했다는 것이다. 또 이들이 공천을 받지 못하자 돈을 돌려달라고 했는데, 김 전 의원이 보궐 선거에서 당선된 후 선관위에서 받은 선거 보전금으로 일부를 갚아줬다는 것이 강씨 주장이다. 강씨는 미래한국연구소 부소장을 지냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VUNWSXGBXBLFNGAXLUMLTOFA2U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사의 공천 개입 의혹과 명태균씨 여론조사 비용 불법 조달 의혹을 제기한 강혜경 씨가 23일 창원지방검찰청으로 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;창원지검은 지난 23일 강씨를 소환해 조사한 데 이어, 지난 24일에는 김 전 의원의 현역 시절 보좌관과 선임비서관, 수행비서 등 3명을 참고인 신분으로 조사했다.&lt;br&gt;&lt;br&gt;본지는 김씨 입장을 듣기 위해 연락을 시도했지만 휴대전화가 꺼져 있었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘코로나 동선 거짓 진술’ 백경현 구리시장...2심서 무죄</title>
+      <link>https://www.chosun.com/national/incident/2024/10/25/EDKXBYWK4VF35GMC4RKQVBRBAU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/25/EDKXBYWK4VF35GMC4RKQVBRBAU/</guid>
+      <dc:creator>의정부=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 25 Oct 2024 04:07:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CSE5WEUQ7NO4VEXT3M25N2RI24.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;백경현 경기 구리시장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코로나19에 확진된 뒤 동선을 거짓 진술한 혐의로 1심에서 벌금형을 선고받은 백경현 경기 구리시장이 항소심에서는 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;의정부지법 형사3부(재판장 이성균)는 감염병 예방·관리에 관한 법률 위반 혐의로 기소된 백 시장에 대한 항소심에서 벌금 1000만원을 선고한 원심을 파기하고 무죄를 선고했다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “당시 피고인을 역학조사한 군인은 역학조사 반원으로서 임명 또는 위촉된 것으로 볼 별다른 자료가 있지는 않다”며 “그동안 특전사, 작전 훈련 등 의료 방역 역학조사와 무관한 임무를 수행하였고, 역학조사와 관련된 학위나 자격 등을 보유하지 않아 감염병예방법이 요구하는 사항을 충족하고 있지 않다”고 판단했다.&lt;br&gt;&lt;br&gt;이어 “이 사건 역학조사는 감염병예방법 등에서 정한 방법에 의해서 적법하게 실시됐다고 볼 수 없다”며 “유죄 부분에 대한 피고인의 항소는 이유가 있어 원심 판결을 파기하기로 한다”고 무죄 선고 이유를 밝혔다.&lt;br&gt;&lt;br&gt;백 시장은 지난 2021년 12월 코로나19 확진 판정을 받은 뒤 역학조사 때 동선을 속인 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;1심 재판부는 “거짓 진술이 명백하고 고의가 인정되는 데도 피고인은 납득하기 어려운 변명으로 일관한다”며 벌금 1000만원을 선고했다.&lt;br&gt;&lt;br&gt;백 시장은 재판에서 “구리시가 정식으로 역학조사관으로 위촉하지 않은 A씨가 조사를 했다”며 무죄를 주장하며 항소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>32세에 ‘일용엄니’, 손맛으로 예능 점령... 故 김수미는?</title>
+      <link>https://www.chosun.com/national/people/2024/10/25/7SX74PJOGZGPNDIKJJSN2R73UI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/25/7SX74PJOGZGPNDIKJJSN2R73UI/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 25 Oct 2024 03:27:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XHF64XC3JJEI3ICP77JBS7QY2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김수미가 지난 2015년 1월 29일 서울 강남구 신사동 CGV 압구정에서 열린 영화 '헬머니' 제작보고회에서 미소를 짓고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 최장수 드라마 ‘전원일기’에서 ‘일용 엄니’로 사랑받았던 배우 김수미(75)는 드라마·영화뿐만 아니라 다수 예능 프로그램에도 종횡무진하며 늘 시청자 곁을 지켰다. 젊은 나이에 시골 할머니 역(전원일기)을 맡아 배우의 면모를 보여줬고, 욕쟁이 할머니(헬머니), 노총각의 어머니(맨발의 기봉이), 처녀 유령(안녕 프란체스카) 등 다양한 배역을 맡으며 다채로운 연기를 선보였다.&lt;br&gt;&lt;br&gt;25일 배우 김수미(본명 김영옥)가 75세의 나이로 별세했다. 김수미는 이날 오전 8시 8분쯤 심정지 상태로 서울성모병원에 이송됐으며, 스트레스로 인한 고혈당 쇼크사로 추정되고 있다. 김수미의 빈소는 한양대병원 장례식장에 마련될 예정이다. 올해 5월까지 뮤지컬 ‘친정엄마’로 무대에 올랐던 그는 건강 악화로 인해 지난 5월과 7월 병원에 입원하며 활동을 잠정 중단했다.&lt;br&gt;&lt;br&gt;김수미는 1949년 전북 군산에서 태어나 1970년 MBC 3기 공채 탤런트로 데뷔했다. 드라마 ‘수사반장’(1971)으로 처음 연기를 시작했지만 한동안 무명 시절을 보냈다. 대표작인 ‘전원일기(1980~2002)’에서 ‘일용 엄니’ 역으로 주목받기 시작했다. 당시 그는 32세의 나이로 시골 할머니 역을 맡았는데 아들 일용이(박은수 분)보다 어린 나이로 배역을 소화했다. ‘둘이 사는 역할’이라는 말만 듣고 일용의 아내를 맡을 줄 알았는데, 대본을 받아 보니 엄마 역할이었다는 일화가 유명하다. 이후 ‘전원일기’와 ‘남자의 계절’(1985)로 MBC 연기대상 대상을 수상했다.&lt;br&gt;&lt;br&gt;이어 ‘마당 깊은 집(1990), ‘젊은이의 양지’(1995) ‘파랑새는 있다’(1997) 등 다수의 작품에 출연했고, ‘발리에서 생긴 일’(2004)에서는 정재민(조인성 분)의 모친 송희숙 역을 맡아 강렬한 인상을 남겼다. ‘안녕, 프란체스카’(2005)에서는 카사노바에게 온몸의 정기를 뺏겨 졸지에 50대 중년 여성이 된 ‘처녀 유령’ 이사벨로 웃음을 선사했다. 이후에도 ‘돈의 화신’(2013) ‘전설의 마녀’(2014) ‘언니는 살아있다!’(2017) 등 다수 드라마를 통해 시청자를 만났다.&lt;br&gt;&lt;br&gt;스크린에서도 활약했다. 대표작으로는 시리즈물 ‘마파도’(2005) ‘마파도2′(2007), ‘가문의 위기-가문의 영광2′(2005) ‘가문의 부활-가문의 영광3′(2006) ‘가문의 영광4-가문의 수난’(2011) ‘가문의 영광: 리턴즈’(2023) 등이 있다. ‘간 큰 가족’(2005) ‘맨발의 기봉이’(2006) ‘위험한 상견례’(2011) ‘위험한 상견례2′(2015) ‘전국 노래자랑’(2013) 등에도 출연했다. 김수미는 다수 작품에서 맛깔나는 욕설 연기를 소화했는데, ‘헬머니’(2014)에서는 주연을 맡아 욕배틀을 벌이는 욕쟁이 할머니로 분했다.&lt;br&gt;&lt;br&gt;김수미는 예능에서도 주목받았다. 뛰어난 요리 솜씨로 자신의 요리 노하우를 선보인 tvN ‘수미네 반찬’ 시리즈로 인기를 얻었고, KBS 2TV ‘수미산장’, SBS 플러스 ‘밥은 먹고 다니냐’ 등에서도 활약했다. 최근까지 tvN STORY ‘회장님네 사람들’에도 출연하며 꾸준히 대중을 만나왔다. 며느리인 배우 서효림과도 예능에 함께 출연해 애틋한 고부 관계를 보여줬다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>노소영 관장 개인 자금 등 21억 빼돌린 전 비서, 징역 5년</title>
       <link>https://www.chosun.com/national/national_general/2024/10/25/HP5MLSTW6RAZJKGCUBVFQW6J7E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/25/HP5MLSTW6RAZJKGCUBVFQW6J7E/</guid>
@@ -826,33 +853,6 @@
       <description/>
       <pubDate>Thu, 24 Oct 2024 06:39:35 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EGJMJ4DE3RGTBZHJBYV53OKXQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김어준씨가 2022년 12월 7일 오전 서초구 서울고등법원에서 열린 선거법 위반 관련 공판에 출석하고 있는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시의회가 다음달 진행할 행정사무감사에 김어준씨, 신장식 의원 등을 증인으로 부른다.&lt;br&gt;&lt;br&gt;서울시의회 문화체육관광위원회는 24일 오후 회의를 열고 행정사무감사 증인으로 TBS 프로그램을 진행했던 김어준씨·신장식 의원·주진우씨 등 25명을 채택했다. 폐국 위기에 처한 TBS에 대한 책임을 묻겠다는 취지다.&lt;br&gt;&lt;br&gt;지방자치법에 따르면 증인이 정당한 사유없이 출석하지 않으면 500만원 이하의 과태료를 부과할 수 있다.&lt;br&gt;&lt;br&gt;TBS는 지난달 서울시 출연기관에서 해제됐다. 지난 2020년 박원순 전 시장이 TBS를 미디어재단으로 바꾸며 ‘편파방송’, ‘정치방송’ 논란이 끊이지 않았다. 김어준의 뉴스공장은 21건, 신장식의 신장개업은 3건 방송통신심의위원회로부터 법정 제재를 받았다.&lt;br&gt;&lt;br&gt;시의회는 지난 2022년 11월 TBS에 대한 서울시의 예산 지원을 중단하는 내용의 조례안을 통과시켰고 올해 6월 서울시 지원금이 끊겼다.&lt;br&gt;&lt;br&gt;시의회는 오는 11월5일 서울시 홍보기획관 행정사무감사에 TBS 문제를 다룰 계획이다. 증인으로 이강택·정태익 TBS 전 대표 등도 함께 불렀다.&lt;br&gt;&lt;br&gt;이 밖에도 시의회는 최근 넷플릭스 프로그램 ‘흑백요리사’로 인기를 끌고 있는 안성재 셰프도 증인으로 채택했다. 최근 폐업한 안 셰프의 레스토랑 ‘모수’가 서울미식주간 선정 음식점에 4년 연속 뽑힌 것과 관련해 ‘서울미식 100선’의 홍보 공정성을 질의할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>납북자 단체 “다음주 파주서 대북전단 공개 살포하겠다”</title>
-      <link>https://www.chosun.com/national/regional/2024/10/24/DK63K65J6ZD75EVOHUGVM34LFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/24/DK63K65J6ZD75EVOHUGVM34LFM/</guid>
-      <dc:creator>수원=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Oct 2024 06:49:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FDGTJODQZZKTNASAWSCXLFQFNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'납북자피해가족연합회' 회원들이 24일 오후 경기도 수원시 영통구 경기도청 앞에서 대북 전단 제작과 살포 취지를 설명하는 기자회견을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;납북자 가족 단체가 다음주 중에 경기 파주시에서 대북 전단을 공개 살포하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;‘납북자피해가족연합회’는 24일 오후 2시 수원시 경기도청 앞에서 기자회견을 열고 납북자들의 이름과 사진 등이 담긴 대북 전단 10만장을 제작 완료했다고 밝혔다. 이 단체에는 북한에 의해 납치된 어부 등 전후 납북자 가족이 참여하고 있다.&lt;br&gt;&lt;br&gt;최성룡 연합회 대표는 “납북자 문제를 알릴 기회가 또 없다고 생각해 대북 전단 10만장을 파주에서 전체 다 날리겠다”며 “(살포가) 두 번이 됐든, 세 번이 됐든 어떠한 방법을 써서라도 평양 시내에 떨어지게 할 것”이라고 밝혔다. 또 “꼭 풍선이 아니더라도 전단을 보낼 수 있는 방법은 많다”며 “북한이 이산가족 등 문제에 대해 대화하고, 쓰레기 풍선을 보내는 행위 등을 중단하라는 취지”라고 덧붙였다.&lt;br&gt;&lt;br&gt;연합회가 준비한 전단에는 일본인 납북 피해자를 상징하는 인물인 ‘요코타 메구미’와 한국인 고교생 납북자 5명, 최 대표 부친의 이름과 사진, 설명 등이 함께 실렸다. 최 대표는 “여러 상황 등을 고려해 다음 주 중에는 무조건 공개 살포를 할 것”이라며 “구체적인 공개 살포 시간과 장소는 곧 공지하겠다”고 말했다.&lt;br&gt;&lt;br&gt;그는 대북전단 살포가 남북 관계에 오히려 긴장감을 준다는 지적에 대해 “북한에 이산가족 상봉 등 대화를 요구하고, 대남방송이나 쓰레기 풍선 살포를 멈추라고 요구하는 게 먼저”라며 “거기에 대한 요구가 앞서야지, 우리에게만 자꾸 중단하라고 하면 주객이 전도된 것”이라고 말했다. 연합회는 25일 오후 2시에는 서울 서대문구 경찰청 앞에서도 기자회견을 가질 예정이다.&lt;br&gt;&lt;br&gt;한편 경기도는 대북전단 살포로 인한 도민 안전 위협을 우려해 파주·연천·김포 등 접경지 3개 시군 내 11곳을 지난 16일부터 11월 30일까지 재난안전법상 ‘위험구역’으로 설정했다. 경기도를 비롯한 군과 경찰 등 유관기관은 실제 대북전단 살포가 이뤄지지 못하도록 현장에서 제지할 계획이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>'박원순 유족 변호인' 정철승 변호사, 강제추행으로 징역 1년</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/24/KPDTDNCEFVEBDCUDRNQ5QGTEU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/24/KPDTDNCEFVEBDCUDRNQ5QGTEU4/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Oct 2024 06:47:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JPGMGDFXHFJTXPQ7IAIRRIUMNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정철승 변호사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고(故) 박원순 전 서울시장의 유족을 변호했던 정철승 변호사가 후배 변호사를 성추행 한 혐의로 1심에서 실형을 선고받았다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사30부(재판장 강두례)는 24일 강제추행 치상 혐의로 기소된 정 변호사에게 징역 1년을 선고하고 80시간의 성폭력 치료 프로그램 이수를 명령했다. 다만 법정에서 구속하진 않았다.&lt;br&gt;&lt;br&gt;정 변호사는 작년 3월 27일 서울 서초구의 한 와인바에서 후배 여성 변호사 A씨를 성추행한 혐의로 기소됐다. 법원은 정 변호사가 피해자의 가슴 부위를 누르고, 거부 의사에도 불구하고 손을 주무르거나 등을 만져 추행한 것이 맞다고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 “피해자가 정 변호사의 추행 방법과 특징적 행동, 자신의 반응과 감정 등을 구체적이고 일관적으로 진술했으며, 이는 당시 현장을 담은 CCTV 영상 내용과도 부합한다”고 밝혔다. 이어 “이 사건 범행은 일회성으로 이뤄진 것이 아니고 짧은 시간 수차례 반복됐다”면서 “정 변호사는 피해자가 자신을 음해하기 위해 허위 고소했다고 주장하며 범행을 부인하는 등 2차 가해를 해 범행 후 정황이 매우 좋지 않다”고 질책했다. 정 변호사는 재판부가 혐의를 인정하자 한숨을 내쉬기도 했다.&lt;br&gt;&lt;br&gt;다만 정 변호사가 성추행으로 피해자에게 심각한 수준의 우울증 등 상해를 입혔다는 혐의는 인정되지 않았다. 재판부는 “강제추행 사건 자체가 아니라 고소 이후 정 변호사의 혐의 부인 등 적극적인 대처로 우울증이 악화됐을 가능성을 배제할 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;정 변호사는 선고 직후 취재진에게 “상식에 반하는 일방적인 판결이다. 항소할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;앞서 정 변호사는 고(故) 박원순 전 서울시장의 사망 후 박 전 시장의 성추행 사건 증거가 없다고 주장하며 타살 의혹을 제기했다. 그는 박 전 시장 유족이 ‘박원순 성희롱’을 인정한 국가인권위원회 조사 결과를 취소해달라고 낸 소송에서 유족 측을 대리하면서 피해자의 신원 일부를 공개한 혐의로 기소돼 별도의 재판을 받고 있다. 정 변호사는 지난 2021년에도 한 여성으로부터 강제추행·유사강간 혐의로 고소당했다가 경찰에서 무혐의 처분받은 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘발기부전치료제 1정 만원’ 외국인 상대 판매한 불법체류 중국인</title>
-      <link>https://www.chosun.com/national/regional/2024/10/24/AOORXHF3Y5FUPJWG5ZT5M446SA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/24/AOORXHF3Y5FUPJWG5ZT5M446SA/</guid>
-      <dc:creator>오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Oct 2024 06:34:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SN52LWKDW5HDZERURTA5M33UNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주 자치경찰이 불법체류 중국인에게서 압수한 발기부전치료제./제주도자치경찰단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에 불법체류하면서 발기부전치료제 등 전문의약품을 불법으로 판매해 온 중국인이 붙잡혔다.&lt;br&gt;&lt;br&gt;제주도 자치경찰단은 중화권 사회관계망서비스(SNS)를 통해 전문의약품을 불법 판매한 혐의(약사법 위반)로 불법체류 신분인 30대 중국인 A씨를 입건했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 해외 직구로 구매한 발기부전치료제 등 전문의약품 50여 정을 지난해 4월부터 올해 5월까지 중화권 SNS를 통해 알게 된 7명에게 재판매한 혐의를 받는다. 전문의약품은 일반의약품과 달리 의사 처방이 있어야 구입할 수 있다.&lt;br&gt;&lt;br&gt;자치경찰 조사 결과 A씨는 2016년 11월 무사증 관광객으로 제주에 입국해 8년간 불법 체류하며 일용직 노동을 해 온 것으로 파악됐다. A씨는 1정당 1만원에 약을 판매했으며, 택배로 전달하거나 직접 만나 전달한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;자치경찰은 A씨 거주지에서 발기부전과 조루 치료제 1200여 정을 발견하고 전량 압수했다.&lt;br&gt;&lt;br&gt;A씨는 제주출입국·외국인청에 인계됐으며, 중국으로 강제 퇴거될 예정이다.&lt;br&gt;&lt;br&gt;자치경찰 관계자는 “압수한 약품은 식품의약품안전처가 지정한 오남용 우려 의약품으로, 허가된 치료 목적과 다르게 사용할 경우 심각한 부작용을 겪을 수 있다”며 “도민 안전을 위해 불법 의약품 유통 단속을 강화하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“받은 것 돌려드리는 마음”...뉴진스님, 동국대에 1000만원 기부</title>
