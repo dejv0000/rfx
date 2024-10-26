@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>﻿실종됐다던 아들, 백골로 집에서 발견…70대 아버지 무죄 왜?</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/27/5FJHEN5KOFCUFICUMRG7O7RQV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/27/5FJHEN5KOFCUFICUMRG7O7RQV4/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Oct 2024 23:01:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JQRZRVMA25FIBDKXTNJUPLCOLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 이미지. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;실종 신고한 아들을 백골이 될 때까지 방치한 혐의로 기소된 70대 아버지가 무죄를 선고받았다. &lt;br&gt;&lt;br&gt;부산지법 형사4단독 장병준 부장판사는 사체유기 혐의로 기소된 70대 A씨에게 무죄를 선고했다고 27일 밝혔다. &lt;br&gt;&lt;br&gt;지난해 5월 부산 동구에 있는 A씨의 집을 방문한 지인이 우연히 아들인 30대 B씨의 시신을 발견하면서 수사가 시작됐다. 발견 당시 B씨의 시신은 백골 상태였고, 4년 전인 2019년 4월 사망한 것으로 추정됐다. &lt;br&gt;&lt;br&gt;이에 검찰은 B씨가 숨진 것을 발견하고도 관공서에 신고하거나 장례를 치르지 않은 채 사체를 방치한 혐의로 A씨를 기소했다. 검찰은 B씨의 시신이 부패해 백골이 되는 동안 악취를 느끼지 못했다는 A씨의 증언에 대해 의심했다. 또 B씨의 시신이 발견된 뒤에도 A씨가 아들의 시신을 인도받지 않아 무연고 장례가 치러진 점도 수상한 정황으로 여겼다. &lt;br&gt;&lt;br&gt;A씨는 아들이 성인이 된 후 자주 연락하지 않아 잘 사는 것으로 생각했고, 2019년 7월쯤 실종신고를 했다고 반박했다. 평소 A씨의 집에 드나들던 A씨의 친동생과 지인도 그간 집에 사체가 있는지 몰랐다고 증언했다. &lt;br&gt;&lt;br&gt;실제로 재개발지역에 있던 A씨 집은 노후화가 심하고 폐기물, 쓰레기들이 어지럽게 늘어져 있어 정리되지 않은 상태였다. B씨의 시신이 발견된 방도 마찬가지였다. 국립과학수사연구원에서 조사한 결과 B씨는 타살의 흔적이 없고 극단적 선택을 한 것으로 추정됐다. &lt;br&gt;&lt;br&gt;재판부는 A씨의 주장을 받아들였다. 장 부장판사는 “아들의 사인이 명확하지 않으나 타살의 흔적이 없고, 아버지인 A씨 입장에서 아들의 시신을 발견하고도 방치할 특별한 이유가 없다”며 무죄를 선고했다. &lt;br&gt;&lt;br&gt;검찰은 1심 판결에 불복해 항소했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘불법도박’인줄 알고 억대 빌려줬다면?... 이진호 사건을 통해본 사기죄</title>
       <link>https://www.chosun.com/national/national_general/2024/10/27/POXWSSPOQ5EN5IMPMAWIC5MI2M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/27/POXWSSPOQ5EN5IMPMAWIC5MI2M/</guid>
@@ -919,15 +928,6 @@
       <description/>
       <pubDate>Fri, 25 Oct 2024 01:14:08 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DP33X7EMJNOIVMSWCMTGFMXNLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오전 울산 남구 용연공단 내 한 자동차부품업체 공장에서 화재가 발생해 소방 당국이 진화 작업을 벌이고 있다. /울산소방본부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산 용연공단 내 자동차 부품업체 공장에서 화재가 발생해 소방당국이 5시간째 진화 중이다.&lt;br&gt;&lt;br&gt;25일 울산소방본부에 따르면 이날 오전 5시 7분쯤 남구 용연공단 내 한 자동차 부품업체 1공장에서 불이 났다. 이곳은 자동차용 연료탱크 등을 생산하는 곳이다. 불은 자동차 부품 생산용 로봇 공정에서 발생한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;소방당국은 대응 1단계를 발령하고, 소방차 27대와 소방관 등 62명, 헬기 등을 동원해 5시간째 진화 작업을 벌이고 있다. 현재까지 인명피해는 없는 것으로 파악됐다. &lt;br&gt;&lt;br&gt;불이 난 공장의 지붕 붕괴 우려로 내부 진입이 쉽지 않은 상황이라고 한다. 현재 불길이 주변으로 번지는 것을 막기 위해 외부 방수 작업에 집중하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NTDYMOJT2ZIVZOEQOY6IBNMPBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오전 울산 남구 용연공단 내 한 자동차부품업체 공장에서 화재가 발생해 소방 당국이 진화 작업을 벌이고 있다. /울산소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;남구는 이날 9시 20분쯤 ‘화재로 연기가 확산되고 있어 인근을 통행하는 차량은 유의하라’는 안전 안내 문자를 인근 주민들에게 보냈다.&lt;br&gt;&lt;br&gt;소방 당국은 진화가 마무리되는 대로 화재 원인과 피해 규모를 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>브루노 마스 “1위 해서 아침 내내 울었다”... 한글로 소감 전해</title>
-      <link>https://www.chosun.com/national/people/2024/10/25/TXBSPRHASZD2HL4UQLR2RTQQCY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/25/TXBSPRHASZD2HL4UQLR2RTQQCY/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Oct 2024 00:06:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZI3Q5EYT2VE3DOKNCQESI5KPUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;태극기 손에 든 팝스타 브루노 마스 - 로제와 함께 ‘아파트’를 부른 브루노 마스가 태극기를 흔드는 뮤직비디오 장면. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국 유명 팝스타 브루노 마스가 국내 음악 순위 프로그램 1위 소식에 감격했다는 소감을 한글로 전했다.&lt;br&gt;&lt;br&gt;브루노 마스는 25일 자신의 인스타그램 스토리에 한글로 “한국 팬 여러분 너무 감사하다”며 “첫 음방(음악방송) 1위 해서 아침 내내 울었다”는 글을 올렸다. 이어 “1위 할 수 있도록 도와준 로지(로제) 너무 고맙고, ‘아파트’ 많이 사랑해 달라”면서 ‘Love(러브), Bruno(브루노) 오빠’라고 덧붙였다.&lt;br&gt;&lt;br&gt;브루노 마스의 인스타그램 내용은 캡처 사진으로 여러 온라인 커뮤니티에 널리 퍼졌다. 이를 본 네티즌들은 믿기지 않는다는 반응을 보였다. “브루노 마스 한국어 잘한다. 진짜 웃기다” “합성 아니고 진짜냐” “살다 살다 부르노 마스의 한국 음악 방송 1위 소감을 담은 한국어 글을 볼 줄이야” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OBFEFRGN3VHDZKFH5R56Y7LAWI.png"&gt;&lt;figcaption&gt;&lt;small&gt;브루노마스가 자신의 소셜미디어 계정에 올린 글./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 지난 24일 방송된 ‘엠카운트다운’에서는 로제와 브루노 마스가 함께한 곡 ‘아파트’가 1위를 차지했다. 이후 로제는 브루노 마스에게 “네가 해냈다”라며 축하글을 남겼고, 브루노 마스 역시 밝게 1위 소감을 전했다.&lt;br&gt;&lt;br&gt;‘아파트’는 오는 12월 6일 로제의 정식 컴백을 앞두고 지난 18일 발매된 선공개 싱글이다. ‘아파트’는 한국 술 먹기 게임에 착안해 로제가 작사·작곡을 했으며, 뮤직비디오에서 브루노 마스가 ‘소맥(소주와 맥주를 섞은 술)’을 마시며 ‘건배, 건배’를 외치는 장면도 담겼다. 외국인에겐 생소한 한국의 술 문화를 모아 만든 노래임에도 빠른 인기를 얻어 주목받고 있다. 첫 번째 정규 앨범 ‘로지(rosie)’에도 수록될 예정이다.&lt;br&gt;&lt;br&gt;이 곡은 공개된 지 나흘 만인 22일 오전 세계 최대 음원 플랫폼 스포티파이 글로벌·미국 차트 1위에 올랐고, 23일엔 유튜브 1억 조회 수를 돌파했다. 한국 여성 솔로 가수가 스포티파이 글로벌 차트와 미국 차트 1위에 오른 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>율희 “최민환 업소 출입, 내 가슴에 돈 꽂은 적도”…작심 폭로</title>
