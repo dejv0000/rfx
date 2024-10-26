@@ -13,6 +13,30 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>공동주택사업 담당 공무원 뇌물수수 의혹…광주 광산구 자체조사 착수</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/26/WP5UZRKWYFFTXMI7DZPPVM3N6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/26/WP5UZRKWYFFTXMI7DZPPVM3N6A/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Oct 2024 08:31:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YAH6IBGPOI3HJDZXE6YIPBDH2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주광역시 광산구청. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시의 공동주택사업 담당 공무원 뇌물수수 의혹과 관련해 관할 지자체인 광산구가 자체조사에 착수했다.&lt;br&gt;&lt;br&gt;광주 광산구는 26일 “민간임대아파트 분양 전환 뇌물수수 의혹에 대한 사실관계와 원인을 파악하기 위한 자체 조사에 들어갔다”고 밝혔다.&lt;br&gt;&lt;br&gt;광주지검 반부패강력수사부는 전날 광주 광산구청과 SM우방 대구 본사 등에 수사관을 보내 광산구 도산동의 한 공공지원 민간임대아파트 관련 자료를 확보했다.&lt;br&gt;&lt;br&gt;해당 아파트는 지난 2015년 준공 뒤 2022년 말 분양 전환 했다. 검찰은 사업 관련 공무원의 뇌물수수 의혹을 수사 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;광산구는 “수사에 적극 협조하는 한편, 현 상황을 엄중하게 인식하고 수사에 따라 의혹이 사실로 밝혀지면 가장 강력한 조처를 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YAH6IBGPOI3HJDZXE6YIPBDH2E.jpg?width=720&amp;height=480&amp;auth=bbf4d2daf8fbe953a711250dfa455617b8774d445eba85f9258a7a93683d6a5f&amp;smart=true" type="image/jpeg" height="480" width="720">
+        <media:description type="plain">민선 8기 광주 광산구청</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>의대 교수 99% “정부의 의대생 휴학 불허는 대학 자율성 침해”</title>
+      <link>https://www.chosun.com/national/education/2024/10/26/XA3TWEH4JFEIVALF3Y7VUGK7BA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/26/XA3TWEH4JFEIVALF3Y7VUGK7BA/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Oct 2024 08:34:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6ZG7YXUUEVEATHIL6STZ4MG5EA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국의대대학교수 비상대책위원회가 21일 오전 정부세종청사 교육부 앞에서 집회를 열고 정부의 의대증원과 대학교육 자율성 훼손을 규탄하는 구호를 외치고 있다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의과대학 교수 99%는 정부가 의대생 휴학을 불허하는 것은 대학의 자율성을 침해하는 결정이라 생각하는 것으로 나타났다.&lt;br&gt;&lt;br&gt;전국의과대학교수협의회(전의교협)와 전국의과대학교수비상대책위원회(전의비)는 26일 전국 40개 의대 교수(응답자 3077명)를 대상으로 지난 25일부터 이날까지 진행한 설문 결과를 발표했다.&lt;br&gt;&lt;br&gt;‘교육부의 의대생 휴학 불허 행정 지도에 대해 어떻게 생각하는가’라는 질문에 응답자의 98.7%는 대학의 자율성을 침해하는 조치라고 답했다. 필요한 조치라고 답한 이들은 0.5%였다.&lt;br&gt;&lt;br&gt;‘의대교육을 6년에서 5년으로 단축할 수 있게 하는 교육부 복안에 대해 어떻게 생각하는가’라는 질문에 97.8%가 의학교육 수준을 떨어뜨리는 조치라고 답했다.&lt;br&gt;&lt;br&gt;교육부가 의대 관련 비상 대책안을 만들어 각 대학에 학칙 개정을 권고한 것에 대해 98.9%가 ‘대학 학칙은 대학 구성원이 자율적으로 정해야 한다’고 답했다.&lt;br&gt;&lt;br&gt;교육부가 ‘고등교육기관의 평가·인증 등에 관한 규정’ 일부 개정령안을 입법 예고한 것과 관련 96.5%가 한국의학교육평가원 역할을 무력화하는 시도이므로 철회해야 한다고 답했다.&lt;br&gt;&lt;br&gt;의대 교수의 89.8%는 현 상황이 지속되면 2025학년도 대입 전형(면접관 등)에 참여하지 않겠다고 답했다.&lt;br&gt;&lt;br&gt;전의교협과 전의비는 “정부는 교육의 전문성을 무시하고 대학의 자율성을 침해하는 조치들을 중단해야 한다”며 “휴학 승인, 의평원 관련 시행령 개정안 철회는 여야의정 협의체 참여 선결조건이 아닌 상식적으로 마땅히 시행돼야 할 조치”라고 했다.&lt;br&gt;&lt;br&gt;한편 이날 한국의과대학·의학전문대학원협회(KAMC)는 의대가 있는 각 대학 총장에 공문을 보내 “현 시점에서 의대 학생 복귀 가능성은 매우 낮으며 학생이 복귀하더라도 정상적인 학사운영을 위한 교육 일정을 확보하기 어려운 것이 현실”이라며 “휴학 승인 권한을 학(원)장에서 총장으로 변경한 대학은 의대 학사 운영 자율권을 존중해 학장의 휴학 승인 권한을 회복시켜 주시기 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/6ZG7YXUUEVEATHIL6STZ4MG5EA.jpg?width=5139&amp;height=3337&amp;auth=98c676cfb75991ca7c1019e1babd4e73d599ba9f244fef62ca8df85cad552fd3&amp;smart=true" type="image/jpeg" height="3337" width="5139">
+        <media:description type="plain">전국의대대학교수 비상대책위원회가 21일 오전 정부세종청사 교육부 앞에서 집회를 열고 정부의 의대증원과 대학교육 자율성 훼손을 규탄하는 구호를 외치고 있다. /신현종 기자</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>영장심사 뒤 수갑 차고 호송된 전광훈, 법원 “국가가 300만원 배상”</title>
       <link>https://www.chosun.com/national/court_law/2024/10/26/5ISH3E6CANHPXCIGH5EGX3OJ6U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/26/5ISH3E6CANHPXCIGH5EGX3OJ6U/</guid>
@@ -827,15 +851,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XHF64XC3JJEI3ICP77JBS7QY2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김수미가 지난 2015년 1월 29일 서울 강남구 신사동 CGV 압구정에서 열린 영화 '헬머니' 제작보고회에서 미소를 짓고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 최장수 드라마 ‘전원일기’에서 ‘일용 엄니’로 사랑받았던 배우 김수미(75)는 드라마·영화뿐만 아니라 다수 예능 프로그램에도 종횡무진하며 늘 시청자 곁을 지켰다. 젊은 나이에 시골 할머니 역(전원일기)을 맡아 배우의 면모를 보여줬고, 욕쟁이 할머니(헬머니), 노총각의 어머니(맨발의 기봉이), 처녀 유령(안녕 프란체스카) 등 다양한 배역을 맡으며 다채로운 연기를 선보였다.&lt;br&gt;&lt;br&gt;25일 배우 김수미(본명 김영옥)가 75세의 나이로 별세했다. 김수미는 이날 오전 8시 8분쯤 심정지 상태로 서울성모병원에 이송됐으며, 스트레스로 인한 고혈당 쇼크사로 추정되고 있다. 김수미의 빈소는 한양대병원 장례식장에 마련될 예정이다. 올해 5월까지 뮤지컬 ‘친정엄마’로 무대에 올랐던 그는 건강 악화로 인해 지난 5월과 7월 병원에 입원하며 활동을 잠정 중단했다.&lt;br&gt;&lt;br&gt;김수미는 1949년 전북 군산에서 태어나 1970년 MBC 3기 공채 탤런트로 데뷔했다. 드라마 ‘수사반장’(1971)으로 처음 연기를 시작했지만 한동안 무명 시절을 보냈다. 대표작인 ‘전원일기(1980~2002)’에서 ‘일용 엄니’ 역으로 주목받기 시작했다. 당시 그는 32세의 나이로 시골 할머니 역을 맡았는데 아들 일용이(박은수 분)보다 어린 나이로 배역을 소화했다. ‘둘이 사는 역할’이라는 말만 듣고 일용의 아내를 맡을 줄 알았는데, 대본을 받아 보니 엄마 역할이었다는 일화가 유명하다. 이후 ‘전원일기’와 ‘남자의 계절’(1985)로 MBC 연기대상 대상을 수상했다.&lt;br&gt;&lt;br&gt;이어 ‘마당 깊은 집(1990), ‘젊은이의 양지’(1995) ‘파랑새는 있다’(1997) 등 다수의 작품에 출연했고, ‘발리에서 생긴 일’(2004)에서는 정재민(조인성 분)의 모친 송희숙 역을 맡아 강렬한 인상을 남겼다. ‘안녕, 프란체스카’(2005)에서는 카사노바에게 온몸의 정기를 뺏겨 졸지에 50대 중년 여성이 된 ‘처녀 유령’ 이사벨로 웃음을 선사했다. 이후에도 ‘돈의 화신’(2013) ‘전설의 마녀’(2014) ‘언니는 살아있다!’(2017) 등 다수 드라마를 통해 시청자를 만났다.&lt;br&gt;&lt;br&gt;스크린에서도 활약했다. 대표작으로는 시리즈물 ‘마파도’(2005) ‘마파도2′(2007), ‘가문의 위기-가문의 영광2′(2005) ‘가문의 부활-가문의 영광3′(2006) ‘가문의 영광4-가문의 수난’(2011) ‘가문의 영광: 리턴즈’(2023) 등이 있다. ‘간 큰 가족’(2005) ‘맨발의 기봉이’(2006) ‘위험한 상견례’(2011) ‘위험한 상견례2′(2015) ‘전국 노래자랑’(2013) 등에도 출연했다. 김수미는 다수 작품에서 맛깔나는 욕설 연기를 소화했는데, ‘헬머니’(2014)에서는 주연을 맡아 욕배틀을 벌이는 욕쟁이 할머니로 분했다.&lt;br&gt;&lt;br&gt;김수미는 예능에서도 주목받았다. 뛰어난 요리 솜씨로 자신의 요리 노하우를 선보인 tvN ‘수미네 반찬’ 시리즈로 인기를 얻었고, KBS 2TV ‘수미산장’, SBS 플러스 ‘밥은 먹고 다니냐’ 등에서도 활약했다. 최근까지 tvN STORY ‘회장님네 사람들’에도 출연하며 꾸준히 대중을 만나왔다. 며느리인 배우 서효림과도 예능에 함께 출연해 애틋한 고부 관계를 보여줬다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>음주운전 기소 배우 박상민에 검찰 ‘징역 6월’ 구형</title>
-      <link>https://www.chosun.com/national/regional/2024/10/25/OKUV7U3MDBFIJIRPLW3UXTLOXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/25/OKUV7U3MDBFIJIRPLW3UXTLOXU/</guid>
-      <dc:creator>안양=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Oct 2024 02:54:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z7VY36DZFHYVIBOQVTOUEZLUTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 박상민. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전 혐의로 기소된 배우 박상민(54)씨에게 검찰이 징역형을 구형했다.&lt;br&gt;&lt;br&gt;25일 수원지법 안양지원 형사2단독 전서영 판사 심리로 열린 박씨의 도로교통법위반 등 사건 결심공판에서 검찰은 징역 6월을 선고해달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;박씨는 지난 5월 19일 오전 8시쯤 음주 상태로 자신의 도요타 차량을 몰고 경기 과천시 도로를 운전한 혐의로 재판에 넘겨졌다. 박씨는 귀가 전 한 골목길에서 잠이 들었다가 목격자의 신고를 받고 출동한 경찰에 적발됐다.&lt;br&gt;&lt;br&gt;박씨의 당시 혈중알코올농도는 면허취소 수준인 0.163%로 파악됐으며, 이날 새벽까지 과천의 한 술집에서 지인들과 양주 등을 마신 것으로 알려졌다. 박씨는 장애인 전용 주차구역 주차 가능 표지를 부정 사용한 혐의로도 기소됐다.&lt;br&gt;&lt;br&gt;박씨는 최후진술에서 “10여년 전 동종죄가 있어서 반성하고 다짐했는데, 제 자신이 부족한 점을 반성하고 두 번 다시 이런 일이 없도록 하겠다”고 말했다. 장애인 전용 주차구역 가능 표지 부정 사용 혐의에 대해서는 “무지해서 그랬다”는 취지로 해명했다.&lt;br&gt;&lt;br&gt;박씨는 과거에도 여러 차례 음주운전으로 처벌받은 전력이 있다. 2011년 2월 서울 강남구에서 면허정지 수치의 혈중알코올농도로 후배의 차량을 몰았다가 적발됐고, 1997년 8월 강남구에서 음주운전을 하다 접촉 사고를 내기도 했다.&lt;br&gt;&lt;br&gt;박씨는 1990년 영화 ‘장군의 아들’로 데뷔해 스타 반열에 올랐고, 30년 넘게 다수의 영화와 드라마에 출연하면서 꾸준한 작품활동을 이어왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김용건 “김수미, 2주 전 통화 땐 목소리 좋았는데…너무 일찍 떠났다”</title>
       <link>https://www.chosun.com/national/people/2024/10/25/QD2PDEFTEVF2PNE2AIQBFMHBDA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/25/QD2PDEFTEVF2PNE2AIQBFMHBDA/</guid>
@@ -852,15 +867,6 @@
       <description/>
       <pubDate>Fri, 25 Oct 2024 02:42:08 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JJJJXQ7SSJI6JOZ2DBZOWT65FA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김수미(75)씨가 25일 오전 별세했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 별세한 배우 김수미(75)의 사인은 스트레스로 인한 고혈당 쇼크라고 유족이 밝혔다.&lt;br&gt;&lt;br&gt;고인의 아들인 정명호 나팔꽃F&amp;amp;B 이사는 이날 연합뉴스에 “사인을 조사한 경찰이 고혈당 쇼크사가 최종 사인이라고 알렸다”며 “당뇨 수치가 500이 넘게 나왔다”고 했다.&lt;br&gt;&lt;br&gt;고혈당 쇼크는 혈액 속 포도당 농도가 급격하게 상승해 신체 기능이 저하되는 증상이다. 스트레스 등 외부 요인이 원인이 될 수 있는 것으로 전해진다.&lt;br&gt;&lt;br&gt;김수미는 최근 14년간 출연했던 뮤지컬 ‘친정엄마’의 출연료 미지급 문제로 소송을 준비하며 스트레스를 받아왔다고 한다. 제작사가 표절 시비에 휩싸이면서 김수미는 작년부터 출연료를 지급받지 못했다.&lt;br&gt;&lt;br&gt;정 이사는 “사실 ‘친정엄마’ 때문에 어머니가 스트레스가 많았다”며 “지난해부터 출연료를 한 푼도 받지 못해 소송을 준비 중이었다”고 했다.&lt;br&gt;&lt;br&gt;서울 서초경찰서에 따르면 김수미는 이날 오전 방배동 자택에서 심정지가 발생했다. 고인은 의식이 없는 상태에서 아들에게 발견돼 이날 오전 8시쯤 서초구 서울성모병원으로 옮겨졌으나 결국 사망 판정을 받았다.&lt;br&gt;&lt;br&gt;장례식장은 한양대병원으로 정해졌다. 유가족으로는 아들인 사업가 정명호씨와 며느리인 배우 서효림이 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>군납 배터리 품질검사 조작...아리셀 모회사 에스코넥 임직원 7명 송치</title>
-      <link>https://www.chosun.com/national/regional/2024/10/25/3Q6YV3PO4JCYJPLZ4UAUW5MOZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/25/3Q6YV3PO4JCYJPLZ4UAUW5MOZY/</guid>
-      <dc:creator>수원=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Oct 2024 02:35:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4IT2YWSFRDRLGSX5FAR72KIHA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경기남부경찰청 청사. /경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배터리 군납을 위한 품질검사 과정에서 시험 데이터를 조작한 혐의로 수사를 받아온 아리셀의 모회사 에스코넥 전현직 임직원들이 검찰에 넘겨졌다. 경찰은 지난 6월 24일 발생해 23명이 사망한 아리셀 화재 사고를 수사하면서 에스코넥 측의 이같은 비리를 포착해 수사를 벌여왔다.&lt;br&gt;&lt;br&gt;경기남부경찰청 아리셀 화재사고 수사본부는 업무방해 및 사기 혐의로 에스코넥 관계자 A씨를 구속하고, 6명을 불구속 입건해 25일 수원지검에 송치했다. 또 구속영장 심사를 앞두고 사망한 에스코넥의 전 관리자급 직원 B씨와 혐의가 인정되지 않은 2명 등 3명에 대해서는 불송치 결정을 했다.&lt;br&gt;&lt;br&gt;A씨 등은 에스코넥의 군납용 전지 수검 부서 관계자들로, 2017∼2018년 국방부에 82억원 상당의 전지를 납품할 당시 시험데이터를 조작하는 수법으로 국방기술품질원의 검사를 통과한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 이들 가운데 혐의가 무거운 A씨와 B씨에 대해 사전구속영장을 신청했으나, B씨는 구속 전 피의자 심문(영장실질심사) 당일인 지난 16일 집에서 숨진 채 발견됐다. 이에 따라 경찰은 영장이 발부된 A씨만 구속하고, B씨는 ‘공소권 없음’으로 종결하는 한편 나머지 인원에 대해서는 불구속 입건해 검찰로 넘겼다.&lt;br&gt;&lt;br&gt;경찰은 같은 혐의로 입건한 아리셀 관계자 14명에 대해서는 보강 수사를 거쳐 검찰에 송치할 계획이다. 이들은 아리셀이 2021년 군납을 시작할 때부터 품질검사를 조작해 올해 2월까지 47억원 상당의 전지를 납품한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 군납 비리를 박중언 아리셀 총괄본부장이 주도했다고 보고 입건했으나, 회사 총책임자인 박순관 대표이사에 대해서는 혐의가 인정되지 않는다며 불입건 처리했다. 두 사람은 아리셀 공장 화재와 관련해 업무상 과실치사상 등의 혐의로 구속 기소된 상태이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘성매매 의혹’ 경찰, FT아일랜드 최민환 내사 착수</title>
