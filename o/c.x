@@ -13,6 +13,67 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>영장심사 뒤 수갑 차고 호송된 전광훈, 법원 “국가가 300만원 배상”</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/26/5ISH3E6CANHPXCIGH5EGX3OJ6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/26/5ISH3E6CANHPXCIGH5EGX3OJ6U/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Oct 2024 06:44:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YAV2INPJ55DXVL4C5HGF3OTD2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2020년 1월 2일 청와대 앞에서 불법집회를 주도한 혐의를 받는 '문재인 하야 범국민투쟁본부'(범투본) 총괄대표 전광훈 목사(한국기독교총연합회 대표회장)가 낮 12시 58분쯤 영장실질심사를 마친 뒤 수갑을 차고 서울중앙지법을 빠져나오고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 영장실질심사를 마치고 나온 전광훈 사랑제일교회 목사에게 수갑을 채워 유치장으로 호송한 것은 신체의 자유에 대한 과도한 침해에 해당해, 국가가 배상해야 한다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;전 목사는 지난 2019년 10월 보수단체의 광화문 집회에서 폭력 행위를 주도한 혐의로 사전구속영장이 청구돼, 지난 2020년 1월 영장실질심사를 받았었다. 이때 영장실질심사를 마치고 경찰서 내 유치장으로 호송되는 과정에서 전 목사가 수갑을 찬 모습이 언론을 통해 공개되며 논란이 빚어졌다.&lt;br&gt;&lt;br&gt;26일 법조계에 따르면, 서울중앙지법 민사항소8-1부(재판장 정인재)는 지난 18일 전 목사가 국가를 상대로 제기한 손해배상소송의 항소심에서 국가의 항소를 기각하고 전 목사에게 300만원을 배상하라고 판결했다. 지난해 12월 1심의 판단과 같다.&lt;br&gt;&lt;br&gt;1심을 심리한 서울중앙지법 민사93단독 최파라 판사는 “신체의 자유에 대한 제한이 불가피해도 이는 필요 최소한의 범위에서 이뤄져야 한다”며 “전 목사는 당시 사랑제일교회의 담임목사로 교회 사택에서 약 20년간 거주 중이었기 때문에 주거가 부정했다고 보기 어렵다. 경찰에 자진 출석하고, 영장실질심사 절차에도 자진 출석한 것을 보면 도주 우려가 있었다고 보기도 어렵다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CTHBSDU7JJD4DA7XJ7BXHM3A64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러면서 최 판사는 “당시 경찰관은 상관의 사전 지시에 따라 만연히 수갑을 사용해 신체의 자유를 과도하게 침해했다”며 “위법한 직무집행으로 원고가 정신적 고통을 당했을 것은 명백해 국가가 정신적 손해를 배상할 책임이 있다”고 판결 이유를 밝혔다.&lt;br&gt;&lt;br&gt;최 판사는 “경찰관이 전 목사의 양쪽에서 팔짱을 끼고 법정에서 호송 차량으로 이동하는 등의 조치만으로도 도주 예방과 호송과정에서의 안전을 충분히 확보할 수 있었을 것으로 보인다”고 도 했다.&lt;br&gt;&lt;br&gt;앞서 전 목사는 2019년 10월 3일 보수 단체의 광화문 집회에서 폭력 행위를 주도한 혐의로 사전구속영장이 청구돼 2020년 1월 2일 영장실질심사를 받았다. 당시 경찰은 영장실질심사가 이뤄진 서울중앙지법에서 전 목사의 유치 장소인 서울종로경찰서까지 호송하는 동안 전 목사에게 수갑을 채웠고, 이 모습은 언론을 통해 보도됐다.&lt;br&gt;&lt;br&gt;전 목사는 손해배상 소송과 함께 국가인권위원회에 진정을 제기했다. 인권위는 지난 2021년 2월 경찰이 전 목사에게 수갑을 채운 것을 인권 침해로 인정했다. 인권위는 피의자 호송 시 수갑·포승 사용과 관련된 경찰청 훈령을 개정할 것을 권고했고 경찰청은 그해 10월 ‘피의자 유치 및 호송규칙’을 개정한다고 발표했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/66GTKIG5LRJNJEDSANSZEDNX6I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전두환 전 대통령의 손자 전우원씨가 지난해 3월 28일 오전 인천국제공항에서 마약 투약 혐의로 체포, 서울경찰청 마약범죄수사대로 연행되기 전 취재진 앞에 서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;호송 과정에서의 수갑 사용 여부는 계속해서 논란이 돼 왔다. 지난해 3월 마약 투약 혐의로 체포된 전두환 전 대통령의 손자 전우원씨는 인천국제공항으로 입국한 직후 수갑에 묶인 채 취재진 앞에 섰었다. 전씨가 경찰 조사를 받은 뒤 ‘도주 우려가 없다’는 이유로 풀려나면서 “경찰의 과도한 조치”라는 비판이 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>일요일 전국 대체로 흐리고 남부지방 오전에 비</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/26/EJSNBNQPCRGVDMQKLFD2DSVH5Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/26/EJSNBNQPCRGVDMQKLFD2DSVH5Q/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Oct 2024 07:06:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WSD3ELMRFVLMTCMEQYZ5ZIIZZQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;24일 서울 동작구 국립서울현충원에서 소풍 나온 어린이들이 나들이를 즐기고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일요일인 27일 전국이 대체로 흐린 가운데 남부지방과 제주도를 중심으로 비가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 오전부터 전북북부와 경북북부를 제외한 남부지방에 비가 내리다 오후부터 밤사이에 대부분 그치겠다. 제주도는 전날에 이어 가끔 비가 내리는 곳이 있겠다. 강원북부 동해안에는 동풍의 영향으로 오후 9시 이후부터 비가 시작된다.&lt;br&gt;&lt;br&gt;예상 강수량은 △부산·경남남해안 5~20㎜ △대구·울산·경북남부·경남내륙 5㎜ 내외 △전남남해안 5~20㎜ △광주·전남(남해안 제외) 5㎜ 내외 △전북남부 5㎜ 미만 △제주도 10~60㎜다.&lt;br&gt;&lt;br&gt;아침 최저기온은 9~17도, 낮 최고기온은 18~22도로 평년(최저 3~12도, 최고 17~21도)보다 따뜻할 것으로 예상된다.&lt;br&gt;&lt;br&gt;주요 도시 예상 최저기온은 △서울 14도 △인천 15도 △춘천 12도 △강릉 13도 △대전 13도 △대구 13도 △전주 14도 △광주 15도 △부산 17도 △제주 20도다. 최고기온은 △서울 20도 △인천 20도 △춘천 18도 △강릉 21도 △대전 20도 △대구 20도 △전주 20도 △광주 20도 △부산 22도 △제주 22도다.&lt;br&gt;&lt;br&gt;남해상과 제주도 해상을 중심으로 돌풍과 함께 천둥·번개가 치는 곳이 있다. 제주도 해안에는 너울에 의한 높은 물결이 해안도로나 갯바위, 방파제를 넘는 곳이 있으니 안전사고에 유의해야 한다.&lt;br&gt;&lt;br&gt;제주도 남쪽 먼바다는 이날 새벽까지 바람이 시속 35~60㎞로 매우 강하게 불고 물결도 1.5~4m로 매우 높게 일겠다. 오후부터는 서해남부 남쪽 먼바다, 밤부터 제주도 남쪽 먼바다에 풍랑특보가 발표될 가능성이 있다.&lt;br&gt;&lt;br&gt;미세먼지 농도는 전 권역이 ‘좋음’으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/WSD3ELMRFVLMTCMEQYZ5ZIIZZQ.JPG?width=4457&amp;height=2862&amp;auth=d38096f80e3499ca381fa5452e057ce9f6ecd61b483f44096d06aea2f88dbd45&amp;smart=true" type="image/jpeg" height="2862" width="4457">
+        <media:description type="plain">(서울=뉴스1) 구윤성 기자 = 24일 서울 동작구 국립서울현충원에서 소풍 나온 어린이들이 나들이를 즐기고 있다. 2024.10.24/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 구윤성 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>박단 만난 이재명... 여야의정협의체 참여 설득</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/26/HYG5CFP7S5EBTC7V7PZRTKIL54/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/26/HYG5CFP7S5EBTC7V7PZRTKIL54/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Oct 2024 05:38:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54QTP2VUZ2TJNQK75IFAQ7TNZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박단 대한전공의협의회 비상대책위원장이 8월 21일 오전 서울 마포구 서울경찰청 광역수사단 공공범죄수사대에 대한의사협회 전·현직 간부들의 전공의 집단 사직 공모 혐의 관련 참고인 조사를 받기 위해 출석하며 취재진 질문에 답하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 민주당 대표와 박단 대한전공의협의회(대전협) 비상대책위원장이 26일 비공개 면담을 가졌다. 이 대표는 박 위원장에게 여야의정 협의체 참여를 설득했지만, 박 위원장이 거듭 불참 의사를 밝힌 상황이라 난항이 예상된다.&lt;br&gt;&lt;br&gt;이 대표와 박 위원장은 이날 서울 모처에서 만나 의대 증원으로 촉발된 의료 공백 문제를 해소하기 위해 구성되는 여야의정 협의체 참여 등을 논의한 것으로 알려졌다. 두 사람이 만나는 건 이번이 처음이다. 지난 22일 대한의학회와 한국의과대학·의학전문대학원협는 여야의정협의체 참여 의사를 밝혔으나 대전협은 합류에 부정적이다. 두 사람의 대화가 의정 갈등 해결의 물꼬를 틀 수 있을지 주목됐다.&lt;br&gt;&lt;br&gt;그러나 박 위원장은 이날 면담에서도 여야의정 협의체 참석 여부에 대한 기존 입장을 유지한 것으로 전해졌다. 그는 이날 오전에도 이 대표를 면담하기 전 “여야의정 협의체에 참여할 생각이 없고 대전협이 제시한 7가지 요구안도 변함없다”고 대전협 내부 구성원들에 공지한 것으로 전해졌다. 박 위원장은 지난 22일에도 “허울뿐인 협의체에 참여할 의향이 없다”고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;대전협은 지난 2월부터 △필수의료 패키지와 의대 2000명 증원 전면 백지화 △의사수급 추계 기구 설치 △수련병원 전문의 인력 채용 확대 △불가항력 의료사고 부담 완화 △전공의 수련환경 개선 △부당한 명령 전면 철회·사과 △업무개시명령 폐지 등 7가지를 요구하고 있다.&lt;br&gt;&lt;br&gt;앞서 이 대표는 이날 박 위원장을 면담하기 전 국회에서 기자들과 만나 “의료 대란 사태를 풀기 위해서는 대화가 시작돼야 하는데 전공의들 입장이 매우 중요하다”고 했다.&lt;br&gt;&lt;br&gt;‘여야의정 협의체 참여를 촉구할 것이냐’는 질문에 “민주당 입장은 2025학년도 정원 얘기도 의제에 포함해서 대화해야 한다는 것”이라며 “정부가 2025학년도 정원 방침 유지에 완고하기 때문에 의료계가 대화에 참여하는 게 매우 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/SYFMTHXSQH7I5T6XZBUZHFPP4M.jpg?width=2286&amp;height=1644&amp;auth=824f129f5c7fac385fde69418d8a446c8a49ca9a158bc49ca37187e6f0ce92d3&amp;smart=true" type="image/jpeg" height="1644" width="2286">
+        <media:description type="plain">박단 대한전공의협의회 비대위원장./뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>울산 조선소에서 협력업체 직원 숨진 채 발견…외상 흔적 없어</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/26/U6KABUJTHFCUVLINMH6FLBWV3M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/26/U6KABUJTHFCUVLINMH6FLBWV3M/</guid>
+      <dc:creator>울산=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Oct 2024 05:37:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UDEZB3X5F5BUKXATKNBEL2Y3JQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산동부경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산의 한 조선소에서 협력업체 직원이 숨진 채 발견돼 경찰이 조사에 나섰다.&lt;br&gt;&lt;br&gt;26일 울산 동부경찰서 등에 따르면 이날 오전 10시 20분쯤 울산 동구의 한 조선소 컨테이너 선박 내부에서 30대 협력업체 직원 A씨가 쓰러진 채 발견됐다. A씨는 동료에 의해 발견돼 병원으로 옮겨졌지만 결국 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 오전 10시쯤부터 휴식을 취하던 중 함께 쉬던 동료가 자리를 비운 사이 작업장에 들어섰다가 쓰러진 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨가 쓰러질 당시 신체에 특별한 외상은 없었던 것으로 알려졌다. 경찰은 정확한 사망원인을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UDEZB3X5F5BUKXATKNBEL2Y3JQ.jpg?width=3371&amp;height=2248&amp;auth=d942d0c97a9c6a11d2e7a8827ca8ecc23fc29f7caab5a2f52328b0937b4a16b1&amp;smart=true" type="image/jpeg" height="2248" width="3371">
+        <media:description type="plain">울산동부경찰서 ⓒ News1</media:description>
+        <media:credit role="author" scheme="urn:ebu">Dae_Ju</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>이혼한 전 부인 살해한 30대 외국인 남성 긴급체포</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/26/EQNKVFZ5AJBTDCD46QE7LGJYO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/26/EQNKVFZ5AJBTDCD46QE7LGJYO4/</guid>
+      <dc:creator>청주=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Oct 2024 05:13:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3WJVBECFMKIXX2XDUEBN7CATUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 청주흥덕경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 부인을 살해한 30대 외국인이 경찰에 긴급체포됐다.&lt;br&gt;&lt;br&gt;청주 흥덕경찰서는 26일 이혼한 전 부인을 살해한 혐의(살인)로 이집트 국적 30대 남성 A씨를 붙잡아 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 이날 오전 7시12분쯤 청주시 흥덕구 오송읍의 한 주택에서 이혼한 전 부인인 30대 한국 국적 B씨에게 흉기를 휘둘러 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 B씨의 동생으로부터 “언니가 전 남편과 다투는 것 같다”는 신고를 받고 사건 현장에 출동해 인근에서 A씨를 붙잡았다. A씨는 B씨의 집을 찾아가 말다툼을 벌이던 중 범행을 저지른 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 자세한 사건경위를 조사하고 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KBZ6SVO3B2HFIJAJSEC7VALR7A.jpg?width=962&amp;height=638&amp;auth=026c4d19e8421d9e3eeb5479089ff58eb386f2dd186c74fca37903ebd2a530c8&amp;smart=true" type="image/jpeg" height="638" width="962">
+        <media:description type="plain">충북 청주흥덕경찰서 전경./뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>‘핼러윈 참사’ 2주기 추모대회…이태원→서울광장 행진</title>
       <link>https://www.chosun.com/national/national_general/2024/10/26/WU2ILRIN6FBR7AI2YK6SXZAYXY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/26/WU2ILRIN6FBR7AI2YK6SXZAYXY/</guid>
@@ -757,24 +818,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BVHYJKWFXNLMBIKT5NO5VLC7ZQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;'독도의 날'인 25일 오전 대구 동구 동대구역 광장에서 대륜중학교 독도동아리 독도강치방위대를 비롯한 1학년 학생 100여 명이 태극기를 흔들며 '대한민국 독도수호' 플래시몹을 펼치고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;독도의 날을 맞아 독도가 위치한 경북에서 문화·학술 행사가 열렸다.&lt;br&gt;&lt;br&gt;독도의 날인 25일 경북도 환동해지역본부 직원들은 독도 전문가에게 특강을 듣고 ‘독도는 대한민국 땅’이라는 메시지를 전하는 플래시몹(여러 사람이 특정 장소에 모여 벌이는 깜짝 공연)을 펼쳤다. 일본의 독도 침탈 시도에 맞서 우리 영토를 지키자는 취지에서다.&lt;br&gt;&lt;br&gt;같은 날 울릉군은 도동항과 울릉한마음회관 일대에서 독도의 날 기념행사 및 독도 뮤직페스티벌을 연다. 울릉군 안용복 기념관에서는 독도를 지킨 안용복을 기리는 첫 추모행사가 열린다. 행사를 주관하는 ‘안용복장군기념사업회’는 독도의 우편번호 40240을 주제로 주류업체에서 만든 ‘40240 독도소주’를 안용복에게 올릴 제향주로 선정했다.&lt;br&gt;&lt;br&gt;예천군은 김학동 군수를 비롯해 전 직원이 ‘독도 사랑 점퍼’를 입고 출근했다. 군청사를 방문한 주민들에게 독도의 날을 알리기 위해서다. 김학동 예천군수는 “독도는 아름다운 경관과 풍부한 자원을 지닌 우리의 소중한 영토이며, 매년 그래온 것처럼 앞으로도 독도 사랑 운동을 지속해 나갈 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6LBIB3L6G5D6VFDMKDEB73INFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 독도사랑 셔츠, 점퍼 등을 입고 출근한 예천군 공무원들./예천군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북도 동부청사에선 오는 29일까지 독도문예대전 수상 작품과 유치원생들이 만든 독도 관련 예술작품 등이 전시된다.&lt;br&gt;&lt;br&gt;독도재단에선 오는 31일까지 학생과 일반인을 상대로 ‘찾아가는 독도 바로 알기 교육’ 등을 진행하고, 국내 체류 외국인 및 독도기자단과 함께 독도를 탐방할 계획이다.&lt;br&gt;&lt;br&gt;이밖에 대구에서도 25일 동대구역 광장에서 대륜중 학생, 미스 대구·경북 130명이 독도 사랑 티셔츠를 입고 플래시몹을 펼쳤다. 대륜중은 독도 교육 수업을 비롯해 다양한 독도 관련 홍보 활동을 통해 동북아역사재단에서 독도지킴이 우수학교로 선정된 바 있다.&lt;br&gt;&lt;br&gt;경북대 울릉도·독도전시관에선 오는 12월 31일까지 독도에 서식하는 다양한 생물 등을 전시하는 ‘독도의 생태 전시회’가 열린다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O4BLWZNVUNTKD7OWPOZD3MHMD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 울릉군 독도 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 독도의 날은 조선시대 고종이 1900년 10월 25일 대한제국칙령 제41호에 독도를 울릉도의 부속 섬으로 명시한 것을 기념하기 위해 제정됐다. 경북도는 이와 별도로 일본 시마네현 의회가 매년 2월 22일을 ‘다케시마의 날’로 제정한 데 대응하기 위해 2005년 7월 경북도 조례로 10월을 ‘독도의 달’로 제정했다.&lt;br&gt;&lt;br&gt;이경곤 경북도 해양수산국장은 “올해 독도 문예 대전 대상 작품에는 ‘아끼고 사랑하면 함부로 버리지 않는다’는 문구가 있는데, 우리 모두 독도를 그런 마음으로 대해야할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, 이스라엘 대사관 침입한 외국인 대구에서 체포</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/25/SLL222HYCFDJRLWNCYJ4ERW2IY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/25/SLL222HYCFDJRLWNCYJ4ERW2IY/</guid>
-      <dc:creator>김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Oct 2024 06:14:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DM6X7MMFN5CVVKNTDSVEQEBYO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 24일 괴한이 침입한 서울 종로구 이스라엘 대사관의 출입문 유리가 깨진 모습. /X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;휴무 중이던 이스라엘 대사관에 침입해 유리문 등을 깨고 사라진 괴한이 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 종로경찰서는 25일 오후 1시 30분 특수재물손괴 등 혐의를 받는 20대 외국인 A씨를 긴급체포했다고 이날 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 24일 서울 종로구 청계광장 인근 한 건물 18층에 입주해 있는 이스라엘 대사관에 침입해 출입문을 깨는 등 재산 피해를 입혔다. 이날 이스라엘 대사관은 유대교 명절을 기념해 휴무였다. 경찰에 따르면 A씨의 침입으로 인명 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;경찰은 이날 오후 6시 15분 건물관리인의 신고를 받고 출동해 범인 검거에 나섰다. 신고 시간으로부터 약 19시간에 걸친 추적 끝에 경찰은 대구 모처에서 A씨를 검거했다.&lt;br&gt;&lt;br&gt;경찰은 “A씨를 종로서로 호송해 범행경위 등을 조사할 예정”이라면서 “자세한 인적사항이나 국적은 밝히기 어렵다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 검찰, ‘尹 불법 여론조사 의혹’ 업체 대표 압수수색</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/25/3BPTS3NIANB6LLQCGUXVGBGHSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/25/3BPTS3NIANB6LLQCGUXVGBGHSM/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Oct 2024 04:51:54 +0000</pubDate>
-      <content:encoded>정치 브로커 명태균씨의 ‘여론조사 비용 불법 조달 의혹’을 수사하는 검찰이 25일 명씨가 실질적으로 운영한 여론조사업체 대표를 압수수색 했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 창원지검 형사4부(부장 김호경)는 이날 오전 미래한국연구소 소장 김모씨의 자택과 사무실 등을 압수수색했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WD7S4T5PTZH4BNMYWSEG6GHVSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'불법 여론조사 의혹'의 핵심 인물인 명태균씨, /페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김씨는 김영선 전 의원의 친인척이며 16·17대 국회에서 김 전 의원의 보좌관으로도 근무했었다. 김씨는 미래한국연구소의 대표이사로 등기돼 있지만 언론에는 “실소유주는 명씨이고 나는 이름만 빌려준 것”이라고 해왔다. 반면 명씨는 “미래한국연구소는 나와 관련 없다”는 입장이다.&lt;br&gt;&lt;br&gt;창원지검은 미래한국연구소가 지난 대선 당시 윤석열 후보를 위해 ‘맞춤형 여론조사’를 실시했고, 명씨가 그 대가로 김영선 전 의원의 공천을 받아냈다는 의혹을 수사 중이다. 미래한국연구소가 지난 대선 당시 80여차례에 걸쳐 3억7500만원 상당의 공표·미공표 여론조사를 실시해 윤석열 캠프에 제공했고, 그중 일부는 결과를 왜곡하기도 했다는 내용이다.&lt;br&gt;&lt;br&gt;이 의혹의 제보자인 강혜경씨는 “국민의힘 지방선거 예비후보들이 여론조사 비용 2억2700만원을 대납했다”고 주장하고 있다. 명씨가 두 명의 예비후보에게 공천을 미끼로 여론조사 비용 대납을 요구했다는 것이다. 또 이들이 공천을 받지 못하자 돈을 돌려달라고 했는데, 김 전 의원이 보궐 선거에서 당선된 후 선관위에서 받은 선거 보전금으로 일부를 갚아줬다는 것이 강씨 주장이다. 강씨는 미래한국연구소 부소장을 지냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VUNWSXGBXBLFNGAXLUMLTOFA2U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사의 공천 개입 의혹과 명태균씨 여론조사 비용 불법 조달 의혹을 제기한 강혜경 씨가 23일 창원지방검찰청으로 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;창원지검은 지난 23일 강씨를 소환해 조사한 데 이어, 지난 24일에는 김 전 의원의 현역 시절 보좌관과 선임비서관, 수행비서 등 3명을 참고인 신분으로 조사했다.&lt;br&gt;&lt;br&gt;본지는 김씨 입장을 듣기 위해 연락을 시도했지만 휴대전화가 꺼져 있었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>32세에 ‘일용엄니’, 손맛으로 예능 점령... 故 김수미는?</title>
       <link>https://www.chosun.com/national/people/2024/10/25/7SX74PJOGZGPNDIKJJSN2R73UI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/25/7SX74PJOGZGPNDIKJJSN2R73UI/</guid>
@@ -934,33 +977,6 @@
       <description/>
       <pubDate>Thu, 24 Oct 2024 15:30:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CZ3KADXIFNAYLICUVZXEYFENQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>사직 전공의 45% 병·의원 재취업</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/10/24/DG6FNK72MNEIHOKSDG3Y4GLEYA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/24/DG6FNK72MNEIHOKSDG3Y4GLEYA/</guid>
-      <dc:creator>조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Oct 2024 12:38:24 +0000</pubDate>
-      <content:encoded>의대 증원에 반발해 올 2월 병원을 집단 이탈한 전공의의 44.9%가 재취업해 의사로 일하고 있는 것으로 나타났다. 이들 중 과반은 동네 의원 등 소규모 의료 기관에 취업했다.&lt;br&gt;&lt;br&gt;24일 국회 보건복지위원회 소속 김윤 더불어민주당 의원이 보건복지부에서 받은 자료에 따르면 지난 20일 기준 사직 또는 임용 포기 레지던트 9163명 중 44.9%(4111명)가 의료기관에 재취업했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DSFH3B4PT5IFXPTJH5VPOLGMMI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 서울 용산구 대한의사협회 회관 대강당에서 열린 '대한재활의학과의사회 학술대회'에 사직 전공의들이 참석해 강의를 듣고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;종별로 보면 의원에 취업한 사직 레지던트는 2341명으로, 전체 재취업자의 56.9%에 달해 가장 많다. 병원급 의료기관에 취업한 사직 레지던트는 1050명으로, 전체 재취업자의 25.5%였다.&lt;br&gt;&lt;br&gt;대형 병원인 상급 종합병원에 재취업한 사직 레지던트는 72명으로 전체 재취업자의 1.8%에 불과했다. 종합병원에 재취업한 사직 레지던트는 648명(15.8%)이다.&lt;br&gt;&lt;br&gt;지역별로 보면 병원급 이상 의료기관에서 일하는 사직 레지던트는 경기에 472명으로 가장 많았고, 서울 313명, 부산 140명, 경남 106명, 대구 101명 등 순으로 많았다. 상급 종합병원에 재취업한 사직 레지던트는 서울(34명)에 가장 많았다.&lt;br&gt;&lt;br&gt;진료과목별로 보면 의원급 의료기관 중 일반의 의원에 취업한 사직 레지던트가 808명으로 가장 많았다. 내과 347명, 정형외과 199명, 이비인후과 193명, 피부과 168명, 안과 164명 등이 뒤를 이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이화영 변호인, 보석 심문서 “이 재판 때문에 이재명 양형 불이익 심각”</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/24/7CHMCHVH7JANLA6KSCCN5UCG7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/24/7CHMCHVH7JANLA6KSCCN5UCG7E/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Oct 2024 10:28:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5SYQ32DXVRNS5JVGPQD4T7EH4M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사가 지난 2일 오후 서울 여의도 국회 법제사법위원회에서 열린 박상용 수원지검 부부장검사 탄핵소추사건 조사 청문회에 출석, 의원 질의에 답변하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘불법 대북송금’과 불법 뇌물·정치자금 수수 혐의 등으로 1심에서 징역 9년 6개월을 선고받은 이화영 전 경기도 평화부지사 측은 24일 열린 그의 보석 심문에서 “이 사건 재판 때문에 이재명 피고인의 제3자 뇌물 심리의 양형상 불이익이 매우 심각하다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 “보석 조건에 대한 이야기를 하는 게 아니라 이재명 (더불어민주당) 대표 이야기를 하신다”며 “납득하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;수원고법 형사1부(재판장 문주형)는 이날 오후 이 전 부지사의 외국환거래법 위반, 뇌물 및 정치자금법 위반 등에 대한 2심 7차 공판을 마치고, 이 전 부지사의 보석 여부를 판단하기 위한 심문을 진행했다.&lt;br&gt;&lt;br&gt;이날 이 전 부지사 측 변호인은 “이 사건 공소사실은 외화의 반출에 필요한 신고나 허가 절차를 위반했다는 매우 단순한 공소사실을 기초로 해서 기소가 했는데, 실제 내용은 제3자 뇌물로 추가 기소된 이재명 피고인의 공소사실 주요 내용들이 원심에서 심리됐다”며 “의도적으로 분리 기소를 했다고 볼 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;변호인은 또 “공범인 이재명의 증거자료에 대한 탄핵 등이 없는 상태에서 심리가 이뤄졌고, 이 상태에서 항소심이 마무리되면, 사실에 대한 평가가 달라지는 등 여러 가지가 예상된다”고 했다. 변호인은 “이 사건 재판 때문에 추가 기소된 제3자 뇌물 심리가 형해화(形骸化) 될 수 있고, 양형상 불이익도 매우 심각하다”고도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U2SN6YVVYFCDZUQRK4TH5FANK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도지사 재임 당시 이재명 더불어민주당 대표와 이화영 전 경기도 평화부지사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재 이 전 부지사가 받고 있는 항소심 재판은 800만불 대북송금에 따른 외국환거래법 위반 혐의만 적용돼있다. 이 전 부지사와 이 대표는 이 사실을 바탕으로 제3자 뇌물 혐의로 별도 기소돼 수원지법에서 1심 재판을 받고 있다.&lt;br&gt;&lt;br&gt;이에 검찰은 “보석심문은 보석 조건에 대한 이야기를 하는 자리인데, 변호인은 보석 사유나 조건에 대해 아무런 내용을 말씀 안 하시고, 이재명 대표 이야기를 하신다”고 했다. 검찰은 “1심에서 재판 중인 다른 사건이 선고가 될 때까지 이 사건(항소심) 선고를 하면 안 된다는 취지인데 납득하기 어렵다”며 “보석 청구를 기각해달라”고 했다.&lt;br&gt;&lt;br&gt;이 전 부지사 측은 1심 선고 전인 지난 5월 21일 열린 보석심문에서도 “이화영에 대한 유죄판결은 향후 이재명 대표에 대한 유죄를 추정하는 유력한 재판 문서로 작용할 것”이라며 보석 조건과는 무관한 발언을 하기도 했다. 당시에도 검찰은 “형사소송법에 의하면 보석 조건에 대한 심리에 집중하도록 돼있는데도 불구하고 이화영의 보석 조건이 아니라 정치적 주장을 하고 있다”고 했다.&lt;br&gt;&lt;br&gt;이 전 부지사는 지난 16일 법원에 보석 신청을 냈다. 그는 2022년 10월 14일 구속 기소돼 수원구치소에 수감됐다가, 지난 6월 7일 이 사건 1심에서 징역 9년 6개월을 선고받고 안양교도소에 수감돼 있는 상태다. 그 사이 두 차례 보석을 신청했으나, 각각 기각돼 2년 넘게 구속돼 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/72PZLU22SYARDEHO5CJNXOUJS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산구 쌍방울그룹 본사 정문. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 이날 재판에선 이 전 부지사와 같은 혐의로 기소된 방용철 쌍방울 그룹 부회장에 대한 증인신문이 이뤄졌다. 이날 방 부회장은 “리호남에 도지사 방북비용 70만불을 전달했다”는 취지로 말했다. 리호남은 북한 특수공작원으로, 영화 ‘공작’의 모티브가 된 인물인 것으로 알려졌다. 김성태 전 쌍방울 그룹 회장은 2019년 당시 도지사였던 이재명 대표의 방북비용 명목의 300만불 중 70만불을 2019년 7월 제2회 아태평화국제대회가 열린 필리핀 마닐라에서 리호남에게 건넸다고 했다. 그러나 이 전 부지사 측은 “리호남이 이 행사에 오지 않았다”며 이 같은 주장은 사실이 아니라고 주장해 왔다.&lt;br&gt;&lt;br&gt;이날 방 부회장은 “위챗이라는 (중국 모바일)메신저에 최모씨(쌍방울 직원), 리호남, 저 셋이 있는 (단체 대화)방이 하나 있었고, 연락을 통해 저희 호텔로 오라고 했다. (김성태)회장님이 있는 방까지 제가 안내했다”고 했다. 그는 또 “저희가 (70만 달러가 담긴)가방을 준비해 놨다”며 “고급 위스키를 사면 캐리어를 주는데, 거기다가 회장님이 돈을 담아두셨던 거로 기억하고, 가방째로 전달한 것으로 알고 있다”고 증언했다.&lt;br&gt;&lt;br&gt;이 전 부지사는 이 대표가 경기도지사이던 2019년 도지사 방북 비용 300만불과 북한 스마트팜 사업 비용 500만불을 쌍방울이 대신 북한 측에 내게 한 혐의를 받는다. 이 전 부지사는 쌍방울로부터 법인카드와 차량 등을 제공받는 등 수 억원 대의 정치자금과 뇌물을 받은 혐의 등도 받고 있다. 1심 재판부인 수원지법 형사11부(재판장 신진우)는 지난 6월 7일 그에 대한 혐의를 모두 유죄로 판단하면서, 스마트팜 사업비와 방북비용 등 800만 달러가 북한 측에 전달한 사실을 인정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>前 ‘틴탑’ 캡 “하니, 국감서 자기 이야기만… 공감 못받아”</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/24/3MWXACNUSBFJFJWF7JZNDIAY6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/24/3MWXACNUSBFJFJWF7JZNDIAY6A/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Oct 2024 10:21:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B7TJCJVAD5CM3ASFPXU6V2HYSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 틴탑의 전 멤버 방민수(캡·왼쪽), 그룹 뉴진스 멤버 하니./ 뉴시스, 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 ‘뉴진스’ 멤버 하니가 최근 국회 국정감사에 참고인으로 출석해 하이브 내 따돌림이 있었다고 증언한 것을 두고 그룹 ‘틴탑’ 전 멤버 캡(본명 방민수)이 “너무 자기 이야기만해서 공감을 못 받는다”고 말했다.&lt;br&gt;&lt;br&gt;방민수는 지난 23일 자신의 유튜브에서 “뉴진스 하니 국감을 봤는데 자기 이야기밖에 없다. 뉴진스 정도면 다른 계급에 있다는 생각이 드는데 자기 이야기밖에 안 한다”며 이 같이 말했다.&lt;br&gt;&lt;br&gt;그는 엔터테인먼트 간 분쟁으로 발생한 이번 사건을 노동 문제로 접근하려면 하니가 제대로 대우받지 못하는 업계 종사자들의 사례를 함께 언급했어야 했다는 취지로 주장했다. 그러면서 “엔터 쪽에 소속된 사람들 중에서도 취약계층이 많다”며 “그런 곳에 포커싱을 줘야지 자기가 인사를 했는데 높은 분이 안 받아주고, 자기 팀이 무시받았고 그러면 어떡하나”라고 했다. 이어 “문제가 뭔지 제대로 말해야 듣는 사람들이 공감을 하고 문제를 파악하고 해결을 해주지”라고 덧붙였다.&lt;br&gt;&lt;br&gt;그는 또한 “심지어 데뷔한 지 얼마 되지도 않았는데 정산을 30억~50억 받은 그런 사람이 나와서 ‘자기 팀 힘들어요’ ‘사내 괴롭힘당했어요’ 이런 말 하면 안 되지 솔직히”라며 “내 목소리를 듣게 하고 싶으면 회색 지대의 사람들에게 공감대를 형성시켜줘야 하는데 하니는 그러지 못했다. 답답했다”고 했다.&lt;br&gt;&lt;br&gt;그는 하니를 국감 참고인으로 채택한 국회에 대해서도 “국회의원이 문제다. 어디에 문제가 있는지, 종사자가 몇 명이나 있는지, (무엇을) 최우선으로 해결하고 정상적으로 풀어나갈지 파악한 후에 국감을 해야지 당장 이슈를 끌기 위해 어린애(하니)를 국감 내보내면 어떡하나”라고 했다.&lt;br&gt;&lt;br&gt;앞서 뉴진스의 베트남계 호주인 멤버 하니는 지난 15일 국회 환경노동위원회 국감에 참고인으로 출석해 직장 내 괴롭힘 문제와 관련해 증언했다. 하니는 이 자리에서 다른 그룹 매니저로부터 ‘무시해’ 발언을 들었다고 주장했다.&lt;br&gt;&lt;br&gt;하니는 “헤어와 메이크업이 끝나서 복도에서 기다리고 있었는데, 다른 소속 팀원분들 세분 정도와 여성 매니저가 저를 지나가셔서 잘 인사했다”며 “5분, 10분 후에 그분들이 다시 나왔다. 그 매니저가 저와 눈을 마주치고 뒤에 따라오는 멤버들에게 ‘못 본 척 무시해’라고 했다”고 말했다. 또 “데뷔 초부터 어떤 높은 분을 많이 마주쳤는데 마주칠 때마다 인사를 한 번도 안 받았다”고 했고, “최근 블라인드라는 앱에서 회사 직원들이 뉴진스를 욕한 것도 봤다”라며 하이브 내 따돌림이 있었다고 주장했다.&lt;br&gt;&lt;br&gt;다만 현행 근로기준법상 예술인을 근로자로 보기는 어려워 근로자에게만 적용되는 ‘직장 내 괴롭힘’을 하니에게 적용하기는 무리라는 얘기가 나온다. 뉴진스의 직장 내 괴롭힘 의혹에 대해 김유진 고용노동부 노동정책실장은 국감 답변에서 “현행 근로기준법상으로는 (하니에게) 적용하기가 힘든 현실이 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
