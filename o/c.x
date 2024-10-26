@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>편의점서 라면 쏟더니… 민폐 논란 유튜버, 이번엔 행인 주먹에 ‘퍽’ </title>
+      <link>https://www.chosun.com/national/national_general/2024/10/26/FVTLRR7ZXNDFJI4HIWECG3VYK4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/26/FVTLRR7ZXNDFJI4HIWECG3VYK4/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Oct 2024 10:21:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EI6EWQ2PF5HFVEPGK6VBOXSJIM.gif"&gt;&lt;figcaption&gt;&lt;small&gt;민폐 행위로 논란이 된 외국인 유튜버 조니 소말리가 한국의 길거리에서 행인에게 폭행당하고 있다./엑스(X)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국에서 각종 기행을 벌여 논란을 빋었던 외국인 유튜버 조니 소말리가 방송 도중 한 남성에게 폭행당했다.&lt;br&gt;&lt;br&gt;이런 장면은 조니 소말리가 지난 24일 밤 서울 홍대로 추정되는 거리에서 라이브 방송을 하던 중 포착됐다. 영상을 보면 조니 소말리는 당시 일행과 함께 스마트폰을 켠 채 방송을 하고 있었는데, 갑자기 한 남성이 다가와 그의 얼굴에 주먹을 날렸다.&lt;br&gt;&lt;br&gt;일행은 갑작스럽게 벌어진 일에 “왜 그러느냐”며 놀라서 소리쳤다. 남성은 이어 조니 소말리의 스마트폰을 빼앗아 멀리 던져버리고는 자리를 떴다. 조니 소말리와 일행은 “왜 도망가느냐”고 외치며 남성을 한동안 따라갔으나, 남성은 아랑곳하지 않은 채 가던 길을 갔다. 조니 소말리는 이후 방송에서 눈 위에 밴드를 붙인 채 나타났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RVBVLC3FOJFQHETFU27ZLIYOHU.png"&gt;&lt;figcaption&gt;&lt;small&gt;폭행 사건 이후 눈 위에 밴드를 붙인 조니 소말리./ 엑스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유튜버를 폭행한 남성의 신원과 폭행한 이유 등은 알려지지 않았다. 국내 온라인 커뮤니티에는 이 영상이 확산됐고 “용자가 나타났다” “한국을 우습게 보는 유튜버를 응징했다” 등의 반응이 나왔다. 그러나 민폐 행동을 했더라도 폭행은 지나치다는 의견도 있었다.&lt;br&gt;&lt;br&gt;앞서 조니 소말리는 한국 거리를 돌아다니면서 불쾌한 행동을 일삼아 논란이 됐다. 그는 지난 9일 이태원에서 평화의 소녀상 볼에 뽀뽀를 하거나 소녀상 앞에서 외설적인 춤을 추는 모습을 영상으로 내보냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WSFOJHOGSNCSRCVG6YKYO2IXWA.png"&gt;&lt;figcaption&gt;&lt;small&gt;편의점에서 술을 마신 후 테이블에 컵라면을 붓는 유튜버 조니 소말리./ 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 한국 편의점에서 음악을 크게 틀고 라면 국물을 책상에 쏟은 뒤 경찰을 부르겠다는 직원의 말에 욕설을 퍼붓기도 했다. 조니 소말리는 유튜브 구독자 약 1만8000명을 보유하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아들에 폭행당한 90대 노모… “밥 챙겨줘야” 처벌불원 호소 </title>
+      <link>https://www.chosun.com/national/incident/2024/10/26/ATALL2C2LVCWVEPTPKZZN5K36I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/26/ATALL2C2LVCWVEPTPKZZN5K36I/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Oct 2024 12:50:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KXFAOMPGOZFIHGAO5RN7Q2JVFE.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;90대 노모를 상습 폭행한 70대 아들이 구속된 가운데, 피해자인 어머니는 경찰에 처벌불원서를 내며 아들을 감쌌다.&lt;br&gt;&lt;br&gt;26일 뉴스1에 따르면, 경기 평택경찰서는 최근 상습존속폭행 혐의로 70대 남성 A씨를 구속해 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;A씨는 지난 8월 28일 오전 9시쯤 평택시 신장동 주거지에서 90대 어머니인 B씨의 멱살을 잡고 여러 차례 주먹을 휘두른 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 B씨는 인근 지구대를 찾아 “아들에게 폭행 당했다”고 신고했다. 당초 경찰은 B씨의 팔 등에 멍이 든 것을 고려해 A씨를 존속폭행 혐의로 입건하려 했으나 B씨는 돌연 “아들 밥을 챙겨줘야 한다”며 처벌 불원 의사를 밝혔다고 한다.&lt;br&gt;&lt;br&gt;형법 제260조 제2항이 규정하고 있는 존속폭행은 피해자가 원하지 않으면 가해자를 처벌할 수 없는 반의사불벌죄에 해당한다.&lt;br&gt;&lt;br&gt;그러나 경찰은 B씨의 폭행 피해 112 신고 내역을 여러 건 발견했고 A씨에게 상습존속폭행 혐의를 적용했다. 상습존속폭행은 피해자 의사와 무관하게 가해자를 처벌할 수 있다.&lt;br&gt;&lt;br&gt;어머니는 과거 신고 때도 아들에 대한 처벌을 원치 않는다는 의사를 밝혀왔으며, 보호조치도 마다했다고 한다.&lt;br&gt;&lt;br&gt;미혼인 A씨는 오랜 시간 어머니와 함께 살며 알코올 중독 증세를 보여왔으며 사건 당일에도 만취한 채 어머니를 폭행 한 것으로 조사됐다. 경찰은 A씨 혐의가 중하다고 판단해 체포 및 구속영장을 각각 발부받아 그를 조사해 왔다. A씨는 “술에 취해 기억이 안 난다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>공동주택사업 담당 공무원 뇌물수수 의혹…광주 광산구 자체조사 착수</title>
       <link>https://www.chosun.com/national/national_general/2024/10/26/WP5UZRKWYFFTXMI7DZPPVM3N6A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/26/WP5UZRKWYFFTXMI7DZPPVM3N6A/</guid>
@@ -851,15 +869,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XHF64XC3JJEI3ICP77JBS7QY2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김수미가 지난 2015년 1월 29일 서울 강남구 신사동 CGV 압구정에서 열린 영화 '헬머니' 제작보고회에서 미소를 짓고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 최장수 드라마 ‘전원일기’에서 ‘일용 엄니’로 사랑받았던 배우 김수미(75)는 드라마·영화뿐만 아니라 다수 예능 프로그램에도 종횡무진하며 늘 시청자 곁을 지켰다. 젊은 나이에 시골 할머니 역(전원일기)을 맡아 배우의 면모를 보여줬고, 욕쟁이 할머니(헬머니), 노총각의 어머니(맨발의 기봉이), 처녀 유령(안녕 프란체스카) 등 다양한 배역을 맡으며 다채로운 연기를 선보였다.&lt;br&gt;&lt;br&gt;25일 배우 김수미(본명 김영옥)가 75세의 나이로 별세했다. 김수미는 이날 오전 8시 8분쯤 심정지 상태로 서울성모병원에 이송됐으며, 스트레스로 인한 고혈당 쇼크사로 추정되고 있다. 김수미의 빈소는 한양대병원 장례식장에 마련될 예정이다. 올해 5월까지 뮤지컬 ‘친정엄마’로 무대에 올랐던 그는 건강 악화로 인해 지난 5월과 7월 병원에 입원하며 활동을 잠정 중단했다.&lt;br&gt;&lt;br&gt;김수미는 1949년 전북 군산에서 태어나 1970년 MBC 3기 공채 탤런트로 데뷔했다. 드라마 ‘수사반장’(1971)으로 처음 연기를 시작했지만 한동안 무명 시절을 보냈다. 대표작인 ‘전원일기(1980~2002)’에서 ‘일용 엄니’ 역으로 주목받기 시작했다. 당시 그는 32세의 나이로 시골 할머니 역을 맡았는데 아들 일용이(박은수 분)보다 어린 나이로 배역을 소화했다. ‘둘이 사는 역할’이라는 말만 듣고 일용의 아내를 맡을 줄 알았는데, 대본을 받아 보니 엄마 역할이었다는 일화가 유명하다. 이후 ‘전원일기’와 ‘남자의 계절’(1985)로 MBC 연기대상 대상을 수상했다.&lt;br&gt;&lt;br&gt;이어 ‘마당 깊은 집(1990), ‘젊은이의 양지’(1995) ‘파랑새는 있다’(1997) 등 다수의 작품에 출연했고, ‘발리에서 생긴 일’(2004)에서는 정재민(조인성 분)의 모친 송희숙 역을 맡아 강렬한 인상을 남겼다. ‘안녕, 프란체스카’(2005)에서는 카사노바에게 온몸의 정기를 뺏겨 졸지에 50대 중년 여성이 된 ‘처녀 유령’ 이사벨로 웃음을 선사했다. 이후에도 ‘돈의 화신’(2013) ‘전설의 마녀’(2014) ‘언니는 살아있다!’(2017) 등 다수 드라마를 통해 시청자를 만났다.&lt;br&gt;&lt;br&gt;스크린에서도 활약했다. 대표작으로는 시리즈물 ‘마파도’(2005) ‘마파도2′(2007), ‘가문의 위기-가문의 영광2′(2005) ‘가문의 부활-가문의 영광3′(2006) ‘가문의 영광4-가문의 수난’(2011) ‘가문의 영광: 리턴즈’(2023) 등이 있다. ‘간 큰 가족’(2005) ‘맨발의 기봉이’(2006) ‘위험한 상견례’(2011) ‘위험한 상견례2′(2015) ‘전국 노래자랑’(2013) 등에도 출연했다. 김수미는 다수 작품에서 맛깔나는 욕설 연기를 소화했는데, ‘헬머니’(2014)에서는 주연을 맡아 욕배틀을 벌이는 욕쟁이 할머니로 분했다.&lt;br&gt;&lt;br&gt;김수미는 예능에서도 주목받았다. 뛰어난 요리 솜씨로 자신의 요리 노하우를 선보인 tvN ‘수미네 반찬’ 시리즈로 인기를 얻었고, KBS 2TV ‘수미산장’, SBS 플러스 ‘밥은 먹고 다니냐’ 등에서도 활약했다. 최근까지 tvN STORY ‘회장님네 사람들’에도 출연하며 꾸준히 대중을 만나왔다. 며느리인 배우 서효림과도 예능에 함께 출연해 애틋한 고부 관계를 보여줬다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>김용건 “김수미, 2주 전 통화 땐 목소리 좋았는데…너무 일찍 떠났다”</title>
-      <link>https://www.chosun.com/national/people/2024/10/25/QD2PDEFTEVF2PNE2AIQBFMHBDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/25/QD2PDEFTEVF2PNE2AIQBFMHBDA/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Oct 2024 02:45:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2IXKBXIGLNCFNIQE7SVTO2R2SM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김용건과 김수미. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 김수미(75)씨의 갑작스러운 별세 소식이 전해지자 선배 연기자 김용건(78)씨가 황망한 심정을 전했다. 그는 “2주 전 통화에선 평소와 다름없이 목소리가 좋았다”며 안타까움을 감추지 못했다.&lt;br&gt;&lt;br&gt;서울 서초경찰서에 따르면 김수미씨는 25일 오전 8시쯤 서초구 방배동 자택에서 심정지가 발생해 서울성모병원으로 옮겨졌으나 결국 사망 판정을 받았다. 아들 정명호씨는 연합뉴스에 “사인을 조사한 경찰이 고혈당 쇼크사가 최종 사인이라고 알렸다”며 “당뇨 수치가 500 넘게 나왔다”고 밝혔다.&lt;br&gt;&lt;br&gt;오랜 동료인 김용건씨는 이날 비보가 전해진 직후 뉴스1과의 통화에서 “2주 전 통화했고 평소와 다름없이 목소리가 좋았다”며 “‘별일 없지’ 했더니 ‘오빠 잘 지내요’ 하며 내 안부를 물었다. ‘오빠 건강 잘 챙겨’ ‘편안한 날 한번 봐’라고 했는데 오늘 아침 이야기를 듣고 믿어지지 않았다”고 했다.&lt;br&gt;&lt;br&gt;이어 “최근 ‘회장님네 사람들’을 하면서 점점 건강이 안 좋다는 걸 감으로 느꼈다. 본인도 어디가 아프다는 이야기는 하지 않았다”며 “’전원일기’를 통해 50년 동안 알고 지냈기 때문에 가족처럼 지냈다. 이런 비보를 들어 아침에 넋을 잃고 있었다”고 말했다.&lt;br&gt;&lt;br&gt;고인을 추억하면서는 “상당히 많이 베풀고 살았다. ‘전원일기’ 시절 20년간 점심을 챙기면서 여러 사람 같이 먹을 수 있게 준비하고 베푸는 걸 좋아했다”며 “식사하면서 출연자들 음식 싸주고 빈손으로 안 가게 했다”고 했다. 그러면서 “너무 일찍 우리 곁을 떠난 것 같다”며 비통해했다.&lt;br&gt;&lt;br&gt;김수미씨는 1970년 MBC 3기 공채 탤런트로 데뷔했다. 지난 5월 피로 누적으로 입원해 활동을 중단한 바 있다. 이후 9월 홈쇼핑 방송으로 공식 활동을 재개했으나 부은 얼굴과 떨리는 손, 느리고 어눌한 말투를 보여 건강 이상설이 불거지기도 했다.&lt;br&gt;&lt;br&gt;장례식장은 한양대병원에 마련될 예정이다. 빈소 호수는 아직 정해지지 않았다. 유족으로는 배우자 정창규씨와 딸 정주리·아들 정명호씨, 며느리인 배우 서효림씨가 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>故김수미 아들 “母사인은 고혈당 쇼크… 당뇨수치 500넘어”</title>
       <link>https://www.chosun.com/national/national_general/2024/10/25/5E5JCQFI35H3TPFNKE6YLB34AY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/25/5E5JCQFI35H3TPFNKE6YLB34AY/</guid>
@@ -867,15 +876,6 @@
       <description/>
       <pubDate>Fri, 25 Oct 2024 02:42:08 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JJJJXQ7SSJI6JOZ2DBZOWT65FA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김수미(75)씨가 25일 오전 별세했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 별세한 배우 김수미(75)의 사인은 스트레스로 인한 고혈당 쇼크라고 유족이 밝혔다.&lt;br&gt;&lt;br&gt;고인의 아들인 정명호 나팔꽃F&amp;amp;B 이사는 이날 연합뉴스에 “사인을 조사한 경찰이 고혈당 쇼크사가 최종 사인이라고 알렸다”며 “당뇨 수치가 500이 넘게 나왔다”고 했다.&lt;br&gt;&lt;br&gt;고혈당 쇼크는 혈액 속 포도당 농도가 급격하게 상승해 신체 기능이 저하되는 증상이다. 스트레스 등 외부 요인이 원인이 될 수 있는 것으로 전해진다.&lt;br&gt;&lt;br&gt;김수미는 최근 14년간 출연했던 뮤지컬 ‘친정엄마’의 출연료 미지급 문제로 소송을 준비하며 스트레스를 받아왔다고 한다. 제작사가 표절 시비에 휩싸이면서 김수미는 작년부터 출연료를 지급받지 못했다.&lt;br&gt;&lt;br&gt;정 이사는 “사실 ‘친정엄마’ 때문에 어머니가 스트레스가 많았다”며 “지난해부터 출연료를 한 푼도 받지 못해 소송을 준비 중이었다”고 했다.&lt;br&gt;&lt;br&gt;서울 서초경찰서에 따르면 김수미는 이날 오전 방배동 자택에서 심정지가 발생했다. 고인은 의식이 없는 상태에서 아들에게 발견돼 이날 오전 8시쯤 서초구 서울성모병원으로 옮겨졌으나 결국 사망 판정을 받았다.&lt;br&gt;&lt;br&gt;장례식장은 한양대병원으로 정해졌다. 유가족으로는 아들인 사업가 정명호씨와 며느리인 배우 서효림이 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘성매매 의혹’ 경찰, FT아일랜드 최민환 내사 착수</title>
-      <link>https://www.chosun.com/national/incident/2024/10/25/FQGOCZ5U6BEBNJ3II4IGGPZCN4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/25/FQGOCZ5U6BEBNJ3II4IGGPZCN4/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Oct 2024 02:24:32 +0000</pubDate>
-      <content:encoded>FT아일랜드 최민환(31)의 성매매 업소 출입과 관련해 경찰이 입건 전 조사(내사)에 착수했다. 서울 강남경찰서는 성매매처벌법 혐의로 최씨를 내사 중이라고 25일 밝혔다. 국민신문고를 통해 민원을 접수한 데 따른 조처다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU7MJ54ANZAJBHM2VRE7XSEA54.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;FT아일랜드 최민환과 걸그룹 라붐 출신 김율희./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 걸그룹 라붐 출신 김율희(26)씨는 유튜브 영상에서 전남편 최씨의 성매매 의혹을 제기했다. 김씨는 “집에서 술을 마시다가 어머님은 설거지를 하고 여동생 부부는 우리를 등지고 노래를 부르고 있었는데 (최씨가) 기분이 좋았는지 돈을 가슴에 꽂았다”고 말했다. 김씨는 “내가 그 나이에 업소를 가봤겠나, 알고 보니 그게 (업소에서 하던) 습관이었다”고 주장했다.&lt;br&gt;&lt;br&gt;영상에서 김씨는 최씨가 누군가와 통화하는 녹취록도 공개했는데, 이 녹취록에는 “놀러 가고 싶다” “아가씨 있냐”는 최씨의 발언이 담겼다.&lt;br&gt;&lt;br&gt;경찰은 “수사접수 단계라 구체적인 혐의는 아직 파악 중”이라고 밝혔다. 한편 김씨는 모든 활동을 중단한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>주말, 나들이하기 좋은 가을날씨...남부지방엔 비 예보</title>
