@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘핼러윈 참사’ 2주기 추모대회…이태원→서울광장 행진</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/26/WU2ILRIN6FBR7AI2YK6SXZAYXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/26/WU2ILRIN6FBR7AI2YK6SXZAYXY/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Oct 2024 04:48:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KGHPGEWGQ5GNNKBLJCK76CGSLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 오후 서울 용산구 이태원역. 핼러윈 참사 2주기 추모대회를 앞두고 유가족들이 눈물을 흘리고 있다./박진성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10.29 이태원 ‘핼러윈 참사’ 2주기를 사흘 앞둔 26일 유가족들이 시민 추모대회를 연다.&lt;br&gt;&lt;br&gt;‘이태원 참사 유가족 협의회’ 등은 서울 용산구 이태원역 1번출구 앞에서 4개 종단 기도회를 연다. 희생자 159명을 기린다는 의미로 오후 1시 59분부터 시작한다. 이태원역 1번출구는 희생자가 다수 발생했던 해밀턴 호텔이 있는 곳이다.&lt;br&gt;&lt;br&gt;이후 유가족들은 이태원역에서 대통령실, 서울역을 거쳐 중구 서울광장으로 행진한다. 본 추모식은 서울광장에서 오후 6시34분에 연다. 이 시간은 참사 당일 최초 신고가 접수된 시간이다.&lt;br&gt;&lt;br&gt;추모 대회는 유가족협의회의 인사를 시작으로 4·16 가족협의회와 10.29 이태원 참사 특별조사위원장, 여야 원내·상임대표들의 추모사로 이어진다.&lt;br&gt;&lt;br&gt;다른 유가족 단체인 ‘유족 협의회’는 서울광장에 핼러윈 참사 추모와 기억, 재난 참사 등을 주제로 한 부스를 차린다.&lt;br&gt;&lt;br&gt;지난 2022년 10월 29일 밤 10시쯤 이태원 해밀턴호텔 옆 골목 등에 인파가 몰리며 압사 사고가 발생해 159명의 사망자가 발생했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEOMIFOAH5BGHPYSJI2PFBOEJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 오후 서울 용산구 이태원동 '해밀턴 호텔' 옆 골목. 핼러윈 참사로 희생자가 다수 발생한 골목길에 흰 국화 여섯 송이, 커피 세 병과 와인 1병, 희생자의 얼굴이 담긴 액자가 놓여있다./박진성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>佛 최고 훈장 받은 미슐랭 셰프가 말하는 흑백요리사 열풍</title>
       <link>https://www.chosun.com/national/people/2024/10/26/LFSMTYZ6OJDX5NX3NYNSPEANJ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/26/LFSMTYZ6OJDX5NX3NYNSPEANJ4/</guid>
@@ -952,15 +961,6 @@
       <description/>
       <pubDate>Thu, 24 Oct 2024 10:21:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B7TJCJVAD5CM3ASFPXU6V2HYSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 틴탑의 전 멤버 방민수(캡·왼쪽), 그룹 뉴진스 멤버 하니./ 뉴시스, 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 ‘뉴진스’ 멤버 하니가 최근 국회 국정감사에 참고인으로 출석해 하이브 내 따돌림이 있었다고 증언한 것을 두고 그룹 ‘틴탑’ 전 멤버 캡(본명 방민수)이 “너무 자기 이야기만해서 공감을 못 받는다”고 말했다.&lt;br&gt;&lt;br&gt;방민수는 지난 23일 자신의 유튜브에서 “뉴진스 하니 국감을 봤는데 자기 이야기밖에 없다. 뉴진스 정도면 다른 계급에 있다는 생각이 드는데 자기 이야기밖에 안 한다”며 이 같이 말했다.&lt;br&gt;&lt;br&gt;그는 엔터테인먼트 간 분쟁으로 발생한 이번 사건을 노동 문제로 접근하려면 하니가 제대로 대우받지 못하는 업계 종사자들의 사례를 함께 언급했어야 했다는 취지로 주장했다. 그러면서 “엔터 쪽에 소속된 사람들 중에서도 취약계층이 많다”며 “그런 곳에 포커싱을 줘야지 자기가 인사를 했는데 높은 분이 안 받아주고, 자기 팀이 무시받았고 그러면 어떡하나”라고 했다. 이어 “문제가 뭔지 제대로 말해야 듣는 사람들이 공감을 하고 문제를 파악하고 해결을 해주지”라고 덧붙였다.&lt;br&gt;&lt;br&gt;그는 또한 “심지어 데뷔한 지 얼마 되지도 않았는데 정산을 30억~50억 받은 그런 사람이 나와서 ‘자기 팀 힘들어요’ ‘사내 괴롭힘당했어요’ 이런 말 하면 안 되지 솔직히”라며 “내 목소리를 듣게 하고 싶으면 회색 지대의 사람들에게 공감대를 형성시켜줘야 하는데 하니는 그러지 못했다. 답답했다”고 했다.&lt;br&gt;&lt;br&gt;그는 하니를 국감 참고인으로 채택한 국회에 대해서도 “국회의원이 문제다. 어디에 문제가 있는지, 종사자가 몇 명이나 있는지, (무엇을) 최우선으로 해결하고 정상적으로 풀어나갈지 파악한 후에 국감을 해야지 당장 이슈를 끌기 위해 어린애(하니)를 국감 내보내면 어떡하나”라고 했다.&lt;br&gt;&lt;br&gt;앞서 뉴진스의 베트남계 호주인 멤버 하니는 지난 15일 국회 환경노동위원회 국감에 참고인으로 출석해 직장 내 괴롭힘 문제와 관련해 증언했다. 하니는 이 자리에서 다른 그룹 매니저로부터 ‘무시해’ 발언을 들었다고 주장했다.&lt;br&gt;&lt;br&gt;하니는 “헤어와 메이크업이 끝나서 복도에서 기다리고 있었는데, 다른 소속 팀원분들 세분 정도와 여성 매니저가 저를 지나가셔서 잘 인사했다”며 “5분, 10분 후에 그분들이 다시 나왔다. 그 매니저가 저와 눈을 마주치고 뒤에 따라오는 멤버들에게 ‘못 본 척 무시해’라고 했다”고 말했다. 또 “데뷔 초부터 어떤 높은 분을 많이 마주쳤는데 마주칠 때마다 인사를 한 번도 안 받았다”고 했고, “최근 블라인드라는 앱에서 회사 직원들이 뉴진스를 욕한 것도 봤다”라며 하이브 내 따돌림이 있었다고 주장했다.&lt;br&gt;&lt;br&gt;다만 현행 근로기준법상 예술인을 근로자로 보기는 어려워 근로자에게만 적용되는 ‘직장 내 괴롭힘’을 하니에게 적용하기는 무리라는 얘기가 나온다. 뉴진스의 직장 내 괴롭힘 의혹에 대해 김유진 고용노동부 노동정책실장은 국감 답변에서 “현행 근로기준법상으로는 (하니에게) 적용하기가 힘든 현실이 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘압구정 박스녀’ 여성에게 징역 1년 구형</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/24/QJGJQHLFVVEVBDJ7V6CUIU4YUU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/24/QJGJQHLFVVEVBDJ7V6CUIU4YUU/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Oct 2024 09:14:11 +0000</pubDate>
-      <content:encoded>옷 대신 상자만 걸친 채 행인들에게 자기 가슴 등을 만져보라고 한 여성에게 검찰이 징역 1년을 선고해달라고 요청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NSA3VGELYUGAP22RTAFD4MC224.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;압구정 박스녀. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 서울중앙지법 형사22단독 하진우 판사는 공연음란 혐의로 재판에 넘겨진 이모씨의 최후 진술과 검찰 구형 등을 듣는 결심(結審) 공판을 진행했다.&lt;br&gt;&lt;br&gt;이씨는 이날 출석해 피고인 신문을 받기도 했다. 이씨 측 변호인이 “당시 상자에 손을 넣은 사람들의 반응이 어땠냐”고 묻자 그는 “불쾌해 한 사람은 없었다”고 답했고, “이것이 음란한 행위라고 생각한 적 있느냐”에 대한 질문엔 “아니오”라고 대답했다.&lt;br&gt;&lt;br&gt;이씨는 이러한 행위를 통해 인지도를 올려 발생하는 경제적 이익은 기부할 생각이었다는 계획을 밝히기도 했는데, 검찰 측이 “가장 최근에 기부한 게 언제냐”고 묻자 “잘 모르겠다”고 말했다.&lt;br&gt;&lt;br&gt;아울러 검찰은 이날 같은 혐의로 함께 기소된 성인 콘텐츠 제작사 관계자 2명에겐 각각 징역 1년, 징역 1년 6개월을 구형했다.&lt;br&gt;&lt;br&gt;이씨는 최후 진술에서 “제 행동으로 인해 사회적 물의를 일으켜 죄송하다”며 “다시는 같은 죄질로 법정에 서지 않겠다”고 다짐했다.&lt;br&gt;&lt;br&gt;이들은 작년 10월 서울 압구정과 홍대 등 번화가를 돌아다니며 주점에 있는 사람이나 행인들에게 상자 안에 들어간 이씨의 가슴을 만지도록 유도한 혐의를 받는다. 이 상자는 이씨가 직접 제작했다고 한다.&lt;br&gt;&lt;br&gt;사람들은 실제로 손을 집어넣으며 이씨의 신체를 만지기도 했고, 이들은 당시 장면을 영상으로 찍어 온라인에 공개했다. 이씨는 이후 ‘압구정 박스녀’ 등으로 알려졌다.&lt;br&gt;&lt;br&gt;이 사건 1심 선고 기일은 오는 12월 12일로 잡혔다.&lt;br&gt;&lt;br&gt;한편 이씨는 마약 구매 혐의로 별도 재판을 받고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
