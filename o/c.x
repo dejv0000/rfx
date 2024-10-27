@@ -13,6 +13,36 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>멧돼지 오인 총기 사고로 50대 엽사 심정지 상태로 병원이송</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/27/6R5QBEVOWJCUZDG4OL6DKQ4UV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/27/6R5QBEVOWJCUZDG4OL6DKQ4UV4/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Oct 2024 13:11:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZTWXFQHNUEXAR2CA7LRJW55Q6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원도소방본부 로고. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;멧돼지를 퇴치하는 유해조수 구제 활동 중 총기 오인사고가 발생해 50대 엽사가 심정지 상태로 병원에 이송됐다.&lt;br&gt;&lt;br&gt;27일 소방당국 등에 따르면 이날 오후 8시 52분쯤 강원도 횡성군 횡성읍 갈풍리의 한 야산에서 “동료가 총을 맞았다”는 119 신고가 접수됐다.&lt;br&gt;&lt;br&gt;소방당국은 사고 현장에서 심정지 상태로 발견된 A(57)씨를 병원으로 이송했다. A씨는 허벅지 부위에 총을 맞은 것으로 전해졌다. A씨는 현재 의식을 되찾은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 엽사들이 멧돼지를 퇴치하던 중 총기 오인사고가 발생한 것으로 보고 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ZTWXFQHNUEXAR2CA7LRJW55Q6E.jpg?width=720&amp;height=411&amp;auth=801e4ca472089c797e8d74900c4c2b96f94b6149eebaf9803c3ad3beb60a5017&amp;smart=true" type="image/jpeg" height="411" width="720">
+        <media:description type="plain">강원도소방본부 로고</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“성매매 업소 아니라면? 책임질 건가”… 최민환 또 감싼 이홍기</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/27/WVPU2KUOHVGUPDEZLTFV66T7YM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/27/WVPU2KUOHVGUPDEZLTFV66T7YM/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Oct 2024 11:00:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H7RO4V6WO7JER4ZJVHNSAWFXNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;(왼쪽부터) FT아일랜드 멤버 이홍기, 이재진, 최민환. /최민환 인스타그램 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;밴드 FT아일랜드의 리더 이홍기가 성매매 의혹이 불거진 멤버 최민환을 거듭 옹호했다.&lt;br&gt;&lt;br&gt;이홍기는 26일 오후 11시쯤 팬 플랫폼 위버스를 통해 “성매매가 아니고 성매매 업소가 아니라면?”이라며 “지금 하는 말에 책임질 수 있느냐”고 했다.&lt;br&gt;&lt;br&gt;이는 같은 날 한 팬이 최민환의 성매매 의혹을 지적하는 글을 남긴 데 대한 답변 차원에서 이홍기가 남긴 글이다. 이 팬은 위버스에 “아빠씩이나 된 사람이 성매수를 했는지에 대한 증거는 차고 넘친다. 이미 성매매 혐의로 내사 착수까지 했다는데 뭘 더 기다려야 하는지 모르겠다”고 했었다.&lt;br&gt;&lt;br&gt;이홍기는 전날에도 최민환을 감싸는듯한 글을 남겼다. 당시 이홍기는 “둘의 사생활이었고 이렇게 돼버렸지. 잘못한 건 인정하고 머리 숙여 사과해야지”라면서도 “그래도 우리 모두 너무 쉽게 다 믿지는 말아야지”라고 했다. 이어 “나는 또 지켜내야지. 버텨야지. 그게 우리겠지”라며 “내가 할 수 있는 건 돌덩이들 맞아가며 앞으로 나아가는 거지”라고도 했다. 이홍기가 최민환의 이름을 직접 거론하지 않았지만, ‘둘의 사생활’과 같은 표현에서 그룹 라붐 출신 율희가 전 남편인 최민환의 사생활을 폭로한 데에 대한 심경을 밝힌 것으로 해석됐다.&lt;br&gt;&lt;br&gt;앞서 율희는 지난 24일 자신의 유튜브 채널을 통해 최민환이 결혼 기간 유흥업소에 출입했다며 관련 녹취를 공개했다. 녹취에는 최민환이 새벽 시각 지인에게 “놀러 가고 싶다. OOO은 아가씨 없대요” 등을 말하는 내용이 담겼다. 율희는 “시부모님 다 같이 있는데 중요 부위 만지고 가슴 쥐어뜯고 하는 게, 술 마셔서 애정 표현이 격해진 건 줄 알았다”며 “퍼즐이 맞춰지니 이건 못 고치는구나 생각했고 어디다 얘기할 데도 없었다”고 털어놨다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZIGDGF3PUVBZNERZQ6EUZM626M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;라붐 출신 율희. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;율희의 폭로는 경찰 수사 의뢰로도 이어졌다. 서울 강남경찰서는 한 민원인이 국민신문고를 통해 신청한 최민환의 성매매처벌법 위반 혐의에 대한 수사 의뢰를 접수해 내사에 착수한 상태다.&lt;br&gt;&lt;br&gt;2018년 결혼해 슬하에 세 자녀를 둔 최민환과 율희는 결혼 5년만인 작년 12월 이혼했다. 이혼 후 양육권을 가진 최민환은 최근까지 아이들과 육아 예능 프로그램 KBS 2TV ‘슈퍼맨이 돌아왔다’에 출연해 왔으나, 이번 논란으로 하차했다. 소속사 FNC엔터테인먼트는 “부부 문제와 관련된 개인 사생활에 대해 당사가 상세히 파악하긴 어렵지만, 최민환은 많은 대중과 시청자분들께 실망을 안겨드린 점에 대해 책임감을 느낀다”며 “아이들과 함께 출연하고 있는 방송을 비롯한 모든 미디어 활동을 중단하고자 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘명태균 왜곡 여론조사 의혹’ 업체 대표 소환</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/27/G4WOYTDNYZFFRKRWJLZFYU5D7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/27/G4WOYTDNYZFFRKRWJLZFYU5D7A/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Oct 2024 12:01:16 +0000</pubDate>
+      <content:encoded>정치 브로커 명태균씨의 ‘여론조사 비용 불법 조달 의혹’을 수사하는 검찰이 27일 명씨가 실질적으로 운영한 여론조사업체의 대표를 소환했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 창원지검 형사4부(부장 김호경)는 이날 미래한국연구소 소장 김모씨를 정치자금법 위반 혐의 피의자 신분으로 불러 조사했다. 검찰은 김씨에게 여론조사에 쓰인 비용을 조달한 경위 전반을 물은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YQ6M3DAVO5YAPQF6QXN6D7AIRU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원지검./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 검찰은 지난 25일 김씨의 주거지와 사무실을 압수 수색하며 한 차례 조사를 진행한 것으로 알려졌다. 그로부터 이틀 만인 이날 다시 조사한 것이다.&lt;br&gt;&lt;br&gt;김씨는 김영선 전 의원의 친인척이며 16·17대 국회에서 김 전 의원의 보좌관으로도 근무했었다. 김씨는 미래한국연구소의 대표이사로 등기돼 있지만 언론에는 “실소유주는 명씨이고 나는 이름만 빌려준 것”이라고 해왔다. 반면 명씨는 “미래한국연구소는 나와 관련 없다”는 입장이다.&lt;br&gt;&lt;br&gt;창원지검은 미래한국연구소가 지난 대선 당시 윤석열 후보를 위해 ‘맞춤형 여론조사’를 실시했고, 명씨가 그 대가로 김영선 전 의원의 공천을 받아냈다는 의혹을 수사 중이다. 미래한국연구소가 지난 대선 당시 80여차례에 걸쳐 3억7500만원 상당의 공표·미공표 여론조사를 실시해 윤석열 캠프에 제공했고, 그중 일부는 결과를 왜곡하기도 했다는 내용이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GXZPYCBQVZL5RHCNU37RVUT22M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사의 '공천개입 의혹'을 제기한 강혜경씨가 지난 21일 오후 국회에서 열린 법제사법위원회의 대검찰청 대상 국정감사에서 더불어민주당 서영교 의원의 질의를 받고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 의혹의 제보자인 강혜경씨는 “국민의힘 지방선거 예비후보들이 여론조사 비용 2억2700만원을 대납했다”고 주장하고 있다. 명씨가 두 명의 예비후보에게 공천을 미끼로 여론조사 비용 대납을 요구했다는 것이다. 또 이들이 공천을 받지 못하자 돈을 돌려달라고 했는데, 김 전 의원이 보궐 선거에서 당선된 후 선관위에서 받은 선거 보전금으로 일부를 갚아줬다는 것이 강씨 주장이다. 강씨는 미래한국연구소 부소장을 지냈다.&lt;br&gt;&lt;br&gt;창원지검은 지난 23일 강씨를 소환해 조사한 데 이어, 지난 24일에는 김 전 의원의 현역 시절 보좌관과 선임비서관, 수행비서 등 3명을 참고인 신분으로 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“이기면 다 해결?”… ‘정몽규 회장 불참’ 국감서 이어진 지적 </title>
       <link>https://www.chosun.com/national/national_general/2024/10/22/KIMG7OBW5ZBAXE43J2MN2P35AA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/22/KIMG7OBW5ZBAXE43J2MN2P35AA/</guid>
@@ -905,33 +935,6 @@
       <description/>
       <pubDate>Fri, 25 Oct 2024 09:30:51 +0000</pubDate>
       <content:encoded>윤석열 대통령이 25일 고위공직자범죄수사처 검사 4명의 연임안을 재가했다. 지난 8월 공수처가 해당 검사들에 대한 연임을 추천한지 약 두 달 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OFBHUIY6AQ2TO6SXU4QLAWHK4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공수처 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공수처는 지난 8월 인사위원회를 열어 이대환 수사4부 부장검사와 차정현 수사기획관(부장검사), 수사3부 송영선·최문선 검사 등 4명의 연임을 추천했다. 네 사람의 임기는 오는 27일까지였지만 윤 대통령의 재가가 최근까지 나지 않아 ‘임기 만료로 이들의 직무가 정지될 수 있다’는 우려가 나왔었다. 윤 대통령이 검사 4명의 연임안을 재가하면서 이들은 중단 없이 직무를 수행할 수 있게 됐다.&lt;br&gt;&lt;br&gt;이대환·차정현 부장검사는 해병대원 순직 외압 의혹, 김건희 여사의 ‘공천 개입’ 의혹 등의 수사를 맡고 있다. 또 ‘고발 사주’ 의혹으로 1심에서 실형을 선고받은 손준성 검사장에 대한 공소 유지 업무도 맡고 있었다.&lt;br&gt;&lt;br&gt;오동운 공수처장은 윤 대통령의 임명 재가 직후 “대통령께서 임명 재가해주셨고, 국민들께서 공수처를 많이 지켜보고 있음을 실감했다”면서 “더 힘을 받아 채 해병 사건 등 중요 사건들의 공정하고 신속한 처리를 위해 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>술 먹고 도로 누워있다 사망… 밟고 간 운전자 ‘무죄’ 받은 이유</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/25/D36QZXJOXVF53IGJV57RMRCYVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/25/D36QZXJOXVF53IGJV57RMRCYVY/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Oct 2024 09:23:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHWE22LGVBCVHJU35XWRGTUTZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 중앙지방법원 로비에 법원 마크가 밝게 빛나고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새벽 시간 도로에 누워있던 주취자를 차로 치어 숨지게 한 20대 운전자에게 죄를 물을 수 없다는 법원 판결이 나왔다.&lt;br&gt;&lt;br&gt;25일 법조계에 따르면 대전지법 5-3형사부(부장판사 이효선)는 교통사고처리 특례법 위반(치사) 혐의로 기소된 20대 A씨 항소심에서 검찰이 제기한 항소를 기각하고 원심과 같은 무죄를 선고했다. 앞서 검찰은 1심 판결에 대해 사실오인·법리오해의 위법이 있다고 주장했지만 2심 재판부는 받아들이지 않았다.&lt;br&gt;&lt;br&gt;A씨는 2022년 9월 10일 오전 3시30분쯤 충남 보령시 한 편도 1차로 도로 위에 누워 있던 B(55)씨를 피하지 못해 밟고 지나가 숨지게 한 혐의로 기소됐다. 당시 B씨는 혈중알코올농도 0.218%의 만취 상태였다.&lt;br&gt;&lt;br&gt;검찰은 A씨가 전방주시 의무를 소홀히 한 과실로 피해자를 사망에 이르게 했다고 판단했다. 그러나 재판부는 통상적으로 야간 시간대 사람이 도로에 누워있다고 예측하기 어렵다며, 피해자 사망과 피고인 과실 사이의 인과 관계를 인정하는 데 신중을 기해야 한다고 지적했다.&lt;br&gt;&lt;br&gt;1심 재판부는 △피해자가 어두운 상·하의를 입고 별다른 움직임 없이 도로에 누워있던 점 △피해자의 하반신이 도로 오른쪽에 주차된 차들로 일부 가려져 있었던 점 △피고인 차량이 제한속도를 초과하지 않은 점 △교통사고 감정서에 운전자 시각에서 피해자를 발견할 수 없었다고 나온 점 등을 들어 무죄를 선고했다.&lt;br&gt;&lt;br&gt;항소심 재판부도 “검사가 제출한 증거만으로는 피고인에게 전방주시를 소홀히 한 과실이 있다는 점이 합리적 의심의 여지 없이 증명됐다고 보기 어렵다”며 “피고인에게 무죄를 선고한 1심 판단이 부당하다고 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>'노태우 비자금' 노소영·노재헌 끝내 국감 불출석...법사위원장 "고발 검토"</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/25/37BUESPT2RC6PHWMD2WBGMDLCA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/25/37BUESPT2RC6PHWMD2WBGMDLCA/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Oct 2024 09:12:31 +0000</pubDate>
-      <content:encoded>고(故) 노태우 전 대통령의 비자금 의혹과 관련해 국정감사 증인으로 채택된 노 전 대통령의 자녀 노소영 아트센터 나비 관장과 노재헌 동아시아문화센터 원장이 끝내 국정감사에 출석하지 않았다. 더불어민주당은 두 사람에 대한 고발 조치를 검토하겠다고 했다.&lt;br&gt;&lt;br&gt;노 관장과 노 원장은 25일 국회 법제사법위원회 종합 국정감사에 증인으로 채택됐지만 불출석 사유서를 제출하고 출석하지 않았다. 두 사람은 앞서 지난 8일과 21일에도 증인으로 채택됐지만 불출석했었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CNENSHF5URJIVN62DDZKHCP7KE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;노재헌 동아시아문화센터 원장이 25일 서울 중구 웨스틴조선호텔에서 열린 '만화로 읽는 인물이야기 대통령 노태우' 출판 축하연에서 내빈들과 국기에 경례하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장경태 민주당 의원은 “김옥숙 여사의 ‘900억 메모’, 동아시아문화센터 기부금 152억원, 차명보험 210억원 등 해명해야 될 것들이 너무나 많다. 또 탈세 의혹도 너무 많다”고 했다.&lt;br&gt;&lt;br&gt;정청래 법사위원장은 노 원장이 이날 서울 중구 웨스틴호텔에서 열린 ‘만화로 읽는 인물이야기 대통령 노태우’ 출판 축하연에 참석한 것을 거론하며 “대단히 유감스럽다”고 했다. 정 위원장은 “증인으로 불출석하면서 출판기념회에는 버젓이 나타나 웃으면서 사진 찍는 것은 가중처벌감”이라면서 “정당한 이유 없이 불출석한 증인 등에 대해서는 국감 이후에 열리는 첫번째 법사위 전체회의에서 고발 조치할 것”이라고 했다.&lt;br&gt;&lt;br&gt;‘노태우 비자금’ 의혹은 최태원 SK그룹 회장과 노소영 관장의 이혼소송 항소심에서 처음 제기됐다. 노 관장은 “노 전 대통령의 비자금 300억원이 선경에 유입돼 증권사 인수, SK 주식 매입 등에 사용됐다”고 주장하며 ‘선경 300억원’이라고 적힌 1998~1999년 김 여사의 메모 2개와 50억원짜리 약속어음 6장이 찍힌 사진 등을 재판부에 제출했다. 당시 메모에는 총 900억원 규모의 자금 사용 내역이 담겨 있었다.&lt;br&gt;&lt;br&gt;2심 재판부는 노 관장 측 주장을 받아들여 SK 성장에 대한 노 관장의 기여를 인정해 재산분할액을 1조3808억원으로 결정했다.&lt;br&gt;&lt;br&gt;이후 법조계와 정치권에서는 비자금 의혹을 규명하기 위한 조치가 필요하다는 지적이 제기돼 왔다.&lt;br&gt;&lt;br&gt;심우정 검찰총장은 이날 법사위에서 이 의혹에 대해 “(접수된 고발장을) 법과 원칙에 따라 검토하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김수미 아들 “시청자 곁에 머물렀던 김수미로 기억해달라”</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/25/4ZVZ2BDBJNEV3M37CUIQUKTPAU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/25/4ZVZ2BDBJNEV3M37CUIQUKTPAU/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Oct 2024 08:24:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OUR5NMIVNVBAHKP2B6Q4XNPPJE.png"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오후 서울 성동구 한양대병원 장례식장에 마련된 배우 김수미 빈소. 빨간 벙어리 장갑을 끼고 흰 머플러를 두른 채 활짝 웃고 있는 김수미의 영정사진이 전광판에 떠 있다. /장윤 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 김수미(75)씨의 아들 정명호 나팔꽃에프앤비 대표가 25일 별세한 모친에 대해 “언제나 연기에 대한 사랑과 열정으로 시청자 곁에 머물렀던 김수미를 기억해 주시기 바란다”고 했다.&lt;br&gt;&lt;br&gt;정 대표는 이날 오후 유족 측 공식 입장문을 내고 “저의 어머니이시면서, 오랜 시간 국민 여러분께 큰 사랑을 받아온 배우 김수미님께서 오늘 오전 7시 30분 고혈당 쇼크로 세상을 떠나셨다”고 했다.&lt;br&gt;&lt;br&gt;정 대표는 “전원일기의 ‘일용 엄니’에서 연극 ‘친정엄마’까지,평생을 모두의 어머니로 웃고 울며 살아오신 김수미 배우를 사랑해 주신 모든 분께 깊이 고개숙여 감사드린다”고 했다.&lt;br&gt;&lt;br&gt;정 대표는 “언제나 연기에 대한 사랑과 열정으로 시청자 곁에 머물렀던 김수미를 기억해주시기 바라며, 저와 가족들도 오랜 세월 보내주신 성원과 사랑을 잊지 않고, 보답하는 마음으로 살아가겠다”라고 했다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면, 김수미는 이날 오전 서울 서초구 방배동 자택에서 심정지 상태로 발견됐다. 아들 정 대표가 의식을 잃은 김수미를 발견해 119에 신고했고 서울성모병원 응급실로 이송됐지만 사망 판정을 받았다. 사인은 고혈당 쇼크사인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;고인의 빈소는 성동구 한양대학교병원 장례식장 지하 1층 특6호실에 마련됐고, 발인은 27일 오전 11시다. 장지는 납골당인 경기 용인공원 용인아너스톤이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;다음은 고(故) 김수미 유족 입장 전문&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;안녕하십니까. 김수미 배우의 아들 정명호입니다.&lt;br&gt;&lt;br&gt;저의 어머니이시면서, 오랜 시간 국민 여러분들께 큰 사랑을 받아온 배우 김수미님께서 오늘 오전 7시 30분 고혈당 쇼크로 세상을 떠나셨습니다.&lt;br&gt;&lt;br&gt;전원일기의 ‘일용 엄니’에서 연극 ‘친정엄마’까지,평생을 모두의 어머니로 웃고 울며 살아오신 김수미 배우를 사랑해 주신 모든 분께 깊이 고개숙여 감사드립니다.&lt;br&gt;&lt;br&gt;언제나 연기에 대한 사랑과 열정으로 시청자 곁에 머물렀던 김수미를 기억해 주시기 바라며, 저와 가족들도 오랜 세월 보내주신 성원과 사랑을 잊지 않고, 보답하는 마음으로 살아가겠습니다.&lt;br&gt;&lt;br&gt;어머니의 마지막을 함께 애도해주시는 여러분께 다시 한번 감사드립니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>법무장관, ‘이화영 술자리 회유’ 주장에 “조작이면 당장 사표”</title>
