@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“네가 그 아이구나”…백지연, 현대家 며느리와 첫만남서 눈물 흘린 이유</title>
+      <link>https://www.chosun.com/national/people/2024/10/28/UVZUFKCBYRB3ZK4RLZMFHIZLTA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/28/UVZUFKCBYRB3ZK4RLZMFHIZLTA/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Oct 2024 22:13:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HXFPELIQCBE67MXSH4WZCIXZPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백지연 전 MBC 아나운서./MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아나운서 출신 백지연이 현대가 며느리와의 첫만남 당시 눈물을 흘린 사연을 공개했다.&lt;br&gt;&lt;br&gt;백지연은 지난 27일 MBC ‘심장을 울려라 강연자들’에 출연해  ‘결국 해내는 사람’이라는 주제로 자신의 인생에 관한 이야기를 나눴다.&lt;br&gt;&lt;br&gt;이날 MC 오은영은 “작년에 아드님한테 경사가 있었다”며 백지연의 외아들 결혼을 언급했다.&lt;br&gt;&lt;br&gt;백지연의 아들은 작년 6월 정몽원 HL그룹 회장의 차녀와 결혼했다. 정몽원 회장은 고(故) 정인영 HL그룹 명예회장의 차남으로, 고 정주영 현대그룹 회장의 조카다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BGH7NG22AVJLDPFP4FV6QGHI2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정몽원 HL그룹 회장의 부인 홍인화씨(오른쪽)와 백지연 전 아나운서가 지난해 6월 서울 종로구 종교교회에서 열린 정 회장의 차녀 정지수 씨와 백 전 아나운서의 외아들 강인찬 씨 결혼식에서 인사를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백지연은 “우리 아들이 그렇게 빨리 결혼할 줄 몰랐는데. 기쁜 날이었다”며 “며느리가 처음 인사하러 왔을 때 가슴이 너무너무 떨리더라. 생방송할 때보다 더 떨었다. 문을 열고 들어가는 순간 눈물이 왈칵 쏟아졌다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “왜 왈칵 눈물이 나왔나 했더니 아들 키울 때 항상 기도를 해줬다. 그땐 왜 그랬는지 모르겠는데 ‘어디선가 자라고 있을 그 아이도 축복해주세요’라고 기도했다”며 “문이 열리고 예비 며느리 얼굴을 보는 순간 ‘네가 그 아이구나’라는 생각이 들어 눈물이 났다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HJ4J57LNU5HPNMI45RARWIYETU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백지연이 지난 9월 공개한 자신의 환갑 기념 생일잔치./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오은영은 백지연이 지난 9월 환갑을 맞아 열었던 생일잔치를 언급하기도 했다.&lt;br&gt;&lt;br&gt;백지연이 자신의 유튜브 채널을 통해 공개한 이 생일잔치에는 배우 최지우, 정경호, 박휘순·박예진 부부 등 유명 연예인과 백지연의 사돈이자 정몽원 회장의 아내인 홍인화 전 TBC 아나운서, 현대가 며느리 노현정 전 아나운서가 참석해 화제였다. 백지연은 유튜브를 통해 “생일잔치에서 안사돈이 ‘나에게 백지연은 사랑하는 딸이 선물해준 멋있는 동생’이라고 말해줬다”고 밝히기도 했다.&lt;br&gt;&lt;br&gt;백지연은 “60세가 되면 쉬어야겠지 생각했다. 막상 되어보니 ‘내가 하고 싶은 걸 이제 진짜 할 수 있겠구나’하는 의외의 편안함이 있다”며 “60세를 기념하는 여러가지를 했는데 그 중에 하나로 유튜브 채널을 만들었다. 60세를 시작으로 70세는 이렇게 기념해야지 하고 계획을 다 했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 의정 사태 풀어야 할 핵심 단체들이 서로 싸움만</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/10/28/BBSFL7MK7FCPXI2WCBPNGHYWV4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/28/BBSFL7MK7FCPXI2WCBPNGHYWV4/</guid>
@@ -851,15 +860,6 @@
       <description/>
       <pubDate>Fri, 25 Oct 2024 16:49:39 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3JOWKSFWAFANVLDJI2VR4CSG3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 낮 최고기온이 21도를 기록한 25일 종로구 광화문광장에서 열린 ‘2024 서울 익스트림 스포츠 페스티벌’에 참가한 한 어린이가 도약하는 자세로 스케이트 보드를 타고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정년연장 방식 놓고… 勞 “기존 임금 그대로” 使 “퇴직 후 재고용을”</title>
-      <link>https://www.chosun.com/national/labor/2024/10/26/XEFKR535IZFB7AAYGWGKMS3BYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/10/26/XEFKR535IZFB7AAYGWGKMS3BYU/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Oct 2024 16:48:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NYOKS73F5BJLXA424XA4DZZTXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 서울 종로구 대통령 직속 사회적 대화기구 경제사회노동위원회에서 열린 노사정대표자 회의에서 김문수 고용노동부 장관(왼쪽부터), 김동명 한국노총 위원장, 손경식 한국경영자총협회(경총) 회장, 권기섭 경사노위 위원장이 회의 전 기념촬영을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노동자와 사용자, 정부가 참여하는 사회적 대화 기구 경제사회노동위원회(경사노위)에서 현행 60세인 정년을 연장하는 논의가 속도를 내고 있다. 그러나 노사는 정년 연장의 필요성에는 공감하면서도 정년 연장의 구체적 방식에 대해서는 팽팽하게 입장이 맞서 있다.&lt;br&gt;&lt;br&gt;25일 고용노동부 등에 따르면 경사노위는 전날까지 8차례 전체회의를 열어 정년 연장을 위한 고용 방식과 임금 체계 개편 방안 등에 대한 노사 간 의견을 교환했다. 노동계는 근속 연수가 길수록 임금을 많이 받는 방식인 현행 연공급 체계를 유지하는 가운데 정년 연장을 주장한 것으로 전해졌다. 노동계 일각에서는 정년 연장 논의 과정에서 정년 60세가 명시된 고령자고용법상 임금 체계 개편 등 의무 조항(제19조의 2)의 폐지가 필요하다는 목소리도 나오고 있다. 2016년부터 공기업과 300인 이상 기업, 2017년부터 300인 미만과 정부·지자체에 60세 정년을 적용하면서 청년 일자리 감소를 줄이기 위해 도입한 임금 피크제와 같은 조치를 이번 정년 연장에는 적용하지 말자는 것이다.&lt;br&gt;&lt;br&gt;반면 경영계는 ‘퇴직 후 재고용’을 통한 정년 연장 방식을 거론했다. 경영계에선 60세가 넘는 근로자에 대해서는 임금 적용 방식을 선택적으로 할 수 있도록 노동 규제를 완화하자는 주장도 하고 있다. 이에 대해 노동계는 “퇴직 후 재고용은 임금 삭감과 고용 불안을 불러올 것”이라며 반대하고 있다. 22대 국회 다수당인 민주당 소속 의원들이 발의한 ‘정년연장법’들도 정년을 일률적으로 65세 등으로 높이거나, 기업에 장려금 등 일부 인센티브를 주는 식이다.&lt;br&gt;&lt;br&gt;경사노위는 11월 공익위원회를 열어 노사가 각각 제시한 정년 연장 방안을 검토할 예정이다. 12월엔 공론화를 위한 토론회도 열린다. 이후 연말쯤 합의안을 내놓는다는 계획이다.&lt;br&gt;&lt;br&gt;한편 이날 교육계에 따르면 전국 국공립대학 교수 노동조합은 최근 교육부와 협의회를 통해 정년을 65세에서 67세로 연장하는 안건을 제시했다. 노조 측과 교육부는 조만간 이와 관련한 교섭을 진행할 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>또 발견된 사각지대… ‘유령 아기’ 2200명 더 있다</title>
