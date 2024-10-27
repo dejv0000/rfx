@@ -13,6 +13,74 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>자퇴하고 의대로? 서울대 1학년 3년간 총 611명 이탈</title>
+      <link>https://www.chosun.com/national/education/2024/10/27/TFR52BQC6BEB3A72U5LGK27JRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/27/TFR52BQC6BEB3A72U5LGK27JRQ/</guid>
+      <dc:creator>김경은 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Oct 2024 04:28:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RIUTKEJ5J76NXXCMFVFAYDDBXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 관악구 서울대학교 정문. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의대에 진학하기 위해 원래 다니고 있던 대학을 자퇴하거나 재수·삼수 등 ‘N수’에 도전하는 수험생이 늘고 있는 가운데 국내 최고 명문인 서울대에서도 1학년 자퇴생이 급증하고 있는 것으로 나타났다.&lt;br&gt;&lt;br&gt;특히 공과대학·농업생명과학대학·자연과학대학 순으로 자퇴생이 많아 우수 이공계 인재 이탈에 대한 정부 차원의 대책 마련이 시급하다는 지적이다.&lt;br&gt;&lt;br&gt;27일 국회 교육위원회 소속 백승아 더불어민주당 의원이 서울대에서 받은 ‘최근 3년간 서울대 신입생 자퇴 현황’을 보면, 지난 2021년부터 올해 1학기까지 총 611명의 서울대 신입생이 자퇴했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q3Z7OAMBQVARXNFX6SNPWANEI4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2021년 161명이던 자퇴생은 2022년 204명, 지난해 235명으로 꾸준히 늘었다. 2021년과 2023년을 비교하면 2년 만에 46%(74명)가 증가했다.&lt;br&gt;&lt;br&gt;자퇴는 9월 모의고사 등 자신의 대입 결과를 어느 정도 추정할 수 있는 2학기에 집중되는 경향이 있다. 의원실에 따르면, 올해는 1학기에 벌써 서울대 신입생 11명이 자퇴했다. 2021년 6명, 2022년 7명, 지난해 1명이던 1학기 자퇴생이 처음으로 두 자릿수를 기록한 것이다.&lt;br&gt;&lt;br&gt;2021년부터 지난해까지 최근 3년 동안 서울대 신입생 자퇴생은 공과대학이 187명(30.6%)으로 가장 많았다. 이어 농업생명과학대학 127명(20.8%), 자연과학대학 76명(12.4%), 사범대학 62명(10.1%), 인문대학 33명(5.4%), 사회과학대학 29명(4.7%) 순이었다.&lt;br&gt;&lt;br&gt;이공계 상위권 학생들의 ‘의대 쏠림’ 현상으로 최상위 학부인 서울대 이공계열 또한 의대 입시의 중간 단계로 전락한 것 아니냐는 지적이 교육계에서 나오고 있다.&lt;br&gt;&lt;br&gt;공대 자퇴생은 2021년 61명에서 2022년 54명, 2023년 71명으로 16.4% 증가했다. 같은 기간 농과대는 2021년 35명에서 2022년 51명, 지난해 41명으로 17.1% 늘었다.&lt;br&gt;&lt;br&gt;인문대·사회과학대 자퇴생 역시 2021년 합쳐서 7명(각 5명·2명)에서 2022년 19명(10명·9명), 지난해 34명(17명·17명)으로 약 4배나 증가했다. 2022학년도부터 문·이과 통합형 수능이 치러지면서 인문계열 학과에 지원했던 이과생들이 ‘반수’로 빠져나갔을 것으로 교육계 전문가들은 추정하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서초구 코로나 선별진료소, 이렇게 바뀐다</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/27/GXJWKL6EIZCCJBGA242F2HTM3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/27/GXJWKL6EIZCCJBGA242F2HTM3A/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Oct 2024 04:50:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SBVZUQSADZDRBETJJPFIU7LYJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 '서초아이 면역파워UP센터’ 교육관의 모습. /서초구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 서초구가 코로나19 선별진료소를 리모델링해 어린이 대상 감염병예방 교육·체험관으로 사용한다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;2020년 9월 개관한 서초구의 선별진료소는 국내에서 최초로 ‘언택트 선별진료소’로 주목을 받았던 곳이다. 앞으로 이곳은 ‘서초아이 면역파워UP센터’로 바뀐다.&lt;br&gt;&lt;br&gt;총 3개동이었던 센터는 어린이집과 유치원생, 초등 저학년 학생들을 대상으로 한 감염병예방 교육·홍보관으로 활용한다.&lt;br&gt;&lt;br&gt;접수 및 역학조사실이었던 A동은 코로나19의 기록액자(전시물)와 방호복 등을 전시해 감염병 확산의 위험성을 되새기고 초유의 감염병을 꿋꿋하게 버텨낼 수 있도록 애쓴 모든 분에게 감사하는 마음을 담은 전시관으로 조성했다.&lt;br&gt;&lt;br&gt;문진 및 검체를 채취하던 B동은 아이들 눈높이에 맞는 체험관으로 구성한다. 모션인식 시스템을 이용한 세균잡기 가상체험인 ‘세균팡팡 모션터치’ 프로그램을 통해 활동적인 체험기회를 제공한다. 또 올바른 손 씻기 6단계 교육을 통해 손 씻기를 직접 해보고, 뷰박스에 손을 넣어 실제로 세균이 사라졌음을 두 눈으로 확인하는 등 ‘보고 느끼는’ 효과로 실생활에 적용할 수 있는 교육을 펼칠 예정이다.&lt;br&gt;&lt;br&gt;검사자 대기공간인 C동은 감염병 예방 교육장으로 탈바꿈한다. 손 씻기 교육, 기침예절, 올바른 양치법 등 일상에서 실천할 수 있는 감염병 예방교육을 입체적으로 제공한다. 교육 수료 후에는 재미있는 퀴즈타임과 함께 포토존 사진 촬영으로 추억을 만들고, 어린이들의 흥미를 자극하는 구급차 내부 탐방 기회도 갖는다.&lt;br&gt;&lt;br&gt;구는 이번 ‘서초아이 면역파워UP센터’ 오픈과 더불어 코로나19와 같은 감염병 상황 발생 시 신속히 검사시설로 활용해 감염병 관리에 선제적으로 대응할 수 있도록 대비할 방침이다.&lt;br&gt;&lt;br&gt;전성수 구청장은 “‘서초아이 면역파워UP센터’가 어린이들이 올바른 위생습관을 실천하고 감염병을 예방할 수 있는 산 교육의 장이 될 수 있도록 교육 운영에 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 강변북로에서 달리던 SUV 화재…인명피해는 없어</title>
+      <link>https://www.chosun.com/national/incident/2024/10/27/HTZOVDC2ORGKDPMI4YADW2S6W4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/27/HTZOVDC2ORGKDPMI4YADW2S6W4/</guid>
+      <dc:creator>안준현 기자, 김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Oct 2024 03:40:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJNHFYMDVRAZBH426APVKGKE5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 오전 10시 52분쯤 강변북로(일산 방향)를 달리던 SUV 한 대에 화재가 발생했다. 불이 완전히 꺼진 후 도로에 서있는 피해 차량을 경찰이 인계해가고 있는 모습. /네이버지도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 오전 10시 52분쯤 서울 성동구 옥수역 인근 강변북로(일산 방향)를 달리던 흰색 지프 SUV에 화재가 발생했다. 이 화재로 편도 4차선 도로 중 2차선이 통제되며 일대 정체를 빚었다.&lt;br&gt;&lt;br&gt;소방당국에 따르면, 이날 오전 10시 52분쯤 소방에 “차량이 불이 났다”는 화재 차량 운전자의 신고가 접수됐다. 소방은 신고 접수 9분 후인 11시 1분 현장에 도착했고, 11시 17분쯤 불은 완전히 꺼졌다.&lt;br&gt;&lt;br&gt;이 화재로 인한 인명 피해는 없었으며, 정확한 재산 피해는 현재 조사 중이다. 그러나 차량이 완전히 타면서 시커먼 연기가 타올라 한강 이남에서도 검은 연기가 목격되기도 했다.&lt;br&gt;&lt;br&gt;소방 관계자는 “화재가 난 차량은 경유차로, 정확한 화재 원인은 차량 제조사와 합동 감식이 필요하다”며 “합동 감식 장소 섭외 등 화재 원인 파악에 수일이 걸릴 것으로 보인다”고 했다. 소방은 화재 차량을 경찰에 인계한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/SJNHFYMDVRAZBH426APVKGKE5U.jpg?width=1079&amp;height=731&amp;auth=161b86d658b83d6960386fe8c65a0836ecbec9ac3586ba7cfccc3c3ae725105c&amp;smart=true" type="image/jpeg" height="731" width="1079"/>
+    </item>
+    <item>
+      <title>인천공항 '연예인 별도 출입문' 시행 하루 전 철회</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/10/27/AZY6VFASURASLLZRE6MPLXONBU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/10/27/AZY6VFASURASLLZRE6MPLXONBU/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Oct 2024 04:20:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IGU6L6FHKCJPNMFWX2ZUDZRV4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7월 배우 변우석이 홍콩에서 열린 아시아 팬 미팅 투어를 마치고 인천국제공항을 통해 입국하고 있다. 당시 사설 경호 업체가 공항 입구를 임의로 막거나, 시민들의 여권·탑승권을 검사한 행위를 두고 '과잉 경호' 논란이 인 바 있다. 인천공항은 연예인 전용 출입문 계획을 발표했다가 시행 하루 전 철회했다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천국제공항공사가 연예인 특혜 논란을 빚은 별도 출입문 사용 계획을 시행 하루 전 철회했다.&lt;br&gt;&lt;br&gt;공사는 “국정감사 및 언론보도 등에서 제기된 다양한 의견을 고려해 10월 28일 시행 예정이었던 ‘다중밀집 상황 유발 유명인의 별도 출입문 사용절차’는 시행하지 않을 예정”이라고 27일 밝혔다.&lt;br&gt;&lt;br&gt;앞서 공사는 최근 연예기획사에 ‘아티스트 출국 시 인천공항 전용 출입문 사용 절차 준수 협조 요청’이라는 공문을 발송했다. 사람들이 몰리는 상황을 막기 위해 연예인 등 유명인이 인천공항 출국장 전용 출입문을 이용할 수 있도록 신규 절차를 마련해 시행한다는 내용이었다.&lt;br&gt;&lt;br&gt;일각에선 연예인들을 위한 특혜라는 비판이 나왔다. 사고 예방 차원이라도 공무가 아닌 영리활동을 위해 출국하는 연예인들에게 과도한 특혜를 준다는 것이다.&lt;br&gt;&lt;br&gt;이달 24일 국회 국토교통위원회 종합 국정감사에서는 공문 수신자가 대부분 대형 연예 기획사라는 점을 들어 형평성에 어긋난다는 지적이 나오기도 했다. 공사 측은 “여론 수렴 과정에서 미흡한 부분이 있었다”고 했다.&lt;br&gt;&lt;br&gt;공사는 “공항 이용객의 안전과 다중밀집으로 인한 혼잡 등 문제가 없도록 충분한 의견 수렴을 거쳐 별도 대책을 마련할 계획”이라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>15살 아들, 어머니와 다툰 70대 남성 때려 숨져</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/27/NS6OHTVSQFGFXM7AVQN3CSNLHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/27/NS6OHTVSQFGFXM7AVQN3CSNLHM/</guid>
+      <dc:creator>무안=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Oct 2024 04:17:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R7WFNDTMGFIQAFWNZ3IEB4EXVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 무안경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어머니와 다툰 70대 남성을 폭행해 숨지게 한 10대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;전남 무안경찰서는 27일 폭행치사 혐의로 A(15)군을 조사 중이라고 밝혔다. 경찰에 따르면 A군은 지난 13일 오후 5시40분쯤 전남 무안군 현경면의 한 주택 인근에서 70대 남성 B씨를 두 차례 폭행해 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;B씨는 A군의 폭행으로 두개골이 골절된 부상을 입어 병원으로 옮겨졌지만, 지난 17일 숨졌다. B씨의 유족이 지난 17일 경찰에 정식 사건접수를 하면서 경찰 수사가 시작됐다.&lt;br&gt;&lt;br&gt;경찰은 과거부터 A군의 어머니와 B씨간 다툼이 있어왔고, 범행 당시 양측이 다투는 모습을 보고 A군이 폭행한 것으로 파악했다. 경찰은 앞서 A군에 대해 구속영장을 신청했지만, 법원은 “도주 우려가 없다”며 기각했었다.&lt;br&gt;&lt;br&gt;경찰은 보강수사를 통해 구속영장 재신청 여부를 검토할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/U4MQHEQN6BM7DJYLVKXP7PARZI.jpg?width=3687&amp;height=2458&amp;auth=76a6d2c50e0d9b1b36f2b730cc01da99d732310f6c39f86e4d0571781bf30886&amp;smart=true" type="image/jpeg" height="2458" width="3687">
+        <media:description type="plain">전남 무안경찰서의 모습.(전남지방경찰청 제공)/뉴스1 DB</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 DB</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>코로나 백신 접종 뒤 뇌출혈 사망...보상 소송서 유족 패소</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/27/F7W2XFJ2XJFPZMA7NMHGTW7LXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/27/F7W2XFJ2XJFPZMA7NMHGTW7LXY/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Oct 2024 03:41:07 +0000</pubDate>
+      <content:encoded>코로나 백신을 접종하고 약 두 달 뒤 뇌출혈로 사망한 자녀의 아버지가 정부가 보상 책임을 져야한다며 소송을 냈지만 졌다. 코로나 백신 접종과 사망의 인과관계를 인정하기 어렵다는 취지의 판단이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZJ3PV3XAJTPLVFVMBH2N4SBGGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;코로나 백신 접종 모습. 사진은 기사 내용과 직접적인 관련 없음. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 법조계에 따르면 서울행정법원 행정6부(재판장 나진이)는 유족 윤모씨가 질병관리청장을 상대로 낸 유족보상일시금 및 장의비 부지급 취소 소송을 최근 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;윤씨 자녀 A씨(사망 당시 39세)는 코로나 사태 당시인 2021년 10월 12일 화이자-바이오엔텍 코로나 백신을 2차 접종한 뒤 그해 11월 18일 뇌출혈의 일종인 지주막하출혈 증상으로 병원에 입원했다가 12월 21일 숨졌다. 당시 직접 사인은 지주막하출혈이었다.&lt;br&gt;&lt;br&gt;윤씨는 A씨가 백신 접종 때문에 사망했다며 질병관리청에 접종 피해보상을 신청했지만, 질병관리청은 지난해 6월 ‘A씨에게 나타난 두통, 어지럼증 증상의 발생시기(접종 약 1주 후)가 늦어 이 사건 접종과의 시간적 개연성이 낮고, 해당 증상 및 구음 장애, 하지 위약감 증상으로 의료기관에서 진단받은 지주막하출혈은 백신별 알려진 이상반응에 해당하지 않으며 사인이 지주막하출혈인 점을 고려할 때 접종과 인과성이 인정되기 어렵다’는 점을 들어 보상을 거부했다.&lt;br&gt;&lt;br&gt;이에 윤씨는 “A씨가 별다른 기저 병력이 없는 상태에서 접종을 받은 후 지주막하출혈이 발생해 사망에 이르렀다”는 취지로 주장하며 같은 해 9월 소송을 냈다.&lt;br&gt;&lt;br&gt;하지만 재판부는 여러 증거들을 종합한 결과 윤씨 주장을 받아들이지 않았다. 재판부는 “A씨는 접종 일주일 후에 두통을 느꼈으나 당시 별다른 진료를 받지 않고 이후 두통의 악화를 느낀 시점인 11월 11일은 접종 후 거의 한 달이 지난 시점”이라며 “인과관계 추단이 어렵다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “A씨에게 발생한 지주막하출혈이 이 사건 접종으로부터 일어났다고 추론할 관련 의학 이론이나 경험칙이 있다고 볼 자료가 없다. 국가적으로 코로나 백신 접종이 권장된 이후 뇌출혈 발병률이 증가했다고 볼 만한 자료도 없다”며 “윤씨는 막연히 이 사건 접종 후 지주막하출혈이 발생했으므로 인과관계가 있다는 취지로 주장하고 있을 뿐, 그 근거가 되는 자료를 제시하지 않고 있다”고도 설명했다.&lt;br&gt;&lt;br&gt;아울러 “비록 지주막하출혈 발생 이후 측정된 것이기는 하나 A씨의 혈압이나 콜레스테롤 수치 등에 비추어 A씨는 지주막하출혈과 관계된 위험인자를 가지고 있었을 가능성이 있고, 원고는 이를 반박할 만한 건강검진결과 등 자료를 제출하고 있지도 않다”고 판단했다.&lt;br&gt;&lt;br&gt;윤씨 측이 항소하지 않아 이 판결은 지난달 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>멕시코산이 국내산? 원산지 속여 판 식육점 업주 실형</title>
+      <link>https://www.chosun.com/national/regional/2024/10/27/7QMVGUYMDREHDO3VVNDQ5P7EYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/27/7QMVGUYMDREHDO3VVNDQ5P7EYY/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Oct 2024 03:49:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SSNZTBYEFDKS624EPJEIWGSCRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산지법 서부지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외국산 돼지고기와 소고기를 5년 가까이 국내산으로 속여 판매한 식육점 업주가 실형을 선고받았다.&lt;br&gt;&lt;br&gt;부산지법 서부지원 형사1부(재판장 이진재)는 농수산물의 원산지 표시 등에 관한 법률 위반 혐의로 기소된 40대 A씨에게 징역 2년을 선고했다고 27일 밝혔다. 함께 기소된 30대 직원 B씨는 징역 1년에 집행유예 2년을 선고받았다.&lt;br&gt;&lt;br&gt;부산 해운대구에서 식육점을 운영한 A씨는 4년 9개월 동안 멕시코산 등 외국산 돼지고기 7억9000만원, 외국산 소고기 3억3000만원어치의 원산지를 국내산으로 속여 판매한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 과거에도 원산지를 속여 벌금 500만원을 선고받은 적이 있는 것으로 조사됐다. A씨가 원산지를 속여 고기를 판매한 식육점은 현재 폐업한 상태로 알려졌다.&lt;br&gt;&lt;br&gt;재판부는 “동종범죄로 처벌받았음에도 원산지를 거짓으로 표시해 11억원이 넘는 농산을 판매해 죄질이 나쁘다”며 “원산지를 속이는 행위는 농산물을 유통 질서를 어지럽히고 소비자들의 신뢰를 훼손하는 범죄라는 점에서 비난 가능성이 크다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘의대 증원’ 의료계 측 변호사, 공갈미수 1심 유죄에 “정치 보복 기소·판결” 항소</title>
       <link>https://www.chosun.com/national/court_law/2024/10/24/STHZYO4HUJFQZFSQYXKGBC7XOY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/24/STHZYO4HUJFQZFSQYXKGBC7XOY/</guid>
@@ -855,51 +923,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘부산 건설사 경영권 분쟁’ 사건 브로커로 뛴 전직 경찰관, 징역 1년  </title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/10/25/DX2PUMYJ55D4VEF7N6TTJO3NXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/10/25/DX2PUMYJ55D4VEF7N6TTJO3NXE/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Oct 2024 07:44:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE2NLLUF7RAS5LC7XXJRYBK6L4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산지법 동부지원. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 지역 중견 건설사 사주 일가의 경영권 분쟁·비리와 관련, 돈을 받고 경찰 수사 내용을 알아봐 주는 등 사건 브로커 역할을 한 전직 경찰관에게 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;부산지법 동부지원 형사1부(재판장 이동기)는 25일 변호사법 위반으로 재판에 넘겨진 전직 경찰관 문모씨에게 징역 1년을 선고했다.&lt;br&gt;&lt;br&gt;문씨는 지난해 2월쯤부터 1년여간 부산의 한 중견 건설사 창업주와 장남, 차남 등 사주 일가가 경영권을 두고 고소·고발 등 분쟁을 벌이는 상황에서 경찰의 수사 진행상황을 알아보고 “(상대방을)구속되도록 해주겠다”며 사건 브로커 역할을 하는 대가로 2900만원을 받은 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;재판부는 “전직 경찰 공무원의 신분을 망각한 채 사건을 청탁하고 금품을 수수한 것은 죄질이 좋지 않다”면서 “경찰관의 공적 업무 집행 기능에 대한 공정성과 사회적 신뢰를 훼손시켰다”고 말했다. &lt;br&gt;&lt;br&gt;이어 “다만 범행을 인정하고 있고, 이전에 처벌받은 전력이 없는 점, 피고인의 가족과 지인들이 선처를 구하고 있는 사정을 참작해 이같이 선고한다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울 청계천 역사 문화길 걷기대회 개최</title>
-      <link>https://www.chosun.com/national/2024/10/25/T5K364GQUVCLZEBL7RVQBNVD6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/10/25/T5K364GQUVCLZEBL7RVQBNVD6M/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Oct 2024 07:41:39 +0000</pubDate>
-      <content:encoded>오는 27일 서울 청계천 일대에서 ‘2024 서울 청계천 역사 문화길 걷기대회’가 열린다. 이번 대회는 서울시가 후원하고, 역사와 문화 탐방을 전문으로 하는 사단법인 대한워킹투어협회(회장 박영대)가 주관한다. 도심 속 생태하천으로 발전하고 있는 청계천의 역사와 가치를 국내외에 알리는 것이 이번 대회의 목적이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RH7CANVM5JD7BIR4KM7IQZEBKM.png"&gt;&lt;figcaption&gt;&lt;small&gt;오는 27일 서울 청계천 일대에서 ‘2024 서울 청계천 역사 문화길 걷기대회’가 열린다./대한워킹투어협회 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;걷기대회 코스는 청계광장을 시작으로 청계천로, 고산자교, 판자촌, 청계박물관, 마장체육공원까지 이어지는 22개 다리에 대한 해설을 들으며 청계천의 역사를 돌아보는 것으로 구성돼 있다.&lt;br&gt;&lt;br&gt;코스 도착지인 고산자교 아래 마장체육공원에서는 태권도 시범단 공연, 패션쇼, 트로트 공연 등 다양한 문화 행사가 열린다. 행사 말미에는 대형TV를 포함한 다양한 경품을 주는 행사도 진행된다.&lt;br&gt;&lt;br&gt;참가를 원하는 사람들은 오는 26일까지 대한워킹투어협회 홈페이지를 통해 온라인으로 신청하면 된다. 선착순 1000명만 참할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>37세 배우 김병선, 지병으로 사망… ‘쩐의 전쟁’ 속 감초 연기</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/25/RPODNTWRLVHPHJDMVVRYODCA54/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/25/RPODNTWRLVHPHJDMVVRYODCA54/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Oct 2024 07:26:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NZKIZ52ESRCKBJFHAPHA5N4DIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;SBS 수목드라마 '쩐의 전쟁'에서 감초 캐릭터인 '미스 조' 역할로 사랑받았던 배우 김병선. /SBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인기 드라마 ‘쩐의 전쟁’에서 감초 연기를 선보였던 배우 김병선씨가 37세 나이로 세상을 떠났다.&lt;br&gt;&lt;br&gt;25일 연예계에 따르면 김씨는 지병으로 투병해 오다 전날 사망했다. 빈소는 서울아산병원 장례식장 7호에 마련됐으며 발인은 오는 27일 오전 7시다. 장지는 시안가족추모공원으로 알려졌다.&lt;br&gt;&lt;br&gt;고인은 JYP엔터테인먼트 소속 신인 연기자로 주목받으며 2006년 영화 ‘최강 로맨스’로 데뷔했다. 이후 영화 ‘로맨틱 아일랜드’(2008)와 드라마 ‘TV소설 그대의 풍경’(2007) ‘집으로 가는 길’(2009) 등에 출연했다.&lt;br&gt;&lt;br&gt;대중의 눈길을 끈 건 2007년 인기리에 방영된 SBS 드라마 ‘쩐의 전쟁’ 속 모습이다. 당시 김씨는 사채업자 마동포의 사무실 직원 ‘미스 조’를 연기해 신스틸러 역할을 해냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLXICCE2QRADBEGYP2HI42E7TI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;SBS 수목드라마 '쩐의 전쟁'에서 감초 캐릭터인 '미스 조' 역할로 사랑받았던 배우 김병선. /JYP&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title> “100만원 이하로 생각”...고가 정장 받은 열린공감TV 대표, 김영란법 위반 부인</title>
-      <link>https://www.chosun.com/national/incident/2024/10/25/IWH23GLFVZG2LMZJO7VS7ORCDM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/25/IWH23GLFVZG2LMZJO7VS7ORCDM/</guid>
-      <dc:creator>남양주=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Oct 2024 07:39:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OLFJNNHBFAD5ZWM75T7MPXL3DA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;후원자로부터 고가 맞춤 양복 등을 제공받은 혐의로 기소된 열린공감TV와 더탐사의 임직원 등이 첫 재판에서 혐의를 부인했다.&lt;br&gt;&lt;br&gt;25일 의정부지법 남양주지원 303호 법정에서 형사2단독 최영은 판사 심리로 청탁금지법 위반 사건의 첫 재판이 열렸다. 이날 재판에서 열린공감TV의 A 대표는 “(제공된 정장이) 100만원 이하라고 인식했으며, 실제로도 100만원 이하 가격이라고 생각한다”고 주장했다. 열린공감TV는 인터넷신문사업자로 등록된 언론사다.&lt;br&gt;&lt;br&gt;청탁금지법에 따르면 언론사로 등록된 기관의 기자 등 언론인은 1회 100만원 또는 매 회계연도 합산 300만원을 초과하는 금품을 수수하면 처벌된다.&lt;br&gt;&lt;br&gt;A씨를 포함한 열린공감TV와 더탐사 관계자 5명과 후원자 B씨 등 6명은 청탁금지법 위반 혐의로 지난 3월 재판에 넘겨졌다. 이들은 지난 2022년 4월부터 8월까지 후원자이자 종교인인 B씨로부터 300만원 상당의 맞춤 양복을 각각 제공받은 혐의를 받는다. B씨는 재판에 출석해 자신의 공여 혐의를 인정했다.&lt;br&gt;&lt;br&gt;더탐사 전 대표 C씨는 300만원 상당의 양복에 더해 명품셔츠 등 총 680만원 상당을 제공받은 혐의를 받는다. C씨는 이 중 일부를 다시 돌려줬다고 주장했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[후르츠 칵테일] (30화) 오렌지</title>
-      <link>https://www.chosun.com/national/weekend/2024/10/26/PSU6FTO4Y5CNHKD7ITS67NIX6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2024/10/26/PSU6FTO4Y5CNHKD7ITS67NIX6A/</guid>
-      <dc:creator>글·그림 조경규</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Oct 2024 07:32:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UZMC7IHMMBEVVGLES2JRFZRECY.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRPGC2EV5FBEXGAUJP4YYH4NE4.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>한동훈 “당내에 쇄신 방해하고 이간질로 이득 보려는 소수 있어”</title>
       <link>https://www.chosun.com/politics/assembly/2024/10/25/AIM342O6QFET3HVPYJVRLADFY4/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2024/10/25/AIM342O6QFET3HVPYJVRLADFY4/</guid>
@@ -952,24 +975,6 @@
       <description/>
       <pubDate>Fri, 25 Oct 2024 01:14:08 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DP33X7EMJNOIVMSWCMTGFMXNLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오전 울산 남구 용연공단 내 한 자동차부품업체 공장에서 화재가 발생해 소방 당국이 진화 작업을 벌이고 있다. /울산소방본부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산 용연공단 내 자동차 부품업체 공장에서 화재가 발생해 소방당국이 5시간째 진화 중이다.&lt;br&gt;&lt;br&gt;25일 울산소방본부에 따르면 이날 오전 5시 7분쯤 남구 용연공단 내 한 자동차 부품업체 1공장에서 불이 났다. 이곳은 자동차용 연료탱크 등을 생산하는 곳이다. 불은 자동차 부품 생산용 로봇 공정에서 발생한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;소방당국은 대응 1단계를 발령하고, 소방차 27대와 소방관 등 62명, 헬기 등을 동원해 5시간째 진화 작업을 벌이고 있다. 현재까지 인명피해는 없는 것으로 파악됐다. &lt;br&gt;&lt;br&gt;불이 난 공장의 지붕 붕괴 우려로 내부 진입이 쉽지 않은 상황이라고 한다. 현재 불길이 주변으로 번지는 것을 막기 위해 외부 방수 작업에 집중하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NTDYMOJT2ZIVZOEQOY6IBNMPBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오전 울산 남구 용연공단 내 한 자동차부품업체 공장에서 화재가 발생해 소방 당국이 진화 작업을 벌이고 있다. /울산소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;남구는 이날 9시 20분쯤 ‘화재로 연기가 확산되고 있어 인근을 통행하는 차량은 유의하라’는 안전 안내 문자를 인근 주민들에게 보냈다.&lt;br&gt;&lt;br&gt;소방 당국은 진화가 마무리되는 대로 화재 원인과 피해 규모를 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>신혼부부 장기전세, 내년 청담·신반포·잠실에도 공급</title>
-      <link>https://www.chosun.com/national/regional/seoul/2024/10/25/BVWHZWZKMNFIFOG6TGQOP77H2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/10/25/BVWHZWZKMNFIFOG6TGQOP77H2A/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Oct 2024 16:30:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZKHWAL3VARD6DE3T7WBVDASNV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 17일 서울 강동구 둔촌동 ‘올림픽파크포레온’ 아파트에서 오세훈(가운데) 서울시장이 신혼부부 예비 입주자들과 단지를 둘러보고 있다. 서울시는 300가구를 신혼부부를 위한 ‘미리 내 집’으로 처음 공급했다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 17일 서울 강동구 둔촌동 ‘올림픽파크포레온’ 아파트. 연말 입주를 앞두고 신혼부부 네 쌍이 집 안을 꼼꼼하게 살펴보고 있었다. 이들은 “1만2000가구 신축 아파트에 들어간다고 생각하니 설렌다”고 했다. 30대 이모씨는 “이 집에 당첨되자마자 내년 여름 결혼식장을 잡았다”며 “그동안 집 때문에 결혼을 미뤘는데 소원 성취했다”고 했다. 또 다른 신혼부부는 “이미 아이를 임신했는데 여기 오래오래 살면서 한 명 더 낳겠다”고 했다.&lt;br&gt;&lt;br&gt;여긴 서울시가 저출생 극복 대책으로 내놓은 신혼부부 장기 전세 주택 ‘미리 내 집’ 1호다. 미리 내 집은 ‘내 집을 (싼값에) 미리 마련한다’는 뜻을 담았다. 신혼부부가 입주해 아이를 낳으면 20년까지 살 수 있고 20년 뒤에는 감정가보다 최고 20% 싼 가격에 매수할 수도 있다. 아이를 낳으면 더 넓은 평형으로 옮길 수도 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRM7JYRJERFQZPP3YEQWIU7SDQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온라인 부동산 커뮤니티에서 화제가 됐다. ‘일반 입주민들과 구별도 안 되고 단지 시설도 똑같이 이용하는데 전셋값은 절반 수준이다’ ‘요즘 전세 구하기도 힘든데 아이만 낳으면 20년까지 살 수 있으니 네 식구가 집 걱정 없이 살 수 있겠다’ 같은 글이 올라왔다.&lt;br&gt;&lt;br&gt;둔촌주공아파트를 재건축한 올림픽파크포레온에는 미리 내 집이 300가구 있다. 300가구에 입주할 신혼부부를 모집하는 데 1만8000쌍이 몰렸다. 경쟁률이 60대1이었다.&lt;br&gt;&lt;br&gt;올림픽파크포레온에 있는 미리 내 집의 전셋값은 전용 면적 59㎡가 4억3000만원이다. 같은 평형 일반 가구의 전셋값은 8억~9억원 수준이다. 아이만 낳으면 이 전셋값으로 최장 20년까지 살 수 있다. 현재 이 평형의 매매가는 20억원 정도다. 20년 뒤 감정가를 20억원으로 가정하면 최대 4억원 싼 가격에 매수할 수 있다.&lt;br&gt;&lt;br&gt;서울시가 내년에는 이러한 미리 내 집을 1000가구 공급한다. 특히 신혼부부들이 선호하는 강남 3구에 집중 공급한다. 그동안 임대주택은 주로 시 외곽 지역에 많았는데 강남 역세권 재건축·재개발 단지를 뚫고 들어가는 것이다.&lt;br&gt;&lt;br&gt;24일 서울시에 따르면, 내년도 미리 내 집 공급 단지에는 강남구 ‘청담 르엘’(청담삼익 재건축), 서초구 신반포21차 재건축, 송파구 ‘잠실 래미안 아이파크’(잠실진주 재건축), ‘잠실 르엘’(미성크로바 재건축) 등이 포함됐다. 부동산 커뮤니티 등에서 ‘대장 아파트’ 중 한 곳으로 불리는 단지다. 서울시 관계자는 “신혼부부는 주변 시세보다 20% 정도 싸게 입주할 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;미리 내 집은 서울시가 재건축·재개발 단지에서 기부 채납받는 물량을 활용한다. 그래서 상대적으로 싼값에 공급할 수 있다. 서울시는 기존 장기 전세 주택(시프트)에서도 150가구 이상을 신혼부부용으로 전환할 계획이다.&lt;br&gt;&lt;br&gt;서울시는 저출생 문제를 해결하기 위한 다양한 방안 중 하나로 미리 내 집을 계속 확대한다는 방침이다. 2026년까지 미리 내 집 4400가구를 공급할 계획이다. 오세훈 서울시장은 “미리 내 집의 높은 경쟁률은 그동안 신혼부부들이 주거 문제로 얼마나 고민했는지를 보여주는 증거”라며 “공공이 나서서 집 부담을 덜어줘야 저출생 문제도 해결할 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;다만 여전히 높은 전셋값과 제한된 물량은 풀어야 할 과제다. 주변 시세보다 싸긴 하지만 서울 집값이 워낙 비싸다 보니 신혼부부가 부담하기 만만치 않다는 것이다. 임재만 세종대 부동산학과 교수는 “20년 뒤에는 부동산 가격이 급등해 감정가의 20%를 깎아주더라도 집을 살 수 있는 신혼부부가 거의 없을 수 있다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 서울시 관계자는 “공급 물량을 늘리고 비용 부담을 덜기 위해 내년부터는 아파트 외에 신축 빌라와 오피스텔 등도 매년 2000가구씩 추가 공급할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞미리 내 집&lt;/b&gt;&lt;br&gt;&lt;br&gt;서울시가 저출생 극복 대책으로 지난 5월 도입한 장기 전세 주택(시프트). 신혼부부가 전세로 입주한 뒤 아이를 낳으면 최장 20년까지 살 수 있고 20년 후에는 시세보다 최대 20% 싼 가격에 아파트를 매입할 수 있다. 아이를 낳으면 더 넓은 평형으로 옮겨갈 수도 있다.&lt;br&gt;&lt;br&gt;&lt;b&gt;▶함께 보면 좋은 영상&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;💰&lt;/b&gt;&lt;a href="https://www.youtube.com/@chosunmoney?sub_confirmation=1"&gt;&lt;b&gt;부자가 되고 싶은 당신을 위한 경제지침서 유튜브 ‘조선일보 머니’ 보러가기&lt;/b&gt;&lt;/a&gt;&lt;a href="https://www.youtube.com/@chosunmoney?sub_confirmation=1"&gt;&lt;b&gt;https://www.youtube.com/@chosunmoney?sub_confirmation=1&lt;/b&gt;&lt;/a&gt;&lt;b&gt;  &lt;/b&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, 공천 개입 의혹 관련 김영선 前보좌진 3명 조사</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/25/OJCTEXC2EBDN7GJENRBXEOLLWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/25/OJCTEXC2EBDN7GJENRBXEOLLWI/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Oct 2024 16:25:43 +0000</pubDate>
-      <content:encoded>김건희 여사의 ‘공천 개입 의혹’ 사건을 수사 중인 창원지검 형사4부(부장 김호경)는 23일 김영선 전 국민의힘 의원의 보좌진 3명을 참고인 신분으로 불러 조사했다. 전날 검찰은 김 전 의원의 회계 담당자로, 이 의혹을 처음 폭로한 강혜경씨를 피의자 신분으로 불러 11시간 동안 조사했다.&lt;br&gt;&lt;br&gt;이 사건은 정치 브로커 명태균씨가 지난 대선 때 여론조사 등을 통해 국민의힘 대선 후보였던 윤석열 대통령을 도왔고, 윤 대통령 측에서 조사 비용을 받는 대신 2022년 6·1 국회의원 보궐 선거 때 김 전 의원을 공천받게 했다는 의혹이다.&lt;br&gt;&lt;br&gt;검찰은 이날 김 전 의원이 21대 국회의원이던 당시 보좌관과 선임 비서관, 수행 비서 등 3명을 소환해 김 전 의원과 명씨 사이의 돈거래와 김 전 의원의 2022년, 2024년 공천 과정 전반을 확인한 것으로 전해졌다. 강혜경씨는 전날 조사에서 지난 대선 당시 윤 대통령을 위한 여론조사 비용 대납 규모가 기존에 알려진 것보다 많은 2억2700만원이라고 진술했다. 국민의힘 기초단체장 출마 예정자 A씨로부터 9차례에 걸쳐 1억4500만원을, 광역의원 출마 예정자 B씨로부터 4차례에 걸쳐 8200만원을 각각 받았다는 것이다. 강씨는 모두 현금으로 받았다고 했다. 강씨는 “두 사람이 공천을 받지 못하자 돈을 돌려달라고 요구했는데, 김 전 의원이 보궐 선거에 당선된 뒤 선거관리위원회에서 지급받은 선거 보전금으로 이를 대신 갚아줬다”고 주장하고 있다.&lt;br&gt;&lt;br&gt;명씨는 ‘여론조사 비용 대납 의혹’에 대해 “나와 관계없고, 미래한국연구소 소장 김모씨가 A·B씨에게 개인적으로 빌린 모양”이라는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>美 범죄분석 권위자의 일침 “AI는 숙련된 사이코패스”</title>
