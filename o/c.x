@@ -13,6 +13,142 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>청주서 50대 남성이 60대 흉기로 공격 후 도주</title>
+      <link>https://www.chosun.com/national/incident/2024/10/29/3B5DCVA22FCTPCLANA4GADMTSA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/29/3B5DCVA22FCTPCLANA4GADMTSA/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Oct 2024 13:47:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W4KTVTHXGRJJBGHUE6QYC34NVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 청주흥덕경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주의 실직자 지원센터에서 한 입소자가 동료에게 흉기를 휘두르고 달아나 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;청주 흥덕경찰서는 50대 남성 A씨를 추적 중이라고 29일 밝혔다. A씨는 이날 오후 6시 54분쯤 흥덕구 신봉동의 한 실직자 지원센터에서 함께 방을 쓰던 60대 B씨를 흉기로 공격하고 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 지난 28일 센터에 입소한 뒤 B씨의 방에 배정됐지만 B씨와 크게 다툰 뒤 입소 당일 자진 퇴소했다.&lt;br&gt;&lt;br&gt;이후 A씨가 흉기를 들고 센터를 다시 찾아와 B씨를 공격한 것으로 경찰은 보고 있다. B씨는 A씨를 피해 길거리로 나왔다 쓰러진 뒤 행인에게 발견돼 병원으로 옮겨져 치료를 받고 있다. B씨는 생명이 위독한 상태는 아닌 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 방범카메라 등을 통해 A씨를 추적 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>양산 도심 휘저은 ‘공포의 멧돼지’...1시간 만에 사살</title>
+      <link>https://www.chosun.com/national/incident/2024/10/29/RNFRMHR5CFDODHE4ELWB2TSCWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/29/RNFRMHR5CFDODHE4ELWB2TSCWM/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Oct 2024 11:08:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2Z33J2MPFNGNKYHMPLAYX43VE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 29일 오후 경남 양산시 동면 부산도시철도 2호선 호포역에 멧돼지가 출몰해 1명이 다치고, 역사 내 시설물이 파손됐다. 사진은 호포역에서 난동을 피우다 사살된 멧돼지/경남소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 양산시에서 멧돼지가 음식점과 지하철역에 출몰해 30대 남성이 다치고 시설물이 파손됐다.&lt;br&gt;&lt;br&gt;29일 경남소방본부에 따르면 이날 오후 4시 45분쯤 양산시 동면 한 음식점 인근에 멧돼지가 나타났다. 몸길이 1.5m에 무게 100kg인 이 멧돼지는 8차선 도로를 질주해 부산도시철도 2호선 호포역 2층으로 들어섰다.&lt;br&gt;&lt;br&gt;역사 내를 뛰어다니던 멧돼지는 3층 화장실에 있던 30대 남성 A씨의 오른팔을 수차례 물었고, 4층 도시철도 고객센터 유리문을 박살냈다. A씨는 팔에 상처를 입고 병원으로 옮겨졌으며 생명엔 지장이 없는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PT44BCVAU5GX3BU3ZZR2LFDGYI.gif"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오후 경남 양산시 동면 부산도시철도 2호선 호포역에 멧돼지가 출몰했다. /경남소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신고를 받은 경찰은 5층 승강장에서 멧돼지를 몰아넣어 움직임을 막았고, 이후 오후 5시 43분쯤 전문 엽사가 멧돼지를 사살했다.&lt;br&gt;&lt;br&gt;경찰은 도심에 멧돼지가 출몰한 원인 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PT44BCVAU5GX3BU3ZZR2LFDGYI.gif?width=800&amp;height=450&amp;auth=54807edc6ad54b4fc50e441a51ea3005effa4037b9d11831ef1303a3bf7dc02c&amp;smart=true" type="image/jpeg" height="450" width="800">
+        <media:description type="plain">29일 오후 경남 양산시 동면 부산도시철도 2호선 호포역에 멧돼지가 출몰했다. /경남소방본부</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>임현택 의협 회장 탄핵 여부, 다음달 10일 결정</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/10/29/F22PFRTLKJAIXEXRLTIIOWONIM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/29/F22PFRTLKJAIXEXRLTIIOWONIM/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Oct 2024 13:23:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7AMI7APWIBIC7IH7KMCTHRHKXY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;임현택 대한의사협회 회장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임현택 대한의사협회(의협) 회장의 탄핵 여부가 다음달 10일 결정된다.&lt;br&gt;&lt;br&gt;의협 대의원회 운영위원회는 29일 저녁 긴급 회의를 열고 임 회장 불신임(탄핵) 및 비상대책위원회(비대위) 설치 안건 등을 내달 10일 임시 대의원 총회에서 표결에 부치기로 했다.&lt;br&gt;&lt;br&gt;이날 투표 대상이 되는 안건은 재적 대의원 3분의 1 이상 발의에 따른 회장 불신임의 건, 재적 대의원 4분의 1 이상 발의에 따른 비대위 구성의 건이다. 조현근 의협 대의원 등 103명은 지난 24일 의협 운영위원회에 해당 안건 처리를 위한 임시 총회 소집을 요청했다.&lt;br&gt;&lt;br&gt;의협 회장 탄핵안은 총회에서 재적 대의원 246명 가운데 3분의 2(164명) 이상이 참석하고, 참석 대의원 가운데 3분의 2가 찬성하면 가결된다. 재적 대의원의 3분의 2가 참석할 경우, 110명이 찬성하면 탄핵안이 가결되는 것이다.&lt;br&gt;&lt;br&gt;임 회장은 정부의 의대 증원 정책과 관련한 미흡한 대응, 간호법 국회 통과, 연이은 막말 논란 등으로 코너에 몰렸다는 평가를 받았다. 자신에 대한 비방글을 올린 지역의사회 임원을 고소하고, 취하 조건으로 1억원을 요구한 사실까지 알려져 논란이 커졌다.&lt;br&gt;&lt;br&gt;의료계 일각에서는 임 회장에 대한 탄핵안이 가결되고, 비대위 체제로 전환되면 의정 갈등 해소에 속도가 붙을 것이라는 전망도 나온다. 반면 현 의협 집행부는 비대위 체제로 전환하면 오히려 혼란이 더 커질 것이라고 주장하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내장산 케이블카 급정거에 운행 중단...70대 남성 부상</title>
+      <link>https://www.chosun.com/national/incident/2024/10/29/UZMOG4FJV5GCTK6U67ZBJQ5ZK4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/29/UZMOG4FJV5GCTK6U67ZBJQ5ZK4/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Oct 2024 13:17:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KSVQYCHDCVFZVBPX7HI67ATCIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/내장산개발주식회사 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 정읍시의 내장산에서 케이블카가 급정거해 탑승객이 다쳤다.&lt;br&gt;&lt;br&gt;29일 정읍소방서 등에 따르면 이날 오전 10시 37분쯤 내장산 케이블카가 운행 중 갑자기 멈췄다. 이 사고로 케이블카에 타고 있던 70대 남성 A씨가 허리 통증 등을 호소해 인근 병원으로 이송됐다. 사고 당시 상행 케이블카엔 37명, 하행 케이블카엔 20명이 타고 있었다. A씨 외에도 일부 승객들이 가벼운 타박상을 입은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;사고 이후 내장산 케이블카 운영사 측은 홈페이지를 통해 30일까지 케이블카 운행을 중단한다고 공지했다.&lt;br&gt;&lt;br&gt;국립공원공단 내장산국립공원사무소는 브레이크 고장을 원인으로 보고 정확한 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“한달 월급으로는...” 산후조리원 일반실도 2주 평균 346만원</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/10/29/BQK5CFWXVJBXTG42VMV5JOMI7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/29/BQK5CFWXVJBXTG42VMV5JOMI7Y/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Oct 2024 11:52:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JMVTNJ56OFCARIQ3MNZMN5BRW4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;산후조리원. 기사 내용과 무관한 사진. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;많은 여성이 출산 후 이용하는 산후조리원 비용이 1년 만에 10% 가까이 증가한 것으로 나타났다.&lt;br&gt;&lt;br&gt;29일 보건복지부가 발표한 ‘전국 산후조리원 현황’에 따르면, 올해 6월 기준 전국 산후조리원 452곳 가운데 일반실을 운영하는 445곳의 2주 평균 이용료는 346만7000원으로 집계됐다. 작년 6월(319만9000원)보다 8.4% 증가했다.&lt;br&gt;&lt;br&gt;산후조리원은 보통 특실과 일반실을 갖추고 있다. 전국에서 일반실 비용이 가장 비싼 곳은 서울 강남구 삼성동의 A 산후조리원으로 1700만원(2주 기준)이었다. 가장 싼 곳(90만원)의 19배였다. 이 밖에도 1000만원 넘는 곳은 대부분 서울 강남구에 있었다.&lt;br&gt;&lt;br&gt;특실이 있는 산후조리원 332곳의 특실 평균 비용은 504만4000원이었다. 지난해 6월(451만3000원) 대비 11.8% 증가했다. 가장 비싼 곳은 4020만원이 드는 서울 강남의 B 산후조리원이다.&lt;br&gt;&lt;br&gt;산후조리원은 출산한 산모가 건강을 회복하는 장소다. 2021년 보건복지부 조사에서 산모 10명 중 8명이 이용할 정도로 ‘출산 필수 시설’이다. 그런데 산후조리원 2주간 비용이 수백~수천만원으로 천정부지로 오르자 정부는 산모들의 경제적 부담을 줄이기 위해 공공 산후조리원을 운영하기 시작했다. 지난 6월 기준 공공 산후조리원의 일반실 평균 이용료는 175만1000원으로 민간 산후조리원(355만2000원)의 절반 수준이다.&lt;br&gt;&lt;br&gt;그런데 지자체가 운영하는 공공 산후조리원은 21곳으로, 전국 산후조리원 452곳 가운데 5%에 불과한 것으로 나타났다. 공공 산후조리원이 전혀 없는 지자체도 있다. 부산, 대구, 인천, 광주, 대전, 세종, 충북, 전북 등 여덟 지역엔 공공 산후조리원이 없다. 이 지역 산모들은 인근 도시로 ‘원정 산후 조리’를 가는 불편을 겪기도 한다.&lt;br&gt;&lt;br&gt;정부는 ‘산후조리원 평가제’ 도입을 계획하고 있다. 보건복지부 관계자는 “산모들이 가격 대비 서비스 질을 판단할 수 있도록 산후조리원이 산모와 신생아에게 안전하고 질 높은 서비스를 제공하고 있는지 점검하는 시스템 도입을 준비 중”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>막말에 1억 요구 논란까지...임현택 의협 회장, 내달 10일 탄핵 표결</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/10/29/F7Q7M5XDVRGSLL3DJCLI3DJBKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/29/F7Q7M5XDVRGSLL3DJCLI3DJBKM/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Oct 2024 11:42:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VZYSQWPADJI7JHTSF7EGPRBHSU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;임현택 대한의사협회장이 지난 16일 오후 서울 종로구 서울대병원 암연구소 이건희홀에서 진행된 고등교육기관의 평가·인증 등에 관한 규정 개정안에 대한 한국의학교육평가원 입장 기자회견에서 안덕선 한국의학교육평가원장의 입장문 발표를 듣고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임현택 대한의사협회(의협) 회장이 취임 반년 만에 탄핵 위기에 놓였다.&lt;br&gt;&lt;br&gt;의협 대의원회 운영위원회는 29일 임 회장 불신임(탄핵) 및 비상대책위원회(비대위) 설치&lt;b&gt; &lt;/b&gt;안건 등을 표결에 부칠 임시 대의원 총회 일정을 결정하는 회의를 열었다. 조현근 의협 대의원 등 103명은 지난 24일 의협 운영위원회에 이 같은 내용의 임시 총회 소집을 요청했다. 임시 총회 날짜는 준비 기간 등을 감안해 내달 10일이 될 것으로 보인다&lt;b&gt;.&lt;/b&gt;&lt;br&gt;&lt;br&gt;의협 회장 탄핵안은 총회에서 재적 대의원 246명 가운데 3분의 2(164명) 이상이 참석하고, 참석 대의원 가운데 3분의 2가 찬성하면 가결된다. 재적 대의원의 3분의 2가 참석할 경우, 110명이 찬성하면 탄핵안이 가결되는 것이다.&lt;br&gt;&lt;br&gt;지난 5월 취임한 임 회장은 최근 의대 증원 정책과 관련한 미흡한 대응, 간호법 국회 통과, 연이은 막말 논란 등으로 코너에 몰렸다는 평가를 받고 있다. 최근에는 임원진 단체 대화방에 임 회장에 대한 비방 글을 올린 지역의사회 임원을 고소하고, 취하 조건으로 임원에게 1억원을 요구한 사실까지 알려져 논란이 일었다.&lt;br&gt;&lt;br&gt;일부 의사들은 공개적으로 임 회장 등 의협 집행부의 사퇴를 촉구했다. 권용진 서울대병원 공공진료센터 교수는 이날 페이스북에 글을 올려 “의사를 대표한다는 의협은 (의사들이) 회원이라 말하기 창피할 정도로 품위가 없고 경망스럽다”며 “집행부는 모두 사퇴하고 비상대책위원회로 전환해야 한다”고 했다.&lt;br&gt;&lt;br&gt;의료계 일각에서는 비대위 체제로 전환되면 의정 갈등 해소가 속도를 낼 수 있을 것이라는 전망도 나온다. 박단 대한전공의협의회 비상대책위원장과 대립해 온 임 회장이 물러나면 전공의들도 의협과의 대화에 참여할 것이고, 통일된 의견을 바탕으로 정부와 협상할 수 있을 것이라는 이야기다.&lt;br&gt;&lt;br&gt;반면 현 의협 집행부는 비대위 체제로 전환하면 오히려 혼란이 더 커질 것이라고 주장한다. 의협 집행부 관계자는 “의정 갈등 사태를 해결할 책임이 의협에 있는데, 회장이 탄핵되고 비대위 체제로 가면 내년 3월까지 혼돈이 이어질 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>감사원 “금감원, 백내장 실손보험금 분쟁 62% 시비 가리지 않고 임의 종결”</title>
+      <link>https://www.chosun.com/politics/goverment/2024/10/29/KRNGNSZO4JBDDPTKOQZYAF67YQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2024/10/29/KRNGNSZO4JBDDPTKOQZYAF67YQ/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Oct 2024 10:36:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PDAEBNEC2NGUJIJNPBMTNGAV3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;감사원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;실손의료보험 가입자가 백내장 수술을 받았는데도 보험사가 보험금을 지급하지 않아 금융감독원으로 들어온 분쟁 조정 신청 4400건을 금감원이 시비를 가리지 않고 임의로 종결 처리한 것으로 드러났다. 쌓여 있는 신청 건수가 많다는 이유에서였다.&lt;br&gt;&lt;br&gt;감사원이 29일 공개한 ‘금융감독원의 백내장 실손보험금 지급 분쟁 조정 업무 처리 관련’ 감사 보고서에 따르면, 백내장은 한 차례 수술에 700만원 이상의 비용이 필요하고, 실손의료보험 가입자는 백내장 수술 후 자신이 부담한 비용을 보험사에 청구하고 있다.&lt;br&gt;&lt;br&gt;그런데 보험사가 백내장 수술에 대한 보험금 지급 심사를 강화하면서, 보험금 지급이 거절되는 경우가 늘었다. 이에 따라 금감원에 접수되는 백내장 보험금 지급 관련 분쟁 조정 신청도 크게 늘었다. 2019년부터 지난해까지 5년간 접수된 신청이 7080건에 달했고, 이는 같은 기간 금감원에 접수된 분쟁 가운데 가장 비중이 큰 것이었다.&lt;br&gt;&lt;br&gt;백내장 보험금 지급을 둘러싸고 보험 가입자와 보험사 간에 벌어진 분쟁은 백내장 수술을 하는 것이 적정했는지, 입원 치료를 할 필요가 있었는지 등이 쟁점인 경우가 대다수로, 의학 전문가의 객관적인 평가가 필요한 것들이었다.&lt;br&gt;&lt;br&gt;금감원이 이런 사건들을 어떻게 처리했는지 감사원이 확인해 보니, 금감원은 보험사가 보험금 지급에 동의하지 않는 경우, 전문가 자문 등의 절차를 거치지 않고 사건을 종결 처리해버리고 있었다.&lt;br&gt;&lt;br&gt;백내장 보험금 분쟁 사건은 2022년 폭증해, 그해 1~10월에만 4067건이 금감원이 접수됐고, 이는 전년도 302건에 비해 약 13.5배로 늘어난 것이었다. 당시 금감원이 처리 중이던 실손보험 분쟁의 절반이 백내장 보험금 분쟁이었다.&lt;br&gt;&lt;br&gt;그러자 금감원은 2022년 11월 ‘계량 지표를 활용한 백내장 분쟁 일괄 신속 처리 방안’이라는 내부 방침을 만들었다. 이 방침은 ‘환자 눈 수정체의 혼탁 정도가 중증인 경우’ ‘환자가 60세 이상인 경우’ ‘환자의 백내장 수술 전 교정시력이 0.8 미만인 경우’ 등에 한해서 보험사에 보험금 지급을 권고한다는 것이었다. 이런 경우는 그동안 보험사들이 보험금 지급 권고를 받아들여 온 범위에 해당하는 것이었다.&lt;br&gt;&lt;br&gt;문제는 금감원이 이 범위에 들어오지 않는 사건의 경우에는 모두 종결 처리하기로 했다는 것이다. 금감원은 각 사건 환자가 실제로 백내장 수술을 받아야 하는 사람이었는지를 의학 전문가를 통해 따져보지 않고 사건을 종결했고, 그 결과로 보험사들은 보험금 지급 부담을 덜었다. 이런 사건 환자들은 따로 노력을 기울여 보험사와 별도로 합의하지 못하면, 소송을 통하지 않고는 보험사로부터 보험금을 받아낼 길이 사라져버렸다.&lt;br&gt;&lt;br&gt;2022년 6월 대법원은 실손의료보험에 가입한 백내장 환자에 대해 보험사가 보험금을 지급하는 경우, 일괄적으로 입원 치료를 받은 것으로 인정해 고액의 보험금을 지급하는 관행을 깨는 취지의 판결을 했다. 이에 따라 이듬해부터는 ‘백내장 수술을 받았더라도, 입원할 필요까지 있었는지’가 백내장 보험금 분쟁 사건 대다수의 쟁점이 됐다.&lt;br&gt;&lt;br&gt;그러자 금감원은 ‘환자가 병원에 6시간 이상 체류했고, 백내장 수술로 출혈, 안압 상승 등 주요 합병증·부작용이 발생한 것으로 확인된 경우’에 한해 보험사에 보험금 지급을 권고했다. 그러면서 환자가 제출한 자료만으로는 입원 치료가 필요했는지가 명확하지 않아 추가 조사가 필요한 사건들은 또 일률적으로 종결해버렸다.&lt;br&gt;&lt;br&gt;그 결과, 금감원은 2019년부터 지난해까지 5년간 접수된 백내장 보험금 분쟁 사건 7080건 가운데 4400건(62.1%)에 대해, 사실 관계 확인이나 의학 전문가 자문 등의 절차를 거치지 않고 임의로 종결 처리한 것으로 드러났다.&lt;br&gt;&lt;br&gt;감사원은 “금감원이 (사건을 종결하면서) ‘제3 의료기관에 자문하라고 권고’ ‘주치의 면담을 권고’ 등의 용어를 사용하고 있으나, 실상은 금감원이 직접 사실 관계를 확인하는 등의 조치 없이 문제 해결을 신청인 등에게 전가하고 있다”고 지적했다.&lt;br&gt;&lt;br&gt;감사원은 “금감원이 분쟁 조정 담당 부서의 판단과 결정만으로 사건을 내부 종결해, 금융 소비자 보호의 실효성과 금융 분쟁 조정 제도의 공신력이 저하되는 결과를 초래했다”고 비판했다.&lt;br&gt;&lt;br&gt;감사원은 금감원이 일본뇌염, 유방암 등의 질병에 대한 보험금 분쟁에서는 의사·변호사·교수 등 전문가 조언을 받고 관련 판례와 결정례 분석을 통해 의학적 쟁점에 관한 사실 관계를 확정했고, 이를 바탕으로 분쟁 조정 신청인의 주장을 인용할지, 기각할지를 검토해 금융분쟁조정위원회에 회부했으며, 금융분쟁조정위원회가 이를 바탕으로 심의·의결을 했다는 점을 지적했다.&lt;br&gt;&lt;br&gt;감사원은 금감원에 백내장 보험금 분쟁 사건에 대해서도 이런 절차를 거치라는 취지로, “금융분쟁조정위원회 회부 대상 선별 기준 마련 등 실손보험금 관련 분쟁 조정의 실효성을 제고할 방안을 마련하라”고 통보했다.&lt;br&gt;&lt;br&gt;금감원은 감사 결과를 받아들이면서 “백내장 관련 분쟁처럼 단기간에 다수의 분쟁이 집중된 경우, 소비자 피해를 신속하게 구제할 수 있도록 합리적인 분쟁 처리 기준을 마련하고, 이에 대해 금융분쟁조정위원회의 심의·의결을 받겠다”고 밝혔다고 감사원은 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법정으로 간 ‘연세대 논술 유출’... 효력정지 두고 법정 공방</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/29/U7AI6VVPKNDH7I54V7YEIVYQLI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/29/U7AI6VVPKNDH7I54V7YEIVYQLI/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Oct 2024 12:14:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ATYQEBEVSVIKNAYWUA47REYU4Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2025학년도 연세대학교 논술시험 문제 사전 유출 사건과 관련해 수험생과 측 집단 소송 대리인인 김정선 변호사가 29일 서울서부지법에서 열린 논술시험 효력 정지 가처분 소송 첫 재판을 마친 뒤 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연세대 2025학년도 수시모집 자연계열 논술시험의 공정성 훼손 여부를 놓고 대학 측과 수험생 측이 법정에서 치열한 공방을 펼쳤다.&lt;br&gt;&lt;br&gt;서울서부지법 민사합의21부(재판장 전보성)는 29일 일부 수험생이 연세대를 상대로 낸 자연계열 논술시험 효력정지 가처분 신청 사건의 첫 심문기일을 열었다.&lt;br&gt;&lt;br&gt;수험생 측 소송대리인은 “이 시험은 다른 시험을 보지 않고 100％ 논술로 뽑는 것이기 때문에 수능과 맞먹는 관리가 필요하다”며 “그 정도의 관리가 없었다면 공정성이 침해돼 효력 정지가 돼야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;이어 “감독관이 사전에 시험지를 배포했고 시험 시작 전 이에 노출된 학생들이 시험 문제 정보를 유출했다”며 “허술한 관리·감독으로 공정성이 침해당했기 때문에 재시험을 이행하는 결정을 내려달라”고 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PAG2GDFZX5DBFOXXQMWXCTF7RA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 연세대학교 2025학년도 수시모집 논술시험을 마친 수험생들이 고사장을 나서고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 대해 연세대 측은 시험 과정에서 공정성이 훼손될 정도의 행위는 없었다고 강조했다.&lt;br&gt;&lt;br&gt;연세대 측 소송대리인은 “객관적인 자료에 비춰보면 (관리·감독에) 약간의 실수가 있었지만 시정됐다”며 “신청인의 주장처럼 만약 일부에게 유출되는 부정행위가 있었다고 하면 누구에 의해 이뤄졌는지 등을 확인해 조처하면 되는 문제”라고 말했다.&lt;br&gt;&lt;br&gt;아울러 재시험 주장에 대해 “재시험 실시 여부는 사립 교육기관인 연세대가 광범위한 재량에 의해 결정해야 할 사항이며 무엇보다 성실하게 규정을 지켜 자신의 실력대로 시험에 임해 합격 점수를 얻은 수험생들이 재시험을 보면 돌이킬 수 없는 피해를 보게 된다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 양측으로부터 11월 8일까지 심리에 필요한 자료를 제출받은 뒤 대입 일정 등을 고려해 수능 다음날인 11월 15일 이전에 가처분 신청에 대한 결정을 내린다는 방침이다.&lt;br&gt;&lt;br&gt;앞서 지난 12일 연세대 수시모집 자연계열 논술시험이 치러진 한 고사장에선 감독관의 착각으로 문제지가 시험 시작 약 1시간 전에 배부됐다가 회수되는 사건이 벌어졌고 이 과정에서 문제 내용이 유출됐다는 논란이 일었다.&lt;br&gt;&lt;br&gt;이에 수험생 18명 등 총 34명은 서울서부지법에 연세대를 상대로 논술시험 효력을 정지해달라는 가처분을 신청했다.&lt;br&gt;&lt;br&gt;수험생들은 법원에 논술시험을 다시 치르게 해달라는 다수 당사자의 공동소송도 제기한 상태다. 이들은 당초 무효 확인 소송을 냈지만 수험생 측이 승소하더라도 연세대가 재시험을 치르지 않겠다고 거부할 경우 강제할 방법이 없다는 점을 고려해 청구 취지를 변경했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인권 부서 女검사가 남자 후배 검사 성추행... 정직 1개월</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/29/7DH2Y3334VFIHCHFBJYT5KD4KM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/29/7DH2Y3334VFIHCHFBJYT5KD4KM/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Oct 2024 11:24:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3MGTBBOYI4ZYZDU5LCWFSREBPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지방검찰청의 모습. 기사 내용과 무관한 사진. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;회식 중 후배 남자 검사를 추행한 여성 검사, 소속 부원들에게 성차별적 발언을 한 부장검사 등이 법무부에서 정직 등의 징계 처분을 받았다.&lt;br&gt;&lt;br&gt;법무부는 지난 23일 부산지검 A 검사에게 정직 1개월의 징계 처분을 내렸다고 29일 밝혔다. A 검사는 창원지검 재직 시절인 작년 2월, 평검사 인사 이동을 앞두고 열린 회식 자리에서 다른 부서 소속인 남자 후배 검사의 특정 신체 부위를 접촉했다. 당시 피해자는 초임 검사였던 것으로 알려졌다. 인권·명예보호 전담부인 형사 1부에서 근무하던 A 검사는 이 일 직후 다른 부서로 발령 났다. 성 비위 의혹의 당사자가 인권 관련 업무를 수행하는 것이 부적절하다는 이유였다.&lt;br&gt;&lt;br&gt;법무부는 또 지난해 9~12월 회식 중 술에 취해 소속 부원들에게 부적절한 언행을 한 광주지검 B 검사에게도 최근 정직 6개월의 징계 처분을 내렸다. B 검사는 수원지검 안산지청 부장검사로 근무할 당시, 회식 자리에서 한 부원에게 “내가 인사 고과 최고 등급을 줬으니 앞으로 잘하라”며 인사 평가 결과를 공개하고, 다른 부원에게는 “너는 애 딸린 유부녀가 좋으냐”고 하는 등 수차례 부적절한 발언을 한 것으로 전해졌다. 당시 회식에 참석했던 후배 검사들은 현장에서 부적절한 발언에 항의했다고 한다. B 검사는 현재 부장검사에서 강등돼 부부장으로 근무 중이다.&lt;br&gt;&lt;br&gt;지난해 1∼6월 육아시간 사용을 승인받은 뒤, 육아가 아닌 다른 목적으로 시간을 사용한 의정부지검 C 검사는 정직 4개월의 징계를 받았다. 또 2016년 12월 교수와 조교의 도움을 받아 작성된 논문을 자신의 박사과정 예비심사용 논문으로 발표한 수원지검 성남지청 D 검사는 견책 처분을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아직도 붉지 않은 내장·두륜·한라산... 전국 ‘지각 단풍’ 속출</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/10/29/UEMNMHD4LRB2NNOIYC7TH7RXXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/10/29/UEMNMHD4LRB2NNOIYC7TH7RXXY/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Oct 2024 11:31:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ENAHVYDOB5JKZOEXC5A47NZIWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;완연한 가을 날씨를 보이는 지난 16일 오전 제주 한라산 관음사 코스 장구목 풍경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10월 말이 닥쳤는데도 전국 대부분 지역에서 단풍이 아직 절정에 이르지 못하고 있다. 올해 늦더위 때문에 단풍이 물드는 시기가 한 달 정도 늦어진 여파로 분석된다. 남부 지방에는 아직 단풍이 시작조차 안 된 곳도 있다.&lt;br&gt;&lt;br&gt;29일 기준 기상청이 단풍 현황을 발표하는 전국 21개 유명 산 가운데 단풍이 절정에 이른 곳은 강원 오대산과 전북 덕유산 단 2곳뿐인 것으로 나타났다. 단풍의 절정은 산림의 80%가 단풍으로 물들었을 때를 뜻한다. 기상청은 본래 올해 단풍의 절정이 지역별로 10월 20일부터 11월 5일 사이 대체로 찾아올 것으로 예상했는데, ‘지각 단풍’이 속출하고 있는 것이다.&lt;br&gt;&lt;br&gt;단풍 명소로 꼽히는 전북 내장산은 원래 11월 5일에 단풍이 절정에 이를 것으로 예상됐지만, 아직 단풍이 시작도 안 했다. 보통 산림의 20% 이상 물들어야 단풍이 시작된 것으로 본다. 전남 두륜산도 본래 11월 11일 절정으로 예상됐지만, 속도로는 그때 절정을 맞기 힘들 것으로 보인다.&lt;br&gt;&lt;br&gt;우리나라에서 단풍 절정이 가장 빠르게 나타나는 설악산도 당초 10월 20일이 절정으로 예상됐지만, 기상청 관측 결과 단풍 시작일은 10월 21일이었다. 경남·전남·전북에 걸쳐있는 지리산도 10월 23일이 절정 예상 시기였는데, 10월 25일이 돼서야 산림의 20%가 단풍으로 물들었다. 해발 고도가 높아 남부 지방보다 단풍 절정이 일찍 찾아오는 제주 한라산 역시 절정으로 예고된 10월 28일이 지났지만 여전히 초록잎이 대부분이다.&lt;br&gt;&lt;br&gt;올해 이렇게 단풍이 옷을 늦게 갈아입은 것은 여름이 끝나고도 한동안 늦더위가 이어졌기 때문이다. 단풍은 통상 9월 말~10월 초부터 물들기 시작해 최저기온이 섭씨 5도 아래로 내려가는 10월 중순부터 빠른 속도로 물든다. 그런데 올해는 9월 더위 여파가 커 단풍이 익을 시간이 줄어들었다.&lt;br&gt;&lt;br&gt;내장산이 있는 전북 정읍의 경우 지난 9월과 10월의 평균 최저기온이 각각 21.8도와 12.2도였다. 기상학적으로 가을 시작일은 ‘일 평균기온이 20도 아래로 내려가 다시 올라가지 않는 첫날’을 뜻하는데, 정읍은 9월까지 계속 여름이었던 셈이다. 지난 21일에야 일 최저기온이 10도 아래로 떨어졌지만, 아직 단풍이 물들기 시작한다는 ‘섭씨 5도’ 아래로 내려간 적이 올가을 들어 한 번도 없었다.&lt;br&gt;&lt;br&gt;기상청은 다음 달 4~8일 사이 한반도 기온이 최저 1~14도까지 떨어질 것으로 내다봤다. 이에 따라 전국에서 단풍이 절정에 이르는 시기도 11월 중순이 돼야 올 것으로 보인다.&lt;br&gt;&lt;br&gt;아열대 기후에 가까워진 남부 지방은 ‘지각 단풍’조차 제대로 보지 못할 것으로 보인다. 단풍이 알록달록하게 물들기 전에 겨울이 찾아와 초록잎 상태로 낙엽이 될 가능성이 크기 때문이다. 갈수록 단풍을 즐길 시기가 짧아지고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>트럭 적재함에서 불...서부간선 지하도로 한때 통제</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/29/GNBQKJWO75ADHI3SCXIPU4LEI4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/29/GNBQKJWO75ADHI3SCXIPU4LEI4/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Oct 2024 11:24:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UVAIOXVTHCMSNAOJK74XVZLZF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서부간선지하도로 내부의 모습./서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 서부간선 지하도로를 달리던 트럭 적재함에서 불이 나 한때 양방향으로 도로가 통제됐다.&lt;br&gt;&lt;br&gt;소방당국에 따르면 29일 오후 4시 45분쯤 서울 금천구 서부간선 지하도로 성산대교 방향에서 “트럭 적재물에 불이 붙었다”는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;이 불로 인한 인명피해는 없었지만, 1시간 가량 양방향 도로가 통제되며 차량 통제가 빚어졌다.&lt;br&gt;&lt;br&gt;소방당국은 인력 107명, 장비 30대를 동원해 오후 5시 14분쯤 불을 완진했다.&lt;br&gt;&lt;br&gt;소방 관계자는 “트럭 적재함에 실려있던 폐지와 그 안에 있던 쓰레기 등에서 부주의로 인해 불이 시작된 것으로 보고 있다”며 “정확한 화재 원인은 조사하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한양도성 지나는 배출가스 5등급 차량에 과태료 부과한 서울시…法 “취소하라” </title>
+      <link>https://www.chosun.com/national/court_law/2024/10/29/NOQMWMY27BCYRFNIMPSDBBST2M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/29/NOQMWMY27BCYRFNIMPSDBBST2M/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Oct 2024 11:17:15 +0000</pubDate>
+      <content:encoded>‘녹색교통지역’ 인 서울 한양도성에 진입하는 배출가스 5등급 차량에 과태료를 부과해 온 서울시 정책에 제동이 걸렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KF5SLEGOHNBJHBCQ2ACJQ5RTD4.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;한양도성 외벽/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 민사79단독 서영효 판사는 29일 지속가능교통물류발전법 위반으로 과태료 10만원을 부과받은 A씨가 낸 이의제기에서 과태료를 취소하라고 약식 결정했다. &lt;br&gt;&lt;br&gt;서울시는 지속가능교통법에 따라 서울 종로구~중구에 걸쳐 있는 한양도성 16.7㎢ 내부를 녹색교통지역으로 지정, 2019년부터 ‘배출가스 5등급’ 차량의 통행을 제한했다. 현 지속가능교통법은 국토교통부장관 등이 ‘온실가스 배출량’ 등을 고려해 특별대책지역을 지정하고 자동차 운행을 제한할 수 있다고 규정한다.&lt;br&gt;&lt;br&gt;이에 서울시는 A씨가 배출가스 5등급 차량을 타고 녹색교통지역인 ‘남산1호터널/삼일대로’ 구간을 통행했다는 이유로 과태료 10만원을 부과했다. &lt;br&gt;&lt;br&gt;그러나 법원은 “배출가스와 온실가스는 전혀 다르다”며 배출가스 등급을 토대로 과태료를 부과하는 것은, 온실가스 배출량을 고려한 조치가 아니라고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 “서울시는 위반차량이 ‘배출가스 5등급’ 차량으로서 구간을 통행했다는 이유로 위반자에게 과태료를 부과했지만, 서울시가 녹색교통지역 구간을 설정할 때 ‘온실가스 배출량’ 등을 고려했음을 뒷받침할 어떤 자료도 나타나지 않았다”고 했다.&lt;br&gt;&lt;br&gt;이어 “위반차량이 ‘배출가스 5등급’ 차량에도 불구하고 지속가능교통법이 규제하는 온실가스 배출량에 관한 규제대상 차량임을 인정할 아무런 증거가 없다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 송파 무인 창고서 수십억 원 훔친 40대 男, 구속 기소</title>
+      <link>https://www.chosun.com/national/incident/2024/10/29/FZN6LPADORGJHLL5EPELD7CGA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/29/FZN6LPADORGJHLL5EPELD7CGA4/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Oct 2024 10:40:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AS3OPUWO7RPLFFBUJ3LN62A4NY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임대형 창고에 보관된 현금 수십억 원을 훔쳐 달아났다 붙잡힌 창고 관리직원이 지난 11일 오전 서울 송파구 송파경찰서에서 검찰로 송치되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 9월 서울 송파구 잠실역 인근의 한 무인 창고에 보관돼있던 현금 수십억 원을 훔친 40대 남성 A씨가 구속 기소됐다. A씨는 해당 사건이 발생한 무인 창고에서 지난해 5월부터 중간 관리자로 일해왔다.&lt;br&gt;&lt;br&gt;서울동부지검은 A씨를 야간방실침입절도 등의 혐의로 기소했다고 29일 밝혔다. 서울 송파경찰서가 구속 송치한 지 18일 만이다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 9월 12일 오후 7시 4분부터 다음날 오전 1시 21분까지 창고 안에 있던 현금을 빼낸 혐의를 받는다. 6개 여행 가방에 보관돼있던 현금을 자신의 아내 명의 창고에 보관한 후, 범행 2일 후인 15일쯤 경기 부천시의 한 건물에 은닉했다. 현금이 보관돼있던 가방 안에 “내가 누군지 알아도 모른 척 하라. 그러면 나도 아무 말도 하지 않을 것”이라는 내용의 종이를 넣어 놓았다. &lt;br&gt;&lt;br&gt;경찰이 40억1700만원을 압수한 가운데 “창고에 68억원을 보관했다”는 피해자 진술과 “45억원 정도만 훔쳤다”는 피의자 진술이 엇갈리고 있다.&lt;br&gt;&lt;br&gt;임차인(피해자)은 범행 12일이 지나서야 도난 사실을 신고했고, 경찰은 지난 2일 A씨를 검거했다. 피해 금액 은닉에 사용된 건물을 제공한 혐의를 받는 A씨 어머니 60대 여성 B씨와 피해자에게 가장 먼저 도난 사실을 알린 30대 여성 C씨도 함께 입건했다. C씨는 피해자와 지인 사이로, 이전에도 피해자의 지시를 받고 이 창고에서 수 차례 현금을 운반했다고 한다. 이들은 아직 경찰 조사를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 “피해자와 C씨의 진술이 엇갈리고, A씨와 같은 날(9월 8일) 현금이 있던 창고를 들어간 것이 확인돼 공범 여부를 조사 중”이라고 밝혔다. 앞서 A씨는 경찰 진술 과정에서 “범행 전 답사 차원으로 이날 창고에 들어갔다”고 했다.&lt;br&gt;&lt;br&gt;수사 당국 관계자는 “여러 쟁점이 엮여 있어 매우 복잡한 사건 중 하나”라며 “범죄 수익금의 일부일 가능성이 있어 절도 관련 수사가 끝나면 피해금 출처도 들여다볼 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/AS3OPUWO7RPLFFBUJ3LN62A4NY.jpg?width=5394&amp;height=3401&amp;auth=cc67c777788fbf6f13765c58f6fba0c4ad29543d0dd9a204ddc79e2a4b543335&amp;smart=true" type="image/jpeg" height="3401" width="5394">
+        <media:description type="plain">&lt;YONHAP PHOTO-2214&gt; '고양이에게 생선 맡긴 격?' 검찰 송치되는 수십억 절도 창고 관리직원
+    (서울=연합뉴스) 김도훈 기자 = 임대형 창고에 보관된 현금 수십억 원을 훔쳐 달아났다 붙잡힌 창고 관리직원이 11일 오전 서울 송파구 송파경찰서에서 검찰로 송치되고 있다. 2024.10.11
+    superdoo82@yna.co.kr/2024-10-11 07:59:27/
+&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">김도훈</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>허위 진료기록부 작성해 수억대 보험금 타낸 병원 의사 구속 송치</title>
+      <link>https://www.chosun.com/national/incident/2024/10/29/4NOMBTUIS5FQRBGLMJR75ANYZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/29/4NOMBTUIS5FQRBGLMJR75ANYZA/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Oct 2024 10:57:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CP4RUWJTWMYV6ZFGNCQBHLA2UI.png"&gt;&lt;figcaption&gt;&lt;small&gt;부산 남부경찰서/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;진료기록부를 허위로 작성해 8억 상당의 보험금을 부정 수급한 혐의로 부산의 한 병원 의사가 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;부산 남부경찰서는 보험사기방지특별법 위반 등 혐의로 의사 A씨를 구속 송치했다고 29일 밝혔다. 경찰은 A씨 외에도 간호사와 상담실장, 환자 등도 수사 중이다.&lt;br&gt;&lt;br&gt;A씨는 지난 2021년부터 작년까지 미용 시술을 한 뒤, 진료기록부엔 치료 목적의 진료를 한 것으로 기록해 보험금을 부정 수급한 혐의를 받고 있다. A씨 병원의 환자들은 이 진료기록을 바탕으로 보험사에 실손 보험금을 타냈다. 경찰은 부정 수급된 보험금만 8억원에 달하는 것으로 보고 있다.&lt;br&gt;&lt;br&gt;이 사건은 금융감독원이 경찰에 수사를 의뢰하면서 드러났다. A씨는 경찰 조사에서 혐의를 부인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “수사를 진행 중인만큼 피해금액이 더 늘어날 것으로 보고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>민희진, 어도어 대표 재선임 불발…하이브 상대 가처분 각하</title>
       <link>https://www.chosun.com/national/court_law/2024/10/29/5FAGGCEY6NG2DJDCNLFOKLZYKY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/29/5FAGGCEY6NG2DJDCNLFOKLZYKY/</guid>
@@ -764,15 +900,6 @@
       <content:encoded>국가인권위원회(인권위)는 28일 헬스장 등 스포츠 시설이 65세 이상의 회원 가입을 거부하는 건 차별이라고 판단했다.&lt;br&gt;&lt;br&gt;인권위 차별시정위원회는 A(68)씨 회원 가입을 거부한 B 스포츠 클럽 행위를 차별로 판단, 재발 방지 대책 마련을 권고했다고 밝혔다. A씨는 약 5년간 하루 입장권을 끊어 B클럽을 이용해왔다. 지난 1월엔 약 300만원을 내고 1년짜리 회원 가입을 신청했다.&lt;br&gt;&lt;br&gt;하지만 B클럽은 65세 이상이라는 이유로 A씨 가입을 거절했다. 클럽 측은 “수영장, 헬스장에 안전 요원을 배치했지만 고령자 사고가 계속 발생해 안전사고 우려와 운영상 어려움이 있다”며 “가입 신청서에도 나이 제한 등 자격 요건을 명시하고 있으며, 등록을 희망하는 회원에게 자격 요건을 설명하고 있다”고 밝혔다. 해당 클럽 회칙에는 ‘만 65세 이상 신청자는 입회를 제한할 수 있다’는 조항이 있다.&lt;br&gt;&lt;br&gt;이에 대해 인권위는 “클럽의 안전사고 예방 목적은 정당하지만, 스포츠 시설에서 안전사고 발생률이 반드시 나이에 비례하지는 않는다”고 판단했다. 또 64세 이전에 가입한 회원이 65세 이상이 되더라도 회원 자격을 유지하고 있다는 점을 근거로, 65세 이상의 가입을 일률적으로 배제하는 것은 불합리하다고 인권위는 판단했다. 실제로 B클럽 회원은 총 200명으로 이 중 65세 이상이 35명이다. B클럽이 회원과 다르게 하루 입장권 이용자들에 대해선 나이 확인을 하지 않아, A씨가 수년간 클럽을 이용해왔다는 점도 인정됐다. 인권위는 “노년층 인구가 가파르게 증가하고 있는 사회에서 고령자의 체육 시설 참여가 배제되지 않도록 안전장치 설치, 인력 충원 등 대책 마련을 권고한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>변협 회장 선거, 금태섭 출마 도전 </title>
-      <link>https://www.chosun.com/national/court_law/2024/10/29/U3VTKBWCNBHEHHNJTJAT477KPI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/29/U3VTKBWCNBHEHHNJTJAT477KPI/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 28 Oct 2024 15:59:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QNJVCERSRREMBIAPL2OQIVAADI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금태섭 전 의원이 내년 1월 열릴 예정인 제53대 대한변호사협회(변협) 회장 선거에 출마를 준비 중인 것으로 28일 전해졌다. 검사 출신인 금 전 의원은 더불어민주당 소속으로 20대 국회의원(서울 강서갑)을 지냈고, 2022년 대선 때는 윤석열 후보 선거대책위원회 전략기획실장을 맡았다. 올 4월 총선에선 개혁신당 소속으로 서울 종로에 출마했다가 낙선했다. 법조계에선 정치인의 변협 회장 도전을 이례적으로 보고 있다.&lt;br&gt;&lt;br&gt;금 전 의원은 이날 본지에 “주변 변호사들의 권유로 차기 변협 회장 선거에 출마하는 것을 적극 검토하고 있다”며 “법조가 제 고향인 만큼 봉사·기여하겠다는 생각”이라고 했다.&lt;br&gt;&lt;br&gt;변협 회장은 전국 변호사 3만여 명을 대표하며, 차기 회장의 임기는 3년이다. 대법관, 검찰총장, 공수처장 등 법조계 주요 인사 후보 추천권을 갖고 있다. 금 전 의원은 “과거에는 변협이 주요 사회적 문제에 대해 울림 있는 메시지를 내왔는데, 지금은 제 역할을 전혀 못 해 신뢰를 잃었다”며 “인사 추천권을 적극 활용해 국민에게 신뢰받는 단체가 되겠다”고 했다. 또 “공정한 경쟁과 더 나은 법률 서비스 제공을 위해 변호사들의 의견을 모아보겠다”고 했다.&lt;br&gt;&lt;br&gt;법조계에선 최근 변협 회장에 나서는 인물들이 과거에 비해 중량감이 떨어진다는 평가가 많았다. 이번 선거에는 금 전 의원 외에 김정욱 서울지방변호사회 회장과 안병희 한국미래변호사회 회장 등이 출마 예상자로 거론된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[세상만사] 노래야, 내 머릿속에서 제발 나가줘</title>
       <link>https://www.chosun.com/national/national_general/2024/10/29/SMTT5FTJWVFNTBN2CDLNIAVBZQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/29/SMTT5FTJWVFNTBN2CDLNIAVBZQ/</guid>
@@ -782,97 +909,6 @@
       <content:encoded>오는 17일 2025학년도 대학수학능력시험을 앞둔 고3 수험생들이 전 세계적 인기를 얻고 있는 노래 ‘아파트’(로제·브루노 마스)와 사투(死鬪)를 벌이고 있다. 중독성 있는 가락에 후렴구 ‘아파트’가 60차례 반복되는 이 노래는 한 번 들으면 잊히지 않아 일선 학교에서 ‘수능 금지곡’으로 불린다. 노래가 마치 환청처럼 귓가에 자꾸 들리는 현상인 ‘귀벌레 증후군’을 호소하며 병원을 찾는 사례까지 발생하고 있다.&lt;br&gt;&lt;br&gt;용인 백현고 3학년에 재학 중인 문정선(18)양은 “아파트를 들은 뒤 노랫말이 자꾸 떠올라 학교 수업 시간 내내 흥얼거리고 있다”며 “수능 영어 듣기평가에 지장이 생길까 걱정된다”고 말했다. 수험생을 둔 학부모 A씨는 “자녀가 고3인데 몇 주째 노래가 계속 떠올라 힘들어한다”며 “어쩔 수 없이 정신과에서 신경 안정제를 처방받았다”고 했다.&lt;br&gt;&lt;br&gt;실제로 귀벌레 증후군이 수험생들에게 영향을 줄 수 있다는 학계의 지적도 있다. 제임스 켈라리스 미국 신시내티대 교수는 전 세계 인구의 98%가 귀벌레 현상을 경험한 것으로 조사됐다는 연구 결과를 내놨다. 귀벌레 증후군이 수면 장애를 심화시킨다는 연구 결과도 있다. 유튜브에는 중독성 강한 멜로디를 잊을 수 있게 도와주는 ‘귀벌레 지우개’ 영상까지 등장했다.&lt;br&gt;&lt;br&gt;과거에도 이런 중독성 있는 노래들이 ‘수능 금지곡’으로 불리곤 했다. 이정현 ‘바꿔’(1999), 원더걸스 ‘텔미’(2007) SS501 ‘유알맨’(2008) 샤이니 ‘링딩동’(2009) 등 아이돌 노래와 동요 ‘상어가족’(2016), ‘에듀윌’의 광고 CM송 등이 대표적이다. 1993년엔 김건모의 ‘어떤 기다림’의 ‘하얗게 지우려 했지만’ 가사가 ‘아파트’ 못지않은 중독성을 보여줬다.&lt;br&gt;&lt;br&gt;김건모의 ‘어떤 기다림’(1993)이 94년도 수능 금지곡으로 꼽혔었다. 가요계 관계자는 “귀에 쏙 들어오는 가사를 반복해 중독성 강한 훅(귀에 걸리는 구절)을 완성하는 작사·작곡 전략을 구사하곤 한다”고 했다. ‘썬연료’ ‘여명808′ ‘앞뒤가 똑 같은 전화번호 대리 운전’ 등도 같은 원리로 제작됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>불났을 땐… 이렇게 하면 되겠죠?</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/29/IQF26A3S3FACRFZYBWTAMKZIJ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/29/IQF26A3S3FACRFZYBWTAMKZIJ4/</guid>
-      <description/>
-      <pubDate>Mon, 28 Oct 2024 15:58:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SWKMXJ4YUFCR7EHTHVSC2J3LHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 광주광역시 북구직장어린이집 어린이들이 화재 대피 훈련을 하고 있다. 손으로 코와 입을 가린 채 어린이집 밖으로 나오는 모습. 불이 난 상황을 가정해 노란색 연기를 피웠다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“테슬라 뺨치는 투자”… 함평 ‘황금박쥐상’ 몸값 10배 상승 눈앞</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/29/RMHAFBWBQBAFXMBXKS24IZ3VDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/29/RMHAFBWBQBAFXMBXKS24IZ3VDY/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 28 Oct 2024 15:54:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QYNINNXOHVPJDNJO5A327AYAU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;황금박쥐상. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 함평의 대표 상징물 황금박쥐상이 금값 상승으로 몸값이 230억원에 달하면서 약 10배 수익을 눈앞에 두고 있다.&lt;br&gt;&lt;br&gt;28일 한국표준금거래소에 따르면 지난 26일 구매 기준으로 순금은 1g당 13만9733원, 은은 1741원에 거래됐다. 1년전 금 구매가 9만7866원보다 42%, 은 구매가 1141원보다 53%가 오른 가격이다.&lt;br&gt;&lt;br&gt;이로 인해 2008년 제작한 전남 함평의 황금박쥐상의 가격도 약 230억원으로 훌쩍 뛴 것으로 평가된다. “테슬라 뺨치는 투자”라는 우스갯소리가 나오는 이유다. &lt;br&gt;&lt;br&gt;높이 2.18m, 폭 1.5m 규모의 황금박쥐상은 천연기념물이자 멸종위기 1급인 황금박쥐 162마리가 1999년 함평에서 발견된 것을 기념해 2005년 제작에 착수, 2008년 완성됐다. 제작 당시 순금 162㎏과 은 281㎏ 등 금값 27억원이 들어가 처음엔 ‘혈세 낭비’라는 지적이 이어졌으나, 현재 약 10배 수익을 눈앞에 둔 상황에서 되레 테슬라에 비견되는 성공한 투자라는 반응이 나오는 것이다. &lt;br&gt;&lt;br&gt;이외에도 황금박쥐상을 만들고 남은 금 19.31㎏, 은 8.94㎏, 보석 0.19㎏ 등을 6600만원을 들여 2010년에 만든 오복포란의 몸값도 26억9824만원으로 동반 상승했다.&lt;br&gt;&lt;br&gt;금값 상승으로 황금박쥐상이 2019년 절도 대상이 되면서, 시민들에게 전시 기간에만 간헐적으로 공개되는 해프닝이 벌어지기도 했다. 다만 함평군은 지난 4월 함평나비대축제에 맞춰 다시 황금박쥐상을 365일 공개하기로 했다. 지난 25일까지 황금박쥐상이 전시된 함평추억공작소를 찾은 방문객들은 1만9890명이다. &lt;br&gt;&lt;br&gt;이상익 함평군수는 “함평군의 관광 효자상품인 황금박쥐상을 상시 공개할 수 있어 기쁘다”면서 “다채로운 문화관광 콘텐츠로 많은 관광객들이 찾을 수 있게 하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2489] 제목 외우기</title>
-      <link>https://www.chosun.com/national/nie/2024/10/29/GTPIFX4FIJDAPPXNAOXNA6WEGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/10/29/GTPIFX4FIJDAPPXNAOXNA6WEGQ/</guid>
-      <description/>
-      <pubDate>Mon, 28 Oct 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QTVA24UGPBAC7D2QOWPA7DBL54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] make bank</title>
-      <link>https://www.chosun.com/national/nie/english/2024/10/29/Q5D4YRSJ4ZDUTEK7NTH2EPLDAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/10/29/Q5D4YRSJ4ZDUTEK7NTH2EPLDAM/</guid>
-      <description/>
-      <pubDate>Mon, 28 Oct 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S3TBVQDNWBCWVIN4H3JQ5KQD24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 헬스클럽에 다니기 시작하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/10/29/PSLWFKUQVZHPLIEAMYLBWQPPNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/10/29/PSLWFKUQVZHPLIEAMYLBWQPPNY/</guid>
-      <description/>
-      <pubDate>Mon, 28 Oct 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FDFKYKSDMNGTTFMUSS3MKZ5DT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 투척(投擲)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/10/29/ABF74B6265FOXBGUTUWMAQULC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/10/29/ABF74B6265FOXBGUTUWMAQULC4/</guid>
-      <description/>
-      <pubDate>Mon, 28 Oct 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KUCM4ZSH7ZGORMVTYGCJ6JMOUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 몰입형</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/10/29/E4IMFYGF7JG3VG4ICYBW7HYYBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/10/29/E4IMFYGF7JG3VG4ICYBW7HYYBQ/</guid>
-      <description/>
-      <pubDate>Mon, 28 Oct 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SDT7ARPA7ZAPBNAIXJQE7P7L7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>배우 신구·강부자 ‘은관문화훈장’</title>
-      <link>https://www.chosun.com/national/people/2024/10/29/GPUOVTK7E5D7LMTTDXI56GEK5I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/29/GPUOVTK7E5D7LMTTDXI56GEK5I/</guid>
-      <dc:creator>허윤희 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 28 Oct 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RDNFSVSBS5GDNAEIZX7WIOF4AQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 신구·강부자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 신구와 강부자가 은관문화훈장을 받는다. 문화체육관광부는 31일 열리는 ‘2024 대한민국 대중문화예술상’ 시상식에서 모두 31명(팀)이 훈장과 표창을 받는다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;신구는 1962년 연극 ‘소’로 데뷔해 60년 넘도록 영화, 드라마, 연극을 넘나들며 다채로운 자신만의 캐릭터를 만들어 ‘연기 장인’이라는 타이틀을 얻었다. 강부자는 1962년 데뷔해 연극 ‘친정엄마와 2박3일’, 드라마 ‘목욕탕집 남자들’ 등 많은 작품에 출연해 대중에게 감동을 선사한 점을 높이 평가받았다.&lt;br&gt;&lt;br&gt;보관문화훈장은 가수, DJ, 배우 등으로 고루 활약하는 김창완, ‘유머 1번지’ ‘불후의 명곡’ 등을 집필한 방송작가 임기홍이 받는다. 옥관문화훈장은 가수 이문세와 배우 최수종에게 돌아갔다. 대통령 표창은 블루스 기타리스트 김목경, 배우 염혜란·조정석, 뮤지컬 배우 홍광호, 영화감독 김한민, 성우 김도현, 녹음예술가 이태경이 선정됐다.&lt;br&gt;&lt;br&gt;국무총리 표창은 배우 천우희·이제훈, 뮤지컬 배우 최재림, 가수 장기하, 성우 김영진, 영화감독 장재현, 음악감독 김성수, 작곡·작사가 켄지가 받는다. 문체부 장관 표창은 배우 안은진·차은우·고민시, 가수 잔나비·데이식스·실리카겔, 희극인 윤성호, 모델 정호연, 드라마 감독 윤종호, 공연 제작자 장현기가 선정됐다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>영산외교인상에 주필리핀 대사관, 조성진은 민간외교 부문 수상</title>
-      <link>https://www.chosun.com/national/people/2024/10/29/J5IE72EIDRFATKDJSAEFGGKLLY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/29/J5IE72EIDRFATKDJSAEFGGKLLY/</guid>
-      <dc:creator>박국희 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 28 Oct 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C25R5R63KVG4FFJG7BPM3PRBEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 영산외교인상 시상식에서 수상자들이 기념 촬영을 하고 있다. 왼쪽부터 이상화 주필리핀 대사, 류진 서울국제포럼 이사장, 이홍구 명예이사장, 피아니스트 조성진씨, 김옥채 주요코하마 총영사. /서울국제포럼&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주필리핀 대사관(대사 이상화)이 28일 올해 영산외교인상 공공외교 부문 공동 수상자로 선정됐다. 영산외교인상은 국익과 국가 위상 제고를 위해 활약한 정부 및 민간 부문 외교인들의 업적을 기리기 위해 서울국제포럼이 2008년 제정했다.&lt;br&gt;&lt;br&gt;서울국제포럼은 이날 시상식에서 “필리핀은 전 세계에서 우리 국민 관련 사고가 최다로 발생하는 국가”라며 “주필리핀 대사관은 필리핀 사법 당국과 긴밀한 유대 관계로 사건 사고 처리뿐 아니라 85명의 국외도피사범도 송환시켰다”고 선정 이유를 밝혔다.&lt;br&gt;&lt;br&gt;1993년부터 주일 공관에만 근무해 온 김옥채 주요코하마 총영사가 공공외교 부문 공동 수상을 했고, 세계적 피아니스트 조성진씨가 민간외교 부문 수상자로 선정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이주열 국립극단 초대 후원회장</title>
-      <link>https://www.chosun.com/national/people/2024/10/29/Q7TWXHTINJD4TFBI2WHGKL22OE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/29/Q7TWXHTINJD4TFBI2WHGKL22OE/</guid>
-      <description/>
-      <pubDate>Mon, 28 Oct 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LZEDYDD6FFGWRIDWDPOZZEIBYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이주열(72) 전 한국은행 총재가 국립극단 후원회 초대 회장으로 취임했다. 국립극단은 창단 74년 만에 처음으로 후원회를 발족시켰다. 이 회장은 “대한민국 연극예술의 수준을 높이고, 그 과실을 국민 누구나 향유할 수 있도록 기반을 마련하는 데 밑거름이 되고자 후원회를 결성하게 됐다”고 밝혔다. 후원회 기금은 창작극 개발 지원, 해외 교류작·지역 공연 확대, 장애 관객 등을 위한 공연 지원, 공연 시설 확충·개선 등에 사용된다. 후원회비를 납부하면 국립극단 후원회에 가입할 수 있으며, 회원에게는 국립극단 제작 공연 초청권과 티켓 가격 할인 등의 혜택이 제공된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 사단법인 내나라연구소 콘퍼런스 개최</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/10/29/N5DNTUOKJRBOLEFMVIH7NT5KAE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/10/29/N5DNTUOKJRBOLEFMVIH7NT5KAE/</guid>
-      <description/>
-      <pubDate>Mon, 28 Oct 2024 15:34:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;사단법인 내나라연구소&lt;/b&gt;(이사장 김영래 전 동덕여대 총장)는 연구소 창립 30주년을 기념하여 30일 오후 1시 30분 서울 서초동 ROTC중앙회관 명예의전당에서 통일과나눔 재단(이사장 이영선 전 한림대 총장)의 후원으로 ‘남북한 분단 80주년과 한반도 통일 비전’을 주제로 콘퍼런스를 개최한다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[부음] 원유숙씨 별세 외</title>
       <link>https://www.chosun.com/national/obituary-personnel/2024/10/29/F7Q7R5DGJBFCFJ3UF7PBSA2RKI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/10/29/F7Q7R5DGJBFCFJ3UF7PBSA2RKI/</guid>
@@ -880,15 +916,6 @@
       <description/>
       <pubDate>Mon, 28 Oct 2024 15:34:00 +0000</pubDate>
       <content:encoded>▲&lt;b&gt;원유숙 &lt;/b&gt;별세, &lt;b&gt;노태호&lt;/b&gt; 前 가톨릭대 순환기내과 교수·&lt;b&gt;노건호 &lt;/b&gt;모친상=28일5시 서울성모병원, 발인 30일7시, (02)2258-5940&lt;br&gt;&lt;br&gt;▲&lt;b&gt;양춘화 &lt;/b&gt;별세, &lt;b&gt;이상춘 &lt;/b&gt;포스코퓨처엠 커뮤니케이션실장 장모상=28일13시43분 경북 경주동산병원, 발인30일8시30분, (054)774-0288&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이판례 &lt;/b&gt;별세, &lt;b&gt;김신&lt;/b&gt;·&lt;b&gt;김명신&lt;/b&gt;·&lt;b&gt;김유신&lt;/b&gt; OCI 대표·&lt;b&gt;김윤미 &lt;/b&gt;모친상=28일8시30분 인천 가천대길병원, 발인 30일5시30분, (032)460-3444&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 기획재정부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/10/29/HS4BKCV2QJCUJMSMNR6DLUJ3GE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/10/29/HS4BKCV2QJCUJMSMNR6DLUJ3GE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 28 Oct 2024 15:34:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;기획재정부&lt;/b&gt;◇과장급 인사▷노동시장경제과장 장주성&lt;br&gt;&lt;br&gt;▲&lt;b&gt;외교부&lt;/b&gt;▷주인도 대사 이성호▷주프랑스 대사 문승현&lt;br&gt;&lt;br&gt;▲&lt;b&gt;행정안전부&lt;/b&gt;◇과장급 전보▷미래전략담당관 김성일▷지방재정보조금정보과장 김혜영&lt;br&gt;&lt;br&gt;▲&lt;b&gt;고용노동부&lt;/b&gt;◇국장급 전보▷근로기준정책관 최관병&lt;br&gt;&lt;br&gt;▲&lt;b&gt;특허청&lt;/b&gt;◇일반직고위공무원 가급▷특허심판원장 서을수&lt;br&gt;&lt;br&gt;▲&lt;b&gt;소방청&lt;/b&gt;◇소방감 승진▷경상북도 소방본부장 박성열◇소방감 전보▷소방청 119대응국장 박근오&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한국은행&lt;/b&gt;▷감사 김언성&lt;br&gt;&lt;br&gt;▲&lt;b&gt;고려대&lt;/b&gt;▷체육위원회위원장 조훈희▷경제기술안보연구원장 김성한&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2024년 10월 29일</title>
@@ -927,15 +954,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/R6XTMP6FXVAFDKPQIAHR6BFZHY.jpg?width=5456&amp;height=3894&amp;auth=32a188a9f8ea841928686789b573a9fe665eb91de73d7db65a704cd3561c6de4&amp;smart=true" type="image/jpeg" height="3894" width="5456">
         <media:description type="plain">제네시스 챔피언십에서 우승한 안병훈이 할머니 송영희씨, 아버지 안재형, 어머니 자오즈민과 함께 기념 사진을 촬영하고 있다. /KPGA</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>[단독] 철도 지하화, 재원 부족한 지방에 수도권 부지 이익 나눈다</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/10/28/CWYYJA4SKVHC7HZFVAL7MXHDK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/10/28/CWYYJA4SKVHC7HZFVAL7MXHDK4/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description>국토교통부가 사업성이 부족한 지방의 ‘철도 지하화’ 사업 추진을 위해, 수도권 사업 부지에서 나온 이익을 지방에 투입하는 방안을 추진하는 것으로 28일 확인됐다.</description>
-      <pubDate>Mon, 28 Oct 2024 08:48:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VZVXSAFR5FG57MIFUFUOU7AIYQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김하경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국토교통부가 사업성이 부족한 지방의 철도 지하화 추진을 위해 수도권 지하화 사업 부지에서 나온 이익을 지방에 투입하는 방안을 추진하는 것으로 28일 확인됐다. 이 사업의 핵심인 ‘재원’은 철도를 지하화하는 데 따라 확보되는 상부 부지 개발 이익으로 충당되는데, 지방의 사업성이 다소 부족해도 지하화 필요성이 인정된다면 사업 대상으로 선정하겠다는 뜻이다. 국토부는 지난 25일까지 1차 제안서를 접수한 결과 서울과 부산, 인천, 대전, 경기 등 5곳에서 사업을 제안했다고 이날 밝혔다.&lt;br&gt;&lt;br&gt;국토부가 지방 지원 방침을 추진하는 건 지자체들이 철도 지하화 필요성엔 공감하면서도 실제 추진에 어려움을 겪고 있기 때문이다. 창원~마산역 구간 지하화를 계획하는 경남, 서대구~사월동과 광주역~광주송정역 등 지하화를 추진하는 대구, 광주 등은 1차 제안에선 빠졌다.&lt;br&gt;&lt;br&gt;철도 지하화 사업은 정부가 소유한 철도 부지를 공공기관(시행자)에 출자하고, 이들이 이 부지를 담보로 채권을 발행해 사업을 진행하게 된다. 시행자가 출자받은 부지를 매각하거나 복합 개발해 비용을 충당하는데, 사업성이 낮아 이익 환수가 제대로 안 되면 빚을 그대로 떠안아야 하는 구조다.&lt;br&gt;&lt;br&gt;국토부도 지자체 등에서 이런 우려가 나온다는 것을 고려해 지방 지원 방안을 추진하는 것이다. 국토부 관계자는 “철도 지하화는 사업성뿐 아니라 공공성도 감안돼야 한다”고 했다. 국유지를 출자해 진행하는 사업인 데다, 지역 주민 삶의 질과도 연계된 만큼 사업성만 고려할 순 없다는 것이다. 철도 지하화가 이뤄질 경우 소음이나 먼지 감소 뿐 아니라 지역 개발, 일부 공원화 등으로 일대가 혜택을 누리게 된다.&lt;br&gt;&lt;br&gt;다만, 이 같은 방식이 수도권 주민들의 불만을 불러올 수 있다는 지적도 나온다. 국유지 개발의 한 방식이긴 하지만 수도권 사업성을 떨어뜨리는 측면도 있기 때문이다. 수도권 지역에서 어느 정도 이익이 나올 수 있을지 의문이란 목소리도 있다. 최근 공사비 증가로 대규모 예산이 투입되는 각종 건설 공사도 제대로 진행되지 못하는 데다, 지상 개발 과정에 부지 보상 등 다양한 문제가 불거질 수 있다는 것이다. 국토부는 오는 12월 선도 사업 대상을 선정하고, 내년 5월까지 2차 사업 제안을 받은 후 내년 하반기 대상 노선을 최종 발표한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>인권위, “퀴어축제 관련 대관 신청 거부한 서울시 기관, 불합리한 차별”</title>
