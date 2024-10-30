@@ -13,6 +13,100 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“성폭력 무고 부추겼다” 허웅, 前연인 변호사 고소</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/30/VKODXBFVEFGWBCQA4DJLTXJMEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/30/VKODXBFVEFGWBCQA4DJLTXJMEI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Oct 2024 14:02:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S7E7QAT633ZGL3S36CVFVT5THY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;프로농구 선수 허웅. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 연인 성폭행 혐의로 입건됐다가 무혐의 처분을 받은 프로농구 선수 허웅(31·KCC)이 전 연인 측 변호사를 무고 교사 혐의로 고소했다.&lt;br&gt;&lt;br&gt;30일 허웅의 법률 대리를 맡고 있는 법무법인 부유 부지석 변호사는 허웅의 전 연인 A씨 측 B 변호사를 무고 교사·정보통신망법상 명예훼손 혐의로 서울 강남경찰서에 고소했다고 밝혔다.&lt;br&gt;&lt;br&gt;허웅 측은 B 변호사가 허웅이 A씨에 대해 성폭력을 행사하지 않은 사실을 알면서도 ‘일관성·신빙성만 있도록 진술하면 강간죄가 인정된다’는 취지로 A씨를 설득해 허웅을 고소하도록 했다고 주장했다.&lt;br&gt;&lt;br&gt;또 B 변호사가 A씨에게 우호적인 여론을 조성하기 위해 허웅의 명예가 훼손되는 기사가 보도되도록 한 혐의도 있다고 주장했다. 허웅 측은 해당 기사를 작성·보도한 기자도 명예훼손 혐의로 함께 고소했다.&lt;br&gt;&lt;br&gt;허웅 측은 지난 6월 A씨를 공갈미수, 협박, 스토킹범죄의 처벌 등에 관한 법률 위반 등으로 고소했다. A씨가 허웅과 교제하는 기간 두 번의 임신을 한 것을 빌미로 3억원을 요구했다는 주장이다. A씨는 허웅을 준강간상해 혐의로 맞고소했으나 해당 사건은 증거 불충분으로 불송치 결정됐다.&lt;br&gt;&lt;br&gt;A씨 사건은 지난 8월 기소 의견으로 검찰에 넘겨졌으며, 허웅은 A씨를 무고 혐의로 재차 고소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘남산 곤돌라’ 공사 일단 중단… 법원, 경쟁사 의견 받아들여</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/30/AU4TRIRYIZGW7J2F43HBJ4KFJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/30/AU4TRIRYIZGW7J2F43HBJ4KFJ4/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Oct 2024 13:01:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C7E2CAW7PFHY3B2XEICTG6YA6E.png"&gt;&lt;figcaption&gt;&lt;small&gt;오는 2026년 봄 운행이 예정된 남산 곤돌라의 예상도. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 남산에 운행하려는 ‘남산곤돌라’ 공사가 중단됐다. 남산곤돌라의 ‘경쟁사’가 될 남산케이블카가 낸 집행정지 신청을 법원이 받아들였기 때문이다. 서울시는 즉시 항고하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;서울행정법원 행정3부(재판장 최수진)는 30일 남산케이블카를 운영하는 한국삭도공업, 환경단체 등이 “곤돌라 공사를 중단하라”며 서울시를 상대로 낸 도시관리계획 결정 처분 집행정지 신청을 인용했다.&lt;br&gt;&lt;br&gt;재판부는 “신청인의 회복하기 어려운 손해를 예방하기 위한 긴급한 필요가 인정된다”며 이들의 집행정지 신청을 받아들였다. 집행정지 신청을 인용하더라도 “공공복리에 중대한 영향을 미칠 우려가 있다고 보기는 어렵다”고 했다.&lt;br&gt;&lt;br&gt;이에 따라 2026년 봄부터 곤돌라를 운행하려던 서울시 계획도 차질을 빚게 됐다. 최종 소송 결과가 나올 때까지 1년 가까이 공사가 지연될 것으로 보인다. 서울시는 “공사 지연과 시민 불편을 최소화하기 위해 바로 항고할 계획”이라고 밝혔다. 서울시 관계자는 “법원이 독점 업체의 사익을 보호하기 위해 공공사업을 중단시키는 결정을 내렸다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OHBX2EW6WNF4DPSGFNDVIAPZWU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;남산곤돌라는 지하철 4호선 명동역 인근에 있는 남산예장공원과 남산 정상을 연결한다. 최대 10명이 탈 수 있는 캐빈 25대를 운행할 예정이다. 832m 구간을 5분 만에 올라갈 수 있다. 서울시는 지난달 5일 착공식을 열고 공사에 들어갔다. 사업비는 총 400억원이다.&lt;br&gt;&lt;br&gt;한국삭도공업은 1962년 이후 남산 중턱과 정상을 오가는 남산케이블카를 운영하고 있다. 그러나 특정 기업이 62년간 케이블카를 독점 운영하는 것은 문제라는 지적이 수시로 제기됐다. 관광객, 장애인 등의 불편도 가중되고 있다. 관광객이 몰려 케이블카를 타려면 1시간 이상 기다려야 한다.&lt;br&gt;&lt;br&gt;이에 서울시는 작년 6월 곤돌라 건설 계획을 발표했다. 요금을 남산케이블카보다 5000원가량 싸게 정하고 관광버스 전용 주차장도 만든다는 것이다.&lt;br&gt;&lt;br&gt;이후 한국삭도공업 측은 서울시에 남산곤돌라도 운영하게 해달라고 제안한 것으로 알려졌다. 그러나 서울시는 “사기업이 케이블카에 이어 곤돌라까지 독점 운영하게 할 수는 없다”며 직접 사업을 추진하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김범수 “SM 가져오라” 지시 두고 檢 VS 카카오 법정 공방</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/30/F2JXHKFRIRGUPEJ3XUA5MJ5FBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/30/F2JXHKFRIRGUPEJ3XUA5MJ5FBA/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Oct 2024 12:01:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RJIMQ7ECBQSPHVGD3PYH6U2VLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;SM엔터테인먼트 시세조종 의혹을 받는 김범수 카카오 경영쇄신위원장이 지난 7월 22일 오후 서울 양천구 서울남부지방법원에서 구속 전 피의자심문(영장실질심사)을 마치고 이동하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SM엔터테인먼트 시세 조종 혐의를 받는 카카오 창업주 김범수 경영쇄신위원장이 세 번째 재판에서도 혐의를 부인했다. 지난 10일 김 위원장이 신청한 보석(保釋) 여부는 언급되지 않았다.&lt;br&gt;&lt;br&gt;30일 오후 2시 서울남부지법 형사합의15부(재판장 양환승)는 지난해 2월 SM엔터 인수 과정에서 경쟁 상대인 하이브의 공개 매수를 방해하기 위해 SM엔터 주가를 하이브의 공개매수가(12만원)보다 높게 고정시키려고 시세를 조종한 혐의(자본시장법 위반)로 기소된 김 위원장에 대한 재판을 열었다. 김 위원장은 넥타이를 착용하지 않은 정장 차림으로 재판에 출석했다.&lt;br&gt;&lt;br&gt;이날 재판에서 검찰 측은 지난해 2월 15일 열린 투자심의위원회 이후 이뤄진 배재현 전 카카오 투자총괄대표와 강호중 카카오 투자전략실장과의 통화 녹취록을 증거로 제시하며 “김 위원장은 배 전 대표에게 ‘SM엔터를 평화적으로 가져오라’고 지시했고, 이에 배 전 대표가 ‘골치 아프다’는 반응을 보였다”고 했다. 검찰은 “‘평화적으로 가져오라’는 의미는 대외적으로 카카오와 하이브가 SM엔터를 두고 다투는 것처럼 보이지 않게 하라는 것”이라며 “배 전 대표가 기존에 보고했던 대항공개매수와 양립할 수 없는 지시가 떨어지자 카카오의 존재를 드러내지 않는 방식으로 하이브의 공개매수를 저지한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 카카오 투자전략실 직원들의 카카오톡 대화 내역, 카카오 관계자들의 통화 녹취 등을 증거로 제시하며 김 위원장이 하이브 공개매수 저지 방안을 보고 받았다고 설명했다.&lt;br&gt;&lt;br&gt;이에 김 위원장 변호인 측은 혐의를 부인하며 “투자 테이블에서 공개 매수를 저지하려는 목적으로 장내매수를 하겠다는 논의는 없었다”고 했다. 그러면서 “지난해 2월 28일 열린 투자테이블에서도 장내 매수가 합법적이라는 인식을 공유한 상황에서 안건에 반대하지 않은 것”이라고 했다. 또 “주가가 12만원에서 12만1000원으로 급격히 상승하는 구간에는 카카오의 주문 자체가 없다”며 “지분 경쟁 상황에서는 공개매수 종료 이후 주가가 크게 상승하는 게 특이한 일이 아니다”라고 덧붙였다.&lt;br&gt;&lt;br&gt;이날 재판에서 김 위원장의 보석 여부가 결정되는 게 아니냐는 예측이 있었지만 재판부는 이에 대해 언급하지 않았다. 김 위원장은 지난 8월 8일 재판에 넘겨진 후 구속 기간이 한 차례 연장돼 오는 12월 7일까지 구속이 예정돼 있었다. 1심 구속기간은 공소장이 접수된 날을 기준으로 2개월이며, 필요에 따라 2개월씩 2회 연장할 수 있다. 지난 10일 보석을 신청한 김 위원장 측은 지난 16일 열린 보석 심문에서 “공개수사가 진행된 지 1년 6개월 이상 지났고 관련 사건에 대한 재판도 1년 가까이 진행됐는데 증거인멸 염려가 있다는 점은 납득하기 어렵다”며 “구속 상태가 길어지면 한국 IT산업 전체가 타격을 받을 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>홈쇼핑서 우수수 떨어지던 ‘발 각질’, 알고보니 밥풀이었다</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/30/XFQKE7JXCRATJFXRBXPSKBMTPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/30/XFQKE7JXCRATJFXRBXPSKBMTPY/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Oct 2024 13:04:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ZJHSSYRI5DZXMKP35OXDAUUJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;각질제거제를 다룬 홈쇼핑 방송 장면.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홈쇼핑 업체들이 밥풀과 딱풀 등으로 가짜 발 각질을 연출한 방송을 내보내 각질제거제를 판매하다 법정제재를 받게 됐다.&lt;br&gt;&lt;br&gt;30일 업계에 따르면 방송통신심의위원회는 지난 28일 회의를 열고 각질제거제 판매 방송을 하면서 ‘가짜 각질’을 사용해 시청자를 오인케 할 수 있는 시연 장면을 연출한 홈쇼핑 업체 4곳에 대해 각각 법정제재인 ‘주의’를 의결했다.&lt;br&gt;&lt;br&gt;홈쇼핑 업체들은 방송 당시 각질이 잔뜩 끼어있는 모델의 발을 각질제거제로 깨끗하게 닦아내는 장면을 보여줬는데 실제 각질이 아니라 밥풀과 딱풀 등으로 연출한 것이었다. &lt;br&gt;&lt;br&gt;출연자들은 “방송을 위해서 (각질을) 일주일 남짓 모았다” “각질이 장난이 아니다” “저도 관리한다고 하는데 이 계절이라 그렇다” 등 밥풀로 연출한 각질이 실제 각질인 것처럼 표현하며 제품 효과가 뛰어나다는 점을 강조했다.&lt;br&gt;&lt;br&gt;심의위원들은 ‘이해를 돕기 위한 연출이라면 명백히 밝혔어야 한다’며 중징계가 필요한 정도의 규정 위반이라고 지적했다.&lt;br&gt;&lt;br&gt;의견진술차 출석한 홈쇼핑 업체 관계자들은 “부적절한 연출을 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;한편 방심위 결정은 ‘문제없음’, 행정지도 단계인 ‘의견제시’와 ‘권고’, 법정제재인 ‘주의’ ‘경고’ ‘프로그램 정정·수정·중지나 관계자 징계’ ‘과징금’으로 구분된다. 법정제재부터는 방송사 재허가·재승인 시 감점 사유로 적용돼 중징계로 인식된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, ‘보좌관 성추행’ 혐의 박완주 前 민주당 의원 징역 5년 구형</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/30/OSIZR6J5BZD2XHTUKYVIVKF5KI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/30/OSIZR6J5BZD2XHTUKYVIVKF5KI/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Oct 2024 12:14:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZKXUSFKTXVKTHN6OU6QBX5TQEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;보좌진을 성추행한 혐의 등으로 불구속기소 된 무소속 박완주 의원이 지난해 8월 서울남부지법에서 열린 첫 공판기일에 출석하며 기자의 질문에 답하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보좌관을 성추행한 혐의 등으로 재판에 넘겨진 박완주 전 더불어민주당 의원에 대해 검찰이 징역 5년을 구형했다.&lt;br&gt;&lt;br&gt;서울남부지법 형사합의14부(재판장 장성훈)는 30일 오후 박 전 의원에 대한 결심공판을 열었다. 검찰은 박 전 의원에게 징역 5년형을 구형했다.&lt;br&gt;&lt;br&gt;검찰은 “피고인은 사실상 별정직 공무원의 지위에 있는 취약한 피해자를 국회의원으로서 강제로 추행하였다”며 “그로 인해 피해자는 트라우마에 시달리는 등 극심한 고통을 현재까지 받고 있다”고 했다. 이어 “취약한 (지위의) 피해자에 대해 범행한 점, 인적 신뢰 관계를 이용해 범행한 점, 명예훼손으로 2차 피해가 발생한 점 등을 고려해달라”며 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;이날 박 전 의원은 최후진술에서 “고소인이 주장하는 노래방 강제 성추행은 결단코 없었다”며 “동석했지만 술을 한 잔도 마시지 않은 수행비서의 진술이 고소인 주장과 배치된다는 점을 헤아려달라”며 무죄를 주장했다.&lt;br&gt;&lt;br&gt;피해자 A씨도 직접 발언권을 얻어 “성추행하고 오랫동안 부인하는 것에 그치지 않고 2차 가해까지 서슴지 않는 피고인을 엄벌해달라”고 눈믈로 호소했다.&lt;br&gt;&lt;br&gt;박 전 의원은 지난 2021년 보좌관이었던 A씨를 강제추행하고 이로 인한 외상 후 스트레스 장애 등 상해를 입게 한 혐의(강제추행치상)를 받는다. 박 전 의원은 지난해 4월 자신을 더불어민주당에 신고한 A씨에게 인사상 불이익을 줬으며 지역구 관계자들 앞에서 성추행 사건과 A씨에 대해 알린 혐의도 받는다.&lt;br&gt;&lt;br&gt;박 전 의원의 성추행 의혹이 불거지자 더불어민주당은 지난 2022년 5월 의원총회를 열어 박 전 의원의 제명을 만장일치로 의결한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“러 파병 북한군, 왜소해 전투 능력 낮다? 너무 오만한 접근”</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/30/NQKOVC7P6RAVTDFOC5SDCBMWXU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/30/NQKOVC7P6RAVTDFOC5SDCBMWXU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Oct 2024 12:11:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C4J7CDKFMRFGV6ZXUL7I4XAH7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;우크라이나 당국이 공개한 보급품 받는 북한군 추정 병력. /우크라 전략소통·정보보안센터 텔레그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군사전문가인 양욱 아산정책연구원 연구위원은 러시아에 파병된 북한 병사 대부분이 앳되고 왜소해 전투력이 낮을 것이라는 추측이 나오는 것과 관련 “너무 오만한 접근”이라고 했다.&lt;br&gt;&lt;br&gt;양욱 위원은 30일 YTN에 출연해 “(최근 우크라이나가 공개한) 영상 속 병사들은 폭풍군단 산하 신병일 가능성이 있어 보인다”며 “(북한군) 키가 작다, 체구가 작다 말씀하시는데 저 나이대가 그럴 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;양욱 위원은 “고난의 행군을 거치면서 (북한 청년들이) 전반적으로 발육이 부실한 상태이기 때문에 발육상태만 갖고 능력이 안 된다, 정예가 아니다, 이렇게 평가하는 것은 너무 오만한 접근”이라며 신체 조건과 전투력이 반드시 비례하는 건 아니라고 했다.&lt;br&gt;&lt;br&gt;우크라이나를 지원하는 국제단체가 이미 북한군이 실전에 투입됐다가 다수 전사했다고 주장한 것에 대해서는 “나오는 주장들 하나하나에 대해서 다 확인하기는 쉽지 않다”면서도 “전반적으로 흐름들. 목격 정보나 이런 것들을 봤을 때는 사망설은 어느 정도 신빙성은 있다. 다만 정확한 인원, 장소 이런 부분들이 명시되지 않았기 때문에 그런 부분은 아쉽다”고 했다.&lt;br&gt;&lt;br&gt;북한이 러시아에 파병된 군인들의 가족을 격리시키고 있다는 국정원 보고에 대해서는 “가족들을 격리하는 것은 단순히 정보 유출을 막는 것이 아니다. 저 가족들은 인질이라고 봐야 한다”며 “현지에서 탈영이라든가 이런 것들이 발생할 수 있다. 정보 통제와 함께 병사들의 탈영을 막기 위한 목적도 충분히 있다”고 분석했다.&lt;br&gt;&lt;br&gt;양욱 위원은 “(북한이 파병을 한 것은)김정은이 굉장히 모험을 건 것”이라며 “(북한은) 고난의 행군 이후에 아이들 하나, 둘 낳아서 잘 키우자는 분위기가 됐다. 만약에 전사자가 나오면 내부 반발이 커질 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;북한이 핵실험이나 ICBM 발사를 준비하는 정황이 포착된 것에 대해서는 “북한 입장에서는 이제 더 이상 거칠 것이 없는 거다. 러시아가 북한에 엄청난 빚을 지게 됐다”며 “북러 관계는 과거에 우리가 봤던 관계와는 완전히 다른 차원으로 바뀐 거다. 핵기술 전달이 어렵다라고 제가 예전에 예측했는데 지금은 뒤집고 싶다. 러시아는 북한에게 줄 수 있는 것은 거의 다 줘야 하는 그런 상황이 된 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이창용 한은 총재 “전 세계 경제 다 안 좋은데 우리만 좋을 수 있겠나”</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/30/QJSRV2FK6VCS3FSKJ4RDPSIERU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/30/QJSRV2FK6VCS3FSKJ4RDPSIERU/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Oct 2024 11:43:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FYAQ54OBU5J7LNQNPGNPVN24JE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이창용 한국은행 총재가 30일 서울 마포구 서강대학교 성이냐시오관 소강당에서 특별 강연을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“전 세계 경제가 다 안 좋은데 우리만 좋을 수 있겠나요”&lt;br&gt;&lt;br&gt;이창용 한국은행 총재는 30일 오후 서강대학교에서 열린 특별강연에서 이같이 말했다. ‘글로벌 시대 세상을 이끄는 사람들’이라는 주제로 마련된 이날 강연에서 이 총재는 국제적 시각의 필요성을 언급하며 한국의 성장률을 언급했다.&lt;br&gt;&lt;br&gt;이 총재는 “전 세계가 4~5% 성장할 정도로 다 좋은데 우리만 잠재성장률이 2%면 낮다고 볼 수 있겠지만, 전 세계가 0% 성장할 때 우리가 2%면 높은 것처럼 다른 나라와 비교하면서 정책을 펼쳐야 한다고 본다”며 “전 세계 경제가 안 좋은데 한국만 좋다고 할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 이 총재는 “경제 상황이 어떻든 어려운 상황은 늘 있기 마련이다”라고 했다. 그는 “(청년들이) 헬조선이라는 말을 하는데 객관적으로 헬조선은 아니라고 생각하고, 한국이 구조적으로 문제가 있는 나라도 아니다”라고도 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ADIYIADCEVNRTHOLMXO277EJPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이창용 한국은행 총재가 30일 서울 마포구 서강대학교 성이냐시오관 소강당에서 특별 강연을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 총재는 강연에 참석한 학생들에게 “청년 시기에는 나를 대체할 사람이 많기 때문에 어려운 것”이라며 “경제학에서는 독점을 나쁜 것이라고 가르치지만, 개인의 입장에선 자신에 대한 수요가 독점적일 수 있도록 만드는 것이 중요하다”고 당부했다.&lt;br&gt;&lt;br&gt;이어 “옛날에는 하나의 직업을 갖고 열심히 일해 은퇴했는데, 지금은 직장을 하나만 가져서는 안 되기 때문에 2~3개를 가져야 한다”며 “자기가 좋아하는 걸 선택하기 위해 싫어하는 것을 제외하는 것도 한 가지 방법”이라고 조언하기도 했다.&lt;br&gt;&lt;br&gt;중산층 복원 방안에 대해 물은 질문에는 의식주 물가가 비싸다고 언급하면서 “그런 면에서 집값 잡는 것이 굉장히 중요하다고 생각해서 통화 정책에 고려하고 있다”고 했다.&lt;br&gt;&lt;br&gt;덧붙여 “최근 (가수) 로제의 (노래) ‘아파트’가 뜨는데 아파트 값이 오를까 고민하고 있다”는 농담을 건네기도 했다.&lt;br&gt;&lt;br&gt;이날 이 총재는 저출산 문제의 원인으로 수도권 과밀화를 지목하며, 이에 대한 해결책으로 각 대학이 지역별 고등학생의 수에 비례해 신입생을 선발하는 방안을 제안했다.&lt;br&gt;&lt;br&gt;이 총재는 “성적순으로 뽑지 않으면 공정하지 않다거나 역차별이라고 하는데 사실은 우리나라의 상황이 이상한 것”이라며 “84%에 달하는 지방학생들에 비례해 대학들이 지방 출신 신입생을 선발하면 수도권 집중을 바꿀 수 있는 단초가 될 수 있다”고 지적했다.&lt;br&gt;&lt;br&gt;이날 저녁 약 90분간 진행된 강연에는 서강대학교 학생 등 750여명이 참석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“누구도 적으로 만들지 마라” 삼성전자 前 사장이 말하는 처세 십계</title>
+      <link>https://www.chosun.com/national/people/2024/10/30/557IHCMYNRFFXD5NWSO2CZD3LM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/30/557IHCMYNRFFXD5NWSO2CZD3LM/</guid>
+      <dc:creator>장윤 기자, 안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Oct 2024 10:51:36 +0000</pubDate>
+      <content:encoded>“조직 생활 10년은 해야 일을 배울 수 있습니다. 젊을수록 한 직장에서 오래 배워야 합니다.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J3MARMCEIJBCNE4G7REH7I7I6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고동진 국민의힘 의원이 지난 29일 오후 한양대 백남학술정보관에서 ‘청년의 미래와 일의 의미’를 주제로 강연하고 있다. /고동진 의원실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고동진 국민의힘 의원이 지난 29일 오후 한양대 백남학술정보관에서 ‘청년의 미래와 일의 의미’를 주제로 강연했다. 삼성전자 사장을 역임한 고 의원은 한양대 공과대학 대학원생들을 대상으로 반도체와 인공지능에 대해 강의하는 동시에 직장에서의 처세술을 소개했다.&lt;br&gt;&lt;br&gt;고 의원은 삼성전자에서 IM부문장 겸 사장을 지내며 삼성 갤럭시의 개발을 주도했고, 이후 국민의힘에 영입되어 제22대 국회의원에 당선됐다. 고 의원은 지난 8월부터 국민의힘 인재영입위원장으로 활동하고 있다.&lt;br&gt;&lt;br&gt;고 의원은 학생들에게 “조직의 그 누구도 적으로 만들지 말라”며 “조직 생활을 못하면 일을 배울 수가 없다”고 강조했다. 고 의원은 “자기가 맡은 일을 충실히 하는 동시에 남의 일도 눈여겨봐야 한다”며 “언제든 다른 일에 투입될 수 있도록 스스로를 준비시켜야 한다”고 말했다. 고 의원은 “주말에도 마냥 쉬어서는 안 된다”며 “주말에 일을 생각한 사람과 그렇지 않은 사람은 월요일 회의 때 모습이 다르다”고 했다.&lt;br&gt;&lt;br&gt;집안이 가난했다는 고 의원은 “가족들이 쌀과 연탄을 살 수 있는 내 월급은 삶 자체였다”며 삼성전자 신입사원 연수 때부터 사장이 되겠다고 결심했다고 한다. 고 의원은 “인생은 나와 세상의 상호작용이며, 매개체는 일”이라고 말했다. 고 의원은 “일은 노역이 아니라 자신을 세상에 반영하고 세상과 가치를 교환하는 숭고한 행위”라고 강조했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XTWA542HGHC3WH4JGNISVF4QFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2021년 경기 수원시 수원컨벤션센터에서 개최된 ‘삼성전자 제52기 정기 주주총회’에서 IM부문장 고동진 사장(당시)이 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“의대 열풍이라지만 두 자식 모두 엔지니어로 키우고 싶다”는 고 의원은 “엔지니어는 부 뿐 아니라 기술의 최전선에 있다는 명예도 거머쥘 수 있는 직업”이라고 말했다. 고 의원은 학생들에게 “해외에 갈 기회가 있으면 무조건 나가되, 마흔 전에 돌아오라”며 “바깥세상을 보지 않으면 큰 세상을 읽을 수가 없다”고 했다.&lt;br&gt;&lt;br&gt;고 의원은 반도체를 전공하는 학생들에게 “인공지능에 대해서도 계속 관심을 기울이며 기회를 노리라”고 조언했다. 고 의원은 “챗GPT, 알파폴드, 크립토 등의 인공지능 프로그램은 반도체 없이 실현될 수 없다”며 반도체와 인공지능의 연관성을 강조했다. 또 고 의원은 “개발 초기인 인공지능 반도체 분야에서는 메모리 병목 현상이 많이 일어난다”며 “메모리 병목 현상을 타개할 기술을 한국 엔지니어가 개발하길 바라고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/J3MARMCEIJBCNE4G7REH7I7I6A.jpg?width=4000&amp;height=3000&amp;auth=2859697d135fc027bd5132051f020688e57e676032472d3a08c7004294ddb84c&amp;smart=true" type="image/jpeg" height="3000" width="4000"/>
+    </item>
+    <item>
+      <title>탄핵 위기 몰린 임현택 의협 회장의 사과문…“SNS 계정 지우겠다, 쇄신 기회 달라”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/10/30/I3RWZTRZX5DFFI2U2I244L6CPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/30/I3RWZTRZX5DFFI2U2I244L6CPA/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Oct 2024 10:21:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7AMI7APWIBIC7IH7KMCTHRHKXY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;임현택 대한의사협회 회장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연이은 ‘막말’과 고소 취하 대가 1억원 합의금 요구 파문 등 각종 논란 끝에 탄핵 위기에 몰린 임현택 대한의사협회(의협) 회장이 의협 회원들에게 30일 사과 서신을 보냈다. 임 회장은 소셜미디어 계정을 삭제하겠다며 회원들에게 용서를 구했다.&lt;br&gt;&lt;br&gt;의료계에 따르면, 임 회장은 이날 오후 6시쯤 의협 회원들에게 단체 문자 형식으로 ‘대(對)회원 서신’을 보냈다. 임 회장은 “저의 불신임안이 대의원회에 발의돼, 회원 여러분께 큰 심려를 끼쳐드린 것에 대해 매우 송구스럽게 생각한다”며 “머리 숙여 사죄드린다”고 했다. 이어 “이런 일이 벌어진 것은 제 부덕의 소치임을 통감한다”며 “무엇보다도, 엄중한 상황에 제 개인의 부적절하고 경솔한 언행들로 회원들께 누를 끼친 점 백 번 사죄드린다”고 했다.&lt;br&gt;&lt;br&gt;임 회장은 연이은 막말로 논란을 일으켰다. 업무상과실치사 혐의로 기소된 의사에게 유죄를 선고한 판사를 비난하며 “이 여자 제정신입니까”라고 했고, 최근에는 장상윤 대통령실 사회수석을 겨냥해 “정신분열증 환자 같은 개소리”라고 원색적인 비난을 퍼부었다. 임 회장은 “때때로 우리 회원들과 전공의들, 그리고 의대생들이 당하는 피해와 불이익에 대한 분노를 참지 못하고 거친 언행을 했다”며 “변명의 여지가 없는 저의 불찰”이라고 했다.&lt;br&gt;&lt;br&gt;임 회장은 또 자신을 비방한 시도의사회 임원을 고소하고, 취하 대가로 1억원을 요구한 사실까지 알려져 파문을 일으켰다. 임 회장은 “전공의 지원금 관련 허위사실 유포에 대해서도 저의 부적절한 대처로 회원 여러분께 깊은 실망을 드렸다”며 회원 여러분께서 느끼셨을 당황스러움과 부끄러움에 진심으로 엎드려 사죄드린다”고 했다. 그러면서 “이러한 일이 두 번 다시 발생하지 않도록 당장 저의 모든 SNS(소셜미디어) 계정을 삭제하고, 언행도 각별히 유의하겠다”고 했다.&lt;br&gt;&lt;br&gt;임 회장은 “정부의 의대 증원 등 의료농단 정책 강행을 저지하라고 압도적인 지지로 저를 의협 회장으로 뽑아주신 회원님들의 뜻을 단 한 순간도 잊은 적이 없다”며 “회무 운영상의 부족함과 미흡함으로 실망을 안겨드리게 되어 비통하지만, 지난 3월 회원들이 선택해주신 임현택과 지금의 임현택은 여전히 같은 사람”이라고 했다.&lt;br&gt;&lt;br&gt;그는 “전쟁에서 ‘적전분열’은 필패의 원인”이라며 “우리끼리의 갈등과 분열을 누가 가장 반가워하겠느냐. 의협 회장 탄핵은 결과적으로 내부 분열과 혼란만 가중시키고 우리 스스로는 무력화될 것”이라고 했다.&lt;br&gt;&lt;br&gt;임 회장은 “저의 잘못을 가벼이 여기고 회피할 생각은 없다”며 “회원 여러분께서 저에게 부여하신 의협 회장의 임기 동안, 과오를 만회할 수 있도록 허락해주시길 감히 부탁드린다”고 했다. 이어 “이번 불신임안 상정이라는 회초리를 맞으면서, 저와 집행부의 현 주소를 냉정하게 되돌아보고 새롭게 거듭날 수 있도록 쇄신하겠다”며 “저와 42대 집행부가 임무를 끝까지 수행할 수 있도록 기회를 달라”고 했다.&lt;br&gt;&lt;br&gt;앞서 의협 대의원회 운영위원회는 29일 긴급회의를 열고 임 회장 불신임(탄핵) 및 비상대책위원회(비대위) 설치 안건 등을 표결에 부칠 대의원 총회를 다음 달 10일 열기로 했다. 의협 회장 탄핵안은 총회에서 재적 대의원 246명 가운데 3분의 2 이상이 참석하고, 참석 대의원 가운데 3분의 2가 찬성하면 가결된다. 재적 대의원의 3분의 2가 참석할 경우, 110명이 찬성하면 탄핵안이 가결되는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이성 교사 신체 몰래 촬영한 중학생들… 경찰 “피해자 다수 추정”</title>
+      <link>https://www.chosun.com/national/regional/honam/2024/10/30/4XXDN6ERANBVFEQFE2F46M3MHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/10/30/4XXDN6ERANBVFEQFE2F46M3MHY/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Oct 2024 10:59:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중학생들이 수업 도중 이성 교사들의 신체를 몰래 촬영하다가 적발돼 경찰이 조사에 나섰다.&lt;br&gt;&lt;br&gt;전남경찰청은 30일 전남 한 중학교에서 발생한 불법 촬영 성범죄 사건의 사실관계를 확인 중이라고 밝혔다. 해당 학교에서는 제자가 수업 지도 중인 이성 교사의 신체를 휴대전화로 몰래 영상 촬영한 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;교실 바닥에 놓인 휴대전화를 발견한 한 교사가 최초로 사건을 인지했다고 한다. 학교 측은 자체 조사를 벌였다. 그 결과 가해 학생도, 피해 교사도 다수인 정황을 파악하고 경찰에 신고했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “지금까지 가해자로 지목된 학생 가운데 일부는 만 10세 이상 14세 미만인 촉법소년(형사미성년자)으로 확인됐다”고 말했다. 경찰은 피해자 수와 촬영 횟수, 영상 유출 여부 등 정확한 사건 경위를 파악하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/54FTUISTLZDHJELX6W5GW5V5XU.jpg?width=400&amp;height=225&amp;auth=fc3a36afab386257123003bd70ffe12e9bef4a32b9b8d3ca9d63f29c5bf69ab1&amp;smart=true" type="image/jpeg" height="225" width="400">
+        <media:description type="plain">경찰 로고. /조선일보 DB.</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>법원 “시위 중 체포된 전장연 대표에 국가가 1000만원 배상해야”</title>
       <link>https://www.chosun.com/national/court_law/2024/10/30/BAHAJDS6NFDUNLIJRXYUS6DS74/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/30/BAHAJDS6NFDUNLIJRXYUS6DS74/</guid>
@@ -710,96 +804,12 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NVBXMSLETNCYXLDLB2LDBPBQJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[매일매일 중국어 한마디] 말한 대로 행동하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/10/30/ZAA3CKXGXVENDCB4L7KSCBNMRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/10/30/ZAA3CKXGXVENDCB4L7KSCBNMRU/</guid>
-      <description/>
-      <pubDate>Tue, 29 Oct 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S6VPFR4L7NGPDFDSTKDTNI7D3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] swallow one's pride</title>
-      <link>https://www.chosun.com/national/nie/english/2024/10/30/CBI4ZD5WP5DVFAQ2ZBLZEM4YKA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/10/30/CBI4ZD5WP5DVFAQ2ZBLZEM4YKA/</guid>
-      <description/>
-      <pubDate>Tue, 29 Oct 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZWDUVPROM5H2TL5IXE75VEUB4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2490] 그때를 기억하시나요</title>
-      <link>https://www.chosun.com/national/nie/2024/10/30/7LYDQDO7RJHXVOQJ2P4LDEKEDU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/10/30/7LYDQDO7RJHXVOQJ2P4LDEKEDU/</guid>
-      <description/>
-      <pubDate>Tue, 29 Oct 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/US6PYUGZVFDM3EEQLFEWS3GE6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [알립니다] 11월 중등 NIE 강좌 수강생 모집</title>
-      <link>https://www.chosun.com/national/nie/2024/10/30/OX5OJEMU3JC2NBCHNVEH4EU674/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/10/30/OX5OJEMU3JC2NBCHNVEH4EU674/</guid>
-      <description/>
-      <pubDate>Tue, 29 Oct 2024 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5I3BEQDVTRCJBGSSUSMV5ENLXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보 NIE 교육센터에서 11월부터 시작하는 중등 NIE 강좌 수강생을 모집합니다. NIE(신문 활용 교육)는 시사·인문·과학 등 다방면의 기사를 읽으며 논리적 사고력을 기르는 수업입니다. 매주 신문을 함께 읽다 보면 자연스레 어휘력, 독해력이 길러지고, 세상을 바라보는 시야가 넓어집니다. 창의력 증진에도 도움을 줍니다. 자세한 사항은 조선일보 NIE 교육센터 홈페이지(&lt;a href="http://nie.chosun.com/" target="_blank"&gt;nie.chosun.com&lt;/a&gt;)를 확인하세요.&lt;br&gt;&lt;br&gt;&lt;b&gt;▲ 일정: 11월1일부터 총 6회(강좌별 일정 상이)&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;▲ 수강료: 30만원&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;▲ 수업 일정: 목~일&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;▲ 문의: 02-724-6024, 02-6956-6109&lt;/b&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [예쁜 말 바른 말] [368] ‘희한하다’와 ‘임의롭다’</title>
-      <link>https://www.chosun.com/national/nie/2024/10/30/7KF23FREPJAXPKLZXVQBBB2PXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/10/30/7KF23FREPJAXPKLZXVQBBB2PXE/</guid>
-      <dc:creator>류덕엽 교육학 박사·전 서울 양진초 교장</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Oct 2024 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U3FMZOSNKNCANPZYIAK5BSEDKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;* 난생처음 보는 (희안한/희한한) 물건이 전시된 박물관에 사람들의 발길이 이어졌다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;* “그와는 (이무로운/임의로운) 사이라 못 할 말이 없다.”&lt;/b&gt;&lt;br&gt;&lt;br&gt;괄호에 들어갈 올바른 말을 골라 보세요. 정답은 ‘희한한’과 ‘임의로운’입니다.&lt;br&gt;&lt;br&gt;‘희한하다’는 드물 희(稀), 드물 한(罕) 자로 이루어진 한자어로 ‘매우 드물거나 신기하다’는 뜻이에요. 유의어로 ‘드물다’ ‘신기하다’가 있어요. ‘희한한 소문이 나돌다’와 같이 써요. 그런데 ‘희안하다’라고 잘못 쓸 때가 많답니다. 올바른 발음도 ‘히한하다’인데, 일상에선 ‘히안하다’로 잘못 발음하는 일이 많아 표기도 틀리는 거죠.&lt;br&gt;&lt;br&gt;‘임의(任意)롭다’는 ‘일정한 기준이나 원칙이 없어 하고 싶은 대로 할 수 있다’는 뜻으로 ‘임의로운 선택’과 같이 써요. 비슷한 말로는 ‘자유롭다’가 있어요. 이 단어엔 ‘서로 사이가 친밀해 거북하지 않다’는 뜻도 있답니다. ‘이무롭다’ ‘임우롭다’ 등은 호남 지역에서 쓰는 방언이랍니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;[예문]&lt;/b&gt;&lt;br&gt;&lt;br&gt;-최근 정부는 집게다리가 희한하게 생긴 신종 전갈붙이를 발견했다고 발표했다.&lt;br&gt;&lt;br&gt;-자백을 임의로 뒤집으면 아무런 효력이 없을 것 같다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [숨어있는 세계사] 한때 ‘대영제국’ 식민지들, 지금은 인구 27억 국제 연합체죠</title>
-      <link>https://www.chosun.com/national/nie/2024/10/30/CKAFKNAO5RBERKX3QQRTTNOUBE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/10/30/CKAFKNAO5RBERKX3QQRTTNOUBE/</guid>
-      <dc:creator>윤서원 서울 단대부고 역사 교사, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Oct 2024 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J5OCECIHNEXTKK4NUGNMZ4RJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 18일 호주 시드니의 오페라하우스 지붕에 영국 국왕 찰스 3세 부부의 사진이 띄워져 있어요. 자신들의 군주인 영국 국왕이 13년 만에 방문한 날인데, 호주인들 반응은 냉담했답니다. /로이터 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영국의 찰스 3세 국왕 부부가 최근 호주를 방문했습니다. 호주는 영국의 왕을 국가원수로 모시는 영(英)연방 국가인데요. 왕이 호주를 방문한 것은 2011년 이후 처음인데도 호주 국민들은 미적지근한 반응을 보였대요. 오히려 호주 원주민 출신 한 상원 의원은 찰스 3세 면전에 대고 “당신은 우리 왕이 아니다”라며 비난하기도 했죠.&lt;br&gt;&lt;br&gt;찰스의 호주 순방 이후엔 영연방에 소속된 56국이 공동성명을 발표했어요. 영국이 과거 벌였던 ‘노예무역’에 대해 배상해야 한다는 내용이었죠. 영연방에 속한 국가 중 다수가 영국 식민지였고, 대부분은 아프리카에서 19세기까지 이어진 노예무역으로 피해를 받았거든요.&lt;br&gt;&lt;br&gt;영연방은 한때 ‘해가 지지 않는 나라’였던 ‘대영제국’에서부터 이어진 국제 협력 기구예요. 오늘은 최근 위기를 맞고 있는 영연방의 역사에 대해 알아볼게요.&lt;br&gt;&lt;br&gt;&lt;b&gt;세계 56국, 인구 27억명&lt;/b&gt;&lt;br&gt;&lt;br&gt;영연방은 영국과 영국의 식민지였던 나라들이 모인 연합체예요. 아프리카와 아메리카, 아시아 등에 있는 56국으로 구성돼 총인구만 약 27억명이죠. 영연방 국가들끼린 정치·경제·사회적으로 여러 도움을 주고받아요. 하지만 영연방은 국제연합(UN)이나 세계무역기구(WTO) 같은 국제기구와는 다른 성격을 갖고 있어요. 영연방에는 회원국 모두에 통용되는 법률은 없답니다. 각 회원국은 고등판무관이라고 하는 외교관을 다른 회원국에 파견해 교류하지요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QIQUX45KPFA2FABUKIYKBVN2YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 25~26일 오세아니아 사모아에서 열린 영연방정상회의에서 찰스 3세(가운데) 영국 국왕이 연단에 서서 연설을 하고 있어요. 이 회의는 영연방 소속 56국 지도자들이 모여 국제 현안을 논의하는 자리예요. /AFP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영연방은 언제부터 시작됐을까요? 그 출발은 제국주의 시대로 거슬러 올라갑니다. 영국은 16세기 후반부터 본격적인 해외 식민지 건설에 나서기 시작했습니다. 대영제국의 기초를 놓았다고 평가받는 여왕 엘리자베스 1세(1533~1603) 때죠. 이후 영국은 인도, 캐나다, 호주, 뉴질랜드, 아프리카 등지에 막대한 영토를 확보해 ‘해가 지지 않는 나라’로 불렸답니다. 영국에 해가 지더라도 식민지 한 곳에는 해가 떠있을 정도로 다스리는 영토가 넓다는 뜻이에요.&lt;br&gt;&lt;br&gt;&lt;b&gt;민족주의 사상 퍼지며 영연방 결성&lt;/b&gt;&lt;br&gt;&lt;br&gt;세계를 호령하던 대영제국에 균열이 생기기 시작한 건 19세기부터예요. 민족의 정치적 독립을 강조하는 민족주의 사상이 세계 곳곳으로 퍼지기 시작했기 때문이죠. 이때 대영제국에 속한 많은 식민 국가들이 독립운동을 벌입니다.&lt;br&gt;&lt;br&gt;하지만 식민지들은 독립을 원하면서도 영국과의 정치적·군사적 협력은 이어가고 싶어 했어요. 경제나 안보 측면에서 유리하다고 판단한 거지요. 그래서 많은 국가들은 영국의 ‘자치령’으로 남기로 한답니다. 자치령은 대영제국에 속해 있지만, 자치권과 독립적인 영토를 갖습니다. 국내 문제는 자체 정부가 해결하고, 외교나 군사 등 대외 정책은 영국의 통제를 받는 거예요.&lt;br&gt;&lt;br&gt;대영제국 최초의 자치령은 캐나다랍니다. 1867년에 자치령이 됐어요. 이후 호주·뉴질랜드 등도 자치령이 됩니다. 20세기에 접어들며 점점 자치령이 많아지자 영국은 자치령 간의 관계를 새롭게 규정해요. 1926년 ‘밸푸어 선언’을 통해선데요. 자치령은 영국 왕실에 충성하되, 영국과 평등한 독립국가임을 인정한다는 게 핵심입니다. 이후 영국은 1931년 웨스트민스터 헌장을 통해 공식적으로 영연방을 창설했습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZFSZLV6VOVHM3CNKXDCARRBNXQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;대영제국은 1921년에 가장 넓은 영토를 가졌던 것으로 알려져요. 어두운 색으로 표시한 국가가 영국의 식민지와 자치령이에요. 식민지가 세계 곳곳에 있어서 '해가 지지 않는 나라' 로 불렸답니다. /그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영연방은 제2차 세계대전 이후 또 한번 변화를 맞아요. 전쟁이 끝나고 식민지들의 독립이 이어졌고, 인도를 비롯한 일부 영연방 국가들은 군주가 아닌 국민이 주권을 갖는 ‘공화제’로의 전환을 준비했어요. 영국 왕실에 충성하지 않으면서 영연방 회원국으로 남길 원한 거죠. 그래서 1949년엔 공화국이 되더라도 영연방 일원으로 남을 수 있다는 ‘런던 선언’이 발표됩니다. 회원국들은 단지 영국 국왕을 상징적인 지도자로 삼는 것입니다. 이는 영연방이 회원국의 자율성을 존중하는 느슨한 연대 형태로 자리 잡는 계기가 됐답니다. 실제로 영연방 국가들 중에 영국 국왕을 국가원수로 삼는 나라는 호주·캐나다·뉴질랜드 등 14국(영국 제외)뿐이에요.&lt;br&gt;&lt;br&gt;영연방 회원국은 과거 식민지였던 나라들의 독립이 이어지며 점차 늘어났답니다. 영국의 식민지가 많았던 아프리카에선 남아공이 최초로 영연방에 가입해요. 이후 가나 공화국, 나이지리아, 시에라리온 등 여러 아프리카 국가들이 독립과 동시에 영연방에 가입합니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZJE3OY5CHRFVHPRT6LJZY6GAVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1892년 영국 잡지에 실린 만화의 한 장면이에요. 영국 정치인 세실 로즈가 아프리카 대륙으로 발을 뻗고 있는 모습으로, 당시 영국의 식민지 확장 정책을 표현한 거예요. 영국 제국주의를 상징하는 그림으로 꼽힙니다. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 일부 국가는 영국에서 독립한 후에도 영연방에 가입하지 않았는데요. 미얀마는 1948년 독립했지만 내전과 정치적 혼란이 계속되며 영연방에 가입하지 않았어요. 이라크와 요르단은 각각 1932년과 1946년에 독립했지만 독립적인 외교 노선을 내세우며 영연방에 가입하지 않았답니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;영국 지위 낮아지며 영연방 위상도 흔들려&lt;/b&gt;&lt;br&gt;&lt;br&gt;오늘날 영연방 회원국들은 2년에 한 번씩 ‘영연방 정상회의’를 열어 국제 현안을 논의한답니다. 또 군사·환경 분야 등에서도 여러 협력을 하고 있어요. 영국·호주·뉴질랜드·말레이시아·싱가포르가 1971년 맺은 군사동맹인 ‘5국 방위 협정’이 대표적이죠.&lt;br&gt;&lt;br&gt;그런데 최근엔 영연방의 결속이 흔들리고 있는데요. 영연방을 주도하는 영국의 국제적 위상이 낮아졌기 때문이라는 평가도 나옵니다. 2020년 영국이 유럽연합(EU)과의 경제적 연결 고리를 끊은 ‘브렉시트’ 이후엔 영연방 회원국의 이익이 줄었다는 것이죠.&lt;br&gt;&lt;br&gt;또 역사 문제도 있어요. 최근 들어 세계적으로 인종차별과 식민주의를 재조명하는 움직임이 활발해지면서 영연방 안에서도 식민 지배의 폐해를 지적하는 목소리가 더욱 커지고 있어요. 이에 영국 왕을 국가원수로 인정하지 않는 공화제로 체제를 바꾸려는 국가들도 많답니다. 호주도 그런 나라 중 한 곳이에요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [동물 이야기] ‘휘익’ ‘끽끽’ ‘키득키득’… 울음소리 아름다워 ‘바다의 카나리아’로 불려요</title>
-      <link>https://www.chosun.com/national/nie/2024/10/30/3B6KFHNXCZHIBHBL342VF6JVJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/10/30/3B6KFHNXCZHIBHBL342VF6JVJI/</guid>
-      <dc:creator>정지섭 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Oct 2024 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XGKKMUETFJFNHIZV6UFOOFYOU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;동글동글하게 생긴 벨루가는 몸길이가 3~5m, 몸무게는 1~1.5t 정도예요. /게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 우리나라 한 수족관에서 5년째 홀로 머물고 있는 벨루가(beluga) 고래의 딱한 사연이 전해졌어요. 원래 세 마리가 있었다가 친구 둘이 병들어 죽으면서 혼자가 됐대요. 수족관이 바다로 돌려보내겠다고 했지만 마땅한 보금자리를 찾지 못해 5년째 떠나지 못하고 있다는 소식이었죠.&lt;br&gt;&lt;br&gt;벨루가는 귀여운 생김새 때문에 뉴스가 나올 때마다 화제가 돼요. 벨루가라는 이름은 ‘희다’는 뜻의 러시아어 ‘벨르이’에서 파생됐대요. 이름처럼 흰 살결이 특징이죠. 태어났을 때는 짙은 회색이지만, 어른으로 성장하면서 몸 색깔이 하얗게 변한답니다. 번식을 할 수 있을 정도로 성장하려면 10년 정도는 있어야 해요.&lt;br&gt;&lt;br&gt;벨루가는 얼핏 돌고래와도 닮았지만 차이점이 있어요. 우선 돌고래의 등 위로 비스듬하게 나있는 등지느러미가 없어요. 벨루가가 사는 곳은 북극해 및 북극과 가까운 러시아·캐나다·알래스카·그린란드 주변 바다인데 이곳은 추운 기후 때문에 곳곳이 부빙(浮氷·바다에 떠 다니는 얼음 덩어리)으로 덮여있어요. 등지느러미가 없기 때문에 부빙에 다칠 걱정 없이 안전하게 헤엄칠 수 있죠. 또 머리는 여느 돌고래보다 둥그스름하고 주둥이는 짧아요. 그래서 고개를 끄덕이거나 좌우로 흔들 수도 있어요.&lt;br&gt;&lt;br&gt;벨루가는 다양한 소리를 낼 수 있대요. ‘바다의 카나리아’라는 별명을 갖고 있는데요, 다른 고래들보다도 울음소리가 아름답고 다채로워서 생긴 별병이에요. ‘휘익’ ‘끽끽’ ‘우움’ ‘쩝쩝’ ‘키득키득’ 등 사람이 직접 확인한 소리만 해도 여러 가지입니다. 벨루가는 적게는 몇 마리에서 많게는 수백 마리까지 무리를 이루고 사는 사회성 강한 동물인데요. 여러 가지 소리로 동료들과 의사소통을 하고, 멀리 떨어진 먹잇감을 추적하죠.&lt;br&gt;&lt;br&gt;벨루가는 몸에서 음파를 쏜 뒤 메아리쳐 되돌아오는 반사파를 통해 장애물이나 먹잇감 위치를 파악해요. 음파를 통제하는 기관이 둥그스름한 머리 안에 있답니다.&lt;br&gt;&lt;br&gt;벨루가는 문어·새우·조개·대구·연어 등을 가리지 않고 먹는답니다. 미소 짓는 것처럼 보이는 입엔 날카로운 이빨이 숨겨져 있답니다. 위턱과 아래턱에 각각 18~20개, 총 36~40개가 있죠.&lt;br&gt;&lt;br&gt;차가운 바다를 견디기 위해 벨루가의 몸은 두꺼운 지방층으로 둘러싸여 있는데요. 전체 몸무게의 40%가 지방이래요. 벨루가 중 일부는 해마다 여름철이 되면 허물을 벗어요. 얕은 바닷가로 올라와 까끌까끌한 자갈에 온몸을 비벼 죽은 피부를 벗겨낸답니다.&lt;br&gt;&lt;br&gt;벨루가는 사람 때문에 생존 위협을 받는 대표적인 해양 동물이에요. 가스 개발 등을 목적으로 북극과 주변 바다에 배가 많이 드나들면서 벨루가 서식 지역에 오염 물질이 유입되거나, 기후 변화로 수온이 급변하면서 먹잇감이 사라지는 경우가 많아졌어요. 배가 많아지면서 시끄러운 소음 때문에 방향을 잃은 벨루가가 얕은 물가로 떠밀려와 목숨을 잃기도 하지요. 자연 환경이 이렇기 때문에 수족관 수조에 갇힌 벨루가를 바다로 보내주는 것도 쉽지 않게 됐대요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 날씨] 2024년 10월 30일</title>
       <link>https://www.chosun.com/national/national_general/2024/10/30/OZ3N7OGYOZFQ3NPLN25QDQ2XBU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/30/OZ3N7OGYOZFQ3NPLN25QDQ2XBU/</guid>
       <description/>
       <pubDate>Tue, 29 Oct 2024 15:33:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZWZEIDMMREANB72ZHRSRODEGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 국무조정실·국무총리비서실 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/10/30/57XZOLYZORCJNAJO6KE5I44AXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/10/30/57XZOLYZORCJNAJO6KE5I44AXM/</guid>
-      <description/>
-      <pubDate>Tue, 29 Oct 2024 15:33:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;국무조정실·국무총리비서실&lt;/b&gt;◇국장급 전보▷고용식품의약정책관 이창길&lt;br&gt;&lt;br&gt;▲&lt;b&gt;산업통상자원부&lt;/b&gt;◇과장급 전보▷지역경제총괄과장 이영호▷자동차과장 박태현▷원전환경과장 윤정원▷세계무역기구과장 김파라▷다자통상협력과장 최세나▷통상법무기획과장 이원희▷덤핑조사과장 김민정▷감사담당관 이원규▷산업재난담당관 김현진▷해외투자과장 박헌진▷디스플레이가전팀장 유재호▷무역위원회 무역구제정책과장 이민영▷투자정책과장 박상희▷신산업분산에너지과장 권영희▷동북아통상과장 박현종▷원전지역협력과장 최정식▷국가기술표준원 바이오화학서비스표준과장 오재철▷국가기술표준원 생활어린이제품안전과장 정대환▷광물자원팀장 윤용석&lt;br&gt;&lt;br&gt;▲&lt;b&gt;우정사업본부&lt;/b&gt;▷경인지방우정청 양주우체국장 양현자&lt;br&gt;&lt;br&gt;▲&lt;b&gt;KBS&lt;/b&gt;▷인사청문회준비단장 겸직 박영춘&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김세영 前 조선일보 전국부 차장 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/10/30/TQHLXN4MS5GY5DN2ZWB4KXELXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/10/30/TQHLXN4MS5GY5DN2ZWB4KXELXY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Oct 2024 15:32:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김세영&lt;/b&gt; 前 조선일보 전국부 차장 별세, &lt;b&gt;김성은&lt;/b&gt;·&lt;b&gt;김명주&lt;/b&gt; 도예가 부친상=29일14시 충남대병원, 발인 31일8시, (042)280-6463&lt;br&gt;&lt;br&gt;▲&lt;b&gt;심희섭 &lt;/b&gt;일산충신교회 권사&lt;b&gt; &lt;/b&gt;별세, &lt;b&gt;김재학&lt;/b&gt; 위드이노텍 대표이사·&lt;b&gt;김광학&lt;/b&gt; 메달리아코리아 지사장 부친상, &lt;b&gt;이용경&lt;/b&gt; 불광초등학교 교무부장·&lt;b&gt;이선아&lt;/b&gt; 시모상=29일1시7분 신촌세브란스병원, 발인 31일7시, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;오병승&lt;/b&gt; 서울교대 수학과 명예교수 별세, &lt;b&gt;송정숙&lt;/b&gt; 前 보건사회부 장관 남편상, &lt;b&gt;오영균&lt;/b&gt; 애리조나주립대 교수 부친상, &lt;b&gt;김금미&lt;/b&gt; LVMH P&amp;amp;C 상무 시부상=28일9시27분 서울성모병원, 발인 31일10시30분, (02)2258-5965&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이인수&lt;/b&gt; 별세, &lt;b&gt;이동원&lt;/b&gt; 前 MBC 국장 부친상, &lt;b&gt;김승우&lt;/b&gt; 순천향대 총장 장인상=29일15시 삼성서울병원, 발인 1일9시, (02)3410-3151&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이태규 신문방송편집인협회장</title>
-      <link>https://www.chosun.com/national/people/2024/10/30/OAET23ZVWFDALNC3H74V2WXLYA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/30/OAET23ZVWFDALNC3H74V2WXLYA/</guid>
-      <description/>
-      <pubDate>Tue, 29 Oct 2024 15:31:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBLAK74RPBFSJGVC7KJOKXEEAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국신문방송편집인협회는 29일 서울 중구 프레스센터에서 정기대의원 총회를 열고 제26대 회장에 이태규 한국일보 논설위원실장을 선출했다. 고려대 신문방송학과를 졸업했으며, 1993년 한국일보에 입사해 워싱턴특파원, 사회부장, 정치부장, 편집국장 등을 역임했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>실력·체력·인성 ‘3박자 갖춘 인재’ 되고 싶다면… 경북 명문 김천高로 오세요</title>
