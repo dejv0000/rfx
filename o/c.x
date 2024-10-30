@@ -13,6 +13,108 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>법원 “시위 중 체포된 전장연 대표에 국가가 1000만원 배상해야”</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/30/BAHAJDS6NFDUNLIJRXYUS6DS74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/30/BAHAJDS6NFDUNLIJRXYUS6DS74/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Oct 2024 10:11:23 +0000</pubDate>
+      <content:encoded>서울 시내버스의 운행을 방해한 전국장애인차별연대(전장연) 활동가들을 체포한 경찰의 행동이 위법이라는 판결이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DOVHXOI6DBOCREADXFF4KQGLAI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전국장애인차별철폐연대(전장연) 활동가들이 25일 오전 서울 중구 국가인권위원회 앞 버스 정류장에서 장애인 이동권 관련 시위를 위해 대학로 방면으로 가는 741번 저상버스에 탑승하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 민사68단독 손광진 판사는 30일 박경석 전장연 상임공동대표 등 2명이 국가를 상대로 낸 손해배상 청구 소송에서 원고 일부 승소 판결했다. 손 판사는 국가가 박 대표에게 700만 원을, 활동지원가 박모씨에게 300만 원을 각각 지급하고, 소송비용 중 3분의 1을 부담해야 한다고 했다.&lt;br&gt;&lt;br&gt;재판부는&amp;nbsp;“이 사건 체포 과정에서 발생한 일련의 행위들은 위법하고 객관적 정당성을 잃은 것이라고 봄이 상당하다”고 설명했다.&lt;br&gt;&lt;br&gt;박 대표는 작년 7월 14일 서울 여의도 글래드호텔 앞 노상에서 버스를 가로막아 운행을 방해한 혐의로 현행범 체포됐다가 이튿날 석방했다. 당시 그는 녹색 신호인 횡단보도에서 버스 앞을 막고 “버스에 태워달라”고 외쳤는데 3분여 뒤 경찰의 제지로 인도로 밀려나 연행됐다. &lt;br&gt;&lt;br&gt;박 대표는 체포 요건을 갖추지 않았음에도 경찰이 현행범 체포를 했고, 이후 서울 남대문경찰서로 이송되는 과정에서 휠체어, 안전띠 등이 마련되지 않은 호송 차량에 탑승했다며 국가를 상대로 약 3000만원의 손해배상을 청구하는 소송을 제기했다. 앞서 경찰 측은 작년 11월 첫 공판에서 체포 요건을 모두 갖췄고 장애인 호송 차량을 이용해 호송한 것이라고 반박한 바 있다. &lt;br&gt;&lt;br&gt;전장연 측은 이날 선고 직후 기자회견을 통해 “오늘 법원의 판단은 경찰의 위법 행위에 제동을 건 것”이라며 “불필요하게 항소해 세금 낭비를 하지 말고 재발방지 조치를 하길 바란다”고 입장을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 30대 초등 특수교사 숨진 채 발견... 경찰 수사</title>
+      <link>https://www.chosun.com/national/incident/2024/10/30/XJOJIQC7ZVF3HDDS7TF5XFKWHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/30/XJOJIQC7ZVF3HDDS7TF5XFKWHM/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Oct 2024 10:10:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 한 초등학교 특수교사가 숨진 채 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;30일 인천 미추홀경찰서와 인천시교육청 등에 따르면 지난 24일 오후 8시쯤 인천시 미추홀구 한 공동주택에서 초등학교 특수교사 30대 남성 A씨가 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 시신 상태 등을 토대로 범죄 혐의점은 없는 것으로 보고 유족 등을 상대로 정확한 사망 경위를 조사하고 있다. 교육단체는 일제히 진상 규명을 촉구했다.&lt;br&gt;&lt;br&gt;한국교총과 인천교총은 이날 공동 보도자료를 내고 “초임 교사였던 고인은 특수학급 담당 교사로서 평소 과밀학급 학생 지도 부담 등 어려움을 호소했고, 학교와 함께 학급 수 증설 등 개선을 교육청에 요구해 온 것으로 파악됐다”며 “고인이 무엇 때문에 갑작스럽게 세상을 떠나게 됐는지, 교육 당국과 수사 당국의 철저한 진상 규명을 요구한다”고 했다.&lt;br&gt;&lt;br&gt;인천시교육청 관계자는 “학교 측의 인력 증원 요청에 따라 3월부터 7월까지 세 차례에 걸쳐 보조인력 등이 지원된 것으로 파악했다”며 “교육활동 보호를 우선시하는 상황에서 이런 일이 생겨 안타깝다. 원인을 조속히 파악하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아파트 단지서 ‘보조자 없이 홀로 운전’ 재활용 수거차에 치여 초등생 숨져</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/30/FHV3BG74AJAK3MTFRMJ5BD3BNU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/30/FHV3BG74AJAK3MTFRMJ5BD3BNU/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Oct 2024 09:14:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EG4THVBN6FFRJFGWRZEFZWUNV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 오후 1시 20분쯤 광주광역시 북구 신용동의 한 아파트 단지에서 8살 초등학생이 재활용 쓰레기 수거차량에 치여 숨지는 사고가 발생해 경찰이 사건현장을 확인하고 있다. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“늦둥이였는데…” 광주광역시의 아파트 단지에서 후진하던 재활용 쓰레기 수거차량 사고로 손녀를 잃은 할아버지 김모(78)씨는 갑작스런 비보가 황망한 듯 말을 잇지 못하며 사고 현장을 바라봤다.&lt;br&gt;&lt;br&gt;광주 북부경찰서에 따르면 30일 오후 1시 20분쯤 광주 북구 신용동의 한 아파트 단지 내부 재활용품 수거장 앞에서 김씨의 손녀 김모(8)양이 후진하는 재활용품 수거차량에 치여 숨졌다. A양은 인근 초등학교 1학년으로 하교하던 중이었다고 한다.&lt;br&gt;&lt;br&gt;김씨는 “이루 말할 수 없는 상처를 입었다”며 “운전하는 사람이 아무리 급해도 어떻게 대낮에 아이가 차량에 깔려 숨질 수 있느냐”고 분통을 터트렸다. 사고는 아파트 주민들이 이용하는 인도에서 벌어졌다.&lt;br&gt;&lt;br&gt;사고 현장이 담긴 방범카메라(CCTV) 영상에서는 차로를 주행하던 5t 재활용 쓰레기 수거차량이 인도로 올라선 뒤 재활용품 수거장으로 진입하려고 10여 m를 후진하다가 김양을 들이받고 지나가는 모습이 확인됐다.&lt;br&gt;&lt;br&gt;해당 차량운전자 A(49)씨는 경찰 조사에서 “아이를 보지 못하고 후진하다가 사고를 냈다”는 취지의 진술을 한 것으로 전해졌다. A씨는 차량을 후진할 때 접근하는 주민이 있는지 확인할 수 있는 보조 작업자 없이 홀로 차량을 운전하다가 사고를 낸 것으로 파악됐다.&lt;br&gt;&lt;br&gt;사망사고가 발생한 아파트와 재활용품 수거 계약을 체결한 업체는 A씨가 안전사고를 예방하기 위한 교육 이수 여부를 파악하지 못하고 있다. 재활용품 수거업체 관계자는 “사고차량 운전자는 ‘용역기사’였기 때문에 안전규칙 준수 등 여부는 모르겠다”고 말했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 교통사고처리 특례법상 치사 혐의로 입건하고 자세한 사건 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EG4THVBN6FFRJFGWRZEFZWUNV4.jpg?width=1920&amp;height=1301&amp;auth=afc2306bc48ba8f2ba6ea8f885d566a95f540bddacfd69030fa67125635ea577&amp;smart=true" type="image/jpeg" height="1301" width="1920">
+        <media:description type="plain">30일 오후 1시 20분쯤 광주광역시 북구 신용동의 한 아파트 단지에서 8살 초등학생이 재활용 쓰레기 수거차량에 치여 숨지는 사고가 발생해 경찰이 사건현장을 확인하고 있다. /독자 제공</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>부산서 70대 운전 승용차, 나무심기 작업차량 덮쳐…3명 사망 </title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/10/30/UNBHUSFMTBDSVNJVVCH435HQXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/10/30/UNBHUSFMTBDSVNJVVCH435HQXY/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Oct 2024 09:04:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JIECZFD24VGQPMYL6LLYM6HQCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 강서구 대저동 사고 현장./부산소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;70대 운전자가 몰던 승용차가 나무를 심기 위해 정차 중인 트럭을 들이받은 후 작업자를 덮쳐 3명이 숨졌다.&lt;br&gt;&lt;br&gt;30일 부산소방재난본부에 따르면 이날 오후 3시 20분쯤 부산 강서구 대저동 대저수문 생태공원 인근 편도 3차로에서 나무 식재 작업을 위해 정차 중인 5t 차량 뒤쪽을 70대 운전자가 몰던 아우디 승용차가 들이받았다. 승용차는 이어 나무 심기 작업 중이던 신호수와 작업자를 들이받았다.&lt;br&gt;&lt;br&gt;이 사고로 50대 신호수와 30대 작업자, 승용차를 몰던 70대 운전자가 그 자리서 숨졌다. 경찰은 정확한 사고 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>'3자변제 수용' 이춘식옹… 장남은 "반대 입장"</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/30/UN6SFBATIRAOJOP4NATONDN4DQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/30/UN6SFBATIRAOJOP4NATONDN4DQ/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Oct 2024 09:01:32 +0000</pubDate>
+      <content:encoded>강제징용 피해 생존자 이춘식(104) 할아버지 측이 30일 일제강제동원피해자지원재단으로부터 대법원 손해배상 승소 판결에 대한 배상금과 지연 이자를 수령하자, 일부 가족이 “이 할아버지가 정상적인 상태가 아니다”며 이의를 제기했다.&lt;br&gt;&lt;br&gt;이 할아버지의 장남 이창환씨는 이날 서울 서초구 서울중앙지법 앞에서 기자회견을 열고 “저는 (부친이) 제3자 변제를 수령했다는 사실에 대해 알지 못한다”며 이같이 밝혔다. 이씨는 “형제 중 일부가 재단과 접촉해 변제금 수령 여부에 대해 논의하는 것은 알고 있었지만 나는 반대 입장이었다”며 “오늘 형제들을 설득하러 갈 예정이었는데 뉴스를 통해 (부친이) 판결금을 지급받았다는 내용을 갑작스럽게 알게 됐다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “아버지는 얼마 전부터 노환과 섬망증으로 요양 병원에 입원해 정상적 의사소통이 어려운 상황”이라며 “이런 상황에서 ‘제3자 변제에 동의한다’는 의사표시를 재단에 했다는 것이 아들로서 납득되지 않는다”고 주장했다.&lt;br&gt;&lt;br&gt;일본제철 피해자인 이 할아버지는 2018년 대법원에서 일본제철과 등 일본 기업의 강제징용 손해배상 책임을 인정받았다. 하지만 일본이 1965년 한일 청구권 협정으로 개인 청구권이 소멸됐다는 기존 입장을 고수하자, 윤석열 정부는 작년 3월 재단이 민간 기부금을 받아 대법원 승소 판결을 받은 피해자들에게 배상금을 지급하도록 하는 제3자 변제안을 제시했다. 이에 따라 이 할아버지가 배상금과 지연 이자를 수령했는데, 장남인 이씨가 절차에 문제가 있다며 반대하고 나선 것이다.&lt;br&gt;&lt;br&gt;이 할아버지에 앞서 일제 강제징용 피해의 상징적 인물인 양금덕(95) 할머니도 지난 23일 재단을 통해 배상금과 지연 이자를 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 野신영대 ‘경선 여론조작 혐의’ 소환 조사</title>
+      <link>https://www.chosun.com/national/national_general/2024/10/30/GNC7SVQMOVH2TO5I6LG3O4MQI4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/30/GNC7SVQMOVH2TO5I6LG3O4MQI4/</guid>
+      <dc:creator>강우석 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Oct 2024 09:01:24 +0000</pubDate>
+      <content:encoded>서울북부지검은 지난 제22대 총선 기간 여론 조작과 새만금 태양광 발전사업 비리 의혹 등 혐의를 받는 신영대(재선·전북 군산김제부안갑) 더불어민주당 의원을 소환 조사했다고 30일 밝혔다. 북부지검은 이날 신 의원을 소환, 공직선거법 위반 혐의를 조사했다. 지난 8월 20일에 이은 두번째 소환조사다. &lt;br&gt;&lt;br&gt;신 의원은 지난 3월 민주당 군산·김제·부안갑 당내 경선 여론조사에서 휴대전화 약 100여대 등을 여론조사 응답용으로 개통해 본인에게 유리하게 여론을 조작한 혐의를 받는다. 신 의원은 당시 경선에서 김의겸 전 의원과 맞붙어 1% 안팎의 근소한 차이로 승리해 공천을 받고 재선에 성공했다.&lt;br&gt;&lt;br&gt;당시 군산시장애인체육회 사무국장이던 이모씨는 신 의원의 여론조작을 도운 혐의로 구속 기소된 후 지난 11일 열린 첫 재판에서 혐의를 인정했다. 같은 혐의를 받는 신 의원의 전현직 보좌관 2명도 이달 추가로 기소됐다.&lt;br&gt;&lt;br&gt;신 의원은 당내 경선이 진행되던 지난 1월 군산 시내 한 보험사 사무실에서 마이크와 확성기를 이용해 새만금 개발사업 성과 등 의정활동을 홍보한 혐의로 기소돼 전주지법에서 재판을 받고 있다. 공직선거법은 연설·대담·토론용을 제외한 공개된 장소에서 마이크 등 음향 장치를 이용한 선거운동을 금지하고 있다. 검찰은 최근 신 의원에 당선무효(100만원) 기준에 못 미치는 벌금 80만원을 구형했다.&lt;br&gt;&lt;br&gt;한편 신 의원은 새만금 태양광 발전사업 비리 의혹으로도 수사를 받고 있다. 신 의원은 2020년 새만금 태양광 발전 사업 중 일부를 담당하던 군산시민발전주식회사 대표 서모씨로부터 1억 원 상당의 뇌물을 전달받은 혐의를 받는다. 서씨는 군산 지역 정·관계 인사들에게 태양광 발전 사업 관련 청탁을 한 대가로 1억원을 수수한 혐의로 지난 5월 구속기소된 바 있다. 검찰은 최근 재판에서 서씨에 징역 2년 6개월을 구형했다. 신 의원은 지난 검찰조사에서 혐의를 대부분 부인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, ‘공천개입’ 의혹 강혜경 소환…이틀 연속 조사 중</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/30/RCHTOMRCZ5F5RA72CYGPJRYYCY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/30/RCHTOMRCZ5F5RA72CYGPJRYYCY/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Oct 2024 08:55:20 +0000</pubDate>
+      <content:encoded>김건희 여사의 ‘공천개입’ 의혹 및 정치 브로커 명태균씨의 ‘여론조사 비용 불법 조달’ 의혹 등을 수사 중인 검찰이 이틀 연속으로 핵심 인물인 강혜경씨를 소환하는 등 관련자 조사에 속도를 내고 있는 것으로 알려졌다. 강씨는 지난 23일 검찰에 출석해 한 차례 조사를 받았었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TFFXGZWTTJJXFETCV3BSU3K2RA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사의 '공천개입' 의혹과 명태균씨의 '여론조사 비용 불법 조달' 의혹을 제기한 강혜경씨가 지난 23일 오전 1차 소환조사를 받기 위해 경남 창원시 성산구 창원지방검찰청으로 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 본지 취재를 종합하면, 창원지검 형사4부(부장 김호경)는 이날 강씨를 정치자금법 위반 혐의 피의자 신분으로 불러 조사하고 있다. 전날(29일)에 이어 이틀째 조사하는 것이다. 검찰은 강씨로부터 확보한 녹취 파일 4000여 개와 관련자 진술 내용 등을 종합해 김영선 전 의원으로부터 세비 9000여 만원이 명씨에게 전달된 경위, 여론조사업체 미래한국연구소가 수행한 여론조사의 비용을 지방선거 예비후보들이 건넨 돈으로 충당했는지 여부 등을 묻는 것으로 전해졌다. 창원지검 수사팀은 지난달 30일 김 전 의원과 명씨, 강씨의 주거지와 사무실 등을 압수 수색해 컴퓨터, 통화녹음, 회계 자료 등을 확보했다.&lt;br&gt;&lt;br&gt;강씨는 지난 대선 과정에서 명씨가 당시 윤석열 대통령 후보에게 ‘불법 여론조사’를 해준 대가로 김 전 의원이 2022년 6월 재보궐선거 공천을 받았고, 공천 과정에 김 여사가 개입했다는 의혹을 제기한 인물이다. 강씨는 “국민의힘 지방선거 예비후보들이 여론조사 비용 2억2700만원을 대납했다”고 주장하고 있다. 명씨가 두 명의 예비후보에게 공천을 미끼로 여론조사 비용 대납을 요구했다는 것이다. 또 이들이 공천을 받지 못하자 돈을 돌려달라고 했는데, 김 전 의원이 보궐 선거에서 당선된 후 선관위에서 받은 선거 보전금으로 일부를 갚아줬다는 것이 강씨 주장이다. 강씨는 미래한국연구소 부소장을 지냈다.&lt;br&gt;&lt;br&gt;검찰은 이날 미래한국연구소 측에 1억4500만원을 건넨 혐의를 받는 국민의힘 기초단체장 예비후보였던 A씨도 불러 조사하고 있다. 지난 27일엔 미래한국연구소 측에 8200만원을 혐의를 받는 광역의원 예비후보 B씨도 불러 조사한 상태다. 강씨가 주장하는 여론조사 비용 대납을 확인하기 위한 차원이다.&lt;br&gt;&lt;br&gt;창원지검은 지난 24일 김 전 의원의 현역 시절 보좌관과 선임비서관, 수행비서 등 3명을 참고인 신분으로 조사하는 등 수사에 속도를 내고 있다. 핵심 인물인 명씨와 김 전 의원도 근시일 내에 소환해 조사할 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>野 돈봉투 혐의 의원들 배탈 핑계까지...검찰 “13일까지 출석하라”</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/30/5PZ6OCOTAVELTGCBZDYEFBFLGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/30/5PZ6OCOTAVELTGCBZDYEFBFLGI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Oct 2024 08:47:22 +0000</pubDate>
+      <content:encoded>이른바 ‘민주당 전당대회 돈봉투’ 사건과 관련해 돈봉투를 받은 것으로 지목된 더불어민주당 현직 의원 5명이 검찰에 출석해 조사받기로 협의하고도 이런저런 핑계로 나오지 않고 있는 것으로 30일 전해졌다. 이들의 불출석 사유는 국정감사 준비, 재·보궐선거 유세 지원 등이었고, “배가 아파 출석하기 어렵다”는 의원도 있었다고 한다. 검찰은 이들에게 “내달 13일까지 출석해 조사 받으라”는 통보를 이날 보냈다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IPKYKBQRSJK3R434U5SJJVZGTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 청사 전경. /조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 지난 2021년 4월 28일 국회 외교통일위원회 소회의실에서 열린 ‘송영길(전 민주당 대표) 지지 모임’에 참석해 300만원이 든 돈봉투를 윤관석 전 의원에게서 수수한 혐의를 받고 있는 민주당 김영호·민병덕‧박성준‧백혜련‧전용기 의원은 지난달 말쯤 검찰에서 대면 조사를 받기로 검찰과 협의한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰은 돈봉투를 의원들에게 건넨 혐의로 기소된 윤관석 전 의원과 이를 받은 이성만·임종성 전 의원, 허종식 의원 등 4명이 1심에서 모두 유죄를 선고받은 점 등을 고려할 때, 다른 의원들도 혐의가 상당 부분 입증됐다고 보고 처분 전 피의자 조사를 진행하겠다는 방침이다.&lt;br&gt;&lt;br&gt;민주당 의원들은 조사 일정 직전에 “출석하지 못하겠다”고 검찰에 통보했다고 한다. “국정감사 준비로 시간이 없다” “원내 일정과 겹쳐 조정이 어렵다” 등 제각각 이유를 들었고, 한 의원은 “복통이 심해 도저히 못 가겠다”고 전해 왔다고 한다. 검찰 한 관계자는 “의원들의 비공개 출석 요청도 다 받아들였는데, 나오지 않고 있는 것으로 안다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 의원에게 돈봉투를 받은 것으로 지목된 전현직 의원은 모두 10명이다. 이 중 3명은 기소됐고, 박영순 전 의원은 지난 7월 조사를 받았다. 그러나 민주당 의원 5명과 조국혁신당 황운하 의원 등 6명은 9개월 넘게 검찰의 출석 요구에 불응하고 있는 것이다.&lt;br&gt;&lt;br&gt;검찰은 이날 불출석 의원 6명에게 “다음 달(11월) 13일까지 출석해 조사받으라”고 출석 요구서를 보냈다고 한다. 검찰 관계자는 “재·보궐선거가 끝났고, 국정감사도 이번 주 마무리되는 만큼 의원들이 불출석할 이유가 없어 보인다”며 ”계속 불출석하면 강제 구인을 검토할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조슈아 박 한국조지메이슨대 대표 “글로벌 교육 허브 만들겠다”</title>
+      <link>https://www.chosun.com/national/regional/2024/10/30/AIYQLSTIWVAC5D27PTXPHHLCOY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/30/AIYQLSTIWVAC5D27PTXPHHLCOY/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Oct 2024 08:28:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BQ6LG7CUXFB73EZAZSJONUXRDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조슈아 박 한국조지메이슨대 대표가 30일 기자 간담회에서 대학의 비전에 대해 설명하고 있다. /한국조지메이슨대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“우수한 인재들이 함께 공부하고 연구하는 글로벌 교육 허브를 만들겠습니다.”&lt;br&gt;&lt;br&gt;조슈아 박 한국조지메이슨대 대표는 30일 취임 기념 기자간담회에서 “글로벌 인재를 양성하는 대학, 학문적 혁신을 지속하는 대학, 인천을 세계화시키는 대학, 기업을 지원하는 대학 등 4가지 비전을 실현하겠다”며 이같이 강조했다.&lt;br&gt;&lt;br&gt;박 대표는 우선, 현재 전체 학생의 20% 수준인 외국인 재학생 비율을 40~50% 수준으로 높이고 아시아 명문 대학들과의 협력 관계를 확대해 국제무대에서 활약하는 글로벌 인재를 배출하겠다고 했다.&lt;br&gt;&lt;br&gt;그는 “중국은 물론, 동남아시아를 비롯해 중앙아시아 지역 국가의 우수한 인재가 우리 대학에서 공부할 수 있도록 하겠다”며 “장학금도 충분히 확보할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;박 대표는 또 “인공지능(AI), 디지털 엔터테인먼트, 로봇공학 등 다양한 분야에서 학문적 혁신을 추진하고, 바이오, 방위산업, 항공우주 등 분야의 해외 연구소도 유치해 연구 활동과 산학협력이 더욱 활발히 이뤄지게 하겠다”고 강조했다.&lt;br&gt;&lt;br&gt;박 대표는 지역 청소년의 국제 교류 기회와 시민의 평생학습 기회를 넓혀 인천의 세계화를 돕고, 인천 기업들의 미국 시장 진출을 위한 가교역할도 마다하지 않겠다고 했다.&lt;br&gt;&lt;br&gt;한국조지메이슨대는 미국 버지니아주에 있는 조지메이슨대의 확장 캠퍼스로, 지난 2014년 인천 송도국제도시의 해외대학 공동캠퍼스인 인천글로벌캠퍼스에서 문을 열었다.&lt;br&gt;&lt;br&gt;현재 경영학과 경제학, 분쟁분석 및 해결학, 국제학, 컴퓨터게임디자인학, 데이터과학 등 총 6개 학부와 2개 석사 과정에서 1000여 명의 학생이 공부하고 있다. 강의는 100% 영어로 진행된다. 졸업생들은 다국적 기업, 국제기구 등 다양한 분야로 진출하고 있다.&lt;br&gt;&lt;br&gt;박 대표는 “혁신적인 교육과정을 개발해 많은 인재들이 함께 공부하고 연구하는 대학을 만들겠다”며 “10년 뒤엔 인천과 대한민국 발전에 긍정적인 영향을 주는 대학으로 평가받을 수 있도록 지속해서 노력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘해상풍력 국책사업비 22억원 부정사용’…이장호 군산대 총장 불구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2024/10/30/OJ7JPV7YS5DKDNNC5EIRIS3ED4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/30/OJ7JPV7YS5DKDNNC5EIRIS3ED4/</guid>
+      <dc:creator>군산=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Oct 2024 08:24:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T5X4KAHM7XED7A6KUMARJ4I6KI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이장호 국립군산대학교 총장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이장호 군산대 총장이 국책사업을 진행하면서 수십억 원 상당의 사업비를 가로챈 혐의로 법정에 선다.&lt;br&gt;&lt;br&gt;전주지검 군산지청은 특정경제범죄 가중처벌 등에 관한 법률 위반(사기) 등 혐의로 이 총장을 불구속기소 했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 이 총장은 지난 2021~2022년 해상풍력연구원장 재직 당시 국책사업인 ‘해상풍력터빈 기술 개발 사업’을 총괄하면서 22억원 상당의 사업비를 편취한 혐의로 기소됐다. 이 총장은 2018∼2019년 공사 수주 등을 대가로 건설업체에 3억원을 요구하고, 연구원 수당 2700만원을 착복한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;해상풍력터빈 기술 개발 사업은 2018년 6월부터 2022년 5월까지 진행될 예정이었지만 2021년 6월 중단됐다. 조사결과 이 총장은 해당 사업이 중단됐음에도 공사가 완료된 것처럼 전산에 등록하는 방법으로 22억원 상당을 편취한 것으로 드러났다.&lt;br&gt;&lt;br&gt;앞서 이 총장은 지난 8월 11일 이 사건과 관련해 구속됐지만, 구속적부심을 통해 석방됐다. 검찰 관계자는 “이 사건은 이 총장을 정점으로 대학 산학협력단에서 국가지원금을 편취하고, 유착관계에 있는 공사업체에 이권 제공을 대가로 뇌물을 약속하는 등 대학의 국가 연구 개발사업과 관련한 구조적인 비리사건이다”며 “죄에 상응하는 형이 선고될 수 있도록 공소 유지에 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>장물 귀금속 연이어 사들인 금은방 주인에 ‘무죄’ 선고한 이유는?</title>
+      <link>https://www.chosun.com/national/regional/2024/10/30/BVFT5U7LPJARBOPDDAQBWNSPKA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/30/BVFT5U7LPJARBOPDDAQBWNSPKA/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Oct 2024 08:20:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OEP23TEMYVH2ZDUPWL7E4R6IAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같은 사람으로부터 다이아몬드, 귀금속 등 수백만 원 상당의 장물을 연이어 사들인 혐의로 기소된 금은방 주인이 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;30일 법조계에 따르면 대전지법 형사4단독 이제승 부장판사는 업무상과실 장물취득 혐의로 기소된 귀금속 전문가 A씨에게 무죄를 선고했다.&lt;br&gt;&lt;br&gt;대전 동구에서 금은방을 운영하는 A씨는 한 여성으로부터 두차례 400만원이 넘는 장물 귀금속을 매입했다가 재판에 넘겨졌다. A씨는 지난해 5월 24일 0.7캐럿 다이아몬드와 14k 귀금속, 18k 귀금속 등 267만원 상당의 귀금속을 사들였다. 이틀 뒤 같은 여성으로부터 또 다른 장물인 0.2캐럿 다이아몬드와 18k 귀금속 등 143만원 상당을 매입했다. 당시 판매자는 A씨에게 ‘부모님의 유품’이라는 취지로 판매 이유를 설명했다고 한다.&lt;br&gt;&lt;br&gt;하지만 이 귀금속은 모두 부산의 한 아파트 가정집에서 도난당한 것들로 뒤늦게 확인됐다.&lt;br&gt;&lt;br&gt;검찰은 A씨가 귀금속의 출처·매각 동기 등을 꼼꼼하게 살펴 장물인지 확인하지 않았고, 매출 대장에 구체적인 수량·중량·품목 등의 정보를 누락하는 등 업무상 주의 의무를 위반했다고 주장했다. 특히 크기가 다른 반지들을 매입할 때 장물일 가능성을 의심할 수 있었던 것으로 검찰은 보고 있다.&lt;br&gt;&lt;br&gt;그러나 법원은 A씨의 과실을 인정하기 어렵다고 판단했다.&lt;br&gt;&lt;br&gt;이 부장판사는 “A씨가 대금 지급시 판매자 이름의 계좌로 1만원을 먼저 입금해 실명을 확인한 후 나머지 대금을 입금했고, 영수증도 발행했다”며 “당시 금 시세에 따라 매입하는 등 현저하게 낮은 금액으로 매입했다는 증거가 없다”고 했다.&lt;br&gt;&lt;br&gt;이어 “임신·출산 과정에서 손가락 굵기가 달라지는 상황이 있기 때문에 반지 크기가 다른 것이 장물로 의심할만한 특별한 사정으로 볼 수는 없다”며 “피고인이 판매자에게 매도 이유 등을 물었지만, 진위를 그 자리에서 확인하기 어려웠을 것”이라고 무죄 선고 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>여교사 성추행에 스토킹까지…중학교 교장 징역 1년에 법정구속</title>
       <link>https://www.chosun.com/national/regional/2024/10/30/JQ6DTY5NV5F4FIJ2XVZCRVSJ7Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/30/JQ6DTY5NV5F4FIJ2XVZCRVSJ7Y/</guid>
@@ -709,36 +811,6 @@
 /김천고 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김천고는 AI 시대에 맞춰 창의적인 문제 해결 능력을 갖춘 인재를 찾고 있다. 고입 면접에서도 급변하는 미래 기술 환경과 인문학적 역량을 함께 갖춘 인재를 선발하기 위해 창의성과 논리력 중심의 면접 문항을 출제한다. 또 김천고는 자기주도적 학습을 강조하고 있다. 부모에게 의존적인 학생보다는 자기주도적 자세를 가진 학생이 김천고가 추구하는 교육프로그램과 잘 어울린다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇2025학년도 신입생 240명 모집&lt;/b&gt;&lt;br&gt;&lt;br&gt;전국단위 자율형 사립고 김천고등학교는 2025학년도 신입생 모집 전형에서 일반전형 185명, 체육특기자(태권도) 7명, 사회통합 48명을 뽑는다. 일반전형은 전국단위 96명과 광역단위(경북) 89명을 구분해 모집한다. 만약 미달될 경우 교차 충원할 예정이다. 국내 우수 학생뿐만 아니라 해외 학생 유치에도 적극 나서고 있다. 현재 8명의 베트남·캄보디아 유학생들이 재학 중에 있고, 2025학년도에는 외국인 유학생 16명을 모집할 계획이다. 내년에는 우즈베키스탄 최우수 학생 모집도 추진하고 있다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇면접으로 부족한 내신 점수 뒤집을 수도&lt;/b&gt;&lt;br&gt;&lt;br&gt;입시 과정에서 1단계에서는 교과 성적과 출결을 합산해 2배수 면접 대상자를 선정한다. 이후 1단계 성적과 면접 점수를 합산해 최종 합격자가 결정된다. 국어·영어·수학·역사·과학을 반영하며, 중학교 2학년 1학기부터 3학년 2학기까지의 성적을 반영한다. 내신 성취도에서 B의 개수가 많을 경우 상황이 달라질 수 있지만, 한두 개 정도의 B는 면접을 통해 충분히 만회할 수 있다고 학교 측은 설명한다. 따라서 면접이 최종 합격에 큰 영향을 미칠 만큼 중요한 요소로 작용한다.&lt;br&gt;&lt;br&gt;김천고의 면접 질문은 개별문항과 공통문항 형태로 나뉜다. 개별문항은 생활기록부, 자기소개서를 토대로 한 면접 질문으로 수험생들은 자신의 생기부와 자소서를 읽어보면서 면접준비를 하면 된다. 공통문항은 대비하기가 까다롭다. 어떤 분야에서 나올지 예상하기 어렵기 때문에 다방면의 독서와 여러 사회현상에 대해 접해보고 깊이 있게 생각해보는 것이 좋다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇2024 대입실적 SKY대학 53명, 의약학계열 32명&lt;/b&gt;&lt;br&gt;&lt;br&gt;김천고는 매년 40~50명의 학생이 소위 ‘SKY 대학교’에 합격하는 성과를 내고 있다. 2024학년도에는 서울대 14명, 연세대 14명, 고려대 25명, 성균관대 30명, 한양대 44명이 합격했다. 의약학 계열에서도 두각을 나타내 의예과 13명, 치의예과 1명, 한의예과 7명, 약학대학 9명, 수의예과 2명 등 총 32명의 합격생을 배출했다. 또한 KAIST 2명, 포스텍 6명, DGIST 6명, GIST 7명, UNIST 6명, KENTECH 8명 등 이공계 특성화 대학교에서도 우수한 진학 실적을 기록했다.&lt;br&gt;&lt;br&gt;학년당 학생 수가 200명 내외인 김천고의 이러한 성과는 이례적인 것으로 평가받고 있다. 이는 학교의 체계적인 프로그램 운영과 교사들의 세심한 진학 지도가 뒷받침된 결과다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6UUWYC56ARHORLAVEEUH3XCW3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;매월 1~2회 시행되는 토요일 마라톤 독서(토마독) 중인 학생들.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CNIWIGBWNFFD5JSOUVZUUN3XW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;학교 급식소인 삼일관에서 식사를 하고 있는 김천고 학생들.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4XN447RRIRFDVMXM57QOVG7YMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘아침밥 상’ 시상식에 대표로 선정된 학생들과 시상자 박윤상 교장.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇체계적인 생기부 관리 시스템과 일대일 입시 컨설팅까지.&lt;/b&gt;&lt;br&gt;&lt;br&gt;김천고는 자율형 사립고로 운영된 14년간의 노하우를 업그레이드해가며 진학 지도를 하고 있다. 김천고는 입시 컨설팅 교사를 지속적으로 양성하며, 학생들과 일대일 입시 컨설팅을 진행하고 있다. 금요일 8·9교시에는 학생이 원하는 교사와 매칭돼 진로 상담이 이뤄진다. 이 과정에서 학생들은 진학을 희망하는 학과를 모색하고, 그에 맞춰 학생부 활동에 대한 맞춤형 컨설팅을 받는다.&lt;br&gt;&lt;br&gt;또 탄탄한 생기부 관리를 통해 학종(학생부종합전형)에서 많은 학생이 대학 진학에 성공, 다른 학교보다 재학생들의 합격 비율이 높다는 것도 김천고의 장점이다.&lt;br&gt;&lt;br&gt;김천고에는 다양한 프로그램이 있지만 그중에서도 독서 프로그램이 학생들의 지적 역량을 키우는 데 큰 역할을 하고 있다. 특히 독서 간판 프로그램인 토마독은 입시로 바쁜 학생들에게 주말 시간을 활용해 오후 1시부터 밤 10시까지 독서에만 몰입하게 하고 있다. 이를 통해 학생들은 창의성과 논리적 사고력을 키워가고 있다. 김천고 학생들이 전국 단위 독서 대회에서 대상 최우수상을 휩쓰는 것은 이런 노력이 빚어낸 결실이다.&lt;br&gt;&lt;br&gt;수시 준비 프로그램뿐만 아니라 정시 대비도 철저히 하고 있다. 야간 특강을 개설해 학습 지도를 하고, 야간 자율학습 시간에는 교사들이 소수 그룹 특강을 진행해 심화 학습을 지원한다. 총 20개 내외의 특강을 개설해 학생들이 자율적으로 참여하도록 이끌고 있다. 또한 3학년 학생들은 매주 미니 모의고사를 통해 실전 감각을 유지할 수 있도록 돕고 있다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇아침 먹이기 작전 ‘아침밥 상’ 도입과 체력 키울 ‘BOA’&lt;/b&gt;&lt;br&gt;&lt;br&gt;“학생들이 건강한 체력을 지녀야 즐겁게 공부할 수 있다. 교훈인 ‘깨끗하게 부지런하게’ 정신을 잘 살려가자”.&lt;br&gt;&lt;br&gt;김상근 재단이사장이 누누이 강조하는 교육 지론이다. 김천고 급식 관계자들은 급식 만족도를 높이기 위해 전국의 다양한 입맛과 학생들이 좋아하는 입맛 트렌드를 지속적으로 연구하고 있다. 또 아침밥을 거르는 학생이 없게 9월부터 아침먹기 캠페인을 시작했다. 학교는 ‘아침밥 상’을 신설해 오전 6시30분~7시20분 사이에 꾸준히 아침 식사를 하는 학생들을 선발, 소정의 부상을 전달하고 있다. 1학년 40명, 2학년 40명, 3학년 20명에게 매월 시상 중이다.&lt;br&gt;&lt;br&gt;김천고는 학생들의 체력 관리를 위해 특별한 프로그램을 운영 중이다. 점심시간 다음인 5교시를 ‘창체(창의적 체험)활동’으로 편성해 2시간여 동안 즐거운 체육 활동을 권장하고 있다. 특히 BOA(Breaktime Outdoor Activity: 일명 보아) 프로그램은 교내에 설치된 안면인식기 16대를 통해 학생들의 체육활동 정보를 축적, 삼품제 및 생활기록부에 남김으로써 학생들의 참여를 독려하고 있다.&lt;br&gt;&lt;br&gt;“잘 교육받은 한 사람이 나라를 바로잡고 동양을 바로잡을 것이다.”&lt;br&gt;&lt;br&gt;100년 전, 당시 전 재산 30만원을 쾌척해 김천고보를 만든 최송설당 여사의 유지였다. 김천고는 창의적 능력을 지닌 학생, 체력이 강한 학생, 바른 인성을 지닌 학생을 길러내 대한민국을 선진국으로 이끌기 위해 최선의 노력을 하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>FIFA 회장 만난 정몽규 “감독 선임 논란 이해 안 된다더라”</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/29/YJ6MRFIWUJDGLEPKSUOCFCYXSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/29/YJ6MRFIWUJDGLEPKSUOCFCYXSQ/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Oct 2024 14:12:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FHAAQZLUQNJXJJXUFAROE2DSK4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;잔니 인판티노 국제축구연맹(FIFA) 회장이 28일 오후 서울 종로구 축구회관을 방문해 정몽규 대한축구협회 회장을 만나 인사를 나누고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정몽규 대한축구협회장은 잔니 인판티노 국제축구연맹(FIFA) 회장이 국내 축구 국가대표팀 감독 선임을 둘러싼 논란에 대해 ‘이해가 잘 안된다’는 반응을 보였다고 전했다. 전날 방한한 인판티노 회장은 “한국축구협회는 잘 운영되고 있다”며 정 회장에게 힘을 실어주는 취지의 발언을 한 바 있다.&lt;br&gt;&lt;br&gt;정 회장은 29일 서울 동대문구 경희대 평화의전당에서 열린 2023 아시아축구연맹(AFC) 시상식에 참석해 취재진을 만나 인판티노 회장과의 대화 내용에 대해 이같이 말했다. 인판티노 회장은 AFC 시상식에 참석차 전날 한국을 방문해 정몽규 회장 등 축구협회 관계자들을 만났다. 인판티노 회장은 당시 취재진과 만나 “대한축구협회는 매우 잘 운영되고 있다. FIFA는 스포츠의 자율성을 중요하게 여기고 있다”고 말한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;현재 축구협회는 홍명보 대표팀 감독 선임 등을 둘러싼 각종 논란 속에 문화체육관광부 감사를 받고 있다. FIFA는 지난달 29일 축구협회가 문체부와 국회 문화체육관광위원회로부터 여러 의혹을 추궁받는 상황을 주시하고 있다는 내용의 공문을 발송한 바 있다. 이 공문에서 FIFA 정관을 언급하며 ‘외부 간섭을 받으면 제재가 가해질 수 있다’는 점을 시사한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;정 회장은 “제가 여러 가지로 잘 설명해 드렸다. 감독 선임에 관해선 FIFA에서도 보고를 많이 하긴 했는데, ‘잘 이해가 안 된다’는 말씀을 많이 하셨다”며 “있는 그대로 설명해 드렸는데 ‘결국에는 축구협회장의 책임 아니냐’고 얘기하셨다”고 전했다. 인판티노 회장의 전날 발언 취지에 대해선 “한국에서 일어나는 것에 대해 잘 이해하시는 것 같고, FIFA에서 미디어에 나오는 것들을 모니터하는 것 같다. 그래서 말씀이 나오지 않았나 생각된다”고 했다.&lt;br&gt;&lt;br&gt;이어 ‘국회 종합감사에서 설명이 더 필요했던 부분이 있었나’라는 질문엔 “(국회에서) 너무 현미경으로 다 본 것 같다”며 “크게 보면 전력강화위원회에서 (감독 후보를) 추천했고 저희가 적절한 조치를 해서 임명을 했는데, 너무 현미경으로 쳐다보고 하시지 않았나 하는 아쉬움이 있다”고 했다.&lt;br&gt;&lt;br&gt;인판티노 회장과의 만남에 대해선 “천안축구센터에 관해 설명해 드렸는데 감격하신 것 같다. 천안과 우리나라 정부에서 좋은 모델을 만들었다고 말씀해주셨다”며 “다 되면 다른 나라에도 이 모델에 대해 소개하겠다 하셨다. 인상 깊으셨던 것 같다”고 전했다.&lt;br&gt;&lt;br&gt;한편, 이날 열린 2023 AFC 시상식에서는 한국 축구 국가대표팀 주장 손흥민(토트넘)이 통산 4번째로 ‘올해의 국제 선수상’을 받았다. 여자 20세 이하(U-20) 대표팀의 박윤정 감독은 ‘올해의 여자 지도자상’을 받았다. 이 부분에선 2010년 여자 U-17 대표팀의 김태희 코치에 이어 두 번째 수상이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>청주서 50대 남성이 60대 흉기로 공격 후 도주</title>
-      <link>https://www.chosun.com/national/incident/2024/10/29/3B5DCVA22FCTPCLANA4GADMTSA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/29/3B5DCVA22FCTPCLANA4GADMTSA/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Oct 2024 13:47:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W4KTVTHXGRJJBGHUE6QYC34NVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 청주흥덕경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주의 실직자 지원센터에서 한 입소자가 동료에게 흉기를 휘두르고 달아나 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;청주 흥덕경찰서는 50대 남성 A씨를 추적 중이라고 29일 밝혔다. A씨는 이날 오후 6시 54분쯤 흥덕구 신봉동의 한 실직자 지원센터에서 함께 방을 쓰던 60대 B씨를 흉기로 공격하고 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 지난 28일 센터에 입소한 뒤 B씨의 방에 배정됐지만 B씨와 크게 다툰 뒤 입소 당일 자진 퇴소했다.&lt;br&gt;&lt;br&gt;이후 A씨가 흉기를 들고 센터를 다시 찾아와 B씨를 공격한 것으로 경찰은 보고 있다. B씨는 A씨를 피해 길거리로 나왔다 쓰러진 뒤 행인에게 발견돼 병원으로 옮겨져 치료를 받고 있다. B씨는 생명이 위독한 상태는 아닌 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 방범카메라 등을 통해 A씨를 추적 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>양산 도심 휘저은 ‘공포의 멧돼지’...1시간 만에 사살</title>
-      <link>https://www.chosun.com/national/incident/2024/10/29/RNFRMHR5CFDODHE4ELWB2TSCWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/29/RNFRMHR5CFDODHE4ELWB2TSCWM/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Oct 2024 11:08:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2Z33J2MPFNGNKYHMPLAYX43VE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 29일 오후 경남 양산시 동면 부산도시철도 2호선 호포역에 멧돼지가 출몰해 1명이 다치고, 역사 내 시설물이 파손됐다. 사진은 호포역에서 난동을 피우다 사살된 멧돼지/경남소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 양산시에서 멧돼지가 음식점과 지하철역에 출몰해 30대 남성이 다치고 시설물이 파손됐다.&lt;br&gt;&lt;br&gt;29일 경남소방본부에 따르면 이날 오후 4시 45분쯤 양산시 동면 한 음식점 인근에 멧돼지가 나타났다. 몸길이 1.5m에 무게 100kg인 이 멧돼지는 8차선 도로를 질주해 부산도시철도 2호선 호포역 2층으로 들어섰다.&lt;br&gt;&lt;br&gt;역사 내를 뛰어다니던 멧돼지는 3층 화장실에 있던 30대 남성 A씨의 오른팔을 수차례 물었고, 4층 도시철도 고객센터 유리문을 박살냈다. A씨는 팔에 상처를 입고 병원으로 옮겨졌으며 생명엔 지장이 없는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PT44BCVAU5GX3BU3ZZR2LFDGYI.gif"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오후 경남 양산시 동면 부산도시철도 2호선 호포역에 멧돼지가 출몰했다. /경남소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신고를 받은 경찰은 5층 승강장에서 멧돼지를 몰아넣어 움직임을 막았고, 이후 오후 5시 43분쯤 전문 엽사가 멧돼지를 사살했다.&lt;br&gt;&lt;br&gt;경찰은 도심에 멧돼지가 출몰한 원인 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/PT44BCVAU5GX3BU3ZZR2LFDGYI.gif?width=800&amp;height=450&amp;auth=54807edc6ad54b4fc50e441a51ea3005effa4037b9d11831ef1303a3bf7dc02c&amp;smart=true" type="image/jpeg" height="450" width="800">
-        <media:description type="plain">29일 오후 경남 양산시 동면 부산도시철도 2호선 호포역에 멧돼지가 출몰했다. /경남소방본부</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>임현택 의협 회장 탄핵 여부, 다음달 10일 결정</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/10/29/F22PFRTLKJAIXEXRLTIIOWONIM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/29/F22PFRTLKJAIXEXRLTIIOWONIM/</guid>
@@ -748,24 +820,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7AMI7APWIBIC7IH7KMCTHRHKXY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;임현택 대한의사협회 회장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임현택 대한의사협회(의협) 회장의 탄핵 여부가 다음달 10일 결정된다.&lt;br&gt;&lt;br&gt;의협 대의원회 운영위원회는 29일 저녁 긴급 회의를 열고 임 회장 불신임(탄핵) 및 비상대책위원회(비대위) 설치 안건 등을 내달 10일 임시 대의원 총회에서 표결에 부치기로 했다.&lt;br&gt;&lt;br&gt;이날 투표 대상이 되는 안건은 재적 대의원 3분의 1 이상 발의에 따른 회장 불신임의 건, 재적 대의원 4분의 1 이상 발의에 따른 비대위 구성의 건이다. 조현근 의협 대의원 등 103명은 지난 24일 의협 운영위원회에 해당 안건 처리를 위한 임시 총회 소집을 요청했다.&lt;br&gt;&lt;br&gt;의협 회장 탄핵안은 총회에서 재적 대의원 246명 가운데 3분의 2(164명) 이상이 참석하고, 참석 대의원 가운데 3분의 2가 찬성하면 가결된다. 재적 대의원의 3분의 2가 참석할 경우, 110명이 찬성하면 탄핵안이 가결되는 것이다.&lt;br&gt;&lt;br&gt;임 회장은 정부의 의대 증원 정책과 관련한 미흡한 대응, 간호법 국회 통과, 연이은 막말 논란 등으로 코너에 몰렸다는 평가를 받았다. 자신에 대한 비방글을 올린 지역의사회 임원을 고소하고, 취하 조건으로 1억원을 요구한 사실까지 알려져 논란이 커졌다.&lt;br&gt;&lt;br&gt;의료계 일각에서는 임 회장에 대한 탄핵안이 가결되고, 비대위 체제로 전환되면 의정 갈등 해소에 속도가 붙을 것이라는 전망도 나온다. 반면 현 의협 집행부는 비대위 체제로 전환하면 오히려 혼란이 더 커질 것이라고 주장하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>내장산 케이블카 급정거에 운행 중단...70대 남성 부상</title>
-      <link>https://www.chosun.com/national/incident/2024/10/29/UZMOG4FJV5GCTK6U67ZBJQ5ZK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/29/UZMOG4FJV5GCTK6U67ZBJQ5ZK4/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Oct 2024 13:17:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KSVQYCHDCVFZVBPX7HI67ATCIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/내장산개발주식회사 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 정읍시의 내장산에서 케이블카가 급정거해 탑승객이 다쳤다.&lt;br&gt;&lt;br&gt;29일 정읍소방서 등에 따르면 이날 오전 10시 37분쯤 내장산 케이블카가 운행 중 갑자기 멈췄다. 이 사고로 케이블카에 타고 있던 70대 남성 A씨가 허리 통증 등을 호소해 인근 병원으로 이송됐다. 사고 당시 상행 케이블카엔 37명, 하행 케이블카엔 20명이 타고 있었다. A씨 외에도 일부 승객들이 가벼운 타박상을 입은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;사고 이후 내장산 케이블카 운영사 측은 홈페이지를 통해 30일까지 케이블카 운행을 중단한다고 공지했다.&lt;br&gt;&lt;br&gt;국립공원공단 내장산국립공원사무소는 브레이크 고장을 원인으로 보고 정확한 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“한달 월급으로는...” 산후조리원 일반실도 2주 평균 346만원</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/10/29/BQK5CFWXVJBXTG42VMV5JOMI7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/29/BQK5CFWXVJBXTG42VMV5JOMI7Y/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Oct 2024 11:52:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JMVTNJ56OFCARIQ3MNZMN5BRW4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;산후조리원. 기사 내용과 무관한 사진. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;많은 여성이 출산 후 이용하는 산후조리원 비용이 1년 만에 10% 가까이 증가한 것으로 나타났다.&lt;br&gt;&lt;br&gt;29일 보건복지부가 발표한 ‘전국 산후조리원 현황’에 따르면, 올해 6월 기준 전국 산후조리원 452곳 가운데 일반실을 운영하는 445곳의 2주 평균 이용료는 346만7000원으로 집계됐다. 작년 6월(319만9000원)보다 8.4% 증가했다.&lt;br&gt;&lt;br&gt;산후조리원은 보통 특실과 일반실을 갖추고 있다. 전국에서 일반실 비용이 가장 비싼 곳은 서울 강남구 삼성동의 A 산후조리원으로 1700만원(2주 기준)이었다. 가장 싼 곳(90만원)의 19배였다. 이 밖에도 1000만원 넘는 곳은 대부분 서울 강남구에 있었다.&lt;br&gt;&lt;br&gt;특실이 있는 산후조리원 332곳의 특실 평균 비용은 504만4000원이었다. 지난해 6월(451만3000원) 대비 11.8% 증가했다. 가장 비싼 곳은 4020만원이 드는 서울 강남의 B 산후조리원이다.&lt;br&gt;&lt;br&gt;산후조리원은 출산한 산모가 건강을 회복하는 장소다. 2021년 보건복지부 조사에서 산모 10명 중 8명이 이용할 정도로 ‘출산 필수 시설’이다. 그런데 산후조리원 2주간 비용이 수백~수천만원으로 천정부지로 오르자 정부는 산모들의 경제적 부담을 줄이기 위해 공공 산후조리원을 운영하기 시작했다. 지난 6월 기준 공공 산후조리원의 일반실 평균 이용료는 175만1000원으로 민간 산후조리원(355만2000원)의 절반 수준이다.&lt;br&gt;&lt;br&gt;그런데 지자체가 운영하는 공공 산후조리원은 21곳으로, 전국 산후조리원 452곳 가운데 5%에 불과한 것으로 나타났다. 공공 산후조리원이 전혀 없는 지자체도 있다. 부산, 대구, 인천, 광주, 대전, 세종, 충북, 전북 등 여덟 지역엔 공공 산후조리원이 없다. 이 지역 산모들은 인근 도시로 ‘원정 산후 조리’를 가는 불편을 겪기도 한다.&lt;br&gt;&lt;br&gt;정부는 ‘산후조리원 평가제’ 도입을 계획하고 있다. 보건복지부 관계자는 “산모들이 가격 대비 서비스 질을 판단할 수 있도록 산후조리원이 산모와 신생아에게 안전하고 질 높은 서비스를 제공하고 있는지 점검하는 시스템 도입을 준비 중”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>막말에 1억 요구 논란까지...임현택 의협 회장, 내달 10일 탄핵 표결</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/10/29/F7Q7M5XDVRGSLL3DJCLI3DJBKM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/29/F7Q7M5XDVRGSLL3DJCLI3DJBKM/</guid>
@@ -773,15 +827,6 @@
       <description/>
       <pubDate>Tue, 29 Oct 2024 11:42:37 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VZYSQWPADJI7JHTSF7EGPRBHSU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;임현택 대한의사협회장이 지난 16일 오후 서울 종로구 서울대병원 암연구소 이건희홀에서 진행된 고등교육기관의 평가·인증 등에 관한 규정 개정안에 대한 한국의학교육평가원 입장 기자회견에서 안덕선 한국의학교육평가원장의 입장문 발표를 듣고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임현택 대한의사협회(의협) 회장이 취임 반년 만에 탄핵 위기에 놓였다.&lt;br&gt;&lt;br&gt;의협 대의원회 운영위원회는 29일 임 회장 불신임(탄핵) 및 비상대책위원회(비대위) 설치&lt;b&gt; &lt;/b&gt;안건 등을 표결에 부칠 임시 대의원 총회 일정을 결정하는 회의를 열었다. 조현근 의협 대의원 등 103명은 지난 24일 의협 운영위원회에 이 같은 내용의 임시 총회 소집을 요청했다. 임시 총회 날짜는 준비 기간 등을 감안해 내달 10일이 될 것으로 보인다&lt;b&gt;.&lt;/b&gt;&lt;br&gt;&lt;br&gt;의협 회장 탄핵안은 총회에서 재적 대의원 246명 가운데 3분의 2(164명) 이상이 참석하고, 참석 대의원 가운데 3분의 2가 찬성하면 가결된다. 재적 대의원의 3분의 2가 참석할 경우, 110명이 찬성하면 탄핵안이 가결되는 것이다.&lt;br&gt;&lt;br&gt;지난 5월 취임한 임 회장은 최근 의대 증원 정책과 관련한 미흡한 대응, 간호법 국회 통과, 연이은 막말 논란 등으로 코너에 몰렸다는 평가를 받고 있다. 최근에는 임원진 단체 대화방에 임 회장에 대한 비방 글을 올린 지역의사회 임원을 고소하고, 취하 조건으로 임원에게 1억원을 요구한 사실까지 알려져 논란이 일었다.&lt;br&gt;&lt;br&gt;일부 의사들은 공개적으로 임 회장 등 의협 집행부의 사퇴를 촉구했다. 권용진 서울대병원 공공진료센터 교수는 이날 페이스북에 글을 올려 “의사를 대표한다는 의협은 (의사들이) 회원이라 말하기 창피할 정도로 품위가 없고 경망스럽다”며 “집행부는 모두 사퇴하고 비상대책위원회로 전환해야 한다”고 했다.&lt;br&gt;&lt;br&gt;의료계 일각에서는 비대위 체제로 전환되면 의정 갈등 해소가 속도를 낼 수 있을 것이라는 전망도 나온다. 박단 대한전공의협의회 비상대책위원장과 대립해 온 임 회장이 물러나면 전공의들도 의협과의 대화에 참여할 것이고, 통일된 의견을 바탕으로 정부와 협상할 수 있을 것이라는 이야기다.&lt;br&gt;&lt;br&gt;반면 현 의협 집행부는 비대위 체제로 전환하면 오히려 혼란이 더 커질 것이라고 주장한다. 의협 집행부 관계자는 “의정 갈등 사태를 해결할 책임이 의협에 있는데, 회장이 탄핵되고 비대위 체제로 가면 내년 3월까지 혼돈이 이어질 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>감사원 “금감원, 백내장 실손보험금 분쟁 62% 시비 가리지 않고 임의 종결”</title>
-      <link>https://www.chosun.com/politics/goverment/2024/10/29/KRNGNSZO4JBDDPTKOQZYAF67YQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2024/10/29/KRNGNSZO4JBDDPTKOQZYAF67YQ/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Oct 2024 10:36:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PDAEBNEC2NGUJIJNPBMTNGAV3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;감사원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;실손의료보험 가입자가 백내장 수술을 받았는데도 보험사가 보험금을 지급하지 않아 금융감독원으로 들어온 분쟁 조정 신청 4400건을 금감원이 시비를 가리지 않고 임의로 종결 처리한 것으로 드러났다. 쌓여 있는 신청 건수가 많다는 이유에서였다.&lt;br&gt;&lt;br&gt;감사원이 29일 공개한 ‘금융감독원의 백내장 실손보험금 지급 분쟁 조정 업무 처리 관련’ 감사 보고서에 따르면, 백내장은 한 차례 수술에 700만원 이상의 비용이 필요하고, 실손의료보험 가입자는 백내장 수술 후 자신이 부담한 비용을 보험사에 청구하고 있다.&lt;br&gt;&lt;br&gt;그런데 보험사가 백내장 수술에 대한 보험금 지급 심사를 강화하면서, 보험금 지급이 거절되는 경우가 늘었다. 이에 따라 금감원에 접수되는 백내장 보험금 지급 관련 분쟁 조정 신청도 크게 늘었다. 2019년부터 지난해까지 5년간 접수된 신청이 7080건에 달했고, 이는 같은 기간 금감원에 접수된 분쟁 가운데 가장 비중이 큰 것이었다.&lt;br&gt;&lt;br&gt;백내장 보험금 지급을 둘러싸고 보험 가입자와 보험사 간에 벌어진 분쟁은 백내장 수술을 하는 것이 적정했는지, 입원 치료를 할 필요가 있었는지 등이 쟁점인 경우가 대다수로, 의학 전문가의 객관적인 평가가 필요한 것들이었다.&lt;br&gt;&lt;br&gt;금감원이 이런 사건들을 어떻게 처리했는지 감사원이 확인해 보니, 금감원은 보험사가 보험금 지급에 동의하지 않는 경우, 전문가 자문 등의 절차를 거치지 않고 사건을 종결 처리해버리고 있었다.&lt;br&gt;&lt;br&gt;백내장 보험금 분쟁 사건은 2022년 폭증해, 그해 1~10월에만 4067건이 금감원이 접수됐고, 이는 전년도 302건에 비해 약 13.5배로 늘어난 것이었다. 당시 금감원이 처리 중이던 실손보험 분쟁의 절반이 백내장 보험금 분쟁이었다.&lt;br&gt;&lt;br&gt;그러자 금감원은 2022년 11월 ‘계량 지표를 활용한 백내장 분쟁 일괄 신속 처리 방안’이라는 내부 방침을 만들었다. 이 방침은 ‘환자 눈 수정체의 혼탁 정도가 중증인 경우’ ‘환자가 60세 이상인 경우’ ‘환자의 백내장 수술 전 교정시력이 0.8 미만인 경우’ 등에 한해서 보험사에 보험금 지급을 권고한다는 것이었다. 이런 경우는 그동안 보험사들이 보험금 지급 권고를 받아들여 온 범위에 해당하는 것이었다.&lt;br&gt;&lt;br&gt;문제는 금감원이 이 범위에 들어오지 않는 사건의 경우에는 모두 종결 처리하기로 했다는 것이다. 금감원은 각 사건 환자가 실제로 백내장 수술을 받아야 하는 사람이었는지를 의학 전문가를 통해 따져보지 않고 사건을 종결했고, 그 결과로 보험사들은 보험금 지급 부담을 덜었다. 이런 사건 환자들은 따로 노력을 기울여 보험사와 별도로 합의하지 못하면, 소송을 통하지 않고는 보험사로부터 보험금을 받아낼 길이 사라져버렸다.&lt;br&gt;&lt;br&gt;2022년 6월 대법원은 실손의료보험에 가입한 백내장 환자에 대해 보험사가 보험금을 지급하는 경우, 일괄적으로 입원 치료를 받은 것으로 인정해 고액의 보험금을 지급하는 관행을 깨는 취지의 판결을 했다. 이에 따라 이듬해부터는 ‘백내장 수술을 받았더라도, 입원할 필요까지 있었는지’가 백내장 보험금 분쟁 사건 대다수의 쟁점이 됐다.&lt;br&gt;&lt;br&gt;그러자 금감원은 ‘환자가 병원에 6시간 이상 체류했고, 백내장 수술로 출혈, 안압 상승 등 주요 합병증·부작용이 발생한 것으로 확인된 경우’에 한해 보험사에 보험금 지급을 권고했다. 그러면서 환자가 제출한 자료만으로는 입원 치료가 필요했는지가 명확하지 않아 추가 조사가 필요한 사건들은 또 일률적으로 종결해버렸다.&lt;br&gt;&lt;br&gt;그 결과, 금감원은 2019년부터 지난해까지 5년간 접수된 백내장 보험금 분쟁 사건 7080건 가운데 4400건(62.1%)에 대해, 사실 관계 확인이나 의학 전문가 자문 등의 절차를 거치지 않고 임의로 종결 처리한 것으로 드러났다.&lt;br&gt;&lt;br&gt;감사원은 “금감원이 (사건을 종결하면서) ‘제3 의료기관에 자문하라고 권고’ ‘주치의 면담을 권고’ 등의 용어를 사용하고 있으나, 실상은 금감원이 직접 사실 관계를 확인하는 등의 조치 없이 문제 해결을 신청인 등에게 전가하고 있다”고 지적했다.&lt;br&gt;&lt;br&gt;감사원은 “금감원이 분쟁 조정 담당 부서의 판단과 결정만으로 사건을 내부 종결해, 금융 소비자 보호의 실효성과 금융 분쟁 조정 제도의 공신력이 저하되는 결과를 초래했다”고 비판했다.&lt;br&gt;&lt;br&gt;감사원은 금감원이 일본뇌염, 유방암 등의 질병에 대한 보험금 분쟁에서는 의사·변호사·교수 등 전문가 조언을 받고 관련 판례와 결정례 분석을 통해 의학적 쟁점에 관한 사실 관계를 확정했고, 이를 바탕으로 분쟁 조정 신청인의 주장을 인용할지, 기각할지를 검토해 금융분쟁조정위원회에 회부했으며, 금융분쟁조정위원회가 이를 바탕으로 심의·의결을 했다는 점을 지적했다.&lt;br&gt;&lt;br&gt;감사원은 금감원에 백내장 보험금 분쟁 사건에 대해서도 이런 절차를 거치라는 취지로, “금융분쟁조정위원회 회부 대상 선별 기준 마련 등 실손보험금 관련 분쟁 조정의 실효성을 제고할 방안을 마련하라”고 통보했다.&lt;br&gt;&lt;br&gt;금감원은 감사 결과를 받아들이면서 “백내장 관련 분쟁처럼 단기간에 다수의 분쟁이 집중된 경우, 소비자 피해를 신속하게 구제할 수 있도록 합리적인 분쟁 처리 기준을 마련하고, 이에 대해 금융분쟁조정위원회의 심의·의결을 받겠다”고 밝혔다고 감사원은 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>법정으로 간 ‘연세대 논술 유출’... 효력정지 두고 법정 공방</title>
@@ -800,15 +845,6 @@
       <description/>
       <pubDate>Tue, 29 Oct 2024 11:24:57 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3MGTBBOYI4ZYZDU5LCWFSREBPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지방검찰청의 모습. 기사 내용과 무관한 사진. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;회식 중 후배 남자 검사를 추행한 여성 검사, 소속 부원들에게 성차별적 발언을 한 부장검사 등이 법무부에서 정직 등의 징계 처분을 받았다.&lt;br&gt;&lt;br&gt;법무부는 지난 23일 부산지검 A 검사에게 정직 1개월의 징계 처분을 내렸다고 29일 밝혔다. A 검사는 창원지검 재직 시절인 작년 2월, 평검사 인사 이동을 앞두고 열린 회식 자리에서 다른 부서 소속인 남자 후배 검사의 특정 신체 부위를 접촉했다. 당시 피해자는 초임 검사였던 것으로 알려졌다. 인권·명예보호 전담부인 형사 1부에서 근무하던 A 검사는 이 일 직후 다른 부서로 발령 났다. 성 비위 의혹의 당사자가 인권 관련 업무를 수행하는 것이 부적절하다는 이유였다.&lt;br&gt;&lt;br&gt;법무부는 또 지난해 9~12월 회식 중 술에 취해 소속 부원들에게 부적절한 언행을 한 광주지검 B 검사에게도 최근 정직 6개월의 징계 처분을 내렸다. B 검사는 수원지검 안산지청 부장검사로 근무할 당시, 회식 자리에서 한 부원에게 “내가 인사 고과 최고 등급을 줬으니 앞으로 잘하라”며 인사 평가 결과를 공개하고, 다른 부원에게는 “너는 애 딸린 유부녀가 좋으냐”고 하는 등 수차례 부적절한 발언을 한 것으로 전해졌다. 당시 회식에 참석했던 후배 검사들은 현장에서 부적절한 발언에 항의했다고 한다. B 검사는 현재 부장검사에서 강등돼 부부장으로 근무 중이다.&lt;br&gt;&lt;br&gt;지난해 1∼6월 육아시간 사용을 승인받은 뒤, 육아가 아닌 다른 목적으로 시간을 사용한 의정부지검 C 검사는 정직 4개월의 징계를 받았다. 또 2016년 12월 교수와 조교의 도움을 받아 작성된 논문을 자신의 박사과정 예비심사용 논문으로 발표한 수원지검 성남지청 D 검사는 견책 처분을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아직도 붉지 않은 내장·두륜·한라산... 전국 ‘지각 단풍’ 속출</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/10/29/UEMNMHD4LRB2NNOIYC7TH7RXXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/10/29/UEMNMHD4LRB2NNOIYC7TH7RXXY/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Oct 2024 11:31:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ENAHVYDOB5JKZOEXC5A47NZIWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;완연한 가을 날씨를 보이는 지난 16일 오전 제주 한라산 관음사 코스 장구목 풍경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10월 말이 닥쳤는데도 전국 대부분 지역에서 단풍이 아직 절정에 이르지 못하고 있다. 올해 늦더위 때문에 단풍이 물드는 시기가 한 달 정도 늦어진 여파로 분석된다. 남부 지방에는 아직 단풍이 시작조차 안 된 곳도 있다.&lt;br&gt;&lt;br&gt;29일 기준 기상청이 단풍 현황을 발표하는 전국 21개 유명 산 가운데 단풍이 절정에 이른 곳은 강원 오대산과 전북 덕유산 단 2곳뿐인 것으로 나타났다. 단풍의 절정은 산림의 80%가 단풍으로 물들었을 때를 뜻한다. 기상청은 본래 올해 단풍의 절정이 지역별로 10월 20일부터 11월 5일 사이 대체로 찾아올 것으로 예상했는데, ‘지각 단풍’이 속출하고 있는 것이다.&lt;br&gt;&lt;br&gt;단풍 명소로 꼽히는 전북 내장산은 원래 11월 5일에 단풍이 절정에 이를 것으로 예상됐지만, 아직 단풍이 시작도 안 했다. 보통 산림의 20% 이상 물들어야 단풍이 시작된 것으로 본다. 전남 두륜산도 본래 11월 11일 절정으로 예상됐지만, 속도로는 그때 절정을 맞기 힘들 것으로 보인다.&lt;br&gt;&lt;br&gt;우리나라에서 단풍 절정이 가장 빠르게 나타나는 설악산도 당초 10월 20일이 절정으로 예상됐지만, 기상청 관측 결과 단풍 시작일은 10월 21일이었다. 경남·전남·전북에 걸쳐있는 지리산도 10월 23일이 절정 예상 시기였는데, 10월 25일이 돼서야 산림의 20%가 단풍으로 물들었다. 해발 고도가 높아 남부 지방보다 단풍 절정이 일찍 찾아오는 제주 한라산 역시 절정으로 예고된 10월 28일이 지났지만 여전히 초록잎이 대부분이다.&lt;br&gt;&lt;br&gt;올해 이렇게 단풍이 옷을 늦게 갈아입은 것은 여름이 끝나고도 한동안 늦더위가 이어졌기 때문이다. 단풍은 통상 9월 말~10월 초부터 물들기 시작해 최저기온이 섭씨 5도 아래로 내려가는 10월 중순부터 빠른 속도로 물든다. 그런데 올해는 9월 더위 여파가 커 단풍이 익을 시간이 줄어들었다.&lt;br&gt;&lt;br&gt;내장산이 있는 전북 정읍의 경우 지난 9월과 10월의 평균 최저기온이 각각 21.8도와 12.2도였다. 기상학적으로 가을 시작일은 ‘일 평균기온이 20도 아래로 내려가 다시 올라가지 않는 첫날’을 뜻하는데, 정읍은 9월까지 계속 여름이었던 셈이다. 지난 21일에야 일 최저기온이 10도 아래로 떨어졌지만, 아직 단풍이 물들기 시작한다는 ‘섭씨 5도’ 아래로 내려간 적이 올가을 들어 한 번도 없었다.&lt;br&gt;&lt;br&gt;기상청은 다음 달 4~8일 사이 한반도 기온이 최저 1~14도까지 떨어질 것으로 내다봤다. 이에 따라 전국에서 단풍이 절정에 이르는 시기도 11월 중순이 돼야 올 것으로 보인다.&lt;br&gt;&lt;br&gt;아열대 기후에 가까워진 남부 지방은 ‘지각 단풍’조차 제대로 보지 못할 것으로 보인다. 단풍이 알록달록하게 물들기 전에 겨울이 찾아와 초록잎 상태로 낙엽이 될 가능성이 크기 때문이다. 갈수록 단풍을 즐길 시기가 짧아지고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>트럭 적재함에서 불...서부간선 지하도로 한때 통제</title>
@@ -845,15 +881,6 @@
       </media:content>
     </item>
     <item>
-      <title>허위 진료기록부 작성해 수억대 보험금 타낸 병원 의사 구속 송치</title>
-      <link>https://www.chosun.com/national/incident/2024/10/29/4NOMBTUIS5FQRBGLMJR75ANYZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/29/4NOMBTUIS5FQRBGLMJR75ANYZA/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Oct 2024 10:57:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CP4RUWJTWMYV6ZFGNCQBHLA2UI.png"&gt;&lt;figcaption&gt;&lt;small&gt;부산 남부경찰서/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;진료기록부를 허위로 작성해 8억 상당의 보험금을 부정 수급한 혐의로 부산의 한 병원 의사가 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;부산 남부경찰서는 보험사기방지특별법 위반 등 혐의로 의사 A씨를 구속 송치했다고 29일 밝혔다. 경찰은 A씨 외에도 간호사와 상담실장, 환자 등도 수사 중이다.&lt;br&gt;&lt;br&gt;A씨는 지난 2021년부터 작년까지 미용 시술을 한 뒤, 진료기록부엔 치료 목적의 진료를 한 것으로 기록해 보험금을 부정 수급한 혐의를 받고 있다. A씨 병원의 환자들은 이 진료기록을 바탕으로 보험사에 실손 보험금을 타냈다. 경찰은 부정 수급된 보험금만 8억원에 달하는 것으로 보고 있다.&lt;br&gt;&lt;br&gt;이 사건은 금융감독원이 경찰에 수사를 의뢰하면서 드러났다. A씨는 경찰 조사에서 혐의를 부인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “수사를 진행 중인만큼 피해금액이 더 늘어날 것으로 보고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>민희진, 어도어 대표 재선임 불발…하이브 상대 가처분 각하</title>
       <link>https://www.chosun.com/national/court_law/2024/10/29/5FAGGCEY6NG2DJDCNLFOKLZYKY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/29/5FAGGCEY6NG2DJDCNLFOKLZYKY/</guid>
@@ -861,24 +888,6 @@
       <description/>
       <pubDate>Tue, 29 Oct 2024 08:50:34 +0000</pubDate>
       <content:encoded>걸그룹 뉴진스를 배출한 민희진 어도어 전 대표가 모회사 하이브에 자신을 다시 대표이사로 선임해달라는 가처분 신청을 냈지만 법원이 받아들이지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XRG5UHJFIHQRZDASJ4O6XGYJKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민희진 어도어 전 대표 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 민사50부(재판장 김상훈)는 29일 민 전 대표가 하이브를 상대로 낸 이 같은 가처분 신청을 각하했다. 각하는 소송의 형식적 요건을 갖추지 못해 사건을 심리 없이 끝내는 것을 뜻한다.&lt;br&gt;&lt;br&gt;재판부는 “(가처분) 신청의 이익이 없어 부적법하다”며 “피보전권리에 대한 소명도 부족하다”고 설명했다.&lt;br&gt;&lt;br&gt;민 전 대표는 작년 3월 하이브와 체결한 주주 간 계약에 따라 하이브 측 사내이사 3명에게 자신의 대표이사 선임 안건에 찬성하도록 지시해야 한다는 취지로 주장했다. &lt;br&gt;&lt;br&gt;이 계약은 “하이브는 민희진이 2021년 11월 2일부터 5년 동안 어도어 대표이사 직위를 유지할 수 있도록 하이브가 지명한 이사가 의결권을 행사하도록 하는 등 필요한 조처를 해야 한다”는 것이다.&lt;br&gt;&lt;br&gt;그러나 재판부는 “하이브가 (현 하이브의) 이사들에게 신청 내용과 같은 업무집행을 지시하더라도 이사들은 독립적으로 안건에 관한 찬반 여부를 판단·결정해야 한다”며 “이사들이 하이브의 지시에 따라야 할 법적 의무를 부담하지 않아 신청의 이익이 없다”고 가처분을 기각했다.&lt;br&gt;&lt;br&gt;앞서 하이브는 지난 4월 ‘경영권 탈취 시도’를 내세워 어도어 경영진에 대한 감사에 착수, 임시주총을 통해 민 당시 대표의 해임을 추진했다. 하지만 민 전 대표의 가처분이 법원에서 인용돼 제동이 걸렸다.&lt;br&gt;&lt;br&gt;이후 어도어 이사회를 재편한 하이브는 지난 8월 민 전 대표를 해임한 뒤, 김주영 사내이사를 새로운 대표로 선임했다. 이에 반발한 민 전 대표는 지난달 13일 임시주주총회 소집과 사내이사 재선임을 청구하는 가처분 신청을 법원에 재차 냈다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>10억대 전세 보증금 가로채 달아난 일당…검찰 송치</title>
-      <link>https://www.chosun.com/national/incident/2024/10/29/BZJL6J7BWVDH3EZG2YEHQYPMCI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/29/BZJL6J7BWVDH3EZG2YEHQYPMCI/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Oct 2024 09:47:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVVE6P376C5SBHUCG7AOGLBTME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 서부경찰서. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천과 경기지역 오피스텔 임차인들로부터 10억 원대 전세 보증금을 받아 가로채 달아난 2명이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;인천 서부경찰서는 사기 혐의로 20대 남성 A씨 등 2명을 구속해 검찰에 송치했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 3월 인천시 서구와 경기도 화성시 지역 오피스텔에 입주한 임차인 8명의 보증금을 가로채 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이들이 가로챈 보증금은 총 14억 원 규모인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨 등은 지난해 말부터 자기자본 없이 임차인의 전세 보증금 등으로 오피스텔을 매입하는, 이른바 ‘무자본 갭투자’ 방식으로 범행한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 지난 3월 이 사건 피해자로부터 고소장을 접수하고 수사에 나서 최근 대구 등지에서 A씨 등을 붙잡았다. 경찰은 또 A씨 등의 도피를 도운 B씨 등 2명을 범인 도피 혐의로 불구속 입건해 검찰에 송치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘3년 공백기’ 최강희 “알바로 月140만원 벌어…자신감·힐링 얻었다”</title>
-      <link>https://www.chosun.com/national/people/2024/10/29/EY6QGHYRGRHAPFQ7EWCBBB6ULM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/10/29/EY6QGHYRGRHAPFQ7EWCBBB6ULM/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Oct 2024 09:42:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HF7ZURVG3NDUJN737PPAEJSQ2A.png"&gt;&lt;figcaption&gt;&lt;small&gt;배우 최강희. /KBS 아침마당 방송화면 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 3년간의 공백기를 깨고 유튜브 등에 출연하며 활동을 재개한 배우 최강희가 공백기 동안 설거지와 가사도우미 등 아르바이트를 하며 자신감을 얻게 됐다고 밝혔다. &lt;br&gt;&lt;br&gt;최강희는 29일 KBS ‘아침마당’에 출연해 “요즘 너무 바빠졌다. 방송도 하고 유튜브도 하고 라디오도 매일 생방송 하고 있다”며 “불러주는 곳이 많아졌다. 제1의 전성기라고 할 만큼 바쁘다”며 근황을 전했다. &lt;br&gt;&lt;br&gt;최강희는 긴 공백기를 가진 이유에 대해 털어놨다. 그는 “연기하는 재미를 잃어버렸다. 돈 버는 재미, 사랑받는 재미, 연기하는 재미가 있지 않나”라며 “그런데 연기를 계속하다 보니 시야가 좁아져서 잘 안 되고 나를 찾아주는 곳도 적어질 것 같은 불안감이 생겼다”고 말했다. 이어 “우리 집은 희한하게도 전부 돈을 별로 안 좋아한다. 돈을 갖다줘도 행복해하지 않아서 돈 버는 즐거움도 별로 없었다”며 “그러다가 많은 일이 터지는 걸 뉴스로 보면서 ‘내가 억울한 일을 당하면 나는 날 지킬 수 있을까’ 생각하니 자신도 없고 그만하고 싶었다”고 털어놨다.&lt;br&gt;&lt;br&gt;최강희는 번아웃임을 깨닫고 경력중단을 선언했다. 이에 대해 절친한 사이인 방송인 김숙은 “그 결심은 너만 알고 있으라”고 조언했다고 한다. 최강희는 “다른 일을 해보자는 생각까지는 못했고 일단은 그만두자 싶었다”며 “다른 일을 뭘 하면 좋을지 빠르게 적응해 보고 싶었다. 진심이었고 굉장히 심각했다”고 했다. 또 “(공백기 동안) 연예계에서 지냈던 사람들이 다 떨어져 나갔다”며 “내가 필요했던 사람은 내가 불필요해지니까 떨어져 나가고, 옛날 친구들 송은이·김숙과 다시 연락하게 되면서 그들이 날 보호해 줬다”고 했다.&lt;br&gt;&lt;br&gt;공백기 동안 최강희는 각종 아르바이트를 하며 생계를 꾸려갔다. 그는 “인천 고깃집에서 설거지를 4개월 하고 (김)숙이 언니 집 가사도우미를 1년 했다”고 했다. 설거지 시급은 1만원이었다. 그는 “초반에는 드라마 극작가 학원, 편집 학원 등을 다녀서 (가사도우미) 일을 많이 하지 않았다. 그렇게 일하니 설거지랑 가사도우미 일로 140만원을 벌었다”며 “돈이 많지 않아 보이지만, 제가 생활하는 수준에서 생활비, 관리비 등으로 딱 떨어지는 금액이었다. 그게 저한테 힐링이 됐다”고 했다. &lt;br&gt;&lt;br&gt;그는 이 경험을 통해 자신감도 얻었다고 한다. 그는 “‘내가 연기를 때려치우면 살 수 있을까?’ 생각했다. 성격적으로 유약하고 보호받고 살았으니까”라며 “‘핑거 프린세스’라고 하지 않나. 늘 매니저한테 물어보고, 주변 사람들에게 물어봤다. 그래서 나 혼자 한다는 게 무섭기도 했는데 자신감이 생겼다”고 했다. &lt;br&gt;&lt;br&gt;그는 “당시 가족들도 연기를 관둔다니 ‘그동안 수고했다’고 응원해주더라. (공백기 경험을 통해) 가족과 친구, 저 자신을 얻게 됐다”며 “내 나이 또래 사람들도 나를 통해 용기를 얻을 수도 있겠다고 생각했다. 연기 말고 아무것도 못 하는 내가 뭔가를 해내면 많은 사람에게 위로가 되지 않을까 하는 사명감도 있었다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>대통령실 “의대생 올해 휴학 처리, 내년 1학기 복귀 의무화되는 것”</title>
@@ -921,19 +930,6 @@
       <description/>
       <pubDate>Tue, 29 Oct 2024 07:53:43 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZIORL53L6FK6RH3HUGSSZBIAVI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 연세대학교의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 발생한 연세대 논술문제 유출 사태와 관련해 경찰이 논술 문제 관련 글을 올린 작성자를 추적하기 위해 온라인 커뮤니티 디시인사이드를 28일 오전 압수수색했다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면, 서울경찰청 광역수사단 공공범죄수사대는 28일 오전 서울 강남구에 소재한 인터넷 커뮤니티 업체 디시인사이드 본사를 압수수색했다.&lt;br&gt;&lt;br&gt;경찰은 작성자의 인터넷 프로토콜(IP) 등 관련 자료를 입수했으며 현재 압수물을 분석 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;지난 16일 오후 연세대는 문제지 등을 촬영해 인터넷 커뮤니티 등에 올린 인문계·자연계 유출자 각각 1명과 특정되지 않은 4명 등 수험생 총 6명을 업무방해 등 혐의로 경찰에 고발했다.&lt;br&gt;&lt;br&gt;이에 따라 경찰은 관련 고발 사건을 서울경찰청 광역수사단에 배당하고 본격적인 수사에 나섰다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 롯데건설 시공 광진구청사 공사장서 50대 남성 추락</title>
-      <link>https://www.chosun.com/national/incident/2024/10/29/VPNVQVL5ZZARJO5UYSMZUFFSTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/29/VPNVQVL5ZZARJO5UYSMZUFFSTA/</guid>
-      <dc:creator>안준현 기자, 장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Oct 2024 06:37:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3QKIX2TXLIYH2WP2AUIQWQPVQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 잠원동 롯데건설 본사 전경 /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;롯데건설이 시공을 맡고 있는 서울 광진구 자양동 광진구청 신청사 건축 공사 현장에서 50대 노동자 A씨가 추락해 의식 불명 상태에 빠졌다. 고용노동부는 중대재해법 위반 여부 조사를 검토하고 있다.&lt;br&gt;&lt;br&gt;서울 광진경찰서와 소방당국에 따르면, 지난 28일 오후 2시 10분쯤 서울 광진구 자양동 건축공사 현장 지하 3층에서 일하고 있던 50대 노동자 A씨가 지하 5층으로 떨어져 중상을 입는 사고가 발생했다.&lt;br&gt;&lt;br&gt;사고 직후 A씨 동료의 신고를 접수한 소방당국은 오후 2시 18분쯤 현장에 도착해 의식 불명 상태에 빠진 A씨를 발견했다. A씨는 인근 대형 병원으로 옮겨져 치료를 받고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “정확한 사고 경위를 조사하고 있다”고 밝혔다. 고용노동부 관계자는 “사건 경위 파악을 위해 사건 현장 조사는 마친 상황”이라며 “피해자가 사망할 시 중대재해법 위반 여부 조사에 본격 착수할 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편, 지난 7월에도 서울 광진구 구의역 인근에서 롯데건설이 시공을 맡은 아파트 공사 현장에서 엘리베이터 설치 작업을 하던 50대 남성 근로자가 엘리베이터 부품에 맞아 숨지는 사고가 발생했다. 서울지방고용노동청과 경찰은 중대재해처벌법과 업무상 과실 여부에 대해 수사를 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/3QKIX2TXLIYH2WP2AUIQWQPVQQ.jpg?width=578&amp;height=384&amp;auth=5300bc553b45e477c1bfc592319e3b882616901c63f710bca5ddde90ce7b2c21&amp;smart=true" type="image/jpeg" height="384" width="578">
-        <media:description type="plain">검찰이 들이닥친 14일 전격 압수수색을 받은 잠원동 롯데건설 본사 임직원들이 1층 로비로 내려오고 있다.</media:description>
-        <media:credit role="author" scheme="urn:ebu">유진우 기자</media:credit>
-      </media:content>
     </item>
     <item>
       <title>‘13남매 장녀’ 남보라 예비 신랑 공개... “예쁘게 잘 살겠다”</title>
