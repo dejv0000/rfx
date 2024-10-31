@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>﻿성유리 억울하다 했는데…남편 안성현, ‘코인 상장 뒷돈’ 징역 7년 구형</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/01/LBKDN4XDORGKJHJI2ZIBQUMWXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/01/LBKDN4XDORGKJHJI2ZIBQUMWXA/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 31 Oct 2024 22:20:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PMWMA6E5FZKWTM25LFXYOEC2WA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배우 성유리의 남편 프로골퍼 안성현씨가 작년 4월 서울남부지법에서 열린 영장실질심사를 마친 뒤 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;암호화폐(코인) 상장을 빌미로 뒷돈을 받은 혐의를 받는 프로골퍼 안성현씨에게 징역 7년이 구형됐다. &lt;br&gt;&lt;br&gt;검찰은 지난달 29일 서울남부지법 형사합의11부(재판장 정도성) 심리로 열린 결심공판에서 안씨에 대해 징역 7년을 구형했다. 벌금 20억원, 명품 시계 2개 몰수, 15억원의 추징금도 함께 선고해달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;함께 기소된 이상준 전 빗썸홀딩스 대표에 대해서는 징역 5년에 3050만원 몰수, 15억2500만원의 추징금을 구형했다. 코인 상장을 청탁한 사업가 강종현씨와 코인 발행업체 관계자 송모씨에 대해서는 각각 징역 1년 6개월과 징역 8개월을 구형했다.&lt;br&gt;&lt;br&gt;안씨와 이 전 대표는 2021년 9월~11월 강씨로부터 A코인을 거래소 빗썸에 상장해달라는 청탁과 함께 수십억 원을 수수한 혐의를 받는다. 검찰에 따르면 안씨와 이 전 대표는 현금 30억원과 4억원 상당의 명품 시계 2개, 1150만원의 고급 레스토랑 멤버십 카드 등을 받은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;안씨는 ‘이 전 대표가 상장 청탁 대금 20억원을 빨리 달라고 한다’며 강씨를 속여 20억원을 별도로 가로챈 혐의도 받는다.&lt;br&gt;&lt;br&gt;안씨 측은 혐의를 부인했다. 강씨와 돈을 주고받은 것은 맞지만 청탁 명목은 아니라는 취지였다. 안씨 측 변호인은 “돈의 사용처는 그림 구매, 엔터테인먼트 회사 인수 등 투자 목적으로 확인됐다”고 주장했다.&lt;br&gt;&lt;br&gt;재판부는 오는 12월 26일 오후 2시 선고를 진행한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NAIRVLOZQFBUXMOYQSDV7RZSLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 성유리(오른쪽)와 프로골퍼 안성현(왼쪽)씨. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 안씨는 2005년 프로골퍼로 데뷔해 2014~2018년 골프 국가대표팀 상비군 코치로 일했다. 2017년 그룹 핑클 출신 성유리와 결혼해 쌍둥이 딸을 두고 있다.&lt;br&gt;&lt;br&gt;성유리는 올해 초 소셜미디어에 “우리 가정이 겪고 있는 억울하고 힘든 일들에 대한 진실이 밝혀지길 간절히 기도한다”는 글을 올렸다. 안씨 혐의에 대한 입장을 밝힌 것으로 해석됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>지방소멸 막고 지역산업 키우려면… RISE 內 전문대 투자 확대 절실</title>
       <link>https://www.chosun.com/national/education/2024/11/01/22JL3GBV45CQLNRHJC4GLW7UKQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/11/01/22JL3GBV45CQLNRHJC4GLW7UKQ/</guid>
@@ -700,19 +709,6 @@
       <description/>
       <pubDate>Thu, 31 Oct 2024 05:35:34 +0000</pubDate>
       <content:encoded>작년 8월 서울 용산구 ‘경찰관 추락사’ 사건이 벌어졌던 마약 모임을 주도한 이들에게 실형이 확정됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AQYKNB4P7FKODKMH3CVX6ZWLKA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;용산구의 한 아파트에서 현직 경찰관이 추락사한 '집단 마약 투약' 의혹 주요 피의자 이 모씨가 작년 9월 서울 용산경찰서에서 검찰에 송치되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 3부(주심 이흥구 대법관)는 31일 마약류관리법 위반(향정) 등 혐의로 기소된 이모(32)씨와 정모(46)씨에게 각각 징역 4년 6개월과 징역 3년 6개월을 선고한 원심 판결을 확정했다. 대법원은 “원심 판단에 법리 등을 오해한 잘못이 없다”고 설명했다. &lt;br&gt;&lt;br&gt;이들은 작년 8월 26일 서울 용산구의 한 아파트에서 마약 모임에 참석한 20여명에게 엑스터시·케타민 등 마약을 제공하고, 마약을 투약하기 위한 장소를 제공한 혐의 등으로 기소됐다. 모임에서 마약류를 투약·흡연하고 사전에 마약을 매수한 혐의도 받았다. &lt;br&gt;&lt;br&gt;이 사건은 이튿날 오전 5시쯤 모임 참석자였던 강원경찰청 소속 현직 경찰관이 해당 아파트에서 추락해 숨지면서 알려졌다. 해당 아파트는 정씨가 세 들어 살던 곳으로, 대기업 직원인 이씨는 마약류를 수급하는 역할을 한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;앞서 1심은 이씨와 정씨에 징역 5년과 4년을 각각 선고했다. 그러나 2심은 두 사람이 신종 합성마약을 소지·제공·사용했는지 여부가 분명하지 않다며 일부 무죄로 판단을 뒤집었다. 2심은 “피고인들이 취급한 마약류에 합성마약이 섞여 있었다는 점과 그에 대한 피고인들의 인식과 고의가 증명됐다고 보기 어렵다”고 했다. 이에 따라 형량이 일부 감형됐다.&lt;br&gt;&lt;br&gt;대법원은 2심 판결이 타당하다고 보고 이씨와 정씨, 검찰의 상고를 기각했다. 마약 모임에 참석한 다른 이들도 기소돼 실형이나 징역형의 집행유예를 선고받았거나, 재판 중이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대체로 맑고 포근한 가을 날씨... 일교차 커 유의해야</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/26/EB3UWAX7EBHYFLSZACR6FR2VVU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/26/EB3UWAX7EBHYFLSZACR6FR2VVU/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 26 Oct 2024 00:48:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4RSJ2JQKXFNTTGTPZWX44Z62JU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;화창한 가을 날씨를 보인 25일 서울 광화문광장에서 시민들이 즐거운 시간을 보내고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 26일 아침 기온은 낮다가 낮 기온이 오르는 등 일교차가 크겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면 이날은 대부분 지역의 아침 기온이 10도 내외로 낮겠다. 낮 기온은 20도 내외로 오르면서 일교차가 대부분 지역이 10도 내외이고 일부 지역의 경우 15도 이상으로 크겠다.&lt;br&gt;&lt;br&gt;새벽부터 아침 사이 경기 동부와 강원내륙·산지, 충청권 내륙, 전라권 내륙, 경북권 내륙, 경남 서부 내륙에 가시거리 200m 미만의 짙은 안개가 끼는 곳이 있겠다. 그 밖의 내륙에서도 가시거리 1㎞ 미만의 안개가 끼는 곳이 있겠다.&lt;br&gt;&lt;br&gt;강이나 호수, 골짜기에 인접한 도로에서는 주변보다 안개가 더욱 짙게 끼는 곳이 있겠으니 차량 운행 시 감속 운행해 추돌사고 등의 피해가 발생하지 않도록 교통안전에 각별히 유의해야겠다.&lt;br&gt;&lt;br&gt;하늘 상태는 중부지방이 대체로 맑겠으나 오후에 가끔 구름이 많겠다. 남부지방은 구름이 많다가 오후부터 흐려지겠으며, 강원 영동과 제주도는 흐리겠다.&lt;br&gt;&lt;br&gt;오전부터 제주도에, 오후부터는 전남 해안에 가끔 비가 내리는 곳도 있겠다. 27일까지 예상 강수량은 △제주도 10~60㎜ △전남 해안 5~30㎜다. 기온은 당분간 평년(최저 3~13도, 최고 17~21도)보다 조금 높겠다.&lt;br&gt;&lt;br&gt;아침 최저기온은 8~18도, 낮 최고기온은 20~25도가 되겠다. 주요 지역 아침 최저기온은 △서울 12도 △인천 14도 △수원 11도 △춘천 10도 △강릉 13도 △청주 13도 △대전 13도 △전주 13도 △광주 14도 △대구 13도 △부산 18도 △제주 21도다. 낮 최고기온은 △서울 24도 △인천 22도 △수원 23도 △춘천 22도 △강릉 20도 △청주 23도 △대전 23도 △전주 24도 △광주 24도 △대구 23도 △부산 24도 △제주 23도다.&lt;br&gt;&lt;br&gt;미세먼지는 전 권역에서 ‘좋음’ 수준이 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4RSJ2JQKXFNTTGTPZWX44Z62JU.JPG?width=5472&amp;height=3648&amp;auth=b61e7a89476ec272fd402f3057f3787608e2ec11db6584651404ca370447d9f9&amp;smart=true" type="image/jpeg" height="3648" width="5472">
-        <media:description type="plain">(서울=뉴스1) 박세연 기자 = 화창한 가을 날씨를 보인 25일 서울 광화문광장에서 시민들이 즐거운 시간을 보내고 있다. 2024.10.25/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 박세연 기자</media:credit>
-      </media:content>
     </item>
     <item>
       <title>민주노총 회계공시 전년보다 10% 넘게 줄어, 금속노조 18만명 세액공제 혜택 못 받는다</title>
