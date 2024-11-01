@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대전 다가구 주택서 화재…1명 숨지는 등 인명 피해</title>
+      <link>https://www.chosun.com/national/incident/2024/11/01/6WFGMKXHMBGT3G7WUZY2UDM25A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/01/6WFGMKXHMBGT3G7WUZY2UDM25A/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 01 Nov 2024 13:48:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHVNB2B2WJHGXODIDACQLHGZVI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전의 한 다가구 주택에서 불이나 1명이 숨지고 2명이 다쳤다.&lt;br&gt;&lt;br&gt;1일 대전시소방본부에 따르면 이날 오후 8시 20분쯤 대전시 서구 월평동의 한 4층짜리 다가구 주택에서 화재가 발생했다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;이날 불로 다가구 주택 1층 주민 60대 남성 1명이 심정지 상태로 발견됐고, 3층 주민 50대 남성과 70대 여성 등 2명이 연기를 마셔 병원으로 옮겨졌다. 다른 주민 3명은 단순 연기 흡입자로 분류됐다.&lt;br&gt;&lt;br&gt;“건물에서 검은 연기가 난다”는 신고를 받고 출동한 소방 당국은 펌프차 등 장비 17대와 소방관 등 55명을 투입해 오후 8시 37분쯤 불을 껐다.&lt;br&gt;&lt;br&gt;소방 관계자는 “건물 1층에서 처음 화재가 발생한 것으로 보고, 구체적인 화재 원인과 피해 규모를 조사하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서해안 철도 교통시대 열린다... 내일 서해·장항·평택선 개통</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/11/01/ERNVNPNRYNASBERG2ZK6PTP7KU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/11/01/ERNVNPNRYNASBERG2ZK6PTP7KU/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 01 Nov 2024 11:43:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FXBMNHJBBBFVNGXB7DC6FZOWVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10월 말, 11월 2일 개통을 앞둔 서해선 복선전철에서 열차 시험 운행이 이뤄지고 있다. /홍성군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서해안을 따라 경기 북부에서 충남까지 남북으로 130여㎞를 곧장 연결해주는 서해선 철도가 2일 개통된다. 이와 동시에 서해선과 내륙 쪽 경부선을 동서로 연결해 교통 효율성을 높여주는 평택선과 장항선도 이날 각각 신설 개통되고 단선에서 복선으로 확장된다. 이로써 수도권과 충남 지역 주민들을 위한 ‘서해안 철도 시대’가 열렸다.&lt;br&gt;&lt;br&gt;국토교통부는 서해선 복선 전철(서화성~홍성) 90㎞를 2일 개통한다고 1일 밝혔다. 서해선은 2015년 5월 착공해 총사업비 4조1217억원이 투입됐다. 신설된 구간엔 2일부터 ITX 열차가 하루 8회(상·하행선 4회씩) 운행을 시작한다. 소요 시간은 약 1시간이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6TAFCHBFUVDPXDWXW3JJSD3XFQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서해선 북쪽 구간인 대곡~원시(40.3㎞)는 이미 수도권 전철로 운영 중이다. 따라서 남쪽 ITX 열차 신규 운행 구간과 북쪽 수도권 전철 사이에 4㎞ 미개통 지역(원시~서화성)을 제외하면 사실상 서해선이 완성된 셈이다. 원시~서화성은 2026년 3월 개통 예정이다.&lt;br&gt;&lt;br&gt;이로써 충남 홍성역에서 서울 강서구에 있는 김포공항까지 철도망을 이용해 기존 2시간 43분 걸리던 이동 시간이 2시간 8분으로 35분 줄어들게 됐다. 2일부터 신설된 서해선 열차(홍성역~서화성역)와, 중간에 미개통 구간을 위해 정부가 마련한 셔틀버스(서화성역~초지역), 이어 수도권 전철(초지역~김포공항역)을 차례로 갈아타면서 시간을 단축할 수 있게 됐다. 셔틀버스는 열차 운행 시간과 연동해 무료로 운행된다. 기존엔 홍성역에서 열차로 용산역으로 간 뒤 전철을 타고 서울역으로 이동하고 다시 공항철도를 이용해 김포공항역까지 가야 했다.&lt;br&gt;&lt;br&gt;2026년에 미개통 4㎞ 구간까지 신안산선으로 연결돼 서해선이 완결되면, 열차가 시속 250㎞급인 KTX로 변경 투입될 예정이다. 이렇게 되면 홍성에서 김포공항까지 이동 시간이 총 70분으로 크게 줄어들 전망이다.&lt;br&gt;&lt;br&gt;한편 2일 서해선과 경부선을 동서로 연결해주는 장항선 복선 전철 신창~홍성 36.3㎞ 구간과 단선 전철인 포승평택선 2단계(안중~오성)도 동시에 개통한다.&lt;br&gt;&lt;br&gt;장항선은 충남 천안에서 전북 익산을 잇는 154.4㎞ 노선이다. 1930년에 단선 비전철로 최초 건설됐던 구간이 단계적으로 복선 전철화되고 있다. 2008년 천안~신창 구간에 이어 이번에 신창~홍성이 추가로 복선 전철로 바뀐 것이다. 이에 따라 기존 무궁화호·새마을호 열차에 더해 ITX-마음 열차가 하루 2회 증편되면서 서울 용산~홍성 구간의 하루 운행 횟수는 총 30회로 늘어난다.&lt;br&gt;&lt;br&gt;평택항부터 평택시 중심부까지 물류 수송 라인인 포승평택선은 2015년 1단계 구간인 오성~평택(13.4㎞)이 개통한 데 이어 이번에 2단계 안중~오성(9.4㎞) 구간이 새로 건설됐다. 비전철 디젤 열차 구간이었던 1단계를 포함해 전체 구간(22.8㎞)이 전철화됐다. 이로써 남북 방향의 두 철도인 경부선과 서해선이 각각 평택부터 안중까지, 천안부터 홍성까지 각각 동서 방향으로도 연결된 것이다. 국토부는 평택선·서해선·장항선 3개 노선을 연계해 홍성~천안~평택~안중을 사각형 구역 형태로 순환하는 ITX-마음 열차를 하루 6회 운영한다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“의사가 배상하라”… ‘사법 의학’이 필수의료 기피 불러</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/10/25/CNCHLDRRSNGNFKGD2EGQ364USA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/10/25/CNCHLDRRSNGNFKGD2EGQ364USA/</guid>
+      <dc:creator>조백건 기자, 오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Oct 2024 16:03:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NQ6DC3YMQZIBJCRILYQL4AKMSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의정갈등이 이어지고 있는 지난 22일 오전 서울 한 대형병원 응급의료센터 앞에 빈 병상이 놓여 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 응급실을 총괄하는 보건복지부 산하 중앙응급의료센터는 지난 9월 ‘순환 당직 응급 수술’ 대상 질환으로 복막염을 추가 지정했다. 외과 의사의 ‘기본적 수술’로 통하던 복막염을 수술할 의사가 없어 치료 병원을 전국 단위로 넓히겠다는 것이다. 외과 의사라도 유방·갑상선처럼 본인의 세부 전공 분야만 진료하려는 분위기가 최근 부쩍 심해졌기 때문이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2HI5ZMIV2BA5BMVKSCPDEZBRY4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의사들은 이 이유로 지난해 법원 판결을 자주 거론했다. 서울고법은 작년 10월, 장이 꼬여 구토를 하던 생후 5일 된 신생아를 응급 수술한 외과 의사 등에게 “환자에게 10억원을 배상하라”고 판결했다.&lt;br&gt;&lt;br&gt;당시 이 병원엔 소아 수술을 전문으로 하는 소아외과 의사가 없었다. 소아외과 전문의는 전국에 50여 명밖에 없다. 시간을 지체하면 아기 목숨이 위험해질 수 있어 외과 의사는 응급 수술을 했다. 하지만 이 의사는 장 꼬임이 있는 아기는 맹장이 일반인과 다른 곳에 있고, 이를 재배치해야 한다는 걸 모르고 수술을 끝냈다. 결국 아기는 심한 장기 손상을 입고 인지 저하가 왔다. 부모들은 “소아외과 의사가 아닌 외과 의사가 수술을 했다”며 거액의 소송을 냈고 법원도 이를 받아들였다. 이는 결국 의사들이 세부 전공에 맞는 일부 환자만 받게 만들어, 응급 환자가 병원을 찾다 숨지는 ‘응급실 뺑뺑이’를 심화한다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/INS4P6NOCBA3DNQVVWSJ3BDKRU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 외에도 법원 판결은 ‘방어 진료’ ‘필수과 기피’를 부르는 대표적 원인으로 꼽히고 있다. 필수과 의사들은 부정적 뉘앙스를 담아 이를 ‘사법(司法) 의학’이라고 부르기도 한다.&lt;br&gt;&lt;br&gt;법원 판결은 응급실에도 영향을 미쳤다. 대법원은 작년 말 흉통을 호소하며 응급실에 온 환자의 대동맥 박리(대동맥 안쪽 혈관 손상) 질환을 발견하지 못한 혐의(업무상과실치상)로 재판에 넘겨진 응급실 의사에게 징역형을 선고했다. 사고 당시인 2014년 이 의사는 전공의 생활을 시작한 지 얼마 안 된 레지던트 1년 차였다. 작년엔 환자의 폐암 징후를 조기 발견 못 했다고 응급실 의사와 병원에 17억원 배상을 선고한 판결도 나왔다.&lt;br&gt;&lt;br&gt;소아과도 직격탄을 맞았다. 부산지법은 올 1월 생후 45일 아기에게 설소대(혀와 구강 연결 부위) 수술을 한 소아과 의사에게 13억원을 배상하라고 판결했다. 수술 후 지혈 등을 의사가 하지 않고 간호조무사에게 맡기는 과정에서 아기가 장애를 얻게 됐다는 이유였다. 응급의학과와 소아과 의사들은 “소송이 겁나서 적극적인 치료를 점점 못 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DCSMBFZVRREDVNHG6GKR6QF7GA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 22일 오전 서울 한 대형 병원 응급의료센터 앞에 빈 병상이 놓여 있다. 의료계에선 응급 상황 등에서 불가피하게 발생하는 의료사고에 대해 의료진의 과도한 책임을 묻는 판결들이 필수과 기피를 가중시킨다고 지적한다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;산과도 마찬가지다. 수원지법 평택지원은 작년 5월 “병원의 분만 잘못으로 아기가 뇌성마비를 얻었다”며 소송을 낸 산모의 손을 들어주면서, 병원이 12억원을 물어주라고 선고했다. 산모 측은 “당시 태동이 약하다고 말했는데도 병원의 조치가 늦어 피해를 입었다”는 입장이다. 병원 측은 “조치가 늦은 게 아니라 분만에 필요한 준비를 하는데 시간이 다소 걸렸던 것”이라고 했지만 받아들여지지 않았다. 산과 의사들은 “아기 한 명 받아서 10만원 벌다가, 소송 걸리면 10억원을 배상해야 한다”며 “법원 판결이 산과 기피의 가장 큰 원인”이라고 했다.&lt;br&gt;&lt;br&gt;실제 대한산부인과학회는 작년 산부인과 레지던트 4년 차 등을 대상으로 설문 조사를 했는데, 이 중 47%는 ‘분만을 하지 않겠다’고 답했다. 가장 큰 이유는 ‘의료 사고 발생 우려’(79%)였다.&lt;br&gt;&lt;br&gt;법조계에서도 “법원이 의사의 업무상 과실을 너무 엄격하게 본다”는 지적이 있다. 법원 출신 변호사는 “보통 과실범은 본인이 문제를 일으키지만, 의사는 이미 발생한 문제를 해결한다”며 “해외 주요국이 고의가 없는 의사의 과실 책임을 거의 묻지 않는 것도 이런 특수성 때문”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞사법 의학&lt;/b&gt;&lt;br&gt;&lt;br&gt;현실과 동떨어진 과도한 법원 판결이 의료 현장에 악영향을 끼친다는 의료계 은어. 건강보험심사평가원(심평원)의 병원 진찰료 심사 기준이 불합리하다는 뜻의 의료계 은어인 ‘심평 의학’에서 따온 신조어.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>출산율 높은 지자체, 교부세 더 받는다</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/01/RGL2K6YUKRE63LGQEBISCC7HNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/01/RGL2K6YUKRE63LGQEBISCC7HNE/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 01 Nov 2024 11:36:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MG73ICHJWD4WRUIY2G45UINB6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4월 서울 도심의 공사장 가림막에 그려진 행복한 가족 그림 앞으로 시민이 지나고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞으로 출산율이 높은 지방자치단체는 정부에서 나눠주는 교부세를 더 많이 받을 수 있게 된다. 전국 89개 인구 감소 지역의 경우, 직장·학교 등 때문에 단기간 머무는 사람만 늘어도 교부세를 더 받을 수 있다.&lt;br&gt;&lt;br&gt;행정안전부는 1일 이 같은 내용을 담은 2025년도 보통 교부세·부동산 교부세 개선 방안을 발표했다. 교부세는 지방의 재정을 지원하기 위해 정부가 지자체에 나눠주는 돈을 말한다.&lt;br&gt;&lt;br&gt;개선안은 교부세 계산 시 합계 출산율 반영 비율을 2배로 늘려 출산율이 높은 지자체에 더 많은 교부세가 돌아갈 수 있도록 했다. 행안부 관계자는 “지자체가 저출생 문제 해결에 더욱 적극적으로 나서게 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;부동산 교부세를 산정할 때에도 ‘저출생 대응’을 25% 반영한다. 저출생 대책에 얼마나 투자했는지, 영·유아 돌봄 서비스가 있는지 등에 따라 부동산 교부세 규모가 달라진다.&lt;br&gt;&lt;br&gt;지역 소멸 위기에 놓인 전국 89개 인구 감소 지역의 경우, 교부세 계산 기준에 ‘생활 인구’를 넣기로 했다. 생활인구는 그 지역에 자리 잡고 사는 정주 인구뿐 아니라 단시간 체류하는 사람까지도 모두 지역 인구로 보는 개념이다. 행안부 관계자는 “정주 인구만 따지면 인구 감소 지역이 너무 불리하기 때문에 생활 인구로 평가하려는 것”이라고 했다.&lt;br&gt;&lt;br&gt;지역 행사·축제에 예산을 많이 쓰면 ‘벌칙’으로 다음 해에 교부세를 깎던 규정은 폐지한다. 지역 경제 활성화를 위해 각종 축제를 더 많이 열 수 있게 한다는 취지다. 또 지자체가 설립·운영하는 의료기관의 규모(병상 수)도 교부세 산정 기준에 반영한다.&lt;br&gt;&lt;br&gt;이번 개선 방안은 지방교부세법 시행규칙 개정안에 반영된다. 내년 교부세를 산정할 때부터 적용된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 명태균 장모·처남도 압수수색</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/01/7IEFC22S5BHRZA7R4HV5XRYWJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/01/7IEFC22S5BHRZA7R4HV5XRYWJ4/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 01 Nov 2024 11:26:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OJ4IUYZ5JBNAXLTH4LHNOHYIWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이소영 더불어민주당 의원이 1일 서울 여의도 국회에서 열린 운영위원회의 대통령비서실, 국가안보실, 대통령경호처 국정감사에서 질의하는 동안 모니터에 윤석열 대통령과 명태균씨의 2022년 전화 통화 녹취가 재생되고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 윤석열 대통령 배우자 김건희 여사의 공천개입 의혹과 관련해 핵심인물인 명태균씨의 장모와 처남도 압수 수색한 것으로 전해졌다. 명씨가 윤 대통령 또는 김 여사 등과 한 통화 녹음을 확보하기 위한 차원으로 보인다.&lt;br&gt;&lt;br&gt;1일 법조계에 따르면 창원지검 형사4부(부장 김호경)는 전날 경남 창원의 명씨 자택뿐 아니라 처남 A씨의 사무실과 장모 B씨의 자택도 압수 수색했다. 명씨는 언론 인터뷰에서 윤 대통령과의 통화 녹음이 담긴 휴대전화 4대를 부친 묘소에 묻어놨다고 주장했다. 검찰은 명씨가 다른 장소에 주요 증거물을 숨겨둔 게 아닌지 의심하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;전날 더불어민주당이 공개한 통화녹음 파일에서 윤 대통령은 취임 전날인 2022년 5월 9일 명씨에게 “공관위(공천관리위원회)에서 나한테 들고 왔길래 내가 ‘김영선이 경선 때부터 열심히 뛰었으니까 그것은 김영선이를 좀 해 줘라’ 그랬는데 말이 많네, 당에서”라고 말했고, 명씨는 “진짜 평생 은혜 잊지 않겠습니다”라고 했다. 해당 파일은 명씨가 녹음한 통화를 제3자가 다시 녹음해 민주당에 제보한 것으로 전해졌다. 김영선 전 국민의힘 의원은 다음 날 경남 창원 의창에 공천됐다.&lt;br&gt;&lt;br&gt;검찰의 명씨에 대한 강제수사는 지난 9월 30일에 이어 두 번째이다. 당시 명씨 자택, 명씨가 회장으로 불리는 미래한국연구소 사무실, 김 전 의원 자택, 미래한국연구소 부소장과 김 전 의원의 회계관리책임자를 지낸 강혜경씨의 자택 등에서 컴퓨터, 통화녹음, 회계 자료를 확보했다.&lt;br&gt;&lt;br&gt;검찰은 미래한국연구소가 지난 대선 당시 윤석열 후보를 위해 ‘맞춤형 여론조사’를 실시하고, 명씨가 그 대가로 김 전 의원의 2022년 6월 국회의원 재보궐선거 공천을 받았다는 의혹을 수사 중이다. 미래한국연구소가 지난 대선 당시 80여 차례에 걸쳐 3억7500만원 상당의 공표·미공표 여론조사를 실시해 윤석열 캠프에 전달했다는 것이다. 여론조사 비용 약 2억2700만원은 국민의힘 예비후보들이 대납하고 다른 일부는 김 전 의원이 당선 후 받은 선거 보전금으로 받았다는 의혹도 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>1억 원대 ‘고급 SUV 외제차’ 렌트해, 3000만 원에 팔아…30대 남성 구속 송치</title>
+      <link>https://www.chosun.com/national/incident/2024/11/01/JXKJXMD7M5DWXCOJEFIQQNRXZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/01/JXKJXMD7M5DWXCOJEFIQQNRXZM/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 01 Nov 2024 10:49:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/STBYT5T4JBF3DNP4BULXPLCHNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남 천안 동남경찰서 전경. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고급 렌터카를 빌린 뒤 반납하지 않고 다른 사람에게 팔아넘긴 30대 남성이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;천안동남경찰서는 사기 혐의로 30대 A씨를 검찰에 구속 송치했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 9월 14일쯤 서울의 한 렌터카 업체에서 약 1억 원대 고급 SUV 외제 차를 빌린 뒤, 다른 사람에게 3000여만 원을 받고 팔아넘긴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨에게 차를 빌려준 렌터카 업체는 GPS(위치추적장치) 신호가 충남 천안 지역에서 꺼진 것을 확인하고 경찰에 신고했다.&lt;br&gt;&lt;br&gt;A씨는 경찰에 “SNS에서 렌터카를 빌려 넘겨주면 돈을 주겠다는 말을 듣고 범행했다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 진술과 A씨의 휴대전화 포렌식 분석 내용 등을 토대로 다른 공범을 쫓고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>검찰, ‘고금리 수취·용역업체 뒷돈’ 한국자산신탁 압수수색</title>
       <link>https://www.chosun.com/national/court_law/2024/10/31/JCL47LBEWRGW3FAQ6CWCDUY53E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/31/JCL47LBEWRGW3FAQ6CWCDUY53E/</guid>
@@ -823,15 +877,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5SYQ32DXVRNS5JVGPQD4T7EH4M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사가 2일 오후 서울 여의도 국회 법제사법위원회에서 열린 박상용 수원지검 부부장검사 탄핵소추사건 조사 청문회에 출석, 의원 질의에 답변하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 ‘불법 대북송금’과 불법 뇌물·정치자금 수수 혐의 등으로 1심에서 징역 9년 6개월을 선고받은 이화영 전 경기도 평화부지사에 대한 항소심서 징역 15년과 벌금 10억원 등을 구형했다. 이는 지난 1심 구형량과 같은 것이다.&lt;br&gt;&lt;br&gt;검찰은 31일 오후 수원고법 형사1부(재판장 문주형)심리로 열린 항소심 결심 공판에서 이 전 부지사의 뇌물 및 정치자금법 위반에 대해서는 징역 12년 및 벌금 10억원, 추징 3억3400여만원을 구형했다. 또 외국환 거래법 위반, 증거인멸교사 혐의에 대해서는 징역 3년을 구형했다.&lt;br&gt;&lt;br&gt;또 이 전 부지사와 함께 재판을 받고 있는 방용철 쌍방울 부회장에게는 징역 2년6월을 선고해달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;이 전 부지사는 이재명 더불어민주당 대표가 경기도지사이던 2019년 도지사 방북 비용 300만불과 북한 스마트팜 사업 비용 500만불을 쌍방울이 대신 북한 측에 내게 한 혐의(외국환거래법 위반)를 받는다. 이 전 부지사는 쌍방울로부터 법인카드와 차량 등을 제공받는 등 수 억원 대의 정치자금과 뇌물을 받은 혐의 등도 받고 있다. 또 자신의 법인카드 사용 내역을 없애도록 해 증거 인멸을 시도한 혐의도 받는다. 1심 재판부인 수원지법 형사11부(재판장 신진우)는 지난 6월 7일 그에 대한 혐의를 모두 유죄로 판단하면서, 스마트팜 사업비와 방북비용 등 800만 달러가 북한 측에 전달한 사실을 인정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>대구시, 내달 1~5일 ‘대구 ·경북 행정통합’ 구군 설명회 개최</title>
-      <link>https://www.chosun.com/national/regional/2024/10/31/AFC4I74JIBAR3KUD47UAGYFRVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/31/AFC4I74JIBAR3KUD47UAGYFRVQ/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Oct 2024 08:11:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WBYHU3NO4ZNINO3TT5PFVXJUYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;우동기(왼쪽부터) 지방시대위원장, 이철우 경북도지사, 홍준표 대구시장, 이상민 행정안전부 장관이 지난 21일 오후 서울 종로구 정부서울청사에서 열린 대구·경북 통합 관련 4자 회동에서 합의문에 서명한 뒤 기념촬영을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시는 다음달 1~5일 구·군을 돌며 대구·경북 행정통합 시민설명회를 연다고 31일 밝혔다. 행정통합에 대한 공감대 형성과 시민 의견을 듣기 위해서다.&lt;br&gt;&lt;br&gt;설명회는 11월 1일 남구를 시작으로 동·북구, 같은 달 4일 달서구와 달성·군위군, 5일 중· 수성·서구 순으로 열린다.&lt;br&gt;&lt;br&gt;대구시는 이번 설명회에서 대구·경북 행정통합의 필요성과 추진 경과, 특별법 주요 내용, 기대효과 등에 대해 설명할 예정이다. 이를 통해 대구·경북 통합이 반드시 필요하다는 공감대가 확산되도록 하겠다는 계획이다. 대구정책연구원에 따르면 대구·경북이 통합하면 2045년 GRDP는 1512조원으로 현재보다 8.4배 증가하고, 일자리는 773만 개로 현재보다 2.8배가 늘어날 것으로 예상된다. 또 사업체수는 236만 개로 현재보다 3.8배 증가하는 것으로 분석됐다.&lt;br&gt;&lt;br&gt;앞서 지난 21일 홍준표 대구시장, 이철우 경북도지사, 이상민 행정안전부 장관, 우동기 지방시대위원장은 ‘대구·경북 통합을 위한 공동 합의문’에 서명하고, 수도인 서울특별시에 준하는 위상의 대구·경북 통합 지방자치단체를 2026년 7월 출범하기로 뜻을 모았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>치매 노모 태우고 바다 돌진한 형제… 살아남은 동생은 ‘중형’</title>
       <link>https://www.chosun.com/national/court_law/2024/10/31/3GC25GF6GRHTDBIBWYNYZJZOXI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/31/3GC25GF6GRHTDBIBWYNYZJZOXI/</guid>
@@ -899,15 +944,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘SM 시세조종’ 카카오 김범수 보석...구속 101일만</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/31/ZOVTDX4SKRARPNRKQXY5YIQ2XI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/31/ZOVTDX4SKRARPNRKQXY5YIQ2XI/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Oct 2024 05:11:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LVSQ5BU4KRMFBNGIXAYV34EAVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;보석 결정을 받은 김범수 카카오 경영쇄신위원장이 31일 오후 서울 구로구 남부구치소를 나서며 고개 숙여 인사하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SM엔터테인먼트 시세조종 혐의를 받는 카카오 창업주 김범수 경영쇄신위원장이 31일 보석(保釋)으로 풀려나 불구속 상태로 재판을 받게 됐다. 지난 7월 23일 법원에서 “증거인멸과 도주 우려가 있다”며 구속 결정한 지 101일 만이다. 1심 구속기간은 공소장이 접수된 날을 기준으로 2개월이며, 필요에 따라 2개월씩 2회 연장할 수 있다. 김 위원장은 지난 8월 8일 구속 기소된 후 담당 재판부 결정으로 오는 12월 7일까지 구속기간이 한 차례 연장된 상태다.&lt;br&gt;&lt;br&gt;서울남부지법 형사합의15부(재판장 양환승)는 이날 김 위원장의 보석을 허가하며 보증금 3억원 납부를 명령했다. 이와 더불어 소환 시 출석할 것, 출국 시 법원의 허가를 받을 것, 수사과정에서 진술한 피의자나 참고인 및 증인으로 채택된 사람과 이 사건 변론 관련 사항으로 접촉하거나 증언에 영향을 미치는 행위를 하지 않을 것 등을 보석 조건으로 제시했다. 이 조건을 위반할 경우 보석 취소 및 보증금 몰취, 1000만원 이하의 과태료 또는 감치 처분이 내려질 수 있다.&lt;br&gt;&lt;br&gt;이날 오후 4시 16분쯤 김 위원장은 양복 차림으로 서울 구로구 남부구치소를 나서며 “앞으로도 성실히 조사에 임하겠다”고 말했다.&lt;br&gt;&lt;br&gt;보석은 법원이 정한 보증금을 납부하고, 재판 출석 등을 약속하는 등의 조건으로 피고인을 석방하는 제도다. 법원은 통상 증거 인멸 우려가 없을 때 보석을 허가한다.&lt;br&gt;&lt;br&gt;김 위원장 측은 지난 16일 열린 보석 심문에서 “공개수사가 진행되고 1년 6개월 이상 지났고 관련 사건에 대한 재판도 1년 가까이 진행됐는데 증거인멸 염려가 있다는 점은 납득하기 어렵다”며 “구속 상태가 길어지면 한국 IT산업 전체가 타격을 받을 것”이라고 주장했다. 검찰은 “증거 인멸과 도주 우려가 있다’는 구속 이유에 사정변경이 없다”며 “구속기간 내 핵심 증인 신문이라도 진행해 외부적 압력과 방해 요소가 적은 환경에서 사안의 실체에 접근해야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;김 위원장은 지난해 2월 SM 인수 과정에서 경쟁 상대인 하이브의 공개 매수를 방해하기 위해 SM 주가를 하이브의 공개 매수가(12만원)보다 높게 고정시키려고 시세를 조종한 혐의를 받는다. 이에 지난 7월 23일 구속됐고, 8월 8일 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“선거 여론조작 의심”...檢, 민주당 신영대 의원 구속영장 청구</title>
       <link>https://www.chosun.com/national/national_general/2024/10/31/TXJRFQLYTVDZ3LQL4YP6FHJRGQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/31/TXJRFQLYTVDZ3LQL4YP6FHJRGQ/</guid>
@@ -924,42 +960,6 @@
       <description/>
       <pubDate>Thu, 31 Oct 2024 00:37:40 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YTB2J346PSEMRKFA23AEK52XJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검 청사 검찰 로고. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안마의자 회사인 바디프랜드의 ‘경영권 분쟁’ 사태를 수사 중인 검찰이 창업주 강웅철 전 이사회 의장, 바디프랜드 지분을 인수한 사모펀드 최대주주로 알려진 한주희씨에 대해 배임·횡령 혐의로 구속영장을 청구한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;31일 본지 취재를 종합하면, 서울중앙지검 중요범죄조사부(부장 어인성)는 지난 30일 두 사람에 대해 배임·횡령 혐의로 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;검찰 수사는 양측이 “회삿돈을 유용했다”며 서로를 배임·횡령 등 혐의로 맞고소하면서 시작됐다. 한앤브라더스는 2022년 7월 스톤브릿지캐피탈과 함께 바디프랜드를 인수했다. 그러나 이후 두 회사는 경영권을 놓고 다툼을 벌였다. 한앤브라더스는 강 전 의장이 62억원의 직무발명보상금을 횡령하고 법인카드를 부정 사용한 혐의로 강 전 의장을 검찰에 고소했다. 반면 강 전 의장 측은 한앤브라더스 최대주주로 알려진 한씨가 두 달치 호텔 스위트룸 숙박비를 법인카드로 결제하는 등 회삿돈을 유용했다며 한씨를 고소했다.&lt;br&gt;&lt;br&gt;경영권 분쟁을 겪는 와중에 지난해 한씨가 정·관·재계, 법조계 고위 인사들을 상대로 로비했다는 의혹이 불거지기도 했다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난 4월 서울 강남구 도곡동 바디프랜드 본사와 역삼동 한앤브라더스 본사를 압수수색했다. 검찰은 두 사람의 법인카드 내역 등도 확보해 용처를 분석 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원 “시위 중 체포된 전장연 대표에 국가가 1000만원 배상해야”</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/30/BAHAJDS6NFDUNLIJRXYUS6DS74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/30/BAHAJDS6NFDUNLIJRXYUS6DS74/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 30 Oct 2024 10:11:23 +0000</pubDate>
-      <content:encoded>서울 시내버스의 운행을 방해한 전국장애인차별연대(전장연) 활동가들을 체포한 경찰의 행동이 위법이라는 판결이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DOVHXOI6DBOCREADXFF4KQGLAI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전국장애인차별철폐연대(전장연) 활동가들이 25일 오전 서울 중구 국가인권위원회 앞 버스 정류장에서 장애인 이동권 관련 시위를 위해 대학로 방면으로 가는 741번 저상버스에 탑승하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 민사68단독 손광진 판사는 30일 박경석 전장연 상임공동대표 등 2명이 국가를 상대로 낸 손해배상 청구 소송에서 원고 일부 승소 판결했다. 손 판사는 국가가 박 대표에게 700만 원을, 활동지원가 박모씨에게 300만 원을 각각 지급하고, 소송비용 중 3분의 1을 부담해야 한다고 했다.&lt;br&gt;&lt;br&gt;재판부는&amp;nbsp;“이 사건 체포 과정에서 발생한 일련의 행위들은 위법하고 객관적 정당성을 잃은 것이라고 봄이 상당하다”고 설명했다.&lt;br&gt;&lt;br&gt;박 대표는 작년 7월 14일 서울 여의도 글래드호텔 앞 노상에서 버스를 가로막아 운행을 방해한 혐의로 현행범 체포됐다가 이튿날 석방했다. 당시 그는 녹색 신호인 횡단보도에서 버스 앞을 막고 “버스에 태워달라”고 외쳤는데 3분여 뒤 경찰의 제지로 인도로 밀려나 연행됐다. &lt;br&gt;&lt;br&gt;박 대표는 체포 요건을 갖추지 않았음에도 경찰이 현행범 체포를 했고, 이후 서울 남대문경찰서로 이송되는 과정에서 휠체어, 안전띠 등이 마련되지 않은 호송 차량에 탑승했다며 국가를 상대로 약 3000만원의 손해배상을 청구하는 소송을 제기했다. 앞서 경찰 측은 작년 11월 첫 공판에서 체포 요건을 모두 갖췄고 장애인 호송 차량을 이용해 호송한 것이라고 반박한 바 있다. &lt;br&gt;&lt;br&gt;전장연 측은 이날 선고 직후 기자회견을 통해 “오늘 법원의 판단은 경찰의 위법 행위에 제동을 건 것”이라며 “불필요하게 항소해 세금 낭비를 하지 말고 재발방지 조치를 하길 바란다”고 입장을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, 野신영대 ‘경선 여론조작 혐의’ 소환 조사</title>
-      <link>https://www.chosun.com/national/national_general/2024/10/30/GNC7SVQMOVH2TO5I6LG3O4MQI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/10/30/GNC7SVQMOVH2TO5I6LG3O4MQI4/</guid>
-      <dc:creator>강우석 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 30 Oct 2024 09:01:24 +0000</pubDate>
-      <content:encoded>서울북부지검은 지난 제22대 총선 기간 여론 조작과 새만금 태양광 발전사업 비리 의혹 등 혐의를 받는 신영대(재선·전북 군산김제부안갑) 더불어민주당 의원을 소환 조사했다고 30일 밝혔다. 북부지검은 이날 신 의원을 소환, 공직선거법 위반 혐의를 조사했다. 지난 8월 20일에 이은 두번째 소환조사다. &lt;br&gt;&lt;br&gt;신 의원은 지난 3월 민주당 군산·김제·부안갑 당내 경선 여론조사에서 휴대전화 약 100여대 등을 여론조사 응답용으로 개통해 본인에게 유리하게 여론을 조작한 혐의를 받는다. 신 의원은 당시 경선에서 김의겸 전 의원과 맞붙어 1% 안팎의 근소한 차이로 승리해 공천을 받고 재선에 성공했다.&lt;br&gt;&lt;br&gt;당시 군산시장애인체육회 사무국장이던 이모씨는 신 의원의 여론조작을 도운 혐의로 구속 기소된 후 지난 11일 열린 첫 재판에서 혐의를 인정했다. 같은 혐의를 받는 신 의원의 전현직 보좌관 2명도 이달 추가로 기소됐다.&lt;br&gt;&lt;br&gt;신 의원은 당내 경선이 진행되던 지난 1월 군산 시내 한 보험사 사무실에서 마이크와 확성기를 이용해 새만금 개발사업 성과 등 의정활동을 홍보한 혐의로 기소돼 전주지법에서 재판을 받고 있다. 공직선거법은 연설·대담·토론용을 제외한 공개된 장소에서 마이크 등 음향 장치를 이용한 선거운동을 금지하고 있다. 검찰은 최근 신 의원에 당선무효(100만원) 기준에 못 미치는 벌금 80만원을 구형했다.&lt;br&gt;&lt;br&gt;한편 신 의원은 새만금 태양광 발전사업 비리 의혹으로도 수사를 받고 있다. 신 의원은 2020년 새만금 태양광 발전 사업 중 일부를 담당하던 군산시민발전주식회사 대표 서모씨로부터 1억 원 상당의 뇌물을 전달받은 혐의를 받는다. 서씨는 군산 지역 정·관계 인사들에게 태양광 발전 사업 관련 청탁을 한 대가로 1억원을 수수한 혐의로 지난 5월 구속기소된 바 있다. 검찰은 최근 재판에서 서씨에 징역 2년 6개월을 구형했다. 신 의원은 지난 검찰조사에서 혐의를 대부분 부인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, ‘공천개입’ 의혹 강혜경 소환…이틀 연속 조사 중</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/30/RCHTOMRCZ5F5RA72CYGPJRYYCY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/30/RCHTOMRCZ5F5RA72CYGPJRYYCY/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 30 Oct 2024 08:55:20 +0000</pubDate>
-      <content:encoded>김건희 여사의 ‘공천개입’ 의혹 및 정치 브로커 명태균씨의 ‘여론조사 비용 불법 조달’ 의혹 등을 수사 중인 검찰이 이틀 연속으로 핵심 인물인 강혜경씨를 소환하는 등 관련자 조사에 속도를 내고 있는 것으로 알려졌다. 강씨는 지난 23일 검찰에 출석해 한 차례 조사를 받았었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TFFXGZWTTJJXFETCV3BSU3K2RA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사의 '공천개입' 의혹과 명태균씨의 '여론조사 비용 불법 조달' 의혹을 제기한 강혜경씨가 지난 23일 오전 1차 소환조사를 받기 위해 경남 창원시 성산구 창원지방검찰청으로 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 본지 취재를 종합하면, 창원지검 형사4부(부장 김호경)는 이날 강씨를 정치자금법 위반 혐의 피의자 신분으로 불러 조사하고 있다. 전날(29일)에 이어 이틀째 조사하는 것이다. 검찰은 강씨로부터 확보한 녹취 파일 4000여 개와 관련자 진술 내용 등을 종합해 김영선 전 의원으로부터 세비 9000여 만원이 명씨에게 전달된 경위, 여론조사업체 미래한국연구소가 수행한 여론조사의 비용을 지방선거 예비후보들이 건넨 돈으로 충당했는지 여부 등을 묻는 것으로 전해졌다. 창원지검 수사팀은 지난달 30일 김 전 의원과 명씨, 강씨의 주거지와 사무실 등을 압수 수색해 컴퓨터, 통화녹음, 회계 자료 등을 확보했다.&lt;br&gt;&lt;br&gt;강씨는 지난 대선 과정에서 명씨가 당시 윤석열 대통령 후보에게 ‘불법 여론조사’를 해준 대가로 김 전 의원이 2022년 6월 재보궐선거 공천을 받았고, 공천 과정에 김 여사가 개입했다는 의혹을 제기한 인물이다. 강씨는 “국민의힘 지방선거 예비후보들이 여론조사 비용 2억2700만원을 대납했다”고 주장하고 있다. 명씨가 두 명의 예비후보에게 공천을 미끼로 여론조사 비용 대납을 요구했다는 것이다. 또 이들이 공천을 받지 못하자 돈을 돌려달라고 했는데, 김 전 의원이 보궐 선거에서 당선된 후 선관위에서 받은 선거 보전금으로 일부를 갚아줬다는 것이 강씨 주장이다. 강씨는 미래한국연구소 부소장을 지냈다.&lt;br&gt;&lt;br&gt;검찰은 이날 미래한국연구소 측에 1억4500만원을 건넨 혐의를 받는 국민의힘 기초단체장 예비후보였던 A씨도 불러 조사하고 있다. 지난 27일엔 미래한국연구소 측에 8200만원을 혐의를 받는 광역의원 예비후보 B씨도 불러 조사한 상태다. 강씨가 주장하는 여론조사 비용 대납을 확인하기 위한 차원이다.&lt;br&gt;&lt;br&gt;창원지검은 지난 24일 김 전 의원의 현역 시절 보좌관과 선임비서관, 수행비서 등 3명을 참고인 신분으로 조사하는 등 수사에 속도를 내고 있다. 핵심 인물인 명씨와 김 전 의원도 근시일 내에 소환해 조사할 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>野 돈봉투 혐의 의원들 배탈 핑계까지...검찰 “13일까지 출석하라”</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/30/5PZ6OCOTAVELTGCBZDYEFBFLGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/30/5PZ6OCOTAVELTGCBZDYEFBFLGI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 30 Oct 2024 08:47:22 +0000</pubDate>
-      <content:encoded>이른바 ‘민주당 전당대회 돈봉투’ 사건과 관련해 돈봉투를 받은 것으로 지목된 더불어민주당 현직 의원 5명이 검찰에 출석해 조사받기로 협의하고도 이런저런 핑계로 나오지 않고 있는 것으로 30일 전해졌다. 이들의 불출석 사유는 국정감사 준비, 재·보궐선거 유세 지원 등이었고, “배가 아파 출석하기 어렵다”는 의원도 있었다고 한다. 검찰은 이들에게 “내달 13일까지 출석해 조사 받으라”는 통보를 이날 보냈다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IPKYKBQRSJK3R434U5SJJVZGTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 청사 전경. /조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 지난 2021년 4월 28일 국회 외교통일위원회 소회의실에서 열린 ‘송영길(전 민주당 대표) 지지 모임’에 참석해 300만원이 든 돈봉투를 윤관석 전 의원에게서 수수한 혐의를 받고 있는 민주당 김영호·민병덕‧박성준‧백혜련‧전용기 의원은 지난달 말쯤 검찰에서 대면 조사를 받기로 검찰과 협의한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰은 돈봉투를 의원들에게 건넨 혐의로 기소된 윤관석 전 의원과 이를 받은 이성만·임종성 전 의원, 허종식 의원 등 4명이 1심에서 모두 유죄를 선고받은 점 등을 고려할 때, 다른 의원들도 혐의가 상당 부분 입증됐다고 보고 처분 전 피의자 조사를 진행하겠다는 방침이다.&lt;br&gt;&lt;br&gt;민주당 의원들은 조사 일정 직전에 “출석하지 못하겠다”고 검찰에 통보했다고 한다. “국정감사 준비로 시간이 없다” “원내 일정과 겹쳐 조정이 어렵다” 등 제각각 이유를 들었고, 한 의원은 “복통이 심해 도저히 못 가겠다”고 전해 왔다고 한다. 검찰 한 관계자는 “의원들의 비공개 출석 요청도 다 받아들였는데, 나오지 않고 있는 것으로 안다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 의원에게 돈봉투를 받은 것으로 지목된 전현직 의원은 모두 10명이다. 이 중 3명은 기소됐고, 박영순 전 의원은 지난 7월 조사를 받았다. 그러나 민주당 의원 5명과 조국혁신당 황운하 의원 등 6명은 9개월 넘게 검찰의 출석 요구에 불응하고 있는 것이다.&lt;br&gt;&lt;br&gt;검찰은 이날 불출석 의원 6명에게 “다음 달(11월) 13일까지 출석해 조사받으라”고 출석 요구서를 보냈다고 한다. 검찰 관계자는 “재·보궐선거가 끝났고, 국정감사도 이번 주 마무리되는 만큼 의원들이 불출석할 이유가 없어 보인다”며 ”계속 불출석하면 강제 구인을 검토할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
