@@ -6,6 +6,46 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>화우, 하나은행 출신 신탁 전문가 배정식∙박현정 영입… 자산관리센터 확대 개편</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/202547.jpg" alt="202547.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;배정식 ∙ 박현정&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.hwawoo.com/kor/main?lang=ko" target="_blank"&gt;&lt;b&gt;법무법인 화우&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8808"&gt;이명수&lt;/span&gt;)가 신탁 전문가인 배정식∙박현정 하나은행 전 리빙트러스트센터장을 각각 수석전문위원과 전문위원으로 영입했다. 화우는 이번 영입과 함께 기존 WM(Wealth Management)팀을 자산관리센터로 확대 개편하고 패밀리오피스 본부를 신설해 개인자산가 및 기업을 대상으로 한 자산관리 서비스를 강화할 방침이다.&lt;br /&gt;&lt;br /&gt;배정식 수석전문위원은 하나은행에서 유언대용신탁을 처음 도입해 상속과 증여, 기업승계 등의 분야에서 다수의 자산관리 신탁을 담당했으며 하나은행에서 국내 최초로 신탁센터를 설립했다. &lt;br /&gt;&lt;br /&gt;박현정 전문위원은 하나은행 프라이빗뱅커(PB)로 리빙트러스트센터에서 팀장, 센터장으로 활동하며 가족배려신탁, 봉안플랜신탁, 100년 운용신탁 상품 등을 출시했다. 금융연수원에 '신탁상속설계전문가' 과정을 개설하는 데 기여한 공로로 2023년 법무부 표창을 받았다.&lt;br /&gt;&lt;br /&gt;화우는 자산관리센터로의 확대 개편을 통해 상속 및 증여, 유류분, 가업승계, 성년후견, 이혼 등 다양한 자산관리 법률 및 세무 서비스를 원스톱으로 제공할 예정이다. 조세, 금융, M&amp;A 등 관련 분야 전문가들과의 협업을 통해 자산관리의 전문성을 강화하고 이를 기반으로 고객 맞춤형 법률 자문을 수행할 계획이다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8808"&gt;이명수&lt;/span&gt;(57·사법연수원 29기) 화우 대표변호사는 "신탁 분야 경험이 풍부한 두 전문가의 합류로 자산관리센터의 서비스 수준이 한층 높아질 것"이라며 "상속 및 기업 승계, 자산관리의 모든 영역에서 최적의 서비스를 제공하겠다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;</description>
+			<pubDate>Fri, 01 Nov 2024 03:03:37 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/202547</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202547</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202547.jpg</media:thumbnail>
+			<dc:creator>이진영 기자</dc:creator>
+		</item>
+		<item>
+			<title>사단법인 나눔과 이음, 10주년 기념 감사 행사 성료</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/202548.jpg" alt="202548.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;나눔과이음 10주년 행사에 참석한 사단법인 구성원들과 시민단체 임직원들.&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;사단법인 나눔과이음(이사장 민일영)은 지난 10월 21일 서울 종로구 법무법인 세종 세미나실에서 '나눔과이음 10주년 감사 행사'를 개최했다. 2014년 9월 설립된 나눔과이음은 지난  10년간 협력해 온 시민단체 26곳을 초청해 감사 인사를 전하고자 이번 행사를 열었다고 밝혔다.&lt;br /&gt;&lt;br /&gt;행사에는 '탈북민 리더 양성 프로그램' 협력기관인 한빛종합사회복지관, '탈북민 영어말하기 대회' 공동 개최기관 에프에스아이(FSI, Freedom Speakers International), '비진학청년·학교밖청소년 창업가 및 예술가 공익활동지원사업'을 함께하는 다다다협동조합 등 총 18개 단체가 참석했다.&lt;br /&gt;&lt;br /&gt;행사는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="31436"&gt;서유진&lt;/span&gt;(37·변호사시험 6회) 나눔과이음 변호사의 사회로 진행됐다. 1부에서는 지난 10년간 활동 성과를 보고하는 시간이 마련됐으며, 2부에서는 각 단체가 활동을 소개하며 네트워킹의 기회를 가졌다. 감사패 증정식도 이어졌다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="966"&gt;민일영&lt;/span&gt;(69·사법연수원 10기) 이사장은 "앞으로도 다양한 방면에서 협력해 더 좋은 공익활동을 이어갈 수 있도록 오래 함께 해주시기를 바란다"고 말했다.&lt;br /&gt;&lt;br /&gt;사단법인 나눔과이음은 법무법인 세종이 설립한 공익사단법인으로, 탈북민 및 아동·청소년 등 사회적 취약계층을 대상으로 한 법률지원과 사회적 기업 지원 등의 공익활동을 전문적으로 수행하고 있다.</description>
+			<pubDate>Fri, 01 Nov 2024 02:56:30 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/202548</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202548</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202548.jpg</media:thumbnail>
+			<dc:creator>안현 기자</dc:creator>
+		</item>
+		<item>
+			<title>[단독] '리틀 김·장' 법무법인 린, 김·장 출신 최기록 변호사 영입</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/202543.jpg" alt="202543.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;'리틀 김·장'으로 불리는 &lt;a href="https://www.law-lin.com/" target="_blank"&gt;&lt;b&gt;법무법인 린&lt;/b&gt;&lt;/a&gt;(대표&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7428"&gt;임진석&lt;/span&gt;)이 김·장 법률사무소 출신의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5763"&gt;최기록&lt;/span&gt;(60·사법연수원 23기)&amp;nbsp;변호사를 1일 영입했다. &lt;br /&gt;&lt;br /&gt;최기록 변호사는 사법시험 합격 후 공정거래위원회에서 일했다. 이후 1998년 김·장 법률사무소에 합류해 공정거래뿐만 아니라 부동산·건설·제약 등 다양한 산업분야에서 폭넓은 경험을 쌓았다. 그는 린에서도 공정거래 분야를 비롯해 그간의 경험을 살려 GR(Government Relations)팀 등에서도 활약할 예정이다.&lt;br /&gt;&lt;br /&gt;이번 영입은 단순한 보강 이상의 의미가 있는 행보로 분석된다. &lt;br /&gt;&lt;br /&gt;2017년 설립된 린은 김·장 출신 베테랑들을 적극적으로 영입하며 빠르게 입지를 넓혀왔다. 법률신문의 2024 대한민국 로펌 컨수머 리포트에서 '히든챔피언'으로 선정된 린은 대형 로펌 출신 변호사들이 주도적으로 사건을 처리해 대형 로펌 수준의 서비스를 제공하고 있다고 평가받았다. 당시 린은 역량 평가 전 항목에서 평균 4.5점(5점 만점) 이상을 기록했고, '적정한 수임료' 항목에서는 전체에서 유일하게 5점 만점을 받으며 '반값 김·장'이라는 수식어를 얻기도 했다.&lt;br /&gt;&lt;br /&gt;최기록 변호사는 1일 "린은 꾸준히 성장하고 있는 법인"이라며 "제가 가진 경험이 린의 발전에 조금이라도 보탬이 돼서 큰 발전을 이룰 수 있도록 돕고 싶다"고 합류 소감을 밝혔다.&lt;br /&gt;&lt;br /&gt;최기록 변호사는 대전고, 연세대 법대를 졸업해 1991년 제33회 사법시험에 합격했다. 공정거래위원회에서 경쟁국·하도급국·법무심의관실 등을 거쳐 1998년 김·장 법률사무소 변호사에 합류해 지난 달 말까지 근무했다. 국무총리실 정부업무평가 전문위원, 콘텐츠분쟁조정위원회 법률자문위원, 국민권익위원회 규제심사위원회 위원 등 다방면에서 활동해 왔다.</description>
+			<pubDate>Fri, 01 Nov 2024 02:00:00 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/202543</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202543</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202543.jpg</media:thumbnail>
+			<dc:creator>안현 기자</dc:creator>
+		</item>
+		<item>
+			<title>검찰, '쌍방울 대북송금 의혹' 이화영 항소심서 징역 15년 구형</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/202536.jpg" alt="202536.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size: 14px; line-height: 1.6em;"&gt;이화영 전 경기도 평화부지사가 10월 2일 국회 법제사법위원회에서 열린 박상용 수원지검 부부장검사에 대한 '탄핵소추 사건 조사' 관련 청문회에 출석, 의원 질의에 답하고 있다. 《연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;/p&gt;쌍방울그룹의 불법 대북송금에 관여한 혐의로 기소된 이화영 전 경기도 평화부지사에게 검찰이 항소심에서 징역 15년과 벌금 10억 원을 구형했다.&lt;p&gt;&amp;nbsp;&amp;nbsp;   &lt;p&gt;      &lt;b&gt;수원고법 형사1부&lt;/b&gt;(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1657"&gt;문주형&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="10741"&gt;김민상&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="15402"&gt;강영재&amp;nbsp;&lt;/span&gt;고법판사)는 지난달 31일 특정범죄 가중처벌 등에 관한 법률 위반(뇌물) 등 혐의를 받는 이 전 부지사의 항소심 결심 공판에서 검찰은 1심과 마찬가지인 "징역 15년에 벌금 10억 원, 3억3400여만 원의 추징을 선고해 달라"고 요청했다.   &lt;/p&gt;   &lt;p&gt;      &lt;br /&gt;검찰은 "고위공무원이 스폰서로부터 수억 원의 뇌물과 정치자금을 수수한 후진적 정경유착의 전형적인 범행"이라며 "피고인은 전례없는 사법방해와 모든 책임을 김성태 쌍방울 전 회장에게 전가하는 파렴치한 행위를 이어가고 있다"고 밝혔다.   &lt;/p&gt;   &lt;p&gt;&amp;nbsp; &lt;br /&gt;이 전 부지사에게 뇌물을 전달한 혐의로 함께 기소된 방용철 쌍방울 부회장에게도 1심과 같은 징역 2년 6개월이 구형됐다.&lt;/p&gt;   &lt;p&gt;      &lt;br /&gt;이 전 부지사는 2019년 당시 이재명 경기도지사의 방북 비용 300만 달러와 북한 스마트팜 사업 비용 500만 달러 등 쌍방울의 800만 달러 대북송금에 공모한 혐의로 구속기소됐다. 검찰은 이 전 부지사와 오랜 기간 친분을 유지해온 김성태 전 쌍방울 회장이 경기도 대북사업에 우선적 사업 기회를 부여받는 대가로 이 전 부지사의 부탁을 받고 경기도를 대신해 800만 달러를 북한 조선노동당 중앙위원회 부위원장인 김영철 조선아태위 위원장에게 전달한 것으로 보고 있다.   &lt;/p&gt;   &lt;p&gt;      &lt;br /&gt;지난 6월 1심 재판부는 이 전 부지사에게 징역 9년 6개월에 벌금 2억 5천만 원 형을 선고했다(2022고합733).   &lt;/p&gt;   &lt;/p&gt;</description>
+			<pubDate>Fri, 01 Nov 2024 01:59:02 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/202536</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202536</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202536.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2024년 11월 1일</title>
 			<description>&lt;b&gt;◇ 국정감사&lt;/b&gt;&lt;br /&gt;10:00 국회운영위원회 국정감사(본관 319호)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;◇ 의원실 세미나&lt;/b&gt;&lt;br /&gt;09:30 조배숙 의원실 등, 보편적 인권과 차별금지법 : 차별금지법 제정 움직임에 대한 문제점(국회도서관 강당)&lt;br /&gt;&lt;br /&gt;10:00 한기호 의원실 등, 北 러시아 파병 무엇이 문제인가?(의원회관 제8간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 인요한 의원실, 초저출생시대 종교시설 활용 아동돌봄 관련 법안 개정에 관한 토론회(의원회관 제2세미나실)&lt;br /&gt;&lt;br /&gt;10:00 박충권 의원실, 플랫폼 시대 지속가능한 ICT 생태계 조성을 위한 정책 개선 토론회(의원회관 제3세미나실)&lt;br /&gt;&lt;br /&gt;10:00 허성무 의원실, 한·체코 미래 경제 협력 토론회 : 한·체코 원전 수주 이후 양국 간 경제 협력 강화(의원회관 제2소회의실)&lt;br /&gt;&lt;br /&gt;14:00 김승수 의원실 등, 문화예술진흥기금 재원 안정화를 위한 국회 토론회(의원회관 제3세미나실)&lt;br /&gt;&lt;br /&gt;15:00 한정애 의원실 등, [INC-5 부산 개최 기념 국회 세미나]: 플라스틱 오염 종식 대응 전략과 국제협력 방안(의원회관 제1세미나실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 소통관 기자회견&lt;/b&gt;&lt;br /&gt;09:20 전종덕 의원, [쌀값 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:40 김남근 의원, [쿠팡·배달의민족 수수료 인하 및 우대 수수료 적용 확대 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 장경태 의원, [정치 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;13:20 강득구 의원, [자녀 학교폭력 지방의원 사퇴 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;13:40 황명선 의원, [지역 현안 관련 기자회견]&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
 			<pubDate>Thu, 31 Oct 2024 22:36:45 -0000</pubDate>
@@ -200,46 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202500</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202500.jpg</media:thumbnail>
 			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>인하우스카운슬포럼, 11월 12일 창립 25주년 기념행사 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/202495.jpg" alt="202495.jpg" /&gt;&lt;/p&gt;인하우스카운슬포럼(IHCF, 회장 박철영)은 다음달 12일 6시 30분부터 서울 종로구 포시즌스 호텔 누리볼룸에서 창립 25주년 기념행사를 개최한다.&lt;br /&gt;&lt;br /&gt;이번 행사에는 국내 기업·정부기관·교육기관 및 비영리단체 등의 분야에서 활동하는 사내변호사와 후원 로펌 관계자들이 참석한다. 행사에서는 공모전 시상, 이벤트 및 축하공연, 네트워킹 행사 등의 프로그램을 통해 지난 25년의 활동을 돌아보고 향후 비전을 공유할 예정이다.&lt;br /&gt;&lt;br /&gt;아울러 발간한 '인하우스카운슬포럼 창립 25주년 기념 사사'를 행사 참가자들에게 기념품과 함께 제공할 계획이다.&lt;br /&gt;&lt;br /&gt;인하우스카운슬포럼 관계자는 "이번 25주년 기념행사는 성장과 발전을 다짐하는 중요 계기가 될 것"이라고 말했다.&lt;br /&gt;&lt;br /&gt;1999년 소수의 사내변호사들로 출발한 인하우스카운슬포럼은 현재 약 2400여 명의 회원을 보유한 한국의 대표적인 사내변호사 단체로 자리 잡고 있다.&lt;br /&gt;</description>
-			<pubDate>Wed, 30 Oct 2024 08:45:06 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/202495</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202495</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202495.jpg</media:thumbnail>
-			<dc:creator>안현 기자</dc:creator>
-		</item>
-		<item>
-			<title>유네스코, '사법부 AI 사용 가이드라인 초안' 다음달 5일 IOJT 국제콘퍼런스에서 공개</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/202496.jpg" alt="202274.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;유네스코가 법원 등 전 세계 사법부에서 사용하는 인공지능(AI)과 관련한 가이드라인 초안을 다음달 5일 IOJT 국제콘퍼런스에서 공개한다.&lt;br /&gt;&lt;br /&gt;유네스코는 11월 3일부터 7일까지 5일간 경기 고양시 일산동구 소노캄 고양에서 사법연수원(원장 권기훈)과 국제사법연수기구(International Organization for Judicial Training, IOJT)와 공동으로 개최하는 '제11회 IOJT 국제콘퍼런스'에서 '사법부 인공지능 사용 가이드라인 초안'(가칭)을 공개할 예정이다.&lt;br /&gt;&lt;br /&gt;유네스코는 2013년부터 '저지 이니셔티브(Judges' Initiative)를 통해 전 세계 사법 관계자들의 교육에 도움을 주고 있다.&lt;br /&gt;&lt;br /&gt;지난해 유네스코가 실시한 설문조사(98개국, 500명)에 따르면, 조사에 참여한 사법기관 종사자 중 93%가 AI 기술을 알고 있으며 44%가 챗지피티(ChatGPT)와 같은 AI 도구를 업무에 활용하고 있는 것으로 나타났다.&lt;br /&gt;&lt;br /&gt;그러나 전체 응답자 중 9%만이 '소속기관에서 AI 관련 지침을 마련했거나 AI 교육을 제공했다'고 답한 것으로 나타났다. 이러한 설문조사 결과에 대해 유네스코는 "법원 등에서 AI 시스템을 사용할 때 필요한 지침의 필요성이 강조된 것"이라고 설명했다. &lt;br /&gt;&lt;br /&gt;유네스코는 "현재 사법 분야에서는 AI 도구의 적절한 사용에 대한 지침이 제한적"이라며 "호주, 브라질, 캐나다, 뉴질랜드, 영국 등 일부 국가에서는 사법 행정에 AI 도구를 윤리적이고 책임 있게 활용하는 방법에 관한 공식 원칙이나 가이드라인을 발표한 바 있다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;이에 유네스코는 전 세계 법원 및 재판소에서 AI 시스템 사용을 위한 지침 초안을 마련했다. 지침은 AI 기술의 활용이 정의와 인권, 법치주의의 기본 원칙에 부합하도록 법원 등에 포괄적인 가이드라인을 제공하는 것을 목표로 하고 있다.&lt;br /&gt;&lt;br /&gt;가이드라인은 내달 5일&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3751"&gt;권영준&lt;/span&gt;(54·사법연수원 25기) 대법관의 사회로 진행되는 '인공지능 시대 법의 지배를 위한 사법 역량 강화 전략' 세션에서 공개된다.&lt;br /&gt;&lt;br /&gt;2002년 조직된 IOJT는 사법 연수를 위한 국제기구로 현재 140여 개의 세계 주요 사법연수기관으로 구성돼 있다. 사법연수원은 2018년 IOJT에 가입했으며 2022년 동북아시아 기관 중 최초로 IOJT 총회 및 국제콘퍼런스를 유치했다. 이번 국제콘퍼런스에는 해외 50개국의 법관 및 사법연수관계자 200여 명과 국내 법관 및 법조인 100여 명이 참석할 예정이다.</description>
-			<pubDate>Wed, 30 Oct 2024 07:18:13 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/202496</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202496</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202496.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] '서울대 N번방' 주범, 1심서 징역 10년</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/202497.jpg" alt="2.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;이른바 '서울대 N번방' 사건에서 허위 음란물을 제작하고 배포한 혐의 등으로 재판에 넘겨진 주범이 1심에서 징역 10년을 선고받았다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;서울중앙지법 형사31부&lt;/b&gt;(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="586"&gt;박준석&amp;nbsp;&lt;/span&gt;부장판사)는 30일 아동·청소년의 성보호에 관한 법률 위반(성착취물제작·배포등) 등 혐의로 기소된 박모 씨에게 징역 10년을 선고했다. 함께 기소된 공범 강모 씨에게는 징역 4년을 선고했다(&lt;b&gt;2024고합465&lt;/b&gt;). 재판부는 두 사람에게 각각 80시간의 성폭력 치료 프로그램 이수와 5년의 신상정보 공개·고지도 명령했다.&lt;br /&gt;&lt;br /&gt;재판부는 박 씨에 혐의에 대해 모두 유죄로 인정했다.&lt;br /&gt;&lt;br /&gt;재판부는 "박 씨가 제작한 허위 음란물은 그 자체로 혐오감이 들 뿐만 아니라, 그를 두고 나눈 대화도 경악스러울 정도"라며 "사냥감을 선택하듯이 피해자를 선정해 졸업사진과 결혼사진, 가족사진 등을 이용해 장기간에 걸쳐 성적으로 모욕하고 인격을 말살시켜 비난가능성이 크다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;이어 "박 씨 등은 시험으로 인한 강박증 등 때문에 범행에 이르렀다고 주장하지만, 이들의 대화 내용을 보면 정신적 문제가 없고 범죄라는 사실도 명확히 인식하고 있다"며 "정신병적 증세가 아닌, 사회적으로 잘 나가는 여성에 대한 열등감과 증오심으로 텔레그램이 보장하는 익명성 등 분위기에 취해 범행을 저지를 것으로 보인다"고 설명했다.&lt;br /&gt;&lt;br /&gt;그러면서 "피해자들은 사회적 인간관계가 파괴되고, 남성에 대한 신뢰를 상실해 혼인이 파탄에 이르기도 했다"며 "범죄의 피해 회복이 사실상 불가능하고, 박 씨 등을 엄중히 처벌해 법과 도덕을 무시하면 어떻게 되는지 알리고, 사회에 경종을 울리는 것이 필요하다"고 강조했다.&lt;br /&gt;&lt;br /&gt;박 씨는 지난 2021년 7월부터 올해 4월까지 서울대 동문 여성들의 사진을 이용해 허위 영상물을 제작·유포한 혐의 등으로 재판에 넘겨졌다. 총 61명에 달하는 피해자들의 얼굴이 담긴 허위 영상물 2000여 개를 텔레그램으로 유포한 것으로 알려졌다. 불법 촬영물을 외장하드디스크에 저장하는 방법으로 소지하거나 아동·청소년 성 착취물을 제작하고 소지한 혐의도 있다.&lt;br /&gt;&lt;br /&gt;강 씨는 박 씨가 피해자의 사진을 건네면서 허위 영상물을 합성, 가공하도록 요구하면 이에 따라 영상물을 제작한 혐의로 함께 기소됐다.</description>
-			<pubDate>Wed, 30 Oct 2024 07:14:21 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/202497</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202497</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202497.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>바른, 신임 경영총괄대표에 이동훈 변호사, 경영대표에 이영희·김도형 변호사</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/202492.jpg" alt="202492.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;이동훈 변호사 · 이영희 변호사 · 김도형 변호사&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;a href="https://www.barunlaw.com/" target="_blank"&gt;&lt;b&gt;법무법인 바른&lt;/b&gt;&lt;/a&gt;이&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8758"&gt;이동훈&lt;/span&gt;(56·사법연수원 23기) 변호사를 신임 경영총괄대표로 선임한 데 이어&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="266"&gt;이영희&lt;/span&gt;(53·29기),&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11691"&gt;김도형&lt;/span&gt;(48·34기) 변호사를 경영대표로 추가 선임했다.&lt;br /&gt;&lt;br /&gt;이들은 내년 1월부터 3년 임기 동안 바른의 경영을 맡을 예정이다. 이영희 경영대표는 재무를, 김도형 경영대표는 인사를 담당할 것으로 전해졌다. 새 운영위원으로는 이영희·김도형 변호사와 이응세·최문기·김병일·최재웅 변호사가 선출됐다.&lt;p&gt;   &lt;br /&gt;이동훈 신임 경영총괄대표는 고려대 법대를 졸업하고 1991년 제33회 사법시험에 합격했다. 대전지법 판사로 임관해 서울중앙지법·서울고법 판사, 대법원 재판연구관을 거쳐 부산지법 부장판사, 수원지법 부장판사를 역임한 뒤 2014년 바른에 합류했다. 이후 2019년부터 경영대표로 활동하며 고액 자산가의 자산 관리와 기업 승계를 담당하는 '바른EP센터'를 이끌어왔다.&lt;br /&gt;&lt;br /&gt;그는 "새로운 경영진을 중심으로 법인의 전문성을 강화하고, 송무를 포함한 다양한 법률 서비스 영역에서의 경쟁력을 높이겠다"며 "디지털 전환과 ESG 등 변화하는 경영 환경에서 실질적인 솔루션을 제공하는 법무법인으로 자리 잡겠다"고 말했다.&lt;br /&gt;&lt;br /&gt;이영희 경영대표는 1994년 이화여대 법대를 졸업 후 제39회 사법시험에 합격했다. 2001년부터 2002년까지 이용호 게이트 사건의 특별검사 특별수사관으로 활동한 바 있다.&lt;br /&gt;&lt;br /&gt;현재 법무법인 바른의 대표변호사로서 인사·노무, 건설(재개발, 재건축 및 집합건물법), 가사 사건을 주로 담당하고 있다. 현대자동차, 두산중공업, 대교, 지엠대우 등 기업에 노동법률 자문과 소송업무를 수행했다. 수색7, 왕십리뉴타운 제3구역, 가재울뉴타운 제3구역 등 재개발·재건축 관련 자문과 소송을 맡아왔다.&lt;br /&gt;&lt;br /&gt;김도형 경영대표는 고려대 법대를 졸업한 후 제44회 사법시험에 합격했다. 2008년 법무법인 바른에 합류한 이후 민·형사 소송을 경험한 후 금융, 자본시장, 보험 관련 송무 및 자문업무를 주로 담당했다.&lt;br /&gt;&lt;br /&gt;김 변호사는 신한은행 사태, KIKO 소송, 중국고섬 상장폐지 관련 손해배상 소송, 대우조선해양 분식회계 소송 등 굵직한 사건들을 맡아왔다. 김 변호사는 금융그룹장을 거쳐 2022년부터 법무법인 바른 운영위원으로 회사 경영에도 참여하고 있다.&lt;br /&gt;&lt;/p&gt;</description>
-			<pubDate>Wed, 30 Oct 2024 07:03:08 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/202492</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202492</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202492.jpg</media:thumbnail>
-			<dc:creator>이진영 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
