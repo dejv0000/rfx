@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>4억 람보르기니 받은 아반떼…"중앙선 침범했다" 목격담 쏟아진 사고</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/02/TOTGMHSU3ZEUHG5J2BSAPOSSYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/02/TOTGMHSU3ZEUHG5J2BSAPOSSYQ/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Nov 2024 14:49:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y7TQ3CJSBFECLCO57TSXPDXYTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 안양에서 중앙선을 침범한 아반떼가 좌회전 중인 람보르기니를 들이 받는 사고가 발생했다./X(엑스·옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국산 준중형차가 중앙선 침범으로 수억원대 수퍼카를 들이 받은 사고 현장이 온라인상에 공개돼 여러 목격담이 쏟아지고 있다.&lt;br&gt;&lt;br&gt;2일 여러 온라인 커뮤니티에는 ‘아반떼 람보르기니 사고’라는 제목으로 경기 안양의 한 아파트 주차장 입구에서 벌어진 사고 영상이 올라왔다.&lt;br&gt;&lt;br&gt;영상을 보면 중앙선을 침범한 회색 아반떼 차량이 아파트 주차장 입구에서 나와 좌회전 중이던 빨간색 람보르기니 차량과 추돌한 모습이 담겼다. 가해 차량 운전자가 차에서 내려 사고 상황을 파악하며 얼굴을 감싸 쥐는 모습도 담겼다.&lt;br&gt;&lt;br&gt;함께 공개된 사진을 보면 람보르기니 운전석 쪽이 심하게 찌그러졌으며 아반떼 차량 역시 운전석 바퀴 펜더 부분 등이 파손됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2PPVQDEP6VCOPGMEO47XMOMEKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 안양에서 중앙선을 침범한 아반떼가 좌회전 중인 람보르기니를 들이 받는 사고가 발생했다./X(엑스·옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사고 모습은 인근 주민 단체카톡방 등을 통해 빠르게 온라인상으로 퍼져나갔고, 여러 목격담이 공유됐다.&lt;br&gt;&lt;br&gt;목격담에 따르면 아반떼 차량을 몰던 여성 운전자는 정차중이던 차량을 앞지르기 위해 중앙선을 넘었다가 사고를 일으킨 것으로 전해졌다. 사고 당시 이 도로에는 배달용 탑차가 주정차돼 있었다는 게 목격자들 주장이다.&lt;br&gt;&lt;br&gt;또 일부 목격자들은 “(피해 차량) 시동 안 걸려서 전손처리 한다더라”고 주장하기도 했다.&lt;br&gt;&lt;br&gt;전손처리는 차량 사고 등으로 인한 수리비가 차값의 70~80%를 초과할 때 전체에 걸쳐 손실을 입었다고 간주하는 보험 제도다. 피해 차량은 람보르기니 우라칸 에보 스파이더로 추정된다. 국내에서 한정판으로 판매된 이 차량의 출고 가격은 약 3억8000만원으로, 중고 시장에서 4억원대에 거래되고 있다.&lt;br&gt;&lt;br&gt;이 사고는 따로 경찰에 접수되지 않은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;한편 중앙선 침범과 앞지르기 위반은 12대 중과실에 해당하는 사고로, 보험 가입 여부와 상관없이 민사상 책임 외에도 형사상 책임을 지게 된다. 다만 판례에 따르면 편도 1차선 도로에서 공사나 불법주차된 차량 등으로 인해 어쩔 수 없이 비켜가야 하는 경우는 예외로 인정된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘은평구 존속 살해’ 30대 男 구속…“도주 우려”</title>
       <link>https://www.chosun.com/national/incident/2024/11/02/LFHGZL6QN5APZIOP3A23W4GFPY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/02/LFHGZL6QN5APZIOP3A23W4GFPY/</guid>
@@ -835,19 +844,6 @@
       <description/>
       <pubDate>Fri, 01 Nov 2024 04:51:36 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OUCX7J2GSNBNNFFLLHKXV7ZREY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 강화군청 전경./강화군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;위험구역으로 설정돼 대북 전단 등을 보내는 행위가 금지된 인천 강화군에서 쌀이 담긴 페트병을 북쪽으로 보내려던 탈북민단체가 적발됐다.&lt;br&gt;&lt;br&gt;1일 인천 강화군과 강화경찰서 등에 따르면 이날 오전 10시 30분쯤 인천 강화군 석모도 항포 인근 해안에서 한 탈북민단체가 쌀이 담긴 페트병을 바다에 띄우려 한다는 제보가 경찰에 접수됐다.&lt;br&gt;&lt;br&gt;이 단체는 조류가 북쪽으로 향하는 때에 맞춰 쌀과 달러 지폐 등이 담긴 페트병 300개를 바다에 띄워 북쪽으로 보내려 한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰로부터 제보 내용을 전달받은 강화군은 현장을 찾아, 강화군 전역이 위험구역으로 설정돼 대북 전단 등을 보낼 경우 처벌될 수 있다는 내용을 탈북민단체 측에 알렸다.&lt;br&gt;&lt;br&gt;재난 및 안전관리 기본법은 위험구역으로 설정된 지역에서 금지 행위를 하다 적발될 경우, 1년 이하의 징역 또는 1000만 원 이하의 벌금에 처하도록 규정하고 있다.&lt;br&gt;&lt;br&gt;탈북민단체는 준비해 온 페트병을 바다에 띄우지 않고 오전 11시쯤 돌아갔다.&lt;br&gt;&lt;br&gt;강화군 관계자는 “페트병을 바다에 띄우지 않도록 설득했고, 탈북민단체는 30여분 만에 돌아갔다”며 “탈북민단체와의 충돌은 없었고, 페트병을 북쪽에 보내는 행위를 당분간 자제하겠다는 뜻도 나타냈다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>문다혜, ‘前남편 특혜 채용 의혹’ 검찰 참고인 조사 재차 불응</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/01/TPTBDYGBIRCQ7FCG7VZMM4BVQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/01/TPTBDYGBIRCQ7FCG7VZMM4BVQA/</guid>
-      <dc:creator>전주=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 01 Nov 2024 04:11:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WE3J3DZGDCBTO3UDU5YPO7NX34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주운전 사고를 일으킨 문재인 전 대통령의 딸 문다혜 씨가 지난달 18일 오후 경찰 조사를 받기 위해 서울 용산구 용산경찰서로 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문다혜(41)씨가 문재인 전 대통령의 전 사위 서모(44)씨의 ‘타이이스타젯 특혜 채용’ 의혹과 관련해 검찰의 참고인 조사에 재차 불응했다.&lt;br&gt;&lt;br&gt;전주지검 형사3부(부장 한연규)는 1일 “다혜씨가 전날 변호인을 통해 참고인 조사에 응하지 않겠다는 의사를 전달했다”고 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 이상직 전 의원이 지난 2018년 중소벤처기업진흥공단 이사장으로 임명된 것과 관련해, 항공 분야 경력이 없는 서씨가 이 전 의원이 실소유한 타이이스타젯에 전무이사로 채용된 과정에서 특혜가 있었는지 수사를 진행하고 있다.&lt;br&gt;&lt;br&gt;다혜씨는 지난 2018년 남편이었던 서씨가 타이이스타젯 전무이사로 취업하자 함께 태국으로 이주했다. 검찰은 지난 8월 30일 서울 종로구 부암동의 다혜씨 집에 검사와 수사관을 보내 전 남편 서씨의 취업과 태국 이주 관련 자료들을 확보했다. 검찰은 다혜씨가 운영하는 서울 서대문구의 전시 기획사와 제주도 별장도 압수 수색했다.&lt;br&gt;&lt;br&gt;검찰은 서씨가 2018년 7월~2020년 4월 이상직 전 민주당 의원이 실소유한 태국 항공사 타이이스타젯에 임원으로 취업해 받은 급여와 체류비 등 2억2300여 만원을 문 전 대통령에게 건넨 뇌물로 보고 수사 중이다.&lt;br&gt;&lt;br&gt;다혜씨의 검찰 조사 불응은 지난달에 이어 두 번째다. 검찰은 다혜씨 주거지 등에 대한 압수수색 뒤 변호인과 소환일자를 조율해왔었다고 한다. 다혜씨가 검찰에 출석하지 않아도 참고인 출석은 강제성이 없어 처벌받지 않는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/WE3J3DZGDCBTO3UDU5YPO7NX34.jpg?width=5000&amp;height=3644&amp;auth=66fc517dc858a082e23a100b51b64426f147fe074756b02f02429ce973689ef4&amp;smart=true" type="image/jpeg" height="3644" width="5000">
-        <media:description type="plain">음주운전 사고를 일으킨 문재인 전 대통령의 딸 문다혜 씨가 10월 18일 오후 경찰 조사를 받기 위해 서울 용산구 용산경찰서로 출석하고 있다. / 연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
-      </media:content>
     </item>
     <item>
       <title>’다자 연애’ 대학생 실명∙얼굴 공개한 목사, 벌금형 확정</title>
