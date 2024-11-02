@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>"접종도 안하고 딸 얼굴 만져"…사진촬영 우려한 박수홍 아내, 무슨일?</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/02/LV3NRZXWMZBTVL4WEJ32YBMCCY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/02/LV3NRZXWMZBTVL4WEJ32YBMCCY/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Nov 2024 08:40:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CVQFUC2HEJBT5J5DJVPS3YF5KU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박수홍 가족./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 박수홍의 아내 김다예씨가 딸 전복이(태명)의 신생아 촬영 도중 우려스러운 상황을 겪었다고 밝혔다가 온라인상 다양한 반응이 나왔.&lt;br&gt;&lt;br&gt;김씨는 2일 전복이 소셜미디어(SNS) 계정을 통해 “(산후)조리원에서 전복이 신생아 촬영. 요즘은 조리원에서 연계해서 신생아 촬영을 하나보더라. 우리 전복이 너무 착하고 예쁘게 촬영했다”고 운을 뗐다.&lt;br&gt;&lt;br&gt;그러면서 그는 “(촬영 관계자들이) 다만 아기 만지고 아기 얼굴 가까이 대고 말하시던데 백일해 예방접종은 다 안했다고 하셔서 걱정돼서 조마조마했다”며 “매주 다른 신생아들도 만나실텐데 너무 우려스러운 건 엄마 마음일까. 전복아 면역력 키우자”라고 덧붙였다.&lt;br&gt;&lt;br&gt;김씨가 공개한 사진에는 마스크와 가운을 착용한 직원이 전복이의 자세를 매만지며 촬영을 준비하는 모습이 담겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNUTCYCAS5H57KPADO3CTQMSTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박수홍 아내 김다예씨가 공개한 신생아 사진촬영 현장./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김씨의 게시글은 온라인상에서 갑론을박을 불렀다.&lt;br&gt;&lt;br&gt;일부 네티즌들은 “조리원 와서 사진 찍는 사람들인데 백일해 접종 당연히 해야 하는 것 아닌가?” “아기들 자주 상대하는 직업이면 백일해 접종은 기본이다” “엄마로서 걱정하는 것은 당연하다” 등 김씨의 의견에 공감했다.&lt;br&gt;&lt;br&gt;반면 “너무 유난 떠는 거 아닌가” “조리원 측에 문제 제기 하면 되지 SNS에 올려서 공개적으로 비판할 일은 아니다” “일반인 사진을 저렇게 막 공개하면 안 된다” 등의 반응도 나왔다.&lt;br&gt;&lt;br&gt;이 같은 다양한 반응이 오가자 김씨는 현재 해당 게시글을 SNS에서 내린 상태다.&lt;br&gt;&lt;br&gt;백일해는 보르데텔라균에 감염돼 발생하는 호흡기 질환이다. 기침, 발열, 인후통, 콧물 등, 감기 증세와 유사한 증상을 나타내며 전염성이 매우 높은 편이다. 연령이 어릴수록 사망률이 높아지며 1세 미만의 사망률이 가장 높다. 예방을 위해서는 예방접종이 가장 중요하며 올바른 손씻기의 생활화, 기침예절, 환기, 씻지 않은 손으로 눈, 코, 입 만지지 않기 등이 필요하다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>신경 안정제 먹고 무면허 운전한 20대 여성…9명 경상</title>
+      <link>https://www.chosun.com/national/incident/2024/11/02/UZPLS4MOHBC4LHV4BL2EUWCDSE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/02/UZPLS4MOHBC4LHV4BL2EUWCDSE/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Nov 2024 08:15:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PODMGVEKJ3L3I6F4X7WK4M2VKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 오후 1시 39분쯤 서울 강남구 역삼동 국기원입구사거리에서 강남역 12번 출구로 향하는 테헤란로에서 20대 여성 A씨가 운전하던 차가 역주행을 하며 차량 7대를 잇달아 들이받는 8중 추돌 사고가 발생했다.&lt;br&gt;&lt;br&gt;서울 강남경찰서와 소방 당국에 따르면 이 사고로 운전자 등 9명이 경상을 입었으며 이 중 2명이 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;A씨는 무면허로 확인돼 현장에서 현행범으로 체포됐다. 경찰에 따르면 사고 당시 A씨에게서 음주는 감지되지 않았으며 마약 간이 시약 검사 결과도 음성 판정을 받았다. A씨는 현재 유치장에 수감돼있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “마약 투약 여부는 정밀 검사를 진행할 예정”이라고 했다. A씨는 경찰에 “신경 안정제를 먹고 운전을 했다”고 진술하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 교통사고처리 특례법상 치상 등 혐의로 입건하고 자세한 사고 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PODMGVEKJ3L3I6F4X7WK4M2VKY.jpg?width=4000&amp;height=2252&amp;auth=fd28f2c30690cbb127ee9aa2091267525db6ae88e297530315769950ed48eb91&amp;smart=true" type="image/jpeg" height="2252" width="4000">
+        <media:description type="plain">서울 강남경찰서 전경./뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>사실혼 아내 마구 때려 숨지게 한 70대, 2심서도 징역 20년</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/02/N2K2C2CQ7NEKZO2QVE2FR4JYAA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/02/N2K2C2CQ7NEKZO2QVE2FR4JYAA/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Nov 2024 08:56:19 +0000</pubDate>
+      <content:encoded>사실혼 관계의 여성을 무차별적으로 때려 숨지게 한 혐의로 재판에 넘겨진 70대 남성이 2심에서도 중형을 선고 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZI4FM4RQYZBBBK4AUEPPITYI6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 법조계에 따르면 서울고법 형사7부(재판장 이재권)는 최근 살인 혐의로 기소된 김모(73)씨의 항소를 기각하고 원심과 같은 징역 20년을 선고했다.&lt;br&gt;&lt;br&gt;김씨는 작년 11월 24일 오후 1시에서 5시 30분 사이 경기 부천시 주거지에서 점심 식사를 하며 술을 마신 뒤 알 수 없는 이유로 격분해 피해자 A씨를 마구 때리고 목을 졸라 숨지게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;집에 단둘이 있던 상황에서 벌어진 일이고, 김씨가 범행에 관해 “술을 마셔 기억이 안 난다”는 등의 이유로 자세한 설명을 회피해 A씨의 정확한 사망 시점을 특정하진 못했다.&lt;br&gt;&lt;br&gt;김씨는 수사기관에서부터 법정에 이르기까지 “A씨가 ‘일 나가니까 일어나서 밥 드시라’는 글을 남겨 놓았는데, 밥이 다 식어서 못 먹겠어서 안 먹었다. A씨가 집에 돌아와서 ‘왜 안 먹었냐’고 해서 ‘밥맛이 없었다’고 하니 다시 상을 차려줬고, 소주를 마셨다. 먹고 자리에서 일어났는데 외손주에게 전화가 와 있는 것을 보고 외손주에게 전화를 하려던 것까지 기억나고 그 이후는 기억이 안 난다”는 취지로 주장했다.&lt;br&gt;&lt;br&gt;김씨에 대한 정신감정에선 ‘김씨는 자신에 대한 비판이나 자신과 다른 평가에 대해선 쉽게 분노반응을 보이는 경향이 있다’고 결과가 나왔다.&lt;br&gt;&lt;br&gt;A씨의 주변인들은 ‘A씨가 남편이 술을 자주 먹고 술을 마시면 괴롭힌다고 했다’ ‘A씨가 밥을 차려놓고 가도 집에 없으면 김씨가 밥을 먹지 않고 기다렸다가 따뜻한 밥을 안 해준다며 뭐라 한다고 했다’ ‘2015년쯤 A씨가 남편한테 엄청 맞아 신발도 휴대전화도 없이 도망 나와 도와달라고 해서 다른 지인 집에서 머무르게 해준 적이 있다’ 등의 진술을 하기도 했다.&lt;br&gt;&lt;br&gt;앞서 1심인 인천지법 부천지원 형사1부(재판장 김정아)는 “김씨는 약 20년 동안 사실혼 관계에 있던 피해자를 무차별적으로 폭행해 현장에서 즉사하게 했다. 피해자는 극심한 공포와 고통 속에서 생을 마감했다”며 징역 20년을 선고했다.&lt;br&gt;&lt;br&gt;김씨는 사실 오인과 양형 부당을 이유로 항소했지만 2심 재판부는 원심의 판단이 정당하다며 항소를 기각했다.&lt;br&gt;&lt;br&gt;한편 김씨가 2심 판단에도 불복해 상고장을 제출하며 이 사건은 대법원 판단을 받게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천서 성 소수자 축제 열려…기독교계에선 동성애 반대 맞불 집회</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/02/Z5Y22FLZPNEXXKSKQUQPGDNNSM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/02/Z5Y22FLZPNEXXKSKQUQPGDNNSM/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Nov 2024 08:30:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/36LCJVYMQVNJXK2F5FBJPQIYJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오후 인천시 부평구 부평역 인근에서 제7회 인천퀴어문화축제가 열리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동성애자를 비롯한 성 소수자들의 인권과 다양성을 알리는 퀴어문화축제가 2일 인천시에서 열렸다.&lt;br&gt;&lt;br&gt;이날 오후 인천 부평구 부평역 일대에서 열린 행사에는 성 소수자 단체와 진보 시민단체 관계자, 일반 시민 등 경찰 추산 300여명이 참여했다. 행사장 곳곳에선 성 소수자의 다양성을 뜻하는 무지개색 깃발이 휘날렸다. 행사 부스에서는 손수건과 깃발 등 각종 기념품이 전시되기도 했고 이를 구경하는 성 소수자 등 시민들로 붐볐다.&lt;br&gt;&lt;br&gt;참가자들은 무지개 두건을 머리나 목에 두르기도 했다. 이들은 ‘성 소수자를 응원합니다’ ‘차별금지법 제정하라’라고 적힌 손 팻말을 든 모습이었다. 또 일부는 ‘프리허그’라고 적힌 팻말을 들고, 서로 껴안기도 했다. 아이와 함께 행사장을 찾은 시민들도 있었다.&lt;br&gt;&lt;br&gt;임신규 인천퀴어문화축제조직위 공동조직위원장은 환영사에서 “평등한 도시 인천을 만들기 위한 노력은 절대 멈출 수 없다”며 “모두가 환영받고 존중받는 세상을 위해 함께 손잡고 나아가자”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W6PSJD22DBLATFXSA7RUKFYCXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오후 인천시 부평구 부평역 광장에서 기독교단체가 퀴어축제 반대 집회를 진행하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;퀴어문화축제는 2000년 서울에서 처음 열린 이후 국내 곳곳에서 해마다 열리는 행사다. 인천에서는 2018년 첫 퀴어문화축제가 열렸다. 당시 기독교 단체와 보수 성향 시민단체 등에서 반대 집회를 열었고, 행사 참가자들과 물리적 충돌을 빚기도 했다. 지난해 축제에서는 부평역 일대에서 진행된 퍼레이드 대열에 50대 남성이 난입했다가 경찰에 제지 당하기도 했다.&lt;br&gt;&lt;br&gt;이날 같은 시각 행사장과 약 200m정도 떨어진 부평역 북광장에서는 행사를 반대하는 기독교 단체 회원 1800명이 집회를 열었다. 이들은 “동성애 퀴어축제 반대” “차별금지법 반대”등의 구호를 외쳤다. 경찰은 물리적 충돌을 막기 위해 일부 반대 단체 집회 인원들이 행사장에 접근하는 것을 통제하기도 했다.&lt;br&gt;&lt;br&gt;이날 행사 참여자들은 부평역에서 부평구청역 방면으로 거리 행진을 벌였다. 경찰은 이날 만일의 사태에 대비해 19개 기동 중대 1700여명을 현장에 배치했으며, 집회·행진 장소 주변에 교통안내 입간판과 현수막을 설치하고 차량을 우회시켰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ODLCQA756VKHTC7RXUT2G6ULLA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오후 인천 부평역 일대에서 열린 제7회 인천퀴어축제에서 참가자들이 거리 행진을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>'가을 한복판' 11월인데…서울 낮 기온 25도까지 치솟아</title>
       <link>https://www.chosun.com/national/transport-environment/2024/11/02/RHVC64LHIVBVFME65BBXXDAIMI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/11/02/RHVC64LHIVBVFME65BBXXDAIMI/</guid>
@@ -815,24 +855,6 @@
       </media:content>
     </item>
     <item>
-      <title>“목구멍이 포도청이라”… ‘비빔대왕’ 유비빔, 식당 불법영업 고백</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/01/LVF4X2N6TJFIZLC7X27A4QBY2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/01/LVF4X2N6TJFIZLC7X27A4QBY2U/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 01 Nov 2024 04:25:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DQPSUM7NBVCX7NGUJW3WJRL67Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;유비빔씨. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개명까지 할 정도로 비빔밥에 인생을 건 남자로 잘 알려진 ‘비빔대왕’ 유비빔씨가 식당 불법영업을 해온 사실을 고백했다.&lt;br&gt;&lt;br&gt;유씨는 1일 자신의 인스타그램에 찍어 올린 ‘죄송스러운 마음으로 지난날 저의 잘못을 고백하고자 합니다’란 제목의 장문 자필 사과문에서 “저는 과일행상, 포장마차, 미용실까지 여러 장사를 해왔지만, 번번이 실패해 2003년부터 허가가 나지 않은 곳에서 음식점을 운영하다 구속돼 집행유예 판결을 받았다”며 “깊이 반성했고, 이후 1년간 가게를 폐업했다”고 운을 뗐다.&lt;br&gt;&lt;br&gt;유씨는 “그러나 목구멍이 포도청이라 아내 명의로 공연전시한식체험장 사업자로 등록해 편법으로 얼마 전까지 영업했다”며 “저는 떳떳하게 음식점을 운영하기 위해 각 공공기관 및 규제개혁위원회에 규제를 풀어 달라고 간절히 호소하고 매달렸지만, 그 벽이 너무 높아 저의 뜻을 이루지 못했다”고 했다.&lt;br&gt;&lt;br&gt;연합뉴스에 따르면, 유씨는 실제로 구청에 신고하지 않고 조리기구 등을 갖춰 불법영업을 한 혐의(식품영업법 위반)로 기소돼 2015년 징역 8개월을 선고받은 뒤 항소심에서 집행유예로 감경됐다. 당시 유씨는 국유지를 임대해 연간 부지 임차액을 98만원을 지불하고 연간 매출액 수억원을 냈다고 한다. 재판부는 “장기간에 걸쳐 여러 차례 법질서를 무시한 데다 연이은 단속에도 불법영업을 계속하거나 영업주를 바꿔 법망을 피해 갔으며 불법영업으로 누적한 순이익금이 수억 원에 달하는 점 등을 고려할 때 엄벌로 경종을 울려야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BCL2TX3F7NB5PDZEINHPBP2DE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유비빔씨가 올린 사과문. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 대해 유씨는 “어떤 이유로든 법을 어기는 것은 정당화할 수 없음을 알고 있다”며 “일반인이었던 제가 갑작스럽게 이목이 쏠리는 상황에서 저와 아내는 하루도 마음 편한 날이 없었다”고 했다 .&lt;br&gt;&lt;br&gt;유씨는 앞으로 기존 식당 공간을 시민들에게 비빔 관련 전시 및 공연 장소로 무료 개방하고, 영업 대신 비빔 현상을 연구하는 데 집중하겠다고 밝혔다. 유씨는 “이제 초심으로 돌아가 비빔 현상을 연구하고, 비빔 문자 대백과사전 집필에 전념하겠다”며 “사죄하는 마음으로 제가 20년간 혼신을 다해 가꿔온 옛 비빔소리공간은 모두를 위한 비빔전시, 비빔공연장소로 무료개방하겠다”고 했다. 또 “한옥마을로 이전한 비빔소리에서는 합법적으로 최선을 다해 보답하겠다”고 했다 .&lt;br&gt;&lt;br&gt;끝으로 유씨는 “최선을 다해 보답하겠다. 다시한번 저의 부족함으로 실망을 드려 죄송하다. 지난 20년은 생계를 위해 살았다면, 앞으로 20년은 대한민국의 비빔 문화를 위해 살겠다”고 했다.&lt;br&gt;&lt;br&gt;유씨는 비빔 요리법에 빠져 2007년 이름까지 ‘비빔’으로 개명한 것으로 유명한 요리사다. 이 같은 사연이 화제를 모아 여러 방송과 유튜브 등에 출연했다. 롯데리아의 전주비빔라이스버거, 동원F&amp;amp;B의 양밤 비빔드밥 등 비빔 관련 광고를 촬영하기도 했다. 가장 최근에는 한 온라인동영상서비스(OTT) 요리 경연 프로그램에 출연해 이목을 끌었다. 당시 유씨는 곤룡포를 입고 등장해 자신을 ‘전주의 비빔대왕’이라고 소개하며 “세계를 비비려고 태어난 사람”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘신영대에 1억 제공 의혹’ 태양광 사업 브로커 징역 1년 6개월</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/01/MYVNN3FIIZBDFOE5FMC32HKDVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/01/MYVNN3FIIZBDFOE5FMC32HKDVY/</guid>
-      <dc:creator>강우석 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 01 Nov 2024 01:38:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZCZS6VIPBGLJYPUDC3GASFZ3MQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울북부지법 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신영대(재선·전북 군산김제부안갑) 더불어민주당 의원에게 태양광 발전 사업 청탁을 위해 1억원을 제공한 혐의를 받는 사업가가 징역 1년 6개월을 선고받았다.&lt;br&gt;&lt;br&gt;서울북부지법 형사12단독 허명산 부장판사는 1일 오전 10시 특정범죄가중처벌법상 알선수재 혐의를 받는 군산시민발전주식회사 대표 서모(52)씨에게 징역 1년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;서씨는 2020년 새만금 태양광 사업을 담당하다 군산 지역 정·관계 인사들에게 태양광 발전 사업 관련 청탁을 한 대가로 1억원을 수수하고 신 의원에게도 1억원 상당의 뇌물을 준 혐의를 받는다.&lt;br&gt;&lt;br&gt;재판부는 “태양광 사업 관련 민원 해결을 위해 한국수력원자력 측으로부터 뇌물 목적임을 알면서도 1억원을 받은 것은 죄책이 무겁다”면서도 “사건 범행을 인정하고 반성하고 있는 점, 한수원으로부터 받은 1억원을 개인 목적으로 사용하지 않고 상당기간 지역사회 발전을 위해 노력한 점을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;서울북부지검 국가재정범죄합수단(단장 이일규)은 지난달 31일 신 의원에 대해 특정범죄가중처벌 등에 관한 법률 위반(뇌물) 및 공직선거법 위반 혐의로 구속영장을 청구했다고 밝혔다. 서씨에게 1억원 상당의 뇌물을 전달받고, 지난 3월 총선 경선 당시 여론조작을 한 혐의다. 22대 현직 국회의원에게 구속영장이 청구된 첫 사례다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>’다자 연애’ 대학생 실명∙얼굴 공개한 목사, 벌금형 확정</title>
       <link>https://www.chosun.com/national/court_law/2024/11/01/GFMQ4VRIUVCZVEFU4GGAAUOBQE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/01/GFMQ4VRIUVCZVEFU4GGAAUOBQE/</guid>
@@ -840,15 +862,6 @@
       <description/>
       <pubDate>Fri, 01 Nov 2024 03:00:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBR3WQSNXYDIR43J5WW5EB4IXM.png"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법 포항지원은 지난 2020년 1월 30일 성소수자∙다자 연애 관련 강연을 개최했다는 이유로 한동대에서 무기정학을 받은 A씨가 낸 무기정학 처분 무효 확인 소송에서 원고 승소 판결을 내렸다. 이날 선고 이후 '한동대 학생 부당징계 공동대책위원회'가 법원 앞에서 판결을 환영하는 기자회견을 하고 있는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘폴리아모리(비독점적 다자 간 연애)’를 하는 대학생의 실명∙얼굴을 온라인 블로그에 공개하며 비판한 목사가 명예훼손으로 기소돼 대법원에서 유죄가 확정됐다.&lt;br&gt;&lt;br&gt;1일 법조계에 따르면, 대법원 3부(주심 엄상필 대법관)는 정보통신망법 명예훼손 혐의로 기소된 서요한 목사에게 벌금 50만원을 선고한 원심을 지난달 8일 확정했다.&lt;br&gt;&lt;br&gt;이 사건에서 문제 된 ‘다자 간 연애’는 연애 대상을 한 명으로 제한하지 않고, 동시에 여러 사람과 사랑을 할 수 있다는 견해 혹은 정체성을 의미한다. 남성 A씨는 2017~2018년 개신교계 대학인 한동대에 재학하며 폴리아모리 관련 활동가 여성 B씨, 다른 남성과 함께 다자 연애 관계를 맺고 있었다.&lt;br&gt;&lt;br&gt;그러다 A씨가 2017년 12월, 2018년 2월 한동대에서 두 차례 성소수자∙다자 연애 관련 강연을 개최하자, 대학 측은 A씨에게 무기징학 처분을 내렸다. 개신교 이념과 반대되는 강연을 진행하고 다자 연애를 한다는 등의 이유였다. 이후 A씨가 불복해 낸 소송에서 법원은 “징계는 무효”라며 원고 승소 판결을 했다.&lt;br&gt;&lt;br&gt;당시 교계를 중심으로 다자 연애 논란이 불거지자, 서 목사는 2018년 1월 자신이 이끄는 기독교 단체 블로그에 ‘폴리아모리 생활하는 B씨의 글을 읽어보니’라는 글을 올렸다. 서 목사는 A씨와 B씨의 실명, A씨가 등장한 언론 인터뷰 영상 등을 인용하면서 “A씨는 자신을 ‘성적으로 문란한 자’라고 비난하는 주변 사람들과 학교를 향한 원망만을 늘어놓는다” “소수의 행동이라고 보호받는 건 아니다” “자신의 행동이 왜 소문이 나는지 생각해 봐야 할 것”이라며 비판했다.&lt;br&gt;&lt;br&gt;검찰은 “서 목사는 A씨를 비방할 목적으로 폴리아모리의 삶을 산다는 사실을 드러내 명예를 훼손했다”며 기소했다. 서 목사는 A씨가 다자 연애를 한다는 것을 공공연하게 드러내 명예훼손의 위험을 자초했다고 주장했다.&lt;br&gt;&lt;br&gt;1심은 서 목사에게 무죄 판결을 내렸다. 1심은 “이 사건 게시글은 A씨가 폴리아모리의 삶을 살고 있다는 것을 폭로하기 위해서가 아니라 자신의 의견을 개진하기 위해 작성된 것으로 보인다”며 “A씨 스스로 폴리아모리 삶을 살고 있다고 적극 밝혀 논란에 원인을 제공한 측면이 있다”고 판단했다.&lt;br&gt;&lt;br&gt;그러나 2심은 이를 뒤집고 명예훼손 혐의를 인정했다. 2심 재판부는 “서 목사의 글이 의견 표명에 불과하다거나 공익을 위한 것이라고 보이지 않는다”며 “피해자를 비방하려는 목적이 인정된다”고 밝혔다. 당시 피해자인 A씨가 다자 연애를 한다는 사실이 널리 알려지지 않았고, 이를 알리고 싶어 하지도 않던 상황에서 서 목사가 강제로 성적 지향을 공개했다는 것이다.&lt;br&gt;&lt;br&gt;대법원도 원심 판단이 맞는다고 봤다. 대법원은 “널리 알려진 공적 인물로 볼 수 없는 A씨의 내밀한 사적 영역에 속하는 (다자 연애) 사실을 실명, 얼굴 사진 등과 함께 공개했다”며 “이는 피해자의 인격권을 중대하게 침해하는 것”이라고 지적했다. 그러면서 “서 목사는 공익에 관한 것으로 보기 어려운 A씨의 성적 지향을 드러내 비방할 목적으로 글을 작성∙게시했다고 인정할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>돼지 운반 차량 전도, 돼지 30마리가 고속도로에 쏟아져</title>
-      <link>https://www.chosun.com/national/regional/2024/11/01/UD4NMXUQS5AV3BCEVFUS2UKKLM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/01/UD4NMXUQS5AV3BCEVFUS2UKKLM/</guid>
-      <dc:creator>고령=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 01 Nov 2024 02:46:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YZVLIMPQN5HQTMZ6HBPINC6P4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오전 경북 고령군 성산면 광주대구고속도로 대구방향 고속도로에서 4.5t화물차가 넘어지면서 화물차에 실려 있던 돼지들이 도로로 쏟아졌다./경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 오전 9시 49분쯤 경북 고령군 성산면 광주대구고속도로 대구방향 고속도로에서 돼지를 싣고 가던 4.5t화물차가 옆으로 넘어졌다.&lt;br&gt;&lt;br&gt;이 사고로 40대 운전자가 가벼운 부상을 입었고, 화물차에 실려있던 돼지 80마리 중 30마리가 도로로 쏟아졌다.&lt;br&gt;&lt;br&gt;경찰이 돼지를 다른 화물차로 옮겨 싣기 위해 1개 차로의 차량 통행을 제한하면서 1시간 가량 정체가 발생하기도 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>檢, 코인 시세 조종 관련 압수수색…금융당국 ‘패스트트랙’ 이첩 첫 사례</title>
@@ -867,15 +880,6 @@
       <description/>
       <pubDate>Fri, 01 Nov 2024 02:26:59 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LD62YLRAYKFXLHFLJNFL35OENQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 국민연금 지사에서 관계자가 근무하고 있다. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민연금 납부 의무가 면제된 가입자 중 일부가 수입차를 소유하거나 잦은 해외 출국을 하는 등 경제적 여력이 있음에도 보험료를 내지 않는 것으로 나타났다. 성실 납부자에게 상대적 상실감을 안겨줄 수 있는 만큼 지속적인 관리가 필요하다는 지적이 나온다.&lt;br&gt;&lt;br&gt;1일 국민연금공단이 국회 보건복지위원회 김선민 조국혁신당 의원실에 제출한 ‘납부예외자 현황’에 따르면 올해 6월 기준 국민연금 가입자 중 납부예외자는 286만8359명이었다.&lt;br&gt;&lt;br&gt;이들 납부예외자 가운데 지난해 4차례 이상 해외로 출국한 사람이 5만1488명에 달했다. 31회 이상 출국한 이들도 297명이나 됐다. 한 해 동안 113회나 출국한 이도 있었다.&lt;br&gt;&lt;br&gt;또 자동차를 보유해 자동차세를 91만원 이상 내는 납부예외자는 2785명이었다. 이 중 수입차를 1대 이상 보유한 사람은 1683명이었다. 10대 넘는 수입차를 보유한 사람도 3명이나 있었다.&lt;br&gt;&lt;br&gt;현행 국민연금법에 따르면 사업장 가입자나 지역가입자가 사업중단, 실직 또는 휴직, 질병, 군 복무, 학업 등으로 보험료를 납부할 능력이 안 될 경우 국민연금공단에 신청해 납부예외자로 인정받을 수 있다. 다만 납부예외자 중 자동차세를 일정 금액 이상 내거나 1년에 해외로 4회 이상 출국한 사람, 건강보험료를 고액 납부하는 사람 등은 경제적 능력이 있을 것으로 보고 소득 여부를 확인해서 보험료를 내게 설득하고 있다.&lt;br&gt;&lt;br&gt;국민연금 보험료는 재산이 아닌 근로소득 또는 사업소득에 부과하기 때문에 소득을 신고하지 않으면 아무리 재산이 많아도 보험료를 부과할 수 없다. 국민연금공단 관계자는 “이들은 소득자료가 없기에 보험료 의무 납부 대상은 아니지만, 납부 여력이 있을 것으로 추정돼 납부를 재개하도록 안내하고 있다”며 “하지만 과세소득 자료가 없어서 의무적으로 납부 재개해야 하는 것은 아니며 본인이 원하지 않으면 계속 납부예외가 가능하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“워크숍 위탁사의 실수였다”… 정선군청이 밝힌 ‘40인분 노쇼’ 전말 </title>
-      <link>https://www.chosun.com/national/national_general/2024/11/01/Q3KKJYYTQFHUXGEBWNVRQI5RSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/01/Q3KKJYYTQFHUXGEBWNVRQI5RSM/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 01 Nov 2024 02:28:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MAIBAVV7UFBG3AWTAWK73BAPHQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;여의도에서 고깃집을 운영하는 한 점주가 지난 28일  정선군청 측으로부터 40인 예약 '노쇼'를 당했다는 내용의 글을 올렸다. /아프니까 사장이다&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고깃집에 40인분을 예약해 놓고 나타나지 않아 이른바 ‘노쇼(No-Show)’ 논란에 휩싸였던 정선군청 측이 사건이 발생하게 된 경위를 상세히 밝혔다.&lt;br&gt;&lt;br&gt;정선군청은 31일 홈페이지 자유게시판에 올린 ‘정선군청 공무원 고깃집 40인분 노쇼에 대한 답변’이라는 제목의 글에서 노쇼를 하게 된 자세한 경위를 적었다.&lt;br&gt;&lt;br&gt;글에 따르면, 군청 건설 분야 공무원 27명은 지난달 28~29일 서울로 1박2일 일정의 워크숍을 떠났다. 강사 섭외, 숙소, 이동 등 워크숍 일정 전반은 교육 컨설팅 업체가 위탁받아 관리했는데, 이 과정에서 위탁사 실수로 고깃집 예약 취소가 진작에 이뤄지지 않았다고 한다.&lt;br&gt;&lt;br&gt;군청 측은 “(노쇼 고깃집은) 약 20일 전 교육 컨설팅 업체에서 임의로 선정한 음식점 중 하나”라며 “이러한 사실을 모르는 상황에서 저희 워크숍 공무원들의 저녁식사 비용은 자비로 충당되기에 모처의 음식점으로 정했다고 업체에 전달했고, 컨설팅 업체의 실수로 예약 취소가 누락된 것이 사건의 전말”이라고 했다.&lt;br&gt;&lt;br&gt;군청 측은 노쇼하게 된 고깃집과 현재는 원만하게 합의를 마친 상태라고도 했다. 군청 측은 “공공기관과 그 소속 구성원들은 신뢰성 등으로부터 무한 책임이 부여되기 때문에 이를 해결하고자 중재하는 과정에서 금액 등 서로 간 이견이 존재하였으나, 최종적으로 교육 컨설팅 업체에서 모든 실수 등을 인정하고 해당 고깃집 주인분과 합의를 이뤘다”고 했다.&lt;br&gt;&lt;br&gt;앞서 이번 논란은 여의도에서 고깃집을 운영하는 업주가 지난 28일 자영업자 커뮤니티에 ‘공무원 단체 40명 노쇼’라는 제목의 글을 올리면서 시작됐다. 당시 업주 A씨는 “공무원 40명을 예약받고 준비해 뒀는데 노쇼를 당했다”며 “예약한 시간이 돼도 아무도 오지 않아 예약자에게 전화했더니 ‘예약한 적이 없고 이미 다른 곳에서 식사 중’이라는 황당한 답변을 받았다”고 했다. 이후 이 일은 방송에도 나왔고, 군청 지역 등이 특정되면서 정선군청 홈페이지 자유게시판에는 비난 글이 쇄도했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>내일 서해선·장항선·평택선 철도 노선 동시개통</title>
