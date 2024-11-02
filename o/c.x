@@ -13,6 +13,79 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>졸음운전 하다 공사 작업자 숨지게 했는데...1심서 집행유예 나온 이유</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/02/PEXQ7F7I2VEIJCZCQ5BGCQUQJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/02/PEXQ7F7I2VEIJCZCQ5BGCQUQJ4/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Nov 2024 03:07:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KUPSZPOGRQ7BQQUIHLZ24SSXEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;야간 고속도로 모습. 사진은 기사와 관련 없음. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;졸음운전을 하다 공사 중이던 인부를 숨지게 한 혐의를 받는 피고인이 금고형의 집행유예를 선고받았다. 유족과 합의하는 등 유족 측이 처벌을 원하지 않았기 때문이다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사10단독 류경진 부장판사는 교통사고 처리 특례법 위반(치사) 혐의로 기소된 최모씨에게 금고 1년에 집행유예 2년을 선고했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;최씨는 지난 3월 22일 새벽 4시쯤 서울 서초구 올림픽대로에서 승용차를 몰며 졸음운전을 하다 전방에 있던 도로 보수공사 작업용 화물차를 들이 받았다.&lt;br&gt;&lt;br&gt;이후 화물차가 밀리면서 그 앞에서 작업 중이던 피해자를 덮쳤고, 피해자는 현장에서 다발성 외상 등으로 사망했다.&lt;br&gt;&lt;br&gt;최씨는 수사 단계에서부터 잘못을 인정했고, 가입해 둔 운전자보험에서 지급되는 2억원을 유족에게 지급했다.&lt;br&gt;&lt;br&gt;류 부장판사는 “피고인은 졸음운전을 해 피해자가 사망에 이르는 회복할 수 없는 피해가 발생했다”면서도 “유족과 합의해 피해자의 유족들도 피고인의 처벌을 원하지 않는 점과 피고인에게 아무런 형사처벌이 없는 전력 등은 유리한 정상”이라며 양형 이유를 짚었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“폭탄가방 숨겨져있다”…‘킨텍스 폭파 예고’ 글 올린 10대 자수</title>
+      <link>https://www.chosun.com/national/incident/2024/11/02/ODNQSW5HDFHXZOYHYUWEOV6U4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/02/ODNQSW5HDFHXZOYHYUWEOV6U4Y/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Nov 2024 02:36:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NXDM4DHDQ5B3JAJ4VJXX5UC6CE.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 경기 고양시 킨텍스 행사장 앞에 관람객들이 줄을 서 있는 모습. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1일 경기 고양시 킨텍스의 한 게임 행사장에 ‘폭탄가방이 숨겨져 있다’는 글을 온라인 커뮤니티에 게시한 10대가 경찰에 자수했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이날 오전 10대 남성 A군이 부모와 함께 부천 원미경찰서를 찾아 자수했다. A씨는 지난 1일 오후 7시53분쯤 유명 인터넷 커뮤니티 게시판에 “킨텍스 행사장 대기 인원들의 짐들 중에 폭탄가방이 숨겨져 있다” “대기 인원들을 해체시키지 않으면 가방을 폭파시키겠다”는 내용의 게시글을 올린 혐의를 받는다.&lt;br&gt;&lt;br&gt;해당 글은 곧바로 삭제됐지만, 이 글을 캡처한 커뮤니티 이용자들은 “장난일 수도 있지만 진짜라면 대형사고로 이어질 수도 있다”며 112에 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;당시 킨텍스에서는 한 게임 콘텐츠 행사가 열리는 중이었고, 다음날 일찍 행사장에 입장하기 위한 관람객 200여명이 미리 줄을 서 있던 상황이었다. 이들은 현장에 출동한 경찰 및 소방당국 등에 의해 곧바로 대피했다. 경찰 특공대가 탐지견 등을 투입해 행사장과 관람객의 가방 등을 수색했으나, 폭발물은 발견되지 않았다. 대피 소동이 벌어지자 온라인 커뮤니티에서는 “킨텍스 행사장에 테러 예고로 난리가 났다”는 등의 글이 올라오기도 했다.&lt;br&gt;&lt;br&gt;A군은 “행사에 참석하기 위해 긴 줄을 서야 한다는 사실에 화가 나서 그랬다”는 취지로 경찰에 진술한 것으로 알려졌다. 경찰은 정확한 범행 경위 등을 조사할 예정이다.&lt;br&gt;&lt;br&gt;한편, 행사 운영진 측은 공지를 통해 “남은 행사일 동안 방문하는 분들께서 안전하게 행사를 즐길 수 있도록 만전을 기하겠다”며 “허위사실 유포 및 모든 위법 행위는 경찰 및 유관부서와 협력해 강경 대응을 할 수 있도록 적극 협조할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>유효기간 5개월 지난 백신 접종한 의사...법원 “3개월 자격정지 과도”</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/02/YIQHSTXLMVCOVMO2DJF2ZBT7DQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/02/YIQHSTXLMVCOVMO2DJF2ZBT7DQ/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Nov 2024 01:48:44 +0000</pubDate>
+      <content:encoded>소아환자에게 유효기간이 지난 백신을 접종해 ‘의사면허 자격정지 3개월 처분’을 받은 의사가 처분 취소 소송을 내 이겼다. 의사가 적절한 사후조치를 취했는데도 이 같은 처분은 과도하다는 취지의 판단이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PN2FKJA7XJHIVLOA2K6VUFQYEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울가정법원·서울행정법원 청사. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 법조계에 따르면 서울행정법원 행정1부(재판장 양상윤)는 의사 이모씨가 보건복지부 장관을 상대로 낸 의사면허 자격정지 처분 취소 소송을 최근 원고 승소로 판결했다.&lt;br&gt;&lt;br&gt;이씨는 2022년 10월 8일 경기 시흥시 한 병원 소아청소년과에서 당시 방문한 소아환자에게 유효기간이 5개월 이상 경과한 독감백신을 접종했다. 당시 담당 간호조무사로부터 백신을 건네받아 투여한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;뒤늦게 이를 인지한 이씨는 같은 날 환자 보호자에게 이러한 사실을 알린 뒤 보호자와 지속적으로 통화하며 환자 상태를 확인했다.&lt;br&gt;&lt;br&gt;이씨는 이 사실을 병원에도 보고했고 병원 감염팀장은 이를 보건소에 알렸다. 보건소는 질병관리청에 해당 사실을 보고했다.&lt;br&gt;&lt;br&gt;이후 보건복지부는 작년 7월 의료법 등에 근거해 이씨에게 3개월의 의사면허 자격정지 처분을 내렸다. 이씨는 작년 11월 ‘이 처분은 지나치게 가혹해 재량권을 일탈·남용했다’고 주장하며 소송을 제기했다.&lt;br&gt;&lt;br&gt;재판부는 “이 사건 처분은 그 위반 행위의 내용에 비해 제재 정도가 과중해 재량권을 일탈·남용한 것으로 판단된다”며 이씨 측 손을 들어줬다.&lt;br&gt;&lt;br&gt;재판부는 “고도의 전문지식을 갖추고 환자의 생명과 건강을 다루는 의사에겐 높은 수준의 주의의무가 요구된다”면서도 “피고는 이러한 위반 행위의 동기·내용·전후 사정 등 참작할 만한 사정들을 고려하지 않고 기계적으로 이 사건 처분을 한 것으로 보인다”고 지적했다.&lt;br&gt;&lt;br&gt;그러면서 “이씨의 행위는 일회적인 것이고 고의가 아닌 단순 부주의에 기인한 것이며 결과적으로 환자에게 부작용 등 특이사항이 발생한 것으로 보이지도 않는다”며 “이씨는 (위반 행위) 이후에도 지속적으로 환자의 보호자에게 전화해 상태를 확인하고 사과하는 등 적절한 사후조치를 취했다”고 설명했다.&lt;br&gt;&lt;br&gt;아울러 “이씨는 2022년 11월 15일 본인의 과실을 순순히 인정하는 취지의 확인서를 작성했고, 소아청소년과 전문의로 약 20년 재직하는 동안 이 사건 외 제재 처분을 받은 전력이 없다”면서 “이 같은 사정들을 보면 이 사건 처분은 위법해 취소돼야 한다”고 짚었다.&lt;br&gt;&lt;br&gt;양측 모두 항소하지 않아 이 판결은 지난달 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>필라테스 강사 출신 방송인 양정원, 사기 혐의 피소</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/02/W4FJUY4G7VAR3DFHBDMYJYYXFQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/02/W4FJUY4G7VAR3DFHBDMYJYYXFQ/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Nov 2024 01:22:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HTO5ND3KIVBXLOG34KXFV4KLI4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/양정원 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유명 필라테스 강사 출신 방송인인 양정원(35)씨가 필라테스 학원 가맹점을 모집하는 과정에서 주부들에게 허위 계약조건을 내걸었다며 사기 혐의로 고소당했다.&lt;br&gt;&lt;br&gt;2일 경찰 등에 따르면 서울 강남경찰서는 사기·가맹사업법 위반 혐의로 양씨에 대한 고소장을 접수해 지난 7월 말부터 양씨와 필라테스 학원 가맹점 운영 본사 관계자들을 입건해 조사 중이다.&lt;br&gt;&lt;br&gt;경찰에 따르면 피해자들은 양정원이 교육이사이자 홍보모델로 활동한 필라테스 학원의 가맹주점주들이다.&lt;br&gt;&lt;br&gt;가맹점주들은 고소장에서 “본사에서 직접 교육한 강사진을 가맹점에 파견하는 직영 방식으로 운영한다”며 노하우를 공유하겠다고 했지만, 실제로는 구인구직 사이트에서 모집한 강사를 배정했다고 주장한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;가맹점주들은 또 시중에서 2600만원 정도에 판매하는 필라테스 기구를 상표만 바꾸는 식으로 본사에서 직접 연구·개발했다고 속여 가맹점에 6200만원에 강제로 구매하게 했다고 주장한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;양씨는 아직 경찰 소환 조사를 받지 않은 것으로 파악됐다. 경찰 관계자는 “피의자 수가 많아 순차적으로 불러 조사 중이다”고 말했다.&lt;br&gt;&lt;br&gt;양씨 측은 그러나 “홍보 모델로서 초상권 계약만 진행했을 뿐 사업 내용은 모른다”는 입장을 전했다. 본사 측도 “양 씨는 회사 모델로 가맹 사업에 대한 설명이나 참여를 하지 않았다”는 입장인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>파주 산후조리원서 불…신생아·산모 수십명 대피 “인명피해 없어”</title>
+      <link>https://www.chosun.com/national/incident/2024/11/02/SJVZZFO54BEE3JBVZD6W5LLYXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/02/SJVZZFO54BEE3JBVZD6W5LLYXE/</guid>
+      <dc:creator>파주=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Nov 2024 00:38:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WTNJXN7PCFFWVJ2OWGPKRRVVNI.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 오후 9시 45분쯤 경기 파주시 야당동의 한 산후조리원에서 불이 났다. 화재가 발생한 8층 마사지실에 건조된 수건이 쌓여있다. /경기북부소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1일 밤 경기 파주시의 한 산후조리원에서 불이 나 산모와 신생아들이 대피하는 소동이 빚어졌다.&lt;br&gt;&lt;br&gt;2일 경기북부소방재난본부에 따르면 전날 오후 9시 45분쯤 파주시 야당동의 한 10층짜리 건물 7~8층에 있는 산후조리원에서 불이 났다. 당시 “건물 8층에서 연기가 난다”는 신고가 119에 접수됐다. 소방 당국은 장비 28대와 60명을 출동시켰으나, 건물 내 스프링클러가 작동되면서 불은 10분 만에 자체 진화됐다.&lt;br&gt;&lt;br&gt;이 불로 신생아 14명을 비롯해 산모와 가족 등이 대피했으며, 다행히 인명 피해는 없었다. 신생아 14명 중 10명은 인근 산후조리원 2곳으로 분산 이동조치 됐으며, 4명은 자택으로 귀가했다.&lt;br&gt;&lt;br&gt;불은 내부 집기 등을 태워 소방서 추산 6800여만원의 재산 피해를 낸 것으로 파악됐다.&lt;br&gt;&lt;br&gt;소방 당국은 8층 마사지실에 건조된 수건을 쌓아놓은 바구니에서 잠열(潛熱)로 인한 자연발화로 불이 난 것으로 보고 구체적인 화재 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>엉터리 장애인 주차증 사용한 여성, 벌금형 선고</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/02/YJXBN3VKYNGXNAFP3M3XOI6GOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/02/YJXBN3VKYNGXNAFP3M3XOI6GOM/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Nov 2024 00:25:28 +0000</pubDate>
+      <content:encoded>장애인전용구역 주차표지를 부정 사용한 여성에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WIQFKYTKCBIV7CSZECH2RNZQHQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 세종로 공영주차장의 한 장애인 주차구역. 사진은 기사 내용과 직접적인 관련 없음.  /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사3단독 이종민 판사는 공문서부정행사 혐의로 재판에 넘겨진 우모(50)씨에게 벌금 100만원을 선고했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;우씨는 지난 2월 28일 오후 2시쯤 서울 서초구 한 빌딩 주차장 장애인전용주차구역에 주차하면서 엉터리 장애인 주차표지를 쓴 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 볼보 승용차를 운전한 우씨는 이전에 보유했던 차량(모하비)에 대해 구청이 발급한 보호자 운전용 장애인 주차표지를 사용한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;형법 230조는 공무원·공무소의 문서 또는 도화를 부정 행사한 자는 2년 이하의 징역이나 금고 또는 500만원 이하의 벌금에 처한다고 규정하고 있다.&lt;br&gt;&lt;br&gt;이 판사는 “우씨는 이 사건 이후 제대로 된 장애인 주차표지를 발급받았고, 향후 재범하지 않을 것을 다짐하고 있다”며 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주 덮친 가을 폭우…11월 최다 강수량 경신</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/11/02/WWI4X562RRBBXD3OPW7KM7GUKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/11/02/WWI4X562RRBBXD3OPW7KM7GUKM/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Nov 2024 00:22:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BBFICOU33VIVRAQMQD2NB6ZZJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;태풍 '콩레이' 간접영향으로 호우특보가 내려진 1일 오후 제주시 오라2동 인근 도로에서 전조등을 밝힌 자동차들이 지나가고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11월 첫날부터 내린 ‘가을 폭우’로 제주 곳곳에서 일 강수량 역대 기록이 경신됐다.&lt;br&gt;&lt;br&gt;2일 기상청에 따르면, 1일 제주(북부·제주지방기상청) 지점에 238.4㎜의 비가 쏟아지며 1923년 이 지점에서 기상 관측이 시작된 이래 11월 기록으로 101년 만에 가장 많은 강수량을 기록했다. 종전 기록은 2011년 11월 18일의 102㎜다.&lt;br&gt;&lt;br&gt;성산(동부)과 고산(서부) 지점 일 강수량도 각각 242.1㎜, 138.4㎜를 기록해 관측 이래 최고치를 기록했다. 성산 지점 종전 최다 기록은 1997년 11월 25일의 150㎜, 고산은 1997년 11월 25일의 126.2㎜다.&lt;br&gt;&lt;br&gt;서귀포(남부) 지점 일 강수량은 126㎜로 11월 기록으로는 역대 3번째로 많았다. 서귀포 지점 11월 최다 기록은 2011년 11월 18일의 143㎜다. &lt;br&gt;&lt;br&gt;기상청은 제주와 성산에 전날 내린 비가 ‘200년 만에 한 번 내릴 수 있는 정도의 11월 강수량’이라고 밝혔다.&lt;br&gt;&lt;br&gt;기록적인 가을 폭우가 쏟아진 원인으로는 21호 태풍 ‘콩레이’가 꼽힌다. ‘콩레이’와 한반도 우측 북태평양고기압 사이 통로로 수증기가 다량 유입돼 제주도 남쪽 해상에 비구름대가 만들어졌고, 이 비구름대가 느리게 이동하며 강수 지속 시간도 길어져 매우 많은 비가 내렸다는 것이다.&lt;br&gt;&lt;br&gt;콩레이는 1일 오후 9시 중국 상해 부근에서 온대저기압으로 약화해 거대한 수증기 덩어리가 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 강북구 단독주택 지하서 화재…60대 주민 사망</title>
+      <link>https://www.chosun.com/national/incident/2024/11/02/VMGR7DLWO5DTJNQHF37CQWO6NA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/02/VMGR7DLWO5DTJNQHF37CQWO6NA/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Nov 2024 00:09:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GWRZIQSZVJBQFLQCCG36V7RBXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 오후 4시 15분쯤 강북구 수유동에 있는 지상 2층·지하 1층짜리 단독주택 지하에서 원인을 알 수 없는 불이 난 모습. 이 화재로 60대 주민이 숨졌다. /강북소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강북구 수유동 가오리역 인근 한 단독주택 지하에서 원인 모를 화재가 발생했다. 이 화재로 이곳에 거주하던 60대 주민이 숨졌다.&lt;br&gt;&lt;br&gt;서울 강북소방서는 지난 1일 오후 4시 15분쯤 강북구 수유동에 있는 지상 2층·지하 1층짜리 단독주택 지하에서 원인을 알 수 없는 불이 났다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;이 불로 지하 1층에 거주하던 주민 박모(64)씨가 현장에서 숨졌고, 가슴 두근거림을 호소한 주민 1명이 병원으로 이송됐다. 나머지 주민 5명은 스스로 대피했다.&lt;br&gt;&lt;br&gt;소방당국은 69명의 인력과 차량 18대를 투입해 화재 발생 44분 만인 오후 4시 49분쯤 불을 완전히 껐다.&lt;br&gt;&lt;br&gt;소방당국 관계자는 “정확한 화재 원인과 발화 지점은 조사 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GWRZIQSZVJBQFLQCCG36V7RBXQ.jpg?width=500&amp;height=375&amp;auth=932962586b43ce36bb3e7bb8e72cc0d84f307c4f9c5ccfec8cda3b14d07f30b7&amp;smart=true" type="image/jpeg" height="375" width="500"/>
+    </item>
+    <item>
       <title>“서울에서 저희가 연주하면 잠비아에 깨끗한 물이 콸콸”</title>
       <link>https://www.chosun.com/national/weekend/2024/11/02/CJUMQDG5JBEEBPEUMEHCUEKW5I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2024/11/02/CJUMQDG5JBEEBPEUMEHCUEKW5I/</guid>
@@ -802,27 +875,6 @@
       </media:content>
     </item>
     <item>
-      <title>“버릇 없다” 후배 조폭 살해하려 한 40대 조폭…경찰, 살인미수 혐의 구속 송치</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/01/4YL7K6HXRVF2HBT5V7MRIRF7CI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/01/4YL7K6HXRVF2HBT5V7MRIRF7CI/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 01 Nov 2024 01:49:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3LFQWT63QRF76QSZAD7W65KDCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주경찰청 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개인적인 갈등을 이유로 다른 계파 폭력조직 후배를 살해하려 한 40대 조직폭력배가 구속 송치됐다.&lt;br&gt;&lt;br&gt;광주경찰청 형사기동대는 살인미수 혐의로 김모(41)씨를 검찰에 구속 송치했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 김씨는 지난달 25일 오전 9시 48분쯤 광주광역시 북구 유동의 한 주점에서 A(40)씨에게 흉기를 휘둘러 살해하려 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;김씨와 A씨는 광주지역에서 활동하는 서로 다른 폭력조직에 몸 담았던 것으로 파악됐다. 김씨는 경찰 조사에서 “A씨가 버릇없이 선배 대우를 하지 않아 범행을 저질렀다”는 취지의 진술을 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 사건 당시 김씨를 특수상해 혐의로 체포했었지만, 흉기를 미리 준비하는 등 살인 의도가 있었다고 보고 형량이 더 무거운 살인미수 혐의로 죄명을 변경해 구속 송치했다.&lt;br&gt;&lt;br&gt;A씨는 흉기에 찔린 직후 병원으로 옮겨졌고 생명에 지장이 없는 상태인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/3LFQWT63QRF76QSZAD7W65KDCU.jpg?width=719&amp;height=516&amp;auth=6e2d3936192cf73dd9ba09229343cb0ee44171c03d5c2d649cdad18241fd3a84&amp;smart=true" type="image/jpeg" height="516" width="719">
-        <media:description type="plain">광주경찰청 전경</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>공수처 ‘디올백’ 맡은 송창진 수사2부장 사의...인력난 심화</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/01/LNFZFUVPOBDIZGC62VOAR3XSWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/01/LNFZFUVPOBDIZGC62VOAR3XSWE/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 01 Nov 2024 01:49:36 +0000</pubDate>
-      <content:encoded>송창진 고위공직자범죄수사처 수사2부장이 최근 사의를 표명한 것으로 1일 전해졌다. 사직서가 수리될 경우 수사1·2·3부장 자리가 모두 공석이 되는 등 부장검사 정원 7명 중 2명만 근무하게 된다.&lt;br&gt;&lt;br&gt;공수처 관계자는 이날 “송 부장검사가 이번 주 일신상의 이유로 사의를 표명했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CN2YNEEGM5MKLLRU642K3Z4LPU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;송창진 고위공직자범죄수사처 수사2부장(왼쪽)이 지난달 14일 국회 법제사법위원회 국정감사에서 답변하고 있다. 오른쪽은 박석일 전 수사3부장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;송 부장검사가 이끄는 수사2부는 최근 김건희 여사의 디올백 수수 의혹과 관련한 알선수재 혐의 고발 사건을 배당받아 수사 중이었다. 또 김 여사의 디올백 수수 의혹과 도이치모터스 주가 조작 연루 의혹을 불기소한 검찰 수사팀을 시민단체 사법정의바로세우기시민행동이 직무유기 혐의로 고발한 사건도 맡고 있었다.&lt;br&gt;&lt;br&gt;최근 알선수재 사건을 맡았던 김상천 수사2부 검사가 퇴직한 데 이어 송 부장검사까지 사의를 표명한만큼 공수처는 사건을 다른 부서로 재배당할 전망이다.&lt;br&gt;&lt;br&gt;송 부장검사의 사직서가 수리될 경우 공수처의 부장검사는 해병대 채상병 순직 사건 외압 의혹 등을 수사하는 이대환 수사4부 부장검사와 차정현 수사기획관 등 2명만 남게 된다. 김선규 수사1부 부장검사는 지난 5월 말 퇴직했고, 박석일 수사3부 부장검사도 지난달 퇴직했다. 수사1부는 평검사들도 모두 퇴직해 검사가 한 명도 없다.&lt;br&gt;&lt;br&gt;공수처는 지난 9월 부장검사 1명과 평검사 2명의 신규 채용을 결정했지만 아직 대통령 재가를 받지 못했다.&lt;br&gt;&lt;br&gt;부장검사 3명과 평검사 4명에 대한 채용 공고를 내고 관련 절차를 진행 중인 공수처는 이날 신규 채용 대상을 부장검사 3명과 평검사 5명으로 늘린다고 밝혔다. 이는 송 부장검사의 사의 표명과는 무관하다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>”안전 시설 미흡”…제주 골프장 카트 이용객 사망, 골프장 책임자 검찰 송치</title>
       <link>https://www.chosun.com/national/regional/2024/11/01/P2NNEJYTF5G2RPUSDLSRAS2QLQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/01/P2NNEJYTF5G2RPUSDLSRAS2QLQ/</guid>
@@ -850,33 +902,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RS6EIU7JSFI6XPF3NILLLYRVLQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;가을비가 내리는 29일 오전 서울 세종대로 광화문광장에서 우산을 준비하지 못한 시민들이 발걸음을 재촉하고 있다. 2024.10.29/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 2일까지 제주도와 남부지방을 중심으로 강한 가을비가 내리겠다고 기상청이 1일 밝혔다. 특히 제주도에서 빗줄기가 거셀 것으로 보인다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 제주도 남쪽 해상을 지나는 저기압의 영향으로 1~2일 제주도와 남부지방에 비가 내리겠다. 남부지방은 2일 오전까지, 제주도는 오후까지 각각 비가 이어지겠다. 1~2일 예상 강수량은 제주도 80~150㎜, 호남권 5~80㎜, 영남권 5~60㎜, 충청권 5㎜ 등이다. 강원동해안과 산지에는 2일에만 5~30㎜의 비가 내리겠다.&lt;br&gt;&lt;br&gt;2일 새벽까지 제주도에는 돌풍과 천둥·번개를 동반한 시간당 20~30m의 강하고 거센 비가 예고됐다. ‘매우 많은 비’의 기준이 시간당 30㎜로, 빗줄기 때문에 시야를 방해받을 정도의 양이다. 1일 오후 6시부터 자정까지는 시간당 30~50mm로 더욱 강하게 내릴 것으로 예상된다.&lt;br&gt;&lt;br&gt;2일 아침 최저기온은 10~17도, 낮 최고기온은 18~23도로 예보됐다. 일요일인 3일에는 전국이 고기압 영향권에 들면서 대체로 맑겠고 기온은 최저 7~15도, 최고 18~22도로 전날과 비슷한 기온 분포를 보이겠다.&lt;br&gt;&lt;br&gt;한편 21호 태풍 ‘콩레이’는 2일 중국 상해 부근에서 온대저기압으로 약화할 것으로 보인다. 이때 거대한 수증기 덩어리가 남게 되는데, 우리나라 쪽에 영향을 줄 경우 제주에 내리는 빗줄기가 더 거세질 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰서 유치장서 40대 자해 소동, 플라스틱 젓가락 삼켜</title>
-      <link>https://www.chosun.com/national/regional/2024/11/01/VD4V4S46YNDZPFWOCYDBNP5VVA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/01/VD4V4S46YNDZPFWOCYDBNP5VVA/</guid>
-      <dc:creator>상주=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 01 Nov 2024 00:41:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰서 유치장에 있던 40대 피의자가 플라스틱 젓가락을 삼키는 자해소동을 벌였다.&lt;br&gt;&lt;br&gt;1일 경북 상주경찰서에 따르면 이날 오전 2시45분쯤 성범죄 혐의로 유치장에 갇힌 A씨가 복통을 호소해 병원으로 옮겨 검사를 받았다. 검사결과, 몸 속에 플라스틱으로 추정되는 이물질이 있는 것은 확인됐지만, 생명에는 지장이 없다는 의료진에 판단에 따라 유치장에 재입감됐다.&lt;br&gt;&lt;br&gt;경찰조사 결과, A씨는 경찰 측에서 제공한 식사를 마친 뒤 당시 함께 나온 플라스틱 젓가락 일부를 삼킨 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “당시 유치장 근무자 등을 상대로 자세한 사고 경위를 조사 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산 도시철도 객실서 70대 남성, 갑자기 쓰러진 뒤 숨져</title>
-      <link>https://www.chosun.com/national/regional/2024/11/01/W2EWJYS4XBHNNNEOXOI6ICNXRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/01/W2EWJYS4XBHNNNEOXOI6ICNXRU/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 01 Nov 2024 00:17:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JZHHZHHEGZNQFLVEKC2RICCP4I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;부산 금정구 부산교통공사 노포차량기지에 열차가 오가는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 도시철도 객실에서 70대 승객이 갑자기 쓰러져 숨지는 일이 발생해 경찰이 경위를 파악하고 있다.&lt;br&gt;&lt;br&gt;1일 부산소방재난본부에 따르면 전날 오후 7시 44분쯤 부산 부산진구 도시철도 1호선 양정역에서 노포동행 전동차에 타고 있던 70대 남성인 승객 A씨가 갑자기 쓰러졌다.&lt;br&gt;&lt;br&gt;이에 따라 역무원이 급히 심폐소생술을 했으나, A씨는 심정지 상태로 병원으로 옮겨진 뒤 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 부산도시철도 관계자 등을 상대로 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>﻿“유영철, 피해자 귀신 나타나 잠 못 잔다고 호소” 교도관의 증언</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/01/I2QCHP2OB5DKHOC2NOLDCKNYKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/01/I2QCHP2OB5DKHOC2NOLDCKNYKI/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Oct 2024 23:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EXLU6BKPY6PWKTDDBEJQOH4JNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연쇄살인마 유영철. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1년간 노인과 부녀자 20여명을 살해한 사이코패스 연쇄살인마 유영철의 수감 생활 일부가 공개됐다.&lt;br&gt;&lt;br&gt;유영철과 매주 4시간씩 7년간 면담을 진행했던 이윤휘 전 교도관은 지난달 31일 방송된 SBS ‘꼬리에 꼬리를 무는 그날 이야기’에서 유영철이 수감되고 얼마 뒤 시뻘게진 눈으로 교도관을 찾았다고 했다.&lt;br&gt;&lt;br&gt;이씨는 “유영철이 요즘 잠을 못 이룬다고 하더라”며 “이유를 물어봤더니 피해자들이 밤마다 귀신으로 나타난다고 했다”고 전했다. 독거실 내 화장실 쪽 천장 밑에서 유영철에게 살해당한 3~4명의 피해자가 귀신으로 나타난다는 것이다. 이씨는 “유영철이 그 때문에 잠을 못 자서 하루 일과가 너무 피곤하다고 얘기했다”고 기억했다.&lt;br&gt;&lt;br&gt;유영철의 기행은 여기서 끝이 아니었다. 유영철이 저지른 살인 사건으로 세 가족을 잃은 유족 고모씨는 “유영철이 잡힌 뒤 다리에서 투신하려고 했는데, 내겐 아이들이 있다. 아이들을 위해 살아야 했다”고 말했다.&lt;br&gt;&lt;br&gt;신앙인인 고씨는 유영철을 용서하기로 하고 영치금을 넣어주고, 면회도 하러 갔다고 한다. 하지만 유영철은 면회에 응하지 않았다. 이씨는 “유영철 방에 들어가서 ‘왜 안 나가냐? 나 같으면 무릎 꿇고 반성하고 회개하고 용서를 구할 텐데 왜 그분을 안 만나려고 하느냐’고 질문했다”고 했다. 그러자 유영철은 고씨에게 가족이 살해된 과정을 설명하려는 의도를 보였다.&lt;br&gt;&lt;br&gt;이씨는 “가족 세 분이 자신으로부터 피해를 봤는데, 어떻게 그런 사람 앞에서 용서를 구하지는 못할망정 어떻게 살해됐는지 말할 마음을 갖고 있을까. 저는 그 말을 듣고 이 친구가 정말 사이코패스구나 느꼈다”고 했다.&lt;br&gt;&lt;br&gt;이씨는 또 유영철과 상담하는 과정에서 아직 찾지 못한 피해자 시신이 있다는 것을 알게 됐다고 했다. 유영철은 경부고속도로 주변에 시신을 묻었고, 현장 검증 때 그 지역까지 갔으나 결국 시신을 못 찾았다고 말했다고 한다.&lt;br&gt;&lt;br&gt;이씨는 “아직 시신을 찾지 못한 서너명의 여인들이 계속 교도소 방에서 보여서 (유영철이) 잠을 못 이룬다고 하고 있다”고 했다. 이어 “유영철이 언제 사형 집행을 당할지 모르는 상황에서 찾지 못한 시신이 있다면 4명이든, 10명이든 간에 지금이라도 좀 더 검찰 조사에 협조해서 그분들의 시신을 다 찾아 영혼을 달래고, 피해자 가족들에게 유품이라도 전해줄 수 있도록 하는 게 바람직하지 않겠나”라고 했다.&lt;br&gt;&lt;br&gt;유영철은 2003년부터 2004년까지 서울 시내에서 17차례에 걸쳐 노인과 부녀자 등 21명을 연쇄살인하고 방화, 시체 유기 등의 범죄를 저질렀다. 피해자 사체 11구를 토막 내 암매장하고 3구는 불에 태우는 등 범행 방식도 엽기적이었다. 2005년 사형이 확정되어 수감 중 성인 잡지를 반입한 것이 걸려 이를 뺏으려는 교도관을 폭행하기도 했다고 한다.&lt;br&gt;&lt;br&gt;그동안 대구교도소에 머물던 유영철은 작년 서울구치소로 이감됐다. 서울구치소에는 현재 유영철을 비롯해 강호순, 정두영, 정형구 등 연쇄 살인범 사형수들이 수감되어 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>﻿성유리 억울하다 했는데…남편 안성현, ‘코인 상장 뒷돈’ 징역 7년 구형</title>
       <link>https://www.chosun.com/national/national_general/2024/11/01/LBKDN4XDORGKJHJI2ZIBQUMWXA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/01/LBKDN4XDORGKJHJI2ZIBQUMWXA/</guid>
@@ -893,15 +918,6 @@
       <description/>
       <pubDate>Thu, 31 Oct 2024 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IUEW3DN5NFNELIF3DZ7GCGJJFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검 청사. /뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 중요범죄조사부(부장 어인성)는 지난 30일 안마 의자 회사인 바디프랜드 지분을 인수한 사모 펀드 한앤브라더스의 최대 주주 한주희씨와 그의 측근인 양모 전 바디프랜드 CFO(최고재무책임자)에 대해 사기·횡령·배임·변호사법 위반 등 혐의로 구속 영장을 청구했다.&lt;br&gt;&lt;br&gt;검찰은 또 경영권을 뺏긴 이 회사 창업주 강웅철 전 이사회 의장도 횡령·배임 등의 혐의로 구속영장을 청구했다. 국내에 고급 안마 의자 열풍을 일으킨 바디프랜드는 한때 국내 시장 1위였지만, 사모 펀드에 회사 경영권을 넘긴 뒤 경영권을 둘러싼 법적 소송전이 벌어지면서 창업주와 사모 펀드 최대 주주 양쪽 모두 구속될 위기에 놓이게 됐다.&lt;br&gt;&lt;br&gt;검찰 수사는 양측이 “회삿돈을 유용했다”며 서로를 배임·횡령 등의 혐의로 맞고소하면서 시작됐다. 바디프랜드는 2007년 창업 이후 강웅철 전 의장이 쭉 회사를 경영해왔다. 그러다 2015년 이후 두 차례 사모 펀드에 회사 경영권이 넘어갔다. 2015년 사모 펀드인 VIG파트너스 등이 지분 43%를 인수하며 최대 주주가 됐고, 2022년 7월에는 사모 펀드 스톤브릿지캐피탈과 한앤브라더스가 공동 설립한 투자 목적 회사(SPC) 비에프하트가 지분 46.3%를 사들여 경영권을 인수했다. 창업 때부터 경영에 참여했던 강 전 의장은 지분 38.77%를 갖고 2대 주주 자리를 지키고 있었다.&lt;br&gt;&lt;br&gt;하지만 스톤브릿지캐피탈과 한앤브라더스 양측은 서로 주도권을 갖기 위해 다투기 시작했다. 이 과정에서 강웅철 전 의장은 스톤브릿지캐피탈 측에 섰고, 강웅철·스톤브릿지캐피탈 대 한앤브라더스의 대결 구도가 됐다.&lt;br&gt;&lt;br&gt;강 전 의장과 스톤브릿지 측은 “한앤브라더스의 최대 주주인 한주희씨가 ‘회사의 어려움을 해결해주겠다’며 정·관계, 법조계 등 각계 고위 인사들에게 로비할 명목으로 23억원 상당을 받아가 가로챘다”며 한씨를 고소했다. 또 한씨는 측근인 양씨와 함께 최고급 수입 법인차를 타고, 법인카드로 특급 호텔 스위트룸 2개월 치 대금을 결제하는 등 회삿돈을 유용한 의혹도 있다고 주장했다.&lt;br&gt;&lt;br&gt;반면 한앤브라더스 측은 강 전 의장이 직무 발명 보상금 명목으로 회삿돈 62억원 상당을 횡령하고, 법인카드를 부정하게 사용한 혐의가 있다고 맞고소했다.&lt;br&gt;&lt;br&gt;검찰은 한씨의 로비 의혹(변호사법 위반)에 대해 집중적으로 들여다보고 있는 것으로 전해졌다. 앞서 지난 4월 검찰은 서울 강남구 도곡동 바디프랜드 본사와 역삼동 한앤브라더스 본사를 압수 수색했다. 지난해 정계와 법조계 등에서는 한씨가 로비를 벌였다는 인사들의 리스트가 나돌았다. 국회의원, 전직 검찰총장, 검사장, 부장판사, 방송국 간부 등이 거론되기도 했다. 검찰 관계자는 “사안의 중대성, 증거인멸 가능성, 도주 우려 등을 고려해 구속영장을 청구했다”고 말했다.&lt;br&gt;&lt;br&gt;국내 1위 안마 의자 브랜드로 급성장한 바디프랜드는 국내 증시 상장까지 노려왔으나, 두 사모 펀드가 회사를 인수한 뒤부터 경영 실적이 부진에 빠졌다. 2019년 매출 4803억원, 2020년 5557억원, 2021년 6111억원으로 꾸준히 성장하다가, 스톤브릿지·한앤브라더스가 경영권을 인수한 2022년부터 매출이 5437억원, 지난해 4196억원으로 급감했다. 결국 경쟁사인 세라젬에 홈헬스케어 시장 1위 자리도 내줬다.&lt;br&gt;&lt;br&gt;한편, 강 전 의장과 한앤브라더스의 최대 주주 한씨, 전 최고재무책임자 양씨의 영장실질심사는 4일 오전 서울중앙지법에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“바다가 텅 비었나…” 밤새 조업했는데 오징어 3마리뿐</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/01/LVYCB3NWJVARBF573WJUIKMRV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/01/LVYCB3NWJVARBF573WJUIKMRV4/</guid>
-      <dc:creator>울릉=권광순 기자, 속초=정성원 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Oct 2024 15:50:00 +0000</pubDate>
-      <content:encoded>지난 26일 저녁 어두컴컴한 울릉도 저동항. 5년 전만 해도 오징어잡이 배 엔진 소리로 흥이 났을 항구에는 ‘출어’를 포기한 배 100여 척이 빼곡하게 정박해 있었다. 오징어는 불빛을 좋아해 오징어잡이 배는 저녁에 출항한다. 9~10월 오징어철이면 어선 120여 척이 불을 밝히고 20㎞ 길이로 쭉 늘어서 오징어를 낚는다. 대낮 같은 밤바다가 울릉도 장관이었는데 이젠 보기 어렵게 됐다. 오징어 어획량이 3년 새 30분의 1로 줄어들었기 때문이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VZ5Y2XGW75BARIUJS6EKJXLK5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;저동항서 출항하는 오징어잡이 배 - 경북 울릉군 저동항에서 오징어잡이 배 한 척이 출항하고 있다. 9~10월 오징어 철이 되면 어선 120여 척이 불을 밝히고 오징어를 낚았는데 요즘은 어획량이 크게 줄어 하루 8~9척만 바다로 나간다. /울릉군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 밤 출항한 배는 9척. 그중 오징어잡이 45년 경력의 김철남(66)씨 배에 올라탔다.&lt;br&gt;&lt;br&gt;“어휴, 오늘은 제발 운이 좋아야 할텐데… 요즘 하루에 열 마리도 잡기 어려워.”&lt;br&gt;&lt;br&gt;배가 향한 곳은 저동항에서 북쪽으로 2.5㎞ 떨어진 바다다. “여기가 조류가 약해서 오징어가 쉬어가기 좋은 곳이에요.”&lt;br&gt;&lt;br&gt;엔진을 끄고 배를 고정시킬 닻을 내렸다. 스위치를 올리니 1500와트짜리 집어등 54개가 일제히 불을 밝혔다. 눈이 부셔 제대로 뜰 수 없을 정도였다.&lt;br&gt;&lt;br&gt;“윙윙 덜컥 덜컥.”&lt;br&gt;&lt;br&gt;배 양쪽에 달린 자동 조상기(釣上機) 10대가 기차 달리는 소리를 내며 돌아갔다. 얼레(릴)처럼 생긴 조상기는 쉴 새 없이 낚싯줄을 내렸다 올렸다 반복했다.&lt;br&gt;&lt;br&gt;조업 3시간째. 조상기만 돌아갈 뿐 오징어는 감감무소식이다. 김씨가 빈 낚싯줄을 쳐다보며 한숨을 내쉬었다.&lt;br&gt;&lt;br&gt;“이 넓은 바다가 텅 비었나.”&lt;br&gt;&lt;br&gt;다급해진 그는 선미(船尾)에 있는 수동 조상기를 잡고 직접 낚싯줄을 내렸다. 직접 낚싯줄을 올리고 내리기를 반복한지 30여 분. 드디어 오징어 한 마리가 물을 뿜으며 모습을 드러냈다.&lt;br&gt;&lt;br&gt;오후 11시 30분. 출항한 지 3시간 40분 만에 처음 보는 오징어였다. 길이는 25㎝, 어른 손목 굵기만 한 오징어였다.&lt;br&gt;&lt;br&gt;“이놈이 그 귀한 오징어네!” 기자가 환호성을 질렀지만 김씨는 씩 웃고 만다.&lt;br&gt;&lt;br&gt;자정을 훌쩍 넘긴 27일 오전 2시. 6시간 동안 잡은 오징어를 모아보니 달랑 3마리였다. ‘만선(滿船)의 꿈’은 기자만의 희망이었다. 맨 먼저 잡은 1마리를 빼고 나머지 두 마리는 길이가 17㎝밖에 안되는 잔챙이였다. 시장에 내다팔려면 길이가 25㎝는 돼야 한다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BN7I3655LBHF5CDGOKEBBZQ6OI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 27일 새벽 김철남(오른쪽) 선장이 6시간 조업해 잡은 오징어 3마리를 바라보고 있다. /권광순 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 들인 기름값은 18만원인데 고스란히 적자를 봤다. “100마리는 잡아야 배 유지비는 나오는데... 오늘따라 갈매기 떼만 몰려와 시끄럽게 우네.”&lt;br&gt;&lt;br&gt;기자가 북쪽으로 더 멀리 나가보자고 하니 김씨는 “기름값 내다버릴 일 있소? 여기가 5년 전만 해도 하룻밤에 오징어 1000~2000마리 잡던 곳이요” 쏘았다.&lt;br&gt;&lt;br&gt;김씨가 울릉도에서 92㎞ 떨어진 독도 인근까지 나간 홍인술(66) 선장에게 무전을 쳤다.&lt;br&gt;&lt;br&gt;“여기는 오징어가 없다. 얼마나 잡았노?” “이틀 밤 세웠는데 4마리밖에 못 잡았다. 나 우짜노. 이대로는 집에 못 간다.” 김씨 얼굴이 까매졌다.&lt;br&gt;&lt;br&gt;이날 밤 저동항을 나선 9척이 잡은 오징어는 전부 16마리였다.&lt;br&gt;&lt;br&gt;적자를 보면서도 바다로 나가는 이유를 물었다. 김씨는 “1년에 60일은 조업을 해야 어민으로 인정받아 정부 지원금을 받고 폐선할 수 있다”며 “적자는 쌓이는데 죽을 맛”이라고 했다.&lt;br&gt;&lt;br&gt;새벽마다 저동항 수협 위판장은 오징어가 산더미처럼 쌓였지만 지금은 텅 비었다. 울릉도 오징어 어획량은 2020년 527t에서 지난해 17t으로 3년 만에 30분의 1로 줄었다.&lt;br&gt;&lt;br&gt;울릉도 경제도 직격탄을 맞았다. 울릉도 인구 8800여 명 중 오징어 어민과 중매인 등을 더하면 오징어로 먹고사는 사람이 2000여 명에 이른다고 한다.&lt;br&gt;&lt;br&gt;식당에서도 오징어를 찾아보기 어렵다. 저동항에서 오징어 내장탕 식당을 하는 이동순(67)씨는 “산오징어 한 마리가 3만원이 넘어 내장탕을 낼 수가 없다”고 했다.&lt;br&gt;&lt;br&gt;오징어철에는 오징어잡이 배 한 척당 20~30명씩 인부가 탔는데 인부들도 일자리를 잃었다. 울릉어업인연합회 관계자는 “오징어잡이 경력이 수십년인 갑판장들도 공사일 등을 하며 근근이 버티고 있다”고 했다.&lt;br&gt;&lt;br&gt;오징어 어획량이 크게 줄어든 이유에 대해 어민들은 수온 상승과 중국 어선의 남획이 원인이라고 했다. 오징어가 살기 적당한 수온은 12~18도이지만 26일 밤 울릉도 인근 바다의 수온은 21도였다.&lt;br&gt;&lt;br&gt;울릉어업인연합회 관계자는 “중국 어선들이 동해 북한 수역까지 와서 우리나라 배보다 7배는 밝은 불을 밝히고 그물을 이용해 오징어를 싹쓸이하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>주민 반발에 납북자가족모임 대북전단 살포 무산</title>
@@ -938,24 +954,6 @@
       <description/>
       <pubDate>Thu, 31 Oct 2024 15:30:00 +0000</pubDate>
       <content:encoded>신생아 두피에 두껍고 노란 딱지가 앉는 경우가 있어요. 이를 지루성 피부염이라고 해요. 지루성 피부염은 두피, 코 등과 같이 기름을 생성하는 피지선이 많은 신체 부위에 생깁니다.&lt;br&gt;&lt;br&gt;어린아이들에게 생기는 지루성 피부염은 생후 2~3주 때부터 생기기 시작해서 3개월쯤에 가장 많이 생겨요. 깨끗해 보이지 않아서 걱정도 되지만 생후 6개월에서 12개월 사이에는 저절로 낫는답니다.&lt;br&gt;&lt;br&gt;지루성 피부염이 생기는 정확한 원인은 알려져 있지 않지만 신생아는 피지선 활동이 과도하게 활성화되어 생긴다고 알려져 있어요. 피지가 너무 많이 생기다 보면 죽은 세포들이 정상적으로 떨어져 나가지 않게 되죠. 지루성 피부염은 가을이나 겨울처럼 온도와 습도가 낮은 환경에서 증상이 악화돼요. 하지만 습진과 달리 알레르기 때문에 생기지는 않아요.&lt;br&gt;&lt;br&gt;지루성 피부염이 가장 많이 생기는 부위는 두피예요. 각질은 기름기가 많은 노란색 비늘처럼 보이고, 각질 밑의 피부는 붉게 보이죠. 눈이나 귀 주변에도 나타나고, 때로는 기저귀를 차는 부위와 피부가 접히는 부분에도 생겨요.&lt;br&gt;&lt;br&gt;심하지 않은 지루성 피부염은 항진균 연고로 가라앉힐 수 있지만, 아기가 불편해하지 않는다면 꼭 치료가 필요한 건 아니에요. 아기가 크면서 저절로 좋아지니까요. 다만 아기 귀에 지루성 피부염이 생기는 경우엔 염증으로 인해 진물이 생길 수 있어요. 아기가 귀를 자꾸 만지거나, 귀에서 진물이 날 때는 꼭 병원 진료를 받아봐야 해요. 간혹 피부염이 더 심해지는 경우엔 염증을 가라앉히기 위해 스테로이드 크림을 사용할 수 있어요.&lt;br&gt;&lt;br&gt;이 외에도 집에서 간단히 할 수 있는 지루성 피부염 완화 방법도 있답니다. 아기를 목욕시키기 한 시간 전에 베이비 오일이나 바셀린을 아기 두피에 발라주세요. 노란 딱지인 비늘이 부드럽게 풀리는 걸 볼 수 있답니다. 그 후 아기용 샴푸를 사용해 두피를 부드럽게 마사지하면서 비늘을 제거하면 돼요. 이때 손톱을 이용해서 제거하거나 억지로 떼는 건 안 돼요. 상처가 생기면 2차 세균 감염으로 이어질 수 있으니까요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강원교육청·전교조 몸싸움... 교육감 실신해 응급실行</title>
-      <link>https://www.chosun.com/national/education/2024/10/31/7Q72DA6FMNHFBIJTTPWQ3OTF6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/10/31/7Q72DA6FMNHFBIJTTPWQ3OTF6A/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Oct 2024 14:07:45 +0000</pubDate>
-      <content:encoded>강원도교육청이 전교조 강원지부와의 단체 협약에 대해 효력이 상실했다고 통보해 큰 갈등을 빚고 있다. 급기야 반발하는 전교조 강원지부 조합원들이 신경호 강원교육감에게 항의하는 과정에서 신 교육감이 넘어져 부상을 입고 병원에 입원하는 사고까지 발생했다.&lt;br&gt;&lt;br&gt;31일 교육계에 따르면, 신 교육감은 이날 오후 자율학습을 하는 강원 양양군 양양고 학생들을 격려하기 위하 학교를 방문했다. 신 교육감은 이날 오후 7시 30분쯤 이 학교 교장실을 나오다 전교조 강원지부 조합원 5명 안팎과 맞닥뜨렸다. 이들은 ‘일방적인 단협파기 신 교육감 규탄한다’ 등이 적힌 피켓을 들고 “면담 요청한다”며 교장실 입구를 막아섰다. 신 교육감은 교육청 관계자들과 함께 이들 조합원을 뚫고 지나가는 과정에서 넘어져 머리와 꼬리뼈를 다쳤다고 한다. 신 교육감은 구급차에 실려 속초의료원으로 이송됐다.&lt;br&gt;&lt;br&gt;강원교육청 관계자는 “전교조 강원지부에 대한 법적 책임을 묻기 위해 검토 중”이라고 했다. 이에 대해 전교조 강원지부는 한 매체를 통해 “도교육청 관계자가 신 교육감을 밀어 넘어뜨리며 전교조 조합원이 함께 넘어졌다”며 “도교육청 관계자를 과실치상 혐의로 고소할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;이번 사건은 지난 28일 신 교육감이 기자회견을 열고 “강원교육청과 전교조 강원지부가 체결한 단협 효력이 상실됐다”고 선언하며 시작됐다. 진보 성향인 민병희 전 강원교육감은 2021년 전교조와 단협을 맺었다. 이듬해 취임한 신 교육감은 학생 진단 평가 실시, 각종 경시대회 시행 및 교육감 표창 등 공약했던 주요 사업을 시행하려고 했으나 단협이 발목을 잡았다. 단협에 전수 평가 금지, 각종 표창 금지 등 내용이 포함돼 정책 시행이 불가했기 때문이다.&lt;br&gt;&lt;br&gt;교원노조법은 조합원의 임금과 근무조건, 후생복지 등 경제·사회적 지위 향상에 관한 단협 권한을 명시하고 있다. 강원교육청은 전교조와 맺은 단협이 이러한 권한을 벗어나 교육청의 권한을 침해한다고 판단했다. ‘전수 평가 금지’ 등 권한 침해 조항이 430건에 달한다며 작년 6월 이를 삭제하자며 전교조 강원지부에 단협 갱신을 요구했다. 10차례나 협의했지만 간극은 좁혀지지 않았다. 결국 협상 기미가 보이지 않자 신 교육감이 “단협 부칙과 법률에 따라 작년 10월 이미 단협 효력은 상실했다고 판단했다”며 효력 상실을 선언한 것이다. 이에 전교조 강원지부는 “교육 여건 퇴행과 학교 민주주의 후퇴를 불러일으킬 중대한 문제”라며 “가능한 모든 방법을 동원해 투쟁을 계속 이어나갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대선 경선 이후 명태균과 통화한 적 없다더니... 용산 꼬이는 해명</title>
-      <link>https://www.chosun.com/national/court_law/2024/10/31/YIAOVVNX7NB4ZFVOVG2D6OEOEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/10/31/YIAOVVNX7NB4ZFVOVG2D6OEOEE/</guid>
-      <dc:creator>이세영 기자, 이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Oct 2024 12:18:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A6PUELI7FZBE5FP7BFZ34NPLKU.png"&gt;&lt;figcaption&gt;&lt;small&gt;정치 브로커 명태균씨.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정치 브로커 명태균씨 의혹과 관련한 대통령실의 해명이 앞뒤가 안 맞는다는 지적이 나오고 있다. 대통령실은 31일 민주당이 윤석열 대통령과 명씨 통화 녹음을 공개하자, 2022년 5월 9일 통화한 사실은 인정했다. 그런데 이는 대통령실이 지난 8일 내놓은 해명과 어긋난다는 지적이 나온다. 대통령실은 당시 “대선 경선 이후 명씨와 통화한 기억이 없다”고 했었기 때문이다. 정치권에선 “대통령실 참모들도 윤 대통령과 김건희 여사, 명씨 간에 어떤 대화가 오갔는지 정확한 사실관계를 모르는 게 아니겠느냐”는 얘기가 나온다.&lt;br&gt;&lt;br&gt;대통령실은 지난 9월 명씨 논란이 처음 불거진 뒤로 대응을 거의 하지 않다가 지난 8일 첫 공식 입장을 냈다. 당시 “윤 대통령은 국민의힘 정치인들을 통해 (두 차례) 명씨를 만나게 됐다”며 “(지난 2021년 대선) 경선 막바지쯤 명씨가 윤 대통령의 지역 유세장에 찾아온 것을 본 (또 다른) 국민의힘 정치인이 명씨와 거리를 두도록 조언했고, 이후 대통령은 명씨와 문자를 주고받거나 통화한 사실이 없다고 기억한다”고 했다. 이후 대통령실이 언급한 두 차례 만남을 주선한 ‘국민의힘 정치인’은 이준석 전 국민의힘 대표(현 개혁신당 의원)와 박완수 경남지사로 알려졌는데, 김종인 전 비상대책위원장이나 김영선 전 의원 등도 윤 대통령 부부를 만나는 자리에 명씨와 동행했다고 언론 등에 밝히면서 “어설픈 해명”이라는 지적이 나왔었다.&lt;br&gt;&lt;br&gt;대통령실의 두 번째 해명도 김 여사와 명씨의 사적 관계를 인정하는 결과를 낳고 의혹만 증폭시켰다는 지적을 받았다. 명씨는 지난 15일 김 여사와 과거에 나눈 카카오톡 대화를 공개했는데, 대화에서 김 여사가 표현한 ‘오빠’가 윤 대통령인지 친오빠인지를 두고 논란이 벌어졌었다. 당시 대통령실은 “오빠는 김 여사의 친오빠이며, 당시 문자는 윤 대통령의 입당 전에 사적으로 나눈 대화일 뿐“이라는 입장을 내놨다. 국민의힘 관계자는 “대통령실이 입장을 내놓을 때마다 사실관계가 조금씩 엇나가 신뢰성에 의문을 스스로 불러오고 있다”고 했다.&lt;br&gt;&lt;br&gt;한편 김 여사의 ‘공천 개입 의혹’을 수사 중인 창원지검 형사4부(부장 김호경)는 31일 명씨의 자택을 추가 압수 수색했다. 이 의혹은 명씨가 지난 대선 때 여론조사 결과를 왜곡해 국민의힘 대선 후보였던 윤석열 대통령을 도왔고, 윤 대통령 측에서 조사 비용을 받는 대신 2022년 6월 국회의원 보궐선거 때 김 전 의원에게 공천을 주도록 했다는 내용이다. 검찰은 이날 명씨가 윤 대통령과 통화한 녹음 파일 등 새롭게 제기되고 있는 의혹에 관한 자료를 확보하기 위해 압수 수색에 나선 것으로 전해졌다. 지난 9월 30일 첫 압수 수색 때는 명씨의 휴대전화, 태블릿PC 등 6대를 확보했다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>민주당 ‘돈봉투 살포’ 유죄 확정... 돈받은 의원은 조사도 안 받았다</title>
