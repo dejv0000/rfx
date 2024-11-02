@@ -13,6 +13,18 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘은평구 존속 살해’ 30대 男 구속…“도주 우려”</title>
+      <link>https://www.chosun.com/national/incident/2024/11/02/LFHGZL6QN5APZIOP3A23W4GFPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/02/LFHGZL6QN5APZIOP3A23W4GFPY/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Nov 2024 11:06:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MCBVQ2TCDXVW6LQ36SO62URRLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지법 전경.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가정폭력을 일삼던 70대 아버지를 자택에서 살해한 30대 남성 A씨가 구속됐다.&lt;br&gt;&lt;br&gt;서울서부지법 양은상 부장판사는 2일 오후 A씨에 대한 구속 전 피의자 심문(영장실질심사)을 한 뒤 “도주 우려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 이날 법원에 출석하면서 범행 동기를 묻는 취재진에게 “아버지의 폭언과 폭력으로 많이 힘들었다” “평생 가정 폭력이 있었다”고 말했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난달 27일 서울 은평구 역촌동의 한 다세대주택에서 어머니에게 술값을 달라며 욕설을 하는 70대 아버지 B씨를 둔기로 때려 살해했다.&lt;br&gt;&lt;br&gt;범행 이후 며칠 간 아버지의 시신을 방치한 A씨는 방 안에 번개탄을 피워 어머니와 동반 자살을 시도했으나 실패한 뒤, 경찰에 아버지를 살해했다며 자수했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 해당 가정은 각각 2017년과 2021년에도 가정폭력 신고가 접수된 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MCBVQ2TCDXVW6LQ36SO62URRLY.jpg?width=600&amp;height=272&amp;auth=28808883ac0400fc26a8883aab7ec47927b08e14f1db3e1d1f8acb7b9fc64c33&amp;smart=true" type="image/jpeg" height="272" width="600">
+        <media:description type="plain">서울서부지법 전경.</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>"접종도 안하고 딸 얼굴 만져"…사진촬영 우려한 박수홍 아내, 무슨일?</title>
       <link>https://www.chosun.com/national/national_general/2024/11/02/LV3NRZXWMZBTVL4WEJ32YBMCCY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/02/LV3NRZXWMZBTVL4WEJ32YBMCCY/</guid>
@@ -835,23 +847,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/WE3J3DZGDCBTO3UDU5YPO7NX34.jpg?width=5000&amp;height=3644&amp;auth=66fc517dc858a082e23a100b51b64426f147fe074756b02f02429ce973689ef4&amp;smart=true" type="image/jpeg" height="3644" width="5000">
         <media:description type="plain">음주운전 사고를 일으킨 문재인 전 대통령의 딸 문다혜 씨가 10월 18일 오후 경찰 조사를 받기 위해 서울 용산구 용산경찰서로 출석하고 있다. / 연합뉴스</media:description>
         <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>6·25 다부동 전투 전사 경찰관, 74년 만에 현충원 안장</title>
-      <link>https://www.chosun.com/national/2024/11/01/XQKH5LM4IRC2DD6Q4ESM65GY74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/11/01/XQKH5LM4IRC2DD6Q4ESM65GY74/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 01 Nov 2024 04:47:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXCWZNJ2BFPRVMESWHWWZ7YJQY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;1일 서울 동작구 서울현충원에서 6·25 전사 경찰관인 고 임진원 경사 유해 안장식이 엄수되고 있다./경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;두세 살배기 어린 딸과 아들을 두고 6·25 전쟁에 참전해 전사한 경찰관의 유해가 74년 만에 국립서울현충원 경찰묘역에 안장됐다.&lt;br&gt;&lt;br&gt;경찰청은 1일 오전 국립서울현충원에서 ‘6·25 전사자 유해발굴사업’을 통해 신원이 확인된 고(故) 임진원 경사의 유해 안장식을 엄수했다. 유해는 유족의 뜻에 따라 국립서울현충원 경찰묘역에 안장됐다. 안장식에는 조지호 경찰청장과 권대일 국립서울현충원장, 이근원 국방부 유해발굴감식단장 등 100여명이 참석했다.&lt;br&gt;&lt;br&gt;임 경사는 1950년 6·25전쟁 때 경북 칠곡에서 치러진 ‘다부동 전투’에 참여했다가 전사했다.당시 칠곡 유학산 일대는 대구 점령을 방어하기 위한 치열한 전투가 치러졌다. 한 달여간의 전투를 통해 2개 사단의 공격을 격퇴하고 방어선을 확보함으로써 대구 점령을 막아 북한에 반격의 실마리를 마련하는 계기가 됐다. 임 경사 유해는 고향인 전북 김제 땅이 아닌 칠곡 유학산 일대에서 지난 2000년 발견됐고 올해 유가족 DNA의 시료 분석을 거쳐 신원이 최종 확인됐다.&lt;br&gt;&lt;br&gt;고인은 3·1운동 민족대표 48인 중 한 명인 독립운동가 임규의 조카이자 백마고지 전투의 영웅인 고 임익순 대령의 당숙이기도 하다. 유가족은 “사진 한 장 남아있지 않은 아버지를 평생 그리워하며 살았는데 머나먼 타향 땅에 묻혀 계시던 아버지를 이제라도 서울현충원에 모실 수 있어 더할 나위 없이 기쁘다”며 “앞으로도 국가가 지속해서 전사 경찰관들에 대한 현양 사업에 신경 써줬으면 한다”고 전했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 6·25전쟁에는 총 6만3427명의 경찰관이 참전해 다부동 전투를 비롯한 전국의 전장에서 활약했다. 전쟁 중에 희생된 구국경찰은 사망자 3131명, 실종자 7084명으로 추정된다. 경찰청 관계자는 “6·25전쟁 당시 국가와 국민을 수호하다 장렬히 산화한 전사 경찰관들을 빠짐없이 찾아내고 그 공훈을 기리기 위해 유해 발굴 사업, 현충 시설 정비사업 등의 노력도 지속할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/IXCWZNJ2BFPRVMESWHWWZ7YJQY.JPG?width=2400&amp;height=1600&amp;auth=a759a21cb1bec2ef23a3772dce99bf93a46f17090ca23f6da2f98c9b8188c698&amp;smart=true" type="image/jpeg" height="1600" width="2400">
-        <media:description type="plain">(서울=뉴스1) = 1일 서울 동작구 서울현충원에서 6·25 전사 경찰관인 고 임진원 경사 유해 안장식이 엄수되고 있다.
-
-고향인 전북 김제 땅이 아닌 경북 칠곡 유학산 일대에서 발견된 고인의 유해는 최근 유가족 DNA 시료 분석을 거쳐 임 경사로 확인됐다.
-
-임 경사는 두세 살배기 어린 딸과 아들을 두고 전쟁터로 갔다 돌아오지 못했다. 특히 고인은 3·1운동 민족 대표 48인 중 한 명인 독립운동가 임규 선생의 조카이자 6·25 전쟁 백마고지 전투의 영웅인 고 임익순 대령의 당숙으로 알려졌다. (경찰청 제공) 2024.11.1/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1)</media:credit>
       </media:content>
     </item>
     <item>
