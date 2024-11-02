@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“사망한 父, 열달 냉동고 보관”…40대 결국 자수</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/02/XSNTK7KRGFEGDOTG2XOHVPJLBU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/02/XSNTK7KRGFEGDOTG2XOHVPJLBU/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Nov 2024 04:42:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자택에서 사망한 70대 아버지를 발견하고도 사망 신고를 하지 않고 열달 가량 집안 냉동고에 시신을 보관한 40대 아들이 경찰에 자수했다.&lt;br&gt;&lt;br&gt;경기 이천경찰서는 2일 사체은닉 혐의로 A씨를 불구속 입건해 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 사망한 아버지 B씨의 시신을 비닐에 감싸 집 냉동고에 숨긴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 작년 9월 혼자 사는 B씨 집에 방문했다가 아버지가 숨진 것을 확인했으나 사망 사실을 늦춰야 할 필요성이 있어 범행했다고 진술한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;그는 전날 오후 변호사와 함께 경찰서를 찾아 자수했다. B씨는 친척들에 의해 올해 경찰에 실종 신고됐던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “범행 동기 등 자세한 내용은 수사 중이라 말할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 B씨가 사망한 시점과 정확한 사인을 밝혀내기 위해 국립과학수사연구원에 부검을 의뢰할 방침이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>졸음운전 하다 공사 작업자 숨지게 했는데...1심서 집행유예 나온 이유</title>
       <link>https://www.chosun.com/national/court_law/2024/11/02/PEXQ7F7I2VEIJCZCQ5BGCQUQJ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/02/PEXQ7F7I2VEIJCZCQ5BGCQUQJ4/</guid>
@@ -900,15 +909,6 @@
       <description/>
       <pubDate>Fri, 01 Nov 2024 01:36:37 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RS6EIU7JSFI6XPF3NILLLYRVLQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;가을비가 내리는 29일 오전 서울 세종대로 광화문광장에서 우산을 준비하지 못한 시민들이 발걸음을 재촉하고 있다. 2024.10.29/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 2일까지 제주도와 남부지방을 중심으로 강한 가을비가 내리겠다고 기상청이 1일 밝혔다. 특히 제주도에서 빗줄기가 거셀 것으로 보인다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 제주도 남쪽 해상을 지나는 저기압의 영향으로 1~2일 제주도와 남부지방에 비가 내리겠다. 남부지방은 2일 오전까지, 제주도는 오후까지 각각 비가 이어지겠다. 1~2일 예상 강수량은 제주도 80~150㎜, 호남권 5~80㎜, 영남권 5~60㎜, 충청권 5㎜ 등이다. 강원동해안과 산지에는 2일에만 5~30㎜의 비가 내리겠다.&lt;br&gt;&lt;br&gt;2일 새벽까지 제주도에는 돌풍과 천둥·번개를 동반한 시간당 20~30m의 강하고 거센 비가 예고됐다. ‘매우 많은 비’의 기준이 시간당 30㎜로, 빗줄기 때문에 시야를 방해받을 정도의 양이다. 1일 오후 6시부터 자정까지는 시간당 30~50mm로 더욱 강하게 내릴 것으로 예상된다.&lt;br&gt;&lt;br&gt;2일 아침 최저기온은 10~17도, 낮 최고기온은 18~23도로 예보됐다. 일요일인 3일에는 전국이 고기압 영향권에 들면서 대체로 맑겠고 기온은 최저 7~15도, 최고 18~22도로 전날과 비슷한 기온 분포를 보이겠다.&lt;br&gt;&lt;br&gt;한편 21호 태풍 ‘콩레이’는 2일 중국 상해 부근에서 온대저기압으로 약화할 것으로 보인다. 이때 거대한 수증기 덩어리가 남게 되는데, 우리나라 쪽에 영향을 줄 경우 제주에 내리는 빗줄기가 더 거세질 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>﻿성유리 억울하다 했는데…남편 안성현, ‘코인 상장 뒷돈’ 징역 7년 구형</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/01/LBKDN4XDORGKJHJI2ZIBQUMWXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/01/LBKDN4XDORGKJHJI2ZIBQUMWXA/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Oct 2024 22:20:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PMWMA6E5FZKWTM25LFXYOEC2WA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배우 성유리의 남편 프로골퍼 안성현씨가 작년 4월 서울남부지법에서 열린 영장실질심사를 마친 뒤 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;암호화폐(코인) 상장을 빌미로 뒷돈을 받은 혐의를 받는 프로골퍼 안성현씨에게 징역 7년이 구형됐다. &lt;br&gt;&lt;br&gt;검찰은 지난달 29일 서울남부지법 형사합의11부(재판장 정도성) 심리로 열린 결심공판에서 안씨에 대해 징역 7년을 구형했다. 벌금 20억원, 명품 시계 2개 몰수, 15억원의 추징금도 함께 선고해달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;함께 기소된 이상준 전 빗썸홀딩스 대표에 대해서는 징역 5년에 3050만원 몰수, 15억2500만원의 추징금을 구형했다. 코인 상장을 청탁한 사업가 강종현씨와 코인 발행업체 관계자 송모씨에 대해서는 각각 징역 1년 6개월과 징역 8개월을 구형했다.&lt;br&gt;&lt;br&gt;안씨와 이 전 대표는 2021년 9월~11월 강씨로부터 A코인을 거래소 빗썸에 상장해달라는 청탁과 함께 수십억 원을 수수한 혐의를 받는다. 검찰에 따르면 안씨와 이 전 대표는 현금 30억원과 4억원 상당의 명품 시계 2개, 1150만원의 고급 레스토랑 멤버십 카드 등을 받은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;안씨는 ‘이 전 대표가 상장 청탁 대금 20억원을 빨리 달라고 한다’며 강씨를 속여 20억원을 별도로 가로챈 혐의도 받는다.&lt;br&gt;&lt;br&gt;안씨 측은 혐의를 부인했다. 강씨와 돈을 주고받은 것은 맞지만 청탁 명목은 아니라는 취지였다. 안씨 측 변호인은 “돈의 사용처는 그림 구매, 엔터테인먼트 회사 인수 등 투자 목적으로 확인됐다”고 주장했다.&lt;br&gt;&lt;br&gt;재판부는 오는 12월 26일 오후 2시 선고를 진행한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NAIRVLOZQFBUXMOYQSDV7RZSLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 성유리(오른쪽)와 프로골퍼 안성현(왼쪽)씨. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 안씨는 2005년 프로골퍼로 데뷔해 2014~2018년 골프 국가대표팀 상비군 코치로 일했다. 2017년 그룹 핑클 출신 성유리와 결혼해 쌍둥이 딸을 두고 있다.&lt;br&gt;&lt;br&gt;성유리는 올해 초 소셜미디어에 “우리 가정이 겪고 있는 억울하고 힘든 일들에 대한 진실이 밝혀지길 간절히 기도한다”는 글을 올렸다. 안씨 혐의에 대한 입장을 밝힌 것으로 해석됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>바디프랜드 경영권 놓고 싸우다… 양쪽 다 구속 위기</title>
