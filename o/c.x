@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘불법 도박’ 이진호, 돈 빌려준 이수근과 투샷..방송 흔적 보니</title>
+      <link>https://www.chosun.com/national/people/2024/11/03/L7FXL2DQUNANRDG4ZKJLHPIRZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/03/L7FXL2DQUNANRDG4ZKJLHPIRZQ/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Nov 2024 22:09:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QUOALBI7XJBTZIPEW3E2QB2QIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 JTBC '아는 형님' 방송 장면 일부에서 포착된 개그맨 이수근(왼쪽)과 이진호./JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;불법 도박을 인정한 개그맨 이진호가 방송 일부 장면에서 자신에게 돈을 빌려줬던 이수근과 함께 있는 모습이 포착됐다.&lt;br&gt;&lt;br&gt;지난 2일 방송된 JTBC ‘아는 형님’에는 출연진들이 제복 근무자들의 노고에 감사를 표하기 위해 제복을 입고 등장했다.&lt;br&gt;&lt;br&gt;최근 불법 도박 혐의로 방송에서 하차한 이진호도 교복을 입은 모습으로 등장해 눈길을 끌었다. 출연진들끼리 이야기를 나누던 와중에 클로즈업된 이수근 뒤로 이진호의 얼굴이 나타났다. 특히 이진호는 같은 프로그램에 출연하던 이수근의 이름을 팔아 주변인들에게 돈을 빌리는 등 금전적 외 피해까지 입힌 사실이 알려지기도 했다.&lt;br&gt;&lt;br&gt;앞서 이진호는 지난달 14일 자신의 인스타그램에 장문의 글을 올려 불법 도박을 한 사실을 고백했다. 그는 “2020년 우연한 기회로 인터넷 불법 도박사이트에서 게임을 시작하게 됐고, 감당하기 힘든 빚을 떠안게 됐다”고 밝혔다. 그는 “매월 꾸준히 돈을 갚아 나가고 있고, 앞으로도 죽을 때까지 이 빚은 꼭 제힘으로 다 변제할 생각”이라며 “경찰 조사 역시 성실히 받고 제가 한 잘못의 대가를 치르겠다”고 했다.&lt;br&gt;&lt;br&gt;이와 관련해 ‘아는 형님’ 측은 같은 날 이진호가 불법 도박을 했다고 밝힌 직후 ‘이진호는 이번 주 촬영부터 하차하게 됐다”며 “이미 촬영된 것에 대해서는 최대한 편집해 방송할 계획이라고 밝혔다.&lt;br&gt;&lt;br&gt;이진호는 동료 연예인 등으로부터 10억원 가량의 돈을 빌린 것으로 알려졌다. BTS 지민에게 “급전이 필요하다”며 1억원을 빌렸고, 이수근과 방송국 임원, PD, 작가들에게도 돈을 빌린 것으로 전해졌다. 또 그가 따로 대부업체에서 빌린 돈도 13억원이 넘는 것으로 알려졌다. 그는 지난달 22일 경찰에 출석해 불법 도박 및 사기 혐의 등에 대해 조사를 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>4억 람보르기니 받은 아반떼…"중앙선 침범했다" 목격담 쏟아진 사고</title>
       <link>https://www.chosun.com/national/national_general/2024/11/02/TOTGMHSU3ZEUHG5J2BSAPOSSYQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/02/TOTGMHSU3ZEUHG5J2BSAPOSSYQ/</guid>
@@ -853,15 +862,6 @@
       <description/>
       <pubDate>Fri, 01 Nov 2024 03:00:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBR3WQSNXYDIR43J5WW5EB4IXM.png"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법 포항지원은 지난 2020년 1월 30일 성소수자∙다자 연애 관련 강연을 개최했다는 이유로 한동대에서 무기정학을 받은 A씨가 낸 무기정학 처분 무효 확인 소송에서 원고 승소 판결을 내렸다. 이날 선고 이후 '한동대 학생 부당징계 공동대책위원회'가 법원 앞에서 판결을 환영하는 기자회견을 하고 있는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘폴리아모리(비독점적 다자 간 연애)’를 하는 대학생의 실명∙얼굴을 온라인 블로그에 공개하며 비판한 목사가 명예훼손으로 기소돼 대법원에서 유죄가 확정됐다.&lt;br&gt;&lt;br&gt;1일 법조계에 따르면, 대법원 3부(주심 엄상필 대법관)는 정보통신망법 명예훼손 혐의로 기소된 서요한 목사에게 벌금 50만원을 선고한 원심을 지난달 8일 확정했다.&lt;br&gt;&lt;br&gt;이 사건에서 문제 된 ‘다자 간 연애’는 연애 대상을 한 명으로 제한하지 않고, 동시에 여러 사람과 사랑을 할 수 있다는 견해 혹은 정체성을 의미한다. 남성 A씨는 2017~2018년 개신교계 대학인 한동대에 재학하며 폴리아모리 관련 활동가 여성 B씨, 다른 남성과 함께 다자 연애 관계를 맺고 있었다.&lt;br&gt;&lt;br&gt;그러다 A씨가 2017년 12월, 2018년 2월 한동대에서 두 차례 성소수자∙다자 연애 관련 강연을 개최하자, 대학 측은 A씨에게 무기징학 처분을 내렸다. 개신교 이념과 반대되는 강연을 진행하고 다자 연애를 한다는 등의 이유였다. 이후 A씨가 불복해 낸 소송에서 법원은 “징계는 무효”라며 원고 승소 판결을 했다.&lt;br&gt;&lt;br&gt;당시 교계를 중심으로 다자 연애 논란이 불거지자, 서 목사는 2018년 1월 자신이 이끄는 기독교 단체 블로그에 ‘폴리아모리 생활하는 B씨의 글을 읽어보니’라는 글을 올렸다. 서 목사는 A씨와 B씨의 실명, A씨가 등장한 언론 인터뷰 영상 등을 인용하면서 “A씨는 자신을 ‘성적으로 문란한 자’라고 비난하는 주변 사람들과 학교를 향한 원망만을 늘어놓는다” “소수의 행동이라고 보호받는 건 아니다” “자신의 행동이 왜 소문이 나는지 생각해 봐야 할 것”이라며 비판했다.&lt;br&gt;&lt;br&gt;검찰은 “서 목사는 A씨를 비방할 목적으로 폴리아모리의 삶을 산다는 사실을 드러내 명예를 훼손했다”며 기소했다. 서 목사는 A씨가 다자 연애를 한다는 것을 공공연하게 드러내 명예훼손의 위험을 자초했다고 주장했다.&lt;br&gt;&lt;br&gt;1심은 서 목사에게 무죄 판결을 내렸다. 1심은 “이 사건 게시글은 A씨가 폴리아모리의 삶을 살고 있다는 것을 폭로하기 위해서가 아니라 자신의 의견을 개진하기 위해 작성된 것으로 보인다”며 “A씨 스스로 폴리아모리 삶을 살고 있다고 적극 밝혀 논란에 원인을 제공한 측면이 있다”고 판단했다.&lt;br&gt;&lt;br&gt;그러나 2심은 이를 뒤집고 명예훼손 혐의를 인정했다. 2심 재판부는 “서 목사의 글이 의견 표명에 불과하다거나 공익을 위한 것이라고 보이지 않는다”며 “피해자를 비방하려는 목적이 인정된다”고 밝혔다. 당시 피해자인 A씨가 다자 연애를 한다는 사실이 널리 알려지지 않았고, 이를 알리고 싶어 하지도 않던 상황에서 서 목사가 강제로 성적 지향을 공개했다는 것이다.&lt;br&gt;&lt;br&gt;대법원도 원심 판단이 맞는다고 봤다. 대법원은 “널리 알려진 공적 인물로 볼 수 없는 A씨의 내밀한 사적 영역에 속하는 (다자 연애) 사실을 실명, 얼굴 사진 등과 함께 공개했다”며 “이는 피해자의 인격권을 중대하게 침해하는 것”이라고 지적했다. 그러면서 “서 목사는 공익에 관한 것으로 보기 어려운 A씨의 성적 지향을 드러내 비방할 목적으로 글을 작성∙게시했다고 인정할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, 코인 시세 조종 관련 압수수색…금융당국 ‘패스트트랙’ 이첩 첫 사례</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/01/TYNDLZSNC5HD7C36VHGQRY7XHM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/01/TYNDLZSNC5HD7C36VHGQRY7XHM/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 01 Nov 2024 02:28:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4W2YTKE3YNNMTODH65H6E3JU4Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 양천구 서울남부지방검찰청 가상자산범죄 합동수사단./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금융당국이 첫 긴급조치 절차(패스트트랙)을 통해 넘긴 가상자산 시세조종 사건에 대해 검찰이 강제 수사에 나섰다.&lt;br&gt;&lt;br&gt;서울남부지검 가상자산범죄합수단(단장 박건욱)은 지난 30일과 31일 가상자산이용자보호법 위반 혐의를 받는 30대 남성 A씨의 주거지와 사무실 등 총 7곳에 대한 압수수색을 진행했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 A씨는 코인을 고가 매수주문하고 API를 통해 반복적으로 허수 매수주문을 하는 등 코인의 시세를 조종한 혐의를 받는다. 이를 통해 A씨가 얻은 부당이득은 수십억원에 달한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 사건은 검찰이 가상자산이용자보호법 시행 이후 가상자산거래소의 이상 거래 적출·심리에 대한 금융당국 조사 결과를 넘겨받아 수사하는 패스트트랙의 첫 사례다.&lt;br&gt;&lt;br&gt;앞서 금융위원회와 금융감독원은 지난 25일 시세조종 조사를 마치고 검찰에 이를 통보했다. 가상자산거래소로부터 심리 결과를 전달 받은 금융당국은 약 2개월 만에 조사를 완료했다.&lt;br&gt;&lt;br&gt;한편 가상자산 불공정거래에 대한 제재는 지난 7월 가상자산이용자보호법 시행과 함께 도입됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>﻿국민연금 면제해줬더니 ‘호화 생활’…외제차 몰고 해외까지</title>
