@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>어린 아내 외도 의심, 술병으로 머리 친 중견기업 회장 기소</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/03/QQ2DTJBFP5EMTFY7L27FP7NTNA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/03/QQ2DTJBFP5EMTFY7L27FP7NTNA/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 Nov 2024 08:14:47 +0000</pubDate>
+      <content:encoded>와인병으로 아내의 머리를 가격하는 등 상해를 입힌 혐의를 받는 중견기업 회장 A씨를 검찰이 불구속 기소했다. A씨는 자신과 나이 차이가 많이 나는 아내가 바람을 핀다고 의심해 뒷조사를 하고 부인의 노트북을 몰래 훔쳐 포렌식한 혐의도 받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OGKHIVLWUBGUVCFC3RXKJOB4JQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 여성아동범죄조사2부(부장 박윤희)는 지난달 30일 A씨를 특수폭행 등 혐의로 불구속 기소했다고 3일 밝혔다. A씨는 지난 5월 말 서울 강남구 자택에서 아내 B씨를 와인병으로 가격해 전치 6주의 상해를 입혔다. B씨는 당시 폭행으로 갈비뼈 4대가 골절되고 치아 일부가 손상되는 등 큰 부상을 입었다고 한다.&lt;br&gt;&lt;br&gt;올해 60세인 A씨가 자신보다 20살 이상 어린 아내의 외도를 의심해 이 같은 범행을 저질렀다는 것이 검찰 조사 결과다. A씨는 외도 증거를 찾으려고 B씨의 뒷조사를 하고, B씨의 노트북을 몰래 가져가 사설 업체에 맡겨 포렌식을 했다고 한다. 검찰은 A씨에게 전자기록등내용탐지 혐의도 적용해 기소했다.&lt;br&gt;&lt;br&gt;A씨는 사건 이후 B씨에게 “너 때문에 수갑 차고 가게 생겼다”는 식의 보복성 협박을 여러 차례 했다고 한다. 폭행을 당한 B씨는 집에서 도망쳐 나와 A씨를 경찰에 신고하고 살인미수 혐의로 고소했다. 앞서 경찰은 A씨에 대해 구속영장을 신청했지만 법원은 도주 우려가 적은 점 등을 고려해 구속영장을 발부하지 않았다. 이후 검찰은 보완 수사를 진행해 기소했다.&lt;br&gt;&lt;br&gt;한편, A씨의 부친은 1990년대에 서울시장을 지낸 바 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>추성훈 “어린시절 친구들 거의 야쿠자 됐다…교사가 재일교포라고 차별”</title>
+      <link>https://www.chosun.com/national/people/2024/11/03/QFIPZDASPVAFTEIRUZAKPP2Y7U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/03/QFIPZDASPVAFTEIRUZAKPP2Y7U/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 Nov 2024 08:38:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HKHA3F2DUOQPVN2Y3I6RV4NIJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;격투기 선수 추성훈. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;격투기 선수 추성훈(49)이 어린 시절 재일교포라는 이유로 차별을 받았던 일화를 공개했다.&lt;br&gt;&lt;br&gt;추성훈은 3일 MBC ‘심장을 울려라 강연자들’ 선공개 영상에서 한국과 일본을 오가며 활동하는 과정에서 정체성의 혼란을 겪었다고 털어놨다.&lt;br&gt;&lt;br&gt;추성훈은 “어린 시절 살던 동네가 오사카 지방에서도 (치안이) 나쁜 동네였다”며 “동네 친구들이 (어른이 된 현재) 거의 다 야쿠자다. 그런 친구들이 너무 많았지만 유도 선수 출신 아버지의 가르침 덕분에 어린 시절 나쁜 길로 빠지지 않았다”고 했다.&lt;br&gt;&lt;br&gt;추성훈은 “가슴에 태극기를 단 대한민국 국가대표 유도 선수가 되고 싶었다. 저의 꿈이자 아버지의 꿈이기도 했다”며 “대학교를 졸업하면 실업팀으로 가는데 일본 실업팀에 가려면 한국 국적을 포기해야 하는 상황이었다. 일본 실업팀에서 스카우트 제의가 왔는데 35년 전 당시 월급을 30만엔 (한화 약 300만원) 준다더라. 24살인 제게는 너무 흔들리는 제안이었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “수도 없이 고민을 하다가 결국 꿈을 선택했다. 그리고 아버지한테 한국으로 가겠다고 했다”며 30년 전 유도 선수로 활동하던 당시 입었던 도복과 태극 마크가 새겨진 이름표를 공개했다.&lt;br&gt;&lt;br&gt;어린 시절 재일교포로서 겪은 차별에 대해서는 중학생 시절 친구와 다툰 후 선생님에게 구타를 당했다며 당시 선생님에게 “일본인 때리지 마”라는 말을 들었다고 했다.&lt;br&gt;&lt;br&gt;추성훈은 또 한국과 일본 양국 모두에서 자신과 가족을 향한 악플이 달리고 있다며 특히 ‘한국말 못하는 X신’이라는 악플이 충격이었고 이로 인해 ‘나는 어느 나라 사람인가?’라는 고민에 빠졌다고 했다.&lt;br&gt;&lt;br&gt;추성훈은 특히 딸 추사랑이 악플로 상처를 받을까 걱정된다며 “딸이 겪을 상처를 생각할 때마다 마음이 아프다”라고 했다.&lt;br&gt;&lt;br&gt;한편 재일교포 4세인 추성훈은 대한민국 국가대표로 선발되기도 했었으나, 특정대학을 중심으로 한 한국 유도계의 텃세에 불만을 제기하다 지난 2001년 일본으로 귀화했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 경찰, 무면허 운전 8중 추돌 사고 낸 20대 구속영장 신청</title>
+      <link>https://www.chosun.com/national/incident/2024/11/03/ULMICZPDVRGKPJNDNJE7RWO6Y4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/03/ULMICZPDVRGKPJNDNJE7RWO6Y4/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 Nov 2024 08:23:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PODMGVEKJ3L3I6F4X7WK4M2VKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남경찰서는 지난 2일 오후 1시 42분쯤 서울 강남구 역삼동 국기원입구 사러리에서 강남역 12번 출구로 향하는 테헤란로에서 8중 추돌 사고를 낸 20대 여성 A씨에 대한 구속영장을 신청했다고 3일 밝혔다. 혐의는 특정범죄가중처벌법상 도주치상, 도로교통법 위반 등이다.&lt;br&gt;&lt;br&gt;당시 차를 몰던 A씨는 역주행 운전을 해 총 차량 7대와 오토바이 1대 등 총 8대의 차량과 추돌했다. 사고 직후 차에서 내리지 않다가 경찰의 지시로 차에서 내렸는데, 당시 무면허 운전인 것이 발각돼 현행범으로 체포됐다. 이 사고로 총 9명이 경상을 입었다.&lt;br&gt;&lt;br&gt;A씨는 사건 당시 마약 간이 검사와 음주 검사에선 음성이 나왔다. 그러나 경찰 조사 과정에서 “신경 안정제를 먹고 운전했다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 A씨는 강남 일대에서 8중 추돌 사고를 내기 전 서울 송파구 거여동의 한 도로 위에서도 유모차를 끌고 가는 여성을 차로 쳐 2명에게 부상을 입혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NE2P6KHHWBPCFJMBWONTCMQLKM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 서울 강남경찰서와 소방당국 등에 따르면 오후 1시 42분쯤 서울 강남구 테헤란로 국기원입구 방향에서 강남역 방향 1~3차로에서 8중 추돌 사고가 발생했다 ./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서상홍 前 헌법재판소 사무처장 별세…향년 75세</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/03/ZTZOFMZT5FHDBL2LSCYDALHRVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/03/ZTZOFMZT5FHDBL2LSCYDALHRVQ/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 Nov 2024 08:17:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/24OZFUE5SRAW5NOAIAXDTLSMJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서상홍 전 헌법재판소 사무처장/헌법재판소 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서상홍 전 헌법재판소 사무처장이 2일 오전 6시 30분 별세했다. 향년 75세.&lt;br&gt;&lt;br&gt;서 전 사무처장은 1975년 17회 사법시험에 합격한 이후 서울민사지법 판사와 서울지법 부장판사, 인천지법 부천지원장 등을 지냈다. 2000년 헌재 사무차장에 임명됐고 2005년~2007년 헌재 사무처장으로 재직했다. 사무처장 임기를 마친 뒤 2008년 2월부터 2009년 5월까지 정부법무공단 초대 이사장을 역임했다.&lt;br&gt;&lt;br&gt;유족으로는 부인 박순숙씨, 아들 서아람씨, 딸 서미루씨, 사위 이희천씨, 며느리 구민경씨 등이 있다. 빈소는 서울대병원에 마련되며 발인은 오는 5일 오전 6시다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>15년간 재력가인 척 338억 사기…마포 고깃집 주인 2심도 징역 13년</title>
       <link>https://www.chosun.com/national/court_law/2024/11/03/B6IP4V3ZX5D4JFJN7MWE6CCREE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/03/B6IP4V3ZX5D4JFJN7MWE6CCREE/</guid>
@@ -912,33 +948,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NNND6UIBABJMVDUWRT5C453VJU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;최경환 전 경제부총리. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최경환 전 경제부총리가 자신과 관련된 허위 의혹을 보도한 MBC를 상대로 낸 손해배상 소송 2심에서도 일부 승소했다.&lt;br&gt;&lt;br&gt;서울고법 민사13부(재판장 문광섭)는 1일 MBC 측 항소를 기각하고, 원심과 같이 MBC가 최 전 부총리에게 2000만원을 지급하라고 했다. 재판부는 법정에서 선고 이유를 따로 밝히진 않았다.&lt;br&gt;&lt;br&gt;앞서 MBC는 2020년 4월 이른바 ‘채널A 사건’을 연속 보도하며 해당 사건 제보자인 이철 전 밸류인베스트코리아(VIK) 대표가 “2014년 기획재정부 장관이던 최 전 부총리 측이 신라젠에 65억원을 투자했다고 하더라”는 내용도 제보했다고 보도했다.&lt;br&gt;&lt;br&gt;최 전 부총리는 이러한 보도가 나간 후 같은 해 5월 자신의 명예가 훼손됐다며 MBC를 상대로 3억원의 손해배상 소송을 제기했다.&lt;br&gt;&lt;br&gt;이 사건 1심 선고는 작년 11월, 2심 결과는 그로부터 약 1년 만에 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“억까짤 퍼다 샬라샬라” 마약루머 비꼰 지드래곤 신곡 가사</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/01/3PC4X4V36ZEVRLQFCHW2NIGBHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/01/3PC4X4V36ZEVRLQFCHW2NIGBHI/</guid>
-      <dc:creator>김가연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 01 Nov 2024 05:47:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZRSOLIICFMBQHDMCIUFOQMFN6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 지드래곤. /갤럭시코퍼레이션&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 지드래곤이 7년 만에 신곡 ‘파워’(POWER)로 돌아왔다. 지난해 마약 투약 누명을 벗은 그는 당시 자신이 느꼈던 심경을 이 곡에 그대로 담은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;지드래곤의 신곡 ‘파워’는 지난달 31일 오후 6시 각종 음원 사이트를 통해 공개됐다. 이 곡은 그가 2017년 발매한 미니 앨범 ‘권지용’ 이후 7년4개월 만에 선보인 솔로곡이다.&lt;br&gt;&lt;br&gt;이 곡은 공개 직후부터 여러 음원차트를 휩쓸었다. 국내 주요 음원사이트인 멜론, 지니, 벅스, 바이브 등 실시간 음원차트 1위에 올랐고, 특히 멜론에서는 5분 만에 이용자수 8만3000명을 넘기며 TOP100 2위에 올랐다.&lt;br&gt;&lt;br&gt;‘파워’가 큰 인기를 끌면서 가사 또한 화제가 됐다. 지드래곤이 곡 발매에 앞서서 한 방송에 출연해 “미디어의 힘에 대한 풍자 아닌 풍자를 담았다”고 말한 만큼, 그가 어떤 가사를 썼을지에 대해 대중의 관심이 높아진 것이다.&lt;br&gt;&lt;br&gt;이번 곡 가사에는 “억까 짤 퍼다 샬라샬라하다가 shout out(샤라웃)” “애들이 나보고 개꿀이라더군 댓글 리플 관종 걔들 입틀막고” “I don’t give a 쉬-잇 웃다 끝 ‘돈’ 기부 ‘억’ 씨-익” “권력오남용 묻고 관용 천재 지병 불가항력” “Pump up the power 난 자유로워” “나는 나다워서 아름다워” 등 구절이 담겼다.&lt;br&gt;&lt;br&gt;이러한 가사는 지난해 그를 둘러싸고 제기됐던 마약 투약 루머 등을 풍자하고, 자신에 대한 허위사실을 유포한 악플러들을 비판한 것으로 해석된다.&lt;br&gt;&lt;br&gt;특히 지난해 지드래곤이 마약 투약 혐의로 형사 입건됐다는 사실이 알려진 이후 온라인상에서는 “마약 투약으로 인한 이상 증세”라며 지드래곤의 어눌한 말투, 산만한 몸짓 등을 짜깁기한 영상이 퍼졌는데, 이를 가리켜 “억까(억지비판) 짤(사진이나 짧은 영상) 퍼다 샬라샬라”라고 비판한 것으로 보인다.&lt;br&gt;&lt;br&gt;또 “I don’t give a 쉬-잇 웃다 끝 ‘돈’ 기부 ‘억’ 씨-익”이라는 가사에는 혐의를 벗은 뒤 마약 근절 활동을 위해 ‘저스피스 재단’(JUSPEACE Foundation)을 설립하고 억 단위의 돈을 기부한 자신의 모습을 담았다.&lt;br&gt;&lt;br&gt;한편 지드래곤은 지난달 30일 방송된 tvN 예능 ‘유 퀴즈 온 더 블럭’에서 “반평생 넘도록 화려하게 살다 보니까. 저의 문제가 아닌 상황들이 벌어지더라”라며 “할 수 있는 선에서는 어떻게든 해보려는데, 답을 못 찾은 상태에서 코너로 계속 몰려드는 느낌이었다”라며 솔직한 심경을 밝혔다. 그는 “코너가 아니라 뒤에 공간이 있다고 생각하면 되는데, 그때는 궁지에 몰리는 느낌이었다”며 “앞으로 갈 수도 없고 정신적으로 피폐해지면 위험한 일들을 생각할 것 같았다. 억지로라도 오로지 내 중심을 잡으려 했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주 100㎜ 넘는 폭우…11월 하루 강수량 ‘역대 최고’</title>
-      <link>https://www.chosun.com/national/regional/2024/11/01/EFSRLJZYSNBLLOSOKNJJGZDH7A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/01/EFSRLJZYSNBLLOSOKNJJGZDH7A/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 01 Nov 2024 05:56:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RFCOGE4AIRKURPV3CWYFZ43DMU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오후 제주시 용담해안도로에서 관광객들이 우비를 입고 이동하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 제주에 내린 비의 양이 11월 기록으로는 역대 최다를 기록했다.&lt;br&gt;&lt;br&gt;제주지방기상청에 따르면 이날 오후 1시 현재 제주(북부·제주기상청) 지점의 하루 강수량은 102.2㎜다. 이는 이 지점에서 관측을 시작한 1923년 이래 11월 기록으로는 가장 많다. 종전 기록은 2011년 11월 18일의 102㎜다.&lt;br&gt;&lt;br&gt;제주시 고산(서부) 지점도 일 강수량이 오후 1시 현재 70.4㎜로 1988년 관측 이래 3위를 기록하고 있다.&lt;br&gt;&lt;br&gt;비는 오는 2일까지 내릴 것으로 예보돼 강수량 기록도 더 늘어날 전망이다.&lt;br&gt;&lt;br&gt;현재 제주 산지와 북부·동부·남부중산간 지역에 호우 경보가 내려진 상태다. 또한 육상 전역에는 강풍주의보, 제주도 전 해상에는 풍랑특보가 각각 발효 중이다.&lt;br&gt;&lt;br&gt;오후 1시 현재 지점별 일 강수량은 제주 102.2㎜, 서귀포(남부) 56.9㎜, 성산(동부) 102.2㎜, 고산 70.4㎜, 산천단 121㎜, 오등 104㎜, 송당 94㎜, 대흘 92.5㎜, 가시리 91.5㎜, 제주공항 89.3㎜ 등이다. 한라산은 진달래밭 135.5㎜, 삼각봉 125㎜, 윗세오름 107㎜, 성판악 106㎜ 등을 기록하고 있다.&lt;br&gt;&lt;br&gt;기상 악화로 이날 한라산 탐방은 전면 통제됐고, 도로가 침수되는 등 피해가 발생했다.&lt;br&gt;&lt;br&gt;이날 오전 9시 12분쯤 서귀포시 법환동에서는 비바람 속 나무가 쓰러지고, 오전 9시 32분쯤 제주시 일도2동에서는 하수구가 역류해 안전조치가 이뤄졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>수억대 뇌물수수 혐의 이화영, 국민참여재판 신청</title>
-      <link>https://www.chosun.com/national/regional/2024/11/01/7YY2DYYG7RASJN7UMKZMVMSZXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/01/7YY2DYYG7RASJN7UMKZMVMSZXQ/</guid>
-      <dc:creator>수원=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 01 Nov 2024 07:29:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W4YQR3IDAFKW7JVPREPBPJYB4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 25일 국회에서 열린 법제사법위원회 국정감사에 증인으로 출석한 이화영 전 경기도평화부지사(왼쪽)가 의원 질의에 답변하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도 관내 업체 등으로부터 수억원대 뇌물과 정치 자금을 받은 혐의로 추가 기소된 이화영 전 경기도 평화부지사 측이 국민참여재판 희망 의사를 밝혔다.&lt;br&gt;&lt;br&gt;1일 수원지법 형사11부(재판장 신진우) 심리로 진행된 이 전 부지사의 특정범죄가중처벌 등에 관한 법률상 뇌물, 정치자금법 위반 등 사건에서 변호인은 “이 사건은 정치적 반대 입장을 가진 세력을 제거하기 위한 검찰의 공소권 남용”이라며 이같이 요청했다.&lt;br&gt;&lt;br&gt;변호인은 “검찰은 먼지털이식으로 수사를 벌인 다음 생산한 다량의 수사기록을 통해 시간적 간격을 두고 공소장을 작성해 (대북송금 등 혐의와) 별건으로 이 사건을 기소했다”며 “헌법상 국가기관에 요구되는 기본권 최소 침해 원칙 등을 위배한 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;또 “이화영은 2년간 교도소와 수원구치소에 구금된 상태로, 쪼개기 기소는 경합범 가중 특례를 적용받지 못하게 해 피고인의 형이 확정될 시 불이익을 받게 된다”며 “국민으로부터 공소권 남용에 해당하는지, 개별 공소사실이 유죄로 인정될지 직접 재판받길 원한다”고 말했다.&lt;br&gt;&lt;br&gt;이에 대해 검찰은 국민참여재판 배제 결정을 재판부에 요구했다.&lt;br&gt;&lt;br&gt;검찰은 “이 사건은 정치사건이 아니고 피고인의 국회의원 선거 과정, 킨텍스 대표이사로 재직하면서 뇌물과 정치자금을 수수한 부패 사건”이라며 “공범들이 국민참여재판을 원하지 않는다고 의견을 밝힌 만큼 재판부는 배제 결정을 해달라”고 밝혔다.&lt;br&gt;&lt;br&gt;이 전 부지사는 이날 재판을 포함해 앞선 8월 30일과 9월 27일 공판에 건강 문제를 들어 출석하지 않았다. 이 전 부지사에게 뇌물 등을 건넨 혐의로 함께 재판에 넘겨진 경기도 업체 측과 김성태 전 쌍방울 회장 등 3명의 피고인은 8월 첫 기일에서 공소사실을 인정했다.&lt;br&gt;&lt;br&gt;재판부는 “(피고인의 불출석으로) 재판기일이 정식적으로 진행된 것은 아니기 때문에 현시점에서 국민참여재판 신청은 가능하다”며 “다만 피고인 측의 공소사실에 대한 정확한 의견과 증인신문에 드는 시간 등이 정리 가능하다는 전제로 검찰과 변호인의 의견을 들어보고 추후 국민참여재판 여부를 판단하겠다”고 밝혔다. 다음 재판은 15일 공판준비기일로 진행된다.&lt;br&gt;&lt;br&gt;이 전 부지사는 2021년 7월부터 2022년 9월까지 관내 건설업체 대표로부터 자신이 위원장으로 있었던 더불어민주당 용인갑 지역위원회 운영비 명목으로 3억원을 받는 등 6년간 경기도 업체 3곳과 김 전 쌍방울 회장으로부터 약 5억원의 뇌물과 정치자금을 받은 혐의로 올해 6월 18일 기소됐다.&lt;br&gt;&lt;br&gt;이 전 부지사는 쌍방울 불법 대북송금 관련 외국환거래법 위반과 특가법상 뇌물 및 정치자금법 위반 등 혐의로 지난 6월 1심에서 징역 9년6월을 선고받았으며 29일 수원고법의 항소심 선고를 앞두고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>인천 강화에서 쌀 담긴 페트병 北에 보내려던 탈북민단체 적발</title>
       <link>https://www.chosun.com/national/incident/2024/11/01/FJG5PT5QXJGS3MXXMDWBKGJTLI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/01/FJG5PT5QXJGS3MXXMDWBKGJTLI/</guid>
@@ -964,15 +973,6 @@
       <description/>
       <pubDate>Thu, 31 Oct 2024 14:37:37 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QDP4J3NU3FF7ZDNDUNMTRVK74Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 유튜브 채널 '화성인 릴도지'에 올라온 'APT.🇰🇵' 영상. 걸그룹 블랙핑크 멤버 로제(본명 박채영·27)가 미국 팝스타 브루노 마스와 듀엣으로 부른 노래 '아파트' 뮤직비디오를 김정은 북한 국무위원장과 김여정 노동당 부부장이 등장하는 것으로 패러디했다. /유튜브 채널 화성인 릴도지 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YQ66I3NUPRELHH7PUERCE3QAXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;걸그룹 블랙핑크 멤버 로제(본명 박채영·27)가 미국 팝스타 브루노 마스와 듀엣으로 부른 노래 ‘아파트(APT.)’ 뮤직비디오를 북한 김정은 국무위원장과 김여정 노동당 부부장이 부르는 것처럼 합성·개사한 패러디 영상이 유튜브에 올라와 인기를 끌고 있다.&lt;br&gt;&lt;br&gt;31일 구독자 27만명을 보유한 유튜브 채널 ‘화성인 릴도지’에는 ‘APT.🇰🇵’라는 제목의 2분 50초짜리 영상이 올라왔다. 원곡에선 로제가 자기 본명을 언급하며 “채영이가 좋아하는 랜덤 게임 / 랜덤 게임 / 게임 스타트!”라는 전주로 시작하는데, 패러디 영상은 북한의 간판 아나운서인 리춘히가 나와 “어버이가 좋아하는 도발 계획 / 도발 계획 / 개수작!”으로 말하는 것으로 갈음됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RI3CTNXZ55AGPLNOS4VFNQBJGY.png"&gt;&lt;figcaption&gt;&lt;small&gt;북한 간ㅍ나 아나운서 리춘희를 합성한 것으로 추정되는 인물이 '아파트' 뮤직비디오 패러디 영상에 등장한 모습. /유튜브 채널 화성인 릴도지 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;후렴구를 포함해 로제의 곡에 61차례 등장하는 ‘아파트’라는 단어는 ‘로케트’로 바뀌었다. “Kissy face, kissy face. Sent to your phone but”이라는 가사는 “기습배치 기습배치 선두에 포격”이라는 김여정 목소리로 나온다. 또 “I’m trying to kiss your lips for real”은 “난 저 아래 기싸움 살포하리오”로, “Red hearts, red hearts That’s what I’m on yeah”는 “불행하지 불행하지 살수없는 노예”로 가사를 바꿨다.&lt;br&gt;&lt;br&gt;‘아파트’에서 브루노 마스가 부르는 대목은 선글라스를 쓴 김정은 모습으로 연출했다. “Don’t you want me like I want you, baby”로 시작하는 부분은 북한이 러시아에 군을 파병한 것을 패러디해 개사했다. “남쪽은 매일 나를 까 완전 지 애비 돈줄 인민한텐 미친X. 실행 도모하라우 푸틴 나의 코인 거래하지 우리 군을 보내줬으니 이미 내편.”&lt;br&gt;&lt;br&gt;이 영상은 업로드 6시간 만에 25만회에 육박하는 조회수를 기록했다. 네티즌들은 “원곡가사의 라임, 발음 살려서 번안했다” “브루NORTH 마스” “대북확성기 옆에 대형 스크린 설치하고 이거 틀어주면 좋겠다” 같은 반응을 보였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YLPFQ4HFGNDOPMODSZEYKSGUBU.png"&gt;&lt;figcaption&gt;&lt;small&gt;김여정 북한 노동당 부부장이 조현아의 '줄게'에 맞춰 춤을 추는 딥페이크 영상. /유튜브 채널 화성인릴도지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영상이 올라온 유튜브 화성인 릴도지 채널에는 이전에도 일본 노래 ‘푸른 산호초’를 김정은의 ‘돼니-붉은 산호초’로 합성한 영상 등 북한 정권을 비판조로 패러디한 영상이 여럿 올라와 있다. 지난달에는 가수 조현아의 ‘줄게’에 맞춰 김여정이 춤을 추는 패러디 영상이 올라와 큰 인기를 끈 적도 있다.&lt;br&gt;&lt;br&gt;한편 북한은 이날 오전 7시 10분쯤 ‘화성-18형’ 개량형으로 추정되는 대륙간탄도미사일(ICBM) 한 발을 동해상으로 발사했다. 작년 12월 고체 연료 ICBM인 화성-18형 도발을 한 지 10개월 만이다. 닷새 남은 미 대통령 선거 과정에서 존재감을 과시했다는 분석이 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[우리 아이 튼튼하게] 아기 두피에 노란 딱지 앉으면 목욕 한 시간 전 오일 발라줘요</title>
-      <link>https://www.chosun.com/culture-life/culture_general/2024/11/01/B4IQPAUK3VCCFF7QVRGDOEKPRY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2024/11/01/B4IQPAUK3VCCFF7QVRGDOEKPRY/</guid>
-      <dc:creator>백정현 우리아이들병원 병원장</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Oct 2024 15:30:00 +0000</pubDate>
-      <content:encoded>신생아 두피에 두껍고 노란 딱지가 앉는 경우가 있어요. 이를 지루성 피부염이라고 해요. 지루성 피부염은 두피, 코 등과 같이 기름을 생성하는 피지선이 많은 신체 부위에 생깁니다.&lt;br&gt;&lt;br&gt;어린아이들에게 생기는 지루성 피부염은 생후 2~3주 때부터 생기기 시작해서 3개월쯤에 가장 많이 생겨요. 깨끗해 보이지 않아서 걱정도 되지만 생후 6개월에서 12개월 사이에는 저절로 낫는답니다.&lt;br&gt;&lt;br&gt;지루성 피부염이 생기는 정확한 원인은 알려져 있지 않지만 신생아는 피지선 활동이 과도하게 활성화되어 생긴다고 알려져 있어요. 피지가 너무 많이 생기다 보면 죽은 세포들이 정상적으로 떨어져 나가지 않게 되죠. 지루성 피부염은 가을이나 겨울처럼 온도와 습도가 낮은 환경에서 증상이 악화돼요. 하지만 습진과 달리 알레르기 때문에 생기지는 않아요.&lt;br&gt;&lt;br&gt;지루성 피부염이 가장 많이 생기는 부위는 두피예요. 각질은 기름기가 많은 노란색 비늘처럼 보이고, 각질 밑의 피부는 붉게 보이죠. 눈이나 귀 주변에도 나타나고, 때로는 기저귀를 차는 부위와 피부가 접히는 부분에도 생겨요.&lt;br&gt;&lt;br&gt;심하지 않은 지루성 피부염은 항진균 연고로 가라앉힐 수 있지만, 아기가 불편해하지 않는다면 꼭 치료가 필요한 건 아니에요. 아기가 크면서 저절로 좋아지니까요. 다만 아기 귀에 지루성 피부염이 생기는 경우엔 염증으로 인해 진물이 생길 수 있어요. 아기가 귀를 자꾸 만지거나, 귀에서 진물이 날 때는 꼭 병원 진료를 받아봐야 해요. 간혹 피부염이 더 심해지는 경우엔 염증을 가라앉히기 위해 스테로이드 크림을 사용할 수 있어요.&lt;br&gt;&lt;br&gt;이 외에도 집에서 간단히 할 수 있는 지루성 피부염 완화 방법도 있답니다. 아기를 목욕시키기 한 시간 전에 베이비 오일이나 바셀린을 아기 두피에 발라주세요. 노란 딱지인 비늘이 부드럽게 풀리는 걸 볼 수 있답니다. 그 후 아기용 샴푸를 사용해 두피를 부드럽게 마사지하면서 비늘을 제거하면 돼요. 이때 손톱을 이용해서 제거하거나 억지로 떼는 건 안 돼요. 상처가 생기면 2차 세균 감염으로 이어질 수 있으니까요.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>민주당 ‘돈봉투 살포’ 유죄 확정... 돈받은 의원은 조사도 안 받았다</title>
