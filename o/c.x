@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>무면허로 또 음주운전…선고일엔 차 몰고 도주한 50대 ‘실형’</title>
+      <link>https://www.chosun.com/national/regional/2024/11/03/FRIVSKUN75E7ZGEQHWMVMCXYEM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/03/FRIVSKUN75E7ZGEQHWMVMCXYEM/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 Nov 2024 04:34:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무면허 상태로 또 음주운전을 한 것도 모자라 1심 선고 당일에도 차를 몰고 도주하다가 잡힌 50대에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;청주지법 형사2단독 안재훈 부장판사는 도로교통법상 음주운전·무면허 운전 등 혐의로 재판에 넘겨진 A씨에게 징역 2년을 선고했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 6월 29일 오후 8시 50분쯤 충북 청주시 오창읍에서 약 2㎞에 이르는 구간을 술에 취한 상태로 운전한 혐의를 받는다. A씨는 앞서 2021년 1월 음주 측정을 거부했다가 1000만원의 벌금형을 선고받고 면허가 취소된 상태였다. 그는 이번 1심 재판 선고 당일에는 사전 신고 없이 무단으로 재판에 불출석한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;안 부장판사는 “피고인은 2015년에도 음주운전을 해 벌금형을 받는 등 동종전과가 많은 데도 만취 상태에서 운전했고, 선고 당일에는 면허가 없는데도 차를 몰고 도주했다가 붙잡혔다”며 “피고인에게서 반성하는 모습을 찾아볼 수 없어 실형 선고가 불가피하다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“숙명여대가 아니라 숙면여대”…조회수 폭발한 ASMR 교수님</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/03/YQWDJOP7IVB5ZJCHNITWJY2TPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/03/YQWDJOP7IVB5ZJCHNITWJY2TPQ/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 Nov 2024 05:04:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E7UMKROTJFDFHFO4FRGICSGF6E.png"&gt;&lt;figcaption&gt;&lt;small&gt;눈송이 인형을 쓰다듬는 숙명여대 화공생명공학부 권우성 교수./유튜브 '숙명여자대학교'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“속삭이는 목소리를 들려드린다는 게 굉장히 부끄럽다. 그래도 졸지 말고 잘 집중해주면 좋겠다”&lt;br&gt;&lt;br&gt;지난 7월 16일 숙명여대 화공생명공학부 권우성 교수가 학교 마스코트 ‘눈송이’ 인형을 쓰다듬으며 초미세 나노소재 ‘양자점’을 설명하는 영상이 숙면용 콘텐츠로 화제가 되고 있다. 이 영상은 석 달 만에 조회수 35만 회를 기록했다. 같은 채널의 일반 교수·동문 인터뷰 영상(1000~5000회)과 비교하면 폭발적인 조회수다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “정확히 양자점 시작하실 때부터 잤다” “숙대는 아닌데 숙면여대생으로 인정해 주시나요. 잠은 잘 자요” “교수님 진짜 ASMR 너무 잘하심. 목소리 안정감 대박이다. 잠 안 올 때 듣는 재생 목록에 넣었다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;숙대 재학생 영상 제작팀 ‘숙튜디오’ 학생들은 지난해부터 ‘교수님 ASMR’ 영상을 제작해 업로드하고 있다. 창단 멤버 이지연(24)씨는 연합뉴스와의 인터뷰에서 “수능을 치른 뒤 불면증에 시달렸는데, 수업만 들으면 잠이 잘 온다는 것을 깨달았다”며 “잘될 거라는 확신이 있었다”고 설명했다. 노연주(20)씨는 “‘숙명여대가 아니라 숙면여대’, ‘교수님이 팅글에 재능이 있다’는 댓글이 기억에 남는다”고 말했다.&lt;br&gt;&lt;br&gt;영상이 인기를 얻자 권 교수는 두 번째 영상도 제작됐다. 지난 8월 31일 업로드된 ‘교수님의 ASMR ‘화공생명공학의 모든 것’- 팅글의정석’도 조회수 23만명이 눈앞에 있다. 권 교수는 영상에서 “여러분의 뜨거운 성원에 힘입어 팅클의 정석 2탄을 제작하게 됐다. 감사드린다”며 “저번 영상에 보니까 댓글에 ‘숙면여대생이다’이런 게 있던데 이번 영상은 정말 여러분에게 도움이 많이 되는 내용이다. 졸지 말고 꼭 잘 시청해 주시면 감사하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘운전 가능자 우대’ 뽑아놓고 운전 서툴다며 해고…法 “부당해고”</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/03/KURPXLASGRDH5MU7FT7BFQOP3I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/03/KURPXLASGRDH5MU7FT7BFQOP3I/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 Nov 2024 04:28:05 +0000</pubDate>
+      <content:encoded>채용 우대사항에 ‘운전 가능자’를 내걸고 직원을 뽑은 회사가 운전 미숙을 이유로 직원을 해고한 것은 부당하다는 법원 판단이 나왔다. 법원은 채용 우대사항은 말그대로 우대사항일 뿐, 근로계약의 조건에 해당하진 않는다고 봤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q5X65XLKAAWMZ6VQROK33VOWMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울행정법원·서울가정법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 법조계에 따르면 서울행정법원 행정13부(재판장 박정대)는 건설업체가 A사가 중앙노동위원회 위원장을 상대로 낸 ‘부당해고 구제 재심판정 취소소송’에서 원고의 청구를 기각했다.&lt;br&gt;&lt;br&gt;A사는 작년 2월 ‘운전 가능자’를 우대한다고 적은 무역사무원 채용공고를 게시했다. 이 채용공고를 본 이모씨는 A사에 지원했고, 면접을 거쳐 근무를 시작했다. 이씨는 초보운전이긴 했지만 운전면허증을 소지하고 있었다고 한다.&lt;br&gt;&lt;br&gt;그러나 두 달 쯤 뒤 A사는 “지방 거래처 방문 등 업무 수행에 필요한 운전 실력이 미숙하다”는 이유로 이씨에게 100만원을 주면서 근로계약 종료를 통보했다. 이씨는 이튿날 서울지방노동위원회(지노위)에 부당해고 구제를 신청했다. 지노위를 거쳐 중앙노동위원회는 이씨 측의 부당해고 구제 신청을 받아들였다.&lt;br&gt;&lt;br&gt;이에 불복한 A사는 중노위를 상대로 행정소송을 제기했다. A사는 “운전 능력은 근로계약 조건이었음에도 이씨는 운전을 하지 못했기 때문에 계약은 무효”라며 “회사는 이씨에게 3개월의 수습기간 안에 근로계약을 해지할 것을 제안했고 이씨가 이에 동의했으므로 계약은 합의해지됐다”고 주장했다.&lt;br&gt;&lt;br&gt;그러나 법원은 A사 측의 주장을 받아들이지 않았다. 재판부는 “채용공고에 운전가능자가 우대사항으로 기재돼 있기는 하나, 운전가능 여부는 우대사항에 불과할 뿐 근로계약의 조건이라고 인정할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;이어 “채용 자격요건을 ‘초대졸 이상, 경력무관’으로 기재하고 있을 뿐 운전능력에 관해선 기재하고 있지 않다”며 “만약 A사의 주장대로 이씨의 업무에 운전 숙련도가 요구됐다면 채용공고에 이를 명시하거나 채용 전에 검증을 거치는 것이 일반적이지만 그러한 사정도 없다”고 했다.&lt;br&gt;&lt;br&gt;또 재판부는 근로계약이 A사에 의해 일방적으로 종료됐다고 봤다. 재판부는 “이씨는 근로계약 해지 통보를 받고 즉각 회사에 항의하거나 이의 제기를 하진 않았지만, 바로 변호사를 통해 상담을 한 뒤 지노위에 부당해고 구제신청을 했다”며 “이씨는 회사의 통보를 ‘해고’로 받아들인 것으로 보이므로 근로계약 해지에 합의했다 할 수 없다”고 지적했다.&lt;br&gt;&lt;br&gt;아울러 A사가 이씨를 일방적으로 ‘해고’를 했음에도, 그 사유를 서면으로 통지하지 않았다는 점에서 ‘부당해고’에 해당한다고 결론내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수원서 떼지어 세 과시·동포 폭행…불법체류 캄보디아인들 징역형</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/03/V74IFXXNBVFPFHBR5LECLOULVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/03/V74IFXXNBVFPFHBR5LECLOULVM/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 Nov 2024 04:32:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VEOUSESX2ZE47FRNKGCLBEFZ4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 수원시 영통구에 위치한 수원법원종합청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 수원시 일대에서 같은 국적의 피해자를 집단으로 폭행하고, 세를 과시해 온 20~40대 캄보디아인들에 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;3일 법조계에 따르면 수원지법 형사5단독 공현진 판사는 특수상해, 출입국관리법위반 등의 혐의로 기소된 캄보디아 국적 A씨 등 6명에게 징역 3년6월~징역 5년을 각각 선고했다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 6월9일 오전 3시50분쯤 수원시 팔달구의 한 나이트클럽 앞에서 쇠 야구방망이로 40대 캄보디아인인 B씨를 집단 폭행한 혐의를 받는다. A씨 등은 B씨의 머리 등을 여러 차례 내리쳤고, B씨는 전치 5주의 척골 골절상과 타박상 등을 입었다.&lt;br&gt;&lt;br&gt;A씨는 6명으로 이뤄진 모임을 주도하며, 시비가 있으면 함께 싸우는 등 캄보디아인들 사이에서 세를 과시해왔던 것으로 파악됐다. 그는 또 당시 범행 과정에서 “B씨를 폭행하라”고 지시하고, 야구방망이를 직접 차에서 꺼내 나눠주기도 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;피고인 중 일부는 또 지난해 12월과 올해 1월 같은 장소에서 술을 마시다 시비가 붙은 20~30대 캄보디아인들 2명의 얼굴을 주먹으로 여러 차례 폭행한 혐의도 있다. 또 올해 1월 7일 오전 3시 30분쯤에도 ‘당구채가 자신에게 닿았다’는 이유로 20대 캄보디아인의 뒤통수를 맥주병으로 때려 귀에서 출혈이 발생하게 하는 등 상해를 가한 혐의도 받는다.&lt;br&gt;&lt;br&gt;피고인 중 A씨 등 4명은 국내 체류 기간이 만료됐음에도 최소 5년에서 최장 18년까지 각각 불법 체류자로 지낸 것으로 파악됐다.&lt;br&gt;&lt;br&gt;공 판사는 “피고인들은 단체로 다니며 국내 거주 캄보디아인들에게 세를 과시하고 폭력을 행사했다”며 “일부 피고인은 체류 기간이 만료됐음에도 국내에 거주하며 범행했다”고 판시했다.&lt;br&gt;&lt;br&gt;이어 “A피고인은 기분이 나쁘다는 이유로 쇠 야구방망이를 공범들에게 나눠주며 피해자에 대한 폭행을 지시했고, 나머지 피고인들은 이 지시에 따라 이유 없이 피해자를 무자비하게 폭행했다”며 “피해자는 심한 상해를 입었고 피해 변제가 없으며 피해자나 피해자의 가족들이 피고인들을 두려워하고 있다”고 양형 이유를 밝혔다．&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>오세훈, “이재명 선악으로 세상 나눠…홍위병·나치의 수법”</title>
       <link>https://www.chosun.com/national/regional/seoul/2024/11/03/F7VB5GVDDJBVFG4TINBKSZLBJE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/11/03/F7VB5GVDDJBVFG4TINBKSZLBJE/</guid>
@@ -855,15 +891,6 @@
       </media:content>
     </item>
     <item>
-      <title>“엄마는 위대한 일 했단다”… 두 아들 둔 30대, 6명 살리고 떠나</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/01/FH76RHYSKVFKZJ4GJFKNUNVT2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/01/FH76RHYSKVFKZJ4GJFKNUNVT2Q/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 01 Nov 2024 05:43:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R4EQ6IQPOREPPDCHOWTPC544S4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 5일 삼성서울병원에서 뇌사 장기기증으로 6명에게 심장, 폐, 간, 좌우 신장, 안구를 기증한 이근선씨. /한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;두 아이를 둔 30대 엄마가 뇌사 장기기증으로 6명에게 새 생명을 선물하고 세상을 떠났다.&lt;br&gt;&lt;br&gt;1일 한국장기조직기증원은 지난달 5일 이근선(38)씨가 삼성서울병원에서 뇌사 장기기증으로 6명에게 심장, 폐, 간, 좌우 신장, 안구를 기증했다고 밝혔다.&lt;br&gt;&lt;br&gt;이씨는 2014년 뇌하수체 종양 제거 수술을 받았으며 지난 4월 완치 판정을 받았다. 그러나 지난달 1일 집에서 쓰러진 이씨는 자녀에 의해 발견돼 응급실로 이송됐지만 뇌사 상태에 빠졌다.&lt;br&gt;&lt;br&gt;이씨는 9세, 10세 자녀를 두고 있다. 앞서 가족 모두는 2006년 뇌사상태 또는 사망 이후 장기·인체조직을 기증하겠다고 기증원에 등록해 생명 나눔을 약속한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이씨 유족들은 남은 아이들에게 ‘천사와 같은 엄마가 다른 생명을 살렸다’는 사실을 언론을 통해 알고 자랑스러워했으면 하는 마음에 언론보도를 결심했다고 한다.&lt;br&gt;&lt;br&gt;또 유족은 이씨의 딸이 병실에 누워 있는 이씨를 보며 “엄마가 하늘나라로 가면 어떻게 하냐”고 울며 묻자 “엄마는 천국으로 가지만 다른 사람의 생명을 살리는 위대한 일을 했다”고 답해줬다고 한다. 유족은 “마음 아픈 이별의 순간 착한 일을 하고 가는 이씨를 생각하니 위로가 됐다”고 말했다.&lt;br&gt;&lt;br&gt;이씨의 남편 김희수씨는 고인이 된 아내에게 “나의 하나 뿐인 근선, 너무 사랑하고 보고 싶다. 너와 함께했던 모든 시간이 너무 행복했고, 다시 너를 만나러 갈 때까지 기다려주고 그때까지 애들과 행복하게 잘 지내겠다”며 마지막 인사를 남겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>인천 강화에서 쌀 담긴 페트병 北에 보내려던 탈북민단체 적발</title>
       <link>https://www.chosun.com/national/incident/2024/11/01/FJG5PT5QXJGS3MXXMDWBKGJTLI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/01/FJG5PT5QXJGS3MXXMDWBKGJTLI/</guid>
@@ -871,33 +898,6 @@
       <description/>
       <pubDate>Fri, 01 Nov 2024 04:51:36 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OUCX7J2GSNBNNFFLLHKXV7ZREY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 강화군청 전경./강화군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;위험구역으로 설정돼 대북 전단 등을 보내는 행위가 금지된 인천 강화군에서 쌀이 담긴 페트병을 북쪽으로 보내려던 탈북민단체가 적발됐다.&lt;br&gt;&lt;br&gt;1일 인천 강화군과 강화경찰서 등에 따르면 이날 오전 10시 30분쯤 인천 강화군 석모도 항포 인근 해안에서 한 탈북민단체가 쌀이 담긴 페트병을 바다에 띄우려 한다는 제보가 경찰에 접수됐다.&lt;br&gt;&lt;br&gt;이 단체는 조류가 북쪽으로 향하는 때에 맞춰 쌀과 달러 지폐 등이 담긴 페트병 300개를 바다에 띄워 북쪽으로 보내려 한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰로부터 제보 내용을 전달받은 강화군은 현장을 찾아, 강화군 전역이 위험구역으로 설정돼 대북 전단 등을 보낼 경우 처벌될 수 있다는 내용을 탈북민단체 측에 알렸다.&lt;br&gt;&lt;br&gt;재난 및 안전관리 기본법은 위험구역으로 설정된 지역에서 금지 행위를 하다 적발될 경우, 1년 이하의 징역 또는 1000만 원 이하의 벌금에 처하도록 규정하고 있다.&lt;br&gt;&lt;br&gt;탈북민단체는 준비해 온 페트병을 바다에 띄우지 않고 오전 11시쯤 돌아갔다.&lt;br&gt;&lt;br&gt;강화군 관계자는 “페트병을 바다에 띄우지 않도록 설득했고, 탈북민단체는 30여분 만에 돌아갔다”며 “탈북민단체와의 충돌은 없었고, 페트병을 북쪽에 보내는 행위를 당분간 자제하겠다는 뜻도 나타냈다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>﻿국민연금 면제해줬더니 ‘호화 생활’…외제차 몰고 해외까지</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/01/KQRZT3PIHBE6DBKD6K6QN2JCIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/01/KQRZT3PIHBE6DBKD6K6QN2JCIE/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 01 Nov 2024 02:26:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LD62YLRAYKFXLHFLJNFL35OENQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 국민연금 지사에서 관계자가 근무하고 있다. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민연금 납부 의무가 면제된 가입자 중 일부가 수입차를 소유하거나 잦은 해외 출국을 하는 등 경제적 여력이 있음에도 보험료를 내지 않는 것으로 나타났다. 성실 납부자에게 상대적 상실감을 안겨줄 수 있는 만큼 지속적인 관리가 필요하다는 지적이 나온다.&lt;br&gt;&lt;br&gt;1일 국민연금공단이 국회 보건복지위원회 김선민 조국혁신당 의원실에 제출한 ‘납부예외자 현황’에 따르면 올해 6월 기준 국민연금 가입자 중 납부예외자는 286만8359명이었다.&lt;br&gt;&lt;br&gt;이들 납부예외자 가운데 지난해 4차례 이상 해외로 출국한 사람이 5만1488명에 달했다. 31회 이상 출국한 이들도 297명이나 됐다. 한 해 동안 113회나 출국한 이도 있었다.&lt;br&gt;&lt;br&gt;또 자동차를 보유해 자동차세를 91만원 이상 내는 납부예외자는 2785명이었다. 이 중 수입차를 1대 이상 보유한 사람은 1683명이었다. 10대 넘는 수입차를 보유한 사람도 3명이나 있었다.&lt;br&gt;&lt;br&gt;현행 국민연금법에 따르면 사업장 가입자나 지역가입자가 사업중단, 실직 또는 휴직, 질병, 군 복무, 학업 등으로 보험료를 납부할 능력이 안 될 경우 국민연금공단에 신청해 납부예외자로 인정받을 수 있다. 다만 납부예외자 중 자동차세를 일정 금액 이상 내거나 1년에 해외로 4회 이상 출국한 사람, 건강보험료를 고액 납부하는 사람 등은 경제적 능력이 있을 것으로 보고 소득 여부를 확인해서 보험료를 내게 설득하고 있다.&lt;br&gt;&lt;br&gt;국민연금 보험료는 재산이 아닌 근로소득 또는 사업소득에 부과하기 때문에 소득을 신고하지 않으면 아무리 재산이 많아도 보험료를 부과할 수 없다. 국민연금공단 관계자는 “이들은 소득자료가 없기에 보험료 의무 납부 대상은 아니지만, 납부 여력이 있을 것으로 추정돼 납부를 재개하도록 안내하고 있다”며 “하지만 과세소득 자료가 없어서 의무적으로 납부 재개해야 하는 것은 아니며 본인이 원하지 않으면 계속 납부예외가 가능하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내일 서해선·장항선·평택선 철도 노선 동시개통</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/11/01/P754D6FP4FAODAP5JUIZOTLIGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/11/01/P754D6FP4FAODAP5JUIZOTLIGU/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 01 Nov 2024 01:25:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NMIR6N32K4SRNZFF4775BN4I6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서해선 장항선 평택선 동시 개통 노선도. /국토교통부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국토교통부는 서해선(홍성∼서화성), 장항선(신창∼홍성), 포승∼평택선(안중∼평택) 3개 노선이 2일 동시 개통한다고 1일 밝혔다. 서해안 항만과 내륙을 잇는 화물 철도망의 기능이 확충되는 것이다.&lt;br&gt;&lt;br&gt;국토부에 따르면, 서해선은 홍성역에서 경기 화성시 서화성역까지 연장 90㎞의 복선 전철 신설 노선이다. 총사업비 4조1217억원이 투입됐다. 이 노선에는 ITX-마음 열차가 하루 왕복 8회 운행한다. 소요시간은 약 1시간이다.&lt;br&gt;&lt;br&gt;오는 2026년 3월 신안산선 서화성∼원시 구간이 개통되면, 홍성역에서 고양 대곡역 구간에는 시속 250㎞급 KTX-이음을 투입할 계획이다. 신안산선 개통 전까지는 서화성역에서 안산 초지역까지 열차 운행 시간과 연동해 무료 셔틀버스를 운행한다.&lt;br&gt;&lt;br&gt;국토부는 서해선 개통으로 충남과 수도권 서부 지역을 1시간대로 연결하는 철도 노선축이 새로 형성되면서 아산, 당진, 홍성, 평택, 화성, 안산 등 서해안 권역 발전을 견인할 것으로 전망했다.&lt;br&gt;&lt;br&gt;서해선에는 아산과 평택을 연결하는 길이 5.9㎞의 아산고가교가 설치됐다. 이 다리의 메인 구간인 ‘아산고가 아치교’는 연장 625ｍ, 높이 44ｍ인 국내 최장·최대 규모로, 서해안 권역의 새 랜드마크이자 관광명소가 될 것으로 국토부는 보고 있다.&lt;br&gt;&lt;br&gt;장항선은 천안에서 익산을 잇는 연장 154.4㎞의 노선으로, 1930년에 단선 비전철로 최초 건설됐던 구간이 단계적으로 복선 전철화되고 있다. 2008년 천안∼신창(아산) 구간에 이어 이번에 신창∼홍성 36.4㎞ 구간이 추가로 복선 전철로 바뀐 것이다. 기존의 무궁화호, 새마을호 열차에 더해 ITX-마음이 하루 2회 증편되면서 용산∼홍성 구간의 하루 운행 횟수는 총 30회로 늘어난다.&lt;br&gt;&lt;br&gt;오는 2027년 말 홍성∼대야(군산) 구간(82.3㎞)도 개통되면 장항선과 서해선이 하나의 복선 전철 노선으로 연결돼, 전북 익산부터 충남과 수도권으로 이어지는 서해안 철도 교통망이 완성된다.&lt;br&gt;&lt;br&gt;평택선은 2015년 1단계 구간인 숙성∼평택(13.4㎞)이 개통한 데 이어 이번에 2단계 안중∼숙성 9.4㎞ 구간이 새로 건설됐다. 이로써 비전철 구간이었던 1단계를 포함한 전체 구간(22.8㎞)을 전철화했다. 이 노선이 개통하면서 평택항과 배후 물류단지의 급등하는 물동량을 처리하며 경부선 등에 집중된 화물 물동량을 분산할 것으로 기대된다.&lt;br&gt;&lt;br&gt;국토부는 평택선, 서해선, 장항선 3개 노선을 연계해 홍성∼천안∼평택∼안중을 순환하는 ITX-마음 열차도 하루 6회 운영한다.&lt;br&gt;&lt;br&gt;국토부 측은 “서해안 권역 3개 사업을 시작으로 신안산선 복선전철, 장항선(홍성∼대야), 포승∼평택선 3단계(포승∼안중) 등이 차례로 개통되면 서해안 축 철도망이 완성돼 서해안 권역이 명실상부 대한민국 성장을 이끄는 거점으로 발돋움할 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>2040년 전국 12도시 에너지 10% 수소로 충당… 동해·삼척·포항 특화단지 지정</title>
-      <link>https://www.chosun.com/politics/goverment/2024/11/01/Z6FNAEVPJZD7JAQPI6YRZIQYYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2024/11/01/Z6FNAEVPJZD7JAQPI6YRZIQYYQ/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 01 Nov 2024 02:08:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OOIIXNQW2ZPQDO2I52TRXHGEFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 국무총리가 1일 서울 서초구 세빛섬에서 제7차 수소경제위원회를 주재하고 액체 수소 드론을 살펴보고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 수소 산업 육성을 위해 강원 동해·삼척과 경북 포항에 수소 산업 특화 단지를 지정한다. 또 세계 최대의 액화 수소 운반선을 건조하고, 2040년까지 울산·평택 등 12개 도시에서 쓰는 에너지의 10%를 수소로 충당한다.&lt;br&gt;&lt;br&gt;정부는 1일 오전 서울 한강 세빛섬에서 한덕수 국무총리 주재로 수소경제위원회를 열어, 이런 내용이 든 ‘수소 특화 단지 지정 및 지원 방안’ ‘액화 수소 운반선 초격차 선도 전략’ ‘수소 도시 2.0 추진 전략’ 등 3개 안건을 처리했다.&lt;br&gt;&lt;br&gt;한 총리는 회의를 주재하며 “수소는 지난해 12월 열린 유엔 기후변화협약 당사국총회(COP28)에서 최초로 재생에너지 외에 주요 탄소 감축 수단으로 인정된 무탄소 에너지원“이라고 소개했다. 이어 “2050년 세계 수소 시장 규모가 수조 달러(약 1400조원~1경3700조원)로 전망되는데, 반도체 시장이 6000억 달러(약 800조원) 수준인 점을 감안하면 산업적 가치도 매우 크다”고 했다. 그러면서 ” “수소의 생산·유통·활용 등 전반적인 산업 생태계를 구축하는 데 정책 역량을 집중하겠다”고 했다.&lt;br&gt;&lt;br&gt;이와 관련해 정부는 수소 산업을 집중적으로 육성할 특화 단지 2곳을 지정했다. 강원 동해·삼척은 액화 수소 저장·운송 분야 특화 단지로, 삼척에는 액화천연가스(LNG) 인수 기지 인근 부지를 활용해 수소 액화 플랜트가 구축된다. 동해에는 관련 분야 수소 산업 기업 입주 공간이 마련된다. 경북 포항은 발전용 수소 연료 전지 분야 특화 단지가 되고, 연료 전지 관련 기업 입주 공간이 마련된다. 정부는 두 단지에 입주하는 기업들에 수소 공급 기업과 수요 기업 간 공동 연구·개발(R&amp;amp;D) 지원, 수소 기술 실증·보급 시범 사업, 지역 대학과 연계한 인력 양성 프로그램 등을 지원하기로 했다. 또 앞으로 필요한 경우 다른 지역도 발굴해 특화 단지로 추가 지정하기로 했다.&lt;br&gt;&lt;br&gt;정부는 앞으로 국제적으로 수소 운송 수요가 커질 것으로 보고, 액화 수소 운반선 건조 분야에서도 LNG 운반선 건조 분야와 같이 세계 최고 기술을 얻기 위해 노력하기로 했다. 액화 수소 운반선 기술을 실증하기 위해, 국내 조선 3사가 공동으로 한 번에 액화 수소 2000㎥를 운송할 수 있는 액화 수소 운반선을 건조하기로 했다. 이는 일본이 2022년 세계 최초로 건조한 1250㎥급 운반선보다 큰 것이다. 이를 시발점으로 국내 조선사들이 2030년 초까지 4만㎥급, 2040년까지 16만㎥급 운반선을 건조할 기술을 확보한다는 계획이다.&lt;br&gt;&lt;br&gt;정부는 또 경기 평택·남양주·양주, 충남 당진·보령·서산, 전북 부안, 광주 동구, 전남 광양, 울산, 경북 포항·울진 등 12곳을 ‘수소 도시’로 지정해, 2040년까지 이 도시들의 에너지 수요의 10%를 수소 에너지로 충당하기로 했다. 이를 뒷받침하기 위해, 2040년까지 전체 수소 생산의 절반 이상을 수소 생산 과정에서 탄소 발생을 60% 이상 절감한 ‘블루 수소’ 또는 탄소 발생이 없는 ‘그린 수소’로 마련하고, 총연장 280km의 수소 배관을 깔기로 했다. 수소 도시 곳곳에 수소 연료 전지를 설치하고, 수소 연료를 사용하는 트램 등의 수소 교통 인프라를 마련하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>인천 서구 검암·경서동 토지거래허가구역 615만㎡…6년만에 해제</title>
