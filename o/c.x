@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>오세훈, “이재명 선악으로 세상 나눠…홍위병·나치의 수법”</title>
+      <link>https://www.chosun.com/national/regional/seoul/2024/11/03/F7VB5GVDDJBVFG4TINBKSZLBJE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/11/03/F7VB5GVDDJBVFG4TINBKSZLBJE/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 Nov 2024 02:25:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6PZWECBRQFNQFDAUGMX5OCMFKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 지난달 31일 오전 서울 중구 서울시청에서 ‘2025년 서울시 예산안 기자설명회’를 열고 발언하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 이재명 민주당 대표를 겨냥해 “선과 악으로 세상을 보는 사람은 지도자의 자격이 없다”며 “홍위병·나치의 수법”이라고 말했다.&lt;br&gt;&lt;br&gt;오 시장은 3일 오전 페이스북을 통해 이같이 말했다.&lt;br&gt;&lt;br&gt;앞서 이 대표는 2일 열린 김건희 여사 규탄 장외 집회에 앞서 “악이 승리하는 유일한 조건은 선한 사람들이 아무것도 하지 않는 것”, “무너진 희망을 다시 세울 힘도, 새로운 길을 열어젖힐 힘도 행동하는 주권자에 있다”고 말하며 당원들에 집회 참석을 촉구했다.&lt;br&gt;&lt;br&gt;이에 대해 오 시장은 “자신은 선, 상대는 악. 자신은 빛, 상대는 어둠”이라는 의미라며 “하지만 세상은 흑백이 아닌 수십억 개의 다양한 색으로 이루어져 있다. 흑백의 필터로 세상을 보면 세상은 크게 왜곡될 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;또 오 시장은 “과거 선과 악을 나누고 여론재판으로 역사를 후퇴시킨 것은 홍위병들이 했던 일이고 단결을 위해 ‘공동의 적’을 찾았던 것은 나치의 수법이었다”고도 했다.&lt;br&gt;&lt;br&gt;이어 오 시장은 “선과 악으로 세상을 보는 사람은 국가를 올바른 방향으로 이끌 수 없다”며 “표주박으로 바다를 측량할 수 없는 것(以蠡測海)과 같은 이치”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>11억 ‘전세사기’ 60대 공범에 징역 2년 선고</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/11/03/VOUVBPLVMBERVKVPC6NG53G53A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/11/03/VOUVBPLVMBERVKVPC6NG53G53A/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 Nov 2024 02:25:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QZJ55AZDUJGV3K6KO6YUOREPFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법 등 법원 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산지법 형사11단독 정순열 부장판사는 전세 사기 혐의로 재판에 넘겨진 60대 A씨에 대해 징역 2년을 선고했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 총책 B씨 등과 허위로 작성한 아파트 임대차 계약서로 은행으로부터 대출받은 전세자금을 가로채기로 공모한 뒤 부산 시내 아파트 7곳을 대상으로 총 11억3500만원의 전세자금을 대출받은 혐의를 받고 있다. A씨는 이 과정에 B씨 지시로 임대차 계약에 명의를 빌려줄 허위 임차인이나 임대인을 모집하는 역할을 했다.&lt;br&gt;&lt;br&gt;재판부는 “조직적으로 이뤄진 대출사기 범행으로 죄책이 무겁고 전세자금 대출을 이용하려는 선량한 시민까지 피해를 줄 수 있는 사회적 해악이 큰 범죄를 저질렀다”며 “다만 범행 가담 정도가 중하지 않고 범죄수익이 크지 않은 점 등을 고려했다”고 양형 선고 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한밤중 음식점 불 지른 남성...알고 보니 종업원</title>
+      <link>https://www.chosun.com/national/incident/2024/11/03/PTRIQYWXU5HFNADOPSB3TMUO7U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/03/PTRIQYWXU5HFNADOPSB3TMUO7U/</guid>
+      <dc:creator>인천=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 Nov 2024 02:17:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EFIZHO67GBCNFISMEEWHYVZVIA.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 일하는 음식점에 불을 지른 50대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;인천 미추홀경찰서는 3일 현주건조물방화 혐의로 음식점 종업원인 50대 남성 A씨를 현행범 체포했다. &lt;br&gt;&lt;br&gt;A씨는 이날 오전 0시 9분쯤 인천 미추홀구의 한 상가 1층 음식점에서 옷가지에 라이터로 불을 붙여 방화한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;주민 신고를 받고 출동한 소방 당국은 56명의 인력을 투입해 35분 만에 불을 껐다. 다행히 인명피해는 없었다.&lt;br&gt;&lt;br&gt;A씨는 범행 직후 음식점 주변을 서성이다가 화재 현장 주변을 탐문하던 경찰관에게 검거됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 구체적인 범행 동기와 경위를 조사해 구속영장을 신청할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, ‘김건희 여사 공천 개입 의혹’ 핵심 김영선 전 의원 소환</title>
+      <link>https://www.chosun.com/national/2024/11/03/2QCDHAQMWRHHPIAAD2RMDJGIGY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/11/03/2QCDHAQMWRHHPIAAD2RMDJGIGY/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 Nov 2024 00:43:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HKV3WTGNWZLHPLBPSUZYULWOSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영선 전 국민의힘 의원이 3일 오전 경남 창원시 성산구 창원지방검찰청에 출석해 입장을 밝히고 있다.  /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘김건희 여사 공천 개입 의혹’ 핵심 당사자 중 한명인 김영선 전 국민의힘 의원이 3일 검찰에 출석했다. 김 전 의원에 대한 검찰 조사는 이번이 두 번째인데, 김 전 의원을 피의자 신분으로 전환한 후에는 첫 소환 조사다.&lt;br&gt;&lt;br&gt;정치자금법 위반 혐의를 받는 김 전 의원은 이날 오전 9시30분쯤 경남 창원시 성산구 창원지검에 출석했다. 김 전 의원은 취재진 앞에서 “대선 여론조사가 얼마가 됐고, 이거는 제가 최근에 기사를 보고 알았다”며 “제게는 아무 자료가 없다. 대선 때 무슨 공천, 나는 (대가성 공천과) 상관이 없다”고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G7IFKO4SL5H4PMINP2Q5MF45JI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오전 창원지검에 출석하는 김영선 전 국민의힘 의원. /창원=김준호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘2022년 6월 국회의원 보궐선거 국민의힘 공천 당시 명씨가 어떤 역할을 했는지’에 대한 취재진 질문에 김 전 의원은 “명씨가 말씀을 잘하시니 나름대로 저를 도왔다고 해 일부 정도만 알고 있다”며 “공천 관련해 윤석열 대통령이나 김 여사와 연락한 적은 없다”고 주장했다.&lt;br&gt;&lt;br&gt;또 ‘명씨가 김 여사와 통화하며 자신 공천에 개입했는지 알았느냐’는 질문에는 “명씨가 김 여사가 자신 얘기를 잘 받아준다는 정도는 들은 적 있지만, 공천과 관련해서는 직접적으로 들은 적 없다”고 했다.&lt;br&gt;&lt;br&gt;앞서 김 전 의원의 회계책임자였던 강혜경씨는 지난달 21일 국회 법제사법위원회가 대검찰청을 상대로 한 국정감사에 증인으로 출석해 창원지역 정치 브로커인 명태균씨가 지난 대선 때 여론조사 등을 통해 윤석열 대통령을 도왔고, 윤 대통령 측으로부터 여론조사 비용을 받는 대신에 김 전 의원이 공천받는 것을 도왔다는 의혹을 제기했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DNMUPC6FNNJKJNSOHTN22F2BJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 21일 김건희 여사의 '공천개입 의혹'을 제기한 강혜경씨가 국회에서 열린 법제사법위원회의 대검찰청 대상 국정감사에서 더불어민주당 서영교 의원의 질의를 받고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강씨는 “김 여사가 돈을 챙겨주려고 한다고 해서 명씨에게 (여론조사 비용) 견적서를 보냈는데, (서울로 갔던 명씨는) 돈은 안 받아왔고, 김영선 전 국민의힘 의원의 공천을 받아왔다”고 주장했다. 이에 대해 김 전 의원이 자신의 공천과는 상관없다고 부인한 것이다.&lt;br&gt;&lt;br&gt;창원지검 형사4부(부장검사 김호경)는 김 전 의원이 2022년 6월 재·보궐 선거에서 창원 의창 지역구 당선 직후인 그해 8월부터 김 여사 의혹의 핵심 인물인 명태균씨에게 여러 차례에 걸쳐 9000여만원을 건넨 경위와 대가성 여부 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;경남선거관리위원회는 작년 12월 김 전 의원의 회계책임자였던 강혜경씨에 대해 영수증 등 증빙 서류를 제출하지 않은 혐의(정치자금법 위반)로 검찰에 고발하고, 김 전 의원과 명씨 등 5명을 수사 의뢰했다. 이후 명씨와 김 전 의원 모두 피의자 신분으로 전환됐다. 명씨는 김 전 의원에게 과거 빌려줬던 돈을 돌려받았다고 주장하는 상황이다.&lt;br&gt;&lt;br&gt;검찰은 이 돈이 명씨가 윤석열 대통령 부부와의 친분을 바탕으로 김 전 의원의 공천에 도움을 준 대가로 받은 것인지 살펴보고 있다.&lt;br&gt;&lt;br&gt;검찰은 김 전 의원에 대한 조사를 마치는대로 이르면 이번주 명씨도 불러 조사할 것으로 전망된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘불법 도박’ 이진호, 돈 빌려준 이수근과 투샷..방송 흔적 보니</title>
       <link>https://www.chosun.com/national/people/2024/11/03/L7FXL2DQUNANRDG4ZKJLHPIRZQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/03/L7FXL2DQUNANRDG4ZKJLHPIRZQ/</guid>
@@ -828,24 +864,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R4EQ6IQPOREPPDCHOWTPC544S4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 5일 삼성서울병원에서 뇌사 장기기증으로 6명에게 심장, 폐, 간, 좌우 신장, 안구를 기증한 이근선씨. /한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;두 아이를 둔 30대 엄마가 뇌사 장기기증으로 6명에게 새 생명을 선물하고 세상을 떠났다.&lt;br&gt;&lt;br&gt;1일 한국장기조직기증원은 지난달 5일 이근선(38)씨가 삼성서울병원에서 뇌사 장기기증으로 6명에게 심장, 폐, 간, 좌우 신장, 안구를 기증했다고 밝혔다.&lt;br&gt;&lt;br&gt;이씨는 2014년 뇌하수체 종양 제거 수술을 받았으며 지난 4월 완치 판정을 받았다. 그러나 지난달 1일 집에서 쓰러진 이씨는 자녀에 의해 발견돼 응급실로 이송됐지만 뇌사 상태에 빠졌다.&lt;br&gt;&lt;br&gt;이씨는 9세, 10세 자녀를 두고 있다. 앞서 가족 모두는 2006년 뇌사상태 또는 사망 이후 장기·인체조직을 기증하겠다고 기증원에 등록해 생명 나눔을 약속한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이씨 유족들은 남은 아이들에게 ‘천사와 같은 엄마가 다른 생명을 살렸다’는 사실을 언론을 통해 알고 자랑스러워했으면 하는 마음에 언론보도를 결심했다고 한다.&lt;br&gt;&lt;br&gt;또 유족은 이씨의 딸이 병실에 누워 있는 이씨를 보며 “엄마가 하늘나라로 가면 어떻게 하냐”고 울며 묻자 “엄마는 천국으로 가지만 다른 사람의 생명을 살리는 위대한 일을 했다”고 답해줬다고 한다. 유족은 “마음 아픈 이별의 순간 착한 일을 하고 가는 이씨를 생각하니 위로가 됐다”고 말했다.&lt;br&gt;&lt;br&gt;이씨의 남편 김희수씨는 고인이 된 아내에게 “나의 하나 뿐인 근선, 너무 사랑하고 보고 싶다. 너와 함께했던 모든 시간이 너무 행복했고, 다시 너를 만나러 갈 때까지 기다려주고 그때까지 애들과 행복하게 잘 지내겠다”며 마지막 인사를 남겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경북도민 10명 중 6명 이상  “부모, 노후 스스로 책임져야”</title>
-      <link>https://www.chosun.com/national/regional/2024/11/01/BQ6SDMMRHBE6TIZPC3MSMPH7BE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/01/BQ6SDMMRHBE6TIZPC3MSMPH7BE/</guid>
-      <dc:creator>안동=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 01 Nov 2024 05:43:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RQRCN224R6DI5M3AICXFCGWFXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북도청 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북도민 10명 가운데 6명 이상은 부모 부양 책임이 부모 스스로에게 있다고 생각하는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이는 경북도가 지난 8월 24일부터 9월 8일까지 도내 1만9692 표본 가구에 상주하는 만 15세 이상 가구원을 대상으로 실시한 ‘2023년 경북도 사회지표’ 조사 결과다. 경북도는 매년 주관적 만족, 가구와 가족, 주거와 교통, 교육, 소득과 소비 등 11개 부문에 대한 도민 인식을 조사해 발표하고 있다.&lt;br&gt;&lt;br&gt;이 조사결과에 따르면, 부모 부양 책임자에 대한 질문에 응답자의 65.4%는 “부모님 스스로”라고 답했다. 이는 전년보다 4.3% 포인트, 2년전보다는 7.7%포인트 증가한 것이다. 그 다음은 모든 자녀(12.2%), 가족·정부·사회단체(6.7%), 아들 또는 며느리(5.0%) 등의 순이었다.&lt;br&gt;&lt;br&gt;또 연령이 낮을 수록 부모 부양책임을 ‘부모님 스스로’라고 답한 비율은 높게 나타났다. 29세 이하는 94.3%, 30∼39세는 88.2%, 40∼49세는 72.6%로 집계됐다. 반면 70세 이상에서는 ‘모든 자녀’라는 응답이 26.2%, ‘장남 또는 며느리’가 17.9%로 절반 가량을 차지했고, ‘부모님 스스로’는 17.6%에 그쳤다.&lt;br&gt;&lt;br&gt;한편 경북도민의 삶에 대한 만족도는 6.09점으로 2022년(5.91점)보다 상승했다. 하지만, 일자리에 대한 질문에는 46.6%가 ‘충분하지 않다’고 답했다. ‘충분하다’는 응답(18.8%)보다 3배 가량 높았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>70대 운전자, 중앙선 넘어 식당으로 돌진...4명 경상</title>
-      <link>https://www.chosun.com/national/incident/2024/11/01/AMDSTBQ24BCX7O6DKDEAF3HM6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/01/AMDSTBQ24BCX7O6DKDEAF3HM6M/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 01 Nov 2024 04:07:03 +0000</pubDate>
-      <content:encoded>서울 송파구에서 70대 운전자가 몰던 차량이 중앙선을 넘어 식당으로 돌진해 오토바이에 타고 있던 우체국 집배원과 보행자 등 3명이 다쳤다. 서울 송파경찰서는 70대 여성 A씨를 교통사고처리특례법 위반 혐의로 입건해 조사하고 있다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DFFUB77XMGEZBBZOVQMFAO32TE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 송파경찰서. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰에 따르면 이날 오전 8시 53분쯤 A씨가 몰던 렉서스 차량이 중앙선을 침범해 반대편 인도 쪽으로 돌진하는 사고가 발생했다. 이 사고로 40대 우체국 집배원과 70대 행인 2명이 경상을 입었고, A씨도 경상을 입고 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;또 식당 유리창이 깨지고 내부 냉장고까지 파손되는 등 재산 피해가 발생했다. 영업 시작 이전이어서 추가 인명피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;A씨는 음주나 마약을 한 상태는 아니었던 것으로 파악됐다. A씨는 급발진을 주장하지는 않은 것으로 알려졌다. 경찰은 A씨를 상대로 정확한 사고 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>인천 강화에서 쌀 담긴 페트병 北에 보내려던 탈북민단체 적발</title>
       <link>https://www.chosun.com/national/incident/2024/11/01/FJG5PT5QXJGS3MXXMDWBKGJTLI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/01/FJG5PT5QXJGS3MXXMDWBKGJTLI/</guid>
@@ -853,15 +871,6 @@
       <description/>
       <pubDate>Fri, 01 Nov 2024 04:51:36 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OUCX7J2GSNBNNFFLLHKXV7ZREY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 강화군청 전경./강화군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;위험구역으로 설정돼 대북 전단 등을 보내는 행위가 금지된 인천 강화군에서 쌀이 담긴 페트병을 북쪽으로 보내려던 탈북민단체가 적발됐다.&lt;br&gt;&lt;br&gt;1일 인천 강화군과 강화경찰서 등에 따르면 이날 오전 10시 30분쯤 인천 강화군 석모도 항포 인근 해안에서 한 탈북민단체가 쌀이 담긴 페트병을 바다에 띄우려 한다는 제보가 경찰에 접수됐다.&lt;br&gt;&lt;br&gt;이 단체는 조류가 북쪽으로 향하는 때에 맞춰 쌀과 달러 지폐 등이 담긴 페트병 300개를 바다에 띄워 북쪽으로 보내려 한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰로부터 제보 내용을 전달받은 강화군은 현장을 찾아, 강화군 전역이 위험구역으로 설정돼 대북 전단 등을 보낼 경우 처벌될 수 있다는 내용을 탈북민단체 측에 알렸다.&lt;br&gt;&lt;br&gt;재난 및 안전관리 기본법은 위험구역으로 설정된 지역에서 금지 행위를 하다 적발될 경우, 1년 이하의 징역 또는 1000만 원 이하의 벌금에 처하도록 규정하고 있다.&lt;br&gt;&lt;br&gt;탈북민단체는 준비해 온 페트병을 바다에 띄우지 않고 오전 11시쯤 돌아갔다.&lt;br&gt;&lt;br&gt;강화군 관계자는 “페트병을 바다에 띄우지 않도록 설득했고, 탈북민단체는 30여분 만에 돌아갔다”며 “탈북민단체와의 충돌은 없었고, 페트병을 북쪽에 보내는 행위를 당분간 자제하겠다는 뜻도 나타냈다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>’다자 연애’ 대학생 실명∙얼굴 공개한 목사, 벌금형 확정</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/01/GFMQ4VRIUVCZVEFU4GGAAUOBQE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/01/GFMQ4VRIUVCZVEFU4GGAAUOBQE/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 01 Nov 2024 03:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBR3WQSNXYDIR43J5WW5EB4IXM.png"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법 포항지원은 지난 2020년 1월 30일 성소수자∙다자 연애 관련 강연을 개최했다는 이유로 한동대에서 무기정학을 받은 A씨가 낸 무기정학 처분 무효 확인 소송에서 원고 승소 판결을 내렸다. 이날 선고 이후 '한동대 학생 부당징계 공동대책위원회'가 법원 앞에서 판결을 환영하는 기자회견을 하고 있는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘폴리아모리(비독점적 다자 간 연애)’를 하는 대학생의 실명∙얼굴을 온라인 블로그에 공개하며 비판한 목사가 명예훼손으로 기소돼 대법원에서 유죄가 확정됐다.&lt;br&gt;&lt;br&gt;1일 법조계에 따르면, 대법원 3부(주심 엄상필 대법관)는 정보통신망법 명예훼손 혐의로 기소된 서요한 목사에게 벌금 50만원을 선고한 원심을 지난달 8일 확정했다.&lt;br&gt;&lt;br&gt;이 사건에서 문제 된 ‘다자 간 연애’는 연애 대상을 한 명으로 제한하지 않고, 동시에 여러 사람과 사랑을 할 수 있다는 견해 혹은 정체성을 의미한다. 남성 A씨는 2017~2018년 개신교계 대학인 한동대에 재학하며 폴리아모리 관련 활동가 여성 B씨, 다른 남성과 함께 다자 연애 관계를 맺고 있었다.&lt;br&gt;&lt;br&gt;그러다 A씨가 2017년 12월, 2018년 2월 한동대에서 두 차례 성소수자∙다자 연애 관련 강연을 개최하자, 대학 측은 A씨에게 무기징학 처분을 내렸다. 개신교 이념과 반대되는 강연을 진행하고 다자 연애를 한다는 등의 이유였다. 이후 A씨가 불복해 낸 소송에서 법원은 “징계는 무효”라며 원고 승소 판결을 했다.&lt;br&gt;&lt;br&gt;당시 교계를 중심으로 다자 연애 논란이 불거지자, 서 목사는 2018년 1월 자신이 이끄는 기독교 단체 블로그에 ‘폴리아모리 생활하는 B씨의 글을 읽어보니’라는 글을 올렸다. 서 목사는 A씨와 B씨의 실명, A씨가 등장한 언론 인터뷰 영상 등을 인용하면서 “A씨는 자신을 ‘성적으로 문란한 자’라고 비난하는 주변 사람들과 학교를 향한 원망만을 늘어놓는다” “소수의 행동이라고 보호받는 건 아니다” “자신의 행동이 왜 소문이 나는지 생각해 봐야 할 것”이라며 비판했다.&lt;br&gt;&lt;br&gt;검찰은 “서 목사는 A씨를 비방할 목적으로 폴리아모리의 삶을 산다는 사실을 드러내 명예를 훼손했다”며 기소했다. 서 목사는 A씨가 다자 연애를 한다는 것을 공공연하게 드러내 명예훼손의 위험을 자초했다고 주장했다.&lt;br&gt;&lt;br&gt;1심은 서 목사에게 무죄 판결을 내렸다. 1심은 “이 사건 게시글은 A씨가 폴리아모리의 삶을 살고 있다는 것을 폭로하기 위해서가 아니라 자신의 의견을 개진하기 위해 작성된 것으로 보인다”며 “A씨 스스로 폴리아모리 삶을 살고 있다고 적극 밝혀 논란에 원인을 제공한 측면이 있다”고 판단했다.&lt;br&gt;&lt;br&gt;그러나 2심은 이를 뒤집고 명예훼손 혐의를 인정했다. 2심 재판부는 “서 목사의 글이 의견 표명에 불과하다거나 공익을 위한 것이라고 보이지 않는다”며 “피해자를 비방하려는 목적이 인정된다”고 밝혔다. 당시 피해자인 A씨가 다자 연애를 한다는 사실이 널리 알려지지 않았고, 이를 알리고 싶어 하지도 않던 상황에서 서 목사가 강제로 성적 지향을 공개했다는 것이다.&lt;br&gt;&lt;br&gt;대법원도 원심 판단이 맞는다고 봤다. 대법원은 “널리 알려진 공적 인물로 볼 수 없는 A씨의 내밀한 사적 영역에 속하는 (다자 연애) 사실을 실명, 얼굴 사진 등과 함께 공개했다”며 “이는 피해자의 인격권을 중대하게 침해하는 것”이라고 지적했다. 그러면서 “서 목사는 공익에 관한 것으로 보기 어려운 A씨의 성적 지향을 드러내 비방할 목적으로 글을 작성∙게시했다고 인정할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>﻿국민연금 면제해줬더니 ‘호화 생활’…외제차 몰고 해외까지</title>
@@ -889,15 +898,6 @@
       <description/>
       <pubDate>Fri, 01 Nov 2024 02:08:06 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OOIIXNQW2ZPQDO2I52TRXHGEFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 국무총리가 1일 서울 서초구 세빛섬에서 제7차 수소경제위원회를 주재하고 액체 수소 드론을 살펴보고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 수소 산업 육성을 위해 강원 동해·삼척과 경북 포항에 수소 산업 특화 단지를 지정한다. 또 세계 최대의 액화 수소 운반선을 건조하고, 2040년까지 울산·평택 등 12개 도시에서 쓰는 에너지의 10%를 수소로 충당한다.&lt;br&gt;&lt;br&gt;정부는 1일 오전 서울 한강 세빛섬에서 한덕수 국무총리 주재로 수소경제위원회를 열어, 이런 내용이 든 ‘수소 특화 단지 지정 및 지원 방안’ ‘액화 수소 운반선 초격차 선도 전략’ ‘수소 도시 2.0 추진 전략’ 등 3개 안건을 처리했다.&lt;br&gt;&lt;br&gt;한 총리는 회의를 주재하며 “수소는 지난해 12월 열린 유엔 기후변화협약 당사국총회(COP28)에서 최초로 재생에너지 외에 주요 탄소 감축 수단으로 인정된 무탄소 에너지원“이라고 소개했다. 이어 “2050년 세계 수소 시장 규모가 수조 달러(약 1400조원~1경3700조원)로 전망되는데, 반도체 시장이 6000억 달러(약 800조원) 수준인 점을 감안하면 산업적 가치도 매우 크다”고 했다. 그러면서 ” “수소의 생산·유통·활용 등 전반적인 산업 생태계를 구축하는 데 정책 역량을 집중하겠다”고 했다.&lt;br&gt;&lt;br&gt;이와 관련해 정부는 수소 산업을 집중적으로 육성할 특화 단지 2곳을 지정했다. 강원 동해·삼척은 액화 수소 저장·운송 분야 특화 단지로, 삼척에는 액화천연가스(LNG) 인수 기지 인근 부지를 활용해 수소 액화 플랜트가 구축된다. 동해에는 관련 분야 수소 산업 기업 입주 공간이 마련된다. 경북 포항은 발전용 수소 연료 전지 분야 특화 단지가 되고, 연료 전지 관련 기업 입주 공간이 마련된다. 정부는 두 단지에 입주하는 기업들에 수소 공급 기업과 수요 기업 간 공동 연구·개발(R&amp;amp;D) 지원, 수소 기술 실증·보급 시범 사업, 지역 대학과 연계한 인력 양성 프로그램 등을 지원하기로 했다. 또 앞으로 필요한 경우 다른 지역도 발굴해 특화 단지로 추가 지정하기로 했다.&lt;br&gt;&lt;br&gt;정부는 앞으로 국제적으로 수소 운송 수요가 커질 것으로 보고, 액화 수소 운반선 건조 분야에서도 LNG 운반선 건조 분야와 같이 세계 최고 기술을 얻기 위해 노력하기로 했다. 액화 수소 운반선 기술을 실증하기 위해, 국내 조선 3사가 공동으로 한 번에 액화 수소 2000㎥를 운송할 수 있는 액화 수소 운반선을 건조하기로 했다. 이는 일본이 2022년 세계 최초로 건조한 1250㎥급 운반선보다 큰 것이다. 이를 시발점으로 국내 조선사들이 2030년 초까지 4만㎥급, 2040년까지 16만㎥급 운반선을 건조할 기술을 확보한다는 계획이다.&lt;br&gt;&lt;br&gt;정부는 또 경기 평택·남양주·양주, 충남 당진·보령·서산, 전북 부안, 광주 동구, 전남 광양, 울산, 경북 포항·울진 등 12곳을 ‘수소 도시’로 지정해, 2040년까지 이 도시들의 에너지 수요의 10%를 수소 에너지로 충당하기로 했다. 이를 뒷받침하기 위해, 2040년까지 전체 수소 생산의 절반 이상을 수소 생산 과정에서 탄소 발생을 60% 이상 절감한 ‘블루 수소’ 또는 탄소 발생이 없는 ‘그린 수소’로 마련하고, 총연장 280km의 수소 배관을 깔기로 했다. 수소 도시 곳곳에 수소 연료 전지를 설치하고, 수소 연료를 사용하는 트램 등의 수소 교통 인프라를 마련하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>”안전 시설 미흡”…제주 골프장 카트 이용객 사망, 골프장 책임자 검찰 송치</title>
-      <link>https://www.chosun.com/national/regional/2024/11/01/P2NNEJYTF5G2RPUSDLSRAS2QLQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/01/P2NNEJYTF5G2RPUSDLSRAS2QLQ/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 01 Nov 2024 01:53:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DSLRJRF7VND2BBDBYBEFUQYMJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주지역에서 발생한 ‘골프장 카트 사망 사고’와 관련해 골프장 책임자가 업무상 과실치사상 혐의로 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;1일 제주경찰청에 따르면 지난 5월 대기업이 운영하는 서귀포시 남원읍 소재 H골프장에서 발생한 골프카트 운전자 인공연못(해저드) 익사 사고와 관련해 골프장 총 지배인을 업무상 과실치사상 혐의로 검찰에 송치했다.&lt;br&gt;&lt;br&gt;경찰은 인공 연못에 카트 등이 빠지지 않도록 안전펜스와 안전벽을 설치하지 않았고 연못 수심을 얕게 하지 않는 등 안전시설이 미흡했다고 판단했다. 경찰은 중대시민재해에 해당하는지에 대해서도 관련 법률을 검토했지만, 공중이용시설이 아니라고 보고 이를 적용하지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;‘골프장 카트사망 사고’는 지난 5월 14일 오후 4시 51분쯤 서귀포시 남원읍 한 골프장에서 발생했다. 당시 골프 이용객인 50대 A씨가 직접 몰던 카트가 경사로에서 후진하다 코스 안에 있던 인공 연못에 빠졌다. 사고 당시 카트에는 A씨와 아내 B씨 등 2명이 타고 있었다. 사고 직후 주변에서 골프를 치던 다른 이용객에 의해 구조된 A씨는 심정지 상태로 닥터헬기로 병원으로 이송됐지만 이튿날 숨졌다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 사고가 난 연못은 비가 올 때 하류로 물이 쓸려가는 것을 방지하기 위해 만든 빗물저장시설로 폭이 넓은 데다 깊이도 3∼5ｍ에 달하는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;특히 이 빗물저장시설은 물이 빠지지 않도록 바닥에 시멘트를 바르고, 비닐 재질 방수포를 깔아 매우 미끄러운데도 주변에 안전시설은 없었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이 골프장에서는 지난 2006년 11월에도 골프를 치던 50대 남성이 수심 3ｍ 연못에 빠져 목숨을 잃는 사고가 발생했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>인천 서구 검암·경서동 토지거래허가구역 615만㎡…6년만에 해제</title>
