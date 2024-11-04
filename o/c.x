@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>벌써 겨울...내일 아침 10도 이상 뚝, 모레는 영하권</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/11/04/UGHTAVLTXJFXFE7YUV26SHKRYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/11/04/UGHTAVLTXJFXFE7YUV26SHKRYY/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>5일 전국 대부분 지역의 아침 기온이 10도 이하에 머물며 쌀쌀한 날씨를 보이겠다. 북서쪽에서 찬 공기가 내려온 까닭인데 경기 북동부와 강원 내륙·산지에는 얼음이 어는 곳도 있을 것으로 전망된다.</description>
+      <pubDate>Mon, 04 Nov 2024 09:06:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6NZC25HUM5JZ5BB45ZAGY33IKM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 서울 중구 명동거리의 한 상점에 겨울옷이 진열돼 있는 모습/뉴스1
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 서울의 아침 최저기온이 영상 5도를 보이는 등 전국 대부분 지역의 아침 기온이 10도 이하에 머물며 쌀쌀한 날씨를 기록할 것으로 예보됐다. 강원 산지에는 눈 내리는 곳이 있을 전망이다.&lt;br&gt;&lt;br&gt;4일 기상청에 따르면 5일 전국의 아침 최저기온은 2~11도로 전망됐다. 서울·세종이 최저기온 5도로 예측됐고, 대전이 6도, 광주·대구 8도 등이다. 4일 서울의 아침 최저기온(16.5도)에 비해 10도 이상 뚝 떨어지는 것이다. 한반도 북쪽에서 찬 공기가 내려온 탓이다.&lt;br&gt;&lt;br&gt;낮 최고기온 역시 서울이 14도, 대전·광주 15도, 대구 16도 등 전국이 13~20도로 쌀쌀한 날씨를 보일 전망이다. 강원 동해안 산지와 경북 동해안 등 일부 지역에선 5~20㎜의 비가 예보됐다.&lt;br&gt;&lt;br&gt;6일 전국 아침 최저기온은 영하 1도에서 영상 8도, 낮 최고기온은 10~17도로 더 추워지겠다. 중부·경북의 내륙 일부 지역에서는 영하의 날씨가 예상된다. 이날은 전국에 강한 바람도 불어 체감 기온은 더 낮을 전망이다. 입동(立冬)인 7일에도 추위가 이어졌다가, 8~9일부터는 기온이 다소 오를 전망이다. 미세 먼지 농도는 당분간 ‘좋음~보통’ 수준을 보이겠다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>파김치 돼서 터덜터덜… 뉴욕 마라톤 참가한 기안84 모습 보니 </title>
+      <link>https://www.chosun.com/national/national_general/2024/11/04/OUSGEQS3Z5GN5HAI2FUBHVVIDE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/04/OUSGEQS3Z5GN5HAI2FUBHVVIDE/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 04 Nov 2024 08:36:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KLUA6OTZBFCI3MFNDHWS2DRCQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인스타그램 계정 'la_placed' 계정에 올라온 기안84 뉴욕 마라톤 영상./ 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;웹툰작가 기안84가 미국 뉴욕에서 열린 마라톤 풀코스를 완주했다.&lt;br&gt;&lt;br&gt;4일(현지 시각) 방송계에 따르면, 기안84는 전날 미국 뉴욕에서 열린 제 54회 뉴욕 마라톤 대회에 참가해 42.195㎞ 풀코스를 4시간 48분 16초에 완주했다. 참가 선수 5만5508명 중에선 3만6625등을 기록한 것으로 알려졌다. 한국 출전 선수로는 154명 중 114번째다.&lt;br&gt;&lt;br&gt;이날 온라인에는 뉴욕 마라톤대회에서 기안84를 봤다는 목격담과 사진들이 올라왔다. 사진에는 기안 84가 MBC ‘나혼자 산다’ 출연진들의 이름과 태극기, 캐릭터 등이 그려진 옷을 입고 뛰고 있는 모습이 담겼다. 양쪽 무릎에는 테이핑을 한 모습이다.&lt;br&gt;&lt;br&gt;한 네티즌은 온라인 커뮤니티 ‘에펨 코리아’에 경기 당시 영상을 올리기도 했다. 이 네티즌은 “골인까지 한 3~4㎞ 정도 남은 지점에서 (기안84를) 직관할 수 있었다”며 “파김치가 됐지만 힘내라고 응원해주니 다가와서 손 흔들고 가줬다”고 적었다. 영상에는 기안84가 다소 지친 표정으로 걷다가 관중들을 향해 팔을 올리고 주먹을 쥐어보이는 모습이 담겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KO34FKDJGFH4FN6HQSHYQPQUG4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일(현지시각) 뉴욕마라톤에 참가한 기안 84. / 에펨코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세계 6대 마라톤으로 유명한 뉴욕 마라톤은 매년 11월 첫 번째 일요일에 개최된다. 이번 대회에는 150개국 이상에서 5만명이 넘는 마라토너들이 참가했다. 스태튼 아일랜드에서 출발해 브루클린-퀸즈-맨해튼-브롱크스를 거쳐 맨해튼 센트럴 파크를 따라 완주하는 코스다.&lt;br&gt;&lt;br&gt;기안84는 이번 대회를 위해 러닝 코치와 훈련해왔다. 그는 작년 청주 대회에서 마라톤 풀코스를 4시간 47분 08초로 완주하기도 했다. 그는 작년 4월 유튜브를 통해 “달리기를 계속 생존 이야기랑 엮어서 하는 이유는, 아마 저는 달리기를 하지 않았으면 지금쯤 죽었을 수도 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/LQD4KQ4SAZD6LHUGJNSBC3A3OI.jpg?width=490&amp;height=490&amp;auth=5b8b2d7f57f41cdbf4b5956a6b2cf6b212b6d4230cc06c14b2b16eb25df17a74&amp;smart=true" type="image/jpeg" height="490" width="490">
+        <media:description type="plain">인스타그램 계정 'la_placed' 계정에 올라온 기안84 뉴욕 마라톤 영상./ 인스타그램</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>동물 죽이면 최대 징역 3년... 대법, 동물학대 양형기준 첫 마련</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/04/NRM3RYPCRZCS5O6GMPXGAUB2HQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/04/NRM3RYPCRZCS5O6GMPXGAUB2HQ/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 04 Nov 2024 09:03:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NHEQVWTMCW2CMXABO2PLBEGLME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주의 한 주택에서 20대 남성 A씨는 최근 애완용 도마뱀 80마리와 뱀 15마리를 굶어 죽게 한 혐의로 경찰에 체포됐다. 다수의 동물을 잔혹하게 죽인 A씨는 새 대법원 양형 기준에 따라 최대 징역 3년까지 선고받을 수 있게 됐다.&lt;br&gt;&lt;br&gt;대법원 양형위원회는 지난 1일 전체회의를 열고 동물보호법 위반 범죄에 대한 양형 기준을 설정했다고 4일 밝혔다. 동물 학대와 관련해 양형 기준이 만들어진 건 이번이 처음이다. 양형 기준은 판사들이 형을 정할 때 참고하는 기준으로, 감경·기본·가중 등 3단계로 나뉜다.&lt;br&gt;&lt;br&gt;동물보호법에 따르면, 동물을 죽이면 3년 이하의 징역 또는 3000만원 이하의 벌금, 다치게 할 경우는 징역 2년 이하 또는 벌금 2000만원 이하로 처벌하게 돼 있다. 그러나 관련 양형 기준이 없어 재판부마다 선고 형량이 들쑥날쑥하다는 지적이 많았다. 양형위 관계자는 “동물 학대에 대한 국민적 관심이 높아짐에 따라 합리적인 양형 기준을 마련했다”고 밝혔다.&lt;br&gt;&lt;br&gt;새 양형 기준에 따르면, 불특정 또는 다수의 피해 동물을 대상으로 하거나 상당한 기간에 걸쳐 범행을 반복, 비난할 만한 범행 동기가 있거나 수법이 잔혹한 경우는 판사가 ‘가중 요소’로 판단해 가중 처벌하기로 했다. 반면 미필적 고의로 범행을 저지르거나 참작할 만한 범행 동기가 있고 실질적인 피해 회복이 이뤄진 경우엔 ‘감경 요소’로 판단해 형을 낮출 수 있도록 했다.&lt;br&gt;&lt;br&gt;‘동물을 죽이거나 죽음에 이르게 할 경우’ 기본 징역 4개월~1년, 벌금 300만~1200만원을 선고하도록 하고, 가중 사유가 있으면 징역 8개월~2년 또는 벌금 500만~2000만원을, 가중 사유가 2개 이상이면 법정 최고형인 징역 3년까지 선고할 수 있게 된다.&lt;br&gt;&lt;br&gt;동물에게 고통을 주거나 상해를 입혔을 때는 징역 2~10개월 또는 벌금 100만~1000만원이 기본 형량이며, 가중 요소가 있으면 징역 4개월~1년 6개월 또는 벌금 300만~1500만원도 선고할 수 있도록 했다.&lt;br&gt;&lt;br&gt;양형위는 추가 심의와 공청회를 거쳐 내년 3월 양형 기준을 최종 의결할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>위례신사선 또 유찰…재정 투자 사업으로 전환</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/04/LGQ7NVXDB5H3FCFVNZCNGFT7BM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/04/LGQ7NVXDB5H3FCFVNZCNGFT7BM/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 04 Nov 2024 09:02:32 +0000</pubDate>
+      <content:encoded>위례신도시와 서울 강남을 연결하는 위례신사선 경전철 사업자 공모가 최종 유찰됐다. 서울시는 위례신사선 건설을 재정투자사업으로 전환해 추진하기로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RIQYEUBGWZEONDOSVWON5SEKDI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 4일 위례신사선 사업자 공모가 최종 유찰됐다고 밝혔다. 지난 6월 기존 사업자인 GS건설이 공사비 상승 등을 이유로 사업을 포기해 사업비를 2차례 올려 공고를 냈지만 신청한 업체가 없었던 것이다.&lt;br&gt;&lt;br&gt;사업자 공모가 최종 유찰됨에 따라 서울시는 위례신사선 건설을 재정투자사업으로 전환해 추진하기로 했다. 앞서 서울시는 지난 6월 위례신사선 재추진 계획을 발표하면서 “민간의 참여가 없다면 재정투자사업으로 전환하겠다”고 발표했다.&lt;br&gt;&lt;br&gt;서울시는 위례신사선을 재정투자사업으로 전환한다는 내용의 ‘서울시 제2차 도시철도망 구축계획 변경안’을 만들어 내년 상반기 국토교통부에 제출한다는 계획이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “중앙정부와 협의해 착공 시기 단축에 모든 역량을 총동원하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“전형적 인재” 檢, 광주 아파트 붕괴사고 관련자에 최고 징역 10년 구형</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/04/YUCEBRNN5RDFJDIZ7LHZE34QNU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/04/YUCEBRNN5RDFJDIZ7LHZE34QNU/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 04 Nov 2024 08:56:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DULG3XEOLRGPBF3B2QECQ3NOGM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;광주광역시 서구 화정동 현대아이파크 아파트 붕괴사고 발생 1주년을 이틀 앞둔 지난 2023년 1월 9일 철거 준비작업 중인 공사현장에 가림막이 설치돼 있다. /김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 7명의 사상자를 낸 광주광역시 화정아이파크 시공사와 하청업체, 감리업체 등 붕괴사고 책임자들에게 최고 징역 10년을 구형했다.&lt;br&gt;&lt;br&gt;광주지법 형사11부(재판장 고상영)는 4일 업무상 과실치사 등 혐의로 기소된 화정아이파크 시공사 HDC현대산업개발(현산)과 하청업체, 감리업체 관계자 등 17명에 대한 결심공판을 열었다.&lt;br&gt;&lt;br&gt;이들은 지난 2022년 1월 11일 광주 서구 화정동 현대아이파크 201동 최상층인 39층 콘크리트 타설 과정에서 36~38층 동바리(가설 지지 기둥)를 미설치하고 공법 변경, 콘크리트 품질 등 관리·감독을 제대로 하지 않아 하청업체 작업자 6명이 숨지고 1명이 부상을 입게 한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;검찰은 현산 측 현장소장 A(52)씨에게 징역 10년을 구형했다. 현재는 퇴사한 전 대표이사 B(61)씨와 현산 전 건설본부장 C(57)씨에게는 각각 징역 7년을 구형했다.&lt;br&gt;&lt;br&gt;또 콘크리트 타설 하청업체 대표와 현장 책임자 등 4명에게는 징역 5~10년, 감리업체 소속 현장 감리와 총괄 감리 등 3명에게는 징역 8년을 구형했다. 현산에는 10억원, 타설 하청업체는 7억원, 감리업체에는 1억원 등의 벌금형도 구형했다.&lt;br&gt;&lt;br&gt;검찰은 “현산은 지난 2021년 광주 동구 학동에서 철거 건물 붕괴사고를 낸 지 불과 7개월 만에 또다시 붕괴 사고를 냈다”며 “이번 사고는 시공사·하청업체·감리업체 등의 기본조차 지키지 않은 총체적인 부실 공사, 안전관리 감독 부재로 비롯된 인재”라며 구형 이유를 설명했다.&lt;br&gt;&lt;br&gt;현산 측은 최후 변론에서 “하청업체가 하중지지(필러) 동바리를 무단으로 철거했고, 설계변경은 구조검토 대상이 아니다”라고 주장했다. 이에 대해 하청업체는 “현산의 지시를 받아 동바리를 해체해 업무상과실 책임이 없고 설계변경도 현산과 협의했다”고 했다. 감리업체도 “감리 과정에 구조 검토를 요구했으나 시공사인 현산이 묵살했다”는 입장이다.&lt;br&gt;&lt;br&gt;이 사건은 지난 2022년 5월 첫 재판이 열린 뒤 약 2년 6개월 동안 법정공방을 벌이며 장기화됐다. 화정아이파크는 올해 연말쯤 상가층을 제외한 주거층 철거를 마무리하고 정밀 안전진단을 거쳐 이르면 오는 2027년 12월까지 재시공을 마칠 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/DULG3XEOLRGPBF3B2QECQ3NOGM.JPG?width=4032&amp;height=3024&amp;auth=42a4c076b88ae3c833a62e9701f423087262f6ec38df44ac2d5a6beac622ba56&amp;smart=true" type="image/jpeg" height="3024" width="4032">
+        <media:description type="plain">광주 서구 화정동 현대아이파크 공사 도중 붕괴사고 발생 1주년을 이틀 앞둔 9일. 철거 준비작업중인 공사현장엔 가림막이 설치되어 있다.지난해 1월 11일 광주 서구 화정동에서 신축 아파트 16개 층이 한꺼번에 무너지는 사고가 발생해 6명이 숨지고 1명이 다쳤다. 철거작업은 이른면 오는 3월부터 시작될 예정이다./2023.1.9./김영근 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">김영근</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>다른 나라에서도 외국인 가사관리사 오나…대상국 확대 검토</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/04/PMOABFMMMNBCXP4IRBLNKRHVYM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/04/PMOABFMMMNBCXP4IRBLNKRHVYM/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 04 Nov 2024 08:54:49 +0000</pubDate>
+      <content:encoded>고용노동부와 서울시가 ’외국인 가사관리사’의 출신 국가를 확대하는 방안을 추진한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IOZN4V7RX5AW7BL2LDACPCI25A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;외국인 가사관리사 시범사업에 참여하는 필리핀 가사관리사들이 지난 8월 6일 오전 인천국제공항 제1터미널을 통해 입국한 뒤 버스로 이동하고 있다. /공항사진기자단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 서울시 등에 따르면 고용노동부와 서울시는 외국인 가사관리사를 캄보디아·베트남·인도네시아 등에서도 선발하는 방안을 검토하고 있다. 시범 사업 기간인 현재는 필리핀 출신의 가사관리사가 국내 가정에 투입되고 있다.&lt;br&gt;&lt;br&gt;외국인 가사관리사 제도는 외국인 인력을 가정에 투입해 육아와 가사 등을 돕도록 하는 제도다. 고용노동부와 서울시는 육아 부담을 줄여준다는 취지로 시범 사업을 추진해, 지난 9월부터 필리핀 가사관리사 100명을 국내 가정에 투입했다.&lt;br&gt;&lt;br&gt;이번 가사관리사 출신국 확대 논의는 외국인 가사관리사 도입 규모 확대에 따른 것이다. 고용노동부와 서울시는 앞서 외국인 가사관리사 본 사업이 시작되면 내년 중 외국인 가사관리사를 1200명까지 늘리겠다고 발표했다. 서울시 관계자는 “외국인 가사관리사 수를 늘리려면 가사관리사들을 더 많은 나라에서 선발할 필요가 있다“고 말했다.&lt;br&gt;&lt;br&gt;앞서 지난달 15일 오세훈 서울시장도 “캄보디아나 기타 동남아 국가를 복수 선정해 경쟁 체제를 도입하는 등 여러 변형을 줘야 한다”며 “고용부와 의논이 되는 대로 발표하겠다”고 말했다.&lt;br&gt;&lt;br&gt;고용노동부와 서울시는 가사관리사의 출신국 확대를 비롯해 확대 규모, 업무 범위 등을 시범 사업 결과를 보고 결정할 방침이다. 시범 사업은 내년 2월까지로 예정돼 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>조산기 있는 대전 임신부 새벽에 분만실 찾다가...200㎞ 떨어진 순천서 출산</title>
       <link>https://www.chosun.com/national/regional/2024/11/04/EV4YI7QYRZCOXM34FEZCGDDXWA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/04/EV4YI7QYRZCOXM34FEZCGDDXWA/</guid>
@@ -862,66 +925,6 @@
 &lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	 35년생 목마른 대지에 소나기가 내리는구나. 47년생 고통으로 깨어 있는 사람에게는 밤이 길다. 59년생 욕심으로 인한 번민이니 과욕은 금물. 71년생 숨 쉬고 살아 있는 한 희망은 있다. 83년생 대목장이 집에 기둥이 휘었구나. 95년생 복이 엷으면 계란에도 뼈가 있다.	&lt;br&gt;
 &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?width=800&amp;height=420&amp;auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>현직 전남도의원 나주서 숨진 채 발견… “범죄 정황 없어”</title>
-      <link>https://www.chosun.com/national/regional/honam/2024/11/03/FLCEIVOWIVAYJOOILSYP3VLIJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/11/03/FLCEIVOWIVAYJOOILSYP3VLIJI/</guid>
-      <dc:creator>나주=조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 03 Nov 2024 07:49:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKPU66JR2ZACLDQI47NNRQYETM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 오후 2시 15분쯤 전남 나주시 다도면 한 도로 차량 안에서 전남도의회 현직 의원 A(48)씨가 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;지인의 신고를 받고 출동한 경찰은 주차된 차량 안에서 사망한 A씨를 발견했다. 경찰 관계자는 “현재까지 범죄 정황은 없는 것으로 조사됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 A의원이 스스로 목숨을 끊은 것으로 추정하고 있다. A의원은 전날 저녁식사 이후 연락이 끊겼다가 지인에 의해 처음 발견된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “정확한 사망 경위를 조사할 방침”이라고 말했다. A의원은 활발한 의정 활동을 하며 지난해 말 지방의회발전 부문 대상을 받기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/54FTUISTLZDHJELX6W5GW5V5XU.jpg?width=400&amp;height=225&amp;auth=fc3a36afab386257123003bd70ffe12e9bef4a32b9b8d3ca9d63f29c5bf69ab1&amp;smart=true" type="image/jpeg" height="225" width="400">
-        <media:description type="plain">경찰 로고. /조선일보 DB.</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>교차로 가운데 떡하니 세워진 SUV… “세상에 이런 불법주차도”</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/11/03/UQ5OIME7SFEL5AALDO2SFA2F6Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/11/03/UQ5OIME7SFEL5AALDO2SFA2F6Y/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 03 Nov 2024 07:36:32 +0000</pubDate>
-      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6SUEH4O5WBDW3D4GXRRTVAYVPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 28일~지난 1일 부산 부산진구 부전동 부산진구청 로비에서 '2024년 불법주차 테마별 사진전'이 열렸다./부산진구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도로 한 가운데 서 있는 스포츠유틸리티차(SUV), 버스 정류장 앞에 직각으로 세워둔 승용차, 상가 도로 한 가운데 주차된 경차, 불을 끄려 급하게 가야 하는 소방차 이용통로를 막고 있는 차량….&lt;br&gt;&lt;br&gt;영화나 드라마 한 장면에서나 나올듯한 특이한 불법 주차 사례를 담은 사진전이 지난달 28일~1일 부산 부산진구청 1층 로비에서 열려 주민들의 눈길을 끌었다. ‘2024년 불법주차 테마별 사진전’이다. 부산진구 김영이 주차행정팀장은 “도로 곳곳마다 만연한 불법 주정차의 실태를 알리기 위해 전시회를 개최했다”고 말했다.&lt;br&gt;&lt;br&gt;이 전시회에는 시민들이 직접 촬영해 구청에 신고했거나, 구청 단속반이 포착한 사진 30~40장이 주차절대금지, 특이 불법주차, 캠페인 등 3개 테마 25개 사례로 나눠 선보였다. 이들 사진은 최근에 찍은 것들이지만 일부는 몇 년 전 일이지만 지금도 전설처럼 기억되는 충격적인 모습들도 있었다.&lt;br&gt;&lt;br&gt;도로 한가운데를 떡하니 차지하고 있는 스포츠유틸리티차(SUV). 수년 전에 찍힌 사진이지만 도저히 일어날 것 같지 않은 상황이라 불법주차의 대표 사례 중 하나로 전시됐다. 도로에 여러 개의 점선이 그려져 있는 교차로인 이곳은 평소 차량 통행량이 많은 부산진구 조방앞 거리다. 당시 차량 주인은 문까지 잠근 상태로 자리를 떠나 많은 이들이 경악했다.&lt;br&gt;&lt;br&gt;버스 정류장 앞에 차량을 직각으로 세워 놓아 그 부근 도로에 정차한 시내버스에서 내린 학생들이 인도가 아닌 차로를 따라 인도로 가는 장면도 있었다. 상가들이 즐비한 도로 한가운데 경차 한 대가 주차해있어 트럭들이 통행하지 못하는 사진, 소중한 생명을 구하기 위해 출동하는 소방차가 불법주차 차량에 막혀 현장 진입이 지연된 사례 등등의 사진들이 주목받았다.&lt;br&gt;&lt;br&gt;부산진구에 따르면 이같은 불법주정차를 하면 승용차 등은 4만원, 승합차 등은 5만원의 과태료가 부과된다. 특히 어린이보호구역에서 평일 오전 8시∼오후 8시 주정차를 위반할 경우 기존 3배의 과태료를 물어야 한다. 김영이 주차행정팀장은 “불법 주정차는 주행하는 차량과 보행자의 시야를 가려 대형 사고를 일으킬 수 있어 매우 위험하다”며 “이 전시회가 선진적 교통의식 정착의 디딤돌이 됐으면 좋겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 제주 ㅎㄱㅎ 조직원들, ‘재판부 기피’ 재항고… 대법원 간다</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/03/NNZF6LJ3KZFJVPNP2LMXIHDQQI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/03/NNZF6LJ3KZFJVPNP2LMXIHDQQI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 03 Nov 2024 07:23:58 +0000</pubDate>
-      <content:encoded>동남아에서 북한 공작원과 접선하고 북한의 지령을 받아 국내에서 활동한 혐의로 기소된 제주 ‘ㅎㄱㅎ’ 조직원 3명이 1심 재판부를 바꿔달라며 낸 기피신청에 대한 항고가 기각됐지만, 이들이 재항고한 것으로 확인됐다. 대법원의 판단이 나올 때까지 이들의 재판은 멈춘다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SKOHLTUTPZDKFKMI5UGM7DITY4.png"&gt;&lt;figcaption&gt;&lt;small&gt;국가정보원이 작년 12월 제주도에 있는 진보 정당 지역위원장 A씨의 자택을 압수 수색하고 있는 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 본지 취재를 종합하면, 총책 강모(54)씨와 조직원 고모(54)씨, 박모(49)씨가 신청한 재판부 기피 사건의 법률대리인은 지난달 30일 항고를 기각한 광주고법 제주 형사1부(재판장 이재신)에 재항고장을 제출했다. 법원은 다음날 소송기록을 대법원에 보냈다. 대법원의 심리가 끝날 때까지 제주지법 형사2부(재판장 홍은표)가 심리하는 이들의 1심 재판은 열리지 않는다.&lt;br&gt;&lt;br&gt;재판부 기피 신청만으로 이들은 재판을 세 달 넘게 지연시키고 있는 것이다. 이들은 지난 7월 12일 재판부 기피 신청을 냈는데, 제주지법 형사1부(재판장 오창훈)는 4일 만에 이를 기각했다. 피고인들은 그달 31일 항고했고, 71일 만인 지난달 10일 항고도 기각됐다. 그런데 재항고를 낸 것이다.&lt;br&gt;&lt;br&gt;피고인들은 재판부 기피 외에도 국민참여재판과 위헌법률심판제청을 신청하는 등 다양한 재판 지연 전략을 구사하고 있다. 검찰이 지난해 4월 이들을 기소했지만, 이들은 첫 공판준비기일에서 국민참여재판을 신청했다. 대법원이 국민참여재판을 배제하는 결정을 확정할 때까지 7개월이 걸렸다. 이 기간 구속 수감돼 있던 고씨와 박씨는 보석으로 풀려났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SVUVA7PDPDDDF2B4BLES4LYPKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원간첩단 사건으로 기소된 자주통일 민중전위(자통) 관계자들. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 북한 지령을 받고 국내에서 반국가 활동을 한 혐의로 기소된 경남 창원의 ‘자주통일 민중전위(자통)’ 조직원들도 지난달 28일 재판부 기피를 신청했다. 서울중앙지법 형사30부(재판장 강두례)에서 재판을 받던 이들은 지난해 9월 재판부 기피를 신청했고, 6개월 동안 재판이 멈췄었다.&lt;br&gt;&lt;br&gt;지난 4월 창원지법으로 사건이 이송됐는데, 첫 정식재판이 열리기도 전에 이들은 재판부 기피를 다시 신청한 것이다. 공안부장 출신 변호사는 “노골적인 재판 지연 행위가 벌어지고 있는데도 이를 제재할 방법이 마땅치 않은 상황”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>30대 여성 시신 일부 북한강에서 발견… 경찰 수사 나서</title>
-      <link>https://www.chosun.com/national/regional/gangwon/2024/11/03/IXH6OPXXHBBEBD4FOHABJ67EPQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2024/11/03/IXH6OPXXHBBEBD4FOHABJ67EPQ/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 03 Nov 2024 06:32:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WEWWIWD3KTP3R2IQHT6ZW2UC3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 화천경찰서. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 화천군 북한강에서 30대 초반 여성으로 추정되는 시신이 발견돼 경찰이 수사를 벌이고 있다.&lt;br&gt;&lt;br&gt;3일 본지 취재를 종합하면 지난 2일 오후 2시46분쯤 화천군 화천읍 화천체육관 앞 북한강에서 시신의 일부로 보이는 물체가 수면 위로 떠올랐다는 주민 등의 신고가 접수됐다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 강에 떠오른 물체가 사람의 신체 부위인 것을 확인하고 잠수부 등을 동원해 인근을 수색하다 날이 어두워지자 철수했다. 이튿날 오전 수색을 재개한 경찰은 붕어섬 선착장 인근에서 훼손된 시신 여러 부위를 추가로 발견했다.&lt;br&gt;&lt;br&gt;경찰이 육안으로 확인한 시신은 30대 초반 여성으로 추정되고 있다. 발견된 시신의 부패 상태는 심하지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 이 여성이 살해 당한 후 시신이 훼손됐을 가능성을 열어놓고 정확한 사망 원인 등에 대해 수사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/WEWWIWD3KTP3R2IQHT6ZW2UC3I.jpg?width=720&amp;height=387&amp;auth=437fcfabc520d113dfdf881590788a3b4042f61f98babbec0af6d90b9c8dd8d1&amp;smart=true" type="image/jpeg" height="387" width="720">
-        <media:description type="plain">화천 북한강서 토막 시신 발견...경찰 수사중</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>김영철, 김생민 덕분에 집테크 성공...”6억에 산 아파트 현재 20억”</title>
-      <link>https://www.chosun.com/national/people/2024/11/03/ZF2MKOZJLREDLFJPWUCTAAAATM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/03/ZF2MKOZJLREDLFJPWUCTAAAATM/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 03 Nov 2024 06:03:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C7RG4XDOXBGSVCCIVCNNLUMRMM.png"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 김영철./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 김영철이 10년 전 6억원에 매입한 아파트 시세가 3배 이상 올랐다고 밝혔다.&lt;br&gt;&lt;br&gt;지난 1일 유튜브 채널 ‘김영철 오리지널’에는 ‘김영철이 청담동 수십억 아파트에 살 수 있었던 이유’라는 제목의 영상이 올라왔다.&lt;br&gt;&lt;br&gt;영상에서 김영철은 자신이 청담동에 거주할 수 있었던 이유에 대해 동료 개그맨 김생민 덕분이라고 밝혔다.&lt;br&gt;&lt;br&gt;1999년 상경한 김영철은 마포구 서교동, 연남동, 중구 신당동을 거쳐 2014년 청담동 현대2차 아파트 전용 84.76㎡(29평)에 정착했다.&lt;br&gt;&lt;br&gt;김영철은 “김생민 형이 부동산 투자에 대한 조언을 많이 해줬다. 경매를 통해 재산을 늘려나가라고 했고, 때마침 이 아파트가 경매로 나와 바로 법원으로 달려갔다”며 당시를 떠올렸다.&lt;br&gt;&lt;br&gt;이어 “법원에서 생민이 형이 (입찰가를) 쓰라는 대로 썼다. 6억3000만원은 너무 높으니까 6억1000만원을 써보라더라. 근데 경쟁 입찰자가 6억700만~6억800만원을 써냈고, 우리가 낙찰을 받았다”며 “생민이 형한테는 제가 진짜 잘하려고 한다. 차라도 한 대 뽑아줘야 하나 싶다”고 말했다.&lt;br&gt;&lt;br&gt;2014년도 당시 6억1000만원에 산 이 아파트는 현재 3배 이상 올라 시세가 19억~20억원이 됐다고 한다.&lt;br&gt;&lt;br&gt;그는 “이전에 살던 아파트 전세금과 저축했던 돈 모아 바로 전액 현금으로 샀다”며 “이사 온 첫날 살면서 제일 편하게, 두 다리를 뻗고 잤던 것 같다. 은행 빚 없고 내돈 내산(내 돈으로 내가 산) 집이 생긴 게 아니냐”며 뿌듯해했다.&lt;br&gt;&lt;br&gt;한편, 김생민은 지난 2018년 과거 한 방송 프로그램 뒤풀이 중 노래방에서 여성 스태프 2명을 성추행했다는 의혹을 받으며 출연 중이던 모든 프로그램에서 하차했다.&lt;br&gt;&lt;br&gt;당시 김생민은 소속사 SM C&amp;amp;C를 통해 “불미스러운 일로 실망시켜 드려 정말 죄송하다. 10년 전, 출연 중이었던 프로그램의 회식 자리에서 잘못된 행동을 했다”며 “그 당시, 상대방이 상처를 받았다고 인지하지 못했고 최근에서야 피해 사실을 전해 듣게 됐다”고 사과했다. 이어 “너무 많이 늦었다는 것을 알지만 그 분을 직접 만나 뵙고 과거 부끄럽고, 부족했던 제 자신의 행동에 대해 머리 숙여 진심으로 사죄 드렸다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>협의 이혼한 퇴직공무원, 가정법원 주차장서 숨진채 발견</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/03/ZUJRNNRD6NGEXOV5NGSFQVT4GQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/03/ZUJRNNRD6NGEXOV5NGSFQVT4GQ/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 03 Nov 2024 06:19:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 배우자와 협의 이혼한 60대 퇴직 공무원이 가정법원 주차장에서 숨진 채 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;3일 광주 서부경찰서 등에 따르면 전날 오후 8시쯤 광주 서구 광주가정법원 주차장에 주차되어 있던 승용차 안에서 60대 남성 A씨가 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;퇴직 공무원인 A씨는 배우자와 협의이혼을 진행했는데 최근 가정법원으로부터 공무원 연금을 매달 절반씩 이혼한 배우자에게 지급하라는 결정을 받았다.&lt;br&gt;&lt;br&gt;A씨는 이러한 가정법원의 결정이 납득되지 않는다는 내용의 유서를 남긴 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 부검 등을 통해 A씨의 정확한 사망 경위를 조사할 예정이다.&lt;br&gt;&lt;br&gt;※ 우울감 등 말하기 어려운 고민이 있거나 주변에 이런 어려움을 겪는 가족ㆍ지인이 있을 경우 자살예방 상담전화 ☎1393, 정신건강 상담전화 ☎1577-0199, 희망의 전화 ☎129, 생명의 전화 ☎1588-9191, 청소년 전화 ☎1388, 청소년 모바일 상담 ‘다 들어줄 개’ 어플, 카카오톡 등에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“숙명여대가 아니라 숙면여대”…조회수 폭발한 ASMR 교수님</title>
