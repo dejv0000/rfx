@@ -13,6 +13,195 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] ‘리베이트 탈세’ DL·효성, 지주사로 세무 조사 확대</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/06/OBUQ32LDS5DUFGLPQF6POSEFYM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/06/OBUQ32LDS5DUFGLPQF6POSEFYM/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Nov 2024 20:00:00 +0000</pubDate>
+      <content:encoded>DL과 효성그룹 건설사의 ‘리베이트 탈세’ 의혹을 조사 중인 국세청이 대주주와 연결돼 있는 계열사로 세무조사를 확대하고 있는 것으로 5일 전해졌다. 법조계에서는 “사주(社主) 일가의 비자금(부외자금) 조성 정황을 찾고 있는 것으로 보인다“는 해석이 나왔다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, ‘국세청의 특수부’로 불리는 서울지방국세청 조사4국은 DL그룹의 지주사 DL㈜의 대주주인 ㈜대림, 핵심 계열사 중 하나인 DL케미칼, DL케미칼과 한화솔루션(옛 한화케미칼)의 합작사인 여천NCC, 효성그룹 지주사인 ㈜효성에 지난달부터 조사 인력을 보내 회계처리 과정 전반을 들여다보고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 지난 9월 국세청은 건설‧의료‧보험 업계의 ‘불법 리베이트’ 사례 47건을 적발해 이들 기업에 대한 세무조사에 착수했다. 기업이 판매한 상품이나 용역의 대가 중 일부를 일종의 뇌물처럼 ‘뒷돈’으로 구매자에게 돌려준 ‘리베이트’ 단서를 잡은 것이다.&lt;br&gt;&lt;br&gt;건설 분야에서는 시공사(건설사)가 공사 일감을 따내기 위해 시행사나 재건축조합 등 발주처에 뒷돈을 건네거나 발주처 관계자 자녀 등을 특혜 채용한 사실이 확인됐다. 세무조사 대상 건설사 17곳 중 대형 업체는 DL이앤씨(시공능력 5위)와 효성중공업(39위)이 포함됐다.&lt;br&gt;&lt;br&gt;업계에서는 이번 세무조사가 건설사 리베이트에 국한하지 않고, 대기업 집단의 지주사와 다른 사업 분야까지 확대된 데 주목하고 있다. DL그룹은 2019년 지주사 체제로 전환해 ‘이해욱 회장→㈜대림(옛 대림코퍼레이션)→DL㈜→DL이앤씨‧DL케미칼‧DL에너지’의 지배구조를 갖췄다. 이 회장은 ㈜대림 지분을 52.3% 보유하고 있다.&lt;br&gt;&lt;br&gt;효성그룹도 ㈜효성이 지주사로서 효성중공업의 지분 32.47%를 보유하고 있다. 지난 3월 조석래 명예회장 사망 후 지분을 상속받은 조현준 회장이 올 6월 말 기준, ㈜효성의 최대주주(지분율 33.03%)이다.&lt;br&gt;&lt;br&gt;국세청은 조사 과정에서 일부 건설사 등이 사주 일가와 관련된 대행사를 통해 자금을 세탁한 정황도 포착한 것으로 알려졌다. 이에 세무조사 대상 기업들과 거래한 업체의 회계 장부도 조사하고 있다. 세무 당국의 한 관계자는 “분야별 리베이트 기획 세무조사가 지주사로 이어졌다는 것은 사주 일가를 겨냥하고 있는 것으로 봐야 한다”면서 “비자금이 드러나면 검찰 고발로 이어질 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [알립니다] ‘2025 필리핀 영어 몰입 캠프’ 참가자 모집</title>
+      <link>https://www.chosun.com/national/nie/2024/11/06/6FN63GVC35DCTPZQGBVU7YJJNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/11/06/6FN63GVC35DCTPZQGBVU7YJJNY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Nov 2024 17:28:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LEDOUQ5WCJA2ZCTWHFY7HXKMKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;에듀조선이 ‘2025 필리핀 리더십 영어 몰입 캠프’ 참가자를 모집합니다. 마닐라에서 수준 높은 영어 교육을 받을 수 있습니다. 원어민 선생님과 1대 1 영어 수업, 리더십 특강, 현지 대학생 멘토링 등 커리큘럼을 진행합니다. 캠프 참가자에겐 필리핀 학교 수료증과 무료 화상 영어 강의(2주) 등을 제공합니다. 자세한 사항은 에듀조선 홈페이지(&lt;a href="http://educhosun.com/" target="_blank"&gt;educhosun.com&lt;/a&gt;)에서 확인하세요.&lt;br&gt;&lt;br&gt;▲대상: 초1~중3 학생(학부모 동반 가능)&lt;br&gt;&lt;br&gt;▲기간: 2025년 1월~2월&lt;br&gt;&lt;br&gt;▲장소: 마닐라 알라방 어학원 또는 야베스 실랑 국제 캠퍼스&lt;br&gt;&lt;br&gt;▲문의: 070-7954-8502&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [예쁜 말 바른 말] [369] ‘담쟁이’와 ‘미장이’</title>
+      <link>https://www.chosun.com/national/nie/2024/11/06/YAARNQINP5DNXA6RT6QJ2IDKOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/11/06/YAARNQINP5DNXA6RT6QJ2IDKOQ/</guid>
+      <dc:creator>류덕엽 교육학 박사·전 서울 양진초 교장</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Nov 2024 17:27:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W5CZ2DDBQJCDTFXFG62BR6PPEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;* ‘담장이 앞에서’라는 시를 읽으며 소설 ‘마지막 잎새’가 떠올랐다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;* 소설 ‘미쟁이들’은 노동자들의 아픔과 고통을 조명하고 있다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;위 문장에 나온 ‘담장이’와 ‘미쟁이’는 맞는 말일까요? 옳은 표기는 ‘담쟁이’ ‘미장이’입니다.&lt;br&gt;&lt;br&gt;‘담쟁이’는 포도과의 낙엽 덩굴나무입니다. 줄기에 덩굴손이 있어 담이나 나무에 달라붙어 올라가죠. 원래 말은 ‘담쟁이덩굴’이에요. 담쟁이넝쿨이나 아이비(ivy)라고도 하지요. ‘담장이’는 흙으로 담을 쌓는 일을 직업으로 하는 사람으로, 원어는 ‘토담장이’입니다.&lt;br&gt;&lt;br&gt;‘미장이’는 건축 현장에서 벽이나 천장, 바닥 따위에 흙·시멘트 등을 바르는 일을 직업으로 하는 사람을 말해요. 한자어 ‘이장(泥匠)’에 접미사 ‘-이’가 결합된 ‘이장이’에서 유래한 말이지요. ‘-장이’는 그것과 관련된 기술을 가진 사람을 뜻하는 접미사예요. ‘장인(匠人)’이란 뜻이 있는 말은 ‘-장이’로 적고, 그 외에는 ‘-쟁이’를 붙이는 게 표준어입니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;[예문]&lt;/b&gt;&lt;br&gt;&lt;br&gt;―우리 학교에서 가장 오래된 건물은 온통 담쟁이로 뒤덮여 있다.&lt;br&gt;&lt;br&gt;―목수는 집을 짓고 미장이는 벽을 바르고 청소부는 청소를 한다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [동물 이야기] 입꼬리 올라가 늘 웃고 있는 듯해… ‘세상에서 가장 행복한 동물’이라 불려요</title>
+      <link>https://www.chosun.com/national/nie/2024/11/06/T3YDI43HMVDNDCK66OLE6AANVA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/11/06/T3YDI43HMVDNDCK66OLE6AANVA/</guid>
+      <dc:creator>정지섭 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Nov 2024 17:26:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CPXM5TSPBBGBZBGFXYWNMEPQFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;둥글둥글한 얼굴의 쿼카는 입꼬리가 올라가 있어 항상 웃는 것처럼 보인답니다. /게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;요즘 카카오톡에서 인기 있는 동물 이모티콘 중에 ‘쿼카’가 있어요. 몸은 옅은 갈색이고, 통통하고 둥그스름한 얼굴에 언제나 미소를 짓고 있는 귀여운 동물이죠. 상상 속 캐릭터 같아 보이기도 하지만 실제로 있는 동물이랍니다. 쿼카는 호주 서남부 지역과 이 지역의 대도시 퍼스에서 약 30㎞ 떨어진 로트네스트섬에 주로 살고 있는 포유동물이에요.&lt;br&gt;&lt;br&gt;다 자라면 몸길이는 54㎝, 몸무게는 4.2㎏ 정도로 아담한 몸집이죠. 쿼카라는 이름은 먼 옛날 호주로 건너온 유럽 사람들이 지었다고 합니다. 호주 원주민들이 그들 부족 말로 쿼카를 부르는 말을 흉내 낸 거래요.&lt;br&gt;&lt;br&gt;쿼카에게는 ‘세상에서 가장 행복한 동물’이라는 유쾌한 별명이 있어요. 정면에서 얼굴을 보면 입가 양끝이 살짝 올라간 것처럼 보여서 항상 웃는 것처럼 보이거든요. 게다가 대개는 꾸벅꾸벅 졸고 있거나 맛있게 식사하는 모습으로 사람 눈에 띄고, 사람을 겁내지 않고 다가오는 모습도 보여서 이런 별명이 붙었죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z66DUNILYJFYTLWPDCS3DQUOOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;쿼카 이모티콘. /영이의 숲 꽃카&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오동통한 볼살을 보면 토끼나 햄스터를 닮았고, 몸색깔을 보면 큰 쥐 같기도 해요. 반면 앞발보다 훨씬 기다란 두 뒷발로 깡총깡총 뛰어다니는 모습은 영락없는 캥거루 같죠. 쿼카는 실제로 캥거루와 가까운 친척 뻘이에요. 캥거루는 아주 작은 새끼를 육아 주머니에서 기르는 동물인 ‘유대류’를 대표하는 동물인데요. 캥거루 무리는&lt;b&gt; &lt;/b&gt;크기에 따라 가장 큰 종류인 캥거루, 그보다 작은 왈라루, 가장 작은 왈라비로 나뉘어요. 쿼카는 왈라비의 한 종류랍니다.&lt;br&gt;&lt;br&gt;쿼카는 잎사귀와 풀·새싹 등을 주식으로 하는 초식동물인데요. 이따금씩 나뭇잎을 먹으러 나무 위로 올라가는 모습은 코알라와도 아주 비슷하답니다. 식사할 때는 어금니로 잎사귀를 잘근잘근 씹어서 촉촉한 물기를 뽑아내는데, 이건 기린의 식사 방식과 아주 비슷해요.&lt;br&gt;&lt;br&gt;쿼카는 해가 진 다음에야 활동을 시작하고 한낮에는 잠을 자는 야행성이에요. 잘 때는 앉은 상태에서 두 발 사이에 고개를 파묻어요. 평균수명은 10년 정도이고, 태어난 지 18개월이 되면 번식을 할 수 있어요. 새끼를 낳은 뒤엔 온전히 자라날 때까지 육아 주머니에서 돌보는데요. 암컷 한 마리는 많게는 평생 열일곱 마리까지 새끼를 키워낼 수 있대요.&lt;br&gt;&lt;br&gt;이모티콘 속 쿼카는 방긋 웃고 있지만 실제 야생의 쿼카가 처한 환경은 행복과는 거리가 있답니다. 호주에 사는 야생동물 상당수가 사람들이 데려온 동물에게 생존의 위협을 받고 있죠. 쿼카도 마찬가지랍니다. 사람들이 야생동물에게서 가축을 지키겠다며 데려온 여우와 고양이 등이 야생에 나오며 쿼카의 가장 무서운 천적이 됐어요. 야생화한 돼지들 때문에 서식지가 파괴되기도 하고요. 기상이변으로 산불과 폭우가 잦아지는 것도 쿼카의 삶을 위협하고 있어요.&lt;br&gt;&lt;br&gt;호주 당국은 사람들이 숲속에서 쿼카와 마주쳤을 때 귀엽다고 음식을 주면 절대 안 된다고 안내하고 있어요. 과자 같은 것을 잘못 먹고 병에 걸릴 수 있는 데다, 사람 손에 길들면 스스로 먹이를 찾는 능력을 잃게 된다는 거죠.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [숨어있는 세계사] 프랑스 상징하는 수탉… 위기 극복한 민중 의미해요</title>
+      <link>https://www.chosun.com/national/nie/2024/11/06/JZYBDJTRMRELBFS53POTSQ5VTI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/11/06/JZYBDJTRMRELBFS53POTSQ5VTI/</guid>
+      <dc:creator>정세정 장기중 역사 교사, 기획·구성=윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Nov 2024 17:25:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6DFAFVUHOVEPPGLJ467OWW73RM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;바티칸이 가톨릭 성년인 ‘희년’을 앞두고 만든 캐릭터 ‘루체’. 일본 만화에 나올 법한 친근한 이미지로, 젊은 세대들에게 희년을 홍보하기 위해 제작됐답니다. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;바티칸이 최근 가톨릭 성년(聖年)인 ‘희년’을 상징하는 공식 캐릭터 ‘루체’를 발표했어요. 가톨릭에서 희년은 25년마다 한 번씩 돌아오는 해로, 이해엔 성지 순례가 권장돼요. 루체는 노란 우비를 입은 소녀가 밝게 웃고 있는 캐릭터로 마치 일본 애니메이션에 나올 법한 스타일이랍니다.&lt;br&gt;&lt;br&gt;바티칸이 희년을 상징하는 캐릭터를 만든 것은 이번이 처음이라고 해요. 젊은 세대들이 희년에 관심을 갖도록 하기 위해서랍니다.&lt;br&gt;&lt;br&gt;역사적으로 종교나 국가들은 자신들을 상징하는 캐릭터를 만들어왔어요. 특히 많은 나라들이 동물을 국가 마스코트로 삼고 있죠. 오늘은 각 나라를 대표하는 동물들을 알아볼게요.&lt;br&gt;&lt;br&gt;&lt;b&gt;강인해 보이는 독수리 많아&lt;/b&gt;&lt;br&gt;&lt;br&gt;독수리는 국가 상징으로 가장 많이 사용되는 동물 중 하나예요. 미국과 관련된 이미지에 독수리 그림이 들어간 경우를 많이 봤을 거예요. 미국은 ‘흰머리수리’를 상징으로 삼고 있답니다.&lt;br&gt;&lt;br&gt;흰머리수리는 주로 북아메리카에서 서식해요. 아메리카 대륙 원주민인 인디언들은 흰머리수리를 신성한 동물로 여기고, 깃털로 장신구를 장식하기도 했대요. 오늘날 흰머리수리는 미국 대통령의 인장(印章)과 연방 정부 기관의 문장(紋章)에 들어가요. 문장은 단체 등을 나타내기 위한 그림을 뜻한답니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ILBA2ETXGBDRHJ7YXPS6NKPCQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;성조기를 배경으로 측면을 응시하고 있는 흰머리수리예요. 흰머리수리는 미국이 영국에서 독립한 18세기 말부터 미국의 상징으로 사용되기 시작했어요. /게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 때문에 흰머리수리를 ‘아메리칸 이글(American Eagle)’이라고 부르기도 해요. 성조기를 바탕으로 흰머리수리가 정면을 노려보고 있는 이미지는 미국의 막강한 군사력을 상징하는 것으로도 유명하죠. 흰머리수리는 지폐, 공문, 깃발에도 등장하고, 정부 기관 외 다양한 단체에서도 사용한답니다. 미국 미식축구리그(NFL) 팀인 필라델피아 이글스의 마스코트도 흰머리수리예요.&lt;br&gt;&lt;br&gt;흰머리수리가 미국의 상징이 된 것은 독립전쟁(1775~1783) 직후라고 합니다. 당시 미국에선 칠면조를 상징으로 하자는 의견도 있었지만, 멋지고 강인한 모습을 한 흰머리수리가 새로운 나라의 상징으로 적합하다는 결론이 났답니다. 독수리는 성경에서 ‘강한 생명력과 의지’를 상징하는 새로 나오기도 해요.&lt;br&gt;&lt;br&gt;많은 유럽 국가들도 독수리를 국가 상징으로 사용해요. 유럽 문명의 뿌리인 그리스 문명에서도 독수리는 하늘과 땅을 연결해주는 신성한 새로 여겨졌어요. 그리스 신화에 나오는 ‘신들의 왕’ 제우스(Zeus)의 상징 역시 독수리랍니다. 로마 건국 신화에도 독수리가 등장하는데, 로마 제국도 독수리를 상징으로 삼으며 후대 다른 유럽 국가들로까지 이어지죠.&lt;br&gt;&lt;br&gt;심지어 독수리는 서기 394년 로마 제국이 동서로 분열된 뒤에도 여전히 상징 동물로 남았어요. 당시 비잔티움 제국(동로마)은 머리가 두 개인 독수리를 상징으로 삼았는데, 분열된 제국과 교회를 계승한다는 의미였대요. 서유럽의 신성로마제국도 황제의 상징으로 계속 독수리를 사용하죠. 오늘날 독일과 오스트리아, 러시아도 독수리를 국가 상징으로 사용하고 있는데요. 각각 서로마와 동로마 제국의 전통을 계승했다는 의미를 갖고 있답니다. 20세기 히틀러의 나치 역시 로마제국의 독수리를 그대로 가져와 사용했죠.&lt;br&gt;&lt;br&gt;&lt;b&gt;영국 사자는 용맹함이란 뜻&lt;/b&gt;&lt;br&gt;&lt;br&gt;독수리처럼 용맹함을 뜻하는 다른 국가 상징도 있어요. 영국은 왕실과 나라를 상징하는 동물로 사자를 사용하고 있죠. 잉글랜드 축구팀의 상징도 사자랍니다. 중세 시대부터 사자는 권위와 용맹함의 상징으로 여겨졌어요. 십자군 전쟁에서 활약했던 영국의 리처드 1세는 ‘사자심왕’으로 불리며 많은 유럽 국가들의 기록에 활약상이 남아있는데요. 이 시기부터 영국 왕실 문장엔 사자가 들어가기 시작했답니다. 사자가 방패 위를 걷는 듯한 모습은 ‘행동하는 수호자’라는 의미를 담고 있었대요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7DVPO77QZB67LVS3P7TJOB7CU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영국 왕실의 문장이에요. 방패 좌우로 잉글랜드와 스코틀랜드를 상징하는 사자와 유니콘이 서있어요. 방패는 4등분되어 있는데, 좌측 상단과 우측 하단엔 잉글랜드 상징물인 사자가 그려져 있어요. 우측 상단엔 스코틀랜드 상징인 사자, 좌측 하단엔 아일랜드의 상징인 하프가 있습니다. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재 영국 왕실 문장은 엘리자베스 2세 때인 1952년부터 사용하기 시작했어요. 문장 가운데 방패가 그려져 있는데, 잉글랜드·스코틀랜드의 상징인 사자와 아일랜드를 상징하는 하프가 각각 들어 있어요.&lt;br&gt;&lt;br&gt;&lt;b&gt;프랑스 수탉은 위기 극복 상징&lt;/b&gt;&lt;br&gt;&lt;br&gt;하지만 모든 나라들이 독수리나 사자처럼 강인한 동물을 상징으로 삼는 것은 아니랍니다. 프랑스의 국가 상징은 수탉이에요. 오늘날 프랑스 곳곳에선 수탉이 그려진 이미지나 물건을 볼 수 있답니다. 대표적으로 프랑스 축구연맹(FFF) 로고에도 수탉이 들어가 있어요. 프랑스 대통령이 사는 엘리제궁도 수탉 장식으로 꾸며졌답니다. 그만큼 많은 프랑스 사람들이 수탉에 자부심을 느낀다는 뜻이죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3UYT7JRN6ZBA7LPU2WXDR45VGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 열린 스코틀랜드와 프랑스의 럭비 경기에서 수탉 모양 모자를 쓴 프랑스 응원단 모습이에요. 수탉은 프랑스 민중을 상징하는 동물이에요. /게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연약해 보이는 수탉은 어떻게 프랑스 상징이 된 걸까요? 프랑스가 겪은 역사적 위기와 관련 있답니다. 16세기 프랑스에선 종교 내전인 ‘위그노 전쟁’(1562~1598)이 벌어지며 주민들의 삶이 피폐해졌어요. 이때 브루봉 왕조의 시조인 앙리 4세(1553~1610)는 “신이 허락한다면 왕국의 모든 국민이 일요일마다 닭고기를 먹게 하겠다”고 선언했다고 합니다. 이 발언은 프랑스 국민의 생활 수준을 높이겠다는 ‘애민 정신’을 상징하게 됐고, 이후 수탉이 프랑스 민중의 상징으로 자리 잡는 계기가 됐다고 합니다.&lt;br&gt;&lt;br&gt;왕정을 무너뜨린 프랑스 혁명 때는 수탉이 평범한 사람들의 용기와 강인한 정신을 나타내는 것으로 여겨져 혁명 정부의 문서나 물건에 새겨졌어요. 지금도 프랑스 정부가 수여하는 훈장에는 수탉이 그려져 있고, 월드컵 같은 국제 대회가 있을 땐 수탉 모양의 탈을 쓰거나 수탉 인형을 들고 길거리로 나온 프랑스 사람들도 볼 수 있답니다.&lt;br&gt;&lt;br&gt;우리나라를 상징하는 동물도 있어요. 공식적으로 지정된 것은 아니지만, 일반적으로 호랑이와 까치가 한국을 상징하는 동물로 여겨진답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[인사] 국민권익위원회 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/11/06/IPKYP4SZARFB5LBZXFDMWAU7UQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/11/06/IPKYP4SZARFB5LBZXFDMWAU7UQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Nov 2024 17:17:43 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;국민권익위원회&lt;/b&gt;◇과장급 전보▷위원장 비서관 이범석◇팀장급 전보▷채용비리통합신고센터장 김낙렬&lt;br&gt;&lt;br&gt;▲&lt;b&gt;새만금개발청&lt;/b&gt;◇과장급 전보▷신산업전략과장 김연우◇3급 승진▷운영지원과장 오욱연◇4급 승진▷청장실 유제현▷기획재정담당관실 김인▷운영지원과 김영천&lt;br&gt;&lt;br&gt;▲&lt;b&gt;서울신문&lt;/b&gt;▷수석논설위원 이순녀▷논설위원 오일만 김미경 홍희경▷편집국 부국장 겸 전국부장 유영규▷정치부장 강병철▷사회2부장 이두걸▷산업부장 김경두▷디지털금융부장 주현진▷문화체육부장 홍지민▷국제부장 정현용▷기획취재팀장 이창구▷비주얼뉴스부장 강미란▷비주얼뉴스부 선임기자 이다현▷편집제작부장 정보경▷플랫폼전략부장 정연호▷콘텐츠마케팅부장 정영진▷멀티미디어부장 박지환▷뉴미디어랩부장 최여경▷뉴미디어랩 선임기자 조현석&lt;br&gt;&lt;br&gt;▲&lt;b&gt;일요서울신문&lt;/b&gt;▷정치부장(부국장) 장덕수&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조선일보&lt;/b&gt;▷경영기획본부 IT·디지털마케팅 총괄 김태은▷IT팀장 직무대행 방도마▷디지털마케팅팀장 직무대행 장우영&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 김성숙씨 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/11/06/JAJSA5Y33RHOLB2ISR2VAL64JA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/11/06/JAJSA5Y33RHOLB2ISR2VAL64JA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Nov 2024 17:17:05 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;김성숙&lt;/b&gt; 별세, &lt;b&gt;이만득&lt;/b&gt; 삼천리그룹 회장·&lt;b&gt;이란&lt;/b&gt;·&lt;b&gt;이단&lt;/b&gt; 모친상, &lt;b&gt;조신섭&lt;/b&gt; 前 서울대 통계학과 교수 장모상, &lt;b&gt;유계정&lt;/b&gt;·&lt;b&gt;전혜연&lt;/b&gt; 시모상, &lt;b&gt;이은백&lt;/b&gt; 삼천리 대표·&lt;b&gt;이은아&lt;/b&gt;·&lt;b&gt;이은미&lt;/b&gt;·&lt;b&gt;이은희&lt;/b&gt;·&lt;b&gt;이은남&lt;/b&gt;·&lt;b&gt;이은선&lt;/b&gt; 삼천리 전무 조모상, &lt;b&gt;김지욱&lt;/b&gt;·&lt;b&gt;김한준&lt;/b&gt;·&lt;b&gt;이주한&lt;/b&gt;·&lt;b&gt;박준빈&lt;/b&gt; 처조모상, &lt;b&gt;조재석&lt;/b&gt;·&lt;b&gt;진경남&lt;/b&gt;·&lt;b&gt;조효진&lt;/b&gt;·&lt;b&gt;진나연&lt;/b&gt; 외조모상=4일16시33분 서울대병원, 발인 7일8시, (02)2072-2010&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김성진&lt;/b&gt; 별세, &lt;b&gt;최월순&lt;/b&gt; 남편상, &lt;b&gt;김원일&lt;/b&gt; 법무법인 화우 변호사·&lt;b&gt;김원태&lt;/b&gt;·&lt;b&gt;김원웅&lt;/b&gt; 부친상, &lt;b&gt;임명숙&lt;/b&gt;·&lt;b&gt;이지윤&lt;/b&gt;·&lt;b&gt;이미영&lt;/b&gt; 시부상=5일17시 서울대병원, 발인 7일5시, (02)2072-2010&lt;br&gt;&lt;br&gt;▲&lt;b&gt;서정우&lt;/b&gt; 별세, &lt;b&gt;신상례&lt;/b&gt; 남편상, &lt;b&gt;서형석&lt;/b&gt; 연합뉴스TV 스포츠문화부 기자·&lt;b&gt;서경석&lt;/b&gt; 프리랜서 프로그래머·&lt;b&gt;서청석&lt;/b&gt; 부친상=5일8시38분 경희의료원, 발인 7일9시, (02)958-9545&lt;br&gt;&lt;br&gt;▲&lt;b&gt;원용희&lt;/b&gt; 별세, &lt;b&gt;한인희&lt;/b&gt;·&lt;b&gt;한명희&lt;/b&gt;·&lt;b&gt;한창희&lt;/b&gt; 前 충주시장·&lt;b&gt;한완희&lt;/b&gt;·&lt;b&gt;한영희&lt;/b&gt; 모친상, &lt;b&gt;김영연&lt;/b&gt; 장모상, &lt;b&gt;윤화순&lt;/b&gt;·&lt;b&gt;이영란&lt;/b&gt;·&lt;b&gt;김명희&lt;/b&gt; 시모상=5일11시 충주 탄금장례식장, 발인 7일9시, (043)842-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정진철&lt;/b&gt; 前 부평문화원장 별세, &lt;b&gt;최영자&lt;/b&gt; 부평 일광온누리약국 약사 남편상, &lt;b&gt;정세준&lt;/b&gt; 경희한의원 한의사·&lt;b&gt;정혜욱&lt;/b&gt;·&lt;b&gt;정혜정&lt;/b&gt; 부친상, &lt;b&gt;임연수&lt;/b&gt; 부천성모병원 의사·&lt;b&gt;박찬형&lt;/b&gt; KBS 기자 장인상=5일3시59분 인천성모병원, 발인 7일7시, (032)517-0710&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[플라자] 아시아문화콘텐츠연구소 세미나 개최 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/11/06/X4ATGAF6GZDWDC6FYSR3G3DPQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/11/06/X4ATGAF6GZDWDC6FYSR3G3DPQA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Nov 2024 17:16:43 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;아시아문화콘텐츠연구소&lt;/b&gt;(소장 임대근)는 제2회 K-콘텐츠학술문화축제의 일환으로 오는 8일 오후 3시 서울 종로구 동숭동 예술가의 집 다목적홀에서 ‘지역사회의 문화 콘텐츠 쟁점’을 주제로 세미나를 개최한다.&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한반도평화연구원&lt;/b&gt;(원장 조동준)은 15일 오후 2시 서울 종로구 서울글로벌센터 국제회의장에서 ‘북한 내부 상황과 북한 인권 개선 방안’을 주제로 포럼을 연다. 행사는 유튜브로도 실시간 중계된다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정우성 한국과학창의재단 이사장</title>
+      <link>https://www.chosun.com/national/people/2024/11/06/33UQXYSKZFCPBFIEH3WJYMFKX4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/06/33UQXYSKZFCPBFIEH3WJYMFKX4/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Nov 2024 17:16:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I3CSBG6365F7FL54K6PCIAUHTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정우성 포스텍(POSTECH) 산업경영공학과·물리학과 교수가 한국과학창의재단 이사장에 선임됐다. 임기는 3년이다. 정 이사장은 아시아태평양이론물리센터(APCTP) 사무총장, 국가과학기술자문회의 자문위원 등을 지냈다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수많은 헬렌 켈러 위해 ‘수어 뮤지컬’ 만든 시청각장애인</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/11/06/IXZUTRN3PZESFBX7JMHFX6ZXEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/11/06/IXZUTRN3PZESFBX7JMHFX6ZXEU/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Nov 2024 17:14:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DIUNHIJ3ZBE35CNCOTOWAKYBXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 서울 강남구 헬렌켈러 시청각 장애인 학습 지원 센터에서 밀알복지재단 직원인 손창환씨가 수어로 본지와 인터뷰하고 있다. 청각과 시각장애를 동시에 가진 그는 다른 시청각 장애인을 위해 수어 뮤지컬을 만들고, 점자와 수어 등 소통 수단을 가르치고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 4일 서울 강남구의 밀알복지재단 헬렌켈러 시청각장애인 학습지원센터. 오전부터 시청각장애인 3명이 모여 점자 교육 등을 받고 있었다. 강사는 모두 시청각장애인이거나 청각장애인이었다. 이들은 소통이 필요할 때마다 바짝 붙어 손을 맞댔다. 상대와 손을 맞대고 하는 수어인 ‘촉수화’를 해야 하기 때문이다. 촉수화는 보거나 들을 수 없는 시청각장애인에게 필수적인 소통 방식이다. 촉수화로 대화를 나누다가 이해가 안 될 때는 손바닥에 글씨를 쓰는 ‘필담’을 이용했다.&lt;br&gt;&lt;br&gt;강사 중 한 명인 센터 직원 손창환(54)씨도 시청각장애인이다. 전롱(全聾)·전맹(全盲)으로 조용한 어둠 속에 살고 있지만, 이날 그의 얼굴은 밝았다. 손씨는 시청각장애인을 대상으로 점자 읽는 법, 수어 쓰는 법, 점자 정보 단말기 사용법 등을 가르친다. 점자 정보 단말기는 컴퓨터·스마트폰 등에 연결해 쓰는 점자 키보드다. 전자 기기 속 글자를 점자로 바꿔주기도 한다. 시청각장애인들이 책을 읽거나 문서 작업할 때, 인터넷이나 모바일 메신저를 쓸 때 꼭 필요하다.&lt;br&gt;&lt;br&gt;손씨는 서울 곳곳에 사는 시청각장애인들을 찾아가 그들의 이야기를 들어주기도 한다. 손씨는 “전국에 시청각장애인은 1만명 이상으로 추정되지만, 시청각장애가 별도 장애 유형으로 등록돼 있지 않아 관련 정보가 부족하다”며 “집에서만 지내는 시청각장애인​들에게 가장 필요한 건 당신은 혼자가 아니라는 다른 시청각장애인들의 공감”이라고 했다. 이날 인터뷰는 손씨가 촉수화 통역사에게 수어로 전하면 통역사가 이를 말로 풀어주는 방식으로 진행됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M7O3BHWUNBBO7I2KPUTKOAWYDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헬렌켈러 센터에서 촉수화를 통해 소통하고 있는 시청각 장애인들. / 장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;손씨는 날 때부터 귀가 들리지 않았고 시력도 매우 안 좋았다. 어릴 적엔 안경을 쓰고 글자를 읽을 수 있었지만 30대 때 시력이 급속도로 악화해 시청각장애인이 됐다. 그는 “시력을 잃은 직후엔 시청각장애인이 전국에 나뿐인 줄 알았다”며 “눈도 보이고 귀도 들리는데 일자리나 결혼을 걱정하는 다른 젊은 사람들을 보면서 나 자신과 비교돼 낙담한 적도 있다”고 했다.&lt;br&gt;&lt;br&gt;그는 다른 시청각장애인들을 알게 되면서 동질감을 느꼈고 삶의 희망도 보기 시작했다. 2016년 여름, 시청각장애인 6명, 수어 통역사 3명과 함께 제주도로 여행을 갔다. 시청각장애인들은 박물관에 가도 아무것도 느낄 수 없는데, 제주도 항공우주박물관에서 그들이 전시물 차단봉을 넘어가 우주선을 직접 만져보거나 우주선 내부로 들어갈 수 있게 배려해 줬다. 그는 “집에만 있어 침울해했던 시청각장애인들이 제주도 바닷바람을 맞은 뒤론 기분이 풀려서 서로 장난치기 시작했던 것도 기억에 남는다”고 했다.&lt;br&gt;&lt;br&gt;제주도 여행이 끝난 뒤 그는 서울 한 교회의 작은 방을 빌려 시청각장애인 모임인 ‘손끝세(손끝으로 보는 세상)’를 만들었다. 시청각장애인들은 직접 만나야만 소통할 수 있어 모일 수 있는 공간이 매우 중요하다. 5명으로 시작한 손끝세는 현재 각지에서 30여 명이 찾는 전국구 모임이 됐다. 손씨는 “손끝세 사람들과 짧은 수어 뮤지컬을 만들어 내가 다니는 교회에서 공연도 한다”며 ”시청각장애인은 예술을 못 할 거란 편견이 있는데, 우리도 할 수 있다는 걸 알아줬으면 좋겠다. 규모가 큰 수어 뮤지컬을 만드는 게 나의 꿈”이라고 했다.&lt;br&gt;&lt;br&gt;손씨는 그 밖에도 다양한 취미를 가진 ‘취미 부자’다. 어릴 적엔 축구를 좋아했지만, 지금은 역동적인 운동보단 헬스장에서 근력 운동하는 걸 즐긴다. 최근 센터에서 열린 가을 운동회도 그가 이끌었다. “소리 나는 큰 공을 굴리는 게임이 가장 인기가 많았다”면서 “보거나 듣진 못하지만 다들 얼굴이 밝아지고 크게 웃고 있는 듯한 느낌을 받았다“고 했다. 그는 시청각장애인들에게 요리 수업도 하고 있다. 센터엔 시청각장애인들이 쓸 수 있는 세탁기와 조리 도구 등이 구비돼 있다. 손씨는 ”고등학교를 졸업하고 제빵 일을 10년이나 해서 요리가 손에 익었다”며 뿌듯해했다.&lt;br&gt;&lt;br&gt;현행법상 시청각장애인들은 시각장애와 청각장애를 따로따로 등록해야 한다. 시청각장애가 별도의 장애 유형이 아니기 때문이다. 이 때문에 시청각장애인을 위한 지원이 부족하다고 손씨는 말했다. 그는 “시청각장애인이 됐을 때 시각장애인과 청각장애인을 위한 시설을 모두 가봤는데 두 군데 다 저를 거절했다”며 “어디에도 속하지 못했던 경험을 시청각장애 아동들에게 전해주고 싶지 않다”고 했다. 그는 “가장 중요한 건 교육”이라며 “시청각장애가 별도의 장애 유형으로 인정받으면 시청각장애인들도 국가의 지원으로 올바른 교육을 받을 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞시청각장애인&lt;/b&gt;&lt;br&gt;&lt;br&gt;시각 장애와 청각 장애를 모두 갖고 있는 장애인. 보고 들을 수 없기 때문에 상대방의 수어에 손을 대는 ‘촉수화’로 소통한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>백내장 잡았더니… 안과 비급여 진료 확 줄었다</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/11/06/VSFVIBO7YBHBVIYJYTREIJJWKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/11/06/VSFVIBO7YBHBVIYJYTREIJJWKM/</guid>
+      <dc:creator>한예나 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Nov 2024 16:45:30 +0000</pubDate>
+      <content:encoded>안과에 지급되는 실손보험금 중 건강보험이 지원되지 않는 비급여 진료비 비율이 4년 만에 80%대에서 20%대로 뚝 떨어졌다. 반면 정형외과와 가정의학과의 실손보험금 중 비급여 비율은 70%대를 유지해 대조를 이뤘다. 실손보험금 누수의 대표 원인으로 지목됐던 진료 가운데 안과의 백내장 수술은 ‘입원이 불필요하다’는 대법원 판결로 과잉 진료가 어려워진 반면, 정형외과와 가정의학과의 도수 치료와 비급여 주사 치료 등은 여전히 성행하고 있기 때문이란 지적이다.&lt;br&gt;&lt;br&gt;5일 본지가 삼성화재·현대해상·KB손해보험·DB손해보험·메리츠화재 등 5개 손해보험사에서 취합한 ‘실손보험 주요 진료과별 지급보험금 추이’에 따르면, 안과의 비급여 지급 보험금 비율은 2020년 80.3%에서 올해 상반기(1~6월) 28.9%로 급감했다. 안과의 비급여 진료비로 지급된 실손보험금은 2022년 4836억원에 달했지만, 올 상반기 314억원으로 줄었다.&lt;br&gt;&lt;br&gt;이는 대법원 판결이 직접적인 원인이라는 분석이 지배적이다. 2022년 6월 대법원은 “백내장 수술을 받은 환자들에게 일괄적으로 입원 치료를 인정해서 실손보험금을 지급하면 안 된다”는 판결을 내놨다. 통원 치료로 가능한 백내장 수술을 입원 치료로 처리해 보험금을 과다 지급하면 안 된다는 취지다.&lt;br&gt;&lt;br&gt;의료계 인사들은 “일부 안과가 실손보험에 가입한 백내장 수술 환자를 자동으로 입원시켜 수익을 극대화하는 관행에 제동을 건 것”이라고 했다. 서울의 한 대학병원 교수는 “비급여인 백내장 수술 비용은 병원별로 200만~1000만원 정도로 편차가 크다”면서도 “여기에 환자가 입원을 하게 되면 병실 입원료에 각종 검사비까지 합쳐 비용이 배 이상 늘어나는 경우도 많다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S6FU2AGXCJB5RB7WCMLSQHVPYE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 보험사 실손보험의 경우 입원 치료에 5000만원 한도의 실손보험금을 지급하지만, 통원 치료에는 하루 25만원 한도로 보험금을 지급한다. 백내장 관련 수술이 매년 늘었지만, 대법원 판결 후 수술과 입원을 합친 실손보험을 타기 어려워지면서 백내장 보험 지급액이 감소한 것이다.&lt;br&gt;&lt;br&gt;하지만 보험업계가 마냥 웃을 수만은 없다. 이런 구멍들을 잡아내도, 또 다시 보험금을 빼먹을 수 있는 새로운 비급여 항목들이 나타나기 때문이다. 비급여란 건강보험 급여가 적용되지 않는 진료 항목을 말하는데, 필수 의료 위주의 급여 항목과는 달리 보건 당국의 관리를 거의 받지 않는 사각지대에 놓여있다. 이 때문에 비급여를 이용한 실손보험 타먹기가 성행하고 있다. 도수 치료나 비타민·영양 주사 등이 대표적이다.&lt;br&gt;&lt;br&gt;보건복지부 관계자는 “병원은 환자에게 ‘진료·수술비는 실손보험으로 돌려받을 수 있다’며 비급여 치료를 권해 수익을 낼 수 있다”며 “환자도 실손보험으로 환급을 받으면 별 손해가 없기 때문에 과도한 의료 이용으로 인한 의료비 낭비가 초래된다”고 했다.&lt;br&gt;&lt;br&gt;안과를 제외한 주요 진료과별 현황을 보면, 올해 상반기 기준 정형외과(71%)와 가정의학과(70.4%)는 모두 비급여 비율이 70%를 넘었다. 의료계 인사들은 “두 진료과에서 비급여인 도수치료, 증식치료(통증 완화), 체외충격파(조직 재생) 치료 등이 집중적으로 이뤄진 결과”라고 했다.&lt;br&gt;&lt;br&gt;또 한방병원(65.4%)과 소아청소년과(65%), 이비인후과(56.5%), 비뇨의학과(53.5%), 산부인과(51.5%)의 비급여 비율도 50%를 넘었다. 이 진료과들도 최근 ‘성장판 주사’ 등 비급여 항목 진료를 늘려가고 있다. 복지부 관계자는 “중소형 병원에서 실손보험을 많이 청구하는 경향이 있다”며 “이는 중환자를 치료하지만 경제적 보상은 높지 않은 대학병원 교수들의 이탈을 촉진하고 있어 대책을 마련 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“화재 진압 맡겨주세요” 공무원들 민방위 훈련</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/06/64DSJ6A2UJADVETICHPINJIFVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/06/64DSJ6A2UJADVETICHPINJIFVY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Nov 2024 16:43:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WQ3VSV667ZHVLMQVCOAOTMVSQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 오후 정부서울청사에서 민방위 훈련이 열렸다. 민방위복을 입은 공무원들이 소방 호스를 이용해 불 끄는 훈련을 하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내 性 정체성 팔아… ‘페북’이 돈벌이했다</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/06/AQ6GT564PVGA7GR33EHASPABTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/06/AQ6GT564PVGA7GR33EHASPABTU/</guid>
+      <dc:creator>최연진 기자, 김영우 기자, 황규락 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Nov 2024 16:41:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EWD2BXCCSFGFPOB7QDPQIW553I.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;페이스북과 인스타그램을 운영하는 미국 메타가 국내 페이스북 회원 98만명의 종교, 정치 성향, 동성혼 여부 등 개인 정보를 광고에 활용한 사실이 드러나 216억원대 과징금을 물게 됐다. 과거 메타, 구글 등이 이용자가 다른 사이트에서 활동한 정보를 무단 수집해 ‘맞춤 광고’에 활용하다가 제재를 받은 적은 있지만, 이번처럼 개인의 민감한 정보까지 활용한 사례가 적발된 것은 처음이다.&lt;br&gt;&lt;br&gt;개인정보보호위원회는 전체 회의를 열고 개인정보보호법을 어긴 메타에 과징금 216억1300만원과 과태료 1020만원을 부과하기로 의결했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VH7NELHO6BHWVFUSHISKGCDKB4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 과징금은 위원회가 부과한 역대 과징금 액수 중 셋째로 많다. 첫째는 2022년 구글(692억원), 둘째는 같은 해 메타(308억원)가 받았다. 당시 메타는 이용자가 페이스북 아이디로 로그인한 사이트의 활동 정보를 무단 수집해 페이스북 맞춤 광고에 활용한 사실이 드러나 과징금 처분을 받았다.&lt;br&gt;&lt;br&gt;위원회에 따르면, 이번에 메타는 2018년 7월부터 2022년 3월까지 국내 페이스북 이용자 98만명의 종교, 정치 성향, 동성혼 여부, 탈북자 여부 등 민감한 개인 정보를 활용해 광고 수익을 올린 사실이 적발됐다. 광고주 4000여 곳이 이 정보를 이용해 광고했다.&lt;br&gt;&lt;br&gt;페이스북에는 종교, 동성혼 여부 등 자신의 정보를 입력하는 ‘프로필’이 있는데 이 정보를 맞춤 광고에 활용한 것으로 파악됐다. 메타는 프로필에 입력된 정보뿐 아니라 이용자가 어떤 페이스북 게시물에 ‘좋아요’를 누르는지까지 파악해 분석·활용한 것으로 조사됐다. 위원회 관계자는 “이 정보를 토대로 메타는 전세계 이용자를 9만7000그룹으로 나눠 ‘초정밀 맞춤 광고’ 용도로 활용했다”고 했다. 예를 들어, 남북 경제 협력 사업을 하는 단체가 ‘탈북자’들에게 맞춤 광고를 하길 요청하면 ‘탈북자’ 그룹으로 분류한 이용자들에게 ‘남북 경제 협력 사업’ 광고를 노출하는 식이다.&lt;br&gt;&lt;br&gt;위원회는 이를 국내 개인정보보호법 위반으로 판단했다. 개인정보보호법에 따르면, 종교나 정치 성향 등 민감한 개인 정보는 이용자의 동의를 받아야 활용할 수 있는데, 메타는 별도로 이용자 동의를 받지 않은 것으로 조사됐다. 위원회 관계자는 “페이스북 ‘데이터 정책’ 페이지에 두루뭉술하게 정보를 수집할 수 있다고 했을 뿐 수집되는 정보와 수집 목적 등도 명시하지 않았다”고 했다.&lt;br&gt;&lt;br&gt;광고주들은 이 정보를 토대로 맞춤 광고를 내보낼 수 있었다. 위원회에 따르면, 메타는 2019년 국내 시민 단체의 맞춤 광고 요청을 받고 프로필에 ‘동성과 결혼’이라고 입력한 이용자 정보를 무단으로 광고에 활용했다. 이용자가 페이스북에 로그인하면 해당 시민 단체의 인권 교육 행사 광고가 노출됐다. 위원회 관계자는 “이용자는 이 시민 단체가 어떻게 내 성적(性的) 성향을 알고 계속 광고를 띄우는지 놀랐을 것”이라며 “엄격히 관리해야 할 개인의 성적 성향 등 정보를 몰래 수집해 쓴 중대한 불법 행위”라고 했다.&lt;br&gt;&lt;br&gt;이와 관련해 메타 측은 “이용자의 프로필 등 정보를 그룹화하고, 광고주가 요청하면 해당 그룹에 광고가 나오게 하는 방식을 쓴 것으로 개인의 민감한 정보를 수집한 게 아니다”라며 “개개인의 신상이 광고주에게 유출된 적도 없다”고 주장한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;메타가 이런 방식으로 올린 수익은 메타 측이 자료 제출을 거부해 파악하지 못했다고 위원회는 밝혔다. 과징금 액수는 메타의 전체 매출과 국내 이용자 수 등을 계산해 산출했다.&lt;br&gt;&lt;br&gt;메타가 위원회 제재를 받은 것은 이번이 처음이 아니다. 2020년 이후 6차례 제재를 받았고 5번은 과징금도 물었다. 과징금 총액이 720억원이 넘는다. 메타는 이 중 3건에 대해 행정소송을 벌이고 있다.&lt;br&gt;&lt;br&gt;이번 결정에 대해 메타코리아 측은 “위원회의 제재 의결서를 면밀히 검토한 뒤 대응할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;메타는 위원회가 조사에 착수하자 민감한 개인 정보 수집을 중단하고 만들어 놓은 그룹도 파기했다고 위원회는 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“고도로 훈련받았을 가능성”… 女군무원 살해 육군 소령, 프로파일러 분석은</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/05/6SIORFKJK5BHVHAWVKTEBP7RLU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/05/6SIORFKJK5BHVHAWVKTEBP7RLU/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Nov 2024 14:19:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2B5KFCY3RPYVBBKSCNXIGJX3M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;강원 화천 북한강에 30대 여성의 시신을 훼손해 유기한 혐의를 받는 30대 후반의 현역 육군 중령이 5일 춘천지법에서 열린 영장실질심사를 마치고 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;함께 근무하던 여성 군무원을 살해한 뒤 시신을 훼손하고 강에 유기한 현역 군 장교의 증거인멸 정황이 속속 드러나는 가운데, 한 프로파일러가 범인이 군에서 받은 고도의 특수 훈련 경험을 토대로 완전범죄를 노렸을 수 있다는 분석을 내놨다.&lt;br&gt;&lt;br&gt;배상훈 프로파일러는 5일 YTN ‘슬기로운 라디오생활’에서 “특수하게, 고도의 훈련을 받은 사람일 수 있다”며 “그래서 살인이라는 걸 어렵지 않게 하지 않았나라는 의구심이 분명하게 든다”고 했다.&lt;br&gt;&lt;br&gt;배 프로파일러는 “자신이 근무하는 부대의 주차장, 다른 사람도 볼 수 있는 곳에서 대단히 신속하고 빠르게 살인한 후에 빠르게 유기를 결정했다는 것은 이 사람의 심리가 대단히 위험한 상태라고 볼 수 있다. 아무리 ‘살인 기술자’라 하더라도 사람이 시선이 있는 곳에서는 쉽게 살인하기 어렵다”며 “본인이 얘기하는 동기 말고도 뭔가 숨겨진 게 있을 거라는 추정은 분명히 가능하다”고도 했다.&lt;br&gt;&lt;br&gt;앞서 현직 육군 소령인 A(38)씨는 지난달 25일 오후 3시쯤 경기도 과천시 한 군부대 주차장 내 자신의 차량 안에서 같은 부대에서 근무하던 계약직 군무원 B(33)씨와 말다툼을 벌이다 격분해 목을 졸라 살해한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;살해 후 시신을 유기하는 과정에서 A씨가 완전범죄를 시도한 듯한 정황이 잇달아 드러났다. 강원경찰청과 연합뉴스 등에 따르면, A씨는 살해 후 피해자의 시신에 옷가지를 덮어놓고는 차량을 빠져나와 태연히 근무를 이어가다 오후 9시쯤 부대 인근 건물에서 시신을 훼손했다. 건물은 철거 공사가 진행 중인 곳이었기 때문에 경찰이 A씨 검거 후 압수수색에 들어갔을 때는 이미 옹벽과 바닥 등이 철거된 상태였다. 시신 훼손 당시 직접 준비해 온 도구들로 혈흔 등 흔적을 남기지 않은 것으로도 파악됐다.&lt;br&gt;&lt;br&gt;시신을 훼손한 A씨가 유기 장소로 택한 곳은 10여년 전 자신이 근무한 경험이 있던 강원 화천군이었다. A씨는 범행 이튿날인 26일 오후 9시 40분쯤 화천 북한강에 시신을 유기했다. 시신이 금방 떠오르지 않도록 시신을 담은 봉투에 돌덩이를 넣었으며, 시신을 훼손할 때 쓴 도구들은 북한강 곳곳에 버렸다.&lt;br&gt;&lt;br&gt;시신 유기 다음날인 27일부터는 B씨 휴대전화를 이용해 피해자가 살아있는 것처럼 보이도록 했다. 부대 측에 B씨 휴대전화로 “휴가 처리해달라”며 결근을 통보하는 메시지를 보내고, 돌아다니며 휴대전화를 껐다 켜는 수법으로 생활반응이 있는 것처럼 꾸몄다. B씨의 가족과 지인에게도 메시지를 보낸 것으로 알려졌다. 28일 서울 송파구에 있는 산하 부대로 전근 발령을 받은 뒤에는 정상적으로 출퇴근하며 태연히 일상생활을 이어갔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CBN3QL52VDU7TBWGPQJV5NAG5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;훼손된 시신이 발견된 강원도 화천 북한강에서 3일 경찰이 수색을 하고 있다. /연합뉴스TV&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 지난 2일 시신 중 일부가 물에 떠오르면서 A씨 범행에 예기치 못한 ‘변수’가 생겼다. 시신이 부패하면서 가스가 차는 데다 물까지 새어 들어갈 경우 생기는 화학반응과 삼투압 현상으로 떠오를 수 있다는 가능성까지는 예측하지 못한 것이다. A씨는 이날은 물론 검거 당일인 3일까지도 B씨의 휴대전화를 쓰며 ‘1인 2역’을 이어간 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이에 대해 배 프로파일러는 “알리바이를 만들기 위해 피해자가 살아있는 듯 문자를 보내고, 시신을 심하게 훼손했다. 또 (시신 담은 봉투에) 돌을 넣었다”며 “이 세 가지를 봤을 때 분명히 계획성이 존재했다는 의심이 간다”고 했다.&lt;br&gt;&lt;br&gt;배 프로파일러는 A씨가 ‘우발적인 범행’을 주장하는 점을 두고 “형량을 10년 안쪽으로 받으려고 하는 것”이라며 “우발적 살인은 (형량이) 10년 조금 넘는 반면, 계획적 살인은 거의 2배”라고 했다.&lt;br&gt;&lt;br&gt;A씨는 현재 살인, 사체손괴, 사체유기 혐의로 구속된 상태다. 춘천지법 박성민 영장 전담 판사는 5일 “증거 인멸과 도주 우려가 있다”며 A씨에 대해 구속영장을 발부했다. 경찰은 A씨의 정확한 범행 동기 등을 조사하는 한편, 신상공개 여부를 검토 중이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2024년 11월 6일</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/06/5IS73AH74NHSNNS7QGRPZH7XPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/06/5IS73AH74NHSNNS7QGRPZH7XPI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Nov 2024 15:48:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OESK4ZDTLNGBVENUFAALCGL5VA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] hit the hay</title>
+      <link>https://www.chosun.com/national/nie/english/2024/11/06/2BGYSGKPDJA3FILAMHGGHVD2YQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/11/06/2BGYSGKPDJA3FILAMHGGHVD2YQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Nov 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E6QYMIM2XBE57OHIXS47BYJ3L4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2495] 열려라, 단어 창고</title>
+      <link>https://www.chosun.com/national/nie/2024/11/06/HWQJQVBEEVHW5B2F2SZCUWS22E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/11/06/HWQJQVBEEVHW5B2F2SZCUWS22E/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Nov 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BKGFSROMUBBDVCYGJCZJEGLR7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디] 복도, 회랑</title>
+      <link>https://www.chosun.com/national/nie/chinese/2024/11/06/4JC62Y2GXFAWXNQDKA2MQDSLQY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/11/06/4JC62Y2GXFAWXNQDKA2MQDSLQY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Nov 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7VVV3GYOHRH7NIUEWIIONGYWEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 탄약고(彈藥庫)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2024/11/06/VDCHEV666BAD5DB4YZR5J4EEN4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/11/06/VDCHEV666BAD5DB4YZR5J4EEN4/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Nov 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4WHDGRIDIFB7PP2AQS7GANYQEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[입에 착착 붙는 일본어] (약속을) 어기다, 바람맞히다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2024/11/06/DCNQPKSZVJFADJNX66YIMNUCDU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/11/06/DCNQPKSZVJFADJNX66YIMNUCDU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Nov 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R44IARVRERC75LWJ2SNPPBKY5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“축의금 조금 내고 겁나 X 먹어”… 김종국 발언 와글와글</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/06/MFD6LVLAZFH3RJ3RWHF7ZSXD6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/06/MFD6LVLAZFH3RJ3RWHF7ZSXD6M/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Nov 2024 15:13:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V6UFDYFORVHSFHTSISPXHNM76E.png"&gt;&lt;figcaption&gt;&lt;small&gt;/SBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개그맨 조세호 결혼식에 참석한 김종국이 축의금을 상대적으로 적게 낸 하객을 조롱하는 듯한 발언을 해 논란이 일었다.&lt;br&gt;&lt;br&gt;김종국은 지난 3일 방송된 SBS 예능 프로그램 ‘런닝맨’에서 조세호 결혼식에 대한 뒷이야기를 나누다 유튜버 조나단을 두고 “축의금 얼마 하지도 않아 놓고 겁나 X 먹더라고”라고 언급했다. 유재석이 “안 그래도 종국이가 옆에 조나단을 앉혀두고 되게 말을 많이 하더라”고 말한 데 대한 반응이었다.&lt;br&gt;&lt;br&gt;방송에서는 출연진이 웃어넘겼지만, 온라인상에서는 김종국 발언이 논란이 되기 시작했다. 조나단이 2000년생으로 사회초년생에 불과한 나이인 만큼, 축의금 액수를 지적하는 듯한 발언은 부적절하다는 것이다. 네티즌 사이에서는 “나이도 어린데 축의금 운운할 필요가 있나” “축하하러 기쁜 마음으로 가도 민폐, 진상 소리 듣는 세상이라니” “돈 없으면 참석하지 말라는 말보다 무섭다” 등의 반응이 나왔다. 다만 “그냥 웃기려고 오바한 거 같다” “당사자가 문제 삼지 않는데 제삼자가 왈가왈부할 필요 없다” 등 김종국 발언이 문제 될 것 없다는 의견도 다수 있었다.&lt;br&gt;&lt;br&gt;축의금 액수에 관한 논쟁은 하객들 사이에서 지속해서 나오는 주제 중 하나다. 축의금 액수로 갈등이 생겼다는 사연들도 눈에 띈다. 자연스럽게 얼마 정도의 축의금이 적절한지에 관한 질문도 쉽게 찾아볼 수 있다.&lt;br&gt;&lt;br&gt;5일 카카오페이가 축의금 송금 관련 데이터를 분석한 결과에 따르면, 평균 축의금 비용은 지난 9월 기준 9만원으로 나타났다. 이는 2021년 평균 축의금 7만3000원보다 약 23% 증가한 수치다. 연령별로 보면 20대 평균 축의금은 약 6만원, 30‧40대는 약 10만원, 50‧60대는 약 12만원이었다. 사회 초년생인 20대는 상대적으로 축의금을 적게 내고, 사회생활을 할수록 금액이 커지는 것으로 해석된다.&lt;br&gt;&lt;br&gt;나이를 막론하고 ‘적정 축의금’이라고 생각하는 건 10만원이었다. 카카오페이가 지난 1~3일 진행한 투표에 참여한 총 74만652명의 이용자 중 58%가 10만원을 적정 축의금으로 선택했다.&lt;br&gt;&lt;br&gt;평균 축의금 액수가 증가한 배경 중 하나로 고물가 흐름에 맞춰 결혼식장 식대도 올랐다는 점이 꼽힌다. 특히 결혼식 ‘실종’을 불러왔던 코로나 사태가 끝난 뒤부터 웨딩업계가 식대와 ‘스드메’(스튜디오·드레스·메이크업), 웨딩홀 대여 등의 가격을 일제히 올렸다는 평가가 많다. 웨딩업계 등에 따르면, 서울 대부분 결혼식장의 식대는 7만∼8만원 선이다. 강남권은 식대가 8만∼9만원을 상회하는 곳도 적지 않다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서울시, 전국 최초로 ‘킥보드 없는 거리’ 추진</title>
       <link>https://www.chosun.com/national/national_general/2024/11/05/MHVHBG6RIRBXXLDMF6VNM4SMOA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/05/MHVHBG6RIRBXXLDMF6VNM4SMOA/</guid>
@@ -666,15 +855,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VFWU2VGQXBDB5B4XXEC4OBDEMU.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 서울 강남구 역삼동 테헤란로에서 20대 김모씨가 차량을 잇달아 들이받고 역주행하고 있다. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남 한복판에서 역주행하며 8중 추돌 사고를 낸 20대 무면허 운전자가 사고를 낸 뒤 어머니에게 전화를 걸어 시동을 어떻게 끄는지 모르겠다고 말한 것으로 밝혀졌다.&lt;br&gt;&lt;br&gt;경찰에 따르면 운전자 김모씨는 지난 2일 오후 1시쯤 운전면허 없이 어머니 소유의 차를 몰고 서울 송파구 거여동 이면도로에서 4세 아들을 태운 유모차를 밀던 30대 여성을 치고 달아났다. 약 40분 뒤에는 강남구 역삼동 테헤란로에서 차량을 잇달아 들이받고 역주행까지 한 뒤 현행범으로 체포됐다. 이 사고로 9명이 가벼운 부상을 입고 김씨 차량을 포함해 자동차와 오토바이 등 총 8대가 파손됐다.&lt;br&gt;&lt;br&gt;김씨는 사고 직후 어머니에게 전화를 걸어 “차 박았어. 어떡해 엄마? 10대 박았어”라고 말했다. 어머니가 “건드리지 말고 시동 꺼”라고 조언했지만, 김씨는 “시동 끄는 걸 몰라. 어떻게 꺼!”라며 “사람쳤어. 어떡해”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3T7AHS6SQNAYBCIOLDMOJOTTLI.gif"&gt;&lt;figcaption&gt;&lt;small&gt;김씨가 어머니 차를 운전하자 어머니가 이를 말리는 모습이 CCTV에 포착됐다. /JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김씨는 ‘택시를 타고 가라’는 어머니의 만류에도 차를 운전해 송파구 거여동 어머니 집에서 강남구 논현동 자신의 집으로 향하던 길이었던 것으로 파악됐다. 어머니가 차를 따라가며 김씨를 말리려는 모습이 CCTV에 포착됐다.&lt;br&gt;&lt;br&gt;김씨의 어머니는 취재진에 “정신과 약 복용한 지가 7년 정도 됐다”며 “환청이 들리고 헛것도 보인다고 그랬다”고 말했다. 사고 당일에는 김씨가 몰래 차 열쇠를 들고 빠져나가 말릴 새가 없었다며 “제가 자식을 잘못 가르쳐 놔서 이런 상황이 생겨서 피해자들께 진심으로 죄송하다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 경찰 조사에서 불면증으로 신경안정제를 처방받아 복용하고 있다고 진술했다. 운전학원에 다녔지만 면허를 따지는 못했고 사고 이전에도 여러 차례 어머니 차를 운전한 적이 있다는 취지로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4KUPK6AB6BIS7G4S7ZQ2MI7QMY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김씨가 4일 오후 서울 서초구 서울중앙지방법원에서 열린 영장실질심사에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 신영희 영장전담 부장판사는 김씨가 도망할 염려가 있다며 구속영장을 발부했다. 경찰은 국립과학수사연구원에 김씨의 혈액과 신경안정제 등의 정밀감정을 의뢰한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“WS 우승 반지 딸게요” 美 명문가 손주, 한국인 할머니와 약속 지켰다</title>
-      <link>https://www.chosun.com/national/people/2024/11/05/7J2SYAHW4BF53GCT2LMAC6PGSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/05/7J2SYAHW4BF53GCT2LMAC6PGSU/</guid>
-      <dc:creator>양승수 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Nov 2024 16:30:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DOGKHWRC5ZCWPJCWFOYSECVKGM.png"&gt;&lt;figcaption&gt;&lt;small&gt;데버라 곽(왼쪽) 여사가 손자 토미 현수 에드먼과 지난 2017년 6월 스탠퍼드대 야구장을 찾았다. /데버라 곽 가족 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국 프로야구 메이저리그(MLB) 우승을 차지한 LA 다저스에는 ‘LA의 손자’로 불리는 토미 현수 에드먼(29)이 있다. 그는 한국인 어머니를 둔 한국계 미국인이다. 이번 포스트 시즌 16경기에서 타율 0.328(61타수 20안타) 2홈런 13타점을 기록하며 다저스 우승에 결정적인 몫을 했다. 내셔널리그 챔피언 결정전(NLCS)에서는 0.407 1홈런 11타점으로 시리즈 최우수선수(MVP)도 거머쥐었다.&lt;br&gt;&lt;br&gt;손자가 우승하자 가장 기뻐한 사람 중 하나는 외할머니 데보라 곽(80·한국 이름 정태후). 에드먼의 한국 이름 ‘현수(賢洙)’를 직접 지은 주인공이다. 지난 3일(한국 시각) LA에 사는 곽 여사를 전화로 만났다. 곽씨는 “현수가 너무 자랑스럽다. LA 한인들이 현수를 ‘우리들의 손주’라고 부르고 있다”고 전했다.&lt;br&gt;&lt;br&gt;그는 “큰 외손자 조니에 이어 1995년 5월 9일 둘째 외손자 토미가 (미시간주에서) 태어나자 딸 경아(모린 에드먼)가 ‘한국 이름을 중간 이름으로 넣고 싶다’고 해서 고심 끝에 골랐&lt;b&gt;다”면서 “‘현명하고 빼어나다’라는 의미와 더불어 수(洙)에 ‘물 수’ 변이 있어 빠르다는 뜻도 함께 담았다”고 설명했다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;곽씨는 “어렸을 때부터 (현수는) 남다른 재능을 보이던 아이였다. 친구들과도 잘 지내고, 명문대(윌리엄스 칼리지)를 나온 사위와 딸을 닮아 공부도 잘했고 야구도 잘했다. 손주가 남에게도 존경받고, 자기 자리에서 빛을 발하는 사람이 되기를 바랐다”고 말했다.&lt;br&gt;&lt;br&gt;에드먼은 이름 그대로 성장했다. 초등학교 때 야구를 시작한 그는 고교 시절에도 우수한 성적(졸업 평점 4.5 만점에 4.48)을 바탕으로 스탠퍼드대에 야구 장학생으로 진학했다. 계산과학(Mathematical Computational Science) 전공으로 3년 반 만에 조기 졸업했다. 졸업 평점 3.82. 스탠퍼드대 야구부 100년 역사에서 가장 높은 평점이었다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FO3BGFFIJNAXHBINZPR6FKMRP4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;내셔널리그 챔피언 결정전 MVP 트로피를 든 토미 현수 에드먼. /AP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;에드먼은 졸업 후 MLB 도전을 택했다. 2016년 MLB 신인 선발에서 6라운드 196순위로 세인트루이스 카디널스에 지명됐다. 177㎝ 81㎏으로 리그에선 비교적 작은 체구지만 성실성으로 극복했다. 마이너리그를 거쳐 2019년 메이저리그에 데뷔, 2021년 내셔널리그 골드글러브를 수상하면서 재능을 꽃피우기 시작했다. 올해 다저스로 이적한 뒤엔 더 빛을 발했다. 포스트 시즌 내내 다저스 중심 타선에서 맹활약했다. 곽씨는 “(보통 손자를 보러 경기장에 가지만) 리그 챔피언 결정전 마지막 날엔 집에서 TV를 보면서 결과를 기다리는데 잠시 다른 일로 한눈을 판 사이 갑자기 전화가 막 쏟아지더라. 알고보니 손주가 MVP를 받았더라”라고 전했다.&lt;br&gt;&lt;br&gt;곽씨는 한국에서 고려대 상대를 졸업하고 체이스맨해튼은행 서울지점 창립 멤버로 일했다. 그는 “은행 일 하며 기초를 다지고, 이민 후에도 은행에서 일하며 가족을 부양했다”고 했다. 곽씨는 수의사인 남편(곽민수)과 두 딸 경아·현아와 함께 1977년 미국으로 이민 와 LA 인근 몬테레이파크에 자리를 잡았다. 은행 경험을 살려 LA에서도 가주외환은행(CKB)과 하나금융에서 오래 일했다.&lt;br&gt;&lt;br&gt;큰딸 경아씨(토미 어머니)는 같은 학교를 다니던 남편(존 에드먼 주니어)을 만나 대학을 졸업하던 해 결혼했다. 곽씨는 “처음엔 딸 결혼을 반대했지만 결국 승낙했다. 좋은 가정이 될 것 같았다”고 했다. 이어 “사위가 야구를 굉장히 좋아했다. 그래서 애들이 어렸을 때부터 야구장에서 자랐다”고 덧붙였다.&lt;br&gt;&lt;br&gt;토미 아버지 존 역시 대학(윌리엄스 칼리지) 야구부 출신으로, 이후 미시간대에서 박사과정을 밟다가 중단하고 지금은 미 캘리포니아주 샌디에이고 라호야 컨트리데이스쿨에서 수학 교사와 야구부 코치를 겸하고 있다.&lt;br&gt;&lt;br&gt;토미 할아버지 존 에드먼 시니어는 자동차 회사 제너럴모터스(GM) 금융 계열사 GMAC에서 회장까지 지낸 인물이다. 곽씨는 “토미의 할아버지가 정말 대단한 분이셨던 것으로 기억한다”고 말했다. 토미의 형 조니는 휘턴 칼리지를 나와 MLB 미네소타 트윈스 전력분석원으로 있다. 여동생 엘리스도 컴퓨터과학을 전공하고 MLB 세인트루이스 카디널스에서 일하다 지금은 IT 회사 연구원으로 있다. 야구가 가족의 공통 전공이었던 셈이다.&lt;br&gt;&lt;br&gt;곽씨는 “현수가 오이김치랑 잡채를 특히 좋아한다. 한국 음식을 먹을 때마다 한국인이라는 걸 자랑스럽게 여기더라”면서 “한국계라는 정체성에 자부심이 있다”고 했다. 그 자부심이 지난해 월드베이스볼클래식(WBC)에서 한국 국가대표로 출전하게 된 배경이다. 지난해 3월 WBC 훈련을 위해 한국에 입국했을 때 토미는 “외할머니가 한국 문화를 알려주셨다”면서 “연장자에게는 정중하게 인사해야 한다고 하셨다”고 말한 바 있다. 곽씨는 “처음으로 한국 땅을 밟고, 한국 대표로 경기에 나서면서 큰 자부심을 느꼈다고 한다. 기쁘고 또 자랑스러웠다”고 했다.&lt;br&gt;&lt;br&gt;곽씨는 토미가 처음 미국 프로야구에 발을 들였을 때 “‘월드시리즈 우승 반지 2개는 받아야지’”라면서 응원했다고 한다. 그는 “이번에 다저스가 우승한 뒤 ‘할머니가 말했던 반지 이제 1개 남았네’라고 말하자, 손주가 ‘프레이 포 모어(Pray for more)’라고 답했다. 기특하고 장하다”고 말했다. “워낙 다재다능한 아이다. 만약 (선수 생활을 마친 뒤엔) 감독으로 선수들을 지도하면 멋진 여정을 이어가면 좋겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 경기 종합병원 11명 “내년 복귀”… 전공의들 돌아오나</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/11/05/EIQJLLUQDVFFTK6QN2MUNLJSC4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/11/05/EIQJLLUQDVFFTK6QN2MUNLJSC4/</guid>
@@ -682,15 +862,6 @@
       <description/>
       <pubDate>Mon, 04 Nov 2024 20:05:00 +0000</pubDate>
       <content:encoded>경기도에 있는 A 종합병원의 사직 전공의들이 최근 대한전공의협의회(대전협) 지도부에 “내년 초 복귀하겠다”는 뜻을 전달한 것으로 4일 알려졌다. A 병원의 전공의 대표 한 명을 제외하고, 나머지 사직 전공의 11명 전원이 복귀하겠다는 것이었다. 이에 대전협 집행부는 “(의대 증원 백지화 등) 기존 대정부 7대 요구안에서 요구 사항을 더 늘리겠다”며 수습에 나섰다고 한다.&lt;br&gt;&lt;br&gt;정부의 의대 증원에 반발해 올 초 집단 사직한 전공의들 사이에선 “내년에도 투쟁을 계속한다”는 목소리가 여전히 다수다. 하지만 “대화, 복귀가 필요하다”는 전공의 목소리도 점차 높아지고 있다.&lt;br&gt;&lt;br&gt;영남의 한 사직 전공의는 “수능이 열흘밖에 안 남았는데 전공의 지도부는 지금 상황이 어떻고, 향후 계획이 뭔지 각 병원 대표 전공의들에게조차 설명하지 않고 있다”며 “지도부가 지금처럼 ‘묻지 마 (투쟁) 1년 더’를 고수한다면, 차라리 내년에 복귀해 수련을 마칠 것”이라고 했다.&lt;br&gt;&lt;br&gt;본지가 지난달 31일 만난 각 병원 사직 전공의 대표 3명도 “환자를 저버렸다는 비판을 받아가며 고생한 지난 1년이 물거품이 될까 봐 걱정”이라고 했다. 이 불안감이 복귀와 대화 목소리를 키우고 있다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OVYJBIGZWJBSNOZP375I2QBKIY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;직접적 원인은 시기다. 오는 14일 수능이 치러지고, 다음 달 초가 되면 의대 합격자가 발표된다. 의대 증원은 되돌릴 수 없게 된다는 의미다. 여기에 전공의 수뇌부의 ‘불통 행태’가 기름을 붓고 있다는 지적이다.&lt;br&gt;&lt;br&gt;수도권 한 병원의 사직 전공의 대표 B씨는 “현 상황이 궁금해 박단 대전협 비상대책위원장에게 전화를 해도 받지 않는다”고 했다.&lt;br&gt;&lt;br&gt;지방의 한 병원 전공의 대표 C씨는 “이 중요한 시기에 박단 위원장이 왜 여야의정 협의체 참여를 거부했고, 왜 정부와 싸우지 않고 대한의사협회장과 싸우는지 모르겠다”며 “이 정도 사안이면 우리의 의사를 물어봤어야 했는데 그런 게 없었다”고 했다. 이들은 “박단 위원장이 지난 4월 대통령과의 면담 내용을 아직도 알려주지 않고 있다”고 했다.&lt;br&gt;&lt;br&gt;이들 3명 중 2명은 “지금대로라면 내년 초 복귀할 것”이라고 했고, 1명은 “고민 중이지만, 주변엔 1년 더 투쟁해야 한다는 의견이 많다”고 했다.&lt;br&gt;&lt;br&gt;또 이 중 2명은 “이젠 정부와 대화를 해야 할 때”라고 했다. 사직 전공의 B씨는 “대화를 거부하고 아무것도 안 하는 동안 간호법이 통과됐고 내년도 대학 입시까지 거의 다 진행이 됐다”며 “계속 당할 바에는 여야의정 협의체에 나가서 우리 의사를 명확히 전달하는 게 낫다”고 했다. 반면 사직 전공의 C씨는 “아직은 협상할 때가 아니라는 입장이 다수이고, 저 역시 동의한다”고 했다.&lt;br&gt;&lt;br&gt;수도권 병원의 전공의 대표 D씨는 “정부에 대한 반감이 가장 크다”고 했다. 여러 내부 문제에도 전공의 분열이 외부로 드러나지 않는 것은 이 때문이란 것이다. D씨는 그가 경험한 낮은 수가(건보공단이 병원에 주는 돈) 사례를 말했다. “의료진 10명이 들어간 수술이 있었는데, 의사 한 명의 시간당 수술료가 편의점 알바보다 낮았다”며 “(수가 기준) 약값은 몇 원짜리도 있다. 처음엔 이럴 수가 있나 했는데 한두 개가 아니더라”고 했다. 이들은 “이런 문제엔 귀 닫고 있다가 급조한 의대 증원만 막무가내로 밀어붙였다”고 했다.&lt;br&gt;&lt;br&gt;D씨는 “전공의 일부가 복귀를 한다고 해도 문제는 해결되지 않을 것”이라며 “사람 살리겠다는 자긍심 하나로 버티던 필수과 전공의들 대부분이 (개원가의) 미용, 통증으로 가 이미 적응을 했다”고 했다. C씨는 “얼마 전 우리 병원 인턴들에게 지망하는 전공과 조사를 한 적이 있는데, 필수과인 내과, 외과, 소아과 지망생은 0명이었다”며 “의대생은 필수과 기피 성향이 훨씬 더 심하다. 정부가 의대 증원을 해도 이들은 필수과로 안 간다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 서울시민 76%가 “전동 킥보드 막아야”</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/05/S4625YEKBBEY5IBMMM57UKT4ME/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/05/S4625YEKBBEY5IBMMM57UKT4ME/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Nov 2024 20:03:00 +0000</pubDate>
-      <content:encoded>서울시민 10명 중 7명이 전동 킥보드 퇴출에 찬성한다는 조사 결과가 나왔다.&lt;br&gt;&lt;br&gt;4일 윤영희 서울시의원(국민의힘)이 서울시에서 받은 ‘개인형 이동 장치(PM) 대시민 인식 조사 결과’에 따르면, 조사 대상 서울시민 75.6%가 전동 킥보드 운행 금지 조치에 찬성하는 것으로 나타났다. 서울시는 지난 9월 15~69세 서울시민 1000명을 대상으로 온라인 설문조사를 실시했다.&lt;br&gt;&lt;br&gt;조사 결과, 전동 킥보드 때문에 불편을 겪은 적이 있다는 응답자는 79.2%였다. 서울시 관계자는 “보도나 건널목 등에 아무렇게나 주차된 전동 킥보드 때문에 통행에 불편을 겪은 시민이 많다는 뜻”이라고 했다.&lt;br&gt;&lt;br&gt;조사 대상 1000명 중 363명은 전동 킥보드 등 개인형 이동 장치를 타본 적이 있다고 했는데 이 중 95%가 “위험하다고 느꼈다”고 했다.&lt;br&gt;&lt;br&gt;이와 관련해 전동 킥보드 규제를 강화해야 한다는 의견이 많았다. 통행을 방해하는 전동 킥보드를 바로 수거하는 등 견인 조치를 강화해야 한다는 주장에 93.5%가 찬성했다. 현재 서울시는 불편 신고가 접수되면 출동해 전동 킥보드를 견인하고 있다.&lt;br&gt;&lt;br&gt;전동 킥보드 등 개인용 이동 장치의 최고 속도를 현행 시속 25㎞에서 20㎞로 낮춰야 한다는 응답은 88.1%였다.&lt;br&gt;&lt;br&gt;서울시와 서울시의회에서도 전동 킥보드를 퇴출해야 한다는 주장이 나오고 있다. 프랑스 파리는 작년 9월 주민투표를 거쳐 전동 킥보드 서비스를 금지했다. 윤영희 시의원은 “스페인 마드리드, 캐나다 몬트리올, 호주 멜버른 등으로 전동 킥보드 금지 조치가 확산되고 있다”며 “불편하다고 느끼는 시민이 많은 만큼 서울시도 적극 검토할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;현재 서울에는 4개 업체가 전동 킥보드 4만4000대를 운영하고 있다. 전동 킥보드 등 개인형 이동 장치 사고도 늘어나고 있다. 도로교통공단에 따르면, 서울 지역 개인형 이동 장치 사고 건수는 2019년 134건에서 지난해 500건으로 늘어났다. 4년 만에 3.7배가 된 것이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘강남 母女 살해’ 박학선, 무기징역 부당하다며 항소</title>
@@ -702,51 +873,6 @@
       <content:encoded>서울 강남구에서 모녀(母女)를 흉기로 수차례 찔러 살해한 혐의로 구속 기소돼 1심에서 무기징역(無期懲役)을 선고받은 박학선(65)이 판결에 불복해 항소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BJEDHR34EW4MJXKEC5BR63RD5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강남 오피스텔에서 모녀 관계 여성 2명에게 흉기를 휘둘러 숨지게 한 피의자 박학선(65)의 머그샷(범죄인 식별 사진). /서울경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 법조계에 따르면 살인 혐의를 받는 박학선은 전날(4일) 법원에 항소장을 제출했다. 이는 주말(2~3일)을 제외하면 1심 선고가 내려진 지 사실상 하루 만이다.&lt;br&gt;&lt;br&gt;앞서 지난 1일 서울중앙지법 형사23부(재판장 오세용)는 “살인범죄는 존엄하고 절대적인 가치를 지닌 사람의 생명을 비가역적으로 침해하는 범죄로 다른 어떤 범죄보다도 죄질이 무겁고 비난가능성이 높다. (박학선을) 영구히 사회에서 격리해야 한다”며 박학선에게 무기징역을 선고했다.&lt;br&gt;&lt;br&gt;검찰은 “최근 심각해지는 연인 간 범죄에 경종을 울려야 될 필요가 있는 사정 등을 감안해 사형을 선고해달라”고 요청했지만, 재판부는 “피고인을 엄중한 형으로 처벌할 사유는 인정되지만 사형이 정당하다고 명백하게 단정하긴 어렵다”면서 사형을 선고하진 않았다.&lt;br&gt;&lt;br&gt;1심 선고 직후 피해자들의 유족은 기자들과 만나 “(박학선이) 사람을 2명이나 죽였는데 무기징역형을 받은 건 어이가 없다”며 “항소심에 간다면 사형이 나왔으면 좋겠다”고 울분을 토로하기도 했다.&lt;br&gt;&lt;br&gt;박학선은 지난 5월 30일 서울 강남구 한 오피스텔에서 자신과 교제하던 60대 여성 A씨와 그의 30대 딸 B씨를 살해한 혐의로 재판에 넘겨졌다. 박학선은 딸 B씨를 먼저 살해한 뒤, 도망가는 A씨를 비상계단 통로까지 쫓아가 살해한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;박학선은 A씨로부터 “가족이 반대한다”는 이유로 이별을 통보 받자, 피해자들의 사무실로 따라 올라가 범행을 저지른 것으로 조사됐다. 이 범행 이후 박학선은 택시 등을 타고 도주했지만, 범행 13시간 만에 경찰에 체포됐다. 경찰은 범행의 잔인성과 피해의 중대성 등을 고려해 그의 얼굴과 이름·나이 등을 공개했다.&lt;br&gt;&lt;br&gt;수차례 이혼과 재혼을 반복한 박학선은 다른 여성과 이미 사실혼 관계에 있었으면서도 A씨에게 접근했던 것으로 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘바디프랜드 경영권 분쟁’ 창업주‧사모펀드 최대주주 구속영장 기각</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/05/H4Q23AHGFNG7NDCY5SUG5QHUD4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/05/H4Q23AHGFNG7NDCY5SUG5QHUD4/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Nov 2024 16:21:53 +0000</pubDate>
-      <content:encoded>안마 의자 회사 바디프랜드의 경영권을 놓고 분쟁을 벌이다 서로를 고소한 창업자 강웅철 전 이사회 의장과 사모 펀드 한앤브라더스의 대주주 한주희씨의 구속영장이 5일 모두 기각됐다. 한씨의 측근인 바디프랜드 CFO(최고재무책임자) 양모씨의 구속영장도 기각됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYA2ZLRN6YFJMWDFDT2IOM6WIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안마 의자 회사 바디프랜드 창업주인 강웅철 전 이사회 의장이 4일 오전 서울 서초구 서울중앙지방법원에서 열린 영장실질심사에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 남천규 영장전담 부장판사는 4일 오전 강 전 의장과 한씨, 양씨에 대한 영장실질심사를 연 뒤, 구속영장을 모두 기각했다고 이날 밝혔다. 남 부장판사는 강 전 의장에 대해 “주요 범죄의 성립 여부에 대해 다툼의 여지가 있고, 불구속 상태에서 충분한 방어기회를 보장할 필요가 있다. 현 단계에서 구속사유와 필요성을 인정하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;남 부장판사는 한씨에 대해선 “일부 변호사법 위반 혐의와 관련한 범죄사실은 소명된다”면서도 “사기‧배임 혐의의 경우 다툼의 소지가 있고, 현 단계에선 증거를 인멸하거나 도망할 염려가 있다고 보기 어렵다”고 했다. 양씨에 대해선 “현 단계에선 증거를 인멸하거나 도망할 염려가 있다고 보기 어렵다”는 것이 남 부장판사의 판단이다.&lt;br&gt;&lt;br&gt;검찰 수사는 경영권을 놓고 분쟁을 벌이던 강 전 의장과 한씨 양측이 “회삿돈을 유용했다”며 서로를 배임·횡령 등 혐의로 맞고소하면서 시작됐다. 한앤브라더스는 2022년 7월 스톤브릿지캐피탈과 함께 바디프랜드를 인수했다. 이후 스톤브릿지캐피탈과 한앤브라더스가 서로 주도권을 갖기 위해 다투며 분쟁이 시작된 것이다. 이 과정에서 강 전 의장은 스톤브릿지캐피탈 측에 섰고, 한앤브라더스 측과 갈등하는 구도가 됐다.&lt;br&gt;&lt;br&gt;강 전 의장 측은 “한씨가 ‘회사의 어려움을 해결해주겠다’며 정·관계, 법조계 등 각계 고위 인사들에게 로비할 명목으로 23억원 상당을 받아가 가로챘다”며 고소했다. 두 달치 호텔 스위트룸 숙박비를 법인카드로 결제하는 등 회삿돈을 유용한 혐의로 한씨와 양씨를 고소하기도 했다. 반면 한앤브라더스 측은 강 전 의장이 62억원의 직무발명보상금을 횡령하고 법인카드를 부정 사용한 혐의가 있다며 강 전 의장을 검찰에 고소했다.&lt;br&gt;&lt;br&gt;검찰은 한씨가 정·관계와 법조계에 로비를 벌였다는 의혹과 관련해 변호사법 위반 혐의를 집중적으로 들여다보고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 고위공직자범죄수사처 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/11/05/5RP2GPYTIJF2HICQDWMYPKLP6U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/11/05/5RP2GPYTIJF2HICQDWMYPKLP6U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Nov 2024 16:33:03 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;고위공직자범죄수사처&lt;/b&gt;▷수사3부장 이대환▷수사4부장 차정현◇검사 전보▷수사3부 박상현▷수사4부 김지윤 송영선 최문정&lt;br&gt;&lt;br&gt;▲&lt;b&gt;기획재정부&lt;/b&gt;▷재정관리국장 박봉용&lt;br&gt;&lt;br&gt;▲&lt;b&gt;외교부&lt;/b&gt;◇국장 인사▷부대변인 유창호&lt;br&gt;&lt;br&gt;▲&lt;b&gt;재외동포청&lt;/b&gt;▷재외동포정책국장 이기성&lt;br&gt;&lt;br&gt;▲&lt;b&gt;민주평화통일자문회의 사무처&lt;/b&gt;◇고위공무원 승진▷위원지원국장 송순철&lt;br&gt;&lt;br&gt;▲&lt;b&gt;서울경제신문&lt;/b&gt;▷편집국 국차장 겸 산업부장 이철균&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 우경애씨 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/11/05/5HIGHQ67WZFBPG5DB5DGMR7UKA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/11/05/5HIGHQ67WZFBPG5DB5DGMR7UKA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Nov 2024 16:32:14 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;우경애&lt;/b&gt; 별세, &lt;b&gt;박상조&lt;/b&gt; 前 공정거래위원회 상임위원 아내상, &lt;b&gt;박향림&lt;/b&gt;·&lt;b&gt;박진희&lt;/b&gt;·&lt;b&gt;박은혜&lt;/b&gt; 모친상, &lt;b&gt;이상민&lt;/b&gt; 前 헤럴드경제 기자·&lt;b&gt;이대희&lt;/b&gt; 블리자드 이사 장모상=3일20시41분 강동성심병원, 발인 6일6시, (02)2152-1346&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이계림&lt;/b&gt; 前 춘천초 교사 별세, &lt;b&gt;권진영&lt;/b&gt; 뉴스1 국제부 기자 조모상=3일20시50분 강원대병원, 발인 6일8시, (033)254-5611&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>양한광 국립암센터 원장</title>
-      <link>https://www.chosun.com/national/people/2024/11/05/NJFY6BOD5NEUVHLBGRQ6F3COA4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/05/NJFY6BOD5NEUVHLBGRQ6F3COA4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Nov 2024 16:31:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VMYLGGK54BFYVECXLAIPW3ENCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양한광 신임 국립암센터 원장. /보건복지부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양한광(64) 서울대 의대 외과 교수가 국립암센터 원장에 임명됐다. 임기는 3년. 서울대 암병원장, 대한암학회 이사장, 국제위암학회 사무총장 등을 지냈다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘위 아 더 월드’ 제작 美 퀸시 존스 별세</title>
-      <link>https://www.chosun.com/national/people/2024/11/05/VHZSKT7KTJH53EHUW7K3EU6HZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/05/VHZSKT7KTJH53EHUW7K3EU6HZU/</guid>
-      <dc:creator>윤수정 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Nov 2024 16:31:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XDBMRK4TOZAUVFSJ64C2XKCJ4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;퀸시 존스. /로이터 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘마이클 잭슨의 프로듀서’이자 20세기 최고의 음반제작자로 이름을 날린 팝 거장 퀸시 존스(91·Quincy Jones)가 3일(현지 시각) 별세했다. 가족들은 성명을 통해 “존스가 로스앤젤레스 벨 에어 구역의 자택에서 가족들에게 둘러싸여 세상을 떠났다”고 밝혔다.&lt;br&gt;&lt;br&gt;1933년 미국 시카고 흑인 빈민가에서 태어난 존스는 14세 때 미국 시애틀 재즈 클럽 연주자로 처음 음악 활동을 시작했다. 훗날 재즈 거장으로 불리는 16세의 레이 찰스가 그의 밴드 동료였다. 본격적인 팝 음악 편·작곡에 뛰어든 1950년대부턴 엘라 피츠제럴드, 세라 본, 프랭크 시나트라, 어리사 프랭클린, 도나 서머 등 쟁쟁한 유명 가수들의 히트곡을 탄생시켰다.&lt;br&gt;&lt;br&gt;1980년대부턴 마이클 잭슨의 최고 명반들로 꼽히는 ‘오프 더 월(Off The Wall·1979년)’ ‘스릴러(Thriller·1982)’ ‘배드(Bad·1987)’의 제작자로 대중음악계 판도를 바꿨다는 찬사를 받았다. 1985년 1월 마이클 잭슨이 아프리카 구호를 위해 밥 딜런, 스티비 원더, 라이어널 리치 등 유명 팝스타 40명을 모아 녹음한 노래 ‘위 아 더 월드(We are the world)’ 역시 존스가 프로듀싱을 맡으며 탄생할 수 있었다.&lt;br&gt;&lt;br&gt;존스는 흑인 노예 출신이란 외가의 뿌리를 딛고 ‘최초의 흑인 음악인 수상 기록’을 다수 개척하기도 했다. 1968년 영화 배닝의 OST ‘The Eyes of love’ 작곡에 참여해 오스카상 최우수 주제가 후보에 오른 최초의 아프리카계 미국인이 됐고, 미국 최고 권위 음악상 그래미 시상식에선 80번의 후보 지명, 28개의 수상 기록을 남겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>수능 D-9… “대박나세요” 후배들의 응원</title>
       <link>https://www.chosun.com/national/education/2024/11/05/MAKAS7V4V5EY7J4B37PINGTMIE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/11/05/MAKAS7V4V5EY7J4B37PINGTMIE/</guid>
@@ -756,24 +882,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N6V5VWAAKZBC7HO6XNNWWRJ2RI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;입동을 이틀 앞둔 5일에는 전국 아침 최저기온이 영상 2~11도로 뚝 떨어질 것으로 예보됐다. 지난 3일 서울 명동 거리 상점에 겨울옷이 진열돼 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>베트남·인도네시아 가사관리사도 도입 검토</title>
-      <link>https://www.chosun.com/national/labor/2024/11/05/MKGRW5WDWJEP3IQY3STJWWVA3I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/11/05/MKGRW5WDWJEP3IQY3STJWWVA3I/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description>‘외국인 가사관리사’를 필리핀 외 다른 국가에서도 들여오는 방안이 추진된다. 4일 고용노동부와 서울시는 외국인 가사관리사의 인력 송출국 대상 국가를 캄보디아, 베트남, 인도네시아 등 다른 국가로 확대하는 안을 검토하고 있다고 밝혔다. 현재 서울 지역에 한해 시행되고 있는 외국인 가사관리사 시범 사업은 송출국을 필리핀으로 한정하고 있지만, 내년 본사업에선 필요 인원이 늘어나는 만큼 송출국을 대거 확대하겠단 것이다.고용노동부와 서울시는 국내 가정의 육아 부담을 줄이기 위해 외국인 가사관리사 시범 사업을 추진해 9월부터 100명의 필리핀 인력을 국내 가정에 투입했다. 양 기관은 내년까지 외국인 가사관리사 도입 규모를 1200명으로 늘릴 예정이다. 외국인 가사관리사는 고용허가제(E-9)를 통해 국내로 들어오기 때문에 고용허가 송출국으로 지정된 국가만 가사관리사 송출국이 될 수 있다. 캄보디아, 베트남, 인도네시아, 필리핀 등 16개 국가가 우선 대상인데 별도의 국가 간 협약 등이 필요하다.그러나 외국인 가사 관리사를 둘러싼 고임금 논란 등이 해결되지 않은 상태에서 숫자와 국가만 늘리는 건 부적절하다는 지적도 나온다. 현재 가정에서 1일 8시간씩 한 달간 서비스를 이용하면 급여 208만원 외 보험료 등을 합쳐 238만원을 내야 한다. 내년에는 최저임금이 시간당 1만30원으로 올라 이용료도 그만큼 올라 부담도 더욱 올라갈 전망이다.</description>
-      <pubDate>Mon, 04 Nov 2024 16:25:22 +0000</pubDate>
-      <content:encoded>‘외국인 가사 관리사’를 필리핀 외 다른 국가에서도 들여오는 방안이 추진된다. 4일 고용노동부와 서울시는 외국인 가사 관리사를 캄보디아, 베트남, 인도네시아 등 다른 국가에서도 선발하는 방안을 검토하고 있다고 밝혔다. 현재 서울 지역에 한해 시행되고 있는 외국인 가사 관리사 시범 사업은 필리핀으로 한정하고 있지만, 내년 본사업에선 필요 인원이 늘어나는 만큼 출신 국가를 확대하겠단 것이다.&lt;br&gt;&lt;br&gt;외국인 가사 관리사 시범 사업은 국내 가정의 육아 부담을 줄이려는 목적으로 지난 9월부터 100명의 필리핀 인력이 국내 가정에 투입되며 시작됐다. 고용노동부와 서울시는 내년까지 외국인 가사 관리사 규모를 1200명으로 늘릴 예정이다. 외국인 가사 관리사는 고용 허가제(E-9)를 통해 국내로 들어오기 때문에 우리와 고용 허가 인력 송출 협약을 맺은 국가에서만 인력을 받을 수 있다. 고용노동부 관계자는 “캄보디아, 베트남, 인도네시아, 필리핀 등 16개 국가가 후보”라며 “어느 국가에서 인력을 받을지는 정해지지 않았다”고 했다.&lt;br&gt;&lt;br&gt;다만, 외국인 가사 관리사를 둘러싼 고임금 논란 등이 해결되지 않은 상태에서 숫자와 국가만 늘리는 건 부적절하다는 지적도 나온다. 현재 가정에서 1일 8시간씩 한 달간 서비스를 이용하면 급여 208만원 외 보험료 등을 합쳐 238만원을 내야 한다. 내년 최저임금이 시간당 1만30원으로 오르면 부담도 그만큼 더 커진다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내 나이가 어때서… 스스로 훈련받는 ‘시니어 아미’</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/05/66QO4C2KUNH4PMT7OCVWU6MVDI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/05/66QO4C2KUNH4PMT7OCVWU6MVDI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Nov 2024 16:21:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QJN3L3TMVJAJ5HFAJT5I2YKJBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노인 부대인 ‘시니어 아미’ 회원들이 4일 강원도 춘천의 예비군 훈련장에서 국기에 대한 경례를 하고 있다. 시니어 아미는 “은퇴한 노인이 나서 나라를 지키고 인구 감소에 따른 병력 부족 문제도 해결하자”며 작년 6월 창단했다. 노인, 여성 등 자원자를 모아 자체적으로 훈련한다. 국방부 사단법인이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이재명이 만든 성남도시개발공사, 李에 5억 손배소</title>
       <link>https://www.chosun.com/national/court_law/2024/11/05/VLPYPCFGIRF7RIBCARGDRNZFBM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/05/VLPYPCFGIRF7RIBCARGDRNZFBM/</guid>
@@ -781,24 +889,6 @@
       <description/>
       <pubDate>Mon, 04 Nov 2024 16:20:19 +0000</pubDate>
       <content:encoded>경기 성남시 산하기관인 성남도시개발공사가 대장동 개발 특혜 의혹과 관련해 이재명 더불어민주당 대표 등을 상대로 수억 원대 손해배상청구 소송을 냈다. 대장동 개발 사업에서 얻은 부당 이득을 돌려 달라는 취지다. 공사는 이 대표가 성남시장이던 2013년 설립했으며 대장동 개발 사업을 추진했다. 공사가 이 대표를 상대로 손해배상을 청구한 것은 처음이다. 이 대표는 작년 3월 대장동 개발 특혜 의혹과 관련해 불구속 기소돼 형사재판을 받고 있는데 민사재판도 받게 됐다.&lt;br&gt;&lt;br&gt;공사는 지난달 10일 수원지법 성남지원에 5억1000만원 손해배상 청구 소송을 제기했다고 4일 밝혔다. 공사는 이 대표와 정진상 전 민주당 대표실 정무조정실장(대장동 개발 당시 성남시 정책실장), 유동규 전 성남도시개발공사 기획본부장, 정영학 회계사, 정민용 변호사 등 5명을 상대로 소송을 냈다.&lt;br&gt;&lt;br&gt;공사는 앞서 2022년 ‘화천대유’ 대주주 김만배씨와 남욱 변호사 등을 상대로도 민사소송을 냈다.&lt;br&gt;&lt;br&gt;공사 관계자는 “이 대표 형사재판이 늘어지면서 자칫 손해배상 청구권의 소멸시효가 만료될 수 있어 소송을 내게 됐다”고 했다. 손해배상 청구권은 불법행위를 안 날로부터 3년, 불법행위를 한 날로부터 10년이 지나면 소멸된다.&lt;br&gt;&lt;br&gt;공사는 “5억1000만원인 손해배상 청구액은 형사재판 결과를 보고 더 늘릴 것”이라고 했다.&lt;br&gt;&lt;br&gt;대장동 개발 특혜 의혹은 이 대표가 성남시장으로 재직할 당시 성남시 대장동을 개발하면서 화천대유에 수천억 원에 달하는 개발 이익을 몰아줬다는 것이다. 공사는 이 대표 등이 민간 업체인 화천대유에 유리한 사업 구조를 설계해 공사에 4895억원 손해를 끼친 것으로 보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>위례신사선 또 유찰… 예산 들여 짓는다</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/05/4TKTLOU6RZHQNGGDGSEGUBCGB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/05/4TKTLOU6RZHQNGGDGSEGUBCGB4/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Nov 2024 16:20:00 +0000</pubDate>
-      <content:encoded>위례 신도시와 서울 강남구를 연결하는 위례신사선 경전철 민간투자 사업이 결국 불발됐다. 서울시는 직접 예산을 들여 사업을 추진할 것이라고 밝혔다. 그러나 사업 방식을 민자 사업에서 재정 사업으로 바꾸면 개통 시기는 2028년에서 2030년 이후로 지연될 것으로 보인다.&lt;br&gt;&lt;br&gt;서울시는 4일 “위례신사선 민자 사업자를 찾기 위해 2차 공고를 냈으나 마감 시한까지 신청서를 낸 업체가 없었다”며 “민자 사업을 재정 사업으로 전환해 추진하기로 했다”고 밝혔다. 지난 6월 우선 협상 대상자였던 GS건설이 공사비 상승 등을 이유로 사업을 포기한 이후 두 차례 사업자 모집 공고를 냈지만 결국 최종 유찰된 것이다.&lt;br&gt;&lt;br&gt;서울시는 지난 8월 사업비를 1조4847억원에서 1조7605억원으로 2758억원 증액해 1차 공고를 냈지만 신청한 업체가 없었고, 이후 사업비를 775억원 추가 증액해 2차 공고를 냈지만 이마저도 유찰됐다. 서울시는 사업비를 늘리면 관심을 갖는 업체가 있을 것이라고 기대했으나 이날 마감 시한까지 신청서를 낸 업체는 없었다.&lt;br&gt;&lt;br&gt;업계에서는 사업 추진 방식을 재정 사업으로 바꾸면 개통이 최소 2~3년은 지연될 것이라는 전망이 나온다. 기획재정부 예비타당성 조사 등 절차를 새로 밟아야 하기 때문이다. 막대한 재정 부담도 문제다. 서울시 관계자는 “예비타당성 조사를 통과하면 최대한 빨리 사업자를 선정해 공사에 들어갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;위례신사선은 서울 송파구와 경기 성남·하남 일대에 조성한 위례 신도시와 서울 강남구 신사역을 잇는 14.7㎞ 길이 경전철이다. 2008년부터 추진됐으나 17년째 표류 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>북한강 토막 살인범은 軍 소령, 피해자는 동료 군무원</title>
-      <link>https://www.chosun.com/national/incident/2024/11/05/A6PACERZUFEHNHU2MG333ZASD4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/05/A6PACERZUFEHNHU2MG333ZASD4/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Nov 2024 16:19:37 +0000</pubDate>
-      <content:encoded>강원도 화천군 북한강에 30대 여성의 시신을 토막 내 유기한 범인이 현직 소령인 것으로 확인됐다. 피해 여성은 같은 부대에서 근무했던 계약직 군무원이었다.&lt;br&gt;&lt;br&gt;강원경찰청 형사기동대는 4일 브리핑을 열고 “피의자 A씨는 30대 후반으로 중령 진급을 앞두고 있는 군 간부”라고 밝혔다. A씨는 육군사관학교 출신으로, 범행 당시 경기도 과천에 있는 국군 사이버작전사령부에서 근무한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 지난달 25일 오후 3시쯤 군부대 주차장에 세워둔 자신의 차량 안에서 피해자 B씨와 말다툼을 하다가 B씨를 목 졸라 살해했다. 경찰 관계자는 “당시 A씨와 B씨는 같은 부대, 같은 사무실에서 근무하던 사이였다”면서 “B씨는 33세 여성으로 임기제 군무원이었다”고 했다. 임기제 군무원은 군부대에서 일하는 계약직 직원이다. B씨의 계약 기간은 10월 말까지였다. 경찰은 “두 사람이 다툰 이유 등은 조사 중”이라고 했다.&lt;br&gt;&lt;br&gt;A씨는 B씨를 살해한 뒤 같은 날 오후 9시쯤 부대 인근 공사장에서 B씨의 시신을 훼손한 것으로 파악됐다. A씨는 B씨의 시신을 비닐봉지 10개에 나눠 담은 뒤 다음 날인 26일 오후 9시 41분쯤 강원 화천 북한강에 버렸다고 한다. 경찰은 “A씨가 10여 년 전 화천 지역 부대에서 근무한 적이 있어 지리에 익숙한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 시신을 담은 비닐봉지가 떠오르지 않도록 돌덩이를 함께 넣은 것으로 조사됐다. 시신을 훼손하는 데 쓴 도구들은 북한강 곳곳에 버렸다고 한다.&lt;br&gt;&lt;br&gt;A씨는 범행이 들통날 것을 우려해 27일 B씨의 휴대전화로 직장 동료에게 “퇴직 날까지 휴가 조치를 부탁한다”는 내용의 메시지를 보냈다. B씨의 가족에게도 안부를 묻는 카카오톡 메시지를 보냈다고 한다.&lt;br&gt;&lt;br&gt;A씨는 B씨의 휴대전화 전원을 껐다 켰다 반복하며 이 같은 메시지를 보냈고 경찰에 검거되기 전 서울 강남구 일원역 근처 주차장 배수로에 휴대전화를 버렸다.&lt;br&gt;&lt;br&gt;A씨는 범행 사흘 뒤인 28일 서울 송파구에 있는 부대로 전근했다. 경찰은 “A씨가 범행 후에도 평소와 다름없이 태연하게 근무한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;A씨의 범행은 지난 2일 오후 화천군 화천읍 화천체육관 인근 북한강에서 다리로 보이는 시신 일부가 떠올랐다는 주민 신고가 접수되면서 꼬리를 밟혔다. 3일에는 시신을 담은 비닐봉지 7개가 잇따라 발견됐다.&lt;br&gt;&lt;br&gt;경찰은 시신에서 확인한 지문과 DNA 감식 결과, 통신 수사 내용 등을 통해 A씨를 유력한 용의자로 특정했다. 이어 3일 오후 7시 12분쯤 서울 강남구 일원역 지하 도로에서 A씨를 긴급 체포했다. A씨는 범행을 인정했다. 공범은 없는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 이날 살인과 사체 손괴·은닉 혐의로 A씨에 대해 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>손목 당겼다고 아동 학대? 5년 만에 대법이 바로잡았다</title>
@@ -811,51 +901,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/NEHSDSUO25CXREXT3XEV4JAMUY.png?width=1600&amp;height=900&amp;auth=d546bc937d73aae124320f2c7ec562852c6283dae3f94bd9eeee540546d2be41&amp;smart=true" type="image/png" height="900" width="1600"/>
     </item>
     <item>
-      <title>[입에 착착 붙는 일본어] 물건을 사러[하러] 가다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/11/05/5BKXP3GA2BE3LCAZ54X4QDVK3A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/11/05/5BKXP3GA2BE3LCAZ54X4QDVK3A/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Nov 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AREICGPZE5CWJGN4ON2WPI7GNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 발을 헛디디다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/11/05/44STMFKI4VDNJC3P5PTTKOKKV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/11/05/44STMFKI4VDNJC3P5PTTKOKKV4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Nov 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LKUV5QAVJ5GI3GVQXMSUGBWL3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2494] 로꾸거 암송클럽</title>
-      <link>https://www.chosun.com/national/nie/2024/11/05/6K66TFAUEZB75KKOCBKRZKCH24/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/11/05/6K66TFAUEZB75KKOCBKRZKCH24/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Nov 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ET44H443LBG25PLTSRSR6KFN5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] watch one's calories</title>
-      <link>https://www.chosun.com/national/nie/english/2024/11/05/PJUW6H6UXZEHBDAFSL4I33WL6Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/11/05/PJUW6H6UXZEHBDAFSL4I33WL6Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Nov 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VR7CEPLXGBDJHGOTIUCDEYEBOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 묵서(墨書)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/11/05/HYXUBMFJAFAM3EIR6CDXSMMXMA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/11/05/HYXUBMFJAFAM3EIR6CDXSMMXMA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Nov 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/II4JG4OO7JCQ5KH6V4PTAYYFQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 날씨] 2024년 11월 5일</title>
       <link>https://www.chosun.com/national/national_general/2024/11/05/J7BUX6XCZBDYJDX6ZRAMSFPUJM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/05/J7BUX6XCZBDYJDX6ZRAMSFPUJM/</guid>
@@ -863,46 +908,6 @@
       <description/>
       <pubDate>Mon, 04 Nov 2024 15:31:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TZDCLJ4JMJB2XMX4NNO455X3B4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [사소한 역사] 종교 건축서 천국 상징하던 둥근 지붕… 20세기 들어선 야구장 천장 덮었죠</title>
-      <link>https://www.chosun.com/national/nie/2024/11/05/WWWS322DSVAB3FQN4ZTZSOLZ6U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/11/05/WWWS322DSVAB3FQN4ZTZSOLZ6U/</guid>
-      <dc:creator>황은하 상경중 역사 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Nov 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BH5CYHAYDVEQFKUBATRCQOPZWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1965년 미국 텍사스 휴스턴에 지어진 세계 최초 돔 경기장 ‘애스트로돔’이에요. /게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올 한 해 1000만명 이상 관객이 찾으며 흥행한 한국 프로 야구에서 최근 KIA 타이거즈가 최종 우승을 차지했어요. 그런데 올가을엔 유난히 비가 많이 내려서 최초로 우승팀을 가리는 한국시리즈 경기가 연기되기도 했답니다. 팽팽하던 경기가 갑자기 중단되자 많은 야구팬은 날씨와 상관없이 경기를 할 수 있는 돔(dome) 경기장이 더 필요하다고 성토했죠. 스포츠와 공연장으로 익숙한 돔 형식 건축물은 사실 오래전 로마 시대부터 등장했던 건축 양식이랍니다.&lt;br&gt;&lt;br&gt;돔은 건물 천장을 반구(半球) 모양 지붕으로 덮은 형식을 말해요. 천장이 동그란 형태인 집은 원시 시대부터 있었지만, 대규모 건축물에 돔 같은 동그란 천장을 적용한 시기는 로마 시대부터랍니다. 돔이라는 말 역시 라틴어로 ‘신의 집’을 뜻하는 단어 ‘domus dei’에서 비롯됐어요. 로마 시대의 돔 건축물은 어원에서 알 수 있듯이 대부분 신전이었답니다. 대표적인 신전이 판테온이에요. 서기 118~120년쯤 만들어진 것으로 추정되는 판테온에서 돔은 신들이 존재하는 하늘을 의미한다고 합니다.&lt;br&gt;&lt;br&gt;이후 돔 양식은 유럽 성당들로 퍼집니다. 대표적으로 비잔틴 제국(동로마 제국)의 성 소피아 성당이 있죠. 537년 유스티니아누스 황제 때 콘스탄티노플(현 튀르키예 이스탄불)에 건축된 이 성당은 지름이 무려 33m인 돔이 지붕을 덮고 있어요. 본래 성당 내부는 크리스트교와 관련된 화려한 벽화와 모자이크들로 채워져 있었어요. 1453년 이슬람교를 믿는 오스만 제국이 비잔틴 제국을 멸망시킨 후 성 소피아 성당을 이슬람 사원인 모스크로 바꾸면서 크리스트교 관련 장식도 모두 없애버렸답니다.&lt;br&gt;&lt;br&gt;돔 형식은 이슬람 건축에도 등장합니다. 이스라엘 예루살렘에 있는 ‘바위의 돔’ 혹은 ‘바위 사원’이라고 불리는 이슬람 성지가 대표적인데요. 이곳에서 이슬람교를 창시한 무함마드가 승천했다고 전해진답니다. 건물은 팔각형 모양인데, 지붕은 천국을 상징하는 돔으로 덮여 있어요. 이슬람력의 원년 ‘헤지라’를 상징하는 보름달 모양 조각이 돔 꼭대기에 세워져 있죠. 이후 세계 곳곳에 세워진 모스크들은 대부분 돔 형식으로 지어졌답니다.&lt;br&gt;&lt;br&gt;종교적 건축물에 많이 사용되던 돔은 20세기 들어 스포츠 경기 관련 건축물에 사용되기 시작합니다. 1965년 미국 텍사스 휴스턴에 세계 최초 돔 경기장인 ‘애스트로돔’이 지어졌어요. 텍사스 지역이 습도가 높고 비가 잦았기 때문에 비가 와도 야구 경기를 원활하게 진행하기 위해 야구장 지붕을 돔으로 덮어버린 것이죠. 이후 날씨에 따라 천장을 열고 닫을 수 있는 개폐식 돔구장도 등장해 쾌적하게 스포츠 경기를 관람할 수 있게 됐답니다. 국내 첫 돔구장은 2015년 서울 구로구에 지어진 ‘고척스카이돔’이에요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재미있는 과학] 불나면 배터리서 가스·산소 나와… 물에 넣어 화재 진압하죠</title>
-      <link>https://www.chosun.com/national/nie/2024/11/05/LVXMEIHXQRC5DEM4Y33B4TJW3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/11/05/LVXMEIHXQRC5DEM4Y33B4TJW3U/</guid>
-      <dc:creator>나용운 국립소방연구원 연구사, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Nov 2024 15:30:00 +0000</pubDate>
-      <content:encoded>최근 전기차에서 화재가 발생했다는 뉴스가 종종 등장해요. 지난 8월에는 인천 청라의 한 아파트 지하 주차장에서 전기차 화재가 일어나 인근 차량 100여 대를 태우는 대형 사고가 나기도 했었죠. 이후 전기차의 안전성에 대해 우려하는 사람이 많이 생겼어요.&lt;br&gt;&lt;br&gt;현재 우리가 타는 자동차 대부분은 엔진의 힘을 이용해 움직이는 ‘내연기관 자동차’예요. 운행할 때 환경에 좋지 않은 매연 가스를 내뿜기 때문에 세계 많은 나라가 가스를 배출하지 않는 전기차 보급을 늘리려고 노력하고 있어요. 그런데 전기차는 과연 안전한 걸까요? 오늘은 전기차가 어떤 구조로 이뤄져 있는지, 전기차에서 발생한 불은 왜 끄기 어려운지 알아볼게요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZFKXUUNT6VCCZPUJ73AQKUGMY4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;대부분 리튬이온 배터리 사용&lt;/b&gt;&lt;br&gt;&lt;br&gt;전기차는 내연기관 자동차와 구조가 달라요. 전기차의 모터, 감속기, 배터리는 각각 내연기관의 엔진, 변속기, 연료 탱크 역할을 담당해요.&lt;br&gt;&lt;br&gt;그중에서도 가장 중요한 부품이자 제조 비용 대부분을 차지하는 것이 배터리랍니다. 배터리는 전기에너지를 담아두는 저장소 역할을 해요. 전기차 모터가 배터리에서 나오는 전기 에너지를 회전 에너지로 바꿔 자동차 바퀴를 움직이죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/37X7Q6ZPMRA35KC2FXIHNSAENI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전기차 배터리는 차량 바닥에 길게 깔려 있어요. 납·니켈 등 여러 종류가 있는데, 오늘날 판매되는 대부분의 전기차는 ‘리튬이온 배터리’를 사용한답니다. 리튬이온 배터리가 다른 배터리보다 성능이 뛰어나기 때문이에요. 이 배터리는 충전 시간이 다른 배터리에 비해 짧은데 사용할 수 있는 시간은 더 길어요. 심지어 무게는 가벼운데 출력되는 에너지는 높아요. 이뿐만 아니라, 다른 소재 배터리들은 주기적으로 배터리를 0%로 완전 방전시켜야 오래 사용할 수 있는데, 리튬이온 배터리는 그럴 필요가 없답니다.&lt;br&gt;&lt;br&gt;이런 다양한 장점 덕분에 리튬이온 배터리는 스마트폰이나 노트북 같은 소형 전자 기기부터 가전제품, 전기차까지 광범위하게 사용되고 있어요. 2010년대부터 전기차가 본격적으로 등장하기 시작하면서 리튬이온 배터리의 효율을 높이기 위한 기술도 빠르게 발전하고 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RSM34LHQYFFVVEZWKKDRXYFUPE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;다른 배터리보다 불 끄기 어려워요&lt;/b&gt;&lt;br&gt;&lt;br&gt;하지만 리튬이온 배터리에도 단점은 있어요. 다른 배터리보다 화재 위험성이 높다는 거예요. 전기차에서 발생하는 화재를 진압하기 어려운 이유 또한 이 리튬이온 배터리가 가진 성질 때문이랍니다.&lt;br&gt;&lt;br&gt;리튬이온 배터리는 크게 양극·음극·전해액(전해질)·분리막으로 구성돼 있어요. 전해액 속에 있는 리튬이온이 분리막의 미세 구멍을 통해 양극과 음극 사이를 이동하며 전기를 저장하고 또 발생시키죠. 여기서 양극과 음극을 나누는 분리막은 매우 중요합니다. 외부 충격이나 제조 결함 등으로 분리막이 손상되면 양극과 음극이 직접 연결되게 되는데요. 그렇게 되면 최대 전류가 흘러 과열이 일어나고, 순식간에 온도가 치솟는 ‘열 폭주’ 현상이 발생해 화재가 날 수 있거든요.&lt;br&gt;&lt;br&gt;리튬이온 배터리에 붙은 불을 특히 끄기 어려운 이유는 뭘까요? 물질이 연소(燃燒)하려면 크게 연료(나무, 가스 등), 일정량의 산소, 발화점 이상 온도 등 세 요소가 필요해요. 반대로 세 개 중 하나만 없어도 불은 꺼지죠. 그런데 불붙은 리튬이온 배터리에서는 지속적으로 가연성 가스(연료)가 발생해요. 리튬이온 배터리의 전해액은 휘발성이 강한 유기화합물로 만들어지는데, 배터리에 불이 나면 전해액이 열분해되면서 인화성 가스가 분출되는 거죠. 또 주변 온도가 높아지면 리튬이온 배터리에 사용되는 리튬산화물에서 산소도 나오고요. 배터리는 단단한 금속으로 둘러싸여 있기 때문에 직접 물을 부어 불을 끄기도 어렵답니다.&lt;br&gt;&lt;br&gt;그래서 리튬이온 배터리 화재는 배터리의 온도를 낮춰 진화하는 ‘냉각 소화’가 유일한 방법이에요. 이런 이유로 내연기관 자동차 화재보다 진압에 오랜 시간이 걸리는 거예요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JWMYFMKTDRE5LDFYE3WG5HAB44.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;차를 수조에 빠뜨려요&lt;/b&gt;&lt;br&gt;&lt;br&gt;전기차 화재 현장에 소방관이 출동했을 때 어떻게 불을 끄는지 단계별로 설명해줄게요. 소방관들은 먼저 주변으로 불과 가스가 퍼지는 걸 막기 위해 불난 전기차에 ‘질식 소화 덮개’를 덮어요. 동시에 차량 하부엔 물이 위쪽으로 분사되는 상방향 스프링클러 장치를 넣어 초기 진압을 한답니다. 전기차 배터리는 초콜릿처럼 여러 셀(cell)로 나뉘어 있는데 초기에 불을 끄지 않으면 다른 셀로 옮아 붙어 화재가 커질 수 있기 때문이에요.&lt;br&gt;&lt;br&gt;초기 진압을 한 다음에는 욕조처럼 생긴 ‘소화 수조’를 차 주변에 설치하고 여기에 전기차를 빠뜨려요. 전기차 배터리를 냉각시키는 동시에 완전히 방전시키는 거랍니다. 전기차 화재는 대부분 2~3시간이면 진압이 완료되지만, 배터리에서 다시 불이 날 걸 대비해 기다리는 시간을 포함해서 6~7시간까지 걸리는 경우가 있어요.&lt;br&gt;&lt;br&gt;전기차는 교통사고 등 외부 충격을 받아 화재가 발생하기도 하지만, 정차 중에 불이 나는 경우도 있어요. 충전하고 3~4일 뒤에 불이 나는 경우도 있죠. 배터리 분리막에 작은 손상이 생기면 당장은 괜찮아 보일지라도 점차 열이 오르며 뒤늦게 불이 날 수도 있답니다. 따라서 전기차를 운전하다가 차량이 충격을 받았다면 겉으로 차가 멀쩡해 보여도 점검을 받아보는 것이 중요해요.&lt;br&gt;&lt;br&gt;전기차 사고를 예방하기 위해선 평소 배터리 충전 상태를 적정한 상태로 유지하는 습관을 들이는 것이 필요합니다. 배터리의 설계 용량을 넘어서 계속 충전하는 ‘과충전’과 제때 충전하지 않아 배터리 용량이 바닥나는 ‘과방전’ 모두 배터리 분리막을 손상시켜 화재를 일으킬 수 있습니다.&lt;br&gt;&lt;br&gt;하지만 너무 불안해하진 않으셔도 돼요. 전기차 역시 내연기관 자동차와 마찬가지로 신속하게 신고한다면 대부분 화재를 초기에 진압할 수 있답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [디자인·건축 이야기] 아랍과 서양 조화시킨 프랑스 거장… 햇빛 이용해 ‘빛의 장인’으로 불려요</title>
-      <link>https://www.chosun.com/national/nie/2024/11/05/XUII2UMEPZG5FJCN4ITK7ZBFH4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/11/05/XUII2UMEPZG5FJCN4ITK7ZBFH4/</guid>
-      <dc:creator>전종현 디자인·건축 저널리스트</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Nov 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PPZNMQGEXVGPXJ5Z2K5TFB6V34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장 누벨이 설계한 프랑스 파리의 ‘아랍 세계 연구소’ 입니다. 그는 건물 한쪽 벽면을 아랍 전통 문양을 닮은 모듈로 꽉 채웠어요. /게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 까르띠에 현대미술재단이 설립 40주년을 맞았습니다. 럭셔리 브랜드 기업인 까르띠에가 현대미술을 후원하기 위해 세운 프랑스 최초의 기업 재단이에요. 지금까지 재단은 다양한 기획 전시 프로그램을 운영하며 세계 미술계에 큰 영향력을 발휘하고 있어요. 프랑스 파리에 있는 재단 건물도 남다릅니다. 건물 입면(정면 외벽)에는 실제 건물보다 큰 유리를 세웠고, 그 주위를 유리 담장이 둘러싸며 빛의 투명함을 강조해요. 이 건물을 지은 사람은 바로 ‘빛의 장인&lt;b&gt;’&lt;/b&gt;이라 불리는 프랑스 건축 거장 장 누벨(1945~)입니다.&lt;br&gt;&lt;br&gt;교육자 집안에서 태어난 누벨은 화가를 꿈꿨지만, 공학자나 교육자가 되길 바라던 부모님과 타협한 결과 건축가가 됩니다. 프랑스 최고 미술 학교인 에콜데보자르에 수석으로 입학한 후 전시 디자인이나 무대미술에서도 역량을 보였죠.&lt;br&gt;&lt;br&gt;누벨의 운명을 바꾼 건축물은 1987년 완공된 파리 ‘아랍 세계 연구소’입니다. 1981년&lt;b&gt; &lt;/b&gt;프랑스에선 아랍 문화를 다룬 연구소를 짓는 건축 공모전이 열렸는데, 누벨의 아이디어가 채택된 거예요. 그는 아랍 지역의 문화적 특징을 아무도 생각하지 못한 방법으로 풀어냈습니다. 서구 건축의 외형을 기본으로 하면서도, 아랍 전통 양식인 마슈라비아(Mashrabiya)의 기하학적 패턴에서 영감을 얻은 네모난 모듈 240개로 건물 벽면 한쪽을 빼곡히 채웠어요. 모듈 안에는 카메라 조리개처럼 여닫히는 원형 기계 장치가 들어 있는데, 햇빛의 강도에 따라 실내로 들어오는 빛을 스스로 조절할 수 있어요. 이 건물로 누벨은 전통과 현대, 아랍과 서양의 문화를 조화시켰다는 극찬을 받았어요.&lt;br&gt;&lt;br&gt;누벨에게 빛은 단순한 채광이 아니라 시공간의 경험을 표현하는 핵심 재료입니다. 까르띠에 현대미술재단(1994), 스위스 루체른 복합 문화 시설 KKL(2000), 스페인 바르셀로나 아그바르 타워(2005) 등에서 그가 어떻게 빛을 활용하는지 잘 확인할 수 있답니다.&lt;br&gt;&lt;br&gt;누벨은 아랍 문화를 현대적으로 재해석한 건축물을 많이 남겼어요. 루브르 아부다비(2017)와 카타르 국립 박물관(2019)이 대표적이에요. UAE의 수도 아부다비에 있는 루브르 아부다비는 파리 루브르 박물관의 유일한 해외 분관이에요. 아랍 전통 마을처럼 총 55개의 작은 건물을 배치하고, 좁은 골목과 수로, 광장도 조성했죠. 천장엔 야자수 잎을 엮은 듯한 직경 180m 크기 철제 돔을 얹어 내부로 햇빛이 들어오게 했답니다.&lt;br&gt;&lt;br&gt;카타르 수도 도하에 있는 카타르 국립 박물관은 ‘사막의 장미’라는 이름의 광물을 건물로 구현했어요. 디스크(disc) 모양의 거대한 원판을 불규칙한 사선으로 무수히 배열했지요. 누벨은 한국에선 리움미술관(M2)과 돌체앤가바나 서울 스토어를 설계했답니다. 2008년 ‘건축계의 노벨상’인 프리츠커상을 받았어요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김영록 전남지사 “2026학년도 맞춰 전남에 통합 국립의대 설립”</title>
-      <link>https://www.chosun.com/national/regional/honam/2024/10/07/N6CISIXNFZGQRNPTU4HHDAQDKE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/10/07/N6CISIXNFZGQRNPTU4HHDAQDKE/</guid>
-      <dc:creator>무안=조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Oct 2024 08:39:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XRX34TGVW5KVDEZ7XDTLQNV5HY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김영록 전남지사가 7일 오후 전남도청 기자실에서 기자간담회를 열고 전남도 주요 현안에 대해 말하고 있다./전남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김영록 전남지사는 7일 전남도청에서 기자 간담회를 열고 “통합 국립의대를 2026학년도에 맞춰 추진한다”며 “이는 도민이 공감한다”고 밝혔다. 전남 서부권과 동부권의 화합 도모를 위해 국립목포대와 국립순천대를 통합해 국립의대를 설립하자는 것이다.&lt;br&gt;&lt;br&gt;김 지사는 “1개 도(道)에 1개 국립대학을 두는 게 정부 방침인 데다 학령·아동 인구가 줄어들어 두 국립대학은 통합하지 않을 수 없다”며 “양쪽 대학도 통합 필요성과 방향성에 대해 인식을 같이하고 통합의 물꼬가 트이고 있다”고 말했다.&lt;br&gt;&lt;br&gt;그는 이어 “2027·2028학년도에는 의대 증원 논의가 불가능하고 2026학년도가 (의대 증원) 마지막 기회”라며 “2026학년도 의대 정원 배정 전에 통합이 이뤄져야 한다”고 말했다. 두 대학 총장을 향해 통합을 주문한 것이다.&lt;br&gt;&lt;br&gt;김영록 지사는 다만 “통합의대가 안 되면 공모로 갈 수밖에 없다”며 “일부는 공모를 통해 두 개의 의대를 추천하자고 주장하나 정부가 이를 받아주지 않을 것”이라고 말했다. 통합의대가 불발할 경우 공모를 통해 단독(단수) 의대를 정부에 추천하겠다는 입장을 확인한 것으로 풀이된다.&lt;br&gt;&lt;br&gt;김 지사는 광주 군공항의 무안 이전 문제와 관련 “광주시가 진지한 마음이라면 대화할 용의가 있다”고 했고, 벼멸구 피해와 대해서는 “피해가 많이 발생한 해남, 영암, 장흥, 강진을 특별재난지역으로 선포되도록 정부에 건의하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XRX34TGVW5KVDEZ7XDTLQNV5HY.JPG?width=5769&amp;height=3870&amp;auth=b0752fe5f67eaedf1450e0fe08675fa792416a2bb048de7c26595ae92d19c5c1&amp;smart=true" type="image/jpeg" height="3870" width="5769">
-        <media:description type="plain">(무안=뉴스1) 전원 기자 = 김영록 전라남도지사가 7일 오후 도청 기자실에서 기자간담회를 갖고 벼멸구 피해 재해인정 환영, 특별재난지역 선포 건의, 전라남도 국립의과대학 설립, 광주 민간·군공항 통합 이전 등 전남도 주요현안에 대해 브리핑하고 있다.(전남도 제공) 2024.10.7/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(무안=뉴스1) 전원 기자</media:credit>
-      </media:content>
     </item>
     <item>
       <title>검찰, 명태균 소환 통보... ‘특별수사팀’으로 확대도 검토</title>
@@ -931,19 +936,6 @@
       <pubDate>Mon, 04 Nov 2024 09:06:21 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6NZC25HUM5JZ5BB45ZAGY33IKM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 서울 중구 명동거리의 한 상점에 겨울옷이 진열돼 있는 모습/뉴스1
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 서울의 아침 최저기온이 영상 5도를 보이는 등 전국 대부분 지역의 아침 기온이 10도 이하에 머물며 쌀쌀한 날씨를 기록할 것으로 예보됐다. 강원 산지에는 눈 내리는 곳이 있을 전망이다.&lt;br&gt;&lt;br&gt;4일 기상청에 따르면 5일 전국의 아침 최저기온은 2~11도로 전망됐다. 서울·세종이 최저기온 5도로 예측됐고, 대전이 6도, 광주·대구 8도 등이다. 4일 서울의 아침 최저기온(16.5도)에 비해 10도 이상 뚝 떨어지는 것이다. 한반도 북쪽에서 찬 공기가 내려온 탓이다.&lt;br&gt;&lt;br&gt;낮 최고기온 역시 서울이 14도, 대전·광주 15도, 대구 16도 등 전국이 13~20도로 쌀쌀한 날씨를 보일 전망이다. 강원 동해안 산지와 경북 동해안 등 일부 지역에선 5~20㎜의 비가 예보됐다.&lt;br&gt;&lt;br&gt;6일 전국 아침 최저기온은 영하 1도에서 영상 8도, 낮 최고기온은 10~17도로 더 추워지겠다. 중부·경북의 내륙 일부 지역에서는 영하의 날씨가 예상된다. 이날은 전국에 강한 바람도 불어 체감 기온은 더 낮을 전망이다. 입동(立冬)인 7일에도 추위가 이어졌다가, 8~9일부터는 기온이 다소 오를 전망이다. 미세 먼지 농도는 당분간 ‘좋음~보통’ 수준을 보이겠다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>파김치 돼서 터덜터덜… 뉴욕 마라톤 참가한 기안84 모습 보니 </title>
-      <link>https://www.chosun.com/national/national_general/2024/11/04/OUSGEQS3Z5GN5HAI2FUBHVVIDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/04/OUSGEQS3Z5GN5HAI2FUBHVVIDE/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Nov 2024 08:36:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KLUA6OTZBFCI3MFNDHWS2DRCQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인스타그램 계정 'la_placed' 계정에 올라온 기안84 뉴욕 마라톤 영상./ 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;웹툰작가 기안84가 미국 뉴욕에서 열린 마라톤 풀코스를 완주했다.&lt;br&gt;&lt;br&gt;4일(현지 시각) 방송계에 따르면, 기안84는 전날 미국 뉴욕에서 열린 제 54회 뉴욕 마라톤 대회에 참가해 42.195㎞ 풀코스를 4시간 48분 16초에 완주했다. 참가 선수 5만5508명 중에선 3만6625등을 기록한 것으로 알려졌다. 한국 출전 선수로는 154명 중 114번째다.&lt;br&gt;&lt;br&gt;이날 온라인에는 뉴욕 마라톤대회에서 기안84를 봤다는 목격담과 사진들이 올라왔다. 사진에는 기안 84가 MBC ‘나혼자 산다’ 출연진들의 이름과 태극기, 캐릭터 등이 그려진 옷을 입고 뛰고 있는 모습이 담겼다. 양쪽 무릎에는 테이핑을 한 모습이다.&lt;br&gt;&lt;br&gt;한 네티즌은 온라인 커뮤니티 ‘에펨 코리아’에 경기 당시 영상을 올리기도 했다. 이 네티즌은 “골인까지 한 3~4㎞ 정도 남은 지점에서 (기안84를) 직관할 수 있었다”며 “파김치가 됐지만 힘내라고 응원해주니 다가와서 손 흔들고 가줬다”고 적었다. 영상에는 기안84가 다소 지친 표정으로 걷다가 관중들을 향해 팔을 올리고 주먹을 쥐어보이는 모습이 담겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KO34FKDJGFH4FN6HQSHYQPQUG4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일(현지시각) 뉴욕마라톤에 참가한 기안 84. / 에펨코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세계 6대 마라톤으로 유명한 뉴욕 마라톤은 매년 11월 첫 번째 일요일에 개최된다. 이번 대회에는 150개국 이상에서 5만명이 넘는 마라토너들이 참가했다. 스태튼 아일랜드에서 출발해 브루클린-퀸즈-맨해튼-브롱크스를 거쳐 맨해튼 센트럴 파크를 따라 완주하는 코스다.&lt;br&gt;&lt;br&gt;기안84는 이번 대회를 위해 러닝 코치와 훈련해왔다. 그는 작년 청주 대회에서 마라톤 풀코스를 4시간 47분 08초로 완주하기도 했다. 그는 작년 4월 유튜브를 통해 “달리기를 계속 생존 이야기랑 엮어서 하는 이유는, 아마 저는 달리기를 하지 않았으면 지금쯤 죽었을 수도 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LQD4KQ4SAZD6LHUGJNSBC3A3OI.jpg?width=490&amp;height=490&amp;auth=5b8b2d7f57f41cdbf4b5956a6b2cf6b212b6d4230cc06c14b2b16eb25df17a74&amp;smart=true" type="image/jpeg" height="490" width="490">
-        <media:description type="plain">인스타그램 계정 'la_placed' 계정에 올라온 기안84 뉴욕 마라톤 영상./ 인스타그램</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>“한강 집터 매입해 북카페로” 광주시 구상 차질...인근 대체부지 선회</title>
