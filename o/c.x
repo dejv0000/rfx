@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보]‘화천 북한강 토막 살인’ 현역 군 장교 구속</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/05/EXVWWGDM5RF6JAID5X3DAEMXE4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/05/EXVWWGDM5RF6JAID5X3DAEMXE4/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>춘천지법 “증거 인멸과 도주 우려 있어”</description>
+      <pubDate>Tue, 05 Nov 2024 05:08:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2B5KFCY3RPYVBBKSCNXIGJX3M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;강원 화천 북한강에 30대 여성의 시신을 훼손해 유기한 혐의를 받는 30대 후반의 현역 육군 중령이 5일 춘천지법에서 열린 영장실질심사(구속 전 피의자 심문)를 마치고 나서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;춘천지법 “증거 인멸과 도주 우려 있어”&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 “저항에 맞서 4대 개혁 완수하겠다”</title>
+      <link>https://www.chosun.com/politics/politics_general/2024/11/05/WWDXBGIJCFD7VNYGW6OJW3MRJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/politics_general/2024/11/05/WWDXBGIJCFD7VNYGW6OJW3MRJY/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Nov 2024 04:37:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4YZI45JH6NICBF2R2OGWYBQWD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 5일 경기 고양시 일산 킨텍스에서 열린 2024 전국새마을지도자대회에서 축사를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령은 5일 경기 고양시 일산 킨텍스에서 열린 2024 전국새마을지도자대회에 참석해 4대 개혁의 필요성을 강조하면서 “개혁에 대한 저항에 맞서 절대 포기하지 않고 개혁을 완수해내겠다”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령은 대회 축사에서 “‘하늘은 스스로 돕는 자를 돕는다’는 새마을운동 정신은 농촌 개량 사업에서 끝나지 않고 대한민국의 폭발적 성장을 이뤄냈다”며 “요새 이런 정신이 점점 사라지고 있어 아쉽다”고 했다. 그러면서 “국가는 국민의 복지를 위해 노력해야 할 헌법적 책무가 있지만, 국민이 복지에만 기대면 그 나라는 발전할 수 없다. 국민 한 사람 한 사람이 주인 의식을 갖고 스스로 잘 살기 위해 노력할 때 국가도 성장하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;윤 대통령은 한국이 러시아·우크라이나 전쟁, 중동 분쟁, 북한의 파병, 저출생과 고령화, 저성장 등의 위기와 도전에 직면해 있다며 “위기를 기회로 바꿔낸 새마을운동의 정신이 그 어느 때보다 절실하다”고 했다. 윤 대통령은 “새마을운동은 우리 사회와 역사를 바꾼 위대한 개혁 운동이었고, 지금 우리 앞에는 또 다른 개혁 과제들이 놓여 있다. 의료·연금·노동·교육 개혁의 4대 개혁이 바로 그것”이라고 짚었다.&lt;br&gt;&lt;br&gt;윤 대통령은 “개혁에는 반드시 저항이 따르게 돼 있다. 역대 정부가 개혁에 실패하고 개혁을 포기했던 이유가 바로 이것이었다”며 “저와 정부는 이러한 저항에 맞서며, 절대 포기하지 않고 국가의 미래를 위해, 미래 세대를 위해 반드시 (개혁을) 완수해내겠다”고 강조했다.&lt;br&gt;&lt;br&gt;윤 대통령은 “그렇게 함으로써 대한민국에 더 큰 도약을 이뤄내고 자유와 번영을 열어가겠다”며 참석자들에게 “정부의 개혁 정책에 힘을 보태주시고 함께 노력해주시기를 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;이날 대회는 전국에서 약 180만명이 회원으로 활동하고 있는 새마을운동중앙회가 활동 성과를 공유하기 위해 마련한 행사로, 약 1만여 명이 참석했다. 윤 대통령은 2022년 취임 첫해부터 3년 연속으로 대회에 참석해 회원들을 격려했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>기획부동산 사기로 5200억 편취... ‘케이삼흥’ 김현재 회장 구속</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/05/KV3J22WUZZEFJFN6JQPWRQ2FWI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/05/KV3J22WUZZEFJFN6JQPWRQ2FWI/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Nov 2024 04:33:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5NLIDEDKJBGVLESU55II646SRY.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구에 있는 케이삼흥 사무실을 압수수색 중인 경찰. /서울경찰청 금융범죄수사대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2000명이 넘는 투자자를 속여 5281억원을 받아 챙긴 부동산 업체 ‘케이삼흥’의 김현재 회장과 간부들이 무더기로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울경찰청 금융범죄수사대는 특정경제범죄 가중처벌법상 사기, 유사수신행위규제법 위반 등의 혐의로 김 회장 등 3명을 구속 송치하고, 지사장·상무·이사 등 주요 영업책 19명을 불구속 송치했다고 5일 밝혔다. 경찰은 또 토지와 건물 등 142억원 상당의 범죄수익을 기소 전 몰수보전 조치했으며, 추가로 추징할 예정이다.&lt;br&gt;&lt;br&gt;김 회장 등은 정부나 지방자치단체가 개발할 토지를 미리 매입한 뒤 개발이 확정되면 보상금을 받는 ‘토지보상 사업’으로 수익을 볼 수 있다고 꾀어 2021년 9월 10일부터 2024년 4월 12일까지 피해자 2209명으로부터 5281억원 상당을 편취한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 인터넷 광고 등을 통해 ‘토지보상사업을 통해 80~250%의 수익을 창출하고 있다’ ‘원금을 보장하고, 수익금으로 투자금의 5∼8％를 지급하겠다’ 등의 내용으로 투자자를 끌어모았다. 특히 김 회장은 자신의 고향인 전남 영암에 기부금과 장학금 등을 지원하고, 고급 외제차를 운용하는 등 재력을 과시하며 투자자로부터 신뢰를 얻었다. 주 피해자 연령대는 50대 이상 중장년층으로 이 가운데 70% 이상이 여성이었다고 한다.&lt;br&gt;&lt;br&gt;경찰은 신규 투자자의 금액으로 기존 투자자의 원금을 돌려막는 전형적인 ‘폰지사기’(다단계 금융사기)라고 봤다. 실제로 모인 투자금의 80%가량은 앞선 투자자들에게 원금과 수익금 명목으로 지급됐다. 나머지 투자금은 법인차량을 구매하거나 케이삼흥 직원들에게 인센티브를 지급하는 등에 쓰였다. 개발 구역 내 토지를 매입하는 데에도 투자금이 쓰였으나 이 역시 보상 여부가 불확실한 토지였다고 한다.&lt;br&gt;&lt;br&gt;김 회장은 2007년에도 개발이 어렵거나 경제적 가치가 없는 토지를 개발할 수 있는 토지로 속여 매매 대금을 가로채는, 이른바 ‘기획부동산’ 사기로 실형을 선고받았다. 당시 투자금 74억여원을 가로채고 회삿돈 245억원을 횡령해 징역 3년과 벌금 81억원이 확정된 바 있다. 김 회장의 전과는 39범(사기 전과 22범)에 달한다. 경찰은 김 회장이 과거 범행 당시 사용한 법인명과 수법을 그대로 이용해 이번 범행을 저지른 것으로 파악했다.&lt;br&gt;&lt;br&gt;다만 경찰은 일부 피해자의 주장처럼 이번 사건에 유명 정치인이 연루되거나 로비가 있었던 정황은 확인되지 않았다고 밝혔다. 경찰 관계자는 “원금을 보장하고 고수익을 지급한다며 투자자를 모집하는 경우 사기일 가능성이 높으니 각별한 주의를 기울여야 한다”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>용산국제업무지구 새 이름 후보 공개…13일까지 시민 선호도 조사</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/05/TYKZFNLGKFDRPHBGQBY5FYYWEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/05/TYKZFNLGKFDRPHBGQBY5FYYWEI/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Nov 2024 04:23:57 +0000</pubDate>
+      <content:encoded>서울시가 용산 철도 정비창 부지를 개발해 조성하는 ‘용산국제업무지구’의 새 이름 후보가 5일 공개됐다. 글로벌 기업의 아시아본부 유치 등 해외 마케팅에 활용하기 위한 이름을 새롭게 만드는 것이다. 전문가 자문 등을 거쳐 올해 말 최종 결정된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3A326NOFJ5AJTA2X4NCN2CIHGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산구 용산역 뒤편 일대에 들어설 용산국제업무지구의 조감도. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 용산국제업무지구의 새로운 이름을 선정하기 위해 오는 7~13일 시민 선호도 조사를 실시한다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;용산국제업무지구는 코레일이 과거 철도 정비창으로 쓰던 용산역 뒤편의 49만5000㎡ 부지다. 서울시는 이곳을 업무복합단지로 만들어 최대 100층 높이 빌딩, 녹지 등을 조성할 계획이다.&lt;br&gt;&lt;br&gt;서울시가 용산국제업무지구의 새로운 이름을 만들기로 한 것은 해외 마케팅을 위해서다. 앞서 서울시는 지난 7월 용산국제업무지구 내에 글로벌 기업의 본부 등을 유치하겠다고 발표했다. 서울시 관계자는 “뉴욕 허드슨 야드, 도쿄 아자부다이힐스처럼 ‘용산국제업무지구’를 해외 투자자와 방문객들에게 각인시킬 수 있는 이름을 만들려는 것”이라고 말했다.&lt;br&gt;&lt;br&gt;서울시는 전문가 자문 등을 거쳐 후보 6개를 발표했다. ‘용산 서울 코어’는 서울의 중심부인 용산이 미래 아시아·태평양의 중심으로 도약할 것이라는 뜻을 담았다. ‘용산 야드’는 철도 정비창이었던 지역의 정체성을 표현했다. 서울시 관계자는 “뉴욕 허드슨 야드와 사업이 유사하게 진행된다는 뜻도 있다”고 했다.&lt;br&gt;&lt;br&gt;‘용산 IBD’와 ‘용산 CBD’는 국제업무지구, 중심업무지구를 영어로 바꿔 해외 투자자와 방문객들이 직관적으로 이해할 수 있도록 했다. ‘용산 창’은 과거 이곳이 정비창이었다는 의미와 함께 미래를 투영하는 창(窓)이라는 중의적 의미를 담았다. ‘용산 마루’는 지붕·산의 꼭대기와 한옥의 마루에서 따온 것으로, 전 세계 사람들이 용산에 모여 소통한다는 뜻을 담았다.&lt;br&gt;&lt;br&gt;서울시는 오는 13일까지 시민 선호도 조사를 마친 후 서울시청 등에서 진행하는 현장 투표와 외국인 선호도 조사 결과를 합산해 새로운 이름을 1차 선정한다. 전문가 자문 등을 거쳐 올 연말 새 이름을 최종 결정할 예정이다.&lt;br&gt;&lt;br&gt;임창수 서울시 미래공간기획관은 “외국인과 국민들 모두가 쉽게 기억할 수 있는 브랜드가 선정되길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 전기차 화재, 아파트 관리사무소장 추가 입건</title>
+      <link>https://www.chosun.com/national/incident/2024/11/05/RQR6R45RVBBJ3LGBXLR2HANJWQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/05/RQR6R45RVBBJ3LGBXLR2HANJWQ/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Nov 2024 04:19:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EJZNHAXP5KAUJ24XBIKIB6U4YA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8월 1일 화재가 발생한 인천 서구 청라동의 한 아파트 지하 주차장 내부 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 서구 청라국제도시의 한 아파트 단지 지하 주차장에서 발생한 전기차 화재 당시 안전 관리를 제대로 하지 않은 혐의로 아파트 관리사무소장이 경찰에 추가 입건됐다.&lt;br&gt;&lt;br&gt;인천경찰청 형사기동대는 업무상 과실치상 혐의로 아파트 관리소장 A씨를 불구속 입건했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 8월 1일 인천시 서구 청라동의 한 아파트 지하 주차장에서 발생한 벤츠 전기차 화재 때 안전 관리를 제대로 하지 않아 입주민을 다치게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;당시 화재로 연기를 마신 주민 등 23명이 병원으로 이송돼 치료를 받았다. 또 차량 87대가 불에 타고 783대가 그을리는 등 피해가 발생했다.&lt;br&gt;&lt;br&gt;경찰은 앞서 A씨와 같은 혐의로 아파트 관리사무소 야간 근무자 B씨 등 2명과 소방안전관리 책임자 C씨 등 총 3명을 불구속 입건했다.&lt;br&gt;&lt;br&gt;B씨는 불이 난 직후 스프링클러 작동 정지 버튼을 눌러 스프링클러가 작동되지 않도록 했다. 그는 인천소방본부 특별사법경찰에도 소방시설 설치 및 관리에 관한 법률 위반 혐의로 입건돼 검찰에 송치된 상태다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “처음 불이 난 벤츠 전기차의 화재 발생 지점이 배터리인지, 아니면 차량 전기 배선 등인지 확인하고 있다”며 “이달 안에 관련 수사를 마무리할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경기도 내년 예산 38조7081억...김동연 “확장재정으로 경기부양이 답”</title>
+      <link>https://www.chosun.com/national/regional/2024/11/05/3S2VEUAQNJAKHC4QK4PFRGDE2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/05/3S2VEUAQNJAKHC4QK4PFRGDE2Y/</guid>
+      <dc:creator>수원=권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Nov 2024 03:29:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RVEYLK7YYAHGDIYORKYLXOGOGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동연 경기도지사가 5일 내년도 예산안 편성과 관련해 기자회견을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도는 일반회계 34조7260억원, 특별회계 3조9821억원 등 모두 38조7081억원 규모의 2025년도 본예산안을 편성해 경기도의회에 제출했다고 5일 밝혔다. 이는 올해 본예산 36조1210억원보다 2조5871억원(7.2%) 늘어난 것이다. 예산안은 5일부터 다음달 19일까지 열리는 경기도의회 정례회에서 심의 의결된다.&lt;br&gt;&lt;br&gt;경기도는 세입의 경우 부동산 경기 호전으로 전체의 46.4%를 차지하는 지방세가 올해(15조942억원)보다 1조113억원 많은 16조155억원이 걷힐 것으로 예상했다.&lt;br&gt;&lt;br&gt;세출은 법정경비와 함께 국고보조사업, 자체사업, 자치단체 간 부담금 사업 등에 1000억~4000억 가량 추가 소요될 것으로 예상했다. 이에 따라 지역개발기금(1조802억원), 통합재정안정화기금(2550억원) 등 기금을 끌어오고 지방채(4962억원)를 발생해 세입 부족분과 추가 사업비를 충당하기로 했다. 지방채 발행은 2006년 이후 19년 만이며 모두 SOC 사업에 사용하게 된다.&lt;br&gt;&lt;br&gt;주요 사업별 편성 내용을 보면 기후위기 및 미래대응과 관련해 올해(232억원)보다 1216억원 늘어난 1448억원을 배정했다. 탄소 감축에 참여하는 도민에게 지급하는 기후행동 기회소득의 경우 올해 36억원에서 내년 500억원으로 대폭 늘렸다. 또 내년부터 시행하는 재생에너지 이익공유제(26억원)와 기후위성 발사·운용(45억원), 기후보험 지원(34억원) 등에도 예산을 배정했다.&lt;br&gt;&lt;br&gt;김동연 경기도지사의 대표 정책인 ‘기회소득’ 사업비도 늘어 장애인 기회소득(140억원), 예술인 기회소득(113억원), 체육인 기회소득(65억원) 등이 6억~40억원씩 증액 편성됐다. 농어민기회소득의 경우 농민기본소득을 통합해 운영하며 20만명을 지원 대상으로 755억원을 배정했다.&lt;br&gt;&lt;br&gt;중소기업·소상공인·농이민 지원을 통한 민생경제 활력을 높이기 위해 정부가 편성하지 않은 지역화폐 예산을 올해 954억원에서 1043억원으로 89억원 늘렸다. 또 전국 처음으로 2만명의 소상공인에게 운영비 전용 카드(힘내GO카드)를 지원하는 예산 100억원을 새로 편성했고, 경기도산 농수산물 할인쿠폰 지원을 위해 200억원을 신규 반영했다.&lt;br&gt;&lt;br&gt;신성장 산업 육성을 위해 생성형 AI 데이터 플랫폼 구축(103억원), AI 혁신클러스터 조성(39억원), 창업혁신공간 운영(44억원) 등의 사업도 벌인다. 청년기본소득(1045억원), 청년 사다리프로그램 운영(52억원), 난임부부 시술비 지원(332억원), 분만취약지 임산부 교통비 지원(12억원), 베이비부머 라이트잡(63억원) 등 저출산 극복과 청년·베이비 부머를 위한 사업비도 확충하거나 신설했다.&lt;br&gt;&lt;br&gt;김 지사는 “경기침체기에는 재정을 확대해서 경기를 부양하고 경기상승기에 재정을 축소해 균형을 잡는 것이 기본으로 지금은 확정재정이 답”이라며 “경기도는 가용 재원을 최대한 활용해 내년 예산을 7.2% 더 키웠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘명태균 수사팀’에 검사 4명 추가 파견…11명 규모 특별수사팀</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/05/JH66B33YVBHNNGZJL72HM4KGLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/05/JH66B33YVBHNNGZJL72HM4KGLM/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Nov 2024 03:45:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6HUUFMEIWZAFVPASYTPXKZBUDY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 윤석열 대통령의 ‘공천 개입 의혹’ 핵심 인물인 명태균씨를 수사하는 창원지검에 검사 4명을 추가 파견하기로 결정했다. 수사팀은 총 10명 규모로, 창원지검에 사실상 ‘명태균 특별수사팀’을 꾸린 것이란 해석이 나온다. 최근 윤석열 대통령과 명씨의 통화 녹취가 공개되고, 명씨를 둘러싼 의혹이 추가로 불거지면서 수사팀 규모를 대폭 늘린 것으로 보인다.&lt;br&gt;&lt;br&gt;5일 본지 취재를 종합하면, 검찰은 이지형 부산지검 2차장검사와 인훈 울산지검 5부장 검사, 평검사 2명 등 총 4명을 창원지검에 보내기로 했다. 이지형 차장검사가 수사팀장을 맡게 될 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 지난달 17일 대검과 부산지검에서 공안 사건에 밝은 검사 총 2명도 창원지검에 파견된 데 이어 차·부장 검사와 평검사 등 4명이 더 충원되는 것이다.&lt;br&gt;&lt;br&gt;명씨 사건은 창원지검 형사 4부 검사 5명과 대검과 부산지검에서 파견 온 공안 검사 2명 등 총 7명의 검사가 수사하고 있다. 여기에 검사 4명이 추가로 파견돼 11명이 수사하게 됐다. 사실상 ‘특별수사팀’ 규모라는 게 법조계 시각이다. 지난 2019년 꾸려진 ‘세월호 참사 특별수사단’이 단장과 부장검사 2명, 평검사 6명 등 총 9명의 검사로 구성됐었다. 각종 권력형 비리를 수사하는 서울중앙지검 반부패부 1개 부서가 10명 안팎의 규모다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“모바일 신분증 사용 불가... 한국사 영역 응시 안 하면 성적표 못 받아” 교육부 수능 유의사항 안내</title>
       <link>https://www.chosun.com/national/education/2024/11/05/CKNASYNRJ5CLPGCRYAIA6NMJ7E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/11/05/CKNASYNRJ5CLPGCRYAIA6NMJ7E/</guid>
@@ -781,15 +844,6 @@
       </media:content>
     </item>
     <item>
-      <title>76주년 과학수사의 날...과학수사 윤리 규범 선포</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/04/27JQUYKD2JDXRJZWE4Z6IS7U2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/04/27JQUYKD2JDXRJZWE4Z6IS7U2Q/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Nov 2024 04:49:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X26YFBD6Q5D4ZJSND73UJ2Y5W4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 열린 제76주년 과학 수사의 날 기념 행사 사진 모습./경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청은 4일 제 76주년 과학 수사의 날을 맞이해 기념식을 개최했다. 제 20회 과학수사 대상 시상과 더불어 과학 수사관 윤리 규범도 선포됐다.&lt;br&gt;&lt;br&gt;제 20회 과학수사대상 시상은 법의학·법과학·경찰 과학 수사 3개 분야에서 진행됐다. 올해는 김유훈 대한법의학회 학회장, 임시근 성균관대학교 교수, 장성만 경남경찰청 과학수사계 경감이 수상했다.&lt;br&gt;&lt;br&gt;법의학 대상을 받은 김유훈 회장은 1999년부터 2015년까지 국과수에서 법의관으로 근무했다. 이후 법의학 전문가로서 변사, 살인사건 현장에서 검안 업무를 담당했다.&lt;br&gt;&lt;br&gt;법과학 대상을 받은 성균관대학교 임시근 교수는 1997년부터 2019년까지 국과수 유전자분석과에서 근무하는 등 총 27년간 법과학 분야에 종사해 오면서 디엔에이(DNA) 감정으로 사건 수사를 지원했다. 일명 ‘DNA법’ 제정에도 기여했다.&lt;br&gt;&lt;br&gt;경찰 과학수사대상을 받은 경남경찰청 과학수사계 장성만 경감은 화재감식･현장감식 등 21년 경력의 숙련된 과학수사관이다. 밀양 대형산불 화재 원인 규명, 화재･폭발사건 연구･발표 및 교육 등을 진행했다.&lt;br&gt;&lt;br&gt;경찰은 과학 수사관들이 갖춰야 할 핵심 가치를 담은 ‘과학 수사관 윤리 규범’도 선포했다. 윤리규범은 진실추구, 중립성 유지, 증거보호, 전문성 향상, 절차 준수, 인권 존중 등 6개 항목으로 구성됐다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘10년 열애’ 이정재·임세령, 블랙 커플룩 입고 美 행사 동반 참석 </title>
       <link>https://www.chosun.com/national/people/2024/11/04/3AMIXWNIL5GZJHAU7AIET3JSGM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/04/3AMIXWNIL5GZJHAU7AIET3JSGM/</guid>
@@ -797,65 +851,6 @@
       <description/>
       <pubDate>Mon, 04 Nov 2024 04:55:14 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MXHGWB4WFZHEDJ4KOZRPRK4OUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 ‘LACMA’에서 포착된 배우 이정재, 임세령 대상그룹 부회장/구찌&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 이정재(51)와 대상그룹 부회장 임세령(47)이 미국에서 열린 행사에 동반 참석했다.&lt;br&gt;&lt;br&gt;지난 2일(현지 시각) 미국 로스앤젤레스(LA) 카운티 뮤지엄 오브 아트에서 ‘2024 LACMA(Los Angeles County Museum of Art) 아트+필름 갈라’가 열렸다.&lt;br&gt;&lt;br&gt;‘LACMA 아트+필름 갈라’는 글로벌 문화예술계 사교 행사로, 이정재와 임 부회장이 이 행사에 동석한 건 이번이 네 번째다. 이번 행사는 구찌가 후원했으며, 이정재는 구찌의 앰배서더로 활동하고 있다. 한국인으로는 이정재와 임 부회장 외에도 모델 겸 배우 이수혁, 문가영이 함께 했다.&lt;br&gt;&lt;br&gt;특히 공개 열애 중인 이정재와 임 부회장이 함께 참석해 눈길을 끌었다. 이날 두 사람은 블랙 커플룩을 입고 나타났다. 이정재는 검정 턱시도에 나비넥타이를 착용했고, 임 부회장은 깃털이 달린 튜브탑 드레스를 입고 클러치로 포인트를 줬다. 두 사람은 2011년부터 LACMA 갈라 공동 의장을 맡고 있는 에바 차우(Eva Chow) 이사 등과 함께 포즈를 취하며 사진을 찍기도 했다.&lt;br&gt;&lt;br&gt;임 부회장과 이정재는 2015년 1월 교제를 정식 발표하고 10년째 공개 열애 중이다. 이정재는 2022년 칸영화제와 에미상 시상식에도 임 부회장과 함께 참석해 화제를 모으기도 했다.&lt;br&gt;&lt;br&gt;한편 이정재는 다음 달 26일 넷플릭스 ‘오징어게임 시즌2′ 공개를 앞두고 있다. 2021년 ‘오징어 게임 시즌1′ 이후 3년여 만이다. 복수를 다짐하고 돌아와 게임에 참가하는 ‘성기훈’(이정재)과 그를 맞이하는 ‘프론트맨’(이병헌)의 치열한 대결이 그려질 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천공항 출국장 보안검색요원 폭행…일본인 여성 입건</title>
-      <link>https://www.chosun.com/national/incident/2024/11/04/JGBOZDIRXJGWBE6G4QTCIEARCU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/04/JGBOZDIRXJGWBE6G4QTCIEARCU/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Nov 2024 04:34:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H2MK7IK67EUHPY6GD4343RA64A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천국제공항 제1터미널 출국장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천국제공항 출국장에서 보안검색요원을 폭행한 일본인 여성이 경찰에 입건됐다. 이 여성은 출국장에 무단으로 진입하다 보안검색요원이 막아서자 이같은 행위를 한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;인천공항경찰단은 항공보안법 위반 혐의로 20대 여성 A씨를 불구속 입건했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 1일 오후 1시 38분쯤 인천국제공항 제1여객터미널 출국장에서 보안검색요원인 40대 여성 B씨를 폭행한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 출국장에서 여권을 단말기에 인식시키지 않고 진입을 시도하다, B씨가 제지하자 폭행을 한 것으로 조사됐다. A씨는 당시 술을 마시거나 마약을 투약한 상황은 아니었다고 경찰은 설명했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨에 대한 조사를 모두 마무리한 상태로, A씨는 현재 출국한 상황”이라며 “조만간 검찰에 사건을 송치할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>근로자 일당 ‘똥떼기’로 수억 가로챈 현장소장 등 송치</title>
-      <link>https://www.chosun.com/national/regional/2024/11/04/6FGAXZTBLZGQTBRITKJ2Y3PWQM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/04/6FGAXZTBLZGQTBRITKJ2Y3PWQM/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Nov 2024 04:47:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QGIURJIWR26HXC4RLTQQ3QTWYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산남부경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공사현장에서 상습적으로 근로자들의 임금을 중간에 가로챈 플랜트 업체 직원들이 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;울산남부경찰서는 울산의 한 플랜트 업체 소속 50대 A씨 등 팀장 2명을 사기 혐의로, 현장소장인 40대 B씨를 사기방조 혐의로 불구속 입건해 검찰에 송치했다고 4일 밝혔다. 경찰은 이들의 범행에 가담해 업체로부터 높은 임금을 받아 차액을 돌려준 근로자 89명은 사기 혐의로 불구속 입건해 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;A씨 등은 경기도 평택시의 한 신축 공사 현장에서 근로자를 고용하면서 임금을 실제보다 높인 허위 근로계약서를 작성하고, 실제 임금을 뺀 차액을 중간에 가로채는 일명 ‘똥떼기’ 수법으로 업체를 속인 혐의를 받고 있다. ‘똥떼기’는 건설현장에서 사용하는 은어로, 팀장들이 근로자들의 일당에서 일정 부분을 임의로 떼고 지급하거나 지급 후 다시 회수하는 수법이다.&lt;br&gt;&lt;br&gt;이들은 이런 수법으로 지난 2019년 12월부터 올해 6월까지 4년 6개월간 676차례에 걸쳐 모두 3억8000만원을 가로챈 것으로 조사됐다. 가로챈 돈은 대부분 현장소장이나 팀장 등 관리자들의 식비와 개인 생활비, 채무변제 등에 사용한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰 수사 과정에서 현장소장 B씨가 팀장으로부터 현장 안전수칙 적발 시 시공사 안전점검원을 접대해 무마시켜 달라는 등 부정청탁을 받고 1500만원을 수수한 혐의도 추가로 확인됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “똥떼기 수법은 건설현장에서 관행적으로 이어왔지만 명백한 범죄행위”라며 “노동자 임금착취와 과도한 사업비 지출이 자칫 부실공사로 이어질 수 있는 만큼 처벌이 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘로봇이 책 찾아주는’ 공공도서관…서울 서북권 첫 시립도서관 4일 착공</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/04/54MZ2VOC2VFGNIMW35JXVEO3OY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/04/54MZ2VOC2VFGNIMW35JXVEO3OY/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Nov 2024 03:19:00 +0000</pubDate>
-      <content:encoded>오는 2027년이면 서울 서대문구 북가좌동에도 시립도서관이 들어설 것으로 보인다. 중구 서울도서관에 이은 두 번째 시립도서관이다. 새로 지어지는 도서관에는 읽고 싶은 책을 로봇이 찾아주는 ‘자동화서고’가 국내 공공도서관 최초로 도입된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KERV5RTPYJFT7N3D77AYKWXM2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 북가좌동에 들어설 김병주도서관의 조감도. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 4일 김병주도서관의 착공식을 열고 본격적인 공사에 들어간다고 밝혔다. 도서관 이름은 건립 비용 300억원을 기부한 김병주 MBK파트너스 회장의 이름을 딴 것이다. 서울시 관계자는 “기부자에 대한 예우 차원”이라고 말했다.&lt;br&gt;&lt;br&gt;이번에 공사를 시작하는 김병주도서관은 지상 5층 규모로 지어진다. 인근에 있는 가재울중앙공원과 어우러지는 ‘공원 속 도서관’으로 짓는 것이 특징이다. 이를 위해 지상층을 개방된 형태로 조성해 공원과 이어지는 야외 독서 공간으로 만든다.&lt;br&gt;&lt;br&gt;읽고 싶은 책을 로봇이 찾아주는 ‘자동화서고’도 국내 공공도서관 최초로 도입한다. 서울시 관계자는 “로봇이 책 찾는 모습을 모두가 볼 수 있게 통유리창도 만들 예정”이라고 말했다. 이외에도 가족 단위 방문객을 위해 어린이 문화교실 등 문화 공간도 마련할 계획이다.&lt;br&gt;&lt;br&gt;서울시는 이번 김병주도서관을 시작으로 2032년까지 서대문·관악·동대문·강서·송파·도봉 등 서울 시내 6곳에 시립도서관을 지을 예정이다.&lt;br&gt;&lt;br&gt;이회승 서울시 문화본부장은 “도서관이 지역 곳곳에 활력을 불어넣는 문화 거점이 되도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>문다혜 ‘불법 숙박업’ 혐의 입건…경찰, 오피스텔 투숙객 진술 확보</title>
-      <link>https://www.chosun.com/national/2024/11/04/IE5JCIYMBJENRCN7R3TW2M7CVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/11/04/IE5JCIYMBJENRCN7R3TW2M7CVY/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Nov 2024 04:24:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FQORZK5ME6MO4E32E6VE2CUGMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'음주운전 혐의'를 받는 문재인 전 대통령의 딸 문다혜 씨가 지난 10월 18일 오후 서울 용산구 용산경찰서에서 피의자 조사를 마친 뒤 귀가하고 있다. /뉴시스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘불법 숙박업’ 의혹이 불거진 문재인 전 대통령의 딸 다혜 씨가 경찰에 입건됐다.&lt;br&gt;&lt;br&gt;김봉식 서울경찰청장은 4일 정례 기자간담회에서 문씨가 소유한 서울 영등포구 오피스텔 건물의 투숙객 진술을 확보했다고 밝혔다. 문씨는 숙박업 영업 신고를 하지 않고 오피스텔을 불법으로 숙박업에 이용한 혐의(공중위생관리법 위반)를 받는다. 경찰은 영등포구 수사의뢰, 시민단체 고발장, 국민신문고 민원 등을 접수해 문씨를 입건해 조사 중이다.&lt;br&gt;&lt;br&gt;경찰은 투숙객 중 일부로부터 이 오피스텔에 실제 투숙했다는 내용의 참고인 진술을 받았고, 외국인 투숙객이 있는지 등에 대해서는 추후 신원을 확인해 참고인 조사를 할 계획이다. 서울청 고위 관계자는 오피스텔을 직접 방문해서 불법 숙박업소 운영 여부를 확인하면 되지 않느냐는 질문에 “투숙객은 참고인이라 강제수사를 할 수 없다”며 “투숙객이 있는지, 있다면 어떤 경위로 투숙했는지 등을 확인하고 있다”고 답했다.&lt;br&gt;&lt;br&gt;경찰은 필요할 경우 에어비앤비에도 수사 협조를 요청할 계획이다.&lt;br&gt;&lt;br&gt;한편 경찰은 문씨의 음주운전 사건과 관련, 치상 혐의 적용 등 여러 가지 가능성을 열어두고 수사를 이어가고 있다. 김 청장은 택시기사가 다쳤다고 판단하느냐는 질문에 “다쳤는지 안 다쳤는지 (따지는) 치상 부분은 진단서나 소견서가 발급되지 않았더라도 사고 전체 내용과 피해자의 진술 등을 종합적으로 판단한다”며 “여러 가능성은 열려있다”고 말했다. 상해 여부를 의사가 판단하지 않느냐는 질문에는 “진단서와 소견서가 가장 객관적이지만 위험운전치상 혐의는 진단서, 소견서 없이도 사고 내용을 전체적으로 검토해 판단할 부분”이라고 설명했다. 서울 용산경찰서는 지난달 23일 택시기사가 치료받은 경기도 양주시의 한의원을 압수수색해 택시기사의 상해진단서와 의료소견서를 확보하려 했으나 기사가 이들 서류를 발급받지 않아 이를 확보하지 못했다. 택시기사가 문씨와 합의했는데도 불구하고 압수수색을 한 것이 이례적이지 않냐는 질문에는 “합의는 당사자 간 하는 거고, 수사는 위험운전치상을 더 엄격히 판단해야 하므로 필요한 절차를 진행한 것”이라고 답했다. 김 청장은 문씨 추가 소환 계획은 “현재까지는 없다”며 “(검찰) 송치와 수사 종결이 안 됐다. 현재까지 수사한 사항을 (토대로) 종합적으로 법리검토하고 있는 단계”라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/FQORZK5ME6MO4E32E6VE2CUGMY.jpg?width=2700&amp;height=1800&amp;auth=3c48ad6c0a2d1d59278deb17d4b78f6e48765c3fc6349e40d7edca70499a9bdd&amp;smart=true" type="image/jpeg" height="1800" width="2700">
-        <media:description type="plain">'음주운전 혐의'를 받는 문재인 전 대통령의 딸 문다혜 씨가 18일 오후 서울 용산구 용산경찰서에서 피의자 조사를 마친 뒤 귀가하고 있다./뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>군납 배터리 품질검사 조작...아리셀 박순관 대표 등 검찰 송치</title>
-      <link>https://www.chosun.com/national/regional/2024/11/04/OPYUJ5YZKVHNPF3IBF3EMGZSSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/04/OPYUJ5YZKVHNPF3IBF3EMGZSSQ/</guid>
-      <dc:creator>수원=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Nov 2024 04:12:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B2OBXSOEOJS5KGUAUEM2OTTGUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'화성 아리셀 공장 화재'와 관련해 박순관 아리셀 대표가 8월 28일 구속 전 피의자 심문(영장실질심사)을 마친 후 대기 장소인 경기도 수원시 영통구 수원남부경찰서 유치장으로 들어서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군납용 전지에 대한 품질검사 과정에서 시험데이터를 조작한 혐의가 포착돼 수사를 받아온 일차전지 업체 아리셀의 박순관 대표와 관계자들이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경기남부경찰청 아리셀 화재사고 수사본부는 4일 업무방해, 특정경제범죄 가중처벌법상 사기 등 혐의로 박 대표와 아리셀 관계자 등 12명을 지난 1일 불구속 송치했다고 밝혔다. 다만 입건자 가운데 혐의가 인정되지 않은 아리셀 관계자 3명에 대해서는 불송치 결정을 했다.&lt;br&gt;&lt;br&gt;박 대표 등은 아리셀이 국방부에 전지를 납품하기 시작한 2021년부터 품질검사 시험데이터를 조작해 국방기술품질원의 검사를 통과하는 수법으로 올해 2월까지 47억원 상당을 군납한 혐의를 받고 있다. 경찰은 박 대표가 사건을 주도한 혐의를 받는 아들 박중언 아리셀 총괄본부장과 나눈 대화 내용을 살펴본 결과, 박 대표가 품질검사 조작 과정에 관여한 혐의가 있다고 판단한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 이에 앞서 아리셀의 모회사인 에스코넥과 관련해서는 2017∼2018년 국방부에 82억원 상당의 전지를 납품하면서 역시 품질검사 데이터를 조작한 지난달 25일 에스코넥 관계자 7명(1명 구속)을 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;경찰은 지난 6월 24일 발생해 23명이 사망한 아리셀 화재 사고를 수사하면서 에스코넥과 아리셀의 이같은 비리를 포착해 수사를 벌여왔다. 박 대표와 박 총괄본부장은 아리셀 공장 화재와 관련해 업무상 과실치사상 등의 혐의로 구속 기소된 상태이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7VUKO5PVCJIYTONDMQBVSALTSI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;사망자 23명이 발생한 '화성 아리셀 공장 화재'와 관련해 박순관 아리셀 대표가 지난 8월 28일 구속 전 피의자 심문(영장실질심사)을 마친 후 대기 장소인 경기도 수원시 영통구 수원남부경찰서 유치장으로 들어서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘연 1000% 이자’ 불법 사채업 피해자 지원</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/04/K2BOQRGXYZEQZPDQKB5GSKAG34/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/04/K2BOQRGXYZEQZPDQKB5GSKAG34/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Nov 2024 04:16:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EX2TTTHXHNDAPLYY34TK3TKQRQ.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지검. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울서부지검 범죄수익환수팀(부장 김지영)은 대한법률구조공단 서부지부와 협력해 불법 대부업자로부터 압수한 현금 등 22억원 상당에 대해 압수물 반환을 막고 불법사금융 피해자들을 지원했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;앞서 검찰은 2022년 10월 연 1000％의 이자율로 약 160억원의 불법수익을 챙긴 불법 미등록대부업자 2명을 기소하면서 압수물 22억원에 대해 몰수·추징을 요청했으나 1심과 항소심 재판부는 이를 기각했다. 당시 법원은 압수물이 해당 사건 범행으로 취득한 물건이라는 증거가 없어 몰수할 수 없고, 초과이자는 피해자들에게 반환해야 해 추징이 부적절하다고 판단했다.&lt;br&gt;&lt;br&gt;검찰은 몰수·추징 기각 판결이 확정될 경우 피고인들에게 압수물이 반환돼 고액의 초과이자를 납부한 피해자들의 피해 회복이 사실상 불가능할 것으로 예상했다. 이에 검찰과 법률구조공단은 지난 7월 불법대부업자들에게 초과이자를 납부한 피해자들을 대리하는 공익소송의 필요성을 논의한 뒤 법률상담과 소송대리를 진행하는 업무협력 체계를 구축했다.&lt;br&gt;&lt;br&gt;검찰은 전담팀을 편성하고 초과이자를 지급한 피해자 1천500여명에게 전화해 압수물에 대한 보전조치 방법 등을 안내했다. 이 중 200여명의 피해 진술을 듣고 법률구조공단에 인계했다. 공단도 경제적으로 취약한 피해자 41명을 대리해 민사소송을 제기, 피해 지원에 나섰다. 대부업자의 압수물 반환 청구권에 대한 가압류 신청과 부당이득 반환소송을 제기했으며 향후 40여명에 대해서도 같은 내용의 공익소송을 추가로 진행할 예정이다.&lt;br&gt;&lt;br&gt;검찰과 법률구조공단은 “긴밀히 협력해 서민의 절박한 상황을 악용하며 일상생활을 위협하는 불법 사금융 범죄를 엄단하고 피해자를 적극적으로 지원하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>북한강 토막 시신 유기범은 ‘중령 진급 예정자’… 피해자는 女 군무원</title>
