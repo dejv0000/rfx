@@ -13,6 +13,105 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘걸을 맛 난다’...제주올레 걷기축제 7~9일 찾아온다</title>
+      <link>https://www.chosun.com/national/regional/2024/11/06/5GJ6M2HPJNAFHJ276IJLVRIARQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/06/5GJ6M2HPJNAFHJ276IJLVRIARQ/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Nov 2024 05:02:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WBBRTYLXF5A2LJFW7ICM4KJIZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024 제주올레걷기축제 포스터./(사)제주올레&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘걸을 맛 난다.’ 제주의 자연을 벗삼아 펼쳐지는 이동형 축제인 ‘제주올레걷기축제’가 찾아온다.&lt;br&gt;&lt;br&gt;(사)제주올레는 오는 7일부터 9일까지 3일간 제주올레14코스, 15-B코스, 16코스 일원에서 2024 제주올레걷기축제 ‘걸을 맛 난다’를 개최한다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;제주올레걷기축제는 하루에 한 코스씩 제주올레 길을 걸어서 이동하며 공연, 전시, 체험 행사 등을 즐기고 제주의 독특한 섬 문화와 마을 자원의 가치를 재발견하는 국제 걷기 행사다.&lt;br&gt;&lt;br&gt;축제 1일 차는 14코스인 제주시 한경면 저지녹색농촌체험장에서 개막식을 시작으로 한림읍 한림항까지 19.6㎞를 걷는다. 2일 차에는 15-B코스인 제주시 애월읍 고내리레포츠공원에서 한림항까지 14㎞, 3일 차에는 16코스인 고내리레포츠공원에서 애월읍 항파두리 항몽유적지까지 10.4㎞를 걸으며 폐막식이 진행된다.&lt;br&gt;&lt;br&gt;제주올레 축제는 지역민들의 참여로 마을 내 지역자원을 활용한 풍물밴드, 갓대금 등 전통문화 공연과 제주전통놀이, 월령리 마을퀴즈, 영등할망 포춘쿠키, 마을이장이 들려주는 곰솔이야기 등 체험형 프로그램도 준비됐다. &lt;br&gt;&lt;br&gt;제주 마을의 정을 느낄 수 있는 뿔소라강된장톳비빔밥, 표고장아찌비빔밥 등 마을 부녀회의 정성이 담긴 마을 먹거리도 판매해 여행자들의 입을 즐겁게 할 예정이다.&lt;br&gt;&lt;br&gt;특히 2일 차인 8일에는 서귀포시 주상절리 인근 제주올레8코스에서 한-아시안센터와 제주도, 제주올레가 공동 개최하는 ‘제주올레 8코스: 한-아시안 올레 제막식’이 열린다. 제막식에서는 한국과 아세안을 소개하는 기념 표지판과 벤치가 설치될 예정이다.&lt;br&gt;&lt;br&gt;또 이번 축제에서는 처음으로 ‘올해의 초대’라는 프로그램을 마련해 이주배경주민과 함께 걷는다. 축제 3일 차 16코스에서 진행되며, (사)제주외국인평화공동체 부설 제주이주여성상담소와 함께한다. 이주배경주민은 제주도에 거주하는 외국인 여성으로 필리핀, 베트남, 중국 등 8개국 30명이 참가한다. 이들에게는 축제 공식 기념품과 마을 부녀회에서 준비한 점심 식사, 제주올레 패스포트가 제공된다. &lt;br&gt;&lt;br&gt;3일 차 종점인 항파두리 항몽유적지에서 진행되는 폐막식에서는 참가자들이 소감을 나누는 시간도 갖는다.&lt;br&gt;&lt;br&gt;안은주 제주올레 대표는 “제주올레 길은 혼자 걸어도 좋지만, 제주 잔칫날 같은 제주올레걷기축제 기간 동안 흥겹게 걷는 맛도 좋다. 올해는 ‘걸을 맛 난다’는 슬로건처럼 걸을 맛 나게 하는 프로그램들을 더 다양하게 준비할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강남 한복판 평범한 사무실, 알고 보니 650억 판돈 ‘호화 도박장’</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/06/LCXRIBIOJ5ASPMYDFL3VZYNS74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/06/LCXRIBIOJ5ASPMYDFL3VZYNS74/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Nov 2024 04:44:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EZKWC2DUVNKIRKB5EGJYAER32I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장보은 서울경찰청 광역수사단 마약범죄수사대 국제범죄수사1계장이 6일 오전 서울 마포구 서울경찰청 광역수사단에서 강남 한복판에서 대규모 불법 도박장을 운영해온 일당 검거와 관련된 브리핑을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남 한복판에서 평범한 사무실로 위장해 수백억 원대 판돈이 오간 호화 불법 도박장을 운영한 일당이 경찰에 적발됐다.&lt;br&gt;&lt;br&gt;서울경찰청 마약범죄수사대 국제범죄수사계는 지난해 6월부터 지난 8월까지 논현동·신사동·역삼동 등지에서 온라인 중계형 도박장을 운영한 혐의(관광진흥법 위반) 등으로 50대 A씨를 구속해 검찰로 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨가 고용한 전문 딜러와 종업원 20명도 도박 방조 혐의로 함께 검거됐다. 또한 회원제로 도박에 참여한 13명도 덜미를 잡혔다.&lt;br&gt;&lt;br&gt;경찰은 강남 한복판에서 해외 카지노와 연계한 불법 도박장이 운영된다는 첩보를 입수하고, 지난 8월 건물에서 잠복하던 중 배달 음식이 들어가는 때를 노려 이들을 검거했다.&lt;br&gt;&lt;br&gt;해당 도박장은 빌딩에 들어선 평범한 사무실처럼 보였지만, 내부는 실제 카지노처럼 도박 테이블, 모니터, 휴게 공간 등을 갖췄다. A씨는 인터넷 도박 사이트로부터 필리핀 카지노 영상을 받아 모니터로 생중계하며 회원들이 베팅에 참여할 수 있도록 했다.&lt;br&gt;&lt;br&gt;도박장 회원은 수백 명에 이르며, 14개월간 거래된 도박 자금은 약 650억 원 규모로 파악됐다. 회원 연령대는 40~50대가 주를 이뤘으며 1인당 최대 4억 원까지 판돈을 건 것으로 확인됐다.&lt;br&gt;&lt;br&gt;A씨는 단속을 피하려고 단기 임대 형태로 사무실을 빌려 14개월간 세 차례 장소를 옮겼으며, 건물 외부에 CCTV를 설치해 감시망을 구축했다. 또한 지인 추천을 받아 철저한 회원제로 운영하며 확인되지 않은 사람은 들어갈 수 없도록 통제하는 치밀함을 보이기도 했다.&lt;br&gt;&lt;br&gt;이번 단속 과정에서 경찰은 A씨의 부당 수익금 2억500만 원도 압수했다. 경찰 관계자는 “해외에 거점을 두고 도박 사이트를 설계해 운영하는 총책들을 끝까지 추적해 검거하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 노원구 상가에서 도장 작업하던 70대 남성 추락사</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/06/UZQ4AQAC7BBARE7ZVM4BZV4RNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/06/UZQ4AQAC7BBARE7ZVM4BZV4RNE/</guid>
+      <dc:creator>강우석 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Nov 2024 04:45:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QIJBW5LQSQ5FA2Z6DEHWOO4E2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 노원경찰서 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 노원구에서 상가 외벽 도장 작업을 하던 인부 1명이 추락해 사망했다.&lt;br&gt;&lt;br&gt;서울 노원경찰서와 노원소방서 등은 지난 5일 오전 7시 40분쯤 노원구 마들역 7번출구 인근 상가에서 외벽 도장 작업을 하던 70대 남성 A씨가 추락해 사망했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 상가 외벽 도장 작업을 하기 위해 크레인에 올랐다가 3m 높이에서 추락한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 고용한 외주업체 대표 등 관계자를 불러 정확한 사고원인과 책임소재를 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김종민, 11세 연하 여친과 내년 결혼... “프러포즈는 아직”</title>
+      <link>https://www.chosun.com/national/people/2024/11/06/SF5BC4RFFRBO7GOYR52RS3KDZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/06/SF5BC4RFFRBO7GOYR52RS3KDZA/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Nov 2024 04:24:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QQJUUFMORRPTZBEZVBVXKW65TM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 코요태 멤버 김종민./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 코요태 멤버 김종민(45)이 11살 연하 여자 친구와 내년에 결혼할 계획이라고 밝혔다.&lt;br&gt;&lt;br&gt;코요태는 5일 SBS 파워FM ‘두시탈출 컬투쇼’에 출연했다. 이들은 요즘 근황을 전하던 중 김종민의 연애 이야기가 나왔다.&lt;br&gt;&lt;br&gt;DJ 김태균이 “(여자 친구와) 결혼 계획이 있냐”라고 묻자 김종민은 “내년 정도다. 프러포즈 계획은 아직 없다”고 답했다.&lt;br&gt;&lt;br&gt;여자 친구와의 첫 만남에 대해 김종민은 “소개받은 자리에서 연락처를 받고 내가 먼저 만나자고 연락했다”며 “이렇게 될 것 같은 느낌이 왔다”고 했다.&lt;br&gt;&lt;br&gt;빽가는 김종민의 여자 친구에 대해 “부잣집 공주님 스타일이다. 정말 고귀하시고, 처음 보자마자 ‘저분은 부잣집이다’ 이런 느낌이 들 정도였다”고 설명했다.&lt;br&gt;&lt;br&gt;신지도 “(여자 친구가) 그 나이대에 딱 (필요한) 모든 걸 가지고 있다. 똑 부러져서 너무 좋다. 그리고 오빠(김종민)를 좋게 변화시켰다”고 했다. 이어 “그게 대단한 거다. 오빠가 고집이 있는데 그런 김종민을 변화시켰다니 대단한 분인 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;최근 김종민은 11세 연하인 비연예인 여자 친구와 2년째 열애 중이라며 “(여자 친구는) 사업을 하고 있다. 대표님이시다”라고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;김종민은 지난 2000년 코요태의 객원 멤버로 합류한 후 2001년부터 코요태의 정규 멤버가 돼 활동을 이어오고 있다. 김종민은 가수 활동을 겸하며 KBS 2TV 예능 프로그램 ‘1박 2일’ 등 다양한 예능프로그램에서 활약하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>에이즈 걸린 채 중학생과 성매매… 법정서 “전파 우려 낮다” 주장</title>
+      <link>https://www.chosun.com/national/regional/honam/2024/11/06/VGAPEVERNFCHTCB5GPVT6QCGQE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/11/06/VGAPEVERNFCHTCB5GPVT6QCGQE/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Nov 2024 03:36:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6Z2CPKMHZF7JCPKBDGRQY6BL4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;후천성면역결핍증(AIDS)에 걸린 채 청소년을 성매매한 혐의로 기소된 40대 남성이 첫 재판에서 “에이즈 전파 우려가 낮다”고 주장했다.&lt;br&gt;&lt;br&gt;광주지법 제11형사부(재판장 고상영)는 6일 미성년자 의제강간 등의 혐의로 재판에 넘겨진 A(49)씨의 첫 재판을 열었다.&lt;br&gt;&lt;br&gt;A씨는 지난 7월 채팅앱을 통해 알게 된 중학생 B양을 불러내 성적 학대 행위를 하고 대가로 현금 5만원과 담배 2갑을 주는 등 성매매 목적으로 청소년을 꾀어낸 혐의 등으로 기소됐다.&lt;br&gt;&lt;br&gt;전문직 종사자인 A씨는 2006년 후천성면역결핍증(에이즈)에 걸려 치료를 받고 있다는 사실을 숨긴 채 청소년을 상대로 범행해온 것으로 조사됐다. A씨는 수사를 받던 중 “고혈압·당뇨 약을 가져다 달라”고 요구했다가 에이즈 감염 사실이 밝혀졌다. B양은 전염되지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 이날 재판에서 혐의를 인정했다. 그는 “성관계를 맺으면 에이즈 전파 가능성이 큰 것 아니냐”는 재판장의 질문에 “약물을 복용하고 있고, 성관계 시 콘돔을 사용해 감염 우려는 낮다”고 주장했다.&lt;br&gt;&lt;br&gt;경찰이 A씨의 휴대전화를 포렌식 하는 등 또 다른 여성과 성매매했을 가능성을 염두에 두고 후속 수사를 진행하고 있다. 재판부는 수사 진행 상황을 보고 다음 재판을 진행할 방침이다.&lt;br&gt;&lt;br&gt;광주여성인권지원센터는 “A씨는 지난 2011년에도 아동과 청소년을 대상으로 강제 추행을 하는 등 지속적인 범죄를 저질러 추가 피해가 우려되는 상황”이라며 A씨에 대한 철저한 여죄 수사를 촉구한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, ‘택시 콜 차단·몰아주기’ 카카오 이틀째 압수수색</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/06/WXHIIN5OR5FW5C4OHO6BJYW4G4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/06/WXHIIN5OR5FW5C4OHO6BJYW4G4/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Nov 2024 04:30:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QFT7QQBR6Y4C4O5LEKVVMXRJVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;카카오 택시./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;카카오모빌리티의 ‘콜 몰아주기’ 및 ‘콜 차단’ 혐의를 수사 중인 검찰이 연이틀 카카오 본사 등을 상대로 압수수색을 벌이고 있다.&lt;br&gt;&lt;br&gt;서울남부지검 금융조사2부(부장 장대규)는 6일 오전부터 성남 판교 소재 카카오 본사와 자회사 카카오모빌리티 사무실 등 4곳을 압수수색 중이다. 지난 5일에도 관련사 7곳을 상대로 압수수색을 벌였지만, 범위가 방대해 하루 만에 다 끝내지 못한 것이다.&lt;br&gt;&lt;br&gt;카카오모빌리티는 일반 택시를 배제하고 가맹택시인 카카오T블루에 콜을 몰아주는 방식으로 알고리즘을 조작했다는 ‘콜 몰아주기’ 혐의를 받는다. 또 경쟁 가맹택시에게 일반 호출을 차단했다는 ‘콜 차단’ 혐의도 있다.&lt;br&gt;&lt;br&gt;앞서 이 사건을 조사한 공정거래위원회는 총 995억 여원의 과징금을 카카오모빌리티에 부과했다. 검찰 수사는 지난해 12월 중소벤처기업부가 공정위에 카카오모빌리티를 ‘콜 몰아주기’ 혐의로 고발하도록 요청하면서 시작됐다. 공정위는 또 지난 10월 ‘콜 차단’ 혐의로 카카오모빌리티를 검찰에 고발했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 “지역 완결적 필수 의료 체계 구축하겠다”</title>
+      <link>https://www.chosun.com/politics/politics_general/2024/11/06/AG5NVFLW2VAD5IK4YGBHIKFGKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/politics_general/2024/11/06/AG5NVFLW2VAD5IK4YGBHIKFGKE/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Nov 2024 03:19:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T746QPY7MBLKNKRYZ4JVYOVG4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 6일 강원도 춘천 송암스포츠타운 실내테니스장에서 열린 '2회 지방자치·균형발전의 날 기념식'에 참석해 국기에 경례하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령은 6일 제2회 지방 자치 및 균형 발전의 날 기념식에 참석해 “지역 완결적 필수 의료 체계를 속도감 있게 구축해 지역 주민들의 생명과 건강을 지키겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;윤 대통령은 이날 오전 강원 춘천시 송암스포츠타운에서 열린 기념식 축사에서 “좋은 교육과 의료가 뒷받침돼야 지역 주민들의 삶의 질이 높아지고 더 많은 기업과 인재들이 지역으로 오게 될 것”이라며 이같이 말했다.&lt;br&gt;&lt;br&gt;윤 대통령은 “대한민국이 직면한 도전과 위기를 극복하고 새로운 도약을 이루기 위해서는 지방이 살아나야 한다”며 “각 지역이 강점을 살려 성장을 추진하고, 중앙정부가 이를 든든하게 뒷받침해 지역 균형발전을 실현해야 한다”고 강조했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HNSCYKM2SVK6HGBISISLSDKDGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 6일 강원도 춘천 송암스포츠타운 실내테니스장에서 열린 '2회 지방자치·균형발전의 날 기념식'에 참석해 기념사를 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이와 관련해 윤 대통령은 “지역 균형 발전에서 무엇보다 중요한 것은 지역에서 좋은 일자리가 충분히 창출되도록 하는 것”이라고 강조했다. 윤 대통령은 지난 6월 8개 지방자치단체에 기회발전특구가 지정된 것에 이어, 이날 강원·광주·울산·세종·충북·충남 등 6개 지방자치단체에 기회발전특구가 지정된 것을 축하하고, 기업들이 기회발전특구에 33조8000억원을 투자하기로 한 것을 언급하면서 “기업 투자가 본격화되면 지역에 좋은 일자리가 많이 생기고 지역 경제가 살아나 주민들도 혜택을 체감하게 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;윤 대통령은 이어서 같은 장소에서 열린 2024 대한민국 지방시대 엑스포에 참석해 지방시대전시관, 강원특별자치도관, 대구경북통합관 등 주요 전시 시설을 돌아봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공수처, ‘수사 자료 유출’ 전직 검사 기소</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/06/YXMCCUZNJBGQXPRBDG2DYIPTUE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/06/YXMCCUZNJBGQXPRBDG2DYIPTUE/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Nov 2024 04:03:25 +0000</pubDate>
+      <content:encoded>사건 관계인에게 수사 자료를 유출한 전직 부장검사를 고위공직자범죄수사처가 수사해 재판에 넘겼다.&lt;br&gt;&lt;br&gt;공수처 수사3부(부장 이대환)는 사건 관계인에게 수사 자료를 사진 촬영하게 해 외부로 유출한 검사 출신 박모 변호사를 공무상 비밀누설 혐의로 불구속 기소했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YHORHZLS4DQF3FLT5HRYYXOUUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공수처 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 변호사는 2019년 11~12월 서울중앙지검 검사로 근무하면서 군납업체 뇌물 사건을 수사했는데, 이때 군납업체 등으로부터 압수한 증거물을 제보자이자 뇌물공여 공범인 A씨가 촬영하게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 8일에 걸쳐 사진 171장을 촬영한 것으로 알려졌는데, 공수처는 그중 11월 7일과 12월 4일 등 박 변호사가 관여한 것으로 확인된 이틀치 촬영분을 기소했다. A씨는 11월 7일에는 자필 메모를, 12월 4일에는 금융거래 정보를 촬영한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;박 변호사는 자신이 A씨에게 사진을 촬영하도록 해준 사실은 있다면서도 “수사에 필요한 진술을 받아내기 위함이었다”는 취지로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 검찰은 박 변호사에 대한 감찰 과정에서 범죄 혐의를 발견해 수사에 착수했다. 검찰은 지난 9월 12일 박 변호사를 개인정보보호법 위반 혐의로 불구속 기소했고, 같은 날 공무상 비밀누설 혐의를 공수처에 이첩했다. 공무상 비밀누설 사건은 공수처 수사 대상 범죄다.&lt;br&gt;&lt;br&gt;사건을 넘겨받은 공수처는 당시 박 변호사와 함께 일했던 검찰 수사관, 피압수자 등을 참고인으로 조사했고 박 변호사도 두 차례 피의자 신분으로 불러 조사했다.&lt;br&gt;&lt;br&gt;공수처 관계자는 “공소시효 만료까지 40여일 남은 상황에서 사건을 넘겨받았는데 확인해야 할 부분을 충분히 확인한 뒤 기소했다”면서 “공수처 설립 이유가 고위공직자 범죄 수사인데, 전직 검사 사건을 수사해 결과를 냈다는 측면에서 의의가 있다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;공수처가 피의자를 직접 법원에 기소한 것은 2021년 출범 이후 이번이 다섯 번째다. 공수처는 앞서 김형준 전 부장검사 ‘스폰서 검사’ 사건, 손준성 검사장 고발 사주 사건, 윤모 전 검사 고소장 위조 사건, 김모 경무관 뇌물 수수 사건을 기소했다. 이중 김 전 부장검사는 2심에서, 윤 검사는 1심에서 무죄 선고가 났다.&lt;br&gt;&lt;br&gt;박 변호사는 대검찰청 간부로 일하다 지난 6월 일선 지검에 부부장급으로 강등 발령됐고, 이후 사표를 내고 현재 변호사로 활동 중이다. 감찰·수사가 진행 중일 때는 사직서가 수리되지 않는 점을 고려하면 검찰의 사표 수리가 이례적이라는 말도 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“남 보기 부끄러워” 전자발찌 훼손한 20대 女 구속영장</title>
+      <link>https://www.chosun.com/national/regional/2024/11/06/RPTKYBD5VFGDNKH27AHUZXRW7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/06/RPTKYBD5VFGDNKH27AHUZXRW7A/</guid>
+      <dc:creator>평택=권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Nov 2024 03:54:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FL2OWTJKCIMRLUKGN4N723KX5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;위치추적 전자장치(전자발찌). /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;평소 알고 지내던 남성을 스토킹한 혐의로 전자발찌(위치추적 전자장치) 부착 명령을 받은 20대 여성이 전자발찌를 훼손하다 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 평택경찰서는 전자장치 부착 등에 관한 법률 위반 혐의로 A씨에 대해 구속영장을 신청했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 전날 오후 11시쯤 평택시 포승읍에서 자신의 발목에 차고 있던 전자발찌를 가위로 훼손하려 한 혐의를 받고 있다. A씨의 전자발찌 밴드 부분이 훼손되자 법무부에 자동 통보됐고, 법무부의 신고를 받은 경찰이 출동해 A씨를 검거했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난달 평소 알고 지낸 남성의 의사에 반해 연락을 취하는 등 스토킹한 혐의로 형사 입건됐다. 또 판결 전 잠정 조치로 연말까지 전자발찌 부착 명령을 받은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;올해 시행된 스토킹범죄의 처벌 등에 관한 법률 개정안에는 스토킹 가해자가 접근금지 명령을 지키는지 실시간으로 감시해 피해자에게 보복하는 것을 막겠다는 취지로 유죄 판결 이전에도 전자발찌를 부착할 수 있는 잠정조치가 포함됐다.&lt;br&gt;&lt;br&gt;A씨는 “전자발찌가 불편하고, 남들에게 보이기 부끄러워서 훼손했다”고 진술했다. 경찰은 A씨를 상대로 정확한 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>文정부 ‘강제 북송’ 사건 관련 개선 인권위 권고... 정부, 1년 만에 수용</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/06/ICXR4EMXNZFA7GQQ6URE4IQTJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/06/ICXR4EMXNZFA7GQQ6URE4IQTJU/</guid>
+      <dc:creator>김보경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Nov 2024 03:48:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GTRV2H7VOB3GO2H5ARC5THMBSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2019년 11월  '탈북어민 강제북송' 사건 당시 귀순 의사를 밝혔던 탈북민 2명을 판문점을 통해 북한에 인계하던 상황을 촬영한 사진이 2022년 7월 공개됐다. /통일부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회(인권위)가 ‘어민 강제 북송 사건’과 관련해 정부 부처에 권고한 내용을 해당 부처가 받아들였다.&lt;br&gt;&lt;br&gt;인권위는 통일부·국정원·국가안보실이 북한이탈주민의 강제 송환과 관련된 법령 등 제도를 개선하고 인권침해 방지책을 마련하라는 등 권고한 내용을 해당 부처들이 수용한 것으로 지난달 14일 판단했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;이는 지난 문재인 정부 당시 귀순 의사를 밝힌 북한 어민 2명을 강제 북송한 사건과 관련한 권고다. 문재인 정부는 2019년 11월 2일 북방한계선을 넘어와 귀순 의사를 밝힌 남성 선원 2명을 북한 측 요청에 응해 같은 달 7일 강제북송했다. 당시 정부는 어민들이 타고 있던 배의 선원들을 살인한 후 도주 목적으로 탈북했다며 자백한 점을 들어 “많은 사람들을 살해한 중대범죄의 혐의를 받고 있는 피해자들을 우리 사회가 무조건 수용하기는 어렵다”고 입장을 밝혔다.&lt;br&gt;&lt;br&gt;인권위는 북송이 이뤄진 지 4일만인 2019년 11월 11일 관련 진정을 접수하고 조사에 돌입했다. 이듬해 인권위는 관련 자료 확보 및 사실 관계 판단이 어렵고, ‘위원회가 조사하는 것이 적절하지 아니하다고 인정되는 경우 (진정을) 각하한다’는 인권위법 조항을 들어 해당 진정을 각하했다. 2022년 11월 서울행정법원이 ‘각하가 부당하다’는 판결을 내놓자 인권위는 작년 6월에는 ‘사건 관련 재판이 열리고 있다’는 이유를 들어 진정을 각하했다.&lt;br&gt;&lt;br&gt;진정은 각하했지만, 인권위는 북송 과정에서 어민들의 생명권·안전권 등 기본권 침해가 발생했다는 점은 인정했다. 인권위는 해당 사건에서 통상적인 북한 이탈 동기와 과정과는 다른 점이 있어 귀순 의사의 진정성이 의심되는 측면이 있다면서도 “피해자들이 관계당국에 귀순 의향을 밝힌 바 있고 북송 당시 그 사실을 인지하고 두려움과 거부 의지를 표현한 점 등을 종합하면 피해자들의 귀순 의사 및 그 의사에 반한 송환이 이루어진 것임을 인정할 수 있다”고 밝혔다. 그러면서 유관 부서에 관련 제도와 법령을 개선하라는 권고를 내놨다. &lt;br&gt;&lt;br&gt;인권위 권고를 받아들인 통일부는 북한이탈주민이 국내에 입국하거나, 재외공관에 진입하는 경우 피보호의사를 확인하는 절차를 명확히 규정하여 2024년 입안 추진 예정이라고 전했다. 국가정보원은 유관기관 의견 수렴 절차를 거쳐 2024년 1월 관련 매뉴얼을 개정·시행 중임을 알렸고, 국가안보실은 인권위 권고 취지에 맞게 관계 기관과 협력하고 북한 선원 강제 북송 사건과 유사한 인권침해가 발생하지 않도록 업무에 만전을 기하겠다고 인권위에 의사를 전했다고 인권위는 밝혔다.&lt;br&gt;&lt;br&gt;인권위는 정부 부처의 권고 수용과 관련, “피진정기관들이 북한이탈주민의 강제 송환 과정에서 일어날 수 있는 인권침해를 해소하기 위해 인권위의 권고를 수용한 것을 환영한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>진실화해위, 6·25 당시 적대세력에 의한 희생자 17명 추가 피해 인정</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/06/AKKEVQUOERGFZHDQUWMSTUY54U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/06/AKKEVQUOERGFZHDQUWMSTUY54U/</guid>
+      <dc:creator>강우석 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Nov 2024 03:24:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SH5GTH5ZONCW3CHJKUNKFB3NPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김광동 진실화해위원회 위원장이 지난달 10일 국회 행정안전위원회에서 열린  국정감사에서 의원의 질의에 답변하고있다. /이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·25 전쟁 당시 경기지역에서 인민군 등 적대세력에 의해 희생된 피해자 17명이 진실화해위 조사 결과 추가로 파악됐다.&lt;br&gt;&lt;br&gt;진실·화해를위한과거사정리위원회(위원장 김광동)는 지난 5일 서울 중구 진실화해위에서 제90차 위원회를 열고 6·25 전쟁 당시 경기지역에서 적대세력에 의해 희생당한 17명에 대한 추가 피해를 인정했다.&lt;br&gt;&lt;br&gt;당시 피해자들은 1950년 7월부터 10월 사이에 경기 파주·양주 등 지역에 거주하다 인민군, 내무서원, 지방 좌익 등 적대세력에게 끌려간 후 희생되거나 행방불명됐다. 이들은 기독교인, 공무원, 인민군에 비협조, 의용군 강제 징집 등 다양한 이유로 적대세력에 피해를 입은 것으로 드러났다.&lt;br&gt;&lt;br&gt;피해자들은 경기 파주(5명)·양주(4명)·수원(2명)·부천(1명)·용인(1명)·이천(1명)·장단(1명)·평택(1명)·포천(1명) 등 지역에서 희생됐다. 희생자 중 성별로는 남성이 15명(88.2%), 연령별로는 30대가 7명(41.2%)으로 가장 많았다. 10살 미만의 아이가 1명(5.9%), 50세 이상도 2명(11.8%)으로 드러났다.&lt;br&gt;&lt;br&gt;진실화해위는 1952년 작성된 6․25전쟁 피살자 명부, 6․25전쟁 피납치자명부, 피해자 가족들이 대한적십자사에 신고한 실향사민신고서, 제적등본 등을 조사해 피해를 인정했다. 진실화해위는 “국가에 북한 정권의 사과 촉구, 희생자와 유가족에 대한 공식 사과 등을 권고했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“코인 채굴에 투자하라” 형사에 전화했다 모조리 쇠고랑 찬 사기단</title>
       <link>https://www.chosun.com/national/regional/2024/11/06/NP6A7QL7ZFH55C23SIOKUW6SSY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/06/NP6A7QL7ZFH55C23SIOKUW6SSY/</guid>
@@ -735,33 +834,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OLWIJ3YAZJBBBD5MB7KBG4LSUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오후 2시 28분쯤 서울 관악구 신림동의 한 다세대 주택에 화재가 발생해 진압 중인 모습. /서울 관악소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 관악구의 한 빌라에 불을 지른 고등학생이 지구대로 찾아와 자수했다.&lt;br&gt;&lt;br&gt;서울 관악경찰서는 신림동에 있는 한 다세대 주택에 자신이 불을 질렀다며 지구대로 찾아와 자수한 고등학생의 신병을 확보했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;소방에 따르면 이날 오후 2시 28분쯤 발생한 화재로 주민 5명이 긴급 대피하는 소동이 발생했으나 현재까지 별다른 인명 피해는 없는 것으로 파악됐다. 화재는 오후 3시 9분쯤 완전히 진압됐다.&lt;br&gt;&lt;br&gt;이날 소방 당국에는 고등학생이 주택 2층에 불을 질러 화재가 발생했다는 내용의 신고가 접수됐다. 화재 진압에는 소방 등 인력 82명과 차량 21대가 투입됐다.&lt;br&gt;&lt;br&gt;경찰은 해당 고등학생에 대한 조사를 진행한 뒤 혐의점이 발견되면 입건할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>성매매 업소 운영 적발 후에도 석 달간 영업한 일당 28명 붙잡혀</title>
-      <link>https://www.chosun.com/national/incident/2024/11/05/7HOH3PU655HR5KSNLIW3DCRAZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/05/7HOH3PU655HR5KSNLIW3DCRAZQ/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 05 Nov 2024 07:23:30 +0000</pubDate>
-      <content:encoded>안마시술소로 위장한 성매매 업소를 운영하던 일당 28명이 경찰에 적발된 후에도 3개월간 영업을 이어온 것으로 드러났다. 서울 서초경찰서는 40대 남성 A씨 등 28명을 성매매 및 성매매 알선 혐의로 입건해 수사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BVQ3YIRQLVACRKJ5BKXJTFFGV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초경찰서./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨 등은 지난 1월 서울 서초구에 안마시술소로 위장한 성매매 업소를 개업했다. 이들은 지난 6월 경찰에 적발됐으나 폐업하지 않고 9월까지 영업하다가 경찰에 다시 단속됐다.&lt;br&gt;&lt;br&gt;한편 안마시술소는 시각장애인 안마사에게만 허가를 내주는데, 이들은 60대 여성을 대표로 내세워 영업한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨 등을 조만간 두 차례에 걸쳐 검찰에 송치할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>클럽서 여자 문제로 다투다 동포 살해한 40대 인도네시아인 징역 20년</title>
-      <link>https://www.chosun.com/national/regional/2024/11/05/Z4VJ5LT3KRAMVBMV5TFLPTL35M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/05/Z4VJ5LT3KRAMVBMV5TFLPTL35M/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 05 Nov 2024 07:02:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY5T7BYAUYX6XTCDFA2KSFN2ZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법 서부지원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;클럽에서 여자 문제로 다투다 동포를 흉기로 찔러 살해한 인도네시아 국적의 40대에게 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 서부지원 제1형사부(재판장 도정원)는 5일 살인 등의 혐의로 재판에 넘겨진 A씨에게 징역 20년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 4월28일 오전 8시55분쯤 대구 달서구 신당동 한 외국인 전용클럽 앞 길거리에서 흉기를 휘둘러 같은 국적의 30대 B씨를 살해한 혐의로 기소됐다. A씨는 범행 이후 달아났다가 같은 날 오후 5시쯤 경북 고령군 다산면 한 주택에서 긴급 체포됐다.&lt;br&gt;&lt;br&gt;A씨는 클럽에서 여자 문제로 다투다 B씨로부터 폭행을 당하자 이에 격분해 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “A씨는 유족과 피해자들로부터 용서받지 못했고 허용 체류 기간도 초과했다. 다만 쌍방 시비로 사건이 발생했고, 피해자로부터 폭행 당한 뒤 우발적으로 범행을 저지른 것으로 보이는 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>결혼 축의금 3년새 23% 올랐다…얼마 내야 적당할까?</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/05/WMSJNBKOJZCKJMES6UEUWUOHAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/05/WMSJNBKOJZCKJMES6UEUWUOHAI/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 05 Nov 2024 05:54:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PKSJ5U4J7BAIHNN6YXY6AECTIU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;축의금 봉투. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“나는 취업 못했을 때 축의금 5만원 했는데, 친구가 10년 후에 똑같이 5만원 했네요. 서운한 일 맞죠?”&lt;br&gt;&lt;br&gt;최근 소셜미디어를 비롯한 온라인에는 축의금을 비롯한 고민 글이 자주 눈에 띈다. 주로 축의금 금액으로 갈등이 생겼다는 사연들이다. 그렇다면 얼마 정도의 축의금을 내야 하는 걸까.&lt;br&gt;&lt;br&gt;5일 카카오페이가 축의금 송금 관련 데이터를 분석한 결과 평균 축의금 비용은 지난 9월 기준 9만원으로 나타났다. 이는 2021년 평균 축의금 7만3000원보다 약 23% 증가한 수치다.&lt;br&gt;&lt;br&gt;연령별로 보면 20대 평균 축의금은 약 6만원, 30‧40대는 약 10만원, 50‧60대는 약 12만원이었다. 사회 초년생인 20대는 상대적으로 축의금을 적게 내고, 사회생활을 할수록 금액이 커지는 것으로 분석된다.&lt;br&gt;&lt;br&gt;나이를 막론하고 ‘적정 축의금’이라고 생각하는 건 10만원이었다. 카카오페이가 지난 1~3일 진행한 투표에 참여한 총 74만652명의 이용자 중 58%가 10만원을 적정 축의금으로 선택했다.&lt;br&gt;&lt;br&gt;전 연령대에서 10만원을 가장 선호했다. 5만원을 선택한 사용자 중에서는 40대가, 10만원 초과를 선택한 사용자 중에서는 30대가 가장 많았다.&lt;br&gt;&lt;br&gt;아울러 카카오페이의 축의금 송금봉투 활용률은 최근 5년간(2019~2023년) 360% 급증한 것으로 조사됐다. 결혼식에 참석하는 지인에게 축의금을 대신 내달라고 부탁하거나 은행계좌로 송금하던 기존의 방식에서 당사자에게 온라인으로 송금하는 비율이 늘어났기 때문으로 보인다.&lt;br&gt;&lt;br&gt;카카오페이 관계자는 “가을철 결혼 성수기를 맞아 사용자에게 재미있고 도움이 되는 정보를 제공하고자 이번 컨텐츠를 기획했다”며 “취향과 나이, 상황 등에 맞춰 다양하게 선택할 수 있는 송금봉투를 활용해 사용자들이 더욱 즐거운 교류를 이어갈 수 있기를 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“신냉전 시대 ‘김대중 정신’으로 극복”… DJ 탄생 100년 축제 개막</title>
       <link>https://www.chosun.com/national/regional/honam/2024/11/05/Y4T2DWMF6ZBDXGWMEG5MGFO7YY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/11/05/Y4T2DWMF6ZBDXGWMEG5MGFO7YY/</guid>
@@ -775,15 +847,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘오재원 대리처방’ 김인태· 박계범 등 두산 8인, 사회봉사 징계</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/05/F6IHUT7UBBCBDEWYHXOCDFNK6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/05/F6IHUT7UBBCBDEWYHXOCDFNK6Q/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Tue, 05 Nov 2024 06:32:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/44PRJOB5I65JXNKWMHG3T7AV4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;야구 국가대표 출신 오재원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 야구선수 오재원(39)의 강요로 향정신성 약물을 대리 처방받아 전달한 두산베어스 선수 8명이 사회봉사 80시간 제재를 받았다.&lt;br&gt;&lt;br&gt;한국야구위원회(KBO)는 지난 4일 상벌위원회를 개최하고 두산 김민혁, 김인태, 박계범, 박지훈, 안승한, 이승진, 장승현, 제환유 등 8명에 대해 이 같이 결정했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;KBO는 “8명의 선수 전원에게 KBO 규약 제151조 ‘품위손상행위’에 근거해 제재를 결정했다”며 “해당 선수들이 선배 선수의 강압과 협박에 의한 요구를 거절하기 어려운 상황이었던 점, 구단의 조치로 시즌 대부분의 경기에 출전하지 못한 점, 자신들의 잘못을 인정하고 자수한 점 등을 고려했다”고 설명했다.&lt;br&gt;&lt;br&gt;KBO는 그러면서 “리그 소속 선수 전원을 대상으로 약물 처방에 대한 철저한 교육을 지속해서 진행하고, 구단의 선수 처방 내역 관리 등을 강화해 재발 방지에 노력을 기울일 것”이라고 했다.&lt;br&gt;&lt;br&gt;오재원은 필로폰 등 마약을 상습 투약한 혐의로 기소돼 재판받고 있다.&lt;br&gt;&lt;br&gt;오재원은 현역 시절이던 2021년 5월부터 지난 3월까지 야구선수 등 14명으로부터 총 86회에 걸쳐 의료용 마약류인 스틸녹스와 자낙스 2365정을 수수한 혐의로 지난달 15일 추가 기소됐다.&lt;br&gt;&lt;br&gt;검찰은 오재원이 야구계 선배 지위를 이용해 20대 초중반 어린 후배나 1~2군을 오가는 선수 등 팀내 입지가 불안정한 후배들에게 수면제를 처방받아 달라고 요구하고, 일부 후배들에게는 욕설과 협박을 한 것으로 파악했다.&lt;br&gt;&lt;br&gt;오재원은 2007년 두산 베어스에 입단해 16년간 선수로 활동했다. 국가대표로도 발탁돼 2015년 일본과의 ‘2015 WBSC 프리미어 12′ 4강전에서 역전승을 이끌어 ‘오열사’라는 별명을 얻었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“중국말 쓰더라”… 신발 신은 채 스타벅스 좌석에 드러누운 女 ‘눈살’</title>
       <link>https://www.chosun.com/national/national_general/2024/11/05/TLO5T7VWWNFZLASYFKSWHZ67N4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/05/TLO5T7VWWNFZLASYFKSWHZ67N4/</guid>
@@ -791,54 +854,6 @@
       <description/>
       <pubDate>Tue, 05 Nov 2024 06:13:41 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CGTMZV3ZAJB43JNF3MNUMSUFGU.png"&gt;&lt;figcaption&gt;&lt;small&gt;중국인으로 추정되는 한 여성이 스타벅스 좌석에 신발을 신은 채 누워있는 모습./온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 스타벅스에서 중국인으로 추정되는 한 여성이 신발을 신은 채 카페 내부 의자에 누워 있는 모습이 포착됐다.&lt;br&gt;&lt;br&gt;지난 4일 한 온라인 커뮤니티에는 ‘이 중국 여성을 어떡할까요?’라는 제목의 글과 함께 사진 한 장이 올라왔다.&lt;br&gt;&lt;br&gt;공개된 사진에는 회색 상·하의를 입은 한 여성이 흰색 신발을 신고 팔짱을 낀 채 카페 의자 위에 누워 있는 모습이 담겼다.&lt;br&gt;&lt;br&gt;작성자 A씨는 “일이 있어 인천에 있는 한 리조트에 미팅을 왔다”며 “현재 오후 3시 40분인데 사람 많은 스타벅스에 저렇게 자고 있다”고 당시 상황을 설명했다.&lt;br&gt;&lt;br&gt;A씨는 여성의 국적과 관련해 “옆 테이블 일행과 중국말로 얘기하고 저렇게 자더라”라는 댓글을 남겼다. 그러면서 “상식적으로 저러고 자고 있는데 일행들이 당연하다는 듯 내버려두는 게 이해가 안 간다”고 했다.&lt;br&gt;&lt;br&gt;누워 있던 여성은 함께 카페를 방문한 남성 일행이 깨우고 나서야 몸을 일으켜 카페를 나갔다고 한다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “신발을 신고 발 올려둔 것도 좀 그렇다. 직원에게 혼나길 바란다” “제대로 무개념이다” “중국으로 가라” 등의 사진 속 여성의 행동에 대해 비판하는 반응을 보였다.&lt;br&gt;&lt;br&gt;다만 일부 네티즌들은 이 글이 인종차별적이라고 지적했다. 네티즌들은 “인종차별적인 글이다” “그래도 한 국가를 모욕하는 표현은 좋지 않은 것 같다” “저 분은 중국인이라서 그런 게 아니라 특이한 사람 중 한 명일 뿐이다” 등의 의견을 내놨다.&lt;br&gt;&lt;br&gt;카페에서 상식 밖의 행동으로 논란이 된 경우는 이번만이 아니다. 지난 9월에는 스타벅스 매장에서 떡볶이와 튀김 세트를 가져와 먹은 손님의 모습이 뒤늦게 퍼지며 논란이 일었다. 지난 4월에도 한 손님이 스타벅스로 보이는 매장 내에서 테이블 위에 노트북과 사무용 모니터를 올려놓고 작업하는 모습이 온라인상에 퍼져 논란이 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>길거리서 여성 ‘묻지마 폭행’ 30대 ‘징역 2년 6개월’</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/05/F7TQVUBRP5CTRFAEQX54RLZ2PE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/05/F7TQVUBRP5CTRFAEQX54RLZ2PE/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 05 Nov 2024 06:13:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7EPTBAB555DJV2EZP2LKVDQEAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;길거리에서 아무런 이유 없이 20대 여성을 둔기로 폭행한 30대 남성에게 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;인천지법 형사8단독 성인혜 판사는 특수 상해 등 혐의로 기소된 A(35)씨에 대해 징역 2년 6개월을 선고했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2022년 11월 20일 오전 0시 45분쯤 인천시 부평구의 한 길거리에서 20대 여성 B씨의 머리를 둔기로 때린 혐의 등으로 기소됐다. B씨는 머리 부위를 다쳐 2주간 병원 치료를 받아야 했다.&lt;br&gt;&lt;br&gt;A씨는 길을 걸어가던 B씨를 뒤따라가다가 아무런 이유 없이 범행한 것으로 조사됐다. A씨는 B씨와 모르는 관계였다.&lt;br&gt;&lt;br&gt;A씨는 같은 해 12월엔 지하철에서 자전거 바퀴가 몸에 닿았다며 C(13)군에게 욕을 하고, 2023년 9월엔 서구의 한 길거리에서 50대 남성 D씨에게 아무 이유 없이 욕설을 하며 담배꽁초를 던진 혐의도 받았다.&lt;br&gt;&lt;br&gt;성 판사는 “피고인은 전혀 모르는 사람인 B씨를 뒤따라가 갑자기 쇠 파이프로 가격했고, 나이 어린 피해자에게 욕을 하며 때리려고 하는 등 죄질이 나쁘다”고 했다. 이어 “중증 장애를 앓고 있는 점, 일부 피해자와는 합의한 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 “저항에 맞서 4대 개혁 완수하겠다”</title>
-      <link>https://www.chosun.com/politics/politics_general/2024/11/05/WWDXBGIJCFD7VNYGW6OJW3MRJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/politics_general/2024/11/05/WWDXBGIJCFD7VNYGW6OJW3MRJY/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 05 Nov 2024 04:37:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4YZI45JH6NICBF2R2OGWYBQWD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 5일 경기 고양시 일산 킨텍스에서 열린 2024 전국새마을지도자대회에서 축사를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령은 5일 경기 고양시 일산 킨텍스에서 열린 2024 전국새마을지도자대회에 참석해 4대 개혁의 필요성을 강조하면서 “개혁에 대한 저항에 맞서 절대 포기하지 않고 개혁을 완수해내겠다”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령은 대회 축사에서 “‘하늘은 스스로 돕는 자를 돕는다’는 새마을운동 정신은 농촌 개량 사업에서 끝나지 않고 대한민국의 폭발적 성장을 이뤄냈다”며 “요새 이런 정신이 점점 사라지고 있어 아쉽다”고 했다. 그러면서 “국가는 국민의 복지를 위해 노력해야 할 헌법적 책무가 있지만, 국민이 복지에만 기대면 그 나라는 발전할 수 없다. 국민 한 사람 한 사람이 주인 의식을 갖고 스스로 잘 살기 위해 노력할 때 국가도 성장하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;윤 대통령은 한국이 러시아·우크라이나 전쟁, 중동 분쟁, 북한의 파병, 저출생과 고령화, 저성장 등의 위기와 도전에 직면해 있다며 “위기를 기회로 바꿔낸 새마을운동의 정신이 그 어느 때보다 절실하다”고 했다. 윤 대통령은 “새마을운동은 우리 사회와 역사를 바꾼 위대한 개혁 운동이었고, 지금 우리 앞에는 또 다른 개혁 과제들이 놓여 있다. 의료·연금·노동·교육 개혁의 4대 개혁이 바로 그것”이라고 짚었다.&lt;br&gt;&lt;br&gt;윤 대통령은 “개혁에는 반드시 저항이 따르게 돼 있다. 역대 정부가 개혁에 실패하고 개혁을 포기했던 이유가 바로 이것이었다”며 “저와 정부는 이러한 저항에 맞서며, 절대 포기하지 않고 국가의 미래를 위해, 미래 세대를 위해 반드시 (개혁을) 완수해내겠다”고 강조했다.&lt;br&gt;&lt;br&gt;윤 대통령은 “그렇게 함으로써 대한민국에 더 큰 도약을 이뤄내고 자유와 번영을 열어가겠다”며 참석자들에게 “정부의 개혁 정책에 힘을 보태주시고 함께 노력해주시기를 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;이날 대회는 전국에서 약 180만명이 회원으로 활동하고 있는 새마을운동중앙회가 활동 성과를 공유하기 위해 마련한 행사로, 약 1만여 명이 참석했다. 윤 대통령은 2022년 취임 첫해부터 3년 연속으로 대회에 참석해 회원들을 격려했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천 전기차 화재, 아파트 관리사무소장 추가 입건</title>
-      <link>https://www.chosun.com/national/incident/2024/11/05/RQR6R45RVBBJ3LGBXLR2HANJWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/05/RQR6R45RVBBJ3LGBXLR2HANJWQ/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 05 Nov 2024 04:19:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EJZNHAXP5KAUJ24XBIKIB6U4YA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8월 1일 화재가 발생한 인천 서구 청라동의 한 아파트 지하 주차장 내부 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 서구 청라국제도시의 한 아파트 단지 지하 주차장에서 발생한 전기차 화재 당시 안전 관리를 제대로 하지 않은 혐의로 아파트 관리사무소장이 경찰에 추가 입건됐다.&lt;br&gt;&lt;br&gt;인천경찰청 형사기동대는 업무상 과실치상 혐의로 아파트 관리소장 A씨를 불구속 입건했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 8월 1일 인천시 서구 청라동의 한 아파트 지하 주차장에서 발생한 벤츠 전기차 화재 때 안전 관리를 제대로 하지 않아 입주민을 다치게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;당시 화재로 연기를 마신 주민 등 23명이 병원으로 이송돼 치료를 받았다. 또 차량 87대가 불에 타고 783대가 그을리는 등 피해가 발생했다.&lt;br&gt;&lt;br&gt;경찰은 앞서 A씨와 같은 혐의로 아파트 관리사무소 야간 근무자 B씨 등 2명과 소방안전관리 책임자 C씨 등 총 3명을 불구속 입건했다.&lt;br&gt;&lt;br&gt;B씨는 불이 난 직후 스프링클러 작동 정지 버튼을 눌러 스프링클러가 작동되지 않도록 했다. 그는 인천소방본부 특별사법경찰에도 소방시설 설치 및 관리에 관한 법률 위반 혐의로 입건돼 검찰에 송치된 상태다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “처음 불이 난 벤츠 전기차의 화재 발생 지점이 배터리인지, 아니면 차량 전기 배선 등인지 확인하고 있다”며 “이달 안에 관련 수사를 마무리할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘명태균 수사팀’에 검사 4명 추가 파견…11명 규모 특별수사팀</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/05/JH66B33YVBHNNGZJL72HM4KGLM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/05/JH66B33YVBHNNGZJL72HM4KGLM/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 05 Nov 2024 03:45:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6HUUFMEIWZAFVPASYTPXKZBUDY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 윤석열 대통령의 ‘공천 개입 의혹’ 핵심 인물인 명태균씨를 수사하는 창원지검에 검사 4명을 추가 파견하기로 결정했다. 수사팀은 총 10명 규모로, 창원지검에 사실상 ‘명태균 특별수사팀’을 꾸린 것이란 해석이 나온다. 최근 윤석열 대통령과 명씨의 통화 녹취가 공개되고, 명씨를 둘러싼 의혹이 추가로 불거지면서 수사팀 규모를 대폭 늘린 것으로 보인다.&lt;br&gt;&lt;br&gt;5일 본지 취재를 종합하면, 검찰은 이지형 부산지검 2차장검사와 인훈 울산지검 5부장 검사, 평검사 2명 등 총 4명을 창원지검에 보내기로 했다. 이지형 차장검사가 수사팀장을 맡게 될 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 지난달 17일 대검과 부산지검에서 공안 사건에 밝은 검사 총 2명도 창원지검에 파견된 데 이어 차·부장 검사와 평검사 등 4명이 더 충원되는 것이다.&lt;br&gt;&lt;br&gt;명씨 사건은 창원지검 형사 4부 검사 5명과 대검과 부산지검에서 파견 온 공안 검사 2명 등 총 7명의 검사가 수사하고 있다. 여기에 검사 4명이 추가로 파견돼 11명이 수사하게 됐다. 사실상 ‘특별수사팀’ 규모라는 게 법조계 시각이다. 지난 2019년 꾸려진 ‘세월호 참사 특별수사단’이 단장과 부장검사 2명, 평검사 6명 등 총 9명의 검사로 구성됐었다. 각종 권력형 비리를 수사하는 서울중앙지검 반부패부 1개 부서가 10명 안팎의 규모다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“모바일 신분증 사용 불가... 한국사 영역 응시 안 하면 성적표 못 받아” 교육부 수능 유의사항 안내</title>
-      <link>https://www.chosun.com/national/education/2024/11/05/CKNASYNRJ5CLPGCRYAIA6NMJ7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/11/05/CKNASYNRJ5CLPGCRYAIA6NMJ7E/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 05 Nov 2024 03:02:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N6V5VWAAKZBC7HO6XNNWWRJ2RI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수능 D-9… "대박나세요" 후배들의 응원. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2025학년도 대학수학능력시험 응시자는 시험 당일 오전 8시 10분까지 사진이 부착된 유효기간 내의 신분증과 수험표를 지참해 지정된 시험실에 입실해야 한다.&lt;br&gt;&lt;br&gt;신분증으로는 주민등록증, 운전면허증, 주민등록번호가 표시된 여권, 성명‧생년월일‧학교장직인이 기재된 학생증 등이 사용 가능하다. 단 모바일 신분증은 사용할 수 없다.&lt;br&gt;&lt;br&gt;5일 교육부는 이 같은 내용이 담긴 2025학년도 수능 유의 사항을 발표했다.&lt;br&gt;&lt;br&gt;수험표를 분실한 응시자는 시험 당일 오전 8시까지 신분증과 응시원서에 붙인 것과 같은 사진 한 장을 들고 시험장 내 시험 관리본부로 가면 수험표를 다시 발급받을 수 있다. 사진이 없는 경우엔 시험 관리본부에 신고하면 임시 수험표를 발급받을 수 있다.&lt;br&gt;&lt;br&gt;4교시 한국사 영역에 응시하지 않으면 수능 시험 전체가 무효 처리되고, 성적 통지표가 제공되지 않는다.&lt;br&gt;&lt;br&gt;이어지는 사회‧과학탐구 영역에서 수험생은 선택한 과목 순서에 맞게 시험을 봐야 한다. 제1선택과목 시간에 제2선택과목 시험지를 꺼내서 풀거나, 1·2선택과목을 동시에 풀면 부정행위다. 제2선택과목 시간에 이미 끝난 제1선택과목의 답안을 수정하거나 작성하는 것도 부정행위에 해당한다.&lt;br&gt;&lt;br&gt;예년과 마찬가지로 휴대전화와 스마트기기(스마트워치 포함), 태블릿PC, 통신(블루투스) 기능이 있는 이어폰, 전자담배 등 모든 전자기기는 시험장에 반입할 수 없다.&lt;br&gt;&lt;br&gt;전자기기를 시험장에 가지고 온 경우에는 1교시 시작 전까지 감독관의 지시에 따라 전자기기를 제출해야 한다. 전자기기를 제출하지 않고 갖고 있다가 적발되면 부정 행위자가 돼, 시험이 무효 처리된다.&lt;br&gt;&lt;br&gt;시계는 결제‧통신 기능(블루투스 등), 전자식 화면 표시기(LCD, LED 등)가 모두 없는 아날로그 시계만 휴대할 수 있다.&lt;br&gt;&lt;br&gt;보청기나 돋보기, 연속혈당측정기 등 개인의 신체조건 또는 의료상 특별한 이유로 휴대가 필요한 물품은 매 교시 감독관의 사전 점검을 거친 후 휴대할 수 있다.&lt;br&gt;&lt;br&gt;수험생은 시험 전날인 13일에 실시되는 예비 소집에 반드시 참석해 수험표를 수령하고, 시험 유의 사항 등 각종 안내 사항을 전달받아야 한다. 수험표에 기재된 본인의 선택과목을 확인하고, 시험 당일 시험장을 잘못 찾아가는 일이 없도록 수험표에 기재된 시험장 위치도 사전에 확인해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/N6V5VWAAKZBC7HO6XNNWWRJ2RI.jpg?width=700&amp;height=572&amp;auth=c0c196f95a19f03869d4efcda5eab54a041b7b29edf5122476c01518b0a26cd3&amp;smart=true" type="image/jpeg" height="572" width="700">
-        <media:description type="plain">/김동환 기자</media:description>
-      </media:content>
     </item>
     <item>
       <title>길거리서 ‘뻐끔’거리는 옥주현...”흡연 조장하나” 와글와글</title>
@@ -850,15 +865,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OKCEHVYN45B2ROI2WDB6M3FQ24.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 그룹 '핑클' 출신 뮤지컬배우 옥주현이 비타민 스틱으로 흡연 연습을 하고 있다./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 ‘핑클’ 출신 뮤지컬배우 옥주현(44)이 비타민 스틱으로 흡연 연습을 하는 모습이 포착된 가운데, 네티즌들 사이에서는 갑론을박이 벌어지고 있다.&lt;br&gt;&lt;br&gt;옥주현은 5일 자신의 인스타그램에 “어렵다 어려워 흡연. 도와주신 스승님이 실망하시지 않게 열심히 연구해 볼래요. 늘 웃음바다 우리 마타하리 팀”이라는 글과 함께 영상을 올렸다.&lt;br&gt;&lt;br&gt;영상 속 옥주현은 길거리에서 담배처럼 생긴 비타민 스틱을 들고 흡연 연습을 하고 있었다. 그 옆에서는 뮤지컬 ‘마타하리’ 출연자인 노윤 등이 직접 비타민 스틱을 입에 물고 어떤 자세로 담배를 피워야 하는지 동작을 알려 줬다. 옥주현은 이를 따라하며 비타민 스틱을 입에 물고 연기를 내뿜으며 흡연 자세를 취했다. 이들은 ”안 피운 사람들은 이게 안 된다” “담배를 빼고 이렇게 해봐라” “지금 딱 이 자세다”등의 말을 나눴다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들 사이에서는 엇갈린 반응이 나왔다. 옥주현의 팬으로 추정되는 네티즌들은 “담배 피우는 연기조차 귀엽다” “흡연 씬 기대된다” “이렇게 잠깐 스쳐 지나가는 장면도 밀도 있게 연습하다니 대단하다”며 응원하는 댓글을 남겼다.&lt;br&gt;&lt;br&gt;다만 일부 네티즌들은 “아무리 극 중 장면이라도 공개적으로 올리기엔 유해한 영상 같다” “진짜 담배가 아니고 비타민 스틱이라 해도 담배유사품으로 보여 오해 소지가 있다” “미성년자도 볼 수 있는 소셜미디어에에 게시하는 건 잘못된 것 같다” 등 부정적인 반응을 보였다.&lt;br&gt;&lt;br&gt;비타민 스틱은 입으로 빨아들이면 수증기가 나는 담배와 유사한 형태의 금연보조제다. 한때 청소년들도 구매할 수 있어 흡연을 조장한다는 비판을 받았다. 이 같은 이유로 식품의약품안전처는 2017년 비타민 스틱을 의약외품으로 지정해 청소년에게 판매할 수 없게 했다. 비타민 스틱을 청소년에게 판매할 경우 2년 이하의 징역 또는 2000만원 이하의 벌금, 과징금을 받을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>갑자기 추워진 날씨에 심혈관 질환 주의보…방한도구 챙기고, 증상 생기면 병원 치료를</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/11/05/X6RTUWOTEJDJRDTKAR5AH7YE7I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/11/05/X6RTUWOTEJDJRDTKAR5AH7YE7I/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 05 Nov 2024 01:55:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TIJCCCMZFNJY3E4OKFPKISRFEY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;겨울이 시작된다는 절기 입동(立冬)을 이틀 앞두고 기온이 크게 내려간 5일 오전 대구 도심에서 출근길 시민들이 외투 차림으로 발걸음을 재촉하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 서울의 아침 최저기온이 5도를 기록하는 등 중부지방의 아침 기온이 전날보다 5~10도가량 떨어졌다. 갑작스레 추위가 찾아온 만큼 건강 관리에도 유의해야 한다. 특히 심근경색, 뇌졸중 같은 심뇌혈관 질환을 주의해야 한다.&lt;br&gt;&lt;br&gt;의료계와 질병관리청 등에 따르면, 심뇌혈관 질환으로 인한 사망자는 매년 11월부터 늘기 시작해 12~1월 최고점에 도달하는 것으로 나타났다. 추위가 찾아오는 이 시기에 심뇌혈관 질환의 위험이 커지는 것이다. &lt;br&gt;&lt;br&gt;날씨가 추워지면 혈관이 위축돼 혈압 변동이 심해진다. 얼굴, 목, 손 등이 추위에 노출되면 혈관이 수축해 피가 체내 중심부로 몰린다. 이로 인해 혈압이 오르고, 심장과 뇌혈관의 부담이 커지는 것이다. 체온이 낮아지면 혈소판 문제로 혈액의 점도가 높아져 혈전이 쉽게 만들어진다. 이런 변화가 추운 날씨에 심근경색증이나 뇌졸중 등 심뇌혈관질환의 발생률을 높이는 주요 원인이 된다.&lt;br&gt;&lt;br&gt;고령자나 고혈압 환자 등 만성질환자, 심뇌혈관 병력이 있는 이들은 특히 주의해야 한다. 우선 보온에 신경써야 한다. 실내를 따뜻하게 유지하고, 포근한 옷을 입어 체온을 유지해야 한다. 외출할 때에도 적절한 체온 유지가 중요하다. 모자를 쓰거나, 목도리로 목과 귀를 보호해주는 게 좋다. 마스크를 쓰는 것도 좋은 방법이다. 차가운 공기가 폐로 직행하는 것을 막아줘 호흡기 질환을 예방하는 데 좋다. 특히 쌀쌀한 새벽이나 아침 운동은 유의해야 한다. 갑자기 찬 공기에 노출되면 혈관이 급격히 수축해 위험해질 수 있다.&lt;br&gt;&lt;br&gt;심뇌혈관 질환은 사망률이 높고, 생존한 이후에도 후유증으로 장애를 동반하는 경우가 많다. 적극적으로 예방하고 초기에 적절히 대처하는 게 무엇보다 중요하다는 것이 보건당국의 당부다. 우선 초기 증상을 알아야 한다. 심근경색은 갑자기 가슴에 심한 통증이나 압박감, 짓누르는 느낌이 생긴다. 턱, 목, 등 부위에 심한 통증이나 답답함이 있는 경우, 갑자기 숨이 많이 차고 안색이 창백해지며 식은땀을 흘리는 경우가 많다. 뇌졸중은 갑자기 한쪽 얼굴, 팔, 다리에 힘이 빠지는 증상이 나타난다. 말이 어눌해지거나, 양쪽 눈 시야가 반만 보이거나 물체가 두 개로 보이는 증상이 나타난다. 이런 증상이 보이면 119에 연락해 최대한 빨리 병원 응급실로 가는 것이 중요하다.&lt;br&gt;&lt;br&gt;질병청 관계자는 “어르신과 만성질환자, 과거 병력이 있는 고위험군은 외출 전 체감온도를 확인하고, 날씨가 추운 경우 실외 활동을 자제하는 등 추위에 갑자기 노출되지 않도록 겨울철 건강관리에 각별한 주의가 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>식사하던 손님, 갑자기 고개 푹 떨구자…옆 테이블 남성이 달려나간 곳은</title>
       <link>https://www.chosun.com/national/national_general/2024/11/05/667YUSMJONEH5H6YBPM5J7Q2RQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/05/667YUSMJONEH5H6YBPM5J7Q2RQ/</guid>
@@ -866,15 +872,6 @@
       <description/>
       <pubDate>Tue, 05 Nov 2024 02:36:28 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CU36QCWIPVDT5MRR4QPPSTQJII.gif"&gt;&lt;figcaption&gt;&lt;small&gt;인천의 한 식당에서 식사중에 의식을 잃은 손님./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;식당에서 의식을 잃고 쓰러진 손님을 구한 시민과 경찰관들의 사연이 전해졌다.&lt;br&gt;&lt;br&gt;5일 경찰에 따르면 최근 경찰청 유튜브 채널에는 ‘다급하게 나가는 경찰관! 들고 나간 의문의 가방 속엔’이라는 제목의 영상이 올라왔다.&lt;br&gt;&lt;br&gt;영상에는 지난 9월 인천 남동구의 한 식당에서 벌어진 위급 상황이 담겼다.&lt;br&gt;&lt;br&gt;당시 식사를 하던 한 손님은 갑자기 손에 쥔 컵을 떨어뜨리고 고개를 식탁으로 떨구는 등 이상 증세를 보였다. 이 손님과 마주보며 식사를 하던 일행이 가까이 다가가 상태를 살폈으나 이 손님은 완전히 힘이 빠진 상태였다. 일행은 바로 119에 구조를 요청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BWG64W6EAFBJ7IQ2URVYLR73XQ.gif"&gt;&lt;figcaption&gt;&lt;small&gt;옆 테이블 손님이 이상 증세를 보이자 근처 파출소로 달려나가는 남성./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그 사이 옆 테이블에서 이를 지켜보던 또 다른 손님은 곧바로 식당 밖으로 달려나갔다. 그가 달려나간 곳은 20m 거리에 있는 파출소였다. 그는 경찰관들에게 “식당에서 손님이 의식을 잃고 지금 응급처치중”이라며 도움을 요청했다.&lt;br&gt;&lt;br&gt;경찰관들은 현장 상황을 확인하기 위해 다급히 달려나갔다. 그중 한 경찰관은 다시 파출소로 되돌아와 자동심장충격기(AED)를 들고 다시 뒤따라 달려갔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZTEXATMJHFHFRKY6AB4GWSLEKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;파출소에서 달려온 경찰관들이 의식 잃은 손님에게 심폐소생술(CPR)을 실시하고 있다../유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;먼저 식당에 도착한 경찰관은 손님이 호흡이 없는 상태임을 확인한 후 바닥에 눕혀 심폐소생술(CPR)을 실시했다. 곧이어 도착한 경찰관이 AED 작동을 준비하던 중 다행히 손님이 의식을 되찾았다. 마침 이 파출소 경찰관들은 이날 오전 정기적으로 진행되는 CPR·AED 교육을 받았다고 한다.&lt;br&gt;&lt;br&gt;호흡이 돌아온 것을 확인한 경찰관들은 이 손님이 다시 정신을 잃지 않도록 구급대가 도착할 때까지 말을 걸며 마사지를 이어갔다. &lt;br&gt;&lt;br&gt;이후 병원으로 이송된 손님은 치료를 받고 건강을 회복했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 검찰, ‘콜 차단·몰아주기’ 카카오·카모 압수수색</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/05/TTEQEPIOHZAVNASAGG7OMDW4JU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/05/TTEQEPIOHZAVNASAGG7OMDW4JU/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 05 Nov 2024 02:09:39 +0000</pubDate>
-      <content:encoded>카카오모빌리티의 ‘콜 몰아주기’ 혐의와 ‘콜 차단’ 혐의를 수사 중인 검찰이 5일 카카오 본사 등에 대한 강제 수사에 나섰다.&lt;br&gt;&lt;br&gt;서울남부지검 금융조사2부(부장 장대규)는 이날 오전부터 카카오 본사와 자회사 카카오모빌리티의 사무실 등 관련사를 압수수색 중이다. 검찰이 이 사건 관련 강제수사에 나선 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DMIVKLWUAZKR7NSWBINLJMAYIY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중구 서울역 인근에서 승객들이 택시를 이용하고 있는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;카카오모빌리티는 일반 택시를 배제하고 가맹택시인 카카오T블루에 콜을 몰아주는 방식으로 알고리즘을 조작했다는 ‘콜 몰아주기’ 혐의를 받는다. 또 경쟁 가맹택시에게 일반 호출을 차단했다는 ‘콜 차단’ 혐의도 있다.&lt;br&gt;&lt;br&gt;앞서 이 사건을 조사한 공정거래위원회는 ‘콜 몰아주기’ 혐의로 271억여원, ‘콜 차단’ 혐의로 724억원의 과징금을 카카오모빌리티에 부과했다.&lt;br&gt;&lt;br&gt;검찰 수사는 지난해 12월 중소벤처기업부가 공정위에 카카오모빌리티를 ‘콜 몰아주기’ 혐의로 고발하도록 요청하면서 시작됐다. 검찰은 당초 이 사건을 금융조사1부에 배당했다가 최근 금융조사2부로 재배당했다. 공정위는 또 지난 10월 ‘콜 차단’ 혐의로 카카오모빌리티를 검찰에 고발했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>정종철·황규림 부부 “중3 딸이 쓴 소설책 이주의 도서 5위”</title>
