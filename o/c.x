@@ -13,6 +13,80 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“저 윤석열, 국민 괴롭혀”...‘尹 짜깁기 영상’ 제작자 檢 송치</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/08/LY3CB6FOMNB5LHJUXZQ6JFD2BQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/08/LY3CB6FOMNB5LHJUXZQ6JFD2BQ/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Nov 2024 05:05:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JPYRKTFVCRD2DCS4CRKDMZN3PY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 11월 틱톡 등 소셜미디어에 퍼졌던 윤석열 대통령 가짜 영상. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“저 윤석열, 국민을 괴롭히는 법을 집행해 온 사람입니다.”&lt;br&gt;&lt;br&gt;2022년 대선 후보 TV 연설 장면을 편집해 윤석열 대통령이 이렇게 발언한 것처럼 허위로 영상물을 만든 50대 남성이 검찰 수사를 받게 됐다. 당초 딥페이크(AI로 만든 진짜 같은 가짜 콘텐츠)로 알려졌던 이 영상은 짜깁기해 만든 가짜 영상이었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;8일 경찰에 따르면, 서울경찰청 사이버수사대는 정보통신망법상 명예훼손 혐의로 A씨를 지난 1일 검찰에 송치했다. A씨는 틱톡과 메타, 인스타그램 등 여러 소셜미디어에 ‘가상으로 꾸며본 윤 대통령 양심 고백 연설’이라는 영상을 올려 윤 대통령의 명예를 훼손한 혐의를 받는다.&lt;br&gt;&lt;br&gt;문제의 영상은 46초 분량으로, 윤 대통령이 “무능하고 부패한 윤석열 정부는 특권과 반칙, 부정과 부패를 일삼았다” “저 윤석열은 상식에서 벗어난 이념에 매달려 대한민국을 망치고 국민을 고통에 빠뜨렸다”고 말하는 것처럼 연출됐다.&lt;br&gt;&lt;br&gt;지난해 11월쯤부터 소셜미디어에 널리 공유되기 시작한 이 영상은, 처음에는 윤 대통령을 겨냥한 딥페이크 영상인 것으로 추정됐다. 그러나 경찰이 딥페이크 탐지 시스템으로 분석한 결과 AI를 이용해 만들어낸 것이 아닌, 윤 대통령이 대선후보로서 한 TV 연설 장면을 편집해 만든 짜깁기 영상으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 A씨를 비롯해 영상 유포자 등 11명을 수사해왔다. 이 가운데 5명은 A씨와 함께 정보통신망법상 명예훼손 혐의로 넘겼으며 나머지 5명은 혐의없음으로 종결했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>﻿어린 딸 앞세워 무단횡단…가까스로 사고 피한 순간 ‘아찔’</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/08/SSOFQLH4TZGW7IHMZD5AHQIFIM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/08/SSOFQLH4TZGW7IHMZD5AHQIFIM/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Nov 2024 04:56:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ADCFOM5X25FTPG7QFNYPQTMG6M.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 26일 강원도 원주의 한 유원지에서 아이와 어머니로 보이는 여성이 도로와 인도를 구분하는 보호난간을 넘고 있다. /유튜브 한문철TV&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 원주의 한 유원지에서 어머니가 아이를 앞세워 무단횡단을 하다 큰 사고로 이어질 뻔한 아찔한 상황이 공개됐다.&lt;br&gt;&lt;br&gt;유튜브 채널 ‘한문철 TV’에 따르면 지난달 26일 지역 축제 장소로 향하던 제보자 A씨는 황당한 장면을 목격했다.&lt;br&gt;&lt;br&gt;A씨가 제보한 블랙박스 영상을 보면 한 모녀가 인도와 차도를 구분하기 위해 설치한 보호난간으로 다가왔다. 이후 어머니로 보이는 여성은 아이를 먼저 들어 올려 보호난간을 넘도록 했다. 이내 자신도 뒤따라 도로 쪽으로 넘어갔다.&lt;br&gt;&lt;br&gt;정체된 차들로 인해 반대편 차선이 보이지 않는 상황에서 여성은 아이를 앞세워 도로를 가로지르기 시작했다. 반대편 차선에서 대형 흰색 승합차가 달려오던 상황이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RPIWP3LMZJEAPCOSJWKGOUHW5U.gif"&gt;&lt;figcaption&gt;&lt;small&gt;대형 승합차가 달려오는 상황에 아이와 여성이 무단횡단을 하고 있다. /유튜브 한문철TV&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 모습을 지켜보던 A씨는 차가 다가오고 있다는 사실을 알리기 위해 경적을 울렸지만, 모녀는 더 빨리 달렸다고 한다. 다행히 승합차가 모녀를 보고 급제동하며 사고는 발생하지 않았다. 자칫 큰 사고가 날 뻔한 상황임에도 여성은 아랑곳하지 않고 아이와 함께 다시 반대편 도로의 보호난간을 넘어 사라졌다고 한다.&lt;br&gt;&lt;br&gt;A씨는 “(경고하려고) 경적을 여러 번 울렸는데 부끄러운 모습을 아는지 더 서둘러 건너버려서 도울 방법이 없었다”며 “아이까지 앞세우고 건너는 모습은 볼 때마다 화가 난다. 경각심을 가졌으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;영상을 본 한문철 변호사는 “(저 모녀는) 죽을 뻔했다. 반대편에서 달려오던 승합차 차주는 얼마나 놀랐겠나”라며 “A씨가 경적을 울려준 덕분에 두 생명을 살릴 수 있었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RPIWP3LMZJEAPCOSJWKGOUHW5U.gif?width=595&amp;height=343&amp;auth=e441d36b751525c5d0d5b1f76dfae1aa6b4a635d87c630b2e73345fb6f28af24&amp;smart=true" type="image/jpeg" height="343" width="595">
+        <media:description type="plain">대형 승합차가 달려오는 상황에 아이와 여성이 무단횡단을 하고 있다. /유튜브 한문철TV</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>네살 딸 용변 실수에 발길질… 20대 못난 아빠 ‘징역 8개월’</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/08/XQVGJSCKSRGF5H456SVMPGVIMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/08/XQVGJSCKSRGF5H456SVMPGVIMU/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>네살 딸이 용변을 실수했다는 이유로 발로 걷어차는 등 학대를 가한 20대 남성에게 1심에 이어 항소심 법원도 징역형을 선고했다.춘천지법 형사1부(재판장 심현근)는 아동복지법상 아동학대 등 혐의로 기소된 A(29)씨에게 원심과 같은 징역 8개월을 선고했다고 8일 밝혔다.</description>
+      <pubDate>Fri, 08 Nov 2024 05:02:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/24UPWP5OARX56LWFKEPUAFKDZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;네살 딸이 용변을 실수했다는 이유로 발로 걷어차는 등 학대를 가한 20대 남성에게 1심에 이어 항소심 법원도 징역형을 선고했다.&lt;br&gt;&lt;br&gt;춘천지법 형사1부(재판장 심현근)는 아동복지법상 아동학대 등 혐의로 기소된 A(29)씨에게 원심과 같은 징역 8개월을 선고했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 “원심 판결 선고 이후 양형에 반영할 만한 새로운 정상이나 형을 변경해야 할 정도로 특별한 사정 변경을 찾아볼 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 11월 강원 원주시 한 편의점에서 딸 B(4)양이 용변 실수를 했다는 이유로 달려들면서 발로 차 넘어뜨린 혐의를 받고 있다. A씨는 또 넘어진 B양을 일으켜 세운 뒤 또다시 양발로 걷어차 나뒹굴게 했다.&lt;br&gt;&lt;br&gt;A씨는 이 외에도 지난 1월 자택 거실에서 대화를 시도하려는 아내에게 욕설과 주먹을 휘두르는 등 2차례 폭행한 혐의도 공소장에 포함됐다.&lt;br&gt;&lt;br&gt;A씨는 1심 선고 이후 ‘형이 무겁다’며 항소를 했지만, 항소심 재판부는 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 대형건설사 시공 광진구 공사장서 50대 남성 추락</title>
+      <link>https://www.chosun.com/national/incident/2024/10/29/VPNVQVL5ZZARJO5UYSMZUFFSTA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/29/VPNVQVL5ZZARJO5UYSMZUFFSTA/</guid>
+      <dc:creator>안준현 기자, 장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Oct 2024 06:37:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3QKIX2TXLIYH2WP2AUIQWQPVQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 잠원동 롯데건설 본사 전경 /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대형 건설사가 시공을 맡고 있는 서울 광진구 자양동 아파트 건축 공사 현장에서 50대 노동자 A씨가 추락해 의식 불명 상태에 빠졌다. 고용노동부는 중대재해법 위반 여부 조사를 검토하고 있다. 시공사는 롯데건설이다.&lt;br&gt;&lt;br&gt;서울 광진경찰서와 소방당국에 따르면, 지난 28일 오후 2시 10분쯤 서울 광진구 자양동 건축공사 현장 지하 3층에서 일하고 있던 50대 노동자 A씨가 지하 5층으로 떨어져 중상을 입는 사고가 발생했다.&lt;br&gt;&lt;br&gt;사고 직후 A씨 동료의 신고를 접수한 소방당국은 오후 2시 18분쯤 현장에 도착해 의식 불명 상태에 빠진 A씨를 발견했다. A씨는 인근 대형 병원으로 옮겨져 치료를 받고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “정확한 사고 경위를 조사하고 있다”고 밝혔다. 고용노동부 관계자는 “사건 경위 파악을 위해 사건 현장 조사는 마친 상황”이라며 “피해자가 사망할 시 중대재해법 위반 여부 조사에 본격 착수할 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편, 지난 7월에도 같은 공사 현장에서 엘리베이터 설치 작업을 하던 50대 남성 근로자가 엘리베이터 부품에 맞아 숨지는 사고가 발생했다. 서울지방고용노동청과 경찰은 중대재해처벌법과 업무상 과실 여부에 대해 수사를 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/3QKIX2TXLIYH2WP2AUIQWQPVQQ.jpg?width=578&amp;height=384&amp;auth=5300bc553b45e477c1bfc592319e3b882616901c63f710bca5ddde90ce7b2c21&amp;smart=true" type="image/jpeg" height="384" width="578">
+        <media:description type="plain">검찰이 들이닥친 14일 전격 압수수색을 받은 잠원동 롯데건설 본사 임직원들이 1층 로비로 내려오고 있다.</media:description>
+        <media:credit role="author" scheme="urn:ebu">유진우 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘쓰레기 스티커’ 없는데 수거하고 뒷돈 챙긴 환경 미화원들</title>
+      <link>https://www.chosun.com/national/incident/2024/11/08/CN25M2TCRBDS3OAXAWE5JAFFVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/08/CN25M2TCRBDS3OAXAWE5JAFFVQ/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Nov 2024 03:29:26 +0000</pubDate>
+      <content:encoded>구청에서 발부한 쓰레기 스티커(납부필증)를 붙이지 않았는데도, 이를 수거하는 조건으로 뒷돈을 챙긴 환경 미화원들이 검찰에 송치됐다. 이들에게 돈을 보낸 업주들도 같이 검찰에 송치됐다. 환경 미화원들은 성동구 소속이 아닌 사설 용역 업체 소속인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HXKFET6XUFFNVD2PJBIUSYCNX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 성동경찰서. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 성동경찰서는 지난 2019년 4월부터 2023년 8월까지 서울 성동구의 음식점 업주들로부터 성동구청이 발행한 쓰레기 스티커 없이 음식물 쓰레기를 수거해가고 대신 7503만원을 챙긴 환경 미화원 3명과 업주 22명을 검찰에 송치했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;이들에게는 배임수증재(부정한 청탁을 받고 재물 또는 재산상의 이익을 취득하는 행위) 혐의가 적용됐다.&lt;br&gt;&lt;br&gt;이들은 성동구 일대 음식점과 시장에서 음식물쓰레기를 수거하면서 상인들에게 “스티커를 붙이지 않거나, 실제 배출량보다 적은 금액의 스티커를 붙이더라도 수거해가겠다”고 했다. 대신 매월 이들에게 최소 2만원~80만원의 금액을 현금이나 계좌 이체 등으로 받아왔다.&lt;br&gt;&lt;br&gt;경찰은 “종량제 봉투에 담아 버리는 가정과 달리 업소에서는 구청에서 발급한 스티커(납부필증)를 구매해 버려야 한다”며 “환경미화원이 처리비용을 가로채게 되면, 구청은 그만큼의 ‘납부필증 판매 수익’ 관련 세수가 줄어들어 구민들에게 간접적인 피해가 발생하는 구조를 가진다”고 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OPNPGZQ6ZJHJJOOZQ65XWE4CZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 한 음식물 쓰레기통에 실제 배출량보다 적음 금액의 스티커를 붙인 것을 시연한 모습. /성동경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성동구 기준 소형 음식점의 납부필증은 700원(5ℓ)~1만6800원(120ℓ) 정도다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “이번 사건 뿐 아니라 과거에도 폐기물을 비정상적으로 처리하고, 금품을 수수한 사실이 있었는지 여부에 대해서도 살펴볼 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HXKFET6XUFFNVD2PJBIUSYCNX4.jpg?width=518&amp;height=291&amp;auth=43be8aedd5a2c50a6fe6c5bbf7425dea0e8b1a0d0959fc11a7b8da40a02c00a7&amp;smart=true" type="image/jpeg" height="291" width="518">
+        <media:description type="plain">서울 성동경찰서/연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>승객 가방에서 명품 가방 등 훔친 항공사 하청 직원…징역 1년 추가</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/08/LZ33UWBSTNAQRNGVCVH7EGJ7EQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/08/LZ33UWBSTNAQRNGVCVH7EGJ7EQ/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Nov 2024 04:19:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NORFAAAWZSNMZK27QTKMDQOP5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천국제공항 이용 승객들의 여행용 가방을 뒤져 수억 원 상당의 금품을 훔친 혐의로 징역형을 선고받은 항공사 하청업체 직원이 추가 범행으로 또 실형을 선고받았다.&lt;br&gt;&lt;br&gt;인천지법 형사 11단독(판사 김샛별)은 절도 혐의로 기소된 모 항공사 하청업체 직원 A(43)씨에 대해 징역 1년을 선고했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 장기간에 걸쳐 반복적으로 많은 피해자들의 물품을 훔쳤고, 대부분의 피해자와 합의하지 못했다”며 “피고인이 잘못을 인정하고 반성하는 점, 피고인의 가정 상황이 좋지 않은 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;A씨는 2021년 11월부터 지난해 10월까지 인천공항 제1여객터미널과 제2여객터미널에서 승객들이 맡긴 여행용 가방을 뒤져 750만 원이 넘는 명품 가방과 귀금속 등 1억6800만 원 상당의 금품을 훔친 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;A씨는 비행기 화물칸에서 혼자 승객들의 가방을 싣거나 내리는 일을 할 때, 동료들의 눈을 피해 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 앞서 지난 5월, 비슷한 방법으로 항공기 이용 승객들의 여행용 가방에서 3억6000만 원 상당의 금품을 훔친 혐의로 기소돼 징역 1년 6개월을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>번개탄 피워진 오피스텔서 30대 女 사망...함께 있던 40대 男 긴급 체포</title>
+      <link>https://www.chosun.com/national/incident/2024/11/08/E3BDWLYXQ5CUDHDOUE5MLRL6SQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/08/E3BDWLYXQ5CUDHDOUE5MLRL6SQ/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Nov 2024 03:55:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IGIHAZOU5FAIPJ3UOE7BIX4Y2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강서경찰서. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;번개탄이 피워진 오피스텔에서 30대 여성이 숨진 채 발견됐다. 경찰은 현장에서 흉기를 발견, 함께 있던 40대 남성 A씨를 살인 혐의로 긴급 체포했다.&lt;br&gt;&lt;br&gt;서울 강서경찰서는 살인 혐의로 40대 남성 A씨를 체포해 조사 중이라고 8일 밝혔다. A씨는 이날 오전 6시 40분쯤 서울 강서구 화곡역 인근의 한 오피스텔에서 30대 여성 B씨를 숨지게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;“오피스텔 복도에서 타는 냄새가 난다”는 신고를 받고 출동한 소방은 사망한 B씨를 발견하고 경찰에 공조 요청을 했다. 경찰은 현장에서 흉기, 핏자국과 함께 번개탄을 피운 흔적을 발견했다. 당시 A씨는 술에 취했으나 의식을 잃진 않았다고 한다.&lt;br&gt;&lt;br&gt;경찰은 “정확한 사인과 범행 동기를 조사 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>내일 도심 곳곳 대규모 집회로 교통 혼잡 예상</title>
       <link>https://www.chosun.com/national/national_general/2024/11/08/CFU6UZCADBD7VPQX2V544T46Y4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/08/CFU6UZCADBD7VPQX2V544T46Y4/</guid>
@@ -706,15 +780,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y2YSTJK3NRFPXCI6P5CGZYSPRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구 첫 지방정원으로 조성되는 세천늪테마정원./대구 달성군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 달성군 세천늪테마정원이 지역 첫 ‘지방정원’으로 조성된다.&lt;br&gt;&lt;br&gt;7일 달성군에 따르면 대구시는 최근 다사읍 세천리에 위치한 세천늪테마정원의 지방정원 조성계획을 승인했다. 지방정원은 지방자치단체가 조성·운영하는 정원으로, 지역만의 독특한 특성을 정원소재로 표현하는 등 시민들의 정원활동 및 산업·경제 활성에 도움을 준다. 현재 전국적으로 10개의 지방정원이 운영중이다.&lt;br&gt;&lt;br&gt;달성군은 내년 6월까지 30억원을 들여 화장실 등 지방정원 등록에 필요한 필수시설 설치할 계획이다. 달성군의 계획대로 조성이 마무리되면 대구시 1호 지방정원으로 등록된다.&lt;br&gt;&lt;br&gt;최재훈 달성군수는 “산책, 휴양, 문화가 공존하는 테마공간을 조성해 시민 모두 정원이 되도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;세천늪테마정원은 2012년 성서5차 첨단산업단지를 조성할 때 기존 습지(세천늪)를 활용해 만들어졌으며, 봄에는 4만송이의 튤립, 여름에는 장미꽃, 가을에는 핑크뮬리 테마정원으로 시민들의 사랑을 받고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>1조원대 불법 다단계 사기… 휴스템코리아 회장 검찰 송치</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/07/INFBXV2FVRCMZLLKB2SK23WPYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/07/INFBXV2FVRCMZLLKB2SK23WPYU/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Nov 2024 06:13:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJACOCQWWU5QCEDLXLXU6WACM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1조원대 규모의 불법 다단계 사기 의혹을 받는 이상은 휴스템코리아 회장이 검찰로 넘겨졌다.&lt;br&gt;&lt;br&gt;서울경찰청 금융범죄수사대는 지난달 31일 이 회장과 상위 모집책인 ‘플랫폼장’ 등 70명을 사기 및 유사수신행위의 규제에 관한 법률위반 등 혐의로 서울중앙지검에 송치했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 농수축산물 거래를 가장한 다단계 유사조직을 통해 약 10만명으로부터 회원가입비 등 명목으로 1조1900억원 이상을 가로챈 혐의를 받는다.&lt;br&gt;&lt;br&gt;휴스템코리아는 투자금을 2.6배 부풀린 가상 자산으로 배당해 현금화하거나 가맹점 결제 등에 사용할 수 있다고 홍보한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;앞서 이 회장은 방문판매 등에 관한 법률위반 혐의로 기소돼 지난 8월 1심에서 징역 7년과 벌금 10억원을 선고받고 법정 구속됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>대산석유화학공단 잇는 고속도로, 2030년 개통한다</title>
       <link>https://www.chosun.com/national/regional/chungcheong/2024/11/07/CBPPLNVEYFCQVBMLJS7IPFCZFM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/11/07/CBPPLNVEYFCQVBMLJS7IPFCZFM/</guid>
@@ -794,15 +859,6 @@
       <content:encoded>부산 형제복지원 사건 피해자들에게 국가가 손해를 배상해야 한다는 2심 판단이 또 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OPMWRABIPRJ4PLLUBXUNGA37BM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이향직 형제복지원 서울경기피해자협의회 대표와 형제복지원 사건 피해자들이 7일 서울 서초구 서울중앙지법 앞에서 대한민국을 상대로 제기한 국가배상 손해배상 소송 2심 선고 공판을 마치고 취재진에 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 민사33부(재판장 김대웅)는 7일 형제복지원 피해자 김모씨 등 13명이 국가를 상대로 낸 손해배상 청구 소송에서  원심 일부 승소로 판결한 1심을 유지했다. 재판부는 이날 법정에서 선고 이유를 밝히진 않았다.&lt;br&gt;&lt;br&gt;앞서 1심은 지난 1월 “국가가 피해자 한 사람당 수용 기간 1년마다 약 8000만원을 기준으로 위자료를 지급하라”고 판결했다. 피해자들이 위자료로 108억3000만원을 청구했는데 법원이 이 중 45억3500만원을 인정해 준 것이다.&lt;br&gt;&lt;br&gt;형제복지원 사건은 1975~1986년 정부가 부랑인 선도라는 명목으로 노인, 장애인, 고아 등을 형제복지원에 불법 감금한 것이다. 이 기간에 3만 8000여 명이 형제복지원에 입소했다고 한다.&lt;br&gt;&lt;br&gt;당시 내무부 훈령인 ‘부랑인 신고, 단속, 수용, 보호와 귀향 및 사후 관리에 관한 업무 처리 지침’을 근거로 진행됐다. 1987년 검찰이 박인근 형제복지원 원장을 특수 감금, 업무상 횡령 등 혐의로 기소했지만 대법원은 정부 훈령에 따른 수용이라는 이유로 특수 감금에 대해서는 무죄를 선고하고 업무상 횡령에만 징역 2년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;이 사건에 대해 ‘진실·화해를 위한 과거사 정리 위원회’는 작년 8월 “공권력에 의한 인권 침해 사건”이라고 결론 내렸다. 위원회는 1975~1988년 형제복지원에서 657명의 사망자가 발생했다고 밝혔다. 일부 사망자는 구타 등에 의한 사망이 병사(病死)로 조작됐을 가능성이 크다고 했다. 또 국가가 형제복지원의 불법을 묵인한 정황도 확인됐다고 했다.&lt;br&gt;&lt;br&gt;작년 12월 형제복지원 피해자에 대해 법원이 국가의 배상 책임을 처음으로 인정한 이후 비슷한 취지의 판결이 잇따르고 있다. 지난 4월 서울중앙지법 민사27부(재판장 손승온)는 형제복지원 피해자 15명이 낸 손해배상 청구 소송에서 국가가 46억8000만원을 지급하라고 판결한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>검찰, 김정숙 샤넬 재킷 반환 확인…시점은 계속 수사</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/07/DUZPOJE4GVFXVAKJZTNHWSXXJQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/07/DUZPOJE4GVFXVAKJZTNHWSXXJQ/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Nov 2024 05:53:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EVFFELEDRJFTGBBAYTYXUCREEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문재인 전 대통령 배우자 김정숙 여사가 2018년 10월 15일(현지 시각) 에마뉘엘 마크롱 대통령의 부인인 브리지트 마크롱 여사와 프랑스 파리 루브르 박물관으로 입장하고 있다. 김 여사가 입은 재킷은 샤넬이 한국에서 개최했던 2015/16 크루즈 컬렉션 무대에서 소개했던 작품이다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 문재인 전 대통령 배우자 김정숙 여사가 2018년 프랑스 순방 때 입었던 ‘샤넬 재킷’을 프랑스 샤넬 본사에 돌려준 사실을 확인했다. 언제 반환했는지는 계속 수사 중이다.&lt;br&gt;&lt;br&gt;7일 법조계에 따르면 서울중앙지검 형사2부(부장 조아라)는 김 여사 착용 당시 영상과 샤넬에서 임의 제출받은 재킷을 비교·분석한 결과 해당 의상이 김 여사가 입고 돌려준 옷이 맞다는 대검찰청 디지털포렌식센터 감정 결과를 통보받았다. 앞서 검찰은 샤넬 본사에 요청해 김 여사가 반환했다는 대여 의상을 제출받았다.&lt;br&gt;&lt;br&gt;김 여사는 2018년 10월 프랑스 방문 때 샤넬 수석 디자이너 카를 라거펠트가 한글을 수놓은 원단을 이용해 제작한 재킷을 빌려 입었다. 해당 재킷은 2021년 9월 프랑스문화원과 국립한글박물관이 개최한 특별전에 전시된 뒤 한글박물관에 기증됐고, 2022년 3월 인천국제공항 출국장에서 열린 한글박물관 전시에서 공개됐다.&lt;br&gt;&lt;br&gt;이후 온라인 커뮤니티와 정치권에서 김 여사 착용 의상과 국내 전시품이 다르다는 의혹이 제기됐다. 탁현민 당시 청와대 의전비서관은 “옷을 빌려 입고 샤넬에 돌려줬더니 (샤넬 측에서) ‘한글로 디자인돼 의미가 크니 한국에 기증하겠다’고 해 기증됐다”고 했지만, 샤넬은 “2021년 한국박물관 요청을 받고 별도 제작했다”고 했다. 그러자 청와대는 “대여한 옷을 기증할 수 없으니 옷을 새로 제작한 것”이라고 해명했다.&lt;br&gt;&lt;br&gt;국민의힘 소속 이종배 서울시의원은 지난 1월 김 여사를 국고손실, 횡령, 사기 등의 혐의로 검찰에 고발했다. 청와대 특수활동비가 김 여사 옷값 지불에 사용됐고 반납도 하지 않았을 것이라는 취지였다. 문재인 정부 청와대 측은 의류 구입 목적으로 특활비를 사용하지 않았다고 반박했다.&lt;br&gt;&lt;br&gt;서울중앙지검은 지난 7월 김일환 관장 등 한글박물관 관계자를, 9월에는 전 주프랑스 한국문화원장을 각각 참고인 조사했다. 지난달에는 김 여사 단골 디자이너의 딸로서 청와대에서 김 여사의 의상과 의전을 담당했던 양모씨도 조사했다.&lt;br&gt;&lt;br&gt;검찰은 김 여사가 착용한 샤넬 재킷이 언제 반납됐는지, 약 3년 뒤에 샤넬 측이 재킷을 기증하기로 한 경위는 무엇인지를 추가로 확인할 예정이다. 서울중앙지검 형사2부는 김 여사의 인도 타지마할 외유성 출장 의혹과 청와대 경호관에게 개인 수영강습을 받았다는 의혹도 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>’조국당 대변인’ 이규원, “검찰 복직 거부” 소송 각하</title>
       <link>https://www.chosun.com/national/court_law/2024/11/07/5FN6BS2LM5EV5KT3SM4IEUPTWU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/07/5FN6BS2LM5EV5KT3SM4IEUPTWU/</guid>
@@ -810,24 +866,6 @@
       <description/>
       <pubDate>Thu, 07 Nov 2024 06:10:01 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M3OYNOWPWNOXPHXYNEUOWG3H7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이규원 조국혁신당 대변인이 현직 검사 신분이던 지난 3월 11일 여의도 조국혁신당 당사에서 열린 입당 환영식에서 조국 대표로부터 꽃다발을 받고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 4월 국회의원 선거 당시 현직 검사 신분으로 조국혁신당에 입당해 복귀하지 않은 이규원 조국혁신당 대변인이 법무부를 상대로 낸 복직 명령 무효 소송을 법원이 받아들이지 않았다.&lt;br&gt;&lt;br&gt;서울행정법원 행정13부(재판장 박정대)는 7일 이 대변인이 법무부장관을 상대로 제기한 복직 명령 무효 소송에서 각하(却下) 판결을 내렸다. 각하는 소송요건을 갖추지 못한 사건에 대해 법원이 심리를 하지 않고 종결하는 것이다.&lt;br&gt;&lt;br&gt;앞서 이 대변인은 지난 총선 때 현직 검사 신분으로 급여를 받으면서 조국혁신당에 입당해 논란이 됐다. 질병 휴직 중이었던 이 대변인은 총선을 한 달 앞둔 지난 3월 법무부에 사표를 내고 입당해 비례대표 순번 22번을 받았다.&lt;br&gt;&lt;br&gt;당시 법무부는 이 대변인의 사표를 수리하지 않았다. 국가공무원법은 검사가 비위와 관련해 기소된 경우 퇴직을 제한하고 있는데, 이 대변인은 ‘김학의 불법 출국금지’ 사건으로 1심에서 징역 4개월의 선고를 유예받고 항소심 재판을 받고 있다.&lt;br&gt;&lt;br&gt;이 대변인은 낙선했지만 업무에 복귀하지 않고 정당 활동을 계속했다. 이에 법무부는 이 대변인이 지난 총선일(4월 10일)까지 신청한 질병 휴직이 끝나기 전에 이 대변인에게 업무에 복귀하라는 명령을 내렸다. 하지만 이 대변인은 응하지 않고 지난 4월 11일 법원에 복직 명령 무효 확인 소송을 냈다. 아울러 복직 명령의 효력을 정지해달라는 집행정지 신청도 함께 냈지만, 법원은 이 신청도 각하했다.&lt;br&gt;&lt;br&gt;이 대변인이 업무복귀 명령에 응하지 않은 채 무단결근하자 법무부 검사징계위원회는 지난달 최고 징계처분인 해임을 의결했다. 해임은 검사징계위원회가 의결할 수 있는 최고 수위 징계로, 해임 처분을 받으면 3년간 변호사 활동을 할 수 없게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울시, 고령 운전자 면허 자진 반납 인센티브 2배로 상향 추진</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/07/KI6DHUJ5TBEETJDC36OE5B74S4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/07/KI6DHUJ5TBEETJDC36OE5B74S4/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Nov 2024 06:15:44 +0000</pubDate>
-      <content:encoded>서울시가 70세 이상 고령 운전자의 면허 자진반납 인센티브를 현재의 2배로 올리는 방안을 검토한다. 현재 서울시는 고령 운전자가 면허를 자진 반납하면 10만원이 충전된 선불 교통카드를 주고 있는데, 이를 20만원으로 올린다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B4XWVS436JAIVIP5ROTQOGVAFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7월 3일 오전 대전 동구 도로교통공단 대전운전면허시험장 강의실에서 75세 이상 운전자들이 ‘고령 운전자 교통안전교육’을 받고 있다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 문성호 서울시의원(국민의힘)이 서울시에서 받은 자료에 따르면 서울시는 최근 이 같은 내용을 담은 예산안을 서울시의회에 제출했다.&lt;br&gt;&lt;br&gt;서울시는 목표로 하는 지원 대상 수도 올해 1만7000명에서 2만3500명으로 확대하기로 했다. 이에 따라 서울시의회에서 예산안이 확정될 경우, 고령 운전자 면허 반납 인센티브 관련 예산은 올해 17억원에서 내년 47억원으로 30억원 오른다.&lt;br&gt;&lt;br&gt;한편 올해 운전면허를 반납한 서울 거주 70세 이상 운전자 수는 작년 한 해의 절반 수준에 그친 것으로 나타났다.&lt;br&gt;&lt;br&gt;지난 9월까지 운전면허를 반납한 서울시 고령 운전자는 1만4242명으로, 작년 한 해 운전면허를 반납한 2만5489명의 55.9%에 그쳤다. 9월까지의 추세가 계속된다면 올 연말 운전면허 반납자 수는 작년에 미치지 못할 전망이다.&lt;br&gt;&lt;br&gt;서울시는 지난 2019년부터 70세 이상 고령 운전자가 자진해서 면허를 반납하면 10만원이 충전돼 있는 선불 교통카드를 지급하고 있다. 그러나 실제 고령 운전자의 면허 자진 반납률은 5%대에 머물러 있어 인센티브가 고령 운전자들의 면허 반납을 유인하지 못한다는 지적이 있었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰 압수물 38.5% 등록 지연…관리 부실 드러나</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/07/PXCWHUIT7NHPXJ33DY42HZC4QY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/07/PXCWHUIT7NHPXJ33DY42HZC4QY/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Nov 2024 04:59:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CF3KMLRYWOLJHZKRNSS2ND4CQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 경찰청에 게양된 경찰청 깃발이 바람에 펄럭이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청이 전국 경찰관서의 압수물 관리 실태를 전수조사한 결과, 총 8만 3850건 중 3만 2300건(38.5%)이 등록 지연된 것으로 나타났다.&lt;br&gt;&lt;br&gt;7일 경찰청에 따르면 현재 압수물은 입수 즉시 형사사법정보시스템(KICS)에 자동으로 연동되지 않고 별도의 등록 절차를 거쳐야 한다. 이 때문에 7일 이상의 지연 등록 사례가 발생했으며, 일부 관서에서는 압수물 목록 작성 오류와 관리 절차 위반 사례도 확인되었다.&lt;br&gt;&lt;br&gt;앞서 서울 용산경찰서 형사과 소속 경찰관과 강남경찰서 범죄예방대응과 소속 경찰관이 현금 등 압수물 수억원을 빼돌리다 적발됐다. 이에 경찰은 지난달 18일부터 25일까지 8일간 전국 경찰관서 간 교차점검 방식으로 압수물 전수 조사를 진행했다.&lt;br&gt;&lt;br&gt;조사 결과 일선 경찰서 압수물 보관실의 보안 체계도 문제로 지적됐다. 대부분의 압수물 보관실은 비밀번호 입력 방식으로 운영됐는데, 비밀번호만 알면 누구나 접근이 가능했다. 게시판에 메모해 두었던 증거물 보관실 출입문 비밀번호를 지우지 않은 경찰서도 있는 것으로 파악됐다. 현재 전국에서 지문 인식 출입 시스템이 설치된 경찰서는 단 세 곳에 불과하다.&lt;br&gt;&lt;br&gt;경찰은 현금 계수기 부족으로 압수된 현금을 수기로 일일이 세어 기록하는 과정에서 오류가 발생한 사례도 있었다고 밝혔다. 더구나 압수 현금은 내부를 볼 수 없게 밀봉된 상태로 보관되어, 만약 압수물의 내용물이 바뀌더라도 쉽게 알아차릴 수 없는 구조였다.&lt;br&gt;&lt;br&gt;장기간 출고된 압수물에 대한 관리 체계도 미비한 것으로 파악됐다. 서울 용산경찰서 경찰관은 지난 2022년 보이스피싱 범죄에서 압수한 억대 현금을 출고했다가 지난달에야 범행이 발각됐다. 경찰은 통합증거물관리시스템(SCAS)에 장기간 출고된 압수물에 대한 경고 알림 기능을 추가할 방침이다.&lt;br&gt;&lt;br&gt;압수물 관리 미흡으로 5명의 경찰관이 감찰에 넘겨지기도 했다. 경찰은 이미 사용된 상품권 1400여매를 현장에서 압수했다가 분실하거나, 압수한 현금을 실제보다 많이 기재한 사례 및 적게 기재한 사례 등도 포착했다.&lt;br&gt;&lt;br&gt;경찰은 압수물 관리 시스템을 대폭 개편할 계획이다. 앞으로 현금 및 귀중품은 투명한 비닐이나 플라스틱 박스에 봉인해 제거 시 흔적이 남는 스티커를 부착할 예정이다. 또한, 지문 인식 출입 통제 시스템을 도입해 출입 이력을 전산으로 관리하고, 압수물 보관 업무 외의 제3자 출입을 차단할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“3년간 돈 뺏겨”…학폭 피해 고백한 김창옥, 부모에게도 말 못했던 이유</title>
@@ -875,16 +913,6 @@
       <content:encoded>유명 유제품 ‘불가리스’가 코로나 바이러스에 마치 예방 효과가 있는 것처럼 단정해 광고한 혐의로 재판에 넘겨진 남양유업과 전·현직 임직원들이 벌금형을 선고 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P4UOS2EQMJLFHFBVH4LMPUNTII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2021년 4월 14일 오후 대구 한 슈퍼마켓 주인이 음료 진열대에 불가리스 품절 안내문을 붙이고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 서울중앙지법 형사2단독 박소정 판사는 식품 등의 표시·광고에 관한 법률 위반 혐의 등을 받는 이광범 전 남양유업 대표 등 전·`현직 임직원 4명과 남양유업에 대한 선고 기일을 열고 이 전 대표에게 벌금 2000만원, 남양유업에 벌금 5000만원을 선고했다. 다른 임직원 박모씨(벌금 2000만원)와 김모씨 및 이모씨(이상 벌금 1000만원)도 벌금형을 선고 받았다. 이들은 작년 12월에 기소됐고, 이날 11개월 만에 1심 선고가 나왔다.&lt;br&gt;&lt;br&gt;박 판사는 관련 공소사실을 모두 유죄로 인정하며 “세포 단계 실험이라 보도 가치가 없음에도 한국의과학연구원 형식을 빌려 사실상 홍보 효과를 노린 학술 토론회를 개최했다”면서 “당시 국내에서 코로나에 대한 백신 접종을 시작했으나 그 부작용에 대한 우려로 (접종이) 기피되는 등 코로나로 인해 전 국민이 신체에 대한 위협을 받는 상황에서 불가리스가 코로나 예방에 효과가 있다고 광고해 죄책이 중하다”고 지적했다.&lt;br&gt;&lt;br&gt;이들은 코로나가 확산하던 2021년 4월 한국의과학연구원 주관으로 열린 학술 토론회에서 ‘(남양유업이 생산하는) 불가리스 제품이 코로나에 대한 항바이러스 효과가 있다는 사실을 국내 최초로 확인했다’고 발표하고 보도자료를 배포했다.&lt;br&gt;&lt;br&gt;당시 학술 토론회의 핵심 내용은 코로나 바이러스에 불가리스 발효유를 직접 주입했더니 전체 바이러스의 77.8%가 줄었다는 내용이었다.&lt;br&gt;&lt;br&gt;하지만 이는 단순 세포 실험으로, 실제로 제품을 마셨을 때 몸속 바이러스가 줄어드는지에 대해선 검증되지 않은 결과였다. 그럼에도 이들은 마치 불가리스 식음이 코로나 예방·치료에 효능이 있는 것으로 인식될 수 있게 광고했다. 실제로 관련 보도가 이어지자 편의점 등에서 일시적인 불가리스 품귀 현상이 일어나고 남양유업 주가는 8% 급등하기도 했다.&lt;br&gt;&lt;br&gt;혼란이 커지자 질병관리청은 “실제 예방 효과를 예상하기 어렵다”고 밝혔고, 식약처는 남양유업을 수사기관에 고발했다. 홍원식 전 남양유업 회장은 대국민 사과를 하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“비틀비틀 이상한데”...출근길 음주운전 차량 추적한 교통경찰관 </title>
-      <link>https://www.chosun.com/national/regional/2024/11/07/IO6D7YTKYVA7TACVNJ4FKRV6BU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/07/IO6D7YTKYVA7TACVNJ4FKRV6BU/</guid>
-      <dc:creator>수원=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Nov 2024 01:02:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PBTXTATWSFDKRJDN27EODDJRXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원중부경찰서 교통과 소속 안희완 경사는 9월 28일 출근길에 앞 승용차가 비틀거리며 신호위반을 하는 것을 목격하고 음주나 약물 복용으로 의심해 112 신고와 함께 추격해 검거했다. /수원중부경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;출근하던 교통경찰관이 음주운전이 의심스러운 차량을 추적해 운전자를 검거했다.&lt;br&gt;&lt;br&gt;7일 경기남부경찰청에 따르면 지난 9월 28일 오전 6시쯤 주간 근무를 위해 출근하던 수원중부경찰서 교통과 소속 안희완 경사는 수상한 앞 승용차를 목격했다. 이 차량은 좌우로 비틀거리며 신호를 위반하고, 승객이 서 있는 버스정류장 쪽으로 위험하게 진행하기도 했다.&lt;br&gt;&lt;br&gt;안 경사는 운전자가 음주나 약물을 했을 가능성이 분명하다고 판단, 추격하면서 112에 신고해 순찰차 출동을 요청했다. 그는 주거지 주차장으로 들어가 주차를 하는 용의차량을 끝까지 쫓았고, 하차해 집안으로 들어가려는 20대 남성 운전자를 가로막았다.&lt;br&gt;&lt;br&gt;이 운전자는 곧이어 순찰차를 이용해 도착한 관할 지구대 경찰관에게 검거됐다. 음주 측정 결과 운전자의 혈중알코올농도는 면허취소 수준(0.08% 이상)을 훌쩍 넘긴 만취 상태로 확인됐다.&lt;br&gt;&lt;br&gt;안 경사는 “일반 시민도 신고를 해 주시는데 경찰관으로서 그냥 지나칠 수 없었다”며 “인명피해도 막고 범인을 검거해 기분이 좋았다”고 말했다. 수원중부서는 안 경사에게 포상휴가를 수여했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/ZFC4NKNCT5AJFPGF5GJR5Y55RQ.gif?width=860&amp;height=483&amp;auth=7fed1370a6ea315c0c071798bf57e21705864486a50b5e73cbd21fffc8b8e316&amp;smart=true" type="image/jpeg" height="483" width="860"/>
-    </item>
-    <item>
       <title>서울에 올 겨울 첫 얼음…제주까지 전국이 영하권 추위</title>
       <link>https://www.chosun.com/national/transport-environment/2024/11/07/MXPTK7EDKNAYXJR5T4WZU3LWSA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/11/07/MXPTK7EDKNAYXJR5T4WZU3LWSA/</guid>
@@ -901,15 +929,6 @@
       <description/>
       <pubDate>Thu, 07 Nov 2024 00:31:36 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7IYTX4LCLRHHFMPGKMMMXTJQ3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;밀수한 신경치료 기기. /관세청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국 전자상거래 플랫폼 ‘알리익스프레스’로 산 미인증 치과용 기기를 환자에게 사용해 온 치과 의사들이 적발됐다.&lt;br&gt;&lt;br&gt;관세청 서울본부세관은 6일 국내 미인증 치과용 기기 1만1349점(시가 1억4000만원)을 국내로 밀반입한 후 환자에게 사용해 온 치과의사 13명을 적발했다고 밝혔다.&lt;br&gt;&lt;br&gt;이들은 2022년 12월부터 올해 4월까지 1184회에 걸쳐 알리익스프레스에서 치료 사용 목적의 의료용 치과 기기를 사고, 이를 집에서 쓸 물품으로 위장해 수입 요건과 관세 등을 면제받으며 국내로 반입한 혐의를 받는다.&lt;br&gt;&lt;br&gt;적발된 치과용 기기는 충치 치료나 치아 절삭에 사용되는 치과용 드릴, 환자의 잇몸에 직접 닿는 구강 마취 주사기 등이었다.&lt;br&gt;&lt;br&gt;의료기기를 수입하려면 구매 가격이 150달러 이하더라도 식품의약품안전처의 의료기기 수입 허가를 받고 목록 통관이 아닌 정식 수입통관 절차를 거쳐야 한다. 단, 자가 치료 등 일부 경우는 제외할 수 있다.&lt;br&gt;&lt;br&gt;적발된 치과의사들은 이 사실을 알면서도 비용을 줄이기 위해 해외 오픈마켓에서 기기를 구매해 치료에 사용한 것으로 나타났다. 단체 채팅방에서 의료기기 해외직구(직접구매) 정보를 공유하기까지 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;서울본부세관은 “국민 건강 보호를 위해 미인증·미허가 의료기기 등의 위해 물품이 국내에 반입되지 않도록 해외직구 통관 관리를 강화하겠다”며 “국내 유통 모니터링도 계속할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;한편 앱 리테일 분석 서비스 와이즈앱리테일굿즈에 따르면 올해 7월까지 알리·테무의 국내 결제금액은 2조2938억원인 것으로 나타났다. 7개월 만에 작년 전체 결제 추정액(2조3227억원)에 육박한 것이다. 지난 5월 알테쉬(알리·테무·쉬인) 중국 전자상거래 제품에서 안전성 등의 문제가 불거졌지만, 지속되는 고물가 속에 중국발 저가 제품을 찾는 소비자도 늘고 있는 것으로 풀이된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“어깨 치려다 시력 나빠서”… 여친 머리 둔기로 때린 남성이 한 말</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/07/WPZ6MJJZTZCZTG3STYF6XGTARQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/07/WPZ6MJJZTZCZTG3STYF6XGTARQ/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Nov 2024 00:29:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3EHFKM3JXRAM3HRDGHIYJ3CE54.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 잠자던 연인의 머리를 둔기로 수 차례 때려 재판에 넘겨진 40대 남성에게 중형을 구형했다.&lt;br&gt;&lt;br&gt;제주지법 형사2부(부장판사 홍은표)는 지난 6일 살인미수 혐의로 구속 기소된 40대 A씨에 대한 결심공판을 진행했다. 검찰은 이날 A씨에 대해 징역 10년을 선고해줄 것을 재판부에 요청했다.&lt;br&gt;&lt;br&gt;A씨는 지난 7월 10일 오전 5시쯤 제주시 자신의 주거지에서 잠을 자고 있던 여자친구의 머리를 둔기로 여러 차례 폭행하고, 3시간가량 감금한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;폭행을 당한 여자친구가 병원 치료를 받고 싶다고 호소했으나, A씨는 3시간가량 붙잡아뒀다가 뒤늦게 “여자친구가 1층에서 넘어지면서 머리를 다쳤다”고 119에 신고한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;검찰은 “A씨가 잠을 자며 무방비 상태에 있는 피해자의 머리에 둔기를 무차별적으로 휘둘러 범행이 매우 불량하다. 범행 후 정황에 비춰 살인의 고의가 있다고 보인다”고 했다. 이어 “피고인이 눈이 잘 안보여서 실수로 때렸다는 진술도 상식적으로 이해가 되질 않는다”며 “피해자가 ‘살려 달라’고 소리쳤음에도 3시간 가까이 119에 신고하지 않은 점, 피해가 완전히 회복되지 않은 점, 합의가 이뤄지지 않은 점 등을 고려했다”고 구형 이유를 설명했다.&lt;br&gt;&lt;br&gt;A씨 측 변호인은 “폭행은 인정하지만 살인의 고의가 없었다. 범행 후 피고인도 정신이 없었던 것으로 보인다. 결국 피고인이 119를 불러서 응급조치를 했다”며 계획 범행이 아닌 우발적 범행이라고 항변했다.&lt;br&gt;&lt;br&gt;A씨는 이날 법정에서 폭행 이유에 대해 “(피해자가) 잠을 자면서 잠꼬대를 했는데 위협만 하려다 이성을 잃었다”며 “어깨를 때리려다 시력이 안 좋아서 머리를 때리게 됐다”고 했다.&lt;br&gt;&lt;br&gt;A씨에 대한 선고 공판은 이달 28일 열릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>오세훈, 트럼프 당선에 “한국 안보 美 배려에만 의탁 못해…한국 강해져야"</title>
@@ -937,15 +956,6 @@
       <description/>
       <pubDate>Wed, 06 Nov 2024 15:55:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DCGRK6J244X4EEGCFLFB6T4JVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 7일 오전 10시 서울 용산 대통령실 청사에서 대국민 기자회견을 한다. 이번 기자회견은 임기 반환점(11월 10일)을 앞두고 지지율 최저치(10% 후반대)를 기록한 윤 대통령의 임기 후반기 성패를 가를 분수령이 될 전망이다.&lt;br&gt;&lt;br&gt;윤 대통령은 TV 등으로 생중계되는 이번 기자회견에서 취임 후 2년 반 동안의 국정 성과를 간략히 소개하고, 기자들의 질문에 답한다. 대통령실은 기자들의 질문 주제나 시간, 횟수에 제한을 두지 않겠다고 했다. 윤 대통령은 모든 현안에 대해 ‘진솔하고 소상하게 답하겠다’는 입장인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;여권에선 윤 대통령이 명태균씨 논란으로 불거진 공천 개입 의혹, 김건희 여사 관련 논란에 대해 유감을 표명하거나 사과하고, 김 여사의 공개 활동 중단 등 논란 재발 방지 조치를 약속할 가능성이 거론된다. 다만 여권 일각의 인적 쇄신 요구와 관련해서는 “국면 전환용 인사보다는 인사 수요를 검토해 판단하겠다”는 입장을 밝힐 가능성도 있다. 김 여사 활동 중단 문제와 관련해서는 윤 대통령이 “외교·의전 차원에서 최소한의 활동은 필요하다”는 점을 설명하고 국민에게 양해를 구할 가능성도 거론된다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 판결] 단톡방서 택배 점주 비방한 민노총 노조원 ‘모욕죄’ 유죄</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/07/J576X2YDRVBX3JZEFPAG4DIR4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/07/J576X2YDRVBX3JZEFPAG4DIR4I/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 06 Nov 2024 15:50:00 +0000</pubDate>
-      <content:encoded>민노총 택배노조원들과 갈등을 빚다가 극단적 선택을 한 택배 대리점 소장을 단체 채팅방에서 비방한 노조원에게 벌금형이 확정됐다. 이 사건으로 기소된 택배노조원 중 유죄가 확정된 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 권영준 대법관)는 모욕 혐의로 기소된 택배 기사 A씨에게 벌금 100만원을 선고한 원심을 확정했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;경기 김포시의 한 택배 대리점에서 일한 택배 기사 A씨는 지난 2021년 5~7월 택배노조 조합원 등 40여 명이 참여하고 있는 카카오톡 단체 채팅방에서 대리점 소장 이모씨를 겨냥해 “질긴 놈, 언제쯤 자빠질까” “양배추 같은 까도 까도 끝이 없는 비리, 횡령 외 수없는 불법적인 일에 종지부를 찍어야 할 것 같다”는 등의 글을 올려 비방한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;이씨는 당시 이 채팅방에 들어가 있지 않았는데, 추후에 A씨 등 노조원들의 비방 내용을 전달받았다고 한다.&lt;br&gt;&lt;br&gt;이씨와 노조원들은 수수료 지급 구조 문제 등으로 갈등을 빚는 상황이었다. 노조원들의 태업과 괴롭힘에 심각한 스트레스를 호소하던 이씨는 그해 8월 30일 유서를 남기고 결국 세상을 등졌다. 이씨가 숨진 뒤 유족들은 A씨를 모욕 혐의로 고소했다.&lt;br&gt;&lt;br&gt;1심과 2심은 A씨에게 벌금 100만원을 선고했다. 2심 재판부는 “A씨의 메시지들은 이씨에 대한 사회적 평가를 저하시키기에 충분하고 경멸적 감정을 담은 표현”이라며 “사실관계를 제대로 파악하지 않은 채 근거 없이 메시지를 보낸 점은 정당한 행위라 보기 어렵다”고 했다. 대법원은 원심 판결에 잘못이 없다고 보고 A씨의 상고를 기각했다.&lt;br&gt;&lt;br&gt;이 사건으로 기소된 다른 조합원 1명은 2022년 의정부지법 고양지원에서 징역 8개월의 집행유예 2년을, 또 다른 1명은 인천지법에서 징역 4개월에 집행유예 1년을 선고받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2024년 11월 7일</title>
