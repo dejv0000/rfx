@@ -13,6 +13,125 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>무용수 깜짝 데뷔한 채시라... 붕어빵 딸과 함께 무대 올랐다</title>
+      <link>https://www.chosun.com/national/people/2024/11/08/52WVNZGYRRF6TPLNEGLJMCL53M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/08/52WVNZGYRRF6TPLNEGLJMCL53M/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Nov 2024 13:41:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KFERJT4FQJGQ3BXUVZ74W3QZTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;채시라&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 채시라(56)가 자신의 딸과 함께 같은 한국 무용 무대에 올랐다.&lt;br&gt;&lt;br&gt;채시라는 8일 인스타그램에 “딸과 같은 시간 같은 무대에 있었다는 큰 의미 있는 날”이라는 내용의 글과 함께 사진 여러 장을 올렸다. 그는 지난 6일 아르코예술극장 대극장에서 한국의 명작무를 소개하는 ‘명작무극장’ 프로그램 중 ‘정재만류 산조(청풍명월)’ 무대에 올랐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LIE2US7DENIKVNR3IUNVRXE75A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;YONHAP PHOTO-4565&gt; 소감 말하는 서울무용제 홍보대사 배우 채시라&#13;
+    (서울=연합뉴스) 배우 채시라가 10일 오전 서울 중구 프레스센터에서 열린 제45회 서울무용제 기자간담회에서 이번 행사의 홍보대사를 맡은 소감을 말하고 있다. 2024.10.10 [대한무용협회 제공. 재판매 및 DB 금지]&#13;
+    photo@yna.co.kr/2024-10-10 15:28:44/
+&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공개된 사진 속에는 한복을 차려입은 채시라와 그의 딸이 무대에 함께 오른 모습이 담겨 있었다. 이들을 축하하기 위해 배우 조보아, 예지원, 가수 김완선 등도 참석했다.&lt;br&gt;&lt;br&gt;채시라는 “내 무용수 데뷔 무대를 축하하러 온 아끼는 지인들과”라며 “다음엔 같은 작품으로 함께 무대에 서는 날을 기약하며”라고 적었다.&lt;br&gt;&lt;br&gt;앞서 채시라는 자신의 꿈이 무용수였다고 밝혔다. 그는 지난달 10일 대한무용협회가 개최한 기자간담회에서 “사실 저는 배우가 아니라 무용수가 꿈이었고, 나름대로는 항상 무용인의 피가 몸에 흐른다고 생각하며 살고 있다”며 “제 아이에 대해 밝히는 건 처음인데 딸도 대학교에서 한국무용을 전공하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “이번에 공연할 작품에서 제가 춤추는 분량은 2분 정도였는데, 동작 하나가 추가돼서 조금 더 길어졌다”며 “9월 5일 연습을 시작했는데, 제 연습 장면을 찍어 새벽 3까지 눈을 부릅뜨고 보면서 동작을 외웠다”고 열의를 드러냈다.&lt;br&gt;&lt;br&gt;한편 채시라는 2000년 가수 김태욱과 결혼한 후 2001년 딸을, 2007년 아들을 품에 안았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“조세호가 뭐라고”... 김구라, 결혼식 불참 이유 밝혔다</title>
+      <link>https://www.chosun.com/national/people/2024/11/08/XSU5AC552VH3LASLHEJPQKPHHI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/08/XSU5AC552VH3LASLHEJPQKPHHI/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Nov 2024 11:22:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CGWPCJUPSRBD7LBY5NS4NGSTGY.png"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 김구라./유튜브 '그리구라 GreeGura
+'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 김구라(54)가 조세호의 결혼식에 참석하지 못했던 이유에 대해 밝혔다.&lt;br&gt;&lt;br&gt;김구라는 지난 6일 자신이 운영하는 유튜브 채널 ‘그리구라 GreeGura’ 에 올린 영상에서 “조세호의 결혼식 날짜를 받은 것은 한두 달 전이고 건강검진도 같은 시기에 예약했다”고 말했다. 조세호의 결혼식이 일요일이었는데, 김구라의 건강검진이 월요일로 예정되어 참석할 수 없었다는 것이다.&lt;br&gt;&lt;br&gt;김구라는 건강검진 시 복용해야 하는 약 ‘오라팡’을 언급하며 ”약을 먹으면 계속 화장실을 가게 되기 때문에 결혼식에 참석하기 어려웠다”고 했다.&lt;br&gt;&lt;br&gt;결혼식 전날 대장내시경 준비로 약을 먹어야 했던 김구라는 “오후 5시부터 약을 먹으면 계속 화장실에 가야 하는 상황”이었다며 “조세호가 뭐라고. 그래서 매니저한테 돈 봉투는 보내고 세호한테 ‘미안하다. 형이 건강검진 대장 내시경이 있다’고 문자를 보냈다”고 털어놨다.&lt;br&gt;&lt;br&gt;마지막으로 김구라는 “어떤 이들은 그런다. ‘그래도 조세호 결혼식 맞춰서 빼야지’ 하는데 조세호가 나한테 그렇게 중요하냐. 그건 아니다. 여러분들 중에 친구 결혼식인데 다음 날 대장내시경이 있는데 간 사람 있으면 나와보라 그래. 그건 못 가는 거다. X을 싸는데 어떻게 가냐”고 말했다.&lt;br&gt;&lt;br&gt;조세호는 앞서 지난달 20일 서울 중구 신라호텔에서 9살 연하로 알려진 비연예인과 결혼식을 올렸다. 결혼식 주례는 조세호의 은사인 전유성이, 사회와 축사는 절친 남창희와 이동욱이 맡았다. 가수 지드래곤, 슈퍼주니어 규현, 은혁, 김희철, 잔나비 최정훈, 이승기, 방송인 지상렬, 배우 이이경, 이동휘, 류준열, 모델 주우재, 이수혁 등 유명 연예인들이 하객석을 가득 채웠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“비상문 열려고 한다”... ‘대한항공 기내 외국인 난동’ 당시 상황 보니</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/08/WEM4SQBET5AMJE5A6NJNRCY5AM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/08/WEM4SQBET5AMJE5A6NJNRCY5AM/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Nov 2024 12:19:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VM4SWFL3PVCTVIU6F6GYDHHXNQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;태국 방콕에서 출발해 인천으로 향하는 대한항공 항공기에서 한 외국인 승객이 승무원 비상구 좌석에 앉겠다며 난동을 부리고 있다./틱톡&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한항공 항공기에서 한 외국인 승객이 승무원 비상구 좌석에 앉겠다며 난동을 피운 사건이 발생한 가운데, 당시 현장에서 그가 비상문을 열려는 듯한 모습이 포착됐다.&lt;br&gt;&lt;br&gt;8일 대한항공에 따르면 전날 태국 방콕 수완나품 공항에서 출발해 이날 오전 4시 45분쯤 인천공항에 도착한 KE658편에서 외국인 남성 승객 A씨가 난동을 부렸다가 승무원 및 승객들에 의해 제압당했다.&lt;br&gt;&lt;br&gt;A씨는 항공기 운항 중 비상구 인근 승무원 전용 좌석에 무단으로 착석했다. 이를 발견한 승무원이 즉시 본인 좌석으로 돌아갈 것을 요청했으나 제지에 따르지 않고 고성으로 승무원을 위협하며 비상구 문에 접근했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YFEFGIEDW5DKZJNEMYCJPSC724.gif"&gt;&lt;figcaption&gt;&lt;small&gt;태국 방콕에서 출발해 인천으로 향하는 대한항공 항공기에서 한 외국인 승객이 난동을 피우는 모습./틱톡&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당시 현장을 목격한 한 승객이 소셜미디어에 올린 영상을 보면, 승무원 여섯 명이 비상구 근처 승무원 전용 좌석 쪽에 있는 A씨를 둘러싸고 있다. 휴대전화를 손에 들고 있던 A씨는 비상문을 건드리려는 듯한 행동을 취했고, 이를 본 한 여성 승무원이 비상구 문 쪽으로 재빠르게 다가가 그의 팔을 잡으며 저지했다. 이후 남성 승무원들이 A씨를 제압해 쓰러뜨렸다.&lt;br&gt;&lt;br&gt;이 영상을 본 네티즌들은 “비상구 문 열려고 한다” “비상구 건드리니까 몸으로 막는 승무원 대단하다” “지금 저 외국인 휴대전화 들고 찍고 있는 거냐” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;객실 사무장 등 승무원들은 항공보안법 위반을 여러 차례 고지하고, 지시에 따라 A씨를 제압하고 다른 승객들과 분리된 공간으로 이동시켰다. 항공편에는 238명의 승객이 탑승하고 있었으나 차질 없이 인천공항에 도착했다. 착륙 직후 해당 승객은 인천공항경찰대로 인계됐으며 조사를 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/XUGOXLKLENDNJLTCK4BRSXILIM.gif?width=556&amp;height=313&amp;auth=2382bbad87ed2054f48b9e214c08e5c862aefb1db99e5b138928e4b691ce844a&amp;smart=true" type="image/jpeg" height="313" width="556">
+        <media:description type="plain">태국 방콕에서 출발해 인천으로 향하는 대한항공 항공기에서 한 외국인 승객이 난동을 피우는 모습./틱톡</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>제주 침몰 어선 선원 수색... 밤새 이어간다</title>
+      <link>https://www.chosun.com/national/incident/2024/11/08/C54KHF4JFRH75FJWZGXFEGKOH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/08/C54KHF4JFRH75FJWZGXFEGKOH4/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Nov 2024 11:47:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S447HMIZD4WBDJULVMY3ITAFIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해경이 8일 오전 제주 비양도 북서쪽 22㎞ 해상에서 침몰한 129t급 대형 선망어선 135금성호 실종자 12명을 찾기 위해 수색하고 있다./제주지방해양경찰청 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 해상에서 발생한 135금성호 침몰 사고 실종자를 찾기 위해 야간 수색이 이어진다.&lt;br&gt;&lt;br&gt;8일 제주해양경찰서에 따르면 금성호 침몰 사고 실종자 12명을 찾기 위해 오후 6시부터 9일 오전 6시까지 야간에도 수색을 진행한다.&lt;br&gt;&lt;br&gt;항공기 총 5대가 조명탄 236발을 투하 하며 밤새 수색을 진행할 예정이다.&lt;br&gt;&lt;br&gt;실종자가 해안으로 떠밀려왔을 가능성 등도 고려해 해안 수색도 함께 진행하기로 했다.&lt;br&gt;&lt;br&gt;앞서 이날 오전 4시 31분쯤 제주 비양도 북서쪽 약 22㎞ 해상에서 부산 선적 129t급 대형 선망 어선 135금성호가 침몰 중이라는 인근 어선의 신고가 해경에 접수됐다.&lt;br&gt;&lt;br&gt;승선원 27명(한국인 16, 인도네시아인 11) 가운데 15명은 인근 선박에 구조됐다. 하지만 한국인 2명은 숨졌고, 나머지 12명(한국인 10, 인도네시아인 2)은 실종 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산·경남 행정 통합 첫발... “대한민국 경제 수도 될 것” </title>
+      <link>https://www.chosun.com/national/2024/11/08/7ZRF26NX25DDHN2FSVF4M6GTQM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/11/08/7ZRF26NX25DDHN2FSVF4M6GTQM/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Nov 2024 12:37:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEKIYGYRFJOSBB6LKP3BNSAZVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 경남도청 대회의실에서 열린 '부산·경남 행정통합 공론화위원회' 출범식에서 박형준 부산시장(오른쪽)과 박완수 경남지사가 인사말을 하고 있다. 이날 부산시와 경남도는 행정통합안 기본 구상안을 공개했다. /부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시와 경북도에 이어 부산시와 경남도도 행정 통합을 위한 첫발을 뗐다.&lt;br&gt;&lt;br&gt;부산시와 경남도는 8일 경남도청에서 ‘부산·경남 행정통합 공론화위원회’ 출범식을 열고 행정통합 기본구상안을 발표했다.&lt;br&gt;&lt;br&gt;공론화위원회는 부산·경남 행정 통합을 추진할 핵심 기구다. 부산·경남 지역 전문가 등 30명으로 구성했다. 위원회는 내년에 토론회와 공청회를 열고 여론조사를 실시할 예정이다. 이후 권고안을 만들어 부산시와 경남도에 제출할 계획이다.&lt;br&gt;&lt;br&gt;박형준 부산시장과 박완수 경남도지사는 “위원회의 권고안을 바탕으로 주민 투표를 부칠 것”이라고 했다. 경남도 관계자는 “행정 통합으로 시너지를 내려면 통합 자치단체가 조직과 재정 등 권한을 실질적으로 행사할 수 있어야 한다”며 “중앙정부와 협의할 것”이라고 했다.&lt;br&gt;&lt;br&gt;부산시와 경남도가 통합하면 인구는 670만명, 지역내총생산(GRDP)은 240조원에 달하게 된다. 경기도와 서울시에 이어 셋째로 큰 자치단체가 탄생하는 것이다. 통합 대구·경북보다 크다. 부산시와 경남도는 “서울특별시에 준하는 ‘경제 수도’가 되는 게 목표”라고 했다.&lt;br&gt;&lt;br&gt;지역 여론은 넘어야 할 산이다. 작년 6월 부산시와 경남도가 주민 2000명을 대상으로 실시한 여론조사 결과에 따르면, 행정 통합에 찬성한다는 응답자(35.6%)보다 반대한다는 응답자(45.6%)가 더 많았다.&lt;br&gt;&lt;br&gt;대구시와 경북도는 앞서 지난달 21일 정부와 공동합의문을 발표했다. 2026년 통합이 목표다. 부산·경남도 내년 초에 정부와 ‘범정부 통합 추진단’을 구성한다는 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>野, 검찰 특활비·특경비 전액 삭감... 딥페이크 수사 필수비도 0원  </title>
+      <link>https://www.chosun.com/national/court_law/2024/11/08/KB36E5BYMZBYPFV3BRKD53SRJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/08/KB36E5BYMZBYPFV3BRKD53SRJQ/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Nov 2024 11:16:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QAH5QLFP6RDO5KH4ND2TNRRL64.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;8일 국회에서 열린 법제사법위원회 전체회의에서 민주당 소속 정청래 위원장이 검찰 특수활동비(특활비)와 특정업무경비(특경비)를 전액 삭감하는 내용의 예산안을 야당 단독으로 의결하고 있다. 국민의힘 의원들은 반발해 표결 직전 회의장에서 퇴장했다. /이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국회 법제사법위원회가 8일 더불어민주당 단독으로 검찰의 내년도 특수활동비·특정업무경비 예산을 모두 삭감하기로 의결하자, 대검찰청이 “범죄로부터 국민을 보호하는 검찰의 기능을 마비시킬 것”이라며 반발했다.&lt;br&gt;&lt;br&gt;특정업무경비(특경비)는 최근 사회적으로 문제가 되는 ‘딥페이크’, ‘N번방’ 등 디지털 성범죄와 마약 범죄 등 각종 ‘민생 범죄’를 수사하는 데 필수적인 비용이라는 게 검찰 입장이다. 특경비는 기밀유지가 요구되는 수사 등에 쓰이는 특수활동비(특활비)와는 다르게 검사와 검찰수사관에게 지급되는 실비 격으로, 월 30만 원 한도 내에서 검사와 검찰수사관 개인에게 지급된다. 그러나 민주당은 이날 ‘검찰이 지출 내역을 증빙할 자료를 내지 않았다’는 이유로 내년도 검찰의 특활비 80억원과 특경비 507억원을 전액 삭감하기로 의결했다.&lt;br&gt;&lt;br&gt;대검은 입장문을 내고 “특경비는 검찰뿐만 아니라 경찰청, 고위공직자범죄수사처, 국회, 대법원 등 다른 많은 부처에도 지급되고 있는데 유독 검찰의 특경비만 없앤다는 것은 전례가 없고 이해하기 어려운 일”이라며 “범죄로부터 국민을 보호하는 검찰의 기능을 마비시키는 결과가 될 것임에 깊은 우려를 표한다”고 했다.&lt;br&gt;&lt;br&gt;대검은 “특경비는 검사와 6∼9급 수사관을 포함한 전국의 검찰 구성원에게 지급되는 비용”이라며 “디지털 성범죄, 마약 범죄, 산업 재해, 각종 형사 범죄 등 민생 침해 범죄 수사에서부터 벌금 미납자 검거, 지명 수배자 검거 등 형 집행 업무에 이르기까지 검찰의 업무 전반에 사용되는 필수적인 비용”이라고 했다.&lt;br&gt;&lt;br&gt;또 “특히 내년도 정부 예산안에는 민생침해범죄 증가, 중대재해처벌법 50인 이하 사업장 적용 확대, 가상자산이용자보호법 시행, 딥페이크·N번방 등 디지털 성범죄 급증에 따른 수사 소요에 대응하기 위한 특경비가 포함돼 있었다”고 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇검 내부 “빈대 잡으려 초가삼간 다 태워” “보복성 삭감”&lt;/b&gt;&lt;br&gt;&lt;br&gt;검찰 내부에서는 “보복성 삭감” “빈대 잡겠다고 초가삼간 다 태우는 격”이란 반발이 나왔다. 재경 지검 한 검사는 “앞으로 개인 주머니 털어 민생 범죄 수사하라고 한다면, 검찰 수사 자체가 약화되고, 그 피해는 고스란히 국민에게 돌아가지 않겠느냐”라고 했다. 또 다른 검사는 “일각에서 특활비 등을 쌈짓돈처럼 쓴다는 비판이 있다면, 특활비·특경비 제도 자체를 점검하고 보완하면 될 일이지 특정 기관만 콕 집어 전액 삭감하는 걸 납득할 수 있겠느냐”라며 “빈대 잡겠다고 초가삼간 다 태우는 격”이라고 했다.&lt;br&gt;&lt;br&gt;검찰 내부에서는 “검찰이 밉다고, 민생범죄 수사 실비까지 전액 삭감하는 민주당 행태를 납득하기 어렵다”, “보복성 삭감이라고 밖에 보이지 않는다”는 반발도 나왔다.&lt;br&gt;&lt;br&gt;앞서 임세진 법무부 검찰과장은 전날 법사위 예산소위에서 특활비·특경비 전액 삭감안이 통과되자 책임을 지겠다는 취지로 사표를 제출했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>추위 풀리는 주말... 전국 빨갛게 물든다</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/11/08/V3MTQ7WI6FE5TAKFMIS6FO25TI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/11/08/V3MTQ7WI6FE5TAKFMIS6FO25TI/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Nov 2024 12:38:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3XZOQBZF2VMWPFT7P23VGIQKRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 낮 기온이 17까지 오르며 포근한 늦가을 날씨를 보인 8일 서울 거리에서 반팔 티를 입은 시민이 햇볕에 얼굴을 찡그린 채 걸어가고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11월에도 초록잎이 무성했던 남부 지방이 이번 주말을 지나며 단풍이 절정에 이를 것으로 예상된다. 요 며칠 한반도에 불어온 북쪽 찬 바람 덕분이다. 초겨울 수준으로 뚝 떨어졌던 기온은 이번 주말을 지나며 평년 수준을 차츰 회복할 전망이다.&lt;br&gt;&lt;br&gt;8일 기상청에 따르면, 동해상에서 동쪽으로 이동하는 고기압의 영향으로 주말 동안 전국이 대체로 맑겠다. 찬 북풍(北風)의 남하가 멈추면서 기온도 평년 수준을 회복할 것으로 보인다. 9일 아침 최저기온은 3~14도, 낮 최고기온은 16~21도로 예보됐다. 다만 9일까진 경기 북부와 강원도에 서리가 내리고 얼음이 어는 곳이 있겠다. 10일에는 최저 5~15도, 최고 16~21도로 기온이 소폭 오르겠다.&lt;br&gt;&lt;br&gt;이번 주 들어 차가운 북쪽 바람이 내려오는 바람길이 열리면서 패딩을 꺼내 입어야 할 정도로 기온이 크게 떨어졌다. 초겨울 수준의 북쪽 한기가 기온을 뚝 떨어뜨리면서 늦더위 여파로 절정이 늦어졌던 남부지방 단풍도 이번 주 들어 빠르게 물들고 있다.&lt;br&gt;&lt;br&gt;대표적 단풍 명소인 전북 내장산은 10월 말에도 산림의 20% 정도만 단풍이었지만, 지난 5일부터 최저기온이 5도 내외로 하강하며 단풍 드는 속도가 빨라지고 있다. 정읍은 5일 최저 5.6도를 기록한 데 이어 6일 2.9도, 7일 0.5도로 한겨울에 가까운 추위를 보였다. 단풍은 섭씨 5도 안팎으로 기온이 떨어질 때 물드는 속도가 빨라진다.&lt;br&gt;&lt;br&gt;8일 기준 중부지방의 주요 산림은 모두 단풍이 절정에 이르렀다. 강원 설악산이 지난달 29일 절정이 됐고, 이달 들어 수도권 북한산(4일), 충청권 계룡산(4일)·속리산(5일) 등이 차례로 절정을 맞았다. 하지만 따뜻한 남풍(南風)이 불어든 호남권 내장산·월출산, 영남권 팔공산, 제주 한라산 등은 단풍 시작이 늦어졌다.&lt;br&gt;&lt;br&gt;다음 주는 한반도가 계속 고기압 영향권에 들면서 하늘이 대체로 맑겠고, 기온도 평년과 비슷하거나 조금 높겠다. 공기가 건조해 해가 지면 기온이 크게 떨어지는 날씨가 당분간 이어질 전망이다.&lt;br&gt;&lt;br&gt;전국적으로 낮 기온이 20도 내외로 오르겠고, 낮과 밤의 기온차는 내륙을 중심으로 10~15도로 크게 벌어지겠다. 11~13일에는 최저 6~14도, 최고 17~22도의 기온 분포를 보이겠고, 14~17일에는 최저·최고 기온이 각각 6~16도, 12~21도로 예보됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EBCDJNXCMNFFZDJO6Z5YG3NUSU.jpg?width=5562&amp;height=3286&amp;auth=47666fbb9af931635286d2f0764cc8301cbc5cfbca3db2046fbfdd9cc8b21e47&amp;smart=true" type="image/jpeg" height="3286" width="5562">
+        <media:description type="plain">유래없는 더위로 단풍도 늦어지면서 남녘에는 이제야 물이 들기 시작했다. 겨울이 시작된다는 입동인 7일 전남대학교 캠퍼스가 가을옷으로 갈아입었다./2024.11.7. 김영근 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">김영근 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>이충상 인권위 상임위원, 돌연 자진 사퇴</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/08/6HUUVQ3K25HBJGPUSLEITXTWXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/08/6HUUVQ3K25HBJGPUSLEITXTWXA/</guid>
+      <dc:creator>김보경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Nov 2024 12:37:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QKAU5RPBY5LJ3JXTA3L7ZH2OQI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8일 이충상 국가권익위 상임위원이 서울 여의도 국회에서 열린 운영위원회의 국가인권위원회에 대한 국정감사에서 의원들의 질의에 답변하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회(인권위) 상임위원인 이충상 인권위원이 돌연 사의를 표명했다.&lt;br&gt;&lt;br&gt;인권위는 “이충상 상임 인권위원이 최근 사직서를 제출했다“고 밝혔다. 인권위 관계자에 따르면 이충상 상임위원의 임명권자는 대통령으로, 이에 따른 사직서 처리 절차는 상당 시간 걸릴 것이라고 전했다. 인권위에 따르면 이 위원 임기는 내년 10월까지다.&lt;br&gt;&lt;br&gt;이 위원은 판사 출신으로 변호사와 경북대 법전원 교수를 지낸 뒤 지난 2022년 인권위 상임위원으로 임명된 뒤, 지난 2년간 인권위 상임위원으로 활동했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] ‘검사 때 사건 수임 논란’ 이종근, 검찰 수사 받는다</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/08/LVWFGS6BFBH4VP3RCMYJBKFK7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/08/LVWFGS6BFBH4VP3RCMYJBKFK7M/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Nov 2024 12:00:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KEONCXEEB5GNVH3XCRAHVCQATI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종근 변호사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 정부 검사장 출신인 이종근 변호사가 검사 시절 관여했던 ‘코인 사기 사건’의 관계자를 변호한 경위 등에 관해 검찰 수사를 받게 됐다. 이 변호사는 조국혁신당 박은정 의원의 남편으로, 검찰 퇴직 후 전관(前官) 변호사로서 사건을 과도하게 수임하고 막대한 수임료를 받은 것이 드러나 논란이 됐다.&lt;br&gt;&lt;br&gt;8일 본지 취재를 종합하면, 법조윤리협의회는 이날 이 변호사를 변호사법 위반 등 혐의로 수사해달라고 서울중앙지검에 의뢰한 것으로 전해졌다. 법조윤리협은 작년 하반기 과다한 사건 수임으로 논란이 된 변호사들에 대해 점검한 결과, 이 변호사를 비롯한 4명의 변호사에 대한 수사 의뢰를 의결했다. 이 변호사는 문재인 정부에서 대검찰청 형사부장과 서울서부지검장 등을 지내고 작년 3월 변호사 개업을 했는데, 작년 하반기에만 130여 건을 수임한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;법조윤리협은 이 변호사가 2021년 대검 형사부장 때 보고받고 지시했던 사건 관계자 중 한 명을 퇴직 후 변호한 과정이 석연치 않다고 판단한 것으로 전해졌다. 이 사건은 투자자 5만여 명이 2조8000억원의 피해를 본 ‘브이글로벌 코인 사기 사건’이다. 이 변호사는 형사부를 통해 사건을 담당하던 수원지검에 ‘경찰이 압수 수색 영장을 신청하면 적극 청구하라’는 등의 지시를 내린 것으로 전해졌다.&lt;br&gt;&lt;br&gt;당시 주범은 기소돼 징역 25년이 확정됐고, 브이글로벌 관계사 대표 곽모씨가 작년 7월 뒤늦게 기소됐다. 곽씨는 브이글로벌의 범죄 수익 63억원을 빼돌린 혐의(횡령) 등을 받았다. 그런데 이 변호사가 퇴직 후 곽씨 사건을 변호한 것이다.&lt;br&gt;&lt;br&gt;변호사법은 공무원으로서 직무상 취급한 사건을 변호사가 돼 수임하면 안 된다고 규정하고 있다. 이 변호사는 사건 수임 논란이 일자 “내가 수임한 곽씨 사건은 브이글로벌 사건과 수사 대상과 범죄 사실이 다르다”며 “동일한 사건이 아니라 수임에 법적·윤리적 문제가 없다”고 해명했다. 그러나 법조윤리협은 이 변호사의 수임 과정에 위법이 있는지 검찰 수사로 밝혀낼 필요가 있다고 판단한 것으로 보인다.&lt;br&gt;&lt;br&gt;이 변호사는 또 1조1900억원대 다단계 사기로 수사 받던 휴스템코리아 대표 등에게 수임료 22억원을 받고 변호를 맡았는데, 이 부분도 수사 의뢰 대상에 포함된 것으로 전해졌다. 이 변호사는 개업을 하고 ‘대검 형사부장’ 경력과 다단계 사기 사건 전문 변호사라는 점을 강조해서 홍보했다. 법조계에서는 “단순히 ‘전관예우’를 내세우는 것으로는 받기 불가능한 거액의 수임료” “수임 과정에서 부적절한 부분이 있을 수도 있다”는 이야기가 돌았다.&lt;br&gt;&lt;br&gt;이에 대해 이 변호사는 “위법하게 사건을 수임하지 않았다”고 설명해왔다. 아내인 박은정 의원은 “남편은 (1년간) 약 160건을 수임했는데, 전관예우가 있었다면 160억원은 벌어야 했다”고 말하기도 했다.&lt;br&gt;&lt;br&gt;법조윤리협은 법조윤리와 관련된 법령을 위반한 변호사에 대해 조사하고 감시하는 기구다. 사건 수임 등에 위법 소지가 있다고 판단되면 대한변호사협회에 징계 개시를 신청하거나 관할 수사기관의 장에게 수사 의뢰를 할 수 있다. 이날 법조윤리협은 작년 하반기 변호사들의 수임 과정 및 자료 등을 점검한 결과, 총 99건의 위법·부당 사례를 적발해 수사 의뢰(4건), 징계 개시 신청(27건), 주의 촉구(68건) 등 조치를 취했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘3500억대 다단계 사기’ 마이더스 前 대표 서모씨, 징역 16년</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/08/G4DSBX77RZDX3OB53JKJEIQM7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/08/G4DSBX77RZDX3OB53JKJEIQM7M/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Nov 2024 12:07:55 +0000</pubDate>
+      <content:encoded>태양광 사업에 투자하면 ‘매달 2%’ 수익률을 보장한다며 다단계 방식으로 5000여 명에게 약 3500억원을 가로챈 다단계 금융 사기 일당이 1심에서 줄줄이 실형을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NZNZRZIOFZE47JEH7UJYA5XLKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법, 서울고법. /박강현 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 서울중앙지법 형사27부(재판장 우인성)는 특정경제범죄 가중처벌 등에 관한 법률 위반(사기) 등 혐의로 기소된 마이더스파트너스의 전 대표 서모(45)씨에게 징역 16년을 선고하고 약 984억원 추징을 명령했다. 서씨와 함께 업체를 창립한 재무이사 황모씨에겐 징역 7년이 선고됐고, 나머지 지역법인 대표 등 4명에겐 징역 1~5년이 선고됐다.&lt;br&gt;&lt;br&gt;재판부는 서씨에 대해 “전국적인 조직체계를 구축·활용하고 높은 이자율과 수수료 등으로 피해자들을 현혹시켜 ‘돌려막기’ 수법으로 불특정 다수를 기망했다”면서 “고가의 외제차와 사치품 등을 구입하고 범죄수익을 은닉한 정황도 존재한다”고 질타했다. 그러면서 “건강 악화를 호소하면서도 레이싱 대회에 거듭 참가하는 등 반성하는 모습도 없다”고 지적했다. 황씨에 대해선 “재무 업무를 담당해 돌려막기 범행을 충분히 알 수 있었음에도 자신의 이익 추구를 위해 계속 범행에 가담했다”고 일갈했다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면 이들은 2018년 9월~2021년 6월 마이더스파트너스 12개 지역 법인을 거점 삼아 후순위로 돈을 입금한 사람들의 자금으로 선순위 입금자들의 원리금을 지급하는 이른바 ‘돌려막기’식으로 5288명으로부터 투자금 약 3528억원을 편취한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;서씨는 전국 각지에서 매월 수차례 투자 설명회를 열며 자신을 ‘채권에 투자해 자산을 얻은 성공한 사업가’라고 소개한 뒤 “태양광 기업 등에 투자하면 원금이 보장되고 매월 2%의 이자가 지급된다”며 투자자를 끌어모았다. 매출 실적도 사실상 없는 회사를 유망한 태양광 설비 업체인 것처럼 속였다.&lt;br&gt;&lt;br&gt;특히 서씨는 서울 송파구에 있는 아파트에 살면서 매달 월세와 관리비 등 주거 비용으로만 수천만원을 썼다. 또 롤스로이스나 벤틀리 등 한 달 리스비만 300만~600만원인 고급 수입차 10여 대를 몰고 다녔다. 골프와 레이싱을 취미로 즐긴 서씨는 2020년엔 드라이버 6명 규모의 레이싱 팀을 창단해 대표이자 레이서로 활동하기도 했다.&lt;br&gt;&lt;br&gt;재판부는 이들 혐의 대부분을 유죄로 판단했다. 다만 검찰이 함께 적용한 방문판매법 위반 혐의에 대해선 “법령상 다단계 판매조직은 판매원 가입이 3단계 이상 단계적으로 이뤄져야 하는데, 마이더스파트너스는 2단계 구조에 불과하다”는 이유로 무죄를 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공사 현장 신호수 들이받아 숨지게 한 20대 운전자, 경찰 조사</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/11/08/LODCM4G3XNED5MA7ZMQAP3RRDQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/11/08/LODCM4G3XNED5MA7ZMQAP3RRDQ/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Nov 2024 11:38:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공사로 인해 도로를 통제하던 신호수를 들이받아 숨지게 한 20대가 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 안성경찰서는 8일 교통사고처리특례법 위반(치사) 등 혐의로 A씨를 불구속 입건했다. &lt;br&gt;&lt;br&gt;A씨는 이날 오후 1시47분쯤 경기도 안성시 대덕면 대덕 터널 전방 약 300ｍ 지점 편도 2차선 도로의 1차로에서 1t 트럭을 운전하던 중 60대 신호수 B씨를 들이받아 숨지게 한 혐의를 받는다.&amp;nbsp; &lt;br&gt;&lt;br&gt;사고 당시 B씨는 대덕터널 보수공사 현장에서 도로를 통제하던 중이었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고3 수험생 학부모들, 직접 수능 문제 푼 후 보인 반응은</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/08/KK2O3AFUIZHSXPYTDINH2D6U5I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/08/KK2O3AFUIZHSXPYTDINH2D6U5I/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Nov 2024 10:27:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CIQ6DOMSOFGSNL52YNQKFBMJ3A.png"&gt;&lt;figcaption&gt;&lt;small&gt;천창수 울산교육감(맨앞)과 수험생 자녀를 둔 학부모 3명이 수능 기출문제를 풀고 있다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대학수학능력시험을 앞둔 수험생 학부모들이 직접 수능 기출 문제를 풀어보며 자녀의 고충을 체험하는 영상이 공개됐다.&lt;br&gt;&lt;br&gt;지난 6일 울산광역시교육청 공식 유튜브 채널에는 수험생을 응원하는 영상이 올라왔다. 이 영상에는 천창수 울산교육감과 고등학교 3학년 수험생 자녀를 둔 학부모 3명이 출연했다. 이들은 제한된 시간 내에 작년 국어 수능 기출문제를 풀었다.&lt;br&gt;&lt;br&gt;기출문제를 푸는 동안 출연자들은 한 손으로는 머리를 붙들고 지문을 뚫어져라 쳐다보거나, 펜으로 시험지에 밑줄을 긋는 등 집중력을 발휘했다. 한 출연자는 시간이 몇 분 남았는지 물었고, 11분 남았다는 제작진의 대답에 당황해했다. 또 다른 출연자는 문제지가 세 장인 줄 모르고 시간 분배를 잘못해 허탈해하기도 했다.&lt;br&gt;&lt;br&gt;출연자들은 문제를 푼 후 “시간에 쫓기는 압박감이 크다” “문제가 너무 너무 어려웠다. 읽기가 힘들었다” “문제가 눈에 잘 안 들어오고 집중력도 떨어지더라. 아이들의 심정이 이해됐다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;이어 출연자들은 자녀와 수험생들에게 “딸이 시험 보고 들어오면 ‘멘탈이 나갔다’고 하는데 왜 그런 말을 하는지 이해가 됐다” “3년 동안 아이들을 위해 헌신적으로 노력해 주신 학부모님들과 선생님들께도 감사드린다” “남은 기간 마무리를 잘해서 마지막까지 힘내달라”며 응원의 말을 남겼다.&lt;br&gt;&lt;br&gt;마지막으로 천 교육감은 “힘들게 공부하느라 그동안 정말 고생 많았다. 포기하지 않고 달려온 수험생 여러분의 꿈이 꼭 이뤄질 수 있을 것이라 믿는다”며 “함께 해주신 부모님, 헌신으로 애써주신 선생님께도 감사의 말씀을 드린다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경기도, 경기국제공항 후보지 선정...화성·평택·이천 3곳으로 압축</title>
       <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2024/11/08/R7R2YOWGQRHDHBNE5OB7S5G5TQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2024/11/08/R7R2YOWGQRHDHBNE5OB7S5G5TQ/</guid>
@@ -814,60 +933,6 @@
       </media:content>
     </item>
     <item>
-      <title>탑·곽도원·배성우... 마약·음주 혐의 배우들 복귀에 와글와글</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/06/YX7FPTCA5NBAHGOQTPRFUIH32A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/06/YX7FPTCA5NBAHGOQTPRFUIH32A/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 06 Nov 2024 06:26:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/II6HE6644NEOXC6OG5L34VLKBQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;오징어게임 시즌2 예고편에 등장한 탑. /넷플릭스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전과 마약 등으로 사회적 물의를 일으킨 스타들이 최근 일제히 복귀에 나서면서, 온라인상에서 비판적인 반응이 잇따르고 있다.&lt;br&gt;&lt;br&gt;넷플릭스 시리즈 ‘오징어게임’ 시즌2에는 마약 혐의로 2017년 징역형의 집행유예를 선고받았던 전 빅뱅 멤버 탑(본명 최승현)이 등장한다. 지난 1일 공개된 예고편에서 탑은 움직이면 무차별 사살당하는 ‘무궁화꽃이 피었습니다’를 하는 장면에 등장, 한 여성 참가자에게 눈썹을 씰룩이며 “너한테 벌이 앉았어”라고 말했다. 탑은 은퇴한 아이돌 역할을 맡은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;탑은 2016년 10월 9일에서 14일 사이 서울 용산구 자택에서 대마초를 피우는 등 마약류관리에관한법률위반(대마) 혐의로 재판에 넘겨졌고, 이후 2017년 1심에서 징역 10월에 집행유예 2년을 선고받았다. 선고 공판 결과에 대해 검찰과 변호인 양 측이 항소하지 않으면서 형이 확정됐다. 집행유예는 전과가 남으며, 이 기록은 7년간 유지된다. 탑의 오징어게임 출연은 캐스팅 물망에 오른 작년 7월부터 논란이 됐지만, 일부 반발에도 그대로 촬영에 참여한 것으로 보인다.&lt;br&gt;&lt;br&gt;음주운전으로 재판에서 유죄를 인정받은 배우들도 스크린에 복귀했거나, 복귀할 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CXQAWY3HXPVHNNWMMZGPV3WIBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 곽도원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;곽도원은 오는 12월 극장 개봉하는 영화 ‘소방관’으로 돌아온다. 곽도원은 2022년 9월 제주시에서 음주운전을 한 혐의로 벌금 1000만원의 약식 명령을 받았다. 약식 명령은 공판 절차 없이 서면만으로 간단하게 진행되는 재판을 통해 나오는 결과지만, 벌금형도 기소 처분의 일종이기 때문에 전과 기록이 남는다.&lt;br&gt;&lt;br&gt;배성우는 지난 5월 17일 공개된 넷플릭스 시리즈 ‘더 에이트 쇼’에 출연했다. 배성우는 2020년 11월 서울시 강남구 신사동 한 거리에서 혈중알코올농도 0.08% 이상 면허 취소 수준으로 운전하다 단속됐고, 약식 기소된 배성우에게 재판부는 벌금 700만원을 명령했다. 배성우는 더 에이트 쇼 제작발표회에서 “개인적인 문제로 함께 작업한 분들께 폐를 끼치는 상황에 대해 조심스러웠다”며 “많은 사람의 땀과 노력으로 함께한 작품이라 제가 누가 될 수밖에 없었지만, 덜 되길 바라는 마음”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BZOZ6SR2GL6CLVJHWGWI4NRKXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 배성우가 10일 서울 중구 앰배서더 서울 풀만 호텔에서 열린 넷플릭스 시리즈 ‘더 에이트 쇼’ 제작발표회에서 인사를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이처럼 사회적 물의를 일으킨 스타들이 잇달아 활동을 재개하자 네티즌 사이에선 논란이 일었다. 많은 네티즌들은 “일반인들도 전과자 되면 밥벌이 힘들어지는데, 연예인이 벼슬도 아니고 스크린에 계속 얼굴 비추는 거 불편하다” “방송가에서 퇴출해야 같은 일 안 생긴다” “사회적 물의 일으킨 거 뻔히 알면서 캐스팅하는 제작사 측도 문제” “좀만 버티면 다 잊는다는 생각으로 밀고 가는 것 같다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;한 매체가 ‘곽도원·배성우·탑, 전과자들 몰려온다’라는 다소 직설적인 제목으로 복귀를 비판하는 연예 기사에는 “속 시원하다”는 등의 반응이 나왔다.&lt;br&gt;&lt;br&gt;하지만 “잘못 저질렀다고 낙인 찍혀 평생 숨어 살아야 하나” 등 자숙 기간을 거쳤다면 이해 가능하다는 의견도 있었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>'고소장 분실 후 위조' 前검사, 2심서 유죄로 뒤집혀</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/07/ELODY4QO3JHFZIGI3VS4SZZXGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/07/ELODY4QO3JHFZIGI3VS4SZZXGY/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Nov 2024 09:44:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KC55RQPMKCRX436OGWWBMTZNDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수사 중 접수된 고소장을 잃어버리자 이를 위조한 혐의로 기소된 전직 검사가 2심에서 유죄가 인정돼 선고 유예 판결을 받았다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사항소9부(재판장 이성복)는 7일 공문서위조 등 혐의로 재판에 넘겨진 윤모 전 부산지검 검사에게 무죄를 선고한 1심을 뒤집고 징역 6개월의 선고를 유예했다. 선고 유예는 유죄가 인정되지만 정상을 참작해 형을 선고하지 않고 이후 일정 기간 다른 범죄를 저지르지 않으면 처벌을 면하게 하는 것이다.&lt;br&gt;&lt;br&gt;윤 전 검사는 부산지검에서 근무 중이던 2015년 11월 민원인이 제출한 고소장을 잃어버리자 그해 12월 같은 민원인이 과거에 제출한 다른 고소장을 복사해 수사 기록에 끼워 넣은 혐의(사문서위조)로 고위공직자범죄수사처에서 기소됐다. 아울러 검찰 수사관 명의로 해당 사건에 대해 사실 관계가 맞지 않은 수사 보고서를 작성하고 편철한 혐의(공문서위조)도 받았다.&lt;br&gt;&lt;br&gt;1심은 윤 전 검사에게 무죄를 선고했다. 1심은 “공수처가 제출한 증거만으로는 문서 위조 의도가 있었다고 보기 어렵다”고 했다. 수사 보고서 위조에 대해서도 “검사가 수사 진행 상황 등을 기록에 남기고자 할 경우 수사관 명의의 보고서를 작성하는 관행이 있었다”고 했다.&lt;br&gt;&lt;br&gt;그러나 2심은 수사 보고서 위조 혐의에 대해서는 유죄로 판단했다. 2심 재판부는 “당시 효율적인 업무 수행을 위해 검찰 수사관이 문서 작성 권한을 검사에게 포괄적으로 위임하는 관행이 있던 점은 인정되지만, 검사의 권한을 초월해서 작성했다면 위조에 해당한다”고 밝혔다. 이어 “정상적인 절차를 거치지 않고 비정상적으로 수사보고서를 위조했고, 해당 수사관은 일관되게 본인 명의의 보고서가 작성된 사실을 몰랐다는 취지로 진술하고 있다”면서 “법을 수호해야 할 피고인이 고소장을 분실하고 은폐한 점은 결코 가볍지 않다”고 질책했다.&lt;br&gt;&lt;br&gt;다만 고소장 위조 혐의에 대해서는 “고소장을 기계적인 방법으로 복사해 아무런 변경을 가하지 않았다”며 무죄를 선고했다.&lt;br&gt;&lt;br&gt;공수처는 이날 “항소심 판결문을 검토한 후 상고 여부를 결정할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>위례∼과천 광역철도, 민자적격성조사 통과 </title>
-      <link>https://www.chosun.com/national/transport-environment/2024/11/07/F75IYP7V3BGHPKZY5OP2NMRQSA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/11/07/F75IYP7V3BGHPKZY5OP2NMRQSA/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description>국토교통부는 7일 경기 과천, 서울 송파구 법조타운, 위례 신도시를 잇는 위례과천 광역철도 사업이 한국개발연구원(KDI) 민자적격성 조사를 통과했다고 밝혔다.</description>
-      <pubDate>Thu, 07 Nov 2024 09:27:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FKQNZQMIXVGLZIL4NVIEIYXEGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 송파구와 경기도 성남시, 하남시의 3개 지자체에 걸쳐 조성된 위례신도시의 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국토교통부는 7일 경기 과천, 서울 송파구 법조타운, 위례 신도시를 잇는 위례과천 광역 철도 사업이 한국개발연구원(KDI) 민자 적격성 조사를 통과했다고 밝혔다. 위례과천선은 북쪽으로 서울 압구정까지 이어지는 노선으로 총 노선 길이는 28.25km다. 주민들의 관심 대상인 세부 노선은 추후 실시협약 체결 시 확정된다.&lt;br&gt;&lt;br&gt;위례과천선은 지난 2008년 위례신도시 택지개발사업 광역교통개선대책에 포함돼 있던 노선이었지만 사업성 부족으로 절차가 지지부진했다. 그러다 2021년 대우건설 컨소시엄에서 국토부에 민자 사업 제안서를 제출하며 절차가 재개됐다 . 정부는 제안서 검토와 지자체 협의 과정을 거쳐 2022년 9월 민자적격성 조사에 착수했다.&lt;br&gt;&lt;br&gt;조사 과정에서 원자재 가격이 급등하고 양재첨단물류단지가 개발되는 등 여건이 바뀌고 사업성이 낮다는 지적도 있었지만 보완을 거친 뒤 이번에 심사를 통과한 것이다. 민자 적격성 조사는 재정 사업의 예비타당성조사 통과와 같은 역할로, 사업이 가시화 되고 있다는 뜻이기도 하다.&lt;br&gt;&lt;br&gt;국토부는 내년에 위례과천선 전략환경영향평가를 마무리하고, 제3자 제안 공고를 통해 우선협상대상자를 선정하는 것을 목표로 하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이재명, 김용 변호인단 텔레그램방 참여... 직접 의견 내</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/07/OODWKBUR3NAXFPAGAAA5ZT67EM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/07/OODWKBUR3NAXFPAGAAA5ZT67EM/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Nov 2024 09:04:44 +0000</pubDate>
-      <content:encoded>이재명 더불어민주당 대표가 자신의 측근인 김용 전 민주연구원 부원장의 변호인들과 직접 소통하며 재판 진행 상황을 점검하거나 변론 방향에 관한 의견을 냈던 것으로 7일 전해졌다.&lt;br&gt;&lt;br&gt;서울중앙지검 반부패수사1부(부장 이준동)는 최근 이 대표 대선캠프 상황실장 출신인 박모씨와 서모씨의 위증교사 사건 재판부에 이 같은 정황이 담긴 증거자료를 제출했다. 박씨와 서씨는 김씨의 불법 정치자금 재판에서 거짓 알리바이를 만들기 위해 증인에게 위증을 부탁한 혐의로 기소돼 1심 재판을 받고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TLFU454N5JNARCST6DXN5FQQBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용 전 민주연구원 부원장이 지난 5월 8일 보석 석방돼 서울구치소를 나서며 취재진의 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 대표는 김씨의 1심 재판이 진행 중이던 2023년 4월 10일 김씨의 변호인단이 모인 텔레그램 방에 입장했다고 한다. 이 대표는 다음날 김씨 재판 증거 기록을 사진 찍어 보내면서 “유동규의 텔레그램, 페이스타임, 통화기록을 검찰이 확보. 돈을 주려면 (김씨와 유씨 간의) 통화기록이 당연히 있어야 하는데, 확인해 볼 수 있을까요?”라고 묻는다. 김씨 변호인이 “검찰이 일부러 두 사람 사이의 통화 기록을 제출하지 않고 있다”고 답하자 이 대표는 “확보했을만한 개연성만 소명돼도 좋겠다. 압수된 전화기 내역과 통신기록 조회 시점만 밝힐 수 있다면…”이라며 변론 전략도 제시한다. 이에 변호인은 “그 부분에 초점을 두고 검토해보겠다”고 한다.&lt;br&gt;&lt;br&gt;이 대표는 같은 달 14일에도 “(유씨가 타고 온) 차종과 거리상황은 확인됐나”라고 물었고, 변호인이 “법정에서 수차례 추궁했지만 차종은 기억나지 않는다고 증언했다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 민주당이 조직적으로 김씨 재판에 대응해온 것으로 의심한다. 또 사건의 직접 관계자가 아닌 이 대표가 김씨 재판의 증거기록을 확보·검토한 것도 부적절하다고 보고 있다고 한다.&lt;br&gt;&lt;br&gt;이 대표를 텔레그램방에 초대했던 A 변호사는 “이 대표가 변호사로서 대장동 의혹과 관련 있는 김씨 재판에 대해 개인적 의견을 개진한 것일 뿐”이라고 했다. A 변호사는 “단체방 개설 초기에는 이 대표가 직접 의견을 밝히기도 했지만, 이후엔 당무와 본인 재판 대응 등으로 바빠 단순히 주변 의견을 전달하는 수준에 그쳤다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[판읽기] 누가 더 위험할까. 세 金여사 ‘아내 리스크’ 비교</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/07/OPVNFBXGIFHWLEQS3WOIWG5IHE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/07/OPVNFBXGIFHWLEQS3WOIWG5IHE/</guid>
-      <dc:creator>양은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Nov 2024 09:02:03 +0000</pubDate>
-      <content:encoded>윤석열 대통령이 7일 대국민 담화와 기자회견에서 사과한 데 대해 “저와 제 아내의 처신이 올바르지 못해 사과드린 것”이라고 했다.&lt;br&gt;&lt;br&gt;아내 김건희 여사의 도이치모터스 주가조작 혐의, 디올백 수수에 대해 검찰에서 무혐의 처분을 했지만 사법리스크는 여전히 가라앉지 않고 있다. 명태균씨로부터 불거진 공천개입 의혹, 여론조사와 관련한 정치자금법 이슈 때문이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/37GGN5N2RJB5XLFKSCKSOY7D2M.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 유튜브 '판결문 읽어주는 기자'.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘아내 리스크’가 문제된 것은 윤 대통령 뿐만 아니다. 국회의원 아내 등에게 밥값을 결제한 혐의(공직선거법 위반)로 기소된 이재명 민주당 대표의 아내 김혜경씨는 14일 1심 선고를 앞두고 있다.&lt;br&gt;&lt;br&gt;김씨가 결제한 밥값은 10만 4000원이다. 하지만 법조계에서는 유죄 판결이 날 경우 ‘법인카드 유용’등으로 사법리스크가 번질 수 있다고 보고 있다. 이 밥값은 경기도 법인카드로 결제됐고 현재 검찰은 이 대표와 김씨의 ‘법카 유용’을 횡령 내지 배임 혐의 등으로 수사중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NFTMSOHWZZDXZE55576H4RWQVY.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 유튜브 '판결문 읽어주는 기자'.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김씨는 자신은 카드 결제를 몰랐다는 입장이고, 이미 밥값 결제 행위를 한 일로 유죄가 확정된 전 경기도 공무원 배모씨는 ‘내가 알아서 했다’고 주장하고 있다. 하지만 공직선거법 유죄가 인정되면 이 사건 뿐 아니라 다른 법인카드 사용에 있어서도 김씨 또한 알고 있었다고 인정될 가능성이 높아진다.&lt;br&gt;&lt;br&gt;문재인 전 대통령의 아내 김정숙씨 역시 최근 2018년 프랑스 순방 당시 빌려 입었다는 샤넬 자켓이 논란이 됐다. 검찰이 샤넬 본사로부터 제출받아 포렌식을 했고, 김씨가 샤넬 본사에 자켓을 돌려줬다는 사실은 확인했지만 반납 시점 등에 대한 수사는 계속될 예정이다.&lt;br&gt;&lt;br&gt;‘판읽기’는 김건희 여사를 비롯해 김혜경씨, 김정숙씨에게서 불거진 ‘아내 리스크’, 그리고 이에 대한 각각의 대처 방식을 집중 분석한다. ‘판읽기’는 유튜브에서 ‘판결문 읽어주는 기자’를 검색하면 볼 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>홍준표·나경원 “尹 담화 진솔… 이제 단합하자”</title>
-      <link>https://www.chosun.com/politics/assembly/2024/11/07/5ETREJPCLFCQHHYXB5FGGUHITI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2024/11/07/5ETREJPCLFCQHHYXB5FGGUHITI/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Nov 2024 09:10:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JT334L4HKFLXPFEBYYIVEJ7RQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 홍준표 대구시장이 지난달 28일 서울 여의도 국회의원회관에서 열린 국민의힘·대구광역시 예산정책협의회에서 발언하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 홍준표 대구시장은 7일 윤석열 대통령의 대국민 담화와 기자회견에 관해 “대통령이 진솔한 사과와 김 여사 대외 활동 중단, 국정 쇄신 약속을 했으니 이제 우리는 이를 지켜보고 단합해 나라를 혼란으로부터 안정시켜야 할 때”라고 했다.&lt;br&gt;&lt;br&gt;홍 시장은 이날 오후 페이스북에 올린 글에서 “트럼프의 재등장으로 세계가 긴장하고 있는 이때에 우리는 트럼프 2기의 움직임을 면밀히 주시하고 신속히 대책을 세워야 할 때”라며 이같이 말했다. 그러면서 “더 이상 국정을 혼란으로 몰고 가는 경박한 촐랑거림은 없어야 할 때”라고 했다.&lt;br&gt;&lt;br&gt;홍 시장은 이어 여당을 향해 “야당이 비아냥거리더라도 우리는 내부 단결부터 해야 한다. 내부 결속을 해치는 경박한 짓은 더 이상 국민과 당원들이 용납하지 않을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJLUUQEMWJO2NAYO5AD47IZJLM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 나경원 의원이 지난 6일 국회에서 한동훈 대표와 중진 5·6선 의원들의 회동에 참석하기 위해 당대표실로 향하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 나경원 의원도 이날 오후 페이스북에 글을 올려 “진솔한 담화와 회견이었다. 여러 차례의 겸허한 사과와 다양한 주제의 현안에 대한 답변도 있었다”고 했다.&lt;br&gt;&lt;br&gt;나 의원은 “여러 의견이 있겠지만, 지금은 소모적 정쟁보다는 민생과 국익에 집중해야 할 때”라며 “더 이상의 국정 발목 잡기를 멈추고, 미 대선 결과, 국제 정세 변화에 따른 경제안보 위기 대응에 매진해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김종국이 광고한 ‘익스트림 아르기닌’, 허위광고로 과징금 5640만원 철퇴</title>
       <link>https://www.chosun.com/national/national_general/2024/11/07/WXFKP6YHXJHCXHP3KOVDKJDSCM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/07/WXFKP6YHXJHCXHP3KOVDKJDSCM/</guid>
@@ -880,22 +945,6 @@
       </media:content>
     </item>
     <item>
-      <title>경찰, ‘미성년자 팬 폭행 방관’ 제시 불송치 </title>
-      <link>https://www.chosun.com/national/incident/2024/11/07/3W5BBP2JVJDCZEULRT3ZWWCINI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/07/3W5BBP2JVJDCZEULRT3ZWWCINI/</guid>
-      <dc:creator>안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Nov 2024 08:23:53 +0000</pubDate>
-      <content:encoded>지난 9월 29일 새벽 서울 강남구 압구정동의 한 거리에서 사진 촬영을 요청한 팬이 일행에게 폭행당한 사건에 연루된 한국계 미국인 가수 제시(36·한국명 호현주)가 경찰로부터 무혐의 처분을 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OV6QDUWULVNOHAKHJDCAIOOONQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일행의 팬 폭행 의혹과 관련해 가수 제시가 16일 밤 서울 강남경찰서에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남경찰서는 지난 9월 29일 가수 제시의 팬을 자처하는 미성년자를 폭행한 일행을 은닉하고 사건 현장을 도주한 혐의로 고발된 제시를 불송치했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;제시는 지난 9월 29일 새벽 자신의 일행과 함께 압구정동의 한 거리에 있다가 “사진을 찍어달라”는 미성년자 팬을 다른 일행이 폭행하는 것을 지켜봤다. 당시 제시는 “시간이 너무 늦었다”며 사진 촬영을 거절하고 팬도 이를 수긍했으나, 갑자기 남성 2명이 달려들어 팬에게 욕을 하며 폭행한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;제시와 일행 중 한 명인 다른 여성은 처음에 이를 말리는 시늉을 하다 이내 포기하고 자리를 떴다. 이들은 인근의 다른 술집을 간 것으로 알려졌다. 제시와 함께 떠난 이 여성도 경찰에 도주죄로 고발됐지만 무혐의 처분을 받았다. 이에 일각에선 “범행 사실을 분명 지켜본 다음 자리를 떠난 것이 CC(폐쇄회로)TV에 촬영됐는데 이것이 왜 도주가 아닌지 의문스럽다”는 반응도 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/65IXW2HONNAO5E6VDHMI272LQQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;가수 제시와 폭행 피의자가 함께 사진을 촬영한 모습. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가해자 중 한 명은 중국인으로 제시는 “이날 처음 본 사이”라고 주장했다. 경찰은 이 남성에 대해서 체포영장을 발부하고, 인터폴에도 수배를 요청한 상태라고 밝혔다. 이 남성 뿐 아니라 폭행에 가담한 또 다른 일행 B씨도 혐의가 인정돼 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;제시는 지난달 16일 경찰에 조사를 받기 위해 출석한 자리에서도 “가해자 두 명은 사건 당일 처음 본 사이”라고 주장했지만, 이후 제시가 이 남성 어깨 위에 손을 올리는 등 스킨십을 나누는 모습이 담긴 사진들이 공개되기도 했다. 제시가 이전에 발표한 앨범에서도 같이 작업을 한 것으로 알려졌다. 그러나 제시는 경찰서에 출석하며 “처음 본 사이가 맞는다”면서 “범인이 빨리 잡히길 바란다”고 했다.&lt;br&gt;&lt;br&gt;한편, 지난 2013년에도 제시에게 비슷한 피해를 입었다는 증언이 나오기도 했다. 당시 피해자인 재미교포 A씨는 “클럽 화장실에서 마주쳐서 먼저 들어가라고 양보했는데 제시와 친구들이 이유 없이 시비를 걸고 때렸다”고 주장했다. 제시는 “친구와의 싸움을 말렸다”고 반박했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/OV6QDUWULVNOHAKHJDCAIOOONQ.jpg?width=1171&amp;height=858&amp;auth=761ad8a67fa5708edc8b49f104daa092fa1f739215c6389557b3bd9c38b70fcf&amp;smart=true" type="image/jpeg" height="858" width="1171">
-        <media:description type="plain">&lt;YONHAP PHOTO-5439&gt; '일행이 팬 폭행 논란' 제시 경찰 출석
-    (서울=연합뉴스) 이미령 기자 = 일행의 팬 폭행 의혹과 관련해 가수 제시가 16일 밤 서울 강남경찰서에 출석하고 있다. 2024.10.16
-    already@yna.co.kr/2024-10-16 23:07:10/
-&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">이지은</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>트럼프 장남, 한국 교회서 ‘트럼프 암살 시도’ 언급한 영상 재조명</title>
       <link>https://www.chosun.com/national/national_general/2024/11/07/2RHFJEK2OBE6FP7DMSN7AK3KQQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/07/2RHFJEK2OBE6FP7DMSN7AK3KQQ/</guid>
@@ -903,15 +952,6 @@
       <description/>
       <pubDate>Thu, 07 Nov 2024 05:49:54 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5QQWYZYNKVDJJLGDRQKAQCOVRU.png"&gt;&lt;figcaption&gt;&lt;small&gt;도널드 트럼프 미국 대통령 당선인의 장남 도널드 트럼프 주니어가 지난 8월 서울의 한 교회를 찾아 이야기하고 있다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도널드 트럼프 주니어(46) 트럼프그룹 수석부사장이 아버지의 재집권 성공에 큰 역할을 한 ‘킹메이커’로 부상한 가운데, 과거 한국을 찾아 암살시도 사건을 언급한 영상이 재조명되고 있다.&lt;br&gt;&lt;br&gt;이 영상은 트럼프 주니어가 지난 8월 25일 서울 영등포구 여의도순복음교회 예배에 참석해 간증하던 모습을 담고 있다.&lt;br&gt;&lt;br&gt;이날 그는 아버지가 지난 7월 펜실베이니아주 소도시 버틀러에서 유세 도중 귀에 총을 맞은 사건에 대해 언급했다. 당시 트럼프는 가까스로 목숨을 건졌지만 유세에 참석한 지지자 한 명이 목숨을 잃고 두 명은 중상을 입었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBHHDX7GMBAZBA26QFJ3GMDT4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;도널드 트럼프가 총격 사고 이후 무대에서 퇴장하면서 청중을 향해 주먹을 쥐어 보이고 있다. /AP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;트럼프 주니어는 “몇 주 전에 저와 우리 가족은 믿음의 시험을 겪는 중요한 암살 사건을 겪었다”며 “지난 7월 13일 아버지에 대한 암살 시도는 굉장히 가까운 거리에서 이루어졌다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “아버지가 평소와는 다르게 고개를 돌림과 동시에 암살 위기의 순간에서 벗어날 수 있었다. 이건 말로는 설명할 수 없던 부분이었고, 그것을 전 세계가 보았다”고 했다. 이어 “그때 우리 가족의 믿음이 자라났을 뿐만 아니라 이 모습을 지켜본 수많은 전 세계 사람들의 믿음이 자라났다”고 했다.&lt;br&gt;&lt;br&gt;트럼프 주니어는 트럼프 당선인의 두 번째 임기 핵심 실세로 평가받는 인물이다. 이번 대선에서 아버지의 전적인 신임을 받은 그는 가족 중 누구보다 큰 역할을 했기 때문이다.&lt;br&gt;&lt;br&gt;트럼프 주니어는 지난 7월 아버지를 공화당 대통령 후보로 공식 선출하는 전당대회에서 연단에 올라 ‘트럼프 대통령 만들기’에 앞장섰다.&lt;br&gt;&lt;br&gt;그는 아버지가 총격을 당한 직후 얼굴에 피가 묻은 채 일어나 주먹을 높이 치켜든 사진을 대형 화면에 띄우고서 아버지가 지지자들에게 했던 “파이트”(싸우자)를 외쳐 청중의 뜨거운 반응을 끌어냈다.&lt;br&gt;&lt;br&gt;이 외에도 부통령 후보 결정이나 트럼프 2기 인선에도 그의 입김이 작용하는 것으로 전해졌다. 월스트리트저널(WSJ)은 지난달 보도에서 트럼프 주니어를 아버지인 트럼프 대통령 당선인을 대신할 ‘1위 대리인’이라고 전하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>박나래 성형 집도한 의사 “앞트임 너무 많이 했더라”...폭로</title>
-      <link>https://www.chosun.com/national/people/2024/11/07/EIU3QTKUEJDRFIU363PW4ATFAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/07/EIU3QTKUEJDRFIU363PW4ATFAI/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Nov 2024 07:53:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJO3V2KVPJFLRN6T7VOOVLTNAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 박나래. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 조민희의 남편이자 성형외과 전문의 권장덕이 방송인 박나래의 앞트임 재건술을 직접 집도했다고 밝혔다.&lt;br&gt;&lt;br&gt;지난 4일 홍서범·조갑경이 운영하는 유튜브 채널에는 ‘절대 못 헤어져! 이혼 못 해! 권장덕 &amp;amp; 조민희 부부의 못다 한 토크!’라는 제목의 영상이 올라왔다.&lt;br&gt;&lt;br&gt;영상에서 권장덕은 박나래에 대해 “성형을 (과거에) 너무 과하게 했다”고 언급했다. 그는 “(박나래가) 눈 앞트임을 너무 많이 해서 호감도가 떨어져 보였다. 아무리 개그우먼이라고 해도 앞트임을 조금 보완하면 좋겠다고 이야기했다”며 앞트임 재건술 당시를 떠올렸다.&lt;br&gt;&lt;br&gt;권장덕은 연예인들의 성형과 관련해 “배우들은 까다롭고 가수들은 너무 예민하다”며 “비슷한 면이 있긴 한데 가수들이 좀 더 한 느낌”이라고 했다. 또 “가수들은 연기자와 다르다. 가수들은 화장을 진하게 하니 과하게 해줘야 하고 연기자는 자연스럽게 해야 한다”고 부연했다.&lt;br&gt;&lt;br&gt;자연스러운 성형 팁도 알려줬다. 그는 “모자란 듯해야 한다”며 “너무 예쁜 언니들이 있는데 ‘어떡해’ 이럴 때가 있다. 그건 의사를 잘 못 만난 것”이라고 했다. 그러면서 “병원보다는 좋은 의사를 찾아야 한다”며 “의사에 대해 충분히 아는 게 좋다. 성형하는데 의사를 만나지 않고 실장하고 이야기하는 것은 말이 안 된다”고 조언했다.&lt;br&gt;&lt;br&gt;한편, 박나래는 과거 여러 프로그램에 출연해 성형 사실을 감추지 않고 밝혀왔다. 4500만 원을 들여 쌍꺼풀과 턱 수술을 받았다는 박나래는 “여자답게 살고 싶었다”면서 성형을 하게 된 이유에 대해서도 당당하게 알렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경찰인가, 도둑인가... 압수 현금 관리 엉망진창이었다</title>
@@ -936,18 +976,6 @@
       </media:content>
     </item>
     <item>
-      <title>대산석유화학공단 잇는 고속도로, 2030년 개통한다</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/11/07/CBPPLNVEYFCQVBMLJS7IPFCZFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/11/07/CBPPLNVEYFCQVBMLJS7IPFCZFM/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Nov 2024 05:52:56 +0000</pubDate>
-      <content:encoded>국내 3대 석유화학공단 중 하나인 충남 서산 대산공단 앞까지 고속도로가 뚫린다.&lt;br&gt;&lt;br&gt;충남도는 7일 대호방조제 인근에서 대산~당진 고속도로 기공식을 열었다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IJ5JVYHM6ZHB3MLJC6RB4FERA4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대산~당진고속도로는 서산시 대산읍 화곡리에서 당진시 사기소동 서해안고속도로 당진분기점까지 길이 25.36㎞, 왕복 4차로 규모로 건설된다. 당진분기점은 서해안고속도로와 당진~영덕 고속도로가 만나는 지점이다. 2030년 완공을 목표로 총 9131억원의 예산이 들어갈 예정이다.&lt;br&gt;&lt;br&gt;이 고속도로는 대산공단으로부터 2㎞ 떨어진 지점에 건설될 예정이다. 대산공단은 HD현대오일뱅크, 한화토탈에너지스, LG화학, 롯데케미칼, KCC 등 24개 기업이 입주해 있으며, 여수·울산과 함께 국내 3대 석유화학공단으로 불린다.&lt;br&gt;&lt;br&gt;고속도로가 건설되면 대상공단에서 1~2분이면 고속도로 진입이 가능해진다. 기존 당진분기점까지 35분 소요되는 이동시간은 20분가량 단축된다.&lt;br&gt;&lt;br&gt;이동시간 단축에 따라 차량 운행비, 교통사고 감소, 환경피해 비용 등 총 688억원 정도의 사회적 편익 효과가 기대된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A7ADUV3WVJN4ZDUQ2CP7AHA7BE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 충남 서산시 대산읍 화곡리 대호방조제 인근에서 대산~당진고속도로 기공식이 열렸다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고속도로 건설에 따른 부가가치 유발액은 4024억원, 고용 창출은 건설 기간 동안 1만 412명, 운영 기간 71명 등으로 분석됐다.&lt;br&gt;&lt;br&gt;김태흠 충남지사는 “대산~당진고속도로는 충남 경제의 새로운 대동맥으로 지역경제와 관광 활성화의 핵심 인프라가 될 것”이라며 “조속히 준공될 수 있도록 총력 지원하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/7QBBPPKWNZD7PEE4V2IPXQWLMU.jpg?width=652&amp;height=707&amp;auth=73da079d26d01f4e96e269f17aa927b6c5812afc8eeb2ec0814f7d0d05f266cf&amp;smart=true" type="image/jpeg" height="707" width="652">
-        <media:description type="plain">대산~당진고속도로 노선도 /충남도</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>﻿인천공항서 쓰러진 전 노벨상 심사위원장, 국내 의료진이 살렸다</title>
       <link>https://www.chosun.com/national/national_general/2024/11/07/Y2YMALM66RGLJPWKRUKFYIF3AQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/07/Y2YMALM66RGLJPWKRUKFYIF3AQ/</guid>
@@ -955,33 +983,6 @@
       <description/>
       <pubDate>Thu, 07 Nov 2024 06:48:33 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HJFJPWJ47FGOPA2ARKD6DXUCNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;맷츠 존슨 박사(가운데)가 인하대병원에서 건강을 되찾고 의료진과 사진을 찍고 있다. /인하대병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노벨물리학상 심사위원장을 지낸 세계적 물리학 석학이 최근 인천공항에서 갑작스러운 심정지로 쓰러졌다가 국내 의료진 덕분에 건강을 되찾았다. &lt;br&gt;&lt;br&gt;7일 인하대병원에 따르면, 스웨덴 물리학자인 맷츠 존슨(77‧Mats Johnson) 박사는 국내에서 연구와 학술교류 활동을 마치고 지난달 8일 귀국길에 올랐다가 인천공항에서 심정지 증상으로 갑자기 쓰러졌다. 20년 넘는 세월 동안 한국을 여러 차례 방문했던 존슨 박사가 공항서 쓰러진 건 이번이 처음이다. &lt;br&gt;&lt;br&gt;존슨 박사는 때마침 주변을 지나던 심장혈관흉부외과 의사에게 응급조치를 받았다. 7분가량의 심폐소생술로 생명을 건질 수 있었다. 하지만 의식을 찾지 못하는 위급한 상황이어서 그는 인하대병원 권역응급의료센터로 이송됐다. &lt;br&gt;&lt;br&gt;존슨 박사는 당시 심장이 불규칙적으로 박동하고 제대로 수축하지 못해 혈액을 전신으로 전달하지 못하는 ‘심실세동’에 의한 심정지가 발생한 상태였다. 게다가 심장 박동이 1분당 50회 미만인 ‘서맥성 부정맥’도 있는 상황이었다. &lt;br&gt;&lt;br&gt;인하대병원은 삽입형 심장 제세동기 시술이 필요하다는 진단을 내리고 신속히 집행했다. 시술 이후 존슨 박사는 심장내과 중환자실로 옮겨져 집중적인 치료 관리를 받았다. 결국 존슨 박사는 의식을 완전히 회복했고, 심장의 기능과 리듬도 정상적으로 돌아와 지난달 25일 건강한 모습으로 고국으로 돌아갔다. &lt;br&gt;&lt;br&gt;존슨 박사는 퇴원 전 의료진에 “수많은 해외 방문 일정을 소화해왔지만 이번처럼 위험한 상황은 처음이었다”며 “의료진의 열정적이고 헌신적인 치료 덕분에 위기를 넘기고 고향으로 돌아갈 수 있게 됐다”고 감사 인사를 전했다고 한다. &lt;br&gt;&lt;br&gt;시술을 집도한 인하대병원 심장내과 백용수 교수는 “며칠 전 존슨 박사로부터 고국에 돌아간 이후에도 잘 지내고 있다는 연락을 받아 매우 기쁘다”며 “의료환경이 어려운 상황에서도 심장내과 모든 교수진의 헌신과 신속한 의사결정 덕분에 최선의 결과를 낼 수 있었다”고 말했다. &lt;br&gt;&lt;br&gt;이론물리학을 전공한 존슨 박사는 1996년부터 2006년까지 노벨물리학상 심사위원으로 활동했다. 2001~2003년에는 심사위원장을 맡는 등 물리학 분야에서 세계적으로 권위 있는 석학으로 꼽힌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천시-더불어민주당, ‘북한 소음방송 피해 대책’ 등 현안 논의</title>
-      <link>https://www.chosun.com/national/regional/2024/11/07/YE7CZ7EV6RGR3MG77ZQ64JISTI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/07/YE7CZ7EV6RGR3MG77ZQ64JISTI/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Nov 2024 06:20:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C72GLFHMBFM7HBXHP3AEFDZ2S4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 이재명 대표(가운데)와 유정복 인천시장(오른쪽 다섯번째) 등 참석자들이 7일 오후 국회에서 열린 2024년 더불어민주당 인천시당-인천시 당정협의회에 앞서 기념 촬영을 하며 파이팅하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천시는 북한의 소음방송 피해 대책 마련을 위해 적극적으로 나서달라고 정치권에 요청했다.&lt;br&gt;&lt;br&gt;인천시는 7일 국회에서 더불어민주당 인천시당과 당정협의회를 열고 지역 현안 해결과 국비 지원에 힘을 모아달라고 건의했다.&lt;br&gt;&lt;br&gt;인천시는 이날 북한의 소음방송 피해 대책 차원에서 ‘접경지역 지원 특별법’ 개정을 요구했다. 북한의 소음방송으로 고통을 받는 강화도 접경지역 주민들에게 정주생활지원금 지급과 방음창 설치 지원 등 이뤄지도록 법을 개정해 달라는 것이다. 북한 소음방송으로 피해를 보는 강화군 주민들은 송해면, 양사면, 교동면 등 지역의 주민 4600여 명 규모로 파악된다.&lt;br&gt;&lt;br&gt;인천시는 야간 시간대 대북방송 제한 등 피해를 최소화할 수 있는 대책도 필요하다고 했다.&lt;br&gt;&lt;br&gt;인천시는 이 외에 대체매립지 조성을 통한 수도권매립지 종료와 인천고등법원‧해사전문법원의 인천 설치, 경인전철(인천~구로역) 지하화 추진 등 현안 해결에 힘을 모아달라고 요청했다.&lt;br&gt;&lt;br&gt;인천시는 서울도시철도 7호선 청라국제도시 연장사업을 위한 국비 777억 원과 수인경의선 송도역에서 출발해 경부선으로 이어지는 이른바 ‘인천발 KTX’ 사업의 신속한 추진을 위한 국비 602억 원, 인천상륙작전의 국가급 행사 진행을 위한 국비 17억 원 등을 증액해 달라고 건의했다.&lt;br&gt;&lt;br&gt;유정복 인천시장은 “인천시의 문제를 풀고, 미래의 희망을 만들어가기 위한 의미 있는 자리다”라며 “인천과 시민을 사랑하는 한마음 한뜻으로, 현안 해결과 국비 확보에 힘을 모아 달라”고 말했다.&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표(인천 계양구을)는 “인천의 현안과 인천이 확보해야 할 국비와 관련해, 국회 다수당으로서 최선을 다해 좋은 성과를 내도록 하겠다”고 전했다.&lt;br&gt;&lt;br&gt;박찬대 더불어민주당 원내대표(인천 연수구갑)는 “인천은 향후 10년 내 대한민국 제2 도시로 거듭날 것으로 예측된다”며 “인천을 지역구로 둔 의원으로서 인천의 발전과 도약을 위해 힘을 보태겠다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘부산 형제복지원 피해자’ 2심도 이겼다… “국가, 45억3500만원 배상해야”</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/07/QEYLPBTCU5BVDKBOBBFKQIAKNM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/07/QEYLPBTCU5BVDKBOBBFKQIAKNM/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Nov 2024 06:40:53 +0000</pubDate>
-      <content:encoded>부산 형제복지원 사건 피해자들에게 국가가 손해를 배상해야 한다는 2심 판단이 또 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OPMWRABIPRJ4PLLUBXUNGA37BM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이향직 형제복지원 서울경기피해자협의회 대표와 형제복지원 사건 피해자들이 7일 서울 서초구 서울중앙지법 앞에서 대한민국을 상대로 제기한 국가배상 손해배상 소송 2심 선고 공판을 마치고 취재진에 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 민사33부(재판장 김대웅)는 7일 형제복지원 피해자 김모씨 등 13명이 국가를 상대로 낸 손해배상 청구 소송에서  원심 일부 승소로 판결한 1심을 유지했다. 재판부는 이날 법정에서 선고 이유를 밝히진 않았다.&lt;br&gt;&lt;br&gt;앞서 1심은 지난 1월 “국가가 피해자 한 사람당 수용 기간 1년마다 약 8000만원을 기준으로 위자료를 지급하라”고 판결했다. 피해자들이 위자료로 108억3000만원을 청구했는데 법원이 이 중 45억3500만원을 인정해 준 것이다.&lt;br&gt;&lt;br&gt;형제복지원 사건은 1975~1986년 정부가 부랑인 선도라는 명목으로 노인, 장애인, 고아 등을 형제복지원에 불법 감금한 것이다. 이 기간에 3만 8000여 명이 형제복지원에 입소했다고 한다.&lt;br&gt;&lt;br&gt;당시 내무부 훈령인 ‘부랑인 신고, 단속, 수용, 보호와 귀향 및 사후 관리에 관한 업무 처리 지침’을 근거로 진행됐다. 1987년 검찰이 박인근 형제복지원 원장을 특수 감금, 업무상 횡령 등 혐의로 기소했지만 대법원은 정부 훈령에 따른 수용이라는 이유로 특수 감금에 대해서는 무죄를 선고하고 업무상 횡령에만 징역 2년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;이 사건에 대해 ‘진실·화해를 위한 과거사 정리 위원회’는 작년 8월 “공권력에 의한 인권 침해 사건”이라고 결론 내렸다. 위원회는 1975~1988년 형제복지원에서 657명의 사망자가 발생했다고 밝혔다. 일부 사망자는 구타 등에 의한 사망이 병사(病死)로 조작됐을 가능성이 크다고 했다. 또 국가가 형제복지원의 불법을 묵인한 정황도 확인됐다고 했다.&lt;br&gt;&lt;br&gt;작년 12월 형제복지원 피해자에 대해 법원이 국가의 배상 책임을 처음으로 인정한 이후 비슷한 취지의 판결이 잇따르고 있다. 지난 4월 서울중앙지법 민사27부(재판장 손승온)는 형제복지원 피해자 15명이 낸 손해배상 청구 소송에서 국가가 46억8000만원을 지급하라고 판결한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“3년간 돈 뺏겨”…학폭 피해 고백한 김창옥, 부모에게도 말 못했던 이유</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/07/G3VOWF65LJA6LAKI5XBAXV2O4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/07/G3VOWF65LJA6LAKI5XBAXV2O4Q/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Nov 2024 03:10:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VUBKE4YOG5BURE2OFIXZT7Y4UY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강연가 김창옥. /tvN STORY&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스타강사 김창옥이 고교 시절 겪은 학교 폭력 피해를 고백하며 부모에게조차 피해 사실을 털어놓을 수 없었던 이유에 대해 밝혔다.&lt;br&gt;&lt;br&gt;김창옥은 지난 5일 방송된 tvN STORY ‘김창옥쇼3′에서 “아들이 25년간 학폭 피해를 숨겨왔다”는 한 어머니의 사연을 듣던 중 자신의 학창시절을 떠올렸다.&lt;br&gt;&lt;br&gt;김창옥은 “대부분 자식과 부모가 서로에게 못하는 얘기가 많을 것”이라며 “저희 엄마도 제가 고등학교 3년간 돈 뺏긴 것을 지금도 모르신다”고 털어놨다.&lt;br&gt;&lt;br&gt;그는 “보통 선배가 (돈을) 뺏을 텐데 나는 동기에게 뺏겼다. 너무 창피해서 어디 가서 이야기를 못하겠더라”라고 했다.&lt;br&gt;&lt;br&gt;이어 “시간이 지나 7년 전 어느 회사에 강연을 갔는데 거기 (학폭 가해자가) 있더라. 강연 끝나니까 ‘창옥아 밥이나 먹고 갈래’ 이러더라”며 “‘강사료 뺏으려고?’라고 말하고 싶었는데 그렇게 말 못했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;그러자 사연자 아들 역시 학폭 가해자를 군대 후임으로 만나게 됐다며 “(가해자가) 무릎 꿇고 싹싹 빌었다더라”고 전했다.&lt;br&gt;&lt;br&gt;김창옥은 “누군가 나를 계속 집단적으로 미워하고, 내가 그렇게 미움 받을 짓을 한 게 아닌데 왜 그렇게 나를 미워할까 생각했다. 아무리 생각해도 내가 그렇게 잘못한 게 없었다. 너무 힘든 시간이었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“불가리스가 코로나 예방” 전 남양유업 대표 등 식품광고법 위반으로 벌금형</title>
