@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“눈비 몰아쳤지만…” 6살 아들 업고 히말라야 4000m 오른 여배우</title>
+      <link>https://www.chosun.com/national/people/2024/11/09/5G6P5R473FGPXF2EPXP2Z2TUBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/09/5G6P5R473FGPXF2EPXP2Z2TUBM/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Nov 2024 23:01:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6ER6577ASJB7VKXIT6YPFNNYZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이시영이 아들을 업은 채 히말라야 등반에 도전하는 모습. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 이시영(42)이 아들을 업고 해발 4000m 히말라야 마르디히말 등반에 성공했다.&lt;br&gt;&lt;br&gt;이시영은 8일 인스타그램을 통해 아들 정윤(6)군과 함께한 네팔 히말라야 마르디히말 트레킹 과정을 공개했다. 영상과 사진 속에는 이시영이 아들을 태운 캐리어를 등에 업은 채 산을 오르고, 무사 완주한 뒤에는 선명한 안나푸르나를 배경으로 눈싸움을 즐기는 모습이 담겼다.&lt;br&gt;&lt;br&gt;이시영은 “목표했던 일출 시각에는 오르지 못했지만 한 사람의 낙오 없이 해발 4000m의 뷰 포인트에 도착했다”며 “트레킹 내내 날씨가 좋지 않고 마지막엔 비와 눈까지 몰아쳐 걱정했는데 마지막 날 선물처럼 사방의 시야가 다 트이는 축복 같은 날씨를 마주했다”고 전했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HD5SV4VFLJG7TE4UK3FT2XYPIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이시영과 아들. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이어 “정윤이와 함께한 히말라야 안에서 모든 과정의 시간이 너무 감사하고 행복했다”며 “히말라야에서 눈싸움이라니. 정윤이가 몇 번이나 ‘하늘색이 왜 이렇게 파래?’라고 몇 번이나 물어봤다. 너무 아름다워 벌써 그리울 것 같다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이시영은 2008년 드라마 ‘도시괴담 데자뷰 시즌3′으로 데뷔했다. 이후 영화 ‘위험한 상견례’ ‘남자사용설명서’ 등과 각종 예능 프로그램에 출연해 인기를 얻었다. 2012년엔 서울시 복싱 대표 선발전 여자 48㎏급에서 우승해 화제를 모으기도 했다. 2017년 연상의 사업가와 결혼해 슬하에 아들 하나를 뒀다.&lt;br&gt;&lt;br&gt;앞서 작년 말에도 히말라야 등반에 도전 중인 근황을 전한 바 있다. 당시 이시영은 고산병에 시달리고 있음을 전하며 “고난과 역경의 연속. 히말라야가 사진처럼 아름답고 행복하진 않다. 우리는 모두 버텨내고 있고 또 인생을 배우고 있다”는 글을 올려 팬들의 응원을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>﻿“핏줄 찾아온 한국인데” 남편의 폭행, 아이는 심장병…고려인 동포의 사연</title>
       <link>https://www.chosun.com/national/national_general/2024/11/09/ETKHINNY5ZENJG7TSQQAF6XZOQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/09/ETKHINNY5ZENJG7TSQQAF6XZOQ/</guid>
@@ -838,19 +847,6 @@
       <description>네살 딸이 용변을 실수했다는 이유로 발로 걷어차는 등 학대를 가한 20대 남성에게 1심에 이어 항소심 법원도 징역형을 선고했다.춘천지법 형사1부(재판장 심현근)는 아동복지법상 아동학대 등 혐의로 기소된 A(29)씨에게 원심과 같은 징역 8개월을 선고했다고 8일 밝혔다.</description>
       <pubDate>Fri, 08 Nov 2024 05:02:08 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/24UPWP5OARX56LWFKEPUAFKDZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;네살 딸이 용변을 실수했다는 이유로 발로 걷어차는 등 학대를 가한 20대 남성에게 1심에 이어 항소심 법원도 징역형을 선고했다.&lt;br&gt;&lt;br&gt;춘천지법 형사1부(재판장 심현근)는 아동복지법상 아동학대 등 혐의로 기소된 A(29)씨에게 원심과 같은 징역 8개월을 선고했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 “원심 판결 선고 이후 양형에 반영할 만한 새로운 정상이나 형을 변경해야 할 정도로 특별한 사정 변경을 찾아볼 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 11월 강원 원주시 한 편의점에서 딸 B(4)양이 용변 실수를 했다는 이유로 달려들면서 발로 차 넘어뜨린 혐의를 받고 있다. A씨는 또 넘어진 B양을 일으켜 세운 뒤 또다시 양발로 걷어차 나뒹굴게 했다.&lt;br&gt;&lt;br&gt;A씨는 이 외에도 지난 1월 자택 거실에서 대화를 시도하려는 아내에게 욕설과 주먹을 휘두르는 등 2차례 폭행한 혐의도 공소장에 포함됐다.&lt;br&gt;&lt;br&gt;A씨는 1심 선고 이후 ‘형이 무겁다’며 항소를 했지만, 항소심 재판부는 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 대형건설사 시공 광진구 공사장서 50대 남성 추락</title>
-      <link>https://www.chosun.com/national/incident/2024/10/29/VPNVQVL5ZZARJO5UYSMZUFFSTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/10/29/VPNVQVL5ZZARJO5UYSMZUFFSTA/</guid>
-      <dc:creator>안준현 기자, 장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Oct 2024 06:37:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3QKIX2TXLIYH2WP2AUIQWQPVQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 잠원동 롯데건설 본사 전경 /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대형 건설사가 시공을 맡고 있는 서울 광진구 자양동 아파트 건축 공사 현장에서 50대 노동자 A씨가 추락해 의식 불명 상태에 빠졌다. 고용노동부는 중대재해법 위반 여부 조사를 검토하고 있다. 시공사는 롯데건설이다.&lt;br&gt;&lt;br&gt;서울 광진경찰서와 소방당국에 따르면, 지난 28일 오후 2시 10분쯤 서울 광진구 자양동 건축공사 현장 지하 3층에서 일하고 있던 50대 노동자 A씨가 지하 5층으로 떨어져 중상을 입는 사고가 발생했다.&lt;br&gt;&lt;br&gt;사고 직후 A씨 동료의 신고를 접수한 소방당국은 오후 2시 18분쯤 현장에 도착해 의식 불명 상태에 빠진 A씨를 발견했다. A씨는 인근 대형 병원으로 옮겨져 치료를 받고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “정확한 사고 경위를 조사하고 있다”고 밝혔다. 고용노동부 관계자는 “사건 경위 파악을 위해 사건 현장 조사는 마친 상황”이라며 “피해자가 사망할 시 중대재해법 위반 여부 조사에 본격 착수할 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편, 지난 7월에도 같은 공사 현장에서 엘리베이터 설치 작업을 하던 50대 남성 근로자가 엘리베이터 부품에 맞아 숨지는 사고가 발생했다. 서울지방고용노동청과 경찰은 중대재해처벌법과 업무상 과실 여부에 대해 수사를 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/3QKIX2TXLIYH2WP2AUIQWQPVQQ.jpg?width=578&amp;height=384&amp;auth=5300bc553b45e477c1bfc592319e3b882616901c63f710bca5ddde90ce7b2c21&amp;smart=true" type="image/jpeg" height="384" width="578">
-        <media:description type="plain">검찰이 들이닥친 14일 전격 압수수색을 받은 잠원동 롯데건설 본사 임직원들이 1층 로비로 내려오고 있다.</media:description>
-        <media:credit role="author" scheme="urn:ebu">유진우 기자</media:credit>
-      </media:content>
     </item>
     <item>
       <title>승객 가방에서 명품 가방 등 훔친 항공사 하청 직원…징역 1년 추가</title>
