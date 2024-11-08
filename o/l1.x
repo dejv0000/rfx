@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] '술 취해 경찰 폭행' 빙그레 3세 김동환 사장, 1심 벌금 500만원</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/202751.jpg" alt="202751.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;술에 취해 경찰관을 폭행한 혐의로 재판에 넘겨진 빙그레 오너가(家) 3세 김동환(41) 사장이 1심에서 벌금형을 선고받았다.&lt;p&gt;   &lt;br /&gt;서울서부지법 형사10단독&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="20800"&gt;성준규&amp;nbsp;&lt;/span&gt;판사는 7일 공무집행방해 혐의로 기소된 김 사장에게 벌금 500만 원을 선고했다(&lt;b&gt;2024고단1741&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;성 판사는 "피고인이 술에 취한 상태에서 112 신고를 받고 출동한 경찰관들을 폭행한 경위 등을 고려하되,  범행 후 잘못을 반성하며 용서를 구했고 경찰관들이 모두 피고인에 대한 선처를 호소하고 있는 점을 참작했다"며 양형이유를 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;김 장은 지난 6월 17일 오전 9시께 서울 용산구의 아파트 로비에서 술에 취한 채 상의를 탈의한 채로 아파트 경비원과 말다툼을 하던 중 경비원의 신고를 받고 현장에 출동한 서울 용산경찰서 모 지구대 소속 경찰관 2명을 폭행한 혐의를 받는다.         &lt;/p&gt;&lt;p&gt;   &lt;br /&gt;김 사장은 옷을 입을 것을 권유하는 경찰 A 씨의 팔뚝을 주먹으로 수차례 치고 A 씨의 얼굴을 향해 주먹을 휘두른 것으로 조사됐다. 공무집행방해 현행범으로 체포돼 순찰차로 호송되던 중 경찰 B 씨가 자신을 순찰차로 탑승시키려 하자 머리로 B 씨의 인중을 들이받기도 했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;앞서 검찰은 징역 6개월에 집행유예 1년을 구형했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;빙그레그룹 김호연 회장의 장남인 김 사장은 2014년 빙그레에 입사해 2021년 1월 임원으로 승진했다. 3세 경영이 본격화되며 올해 3월 경영기획·마케팅본부장에서 사장으로 승진했다.&lt;/p&gt;</description>
+			<pubDate>Fri, 08 Nov 2024 06:08:45 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/202751</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202751</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202751.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
 			<title>법무부 검찰과장, 검찰 특활비·특경비 587억 원 전액 삭감에 사표</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/202739.jpg" alt="202739.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무부 검찰과장이 국회의 특수활동비·특정업무경비 전액 삭감에 항의하며 사표를 냈다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11319"&gt;임세진&lt;/span&gt;(46·사법연수원 34기·&lt;b&gt;사진&lt;/b&gt;) 법무부 검찰과장은 지난 7일 국회 법제사법위원회 예산결산기금심사소위가 특경비 587억 원을 삭감한 직후 법무부에 사의를 표명했다. &lt;br /&gt;&lt;br /&gt;검찰 예산을 정치권이 통제하자 소관 과장이 항의성 사의를 표명한 것으로 해석된다. &lt;br /&gt;&lt;br /&gt;임 과장은 특경비까지 삭감하면 사실상 수사가 불가능하게 된다며 무력감에 사표를 제출했다고 설명했다. &lt;br /&gt;&lt;br /&gt;특활비는 기밀유지가 요구되는 정보 활동과 사건 수사 등에 쓰이고 특경비는 수사 업무에 소요되는 비용을 충당하기 위해 지급되는 경비다.&lt;br /&gt;&lt;br /&gt;전날 국회 법사위 예산소위의 특활비 및 특경비 전액 삭감은 야당 단독으로 이뤄졌다. 국민의힘 의원들은 야당이 예산안을 일방적으로 처리한다고 반발하며 의결 과정에 참여하지 않았다. &lt;br /&gt;&lt;br /&gt;앞서&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6874"&gt;전현희&lt;/span&gt;(60·28기) 더불어민주당 의원은 "목적대로 사용되지 않은 것으로 추정되는 권력기관의 특활비 예산은 (용처를) 제대로 입증하지 못하면 전액 삭감하겠다. 예결위에 가서 살아나는 일도 없도록 할 것"이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;검찰은 특경비는 절반 이상이 각 검사와 수사관의 계좌로 지급되고 나머지도 영수증 처리를 하기 때문에 증빙에 문제가 없으며 사전에 자료 제출 요구를 전달받지 않아 전국 검찰청 자료를 취합하지 못했을 뿐이라는 입장을 내놨다. &lt;br /&gt;&lt;br /&gt;법무부의 2025년 예산안은 이날 국회 법사위 전체회의를 통과한 뒤 예산결산특별위원회의 종합심사와 본회의 의결을 거쳐 확정된다.</description>
 			<pubDate>Fri, 08 Nov 2024 02:34:31 -0000</pubDate>
@@ -102,6 +112,16 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202709</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202709.jpg</media:thumbnail>
 			<dc:creator>김지현 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] "국가, 형제복지원 피해자들에게 총 45억 원 지급하라"...항소심 첫 국가배상 인정</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/202706.jpg" alt="202706.jpg" style="width: 600px; height: auto;" /&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size: 14px; line-height: 1.6em;"&gt;부산 형제복지원 사건 피해자들이 지난 1월 31일 서울 서초구 중앙지법에서 열린 국가 상대 손배소 1심 선고 공판을 마친 뒤 결과에 대한 입장 발표 기자회견을 하고 있다. 《연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p style="text-align: center;"&gt;&lt;br /&gt;&lt;/p&gt;부산 형제복지원 사건 피해자들에 대한 국가 배상 책임을 인정한 1심 판결이 이어지고 있는 가운데 7일 항소심에서도 처음으로 국가가 배상해야 한다는 판단이 나왔다.&lt;p&gt;&amp;nbsp;  &lt;b&gt;&lt;br /&gt;서울고법 민사33부&lt;/b&gt;(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3385"&gt;김대웅&amp;nbsp;&lt;/span&gt;부장판사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13301"&gt;황성미&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="14435"&gt;허익수&amp;nbsp;&lt;/span&gt;고법판사)는 이날 김모 씨 등 13명이 국가를 상대로 낸 손해배상 소송 항소심(&lt;b&gt;2024나2019285&lt;/b&gt;)에서 원고 및 피고의 항소를 기각하고 원고 일부승소 판결한 1심을 유지했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;지난 1월 31일 1심은 "원고들은 형제복지원에 수용됨으로써 신체의 자유와 인간으로서의 존엄성을 침해당했으므로 피고는 그로 인한 정신적 손해를 배상할 책임이 있다"며 "국가는 원고들에게 각 7500만~4억 원씩 총 45억3500만 원을 지급하라"고 판결했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;형제복지원 사건은 경찰 등 공권력이 1975년부터 1987년까지 부랑인으로 지목된 무연고자, 장애인, 고아 등을 민간 사회복지법인이 운영하는 부산 형제복지원에 강제수용한 사건이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;형제복지원 피해자들이 제기한 국가 배상 소송은 전국적으로 30건 이상인 것으로 파악된다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;앞서 지난해 12월 21일 법원은 "국가는 원고들에게 수용 기간 1년당 8000만 원을 지급하라"며 형제복지원 피해자들에 대한 국가 배상 책임을 처음 인정했다. 이후 '1년당 8000만 원' 기준을 적용한 1심 판결이 이어지고 있다. 정부가 1심 결과에 불복해 모두 항소함에 따라 이번 서울고법 판결을 시작으로 항소심 판단도 연이어 나올 것으로 보인다.&lt;/p&gt;</description>
+			<pubDate>Thu, 07 Nov 2024 06:07:30 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/202706</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202706</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202706.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
 		</item>
 		<item>
 			<title>[판결] "국가, 형제복지원 피해자들에게 총 45억 원 지급하라"...항소심 첫 국가배상 인정</title>
@@ -219,26 +239,6 @@
 			<link>https://www.lawtimes.co.kr/news/202667</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202667</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202667.jpg</media:thumbnail>
-			<dc:creator>안현 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] '1조 원대 다단계 사기' IDS홀딩스 대표 도운 고문변호사, 징역 2년</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/202678.jpg" alt="202678.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;IDS홀딩스 피해자들이 법정 앞에서 사건의 배후를 철저히 밝혀줄 것을 촉구하고 있다.《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;1조 원대 다단계 사기를 벌인 유사수신업체 IDS홀딩스의 고문변호사로 활동하면서 회사 대표의 사기 범행을 도운 현직 변호사가 1심에서 실형을 선고받았다.&lt;br /&gt;&lt;br /&gt;서울중앙지법 형사12단독&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="19163"&gt;구창규&amp;nbsp;&lt;/span&gt;판사는 6일 사기방조 혐의로 기소된 변호사 A 씨에게 징역 2년을 선고했다(&lt;b&gt;2022고단6891&lt;/b&gt;). 다만 법정구속하지는 않았다.&lt;br /&gt;&lt;br /&gt;구 판사는 "A 씨는 IDS홀딩스 김성훈 전 대표에 대한 유죄 판결이 난 다음에도 '이 사업은 실체가 있는 사업이다. 피해자들에게 차용한 돈을 모두 변제했고 변제 능력과 의사가 있었다'면서 김 전 대표에게 유리하게 왜곡해 강연했다"며 "강연 내용을 전달받은 피해자들로 하여금 김 전 대표의 사업이 문제 없다고 판단해 자금을 제공하는 의사 결정을 하는 데 기여한 것으로 보인다"고 지적했다.&lt;br /&gt;&lt;br /&gt;이어 "변호사로서 사회 질서를 위해 노력해야 하는 것이 분명함에도 법원 판결을 임의로 곡해해 투자자들에게 잘못된 정보를 제공해 범행 방법이 불량하다"며 "일부 피해자들은 A 씨의 엄벌을 탄원하고 있다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;다만 "A 씨가 피해자를 직접 속이는 방식으로 가담한 것이 아니라 방조한 형태이고, 가담 정도가 가볍다는 점 등을 고려해 형을 정했다"고 부연했다.&lt;br /&gt;&lt;br /&gt;IDS홀딩스의 고문변호사이자 김 전 대표의 변호인이던 A 씨는 2016년 4~8월 불특정 다수의 투자자와 지점장을 상대로 강연하면서 김 전 대표에 대한 판결과 처벌이 부당하다고 해 김 전 대표의 사기 범행을 방조한 혐의로 재판에 넘겨졌다.&lt;br /&gt;&lt;br /&gt;김 전 대표는 투자자 1만여 명을 속여 1조 960억 원을 받아 가로챈 혐의로 2017년 징역 15년이 확정됐다.</description>
-			<pubDate>Wed, 06 Nov 2024 09:32:38 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/202678</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202678</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202678.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>[단독] 엘박스·법학전문대학원협의회, '법률 AI 교육과정' 공동 개발 착수</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/202673.jpg" alt="202673.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;홍대식 로스쿨협의회 이사장·이진 엘박스 대표.&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법률 인공지능(AI) 스타트업 엘박스(대표&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="16136"&gt;이진&lt;/span&gt;)는 5일 법학전문대학원협의회(이하 로스쿨협의회)(이사장&amp;nbsp;&lt;span class="lawmanlink" serial="6014" style="font-weight: bold;"&gt;홍대식&lt;/span&gt;)와 '미래 법조인을 위한 AI 커리큘럼 개발' 업무협약을 체결했다.&lt;br /&gt;&lt;br /&gt;이번 협약을 통해 엘박스와 로스쿨협의회는 △미래 법조인을 위한 법률 AI 커리큘럼 개발 및 교육 △로스쿨생 및 교수진의 법률AI 서비스 접근성 강화 △법률 AI 서비스를 통한 최신 법학연구성과의 확산 △최신 AI 기술 및 산업동향에 관한 세미나·워크숍 등 개최 및 참여 협력 △연구 시설 및 기자재 공동 활용 △취업 및 고용 정보 공유 △기타 양 기관의 발전을 위해 필요하다고 인정하는 활동 등 7개 분야에서 협력할 계획이다.&lt;br /&gt;&lt;br /&gt;엘박스 관계자에 따르면, 이번 법률 AI 교육 과정에서는 지난 4월 엘박스가 출시한 법률 전문가용 법률 AI 서비스 '엘박스 AI'를 적극 활용할 예정이다. 엘박스 AI는 엘박스가 보유한 350만 건의 전문 판례 등 국내 법률 데이터를 근거로 답변을 제공하는 법률 AI 서비스다. 출시 반년 만에 법조인 등 이용자 수가 6500명을 넘어선 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6014"&gt;홍대식&lt;/span&gt;(59·사법연수원 22기) 이사장은 "법률AI를 잘 다루는 변호사들의 양성이 중요해지고 있지만 지방에 소재하거나 규모가 작은 로스쿨의 경우 교육이 어려울 수 있는 것이 현실"이라며 "AI관련 교육의 기회를 협의회가 앞장서 제공해 전국 로스쿨 학생들의 역량 강화를 끌어내겠다"고 강조했다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="16136"&gt;이진&lt;/span&gt;(42·38기) 대표는 "이번 업무협약은 엘박스와 로스쿨협의회가 생성형 AI시대에 필요한 법학 교육의 미래를 함께 그려간다는 데 의미가 있다"고 했다. &lt;br /&gt;</description>
-			<pubDate>Wed, 06 Nov 2024 05:34:54 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/202673</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202673</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202673.jpg</media:thumbnail>
 			<dc:creator>안현 기자</dc:creator>
 		</item>
 	</channel>
