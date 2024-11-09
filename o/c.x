@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>검찰, “‘왜곡 여론조사 의혹’ 업체 明 소유 아니다” 녹취 확보</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/09/P22CCQFGAFAR7CZEYEB2Z3FLMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/09/P22CCQFGAFAR7CZEYEB2Z3FLMI/</guid>
+      <dc:creator>창원=이민준 기자, 창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 09 Nov 2024 04:33:25 +0000</pubDate>
+      <content:encoded>‘윤석열 대통령 부부 공천 개입 의혹’을 수사하는 검찰이 지난 대선 당시 왜곡된 여론조사를 수행한 의혹을 받는 업체 미래한국연구소가 ‘키맨’인 정치 브로커 명태균씨의 소유가 아니라는 관계자들의 발언이 담긴 녹취를 확보한 것으로 9일 전해졌다. 이 의혹을 처음 폭로한 강혜경씨는 해당 녹취에 대해 “당시 상황에 대해 검찰에 이미 진술했다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ECQI4XKLQVJJROJMD2ET5EFFBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘윤석열 대통령 부부 공천 개입 의혹’의 키맨인 정치 브로커 명태균씨가 9일 오전 창원지검에 출석하며 취재진 질문에 답하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 명씨는 이날 오전 창원지검 전담수사팀(팀장 이지형 차장검사)에 A4용지 6장 분량의 녹취록을 제출했다. 해당 녹취는 작년 7월 16일 명씨, 미래한국연구소장 김모씨, 김영선 전 의원, 강씨와 김 전 의원의 비서관 김모씨 등 5명이 모인 당시의 상황을 담고 있다고 한다.&lt;br&gt;&lt;br&gt;녹취록 속 명씨는 김 소장에게 “미래한국연구소는 본인 것이냐”고 네 번에 걸쳐 묻는다. 즉답을 피하던 김 소장은 “네”라고 답한다. 명씨가 “나한테 급여 말고 돈을 준 게 있느냐”고 질문을 던지자 김 소장은 “그건 없죠?”라고 답하는 내용도 담겼다. 명씨는 강씨에게 “(이 내용) 들었죠?”라고 묻자 강 씨가 “네”라고 답하는 대목도 있다.&lt;br&gt;&lt;br&gt;미래한국연구소는 명씨를 둘러싼 ‘공천 개입’ 의혹 및 ‘불법 여론조사’ 의혹, 공천을 미끼로 지방선거 예비후보들에게 돈을 받아챙겼다는 의혹의 핵심으로 지목된 곳이다. 명씨는 미래한국연구소를 통해 지난 대선 때 윤석열 국민의힘 후보를 위한 맞춤형 여론조사를 실시하고, 그 대가로 김 전 의원의 2022년 보궐선거 당시 국민의힘 공천을 받아왔다는 의혹을 받고 있다. 이 과정에서 김 전 의원이 강씨를 통해 세비(歲費) 등 9000여 만원을 공천 대가로 명씨에게 전달했다는 것이 검찰의 시각이다. 검찰은 명씨가 정치자금법을 위반한 혐의가 있다고 보고 소환해 이날 조사하고 있는 것이다. 명씨는 미래한국연구소를 통해 지방선거 예비후보 2명에게 공천 대가 명목으로 2억4000만원을 수수한 혐의도 받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LWXZPFWGXVI67PBMQDZIJVECVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘윤석열 대통령 부부 공천 개입 의혹’을 처음 폭로한 김영선 전 의원의 회계 책임자 강혜경씨가 6일 검찰 조사를 마치고 나와 취재진 질문에 답하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강씨 측은 해당 녹취 내용은 ‘말맞추기를 위해 꾸며낸 것’이라는 입장이다. 명씨가 미래한국연구소와 자신의 연관성을 부인하기 위해 혐의를 벗으려 했다는 것이다. 강씨는 이날 법률대리인을 통해 언론에 “증거효력이 어떻게 될지 모르겠지만, 녹취 당시 상황에 대해 검찰에 진술했다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;명씨는 이날 오전 9시 53분 창원지검에 출석해 피의자 신분으로 조사 받고 있다. 그는 조사에 앞서 기자들에게 “가짜뉴스(로 제기된) 의혹을 왜 조사 받아야 하느냐. 나는 정치자금법 위반 혐의에 대한 조사를 받으러 왔다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>교회에서 쫓겨나자 목사에 항의 문자 9000통 보낸 여성 집유</title>
       <link>https://www.chosun.com/national/incident/2024/11/09/WOCDB62HRNCSTBJI3RQX5C26AE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/09/WOCDB62HRNCSTBJI3RQX5C26AE/</guid>
@@ -796,15 +805,6 @@
       <description/>
       <pubDate>Fri, 08 Nov 2024 07:29:29 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U7OACRR5OVHO5DOVDJF5X3UZOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;관악경찰서. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동료 여성 군무원을 살해하고 시신을 훼손해 강원 화천군 북한강에 유기한 현역 군 장교인 30대 남성이 범행 후 이를 숨기기 위해 피해자인 여성을 흉내내는 보이스톡을 하며 피해자 가족의 미귀가 신고를 취소하려 한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면 육군 소령 A씨는 범행 이튿날인 지난달 26일 새벽 피해자인 30대 여성 B(33)씨의 휴대전화로 그 어머니에게 ‘당분간 집에 못 들어간다’는 취지의 문자를 보낸 것으로 전해졌다. 이에 서울 관악구에 사는 B씨의 어머니는 같은 날 오전 8시 40분쯤 112에 딸이 집에 들어오지 않는다며 미귀가 신고를 했다.&lt;br&gt;&lt;br&gt;서울 관악경찰서는 B씨 휴대전화로 등기 문자를 보내고 파출소 직원이 카카오톡 메시지와 보이스톡을 보내는 등 조치에 나섰다. 그러자 A씨는 B씨 휴대전화로 파출소 직원에 보이스톡을 걸어 여자인 척 하면서 B씨 본인만이 알 수 있는 개인정보를 말해 경찰을 속이려 했다고 한다. 이후 A씨는 112에도 동일한 수법으로 전화해 “고속도로를 달리고 있으니 연락이 어렵다”며 “신고를 취소해달라”고 요청했다고 한다.&lt;br&gt;&lt;br&gt;경찰은 B씨 어머니에게 피해자와 전화 연결은 됐지만 대면해서 확인해야 한다며 직장에 공문을 보내고 수사 협조를 요청하겠다고 했지만, B씨 어머니는 ‘부담이 될 수 있다’며 직접 신고를 취소한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 A씨는 지난달 25일 오후 3시쯤 부대 내 주차장에 세워진 자신의 차량에서 같은 사무실에 근무하던 군무원 B씨와 말다툼을 벌이다 격분해 목을 졸라 살해한 혐의를 받는다. A씨는 같은 날 오후 9시쯤 부대 인근 공사현장에서 B씨의 시신을 훼손했으며, 훼손한 시신은 10개의 비닐봉지에 담아 다음날 오후 9시 40분쯤 강원 화천군 북한강에 유기했다. A씨는 유기한 시체가 떠오르는 것을 막기 위해 비닐봉지에 돌덩이를 함께 담았으며, 범행도구는 유기 장소로 이동하며 곳곳에 버리는 등 범행의 치밀함을 보이기도 했다. 또 A씨는 B씨가 출근을 하지 않으면 범행이 들통날 것을 우려해 A씨의 휴대전화로 부대 측에 “휴가처리를 부탁한다”는 메시지를 보내는 등 범행 은폐도 시도했다. 법원은 지난 5일 증거 인멸과 도주 우려가 있다며 A씨에 대한 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>충북 음성 육용오리농장서 고병원성 AI 발생</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/08/GLEUXHWQDJEJZFQ4OWZEQEKMNM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/08/GLEUXHWQDJEJZFQ4OWZEQEKMNM/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Nov 2024 07:36:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WLJ7ZK23SRNUHMJYRMIA44J3AM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 대구 동구 금호강 안심습지에서 대구시 보건환경연구원 동물방역과 관계자들이 조류인플루엔자(AI)를 예방하기 위해 방역차량을 이용해 소독작업을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 음성에서 고병원성 조류인플루엔자(AI)가 발생했다.&lt;br&gt;&lt;br&gt;8일 충북도는 농림축산검역본부가 전날 해당 농장에서 검출된 고병원성 H5N1형 AI 항원에 대해 정밀 검사한 결과 고병원성 AI로 확인됐다고 밝혔다.&lt;br&gt;&lt;br&gt;지난달 29일 강원 동해의 산란계 농장에서 첫 고병원성 AI가 발생한 데 이어 두 번째이다.&lt;br&gt;&lt;br&gt;고병원성 AI 중앙사고수습본부(중수본)는 해당 농장에 초동대응팀을 투입해 출입 통제, 살처분, 역학조사 등 방역 조치를 하고 있다.&lt;br&gt;&lt;br&gt;또 전국 오리사육 농장 및 관련 축산 시설과 차량에 대해 전날 오후 11시부터 24시간 동안 일시 이동중지 명령을 내렸다.&lt;br&gt;&lt;br&gt;중수본은 철새 도래지 등의 출입을 삼가고, 농장 출입 차량을 2단계 소독하는 등 바이러스 확산을 방지하기 위해 기본적인 방역 수칙을 철저히 지킬 것을 주문했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘군부대 공사장 토사 매몰 사망사고’ 중소건설사 대표 집유</title>
