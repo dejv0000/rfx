@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>민사소송법 대가 이시윤 前 감사원장 별세</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/09/O6O6B2V7URBX5I7PFHLPLFON74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/09/O6O6B2V7URBX5I7PFHLPLFON74/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 09 Nov 2024 12:38:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LGGC3UHZ5QAXHFOETGKK3EMOPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이시윤 전 감사원장. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민사소송법학계의 대가(大家) 이시윤(89) 전 감사원장이 9일 별세했다.&lt;br&gt;&lt;br&gt;고인은 1935년 서울에서 태어나 서울고와 서울대 법대를 졸업했다. 1958년 제10회 고등고시 사법과에 합격해 광주·서울고법 부장판사와 춘천·수원지법원장 등을 지냈다. 판사 생활 중 서울대 등에서 6년간 민사소송법을 가르치기도 했다. 그러다 1988년 헌법재판소가 설립된 후 초대 헌법재판관을 맡았고, 이어 1993~1997년 16대 감사원장을 역임했다.&lt;br&gt;&lt;br&gt;고인은 민사소송법에 신의성실의 원칙(신의칙·信義則)을 도입하고, 학계에 독일 이론을 소개하는 등 민사소송 제도의 발전에 기여했다는 평가를 받는다. 그가 1982년 펴낸 민사소송법 교과서는 법학도들의 필독서로 꼽히는 베스트셀러였다.&lt;br&gt;&lt;br&gt;고인은 초대 헌법재판관으로서 이론적 기틀을 다지고 주요 결정을 내리며 헌법재판의 활성화에 기여했다. 권리구제형 헌법소원 1호 사건의 주심을 맡아 법원을 통하지 않고 직접 헌법소원을 제기할 수 있다는 결정을 내렸다. 또 1993년 7월 국제그룹 양정모 전 회장이 낸 헌법소원 사건의 주심으로 5공화국 당시 전두환 대통령이 지시한 국제그룹 강제 해체 작업이 위헌이라는 결정을 내렸다. 대통령의 통치 행위에 대해 헌재의 첫 위헌 결정이었다. 이 밖에 검찰의 불기소 처분도 헌법소원 대상으로 삼기 위한 논리적 근거를 제시하기도 했다.&lt;br&gt;&lt;br&gt;재판관으로 재임 중 김영삼 정부의 감사원장으로 임명돼 공직 생활을 이어갔다. 고인은 특히 부정부패 척결에 집념을 쏟으며 감사원장 자문 기구로 부정방지대책위원회를 설치했다. 삼풍백화점 붕괴, 성수대교 붕괴 등 대형 사고 이후 부실공사 조사 및 방지 활동에 집중했고, 1995년 감사원법 개정으로 감사원의 독립성과 인사 자율성을 확보했다는 평가를 받는다.&lt;br&gt;&lt;br&gt;감사원장 퇴임 후에는 한국민사소송법학회 회장을 지냈고, 1999년부터는 민법개정특별위원회 위원장을 맡아 민법 개정 작업을 지휘했다. 법무법인 대륙아주의 고문변호사 등으로 활동했다.&lt;br&gt;&lt;br&gt;유족으로는 아들 이광득·항득씨와 며느리 김자호·이선영씨, 손녀 이지원씨, 손녀 사위 류성주씨 등이 있다. 빈소는 신촌세브란스병원 장례식장. 발인은 12일 오전 8시. (02)2227-7500&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>민노총 집회서 경찰 폭행 혐의 등으로 참가자 10명 체포</title>
       <link>https://www.chosun.com/national/2024/11/09/KXD6LXNSLBDLPFMHVB3XJF5TVM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/11/09/KXD6LXNSLBDLPFMHVB3XJF5TVM/</guid>
@@ -782,15 +791,6 @@
       <description/>
       <pubDate>Fri, 08 Nov 2024 08:38:31 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EA4REXH36URBH3N7E662DM65QM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천공항 자동 수하물 위탁 서비스./뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천국제공항에서 여행용 가방 등을 옮기는 컨베이어 벨트를 타고 보안구역에 몰래 들어간 40대 여성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;인천국제공항경찰단은 건조물 침입 혐의로 40대 여성 A씨를 입건했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 전날 오후 3시 20분쯤 인천시 중구 인천국제공항 제2여객터미널 3층 출국장에서 여행용 가방 등 위탁 수하물 컨베이어 벨트를 타고 보안구역에 침입한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 승객이 여행용 가방을 직접 부치는 ‘자동 수하물 위탁 서비스’(셀프 백드롭) 카운터 인근에서 컨베이어 벨트를 타고 지하층에 있는 보안구역까지 이동한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;컨베이어 벨트를 타고 이동 중인 A씨를 뒤늦게 발견한 한 항공사 직원은 인천공항 수하물운영센터에 이를 신고했고, 인천공항공사 특수경비원들이 출동해 A씨를 붙잡았다.&lt;br&gt;&lt;br&gt;A씨를 인계받은 경찰은 곧바로 조사하려 했으나, “A씨가 횡설수설하는 등 이상 증세를 보여 보호자 동의를 받고 병원에 입원 조치했다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 해외로 출국하려던 건 아닌 것으로 파악됐다”며 “조만간 A씨를 상대로 정확한 사건 경위를 조사할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>안성재 셰프, 서울시의회 감사에 증인 출석… 무슨 일 </title>
-      <link>https://www.chosun.com/national/national_general/2024/11/08/K73KG4FUGZF3PLHHFVUPSE3KBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/08/K73KG4FUGZF3PLHHFVUPSE3KBQ/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Nov 2024 08:37:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2FX2IC2WIJPBXCAGUCZ6GAJIKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안성재 셰프가 8일 서울 중구 서울시의회 위원회관에서 열린 문화체육관광위원회 행정 사무감사에서 위원 질의에 답하고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 유일 미쉐린 3스타 레스토랑 ‘모수 서울’의 안성재 셰프가 8일 서울시의회 행정 사무감사에 출석해 미식 선정 사업의 공정성 등에 관련한 질문에 답했다. 앞서 김규남 서울시의원이 안 셰프를 증인으로 신청했다.&lt;br&gt;&lt;br&gt;이날 김 의원은 안 셰프에게 “서울미식 100선에 대한 정책적 개선점과 보완점과 관련해 고견을 얻기 위해 증인으로 모셨다”며 서울미식 100선 심사위원으로 참여한 적이 있는지를 물었다.&lt;br&gt;&lt;br&gt;이에 안 셰프는 “심사위원으로 참여한 적은 없고, 모수 서울 내 다른 셰프들이 심사위원으로 참여한 지에 대해서는 저는 모른다”고 답했다.&lt;br&gt;&lt;br&gt;안 셰프는 미식 선정 사업의 공정성과 관련한 질문에는 “레스토랑은 굉장히 주관적인 것이고, 레스토랑과 외식업 종사자의 랭킹을 매기고 점수 주는 것이 너무 복잡하고 어려울 것”이라며 “저도 최대한 공정해야 한다고 보는 입장이다”라고 했다.&lt;br&gt;&lt;br&gt;안 셰프는 자신이 심사위원으로 출연했던 넷플릭스 요리 경연 프로그램 ‘흑백요리사’를 언급하며 서울시에 소상공인 지원을 요청하기도 했다. 그는 “셰프로서, 외식업에 종사하는 사람으로서 노력하고 있고 외식업 종사자 중 생계유지하려는 분들도 많이 있다”며 “흑백요리사가 넷플릭스 플랫폼을 통해 방송되면서 외식업이 살아나고 경제적 효과도 있을 것이라 본다. 서울시에서 소상공인에 도움이 될 방안까지 마련해달라”고 했다.&lt;br&gt;&lt;br&gt;김영환 서울시 관광체육국장은 “서울미식 100선 선정기준은 미식업계 전문가들의 의견을 듣고 마련한 것”이라며 “세계 미식업계에서 통용되고 있는 방식이고 지금까지 계속 보완해 왔는데, 더 개선의 여지가 있는 것 같다”고 했다. 그러면서 “다시 미식업계의 관심이 높아진 만큼 선정 방식에 대해 더 좋은 방법이 무엇인지 마련해 보겠다”고 했다.&lt;br&gt;&lt;br&gt;한편 ‘미슐랭 가이드 서울 2024′에서 최고 등급인 3스타를 받은 모수 서울은 서울미식 100선이 시작된 지난 2020년부터 2023년까지 4년 연속 서울 미식 100선에 선정됐다. 서울미식 100선은 서울의 대표 미식 안내서로, 푸드 콘텐츠 전문가, 미식 여행가, 식음 저널리스트 등 국내 미식 전문가 45명이 독창성, 전문성, 화제성 등을 고려해 선정한 100개의 식당으로 구성됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“신고 취소해달라”...’화천 토막 살인’ 軍장교, 피해자인척 경찰과 전화</title>
