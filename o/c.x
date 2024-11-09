@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>교회에서 쫓겨나자 목사에 항의 문자 9000통 보낸 여성 집유</title>
+      <link>https://www.chosun.com/national/incident/2024/11/09/WOCDB62HRNCSTBJI3RQX5C26AE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/09/WOCDB62HRNCSTBJI3RQX5C26AE/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 09 Nov 2024 02:39:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ALL2YIZXMG6BB552HH32G66UFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교회에서 쫓겨나는 처분을 받자 이에 항의해 목사에게 9000통에 달하는 문자를 보낸 40대 여성에게 징역형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;청주지법 형사 4단독 강현호 판사는 스토킹 처벌법 위반 혐의로 기소된 여성 A(44)씨에게 징역 1년에 집행유예 2년을 선고하고 사회봉사 80시간과 스토킹 범죄 재범 예방 강의 수강을 명령했다고 9일 밝혔다. A씨는 지난 2022년 9월 25일부터 지난해 8월 23일까지 교회 목사 B(47)씨에게 8590여 차례에 걸쳐 원치 않는 문자 메시지를 보내 스토킹 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;청주의 한 교회 신도였던 A씨는 지난 2021년 4월 교회 목사 B씨에게 “불필요한 연락을 하지 말아달라”는 부탁을 받았다. 하지만 이후 약 1년 여에 걸쳐 A씨는 자신의 일상 생활 등을 설명하는 문자를 B씨에게 보냈고 결국 2022년 9월쯤 교회로부터 내쫓는 처벌인 ‘출교(黜敎)’ 처분을 받았다.&lt;br&gt;&lt;br&gt;이후 A씨는 B씨에게 억울함을 호소하며 출교 처분을 취소해달라는 취지의 문자를 보냈고, 직접 교회로 가 B씨를 찾기도 한 것으로 파악됐다. A씨는 B씨에 대한 접근 금지 및 연락 금지 명령을 받았음에도 지속적으로 범행을 이어간 것으로 조사됐다.&lt;br&gt;&lt;br&gt;강 판사는 “A씨가 B씨와 합의하거나 B씨에게 용서 받지 못했고 죄질이 좋지 않다”면서도 “범행을 인정하며 반성하고 있고, 보낸 문자 대부분이 출교 처분에 대한 억울함을 호소하는 내용인 점, 피해 회복을 위해 300만원을 공탁한 점 등을 종합했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>행인 2명 들이받고 광교 뒤집어놓은 사슴 사흘만에 생포</title>
+      <link>https://www.chosun.com/national/incident/2024/11/09/3WORQJTCPZEEFHXL5NUMWH6V34/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/09/3WORQJTCPZEEFHXL5NUMWH6V34/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 09 Nov 2024 02:04:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JEKCVPTIHVA3FJ4OB5CHDVSEHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 경기 수원시에서 포획된 사슴/수원시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 수원시에서 출몰해 시민 2명을 뿔로 찌른 사슴이 포획됐다.&lt;br&gt;&lt;br&gt;9일 수원시 등에 따르면 이날 오전 9시쯤 수원시 장안구 하광교동의 한 식당 주변에서 수원시 의뢰를 받은 전문 구조단이 사슴 한 마리를 생포했다.&lt;br&gt;&lt;br&gt;이 사슴은 지난 6일 수원시 영통구 광교호수공원에서 최모(33)씨를, 장안구의 광교저수지 산책로에서 60대 여성 A씨를 잇달아 사슴뿔로 들이 받아 다치게 했다. 이 사고로 최씨는 좌측 복부 등을, A씨는 다리를 다쳤으나 생명에는 지장이 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;수원시는 신고 접수 후 시·구 담당 부서 공무원 및 경찰과 소방 등이 참여한 종합상황반을 꾸려 시민 안전 조치와 사고 예방, 순찰 등 활동에 나섰다. 이후 전문구조단을 별도로 투입했고, 전문구조단이 지난 8일 오후 10시부터 11시간 가량 잠복한 끝에 사슴을 포획할 수 있었다.&lt;br&gt;&lt;br&gt;수원시 관계자는 “현재 야생 사슴이 멸종 상태인만큼, 이번 사슴은 유기된 사육 사슴인 것으로 추정 중”이라며 “인근 사슴농장에 사슴을 임시 보관한 뒤 소유자가 나타나지 않을 경우 유기 동물 입양 절차를 진행할 방침”이라고 말했다. 광교 주변에는 수원시와 용인시, 의왕시 등에 사슴 농장 총 4곳이 운영되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>명태균 “가짜뉴스 의혹, 왜 조사 받아야 하느냐”… 檢, 재소환</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/09/7CNXRKLCJBHSRNDFQ6DOCWYJDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/09/7CNXRKLCJBHSRNDFQ6DOCWYJDM/</guid>
+      <dc:creator>창원=이민준 기자, 창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 09 Nov 2024 01:17:33 +0000</pubDate>
+      <content:encoded>‘윤석열 대통령 부부 공천 개입 의혹’의 키맨인 정치 브로커 명태균씨가 9일 검찰에 출석했다. 지난 8일 피의자 조사를 받은 뒤, 검찰이 다시 소환한 것이다. 명씨는 “정치자금법 위반 혐의에 대한 조사를 받으러 왔다”며 “가짜뉴스(로 제기된) 의혹을 왜 조사 받아야 하느냐”고 말했다.&lt;br&gt;&lt;br&gt;명씨는 이날 오전 9시 53분 창원지검에 출석했다. 전날 출석할 때와 같이 오른손에 지팡이를 짚은 채였다. 명씨는 “전날 검찰 조사에서 거짓, 허위 보도 등에 대해서 질문을 받고 답변을 했었다”며 “마음이 아프다”고 했다. 그는 취재진을 향해 “여러분이 계속 거짓의 산을 만들고, 거짓이 나오고 또 나와서 저를 이렇게 만들었다”고도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7XVVAEHRA5CPRKZHWGQ76JJYEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'윤석열 대통령 부부 공천 개입 의혹'의 핵심 인물인 정치 브로커 명태균씨가 9일 오전 창원지검에 출석하며 취재진 질문에 답하고 있다. /창원=김준호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;명씨는 이른바 ‘세비 9000만원 수수’ 의혹에 대해선 “모두 빌려준 돈을 받은 것일 뿐”이라고 했다. 윤 대통령에게 김영선 전 의원의 공천을 부탁했다는 의혹에 대해선 “그게 그렇게 중요한 질문이느냐”고 했다. 또 청와대 이전 관련 발언에 대해선 “그 당시 ‘청와대가 별로 좋지 않다’는 것을 많은 사람들이 자기 방식대로 주장하고 있었다”며 “그래서 제가 김종인 위원장님을 뵈러 가는 길에 청와대를 보고 제가 느낀 것을 말씀드린 것”이라고 했다.&lt;br&gt;&lt;br&gt;이날 명씨를 규탄하는 1인 시위를 벌인 시민단체 관계자와 명씨 사이의 말싸움도 벌어졌다. 이 관계자는 “어제는 꼬리를 내리고 왜 오늘은 당당하냐”며 따져 물었고, 명씨는 “무슨 꼬리를 내리느냐”며 “국민들에게 미안해서 그렇지”라고 했다.&lt;br&gt;&lt;br&gt;창원지검 전담수사팀(팀장 이지형 차장검사)은 이날 오전 10시부터 명씨를 정치자금법 위반 혐의 피의자 신분으로 소환해 조사한다. 지난 8일에도 명씨를 소환했으나, 명씨가 무릎 통증 등을 호소하며 조사를 일찍 마쳐달라고 요청했었다. 조사는 출석 8시간 만인 오후 6시쯤 끝났다.&lt;br&gt;&lt;br&gt;검찰은 명씨에게 김 전 의원으로부터 공천 대가로 회계담당자인 강혜경씨를 통해 금품을 받았는지를 캐물은 것으로 전해졌다. 검찰은 명씨가 2022년 6월 국회의원 보궐선거 당시 김 여사와의 친분을 이용해 김 전 의원이 국민의힘 공천을 받도록 도와주고, 그 대가로 9000여 만원을 받은 혐의를 수사 중이다. 명씨는 “강씨에게 빌려준 6000만원을 돌려받은 것일 뿐, 공천 대가가 아니다”라고 했고, 나머지 3000여 만원도 “내가 받은 것이 아니다”라고 부인했다고 한다.&lt;br&gt;&lt;br&gt;검찰은 명씨가 지난 2021년 말 지방선거 예비후보 2명에게 공천을 미끼로 2억4000만원을 수수했다는 의혹을 비롯해, 불법 여론조사 의혹, 창원 국가산업단지 선정 과정 개입 의혹 등 제기된 의혹 전반을 조사한다는 방침이다. 검찰은 이날 명씨의 정치자금법 위반 혐의에 대한 조사를 마무리할 계획인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>'허위 인터뷰 의혹' 김만배 이어 신학림도 보석 청구</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/09/ABACUZPZRBB2XA7RCPGXL25LWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/09/ABACUZPZRBB2XA7RCPGXL25LWM/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 09 Nov 2024 01:25:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RYR3PDUSJBDWHHDY3N65V6UXPM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘대선 개입 여론 조작’ 의혹 사건으로 구속 기소된 뉴스타파 전문위원 출신 신학림씨가 법원에 보석(保釋)을 청구했다.&lt;br&gt;&lt;br&gt;9일 법조계에 따르면, 신씨는 지난 6일 이 사건을 심리 중인 서울중앙지법 형사21부(재판장 허경무)에 보석 신청서를 접수했다.&lt;br&gt;&lt;br&gt;신씨는 화천대유 실소유주 김만배씨와 짜고 윤석열 대통령의 과거 검사 시절 수사 무마 의혹에 대한 허위 인터뷰를 한 뒤, 그 내용을 뉴스타파에서 보도해 주는 대가로 1억6500만원을 받은 혐의로 지난 7월 구속 기소됐다. 검찰은 두 사람이 공모해 윤 대통령의 명예를 훼손하는 허위 내용의 인터뷰를 보도해 선거에 영향을 미치려 한 것으로 의심하고 있다.&lt;br&gt;&lt;br&gt;1심에서는 최대 6개월간 피고인을 구속할 수 있는데, 신씨는 내년 1월 구속 기한이 만기 된다. 앞서 김씨도 지난달 31일 법원에 보석을 청구했다.&lt;br&gt;&lt;br&gt;김씨와 신씨의 인터뷰는 2021년 9월 15일 진행됐는데, ‘2011년 부산저축은행 사건 때 중수2과장이었던 윤 대통령이 당시 대장동 대출 브로커 조우형씨를 만나 커피를 타 주고 수사를 무마했다’는 것이 골자다. 김씨는 신씨에게 “윤석열은 (박영수가) 데리고 있던 애지” “윤석열이 ‘니가 조우형이야?’ 이러면서” “(조씨가) 검찰에 갔더니 커피 한잔 주면서 (검사가) 보내더래”라고 말했고, 뉴스타파가 이를 보도했다.&lt;br&gt;&lt;br&gt;그러나 당사자인 조우형씨는 최근 이 사건 재판에 증인으로 나와 ‘윤석열 수사 무마 의혹’이 모두 사실이 아니라고 말했다. “윤 대통령과 수사 중 만난 적도, 커피를 타준 적도 없다”는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>도박 자금 안 준다고 모친 폭행한 30대, 어머니는 선처 원했다</title>
+      <link>https://www.chosun.com/national/incident/2024/11/09/WLWBB4ZOWVDVZMRAQJAGSTPYTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/09/WLWBB4ZOWVDVZMRAQJAGSTPYTY/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 09 Nov 2024 01:15:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RIFG3TNLCBHNFLVN75OUOVHNJE.png"&gt;&lt;figcaption&gt;&lt;small&gt;전주지법 청사 /전주지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도박 자금에 쓸 돈을 주지 않는다며 어머니를 수차례 폭행했다가 징역형을 선고 받은 30대 남성에게 항소심에서도 같은 형이 선고됐다.&lt;br&gt;&lt;br&gt;전주지법 형사 3-3부(재판장 정세진)는 존속폭행·재물은닉 등 혐의로 기소된 A(39)씨에 대한 항소심에서 “형이 가볍다”는 검사 항소를 기각하고 원심과 같은 징역 10개월에 집행유예 2년을 선고했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 3월 6일 전북 익산의 주거지에서 어머니 B씨의 목을 조르고 머리채를 잡아 넘어뜨리는 등 폭행한 뒤, B씨 소유의 시가 180만원 상당 금목걸이를 훔쳐 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 어머니 B씨에게 얹혀 살면서 지속적으로 도박 자금을 요구하다 B씨가 “돈 나올 곳이 없다”며 이를 거절하자 “돈 구해오기 전까진 방 밖으로 못 나간다”며 B씨를 폭행하고 그의 물건을 빼앗아 달아난 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 B씨가 “목걸이를 돌려달라”고 요청하자 얼마 후 택배로 금목걸이를 돌려준 것으로 확인됐다. 지난 2021년 11월에도 A씨는 B씨가 돈을 빌려주지 않자 폭행한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;1심 재판부는 A씨에게 “도박 자금을 목적으로 수차례 모친을 폭행해 죄질이 나쁘나, 금목걸이를 반환하고 반성하는 점 등을 감안했다”며 징역 10개월에 집행유예 2년을 선고했고, 검찰은 “형이 가볍다”며 항소했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피해자인 B씨가 아들인 A씨의 처벌을 원치않는다는 탄원서를 제출했고, 원심에서 선고한 형이 가볍다고 볼 수 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>’허위 인터뷰 의혹’ 구속된 김만배, 법원에 보석 청구</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/01/V44KWU6HFFBNVF5A423ZMX7CRM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/01/V44KWU6HFFBNVF5A423ZMX7CRM/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 01 Nov 2024 08:53:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AZYDVU52JYABCQTBSDRQLYYYKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;화천대유 실소유주 김만배씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘대선 개입 여론 조작’ 의혹 사건으로 구속 기소된 화천대유 실소유주 김만배씨가 법원에 보석을 청구했다.&lt;br&gt;&lt;br&gt;1일 법조계에 따르면, 김씨 측은 전날 이 사건을 심리하는 서울중앙지법 형사21부(재판장 허경무)에 보석 청구서를 제출했다.&lt;br&gt;&lt;br&gt;김씨는 신학림 전 뉴스타파 전문위원과 짜고 윤석열 대통령의 과거 검사 시절 수사 무마 의혹에 대한 허위 인터뷰를 한 뒤, 그 내용을 뉴스타파에서 보도해 주는 대가로 1억6500만원을 주고받은 혐의로 지난 6월 구속됐다. 검찰은 김씨와 신씨가 공모해 윤 대통령의 명예를 훼손하는 허위 내용의 인터뷰를 보도해 선거에 영향을 미치려 한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;법원은 지난 6월 김씨와 신씨에 대해 “증거인멸과 도주 염려가 있다”며 구속영장을 발부했다. 1심에서는 최대 6개월간 피고인을 구속할 수 있는데, 김씨는 내년 1월 구속 기한이 만기 된다. 이에 법원이 사건 관련인 접촉 제한 등 일정한 조건을 걸고 김씨의 보석 신청을 받아줄 수도 있다.&lt;br&gt;&lt;br&gt;대장동 개발 사업 비리의 핵심 인물인 김씨는 관련 사건으로 총 세 차례 구속됐다. 앞서 2021년 11월 성남도개공에 손해를 끼친 혐의(배임) 등으로 처음 구속됐고 추가 영장이 발부돼 총 1년간 구속됐다. 이후 구속 기한 만료로 풀려났지만 대장동 범죄 수익 340억원을 숨긴 혐의 등으로 작년 2월 다시 구속됐고, 같은 해 9월 풀려났다.&lt;br&gt;&lt;br&gt;한편, 김씨는 지난 2월 성남도시개발공사 설립을 도와달라고 당시 최윤길 성남시의회 의장에게 청탁하고 뇌물을 준 혐의로 1심에서 징역 2년 6개월을 선고받았지만 법정 구속은 되지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>게임 방해했다고 어머니 폭행하고 굶겨 숨지게 한 20대 남성 징역 4년</title>
+      <link>https://www.chosun.com/national/incident/2024/11/09/2JFLFAOCABE5PLVUGSO3ZLANXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/09/2JFLFAOCABE5PLVUGSO3ZLANXA/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 09 Nov 2024 00:51:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4JSOCHIOSRUU5HQ2M6HQ5QLZS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산지법 서부지원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;컴퓨터 게임을 방해한다는 등의 이유로 아픈 어머니를 폭행하고 음식을 주지 않는 등 방치하다 숨지게 한 20대 남성에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;부산지법 서부지원 형사1부(재판장 이진재)는 존속유기치사 혐의로 기소된 20대 남성 A씨에게 징역 4년을 선고했다고 9일 밝혔다. A씨는 지난 2021년 12월부터 작년 3월까지 어머니인 50대 B씨를 주먹과 발로 폭행하고 식사를 못하게 해 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;B씨는 약 20년 전부터 정신질환을 앓고 있어 가족의 도움 없이 스스로 일상생활을 하기 어려운 상태였다고 한다. 그동안은 A씨의 아버지와 누나 등 가족 4명이 함께 생활했으나 A씨의 아버지가 2020년 3월 건강 악화로 요양병원에 입원하게되자 A씨 누나가 아버지를 간병하게 됐다.&lt;br&gt;&lt;br&gt;집에 남은 A씨는 어머니 B씨를 혼자 돌보던 중 자신이 사놓은 음식을 B씨가 먹거나 컴퓨터 게임을 지속적으로 방해하자 B씨를 폭행했다. 이후 A씨는 B씨에게 음식은 물론 약까지 주지 않고 방치했다. 결국 B씨는 지난해 3월 17일 건강 악화로 집에서 숨졌다.&lt;br&gt;&lt;br&gt;재판부는 “A씨가 범행을 인정하고 있으며 홀로 어머니를 돌보기 어려운 측면이 있었다고는 하나, 폭행과 영양실조로 몸을 움직이기조차 힘든 어머니를 방치해 죽음에 이르게 했고, 폭행 사실이 밝혀질까봐 시신을 방에 방치하는 등 죄질이 좋지 않다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>포근한 가을 주말…전남·제주는 일요일 비 소식</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/09/UIBMWHAAGBAUZL2ZWR7OPL5ECA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/09/UIBMWHAAGBAUZL2ZWR7OPL5ECA/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 09 Nov 2024 01:02:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W3ISUGS3FBLHLP2MFGTRABYCWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북 군산시 군산호수를 찾은 시민들이 억새길 사이를 지나며 가을의 정취를 느끼고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 9일은 전국이 대체로 맑은 가운데 낮 기온이 다시 오르며 일교차가 크겠다. 기상청은 이날 전국이 대체로 맑고, 경상권은 가끔 구름이 많겠다고 예보했다.&lt;br&gt;&lt;br&gt;낮 최고 기온은 20도 안팎으로 오르며 낮과 밤의 기온차가 내륙을 중심으로 10~15도로 매우 크겠다. 주요 도시의 낮 최고 기온은 서울 19도, 인천 19도, 수원 17도, 춘천 17도, 강릉 18도, 청주 19도, 대전 19도, 전주 20도, 광주 21도, 대구 19도, 부산 21도, 제주 22도다.&lt;br&gt;&lt;br&gt;경상권 해안에는 너울에 의한 높은 물결이 백사장으로 강하게 밀려오는 곳이 있겠으니, 해안가 안전 사고에 유의해야 한다. 미세먼지 농도는 인천이 ‘나쁨’, 그 밖의 지역은 ‘좋음’~‘보통’일 것으로 예상된다.&lt;br&gt;&lt;br&gt;일요일인 10일은 중부지방에 가끔 구름이 많고, 남부지방과 제주도는 대체로 흐리겠다. 특히 제주도는 새벽부터, 전남권과 경남 남해안은 오전부터 가끔 비가오는 곳이 있겠다. 예상 강수량은 광주·전남 5~20㎜, 경남 남해안 5~10㎜, 제주도 20~60㎜다. &lt;br&gt;&lt;br&gt;아침 최저기온은 6~15도, 낮 최고기온은 16~20도로 예보됐다. 제주도는 바람이 순간 시속 55㎞ 내외로 강하게 부는 곳이 있겠으니 시설물 관리와 안전사고에 유의해야 한다. 바다의 물결은 동해·남해 앞바다에서 0.5~1.5m, 서해 앞바다에서 0.5~1.0m로 일겠다. 미세먼지 농도는 전 권역이 ‘좋음’~‘보통’으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“눈비 몰아쳤지만…” 6살 아들 업고 히말라야 4000m 오른 여배우</title>
       <link>https://www.chosun.com/national/people/2024/11/09/5G6P5R473FGPXF2EPXP2Z2TUBM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/09/5G6P5R473FGPXF2EPXP2Z2TUBM/</guid>
@@ -735,14 +807,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WLJ7ZK23SRNUHMJYRMIA44J3AM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 대구 동구 금호강 안심습지에서 대구시 보건환경연구원 동물방역과 관계자들이 조류인플루엔자(AI)를 예방하기 위해 방역차량을 이용해 소독작업을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 음성에서 고병원성 조류인플루엔자(AI)가 발생했다.&lt;br&gt;&lt;br&gt;8일 충북도는 농림축산검역본부가 전날 해당 농장에서 검출된 고병원성 H5N1형 AI 항원에 대해 정밀 검사한 결과 고병원성 AI로 확인됐다고 밝혔다.&lt;br&gt;&lt;br&gt;지난달 29일 강원 동해의 산란계 농장에서 첫 고병원성 AI가 발생한 데 이어 두 번째이다.&lt;br&gt;&lt;br&gt;고병원성 AI 중앙사고수습본부(중수본)는 해당 농장에 초동대응팀을 투입해 출입 통제, 살처분, 역학조사 등 방역 조치를 하고 있다.&lt;br&gt;&lt;br&gt;또 전국 오리사육 농장 및 관련 축산 시설과 차량에 대해 전날 오후 11시부터 24시간 동안 일시 이동중지 명령을 내렸다.&lt;br&gt;&lt;br&gt;중수본은 철새 도래지 등의 출입을 삼가고, 농장 출입 차량을 2단계 소독하는 등 바이러스 확산을 방지하기 위해 기본적인 방역 수칙을 철저히 지킬 것을 주문했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[두근두근 뇌 운동] [2225] 제목 외우기</title>
-      <link>https://www.chosun.com/national/nie/2023/09/26/BJZWNB7W6ZF6JOT3TDTKLIPE7I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2023/09/26/BJZWNB7W6ZF6JOT3TDTKLIPE7I/</guid>
-      <description/>
-      <pubDate>Fri, 08 Nov 2024 07:33:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QPFMWNLV6JHSRKWWNEOJJ3TY7Y.jpg"&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘군부대 공사장 토사 매몰 사망사고’ 중소건설사 대표 집유</title>
       <link>https://www.chosun.com/national/national_general/2024/11/08/52444GESQBEWBCYQSLRB5AHNLY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/08/52444GESQBEWBCYQSLRB5AHNLY/</guid>
@@ -783,15 +847,6 @@
       <content:encoded>국민의힘 전당대회에서 친윤석열계가 한동훈 국민의힘 대표의 조기 낙마를 모의한다는 일명 ‘김옥균 프로젝트’ 지라시 유포 사건을 서울남부지검이 수사한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AYXQOIGPXNF6KADYKS6VT2EFMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한동훈 국민의힘 대표가 11월 7일 오전 서울 여의도 국회에서 열린 최고위원회의에서 생각에 잠겨 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 이 사건을 배당받았던 서울중앙지검 형사3부(부장 최순호)는 최근 피의자 주거지 등을 고려해 사건을 서울남부지검으로 이송했다. 사건은 형사1부(부장 이승훈)에 배당된 상태다. 다만 선거 범죄를 전담하는 형사6부(부장 추창현)로 재배당될 가능성도 있다.&lt;br&gt;&lt;br&gt;앞서 서울경찰청은 김옥균 프로젝트 지라시를 유포한 피의자 5명을 특정, 명예훼손 혐의로 지난달 18일 서울중앙지검에 송치했다. 이들은 국민의힘 지지자 등이 모인 단체 대화방에 이 지라시를 유포해 이철규 국민의힘 의원 등의 명예를 훼손한 혐의를 받는다. 다만 송치된 이들 중 지라시를 최초로 작성한 사람은 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김옥균 프로젝트 지라시는 지난 7월 23일 국민의힘 전당대회에서 한 대표가 당선될 경우에 대비해 친윤계가 조기 낙마 계획을 짜고 있다는 내용이다. 1884년 12월 4일 김옥균 등 급진개화파가 청나라로부터의 독립과 조선 개화를 내걸고 갑신정변을 일으켰다가 사흘 만에 실패로 끝난 것에 빗댄 것이다.&lt;br&gt;&lt;br&gt;지라시에서 핵심 주동자로 지목됐던 이철규 국민의힘 의원은 “황당한 얘기”라며 지난 7월 유포자들을 경찰에 고소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰에 흉기 들고 달려들던 남성… 테이저건 겨누자 얌전 </title>
-      <link>https://www.chosun.com/national/national_general/2024/11/08/LMFRJMOMDVGWTOIUKQERNJSETQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/08/LMFRJMOMDVGWTOIUKQERNJSETQ/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Nov 2024 06:21:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZLP4L46PRZCQXPFDRNR3Y6XCKU.gif"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 흉기 난동을 부리는 남성을 문으로 막고, 테이저건을 꺼내고 있다. /서울경찰 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취한 채 흉기를 들고 경찰에게 달려들던 남성이 테이저건을 보고 얌전해지는 모습이 담긴 영상이 공개됐다.&lt;br&gt;&lt;br&gt;서울경찰청은 7일 유튜브 채널 서울경찰을 통해 당시 상황이 담긴 영상을 공개했다. ‘칼 들고 경찰에게 돌진, 테이저건까지 장전한 그날의 현장’이라는 제목의 영상에는 술 취한 남성 A씨가 신고받고 출동한 경찰에게 위협적인 태도를 보이는 모습이 고스란히 담겼다.&lt;br&gt;&lt;br&gt;서울 종암경찰서에 따르면, 사건은 지난달 16일 오후 11시 40분쯤 성북구의 한 다세대 주택에서 벌어졌다.&lt;br&gt;&lt;br&gt;이를 보면, 상의를 탈의한 채 집 주변을 배회하던 A씨는 처음엔 경찰에 협조적인 태도를 보이다, 집에 들어가더니 돌변해 현관문을 거세게 여닫으며 심하게 소란을 피웠다. 이에 경찰 2명이 저지를 위해 다가가자, 돌연 집 안에서 흉기를 챙겨 들고는 경찰에 달려들었다. 경찰은 문을 방패 삼아 몸을 피했고, 이 과정에서 한명이 문을 막는 동안 다른 한명은 빠르게 테이저건을 꺼내 방어 태세를 취했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TNVDACVMEZHWZFBDRINIEQZVW4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;남성이 흉기를 소지한 채 경찰에게 달려들려고 하자, 경찰이 문을 방패 삼아 막고 있다. /서울경찰 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금방이라도 경찰을 공격할 모습이던 A씨는 테이저건을 보곤 얌전해졌다. 경찰이 맨몸으로 제압을 시도할 땐 흉기를 들고 달려들다가, 테이저건을 조준한 채 흉기를 버리라고 하자 요구에 응했다. 당시 상황에 대해 출동한 경찰 중 한명인 손창훈 종암경찰서 월곡지구대 경위는 “부엌으로 가더니 갑자기 식칼을 집어 들고 저희한테 위협하며 달려온 상황이었다”며 “테이저건을 꺼내 조준하면서 공격 의사를 상실하게 만들었다”고 설명했다.&lt;br&gt;&lt;br&gt;결국 A씨는 현행범으로 체포됐고, 특수공무집행방해 등의 혐의로 구속됐다.&lt;br&gt;&lt;br&gt;경찰 조사에서 A씨는 이웃과의 불화로 화가 났다고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>서울의대, 강희경 교수 비대위 체제 재신임...78%가 찬성 </title>
       <link>https://www.chosun.com/national/welfare-medical/2024/11/08/WVUMOLCLMVB73GUWYIGGSWA5UI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/11/08/WVUMOLCLMVB73GUWYIGGSWA5UI/</guid>
@@ -799,24 +854,6 @@
       <description/>
       <pubDate>Fri, 08 Nov 2024 06:10:05 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CQKK7PR3MVEONLM7QHAQKUPCLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 10일 서울 종로구 서울대학교 의과대학 융합관에서 열린 서울대 의대 교수 비대위·보건복지부 주최 ‘의료개혁, 어디로 가는가‘ 토론회 현장./김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대 의대·병원 교수 비상대책위원회의 현 비대위에 대한 재신임 투표 결과 현 비대위가 재신임됐다.&lt;br&gt;&lt;br&gt;8일 서울대 의대 비대위는 서울대 의대 병원교수들을 상대로 현 비상대책위에 대한 재신임투표 결과 비대위가 재신임됐다고 밝혔다. 서울대의대·병원 교수들은 지난 6일부터 사흘간 강희경 교수를 비상대책위원장으로 하는 현 비대위에 대한 재신임 여부를 묻는 투표를 진행했다. 그 결과 총 응답자 683명의 77.7%(531명)가 현재 비대위를 계속 신임한다고 답변했다.&lt;br&gt;&lt;br&gt;앞서 지난 6일 서울대 의대 비대위는 비대위 재신임 여부를 묻는 투표 메일을 교수들에게 보냈다. 이번 투표에서는 ‘3기 비대위 신임’에 대한 찬반 의견만 조사했다. 3기 비대위는 올해 5월 강희경 서울대병원 소아청소년과 교수가 위원장으로 선출된 뒤 6개월째 이어지고 있다. 1기는 정진행 위원장, 2기는 방재승 위원장 체제로 운영됐다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>박지성, 축구협회에 쓴소리...  “정직하게 이끌 사람 필요”</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/08/MBCCVQ26EBCJLA743KZCMAWXD4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/08/MBCCVQ26EBCJLA743KZCMAWXD4/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Nov 2024 06:19:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVNU3X3UIZKUBL2UOA3LP6AJIQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;박지성 JS파운데이션 이사장이 8일 오전 경기도 수원시 팔달구 WI컨벤션에서 열린 제13회 JS 파운데이션 재능학생 후원금 전달식을 마친 후 취재진 질문에 답변하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박지성 JS파운데이션 이사장은 8일 홍명보 축구 대표팀 감독 선임 문제 등 대한축구협회를 둘러싼 각종 논란과 관련해 “(축구협회가) 지금 상황으로도 많은 사람들에게 신뢰감을 잃은 것은 분명한 사실”이라며 “이를 어떻게 회복하고, 올바른 방향으로 나아갈지 고민하기 전에 문제를 확실히 매듭지어야 한다”고 말했다.&lt;br&gt;&lt;br&gt;박 이사장은 이날 경기 수원월드컵경기장 WI컨벤션에서 진행된 후원 행사에서 취재진과 만나 “신뢰를 회복하고, 올바른 방향으로 나아가려면 그 문제를 확실히 매듭짓고 나아가야 하지 않나 싶다. 이 문제가 어떻게 끝나느냐에 따라 달라질 거다. 결과를 지켜봐야 한다”며 이렇게 말했다.&lt;br&gt;&lt;br&gt;박 이사장은 현 국면에서 자신이 할 수 있는 역할을 묻는 데 대해서는 “무슨 역할을 어떻게 할 수 있을지 모르겠다. 결국 축구협회도 역시 행정 업무를 하는 집단이고, 이 일을 잘하는 사람들이 모이는 곳”이라며 “결국 행정 일을 잘 매니징(관리)할 수 있는 사람이 일을 해 나가야 한다. 그게 누가 됐든 그 일을 잘할 수 있는 사람, 정직하게 이끌어 나갈 수 있는 사람이 필요하지 않을까”라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “내가 도울 수 있는 일이 있다면, 무엇이 될지 모르겠지만, 내가 가지고 있는 경험들, 해외 나가서 쌓은 경험 등을 토대로 기꺼이 도울 생각”이라고 했다.&lt;br&gt;&lt;br&gt;박 이사장은 대한축구협회 등에 대한 국정감사를 두고서는 “전체적으로 국감을 다 보지는 않았지만 많은 언론이 정리한 내용을 봤다”며 “왜 많은 사람이 분노하고 있는지, 이해가 안 되는지 저 또한 느낄 수 있었다. 과연 어떻게 결말이 날 것인지 생각만 머릿속에 떠돈다”고 했다.&lt;br&gt;&lt;br&gt;박 이사장은 최근 잔니 인판티노 국제축구연맹(FIFA) 회장과 셰이크 살만 빈 에브라힘 칼리파 아시아축구연맹(AFC) 회장이 대한축구협회에 힘을 실어주는 발언을 내놓은 데 대해서는 “FIFA나 AFC가 할 수 있는 것은 솔직히 아무것도 없다. 당연히 이 사안에 관여하고 싶어 하지 않을 것이고, 원론적인 답변만 할 수 있는 위치에 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “결국 자체적으로 우리가 우리 안에서 이 문제에 대한 해결책을 찾아야 한다. 지금은 협회 이외 사람들은 다 다른 쪽으로 (축구협회에 대해) 한마음으로 보고 있는 것 같아서 안타깝다”고 했다.&lt;br&gt;&lt;br&gt;박 이사장은 “한국 축구를 위해서 뭘 할 수 있을지 끊임없이 고민하고 있다”며 “행정적인 일이 아무나 잘할 수 있는 게 아니다. 내 능력도 능력이지만 환경도 상당히 중요하다고 봐서 계속 고민하는 상황”이라고 했다.&lt;br&gt;&lt;br&gt;박 이사장은 지난 7월에도 축구협회를 겨냥해 “체계 자체가 완전히 무너졌다”고 강도 높게 비판한 바 있다. 박 이사장은 당시 정몽규 축구협회장의 거취와 관련한 질문에 대해서도 “결국 회장 스스로 선택해야 한다는 건 분명한 사실”이라고 했다.&lt;br&gt;&lt;br&gt;박 이사장은 “우리가 이것밖에 안됐나라는 생각에 슬프고 마음이 아프다”며 “축구협회가 신뢰를 회복하려면 왜 이런 일이 일어났는지 진실을 말해야 한다”고 했다. “지금 상황이 한국 축구의 근간이 흔들리는 진짜 위기일 수 있다고 생각한다”라고도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] ‘현역가왕’ 서혜진 PD 등 제작진, 업무방해 혐의로 고발 돼</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/08/O5S7GQJ6JZFI7D7VJFEA4LHPYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/08/O5S7GQJ6JZFI7D7VJFEA4LHPYU/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Nov 2024 05:32:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S55JP75CPZCEFF7FRYRLUICY4A.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 마포경찰서. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 최근 공정성 시비에 휘말린 MBN 오디션 프로그램 ‘현역가왕2′ 제작진 서혜진 PD 등을 처벌해 달라는 민원을 접수하고 정식 수사 여부를 검토하고 있다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 서울 마포경찰서는 8일 국민신문고를 통해 제출된 업무방해 혐의 민원 사건을 접수했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “국민신문고를 통해 민원을 접수한 건으로, 고발장을 받은 건 아니다”라며 “아직 해당 제작진을 입건하지는 않은 상태로 정식 수사 여부를 검토하고 있다”고 했다.&lt;br&gt;&lt;br&gt;최근 “해당 프로그램 예선 촬영 이후 본선에 추가 참가자가 갑자기 투입됐다”는 사실이 알려지며 공정성 논란이 일기 시작했다.&lt;br&gt;&lt;br&gt;본래 34명의 참가자들로 치뤄진 예선으로 4명의 참가자가 탈락했는데, 본선에 돌입하기에 앞서 갑작스럽게 2명의 현역 가수가 추가로 출연진 명단에 이름을 올렸다는 것이다.&lt;br&gt;&lt;br&gt;‘현역가왕2′ 제작진은 8일 오전 발표한 입장문을 통해 “본선 진행 방식 중 일부가 스포(스포일러)가 된 건 유감이지만, 이미 공평성과 형평성을 감안한 여러 가지 룰들이 마련되어 있다”라고 해명했지만, 논란은 더욱 확산되는 모양새다.&lt;br&gt;&lt;br&gt;MBN ‘현역가왕2′는 한일 수교 60주년을 맞이해 2025년 치러질 ‘한일가왕전’에 나갈 국가대표 남성 트로트 가수 톱7을 뽑는 서바이벌 예능 프로그램으로, 오는 26일 첫 방송될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“저 윤석열, 국민 괴롭혀”...‘尹 짜깁기 영상’ 제작자 檢 송치</title>
@@ -838,15 +875,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/RPIWP3LMZJEAPCOSJWKGOUHW5U.gif?width=595&amp;height=343&amp;auth=e441d36b751525c5d0d5b1f76dfae1aa6b4a635d87c630b2e73345fb6f28af24&amp;smart=true" type="image/jpeg" height="343" width="595">
         <media:description type="plain">대형 승합차가 달려오는 상황에 아이와 여성이 무단횡단을 하고 있다. /유튜브 한문철TV</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>네살 딸 용변 실수에 발길질… 20대 못난 아빠 ‘징역 8개월’</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/08/XQVGJSCKSRGF5H456SVMPGVIMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/08/XQVGJSCKSRGF5H456SVMPGVIMU/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>네살 딸이 용변을 실수했다는 이유로 발로 걷어차는 등 학대를 가한 20대 남성에게 1심에 이어 항소심 법원도 징역형을 선고했다.춘천지법 형사1부(재판장 심현근)는 아동복지법상 아동학대 등 혐의로 기소된 A(29)씨에게 원심과 같은 징역 8개월을 선고했다고 8일 밝혔다.</description>
-      <pubDate>Fri, 08 Nov 2024 05:02:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/24UPWP5OARX56LWFKEPUAFKDZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;네살 딸이 용변을 실수했다는 이유로 발로 걷어차는 등 학대를 가한 20대 남성에게 1심에 이어 항소심 법원도 징역형을 선고했다.&lt;br&gt;&lt;br&gt;춘천지법 형사1부(재판장 심현근)는 아동복지법상 아동학대 등 혐의로 기소된 A(29)씨에게 원심과 같은 징역 8개월을 선고했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 “원심 판결 선고 이후 양형에 반영할 만한 새로운 정상이나 형을 변경해야 할 정도로 특별한 사정 변경을 찾아볼 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 11월 강원 원주시 한 편의점에서 딸 B(4)양이 용변 실수를 했다는 이유로 달려들면서 발로 차 넘어뜨린 혐의를 받고 있다. A씨는 또 넘어진 B양을 일으켜 세운 뒤 또다시 양발로 걷어차 나뒹굴게 했다.&lt;br&gt;&lt;br&gt;A씨는 이 외에도 지난 1월 자택 거실에서 대화를 시도하려는 아내에게 욕설과 주먹을 휘두르는 등 2차례 폭행한 혐의도 공소장에 포함됐다.&lt;br&gt;&lt;br&gt;A씨는 1심 선고 이후 ‘형이 무겁다’며 항소를 했지만, 항소심 재판부는 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>승객 가방에서 명품 가방 등 훔친 항공사 하청 직원…징역 1년 추가</title>
@@ -903,24 +931,6 @@
       <content:encoded>윤석열 대통령 부부 ‘공천 개입’ 의혹의 핵심 인물인 정치 브로커 명태균씨가 8일 검찰 조사를 2시간가량 앞두고 자신의 소셜미디어에 “못난 아버지를 용서해달라”는 글을 남겼다. 명씨는 이날 오전 10시부터 창원지검에서 피의자 신분으로 조사를 받고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AOE5MH2OINHLFHDAY5NFXUDPSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 부부 ‘공천 개입’ 의혹의 핵심 인물인 정치 브로커 명태균씨가 8일 검찰 조사를 2시간가량 앞두고 자신의 소셜미디어에 “못난 아버지를 용서해달라”며 남긴 글. /명태균씨 페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;명씨는 이날 오전 8시 15분 자신의 페이스북에 “못난 아버지 용서해줘~사랑해”라는 게시글을 올렸다. 한 사찰을 찾아 절하는 모습의 사진도 함께 게시했다. 명씨는 자신의 페이스북을 통해 딸의 모습을 공개하는 등 자녀에 대한 애정을 보여왔었다.&lt;br&gt;&lt;br&gt;창원지검 전담수사팀(팀장 이지형 차장검사)은 명씨를 이날 오전 10시 정치자금법 위반 혐의 피의자 신분으로 소환해 조사하고 있다. 지난 9월 공천 개입 의혹이 불거진 뒤 첫 피의자 조사다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D7G67DOOTJJSFN5K6MJXBEYLFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 부부 '공천 개입' 의혹의 핵심 인물인 정치 브로커 명태균씨./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;명씨는 지난 2022년 국회의원 보궐선거 때 김 전 의원이 경남 창원의창 지역구 공천을 받는 과정에서 김 여사와의 친분을 이용해 도움을 주고, 김 전 의원으로부터 세비(歲費) 등 9031만6000원을 25회에 걸쳐 수수한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;명씨는 이날 오전 9시 38분쯤 회색 SUV를 타고 창원지검 청사에 도착했다. 그는 뒷좌석에서 내리며 지팡이를 짚었다. 최근 양 무릎에 철심을 박는 수술을 받아, 거동이 어렵다고 밝힌 바 있다. 자신의 페이스북에 철심이 박힌 엑스레이 사진을 올리기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>검찰, 구영배 큐텐 대표 소환...구속영장 재청구 가능성</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/08/M2EG72MYH5CVPCGERVYDJTMSOA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/08/M2EG72MYH5CVPCGERVYDJTMSOA/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Nov 2024 01:11:24 +0000</pubDate>
-      <content:encoded>티몬·위메프의 ‘대규모 미정산 사태’를 수사하는 검찰이 8일 구영배 큐텐그룹 대표를 불러 조사하고 있다. 구 대표가 검찰 조사를 받는 것은 이번이 세 번째로, 지난달 8일 구속영장 기각 이후로는 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TXELUICWQ5KBNJQ5CZBFPQWGUQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;구영배 큐텐 대표가 지난달 10일 영장실질심사를 받기 위해 서울중앙지법에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 티몬·위메프 전담수사팀(팀장 이준동 부장검사)은 이날 오전 구 대표를 횡령, 사기, 배임 등 혐의 피의자 신분으로 불러 조사하고 있다. 구 대표는 ‘사기 등 혐의를 여전히 부인하느냐’는 취재진 질문에 “당연히 그렇다”고 답했다.&lt;br&gt;&lt;br&gt;구 대표는 티몬·위메프 대규모 미정산 사태의 정점으로 꼽힌다. 그는 정산대금 지급 불능 상황을 인식했음에도 류광진 티몬 대표·류화현 위메프 대표와 공모해 판매자들을 속이고 돌려막기식 영업을 지속해 1조5950억원 상당의 물품 판매 대금 등을 가로챈 혐의를 받는다. 또 티몬·위메프의 상품을 큐익스프레스에서 판매하게 하는 ‘일감 몰아주기’식 경영으로 티몬에 603억여 원, 위메프에 89억여 원의 손해를 입힌 혐의도 있다. 미국 전자상거래 회사 ‘위시’ 인수대금 등으로 티몬·위메프 자금 671억원을 횡령한 혐의도 받는다.&lt;br&gt;&lt;br&gt;검찰은 구 대표와 류광진·류화현 대표에 대해 지난달 구속영장을 청구했지만 법원은 “혐의에 다툼의 여지가 있다”며 모두 기각했다.&lt;br&gt;&lt;br&gt;검찰은 영장 기각 이후 검찰에 고소장을 낸 피해자들을 전수조사 하는 등 보강 수사를 벌여왔다. 지난 4~5일엔 류광진·류화현 대표도 조사했다.&lt;br&gt;&lt;br&gt;법조계에선 검찰이 구 대표에 대한 조사 이후 구속영장을 재청구할 가능성이 크다는 전망이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국회 ‘검찰 특활비·특경비’ 전액 삭감에…법무부 검찰과장 사표</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/08/JSCAXU5VONAJPDLEE3DJ7OCDSI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/08/JSCAXU5VONAJPDLEE3DJ7OCDSI/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Nov 2024 00:47:58 +0000</pubDate>
-      <content:encoded>검찰 예산을 책임지는 법무부 검찰과장이 특수활동비·특정업무경비 전액 삭감에 항의하며 사표를 냈다.&lt;br&gt;&lt;br&gt;임세진 법무부 검찰과장은 지난 7일 밤 국회 법제사법위원회 예산결산기금심사소위가 내년도 정부 예산안 중 검찰 특활비 80억원과 특경비 507억원을 전액 삭감하기로 의결한 직후 사표를 제출했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RN6D63SO5FLKHKV6Z5ARVXUUHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오전 국회에서 법무부 내년 예산을 심사하기 위한 법제사법위원회 예산결산기금심사소위원회가 열리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임 과장은 “전국 검사와 수사관들이 수사에 사용하는 특경비까지 삭감하면 사실상 수사가 불가능하게 된다”면서 “책임감과 함께 무력감을 느꼈다”고 했다.&lt;br&gt;&lt;br&gt;특활비는 기밀유지가 요구되는 정보 활동과 사건 수사 등에 쓰인다. 특경비는 수사 업무에 소요되는 비용을 충당하기 위해 지급되는 경비다.&lt;br&gt;&lt;br&gt;전날 예결심사소위의 특활비·특경비 전액 삭감은 야당 단독으로 이뤄졌다. 국민의힘 의원들은 야당이 예산안을 일방적으로 처리한다고 반발하며 의결 과정에 참여하지 않았다. 더불어민주당은 검찰이 특활비와 특경비를 다른 용도로 전용한 사례들이 발견됐고, 검찰 제출 자료에서 사용 목적·대상 등이 입증되지 않아 전액 삭감했다는 입장이다.&lt;br&gt;&lt;br&gt;민주당은 8일 법사위 전체회의에서 특활비·특경비를 전액 삭감한 예산안을 의결할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“아스팔트 뚫고 주차자리 찜”…자물쇠까지 꽁꽁 감아 고깔 세운 이웃 </title>
       <link>https://www.chosun.com/national/national_general/2024/11/08/4VJYUXJ33BD23FPFBVQ65YJVB4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/08/4VJYUXJ33BD23FPFBVQ65YJVB4/</guid>
@@ -937,15 +947,6 @@
       <description/>
       <pubDate>Thu, 07 Nov 2024 21:09:42 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5CNDNZNJT5HRLMTNNQYNGRROTU.png"&gt;&lt;figcaption&gt;&lt;small&gt;해양경찰 로고. /해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 오전 4시 34분쯤 제주 비양도 북서쪽 약 24㎞ 해상에서 부산 선적 선망 어선 A(129t)호가 침몰 중이라는 신고가 해경에 접수됐다.&lt;br&gt;&lt;br&gt;해경에 따르면 A호 승선원은 시스템상 27명으로, 이 중 현재 14명은 구조됐으나 2명은 의식이 없고 12명은 의식이 있는 상태로 파악됐다.&lt;br&gt;&lt;br&gt;해경은 실종자 13명을 찾기 위해 현장에서 수색을 벌이고 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘경찰 폭행’ 김동환 빙그레 사장 1심 벌금형</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/08/7OIBXFECQNHHLDBKBW6DKYLSGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/08/7OIBXFECQNHHLDBKBW6DKYLSGI/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Nov 2024 15:45:00 +0000</pubDate>
-      <content:encoded>술에 취해 소란을 피우다 경찰관을 폭행한 혐의를 받는 김동환(41) 빙그레 사장이 1심에서 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;서울서부지법 형사10단독 성준규 판사는 7일 공무집행방해 혐의로 기소된 김 사장에게 벌금 500만원을 선고했다. 재판부는 “술에 취한 상태에서 112 신고를 받고 출동한 경찰관을 폭행한 경위를 볼 때 책임이 가볍다고 볼 수 없지만 범행 후 반성하고 있고, 피해 경찰관이 선처를 호소하는 점 등을 형량 산정에 고려했다”고 했다.&lt;br&gt;&lt;br&gt;김 사장은 지난 6월 서울 용산구의 한 아파트 단지에서 음주 상태로 소란을 피우다 주민 신고를 받고 출동한 경찰관의 팔뚝을 여러 차례 때리고 얼굴을 향해 주먹을 휘둘렀다. 또 김 사장을 순찰차에 태우려던 경찰관의 인중을 머리로 들이받기도 했다.&lt;br&gt;&lt;br&gt;김 사장은 지난 15일 첫 공판에서 “폐를 끼쳤던 경찰관에게 다시 한번 사과의 말씀을 전하고 싶다”며 “앞으로 행실을 조심하고 국가와 사회에 봉사하는 마음가짐으로 살겠다”고 했다. 김 사장의 변호인은 “통제할 수 없을 정도로 술을 마셔 범행에 이르게 된 점을 깊이 반성하고 있다”며 “피고인이 전과가 없고 자신의 잘못을 인정하고 있는 점을 고려해달라”고 했다.&lt;br&gt;&lt;br&gt;이날 정장 차림에 검은 마스크를 착용한 김 사장은 선고 직후 “폭행 피해자에게 할 말은 없는지” 등의 질문에 답하지 않고 법원을 빠져나갔다. 빙그레 사주 3세인 김 사장은 2014년 빙그레에 입사했고 2021년 임원으로 승진, 지난 3월 사장이 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 능력·청렴·신뢰 없는 ‘3無' 강남경찰서…특별 관리 받아도 소용 없어</title>
