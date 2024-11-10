@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이충상 인권위 상임위원, 돌연 자진 사퇴</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/08/6HUUVQ3K25HBJGPUSLEITXTWXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/08/6HUUVQ3K25HBJGPUSLEITXTWXA/</guid>
+      <dc:creator>김보경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Nov 2024 12:37:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QKAU5RPBY5LJ3JXTA3L7ZH2OQI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8일 이충상 국가인권위원회(인권위) 상임위원이 서울 여의도 국회에서 열린 운영위원회의 인권위 국정감사에서 의원들의 질의에 답변하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회(인권위) 상임위원인 이충상 인권위원이 돌연 사의를 표명했다.&lt;br&gt;&lt;br&gt;인권위는 “이충상 상임 인권위원이 최근 사직서를 제출했다“고 밝혔다. 인권위 관계자에 따르면 이충상 상임위원의 임명권자는 대통령으로, 이에 따른 사직서 처리 절차는 상당 시간 걸릴 것이라고 전했다. 인권위에 따르면 이 위원 임기는 내년 10월까지다.&lt;br&gt;&lt;br&gt;이 위원은 판사 출신으로 변호사와 경북대 법전원 교수를 지낸 뒤 지난 2022년 인권위 상임위원으로 임명돼 지난 2년간 활동했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 국가보안법 사범 5년 새 4배로... 유관단체 ‘국면전환용 공안탄압 금지’ ‘경찰 규탄’</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/10/F23P44TWQZF6TONOV5MC3NL3AY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/10/F23P44TWQZF6TONOV5MC3NL3AY/</guid>
+      <dc:creator>김보경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Nov 2024 09:59:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/COPCUQGL7BMOLB2Z5RMTSQMTGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북한으로부터 지령문을 받고 간첩 활동을 벌인 혐의로 기소된 전 민노총 간부 등에 대한 1심 선고 재판이 열린 지난 6일 오후 경기도 수원시 영통구 수원지방법원 앞에서 민주노총, 국가보안법폐지국민행동 등 참석자들이 국가보안법 폐지와 무죄 선고 등을 요구하는 기자회견을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 검거한 국가보안법(국보법) 위반 사범 수가 점점 증가하는 것으로 나타났다.&lt;br&gt;&lt;br&gt;10일 국회 행정안전위원회 소속 국민의힘 배준영 의원실이 경찰청에서 제출받은 받은 자료에 따르면 최근 5년(2019~2023년) 동안 경찰이 전국에서 검거한 국보법 위반 사범은 2019년 12명에서 2023년 48명으로 지난 5년 동안 4배로 증가했다. 자료에 따르면 국보법 사범은 2019년 12명, 2020년 13명, 2021년 27명, 2022년 30명, 2023년 48명으로 증가세를 보였다.&lt;br&gt;&lt;br&gt;같은 자료에 따르면 올해 상반기까지도 국보법을 위반한 혐의로 14명이 검거됐다. 경찰은 하반기 들어서도 국보법 위반 혐의를 받는 두 단체를 압수수색하고 관계자를 검거하는 등 수사를 이어가고 있다. 지난 8월 30일 ‘민중민주당’ 당사 및 당원의 자택을 압수수색하고 국가보안법 위반 혐의를 받는 당원 일부를 검거했고, 지난달 31일에는 ‘한국진보연대’ 사무실과 관계자 자택을 압수수색 했다.&lt;br&gt;&lt;br&gt;특히 적용 법조 별로 봤을 때 가장 많은 인원이 검거된 국보법 7조(찬양·고무)에 대해서는 2022년에 12명, 2023년에 12명으로 총 24명이 검거됐다. 국보법 7조는 사상 및 표현의 자유 관련, 가장 논란이 있는 국보법 조항이기도 하다. 지난 2022년 국가인권위원회는 “헌법상 표현의 자유 등 침해” “국가의 존립이나 안보, 자유민주적 기본질서를 위태롭게 하는 행위에 대한 실질적이고 현실적인 위험성에 대한 평가 없이 단순히 이를 처벌함으로써 비례의 원칙을 위배하고 있다”면서 헌법재판소에 국가보안법 제7조 위헌 의견을 제출하기도 했다. 당시 헌재는 이 조항에 대해 합헌이라고 판단했다.&lt;br&gt;&lt;br&gt;유관 단체들은 ‘국가보안법은 시대착오적’이라는 등 성명 이어가면서 반발하고 있다. 또 경찰이 무리하게 수사하며 검거하고 있다며 경찰을 규탄하고 있다. 경찰이 지난달 압수수색한 한국진보연대 관계자들은 “서점에서도 판매하는 책을 두고 국가보안법 위반이라는 것은 말도 안 된다”며 지난 1일 경찰청 앞에서 규탄 모임을 열었다. 지난 6일 민노총과 국가보안법폐지국민행동은 국보법 위반 혐의로 재판에 넘겨진 민노총 관계자의 1심 선고 재판이 열리는 수원지법 앞에서 ‘국가보안법 폐지하고 무죄를 선고하라’는 내용의 기자회견도 열었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오피스텔에서 여성 살해한 40대 男 구속</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/10/N4BYEZJHVVH4RN24KJYTPIE4GE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/10/N4BYEZJHVVH4RN24KJYTPIE4GE/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Nov 2024 08:43:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OBAG4MVZEVYTO7LUNPFNNFKJ2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강서구 오피스텔 살인 피의자 김모씨가 10일 오후 서울 양천구 서울남부지방법원에서 구속 전 피의자 심문을 마치고 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강서구 의 한 오피스텔에서 30대 여성을 흉기로 살해한 혐의를 받는 40대 남성이 구속됐다.&lt;br&gt;&lt;br&gt;서울남부지법 윤석범 당직판사는 10일 오후 3시 살인 혐의를 받는 40대 남성 김모씨에 대한 영장심사를 진행했다. 윤 판사는 김씨에 대해 “도망치거나 증거를 인멸할 염려가 있다”며 구속 영장을 발부했다.&lt;br&gt;&lt;br&gt;이날 오후 2시20분쯤 법원에 출석한 김씨는 “범행을 왜 저질렀나” “피해자와 얼마나 알고 지냈나” 등 취재진들의 질문에 작은 목소리로 “죄송하다”고 답했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 김씨는 지난 8일 오전 6시 40분쯤 서울 강서구 화곡역 인근의 한 오피스텔에서 30대 여성 A씨를 숨지게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;“오피스텔 복도에서 타는 냄새가 난다”는 신고를 받고 출동한 소방은 사망한 A씨를 발견했다. 공조 요청을 받고 출동한 경찰은 김씨를 긴급체포했고, 현장에서 흉기, 핏자국과 함께 번개탄을 피운 흔적 등을 발견했다.&lt;br&gt;&lt;br&gt;당시 A씨는 술에 취했으나 의식은 잃지 않은 상태였던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주 침몰 어선 선원들, 길이 1.5km 그물에 갇혔나</title>
+      <link>https://www.chosun.com/national/regional/2024/11/10/5VE2H7BEMNBYHNYX63VDLQVN24/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/10/5VE2H7BEMNBYHNYX63VDLQVN24/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Nov 2024 08:24:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ONIXEQXLQRPTHESWIA5K4U24BI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오전 제주항 7부두로 해군 광양함에서 투입한 R.O.V(원격조종 수중로봇)가 발견, 인양한 135금성호 한국인 선원 이모(64))씨의 시신이 이송되고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해경이 지난 8일 제주 해상에서 발생한 금성호 침몰 사고 실종자들이 선체와 선체와 연결된 그물 주변에 있을 가능성이 높다고 보고 집중 수색에 나섰다.&lt;br&gt;&lt;br&gt;제주지방해양경찰청은 10일 브리핑에서 바닷속에 가라앉은 금성호 선체 주변에 실종자들이 있을 가능성이 있다고 보고 수색을 진행할 예정이라고 밝혔다.&lt;br&gt;&lt;br&gt;해경에 따르면 지난 8일 오전 4시31분쯤 제주도 비양도 북서쪽 22km 해상에서 침몰한 135금성호 사고 발생 40여 시간 만인 지난 9일 오후 9시쯤 침몰 선체 인근 수심 92m 바닥에서 실종 선원 갑판장 이모(64)씨 시신이 해군 원격조종수중로봇(ROV)에 의해 발견됐다.&lt;br&gt;&lt;br&gt;애초 사고 당시 구조된 선원 진술 등에 따르면 조리장과 어로장 등 2명이 조리실과 조타실 등 선내에 있었던 것으로 알려졌다. 하지만 조리장과 어로장이 아닌 A씨가 선체 주변에서 발견됨에 따라 나머지 실종자들도 선체 주변에 머물러 있을 가능성이 있다는 예상이 나온다.&lt;br&gt;&lt;br&gt;금성호가 사고 당시 고등어 등을 잡아 배 오른쪽에 그물을 모아둔 상태였고 무게에 의해 오른쪽으로 뒤집히면서 침몰한 것으로 파악됐다. 이 과정에서 갑판에서 작업하던 선원들이 그물 속으로 빠져들어 갔을 가능성이 있다는 게 해경 측의 설명이다. 부산 지역 대형선망수협에 따르면 금성호의 그물은 길이 1.5km에 폭은 40~50m 규모로, 최대 수심 50m 아래까지 내려간다.&lt;br&gt;&lt;br&gt;선원들이 작업 당시 착용한 방수작업복도 실종자가 바다 바닥까지 가라앉는데 작용했을 가능성도 있다. 해경 관계자는 “성인 가슴팍까지 올라오는 방수작업복이 수중에서는 물을 가두는 역할을 해 작업복 착용 상태에서 선원들이 물 밖으로 빠져오기가 쉽지 않고, 수심 30m 밑으로 내려가면 잘 떠오르지 않는다”고 했다.&lt;br&gt;&lt;br&gt;해경 관계자는 “실종자 시신이 발견되면서 침몰한 선체 안이나 주변, 그물 등에 실종자가 있을 가능성이 커졌다”며 “기상 상황을 보면서 수심 100m까지 수색할 수 있는 민간구난업체 소속 심해잠수사 10명과 해군의 수중 탐색 장비인 원격조종수중로봇(ROV)을 투입해 수색 작업을 이어갈 것”이라고 말했다.&lt;br&gt;&lt;br&gt;해경은 또 현재 해수 유동 예측 시스템 결과를 반영해 가로 51㎞, 세로 19㎞로 수색 범위를 확대하고 함선 50척과 항공기 9대를 동원해 주간 수색을 벌이고 있다.&lt;br&gt;&lt;br&gt;한편 이로써 침몰한 금성호(승선원 27명) 사망 선원은 3명으로 늘었다. 나머지 11명(한국인 9, 인도네시아인 2)은 실종 상태다. 금성호는 완전히 침몰해 수심 80∼90ｍ의 깊은 바닷속에 가라앉은 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 국정원, 자체 시스템으로 드론 촬영 중국인 발견해 경찰에 인계</title>
       <link>https://www.chosun.com/national/national_general/2024/11/10/P2FHXZAUZ5AUHE3RUHLQCWYMBU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/10/P2FHXZAUZ5AUHE3RUHLQCWYMBU/</guid>
@@ -893,15 +929,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I47MTI3M7RA6THU7JPCHQSDAXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘브롤리 공작 부인’의 주인공 폴린 /메트로폴리탄 미술관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프랑스 여인 폴린을 만난 곳은 미국 메트로폴리탄 미술관(‘메트’)이다. 20년 전 연구년 때다. 메트, 뉴욕현대미술관(‘모마’), 구겐하임을 활보하던 매주 토요일, 메트가 ‘홈그라운드’였다. 축구장 25개 크기에 세계 3대 미술관의 하나인 메트는 200여 전시실과 300만 점 넘는 소장품으로 온종일 지내기에 안성맞춤이다.&lt;br&gt;&lt;br&gt;미술관은 신앙 없는 현대인의 성당이다. 1년간의 미술관 순례는 ‘행복의 충격’이었다. 명작들의 향연에 처음엔 흥분했지만 메트, 루브르, 영국 박물관은 너무 크고 붐빈다. 적절한 동선과 쉴 곳을 찾아야만 ‘그림 읽기’가 중노동이 되지 않는다.&lt;br&gt;&lt;br&gt;메트에선 이집트관 덴두르 신전이 호젓하다. 센트럴파크를 바라보며 7000년 이집트 문명의 허망함을 곱씹게 된다. 로마 황제 아우구스투스가 이집트 점령기인 기원전 15년쯤 이시스 여신을 기리기 위해 세운 덴두르 신전은 이집트 유적치곤 최신(?) 유물이다.&lt;br&gt;&lt;br&gt;메트는 미로처럼 복잡하다. 1년 회원권을 구매하고 도시락을 꾸려 평일에도 수십 번 드나들며 전체 구조를 익혔다. 그때 만난 이가 폴린이다. 프랑스 신고전주의 화가 앵그르의 ‘브롤리 공작 부인’의 주인공이다.(1853년작)&lt;br&gt;&lt;br&gt;끝없이 이어진 전시실을 헤매다 홀연히 ‘갤러리 957′을 만난 기억이 생생하다. 브롤리 공작 알베르의 부인 폴린(Pauline de Broglie·1825~1860)이 있는 방은 관람객이 없었다. 전시실 공기가 달랐다. 기묘한 신비와 정적으로 둘러싸인 폴린 앞에 홀린 듯 못 박혔다. 시간이 멈추는 절대 몰입이었다.&lt;br&gt;&lt;br&gt;현대미술에서 고전적 초상화는 낡은 장르다. 지금은 바나나 한 개를 테이프로 벽에 붙인 ‘개념미술’(M. 카텔란, 2019년작)이 14억~21억원 경매로 나오는 시대다. 예술과 비(非)예술의 경계는 무너졌다. 비엔날레엔 충격적인 작품이 넘쳐난다. 예술 창작은 ‘예술이란 무엇인가’에 대한 질문으로 대체되었다. ‘아름다운 재현’은 더 이상 예술의 목표가 아니다.&lt;br&gt;&lt;br&gt;그럼에도 나는 폴린의 아름다움에 매혹되었다. 브롤리 공작 부인 초상화는 폴린의 지성과 감성을 온전히 담아낸 수작이다. 앵그르 화풍 전신사조(傳神寫照·인물의 내면을 보여주는) 그림이다. 미술, 문학, 음악 등 예술 체험에선 한 작품에 몰입하면 사랑의 대상이 고구마 줄기처럼 뻗어나간다.&lt;br&gt;&lt;br&gt;메트나 모마엔 더 유명하고 비싼 작품이 발에 차일 만큼 많다. 하지만 현대미술의 논리대로 예술의 중심이 부재하고 예술과 비예술의 경계가 없다면 ‘미술 전문가의 안목이 보통 사람보다 낫다’는 근거도 사라진다. 다빈치 ‘모나리자’와 뭉크 ‘절규’ 앞에서도 난 무덤덤했다. 메트는 폴린으로, 모마는 ‘크리스티나의 세계’(앤드루 와이어스, 1948년작)로 기억하곤 했다.&lt;br&gt;&lt;br&gt;벽에 붙인 바나나를 ‘예술 작품’으로 만드는 건 비평계, 작가, 화랑, 경매 회사로 구성된 예술 제도다. 그러나 해설이 현란할수록 작품은 왜소해진다. 작가의 명성과 해설을 떠나 작품 자체와 대면해야 한다. 예술 체험의 핵심은 예술 작품과 우리 내면의 만남에 있다. 미술관 기행은 미술 전문가들의 장광설과 겨룰 수 있는 마음의 근력을 키워준다.&lt;br&gt;&lt;br&gt;폴린의 초상화 완성엔 4년이나 걸렸다. 극도로 내성적인 폴린이 다섯 아이와 미완의 기독교 역사서를 남긴 채 35세에 결핵으로 사망하자 남편 알베르는 무너진다. 그는 80세를 살면서 프랑스 제3공화정 수상까지 됐으나 평생 재혼하지 않았다. 요절한 아내를 차마 바라볼 수 없었던 알베르는 폴린의 초상화를 저택 응접실 커튼으로 가려 놓았다.&lt;br&gt;&lt;br&gt;초상화에 묘사된 폴린의 장신구가 10여 년 전 경매에 나왔을 땐 내 마음이 아팠다. 예술 체험엔 누구나 자신만의 성소(聖所)가 있다. 폴린은 ‘환상 속의 그대’였다. 사랑하면 알게 되고 알면 사랑하게 된다. 그게 바로 예술의 존재 이유다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[정정보도문] ‘이재명 지지 활동하며 수임사건 방치...로펌 대표 징계’ 관련 </title>
-      <link>https://www.chosun.com/national/2024/11/08/6R7CN7S6TBFOJJAZAC3ZOHIAZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/11/08/6R7CN7S6TBFOJJAZAC3ZOHIAZE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Nov 2024 14:30:00 +0000</pubDate>
-      <content:encoded>본지는 2023년 7월 9일 &amp;lt;[단독]이재명 지지 활동하며 수임사건 방치... 민변 출신 로펌 대표 징계&amp;gt;라는 제목 아래 ‘수임한 퇴직금 청구소송을 방치한 혐의로 민변 출신 A 변호사가 대한변협으로부터 징계를 받았다‘라는 내용을 보도했습니다. 그러나 징계를 받은 A 변호사는 ’민주사회를 위한 변호사모임’ 출신이 아니며, 따라서 ‘민변 출신 로펌 대표가 징계를 받았다’는 보도는 사실이 아닌 것으로 확인됐습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>무용수 깜짝 데뷔한 채시라... 붕어빵 딸과 함께 무대 올랐다</title>
       <link>https://www.chosun.com/national/people/2024/11/08/52WVNZGYRRF6TPLNEGLJMCL53M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/08/52WVNZGYRRF6TPLNEGLJMCL53M/</guid>
@@ -922,27 +949,6 @@
       <pubDate>Fri, 08 Nov 2024 11:22:50 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CGWPCJUPSRBD7LBY5NS4NGSTGY.png"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 김구라./유튜브 '그리구라 GreeGura
 '&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 김구라(54)가 조세호의 결혼식에 참석하지 못했던 이유에 대해 밝혔다.&lt;br&gt;&lt;br&gt;김구라는 지난 6일 자신이 운영하는 유튜브 채널 ‘그리구라 GreeGura’ 에 올린 영상에서 “조세호의 결혼식 날짜를 받은 것은 한두 달 전이고 건강검진도 같은 시기에 예약했다”고 말했다. 조세호의 결혼식이 일요일이었는데, 김구라의 건강검진이 월요일로 예정되어 참석할 수 없었다는 것이다.&lt;br&gt;&lt;br&gt;김구라는 건강검진 시 복용해야 하는 약 ‘오라팡’을 언급하며 ”약을 먹으면 계속 화장실을 가게 되기 때문에 결혼식에 참석하기 어려웠다”고 했다.&lt;br&gt;&lt;br&gt;결혼식 전날 대장내시경 준비로 약을 먹어야 했던 김구라는 “오후 5시부터 약을 먹으면 계속 화장실에 가야 하는 상황”이었다며 “조세호가 뭐라고. 그래서 매니저한테 돈 봉투는 보내고 세호한테 ‘미안하다. 형이 건강검진 대장 내시경이 있다’고 문자를 보냈다”고 털어놨다.&lt;br&gt;&lt;br&gt;마지막으로 김구라는 “어떤 이들은 그런다. ‘그래도 조세호 결혼식 맞춰서 빼야지’ 하는데 조세호가 나한테 그렇게 중요하냐. 그건 아니다. 여러분들 중에 친구 결혼식인데 다음 날 대장내시경이 있는데 간 사람 있으면 나와보라 그래. 그건 못 가는 거다. X을 싸는데 어떻게 가냐”고 말했다.&lt;br&gt;&lt;br&gt;조세호는 앞서 지난달 20일 서울 중구 신라호텔에서 9살 연하로 알려진 비연예인과 결혼식을 올렸다. 결혼식 주례는 조세호의 은사인 전유성이, 사회와 축사는 절친 남창희와 이동욱이 맡았다. 가수 지드래곤, 슈퍼주니어 규현, 은혁, 김희철, 잔나비 최정훈, 이승기, 방송인 지상렬, 배우 이이경, 이동휘, 류준열, 모델 주우재, 이수혁 등 유명 연예인들이 하객석을 가득 채웠다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“비상문 열려고 한다”... ‘대한항공 기내 외국인 난동’ 당시 상황 보니</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/08/WEM4SQBET5AMJE5A6NJNRCY5AM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/08/WEM4SQBET5AMJE5A6NJNRCY5AM/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Nov 2024 12:19:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VM4SWFL3PVCTVIU6F6GYDHHXNQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;태국 방콕에서 출발해 인천으로 향하는 대한항공 항공기에서 한 외국인 승객이 승무원 비상구 좌석에 앉겠다며 난동을 부리고 있다./틱톡&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한항공 항공기에서 한 외국인 승객이 승무원 비상구 좌석에 앉겠다며 난동을 피운 사건이 발생한 가운데, 당시 현장에서 그가 비상문을 열려는 듯한 모습이 포착됐다.&lt;br&gt;&lt;br&gt;8일 대한항공에 따르면 전날 태국 방콕 수완나품 공항에서 출발해 이날 오전 4시 45분쯤 인천공항에 도착한 KE658편에서 외국인 남성 승객 A씨가 난동을 부렸다가 승무원 및 승객들에 의해 제압당했다.&lt;br&gt;&lt;br&gt;A씨는 항공기 운항 중 비상구 인근 승무원 전용 좌석에 무단으로 착석했다. 이를 발견한 승무원이 즉시 본인 좌석으로 돌아갈 것을 요청했으나 제지에 따르지 않고 고성으로 승무원을 위협하며 비상구 문에 접근했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YFEFGIEDW5DKZJNEMYCJPSC724.gif"&gt;&lt;figcaption&gt;&lt;small&gt;태국 방콕에서 출발해 인천으로 향하는 대한항공 항공기에서 한 외국인 승객이 난동을 피우는 모습./틱톡&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당시 현장을 목격한 한 승객이 소셜미디어에 올린 영상을 보면, 승무원 여섯 명이 비상구 근처 승무원 전용 좌석 쪽에 있는 A씨를 둘러싸고 있다. 휴대전화를 손에 들고 있던 A씨는 비상문을 건드리려는 듯한 행동을 취했고, 이를 본 한 여성 승무원이 비상구 문 쪽으로 재빠르게 다가가 그의 팔을 잡으며 저지했다. 이후 남성 승무원들이 A씨를 제압해 쓰러뜨렸다.&lt;br&gt;&lt;br&gt;이 영상을 본 네티즌들은 “비상구 문 열려고 한다” “비상구 건드리니까 몸으로 막는 승무원 대단하다” “지금 저 외국인 휴대전화 들고 찍고 있는 거냐” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;객실 사무장 등 승무원들은 항공보안법 위반을 여러 차례 고지하고, 지시에 따라 A씨를 제압하고 다른 승객들과 분리된 공간으로 이동시켰다. 항공편에는 238명의 승객이 탑승하고 있었으나 차질 없이 인천공항에 도착했다. 착륙 직후 해당 승객은 인천공항경찰대로 인계됐으며 조사를 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XUGOXLKLENDNJLTCK4BRSXILIM.gif?width=556&amp;height=313&amp;auth=2382bbad87ed2054f48b9e214c08e5c862aefb1db99e5b138928e4b691ce844a&amp;smart=true" type="image/jpeg" height="313" width="556">
-        <media:description type="plain">태국 방콕에서 출발해 인천으로 향하는 대한항공 항공기에서 한 외국인 승객이 난동을 피우는 모습./틱톡</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>제주 침몰 어선 선원 수색... 밤새 이어간다</title>
-      <link>https://www.chosun.com/national/incident/2024/11/08/C54KHF4JFRH75FJWZGXFEGKOH4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/08/C54KHF4JFRH75FJWZGXFEGKOH4/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Nov 2024 11:47:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S447HMIZD4WBDJULVMY3ITAFIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해경이 8일 오전 제주 비양도 북서쪽 22㎞ 해상에서 침몰한 129t급 대형 선망어선 135금성호 실종자 12명을 찾기 위해 수색하고 있다./제주지방해양경찰청 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 해상에서 발생한 135금성호 침몰 사고 실종자를 찾기 위해 야간 수색이 이어진다.&lt;br&gt;&lt;br&gt;8일 제주해양경찰서에 따르면 금성호 침몰 사고 실종자 12명을 찾기 위해 오후 6시부터 9일 오전 6시까지 야간에도 수색을 진행한다.&lt;br&gt;&lt;br&gt;항공기 총 5대가 조명탄 236발을 투하 하며 밤새 수색을 진행할 예정이다.&lt;br&gt;&lt;br&gt;실종자가 해안으로 떠밀려왔을 가능성 등도 고려해 해안 수색도 함께 진행하기로 했다.&lt;br&gt;&lt;br&gt;앞서 이날 오전 4시 31분쯤 제주 비양도 북서쪽 약 22㎞ 해상에서 부산 선적 129t급 대형 선망 어선 135금성호가 침몰 중이라는 인근 어선의 신고가 해경에 접수됐다.&lt;br&gt;&lt;br&gt;승선원 27명(한국인 16, 인도네시아인 11) 가운데 15명은 인근 선박에 구조됐다. 하지만 한국인 2명은 숨졌고, 나머지 12명(한국인 10, 인도네시아인 2)은 실종 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>부산·경남 행정 통합 첫발... “대한민국 경제 수도 될 것” </title>
@@ -974,15 +980,6 @@
       <description/>
       <pubDate>Fri, 08 Nov 2024 09:36:24 +0000</pubDate>
       <content:encoded>윤석열 대통령 부부 ‘공천 개입’ 의혹의 핵심 인물인 정치 브로커 명태균씨의 검찰 조사가 출석 8시간여 만인 오후 6시쯤 종료됐다. 명씨는 오는 9일 오전 9시 30분까지 검찰에 출석해 추가 조사를 받기로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IVEX3KLBKJLC3AR4K27IMTUG5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정치 브로커 명태균씨가 8일 오후 창원지검에서 조사를 마치고 나오며 취재진 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;명씨는 이날 오후 5시 56분쯤 조사를 마치고 나왔다. 오전에 출석할 때와 마찬가지로, 오른손은 지팡이를 짚은 채였다. 왼손엔 갈색과 흰색 서류봉투를 1개씩 들은 채였다. 최근 무릎 수술을 받았다고 밝힌 명씨는 한걸음씩 천천히 계단을 내려와 취재진 앞에 섰다.&lt;br&gt;&lt;br&gt;명씨는 ‘어떤 내용을 주로 소명했느냐’는 취재진 질문에 “조사 받으며 성실히 답변했다”고 밝혔다. 그는 “언론과 강혜경씨가 만든 거짓의 산들이 하나씩 무너질 것이라 생각한다”고 했다.&lt;br&gt;&lt;br&gt;공천 개입 의혹을 비롯해, 명씨를 둘러싼 여론조사 비용 불법 조달 의혹, 불법 여론조사 의혹, 창원 국가산업단지 선정 과정 개입 의혹 등 구체적인 의혹을 묻는 질문에는 답하지 않았다. 명씨를 대리하는 김소연 변호사는 “내일 또 조사를 받아야 돼서 다음 번에 이야기하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CDPU3FOQHJNURAGGYQUJ4R62AQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정치 브로커 명태균씨가 8일 오후 창원지검에서 조사를 마치고 나오며 취재진 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;창원지검 전담수사팀(팀장 이지형 차장검사)은 명씨를 이날 오전 10시 정치자금법 위반 혐의 피의자 신분으로 소환해 조사했다. 지난 9월 공천 개입 의혹이 불거진 뒤 첫 피의자 조사다. 명씨는 이날 조사에 앞서 “저의 언행이 경솔했다”며 “국민 여러분께 민망하고, 부끄럽고 죄송하다”고 했다. 그러면서 “돈의 흐름을 보면 이 사건은 금방 해결된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내일 서울 도심 ‘집회 지옥’된다...10만명 결집 예고</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/08/ESBHB2K5PNFJJNWXCVXLDQZZIM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/08/ESBHB2K5PNFJJNWXCVXLDQZZIM/</guid>
-      <dc:creator>서보범 기자, 고유찬 기자, 안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Nov 2024 08:30:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4PGCR3MIJRPWNG3C74LARQCWOY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 오후 서울 중구 서울역 인근에서 열린 ‘김건희 국정농단 범국민 규탄대회’./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 서울 도심에서 대규모 정치 집회가 잇따라 열린다. 반(反) 윤석열 대통령 집회를 개최하는 더불어민주당을 비롯, 친야 단체 수십 곳이 시청역·광화문·숭례문 등에 결집한다. 전광훈 목사의 자유통일당도 이에 맞불을 놓는 ‘주사파 척결 국민 대회’를 개최할 예정이다. 양측이 경찰에 신고한 인원은 10만명에 육박한다. 경찰은 만일의 사태에 대비, 비상근무 체제에 들어갔다. 이 같은 대규모 정치 집회는 올겨울 내내 주말마다 이어질 전망이다.&lt;br&gt;&lt;br&gt;9일 오후 4시 민노총 등 친야 단체 43곳이 구성한 ‘윤석열정권퇴진운동본부’는 중구 덕수궁 대한문에서 숭례문 구간을 점거하고 ‘전국노동자대회·1차 퇴진 총궐기 대회’를 연다. 약 3만2000명이 참여할 예정이다. 이에 앞서 사직로·을지로·충무로 등 곳곳에서 민노총 산별 노조와 친야 단체들이 주최하는 사전 집회도 열린다. 전국장애인차별철폐연대(전장연)는 오후 2시부터 충무로역 일대에서 ‘전국장애인노동자대회’(경찰 추산 1000명)를 개최한다. 모두 ‘윤 대통령 퇴진’을 주장하는 단체다.&lt;br&gt;&lt;br&gt;민주당·조국혁신당·진보당·기본소득당·사회민주당 야(野) 5당은 이날 오후 6시 30분부터 시청역과 숭례문 일대에서 ‘제2차 국민 행동의 날’을 진행한다는 방침이다. 지난 2일 ‘김건희 윤석열 국정 농단 규탄·특검 촉구 집회’에 이은 집회다. 이재명 대표 등 당 지도부가 윤 대통령과 김 여사 비판 수위를 높일 것으로 예상된다. 오세훈 서울시장은 8일 페이스북에서 민주당의 2차 장외 집회에 대해 “170석 의석을 거느리고도 국회가 아닌 거리에서 투쟁과 타도만 외친다”고 했다. 이 같은 친야 단체에 맞서 대규모 맞불 집회도 예고됐다. 대한민국바로세우기운동본부(대국본)·자유통일당 등 2만여 명은 이날 오후 1시부터 서울 중구 동화면세점~시청역 인근에선 ‘주사파 척결 국민 대회’를 개최한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3LIKSLISLZFGRHOMWCTQSDHAWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 9일 오후 서울 중구 세종대로 일대에서 열린 자유통일당 집회./고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광화문 등 도심에선 올해 들어 단 한 번도 빼놓지 않고 매 주말 집회가 열리는 상황이다. 시민들은 극심한 피로감을 호소한다. 광화문 인근에서 카페를 운영하는 김모(37·남)씨는 “광화문은 ‘시민’이 아닌 ‘시위’의 광장이 됐다”며 “대형 스피커로 귀가 찢어질 듯한 함성과 노랫소리 등 무분별한 소음도 참기 힘들다”고 했다. 쓰레기 문제도 심각하다. 광화문·시청·숭례문·서울역 등 주요 지점에서 집회가 끝난 자리엔 손팻말과 음료수 병, 종이컵 등 쓰레기와 담배꽁초가 넘쳐난다. 인근 빌딩은 화장실을 엉망으로 만드는 집회 참석자들 때문에 아예 문을 잠그기도 한다.&lt;br&gt;&lt;br&gt;시위대가 주말마다 차로를 점거하면서 주말도 생계를 위해 출근하는 회사원이나 자영업자들은 “생존에 위협을 겪을 지경”이라고 말한다. 남대문시장에서 생필품을 판매하는 최모(57)씨는 “주말 장사가 중요한데 집회가 있으면 손님들 발길도 끊겨 장사가 어렵다”고 했다. 서울에서 택시 회사를 운영하는 사장 A씨는 “알만한 택시 기사들은 주말 도심을 모두 피한다”며 “시위 때문에 정치 혐오가 생겼다고 말하는 기사도 많다”고 했다. 경복궁·덕수궁 등을 찾는 외국인 관광객들도 “한국은 지금 전쟁 중이냐”며 놀란 표정을 짓는다.&lt;br&gt;&lt;br&gt;대규모 집회는 연말까지 줄줄이 예고돼 있다. 오는 16일 촛불행동은 윤석열 대통령을 규탄하는 내용의 ‘전국 집중 촛불’ 집회를 신고한 상태다. 23일에는 민노총 공공운수노조 1만여 명이 여의도 의사당대로 전 차로를 점거하고 임금 인상 등을 요구할 예정이다. 윤성이 경희대 정치외교학과 교수는 “집회·시위는 헌법적 권리이므로 때로는 그 과정에서 나타나는 불편함을 감수할 필요도 있다”면서도 “공공과 시민의 재산인 광장을 진영의 세를 과시하려는 수단으로 사용하는 것은 민주주의 발전의 걸림돌”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
