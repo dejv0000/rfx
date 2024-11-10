@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>최강희 “백혈병 형제에 골수 기증, 3일 입원해 피 뺐다”</title>
+      <link>https://www.chosun.com/national/people/2024/11/11/DN3LGARQLVCHBL63OCPGHOXHOY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/11/DN3LGARQLVCHBL63OCPGHOXHOY/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Nov 2024 22:21:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/242KPD7CBJA5LB42MHR2IO3G6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 최강희가 헌혈하는 모습./MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 최강희가 백혈병을 투병중인 환아에게 연예인 최초로 조혈모세포(골수) 기증을 하게 된 계기를 밝혔다.&lt;br&gt;&lt;br&gt;최강희는 지난 9일 방송된 MBC ‘전지적 참견 시점’(이하 전참시)에 출연해 ‘헌혈의집’을 찾아 능숙하게 문진을 받고 헌혈하는 모습을 공개했다.&lt;br&gt;&lt;br&gt;그는 헌혈을 시작한 계기에 대해 “자존감이 너무 낮아서 ‘내가 쓸모 없다’라고 느껴질 때 피를 뽑으러 갔다. ‘나한테 있는 이 피가 차라리 좋은 일이라도 되니 신난다’하고 했다”고 했다.&lt;br&gt;&lt;br&gt;2주마다 알람을 맞춰놓고 헌혈을 하기도 했다는 그는 총 46회의 헌혈을 했고, 헌혈유공장 은장까지 받았다고 한다. 헌혈유공장은 대한적십자사에서 모범이 되는 헌혈자에게 수여하는 포상증으로 30회, 50회, 100회마다 각각 은장, 금장, 명예장이 전달된다.&lt;br&gt;&lt;br&gt;이처럼 주기적으로 헌혈을 하던 최강희는 과거 헌혈을 하러 갔다가 읽은 책자에서 조혈모세포 기증에 대한 정보를 읽고 신청서를 쓰게 됐다고 한다. 그는 “금장도 금방 받겠구나 했는데 조혈모세포 이식 후 띄엄띄엄해지고 있다”고 했다.&lt;br&gt;&lt;br&gt;조혈모세포는 모든 혈액세포를 만들어내는 능력을 가진 원조가 되는 어머니 세포로 적혈구, 백혈구, 혈소판으로 분화된다. 건강한 조혈모세포를 만들어내지 못하는 백혈병과 같은 혈액암 환자들은 타인의 건강한 조혈모세포를 이식받아 생명을 유지할 수 있다.&lt;br&gt;&lt;br&gt;기증방법은 성분헌혈과 같은 방식으로 진행된다. 혈액 속의 조혈모세포를 채집하기 위해 3~4일간 입원하며 채집에는 4~5시간이 소요된다. 퇴원 후 일상생활이 가능하며 조혈모세포는 기증후 2~3주 이내에 회복된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZMOZO447X5FEBCYLKIDCEFXLXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2007년 조혈모세포 기증을 위해 입원했던 최강희./온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2007년 기증을 했다는 최강희는 “평생 (일치자가) 안 나타나는 사람도 있다더라. 언제 오나 기다렸는데 몇 년만에 연락이 왔다”며 “형제가 둘 다 백혈병인데 동생은 아빠랑 일치가 됐는데 형은 일치자가 저였다. 너무 좋은 기증이 됐다고 하더라”고 했다.&lt;br&gt;&lt;br&gt;이어 “날짜를 잡았는데 (병원에서) ‘번복하시면 안 된다. 차라리 지금 말씀해 주세요’라고 하더라”며 “한다고 했다가 안 한다고 하면 낙심해서 스트레스로 건강이 더 악화되는 경우가 많다고 하더라”고 전했다.&lt;br&gt;&lt;br&gt;당시 조혈모세포 기증을 위해 3일간 입원을 했다는 최강희는 “피를 계속 뺐다. 고맙다고 병실도 엄청 좋은 걸 준다. 삼푸, 린스 키트도 가져온 기억이 난다. 김숙 언니, 송은이 언니도 문병 오고 DVD 잔뜩 가져와 영화도 보고 너무 즐거웠다”며 “후유증도 없이 ‘씩씩하게 잘 먹고 다시 생겨나라’ 했다”고 말했다.&lt;br&gt;&lt;br&gt;이 같은 선행을 모친에게는 밝히지 못했다고 한다. 그는 “엄마들은 걱정하잖나. 엄마한테 말 안하고 했는데 숙 언니가 사진 올린 게 기사가 나서 (알게 되셨다)”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘尹 퇴진 집회’ 민노총, 경찰관 폭행… 11명 체포</title>
       <link>https://www.chosun.com/politics/2024/11/11/PEHE7LXSBZA2XNMJOYIHPK624I/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/2024/11/11/PEHE7LXSBZA2XNMJOYIHPK624I/</guid>
@@ -855,15 +864,6 @@
         <media:description type="plain">최태원 SK그룹 회장(왼쪽)과 노소영 아트센터 나비 관장이 16일 오후 서울 서초구 고등법원에서 열린 이혼 관련 항소심 변론기일에 출석하고 있다. 2024.4.16/뉴스1 ⓒ News1 박지혜 기자</media:description>
         <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 박지혜 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>“여자는 깍두기 잘 안 먹길래 안 줬다”... 유명 중국집 차별에 와글와글</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/09/Q77KPNPN4RHOFL3GRWNJNKV75U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/09/Q77KPNPN4RHOFL3GRWNJNKV75U/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Nov 2024 15:42:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3LOOTLDBAZGDRGOB5CJVDRLM64.png"&gt;&lt;figcaption&gt;&lt;small&gt;한 먹방 유튜버가 군산의 유명 중국집에서 여자라는 이유로 단무지만 받았다고 주장하며 올린 모습./유튜브 '윤숙희 YunSuki 혼술하는 여자'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 먹방 유튜버가 군산의 유명 중국집을 찾았다가 여자라는 이유로 밑반찬을 받지 못했다며 억울함을 토로한 영상이 화제가 되고 있다.&lt;br&gt;&lt;br&gt;지난 8월 27일 유튜브 채널 ‘윤숙희 YunSuki 혼술하는 여자’에는 1박 2일 군산 여행을 떠난 내용의 영상이 올라왔다. 이 유튜버는 현재 20만 정도의 구독자를 보유하고 있으며, 이 영상은 조회수 약 26회를 기록했다.&lt;br&gt;&lt;br&gt;전북 군산을 찾은 윤숙희는 “군산에 왔으니, 짬뽕을 먹어야 하지 않겠냐”며 한 중국집으로 향했다. 주문한 삼선짬뽕을 먹던 그는 옆 테이블 보다가 깍두기를 받지 못했다는 사실을 알게 됐다. 이어 “다른 손님들은 단무지랑 깍두기가 같이 나왔다. 나는 딸랑 단무지 하나를 받았다”고 했다.&lt;br&gt;&lt;br&gt;공개된 영상 속에는 다른 테이블에는 깍두기와 단무지가 같이 놓여 있었지만, 그의 테이블에는 단무지만 있었다.&lt;br&gt;&lt;br&gt;그는 “여자 혼자 왔다고 깍두기를 안 준 건 아니겠지”라며 “깜빡하고 안 준 것일 수 있으니 이따 물어봐야겠다”라고 했다. 곧이어 직원이 지나가자, 윤숙희는 “왜 저에게는 깍두기를 안 주나요”라고 질문했다. 직원은 “여자분들은 보통 안 드셔서. 드려요?”라고 답했다.&lt;br&gt;&lt;br&gt;윤숙희는 “여자라고 깍두기를 안 먹는 게 어디 있느냐. 애초에 깍두기 먹을 거냐고 물어봐 줬으면 이런 일이 없지 않겠냐. 깍두기로 사람 서럽게 한다”고 속상해했다.&lt;br&gt;&lt;br&gt;이후 계산하려던 윤숙희에게 직원이 “얘기 하지 그랬냐. 여자분들은 거의 깍두기를 잘 안 먹더라”라고 말했다. 이에 윤숙희는 “먼저 줬으면 안 먹는다고 얘기하는 경우는 있어도 여자라고 안 주는 경우가 어디 있느냐”라고 말했다. 그러자 직원은 “죄송하다. 필요하시면 얘기하시면 드렸을 텐데”라고 사과했다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “여자라고 밥 덜 주는 곳은 봤어도 깍두기 안 주는 곳은 처음 본다” “깍두기 하나에 드러난 접객 태도 하나로 손님 여러 명 날리는 것이다” “여자도 깍두기 좋아한다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>자유통일당도 맞불 집회… 서울 주말 ‘시위 지옥’ 연말까지 이어져</title>
