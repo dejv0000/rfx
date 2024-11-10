@@ -13,6 +13,112 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>광주기아챔피언스 필드 노후 관중석 10년 만에 바꾼다</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/10/GEAVOGH4KNDHNILBHVRI2YASUY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/10/GEAVOGH4KNDHNILBHVRI2YASUY/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Nov 2024 02:08:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6MW2KEZTBFJSFOQDZ4OZ4TH2UY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 28일 광주 기아챔피언스필드에서 열린 2024 신한 SOL뱅크 KBO 포스트시즌 한국시리즈 5차전 삼성 라이온즈와 KIA 타이거즈의 경기. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;KIA타이거즈 구단의 홈구장인 광주기아챔피언스필드 노후 관중석이 10년 만에 전면 교체된다.&lt;br&gt;&lt;br&gt;광주시는 10일 “내년 프로야구 시즌이 개막하는 3월까지 12억원의 예산을 들여 챔피언스필드 1·2층 관중석 의자 2만2000개 중 1층 1만6000석을 모두 교체한다”고 밝혔다.&lt;br&gt;&lt;br&gt;챔피언스필드는 지난 2014년 지하 2층·지상 5층, 총 면적 5만7646㎥ 규모로 개장했다. 이후 10년 동안 KIA타이거즈 구단 홈구장으로 이용되면서 관중석 의자, 테이블이 노후화되거나 파손되는 등 관중 불편이 있었다.&lt;br&gt;&lt;br&gt;광주시는 챔피언스필드 건립 당시 최초 시설 설치 비용의 10%를 초과하는 보수 비용은 시가 부담하는 운영 협약을 구단과 맺었었다. 건립 당시 관중석 설치 비용은 26억원으로 보수 비용(12억원)이 10%를 넘어서 광주시가 부담한다.&lt;br&gt;&lt;br&gt;광주시는 예산을 추가 편성해 나머지 관중석도 정비하고 안전진단 용역 등을 통해 낡은 외벽 등 다른 시설물도 보수할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>근무시간 외 상습도박한 금융사 직원…法 “해고 정당하다”</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/10/QXMB4PPBSFC3NBIOVHJYX2RZKU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/10/QXMB4PPBSFC3NBIOVHJYX2RZKU/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Nov 2024 02:56:52 +0000</pubDate>
+      <content:encoded>근무시간이 아닌 때에 상습 도박을 한 금융사 직원을 ‘품위유지 의무 위반’을 이유로 해고한 것은 정당하다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SMWHQJSGL44AF6TGSZ2A75EFZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 양재동 서울행정법원 / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정12부(재판장 강재원)는 최근 A씨가 중앙노동위원회를 상대로 낸 부당해고 구제 재심 판정 취소 소송에서 원고 패소로 판결했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 1997년 금융그룹의 한 지주회사인 B사에 입사해 2022년 1월부터 한 지점의 여신 팀장으로 근무했다. A씨는 그해 9월 ▲대출거래처와 부적절한 사적 금전대차 ▲담보취득 금지부동산 부당대출 ▲부적절한 모기지신용보험 가입에 따른 초과대출 ▲외부 감정평가법인 부당 수기 지정 ▲상습 도박 행위 등을 이유로 B사로부터 해고 통지를 받았다.&lt;br&gt;&lt;br&gt;A씨는 B사의 해고 결정이 부당하다며 구제 신청을 했지만, 서울지방노동위원회와 중앙노동위원회 모두 “징계 사유가 인정되고 절차상 중대한 하자가 없다”는 취지로 A씨의 신청을 기각했다. 이에 불복한 A씨는 행정소송을 제기했다.&lt;br&gt;&lt;br&gt;특히 A씨는 해고 사유 중 하나인 ‘상습 도박 행위’와 관련해 “업무 시간 이후의 사생활을 이유로 징계한 것은 부당하다”며 “회사의 사회적 평가에 중대한 악영향을 미친 사실 등도 확인되지도 않았다”고 주장했다.&lt;br&gt;&lt;br&gt;그러나 법원은 A씨의 주장을 전부 받아들이지 않았다. 재판부는 상습 도박은 ‘품위유지 의무’를 규정한 B사의 임직원 행동지침에 위반되므로 해고가 정당하다고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 “설령 근무시간 외에 도박 행위를 하여 직접적으로 업무에 지장을 초래하지는 아니하였다고 하더라도, 도박은 그 자체로 부도덕하고 지탄의 대상이므로 품위유지 의무를 위반한 것으로 볼 수 있다”고 설명했다.&lt;br&gt;&lt;br&gt;이어 “A씨는 생활고를 겪는 와중에 도박까지 하여 상당한 금전적 손실을 보게 되면 전반적인 업무 능률에 지장을 초래하는 게 불가피했을 것”며 “B사는 금융업은 영위하는 법인으로서 소속 직원이 도박 행위를 할 경우, 손실금을 만회하기 위한 횡령 등 추가 범죄를 벌일 가능성도 있다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>드론으로 국정원 촬영한 중국인 남성 현행범 체포</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/10/SE55FO5JBFEOHFMLBFJ6YNLP3E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/10/SE55FO5JBFEOHFMLBFJ6YNLP3E/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Nov 2024 02:56:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NYN64ELFYQN32SCYH473RIQ5MU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;-국가정보원 건물을 드론으로 촬영한 혐의를 받는 중국인 남성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;서울 서초경찰서는 지난 9일 오후 중국인 남성 40대 A씨를 항공안전법 위반 혐의로 현행범 체포해 조사 중이라고 10일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 서울 서초구 내곡동 주변 사적 제194호인 헌인릉을 드론으로 촬영하다가 인근의 국정원 건물까지 찍은 것으로 보고 있다. 현재까지 A씨의 대공 혐의점은 발견되지 않았다고 한다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “범행 동기 등 사건 전반을 수사 중”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/NYN64ELFYQN32SCYH473RIQ5MU.jpg?width=3386&amp;height=1905&amp;auth=dd0e5da23a35268f55f735ebfa77964d718c70e8ffc9ce19548723ecee8094dc&amp;smart=true" type="image/jpeg" height="1905" width="3386">
+        <media:description type="plain">서울 서초경찰서 ⓒ News1 이비슬 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“파면당할래?” 공무원 협박해 돈 뜯은 성매매 업주, 징역 1년6개월</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/11/10/JUZNPDUYQVAPVJJSJQDYAM7S2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/11/10/JUZNPDUYQVAPVJJSJQDYAM7S2U/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Nov 2024 02:50:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ALL2YIZXMG6BB552HH32G66UFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 운영하는 성매매 업소를 찾은 공무원을 협박해 돈을 뜯은 업주가 실형을 선고 받았다.&lt;br&gt;&lt;br&gt;청주지법 형사4단독 강현호 부장판사는 공갈, 공갈미수 혐의로 재판에 넘겨진 A(37)씨에게 징역 1년 6개월을 선고했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2022년 11월부터 한 달 동안 공무원 B씨에게 성매매 사실을 알리겠다고 협박해 총 24차례에 걸쳐 2100여만원을 받아 챙긴 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 2022년 9월 사채업자로부터 빚을 갚으라는 독촉을 받던 중 자신의 성매매 업소를 찾은 B씨가 공무원이라는 사실을 알게되자 돈을 뜯어낸 것으로 드러났다.&lt;br&gt;&lt;br&gt;A씨는 B씨에게 “150만 원 보낼래, 파면당할래”라며 문자를 보내는 등 협박했다고 한다.&lt;br&gt;&lt;br&gt;강 부장판사는 “이 사건으로 피해자는 상당한 정신적 고통을 받았을 것”이라며 “다만 범행을 인정하며 반성하고 있고, 동종 범죄전력이 없는 점을 종합해 형을 정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ALL2YIZXMG6BB552HH32G66UFM.jpg?width=3935&amp;height=2236&amp;auth=c0d78363f9647d15adc706343cf495ef6e7125ff60a8ad1487ed8922d18cb481&amp;smart=true" type="image/jpeg" height="2236" width="3935">
+        <media:description type="plain">청주지법</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>’138억원 찾아가라’ 황당 메일에 속아 마약 운반한 50대...국민참여재판서 무죄</title>
+      <link>https://www.chosun.com/national/incident/2024/11/10/3UJXBP3NJFBFNAV2LTNRSKBNVA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/10/3UJXBP3NJFBFNAV2LTNRSKBNVA/</guid>
+      <dc:creator>인천=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Nov 2024 02:12:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NORFAAAWZSNMZK27QTKMDQOP5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘거액의 은행 예치금을 수령해주겠다’는 메일에 속아 마약을 운반한 50대 여성이 누명을 벗었다.&lt;br&gt;&lt;br&gt;인천지법 형사15부(재판장 류호중)는 특정범죄가중처벌법상 마약 혐의로 기소된 A(51)씨의 국민참여재판에서 무죄를 선고했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;국민참여재판에 참여한 배심원 7명 전원이 A씨의 마악류 수입에 관한 미필적 고의를 인정할 수 있는지 여부에 대해 유죄를 선고해야 한다고 의견을 냈다.&lt;br&gt;&lt;br&gt;그러나 재판부는 다른 판단을 내렸다.&lt;br&gt;&lt;br&gt;재판부는 “여러 정황을 보면 여행용 가방 안에 마약이 들어있다는 사실을 알고도 국내에 반입한 게 아닌지 의심이 들기는 한다”면서 “피고인에게 처음 메일을 보낸 인물이 자신의 여권 사본과 함께 위조한 문서를 함께 첨부했다. 이런 사기행위에 속을 사람이 전혀 없을 거라고 단정할 수 없다”고 판단했다. 이어 “‘투자한 가상화폐가 거액의 수익을 냈을지 모른다고 생각했다’는 피고인 주장도 배제하기 어렵다”며 “피고인이 이들로부터 예치된 것으로 믿은 1000만달러(138억원)는 마약류 운반 대가로 보기에는 터무니없이 큰 금액이어서, 캐리어 운반과 대가관계에 있는 금액이라고 인정하기는 어려워 보인다”고 설명했다.&lt;br&gt;&lt;br&gt;A씨는 이날 법정에서 “브라질에서 받은 여행용 가방에 코카인이 들어 있는 줄은 전혀 몰랐다”며 “마약을 밀수하려는 고의가 없었다”고 주장했다.&lt;br&gt;&lt;br&gt;앞서 A씨는 지난 3월 “해외 은행 계좌에 당신 명의로 1000만달러가 예치돼 있다. 수혜자 명단에 포함됐으니 그 돈을 모두 받게 해주겠다”는 내용의 메일을 받았다. 메일에는 “브라질 상파울루에 가서 ‘자금 이체 문서’에 서명하라”며 “다시 그 서류를 들고 캄보디아로 가서 현지 은행에 제출한 뒤 1000만 달러를 찾아가라”는 내용도 담겨있던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 과거에 투자한 가상화폐가 자신도 모르는 어딘가에서 거액의 수익을 냈을지도 모른다고 생각했고, 지난 4월 29일 한국에서 출발해 아랍에미리트 두바이를 거쳐 다음날 상파울루에 도착했다. 이후 그는 지난 5월 4일 상파울루 현지에서 또 다른 인물을 만나 여행용 가방을 넘겨 받아 위탁 수하물로 맡긴 뒤 여객기를 탔고, 인천국제공항을 경유해 캄보디아로 가려다가 한국 세관 직원들에게 적발됐다.&lt;br&gt;&lt;br&gt;조사 결과 A씨가 위탁 수하물로 부친 여행용 가방에는 시가 11억 2000만원어치의 코카인 5.7㎏이 들어있었다. 당시 A씨는 “모르는 사람으로부터 모바일 메신저를 통해 ‘거액의 은행 예치금을 수령하게 해주겠다’는 제안을 받고 캐리어를 운반했다”며 “캐리어에 코카인이 있는지 몰랐다”고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수원 이어 의왕서도 사슴 출몰... 마취총 쏘아 포획</title>
+      <link>https://www.chosun.com/national/regional/2024/11/10/JO6NN4VM6VEEHH365ERLCCCZVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/10/JO6NN4VM6VEEHH365ERLCCCZVU/</guid>
+      <dc:creator>수원=권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Nov 2024 01:20:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CTLC6QTRYBC2VONF77BZ4HC4OI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;소방당국이 10일 새벽 의왕시에서 출몰한 사슴을 포획하고 있다. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 수원에 사슴이 출몰해 시민 2명을 다치게 한데 이어 의왕에서도 도로에 사슴이 나타났다가 소방당국에 포획됐다.&lt;br&gt;&lt;br&gt;10일 소방당국에 따르면 지난 9일 오후 11시 55분쯤 “경기 의왕시 청계동 도로에 사슴이 있어 2차 사고 위험이 있다”는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;소방당국은 사슴을 발견하고 추격에 나서 10일 오전 1시 5분쯤 마취총으로 사슴을 생포해 의왕시에 인계했다. 이 사슴 때문에 다친 사람은 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편 수원시 전문구조단은 9일 오전 9시쯤 수원시 장안구 하광교동의 식당 주변에서 사슴 한 마리를 생포했다. 이 사슴은 지난 6일 수원시 영통구 광교호수공원에서 30대 남성, 장안구의 광교저수지 산책로에서 60대 여성을 잇달아 뿔로 들이 받아 다치게 했다.&lt;br&gt;&lt;br&gt;수원시는 사고 예방을 위해 순찰에 나서는 한편 전문구조단을 투입해 지난 8일 오후 10시부터 11시간 가량 잠복한 끝에 사슴을 포획했다. 수원시는 유기된 사육 사슴으로 보고 인근 사슴농장에 임시로 보관한 뒤 소유자가 나타나지 않을 경우 유기 동물 입양 절차를 진행할 방침이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경기도 지역 과학고 공모에 12곳 신청 접수... 신설 9곳, 일반고 전환 3곳</title>
+      <link>https://www.chosun.com/national/regional/2024/11/10/4JEVCMN7ONC7XEXGSXOK3AX724/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/10/4JEVCMN7ONC7XEXGSXOK3AX724/</guid>
+      <dc:creator>수원=권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Nov 2024 01:42:36 +0000</pubDate>
+      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PXI4VJQ64ZP27WMYQL6EK2K4WQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도교육청 청사. /경기도교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도교육청이 도내 과학고 신설을 위해 예비지정 대상 공모를 마감한 결과 12개 지역에서 신청을 접수한 것으로 집계됐다.&lt;br&gt;&lt;br&gt;경기도교육청은 신설에는 9개 지역, 일반고의 과학고 전환에는 3개 지역이 신청했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;과학고 신설에는 고양·광명·구리·김포·시흥·이천·용인·평택·화성이 신청했다. 또 부천고(부천)·분당중앙고(성남)·성포고(안산)는 과학고 전환을 신청했다.&lt;br&gt;&lt;br&gt;경기도교육청은 과학고 교육과정 운영 및 학교 설립 전문가를 심사위원으로 위촉해 설립 실현성, 특화형 교육과정 등을 평가해 이달 말 예비지정 결과를 발표할 예정이다.&lt;br&gt;&lt;br&gt;예비 지정 학교 숫자는 정해지지 않았으나 임태희 교육감은 “경기 지역 학생 수를 고려하면 과학고는 3∼4개가 적정한 수준”이라고 밝힌 바 있다. 현재 경기지역 과학고는 2005년 의정부시에 개교한 경기북과학고가 유일하다.&lt;br&gt;&lt;br&gt;예비지정 학교는 특수목적고 지정·운영위원회 심의와 교육부 장관 동의, 경기도교육감 지정·고시 등의 절차를 거쳐 개교하게 된다. 일반고 전환 과학고는 2027년 3월, 신설 과학고는 2030년 3월 개교가 목표이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전남 장성서 전동휠체어 탑승 80대 승용차 치여 숨져</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/10/6JLGL3BNBND4VJP2VZWN4R6LQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/10/6JLGL3BNBND4VJP2VZWN4R6LQA/</guid>
+      <dc:creator>장성=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Nov 2024 01:54:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WWEII2VPSCIGFTCD5FJ6NRVEGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 장성경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 장성에서 전동휠체어에 탑승한 80대가 승용차에 치여 숨졌다.&lt;br&gt;&lt;br&gt;10일 장성경찰서에 따르면 전날 오후 2시 48분쯤 장성군 황룡면의 한 도로에서 전동휠체어에 탑승한 A(85·여)씨가 승용차에 치여 심정지 상태로 병원으로 옮겨졌지만 숨졌다.&lt;br&gt;&lt;br&gt;승용차 운전자 B씨는 무면허나 음주상태는 아닌 것으로 파악됐다. B씨는 운전 중 앞서있던 A씨를 확인하지 못한 채 주행하다 사고를 낸 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 B씨를 교통사고처리특례법상 치사 혐의로 입건해 정확한 사고 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/WWEII2VPSCIGFTCD5FJ6NRVEGI.jpg?width=1052&amp;height=579&amp;auth=14bad582d943b1df474adf175797c4f68df8fb540a7ec500fbd775f16435f99a&amp;smart=true" type="image/jpeg" height="579" width="1052">
+        <media:description type="plain">전남 장성경찰서의 모습.(전남지방경찰청 제공)/뉴스1 DB</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 DB</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>새벽 뒤흔든 큰 폭발... 포스코 제철소 화재 5시간 만에 진화  </title>
+      <link>https://www.chosun.com/national/regional/2024/11/10/45MSRF4VJVHIBLWJIPNKYO5DLQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/10/45MSRF4VJVHIBLWJIPNKYO5DLQ/</guid>
+      <dc:creator>포항=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Nov 2024 01:06:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZHXM2AXXOVBPHAONZ7MSY4XRMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;포스코 포항제철소 3파이넥스공장에서 난 불은 5시간 만에 모두 꺼졌다./경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 새벽 포스코 포항제철소에서 폭발과 함께 발생한 화재는 5시간만에 진화됐다.&lt;br&gt;&lt;br&gt;경북소방본부 등에 따르면 이날 오전 4시 20분쯤 포항시 남구 제철동 포스코 포항제철소 3파이넥스공장 타워에서 폭발과 함께 큰 불이 났다. 불이 나자 소방 당국은 오전 4시 50분쯤 대응 1단계를 발령하고 소방차 44대와 인력 121명을 투입해 진화에 나섰다. 화재발생 2시간 10여분인 이날 오전 6시 37분쯤 큰 불이 잡혔고, 9시 20분쯤 진화를 마무리했다고 소방당국은 설명했다.&lt;br&gt;&lt;br&gt;불이 난 3파이넥스공장은 높이가 약 50ｍ인 데다가 불길이 거세서 소방 당국은 초기에 접근하는 데 어려움을 겪었다. 불이 난 파이넥스 공장은 원료를 예비처리하는 공정을 생략하고서 철광석과 유연탄을 바로 사용해 용광로(고로)처럼 쇳물을 생산하는 설비다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KD25W4ZVBNADPOVPDYO6KPHMLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오전 4시20분쯤 포스코 포항제철소 파이넥스 3공장에서 불이 나 신고를 받고 출동한 119 등이 진화 작업을 벌이고 있다./경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 화재로 공장 내부에 있던 근무자 8명 중 1명이 다치고 7명이 대피했다. 포스코 자체 구급대원인 30대 A씨는 초기 진화에 나섰다 2도 화상을 입고 포항 한 병원으로 이송돼 치료를 받고 있다.&lt;br&gt;&lt;br&gt;화재 발생 때 발생한 폭발과 이로 인한 진동은 포스코 인근인 송도동과 해도동뿐만 아니라 흥해읍을 비롯해 포항 여러곳에서 확인됐다. 경북 포항 송도동 한 주민은 “갑자기 ‘펑’하는 소리가 났고, 집이 흔들린다는 게 느껴질 정도 였다”고 말했다.&lt;br&gt;&lt;br&gt;경찰·소방 당국은 화재 원인과 피해 규모 등에 대해 조사에 나설 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/2WYMNJB26RN4POOOIVYZXGDYJE.JPG?width=5568&amp;height=3712&amp;auth=1819843a99951b45e152570d5c18ee6eb0e5b5a63a406817260b5298c4c8da1d&amp;smart=true" type="image/jpeg" height="3712" width="5568">
+        <media:description type="plain">(포항=뉴스1) 최창호 기자 = 10일 오전 4시20분쯤 포스코 포항제철소 파이넥스 3공장에서 불이 나 신고를 받고 출동한 119와 자체 소방대가 진화 작업을 하고 있다. 
+
+소방당국은 대응1단계를 발령 진화 작업에 나서고 있다. 2024.11.10/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(포항=뉴스1) 최창호 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>연일 ‘단합’ 주장하는 홍준표 “당 일부 지도부, 내부 총질만 집착”</title>
+      <link>https://www.chosun.com/politics/assembly/2024/11/10/YMIBR6VXG5BILECESIQ7MOIXRI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2024/11/10/YMIBR6VXG5BILECESIQ7MOIXRI/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Nov 2024 00:31:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FYV2HGMALRP7HMSY3Z5KNLS4CA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍준표(오른쪽) 대구시장이 지난 6일 강원 춘천 강원도청에서 열린 제8회 중앙·지방 협력 회의에서 오세훈 서울시장과 대화하고 있다. /대통령실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 홍준표 대구시장은 10일 “뭉쳐서 위기를 헤쳐나갈 생각보다 나 하나 일신만을 위해 내부 총질에만 집착하는 당 일부 지도부 모습을 보면서 난파선의 쥐떼가 생각난다”고 했다.&lt;br&gt;&lt;br&gt;홍 시장은 이날 오전 페이스북에 글을 올려 “박근혜 탄핵 때 자기만 살겠다고 난파선 쥐떼처럼 탈출하는 군상들을 보면서 이 땅의 보수 우파는 미래가 없다고 생각했다. 요즘 하는 당 지도부 일부 모습들이 그때 바른정당 모습의 데자뷔를 보는 것 같아 씁쓸하기 그지없다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;홍 시장은 이어 “그때의 쥐떼들을 걷어내고 당을 새롭게 만들려 노력했으나, 새로운 쥐떼가 들어와 분탕 치는 것을 보고, 참 이 당은 미래가 암울하다는 느낌을 요즘 지울 수가 없다”고 했다.&lt;br&gt;&lt;br&gt;홍 시장은 “이런 상황이 지속되면 당도 정권도 같이 무너진다”며 “한 번 참혹하게 당해보고도 뭉치지 못하고 또다시 붕괴의 길을 걷는 그대들은 도대체 무슨 생각으로 정치한다고 설치고 있는지 한심하다”고 했다.&lt;br&gt;&lt;br&gt;홍 시장은 최근 윤석열 정부와 여당이 뭉쳐야 한다는 취지의 메시지를 지속적으로 내고 있다. 지난 7일 윤석열 대통령의 대국민 담화와 기자회견 직후에는 “대통령의 진솔한 사과와 김 여사 대외 활동 중단, 국정 쇄신 약속을 했으니 이제 이를 지켜보고 단합해 나라를 혼란으로부터 안정시켜야 할 때”라며 “내부 결속을 해치는 경박한 짓은 국민과 당원들이 용납지 않을 것”이라고 했다.&lt;br&gt;&lt;br&gt;이튿날에는 “총선에 당선되지 못하고 갈 데 없던 일부 정치 낭인들이 당의 단합을 저해하고 윤 정권을 야당보다 더 비방하는 현실을 보면서, 박근혜 탄핵 전야의 아노미 현상을 보는 듯하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“폭발음에 집 흔들려”… 포항 포스코 공장서 대형 화재</title>
       <link>https://www.chosun.com/national/national_general/2024/11/10/3XJD3KT6PNBZLP65G2HLHYRF2M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/10/3XJD3KT6PNBZLP65G2HLHYRF2M/</guid>
@@ -761,15 +867,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/76WUXUHMEPSIM3CI57VDCQ7MDQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기국제공항 후보지. /경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도가 ‘경기국제공항’건설을 추진하는 가운데, 화성시 화성호 간척지(화옹지구), 평택시 서탄면, 이천시 모가면 등 3곳을 후보지로 8일 선정했다.&lt;br&gt;&lt;br&gt;경기도는 이날 ‘경기국제공항 건설을 위한 비전 및 추진방안 수립 연구용역’ 결과를 발표하면서 후보지를 공개했다. 경기도는 공역(항공기의 안전한 활동을 보장하기 위한 공간)과 소음, 지형도면, 현장 확인 등을 거쳐 5개 시 10개 지역을 1차 후보지로 추린 뒤 입지 적합성, 권역별 균형, 경제성 등을 검토해 3개 후보지를 추렸다고 설명했다. 후보지들은 공항 부지면적 270만㎡, 활주로 3200m 1개를 기준으로, 모두 비용대비편익(B/C) 지수가 1.0 이상으로 경제성이 확보되는 것으로 분석됐다.&lt;br&gt;&lt;br&gt;이번 용역에서는 향후 항공 수요도 분석됐다. 용역 결과에 따르면, 2035년 경기국제공항 개항 기준으로 30년 후인 2065년에 여객 1755만 명, 화물 35만t 이상의 수요가 있을 것으로 예측됐다. 인천국제공항의 4단계 확장에도 불구하고, 2035년 예상되는 시설 포화와 북한과 접경으로 인한 비행제한 등에도 경기국제공항이 대응할 수 있는 것으로도 전망됐다.&lt;br&gt;&lt;br&gt;경기도 관계자는 “경기국제공항이 잠재 여객 수요와 첨단산업 항공화물 증가로 경쟁력이 충분하며, 수도권 기존 공항 한계의 대안이 될 수 있는 것”이라고 했다.&lt;br&gt;&lt;br&gt;공항 배후지 개발방향은 ‘첨단산업 중심의 공항경제권 구축’으로 정했다. 경기도는 경기남부를 중심으로 밀집해 있는 반도체, 모빌리티 등 첨단산업 경쟁력을 강화해 주변 지역이 연계 발전할 수 있도록 추진할 방침이다.&lt;br&gt;&lt;br&gt;경기도는 배후지 발전방안을 마련한 후, 후보지 3곳 후보지 지자체와 인센티브 등의 충분한 협의를 통해 유치 공모를 추진할 계획이다.&lt;br&gt;&lt;br&gt;다만, 공항이 들어설 경우 소음 및 고도제한 등의 문제가 예상되면서 지역의 반발도 우려된다. 경기도는 이에 대한 대안을 마련하고 주민과 소통을 강화할 예정이라고 밝혔다.&lt;br&gt;&lt;br&gt;한현수 경기도 경기국제공항 추진단장은 “후보지 발표를 시작으로, 앞으로 도민과 함께 만드는 경기국제공항이 추진될 수 있도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘서울대 200만원 절도’ 노숙인, 알고 보니 12년간 사망자 신세…檢 기소유예</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/08/MVAC6MWQX5GVNB2VD52OVTDEBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/08/MVAC6MWQX5GVNB2VD52OVTDEBM/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Nov 2024 09:26:11 +0000</pubDate>
-      <content:encoded>서울중앙지검 형사1부(부장 김승호)는 지난 8년 동안 서울대학교에 침입해 200여만 원 상당의 금품을 훔치다 구속된 노숙인 A(67)씨를 취업교육을 이수하는 조건으로 기소하지 않기로 결정했다고 8일 밝혔다. A씨는 지난 12년간 사망자로 등록돼 있었다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LT5AG526I623RZADZI6G4SKVPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대학교 정문./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;야간 건조물 침입 절도 및 절도 미수 혐의로 구속된 A씨는 2016년부터 올해 10월까지 서울대 건물 외벽 배관을 타고 창문을 통해 연구실, 교수실, 사무실 등에 총 9차례 침입해 219만원 상당의 금품을 절취한 혐의로 지난달 23일 검찰에 구속 송치됐다.&lt;br&gt;&lt;br&gt;검찰 수사 결과 A씨는 사업 실패 이후 교통사고로 크게 다쳐 일용직 노동조차 할 수 없게 됐다고 한다. 관악산에서 수년간 노숙 생활을 하다가 굶주린 끝에 범행을 저지른 것이다. A씨는 노숙 기간 중 법원에서 실종선고를 받아 약 12년간 사망한 사람으로 등록됐다.&lt;br&gt;&lt;br&gt;A씨는 검찰 조사에서 “과거를 반성하고 새로운 터전에서 열심히 한 번 살아보겠다. 보답하는 길은 다시는 과오를 저지르지 않는 것”이라며 실종선고를 취소하고 사회로 복귀하고 싶다는 뜻을 밝혔다. A씨는 수사팀에 손편지를 보내 “재활을 위해 힘써주신 검사님과 수사관님들께 ‘우리가 애써준 사람이 바르게 살고 있다’는 그런 자부심을 드리고 싶다”고 했다.&lt;br&gt;&lt;br&gt;서울대학교 교수와 임직원 등 피해자 10명은 검찰에게 A씨 사연을 전해 듣고 처벌을 원치 않는다는 의사를 밝혔다고 한다. 이에 검찰은 A씨가 사회에 복귀할 수 있도록 법원에 실종선고 취소를 청구하고 한국법무보호복지공단과 협의해 취업 지원 등 갱생보호프로그램을 연결해 줬다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘공천 개입’ 의혹 명태균, 8시간 만에 檢 조사 종료…내일 조사 이어간다</title>
       <link>https://www.chosun.com/national/court_law/2024/11/08/CHHTK2O66BDLBNP3IN5Y4J66ZY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/08/CHHTK2O66BDLBNP3IN5Y4J66ZY/</guid>
@@ -777,15 +874,6 @@
       <description/>
       <pubDate>Fri, 08 Nov 2024 09:36:24 +0000</pubDate>
       <content:encoded>윤석열 대통령 부부 ‘공천 개입’ 의혹의 핵심 인물인 정치 브로커 명태균씨의 검찰 조사가 출석 8시간여 만인 오후 6시쯤 종료됐다. 명씨는 오는 9일 오전 9시 30분까지 검찰에 출석해 추가 조사를 받기로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IVEX3KLBKJLC3AR4K27IMTUG5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정치 브로커 명태균씨가 8일 오후 창원지검에서 조사를 마치고 나오며 취재진 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;명씨는 이날 오후 5시 56분쯤 조사를 마치고 나왔다. 오전에 출석할 때와 마찬가지로, 오른손은 지팡이를 짚은 채였다. 왼손엔 갈색과 흰색 서류봉투를 1개씩 들은 채였다. 최근 무릎 수술을 받았다고 밝힌 명씨는 한걸음씩 천천히 계단을 내려와 취재진 앞에 섰다.&lt;br&gt;&lt;br&gt;명씨는 ‘어떤 내용을 주로 소명했느냐’는 취재진 질문에 “조사 받으며 성실히 답변했다”고 밝혔다. 그는 “언론과 강혜경씨가 만든 거짓의 산들이 하나씩 무너질 것이라 생각한다”고 했다.&lt;br&gt;&lt;br&gt;공천 개입 의혹을 비롯해, 명씨를 둘러싼 여론조사 비용 불법 조달 의혹, 불법 여론조사 의혹, 창원 국가산업단지 선정 과정 개입 의혹 등 구체적인 의혹을 묻는 질문에는 답하지 않았다. 명씨를 대리하는 김소연 변호사는 “내일 또 조사를 받아야 돼서 다음 번에 이야기하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CDPU3FOQHJNURAGGYQUJ4R62AQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정치 브로커 명태균씨가 8일 오후 창원지검에서 조사를 마치고 나오며 취재진 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;창원지검 전담수사팀(팀장 이지형 차장검사)은 명씨를 이날 오전 10시 정치자금법 위반 혐의 피의자 신분으로 소환해 조사했다. 지난 9월 공천 개입 의혹이 불거진 뒤 첫 피의자 조사다. 명씨는 이날 조사에 앞서 “저의 언행이 경솔했다”며 “국민 여러분께 민망하고, 부끄럽고 죄송하다”고 했다. 그러면서 “돈의 흐름을 보면 이 사건은 금방 해결된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘강남역 연인 살인’ 대학생에 사형 구형…“사형수로 평생 참회해야”</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/08/HN7GZ2P3XBC4XKS6AYWIJLOC2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/08/HN7GZ2P3XBC4XKS6AYWIJLOC2U/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Nov 2024 09:29:44 +0000</pubDate>
-      <content:encoded>“삶에 대한 원동력이 없기 때문에 남은 제 삶은 무의미하다. 저는 (범행일인) 5월 6일부터 지금까지 줄곧 제가 원하는 건 사형 외엔 없다고 사법 기관에 누차 말해왔다.” (피해자 아버지 진술 중 일부)&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5U6HK3JS6BILFDT5XUSSHQCCTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여자친구를 흉기로 찔러 살해한 혐의(살인)를 받는 20대 대학생 최모씨가 지난 5월 14일 오전 서울 서초구 서초경찰서에서 검찰 송치를 위해 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 서울 강남역 인근 건물에서 여자친구를 살해한 혐의로 구속 기소된 대학생 최모(25)씨에게 사형을 선고해달라고 요청했다. 피해자 측 아버지도 발언권을 얻어 “납득할 만한 판결이 선고될 것이라 믿는다”고 호소했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사27부(재판장 우인성)는 8일 살인 등 혐의로 재판에 넘겨진 최씨에 대한 검찰 구형 의견과 피고인 최후 진술 등을 듣는 결심(結審) 공판을 진행했다. 최씨는 녹색 수의를 입은 채 출석했다.&lt;br&gt;&lt;br&gt;검사는 이날 이례적으로 길게 구형 사유를 밝혔다. 검사는 “최씨는 마지막까지 피해자에 대한 일말의 미안함도 보이지 않았다. (최씨가) 앞으로 잃을게 아니라 피해자를 이미 잃었다는 것에 집중해야 한다”며 “피해자는 본인 이름 석자 대신 영원히 ‘피해자’로 남게 됐다”고 일갈했다.&lt;br&gt;&lt;br&gt;그러면서 “존엄한 법과 정의의 이름으로 (최씨는) 영원히 격리가 불가피하다”면서 “사형이 집행되지 않더라도 사형수로 평생 참회하는 시간을 갖게 해야 한다”며 재판부에 사형을 선고해달라고 요청했다.&lt;br&gt;&lt;br&gt;이어 최씨도 준비해 온 종이를 읽으며 최후 진술을 했다. 그는 “제 마지막 진술은 사죄”라며 “피해자와 가족분들, 그리고 피해자가 사랑하신 모든 분들께 무릎 꿇고 고개 숙여 사죄드린다. 정말 잘못했다”고 말했다.&lt;br&gt;&lt;br&gt;또 “피해자의 가장 고귀한 권리를 뺏은 것은 남은 인생 동안 제가 짊어져야 할 죄”라며 “한때나마 타인을 돕고 치료하는 사람으로 성장하리라 기대했던 저는 기대 부응은커녕 슬픔과 충격만 안겼다”고 했다.&lt;br&gt;&lt;br&gt;최씨는 “부모님은 평생 제게 올바른 가치관을 가르쳤다”면서도 “전 그렇게 살지 못했고 용서받지 못할 죄를 저질렀다”고도 했다.&lt;br&gt;&lt;br&gt;이날 법정을 찾은 피해자의 아버지도 재판 말미에 “제 딸이 악마한테 비참하게 전전긍긍하다 왜 살해됐는지 도무지 납득할 수가 없다”며 “흘릴 수 있는 눈물의 끝이 어디인지 알 수 없을 정도로 눈물 없이 단 한 시간도 살아갈 수 없는 상황”이라고 울먹였다.&lt;br&gt;&lt;br&gt;아버지는 재판장도 거론하며 “재판장님 제발 저 자리에 앉은 살인마에게 사형을 선고해주시길 무릎 꿇고 간청한다”며 “살인자들이 법을 우습게 여기고 범죄를 자행하는 일이 없도록 해달라”고 목소리를 높였다.&lt;br&gt;&lt;br&gt;최씨 측 변호인은 “공소 사실을 모두 인정하고 용서받기 어려운 범행을 저질렀다”면서도 “형사 처벌 전력이 없고 누구보다 성실히 살아온 학생이었던 점을 참작해달라”고 했다.&lt;br&gt;&lt;br&gt;최씨는 지난 5월 6일 오후 5시 넘어 서울 강남역 9번 출구 인근 건물 옥상에서 흉기를 수차례 휘둘러 여자친구를 살해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면 최씨는 범행 두 시간 전 집 근처인 경기 화성의 한 대형 마트에서 흉기를 산 뒤 피해자를 범행 장소로 불러냈다. 최씨는 서울의 한 명문대에 재학 중인 의대생인 것으로 파악되기도 했다.&lt;br&gt;&lt;br&gt;최씨는 여자친구와 올해 4월 혼인신고를 했는데, 이 과정에서 부모에게 알리지 않았고 피해자 부모가 이를 뒤늦게 알게 된 뒤 혼인 무효 소송을 추진한 것으로 조사됐다. 결국 두 사람은 결별 문제 등으로 다퉜고, 여자친구가 헤어지자고 하자 최씨가 범행을 결심한 것으로 검찰은 보고 있다. 재판 과정에서 최씨 측 주장에 따라 정신감정도 받았는데 감정 결과 최씨는 범행 당시 심신 장애는 있지 않았던 것으로 나왔다.&lt;br&gt;&lt;br&gt;최씨에 대한 선고 공판은 12월 20일 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>내일 서울 도심 ‘집회 지옥’된다...10만명 결집 예고</title>
@@ -797,24 +885,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4PGCR3MIJRPWNG3C74LARQCWOY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 오후 서울 중구 서울역 인근에서 열린 ‘김건희 국정농단 범국민 규탄대회’./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 서울 도심에서 대규모 정치 집회가 잇따라 열린다. 반(反) 윤석열 대통령 집회를 개최하는 더불어민주당을 비롯, 친야 단체 수십 곳이 시청역·광화문·숭례문 등에 결집한다. 전광훈 목사의 자유통일당도 이에 맞불을 놓는 ‘주사파 척결 국민 대회’를 개최할 예정이다. 양측이 경찰에 신고한 인원은 10만명에 육박한다. 경찰은 만일의 사태에 대비, 비상근무 체제에 들어갔다. 이 같은 대규모 정치 집회는 올겨울 내내 주말마다 이어질 전망이다.&lt;br&gt;&lt;br&gt;9일 오후 4시 민노총 등 친야 단체 43곳이 구성한 ‘윤석열정권퇴진운동본부’는 중구 덕수궁 대한문에서 숭례문 구간을 점거하고 ‘전국노동자대회·1차 퇴진 총궐기 대회’를 연다. 약 3만2000명이 참여할 예정이다. 이에 앞서 사직로·을지로·충무로 등 곳곳에서 민노총 산별 노조와 친야 단체들이 주최하는 사전 집회도 열린다. 전국장애인차별철폐연대(전장연)는 오후 2시부터 충무로역 일대에서 ‘전국장애인노동자대회’(경찰 추산 1000명)를 개최한다. 모두 ‘윤 대통령 퇴진’을 주장하는 단체다.&lt;br&gt;&lt;br&gt;민주당·조국혁신당·진보당·기본소득당·사회민주당 야(野) 5당은 이날 오후 6시 30분부터 시청역과 숭례문 일대에서 ‘제2차 국민 행동의 날’을 진행한다는 방침이다. 지난 2일 ‘김건희 윤석열 국정 농단 규탄·특검 촉구 집회’에 이은 집회다. 이재명 대표 등 당 지도부가 윤 대통령과 김 여사 비판 수위를 높일 것으로 예상된다. 오세훈 서울시장은 8일 페이스북에서 민주당의 2차 장외 집회에 대해 “170석 의석을 거느리고도 국회가 아닌 거리에서 투쟁과 타도만 외친다”고 했다. 이 같은 친야 단체에 맞서 대규모 맞불 집회도 예고됐다. 대한민국바로세우기운동본부(대국본)·자유통일당 등 2만여 명은 이날 오후 1시부터 서울 중구 동화면세점~시청역 인근에선 ‘주사파 척결 국민 대회’를 개최한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3LIKSLISLZFGRHOMWCTQSDHAWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 9일 오후 서울 중구 세종대로 일대에서 열린 자유통일당 집회./고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광화문 등 도심에선 올해 들어 단 한 번도 빼놓지 않고 매 주말 집회가 열리는 상황이다. 시민들은 극심한 피로감을 호소한다. 광화문 인근에서 카페를 운영하는 김모(37·남)씨는 “광화문은 ‘시민’이 아닌 ‘시위’의 광장이 됐다”며 “대형 스피커로 귀가 찢어질 듯한 함성과 노랫소리 등 무분별한 소음도 참기 힘들다”고 했다. 쓰레기 문제도 심각하다. 광화문·시청·숭례문·서울역 등 주요 지점에서 집회가 끝난 자리엔 손팻말과 음료수 병, 종이컵 등 쓰레기와 담배꽁초가 넘쳐난다. 인근 빌딩은 화장실을 엉망으로 만드는 집회 참석자들 때문에 아예 문을 잠그기도 한다.&lt;br&gt;&lt;br&gt;시위대가 주말마다 차로를 점거하면서 주말도 생계를 위해 출근하는 회사원이나 자영업자들은 “생존에 위협을 겪을 지경”이라고 말한다. 남대문시장에서 생필품을 판매하는 최모(57)씨는 “주말 장사가 중요한데 집회가 있으면 손님들 발길도 끊겨 장사가 어렵다”고 했다. 서울에서 택시 회사를 운영하는 사장 A씨는 “알만한 택시 기사들은 주말 도심을 모두 피한다”며 “시위 때문에 정치 혐오가 생겼다고 말하는 기사도 많다”고 했다. 경복궁·덕수궁 등을 찾는 외국인 관광객들도 “한국은 지금 전쟁 중이냐”며 놀란 표정을 짓는다.&lt;br&gt;&lt;br&gt;대규모 집회는 연말까지 줄줄이 예고돼 있다. 오는 16일 촛불행동은 윤석열 대통령을 규탄하는 내용의 ‘전국 집중 촛불’ 집회를 신고한 상태다. 23일에는 민노총 공공운수노조 1만여 명이 여의도 의사당대로 전 차로를 점거하고 임금 인상 등을 요구할 예정이다. 윤성이 경희대 정치외교학과 교수는 “집회·시위는 헌법적 권리이므로 때로는 그 과정에서 나타나는 불편함을 감수할 필요도 있다”면서도 “공공과 시민의 재산인 광장을 진영의 세를 과시하려는 수단으로 사용하는 것은 민주주의 발전의 걸림돌”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>태국군 ‘6·25 참전용사’ 부산 유엔기념공원에 첫 안장</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/11/08/OQG6S5UBVZHFLDRCPCABJ4D5WI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/11/08/OQG6S5UBVZHFLDRCPCABJ4D5WI/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Nov 2024 08:58:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LBXSTSIXK5E4JOTXJOZSX3AQFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오는 11일 부산 남구 대연동 유엔기념공원에 안장될 태국군 6·25 참전 용사./재한유엔기념공원관리처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·25전쟁에 참전했던 태국군 용사가 부산 남구 대연동 유엔기념공원에 처음으로 안장된다.&lt;br&gt;&lt;br&gt;재한유엔기념공원관리처는 오는 11일 낮 12시 태국 참전용사인 ‘롯 아사나판’씨의 유해를 기념공원 안 참전용사 묘역에 안장한다고 8일 밝혔다. 6·25전쟁에 참전한 태국군 용사가 유엔기념공원에 묻히는 첫 사례다. 아사나판씨는 1922년 8월 14일에 태어나 지난해 6월 14일 100세의 나이로 영면했다.&lt;br&gt;&lt;br&gt;그는 용기와 민첩성을 자랑하는 태국군 ‘리틀 타이거’ 부대 소속으로 1952년 11월 18일부터 1953년 10월 28일까지 6·25전쟁에 참전했다. 이후 대한민국의 자유와 평화를 위해 헌신한 공로를 인정받아 태국 정부로부터 ‘빅토리 메달’을 수훈했다.&lt;br&gt;&lt;br&gt;재한유엔기념공원관리처 측은 “그는 작년 국가보훈부 초청으로 한국을 방문, 유엔기념공원을 둘러본 뒤 참전용사묘역에 안장되는 것을 희망했다”며 “유족들에 따르면 그는 평생 규율과 정직함, 정의로움을 중요하게 생각했다고 한다”고 말했다.&lt;br&gt;&lt;br&gt;아사나판씨가 안장되면 유엔기념공원에는 총 14개국 2330명의 용사가 잠들게 된다. 안장 용사들은 대부분 6·25 전쟁 당시 산화한 전사자들이지만, 아사나판 용사처럼 본국으로 생환했다가 사후 이곳에 묻히기를 희망하며 안장되는 경우도 있다. 사후 안장은 지난 2015년 프랑스 레몽 베나르 참전용사 이후 올해 5월까지 총 27명의 사례가 있다.&lt;br&gt;&lt;br&gt;아사나판씨는 28번째사후 안장자가 된다. 그의 안장식에는 딸과 손녀, 강정애 국가보훈부장관, 타니 쌩랏 주한태국대사, 참전용사들과 유엔평화봉사단 소속 학생 등 100명이 참석한다. 안장식 날 오전 11시에는 전 세계가 부산 유엔기념공원을 향해 고개를 숙여 추모하는 ‘턴 투워드 부산’ 행사가 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“신고 취소해달라”...’화천 토막 살인’ 軍장교, 피해자인척 경찰과 전화</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/08/PLFGGO3PCFAO7MRXF76MZVJCWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/08/PLFGGO3PCFAO7MRXF76MZVJCWQ/</guid>
-      <dc:creator>박정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Nov 2024 07:29:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U7OACRR5OVHO5DOVDJF5X3UZOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;관악경찰서. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동료 여성 군무원을 살해하고 시신을 훼손해 강원 화천군 북한강에 유기한 현역 군 장교인 30대 남성이 범행 후 이를 숨기기 위해 피해자인 여성을 흉내내는 보이스톡을 하며 피해자 가족의 미귀가 신고를 취소하려 한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면 육군 소령 A씨는 범행 이튿날인 지난달 26일 새벽 피해자인 30대 여성 B(33)씨의 휴대전화로 그 어머니에게 ‘당분간 집에 못 들어간다’는 취지의 문자를 보낸 것으로 전해졌다. 이에 서울 관악구에 사는 B씨의 어머니는 같은 날 오전 8시 40분쯤 112에 딸이 집에 들어오지 않는다며 미귀가 신고를 했다.&lt;br&gt;&lt;br&gt;서울 관악경찰서는 B씨 휴대전화로 등기 문자를 보내고 파출소 직원이 카카오톡 메시지와 보이스톡을 보내는 등 조치에 나섰다. 그러자 A씨는 B씨 휴대전화로 파출소 직원에 보이스톡을 걸어 여자인 척 하면서 B씨 본인만이 알 수 있는 개인정보를 말해 경찰을 속이려 했다고 한다. 이후 A씨는 112에도 동일한 수법으로 전화해 “고속도로를 달리고 있으니 연락이 어렵다”며 “신고를 취소해달라”고 요청했다고 한다.&lt;br&gt;&lt;br&gt;경찰은 B씨 어머니에게 피해자와 전화 연결은 됐지만 대면해서 확인해야 한다며 직장에 공문을 보내고 수사 협조를 요청하겠다고 했지만, B씨 어머니는 ‘부담이 될 수 있다’며 직접 신고를 취소한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 A씨는 지난달 25일 오후 3시쯤 부대 내 주차장에 세워진 자신의 차량에서 같은 사무실에 근무하던 군무원 B씨와 말다툼을 벌이다 격분해 목을 졸라 살해한 혐의를 받는다. A씨는 같은 날 오후 9시쯤 부대 인근 공사현장에서 B씨의 시신을 훼손했으며, 훼손한 시신은 10개의 비닐봉지에 담아 다음날 오후 9시 40분쯤 강원 화천군 북한강에 유기했다. A씨는 유기한 시체가 떠오르는 것을 막기 위해 비닐봉지에 돌덩이를 함께 담았으며, 범행도구는 유기 장소로 이동하며 곳곳에 버리는 등 범행의 치밀함을 보이기도 했다. 또 A씨는 B씨가 출근을 하지 않으면 범행이 들통날 것을 우려해 A씨의 휴대전화로 부대 측에 “휴가처리를 부탁한다”는 메시지를 보내는 등 범행 은폐도 시도했다. 법원은 지난 5일 증거 인멸과 도주 우려가 있다며 A씨에 대한 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“최태원이 김희영에 1000억 증여” 발언 노소영 변호인, 검찰 송치</title>
       <link>https://www.chosun.com/national/court_law/2024/11/08/FCV6I4UZ2RCMTP53XM7SMJGNHY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/08/FCV6I4UZ2RCMTP53XM7SMJGNHY/</guid>
@@ -822,58 +892,6 @@
       <description/>
       <pubDate>Fri, 08 Nov 2024 06:53:37 +0000</pubDate>
       <content:encoded>“최태원 SK그룹 회장이 동거인에게 쓴 돈이 1000억원이 넘는다”고 발언한 노소영 아트센터 나비 관장의 법률대리인이 허위사실 공표 혐의로 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;최 회장 측이 노 관장의 변호인인 이모 변호사를 고발한 사건을 수사한 서초경찰서는 최근 이 변호사의 일부 혐의를 검찰로 송치한 것으로 전해졌다. 서울중앙지검은 사건을 형사5부(부장 김태헌)에 배당한 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAYFMRCC2AUR6DZ7N4KDFPOZIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4월 16일 서울 서초구 고등법원에서 열린 이혼 관련 항소심 변론기일에서 취재진 질문에 답하는 최태원 SK그룹 회장(왼쪽)과 노소영 아트센터 나비 관장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 변호사는 지난해 11월 서울가정법원에서 노 관장이 김희영 티앤씨재단 이사장에게 제기한 위자료 소송 첫 변론기일을 마친 뒤 “2015년 최태원 회장이 김희영 이사장과의 관계를 밝힌 이후부터만 봐도 최 회장이 김 이사장에게 쓴 돈이 1000억이 넘는 것으로 파악됐다”고 말했다. 이어 “최 회장이 가족인 노 관장과 자녀들에 지출한 돈보다 몇배 이상이라고 생각한다”며 “대리인 입장에서도 액수가 매우 커서 놀랐다”고 했다. 지출 내역에 대해선 “티앤씨재단으로 간 돈도 있고 친인척 계좌 등으로 현금이 이체되거나 카드로 결제된 금액도 있다”고 했다.&lt;br&gt;&lt;br&gt;그러자 최 회장 측이 이 변호사를 형법·가사소송법·금융실명법 위반 혐의로 조사해달라며 고소장을 냈다. 최 회장 측 변호인단은 “최 회장이 동거인에게 1000억원을 지급하거나 증여한 사실이 전혀 없음에도 이 변호사가 노 관장의 위자료 재판을 마친 뒤 브리핑을 자처해 이같은 허위사실을 공표했다”고 했다.&lt;br&gt;&lt;br&gt;한편 대법원이 심리 중인 최 회장과 노 관장의 이혼 소송 상고심 심리불속행 기간은 8일 밤 12시까지다. 대법원이 이날까지 심리불속행 기각 결정을 내리지 않으면 정식 심리를 거쳐 선고를 하게 된다. 반면 심리불속행 기각 결정이 나올 경우, 최 회장이 노 관장에게 1조3808억원의 재산분할금과 20억원의 위자료를 지급하도록 한 2심 판결이 그대로 확정된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>은마아파트 상가 지하서 화재…1명 부상·200명 대피</title>
-      <link>https://www.chosun.com/national/incident/2024/11/08/WJXZ3AAR6FCPNGREDIVYYDCEL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/08/WJXZ3AAR6FCPNGREDIVYYDCEL4/</guid>
-      <dc:creator>안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Nov 2024 06:23:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UZC7VHPJIJEI5F2TLB4VV2AOMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구 대치동 은마아파트 단지와 8일 화재가 발생한 은마아파트 상가. /이태경 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 오후 서울 강남구 대치동 은마아파트 상가(은마종합상가) 지하에서 화재가 발생했다. 이 화재로 상가에 있던 200명이 대피했고, 화상을 입은 1명이 병원에 이송됐다.&lt;br&gt;&lt;br&gt;강남소방서에 따르면, 8일 오후 2시 19분쯤 은마아파트 상가 지하 1층의 한 반찬가게에서 화재 신고가 접수됐다. 소방당국은 인원 95명·장비 24대를 투입했고, 화재 발생 21분 후인 2시 40분 초진(초기 진화)됐다.&lt;br&gt;&lt;br&gt;현재 완진(완전 진화)은 안 된 상태다.&lt;br&gt;&lt;br&gt;소방당국은 음식 조리 중 기름이 튀며 화재가 발생한 것으로 보고, 정확한 화재 원인을 파악 중이다.&lt;br&gt;&lt;br&gt;한편 화재가 시작된 반찬가게에서 조리를 하다가 가벼운 화상을 입은 환자가 병원에 이송돼 치료를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6TLGP6SR5AG3FMICC3A3VWRIB4.jpg?width=478&amp;height=252&amp;auth=42a76e410efbe0323cb1a65030f7a5504bb1032566ad6d63cce78e4da2bdd23b&amp;smart=true" type="image/jpeg" height="252" width="478">
-        <media:description type="plain">서울 강남구 대치동 은마아파트 단지.</media:description>
-        <media:credit role="author" scheme="urn:ebu">조선일보 DB</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>[단독] ‘김옥균 프로젝트’ 유포 사건, 남부지검이 수사…최초 유포자는 특정 안 돼</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/08/ZHOGVDWH5FFUVHZFJXRA77DQRY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/08/ZHOGVDWH5FFUVHZFJXRA77DQRY/</guid>
-      <dc:creator>유희곤 기자, 유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Nov 2024 06:41:19 +0000</pubDate>
-      <content:encoded>국민의힘 전당대회에서 친윤석열계가 한동훈 국민의힘 대표의 조기 낙마를 모의한다는 일명 ‘김옥균 프로젝트’ 지라시 유포 사건을 서울남부지검이 수사한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AYXQOIGPXNF6KADYKS6VT2EFMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한동훈 국민의힘 대표가 11월 7일 오전 서울 여의도 국회에서 열린 최고위원회의에서 생각에 잠겨 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 이 사건을 배당받았던 서울중앙지검 형사3부(부장 최순호)는 최근 피의자 주거지 등을 고려해 사건을 서울남부지검으로 이송했다. 사건은 형사1부(부장 이승훈)에 배당된 상태다. 다만 선거 범죄를 전담하는 형사6부(부장 추창현)로 재배당될 가능성도 있다.&lt;br&gt;&lt;br&gt;앞서 서울경찰청은 김옥균 프로젝트 지라시를 유포한 피의자 5명을 특정, 명예훼손 혐의로 지난달 18일 서울중앙지검에 송치했다. 이들은 국민의힘 지지자 등이 모인 단체 대화방에 이 지라시를 유포해 이철규 국민의힘 의원 등의 명예를 훼손한 혐의를 받는다. 다만 송치된 이들 중 지라시를 최초로 작성한 사람은 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김옥균 프로젝트 지라시는 지난 7월 23일 국민의힘 전당대회에서 한 대표가 당선될 경우에 대비해 친윤계가 조기 낙마 계획을 짜고 있다는 내용이다. 1884년 12월 4일 김옥균 등 급진개화파가 청나라로부터의 독립과 조선 개화를 내걸고 갑신정변을 일으켰다가 사흘 만에 실패로 끝난 것에 빗댄 것이다.&lt;br&gt;&lt;br&gt;지라시에서 핵심 주동자로 지목됐던 이철규 국민의힘 의원은 “황당한 얘기”라며 지난 7월 유포자들을 경찰에 고소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울의대, 강희경 교수 비대위 체제 재신임...78%가 찬성 </title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/11/08/WVUMOLCLMVB73GUWYIGGSWA5UI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/11/08/WVUMOLCLMVB73GUWYIGGSWA5UI/</guid>
-      <dc:creator>강다은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Nov 2024 06:10:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CQKK7PR3MVEONLM7QHAQKUPCLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 10일 서울 종로구 서울대학교 의과대학 융합관에서 열린 서울대 의대 교수 비대위·보건복지부 주최 ‘의료개혁, 어디로 가는가‘ 토론회 현장./김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대 의대·병원 교수 비상대책위원회의 현 비대위에 대한 재신임 투표 결과 현 비대위가 재신임됐다.&lt;br&gt;&lt;br&gt;8일 서울대 의대 비대위는 서울대 의대 병원교수들을 상대로 현 비상대책위에 대한 재신임투표 결과 비대위가 재신임됐다고 밝혔다. 서울대의대·병원 교수들은 지난 6일부터 사흘간 강희경 교수를 비상대책위원장으로 하는 현 비대위에 대한 재신임 여부를 묻는 투표를 진행했다. 그 결과 총 응답자 683명의 77.7%(531명)가 현재 비대위를 계속 신임한다고 답변했다.&lt;br&gt;&lt;br&gt;앞서 지난 6일 서울대 의대 비대위는 비대위 재신임 여부를 묻는 투표 메일을 교수들에게 보냈다. 이번 투표에서는 ‘3기 비대위 신임’에 대한 찬반 의견만 조사했다. 3기 비대위는 올해 5월 강희경 서울대병원 소아청소년과 교수가 위원장으로 선출된 뒤 6개월째 이어지고 있다. 1기는 정진행 위원장, 2기는 방재승 위원장 체제로 운영됐다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“저 윤석열, 국민 괴롭혀”...‘尹 짜깁기 영상’ 제작자 檢 송치</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/08/LY3CB6FOMNB5LHJUXZQ6JFD2BQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/08/LY3CB6FOMNB5LHJUXZQ6JFD2BQ/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Nov 2024 05:05:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JPYRKTFVCRD2DCS4CRKDMZN3PY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 11월 틱톡 등 소셜미디어에 퍼졌던 윤석열 대통령 가짜 영상. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“저 윤석열, 국민을 괴롭히는 법을 집행해 온 사람입니다.”&lt;br&gt;&lt;br&gt;2022년 대선 후보 TV 연설 장면을 편집해 윤석열 대통령이 이렇게 발언한 것처럼 허위로 영상물을 만든 50대 남성이 검찰 수사를 받게 됐다. 당초 딥페이크(AI로 만든 진짜 같은 가짜 콘텐츠)로 알려졌던 이 영상은 짜깁기해 만든 가짜 영상이었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;8일 경찰에 따르면, 서울경찰청 사이버수사대는 정보통신망법상 명예훼손 혐의로 A씨를 지난 1일 검찰에 송치했다. A씨는 틱톡과 메타, 인스타그램 등 여러 소셜미디어에 ‘가상으로 꾸며본 윤 대통령 양심 고백 연설’이라는 영상을 올려 윤 대통령의 명예를 훼손한 혐의를 받는다.&lt;br&gt;&lt;br&gt;문제의 영상은 46초 분량으로, 윤 대통령이 “무능하고 부패한 윤석열 정부는 특권과 반칙, 부정과 부패를 일삼았다” “저 윤석열은 상식에서 벗어난 이념에 매달려 대한민국을 망치고 국민을 고통에 빠뜨렸다”고 말하는 것처럼 연출됐다.&lt;br&gt;&lt;br&gt;지난해 11월쯤부터 소셜미디어에 널리 공유되기 시작한 이 영상은, 처음에는 윤 대통령을 겨냥한 딥페이크 영상인 것으로 추정됐다. 그러나 경찰이 딥페이크 탐지 시스템으로 분석한 결과 AI를 이용해 만들어낸 것이 아닌, 윤 대통령이 대선후보로서 한 TV 연설 장면을 편집해 만든 짜깁기 영상으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 A씨를 비롯해 영상 유포자 등 11명을 수사해왔다. 이 가운데 5명은 A씨와 함께 정보통신망법상 명예훼손 혐의로 넘겼으며 나머지 5명은 혐의없음으로 종결했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>﻿어린 딸 앞세워 무단횡단…가까스로 사고 피한 순간 ‘아찔’</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/08/SSOFQLH4TZGW7IHMZD5AHQIFIM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/08/SSOFQLH4TZGW7IHMZD5AHQIFIM/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Nov 2024 04:56:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ADCFOM5X25FTPG7QFNYPQTMG6M.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 26일 강원도 원주의 한 유원지에서 아이와 어머니로 보이는 여성이 도로와 인도를 구분하는 보호난간을 넘고 있다. /유튜브 한문철TV&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 원주의 한 유원지에서 어머니가 아이를 앞세워 무단횡단을 하다 큰 사고로 이어질 뻔한 아찔한 상황이 공개됐다.&lt;br&gt;&lt;br&gt;유튜브 채널 ‘한문철 TV’에 따르면 지난달 26일 지역 축제 장소로 향하던 제보자 A씨는 황당한 장면을 목격했다.&lt;br&gt;&lt;br&gt;A씨가 제보한 블랙박스 영상을 보면 한 모녀가 인도와 차도를 구분하기 위해 설치한 보호난간으로 다가왔다. 이후 어머니로 보이는 여성은 아이를 먼저 들어 올려 보호난간을 넘도록 했다. 이내 자신도 뒤따라 도로 쪽으로 넘어갔다.&lt;br&gt;&lt;br&gt;정체된 차들로 인해 반대편 차선이 보이지 않는 상황에서 여성은 아이를 앞세워 도로를 가로지르기 시작했다. 반대편 차선에서 대형 흰색 승합차가 달려오던 상황이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RPIWP3LMZJEAPCOSJWKGOUHW5U.gif"&gt;&lt;figcaption&gt;&lt;small&gt;대형 승합차가 달려오는 상황에 아이와 여성이 무단횡단을 하고 있다. /유튜브 한문철TV&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 모습을 지켜보던 A씨는 차가 다가오고 있다는 사실을 알리기 위해 경적을 울렸지만, 모녀는 더 빨리 달렸다고 한다. 다행히 승합차가 모녀를 보고 급제동하며 사고는 발생하지 않았다. 자칫 큰 사고가 날 뻔한 상황임에도 여성은 아랑곳하지 않고 아이와 함께 다시 반대편 도로의 보호난간을 넘어 사라졌다고 한다.&lt;br&gt;&lt;br&gt;A씨는 “(경고하려고) 경적을 여러 번 울렸는데 부끄러운 모습을 아는지 더 서둘러 건너버려서 도울 방법이 없었다”며 “아이까지 앞세우고 건너는 모습은 볼 때마다 화가 난다. 경각심을 가졌으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;영상을 본 한문철 변호사는 “(저 모녀는) 죽을 뻔했다. 반대편에서 달려오던 승합차 차주는 얼마나 놀랐겠나”라며 “A씨가 경적을 울려준 덕분에 두 생명을 살릴 수 있었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RPIWP3LMZJEAPCOSJWKGOUHW5U.gif?width=595&amp;height=343&amp;auth=e441d36b751525c5d0d5b1f76dfae1aa6b4a635d87c630b2e73345fb6f28af24&amp;smart=true" type="image/jpeg" height="343" width="595">
-        <media:description type="plain">대형 승합차가 달려오는 상황에 아이와 여성이 무단횡단을 하고 있다. /유튜브 한문철TV</media:description>
-      </media:content>
     </item>
     <item>
       <title>승객 가방에서 명품 가방 등 훔친 항공사 하청 직원…징역 1년 추가</title>
@@ -946,19 +964,6 @@
       <description/>
       <pubDate>Thu, 07 Nov 2024 21:09:42 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5CNDNZNJT5HRLMTNNQYNGRROTU.png"&gt;&lt;figcaption&gt;&lt;small&gt;해양경찰 로고. /해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 오전 4시 34분쯤 제주 비양도 북서쪽 약 24㎞ 해상에서 부산 선적 선망 어선 A(129t)호가 침몰 중이라는 신고가 해경에 접수됐다.&lt;br&gt;&lt;br&gt;해경에 따르면 A호 승선원은 시스템상 27명으로, 이 중 현재 14명은 구조됐으나 2명은 의식이 없고 12명은 의식이 있는 상태로 파악됐다.&lt;br&gt;&lt;br&gt;해경은 실종자 13명을 찾기 위해 현장에서 수색을 벌이고 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 대형 건설사 시공 공사장서 추락한 50대 男, 사고 9일 만에 사망</title>
-      <link>https://www.chosun.com/national/incident/2024/11/07/7WRXG3XP4JGYBKDNYWLI2K2TCA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/07/7WRXG3XP4JGYBKDNYWLI2K2TCA/</guid>
-      <dc:creator>안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Nov 2024 07:02:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OGR72NUCBRGSABSZ2MDTYK45QY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 5일 오후 서울 시내의 한 아파트 건설 현장 모습. 사건과 관련 없음/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대형 건설사가 시공을 맡고 있는 서울 광진구 자양동 아파트와 새 광진구청사 신축 공사 현장에서 추락한 50대 노동자 A씨가 사고 9일 만인 지난 6일 결국 사망했다. 시공사는 롯데건설이다.&lt;br&gt;&lt;br&gt;서울 광진경찰서와 소방당국에 따르면, 지난달 28일 오후 2시 10분쯤 서울 광진구 자양동 건축공사 현장 지하 3층에서 일하고 있던 50대 노동자 A씨가 지하 5층으로 떨어져 중상을 입는 사고가 발생했다. 사고 직후 A씨 동료의 신고를 접수한 소방당국은 오후 2시 18분쯤 현장에 도착해 의식 불명 상태에 빠진 A씨를 발견했다. A씨는 인근 대형 병원으로 옮겨져 치료를 받았으나 결국 숨졌다.&lt;br&gt;&lt;br&gt;해당 건설 현장은 롯데건설이 서울 광진구 자양동에 있던 서울동부지검·지법이 지난 2017년 송파구로 이전한 뒤 방치돼있던 공터에 아파트와 새 광진구청사를 짓고 있다. 지난 7월에도 이곳에서 엘리베이터 설치 작업을 하던 50대 남성 근로자가 엘리베이터 부품에 맞아 숨지기도 했다. 이 아파트 현장에서만 노동자 2명이 목숨을 잃은 것이다.&lt;br&gt;&lt;br&gt;고용노동부 관계자는 “피해자가 어제 결국 숨지면서 본격적으로 중대재해법 위반 여부 조사에 착수하게 됐다”며 “건설 현장에서의 위반사항, 안전보건관리체계구축 등을 살펴보고 있다”고 했다. 서울지방고용노동청에서 곧 시공사 등 건설 관계자들도 소환 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/OGR72NUCBRGSABSZ2MDTYK45QY.jpg?width=1786&amp;height=1156&amp;auth=aa470f5ccc653e0d114731cc16fac07c5c46f51184cd3b2cdf521a52df17b3bf&amp;smart=true" type="image/jpeg" height="1156" width="1786">
-        <media:description type="plain">지난달 5일 오후 서울 시내의 한 아파트 건설 현장 모습. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
     </item>
   </channel>
 </rss>
