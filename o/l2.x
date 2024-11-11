@@ -93,8 +93,8 @@
 			<link>https://www.lawtimes.co.kr/opinion/202665</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/202665</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/256/202665.jpg</media:thumbnail>
-			<dc:creator>재니스 H. 로건 파트너변호사(모건 루이스)</dc:creator>
-			<dc:creator>박주성 변호사(모건 루이스)</dc:creator>
+			<dc:creator>재니스 H. 로건</dc:creator>
+			<dc:creator>박주성</dc:creator>
 		</item>
 		<item>
 			<title>현장에서 : 배보다 배꼽이 더 큰 직무발명보상금 세율 - 직무발명보상금을
