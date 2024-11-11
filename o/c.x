@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>비오는 날 맨발로 들어온 노숙자…새 신발 신겨 보낸 옷가게 사장</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/12/WUIMSU2A35CMPL5JK6AW6LWWNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/12/WUIMSU2A35CMPL5JK6AW6LWWNE/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 11 Nov 2024 22:29:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ARUXBHDPZFCCFCR7XI3EO4II44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;맨발로 가게에 들어온 노숙자에게 새 양말과 신발을 건넨 옷가게 사장./아프니까 사장이다&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;옷가게에 들어온 맨발의 노숙자에게 양말과 신발을 신겨 돌려보낸 한 가게 사장의 사연이 공개됐다.&lt;br&gt;&lt;br&gt;최근 네이버 카페 ‘아프니까 사장이다’에는 ‘매장에 들어온 노숙자…’라는 제목으로 대전에서 옷가게를 운영하는 사장의 글이 올라왔다.&lt;br&gt;&lt;br&gt;작성자는 “비가 와서 유독 더 한가했던 날 오후에 매장에 남성 노숙자가 들어왔다”며 “무슨 말인지 계속 중얼중얼거리며 매장 이곳저곳을 돌아다니더니 ‘겨울옷은 얼마냐’며 한마디 물어보고 조금 있다가 나가더라”고 했다.&lt;br&gt;&lt;br&gt;이어 “나가는 뒷모습을 보니 비도 오는데 물에 퉁퉁 불은 맨발로 걸어다니더라”고 했다.&lt;br&gt;&lt;br&gt;작성자는 “참을 수가 없어 나가서 둘러봤더니 멀리는 못갔더라”며 “같이 매장으로 들어와서 판매 중인 양말과 발에 맞는 운동화 신겨서 보내드렸다”고 했다. 그러면서 “요즘 너무 한가하지만 술 한잔 안 먹으면 되지 않느냐”고 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TZWSFLRRKFFR3PDFQUW3ILJHSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신발을 선물 받은 남성이 며칠 뒤 가게로 찾아온 모습./아프니까 사장이다&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그로부터 나흘 뒤 이 남성은 몰라보게 달라진 모습으로 다시 작성자의 가게를 찾아왔다고 한다.&lt;br&gt;&lt;br&gt;작성자는 “덥수룩하던 흰수염을 다 깎아서 다른 사람인 줄 알았다”며 “주섬주섬 뭘 꺼냈는데 증명사진이더라. 다음주에 주민등록증 재발급하러 간다더라”고 했다.&lt;br&gt;&lt;br&gt;이어 “돈 벌어서 신발값이라도 갚겠다고 하는 걸 선물이니 괜찮다고 말씀드렸다”고 했다.&lt;br&gt;&lt;br&gt;작성자는 “이번 일을 통해 저의 작은 행동이 누군가의 마음을 울릴 수 있는 일이라는 것을 알았다”며 “작게나마 더 베풀며 열심히 살겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이 사연이 전해지자 온라인상에서는 “이래서 세상은 아름다운가 보다” “마음이 있어도 쉽게 할 수 없는 일인데 정말 잘하셨다” “예상을 깨버린 결말, 감동 받았다” 등의 반응이 나오고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>부메랑 된 ‘민자고속도로 통행료 인하’… 세금 지원, 내년 2배</title>
       <link>https://www.chosun.com/national/transport-environment/2024/11/12/DLQLL2P5JFFYTJFNC6SP6T7YZI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/11/12/DLQLL2P5JFFYTJFNC6SP6T7YZI/</guid>
@@ -859,15 +868,6 @@
       <description/>
       <pubDate>Mon, 11 Nov 2024 02:48:44 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ZWPTVLHIVFDBEPIU7ZM4PG5BI.png"&gt;&lt;figcaption&gt;&lt;small&gt;청소 업체 직원에게서 받은 쪽지라며 한 네티즌이 올린 사진. /에펨코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방문 청소 업체 직원에게서 뜻밖의 선물을 받고 감동한 손님의 사연이 뒤늦게 관심을 끌고 있다.&lt;br&gt;&lt;br&gt;지난달 16일 한 온라인 커뮤니티에는 ‘오늘 청소업체 불렀는데 왜 이렇게 눈물이 나냐’라는 제목의 글과 함께 사진이 올라왔다.&lt;br&gt;&lt;br&gt;작성자 A씨가 올린 사진에는 청소 업체 직원으로 추정되는 이가 삐뚤빼뚤한 글씨체로 적어두고 간 쪽지 내용이 담겨 있었다.&lt;br&gt;&lt;br&gt;쪽지에는 “고객님 제가 그냥 물건들을 좀 옮기고 했다. 이제 혼자 독립하는 자식 같아서 실례를 했다. 그리고 제가 다이소에서 구매한 물건 몇 가지 사서 보관해 놓고 간다. 죄송하다”라고 적혀 있다. 나이 지긋한 것으로 추정되는 업체 직원이 혹시나 자기 행동이 민폐일지 걱정돼 이 쪽지를 남긴 것으로 보인다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “청소해 주신 분 마음씨가 고우신 분 같다” “우리 어머니도 청소업체 나가시는데 고객들이 후기 남겨주면 그렇게 뿌듯해 하시더라. 정성스러운 후기 하나 남겨드리면 뿌듯해하실 거 같다” “눈물 난다. 식사 한 끼 하시라고 일당 하루 더 드리고 싶다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;코로나 이후 위생에 대한 인식이 높아지면서 맞벌이 부부, 1인 가구를 중심으로 홈케어 수요는 증가하는 추세다. 홈케어는 전문가가 가정에 방문해 가전, 매트리스 등의 제품이나 주방, 욕실 등의 공간을 청소·관리하는 서비스다. 시간을 아끼기 위해 돈을 투자하는 소비 트렌드가 확산하면서 관련 시장이 빠르게 성장하고 있는 것으로 풀이된다. 현재 홈케어 시장 규모는 대략 10조원 규모로 추산된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘콜 차단·몰아주기’ 카카오·카모 5번째 압수수색</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/11/4I6WWDU6HZFSNAABEVS3QRJSDU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/11/4I6WWDU6HZFSNAABEVS3QRJSDU/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 Nov 2024 02:02:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XINN3ELKB6G4PPS366KEPSBOZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 양천구 서울남부지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;카카오모빌리티의 ‘콜 몰아주기’ 혐의와 ‘콜 차단’ 혐의를 수사 중인 검찰이 5번째 압수수색에 나섰다.&lt;br&gt;&lt;br&gt;서울남부지검 금융조사2부(부장 장대규)는 11일 오전 공정거래법 위반 혐의로 성남 판교 소재 카카오 본사와 자회사 카카오모빌리티의 사무실 등 총 3곳에 대해 압수수색을 진행 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난 5일 카카오 본사와 카카오모빌리티 사무실 등 총 7곳에 대한 강제수사에 착수했고, 지난 8일까지 나흘 연속 압수수색을 진행했다. 검찰은 사무실 컴퓨터를 압수해 전산 자료와 회사 내부 문서를 확보하고 디지털 포렌식을 진행한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;카카오모빌리티는 일반 택시를 배제하고 가맹택시인 카카오T블루에 콜을 몰아주는 방식으로 알고리즘을 조작했다는 ‘콜 몰아주기’ 혐의를 받는다. 또 경쟁 가맹택시에게 일반 호출을 차단했다는 ‘콜 차단’ 혐의도 있다.&lt;br&gt;&lt;br&gt;앞서 이 사건을 조사한 공정거래위원회는 ‘콜 몰아주기’ 혐의로 271억여원, ‘콜 차단’ 혐의로 724억원의 과징금을 카카오모빌리티에 부과한 바 있다.&lt;br&gt;&lt;br&gt;한편 증권선물위원회(증선위)는 지난 6일 제19차 회의에서 카카오모빌리티에 중징계를 결정했다. 증선위는 총 41억4000만원의 과징금 제재 조치를 의결했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘어디서 나타났나’... 제주서 황금 박쥐 7년만에 발견</title>
