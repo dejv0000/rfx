@@ -13,6 +13,28 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>김나정 ﻿“필리핀서 마약 투약 자수” 글 올렸다 삭제?... 네티즌, 마약 혐의 고발</title>
+      <link>https://www.chosun.com/national/people/2024/11/13/STWMTT6YFJH7RJVYOB2SMEUPPE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/13/STWMTT6YFJH7RJVYOB2SMEUPPE/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Nov 2024 22:00:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HTDSYNKTRVAZTM4ZI5YF4QVZ6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아나운서 출신 모델 김나정(32)의 인스타그램에 12일 올라왔다가 삭제된 글. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프리랜서 아나운서 출신 모델 김나정(32)이 소셜미디어에 “마약 투약한 것을 자수한다”는 글을 올렸다가 삭제했다는 의혹이 제기돼 한 네티즌이 김나정을 마약 투약 혐의로 경찰에 고발했다.&lt;br&gt;&lt;br&gt;김나정은 12일 오전 자신의 인스타그램에 “마닐라 콘래드 호텔이다. 생명의 위협을 받게 됐다”며 “무서워서 공항도 못 가고 택시도 못 타고 있다. 도와 달라”고 호소했다. 함께 올린 사진에는 필리핀 마닐라의 한 호텔 내부를 찍은 광경이 담겼다.&lt;br&gt;&lt;br&gt;얼마 후에는 “전화주세요” “연락 좀 주세요” 등 누군가와 나눈 문자메시지 내역을 공개하면서 “대사관 전화 좀 부탁드린다”는 글을 재차 올렸다. 다만 김나정은 무슨 일인지는 공개하지 않았다.&lt;br&gt;&lt;br&gt;그러다 김나정은 이날 정오가 지났을 무렵 마닐라에서 인천으로 향하는 비행기 티켓을 인증하면서 “비행기 타면 저 죽을 것 같다”며 “마닐라에서도 나가면 죽을 것 같다. 공항도 위험하고, 마닐라 공항인데 제발 도와 달라”고 했다. 그러다 이내 “비행기 타요”라고 알리는 등 횡설수설했다.&lt;br&gt;&lt;br&gt;또한, 김나정이 인스타그램에 공항으로 보이는 내부 사진과 함께 ‘마약 투약’을 언급하는 글을 올렸다가 빠르게 삭제했다는 의혹도 제기됐다. 온라인 커뮤니티에 올라온 캡처본 게시물에는 “어젯밤 인천행 11시 비행기가 12시 5분으로 늦춰지고 늦은 저녁에 공항 직원, 승객, 이미그레이션(출입국 관리소) 모두가 저를 촬영하고 (영화) ’트루먼쇼’처럼 마약 운반 사태를 피하려고 제가 가진 캐리어와 백들을 모두 버리고 비행기 타지 않고 다시 나왔다”고 적혀 있다. 이어 “저 비행기 타면 죽는다. 대한민국 제발 도와달라”며 “제가 필리핀에서 마약 투약한 것을 자수한다”고 했다. 그러면서 “그걸 가지고 저의 과대망상으로 어떤 식으로든 죽어서 갈 것 같아서 비행기 못 타겠다”고 했다.&lt;br&gt;&lt;br&gt;해당 게시물들이 김나정이 직접 올린 것인지 또는 다른 사람이 조작한 것인지는 확인되지 않았다.&lt;br&gt;&lt;br&gt;하지만 이를 두고 온라인에서 논란이 커지자 한 네티즌은 김나정을 마약류관리법 위반 혐의로 경찰에 수사 의뢰했다고 밝혔다. 그는 12일 올린 게시물에서 국민신문고를 통해 “김나정의 마약 투약 및 운반 의혹을 철저히 수사해 죄상을 규명하는 등 일벌백계하여 줄 것을 강력히 촉구한다”는 내용의 민원을 신청한 사실을 알렸다.&lt;br&gt;&lt;br&gt;한편 김나정은 이화여대 동양학과를 졸업한 후 프리랜서 아나운서와 기상캐스터로 활동했다. 2019년 미스 맥심 콘테스트에서 우승하면서 얼굴을 알렸다. SBS 예능프로그램 ‘검은 양 게임’, 웨이브 오리지널 ‘사상검증구역: 더 커뮤니티’ 등에 출연했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5P4S646EE5FZ7FB3YEVUM2XOU4.jpg?width=278&amp;height=208&amp;auth=b27d0703356bd6d257db92d3b77fbf977c875262726140b4f9dff29432d36c86&amp;smart=true" type="image/jpeg" height="208" width="278">
+        <media:description type="plain">아나운서 출신 모델 김나정(32)이 12일 자신의 인스타그램에 올렸다가 삭제한 글. /인스타그램</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>“오답 없는 사회, 축하해”…송재림, 6년전 수능날 바이크 봉사 재조명 </title>
+      <link>https://www.chosun.com/national/people/2024/11/13/ZJ3H2HETLRGELJQBOUQOK3D6YE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/13/ZJ3H2HETLRGELJQBOUQOK3D6YE/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Nov 2024 22:07:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DPHPWU6X6JCEHP2HDYHOYJWLQE.png"&gt;&lt;figcaption&gt;&lt;small&gt;2018년 11월 치러진 2019학년도 수능 당일 수험생 수송 봉사에 나선 고(故)송재림./온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대학수학능력시험(수능)이 치러지는 13일 전날 갑작스럽게 세상을 떠난 배우 송재림이 과거 수험생을 위해 베푼 선행이 재조명되고 있다.&lt;br&gt;&lt;br&gt;이날 여러 온라인 커뮤니티에는 ‘수능 보는 수험생 위해 수송 바이크 봉사 지원했던 송재림’이라는 제목으로 송재림이 6년 전 인스타그램에 올린 글이 공유되고 있다.&lt;br&gt;&lt;br&gt;당시 송재림은 2018년 11월15일 치러진 2019학년도 수능 당일 오토바이를 탄 자신의 모습이 담긴 사진을 공개하며 “수험생 수송 바이크 자원 후 집 들어가는 길”이라고 밝혔다.&lt;br&gt;&lt;br&gt;그는 “수능날인 오늘. 모든 수험생에게 화이팅을 보낸다”며 “곧 성인이 되겠다. 시험지보다 많은 질문과 답이 있지만, 오답도 없는 사회에 나온 걸 축하한다”고 했다. 그러면서 ‘당신이 정답이니까요’라는 해시태그를 덧붙였다.&lt;br&gt;&lt;br&gt;이후 송재림은 작년 12월 한 예능 프로그램에 출연해 “수능 당일 하루 했는데, 기사에 너무 좋게 포장됐다”며 “사실 그때 한 명도 못 태웠다”고 고백했다. 이어 “그게 맞다, 이상적인 상황이었다, 시험에 지각한 사람도 없고, 도로 통제도 잘 됐다”고 덧붙였다.&lt;br&gt;&lt;br&gt;송재림의 과거 선행을 접한 네티즌들은 “좋은 사람이 일찍 떠나 안타깝다” “수험생에게 남긴 메시지가 인상적이다. 명복을 빈다” “선한 사람들에게 더 힘든 세상인 것 같다. 부디 편히 쉬길 바란다” 등의 애도를 표했다.&lt;br&gt;&lt;br&gt;한편 서울 성동경찰서에 따르면 송재림은 지난 12일 낮 12시30분경 성동구 자택에서 숨진 채 발견됐다. 타살 등 범죄 혐의점은 확인되지 않았으며, 현장에서는 유서가 발견된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 비상근 임원에 최대 수억... 정관 어기며 돈 뿌린 축구협회</title>
       <link>https://www.chosun.com/national/national_general/2024/11/11/X7DX67A6LBC3NEFB3F5F5P2F2M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/11/X7DX67A6LBC3NEFB3F5F5P2F2M/</guid>
@@ -907,24 +929,6 @@
         <media:description type="plain">(서울=뉴스1) 민경석 기자 = 11일 오후 서울 성북구 동덕여자대학교 앞 조동식 선생(동덕여대 설립자) 흉상이 학교 측의 일방적인 남녀공학 전환 추진에 반발한 학생들에 의해 계란 등을 뒤집어 쓰고 있다. 2024.11.11/뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 민경석 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>올해 지구 온도 1.54도 상승… “기후 위기 마지노선 넘어”</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/11/12/SST7COTSEVEO5G3HZFFSVBC3DQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/11/12/SST7COTSEVEO5G3HZFFSVBC3DQ/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Nov 2024 00:02:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CDOE6UAXBADPDXUPGGT4MNAUM.png"&gt;&lt;figcaption&gt;&lt;small&gt;세계 곳곳의 기온을 지도에 색으로 시각화한 사진에서 상당 부분이 붉게 표시돼 있다. /NCEP&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 1~9월 지구의 평균온도 상승 폭이 기후 위기 대응의 마지노선으로 꼽히는 산업화 이전 대비 ‘1.5도’를 초과한 것으로 나타났다. 세계가 극한 더위에 신음한 올해는 역대 가장 뜨거운 해로 기록될 전망이다.&lt;br&gt;&lt;br&gt;세계기상기구(WMO)는 11일 발표한 ‘전 지구 기후 현황 보고서’에서 올 1~9월 전 지구 평균온도가 산업화 이전 시기(1850~1900년)에 비해 1.54도 상승했다고 밝혔다. 산업화 전 대비 ‘1.5도’라는 기온 상승 폭 제한은 온난화에 따른 기후 재앙을 막기 위해 파리협정에서 설정한 마지노선이다. 그런데 올 1~9월은 산업화 이전 대비 1.45도가 올라 역대 최고를 기록한 작년 한 해 기록을 깨고 1.5도 선까지 넘어선 것이다. 기상청은 “현재 수치에서 연말까지 기온이 더 오를 수도, 혹은 내릴 수도 있다”고 했다. 이날 WMO는 작년 6월부터 올 9월까지 지구 평균기온이 16개월 연속 상승하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;온난화를 일으키는 대기 중 온실가스 농도도 올라가고 있다. 작년 기준 대기 중 이산화탄소 농도는 420ppm으로 1750년(278ppm) 대비 51% 증가했는데, 올 들어서도 수치가 계속 오르고 있다고 WMO는 전했다.&lt;br&gt;&lt;br&gt;해양 온난화도 가속되고 있다. 2005~2023년 해양은 연평균 310만Twh(테라와트시)의 열을 흡수했으며 이는 작년 한 해 전 세계 에너지 소비량의 18배 이상에 달한다고 WMO는 분석했다. 이에 따라 해수면 높이도 올라가 2014~2023년 전 지구 평균 해수면은 연평균 4.77㎜ 속도로 상승했다. 이는 1993~2002년 속도의 두 배 수준으로 빨라진 것이다. 엘니뇨(태평양 감시 구역의 온도가 평년보다 1.5도 이상 높아지는 현상)가 발생한 작년에는 해수면 온도 상승이 더 가팔랐다. 셀레스트 사울로 WMO 사무총장은 “극한 더위·폭우·홍수 등으로 인한 인명 피해와 손실 발생이 우려된다”며 “온실가스 배출 감축이 시급한 상황”이라고 했다.&lt;br&gt;&lt;br&gt;한편 11일 아제르바이잔 바쿠에서 막을 올린 제29차 유엔기후변화협약 당사국총회(COP29)는 미국과 중국·인도·영국·프랑스·독일 등 각국 정상이 불참한 가운데 진행된다. COP29의 핵심 의제는 개발도상국에 대한 선진국의 기후 재원 금액을 합의하는 것인데, 재집권 시 파리협정 탈퇴를 계획한 도널드 트럼프 전 미국 대통령이 재선한 상황에서 국가 간 협상에 난항이 예상된다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>출장·방문·유선 조사 모두 거부한 문다혜</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/12/X3IB7HHRKZGLTDUXHEBEH5AO5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/12/X3IB7HHRKZGLTDUXHEBEH5AO5M/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 Nov 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FQORZK5ME6MO4E32E6VE2CUGMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'음주운전 혐의'를 받는 문재인 전 대통령의 딸 문다혜 씨가 지난 10월 18일 서울 용산경찰서에서 피의자 조사를 마친 뒤 귀가하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 전 대통령 전 사위 서모씨의 ‘타이이스타젯 특혜 채용’ 의혹을 수사 중인 검찰이 이 사건 핵심 참고인인 문 전 대통령의 딸 다혜씨에게 검찰 출석에 이어 출장·방문·전화 조사까지 제안했지만 다혜씨가 모두 거부한 것으로 11일 알려졌다. 검찰은 다혜씨에 대한 조사를 하지 않는다는 방침을 세운 것으로 전해졌다. 이 사건에 관련된 문재인 청와대 인사 등에 대한 조사는 모두 끝났고, 이제 문재인 전 대통령에 대한 조사만 남은 셈이다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 검찰은 이 사건 핵심 참고인인 다혜씨에게 주거지 인근 검찰청 출장 조사 또는 방문 조사, 진술 녹음을 전제로 한 전화 조사 등을 제안했지만 다혜씨 측이 모두 거부했다고 한다. 앞서 검찰은 다혜씨 측에 지난달 중순과 이달 1일, 7~8일 중 검찰에 나와 조사받으라고 통보했다. 다혜씨 측은 검찰 출석을 거부하면서 “대면 조사를 대체할 다른 방법을 찾아달라”고 요구했다. 이에 검찰은 출장·방문·전화 조사를 재차 재안했다는 것이다.&lt;br&gt;&lt;br&gt;하지만 다혜씨는 변호인을 통해 검찰 제안에 불응하겠다는 의사를 전하면서, ‘우편 또는 전자우편(이메일) 조사’ 방식을 고수한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰은 서면 조사는 적절하지 않다고 판단하고, 다혜씨 조사를 건너뛰기로 내부 방침을 세웠다고 한다. 검찰 관계자는 “참고인은 형사소송법상 출석 의무가 없기 때문에 강제로 나오게 할 순 없다”라며 “확보한 객관적 자료로 실체적 진실을 밝히겠다”고 했다.&lt;br&gt;&lt;br&gt;이에 따라 검찰은 뇌물 수수 혐의를 받고 있는 문재인 전 대통령에 대해 직접 조사할 필요성이 있다는 입장이다.&lt;br&gt;&lt;br&gt;검찰은 문 전 대통령에 대한 뇌물 액수를 서씨가 2018년 7월~2020년 4월 이상직 전 민주당 의원이 실소유한 태국 항공사 타이이스타젯에 임원으로 취업해 받은 급여와 체류비 등 2억2300여 만원으로 특정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>최고령·최다 우승… 67세 랑거의 시간은 거꾸로 흐른다</title>
