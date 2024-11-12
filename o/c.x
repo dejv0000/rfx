@@ -13,6 +13,90 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“형 노릇 못해 미안”… 故송재림 비보에 연예계 애도</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/12/6P7YYZNFOVGNNJPV4EBQOSLMSU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/12/6P7YYZNFOVGNNJPV4EBQOSLMSU/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Nov 2024 14:06:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V72JFP4PEZCTLKIIF26RWFFUJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍석천(왼쪽), 고(故) 송재림./ 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 송재림(39)이 12일 사망한 가운데 동료 배우들이 추모 글을 올리며 고인을 애도하고 있다.&lt;br&gt;&lt;br&gt;배우 박호산은 이날 인스타그램에 생전 고인과 함께 찍은 사진을 올린 뒤 “재림아. 이렇게 밝은 너인데. 믿기지가 않는다. 미안해. 연락도 못하고 챙기지 못해 정말 미안하다”고 적었다.&lt;br&gt;&lt;br&gt;방송인 홍석천도 “너의 이 멋진 웃음을 다시 볼 수 없는 게 슬프다. 더 잘 챙겨주지 못하고 인사도 없이 보내야 하는 이 상황이 황망하다”며 “미안하고 또 미안하다. 형 노릇 더럽게 못했네. 편히 쉬어라”고 했다.&lt;br&gt;&lt;br&gt;드라마 ‘해를 품은 달’에서 함께 활약했던 배우 정은표도 소셜미디어에 촬영 당시 찍은 사진을 올리며 “잘가. 부디 행복한 여행이 되길”이라고 적었다.&lt;br&gt;&lt;br&gt;배우 이윤지는 인스타그램 스토리에 “그러지 말지... 당신의 순수를 기억하는데 거기서는 많이 맘껏 살아가기를”이라는 글을 올렸다. 이날 유명을 달리한 동료 송재림을 추모하는 것으로 보인다. 두 사람은 2022년 개봉한 영화 ‘안녕하세요’에 함께 출연한 바 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MD2DAXC7JREPXPUNACZSLKIAS4.png"&gt;&lt;figcaption&gt;&lt;small&gt;배우 정은표(왼쪽), 고(故)송재림./ 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 성동경찰서 등에 따르면, 송재림은 이날 낮 12시30분쯤 서울 자택에서 사망했다. 경찰은 “타살 등 범죄 혐의점은 확인되지 않았다”고 했다. 고인 집에선 유서가 발견됐다. 송재림은 최근 인스타그램 프로필에 “긴 여행 시작”이라는 글귀가 적혀 있어 안타까움을 사고 있다.&lt;br&gt;&lt;br&gt;고인의 빈소는 여의도성모병원 장례식장에 마련됐다. 발인은 14일 낮 12시다.&lt;br&gt;&lt;br&gt;1985년생 송재림은 패션모델로 활동하다 2009년 영화 ‘여배우들’을 통해 데뷔했다. 2012년 MBC ‘해를 품은 달’을 통해 대중에 얼굴을 알렸다. 이외에도 드라마 ‘꽃미남 라면가게’, ‘감격시대’, ‘투윅스’, ‘착하지 않은 여자들’, ‘우리 갑순이’ 영화 ‘용의자’, ‘야차’, ‘미끼’, ‘폭락: 사업 망한 남자’ 등에 출연했다. 2014년 예능 프로그램 ‘우리 결혼했어요’에서 배우 김소은과 가상 부부로 활약하며 큰 사랑을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>모자이크한 가족 사진까지… 유튜버들, ‘북한강 토막살인’ 장교 신상 공개</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/12/L7SMBGEUZVFIXN2N5U5CSCF4RE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/12/L7SMBGEUZVFIXN2N5U5CSCF4RE/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Nov 2024 11:59:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DPVNFYWARRLEHJXOL4WRK7JHEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 강원 화천군 북한강에서 함께 근무하던 여성 군무원을 살해한 뒤 시신을 훼손하고 북한강에 유기한 현역 군 장교 A씨에 대한 현장 검증이 진행됐다. 사진은 A씨가 호송차에서 내려 취재진 질문에 묵묵부답하는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘북한강 시신 훼손 사건’ 피의자에 대한 경찰의 신상 공개를 하루 앞둔 12일 일부 유튜버가 피의자의 실명과 함께 모자이크 처리된 가족 사진까지 공개하면서 또 다시 사적 제재 논란이 일고 있다.&lt;br&gt;&lt;br&gt;최근 일부 유튜브 채널은 동료 여성 군무원을 살해한 뒤 시신을 훼손한 현역 육군 소령 A(38)씨의 이름, 사진, 가족 관계 등의 정보를 공개했다. 한 유튜브 채널은 지난 11일 A씨의 육군사관학교 졸업 앨범과 함께 가족사진 여러 장을 공개했다. 다만, A씨 아내와 자녀들의 얼굴은 모자이크 처리된 상태였다. 또 다른 유튜브 채널은 앞서 지난 6일 A씨에 대해 “결혼을 해 가정이 있는 사람”이라고 알렸다.&lt;br&gt;&lt;br&gt;이후 온라인 커뮤니티와 소셜미디어에는 A씨 신상과 관련된 게시물들이 속속 올라오고 있다. A씨가 아내, 자녀와 함께 찍은 사진도 확산하자 네티즌 사이에선 “범죄와 무관한 아이와 아내의 사진까지 공개한 것은 이해되지 않는다” “가족은 무슨 죄인가” 등 유튜버의 지나친 사적 제재라는 반응이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XZXU2LMQJRNGRAESSKABIYKCEA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 오후 강원도 화천 북한강 일대에서 여자 군무원을 살해한 뒤 북한강에 시신을 유기한 현역 육군 장교의 현장 검증이 열리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원경찰청 형사기동대는 이날 살인과 사체손괴, 사체유기 혐의로 A씨를 검찰에 구속 송치했다고 밝혔다. 경찰에 따르면, 중령 진급을 앞둔 현직 소령인 A씨는 지난달 25일 오후 3시쯤 경기도 과천시 한 군부대 주차장에 세워진 자신의 차량에서 B(33)씨와 말다툼을 벌이다 격분해 목을 졸라 B씨를 살해한 혐의를 받고 있다. A씨는 범행 후 B씨 시신에 옷을 덮어 차량에 내버려둔 뒤, 같은 날 오후 인근 공사장에서 B씨 시신을 훼손했다. 또 이튿날인 26일 오후 9시 40분쯤 화천 북한강에 시신을 유기했다.&lt;br&gt;&lt;br&gt;강원경찰청은 ‘특정 중대범죄 피의자 등 신상정보 공개에 관한 법률’에 따라 지난 7일 신상정보공개심의위원회를 열고 A씨의 신상정보를 공개하기로 의결했다. 그러나 A씨가 ‘신상정보 공개 집행정지’ 가처분 신청 등을 내면서 신상공개가 보류됐다.&lt;br&gt;&lt;br&gt;법원이 지난 11일 A씨가 강원경찰청을 상대로 낸 집행정지 가처분 신청에 대해 “(신청인에게) 회복하기 어려운 손해 발생 우려가 없고, 회복하기 어려운 손해 발생 예방을 위한 긴급한 필요가 없다”며 기각했다. 이에 따라 경찰은 오는 13일 오전 강원경찰청 홈페이지에 A씨의 이름, 나이, 사진 등 신상정보를 공개할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 최문순 ‘레고랜드 배임’ 관련 강원도청 압수수색</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/12/3C57FKG7J5FFJJHGUWUVTM3J3M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/12/3C57FKG7J5FFJJHGUWUVTM3J3M/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Nov 2024 13:06:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/64OLKKM77BLZ5JZIXLGGIRPEBA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지검 관계자들이 12일 오전 강원도청 별관에서 최문순 전 강원도지사의 업무상 배임·직권남용 등 혐의 고발사건과 관련해 강제수사에 나섰다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 레고랜드 개발 사업과 관련해 업무상 배임 의혹을 받고 있는 최문순 전 강원지사 사건에 대한 강제 수사에 착수했다.&lt;br&gt;&lt;br&gt;춘천지검은 12일 강원도청 감사위원회와 투자유치과, 문화유산과 등을 대상으로 압수 수색을 벌였다.&lt;br&gt;&lt;br&gt;최 전 지사는 춘천 중도에 레고랜드를 개발할 당시 사업 부지를 사고파는 과정에서 강원도에 손해를 입혔다는 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;또 2018년 강원도 출자 기업인 강원중도개발공사가 레고랜드 운영사인 영국 멀린사에 800억원을 지원하도록 지시해 강원중도개발공사에 손해를 끼쳤다는 의혹도 받고 있다.&lt;br&gt;&lt;br&gt;2014년 강원도의회의 의결을 거치지 않고 강원중도개발공사의 레고랜드 채무 보증 규모를 210억원에서 2050억원으로 늘린 의혹도 있다.&lt;br&gt;&lt;br&gt;검찰은 최근 강원중도개발공사에서 관련 자료를 확보한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 2022년 11월 박기영 강원도의원(국민의힘)은 최 전 지사를 업무상 배임, 직권남용, 직무유기 등 혐의로 강원경찰청에 고발했다. 경찰은 지난 1월 최 전 지사를 불러 조사한 뒤 지난 4월 사건을 검찰에 송치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“전공의·의대생과 함께 갈 것”... 비대위원장 선거 전날 설명회</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/11/12/TOJINXRSQFCTLJJPOXMBSGA2LY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/11/12/TOJINXRSQFCTLJJPOXMBSGA2LY/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Nov 2024 12:48:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z7O5VEBLNBIRJC6NCG3A7RL6JI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;12일 오후 서울 용산구 대한의사협회(의협) 회관에서 열린 의협 비대위원장 후보자 설명회에서 후보자들이 서로 인사를 나누고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“전공의·의대생과 함께 가겠습니다”&lt;br&gt;&lt;br&gt;12일 오후 8시 서울 용산구 대한의사협회(의협) 회관 지하 1층 대강당. 비상대책위원회 체제로 전환키로 한 의협은 이날 의료계 수장 자리를 임시로 맡을 비대위원장 선거를 하루 앞두고 후보자 설명회를 열었다.&lt;br&gt;&lt;br&gt;이날 오후까지 박형욱 대한의학회 부회장, 이동욱 경기도의사회장, 주신구 대한병원의사협의회장, 황규석 서울시의사회장 네 명이 후보 등록을 마쳤다. 이들 모두 의정 갈등 해결의 열쇠를 쥔 전공의·의대생 입장을 충분히 반영하겠단 입장을 밝혔다.&lt;br&gt;&lt;br&gt;먼저 박형욱 대한의학회 부회장은 “위원들의 합의에 기초해 입장과 행동을 결정할 것”이라며 “가장 중요한 것은 의료계가 한 자리에 모여 서로를 존중하고 합의를 이뤄나가는 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “비대위 운영에 있어 전공의들과 의대생들의 견해가 중시돼야 한다”고 했다. 박 부회장은 “의료계 어느 직역보다 전공의, 의대생들의 희생이 컸다”며 “시대가 바뀌었다. 선배 세대가 그들의 의견을 무시한다면 대한민국 의료는 발전할 수 없다”고 했다. “그동안 전공의들이 의협을 중심으로 한 여러 논의에 적극적으로 참여하지 못한 것은 매우 안타까운 일”이라고도 했다.&lt;br&gt;&lt;br&gt;이동욱 경기도의사회장은 ‘투쟁’을 강조했다. 이 회장은 “절박한 상황에서 투쟁 없는 비대위는 있을 수가 없다”며 “협상은 당연히 할 것이지만 투쟁력이 없으면 굴종할 수밖에 없다”고 했다. 이어 “매주 전공의들과 하고 있는 강력한 투쟁을 계속 할 것이고, 대통령 출근길 투쟁 등을 활성화시킬 것”이라고 했다.&lt;br&gt;&lt;br&gt;그는 “이제는 집회에 많은 전공의, 의대생들이 ‘탕핑’이 아니라 목소리를 내고 있다”며 “이들과 끝까지 함께 할 것. (전공의들이) 진료실로 돌아가고 (의대생들이) 교육 현장으로 돌아갈 수 있도록 최선을 다할 것”이라고 했다. “지난 10개월간 누구보다도 열심히 전공의, 의대생들과 함께 의료 농단 투쟁을 이끌고 있다”고도 했다.&lt;br&gt;&lt;br&gt;주신구 병원의사협의회장은 ‘여야의정 협의체’를 철수시키겠다고 했다. 주 회장은 “현재 제일 시급한 건, 여의정 협의체 (참여) 철수”라며 “지금 사직하고 휴학한 미래 세대들이 반대를 하고 있기 때문”이라고 했다. 이어 “(비대위와 관련한) 모든 일은 당사자(전공의·의대생)들이 결정할 수 있도록 할 것”이라며 “전공의, 의대생들이 어떤 협상안을 가지고 왔을 때 전 회원 투표를 할지 말지 논의한 후 전체 투표를 하겠다”고 했다.&lt;br&gt;&lt;br&gt;황규석 서울시의사회장은 “대한민국 의사로서의 긍지와 자부심이 지난 1년간 모두 물거품 된 것이 가장 마음 아프다”며 “이를 돌려주는 게 내가 해야 할 일”이라고 했다. 황 회장은 “앞으로 두 달 동안 발로 뛰며 정부, 정치계 관계자들을 만나러 다닐 것”이라며 “국민들에게도 도와달라고 호소할 것”이라고 했다. “가장 중요한 전공의, 의대생과 함께 하겠다. 그들의 얘기를 최우선으로 목소리를 대변하겠다”고 했다.&lt;br&gt;&lt;br&gt;13일 열리는 1차 투표는 대의원 244명을 대상으로 온라인으로 진행된다. 과반 득표한 후보가 없으면 같은 날 결선 투표를 치른다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘도심 불법집회’ 민노총 조합원 4명 구속 면해…“도망 우려 없어”</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/12/JJGN7TNG7ZD3PAEEVQYHJUSCLY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/12/JJGN7TNG7ZD3PAEEVQYHJUSCLY/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Nov 2024 12:31:13 +0000</pubDate>
+      <content:encoded>지난 주말 민노총이 주최한 대규모 집회에서 경찰관을 폭행한 혐의 등으로 체포된 민노총 조합원 4명이 모두 구속을 면했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QXZ6R3DOWRAI5MURRHGCPEAPLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 서울 중구 덕수궁 대한문 일대에서 민주노총과 '윤석열정권퇴진운동본부' 등이 주최한 '전국노동자대회·1차퇴진 총궐기' 현장에서 집회 참가자들과 경찰이 대치하고 있다. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 김미경 부장판사는 12일 공무집행방해 등 혐의를 받는 박모(42)씨와 강모(43)씨에 대한 영장실질심사를 진행한 뒤 구속영장을 기각했다.&lt;br&gt;&lt;br&gt;김 부장판사는 “범죄 혐의에 관한 사실관계를 인정하고 관련 증거가 대부분 수집된 것으로 보인다”며 “일정한 주거에서 생활하고 부양할 가족이 있어 도망할 우려가 있다고 보이지 않는 점을 종합하면 구속할 필요성과 상당성이 인정되지 않는다”고 밝혔다.&lt;br&gt;&lt;br&gt;이날 같은 법원 남천규 영장전담 부장판사도 함께 구속영장이 청구된 김모(59)씨와 황모(36)씨에 대한 영장실질심사를 진행하고 구속영장을 기각했다. 이들은 집회 및 시위에 관한 법률 위반 혐의 등을 받았다.&lt;br&gt;&lt;br&gt;남 부장판사는 “범행에 이르게 된 경위와 공무집행방해의 정도, 전체 범행에서 피의자의 역할과 가담 정도, 현재까지 확보된 증거, 피의자의 직업, 주거와 사회적 유대관계, 범죄전력 등을 종합해보면 현 단계에서는 구속 사유와 필요성을 인정하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;이들은 지난 9일 서울 세종대로 일대에서 민노총이 개최한 ‘전국노동자대회·1차 퇴진 총궐기 대회’에서 경찰관을 밀치는 등 폭행하고 시정 요구와 해산 명령에 불응한 혐의 등을 받는다. 이날 경찰은 총 11명의 민노총 관계자를 현장에서 체포했다.&lt;br&gt;&lt;br&gt;서울경찰청은 지난 11일 “범죄혐의가 중하다”며 이들 중 6명에 대해 구속영장을 신청했다. 검찰은 이들 가운데 죄질과 사안의 중대성, 증거관계 등을 고려해 4명에 대해서만 구속영장을 법원에 청구했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰 “김영선, 명태균이 ‘공천 장사’ 하도록 도왔다”</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/12/HK47IVHCSZEKHGN7CZNE6AJKYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/12/HK47IVHCSZEKHGN7CZNE6AJKYE/</guid>
+      <dc:creator>창원=김준호 기자, 창원=이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Nov 2024 12:39:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/37C6CAJAANIRBITL37WTW4WNSU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;'윤석열 대통령 부부 공천 개입 의혹' 당사자인 김영선 전 국민의힘 의원이 지난 4일 창원지방검찰청에 출석하며 취재진 질문에 답하고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘윤석열 대통령 부부 공천 개입’ 의혹을 수사하는 검찰이 김영선 전 의원에 대한 구속영장을 청구하며 “보좌관 등의 임명권을 넘기는 등 사실상 명태균을 국회의원처럼 활동할 수 있게끔 묵인해 ‘공천 장사’를 할 수 있도록 도왔다”고 영장에 적시한 것으로 12일 확인됐다.&lt;br&gt;&lt;br&gt;본지가 이날 입수한 김 전 의원에 대한 구속영장에 따르면, 창원지검 전담수사팀(팀장 이지형 차장검사)은 김 전 의원이 국회의원 선거 후보자 추천과 관련해 2022년 8월부터 이듬해 11월까지 16차례에 걸쳐 명씨에게 7620만 6000원을 전달한 혐의와, 명씨와 공모해 지방선거 예비 후보 2명으로부터 공천을 미끼로 2억4000만원을 수수했다는 혐의를 수사하고 있다.&lt;br&gt;&lt;br&gt;검찰은 영장에 “4선 국회의원인 김 전 의원이 인맥을 활용해 지역에서 여론조사업체 운영자에 불과하던 명태균을 당시 국민의힘 당대표인 이준석 의원, 윤석열 당시 대통령 후보 등에게 소개하고, 지방선거에서 공천을 받고 싶어하는 사업가들을 명태균과 함께 만나 명태균의 공천 관련 발언의 신빙성을 높여줬다”고 했다.&lt;br&gt;&lt;br&gt;김 전 의원은 지난 2018년 지방선거를 앞두고 명씨를 만난 것으로 알려졌다. 명씨는 김 전 의원을 통해 김종인·이준석 등 보수 진영 유력 정치인과 관계를 맺었고, 이후 윤석열 대통령과 김건희 여사와도 인연이 닿은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6XXH6UR57FN6ZP5YYE6RATKHVE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;'윤석열 대통령 부부 공천 개입 의혹' 핵심 인물인 명태균씨가 지난 8일 오후 창원지방검찰청에서 정치자금법 위반 혐의 피의자 신분으로 검찰 조사를 받은 뒤 청사를 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 이 사건에 대해 “(김 전 의원이) 스스로 국회의원으로서의 지위를 포기하고 오로지 선거에 당선되기 위해 일반인인 명씨를 국회의원과 같은 지위에서 정치활동을 할 수 있도록 묵인하고 이른바 ‘공천 장사’를 할 수 있도록 도왔다”며 “결국에는 자신도 명씨에게 세비 절반을 교부하고, 의정 활동 대부분을 의존하는 지경에 이르는 등 유권자의 민의를 왜곡하고 정치권력과 금권을 결합해 대의제 민주주의의 원리를 왜곡했다”고 적시했다.&lt;br&gt;&lt;br&gt;검찰은 증거인멸 염려가 크다는 점을 구속 필요 사유로 강조했다. 검찰은 “지난 1월 3일 김 전 의원에 대해 경남선거관리위원회가 수사의뢰했는데, 그 무렵 김 전 의원은 사용하던 휴대전화 3대를 모두 교체하는 등 다양한 방법으로 수사기관의 추적을 따돌리기 위해 증거를 인멸했다”며 “또 선관위의 조사가 진행되자 진술 회유, 말 맞추기 지시 등 진술을 오염시키기 위해 노력했다”고 했다.&lt;br&gt;&lt;br&gt;도망의 염려도 강조했다. 검찰은 “압수수색 등 본격적인 수사가 진행되자 가족, 변호인 등과 모두 연락을 끊고 잠적했고, 검사가 경기도 고양시 주거지까지 찾아가 출석요구서를 전달했지만, 소재가 확인되지 않았다”며 “체포영장까지 발부받아 신병을 확보하기 위해 행방을 추적해야 했다”고 했다.&lt;br&gt;&lt;br&gt;김 전 의원과 명씨 등에 대한 구속 영장 실질심사는 14일 오후 창원지법에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>유치원생 딸 둔 엄마 죽음으로 내몬 불법 추심… 경찰 “사채업자 추적”</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/12/HEQEMTMRCVEH3K6PISXWC5D4UA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/12/HEQEMTMRCVEH3K6PISXWC5D4UA/</guid>
+      <dc:creator>서보범 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Nov 2024 11:04:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZU7SQUR45BTQBND5ETM4PTAQN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령. /대통령실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유치원생 딸을 홀로 키우다 불법 추심을 당해 30대 여성이 목숨을 끊은 사건과 관련해 경찰이 불법 사채업자 추적에 나섰다.&lt;br&gt;&lt;br&gt;서울 종암경찰서는 초고금리 대출을 받은 뒤 불법 추심을 당하던 30대 여성 A씨가 전북 전주시의 한 펜션에서 목숨을 끊은 사건과 관련해 사채업자들을 추적 중이라고 12일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 지난 9월 A씨가 연이율 수천%에 달하는 불법 대출을 받았다가 사채업자들로부터 협박을 당해 스스로 목숨을 끊은 것으로 보고 있다. 이들은 A씨가 숨진 뒤에도 A씨의 부친을 협박하거나, 딸이 다니는 유치원 선생님에게 전화해 아이를 만나겠다는 취지로 협박하기도 했던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 유서에서 발견된 메모들을 토대로 사채업자들을 특정하는 중인 것으로 확인됐다. 또 A씨의 계좌 내역 등을 참고해 자금 흐름을 추적하고, 이들의 대포 통장 여부 등을 확인할 방침이다.&lt;br&gt;&lt;br&gt;한편 윤석열 대통령은 이날 “검찰과 경찰은 수사 역량을 총동원해 불법 채권 추심을 뿌리 뽑고, 금융당국은 서민금융지원 정책을 전면 재점검, 서민들이 불법 사채의 덫에 빠지지 않도록 하라“고 지시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>배우 송재림, 자택서 숨진 채 발견... 경찰 “극단적 선택으로 추정”</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/12/W6A25QJAKRFKTGSDUCMRQBJAL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/12/W6A25QJAKRFKTGSDUCMRQBJAL4/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Nov 2024 10:57:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4TSKJHEDEFGU5JMNMWCPSMZH3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 송재림. /스포츠조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 송재림(39)씨가 자택에서 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;서울 성동경찰서는 12일 오후 12시 30분쯤 송씨가 서울 성동구 소재 거주지에서 숨진 채 발견됐다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 자택에서 유서가 발견됐고 사전에 점심 약속을 했던 친구가 집에 방문했다가 신고했다고 한다. 현재까지 타살 등 범죄 혐의점은 발견되지 않았다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “유서가 발견된 점 등으로 볼 때 스스로 생을 달리한 것으로 추정된다”고 했다.&lt;br&gt;&lt;br&gt;지난 2009년 영화 ‘여배우들’로 데뷔한 송씨는 2012년 드라마 ‘해를 품은 달’에 출연하며 이름을 알렸다. 2014년에는 예능 프로그램 ‘우리 결혼했어요’에 출연해 인기를 끌었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/CEPFPSCVWBXR5GE6CY5LPUERSQ.jpg?width=649&amp;height=941&amp;auth=20b8c81f3d187d09ed1cd7cc35dc4c61dc59b362c11166e3d7b2f879c4e70428&amp;smart=true" type="image/jpeg" height="941" width="649">
+        <media:description type="plain">송재림. 스포츠조선DB</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>검찰, ‘훈련병 사망 사건’ 중대장·부중대장에 징역 10년·7년 구형</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/12/VV7BW27OCFCQPOV3RUDEGXPLHQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/12/VV7BW27OCFCQPOV3RUDEGXPLHQ/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Nov 2024 10:42:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5LW63UJN3N22WV7WIS5L7BH2LI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;육군 12사단 '훈련병 사망' 사건과 관련해 규정을 어긴 군기훈련(얼차려)을 지시한 혐의를 받는 중대장 강모(대위)씨가 지난 6월 21일 강원도 춘천지법에서 열린 영장실질심사(구속 전 피의자 심문)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 일명 ‘얼차려’로 불리는 과도한 군기 훈련으로 훈련병을 숨지게 한 육군 12사단 신병교육대 중대장과 부중대장에게 각각 징역 10년과 징역 7년을 구형했다. 선고는 다음달 12일 이뤄진다.&lt;br&gt;&lt;br&gt;춘천지법 형사2부(재판장 김성래)는 12일 중대장 강모(27·대위)씨와 부중대장 남모(25·중위)씨의 학대치사와 직권남용 가혹행위 혐의 사건 결심공판을 열었다.&lt;br&gt;&lt;br&gt;강씨와 남씨는 지난 5월 23일 강원 인제군 육군 12사단 신병훈련소에서 훈련병 6명에게 규정을 벗어난 군기훈련을 지시하고, 이 과정에서 박모(21)씨를 숨지게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;수사 결과, 남씨는 취침 점호 이후 박씨 등이 떠들었다는 이유로 다음날 오전 강씨에게 구두보고 후 군기 훈련을 진행했다. 이들은 특히 보급품을 모두 지급받지 못한 훈련병들에게 군장의 빈 공간을 책으로 채우게 하는 등 비정상적으로 완전군장을 할 것을 지시하고, ‘완전군장 상태에선 걷기만 가능하다’는 군기훈련 규정을 무시한 채 무리하게 뜀걸음과 팔굽혀펴기 등을 시킨 것으로 조사됐다. 이들은 또 이 과정에서 쓰러진 박씨의 위급 상황을 제대로 인지하지 못하고 응급처치를 지체하기도 했다. 박씨는 훈련 도중 쓰러져 병원으로 이송됐지만, 이틀 뒤(5월 25일) 숨졌다.&lt;br&gt;&lt;br&gt;이날 구형에 나선 검찰은 “피고인들에게는 피해자의 사망을 막을 수 있는 여러 번의 기회가 있었음에도 중대한 결과를 초래했고, 피고인들은 ‘사고’라고 말하며 잘못을 합리화하는 모습을 보였다”고 했다. 검찰은 또 “지휘관으로서 제대로 판단했더라면, 설령 군기 훈련을 결정했다고 하더라도 법에 정해져 있는 적정 수준으로만 했더라면, 피해자의 이상 상황을 감지했을 때 병원으로 즉시 후송했더라면 사망이라는 결과는 피할 수 있었을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W3SH75O6YKCH6OQCQWJUIVFQQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월 19일 오전 서울 용산역광장에 지난달 육군 신병교육대에서 군기훈련(얼차려)을 받다 숨진 훈련병을 기리기 위해 마련된 12사단 훈련병 시민 추모 분향소에서 휴가 나온 한 군 장병이 추모하기 위해 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 “징병제를 채택하고 있는 우리나라에서 추후 자녀들을 군에 보내야 하는 가족과 입대 예정자들은 앞으로 전과 같이 군을 신뢰할 수 없게 됐다”며 “국가 안보와 국민 보호의 중요한 역할을 담당하는 군의 지도력과 관리 체제에 대한 국민 신뢰 역시 심각하게 훼손됐다”고도 했다.&lt;br&gt;&lt;br&gt;강씨의 변호인은 혐의를 인정한다면서도 “규정에 어긋난 군기 훈련이 군 형법상 직권남용 가혹행위죄를 넘어 헌법상 학대치사죄로 의율할 수 있는지에 대해 의문”이라고 했다.&lt;br&gt;&lt;br&gt;강씨는 최후진술에서 “고인의 명복을 빌고 유족에게 진심으로 사과한다”며 “비난과 질책을 마땅히 받고 앞으로 평생 잊지 않고 고통 속에서 참회하겠다”고 했다. 강씨는 울먹이며 “잘못된 판단으로 인해 군의 명예를 실추시킨 데 책임을 느끼며 분노한 모든 분께 진심으로 죄송하다”며 “지은 죄에 대한 합당한 처벌을 내려달라”고도 했다.&lt;br&gt;&lt;br&gt;남씨는 “저의 행동으로 누군가 다치고 마음마저 잃게 하는 지울 수 없는 큰 상처를 남겼다는 사실에 죄책감을 느낀다”고 했다.&lt;br&gt;&lt;br&gt;숨진 박씨의 어머니는 이날 법정에서 “엄벌을 통해 자녀의 생명이 보장되지 않는 군대에 자녀를 보내야 하는 불안한 대한민국의 모든 부모에게 희망을 주시길 간곡히 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘1일 직무대리’ 문제 삼아 검사 퇴정시킨 성남FC 재판장, 이의신청도 ‘기각’</title>
       <link>https://www.chosun.com/national/court_law/2024/11/12/H4APZSG52VCLZPLUMGHYDQFZDY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/12/H4APZSG52VCLZPLUMGHYDQFZDY/</guid>
@@ -805,15 +889,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/35QPBDOL2NBBLHAE26J25IINXM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;11일 국회에서 열린 제1차 여야의정 협의체 회의장에서 한덕수(가운데) 국무총리를 비롯한 참석자들이 입장 순서를 서로 양보하고 있다. 왼쪽부터 이진우 대한의학회 회장, 이종태 한국의과대학·의학전문대학원협회(KAMC) 이사장, 한 총리, 김상훈 국민의힘 정책위의장, 한동훈 당대표. /이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부와 여당, 의료계가 11일 국회에서 열린 여·의·정 협의체에서 머리를 맞댔다. 정부의 의대 증원 발표로 지난 2월 의정 갈등이 촉발된 후 9개월 만이다. 이날 한동훈 국민의힘 대표는 “협의체 합의가 곧 정책”이라며 힘을 실었고, 국민의힘 당 차원에서도 “국민에게 ‘크리스마스 선물’을 안겨드릴 것”이라고 했다.&lt;br&gt;&lt;br&gt;이날 협의체에는 정부에서 한덕수 국무총리와 성태윤 대통령실 정책실장, 이주호 사회부총리 겸 교육부 장관, 조규홍 보건복지부 장관이 참석했다. 윤석열 대통령이 ‘최고위급 인사들이 참여해 의사 결정에 속도를 내라’고 주문한 데 따른 것이다. 의료계에서는 여당 및 정부와의 대화에 참여키로 한 이진우 대한의학회 회장과 이종태 대한의과대학·의학전문대학원협회(KAMC) 이사장이 참석했다. 당에서는 지난 9월부터 여·야·의·정 협의체를 제안한 한동훈 대표와 이만희·김성원·한지아 의원이 참석했다.&lt;br&gt;&lt;br&gt;이날 여·의·정은 협의체 운영 시한을 12월 말로 못 박고, 의제 제한 없이 매주 두 차례 회의를 열어 논의를 이어가기로 했다. 김성원 의원은 “성탄절 이전에 의미 있는 결과를 도출해낼 것”이라고 했다.&lt;br&gt;&lt;br&gt;이날 회의에서 정부·여당은 올해 입시인 2025학년도를 비롯해 2026학년도까지 의대 정원 문제를 놓고 “의제 제한은 없다”는 입장을 재확인했다. 의료계에서는 “2025학년도 의대 증원도 논의하자”고 요구했다. 이진우 대한의학회장은 “의대 교육이 실질적으로 가능한 수준으로 정원을 재조정해야 한다는 것”이라고 했다. 의대 증원으로 내년 의대 1학년생이 최대 7500명 수업하는 상황은 막아야 한다는 것이다. 의료계에서는 “학습 기자재 부족 등으로 늘어난 의대생 수업이 불가능한 의대들이 정원을 재신청하는 식으로 2025학년도 정원을 조정할 수 있다”고 주장했지만, 정부 측은 “이미 수능 시험이 오는 14일로 다가온 상황에서 올해 입시 정원 조정은 불가능하다”는 입장을 밝힌 것으로 알려졌다.&lt;br&gt;&lt;br&gt;의료계는 “집단 사직한 전공의가 내년 상반기 전공의 모집에 지원해 합격하더라도 군에 입대해야 하는 상황”이라며 이 상황을 해결해야 한다고 우려를 표명했다고 한다. 병역 의무를 해결하지 못한 전공의들은 수련 시작 전 의무사관 후보생으로 등록해 수련을 마친 뒤 입대하는 조건으로 병역을 연기한다. 하지만 사직 등으로 수련을 멈추면 군 입대를 해야 한다. 다른 병원으로 복귀해도 입영은 연기되지 않는다. 국방부가 매년 2월 의무사관 후보생 입영 대상을 확정해 통보한 뒤, 매년 3월 의무장교와 공보의 입영이 이뤄지는 절차가 진행된다. 현재 사직 중인 전공의들의 경우 내년 3월 입대해야 하는 것이다. 이에 정부 측은 “사직 전공의의 복귀를 돕기 위해 진지하고 다양하게 논의하자”며 해결 방안을 모색하겠다고 했다.&lt;br&gt;&lt;br&gt;의료계는 또 한국의학교육과정평가원(의평원)의 자율성 보장도 요구했다. 의평원은 내년부터 정원이 10% 이상 늘어나는 의대 30곳의 재인증 평가를 담당한다. 의정 사태 후 의평원이 엄격한 교육 잣대를 요구하자, 교육부는 ‘의평원 심사에서 탈락해도 처분을 1년 유예할 수 있다’고 해 의료계가 반발하고 있다. 이 문제에 대해서도 정부 측은 “내부 논의 후 협의체에 보고하겠다”고 답했다.&lt;br&gt;&lt;br&gt;정치권과 의료계에선 협의체의 성패가 야당과 의료 단체의 추가 참여 여부에 달려 있다는 지적이 나온다. 한덕수 총리는 “정부를 믿고 대화에 참여해주실 것을 전공의와 의대생, 의료계에 호소한다”고 했고, 한 대표는 “민주당의 참여를 기다리고 있고 언제든 환영한다”고 했다.&lt;br&gt;&lt;br&gt;야당과 전공의 단체는 이날 협의체 첫 회의에 부정적 입장을 밝혔다. 박단 대한전공의협의회(대전협) 비상대책위원장은 “무의미”라며 “한동훈 대표는 전공의와 의대생, 당사자 없이 대화나 하겠다는 한가한 소리를 하고 있다”고 했다. 협의체에 참여하지 않은 민주당에서도 “전공의들과 의대 교수들이 빠진 협의체에 대해 국민과 의사들 사이에서 실효성에 대한 비판이 있는 것 같다”고 했다.&lt;br&gt;&lt;br&gt;한편 교육계에선 “2025학년도 정원은 이미 수능을 사흘 앞둔 시점이라 되돌리기 불가능하기 때문에, 2026학년도 정원에 대한 논의를 하루빨리 시작해야 한다”는 얘기가 나오고 있다. 협의체를 통해 2026학년도 의대 정원을 조정하더라도 ‘데드라인’은 내년 2월로 교육계는 보고 있다. 의대 증원분이 달라지면 교육부는 정원 배정 위원회를 거쳐 각 대학에 증원분을 다시 배정해야 하고, 대학들은 변경된 의대 정원을 반영해 학칙을 개정한 뒤 4월 30일 전까지 대교협에 최종 대입 계획을 제출해야 한다. 이런 절차를 밟으려면 늦어도 내년 2월까지는 의대 정원이 확정되어야 한다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>실업급여 신청 10월 기준 ‘역대 최다’</title>
-      <link>https://www.chosun.com/national/labor/2024/11/12/F5M3GFRUAJAJ5GZ564S3K6MTTI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/11/12/F5M3GFRUAJAJ5GZ564S3K6MTTI/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description>지난달 실업급여(구직급여) 신청자 수가 10월 기준 역대 최다를 기록한 것으로 나타났다.</description>
-      <pubDate>Mon, 11 Nov 2024 15:50:00 +0000</pubDate>
-      <content:encoded>지난달 신규 실업급여(구직급여) 신청자 수가 10월 기준 역대 최다를 기록했다. 월 단위 실업급여 지급액도 2개월 만에 다시 1조원을 넘어섰다. 일자리를 잃은 사람이 많아졌고, 고용 시장이 불안정해졌다는 의미다.&lt;br&gt;&lt;br&gt;11일 고용노동부에 따르면, 지난달 신규 실업급여 신청자는 8만9000명으로 전년 동월 대비 12.4%(1만명) 늘어난 것으로 나타났다. 10월 기준 역대 최대치다. 건설업과 도소매업이 각각 3만4000명, 1만7000명 늘었고 제조업도 1만2000명 신청자가 증가했다. 반면, 공공행정업은 3000명, 교육서비스업에선 2000명 등이 줄었다. 10월 기준 심사를 통과해 실업급여를 받는 이는 58만7000명으로 전년 동기보다 2만1000명(3.7%) 증가했다.&lt;br&gt;&lt;br&gt;실업급여 지급액은 2개월 만에 다시 1조원을 넘어섰다. 지난달 기준 실업급여 지급액은 1조6억원으로 전년 동기보다 903억원(9.9%) 늘었다. 올 들어 10월까지 누적 실업급여 지급액은 총 10조706억원이다. 고용부는 “올해 실업급여 지급 총액은 코로나 여파로 사상 최대였던 2021년(12조600억원) 이후 최대가 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>출장·방문·유선 조사 모두 거부한 문다혜</title>
       <link>https://www.chosun.com/national/court_law/2024/11/12/X3IB7HHRKZGLTDUXHEBEH5AO5M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/12/X3IB7HHRKZGLTDUXHEBEH5AO5M/</guid>
@@ -823,15 +898,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FQORZK5ME6MO4E32E6VE2CUGMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'음주운전 혐의'를 받는 문재인 전 대통령의 딸 문다혜 씨가 지난 10월 18일 서울 용산경찰서에서 피의자 조사를 마친 뒤 귀가하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 전 대통령 전 사위 서모씨의 ‘타이이스타젯 특혜 채용’ 의혹을 수사 중인 검찰이 이 사건 핵심 참고인인 문 전 대통령의 딸 다혜씨에게 검찰 출석에 이어 출장·방문·전화 조사까지 제안했지만 다혜씨가 모두 거부한 것으로 11일 알려졌다. 검찰은 다혜씨에 대한 조사를 하지 않는다는 방침을 세운 것으로 전해졌다. 이 사건에 관련된 문재인 청와대 인사 등에 대한 조사는 모두 끝났고, 이제 문재인 전 대통령에 대한 조사만 남은 셈이다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 검찰은 이 사건 핵심 참고인인 다혜씨에게 주거지 인근 검찰청 출장 조사 또는 방문 조사, 진술 녹음을 전제로 한 전화 조사 등을 제안했지만 다혜씨 측이 모두 거부했다고 한다. 앞서 검찰은 다혜씨 측에 지난달 중순과 이달 1일, 7~8일 중 검찰에 나와 조사받으라고 통보했다. 다혜씨 측은 검찰 출석을 거부하면서 “대면 조사를 대체할 다른 방법을 찾아달라”고 요구했다. 이에 검찰은 출장·방문·전화 조사를 재차 재안했다는 것이다.&lt;br&gt;&lt;br&gt;하지만 다혜씨는 변호인을 통해 검찰 제안에 불응하겠다는 의사를 전하면서, ‘우편 또는 전자우편(이메일) 조사’ 방식을 고수한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰은 서면 조사는 적절하지 않다고 판단하고, 다혜씨 조사를 건너뛰기로 내부 방침을 세웠다고 한다. 검찰 관계자는 “참고인은 형사소송법상 출석 의무가 없기 때문에 강제로 나오게 할 순 없다”라며 “확보한 객관적 자료로 실체적 진실을 밝히겠다”고 했다.&lt;br&gt;&lt;br&gt;이에 따라 검찰은 뇌물 수수 혐의를 받고 있는 문재인 전 대통령에 대해 직접 조사할 필요성이 있다는 입장이다.&lt;br&gt;&lt;br&gt;검찰은 문 전 대통령에 대한 뇌물 액수를 서씨가 2018년 7월~2020년 4월 이상직 전 민주당 의원이 실소유한 태국 항공사 타이이스타젯에 임원으로 취업해 받은 급여와 체류비 등 2억2300여 만원으로 특정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>국정원 드론 촬영 중국인 출국 금지</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/12/G42Y64M6JJEWZFNE7CFH7D6WEM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/12/G42Y64M6JJEWZFNE7CFH7D6WEM/</guid>
-      <dc:creator>안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 Nov 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ULZ34B4TWBBRBGK2UP6A4PJFWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 내곡동 국정원 전경. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 서초경찰서는 국가정보원 건물을 드론으로 촬영하다가 체포된 중국인 남성 A씨를 석방했다고 11일 밝혔다. 경찰 관계자는 “중국인 남성 A씨에게 대공 혐의점이 없는 것으로 1차 판단, 어젯밤 석방했다”고 했다. 다만 A씨를 출국 정지하고 대공 혐의 등을 계속 조사할 방침이다.&lt;br&gt;&lt;br&gt;국제배송업체 직원으로 알려진 A씨는 지난 9일 오후 인천국제공항으로 입국한 직후 렌터카를 타고 서울 서초구 내곡동 헌인릉(獻仁陵)에 왔다. 헌인릉 앞 국정원 관리 주차 구역에서 허가 없이 드론을 띄워 촬영했다가 이를 탐지한 국정원 요원들에게 붙잡혔고, 곧바로 경찰에 넘겨져 항공안전법 위반 혐의 조사를 받았다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨의 드론 카메라에는 헌인릉뿐 아니라 국정원 건물 일부도 촬영돼 있었다. A씨는 경찰에 “세계문화유산에 관심이 많아 헌인릉을 촬영한 것일 뿐이며, 한국의 다른 문화유산도 촬영할 계획이었다”고 진술했다. 헌릉은 조선 태종·원경왕후, 인릉은 순조·순원왕후의 무덤으로 2006년 유네스코 세계문화유산에 지정됐다.&lt;br&gt;&lt;br&gt;A씨는 방한 이틀 뒤인 11일 출국할 예정이었던 것으로 조사됐다. 짧은 기간 헌인릉을 먼저 찍고 다른 문화유산도 촬영하려 했다는 것이다. 경찰 고위 관계자는 많은 세계문화유산 중 굳이 헌인릉으로 간 이유가 무엇이었냐는 질문에 “그런 내용은 아직 보고받지 못했다”면서 “보강 수사를 할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;헌인릉 일대는 인적이 매우 드문 곳으로, 외국인 관광객은 물론 내국인도 왕래가 뜸한 곳이다. 이런 곳에 관광객이 드론을 소지하고 공항에서 입국 즉시 직행, 아무런 허가 없이 촬영을 시작했다는 진술이 석연찮음에도 경찰이 성급하게 대공 혐의점을 무마하려는 것 아니냐는 지적이 나왔다.&lt;br&gt;&lt;br&gt;경찰은 A씨에게 비행안전구역으로 지정돼있는 국정원 건물을 촬영한 혐의(군사기지법 위반) 추가 적용도 검토하는 한편, A씨가 거짓 진술을 했을 가능성도 수사할 방침이다. 경찰 관계자는 “군사기지법을 적용한다는 것은 대공 혐의점을 완전히 배제하지 않았다는 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘이재명 성남FC 의혹’ 재판부, 이례적으로 검사 퇴정시켜</title>
       <link>https://www.chosun.com/national/court_law/2024/11/12/FNTH3L5VPVFSNCQWDPXYA2QVVQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/12/FNTH3L5VPVFSNCQWDPXYA2QVVQ/</guid>
@@ -839,69 +905,6 @@
       <description/>
       <pubDate>Mon, 11 Nov 2024 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7BI5L4LCERFKLN4QTVGMYZXIAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지법 성남지원 전경. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“정 검사, 즉각 퇴정(退廷)하세요!”&lt;br&gt;&lt;br&gt;11일 오전 수원지법 성남지원에서 열린 ‘성남FC 불법 후원금 사건’ 재판정. 검사 5명과 피고인 양측이 자리에 앉자마자 허용구 재판장이 준비해온 원고를 30분간 읽더니 검사들을 향해 “부산지검 소속인 정 검사의 이 사건 소송 행위는 무효”라면서 이같이 말했다.&lt;br&gt;&lt;br&gt;순간 법정이 술렁였다. 재판장이 이러한 이유로 검사를 내쫓는 일은 매우 이례적이기 때문이다.&lt;br&gt;&lt;br&gt;이에 정승원 검사는 자리에서 벌떡 일어나 “재판부가 소송 지휘권을 남용해 공소(재판) 진행을 방해하고 있다”고 반발했다. 검사들은 재판부에 휴정(休廷)을 요청했으나 허 재판장은 거절했다.&lt;br&gt;&lt;br&gt;검사들은 “복잡한 사건인데 사건을 제일 잘 아는 정 검사에게 손을 떼라고 하는 건 이 사건 유죄 입증을 포기하라는 얘기”라고 주장했다. 검사들은 허 재판장 명령에 반발해 전부 퇴정했다. 재판은 검사 퇴정을 놓고 실랑이가 벌어진 끝에 50분 만에 끝났다.&lt;br&gt;&lt;br&gt;정 검사는 수원지검 성남지청에 근무하던 2022년 9월 이 사건을 기소한 검사다. 이후 재판은 지연됐고 정 검사는 작년 2월 인사에서 부산지검으로 발령 났다.&lt;br&gt;&lt;br&gt;성남지원에서 시작된 ‘성남FC 불법 후원금 사건’은 이재명 더불어민주당 대표가 성남시장 시절이던 2014~2018년 두산건설, 네이버, 차병원, 푸른위례프로젝트 등 기업 4곳의 인허가 청탁을 들어주면서 성남FC에 후원금 명목으로 133억5000만원을 내게 한 혐의(제3자 뇌물)로 작년 3월 불구속 기소된 사건이다. 이와 관련해 이 대표는 서울중앙지법에서 위례·대장동·백현동 개발 비리 사건과 합쳐 재판을 받고 있고, 성남FC에 불법 후원금을 낸 혐의를 받는 전직 기업 임원들은 성남지원에서 재판을 받는 중이다.&lt;br&gt;&lt;br&gt;정 검사는 작년 9월 서울중앙지검 검사 ‘직무 대리’로 발령받아 서울중앙지법에서 열리는 ‘성남FC 불법 후원금 사건’ 재판을 맡고 있다. 동시에 성남지원 재판도 열릴 때마다 ‘1일 직무 대리’ 발령을 받아 재판에 참여 중이다. 이 사건은 2022년 9월 기소 후 2년 2개월 동안 1심이 진행 중이다.&lt;br&gt;&lt;br&gt;직무 대리는 다른 검찰청 소속 검사가 대신 재판에 들어와 소송을 진행할 수 있게 만든 일종의 파견 제도다. 검사는 보통 1~2년 단위로 인사가 나는데, 주요 사건의 경우 다른 검찰청으로 가더라도 직접 챙길 수 있게 만든 것이다. 검찰 근무 규칙 4조에는 다른 검찰청 소속 검사가 검찰총장의 직무 대리 발령을 받아 공소 유지, 공판 수행 등 업무를 할 수 있다고 돼 있다.&lt;br&gt;&lt;br&gt;그러나 허 재판장은 “정 검사는 부산지검에서 서울중앙지검, 성남지청까지 ‘이중 직무대리’를 하고 있다”며 “이는 검사의 직무 관할을 규정한 검찰청법 5조를 위반해 위법하다”고 했다. 검찰청법 5조는 검사는 특별한 규정이 있는 경우를 제외하고는 소속 검찰청의 관할 구역에서 근무하도록 하고 있다. 다만 수사에 필요한 경우 관할 구역이 아닌 곳에서 근무할 수 있다.&lt;br&gt;&lt;br&gt;검찰청법이 원칙적으로 관할 구역 근무를 규정하고 있기 때문에 내부 규정상 직무 대리가 가능하다고 하더라도 그 요건을 엄격하게 해석해야 한다는 게 허 재판장 판단이다.&lt;br&gt;&lt;br&gt;허 재판장은 또 “검찰청법 34조1항에 따르면, 검사의 인사권자는 대통령인데 정 검사는 인사권이 없는 검찰총장의 발령을 받아 이 사건 재판에 나오고 있다“면서 “검찰 주장대로 이 사안이 복잡하다면 오히려 장기간 다룰 검사를 발령 내야지, 1일 직무 대리를 발령하는 것은 편법으로 보여 매우 부적절하다”고 말했다. 그러면서 “검찰은 관행이라고 하는데 관행이 불법이면 용납할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;법조계에서는 “매우 이례적인 판단”이라는 평가가 나온다. 검찰 한 관계자는 “허 재판장 말대로면 1~2년마다 모든 사건의 공판 검사가 바뀌어야 하는데 사건을 처음 보는 검사가 중간에 투입되면 유죄를 받아낼 수 있겠느냐”고 했다. 서울중앙지법에서 열리는 ‘성남FC 불법 후원금 사건’ 재판에서도 정진상 전 민주당 정무조정실장 측이 “검사의 직무 대리는 위법”이라고 주장했으나 재판부는 받아들이지 않았다.&lt;br&gt;&lt;br&gt;허 재판장은 검찰 출신으로 2006년부터 판사로 근무했다. 경북 칠곡 출신으로 고려대 법대를 졸업했다. 허 재판장은 올 3월부터 이 재판을 맡았다. 검찰은 이날 법원에 재판부 기피 신청을 했다. 이에 대해 대법원은 “개별 재판부 판단 사안이라 별도로 드릴 말씀이 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 전령(傳令)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/11/12/TJIU5YVOMFENVLP2OL7POJOU4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/11/12/TJIU5YVOMFENVLP2OL7POJOU4M/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 Nov 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PBVKAMSKTBFUXA2LXGRJNEL5T4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2499] 바꿔 부르기</title>
-      <link>https://www.chosun.com/national/nie/2024/11/12/HU5PUCO6GBBQNJW3TKET4UXQOU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/11/12/HU5PUCO6GBBQNJW3TKET4UXQOU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 Nov 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZMC6KREK6NC4XH5TMWNFFGMO6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 밤</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/11/12/OPVLZH7V6ZEZRI4UK3WORN5NSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/11/12/OPVLZH7V6ZEZRI4UK3WORN5NSY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 Nov 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J64MY4TPPFED3PKY5VK7TY62WI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] the ins and outs</title>
-      <link>https://www.chosun.com/national/nie/english/2024/11/12/GXUEFMTSSVEN5BCJ4VYMOJUWGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/11/12/GXUEFMTSSVEN5BCJ4VYMOJUWGA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 Nov 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WUMPVQ2DNRBKVFAJ4NJS7P5SDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 땅바닥에 주저앉다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/11/12/EAQGFDN7A5HEXAF2455WBFXQCY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/11/12/EAQGFDN7A5HEXAF2455WBFXQCY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 Nov 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IRSALBJDRFBULHAWKLDOGLFE5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김태석 한국회계정보학회장</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/11/12/A7JCLDSB6VAJDCSM4S23RRQVMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/11/12/A7JCLDSB6VAJDCSM4S23RRQVMM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 Nov 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SMFUUMHQ4ND4XJIKD3ZMM3CS2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국회계정보학회는 9일 정기총회에서 &lt;b&gt;김태석&lt;/b&gt; 백석대 경상학부 교수를 제35대 회장으로 선출했다. 임기는 내년 1월부터다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 한국언론진흥재단 ‘저널리즘, AI를 품다’를 주제로 ‘2024 KPF 저널리즘 콘퍼런스’ 개최 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/11/12/ITTVPONICZGLRJKTC5KTISP5EE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/11/12/ITTVPONICZGLRJKTC5KTISP5EE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 Nov 2024 15:40:00 +0000</pubDate>
-      <content:encoded>▲한국언론진흥재단(이사장 김효재)은 오는 13일부터 사흘간 서울 중구 한국프레스센터에서 ‘AX x Journalism: 저널리즘, AI를 품다’를 주제로 ‘2024 KPF 저널리즘 콘퍼런스’를 개최한다.&lt;br&gt;&lt;br&gt;▲한국경제인협회(FKI)와 피터슨국제경제연구소는 26일 오후 1시 30분 서울 영등포구 여의도동 FKI 컨퍼런스센터 다이아몬드룸에서 ‘격랑의 트럼프 제2기와 한국의 생존 해법’을 주제로 세미나를 연다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>최고령·최다 우승… 67세 랑거의 시간은 거꾸로 흐른다</title>
