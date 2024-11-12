@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“1200m 그물 제거에만 일주일”...제주 해상 침몰 ‘금성호’ 실종자 수색 장기화 우려</title>
+      <link>https://www.chosun.com/national/regional/2024/11/12/NCWGOQ6ZQBGDVCNHGYK56FLHUE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/12/NCWGOQ6ZQBGDVCNHGYK56FLHUE/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Nov 2024 05:08:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BF3M7GM7MBIFLEUJJUVZPB5YIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8일 제주 비양도 북서쪽 해상에서 침몰한 부산 선적 선망 어선 135금성호(129t)와 연결된 그물에서 해경이 실종자를 수색하고 있다./제주지방해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 해상에서 ‘135금성호’ 침몰 사고가 발생한 지 닷새째 실종자 수색 작업의 가장 큰 걸림돌로 ‘그물’이 꼽히고 있다.&lt;br&gt;&lt;br&gt;12일 제주해양경찰청에 따르면 지난 8일 새벽 제주 비양도 북서쪽 약 22㎞ 인근 바다에서 금성호가 침몰할 당시 작업 중이던 그물은 선체에 연결돼 있는 상태다. 금성호는 수심 90m 해저에 가라앉았지만 그물은 수심 35m 높이까지 떠있어 수중 수색에 어려움을 겪고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;해군이 하루 2~4회에 걸쳐 ‘ROV(수중무인탐사기, Remotely Operated Vehicle)’를 투입, 실종자 수중 수색을 벌이고 있다. 하지만 해저까지 진입하는 과정에서 그물과 장애물 등에 걸려 상당한 시간이 소요되고 있다는 것이 해경 측의 설명이다. 전날 주간 수색에서도 ROV는 당초 4회 투입할 계획이었으나 시야 확보에 어려움을 겪어 실제 수색은 2회만 이뤄졌다.&lt;br&gt;&lt;br&gt;금성호 선체에 접근하기 위해서도 그물 제거가 최우선 과제로 꼽히고 있다. 선체에 연결된 그물이 떠다니고 있어 이를 제거하기 전까진 잠수사의 안전 확보가 어렵기 때문이다.&lt;br&gt;&lt;br&gt;그러나 그물을 제거하는 문제도 쉽지 않다. 우선 ROV와 잠수사가 동시에 바다에 들어갈 수 없어 그물 작업 시에는 해군의 수중 수색은 중단해야 한다. 생존 선원들의 증언에 따르면 그물 크기는 길이 1200m, 폭 100~200m에 달해 한꺼번에 제거할 수 없어 부분씩 작업을 해야 하는 상황이다.&lt;br&gt;&lt;br&gt;민간 심해 잠수사가 육안으로 그물 속 실종자 및 유류물 유무를 파악한 후 일부 그물을 직접 제거하고 꺼내야 하기 때문에 작업 시간도 길어질 전망이다. 잠수사가 잠수할 수 있는 시간은 50~60분 가량으로, 실제 작업 가능 시간은 20~30분에 불과하다. 2인 1조로 움직여 하루 2~3개 조가 번갈아 들어갈 것으로 보인다. 현재 심해 잠수사는 9명 대기 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;제주해경은 “민간업체 의견을 들어보면 심해 잠수에 필요한 장비를 실은 바지선에서 앵커를 고정한 뒤 그물을 제거하기까지 일주일 이상 걸릴 것으로 예상된다”며 “다만 기상 상황이 좋았을 때를 전제로 하기 때문에 실제 바닷속 상황에 따라 더 길어질 수 있다”고 설명했다.&lt;br&gt;&lt;br&gt;한편 지난 8일 오전 4시 31분쯤 제주 비양도 북서쪽 약 22㎞ 인근 해상에서 침몰한 135금성호(승선원 27명)의 사망자는 한국인 선원 4명이고, 실종선원은 모두 10명(한국인 8명·인도네시아인 2명)이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울대에 尹대통령 퇴진 촉구 대자보 “사람들 인내심 한계 도달”</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/12/UJWI5UOC3VA3JLEUCN6NZ4YTXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/12/UJWI5UOC3VA3JLEUCN6NZ4YTXI/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Nov 2024 04:41:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5QJUXG7UPFDD3LHFGSVUVMSQXY.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령의 모교인 서울대에 대통령 퇴진을 요구하는 내용의 대자보가 게시됐다. 이를 작성한 학부생은 국민의힘 책임당원 신분이라고 밝혔다.&lt;br&gt;&lt;br&gt;지난 8일 서울대 학생회관과 중앙도서관 게시판 등에는 ‘불공정과 비상식의 대명사, 윤석열 동문의 퇴진을 촉구한다’는 제목의 대자보가 붙었다.&lt;br&gt;&lt;br&gt;대자보 작성자는 “윤석열 정부의 실정에 대한 사람들의 인내심이 한계에 이르렀다”고 했다. 이어 “‘공정’과 ‘상식’을 내걸며 국민적 기대와 함께 출범한 윤석열 정부”를 향해 “한 번도 경험하지 못한 불공정과 비상식”을 보여주고 있다고 했다. “윤 대통령은 자신과 아내를 둘러싼 의혹을 수사하기 위한 법안마저 ‘반헌법적’ 운운하며 거부권을 남발하고 있다”고도 했다.&lt;br&gt;&lt;br&gt;작성자는 “윤 대통령은 민주화 이후 가장 많은 거부권을 행사하며 대통령에게 부여된 권한을 ‘영끌’(영혼까지 끌어모아)하여 사용하고 있다”며 “누구보다 보수 궤멸을 위해 앞장서며 지난 총선의 대패를 이끌어내고 보수 진영을 쑥대밭으로 만들고 있다”고 했다. “어떻게든 대통령의 심기를 거스르지 않기 위해 되지도 않는 궤변을 내세우며 대통령과 여사의 행태를 옹호하는 국민의힘 의원들은 애처롭기 그지없다”고도 했다. &lt;br&gt;&lt;br&gt;작성자는 “윤 대통령의 독선과 비상식적인 행보는 글에 담을 수 없을 만큼 차고 넘친다”며 “정치 브로커 명태균씨로부터 촉발된 국정 개입 의혹” 등을 거론했다. 이어 “가장 시급하고 중대한 과제인 의료 개혁마저도 1년 가까이 죽 쑤고 있는 정부에 무엇을 더 기대하겠는가”라며 “의회와의 협치를 이끌고 다른 개혁을 실현해낼 수 있을 리 만무하다”고 했다.&lt;br&gt;&lt;br&gt;대자보를 작성한 학부생 A씨는 본지 통화에서 “나는 2년 전부터 매달 당비까지 꼬박꼬박 내던 국민의힘 책임 당원이었다”며 “하지만 지난 7일 기자회견을 보다가 답답하고 울분 섞인 마음이 생겨 평생 처음으로 대자보를 썼다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 대학에서 정치학을 전공하고 있다고 한다. A씨는 “수업에서 ‘해당 정부가 출범할 때 안고 있던 시대정신과 과제에 얼마나 부응했는가’가 성공한 정부의 기준 중 하나라고 배웠다”며 “그 배움을 기준으로 볼 때 윤석열 정부는 이미 실패했다고 봤기에 대자보를 썼다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주식 리딩방서 “코인 투자시 300% 수익”... 98억 챙긴 사기조직 송치</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/12/DLO6M54MEVFFVDA2O675DOMVJM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/12/DLO6M54MEVFFVDA2O675DOMVJM/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Nov 2024 03:55:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EYXNDVCIPBHMRL6QZ4IOEFJH6I.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;투자 리딩방을 통한 가상자산 시세조종으로 수십억원을 챙긴 이들로부터 경찰이 압수한 범죄수익금. /서울경찰청 금융범죄수사대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주식 투자 리딩방 회원들에게 ‘300% 수익’을 앞세워 가상자산을 판매한 뒤 시세조종으로 98억원을 편취한 사기 조직 일당이 무더기로 검거됐다.&lt;br&gt;&lt;br&gt;서울경찰청 금융범죄수사대는 30대 남성 A씨 등 유사 투자자문사 대표 2명과 지점장·팀장·영업자를 비롯한 조직원 101명, A씨의 장인인 50대 B씨 등 총 104명을 사기 등 혐의로 검찰에 송치했다고 12일 밝혔다. 경찰은 이들에게 범죄집단 조직 또는 가입, 활동 혐의도 적용했다. A씨 등 대표 2명과 그의 범죄수익을 은닉한 B씨는 구속 상태로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;이들은 2022년 10월부터 작년 6월까지 서울 금천구와 경기 안양, 인천 일대에서 유사 투자자문사 사무실을 운영하며 가상자산 시세조종과 미신고 가상자산 중개를 통해 168명으로부터 98억원 상당을 가로챈 혐의를 받는다. 이들은 주식 투자로 손실을 본 리딩방 회원들에게 “해외거래소에 상장된 코인을 프라이빗 세일로 시세보다 저렴하게 구입할 수 있고 시작부터 300％ 이상 수익을 볼 수 있다”고 속여 가상자산을 판매했다.&lt;br&gt;&lt;br&gt;문제가 된 코인은 코인 발행 재단이 브로커를 통해 해외 거래소에 상장시킨 것이었지만, 전체 발행량의 극소량만 유통해 인위적으로 가격을 급등시키는 등 시세를 조종할 수 있었다. A씨 등은 또 시세조종을 위해 피해자들에게 9개월간 코인을 판매할 수 없도록 ‘락업’이 설정돼 있다고 속였다. 그러나 락업 기간이 해제되자 코인 가격은 폭락했다. 이들이 투자자들에게 1개당 100원에 판매한 코인은 해외거래소에서 1184원까지 치솟았지만, 현재 2.7원으로 떨어진 상태다.&lt;br&gt;&lt;br&gt;피해자의 74％는 50대 이상이었는데, A씨 등은 처음부터 가상자산 지식이 많지 않은 중장년과 고령층을 노려 범행을 계획했다고 한다. 이들은 범죄수익금으로 벤틀리·포르쉐 등 고가의 외제 차를 타거나 명품 시계 등 사치품을 사들여 호화로운 생활을 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;수사에 착수한 경찰은 압수수색 등을 통해 명품 시계와 현금 등 56억원 상당의 범죄수익을 압수하고 기소 전 몰수·추징 보전을 신청했다. 경찰은 A씨의 범죄수익금을 추적하던 중 지난달 경찰에 절도 피해 신고를 한 그의 장인 B씨가 범죄 수익 은닉에 연루된 사실을 파악하고 28억원을 압수하기도 했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “모르는 사람이 투자를 권유할 때는 가상자산을 매매·중개·알선하는 사람이 적법하게 신고된 가상자산 사업자인지 확인해야 하며 원금과 고수익을 보장하는 투자 권유에 대해서는 의심할 필요가 있다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7FRJYZXVPBCAVMURVCEOEFAEY4.png"&gt;&lt;figcaption&gt;&lt;small&gt;투자 리딩방을 통한 가상자산 시세조종으로 수십억원을 챙긴 이들로부터 경찰이 압수한 사치품 목록. /서울경찰청 금융범죄수사대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘턴 투워드 부산’…세계가 부산을 향해 1분간 고개 숙였다</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/11/RVMNG3PAABDR7IIWAQYHRVEURU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/11/RVMNG3PAABDR7IIWAQYHRVEURU/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 11 Nov 2024 07:05:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XJ2UR5VF7RCHLJIKBEX2HUTXMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오전 11시 부산 남구 대연동 유엔기념공원에서 6·25 전쟁에 참전, 산화한 유엔군 용사들을 추모하는 '턴 투워드 부산' 행사 참석자들이 묵념을 하고 있다./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·25 전쟁 때 참전, 희생된 유엔군 용사를 추모하기 위해 부산 남구 대연동 유엔기념공원을 향해 1분간 묵념하는 ‘턴 투워드 부산’ 행사가 11일 거행됐다.&lt;br&gt;&lt;br&gt;이날 행사는 오전 10시 30분 ‘유엔군 무명용사 유해 안장식’으로 시작됐다. 이 유해는 지난 2010년 경기 연천군 백령리에서 발굴됐으나 국적과 신원이 확인되지 않은 17∼25세 유럽계 남성 유엔군 전사자이다.&lt;br&gt;&lt;br&gt;재한유엔기념공원관리처는 “정전 이후 발굴된 무명용사 유해가 유엔기념공원에 안장되는 것은 이번이 처음”이라고 말했다.&lt;br&gt;&lt;br&gt;이어 오전 11시 정각 유엔기념공원과 부산 전역에 추모 사이렌이 울려졌다. 행사에 참석한 20개국 참전용사와 그들의 가족, 유족, 국내 참전용사, 유엔군사령부 장병, 강정애 국가보훈부 장관, 박형준 부산시장 등 800여 명이 일제히 고개를 숙이고 묵념했다. 미국, 캐나다, 튀르키예 등 6·25 참전 20여국에서도 현지 상황에 맞춰 묵념 행사를 가졌다.&lt;br&gt;&lt;br&gt;또 이날 같은 시각 서울시청에서 열린 ‘UAM·AI·양자 신기술 협력 콘퍼런스’에 참석한 오세훈 서울시장과 김선호 국방부차관, 박안수 육군참모총장, 정진팔 육군교육사령관, 이진우 수도방위사령관이 부산유엔기념공원을 햫해 추모 묵념을 하는 등 국내 곳곳에서도 ‘턴 투워드 부산’ 행사에 동참했다.&lt;br&gt;&lt;br&gt;행사에선 참전용사를 추모하는 조포 21발이 하늘을 향해 발사됐고 참전용사를 기리는 추모 공연과 블랙이글스의 공연도 펼쳐졌다.&lt;br&gt;&lt;br&gt;강 보훈부 장관은 이날 추모사에서 “유엔군 전몰장병의 숭고한 희생에 대한민국 정부를 대표해 깊은 감사와 존경을 보내며 용사들을 끝까지 잊지 않고 기억하겠다는 대한민국의 약속을 지키겠다”고 말했다.&lt;br&gt;&lt;br&gt;턴 투워드 부산 행사는 지난 2007년 캐나다 참전용사인 ‘빈센트 커트니’씨의 제안으로 시작돼 매년 열리고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I6EFGBNHZNM5ZPYD7T3SUAHGAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 세계 유일의 유엔군 묘지인 부산 남구 유엔기념공원에서 태국군 참전용사 '롯 아사나판'씨의 유해 안장식이 거행되고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘턴 투워드 부산’ 행사에 이어 이날 낮 12시 태국군 참전용사 ‘롯 아사나판’씨의 유해 안장식이 거행됐다. 아사나판씨는 태국인으로 유엔기념공원에 안장된 첫 번째 참전용사다. 그는 1922년 8월 14일에 태어나 태국군 ‘리틀 타이거’ 부대 소속으로 1952년 11월 18일~1953년 10월 28일까지 한국에서 복무했고 지난해 6월 14일 100세의 나이로 영면했다.&lt;br&gt;&lt;br&gt;고인의 딸, 쏨송씨는 “아버지를 더욱 영예롭게 기리기 위해 한국 정부에 유엔기념공원 안장을 신청했다”며 “아버지의 유해가 여러 나라의 용감한 영웅들이 모인 이곳에 안치된 것에 깊은 영광과 감사의 마음을 느낀다”고 밝혔다.&lt;br&gt;&lt;br&gt;안장식에는 강 보훈부장관과 타니 쌩랏 주한태국대사 그리고 해외 참전용사와 유엔 평화봉사단 소속 학생 등 100여명이 참석했다. 강 장관은 안장식에서 “대한민국의 품에서 영원히 안식하기를 빈다”면서 “용사님의 숭고한 인류애와 헌신을 기억하고, 존경과 감사의 마음을 바친다”고 밝혔다.&lt;br&gt;&lt;br&gt;이날 고인이 안장으로 유엔기념공원에 잠든 유엔군 참전용사는 13국 2329명에서 14국 2330명으로 늘어났다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“의대생들 돌아올 거라 믿어... 불신의 벽 높았다, 오해 풀 것”</title>
       <link>https://www.chosun.com/national/education/2024/11/12/5UPXT7YC6NEA5IPDPX3TAQOW5Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/11/12/5UPXT7YC6NEA5IPDPX3TAQOW5Q/</guid>
@@ -850,42 +886,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/A2XJUATLIYLNDW6HVAEBYYBLF4.jpg?width=4000&amp;height=2252&amp;auth=0102192209b89ee83ab32426242175356ce722282d7a80e0b0a5bf3f9cc00283&amp;smart=true" type="image/jpeg" height="2252" width="4000">
         <media:description type="plain">서울 강남경찰서 ⓒ News1 이비슬 기자</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>휴가 중 교통사고 목격한 육군 장교, 80대 운전자 살렸다</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/11/IGXBLOEPBNHX7LITL74YORQJFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/11/IGXBLOEPBNHX7LITL74YORQJFU/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 Nov 2024 08:11:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NTKUDCCKZRBENA62W7LTNPRWSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;육군 22사단 김군기 중위가 사고 현장을 수습하는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;휴가 중이던 한 육군 장교가 교통사고 현장에서 크게 다친 80대 운전자를 구조한 사연이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;11일 육군 제22보병사단 등에 따르면 지난달 19일 오후 3시쯤 경기 광명역 인근 한 서해안고속도로에서 80대 운전자 A씨가 몰던 승합차가 전복됐다.&lt;br&gt;&lt;br&gt;이 사고로 A씨는 머리 등을 크게 다쳐 출혈이 심한 상태로 보호 난간을 붙잡고 겨우 서 있었다. 사고가 고속도로 한복판에서 발생해, 뒤따라오는 차량과 추돌하는 등 2차 사고가 발생할 수도 있는 상황이었다.&lt;br&gt;&lt;br&gt;마침 인근을 지나던 22사단 소속 김군기 중위가 해당 장면을 목격했다. 그는 차량을 세운 뒤 A씨에게 달려가 지혈 등 응급 처치를 했다. 또 2차 사고 예방을 위해 인근 차량 통행을 통제하고 119와 보험사 등에 신고했다. 김 중위의 도움으로 A씨는 무사히 병원으로 옮겨져 치료를 받았다.&lt;br&gt;&lt;br&gt;이 사연은 현장을 목격한 한 시민이 김 중위의 부대 마크와 명찰 등을 확인한 뒤 부대에 사연을 직접 제보하며 알려졌다.&lt;br&gt;&lt;br&gt;22사단 측은 이날 김 중위에게 사단장 표창을 수여했다.&lt;br&gt;&lt;br&gt;김 중위는 “국가와 국민을 수호하는 군복 입은 군인으로서 당연히 운전자를 구출해야겠다는 생각이 가장 먼저 들었다”며 “앞으로 같은 일이 발생하더라도 망설임 없이 국민의 생명과 안전을 지켜내겠다”라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>집행유예 기간 중 또 음주운전...허위 신분증까지 내민 ‘동종 전과 2범’ 징역형</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/11/UCLQGXEQ6ZCIJETUU7KBL3XX7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/11/UCLQGXEQ6ZCIJETUU7KBL3XX7E/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 Nov 2024 07:23:21 +0000</pubDate>
-      <content:encoded>음주운전으로 두 번이나 처벌 받은 전력이 있는데도 또 만취 상태로 운전을 한 뒤 신분까지 숨기려고 다른 사람의 신분증을 제시한 40대 남성이 징역형을 선고 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OA5BVX23ONFUNGXPLTCEBOZWAA.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 법조계에 따르면 서울중앙지법 형사1단독 이춘근 부장판사는 최근 도로교통법 위반(음주운전·무면허운전) 및 위조사서명행사 등 혐의로 재판에 넘겨진 유모(48)씨에게 징역 1년 6개월에 집행유예 3년을 선고하고, 보호관찰과 160시간의 사회봉사 및 40시간의 준법운전강의 수강을 명령했다.&lt;br&gt;&lt;br&gt;유씨는 작년 7월 23일 오후 10시 전후로 서울 종로구에서 중구까지 약 2km 구간에서 만취 상태(혈중알코올농도 0.114%)로 차를 몰며 역주행도 했다. 면허취소 수준(혈중알코올농도 0.08% 이상)에 해당한 유씨는 당시 운전면허도 없었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;지난 2018년과 2021년 동종 범죄로 처벌 받고 집행유예 기간 중에 있었던 유씨는 경찰에 적발되자 가중처벌될 것을 우려해 그가 운영한 회사의 예전 직원인 A씨처럼 꾸며 행동했다.&lt;br&gt;&lt;br&gt;유씨는 A씨의 주민등록증 사진을 휴대전화에 저장해두고 있었는데, 이를 이용해 A씨처럼 행세하며 음주운전 단속 결과 통보서나 주취운전자 정황진술 보고서에 A씨 이름과 서명 등을 위조해 기재했다.&lt;br&gt;&lt;br&gt;이 부장판사는 “유씨는 음주운전으로 두 차례 처벌 받은 전과가 있을 뿐만 아니라 집행유예 기간 중이었음에도 또 다시 음주운전을 하고 자신의 범행을 숨기려 했다”면서도 “유씨가 경찰의 연락을 받고 곧바로 위조사서명행사 등 범행을 인정한 점, (이전) 음주운전 집행유예 판결에 대해 재심심판절차가 이뤄지고 있는 점, 유씨에게 부양해야 할 어린 자녀가 있는 점 등을 종합했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;양측 모두 항소하지 않아 이 판결은 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>범죄 압수금 3억원 빼돌린 용산서 경찰관, 구속 기소</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/11/RK6S4J4CGZG5PJQ3ZXUCFIC5LE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/11/RK6S4J4CGZG5PJQ3ZXUCFIC5LE/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 Nov 2024 07:11:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J24SGX4ONRBTXEKDQXZTPV3FPM.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보이스 피싱 범죄 압수금을 빼돌린 경찰관이 11일 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울서부지방검찰청 형사3부(부장 김은하)는 보이스 피싱 범죄 조직원들을 검거하면서 압수했던 현금 약 3억원을 빼돌린 용산경찰서 형사과 소속 A 경사를 업무상횡령 등 혐의로 구속기소했다고 이날 밝혔다.&lt;br&gt;&lt;br&gt;앞서 A 경사는 자신이 담당했던 보이스피싱 사건 4건의 압수물인 현금 약 3억원을 2년에 걸쳐 몰래 빼돌린 혐의로 지난달 16일 긴급체포됐다. 용산서는 같은달 23일 그를 구속 상태로 송치했다. 검찰 조사 결과, A 경사는 현금 대부분을 카드 대금을 갚는 데 쓰거나 대출금 변제 등을 위해 사용한 것으로 나타났다.&lt;br&gt;&lt;br&gt;검찰은 수사과정에서 A 경사가 범행을 숨기기 위해 압수물을 계속 보관하고 있는 것처럼 허위 내용의 공문서와 공전자기록을 작성한 사실도 새롭게 확인했다. 이에 검찰은 허위공문서작성 및 행사, 공전자기록등 위작 및 행사 혐의를 추가로 적용했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “국민의 재산을 보호해야 할 경찰관의 본분을 망각한 채 범행을 저지른 피고인이 죄에 상응하는 처벌을 받을 수 있도록 공소 유지에 만전을 기하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>시크한 트럼프 아내, 샤이니 만나 함박웃음? 사실은…</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/11/4V7VN7DKNVFMHH7HDEDYC6BMVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/11/4V7VN7DKNVFMHH7HDEDYC6BMVY/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 Nov 2024 07:58:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R4BSHSFAJOLILMHX5WBG5RAGMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2017년 국빈 방한한 멜라니아 여사가 샤이니 민호를 만나 활짝 웃고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 샤이니 민호(본명 최민호‧33)가 과거 도널드 트럼프 전 미국 대통령의 아내 멜라니아 트럼프 여사를 만났던 상황을 설명했다.&lt;br&gt;&lt;br&gt;11일 방송된 KBS ‘박명수의 라디오쇼’에서 진행자 박명수는 트럼프 전 대통령이 재선에 성공한 것과 관련 평소 시크한 성격으로 알려진 멜라니아 여사가 과거 민호와 만나 활짝 웃었던 장면을 언급했다.&lt;br&gt;&lt;br&gt;민호는 당시 상황에 대해 “나라에서 하는 행사가 있었다. 그때 사건이 있었다”며 “원래 차갑고 도도하신 분인데, (행사장) 앞에 있던 소녀분이 저를 보고 소리를 지르는 것을 보고 활짝 웃으셔서 이슈 아닌 이슈가 됐었다. (당시) 간단하게 영어로 만나서 영광이라고 말씀드렸던 것 같다”고 했다.&lt;br&gt;&lt;br&gt;멜라니아 여사는 지난 2017년 11월 트럼프 당시 대통령과 방한해 청소년 교육 진흥 및 2018 평창동계올림픽의 성공 개최를 기원하는 행사에 민호와 함께 참석했었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X34IZY2B2XIUFWQWP62KYQD5NQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2017년 국빈 방한한 멜라니아 여사가 샤이니 민호와 행사에 참석해 활짝 웃고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 박명수는 “또 만난다면 ‘Remember me?’(나를 기억하느냐)라고 물을 거냐”고 질문했고, 민호는 “다시 뵐 날이 있을까?”라면서도 “만약 기회가 된다면 그때 이 일을 기억하냐고 얘기하면 약간 아이스브레이킹이 되지 않을까 싶다”고 했다.&lt;br&gt;&lt;br&gt;민호는 지난 2018년 다른 방송에서는 “당시 (관계자분이) ‘좀 시크하시고 도도하다. 안 웃으시고 차가워 보여도 원래 성격이 그러시니까 오해하지 말라’라고 해서 ‘네 알겠습니다’라고 했는데 아니시더라”라고 말했다.&lt;br&gt;&lt;br&gt;평소 잘 웃지 않는 것으로 유명한 멜라니아 여사는 당시 행사에서 민호와 만나 활짝 웃는 모습을 보여 화제가 됐었다. 당시 K팝 팬들은 멜라니아 여사가 민호의 잘생긴 외모에 반해 이례적으로 활짝 웃은 것이라고 해석하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>매달 장학금·해외 체험학습 지원...주민 힘으로 부활한 폐교 위기 송학中</title>
