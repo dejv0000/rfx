@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>이기흥 대한체육회장, 문체부의 '직무 정지' 처분에 가처분 신청</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/202843.jpg" alt="202843.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;이기흥 대한체육회장《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;이기흥 대한체육회장이 문화체육관광부로부터 직무 정지 처분을 받자 이에 반발해 법적 대응에 나섰다. &lt;br /&gt;&lt;br /&gt;이 회장은 12일 서울행정법원에 직무정지 통보 취소 소송(2024구합87720)과 함께 문체부의 직무 정지 처분 효력을 중단해 달라는 가처분 신청(2024아13803)을 제출했다.&lt;br /&gt;&lt;br /&gt;문체부는 지난 10일 국무조정실 산하 공직복무점검단의 비위 점검 결과 발표에 따라 대한체육회를 대상으로 한 조사 결과를 공개했다. &lt;br /&gt;&lt;br /&gt;이번 조사에서 대한체육회 직원의 부정 채용, 물품 후원 요구 및 금품 수수, 후원 물품의 사적 사용 등이 드러났다.&lt;br /&gt;&lt;br /&gt;문체부는 이에 대한 책임을 물어 이 회장과 관계자들을 수사기관에 의뢰하고 이 회장에 대해 직무 정지 처분을 내렸다.&lt;br /&gt;&lt;br /&gt;문체부 관계자는 "공공기관 운영의 법률에 따라 대한체육회장의 비위 혐의와 관련해 신속한 수사를 촉구하고 직무를 정지했다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;이 회장의 직무 정지 처분은 공공기관 운영법 제52조의 3에 따른 조치로 법에 따르면 주무기관의 장은 공공기관 임원이 금품 비위, 성범죄, 채용 비위 등 비위 행위가 확인되면 수사 의뢰와 함께 직무를 정지시킬 수 있다. &lt;br /&gt;&lt;br /&gt;대한체육회는 해당 법에 따라 기타공공기관으로 분류되며, 대한체육회장 역시 공공기관 임원에 해당된다.&lt;br /&gt;</description>
+			<pubDate>Tue, 12 Nov 2024 06:26:49 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/202843</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202843</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202843.jpg</media:thumbnail>
+			<dc:creator>이순규 기자</dc:creator>
+		</item>
+		<item>
 			<title>한국청년입법정책학회, '제3회 2024년 법학전문대학원 입법정책학회 연합 학술 세미나' 성료</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/202825.jpg" alt="202825.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;한국청년입법정책학회(이사장 백대용)는 지난 9일 서울 서대문구 연세대학교 국제회의장에서 '제3회 2024년 법학전문대학원 입법정책학회 연합 학술 세미나'를 개최했다. 한국청년입법정책학회는 로스쿨 재학생들이 입법 정책에 관한 지식과 견해를 나누고 입법에 대한 관심을 확대하고자 이번 세미나를 열었다고 밝혔다.&lt;br /&gt;&lt;br /&gt;세미나에는 건국대, 고려대, 서울대, 성균관대, 연세대, 이화여대, 인하대, 중앙대, 한국외대, 한양대의 10개 로스쿨 입법정책학회 임원진 및 학회원들이 참여했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="117"&gt;백대용&lt;/span&gt;(50·사법연수원 31기) 이사장은 "모든 팀이 문제점을 충실하게 진단하는 데에 그치지 않고 합리성과 독창성을 두루 갖춘 입법 정책적 해결 방안까지 제시한 매우 유익한 세미나"라며 "로스쿨 학생들이 입법의 중요성을 늘 마음에 새기고 법을 입체적으로 학습해 나갈 수 있기를 바란다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;이날 세미나에 참석한 안철수 국민의힘 의원은 기조연설을 통해 스탠퍼드 법대 방문 학자로서의 경험을 언급하며 "빠르게 변화하는 사회에 발맞춘 입법이 중요하다"며 격려했다. &lt;br /&gt;&lt;br /&gt;세미나는 총 34명의 발제자가 참여해 '장애인 3법', '스토킹방지법', '노동시장에서 AI 활용 증대', 'ESG 공시 의무화', '딥페이크 성범죄', '디지털 재난 대응체계' 등 사회 현안을 주제로 입법적 쟁점을 검토하고 의견을 나눴다. &lt;br /&gt;&lt;br /&gt;한국청년입법정책학회는 로스쿨생들의 자발적 활동으로 설립된 연합단체로 올해 인하대가 새롭게 참여하면서 현재 10개 로스쿨이 소속돼 약 1500명의 회원이 활동하고 있다.&lt;br /&gt;</description>
 			<pubDate>Tue, 12 Nov 2024 01:07:35 -0000</pubDate>
@@ -229,16 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202750</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202750.jpg</media:thumbnail>
 			<dc:creator>안현 기자</dc:creator>
-		</item>
-		<item>
-			<title>[인터뷰] “세계 한인 법률가에게 실질적 도움 줄 것” - 조영희 LAB파트너스 변호사</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/202749.jpg" alt="202749.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;span style="font-weight: bold;" serial="5897"&gt;조영희&lt;/span&gt;(55·사법연수원 27기) 법무법인 LAB파트너스 변호사가 세계한인법률가회(IAKL Korea)의 15대 회장으로 지명됐다. 그녀는 IAKL Korea 최초의 여성 회장이자 글로벌 한인 법률가 네트워크의 중심에 선 인물로 전 세계 한인 법조인의 교류와 협력을 이끌어갈 예정이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;IAKL은 한국에 기반한 사단법인 세계한인법률가회와 미국 캘리포니아의 IAKL Inc.로 구성된 이사회에 의해 운영된다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;다음은 조영희 회장과 일문일답.&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;- 회장으로 임명된 소감은&lt;/b&gt;&lt;/p&gt;&lt;p&gt;전 세계 한인 법률가들의 교류와 화합을 위해 만들어진 IAKL Korea 회장으로 취임하게 된 것은 큰 영광이다. 전 세계에서 활약하는 한인 법률가들에게 실질적 도움을 제공하고 활약을 지원하는 단체로 성장해야 한다는 책임감을 느낀다. 여성으로서 회장에 오른 것에 의미를 두기보다는 한인 법률가들 간 네트워크를 더욱 공고히 하는 데 집중할 것이다. 그럼에도 여성 첫 회장이라는 기대에 부응하기 위해 결혼과 육아 등으로 고충을 겪는 여성 후배 법조인들이 편안하게 소통할 수 있는 친근한 단체로 자리 잡을 수 있도록 노력하겠다.&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;- IAKL이 1988년 설립 이후 한인 변호사들 간 교류와 협력이 강화됐다. 그 과정에서 특히 의미 있던 순간은&lt;/b&gt;&lt;/p&gt;&lt;p&gt;매년 총회에서 후원자들의 기부를 통해 진행되는 공익활동 시상과 장학금 수여가 의미가 크다. 보람있는 활동으로는 법학 전공 학생과 저연차 변호사들을 위한 멘토링 프로그램이 있다. 올해 7월 서강대에서 1~3년 차 변호사와 학생들이 참여한 멘토링 이벤트를 개최했는데 많은 학생이 지원했다. 6년 정도 된 행사인데 멤버들의 만족도가 높고 행사에 참여한 학생들이 나중에 IAKL 멤버가 되었을 때 보람을 느낀다.&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/202749.jpg" alt="202749_1.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;- 올해 초, 전 세계 한인 및 사회적 약자 지원 사업과 법률가 지원 장학 사업이 정관에 추가됐다&lt;/b&gt;&lt;/p&gt;&lt;p&gt;정관 추가는 IAKL의 지향하는 바를 명문화한 것이다. IAKL Korea는 외교부 산하의 비영리 사단법인으로 설립됐다. 법률가 모임으로서의 성격보다는 전세계적인 한인단체로서의 정체성을 뚜렷하게 보여주는 단체이다. 한국을 떠나 외국에서 살아가는 한인들과 그 후손들이 법률가로서의 삶을 살아가고 있으니 그들을 연결하는 IAKL이 위와 같은 사업을 목적으로 천명하는 것은 지극히 자연스러운 일이다.&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;- 해외에서 활동하는 한인 변호사들에게 전하고 싶은 조언이 있다면&lt;/b&gt;&lt;/p&gt;&lt;p&gt;IAKL은 한인이라는 정체성과 법률가라는 정체성이 합쳐진 단체다. 변호사들만의 단체도 아니다. 복잡한 세계정세와 경제적인 불확실성이 상존하는 시대에, 한인이라는 정체성이 모든 한인들에게 희망과 자부심을 주고, 법률가라는 정체성이 우리가 지향해야 할 가치를 보여준다고 생각한다. 앞으로도 IAKL은 소통과 연결을 위한 플랫폼 역할을 다할 것이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;</description>
-			<pubDate>Fri, 08 Nov 2024 20:07:24 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/202749</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202749</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202749.jpg</media:thumbnail>
-			<dc:creator>이진영 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
