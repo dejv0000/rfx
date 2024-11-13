@@ -13,6 +13,103 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>음주 운전으로 사망 사고 낸 후 ‘술타기’ 시도한 20대 구속 송치</title>
+      <link>https://www.chosun.com/national/incident/2024/11/13/BG432M6WMBAJZHAT55HDO66YRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/13/BG432M6WMBAJZHAT55HDO66YRU/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Nov 2024 13:42:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JBRRJAQLJFUR7S2PFRDKT5XLR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;성남 수정경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전을 하다 사망사고를 내고 도주한 뒤 이른바 ‘술 타기(음주 운전 사고 후 또 술 마시기)’로 수사 기관을 속이려 한 20대 남성이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경기 성남수정경찰서는 특정범죄가중처벌법상 도주치사 등 혐의로 대학생 A씨를 구속 송치했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 5일 오전 4시 10분쯤 성남시 수정구 수진동 성남대로에서 만취 상태로 SUV 차량을 몰다 전기자전거 운전자인 30대 남성 B씨를 들이받은 후 도주한 혐의를 받고 있다. A씨는 B씨를 위한 구호 조치를 전혀 취하지 않은 채 그대로 달아났으며, B씨는 뒤늦게 병원으로 옮겨졌으나 숨졌다. 당시 B씨는 자신이 운영하는 무인 빨래방 업무를 보러 새벽부터 집을 나섰다 사고를 당한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 사건 당일 자신이 머물던 거주지에서 체포됐고, 당시 출동한 경찰관에게 빈 술병을 보여주면서 “집에 와서 술을 마셨다. 사고 당시에는 마시지 않았다”고 주장하는 등 ‘술 타기’를 시도했다. 술타기는 음주운전으로 교통사고를 일으키고 도주한 범죄자가 수사기관에서 음주운전 당시의 혈중알코올 농도를 측정할 수 없도록 일부러 술을 더 마시는 수법을 뜻한다.&lt;br&gt;&lt;br&gt;경찰은 현장 정황증거 등을 통해 A씨가 집안에서 추가로 술을 마신 사실이 없음을 확인 후 A씨에게서 음주운전 사실을 자백받았다. 또 A씨가 증거 인멸을 위해 빼내 둔 차량 블랙박스 메모리카드도 확보했다.&lt;br&gt;&lt;br&gt;사건 당시 A씨 혈중알코올농도는 면허 취소 수준이었다. 사고를 내기 직전 지인들과 함께 3차에 걸쳐 술자리를 가진 뒤 운전대를 잡았던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“나 집주인인데, 문 좀 열어줘”... 원룸 20대女 속여 성폭행 시도</title>
+      <link>https://www.chosun.com/national/incident/2024/11/13/QVERMLCR7BEV3IT7LWPFEYWHCQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/13/QVERMLCR7BEV3IT7LWPFEYWHCQ/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Nov 2024 13:24:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CP4RUWJTWMYV6ZFGNCQBHLA2UI.png"&gt;&lt;figcaption&gt;&lt;small&gt;부산 남부경찰서/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;원룸에 홀로 사는 여성의 뒤를 밟은 뒤 성폭행을 시도한 20대 남성이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;부산 남부경찰서는 성폭력처벌법 위반 혐의로 20대 남성 A씨를 검찰에 구속 송치했다고 13일 밝혔다. A씨는 지난 3일 오후 10시쯤 부산 남구의 한 원룸에 거주하던 20대 여성 B씨에 대해 성폭행을 시도한 혐의를 받고 있다. A씨는 자신을 피해 집 밖으로 도주한 B씨를 붙잡아 폭행한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 귀가하는 B씨가 홀로 집에 들어가는 것을 본 뒤, 초인종을 누르고 집주인 행세를 하며 “배관을 확인하러 왔다”며 B씨를 속여 침입한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 B씨의 비명 소리를 들은 이웃 주민들의 신고를 받고 출동한 경찰에게 체포됐다. 경찰은 A씨의 정확한 범행 동기를 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>중국인이 몰래 항모·국정원 촬영했는데, 처벌할 법이 없다니...</title>
+      <link>https://www.chosun.com/national/2024/11/13/TABXM2O7CRGXPD46TQCPMMYGT4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/11/13/TABXM2O7CRGXPD46TQCPMMYGT4/</guid>
+      <dc:creator>주형식 기자, 구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Nov 2024 13:23:05 +0000</pubDate>
+      <content:encoded>부산경찰청은 중국인 유학생 3명이 최소 2년간 우리 군사시설 사진을&lt;b&gt; 수백 차례 &lt;/b&gt;촬영한 사실을 확인했다고 13일 밝혔다. 지난 9일엔 국가정보원 건물을 드론으로 촬영한 중국인이 검거됐다. 경찰은 이 같은 범행이 중국 당국 등에 의해 사전 기획됐을 가능성을 염두에 두고 수사를 확대 중이다.&lt;br&gt;&lt;br&gt;부산청은 지난 6월 25일 부산 남구 용호동 해군작전사령부 부산작전기지 인근 야산에서 드론을 띄워, 정박 중인 미 해군 항공모함 시어도어 루스벨트함을 5분여간 촬영한 중국인 유학생 3명을 군사기지 및 군사시설 보호법 위반 혐의로 체포했다. 루스벨트함은 당시 한·미·일 3국 최초의 다영역 군사훈련인 ‘프리덤 에지’ 참여를 위해 입항해 있었다. 이 유학생들은 경찰 조사에서 “호기심에 그랬다”고 진술했지만, 경찰이 휴대전화 등을 조사한 결과, 최소 2년 전부터 부산의 군사시설을 촬영한 사진들이 발견됐다. 당시 띄운 드론에는 5분여 분량 동영상이 있었는데 항공모함과 해군작전사령부 기지 전경이 담겼다고 한다.&lt;br&gt;&lt;br&gt;&lt;b&gt;이들은 2022년 9월부터 부산 해군기지 인근 야산을 답사하며 드론을 띄울 장소를 물색한 것으로도 나타났다. 노트북, 휴대전화에서 발견된 군사시설 관련 사진만 500장이 넘는다고 한다. 이들의 휴대전화엔 중국 공안으로 추정되는 전화번호도 저장돼 있었다고 경찰은 밝혔다. 경찰은 이들이 중국 공안과 관련이 있을 가능성도 배제하지 않고 있다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;경찰은 이들을 출국 정지시키고 대공 혐의 등을 계속 조사할 방침이다. 중국인 유학생들은 30~40대로 현재 부산의 한 국립대에서 유학생 신분으로 석박사 과정을 밟고 있는 것으로 알려졌다. 일부 유학생은 한국에서 공부하다 중국으로 가 회사 생활을 한 뒤 다시 왔다고 한다.&lt;br&gt;&lt;br&gt;정보 당국은 최근 이어지는 중국인들의 국가 보안 시설 불법 촬영이 사전에 기획됐을 가능성을 살펴보고 있다. 지난 9일엔 서울 서초구 내곡동 헌인릉 앞 국정원 관리 주차 구역에서 허가 없이 드론을 띄워 촬영한 중국인이 붙잡혔다. 경찰 조사 결과, 드론 카메라에는 헌인릉뿐 아니라 국정원 건물 일부도 촬영돼 있었다. 해당 중국인은 “유네스코 세계문화유산인 헌인릉에 관심이 많아 드론을 띄웠을 뿐”이라고 주장했지만, 인천국제공항으로 입국하자마자 헌인릉으로 직행한 사실이 나타나기도 했다. 경찰은 해당 중국인을 다음 날 일단 석방했지만 출국 정지 조치를 했다. 경찰 관계자는 “향후 소환 등 추가 조사를 하며 대공 혐의점을 살필 것”이라고 했다.&lt;br&gt;&lt;br&gt;문제는 향후 조사에서 대공 혐의점이 입증되더라도 ‘간첩법’으로 처벌하기는 사실상 어렵다는 점이다. 처벌할 법 조항이 마땅치 않기 때문이다. 현행 간첩법(형법 98조)은 ‘적국’을 위한 간첩 행위만을 처벌 대상으로 삼고 있는데, 대법원 판례상 적국은 ‘북한’뿐이다. 즉 현행법대로라면 북한을 뺀 어느 나라에 국가 기밀을 넘겨도 간첩죄로 처벌할 수 없다. 간첩죄는 7년 이상의 징역에, 최고 사형까지 가능하다.&lt;br&gt;&lt;br&gt;반면 군사기밀보호법은 군사기밀을 탐지·수집한 사람이 이를 타인에게 누설한 경우 1년 이상 징역으로 처벌하는 등 처벌 수위가 낮다. 군사기지 및 군사시설 보호법 위반은 최대 3년 이하의 징역, 3000만원 이하의 벌금형이다. 경찰 관계자는 “드론으로 찍은 사진을 심각한 군사기밀 유출로 볼 수 있는지 여부가 애매하다 보니, 일선에선 중국인을 상대로 장기간 체포한 채 조사를 벌이기 부담스러워 석방할 수밖에 없는 측면이 있다”며 “출국 정지를 한 채 수사하더라도 증거 인멸 가능성이 높아진다”고 했다.&lt;br&gt;&lt;br&gt;반면 중국에선 지난해 7월 반간첩법 개정안 시행 이래로 간첩 혐의로 처벌하는 사례가 늘고 있다. 개정 반간첩법은 간첩 행위의 정의를 ‘국가 기밀·정보를 빼돌리는 행위’에서 ‘국가 안보·이익과 관련된 자료 제공’ 등으로 모호하게 바꿨다. 특히 군사시설과 주요 국가기관 등 보안 통제 구역 인접 지역에서의 촬영 행위도 간첩 혐의로 처벌될 수 있다. 중국 안후이성 허페이시에 거주하던 한국인 50대 A씨는 중국 창신메모리 근무 당시 반도체 관련 정보를 한국으로 유출했다는 간첩 혐의로 체포돼 지난 5월 26일부터 허페이의 구치소에 갇힌 상태다. A씨가 재판에서 실형을 선고받을 경우 한국인이 최초로 반간첩법으로 처벌받은 사례가 될 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘골목 벽화’ 논란 창신동, 6400가구로 재개발 다시 추진</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/13/UGJWSHU7QFDBLFX3PVNOLCLII4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/13/UGJWSHU7QFDBLFX3PVNOLCLII4/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Nov 2024 12:06:15 +0000</pubDate>
+      <content:encoded>서울 종로구 창신동 일대가 6400가구 아파트 단지로 재개발된다.&lt;br&gt;&lt;br&gt;서울시는 13일 창신동·숭인동 일대 34만㎡를 신속통합기획 대상으로 지정해 재개발한다고 밝혔다. 신속통합기획은 서울시가 재개발·재건축 과정에 개입해 인·허가 등 절차를 단축하는 제도다. 오세훈 시장이 2021년 지지부진한 재개발·재건축 속도를 높이기 위해 도입했다.&lt;br&gt;&lt;br&gt;창신동과 숭인동 일대는 이른바 ‘달동네’로 불리는 지역 중 하나다. 가파른 언덕에 낡은 주택들이 모여 있다. 2007년 ‘뉴타운’으로 지정해 재개발하기로 했지만 박원순 전 시장이 2013년 뉴타운 구역 지정을 풀고 ‘도시재생사업 1호’로 지정했다. 재개발을 하는 대신 보존하기로 방향을 튼 것이다.&lt;br&gt;&lt;br&gt;이후 예산 800여 억원을 들여 골목에 벽화를 그리고 전망대를 만들었으나 주거 환경 문제로 민원이 잇따랐다. 길이 좁고 경사가 심해 소방차가 진입하기도 어렵다.&lt;br&gt;&lt;br&gt;이번에 뉴타운 지정을 해제한 지 11년 만에 다시 재개발에 시동을 거는 것이다. 구체적으로 34만㎡ 부지에 최고 29층 6400가구 아파트를 짓는다. 부지 면적이 송파구 잠실주공5단지 재건축과 비슷하다.&lt;br&gt;&lt;br&gt;언덕 지형을 활용해 공원을 조성하고 좁은 길도 넓힌다. 단지 서쪽에 있는 낙산 한양도성과 동쪽의 숭인공원을 잇는 입체 보행로를 만든다. 한양도성 쪽 단지는 도성을 가리지 않게 10층 이하로 짓기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PTPNJR5LXNBYHKI3WEEMNYNLTY.PNG?width=1533&amp;height=1080&amp;auth=0b45918b6fabea680ac456e189b397598dd76d6870dd7e5118f0207549eda6bf&amp;smart=true" type="image/png" height="1080" width="1533">
+        <media:description type="plain">서울시가 재개발 계획을 발표한 창신동 일대의 재개발 후 조감도. /서울시</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘선거법 위반’ 박상돈 천안시장직 유지…대법 파기환송 “미필적 고의 없어”</title>
+      <link>https://www.chosun.com/national/court_law/2024/09/12/IBOD5ICTX5DUFF253PO3M7OK7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/09/12/IBOD5ICTX5DUFF253PO3M7OK7M/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Sep 2024 02:23:00 +0000</pubDate>
+      <content:encoded>당선 무효 위기에 놓였던 박상돈 충남 천안시장이 대법원 판단으로 시장 자리를 유지하게 됐다. 공직선거법 위반 혐의로 기소된 박 시장은 1심에서 무죄를 선고받았다가 2심에서 유죄로 뒤집혔는데, 대법원이 그의 일부 혐의를 무죄로 보고 원심을 파기한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3KWGGGFQHT3SN2NJTCVKOUZRWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박상돈 천안시장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 제1부(주심 서경환 대법관)는 12일 공직선거법상 허위사실공표 등 혐의로 기소된 박상돈 천안시장에게 징역 1년에 집행유예 2년을 선고한 원심 판결을 파기하고 사건을 대전고법에 돌려보냈다.&lt;br&gt;&lt;br&gt;대법원은 박 시장에게 허위사실을 공표할 미필적 고의(故意)가 없었다 보고 원심을 파기했다. 허위사실공표죄는 고의가 있어야 범행이 성립하는데, 박 시장의 과실(過失)만으로 유죄를 선고한 원심이 타당하지 않다고 봤다.&lt;br&gt;&lt;br&gt;박 시장은 2022년 지방선거 당시 공무원 조직을 이용해 선거 홍보 영상물을 제작한 후 개인 유튜브에 올리는 등 선거운동을 한 혐의로 기소됐다. 또 예비 후보자 홍보물과 선거 공보물에 천안시 고용률이 전국 2위, 실업률이 전국 최저라고 기재해 허위 사실을 공표한 혐의도 받았다. 이 순위는 인구 50만명 이상의 지자체를 대상으로 한 것이었지만, 기준을 누락해 마치 전국 228개 지자체 중 순위인 것처럼 표기했다는 것이다.&lt;br&gt;&lt;br&gt;앞서 1심은 박 시장에 무죄를 선고했지만, 2심은 이를 뒤집고 징역 1년에 집행유예 2년을 선고했다. 2심은 “박 시장은 공보물에 인구 50만 기준이 누락됐다는 위법을 미필적으로나마 인식하고 있었던 것으로 보인다”며 “선거의 공정성을 도모하고 공무원들로 하여금 정치적 중립성을 준수하도록 해야 할 지자체장의 지위에 있음에도, 오히려 지위를 이용해 콘텐츠를 제작하게 해 관권선거를 조장했다”고 했다.&lt;br&gt;&lt;br&gt;하지만 대법원은 박 시장에게 미필적 고의가 없었다고 판단했다. 대법원은 “미필적 고의가 있다고 하기 위해선 적어도 박 시장이 홍보물과 공보물에 대도시(인구 50만명 이상) 기준이 누락됐다는 점을 인지하고 있었어야 하는데 이를 모르고 있었다”며 “범죄사실의 발생 가능성에 대한 인식 자체가 없으므로 미필적 고의가 인정될 수 없다”며 허위사실 공표 혐의의 일부를 무죄로 봤다.&lt;br&gt;&lt;br&gt;다만 공무원 지위를 이용한 선거운동에 대한 원심의 유죄 판단은 그대로 유지했는데, 원심이 허위사실 공표 혐의까지 합쳐 하나의 형을 선고했기 때문에 원심을 모두 파기했다.&lt;br&gt;&lt;br&gt;이로써 박 시장은 당분간 천안시장 직을 유지하게 됐다. 선출직 공무원은 공직선거법 위반으로 벌금 100만원 이상의 형이 확정되면 그 직을 잃는다. 사건이 파기환송됨에 따라 박 시장은 대전고법에서 다시 한번 판단을 받게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전공의협회가 지지한 박형욱, 의협 새 비대위원장 당선</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/11/13/ONLX3DLKH5DU7PVIKNHEB3PATM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/11/13/ONLX3DLKH5DU7PVIKNHEB3PATM/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Nov 2024 11:09:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6N6IUSPBYFMQXEVUE4DMXGPZ6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오후 서울 용산구 대한의사협회(의협) 회관에서 비상대책위원장으로 선출된 박형욱 대한의학회 부회장이 소감을 밝히고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한의사협회(의협) 비상대책위원장으로 박형욱 대한의학회 부회장이 당선됐다.&lt;br&gt;&lt;br&gt;13일 의협에 따르면 박 비대위원장은 이날 선출권을 가진 의협 대의원 244명 중 233명이 참여한 온라인 투표에서 123표(52.79%)를 얻어 선출됐다. 이어 황규석 서울시의사회장 71표(30.47%), 이동욱 경기도의사회장 35표(15.02%), 주신구 대한병원의사협의회장 4표(1.72%) 순이었다.&lt;br&gt;&lt;br&gt;박 비대위원장은 “제일 경계해야 할 건 위원장의 독단”이라며 “앞으로 구성될 비대위원들의 합의에 기초해 비대위의 입장과 행동을 결정할 것”이라고 했다. 이어 “비대위 운영에서 그동안 소외돼왔던 전공의와 의대생들의 견해가 충분히 반영될 수 있도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;향후 비대위 구성과 운영에 대해선 “대의원회와 조율을 거쳐 확정할 것”이라며 “다만 위원 구성이 너무 많으면 형식적인 회의가 될 수 있어 조금 간결하게 운영할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;박 비대위원장은 “현재 의료 농단 사태는 급격히 해결되기 어렵다”며 “정부의 태도에 근본적 변화가 없기 때문”이라고 했다. 그는 “정부가 정말 대화를 원한다면 의료 파탄이라는 시한폭탄을 먼저 멈춰야 한다”며 “그래야 진정한 대화가 가능하다”고 했다.&lt;br&gt;&lt;br&gt;“전공의들이 돌아갈 수 있게 정책을 개선할 수 있는 분은 윤석열 대통령”이라고도 했다. 박 비대위원장은 “대통령께서 변화하지 않는다면 아무리 미사여구를 동원한다고 해도 문제는 해결되지 않을 것”이라며 “국민들은 의료 파탄의 고통을 겪을 것. 그런 일이 발생되지 않기를 간절히 희망한다”고 했다.&lt;br&gt;&lt;br&gt;그는 “당선이 기쁘다기보단 무거운 책임감으로 다가온다”며 “불필요한 분쟁도 있었지만 전체적으로 대의원회가 선거 과정을 잘 진행해주셔서 감사드린다”고 했다.&lt;br&gt;&lt;br&gt;‘박형욱 비대위’는 임현택 전 회장 탄핵으로 공석이 된 회장을 새로 뽑을 때까지 약 2달간 의협을 이끌 예정이다. 박 비대위원장이 의협 회장에 출마할 가능성도 있다. 의협 회장 보궐선거는 60일 이내 실시하도록 돼 있는데, 비대위원장도 출마 제한은 없다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/QHGJTK5A6VDF3PG2H3GTWD6KDE.jpg?width=5437&amp;height=3058&amp;auth=f6aef98bc02abefa1777b751155b09f3dbddc6923e893e6c02ff644f2a6c8cec&amp;smart=true" type="image/jpeg" height="3058" width="5437">
+        <media:description type="plain">[서울=뉴시스] 김명년 기자 = 13일 오후 서울 용산구 대한의사협회에서 비상대책위원회 위원장으로 선출된 박형욱 대한의학회 부회장이 소감을 밝히고 있다. 2024.11.13. kmn@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">kmn</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>박단 전공의 대표, 의협 대의원들에 “박형욱 교수 추천” 메시지</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/11/12/VIHM4ASH5NGYBMR7C76ZPTL6SU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/11/12/VIHM4ASH5NGYBMR7C76ZPTL6SU/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Nov 2024 07:57:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXGCSQP52JIOLNR6YAJOOPQYLM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11일 오전 서울 용산구 대한의사협회(의협) 회관 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임현택 전 대한의사협회(의협) 회장 탄핵으로 비상대책위원회 체제로 전환키로 한 의협이 오는 13일 비대위원장을 선출한다. 비대위원장 선거는 4파전으로 치러지게 됐다.&lt;br&gt;&lt;br&gt;12일 대한의사협회에 따르면 이날 박형욱 대한의학회 부회장, 이동욱 경기도의사회장, 주신구 대한병원의사협의회장, 황규석 서울시의사회장 네 명이 후보 등록을 마쳤다.&lt;br&gt;&lt;br&gt;이들은 오후 8시 서울 용산구 의협 회관 지하 1층 대강당에서 열리는 후보자 설명회에 참석해 앞으로의 활동 계획 등을 밝힐 예정이다.&lt;br&gt;&lt;br&gt;후보 중 박형욱 대한의학회 부회장(단국의대 교수)은 박단 대한전공의협의회(대전협) 비대위원장의 공개 지지를 받았다. 박 위원장은 이날 의협 대의원들에게 “비대위원장으로 박형욱 교수를 추천한다”는 메시지를 보냈다.&lt;br&gt;&lt;br&gt;박 위원장은 박 교수에 대해 “정치 욕심 없이 여러 면에서 중도를 지키고 있다고 판단하고 있다. 신뢰를 바탕으로 젊은 의사들과 원활한 소통이 가능할 것으로 기대한다”며 “각 병원 전공의 대표 72명이 해당 의견에 동의한다는 의사를 표했다”고 했다.&lt;br&gt;&lt;br&gt;이동욱 경기도의사회장은 출마의 변에서 “경기도의사회 악법저지 비대위원장으로서 지난 1년간 대통령실 앞 거리에서 전공의·의대생과 함께 의료 정상화를 위한 선도적 투쟁을 해왔다”며 “비대위원장으로 선출해준다면 그간 정부를 압박해 온 강력한 선도적 투쟁을 더욱 가열차게 이어가겠다”고 했다.&lt;br&gt;&lt;br&gt;주신구 대한병원의사협의회장은 “내부에서 합의되지 않은 협상 참석이 있어서는 안 된다”며 “의료계의 여야의정 협의체 참석 철회를 주장한다”고 했다. 이어 “비대위는 누군가의 업적이 되거나 입신의 발판이 돼선 안 된다”며 “비대위원장 출마를 선언하며 보궐선거에는 나서지 않을 것을 약속한다”고 했다.&lt;br&gt;&lt;br&gt;황규석 서울시의사회장은 사직 전공의를 위한 개원 실무 교육 프로그램을 여는 등 전공의 지원을 위해 노력했다는 평가를 받고 있다.&lt;br&gt;&lt;br&gt;1차 투표는 대의원 244명을 대상으로 13일 오후 3~8시 온라인으로 진행된다. 과반 득표한 후보가 없으면 같은 날 오후 8시 20분부터 1시간 동안 결선 투표를 치르게 된다.&lt;br&gt;&lt;br&gt;의협은 새 회장 선출 전까지 비대위 체제로 운영된다. 회장 선거는 한 달 내 하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이기흥 체육회장 “3선 도전 결정 유보... 비위 혐의 동의 못해”</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/13/KQ372RSGTRF7RB3NHA2MLE2CA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/13/KQ372RSGTRF7RB3NHA2MLE2CA4/</guid>
+      <dc:creator>김영준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Nov 2024 11:02:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ENBQBYSHVNJGFNJGZTY2O7RXJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이기흥 대한체육회장이 13일 오후 인천국제공항 제2여객터미널에서 취재진 질문에 답변하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이기흥 대한체육회장이 내년 1월 열리는 차기 회장 선거 출마 여부 결정을 유보하겠다는 입장을 밝혔다. 이미 한 차례 회장직을 연임한 이 회장은 3연임에 도전하기 위해 대한체육회 스포츠공정위원회 심의를 신청했고, 공정위는 지난 12일 그의 3선 도전을 승인했다. 이 회장이 부정 채용·금품 수수 등 여러 비위 혐의를 받고 있어 공정위 결정이 부적절했다는 비판이 일었다. 체육회 노조와 정치권 등에서 이 회장의 불출마를 요구하고 있으며, 주무 부처인 문화체육관광부는 그가 당선돼도 취임을 승인하지 않겠다는 입장을 보이고 있다.&lt;br&gt;&lt;br&gt;이런 상황에서 이 회장은 국외 출장 일정을 마치고 13일 인천국제공항으로 입국하면서 취재진에게 “3선 도전 여부 결정을 유보했다”며 “지금은 뭐라 말하기가 그렇다. 구성원들과 논의해서 결정하겠다”고 말했다. 그는 “개인적으로는 그만두고 물러서서 남은 삶을 정리할 계획이 있었다. 강원도 인제에 거주할 곳도 준비해뒀다”며 “하지만 상황이 상황이라, 경기 단체나 시도 체육회 관계자들과 논의해서 조만간 결정하겠다”고 했다.&lt;br&gt;&lt;br&gt;그는 문체부로부터 직무 정지 통보를 받은 것에 대해선 “생각이 서로 다를 수 있으니 절차를 밟고 소명을 해봐야겠다”고 했다. 이 회장은 직무 정지 처분에 대해 법원에 가처분 신청을 낸 상태다. 이 회장은 국무조정실 정부 합동 공직 복무 점검단이 비위 혐의로 그를 수사 의뢰한 데 대해선 “1%도 동의 못한다”고 항변했다. 경찰은 이 회장 수사를 서울경찰청 반부패수사대에 배당했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>길거리에서 딸 남자친구 흉기로 찌른 30대 여성 집유</title>
+      <link>https://www.chosun.com/national/incident/2024/11/13/4GNXIPD6OFDR7IU7WKEJVAXP6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/13/4GNXIPD6OFDR7IU7WKEJVAXP6Q/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Nov 2024 10:29:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6YFEG4WB2V3R6EES5KGZ7XFVAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지방법원 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;딸의 남자친구를 흉기로 찌른 30대 여성이 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;대구지법 형사11부(재판장 이종길)는 13일 살인미수 혐의로 구속 기소된 A(38)씨에게 징역 3년에 집행유예 5년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 9월 9일 대구 수성구의 한 길거리에서 딸과 교제하던 B(14)군을 흉기로 공격한 혐의를 받고 있다. 당시 B군은 부상을 입은 채 도주했고 A씨가 B군을 쫓아갔지만 A씨 딸이 엄마를 만류했고 뒤이어 신고를 받고 출동한 경찰이 A씨를 현행범으로 체포했다. B군은 전치 8주의 부상을 입고 병원에 이송됐으나 생명에는 지장이 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 자신의 딸이 B군과 사귄 이후 술·담배를 하거나 자신의 말을 듣지 않는 것에 불만을 품고 있었다고 한다. 그러던 중 B군과 다툰 딸이 자신과 통화하며 울음을 터뜨리자 격분해 이 같은 범행을 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “A씨 범행이 B군의 생명을 앗아갈 수 있었던만큼 죄가 가볍지 않다”면서도 “A씨가 술에 취해 이성을 잃고 범행에 이른 점, 합의금 5000만원과 치료비 4000만원을 B군에게 지급했고 B군 역시 A씨에 대한 선처를 탄원한 점 등을 종합했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>교육부 대학 예산 2조원, 지자체에 넘긴다 </title>
+      <link>https://www.chosun.com/national/education/2024/11/14/F4OPNUP7HFEXLI5PVZJPEJ3XHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/11/14/F4OPNUP7HFEXLI5PVZJPEJ3XHM/</guid>
+      <dc:creator>김경은 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Nov 2024 10:15:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6B33FHMPWZBXNJJNC5FI2MYIAY.png"&gt;&lt;figcaption&gt;&lt;small&gt;오는 15일 오후 광주광역시 김대중컨벤션 센터에서 'RISE 지원 전략(시안)'에 대한 대국민 공청회가 열린다. 교육부는 공청회에서 받은 의견에 기반해 다음 달 '라이즈 지원 전략'을 확정해 발표할 예정이다. /교육부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육부가 내년부터 대학 관련 예산 2조원 집행 권한을 지방자치단체에 넘긴다. 이 예산은 지자체, 지역 기업들과 협력해 지역 발전에 기여하는 대학들에 돌아갈 예정이다.&lt;br&gt;&lt;br&gt;교육부는 13일 이런 내용의 ‘라이즈(RISE) 지원 전략’ 시안을 공개했다.&lt;br&gt;&lt;br&gt;‘지역혁신중심 대학지원체계’라고 불리는 라이즈 사업은 그간 교육부가 대학에 나눠주던 예산 집행 권한 일부를 지자체에 이양하는 것이다. 지금까지 중앙 정부의 시각으로 대학을 지원해왔다면, 앞으로는 지자체가 지역 사정에 맞게 지역 대학들의 발전 계획을 수립하고 지원하라는 취지다. 대학들도 단순히 학생을 받아 졸업시키는 역할만 할 게 아니라, 지역 산업에 도움되는 인재를 키울 수 있게 하자는 것이다. 교육부 측은 “지역과 대학의 동반 성장이 목표”라고 밝혔다.&lt;br&gt;&lt;br&gt;시안에 따르면, 내년 지자체에 이양되는 예산 규모는 2조10억원이다. 일단 교육부가 17개 시도가 제출한 계획을 평가해 시도별 예산을 배분한다. 이후 17개 시도가 각자 ‘지역라이즈위원회’를 꾸려서 지역 대학들에 예산을 배분하는 형식이다. 지역라이즈위원회는 지자체장과 지역 대학 총장이 공동으로 이끈다.&lt;br&gt;&lt;br&gt;시도별 구체적인 예산 규모는 추후 결정된다. 지자체도 예산의 최소 20%를 자체적으로 마련해 대학에 투입해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“교도소 가고 싶어서”...흉기 들고 편의점 점원 협박한 30대 검찰 송치</title>
       <link>https://www.chosun.com/national/incident/2024/11/13/NDWTYMQOIZDDXAP6UX23NQY3XE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/13/NDWTYMQOIZDDXAP6UX23NQY3XE/</guid>
@@ -812,51 +909,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2VDQTV3EAVHEDDPJWEB5OZRY7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4월 22일 국내에서 가장 적은 몸무게인 260g으로 태어난 아기 예랑이 모습. 예랑이는 지난 5일 삼성서울병원에서 3.19kg으로 퇴원했다. /삼성서울병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라에서 가장 작게 태어난 ‘예랑이(이예랑양)’가 태어난 지 198일 만에 건강한 모습으로 퇴원했다.&lt;br&gt;&lt;br&gt;12일 삼성서울병원에 따르면, 지난 4월 22일 260g으로 태어난 예랑이가 지난 5일 3.19㎏으로 퇴원했다. 예랑이는 세계에서도 14번째로 작게 태어난 아기다. 예랑이처럼 300g 미만으로 태어난 아기들의 생존율은 1% 미만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IHX6T5AWVNF2HJP6QHJJSECIFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4월 22일 출생 1시간 후 인큐베이터에 있는 260g의 예랑이 모습. /삼성서울병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;예랑이는 엄마 배 속에서 25주 5일 만에 제왕절개로 나왔다. 예랑이가 임신 21주 차부터 엄마 배 속에서 더 이상 자라지 않았고, 엄마가 임신중독증으로 혈압이 오르고 복수가 차는 상태였기 때문이다. 개인 병원을 다니던 예랑이 엄마는 예랑이가 태어나기 나흘 전 대형 병원인 삼성서울병원으로 전원했다. 태어난 직후 예랑이는 성인 여성의 손바닥 크기에 불과했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HDE26W677VG4PIY32N7JT3MYX4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;국내에서 가장 적은 몸무게인 260g으로 태어난 아기 예랑이의 퇴원일인 지난 5일 의료진이 퇴원을 축하해주고 있다. 지난 4월 22일 태어난 예랑이는 지난 5일 삼성서울병원에서 3.19kg으로 퇴원했다. /삼성서울병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의학적 한계를 극복하고 예랑이가 건강한 아기로 자라기까지는 의료진의 헌신이 있었다. 예랑이는 생후 한 달쯤 큰 고비를 넘겼다. 태변으로 장이 막힌 것이다. 교수들이 돌아가며 태변을 조금씩 꺼낸 이후 예랑이는 빠르게 호전됐다. 호흡기를 떼고 몸무게도 늘었다. 안과에서는 매주 예랑이의 망막 검사를 해줬고, 재활의학과에서는 매일 재활 치료를 했다. 임신 후 합병증으로 엄마의 눈이 잠시 안 보일 때는 신생아 중환자실 전문 간호사가 모유 유축을 도왔다. 의료진은 점차 건강해지는 예랑이에게 ‘(삼성서울병원이 위치한) 일원동 호랑이’라는 별명도 붙여줬다.&lt;br&gt;&lt;br&gt;삼성서울병원은 지난 5일 예랑이 퇴원 축하 행사를 열고 의료진 옷으로 만든 곰 인형 ‘튼튼베어’를 선물했다. 장윤실 삼성서울병원 모아집중치료센터장은 “예랑이는 앞으로 태어날 모든 저체중 미숙아의 희망”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[스피킹이 강해지는 영어] free up some time</title>
-      <link>https://www.chosun.com/national/nie/english/2024/11/13/CNI34GRN5VA4JKFNL73GHSY3WE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/11/13/CNI34GRN5VA4JKFNL73GHSY3WE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Nov 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QVQZN6LF2RCJXIL5752MI2EDRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2500] 암호로 바꿔 쓰기</title>
-      <link>https://www.chosun.com/national/nie/2024/11/13/QLYSPT7XSVCOFPYRADSENOJI2E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/11/13/QLYSPT7XSVCOFPYRADSENOJI2E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Nov 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VJMZLOS7JZGFTMY42B64QVQCUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 생기가 없다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/11/13/R2XA3AWPONBQ3NPN3AI265MZW4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/11/13/R2XA3AWPONBQ3NPN3AI265MZW4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Nov 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZL2BHJJOFND6ZOHB7MIKTCNUDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 긁히다, 할퀴이다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/11/13/6XB7N7B6E5HMTEQ4QJKLHJPYP4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/11/13/6XB7N7B6E5HMTEQ4QJKLHJPYP4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Nov 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/35LPK6GUIBGQLN4H4KZ7KF72CI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부정채용·횡령 혐의 이기흥… 체육회는 3선 길 터줬다</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/13/JMOK6PLYQ5G2PF3L7HSFJUUCNQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/13/JMOK6PLYQ5G2PF3L7HSFJUUCNQ/</guid>
-      <dc:creator>김영준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Nov 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UWYOL2T7TRLQPC6DVOX7Y22P2E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대한체육회 노조원들이 12일 대한체육회 스포츠공정위원회가 열리는 서울 송파구 대한체육회 앞에서 규탄 시위를 하고 있다. 이들은 “정부도 국회도 무시하고 꼼수로 3연임에 도전하는 이기흥 회장은 물러가라” “이기흥은 이제 그만 당당하게 물러나라” 등을 주장했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이기흥(69) 대한체육회장이 3선에 도전할 수 있게 됐다. 대한체육회 스포츠공정위원회는 12일 전체 회의를 열고 이 회장 연임 자격을 승인했다. 체육회 정관상 회장 등 임원은 4년 임기를 마치고 한 차례 연임할 수 있고, 3연임을 하려면 스포츠공정위 심의를 거쳐야 한다. 이 회장은 2016년 체육회장에 당선된 뒤 연임했고 올해 임기가 끝난다. 내년 1월 열리는 차기 회장 선거에 도전하기 위해 스포츠공정위 심의를 받았다.&lt;br&gt;&lt;br&gt;스포츠공정위는 재적 위원(15명) 과반수 출석과 출석 위원 과반수 찬성으로 이 회장 연임 도전을 허가했다. 이 회장이 지난 4일 진행된 1차 심사에서 통과 기준 점수(100점 만점에 60점)를 넘긴 것으로 알려져 전체 회의도 무난히 통과할 것이란 전망이 많았다. 스포츠공정위 위원인 문강배 변호사는 “치열한 논의가 오갔다”고 전했다.&lt;br&gt;&lt;br&gt;지난 10일 국무조정실 정부 합동 공직 복무 점검단이 부정 채용, 물품 후원 강요, 후원 물품 사적 사용 등 혐의로 이 회장을 수사 의뢰한 데 이어, 11일엔 문화체육관광부가 직무 정지 조치를 내려 정성(定性) 평가에서 불리하게 작용할 수 있다는 관측도 있었다. 정성 평가 기준에 ‘임원으로서 윤리성 및 청렴성’ 항목이 있기 때문이다. 이 회장은 자녀 대학 친구를 선수촌 직원으로 부정 채용하고, 체육회 물품 구입비를 대납하는 조건으로 체육회 산하 단체장을 파리 올림픽 관련 중요 직위에 임명한 사실 등이 드러났다. 11일 국회 문화체육관광위원회 현안 질의에 출석을 요구받았으나 이를 피하기 위해 1000만원 넘는 사비를 들여 스위스 출장을 떠났다는 부분도 논란이 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2ZPD5E3ROP4NR4KPOPFMFUK6KQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국정감사에 출석한 이기흥 대한체육회장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 회장은 문체부 직무 정지 조치에 대해 법원에 가처분 신청을 내며 대응에 나섰고, 스포츠공정위는 이 회장 손을 들어줬다. 그가 IOC(국제올림픽위원회) 위원으로 국제 스포츠 무대에서 활동하는 점, 지난 파리 올림픽에서 한국이 종합 8위에 오르며 기대 이상 성적을 거둔 점 등을 인정받은 것으로 보인다.&lt;br&gt;&lt;br&gt;이번에 이 회장 연임 도전을 승인한 스포츠공정위는 김병철 위원장을 포함한 위원 15명이 모두 이 회장이 임명한 인사다. 오진학 전 대한체육회 사무차장, 설수영 경기대 스포츠경영학과 교수, 최종균 선문대 무도학부 교수 등이다. 이 때문에 이 회장이 ‘셀프 심사’를 받는 것과 마찬가지라는 비판이 나온 바 있다. 김 위원장은 2017년부터 2년간 이 회장 특별 보좌역을 지낸 인물. 이 회장 측근으로 통한다. 2021년 스포츠공정위에서 3선 도전 승인을 받은 정몽규 대한축구협회장이 김 위원장을 비롯한 일부 위원에게 골프 접대를 했다는 의혹도 불거진 바 있다.&lt;br&gt;&lt;br&gt;다만 체육회는 문체부 산하기관이라 기관장 취임 승인권을 문체부가 갖고 있다. 문체부는 이 회장이 당선돼도 취임을 승인하지 않겠다고 못 박았다. 문체부는 이번 스포츠공정위 결정에 대해 “공정위 구성과 운영 불공정성에 대한 지적을 수용하지 않고 심의를 강행한 것에 대해 심히 유감을 표한다”며 “체육회에 더 이상 공정성과 자정 능력을 기대하기 어렵다. 임원 연임 심의를 별도 기구에 맡기고, 체육 단체 임원 징계 관할권을 상향하는 방향으로 제도 개선을 추진하겠다”고 밝혔다. 스포츠공정위는 이 회장과 더불어 2005년 5월 이후 6번째 연임에 나서는 정의선 양궁협회장 출마도 승인했다.&lt;br&gt;&lt;br&gt;대한체육회 노조원 40여 명은 이날 스포츠공정위 회의가 열린 서울 올림픽회관에서 이 회장 연임 도전에 반대하는 시위를 벌였다. 노조는 “이 회장으로 인해 체육회가 여러 외부 수사나 감사를 받고, 전 국민적 지탄을 받는 기관이 됐다”며 “그럼에도 이 회장은 책임을 회피하고 도망가기 급급하다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[리빙포인트] 검은 옷 먼지는 스펀지로</title>
       <link>https://www.chosun.com/culture-life/living/2024/11/13/MPJXLDBA5RFYHH5E4MFX6YXFKE/</link>
       <guid isPermaLink="true">https://www.chosun.com/culture-life/living/2024/11/13/MPJXLDBA5RFYHH5E4MFX6YXFKE/</guid>
@@ -866,33 +918,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WSEUNXY5TZACHOCTVRYVANICUE.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검은색 옷에 먼지가 묻었다면 설거지용 스펀지로 털어내보자. 박스 테이프로 문지르는 것보다 옷감이 덜 상한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [동물 이야기] 19세기 말까지 가장 컸던 펭귄… 황제펭귄에 밀려 ‘2인자’ 됐죠</title>
-      <link>https://www.chosun.com/national/nie/2024/11/13/MJCNZYUHMBHEJMIJQQ6SBG4UJQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/11/13/MJCNZYUHMBHEJMIJQQ6SBG4UJQ/</guid>
-      <dc:creator>정지섭 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Nov 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ODNIYIHDLJESFJTPO6KTYPWPJE.png"&gt;&lt;figcaption&gt;&lt;small&gt;임금펭귄은 어릴 땐 갈색 솜털로 덮여 있다가 어른이 되면 털갈이를 하면서 등은 검은색, 배 부분은 흰색이 됩니다. 뒤쪽 오른쪽 펭귄이 어린 임금펭귄 ‘페스토’예요. /시 라이프 수족관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보들보들한 솜털로 뒤덮인 우람한 몸집에, 뒤뚱뒤뚱 걷는 깜찍한 모습으로 ‘온라인 스타’가 된 펭귄이 있어요. 호주 멜버른 수족관에 사는 ‘페스토’랍니다. 페스토는 얼마 전 털갈이를 시작했대요. 온몸을 뒤덮고 있던 갈색 솜털이 빠지면서 어른 펭귄에게 나는 검정·하양·노랑 깃털이 드러났죠. 사람들 사이에선 건강하게 자라고 있어 다행이라는 반응과 함께 귀여운 아기새의 모습이 사라져 아쉽다는 반응도 나와요.&lt;br&gt;&lt;br&gt;펭귄은 적도 부근 갈라파고스 제도부터 남극에 이르는 지역까지 총 18종류가 살고 있는데요. 페스토는 그중 둘째로 큰 임금펭귄(king penguin)이에요. 다 자란 몸길이는 1m, 몸무게는 20㎏나 된답니다.&lt;br&gt;&lt;br&gt;남극과 주변 지역 탐험이 막 시작되던 시기에 임금펭귄은 가장 큰 펭귄으로 알려졌어요. 그런데 19세기 후반에 이보다 더 덩치가 큰 펭귄이 발견돼 황제펭귄(emperor penguin)으로 이름 지어지면서 ‘2인자’가 됐답니다. 그런데 둘은 펭귄 무리 중에서도 아주 가까운 사이래요. 임금펭귄이 사는 곳은 남극 대륙에서 북쪽에 있는 여러 섬들이에요. 이 지역을 아남극(亞南極)이라고 하는데요. 대개 흰 눈과 단단한 얼음으로 덮여 있는 남극 대륙과는 달리 아남극엔 흙과 바위가 드러난 곳도 많답니다.&lt;br&gt;&lt;br&gt;대부분의 펭귄은 알에서 태어났을 때 회색 또는 검은색 솜털에 덮여 있는데 임금펭귄 새끼의 솜털은 갈색을 하고 있어요. 천적들의 눈에 띄지 않기 위해 주변 지역에 맞춘 보호색을 하고 있는 거죠. 번식철이 되면 임금펭귄 암컷은 오직 한 개의 알만 낳는답니다. 별도 둥지는 만들지 않고 암컷과 수컷이 번갈아가면서 발위에 올려놓고 품어요. 배 아랫부분의 복슬복슬한 털로 알과 갓 태어난 어린 새끼를 품으며 보호하는거죠.&lt;br&gt;&lt;br&gt;알을 품는 동안엔 걸어가다가 알이 깨질 수도 있기 때문에 부모새는 부화 때까지 거의 움직이지 않는대요. 새끼가 태어나면 암컷과 수컷이 번갈아가며 먹이를 먹여요. 다른 펭귄들과 마찬가지로 임금펭귄도 날 수는 없지만 물속에선 수영 선수이면서 사냥꾼 같은 모습을 보이죠. 한 번 잠수해서 23분 동안 숨을 참았다는 기록이 있고, 수심 360m까지 내려갈 수 있어요.&lt;br&gt;&lt;br&gt;이렇게 물속을 휘저으면서 물고기와 오징어 등을 사냥하는데요. 삼킨 먹이를 배 속에서 부드럽게 만든 뒤 토해내 새끼에게 먹인답니다. 임금펭귄은 기후 변화로 인해 생존 위협을 받는 동물이에요. 우리나라도 바다의 수온이 올라가면서 예전에 볼 수 있었던 명태나 오징어를 보기 어렵게 됐는데, 이런 일이 남극에서도 벌어질 수 있어요.&lt;br&gt;&lt;br&gt;사냥을 위해 먹잇감을 찾느라고 무리하게 잠수하고 헤엄치다가 목숨을 잃을 수도 있거든요. 만일 임금펭귄의 숫자가 줄어들면 이들의 상위 포식자인 물범과 범고래 등도 연쇄적으로 생존에 위협을 받게 돼 남극의 바다 생태계 전체가 흔들릴 수도 있어요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [알립니다] 2024·25 스키캠프 참가자 모집</title>
-      <link>https://www.chosun.com/special/announcement/2024/11/13/EY5ETKLACRE53NUUENET4Z4SN4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2024/11/13/EY5ETKLACRE53NUUENET4Z4SN4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Nov 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JZLVA7APZ5FERBHIE5DXWXYVEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2024·25 시즌 어린이조선일보 ‘스노우 페스티벌 스키캠프’ 참가자를 모집합니다. 국가대표급 경력의 스키 선생님이 2박 3일 동안 동행하는 ‘어린이 스키캠프’와 가족과 함께 자유로운 일정으로 강습받을 수 있는 ‘가족 스키캠프’가 진행됩니다. 어린이 스키캠프는 모나 용평리조트, 가족 스키캠프는 휘닉스 파크에서 열립니다. 자세한 내용은 에듀조선 홈페이지(&lt;a href="http://educhosun.com/" target="_blank"&gt;educhosun.com&lt;/a&gt;)를 확인하세요.&lt;br&gt;&lt;br&gt;▲대상: 초등학교 1학년~중학교 3학년&lt;br&gt;&lt;br&gt;▲일정: 2025년 1월~2월(캠프별 4회 차 진행)&lt;br&gt;&lt;br&gt;▲신청 기간: 11월 15일(금)부터 선착순 접수&lt;br&gt;&lt;br&gt;▲문의: 어린이조선일보 카톡채널 추가 후 일대일 문의&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [예쁜 말 바른 말] [370] ‘와중’과 ‘중’</title>
-      <link>https://www.chosun.com/national/nie/2024/11/13/U7BMPKFHQFHN5OONOEPSOP6CKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/11/13/U7BMPKFHQFHN5OONOEPSOP6CKI/</guid>
-      <dc:creator>류덕엽 교육학 박사·전 서울 양진초 교장</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Nov 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BVUSQVHL6ZF53LTYYUEDOSDN3U.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=정서용&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;* 그 선수는 부상을 겪는 와중에도 출전해 좋은 성적을 거두었다.&lt;br&gt;&lt;br&gt;* 한 참석자는 “바쁜 와중에도 틈틈이 모여 연습했다”고 말했다.&lt;br&gt;&lt;br&gt;위 문장에 공통적으로 나온 ‘와중’은 일상생활 중 매우 자주 듣는 말이지요. 이 중에 잘못 쓰인 말이 있는데 어느 것일까요?&lt;br&gt;&lt;br&gt;‘와중(渦中)’은 소용돌이 와(渦) 자와 가운데 중(中) 자로 이뤄진 한자어예요. ‘흐르는 물이 소용돌이치는 가운데’라는 뜻입니다. 흔히 ‘일이나 사건 따위가 시끄럽고 복잡하게 벌어지고 있는 가운데’라는 의미로 쓰지요.&lt;br&gt;&lt;br&gt;반면 의존명사 ‘중(中)’은 동사의 관형사형 어미인 ‘-는’ ‘-던’이나 상태, 동작, 시기를 나타내는 명사 뒤에 써요. ‘일정한 시간 동안이나 동작의 진행을 나타내는 말’이라는 뜻이 있어요. 예를 들면 ‘학교에 가던 중’ ‘대화 중’과 같이 써요.&lt;br&gt;&lt;br&gt;‘-중에’라고 써야 할 곳에 ‘와중에’를 쓰는 경우가 많아요. 일상생활에서 분주한 상황을 나타낼 때는 “바쁜 와중에도”가 아닌 “바쁜 중에도” “바쁜 가운데도” 등으로 표현하는 것이 옳아요.&lt;br&gt;&lt;br&gt;[예문]&lt;br&gt;&lt;br&gt;- 할아버지는 피란 와중에 헤어진 형을 찾으려고 평생 애를 쓰셨다고 한다.&lt;br&gt;&lt;br&gt;- 그를 만나 여러 얘기를 하는 중에 새로운 사실을 알았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 날씨] 2024년 11월 13일</title>
       <link>https://www.chosun.com/national/transport-environment/2024/11/13/E3EAONTBBBEZDDFUWT2ZT2H3UA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/11/13/E3EAONTBBBEZDDFUWT2ZT2H3UA/</guid>
@@ -900,24 +925,6 @@
       <description/>
       <pubDate>Tue, 12 Nov 2024 15:30:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CH4GJA2SMJB2RK5RAGNPBHXTCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [숨어있는 세계사] 미사일 공동 개발한 우방국… ‘이란 혁명’ 이후 앙숙으로</title>
-      <link>https://www.chosun.com/national/nie/2024/11/13/3S3HYHHKPJCJTERRQO44WEGCEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/11/13/3S3HYHHKPJCJTERRQO44WEGCEA/</guid>
-      <dc:creator>박현도 서강대 유로메나연구소 교수, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Nov 2024 15:30:00 +0000</pubDate>
-      <content:encoded>작년 10월 하마스(팔레스타인 가자 지구의 이슬람 무장 단체)가 이스라엘을 공격하면서 시작된 ‘이스라엘-하마스 전쟁’이 1년 넘게 계속되고 있어요. 그런데 올해 4월과 10월에는 하마스뿐 아니라 이란과 이스라엘이 서로의 영토에 미사일을 발사하며 군사 분쟁이 벌어졌어요. 많은 사람이 이란-이스라엘 전쟁도 날지 모른다며 걱정하는 상황이지요.&lt;br&gt;&lt;br&gt;지금은 서로 미사일을 겨누고 있지만, 이란과 이스라엘은 사실 사이가 좋았던 시기가 있었답니다. 오늘은 두 나라의 관계가 어떻게 변해왔는지 알아볼게요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JO5VX5CA5VG2HPCH2JHA2RFZFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1979년 이란의 수도인 테헤란에서 루홀라 호메이니의 포스터를 든 시위대가 행진하고 있어요. 그해 일어난 이슬람 혁명 이후 이란과 이스라엘과의 관계는 나빠지기 시작했어요. /EPA 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;군사∙경제적 협력하던 이란과 이스라엘&lt;/b&gt;&lt;br&gt;&lt;br&gt;기원전 6세기에 이스라엘인의 조상들은 나라를 잃고 오늘날 이라크에 있는 바빌론으로 끌려가 노예 생활을 했어요. 이후 이란 사람들의 조상인 페르시아 제국의 키루스 황제가 바빌론을 정복했는데, 그는 유대인들을 해방시켜 고향으로 돌아가 살 수 있게 해주었답니다. 과거 이스라엘 민족을 해방시킨 게 이란의 조상인 것이지요.&lt;br&gt;&lt;br&gt;두 나라가 본격적으로 관계를 맺기 시작한 것은 이스라엘이 건국된 1948년부터입니다. 석유가 많이 나는 이란과 군사 기술이 뛰어난 이스라엘은 서로 경제적·군사적으로 도움을 주고받는 협력 관계였답니다.&lt;br&gt;&lt;br&gt;1968년 두 나라는 공동으로 석유 파이프라인도 건설해요. 홍해로 이어지는 이스라엘 최남단 에일라트 항구에서부터 지중해와 맞닿아있는 이스라엘 북부의 아슈켈론 항구까지 송유관을 설치한 거죠. 이스라엘 입장에선 석유 운반 수단이 생기고, 이란 입장에선 비싼 통관료를 내야 하는 수에즈 운하 대신 이 파이프라인을 이용해 유럽으로 석유를 수출할 수 있으니 양측 모두 이득이었죠.&lt;br&gt;&lt;br&gt;양국은 1970년대 후반엔 장거리 탄도미사일 공동 개발 사업도 벌입니다. 미사일 기술을 발전시키려 했던 이란은 돈을 대고, 이스라엘은 그 돈으로 새로운 미사일을 개발하고 실험해 기술을 이란에 이전해주는 방식이었어요. ‘플라워(flower) 프로젝트’라고 불리는 사업입니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OUQYE4M5F5GXTD7W4JU6YWBVRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 10월 이스라엘 남부 가자지구에서 촬영된 이스라엘군의 모습이에요. 최근엔 이스라엘과 하마스 간의 전쟁이 이스라엘·이란 전쟁으로까지 확산될 수 있다는 우려가 나와요. /게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;‘이슬람혁명’ 이후 앙숙 관계 됐죠&lt;/b&gt;&lt;br&gt;&lt;br&gt;두 나라 사이가 멀어지기 시작한 것은 1979년부터예요. 당시 이란에선 이슬람 혁명이 일어나며 왕정이 무너지고 이슬람교 신앙에 기반해 국정을 이끄는 혁명 정부가 들어섰어요. 초대 이란 최고지도자 루홀라 호메이니는 이슬람 세계의 연대를 강조하는 동시에 미국을 비롯한 서방 세계를 반대하는 정책을 폈죠. 이스라엘을 향해서는 팔레스타인 땅을 강제로 점령하고 있다고 비판합니다.&lt;br&gt;&lt;br&gt;오늘날 중동 정세를 이해하려면 이스라엘과 팔레스타인의 관계부터 이해해야 해요. 세계 곳곳에서 박해받던 이스라엘 사람들은 고대 유대인의 땅인 팔레스타인 시온(예루살렘)에 나라를 세운다는 ‘시온주의’를 내세우며 제2차 세계대전 이후 국가를 세웠지요. 이후 팔레스타인 지역에선 아랍민족주의를 앞세운 아랍 국가와 시온주의의 이스라엘이 다투게 돼요. 그런데 이슬람 혁명 이후 이란은 팔레스타인 사람들이 이스라엘의 박해를 받는 이슬람교 신자라는 점을 강조하면서 팔레스타인 지역 갈등을 ‘이슬람 세계와 이스라엘’의 대립으로 바꾼답니다.&lt;br&gt;&lt;br&gt;이란은 팔레스타인에 독립 이슬람 국가를 만들려는 무장 단체 하마스를 지원했어요. 또 이스라엘과 국경을 맞대고 있는 레바논에서 활동하는 반(反)이스라엘 무장단체 헤즈볼라에도 무기와 돈을 지원하고 있죠. 팔레스타인 독립을 돕는 시리아의 친(親)이란 민병대, 이라크의 이슬람저항군, 예멘의 후티반군도 모두 이란이 지원하지요.&lt;br&gt;&lt;br&gt;이에 이스라엘은 이란의 이슬람 정부를 무너뜨리고자 이란 안팎의 반정부 세력을 돕지요. 이란은 다민족 국가예요. 언어 또한 페르시아어가 국어(國語)이긴 하지만, 국민 약 40%는 쿠르드어, 아제르바이잔어, 아랍어 등을 쓰죠. 이 사람들 중에 이란에서 독립하고 싶은 세력을 이스라엘이 몰래 지원하는 거예요. 이처럼 이란과 이스라엘은 뒤에서 조용히 상대방의 반대 세력을 지원하는 ‘그림자 전쟁’을 오랫동안 벌이고 있어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5PSSEWVJZFBX5DT5ILGCEB4IQQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;이스라엘과 인근 중동 국가들이 표시된 지도예요. 이스라엘은 1948년 건국 이후부터 아랍 국가들과 갈등을 빚으며 전쟁을 벌여왔습니다. /그래픽=김하경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;핵무기 두고 갈등 깊어졌어요&lt;/b&gt;&lt;br&gt;&lt;br&gt;두 나라의 관계는 2002년 이란 반정부 단체의 폭로 때문에 더욱 멀어지게 됩니다. 이란 정부가 비밀리에 핵(核)을 개발하고 있다고 밝힌 거예요. 이스라엘은 건국 이후 주변 아랍국가와 전쟁을 한 나라죠. 한 이란 대통령은 “이스라엘을 지도에서 지워버리겠다”고까지 적개심을 드러냈지요. 그런 나라가 핵개발을 한다니, 이스라엘은 더욱 이란을 경계할 수밖에 없는 거죠.&lt;br&gt;&lt;br&gt;현재 베냐민 네타냐후 이스라엘 총리는 이란의 핵시설을 파괴하는 것을 가장 중요한 목표로 삼고 있어요. 하마스와 헤즈볼라 등 반이스라엘 무장단체도 지원하는 이란을 가만히 두고서는 이스라엘 안보가 불안하다고 여기지요. 이란은 호시탐탐 이스라엘을 공격할 기회를 엿보고 있고요. 그래서 이스라엘-하마스 전쟁이 이스라엘-이란 전쟁으로까지 확산될 수 있는 우려가 나오는 거랍니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DNBMKIFIFBDRROCRTY74VZRL6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 10월 베냐민 네타냐후 이스라엘 총리가 텔아비브에서 토니 블링컨 미국 국무 장관과 면담한 뒤 기자회견을 하고 있어요. 네타냐후 총리는 이란의 핵 시설 공격 등 강경책을 주장해요. /로이터 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조 바이든 미국 대통령은 이란의 핵시설을 공격하려는 이스라엘의 전략에 동의하지 않았어요. 중동 지역 갈등이 확대되는 것을 막기 위해서예요. 이란이 NPT(핵확산금지조약)에서 탈퇴해 국제 사회의 통제를 벗어나는 것과 핵시설 파괴에 따른 오염도 우려했죠.&lt;br&gt;&lt;br&gt;하지만 이번에 미국 대통령에 다시 당선된 도널드 트럼프는 입장이 다릅니다. 이전 대통령 재임 시절 아랍 국가들의 반발을 무릅쓰고 예루살렘을 이스라엘의 수도로 인정하고, 대사관도 텔아비브에서 예루살렘으로 옮길 정도로 이스라엘에 우호적인 모습을 보이고 있거든요. 얼마 전 선거 유세 기간엔 이스라엘의 이란 핵시설 공격을 지지하는 입장을 밝히기도 했죠.&lt;br&gt;&lt;br&gt;중동 내 살얼음판 같은 긴장관계는 앞으로도 쉽게 해소되긴 어려울 전망이에요. 이란은 그동안 대량 살상 무기인 핵은 이슬람의 가르침에 어긋난다며 평화로운 핵개발만 하겠다고 했는데, 최근 이스라엘과 공격을 주고받은 후에는 ‘국가 안보에 필요하면 핵무기를 가질 수도 있다’고 말하고 있어요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>미성년 여친 코에 담뱃재… ‘주체적 생각 금지’ 가스라이팅한 20대</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/13/27MWUARQGZE3HKE7D2CBQHLLJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/13/27MWUARQGZE3HKE7D2CBQHLLJM/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Nov 2024 15:27:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IIRGW4FHXVEGVHUKA5E5YGABTQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미성년자 여자친구를 가스라이팅(심리적 지배)하며 여러 차례 폭행한 20대 남성이 1심에서 실형을 선고받았다.&lt;br&gt;&lt;br&gt;12일 법조계에 따르면, 서울남부지법 형사합의13부(부장판사 김상연)는 특수중상해 등 혐의로 구속 기소된 A(21)씨에 징역 4년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 5~6월 미성년자인 B씨와 교제하며 상습적으로 폭행해 간 파열 등 중상을 입힌 혐의를 받는다. &lt;br&gt;&lt;br&gt;A씨와 B씨는 올해 3월 서울의 한 재수학원에서 만났다. A씨는 B씨가 스스로 손등에 담뱃불을 지지게 하거나 B씨 콧구멍에 담뱃재를 털어 넣는 등 가학 행위를 벌인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 또 20여개의 규칙을 정한 뒤 이를 지키도록 강요하고, 이 규칙을 어겼다는 이유로 B씨를 폭행한 것으로 조사됐다. 규칙에는 ‘다른 남자 쳐다보지 않기’ ‘혼자 주체적으로 생각하지 않기’ ‘오빠가 정해준 책만 읽기’ ‘대학교 가지 않기’ 등의 내용이 담긴 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰은 지난 6월 A씨를 구속 기소하고 징역 7년을 구형했다.&lt;br&gt;&lt;br&gt;재판부는 “피해자를 수시로 폭행해 심리적·정서적으로 지배했다”며 “이런 범행 수법은 연인 사이에서 일어나는 일이라고 보기 어려울 정도로 잔혹하다”고 양형 이유를 설명했다. 재판부는 A씨가 공탁금 4000만원을 낸 점에 대해서 “피해자가 수령하지 않겠다는 의사를 내 양형 요소로 고려하지 않겠다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 B씨를 성폭행하고 불법 촬영한 혐의(아동청소년성보호법 위반)로도 검찰에서 수사받고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[기자의 시각] ‘스카’로 전락한 대학 도서관</title>
