@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 검찰, '티메프 사태' 구영배·류광진·류화현 구속영장 재청구</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/14/HW4C4UKC35C3VKH4ZAYX6OVR4I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/14/HW4C4UKC35C3VKH4ZAYX6OVR4I/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Nov 2024 23:08:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZP4IE74SZZQOV53T6VXMTAJ34A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'티몬·위메프 대규모 미정산 사태‘의 핵심 피의자인 구영배 큐텐그룹 대표(왼쪽부터)와 류화현 위메프 대표, 류광진 티몬 대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;[속보] 검찰, ‘티메프 사태’ 구영배·류광진·류화현 구속영장 재청구&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>허위사실 공표, 거짓말 반복·방송 발언 땐 더 센 처벌… 고의 없으면 무죄</title>
       <link>https://www.chosun.com/national/court_law/2024/11/14/HCFHOVYSY5BPVATYW7EOKPNAFI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/14/HCFHOVYSY5BPVATYW7EOKPNAFI/</guid>
@@ -831,15 +840,6 @@
       <description/>
       <pubDate>Wed, 13 Nov 2024 02:15:01 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2F67YHJFTBB5ZADN5LSC4ODCCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 이미정씨. /한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;갑작스러운 심정지 후 의식을 되찾지 못한 30대 여성이 뇌사장기기증으로 7명에게 생명을 나눠주고 하늘로 떠났다.&lt;br&gt;&lt;br&gt;13일 한국장기조직기증원은 지난달 15일 가톨릭대학교 부천성모병원에서 이미정(37)씨가 뇌사장기기증으로 7명의 생명을 살리고 하늘의 천사가 되어 떠났다고 밝혔다.&lt;br&gt;&lt;br&gt;이씨는 지난 7월 1일 갑작스러운 심정지로 의식을 회복하지 못하고 뇌사상태가 됐다. 이후 뇌사장기기증으로 심장, 폐장, 간장, 신장(좌, 우), 안구(좌, 우)를 기증했다.&lt;br&gt;&lt;br&gt;유족은 이씨가 어디선가 살아 숨 쉬고 있다는 마음의 위로를 얻고, 누군가를 살리는 좋은 일을 하고 떠나길 바라는 마음에 기증을 결심했다.&lt;br&gt;&lt;br&gt;이씨는 부산에서 2녀 중 막내로 태어났다. 밝고 활발한 성격으로 누군가 도움이 필요하면 먼저 다가가 도움을 주는 따뜻한 사람이었다. 동물병원에서 일을 할 때는 눈이 안 보여 안락사를 해야 하는 강아지를 보고 안타까운 마음에 집으로 데리고 와서 지금까지 키웠다.&lt;br&gt;&lt;br&gt;고객센터 관리자로 일할 때는 일을 처음 배우거나, 육아휴직 후 돌아와서 적응을 잘 못하는 직원들을 잘 챙겨 고맙다는 편지도 자주 받았다고 한다.&lt;br&gt;&lt;br&gt;이씨의 어머니 이제순씨는 “미정아. 너를 이제 다시 볼 수는 없지만, 7명의 생명을 살리고 어디선가 함께 살아 숨 쉰다고 생각하며 살게. 하늘나라에서는 행복하게 잘 지내. 사랑한다”라고 마지막 인사를 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>2025경주 APEC 홍보 슬로건 국민공모…12월 1일까지</title>
-      <link>https://www.chosun.com/national/regional/2024/11/13/B4KHI7ADLNBAJCUS62YZSEYXR4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/13/B4KHI7ADLNBAJCUS62YZSEYXR4/</guid>
-      <dc:creator>경주=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 13 Nov 2024 02:13:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VPBLIITY5ZAFLGQIIDRJPZOKJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;APEC준비지원단은 다음달 1일까지 2025년 경주 APEC정상회의 홍보 슬로건 국민공모를 진행한다. 사진은 지난 11일 APEC 성공개최추진위원회 출범식 이후 내빈들이 성공개최 기원 퍼포먼스를 펼치고 있는 모습./경주시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2025년 경북 경주에서 열리는 아시아태평양경제협력체(APEC) 정상회의 홍보 슬로건을 국민공모로 결정한다.&lt;br&gt;&lt;br&gt;APEC 준비지원단은 내달 1일까지 경주 APEC 정상회의 홍보 슬로건을 공모한다고 13일 밝혔다. ‘대국민 공모전, 함께해요! APEC 2025 KOREA’라는 주제로 진행되며 국민 누구나 1인 3건까지 응모할 수 있다.&lt;br&gt;&lt;br&gt;APEC 정상회의 경주 개최 의의와 효과를 잘 나타내고 간결하면서 호소력이 있는 문구(국문 영문 혼용 30자 이내)면 된다. APEC 준비지원단은 독창성·상징성·효과성·적합성 4개 항목을 평가해 수상작을 선정, 다음달 20일 발표할 예정이다. 최종 채택된 문구는 APEC 공식 엠블럼과 함께 정부·경북도·경주시 APEC 정상회의 주요 홍보 매체에 활용된다. 최우수상과 우수상, 장려상 등 총 11명에게 상금과 상장도 수여된다.&lt;br&gt;&lt;br&gt;응모는 우편(경북 경주시 하동공예촌길 25-15 경북도 APEC 준비지원단 의전홍보과 홍보팀)이나 이메일(&lt;a href="mailto:kdy21lp@korea.kr" target="_blank"&gt;kdy21lp@korea.kr&lt;/a&gt;)로 하면 된다.&lt;br&gt;&lt;br&gt;김상철 APEC 준비지원단장은 “가장 한국적인 모습을 간직한 경주에서 세계인의 찬사를 받을 수 있도록 정부와 협력해 국민과 함께하는 APEC을 만들겠다”고 말했다.&lt;br&gt;&lt;br&gt;경북도와 경주시는 지난 9월 4개과 13개팀 55명으로 준비지원단을 구성해 APEC을 준비하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“가족 경영은 어려워... 자녀들 하고 싶은 일하면 돼”… 백종원 더본코리아 상장 후일담</title>
