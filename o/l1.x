@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 대법 "대한항공 사내 성폭력, 회사도 손해배상하라"</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/202906.jpg" alt="202906.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대한항공 사내 성폭력 사건과 관련해 대법원이 회사 측의 손해배상 책임을 최종 인정했다.&lt;p&gt;   &lt;b&gt;&lt;br /&gt;대법원 민사3부&lt;/b&gt;(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9051"&gt;이숙연&amp;nbsp;&lt;/span&gt;대법관)는 A 씨가 대한항공을 상대로 낸 손해배상 청구 소송에서 회사가 1800만 원을 지급하라고 판결한 원심을 14일 확정했다(&lt;b&gt;2023다276823&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;대법원은 "원심의 판단에 논리와 경험의 법칙을 위반하여 자유심증주의의 한계를 벗어나거나 법리를 오해해 판결에 영향을 미친 잘못이 없다"며 대항항공 측의 상고를 기각했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;2017년 대항항공에 근무하던 A 씨는 탑승 수속 과정에서 발생한 보안사고와 관련해 보고 하기 위해 상사 B 씨의 집에 갔다가 성폭력 피해를 입었다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;A 씨는 2019년 회사에 피해 사실을 보고하고 공식적인 조사와 징계를 요청했으나 대항항공은 별도의 징계 절차 없이 B 씨를 면직 처리했다. 이에 A 씨는 "B 씨의 불법행위가 회사의 사무집행과 관련해 이뤄졌으므로 사용자 책임이 인정되며 B 씨를 징계절차에 회부하지 않고 사직 처리한 것이 위법하다"며 대항항공을 상대로 손해배상 소송을 제기했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;1심은 대한항공이 가해자 B 씨의 사용자로서 손해배상 책임이 있다며 A 씨에게 1500만 원을 지급하라고 원고 일부 승소 판결했다. 다만 징계 절차 없이 가해자를 면직한 부분에 대해서는 대한항공에 손해배상 책임이 없다고 봤다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;하지만 2심은 "대한항공이 A 씨의 권리를 존중하지 않은 채 단순히 B 씨의 사직서 제출 제안을 받아들이기 했다는 점만 전달함으로써 A 씨에 대한 의견 청취 의무를 제대로 이행하지 않았다"고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;또 "대한항공이 A 씨에 대한 지속적인 상담과 면담 및 인사상 배려 등 필요한 피해회복 지원 조치를 충분히 했다고 볼 수 없다"며 대한항공에게 위자료 300만 원을 추가로 지급하라고 판결했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;대법원은 이 같은 2심 판단에 문제가 없다고 보고 상고를 기각했다.&lt;/p&gt;</description>
+			<pubDate>Thu, 14 Nov 2024 03:10:22 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/202906</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202906</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202906.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
 			<title>문다혜 "수사 상황 유출 되풀이되지 않길"...檢 비판</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/202904.jpg" alt="202904.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;문다혜 씨 변호인단이 가족의 해외 이주 부정 지원 의혹 등을 수사하는 검찰에 "위법한 수사 상황 유출이 되풀이되지 않길 바란다"고 비판했다.&lt;br /&gt;&lt;br /&gt;문 씨 변호인단은 14일 입장을 내고 "다혜 씨에 대한 주거지 압수수색 등 수사 상황이 언론을 통해 지속해서 보도되고 있다"며 "일부 사실관계가 왜곡된 내용도 있고 현행법상 위법한 사항이 공개된 적도 있었지만, 다혜 씨는 전직 대통령의 딸로서 공식적인 문제 제기를 자제해왔다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;이어 "그러나 최근 다혜 씨가 전주지검에 불출석 의사를 표명한 것과 관련해 언론을 통한 검찰의 수사 상황 유출을 더 묵과할 수 없게 됐다"며 "다혜 씨가 전주지검에 불출석한 이유는 참고인으로서 출석 의무가 없을 뿐만 아니라 이 사건이 정치적 의도를 갖고 편향적으로 진행됐기 때문"이라고 주장했다.&lt;br /&gt;&lt;br /&gt;그러면서 "전 남편의 취업을 부친의 수뢰라고 언론에 대대적으로 밝히면서 수사하는 것도 문제지만, 취업 당사자도 아닌 전직 대통령의 딸을 굳이 소환해 어떤 조사를 하겠다는 건지 이해할 수 없다"며 "다혜 씨는 이러한 이유로 불출석 의사를 표명하면서 서면조사 방식을 검찰에 타진했는데, 이를 언론에 유출한 검찰의 행태는 법무부 훈령인 '형사사건의 공보에 관한 규정'을 위반한 것"이라고 했다.&lt;br /&gt;&lt;br /&gt;아울러 "참고인의 출석을 압박하는 것으로도 볼 수 있어 인권 보호 수사 규칙 또한 실질적으로 위반했다고 본다"며 "경우에 따라 단순한 수사 윤리 위배 차원을 넘어 법적 책임이 발생할 수 있으므로 앞으로 동일한 유출 행위가 반복되지 않기를 바란다"고 강조했다.&lt;br /&gt;&lt;br /&gt;한편 문다혜 씨는 11일 제주도자치경찰단을 찾아 불법 숙박업 의혹과 관련해 공중위생관리법 혐의를 모두 시인한 것으로 알려졌다. 경찰은 15일까지 문다혜 씨를 검찰에 불구속 송치할 예정이다.</description>
 			<pubDate>Thu, 14 Nov 2024 02:39:53 -0000</pubDate>
@@ -230,16 +240,6 @@
 			<link>https://www.lawtimes.co.kr/news/202868</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202868</guid>
 			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 부영주택 토양 오염 정화 미이행… 대법원 벌금 1000만 원 확정</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/202801.jpg" alt="202801.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;인천 송도유원지 인근 부지의 토양 오염을 정화하라는 행정 명령을 2년간 이행하지 않은 부영주택과 대표이사에 게 벌금형이 확정됐다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;대법원 형사1부&lt;/b&gt;(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5554"&gt;서경환&amp;nbsp;&lt;/span&gt;대법관)는 지난 25일 토양환경보전법 위반 혐의로 기소된 부영주택과 대표이사 A씨에게 각각 1000만 원의 벌금형을 선고한 원심을 확정했다(&lt;b&gt;2024도12107&lt;/b&gt;).&lt;br /&gt;&lt;br /&gt;부영주택은 2015년 송도유원지 부지 92만6000㎡를 2150억 원에 사들여 테마파크와 아파트 건설을 추진했다. 그러나 2017년 해당 부지에서 기준치를 초과하는 석유계 총탄화수소(TPH)와 납 등 유해물질이 검출되면서 사업이 중단됐다.이후 연수구청은 2018년 12월 부영주택에 토양을 정화하라는 명령을 내렸고 이를 2년 내에 이행하도록 했다. 하지만 부영주택 측은 정화 작업을 착수하지 않았고 이에 따라 토양환경보전법 위반 혐의로 기소됐다.&lt;br /&gt;&lt;br /&gt;부영주택 측은 "행정 소송과 환경영향평가 절차가 마무리된 후에야 정화 작업이 가능하다"며 "또 해당 부지에 멸종위기종인 맹꽁이가 서식하고 있어 생태적 부담이 크다"는 점을 이유로 정화 명령을 이행할 수 없었다고 주장했다. &lt;br /&gt;&lt;br /&gt;그러나 법원은 이를 받아들이지 않았다. &lt;br /&gt;&lt;br /&gt;1심은 부영주택과 A 씨에게 각 벌금 1000만 원을 선고했다. 오염된 토양이 인체와 환경에 미치는 영향을 고려할 때 정화 의무는 테마파크 사업 사업 승인과 무관하게 독립적으로 이행돼야 하는데, 부영주택 측이 토양 오염 정화 의무를 이행하지 않은 책임이 중대하다는 판단이었다.&lt;br /&gt;&lt;br /&gt;항소심의 판단도 같았다. 항소심은 "토양 오염은 공공 환경과 주민 건강에 직결되는 문제로 정화 명령은 테마파크 사업 승인의 환경영향 평가와는 별개의 절차"라며 "정화 작업 중 멸종위기종에 대한 우려가 있다면 환경부의 적절한 허가를 통해 해결할 수 있다"고 판단했다. 이어 "막대한 정화 비용이 드는 상황이지만 공공의 안전과 환경 보호를 위해 정화 작업을 이행할 책임은 부영주택 측에 있다"며 “정화 명령을 이행하지 않음으로써 발생한 오염 정도와 토지 면적을 고려했을 때 처벌의 필요성이 크다"고 설명했다.&lt;br /&gt;&lt;br /&gt;부영주택 측은 "벌금형이 과도하다"며 상고했으나 대법원은 받아들이지 않았다.&lt;br /&gt;&lt;br /&gt;재판부는 "원심 판단에 논리와 경험의 법칙을 위반해 자유심증주의의 한계를 벗어나거나 토양환경보전법위반죄의 성립 등에 관한 법리를 오해한 잘못이 없다"며 상고를 기각했다.&lt;br /&gt;</description>
-			<pubDate>Tue, 12 Nov 2024 21:09:16 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/202801</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202801</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202801.jpg</media:thumbnail>
-			<dc:creator>이순규 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
