@@ -13,6 +13,76 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘저 넓은 세상에서 큰 꿈을 펼쳐라’... 올해 수능 필적확인 문구</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/14/EQQTPJWUT5BFDIXT4VFQH3TNKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/14/EQQTPJWUT5BFDIXT4VFQH3TNKQ/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Nov 2024 17:04:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JZAF4BSB2RPO5KASVUCVMTJRV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025학년도 대학수학능력시험(수능) 1교시 국어 영역 시험지에 적힌 필적 확인 문구가 적혀 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14일 치러진 2025학년도 대학수학능력시험 응시생의 필적 확인 문구는 ‘저 넓은 세상에서 큰 꿈을 펼쳐라’였다. 곽의영 시인의 시 ‘하나뿐인 예쁜 딸아’의 5연에 담긴 내용이다.&lt;br&gt;&lt;br&gt;필적 확인 문구는 부정행위를 막기 위해 2006학년도 수능에 처음 도입된 것으로, 수험생이 답안지의 필적 확인란에 직접 적어야 한다.&lt;br&gt;&lt;br&gt;필적 확인 문구는 주로 수험생을 향한 응원을 담은 메시지가 선정돼 매해 어떤 문구가 등장할지 관심을 모은다. 출제위원단이 국내 작가 작품 중에서 수험생에게 긍정과 희망을 줄 수 있는 단어가 포함된 문구를 골라 정한다고 한다.&lt;br&gt;&lt;br&gt;응시생 본인 필적을 식별할 수 있는 기술적 요소가 포함돼야 한다. 문구 길이는 12~19자여야 하고, 사람마다 쓰는 방법이 달라 필체가 드러나는 자음 ‘ㄹ’ ‘ㅁ’ ‘ㅂ’ 중 두 개 이상이 들어가야 한다.&lt;br&gt;&lt;br&gt;정지용 시인의 작품이 가장 많이 인용됐다. 필적 확인 문구가 처음 도입된 2006학년도 수능에선 정지용의 ‘향수’에 나오는 ‘흙에서 자란 내 마음 파란 하늘빛’이 문구였다. 이 문구는 2017학년도 시험에 한 번 더 쓰였다. 같은 시에 나오는 문구 ‘넓은 벌 동쪽 끝으로’는 2007학년도 수능에도 필적 확인 문구로 나왔다.&lt;br&gt;&lt;br&gt;2021학년도에는 ‘많고 많은 사람 중에 그대 한 사람’(나태주의 ‘들길을 걸으며’), 2022학년도에는 ‘넓은 하늘로의 비상을 꿈꾸며’(이해인의 ‘작은 노래’), 2023학년도에는 ‘나의 꿈은 맑은 바람이 되어서’(한용운의 ‘나의 꿈’)였다. 2024학년도에는 양광모 시인의 ‘가장 넓은 길’에 나오는 ‘가장 넓은 길은 언제나 내 마음속에’였다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] ‘공천 거래’ 의혹 명태균‧김영선, 영장실질심사 출석</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/14/ESO3UQW2TRDWPDLXJJET57AWAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/14/ESO3UQW2TRDWPDLXJJET57AWAE/</guid>
+      <dc:creator>창원=김준호 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Nov 2024 17:01:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KWI6DEDTHBNJJGZTUT6RX4LRAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 공천 개입 의혹과 미래한국연구소의 불법 여론조사 의혹 등 사건의 핵심 인물인 명태균 씨가 14일 오후 경남 창원시 성산구 창원지방법원(창원지법)에 구속 전 피의자 심문(영장실질심사)을 받기 위해 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘공천 거래’ 의혹으로 구속영장이 청구된 정치 브로커 명태균씨와 김영선 전 의원이 14일 창원지법에 출석했다. 명씨에게 공천을 대가로 1억2000만원씩 건넨 혐의로 함께 구속영장이 청구된 지방선거 예비 후보 2명도 연이어 법정으로 향했다.&lt;br&gt;&lt;br&gt;명씨는 이날 오후 1시 54분쯤 창원지법에 모습을 드러냈다. 그는 검찰 소환 조사 때와 마찬가지로 오른손에 지팡이를 짚고, 천천히 걸음을 옮겼다. 취재진이 명씨에게 ‘오늘 어떤 부분 위주로 소명하실 계획이냐’ ‘김건희 여사에게 돈 봉투 언제, 얼마나, 어떻게 받은 것이냐’ ‘김 전 의원 (공천) 이준석 의원에게 부탁한 게 맞느냐”고 물었지만 그는 모두 답하지 않았다. 법정으로 향하던 중 한 차례 넘어지기도 했다.&lt;br&gt;&lt;br&gt;김 전 의원은 2분 뒤인 오후 1시 56분쯤 법원에 출석했다. 김 전 의원은 “언론인 여러분들이 검찰을 너무나 흔들고 있다. 정치적인 구속영장이 아닌가 싶다”며 “성실하게 소명하고 나오겠다”고 했다. ‘구속영장 청구서에 가족과 연락을 끊고 잠적해서 체포영장까지 발부됐다고 했는데 맞느냐’는 취재진 질문엔 “아니다”라고 했다.&lt;br&gt;&lt;br&gt;명씨에게 공천을 바라고 1억2000만원을 건넨 혐의를 받는 고령군수 예비 후보 배모씨와 대구시의원 예비 후보 이모씨도 뒤이어 법원에 출석했다. 이씨는 고개를 숙이고 옷으로 얼굴을 가린 채 법정으로 향했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] “마약 투약 자수” 김나정, 귀국 후 인천공항서 경찰 조사 받았다</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/14/QYJFYNHKIVDR7GFAN3XYWWRXJM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/14/QYJFYNHKIVDR7GFAN3XYWWRXJM/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 14 Nov 2024 04:50:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5P4S646EE5FZ7FB3YEVUM2XOU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아나운서 출신 모델 김나정. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;필리핀에서 “마약 투약한 것을 자수한다”는 글을 소셜미디어에 올렸다 삭제한 것으로 알려진 프리랜서 아나운서 출신 모델 김나정(32)이 귀국 직후 공항경찰 조사를 받은 것으로 14일 확인됐다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면, 김나정은 지난 12일 필리핀 마닐라에서 인천국제공항으로 귀국한 직후 인천국제공항경찰단에서 2시간가량 조사를 받은 뒤 귀가했다. 경찰 관계자는 “김나정이 소셜미디어에 올렸던 글과 관련해 사실 관계 파악을 위한 진술을 받았다”며 “마약 투약 혐의로 정식 입건한 것은 아니고, 입건 전 조사(내사) 차원에서 진행했다”라고 했다. 마약 간이 검사 진행 여부에 대해서는 “확인해줄 수 없다”고 했다.&lt;br&gt;&lt;br&gt;김나정의 모친은 앞서 같은 날 서울 서대문경찰서에 “딸이 필리핀에 갔는데 납치를 당한 것 같다”고 신고했다. 경찰은 주필리핀 한국대사관에 이 정보를 알렸고, 대사관 측은 김나정을 현지 숙소에서 공항까지 안전하게 출국할 수 있도록 도왔던 것으로 밝혀졌다. 외교부 관계자는 “현지 공관에서 관련 사안을 인지해 필요한 영사 조력을 제공했다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 김나정은 12일 오전 자신의 인스타그램에 “마닐라 콘래드 호텔이다. 생명의 위협을 받게 됐다”며 “무서워서 공항도 못 가고 택시도 못 타고 있다. 도와 달라”고 호소했다. 함께 올린 사진에는 필리핀 마닐라의 한 호텔 내부를 찍은 광경이 담겼다. 얼마 후에는 “전화주세요” “연락 좀 주세요” 등 누군가와 나눈 문자메시지 내역을 공개하면서 “대사관 전화 좀 부탁드린다”는 글을 재차 올렸다. 당시 김나정은 무슨 일인지는 공개하지 않았다.&lt;br&gt;&lt;br&gt;이어 김나정이 인스타그램에 공항으로 보이는 내부 사진과 함께 ‘마약 투약’을 언급하는 글을 올렸다가 빠르게 삭제했다는 게시물이 온라인 커뮤니티에 올라와 논란이 일었다. 게시물에는 “어젯밤 인천행 11시 비행기가 12시 5분으로 늦춰지고 늦은 저녁에 공항 직원, 승객, 이미그레이션(출입국 관리소) 모두가 저를 촬영하고 (영화) ‘트루먼쇼’처럼 마약 운반 사태를 피하려고 제가 가진 캐리어와 백들을 모두 버리고 비행기 타지 않고 다시 나왔다”고 적혀 있다. 게시물에는 김나정이 “저 비행기 타면 죽는다. 대한민국 제발 도와달라. 제가 필리핀에서 마약 투약한 것을 자수한다”며 “그걸 가지고 저의 과대망상으로 어떤 식으로든 죽어서 갈 것 같아서 비행기 못 타겠다”고 한 것으로 나와 있다.&lt;br&gt;&lt;br&gt;이를 두고 논란이 일자 한 네티즌은 김나정을 마약류관리법 위반 혐의로 경찰에 수사 의뢰했다. 네티즌 A씨는 “유명인들의 마약 투약 사례가 증가하면서 이를 모방한 청소년들의 마약 중독 위험성이 증가하고 있다. 수사 기관에서 유명인들의 마약 범죄를 더욱 엄단해 반면교사로 삼도록 해야 할 것”이라고 민원 신청 취지를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 70대 운전자 스쿨존 인도 돌진... 보행자 경상, 반려견은 즉사</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/14/BCQZHVWMJZD3XEWZ2ST6GGJXJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/14/BCQZHVWMJZD3XEWZ2ST6GGJXJY/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Nov 2024 16:20:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3WUKJM2ZNTYVB3PMZ5LWWDFGTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 은평경찰서. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고령의 운전자가 탄 승용차가 초등학교 앞 어린이보호구역에서 인도로 돌진해 보행자 1명이 경상을 입고 함께 있던 반려견이 현장에서 즉사했다.&lt;br&gt;&lt;br&gt;서울 은평경찰서는 사고를 낸 승용차 운전자 A(72)씨의 혐의를 살펴보기 위해 입건 전 조사(내사)에 착수했다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;경찰과 소방 등에 따르면 A씨는 지난 13일 오전 11시 4분쯤 서울 은평구 갈현초등학교 앞 사거리에서 신호를 대기하던 중 횡단보도 건너편 인도로 돌진해 전봇대와 부딪히는 사고를 냈다. 이 사고로 보행자 B씨가 파편에 맞아 경상을 입었고, 그와 함께 산책 중이던 반려견이 현장에서 즉사했다. A씨는 음주 상태는 아니었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;사고가 난 도로는 제한속도가 시속 30km인 어린이보호구역(스쿨존) 구간이었다.&lt;br&gt;&lt;br&gt;현장 목격자들의 진술에 따르면 운전자 A씨의 차량은 신호를 대기하던 중 갑자기 속도를 내며 인도로 돌진했다. 충돌 직후에도 A씨는 차량을 후진하더니 2차 충돌을 일으켰다고 한다. 전봇대와 충돌하는 과정에서 차량이 반려견을 치었고, 견주 B씨가 죽은 반려견 앞에서 오열하는 모습도 포착됐다. 사고 이후 A씨는 차량 안에 한참을 머무르다 옷을 털면서 걸어 나온 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 사고 현장 주변의 CCTV를 분석한 뒤 A씨의 신호위반과 과속 여부 등을 살펴볼 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>﻿이영애, ‘이승만 재단 기부 폄하’ 유튜버와 화해권고 거부</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/14/IJZRABELDVAU7AFZ7WU6PYY4T4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/14/IJZRABELDVAU7AFZ7WU6PYY4T4/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 14 Nov 2024 04:49:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2OBH3RGTHVLZBKZMU2SXMLNKNY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이영애가 지난달 24일 서울 강동구 고덕동 스테이지28에서 열린 제14회 아름다운예술인상 시상식에 참석해 미소를 짓고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 이영애가 자신의 이승만대통령기념재단 기부 행위를 두고 김건희 여사 연관설을 제기한 유튜버를 상대로 낸 민사소송에서 재판부의 화해 권고를 받아들이지 않았다. &lt;br&gt;&lt;br&gt;서울서부지법 민사합의12부(재판장 김진영)는 지난달 29일 이영애가 유튜브 채널 열린공감TV의 정천수 전 대표를 상대로 제기한 손해배상 청구 소송에 대해 화해권고 결정을 내렸다. &lt;br&gt;&lt;br&gt;화해권고 결정은 법원이 직권으로 조건을 제시하며 합의를 권고하는 것으로, 양측이 동의하면 확정판결과 같은 효력이 있다. 확정된 화해권고 결정에 대해서는 원칙적으로 나중에 무효를 주장할 수 없다. &lt;br&gt;&lt;br&gt;재판부는 화해 조건으로 정 전 대표 측에 문제가 된 영상을 삭제하고, 이영애와 김 여사의 친분 관련 내용 방송을 금지할 것과 이영애의 정치적 성향을 방송할 때는 입장을 반영할 것을 제시했다. 이영애 측에는 고소 취소를 제시한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;이영애 측은 화해권고를 받아들일 수 없다는 취지의 이의신청서를 지난 12일 법원에 제출했다. 정 전 대표 측도 이날 이의신청을 함에 따라 재판부는 기일을 지정해 재판을 진행할 예정이다. &lt;br&gt;&lt;br&gt;작년 9월 이영애는 이승만대통령기념관 건립에 써 달라며 재단에 5000만원을 기부했다. 열린공감TV는 이에 대해 “이영애의 기부는 윤석열 대통령과 배우자 김건희 여사와 관련 있다”고 주장하고, 이영애를 폄하하는 내용을 방송했다. &lt;br&gt;&lt;br&gt;이영애는 이런 주장이 사실과 다른 가짜뉴스라며 방송 중지와 사과를 요청하는 내용증명을 보냈지만 열린공감TV는 같은 내용을 반복하는 영상을 또다시 내보냈다. 이에 따라 이영애 측은 정 전 대표를 서울 용산경찰서에 고소했고, 민사소송도 제기했다. &lt;br&gt;&lt;br&gt;형사 사건의 경우 검찰이 직접 들여다보고 있다. 사건은 경기 양주경찰서로 이송돼 불송치됐고, 이영애의 이의신청 후 사건을 넘겨받은 의정부지검이 지난 6월 혐의없음 처분했다. 이에 이영애 측은 항고했고, 서울고검은 재기수사 명령을 내렸다. &lt;br&gt;&lt;br&gt;재기 수사 명령은 앞선 수사가 부족했다고 보고 다시 수사하도록 하는 제도다. 기존에 수사했던 검찰청에 사건을 돌려보낼 수 있지만, 서울고검은 직접 수사하기로 하고 지난 8월부터 수사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“아버지 추억 담아갑니다”...박근혜, 박정희 탄생 107주기 행사 참석</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/14/5LIVEDBPGNA3THVKCXJQRGB7AI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/14/5LIVEDBPGNA3THVKCXJQRGB7AI/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Nov 2024 16:18:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C66KNA36GNE6PIE5GGJC7BXOM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오전 경북 구미시의 구미코에서 열린 박정희 대통령 탄생 축하 행사를 찾은 박근혜 전 대통령(왼쪽)과 김장호(오른쪽)구미시장./구미시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“오랜 세월 지났음에도 아버지를 기억해주시고 찾아주신 국민 여러분에게 감사합니다.”&lt;br&gt;&lt;br&gt;14일 오전 11시 경북 구미시 구미코에서 박정희 대통령 탄생 107돌을 맞아 열린 문화행사를 딸 박근혜 전 대통령이 찾았다. 이 행사는 경북도와 구미시가 매년 주최했지만 박근혜 전 대통령이 박정희 대통령 탄생 행사를 찾은 것은 이번이 처음이다. 구미시를 찾은 것은 지난해 8월 어머니인 육영수 여사 서거 49주기를 맞아 박정희 대통령 생가를 찾은 이후 1년 3개월 만이다.&lt;br&gt;&lt;br&gt;박 전 대통령은 이날 특유의 올림머리와 카키색 외투 차림으로 행사에 참석했다. 박 전 대통령이 차에서 내리자 그를 기다리던 지지자들이 “박근혜 화이팅” “당신의 행복이 국민 행복입니다”라며 환영했다. 박 전 대통령은 별다른 말 없이 미소 지으며 손을 흔들어 인사에 답했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MWHCXUKH2ZPMXBX2ZB4FD753PE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 박근혜 전 대통령이 14일 오전 경북 구미시 구미코에서 열린 박정희 대통령 탄신 107돌 문화행사에서 인사말을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 전 대통령은 이날 축사에서 아버지 박정희 대통령에 대한 그리움을 표했다. 박 전 대통령은 “아버지는 큰 딸인 제겐 늘 나라 위한 무거운 짐을 등에 지고 생각에 잠기신 모습으로 기억된다”며 “제가 나이가 들다보니 아버지에 대한 존경심과 애잔함이 더욱 커진다. 강하셨지만 따뜻하셨고, 무엇보다 나라를 사랑하고 국민을 잘 살게 하겠다는 생각으로 일생을 살아가셨다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “오랜 세월이 지났음에도 오늘처럼 여러분이 아버지를 기억해 이 자리를 찾아주신 이유도 나라 위하는 같은 마음일 것”이라며 “민생 경제와 대외 여건이 어려운 상황이지만 모든 국민이 한 마음으로 뭉치면 이겨내지 못할 일이 없다”고 했다.&lt;br&gt;&lt;br&gt;박 전 대통령은 이어 “여러분 덕에 아버지에 대한 추억과 그리움을 가슴에 담아간다”며 “가족과 따뜻하고 행복한 연말되시길 바란다”고 말했다. 박 전 대통령은 축사를 마친 뒤 잠시 기념 공연을 관람한 후 행사장을 떠났다.&lt;br&gt;&lt;br&gt;이날 행사에는 김장호 구미시장과 김관용 전 경북도지사를 비롯해 구미와 전국 각지에서 몰려든 시민 1000여명이 자리했다. 무대 앞 쪽에는 윤석열 대통령과 국민의힘 한동훈 당대표의 화환이 각각 놓여져 있었다.&lt;br&gt;&lt;br&gt;행사장 곳곳에는 박정희 대통령의 친필 글씨로 쓴 ‘내 일생 조국과 민족을 위하여’ 글귀와 수출 100억불 달성, 국민복지연금법 제정, 경부고속도로 개통, 7·4남북공동성명, 포항종합제철소 준공 등 박정희 대통령 시기에 이뤄진 여러 정치, 경제적 성과들이 적힌 현수막이 내걸려 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6E2RVXC7ZKJ5N3WDE6H5UF7VM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 박근혜 전 대통령이 14일 오전 경북 구미시 구미코에서 열린 박정희 대통령 탄신 107돌 문화행사에 입장하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김관용 전 경북도지사는 취재진에게 “박근혜 대통령에게 ‘박정희 대통령 탄생 1세기가 지났으니 앞으로는 구미에서 탄신 축하 분위기를 만들어 국가 발전 동력으로 쓰려한다’고 말씀드리니, ‘바람직하다’고 답하셨다”고 말했다.&lt;br&gt;&lt;br&gt;김장호 구미시장은 “구미시는 박정희 대통령의 고향 도시로 ‘지나온 역사가 미래의 희망’이라는 메시지를 국민들에게 주고자 한다”며 “경제 발전과 산업화를 재조명하고 그 유산인 반도체 산업의 씨앗을 계승해 구미를 낭만산업도시로 만들겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“수능 국어, 9월 모평과 유사해... 결과도 비슷할 것으로 분석” </title>
+      <link>https://www.chosun.com/national/education/2024/11/14/4ZPDELDK6ZAATD2LNZF33OOGDQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/11/14/4ZPDELDK6ZAATD2LNZF33OOGDQ/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Nov 2024 16:11:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BGA3F2F66FKMLMC5N47VMRCE3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025학년도 대학수학능력시험(수능)이 실시된 14일 오전 인천 동구 동산고에서 수험생들이 시험 시작을 기다리고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 수능 국어영역 난이도가 지난 9월 모의평가와 유사하다는 EBS 현장교사단 분석이 나왔다. 지난 9월 모평은 국어 만점자가 4478명이 나올 만큼 쉽게 출제돼, 변별력이 없다는 평가를 받았었다.&lt;br&gt;&lt;br&gt;한병훈 EBS 국어영역 강사는 14일 정부세종청사에서 열린 브리핑에서 “이번 수능 국어영역은 올해 9월 모의평가의 출제 경향을 유지했다”고 말했다. 이어 “지문의 정보량이 적정하고 교과서에서 학습한 수준의 지문이 출제됐으며, 소위 ‘킬러문항’은 배제됐다”면서 “공교육을 통해 학습한 기본적 독해 능력만으로도 충분히 대비할 수 있는 시험이었다고 판단한다”고 설명했다.&lt;br&gt;&lt;br&gt;한 강사는 이번 수능 국어의 출제 경향과 난이도가 9월 모평과 유사하기 때문에, 결과 역시 9월 모평과 비슷할 것으로 분석했다. 이번 국어영역은 9월 모평을 고려해 선지들에서 세부적인 난도 조정은 있었지만, 학생들이 9월 모평 이후 대비한 것 등을 고려하면 결과가 9월 모평과 비슷하게 나올 것이라는 평가다.&lt;br&gt;&lt;br&gt;이날 오전 수능 출제본부는 국어 영역에서 EBS 연계율이 51.1%(총 23문항)라고 밝혔다. EBS 현장교사단은 “문학 영역에서 학생들의 실질적인 연계 체감도가 높았을 것으로 생각된다”고 했다.&lt;br&gt;&lt;br&gt;EBS 현장교사단은 독서 영역 3개 지문이 EBS 수능 연계 교재의 제재를 활용해 출제됐고, 문학에서 현대시와 고전 시가는 작품의 전문이 그대로 출제됐다고 분석했다. 또 고전 소설은 지문의 대부분이 EBS 수능 연계 교재에 수록된 장면과 일치한다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/BGA3F2F66FKMLMC5N47VMRCE3U.jpg?width=4914&amp;height=2484&amp;auth=91610f108a2f8feb745bd8257928f53471484dcaf2027cf19ac3bd94bf723434&amp;smart=true" type="image/jpeg" height="2484" width="4914">
+        <media:description type="plain">&lt;YONHAP PHOTO-3236&gt; 마지막 까지
+    (인천=연합뉴스) 임순석 기자 = 2025학년도 대학수학능력시험(수능)이 실시된 14일 오전 인천 동구 동산고등학교에서 수험생들이 시험 시작을 기다리고 있다. 2024.11.14 [공동취재]
+    soonseok02@yna.co.kr/2024-11-14 09:54:51/
+&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">인천취재본부</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>[단독] 범죄현장 착각해 성폭행 CCTV 확보도 못하는 경찰... 수사관 기피신청 5000건 돌파</title>
       <link>https://www.chosun.com/national/national_general/2024/11/14/72KKXUBZ7ZCYVEPF7FXXJYYAHA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/14/72KKXUBZ7ZCYVEPF7FXXJYYAHA/</guid>
@@ -780,28 +850,6 @@
       <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3PRNBQG5TJLUPFUZYB3ZIGTNCY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이종엽 대한법률구조공단 이사장이 8일 서울 여의도 국회 법제사법위원회에서 열린 법무부, 대한법률구조공단, 한국법무보호복지공단, 정부법무공단에 대한 국정감사에서 인사말을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부 산하 대한법률구조공단의 이종엽 이사장이 법무부에 사의를 표명한 것으로 13일 전해졌다.&lt;br&gt;&lt;br&gt;대한법률구조공단은 경제적으로 어려운 계층에게 소송대리 등 법률적 지원을 해주는 공공기관으로 전국 각 검찰청에 대응하는 지부를 두고 있으며, 이사장 임기는 3년이다. 대한변협회장을 지낸 이 이사장은 작년 9월 취임했고 임기는 2026년 9월까지다. 임기 절반을 채우지 못하고 사임한 것이다.&lt;br&gt;&lt;br&gt;이 이사장의 사임 배경에는 임금 동결을 둘러싼 일반직 노조와의 갈등이 있었다. 공단은 일반직 노조(500여명 규모)와 변호사 노조(100여명 규모)가 별도로 구성돼 있다. 이 이사장은 본지에 “공단의 고질적 문제인 인건비 과다지출문제를 해결하기 위해 지난10월 이후 이사장을 포함한 고위직의 임금 동결을 선언했고, 일반직 노조에도 임금동결 찬반의사를 물었지만 노조가 반발하면서 이사장 등 임원 사퇴를 요구하는 공문을 보내왔다”고 밝혔다.&lt;br&gt;&lt;br&gt;이에 대해 장동준 공단 일반직 노조위원장은 “경영진의 입장에서는 재무건전성을 우선시할 수밖에 없다는 점을 이해하지만 하위직급은 연봉 자체가 낮은 점을 감안해줬으면 했다”며 “노조에서도 어느 정도 타협의 여지를 넘겨두고 있었는데 아쉽다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“이 은혜 평생 잊지 않고 살겠다”...댓글로 알려진 수지 선행 뭐길래</title>
-      <link>https://www.chosun.com/national/people/2024/11/13/AE5OXUBJW5CQNKZFDMKK2MEC2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/13/AE5OXUBJW5CQNKZFDMKK2MEC2Q/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 13 Nov 2024 05:51:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PJMOT6R4YVK3BM7HT6WFAOZGDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 겸 배우 수지./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 겸 배우 수지가 소아 환자를 위해 치료비를 기부한 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;지난 10일 아픈 아이를 키우고 있는 어머니 A씨는 수지의 인스타그램 게시물에 “저희 아기 병원비 도와주셔서 잘 치료 받고 있다. 너무 감사하다”며 “이 은혜 평생 잊지 않고 늘 수지님께 감사하며 살겠다”고 댓글을 달았다. 이어 “저희 첫째 아기 이름도 배수지”라며 “우리 쌍둥이들도 수지 님처럼 사랑이 많은 사람으로 잘 키우겠다. 항상 건강하시고 행복하시길 바란다”고 했다.&lt;br&gt;&lt;br&gt;수지의 기부 사실은 이 댓글을 통해 알려졌다. 소속사 매니지먼트 숲 측은 13일 조선닷컴에 “수지가 개인적으로 진행한 일”이라고 밝혔다. 또 “이번에 알려진 일이 특별한 게 아니라 꾸준히 기부하고 있다”며 “수지가 환우들을 돕는 일에 특별히 관심을 두고 있어서 이번 일도 그런 것의 일환으로 생각한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CUKDT3IJAVGYZAQQR2A3K5JYAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;어린 환우의 어머니인 A씨가 지난 10일 수지의 소셜미디어 게시글에 감사 인사를 댓글로 남겼다. /수지 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수지가 어린 환우의 수술을 위해 보낸 후원금은 2000만원으로 알려졌다. A씨 딸은 조산으로 1㎏에 미치지 못할 정도로 작게 태어나 폐동맥 고혈압, 뇌병변 장애, 시각 장애 진단을 받고 일반 병실과 중환자실을 오가며 치료를 받았다고 한다. 한 달에 중환자실 병원비만 700만원에 달해 상황이 어려웠지만 수지의 후원으로 치료를 이어갈 수 있던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편, 수지는 꾸준히 선행을 베풀어왔다. 2015년에는 고액 기부자 모임인 ‘아너스 클럽’ 회원으로 등재됐다. 2021년에도 미숙아 환자의 심장 수술비를 후원한 사실이 뒤늦게 알려져 화제를 모았다. 2022년 11월에는 누적 기부액이 5억원을 넘긴 사실도 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘따릉이’ 27대 하천에 내던진 20대 男 징역 1년</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/13/GXXIIMD225C43DGZUKACNMPZNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/13/GXXIIMD225C43DGZUKACNMPZNY/</guid>
-      <dc:creator>김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 13 Nov 2024 05:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B5RXWEXJUNEMRDKUHPWS2KMRIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월 12일 서울 성북구 성북3교 아래 하천에 따릉이 여러 대가 내던져진 모습. /X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시 공공자전거 ‘따릉이’ 27대를 하천으로 내던진 20대 남성 김모(21)씨가 실형을 선고 받았다. 재판부는 김씨가 따릉이 자전거에 불을 붙여 벌금형을 선고 받은 적 있고, 마약 범죄에 가담하는 등 사회에 해를 끼친 범죄를 반복한 점을 고려했다고 밝혔다.&lt;br&gt;&lt;br&gt;서울북부지법 형사7단독 김선범 판사는 13일 오전 10시 김씨에게 징역 1년과 벌금 10만원의 실형을 선고했다. 김씨는 지난 6월 9일과 12일 서울 성북구에 있는 성북3교와 보문2교에서 따릉이 자전거 총 27대를 세 차례에 걸쳐 내던진 혐의로 경찰에 입건 됐다. 당시 하천에서 발견된 따릉이 중 일부는 본체를 연결하는 프레임과 앞바퀴가 완전히 분리된 채로 발견됐다. 경찰은 방범 카메라를 활용해 범인을 추적하고, 이틀 만인 14일에 김씨를 검거했다.&lt;br&gt;&lt;br&gt;재판부에 따르면 김씨는 가정불화와 교우관계 문제로부터 비롯된 울화를 달리 풀 방법을 찾지 못해 따릉이 자전거를 내던진 것으로 밝혀졌다. 김 판사는 “피고인의 사정을 이해한다”면서도 “별다른 이유 없이 시민들이 사용하는 따릉이 자전거를 무차별적으로 던져 손괴해 시민들의 상당한 불편이 초래됐다”고 했다.&lt;br&gt;&lt;br&gt;법무부가 국민의 힘 장동혁 의원실에 제출한 공소장에 따르면 김씨는 따릉이 뿐 아니라 다른 공공 기물·설치물도 파손하려 했다. 김씨는 같은 달 11일에는 행인이 지나고 있는 성북천변 산책로로 적색 라바콘 2개를 내던졌고, 따릉이를 내던진 건으로 경찰 조사를 받은 후인 같은 달 18일에는 서울 성북구에 있는 소녀상에 유리병을 집어 던졌다. 이에 따라 김씨는 재물손괴 미수, 경범죄처벌법 위반 혐의도 받았다.&lt;br&gt;&lt;br&gt;김 판사는 서울시설공단으로 일부 손해 배상이 이뤄졌지만 “(김씨가) 잘못을 명백히 알면서도 범행한 점, 따릉이 자전거는 물론 라바콘을 사람들이 지나다니는 산책로에 던진 점, 경찰 조사를 받은 이후에 평화의 소녀상에 유리병을 던지고 유튜브에 올릴 목적으로 촬영까지 한 점, 수사 기관에서 일절 범행을 부인하다가 구속 위기에 처하자 범행을 인정하고도 검찰 조사에서 범행을 번복하여 부인한 점”을 고려했다고 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 김씨의 전과도 선고에 반영했다. 김 판사는 “(김씨의) 벌금형 전과가 따릉이 자전거에 불을 붙인 재물손괴 범행인 점, 작년 10월 초순에 필로폰 드라퍼(dropper) 범행으로 지난 4월 수원지법에서 징역형 집행유예를 선고 받고 항소심이 진행 중인데도 사회에 해를 끼치는 범행을 반복한 점, 재물손괴 피해자들에게 용서 받지 못한 점도 고려했을 때 집행유예보다는 실형이 적절하다고 판단했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/B4K3EZH23ZE2NGOM63RG7UCBJ4.jpg?width=675&amp;height=380&amp;auth=3ca8f1441e3f94fb26220af361684b752a76a03ab7a77353d0ae2d9397ba767e&amp;smart=true" type="image/jpeg" height="380" width="675">
-        <media:description type="plain">12일 서울 성북구 성북3교 하천에 따릉이가 버러져 있다. /@realgura9</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
       <title>고교 여자화장실 ‘갑티슈 몰카’ 10대, 징역 4년→6년으로 늘었다</title>
       <link>https://www.chosun.com/national/regional/2024/11/13/GEKQT3D45VGBHIVEK3VT3YJFTM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/13/GEKQT3D45VGBHIVEK3VT3YJFTM/</guid>
@@ -809,15 +857,6 @@
       <description/>
       <pubDate>Wed, 13 Nov 2024 05:15:52 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JT7XQROC3VFDFL2GB4O2VFG6UU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 다니던 고교 여자화장실 등에서 불법 촬영을 일삼고 촬영물을 유포한 10대의 형량이 항소심에서 늘었다.&lt;br&gt;&lt;br&gt;광주고법 제주 형사1부(재판장 부장판사 이재신)는 13일 성폭력범죄의 처벌 등에 관한 특례법 위반 등 혐의로 기소된 A(19)군에 대한 항소심 선고 공판에서 A씨에게 징역 4년을 선고한 원심판결을 파기하고 징역 6년을 선고했다.&lt;br&gt;&lt;br&gt;또 성폭력 치료 프로그램 40시간 이수, 아동·청소년·장애인 관련 기관 취업제한 10년도 명령했다.&lt;br&gt;&lt;br&gt;재판부는 “공소사실 모두 유죄로 인정되며, 중한 책임을 지는 것이 적절하다고 판단했다”며 “이 사건에 대한 책임을 다하고 다시는 형사 법정에 서는 일이 없길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월 중순부터 10월 중순 사이 제주시의 한 식당과 자신이 다니는 고등학교 여자 화장실에 침입, 휴대전화를 이용해 불특정 다수를 대상으로 200여회 불법 촬영을 한 혐의 등으로 재판에 넘겨졌다. 일부 촬영물을 사회관계망서비스(SNS)를 통해 10여 차례 유포한 혐의도 있다.&lt;br&gt;&lt;br&gt;수사 과정에서 A 군 휴대전화 디지털포렌식 결과, 피해자는 교사 10여명과 학생 40여명을 포함해 신원을 특정할 수 없는 관광객 등 216명인 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A군 범행은 앞서 지난해 10월 18일 교사가 교내 화장실에서 촬영 기능이 켜진 휴대전화가 들어있는 갑 티슈를 발견해 경찰에 신고하면서 드러났다. A군은 신고 접수 이튿날 자수했으며, 결국 퇴학 처분을 받았다.&lt;br&gt;&lt;br&gt;1심에서 징역 4년이 선고되자 검찰과 피고인 양측이 모두 항소했으며, 교원단체가 가해자 엄벌을 위한 대응에 나서겠다고 밝히기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘핼러윈 참사’ 관련 용산구 보건소장에 징역 2년 구형</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/13/Y6K6UZ7LFJBZ3HJEAKZDRQPK2I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/13/Y6K6UZ7LFJBZ3HJEAKZDRQPK2I/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 13 Nov 2024 04:59:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VITDKACCEZK5RD64OYZIJCMLFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최재원 용산구 보건소장이 13일 오전 서울서부지방법원에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;핼러윈 참사 당시 직원에게 현장 도착시간을 허위로 기재하게 한 혐의를 받는 최재원(59) 용산구 보건소장에게 검찰이 징역을 구형했다.&lt;br&gt;&lt;br&gt;검찰은 13일 서울서부지법 형사1단독 마은혁 판사 심리로 열린 결심 공판에서 공전자기록등위작·행사 혐의를 받는 최 전 소장에게 징역 2년을 선고해 달라고 요청했다. 이날 검찰은 “보고서 작성 지시를 받은 직원들의 구체적이고 일관된 진술을 보면 허위 기재 사실이 명백하게 인정된다”며 “피고인은 ‘직원들이 문서를 부주의하게 결재했을 뿐 도착시간이 틀렸는지 몰랐다’며 직원들에게 책임을 전가하고 있다”고 구형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;최 전 소장 측 변호인은 최 전 소장이 직원에게 자신의 현장 도착 시간을 허위로 기재하도록 지시한 적이 없으며, 보고서에 적힌 문구를 허위라고 인식하지 못했다는 기존 주장을 되풀이했다. 변호인은 “세세한 도착시간은 피고인뿐만 아니라 신속대응반원 등 보건소 직원 대부분이 착오하고 있었다”고 강조했다. 최 전 소장은 최후진술에서 “공무원으로서 이 자리에 서게 된 것을 매우 송구하게 생각하고 있다”며 고개를 숙였다.&lt;br&gt;&lt;br&gt;최 전 소장은 보고서 5건에 자신의 핼러윈 참사 현장 도착시간을 실제보다 30여분 앞당긴 11시 30분으로 기재하도록 직원에게 지시한 혐의로 작년 3월 재판에 넘겨졌다. 검찰은 최 전 소장이 실제로는 당일 오후 11시 25분 자택에서 출발, 오후 11시 54분 용산구청 당직실에 들러 민방위복을 입은 뒤 신속대응반 직원들과 함께 구급차를 타고 이튿날인 30일 오전 0시 6분쯤 사고 장소에 도착했다고 봤다.&lt;br&gt;&lt;br&gt;최 전 소장의 선고 공판은 오는 1월 8일에 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>사적제재 사망 논란 부른 ‘음주운전 헌터’ 유튜버 구속영장 심사</title>
@@ -846,15 +885,6 @@
       </media:content>
     </item>
     <item>
-      <title>[단독] 울산시 ‘위장 재활용’ 첫 제동…환경부에 대책 마련 요구</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/11/13/CE6TIYVPG5DXXOZCBP52F5ZZWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/11/13/CE6TIYVPG5DXXOZCBP52F5ZZWE/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 13 Nov 2024 02:42:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KAL7OIENVZJLDIRG2D7CXT7QJI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9월 6일 경기 수원시 영통구 수원시자원순환센터에 플라스틱 재활용 쓰레기가 쌓여 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산시가 지방자치단체 중 처음으로 ‘위장 재활용’에 제동을 걸었다. 사업장이 재활용 업체로 보낸 쓰레기가 실제로는 재활용되지 않고 처리비용이 싼 소각장 등에서 태워지는 불법을 막겠다는 것이다. 쓰레기를 소각·매립하지 않고 일단 재활용 업체로 보내기만 하면 재활용률이 100%로 인정돼 최근 전국에서 위장 재활용이 횡행하고 있다.&lt;br&gt;&lt;br&gt;13일 울산시에 따르면, 시는 최근 재활용 업체로 넘어간 쓰레기 중 30% 정도가 실제로는 재활용되지 않고 소각장 등에 넘어가는 불법 행위를 확인해 환경부에 근절 대책 마련을 요청했다.&lt;br&gt;&lt;br&gt;각종 사업장이 밀집해있는 울산 남구 등에선 관내 사업장 폐기물 배출소 252곳에 위장 재활용을 경고하는 취지의 공문을 보냈다. 재활용 업체에 소각장을 활용한 쓰레기 처리가 불법임을 안내하고, 쓰레기를 배출하는 사업장에도 소각·매립이 필요한 쓰레기와 재활용이 가능한 쓰레기를 구분해 성상에 맞게 배출하라고 요청했다.&lt;br&gt;&lt;br&gt;이런 위장 재활용이 발생하는 것은 쓰레기를 재활용 업체로 보내기만 하면 실제 재활용된 양과 상관없이 전량 재활용된 것처럼 실적으로 잡히는 허점을 이용한 것이다. 재활용률이 높아 보이는 효과 덕에 환경부도 문제 해결에 적극적으로 나서지 않으면서 위장 재활용을 방치하고 있다는 지적이 나온다.&lt;br&gt;&lt;br&gt;이런 방법을 쓰면 쓰레기를 소각·매립할 때 부과되는 세금도 우회적으로 피해갈 수 있다. 환경부는 2018년부터 지자체나 사업장이 쓰레기를 소각·매립할 때 1t당 1만원가량의 ‘폐기물 처분 부담금’을 매기고 있다. 부담금을 매겨 소각·매립 대신 재활용을 늘리겠다는 것이 이 법의 취지다. 그러나 유통 과정만 바꾸면 재활용한 것처럼 둔갑하면서 부담금을 피할 수 있게 된 것이다.&lt;br&gt;&lt;br&gt;울산시는 이런 위장 재활용 문제에 대해 환경부에 개선안을 요청했다. 환경부 측에선 아직 답변이나 대책 마련은 하지 않은 것으로 알려졌다. 환경부 측은 “재활용률 과다 산정 오류를 개선하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>국제철학연맹 회장에 김혜숙 이화여대 前 총장</title>
       <link>https://www.chosun.com/national/national_general/2024/11/13/DQSCX3TBINALNLNEPQ4BTZGYKI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/13/DQSCX3TBINALNLNEPQ4BTZGYKI/</guid>
@@ -864,15 +894,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IA27ZW455ZG2HOVC2UULCADKII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김혜숙 이화여대 전 총장. /이화여자대학교&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유럽이 주도하던 국제 철학자 대표 기구 회장에 아시아에서는 처음으로 한국 학자가 선출됐다.&lt;br&gt;&lt;br&gt;이화여자대학교는 지난 8일 국제철학연맹(FISP) 신임 회장으로 김혜숙(70) 이화여대 전 총장(철학과 명예교수)이 선출됐다고 13일 밝혔다. 국제철학연맹 회장에 아시아 출신 철학자가 선출된 것은 이번이 처음으로 임기는 2028년까지다.&lt;br&gt;&lt;br&gt;1948년 설립된 국제철학연맹은 전 세계 130여 개 회원국과 150여 개 회원 학회를 보유한 세계 최고의 철학 분야 비정부 국제기구다. 연맹은 5년마다 열리는 세계 최대 철학자들의 모임이자 ‘철학자들의 올림픽’으로 통하는 세계철학자대회를 주최한다. 한국은 2008년 아시아에서 처음으로 대회를 개최한 바 있다.&lt;br&gt;&lt;br&gt;국제철학연맹은 김 전 총장이 약 40년간 수행한 철학 연구의 전문성과 국제적 리더십을 높이 평가했다. 이에 따라 김 전 총장은 최근 국제철학연맹 차기 회장 지명자 3명을 대상으로 한 1차 투표에서 과반수 득표에 성공하며 회장으로 선출됐다.&lt;br&gt;&lt;br&gt;김 전 총장은 미국 시카고대에서 철학 박사 학위를 받았고, 이화여대 철학과 교수로 있으면서 칸트 철학에 대한 여성주의적 해석을 시도했다. 2007년 한국분석철학회장과 2012∼2013년 한국철학회장, 2009∼2011년 한국상호문화철학회장, 2012∼2014년 한국인문학총연합회 대표회장을 역임했고, 2017년에는 이화여대 창립 131년 만에 처음으로 직선제 총장에 당선됐다.&lt;br&gt;&lt;br&gt;김 전 총장은 “오늘날 철학이 디지털 및 바이오 의료 기술의 혁명이 가져온 급진적 사회 변화로 도전에 직면해 있다”며 “철학이 우리 시대 현실과 소통하고 시급한 이슈에 대한 연맹의 참여를 더욱 강화하는 데 이바지하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“가족 경영은 어려워... 자녀들 하고 싶은 일하면 돼”… 백종원 더본코리아 상장 후일담</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/13/6HHV5YWV7RF5VOIMACQHBVY4DQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/13/6HHV5YWV7RF5VOIMACQHBVY4DQ/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 13 Nov 2024 01:02:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U2XXGOKIIFOUFM5WDRAFJPPQTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백종원 더본코리아 대표. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백종원 더본코리아 대표가 상장 이후 가진 첫 언론 인터뷰에서 상장 소감과 앞으로의 계획 등을 밝혔다.&lt;br&gt;&lt;br&gt;백 대표는 12일 연합뉴스에 “지금까지 (30년간) 준비운동하고 체육복 맞추고 국제적으로 선수 자격증 받고 이제 달려볼까 하는데 다들 ‘감회가 어떠냐’고 묻는다”며 “이제 진짜 달릴 것”이라고 했다. “맥도날드처럼 우리 음식을 어떻게 즐기게 할지 머릿속의 꿈을 실현해 볼 것”이라고도 했다.&lt;br&gt;&lt;br&gt;백 대표가 1994년 설립한 더본코리아는 빽다방, 홍콩반점, 새마을식당 등 25개의 외식 브랜드를 운영하는 프랜차이즈 업체로 지난 6일 유가증권시장에 상장했다.&lt;br&gt;&lt;br&gt;백 대표는 상장에 뛰어든 이유에 대해 “(상장 기업으로서) 공정하게 투명하게, 이 사람 저 사람이 좋은 간섭을 해서 내가 은퇴해도 회사가 오래 갔으면 하는 마음”이라며 “상장했으니 안을 다 보여줄 수밖에 없는데 진짜로 평가받아 그것에 합당한 주가가 유지되는 그림을 그리고 있다”고 했다.&lt;br&gt;&lt;br&gt;백 대표는 “내 나이가 50대 후반이라 은퇴할 무렵에 자식들이 기업을 맡기엔 검증이 되지 않았을 것”이라며 “그때 가서 아빠가 물려줄 수 있는 지분을 갖고 회사를 맡을 수 있다면 다행이지만, 가족 경영인이 되기 어렵다. 창업자 자녀로 자기들 하고 싶은 일 하면 된다”고 했다.&lt;br&gt;&lt;br&gt;백 대표는 최근 심사위원으로 출연한 요리 경연 프로그램 ‘흑백요리사’가 상장에 큰 도움이 됐다고 했다. 백 대표는 “홍콩에서 투자자들을 상대로 기업설명회(IR) 활동을 할 때 많은 도움을 받았다”며 “보통은 (투자자들이) 약속도 안 잡아주고 문 앞에서 돌려보내곤 하는데, 한 번에 10명씩 만나 팬 미팅 하듯이 했다”고 했다. “시즌1 방영이 끝나고 회식했는데, 자연스럽게 (시즌2에 출연)하는 것으로 얘기하더라”라며 “아직 계약서는 안 썼다”고도 했다.&lt;br&gt;&lt;br&gt;더본코리아는 코스피 상장 첫날인 지난 6일 주가가 공모가(3만4000원)보다 51% 오른 5만1400원에 마감했다. 이에 백 대표는 “처음에 주가가 너무 많이 올라 걱정하기도 했다”며 “내가 바라는 건 (주가가) 시작하는 단계에서 조금 더 높은 단계로 서서히 올라가는 모습”이라고 했다. 그러면서 “앞으로 배당을 많이 해야 한다”고 했다. 더본코리아는 첫해 30억원에 이어 50억원, 80억원으로 매년 배당을 늘릴 예정이라고 한다.&lt;br&gt;&lt;br&gt;백 대표는 현재 더본코리아 매출의 85%를 차지하는 프랜차이즈 사업을 계속하면서 다른 사업을 크게 키우겠다는 계획이다. 백 대표는 “프랜차이즈는 우리 기반”이라며 “국내 지역개발 축제, 해외 소스, 외식 이외의 것을 키워서 매출과 영업이익을 높일 수 있다”고 했다.&lt;br&gt;&lt;br&gt;백 대표는 국내 지역 축제와 지역 개발 사업에 대한 기대감도 드러냈다. 백 대표는 “내년에 계약한 축제는 12개”라며 “전국에서 1년에 1300개 정도의 축제가 열리는데, 10%만 우리가 맡아도 액수로 따지면 어마어마하다. 직원을 계속 늘리고 (메뉴 및 콘텐츠) 개발 능력도 키울 예정”이라고 했다. 이어 “지역개발 사업 규모가 클 것”이라며 “개발사업에서 개소당 2억원에서 7억∼8억원에 이르는 용역비가 거의 순이익”이라고 했다.&lt;br&gt;&lt;br&gt;백 대표는 앞으로 더본코리아 주주를 위한 할인 행사를 벌이겠다고도 했다. 백 대표는 “한 주만 있어도 주주라고 확인되면 홍콩반점 짜장면을 50% 할인하는 것 같이 행사를 1년에 서너번은 하려고 한다”며 “한주씩 사는 것이 더본코리아 멤버십이라고 생각해도 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이재명 ‘공직선거법 위반’ 1심 선고 생중계 안 한다</title>
       <link>https://www.chosun.com/national/court_law/2024/11/13/VB3U6ETYRJBZFATI75LTY4JY3A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/13/VB3U6ETYRJBZFATI75LTY4JY3A/</guid>
@@ -880,19 +901,6 @@
       <description/>
       <pubDate>Wed, 13 Nov 2024 00:43:56 +0000</pubDate>
       <content:encoded>법원이 오는 15일 열리는 이재명 더불어민주당 대표의 ‘공직선거법 위반 사건’ 1심 선고 재판을 생중계 하지 않기로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JMSRWVOGKJEHHPEDTQS4PJ34Z4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 12일 오전 이재명 더불어민주당 대표가 '대장동·위례특혜의혹·성남FC' 1심공판에 출석하기 위해 서울중앙지법에 출석하고 있다. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사건을 심리하는 서울중앙지법 형사34부(재판장 한성진)는 13일 “관련되는 법익들을 종합적으로 고려해 판결 선고 촬영·중계방송을 실시하지 않기로 했다”고 했다. 이 대표의 선고 공판은 오는 15일 오후 2시 30분 진행된다.&lt;br&gt;&lt;br&gt;1심 등 하급심의 재판 생중계는 2017년 법원이 ‘법정 방청 및 촬영 등에 관한 규칙’을 개정하면서부터 가능해졌다. 규칙에 따르면, 피고인이 반대하더라도 재판장이 공공의 이익을 위해 상당하다고 판단하는 경우에는 촬영을 허가할 수 있다.&lt;br&gt;&lt;br&gt;지금까지 법원은 1심 선고를 세 차례 생중계했다. 모두 전직 대통령 관련 선고였다. 2018년 4월 6일 박근혜 전 대통령의 국정 농단 사건 선고, 같은 해 7월 박 전 대통령의 국정원 특활비 수수 및 공천 개입 사건, 같은 해 10월 이명박 전 대통령의 횡령·뇌물 사건 1심이었다.&lt;br&gt;&lt;br&gt;그동안 ‘이재명 선고 생중계’를 둘러싸고 정치권 공방이 벌어졌다. 국민의힘은 선고를 생중계해달라는 취지의 탄원서를 법원에 내고 법원 앞에서 ‘1인 시위’를 이어왔다. 반면 민주당은 “망신 주기”라고 반대하면서도 공식 대응은 하지 않았다.&lt;br&gt;&lt;br&gt;법원 내에서도 생중계 여부를 두고 시선이 엇갈렸다. 한 서울중앙지법 판사는 “1심 선고를 생중계하면 이 대표를 ‘대통령급’ 반열에 올려 정치적 체급을 키워주는 것 아니냐”며 “굳이 할 필요가 있나 싶다”고 했고, 또 다른 판사는 “판결 관련 뒷말이 안 나오게 깔끔하게 생중계하는 게 좋을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이재명 운명의 날 D-2, 서초동에 6000명 온다…경찰⋅법원 ‘비상’</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/13/OO6LPHVYSFBF7I47RB2BO2OWSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/13/OO6LPHVYSFBF7I47RB2BO2OWSU/</guid>
-      <dc:creator>안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 13 Nov 2024 01:00:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZUXPOA4DHXZ37BGWSKEXJ2L5H4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 12일 오전 서울 서초구 서울중앙지방법원에서 열린 대장동 배임 및 성남FC 뇌물 의혹 관련 56차 공판에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표의 공직선거법 위반 1심 공판이 오는 15일 오후 2시 30분 서울 서초구 서울중앙지법 서관 311호에서 열린다. 이날 재판은 오는 25일 열리는 위증 교사 사건 1심과 함께 만약 이 대표의 피선거권을 제한하는 형이 나올 시 이 대표의 대권 가도에 영향을 끼칠 수 있는 중요한 재판이다. &lt;br&gt;&lt;br&gt;정치권⋅법조계의 모든 관심이 이날 재판에 쏠리는 가운데, 경찰과 법원도 법원 앞에서 열리는 대규모 집회와 판사의 신변 보호에 촉각을 곤두세우고 있다.&lt;br&gt;&lt;br&gt;민주당 내 이재명 대표의 핵심 친위 세력인 ‘더민주전국혁신회의’ 등 5000명은 13일 오전 11시부터 서울중앙지검 서문 우측에서 2개 차로를 점거하는 대규모 집회를 신고했다. 친명(親明)계 의원이 다수인 더민주전국혁신회의는 현재 민주당의 최대 계파로 꼽힌다.&lt;br&gt;&lt;br&gt;이들은 지난 12일 이 대표 1심 담당 재판부에 이 대표의 무죄 판결을 촉구하는 탄원 서명을 제출하기도 했다. 탄원 서명 참여자는 지난 12일 오후 7시 기준 105만명을 넘어섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IZVGVKAWLRNC7BJKUODQ3HIJQY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표 지지자들이 지난해 9월 26일 오전 서울 서초구 중앙지방법원 앞 도로변에서 법원에 구속영장 기각을 촉구하는 집회를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더민주전국혁신회의뿐 아니라 민주당 최고위원들이 소속된 검찰독재대책위원회도 15일 서울중앙지법 앞에서 공개회의를 진행한다. 이 대표가 무죄인 이유를 주제로 준비한 모두 발언을 할 것으로 예측됐다.&lt;br&gt;&lt;br&gt;이재명 대표 구속을 촉구하는 신자유연대 1000여 명도 이날 오전 9시부터 서울중앙지법 인근 정곡빌딩 앞에서 규탄 집회를 신고했다. 이 집회 역시 2개 차로를 점거한다.&lt;br&gt;&lt;br&gt;경찰은 양측 충돌 등 만약의 사태에 대비한다는 방침이다. 경찰 관계자는 “더민주전국혁신회의 집회 장소와 신자유연대 집회 장소가 불과 300m 거리라 경력을 배치해 충돌을 예방하겠다”고 했다. &lt;br&gt;&lt;br&gt;법원도 흥분한 시위대의 재판정 난입 등에 대비하고 있는 상태다. 서울중앙지법은 서울고등법원과 함께 이 대표 선고에 대비한 ‘질서 유지 계획’을 세웠다. 청사 보안관리대를 특별 편성해 재판부와 일반 방청객의 동선을 분리하는 것이 골자다. 경찰과 협업해 법원 안팎의 안전도 확보한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6X6AKXVYYFOPDEKGCDEOKTS4Y4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;보수단체 회원들이 지난해 9월 26일 오전 서울 서초구 중앙지방법원 앞 도로변에서 법원에 구속 수감을 촉구하는 집회를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/ZUXPOA4DHXZ37BGWSKEXJ2L5H4.jpg?width=600&amp;height=399&amp;auth=3aecf4ceeef6f9bc46973b7dfded3800f46cee0a119761cc8b89ec446aa0a33f&amp;smart=true" type="image/jpeg" height="399" width="600">
-        <media:description type="plain">이재명 더불어민주당 대표가 12일 오전 서울 서초구 서울중앙지방법원에서 열린 대장동 배임 및 성남FC 뇌물 의혹 관련 56차 공판에 출석하고 있다. /뉴시스</media:description>
-        <media:credit role="author" scheme="urn:ebu">황준선</media:credit>
-      </media:content>
     </item>
     <item>
       <title>尹대통령 “모든 수험생 파이팅!”</title>
@@ -915,16 +923,6 @@
         <media:description type="plain">아나운서 출신 모델 김나정(32)이 12일 자신의 인스타그램에 올렸다가 삭제한 글. /인스타그램</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>[단독] ‘명태균 의혹’ 규명 위해 김종인·이준석도 조사 방침</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/13/MGUNLTKPLBB2BCWSDU6D3SQHHY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/13/MGUNLTKPLBB2BCWSDU6D3SQHHY/</guid>
-      <dc:creator>유희곤 기자, 창원=김준호 기자, 창원=이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Nov 2024 20:04:00 +0000</pubDate>
-      <content:encoded>‘윤석열 대통령 부부 공천 개입’ 의혹을 수사하는 검찰이 김종인 전 국민의힘 비상대책위원장과 이준석 전 국민의힘 대표(현 개혁신당 의원)를 조사할 방침인 것으로 12일 전해졌다. 지난 11일 공천 거래 혐의로 구속영장이 청구된 명태균씨가 여러 선거 공천에 개입하는 데 이들이 관여한 정황을 포착했다는 것이다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 창원지검 전담수사팀(팀장 이지형 차장검사)은 지난달 압수 수색을 통해 명씨가 미래한국연구소에서 쓰던 PC에 남아 있는 카카오톡 대화 내역을 확보했다. 여기에는 2022년 5월 9일 오전 0시 20분쯤 당시 국민의힘 대표였던 이준석 의원과 명씨가 나눈 카카오톡 대화가 포함됐는데, 이 의원이 먼저 “윤(석열) 당선인이 김영선은 경선을 해야 한다더라”라는 취지의 메시지를 보내자 명씨가 “전략 공천인 것으로 안다. 확인해보겠다”고 답했다고 한다.&lt;br&gt;&lt;br&gt;이 의원과 명씨는 김건희 여사, 국민의힘 재‧보궐 선거 공천관리위원장이던 윤상현 의원, 함성득 경기대학교 정치전문대학원장 등의 이름을 언급하며 공천이 무산될 경우 대응 방안을 논의하는 대화도 나눈 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6OHFGCXULZBTFEYQLHNUZ66YNM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 명씨는 날이 밝자 대통령 취임을 하루 앞둔 윤석열 당선인에게 “김영선 의원의 공천을 부탁드린다”는 내용의 메시지를 보냈다. 이후 오전 10시쯤 윤 대통령과 통화가 이뤄졌다. 이때 윤 대통령은 “김영선이를 (공천) 좀 해줘라 했는데 말이 많네 당에서...”라고 했고, 명씨는 “진짜 평생 이 은혜를 잊지 않겠습니다. 고맙습니다“라고 했다.&lt;br&gt;&lt;br&gt;통화가 끝난 뒤 명씨는 이준석 의원에게 “(윤 대통령이) 윤상현 의원에게 전화해 김영선 전략 공천 주겠다고 말씀하셨다”는 취지의 메시지를 보냈다. 또 윤 대통령에게 다시 김 전 의원의 공천을 부탁하는 메시지를 보냈다고 한다. 김 전 의원은 이튿날 경남 창원 의창 선거구 국민의힘 후보로 공천됐다. 명씨는 검찰에서 “공천 결과 발표를 하루 앞두고 ‘경선을 치를 수도 있다’는 이 의원 말에 윤 대통령에게 연락하게 됐다“ ”대통령과 통화 중 공천관리위원회를 언급하는 부분이 있어서, 그걸 윤상현으로 바꿔 과장해 말했다” 등의 진술을 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰은 명씨가 김 전 의원 공천에 개입하는 과정에서 이 의원이 어떤 역할을 했는지 규명하기 위해 조사가 필요하다는 방침을 세운 것으로 알려졌다. 검찰 관계자는 “윤 대통령 부부를 비롯해 많은 정치인이 등장하지만 아직은 의혹을 규명하는 단계에 불과하다. 명씨 등의 혐의 입증에 주력하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;검찰은 또 김 전 위원장과 명씨의 관계도 살펴보고 있다. 검찰은 김 전 위원장이 2022년 지방선거 당시 대구시장 선거와 관련해 ‘김재원(국민의힘 최고위원)하고 유영하(국민의힘 의원)가 단일화를 할 것 같냐, 명 박사 어떻게 생각해’라는 메시지를 보낸 사실을 확인했다. 명씨는 검찰에서 김 전 위원장에 대해 “2020년 10~11월 중 김영선 전 의원과 함께 김 전 위원장의 자택을 찾아 처음 만났고, 그다음 날 아침부터 전화로 현안을 논의했다“면서 ”매일 연락해 의견을 묻는 사이”라고 했다. 검찰은 명씨가 정치계 원로인 김 전 위원장을 통해 다른 지역구 선거에도 관여했는지를 조사 중이다.&lt;br&gt;&lt;br&gt;한편, 검찰은 명씨의 카카오톡 대화 내역 중 자신에게 보낸 녹음 파일이 있는 점 등으로 미뤄 통화 녹음 파일을 USB 등 다른 저장 장치로 빼돌렸을 것으로 의심하고 있다. 검찰은 또 명씨가 대선 직후 김건희 여사로부터 돈봉투를 받은 사실도 확인했다고 한다. 이에 대해 명씨는 “액수와 시기는 기억이 안 난다. 교통비 수준의 소액이었던 것 같다”고 진술했다고 한다.&lt;br&gt;&lt;br&gt;검찰은 명씨의 구속영장에 “국민의힘 대표, 대통령 후보 부부 등 정치인과의 친분을 과시하며 범행을 저질렀고, 스스로 국회의원의 지위에서 정치 활동을 했다”고 적시했다. 명씨의 영장실질심사는 14일 오후 창원지법에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/K7BQ74FIGNEKTIS23HEWQP2QQE.png?width=1200&amp;height=675&amp;auth=adb8b05f70bf192b72cbe6535fb1da2e509e0643d78c1330581ae27ee632d99c&amp;smart=true" type="image/png" height="675" width="1200"/>
     </item>
     <item>
       <title>李 선거법 1심만 799일… 평균보다 6.7배 더 걸려</title>
