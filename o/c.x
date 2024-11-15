@@ -13,6 +13,73 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>의대생 단체 “내년에도 ‘대정부’ 투쟁”…3월 복학 여부 불투명</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/11/15/GHILM36Y5BCLVDT7AQI2RUYQV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/11/15/GHILM36Y5BCLVDT7AQI2RUYQV4/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 14 Nov 2024 22:15:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KA5QQM3LKRIBLHZYQ6MVXDU4Z4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한의과대학·의학전문대학원학생협회 소속 의대생들이 15일 확대전체학생대표자 총회를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부의 의대 증원 정책 등에 반발해 휴학 중인 의대생들이 내년에도 ‘의대 증원 저지 투쟁’을 이어가기로 했다. 의대생들의 내년 3월 복학 여부가 불투명한 상태로 남게된 것이다.&lt;br&gt;&lt;br&gt;대한의과대학·의학전문대학원학생협회(의대협)는 15일 확대전체학생대표자 총회를 열어 이 같이 결정했다. 이날 총회에는 전국 40개 의대 학생회·학년별 대표자 등 270여명이 참석했다.&lt;br&gt;&lt;br&gt;의대협은 ‘정부가 초래한 시국 문제를 바로잡기 위해 협회의 대정부 요구안 관철을 위한 투쟁을 2025학년도에 진행한다’는 안건이 찬성 267명, 기권 2명으로 가결됐다고 밝혔다. 의대협은 지난 3월 의대 정원 증원 전면 백지화 등 8대 요구안을 발표한 바 있다.&lt;br&gt;&lt;br&gt;다만 ’2025년 투쟁’을 어떤 방식으로 전개할 지는 아직 확정되지 않았다. 의대협 관계자는 “향후 대의원회 회의 등을 통해 구체적 투쟁 방식을 논의할 것”이라며 “(현 시점에서) 휴학이나 수업 거부, 제적 결의 등을 말씀드릴 수 있는 단계는 아니다”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“죄를 만들어 선고하나” Vs. “대한민국 만세”... 판결 순간의 서초동</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/15/PWSDJNQVFNB7ZAFHZ2EU6ZXNMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/15/PWSDJNQVFNB7ZAFHZ2EU6ZXNMU/</guid>
+      <dc:creator>이민준 기자, 방극렬 기자, 안준현 기자, 강지은 기자, 김보경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 15 Nov 2024 10:01:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O4HMZS3WI5POJFXE3QRRY7PSBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 15일 서울 서초구 서울중앙지방법원에서 열린 공직선거법 위반 사건 관련 1심 선고 재판에서 징역 1년에 집행유예 2년을 선고받았다. 사진은 이날 법정 출석 전 후의 이재명 더불어민주당 대표./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표는 15일 오후 2시 16분쯤 서울 서초구 서울중앙지법 서관에 도착했다. 차에서 내린 그는 웃으며 자신을 기다리고 있던 민주당 의원 수십명과 일일이 악수를 나눴다. ‘4개 재판 중 첫 선고인데 심경 한 말씀 부탁드린다’는 취재진 질문엔 묵묵부답이었다.&lt;br&gt;&lt;br&gt;이 대표가 재판정인 서울중앙지법 311호에 들어선 시각은 오후 2시19분이었다. 방청 대기 중이던 지지자들이 “대표님 힘내세요” “이재명 무죄다” “파이팅” 등을 외쳤다. 이 대표는 재판부 입장 전 피고인석에 앉아 휴대전화를 계속 봤다.&lt;br&gt;&lt;br&gt;선고는 오후 2시38분부터 오후 3시까지 22분간 진행됐다. 재판장인 한성진 부장판사가 선고 내용을 읽는 동안 이 대표는 피고인석에서 선 채, 무표정한 얼굴이었다. 백현동 개발 혐의에 대해 유죄 판단 내용에 이 대표는 이를 앙 다물기도 했다. 징역 1년, 집행유예 2년이 선고되는 순간 방청석에선 ‘아’ 하는 탄식이 나왔다.&lt;br&gt;&lt;br&gt;오후 3시 4분쯤 유죄 판결 내용이 법원 바깥에 알려지자 이 대표 지지자들은 동요했다. 여기저기서 “미친 X들” “죄를 만들어 선고하냐” “이재명이 무슨 잘못을 했느냐”는 외침이 들려왔다. 한 젊은 여성은 주저 앉아 울었고, 한 노인은 “무리한 기소를 한 정치검찰이 문제”라고 고성을 질렀다.&lt;br&gt;&lt;br&gt;이 대표의 퇴정을 기다리며 서 있던 의원들의 표정도 굳었다. 이건태 의원은 양손을 모으고, 입술을 굳게 다문 채 이 대표가 나오길 기다렸다. 일부 의원들은 고개를 들어 먼 산을 쳐다보기도 했다. 욕설이 계속 되자 김현 의원이 지지자들에게 다가가 “조금만 자제해주시라”고 부탁했지만, 지지자들은 김 의원에게 “저리 가라”고 손짓하기도 했다.&lt;br&gt;&lt;br&gt;이 대표는 오후 3시 10분쯤 서관 앞에 모습을 드러냈다. 법원에 출석할 때 옅은 미소를 띄웠지만, 퇴정할 때는 굳은 표정이었다. 입장을 발표하기 전 곁에 서 있는 의원들에게 이 대표가”(지지자들이) 좀 조용히 해주면 좋겠는데”라고 말하자, 의원들은 위아래로 크게 손짓하며 목소리를 낮춰달라고 했다.&lt;br&gt;&lt;br&gt;이 대표 지지 집회의 한 지지자는 “그 다음주부터는 한남동 관저를 둘러싸고 윤석열이 나올 때까지 모입시다”며 “국민 여러분 나오십시오 분노하십시오”라고 외치기도 했다. “이게 나라냐!”라며 호응하는 참가자들도 있었다.&lt;br&gt;&lt;br&gt;중앙지법 서문 앞에서는 이 대표 구속을 촉구하는 집회가 진행됐다. 선고 공판이 진행 중인 오후 2시 56분쯤 사회자는 “김문기 몰랐다 발언, 허위사실 맞답니다!”며 환호했다. 곧이어 백현동 부지 발언에 대한 허위사실 공표 혐의가 인정되고 징역형 집행유예가 선고되면서, 집회 참가자들은 1분간 함성을 지르거나 만세삼창을 했다. 집회는 순식간에 축제 분위기로 바뀌었고 “대한민국 만세!” “이재명 구속” 같은 구호가 들렸다. 애국가를 부르는 사람들도 있었다.&lt;br&gt;&lt;br&gt;서울중앙지법 안팎에선 이 대표 지지 시위대 4000여명(이하 경찰 추산)과 반(反) 이재명 시위대 1000여명가 대치했다. 이 대표가 법원에 들어설 때부터 떠날 때까지 반 이재명 시위대가 “이재명 구속”을 외치자 이 대표 지지자들은 “김건희 구속”으로 받아쳤다. 1심 재판을 마치고 이재명 대표를 따라 법원에서 나오던 안귀령(35) 더불어민주당 대변인이 이재명 구속 주장 시위대에 “곱게 늙어라”라며 소리를 지르는 일도 발생했다. ‘김건희 특검’을 주장하는 신원불명의 남성은 신발을 던져 폭행 혐의로 현행범으로 체포됐다. 경찰은 이날 만일 사태에 대비해 40여개 중대 2500명 경찰을 현장에 투입했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“명태균, 창원산단 후보지 주변 땅 권유”...민주당 의혹 조사 </title>
+      <link>https://www.chosun.com/national/2024/11/15/JS5BKLOTYRDHNDXRCVJUT7SHEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/11/15/JS5BKLOTYRDHNDXRCVJUT7SHEQ/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 15 Nov 2024 10:00:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XQ6MQEKXWFPRTKYFNBNX5BWPFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 오후 더불어민주당 '명태균 게이트 진상조사단' 내 '창원산단 등 국정개입의혹 조사본부' 소속 허성무 국회의원이 15일 오후 경남 창원시 의창구 동읍 국가산단 후보지 인근에서 취재진 질문에 답변하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘공천 거래’ 혐의로 구속된 명태균씨가 선정 과정부터 개입했다는 의혹이 제기되고 있는 창원제2국가산업단지에 대해 민주당이 15일 산단 후보지를 찾아 현장 조사를 벌였다.&lt;br&gt;&lt;br&gt;민주당 ‘창원산단 등 국정개입의혹 조사본부’(민주당 조사본부)는 이날 오후 창원시 의창구 창원제2국가산단 후보지에서 최근 창원산단 관련 의혹에 대한 현장 관계자 의견을 듣고, 현재까지 접수한 제보 내용 등을 확인했다고 밝혔다.&lt;br&gt;&lt;br&gt;이 의혹은 민간인 신분인 명씨가 창원국가산단 선정 과정에 초기부터 개입했고, 대외비인 후보지 지정 사실도 정부 공식 발표 전에 미리 알았다는 것이다.&lt;br&gt;&lt;br&gt;조사본부는 산단 후보지 발표 1년 전인 2022년 5∼12월 월평균 22.5건이던 후보지 일원 토지거래 건수(소유권 이전 건수)가 정부 발표쯤인 지난해 1∼3월에는 월 70건을 기록했다는 자체 조사 결과를 공개했다.&lt;br&gt;&lt;br&gt;염태영 조사본부장은 “창원국가산단 최종 후보지가 결정(지난해 3월 15일 공식 발표)되기 전, 투기와 토지거래를 하려고 하는 사람들이 명씨에게 부지가 후보지에 포함되는지를 확인받고, 직접 문의했다는 진술을 청취했다”며 “명씨가 (후보지 선정) 몇 개월 전부터 이와 관련된 정보를 갖고 땅을 사게 권유하고 실제 주변 땅을 사는 일까지 벌어졌다”고 주장했다.&lt;br&gt;&lt;br&gt;앞서 지난 12일 민주당 조사본부는 국회에서 연 기자회견에서 “명태균씨가 창원산단 발표 5개월 전인 2022년 10월 창원시 공무원들로부터 대외비 문서를 보고받았고, 2022년 11월 23일 국토부 실사단이 왔을 때는 직접 안내했다”며 “후보지 발표 하루 전에는 강혜경씨에게 현수막 제작을 지시했다는 증언이 나왔다”고 밝혔다. 명씨와 강혜경씨가 2022년 11월 23일 나눈 통화 녹취록에 따르면 명씨는 “윤석열 사진을 위로 올려서 그 크기로 ‘국가 산단이 필요합니다’ 넣어야 한다” “이건 부탁하는 거거든, 사모(김 여사)한테”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QSQ3VZEF7JBHHKSDJYXAGJ2CSA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 14일 오후 경남 창원시 성산구 창원지방법원에서 공천 대가 돈거래’ 혐의를 받는 명태균씨가 법원의 구속 전 피의자 심문(영장실질심사)을 마치고 호송차에서 눈을 감고 있다. 명씨는 15일 새벽 구속됐다. /창원=김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주당은 이를 바탕으로 명씨가 김건희 여사를 통해 창원산단 부지 선정 과정에 개입했다고 의심하고 있다. 특히 명씨가 창원산단 후보지 정보를 주변 사람들에게 알렸고, 일부는 후보지 인근의 토지 매수에 나섰다는 의혹도 제기됐다. 지난달 21일 국감 증인으로 출석한 강혜경씨는 “(명씨가) 주변 사람들한테도 땅을 사라고 권유했다”는 취지로 증언하기도 했다.&lt;br&gt;&lt;br&gt;이에 대해 국토교통부는 지난달 19일 설명자료에서 “신규 산단 후보지는 전문가 및 관계 부처 등으로 구성된 위원회에서 공정하게 선정해 외부인이 관여할 수 없다”고 했다. 민간전문가로 구성된 전문가평가위원회에서 국가전략산업으로서의 가치, 기업 유치 가능성, 개발 용이성 등을 종합 평가해 선정했다고 덧붙였다.&lt;br&gt;&lt;br&gt;창원시도 의혹에 사실이 아니다라는 입장문을 냈다. 명씨는 지난 9일 검찰 조사를 받고 나오면서 “창원산단은 제가 창원시한테 제안한 것이고, 제가 제안자이기 때문에 (창원시 공무원들이) 저한테 와서 확인한 것”이라며 “근데 제가 제안한 대로 국가산단이 이뤄졌느냐. 제가 땅 한 평 샀느냐”고 의혹을 부인했다.&lt;br&gt;&lt;br&gt;검찰은 ‘공천 거래’ 혐의로 15일 새벽 구속한 명씨를 12시간 만에 검찰로 불러 조사를 이어갔다. 검찰은 최대 구속 기한인 20일간 명씨를 상대로 국민의힘 공천에 개입한 의혹, 여론조사 조작 의혹, 창원산업단지 선정 정보 유출 등 이른바 3대 의혹을 규명하는 데 수사력을 집중한다는 방침을 세운 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부천도시공사 소속 40대 직원, 작업 중 15m 아래로 추락해 숨져</title>
+      <link>https://www.chosun.com/national/incident/2024/11/15/2GMGYQSWNNHEDADUJMKTLXNGOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/15/2GMGYQSWNNHEDADUJMKTLXNGOM/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 15 Nov 2024 09:46:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7PBQ3JVXHFCPNHJLD4NBFMIVOQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;15일 오전 10시 40분쯤 경기 부천시 오정구 오정레포츠센터에서 작업 중이던 40대 남성 A씨가 추락해 숨졌다. 사진은 사고 현장. /부천소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 부천도시공사 소속 직원이 지하 폐기물 처리를 위한 준비 작업을 하던 중 15m 아래 지하로 떨어져 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;15일 경기 부천소방서와 부천 오정경찰서 등에 따르면 이날 오전 10시 40분쯤 경기 부천시 오정구 오정레포츠센터에서 작업 중이던 40대 남성 A씨가 15m 지하로 추락하는 사고가 발생했다.&lt;br&gt;&lt;br&gt;A씨는 신고를 받고 출동한 119 구급대에 의해 인근 병원으로 옮겨졌으나 끝내 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 부천도시공사 소속 직원으로, 지하 냉난방 기계실의 폐기물을 지상으로 꺼내기 위한 준비 작업을 하던 중 사고를 당한 것으로 파악됐다. 당시 준비 작업은 A씨 혼자 하고 있었다고 한다.&lt;br&gt;&lt;br&gt;오정레포츠센터는 부천도시공사가 관리하는 체육시설로, 수영장, 다목적 실내 운동장, 농구장 등을 갖추고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “사고 당시 현장을 비추던 감시카메라(CCTV)가 없어, 동료 직원 등을 대상으로 구체적인 사고 경위와 안전 수칙 준수 여부 등을 조사할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;중부지방고용노동청은 이번 사고와 관련, 중대재해처벌 등에 관한 법률 위반 여부를 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘8억 뜯긴’ 김준수 “당당하다... 잘못한 거 없어” 입장 밝혀</title>
+      <link>https://www.chosun.com/national/people/2024/11/15/E3XDCBAT7VFI5LOMZKBVLOUMTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/15/E3XDCBAT7VFI5LOMZKBVLOUMTM/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 15 Nov 2024 09:33:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ES3ENVXUCNMFHXZ7SA222XRYYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 동방신기 출신 가수 겸 뮤지컬배우 김준수./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 동방신기 출신 가수 겸 뮤지컬 배우 김준수(시아준수)가 온라인 동영상 플랫폼 숲(옛 아프리카TV) 여성 BJ에게 협박당해 8억원 상당의 금품을 빼앗긴 사건과 관련해 “당당하고 잘못한 게 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;김준수는 15일 팬 플랫폼 메시지를 통해 팬들에게 직접 입장을 밝혔다. 그는 “갑자기 이런 기사로 놀라게 해서 미안하다”고 사과했다. 이어 “5년 동안 괴롭혀서 더 이상 못 참겠더라. 그래서 마음을 먹었고, 죄질이 너무 나쁘다는 결론으로 결국 체포돼 구속심사 적부심 중”이라며 “더 빨리했어야 했는데 이런 기사조차도 우리에겐 좋지 않다는 걸 너무 잘 아니까”라고 했다.&lt;br&gt;&lt;br&gt;그는 “난 당당하다. 잘못한 거 없다”며 “5년 전 얘기고, 그 후로 난 이런 것도 내 실수라고 생각해서 사람들을 안 만난 것”이라며 “어떤 의도의 접근인지 우리는 (일이) 터져야만 알 수 있으니까. 그래서 그때부터 그 누구도 비즈니스 이외에는 안 만나야겠다고 다짐한 게 5년 전”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “어떻게 보면 그 친구(여성 BJ)한테 고맙다”며 “그 후부터 더 이상 그런 자리나 만남을 죽어도 안 하리라고 맹세했고 지켜왔기 때문”이라고 했다. 또 “경찰도 이런 애가 사회에 버젓이 있다는 게 믿을 수 없다고 할 정도였다. 그래서 용기를 냈다”며 “6명 이상의 피해자가 더 있다는 걸 듣고 더 이상 참을 수 없었다. 난 한다면 하는 사람”이라고 전했다.&lt;br&gt;&lt;br&gt;앞서 경기북부경찰청 형사기동대는 특정경제범죄가중처벌법상 공갈 혐의로 아프리카TV 여성 BJ A씨를 15일 구속 송치했다고 밝혔다. A씨는 지난 2020년 9월부터 지난달까지 김준수를 협박해 101차례에 걸쳐 8억4000만원 상당의 금품을 빼앗은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 지난 2019년 김준수를 알게 된 뒤 그와의 대화 및 음성을 녹음해왔다. 이후 해당 녹음 파일을 온라인에 유포할 것처럼 협박하고 이를 막는 대가로 김준수에게서 금품을 받은 것으로 알려졌다. A씨는 현재 김준수 사건 외에도 서울중앙지법에서 마약류 관련 사건으로도 재판을 받고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>현직 강남경찰서 강력계 간부, 음주운전하다 교통사고</title>
+      <link>https://www.chosun.com/national/incident/2024/11/15/IWCVAO3NSVAI3NJSTU3O3OTLJE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/15/IWCVAO3NSVAI3NJSTU3O3OTLJE/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 14 Nov 2024 21:32:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PODMGVEKJ3L3I6F4X7WK4M2VKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 일선 경찰서의 강력계 간부가 음주운전을 하다가 교통사고를 냈다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 강남경찰서 소속 현직 강력계 간부 A 경감이 14일 오후 11시 27분쯤 SUV차량을 몰다 경기도 과천터널 근처에서 가드레인을 들이받는 사고를 냈다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;A 경감의 당시 혈중알코올농도는 면허 취소 수치였다.&lt;br&gt;&lt;br&gt;강남경찰서 관계자는 “A 경감이 부상은 크게 입지 않았다”면서 “관계자들과 함께 논의해 인사 조치와 징계 절차를 결정하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PODMGVEKJ3L3I6F4X7WK4M2VKY.jpg?width=4000&amp;height=2252&amp;auth=fd28f2c30690cbb127ee9aa2091267525db6ae88e297530315769950ed48eb91&amp;smart=true" type="image/jpeg" height="2252" width="4000">
+        <media:description type="plain">서울 강남경찰서 전경./뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>이재명 '의원직 상실형' 선고에도…검찰 “항소 검토”</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/15/G7WC54EEWJDHPEX3HH3IECJ75E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/15/G7WC54EEWJDHPEX3HH3IECJ75E/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 15 Nov 2024 09:09:13 +0000</pubDate>
+      <content:encoded>15일 이재명 더불어민주당 대표가 공직선거법 위반 사건 1심 재판에서 의원직 상실형을 선고받았지만, 검찰은 항소를 검토한다고 밝혔다. 법원이 선고한 형량이 검찰의 구형량에 미치지 못해 항소를 검토한다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ARYL5ZVLFRKC5M27G6FMHVQDU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표의 공직선거법 위반 혐의 1심 선고 공판이 열리는 15일 오전 서울 서초구 서울중앙지방검찰청, 서울중앙지방법원 등 일대에 경찰 기동대가 근무하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검은 이날 “판결문을 면밀히 검토해 항소 여부를 결정하겠다”며 이같이 밝혔다. 앞서 검찰은 지난 9월 20일 열린 이 사건 결심 공판에서 이 대표에게 징역 2년을 구형했었다. 검찰은 구형 당시 “이 대표는 자신의 대통령 당선을 위해 전 국민을 상대로 반복적으로 거짓말을 한 것”이라며 “전파성이 높은 방송에서 거짓말을 반복해 유권자 선택에 지대한 영향을 미쳤음이 명백하다”고 했다.&lt;br&gt;&lt;br&gt;이 대표도 이날 선고가 끝난 뒤 항소하겠다는 입장을 밝혔다. 그는 서울중앙지법 서관 앞에서 취재진과 만나 “수긍하기 어려운 결론”이라며 항소 계획을 밝혔다. 이 대표는 “현실의 법정은 아직 2번 더 남아 있고, 민심과 역사의 법정은 영원하다”고 말했다. 항소심에서도 유죄가 인정될 경우 대법원에 상고하겠다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7OCZPEBGHBINBNT6H47TRJ77BA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 15일 오후 서울 서초구 서울중앙지법에서 열린 공직선거법 위반 혐의 관련 1심 선고 공판을 마친 뒤 법원 청사를 나서고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사34부(재판장 한성진)는 이날 이 대표에게 징역 1년에 집행유예 2년을 선고했다. 재판부는 “선거 과정에서 유권자에게 허위 사실이 공표되는 경우 유권자가 올바른 선택을 할 수 없게 돼 민의가 왜곡되고, 선거 제도의 기능과 대의민주주의의 본질이 훼손될 염려가 있다는 점에서 죄책이 가볍다고 할 수 없다”며 선고 이유를 밝혔다.&lt;br&gt;&lt;br&gt;이 형이 대법원에서 확정될 경우 이 대표는 의원직을 잃게 된다. 선거법 위반죄로 징역형의 집행유예가 확정되면 10년간 피선거권이 박탈돼 대선에도 출마할 수 없다. 민주당이 지난 대선 선거 비용으로 보전받은 434억여 원도 중앙선거관리위원회에 반환해야 한다.&lt;br&gt;&lt;br&gt;‘항소장을 (오늘) 바로 제출하느냐’는 취재진 질문에 이 대표는 답하지 않고 법원을 떠났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>이재명 서울중앙지법 도착... 기자들 질문에 ‘묵묵부답’</title>
       <link>https://www.chosun.com/national/court_law/2024/11/15/6SGGPXR2IFFX3FLJRIYJJ3Z4CQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/15/6SGGPXR2IFFX3FLJRIYJJ3Z4CQ/</guid>
@@ -880,33 +947,6 @@ The Chosunilbo</media:credit>
       <content:encoded>대법관후보추천위원회는 14일 오는 12월 임기 만료로 퇴임하는 김상환 대법관의 후임으로 4명을 조희대 대법원장에게 추천했다.&lt;br&gt;&lt;br&gt;후보자 모두 서울대 출신·남성으로, 3명은 현직 법관이고 1명은 법관 출신 변호사다. 조 대법원장은 조만간 이들 중 한 명을 윤석열 대통령에게 임명 제청할 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AYA6TP2XBJNTXK4F5MYOPFSZGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원이 올해 12월 27일 퇴임하는 김상환 대법관의 뒤를 이을 후보자 4명의 명단을 14일 공개했다. 사진은 왼쪽부터 마용주, 심담, 조한창, 홍동기 후보자. /대법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현직 법관 중에서는 홍동기 서울고법 수석부장판사(56·22기)와 마용주(55·23기)‧심담(55·24기) 서울고법 부장판사가 추천됐다. 서울고법 부장판사 출신인 조한창(59·18기) 법무법인 도울 변호사도 추천됐다.&lt;br&gt;&lt;br&gt;홍동기 서울고법 수석부장판사는 세종고, 서울대 사법학과를 졸업했다. 1996년 서울지법 판사로 시작해 대법원 양형위원회 운영지원단장, 법원행정처 윤리감사심의관·공보관·기획조정실장 등을 지냈다.&lt;br&gt;&lt;br&gt;마용주 서울고법 부장판사는 낙동고, 서울대 사법학과를 졸업했다. 1997년 서울지법 판사로 임관해 법원행정처 인사관리심의관·윤리감사관, 대법원 수석재판연구관 등을 거쳤다. 수석재판연구관은 전원합의체를 비롯한 대법원 재판을 보조하는 자리로 ‘대법관 등용문’으로 불리기도 한다.&lt;br&gt;&lt;br&gt;심담 서울고법 부장판사는 보성고, 서울대 사법학과를 졸업했다. 1998년 서울지법 판사로 시작해 사법연수원 교수, 대법원 재판연구관, 부산고법·서울고법 부장 등으로 일했다.&lt;br&gt;&lt;br&gt;조한창 변호사는 현직 법관이 아닌 유일한 후보자다. 상문고, 서울대 사법학과를 졸업해 1992년 부산지법 동부지원 판사로 시작했다. 대법원 재판연구원, 사법연수원 교수, 서울행정법원 수석부장 등을 거쳤다. 2021년 법원을 떠난 이후 변호사로 활동하고 있다.&lt;br&gt;&lt;br&gt;이광형 추천위원장은 “풍부한 법률 지식과 합리적인 판단 능력 등 법률가로서의 전문성은 물론이고, 국민의 자유와 권리 보장에 대한 확고한 의지·사회적 약자에 대한 강한 신념·포용력과 통찰력 등을 두루 갖춘 후보자를 추천하려 노력했다”고 밝혔다.&lt;br&gt;&lt;br&gt;조 대법원장은 오는 19일까지 법원 안팎의 의견을 수렴한 뒤 최종 후보자 1명을 선정해 윤 대통령에게 임명 제청할 예정이다. 통상 추천위의 추천 후 대법원장이 임명을 제청하기까지 10일 정도 걸린다.&lt;br&gt;&lt;br&gt;대법관 후보들이 국회 인사 청문회와 본회의 표결을 통과하면 대통령이 대법관으로 최종 임명하게 된다. 이번에 새 대법관들이 임명되면, 대법원장을 포함한 대법관 14명 중 9명이 윤석열 정부에서 임명되게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>새 경북대 총장에 허영우 교수…“세계가 주목하는 ‘초일류 대학’ 만들겠다.”</title>
-      <link>https://www.chosun.com/national/regional/2024/11/14/3MB5L7UVFBDWFFADF23VS5NZHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/14/3MB5L7UVFBDWFFADF23VS5NZHA/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Nov 2024 09:12:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RF74424GM5EUDPUCKQON5MEAXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제20대 경북대 총장 허영우 교수./경북대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제20대 경북대 총장에 허영우(56·공과대학 신소재공학과) 교수가 14일 임명됐다. 임기는 15일부터 4년이다.&lt;br&gt;&lt;br&gt;허 신임 총장은 이날 “인류 중심의 기술 혁명이 세상을 바꾼다. 초연결 사회를 더욱 정교하게 이어주는 중심에 경북대가 있다”며 “지역과 국가 산업을 선도하는 연구중심대학으로 혁신적 전환을 이뤄나갈 것”이라고 말했다.&lt;br&gt;&lt;br&gt;또 “교수, 직원, 학생들과 동문, 그리고 지역민을 포함해 경북대를 사랑하는 모든 분들과 함께 경북대를 세계가 주목하는 ‘초일류 대학’으로 만들어 가겠다”고 포부를 밝혔다.&lt;br&gt;&lt;br&gt;경북대 무기재료공학과 학·석사를 졸업한 허 총장은 미국 플로리다대에서 박사학위를 받은 뒤 2005년부터 경북대 교수로 재직해왔다. 경북대 공과대학장 겸 산업대학원장, 투명산화물반도체연구회장, 한국연구재단 전문위원 등을 지냈다. 현재 한국표면공학회 남부지회장, 경북대 첨단소재연구소장 등을 맡고 있다.&lt;br&gt;&lt;br&gt;허 신임 총장의 취임식은 다음 달 11일에 열릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>직무대리 검사 ‘퇴정’ 논란…대검 “75년간 이어온 적법한 제도”</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/14/J36KKVGVJJBHXE4ZUDJ2IE3MZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/14/J36KKVGVJJBHXE4ZUDJ2IE3MZA/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Nov 2024 09:18:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6G7VHVIILI7FXJ3OGSZCYX525Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘성남FC 불법 후원금’ 사건 재판부가 지난 11일 직무대리 발령을 받아 재판에 참여한 정모 검사에게 퇴정 명령을 내려 논란이 되고 있다. 민주당 검찰독재대책위원회는 “법원이 위법 부당함을 결정한 검사 등에 대해 고발 조치도 할 것”이라고 했다. 그러자 대검은 14일 입장문을 내고 “75년간 이어온 제도로, 적법하게 이뤄진 조치”라며 “전직 대통령 재판도 직무대리로 이뤄졌다”고 반박했다.&lt;br&gt;&lt;br&gt;정 검사는 성남지청에 근무하면서 성남FC 사건 수사를 담당했던 검사다. 현재 부산지검 소속인데 작년 9월부터 서울중앙지검에 직무대리 검사로 근무하고 있다. 성남지원에서 재판이 열리는 날에는 성남지청 검사로 1일짜리 직무대리 발령을 받아 공판에 들어가고 있다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇'검찰청법 5조’가 뭐기에&lt;/b&gt;&lt;br&gt;&lt;br&gt;당시 재판부는 “검사 인사는 법무부 장관 통제를 받도록 하고 있는데, 인사권이 없는 검찰총장이 이중으로 직무대리 발령을 내린 건 검찰청법 5조 위반으로 위법”이라고 했다.&lt;br&gt;&lt;br&gt;재판부가 퇴정 근거로 든 ‘검찰청법 5조’는 검사의 직무관할을 규정한 조항이다. 검찰청법 5조는 ‘검사는 법령에 특별한 규정이 있는 경우를 제외하고는 소속 검찰청의 관할구역에서 직무를 수행한다. 다만, 수사에 필요한 때에는 관할구역이 아닌 곳에서 직무를 수행할 수 있다’고 돼 있다.&lt;br&gt;&lt;br&gt;또 검찰근무규칙 제4조 1항은 ‘검찰총장은 직무수행상 필요하고 또한 부득이한 경우에 그 관할에 속하는 검찰청의 검사 상호 간에 그 직무를 대리하게 할 수 있다’고 돼 있다.&lt;br&gt;&lt;br&gt;대검은 “검찰총장은 대검찰청을 포함한 전국 67개 검찰청에 있는 모든 업무를 지휘하고 있고, 따라서 전국의 모든 검사들로 하여금 그 권한에 속하는 직무의 일부를 처리하게 하거나 다른 검사로 하여금 처리하게 할 수 있다”고 했다. 검찰총장의 ‘관할’은 전국 67개 검찰청이므로, 부산지검 소속인 정 검사에게 성남지청 관할 공소유지 업무를 맡길 수 있다는 설명이다.&lt;br&gt;&lt;br&gt;이어 “검찰청법 5조에 있는 ‘직무’에는 수사, 기소뿐만 아니라 공소유지 업무가 당연히 포함된다. 검찰청법 제5조를 위반한 것이 아니다”라고 했다. 이어 “(검찰근무규칙에 규정된) ‘필요하고 또한 부득이한 경우’에 대한 판단, 직무대리 기간, 업무범위 등은 직무대리를 명령하는 검찰총장이 결정할 사항”이라고 했다.&lt;br&gt;&lt;br&gt;재판부는 검찰의 ‘복수 직무대리’도 문제 삼으면서 “검찰총장 명의 발령이면 부산지검 소속인데 서울중앙지검, 수원지검 성남지청으로 이중 직무대리도 가능한 것 아니냐”면서 “법률상 가능해도 엄격히 해석해야 한다”고 했다. 그러나 대검은 “1일 직무대리, 복수 직무대리를 금지하는 규정은 없다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇전직 대통령 재판도 직무대리로&lt;/b&gt;&lt;br&gt;&lt;br&gt;대검은 “검사 직무의 위임·이전 및 승계 규정은 1949년 검찰청법이 처음 시행된 때부터 현재까지 75년간 존재했다”고 했다. 검사 직무의 위임·이전 및 승계를 규정한 검찰청법 제7조의2는 ‘검찰총장, 각급 검찰청의 검사장 및 지청장은 소속 검사에게 직무 일부를 처리하게 할 수 있다’는 내용이다.&lt;br&gt;&lt;br&gt;대검은 “전직 대통령 사건, JMS 성폭행 사건, 계곡살인 사건, 정인이 사건뿐만 아니라 대형안전사고, 살인, 중요 성폭력 사건, 증권·금융·기술 등 전문 지식이 필요한 사건의 수사와 공소유지에서 직무대리 제도가 활용되어 왔다”고 했다. 박근혜 정부 때 최순실 국정농단 사건에서 특별검사가 아닌 특검 파견검사가 재판에 참여할 수 있는지에 대해 법원이 문제가 없다고 판단한 바 있다.&lt;br&gt;&lt;br&gt;대검은 아울러 “법원조직법 제6조에도 동일한 규정이 있다”고 했다. 법원조직법 제6조는 대법원장이 판사에게 다른 법원 판사의 직무를 대리하게 할 수 있도록 하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전공의 “올 게 왔다”...국방부, 사직 전공의 3480명에 ‘입영 희망 시기’ 조사</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/11/14/X3N4ZL5AVRHGPN6YYNQP57WZJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/11/14/X3N4ZL5AVRHGPN6YYNQP57WZJM/</guid>
-      <dc:creator>조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Nov 2024 07:24:11 +0000</pubDate>
-      <content:encoded>국방부와 병무청이 사직 전공의들 중 군대를 가야하는 3480명을 대상으로 조만간 ‘원하는 입대 시기’ 등을 묻는 입영 의향 조사를 실시한다고 14일 발표했다.&lt;br&gt;&lt;br&gt;정부에 따르면, 의대 증원에 항의해 올 2월 집단 사직한 전공의 1만여명 중 군의관이나 공보의로 입대해야 할 의무 사관 후보생은 3480명이다. 이들이 한꺼번에 입대를 선택할 경우 통상적인 군 수요로 알려진 연간 1000여 명을 크게 웃돈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HOVZWRB5NZOKLLIBNUM5ULZF5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최규석 병무청 차장이 14일 오후 서울 종로구 정부서울청사에서 사직 전공의 입영과 관련한 브리핑을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국방부와 병무청은 이날 브리핑에서 “오는 18∼29일 휴대전화와 우편 등으로 사직 전공의 개개인의 입영 희망 시기를 파악한 뒤 의무장교 입영 계획을 수립할 방침”이라며 “의무 사관 후보생이 실제 입영까지 4년을 대기하는 경우가 발생할 수도 있다”고 했다.&lt;br&gt;&lt;br&gt;국방부는 “전공의 수련기관 퇴직 여부 확인, 2025년도 입영 의향, 희망하는 입영 시기 등을 조사할 계획”이라고 했다. 조사서에는 ‘본인 의사와 다르게 입영 일정이 결정될 수 있고, 4년까지 대기해야 할 수 있다’고 안내받았음을 확인하는 항목도 있다.&lt;br&gt;&lt;br&gt;병무청 최규석 차장은 브리핑에서 “입영은 군 소요 기준에 맞춰야 하고, 그 기준에 따라서 입영 대상자가 정해진다”고 말했다.&lt;br&gt;&lt;br&gt;전공의는 수련 도중이나 수련 후에 군의관이나 공보의로 군 입대를 하는 의무 사관 후보생으로 등록돼 있다. 현역 입영은 할 수 없다. 병무청은 매년 2월 말쯤 의무사관후보생 입영 대상자를 상대로 군의관·병역판정전담의·공중보건의 등으로 역종을 분류하고 3월 중순 입영하도록 해왔다.&lt;br&gt;&lt;br&gt;병역 문제는 사직 전공의들에게 가장 ‘약한 고리’로 꼽혀왔다. 병역 규정상 전공의 수련 중인 병원에서 중도 사직하면 빠른 시일 내 군의관(군에서 근무)이나 공보의(보건소 등에서 근무)로 가야하는 입영 대상자가 된다. 정부가 특례를 제공하지 않는 한, 사직 전공의는 개원을 하든 다른 병원에 취업해서 일하든 영장이 나오면 군대에 가야하는 처지가 된다.&lt;br&gt;&lt;br&gt;이로인해 사직 전공의들 사이에선 “언제 영장이 나올지 알 수 없기 때문에 미래 계획을 세우기가 어렵다”는 말이 많았다. 일각에선 “정부가 병역 문제로 전공의들의 복귀를 압박하는 것 아니냐”는 관측도 있다. 하지만 정부는 “병무 행정은 매우 민감한 것이어서 예외 없이 규정대로 할 수밖에 없고, 이번에도 마찬가지”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>사생활 유출에… “IP캠 보안 강화, 유출 땐 과징금 부과”</title>
       <link>https://www.chosun.com/economy/tech_it/2024/11/14/EQLWHBQWBJB2XP6YTL3DP7ENKE/</link>
       <guid isPermaLink="true">https://www.chosun.com/economy/tech_it/2024/11/14/EQLWHBQWBJB2XP6YTL3DP7ENKE/</guid>
@@ -925,27 +965,6 @@ The Chosunilbo</media:credit>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3VUSZTWOZFEZJDDGQK52LV5DHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025학년도 대학수학능력시험 국어영역 중 10∼13번 지문 일부. /한국교육과정평가원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 대학수학능력시험 국어영역에서 ‘노이즈’라는 단어가 한 지문에서만 40번 이상 반복 등장해 수험생들 사이에서 화제가 됐다.&lt;br&gt;&lt;br&gt;14일 교육계에 따르면, 국어영역 공통과목 독서 영역 10∼13번 지문 ‘영상 생성을 위한 인공지능 확산 모델’에서 ‘노이즈’라는 단어만 40번 이상 등장했다. 한 문장에서만 ‘노이즈’라는 단어가 5번 등장하기도 했다. ‘노이즈 예측기를 학습시킬 때는 노이즈 생성기에서 만들어 넣어 준 노이즈가 정답에 해당하며 이 노이즈와 예측된 노이즈 사이의 차이가 작아지도록 학습시킨다’는 문장이다.&lt;br&gt;&lt;br&gt;수험생들은 온라인 커뮤니티를 통해 “수능 금지곡인 로제의 ‘아파트’가 생각난다”며 ‘아파트’가 반복되는 가사를 언급했다. 일부 수험생은 같은 단어 반복으로 인한 독해력 저하를 우려하기도 했다.&lt;br&gt;&lt;br&gt;비교적 까다로운 지문도 있었다. 국어 영역 공통 4∼9번에서는 개항 이후 개화사상의 변화와 중국의 서양 과학기술 수용에 대한 비교 지문이 출제돼 비교적 어려운 지문으로 꼽혔다. 특히 7번은 각 관점에 대해 정확한 이해를 묻는 문제로, 확인해야 할 정보량이 많았다고 입시 전문가는 전했다.&lt;br&gt;&lt;br&gt;‘언어와 매체’ 35∼36번 지문에서는 중세 국어 ‘용비어천가’와 ‘석보상절’, ‘월인천강지곡’의 표기법을 다뤘다. 언어와 매체 43번에서는 연결 및 종결 어미, 보조 용언, 조사 등에 관해 묻는 문법 문제가 나왔다.&lt;br&gt;&lt;br&gt;한편, 올해 수능 국어영역 난이도는 지난 9월 모의평가와 유사하다는 분석이 나왔다. 지난 9월 모평은 국어 만점자가 4478명이 나올 만큼 쉽게 출제돼 변별력이 없다는 평가를 받았다. 한병훈 EBS 국어영역 강사는 14일 정부세종청사에서 열린 브리핑에서 “이번 수능 국어영역은 올해 9월 모의평가의 출제 경향을 유지했다”고 말했다. 이어 “지문의 정보량이 적정하고 교과서에서 학습한 수준의 지문이 출제됐으며, 소위 ‘킬러문항’은 배제됐다”면서 “공교육을 통해 학습한 기본적 독해 능력만으로도 충분히 대비할 수 있는 시험이었다고 판단한다”고 했다.&lt;br&gt;&lt;br&gt;이번 수능 국어의 출제 경향과 난이도가 9월 모평과 유사하므로 결과 역시 9월 모평과 비슷할 것으로 분석됐다. 이번 국어영역은 9월 모평을 고려해 선지들에서 세부적인 난이도 조정은 있었지만, 학생들이 9월 모평 이후 대비한 것 등을 고려하면 결과가 9월 모평과 비슷하게 나올 것이라는 평가다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>수능 문제 나온 ‘링크’ 들어가니... ‘윤석열 특검’ 집회로 연결 논란</title>
-      <link>https://www.chosun.com/national/education/2024/11/14/MDJJEYK4BZHU5OMR3THJQCIJHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/11/14/MDJJEYK4BZHU5OMR3THJQCIJHI/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Nov 2024 07:47:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMAVTYAJZJFRFCMYZQBDTQBQUA.png"&gt;&lt;figcaption&gt;&lt;small&gt;14일 치러진 수능 국어 영역 지문에 나온 링크를 입력하면 현 정부 규탄 집회를 소개하는 내용이 나온다. /인터넷캡쳐&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14일 치러지고 있는 2025학년도 대학수학능력시험 ‘국어 영역’ 시험지에 나온 링크 주소에 윤석열 대통령과 김건희 여사에 대한 특검을 촉구하는 집회 내용이 게시되면서 논란이 일고 있다.&lt;br&gt;&lt;br&gt;이날 오전 8시 40분부터 10시까지 치러진 수능 국어 영역(홀수형)에서 선택 과목 ‘언어와 매체’ 시험지 40~43번 문항 지문에는 임의의 링크가 적혔다.  &lt;br&gt;&lt;br&gt;시험지에 적힌 이 링크를 입력해 보니 문제지에 적힌 취지와는 다르게 집회 안내 문구가 보이는 웹사이트가 열렸다. 오는 16일 오후 4시30분부터 서울 광화문앞 대로에서 열리는 ‘김건희·윤석열 국정농단 규탄·특검 촉구 제3차 국민 행동의 날’ 집회가 열린다는 내용이 나온다.&lt;br&gt;&lt;br&gt;한국교육과정평가원은 국어 영역 시험이 끝나고 문제지와 답지를 홈페이지에 공개했다. 이를 본 불상의 인물이 해당 링크로 웹사이트를 개설했거나, 기존의 웹사이트를 해킹한 것으로 추정된다.&lt;br&gt;&lt;br&gt;교육부 관계자는 “원래는 해당 지문 내용과 연관이 있는 웹사이트가 나오는 링크인 것으로 안다”며 “링크가 연결되지 않게 조치를 취하고 있다. 사실 관계 파악을 위해 경찰에 수사 의뢰를 할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/OMAVTYAJZJFRFCMYZQBDTQBQUA.png?width=2724&amp;height=1260&amp;auth=5d2ddfac58e29a1244e34c4c29f631ce804a4b76c538a5501586eef985faff64&amp;smart=true" type="image/png" height="1260" width="2724">
-        <media:description type="plain">14일 치러진 수능 국어 영역 지문에 나온 링크를 입력하면 현 정부 규탄 집회를 소개하는 내용이 나온다. /인터넷캡쳐</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>피의자 모친에 성관계 요구한 경찰, 2심서 감형된 이유</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/14/ZORXPBACI5EDPOKDDBF5EDNVII/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/14/ZORXPBACI5EDPOKDDBF5EDNVII/</guid>
-      <dc:creator>박정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Nov 2024 06:56:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FGZSR7ALDE2HPI6KNAP4BNWSSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 양천구 서울 남부지법의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 맡았던 사건 피의자의 어머니에게 성관계를 요구한 혐의로 1심서 실형을 선고받은 경찰관이 14일 열린 2심에서 징역형 집행유예로 감형됐다.&lt;br&gt;&lt;br&gt;서울남부지법 형사항소1부(재판장 맹현무)는 강제추행 혐의로 기소된 서울 강서경찰서 소속 김모(52) 경위에 대한 항소심에서 징역 6개월을 선고한 원심을 파기하고 징역 6개월에 집행유예 2년을 선고한다고 이날 밝혔다. 재판부는 김 경위에 40시간의 성폭력 치료 프로그램 이수도 함께 명령했다.&lt;br&gt;&lt;br&gt;이날 재판부는 “피고인과 피해자 사이의 관계, 범행 경위 등에 비춰볼 때 죄질이 불량하다”면서도 “피고인이 당심에 들어 모두 자백한 점, 피해자를 위해 1000만원을 공탁하고 추가로 2000만원을 지급한 점, 피해자와 원만하게 합의된 점, 초범이라는 점 등을 고려하면 원심에서 내린 실형은 무거워 부당하다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;검찰에 따르면 김 경위는 지난 2022년 말 자신이 수사하던 사건 피의자의 어머니 A씨를 사적으로 만나 신체 접촉을 이어가고 성관계를 요구한 혐의를 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘선거법 위반’ 김혜경 1심서 벌금 150만원... “범행 부인, 비서에 책임 전가”</title>
       <link>https://www.chosun.com/national/court_law/2024/11/14/BS3YFNCDX5G3VBPLTFBHF7I2NU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/14/BS3YFNCDX5G3VBPLTFBHF7I2NU/</guid>
@@ -957,15 +976,6 @@ The Chosunilbo</media:credit>
         <media:description type="plain">공직선거법 위반 혐의로 불구속기소 된 더불어민주당 이재명 대표의 배우자 김혜경 씨가 14일 오후 경기도 수원시 영통구 수원지방법원에서 열린 1심 선고공판을 마치고 나오고 있다. /연합뉴스</media:description>
         <media:credit role="author" scheme="urn:ebu">홍기원</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>﻿이영애, ‘이승만 재단 기부 폄하’ 유튜버와 화해권고 거부</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/14/IJZRABELDVAU7AFZ7WU6PYY4T4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/14/IJZRABELDVAU7AFZ7WU6PYY4T4/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Nov 2024 04:49:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2OBH3RGTHVLZBKZMU2SXMLNKNY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이영애가 지난달 24일 서울 강동구 고덕동 스테이지28에서 열린 제14회 아름다운예술인상 시상식에 참석해 미소를 짓고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 이영애가 자신의 이승만대통령기념재단 기부 행위를 두고 김건희 여사 연관설을 제기한 유튜버를 상대로 낸 민사소송에서 재판부의 화해 권고를 받아들이지 않았다. &lt;br&gt;&lt;br&gt;서울서부지법 민사합의12부(재판장 김진영)는 지난달 29일 이영애가 유튜브 채널 열린공감TV의 정천수 전 대표를 상대로 제기한 손해배상 청구 소송에 대해 화해권고 결정을 내렸다. &lt;br&gt;&lt;br&gt;화해권고 결정은 법원이 직권으로 조건을 제시하며 합의를 권고하는 것으로, 양측이 동의하면 확정판결과 같은 효력이 있다. 확정된 화해권고 결정에 대해서는 원칙적으로 나중에 무효를 주장할 수 없다. &lt;br&gt;&lt;br&gt;재판부는 화해 조건으로 정 전 대표 측에 문제가 된 영상을 삭제하고, 이영애와 김 여사의 친분 관련 내용 방송을 금지할 것과 이영애의 정치적 성향을 방송할 때는 입장을 반영할 것을 제시했다. 이영애 측에는 고소 취소를 제시한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;이영애 측은 화해권고를 받아들일 수 없다는 취지의 이의신청서를 지난 12일 법원에 제출했다. 정 전 대표 측도 이날 이의신청을 함에 따라 재판부는 기일을 지정해 재판을 진행할 예정이다. &lt;br&gt;&lt;br&gt;작년 9월 이영애는 이승만대통령기념관 건립에 써 달라며 재단에 5000만원을 기부했다. 열린공감TV는 이에 대해 “이영애의 기부는 윤석열 대통령과 배우자 김건희 여사와 관련 있다”고 주장하고, 이영애를 폄하하는 내용을 방송했다. &lt;br&gt;&lt;br&gt;이영애는 이런 주장이 사실과 다른 가짜뉴스라며 방송 중지와 사과를 요청하는 내용증명을 보냈지만 열린공감TV는 같은 내용을 반복하는 영상을 또다시 내보냈다. 이에 따라 이영애 측은 정 전 대표를 서울 용산경찰서에 고소했고, 민사소송도 제기했다. &lt;br&gt;&lt;br&gt;형사 사건의 경우 검찰이 직접 들여다보고 있다. 사건은 경기 양주경찰서로 이송돼 불송치됐고, 이영애의 이의신청 후 사건을 넘겨받은 의정부지검이 지난 6월 혐의없음 처분했다. 이에 이영애 측은 항고했고, 서울고검은 재기수사 명령을 내렸다. &lt;br&gt;&lt;br&gt;재기 수사 명령은 앞선 수사가 부족했다고 보고 다시 수사하도록 하는 제도다. 기존에 수사했던 검찰청에 사건을 돌려보낼 수 있지만, 서울고검은 직접 수사하기로 하고 지난 8월부터 수사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“아버지 추억 담아갑니다”...박근혜, 박정희 탄생 107주기 행사 참석</title>
@@ -984,19 +994,6 @@ The Chosunilbo</media:credit>
       <description/>
       <pubDate>Thu, 14 Nov 2024 02:51:32 +0000</pubDate>
       <content:encoded>중앙경찰학교 소속 50대 교수가 30대 지적장애 여성을 자신의 관사로 데리고 가 성폭행을 시도한 혐의로 경찰 조사를 받는 가운데, 경찰 안팎에선 중앙경찰학교에 대해 “교육 기관의 성 규율이 지나치게 느슨한 것 아니냐”는 지적이 제기된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CFNWT5ELQKS7YQ46BVF32SRJGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 충주시에 소재한 중앙경찰학교 본부 전경. (중앙경찰학교 제공) /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1984년 충북 청주에 문을 연 중앙경찰학교는 경찰청 교육기관으로 신임 순경과 특채 경장 등을 9개월 간 교육하는 곳이다. 순경이 경찰 조직의 다수기 때문에, 대다수의 경찰들이 이곳을 거치고 본격적으로 경찰 업무에 들어간다.&lt;br&gt;&lt;br&gt;그런데 이곳에 남자 경찰과 여자 경찰이 뒤섞이다보니, 일부 교육생은 경찰 교육보다 ‘연애’를 중시하는 것 아니냐는 우려가 나온다. 일선 경찰은 “이곳 식당, 매점, 중앙광장, 대운동장, 사격장은 거의 연애 데이트 코스가 됐다”고 했다. 경찰 안팎에선 중앙경찰학교를 두고 “소위 ‘임자’가 있는 사람도 이곳에 와서 이른바 환승을 하는 ‘중앙환승센터’가 됐다”는 말도 나온다.&lt;br&gt;&lt;br&gt;또 이곳에서 교육을 받은 경찰들에 따르면 이곳 기숙사에선 남자방과 여자방이 서로 ‘방팅’을 하면서 소개팅을 하는 경우도 있다고 한다. 교육을 받던 중 서로 핸드폰 번호나 SNS를 공유한 뒤, “우리 방 사람들이랑 함께 미팅을 하자”며 서로 제안하는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3BFIMN2JDVMBZHKIKK4UWCJPHU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;(충주=뉴스1) 김기남 기자 = 16일 충북 충주시 중앙경찰학교 대운동장에서 열린 중앙경찰학교 311기 졸업식을 마친 신임 경찰관들이 동기생들과 모자를 던지는 퍼포먼스를 하며 축하와 격려를 하고 있다. 2023.2.16/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 경찰은 “애인 유무, 결혼 유무와 상관 없이 방팅에 참가하는 경우도 있다”고 했다. 이 때문에 애인을 중앙경찰학교에 보내는 사람들 중 일부는 “중앙경찰학교에서 눈 맞고 다른 경찰과 사귀는 것은 아닌지 걱정이 된다”는 이야기를 나누기도 한다고 한다.&lt;br&gt;&lt;br&gt;이러한 현상에 대해 일각에선 산 속에 고립된 위치를 이유로 꼽는다. 지리적 특성과 함께 9개월 가까이 수직적인 경찰 교육을 받다보니 압박감을 연애로 해소하려는 것은 자연스럽다는 것이다. 남녀 생활관이 같은 공간에 있어 접촉 기회가 많다는 점도 활발한 연애 성사 요소로 꼽힌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “혈기 왕성한 2030 경찰들의 자연스러운 연애를 지나치게 억압할 수는 없다”며 “교육에 지장이 되지 않는 범위 내에서 건전한 교제를 한다면 혼인·출산 증가에도 도움이 되지 않겠느냐”고 했다. 다만 이런 자세를 가르쳐야 할 중앙경찰학교 교수들의 솔선수범이 선행돼야 하는 만큼, 이번 50대 교수의 성폭행 시도 사건은 경찰 내에서도 ‘충격적’이라는 반응이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>헤어진 여친 스토킹 살해범은 34세 서동하…경찰, 신상정보 공개결정</title>
-      <link>https://www.chosun.com/national/regional/2024/11/14/UYLZZZGDDRALJI4AVBZOQDIGFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/14/UYLZZZGDDRALJI4AVBZOQDIGFY/</guid>
-      <dc:creator>구미=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Nov 2024 00:35:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WJ57GI6WJVBUHP3ORX3CLTYOAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헤어진 여자친구 스토킹 살해범 서동하 신상정보. /경북경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헤어진 전 여자친구를 가족 앞에서 살해한 서동하(34)의 신상정보가 14일 공개됐다.&lt;br&gt;&lt;br&gt;경북경찰청은 지난 13일 신상정보 공개 심의위원회를 열고, 모친 앞에서 피해자를 살해한 범죄의 잔인성과 피해의 중대성, 피의자 자백 등 인적·물적 증거가 충분한 점, 스토킹범죄 예방효과 등을 고려해 공개를 의결했다.&lt;br&gt;&lt;br&gt;서동하의 사진과 나이 등이 담긴 신상정보는 다음달 13일까지 경북경찰청 홈페이지에 공개된다.&lt;br&gt;&lt;br&gt;서동하는 지난 8일 정오쯤 경북 구미시 한 아파트 복도에서 미리 준비한 흉기로 전 여자친구인 A씨를 살해하고, 그의 어머니까지 살해하려다 미수에 그친 혐의로 구속됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 서동하는 지인 소개로 A씨를 만나 올해 초 교제를 시작했지만, 4개월 만에 헤어진 것으로 알려졌다. 이후 서동하는 A씨의 집과 직장 등을 찾아와 괴롭혔고, A씨는 서동하를 스토킹 등으로 경찰에 3차례 신고한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/3RQ4RIBF6JC7PN3LLE3U3JXPXM.jpg?width=239&amp;height=246&amp;auth=71209a809720a8b88c09afced4718c94fd6bb6f627fa4533743aa707497f882e&amp;smart=true" type="image/jpeg" height="246" width="239">
-        <media:description type="plain">헤어진 여자친구 스토킹 살해범 서동하 신상정보. /경북경찰청</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
   </channel>
 </rss>
