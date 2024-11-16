@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>4살 아이 머리 킥보드로 때린 유치원 교사, 다른 원생 11명도 폭행</title>
+      <link>https://www.chosun.com/national/incident/2024/11/16/K7MDUKNVBZCOJALMKCTDOV63LU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/16/K7MDUKNVBZCOJALMKCTDOV63LU/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 16 Nov 2024 02:59:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JD4SM6MTQBAZ5EA3B5NRPQPYHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아동학대 일러스트. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4살 원아를 아동용 킥보드로 때렸던 경기 평택시의 유치원 교사가 다른 원생 11명에게도 폭행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경기남부경찰청 여성청소년범죄수사대는 아동복지법 위반 혐의를 받는 30대 교사 A씨를 다음주 중으로 검찰에 송치할 예정이라고 16일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 6월 5일 오전 10시 자신이 근무하던 평택시의 한 유치원 안에서 B(4)군 머리를 킥보드로 폭행한 혐의를 받고 있다. B군은 머리 피부가 찢어지는 등의 상처를 입었고, 이를 이상하게 여긴 B군 부모가 경찰에 신고했다.&lt;br&gt;&lt;br&gt;경찰은 해당 유치원에 저장된 CCTV 영상 2개월분을 전수 조사했다. 그 결과 A씨는 지난 5∼6월 B군 외에도 원생 11명에 대해서도 주먹으로 얼굴과 머리를 때리는 등의 폭행을 저지른 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 혐의가 중하다고 판단해 A씨에 대해 구속영장을 신청했으나 법원은 “A씨가 혐의를 인정하고 도주의 우려가 없다”며 지난 15일 이를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>﻿[단독] 이기흥의 대한체육회, 올림픽 메달권 36명에 살모사 든 뱀탕을 보양식으로 줬다</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/16/QBXE7O4CSRCODLGHLE6Q2R437Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/16/QBXE7O4CSRCODLGHLE6Q2R437Q/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 16 Nov 2024 02:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VUKO3ZH4AJHJ3ARNPPS3X7MUWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 13일 스위스 출장에서 귀국해 인천공항에서 인터뷰하는 이기흥 대한체육회장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한체육회 산하 진천국가대표선수촌이 2024파리올림픽을 앞두고 이기흥 대한체육회장의 승인을 받아 메달을 딸 가능성이 높은 선수 36명에게 식용이 금지된 뱀탕 등을 보양식으로 제공했던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;15일 조선닷컴 취재 결과, 국무조정실 산하 정부합동공직복무점검단이 최근 체육회를 대상으로 실시한 점검 과정에서 선수촌 측이 지난 5월부터 7월까지 두 달간 파리올림픽에 출전한 22개 종목 144명의 선수 가운데 메달 가능성이 높은 36명의 선수에게 보양식을 복용시킨 사실을 확인한 것으로 알려졌다. 앞서 선수촌 고위간부 A씨는 지난 5월 이기흥 회장에게 메달 가능 선수들에게 보양식을 제공할 것을 제안했고, 이 회장은 이를 승인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;보양식은 뱀탕 900팩과 뱀술 3병이었다. 선수촌 측은 식용이 금지된 재료인 구렁이, 까치살모사 등이 포함된 뱀탕을 경기도의 한 건강원에서 납품받아 메달권 주요 선수들에게 제공한 것으로 전해졌다. 국내 살모사 가운데 가장 독이 센 것으로 알려진 까치살모사는 과거에는 보양식으로 섭취했으나 현재는 야생생물 보호 및 관리에 관한 법률에 따라 먹는 것이 금지돼 있다. 이를 위반하면 1년 이하의 징역 또는 1000만원 이하의 벌금에 처한다. 이 때문에 뱀탕을 먹은 선수 절반(18명)은 비밀 유지 서약서까지 냈다.&lt;br&gt;&lt;br&gt;보양식 비용 7000만원은 체육회 산하 종목연맹 회장인 B씨가 대납한 것으로 조사됐다. 선수촌 간부 A씨는 지난 5월 B씨에게 보양식 비용 7000만원과 사격종목 선수 5명의 경기복 구입 비용 1000만원 등 8000만원을 대납해달라고 요구했던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;B씨는 이 회장과 고등학교 동문이자 오랜 친분이 있는 사이로, 올해 초 이 회장에게 파리올림픽 선수단에서 주요 직위를 맡고 싶다는 의사를 전달했다. B씨는 지난 6월 실제로 희망했던 직위를 맡았고, 두 달 뒤인 8월 A씨가 알려준 계좌로 보양식과 물품 구매 비용 8000만원을 보낸 것으로 조사됐다. 점검단은 B씨가 올림픽 선수단 주요 직위를 맡기 위해 이 회장에게 먼저 청탁을 한 뒤 이후 보양식 비용을 대납한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;점검단은 이와 관련해 이 회장과 A씨, B씨 등 관련자들을 지난 10일 청탁금지법 위반, 제3자 뇌물 제공, 야생생물 보호 및 관리에 관한 법률 위반 등 혐의로 경찰에 수사의뢰했다.&lt;br&gt;&lt;br&gt;이 회장은 점검단의 수사 의뢰에 대해 “1%도 동의 못 한다”는 입장이다. 그는 지난 13일 인천국제공항에서 만난 취재진에게 “(선수단에서) 단장을 하면 선수들에게 다 보약을 사준다. 나도 현재 회장 지위지만 그런 것을 한다”며 “필요할 때 (선수들에게) 사 주는데 그래서 보약을 사준 것”이라고 했다. 그는 “아시다시피 지금 사격연맹 회장이 없어 사격복을 사준 건데, ‘(B씨를) 단장을 시켰다고 돈을 받고 금품을 요구했다’고 하는 건 아니지 않나”라고 했다.&lt;br&gt;&lt;br&gt;점검단은 이 밖에도 자녀 대학 친구를 선수촌 직원으로 부정 채용하고, 후원 물품을 사적으로 사용했다는 등의 혐의로 이 회장 등 체육회 관계자 8명을 경찰청 국가수사본부에 수사 의뢰했다. 경찰청은 이 회장 관련 수사를 서울경찰청 반부패수사대에 배당했다.&lt;br&gt;&lt;br&gt;문화체육관광부는 지난 11일 이 회장에 대해 직무 정지를 통보했다. 이에 따라 이 회장은 수사 기관 결론이 나올 때까지 회장직을 수행할 수 없게 됐다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음]박순철 울산시의회 사무처장 부친상</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/11/16/2IYQOI3NOREV7AUPPELELAN2ZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/11/16/2IYQOI3NOREV7AUPPELELAN2ZU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sat, 16 Nov 2024 02:07:02 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;박종길&lt;/b&gt; 별세, &lt;b&gt;김정자&lt;/b&gt; 남편상, &lt;b&gt;박순철&lt;/b&gt; 울산시의회 사무처장 부친상, &lt;b&gt;이화정&lt;/b&gt; 시부상, &lt;b&gt;박새한·박루비&lt;/b&gt; 조부상=15일 오후 동강병원장례식장 특3호, 발인 17일 오전 7시, 052-241-1440&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘술자리 맥주병 폭행’ 前 야구선수 정수근, 음주운전 혐의도 추가</title>
+      <link>https://www.chosun.com/national/incident/2024/11/16/NNZIT4ZPFNDK5MYQLSYI7REXBQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/16/NNZIT4ZPFNDK5MYQLSYI7REXBQ/</guid>
+      <dc:creator>남양주=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 16 Nov 2024 00:57:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VSYNMHQWQZBNDOZOIGDZZLTFSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전직 프로야구 선수 정수근씨. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지인 소개로 만난 남성과 술을 마시다 맥주병으로 내리쳐 다치게 한 혐의로 기소된 전직 야구선수 정수근(47) 씨가 음주운전 혐의로도 재판을 받게 됐다.&lt;br&gt;&lt;br&gt;16일 법조계에 따르면 의정부지검 남양주지청은 지난 6일 도로교통법 위반 혐의로 정씨를 불구속 기소했다. 정 씨의 음주운전 적발 경위는 알려지지 않았다. 다만 해당 사건으로 큰 인명피해는 없었던 것으로 전해졌다. 이 사건은 현재 진행 중인 정씨의 특수상해 혐의 재판과 병합됐다.&lt;br&gt;&lt;br&gt;앞서 정씨는 지난해 12월 21일 오후 경기 남양주시 호평동의 유흥주점에서 함께 술을 마시던 남성 A씨의 머리를 맥주병으로 내리쳐 상해를 입힌 혐의로 재판에 넘겨졌다. A 씨는 머리 부위가 찢기는 부상을 입었다.&lt;br&gt;&lt;br&gt;검찰은 지난달 11일 의정부지법 남양주지원 형사2단독(재판장 최영은) 심리로 열린 결심공판에서 정씨에 대해 징역 1년 6월을 구형했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>토요일 예년보다 포근, 일요일부턴 기온 ‘뚝’</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/11/16/YGFRX3D3S5AZBCTBBMRDLIG3PE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/11/16/YGFRX3D3S5AZBCTBBMRDLIG3PE/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>토요일인 16일 전국이 대체로 흐리지만 포근한 날씨를 보이겠다.</description>
+      <pubDate>Sat, 16 Nov 2024 00:32:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VZYZXFBRTNMAFPFDJWY2NZZOVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한낮 기온이 20도 안팎까지 오른 지난 15일 서울 중구 덕수궁에 계절을 잊은 산철쭉이 피어 있다/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 16일 전국이 대체로 흐리지만 포근한 날씨를 보이겠다. 그러나 일요일부턴 북쪽에서 찬 기운이 내려오며 기온이 뚝 떨어질 전망이다.&lt;br&gt;&lt;br&gt;16일 기상청에 따르면 토요일은 다소 흐리지만 예년보다 높은 기온을 나타내겠다. 낮 최고 기온은 17~23도로 예보됐다. 구체적으로 서울이 19도, 인천이 18도, 대전·대구 21도, 광주 22도, 부산 23도를 기록하겠다. 중부 지방과 전라권에 가끔 비가 오는 곳이 있겠고, 밤부터 경상 서부 내륙에 0.1㎜ 미만의 빗방울이 떨어질 것으로 보인다.&lt;br&gt;&lt;br&gt;17일엔 전날과 비교해 기온이 5~10도가량 떨어지며 춥겠다. 아침 최저 기온은 4~15도, 낮 최고 기온은 10~17도로 예보됐다. 서울이 6~11도, 대전이 8~12도, 광주 11~13도, 대구 12~13도, 부산 15~17도를 나타내겠다. 바람도 강하게 불어 체감 온도는 더욱 내려갈 것으로 전망된다. 해발고도 1000m 이상 강원 산지에는 1~5cm 정도 눈이 쌓일 것이라고 기상청은 예보했다. 다음 주에도 11월 하순다운 쌀쌀한 날씨가 이어질 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“김준수는 마약 사건과 관련 없어… 2차 가해 멈춰달라” 2차 입장문 </title>
       <link>https://www.chosun.com/national/national_general/2024/11/16/VBH6DNGEYFHVRHM6I6MLXOX35I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/16/VBH6DNGEYFHVRHM6I6MLXOX35I/</guid>
@@ -852,51 +897,6 @@ The Chosunilbo</media:credit>
       <description/>
       <pubDate>Thu, 14 Nov 2024 16:00:15 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AUPMPAY6NNCRBNQEBN6F7M3S5I.png"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 1심 결과가 나오는 이재명 더불어민주당 대표의 ‘공직선거법 위반 사건’의 쟁점은 크게 두 가지다. 이 대표의 발언이 공직선거법이 처벌하는 거짓말인지 여부, 그리고 당선을 목적으로 고의로 한 것인지 여부다.&lt;br&gt;&lt;br&gt;이 대표의 첫 번째 혐의는 2021년 12월 방송 인터뷰에서 대장동 개발 사업 실무자였던 고(故) 김문기씨를 성남시장 시절 몰랐다고 거짓말했다는 것이다. 이 대표는 “사람을 안다, 모른다는 개인의 주관적 ‘인지 영역’에 속하는 것”이라는 입장이다. 공직선거법은 가족관계·신분·재산·행위 등에 대한 거짓말을 처벌하기 때문에 누구를 안다 모른다의 문제는 처벌 대상이 아니라는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F44QRQC6MFBYBI5ZLYFBSOS4VE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 검찰은 이 대표가 성남시장 시절 김씨와 호주 출장을 가서 함께 골프도 쳤으며 위례 사업 보고도 받았기 때문에 김씨와의 ‘교류 행위’가 있었다고 봤다. 이 대표가 성남시장 시절 김씨를 몰랐다고 한 것은 이 같은 교류 행위에 대해 거짓말을 한 것이어서 선거법상 처벌 대상이 된다는 것이다. 아울러 이 발언은 당시 대선 후보로서 대장동 비리 연루 의혹을 받던 이 대표가 수사 중 사망한 대장동 실무자와의 관계를 부인한 것이어서, 단순히 특정인을 알고 모르고의 문제가 아니라 자신의 대장동 비리 연루 의혹을 부인한 거짓말에 해당한다는 것이다.&lt;br&gt;&lt;br&gt;두 번째 혐의는 이 대표가 경기지사 시절인 2021년 10월 국회 국정감사에서 백현동 용도변경 특혜 논란에 대해 “박근혜 정부 국토교통부가 (용도변경을 하지 않을 경우) 직무유기로 문제 삼겠다고 협박했다”고 한 부분이다. 검찰은 20명이 넘는 국토부·성남시 전현직 공무원들이 ‘협박은 없었다’ ‘용도변경은 국토부가 아닌 지방자치단체장의 권한’이라고 했기 때문에 거짓말이라고 보고 있다.&lt;br&gt;&lt;br&gt;이에 대해 이 대표 측은 “화가 나서 ‘협박’이라고 과하게 표현했지만, 국토부가 성남시를 압박한 것은 사실”이라는 입장이다.&lt;br&gt;&lt;br&gt;또한 이 발언은 지자체장으로서 국감에서 한 발언이기 때문에 ‘선거 당선 목적’이 없었다는 법리를 내세우고 있다. 이와 함께 국회에서의 증언·감정 등에 관한 법률에 따라 국감 발언은 위증죄 외에는 처벌이 불가능하다는 논리도 펴고 있다.&lt;br&gt;&lt;br&gt;하지만 검찰은 국감을 앞두고 송영길 당시 민주당 대표가 이재명 후보에게 “대통령 후보 인사청문회로 생각하라”고 조언한 점 등을 들어 이 발언은 단지 도지사로서의 답변이 아니라 대선을 염두에 둔 발언이었다는 것이다. 또한 검찰은 국감에서의 허위 발언으로 명예훼손죄로 벌금 300만원을 선고받은 전직 교수의 사례 등을 들어 처벌이 가능하다고 보고 있다.&lt;br&gt;&lt;br&gt;만약 유죄가 인정될 경우 양형도 관심 대상이다. 벌금 100만원 이상이 확정되면 이 대표는 의원직을 상실하고 5년 동안 피선거권이 박탈돼 차기 대선에도 출마할 수 없다. 민주당이 지난 대선에서 선관위로부터 보전받은 434억원도 반납해야 한다.&lt;br&gt;&lt;br&gt;이에 따라 재판부가 유죄를 인정하면서도 벌금 100만원 미만을 선고하면 이 대표와 민주당으로서는 사실상 ‘무죄’를 받는 것과 같은 상황이다. 판사들이 선고에 참고하는 양형 기준을 보면, 선거법상 당선 목적의 허위사실공표죄는 기본 징역 10개월 이하 또는 벌금 200만~800만원이지만, 거짓말을 반복하거나 방송 등에서 거짓말을 한 경우 더 무거운 처벌을 하게 돼 있다.&lt;br&gt;&lt;br&gt;공직선거법 위반 사건 선고 열흘 뒤인 25일에는 이 대표의 ‘위증 교사’ 사건 1심이 선고된다. 과거 유죄가 확정된 ‘검사 사칭’ 사건에 대해 2018년 경기지사 선거 과정에서 “사칭하지 않았는데 옆에 있다가 누명을 썼다”고 했다가 허위 사실 공표 혐의로 기소되자 김병량 성남시장 수행비서였던 김진성씨에게 “이재명을 주범을 몰기 위해 김 시장과 KBS가 협의했다”는 거짓 증언을 하게 했다는 혐의다. 이 사건에서는 금고형 이상이 확정되면 의원직이 상실되고 다음 대선에 출마할 수 없다.&lt;br&gt;&lt;br&gt;이 대표의 다른 사건 재판들은 아직 초입 단계다. 대장동·백현동·위례·성남FC 사건이 묶여 서울중앙지법에서 재판받는 사건은 가장 간단한 위례 부분 심리가 끝나고 이제 대장동 사건에 막 돌입했다. 지난 6월 기소된 ‘불법 대북송금’ 사건은 아직 준비 절차 단계이고 본재판은 시작도 못 하고 있다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞허위사실공표죄(250조 1항)&lt;/b&gt;&lt;br&gt;&lt;br&gt;후보자가 선거에 당선될 목적으로 연설·방송·신문 등에서 직업·경력·재산 등에 관해 허위 사실을 알리는 범죄. 5년 이하 징역형 또는 3000만원 이하 벌금형으로 처벌받는다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞의원직 상실형&lt;/b&gt;&lt;br&gt;&lt;br&gt;선거법 위반죄로 100만원 이상의 벌금형을 확정받거나, 다른 범죄로 금고(禁錮) 이상의 형을 확정받으면 의원직을 잃고, 일정 기간 선거에 출마할 수 없게 된다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김혜경, 선거법 위반 1심서 벌금 150만원</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/15/DRCX47XUSFHGHMZ7OHIOYFEJPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/15/DRCX47XUSFHGHMZ7OHIOYFEJPM/</guid>
-      <dc:creator>수원=김수언 기자, 유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Nov 2024 16:01:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QSYPYNTVBZOLLJ4VM5PLVR53DE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표의 배우자 김혜경씨가 14일 경기도 수원시 영통구 수원지방법원에서 열린 '공직선거법위반 혐의' 1심 선거 공판을 마친 뒤 법원을 나서고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표의 아내 김혜경씨에게 벌금 150만원이 선고됐다. 김씨는 2021년 민주당 대선 후보 경선 과정에서 경기도 법인카드로 민주당 전현직 국회의원의 배우자 등 6명에게 식사를 대접한 혐의로 재판을 받아왔다.&lt;br&gt;&lt;br&gt;김씨는 그동안 “비서 배모씨(전 경기도 별정직 공무원)가 나 몰래 결제한 것”이라고 주장했지만, 수원지법 형사13부(재판장 박정호)는 14일 김씨의 혐의를 전부 인정하며 유죄를 선고했다.&lt;br&gt;&lt;br&gt;김씨는 경기도지사였던 이 대표가 당내 대선 후보 경선에 출마한다고 선언한 이후인 2021년 8월, 서울 종로구의 한 중식당에서 민주당 전현직 국회의원의 배우자 3명과 자신의 운전기사, 수행원 등 총 6명에게 10만4000원 상당의 식사를 대접한 혐의를 받는다.&lt;br&gt;&lt;br&gt;공직선거법에 따르면, 후보자와 그 배우자는 밥을 사는 등 기부 행위를 해선 안 된다. 당시 식사 비용은 경기도 법인카드로 결제됐다. 당시 경기도 공무원 조명현씨는 “배씨의 지시를 받아 내가 직접 결제했다”고 폭로했다.&lt;br&gt;&lt;br&gt;검찰은 김씨의 지시나 묵인이 있었던 것으로 보고 지난 2월 그를 불구속 기소했다.&lt;br&gt;&lt;br&gt;이날 재판부는 “배씨가 피고인의 묵인이나 용인 아래 기부 행위를 했다”며 “피고인과 순차적이고 암묵적인 의사 결합이 있었다고 판단된다”고 했다. 김씨와 배씨가 공범이라는 것이다.&lt;br&gt;&lt;br&gt;재판부는 또 “피고인은 범행을 부인하고 배씨에게 책임을 전가하는 모습을 보였다”며 “선거의 공정성과 투명성을 해할 위험이 있었다고 보인다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 김씨가 이 사건 외에도 2021년 7~8월 여러 차례 민주당 국회의원의 배우자 등에게 식사를 대접하고 경기도 법인카드로 결제한 것으로 판단했다.&lt;br&gt;&lt;br&gt;재판부는 경기도 임기제 공무원이었던 배씨가 2010년부터 김씨의 사적인 수행비서였다는 사실, 배씨가 이 대표 부부의 성남시 아파트에 경기도 법인카드로 구입한 포장 음식, 샌드위치, 과일 등을 배달했다는 사실도 모두 인정했다.&lt;br&gt;&lt;br&gt;김씨의 변호인은 “재판부가 추측, 추론으로 유죄 판결을 했다는 생각이 든다”며 항소하겠다고 했다.&lt;br&gt;&lt;br&gt;대법원에서도 100만원 이상 벌금형이 확정되면 김씨는 5년간 선거운동을 할 수 없게 된다. 이 대표가 대선에 출마해도 도울 수 없다는 뜻이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>명태균 구속… 검찰, 尹대통령 부부 개입 여부도 규명할 방침 </title>
-      <link>https://www.chosun.com/national/court_law/2024/11/15/RVGPKDYQ7BA35K2Y54YOO5ND6Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/15/RVGPKDYQ7BA35K2Y54YOO5ND6Y/</guid>
-      <dc:creator>이민준 기자, 창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Nov 2024 16:24:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LTT5T5OQPZKRTAESMALTAIWLYM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 부부 공천 개입 의혹의 핵심 인물인 명태균씨가 14일 오후 공천을 대가로 정치자금을 주고받은 혐의(정치자금법 위반)로 경남 창원시 성산구 창원지방법원에서 열린 영장실질심사를 마친 후 대기 장소인 창원교도소로 가기 위해 호송차에 탑승하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘공천 거래’ 의혹을 받는 정치 브로커 명태균씨가 15일 새벽 구속되면서 명씨를 둘러싼 의혹에 대한 검찰 수사가 가속화될 전망이다.&lt;br&gt;&lt;br&gt;명씨는 ‘윤석열 대통령 부부의 공천 개입’ 의혹의 핵심에 있고, 김영선 전 의원과의 공천 거래 뿐 아니라 여러 선거 과정에서 공천에 관여한 정황이 드러난 상태다. 여기에 공공기관장 인사 개입 의혹, 불법 여론조사 의혹도 있다. 검찰 한 관계자는 “명씨가 구속된 만큼 여러 의혹이 쉽게 규명될 수도 있고, 명씨가 입을 닫을 경우 수사가 어려워질 수도 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇대통령 부부의 공천 개입 의혹?&lt;/b&gt;&lt;br&gt;&lt;br&gt;검찰은 우선 ‘윤 대통령 부부의 공천 개입’ 의혹을 규명한다는 방침인 것으로 전해졌다. 명씨가 김 전 의원의 공천이 확정되기 전날인 2022년 5월 9일 윤 대통령 부부와 통화한 정황을 확보했고, 민주당을 통해 윤 대통령과 명씨의 통화내용이 공개됐기 때문이다. 이 녹음파일에는 윤 대통령이 “김영선이를 (공천) 좀 해줘라 했는데 말이 많네 당에서...”라고 말하는 음성이 담겨 있었다.&lt;br&gt;&lt;br&gt;명씨는 지난 8·9일 검찰 조사에서 윤 대통령 부부와 통화한 사실을 인정했다. 다만 명씨는 “통화한 내용이 담긴 녹음파일 원본은 없으며, 김 여사와는 공천 관련 이야기를 하지 않았다”고 진술한 것으로 전해졌다. 검찰은 범죄 혐의와 상관없이 제기된 의혹에 대해 사실관계를 파악한다는 방침을 세웠다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XCNK44BZMBDRBE3SQU5KTGDH2U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 부부 공천 개입 의혹의 핵심 인물인 김영선 전 국민의힘 의원이 14일 오후 경남 창원시 성산구 창원지방법원에서 공천을 대가로 정치자금을 주고받은 혐의(정치자금법 위반)로 영장실질심사를 마친 후 대기 장소인 창원교도소로 가기 위해 호송차에 탑승하고 있다./창원=김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇김 여사 돈봉투, 여론조사 대가?&lt;/b&gt;&lt;br&gt;&lt;br&gt;검찰은 명씨로부터 “김 여사에게 돈봉투를 2차례 받았다”는 진술도 확보해 돈의 성격과 대가성 여부를 확인한다는 계획이다. 검찰은 명씨 휴대전화에서 ‘코바나컨텐츠’라고 적힌 돈봉투 사진을 확보했고, 의혹을 제기한 강혜경씨는 돈봉투에 500만원이 담겨 있었다고 주장했다. 그러나 명씨는 “교통비 명목이었고 액수는 기억나지 않는다”는 입장이다.&lt;br&gt;&lt;br&gt;명씨는 검찰에서 돈봉투를 받은 시점이 지난 대선 때 국민의힘 후보 경선이 진행되던 2021년 9월이라고 진술한 것으로 알려졌다. 명씨가 실질적으로 운영한 것으로 알려진 미래한국연구소는 그해 4월부터 이듬해 3월까지 당시 윤석열 후보를 돕기 위해 대선 관련 여론조사를 81차례 진행했다고 한다. 이에 따라 검찰 입장에서는 김 여사가 여론 조사에 대한 대가로 돈봉투를 줬는지 확인해야 할 상황이다.&lt;br&gt;&lt;br&gt;이 밖에 검찰은 경남테크노파크 원장 등 공공기관장 인사에 개입했다는 의혹, 창원 국가산업단지 선정 과정 개입한 의혹, 여론조사 조작 의혹 등을 수사한다는 계획이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇檢 “명씨, 이준석·함성득과 차명폰 통화"&lt;/b&gt;&lt;br&gt;&lt;br&gt;한편 이날 영장 심사에서는 증거 인멸과 도주 우려에 대해 명씨 측과 검찰이 치열한 공방을 벌인 것으로 전해졌다. 명씨 측은 28쪽 분량의 PPT를 제출해 도주 우려가 없음을 강조했다고 한다. 명씨 측은 “지난 3월 무릎 수술을 받아 매일 통원치료를 받고 있다. 거동이 불편해 도주 우려가 없다”고 했으며, 50세에 낳은 막내 딸 사진을 보여주며 “어린 딸을 두고 어떻게 도주하겠느냐”는 주장도 했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UAAIKUZP3JMO5GNOZJG2REV3YY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;'윤석열 대통령 부부 공천 개입' 의혹을 제기한 강혜경씨가 지난달 21일 오후 서울 여의도 국회 법제사법위원회에서 열린 대검찰청 국정감사에서 증인 선서를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 대해 검찰은 명씨가 지난달 21일 강혜경씨가 국회 국감에 출석한 직후, 차명 휴대전화를 사용해 이준석 의원과 함성득 경기대 교수 등과 통화한 사실을 제시하며 증거인멸의 우려가 있어 구속이 필요하다고 주장한 것으로 알려졌다. 법원은 이날 검찰의 주장을 받아들여 명씨의 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>교육·문화 2892억, 사회통합에 603억</title>
-      <link>https://www.chosun.com/national/regional/seoul/2024/11/15/55HDZUS7X5CEVEYHVHIDHXFMEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/11/15/55HDZUS7X5CEVEYHVHIDHXFMEE/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Nov 2024 16:39:16 +0000</pubDate>
-      <content:encoded>서울시가 지난달 편성한 48조원 규모의 내년도 예산안에는 비밀이 있다. 보통 예산안은 부서별로 필요한 사업비 등을 반영해 짜는데 올해는 일부 예산을 ‘약자동행지수’에 따라 편성한 것. 14일 서울시에 따르면, 약자동행지수는 서울시가 지난해 개발한 지표다. 노인, 장애인, 저소득층, 임신부 등을 위한 사업이나 서비스를 평가·분석해 매년 점수를 매긴다. 사업이나 서비스의 수준을 한눈에 파악해 부족한 분야를 우선 개선하겠다는 취지로 도입했다. 서울시가 지난 6월 공개한 약자동행지수에 따르면, 상대적으로 ‘교육·문화’와 ‘사회통합’ 분야 점수가 낮았다. 이에 따라 내년도 예산안에는 ‘교육·문화’ 분야 예산을 올해보다 307억원(11.9%) 증액했다.&lt;br&gt;&lt;br&gt;‘사회통합’ 예산도 전년 대비 71억원(13.3%) 늘려 603억원 편성했다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “정책 성과를 정량적으로 분석해 예산에 적용한 첫 사례”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울시 ‘남녀 미팅’ 참가 경쟁률 33대 1</title>
-      <link>https://www.chosun.com/national/regional/seoul/2024/11/15/ROIIEA4F5VD6LJQMUTDH52EMLU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/11/15/ROIIEA4F5VD6LJQMUTDH52EMLU/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Nov 2024 16:38:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HUKKKBT2KNHHXP6LMZPFQ6KGSI.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울시의 단체 미팅 '설렘in한강'의 포스터. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 미혼 남녀 100명을 모아 여는 ‘단체 미팅’에 신청자 3200여 명이 몰렸다. 경쟁률이 거의 33대1에 달한다. 서울시는 오는 23일 서초구 반포한강공원 세빛섬에서 ‘설렘, in 한강’ 미팅 행사를 연다.&lt;br&gt;&lt;br&gt;14일 서울시에 따르면, 신청 마감일인 지난 8일까지 총 3286명이 신청서를 냈다. 서울시 관계자는 “시가 직장, 결혼 여부, 성범죄 이력까지 검토해 참가자를 뽑기 때문에 많이 지원한 것 같다”고 했다.&lt;br&gt;&lt;br&gt;연령대별로 보면 30~34세 신청자가 45%로 가장 많았다. 남녀 신청자 비율은 51대49로 엇비슷했다.&lt;br&gt;&lt;br&gt;여성은 초등학교 교사, 간호사, 구청 공무원, 패션 디자이너 등이 많았다. 남성은 IT 회사나 연구소, 소방서, 경찰서 등에서 일하는 사람이 많았다. 한 남성 지원자는 신청서에 ‘남중, 남고, 공대를 졸업하고 증권사에 취직했는데 도무지 이성을 만날 기회가 없다’고 썼다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고추장 명인이 만든 떡볶이 맛은… 16~17일 ‘순창 떡볶이 페스타’</title>
-      <link>https://www.chosun.com/national/regional/honam/2024/11/15/GR6LGIHY2BFN3DJNIZ552TN3PU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/11/15/GR6LGIHY2BFN3DJNIZ552TN3PU/</guid>
-      <dc:creator>순창=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Nov 2024 16:38:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T4FHAAUPLFGKHE27JU5ORHOKJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고추장으로 유명한 전북 순창군에서 떡볶이 축제가 열린다. 순창의 고추장 명인이 만든 소스로 요리한 떡볶이 맛을 볼 수 있다.&lt;br&gt;&lt;br&gt;순창군은 오는 16~17일 순창발효테마파크 일대에서 ‘순창 떡볶이 페스타’를 개최한다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;순창군은 매년 10월 ‘순창 장류 축제’를 열고 있는데, 떡볶이 축제는 이번이 처음이다.&lt;br&gt;&lt;br&gt;순창군 관계자는 “요즘 ‘K푸드’의 대표 메뉴로 떡볶이 인기가 높은데 그 떡볶이의 주원료가 고추장”이라며 “고추장의 고장 순창에서 떡볶이 축제도 열어보자는 것”이라고 했다.&lt;br&gt;&lt;br&gt;국내에선 대구 북구가 2021년부터 ‘떡볶이 페스티벌’을 열고 있다. 지난 5월 축제에 약 13만명이 찾았다고 한다.&lt;br&gt;&lt;br&gt;16일 개막식에는 순창 고추장 명인과 기능인들이 무대에 올라 즉석에서 고추장을 만드는 퍼포먼스를 한다. 이 소스로 다양한 떡볶이 요리를 만들어 선보일 예정이다. 대한민국 식품 명인인 강순옥 명인의 고추장으로 만든 떡볶이를 맛볼 수 있다. 채식주의자를 위한 비건 떡볶이, 카레 떡볶이, 제육 떡볶이 등도 먹어볼 수 있다.&lt;br&gt;&lt;br&gt;순창군은 이날 ‘순창 떡볶이’란 브랜드도 발표할 예정이다. 순창군 관계자는 “앞으로 떡볶이 하면 순창을 떠올릴 수 있게 만들려는 것”이라고 했다.&lt;br&gt;&lt;br&gt;2022년 기준 순창 지역의 고추장, 된장 등 매출액은 4630억원에 달한다. 관련 업체 90여 곳이 있다.&lt;br&gt;&lt;br&gt;최영일 순창군수는 “앞으로도 순창의 맛과 관광을 결합한 다양한 행사를 열어 순창을 미식 관광 도시로 키우려고 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>국어 한 지문서 ‘노이즈’ 단어만 40번 넘게 등장</title>
