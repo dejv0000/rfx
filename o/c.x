@@ -13,6 +13,61 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경기 곤지암리조트 내 가건물서 화재... 1명 화상</title>
+      <link>https://www.chosun.com/national/incident/2024/11/17/IT4IPAL24RHUFOYG7M4ZRVQXGA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/17/IT4IPAL24RHUFOYG7M4ZRVQXGA/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 Nov 2024 10:09:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2PFSPGE7ZNAM3OHEDURFTGWGOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오후 2시 44분쯤 경기도 광주시 도척면 곤지암리조트 내 가건물에서 화재가 발생해, 리조트 직원 1명이 발목과 손목 부위에 1도 화상을 입었다. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도 광주의 한 리조트 창고 건물에서 불이나 1명이 화상을 입었다.&lt;br&gt;&lt;br&gt;17일 경기도소방재난본부 등에 따르면 이날 오후 2시 44분쯤 경기도 광주시 도척면 곤지암리조트 내 가건물에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;이 불로 리조트 직원 20대 남성 A씨가 발목과 손목 부위에 1도 화상을 입고 응급처치를 받았다. 다른 인명피해는 없었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이 가건물은 식자재 용품 보관 창고와 루지 발권 매표소 등으로 사용되던 건물인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;“리조트 내 건물에서 불이 났다”는 관광객의 신고를 받고 출동한 소방 당국은 장비 32대와 소방관 100명을 동원해 오후 3시 52분쯤 완전히 불을 껐다.&lt;br&gt;&lt;br&gt;소방 당국은 정확한 피해 규모와 화재 원인 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“강남까지 10분이면 간다더니”...  위례신사선 또 불발에 위례주민들 궐기대회</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/17/HIQSII452RACTGT54RRQLIFTDU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/17/HIQSII452RACTGT54RRQLIFTDU/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 16 Nov 2024 21:31:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O5K3TON44JHLJLFT33J23R7CLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오후 2시 경기 성남시 위례중앙광장에서 위례시민연합(대표 김광석)이 '위례신사선 정상화'를 촉구하는 집회를 열고 있다. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;위례 신도시와 서울 강남구를 연결하는 위례신사선 경전철 민간투자 사업이 이달 초 최종 유찰되면서 사업이 17년째 표류하자 위례 지역 주민들이 17일 궐기대회를 열고 위례신사선 사업 정상화를 촉구하고 나섰다.&lt;br&gt;&lt;br&gt;위례시민연합(공동대표 김광석 이호걸)은 이날 오후 2시 경기 성남시 위례중앙광장에서 집회를 열고 “위례신사선 민자사업은 완전히 실패했고, 이 실패의 책임은 바로 정부, 서울시, 그리고 지역 국회의원들이 져야 한다”며 “이 무책임한 자들은 우리의 미래를 망가뜨리고도 아무런 책임을 지지 않고 있다”고 했다.&lt;br&gt;&lt;br&gt;김광석 대표는 “2005년 위례신도시 개발 계획이 발표됐고, 2008년부터 본격적인 공사가 시작됐다. 정부는 우리에게 ‘위례신사선이 2021년 완공되어 강남까지 10분이면 간다’고 약속했다”면서 “그런데 16년이 지난 지금, 우리는 무엇을 보고 있는가. 사업은 지연되고 있고, 위례신사선은 아직 착공조차 못 하고 있다”고 했다.&lt;br&gt;&lt;br&gt;그는 “이건 단순한 실수가 아니라 ‘분양 사기’다. 국민을 속이고, 우리를 철저히 기만한 범죄 행위”라며 “정부와 서울시를 대상으로 강한 투쟁을 선언한다”고 했다.&lt;br&gt;&lt;br&gt;위례신사선은 서울 송파구와 경기 성남·하남 일대에 조성한 위례 신도시와 서울 강남구 신사역을 잇는 14.7㎞ 길이 경전철이다. 민자사업으로 추진됐는데 사업자로 선정됐던 삼성물산과 GS건설 등이 공사비 상승 등 사업성이 떨어진다는 이유로 잇달아 철수했다.&lt;br&gt;&lt;br&gt;그 뒤 사업자 공모에서도 응찰자가 나타나지 않았고, 서울시는 지난 4일 “민자 사업을 재정 사업으로 전환해 추진하기로 했다”고 했다. 다만 사업 방식을 바꾸면, 기획재정부 예비타당성 조사 등 절차를 새로 밟아야 해 개통이 최소 2~3년은 늦어질 것이라는 지적이 나왔다. 서울시 측은 “예비타당성 조사를 통과하면 최대한 빨리 사업자를 선정해 공사에 들어갈 것”이라는 입장이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>외국인 전세사기 피해 막는다…서울시, 7개 국어 임대차 상담 시작</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/17/ZBDEV6DSXJF6XHUFCICI55K4LE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/17/ZBDEV6DSXJF6XHUFCICI55K4LE/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 Nov 2024 08:40:27 +0000</pubDate>
+      <content:encoded>서울시가 외국인 주민을 대상으로 부동산 거래 상담을 시작한다. 서울에 사는 외국인이 늘면서 전세사기나 주택 임대차 분쟁 등 피해가 외국인으로도 확산되고 있어서다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RJ7RQLBEU5GEVNHQAYJEAM5MRM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 영등포구 대림동 서울외국인주민지원센터에서 외국인 주민들이 상담을 받고 있는 모습. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 오는 18일부터 서울에 사는 외국인 주민들을 위한 부동산 거래 상담을 시작한다고 17일 밝혔다. 상담은 영등포구 대림동에 있는 서울외국인주민지원센터에서 매주 월요일 오후 2~5시에 진행된다. 영어를 할 줄 아는 공인중개사가 직접 상담하며, 중국어·베트남어·몽골어·러시아어·우즈베크어·파키스탄어 등 6개 언어는 통역을 제공한다.&lt;br&gt;&lt;br&gt;상담을 원하는 외국인은 서울외국인주민지원센터를 방문하거나 전화(02-2229-4900), 이메일(help@sfrc.seoul.kr)로 신청하면 된다. 서울시 관계자는 “상담사가 1차 상담을 실시하고, 추가 상담이 필요하다고 판단하면 공인중개사와 연결해 일대일 상담을 받을 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;서울시는 우선 매주 월요일마다 상담을 진행하고, 수요가 충분하다면 주말에도 상담을 받을 수 있게 하는 방안도 검토할 계획이다.&lt;br&gt;&lt;br&gt;이해선 서울시 글로벌도시정책관은 “외국인들이 부동산을 안전하게 거래해 서울에 안정적으로 정착하고, 편안한 일상을 이어나갈 수 있도록 지원을 확대해 나가겠다”고 말했다.&lt;br&gt;&lt;br&gt;한편 서울시는 지난 2008년부터 서울 시내 총 293곳에 외국어가 가능한 ’글로벌 부동산 중개사무소’를 운영하고 있다. 2014년에는 서울외국인주민지원센터도 문을 열고 외국인 주민들에게 상담이나 한국어 교육 등 서비스를 무료로 제공하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여의정 협의체 두번째 회의... 협의점 못찾고 평행선만 달려</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/11/17/YFKIBOOT65CGXCD2A7DARHYSAA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/11/17/YFKIBOOT65CGXCD2A7DARHYSAA/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 Nov 2024 08:39:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AORCEPETNJKZJHNMEN5V7CIYJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오후 2시 서울 여의도 국회에서 열린 여·의·정 협의체 회의에서 참석자들이 악수를 나누고 있다. 왼쪽부터 김성원 국민의힘 의원, 이진우 대한의학회장, 이주호 사회부총리 겸 교육부 장관, 이종태 한국의과대학·의학전문대학원협회(KAMC) 이사장, 한덕수 국무총리, 이만희 국민의힘 의원. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 수능이 끝난 지 나흘째인 17일 여·의·정(여당·의료계·정부) 협의체가 국회에서 두 번째 회의를 열고 의대 정원 문제 등을 논의했지만 별다른 합의점을 찾지 못했다.&lt;br&gt;&lt;br&gt;국민의힘 한지아 의원은 회의 직후 브리핑에서 “2025학년도 의대 증원과 관련해 의료계 주장을 들었고, 정부는 현실적으로 어려운 부분을 말했다”고 밝혔다. 의료계는 2025학년도 정원을 조정해달라고 요구한 것으로 알려졌다. 그러나 정부는 확정된 대입 전형 시행 계획은 현실적으로 바꾸기 어렵다는 입장을 강조한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;2026년 의대 정원 재논의 안에 대해서도 정부와 의료계 간 의견이 엇갈렸다. 정부는 의료 인력 수급 추계 위원회(인력 추계위)에서 2026학년도 의대 정원 규모를 논의할 수 있다는 입장이지만, 의료계는 인력 추계위에서 2027학년도 정원부터 합의하자고 제안한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;협의체는 이날 회의에서 의료계 요구 사항 중 하나인 한국의학교육평가원(의평원) 자율성 보장 방안에 대해서도 논의했다. 의평원은 의학 교육의 질을 평가·인증하는 기관이다.&lt;br&gt;&lt;br&gt;앞서 의평원은 “의대 증원으로 의학 교육의 질이 떨어져선 안 된다”는 취지로 내년부터 정원이 10% 이상 늘어나는 의대 30곳의 평가 기준을 강화하겠다고 했는데, 이를 두고 교육부가 ‘의평원 심사에서 탈락해도 처분을 1년 유예할 수 있다’고 했다. 의료계는 “의평원을 무력화하려는 시도”라며 반발했다.&lt;br&gt;&lt;br&gt;한 의원은 “정부가 의평원 자율성을 보장해야 한다는 취지를 밝혔지만, 구체적으로 의료계와 견해차가 있었다”며 “의료계도 방식에 있어서 의정 간 신뢰가 있어야 한다고 했다”고 했다.&lt;br&gt;&lt;br&gt;김성원 국민의힘 의원은 “정부·의료계 측 입장이 여전히 평행선을 달리고 있지만, 서로 입장을 이해하면서 방법을 찾아 나가고 있다”고 했다.&lt;br&gt;&lt;br&gt;이날 협의체에는 정부에서 한덕수 국무총리와 방기선 국무조정실장, 이주호 사회부총리 겸 교육부 장관, 조규홍 보건복지부 장관이 참석했다. 의료계에선 이진우 대한의학회 회장과 이종태 한국의과대학·의학전문대학원협회(KAMC) 이사장이 참석했다. 당에서는 이만희·김성원·한지아 의원이 참석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고열 호소 하루 만에 패혈증으로 환자 사망...진단 의사, 대법서 무죄</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/17/PHAQ4HZYBRCZLAOBR4MV47TK2M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/17/PHAQ4HZYBRCZLAOBR4MV47TK2M/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 Nov 2024 08:30:30 +0000</pubDate>
+      <content:encoded>패혈증 환자에게 일반적인 장염약을 주고 돌려보냈다가 이튿날 숨지게 한 혐의로 재판에 넘겨진 의사가 1·2심에선 유죄를 선고 받았으나 대법원에서 무죄 판단을 받았다. 사망할 정도로 환자의 몸상태가 급격히 악화될 것을 예견할 순 없었다는 취지의 판단이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYV43FZZKZHX5PZXJZRJUOUZNU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 법조계에 따르면 대법원 1부(주심 신숙희 대법관)는 지난달 25일 업무상과실치사 혐의로 기소된 나모씨에게 금고 10개월에 집행유예 2년을 선고한 원심 판결을 파기하고 사건을 다시 심리·판단하도록 창원지법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;경남 창녕군의 한 병원 내과 의사로 일한 나씨는 2016년 10월 4일 오전 고열, 몸살, 복통 등을 호소한 50대 여성 환자 A씨에게 장염약을 주는 등 일반적 치료만 하고 귀가시켰다가 패혈증 쇼크로 결국 숨지게 한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;당시 나씨는 A씨에 대해 소변 및 혈액검사 등을 했으나 백혈구 수치가 정상치의 2~4배 가량 높게 나온 것 외에는 별다른 특이소견을 발견하지 못했던 것으로 파악됐다. 다만 뒤늦게 나온 A씨의 일반화학검사결과상 염증수치(CRP)가 정상치의 80배 이상으로 나타나기도 했는데, 나씨는 환자를 입원시키고 항생제를 투여하는 등의 조치 없이 A씨를 집으로 보냈다.&lt;br&gt;&lt;br&gt;하지만 A씨는 같은 날 밤 증상이 나빠졌다며 똑같은 병원에 재차 왔으나 다른 응급실 의사(공소 제기 전 사망)로부터 장염 관련 치료만 받은 채 귀가했고, 다음 날 오후 끝내 숨졌다. 사인은 패혈증 쇼크로 인한 다발성 장기부전이었다.&lt;br&gt;&lt;br&gt;1심과 2심은 나씨의 혐의를 유죄로 인정해 금고형의 집행유예를 선고했다. 1심은 “내과 전문의인 나씨는 피해자가 진찰 중에 호소했던 증상의 근본 원인에 의문을 가지고 급성 감염증은 물론 패혈증까지도 의심해 항생제를 투여하고, 피해자를 입원시켜 면밀히 관찰하고 그 결과에 따라 상급 병원으로의 전원 가능성까지도 고려한 의료적 판단을 내리는 등 적극적 조치를 취했어야 한다고 충분히 인정할 수 있다”고 지적했다. 2심은 나씨의 항소를 기각했다.&lt;br&gt;&lt;br&gt;그러나 대법원은 “피고인이 피해자의 활력징후가 안정적이었고 그 외 간초음파검사 및 소변검사 등 다른 검사에서 이상소견이 확인되지 않는 사정을 근거로 피해자의 소화기계 증상과 통증 등의 원인을 급성 장염으로 진단한 것이 ‘임상의학 분야에서 실천되고 있는 진단 수준의 범위’를 벗어났다고 보기 어렵다”며 판단을 뒤집었다.&lt;br&gt;&lt;br&gt;대법원은 “피해자에게 패혈증 쇼크 등의 증상이 발현돼 하루 만에 사망에 이를 정도로 급격하게 악화할 것을 예견할 수 있었다고 보기 어렵다”며 의료상 과실로 나씨를 처벌할 수는 없다고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>철도노조, 18일 태업 예고...열차 일부 지연 가능성</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/11/17/RI3FJBD6ONCC3B3F4DA6KOVCDE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/11/17/RI3FJBD6ONCC3B3F4DA6KOVCDE/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>전국철도노동조합이 18일부터 태업에 들어간다.</description>
+      <pubDate>Sun, 17 Nov 2024 08:58:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UWXEUZMZIRPZLFBRJPLR4QD2RQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오후 서울 중구 서울역 대합실에 철도노조의 태업(준법투쟁) 관련 열차 운행 지연 안내문이 게시돼 있다. /뉴스1
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국철도노동조합이 18일부터 태업에 들어간다. 파업 시 뒤 따르는 열차 운행 중단 사태는 일어나지 않을 것으로 보이지만, 일부 열차 운행이 지연될 수 있어 시민 불편이 예상된다. &lt;br&gt;&lt;br&gt;코레일은 17일 “18일부터 전국철도노동조합의 태업이 예고됨에 따라 일부 전동열차의 운행이 지연될 수 있으니 열차 이용에 참고하시기 바란다”는 내용의 안내 안전문자를 발송했다. 코레일에 따르면 노조의 태업은 22일 정도까지 이어질 것으로 보인다. &lt;br&gt;&lt;br&gt;노조의 태업으로 차량 운행 횟수 등이 줄어드는 것은 아니다. 그러나 노조 측이 열차 점검 등을 이유로 운행을 늦추면 정시보다 일부 지연돼 운행될 가능성이 있다. 코레일 관계자는 “게릴라성 태업으로 일부 열차 지연이 발생할 수 있다”며 “지연을 최소화하도록 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;철도 노조가 태업에 돌입한 이유는 근로 조건 개선 등을 놓고 코레일과 줄다리기를 하고 있기 때문이다. 노조는 4조 2교대 전환, 부족 인력 충원, 기본급 2.5% 인상 등을 주장하고 있다. 이들은 요구가 받아 들여지지 않을 경우 12월 초 총파업을 강행하겠다고 예고한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>중국 어선 500척이 서귀포 앞바다에 우르르...무슨 일?</title>
       <link>https://www.chosun.com/national/regional/2024/11/17/5EMU3SWE3RDIHAV4ZBR7GSRWUI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/17/5EMU3SWE3RDIHAV4ZBR7GSRWUI/</guid>
@@ -876,33 +931,6 @@ The Chosunilbo</media:credit>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TYA4IMPXIJOUHLWKZMGSSPB3TM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동연 경기도지사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김동연 경기도지사는 15일 더불어민주당 이재명 대표가 공직선거법 위반 혐의로 1심에서 징역형의 집행유예를 선고받자, “사법부 판단, 매우 유감스럽다”고 밝혔다.&lt;br&gt;&lt;br&gt;김 지사는 자신의 페이스북에 글을 올리고 “대한민국에 법의 상식과 공정이 남아 있는지 묻지 않을 수 없다”고 했다. 1심 법원 판결에 대한 유감의 뜻을 밝힌 것이다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사합의34부는 이날 공직선거법 위반(허위사실공표) 혐의로 기소된 이 대표에게 의원직 상실형에 해당하는 징역 1년에 집행유예 2년을 선고했다. 이 판결이 대법원에서 확정되면, 이 대표는 의원직을 잃는다. 피선거권도 박탈돼 차기 대선에도 출마할 수 없다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난 9월 20일 결심공판에서 이 대표에게 징역 2년을 구형했다. 김 지사는 지난달 1일에도 페이스북을 통해 “야당 대표에게는 말 몇 마디, 22년 전 사건까지 끄집어내서 최고형까지 구형하는 선택적 ‘짜깁기 수사’”라며 검찰을 비판했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“설마 돈 때문에?”… 기초수급 학생들 대신 수학여행비 내준 학부모</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/15/Y7F5JRC4QNGEBPBUM6ALT5MRJ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/15/Y7F5JRC4QNGEBPBUM6ALT5MRJ4/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 15 Nov 2024 06:22:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H42GSISDY5IB7I5VOQKVK6HZEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 경기도 수원시 영통구 망포동에서 학생들이 등교를 하고 있다. 기사와 관련 없음./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중학생 아들을 둔 학부모가 기초생활수급자 학생들의 수학여행 비용을 대신 내줬다는 사연이 전해졌다.&lt;br&gt;&lt;br&gt;작성자 A씨는 지난 14일 한 온라인 커뮤니티에 ‘수학여행’이라는 제목의 글과 함께 사진 한 장을 올렸다.&lt;br&gt;&lt;br&gt;A씨는 “한 달 전쯤 중학생 아들이 수학여행 간다는 통지문을 보여줬다”며 겪은 일을 공유했다. 당시 통지문을 본 A씨는 수학여행에 가지 못하는 일부 아이들을 보고 ‘설마 금액 때문에 못 가는 건 아니겠지?’라는 마음에 학교 행정실에 문의했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QTFZXXL77MTVADJAYSBLYXM53I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중학생 아들을 둔 학부모가 기초생활수급자 학생들 대신 수학여행 비용 내주는 것 관련 학교 측과 나눈 문자 내용./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그는 수학여행에 참여하지 못하는 아이들이 금액적인 문제 때문에 못 하는 것이라면 조용히 신원을 밝히지 않고 지원해 주고 싶다고 학교 측에 의사를 전달했다.&lt;br&gt;&lt;br&gt;이후 수학여행 출발 1주일 전 학교에서 연락이 왔다. 학교 측은 “아직 입금하지 않은 친구들이 있다. 독려했지만 수학여행이 1주일밖에 남지 않아서 연락을 드렸다. 그 학생들은 기초생활수급 대상자”라고 했다.&lt;br&gt;&lt;br&gt;A씨는 통화를 마치자마자 해당 학생들 이름으로 수학여행 비용을 입금했다며 학교 측과 나눈 메시지를 공개했다.&lt;br&gt;&lt;br&gt;공개된 메시지를 보면 학교 측에서 “정확한 금액으로 입금해 주시라는 부탁이 있다. 남아도 처리하기가 힘들다고 한다”고 하자, A씨는 “방금 말씀해 주신 대로 학생 이름으로 입금했다. 항상 감사드린다”고 답했다. 이에 학교 측은 “방금 행정실에서 입금 확인 전화 받았다. 정말 고맙다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 “뿌듯하면서도 씁쓸했다. 요즘 대한민국은 잘 사는 것만 보이고 자기 자식만 귀하게 여기는 사회”라고 했다. 이어 “세금이 정말 잘 쓰이면 좋겠다는 생각이 들었다”며 “돈 문제로 밥을 굶는다든지 수학여행이란 인생 최대의 추억 같은 이벤트를 포기하는 일은 없었으면 좋겠다”고 남겼다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “요즘 학생들 수학 여행비 보니까 ‘헉’ 소리 나오던데 큰일 하셨다” “멋지다. 덕분에 그 학생은 친구들과 좋은 추억을 만들겠다” “뭉클하다. 덕분에 훈훈하다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오세훈, “이재명 1심 선고 다행, 존재 자체가 대한민국 위협”</title>
-      <link>https://www.chosun.com/national/regional/seoul/2024/11/15/WFPA3SDXE5HATEP5SZYWWNDQNQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/11/15/WFPA3SDXE5HATEP5SZYWWNDQNQ/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Nov 2024 19:34:00 +0000</pubDate>
-      <content:encoded>오세훈 서울시장이 이재명 더불어민주당 대표의 징역1년·집행유예2년 1심 판결과 관련해 “‘거짓이 잘못’이라는 당연한 원칙이 재판에서 확인된 것이 다행스럽다”며 “이재명 대표는 존재 자체가 대한민국에 위협”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2G6SZBDPVJMBHIODGMBI3J4SBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 지난 5일 오전 정부서울청사에서 서리풀 지구 개발 설명을 하고 있는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 15일 페이스북 게시물을 통해 이같이 밝혔다.&lt;br&gt;&lt;br&gt;오 시장은 “이렇게 당연한 일을 두고 국정과 국회가 멈춰버릴 정도의 국가적 에너지를 소모하고 있다는 것 자체가 통탄스럽다”며 “거짓말을 포함해 온갖 개인 비리와 부정 혐의를 받으면서도 승승장구하는 이재명 대표라는 존재 자체가 우리 사회를 크게 후퇴시키고 나아가 대한민국을 위협하고 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 오 시장은 “저도 지자체장으로서 다양한 개발 사업을 접해 왔지만 백현동 용도변경이나 대장동 개발 비리는 정말 이해할 수도 없고 있을 수도 없는 일”이라며 “보통의 정치인이라면 표면화되자마자 대국민 사과를 하고 정계은퇴를 할 만한 사안”이라고 했다.&lt;br&gt;&lt;br&gt;또 오 시장은 “대한민국은 앞으로 나아가야 한다. 이재명이라는 암초에 부딪혀 침몰해서는 안된다”고도 했다.&lt;br&gt;&lt;br&gt;민주당에 대해서 오 시장은 “‘미몽’에서 깨어나 헛된 방탄에 이용되는 ‘비정상 정치’가 아니라 이제라도 국민을 위한 ‘정상 정치’로 회귀해야 한다”고 했다.&lt;br&gt;&lt;br&gt;공직선거법 위반으로 기소된 이 대표는 이날 서울중앙지법 형사34부(재판장 한성진) 1심 선고 공판에서 징역1년에 집행유예 2년을 선고받았다. 2022년 9월 불구속 기소된 지 2년 2개월 만으로 이 대표가 받고 있는 재판 네 건 중 첫번째 1심 결과다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XV3WR7ORWFA7HJUOG2FUATBJKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/오세훈 서울시장 페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대구지검, 마약 투약 후 운전한 조폭 구속 기소</title>
-      <link>https://www.chosun.com/national/incident/2024/11/15/HLOJFN6LSVGDPJD7AA5ZA7EM3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/15/HLOJFN6LSVGDPJD7AA5ZA7EM3U/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 15 Nov 2024 07:19:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CMSIWBLP2K2XCFQRX76U5OP7EY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지검/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마약을 투약한 뒤 운전하다 교통사고를 낸 조직폭력배가 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대구지검 강력부(부장 소창범)는 15일 마약류관리법 위반 혐의로 남성 A(40)씨를 구속 기소했다. A씨는 대구 지역 폭력 조직인 동성로파 조직원으로, 지난 7월 대구 수성구의 한 도로에서 마약류인 필로폰을 투약한 상태로 자동차를 몰다 정차 중인 차량을 수차례 들이 받은 혐의를 받고 있다. A씨가 운전한 차량은 자동차 의무보험에 가입돼 있지 않았던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 사고 이후 차에서 내린 뒤 몸을 제대로 가누지 못한 채로 횡설수설하는 등 마약 투약 증상을 보였다고 한다.&lt;br&gt;&lt;br&gt;이후 경찰이 소변 감정을 의뢰했지만 A씨는 이를 거부했다. 검찰은 A씨 모발을 감정하고 휴대전화 통화 내역, 이동 동선 등을 분석한 뒤 A씨의 필로폰 취득 사실과 이를 투약한 시간과 장소 등을 파악해 구속 기소했다.&lt;br&gt;&lt;br&gt;A씨는 과거에도 필로폰을 투약해 수차례 처벌 받았으며, 이와 관련한 항소심 재판 중에도 필로폰을 투약한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “마약 범죄에 엄정 대응해 지역 사회와 시민을 안전하게 지키겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>북한 소음방송 피해 강화 주민들에 ‘방음창 설치’... 인천시, 긴급 지원</title>
       <link>https://www.chosun.com/national/regional/2024/11/15/5FKKMKSH75FFFJWZO4GOP5REGU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/15/5FKKMKSH75FFFJWZO4GOP5REGU/</guid>
@@ -925,15 +953,6 @@ The Chosunilbo</media:credit>
       </media:content>
     </item>
     <item>
-      <title>법원, ‘연세대 논술시험 유출’ 관련 효력정지 가처분 인용... 합격자 발표 중지</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/15/I5MLT7CJTFH4ZIPZBSWRFVTUKA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/15/I5MLT7CJTFH4ZIPZBSWRFVTUKA/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 15 Nov 2024 05:22:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PAG2GDFZX5DBFOXXQMWXCTF7RA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 12일 연세대학교 2025학년도 수시모집 논술시험을 마친 수험생들이 고사장을 나서고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 2025학년도 연세대학교 수시모집 자연계열 논술시험 문제 유출과 관련해 수험생 측 소송단이 시험 효력을 중지해달라며 제기한 가처분 신청을 인용했다. 이에 따라 오는 12월 13일에 예정됐던 합격자 발표가 중지될 것으로 보인다.&lt;br&gt;&lt;br&gt;서울서부지법 민사합의21부(재판장 전보성)는 “논술시험에 따른 후속 절차의 진행을 2025학년도 연세대학교 수시모집 자연계열 논술시험 재시행 청구사건의 판결 선고 시까지 중지한다”고 15일 결정했다. 재판부는 “이 사건 논술시험의 공정성이 중대하게 훼손돼 이 사건 논술전형 절차의 공정한 진행에 대한 수험생 측의 정당한 신뢰 내지 기대권이 침해되었다고 볼 여지가 크다”고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 시험의 공정성 훼손 여부에 대해 “논술 전형의 평가요소와 반영비율은 논술시험 100%로 사실상 오로지 논술시험 성적에 의해 합격 여부가 결정되므로 이 사건 논술전형에서 요구되는 공정성은 ‘논술시험 절차의 공정성’에 따라 절대적으로 좌우된다고 볼 수 있다”고 지적했다. 이어 “시험의 공정성은 모든 응시자가 사회통념상 동일한 조건과 환경에서 시험을 치렀다는 전제에서만 담보될 수 있고, 무엇보다 시험 문제에 노출되는 시간이나 시험 문제에 관한 사전 정보 등 시험 문제와 관련된 조건이 응시자 간에 동일할 것이 핵심”이라고 부연했다.&lt;br&gt;&lt;br&gt;재판부는 “명확한 정답이 존재하고 통상적으로 풀이에 투입하는 시간에 비례해 정답을 맞힐 가능성이 높은 수학 문제라는 시험의 특성을 고려할 때 일부 응시자들만 미리 문제지를 접하는 등으로 시험 문제에 관한 사전 정보를 가진 상태에서 시험을 치렀다면 비록 그 정보가 사소한 것이고 해당 응시자들의 수가 극히 소수라고 하더라도 그 자체로 시험의 공정성은 담보될 수 없다고 봄이 타당하다”고 밝혔다.&lt;br&gt;&lt;br&gt;수험생 측 법률대리인인 김정선 변호사는 이날 본지와의 통화에서 “시험이 공정성을 심하게 잃었기 때문에 합격자를 선발할 수 없다고 재판부가 판단한 것 같다”면서 “본안 소송에서 재시험을 할 것인지 혹은 시험을 무효로 할 것인지에 관한 결정만 남았는데, 본안 판단 전에 연세대가 시험을 다시 치러야 피해자를 덜 양산하지 않을까 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 지난달 12일 연세대 신촌캠퍼스에서 실시된 수시 모집 자연계열 논술 고사 도중 수학 시험 문제가 실시간으로 인터넷에 유출된 정황이 나타났다. 당시 경영관 104호 고사실에서는 감독관의 착각으로 문제지가 시험 시작 1시간여 전에 배부됐다가 회수됐고, 이 과정에서 문제 내용이 유출됐다는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;이에 연세대 자연계열 논술을 응시한 수험생 등 18명은 지난달 21일 연세대를 상대로 논술 시험을 무효로 하고 재시험을 진행해야 한다는 취지의 집단 소송을 제기했다. 한편, 연세대는 논란이 확산하자 문제지 등을 촬영해 온라인에 게시한 수험생 등 6명을 업무방해 혐의로 고발했고, 논술 시험에서 공정성을 훼손하는 행위가 있었는지 등 사건 전반에 대해서도 경찰에 수사 의뢰했다. 경찰은 사건을 서울경찰청 공공범죄수사대에 배당하고 현재 수사 중이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이재명에게 징역형 선고, 한성진 부장판사는 누구?</title>
       <link>https://www.chosun.com/national/court_law/2024/11/15/6TUMSSVHTVA2FJDLD7ITHBTDSQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/15/6TUMSSVHTVA2FJDLD7ITHBTDSQ/</guid>
@@ -941,24 +960,6 @@ The Chosunilbo</media:credit>
       <description/>
       <pubDate>Thu, 14 Nov 2024 18:47:00 +0000</pubDate>
       <content:encoded>15일 이재명 더불어민주당 대표의 ‘공직선거법 위반 사건’ 1심에서 징역 1년에 집행유예 2년을 선고한 서울중앙지법 형사34부 재판장 한성진(53·사법연수원 30기) 부장판사는 “묵묵히 할 일을 하는 판사”로 법원 내에서 이름이 알려져 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/25YLMG7LTRPWTLLULMOGBDQ5RE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지방법원 청사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 출신으로 서울 명덕고·서울대 법학과를 졸업한 한 부장판사는 27세 때 사법시험에 합격, 육군법무관 복무 뒤 2004년 창원지법에서 판사 생활을 시작했다. 서울남부지법 판사, 부산지법 부장판사, 수원지법 성남지원 영장전담 부장판사, 서울북부지법 부장판사 등을 거쳐 올해 2월부터 서울중앙지법 부장판사로 재직 중이다. 수원지법 시절 성폭행 혐의를 받은 배우 강지환(본명 조태규)씨에게 구속 영장을 발부한 적이 있고, 서울북부지법 시절엔 정치자금법 위반과 사기·사기미수 혐의로 기소된 김우정 대종상영화제 총감독에게 무죄를 선고한 원심 판결을 깨고 징역 6개월에 집행유예 2년을 선고하기도 했다.&lt;br&gt;&lt;br&gt;처음부터 한 부장판사가 이 대표 사건을 담당한 건 아니다. 지난 2022년 9월 이 대표가 기소된 뒤 이 사건을 16개월 동안 심리한 재판장 강규태(53·연수원 30기) 부장판사가 올해 초 갑자기 사표를 내는 바람에 이에 따른 법관 인사 등으로 새롭게 부임해 사건을 물려받았다. 한 부장판사는 서울중앙지법에 오기 직전엔 서울북부지법에서 형사항소1-2부 재판장을 맡았는데, 인사 당시 “난도 높은 형사부 재판장을 두 번 연속하게 하는 건 너무했다”는 얘기가 나왔다고 한다.&lt;br&gt;&lt;br&gt;한 부장판사는 진보 성향 법관 모임인 국제인권법연구회 소속이지만 눈에 띄는 활동은 하지 않고, 묵묵히 재판에 임하는 ‘정통 법관’인 것으로 전해진다. 같은 근무지에서 일한 경험이 있는 한 서울고법 부장판사는 “자기 할 일을 제때 해내는 분” “모임 등에서 말을 주도하기보단 경청하는 스타일”이라고 평가했다. 실제로 이 대표 재판에서도 한 부장판사는 줄곧 흰 마스크를 쓴 채 심증을 드러내지 않고 재판을 진행해 왔다. 선고 당일인 이날도 마스크를 썼다. 법원 10층에서 근무하는 한 부장판사는 선고를 앞두곤 다른 법관들과 별다른 교류 없이 20층 휴게실을 수시로 왔다 갔다 하며 깊은 고민에 빠진 모습이었다는 후문도 돌았다.&lt;br&gt;&lt;br&gt;한편 주심을 맡은 이학인 판사는 제2회 변호사시험 출신으로 서울남부지법 판사 등을 거쳤다. 다른 배석인 박명 판사는 사법연수원 45기 출신으로 재판연구원과 수원지법 안양지원 판사 등을 역임했다. 이들 모두 올해 2월부터 한 부장판사와 함께 서울중앙지법에 부임해 이 사건을 심리했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>토요일 세종대로·남대문로 일대서 대규모 집회...교통 혼잡 예상</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/15/UFRADLRQV5DS3KBRORSP3YWERE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/15/UFRADLRQV5DS3KBRORSP3YWERE/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 15 Nov 2024 05:54:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QXZ6R3DOWRAI5MURRHGCPEAPLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 서울 중구 덕수궁 대한문 일대에서 민주노총과 '윤석열정권퇴진운동본부' 등이 주최한 '전국노동자대회·1차퇴진 총궐기' 현장에서 집회 참가자들과 경찰이 대치하고 있다. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 16일 오후 서울 세종대로·사직로·남대문로 일대에서 야당 등 수 만명이 참석하는 대규모 집회가 열릴 예정이라 교통 혼잡이 예상된다.&lt;br&gt;&lt;br&gt;서울경찰청은 토요일 오후 시간대 대규모 집회가 개최돼 남대문로 및 퇴계로(서울역 방향) 교통 혼잡이 예상된다고 15일 밝혔다. 오전 시간에는 세종대로와 사직로에서 집회를 위한 무대가 설치될 예정이다.&lt;br&gt;&lt;br&gt;토요일 민주당·조국혁신당·진보당 및 촛불행동 등이 모인 ‘거부권 비상행동’은 특검을 촉구하는 내용의 행진을 예고했다. 오후 3시부터 사전 집회를 진행한 후, 동십자로터리에서 적선로터리 방향 편도 전 차로에서 행진을 할 예정이다. 주최 측은 이번 집회에 약 2만 6000명이 모일 것으로 보고있다.&lt;br&gt;&lt;br&gt;경찰은 세종대로, 사직로 등 집회 장소 반대편에 가변차로를 운영한다. 행진 시에는 우정국로와 남대문로 행진 반대편을 가변 차로로 운영할 예정이다. 퇴계로 2가 교차로에서 서울역 방향 차량은 교통을 통제하고 을지로와 소파로 방향으로 차량을 우회 시킬 예정이다. 아울러 집회 장소 주변에 교통 경찰 180여 명을 배치해 차량 우회 등 교통 관리를 할 계획이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “가급적 지하철 등 대중교통을 이용하고 부득이 차량을 이용할 경우 교통 정보 등을 미리 확인해달라”고 당부했다. 집회 시간과 장소 등 자세한 교통 상황은 서울경찰청 교통정보 안내 전화(02-700-5000), 교통정보센터 홈페이지(&lt;a href="http://www.spatic.go.kr/" target="_blank"&gt;www.spatic.go.kr&lt;/a&gt;) 등에서 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“임영웅 연말 콘서트 초대합니다”… 이 문자 링크, 누르지 마세요 </title>
-      <link>https://www.chosun.com/national/national_general/2024/11/15/SIUZ6SE27ZGFFLPIU5GBGNAQOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/15/SIUZ6SE27ZGFFLPIU5GBGNAQOE/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 15 Nov 2024 06:03:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CXDDUAG7QFCH7L4NVDODR6YKKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 임영웅 콘서트 티켓 구매를 유도하는 스미싱 메시지. /뉴스1·영웅시대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 임영웅 콘서트 티켓 구매를 할 수 있다며 금전을 요구하는 스미싱 문자 메시지가 불특정다수에게 전송됐다.&lt;br&gt;&lt;br&gt;임영웅 공식 팬카페는 14일 공지를 통해 “최근 콘서트 티켓 사전 예약 문자가 발송되고 있다”며 “문자는 콘서트 주최 측에서 발송된 게 아니다. 문자에 첨부된 링크를 누를 시 보이스피싱에 노출되므로, 누르지 않도록 각별히 주의하길 바란다”고 했다.&lt;br&gt;&lt;br&gt;팬카페가 이 같은 공지를 내린 건 앞서 임영웅 연말 콘서트 티켓을 판매한다는 스미싱 문자 메시지가 불특정다수에게 전송됐기 때문이다. 온라인상에는 이런 메시지를 받았다는 글이 잇달아 올라왔다.&lt;br&gt;&lt;br&gt;메시지에는 일반적인 티켓 예매 안내처럼 공연 일시, 장소, 좌석 등급 등이 소개되고, “임영웅과 함께하는 2024 리사이틀 연말 콘서트에 초대한다” “사전 예약을 통해 바로 예매가 가능하다” 등 티켓 구매를 유도하는 문구와 함께 ‘네이버 톡톡’ 주소 링크 하나가 첨부됐다. 링크를 타고 들어가 문의하면, ‘판매자’는 원하는 날짜와 좌석을 물으며 티켓을 예매할 수 있다는 홈페이지 주소를 알려준다. 홈페이지에 접속하면, 메인 화면 최상단에 임영웅 공연 영상이 걸려있고, 티켓을 구매할 수 있는 페이지로 연결되는 버튼 등이 마련되어 있다.&lt;br&gt;&lt;br&gt;다만 이는 구매를 유도해 돈을 탈취하기 위한 목적으로 꾸며진 것으로 파악됐다. 홈페이지를 자세히 보면 메뉴 구성 등이 조악할뿐만 아니라, 임영웅 연말 콘서트 공식 판매는 아직 시작되지도 않았다. 오는 20일 오후 8시 특정 예매처에서만 진행된다. 이에 팬카페 측은 “(예매 관련) 공식 공지 확인을 부탁드린다”며 “그 이외에 사전 예약이나 다른 예매 방법은 없다”고 주의를 요구했다.&lt;br&gt;&lt;br&gt;이 같은 수법이 알려지자, 온라인상에서는 비판이 이어졌다. 특히 임영웅 콘서트 수요는 중장년층에게 많은데, 이들이 인터넷 사용이 익숙하지 않은 점을 노렸다는 점에서 공분을 샀다. 네티즌들은 “어르신들 속여 먹으려고 별짓을 다 한다” “어르신들은 그냥 속을 수 있을 것 같다. 주위에 알려드려야겠다” “어떻게 콘서트 가고 싶은 간절한 마음을 이용해 먹으려고 하나” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“이재명 구속” vs “이재명 무죄”...1심 선고 앞두고 좌우로 갈린 서초동</title>
