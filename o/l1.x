@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>서울지방변호사회, 혜화경찰서 김현일 경위 '우수경찰상' 수여</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/202989.jpg" alt="202989.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;김정욱 회장이 15일 서울혜화경찰서 김현일 경위에게 우수경찰상을 시상하고 있다.&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;서울지방변호사회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="32148"&gt;김정욱&lt;/span&gt;)는 지난 15일 서울 서초구 서초동 변호사회관에서 서울혜화경찰서 김현일 경위에게 '우수경찰상'을 수여했다.&lt;/p&gt;&lt;br /&gt;김현일 경위는 변호사 자격이 없는 사람들이 온라인에서 사기 피해자를 모집한 뒤 고소장 등을 대리 작성하는 행위를 포착하고 이를 수사해 범죄 조직을 검거하고 범죄수익금을 몰수하는 성과를 올렸다.&lt;br /&gt;&lt;br /&gt;서울변회 관계자는 "비변호사의 불법적인 법률사무 및 법조브로커의 위법한 중개 및 알선 행위가 심각해지고 있는 상황에서 변호사법 위반 행위로 인한 국민 피해를 방지하고 법률시장의 정상화와 사회정의 실현에 기여한 공로를 인정해 시상을 결정했다"고 설명했다.&lt;br /&gt;&lt;br /&gt;서울변회는 앞으로도 불법 법률사무로 인한 피해 확산을 막기 위해 노력한 일선 수사관과 공무원 등을 지속적으로 격려할 방안을 검토해 나갈 예정이라고 밝혔다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Mon, 18 Nov 2024 04:29:38 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/202989</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202989</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202989.jpg</media:thumbnail>
+			<dc:creator>안현 기자</dc:creator>
+		</item>
+		<item>
+			<title>[단독] 내년부터 법원장에 고등부장판사도 보임한다</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/203003.jpg" alt="203003.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법원이 내년부터 법원장 보임에 소속 법원의 법관을 비롯해 전국의 모든 사법부 구성원의 의견을 수렴한다. 또한 지방법원 판사만 보임됐던 지법원장의 자리에 고등부장판사가 보임될 수 있는 길을 연다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5602"&gt;천대엽&amp;nbsp;&lt;/span&gt;법원행정처장은 18일 법원 내부망에 "법원장 보임에 법관의 의사를 반영하는 좋은 취지에도 불구하고 대내외적으로 여러 문제와 부작용이 지적되는 등 논란이 계속돼 왔다"며 "이에 사법정책자문위원회의 논의 및 전국 법관 대상 설문조사 등을 통해 수렴한 법원 안팎의 다양한 의견 등을 토대로 새로운 법원장 보임 절차를 마련했다"고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;먼저 천 처장은 법원장 보임에 관해 소속 법관뿐 아니라, 소속과 직위 등에 상관없이 전국의 모든 법관을 비롯한 모든 사법부 구성원에게 후보의 추천 등 다양한 의견을 자유롭게 제출받겠다고 밝혔다. 사실상 2019년부터 5년 동안 진행돼 온 법원장 후보 추천제를 폐지한다는 것으로 해석된다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;천 처장은 "핵심은 법원장 보임에 관해 사법부 전체 구성원들의 다양한 의견을 보다 폭넓게 수렴하고 법관인사위원회의 심의를 통해 법원장 적합성에 대한 검증을 강화해 법원장 보임 인사의 객관성과 적격성을 제고하는 것"이라며 "사법부 구성원들에 대한 의견 수렴 절차에서 법원장 후보로 추천돼 심사에 동의한 분들에 대해선 법관인사위원회에서 법원장으로 충분한 능력과 자질을 갖췄는지 여부를 종합적으로 심의할 예정"이라고 설명했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;법원은 구성원들로부터 의견 수렴 절차를 거쳐 법관 인사에 관한 중요 사항을 심의하는 법률상 기구인 법관인사위원회에서 제출된 의견과 근무평정 및 자질 등을 종합적으로 검토해 심의할 예정이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;특히 내년부터 지방법원의 법원장 보임에 있어 원칙적으로는 지방법원 소속 법관 중에서 보임하지만, 일부 지법원장은 고등 부장판사가 보임될 수 있는 길을 열어둔다고 밝혔다. 법관 인사 이원화에 따라 지법원장은 지법 부장판사로만 보임됐는데, 고등 부장판사가 보임될 수 있게 된 것이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;천 처장은 "그간 명확한 사전 계획 없이 추진된 법관 인사 이원화의 안정적인 진행과 정착을 도모하고 부작용을 최소화하기 위해서는 일정한 과도기적 조치가 불가피하다고 판단했다"며 "다만 점차 그 보임 규모를 축소해 최종적으로는 대법원장 임기 중 과도기적 운영을 마무리해 이후부터는 지법과 고법 모두에서 새로운 법원장 보임 제도가 원만하게 도입 및 정착될 수 있는 안정적 여건을 최대한 빨리 마련할 예정"이라고 설명했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;천 처장은 이 같은 개선방안을 전국의 모든 지법원장과 행정법원장, 가정법원장, 회생법원장 보임에 동일하게 적용한다고 밝혔다. 또한 향후 시행 경과 등에 대한 면밀한 분석과 의견수렴을 거쳐 지속적인 개선 노력을 이어나가겠다고 부연했다.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;한수현 기자&amp;nbsp; &amp;nbsp;shhan@lawtimes.co.kr&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;박수연 기자&amp;nbsp; &amp;nbsp;sypark@lawtimes.co.kr&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Mon, 18 Nov 2024 03:21:18 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/203003</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203003</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203003.jpg</media:thumbnail>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
 			<title>'문제 유출' 연세대, 논술 효력정지 가처분 결정에 이의신청</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/202998.jpg" alt="202243.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size: 14px; line-height: 1.6em;"&gt;12일 연세대학교 2025학년도 수시모집 논술시험을 마친 수험생들이 고사장을 나서고 있다. 《연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;연세대가 2025년도 자연계열 수시 논술시험 효력을 본안 소송 판결 선고 전까지 중지하라는 법원 결정에 불복해 이의를 신청했다.&lt;br /&gt;&lt;br /&gt;지난 15일 서울서부지법 민사21부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6568"&gt;전보성&amp;nbsp;&lt;/span&gt;수석부장판사)는 '2025학년도 연세대 수시모집 자연계열 논술시험 효력정지 가처분' 사건에서 "2025학년도 연세대학교 수시모집 자연계열 논술시험에 따른 후속 절차의 진행을 논술시험 재이행 청구 본안 사건의 판결 선고 시까지 중지한다"고 결정했다(2024카합50526). 다만 재판부는 '재시험 이행'에 대해서는 판단하지 않고 대학의 자율성을 존중한다는 결정을 했다.&lt;br /&gt;&lt;br /&gt;연세대는 법원 가처분 결정 하루 만인 16일 이의신청서를 제출했다. 합격자 발표 예정일인 12월 13일 전에 결정을 받을 수 있게 해달라는 신속기일지정 신청서도 함께 냈다. 이에 수험생 측 집단소송을 대리하는 김정선 일원법률사무소 변호사는 17일 입장문을 내어 "합격자 발표일까지 아무런 조치없이 시간을 계속 끌겠다는 의도"라고 지적했다.&lt;br /&gt;&lt;br /&gt;이어 "특히 연세대는 신속기일 지정신청서에 '항고심 결정까지 내려진 이후 이 사건 논술시험의 모집인원을 정시로 이월할 것인지 여부 등을 결정하겠다'고 해 이 사건 논술시험 재시험 이행이 아닌 정시로 이월할 뜻을 간접적으로 드러냈다"고 했다. 그러면서 "이 같은 대응을 볼 때 연세대는 교육부의 입장인 '적법하고 공정한 방식으로 전형을 운영'하려는 의지가 없어 보이며, '대책을 고민 중이지도 않고 대책이 마련되는 대로 공지'할 생각 없이 시간만 끌겠다는 의도를 가진 것으로 보인다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;지난달 21일 수험생 18명은 연세대의 2025학년도 자연계열 수시 논술시험 무효확인 소송과 수시 논술시험 효력정지 가처분 신청을 제기했다. 수험생과 학부모들은 학교의 허술한 관리·감독 때문에 시험 문제 관련 정보가 유출되는 등 공정성이 훼손됐다고 주장하고 있다.&lt;br /&gt;&lt;br /&gt;한편 경찰은 논술시험 문제지 등을 온라인에 게시한 인물을 일부 특정한 것으로 전해졌다. &lt;br /&gt;</description>
 			<pubDate>Mon, 18 Nov 2024 02:56:05 -0000</pubDate>
@@ -221,26 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202971</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202971.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>[신간소식] 신영수 경북대 로스쿨 교수, '기업집단 규제의 법리' 출간</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/202969.jpg" alt="202969.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;신영수 경북대 로스쿨 교수가 '기업집단 규제의 법리'를 출간했다.&lt;br /&gt;&lt;br /&gt;이 책은 기업집단과 관련된 규제의 법리를 공정거래법 중심으로 분석했다. 다양한 규모의 기업집단에 관련된 사전적 규제와 사후적 규제를 적용 방안에 관해 설명한다. 대기업뿐만 아니라 중견기업과 소규모 기업집단의 경우에 대한 규제도 다룬다.&lt;br /&gt;&lt;br /&gt;책은 총 6개의 파트로 구성돼 있다. 제1장인 기업집단 규제의 기초에서는 기업집단의 형성과 규제의 구도, 개념과 요건 등을 다룬다. 제2장에서는 '기업집단의 구성요소와 판단기준'을 주제로 동일인 및 동일인 관련자의 판단기준, 기업집단의 범위 및 계열회사의 판단기준 등을 다룬다. &lt;br /&gt;&lt;br /&gt;제3장~제6장은 △지주회사 체제의 기업집단에 대한 규제 △상호출자제한기업집단에 대한 사전규제 △계열회사 및 특수관계인에 대한 사후규제 △기업집단 규제에 대한 평가와 과제 등을 설명했다.&lt;br /&gt;&lt;br /&gt;저자인 신 교수는 중앙대 법대를 졸업한 후 동 대학원 및 UC Davis 로스쿨에서 석사과정을 마쳤고, 서울대 대학원에서 박사학위를 받았다. 한국법제연구원 부연구위원, 공정거래정책자문위원, 한국경쟁법학회장 등을 역임했다.&lt;/p&gt;</description>
-			<pubDate>Fri, 15 Nov 2024 08:55:23 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/202969</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202969</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202969.jpg</media:thumbnail>
-			<dc:creator>안현 기자</dc:creator>
-		</item>
-		<item>
-			<title>카카오 김범수 보석 후 첫 재판...증인 불출석 재판 공전</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/202968.jpg" alt="202525.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left; line-height: 1.8;"&gt;김범수 카카오 경영쇄신위원장이 보석으로 풀려난 뒤 진행된 첫 재판에서 카카오 전직 임원이 증인으로 출석하지 않아 재판이 지연됐다.&lt;/p&gt;&lt;br /&gt;서울남부지법 형사합의15부(&lt;span style="font-weight: bold;" class="lawmanlink" serial="2130"&gt;양환승&amp;nbsp;&lt;/span&gt;부장판사)는 15일 김 위원장 등의 자본시장법 혐의 공판을 진행했다. &lt;br /&gt;&lt;br /&gt;이날 김기홍 전 카카오 재무그룹장(CFO)에 대한 증인신문이 예정됐지만, 김 전 CFO는 재판에 참석하지 않았다. 김 전 CFO는 법무법인을 통해 재판부에 불출석 의사를 전했지만, 사유는 밝히지 않았다. &lt;br /&gt;&lt;br /&gt;카카오 투자심의위원회의 고정 멤버로 알려진 김 전 CFO는 핵심 증인으로 지목돼 왔다. 지난달 열린 재판에서 변호인 측은 "김 전 CFO가 검찰과 비공개 면담을 한 뒤 돌연 진술을 번복했다"며 진술 신뢰성을 지적했다. &lt;br /&gt;&lt;br /&gt;재판부는 카카오 측 변호인단에 SM엔터 주식을 장내매집한 배경에 대해 밝혀달라고 요구했다. 김 위원장과 배재현 전 카카오 투자전략대표의 주장에 차이가 있다는 지적에서다. &lt;br /&gt;&lt;br /&gt;검찰 측은 "사건 행위의 구체적 배경 동기에 대해 피고인들의 입장을 명확히 정리할 필요가 있다"고 했다. &lt;br /&gt;&lt;br /&gt;이에 대해 변호인 측은 "SM엔터 지분을 확보할 필요성이 있었고 그에 따라 장내 매수로 주식을 취득했다는 입장을 앞선 재판에서 프레젠테이션을 통해 설명했다"며 "추후 관련 의견서를 제출하겠다"고 했다. &lt;br /&gt;&lt;br /&gt;보석 석방 이후 처음으로 재판에 나온 김 위원장은 이날 취재진에 "성실히 재판에 임하겠다"고 밝혔다. '보석 결정에 검찰이 항고한 데 대해 어떻게 생각하느냐' '재판에서 어떤 점을 중점적으로 소명할 것이냐'는 질문에는 답하지 않았다.</description>
-			<pubDate>Fri, 15 Nov 2024 08:23:44 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/202968</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202968</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202968.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
