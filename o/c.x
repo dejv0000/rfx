@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘지하 주차장 붕괴’ 인천 검단 아파트 해체 작업  중 포크레인 넘어져... 60대 기사 숨져</title>
+      <link>https://www.chosun.com/national/incident/2024/11/19/SWPDQK67CVF3XF63BTXSWBQWEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/19/SWPDQK67CVF3XF63BTXSWBQWEY/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 10:05:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4MWGECAE5KLZPHGM7LZPNJNVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해체 작업 중인 인천 검단신도시 아파트. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;철근 누락 등 문제로 지하 주차장이 무너져 전면 재시공을 앞둔 인천 검단신도시 아파트에서 건물 해체 작업에 투입된 소형 포크레인이 넘어져 60대 기사가 숨졌다.&lt;br&gt;&lt;br&gt;19일 인천소방본부와 인천경찰청 형사기동대 등에 따르면 이날 오전 9시 24분쯤 건물 해체 작업이 진행되던 인천시 서구 원당동 아파트 17층 계단에서 소형 포크레인이 뒤로 넘어졌다.&lt;br&gt;&lt;br&gt;이 사고로 포크레인 운전 기사 A(60)씨가 크게 다쳐 심정지 상태로 119 구급대에 의해 병원으로 옮겨졌으나 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 포크레인을 몰고 아파트 비상계단으로 17층에서 18층으로 이동하다 무게 중심을 잃고 뒤로 넘어진 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이 아파트는 지난해 4월 철근 누락에 따른 지하 주차장 붕괴 사고가 발생한 곳이다. A씨는 재시공을 위한 건물 해체 작업을 위해 이동 중이었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “목격자와 현장 관계자 등을 상대로 정확한 사고 경위를 조사하고 있다”며 “안전수칙 준수 여부에 대해서도 확인할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대전시 중구 선화동에 ‘3·8민주의거 기념관’ 개관</title>
+      <link>https://www.chosun.com/national/regional/2024/11/19/YCKI65QV6NEU5CKNAFWVBNNWYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/19/YCKI65QV6NEU5CKNAFWVBNNWYQ/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 09:28:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ISLFUJOERFE7VKG5PCZCJPSFMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전시 중구 선화동에 19일 문을 연 3·8민주의거기념관. /대전시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전시는 중구 선화동에 3·8민주의거기념관을 공식 개관했다고 19일 밝혔다. &lt;br&gt;&lt;br&gt;3·8 민주의거는 1960년 일어난 대전·충청권 최초의 학생운동으로, 대구 2·28민주운동, 마산 3·15의거와 함께 4·19혁명의 도화선이 됐다는 평가를 받는다. 2018년 국가기념일로 지정됐고, 2019년부터 정부 기념식이 열리고 있다.&lt;br&gt;&lt;br&gt;기념관은 연면적 2850㎡에 지하 2층∼지상 3층 규모로 지난 6월 준공했다. 2018년부터 기념관 건립 사업에 착수한 대전시는 준공을 위해 총공사비 182억 9000만원을 투입했다.&lt;br&gt;&lt;br&gt;기념관은 학생들과 청년들이 민주주의와 인권에 대해 배우고 고민할 수 있는 다양한 교육의 장으로 운영된다.&lt;br&gt;&lt;br&gt;기념관 개관을 기념하는 3·8민주의거 특별전시가 올 연말까지 이어질 예정이다.&lt;br&gt;&lt;br&gt;이장우 대전시장은 “기념관이 단순한 전시 공간을 넘어 역사적 기록과 정신을 기리는 배움의 터전이 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>변협, ‘AI 대륙아주’ 서비스 중단했는데도…징계 결정</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/19/G7PP7XJ6Y5DWLIID5I2URWD3JQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/19/G7PP7XJ6Y5DWLIID5I2URWD3JQ/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 09:12:05 +0000</pubDate>
+      <content:encoded>대한변호사협회(변협)가 인공지능 기반 무료 법률 상담 서비스 ‘AI 대륙아주’를 도입한 법무법인 대륙아주를 징계하기로 결정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2DT4VYY5QBMSNPAWSBHAWOOZ5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이규철 법무법인 대륙아주 대표변호사가 지난달 8일 오후 서울 강남구 대륙아주 대회의실에서 열린 'AI 대륙아주 징계에 관한 기자회견'에서 발언을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 법조계에 따르면, 변협은 전날 징계위원회를 열고 ‘AI 대륙아주’를 시행한 법무법인 대륙아주와 대표 변호사 5명·소속 변호사 1명을 징계하기로 결정했다.&lt;br&gt;&lt;br&gt;이날 변협은 법무법인 대륙아주에 과태료 1000만원을 부과했다. 또 해당 서비스를 주도적으로 계획한 김대희·이규철 대표와 유튜브에서 서비스를 광고한 강우경 변호사에게 과태료 500만원을 부과했다. 나머지 대표 변호사들에 대해서는 견책 결정을 내렸다.&lt;br&gt;&lt;br&gt;변협 관계자는 “징계위는 AI 대륙아주가 변호사법 및 회칙을 위반한 사실을 엄중히 인정했다”며 “이에 징계위에 회부된 이들 거의 전원에 대해 과태료 처분을 결정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;AI 대륙아주는 스마트폰이나 컴퓨터에서 대화창을 열고 소송이나 법률 관련 문의를 하면 챗봇이 24시간 답을 주는 방식으로 운영돼 이른바 ‘AI 변호사’로 불렸다. 7개월간 이용자 5만 5000여 명이 약 10만건의 질의를 했다고 한다. 하지만 출시 직후부터 변호사규정 위반 논란에 휘말렸다. 변협이 ‘24시간 무료 AI 법률 상담이 변호사 광고 규정 위반 소지가 있어 보인다’며 소명하라는 공문을 보냈기 때문이다.&lt;br&gt;&lt;br&gt;변협은 AI 대륙아주에 변호사법 위반 소지가 있다며 지난 9월 대륙아주와 소속 변호사 7명을 징계위원회에 회부하고, 같은 달 24일 징계 개시를 청구했다. 변호사법상 광고규정과 동업금지조항을 위반했다는 취지다. 이에 대륙아주는 지난달 8일 AI 대륙아주 서비스를 전면 중단한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아침밥 먹고, 쌀 기부하고...경북도, 농협과 ‘밥心나눔적금’ 가입 행사</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/19/R3B7CWFAL5AVTC5LZ6ZZHTE7C4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/19/R3B7CWFAL5AVTC5LZ6ZZHTE7C4/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 09:07:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QTRDMLLVEBHW3DA2GSF2INIUOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 18일 경북도가 밥심나눔적금 가입 독려 행사를 열었다./경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북도가 농협중앙회 경북본부와 함께 적금 가입 독려를 위한 행사를 열었다. 쌀 소비 및 아침밥 먹기 문화 확산을 위해서다.&lt;br&gt;&lt;br&gt;19일 경북도에 따르면 전날 서안동농협 신도청지점에서 ‘밥心나눔적금’ 가입 촉진 행사가 열렸다. 이 적금은 지역 내 쌀 소비 촉진을 위해 개설된 상품이다. 지역 농축협별 기본 금리 1~3%를 바탕으로, 고객이 ‘아침밥 먹기’ 서약서를 쓰면 우대금리 1%를 받을 수 있고, 영업점 별로 0.1%에서 최대 1%까지 우대금리를 추가로 받을 수 있다. 지점별로 적게는 3% 대에서 최대 5%대 적금을 넣을 수 있는 셈이다.&lt;br&gt;&lt;br&gt;매달 1만원 이상 최대 20만원까지 1년간 납입이 가능하며, 한 사람이 적금 상품 2개(계좌 2개)까지 가입할 수 있다. 농협 측은 전국적으로 총 10만좌 상당의 밥心나눔적금 상품을 판매할 예정이며, 1계좌당 1만원씩 기부금을 적립해 지역의 어려운 이웃들에게 10억원 상당의 쌀을 기부할 방침이다.&lt;br&gt;&lt;br&gt;경북도는 지난 8월 도민의 아침밥 먹기 식습관 및 쌀 소비 문화 확산을 위해 ‘경북쌀 소비 촉진을 위한 아침밥 먹기 운동’ 업무 협약을 체결했다. 이번 적금 가입 독려는 그 연장선에 있다.&lt;br&gt;&lt;br&gt;김학홍 경북도 행정부지사는 “경북에서도 고품질 쌀 생산과 건강한 쌀 소비 문화 확산에 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘음주운전’ 문다혜 검찰 송치… 위험운전치상은 적용 안 돼</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/19/KA3ZCLBMJRBVJIGHXYAOJIQGR4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/19/KA3ZCLBMJRBVJIGHXYAOJIQGR4/</guid>
+      <dc:creator>서보범 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 08:19:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OPICQ56X3FYTRXZZRRMY5NM5DA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주운전 혐의를 받는 문재인 전 대통령의 딸 문다혜 씨가 서울 용산구 용산경찰서에 피의자 신분으로 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만취 상태로 차량을 몰다 택시를 들이받는 사고를 낸 문재인 대통령 딸 문다혜(41)씨가 19일 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;서울 용산경찰서는 “사건 관계인 진술과 객관적 사실 등을 종합해 문씨를 도로교통법 위반(음주운전) 혐의로 서울서부지검에 송치했다”고 이날 밝혔다. 음주 또는 약물 복용 이후 자동차 등을 운전해 피해자를 상해에 이르게 한 경우 적용되는 위험운전치상 혐의는 적용되지 않았다. 위험운전치상 혐의는 피해자 합의 여부와 관계없이 적용할 수 있다.&lt;br&gt;&lt;br&gt;경찰에 따르면 문씨는 지난달 5일 오전 2시 51분쯤 서울 용산구 이태원동 해밀톤호텔 앞 삼거리에서 만취 상태로 차량을 몰다 택시를 들이받는 사고를 냈다. 당시 문씨의 혈중 알코올 농도는 0.149%로 면허 취소 수준(0.08% 이상)을 넘은 것으로 조사됐다. 이 사고로 택시 기사는 목 부근에 경상을 입었다.&lt;br&gt;&lt;br&gt;이후 문씨는 피해 기사에게 형사 합의금을 제시했고, 경찰에 진단서를 제출하지 않기로 합의했다. 경찰은 지난달 23일 피해 기사가 치료를 받은 경기도 양주시의 한의원에 대해 압수수색 영장을 집행했으나 상해 진단서 등을 확보하지는 못했다.&lt;br&gt;&lt;br&gt;경찰은 문씨에게 적용된 도로교통법상 주차위반·신호위반·차량 후미등 미점등 혐의 등과 관련해서는 행정 절차상 통고 처분할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주 한라산·오름 무대포 오프로드로 ‘몸살’...막을 방법 없다?</title>
+      <link>https://www.chosun.com/national/regional/2024/11/19/I7OBCQAATBCOBOMWKQNLHXQEKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/19/I7OBCQAATBCOBOMWKQNLHXQEKE/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 08:34:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AYAV64YTLFHCZLWGN52BLEO5WQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사회관계망서비스에 올라온 SUV차량이 오름 분화구 등에 들어가는 것으로 의심되는 영상의 한 장면. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주도 한라산국립공원과 곶자왈 등 산간 지대를 중심으로 산악자전거와 오토바이, SUV 차량이 오프로드 레저활동에 나서는 일이 빈번해지면서 산림이 훼손되고 있다는 지적이 나왔다.&lt;br&gt;&lt;br&gt;김기환 제주도의회 의원은 19일 제주도의회 환경도시위원회 내년도 예산 심사에서 제주도내 오름은 물론 한라산국립공원 등에서 이뤄지는 오프로드 활동으로 인해 자연이 훼손되고 있다는 지적을 내놨다.&lt;br&gt;&lt;br&gt;김 의원은 “산악자전거, 오토바이, 오프로드 차량 등이 길이 없는 곳에 가서 산림을 훼손하며 다니고 있다”며 “길이 없는 곳을 본인들이 개척해서 간다. 거기다 이게 유행까지 타면서 관련 정보들이 공유되고, 계속 산림이 훼손되고 있는 실정”이라고 했다.&lt;br&gt;&lt;br&gt;김 의원은 특히 “한라산국립공원에 포함돼 있는 해발 110m고지 인근에서도 동호회 차원에서 산림을 훼손해 길을 만들고 오프로드 활동을 즐기는 정황도 보인다”며 “이게 결과적으로 심각한 산림 훼손을 불러일으킬 수 있다”고 주장했다.&lt;br&gt;&lt;br&gt;실제 사회관계망서비스(SNS) 등에 ‘제주오프로드’라고 검색하면, 제주의 산림에 차량이나 오토바이 등이 진입해 질주하는 영상을 어렵지 않게 찾아볼 수 있는 것으로 알려졌다. 어떤 영상에선 차량이 들어갈 수 없는 오름 분화구 안까지 차량이 진입한 것으로 의심되는 장면도 노출됐다.&lt;br&gt;&lt;br&gt;제주시 구좌읍 송당리 문석이오름의 경우 오토바이와 자전거 등이 출입하면서 심각한 수준으로 훼손됐고, 결국 2018년부터 현재까지 일반인 출입이 금지되고 있다.&lt;br&gt;&lt;br&gt;이에 대해 제주도는 이를 막을 조치를 취할 수 있는 부분이 없다는 입장이다.&lt;br&gt;&lt;br&gt;강애숙 제주도 기후환경국장은 “실질적으로 단속할 수 있는 근거가 없다”며 “오프로드 활동이 이뤄지는 곳이 도유지면 출입을 막을 수 있지만, 사유지인 경우 토지주가 동의하지 않는다면 출입을 막을 방법이 없다”고 말했다.&lt;br&gt;&lt;br&gt;이에 대해 정민구 의원은 “(제주도 산림에서의 오프로드 활동을) 제도 개선을 통해 막지 않으면 안된다”며 “요즘에는 차가 워낙 좋아서 길이 없는 곳에서도 운행을 한다. 이런 부분에 대해서 어떤 형태로든 제재를 하지 않으면 황폐화되는 것은 시간 문제일 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>방범카메라 앞에서 망치 ‘쾅쾅’... 대범하게 무인상점 턴 남성의 최후</title>
       <link>https://www.chosun.com/national/national_general/2024/11/19/JEYTBPN7SFENXEK44Z43KDS4NA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/19/JEYTBPN7SFENXEK44Z43KDS4NA/</guid>
@@ -844,15 +898,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ESPUQDAP5NEVTBUCA64ZH37OKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천공항에 설치돼 있는 밀리미터파 신변 검색기(왼쪽 사진). 옷 속에 감춰진 마약류를 찾아낼 경우 해당 부분이 다른 색깔로 표시된다. 기사와 관련 없음./관세청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공항에 입국하던 한 여성이 세관의 마약탐지 장비 오류로 착용 중이던 생리대까지 벗어 세관 직원에게 보여주는 등 몸수색을 받은 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;18일 대구본부세관 등에 따르면 지난 8일 오전 대구공항에 설치된 마약 탐지 장비 이온스캐너에서 한 캐리어 안에 있던 전자담배 액상의 마약 반응 수치가 높게 나왔다. 이 캐리어는 30대 여성 A씨 일행의 것이었는데, 전자담배 액상은 A씨 소지품이었다. A씨는 “전자담배 액상은 내가 쓰던 것”이라고 세관 측에 말했다.&lt;br&gt;&lt;br&gt;세관은 몸에 부착하는 물건을 파악하는 기계인 밀리미터파 스캐너로 A씨 등 일행에 대해 검사했고, 그 결과 A씨 바지 부근에 물건이 부착됐다는 사실을 파악했다. 이는 A씨가 착용하던 생리대였다. 그러나 A씨는 직원실로 이동해 세관 여성 직원에게 생리대를 벗어서 보여줘야 했다. 세관은 20분간 검사한 뒤 마약으로 의심할 만한 소지품이 나오지 않아 문제가 없다고 결론 내렸다.&lt;br&gt;&lt;br&gt;이에 대해 A씨는 연합뉴스에 “공항에서 겪은 일로 5일간 하혈을 할 만큼 스트레스를 받았다”고 말했다.&lt;br&gt;&lt;br&gt;대구본부세관 관계자는 “최근에 실제로 신체 특정 부위에 마약을 숨겨서 들어왔다가 적발된 경우가 두 번이나 있었다”며 “사회적으로 마약이 문제가 많이 되고 있어 직원들이 열심히 하겠다는 취지로 하다가 그렇게 됐다”고 설명했다.&lt;br&gt;&lt;br&gt;마약 탐지 장비 오류에 대해서는 “해당 액상 전자담배의 분자 구성이 마약과 비슷해 일어난 일로 자주 있는 일은 아니다”라며 “선량한 시민분들이 피해를 보지 않도록 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>칫솔 갈아 만든 흉기로... 변호사에 휘두른 30대, 징역 7년 구형</title>
-      <link>https://www.chosun.com/national/regional/2024/11/18/PSEWBO2FXRGM7GQ32KS7O5PN64/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/18/PSEWBO2FXRGM7GQ32KS7O5PN64/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 08:18:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOIPX7HDNFCOHOGTNKRO6EMBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구속 상태로 항소심 재판을 받던 도중 칫솔을 갈아서 만든 흉기를 자신의 국선변호인에게 휘둘러 다치게 한 30대에게 검찰이 중형을 구형했다.&lt;br&gt;&lt;br&gt;대전지법 형사13부(재판장 장민경)는 18일 살인미수 혐의로 기소된 30대 A씨에 대한 공판을 진행한 뒤 결심 절차를 이어갔다.&lt;br&gt;&lt;br&gt;검찰은 “피고인이 다른 사람을 살해하고 스스로 극단적인 선택을 하겠다는 생각으로 수용 중이던 대전교도소에서 제공받은 칫솔을 갈아서 숨긴 뒤 재판에 참여했다”며 “재판 도중 그 칫솔로 자신의 국선변호인을 찔러 살해하려다 교도관에게 제압 돼 미수에 그쳤다”고 밝혔다.&lt;br&gt;&lt;br&gt;이에 대해 A씨 측은 “범행을 모두 인정하고 반성한다”고 했다. 또 제출된 증거에 모두 동의했다. 추가 증거 등이 없자 재판부는 결심 절차를 진행했다.&lt;br&gt;&lt;br&gt;검찰은 “재판 중 변호인의 목 부위를 찔렀고, 누범기간 중 범행한 점을 고려하면 죄책이 매우 무겁다”며 A씨에게 징역 7년을 구형했다.&lt;br&gt;&lt;br&gt;A씨 변호인은 “(피고인이) 국선변호인 활동을 하다 다친 피해자에게 매우 죄송하게 생각하고, 반성하고 있다“면서 “교도소 내에서 복용하던 정신과 약을 1달 동안 복용하지 못해 수면장애와 불안 장애를 겪다 범행을 했고, 피해 정도가 심하지 않은 점을 고려해 달라”고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;A씨는 최후진술에서 “어떻게 됐든 저의 잘못이다. 피해자에게 매우 죄송하다”고 말했다. A씨에 대한 항소심 선고 공판은 다음 달 11일 열릴 예정이다.&lt;br&gt;&lt;br&gt;A씨는 지난 8월 21일 오전 11시쯤 대전지법 형사항소부 법정에서 2심 재판을 받던 중 숨기고 있던 날카롭게 간 칫솔을 자신을 변호하던 국선변호인 B씨에게 휘둘러 다치게 했다. A씨는 현장에서 교도관들에게 제압됐고, B씨는 목 부위에 상처를 입었지만 생명에 지장은 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 A씨는 공무집행방해 혐의로 1심에서 실형을 선고받고 수감돼 있던 중 제공받은 칫솔을 날카롭게 갈아 옷 속에 숨기고 있다가 범행에 사용한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>재판 지연 원인 ‘김명수표 법원장 후보 추천제’ 5년 만에 폐지</title>
       <link>https://www.chosun.com/national/court_law/2024/11/18/FALRGWKWFVE35AXKANBLZXKPH4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/18/FALRGWKWFVE35AXKANBLZXKPH4/</guid>
@@ -862,15 +907,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NHEQVWTMCW2CMXABO2PLBEGLME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 내년 초 정기 인사에서 직전 김명수 대법원 체제에서 시행된 ‘법원장 후보 추천제’를 사실상 폐지한다고 18일 밝혔다. 이 제도는 김명수 전 대법원장이 도입했는데, 그동안 ‘재판 지연’의 한 원인으로 꼽혀왔다. 대법원은 각 법원 소속 판사들이 해당 법원장 후보를 추천하는 절차를 없애고, 고등법원 부장판사(현재 66명)도 지방법원장에 보임할 수 있도록 인사 범위를 넓히겠다는 것이다.&lt;br&gt;&lt;br&gt;천대엽 법원행정처장은 이날 법원 내부망에 “2019년부터 5년 동안 소속 법관의 천거 및 투표를 통해 법원장 후보를 추천하는 제도가 시행됐는데, 좋은 취지에도 불구하고 대내외적으로 여러 문제와 부작용이 지적되는 등 논란이 계속됐다”면서 “2025년 법관 정기 인사를 앞두고 전국 법관 대상 설문조사 등을 통해 새롭게 마련된 법원장 보임 절차에 대해 안내한다”고 공지했다.&lt;br&gt;&lt;br&gt;핵심 변화는 크게 두 가지다. 기존 법원장 후보 추천제는 각 법원마다 소속 판사들이 투표를 통해 법원장 후보를 복수로 선출하면 대법원장이 한 명을 법원장으로 임명하는 방식으로 운영됐다. 법관들의 지지를 받아야 하다 보니 ‘인기투표’라는 지적이 끊이지 않았다. 법원장이 된 사람은 자신을 뽑아준 후배들 눈치를 보느라 지시도 제대로 못한다는 얘기도 나왔다.&lt;br&gt;&lt;br&gt;이에 대해 대법원은 법원별 투표를 없애고, 판사·법원 공무원 등 모든 사법부 구성원들로부터 전체 법원장 후보군을 추천받는 식으로 바꾸겠다고 한다. 누구든 추천만 받으면 법관인사위원회에서 능력과 자질 등을 검토해 법원장으로 임명하겠다는 것이다.&lt;br&gt;&lt;br&gt;이에 따라 고등법원 부장판사도 다시 지방법원장이 될 수 있는 길이 열렸다. 과거에는 고등법원 부장판사 중에서 지방법원장을 임명했는데, 김명수 전 대법원장은 재임 시절 지방법원과 고등법원의 인사 시스템을 이원화한 것이다. 그렇다 보니 고법 부장판사들의 의욕을 잃게 만들었다는 비판이 나왔다. 천 행정처장은 “원칙적으로 지방법원장은 지방법원 법관 중 보임하되, 제한된 범위에서 일부 지방법원장은 고법 부장판사가 보임될 수 있도록 길을 열어둬 새로운 법원장 보임 제도가 정착될 여건을 마련할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>尹 장모, ‘도촌동 땅 과징금’ 불복 소송 패소 확정</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/18/3ZEQOIMTXZGKXP7C6DDQXC3FHQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/18/3ZEQOIMTXZGKXP7C6DDQXC3FHQ/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 08:46:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3BIAQ5CH56CW4PSLCBOULD47AI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'잔고증명서 위조' 등 사건으로 징역 1년이 확정됐던 윤석열 대통령의 장모 최은순씨가 작년 5월 서울동부구치소에서 가석방되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령의 장모 최은순(77)씨가 차명으로 매입한 경기 성남시 도촌동 땅에 부과된 과징금이 부당하다며 소송을 냈다가 최종 패소했다.&lt;br&gt;&lt;br&gt;18일 법조계에 따르면, 대법원 2부(주심 권영준 대법관)는 최씨가 중원구청장을 상대로 낸 과징금 부과 처분 취소소송에서 원고 패소 판결한 원심을 지난달 31일 심리불속행 기각으로 확정했다. 대법원이 상고 대상이 아니라고 보고 심리 없이 최씨가 패소한 2심을 확정한 것이다&lt;br&gt;&lt;br&gt;앞서 중원구는 2020년 4월 검찰로부터 최씨 등이 부동산실명법을 위반했다는 통보를 받은 뒤 그해 6월 과징금 약 27억3200만원을 부과했다. 최씨가 2013년 도촌동 땅을 매입하는 과정에서 법인 등의 명의를 빌려 차명으로 위법하게 땅을 사들였다는 것이다. 검찰은 최씨가 도촌동 땅을 매입하는 과정에서 4차례에 걸쳐 총 349억여원이 저축은행에 예치돼 있는 것처럼 잔고 증명서를 위조하고(사문서 위조), 법인 등의 명의를 빌려 소유권 이전 등기를 마쳤다고(부동산실명법 위반) 보고 기소했다.&lt;br&gt;&lt;br&gt;최씨는 “땅의 실소유주는 내가 아니고, 명의신탁을 한 적도 없다”고 해명했지만 법원은 유죄로 판단했다. 행정소송 1심은 최씨가 위법하게 명의신탁을 했다고 인정하면서 패소 판결을 내렸다. 2심과 대법원의 판단도 같았다.&lt;br&gt;&lt;br&gt;최씨는 형사사건 1심에서 징역 1년을 선고받고 항소했지만, 작년 7월 2심에서 기각돼 법정 구속됐다. 작년 11월 대법원에서 징역 1년이 확정됐고, 올해 5월 형기를 두 달 남기고 가석방으로 풀려났다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>인천 강화군 종계 농장서 닭 200마리 폐사… H5형 조류 인플루엔자 항원 확인</title>
       <link>https://www.chosun.com/national/incident/2024/11/18/5BLF3OISPRA33NXIKDEY2ITI2U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/18/5BLF3OISPRA33NXIKDEY2ITI2U/</guid>
@@ -878,42 +914,6 @@
       <description/>
       <pubDate>Mon, 18 Nov 2024 08:30:22 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SE36A65P4ZM6NAK7PBYBX6U5QM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 오후 H5형 조류인플루엔자 항원이 확인된 인천 강화군의 한 육용종계 농장 입구에서 가축위생방역지원본부 관계자들이 외부인의 출입을 통제하고 있다.  /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 강화군의 한 육용종계 농장의 폐사한 닭에서 H5형 조류 인플루엔자(AI) 항원이 확인됐다. 농림축산검역본부는 고병원성 여부를 확인하고 있다.&lt;br&gt;&lt;br&gt;18일 인천시 등에 따르면 전날 오전 9시쯤 인천 강화군 화도면의 한 육용 종계 농장에서 사육 중이던 닭 200마리가 폐사했다는 신고가 방역 당국에 들어왔다.&lt;br&gt;&lt;br&gt;폐사한 닭에선 H5형 조류 인플루엔자 항원이 검출됐다. 조류 인플루엔자에 걸려 죽었다는 게 확인된 것이다.&lt;br&gt;&lt;br&gt;방역 당국은 고병원성 AI 여부를 확인 중으로, 조만간 결과가 나올 것으로 예상된다. 고병원성 AI의 경우 저병원성 AI에 비해 전염성이 강하고 폐사율이 높은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 지난달 29일 강원 동해시 산란계 농장과 지난 8일 충북 음성군 육용 오리 농장에서 각각 고병원성 AI가 확인됐다.&lt;br&gt;&lt;br&gt;인천시는 예방적 차원에서 H5형 AI가 확인된 해당 농가의 닭 1만5000마리를 살처분하고, 반경 10㎞ 내 가금 농가 2곳의 닭 3만2000마리에 대해 이동 제한 명령을 내렸다.&lt;br&gt;&lt;br&gt;인천시는 고병원성 AI로 확인될 경우, 농가 주변 500m 내에 있는 농장 한 곳의 닭 1만7000마리를 살처분할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울 지하철 파업 수순…노조 찬반투표서 71% 찬성률 가결</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/18/IZYRXVW7MJFVNMOPF7JV734LTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/18/IZYRXVW7MJFVNMOPF7JV734LTA/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 17 Nov 2024 18:01:00 +0000</pubDate>
-      <content:encoded>서울지하철 1∼8호선을 운영하는 서울교통공사 노동조합이 파업 찬반 투표를 진행한 결과, 약 71%의 찬성률로 가결됐다. 올해 파업에 돌입하면 2022년부터 3년 연속 파업이 된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KRFYY2FZPNPUBGSEPEBLGEENXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 오전 서울 중구 시청역에서 시민들이 개찰구를 지나가고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공사 제1노조인 서울교통공사노동조합은 지난 15일부터 18일까지 진행한 쟁의행위 찬반 투표 결과 이같이 나타났다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;이번 투표에는 조합원 9450명 중 83.2%인 7862명이 참여했다. 이 가운데 찬성표는 5547명으로 찬성률은 70.55%를 기록했다.&lt;br&gt;&lt;br&gt;앞서 노사는 이날까지 노조와 본교섭 4차례, 실무교섭 19차례를 진행했으나 합의에 이르지 못했다. 이에 노조는 지난 1일 서울지방노동위원회에 노동쟁의 조정 신청을 했다. 노조법에 따르면 이 조정을 거치지 않으면 파업에 돌입할 수 없다.&lt;br&gt;&lt;br&gt;노조는 19일 오전 시청 앞에서 기자회견을 열고 구체적인 총 파업 일정을 밝힐 예정이다.&lt;br&gt;&lt;br&gt;공사는 정부 지침에 따라 내년 임금 인상률 2.5%를 제시했고 경영혁신은 임단협과 분리해 추진한다는 입장이지만 노조는 신규 채용 확대와 함께 더 높은 임금 인상률이 필요하다고 주장하고 있다.&lt;br&gt;&lt;br&gt;공사는 또 올해 3개 노조와 개별교섭을 벌이고 있다.&lt;br&gt;&lt;br&gt;공사에는 1노조인 민주노총 산하 서울교통공사노조를 비롯해 제2노조인 한국노총 소속 서울교통공사통합노조, 이른바 ‘MZ 노조’로 불리는 제3노조인 서울교통공사 올바른노동조합이 있다. 조합원 수는 1노조가 약 60%를 차지해 가장 많다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“남편 유전자 아까워”…띠 별로 아이 낳고 싶다는 9남매 엄마</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/18/4HTVMNHYEFEBZNQQH7WB2GWL5E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/18/4HTVMNHYEFEBZNQQH7WB2GWL5E/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 06:26:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L2FPILELSZD3HK3ZVX2WO2WTIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;티엔 동샤, 자오 완룽 부부 가족사진./SCMP&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;저출산 위기를 겪고 있는 중국에서 남편의 좋은 유전자를 물려주고 싶다는 이유로 10번째 임신을 준비하는 여성의 사연이 전해져 화제다.&lt;br&gt;&lt;br&gt;17일(현지시각) 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 중국 저장성 출신의 티엔 동샤(33)와 남편 자오 완룽은 열번째 아이를 갖기 위해 준비 중이다.&lt;br&gt;&lt;br&gt;2008년 처음 만나 결혼한 부부는 2010년 호랑이띠 첫째 딸을 낳았다. 이후 부부는 2012년 용의 해에 쌍둥이 아들을 얻었고, 2022년 11월 호랑이띠 막내 아들까지 총 9명의 자녀를 얻었다.&lt;br&gt;&lt;br&gt;딸 4명과 아들 5명을 뒀지만 티엔은 여전히 더 많은 아이를 갖고 싶어한다. 그는 “남편의 좋은 유전자를 낭비하고 싶지 않다”며 12간지에 해당하는 모든 띠의 자녀를 갖고 싶다고 했다. 아직 자녀들 중에는 소·토끼·뱀·말·양띠가 없는 상태다.&lt;br&gt;&lt;br&gt;이날 티엔은 중국판 틱톡 더우인을 통해 남편과 함께 병원 검진을 받으러 가는 영상을 공개했다. 그는 “건강 상태로 인해 용띠 아이를 가질 수 없었다”며 “내년에 뱀띠 아이를 출산하길 바라고 있다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6NGRDVWPWVDDJIID4TQNH2Z4VY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;티엔 동샤와 자녀들./SCMP&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;티엔 부부는 다자녀를 키울 충분한 경제력을 가지고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;티엔의 남편 자오는 전력공급회사의 창립자이자 최고경영자(CEO)다. 티안은 이 회사 총괄책임자로 일하고 있다. 2009년부터 사업을 운영해온 부부의 최근 연간 수입은 약 4억 위안(약 769억원) 수준이다.&lt;br&gt;&lt;br&gt;이 부부는 2000㎡(약 600평) 규모의 빌라에서 유모 6명과 영양사 1명을 두고 자녀를 양육하고 있다.&lt;br&gt;&lt;br&gt;티엔의 바람은 자신의 자녀들 역시 각각 9명의 자녀를 낳는 것이다. 이에 부부는 미래 81명의 손주를 키울 수 있도록 빌라를 개조할 계획이다.&lt;br&gt;&lt;br&gt;티엔 부부의 사연은 중국 소셜미디어(SNS)에서 크게 화제가 됐다. 온라인상에서는 “충분한 돈이 있어서 가능한 일이다. 아이들이 외로움을 느끼지 않겠다” 등 긍정적인 반응과 함께 “아이들이 동등한 사랑을 받기 어려울 것” “이건 미친짓이다. 계속해서 아이를 낳으면 어머니 몸이 망가질 것” 등 부정적인 반응도 나왔다.&lt;br&gt;&lt;br&gt;티엔 부부의 사연은 최근 중국이 출산율 감소 위기에 직면한 가운데 전해졌다. 중국 통계청에 따르면 중국의 작년 출생아수는 902만명으로, 역대 최저치를 기록했다.&lt;br&gt;&lt;br&gt;중국 정부와 기업들은 출산율을 높이기 위해 여러 대책을 도입하는 중이다. 지난 10월 중국 남부의 한 도시는 “세자녀를 낳는 게 제일 멋지다”는 구호를 내걸어 논란을 빚기도 했고, 중국 동부의 한 회사는 다섯 자녀를 둔 직원에게 승진 우선권과 함께 28만위안(약 5300만원)의 포상금을 지급했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>6개 부산기업 ‘CES 혁신상’ 받는다…역대 최다</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/11/18/EMYEO7ZVOJDOHDNLOH2XEYUK54/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/11/18/EMYEO7ZVOJDOHDNLOH2XEYUK54/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 06:56:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UWMSMZAHVBGIDGEX6VBN5TLZFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 'CES 2024' 행사 중  LG전자 부스를 찾은 관람객들이 올레드 디스플레이 140여 대를 이어 붙인 터널 구조의 체험 공간에서 LG전자 스마트 TV 플랫폼 ‘webOS’의 다양한 콘텐츠들을 체험하고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2025년 1월 미국 라스베이거스에서 열리는 세계 최대 전자제품 전시회인 ‘CES 2025′에서 6개 부산기업이 ‘CES 혁신상’을 받는다. 6개 부산기업이 ‘CES 혁신상’을 수상하게 된 것은 역대 최다이다.&lt;br&gt;&lt;br&gt;부산시는 ”‘CES 2025′에 참여하는 6개 지역 기업이 7개 분야에서 ‘CES 혁신상’ 수상자로 선정됐다”고 18일 밝혔다. ‘CES 혁신상’은 CES를 주관하는 미국소비자기술협회(CTA)가 독창적이고 혁신적인 기술과 디자인의 제품을 개발한 기업들에 주는 권위있는 상이다.&lt;br&gt;&lt;br&gt;이 혁신상을 받은 지역 기업은 로보원, 피티브로, 짐, 뉴에너지, 싸아이티, 맵시 등이다. 로보원은 AI기술을 이용해 재활용 쓰레기를 선별하는 로봇을 개발, 지속가능성·에너지·전력, 스마트시티 등 2개 분야에서 혁신상을 받는다. &lt;br&gt;&lt;br&gt;‘피티브로’는 턱관절 질환으로 인한 통증을 완화하는 홈케어 기기를 개발해 디지털헬스 분야에서, ‘짐’은 접이식으로 휴대하기 편한 여행용 기타를 만들어 모바일 디바이스·액세서리 분야에서 각각 수상자로 선정됐다.&lt;br&gt;&lt;br&gt;탄소 저감과 에너지 효율을 극대화한 난방시스템 구독 서비스를 제공하는 ‘뉴에너지’는 산업 장비·기계 분야에서, 5G 이상 통신환경 대역용 안테나를 개발한 ‘씨아이티’는 차량 기술&amp;amp; 첨단 모빌리티 분야에서, 해양 빅데이터와 다중 센서 기술을 기반으로 해상 내비게이션을 개발한 ‘맵시’는 스마트시티 분야에서 각각 상을 받는다.&lt;br&gt;&lt;br&gt;박재홍 부산시 산업정책과장은 “‘CES 혁신상’ 지원사업을 시작한 이후 올해 가장 많은 수상자를 배출했다”며 “‘CES 2025′에서 ‘통합부산관’이라는 이름으로 단독관을 운영하고 부산 기업 23개사의 제품과 기술 전시를 지원할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>사상자 19명 발생…부천 호텔 화재 관계자 4명 구속 기소</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/18/NFY3Z7UNEZAVBELV7DBI3AZAXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/18/NFY3Z7UNEZAVBELV7DBI3AZAXM/</guid>
-      <dc:creator>부천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 07:15:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TXZNWXU25RN7NDGZKSXZAWNGTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19명의 사상자를 낸 부천 호텔 화재 사고와 관련해 건물 소유주 등 4명이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;인천지검 부천지청은 최근 업무상 과실치사상 등 혐의로 건물 소유주 A(66)씨와 호텔 매니저 B(36)씨 등 4명을 구속기소했다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등 4명은 지난 8월 22일 오후 7시 37분쯤 경기 부천시 원미구 중동의 한 호텔에서 발생한 화재와 관련, 안전관리 등을 소홀히 해 투숙객 7명을 숨지게 하고 12명을 다치게 한 혐의 등으로 기소됐다.&lt;br&gt;&lt;br&gt;이들은 지난 2018년 5월쯤 호텔 객실 에어컨을 교체하는 과정에서 노후 전선을 그대로 사용하고, 마감도 허술하게 한 것으로 파악됐다. 또 도어클로저를 설치하지 않고, 방화문도 열어둔 것으로 조사됐다.&lt;br&gt;&lt;br&gt;화재 당시 임의로 화재경보기 작동을 멈춘 뒤, 약 2분 뒤에 다시 켠 사실도 드러났다.&lt;br&gt;&lt;br&gt;인천지법 부천지원은 지난 10월 A씨 등에 대한 구속 전 피의자 심문을 진행하고 “도주할 우려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;인천지검 부천지청 관계자는 “죄에 상응하는 처벌이 이뤄지도록 공소 유지에 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>오세훈 “명태균 주장 전체가 다 엉터리…그분이 도울 일 없었다”</title>
