@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>검찰, '억대 뒷돈 혐의' 한국자산신탁 전 임직원 3명 구속영장 청구</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/203041.jpg" alt="203041.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;검찰이 분양대행업체로부터 뒷돈을 받은 혐의로 한국자산신탁 전직 임직원들의 신병 확보에 나섰다.&lt;br /&gt;&lt;br /&gt;서울중앙지검 반부패수사3부(&lt;span style="font-weight: bold;" class="lawmanlink" serial="14589"&gt;이승학&amp;nbsp;&lt;/span&gt;부장검사)는 지난 18일 특정경제범죄 가중처벌법상 수재 등 혐의로 한국자산신탁 전직 전무 백모 씨 등 임직원 3명에 대해 구속영장을 청구했다.&lt;br /&gt;&lt;br /&gt;검찰에 따르면 이들은 2020∼2023년 분양대행업체에 일감을 주는 대가로 수천만 원에서 억대 금품을 받은 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;검찰은 지난 5월 금융감독원의 수사 의뢰로 이번 사건 수사에 착수했다.&lt;br /&gt;&lt;br /&gt;당시 금감원은 한국자산신탁 전현직 직원들이 본인 소유 법인을 통해 시행사에 토지매입자금 등으로 25억 원 상당을 대여 및 알선하고 이자 명목으로 7억 원 상당을 받아냈다고 봤다.&lt;br /&gt;&lt;br /&gt;일부 대출은 약정이율이 100％인 경우도 있어 실제 이자율이 37％에 육박하는 등 법정 최고이자율 연 20％ 제한 규정을 위반한 것으로 조사됐다.&lt;/p&gt;</description>
+			<pubDate>Tue, 19 Nov 2024 03:07:13 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/203041</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203041</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203041.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>검찰, 법정서 국선변호인 공격한 30대에 징역 7년 구형</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/203043.jpg" alt="203043.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;구속 중 재판을 받던 30대가 법정에서 국선변호인을 간 칫솔로 공격해 살해하려다 미수에 그친 사건과 관련해 검찰이 징역형을 구형했다.&lt;br /&gt;&lt;br /&gt;대전지법 형사13부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="16479"&gt;장민경&amp;nbsp;&lt;/span&gt;부장판사)는 18일 살인미수 혐의로 기소된 A 씨에 대한 결심 공판에서 검찰은 "징역 7년을 선고해 달라"고 요청했다.&lt;br /&gt;&lt;br /&gt;검찰은 "A 씨는 대전교도소에서 제공받은 칫솔을 갈아 흉기로 만들어 재판 중 국선변호인을 살해하려고 했다"며 "이 사건은 범행 수법이 악랄하고 범행 당시 누범기간 중이었던 점에서 죄질이 매우 중대하다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;A 씨 측 변호인은 "피고인은 자신의 범행을 인정하고 깊이 반성하고 있다"며 "사건 당시 정신과 약 복용이 중단되어 수면장애와 불안 장애를 겪던 상태였다"고 주장했다. 이어 "피해 정도가 심하지 않은 점을 고려해 달라"고 요청했다.&lt;br /&gt;&lt;br /&gt;A 씨는 최후진술에서 "어떻게 됐든 저의 잘못"이라며 "피해자에게 매우 죄송하다"고 말했다. &lt;br /&gt;&lt;br /&gt;A 씨는 지난 8월 21일 대전지법 형사항소부 법정에서 항소심 재판 도중 자신의 국선변호인에게 칫솔로 공격을 시도했다. 당시 교도관들이 신속히 제압해 피해자는 목 부위에 경미한 상처를 입는 데 그쳤다. A 씨는 공무집행방해 혐의로 실형을 선고받고 대전교도소에 수감 중 제공받은 칫솔을 갈아 옷에 숨기고 다니며 범행을 준비한 것으로 조사됐다.&lt;br /&gt;&lt;br /&gt;선고 공판은 다음 달 11일 오후 2시에 열릴 예정이다.&lt;/p&gt;</description>
 			<pubDate>Tue, 19 Nov 2024 02:57:58 -0000</pubDate>
@@ -232,15 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202987</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/202987.jpg</media:thumbnail>
 			<dc:creator>홍윤지 기자</dc:creator>
-		</item>
-		<item>
-			<title>【오늘의 국회일정】 2024년 11월 18일</title>
-			<description>&lt;b&gt;◇ 국회의장&lt;/b&gt;&lt;br /&gt;09:00 국회의장 주재 기관장 업무보고(본관 316-1호)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 국회사무총장&lt;/b&gt;&lt;br /&gt;08:20 주간업무보고(종합상황실)&lt;br /&gt;&lt;br /&gt;09:00 국회의장 주재 기관장 업무보고(본관 316-1호)&lt;br /&gt;&lt;br /&gt;14:00 9급 신규임용자 임용장 수여식(국회접견실) &lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 상임위원회&lt;/b&gt;&lt;br /&gt;10:00 과학기술정보방송통신위원회 전체회의(본관 627호)&lt;br /&gt;&lt;br /&gt;10:00 기획재정위원회 조세소위원회(본관 431호)&lt;br /&gt;&lt;br /&gt;10:00 교육위원회 예산결산기금심사소위원회(본관 522호)&lt;br /&gt;&lt;br /&gt;10:00 문화체육관광위원회 예산결산심사소위원회(본관 508호)&lt;br /&gt;&lt;br /&gt;10:00 예산결산특별위원회 예산안등조정소위원회(본관 638호)&lt;br /&gt;&lt;br /&gt;&lt;p&gt;10:00 정무위원회 예산결산심사소위원회(본관604호)&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;14:00 기획재정위원회 전체회의(본관 430호)&lt;br /&gt;&lt;br /&gt;16:00 여성가족위원회 전체회의(본관 550호)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 의원실 세미나&lt;/b&gt;&lt;br /&gt;10:00 송언석 의원실, 민간R&amp;D투자 환경개선과 산업기술혁신 성장을 위한 조세정책 국회포럼(의원회관 제2세미나실)&lt;br /&gt;&lt;br /&gt;10:30 박찬대 의원실 등, (국회 연속 토론회) 중단없는 인천발전(의원회관 제3세미나실)&lt;br /&gt;&lt;br /&gt;13:30 한준호 의원실 등, 미래를 항해하다: 전기자동차 안전관리 기술혁신(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;14:00 민병덕 의원실 등, (공동포럼) 한국의 포용금융과 지속가능 성장전략(의원회관 제5간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 정을호 의원실 등, 고교학점제 전면 시행, 현장의 목소리를 듣다(의원회관 제4간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 김동아 의원실, 국가 에너지 효율향상을 위한 집단에너지 역할 정립 및 확대 방안 모색(의원회관 제3세미나실)&lt;br /&gt;&lt;br /&gt;14:00 강승규 의원실 등, 도축장 전기요금 특례 연장 국회 정책 토론회(의원회관 대회의실)&lt;br /&gt;&lt;br /&gt;14:00 고동진 의원실, 소상공인 경영개선 및 재창업 활성화 정책토론회(의원회관 제1세미나실)&lt;br /&gt;&lt;br /&gt;14:00 서명옥 의원실, 아동재학대 예방 및 사례관리를 위한 정책 토론회(의원회관 제10간담회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;◇ 소통관 기자회견&lt;/b&gt;&lt;br /&gt;10:20 이용선 의원 [공항 소음 피해지역 대책마련을 위한 제도개선 및 법률 개정 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 성소미 공보기획관 [11월 3주차 국회 정례브리핑 기자회견]&lt;br /&gt;&lt;br /&gt;13:00 서왕진 의원 [11차 전력수급기본계획 관련 기자회견]&lt;br /&gt;&lt;br /&gt;13:40 정혜경 의원 [하반기 정기국회 5개 노동관계법 처리 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;14:00 김한규 의원 [교제폭력 방지 및 처벌을 위한 교제폭력 3법 대표발의 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
-			<pubDate>Sun, 17 Nov 2024 22:35:34 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/202977</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/202977</guid>
-			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
