@@ -13,6 +13,91 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>김천 오피스텔 살인 사건 피의자 일주일 만에 붙잡혀</title>
+      <link>https://www.chosun.com/national/incident/2024/11/19/7BYUBLUZ2BEALMHJLIT6BYRH5E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/19/7BYUBLUZ2BEALMHJLIT6BYRH5E/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>경북 김천시 한 오피스텔에서 발생한 살인 사건의 피의자가 범행 일주일 만에 경찰에 붙잡혔다.경북 김천경찰서는 살인 혐의로 30대 A씨를 붙잡아 조사 중이라고 19일 밝혔다.</description>
+      <pubDate>Tue, 19 Nov 2024 13:57:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 김천시 한 오피스텔에서 발생한 살인 사건의 피의자가 범행 일주일 만에 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경북 김천경찰서는 살인 혐의로 30대 A씨를 붙잡아 조사 중이라고 19일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 12일 김천시 한 오피스텔에 들어가 흉기를 휘둘러 30대 B씨를 숨지게 한 혐의다.&lt;br&gt;&lt;br&gt;A씨는 범행 일주일 뒤인 이날 김천의 한 주차장에서 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “두 사람의 관계나 범행 동기 등에 대해서는 조사를 해봐야 하는 상황”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰이 고친 ‘尹 명예훼손’ 공소장…법원 “이해 어려워, 다시 정리하라” </title>
+      <link>https://www.chosun.com/national/court_law/2024/11/19/SZ3QDMBJS5DDRNOMU7JMWGNYWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/19/SZ3QDMBJS5DDRNOMU7JMWGNYWE/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 13:36:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JIB7IZGYOJE67CLCKNFSJEZKCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;화천대유자산관리 대주주 김만배(왼쪽)씨와 신학림 전 언론노조위원장.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘대선 개입 여론 조작’ 사건 재판에서 검찰이 범죄 사실을 제시하면, 법원이 “다시 정리하라”며 반려하는 일이 반복되고 있다. 검찰은 피고인들이 지난 대선을 앞두고 윤석열 대통령 관련 허위 보도를 통해 윤 대통령의 명예를 훼손하고 여론을 조작하려 했다고 보고 있는데, 재판부는 “어떤 부분이 허위 사실인지 이해하기 어렵다”고 거듭 지적하고 있다.&lt;br&gt;&lt;br&gt;19일 서울중앙지법 형사21부(재판장 허경무) 심리로 열린 대선 개입 여론 조작 사건 재판에서는 서증(書證) 조사가 진행됐다. 검찰 공소장에 담긴 기사, 영상 등에 담긴 허위 사실이 무엇인지 명확하게 구분하라는 재판부의 요구에 따른 절차였다.&lt;br&gt;&lt;br&gt;앞서 공판 준비 기일에서도 재판부가 “공소장에 명예훼손과 무관한 간접 정황이 너무 많다”고 지적해 검찰은 한 차례 공소장을 수정해 70쪽에서 50쪽으로 줄였다. 그런데도 여전히 공소 사실 정리가 미진하다고 판단해 증거 조사가 이뤄진 것이다.&lt;br&gt;&lt;br&gt;검찰은 이날 피고인인 화천대유자산관리 대주주 김만배씨와 신학림 전 언론노조위원장이 2021년 9월 15일 만나 인터뷰한 녹취록, 이를 토대로 이듬해 3월 보도된 뉴스타파 기사와 영상 등을 제시하며 허위 사실을 짚었다. 핵심 내용은 ‘2011년 부산저축은행 사건 때 중수2과장이었던 윤 대통령이 당시 대장동 대출 브로커 조씨를 만나 커피를 타 주고 수사를 무마했다’는 것으로, 민주당은 대선 직전 이를 근거로 ‘윤석열 수사 무마 의혹’을 제기했다.&lt;br&gt;&lt;br&gt;검찰은 “김씨는 대장동 의혹 관련 프레임을 전환하려는 목적으로 의도적으로 윤 대통령이 2011년 조씨의 수사를 무마했다는 허위 프레임을 만들어 신씨를 통해 전파한 것”이라며 김씨의 주요 발언들이 모두 허위라고 지적했다. 김씨는 당시 신씨와 인터뷰하면서 ‘조우형 무혐의’ 등 허위 사실들을 노트에 메모했는데, 검찰은 이에 대해 “단순한 센척이나 실언이 아니라 언론 보도를 염두에 두고 허위 사실 적시한 것”이라고 했다.&lt;br&gt;&lt;br&gt;녹취록에서 김씨는 신씨에게 수사 무마 관련 이야기를 하면서 “기사 나가면 큰일 나”라고 말하는데, 검찰은 이것이 “의도된 변명 장치”였다고 설명했다. 검찰은 “정말 큰일 나는 내용이라면 이를 기자인 신씨에게 말하지 않는 것이 자연스럽다”며 “인터뷰가 녹음되는 것을 알고, 추후 허위 인터뷰가 문제 될 때 은폐하기 위한 변명 장치를 만든 것”이라고 했다.&lt;br&gt;&lt;br&gt;검찰은 또 두 사람의 인터뷰를 보도한 뉴스타파 기사와 영상을 법정에서 직접 제시·재생하며 “의도적 편집을 통해 윤 대통령이 당시 조씨의 수사를 덮었다는 부분을 부각했다. 짜깁기를 통해 허위 프레임을 강화한 것”이라고 주장했다. 그러면서 “뉴스타파 보도는 윤 대통령이 2011년 중수2과장으로 근무하며 박영수 전 특별검사의 부탁으로 조씨의 알선 수재 수사를 무마시켰다는 등의 허위 사실을 적시한 것이 명백하다”고 했다.&lt;br&gt;&lt;br&gt;하지만 재판부는 검찰의 설명을 들은 후에도 여전히 허위 사실 여부가 특정되지 않았다고 지적했다. 재판부는 “검찰이 (필요 없는) 공소 사실을 어느 정도 빼서 공소장이 20페이지 정도 사라졌다”면서도 “아직도 공소 사실을 이해하는 데 어려움이 있다”고 했다. 재판부는 “서증 보니까 유튜브, 웹페이지 기사, 녹취 전문이 나오는데 어디가 허위라고 기소됐는지 알 수가 없다. 공판 준비 기일 때보다 공소 사실 정리가 한 발짝도 안 나갔다”고 말했다. 그러면서 “공소장이 너무 많은 내용을 담고 있어서 기소된 범죄 사실이 명확히 드러나지 않는다”며 “공소장을 다시 검토해 보겠다”고 했다.&lt;br&gt;&lt;br&gt;한편, 재판부는 이날 김씨와 신씨가 청구한 보석 심문도 진행했다. 김씨 변호인은 “김씨가 (대장동 등) 여러 재판을 받다 보니 늘 구치소에 없다. 미리 의견을 듣고 준비할 수 없다”며 “현실적으로 방어권 행사가 가능한 상황이 아니다”고 했다. 신씨 변호인도 “신씨에게는 인멸할 증거가 없고, 도망할 생각도 없다”며 “무죄 추정 원칙에 따라 보석을 허가해달라”고 말했다.&lt;br&gt;&lt;br&gt;이에 대해 검찰은 “구속 영장 발부 이후 특별히 사정이 바뀌지 않았다”며 구속 재판의 필요성을 강조했다. 재판부는 “되도록 빨리 (보석 여부를) 결정하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광주공항 출발 준비 항공기서 승객이 출입문 레버 조작… 40분 이륙 지연</title>
+      <link>https://www.chosun.com/national/incident/2024/11/19/J5IKZJUEJRH2PC7NJLMLNPWBBI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/19/J5IKZJUEJRH2PC7NJLMLNPWBBI/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>19일 오후 7시 10분쯤 광주공항에서 제주공항으로 출발하기 위해 준비 중이던 진에어 항공기에서 한 승객이 항공기 오른쪽 출입문 ‘R1 도어’의 레버를 조작해 40분가량 이륙이 지연되는 사고가 발생했다.</description>
+      <pubDate>Tue, 19 Nov 2024 11:54:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4YF3A2YIGCZFDIQUN5CWL2DYEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 광산구 신촌동에 있는 광주공항 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 오후 7시 10분쯤 광주공항에서 제주공항으로 출발하기 위해 준비 중이던 진에어 항공기에서 한 승객이 항공기 오른쪽 출입문의 레버를 조작해 40분가량 이륙이 지연되는 사고가 발생했다. 다행히 부상자는 없었으나, 40분가량 이륙이 지연되면서 다른 승객이 불편을 겪었다.&lt;br&gt;&lt;br&gt;항공기를 처음 탑승한 이 승객은 오른쪽 출입문 너머에도 객실이 있는 것으로 착각해 이 같은 사고를 저지른 것으로 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;광주공항 측은 해당 승객을 대상으로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘중환자 중심 병원 재편’ 11곳 추가 선정...서울대·서울성모 등 참여</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/11/19/PNR544UNANDVBAMJWAIEP77E5Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/11/19/PNR544UNANDVBAMJWAIEP77E5Y/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 11:54:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M7YJFEIA3BJEDP2Z4NRL6BKHMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 서울대학교병원에서 한 환자가 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상급종합병원을 ‘중환자 중심’ 병원으로 재편하는 정부의 지원 사업에 참여하는 대형 병원으로 서울대병원, 서울성모병원 등 11곳이 추가 선정됐다. 이로써 전체 상급종합병원 47곳 중 42곳(89%)이 시범 사업에 참여하게 됐다.&lt;br&gt;&lt;br&gt;보건복지부는 19일 상급종합병원 구조 전환 지원 사업 대상으로 서울대병원과 서울성모병원을 비롯해 가톨릭대 성빈센트·인천성모병원, 계명대 동산병원, 대구가톨릭대병원, 동아대병원, 삼성창원병원, 양산부산대병원, 전남대병원, 충북대병원이 4차 선정됐다고 밝혔다. 이 사업은 상급종합병원이 중증도와 난도 높은 환자들을 집중적으로 치료하고, 경증 환자는 지역 병의원들과 협력해 진료하도록 하는 것이다.&lt;br&gt;&lt;br&gt;사업에 참여하는 병원들은 현재 50% 수준인 중증 환자 진료 비율을 70%까지 단계적으로 높여야 한다. 전체 참여 병원 42곳은 이를 위해 중환자·소아·고위험 분만·응급 병상을 제외한 일반 병상 총 3186개를 감축하기로 했다. 정부는 인력 투입에 비해 보상이 적었던 중증 수술과 중환자실 수가를 인상하는 등 보상을 강화한다. 정부 계획대로 상급종합병원 구조 전환이 이뤄지면 중환자들은 대형 병원에서 더욱 수월하게 진료받고, 경증 환자는 일선 의원과 병원 등을 우선 이용하게 될 전망이다.&lt;br&gt;&lt;br&gt;복지부는 “아직 참여하지 않은 상급종합병원도 준비되는 대로 지원받을 수 있도록 추가 신청 상황을 보면서 선정할 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 지하철, 내일부터 태업...임협 결렬땐 내달 6일 파업 예고</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/19/D2VTPD3SWBAFRJ3NKUUEDBRI44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/19/D2VTPD3SWBAFRJ3NKUUEDBRI44/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 11:32:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3GIJ7A2ZBJLCVHVVT44WQSTMXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 서울 중구 지하철 3선 충무로역에서 시민들이 지하철에 탑승하고 있다. 서울 지하철 1~8호선을 운영하는 서울교통공사 노동조합이 다음 달 6일 총파업을 예고했다. 총파업을 앞두고 오는 20일부터 준법투쟁에 돌입한다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 지하철 1~8호선을 운행하는 서울교통공사의 1노조(서울교통공사노조)가 20일부터 이른바 ‘준법 투쟁(태업)’에 돌입한다. 코레일 철도노조(전국철도노동조합)가 지난 18일부터 준법 투쟁을 시작해 수도권 전철이 평소보다 10분 이상 지연 운행하는 가운데 서울 시내 지하철까지 출근길 혼란이 예상된다.&lt;br&gt;&lt;br&gt;서울교통공사 1노조는 19일 오전 서울시청 앞에서 기자회견을 열고 이 같은 계획을 발표했다.&lt;br&gt;&lt;br&gt;공사와 1노조는 내년도 임금·단체협약 교섭을 벌이고 있는데 입장 차가 크다. 1노조는 임금 5.5% 인상, 신규 채용 확대 등을 요구하고 있다. 반면에 사측은 누적 적자가 7조원이 넘어 신규 채용을 늘리기 어렵고 임금 인상률도 2.5% 이내로 합의해야 한다는 입장이다. 1노조는 “협상이 최종 결렬되면 12월 6일 총파업에 돌입할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;준법 투쟁은 열차를 규정대로 운행하겠다며 사실상 지연시키는 방법이다. 예를 들어 열차 출입문을 천천히 여닫거나 저속 운행하는 것이다. 특히 출근길에는 열차가 짧은 간격으로 운행하기 때문에 한 편이 지연 운행하면 뒤따르는 열차도 줄줄이 지체될 수밖에 없다.&lt;br&gt;&lt;br&gt;앞서 철도노조가 준법 투쟁을 시작한 지난 18일, 출근 시간대 운행한 수도권 전철 650여 편 중 260여 편이 평소보다 10분 이상 지연 운행했다. 그중 120여 편은 20분 이상 늦게 운행했다.&lt;br&gt;&lt;br&gt;공사 측은 “출근 시간대 서울 시내 지하철 운행도 평소보다 10분 이상 지연될 것으로 보인다”며 “수도권 전철과 연결되는 1호선은 20 분 넘게 지연될 가능성도 있다”고 했다. 이어 “중요한 일정이 있는 승객은 버스 등 다른 교통수단을 이용하길 당부드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>동국대 "논술 문제 오류 확인…모든 응시자 정답 처리"</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/19/CTQJM7UUZ5AZVPTD652HSGF5U4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/19/CTQJM7UUZ5AZVPTD652HSGF5U4/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 12:01:52 +0000</pubDate>
+      <content:encoded>동국대학교가 지난 17일 실시한 논술고사에서 낸 문제에 오류가 있음을 인정하고, 모든 응시자의 답안을 정답 처리하기로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJCTXJ3YBKATA45LTM53OOW3SY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;동국대가 오류를 확인하고 모든 응시자의 답안을 정답 처리한 논술고사 자연계열 2번 문제. /동국대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동국대는 19일 홈페이지에 입학처장 명의로 올린 안내문에서 “17일 실시한 논술고사 문제에 오류가 있음을 확인했다”고 했다.&lt;br&gt;&lt;br&gt;오류가 발견된 건 자연계열 2번 문제로, ‘임의로 3명을 뽑았을 때 비만이 1명일 확률이 0.75³이고 임의로 3명을 뽑았을 때 과체중이 1명일 확률은 48/125이라면 체질량 지수가 23 초과 27 이하일 확률을 제시문을 이용하여 구하시오’라고 쓰여 있다.&lt;br&gt;&lt;br&gt;동국대는 “출제의도와 달리 ‘비만’과 ‘과체중’이라는 단어의 위치가 바뀐 점이 확인됐다”며 ”이 오류는 본교 논술고사 출제위원회 및 해당 분야 전문가의 재검토를 통해 최종 확정됐다”고 했다.&lt;br&gt;&lt;br&gt;이번 논술고사 문제 오류에 대해 동국대는 “해당 문제에 대해 모든 응시자의 답안을 정답 처리하기로 결정했다”며 “앞으로도 입학 전형 과정의 공정성과 신뢰성을 확보하기 위해 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘솜방망이’ 경찰 징계 기준 강화...마약·음주운전 비위시 경찰복 벗는다</title>
+      <link>https://www.chosun.com/national/2024/11/19/75VA3DLX55EP7PBLTC2LBE64UY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/11/19/75VA3DLX55EP7PBLTC2LBE64UY/</guid>
+      <dc:creator>주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 10:51:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z4N2MWK6WHCBNFGYI5TNTUVAEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 서울 서대문구 미근동 경찰청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전, 마약 범죄, 스토킹, 디지털 성범죄 등에 연루된 경찰에 대한 징계처분 수위가 한층 강화됐다.&lt;br&gt;&lt;br&gt;19일 경찰청에 따르면 국가경찰위원회는 전날 주요 비위에 대한 징계양정 기준을 대폭 강화한 ‘경찰공무원 징계령 세부 시행규칙’ 개정안을 의결했다.&lt;br&gt;&lt;br&gt;음주운전에 대한 징계양정 기준도 대폭 강화됐다. 2회 이상 음주운전, 무면허 음주운전은 즉각 파면 또는 해임된다.기존에는 2회 이상 음주운전자에겐 파면∼강등 기준이 적용됐다. 즉 강등을 통해 경찰관 신분을 유지할 수 있는 최소한의 길을 터줬던 셈이다.혈중알코올농도 수치가 면허취소 수준인 0.08% 이상인 경우엔 최대 파면에서 최소 강등 처분이 이뤄진다. 0.08% 미만인 경우에는 강등∼정직이 가능하다.기존에는 0.08%∼0.2% 미만이면 강등∼정직 처분이, 0.08% 미만이면 정직∼감봉 처분이 기준이었다.음주운전 방조 행위에 대한 징계 규정도 신설했다. 부서장 및 관리자는 강등∼정직 처분이, 일반 직원은 정직∼감봉 처분이 내려질 수 있다.술자리에 차량을 갖고 참석했다가 음주운전이 적발된 경우에는 징계를 한 단계 가중하는 규정도 마련했다. 경찰청은 “사실상 음주운전 예비행위로 간주해 경찰에서 퇴출하겠다는 의도”라고 설명했다.&lt;br&gt;&lt;br&gt;또 마약류 비위에 대한 징계 규정이 신설됐다. 비위 정도나 유형에 따라 최소 파면, 최대 해임이 이뤄진다. 경찰 내 마약범죄 척결을 위해 무조건 경찰관 신분을 박탈한다는 게 경찰청의 설명이다. 파면과 해임은 경찰관 신분이 박탈된다는 점에선 차이가 없지만, 재임용 제한 기간과 퇴직금 수령액에 차이가 난다.&lt;br&gt;&lt;br&gt;스토킹이나 디지털 성범죄도 별도 유형으로 분류해 징계한다. 비위 정도가 약하거나 경과실 범죄를 제외하고는 대부분 파면 또는 해임이 이뤄지게 된다.이 밖에도 ‘성폭력 범죄’로 한정했던 비위 유형을 ‘성폭력’으로 바꿔 수사 여부와 상관 없이 성폭력 행위만 인정돼도 징계가 가능하게 했고, 중요 수사·단속 정보 누설 행위도 최소 강등 이상 처분이 가능해진다. 경찰청 관계자는 “더욱 강력한 경각심을 갖기 위한 규칙 개정”이라며 “국민을 실망시키는 일이 완전히 없어질 때까지 노력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/Z4N2MWK6WHCBNFGYI5TNTUVAEI.jpg?width=4960&amp;height=3184&amp;auth=3727994851d9d634557bbe012676a837bbfaa0dac871e7b72777f86f0899f1e1&amp;smart=true" type="image/jpeg" height="3184" width="4960">
+        <media:description type="plain">9일 서울 서대문구 미근동 경찰청 국기대에 걸린 경찰청 깃발이 바람에 휘날리고 있다.2023.2.9/뉴스1 ⓒ News1 박정호 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 박정호 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>굿 비용 뜯어내려 전 남편 폭행 살해한 40대… 검찰 무기징역 구형</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/19/J5YJHQKS6NCXTL7YLSKAYLAZSA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/19/J5YJHQKS6NCXTL7YLSKAYLAZSA/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>신내림 굿 비용을 뜯어내려 전 남편을 협박하다 폭행해 숨지게 한 40대 여성에게 검찰이 무기징역을 구형했다.19일 의정부지법 형사11부의 심리로 열린 결심공판에서 검찰은 강도살인 혐의로 기소된 40대 여성 A에게 무기징역, 딸 B씨에게 징역 10년을 각각 구형했다.</description>
+      <pubDate>Tue, 19 Nov 2024 10:49:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VIZKDCPY4UZXREQVRF26GZYTVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의정부지법 본관 전경 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신내림 굿 비용을 뜯어내려 전 남편을 협박하다 폭행해 숨지게 한 40대 여성에게 검찰이 무기징역을 구형했다.&lt;br&gt;&lt;br&gt;19일 의정부지법 형사11부의 심리로 열린 결심공판에서 검찰은 강도살인 혐의로 기소된 40대 여성 A에게 무기징역, 딸 B씨에게 징역 10년을 각각 구형했다.&lt;br&gt;&lt;br&gt;또 공범인 40대 여성 무속인 C씨에게 무기징역을, C씨의 전 남편 D씨에게 징역 10년을 구형했다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 5월 9일 오전 8시쯤 경기 양주시 한 주택에서 A씨의 전 남편인 E씨를 폭행해 숨지게 한 혐의다.&lt;br&gt;&lt;br&gt;피해자와 피의자들은 모두 무속 신앙에 빠져 무속인 C씨의 집에 함께 거주하고 있었다. 이 과정에서 C씨는 E씨에게 신내림 굿이 필요하다며 돈을 요구했다. A씨와 자녀 B씨도 E씨에게 굿 비용을 내놓으라고 강요했다. 그러나 E씨가 이를 거부하자 폭행을 가했고, 이들의 폭행은 약 엿새 동안 이어졌다.&lt;br&gt;&lt;br&gt;A씨 등은 숨진 E씨를 발견한 뒤 경찰에 신고하면서 범행 동기에 대해 E씨가 과거 자식을 상대로 성범죄를 저질러 가정 문제로 갈등을 빚었다고 진술하기도 했다.&lt;br&gt;&lt;br&gt;A씨는 이날 최후진술에서 “자식과 감옥에 들어와 참담하다”며 선처를 호소했다.&lt;br&gt;&lt;br&gt;한편 이들에 대한 선고는 오는 28일 의정부지법에서 열릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“자영업자는 진짜 운다”...빵100개·커피 50잔 시켜놓고 ‘노쇼’</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/19/KJTGB66YCJEKHL7RLJTX2O2DMM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/19/KJTGB66YCJEKHL7RLJTX2O2DMM/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 18 Nov 2024 22:20:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y4KGFLELE5GKPPWV25KIJ2ZOZ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;송파구에서 작은 카페를 운영하는 주인이 눈물을 휴지로 닦고 있는 모습./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 송파구에서 소규모 카페를 운영하는 한 주인이 빵 100개와 커피 50잔 ‘노쇼’를 당했다는 사연이 알려져 관심을 끌고 있다.&lt;br&gt;&lt;br&gt;19일 한 온라인 커뮤니티에는 ‘빵100개 커피 50잔 노쇼당한 카페 사장’이라는 제목으로 지난 15일 인스타그램에 널리 공유됐던 한 카페 방범 카메라(CCTV) 영상이 올라왔다.&lt;br&gt;&lt;br&gt;영상을 보면 카페 주인으로 보이는 인물이 휴대전화로 누군가에게 전화를 건다. 상대방이 전화를 받지 않자 이 사람은 곧바로 눈물을 흘리며 휴지로 닦는다.&lt;br&gt;&lt;br&gt;카페 주인은 이 영상과 함께 인스타그램에 “스콘 50개, 휘낭시에 50개, 아메리카노 25잔, 딸기라테 25잔을 주문받았다. 곧 도착한다고 한 뒤 차단당했다. 그래서 자주 오시는 손님 앞에서 울었다”고 남겼다.&lt;br&gt;&lt;br&gt;이어 “사실 한 번도 당해본 적이 없는 노쇼이기에 타격감이 제대로인 오늘인 것 같다”며 “진짜 힘들고 어려운 시기에 작은 주문에도 울고 웃는 게 자영업자다. 특히나 저희처럼 작디작은 카페는 더 그렇다”고 적었다.&lt;br&gt;&lt;br&gt;그는 “당연히 선결제를 받아야 했다. 하지만 선수금을 이체해달라고 하자 ‘지금 당장 가서 결제를 해드리냐’라고 답하는 모습에 뭘 이리 사람을 의심하나 싶어서 찾으러 올 때 결제해달라고 믿은 게 잘못이었던 걸까”라고 썼다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “형사 고발해야 하는 거 아니냐” “진짜 너무하다” “힘내셔라” 등 위로의 댓글을 남겼다.&lt;br&gt;&lt;br&gt;고의적 노쇼는 가게 운영업무를 방해한 행위로 간주된다. 이에 따라 형법에서 규정하고 있는 ‘위계에 의한 업무방해죄’가 성립될 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘지하 주차장 붕괴’ 인천 검단 아파트 해체 작업  중 포크레인 넘어져... 60대 기사 숨져</title>
       <link>https://www.chosun.com/national/incident/2024/11/19/SWPDQK67CVF3XF63BTXSWBQWEY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/19/SWPDQK67CVF3XF63BTXSWBQWEY/</guid>
@@ -862,42 +947,6 @@
       <content:encoded>서울행정법원은 18일 오후 법원 청사 청연재에서 ‘난민재판의 현황과 개선 방향’을 주제로 열린 강좌를 개최했다. 현행 난민재판의 문제와 애로사항을 공유하고 개선방안을 마련하자는 취지다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I7DPX6EZLBLG5BRCICSKVRHWM4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 3월 서울 서초구 중앙지방법원 앞에서 열린 '난민지침 정보공개청구소송 2심 선고 기자회견'에서 참가자들이 손팻말을 들고 있다. 사진은 기사 내용과 관련 없음. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정법원이 난민재판의 소송 대리인·수행자 등을 한 자리에 초청한 것은 2013년 개원 15주년 기념행사 이후 처음이다. 이날 행사에는 난민재판을 담당하는 판사, 변호사, 소송수행자 등 50여명이 참석했다.&lt;br&gt;&lt;br&gt;행정법원은 세금 부과나 산업재해 인정 등 정부의 행정처분이 정당한지를 다투는 곳이다. 법무부의 ‘난민불인정 결정’에 불복하며 난민으로 인정해달라고 주장하는 외국인들도 행정법원에 소송을 낸다.&lt;br&gt;&lt;br&gt;난민재판실무연구회 회장 김영민 서울행정법원 부장판사는 이날 “체류 연장만을 위한 목적으로 하는 것이 아니라 진정한 이유로 난민 신청을 한 이들에 대한 집중적 심리를 할 수 있도록 제도를 개선해야 한다”고 했다.&lt;br&gt;&lt;br&gt;작년 전국 법원에 접수된 행정 사건 3만2663건 중 난민 사건은 6296건(19.3%)이다. 1심 행정 사건 중 난민 사건이 차지하는 비율은 13.4%지만 2심에선 26.2%, 3심에선 41.8%에 달한다. 즉, 판결에 수긍하기보다는 상소(上訴)를 통해 법원의 판단을 다시 받는 경우가 많다.&lt;br&gt;&lt;br&gt;문제는 한국에 머무르기 위해 소송을 남용하는 불법 체류 외국인들이 적지 않다는 것이다. 난민 소송을 3심까지 진행하는 동안에는 ‘난민 신청자’ 자격으로 국내에 체류할 수 있어, 난민 소송을 일종의 체류 수단으로 악용하는 셈이다. 일부는 패소 판결이 확정되더라도 또다시 난민 신청을 하며 수년 간 ‘버티기’에 나서기도 한다.&lt;br&gt;&lt;br&gt;김 부장판사는 “진정 난민으로 인정받고 권리를 구제받기 위해 상소하는 경우도 있지만, 원심 때와 청구 사유를 똑같이 내는 등 체류 연장을 위한 수단으로 소송하는 이들도 분명 많다”며 “난민재판 남용하는 사람들을 가려낼 수 있는 방법이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;서울행정법원 허준기 판사는 “현재는 난민 신청을 한 원고가 2회 이상 재판에 불출석하는 경우 재판부가 바로 선고기일을 정할 수 있는데, 난민 신청에 상당한 이유가 없다고 판단되면 1회 불출석 만으로도 선고하도록 하는 등 효율적인 제도가 필요하다”는 의견을 냈다.&lt;br&gt;&lt;br&gt;한편 난민 신청자를 대리하는 변호인들은 “법원이 선입견 없이 엄정하게 판단해야 한다”고 했다. 공익법센터 어필의 이일 변호사는 “난민 재판의 입증 책임은 원고(외국인) 본인에게 있지만, 이들 중 90%는 변호사를 구하지 못하고 홀로 소송을 진행한다”며 “정말 난민의 사유가 있더라도 언어·법률 지식의 한계에 마주하는 경우가 많다”고 했다. 이에 난민 신청자도 ‘국선변호인’을 이용할 수 있도록 하는 등 제도 개선이 필요하다고 했다.&lt;br&gt;&lt;br&gt;양측 모두 난민재판에서의 통·번역 문제를 지적했다. 김 부장판사는 “영어 외 특수 언어는 특히나 통역인을 구하기 어려워 기일이 밀리기도 한다”며 “난민재판이 특정 요일에 몰려서 난감하다는 변호인, 소송 당사자의 사정을 알고 있지만 통역인과 일정을 맞추기 위해 어쩔 수 없이 하루에 재판을 몰아 하기도 한다”고 했다.&lt;br&gt;&lt;br&gt;토론에 참여한 한 인권 변호사도 “법원 홈페이지 일부 서비스는 한국어로만 제공이 돼 접근성에 한계가 있다”며 “판결문을 한글 외 다른 언어로 번역해 볼 수 있는 제도도 확대가 필요하다”고 했다.&lt;br&gt;&lt;br&gt;법원 관계자는 “난민으로 인정된 자가 우리나라에서 범죄를 저지르면 본국으로 강제 추방이 어려운 게 현실”이라면서도 “일부 사례들로 선의의 난민 신청인에게 피해가 돌아가지 않도록 신중해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>연세대, ‘논술 효력 정지’에 입장문... “본안 판결 따라 방안 마련”</title>
-      <link>https://www.chosun.com/national/education/2024/11/18/MNFN3P3JCRDX3NQ5RBVXJI6LOQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/11/18/MNFN3P3JCRDX3NQ5RBVXJI6LOQ/</guid>
-      <dc:creator>김경은 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 12:33:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B4S2JN63HZHKXOVNNSYNZZIIY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연세대 신촌캠퍼스 전경. /연세대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연세대는 2025학년도 수시모집 자연계열 논술시험과 관련해 지난 15일 법원이 효력을 정지한 데 대해 18일 “가처분 인용 결정을 존중하며 겸허히 받아들인다”고 밝혔다.&lt;br&gt;&lt;br&gt;연세대는 이날 오후 입장문을 담은 보도자료를 내고 “결정 취지를 존중하며 이유 여하를 불문하고 입학시험 관리와 공정성에 대한 우려를 야기한 점에 대해 깊이 성찰하고 있다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;이어 “이번 가처분 인용 결정에 대해 모든 수험생의 권익을 보호하고 선의의 피해가 발생하지 않도록 2025학년도 대입 일정을 고려해 법정 규정에 따른 후속 절차를 진행하겠다”고 했다.&lt;br&gt;&lt;br&gt;이는 본안 소송 판결 전까지 수시 자연계열 논술시험 합격자 발표를 중지하라는 법원의 가처분 인용 결정에 따르겠다는 의미로 풀이된다.&lt;br&gt;&lt;br&gt;다만 연세대는 “가처분 결정으로 인해 불가피하게 발생한 혼란을 최소화하고 향후 입시 일정에 차질이 없도록 하기 위해 법원의 최종 판결을 최대한 신속히 이끌어낼 수 있도록 절차적 이의신청을 제기했다”며 “이번 논술시험에서 제기된 의혹과 무관한 다수 수험생들의 권익을 보호하기 위해서”라고 설명했다.&lt;br&gt;&lt;br&gt;그러면서 “입시 일정의 혼란을 최소화하고 대다수 수험생들의 불이익을 방지하기 위해 12월 13일 예정된 합격자 발표 전까지 본안 소송 판결이 선고되기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;연세대는 “이유 여하를 불문하고, 입학시험 관리와 공정성에 대한 우려를 야기한 점에 대해 깊이 성찰하고 있다”며 “이후 입시 일정에서는 공정하게 시험을 치른 절대 다수 수험생들에게 부당한 피해가 발생하지 않도록 다각적인 논의를 진행해왔다”고 했다.&lt;br&gt;&lt;br&gt;연세대는 신속히 재판 절차를 진행하면서 본안 소송 판결이 나올 때까지 기다렸다가 판결에 따라 대응할 계획인 것으로 보인다.&lt;br&gt;&lt;br&gt;앞서 연세대는 지난 15일 가처분 일부 인용 결정을 내린 서울서부지법 민사합의12부(부장판사 전보성)에 이의신청서와 신속기일지정신청서를 제출했다.&lt;br&gt;&lt;br&gt;이의신청에 따라 재판부는 오는 19일 오후 5시 양측으로부터 자료를 새로 제출받아 재심리를 진행하기로 했다. 같은 결정이 내려진다면 연세대가 항고할 가능성도 있다.&lt;br&gt;&lt;br&gt;이에 수험생 측 법률대리인인 김정선 변호사는 지난 17일 입장문을 통해 “합격자 발표일까지 시간만 끌겠다는 의도”라며 “시간만 끌다 어쩔 수 없다는 핑계로 수시모집 인원을 정시로 이월하며 피해자를 양산할 것”이라고 비판했다.&lt;br&gt;&lt;br&gt;다음은 연세대 보도자료 전문.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;연세대학교는 2025학년도 연세대학교 논술시험과 관련해 11월 15일 서울서부지방법원이 내린 가처분 인용 결정을 존중하며 겸허히 받아들인다고 밝혔다.&lt;br&gt;&lt;br&gt;이번 가처분 결정의 주요 내용은 다음과 같다.&lt;br&gt;&lt;br&gt;1. 논술시험 재시행 청구사건의 본안 판결이 선고되기 전까지, 이번 논술시험의 합격자 발표를 중지한다.&lt;br&gt;&lt;br&gt;2. 합격자 발표 중지 범위는 신청인들이 포함된 12개 학과뿐만 아니라 자연계열 전 24개 학과 전체(261명 모집, 9666명 응시)에 적용된다.&lt;br&gt;&lt;br&gt;3. 신청인들이 연세대학교에 재시험을 요구할 법적 권리는 없으며, 연세대학교 역시 재시험을 시행할 법적 의무가 없다.&lt;br&gt;&lt;br&gt;4. 재시험 시행 여부나 논술시험 선발정원의 정시모집 이월 여부는 대학의 재량에 속한다.&lt;br&gt;&lt;br&gt;연세대는 이번 가처분 인용 결정에 대해 모든 수험생의 권익을 보호하고 선의의 피해가 발생하지 않도록 2025학년도 대입 일정을 고려해 법적 규정에 따른 후속 절차를 진행하겠다는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;연세대는 가처분 결정으로 인해 불가피하게 발생한 혼란을 최소화하고 향후 입시 일정에 차질이 없도록 하기 위해 법원의 최종 판결을 최대한 신속히 이끌어낼 수 있도록 절차적 이의신청을 제기했다. 이는 이번 논술시험에서 제기된 의혹과 무관한 다수의 수험생들의 권익을 보호하기 위해서이다.&lt;br&gt;&lt;br&gt;또한, 연세대는 입시 일정의 혼란을 최소화하고 대다수 수험생들의 불이익을 방지하기 위해, 12월 13일 예정된 합격자 발표 전까지 본안소송 판결이 선고되기를 바란다고 했다.&lt;br&gt;&lt;br&gt;대학 측은 가처분 결정의 취지를 존중하며, 이유 여하를 불문하고 입학시험 관리와 공정성에 대한 우려를 야기한 점에 대해 깊이 성찰하고 있다고 전했다. 이어 이후 입시 일정에서는 공정하게 시험을 치른 절대 다수의 수험생들에게 부당한 피해가 발생하지 않도록 다각적인 논의를 진행해 왔다고 밝혔다.&lt;br&gt;&lt;br&gt;연세대는 “이번 사태로 인해 많은 수험생과 학부모님들께 심려를 끼쳐드린 점 깊이 사과드린다. 현재 수사가 진행 중이고 법원의 판결이 진행 중인 상황에서 대학 내부 논의에 신중에 신중을 기하며 오직 수험생들의 입시 혼란을 최소화하는 방안을 논의해 왔다”며 “2025학년도 대학 입시 일정을 감안해 모든 수험생들의 권익이 보호될 수 있도록 법원의 현명하고 신속한 판단을 바라며 본안 소송의 판결 결과 및 기일에 따라 후속 절차 등 입시를 온전히 마칠 수 있도록 최선의 방안을 마련하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이현재 하남시장, 교산신도시 현안 국토부에 건의... “자족기능 강화”</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/18/ALXCSEVO2VFLVKOOMLITOGDXBI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/18/ALXCSEVO2VFLVKOOMLITOGDXBI/</guid>
-      <dc:creator>하남=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 12:17:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QAOKSTZJEFERFEDTICXLPMWX54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 15일 이현재 경기 하남시장과 박상우 국토교통부 장관이 조성 중인 교산신도시 일대를 둘러보고 있다. /하남시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 하남시는 오는 2027년 입주를 앞둔 교산신도시의 자족기능 확보를 위해 광역교통대책 마련과 공업지역 물량을 확대 배정해 줄 것을 국토교통부에 요청했다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;이현재 하남시장은 지난 15일 하남시를 찾은 박상우 국토교통부 장관을 만나 이 같이 제안했다.&lt;br&gt;&lt;br&gt;과밀억제권역인 하남시는 취등록세 중과로 앵커 기업들이 기피하는 상황인 만큼 공업지역 물량 30만㎡를 확대 배정해 기업 유치를 이끌어낸다는 구상이다. 또 이 시장은 교산신도시 주민들이 지하철을 이용할 수 있도록 드림휴게소에 104 정거장을 설치하고, 교통소음으로 인한 피해를 줄이기 위해 방음터널을 설치해줄 것을 건의했다. 이 밖에도 신도시 입주민이 이용할 생활SOC 시설 확충과 서울~교산 고속도로의 조기 착공을 요청했다.&lt;br&gt;&lt;br&gt;이 시장은 “하남시는 교산신도시 발표 후 7년이 지나 조속히 추진 되기를 바라며 적극 협조하고 싶으나, 아직까지 주요현안 몇 가지가 해결되지 않아 숙제로 남아 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원, 위법 노조 활동에 임금 환수 검토… 노조는 ‘단식 농성’ 반발</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/18/QHCTGCW43FE6VE73OVUJVBRB6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/18/QHCTGCW43FE6VE73OVUJVBRB6A/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 12:13:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LUG3DYIOQRMVBPHQCZZELPA2QU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이성민 전국공무원노동조합 법원 본부장이 18일 서울 서초구 대법원 앞에서 '임금환수 노조탄압 대법원장 규탄 및 무기한 단식 농성 돌입' 기자회견 중 삭발을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 수년간 법원 노조 전임자로 활동하며 공무원 급여를 그대로 받아 간 노조원들에 대한 급여 환수 등 조치를 검토하자, 이에 반발한 법원 노조가 단식 농성에 돌입했다. 다만 대법원 법원행정처는 “환수 조치가 결정된 건 아니다”고 설명했다.&lt;br&gt;&lt;br&gt;전국공무원노조 법원본부는 18일 서초구 대법원 청사 앞에서 기자회견을 열고 무기한 삭발 단식 농성에 돌입한다고 밝혔다. 법원 노조는 “대법원이 노조 간부들에 대해 임금 환수라는 유례없는 극단적 조치를 검토하고 있다”면서 “노조 탄압을 저지하기 위해 무기한 단식 농성에 돌입한다”고 했다.&lt;br&gt;&lt;br&gt;작년 10월 대법원 국정감사에서 국민의힘은 ‘법원 노조 간부들이 휴직하지 않고 법원에서 급여를 받아 간다’고 지적했다. 노조 전임자는 반드시 휴직을 해야 하며 공무원 급여를 받으면 안 된다는 국가공무원법 등을 어겼다는 것이다.&lt;br&gt;&lt;br&gt;이에 대해 감사원은 올해 5월 감사에 착수했고, 그 결과 법원이 2020년 6월~2023년 10월까지 3년 5개월간 노조 소속 공무원 8명에게 급여 11억6000여만원을 잘못 지급한 사실이 적발됐다. 노조에서 받아야 하는 급여를 휴직하지 않고 법원에서 받아 갔다는 것이다. 이들은 인사 발령을 받은 소속 법원·부서로 출근하지 않거나, 노조 사무실에 상주하는 등 노조 일만 전담한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;감사원은 이를 위법하다고 판단했다. 이어 최근 대법원에 노조 간부들이 휴직 없이 급여를 받아 가지 않도록 주의를 촉구하고, 8명의 노조 전임자를 대상으로 적정한 조치를 취하라고 통보했다. 감사원 보고서에 따르면, 법원행정처는 “감사 결과에 따라 인건비 지출이 적정한지 면밀히 검토해 환수 등 필요한 조치를 진행하고, 관련 규정에 따라 예산 집행에 대한 점검을 철저히 하겠다는 의견을 제시했다”고 한다.&lt;br&gt;&lt;br&gt;그러자 법원 노조가 “노조에 대한 정치적 탄압”이라며 반발한 것이다. 법원 노조 측은 지난해 윤석열 대통령이 지명했던 이균용 대법원장 후보자에 대해 반대 입장을 냈는데, 이 후보자가 청문 과정에서 낙마하자 그에 대한 보복으로 임금 환수에 나서는 것이라고 주장했다. 이성민 법원 노조 본부장은 이날 삭발과 함께 대법원 경내 야외에서 농성을 시작했다.&lt;br&gt;&lt;br&gt;이에 대해 법원행정처는 임금 환수 등 구체적인 조치가 결정된 상황은 아니라는 입장이다. 법원행정처 관계자는 “노조 전임자 문제에 관해 감사원의 지적을 받고, 추가 조사 등을 진행하고 있는 것으로 안다”면서 “구체적인 내용은 밝힐 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>생리대까지 벗어 보여줬는데...알고 보니 마약 탐지 장비 오류</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/18/J4GVBTVVOFC35D4XRO6ZOC6IUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/18/J4GVBTVVOFC35D4XRO6ZOC6IUQ/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 10:01:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ESPUQDAP5NEVTBUCA64ZH37OKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천공항에 설치돼 있는 밀리미터파 신변 검색기(왼쪽 사진). 옷 속에 감춰진 마약류를 찾아낼 경우 해당 부분이 다른 색깔로 표시된다. 기사와 관련 없음./관세청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공항에 입국하던 한 여성이 세관의 마약탐지 장비 오류로 착용 중이던 생리대까지 벗어 세관 직원에게 보여주는 등 몸수색을 받은 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;18일 대구본부세관 등에 따르면 지난 8일 오전 대구공항에 설치된 마약 탐지 장비 이온스캐너에서 한 캐리어 안에 있던 전자담배 액상의 마약 반응 수치가 높게 나왔다. 이 캐리어는 30대 여성 A씨 일행의 것이었는데, 전자담배 액상은 A씨 소지품이었다. A씨는 “전자담배 액상은 내가 쓰던 것”이라고 세관 측에 말했다.&lt;br&gt;&lt;br&gt;세관은 몸에 부착하는 물건을 파악하는 기계인 밀리미터파 스캐너로 A씨 등 일행에 대해 검사했고, 그 결과 A씨 바지 부근에 물건이 부착됐다는 사실을 파악했다. 이는 A씨가 착용하던 생리대였다. 그러나 A씨는 직원실로 이동해 세관 여성 직원에게 생리대를 벗어서 보여줘야 했다. 세관은 20분간 검사한 뒤 마약으로 의심할 만한 소지품이 나오지 않아 문제가 없다고 결론 내렸다.&lt;br&gt;&lt;br&gt;이에 대해 A씨는 연합뉴스에 “공항에서 겪은 일로 5일간 하혈을 할 만큼 스트레스를 받았다”고 말했다.&lt;br&gt;&lt;br&gt;대구본부세관 관계자는 “최근에 실제로 신체 특정 부위에 마약을 숨겨서 들어왔다가 적발된 경우가 두 번이나 있었다”며 “사회적으로 마약이 문제가 많이 되고 있어 직원들이 열심히 하겠다는 취지로 하다가 그렇게 됐다”고 설명했다.&lt;br&gt;&lt;br&gt;마약 탐지 장비 오류에 대해서는 “해당 액상 전자담배의 분자 구성이 마약과 비슷해 일어난 일로 자주 있는 일은 아니다”라며 “선량한 시민분들이 피해를 보지 않도록 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>재판 지연 원인 ‘김명수표 법원장 후보 추천제’ 5년 만에 폐지</title>
       <link>https://www.chosun.com/national/court_law/2024/11/18/FALRGWKWFVE35AXKANBLZXKPH4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/18/FALRGWKWFVE35AXKANBLZXKPH4/</guid>
@@ -905,55 +954,6 @@
       <description/>
       <pubDate>Sun, 17 Nov 2024 20:40:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NHEQVWTMCW2CMXABO2PLBEGLME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 내년 초 정기 인사에서 직전 김명수 대법원 체제에서 시행된 ‘법원장 후보 추천제’를 사실상 폐지한다고 18일 밝혔다. 이 제도는 김명수 전 대법원장이 도입했는데, 그동안 ‘재판 지연’의 한 원인으로 꼽혀왔다. 대법원은 각 법원 소속 판사들이 해당 법원장 후보를 추천하는 절차를 없애고, 고등법원 부장판사(현재 66명)도 지방법원장에 보임할 수 있도록 인사 범위를 넓히겠다는 것이다.&lt;br&gt;&lt;br&gt;천대엽 법원행정처장은 이날 법원 내부망에 “2019년부터 5년 동안 소속 법관의 천거 및 투표를 통해 법원장 후보를 추천하는 제도가 시행됐는데, 좋은 취지에도 불구하고 대내외적으로 여러 문제와 부작용이 지적되는 등 논란이 계속됐다”면서 “2025년 법관 정기 인사를 앞두고 전국 법관 대상 설문조사 등을 통해 새롭게 마련된 법원장 보임 절차에 대해 안내한다”고 공지했다.&lt;br&gt;&lt;br&gt;핵심 변화는 크게 두 가지다. 기존 법원장 후보 추천제는 각 법원마다 소속 판사들이 투표를 통해 법원장 후보를 복수로 선출하면 대법원장이 한 명을 법원장으로 임명하는 방식으로 운영됐다. 법관들의 지지를 받아야 하다 보니 ‘인기투표’라는 지적이 끊이지 않았다. 법원장이 된 사람은 자신을 뽑아준 후배들 눈치를 보느라 지시도 제대로 못한다는 얘기도 나왔다.&lt;br&gt;&lt;br&gt;이에 대해 대법원은 법원별 투표를 없애고, 판사·법원 공무원 등 모든 사법부 구성원들로부터 전체 법원장 후보군을 추천받는 식으로 바꾸겠다고 한다. 누구든 추천만 받으면 법관인사위원회에서 능력과 자질 등을 검토해 법원장으로 임명하겠다는 것이다.&lt;br&gt;&lt;br&gt;이에 따라 고등법원 부장판사도 다시 지방법원장이 될 수 있는 길이 열렸다. 과거에는 고등법원 부장판사 중에서 지방법원장을 임명했는데, 김명수 전 대법원장은 재임 시절 지방법원과 고등법원의 인사 시스템을 이원화한 것이다. 그렇다 보니 고법 부장판사들의 의욕을 잃게 만들었다는 비판이 나왔다. 천 행정처장은 “원칙적으로 지방법원장은 지방법원 법관 중 보임하되, 제한된 범위에서 일부 지방법원장은 고법 부장판사가 보임될 수 있도록 길을 열어둬 새로운 법원장 보임 제도가 정착될 여건을 마련할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천 강화군 종계 농장서 닭 200마리 폐사… H5형 조류 인플루엔자 항원 확인</title>
-      <link>https://www.chosun.com/national/incident/2024/11/18/5BLF3OISPRA33NXIKDEY2ITI2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/18/5BLF3OISPRA33NXIKDEY2ITI2U/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 08:30:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SE36A65P4ZM6NAK7PBYBX6U5QM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 오후 H5형 조류인플루엔자 항원이 확인된 인천 강화군의 한 육용종계 농장 입구에서 가축위생방역지원본부 관계자들이 외부인의 출입을 통제하고 있다.  /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 강화군의 한 육용종계 농장의 폐사한 닭에서 H5형 조류 인플루엔자(AI) 항원이 확인됐다. 농림축산검역본부는 고병원성 여부를 확인하고 있다.&lt;br&gt;&lt;br&gt;18일 인천시 등에 따르면 전날 오전 9시쯤 인천 강화군 화도면의 한 육용 종계 농장에서 사육 중이던 닭 200마리가 폐사했다는 신고가 방역 당국에 들어왔다.&lt;br&gt;&lt;br&gt;폐사한 닭에선 H5형 조류 인플루엔자 항원이 검출됐다. 조류 인플루엔자에 걸려 죽었다는 게 확인된 것이다.&lt;br&gt;&lt;br&gt;방역 당국은 고병원성 AI 여부를 확인 중으로, 조만간 결과가 나올 것으로 예상된다. 고병원성 AI의 경우 저병원성 AI에 비해 전염성이 강하고 폐사율이 높은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 지난달 29일 강원 동해시 산란계 농장과 지난 8일 충북 음성군 육용 오리 농장에서 각각 고병원성 AI가 확인됐다.&lt;br&gt;&lt;br&gt;인천시는 예방적 차원에서 H5형 AI가 확인된 해당 농가의 닭 1만5000마리를 살처분하고, 반경 10㎞ 내 가금 농가 2곳의 닭 3만2000마리에 대해 이동 제한 명령을 내렸다.&lt;br&gt;&lt;br&gt;인천시는 고병원성 AI로 확인될 경우, 농가 주변 500m 내에 있는 농장 한 곳의 닭 1만7000마리를 살처분할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오세훈 “명태균 주장 전체가 다 엉터리…그분이 도울 일 없었다”</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/18/HCRWU3MGRVC7VP45K2AWUEXH4U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/18/HCRWU3MGRVC7VP45K2AWUEXH4U/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 05:42:25 +0000</pubDate>
-      <content:encoded>오세훈 서울시장이 18일 명태균씨의 ‘서울시장 보궐선거 개입’ 등 주장에 대해 “전체가 다 엉터리”라며 명씨의 주장을 일축했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FL2HMGMFOBMBFERVHOWZSANXEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 18일 서울 중구 서울시의회에서 열린 제327회 정례회 제2차 본회의에서 발언하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 이날 오전 서울시의회에서 열린 시정질문에서 명씨와의 관계를 묻는 박강산 서울시의원(더불어민주당)의 질문에 “명씨의 주장은 앞뒤가 맞지 않는다”고 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “2021년 재보궐선거를 앞두고 2020년 11월 처음 나온 여론조사부터 1위였다”며 “‘내가 오 시장을 도왔기에 오 시장이 선거에서 이겼다’는 명씨의 주장은 틀렸다”고 답했다.&lt;br&gt;&lt;br&gt;이어 오 시장은 “그분이 (선거 과정에서) 도울 일이 없었다”며 “당시 김종인 국민의힘 비대위원장은 안철수 후보와 단일화를 하지 않아도 선거에서 이길 것이라고 보고 있었다”고 했다.&lt;br&gt;&lt;br&gt;명씨를 왜 고소하지 않느냐는 질문에는 “당내에서 반대 세력이 음해라고 하는 것들을 다 고발해야 하느냐”며 “터무니없는데 다 고소·고발을 하면 사리에 맞지 않는다”고 말했다.&lt;br&gt;&lt;br&gt;한편 오 시장은 조윤선 전 문화체육관광부 장관을 서울시립교향악단 비상임이사로 위촉한 것에 대해서는 “이미 사면·복권됐다는 점을 전제로 판단할 수밖에 없다”고 답했다.&lt;br&gt;&lt;br&gt;‘블랙리스트와 관련해 문화예술인들의 상처와 시민 눈높이를 고려했어야 한다’는 박 시의원의 지적에는 “그분들(문화예술인) 입장에서는 문제가 될 수 있다고 생각하겠지만, 정상적인 형식과 절차를 다 밟았다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘음주운전’ 문다혜 이번주 검찰 송치…”법리검토 마무리”</title>
-      <link>https://www.chosun.com/national/2024/11/18/JA7GAQGBQZDOZLEBD6G6SX7PYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/11/18/JA7GAQGBQZDOZLEBD6G6SX7PYU/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 04:36:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4THLCOBLAVGQ3BGIYV5EZGFVVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 18일 오후 서울 용산구 용산경찰서에서 음주운전 사고를 일으킨 문재인 전 대통령의 자녀 문다혜씨가 사고 13일 만에 경찰에 출석하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 음주운전을 한 문재인 전 대통령의 딸 다혜(41)씨를 이번 주 검찰에 송치할 예정이라고 18일 밝혔다. 경찰은 문씨에게 위험운전치상 혐의 적용을 검토 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김봉식 서울경찰청장은 이날 정례 기자간담회에서 “법리 검토가 거의 마무리 단계”라며 “이번 주 빠른 시일 내에 송치할 예정”이라고 말했다. 문다혜씨는 지난달 5일 새벽 2시 51분쯤 서울 용산구 이태원역 일대에서 만취 상태로 택시 추돌 사고를 냈다. 사건 당시 문씨의 혈중 알코올농도는 면허 취소 수준(0.08% 이상)인 0.14%였다.&lt;br&gt;&lt;br&gt;문씨의 ‘불법 숙박업’ 의혹과 관련해서는 “문씨를 상대로 출석 일자를 조율하고 있다. 절차에 따라 진행하겠다”고 했다. 아울러 “현재까지 일부 투숙객 진술을 확보했다”며 에어비앤비에도 필요한 자료를 요청했다고 덧붙였다. 문다혜씨는 서울 영등포구의 본인 소유 오피스텔을 불법으로 숙박업에 이용한 혐의(공중위생관리법 위반)로 조만간 경찰 조사를 받을 예정인 것으로 알려졌다. 문씨는 서울 영등포구의 한 오피스텔을 2021년 6월 23일 매입했다. 등기부등본상 문씨가 단독 소유주로 돼 있다. 오피스텔을 공유숙박업소로 운영하려면 공중위생법에 따라 시설과 설비를 갖추고 관할 구청에 공중위생영업 신고를 해야 한다. 공중위생법상 숙박업 등록 없이 영업행위를 하다 적발되면 2년 이하 징역 또는 2000만 원 이하 벌금형에 처해진다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MUWIK5C6WN2IE6H25LE3TQAPII.jpg?width=1602&amp;height=2404&amp;auth=89c8f03570c38cfd995cf7363037cf872ad26c23e31bbbd0bb99d655c533ad8a&amp;smart=true" type="image/jpeg" height="2404" width="1602">
-        <media:description type="plain">'음주운전 혐의'를 받는 문재인 전 대통령의 딸 문다혜 씨가 18일 오후 서울 용산구 용산경찰서에 피의자 신분으로 출석하고 있다. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>어린이집 앞 상가서 성매매...3억 5000만 벌어들인 업주 등 송치</title>
-      <link>https://www.chosun.com/national/incident/2024/11/18/RV27SBVSQ5DEJDSOG3GPPITYEU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/18/RV27SBVSQ5DEJDSOG3GPPITYEU/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 02:27:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상가 건물에서 성매매를 알선하거나 성매매를 했던 70여명이 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;대구 서부경찰서는 성매매 알선 등 행위의 처벌에 관한 법률 위반 혐의로 업주인 30대 남성 A씨 등 2명과 여성종업원 6명, 성매수남 등 총 70여 명을 불구속 송치했다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 지난해 3월부터 올해 3월까지 1년간 대구 남구의 한 상가 건물에서 여성 종업원 등을 고용해 성매매를 알선한 혐의를 받고 있다. A씨 등이 성매매 알선으로 벌어들인 금액은 3억 5000만원에 달하며, 생활비와 종업원 월급 등에 쓰인 것으로 조사됐다. 어린이집 맞은 편에 위치한 이 업소를 거쳐간 남성만 60여 명에 달하며 연령대는 20대에서 60대까지 다양했다.&lt;br&gt;&lt;br&gt;A씨 등은 인터넷 광고 사이트를 통해 성매매 예약을 받았고, 예약자들에겐 신분증과 월급명세서 등 신원확인을 위한 서류를 받았다. 이후 예약자들이 업소를 방문하면 방범카메라에 비친 모습과 신분증의 사진을 대조한 뒤 출입을 허가하는 식으로 업소를 운영했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨 등이 벌어들인 범죄 수익금에 대해 기소 전 추징보전(피의자 기소 전에 범죄 수익을 처분하지 못하도록 하는 조치) 조치했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울시 ‘외국인 마을버스 기사 도입’ 추진...“외국인 1200명 필요...내년 시범사업 목표”</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/18/G64GEHJ5IVHPNM7BLEZABEHLFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/18/G64GEHJ5IVHPNM7BLEZABEHLFM/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 02:14:50 +0000</pubDate>
-      <content:encoded>서울시가 외국인을 마을버스 운전기사로 채용하기 위해 지난달 국무조정실에 ‘비전문취업(E-9) 비자 소지자도 운수업에 종사할 수 있게 해달라’고 공식 건의했다고 18일 밝혔다. 현재 고용노동부가 이 건의안을 전달받아 검토 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;서울시 건의안은 E-9 비자 발급 대상에 ‘운수업’을 포함하자는 게 골자다. 현재 E-9 비자 소지자는 제조업, 농업, 축산업 등에만 취업할 수 있는데, 이를 운수업으로 확대해 마을버스 운전도 가능하게 하자는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CPJVMGNFXFNTNGKVO33JHTKAOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 광화문광장을 지나는 버스./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지금도 방문취업(H-2)이나 재외동포(F-4) 비자를 가진 외국인이 운전기사로 취업할 수 있지만, 이들이 마을버스 기사로 취업하는 경우는 거의 없다고 한다.&lt;br&gt;&lt;br&gt;마을버스는 고령화와 인력난으로 위기를 겪고 있다. 서울연구원이 지난 9월 작성한 ‘운수업계 외국인 인력 도입 방안’ 보고서에서 따르면 서울 마을버스 운전기사는 2019년 3496명에서 2024년 2815명으로 5년 새 681명 줄었다.&lt;br&gt;&lt;br&gt;연구원은 “마을버스는 따릉이나 개인형 이동장치(PM)가 확산하면서 수요가 감소한데다가, 운전기사 확보도 어려워 2019년에 비해 노선 운행을 20% 이상 감축한 상태”라고 했다.&lt;br&gt;&lt;br&gt;이어 “서울 마을버스 1638대를 완전 가동하기 위해선 차량당 운전기사가 2.48명 필요한데, 이를 위해선 1247명의 외국인 운전기사가 필요한 상황”이라고 추산했다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “마을버스는 고정된 경로를 달리고 승객과의 직접적인 소통도 특별히 필요 없기 때문에 택시보다 훨씬 외국인이 일하기 쉬울 것으로 보고 있다”며 “비자 문제가 해결되면 필리핀 가사도우미처럼 내년에 시범사업을 진행할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“당신을 믿어 의심치 않아”…주가조작 무혐의 임창정 근황 공개한 아내</title>
