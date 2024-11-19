@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>월세 10만원이 1년 만에 200만원으로…백종원 “시장 옮기겠다” 경고</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/20/ZQJLFTBTPVBMHMCMFGN2IFLNKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/20/ZQJLFTBTPVBMHMCMFGN2IFLNKQ/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 22:35:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MDHHG6A73NBNHDUYPQXPSYSMUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백종원 더본코리아 대표가 19일 유튜브를 통해 충남 예산시장에서 벌어진 젠트리피케이션 현상을 지적하며 "부동산 투기를 멈춰 달라"고 말하고 있다. /유튜브 백종원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백종원 더본코리아 대표가 핫플레이스로 거듭난 충남 예산시장의 상권 임대료가 폭등하자 “진절머리가 난다”며 부동산 투기꾼들에게 경고했다.&lt;br&gt;&lt;br&gt;19일 유튜브 채널 ‘백종원’에 올라온 ‘재개장에 6개월이나 걸린 이유, 와 보시면 압니다’라는 제목의 영상에는 임대료 폭등에 하소연하는 상인들의 인터뷰가 담겼다. 예산시장 인근 상인들은 “월세 10만원짜리던 가게가 지금은 160만원, 200만원까지 올라간다더라” “사람이 많이 몰리니 시세가 상승하는 부분이 있다”고 했다.&lt;br&gt;&lt;br&gt;예산시장은 작년 1월 백 대표와 함께 추진한 ‘예산시장 살리기 프로젝트’로 단숨에 전국적인 명소로 떠올랐다. 올해도 인파가 몰리면서 6월까지 방문객이 200만명을 넘어섰다.&lt;br&gt;&lt;br&gt;동시에 오랫동안 시장을 지켜온 상인들이 이곳을 떠나야 하는 ‘젠트리피케이션’ 현상도 나타났다. 백 대표는 작년 4월 “이왕이면 소탐대실, 작은 것에 연연하지 말고 애초 시장에서 시작했던 분들처럼 멀리 봐주셨으면 한다”고 당부했고, 예산군도 한국공인중개사협회 예산군지회와 간담회를 열고 부동산 거래 확립에 신경 써 달라고 부탁했다. 그럼에도 예산시장 주변 상권의 임대료는 나날이 상승했다고 한다.&lt;br&gt;&lt;br&gt;백 대표는 이에 대해 “나는 젠트리피케이션이 진절머리가 나는 사람”이라며 “비싼 임대료 때문에 시장의 경쟁력을 무너뜨린다고 판단되면 저희와 마음이 맞는 분들을 모시고 시장을 옮길 것”이라고 했다. 이어 “빈말이 아니다. 통째로 시장 놔두고 다 나갈 수도 있다”고 했다.&lt;br&gt;&lt;br&gt;그는 “마지막으로 경고 아닌 경고를 하겠다”며 “말도 안 되는 부동산 투기꾼들이 붙어서 땅값이 들썩거리면 우리는 절대 들어가지 않겠다”고 강조했다. 이어 “저도 더본코리아도 지역의 미래, 성장력을 보고 시작한 것이지 처음부터 돈을 벌자고 시작한 사업이 아니다”라며 “다 같은 마음이면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;한편 예산시장은 약 765㎡ 규모의 오픈스페이스 공사를 마치고 지난달 본격적인 운영에 들어갔다. 방문객들이 상점에서 음식을 사와서 먹을 수 있는 공간이다. 지난 4월부터 약 6개월에 걸쳐 바닥‧지붕‧기둥 등을 현대화하는 공사를 진행했다. 또한 방문객 주차 편의를 위해 사업비 56억원을 투입해 187면 규모의 주차장 공사도 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>병원장이 ‘보험 사기단’ 두목이었다...실손보험 수십억 챙긴 기막힌 수법</title>
       <link>https://www.chosun.com/national/incident/2024/11/20/CX2E5ZPH3VGBVCF4GDRHQNSPJI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/20/CX2E5ZPH3VGBVCF4GDRHQNSPJI/</guid>
@@ -884,15 +893,6 @@
       <description/>
       <pubDate>Mon, 18 Nov 2024 20:08:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3TABSLF6IBMCPL3YW57D5ZOWQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의정갈등이 이어지고 있는 18일 오후 서울 시내 한 대형병원 앞에서 한 의료 관계자가 이동하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;병원의 필수 진료과 의사들이 15~30분간 심폐소생술을 하고 건보공단에서 받는 돈(수가)은 건당 17만890원이다. 반면 이 시술을 거의 하지 않는 한방·치과병원의 수가는 각각 20만7930원, 20만2040원이다. 같은 심폐소생술을 해도 필수과 의사보다 한의사와 치과의사가 20% 정도 수가를 더 받는다.&lt;br&gt;&lt;br&gt;중환자 처치·치료를 전담하는 외과·응급의학과·소아과 같은 필수과 의사보다 긴급 처치를 거의 하지 않는 한의사와 치과의사에게 더 큰 보상을 하는 ‘수가 역전’이 발생한 것이다. 필수과 사직 전공의들은 이런 ‘수가 역전’을 두고 “정부의 필수과 무시 대표 사례”라고 했다. 필수과 의사들을 차별하는 ‘수가 역전’이 확산하는 근본 원인은 주무 부처인 보건복지부 공무원들의 나태와 복지부동이라는 지적이 많다.&lt;br&gt;&lt;br&gt;한 전직 복지부 차관은 “필수과에 대한 보상(수가)을 늘리려면 필수과 수술·처치의 상대 가치점수를 올려야 하는데, 이 점수는 진료과별 이해관계가 첨예하다”며 “정부가 골치 아픈 상대 가치점수를 장기간 손대지 않은 것이 수가 역전의 주 원인”이라고 했다. 의료계 인사들은 “정부는 작년 하반기부터 필수과의 수가 현실화를 집중 발표했지만, 아직 수가 역전 개선 논의조차 시작 못했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/23GX7EOJ2NHLPH4BJYEI3LV37Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;필수과 의사들을 낙담시키는 ‘수가 역전’ 사례는 광범위하게 퍼져있다. 공기가 지나는 기도(氣道)에 관을 넣는 삽관술도 병원에서 하면 수가가 4만6880원인데, 한방병원에서 하면 5만7050원이다. 21% 더 주는 것이다. 인공호흡의 경우, 한방병원의 수가(5만9930원)는 병원보다 20% 이상 높다. 단순초음파 수가도 치과·한방병원은 3만원에 육박하지만 병원은 2만4280원이다.&lt;br&gt;&lt;br&gt;관가에선 “보건복지부가 힘들고 어려운 상대 가치점수 개편을 장기간 방치했기 때문”이라는 말이 나온다. 수술·처치의 가격인 수가는 투입 인력과 업무 강도를 고려한 ‘상대 가치점수’에 물가 등을 반영한 ‘환산 지수’를 곱해서 산출한다.&lt;br&gt;&lt;br&gt;서울의 한 응급실 전문의는 “심정지 환자가 들어오면 응급실 의료진이 전부 달라붙어 심폐소생술을 한다”고 했다. 그만큼 투입 인력이 많고 업무 강도가 높은 처치라 병원의 상대 가치점수가 높아야 하는 게 정상이다. 그런데 병원의 심폐소생술 상대 가치점수는 한방병원, 치과병원과 같다.&lt;br&gt;&lt;br&gt;다른 것은 ‘환산 지수’다. 이 지수는 정부가 매년 평균 1~2% 인상하는데 인상률은 병원보다 한방·치과병원이 더 높은 편이다. 정부 관계자는 “숫자가 많은 병원은 환산 지수를 조금만 올려도 건보 재정에 부담이 되지만, 소수인 한방·치과병원은 인상을 해도 큰 부담이 없기 때문에 더 많이 올리는 경향이 있다”고 했다.&lt;br&gt;&lt;br&gt;더구나 상대 가치점수는 특정 과의 진료 점수를 높이면 다른 과들이 크게 반발한다. 상대 가치점수의 총합이 고정돼 있어, ‘A를 올리면 B를 줄여야’ 하는 구조여서다. 반면 환산 지수는 ‘병원’ ‘의원’ ‘한의원’처럼 기관 유형별로만 구분해서 일괄 적용하기 때문에 세부 진료과별 갈등 소지가 없다.&lt;br&gt;&lt;br&gt;의료계 인사들은 “그동안 복지부 담당 공무원들은 골치 아픈 상대 가치점수는 놔두고 환산 지수만 매해 찔끔 인상해서 ‘필수과 수가를 지속적으로 인상해왔다’고 발표했다”고 했다.&lt;br&gt;&lt;br&gt;복지부는 작년부터 “업무 강도가 높은 필수과의 수가를 집중 인상하겠다”고 했다. 하지만 필수과 의사들은 “그간 정부가 한 건 발표밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“다시 태어나면 네 남친 되고 싶다” 여경에 문자 보낸 경정 대기발령 </title>
-      <link>https://www.chosun.com/national/national_general/2024/11/19/MLU6UHIJ3NEYPB5PUTEC3IEPWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/19/MLU6UHIJ3NEYPB5PUTEC3IEPWQ/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 15:41:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OIPGVGEQBNAI7SDRYROQIWNSRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산경찰청 경정급 간부가 여경에게 성적 수치심을 느끼게 하는 문자 메시지를 여러 차례 보낸 사실이 뒤늦게 드러났다.&lt;br&gt;&lt;br&gt;18일 경찰에 따르면 지난 8월 부산의 한 지구대장이 전입해 온 지 얼마 되지 않은 여경에게 “다시 태어나면 너의 남자친구가 되고 싶다” “첫사랑을 닮았다”는 등의 문자 메시지를 보낸 것으로 알려졌다.&lt;br&gt;&lt;br&gt;성적 수치심을 느낀 여경 신고로 경찰청의 성비위 감찰 조사가 시작됐고. 이 경정은 대기발령 된 상태다.&lt;br&gt;&lt;br&gt;경찰청은 감찰 결과가 나오는 대로 징계 여부를 결정할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>의사협회 비대위에 전공의 대표 박단 합류</title>
