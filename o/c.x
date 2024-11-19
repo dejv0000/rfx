@@ -13,6 +13,195 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>병원장이 ‘보험 사기단’ 두목이었다...실손보험 수십억 챙긴 기막힌 수법</title>
+      <link>https://www.chosun.com/national/incident/2024/11/20/CX2E5ZPH3VGBVCF4GDRHQNSPJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/20/CX2E5ZPH3VGBVCF4GDRHQNSPJI/</guid>
+      <dc:creator>부산=박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S74UA2CWCBGCRBV77KHNC6KAAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;보험사기범 일당이 설립한 병원 내부. 경찰 조사 결과 줄기세포 시술실이 실제로는 성형수술실로 사용된 것으로 드러났다. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘보험 사기’ 목적으로 병원을 차려 실손 보험금 수십억원을 빼돌린 일당이 경찰에 붙잡혔다. 경찰은 이들에게 범죄단체 조직 혐의를 적용했다. 경찰 관계자는 “병원에 범죄단체 조직죄를 적용한 것은 처음”이라며 “병원을 범죄단체, 병원장을 두목으로 본 것”이라고 했다.&lt;br&gt;&lt;br&gt;부산경찰청 형사기동대는 범죄단체 조직, 보험 사기, 의료법 위반 등 혐의로 병원장 A(60)씨와 브로커 3명을 검찰에 구속 송치했다고 19일 밝혔다. 손해사정사와 약사, 환자 등 761명은 불구속 송치했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SNM5KIMNHVAIRGBRDMWJWFUQMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰에 따르면, 마취·통증의학 전문의인 A씨는 2020년 12월쯤 부산 해운대에 K의원을 차렸다. 환자를 모집하는 브로커, 손해사정사, 약사 등도 채용했다.&lt;br&gt;&lt;br&gt;A씨 등은 환자에게 성형 수술, 피부 미용 시술 등 비급여 진료를 한 뒤 도수 치료나 무좀 레이저 치료, 줄기세포 시술을 한 것처럼 진료 기록을 꾸며 실손 보험금을 청구했다. 올 4월까지 환자 2300여 명이 보험사에서 타낸 보험금은 64억원에 달했다.&lt;br&gt;&lt;br&gt;브로커들은 환자를 연결해주고 병원비의 10~20%를 소개료로 챙겼다. 보험금을 청구하는 과정에서 발생한 문제는 손해사정사가 나서서 해결했다. 경찰 수사에 대비해 환자들의 진짜 진료 기록은 부산 강서구의 한 창고에 숨겨두기도 했다. 경찰 관계자는 “병원을 아예 보험 사기 전문 조직으로 운영한 것”이라고 했다.&lt;br&gt;&lt;br&gt;환자 중 150여 명은 보험 설계사였다. 경찰 관계자는 “실손 보험의 허점을 잘 아는 보험 설계사들이 이 병원의 주 고객이었다”며 “자기 실손 보험 고객을 브로커에게 연결시켜주는 경우도 있었다”고 했다.&lt;br&gt;&lt;br&gt;이들의 범행은 내부 제보로 드러난 것으로 알려졌다. 보험 사기를 제보하면 최대 5000만원의 포상금을 받을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“밤길 안전하고 아파도 걱정 없어”... 한국 이민 50% 늘었다</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/20/O4KSGJJIE5BH3JLCSGNKSJ3ORU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/20/O4KSGJJIE5BH3JLCSGNKSJ3ORU/</guid>
+      <dc:creator>안준현 기자, 김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 15:55:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GXAK7JZVJ5FPHMANSO25775BEI.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 한국에 온 ‘이민자’ 증가율이 50.9%로 경제협력개발기구(OECD) 회원 38국 중 2위를 기록한 것으로 나타났다. OECD가 지난 14일 발표한 ‘국제이주전망 2024′에 따르면, 지난해 OECD 회원국에 이주한 사람은 650만명으로 2006년 집계 이후 사상 최다였다. 미국이 118만명으로 가장 많았고, 영국(74만명), 독일(69만명), 캐나다(47만명) 순이었다.&lt;br&gt;&lt;br&gt;OECD의 ‘이민자’ 집계는 시민권·영주권 등을 얻어 해당 국가에 완전히 정착하는 영구 이민뿐 아니라 난민, 유학생, 단기 취업자까지 포괄한다. 한국은 90일을 초과해 체류하는 등록 외국인 숫자를 매년 OECD에 보낸다. OECD 기준으로 지난해 한국에 온 ‘이민자’는 8만7100명. 2022년(5만7800명)보다 50.9% 늘어나 영국(52.9%)에 이어 둘째로 증가율이 높았다. 한국에 이어 호주(40%), 그리스(16%), 미국(13%) 순이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6ESTZSKVUNEGLNGVQT3DRYRBDA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국의 증가율이 높았던 이유는 2022년부터 일손이 부족한 농어촌에서 짧게 일하고 귀국할 수 있는 계절 근로자 유입을 확대하기 위해 C-4 단기 비자 등의 각종 요건을 완화했기 때문이다. 사업장마다 고용할 수 있는 외국인을 종전 9명에서 12명으로 늘리고, 1개월 이상 일해야만 고용이 가능했던 요건도 1주일로 완화했다. 정부 관계자는 “최장 3개월 체류 가능한 C-4 단기 비자, 8개월 머물 수 있는 E-8 장기 비자 발급자가 모두 늘었다”고 했다.&lt;br&gt;&lt;br&gt;그 결과 한국의 근로 관련 ‘이민’은 2022년 5700명에서 2023년 1만2900명으로 전년 대비 129% 늘었다. 정부는 올해부터 비전문 인력 취업 비자(E-9)를 기존 11만명에서 1만명 더 늘렸다. 정부 관계자는 “앞으로도 취업 이민자가 증가 추세를 보일 것”이라고 했다. 한국에 공부하러 온 외국인 유학생도 2013년 8만5923명에서 2023년 18만1842명으로 10년 새 111% 증가했다.&lt;br&gt;&lt;br&gt;한류로 한국의 문화 영향력이 강해지면서 “한국에서 살아보고 싶다”는 외국인도 늘어나고 있고, 실제 한국에서 거주하는 외국인들이 “총기 규제로 치안이 우수하고 음식도 맛있다” “대중교통이 첨단 과학 수준” 같은 ‘온라인 입소문’을 퍼뜨리면서 한국 이민의 인기도 올라갈 것이라는 분석이 나온다. 본지가 직접 만난 한국 거주 외국인들은 한국의 장점으로 치안·교통·금융·의료·물가 등을 꼽았다.&lt;br&gt;&lt;br&gt;한국에서 3년 차 영어 강사로 일하는 미국인 케이 시브라스(25)씨는 “의료 보험이 비싸 병원 갈 엄두도 못 내는 미국과 달리 한국에선 싼 가격에 우수한 의료 서비스를 받을 수 있어 항상 감사한 마음”이라며 “식료품도 뉴욕의 3분의 1 수준이고 외식도 부담이 없다. 한국은 의식주가 모두 우수한 진정한 선진국”이라고 했다. 2011년부터 한국에서 사는 케냐인 필립 마카닝고(33)씨는 “내 고향과 달리 총기 사고도 없고, 소매치기 등 경범죄도 없어 살기 좋다”며 “항상 외국인에게 친절하게 대해주는 한국인들에게도 애정이 간다”고 했다. 케냐는 각각 2015년과 2019년 대규모 총기 난사 사고가 발생했었다.&lt;br&gt;&lt;br&gt;인터넷에도 한국을 극찬하는 게시물이 많다. 한국에 거주하다 미국에 돌아왔다는 한 미국인은 “한국에선 버스와 지하철을 타고 어디든지 갈 수 있다”며 “한국 생활이 너무 그립다”고 했다. 한 프랑스인은 “서울은 파리와 달리 밤거리를 걷다가 칼에 찔리거나 성폭행을 당할 걱정이 없는 곳”이라며 “서울에서 난생처음으로 밤거리를 마음대로 걸을 때 감격스러웠다”고 했다.&lt;br&gt;&lt;br&gt;조영희 이민정책연구원 연구위원은 “정부 정책과 한류 열풍이 이민 증가세를 ‘쌍끌이’하고 있다”며 “저출산·고령화를 타개할 주요 대안으로서 이민 정책을 확대해야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞OECD의 ‘이민’ 집계&lt;/b&gt;&lt;br&gt;&lt;br&gt;경제협력개발기구(OECD)는 2006년부터 회원국 ‘이민’ 통계를 내고 있다. 시민권·영주권을 받아 해당 국가에 완전히 정착하는 영구 이민뿐 아니라 난민이나 유학생, 단기 취업 외국인을 모두 포괄한다. 한국 정부는 90일을 초과해 체류하는 ‘등록 외국인’ 숫자를 매년 OECD에 제출하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 주 52시간 예외 제도… 기업들엔 ‘그림의 떡’</title>
+      <link>https://www.chosun.com/national/labor/2024/11/20/6RRP6VBWH5CPJIDGGGJKRNYGRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/11/20/6RRP6VBWH5CPJIDGGGJKRNYGRY/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>업무량 폭증 등을 이유로 주52시간제의 예외로 인정 받아 주 12시간을 추가 근무할 수 있는 ‘특별연장근로’ 제도를 이용한 기업이 전체의 1%를 밑도는 것으로 나타났다.</description>
+      <pubDate>Tue, 19 Nov 2024 20:04:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/57IMS7PGVJDHHKGDA53TNRWEAM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;정부가 일부 업종·직종에 한해 현행 주 52시간 근무제를 탄력적으로 운영할 수 있게 새로운 '근로시간 개편안'을 마련하겠다는 계획을 밝혔다. 사진은 지난 13일 저녁 퇴근길 무렵 기업들이 입주한 서울 시내 사무실이 환한 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반도체 설계사인 A사는 최근 고객사와의 수주 협상에 어려움을 겪고 있다. 수주를 위해선 100명 이상 인력이 1년가량 개발에 매진해야 하는데, 주 52시간제에 가로막힌 탓에 고객사에 개발 완료 시점을 제시하지 못했기 때문이다. 주 52시간 예외를 적용받는 ‘특별 연장 근로’ 제도를 이용하자는 내부 의견도 있었지만, 승인 절차 등이 까다롭다는 문제 등이 제기돼 결국 신청하지 못했다.&lt;br&gt;&lt;br&gt;19일 고용노동부에 따르면, 올해 1월부터 10월까지 업무량 폭증 등을 이유로 주 12시간을 추가 근무할 수 있는 ‘특별 연장 근로’ 제도를 이용한 경우는 5230건으로 나타났다. 특별 근로 제도 이용이 가능한 5인 이상 사업체가 약 77만5000개에 달하는 걸 감안하면, 0.7%만 제도를 이용하고 있다는 뜻이다. 특히 연구·개발(R&amp;amp;D)을 사유로 특별 연장 근로를 승인받은 경우는 같은 기간 단 28건에 그쳤다. 지난 11일 여당에서 반도체 분야 연구·개발 근로자를 ‘주 52시간 근로’ 예외로 인정하는 내용의 반도체 특별법을 발의하자, 야당과 노동계 일각에서 특별 연장 근로 제도를 이용하면 되는 것 아니냐며 반대해 왔는데 현실과 동떨어진 비판을 한 셈이다.&lt;br&gt;&lt;br&gt;특별 연장 근로 이용이 저조한 건 승인 절차가 까다롭기 때문이다. 대부분 기업에 돌발 상황이 상시 발생하는데, 인원과 사업 내용을 미리 특정한 뒤 고용노동부 장관 승인까지 사전에 받아야 해 쉽지 않다는 것이다. 업무량이 폭증한다 해도 매년 반복되는 게 아니라 ‘특별한 상황’에 처했다는 걸 기업이 입증해야 하는 점도 제도 이용을 가로막고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIZTNXSUCBEBXCIKVT54KXBCGM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김하경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특별 연장 근로는 고용노동부 장관에게 ‘특별한 사정’을 승인받으면 1주 12시간의 연장 근로가 가능한 제도다. 당초 ‘주52시간 체제’의 보완제로 여겨졌다.&lt;br&gt;&lt;br&gt;제도가 유명무실화된 건 까다로운 승인 절차 때문이라는 게 전문가들의 견해다. 기업이 고용노동부로부터 승인을 받으려면 ①재해, 재난 ②인명, 안전 ③돌발 상황 ④업무량 폭증 ⑤연구·개발 등 다섯 가지 분야 내에서 ‘특별한 상황’에 처했다는 걸 입증해야 한다. 기업들이 주로 신청하는 사유는 업무량 폭증과 연구·개발인데, 이 분야에서 특별한 사정을 입증하는 건 만만찮다.&lt;br&gt;&lt;br&gt;실제 기업들은 일이 폭증하는 업무와 인원을 특정하는 데부터 애를 먹는다. 한 제조 업체 관계자는 “보통 업무가 수개월 진행되다가 바뀌기도 하고, 부서 간 협업도 계속되는데 특정인을 초과 근무자로 미리 분류하는 건 현실적으로 어렵다”고 했다.&lt;br&gt;&lt;br&gt;업무와 인원을 특정한다 해도 예외적 사항임을 입증해야 한다. 제조업 B사의 경우 올 초 신제품 발매 행사에 맞춰 업무량 폭증을 이유로 근로시간 연장을 신청했지만 반려됐다. 반려 사유는 ‘신제품 행사는 매년 진행되는 통상적 업무에 해당해 인정되지 않는다’는 것이었다. B사 관계자는 “통상적이지 않은 업무는 예측이 어려운데, 미리 서류를 내고 승인을 받으라는 건 말이 안 맞는다”고 했다.&lt;br&gt;&lt;br&gt;사업장별로 신청서를 받지만, 1년간 총사용량이 90일로 정해져 있는 것도 문제로 꼽힌다. 자동차 업체인 C사 관계자는 “하나의 사업장 내 복수의 공장이 있는데, 올 초 1공장에서 연장 시간을 모두 써버린 탓에 2공장에선 사용하지 못했다”고 했다. 일부 기업은 “심사 업무를 맡은 각 지방고용노동청, 담당자별로 적용 기준이 다소 다르다”는 어려움도 토로한다. 이에 대해 고용노동부는 “균일한 기준을 적용하기 위해 노력하고 있고 사정이 급할 경우 ‘사후 승인’ 제도도 운영하고 있으며, 연구·개발 분야는 추가 심사를 거쳐 연장 적용도 가능하다”고 했다.&lt;br&gt;&lt;br&gt;하지만 승인 없이 연장 근로를 시키면 ‘2년 이하 징역 또는 벌금 2000만원 이하’의 벌칙을 받을 수 있다. 이렇게 벌칙이 세기 때문에 급하다고 ‘사후 승인’ 제도를 믿고 연장 근로를 시키는 것은 너무 부담스럽다는 게 기업 측 주장이다.&lt;br&gt;&lt;br&gt;‘추가 심사’의 경우 본심사보다 더 까다로워 서류 내기조차 어렵다고 한다. 한 반도체 업계 관계자는 “대만 반도체 기업 TSMC 연구소는 24시간 불이 꺼지지 않고, 미국 엔비디아도 특정 기간엔 주 7일 일하고 있다”며 “핵심 인력은 대체 불가한 경우가 많아 추가 인력을 투입하는 방식만으로는 개발 진도를 나갈 수 없다”고 했다.&lt;br&gt;&lt;br&gt;여당이 이런 상황을 타개하고자 지난 11일 내놓은 반도체 특별법의 경우 연구·개발 종사자에 대한 주 52시간제 적용 제외를 담고 있다. 노동계 등에선 이를 두고 “편법으로 규정보다 많은 양의 근무를 시키면서 52시간 제도 자체를 무너뜨리려는 것”이란 비판도 나온다. 그러나 특별법은 노사 합의를 거칠 때에만 52시간 적용 제외가 가능하므로 지나친 우려라는 게 전문가들 견해다. 박지순 고려대 법학전문대학원 교수는 “특별 연장 근로 제도가 제대로 작동하지 못하는 측면이 있기 때문에 특별법 등을 통해 구제에 나서는 건 합리적인 대안”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>버스 기사·급식 근로자… 외국인 근무 업종 늘려 정착 지원</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/20/IGIGVLPCYFDFZCR3Y4HXVDGLYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/20/IGIGVLPCYFDFZCR3Y4HXVDGLYE/</guid>
+      <dc:creator>강우석 기자, 김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 15:55:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J7LLKD5S2BC3FBTWXJRVCBTBCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고용허가제(E-9)를 통해 한국에서 일하게 된 외국인 노동자들이 지난 2일 충북 청주시 가화한정식 주방에서 직원들과 이야기를 나누며 환희 웃고 있다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 정부의 현재 이민 정책은 고용 위주다. 정부는 일단 버스 운전, 가사 관리, 급식·외식 업계 등 외국인이 근무할 수 있는 업종을 늘린다는 방침이다. 정부 관계자는 19일 “외국인들이 국내 각 산업 분야에서 합법적으로 경제활동을 할 수 있도록 뒷받침해 정착을 돕고, 인력난을 겪는 지역·산업을 부흥시키겠다는 기조로 이민 정책을 수립하고 있다”고 했다.&lt;br&gt;&lt;br&gt;서울시는 외국인을 마을버스 운전기사로 채용하는 방안을 추진 중이다. 시는 지난달 28일 국무조정실에 비전문취업 비자(E-9) 발급 대상에 ‘운수업’을 포함해달라고 공식 건의했다. 지난 9월에는 해당 비자를 통해 100명의 필리핀 ‘가사관리사’들이 국내 가정에 최초로 투입된 바 있다. 고용노동부와 서울시는 내년까지 외국인 가사관리사 규모를 1200명으로 늘리는 방안을 검토하고 있다.&lt;br&gt;&lt;br&gt;인력난을 겪고 있는 급식·외식 업계도 외국인 근로자 영입을 고심하고 있다. 농림축산식품부는 올해 말 고용노동부와 외국인 고용허가제 확대 여부를 최종 논의한다는 방침이다. 법무부는 ‘지역 소멸’ 위기를 겪고 있는 지방 경제 활성화를 위해 ‘지역 맞춤형 광역 비자’도 확대한다. 각 지자체에서 필요한 외국 인력의 대상, 체류 자격, 활동 범위 등을 지자체가 책임지고 설계·운영할 수 있다. 외국인 유학생이 졸업 후 인력이 부족한 한국 내 산업 분야에 취업할 수 있도록 비자와 연계한 트랙을 구축하고 이공계 석·박사 학위 취득자가 영주 자격과 국적을 빠르게 취득할 수 있도록 하는 ‘우수 인재 패스트트랙’도 활성화한다.&lt;br&gt;&lt;br&gt;다만 이러한 이민 정책을 총괄할 ‘컨트롤 타워’인 이민청 설치 논의는 지지부진한 상황이다. 법무부는 지난해 12월 ‘4차 외국인정책 기본계획’을 발표하며 이민관리청 신설을 포함했지만, 21대 국회에서 발의된 이민청 신설 관련 정부조직법 개정안은 임기 종료로 자동 폐기된 상황이다. 22대 국회에서는 아직 관련 법안이 발의되지 않았다. 임동진 한국이민정책학회장은 “이민 정책을 총괄하는 컨트롤 타워가 없으니 부처별로 소통도 원활하지 않고 정책도 큰 방향성 없이 필요에 따라 즉흥적으로 정해지는 경우가 많다”며 “정교한 정책을 마련하기 위해선 이민청 신설이 시급하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[바로잡습니다] 19일자 A8면 ‘의료 개혁한다더니… 수가 왜곡 1년째 방치’ 기사 중</title>
+      <link>https://www.chosun.com/special/announcement/2024/11/20/3SKSOEHCYBH5VCIUNCZJ2WKVVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2024/11/20/3SKSOEHCYBH5VCIUNCZJ2WKVVY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 15:55:00 +0000</pubDate>
+      <content:encoded>▲19일자 A8면 ‘의료 개혁한다더니···‘수가 왜곡’ 1년째 방치’ 기사 중 ‘필수과 의사보다 한의사와 치과의사가 20% 정도 수가를 더 받는다’에서 ‘한의사’는 ‘한방병원 의사’의 잘못이므로 바로잡습니다. ‘한의사는 20만원 받아’에서도 ‘한의사’는 ‘한방병원 의사’의 잘못이므로 바로잡습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>비 그친 뒤… 제주 하늘엔 무지개</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/20/NM33ACK24JAGTA5TVOMACCS7ZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/20/NM33ACK24JAGTA5TVOMACCS7ZM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FVJALA4V4NAZTBP2KWSHFPWER4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 오후 제주시 앞바다에 선명한 무지개가 떴다. 그 아래로 배 한 척이 지나가고 있다. 이날 제주도에는 오전부터 낮까지 5㎜ 안팎의 비가 내려 곳곳에서 무지개가 관측됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“美 메이오 클리닉처럼… 의료 기술 사업화”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/11/20/FCZR3GFRCVEUPDGZUAXQO2TBOA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/11/20/FCZR3GFRCVEUPDGZUAXQO2TBOA/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3AYWVJTANJBADGFHWX4VCLHEKI.png"&gt;&lt;figcaption&gt;&lt;small&gt;사진=세브란스병원·메이오 클리닉&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연세의료원이 19일 축적된 의료 기술과 노하우를 사업화해 ‘최(最)상급 종합병원’의 새로운 기준을 제시하겠다고 밝혔다. 의·정 사태로 대형 병원들의 수익이 줄줄이 추락한 가운데 미국의 대표적 연구·기술 중심 병원 ‘메이오 클리닉’처럼 의료 기술 사업화를 통한 수익 다변화에 나선 것이다.&lt;br&gt;&lt;br&gt;지난 3월 취임한 금기창 연세의료원장은 이날 첫 기자 간담회에서 “앞으로 혁신의료를 적극적으로 도입하고 필수 의료 체계를 구축해 상급종합병원의 역할을 넘어 초고난도 질환 환자를 치료하는 병원의 새로운 기준을 제시할 것”이라며 이 같은 계획을 공개했다. 의료원 측은 “병원의 모든 기능을 초(超)고난도 질환 치료 기반으로 전환한다”며 “기술 상용화 등을 통해 수익 구조를 다변화해 경영 안정화를 이루고, 수익은 다시 의학 연구와 미래 의료에 재투자할 것”이라고 했다. 다각도의 의료 기술 상용화 지원, 신촌 부지 내 의대 신축과 융합연구센터 건립 등을 위해 앞으로 7년간 총 5000억원의 ‘거액 기부금 모금 캠페인’도 전개키로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V4CFN2HBLND55OL26D47G25JWU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈, 사진=세브란스병원·메이오 클리닉&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세브란스(신촌)·강남세브란스·원주세브란스의 상급종합병원 세 곳과 용인·송도의 종합병원을 운영하며 ‘로봇 수술’ 등 첨단 기술을 선제적으로 도입해온 연세의료원이 ‘최상급종합병원’을 추구하겠다는 것이다. 의료원에 따르면, 이는 더이상 박리다매식 진료만으론 생존이 불가능해진 의료 생태계 변화에 대응하는 조치다. 연세의료원은 의·정 사태 전인 지난해에도 진료 이익률이 마이너스 0.5%를 나타냈다고 한다. 우리나라의 공공 의료 체계하에서는 진료할수록 손해 보는 구조가 고착하고 있는 것이다. 지난 2월 터진 전공의 이탈로 대형 병원들이 막대한 손실을 기록 중인 가운데 이날 연세의료원은 “지난 상반기 예상 손실 규모는 1200억원 이상”이라며 “앞으로 혁신 기술을 통해 필수 의료의 공적 기능을 향상하고, 소외 계층에 대한 ‘세브란스 정신’을 실천할 것”이라고 했다.&lt;br&gt;&lt;br&gt;연세의료원이 모델로 삼은 의료 시스템 중 하나가 대표적 연구 중심 병원인 미국 메이오 클리닉이다. 미국 미네소타·애리조나·플로리다주(州) 3개 캠퍼스에 4500여 의사·과학자와 5만8000여 직원을 두고 진료·연구 양대 축을 운영 중이다.&lt;br&gt;&lt;br&gt;메이오 클리닉의 의료 히트작 가운데 비만 치료용 위 풍선 ‘오르베라(orbera)’가 대표적이다. 위에 안전한 풍선 기구를 넣어 음식이 들어갈 공간을 줄여 10㎏ 이상 살을 빼준다. 최근까지 전 세계 80여 국가에서 40만명 넘는 환자에게 시술된 이 제품을 통해 거두는 연매출은 약 311억원에 달한다. 이 밖에 뇌 깊은 곳에 전기 자극을 줘 파킨슨병 등을 치료하는 ‘뇌심부 자극기’, 간 이식 전까지 간의 역할을 대신해주는 ‘바이오 인공 간’ 등도 메이오 클리닉 기술로 개발한 대표적 의료 기기다. 메이오 클리닉 의료진은 ‘메이오 클리닉 벤처스’라는 지주회사를 통해 체계적으로 창업에 뛰어들고 투자받는다. 매해 600개 이상의 사업 아이디어가 쏟아지고, 이를 통해 탄생한 기업이 351곳에 달한다.&lt;br&gt;&lt;br&gt;다만, 우리나라는 의료 규제 완화 없이 의료 사업화가 쉽지 않은 여건이다. 국내 의료법상 병원 측이 기술 사업화를 촉진하는 지주회사(투자회사)를 설립할 수 없게 돼 있기 때문이다. 이로 인해 정부가 2013년 서울대·서울아산·삼성서울병원 등 대형 병원 10곳을 의료 산업화를 주도하는 ‘연구 중심 병원’으로 지정해놓고도, 지난 10년간 10개 병원의 기술 이전 수입은 총 973억원에 그쳤다. 미국 메이오 클리닉의 한 해 기술 이전 수입(1조1000억원·2022년)의 10분의 1에도 못 미쳤다.&lt;br&gt;&lt;br&gt;전문가들은 “의료 시장에서 해외 기관은 ‘헤비급’으로 덤비는데, 우리는 ‘플라이급’으로 맞서고 있다”고 지적했다. 최근 정부가 대학병원 내 기술 사업화를 돕는 전담 조직인 ‘의료 기술 협력단’을 설치할 수 있게끔 법을 개정했지만, 의료 사업으로 글로벌 매출을 올리기엔 역부족이란 평가다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이재명 ‘법카 유용’ 혐의도 기소</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/20/ZB47TQ6VCBFW7PVKIU3MZASB4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/20/ZB47TQ6VCBFW7PVKIU3MZASB4E/</guid>
+      <dc:creator>수원=김수언 기자, 유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OWDYXJUHUFN27NV7FVNMSZEN5Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 19일 서울 여의도 국회에서 열린 '을(乙) 살리기 신문고 상생 꽃달기' 행사에서 참석자 발언을 듣고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표가 경기도 법인 카드 등 경기도 예산 1억여 원을 사적으로 쓴 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;수원지검 공공수사부(부장 허훈)는 19일 업무상 배임 혐의로 이 대표와 정모 전 경기도지사 비서실장, 배모 전 경기도 별정직 공무원을 불구속 기소했다. 이 대표의 아내 김혜경씨에 대해서는 “경기도 법인카드를 사적으로 쓴 사실은 인정된다”면서도 “배우자인 이 대표가 같은 혐의로 기소된 점을 고려했다”며 기소를 유예했다.&lt;br&gt;&lt;br&gt;이 사건은 이 대표와 김씨가 경기도 법인 카드와 관용차를 사적으로 유용했다는 의혹이다. 대선을 앞둔 2022년 2월 경기도 공무원의 내부 폭로로 알려졌다.&lt;br&gt;&lt;br&gt;검찰 수사에 따르면, 이 대표는 경기도지사 시절인 2018년 7월부터 2021년 10월까지 경기도 관용차를 개인적으로 사용하고 경기도 예산으로 자기 식사비와 과일 값, 세탁비 등을 결제하는 등 총 1억653만원을 쓴 혐의를 받는다.&lt;br&gt;&lt;br&gt;구체적으로 이 대표는 2019년 11월부터 2021년 10월까지 약 2년간 경기도 예산으로 과일 값 2791만원을 결제한 것으로 조사됐다. 매달 121만원꼴이다.&lt;br&gt;&lt;br&gt;이 외에 소고기, 초밥, 복 요리 등 음식 75건, 약 889만원 상당을 경기도 법인 카드로 결제했다.&lt;br&gt;&lt;br&gt;이 대표가 매일 아침 먹었다는 샌드위치 구입비는 685만원, 세탁비는 270만원을 쓴 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰은 “이 대표 부부는 제네시스 G80 관용차에 자기 아파트 주차 스티커를 붙이고 사실상 자가용처럼 탔다”며 “공적으로 쓴 것처럼 허위의 운행 일지를 작성해 차량 임차료와 주유비, 세차비 등 6016만원의 이득을 취했다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 텔레그램 메시지 등 증거로 확인된 법인 카드 결제액만 기소했다고 한다. 실제 부정 사용 액수는 더 많을 수 있다는 것이다.&lt;br&gt;&lt;br&gt;당시 경기도지사 비서실장이었던 정씨는 이 대표가 개인적으로 쓴 법인 카드 내역을 ‘간담회’ ‘직원 격려’ 등으로 작성하게 한 것으로 조사됐다. 이 대표의 예산 유용을 적법한 지출로 위장하기 위해 허위의 지출결의서를 썼다는 것이다.&lt;br&gt;&lt;br&gt;배씨는 ‘사모님팀’으로 불리며 이 대표 부부의 사생활을 전담했다고 검찰은 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 지난 14일 김씨의 1심 판결 내용을 이날 기소의 근거로 제시했다.&lt;br&gt;&lt;br&gt;수원지법은 공직선거법 위반 혐의로 기소된 김씨에게 벌금 150만원을 선고하면서 “이 대표의 성남 자택에 배달된 샌드위치와 과일 등은 경기도가 일괄 결제했다”며 경기도 예산이 유용된 사실을 인정했다.&lt;br&gt;&lt;br&gt;이 대표는 앞으로 총 5건의 재판을 받게 됐다. 이 대표는 지난 15일 1심에서 징역 1년에 집행유예 2년을 선고받은 공직선거법 위반(허위 사실 공표) 사건과 오는 25일 1심 선고를 앞두고 있는 위증 교사 사건, 대장동·백현동·위례신도시·성남FC 사건, 쌍방울 대북 송금 사건으로 법정에 서고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강의도 못 듣게 하는 ‘동덕여대 시위’</title>
+      <link>https://www.chosun.com/national/education/2024/11/20/LT4PU77TQJHUBNO75O7B66BBYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/11/20/LT4PU77TQJHUBNO75O7B66BBYY/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VOVLFRZ3RBARNCAKRET2RJMX2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 오후 서울 성북구 동덕여대 정문과 진입로가 ‘남녀 공학 전환’을 반대하는 내용이 담긴 대자보와 피켓, 낙서 등으로 어지럽혀져 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동덕여대 총학생회 등이 대학 측의 ‘남녀공학 전환’ 논의에 반발해 과격 시위를 벌여 학교 행정이 마비된 가운데 시위에 참여하지 않는 다른 학생들이 학습권 침해를 호소하며 반발하고 있다.&lt;br&gt;&lt;br&gt;19일 교육계에 따르면, 동덕여대 일부 재학생은 최근 불법·폭력 시위에 반대하는 모임 ‘동덕STEP’을 만들고 시위대에 의한 피해 사례를 수집해 공론화하겠다고 나섰다. 이 모임 대표를 맡은 생 A씨는 “교내 폭력 시위에 피해를 본 학생이 많지만 이에 반대하면 ‘신상털기’ 등을 당해 극심한 심적 고통을 겪고 있다”며 “학교도 저희 같은 일반 학생을 지켜주지 못하는 상황이기 때문에 자체적으로 모임을 만들어 목소리를 내기로 했다”고 말했다.&lt;br&gt;&lt;br&gt;공학 전환 반대 시위를 하는 동덕여대 총학생회 등은 지난 12일부터 대부분 학교 건물 출입구를 테이프와 자물쇠로 봉쇄하고 학생과 교직원의 출입을 통제하고 있다. 교내 기물을 파손하고 강의실을 어지럽혀 수업 진행이 불가능한 상황이다. 학교 측이 대부분 강의를 온라인 강의로 전환했지만 이 역시 시위대가 접속해 소리를 지르고 채팅창을 도배해 진행이 어렵다고 한다.&lt;br&gt;&lt;br&gt;동덕STEP에 참여한 학생 B씨는 “실기 수업은 온라인으로는 불가능하다 보니 일주일째 강제로 아무런 수업도 못 듣고 있다”며 “학내 연습실조차 사용하지 못하게 하며 ‘알아서 돈을 주고 외부 공간을 빌리라’고 하는데, 자기들이 뭔데 이를 강요하는 것이냐”고 했다. 또 다른 학생 C씨는 “졸업을 앞두고 있는데 취업 준비를 할 수가 없는 데다 동덕여대 졸업생이라고 하면 ‘폭력 시위’라는 낙인이 찍힐까 두렵다”며 “12일 열릴 예정이었던 학교 취업박람회에 대한 기대가 컸는데 시위대가 난장판을 만들어 무산돼 기회를 날렸다”고 했다. 동덕여대 총학생회 등은 시위가 격화한 것에 대해 “학교가 공학 전환을 비민주적으로 논의하고, 대화 요청을 일방적으로 묵살하면서 학생들의 분노가 커진 것”이라는 입장이다.&lt;br&gt;&lt;br&gt;대학 측은 오는 23일 예정된 2025학년도 대입 수시 논술고사 역시 학내에서 진행하기 어려워 외부 공간을 대여해 열 예정이다. 동덕여대 관계자는 “학생들 불법 시위로 입은 피해가 최대 54억원에 달하는 것으로 추산한다”며 “이에 대한 법적 책임을 엄중히 물을 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편 지금까지 전국 4년제 여대 7곳 중 이화여대를 제외한 6곳(광주·덕성·성신·서울·숙명·동덕여대) 총학생회에서 남녀공학 전환 반대 시위에 나서거나 연대 입장을 표명했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>현대차 울산공장서 연구원 3명 질식사</title>
+      <link>https://www.chosun.com/national/incident/2024/11/20/VSMPHRUAG5EQLNJWJ6DIEQQCBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/20/VSMPHRUAG5EQLNJWJ6DIEQQCBM/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FXTS7MY6KZFFDDCDW35YZKBOWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2015년 현대차 울산공장 전경. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현대자동차 울산공장에서 차량 성능 테스트를 하던 연구원 3명이 질식해 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;울산경찰청과 현대차 등에 따르면, 19일 오후 3시쯤 울산시 북구 현대차 울산공장 전동화품질사업부 실험실에서 40대 A씨와 30대 B씨, 20대 C씨 등 3명이 쓰러져 있는 것을 다른 직원이 발견해 신고했다.&lt;br&gt;&lt;br&gt;이들은 병원으로 이송했으나 모두 숨졌다.&lt;br&gt;&lt;br&gt;현대차 관계자는 경찰에 “이들이 이날 낮 12시 50분쯤 주행 테스트를 시작했고, 시간이 꽤 지났는데도 나오지 않아 오후 3시쯤 확인해보니 숨을 쉬지 못하고 있었다”고 진술했다. A씨와 B씨는 현대차 남양연구소 책임연구원인 것으로 파악됐다. C씨는 협력업체 소속 연구원이라고 한다.&lt;br&gt;&lt;br&gt;이들이 쓰러진 채 발견된 곳은 차량의 성능을 테스트하는 ‘체임버’라는 공간이다. 차량 1대가 들어갈 수 있는 크기다.&lt;br&gt;&lt;br&gt;경찰은 A씨 등이 그 안에서 실험하다 질식한 것으로 추정한다. 사고 당시 연구원들은 체임버 안에서 차량의 주행 성능을 시험하기 위해 공회전 테스트 등을 했던 것으로 파악됐다. 현대차 관계자는 “당시 시험 차량에서 다량의 배기가스가 배출됐지만 체임버의 환기 장치가 제대로 작동하지 않은 것으로 조사됐다”며 “연구원들이 일산화탄소 등에 중독돼 질식한 것으로 추정된다”고 했다.&lt;br&gt;&lt;br&gt;경찰과 현대차는 당시 환기 장치가 왜 작동하지 않았는지 등 정확한 사고 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;현대차 울산공장은 중대재해처벌법 적용 대상이다. 고용노동부는 중대재해처벌법과 산업안전보건법 위반 여부를 조사하는 한편 현장에 근로감독관을 파견해 작업을 중단시켰다.&lt;br&gt;&lt;br&gt;현대차는 이날 “고인의 명복을 빌며 유가족께 위로의 말씀을 드린다”는 입장을 밝혔다. 이어 “사고 원인을 조속히 규명해 재발 방지 대책을 마련하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 김환규 김환규산부인과 원장 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/11/20/IHZKCRA76NHM7KWASSDLJJ6DIM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/11/20/IHZKCRA76NHM7KWASSDLJJ6DIM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 15:40:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;김환규&lt;/b&gt; 김환규산부인과 원장 별세, &lt;b&gt;이인희&lt;/b&gt; 남편상, &lt;b&gt;김연수&lt;/b&gt;·&lt;b&gt;김정현&lt;/b&gt;·&lt;b&gt;김석주&lt;/b&gt; 부친상, &lt;b&gt;이명섭&lt;/b&gt; 장인상=19일1시5분 분당서울대병원, 발인 21일7시, (031)787-1511&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박복순&lt;/b&gt; 별세, &lt;b&gt;한상덕&lt;/b&gt; 前 한림대 교수·&lt;b&gt;한상화&lt;/b&gt; 한스스포츠 대표·&lt;b&gt;한상범&lt;/b&gt; 前 LG디스플레이 대표 부회장·&lt;b&gt;한상애&lt;/b&gt;·&lt;b&gt;한혜석&lt;/b&gt; 모친상, &lt;b&gt;허경&lt;/b&gt; 사업·&lt;b&gt;최훈선&lt;/b&gt; 사업 장모상, &lt;b&gt;홍인옥&lt;/b&gt;·&lt;b&gt;이연순&lt;/b&gt;·&lt;b&gt;김영수&lt;/b&gt; 시모상=18일14시7분 서울성모병원, 발인 21일9시30분, (02)2258-5922&lt;br&gt;&lt;br&gt;▲&lt;b&gt;류희윤&lt;/b&gt; 前 중앙제지 대표 별세, &lt;b&gt;류민정&lt;/b&gt;·&lt;b&gt;류재학&lt;/b&gt; 골드피쉬F&amp;amp;B 회장 부친상, &lt;b&gt;이종서&lt;/b&gt; 삼성의료원 척추센터장 장인상=19일4시32분 삼성서울병원, 발인 21일10시, (02)3410-6914&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] run-down</title>
+      <link>https://www.chosun.com/national/nie/english/2024/11/20/S5GKTKYSOFCTPKC6FCSUR2HNIU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/11/20/S5GKTKYSOFCTPKC6FCSUR2HNIU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KRWIC3T7SRF3XPVGVZKOSG4NOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[입에 착착 붙는 일본어] 설득력이 부족하다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2024/11/20/DUJKFIM4TZFUZKKJU4FVR23KRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/11/20/DUJKFIM4TZFUZKKJU4FVR23KRY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2TEVTRJ7UBDNFBCE56PGSIPRPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2505] 칙칙폭폭 꼬리 잇기</title>
+      <link>https://www.chosun.com/national/nie/2024/11/20/UOMCY4MMEBFUNHWB2ILDJXYRBQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/11/20/UOMCY4MMEBFUNHWB2ILDJXYRBQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6K23ED6U6ZC6NCNUYGFE3YUGRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디] 자객, 예상치 못한 놀라움</title>
+      <link>https://www.chosun.com/national/nie/chinese/2024/11/20/LNPRRTOXHJB6XFBP2A5OMNEN3E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/11/20/LNPRRTOXHJB6XFBP2A5OMNEN3E/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FX7OJ376SZGMPFO65Z3XSQOBZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 징역(懲役)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2024/11/20/PL3POOQQNZGALM424ZNFZ36IQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/11/20/PL3POOQQNZGALM424ZNFZ36IQI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZDIULYL5TRBSBKPLPLCIUIN4ZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2024년 11월 20일</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/11/20/SCYMXXFHSNARJKBVYNPJO2RCT4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/11/20/SCYMXXFHSNARJKBVYNPJO2RCT4/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BIH2GOQY2VFJRAZQZKVDRRO4OU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [예쁜 말 바른 말] [371] ‘야트막하다’와 ‘가느다랗다’</title>
+      <link>https://www.chosun.com/national/nie/2024/11/20/Y3DGM6DJPFAVZDZXPCLU3K2FFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/11/20/Y3DGM6DJPFAVZDZXPCLU3K2FFE/</guid>
+      <dc:creator>류덕엽 교육학 박사·전 서울 양진초 교장</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZQN54D73XNA3BDRKXOJVQBS3HA.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;* 그 둘레길은 얕으막한 야산 숲길과 출렁다리 등이 이어집니다.&lt;br&gt;&lt;br&gt;* 주삿바늘이 달린 가느란 특수관으로 약물을 주입하는 치료법이 효과적이다.&lt;br&gt;&lt;br&gt;위 문장에서 틀리는 말을 찾아보세요. ‘얕으막한’과 ‘가느란’을 ‘야트막한’과 ‘가느다란’으로 고쳐야 합니다.&lt;br&gt;&lt;br&gt;‘야트막하다’는 ‘높이가 조금 얕은 듯하다’는 뜻으로 ‘야트막한 지붕’과 같이 써요. 유의어는 ‘야틈하다’입니다. ‘야트막하다’는 어근 ‘야트막’에 형용사 파생 접미사 ‘-하다’가 결합한 형태입니다. ‘야트막’은 ‘얕다’에서 온 것으로 볼 수 있어요. 하지만 한글맞춤법에서 어간에 ‘-이’ 이외의 모음으로 시작된 접미사가 붙어서 된 말은 어근의 원형을 밝혀 적지 않는다고 규정했기 때문에 ‘얕으막하다’가 아니라 ‘야트막하다’로 적는 거죠.&lt;br&gt;&lt;br&gt;‘가느다랗다’는 ‘아주 가늘다’는 뜻입니다. ‘물체나 액체의 부피가 꽤 적거나 양이 적다’는 뜻도 있어요. 예를 들면 ‘가느다란 목소리’ ‘눈을 가느다랗게 떴다’와 같이 써요. 유의어는 가늘다, 가녀리다, 실낱같다 등이 있고 ‘가느닿다’는 준말이에요. 반의어는 ‘굵다랗다’지요.&lt;br&gt;&lt;br&gt;[예문]&lt;br&gt;&lt;br&gt;-그 산성은 도심을 바라보고 선 야트막한 성이다.&lt;br&gt;&lt;br&gt;-그는 키가 큰 편인 데다 팔다리가 가느다래서 더욱 커 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [알립니다] NIE 교육 협력기관 모집</title>
+      <link>https://www.chosun.com/special/announcement/2024/11/20/DTAWHV4SV5FDZDFKH4H4GI5K3M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2024/11/20/DTAWHV4SV5FDZDFKH4H4GI5K3M/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7EYNWW5KJZDKLLZCOCNFG4TZHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어린이조선일보와 함께 할 NIE 교육 협력기관을 모집합니다. ‘NIE’는 Newspaper In Education의 약자로 ‘신문 활용 교육’을 의미합니다. 다양한 시사 주제를 담은 신문을 학습 교재로 활용하여, 읽기와 쓰기 능력, 창의력, 비판적 사고력을 기르는 교육법입니다. 협력 기관은 에듀조선 NIE 논술학원 강사를 파견받아 NIE 교육을 하거나, NIE 교재를 지원받을 수 있습니다. 학생들의 문해력 향상을 원하는 선생님과 교육 기관의 많은 관심과 참여 바랍니다.&lt;br&gt;&lt;br&gt;▲대상: 학원·교습소·공부방 등 NIE 교육을 희망하는 기관&lt;br&gt;&lt;br&gt;▲모집 유형: NIE 강사 파견, NIE 교육기관 인증제&lt;br&gt;&lt;br&gt;▲문의: 02-724-7842&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [동물 이야기] 오동통한 몸매로 동물원 인기 스타… 야생엔 3000마리도 안 남았대요</title>
+      <link>https://www.chosun.com/national/nie/2024/11/20/BDHQLO6MQVFZXBVO2U5U62CD5I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/11/20/BDHQLO6MQVFZXBVO2U5U62CD5I/</guid>
+      <dc:creator>정지섭 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 15:30:00 +0000</pubDate>
+      <content:encoded>태국 촌부리주의 동물원에서 지난 6월 태어난 피그미하마 ‘무뎅’(탱탱한 돼지라는 뜻)의 인기가 식지 않고 있어요. 오동통한 몸에 똘망똘망한 눈을 하고, 입을 쩍 벌린 채 사육사와 장난치는 깜찍한 모습에 반한 사람들이 무뎅을 보러 동물원으로 향하면서 관람객이 네 배로 늘었대요. 덕분에 피그미하마에 대한 관심도 커졌죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DSWPSOGIPBFRNKO4A223MXCJAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;피그미하마 '무뎅'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;피그미는 아프리카에 사는 키가 작은 부족의 이름인데, 동물 앞에 붙이면 작다는 뜻이 돼요. 피그미하마는 다 자라면 길이는 최장 185㎝, 어깨높이는 최고 83㎝ 정도예요. 일반 하마가 갓 태어났을 때보다 조금 큰 정도랍니다. 몸무게는 최대 270㎏으로 하마의 10분의 1 수준이죠. 피그미하마는 하마의 미니어처(축소 모형)처럼 보이기도 하는데, 자세히 보면 다른 점이 적지 않아요.&lt;br&gt;&lt;br&gt;피그미하마는 하마보다 머리 모양이 더 둥글고, 목도 상대적으로 길답니다. 다리는 더 길고 늘씬하죠. 머리 위쪽에 눈이 있는 하마와 달리 피그미하마는 옆쪽에 있어요. 피그미하마의 생김새가 하마와 다른 건 서식 지역의 특성 때문이기도 해요. 하루 대부분의 시간을 물속에서 보내면서 물풀을 뜯는 하마와 달리 피그미하마는 뭍에서 많은 시간을 보내요. 잎과 풀줄기, 뿌리, 나무에서 떨어진 열매 등을 주로 먹는답니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AHIQT5NRU5HEZJJAMBK5C3DOUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;피그미하마는 일반 하마와 비슷하게 생겼지만 다리가 가늘고 머리가 둥근 게 특징이에요. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하마의 조상은 멧돼지와 비슷하게 생긴 고대 포유동물인데요. 과학자들은 400만 년 전쯤 진화 과정에서 하마와 피그미하마가 갈라진 것으로 보고 있어요. 사람과 유인원인 침팬지가 갈라진 시기, 고양잇과 맹수인 호랑이와 사자가 갈라진 시기보다도 빠른 거죠. 육지 생활에 맞게 적응한 피그미하마는 천적을 피해 도망치는 데 알맞도록 덩치도 작아지고 민첩하게 움직일 수 있도록 몸도 진화했어요. 하마 발의 물갈퀴가 피그미하마에겐 없는 것도 물에서 보내는 시간이 많지 않기 때문이에요. 눈이 양옆에 나 있는 것 역시 뭍에서 지낼 때 천적이 숨어 있는지를 보다 쉽게 파악하기 위해서랍니다.&lt;br&gt;&lt;br&gt;피그미하마는 야행성 동물인 데다 무리 생활을 하지 않고 혼자 살아가는 습성이 있어서 사람 눈에 잘 띄지 않아요. 6~7개월의 임신 기간을 거쳐 태어난 새끼는 몸무게가 고작 4~6㎏에 불과할 정도로 작고 가볍지만 성장 속도는 매우 빨라요. 다섯 달이 지나면 태어났을 때 몸무게의 열 배로 커진대요.&lt;br&gt;&lt;br&gt;피그미하마는 옛날에는 마다가스카르섬과 지중해 지역에도 살았대요. 하지만 지금은 주로 라이베리아·시에라리온·코트디부아르 등 서아프리카의 우거진 숲과 늪지대에 산답니다. 이 나라들은 오랜 내전을 겪었어요. 전쟁이 한창일 때 숲이 파괴되고, 고기를 얻기 위해 마구잡이로 밀렵이 이뤄지면서 피그미하마 숫자도 급감했어요. 지금 야생에는 3000마리도 남아 있지 않대요. 그래서 세계 여러 나라 동물원에서 피그미하마의 새끼가 태어나면 소식을 알리고 있죠. 영국 에든버러 동물원에서도 얼마 전 피그미하마가 새끼를 낳아서 ‘해기스’라는 이름을 붙여줬어요. 우리나라에도 피그미하마가 살고 있는데, 서울대공원 동물원에 있는 ‘나몽’이랍니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [숨어있는 세계사] 79년 전 시작된 나치 전범재판… 지금도 계속돼요</title>
+      <link>https://www.chosun.com/national/nie/2024/11/20/5IAJXRGO5VDMNI4DGKTCTNZR64/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/11/20/5IAJXRGO5VDMNI4DGKTCTNZR64/</guid>
+      <dc:creator>서민영 계남고 역사 교사, 기획·구성=윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Nov 2024 15:30:00 +0000</pubDate>
+      <content:encoded>오늘로부터 79년 전인 1945년 11월 20일, 독일 뉘른베르크에선 역사적인 재판이 시작됐습니다. 바로 뉘른베르크 국제군사재판(전범재판)이에요. 제2차 세계대전(1939~1945)을 일으킨 독일에 전쟁 책임을 묻기 위한 최초의 재판이었죠.&lt;br&gt;&lt;br&gt;재판이 열린 뉘른베르크는 아돌프 히틀러가 이끄는 나치당의 전당대회가 열렸던 ‘선전 도시’였습니다. 재판에 부쳐진 피고들은 나치 독일의 지도부였습니다. 홀로코스트(나치의 유대인 대학살)를 비롯한 여러 전쟁범죄를 저지른 혐의를 받았죠. 재판은 1946년 10월 1일까지 약 1년간 진행됐고, 피고 24명 가운데 12명이 사형 판결을 받았습니다. 오늘은 당시 뉘른베르크의 현장으로 떠나보도록 할게요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/USHVEFUZHJAJRMWC4UNRBBRCD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1945년 독일 뉘른베르크 국제 군사재판소 법정에 앉아 있는 연합국 재판관들의 모습. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;1차 대전 후 전쟁범죄 인식 달라져&lt;/b&gt;&lt;br&gt;&lt;br&gt;뉘른베르크 재판은 어떻게 시작됐을까요? 전쟁을 통제하기 위해 전범재판이 필요하다는 주장은 오랫동안 제기돼 왔어요. 하지만 19세기까지 전쟁은 주권을 가진 국가의 고유한 권리로 여겨졌고, 승자와 패자가 나뉠지라도 전쟁 책임자를 법정에 세우는 일은 드물었습니다.&lt;br&gt;&lt;br&gt;분위기가 바뀐 것은 제1차 세계대전(1914~1918) 이후입니다. 당시 화학 공격 등 잔혹한 방법으로 많은 사람이 희생되면서 전쟁범죄에 대한 인식이 달라졌어요. 그리고 더 많은 사람을 죽음으로 몰아넣은 2차 세계대전이 일어나면서, 전쟁 책임자를 국제법으로 단죄하는 대규모 재판이 치러지게 된 거예요.&lt;br&gt;&lt;br&gt;전쟁 막바지인 1945년 2월, 연합국(영국·미국·소련) 지도자들은 크림반도의 얄타에서 회담을 열고 전쟁 이후 독일에 어떻게 책임을 물을 것인지를 의논했어요. 이들은 독일의 주요 전범들을 붙잡아 재판에 넘길 것을 확정했고, 그해 여름에 열린 포츠담 회담에서 이 내용을 다시 확인했죠. 같은 해 8월엔 국제군사재판소가 설립됩니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LLV4EBVBENCHTP5KVGDABQQIOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1945년 2월 얄타 회담에서 전후 독일의 처리 문제 등을 논의하기 위해 모인 연합국 정상들. 왼쪽부터 영국의 윈스턴 처칠, 미국의 프랭클린 루스벨트, 소련의 이오시프 스탈린. /미 해군 역사유산 사령부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판부는 연합국인 영국, 미국, 프랑스, 소련에서 추천한 재판관과 검사로 구성됐어요. 반면 전범들을 변호한 변호사들은 주로 독일인이었습니다. 약 1년 동안 전범들에 대한 조사가 이루어졌는데, 증인만 해도 수백 명에 달했어요. 나치 협력자, 연합국 군 관계자, 나치의 강제수용소에서 살아남은 생존자 등이었죠.&lt;br&gt;&lt;br&gt;연합국은 나치 독일의 주요 지도자를 기소 대상으로 선정했습니다. 나치 체제에서 중요한 정책 결정에 관여했거나, 대규모 학살 등 직접 전쟁범죄를 저지른 사람들이었죠. 나치의 2인자였던 헤르만 괴링을 포함해 24명이 기소되었습니다. 나치 지도자인 아돌프 히틀러와 나치 선전에 앞장섰던 요제프 괴벨스 등은 이미 스스로 목숨을 끊었기 때문에 피고가 아니었어요.&lt;br&gt;&lt;br&gt;피고들에게는 2차 대전 전까지 없던 새로운 죄목 두 가지가 적용됐어요. 하나는 정당한 이유 없이 침략 전쟁을 벌이는 ‘평화에 반한 죄’였고, 또 하나는 유대인 등 민간인을 학살한 ‘반인도적 범죄’였어요. 재판은 처음부터 끝까지 녹음됐는데, LP 레코드판으로 무려 2000장 분량이었다고 해요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FQFE7SNX2VD3ZPUAX4FRJ3VOVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1944년 나치 독일의 아우슈비츠 수용소에 갇힌 유대인들. 이들은 수용소에서 노역을 하거나 가스실로 보내져 목숨을 잃었어요. /게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;각국에서 전범재판 이어졌죠&lt;/b&gt;&lt;br&gt;&lt;br&gt;전범들은 대부분 무죄를 주장했어요. ‘상부 지시를 따랐을 뿐’이라는 거죠.&lt;b&gt; &lt;/b&gt;기소된 24명 중 재판 진행 과정에서 죽은 사람 등을 제외하고 22명에 대한 판결이 내려집니다. 12명에게는 사형이, 3명에게는 종신형이, 4명에게는 징역형이, 나머지 3명에게는 무죄가 선고되었습니다. 3명이 무죄를 받은 건 나치에 도움을 준 것은 맞지만, 직접적인 범죄 행위를 저지른 것은 아니라는 이유였죠. 사형이 집행된 후 전범들의 시신은 비밀리에 화장돼 강에 뿌려졌어요.&lt;br&gt;&lt;br&gt;뉘른베르크 재판 이후엔 왜 승전국의 전쟁범죄는 심판하지 않느냐는 비판도 이어졌어요. 그럼에도 전쟁범죄 책임을 국가가 아닌 개인에게 물은 이 재판은 국제법 발전에 큰 공헌을 한 것으로 평가받아요. 게다가 훗날 국제형사재판소(ICC)가 만들어지는 계기가 되기도 했습니다. 재판 과정에서 나치의 잔인한 행적이 드러남으로써 나치 같은 극단적 집단이 등장하는 것을 막는 교육적 효과도 있었고요.&lt;br&gt;&lt;br&gt;이후엔 연합국 주도로 나치의 법률가, 사업가, 의사, 엘리트 장교, 외교관 및 공무원을 피고인으로 한 후속 재판도 진행됐습니다. 그리고 프랑스나 영국 등 각국에서도 나치 전범이나 나치에 협력한 이들을 법정에 세웠어요.&lt;br&gt;&lt;br&gt;&lt;b&gt;독일 태도 바꾼 아이히만 재판&lt;/b&gt;&lt;br&gt;&lt;br&gt;하지만 뉘른베르크 재판에서 모든 전범이 단죄받은 것은 아니었습니다. 많은 전범이 이름을 바꾸고 잠적하거나, 해외로 도피했어요. 나치 친위대 장교였던 아돌프 아이히만도 그중 한 사람이었어요. 그는 유대인들을 수용소로 강제 이송하는 역할을 맡으며 홀로코스트의 중심에 있었던 인물이었죠. 독일 패전 이후 그는 이름을 바꾸고 아르헨티나로 도망가 거주하고 있었어요. 하지만 이스라엘 정보기관 모사드의 추적 끝에 1960년 체포됩니다. 이후 유대인 나라 이스라엘에서 재판을 받게 되죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYOS26GXLRGHJLELD5QOTMK7AQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1961년 예루살렘의 법정에 출석한 아돌프 아이히만(뒷줄 가운데). 그는 암살 우려 때문에 방탄부스 안에서 재판을 받았어요. /게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아이히만에게 적용된 혐의는 유대인에 대한 범죄, 반인도적 범죄 등 15가지였습니다. 1961년 시작된 재판은 세계적인 화제가 됐고, TV 방송을 통해 실시간으로 세계에 전해졌어요. 그는 ‘단지 상부의 명령을 따랐을 뿐’이라고 주장했지만, 결국 사형 선고를 받고 교수형에 처해졌어요. 그는 단순히 누군가의 지시에 따라 움직인 것이 아니라, 체계적으로 범죄를 조직하고 직접 실행한 책임자라는 것이 판결의 이유였죠.&lt;br&gt;&lt;br&gt;예루살렘에서 열린 이 재판은 나치가 벌인 유대인 대학살의 실상이 널리 알려지는 계기가 됐습니다. 독일 내부에서도 재판 이후 역사적 책임에 대해 더 많이 반성해야 한다는 여론이 생겼어요. 독일은 국내 형법에 전범 처벌 규정을 둬 스스로 나치 잔재를 청산하기 위한 재판을 이어나갔고, 이러한 과거사 청산 노력은 지금까지도 이어지고 있어요. 지난 8월에는 나치 시절 강제수용소에서 타자수로 일했던 99세 할머니가 유죄 판결을 받았어요. 나치의 집단 학살을 도왔다는 ‘살인 방조’ 혐의 등이 인정됐답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>김천 오피스텔 살인 사건 피의자 일주일 만에 붙잡혀</title>
       <link>https://www.chosun.com/national/incident/2024/11/19/7BYUBLUZ2BEALMHJLIT6BYRH5E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/19/7BYUBLUZ2BEALMHJLIT6BYRH5E/</guid>
@@ -697,15 +886,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3TABSLF6IBMCPL3YW57D5ZOWQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의정갈등이 이어지고 있는 18일 오후 서울 시내 한 대형병원 앞에서 한 의료 관계자가 이동하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;병원의 필수 진료과 의사들이 15~30분간 심폐소생술을 하고 건보공단에서 받는 돈(수가)은 건당 17만890원이다. 반면 이 시술을 거의 하지 않는 한방·치과병원의 수가는 각각 20만7930원, 20만2040원이다. 같은 심폐소생술을 해도 필수과 의사보다 한의사와 치과의사가 20% 정도 수가를 더 받는다.&lt;br&gt;&lt;br&gt;중환자 처치·치료를 전담하는 외과·응급의학과·소아과 같은 필수과 의사보다 긴급 처치를 거의 하지 않는 한의사와 치과의사에게 더 큰 보상을 하는 ‘수가 역전’이 발생한 것이다. 필수과 사직 전공의들은 이런 ‘수가 역전’을 두고 “정부의 필수과 무시 대표 사례”라고 했다. 필수과 의사들을 차별하는 ‘수가 역전’이 확산하는 근본 원인은 주무 부처인 보건복지부 공무원들의 나태와 복지부동이라는 지적이 많다.&lt;br&gt;&lt;br&gt;한 전직 복지부 차관은 “필수과에 대한 보상(수가)을 늘리려면 필수과 수술·처치의 상대 가치점수를 올려야 하는데, 이 점수는 진료과별 이해관계가 첨예하다”며 “정부가 골치 아픈 상대 가치점수를 장기간 손대지 않은 것이 수가 역전의 주 원인”이라고 했다. 의료계 인사들은 “정부는 작년 하반기부터 필수과의 수가 현실화를 집중 발표했지만, 아직 수가 역전 개선 논의조차 시작 못했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/23GX7EOJ2NHLPH4BJYEI3LV37Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;필수과 의사들을 낙담시키는 ‘수가 역전’ 사례는 광범위하게 퍼져있다. 공기가 지나는 기도(氣道)에 관을 넣는 삽관술도 병원에서 하면 수가가 4만6880원인데, 한방병원에서 하면 5만7050원이다. 21% 더 주는 것이다. 인공호흡의 경우, 한방병원의 수가(5만9930원)는 병원보다 20% 이상 높다. 단순초음파 수가도 치과·한방병원은 3만원에 육박하지만 병원은 2만4280원이다.&lt;br&gt;&lt;br&gt;관가에선 “보건복지부가 힘들고 어려운 상대 가치점수 개편을 장기간 방치했기 때문”이라는 말이 나온다. 수술·처치의 가격인 수가는 투입 인력과 업무 강도를 고려한 ‘상대 가치점수’에 물가 등을 반영한 ‘환산 지수’를 곱해서 산출한다.&lt;br&gt;&lt;br&gt;서울의 한 응급실 전문의는 “심정지 환자가 들어오면 응급실 의료진이 전부 달라붙어 심폐소생술을 한다”고 했다. 그만큼 투입 인력이 많고 업무 강도가 높은 처치라 병원의 상대 가치점수가 높아야 하는 게 정상이다. 그런데 병원의 심폐소생술 상대 가치점수는 한방병원, 치과병원과 같다.&lt;br&gt;&lt;br&gt;다른 것은 ‘환산 지수’다. 이 지수는 정부가 매년 평균 1~2% 인상하는데 인상률은 병원보다 한방·치과병원이 더 높은 편이다. 정부 관계자는 “숫자가 많은 병원은 환산 지수를 조금만 올려도 건보 재정에 부담이 되지만, 소수인 한방·치과병원은 인상을 해도 큰 부담이 없기 때문에 더 많이 올리는 경향이 있다”고 했다.&lt;br&gt;&lt;br&gt;더구나 상대 가치점수는 특정 과의 진료 점수를 높이면 다른 과들이 크게 반발한다. 상대 가치점수의 총합이 고정돼 있어, ‘A를 올리면 B를 줄여야’ 하는 구조여서다. 반면 환산 지수는 ‘병원’ ‘의원’ ‘한의원’처럼 기관 유형별로만 구분해서 일괄 적용하기 때문에 세부 진료과별 갈등 소지가 없다.&lt;br&gt;&lt;br&gt;의료계 인사들은 “그동안 복지부 담당 공무원들은 골치 아픈 상대 가치점수는 놔두고 환산 지수만 매해 찔끔 인상해서 ‘필수과 수가를 지속적으로 인상해왔다’고 발표했다”고 했다.&lt;br&gt;&lt;br&gt;복지부는 작년부터 “업무 강도가 높은 필수과의 수가를 집중 인상하겠다”고 했다. 하지만 필수과 의사들은 “그간 정부가 한 건 발표밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>법무부, 랜섬웨어 조직 총책 등 미국에 인도</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/19/2STJ7NLQ3VDMLGSA2YK7WKWMVA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/19/2STJ7NLQ3VDMLGSA2YK7WKWMVA/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 17:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMIKU47EYKGMSS6GOW7EZGE2SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 과천 법무부 청사 전경. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 랜섬웨어(데이터를 인질 삼아 금전을 요구하는 수법) 범죄조직 총책인 러시아인 A씨와 자금세탁 범죄조직 핵심 관리자인 베트남인 B씨를 검거하고 이들을 쫓고 있던 미국으로 송환했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2020년부터 올해까지 여러 미국 기업 네트워크에 침입해 랜섬웨어 프로그램으로 데이터를 암호화한 후 이를 해제해주는 대가로 약 1600만달러(약 223억원) 상당의 비트코인을 갈취한 혐의를 받는다. &lt;br&gt;&lt;br&gt;B씨는 같은 시기 미국 당국을 속여 받은 실업급여 등 범죄수익 약 6700만달러(약 933억원)를 페이퍼컴퍼니로 추정되는 미국의 한 미디어그룹 명의 계좌로 보내 은닉한 혐의가 있다.&lt;br&gt;&lt;br&gt;법무부는 지난 5월 미국 법무부에서 이들에 대한 긴급인도구속 청구를 각각 접수하고 서울고검에 긴급인도구속을 명령했다. 긴급인도구속은 한-미 양국간 체결한 범죄인인도조약 제10조에 따라 상대 국가의 정식 범죄인인도 청구 접수를 앞두고 범죄인의 신병을 미리 확보하는 제도로서, 서울고검과 서울고법이 담당한다.&lt;br&gt;&lt;br&gt;법무부와 서울고검은 법원에서 긴급인도구속영장을 발부받고 A씨와 B씨의 소재를 추적해 지난 5월 15일 아랍에미리트(UAE)에서 인천공항으로 입국한 A씨, 6월 5일 인천공항에서 베트남으로 출국하는 B씨를 각각 붙잡았다. 이들의 휴대전화 등을 확보하고 국내 주거지 등도 압수 수색했다. 이후 법원이 지난 9월 A씨와 B씨의 인도허가 결정을 내렸고, 법무부는 지난 1일에 A씨를, 15일에 B씨를 각각 미국에 인도했다.&lt;br&gt;&lt;br&gt;법무부는 “랜섬웨어, 자금세탁 등 초국가적 범죄를 척결하기 위한 한국 정부의 강한 의지를 국제사회에 알린 사례”라며 “앞으로도 국제협력 네트워크를 더욱 강화하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“다시 태어나면 네 남친 되고 싶다” 여경에 문자 보낸 경정 대기발령 </title>
       <link>https://www.chosun.com/national/national_general/2024/11/19/MLU6UHIJ3NEYPB5PUTEC3IEPWQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/19/MLU6UHIJ3NEYPB5PUTEC3IEPWQ/</guid>
@@ -742,15 +922,6 @@
       <content:encoded>윤석열 대통령의 장모 최은순(77)씨가 차명으로 매입한 경기 성남시 도촌동 땅에 부과된 약 27억원의 과징금을 취소해 달라며 소송을 냈다가 최종 패소했다.&lt;br&gt;&lt;br&gt;18일 법조계에 따르면, 대법원 2부(주심 권영준 대법관)는 최씨가 성남시 중원구청장을 상대로 낸 과징금 부과 처분 취소 소송에서 원고 패소 판결한 원심을 지난달 31일 심리불속행 기각으로 확정했다. 상고 대상이 아니라고 보고 구체적인 심리 없이 최씨가 패소한 2심을 확정한 것이다.&lt;br&gt;&lt;br&gt;성남 중원구는 2020년 검찰로부터 최씨가 부동산실명법을 위반했다는 통보를 받고 그해 6월 최씨에게 과징금 27억3200여 만원을 부과했다. 최씨가 2013년 도촌동 땅을 법인 등의 명의를 빌려 위법하게 차명 매입했다는 이유였다. 최씨는 2021년 과징금 처분에 불복해 소송을 냈다. 최씨는 “땅 실소유주는 내가 아니고, 명의 신탁을 한 적도 없다”고 주장했지만, 1심은 최씨의 불법 명의 신탁을 인정하면서 패소 판결했다. “최씨가 도촌동 땅의 실소유주가 맞다”는 관계자들의 진술 등이 근거가 됐다. 2심과 대법원도 결론이 같았다.&lt;br&gt;&lt;br&gt;한편, 검찰은 최씨가 도촌동 땅을 사들이는 과정에서 법인 등의 명의를 빌려 소유권 이전 등기를 한 혐의, 잔고 증명서를 위조한 혐의 등이 있다며 2020년 3월 기소했다. 최씨는 1·2심에서 징역 1년을 선고받고 법정 구속됐다. 대법원은 작년 11월 징역 1년을 확정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>영웅이 된 아들 보내고… 보훈심사위원장 된 어머니</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/19/UAEEYWF3WVGA5BA3FTIPTDPYDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/19/UAEEYWF3WVGA5BA3FTIPTDPYDA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DWHCTZ7UZBEEXNJOCLZSQHJIEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김오복 신임 보훈심사위원회 위원장이 18일 오전 대전 유성구 국립대전현충원에 있는 연평도 포격전 전사자 묘역을 둘러보고 있다. 김 위원장은 2010년 11월 북한의 연평도 포격으로 전사한 서정우 하사의 어머니다. 전날 전사자 유족으로는 처음으로 보훈심사위원회 위원장에 임명됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘文 전 사위 채용 의혹’ 김정숙 검찰 출석 요청</title>
       <link>https://www.chosun.com/national/court_law/2024/11/19/BCOD35Q2NVGLPDZIU2HKHGCJLY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/19/BCOD35Q2NVGLPDZIU2HKHGCJLY/</guid>
@@ -769,126 +940,6 @@
       <content:encoded>코레일 철도노조(전국철도노동조합)가 18일부터 이른바 ‘준법 투쟁(태업)’에 돌입하면서 수도권 출근길 곳곳이 혼란을 빚었다. 코레일에 따르면, 이날 출근 시간대 운행한 수도권 전철 650여 편 중 260여 편이 평소보다 10분 이상 지연 운행했다. 그 중 120여 편은 20분 이상 늦게 운행했다. 한파까지 겹치면서 시민들은 불편을 겪었다. 경의중앙선을 이용해 홍대입구 회사로 출근하는 직장인 김모씨는 “열차가 평소보다 더 붐벼 콩나물시루 같았다”며 “2대를 보내고 겨우 탔는데 회사에 20분 지각했다”고 말했다.&lt;br&gt;&lt;br&gt;코레일과 노조는 지난 7월부터 내년도 임금·단체협약 교섭을 하고 있는데 임금 인상률과 인력 충원 규모 등을 놓고 이견을 보이고 있다. 노조는 이날부터 22일까지 이러한 ‘준법 투쟁’을 벌여 사측을 압박한다는 계획이다. 열차를 규정대로 운행하겠다며 사실상 지연시키는 방법이다.&lt;br&gt;&lt;br&gt;노조는 “기본급을 2.5% 인상하고 부족한 인력을 충원하라”면서 “사측이 수용하지 않으면 21일 기자회견을 열고 12월 초부터 총파업에 들어가겠다”고 했다. 코레일 측은 “태업에 참여하지 않는 직원을 적극 투입해 출근길 승객 불편을 최소화하겠다”고 했다.&lt;br&gt;&lt;br&gt;서울 지하철도 파업 수순을 밟고 있다. 서울 지하철 1~8호선을 운행하는 서울교통공사 1노조는 이날 총파업을 결의했다. 서울교통공사에는 1~3노조가 있는데 민주노총 산하인 1노조(서울교통공사노조)가 조합원이 가장 많다. 1노조는 이날 “파업 찬반 투표를 실시한 결과, 70.55% 찬성률로 파업이 가결됐다”고 밝혔다. 1노조는 지난 15일부터 이날까지 조합원 9450명을 대상으로 파업 찬반 투표를 실시했다. 전체 조합원 중 7862명이 투표해 5547명이 찬성하고 2315명이 반대했다. 1588명은 기권했다. 1노조는 19일 서울시청 앞에서 기자회견을 열고 구체적인 총파업 일정을 밝힐 예정이다. 실제로 파업에 돌입하면 2022년 이후 3년 연속 파업을 하는 것이다.&lt;br&gt;&lt;br&gt;1노조는 5% 이상 임금 인상과 신규 채용 확대 등을 요구하고 있다.&lt;br&gt;&lt;br&gt;공사는 1~3노조와 각각 임·단협 교섭을 하는데, 한국노총 산하인 2노조(서울교통공사통합노조)도 조만간 파업 찬반 투표를 실시할 예정이다. 20~30대 직원들이 주축이 된 3노조(올바른노조) 측은 “임금 인상률과 직원 충원 규모 등을 놓고 사측과 협상 중”이라며 “협상 결과에 따라 파업에 동참할지 여부를 검토할 것”이라고 했다.&lt;br&gt;&lt;br&gt;조합원 수는 2노조가 2600여 명, 3노조는 2000여 명이다.&lt;br&gt;&lt;br&gt;노동계 관계자는 “12월초 철도와 지하철이 동시 파업에 들어갈 가능성도 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[인사] 감사원 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/11/19/3PYZCI3CGJCINGLITTG4ZQXOU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/11/19/3PYZCI3CGJCINGLITTG4ZQXOU4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;b&gt;▲감사원&lt;/b&gt;◇고위감사공무원 신규 채용▷감사교육원 교육운영부장 윤병원&lt;br&gt;&lt;br&gt;&lt;b&gt;▲문화체육관광부&lt;/b&gt;◇국장급 전보▷대변인 김재현&lt;br&gt;&lt;br&gt;&lt;b&gt;▲소셜밸류&lt;/b&gt;▷편집국 부국장 이덕형&lt;br&gt;&lt;br&gt;&lt;b&gt;▲우주항공청&lt;/b&gt;◇과장급▷우주위험대응과장 최만수▷우주항공서비스개발과장 박장한&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조선비즈&lt;/b&gt;▷개발본부 총괄 노상현&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 조병숙 별세</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/11/19/D4NEMEMTCFA5LAFG6O7TB42HBU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/11/19/D4NEMEMTCFA5LAFG6O7TB42HBU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 15:45:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;조병숙&lt;/b&gt; 별세, &lt;b&gt;정진영&lt;/b&gt;·&lt;b&gt;정숙영&lt;/b&gt;·&lt;b&gt;정소영&lt;/b&gt;·&lt;b&gt;정지영&lt;/b&gt;·&lt;b&gt;정아영&lt;/b&gt; 구산중 교사·&lt;b&gt;정자영&lt;/b&gt; 진산과학고 교사·&lt;b&gt;정규동&lt;/b&gt; 오아로피부과의원 성남점 대표원장 모친상, &lt;b&gt;김민석 &lt;/b&gt;항공우주산업진흥협회 상근부회장·&lt;b&gt;서진명&lt;/b&gt; 前 농협 작전지점장·&lt;b&gt;박균열&lt;/b&gt; 경상국립대 윤리교육학과 교수·&lt;b&gt;방승배&lt;/b&gt; 문화일보 체육부장 장모상=18일4시 삼성서울병원, 발인 20일7시30분, (02)3410-3151&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>쇼트트랙 최민정 ‘연세체육인상’</title>
-      <link>https://www.chosun.com/national/people/2024/11/19/FSSKQ2GQLZGS5FXBEUCU27TSZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/19/FSSKQ2GQLZGS5FXBEUCU27TSZY/</guid>
-      <dc:creator>강호철 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E3VNXZJXOBEOFG37K3TSNW7HPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 여자 쇼트트랙 간판 최민정(26)이 12월 5일 연세체육인의 밤 행사에서 ‘2024년 자랑스러운 연세체육인상’을 받는다. 연세대 스포츠응용산업학과 17학번인 최민정은 동계 올림픽에서 금3·은2개를 따냈다. 현재 진행 중인 2024-25시즌에는 쇼트트랙 월드투어에서 금1·은1·동3개를 목에 걸었다. 그는 2025년 2월 중국 하얼빈 동계 아시안게임에도 출전한다.&lt;br&gt;&lt;br&gt;이 밖에 서대문구청 팀을 창단해 여자 농구 발전에 기여한 이성헌 서대문구청장이 공로 부문 시상인 ‘김운용 체육인상’, 팀을 프로축구 K리그 3부에서 2부로 끌어올린 강철 현 김포FC강화실장이 지도자에게 주어지는 ‘이성구 체육인상’을 받는다. 시상식은 12월 5일 오후 6시 30분 더채플앳청담에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 미동(微動)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/11/19/MESZK4CXF5BSJFEIL7GATHDLU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/11/19/MESZK4CXF5BSJFEIL7GATHDLU4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7BBKEWLQHNDDJEMAQUBUJ7EV64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 순식간에, 금방</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/11/19/TXNOLHYCKNCO3BQD6CAJ4UNKXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/11/19/TXNOLHYCKNCO3BQD6CAJ4UNKXQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2KHQHHZU5RBH7KZLHGW3SMHHCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 체면을 손상시키다, 얼굴에 먹칠하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/11/19/SP2BLQM7BBE4BJ4BVNY7YEOBAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/11/19/SP2BLQM7BBE4BJ4BVNY7YEOBAI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6AEEKZOXRFKJJ44QLZUJ3SCXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2504] 돌려라 룰렛 계산기</title>
-      <link>https://www.chosun.com/national/nie/2024/11/19/LNCM5R6AKVEPPHNMKPIA3LVBHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/11/19/LNCM5R6AKVEPPHNMKPIA3LVBHI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6U5ADFPFDZANNPBAI4AB4QB7UM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] lean meat</title>
-      <link>https://www.chosun.com/national/nie/english/2024/11/19/OCLNB7FC3FBD3ETXHWSTFV3TOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/11/19/OCLNB7FC3FBD3ETXHWSTFV3TOY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AWKWDC7R7ZBUPOY6XDNAVSYKHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘티메프 사태’ 구영배·류화현·류광진 구속 또 다시 면해…“도주 우려 없어”</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/19/YT2TZBJIABFJTDSFMMR2LAURUU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/19/YT2TZBJIABFJTDSFMMR2LAURUU/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 15:20:12 +0000</pubDate>
-      <content:encoded>법원이 티메프(티몬·위메프) 미정산 사태의 핵심 인물인 구영배 큐텐 그룹 대표와 티메프 경영진에 대한 구속영장을 재차 기각했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6REOJHPMGJI7HKTJFLOLXAN3MQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;티몬·위메프(티메프)의 판매 대금 미정산 사태의 핵심 피의자인 구영배 큐텐그룹 대표(왼쪽부터), 류광진 티몬 대표, 류화현 위메프 대표가 18일 서울 서초구 서울중앙지방법원에서 열리는 특정경제범죄 가중처벌 등에 관한 법률 위반(사기·횡령·배임) 혐의 관련 구속 전 피의자 심문(영장실질심사)에 출석하고 있다.  /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 법조계에 따르면, 서울중앙지법 남천규 영장전담 부장판사는 전날 특정경제범죄가중처벌법상 사기·횡령·배임 등 혐의를 받는 구 대표와 류화현 위메프 대표, 류광진 티몬 대표에 대한 영장실질심사를 진행한 뒤 구속영장을 모두 기각했다.&lt;br&gt;&lt;br&gt;남 부장판사는 구 대표에 대해 “종전 구속영장 기각 결정과 달리 피의자가 증거를 인멸하거나 도망할 염려가 있다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;류광진·류화현 대표에 대해선 “구속영장 기각 후 추가로 제출된 증거, 수사 진행 경과와 증거 관계, 피의자의 주거와 사회적 유대관계를 종합해보면 현 단계에서 구속 사유와 필요성을 인정하기 어렵다”고 설명했다.&lt;br&gt;&lt;br&gt;검찰은 이들이 미정산 사태를 사전에 인지하고도 무리하게 기업을 운영해 정산 대금을 지급할 수 없는 상황에 이르게 했다고 보고 있다. 앞서 검찰은 이들의 구속영장을 청구했지만, 지난달 10일 법원은 “피의자에게 범죄 혐의를 다툴 여지가 있으므로 방어권 보장의 필요성이 있다”며 영장을 모두 기각했다.&lt;br&gt;&lt;br&gt;검찰은 이후 접수된 고소장 110여건과 피해자를 전수조사 하는 등 수사를 보강해왔다. 이에 구 대표에 대한 두 번째 구속영장에는 배임액과 횡령액을 각각 28억원, 128억원 늘린 것으로 알려졌다. 또 검찰은 구 대표가 손해를 볼 가능성이 크다는 사실을 알고도 티메프의 정산 예정금 500억원 상당을 미국 전자상거래 플랫폼 ‘위시’ 투자에 유용한 정황 등을 구속영장에 추가로 적시했다.&lt;br&gt;&lt;br&gt;구 대표는 정산 대금을 지급할 수 없을 만큼 경영이 악화된 사실을 알고도 류광진, 류화현 대표와 공모해 판매자들을 속여 1조5950억원 상당의 물품 판매 대금을 가로챈 혐의 등을 받는다. 계열사 일감 몰아주기로 티몬·위메프·인터파크커머스에 총 720억원의 손해를 입히고, 미국 전자상거래 회사를 인수하기 위해 총 799억원을 횡령한 혐의도 받는다.&lt;br&gt;&lt;br&gt;검찰은 구 대표가 큐익스프레스의 나스닥 상장에 여러 차례 실패하자 자본 잠식 상태에 있던 티메프 등을 인수한 뒤 이른바 ‘쥐어짜기’로 큐텐의 운영자금을 마련해 왔다고 보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [사소한 역사] ‘독일식 김치’ 사워크라우트, 선원들은 괴혈병 예방하기 위해 먹었대요</title>
-      <link>https://www.chosun.com/national/nie/2024/11/19/HIPXQ5OTQ5AH3KTMDNUPUJMUXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/11/19/HIPXQ5OTQ5AH3KTMDNUPUJMUXI/</guid>
-      <dc:creator>황은하 상경중 역사 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 15:30:00 +0000</pubDate>
-      <content:encoded>최근 날씨가 쌀쌀해지며 김장을 하는 집이 늘어나고 있어요. 여러 대형 마트도 배추 물량을 확보하고, 정부는 배추·무·마늘 유통량을 늘리겠다고 했어요. 나라에서 김장 물가 동향을 지켜볼 정도로 김장은 우리나라의 중요한 풍습인데요. 유네스코에서도 김장을 인류 무형 문화유산으로 인정했어요. 오늘은 김장의 유래와 함께 김장과 비슷한 다른 나라의 식문화를 알아볼게요.&lt;br&gt;&lt;br&gt;김장은 겨울에도 채소를 먹어 영양분을 섭취하기 위해 생겨난 식문화예요. 고려 시대 문인 이규보의 문집 ‘동국이상국집’엔 김장에 대한 기록이 나와 있어요. ‘소금에 절인 (순무) 김치 겨울 내내 반찬 되네’라는 구절로, 지금의 김장과 비슷한 모습입니다. 다만 이 당시 김치는 무·채소 등을 소금에 절인 모습으로 지금의 빨간 김치와는 달라요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RAX3LTR74JBPTHCMJSSKDO7NBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 한 봉사 단체가 서울의 사회복지관에서 김장 봉사를 하고 있어요. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리에게 익숙한 김치는 조선 시대 때부터 먹기 시작했어요. 발효를 위해 젓갈을 넣고, 16세기쯤 아메리카 대륙에서 유입된 고추를 넣었죠. 또 이파리가 많이 달린 품종의 배추 역시 조선 후기에 확산됐다고 해요.&lt;br&gt;&lt;br&gt;김장은 왜 11월쯤 하는 걸까요? 그 이유는 날씨가 너무 따뜻하면 금방 신 김치가 되고, 너무 추우면 채소가 얼어 김장을 할 수 없기 때문이에요. 예로부터 겨울의 시작을 뜻하는 입동(立冬)과 눈이 내리기 시작하는 소설(小雪) 사이가 김장하기 좋은 때로 여겨졌답니다.&lt;br&gt;&lt;br&gt;유럽에도 김장과 비슷한 과정으로 만드는 음식이 있어요. ‘독일식 김치’라고 불리는 사워크라우트예요. ‘신맛 양배추’라는 뜻으로, 양배추를 얇게 썰어 소금을 뿌려 으깬 다음 4~6주 동안 발효하는 음식이에요.&lt;br&gt;&lt;br&gt;그런데 이 음식의 기원은 중국이라고 해요. 중국인들은 기원전 3세기부터 채소를 청주에 담가 발효시켜 먹었는데, 겨울철에 이 채소 절임을 먹으면서 영양분을 얻을 수 있었어요. 이후 이 방식이 몽골인들에게 전파됐고, 훗날 몽골 제국이 정복 전쟁을 벌이며 유럽까지 진출하면서 채소 절임도 유럽에 퍼졌답니다. 독일 지역 사람들은 16세기부터 양배추를 발효시켜 먹었고, 17세기부터는 사워크라우트라는 이름으로 식탁에 올렸대요.&lt;br&gt;&lt;br&gt;발효 음식인 사워크라우트는 뱃사람들의 건강을 책임지기도 했어요. 중세 유럽에선 15세기부터 ‘대항해시대’가 시작되며 많은 국가가 먼바다로 항해를 떠나는데요, 장기간 항해를 하다 보면 비타민 C를 제대로 섭취하지 못해 괴혈병에 걸리는 사람이 많았대요. 잇몸 출혈과 혈변, 심하게는 사지 마비 증세까지 일어나며 목숨을 잃는 선원들도 있었다고 합니다.&lt;br&gt;&lt;br&gt;그러던 중 18세기 영국의 의사 제임스 린드는 유독 독일 출신 선원들이 괴혈병에 잘 걸리지 않는다는 점에 주목합니다. 독일 선원들이 사워크라우트를 즐겨 먹는 것을 본 그는 선원들에게 사워크라우트와 감귤류 주스를 지급해야 한다는 논문을 발표했어요. 이후 영국의 탐험가 제임스 쿡은 항해를 떠날 때 사워크라우트를 꼭 챙겼는데, 덕분에 괴혈병으로 사망하는 경우는 없었다고 합니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 11월 19일</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/19/EMUIFL7QFNEQBMZEK5XOPOZRJQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/19/EMUIFL7QFNEQBMZEK5XOPOZRJQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6ML3X7O3L5FHNE3KXF5PFPS2KM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재미있는 과학] 1초에 10m 가는 공룡 ‘랩터’, 앞발로 날갯짓하며 달렸대요</title>
-      <link>https://www.chosun.com/national/nie/2024/11/19/O6SOHWOUSRH7PA7JSICUL5SHYE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/11/19/O6SOHWOUSRH7PA7JSICUL5SHYE/</guid>
-      <dc:creator>이윤선 과학 칼럼니스트, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 15:30:00 +0000</pubDate>
-      <content:encoded>지난달 경남 거제시 해안가에서 스테고사우루스 공룡의 발자국이 발견됐어요. 스테고사우루스는 약 1억5000만년 전인 쥐라기 후기에 살았던 초식 공룡으로, 오늘날 북아메리카에 주로 살았던 것으로 알려진 공룡이에요. 우리나라에서 이 공룡의 화석이 발견된 것은 이번이 처음이에요. 다른 초식 공룡인 하드로사우루스류로 추정되는 공룡 발자국도 함께 발견됐죠.&lt;br&gt;&lt;br&gt;티라노사우루스, 브라키오사우루스, 트리케라톱스···. 책에서만 보던 공룡들의 실제 모습은 어떨까요? 과학자들은 이 궁금증을 해결하기 위해 화석을 찾아 연구합니다. 공룡과 관련된 모든 증거는 공룡 시대를 이해하는 중요한 단서가 되죠. 최근엔 우리나라에서 발견된 공룡 발자국 화석을 통해 공룡에 대한 새로운 사실들도 밝혀지고 있다고 해요. 오늘은 한반도에 남겨진 공룡의 흔적들을 알아볼게요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C2MFG2DKDZBERNQDDW3TOGSXHE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=유재일&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;우리나라 최초 스테고사우루스 발자국 발견&lt;/b&gt;&lt;br&gt;&lt;br&gt;공룡이 활동하며 땅에 남긴 발자국을 ‘흔적 화석’이라고 해요. 공룡이 진흙을 걸어가면서 찍힌 발자국이 화석이 돼 발견되는 거죠. 발자국 크기와 모양을 통해 공룡이 얼마나 컸는지, 신체적으론 어떤 특징을 갖고 있었는지 알 수 있지요. 발자국 화석 여러 개가 한 줄로 이어진 경우가 있는데, 이건 공룡이 걸은 흔적이 그대로 화석으로 남은 거예요. 이를 ‘보행렬’이라고 해요. 발자국 사이 간격이 얼마나 떨어져 있는지 재보면 공룡의 크기와 걷는 모습도 추측해볼 수 있답니다. 오늘날 공룡 이미지는 모두 공룡의 뼈와 발자국 화석을 바탕으로 추측해 재현한 거예요.&lt;br&gt;&lt;br&gt;이번에 공룡 화석이 발견된 거제 해안가에는 찰흙을 손가락으로 누른 듯 움푹 들어간 발자국 모양 13개가 있었어요. 공룡이 이곳을 걸으며 남긴 보행렬이었습니다. 김경수 진주교대 교수 연구팀은 이 발자국 화석의 주인이 스테고사우루스라고 봤어요. 발자국 일부는 역삼각형, 일부는 반달 모양으로 스테고사우루스의 특징과 일치했거든요. 또 뒷발이 앞발보다 두 배 이상 크고, 앞발 발톱이 5개, 뒷발 발톱은 3개라는 점도 결정적인 단서가 됐습니다.&lt;br&gt;&lt;br&gt;스테고사우루스는 몸길이 9m, 무게는 2~5t 정도로 매우 커요. 가장 큰 특징은 골판이에요. 부채 모양의 단단한 골판이 두 개씩 한 쌍을 이뤄 머리부터 꼬리까지 등 전체에 나 있어요. 꼬리 끝에는 이쑤시개처럼 끝이 뾰족한 골침이 하늘을 향해 나 있죠. 과학자들은 골판과 골침이 다른 공룡들로부터 몸을 보호하는 데 중요한 역할을 했을 거라고 해요.&lt;br&gt;&lt;br&gt;그동안 스테고사우루스의 화석은 주로 북미나 유럽에서 발견됐어요. 우리나라에서 발견된 건 이번이 처음이라고 해요. 특히 발바닥의 족문이 보일 정도로 매우 선명한 상태로 보존돼 세계적으로도 가치 있는 화석으로 평가받고 있지요.&lt;br&gt;&lt;br&gt;스테고사우루스를 비롯한 ‘검룡류’ 공룡은 원래 약 1억4500만년 전부터 6600만년 전까지 시기인 ‘백악기’ 초기까지만 살았을 것으로 추정됐어요. 스테고사우루스처럼 등쪽에 큰 골판이 있는 공룡들을 검룡류라고 한답니다. 그런데 이번에 스테고사우루스 발자국이 발견된 지층은 백악기 후기에 만들어진 퇴적층이에요. 아직은 추정 단계지만, 검룡류의 활동 시기가 더 길었다는 것을 입증할 수 있는 거예요.&lt;br&gt;&lt;br&gt;연구팀은 이번에 발견된 발자국 화석의 주인공이 새로운 종류의 스테고사우루스일 수 있다는 가능성도 제기했어요. 핵심은 걸음걸이예요. 기존에 밝혀진 스테고사우루스는 앞발과 뒷발 발자국이 다른 곳에 찍히는 반면, 이번에 발견된 발자국은 앞뒷발의 발자국이 서로 겹쳐서 나타나기 때문이에요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7YDFTNJGMRAFHNLTSXEUT62HZM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=유재일&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;공룡이 새의 조상이라는 근거도 나와&lt;/b&gt;&lt;br&gt;&lt;br&gt;최근엔 공룡이 새의 조상이라는 주장을 뒷받침하는 연구 결과도 나왔어요. 2010년 진주층에서 발견된 공룡 화석을 연구해 얻은 결과랍니다. 진주층은 경남 진주시를 지나는 지층으로, 1억1000만년 전 백악기 시대에 형성된 것으로 알려져 있어요. 그래서 그 시기에 살았던 공룡들의 화석이 많이 발견된답니다. 진주교대가 포함된 국제 공동 연구팀은 이 진주층에 주목했어요.&lt;br&gt;&lt;br&gt;당시 발견된 공룡 발자국 화석은 ‘랩터’의 보행렬 화석이었어요. 랩터는 몸집은 매우 작지만 무리지어 다니며 다른 공룡을 사냥하는 육식공룡이에요. 랩터 발자국은 길이 1cm, 폭 0.4cm였는데, 발자국 크기로 봤을 때 참새 크기의 공룡으로 추정됐지요. 이 랩터는 지금까지 세상에 밝혀진 랩터 중 가장 작아요.&lt;br&gt;&lt;br&gt;랩터의 발자국 화석은 간격이 매우 넓은 것이 특징이었어요. 발자국 길이는 1cm인데, 발자국 사이 간격은 56cm나 됐거든요. 발바닥보다 50배 이상 긴 거리를 한 번에 디딘 거예요. 이를 근거로 속도를 계산해봤더니, 1초에 10.5m를 달리는 것으로 나타났어요. 랩터가 이렇게 빨리 움직일 수 있었던 이유에 대해 과학자들은 랩터가 새처럼 앞발로 날갯짓을 했기 때문이라고 분석했어요. 살짝 날아오른 채로 달려서 원래 디딜 수 있는 보폭보다 더 멀리 달렸다는 것이죠.&lt;br&gt;&lt;br&gt;과학자들은 그동안 공룡이 새의 조상이라고 봤어요. 하지만 공룡과 새 사이 연결고리를 확실하게 증명할 화석이 부족했지요. 이번에 발견한 발자국 화석은 두 발로 땅 위를 걷는 공룡이 비행 능력을 갖췄다는 것을 말해줍니다. 이 때문에 ‘조류 비행의 기원’을 보여주는 세계 최초의 보행렬이 된 거죠.&lt;br&gt;&lt;br&gt;&lt;b&gt;다양한 공룡 살았던 백악기 한반도&lt;/b&gt;&lt;br&gt;&lt;br&gt;이처럼 우리나라 남쪽 지역에선 공룡 발자국 화석이 많이 발견돼요. 전남 해남군 우항리에선 익룡 발자국이 발견됐고, 전남 보성군에선 백악기에 한반도에 살았던 ‘토종 공룡’ 코리아노사우루스 화석이 발견됐죠.&lt;br&gt;&lt;br&gt;이번에 스테고사우루스가 발견된 거제 지역에서도 여러 종류의 공룡 발자국 화석이 함께 발견됐지요. 발자국 크기가 20cm부터 40cm까지 다양해요. 과학자들이 분석한 결과 몸집이 크고 목이 기다란 용각류 공룡과 익룡, 그리고 거북 발자국도 있었어요. 백악기 시대 한반도 지역에 다양한 생물이 살았다는 것을 알 수 있답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/ARJ5K3KRA5HGTKQSYFJI3OSD4Y.png?width=1200&amp;height=675&amp;auth=c37a1f108b393bcbc638d957e3d728d1847a8128ed1ef3d3eb2e6702c1984dd9&amp;smart=true" type="image/png" height="675" width="1200">
-        <media:description type="plain">그래픽=유재일</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>[신문은 선생님] [철학·인문학 이야기] ‘비교 지옥’이란 병에 걸린 현대 사회… 스마트폰 놓는 디지털 디톡스 필요해</title>
-      <link>https://www.chosun.com/national/nie/2024/11/19/IK4JILTTH5AWVDPCZW5LAYEF2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/11/19/IK4JILTTH5AWVDPCZW5LAYEF2Q/</guid>
-      <dc:creator>안광복 중동고 철학 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ATBMMBODZBF7RKBTAVLNGE3HFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경제학자 프리드리히 하이에크는 경쟁을 강조했어요. 기업들이 서로 이기려고 활발하게 움직일 때 경제가 살아나며 소비자에게도 이익을 안긴다는 거예요. 상품의 품질이 좋아지고 가격도 내려갈 테니까요. 그가 1948년에 쓴 저서 ‘개인주의와 경제질서’에 나오는 말입니다.&lt;br&gt;&lt;br&gt;하지만 치열한 사회에서 사는 사람들은 어떨까요? 항상 불안과 초조함에 휩싸여 있기 마련입니다. 뒤처져서 잊힐지 모른다는 두려움, 즉 FOMO(Fear Of Missing Out)가 머리에서 떠날 날이 없어요. 우리가 누리는 풍요에는 역설적인 측면이 있습니다. 풍족하게 누리고 편리해지기 위해 개인은 안절부절못하며 쫓기듯 살아야 한다는 겁니다. 그래서 스위스 출신 철학자 알랭 드 보통은 ‘현대 사회 생존법’이라는 책에서 현대 사회를 일종의 ‘질병’이라 불러요. 치열한 생존 경쟁이 일상인 상황에서는 누구도 행복하기 어렵기 때문입니다.&lt;br&gt;&lt;br&gt;알랭 드 보통은 ‘현대 사회라는 병’에서 벗어나기 위한 철학적 처방을 내립니다. 먼저, 그는 지금 사람들이 얼마나 압박감을 느끼는지를 물음 두 개로 짚어냅니다. “무슨 일을 하세요?” 우리가 누군가를 처음 만날 때 흔히 던지는 질문입니다. 하지만 옛날에는 “어디서 오셨어요?”라는 질문이 더 많았다고 해요. 직업보다는 어디 출신인지에 더 관심이 많았다는 뜻입니다. 내가 어디서 태어났는지는 나의 업적이나 잘못이 아니지요. 반면, ‘무슨 일을 하는지’에 대한 답변에는 내가 성공적으로 이력을 쌓으며 사회생활을 하고 있는지가 녹아 있습니다. 은연중에 상대방의 ‘경쟁력’을 가늠하는 꼴이지요. 그만큼 현대인들은 다른 이들이 자기를 어떻게 평가하는지에 늘 예민합니다.&lt;br&gt;&lt;br&gt;17세기 프랑스의 양치기는 루이 14세 왕과 자신의 처지를 견주며 한숨 쉬지는 않았습니다. 신분도 다를뿐더러, 왕의 일상을 접할 기회도 없었기 때문이에요. 현대인들은 어떤가요? 소셜 미디어나 여러 매체에선 끊임없이 잘나가는 이들, 엄청난 부자들, 화려한 인맥을 자랑하는 인플루언서의 삶을 보여줍니다. 이럴수록 사람들은 ‘비교 지옥’에 빠지고 말아요.&lt;br&gt;&lt;br&gt;그렇다면 현대 사회라는 질병에서 벗어나려면 어떻게 해야 할까요? 알랭 드 보통은 ‘디지털 디톡스’를 권합니다. 적게 듣고 보아야 합니다. 스마트폰을 내려놓고 공원을 거닐어 보세요. 마주치는 반려동물들과 날아가는 새들은 나의 지위가 높은지, 돈이 많은지 적은지에 전혀 관심이 없어요. 우주와 자연의 관점에서 보면, 인간이 벌이는 모든 경쟁은 하찮기만 합니다. 어렸을 때는 사탕 한 알을 갖기 위해 애를 쓰지만, 어른에게는 아무것도 아니잖아요?&lt;br&gt;&lt;br&gt;자연과 인간의 역사라는 큰 눈으로 볼 때 우리 인생도 그렇습니다. 더 많이 누리며 부러움을 받는 일상이 곧 ‘좋은 삶’은 아닙니다. 풍요롭고 편안하면서도 너그럽고 행복하게 살려면 어떻게 해야 할까요? ‘현대 사회 생존법’은 다양한 철학 처방전을 들려줍니다. 꼼꼼히 살펴보시기 바랍니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>4호선 동대문역 에스컬레이터 화재...인명피해 없어</title>
       <link>https://www.chosun.com/national/national_general/2024/11/18/H42FINSXBZCUHH6XIXXLKTCDRI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/18/H42FINSXBZCUHH6XIXXLKTCDRI/</guid>
@@ -898,46 +949,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LUJZY3JO77SZY72IHZDLYFKQ7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4호선 동대문역 승강장. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지하철이 4호선 동대문역을 무정차 통과 중이다.&lt;br&gt;&lt;br&gt;소방과 서울교통공사에 따르면 18일 오후 9시 43분쯤 서울 종로구 지하철 4호선 동대문역 9호선 출구로 올라가는 에스컬레이터에서 불이 났다.&lt;br&gt;&lt;br&gt;소방당국에 따르면 이 화재로 인한 인명피해는 없었고, 소방당국은 오후 10시 5분쯤 초진한 뒤 화재 발발 약 1시간 만인 오후 10시 46분에 불길을 완전히 잡았다.&lt;br&gt;&lt;br&gt;서울교통공사는 해당 에스컬레이터에서만 불이 났지만 화재 및 연기 흡입 피해 확산을 우려해 열차가 동대문역을 무정차 통과 조치했다고 밝혔다.&lt;br&gt;&lt;br&gt;소방당국은 정확한 화재 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>檢, ’200억원대 횡령’ 혐의 홍원식 전 남양유업 회장 피의자 조사</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/18/LZFD5YT32ZFP7ON6URJFRIJKLE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/18/LZFD5YT32ZFP7ON6URJFRIJKLE/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 13:55:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F6CC2JRFIPQHOKNTSEW4QZJT4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구에 위치한 남양유업 본사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 회삿돈 200억원을 빼돌린 혐의를 받는 홍원식 전 남양유업 회장을 18일 피의자 신분으로 불러 조사했다.&lt;br&gt;&lt;br&gt;법조계에 따르면 서울중앙지검 공정거래조사부(부장 김용식)는 이날 홍 전 회장을 상대로 남양유업 법인 자금의 비정상적인 흐름과 이에 대한 경위 및 의사결정 과정 등을 확인한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;남양유업은 법인 자기자본 2.97%에 달하는 201억여 원을 횡령한 혐의로 지난 9월 홍 전 회장과 전직 임직원 3명을 고소했다. 남양유업 우유 등을 중국에 수출하는 과정에서 홍 전 회장이 일부 자금을 다른 법인으로 빼돌렸다는 것이었다. 검찰은 지난 8월 말 이광범·이원구 전 남양유업 대표를 참고인 신분으로 불러 조사했고, 지난달 7일에는 홍 전 회장의 주거지와 남양유업 본사 사무실 등 10여 곳을 압수수색했다. &lt;br&gt;&lt;br&gt;남양유업은 1964년 설립됐다. 고 홍두영 남양유업 창업주의 장남인 홍 전 회장은 잇단 악재가 계속되자 2021년 5월 경영 일선에서 물러나 회사 지분을 사모펀드에 매각하겠다고 밝혔다. 그러나 ‘사주 일가 처우 보장’ 등 일부 계약 세칙이 지켜지지 않았다며 계약 무효를 주장했고, 사모펀드 ‘한앤코’는 홍 전 회장과 그의 가족을 상대로 주식양도 소송을 제기했다. 대법원이 올 1월 한앤코의 손을 들어주면서 남양유업의 60년 오너 경영 체제가 끝나고 한앤코가 최대 주주가 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>불법주정차 단속하자 “구청장 車 모르냐”… 부산 중구청장 검찰 송치</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/11/18/VWCPZO5N4FAS3HO4OS5GSMOCOA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/11/18/VWCPZO5N4FAS3HO4OS5GSMOCOA/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 13:32:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F2BZSKSELJ5TFCYBVVQQNY5RTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 중구 중앙동 부산중부경찰서 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 중구청장이 자기 개인 차량이 불법주정차 단속에 적발되지 않도록 공무원에게 지시한 혐의로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;부산 중부경찰서는 “지난 9월 직권남용 권리행사 방해 혐의로 최진봉 중구청장을 불구속 송치했다”고 18일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 최 청장은 지난 2021년 5월 자신의 차량에 대해 불법주정차를 단속한 공무원에게 ‘구청장 차량을 모르냐’는 취지로 이야기해 주차단속을 방해한 혐의를 받고 있다. 다만 단속에서 자신의 차량을 빼달라는 직접적인 언급은 하지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “불법주정차에 단속된 최 청장이 공무원에게 연락해 이야기한 것은 단속에서 제외해 달라는 취지로 해석돼 최 청장을 불구속 송치했다”며 “당사자가 혐의 내용 관련 사실을 부인하고 있어 자세한 사실 관계에 대해 알려줄 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;최 청장 측은 이에 대해 “코로나 당시 지역 경제 활성화를 위해 통행에 차질을 빚지 않을 경우 차량을 단속하지 말라고 지시하는 과정에서 발생한 일”이라며 “그런 상황에서 차량을 단속한다는 민원이 들어왔고 이에 해당 공무원에게 ‘이러다 구청장 차량도 단속하겠다’는 취지로 말한 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“아이 키우기 힘들다” 생후 7개월 쌍둥이 딸 살해한 비정한 엄마</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/18/OT6AYXDUGNBDHO552X3H62RBRM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/18/OT6AYXDUGNBDHO552X3H62RBRM/</guid>
-      <dc:creator>여수=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 12:37:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/75WXG5TAWJUA7GALOFZGUSF2HI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 여수경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;육아가 힘들다는 이유로 쌍둥이 딸을 살해한 40대 여성이 경찰에 자수했다. 전남 여수경찰서는 18일 생후 7개월된 두 딸을 살해한 혐의(살인)로 A씨를 긴급 체포해 조사 중이다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 이날 오전 8시30분쯤 여수시 웅천동 자택에서 쌍둥이 여아를 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 남편이 출근한 사이 범행한 것으로 조사됐다. A씨는 경찰 조사에서 “육아 스트레스를 받아 범행을 저질렀다”고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;그는 범행 4시간여 후인 이날 낮 12시 40분쯤 택시를 타고 자신의 자택에서 약 30㎞ 떨어진 전남 여수시 화정동 낭도로 이동한 뒤 경찰에 전화를 걸어 자수했다.&lt;br&gt;&lt;br&gt;경찰은 두 딸이 질식사한 것으로 추정하고 정확한 사인을 밝히기 위해 국립과학수사연구원에 부검을 의뢰해 A씨에 대해 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;경찰은 숨진 영아에 대한 부검을 통해 정확한 사인을 밝히는 한편 남편에 대한 책임 소재에 대해서도 조사한다는 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/75WXG5TAWJUA7GALOFZGUSF2HI.jpg?width=3456&amp;height=2304&amp;auth=a71bb547a0d9a212907496cfbaabd8d6caed05c624b4a32484cd840ca415d1bd&amp;smart=true" type="image/jpeg" height="2304" width="3456">
-        <media:description type="plain">전남 여수경찰서 전경./뉴스1 ⓒ News1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>[단독] 낙엽도 재활용? 과도한 재활용 정책에 서울시 ‘위장 재활용’ 12만t</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/11/18/M5YXBS4CBVHUPG4V7QBOVO4BMA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/11/18/M5YXBS4CBVHUPG4V7QBOVO4BMA/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 12:35:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CBXUTA5OL5LJTL6VDKW4WACY5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11일 경기도 수원시 영통구 매탄3동 가로수길에서 환경관리원들이 전동 송풍기를 이용해 수북히 쌓인 낙엽을 청소하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올 1월 서울 영등포구는 낙엽 쓰레기 처리를 한 재활용 업체에 맡겼다. 5t 트럭 80대 분량인 400t으로 처리 비용만 5500만원을 썼다. 낙엽은 태우거나 묻어야 한다. 일부 퇴비로 쓰이기도 하지만 이 경우 퇴비 업체가 되레 돈을 내거나 무상으로 가져간다. 사실상 재활용이 안 되는 낙엽으로 영등포구는 재활용 실적을 인정받았다. 소각·매립 대신 재활용 업체로 일단 쓰레기를 넘기기만 하면 재활용 100%로 통계가 잡히는 허점 때문이다.&lt;br&gt;&lt;br&gt;18일 국민의힘 임이자 의원이 최근 3년간 서울 25개 구의 이 같은 ‘위장 재활용’을 분석한 결과 10곳(40%)에서 재활용률이 뻥튀기 된 것으로 나타났다. 2021년 4만7083t, 2022년 3만2727t, 작년에는 3만9404t으로 약 11만9000t에 이른다. 이 중 실제 얼마나 재활용됐는지는 환경부가 집계하고 있지 않아 알 수 없다.&lt;br&gt;&lt;br&gt;국내 쓰레기 처리 과정은 분리 배출을 우선 하고, 재활용이 어려운 각종 쓰레기는 소각·매립하도록 하고 있다. 그런데 과도한 ‘재활용 우선 정책’으로 소각·매립해야 할 쓰레기까지 재활용 업체로 넘어가 실적이 부풀려지는 문제가 생기고 있다. 애초 재활용이 가능한 쓰레기가 아니기 때문에 실제 재활용으로 이어지는 양은 극히 일부다. 그런데도 환경부가 재활용 통계를 촘촘하게 집계하지 않으면서 이런 허점을 노린 위장 재활용이 늘어나고 있다는 지적이다.&lt;br&gt;&lt;br&gt;이런 방법을 쓰면 쓰레기를 소각·매립할 때 부과되는 세금도 우회해 피할 수 있다. 환경부는 2018년부터 지자체나 사업장이 쓰레기를 소각·매립할 때 1t당 1만원가량의 ‘폐기물 처분 부담금’을 매기고 있다. 부담금을 매겨 소각·매립 대신 재활용을 늘리겠다는 것이 이 법의 취지다. 그러나 유통 과정만 바꾸면 재활용한 것처럼 둔갑하면서 부담금을 피할 수 있게 된다. 지난 3년간 세수로 걷혀야 했던 12억원가량의 세금이 새나간 셈이다.&lt;br&gt;&lt;br&gt;지자체도 이 같은 위장 재활용을 문제로 인식하고 있다. 울산시는 최근 사업장이 재활용 업체로 보낸 쓰레기가 실제로는 재활용되지 않고 처리 비용이 싼 소각장 등에서 처리된 불법을 확인하고 환경부에 근절 대책 마련을 요청했다. 환경부는 “재활용률 과다 산정 오류를 개선하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>법원 “체류 목적 아닌 ‘진정한 난민’에 집중할 수 있도록 제도 개선해야”</title>
       <link>https://www.chosun.com/national/court_law/2024/11/18/BIATTY5LQVFJLI5OYPHNHLECZY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/18/BIATTY5LQVFJLI5OYPHNHLECZY/</guid>
@@ -945,24 +956,6 @@
       <description/>
       <pubDate>Mon, 18 Nov 2024 11:03:04 +0000</pubDate>
       <content:encoded>서울행정법원은 18일 오후 법원 청사 청연재에서 ‘난민재판의 현황과 개선 방향’을 주제로 열린 강좌를 개최했다. 현행 난민재판의 문제와 애로사항을 공유하고 개선방안을 마련하자는 취지다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I7DPX6EZLBLG5BRCICSKVRHWM4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 3월 서울 서초구 중앙지방법원 앞에서 열린 '난민지침 정보공개청구소송 2심 선고 기자회견'에서 참가자들이 손팻말을 들고 있다. 사진은 기사 내용과 관련 없음. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정법원이 난민재판의 소송 대리인·수행자 등을 한 자리에 초청한 것은 2013년 개원 15주년 기념행사 이후 처음이다. 이날 행사에는 난민재판을 담당하는 판사, 변호사, 소송수행자 등 50여명이 참석했다.&lt;br&gt;&lt;br&gt;행정법원은 세금 부과나 산업재해 인정 등 정부의 행정처분이 정당한지를 다투는 곳이다. 법무부의 ‘난민불인정 결정’에 불복하며 난민으로 인정해달라고 주장하는 외국인들도 행정법원에 소송을 낸다.&lt;br&gt;&lt;br&gt;난민재판실무연구회 회장 김영민 서울행정법원 부장판사는 이날 “체류 연장만을 위한 목적으로 하는 것이 아니라 진정한 이유로 난민 신청을 한 이들에 대한 집중적 심리를 할 수 있도록 제도를 개선해야 한다”고 했다.&lt;br&gt;&lt;br&gt;작년 전국 법원에 접수된 행정 사건 3만2663건 중 난민 사건은 6296건(19.3%)이다. 1심 행정 사건 중 난민 사건이 차지하는 비율은 13.4%지만 2심에선 26.2%, 3심에선 41.8%에 달한다. 즉, 판결에 수긍하기보다는 상소(上訴)를 통해 법원의 판단을 다시 받는 경우가 많다.&lt;br&gt;&lt;br&gt;문제는 한국에 머무르기 위해 소송을 남용하는 불법 체류 외국인들이 적지 않다는 것이다. 난민 소송을 3심까지 진행하는 동안에는 ‘난민 신청자’ 자격으로 국내에 체류할 수 있어, 난민 소송을 일종의 체류 수단으로 악용하는 셈이다. 일부는 패소 판결이 확정되더라도 또다시 난민 신청을 하며 수년 간 ‘버티기’에 나서기도 한다.&lt;br&gt;&lt;br&gt;김 부장판사는 “진정 난민으로 인정받고 권리를 구제받기 위해 상소하는 경우도 있지만, 원심 때와 청구 사유를 똑같이 내는 등 체류 연장을 위한 수단으로 소송하는 이들도 분명 많다”며 “난민재판 남용하는 사람들을 가려낼 수 있는 방법이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;서울행정법원 허준기 판사는 “현재는 난민 신청을 한 원고가 2회 이상 재판에 불출석하는 경우 재판부가 바로 선고기일을 정할 수 있는데, 난민 신청에 상당한 이유가 없다고 판단되면 1회 불출석 만으로도 선고하도록 하는 등 효율적인 제도가 필요하다”는 의견을 냈다.&lt;br&gt;&lt;br&gt;한편 난민 신청자를 대리하는 변호인들은 “법원이 선입견 없이 엄정하게 판단해야 한다”고 했다. 공익법센터 어필의 이일 변호사는 “난민 재판의 입증 책임은 원고(외국인) 본인에게 있지만, 이들 중 90%는 변호사를 구하지 못하고 홀로 소송을 진행한다”며 “정말 난민의 사유가 있더라도 언어·법률 지식의 한계에 마주하는 경우가 많다”고 했다. 이에 난민 신청자도 ‘국선변호인’을 이용할 수 있도록 하는 등 제도 개선이 필요하다고 했다.&lt;br&gt;&lt;br&gt;양측 모두 난민재판에서의 통·번역 문제를 지적했다. 김 부장판사는 “영어 외 특수 언어는 특히나 통역인을 구하기 어려워 기일이 밀리기도 한다”며 “난민재판이 특정 요일에 몰려서 난감하다는 변호인, 소송 당사자의 사정을 알고 있지만 통역인과 일정을 맞추기 위해 어쩔 수 없이 하루에 재판을 몰아 하기도 한다”고 했다.&lt;br&gt;&lt;br&gt;토론에 참여한 한 인권 변호사도 “법원 홈페이지 일부 서비스는 한국어로만 제공이 돼 접근성에 한계가 있다”며 “판결문을 한글 외 다른 언어로 번역해 볼 수 있는 제도도 확대가 필요하다”고 했다.&lt;br&gt;&lt;br&gt;법원 관계자는 “난민으로 인정된 자가 우리나라에서 범죄를 저지르면 본국으로 강제 추방이 어려운 게 현실”이라면서도 “일부 사례들로 선의의 난민 신청인에게 피해가 돌아가지 않도록 신중해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>재판 지연 원인 ‘김명수표 법원장 후보 추천제’ 5년 만에 폐지</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/18/FALRGWKWFVE35AXKANBLZXKPH4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/18/FALRGWKWFVE35AXKANBLZXKPH4/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 17 Nov 2024 20:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NHEQVWTMCW2CMXABO2PLBEGLME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 내년 초 정기 인사에서 직전 김명수 대법원 체제에서 시행된 ‘법원장 후보 추천제’를 사실상 폐지한다고 18일 밝혔다. 이 제도는 김명수 전 대법원장이 도입했는데, 그동안 ‘재판 지연’의 한 원인으로 꼽혀왔다. 대법원은 각 법원 소속 판사들이 해당 법원장 후보를 추천하는 절차를 없애고, 고등법원 부장판사(현재 66명)도 지방법원장에 보임할 수 있도록 인사 범위를 넓히겠다는 것이다.&lt;br&gt;&lt;br&gt;천대엽 법원행정처장은 이날 법원 내부망에 “2019년부터 5년 동안 소속 법관의 천거 및 투표를 통해 법원장 후보를 추천하는 제도가 시행됐는데, 좋은 취지에도 불구하고 대내외적으로 여러 문제와 부작용이 지적되는 등 논란이 계속됐다”면서 “2025년 법관 정기 인사를 앞두고 전국 법관 대상 설문조사 등을 통해 새롭게 마련된 법원장 보임 절차에 대해 안내한다”고 공지했다.&lt;br&gt;&lt;br&gt;핵심 변화는 크게 두 가지다. 기존 법원장 후보 추천제는 각 법원마다 소속 판사들이 투표를 통해 법원장 후보를 복수로 선출하면 대법원장이 한 명을 법원장으로 임명하는 방식으로 운영됐다. 법관들의 지지를 받아야 하다 보니 ‘인기투표’라는 지적이 끊이지 않았다. 법원장이 된 사람은 자신을 뽑아준 후배들 눈치를 보느라 지시도 제대로 못한다는 얘기도 나왔다.&lt;br&gt;&lt;br&gt;이에 대해 대법원은 법원별 투표를 없애고, 판사·법원 공무원 등 모든 사법부 구성원들로부터 전체 법원장 후보군을 추천받는 식으로 바꾸겠다고 한다. 누구든 추천만 받으면 법관인사위원회에서 능력과 자질 등을 검토해 법원장으로 임명하겠다는 것이다.&lt;br&gt;&lt;br&gt;이에 따라 고등법원 부장판사도 다시 지방법원장이 될 수 있는 길이 열렸다. 과거에는 고등법원 부장판사 중에서 지방법원장을 임명했는데, 김명수 전 대법원장은 재임 시절 지방법원과 고등법원의 인사 시스템을 이원화한 것이다. 그렇다 보니 고법 부장판사들의 의욕을 잃게 만들었다는 비판이 나왔다. 천 행정처장은 “원칙적으로 지방법원장은 지방법원 법관 중 보임하되, 제한된 범위에서 일부 지방법원장은 고법 부장판사가 보임될 수 있도록 길을 열어둬 새로운 법원장 보임 제도가 정착될 여건을 마련할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“당신을 믿어 의심치 않아”…주가조작 무혐의 임창정 근황 공개한 아내</title>
-      <link>https://www.chosun.com/national/people/2024/11/18/7LITPXLOPNG2DCKDYB3WTXGURQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/18/7LITPXLOPNG2DCKDYB3WTXGURQ/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Nov 2024 00:20:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5GGCL6K7FD4NOHX77RF2ZESFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 겸 배우 임창정./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 겸 배우 임창정의 아내 서하얀씨가 SG(소시에테제네랄)증권발 주가 하락 사태 연루 의혹을 받았다 무혐의 불기소 처분을 받은 남편의 근황을 공개했다.&lt;br&gt;&lt;br&gt;서씨는 17일 자신의 인스타그램에 “무한히 남은 당신의 여백을 믿어 의심치 않아. 서툴지만 직접 담아본 피아노 연습 영상”이라는 글과 함께 영상을 올렸다. 서씨는 지난 1월 올린 게시물을 마지막으로 SNS 활동을 중단했었다.&lt;br&gt;&lt;br&gt;영상에는 피아노 앞에 앉아 직접 연주하며 신곡 ‘일어날 일들은 일어나는 거고’를 부르는 임창정의 모습이 담겼다.&lt;br&gt;&lt;br&gt;임창정은 작년 4월 주가조작 세력으로 지목된 투자 컨설팅 업체에 연루됐다는 의혹을 받아 시세 조종에 가담한 피의자 신분으로 검찰 조사를 받았다.&lt;br&gt;&lt;br&gt;그는 SG증권발 주가 하락 사태의 핵심 인물인 라덕연씨에게 30억원을 투자한 것으로 드러났다. 이 과정에서 시세 조종 조직원 모임과 투자자 모임 등에 참석해 라 대표를 치켜세우는 발언을 한 동영상이 공개되기도 했다.&lt;br&gt;&lt;br&gt;그러나 검찰 조사 결과 임창정이 라덕연씨로부터 투자수익금이나 투자유치 대가를 받은 사실이 없는 것으로 나타났다. 검찰은 지난 4월 임창정을 무혐의 불기소 처분했다.&lt;br&gt;&lt;br&gt;이와 관련해 임창정은 SNS에 “법적인 처벌은 받지 않는다 하더라도 그것이 어찌 저의 부끄러웠던 행동을 다 가릴 수 있겠나. 이 모든 일들을 절대 잊지 않고 평생 반성 또 반성하며 살도록 하겠다. 지켜봐 달라. 다시 한번 진심으로 사죄드린다”고 했다.&lt;br&gt;&lt;br&gt;활동을 중단했던 임창정은 복귀 준비중이다. 오는 12월 18번째 정규앨범 발매를 앞둔 임창정은 지난 1일 선공개 곡 ‘일어날 일들은 일어나는 거고’를 발표했다.&lt;br&gt;&lt;br&gt;이 곡은 우연이 겹쳐 인연이 된 사람들, 그 인연들의 만남과 헤어짐을 담은 감성적인 곡으로 임창정은 “누구에게나 공감을 일으키는 노래로 감동을 주고 싶다”라는 바람을 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
