@@ -13,6 +13,28 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>진시몬 “막내아들 최근 심장마비로 떠나…마지막 가는 모습도 못봤다”</title>
+      <link>https://www.chosun.com/national/people/2024/11/21/HYTQTBHEOVALZHEORWM3WL6AZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/21/HYTQTBHEOVALZHEORWM3WL6AZM/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Nov 2024 22:37:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NJMVSG2A3JAGBDXD5W3GPYEPNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 진시몬./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 진시몬이 최근 막내아들이 심장마비로 세상을 떠났다고 밝혔다.&lt;br&gt;&lt;br&gt;20일 유튜브 채널 ‘배짱이 엔터테인먼트’에는 진시몬이 출연한 영상이 올라왔다.&lt;br&gt;&lt;br&gt;영상에서 진시몬은 “막내아들이 죽었다. 아이가 가고 나서 장례 치른 후 (녹화일 기준) 49재도 치르기 전”이라며 눈물을 글썽였다.&lt;br&gt;&lt;br&gt;아들의 사망 원인에 대해서는 “막내아들이 외국에서 혼자 살았다. 혼자 있다가 심장마비가 왔는데 너무 늦게 발견했다”며 “새벽 비행기를 타고 응급실에 갔을 때는 이미 세상을 떠난 상태였다. 그래서 가는 모습을 못 봤다. 손잡고 마지막 이야기도 못해서 너무 미안하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HH3QNZWSHBGPLBTDHLDVI7BRMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 진시몬./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;진시몬은 “너무 예쁜 아들이었다. 내가 돈을 버니까 아이를 같이 키우지 못했다. 아이가 할머니 손에서 자랐다”며 “나중에 노래가 조금 잘 되고 돈을 벌게 되면서 전세방을 잡고 아들을 키웠다”고 했다.&lt;br&gt;&lt;br&gt;이어 “그러다 유학을 가서 뒷바라지를 했다. 아내가 큰아들, 막내아들 데리고 어릴 때 가서 필리핀 유학생활을 오래했다. 아이들이 원해서였다”며 “(아들이) 적응해서 사회생활을 하고 있었다. 틈틈이 전화하고 문자를 주고 받았다. 나도 가봤는데 잘 되고 있어서 걱정이 없었다”고 했다.&lt;br&gt;&lt;br&gt;진시몬은 “아들이 옷을 디자인해 만들어 거기서 성공했다. 아파트를 샀다고 하더라. 26세인데 믿기지 않았다”며 “가봤더니 어린 아들이 자기 차도 있고 직원들도 있더라. 나한테도 ‘아빠 내가 나중에 차 사줄게’라고 했었다”고 떠올렸다.&lt;br&gt;&lt;br&gt;그러면서 “전화해서 잘 있다고 하면 그 말을 믿었다. 외로운 건 없는지 물어보고 대화를 했어야 하는데 그러지 못해 너무 미안하다”고 했다.&lt;br&gt;&lt;br&gt;진시몬은 “지금도 꿈인지 생시인지 모르겠다. 기억력도 많이 없어졌다. 아직도 (아들한테) 연락이 올 것 같다”며 “아들에게 어떤 일이 있어도 믿어줬다. 힘이 되려고 노력은 많이 했는데 막상 이렇게 되니 아이가 너무 불쌍하다. ‘나한테도 이런 일이 생기는구나’ 싶다”고 눈물을 쏟았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/Y4VCLMDYA5DHRBRH74ITV2LO5U.jpg?width=643&amp;height=482&amp;auth=488d26d9d713aea3e7a257433c147e29a7a7e9bb46ab97acd48a9332cefc114f&amp;smart=true" type="image/jpeg" height="482" width="643">
+        <media:description type="plain">가수 진시몬./유튜브</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>﻿“왜 쳐다보냐” 평택서 주한 미군, 10대 청소년 폭행…턱뼈 골절</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/21/IK3KCPACN5HG5CLMJEGHY4CHZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/21/IK3KCPACN5HG5CLMJEGHY4CHZA/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Nov 2024 22:23:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F5MQ4SA3JVGYNCTFQ5ZWHNTMMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 평택시에서 주한미군 부사관에게 폭행당한 10대 청소년이 턱뼈가 부러지는 중상을 입었다. /JTBC '사건반장'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 평택시에서 주한미군 부사관이 10대 청소년을 폭행해 턱뼈가 부러지는 사건이 발생했다. 다만 해당 부사관이 자신도 폭행당했다고 주장하고 있어 경찰은 턱뼈가 부러진 10대 청소년도 입건한 상태다.&lt;br&gt;&lt;br&gt;20일 경찰에 따르면 평택경찰서는 지난 18일 30대 주한미군 중사 A씨를 상해 혐의로 입건했다. A씨는 17일 0시 30분쯤 평택시 평택역 인근의 한 거리에서 10대 B군의 얼굴을 주먹으로 때려 다치게 한 혐의를 받고 있다. B군은 턱뼈가 부서지는 등의 중상을 입은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨가 자신 역시 B군에게 폭행당했다고 주장하고 있어 경찰은 우선 B군도 폭행 혐의로 입건한 상태다. B군은 현재 턱 부상 등으로 진술이 어려운 상태로 전해졌다.&lt;br&gt;&lt;br&gt;B군의 아버지는 19일 JTBC ‘사건반장’에 “사람이 주먹으로 때렸을 때 이 정도로 관절이 나가는 건 성형외과 의사도 처음 보는 일이라고 하더라”며 “(아들은) 입안에 보철을 착용하고 고정한 상태로 8주 동안 있어야 하고, 워낙 (피해) 정도가 심해서 평생 후유 장애가 남을 수도 있다고 한다”고 전했다.&lt;br&gt;&lt;br&gt;A씨는 당시 지나가는 사람들이 다 쳐다볼 정도로 옆에 있던 한국 여성과 큰소리로 다투고 있었다고 한다. 그러다 인근을 지나던 B군과 눈이 마주쳤고, 이후 시비가 붙어 폭행으로 번진 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰이 확보한 방범카메라(CCTV) 화면에는 A씨와 말다툼을 벌이던 여성이 B군을 밀치는 등의 장면이 담겼다. 이를 지켜보던 A씨가 B군을 폭행했고, A씨가 맞는 장면은 담기지 않았다고 한다. A씨는 키 190㎝에 몸무게가 100㎏에 달하는 체구의 소유자다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “조만간 A씨와 B군을 불러 자세한 사건 경위를 조사할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>中 첨단 결제시스템에... “현지폰 없으면 물 한병 못사” 관광객 낭패</title>
       <link>https://www.chosun.com/national/national_general/2024/11/21/Z4LBSKJ3V5GTBLBOYOONVK7NM4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/21/Z4LBSKJ3V5GTBLBOYOONVK7NM4/</guid>
@@ -926,24 +948,6 @@
       <description/>
       <pubDate>Tue, 19 Nov 2024 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VOVLFRZ3RBARNCAKRET2RJMX2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 오후 서울 성북구 동덕여대 정문과 진입로가 ‘남녀 공학 전환’을 반대하는 내용이 담긴 대자보와 피켓, 낙서 등으로 어지럽혀져 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동덕여대 총학생회 등이 대학 측의 ‘남녀공학 전환’ 논의에 반발해 과격 시위를 벌여 학교 행정이 마비된 가운데 시위에 참여하지 않는 다른 학생들이 학습권 침해를 호소하며 반발하고 있다.&lt;br&gt;&lt;br&gt;19일 교육계에 따르면, 동덕여대 일부 재학생은 최근 불법·폭력 시위에 반대하는 모임 ‘동덕STEP’을 만들고 시위대에 의한 피해 사례를 수집해 공론화하겠다고 나섰다. 이 모임 대표를 맡은 생 A씨는 “교내 폭력 시위에 피해를 본 학생이 많지만 이에 반대하면 ‘신상털기’ 등을 당해 극심한 심적 고통을 겪고 있다”며 “학교도 저희 같은 일반 학생을 지켜주지 못하는 상황이기 때문에 자체적으로 모임을 만들어 목소리를 내기로 했다”고 말했다.&lt;br&gt;&lt;br&gt;공학 전환 반대 시위를 하는 동덕여대 총학생회 등은 지난 12일부터 대부분 학교 건물 출입구를 테이프와 자물쇠로 봉쇄하고 학생과 교직원의 출입을 통제하고 있다. 교내 기물을 파손하고 강의실을 어지럽혀 수업 진행이 불가능한 상황이다. 학교 측이 대부분 강의를 온라인 강의로 전환했지만 이 역시 시위대가 접속해 소리를 지르고 채팅창을 도배해 진행이 어렵다고 한다.&lt;br&gt;&lt;br&gt;동덕STEP에 참여한 학생 B씨는 “실기 수업은 온라인으로는 불가능하다 보니 일주일째 강제로 아무런 수업도 못 듣고 있다”며 “학내 연습실조차 사용하지 못하게 하며 ‘알아서 돈을 주고 외부 공간을 빌리라’고 하는데, 자기들이 뭔데 이를 강요하는 것이냐”고 했다. 또 다른 학생 C씨는 “졸업을 앞두고 있는데 취업 준비를 할 수가 없는 데다 동덕여대 졸업생이라고 하면 ‘폭력 시위’라는 낙인이 찍힐까 두렵다”며 “12일 열릴 예정이었던 학교 취업박람회에 대한 기대가 컸는데 시위대가 난장판을 만들어 무산돼 기회를 날렸다”고 했다. 동덕여대 총학생회 등은 시위가 격화한 것에 대해 “학교가 공학 전환을 비민주적으로 논의하고, 대화 요청을 일방적으로 묵살하면서 학생들의 분노가 커진 것”이라는 입장이다.&lt;br&gt;&lt;br&gt;대학 측은 오는 23일 예정된 2025학년도 대입 수시 논술고사 역시 학내에서 진행하기 어려워 외부 공간을 대여해 열 예정이다. 동덕여대 관계자는 “학생들 불법 시위로 입은 피해가 최대 54억원에 달하는 것으로 추산한다”며 “이에 대한 법적 책임을 엄중히 물을 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편 지금까지 전국 4년제 여대 7곳 중 이화여대를 제외한 6곳(광주·덕성·성신·서울·숙명·동덕여대) 총학생회에서 남녀공학 전환 반대 시위에 나서거나 연대 입장을 표명했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>현대차 울산공장서 연구원 3명 질식사</title>
-      <link>https://www.chosun.com/national/incident/2024/11/20/VSMPHRUAG5EQLNJWJ6DIEQQCBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/20/VSMPHRUAG5EQLNJWJ6DIEQQCBM/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Nov 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FXTS7MY6KZFFDDCDW35YZKBOWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2015년 현대차 울산공장 전경. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현대자동차 울산공장에서 차량 성능 테스트를 하던 연구원 3명이 질식해 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;울산경찰청과 현대차 등에 따르면, 19일 오후 3시쯤 울산시 북구 현대차 울산공장 전동화품질사업부 실험실에서 40대 A씨와 30대 B씨, 20대 C씨 등 3명이 쓰러져 있는 것을 다른 직원이 발견해 신고했다.&lt;br&gt;&lt;br&gt;이들은 병원으로 이송했으나 모두 숨졌다.&lt;br&gt;&lt;br&gt;현대차 관계자는 경찰에 “이들이 이날 낮 12시 50분쯤 주행 테스트를 시작했고, 시간이 꽤 지났는데도 나오지 않아 오후 3시쯤 확인해보니 숨을 쉬지 못하고 있었다”고 진술했다. A씨와 B씨는 현대차 남양연구소 책임연구원인 것으로 파악됐다. C씨는 협력업체 소속 연구원이라고 한다.&lt;br&gt;&lt;br&gt;이들이 쓰러진 채 발견된 곳은 차량의 성능을 테스트하는 ‘체임버’라는 공간이다. 차량 1대가 들어갈 수 있는 크기다.&lt;br&gt;&lt;br&gt;경찰은 A씨 등이 그 안에서 실험하다 질식한 것으로 추정한다. 사고 당시 연구원들은 체임버 안에서 차량의 주행 성능을 시험하기 위해 공회전 테스트 등을 했던 것으로 파악됐다. 현대차 관계자는 “당시 시험 차량에서 다량의 배기가스가 배출됐지만 체임버의 환기 장치가 제대로 작동하지 않은 것으로 조사됐다”며 “연구원들이 일산화탄소 등에 중독돼 질식한 것으로 추정된다”고 했다.&lt;br&gt;&lt;br&gt;경찰과 현대차는 당시 환기 장치가 왜 작동하지 않았는지 등 정확한 사고 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;현대차 울산공장은 중대재해처벌법 적용 대상이다. 고용노동부는 중대재해처벌법과 산업안전보건법 위반 여부를 조사하는 한편 현장에 근로감독관을 파견해 작업을 중단시켰다.&lt;br&gt;&lt;br&gt;현대차는 이날 “고인의 명복을 빌며 유가족께 위로의 말씀을 드린다”는 입장을 밝혔다. 이어 “사고 원인을 조속히 규명해 재발 방지 대책을 마련하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김환규 김환규산부인과 원장 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/11/20/IHZKCRA76NHM7KWASSDLJJ6DIM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/11/20/IHZKCRA76NHM7KWASSDLJJ6DIM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Nov 2024 15:40:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김환규&lt;/b&gt; 김환규산부인과 원장 별세, &lt;b&gt;이인희&lt;/b&gt; 남편상, &lt;b&gt;김연수&lt;/b&gt;·&lt;b&gt;김정현&lt;/b&gt;·&lt;b&gt;김석주&lt;/b&gt; 부친상, &lt;b&gt;이명섭&lt;/b&gt; 장인상=19일1시5분 분당서울대병원, 발인 21일7시, (031)787-1511&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박복순&lt;/b&gt; 별세, &lt;b&gt;한상덕&lt;/b&gt; 前 한림대 교수·&lt;b&gt;한상화&lt;/b&gt; 한스스포츠 대표·&lt;b&gt;한상범&lt;/b&gt; 前 LG디스플레이 대표 부회장·&lt;b&gt;한상애&lt;/b&gt;·&lt;b&gt;한혜석&lt;/b&gt; 모친상, &lt;b&gt;허경&lt;/b&gt; 사업·&lt;b&gt;최훈선&lt;/b&gt; 사업 장모상, &lt;b&gt;홍인옥&lt;/b&gt;·&lt;b&gt;이연순&lt;/b&gt;·&lt;b&gt;김영수&lt;/b&gt; 시모상=18일14시7분 서울성모병원, 발인 21일9시30분, (02)2258-5922&lt;br&gt;&lt;br&gt;▲&lt;b&gt;류희윤&lt;/b&gt; 前 중앙제지 대표 별세, &lt;b&gt;류민정&lt;/b&gt;·&lt;b&gt;류재학&lt;/b&gt; 골드피쉬F&amp;amp;B 회장 부친상, &lt;b&gt;이종서&lt;/b&gt; 삼성의료원 척추센터장 장인상=19일4시32분 삼성서울병원, 발인 21일10시, (02)3410-6914&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2024년 11월 20일</title>
