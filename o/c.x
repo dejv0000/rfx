@@ -13,6 +13,67 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>검찰, ‘선거법 위반’ 김혜경 1심 판결에 맞항소...“양형부당”</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/20/NKOGOLV6XVGO5AOK2IM5SCKK5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/20/NKOGOLV6XVGO5AOK2IM5SCKK5A/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Nov 2024 04:53:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I772CWYQJBIMNBR7KYY3P6JUV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공직선거법 위반 혐의로 불구속기소 된 더불어민주당 이재명 대표의 배우자 김혜경 씨가 14일 오후 경기도 수원시 영통구 수원지방법원에서 열린 1심 선고공판을 마치고 나오고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 더불어민주당 이재명 대표의 배우자 김혜경씨에 대한 공직선거법 위반 1심 판결에 불복해 20일 항소했다. 김씨는 민주당 대선 후보 경선 과정에서 경기도 법인카드로 민주당 전현직 중진 의원 아내 등의 식사를 대접한 혐의로 지난 14일 벌금 150만원을 선고 받았다.&lt;br&gt;&lt;br&gt;수원지검은 이날 언론에 보낸 안내문을 통해 “오늘 양형부당을 이유로 항소했다”며 “피고인이 대선을 앞둔 당내 경선 과정에서 국회의원의 배우자들에게 기부행위를 하여 선거에 미친 영향이 큰 점, 정치적 중립을 준수해야 할 공무원들을 동원한 점 등을 고려한 것”이라고 했다. 앞서 검찰은 벌금 300만원을 구형했었다.&lt;br&gt;&lt;br&gt;김씨 측은 선고 후 나흘 만인 지난 18일 수원지법에 항소장을 냈다. 김씨의 변호인은 선고 직후 취재진에 “재판부가 추측·추론에 의한 유죄 판결을 했다는 생각이 든다”며 항소하겠다고 했다.&lt;br&gt;&lt;br&gt;김씨는 경기도지사였던 이 대표가 당내 대선 후보 경선 출마를 선언한 이후인 2021년 8월 2일 서울 종로구의 한 중식당에서 민주당 전현직 중진 의원의 아내 3명과, 자신의 운전기사와 수행원 등 6명에게 10만4000원의 식사를 대접한 혐의(공직선거법상 기부행위 위반)를 받는다.&lt;br&gt;&lt;br&gt;당시 식사 비용은 경기도 법인카드로 결제됐고, 김씨의 수행비서인 배모(전 경기도 별정직 공무원)씨의 지시를 받은 이 사건의 제보자 조명현(전 경기도 7급 공무원)씨가 직접 결제했다.&lt;br&gt;&lt;br&gt;검찰은 김씨의 지시나 묵인이 있었던 것으로 보고, 지난 2월 그를 불구속 기소했다. 1심 재판부인 수원지법 형사13부(재판장 박정호)는 공소사실에 대해 모두 유죄로 인정했다. 재판부는 “피고인의 묵인이나 용인 아래 기부 행위를 했다”며 “피고인과 순차적이고 암묵적인 의사 결합이 있었다고 판단된다”고 비서 배씨와 김씨의 공범 관계를 인정했다.&lt;br&gt;&lt;br&gt;재판부는 또 “피고인은 범행을 부인하고 배씨에게 책임을 전가하는 모습을 보였고, 당시 경기도 공무원이던 배씨를 통해 (범행이)이뤄지는 등 선거 공정성·투명성을 해할 위험이 있었다고 보인다”고도 했다.&lt;br&gt;&lt;br&gt;한편, 김씨가 이 사건으로 대법원에서 벌금 100만원 이상을 확정받게 되면, 5년간 선거권이 박탈돼 선거운동을 할 수 없게 된다. 이 대표가 차기 대선에 출마한다 하더라도 김씨가 선거를 도울 수 없다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>폐차 직전 사고 차 번호판 이용, 허위 대출 서류 작성... 120억원 챙긴 일당 송치 </title>
+      <link>https://www.chosun.com/national/incident/2024/11/20/34FSDL6UHVCHPPRKNWNX4MIGPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/20/34FSDL6UHVCHPPRKNWNX4MIGPU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Nov 2024 04:49:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4OSHVSG5CJACNJ5XMGS7AY73UY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;범행에 이용된 사고 차량 번호판./인천경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폐차 수준의 사고 차량 번호판을 이용해 허위 대출 서류를 작성한 뒤 120억 원의 대출금을 챙긴 일당이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;인천경찰청 형사기동대는 사기 혐의로 총책 30대 남성 A씨와 캐피탈업체 직원 30대 남성 B씨 등 8명을 구속해 검찰에 송치했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 또 불법 대출 사실을 알면서도 명의를 빌려준 30대 남성 C씨 등 202명을 사기와 사기 방조 등 혐의로 불구속 송치했다.&lt;br&gt;&lt;br&gt;A씨 등은 지난해 4월부터 지난 2월까지 약 10개월간 인천 미추홀구에서 중고차 매매업체를 운영하면서, 폐차 수준의 사고 차량 번호판을 이용해 대출 서류를 꾸며 금융기관으로부터 120억 원의 대출금을 받아 챙긴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이들은 폐차 직전의 차량 번호판을 사진으로 찍어 정상 중고차량 번호판인 것처럼 컴퓨터로 조작한 뒤, 차량 성능기록지 등을 위조하는 수법으로 허위 대출 서류를 만든 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이들은 범행을 위해 캐피탈업체 소속 직원과 짜고 범행했다. 캐피탈업체 소속 직원은 대출 영업 수당을 챙기기 위해 범행에 가담했다.&lt;br&gt;&lt;br&gt;A씨 등은 이런 방식으로 건당 적게는 2000만 원에서 많게는 2억 원의 대출금을 받아 챙긴 것으로 파악됐다. 명의를 빌려준 사람에겐 100만~1000만 원을 대출금에서 떼어줬다.&lt;br&gt;&lt;br&gt;일부 캐피탈 업체 직원은 해당 대출 서류가 허위인 것을 알면서도 대출 영업 수당을 챙기기 위해 A씨와 함께 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “중고차 거래 등을 위한 대출은 비대면으로 이뤄지고, 심사가 까다롭지 않다”며 “명의를 빌려주면 범죄에 악용될 수 있는 만큼, 각별히 주의해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아파트 단지서 초등생 치어 숨지게 한 폐기물 수거차량 운전자 구속</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/20/S34ROQ6Y5NGBNBY2YF4C57WWAY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/20/S34ROQ6Y5NGBNBY2YF4C57WWAY/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Nov 2024 04:38:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJYNYPLU5VN7DAIFVQZJG5V2PI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 31일 광주 북구 신용동 한 아파트에서 주민들이 수거 차량에 치여 숨진 초등생을 추모하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아파트 단지 내에서 초등학생을 치어 숨지게 한 재활용품 수거 차량 운전자가 구속됐다.&lt;br&gt;&lt;br&gt;광주 북부경찰서는 20일 교통사거처리 특례법상 치사 혐의로 재활용품 수거 차량 운전자 A(49)씨를 구속했다고 밝혔다. A씨는 지난달 30일 오후 1시 20분쯤 광주광역시 북구 신용동의 한 아파트 단지 내부 재활용품 수거장 앞에서 차량을 후진하다 초등학생 김모(8)양을 치어 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;사고 현장이 담긴 방범카메라(CCTV) 영상에서는 차로를 주행하던 5t 재활용 쓰레기 수거차량이 인도로 올라선 뒤 재활용품 수거장으로 진입하려고 10여 m를 후진하다가 김양을 들이받고 지나가는 모습이 확인됐다.&lt;br&gt;&lt;br&gt;A씨는 차량을 후진할 때 접근하는 주민이 있는지 확인할 수 있는 보조 작업자 없이 홀로 차량을 운전하다가 사고를 낸 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰조사에서 “후방카메라 대신 후사경을 보고 있어 걸어오는 초등생을 보지 못했다”는 취지의 진술을 한 것으로 전해졌다. 경찰은 A씨를 상대로 추가 조사를 진행한 뒤 검찰에 송치할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/SJYNYPLU5VN7DAIFVQZJG5V2PI.jpg?width=6000&amp;height=4000&amp;auth=25d83e02fc40abd6e2d9cd0e109d2adf81274cc4efa78959b53f96edc5f0b8e1&amp;smart=true" type="image/jpeg" height="4000" width="6000">
+        <media:description type="plain">&lt;YONHAP PHOTO-5382&gt; 초등생 참변에 안타까워하는 주민들
+    (광주=연합뉴스) 김혜인 기자 = 31일 광주 북구 신용동 한 아파트에서 주민들이 수거 차량에 치여 숨진 초등생을 추모하고 있다. 전날 오후 1시 20분께 광주 북구 신용동 한 아파트 단지 내에서 초등학생 1학년생이 후진하는 재활용품 수거 차량에 치여 숨졌다. 2024.10.31
+    in@yna.co.kr/2024-10-31 15:07:20/
+&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">김혜인</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>경찰, 포항 지역 경북도의원 정치자금법 위반 혐의 압수수색</title>
+      <link>https://www.chosun.com/national/incident/2024/11/20/TEVY4FQW6JAZTIJ4KSH4GWVSOE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/20/TEVY4FQW6JAZTIJ4KSH4GWVSOE/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Nov 2024 04:42:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4LGDWQ5DTHNP5P5PED23V6LRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북경찰청 반부패경제범죄수사대가 정치자금법 위반 등 혐의로 포항 지역 국민의힘 소속 경북도의원 A씨의 자택과 사무실 등을 압수수색했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 전날 진행된 압수수색에서 A씨가 보관하던 서류, 컴퓨터, 휴대전화 등을 확보한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이번 압수수색은 A씨가 정치자금법을 위반했다는 취지의 고발성 제보로 시작된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 확보한 자료를 바탕으로 A씨의 정치자금법 위반 여부와 제보의 사실 관계를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘첫 택시협동조합 설립’ 박계동 전 의원, 무고 혐의로 징역 8개월 선고</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/20/2HHD76L5UZE3ZB343I2WU3OCAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/20/2HHD76L5UZE3ZB343I2WU3OCAI/</guid>
+      <dc:creator>부천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Nov 2024 04:40:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TD646HLN7ZHY7NE7Q6YETY3H2M.png"&gt;&lt;figcaption&gt;&lt;small&gt;박계동 전 국회의원./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라 첫 택시협동조합을 설립한 뒤 부산에 비슷한 형태의 조합을 만드는 과정에서 규정을 위반했다가 지난해 실형 선고를 받고 법정 구속된 박계동(72) 전 국회의원이 최근 무고 혐의로 또다시 실형을 선고받았다.&lt;br&gt;&lt;br&gt;인천지법 부천지원 형사 8단독(판사 김병진)은 무고 등 혐의로 기소된 박 전 국회의원에게 징역 8개월을 선고했다고 20일 밝혔다. 김 판사는 박 전 의원을 법정 구속하지는 않았다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 A씨와 법적 분쟁이 발생하자 이사회 의사록이 위조됐다고 주장했다”며 “택시부산협동조합 임원도 피고인의 지시로 이사회 회의록을 작성했고, 피고인에게 보고도 했다고 진술했다”고 했다. 이어 “범행의 죄질이 불량함에도 잘못을 반성하지 않은 점, 무고 피해자인 A씨가 엄벌을 탄원한 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;박 전 의원은 2022년 6월 “모 택시회사 대표 이사인 A씨가 사문서를 위조한 뒤 사용했다”며 허위로 고소한 혐의 등으로 기소됐다.&lt;br&gt;&lt;br&gt;당시 한국택시부산협동조합 이사였던 박 전 의원은 “A씨가 2019년 12월 택시부산협동조합 이사회를 개최한 것처럼 의사록을 허위로 작성해 부산시 교통국에 여객자동차운수사업 양도‧양수 신고서를 제출했다”고 주장하며 고소했다.&lt;br&gt;&lt;br&gt;그러나 박 전 의원은 부산에서 택시협동조합을 운영하기 위해 A씨의 택시 회사를 45억 원에 인수하기로 했고, 2019년 12월 영업권·자산 양도·양수 계약을 맺었다. 이후 택시부산협동조합 다른 임원에게 이런 내용을 의결하는 이사회 회의록을 작성하라고 지시한 뒤 부산시에 제출하게 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;박 전 의원은 앞서 지난해 9월 협동조합기본법 위반과 근로기준법 위반 등 혐의로 기소돼 징역 1년을 선고받고 법정 구속됐다. 이후 항소심 재판 중인 지난해 12월 보석으로 풀려났고, 불구속 상태에서 이번 무고 사건 재판을 추가로 받았다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>임신 초기 유·사산 휴가 5일에서 10일로</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/11/20/T2VMCCYXYVHYPBUTB435NR3Y34/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/11/20/T2VMCCYXYVHYPBUTB435NR3Y34/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Nov 2024 04:20:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GWEBWBKMH5JLJKDDRM66RAKCWU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;임산부의 날인 지난달 10일 오후 대구 수성구 파티마여성병원에서 출산이 임박한 임산부가 진료를 기다리는 동안 함께 온 일곱 살 딸이 만삭인 엄마 배에 귀를 대고 곧 태어날 동생의 태동을 느껴보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고령 임신부가 늘어남에 따라 임신 초기 유·사산 시 사용할 수 있는 휴가가 현행 5일에서 10일로 확대된다. 고용노동부는 이 같은 내용 등을 담은 육아지원 3법(남녀고용평등법·고용보험법·근로기준법) 하위법령 일부 개정령안을 내달 30일까지 입법예고한다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;이번 개정안에는 임신 11주 내 유·사산을 겪은 여성 근로자가 기존 5일 휴가만으로는 건강을 충분히 회복할 수 없다는 지적에 따라 휴가 기간을 10일로 늘리는 내용이 포함됐다. 또 부모 모두 3개월 이상 육아휴직을 사용한 경우에만 1년에서 1년 6개월로 육아휴직 기간이 늘어나되, 한부모 가정이나 중증 장애아동(장애인복지법 기준)의 부모는 이런 조건 없이 연장이 가능하도록 했다.&lt;br&gt;&lt;br&gt;현행 90일인 출산 전후 휴가는 미숙아로 태어나 신생아 중환자실에 입원하는 경우 휴가 기간이 100일로 늘어난다. 미숙아는 임신 37주 미만의 출생아 또는 체중이 2.5㎏ 미만인 영유아이며 입원 시점은 출생 후 24시간 이내로 규정했다.&lt;br&gt;&lt;br&gt;임신기 근로시간 단축을 임신 기간 전체에 걸쳐 사용할 수 있는 ‘고위험 임신부’는 다태임신(한 번에 둘 이상의 태아가 임신)·당뇨병·출혈 등 보건복지부가 정한 ‘고위험 임산부 의료비 지원사업’의 대상인 19가지 위험 질환을 진단받은 임신부로 한정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>이화영 ‘대북송금’ 재판서 위증 혐의 수행비서...첫 재판서 “기록 복사 못해”</title>
       <link>https://www.chosun.com/national/court_law/2024/11/20/PHHLQL5ASRGBPCWWWVIJPPA7H4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/20/PHHLQL5ASRGBPCWWWVIJPPA7H4/</guid>
@@ -774,15 +835,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MW2CGMC7MASQVJCWXT4LEPGNNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천시청 전경./인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천시가 지방세 체납자의 저작권료(저작권 신탁수익금) 수입 여부를 조사해 4100만원의 체납액을 징수했다.&lt;br&gt;&lt;br&gt;인천시는 인천 지역 50만원 이상 체납자 4만6696명을 전수 조사해 저작권료를 받을 수 있는 63명을 확인해 이 중 저작권료 수입이 있는 47명에게 체납액 4100만원을 징수했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;지자체가 체납액 징수를 위해 체납자의 저작권료 수입을 전수 조사한 건 이번이 처음이라고 인천시는 밝혔다.&lt;br&gt;&lt;br&gt;저작권은 자신이 만든 음악이나 소설, 그림, 영화 등 창작물에 대해 갖는 권리를 의미한다. 이런 창작물을 누군가가 이용했을 때 저작권을 가진 사람은 문화체육관광부에 등록된 한국음반산업협회 등 11개 신탁 기관을 통해 저작권료를 받을 수 있다.&lt;br&gt;&lt;br&gt;저작권료는 정부에 등록된 신탁 기관을 통해 관리‧분배된다. 인천시는 저작권료의 경우 국민건강보험 등과 연계돼 소득 여부를 알 수 있는 근로소득이나 사업소득과 달리 소득 확인이 어려워 지방세 징수의 사각지대였다고 설명했다.&lt;br&gt;&lt;br&gt;인천시 관계자는 ”이번 체납자 저작권료 수입 조사는 지방세 체납 징수의 새로운 가능성을 보여줬다고 본다”며 “체납자의 자산을 끝까지 추적, 성실 납세 문화가 확산되도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>이재명 한달 과일값만 121만원...가구당 지출액 30배</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/19/UBZ5ESEYQJA47I6AVECG3DYOOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/19/UBZ5ESEYQJA47I6AVECG3DYOOE/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Nov 2024 03:49:16 +0000</pubDate>
-      <content:encoded>이재명 더불어민주당 대표가 경기도 예산으로 한달 평균 121만원어치의 과일을 구매한 것으로 나타났다. 2020년 가구 평균 월간 과일 지출액의 약 30배에 달하는 액수다.&lt;br&gt;&lt;br&gt;수원지검 공공수사부(부장 허훈)는 19일 이 대표를 업무상 배임 혐의로 불구속 기소했다. 이 대표는 경기도지사 재직 시절 경기도 예산을 사적으로 쓰고 법인카드를 유용하는 등의 방법으로 경기도에 총 1억653만원의 손해를 끼친 혐의를 받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KXCT6LIWLVESPYXRVWWJUJQYTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이중에는 이 대표가 2019년 11월~2021년 10월 사적으로 먹을 과일 대금 2791만원을 경기도 예산으로 지출한 혐의도 포함돼 있다. 매달 121만원씩 과일을 구매한 셈이다. 검찰은 비서실장 정모씨 등이 간담회, 직원격려 등 명목으로 가짜 서류를 만들어 예산을 타낸 뒤 과일을 구매해 이 대표 공관과 수내동 자택으로 배달한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;통계청 가계동향조사에 따르면, 2020년 가구당 평균 과일 지출액은 4만원이었다. 이 대표 가족의 과일값에 이보다 30배 많은 경기도 예산이 매달 지출된 것이다.&lt;br&gt;&lt;br&gt;한편 이 대표의 샌드위치 대금에도 경기도 예산 685만원이 들어갔고, 의류 세탁비에도 270만원이 쓰인 것으로 조사됐다. 이 대표는 또 경기도의 제네시스 G80 관용차를 자택에 주차한 채 공무와 무관하게 사용한 혐의도 받는데, 검찰은 이 대표가 임차료·세차비·주유비 등 6016만원 상당의 이득을 취했다고 봤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZNGPIS6YSVCSBOBHZAPSSZZJIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조명현씨와 배모씨가 2021년 나눈 텔레그램 대화 내용. 배씨가 "과일가게에 가야 한다"고 지시하고, 조씨는 픽업한 과일 사진을 찍어 보고했다. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 김혜경씨의 사적 수행비서 역할을 한 배모씨가 경기도 법인카드로 총 4343만원을 사적으로 사용한 점도 확인했다. 다만 이 대표에게는 이중 889만원을 유용한 혐의만 적용됐다.&lt;br&gt;&lt;br&gt;배씨는 검찰에서 대부분 사용처에 대해 “내가 개인적으로 썼다”고 주장했다고 한다. 이에 검찰은 공익제보자 조명현씨와 배씨 간 텔레그램 대화 내용, 통화 녹취 등 증거가 확실한 부분만 선별해 이 대표를 기소한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;배씨는 김씨의 공직선거법 재판에서도 “김씨는 본인 식사값을 현금으로 냈다. 내가 음식을 포장하느라 돈을 더 쓴 것”이라며 김씨를 두둔하는 증언을 했지만 재판부는 “객관적 증거와 배치된다”며 배씨 주장을 받아들이지 않았다.&lt;br&gt;&lt;br&gt;이번 사건을 두고 검찰 안팎에선 “‘빙공영사(憑公營私·공적인 일을 핑계 삼아 사익을 추구하는 행위)’라는 사자성어가 어울리는 사건”이라는 말이 나왔다.&lt;br&gt;&lt;br&gt;반면 더불어민주당 조승래 대변인은 이날 “이미 경찰 수사에서 이재명 대표에게 혐의가 없다는 사실이 밝혀지기도 했는데 검찰이 부득부득 사건을 되살려 기소했다”면서 “명백한 억지 기소이자 야당 탄압”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>내일 오후 서울 도심서 민주노총 등 집회…세종대로·한강대로 등 일부 통제</title>
       <link>https://www.chosun.com/national/2024/11/19/ZFHUNNOOBBHSVG2NC6BGRJOXDY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/11/19/ZFHUNNOOBBHSVG2NC6BGRJOXDY/</guid>
@@ -803,51 +855,6 @@
       <description/>
       <pubDate>Tue, 19 Nov 2024 04:58:29 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3JVKSV5NX5OCAOBH3M4JWDUKJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국대학생진보연합(대진연) 소속 대학생 20여명이 지난 2019년 4월 서울 여의도 국회의원 회관에 있는 나경원 자유한국당 원내대표 의원실에서 점거 농성을 벌이고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2019년 나경원 당시 자유한국당 원내대표의 국회 의원회관 사무실을 불법 점거했던 한국대학생진보연합(대진) 소속 대학생이 항소심에서 감형 받았다.&lt;br&gt;&lt;br&gt;서울남부지법 형사항소2-2부(재판장 김지숙)는 19일 폭력행위 등 처벌에 관한 법률 위반(공동주거침입) 등 혐의로 기소된 윤모(34)씨 등에 대한 항소심 선고기일을 열었다. 재판부는 윤씨에 대해 징역 6월에 집행유예 1년을 선고했다.&lt;br&gt;&lt;br&gt;1심 재판부는 윤씨에게 징역 6월에 집행유예 2년을 선고했다. 항소심 재판부는 원심을 파기하고 형을 감경한 것이다. 항소심 재판부는 “범행 내용과 가담 정도, 다른 피고인들과의 형평성을 고려해 형을 정했다”고 양형사유를 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 윤씨와 같은 혐의로 재판에 넘겨진 대진연 회원들의 항소는 기각했다. 이들은 1심에서 징역 4월에 집행유예 1년, 단순 가담자로 보이는 이들은 벌금 100만~200만원을 선고받았다.&lt;br&gt;&lt;br&gt;재판부는 “사정이 변경된 바도 없고 유불리한 사정 모두 참작해 정한 원심 양형”이라며 “(양형이) 합리적인 법리 밖에 있다고 보이지 않는다”고 양형사유를 설명했다.&lt;br&gt;&lt;br&gt;검찰에 따르면 윤씨를 비롯 대진연 회원 20명은 지난 2019년 4월 국회 의원회관에 있는 나경원 당시 자유한국당 원내대표의 의원실을 점거한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 50여분 동안 “반민특위 망언, 강원도 산불 진압 방해한 나경원은 사퇴하라” “김학의 성 접대 사건 은폐한 황교안은 사퇴하라” 등의 구호를 외치며 농성을 벌였다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 “물리적·폭력적 방법으로 의정활동을 강압적으로 저지하는 행위를 감행했다”며 “법질서 유지에 대한 의식이 희박하고 재범에 나아갈 위험성이 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“행정지도 처분에 격분”… 만취 상태서 군청에 불 지르려 한 30대</title>
-      <link>https://www.chosun.com/national/incident/2024/11/19/UWPHLDX45BBHTAL4MBXDVH7KR4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/19/UWPHLDX45BBHTAL4MBXDVH7KR4/</guid>
-      <dc:creator>화천=정성원 기자</dc:creator>
-      <description>공무원의 행정지도 처분에 불만을 품고 군청에 불을 지르려 한 30대가 경찰에 붙잡혔다.강원 화천경찰서는 공용건조물 방화예비 등 혐의로 A(37)씨를 붙잡아 조사 중이라고 19일 밝혔다.</description>
-      <pubDate>Tue, 19 Nov 2024 04:24:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5HDJS7XXPQEOJNBAMEQB2T3EX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 화천군청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공무원의 행정지도 처분에 불만을 품고 군청에 불을 지르려 한 30대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;강원 화천경찰서는 공용건조물 방화예비 등 혐의로 A(37)씨를 붙잡아 조사 중이라고 19일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 18일 오후 5시쯤 혈중알코올농도 0.09%의 만취 상태로 자신의 차량에 휘발유를 싣고 불을 지르겠다며 화천군청으로 진입을 시도한 혐의다. A씨의 차량엔 휘발유 140ℓ가 실려 있었다.&lt;br&gt;&lt;br&gt;나물 가공업 종사자인 A씨는 최근 규정 위반으로 행정지도를 받자 이 같은 범행을 저지른 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 군청 건물 안으로 진입하려는 A씨를 현행범으로 체포하고 차량과 휘발유를 압수했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘마약 3번째 기소’ 검찰, 야구선수 오재원에 징역 4년 구형 </title>
-      <link>https://www.chosun.com/national/court_law/2024/11/19/POOEG7YO5ZCQZBKQ4BIY5CV264/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/19/POOEG7YO5ZCQZBKQ4BIY5CV264/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Nov 2024 04:18:57 +0000</pubDate>
-      <content:encoded>후배 야구선수 등을 협박해 마약류를 대리 처방 받은 혐의로 기소된 프로야구 선수 오재원씨가 재판에서 혐의를 모두 인정했다. 오씨가 마약 관련 혐의로 기소된 건 이번이 3번째다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3WSGQYD7YUQP4MB7SKCJH5YMTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;야구 국가대표 출신 오재원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사24단독 유동규 판사는 19일 마약류 위반 등 혐의로 기소된 오씨에 대한 첫 공판을 진행했다. 오씨 측이 공소사실을 인정하고 재판부가 증거조사 절차를 마치면서 이날 바로 변론을 종결하게 됐다.&lt;br&gt;&lt;br&gt;이날 검찰은 오씨에게 “징역 4년과 추징금 2300여만원을 선고해달라”고 재판부에 요청했다. 오씨는 이날 최후 진술에서 “모두 반성하고 재범을 방지하려고 한다. 활동 기간 중에 정신적으로 피폐했으나 주변에 알리지 못하고 적절한 시기에 치료를 못 했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “지난 8개월 동안 피해 드린 분들 생각하면서 정말 고통스럽고 반성하며 지내고 있다”며 “수용 기간 수면제에 손대지 않고 단약 의지를 갖고 있다”고 했다.&lt;br&gt;&lt;br&gt;오씨는 2021년 5월부터 지난 3월까지 후배 야구선수 등 14명으로부터 총 86회에 걸쳐 의료용 마약류인 수면제 2365정을 전달받은 혐의를 받는다.&lt;br&gt;&lt;br&gt;앞서 오씨는 이미 두 차례 마약 관련 혐의로 기소돼 유죄 판결을 받았다. 오씨는 2022년 11월~2023년 11월 11차례 필로폰을 투약한 혐의 등으로 기소돼 1심에서 징역 2년 6개월을 선고받고 현재 항소심 재판 중이다.&lt;br&gt;&lt;br&gt;또 유흥업소 종사자인 지인 이모씨로부터 작년 11월 필로폰 약 0.2g을 수수한 혐의로 추가 기소된 오씨는 지난달 1심에서 징역 4개월에 집행유예 2년을 추가로 선고 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] ‘명태균 변호인’ 김소연, 사임... “명씨 요청 따른 것”</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/19/SBXLANIG3JGM3IS5RCEN6GNRYA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/19/SBXLANIG3JGM3IS5RCEN6GNRYA/</guid>
-      <dc:creator>창원=이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Nov 2024 03:13:44 +0000</pubDate>
-      <content:encoded>’윤석열 대통령 부부 공천 개입’ 의혹 핵심 인물인 명태균씨를 대리하고 있는 김소연 변호사가 19일 오후 검찰에 사임서를 제출할 예정인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y5CVYHDYKRJANC6MKZVWKKLJKQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;명태균씨의 법률대리인 김소연 변호사가 지난 8일 오전 창원지검에서 취재진 질문에 답변하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 변호사는 본지 통화에서 “명씨 측으로부터 사임해달라는 요청이 있어 사임하게 된 것”이라고 이유를 밝혔다. 또 “명씨와 관련한 추가 변호는 맡지 않을 예정”이라고 했다. &lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 명씨는 김 변호사에게 자신의 정치자금법 위반 혐의 사건을 사임하고, 그 대신 이 의혹을 처음 폭로한 언론사 ‘뉴스토마토’에 대해 자신이 제기한 민‧형사소송 사건 대리를 맡아달라고 요청했다. 그러나 김 변호사는 이를 거절했다는 것이다. 명씨는 지난 9월 19일 공천 개입 의혹을 보도한 뉴스토마토 기자들을 허위사실 유포 명예훼손 혐의로 고소하고, 3000만원의 위자료를 청구하는 민사소송도 제기한 상태다.&lt;br&gt;&lt;br&gt;김 변호사는 그간 남상권 변호사와 함께 명씨의 검찰 조사, 구속영장 실질심사 등에 직접 참석해 명씨를 변호해왔다. 명씨는 남 변호사 외에 추가 변호인 선임을 고려 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편, 명씨는 이날 오전 10시 창원지검에 출석해 조사를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>굉음 내며 ‘드리프트’ 하자 연기 풀풀…외국인 폭주족 활개</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/19/KWUVZLMISNGMBAM6DHUGU6YHGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/19/KWUVZLMISNGMBAM6DHUGU6YHGY/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Nov 2024 03:08:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5Y5R2U43QNFLPE3P4FH42B5EUI.gif"&gt;&lt;figcaption&gt;&lt;small&gt;이들이 심야 도로에 모여 집단 폭주 행위를 벌이는 모습. 이 모습을 마치 홍보하듯 인스타그램에 영상을 올렸다. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 화성, 안산 일대에서 외국인을 중심으로 구성된 폭주족이 심야 도로에서 난폭운전을 하며 집단 폭주 행위를 일삼아 물의를 빚고 있다.&lt;br&gt;&lt;br&gt;지난 12일 온라인 커뮤니티 보배드림에 이같은 내용을 담은 제보가 등장했다. 제보에 따르면, 지난해부터 활동한 것으로 추정되는 외국인 폭주족들은 최근 자신들이 운영하는 소셜미디어에 도로에서 난폭운전하는 영상을 공유했다. 폭주족들은 주로 밤늦은 시간대 화성 문호교차로 일대에 집결해 곡예 운전을 했다.&lt;br&gt;&lt;br&gt;영상을 보면 이들은 시속 270km로 굉음을 내며 질주하거나, 폭죽을 터뜨리며 드리프트(의도적으로 뒷바퀴를 미끄러지게 해 코너를 통과하는 것)를 했다. 특히 제자리에서 차량을 빙글빙글 돌리는 이른바 ‘원형 주행’을 하며 도로에 진한 스키드마크를 남겼고, 이를 자랑하듯 인스타그램에 게시하기도 했다. 폭주 모임을 벌일 때마다 차량 여러 대와 100여명이 모이는 것으로 알려졌다. 이런 탓에 주변 주민들은 심야 소음 피해에 시달리고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;제보에 따르면, 이들은 주로 수출업에 종사하거나 공장에서 일하는 러시아, 우즈베키스탄, 카자흐스탄 출신 외국인으로 추정된다. 텔레그램을 통해 모임을 조직하는데, 이들이 운영하는 텔레그램 회원은 2000여명이라고 한다. 말소 차량이나 렌터카, 대포차 등 추적이 어려운 차량을 이용하는 것으로 전해졌다. 또 단속 카메라가 없는 곳에서 모이고, 경찰 출동을 살피는 ‘정찰팀’을 따로 운영해 경찰 단속을 알리면 폭주 일당들이 순식간에 흩어지는 방식으로 단속을 피하는 것으로 알려졌다. 실제 한 영상에서는 정찰팀으로 보이는 이가 “경찰”을 외치자 주변 차량이 순식간에 도주했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HQ7W4SOCUNF4DAIVVRPOIGPSRE.png"&gt;&lt;figcaption&gt;&lt;small&gt;외국인 폭주족이 난폭운전으로 생긴 스키드마크를 마치 자랑하듯 인스타그램에 게시한 사진. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제보자는 “한국에 취업비자나 불법체류로 온 외국인들이 주도해 폭주족 행위를 하고 그 영상을 인스타그램에 올려 조회수를 올리고 있다”며 “폭주 영상뿐만 아니라 불법 튜닝 영상 등 다양하게 공유하며 외국인끼리 위법 행위를 공유하고 팁을 받거나 도움을 받고 있다”고 주장했다.&lt;br&gt;&lt;br&gt;양지열 변호사는 JTBC를 통해 “경찰에서 추적을 하고 있지만 문제는 사고가 나지 않은 상황에서 이를 단속하기 어려운 실정”이라며 “어렵게 잡아도 초범이면 경고로 끝날 수밖에 없는 현실이다. 잡히면 ‘한국말 몰라요’라고 나오거나 관광객이라고 주장하면 (처분이 어렵다)”고 했다. &lt;br&gt;&lt;br&gt;경찰은 현재 폭주족 단속과 순찰을 강화하며 위반 차량에 대해 추적 수사를 진행하는 중이다.&lt;br&gt;&lt;br&gt;도로교통법 제46조3 등에 따르면 신호나 지시위반, 중앙선 침범, 안전거리 미확보, 급제동 금지 위반, 정당한 사유 없는 소음 발생 등 난폭 운전을 해선 안 되며, 이를 위반할 경우 1년 이하의 징역이나 500만원 이하의 벌금형에 처해질 수 있다. 또한 운전면허 정지나 취소 처분도 받을 수 있다.&lt;br&gt;&lt;br&gt;도로교통법 제46조에 따르면, 도로에서 2명 이상이 공동으로 2대 이상의 자동차들을 정당한 사유 없이 앞뒤로 또는 좌우로 줄지어 통행하면서 다른 사람에게 위해를 끼치거나 교통상의 위험을 발생하게 하는 행위를 해선 안 되며 이를 위반할 경우 2년 이하의 징역이나 500만원 이하의 벌금형에 처해질 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인권위 “트랜스젠더 학생 수련회 참여 제한은 차별”</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/19/RMXBKXXVUFH2TN52LHKZWTWFZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/19/RMXBKXXVUFH2TN52LHKZWTWFZE/</guid>
-      <dc:creator>강우석 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Nov 2024 03:04:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VPQQIEFSKZMXRB2X3UQKJN7X3Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;남규선 국가인권위원회 위원이 2022년 서울 중구 인권위 전원위원회실에서 열린 '트랜스젠더 성별정정 기준에 관한 청문회'에서 모두 발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회(인권위)가 트렌스젠더 학생이 바꾼 성별(性別)에 따라 방을 쓰고 싶다고 요구한다고 수련회 참여를 제한하는 행위는 차별이라고 판단했다. &lt;br&gt;&lt;br&gt;인권위는 지난달 23일 트렌스젠더 학생이 수련회 참여를 제한당했다고 제기한 진정에 대해 관할 교육감에게 성소수자 학생이 불이익을 당하지 않도록 학교 내 성별 분리시설 이용 관련 가이드라인 마련 등을 권고했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;인권위에 따르면 본래 여성이었다가 남성으로 성별을 바꾼 트랜스젠더 A씨는 작년 5월 재학 중이던 고등학교에서 진행하는 2박 3일 수련회에 참가하려 했다. 이때 수련회 담당 교사, 교감 등에게 남학생 방을 쓰고 싶다고 상담했지만 학교 측은 “진정인의 법적 성별이 여성이므로 여학생 방을 쓰지 않으면 수련회에 참가할 수 없다”고 했다. A씨는 “그럼 독방을 사용하겠다”고 요구했지만 학교 측은 거절했다. A씨는 결국 수련회에 참가하지 못했고, 올해 2월 트랜스젠더에 대한 차별이라며 인권위에 진정을 제기했다.&lt;br&gt;&lt;br&gt;해당 학교 측은 “A씨가 남학생 방을 쓸 경우, 타 학생들이 피해를 볼 수도 있고 성범죄 발생 우려도 고려했다”며 “A씨의 부모도 수련회 참가를 원하지 않았다”고 밝혔다. 또한 학교 측은 교육청 및 교육부에 여러 차례 상황을 전달하고 지침을 문의했지만 구체적인 답변을 받지 못하고 ‘법 테두리 내에서 사안을 처리할 것’을 요청받았다고 했다.&lt;br&gt;&lt;br&gt;인권위는 “학교 수련회에 성소수자 학생도 동등하게 참여할 기회를 보장하는 것이 공교육의 역할이며 의무”라며 “학생 자신이 인식하는 성별과 다른 성별의 시설을 이용하도록 학교 측이 사실상 강제한 것은 인간으로서의 존엄과 가치, 행복추구권을 침해하는 행위”라고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘단기 고수익’ 미끼로 110억원대 투자사기 일당 무더기 검거</title>
