@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>공수처, '장시호 회유 의혹' 김영철 차장검사 무혐의처분</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/203076.jpg" alt="203076.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;최서원(개명 전 최순실) 씨의 조카 장시호 씨 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&amp;nbsp;&lt;p&gt;고위공직자범죄수사처가 최서원(개명 전 최순실) 씨의 조카 장시호 씨에게 허위 증언 연습을 시켰다는 혐의로 고발된&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10201"&gt;김영철&lt;/span&gt;(51·사법연수원 33기) 서울북부지검 차장검사에 대해 무혐의 처분을 내렸다.&lt;br /&gt;&lt;br /&gt;20일 법조계에 따르면 공수처 수사2부(&lt;span style="font-weight: bold;" class="lawmanlink" serial="10696"&gt;송창진&amp;nbsp;&lt;/span&gt;부장검사)는 전날 직권남용 권리행사방해, 모해위증교사 등 혐의로 고발된 김 차장검사에 대해 혐의없음 처분했다.&lt;br /&gt;&lt;br /&gt;공수처는 두 사람이 만났다는 의혹이 제기된 2017년 12월 6∼11일 장 씨가 수용돼 있던 구치소에서 외부로 출정한 기록이 없다는 점을 근거로 해당 기간 두 사람이 접촉한 사실이 없다고 결론 내렸다.&lt;br /&gt;&lt;br /&gt;당사자인 장 씨가 지난 6월 공수처에 참고인 신분으로 출석해 "김 차장검사가 증언 연습을 시킨 적 없다"는 취지로 진술한 점도 무혐의 근거가 됐다.&lt;br /&gt;&lt;br /&gt;유튜브 채널 뉴탐사는 지난 5월 장 씨가 지인과 2020년에 대화한 녹취록을 근거로 김 차장이 국정농단 특검 파견 당시 장 씨를 회유하거나 증언 연습을 시켰고, 사적으로 가깝게 지냈다는 의혹을 제기했다.&lt;br /&gt;&lt;br /&gt;장 씨는 국정농단 사건의 피의자이자 핵심 증인으로서 최 씨의 비리와 삼성그룹의 연루 의혹 등을 청문회와 재판에서 증언한 바 있다. 김 차장검사는 국정농단 특검 당시 파견돼 수사·재판에 참여했다.&lt;br /&gt;&lt;br /&gt;시민단체 사법정의바로세우기시민행동이 김 차장검사를 고발하면서 공수처 수사가 시작됐다.&lt;br /&gt;&lt;br /&gt;당시 김 차장검사는 "21년 검사 인생을 모두 걸고 피를 토하는 심정이다. 허위사실을 선정적으로 이용하여 악의적인 음해"라는 입장문을 냈다. 이어 장 씨가 2023년 11월 6일과 11월 26일 '지인에게 과시하기 위해 김 검사와 관련된 거짓말을 했으니 진심으로 용서해 달라'는 취지로 보낸 문자를 공개하기도 했다.&lt;br /&gt;&lt;br /&gt;또 의혹을 보도한 뉴탐사 강진구 기자 등을 경찰에 고소하고 3억 원의 손해배상 청구 소송을 제기했다.&lt;br /&gt;&lt;/p&gt;</description>
+			<pubDate>Wed, 20 Nov 2024 04:57:18 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/203076</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203076</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203076.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>'가상자산 출금 중단' 하루인베스트 관련 법인 하루매니지먼트 파산 선고</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/203075.jpg" alt="3.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;가상자산 출금을 예고 없이 중단한 예치서비스 업체 하루인베스트의 관련 법인인 하루매니지먼트에 법원이 파산을 선고했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;서울회생법원 회생14부&lt;/b&gt;(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9019"&gt;이여진&amp;nbsp;&lt;/span&gt;부장판사)는 20일 하루인베스트의 계약당사자 법인인 하루매니지먼트에 대해 파산을 선고했다(&lt;b&gt;2024하합100259&lt;/b&gt;).&lt;br /&gt;&lt;br /&gt;선고 후엔 채권 신고와 확정 절차를 진행한다. 채권자들은 신고 기간인 내년 1월 31일까지 서울법원종합청사 제3별관 종합민원실에서 채권을 신고할 수 있다.&lt;br /&gt;&lt;br /&gt;채권자집회 및 채권 조사기일은 내년 2월 11일 오후 4시 서울법원종합청사 제3별관 제1호 법정에서 열린다.&lt;br /&gt;&lt;br /&gt;가상자산 플랫폼인 하루인베스트는 지난해 6월 고객들이 예치한 가상자산의 출금을 돌연 중단하고 플랫폼 운영을 중단했다. 현재 하루인베스트 경영진은 원금을 보장하고, 고수익을 낼 것처럼 고객들을 속여 1조 4천억 원 상당의 코인을 받아낸 뒤 편취한 혐의로 재판을 받고 있다.&lt;br /&gt;&lt;br /&gt;한편, 현재 서울회생법원에서는 관련 법인인 하루인베스트코리아와 하루유나이티드 등에 대한 파산 신청 사건을 심리 중인 것으로 파악됐다.&lt;/p&gt;</description>
 			<pubDate>Wed, 20 Nov 2024 03:21:12 -0000</pubDate>
@@ -232,16 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203061</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203061.jpg</media:thumbnail>
 			<dc:creator>안현 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 성관계 동영상 있다며 협박…"촬영물 없다면 성폭력처벌법 위반으로 처벌 못 해"</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/203046.jpg" alt="202019.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;상대방을 협박하려고 성관계 동영상이 없는데도 있다고 거짓말한 피고인에 대해 실제 동영상이 존재했다고 입증되지 않았다면 성폭력처벌법 위반죄가 성립되지 않는다는 판단이 대법원에서 확정됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;b&gt;대법원 형사1부&lt;/b&gt;(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5554"&gt;서경환&amp;nbsp;&lt;/span&gt;대법관)는 지난달 25일 살인, 성폭력 범죄의 처벌 등에 관한 특례법 위반 등으로 기소된 A 씨에 대해 징역 30년을 선고한 원심을 그대로 확정했다(&lt;b&gt;2024도11957&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;A 씨는 2022년 10월경부터 교제한 B 씨와 헤어진 이후 B 씨에게 지속적으로 연락하고, B 씨와의 성관계 동영상을 지인들에게 유포하겠다며 협박했다. 지난해 5월경 B 씨로부터 자신과 지인들에게 더 이상 연락하지 말아 달라고 요구받자, A 씨는 마지막으로 만나 달라고 요구했다. A 씨는 B 씨와 만나 말다툼을 하던 도중 목을 졸라 사망하게 했다. 이에 따라 A 씨는 살해 혐의, 성관계 촬영물을 유포하겠다며 협박한 혐의, 반복적으로 연락한 스토킹 혐의 등으로 기소됐다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;1심은 A 씨에 대한 살인 혐의 등을 유죄로 인정해 징역 30년을 선고했다. 다만 A 씨가 B 씨를 협박하는 데 이용한 성관계 동영상이 실제로 존재했다고 인정할 수 없어 성폭력처벌법으로 처벌하기 어렵다고 판단했다. 성폭력처벌법 제14조의3 제1항에 의해 협박죄보다 가중해 처벌하기 위해서는 '촬영물 등을 이용해 협박하는 행위'라는 구성요건을 충족해야 하는데, 동영상이 존재했다는 것을 인정할 증거가 없다는 취지이다. 1심은 "피고인이 B 씨에게 전송한 협박 메시지에는 야한 사진, 동영상 등을 언급하는 외에 실제로 성적 욕망 또는 수치심을 유발할 수 있는 촬영물을 전송한 사실은 없다"며 "A 씨가 사용한 휴대전화에 대한 디지털포렌식 결과에도 협박 관련 촬영물은 확인되지 않았다"고 설명했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;항소심도 A 씨와 검사의 항소를 기각하고 1심 판단을 유지했다. 항소심 역시 A 씨가 B 씨를 협박하는 데 이용한 성적 촬영물이 실제로 존재했다고 인정할 수 없다고 판단했다. 항소심은 "해당 조항의 '촬영물 등을 이용하여' 부분 문언의 통상적인 의미는 '촬영물 등의 존재를 전제로 이를 이용하는 것'이라고 봐야 한다"며 "이는 '촬영물 등이 존재하는 것처럼 속이거나 가장하는 것'과는 의미가 서로 다를 뿐만 아니라 행위 태양, 죄질이 같다고 볼 수도 없다"고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;대법원도 이와 같은 항소심 판단에 잘못이 없다고 보고 그대로 확정했다.&lt;/p&gt;</description>
-			<pubDate>Tue, 19 Nov 2024 05:45:39 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/203046</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203046</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203046.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
