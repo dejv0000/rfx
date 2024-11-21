@@ -13,6 +13,52 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>결별 요구한 여자친구 살해한 20대, 징역 20년</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/21/BZRNKM2IVBGCDDNKKF4OGSVOV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/21/BZRNKM2IVBGCDDNKKF4OGSVOV4/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Nov 2024 17:03:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/226TQMKBWZBSFJDGPDHJ4BXK5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;결별을 요구해온 여자친구를 흉기로 찔러 살해한 혐의로 재판에 넘겨진 20대 남성이 징역 20년을 선고 받았다.&lt;br&gt;&lt;br&gt;서울동부지법 형사합의12부(재판장 이정형)는 살인 혐의로 재판에 넘겨진 김모(22)씨에게 징역 20년을 선고했다. 다만 “범죄 이전에는 어떠한 형사처벌도 받지 않았고, 형의 집행을 통해 갱생 여지가 있다”며 검찰이 요청한 전자발찌 부착 명령 30년은 기각했다. &lt;br&gt;&lt;br&gt;김씨는 지난 5월 21일 새벽 서울 광진구 자양동 자신의 집에서 여자친구의 목을 조르고 흉기로 여러 차례 찔러 숨지게 한 혐의로 구속 기소됐다.&lt;br&gt;&lt;br&gt;앞서 지난달 17일 열린 결심 공판에서 검찰은 김씨에게 무기징역을 구형했다. 검찰은 “피고인은 수차례 결별 요구를 받았음에도 이를 무시하고 오히려 피해자를 지속적으로 괴롭히다가 끝내 살해하는 잔혹한 범행을 저질렀다”며 “아무런 잘못이 없는 상태에서 피해자가 단순히 피고인의 뜻대로 되지 않는다는 이유로 피해자를 살해했다”고 구형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;이에 김씨는 선처를 호소했다. 김씨는 최후 진술에서 “제가 얼마나 큰 잘못을 저질렀는지 뼈저리게 느끼고 있다”며 피해자의 부모님께도 다시 한 번 죄송하다는 말씀을 드린다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “피해자에 대한 구호 조치를 하지 않은 점, 수사 초기에 죄를 회피하려 한 점 등을 고려해 엄히 처벌할 필요가 있다”면서도 “시간이 지난 후에는 잘못을 반성하고 있고, 피해자의 유족과 합의했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/226TQMKBWZBSFJDGPDHJ4BXK5I.jpg?width=616&amp;height=347&amp;auth=fb291f91fe05224665f25c74f80904f68838289c4362d7002ff1de29cdf6c7e6&amp;smart=true" type="image/jpeg" height="347" width="616"/>
+    </item>
+    <item>
+      <title>종로구, 내년 9월부터 주민 버스비 지원한다</title>
+      <link>https://www.chosun.com/national/regional/seoul/2024/11/21/XEYCEYUYGBG5ZH2ZXC5M3EJ3E4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/11/21/XEYCEYUYGBG5ZH2ZXC5M3EJ3E4/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Nov 2024 04:57:53 +0000</pubDate>
+      <content:encoded>서울 종로구가 내년 9월부터 관내에 거주하는 주민들을 대상으로 버스비를 지원하기로 했다. 고령층을 위한 교통 복지, 온실가스 저감, 운수 업체 재정난 극복 등을 도모한다는 취지다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YDZHOJUUK5FHTEXGTRNT2WVCPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 한 버스 공영 차고지의 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;종로구는 내년 9월부터 ‘버스 교통비 지원사업‘을 본격적으로 시작할 예정이라고 21일 밝혔다. 관내에 거주하는 주민들의 버스비를 지원하는 것은 서울 자치구 중에선 강남구에 이어 2번째다.&lt;br&gt;&lt;br&gt;종로구가 버스비 지원 사업에 나선 것은 고령층에게 교통 복지를 제공하고 고령 운전으로 인한 사고를 예방하기 위해서다. 다만 종로구는 청년과 청소년, 어린이에게도 버스비를 지원해 온실가스 저감, 운수 업체 재정난 극복 등도 도모한다는 방침이다. 종로구 관계자는 “자녀가 있는 주민 입장에서는 자녀들의 교통비를 지원받을 수 있어 경제적 부담도 덜 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;주민 등록상 종로구에 살고 있는 6세 이상 주민이라면 누구나 버스비 지원을 신청할 수 있다. 연간 지원 받을 수 있는 최대 금액은 어르신(65세 이상)과 청년(18~39세) 24만원, 청소년(13~18세) 16만원, 어린이(6~12세) 8만원이다. &lt;br&gt;&lt;br&gt;종로구 관계자는 “버스비 지원을 신청할 수 있는 홈페이지를 현재 만들고 있다”며 “어르신은 현재 쓰고 있는 지하철 우대용 교통카드를, 이외의 주민은 본인 명의 교통카드 등을 홈페이지에 등록하면 된다”고 했다. 종로구는 인터넷을 쓰기 어려운 주민들을 위해 주민센터에서도 홈페이지 가입과 카드 등록을 도울 예정이다.&lt;br&gt;&lt;br&gt;이달 중 조례 제정을 완료해 내년 3월부터 시스템을 만들기 시작하고, 운영기관 선정 등을 거쳐 내년 9월부터 사업을 시작한다는 게 종로구 계획이다.&lt;br&gt;&lt;br&gt;정문헌 종로구청장은 “교통 약자의 비용 부담을 줄여 이동권을 보장하고 교통 복지를 실현하는 데 앞장서겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘모네에서 앤디 워홀까지’ 서양 미술 대표작 143점 제주 찾는다</title>
+      <link>https://www.chosun.com/national/regional/2024/11/21/AI2HHJZWIJFYLK5XQ3S4B5XJ7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/21/AI2HHJZWIJFYLK5XQ3S4B5XJ7Y/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Nov 2024 04:46:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZREOTZTT6JENZOUMHORYGGDQJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;클로드 모네의 1875년 작 '봄'./제주도립미술관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19세기 ‘인상주의 화가’ 클로드 모네(Claude Monet)에서 20세기 ‘팝 아트의 거장’ 앤디 워홀(Andy Warhol)까지 서양 미술을 대표하는 작가 89명의 작품 143점이 제주로 온다.&lt;br&gt;&lt;br&gt;제주도립미술관은 이달 26일부터 내년 3월 30일까지 제주현대미술관에서 ‘모네에서 앤디워홀까지: 서양미술 400년, 명화로 읽다’전을 연다고 21일 밝혔다. 이번 전시는 이달 시작되는 제4회 제주비엔날레 협력전이다. 남아프리카공화국의 국립미술관인 요하네스버그 아트 갤러리의 소장품을 선보인다.&lt;br&gt;&lt;br&gt;전시는 모두 9개의 섹션으로 구성됐다. ‘꿈에서 탄생한 미술관’ ‘남아프리카 공화국의 예술 현장’ ‘네덜란드 회화의 황금기’ ‘빅토리아 시대의 영국 미술’ ‘인상주의 이전’ ‘인상주의를 중심으로’ ‘인상주의 이후’ ‘20세기 초 아방가르드’ ‘20세기 콘템퍼러리 아트’ 등이다.&lt;br&gt;&lt;br&gt;전시장에선 19세기 영국 낭만주의를 대표하는 국민화가 윌리엄 터너를 시작으로, 빅토리아 시대 라파엘 전파의 존 에버렛 밀레이와 단테 가브리엘 로세티의 작품을 볼 수 있다. 프랑스 바르비종파의 장 프랑스와 밀레, 카미유 코로와 사실주의 작가 귀스타브 쿠르베의 작품도 전시된다.&lt;br&gt;&lt;br&gt;인상파에서는 이 사조의 시작을 연 외젠 부댕과 그의 제자 클로드 모네, 에드가 드가, 알프레드 시슬리의 작품을 선보인다. 후기 인상파에서는 폴 시냑, 루시엔 피사로, 폴 세잔, 반 고흐의 작품을 감상할 수 있다. 나비파의 피에르 보나르, 에두아르 뷔야르, 모리스 드니와 야수파의 앙리 마티스, 큐비즘의 파블로 피카소의 작품이 전시된다.&lt;br&gt;&lt;br&gt;현대미술에서는 프란시스 베이컨, 앤디 워홀, 로이 리히텐슈타인, 데이비드 호크니 등 20세기 거장의 작품을 만날 수 있다. 누구나 쉽게 서양미술사를 이해할 수 있다. 누구나 쉽게 서양미술사를 이해할 수 있도록 현장에서는 스타 도슨트 김찬용의 목소리로 녹음된 오디오 가이드가 서비스된다. &lt;br&gt;&lt;br&gt;이종후 제주도립미술관장은 “제주비엔날레와 연계해 수준 높은 예술을 경험할 수 있는 서양미술사의 주요 작품들을 선보이게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>초콜릿 포장지로 싼 마약…8㎏ 국내 밀반입한 나이지리아 조직 검거</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/21/XYJQV5OFAJFX7MIRKGLNWEX7XQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/21/XYJQV5OFAJFX7MIRKGLNWEX7XQ/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Nov 2024 16:20:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QWS2QIO4AAQ4SVR77OPCX4VW4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;멕시코 초콜릿으로 포장된 필로폰 덩어리. /서울경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해외 3개국을 통해 국내로 대량의 필로폰을 몰래 반입한 나이지리아 마약 조직의 운반책과 유통 및 판매책이 경찰에 검거됐다.&lt;br&gt;&lt;br&gt;서울경찰청 광역수사단 마약범죄수사대는 나이지리아에 거점을 두고 국내에 대량의 필로폰을 밀반입한 혐의로 나이지리아인 국내 유통책 A(57)씨와 캐나다인 운반책 등 17명을 검거하고 스웨덴 국적 운반책 등 6명을 구속했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 검거 과정에서 20만 명이 동시에 투약 가능한 분량인 시가 200억 원 상당의 필로폰 6.15kg을 압수했는데 2kg가량은 이미 유통된 것으로 확인됐다.&lt;br&gt;&lt;br&gt;A씨의 조직은 통관을 피하려고 교묘하게 마약을 숨겨 국내로 반입했다.&lt;br&gt;&lt;br&gt;멕시코에선 시중에서 판매하는 초콜릿 포장지에 필로폰을 싼 채 들여왔고, 캐나다에선 배낭의 등판 부분을 뜯어내 진공 포장된 필로폰을 숨긴 뒤 마약 탐지견이 냄새를 맡을 가능성에 대비해 배낭을 담은 캐리어에 커피 가루를 뿌렸다.&lt;br&gt;&lt;br&gt;운반책과 유통책에 범행을 지시한 나이지리아인 총책 A씨는 과거 한국에서 7년가량 살다가 대마 유통 혐의로 검거돼 추방됐던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 추방 이후에도 나이지리아에서 실시간으로 조직원과 연락하며 국내에 마약을 밀수입해 온 것으로 보고, 인터폴 적색수배를 내리고 나이지리아 마약단속청에 검거를 요청한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국가장학금 지원 대상 100만→150만명... 오늘부터 신청</title>
+      <link>https://www.chosun.com/national/education/2024/11/21/Z5BXEW5G7BC6JI7L6354RJ4AUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/11/21/Z5BXEW5G7BC6JI7L6354RJ4AUA/</guid>
+      <dc:creator>김경은 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Nov 2024 03:50:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TQCTDJJEFLTBDOHQ5DDO2GSQQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국장학재단 본사 전경. /한국장학재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오늘부터 다음달 26일 오후 6시까지 2025학년도 1학기 국가장학금 1차 신청을 받는다고 교육부와 한국장학재단이 21일 밝혔다.&lt;br&gt;&lt;br&gt;국가장학금은 월 소득 인정액이 일정 수준 이하인 대학생 가운데 성적 기준 등을 충족한 학생에게 국가가 지원하는 소득연계형 장학금이다.&lt;br&gt;&lt;br&gt;신청 대상은 재학생·신입생·편입생·재입학생·복학생 등 모든 대학생이다.&lt;br&gt;&lt;br&gt;재단 홈페이지(&lt;a href="https://www.kosaf.go.kr/" target="_blank"&gt;https://www.kosaf.go.kr&lt;/a&gt;)와 모바일 애플리케이션 ‘한국장학재단’에서 24시간 신청할 수 있다.&lt;br&gt;&lt;br&gt;내년에는 지원 기준이 기존 8구간 이하에서 9구간 이하로 확대됐다. 이에 따라 지원 대상은 약 100만명에서 150만명으로 대폭 늘어날 전망이다.&lt;br&gt;&lt;br&gt;소득과 연계해 학자금을 구간별로 다르게 지원하는 국가장학금 Ⅰ유형의 경우 새로운 대상인 9구간에 속하는 학생은 연간 100만원을 지원 받을 수 있다. 다자녀의 경우 첫째와 둘째는 연간 135만원, 셋째 이상은 연간 200만원을 지원 받을 수 있다.&lt;br&gt;&lt;br&gt;기초·차상위는 전액, 1~3구간은 570만원, 4~6구간은 420만원, 7·8구간은 350만원을 각각 지급 받을 수 있다.&lt;br&gt;&lt;br&gt;다자녀는 첫째·둘째의 경우 기초·차상위는 전액, 1~3구간은 570만원, 4~6구간은 480만원, 7·8구간은 450만원을, 셋째 이상에게는 전액이 지원된다. 1599-2000&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMBPXGTOUJCVVNYLT6C2LSH44Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;2025학년도 1학기 국가장학금 신청 안내 포스터 /교육부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“계단서 넘어진 손님... 합의금 3000만원 요구” 자영업자의 눈물</title>
       <link>https://www.chosun.com/national/national_general/2024/11/21/BXZREQ7WRZHPJAKEXZ636Q5WR4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/21/BXZREQ7WRZHPJAKEXZ636Q5WR4/</guid>
@@ -833,15 +879,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I772CWYQJBIMNBR7KYY3P6JUV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공직선거법 위반 혐의로 불구속기소 된 더불어민주당 이재명 대표의 배우자 김혜경 씨가 14일 오후 경기도 수원시 영통구 수원지방법원에서 열린 1심 선고공판을 마치고 나오고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 더불어민주당 이재명 대표의 배우자 김혜경씨에 대한 공직선거법 위반 1심 판결에 불복해 20일 항소했다. 김씨는 민주당 대선 후보 경선 과정에서 경기도 법인카드로 민주당 전현직 중진 의원 아내 등의 식사를 대접한 혐의로 지난 14일 벌금 150만원을 선고 받았다.&lt;br&gt;&lt;br&gt;수원지검은 이날 언론에 보낸 안내문을 통해 “오늘 양형부당을 이유로 항소했다”며 “피고인이 대선을 앞둔 당내 경선 과정에서 국회의원의 배우자들에게 기부행위를 하여 선거에 미친 영향이 큰 점, 정치적 중립을 준수해야 할 공무원들을 동원한 점 등을 고려한 것”이라고 했다. 앞서 검찰은 벌금 300만원을 구형했었다.&lt;br&gt;&lt;br&gt;김씨 측은 선고 후 나흘 만인 지난 18일 수원지법에 항소장을 냈다. 김씨의 변호인은 선고 직후 취재진에 “재판부가 추측·추론에 의한 유죄 판결을 했다는 생각이 든다”며 항소하겠다고 했다.&lt;br&gt;&lt;br&gt;김씨는 경기도지사였던 이 대표가 당내 대선 후보 경선 출마를 선언한 이후인 2021년 8월 2일 서울 종로구의 한 중식당에서 민주당 전현직 중진 의원의 아내 3명과, 자신의 운전기사와 수행원 등 6명에게 10만4000원의 식사를 대접한 혐의(공직선거법상 기부행위 위반)를 받는다.&lt;br&gt;&lt;br&gt;당시 식사 비용은 경기도 법인카드로 결제됐고, 김씨의 수행비서인 배모(전 경기도 별정직 공무원)씨의 지시를 받은 이 사건의 제보자 조명현(전 경기도 7급 공무원)씨가 직접 결제했다.&lt;br&gt;&lt;br&gt;검찰은 김씨의 지시나 묵인이 있었던 것으로 보고, 지난 2월 그를 불구속 기소했다. 1심 재판부인 수원지법 형사13부(재판장 박정호)는 공소사실에 대해 모두 유죄로 인정했다. 재판부는 “피고인의 묵인이나 용인 아래 기부 행위를 했다”며 “피고인과 순차적이고 암묵적인 의사 결합이 있었다고 판단된다”고 비서 배씨와 김씨의 공범 관계를 인정했다.&lt;br&gt;&lt;br&gt;재판부는 또 “피고인은 범행을 부인하고 배씨에게 책임을 전가하는 모습을 보였고, 당시 경기도 공무원이던 배씨를 통해 (범행이)이뤄지는 등 선거 공정성·투명성을 해할 위험이 있었다고 보인다”고도 했다.&lt;br&gt;&lt;br&gt;한편, 김씨가 이 사건으로 대법원에서 벌금 100만원 이상을 확정받게 되면, 5년간 선거권이 박탈돼 선거운동을 할 수 없게 된다. 이 대표가 차기 대선에 출마한다 하더라도 김씨가 선거를 도울 수 없다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>폐차 직전 사고 차 번호판 이용, 허위 대출 서류 작성... 120억원 챙긴 일당 송치 </title>
-      <link>https://www.chosun.com/national/incident/2024/11/20/34FSDL6UHVCHPPRKNWNX4MIGPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/20/34FSDL6UHVCHPPRKNWNX4MIGPU/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Nov 2024 04:49:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4OSHVSG5CJACNJ5XMGS7AY73UY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;범행에 이용된 사고 차량 번호판./인천경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폐차 수준의 사고 차량 번호판을 이용해 허위 대출 서류를 작성한 뒤 120억 원의 대출금을 챙긴 일당이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;인천경찰청 형사기동대는 사기 혐의로 총책 30대 남성 A씨와 캐피탈업체 직원 30대 남성 B씨 등 8명을 구속해 검찰에 송치했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 또 불법 대출 사실을 알면서도 명의를 빌려준 30대 남성 C씨 등 202명을 사기와 사기 방조 등 혐의로 불구속 송치했다.&lt;br&gt;&lt;br&gt;A씨 등은 지난해 4월부터 지난 2월까지 약 10개월간 인천 미추홀구에서 중고차 매매업체를 운영하면서, 폐차 수준의 사고 차량 번호판을 이용해 대출 서류를 꾸며 금융기관으로부터 120억 원의 대출금을 받아 챙긴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이들은 폐차 직전의 차량 번호판을 사진으로 찍어 정상 중고차량 번호판인 것처럼 컴퓨터로 조작한 뒤, 차량 성능기록지 등을 위조하는 수법으로 허위 대출 서류를 만든 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이들은 범행을 위해 캐피탈업체 소속 직원과 짜고 범행했다. 캐피탈업체 소속 직원은 대출 영업 수당을 챙기기 위해 범행에 가담했다.&lt;br&gt;&lt;br&gt;A씨 등은 이런 방식으로 건당 적게는 2000만 원에서 많게는 2억 원의 대출금을 받아 챙긴 것으로 파악됐다. 명의를 빌려준 사람에겐 100만~1000만 원을 대출금에서 떼어줬다.&lt;br&gt;&lt;br&gt;일부 캐피탈 업체 직원은 해당 대출 서류가 허위인 것을 알면서도 대출 영업 수당을 챙기기 위해 A씨와 함께 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “중고차 거래 등을 위한 대출은 비대면으로 이뤄지고, 심사가 까다롭지 않다”며 “명의를 빌려주면 범죄에 악용될 수 있는 만큼, 각별히 주의해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>아파트 단지서 초등생 치어 숨지게 한 폐기물 수거차량 운전자 구속</title>
       <link>https://www.chosun.com/national/national_general/2024/11/20/S34ROQ6Y5NGBNBY2YF4C57WWAY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/20/S34ROQ6Y5NGBNBY2YF4C57WWAY/</guid>
@@ -856,15 +893,6 @@
 &lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
         <media:credit role="author" scheme="urn:ebu">김혜인</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>경찰, 포항 지역 경북도의원 정치자금법 위반 혐의 압수수색</title>
-      <link>https://www.chosun.com/national/incident/2024/11/20/TEVY4FQW6JAZTIJ4KSH4GWVSOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/20/TEVY4FQW6JAZTIJ4KSH4GWVSOE/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Nov 2024 04:42:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4LGDWQ5DTHNP5P5PED23V6LRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북경찰청 반부패경제범죄수사대가 정치자금법 위반 등 혐의로 포항 지역 국민의힘 소속 경북도의원 A씨의 자택과 사무실 등을 압수수색했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 전날 진행된 압수수색에서 A씨가 보관하던 서류, 컴퓨터, 휴대전화 등을 확보한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이번 압수수색은 A씨가 정치자금법을 위반했다는 취지의 고발성 제보로 시작된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 확보한 자료를 바탕으로 A씨의 정치자금법 위반 여부와 제보의 사실 관계를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘첫 택시협동조합 설립’ 박계동 전 의원, 무고 혐의로 징역 8개월 선고</title>
@@ -885,15 +913,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GWEBWBKMH5JLJKDDRM66RAKCWU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;임산부의 날인 지난달 10일 오후 대구 수성구 파티마여성병원에서 출산이 임박한 임산부가 진료를 기다리는 동안 함께 온 일곱 살 딸이 만삭인 엄마 배에 귀를 대고 곧 태어날 동생의 태동을 느껴보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고령 임신부가 늘어남에 따라 임신 초기 유·사산 시 사용할 수 있는 휴가가 현행 5일에서 10일로 확대된다. 고용노동부는 이 같은 내용 등을 담은 육아지원 3법(남녀고용평등법·고용보험법·근로기준법) 하위법령 일부 개정령안을 내달 30일까지 입법예고한다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;이번 개정안에는 임신 11주 내 유·사산을 겪은 여성 근로자가 기존 5일 휴가만으로는 건강을 충분히 회복할 수 없다는 지적에 따라 휴가 기간을 10일로 늘리는 내용이 포함됐다. 또 부모 모두 3개월 이상 육아휴직을 사용한 경우에만 1년에서 1년 6개월로 육아휴직 기간이 늘어나되, 한부모 가정이나 중증 장애아동(장애인복지법 기준)의 부모는 이런 조건 없이 연장이 가능하도록 했다.&lt;br&gt;&lt;br&gt;현행 90일인 출산 전후 휴가는 미숙아로 태어나 신생아 중환자실에 입원하는 경우 휴가 기간이 100일로 늘어난다. 미숙아는 임신 37주 미만의 출생아 또는 체중이 2.5㎏ 미만인 영유아이며 입원 시점은 출생 후 24시간 이내로 규정했다.&lt;br&gt;&lt;br&gt;임신기 근로시간 단축을 임신 기간 전체에 걸쳐 사용할 수 있는 ‘고위험 임신부’는 다태임신(한 번에 둘 이상의 태아가 임신)·당뇨병·출혈 등 보건복지부가 정한 ‘고위험 임산부 의료비 지원사업’의 대상인 19가지 위험 질환을 진단받은 임신부로 한정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>이화영 ‘대북송금’ 재판서 위증 혐의 수행비서...첫 재판서 “기록 복사 못해”</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/20/PHHLQL5ASRGBPCWWWVIJPPA7H4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/20/PHHLQL5ASRGBPCWWWVIJPPA7H4/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Nov 2024 03:02:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B7CJ6W2HY3T32GRC5F2XIU5QLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사가 지난 달 2일 오후 서울 여의도 국회 법제사법위원회에서 열린 박상용 수원지검 부부장검사 탄핵소추사건 조사 청문회에 출석, 의원 질의에 답변하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이화영 전 경기도 평화부지사의 ‘불법 대북송금’ 재판에 증인으로 나와, 거짓 증언을 한 혐의로 재판에 넘겨진 이 전 부지사의 수행비서 문모씨에 대한 첫 재판이 공전했다. 문씨 측이 “기록 복사를 못했다”고 해서다. 이 사건은 지난 7월 기소 후 4개월이 지났다.&lt;br&gt;&lt;br&gt;수원지법 형사1단독 김윤선 부장판사는 20일 오전 문씨에 대한 위증 혐의 사건 첫 공판을 열었다. 이날 문씨는 이 전 부지사의 변호를 맡고 있는 김광민 변호사와 함께 법정에 나왔다. 김 변호사는 검찰의 공소사실에 대한 의견을 묻는 김 판사에 “부인하는 취지이기는 한데 열람 복사를 못했다”고 했다.&lt;br&gt;&lt;br&gt;이에 김 부장판사가 “(11월)8일에는 한다고 해서 오늘 (재판)기일을 잡은 건데 열람 등사를 못 한 거냐”고 하자, 김 변호사는 “아직 다 못했다”며 “공소사실 인부는 다음 기일에 했으면 좋겠다”고 했다. 김 부장판사는 재차 “11월 8일에 (열람 등사를)못했냐”고 했고, 김 변호사는 “하고는 있는데, 기록이 1만 페이지가 넘어 앞으로 두 달 정도는 더 시간이 걸릴 거 같다”고 했다.&lt;br&gt;&lt;br&gt;이에 “두 달 시간을 드리면 공소사실 인부가 가능하냐”는 김 부장판사의 질문에, 김 변호사는 “두 달 정도면 기록이 확보 되는 거고, 검토하고 나서 의견을 말씀드릴 수 있을 거 같다”고 했다.&lt;br&gt;&lt;br&gt;김 부장판사는 의아하다는 듯이 “기록 복사가 두 달씩 걸리는 경우가 있냐”고 검찰에 물었다. 검찰도 “그 정도는 없던 거 같다”며 갸웃했다.&lt;br&gt;&lt;br&gt;김 부장판사는 “기록 복사에 두 달을 더 달라고 하는 건 문제가 있다”며 “인력을 추가로 투입하던지 해야 한다”고 했다. 이에 김 변호사는 “사건 기록이 필요 이상으로 많고, 개인 한명이 1만 페이지를 복사하는 건 사법시스템상 문제가 있다. 인력을 추가하라는 건 피고인에게 부담”이라고 했다.&lt;br&gt;&lt;br&gt;김 부장판사는 “변호인에게 하라는 것”이라며 “인력 확보해서 빠르게 복사하고, 두 달 후에는 반드시 공소사실 인부를 할 수 있도록 조치를 취해달라”고 했다. 김 변호사는 “1만 페이지를 복사하자마자 검토하고, 의견을 제시하는 게 가능할지 확답드리기 어렵다”고 맞받았다. 결국 재판은 해를 넘겨 내년 1월 15일에 진행하기로 했다.&lt;br&gt;&lt;br&gt;검찰에 따르면, 문씨는 지난해 2~3월 이 전 부지사의 불법 대북송금 재판에 증인으로 나와 위증한 혐의를 받는다. 문씨는 “이화영의 사적 수행비서로 일한 사실이 없다” “쌍방울그룹으로부터 직접 법인카드와 급여를 수수했다”고 증언했는데, 정작 “쌍방울그룹을 위해 한 일은 전혀 없다”고 하는 등 사실과 모순된 증언을 했다는 게 검찰 입장이다.&lt;br&gt;&lt;br&gt;이 전 부지사는 쌍방울로부터 법인카드 등을 제공(뇌물)받은 혐의 등으로 재판 중인데, 이 법인카드를 본인이 아니라 문씨가 받아 쓴 것이라고 거듭 주장하고 있다. 문씨는 쌍방울에 형식상 직원으로 등재돼 있었지만 실제로 일하지 않고, 급여와 법인카드를 지급받은 것으로 조사됐다. 검찰은 문씨의 위증이 오랜 경제적 의존관계와 상하관계에서 비롯됐다고 봤다. 문씨는 2009년부터 2022년까지 이 전 부지사가 설립한 컨설팅 회사에 허위직원으로 등재돼 급여를 지급받았고, 이 전 부지사로부터 현금 5억여원을 받아 전세금을 마련한 것으로도 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>공수처, '장시호 위증교사 의혹' 김영철 차장검사 무혐의</title>
       <link>https://www.chosun.com/national/court_law/2024/11/20/IY3AIATDUZDNDG5MPDU6RHPYQY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/20/IY3AIATDUZDNDG5MPDU6RHPYQY/</guid>
@@ -901,15 +920,6 @@
       <description/>
       <pubDate>Wed, 20 Nov 2024 02:58:38 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GOQU7FB3CG6TMYBOM6K5AAHX7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최서원(개명 전 최순실)씨의 조카 장시호씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처(공수처)가 ‘국정 농단 게이트’ 수사 과정에서 최서원(개명 전 최순실)씨 조카 장시호씨에게 위증을 교사했다는 의혹을 받는 김영철 서울북부지검 차장검사에 대해 무혐의 처분을 내렸다. &lt;br&gt;&lt;br&gt;공수처 수사2부(부장 송창진)는 모해위증교사, 공무상 비밀누설, 직권남용 권리행사방해 혐의를 받는 김 검사를 ‘혐의없음’으로 불기소 처분했다고 20일 밝혔다. &lt;br&gt;&lt;br&gt;이 의혹은 한 인터넷 매체가 5월 6일 장씨가 지인과 2020년 나눈 대화의 녹취록을 공개하면서 제기됐다. 김 차장검사가 국정농단 특검 파견 당시 장씨에게 구형량을 알려주며 회유해 증언 연습을 시켰다는 내용이었다. 시민단체는 이를 근거로 김 검사를 공수처에 고발했고, 민주당은 김 검사에 대한 탄핵 근거로도 제시했다.&lt;br&gt;&lt;br&gt;의혹에 대해 김 검사는 민주당이 ‘뒷거래’ 의혹의 당사자로 지목한 장시호씨가 “뒤에 돌봐주는 사람이 있다는 것을 과시하기 위해 너무 큰 거짓과 너무 나쁜 말을 지어냈다”며 자신에게 보내온 메시지를 공개했다. 김 검사는 “장씨가 자신을 과시하기 위해 허위로 진술한 것”이라며 “21년 검사 인생을 모두 걸고, 피를 토하는 심정으로 말씀드린다”고 했다. &lt;br&gt;&lt;br&gt;사건을 검토한 공수처는 여러 증거를 토대로 허위 증언 연습은 사실무근이라고 결론 내렸다. 공수처는 장씨가 과거 ‘국정농단’ 사건으로 수감됐던 서울구치소 출정 기록을 파악해, 김 차장검사와 장씨의 물리적 접촉이 없었다는 점을 확인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>민노총·전농, 오늘 서울 도심서 ‘尹 퇴진 2차 총궐기’ 대규모 집회</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/20/M3SF26KGCVHJRMXP4TETAEJW4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/20/M3SF26KGCVHJRMXP4TETAEJW4Y/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Nov 2024 02:41:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QXZ6R3DOWRAI5MURRHGCPEAPLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 서울 중구 덕수궁 대한문 일대에서 민주노총과 '윤석열정권퇴진운동본부' 등이 주최한 '전국노동자대회·1차퇴진 총궐기' 현장에서 집회 참가자들과 경찰이 대치하고 있다./조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오늘(20일) 오후 서울 도심에서 전국민주노동조합총연맹(민노총), 전국농민총연맹(전농)이 윤석열 대통령 퇴진을 촉구하는 대규모 집회를 연다.&lt;br&gt;&lt;br&gt;민노총과 전농 등이 속해있는 ‘윤석열정권퇴진운동본부’는 이날 오후 서울 도심에서 윤 대통령 퇴진을 촉구하는 2차 총궐기 집회를 진행한다.&lt;br&gt;&lt;br&gt;주최 측은 이날 오후 1시부터 오후 1시에 서울지방고용노동청과 시청 및 광화문, 을지로1가 등 5곳에서 사전 집회를 진행한다. 이후 오후 3시부터는 숭례문 앞에서 세종대로부터 숭례문 방면 전 차로를 점거한 채 본집회를 이어갈 예정이다.&lt;br&gt;&lt;br&gt;집회 종료 이후 오후 4시부터는 집회 참가자들은 서울역을 거쳐 한강대로를 따라 서울 용산구 남영로터리까지 행진할 예정이다. 이에 세종대로와 한강대로 등 dlfoe 교통이 제한된다.&lt;br&gt;&lt;br&gt;경찰은 원활한 차량 통행을 위해 집회 현장에 교통경찰 170여명을 배치하고, 집회 장소 옆 편도를 가변차로로 운영할 예정이다. 경찰은 사전 집회와 본집회에 각각 4000~5000명, 7000~1만명 가량 참가할 것으로 예상하고 있다.&lt;br&gt;&lt;br&gt;한편 대규모 집회를 앞두고 경찰은 불법 집회에 대해 엄정 대응하겠다는 입장이다. 김봉식 서울경찰청장은 지난 18일 열린 기자간담회에서 “준법집회는 헌법상 권리인 만큼 철저히 보장하도록 하겠다”면서도 “불법적인 집회에 대해서는 엄정하게 대응하는 기조를 유지하도록 하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 9일 열린 1차 총궐기에서 경찰이 차선 확보에 나서면서 집회 참가자들과 큰 충돌이 벌어졌다. 경찰은 집회 참가자들이 사전 신고한 범위를 벗어났다며 통제에 나섰고, 집회 참가자들이 이에 반발하면서 물리적 충돌이 발생했다. 이에 경찰은 체포한 11명 가운데 6명에 대해 구속영장을 신청했으나 지난 12일 법원이 모두 기각했다.&lt;br&gt;&lt;br&gt;지난 19일에는 더불어민주당과 야당 의원들이 서울 서대문구에 위치한 경찰청을 찾아 강경 진압에 대해 조지호 경찰청장의 사과를 요구했다. 하지만 조 청장은 “절제된 공권력을 행사하겠다”는 원론적 입장만 밝힌 채 사과를 거부한 것으로 전해진다.&lt;br&gt;&lt;br&gt;주최 측은 내달 7일 예정된 3차 총궐기까지 예고한 상황이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>검찰, ‘콜 차단·몰아주기’ 카카오·카모 압수수색 2주 만에 마무리 수순</title>
@@ -946,15 +956,6 @@
       <description/>
       <pubDate>Wed, 20 Nov 2024 00:08:44 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EM3VBNM3TFPF7LTYTIKVGLFTWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구급차./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;매일 아침 안부를 나누던 이웃 남성이 보이지 않자 119에 신고해 목숨을 구한 여성의 사연이 전해졌다.&lt;br&gt;&lt;br&gt;현직 소방관이라고 밝힌 A씨는 최근 엑스(X·옛 트위터)에 신고받고 출동한 빌라에서 겪은 일을 공유했다.&lt;br&gt;&lt;br&gt;A씨는 “빌라에 산다고 ‘빌거’(’빌라 거지’의 줄임말)라고 하는데 세상에 어쩜 그렇게 끔찍한 말은 잘도 만들어 내는지. 오늘은 그런 빌라에서 있었던 일 하나 얘기해주겠다”고 운을 뗐다.&lt;br&gt;&lt;br&gt;이어 “신고를 받고 출동한 곳은 한 빌라 3층이었다. 엘리베이터도 없는 건물이었다”며 “부끄럽지만 ‘사람을 업고 내려와야 하나’ 고민을 하고 있었다. 나이가 40대에 접어든 데다 11월이라 추워서 허리가 삐걱거렸다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 “현관문을 열고 들어가니 울고 있는 젊은 여성과 입술이 터지고 안경 코 받침에 얼굴이 긁혀서 피를 흘리고 있는 남성이 있었다”며 “남성은 계속 몸을 계속 떨고 말은 어눌했다. 그가 보여준 복지 카드를 보고 선천성 뇌 병변에 더해 지적 장애까지 있는 장애인이라는 걸 알게 됐다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “여성은 옆에서 울고 있었다. ‘관계가 어떻게 되냐’고 물었더니, 옆집 사는 사람이라더라”며 “매일 같이 인사하는 남자가 연이틀 얼굴을 비치지 않자 걱정됐나 보다. 그래서 사흘째 되든 날 아침에 고민하다가 남자의 집 문고리에 손을 얹은 것”이라고 했다.&lt;br&gt;&lt;br&gt;A씨는 “이 빌라에는 관리사무소가 없다”며 “이웃의 안녕을 확인하기 위한 여성의 최선은 직접 손을 쓰는 일이었던 거다. 다행히 문은 열려 있었고, 여자는 발작 온 뒤로 기진해서 내내 쓰러져 있던 남성을 보고 119에 신고한 것”이라고 했다.&lt;br&gt;&lt;br&gt;이때 여성은 소방관에게 “죄송하다”고 사과했다. A씨가 “잘하신 건데 뭐가 죄송하냐”고 하자, 여성은 “더 빨리 신고할 수 있었는데”라며 차책했다고 한다.&lt;br&gt;&lt;br&gt;A씨는 “그 순간 뭐에 얻어맞은 것처럼 정신이 번쩍 들었다. 이런 마음으로 세상을 사는 사람이 존재하는구나 싶었다”며 “그러니까 사는 집의 크기를 가지고 사람 마음의 크기를 재단하지 말자. 가난한 동네건 부자 동네건 꽃은 핀다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>월세 10만원이 1년 만에 200만원으로…백종원 “시장 옮기겠다” 경고</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/20/ZQJLFTBTPVBMHMCMFGN2IFLNKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/20/ZQJLFTBTPVBMHMCMFGN2IFLNKQ/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Nov 2024 22:35:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MDHHG6A73NBNHDUYPQXPSYSMUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백종원 더본코리아 대표가 19일 유튜브를 통해 충남 예산시장에서 벌어진 젠트리피케이션 현상을 지적하며 "부동산 투기를 멈춰 달라"고 말하고 있다. /유튜브 백종원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백종원 더본코리아 대표가 핫플레이스로 거듭난 충남 예산시장의 상권 임대료가 폭등하자 “진절머리가 난다”며 부동산 투기꾼들에게 경고했다.&lt;br&gt;&lt;br&gt;19일 유튜브 채널 ‘백종원’에 올라온 ‘재개장에 6개월이나 걸린 이유, 와 보시면 압니다’라는 제목의 영상에는 임대료 폭등에 하소연하는 상인들의 인터뷰가 담겼다. 예산시장 인근 상인들은 “월세 10만원짜리던 가게가 지금은 160만원, 200만원까지 올라간다더라” “사람이 많이 몰리니 시세가 상승하는 부분이 있다”고 했다.&lt;br&gt;&lt;br&gt;예산시장은 작년 1월 백 대표와 함께 추진한 ‘예산시장 살리기 프로젝트’로 단숨에 전국적인 명소로 떠올랐다. 올해도 인파가 몰리면서 6월까지 방문객이 200만명을 넘어섰다.&lt;br&gt;&lt;br&gt;동시에 오랫동안 시장을 지켜온 상인들이 이곳을 떠나야 하는 ‘젠트리피케이션’ 현상도 나타났다. 백 대표는 작년 4월 “이왕이면 소탐대실, 작은 것에 연연하지 말고 애초 시장에서 시작했던 분들처럼 멀리 봐주셨으면 한다”고 당부했고, 예산군도 한국공인중개사협회 예산군지회와 간담회를 열고 부동산 거래 확립에 신경 써 달라고 부탁했다. 그럼에도 예산시장 주변 상권의 임대료는 나날이 상승했다고 한다.&lt;br&gt;&lt;br&gt;백 대표는 이에 대해 “나는 젠트리피케이션이 진절머리가 나는 사람”이라며 “비싼 임대료 때문에 시장의 경쟁력을 무너뜨린다고 판단되면 저희와 마음이 맞는 분들을 모시고 시장을 옮길 것”이라고 했다. 이어 “빈말이 아니다. 통째로 시장 놔두고 다 나갈 수도 있다”고 했다.&lt;br&gt;&lt;br&gt;그는 “마지막으로 경고 아닌 경고를 하겠다”며 “말도 안 되는 부동산 투기꾼들이 붙어서 땅값이 들썩거리면 우리는 절대 들어가지 않겠다”고 강조했다. 이어 “저도 더본코리아도 지역의 미래, 성장력을 보고 시작한 것이지 처음부터 돈을 벌자고 시작한 사업이 아니다”라며 “다 같은 마음이면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;한편 예산시장은 약 765㎡ 규모의 오픈스페이스 공사를 마치고 지난달 본격적인 운영에 들어갔다. 방문객들이 상점에서 음식을 사와서 먹을 수 있는 공간이다. 지난 4월부터 약 6개월에 걸쳐 바닥‧지붕‧기둥 등을 현대화하는 공사를 진행했다. 또한 방문객 주차 편의를 위해 사업비 56억원을 투입해 187면 규모의 주차장 공사도 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>병원장이 ‘보험 사기단’ 두목이었다...실손보험 수십억 챙긴 기막힌 수법</title>
