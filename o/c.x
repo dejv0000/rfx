@@ -13,6 +13,87 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>태업 중인 철도노조, 서울지하철노조도 “12월 총파업”</title>
+      <link>https://www.chosun.com/national/labor/2024/11/21/Q7RTCJXCNVHZXFR3XEQYUOB7PQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/11/21/Q7RTCJXCNVHZXFR3XEQYUOB7PQ/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Nov 2024 00:16:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SNNBWWJUAVERDNRTFPEWWHIOH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;KTX 등을 운행하는 코레일 노조가 다음 달 5일부터 파업에 돌입한다고 21일 밝혔다. 다음 날인 6일부터는 서울교통공사 노조가 파업을 예고하고 있어 철도와 지하철의 동시 파업이 진행될 가능성도 있다. 사진은 지난 20일 지하철 1호선 서울역 승강장에서 서울교통공사 노조의 태업으로 열차 도착이 지연돼 대기 중인 시민들. /이태경 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임금 인상과 인력 충원 등을 요구하며 태업 중인 코레일 노조(전국철도노동조합)가 다음 달 5일부터 무기한 총파업에 돌입한다고 21일 밝혔다. 철도노조는 이날 서울역 앞에서 기자회견을 열고 “이제 투쟁의 시간”이라며 “정부와 코레일의 입장 변화가 없다면 무기한 총파업에 돌입할 것”이라고 했다. 코레일은 KTX와 일반 열차 외에 수도권 전철 1·3·4호선 일부와 수인분당선·경의중앙선·서해선 열차 등의 운행을 책임지고 있다. 실제 파업으로 이어지면 이들 열차의 운행이 상당수 중지되거나 지연돼 교통 대란이 불가피할 것으로 전망된다.&lt;br&gt;&lt;br&gt;철도 노조 상급 단체인 민주노총은 ‘윤석열 정권 퇴진’ 등을 주장하며 공공 분야의 파업 분위기를 조성하고 있다. 지난 20일 서울 지하철 운영사인 서울교통공사 노조는 다음 달 6일부터 총파업에 돌입하겠다고 했고, 지난 19일 인천공항노조는 적정 인원 충원을 요구하며 투쟁 방침을 밝혔다. 화물연대는 최근 안전운임제 입법 요구와 함께 ‘윤석열 정권 규탄’도 외치고 있다. 민노총은 다음 달 7일 윤석열 정권 퇴진 3차 총궐기 집회를 연다. 21일 민노총 공공운수노조 소속 한 간부는 철도노조 기자회견에 참석해 “12월 공동 파업 투쟁으로 윤석열 정권을 퇴진시키고 시민 안전을 지켜내겠다”고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AOL7QD2MDBDLVCMGX5JR5MFIQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 서울역 앞에서 철도노조가 총파업 예고 기자회견을 갖고 정부의 사측의 입장변화가 없다면 12월 5일 총파업에 돌입하겠다고 밝혔다. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;철도노조 예고대로 다음 달 5일부터 파업이 진행되면 교통 대란이 일어날 가능성이 크다. 다음 날인 6일부터는 서울교통공사 노조가 파업을 예고하고 있어 철도와 지하철의 동시 파업이 진행될 가능성도 있다. 양 노조가 동시에 파업을 하게 되면 2016년 이후 8년 만이다. 필수 유지 업무 인력이 근무하고 대체 인력이 투입된다 해도 일부 열차 운행이 중지되거나 지연되는 것을 피하기 어렵다. 실제 이번 주 양 노조가 ‘태업’을 진행하는 동안 10~20분가량의 열차 지연이 빈번하게 발생해 출근길 시민 등이 불편을 겪었다.&lt;br&gt;&lt;br&gt;노조 측은 “철도 노동자의 투쟁은 정당하다. 12월 총파업은 불가피한 선택”이라며 ‘윤석열 정권 퇴진’ 등을 함께 주장하고 있다. 철도 노조의 경우 코레일과 지난 7월부터 임금·단체협약 관련 줄다리기를 하고 있는데 핵심은 임금 인상과 인력 충원에 대한 이견이다. 철도 노조는 “기본급을 2.5% 인상하고, 인력 감축 및 외주화를 멈추라”고 주장하고 있다. 코레일이 차량 정비와 시설 및 전기 유지 보수 인원 841명을 감축하고, 운전과 역무 업무 589명의 외주화 등을 통해 인력을 줄였다는 게 노조 측 주장이다.&lt;br&gt;&lt;br&gt;그러나 사측은 인력 감축이 아닌 재배치이며 필수 인력은 충분히 유지되고 있다고 반박한다. 코레일 측은 “안전 분야 인력은 충분히 확보했고, 단순 업무를 위탁하거나 설비 자동화 등을 통해 불필요한 부분을 경감하는 것”이라며 “서해선, GTX B, 중부내륙선 등 운영을 맡게 돼 1000명 이상 인원이 증가하는 면도 있다”고 했다. 코레일은 적자 감축이 경영 현안으로 떠오른 상태로 지난해 4415억원의 영업적자를 기록했고, 경영 평가에선 지난 4년간 최하인 D와 E등급을 받았다.&lt;br&gt;&lt;br&gt;철도노조가 2019년 이후 매해 태업과 파업을 반복하면서 피해액은 누적되고 있다. 코레일에 따르면 지난 2020년부터 지난해까지 노조의 태업과 파업으로 인해 물류와 여객 부문에서 코레일이 입은 피해만 115억원이다. 집계가 어려운 시민의 불편 등을 감안하면 피해 규모는 더 커질 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이유 없이 행인 때리고 성추행…자전거 타고 도주활극 벌인 남성</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/21/HITUCZL3JBCBLH6CAWQ24IDDBE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/21/HITUCZL3JBCBLH6CAWQ24IDDBE/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Nov 2024 13:13:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JJ722DYOCBGXXCKG2PUI6BVNXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 자전거를 타고 도주하는 장면. /경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새벽 시간 길거리에서 일면식도 없는 행인을 폭행하고 여성을 강제추행한 30대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;21일 경찰청에 따르면 30대 남성 A씨는 지난달 26일 새벽 5시쯤 서울 관악구의 한 길거리에서 길가에 서있던 남성의 얼굴을 이유 없이 때리고 도주했다.&lt;br&gt;&lt;br&gt;도주한 A씨는 잠시 후 길을 지나던 여성을 강제 추행한 뒤, 자신을 뒤쫓아 온 여성의 일행에게도 주먹을 휘둘렀다.&lt;br&gt;&lt;br&gt;이후 A씨는 출동한 경찰을 피해 자전거를 타고 도주하기 시작했다. 알고 보니 남성은 자전거를 타고 이동하며 또 다른 여성도 강제 추행한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 순찰차를 이용해 도심 한복판에서 추격전을 벌인 끝에 A씨를 현행범 체포했다. A씨는 정신질환을 앓고 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>입소 3일 된 20대 훈련병, 구보하다 쓰러져 사망</title>
+      <link>https://www.chosun.com/national/incident/2024/11/21/6P42DND3PBGWTOXDIBFUKPGJXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/21/6P42DND3PBGWTOXDIBFUKPGJXE/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Nov 2024 11:15:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZFZVM4NRURGTJHT3BSCG5VVO3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국 육군 로고./육군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남에 있는 한 육군 부대 소속 훈련병이 입대 3일 만에 구보(뜀걸음)를 하던 중 의식을 잃고 숨지는 사건이 발생했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면 21일 오전 7시 30분쯤 경남 함안군에 위치한 한 육군 부대에서 20대 초반 훈련병 A씨가 아침 점호를 마치고 단체 구보를 하던 중 의식을 잃고 쓰러졌다. A씨는 119구급차로 인근 병원으로 이송돼 치료를 받다 이날 오후 6시쯤 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 지난 19일 이 부대에 입대한 것으로 파악됐다. 육군과 경찰은 정확한 사망 원인과 사고 조치에 문제가 없었는지 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>현직 인천시의회 의원 2명…뇌물수수 혐의 입건</title>
+      <link>https://www.chosun.com/national/incident/2024/11/21/5JW45UC3RVFYPHDOSZPT3G7LGU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/21/5JW45UC3RVFYPHDOSZPT3G7LGU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Nov 2024 12:29:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G6IOKHRHSFR73FCAXABFTTXBIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천경찰청 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현직 인천시의회 의원 2명이 뇌물수수 혐의로 경찰에 입건됐다.&lt;br&gt;&lt;br&gt;인천경찰청 반부패경제범죄수사대는 뇌물수수 혐의로 인천시의회 A의원과 B의원을 불구속 입건했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 또 이들에게 뇌물을 제공한 혐의(뇌물공여)로 전자칠판 공급업체 관계자 2명을 함께 입건했다.&lt;br&gt;&lt;br&gt;A의원과 B의원은 앞서 전자칠판 업체들이 인천지역 학교에 납품할 수 있도록 돕고 이를 대가로 납품 금액의 일부를 리베이트로 받았다는 의혹을 받았다.&lt;br&gt;&lt;br&gt;인천지역 시민‧교육단체는 지난 9월 이 같은 내용을 담은 진정서를 경찰에 제출하고 수사를 촉구했다.&lt;br&gt;&lt;br&gt;이런 의혹은 지난달 국회 교육위원회 인천시교육청 국정감사에서도 다뤄졌다. 진선미 더불어민주당 의원은 당시 특정 전자칠판 업체 점유율이 1년 만에 10여배 급증하는 과정에 시의원이 관여됐다는 의혹이 있다고 주장했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “시의원 2명 등에 대해 입건 전 조사를 하다 최근 입건했다”면서도 “구체적인 내용은 확인해줄 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>文 ‘비정규직 제로’ 상징 인천공항... ’일부 사업 위탁’ 보고서 나왔다</title>
+      <link>https://www.chosun.com/national/labor/2024/11/21/A6CEAEOF7BFULF66S6ICMHEWZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/11/21/A6CEAEOF7BFULF66S6ICMHEWZY/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>문재인 정부가 ‘비정규직 제로(0)’ 정책을 추진하며 정규직화 한 인천국제공항공사의 상당수 업무를 다시 민간에 위탁해야 한다는 연구보고서가 나왔다.</description>
+      <pubDate>Thu, 21 Nov 2024 00:07:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IU6BYV7XC5AR5PXNAXZ25DJT7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문재인 대통령이 2017년 5월 12일 인천공항공사에서 열린 '찾아가는 대통령, 공공부문 비정규직 제로시대를 열겠습니다!' 행사에 참석해 좋은 일자리에 대해 언급하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 정부가 ‘비정규직 제로(0)’ 정책을 추진하며 정규직화 한 인천국제공항공사의 상당수 업무를 다시 민간에 위탁해야 한다는 연구 보고서가 나왔다. 노조는 민간에 이 업무를 위탁하게 되면 근로자들이 다시 비정규직으로 전락할 것이라며 강하게 반발하고 있다.&lt;br&gt;&lt;br&gt;21일 인천국제공항공사에 따르면 공사는 최근 삼일회계법인에 ‘위탁사업 구조 개선 및 자회사 경쟁력 강화 방안’ 연구용역을 의뢰해 지난달 보고서를 제출받았다.&lt;br&gt;&lt;br&gt;삼일회계법인은 보고서에서 현재 3개인 자회사를 6개로 늘리되 환경미화, 탑승교 운영, 셔틀버스 등 비 핵심 업무의 일부 사업은 과거처럼 외부 업체에 위탁하는 방안을 제시했다.&lt;br&gt;&lt;br&gt;인천국제공항공사는 문재인 정부 방침에 따라 인천공항시설관리·인천공항운영서비스·인천국제공항보안 등 3개 자회사를 설립해 2018년부터 2020년까지 용역회사 소속이던 비정규직 근로자 9500여 명을 정규직으로 전환했다. 보고서는 이에 대해 “단기간 내 정규직 전환이라는 현안 해결을 위해 복잡한 기능을 3개 자회사로 단순 통합했다”며 “핵심 기능만 공사가 직접 운영하고 나머지는 민간에 외주를 주던 운영 구조에 큰 변화가 생겼다”고 진단했다. 그러면서 “자회사가 모회사에 100% 의존해 매출을 발생시키면서 공사는 적자인데 자회사만 흑자인 기이한 상황”이라며 “자회사와 민간이 경쟁하는 위탁사업 구조 다변화가 필요하다”고 지적했다.&lt;br&gt;&lt;br&gt;인천공항 노조는 21일 국회에서 기자회견을 열고 “이번 연구용역이 비정규직의 정규직화 기조를 뒤집고 ‘도로 용역화’를 시도하는 것”이라며, 용역 보고서 폐기를 촉구했다. 이에 대해 인천국제공항공사 측은 “인천공항의 글로벌 경쟁력을 위해 용역을 맡긴 것으로, 노조의 비정규직화 등과는 관계가 없다”며 “자회사 개편에 나설지 등도 정해진 바 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘150억 부당대출’ 김기유 전 태광그룹 의장 구속영장 또 기각</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/21/T5VXIJJBHRDLFNLGUALMML3TOY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/21/T5VXIJJBHRDLFNLGUALMML3TOY/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Nov 2024 11:45:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M2MTTV4PMROEJN4TAHIGNGDXD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;태광그룹 계열사 경영진에게 150억원대 부당대출을 지시한 혐의를 받는 김기유 전 태광그룹 경영협의회 의장의 변호인이 21일 서울서부지법에서 열린 영장실질심사(구속 전 피의자심문)에 출석하며 질문에 답하고 있다. 이 날 김 전 의장은 취재진에 모습을 드러내지 않았다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부동산 개발업체를 운영하는 지인에게 150억원 상당의 부당 대출이 이뤄지도록 계열사 경영진과 공모한 혐의를 받는 김기유(69) 전 태광그룹 경영협의회 의장에 대한 구속영장 청구가 또다시 기각됐다.&lt;br&gt;&lt;br&gt;21일 서울서부지법은 특정경제범죄가중처벌법상 배임 등 혐의를 받는 김 전 의장에 대한 구속 전 피의자 심문(영장실질심사)을 연 뒤 “피의자의 주거가 일정하고 증거인멸 또는 도주의 우려가 있다고 보기 어렵다”며 구속영장 청구를 기각했다.&lt;br&gt;&lt;br&gt;김 전 의장에 대한 영장실질심사는 이번이 두 번째다. 검찰은 지난 9월 김 전 의장에 대한 구속영장을 청구했다. 법원은 증거 인멸 우려와 도망 염려가 인정되지 않는다며 이를 기각한 바 있다.&lt;br&gt;&lt;br&gt;김 전 의장은 2023년 8월 부동산 개발업체를 운영 중인 지인 이모(65)씨 부탁을 받고 적법한 심사 없이 부당 대출이 이뤄지도록 한 혐의를 받는다. 이씨는 당시 250억원 상당의 대출을 타 금융기관으로 받은 상태로, 추가 대출이 불가능한 상황이었다.&lt;br&gt;&lt;br&gt;앞서 김 전 의장 측 변호인은 이날 기자들과 만나 “혐의를 인정하지 않는다”고 했다. 검찰의 구속영장 재청구 근거에 대한 질문에는 “자세한 얘기는 말씀드리기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘의사 블랙리스트’ 만든 사직 전공의, 법원에 보석 청구</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/21/DEBEONKGQBDPBHYWQKVQBTREBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/21/DEBEONKGQBDPBHYWQKVQBTREBA/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Nov 2024 23:11:00 +0000</pubDate>
+      <content:encoded>의료계 집단행동에 동참하지 않고 복직한 의사들의 명단이 적힌 이른바 ‘의료계 블랙리스트’를 작성한 혐의로 구속 기소된 사직 전공의가 첫 재판을 앞두고 법원에 불구속 재판을 받게 해달라고 요청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KRNOSJANWNJLVEMJ5XIVGXBUXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사직 전공의 정모씨가 지난 9월 20일 서울 서초구 서울중앙지법에서 영장실질심사를 받고 얼굴을 가리며 나서는 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 법조계에 따르면 사직 전공의 정모씨는 지난달 29일 이 사건을 심리하는 서울중앙지법 형사13단독 이용제 판사에게 보석을 청구했다. 보석은 구속된 피고인에게 보증금을 받거나 보증인을 세워놓고 거주지와 사건 관련인 접촉 제한 및 재판 출석 등 일정한 조건 아래 풀어주는 제도다.&lt;br&gt;&lt;br&gt;앞서 정씨는 스토킹처벌법 위반 혐의로 지난 9월 구속됐고, 지난달 구속 상태로 재판에 넘겨졌다. 일명 ‘의료계 블랙리스트’ 작성·게시자가 구속된 것은 정씨가 처음이었다.&lt;br&gt;&lt;br&gt;오는 22일 이 사건 첫 재판이 열리는데, 이 판사는 정씨의 보석 심문기일도 함께 진행할 예정이다.&lt;br&gt;&lt;br&gt;검찰과 경찰에 따르면 정씨는 지난 7월 정부의 의대 증원 정책에 반발한 전공의·의료계 집단행동 등에 참여하지 않는 의사·의대생들의 실명과 병원, 학교 등의 신상 정보를 담은 ‘감사한 의사’ 명단을 만든 뒤 텔레그램과 의사·의대생 온라인 커뮤니티 ‘메디스태프’를 통해 이를 여러 차례 게시한 혐의를 받는다. ‘감사한 의사’는 다수 전공의의 현장 이탈에 동조하지 않고 근무 중인 소수 의사를 비꼬는 표현이다.&lt;br&gt;&lt;br&gt;정씨가 게시한 명단에는 의료계 집단행동에 참여하지 않은 전공의·전임의·의대생 등 1100여명의 소속 병원, 진료과목, 대학, 이름 등 개인정보가 담겨 있었다고 한다.&lt;br&gt;&lt;br&gt;수사 기관은 정씨가 당사자 의사에 반해 개인 정보를 온라인에 지속·반복적으로 게재하는 괴롭힘 행위를 했다고 보고 정씨에게 스토킹처벌법 위반 혐의를 적용했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 한복판서 본인 벤츠 부수며 난동 20대女, 무슨 일?</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/21/BA7NVGZCBZFA3L22L77KJPLZ6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/21/BA7NVGZCBZFA3L22L77KJPLZ6U/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Nov 2024 23:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5NNYDACHQJBZ7FDN4OFJ5LHRGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 자신의 차량 사이드미러를 발로 차는 장면. /X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아침 출근 시간대 서울 관악구 도로 한복판에서 자신의 벤츠 차량을 부수며 행인들에게 욕설을 퍼부은 20대 여성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 관악경찰서는 21일 20대 여성 A씨를 도로교통법 위반(음주 운전) 혐의로 불구속 입건해 조사할 예정이라고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 오전 8시쯤 자신의 검은색 벤츠 차량으로 서울 관악구 신림동 인근 도로를 막아섰다. 이후 자신의 차량 사이드미러를 발로 차고 휴대전화로 여러 차례 트렁크 부위를 내려쳤다. 이 과정에서 차를 빼달라고 경적을 울리는 차량 운전자와 주변 시민들에게 욕설을 했다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 사건 당시 면허 취소 수준의 음주 상태였던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 자신의 차량을 파손시킨 것이라 재물손괴 등 혐의는 적용하지 않았다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김병만 전처 “전 남편 2명 모두 살아있어, 생명보험은 4개뿐”</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/21/UBBZUZZG2NH3DBKVQ43ZDD6L4I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/21/UBBZUZZG2NH3DBKVQ43ZDD6L4I/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Nov 2024 10:15:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZHTONUTO6JWBEPXDSJ4L6DRZX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 김병만. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 김병만의 전처 A씨가 자신을 둘러싼 여러 의혹에 대해 적극 해명하고 나섰다.&lt;br&gt;&lt;br&gt;A씨는 21일 MBN과의 인터뷰에서 ‘김병만 명의로 된 생명보험이 24개이며, 전 남편 2명이 모두 사망했다’는 루머에 대해 “김병만씨를 지지하는 일부 측근들의 언론플레이라고 생각한다”고 일축했다.&lt;br&gt;&lt;br&gt;A씨는 “(전 남편들이) 다 살아계시다. 제가 혼인관계증명서를 상세로 떼 가지고 보내드릴 수도 있다”며 김병만 명의로 된 생명보험은 4개뿐이고, 보장액도 총 4억원에 불과하다고 주장했다.&lt;br&gt;&lt;br&gt;앞서 김병만의 법률대리인 임사라 변호사는 한 유튜브 방송에 출연해 “전처가 계약자로 가입한 보험이 24개고 그 중 대부분이 사망보험이었다”고 주장했었다.&lt;br&gt;&lt;br&gt;A씨는 혼인기간 김병만으로부터 상습 폭행을 당했다고 주장했는데 의정부지검은 지난 20일 폭행, 상해 등 혐의로 송치된 김병만에 대해 불기소 처분을 했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 재차 김병만으로부터 상습 폭행을 당했다고 주장하며 검찰이 무혐의 처분을 내린 것은 여론의 영향을 받은 것이라고 했다.&lt;br&gt;&lt;br&gt;A씨는 “그것을 무혐의 받기 위해서 한 사람을 이렇게 (공격한 것 같다) 정말 저 많이 힘들다”며 “멀쩡했던 한 사람이 정말 많은 공격을 받고 지금 살 수가 없을 정도”라고 했다.&lt;br&gt;&lt;br&gt;김병만과 결혼하기 전 전 남편과의 사이에서 낳은 자녀가 김병만을 옹호하고 나선 것에 대해서는 “파양당할까 봐 방어 차원에서 한 말을 김병만 변호사가 가져다 쓴 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;김병만은 2011년 7살 연상의 비연예인 여자 친구와의 혼인신고 소식을 알리고 결혼 생활을 시작했다. 그러나 김병만은 작년 11월 “아내와의 이혼 소송을 마무리했다”며 오랜 별거 끝 파경 소식을 전했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>검찰, 2심서 ‘횡령·배임’ 최신원 前 SK네트웍스 회장에게 징역 12년 구형</title>
       <link>https://www.chosun.com/national/court_law/2024/11/21/362MDORE4NAKNCL3NPFHRXKROE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/21/362MDORE4NAKNCL3NPFHRXKROE/</guid>
@@ -835,15 +916,6 @@
       <content:encoded>정치 브로커 명태균씨의 ‘공천 거래’ 의혹을 수사하는 검찰이 오는 21일 미래한국연구소장 김모씨, 명씨에게 공천을 바라고 금품을 건넨 혐의를 받는 지방선거 예비 후보 2명을 소환해 3자 대질 조사를 진행할 것으로 알려졌다. 검찰은 이날 명씨에게 세비 등 7600여 만원을 건넨 혐의로 구속된 김영선 전 의원을 불러 조사하는 등 수사에 속도를 내고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3QOTMHSXARNYTN7Y6JVPTNZAPA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;정치 브로커 명태균씨가 지방선거 예비 후보 2명에게 공천을 대가로 2억4000만원을 받는 데 관여한 혐의를 받는 미래한국연구소장 김모씨가 19일 오전 정치자금법 위반 혐의 피의자 신분으로 검찰 조사를 받기 위해 창원지검으로 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 본지 취재를 종합하면, 창원지검 전담수사팀(팀장 이지형 차장검사)은 김 소장, 지방선거 예비 후보 배모씨와 이모씨를 오는 21일 10시 소환해 대질조사를 진행한다. 명씨는 2022년 지방선거를 앞둔 2021년 9월부터 이듬해 2월 사이 배씨와 이씨에게 공천을 도와주겠다며 1억2000만원씩 모두 2억4000만원을 받은 혐의 등으로 구속된 상태다. 이 돈은 미래한국연구소를 통해 전달됐다고 한다.&lt;br&gt;&lt;br&gt;관련자들의 진술이 엇갈리고 있어, 검찰은 당사자 간의 대질이 필요하다고 판단한 것으로 전해졌다. 명씨는 “예비 후보들이 줬다는 돈은 전혀 아는 바가 없다”며 “김 소장이 받아 챙긴 것”이라고 주장하고 있다. 검찰은 지난 19일 명씨를 조사하며 해당 자금을 수수했는지 여부를 물었으나, 명씨는 ‘받은 적 없다’는 입장을 고수한 것으로 알려졌다. 법원도 지난 14일 구속영장 실질심사 당시 배씨와 이씨의 혐의에 “다툼의 여지가 있다”고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IYHS4YVGHRMTDBZHSYYY7GIOP4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;명태균씨가 실질적으로 소유한 것으로 알려진 여론조사 업체 미래한국연구소에 수차례 돈을 건넨 혐의를 받는 지방선거 예비 후보 배모씨가 지난 14일 오후 창원지법에서 열린 영장실질심사에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 검찰은 이날 김 전 의원을 소환해 조사 중인 것으로 전해졌다. 검찰은 김 전 의원에게 돈을 건넨 것이 맞는지, 지난 2022년 보궐선거 당시 공천에 대한 대가로 건넨 것인지 묻는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김 전 의원으로부터 금품을 수수한 혐의도 있는 명씨는 지난 검찰 조사에서도 혐의를 부인한 것으로 전해졌다. 지난 2022년 보궐선거 당시 김 전 의원에게 모두 6000만원을 빌려줬고, 지난 1월 16일 강혜경씨를 통해 이를 돌려받았을 뿐이라는 입장을 유지하고 있는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I62ZAI6MWFOKNBCB7J4IRZZ2I4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;명태균씨가 실질적으로 소유한 것으로 알려진 여론조사 업체 미래한국연구소에 수차례 돈을 건넨 혐의를 받는 지방선거 예비 후보 이모씨가 지난 14일 오후 창원지법에서 열린 영장실질심사에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이와 관련해 명씨 측 법률대리인은 “예컨대 강씨가 돈을 전달했다는 2022년 8월 23일은 명씨의 생일이었다”며 “그날 명씨의 생일파티에 참석하지 않은 강씨는 돈을 전달할 수 없다”고 주장했다. 그는 “명씨가 돈을 받은 것으로 지목된 날의 일정 등을 복원해 혐의를 부인할 것”이라고 했다. 또 “명씨는 김 전 의원에게 빌려준 돈을 갚으라는 내용증명도 지난 2023년 9월 5일 보냈다”며 “2022년 8월부터 돈을 받았다면 보낼 수 있었겠느냐”고도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘고려제약 리베이트 의혹’ 의사 첫 기소…의사 등 280명 추가수사</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/20/I74WO3NWLFGLNGIMALXV6W5RPY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/20/I74WO3NWLFGLNGIMALXV6W5RPY/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Nov 2024 09:24:41 +0000</pubDate>
-      <content:encoded>고려제약 제품을 처방하는 대가로 불법 리베이트를 받은 의사와 병원 직원이 재판에 넘겨졌다. 고려제약 리베이트 사건으로 의사가 기소된 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WYOIMZKD34RWQHYAKQHU4EBHUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 형사2부(부장 조아라)는 지난 15일 서울 소재 병원의 의사 A씨와 지방 소재 병원 직원 B씨를 각각 의료법 위반 및 배임수재 혐의로 기소했다.&lt;br&gt;&lt;br&gt;A씨는 2018~2023년 고려제약 제품을 사용해주는 대가로 고려제약 직원으로부터 판매대금의 일정 비율을 돌려받는 방식으로 총 5000만원을 수수한 혐의를 받는다. B씨는 같은 방식으로 2017~2023년 총 14억원을 받은 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰은 지난달 두 사람을 포함해 총 4명에 대해 구속영장을 신청했지만 법원은 A씨와 B씨에 대해서만 영장을 발부했다. 경찰은 두 사람을 구속 상태로 검찰에 넘겼는데, 이중 A씨는 법원이 구속적부심을 받아들이면서 석방돼 불구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;경찰은 고려제약이 자사 약품 처방 대가로 의사 1000여명에게 불법 리베이트를 제공했다는 의혹을 수사 중이다. 경찰은 현재까지 의사 등 280여명을 검찰에 불구속 송치한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>故김문기씨 동생 “이재명 사과 바라지 않아...재판부 올바른 판단만 바라”</title>
       <link>https://www.chosun.com/national/court_law/2024/11/20/CLQMTFLLEZD7TFMLGU73WIEOVE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/20/CLQMTFLLEZD7TFMLGU73WIEOVE/</guid>
@@ -871,42 +943,6 @@
       <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ET43ATUVFFBUFEYKP3CTPOCV5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개그맨 김병만씨. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전처 폭행 혐의로 피소된 개그맨 김병만씨에 대해 검찰이 혐의가 없다고 판단하고 불기소 처분을 내렸다.&lt;br&gt;&lt;br&gt;의정부지검은 폭행, 상해 등 혐의로 송치된 김씨에 대해 불기소 처분했다고 20일 밝혔다. 검찰 관계자는 “수사 기록과 증거 등을 종합적으로 판단해 불기소 처분을 했다”고 설명했다.&lt;br&gt;&lt;br&gt;김씨의 전처 A씨는 지난 2월 “과거 수년간 가정사 문제 등으로 다투다 상습 폭행을 당했다”는 취지로 김씨를 경찰에 고소했다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 제출한 진료 기록서 등을 검토한 후 가정폭력 범죄의 처벌 등에 관한 특례법에 따라 검찰에 사건을 넘겼다.&lt;br&gt;&lt;br&gt;김씨 측은 “폭행 의혹이 사실이 아니다”고 혐의를 부인했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“무고혐의까지 추가됐다”... 정우택 전 의원 추가 기소</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/11/20/MX56VXUKZJD65C2FXK7WI2JMFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/11/20/MX56VXUKZJD65C2FXK7WI2JMFU/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Nov 2024 08:42:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GPCTRSCI6NPB5MW4KCTDGNZIAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지역 자영업자로부터 돈 봉투를 수수했다는 의혹으로 구속영장이 청구된 정우택 전 국회의원이 19일 오후 영장실질심사에 출석해 취재진 질문에 답하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뇌물수수 혐의를 받는 정우택 전 국회의원에게 무고혐의가 더해졌다.&lt;br&gt;&lt;br&gt;청주지검 형사1부(부장검사 유옥근)는 20일 지역 카페업주에게 돈 봉투를 받은 혐의로 재판에 넘겨진 정우택 전 국회의원에게 무고 혐의를 적용해 추가 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;정 전 의원은 지난 2월 돈 봉투 수수 의혹과 관련한 보도가 가짜뉴스라며 최초로 의혹을 제기한 기자 2명을 명예훼손 등 혐의로 고소한 혐의다. 이에 해당 기자 2명은 정 전 의원을 무고죄로 맞고소했고, 검찰도 그가 범죄 사실을 감추기 위한 행위로 판단한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;정 전 의원은 2022년 3월부터 약 7개월 동안 지역 카페업자 A씨로부터 수차례에 걸쳐 돈 봉투 등 740만원 상당의 금품을 수수한 혐의(알선수재, 정치자금법 위반 등)로 지난 10월 불구속 기소돼 재판을 앞두고 있다.&lt;br&gt;&lt;br&gt;당시 A씨는 대청호변에서 불법영업을 하다 중단된 카페를 다시 운영할 수 있게 해달라며 돈 봉투를 건넸다고 진술한 것으로 전해졌다. 돈 봉투가 전달되는 방범카메라 영상이 공개되기도 했지만, 정 전 의원은 돈을 돌려줬다며 혐의를 강하게 부인했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>주거지 15m 앞두고 운전대 잡았다가 음주 단속걸린 경찰</title>
-      <link>https://www.chosun.com/national/incident/2024/11/20/UR6TG2VQKJHBVHBSAJPHGIIM3A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/20/UR6TG2VQKJHBVHBSAJPHGIIM3A/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Nov 2024 08:44:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구에서 현직 경찰이 음주 후 대리운전을 이용한 뒤 직접 주차를 하려다 적발됐다.&lt;br&gt;&lt;br&gt;대구 서부경찰서는 도로교통법 위반 혐의로 중부경찰서 소속 50대 A경위를 입건했다고 20일 밝혔다. A경위는 지난 19일 오후 10시쯤 서구 비산동의 한 도로에서 차량을 운전하다 음주 단속하던 경찰에게 적발됐다. 당시 A경위의 혈중알코올 농도는 면허취소 수준인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A경위는 술을 마신 상태에서 대리 기사를 불러 차량을 운전하게 한 뒤 주거지 인근까지 도착했다. 그러나 이후 주거지까지 약 15m 거리를 남겨두고 직접 주차를 하기 위해 운전대를 잡았다가 경찰 단속에 걸렸다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “(A경위가)주거지로 이어지는 골목길이 대리기사가 운전하기 어렵다고 판단해 직접 주차를 하려다 단속된 것으로 보이나, 엄연한 음주운전”이라며 “조사가 끝난 뒤 징계 수위를 결정할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>1000억 도박판 운영한 기업형 홀덤펍… 부정수익 479억  </title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/11/20/44RUQ5DRNVBFDIG6WJFJMFLPAA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/11/20/44RUQ5DRNVBFDIG6WJFJMFLPAA/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Nov 2024 08:47:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DXLLWUNYKFAVFKHKDSNGB6ELZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산경찰청이 지난 4월 도박판을 벌여온 부산 북구의 홀덤펍 본점을 단속하고 있다./부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프랜차이즈 형태로 홀덤펍(술·음식 등을 먹으며 카드게임을 하는 가게)을 운영, 3년간 1000억원 규모의 도박으로 479억원의 부정수익을 챙긴 일당이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;부산경찰청 형사기동대는 “범죄집단조직, 관광진흥법 위반 혐의 등으로 총책 A(53)씨와 업주 등 7명을 구속하고 운영진 118명과 도박자 590명을 불구속 입건했다”고 20일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨 등은 2021년 3월부터 지난 4월까지 부산, 경남, 제주 등에 총 15개 프랜차이즈 홀덤펍을 개설해 총 1000억원 상당의 도박판을 운영한 혐의를 받고 있다. 이들은 공개 채팅방으로 도박자를 모집한 뒤 별도 애플리케이션을 통해 칩을 포인트로 전환 후 현금으로 불법 환전해주는 수법으로 도박판을 운영한 것으로 조사됐다. ,&lt;br&gt;&lt;br&gt;경찰은 “A씨 등은 10만원 이하 판돈을 소액화하고 각 가맹 홀덤펍에서 토너먼트 승자에게 상위 대회 참가권을 주는 방식으로 사람들을 끌어들여 도박 중독자를 양산했다”며 “이들이 3년여간 불법 도박으로 벌어들인 수익은 479억원에 달한 것으로 확인됐다”고 말했다.&lt;br&gt;&lt;br&gt;경찰은 이들의 범죄수익금 중 72억원 상당을 몰수·추징했다. 경찰은 “이들은 필리핀 클라크 지역을 사전답사하고 사업계획서를 만드는 등 홀덤펍 해외 진출까지 노렸으나 이번 수사로 이를 차단했다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘사커킥’으로 여성 무차별 폭행한 40대 남성에 무기징역 구형</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/11/20/V4T2XKXRTZCBHKUL5XRXKSEMCA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/11/20/V4T2XKXRTZCBHKUL5XRXKSEMCA/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Nov 2024 08:07:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAND5NFNFFFPPGFHV2XOTY6QT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법 등 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;처음 본 여성을 골목으로 끌고 가 발로 얼굴을 차는 등 무차별 폭행해 1심에서 징역 25년을 선고받은 축구 선수 출신 40대 남성에 대해 검찰이 항소심에서도 무기징역을 구형했다.&lt;br&gt;&lt;br&gt;20일 부산고법 형사2부(재판장 이재욱) 심리로 열린 40대 A씨에 대한 강도살인 미수 혐의 항소심 결심 공판에서 검찰은 원심 때와 같은 무기징역을 구형했다.&lt;br&gt;&lt;br&gt;검찰은 이날 “A씨의 폭력성과 재범 위험성을 고려, 더 이상 무고한 인명피해가 생기지 않도록 무기징역을 선고해달라”고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;A씨 측은 “1심 판결문에서 축구 선수 경력이 과장됐고, 범행 당시 만취한 상태로 살인 고의성과 강도 범행의 계획성도 부인한다”고 주장했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2월 6일 새벽 부산 서구의 한 거리에서 처음 본 여성 머리를 축구공처럼 세게 차는 이른바 ‘사커킥’을 하는 등 농구화를 신은 발로 무차별하게 폭행해 턱뼈 골절 등 중상을 입힌 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>서울 지하철 MZ노조도 파업 돌입하나…쟁의행위 출정집회</title>
       <link>https://www.chosun.com/national/national_general/2024/11/20/LDGQTT3EI5B5BC5Z7ZZVHKWPFM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/20/LDGQTT3EI5B5BC5Z7ZZVHKWPFM/</guid>
@@ -914,33 +950,6 @@
       <description/>
       <pubDate>Tue, 19 Nov 2024 20:05:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5MGADIEKEZLXNISZHIFC47I2RA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 서울 중구 서울시청 앞에서 열린 임금과 복지 정상화를 위한 쟁의행위 출정집회에서 서울교통공사 올바른노동조합 조합원들이 피켓을 들고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘MZ노조’로 불리는 서울교통공사 제3노조 올바른노동조합이 20일 오전 서울시청 앞에서 ‘쟁의행위 출정집회’를 열고 서울시와 공사에 임금과 복지 정상화를 요구했다.&lt;br&gt;&lt;br&gt;올바른노조는 20~30대 직원이 주축인 공사 3노조다. 설립 3년째인 올해 처음 교섭권을 얻었다. 이날 집회에서 송시영 올바른노조 위원장은 “우리는 불필요한 정치 파업은 하지 않는다”며 “모두 열심히 일해서 좋은 대우 받고 좋은 서비스를 만들자”고 말했다.&lt;br&gt;&lt;br&gt;집회에는 올바른노조 간부, 조합원 등 400명 가량이 참석했다. 간부들은 ‘노조 조끼’ 대신 파란색 맨투맨 티셔츠를 입고 있었다. 참석한 대부분의 조합원들은 20~30대로 보였다. 후드티, 청바지 등을 입고 나왔다. 노조 집회에서 흔히 울리는 ‘민중가요’도 없었다.&lt;br&gt;&lt;br&gt;노조는 “기후동행카드 도입, 혼잡도 완화를 위한 추가 열차 투입 등 서울시 정책을 최선을 다해 이행했으나 되돌아온 것은 또 다른 적자의 증가와 이로 인한 임금 삭감”이라며 “지난 5년간 연평균 임금 실질 인상률은 0.89%로 연도별 행정안전부 정책인상률에 비해 한참 못 미치는 수준”이라고 주장했다.&lt;br&gt;&lt;br&gt;또 노조는 “기후동행카드로 인한 적자가 연 1800억원 가량인데 이중 절반인 900억을 공사가 부담하고 있어 적자 부담이 심하다”고 했다.&lt;br&gt;&lt;br&gt;노조는 “공사는 임금과 채용 부분에 있어선 ‘서울시 승인 사항이라 결정권이 없다’는 책임 회피성 발언만을 고수하고 있다”며 ▲정책사업 이행분(정책인건비 총액 제외)의 재원 보전 ▲안전인력의 온전한 정원 반영 ▲신규인력 채용 승인 등을 요구했다.&lt;br&gt;&lt;br&gt;송 위원장은 “노조는 특정 정치세력을 위한 정치 행위가 아닌 열심히 일하는 우리 노동자들의 임금과 복지를 위해서 행동해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;노조는 21∼24일 4일간 조합원 대상 찬반투표를 벌여 쟁의행위 여부를 최종 결정할 예정이다.&lt;br&gt;&lt;br&gt;한편 민주노총 산하 서울교통공사노조(1노조)는 이날부터 태업(준법투쟁)에 돌입했다. 지난 18일부터 진행되고 있는 코레일 철도노조(전국철도노동조합)와의 태업과도 겹치며 서울 및 수도권 지하철 일부 노선이 5~20분 가량 지연됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>카드뮴 유출 혐의 영풍 석포제련소 전현직 임직원 무죄</title>
-      <link>https://www.chosun.com/national/incident/2024/11/20/VN5PJCRTIVAU7ORWZQ5WRLLIVA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/20/VN5PJCRTIVAU7ORWZQ5WRLLIVA/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Nov 2024 08:04:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TQ5Y43LSHNT54LTZTXIYWQYO4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영풍 석포제련소 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유해물질인 중금속을 낙동강에 고의로 유출했다는 혐의로 재판을 받던 영풍 그룹과 석포제련소 측에 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 형사 11부(재판장 이종길)는 20일 환경 범죄 등의 단속 및 가중처벌에 관한 법률 위반 등 혐의로 기소된 이강인(73) 영풍 전 대표와 박영민(63) 영풍 대표, 배상윤(57) 석포제련소장 등 전·현직 임직원 7명과 법인에 무죄를 선고했다. 2022년 2월 검찰이 이들을 불구속 기소한 지 2년 9개월 만이다.&lt;br&gt;&lt;br&gt;이 전 대표 등은 2015년 4월부터 2021년 5월까지 총 1064차례에 걸쳐 경북 봉화군에 위치한 영풍 석포제련소 제련 과정에서 발생한 중금속인 카드뮴을 낙동강에 고의로 유출한 혐의를 받았다. 카드뮴은 세계보건기구(WHO) 지정 1급 발암물질로 심혈관 및 신경계 질병을 일으키는 것으로 알려져 있다.&lt;br&gt;&lt;br&gt;당시 검찰 조사에 따르면 석포제련소 인근에서 카드뮴에 오염된 지하수 양이 2770만 3300ℓ에 이르고 오염도가 기준치(0.02㎎/ℓ)의 16만 5000배가 넘은 것으로 파악됐다. 검찰은 갈라진 공장 내부 바닥과 옹벽 등을 통해 카드뮴이 지하수나 근처 하천으로 유출된 것으로 봤다. 또 비가 올 때는 영풍 측이 낙동강으로 향하는 배수로의 조절 장치와 저류지 수문을 직접 개방해 카드뮴 섞인 오염수를 무단 방류했다고 보고 이 전 대표 등을 기소했다.&lt;br&gt;&lt;br&gt;반면 재판부는 이 전 대표 등이 고의로 카드뮴 유출을 방지했다고 볼 수 있는 결정적 증거는 없다고 판단했다. 공장 내부에서 카드뮴이 검출됐다고 해서 이 전 대표 등이 고의로 유출을 했다고 볼 수는 없으며, 수질 오염 측정시 시료 채취가 동일한 전문가에 의해 이뤄지지 않았던 점도 절차적 하자로 지목됐다.&lt;br&gt;&lt;br&gt;재판부는 “제련소 주변의 카드뮴 오염이 공장 가동과 관계있다는 점은 인정되며, 제련소에서 카드뮴을 낙동강으로 유출한 것이라는 의심은 든다”면서도 “검사가 제출한 증거만으론 이 전 대표 등이 카드뮴을 낙동강에 유출했다는 고의를 인정하기 부족하다”고 했다.&lt;br&gt;&lt;br&gt;다만 재판부는 “그럼에도 불구하고 석포제련소 주변에선 카드뮴을 비롯한 위험물질이 방출되고 있는 것 또한 현실인만큼, 수사당국의 노력이 헛되지 않았다고 생각한다”며 “카드뮴 관련 조사와 수사가 있었기 때문에 피고인들이 사후 환경 개선을 위해 최선을 다했다고 생각한다. 환경단체, 경찰, 검찰, 피고인들 모두 이 문제를 줄이도록 노력해달라”고 했다.&lt;br&gt;&lt;br&gt;한편 이와 별도로 박영민 영풍 석포제련소 대표는 중대재해처벌법 위반 혐의로, 배상윤 석포제련소장은 산업안전보건법 위반 등 혐의로 지난 9월 각각 구속 기소된 상태다. 박 대표는 근로자가 비소에 급성 중독된 사례를 보고 받았음에도 별다른 조치를 취하지 않은 혐의를, 배 소장은 비소 누출 당시 통제 의무를 위반한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘분당 서현역 흉기 난동’ 최원종, 대법서 무기징역 확정</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/20/XI76N2WYLNGIDJH7FMGCAP4VLM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/20/XI76N2WYLNGIDJH7FMGCAP4VLM/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Nov 2024 07:58:32 +0000</pubDate>
-      <content:encoded>‘분당 서현역 흉기 난동 사건’으로 14명의 사상자를 낸 최원종(23)이 대법원에서 무기징역을 확정받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6H76DLJOPT2ZESIXQ5JB6BADEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'분당 서현역 흉기 난동 사건'의 최원종/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 1부(주심 노경필 대법관)는 20일 살인 등 혐의로 기소된 최씨에게 무기징역을 선고한 원심 판결을 확정했다. &lt;br&gt;&lt;br&gt;최원종은 작년 8월 3일 경기 성남시 분당구 AK플라자 분당점 부근에서 모친의 승용차를 몰고 인도로 돌진해 다수를 들이받고, 이후 차에서 내려 백화점으로 들어가 흉기를 휘두른 혐의로 기소됐다. 이 사고로 12명이 다치고 2명이 세상을 떠났다. &lt;br&gt;&lt;br&gt;1심은 최원종에게 무기징역을 선고했다. 최원종은 재판 과정에서 심신미약을 넘어선 ‘심신상실’ 상태에서 범행을 저질렀다고 주장했지만, 재판부는 최원종의 심신미약 상태를 인정하면서도 이를 감경 사유로 받아들이지는 않았다. 2심 역시 같은 판단을 내렸다.&lt;br&gt;&lt;br&gt;검찰은 심신미약을 인정한 원심이 잘못됐고 무기징역 형이 너무 가볍다는 이유로, 최원종 측은 심신상실을 인정해야 한다는 등의 이유로 상고했다. 그러나 대법원은 원심 판단에 잘못이 없다 보고 상고를 모두 기각, 원심 판결을 확정했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“영구 격리 필요”…대낮 법원 앞 유튜버 살해범 무기징역</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/11/20/J54AB24ED5AATG57HJXWMWO63Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/11/20/J54AB24ED5AATG57HJXWMWO63Q/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Nov 2024 07:55:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O5NPDVFITWU3QRLLCANETA5WD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 부산법원 종합청사 앞에서 생중계 방송을 하고 있던 유튜버를 살해한 혐의를 받는 유튜버 홍모씨가 지난 5월16일 오전 부산 연제구 연제경찰서에서 검찰로 송치되고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;평소 갈등을 빚던 유튜버를 대낮 법원 앞에서 흉기로 무참히 살해한 50대 유튜버에게 무기징역이 선고됐다.&lt;br&gt;&lt;br&gt;부산지법 형사5부(재판장 장기석)는 20일 보복살인 등 혐의로 구속기소 된 홍모(56)씨에게 무기징역을 선고하고 10년간 위치추적·전자장치 부착을 명령했다.&lt;br&gt;&lt;br&gt;홍씨는 지난 5월 9일 오전 9시 52분쯤 부산 연제구 거제동 부산법원 종합청사 앞에서 생방송 중이던 다른 유튜버를 흉기로 살해한 혐의를 받고 있다. 홍씨는 범행 후 미리 준비해둔 렌터카를 타고 달아났다가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;홍씨와 피해자는 비슷한 콘텐츠를 만들어 유튜브 방송을 하면서 지난해부터 서로 비방해 200건에 달하는 고소·고발을 주고받는 등 갈등을 빚어온 것으로 조사됐다. 홍씨는 범행 당일에도 피해자가 자신을 상해 혐의로 고소한 재판에 참석해 진술하는 것을 막기 위해 범행을 저지른 것으로 확인됐다.&lt;br&gt;&lt;br&gt;재판부는 이날 재판에서 “피고인이 피해자 동선을 파악하고 흉기 구입, 렌터카 계약 등 사전에 범행을 치밀하게 계획했다”며 “또 흉기로 2차례 관통상을 입힌 뒤 바닥에 쓰러져 완전히 제압당한 피해자를 8초간 칼을 휘둘러 12차례 깊은 상처를 낸 것 등을 고려할 때 보복 목적으로 피해자를 살해했다고 판단된다”고 판시했다.&lt;br&gt;&lt;br&gt;재판부는 이어 “피고인은 피해자에 대한 사죄나 죄책감을 보이지 않고 살인의 목적성과 계획성을 부인해 범행을 축소하는 모습을 보였다”며 “폭력범죄 전력을 보면 살인 범죄를 또다시 범할 위험성이 인정되는 점 등을 고려하면 사회로부터 영구히 격리할 필요가 있다”며 무기징역을 선고했다.&lt;br&gt;&lt;br&gt;피고인 홍씨는 재판부의 선고가 끝나자 “감사합니다”며 손뼉을 치고, “내 동생을 살려내라”는 유족 측에 욕설하며 퇴정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>정용진 회장, ‘나폴리 맛피아’와 다정한 모습 포착...무슨 일</title>
@@ -959,15 +968,6 @@
       <description/>
       <pubDate>Tue, 19 Nov 2024 18:32:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LA6XKJHNJBNDVH3UR3FU2YUXEE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 24일 국회 국정감사에 출석한 정몽규(가운데) 축구협회장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한축구협회의 홍명보 축구 대표팀 선임 과정을 조사한 스포츠윤리센터가 정몽규 대한축구협회장이 직무에 태만했다고 판단, 문화체육관광부에 징계를 요청했다. 홍 감독 선임 실무를 주도한 김정배 협회 상근부회장과 이임생 기술총괄이사에 대해서도 스포츠윤리센터는 징계를 요구했다. &lt;br&gt;&lt;br&gt;20일 신동욱 국민의힘 의원실에 따르면 스포츠윤리센터는 심의위원회를 열고 지난 8일 이 같은 내용을 의결했다. 스포츠윤리센터는 이임생 이사가 감독 추천 권한이 없는 데도 사퇴한 정해성 전 전력강화위원장의 업무를 이어받아 감독 후보자들을 면담하고 홍 감독으로 최종 추천하도록 한 김정배 부회장의 ‘임의적 행정’을 문제 삼으면서, 이를 그대로 승인해준 정몽규 회장에게도 책임이 있다고 지적했다. 윤리센터는 “회장으로서 업무 감독 소홀히 해 성실의무를 다하지 못한 책임이 인정된다”며 “직무태만 징계 사유에 해당한다”고 했다.&lt;br&gt;&lt;br&gt;스포츠윤리센터는 김정배 부회장은 국가대표 감독 선발과 관련한 업무를 수행하는 기술본부를 관리하는 자가 아니고 전력강화위원회 운영에도 관여할 수 없는데도 이임생 이사가 감독 추천 업무를 이어받도록 한 것은 재량권 범위를 벗어난 권한 남용이라고 판단했다. 이임생 이사에 대해서도 위임 받은 권한 범위를 넘어서 스스로 판단 기준을 세워 후보자들을 면접한 것이 권한 남용이라고 봤다.&lt;br&gt;&lt;br&gt;다만 스포츠윤리센터는 홍명보 감독에 대해선 “감독 선발 과정에 관여했거나, 선발 결과에 부당한 영향을 미치는 행위를 한 사실이 확인되지 않았다”며 심의를 기각했다.&lt;br&gt;&lt;br&gt;앞서 문화체육관광부도 축구협회에 대한 특정 감사에 나서 “홍 감독 선임에 절차적 하자가 있다”면서 정 회장 등에게 자격정지 이상 중징계를 내리라고 축구협회에 요구한 바 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰이 고친 ‘尹 명예훼손’ 공소장…법원 “이해 어려워, 다시 정리하라” </title>
-      <link>https://www.chosun.com/national/court_law/2024/11/19/SZ3QDMBJS5DDRNOMU7JMWGNYWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/19/SZ3QDMBJS5DDRNOMU7JMWGNYWE/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Nov 2024 13:36:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JIB7IZGYOJE67CLCKNFSJEZKCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;화천대유자산관리 대주주 김만배(왼쪽)씨와 신학림 전 언론노조위원장.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘대선 개입 여론 조작’ 사건 재판에서 검찰이 범죄 사실을 제시하면, 법원이 “다시 정리하라”며 반려하는 일이 반복되고 있다. 검찰은 피고인들이 지난 대선을 앞두고 윤석열 대통령 관련 허위 보도를 통해 윤 대통령의 명예를 훼손하고 여론을 조작하려 했다고 보고 있는데, 재판부는 “어떤 부분이 허위 사실인지 이해하기 어렵다”고 거듭 지적하고 있다.&lt;br&gt;&lt;br&gt;19일 서울중앙지법 형사21부(재판장 허경무) 심리로 열린 대선 개입 여론 조작 사건 재판에서는 서증(書證) 조사가 진행됐다. 검찰 공소장에 담긴 기사, 영상 등에 담긴 허위 사실이 무엇인지 명확하게 구분하라는 재판부의 요구에 따른 절차였다.&lt;br&gt;&lt;br&gt;앞서 공판 준비 기일에서도 재판부가 “공소장에 명예훼손과 무관한 간접 정황이 너무 많다”고 지적해 검찰은 한 차례 공소장을 수정해 70쪽에서 50쪽으로 줄였다. 그런데도 여전히 공소 사실 정리가 미진하다고 판단해 증거 조사가 이뤄진 것이다.&lt;br&gt;&lt;br&gt;검찰은 이날 피고인인 화천대유자산관리 대주주 김만배씨와 신학림 전 언론노조위원장이 2021년 9월 15일 만나 인터뷰한 녹취록, 이를 토대로 이듬해 3월 보도된 뉴스타파 기사와 영상 등을 제시하며 허위 사실을 짚었다. 핵심 내용은 ‘2011년 부산저축은행 사건 때 중수2과장이었던 윤 대통령이 당시 대장동 대출 브로커 조씨를 만나 커피를 타 주고 수사를 무마했다’는 것으로, 민주당은 대선 직전 이를 근거로 ‘윤석열 수사 무마 의혹’을 제기했다.&lt;br&gt;&lt;br&gt;검찰은 “김씨는 대장동 의혹 관련 프레임을 전환하려는 목적으로 의도적으로 윤 대통령이 2011년 조씨의 수사를 무마했다는 허위 프레임을 만들어 신씨를 통해 전파한 것”이라며 김씨의 주요 발언들이 모두 허위라고 지적했다. 김씨는 당시 신씨와 인터뷰하면서 ‘조우형 무혐의’ 등 허위 사실들을 노트에 메모했는데, 검찰은 이에 대해 “단순한 센척이나 실언이 아니라 언론 보도를 염두에 두고 허위 사실 적시한 것”이라고 했다.&lt;br&gt;&lt;br&gt;녹취록에서 김씨는 신씨에게 수사 무마 관련 이야기를 하면서 “기사 나가면 큰일 나”라고 말하는데, 검찰은 이것이 “의도된 변명 장치”였다고 설명했다. 검찰은 “정말 큰일 나는 내용이라면 이를 기자인 신씨에게 말하지 않는 것이 자연스럽다”며 “인터뷰가 녹음되는 것을 알고, 추후 허위 인터뷰가 문제 될 때 은폐하기 위한 변명 장치를 만든 것”이라고 했다.&lt;br&gt;&lt;br&gt;검찰은 또 두 사람의 인터뷰를 보도한 뉴스타파 기사와 영상을 법정에서 직접 제시·재생하며 “의도적 편집을 통해 윤 대통령이 당시 조씨의 수사를 덮었다는 부분을 부각했다. 짜깁기를 통해 허위 프레임을 강화한 것”이라고 주장했다. 그러면서 “뉴스타파 보도는 윤 대통령이 2011년 중수2과장으로 근무하며 박영수 전 특별검사의 부탁으로 조씨의 알선 수재 수사를 무마시켰다는 등의 허위 사실을 적시한 것이 명백하다”고 했다.&lt;br&gt;&lt;br&gt;하지만 재판부는 검찰의 설명을 들은 후에도 여전히 허위 사실 여부가 특정되지 않았다고 지적했다. 재판부는 “검찰이 (필요 없는) 공소 사실을 어느 정도 빼서 공소장이 20페이지 정도 사라졌다”면서도 “아직도 공소 사실을 이해하는 데 어려움이 있다”고 했다. 재판부는 “서증 보니까 유튜브, 웹페이지 기사, 녹취 전문이 나오는데 어디가 허위라고 기소됐는지 알 수가 없다. 공판 준비 기일 때보다 공소 사실 정리가 한 발짝도 안 나갔다”고 말했다. 그러면서 “공소장이 너무 많은 내용을 담고 있어서 기소된 범죄 사실이 명확히 드러나지 않는다”며 “공소장을 다시 검토해 보겠다”고 했다.&lt;br&gt;&lt;br&gt;한편, 재판부는 이날 김씨와 신씨가 청구한 보석 심문도 진행했다. 김씨 변호인은 “김씨가 (대장동 등) 여러 재판을 받다 보니 늘 구치소에 없다. 미리 의견을 듣고 준비할 수 없다”며 “현실적으로 방어권 행사가 가능한 상황이 아니다”고 했다. 신씨 변호인도 “신씨에게는 인멸할 증거가 없고, 도망할 생각도 없다”며 “무죄 추정 원칙에 따라 보석을 허가해달라”고 말했다.&lt;br&gt;&lt;br&gt;이에 대해 검찰은 “구속 영장 발부 이후 특별히 사정이 바뀌지 않았다”며 구속 재판의 필요성을 강조했다. 재판부는 “되도록 빨리 (보석 여부를) 결정하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
