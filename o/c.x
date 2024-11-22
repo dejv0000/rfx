@@ -13,6 +13,87 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 박경석 전장연 대표, 韓 집시법 위반 전력으로 日 입국 거부당해</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/22/PDEU7KARLNER3IMY7FQLRYO6UU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/22/PDEU7KARLNER3IMY7FQLRYO6UU/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 22 Nov 2024 09:53:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6WA6RBSDA5JCZMAFFUULHJE2EE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;박경석 전국장애인차별철폐연대(전장연) 대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장애인 단체들과 국제 연대 활동을 하려 일본으로 출국한 박경석 전국장애인차별철폐연대(전장연) 대표가 국내 집시법 위반 전력을 이유로 현지 나리타 공항에서 입국을 거부당했다.&lt;br&gt;&lt;br&gt;전장연은 22일 오전 11시쯤 박 대표 등 일본 특사단 일행이 일본 도쿄 나리타 공항에서 일본 출입국재류관리청으로부터 입국 금지 통보를 받았다고 이날 밝혔다. 박 대표는 오후 4시 35분쯤 입국 거부에 대한 이의신청을 제출했지만, 일본 정부는 이를 기각했다. 이에 따라 박 대표 등은 오후 7시 25분 항공편을 통해 국내로 송환됐다.&lt;br&gt;&lt;br&gt;전장연에 따르면 일본 정부는 박 대표가 국내에서 2012년 집회및시위에관한법률(집시법) 위반으로 집행유예를 받은 사실을 문제 삼으며 입국을 거부한 것으로 파악됐다. 앞서 박 대표는 2010년 12월 현병철 국가인권위원회 위원장 퇴진과 장애인 활동 지원 대상 제한 폐지 등을 요구하며 인권위 건물을 점거하고 직원들의 출근을 저지하는 등 업무방해 혐의로 기소됐다. 대법원은 2012년 박 대표에 대해 징역 1년에 집행유예 2년, 벌금 10만원을 선고한 원심을 확정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“구청 앞 집회 제한해달라”…대구 달서구, 민원인 상대 소송에서 패소</title>
+      <link>https://www.chosun.com/national/regional/2024/11/22/JJLXBFNO5VFWTDRRZTBN6KCQWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/22/JJLXBFNO5VFWTDRRZTBN6KCQWU/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 22 Nov 2024 09:30:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7D43653P4CCY7Z527FVZYYE3ZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법 서부지원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구지법 서부지원 민사1부(재판장 김성수)는 대구 달서구가 구청사 앞에서 장기간 집회를 하는 민원인 A씨를 상대로 낸 집회 및 시위 금지 등 청구 소송에서 원고의 청구를 기각했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;주택 재건축 정비사업조합의 조합원인 A씨는 지난 1월부터 달서구청 정문 앞에서 ‘조합원의 재산 1688억원 강탈’, ‘비리의혹이 있는 달서구청장은 사퇴할 것’ 등의 내용이 적힌 현수막을 내걸고, 이런 내용을 녹음해 확성기로 트는 등의 방법으로 시위를 벌였다.&lt;br&gt;&lt;br&gt;A 씨 등의 요청으로 감사원이 감사를 진행했지만, A씨가 주장한 공무원의 위법 부당한 사실은 없는 것으로 결론이 났다.&lt;br&gt;&lt;br&gt;이에 달서구는 허위 사실로 달서구 공무원의 명예를 훼손했고 정상적인 업무를 방해하고 있다며 A씨의 집회와 시위 방법을 제한해 줄 것을 요구하며 소송을 제기했다.&lt;br&gt;&lt;br&gt;그러나 재판부는 “지방자치단체가 명예나 인격권 침해를 이유로 민사상 구제를 청구하는 경우 극히 예외적인 경우가 아니면 이를 인정하기 어렵다. 또 인격권 침해가 인정되더라도 청구를 받아들일 특별하고 예외적인 사정이 있다고 보기는 어렵다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내부정보로 PF 대출받아 830억 빼내…LS증권 전 임원 등 구속영장 청구</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/22/UMZJU3TFV5DJ7JRNZZOULBPBBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/22/UMZJU3TFV5DJ7JRNZZOULBPBBM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 22 Nov 2024 09:42:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z67FVO5VVFIZFD5DMEKEKHBSUY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 반부패수사3부(부장 이승학)는 부동산 프로젝트파이낸싱(PF) 대출 업무를 하면서 알게 된 개발정보로 PF 사업을 직접 시행하고, 대출금 중 830억원을 시행사 외부로 유출해 취득한 혐의 등을 받는 LS증권 전직 본부장 김모씨 등 3명에 대한 구속영장을 청구했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;앞서 금융감독원은 A씨가 PF 대출을 주선한 뒤 해당 시행사로부터 전환사채(CB) 매각 대금 명목으로 500억원을 받고, 여러 시행사에 사적으로 고금리 금전 대여를 해준 정황 등을 파악해 올해 1월 검찰에 수사를 의뢰했다.&lt;br&gt;&lt;br&gt;이후 검찰은 지난달 LS증권과 현대건설 본사 등 10여 곳을 압수 수색하는 등 수사를 이어왔다. 현대건설은 A씨가 실소유한 시행사가 PF 대출을 받을 때 시공사로서 지급 보증을 선 것으로 전해졌다. 검찰은 이들에게 자본시장법위반, 특정경제범죄가중처벌법상 배임 등 혐의를 적용해 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;이들에 대한 영장실질심사는 오는 27일 서울중앙지법에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>현대차, ‘체임버’ 100여곳 위험요인 전수조사</title>
+      <link>https://www.chosun.com/national/regional/2024/11/22/LPMLT2LKONEQ3FIOP6GS5U7K4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/22/LPMLT2LKONEQ3FIOP6GS5U7K4U/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 22 Nov 2024 09:14:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4WO57T3XU5GB5MYNR3VXLN2ZNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 현대자동차 울산공장에서 차량 성능 테스트 중 연구원 3명이 숨진 가운데  20일 경찰 차량이 합동감식을 위해 울산공장으로 들어가고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현대자동차가 지난 19일 연구원 3명이 자동차 성능 테스트를 하다가 질식해 숨진 사고와 관련해 실험실(체임버) 시설 전반에 대해 위험 요인이 없는 지 전수조사에 들어갔다.&lt;br&gt;&lt;br&gt;현대차는 22일 현대차 남양연구소의 체임버 시설 100여곳과 울산 북구 현대차 울산공장의 체임버 시설 7곳의 안전 장치에 대해 전수조사를 벌이고 있다고 밝혔다. 현대차는 이번 조사에서 체임버 시설 내부에 유해 가스 등이 배출됐을 때 울리는 경보기가 설치돼 있는 지, 유해가스 농도를 알려주는 모니터링 장치 등이 잘 작동하는 지 등을 점검할 계획이다.&lt;br&gt;&lt;br&gt;현대차에 따르면 사고가 난 복합 환경 체임버 시설은 남양연구소와 울산공장에 1곳씩 2곳이 있다. 현대차는 이 두 곳을 포함해 차량 성능 테스트가 이뤄지는 다른 체임버 시설까지 아울러 전수조사를 한다는 계획이다. 현대차 관계자는 이번 조사에 대해 “최근 이동석 대표이사가 언론에 밝혔듯 잠재적 위험요인이 예상되는 부분에 대해 알아보고 개선하겠다는 취지”라고 했다.&lt;br&gt;&lt;br&gt;이번 사고가 난 복합 체임버 시설의 경우 울산공장과 남양연구소에 있는 2곳 모두 유해 가스가 일정 농도 이상 배출됐을 때 작업자들이 들을 수 있도록 경보가 울리는 경보 장치는 없는 것으로 확인됐다. 반면 국내 다른 제조사의 경우 자동차 성능을 테스트하는 체임버 시설에 이같은 경보기를 갖추고 있는 것으로 확인됐다. 한 제조사 관계자는 “일산화탄소 같은 유해가스가 배출됐을 때 작업자들이 들을 수 있도록 경보기가 갖춰져 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;다만 현대차는 유해 가스가 배출될 경우 체임버 시설 밖에서 이를 작동하는 오퍼레이터가 보는 컴퓨터 모니터 화면에 경고 화면이 뜨는 시스템은 갖춰져 있었다고 밝혔다. 현대차 관계자는 “경고 화면이 뜨면 오퍼레이터가 무전기 등으로 내부 작업자에게 경고 상황을 알려주거나 사고에 대처하는 시스템”이라며 “이번 사고 때도 이 시스템이 잘 작동했는지는 조사중”이라고 말했다.&lt;br&gt;&lt;br&gt;지난 19일 현대차 울산공장에서는 남양연구소 연구원인 40대 A씨와 30대 B씨, 협력업체 연구원인 20대 C씨 등 3명이 질식해 병원으로 이송됐으나 숨졌다. 경찰과 현대차는 이들이 배기가스 환기 시설이 작동하지 않으면서 일산화탄소 중독 등으로 숨진 것에 무게를 두고 조사를 이어나가고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원, KBS 박장범 임명 효력정지 가처분 신청 기각</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/22/WEZPUILAZVCQNH5NLY56PR6O3Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/22/WEZPUILAZVCQNH5NLY56PR6O3Y/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 22 Nov 2024 08:30:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JOBOYLFL4BIERASP6EOZCAXWI4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;박장범 한국방송공사(KBS) 사장 후보자가 20일 서울 여의도 국회 과학기술정보방송통신위원회에서 열린 인사청문회에 출석해 관계자와 대화하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박장범 KBS 신임 사장 후보의 임명 효력을 정지시켜달라는 친야 성향 KBS 이사들의 청구를 법원이 기각했다.&lt;br&gt;&lt;br&gt;서울남부지법 민사합의51부(재판장 김우현)는 KBS 박장범 사장 후보자 임명제청 효력정지 가처분 신청을 기각했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 대통령이 ‘2인 체제’ 하에서 방송통신위원회의 추천 의결을 거쳐 (친여 성향) KBS 이사 7명을 임명한 처분의 위법성이 명백해 무효라 보기 어렵고, 이에 따라 해당 사건 이사회 결의도 무효로 단정짓기는 어렵다고 판단한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 KBS 이사회는 지난달 23일 박장범 당시 ‘뉴스9′ 앵커를 신임 사장 후보로 선임했다고 밝혔다. 그러나 친야 성향 이사진은 절차적 하자가 있다며 임명 제청 효력정지 가처분을 법원에 신청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘200억원대 횡령·배임' 홍원식 前 남양유업 회장 구속영장 청구</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/22/XTEX3QUGPFBCZHRX5N3B5XBGF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/22/XTEX3QUGPFBCZHRX5N3B5XBGF4/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Nov 2024 20:22:00 +0000</pubDate>
+      <content:encoded>검찰이 200억원대 횡령·배임 의혹 등을 받는 홍원식 전 남양유업 회장에 대해 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;서울중앙지검 공정거래조사부(부장 김용식)는 22일 홍 전 회장에게 특경법상 횡령·배임, 배임수재 등 혐의로 구속영장을 청구했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SDGCL57Q4A55HNRRZ3NVLUJF3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍원식 전 남양유업 회장. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍 전 회장은 남양유업을 운영하며 납품업체들로부터 거래 대가로 수십 억원을 수수하고, 친인척 운영 업체를 거래 중간에 불필요하게 끼워넣어 100억원대 손해를 가한 혐의를 받는다. 또 납품업체 대표를 회사 감사로 임명한 후 급여를 되돌려 받거나 법인카드를 사적으로 이용한 혐의도 있다.&lt;br&gt;&lt;br&gt;홍 전 회장이 2021년 ‘불가리스 사태’에 가담하고, 직원들에게 증거를 인멸하라고 지시했다는 혐의도 이번 구속영장에 포함됐다. 불가리스 사태는 남양유업이 마치 불가리스가 코로나 억제 효과가 있는 것처럼 연구 결과를 허위 홍보한 사건으로, 홍 전 회장이 회장직을 내려놓는 계기가 됐다.&lt;br&gt;&lt;br&gt;이번 사건은 한앤컴퍼니가 경영권 분쟁 끝에 남양유업의 최대주주로 오른 뒤인 지난 8월, 남양유업 새 경영진이 홍 전 회장을 고소하며 시작됐다. 검찰은 지난 10월 홍 전 회장의 주거지와 집무실 등 10여곳을 압수수색하는 등 강제수사에 착수했다. 지난 18일과 20일에는 홍 전 회장을 두 차례 소환 조사했다.&lt;br&gt;&lt;br&gt;한편 검찰은 이날 박모 전 남양유업 중앙연구소장에게도 납품업체들로부터 거래 대가로 수십억원을 수수한 배임수재 혐의로 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>’라임 펀드’ 판매한 KB증권, 대법서 벌금 5억 확정</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/22/6A4MB6LDEVDIDL7PE6FSV35IZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/22/6A4MB6LDEVDIDL7PE6FSV35IZM/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 22 Nov 2024 08:38:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ADRHDQBX3PVEXMPJNU2L3TIXL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 여의도 KB증권 본사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1조5000억여원 피해가 발생한 ‘라임 펀드 사태’와 관련해 판매사인 KB증권에 벌금 5억원이 확정됐다.&lt;br&gt;&lt;br&gt;22일 법조계에 따르면, 대법원 1부(주심 노경필 대법관)는 자본시장법 위반 혐의로 기소된 KB증권에 벌금 5억원을 선고한 원심 판결을 지난 20일 확정했다.&lt;br&gt;&lt;br&gt;라임 펀드를 판매하는 과정에서 직무상 알게 된 정보로 이익을 취한 등 개인 비리 혐의가 있는 김모 전 팀장은 징역 2년이 확정됐다. 나머지 전현직 임직원 4명은 징역형의 집행유예 또는 선고유예를 받았다.&lt;br&gt;&lt;br&gt;함께 기소된 이종필 전 라임 부사장은 무죄 판결을 받았다. 이 전 부사장은 펀드 환매 중단 사태로 징역 20년을 확정받고 복역 중이다.&lt;br&gt;&lt;br&gt;앞서 2심은 “KB증권은 국내 굴지의 대형 증권사로서 임직원들이 업무 수행 과정에서 저지를 수 있는 위법행위 방지를 위해 필요한 내부 시스템을 충분히 구비하지 못하고, 주의·감독 의무를 게을리했다”고 지적한 바 있다. 그러면서 “이 사건 범행으로 고객들에게 제대로 고지되지 않은 채 우회 수취된 판매수수료 합계액이 41억원을 넘어, 그에 상응하는 형사법적 책임을 묻지 않을 수 없다”고 했다.&lt;br&gt;&lt;br&gt;대법원은 1·2심과 마찬가지로 라임 펀드 자산에 부실이 발생한 사실을 알고서도 이를 고객들에게 알리지 않고 판매를 계속했다는 공소사실은 인정하지 않았다. 다만 이들이 수수료와 관련한 허위 정보를 내걸고 판매한 혐의만 유죄로 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>OECD 산하 반부패기구, 실사단 파견…‘검수완박’ 영향 검토</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/22/ZZWHH7B3FRCQJNW7H6TZNZTP2A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/22/ZZWHH7B3FRCQJNW7H6TZNZTP2A/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Nov 2024 20:33:00 +0000</pubDate>
+      <content:encoded>경제협력개발기구(OECD) 산하 반부패 기구인 뇌물방지협약 이행그룹(WGB)이 한국을 방문해 ‘검·경 수사권 조정’ ‘검수완박’으로 우리나라의 부패 수사 역량이 약화됐는지 등을 파악했다.&lt;br&gt;&lt;br&gt;법무부에 따르면, WGB는 21~22일 핀란드·루마니아·일본 대표단으로 구성된 실사단을 파견해 법무부·대검찰청·경찰청·고위공직자범죄수사처 등에 대한 실사를 진행했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMIKU47EYKGMSS6GOW7EZGE2SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 과천 법무부 청사 전경. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;WGB는 OECD 뇌물방지협약 가입국들의 협약 이행 상황을 평가하는 기구다. 우리나라는 1997년 OECD 뇌물방지협약에 가입했고, 현재 총 44개국이 협약에 가입해 있다.&lt;br&gt;&lt;br&gt;WGB는 지난해 12월 ‘2023년 4분기 회의’에서 우리나라에 실사단 파견을 결정했다. 문재인 정부에서 이뤄진 검경 수사권 조정과 검수완박 법안 개정에 따른 실무상 문제점과 현재 상황 등을 점검하기 위한 것이다.&lt;br&gt;&lt;br&gt;실사단은 최근 야권이 추진 중인 ‘검찰청 폐지’ 법안 및 검사 탄핵소추안 등이 수사기관의 부패 수사 역량과 독립성에 미칠 영향도 검토했다. 또 학계·법조계와 심층적인 면담을 진행하는 등 사회 전반의 폭넓은 입장을 청취했다고 한다. &lt;br&gt;&lt;br&gt;실사 결과는 내달 열리는 WGB ‘2024년 4분기 회의’에 보고될 예정이다. OECD는 실사 결과에 따라 필요하다고 판단되면 뇌물방지협약 이행을 촉구하는 의장 서한 발송, 고위급 실사 등 후속 조치를 진행할 수 있다.&lt;br&gt;&lt;br&gt;법무부는 “앞으로도 OECD 뇌물방지협약의 회원국으로서 협약의 준수와 이행을 통해 국가의 부패 수사 역량에 공백이 없도록 하는 한편, 수사기관의 독립성을 제고하기 위해 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“대북전단 살포 저지는 표현의 자유 침해”...납북자가족모임 인권위 진정</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/22/FN6MMEY46VH23KYDWA6MV7XD7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/22/FN6MMEY46VH23KYDWA6MV7XD7M/</guid>
+      <dc:creator>파주=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 22 Nov 2024 08:30:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4CNLQQ4X7VIMLDOBAMFZMOJSZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최성룡 납북자가족모임 대표(왼쪽)와 박상학 자유북한연합 대표. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 파주시에서 대북 전단을 살포하려다 지역 주민들의 저지에 막힌 납북자가족모임의 최성룡 대표가 22일 국가인권위원회에 진정을 제기했다.&lt;br&gt;&lt;br&gt;최 대표는 “10월 8일 집회 신고를 하고 10월 31일 국립 6·25 전쟁 납북자 기념관 앞에서 대북 소식지를 보내려 했으나 경기도지사, 파주시장, 고성군수 측에서 저지했다”며 “이는 표현의 자유 침해”라고 주장했다.&lt;br&gt;&lt;br&gt;납북자가족모임은 지난달 파주시 문산읍에 있는 국립 6·25 전쟁 납북자 기념관에서 대북 전단 10만장과 1달러 지폐를 풍선에 매달아 북한으로 날려보내려다 파주시와 접경지역 주민들의 반대에 막혀 무산됐다. 당시 파주 대성동 마을 주민 50여 명은 트랙터 20대를 몰고 와 임진각 입구를 막기도 했다.&lt;br&gt;&lt;br&gt;한편 납북자가족모임은 파주에서 대북전단 살포가 어려워지자 동해안 최북단인 강원 고성에서 대북전단 살포를 예고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세]  11월 24일 일요일 (음력 10월 24일 壬辰)</title>
       <link>https://www.chosun.com/special/special_section/2024/11/23/UA72J26RUBE5FJQOBN75QWCCSI/</link>
       <guid isPermaLink="true">https://www.chosun.com/special/special_section/2024/11/23/UA72J26RUBE5FJQOBN75QWCCSI/</guid>
@@ -799,15 +880,6 @@
       </media:content>
     </item>
     <item>
-      <title>“일부 학생 행위 심각, 불법 행위 멈춰라”… 동덕여대 교수 240명 호소문</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/20/NBFIS3H6RRF35ATVQWMYWJCQXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/20/NBFIS3H6RRF35ATVQWMYWJCQXY/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Nov 2024 06:53:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KMNQEZPHA5OEDPZC52BVOFWI3U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;20일 서울 성북구 동덕여자대학교 교내에 학교 측의 남녀공학 전환 논의를 규탄하는 문구들이 적혀 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘남녀공학 전환’을 반대하는 일부 학생들의 시위가 지속되는 가운데 동덕여대 교수들이 호소문을 발표했다.&lt;br&gt;&lt;br&gt;20일 동덕여대 교수 240명은 호소문을 통해 “일부 학생들의 교내 시설물 손괴와 건물 점거가 오늘로써 10일째 계속되고 있다”며 “더불어 학생의 학습권과 교원의 수업권 침해가 지속되고 있다”고 했다.&lt;br&gt;&lt;br&gt;교수들은 “우리 교수들은 강의실과 실험실습실에서 학생 여러분과 함께 본래 있어야 할 자리에서 본연의 역할을 하고 싶다”며 “지금 일부 학생들의 불법행위는 이유 여하를 불문하고 정당화될 수 없으며, 그 정도가 심각한 수준에 이르고 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “우리 교수들은 학생 여러분들이 자신의 책임을 가중시킬 수 있는 행위를 즉시 중단하길 간곡히 호소한다”며 학내 상황 정상화를 위해 △학생들 간 수업 거부 강요 중단 △학교 시설 점거 및 훼손 행위 중단 △학내 갈등의 사회적 문제 비화 행위 중단 등을 요구했다.&lt;br&gt;&lt;br&gt;앞서 동덕여대 총동문회도 입장문을 통해 “모든 학교의 건물과 교정은 동덕의 뜻깊은 역사를 간직하며 우리 모두에게 큰 의미를 갖는다”며 “소중한 동덕이 시위라는 이름 하에 복구가 불가능한 수준으로 훼손되어지고 있다”고 우려했다.&lt;br&gt;&lt;br&gt;총동문회는 특히 “(시위대의) ‘여대의 목표는 자연소멸’이라는 개악적인 주장은 너무나도 충격적”이라며 “지금의 문제를 서로 대화와 상대방 의사에 대한 경청으로 풀어나가기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;한편 동덕여대 측은 지난 15일 이번 시위로 인한 피해액이 최소 24억원에서 최대 54억원에 달한다고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;또 동덕여대 측은 경과보고를 통해 “수업 방해로 하루 300여개의 강의가 온라인 강의로 대체되는 초유의 사태가 벌어졌다. 온라인 강의를 하면 사이버테러를 하겠다고 협박을 한다”며 “(일부 재학생은) 교수에게 욕설, 막말, 조롱을 하고 공학반대에 동참하라고 협박을 하기도 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;동덕여대 총학생회 ‘나란’은 지난 15일 동덕여대 본관 앞에서 기자회견을 열고 “점거 농성을 해제하기 위해 학생들이 취약한 금전적 문제로 겁박하는 행위를 중단하라”며 남녀공학 논의 전면 철회, 논의 테이블 마련 등을 학교 측에 요구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>검찰, 명태균 PC서 ‘여의도연구원장’과 나눈 카카오톡 복원 성공</title>
       <link>https://www.chosun.com/national/court_law/2024/11/21/TGE6Z23V2NGNXFD2ZLYKBKMD4Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/21/TGE6Z23V2NGNXFD2ZLYKBKMD4Y/</guid>
@@ -882,86 +954,6 @@
         <media:description type="plain">가수 진시몬./유튜브</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>“뉴진스 하니, 근로자 아냐”… 직장내 괴롭힘 불인정</title>
-      <link>https://www.chosun.com/national/labor/2024/11/21/HVJKRDCPGRHWXCFEDXWJK75K3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/11/21/HVJKRDCPGRHWXCFEDXWJK75K3U/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Nov 2024 16:38:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HLKXBCT44JDXVA5W6BR7A4WUUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뉴진스 하니가 지난 10월 15일 오후 국회 환경노동위원회 국정감사에 참고인으로 출석하기 위해 국회에 도착하고 있다. 하니는 소속사 어도어 전 대표인 민희진씨와 모회사 하이브 분쟁에 따른 직장 내 괴롭힘 등에 대해 증언하기 출석했다. /이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;걸그룹 뉴진스 멤버 하니(20)가 소속사 어도어의 모회사인 하이브에서 따돌림을 당했다는 의혹에 대해 고용노동부가 근로기준법상 직장 내 괴롭힘에 해당하지 않는다고 결론 내렸다.&lt;br&gt;&lt;br&gt;20일 노동부에 따르면, 서울지방고용노동청 서울서부지청은 뉴진스 팬들이 제기한 직장 내 괴롭힘 민원에 대해 “연예인은 근로기준법상 근로자로 보기 어려워 행정종결했다”고 밝혔다. 서부지청은 “하니가 체결한 매니지먼트 계약의 내용과 성질상 사용·종속 관계에서 임금을 목적으로 근로를 제공하는 근로기준법상 근로자에 해당한다 보기 어렵다”고 했다. 노동부 관계자는 “연예인 등 예술인은 근로기준법이 아닌 예술인과 관련된 법으로 보호받아야 한다”고 했다.&lt;br&gt;&lt;br&gt;하니는 지난달 국회 환경노동위원회 국정감사에 출석, 하이브 사옥 복도에서 마주친 다른 계열사 아이돌 그룹 매니저가 자기 멤버들에게 ‘(하니를) 무시해’라고 하는 말을 들었고, 문제 제기에도 제대로 된 조치가 이뤄지지 않았다고 주장했다.&lt;br&gt;&lt;br&gt;근로기준법 76조 2항은 ‘직장에서의 지위 또는 관계 등의 우위를 이용하여 업무상 적정범위를 넘어 다른 근로자에게 신체적·정신적 고통을 주거나 근무환경을 악화시키는 행위’를 직장 내 괴롭힘으로 금지하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>평일 도심 점령한 집회, 거리서 술판... “업무 차질, 퇴근 지옥”</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/20/5FOKDMNS3VAZDO3RBCFUZNNA4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/20/5FOKDMNS3VAZDO3RBCFUZNNA4I/</guid>
-      <dc:creator>서보범 기자, 김도연 기자, 김병권 기자, 김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Nov 2024 12:49:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GKY2MZA4BNHA5CRFDILJQWJ67M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민주노총과 전국농민회총연맹이 주축이 된 ‘윤석열 정권 퇴진 운동본부’ 등이 20일 오후 서울 중구 세종대로에서 ‘윤석열 정권 퇴진 2차 총궐기’ 집회를 열고 있다. 이 집회로 평일 오후 서울 도심은 교통 혼잡을 빚었다. 이날 집회에는 주최 측 추산 1만명, 경찰 추산 6000명이 참가했다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주노총과 전국농민회총연맹(전농) 등이 주최하는 대규모 반(反)윤석열 대통령 집회가 평일인 20일 서울 도심에서 열리면서 인근 직장인과 시민들이 업무와 출·퇴근길에 불편을 겪었다. 시위대가 이날 오후 1~5시 집회를 신고하면서 오전부터 서울 광화문·시청 일대 교통이 통제됐고, 퇴근 시간엔 시위대가 해산을 거부하고 경찰과 대치하면서 서울역 등 도심 일대 교통이 마비됐다. 여기에 서울지하철 노조 태업이 이틀째를 맞으면서 시민들은 “출·퇴근길이 지옥이 됐다”고 호소했다. 지난 9일에 이어 2차 윤 대통령 퇴진 집회를 연 민노총 등은 다음 달 7일 대규모 3차 집회를 열 계획이다.&lt;br&gt;&lt;br&gt;민노총이 주도하는 ‘윤석열정권퇴진운동본부’와 전농 등 8개 농민 단체가 모인 ‘국민과 함께하는 농민의 길’은 이날 오후 3시부터 서울 중구 숭례문 앞 편도 전 차로를 점거하고 ‘2차 퇴진 총궐기 대회’를 열었다. 시위대는 “우리가 갑오 농민군이다. 우리가 백남기다. 우리가 전봉준이다. 우리가 하늘이다”라며 “전봉준 정신으로 윤석열을 몰아내자”라는 구호를 외쳤다. 윤 대통령과 김 여사 얼굴 사진이 걸린 허수아비도 있었다. 김 여사 허수아비엔 명품 ‘디올’ 쇼핑백이 걸려 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TSQSKIAL6BE3DDAPSXP5XQ3YY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오후 서울 숭례문 앞 도로에서 민주노총과 전국농민회총연맹 등이 속한 '윤석열정권퇴진운동본부'가 윤석열 대통령 퇴진을 촉구하는 2차 총궐기 집회를 열고 있다. 일부 참가자들이 소주병을 준비해 술을 마시고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오후 3시 20분쯤 태평로 삼성본관 앞에는 집회 참가자 8명이 둥글게 둘러 앉아 소주 3병과 치킨, 말린 안주, 귤 등을 나눠 먹고 있었다. 일부는 금연 구역으로 지정된 장소에서 흡연한 뒤 담배꽁초를 길가에 버리기도 했다. 한 참가자가 길거리에서 캔맥주를 마시자 경찰은 “여기서 드시면 안 된다”며 제지했다. 윤 대통령과 김건희 여사의 가면을 쓴 사람들이 죄수들이 입는 소복을 입고 함거로 꾸민 트럭 위에 갇힌 채 끌려가는 ‘압송 퍼포먼스’도 펼쳤다. 윤 대통령 가면을 쓴 사람은 소주병을 들고 연신 마시는 시늉을 했다.&lt;br&gt;&lt;br&gt;이날 양경수 민노총 위원장은 “농민들은 싹수가 노란 종자는 뽑아버리고, 쓸데없어진 논밭은 갈아엎어 버리지 않습니까”라며 “싹수가 노란 대통령 뽑아내야 하지 않겠습니까”라고 했다. 이어 “농민들은 전봉준 장군의 정신으로 백남기 농민의 뜻을 잇기 위해 윤석열 정권 퇴진 투쟁에 나섭시다”라고 했다. 사물놀이패가 징과 북, 꽹과리 등을 울렸다.&lt;br&gt;&lt;br&gt;숭례문 앞에서 집회를 마친 시위대는 “용산 대통령실까지 행진하자”며 윤석열 대통령을 규탄하는 의미의 상여 2대를 앞세우고 서울역 방면으로 내려가기 시작했다. 남대문경찰서 앞에 시위대가 닿았을 때 집회 신고 시각인 오후 5시가 됐다. 경찰은 “더 시위를 진행하면 불법 집회”라고 했고, 시위대는 “폭력 경찰 물러가라”며 1시간가량 대치했다. 이 과정에서 상여에 불이 붙어 경찰이 소화기로 진화하는 사태도 발생했다. “윤석열 관(棺)이야” 목소리도 들렸다.&lt;br&gt;&lt;br&gt;인근 직장인과 시민들은 평일 출·퇴근 시간에 영향을 끼치는 이날 불만을 호소했다. 서울 중구 태평로빌딩에서 근무하는 직장인 방모(52)씨는 “집회 소음 때문에 업무에 집중하기 힘들다”며 “고객과 대화를 해야 하는데 목소리가 잘 안 들려 소통이 어렵고, 반복되는 악기 소리에 노이로제가 걸릴 것 같다”고 했다. 직장인 홍모(28)씨는 “창문을 닫았는데도 대형 스피커에서 나오는 구호와 꽹과리·북소리가 계속 들려서 너무 힘들다”며 “점심 시간에도 시위대와 경찰 버스가 곳곳에 몰려 불편했는데, 퇴근길엔 지하철 태업까지 겹쳐 암담하다”고 했다. 대학생 박진우(28)씨는 “덕수궁 관람을 마치고 나왔는데 평화로운 궁궐 안과 달리 시위대와 경찰들이 늘어서 있는 모습이 당황스러웠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5PB2PFUJ45ARLC4CK2D5P7ON2I.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오후 5시 40분쯤 집회 신고 시각을 초과하고도 해산 명령을 거부한 집회 참가자들로 서울역과 남대문경찰서 일대는 마비가 됐다. 시민들은 경찰을 붙잡고 “대체 언제 끝나요” “정류장이 어디예요”라며 항의했다. 서울역 일대는 시내버스와 경기도 광역버스 등이 모이는 곳으로 평소에도 매우 붐빈다. 서울역 앞 정류장은 경찰 차량 십수 대가 1개 차선을 통제하면서 차량들이 늘어서 도로가 주차장처럼 보였다. 서울시 교통정보 시스템에 따르면 이날 오후 4시 기준 숭례문~시청역 구간 세종대로 차량 속도는 시속 2km까지 떨어졌다. 일대 버스 정류장이 통제되고 간이 정류장이 설치되면서 한 중년 여성은 “정류장은 대체 어디란 거야”라며 뛰어다니기도 했다. 경찰은 이날 세종대로 일대에 기동대 7000여 명과 교통 경찰 170여 명을 배치해 차량 우회 등 교통 관리에 나섰다.&lt;br&gt;&lt;br&gt;시위대는 오후 5시 50분쯤 해산을 선언했지만 지하철 태업과 겹치면서 퇴근길까지 후폭풍이 이어졌다. 직장인 이모(29)씨는 “집회에 대비해 대중교통을 이용하라는 안내를 받았지만 버스, 지하철 어느 하나 정상 운행을 하지 않아 너무 불편하다”며 “4호선 배차 간격은 평소보다 두 배쯤 늦어졌고, 버스를 타지 못하고 지하철역까지 걸어가 평소보다 퇴근 시간이 2배는 걸릴 것 같다”고 했다. 직장인 김모(33)씨는 “용산행 버스를 기다리고 있는데 어디서 버스를 타야 하는 건지 몰라 헤매고 있다”며 “20분이면 가는 거리가 한 시간을 걸릴 것 같다”고 했다.&lt;br&gt;&lt;br&gt;더불어민주당·조국혁신당 등 야당도 이날 도심에서 별도 집회를 개최했다. 민주당은 오전 11시부터 광화문 광장에서 ‘김건희 여사 특검법 관철을 위한 2차 비상행동’을 열고 시민들에게 특검법 촉구 서명을 요청했다. 집회에는 백혜련·박홍근·정성호 의원 등 10여 명이 참석했다. 조국혁신당은 이날 오전 10시 광화문광장서 ‘윤석열 대통령 탄핵소추안 초안 공개 기자회견’을 열었다. 이들은 “대통령을 탄핵하는 것은 크나큰 비극이지만 배가 전복되는 것을 막기 위해 술 취한 선장을 끌어내리는 수밖에 없다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4FWAUKVZNFCLXFQ63WVL2CJ3AU.gif?width=1400&amp;height=787&amp;auth=ce15d91fe1379cfb7c2b29654d2b0840c2c3d5466358e40eeb06eb47456e604c&amp;smart=true" type="image/jpeg" height="787" width="1400"/>
-    </item>
-    <item>
-      <title>오세훈, '선거법 개정' 이재명 발언에 "상상초월, 정치 그만두고 참회해야"</title>
-      <link>https://www.chosun.com/national/regional/seoul/2024/11/20/WLMXBP6N7FDFNNLDCQRGXLI5YM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/11/20/WLMXBP6N7FDFNNLDCQRGXLI5YM/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Nov 2024 11:29:57 +0000</pubDate>
-      <content:encoded>오세훈 서울시장이 20일 ‘선거 운동을 지나치게 제약하는 현행 선거법을 개정해야 한다’는 이재명 더불어민주당 대표의 발언에 대해 “법치 파괴를 넘어 법치 재창조 수준의 뇌구조”라고 비판했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K4F744MX5ZNGXPKG522OPKEFEM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 이날 페이스북에 올린 ‘법치 파괴를 넘어 법치 재창조 수준의 뇌구조’라는 제목의 글에서 “이재명 대표가 현행 공직선거법에 지나친 제약이 많아 개정이 불가피하다고 얘기했다”며 “선거법 위반으로 실형을 받은 지 불과 6일만에 내놓은 메시지가 맞는지 귀를 의심케한다”고 했다.&lt;br&gt;&lt;br&gt;이어 오 시장은 “이 대표가 법의 심판을 피하기 위해 지금까지 할 수 있는 모든 수단을 다 동원했다고 생각했는데 제 생각이 짧았다”며 “방탄이 어려워지니 급기야 선거법을 고쳐 자신에게 내려진 사법부 판결을 무력화하겠단 시도로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;이 대표의 발언에 대해 오 시장은 “상상을 초월한다”며 “법치 파괴를 넘어 법치 재창조 수준의 뇌구조가 아닐 수 없다”고 말했다. 그러면서 “이 대표를 위한 방탄입법 도구로 전락할 민주당 의원들의 처지도 딱하기 이를 데 없다”고 덧붙였다.&lt;br&gt;&lt;br&gt;그는 “이재명 대표께 진심으로 제안한다”며 “이제라도 정치를 그만두고 참회하기 바란다. 그것이 민주당과 국회, 그리고 대한민국을 정상화하는 길”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q33HANPY4ZCB7IPER73YKEV5OQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/오세훈 서울시장 페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>현대차 울산공장 3명 질식사 합동 감식... 일산화탄소 중독 무게</title>
-      <link>https://www.chosun.com/national/regional/2024/11/20/JGY65FVAKNHGBJ4BOLPPIWCY2M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/20/JGY65FVAKNHGBJ4BOLPPIWCY2M/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Nov 2024 11:07:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/APB5TLMMIZJLLI6HXFHNDRX2IY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 울산시 북구 현대자동차 울산공장에서 차량 성능 테스트 중 연구원 3명이 숨진 가운데 20일 오전 경찰 차량이 합동감식을 위해 공장으로 들어가고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 20일 전날 현대자동차 울산공장에서 차량 성능 테스트를 하던 연구원 3명이 숨진 사고에 대한 원인을 밝혀내기 위해 국립과학수사연구원 등과 합동 감식에 나섰다. 국과수는 연구원들이 일산화탄소에 중독돼 사망했을 가능성에 무게를 두고 조사를 하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;울산경찰청은 이날 오전 10시 30분부터 약 6시간 동안 울산 북구 현대차 울산공장 전동화품질사업부 차량 성능 테스트 공간(체임버)에서 국과수와 고용노동부, 한국산업안전보건공단 등 관계자 40여명과 함께 합동 감식을 했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰 관계자는 감식이 끝난 후 기자들에게 “공간 내부 환경을 사고 당시 진행된 차량 성능 테스트 상황과 비슷하게 만들고 감식을 진행했다”고 말했다.&lt;br&gt;&lt;br&gt;그는 배기가스 배출 설비가 정상적으로 작동했는지 여부에 대해서는 “지금은 말씀드리기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;감식반은 이날 오전 사망 연구원들에 대한 부검도 했다. 국과수는 숨진 연구원들이 일산화탄소에 중독돼 사망했을 가능성에 무게를 두고 부검 결과를 분석하고 있는 것으로 알려졌다. 최종 부검 결과는 2주 정도 후에 나올 전망이다.&lt;br&gt;&lt;br&gt;경찰은 부검 결과와 국과수의 감식 분석 등을 기반으로 수사를 이어갈 방침이다.&lt;br&gt;&lt;br&gt;고용노동부는 체임버 시설을 산업안전보건법상 밀폐 시설로 볼 것 인지 등에 대해 검토중인 것으로 전해졌다. 만약 이 시설이 질식의 위험이 있는 밀폐 시설이라면 사업주는 근로자에게 방독 마스크 등 호흡용 보호구를 주고 착용하도록 해야 한다. 하지만 작업 당시 연구원들은 방독 마스크 등을 착용하지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 숨진 연구원들이 호흡용 보호구를 착용했는지에 대해서는 “CCTV 등을 확보해 확인하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;지난 19일 오후 3시쯤 현대차 울산공장에서는 차량 주행 테스트와 아이들링(공회전) 테스트를 하던 연구원 3명이 체임버 공간에서 숨지는 사고가 발생했다. 2명은 현대차 소속 연구원이었고, 1명은 차량 품질 검증을 하는 협력업체 소속이었다.&lt;br&gt;&lt;br&gt;이동석 현대차 대표이사 겸 안전보건최고책임자(CSO)는 이날 담화문을 내고 “결코 일어나선 안될 사고가 나 참담함과 비통한 마음을 감출 수 없다”며 “유가족에 할 수 있는 모든 지원을 다 할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “회사는 관계 기관들의 현장 조사와 원인 규명 과정에 모든 협조를 다하고 있다”며 “사고가 재발하지 않도록 잠재적 위험 요인을 개선하는 등 대책 마련에 나서겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>野  “수사 공정성 의문” 검찰 이어 경찰 특활비 31억 전액 삭감</title>
-      <link>https://www.chosun.com/national/2024/11/20/WU7ORJLJA5ED5JZUS6YMZPSFXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/11/20/WU7ORJLJA5ED5JZUS6YMZPSFXI/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Nov 2024 11:13:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IWR34OPMTRLDFKCHZD7TSCTF7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조지호 경찰청장이 지난 14일 오전 국회 행정안전위원회에서 경찰의 집회 관리에 대한 신정훈 위원장의 사과요구에 답하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국회 행정안전위원회가 내년도 경찰 예산을 심사해 경찰 특수활동비 31억6700만원, 경찰국 예산 1억700만원을 전액 삭감했다. 방송조명차·안전 펜스 등 집회 관리 관련 예산도 26억4000만원 감액 삭감됐다. 여당인 국민의힘은 야당의 일방적 예산안 처리에 반발하며 표결 직전 회의장에서 퇴장했다&lt;br&gt;&lt;br&gt;국회 행안위는 20일 전체 회의에서 내년도 정부 예산안을 심사해 경찰청 소관 예산 중 경찰청 특수활동비와 경찰국 예산을 전액 삭감하는 내용의 2025년도 예산안을 의결했다. 국회 예산결산특별위원회의 종합 심사와 본회의 의결을 거쳐야 해서 행안위에서 의결한 예산안이 최종 확정안은 아니다. 하지만 과반 의석을 확보한 거대 야당이 상임위 단계에서 밀어붙이는 만큼 경찰 예산 삭감 흐름은 이어질 공산이 크다. 내년도 예산안은 예산결산특별위원회의 종합 심사와 본회의 의결을 거쳐 확정된다.&lt;br&gt;&lt;br&gt;민주당이 과반을 차지한 국회 행안위는 이날 예산 심사에서 정부가 편성한 경찰청 예산을 일부 삭감했다. 경찰 특수활동비 31억6700만원, 경찰국 예산 1억700만원이 전액 삭감됐다. 이 중 특활비는 기밀 유지가 요구되는 정보 수집이나 사건 수사 등에 쓰는 경비다. 경찰 관계자는 “특활비는 현장에서 마약 거래 위장수사와 같은 기밀 수사에 활용되는 비용”이라며 “문재인 정부 때도 증액 요구했던 비용”이라고 했다.&lt;br&gt;&lt;br&gt;기동대 운영 및 관리 예산은 35억1400만원이 삭감됐다. 경찰청은 안전 방패 구매 예산을 3배 늘리려고 했으나 올해와 동일하게 5억200만원만 편성됐다. 민주당은 “안전방패를 3배 더 늘려야 할 사유가 인정되지 않는다”며 8억7400만원을 감액했다. 방송조명차·안전펜스 구매 예산은 26억4000만원이 감액됐다.&lt;br&gt;&lt;br&gt;민주당이 내세운 이유는 경찰의 수사가 편향적이기 때문에 예산을 삭감하겠다는 것이다. 행안위 소속 민주당 이상식 의원은 이날 “경찰 수사의 편향성이 도마 위에 오르고 있다”며 “구체적으로 열거하지 않겠지만, 대통령 골프를 취재하던 기자에 대해서는 대통령 경호처 직원이 강탈했는데, 경찰이 일방적으로 두둔하는 언행을 보이고 있다”고 했다. 또 민주당은 지난 민주노총과 야당이 서울 도심에서 집회를 했던 9일 경찰의 ‘강경 진압’이 있었다고 주장하며, 조지호 경찰청장의 사과를 재차 요구했다. 여당 관계자는 “민주당이 경찰이 불법 폭력을 막는 본연의 임무를 수행했다고 예산을 깎겠다는 것”이라고 했다.&lt;br&gt;&lt;br&gt;민주당은 경찰국 예산 삭감 이유에 대해선 “경찰국이 탄생할 때 부터 정당성이 없는 조직이라 본다”고 했다. 경찰국은 윤석열 정부 출범 후 행정안전부에 생긴 조직이다. 경찰국 신설은 윤석열 정부가 그동안 경찰을 통제하던 청와대 민정수석실을 폐지하면서 생긴 공백을 메우기 위한 것이다.&lt;br&gt;&lt;br&gt;국민의힘 김종양 의원은 “민주당은 왜 불법 집회 과정에 대해서 얘기 안하는가”라며 “부상 발생하는 걸 모두다 ‘경찰청장 사과해라’, ‘사과해야 예산주겠다’라고 하는 건 국회의원으로서 해야하는 행태인지 되새겨봐야 한다”고 했다. 당시 민노총 주최 시위에서는 도로를 불법 점유하려던 시위대를 막느라 경찰 105명이 부상당했다.&lt;br&gt;&lt;br&gt;이날 행안위 전체회의에 참석한 조지호 경찰청장은 회의 말미에 “지난 민노총 집회에서 많은 사람이 부상입은 것에 대해서 안타깝고 유감스럽게 생각한다”고 했다.&lt;br&gt;&lt;br&gt;민주당은 앞서 이재명 대표 사건 수사를 해온 검찰과 전 정권 감사로 마찰을 빚은 감사원의 특활비·특경비 예산 586억원과 60억원을 전액 삭감했다. 법무부 예산도 500억원이나 깎였다. 반면 이 대표 비리 사건 판결을 앞두고 법원 예산은 246억원 증액시켰다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/IWR34OPMTRLDFKCHZD7TSCTF7Y.jpg?width=4446&amp;height=2964&amp;auth=de28398e62d4d1e5dae547a38e41a0cbf1e5ec8fe2e943a32d07c5d7c217ac9b&amp;smart=true" type="image/jpeg" height="2964" width="4446">
-        <media:description type="plain">&lt;YONHAP PHOTO-3709&gt; 답변하는 조지호 경찰청장
-    (서울=연합뉴스) 김주성 기자 = 조지호 경찰청장이 14일 오전 국회 행정안전위원회에서 경찰의 집회 관리에 대한 신정훈 위원장의 사과요구에 답하고 있다. 2024.11.14
-    utzza@yna.co.kr/2024-11-14 11:07:02/
-&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">김주성</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>故김문기씨 동생 “이재명 사과 바라지 않아...재판부 올바른 판단만 바라”</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/20/CLQMTFLLEZD7TFMLGU73WIEOVE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/20/CLQMTFLLEZD7TFMLGU73WIEOVE/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Nov 2024 09:29:56 +0000</pubDate>
-      <content:encoded>대장동 사업 실무자로 검찰 수사를 받다가 극단적 선택을 한 고(故) 김문기 성남도시개발공사 개발사업1처장의 동생 김대성씨는 “이재명에 사과를 바라지 않는다”고 말했다.&lt;br&gt;&lt;br&gt;김씨는 20일 본지 인터뷰에서 “이재명에 사과받을 시기는 지났고, 사과를 받는다고 가족들의 상처가 회복되지도 않는다”라며 “재판부의 올바른 판단만 바란다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KTGMAHVCLZPHALU6W4LUJIJHJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 지난 15일 서울 서초구 서울중앙지방법원에서 열린 '공직선거법 위반' 1심 선고 공판에서 징역 1년에 집행유예 2년을 선고받은 뒤 법정을 나서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김씨는 이재명 더불어민주당 대표가 지난 15일 선거법 위반 사건 1심에서 징역 1년에 집행유예 2년을 선고 받은 데 대해 “이번 판결로 가족들의 마음은 조금이나마 편해지지 않았을까 한다”라고 했다. 김씨는 “재판 결과가 나오는 날, 어머니는 형 묘소에 찾아가서 통곡하셨다. 자식 앞세운 부모인데 그 마음을 어떻게 말로 표현을 할 수 있겠느냐”고 했다. 김씨의 80대 노모는 이 대표 선고를 며칠 앞두고 “문기가 왔다”며 버선발로 문 앞에 나갔다고 한다. 김씨는 “그런 어머니를 아버지가 끌어안고 말렸다”고 했다.&lt;br&gt;&lt;br&gt;이 대표 사건을 심리한 1심 재판부는 이 대표의 발언 중 “김문기씨와 해외 출장 중 함께 골프를 치지 않았다” “국토부의 협박으로 백현동 부지 용도를 상향했다”는 부분을 ‘거짓말’이라며 허위 사실 공표죄에 해당한다고 판단했다. 다만 “김문기씨를 몰랐다”는 말은 공표 행위에 해당하지 않는다며 ‘무죄’로 판단했다.&lt;br&gt;&lt;br&gt;김씨는 “‘김문기 모른다’는 말보다 산타클로스 옷 입고 나와서 춤춘 거, 그게 정말 잘못됐다”고 말했다. 그는 “가족들이 경악했다. 어머니는 이 영상을 보고 오열하고 가슴을 치며 분통을 터뜨렸다”고 했다. 김 처장은 지난 2021년 12월 21일 오후 숨진 채 발견됐고 유족은 22~24일 경기 성남시 분당서울대병원에 빈소를 차리고 장례를 치렀다. 발인날이었던 2021년 12월 24일, 당시 민주당 대선 후보였던 이 대표는 ‘재명C와 혜경C의 크리스마스 캐럴’이라는 제목으로 산타 옷을 입고 춤추는 영상을 공개했다.&lt;br&gt;&lt;br&gt;김씨는 “장례 기간에 내내 이재명으로부터 조의는 없었다”고 했다. 그는 “이재명은 조화도 보내지 않았다”라며 “은수미 당시 성남시장이 와서 형수님 붙잡고 얘기를 하길래 제가 가시라 했다”고 했다. 그는 “안철수 (당시 대선후보) 운전기사 빈소는 가고, 같이 일했던 직원의 빈소는 오지도 않았던 것”이라고 했다. 이 대표는 민주당 대선 후보이던 2022년 2월 16일 국민의당 안철수 후보의 선거 유세차량에서 국민의당 당원이 숨지는 사고가 발생하자, 유세 도중 빈소를 찾아 조문했다.&lt;br&gt;&lt;br&gt;김씨는 “이재명 주변에 사람들이 벌써 5명이나 목숨을 잃었다”라며 “아무런 관계가 없다고 해도 그렇게 행동할 순 없을 것 같다”고 했다. 이 대표의 각종 비리와 관련해 측근과 주변인 등 5명이 잇따라 극단적 선택을 하거나 의문의 죽음을 맞았다. 하지만 이 대표는 한번도 자기 책임을 인정하지 않았다. 이 대표는 대선 후보 시절 숨진 김 처장에 대해 “성남시장 재직 때는 몰랐고 경기지사 이후 대장동 관련 재판을 받을 때(2019년 1월) 알게 됐다”고 했었다. 이후 이 대표는 성남시장 시절인 2015년 1월에 김 처장 등과 호주·뉴질랜드 출장을 간 사진이 공개되자, 이 대표 측은 “단순 동행한 산하기관 직원이라 후보는 알지 못했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VL7UAT4IC5GHRHXSCCNUI4UBQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 이재명(맨 오른쪽) 대표가 성남시장 재직 당시인 2015년 뉴질랜드 출장지에서 성남도시개발공사의 유동규(가운데) 전 기획본부장, 고(故) 김문기(뒷줄 맨 왼쪽) 개발사업 1처장과 함께 촬영한 사진. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 전 처장의 사망 하루 전 공사는 ‘개발사업 기밀정보 무단유출’ 등을 사유로 김 전 처장에 대한 중징계를 의결하기도 했다. 김씨는 “일반 사람들은 경찰서만 가도 심장이 뛰고 가슴이 떨리는데, 그 고통, 압박감을 어떻게 견디겠느냐”라며 “평생 일밖에 모르던 사람인데 전 국민이 다 보고 있는 사건 한 가운데서, 혼자서 견딜 수 있는 사람이 있겠느냐”고 했다.&lt;br&gt;&lt;br&gt;김문기씨의 아내는 최근 아르바이트를 시작했다고 한다. 김씨는 “형수는 형이 떠나고 아무 일도 못하다가 이제는 잊기 위해서 일을 하고 있다”라며 “상처가 너무 커서 형수랑 차마 통화를 못한다”고 했다. 김씨의 아들은 취업을, 딸은 대학 입시를 앞두고 있다고 한다. 김씨의 아들은 “지난해 7월 김 전 처장의 아들은 서울중앙지법에서 열린 이 대표의 공직선거법 위반 혐의 재판에서 “(이재명 대표가 아버지를) 모를 리 없다. 본가에 있으면 아버지가 주말에도 방으로 들어가 전화를 받았고 통화 상대를 물으면 성남시장이라고 했다”고 증언했다.&lt;br&gt;&lt;br&gt;김씨는 “형이 이 대표를 존경한다고 자주 말했다. 가족들에게 종종 자랑하듯이 시장님과 골프를 쳤다고 했고, 같이 일하는 걸 자랑스러워했다”고 말했다. 김씨는 “(이 대표가) 우리 형을 열심히 일하는 직원이었고 부서장이었다고 한마디만 했으면, 그 말 한마디만 했더라면…”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>’전처 폭행 혐의’ 누명벗은 개그맨 김병만... 檢, 불기소 처분</title>
-      <link>https://www.chosun.com/national/incident/2024/11/20/DAMDCSLNYBAEHLTKYA2IGV3A2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/20/DAMDCSLNYBAEHLTKYA2IGV3A2U/</guid>
-      <dc:creator>의정부=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Nov 2024 09:13:44 +0000</pubDate>
-      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ET43ATUVFFBUFEYKP3CTPOCV5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개그맨 김병만씨. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전처 폭행 혐의로 피소된 개그맨 김병만씨에 대해 검찰이 혐의가 없다고 판단하고 불기소 처분을 내렸다.&lt;br&gt;&lt;br&gt;의정부지검은 폭행, 상해 등 혐의로 송치된 김씨에 대해 불기소 처분했다고 20일 밝혔다. 검찰 관계자는 “수사 기록과 증거 등을 종합적으로 판단해 불기소 처분을 했다”고 설명했다.&lt;br&gt;&lt;br&gt;김씨의 전처 A씨는 지난 2월 “과거 수년간 가정사 문제 등으로 다투다 상습 폭행을 당했다”는 취지로 김씨를 경찰에 고소했다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 제출한 진료 기록서 등을 검토한 후 가정폭력 범죄의 처벌 등에 관한 특례법에 따라 검찰에 사건을 넘겼다.&lt;br&gt;&lt;br&gt;김씨 측은 “폭행 의혹이 사실이 아니다”고 혐의를 부인했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울 지하철 MZ노조도 파업 돌입하나…쟁의행위 출정집회</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/20/LDGQTT3EI5B5BC5Z7ZZVHKWPFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/20/LDGQTT3EI5B5BC5Z7ZZVHKWPFM/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Nov 2024 20:05:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5MGADIEKEZLXNISZHIFC47I2RA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 서울 중구 서울시청 앞에서 열린 임금과 복지 정상화를 위한 쟁의행위 출정집회에서 서울교통공사 올바른노동조합 조합원들이 피켓을 들고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘MZ노조’로 불리는 서울교통공사 제3노조 올바른노동조합이 20일 오전 서울시청 앞에서 ‘쟁의행위 출정집회’를 열고 서울시와 공사에 임금과 복지 정상화를 요구했다.&lt;br&gt;&lt;br&gt;올바른노조는 20~30대 직원이 주축인 공사 3노조다. 설립 3년째인 올해 처음 교섭권을 얻었다. 이날 집회에서 송시영 올바른노조 위원장은 “우리는 불필요한 정치 파업은 하지 않는다”며 “모두 열심히 일해서 좋은 대우 받고 좋은 서비스를 만들자”고 말했다.&lt;br&gt;&lt;br&gt;집회에는 올바른노조 간부, 조합원 등 400명 가량이 참석했다. 간부들은 ‘노조 조끼’ 대신 파란색 맨투맨 티셔츠를 입고 있었다. 참석한 대부분의 조합원들은 20~30대로 보였다. 후드티, 청바지 등을 입고 나왔다. 노조 집회에서 흔히 울리는 ‘민중가요’도 없었다.&lt;br&gt;&lt;br&gt;노조는 “기후동행카드 도입, 혼잡도 완화를 위한 추가 열차 투입 등 서울시 정책을 최선을 다해 이행했으나 되돌아온 것은 또 다른 적자의 증가와 이로 인한 임금 삭감”이라며 “지난 5년간 연평균 임금 실질 인상률은 0.89%로 연도별 행정안전부 정책인상률에 비해 한참 못 미치는 수준”이라고 주장했다.&lt;br&gt;&lt;br&gt;또 노조는 “기후동행카드로 인한 적자가 연 1800억원 가량인데 이중 절반인 900억을 공사가 부담하고 있어 적자 부담이 심하다”고 했다.&lt;br&gt;&lt;br&gt;노조는 “공사는 임금과 채용 부분에 있어선 ‘서울시 승인 사항이라 결정권이 없다’는 책임 회피성 발언만을 고수하고 있다”며 ▲정책사업 이행분(정책인건비 총액 제외)의 재원 보전 ▲안전인력의 온전한 정원 반영 ▲신규인력 채용 승인 등을 요구했다.&lt;br&gt;&lt;br&gt;송 위원장은 “노조는 특정 정치세력을 위한 정치 행위가 아닌 열심히 일하는 우리 노동자들의 임금과 복지를 위해서 행동해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;노조는 21∼24일 4일간 조합원 대상 찬반투표를 벌여 쟁의행위 여부를 최종 결정할 예정이다.&lt;br&gt;&lt;br&gt;한편 민주노총 산하 서울교통공사노조(1노조)는 이날부터 태업(준법투쟁)에 돌입했다. 지난 18일부터 진행되고 있는 코레일 철도노조(전국철도노동조합)와의 태업과도 겹치며 서울 및 수도권 지하철 일부 노선이 5~20분 가량 지연됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘홍명보 선임 논란’ 들여다본 스포츠윤리센터 “정몽규 회장, 직무 태만”</title>
