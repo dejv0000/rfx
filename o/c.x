@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘동거 중인데 집 처음 온 척?’…은가은‧박현호, 방송조작 논란에 사과 </title>
+      <link>https://www.chosun.com/national/national_general/2024/11/23/IF2AZHYH3RGZVNJMNBNTP6J6MQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/23/IF2AZHYH3RGZVNJMNBNTP6J6MQ/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 22 Nov 2024 21:36:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GXIOTT3EZZDVVLJ7BDUIMIO62A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박현호와 은가은. /은가은 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;트로트 가수 은가은(37)과 5세 연하 트로트 가수 박현호(32)의 결혼 준비 과정을 다룬 채널A 예능프로그램 ‘신랑수업’ 측이 22일 방송 조작 의혹을 인정하고 사과했다.&lt;br&gt;&lt;br&gt;올해 8월부터 공개 열애를 시작한 두 사람은 ‘신랑수업’을 통해 결혼 준비 과정을 공개하고 있는데 방송에서 박현호가 은가은의 집을 가본 적이 없다는 말, 은가은이 박현호의 어머니를 처음 만나는 장면 등이 조작된 것이라는 주장이 나왔다. 두 사람은 이미 지난 9월부터 동거를 시작했다는 의혹도 제기됐다.&lt;br&gt;&lt;br&gt;신랑수업 제작진은 공식 입장을 통해 “두 사람의 결혼 준비 과정을 함께하며 방송에 담고자 했다”며 “다만 부득이하게 집 데이트 시점과 촬영 및 방송 날짜에 차이가 있었고 이를 제대로 반영하지 못해 시청자들에게 혼란을 드린 점 죄송하다”고 했다.&lt;br&gt;&lt;br&gt;은가은은 자신의 공식 소셜미디어를 통해 “박현호와 저는 가족분들의 축복 하에 내년 4월12일 부부로서의 인연을 시작하려고 한다”며 “8개월 동안 (박현호와) 만남을 이어가면서 확신이 생겼다. 이런 모습을 (방송에서) 팬분들에게 보여주는 과정에서 리얼타임으로 보여드리지 못해 혼란을 드렸다”고 사과했다.&lt;br&gt;&lt;br&gt;은가은은 “모든 것이 처음이라 서툰 것도 많지만 현호씨와 함께하는 첫 발걸음을 잘 내디딜 수 있게 많은 응원을 부탁드린다”며 “저희 커플에 대한 따뜻한 관심과 사랑에 보답하는 마음으로 잘 살아 보겠다”고 했다.&lt;br&gt;&lt;br&gt;박현호도 소셜미디어를 통해 “결혼을 준비하면서 여러 가지 상의할 문제들이 많아 최근 자주 함께 지내게 되었다”며 “이런 저희 이야기를 더 많이 하려다 보니 리얼타임으로 보여드리지 못했고 이런 과정에서 팬분들에게 혼란을 드렸다”고 사과했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>﻿가정폭력 이겨내고 교사 꿈꾸던 여대생…아이들 웃음소리에 공황 발작이 찾아왔다 </title>
       <link>https://www.chosun.com/national/national_general/2024/11/23/NO2IX6S6XZDB5F2CVNYNCEHG3U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/23/NO2IX6S6XZDB5F2CVNYNCEHG3U/</guid>
@@ -866,15 +875,6 @@
       <description>절기상 첫눈이 내린다는 소설(小雪)인 22일은 전국이 대체로 맑겠다.</description>
       <pubDate>Fri, 22 Nov 2024 01:32:55 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QEPC4MSADZMOXF5OGOLDKCG22I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 21일 광주 북구 용봉동 전남대학교 정문 5·18소공원으로 야외활동 나온 북구청 직장어린이집 아이들이 알록달록 물든 낙엽을 가지고 동심을 만끽하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;절기상 첫눈이 내린다는 소설(小雪)인 22일은 전국이 대체로 맑겠다. 큰 추위는 없이 전국 대부분 지역이 영상의 기온을 보이겠다. 낮 최고 기온은 9~16도로 예보됐다. 서울이 10도를 기록하는 걸 비롯해, 대전 11도, 광주 12도, 대구 13도, 부산 15도를 기록하겠다.&lt;br&gt;&lt;br&gt;다만, 주말 아침엔 기온이 영하권으로 떨어져 춥겠다. 기상청은 내륙을 중심으로 얼음이 얼고 서리가 내리는 곳이 있겠으니 농작물 관리에 유의해야 한다고 밝혔다.&lt;br&gt;&lt;br&gt;토요일 오전 최저 기온은 -4~6도, 낮 최고기온은 11~16도로 전망된다. 서울과 광주가 1~12도를 기록하는 걸 비롯해 대전·대구 -1~12도를 기록하겠다. 일요일은 오전 최저 기온 -2~8도, 낮 최고기온은 11~16도를 기록할 전망이다. 다음 주 화요일부턴 전국에 비가 내리고, 주 중반엔 날이 추워지면서 비가 눈으로 바꾸어 내릴 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>여수 해상에서 18명 탄 낚시어선 갯바위 충돌…7명 부상</title>
-      <link>https://www.chosun.com/national/incident/2024/11/22/3HJLJDQRTFGY7GVPKZYDK26O6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/22/3HJLJDQRTFGY7GVPKZYDK26O6I/</guid>
-      <dc:creator>여수=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Nov 2024 00:42:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JBY73ZW4AFE7XDSJVOWATJASQE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 여수 해상에서 낚시어선이 입항하던 중 갯바위에 부딪혀 승객 7명이 다치는 사고가 발생했다.&lt;br&gt;&lt;br&gt;22일 여수해양경찰서에 따르면 이날 오전 6시 52분쯤 여수시 남면 안도 동쪽 370ｍ 해상에서 9.77t 낚시 어선 A호가 섬으로 추정되는 물체에 충돌했다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;신고를 받은 해경은 곧바로 인근 어선에 협조를 요청해 승객 16명을 전원 구조했다. 현재 승객 2명은 중상, 5명이 경상을 입고 병원에서 치료를 받고 있다.&lt;br&gt;&lt;br&gt;해경은 A 호가 낚시 조업을 마무리하고 입항하다 갯바위를 보지 못하고 충돌해 사고가 발생한 것으로 추정하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“망하게 해주겠다”…치킨집 바닥에 맥주 쏟고 협박 발언 40대 공무원, 검찰 송치</title>
