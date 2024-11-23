@@ -13,6 +13,55 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“내 아이 계정 돌려내”… 잼잼이·준범이 인스타도 불시 차단, 무슨 일? </title>
+      <link>https://www.chosun.com/national/national_general/2024/11/23/4IPJ5WYKSJBWZGBCBENCULKVIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/23/4IPJ5WYKSJBWZGBCBENCULKVIY/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 23 Nov 2024 14:09:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FF2JMMOOSRG2DBZJP2KZMMJZEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍현희, 제이쓴 가족 사진(왼쪽)과 크레용팝 출신 소율과 딸./ 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;페이스북과 인스타그램 모회사 메타가 미성년자 계정 단속을 강화하면서 자녀 육아 계정이 불시에 정지됐다는 사례가 속출하고 있다.&lt;br&gt;&lt;br&gt;최근 네이버 맘카페 등에는 어린 자녀를 키우는 부모들을 중심으로 인스타그램 육아 계정이 비활성화되거나 영구 정지 조치를 받았다는 후기들이 다수 올라왔다. “팔로워 2000명인 인스타그램 아기 계정이 영구 비활성화 됐다” “인스타그램 아기 계정이 삭제됐다. 자녀가 태어날 때부터 육아 일기로 사용해 왔는데 이게 무슨 일이냐” “아기 인스타가 허무하게 날아갔다” 같은 내용이다.&lt;br&gt;&lt;br&gt;육아 방송에 출연했던 연예인들도 예외 없이 이런 피해를 겪었다고 호소했다. 그룹 H.O.T 출신 문희준의 아내인 소율은 지난 19일 인스타그램에 글을 올려 “우리 잼잼이(딸 애칭) 인스타그램 계정이 갑자기 비활성화됐다. 예쁜 사진들과 영상, 팬분들께서 그려주신 그림들이 다 없어졌다. 너무 속상하다”고 했다.&lt;br&gt;&lt;br&gt;홍현희 남편 제이쓴도 지난 20일 자신의 계정에 “준범이 계정 돌려주란 말이야”라며 아들 준범이의 인스타그램이 일시 정지 됐다고 밝혔다. 제이쓴은 이후 일시정지가 풀리자 영구 비활성화 조치를 막기 위해 세 가족이 함께 찍은 사진을 자녀 계정에 올렸다.&lt;br&gt;&lt;br&gt;최근 다수의 육아 계정들이 불시에 정지되면서 메타가 미성년자 보호 강화 조치에 나선 것 아니냐는 추측이 나오고 있다. 인스타그램은 만 14세 이상의 가입할 수 있다. 14세 미만 어린이를 대표하는 계정의 경우 계정 소개에 부모나 관리자가 관리하는 계정임을 명확히 밝혀야 한다는 것이 인스타그램의 지침이다.&lt;br&gt;&lt;br&gt;맘카페 회원들은 이런 피해를 막기 위한 대처 방법들이을 공유하고 있다. 계정 프로필 사진을 아기 대신 엄마, 아빠 등 성인 사진으로 변경하고 계정 설명에 ‘엄마가 운영하는 계정입니다’ 등의 문구를 적는 것이다. ‘아이(kid)’ ‘아기(baby)’ 등 아기 관련 키워드도 아이디에서 삭제하는 방법도 제시됐다.&lt;br&gt;&lt;br&gt;메타는 현재 미국, 캐나다, 호주, 영국 등 4개국에서 운영 중인 청소년 대상 계정을 내년 1월 전 세계로 확대할 계획이다. 이 계정은 청소년에게 민감한 콘텐츠 노출을 제한할 수 있으며 부모가 오후 10시에서 오전 7시 사이 자녀의 스마트폰 사용을 제한할 수 있는 기능이 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“군대 안 갈래” 169㎝에 102㎏ 찌운 남성…식단표 짜준 친구도 유죄</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/23/XWACNJEW7FEPJMFVAPK3WV35JY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/23/XWACNJEW7FEPJMFVAPK3WV35JY/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 23 Nov 2024 11:37:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IQFIW6Z6NMEBL2CXRN4YSBQEVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2023년도 2월 1일 인천시 미추홀구 인천병무지청에서 입영대상자들이 신체검사를 받고 있다. 사진은 기사 내용과 관계없다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;병역 기피를 목적으로 체중을 증량한 20대 남성이 징역형의 집행유예를 선고받았다. 살이 찌도록 도운 남성의 지인도 방조죄로 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;서울동부지법 형사단독11부(판사 서보민)는 지난 13일 병역법 위반 혐의로 기소된 A(26)씨에 대해 징역 1년에 집행유예 2년을 선고했다. 병역법 위반 방조 혐의로 기소된 B(26)씨에게는 징역 6개월에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;공소장에 따르면 A씨는 2017년 10월 17일 첫 병역판정검사에서 신체등급 2등급 판정을 받아 현역병 입영 대상이 됐다. 그는 대학입시, 자격증 시험, 출국 대기 등의 사유를 들며 입영을 여러 차례 연기했다.&lt;br&gt;&lt;br&gt;2022년 9월 재병역판정검사 대상이 된 A씨는 체질량지수(BMI) 35 이상시 신체등급 4등급 판정을 받아 보충역 처분을 받을 수 있다는 사실을 이용해 체중을 늘리기로 마음먹었다.&lt;br&gt;&lt;br&gt;A씨는 친구 B씨가 짜준 식단표를 따라하며 살을 찌웠다. 식사량을 2배로 늘리고 칼로리 소모량이 높은 아르바이트는 그만뒀다. 그는 측정 직전에는 많은 물을 마셔 인위적으로 체중을 늘리기도 했다.&lt;br&gt;&lt;br&gt;그 결과 2022년 12월 7일 재병역판정검사에서 A씨는 신장 168.9㎝, 체중 105.4㎏, BMI 36.9로 측정됐다. 2023년 2월 실시된 1차 불시 재측정에서는 신장 168.6㎝, 체중 102.9㎏, BMI 36.1 수치가 나왔다.&lt;br&gt;&lt;br&gt;A씨는 2023년 6월 이뤄진 2차 불시 재측정에서는 신장 169㎝, 체중 102.3㎏, BMI 35.8로 신체등급 4급을 최종 판정 받았고 사회복무요원 소집 대상이 됐다.&lt;br&gt;&lt;br&gt;이 과정에서 B씨는 수시로 A씨의 체중 목표치를 설정해주고 “보충역으로 복무하게 됐을 때의 이득을 생각하라”며 동기 부여한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;B씨는 재판에서 A씨가 말만 하고 실천하지 않을 사람이라고 생각했다며 혐의를 부인했다. 재판부는 정신적 방조행위에 해당한다며 B씨 주장을 받아들이지 않았다.&lt;br&gt;&lt;br&gt;서보민 판사는 “피고인은 자신의 잘못을 인정하고 병역 의무를 성실히 이행하겠다고 밝혔고 피고인들이 처벌받은 전력이 없는 점, 범행 후의 정황 등을 종합했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김해 공장서 기름탱크 수리 중 폭발화재… 1명 사망·2명 부상</title>
+      <link>https://www.chosun.com/national/regional/2024/11/23/N4SJIDUV3ZDJ3J57GQY4IPA24Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/23/N4SJIDUV3ZDJ3J57GQY4IPA24Q/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 Nov 2024 11:31:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W4HTQANLZRB53DGJS6RJ7PIGMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사고 현장서 진화 작업하는 소방대원./경남소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 오전 11시 11분쯤 경남 김해시 한림면 안하리 폐배터리 처리업체에서 폭발과 함께 화재가 발생해 1명이 사망했다.&lt;br&gt;&lt;br&gt;경찰과 소방당국에 따르면 수리 작업을 하던 외주업체 직원 2명이 부상을 입고 병원으로 이송됐으며, 이 중 1명이 숨졌다. 나머지 1명은 중상인 것으로 파악됐다. 공장 관계자 1명도 다쳐 병원으로 이송돼 치료를 받고 있다.&lt;br&gt;&lt;br&gt;폭발은 공장 내 옥외 기름탱크 수리 작업 도중 발생한 것으로 추정된다. 소방당국은 불꽃과 연기를 목격한 인근 공장 관계자의 신고를 받고 출동해 인명 구조와 진화 작업을 벌였다.&lt;br&gt;&lt;br&gt;불은 40분 만인 오전 11시 51분쯤 진화됐다. 경찰과 소방당국은 자세한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/W4HTQANLZRB53DGJS6RJ7PIGMA.jpg?width=1200&amp;height=900&amp;auth=6c3b1d7cc7777360f206a67e08bf727b833fb4de91e491710e90c856a25b6415&amp;smart=true" type="image/jpeg" height="900" width="1200">
+        <media:description type="plain">사고 현장서 진화 작업하는 소방대원./경남소방본부</media:description>
+        <media:credit role="author" scheme="urn:ebu">경남소방본부</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>이재명 위증 교사 선고 앞둔 주말...광화문 일대 반윤·반이 집회</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/23/DKB6W5XHLNDZZFM4U6F2GKDAEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/23/DKB6W5XHLNDZZFM4U6F2GKDAEI/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 Nov 2024 10:52:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V57WDSVHNJLLTLZVCJRBPLI2I4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표를 비롯한 지도부 의원들이 23일 서울 종로구 광화문 광장에서 열린 ‘김건희-채상병 특검 추진! 국정농단 규명!윤석열을 거부한다' 2차 시민행진 집회에서 구호를 외치고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말인 23일 오후 도심 광화문 일대에서 보수단체와 야당이 각각 ‘이재명 더불어민주당 대표 구속 촉구 집회’와 ‘정권 퇴진 집회’를 진행했다. 세종대로·사직로·남대문로 일대에서 진행된 대규모 도심 집회의 소음 등으로 시민들은 불편을 겪었다.&lt;br&gt;&lt;br&gt;이날 서울 남대문로 일대에서 진보 성향 시민단체 ‘촛불행동’은 ‘윤석열 퇴진’ 등을 주제로 하는 내용의 집회를 열었다. 연단에 올라간 한 발언자는 “‘북한군 러시아 파병설’은 근거가 없다”며 “전쟁광 윤석열의 거짓 주장”이라고 발언하기도 했다. “해병대 전 수사단장 박정훈 대령은 무죄다”고 외치기도 했다.&lt;br&gt;&lt;br&gt;자유통일당 등 보수단체들은 오후 3시부터 서울 종로구 동화면세점 앞 광장에서 ‘이재명 구속 촉구’ 등을 주제로 하는 내용의 집회를 열었다. 진보단체 집회 현장에서 750m 남짓 떨어진 곳이었다이들은 ‘이재명을 구속하라’ 등이 쓰인 팻말을 내걸고 “문재인·조국 구속하라” “자유대한민국 만세” 등의 구호를 외치기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/23T2PFBSYJJV5M5JWCNRWPH7DU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오후 서울 종로구 세종대로에서 보수단체 회원들이 집회를 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 더불어민주당은 이날 서울 광화문 북측 광장 앞 도로에서 ‘김건희·윤석열 국정농단 규탄·특검 촉구 제4차 국민행동의 날’ 집회를 개최했다. 보수단체 집회 현장에서 650m 정도 떨어진 곳이었다. 야당 지지자들은 ‘김건희 특검 수용하라’ 등 팻말을 들고 ‘윤석열을 거부한다’ ‘탄핵이 평화다’ 등 구호를 외쳤다.&lt;br&gt;&lt;br&gt;이날 집회에서는 이재명 대표와 박찬대 원내대표, 김민석 최고위원 등이 참석했다. 이전의 세 차례 집회와 달리 이재명 대표가 단상에 올라 발언하지 않았다. 이날 단상 위에 박찬대 원내대표가 발언자로 나섰다. 박찬대 원내 대표는 “또다시 김건희 특검을 거부하면 국민이 ‘당신은 더 이상 우리 대통령이 아니다’라며 해고를 통보할 것”이라고 주장했다. 민주당은 집회 이후 시민단체 주도의 행사 ‘윤석열을 거부한다 2차 시민행진’에 합류했다&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AOQ4BGYEHVJSTLCFW4M36KZ36I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오후 서울 종로구 광화문 북측광장 인근에서 거부권을 거부하는 전국비상행동 주최로 '김건희-채상병 특검 추진! 국정농단 규명! 윤석열을 거부한다 2차 시민행진' 집회가 진행되고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도심 한복판에서 열린 대규모 집회로 교통 정체가 빚어졌다. 서울시 교통정보 시스템에 따르면 이날 오후 7시 기준 세종대로 사거리에서 광화문으로 향하는 도로는 시속 2km로 극심한 정체를 겪었다. 같은 시각 도심 차량 통행 속도는 9.7km, 서울시 전체 평균은 시속 19.7km 였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>산업인력공단 이사장 “ㄷ여대 거르고 싶다…며느리도 안돼”</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/23/DW5KUMY7LZARPF3YHM74WSXK3Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/23/DW5KUMY7LZARPF3YHM74WSXK3Y/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 23 Nov 2024 10:15:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DQJBFQBWP4CTCYGX3HIASTKRKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 서울 성북구 동덕여대 바닥에 공학 반대 문구가 적혀 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 동덕여대가 남녀공학 전환에 반대하며 기물파손 시위를 벌인 가운데, 고용노동부 산하 한국산업인력공단 이사장이 이 사태를 언급하며 “채용 시에 걸러내고 싶다”는 글을 올려 논란이 되고 있다.&lt;br&gt;&lt;br&gt;이우영 산업인력공단 이사장은 지난 16일 페이스북에 신입사원 연수과정에 대한 글을 올리며 동덕여대로 유추되는 ‘서울 ㄷ여대’를 언급했다.&lt;br&gt;&lt;br&gt;그는 “최근 서울 ㄷ여대 학생들의 교내 시설물 파손, 지워지지 않는 비가역적 낙서, 교수님이나 행정직원분들에 대한 폭력적 언행, 설립자 동상 훼손 등에 관한 뉴스를 접하며 블라인드 채용 제도라 할지라도 가능하다면 이 대학 출신은 걸러내고 싶다는 생각”이라고 적었다.&lt;br&gt;&lt;br&gt;이어 “아들을 둔 아비 입장에서 이 대학 출신 며느리는 절대 받아들이지 않을 거란 생각을 하게 된다”며 “큰 며느리는 남녀공학 대학 출신의 반듯한 성품이고, 막내아들이 최근 사귀고 있는 여친도 남녀공학 대학 출신의 참된 사람이라 다행”이라고 했다.&lt;br&gt;&lt;br&gt;그는 “이번 신입사원 연수 특강 때 ㄷ여대 사례도 토론해볼까 고려중이다. 사회생활에서 무엇보다 소중한 가치는 늘 감사하는 마음과 태도, 긍정적 사고와 배려, 온유한 마음에 있음을 나이 들수록 깨닫게 된다”며 글을 마쳤다. 23일 현재 이 글은 삭제된 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7FWTMGZ6WRHQNJBC4ATSWWNB6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 16일 이우영 산업인력공단 이사장의 페이스북 글. 현재는 삭제됐다./ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이와 관련 이우영 이사장은 연합뉴스를 통해 “동덕여대에서 일어난 상황을 보며 일부 폭력 등에 대해 너무나 안타까운 마음이 앞서다 보니 표현이 적절하지 못한 부분이 있었다”며 “학생분들의 마음을 깊이 헤아리지 못해 유감스럽게 생각한다”고 해명했다. 이어 “남녀존중문화는 저의 경영지론이니 이번 상황의 지혜로운 해결을 통해 동덕여대가 더 발전하길 기원하겠다”고 했다.&lt;br&gt;&lt;br&gt;최근 동덕여대는 남녀공학 전환 문제를 놓고 내홍을 겪었다. 이에 직장인 익명 커뮤니티 ‘블라인드’에는 여대 출신 지원자는 채용 과정에서 뽑지 않는다는 글이 여럿 올라오면서 고용노동부가 실태 파악에 나섰다. 동덕여대 총학생회와 대학 본부는 지난 21일 남녀공학 전환 논의를 잠정 중단하기로 합의했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>의협회장 출마 주수호 “선동에 취약한 사회, 대화 말고 투쟁”</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/11/23/QTTLW5K6SFALBPYAY4BP57J5OM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/11/23/QTTLW5K6SFALBPYAY4BP57J5OM/</guid>
@@ -796,24 +845,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2NPJRGNRFRAXBJ2RL6NZNC3JYE.png"&gt;&lt;figcaption&gt;&lt;small&gt;달리던 차량에 쇳덩이가 날아들어 깨진 앞 유리. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 시흥시의 한 도로에서 달리던 차량에 쇳덩이가 날아들어 조수석에 앉아있던 동승자가 중상을 입는 사고가 발생했다.&lt;br&gt;&lt;br&gt;20일(현지시각) 온라인 커뮤니티 ‘보배드림’에 이같은 사연과 함께 사건 당시 영상이 올라왔다. 글쓴이 A씨에 따르면, 지난 13일 새벽 4시 50분쯤 시흥시 대야동 소래터널을 지나 시흥톨게이트 방향 1차로를 주행하던 중 차량 조수석 쪽 앞유리에 건축자재로 추정되는 쇳덩이가 날아들어 유리를 관통했다. 쇳덩이는 앞유리를 깨고 차 안으로 들어왔고, 당시 조수석에 타고 있던 운전자의 아내는 깨진 유리 파편에 맞아 크게 다쳤다. 119구급대가 현장에 출동해 아내를 인근 병원으로 이송했으며 현재 치료를 받고 있다. A씨는 “아내가 갑자기 날아온 물체에 중상을 입었고, 유리파편을 뒤집어쓴 채 병원으로 이송됐다”고 했다.&lt;br&gt;&lt;br&gt;A씨가 올린 사고 당시 영상을 보면, A씨 차량이 도로 1차로를 주행하던 중 오른편에서 의문의 물체가 도로에 떨어져 구르더니 튀어 올라 A씨 차량 조수석 앞 유리를 내리쳤다. 피할 새도 없이 불과 몇초만에 벌어진 일이었다. A씨가 올린 사진을 보면 사고 당시 충격으로 조수석 쪽 차량 앞 유리에 큰 구멍이 뚫려 있었다. 문제의 쇳덩이는 가로 14cm, 세로 20cm가량의 건축 자재로 추정된다.&lt;br&gt;&lt;br&gt;그러나 사고 원인 규명을 위한 조사에도 어려움을 겪고 있는 실정이다. 새벽 시간대라 한국도로공사의 방범카메라(CCTV)에도 사고 장면이 선명하게 찍히지 않았으며 현재까지 가해자(혹은 가해차량)을 특정하지 못한 상태다. 그는 “이를 목격하신 분들이 있다면 꼭 도와주시길 바란다”고 요청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WN7FORSB3VFS5BTM2WTQE32PDE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;사고 당시 쇳덩이가 차량 앞유리로 날아드는 모습. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;네티즌들은 이 사고가 화물차의 적재물 고정 불량으로 인한 것으로 추정하고 있다. 네티즌들은 “적재함에 넣고 달리다가 떨어진 게 아닐까” “아내분 부상이 심히 걱정된다. 빨리 완쾌되시길 바란다” “구조물에서 지문 채취라도 해서 범인을 잡아야 하는 것 아닌가” 등의 반응을 보였다. 비슷한 사고 경험자들의 제보도 이어지고 있다. 한 운전자는 “형과 함께 가다가 지름 20cm가 넘는 돌이 앞유리에 박혔다”며 “다행히 유리가 뚫리지 않아 다치진 않았지만 정말 크게 놀랐다”고 전했다.&lt;br&gt;&lt;br&gt;한국도로공사에 따르면, 고속도로 낙하물로 인한 사고는 2020년부터 2024년 7월까지 총 238건 발생했다. 연도별로 보면 2020년 56건, 2021년 46건, 2022년 57건, 2023년 52건이다. 올해는 7월까지 27건이었다. 낙하물 사고의 주요 원인은 화물차의 적재 불량이나 과적으로 꼽힌다. 지난 2월에도 경부고속도로를 달리던 25t 화물차에서 철제 H빔이 떨어져 차량 3대가 파손된 바 있다.&lt;br&gt;&lt;br&gt;지난 2021년 ‘자동차손해배상보장법’이 개정되면서 낙하물 사고 가해차량이 밝혀지지 않을 경우 정부가 ‘자동차손해배상 보장사업’을 통해 인적 피해에 대해 보상하고 있다. 그러나 물적 피해는 보상 범위에 빠져 있어 차량 파손에 따른 수리는 고스란히 피해자가 부담해야 하는 실정이다.&lt;br&gt;&lt;br&gt;도로공사 자체 규정에 따르면 낙하물로 인한 사고 발생 시 피해자가 낙하물 원인자를 찾지 못할 경우 도로공사에 손해배상을 접수하고, 관리 하자 등 도로공사의 과실 여부에 따라 배상 여부가 결정된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>오세훈 “민주당 ‘마포 소각장’ 예산 삭감…국회의원이 할 짓이냐”</title>
-      <link>https://www.chosun.com/national/regional/seoul/2024/11/22/SPYVBTVIBJHDJDXZDGXMND75UY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/11/22/SPYVBTVIBJHDJDXZDGXMND75UY/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 Nov 2024 17:08:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WPGAKXUCMJIEVCV54T6H5YPLQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 더불어민주당의 내년도 정부 예산안 심의 과정에 대해 “예산농단의 망나니 칼춤을 멈추라”며 “국가적 과제인 자원회수시설(소각장)을 막는 것이 국회의원이 할 짓이냐”고 말했다.&lt;br&gt;&lt;br&gt;오 시장은 22일 페이스북에 ‘민주당의 ‘예산 농단’, 바로 ‘국정 농단’입니다’라는 제목의 글을 통해 이같이 말했다.&lt;br&gt;&lt;br&gt;전날 국회 환경노동위원회는 마포구 소각장 관련 예산 전액을 삭감한 예비심사보고서를 의결했다.&lt;br&gt;&lt;br&gt;오 시장은 “국회를 거야(巨野)의 입법 독재의 장으로 만들어 온 민주당이 이번에는 예산심의를 ‘폭거의 장’으로 전락시켰다“며 ”차세대 원전 기술인 발전용 소듐냉각고속로(SFR) 연구개발비는 90% 삭감하고 검찰·경찰·감사원 등 사정기관의 예산도 모조리 잘라버렸다”고 말했다.&lt;br&gt;&lt;br&gt;또 오 시장은 “반면 이재명식 지역화폐는 2조원을 신설했고 사법부를 압박하기 위해 법원 예산도 241억원 증액했다”며 “이재명 대표를 위한 ‘맞춤형 예산 농단’”이라고 했다.&lt;br&gt;&lt;br&gt;마포 소각장에 대해 오 시장은 “특히 심각한 것은 그들의 도를 넘는 무도한 ‘예산무기화’ 행태“라며 ”마포 지역구인 정청래 의원이 민주당 소속 환경노동위원들과 통모해 마포 광역자원회수시설 건립 예산을 전액 삭감했다”고 했다.&lt;br&gt;&lt;br&gt;이어 오 시장은 “수도권매립지는 포화상태이고 2026년부터는 직매립이 금지된다”며 ”소각해야 할 쓰레기는 폭증하는 상황에서 국가적 과제인 자원회수시설을 막는 것이 국회의원이 할 짓인가?”라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “국가 전체를 위해 고민하고 미래를 설계해야 할 국회의원이 ‘골목정치인’의 행태를 앞장서 보여주고 있고, 이런 정치인들이 대한민국 1당의 실세를 자처하는 현실이 우리 정치의 슬픈 자화상“이라고 했다.&lt;br&gt;&lt;br&gt;또 오 시장은 “예산은 국가 운영의 근간이자 미래를 위한 투자”라며 “이를 지역이기주의로 농단하는 것은 국정을 농단하는 것이다. 민주당은 이제라도 ‘예산 농단’의 망나니 칼춤을 거두고 국가의 미래를 위한 책임 있는 정치로 돌아와야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이재명 ‘경기도 법카 유용’ 사건, 쌍방울 대북송금 재판부로 재배당</title>
-      <link>https://www.chosun.com/national/incident/2024/11/22/TGQL26VW5JB77N527SU5JSRPJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/22/TGQL26VW5JB77N527SU5JSRPJM/</guid>
-      <dc:creator>수원=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Nov 2024 04:17:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHO2FG74WQRBLFNLOHARJ6WQPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도 법인 카드 등 경기도 예산 1억여원을 사적으로 쓴 혐의로 재판에 넘겨진 더불어민주당 이재명 대표의 사건을 쌍방울 대북송금 재판부가 심리하게 됐다.&lt;br&gt;&lt;br&gt;22일 법조계에 따르면 이 대표와 전 경기도 비서실장 정모 씨, 전 경기도 별정직 공무원 배모 씨 등 3명의 업무상 배임 혐의 사건이 수원지법 형사11부(재판장 신진우)로 재배당됐다.&lt;br&gt;&lt;br&gt;이 사건은 단독 재판부 형사5부로 배당됐으나 ‘재정합의(합의부가 심판할 것을 결정)’ 심판 절차를 거쳐 합의부가 심리하기로 결정했다. 법원조직법상 사형, 무기 또는 단기 1년 이상의 징역 또는 금고에 해당하는 사건은 원칙적으로 판사 3명이 심리하는 합의부로 배당된다.&lt;br&gt;&lt;br&gt;형사11부는 이 대표의 쌍방울 대북송금 사건(제3자뇌물 등 혐의)을 심리 중인 재판부다. 앞서 2022년 구속기소된 이화영 전 경기도 평화부지사의 뇌물 및 외국환거래법 위반 사건 1심에서 징역 9년 6개월을 선고하기도 했다.&lt;br&gt;&lt;br&gt;이 대표는 경기도지사 시절인 2018년 7월부터 2021년 10월까지 경기도 관용차를 개인적으로 사용하고, 경기도 예산으로 자기 식사비와 과일값, 세탁비 등을 결제하는 등 총 1억653만원을 쓴 혐의로 지난 19일 불구속기소 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 檢, ‘우리은행 부당대출’ 손태승 前 우리금융지주 회장 구속영장</title>
       <link>https://www.chosun.com/national/national_general/2024/11/22/OJWAPBNTNVAADOATAGHQT7JX6A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/22/OJWAPBNTNVAADOATAGHQT7JX6A/</guid>
@@ -830,29 +861,6 @@
       <description/>
       <pubDate>Thu, 21 Nov 2024 17:04:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ULCLSJCDBBJTFF2HF5EAQSTD3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;태영호 민주평화통일자문회의 사무처장이 지난 7일 오전 서울 여의도 국회에서 열린 외교통일위원회 전체회의에서 잠시 안경을 고쳐 쓰고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;태영호 민주평화통일자문회의(민주평통) 사무처장의 아들 태모(32)씨가 마약 혐의로 경찰 수사를 받고 있다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 지난 21일 태씨를 마약 혐의로 입건했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “최근 관련 고발장이 접수됐다”며 “현재 수사를 진행 중”이라고 말했다. 고발장에는 태씨가 지난 9월 태국에서 마약을 했다는 내용이 기재된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편 태씨는 사기 및 유사수신행위, 명의도용 등 혐의 등으로도 서울 강남경찰서에서 수사를 받고 있다.&lt;br&gt;&lt;br&gt;지난달 태 사무처장은 “맏아들 문제 때문에 사회적으로 물의를 일으킨 데 대해서 대단히 송구스럽게 생각한다”며 사과한 바 있다. 하지만 그는 일각에서 제기된 사퇴 요구는 사실상 거부했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>온몸 피멍 들 정도로 8세 아들 폭행한 아빠 항소심 감형… 이유는?</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/22/SWHFAEID7ZBIRI4W6CEWDCNBV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/22/SWHFAEID7ZBIRI4W6CEWDCNBV4/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>버릇을 고쳐야 한다며 여덟살 난 아들을 피멍이 들 정도로 폭행한 아빠가 항소심에서 감형을 받았다. 피해 아동들이 가정으로 복귀를 희망했기 때문이다.춘천지법 형사1부(재판장 심현근)는 폭력행위처벌법상 공동상해 등 혐의로 기소된 A(46)씨와 B(여·46)씨에게 징역 1년을 선고한 원심을 깨고 징역 1년에 집행유예 3년을 선고했다고 22일 밝혔다.</description>
-      <pubDate>Fri, 22 Nov 2024 04:39:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HO6TND4Q2XSQBDXD2M2XHVC5Q4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;버릇을 고쳐야 한다며 8세 아들을 피멍이 들 정도로 폭행한 아버지가 항소심에서 감형을 받았다. 피해 아동들이 가정으로 복귀를 희망했기 때문이다.&lt;br&gt;&lt;br&gt;춘천지법 형사1부(재판장 심현근)는 폭력행위처벌법상 공동상해 등 혐의로 기소된 A(46)씨와 B(여·46)씨에게 징역 1년을 선고한 원심을 깨고 징역 1년에 집행유예 3년을 선고했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 부부는 아니었으나, 지난해 8월 다가구 주택 옆집에 살며 주거지 구분 없이 살던 사이였다.&lt;br&gt;&lt;br&gt;두 사람은 지난해 8월과 9월 A씨의 자녀 C(8)군이 말을 듣지 않거나 반항적인 태도를 보인다는 이유로 30분간 출입문을 보고 반성하라며 벌을 세우는 등 학대한 혐의로 기소됐다. B씨는 C군이 거짓말을 하고 집안 구성원 간 서열을 무시했다는 이유로 신문지로 만든 몽둥이로 온몸을 때리기도 했다. 이 과정에서 A씨도 합세해 C군을 엎드리게 한 뒤 엉덩이와 다리를 때렸다.&lt;br&gt;&lt;br&gt;이 외에도 두 사람은 C군이 밥을 먹다가 토했다는 이유로 구둣주걱으로 폭행하기도 했다. 이들의 폭행으로 온몸에 피멍이 든 C군은 각종 타박상 때문에 한동안 입원치료를 받기도 했다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 “피해 아동의 난폭한 행동을 교정하기 위해 처벌했다고 하나 상담치료사 등 전문가의 도움을 받기 위한 노력을 전혀 하지 않았다”며 이들에게 징역 1년의 실형을 내렸다. 하지만 이들은 “원심의 형이 무겁다”며 항소했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피해 아동이 입은 정신적 충격과 정서적 악영향이 클 것으로 보이지만 피해 아동이 가정으로 복귀를 희망하고 있다”면서 “피고인들이 가정 복귀 프로그램 진행 과정에서 변화된 태도를 보인 점, 피고인들이 수감될 경우 오히려 양육에 부정적인 영향을 줄 수 있는 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>개그맨 성용, 35세에 돌연 사망…“억측 삼가달라”</title>
-      <link>https://www.chosun.com/national/people/2024/11/22/3UXHJFVPWBAELNPCZOWHRFSJVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/22/3UXHJFVPWBAELNPCZOWHRFSJVI/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 Nov 2024 16:38:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/USNBFN3265DVHGLRAT5XUP6UFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개그맨 성용. /뉴시스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개그맨 성용(35)이 지난 21일 갑작스레 세상을 떠났다. 사인은 알려지지 않았다.&lt;br&gt;&lt;br&gt;성용이 출연하던 유튜브 채널 ‘쓰리콤보’ 측은 유튜브 커뮤니티 공지를 통해 “여러분들께 안타까운 소식을 전한다”며 “사랑하는 우리 용이가 세상을 떠났다는 슬픈 소식 전해 드린다”고 했다.&lt;br&gt;&lt;br&gt;이어 “성용을 사랑하시는 모든 구독자분들 용이가 좋은 곳으로 갈 수 있게 기도해 주시고, 마지막으로 용이에 대한 지나친 억측들은 삼가 주시기 바란다”며 “다시 한번 유가족 분들에게 깊은 위로와 애도를 표한다”고 했다.&lt;br&gt;&lt;br&gt;고인이 생전 출연했던 유튜브 채널 ‘하이픽션’, ‘능력돼지’, ‘욜로코믹스’ 측도 잇따라 성용의 비보를 전하며 애도를 표했다.&lt;br&gt;&lt;br&gt;1989년생인 성용은 김대범소극장, 갈갈이홀 등 여러 개그 극단에서 활동하다 2019년 자신의 이름을 딴 유튜브 채널을 개설했고 쓰리콤보로도 활약해왔다.&lt;br&gt;&lt;br&gt;고인의 빈소는 경기도 안성시 도민장례식장에 마련됐다. 발인은 오는 23일이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/O3AUAUEKNJDRHCCPCDUZRKRXBQ.jpg?width=298&amp;height=223&amp;auth=898bb36b69081acf7db2ea4b03088e360cb0b928b475b79bf6835f715504fe8d&amp;smart=true" type="image/jpeg" height="223" width="298">
-        <media:description type="plain">개그맨 성용</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>﻿“감히 내 애를 밀쳐?” 대리기사에게 ‘사커킥’ 날린 부부의 최후</title>
@@ -880,15 +888,6 @@
       <description/>
       <pubDate>Fri, 22 Nov 2024 02:37:24 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OPNJZHYRRZOC7B4Y4A3PTFIPRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 30일 서울 시내 한 의과대학의 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 대학수학능력시험 가채점 결과 경북 지역에서 현역 의대생이 ‘수석’을 차지한 것으로 나타났다. 의대 정원 증가에 반발하며 휴학한 현역 의대생이 상위권 의대로 옮겨가기 위해 대거 수능에 참여할 것이란 관측이 나왔었는데, 의대생 상향 지원이 현실화했다는 분석이 나온다.&lt;br&gt;&lt;br&gt;22일 교육계에 따르면 2025학년도 대학수학능력시험에서 국어‧수학‧영어‧탐구 과목 총점 398점(400점 만점)을 받은 A군이 경북 지역에서 가장 높은 점수를 획득할 것으로 추정된다. 가채점 결과 과학탐구영역 지구과학 한 문제만 틀리고 모든 영역에서 만점을 기록했다.&lt;br&gt;&lt;br&gt;A군은 2022년 경주고를 졸업한 후 현재 경북 지역 의대에 재학 중인 것으로 전해졌다. 그는 소위 ‘메이저 의대’에 도전하기 위해 수능을 준비해 왔다고 한다.&lt;br&gt;&lt;br&gt;의대생들의 집단 휴학 기간이 길어지면서 이런 상황을 예상한 이들이 많았다. 2025학년도 의대 정원이 1497명 늘어나 관문이 넓어진 데다, 현역 의대생들이 의대 증원에 반발해 2월부터 단체 휴학에 돌입하면서 휴학한 김에 상위권 대학을 목표로 수능에 참여할 수 있다는 전망이었다. 올해 2학기 전국 40개 의대의 재적생 1만9374명 중 실제로 출석한 학생은 548명(2.8%)에 그쳤다.&lt;br&gt;&lt;br&gt;실제로 충청 지역 한 의대에 재학 중인 학생은 “빅5 의대를 목표로 수능을 다시 봤다”며 “단체 휴학 중이어서 암암리에 수능을 본 의대생이 더 많을 것”이라고 전했다.&lt;br&gt;&lt;br&gt;일부 수험생과 학부모 사이에서는 볼멘소리도 터져 나왔다. 실력이 뛰어난 재수생들이 경쟁에 뛰어드는 바람에 상위권 의대 진학 문이 좁아졌다고 보기 때문이다. 수험생들이 자주 이용하는 커뮤니티에는 “의대생이 반수 하는 건 현역들 죄다 죽이는 것 아니냐” “현역은 서럽다”는 글이 올라왔다.&lt;br&gt;&lt;br&gt;입시 전문가들은 이전에도 지역 의대에 만족하지 않고 상위권 의대로 재도전하는 이들이 있었는데, 올해에는 휴학한 의대생들이 많아 이 같은 경향이 더욱 두드러졌을 것이라고 예측했다. 임성호 종로학원 대표는 “올해 반수생은 9만3000명으로, 지난해 8만9000여 명보다 4000명 증가했다”며 “그중에는 휴학한 의대생이 상당수 포함됐을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>文정부 ‘사드 배치 고의 지연’ 의혹, 중앙지검이 수사</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/22/IAM4QKCIWZFKFNJCUVIVKAJDBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/22/IAM4QKCIWZFKFNJCUVIVKAJDBM/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Nov 2024 02:44:49 +0000</pubDate>
-      <content:encoded>검찰이 문재인 정부가 사드(THAAD·고고도 미사일 방어체계) 한국 정식 배치를 늦추기 위해 사드 미사일 교체 관련 한미 군사작전 일정을 중국, 시민 단체 등에 알려줬다는 의혹에 대해 수사에 착수했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y6HG5EHJVBKHPDFFWL5WAEH4U4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경북 성주군 초전면 소성리 사드(THAAD·고고도 미사일 방어체계) 기지. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검은 감사원이 정의용 전 국가안보실장, 서주석 전 안보실 1차장, 정경두 전 국방부 장관, 이기헌 전 대통령비서실 시민참여비서관 등 4명을 군사기밀보호법 위반 및 직권남용 혐의로 수사 요청한 사건을 공공수사3부(부장 김태훈)에 배당했다.&lt;br&gt;&lt;br&gt;정 전 실장 등은 2017년 임시 배치돼 있던 사드의 정식 배치를 지연시키기 위해 1년 이상 걸리는 ‘일반 환경영향평가’를 하기로 해놓고, 평가를 위한 평가협의회도 구성하지 않았다는 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;또 2020년 5월 29일 사드 미사일 교체를 위한 한국군과 주한 미군 공동 작전이 문재인 청와대와 국방부 관계자들에 의해 작전 전에 외부에 유출됐다는 의혹도 있다. 당시 청와대 관계자가 사드 반대 시민 단체 측에 작전 일시를 미리 알려주면서 시민단체가 반입 저지 행동에 나설 수 있었다는 내용이다.&lt;br&gt;&lt;br&gt;앞서 지난해 7월 전직 군 장성 모임인 대한민국수호예비역장성단은 ‘문재인 정부가 2019년 12월 문 전 대통령의 중국 방문을 앞두고, 사드 정식 배치를 위한 환경영향평가를 의도적으로 지연시킨 의혹이 있다’며 감사원에 공익감사를 청구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>검찰, 이재명 ‘선거법 위반’ 1심 집행유예에 항소</title>
