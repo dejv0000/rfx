@@ -13,6 +13,61 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>모델 문가비 출산아 친부는 정우성… “아이 끝까지 책임질 것”</title>
+      <link>https://www.chosun.com/national/people/2024/11/24/UHSY43FNEFF3TNT2T5TUOZ4UWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/24/UHSY43FNEFF3TNT2T5TUOZ4UWM/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 Nov 2024 13:35:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CSOTRRO4MJBNRM2BWECZ7B7DJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;모델 문가비와 배우 정우성. 두 사람이 득남 소식을 알렸다. 다만 결혼 계획은 전해지지 않았다. /스포츠조선, 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;모델 문가비(35)가 최근 출산한 아들의 친부가 배우 정우성(51)인 것으로 드러났다.&lt;br&gt;&lt;br&gt;정우성 소속사 아티스트컴퍼니는 24일 “문가비가 소셜미디어를 통해 공개한 아이는 정우성의 친자가 맞다”며 “아이의 양육 방식에 대해서 최선의 방향으로 논의 중이다. 아버지로서 아이에 대해 끝까지 책임을 다할 것”이라고 밝혔다. 다만 “출산 시점과 두 사람의 교제 여부, 결혼 계획 등 사생활 관련 내용은 확인해 줄 수 없다”고 선을 그었다.&lt;br&gt;&lt;br&gt;앞서 두 사람 사이의 득남 소식은 같은 날 오후 연예 매체 디스패치 보도로 처음 알려졌다. 이에 따르면 문가비와 정우성은 2022년 한 모임에서의 만남을 계기로 가깝게 지냈다. 정식으로 교제한 사이는 아니었고 결혼 계획도 없는 것으로 전해졌다. 작년 6월 문가비가 임신 사실을 알렸고 정우성 역시 기뻐하며 양육의 책임을 약속했다고 한다. 매체는 “정우성이 직접 태명을 지어줬고 산후조리원과 병원 등을 함께 논의했다”고 전했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R4E4G7VLIBEIJEK4O5ZQELCNDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문가비가 출산 소식을 알리며 올린 아들과의 사진. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뷰티 예능 프로그램 ‘겟잇뷰티’ 등으로 얼굴을 알린 문가비는 한동안 연예계 활동을 하지 않다가 지난 22일 인스타그램을 통해 아들 출산 사실을 고백했다. 그러나 결혼 여부나 아이 아버지에 관한 언급은 없어 팬들의 궁금증을 자아냈다.&lt;br&gt;&lt;br&gt;당시 문가비는 “너무 갑작스럽게 찾아온 소식에 아무 준비가 돼 있지 않았던 저는 임신의 기쁨이나 축하를 마음껏 누리기보다는 가족들의 축복 속에 조용히 임신 기간 대부분을 보냈다”며 “그렇게 하기로 선택한 건 오로지 태어날 아이를 위함이었다. 마음 한편에 늘 소중한 무언가를 지키기 위해서는 꽁꽁 숨겨야 한다고 생각했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “세상에 나온 아이를 앞에 두고 여전히 완벽한 준비가 되지 않은 엄마지만 그런 내 부족함과는 상관없이 존재 자체만으로 나의 마음을 사랑으로 채워주는 아이를 보며, 완벽함보다는 사랑과 행복으로 가득 찬 건강한 엄마가 돼야겠다고 다짐했다”며 “그러기 위해서는 용기를 내야 한다고 생각했다”고 말했다.&lt;br&gt;&lt;br&gt;◇ 정우성 소속사 아티스트컴퍼니 측 입장 전문&lt;br&gt;&lt;br&gt;문가비 씨가 SNS를 통해 공개한 아이는 정우성 배우의 친자가 맞습니다. &lt;br&gt;&lt;br&gt;아이의 양육 방식에 대해 최선의 방향으로 논의 중에 있으며, 아버지로서 아이에 대해 최선을 다할 것입니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 지하철 MZ노조도 파업하나…찬성률 91.2%로 가결</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/24/Q2EIVOFOEFACXJ2C3VFTUO375U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/24/Q2EIVOFOEFACXJ2C3VFTUO375U/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 Nov 2024 01:07:00 +0000</pubDate>
+      <content:encoded>이른바 ‘MZ노조’로 불리는 서울교통공사 3노조(올바른노조)가 쟁의행위 찬반 투표를 진행한 결과 약 91%의 찬성률로 가결됐다. 만약 3노조가 파업에 들어간다면 지난 2021년 노조 설립 이후 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5MGADIEKEZLXNISZHIFC47I2RA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 서울 중구 서울시청 앞에서 열린 임금과 복지 정상화를 위한 쟁의행위 출정집회에서 서울교통공사 올바른노동조합 조합원들이 피켓을 들고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울교통공사 3노조는 지난 21일부터 4일간 진행한 쟁의행위 찬반 투표 결과 찬성률 91.2%로 가결됐다고 24일 밝혔다. 3노조에 따르면 이번 투표에는 전체 조합원 2070명 중 87%인 1800명이 참여했고, 이 중 1642명이 찬성표를 던졌다.&lt;br&gt;&lt;br&gt;노조는 오는 26일 서울지방노동위원회 노동쟁의 조정 심의에서 조정이 성립되지 않는다면 그 이후 구체적인 파업 일정을 밝힐 예정이다. 노조법에서는 파업을 하기 전 이 조정을 거치도록 하고 있다.&lt;br&gt;&lt;br&gt;3노조는 20~30대 직원을 주축으로 하고 있다. 지난 2021년 설립돼 올해 처음으로 공사와 개별 교섭할 수 있는 권리를 얻었다.&lt;br&gt;&lt;br&gt;현재 노조는 서울시 정책 사업 이행분의 재원 보전을 통한 실질 임금 상승과 신규 채용 규모 확정, 안전 인력의 정원 반영 등을 요구하고 있다. 정부 지침에 따르면 공사는 매년 총 인건비를 2.5%까지 올릴 수 있는데, 정부나 서울시 정책에 따른 열차 증편으로 발생하는 추가 인건비(정책 인건비) 등도 이에 포함돼 직원들의 실질 임금 상승폭이 줄어든다는 게 노조 주장이다. 한편 사측은 노조에서 요구하는 것들이 모두 서울시 승인 사항이라 서울시와 협의가 필요하다는 입장이다.&lt;br&gt;&lt;br&gt;송시영 올바른노조 위원장은 “서울시가 하루빨리 요구안을 받아들여 파업 국면이 종식되기를 바란다”며 “올바른노조는 합법적인 쟁의행위권을 얻었지만 정치 파업이나 외부 압력에 의한 비상식적 행위는 일으키지 않겠다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 민주노총 산하 서울교통공사노조(1노조) 역시 지난 18일 총파업을 결의하고 협상이 결렬되면 다음달 6일부터 총파업에 돌입한다고 밝혔다. 1노조는 임금 5.5% 인상, 신규 채용 확대 등을 요구하고 있다. 지난 20일부터는 이른바 ‘준법 투쟁(태업)’에도 돌입했다.&lt;br&gt;&lt;br&gt;공사에는 1노조인 민주노총 산하 서울교통공사노조를 비롯해 2노조인 한국노총 소속 서울교통공사통합노조, 이른바 ‘MZ노조’로 불리는 3노조인 서울교통공사 올바른노조가 있다. 1노조 조합원 수가 전체의 약 60%로 가장 많다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>의료계, 2025학년도 정원 관련 ‘4개 조정안’ 첫 제시</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/11/24/JBX645QWBJHVRL74T6463A5FWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/11/24/JBX645QWBJHVRL74T6463A5FWA/</guid>
+      <dc:creator>오경묵 기자, 정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 Nov 2024 00:17:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YKQEJYLAEFDYVEBI2AAZQKE7K4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 오후 국회에서 '여야의정 협의체' 3차 회의가 열렸다. 이날 회의에는 정부 측에서 이주호 사회부총리 겸 교육부 장관과 조규홍 보건복지부 장관, 의료계에서 이진우 대한의학회장, 이종태 KAMC 이사장, 여당에서 이만희·김성원·한지아 의원이 참석했다. /이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부와 의료계가 24일 3차 여·의·정 협의체를 열고 ‘의대 정원 증원’ 문제를 논의했으나 여전히 합의점을 찾지 못했다. 의료계는 이날 2025학년도 의대 정원을 조정하는 4가지 방안을 정부에 전달했다. 지난 7일 협의체 출범 이후 의료계가 조정안을 공식적으로 내놓은 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;의료계가 제시한 조정안은 ▲수시 미충원 인원 정시 이월 제한 ▲예비 합격자 축소 ▲학습 능력이 현저히 떨어지는 학생에 대한 선발 제한권 부여 ▲모집 요강 내에서 선발 인원에 대한 대학 자율권 부여 등이다. 이런 다양한 방법으로 2025학년도 의대 신입생 증원 규모를 줄이자는 뜻으로 해석된다.&lt;br&gt;&lt;br&gt;의료계는 2026학년도 증원도 유예하고, 2027학년도 이후 정원은 합리적 추계 기구를 만들어 논의해야 한다는 입장도 밝혔다. 이진우 대한의학회장은 “남은 시간이 많지 않다”며 정부의 결단을 촉구했다.&lt;br&gt;&lt;br&gt;하지만 정부는 2025학년도 의대 입시가 이미 진행 중인 상황이어서 조정안 모두 현실적으로 받아들이기 어렵다는 입장이다. 또 2026학년도에도 증원 가능성을 열어 놓고 추계 기구에서 논의해야 한다는 태도를 유지했다.&lt;br&gt;&lt;br&gt;양측은 다만 대통령 직속 의료개혁특별위원회에 의료계가 참여하는 방안과 한국의학교육평가원의 자율성 보장 관련 논의에서는 일부 진전을 이뤘다고 한다. 여당 측 김성원 의원은 “정부와 의료계에서 전향된 자세로 많은 대화를 통해 진일보한 결과를 이뤘다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>툭하면 나오는 조작설 꺼주마… 김예지가 쏜 로또</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/24/I3B4VJRYWRDABBKJ44HOF7BCQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/24/I3B4VJRYWRDABBKJ44HOF7BCQI/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 Nov 2024 11:04:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQGI7BGB3ZGLRPBK35O5BKRPSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사격선수 김예지가 로또 공개 추첨 현장에서 사격 자세를 선보이는 모습. /유튜브 채널 '알아볼권리 : MBC 로또연금 복권방송' 영상&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;복권 수탁 사업자인 동행복권이 최근 꾸준히 제기된 로또 조작 의혹을 해소하기 위해 대규모 공개 추첨을 진행했다. 이 자리엔 지난 파리올림픽 ‘사격 스타’ 김예지가 등장해 직접 추첨 버튼을 눌렀다.&lt;br&gt;&lt;br&gt;24일 동행복권에 따르면 전날 밤 서울 마포구 MBC 신사옥에서 열린 추첨 생방송 ‘2024 로터리 데이’ 행사에는 평소 인원보다 5배가량 많은 100명의 참관인이 모였다. 이들은 지난 6개월간 로또 및 연금복권 추첨 행사 방청 경험이 없는 일반 성인 중 추첨을 통해 초대됐다.&lt;br&gt;&lt;br&gt;‘황금손’으로 불리는 당첨 번호 추첨자는 파리올림픽 사격 은메달리스트인 김예지가 맡았다. 이날 김예지는 준비한 총을 꺼내 사격 자세를 선보인 뒤 “주변에 관심을 가지고 도움의 손길을 내미는 분들에게 행운이 갔으면 좋겠다”며 추첨기 버튼을 눌렀다.&lt;br&gt;&lt;br&gt;결정된 제1147회 로또 당첨 번호는 ‘7, 11, 24, 26, 27, 37′이며 2등 보너스 번호는 ‘32′었다. 1등 게임 수는 8건으로 자동 6건, 수동 2건이다. 만약 8건이 모두 다른 사람이라면 한 사람당 33억2342만2079원씩 받게 된다. 당첨 번호 5개와 보너스 번호를 맞춘 2등 게임 수는 83건으로 집계됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RPODFCNOZZPPNBCILQ2G4BIFTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오후 서울 마포구 MBC 신사옥에서 열린 추첨 생방송 ‘2024 로터리 데이’ 행사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 핵심 장비인 추첨기와 보관소도 공개됐다. 프랑스 아카니스 테크놀로지스(Akanis Technologies)사 제품인 추첨기는 스튜디오 내 별도 공간에서 24시간 감시 체제 아래 보관됐다. 보관소는 자물쇠와 카드키 이중 잠금장치로 외부 출입을 차단했다. 내부는 적정 온·습도를 유지하는 장치도 갖췄다.&lt;br&gt;&lt;br&gt;참관인들은 매주 이뤄지는 추첨볼 검수와 추첨기 테스트 작업도 살펴볼 수 있었다. 추첨볼은 총 5개 세트로 구성되며 경찰관 입회하에 하는 둘레·무게 검사를 통과해야만 한다. 실제 사용되는 볼 세트와 예비 볼 세트는 참관인이 무작위로 선정한다. 동행복권 측은 “100% 무작위 추첨으로 설계돼 있어 조작은 절대 불가능하다”고 강조했다.&lt;br&gt;&lt;br&gt;이번 대규모 참관은 투명한 추첨 과정을 알리기 위한 목적으로 이뤄졌다. 1등 당첨자가 수십 명가량 다수 배출되거나 지역별 당첨 편차가 클 때마다 온라인을 중심으로 ‘로또 조작설’이 제기되기 때문이다. 그러나 기획재정부는 이미 지난해 관련 의혹을 적극 해명한 바 있다.&lt;br&gt;&lt;br&gt;당시 기재부는 “45개 숫자 중 6개 번호 조합이 선택될 확률은 814만분의 1로 일정하다”며 “한 회차당 판매량(약 1억장)을 고려할 때 1등 당첨자가 12명 안팎으로 발생하는 게 일반적”이라고 했다. 서울대 통계연구소의 연구 용역 결과를 공개하면서도 “조작이 불가능하고 ‘무작위 추첨’ 특성상 다수의 당첨자가 나오는 일은 충분히 가능하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>기상청, 왜 한달 만에 180도 다른 날씨 전망 내놨나</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/11/24/7NJDSXUQSBFL7J4WQVX3VQNVN4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/11/24/7NJDSXUQSBFL7J4WQVX3VQNVN4/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 Nov 2024 23:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UVHIP3SGXNKPNGNKNYPQ2ALV4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;올 가을 최저 기온을 기록한 지난달 24일 오전 서울 종로구 세종대로 사거리에서 반팔·반바지 차림의 한 외국인이 운동을 하고 있다. /뉴시스
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청은 10월 말 발표한 ‘3개월 기상 전망’에서는 올겨울이 예년보다 추울 것으로 예상했다. 그런데 한 달 만에 ‘예년보다 포근할 것’이라는 정반대 전망을 내놨다. 이를 두고 “계절 패턴 붕괴를 감안하더라도 날씨 전망치가 지나치게 바뀌고 있다”는 지적이 나온다.&lt;br&gt;&lt;br&gt;기상청이 입장을 바꾼 가장 큰 원인은 온난화로 인한 ‘제트기류’에 대한 분석 변화다. 기상청은 높은 해수면 온도로 인해 고위도에 부는 ‘제트기류’의 힘이 떨어지면서 북극과 한반도 사이에 바람길이 뚫릴 것으로 예상했다. 제트기류는 북위 30~35도 상공에서 부는 강한 바람이다. 서쪽에서 동쪽으로 불며 지구 전체 공기 흐름을 원활하게 만든다. 북극 찬 바람의 남하를 막는 방패 역할도 한다. 그런데 온난화로 제트기류가 약화하면서 북극 한파가 무방비로 내려오는 상황이 생길 것으로 예측한 것이다.&lt;br&gt;&lt;br&gt;이는 작년 1월 한반도로 영하 40도 수준의 북극발(發) 한파가 내려온 상황과 비슷하다. ‘바람 띠’가 느슨해지고, 기압계 구조가 헝클어지며, 고위도 찬 바람이 저위도로 내려오는 양상이 올해도 반복될 거라 예상한 것이다. 작년보다 올해가 더 더웠기 때문에 이런 예측이 가능했던 것이다.&lt;br&gt;&lt;br&gt;그러나 온난화가 단순히 제트기류를 느슨하게 만드는 것이 아니라 오히려 강화할 수 있다는 것이 올해 유독 더운 가을을 통해 증명됐다. 더운 바다로 인해 우리나라 주변 고기압 발달이 잦아지며 북쪽 찬 바람을 막는 역할을 했고, 올겨울도 이런 양상이 지속될 것이라고 입장이 바뀐 것이다. 기상청의 ‘3개월 전망’은 특히 관광·숙박업 등 계절적 민감도가 큰 경제 활동 영역에선 전망의 일관성이 깨질 경우 상당한 피해를 끼칠 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“술 취해 기억 안난다” 동창생 숨지게 한 30대... 경찰, 구속영장 신청</title>
+      <link>https://www.chosun.com/national/incident/2024/11/24/PCJIY4PHJJF3JFPAPVFNFLPV7I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/24/PCJIY4PHJJF3JFPAPVFNFLPV7I/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 Nov 2024 10:44:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취해 친구를 넘어뜨려 숨지게 한 30대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;인천 부평경찰서는 폭행 치사 혐의로 30대 남성 A씨에 대해 구속 영장을 신청했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 23일 오후 9시 20분쯤 인천 부평구 청천동의 한 아파트단지 안에서 30대 남성 B씨를 폭행해 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 오랜 친구 사이인 B씨와 술을 마신 뒤 다투다 범행한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 경찰에 “술에 취해 당시 상황이 기억나지 않는다”고 진술한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “B씨의 정확한 사인을 파악하기 위해 국립과학수사연구원에 부검을 의뢰한 상황”이라며 “A씨 등을 상대로 정확한 사건 경위를 조사할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>더운 가을에 이어 더운 겨울 온다</title>
       <link>https://www.chosun.com/national/transport-environment/2024/11/24/YIMT6IVNQ5BJPHVKCTFAKDTAWY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/11/24/YIMT6IVNQ5BJPHVKCTFAKDTAWY/</guid>
@@ -890,33 +945,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7D43653P4CCY7Z527FVZYYE3ZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법 서부지원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구지법 서부지원 민사1부(재판장 김성수)는 대구 달서구가 구청사 앞에서 장기간 집회를 하는 민원인 A씨를 상대로 낸 집회 및 시위 금지 등 청구 소송에서 원고의 청구를 기각했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;주택 재건축 정비사업조합의 조합원인 A씨는 지난 1월부터 달서구청 정문 앞에서 ‘조합원의 재산 1688억원 강탈’, ‘비리의혹이 있는 달서구청장은 사퇴할 것’ 등의 내용이 적힌 현수막을 내걸고, 이런 내용을 녹음해 확성기로 트는 등의 방법으로 시위를 벌였다.&lt;br&gt;&lt;br&gt;A 씨 등의 요청으로 감사원이 감사를 진행했지만, A씨가 주장한 공무원의 위법 부당한 사실은 없는 것으로 결론이 났다.&lt;br&gt;&lt;br&gt;이에 달서구는 허위 사실로 달서구 공무원의 명예를 훼손했고 정상적인 업무를 방해하고 있다며 A씨의 집회와 시위 방법을 제한해 줄 것을 요구하며 소송을 제기했다.&lt;br&gt;&lt;br&gt;그러나 재판부는 “지방자치단체가 명예나 인격권 침해를 이유로 민사상 구제를 청구하는 경우 극히 예외적인 경우가 아니면 이를 인정하기 어렵다. 또 인격권 침해가 인정되더라도 청구를 받아들일 특별하고 예외적인 사정이 있다고 보기는 어렵다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>내부정보로 PF 대출받아 830억 빼내…LS증권 전 임원 등 구속영장 청구</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/22/UMZJU3TFV5DJ7JRNZZOULBPBBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/22/UMZJU3TFV5DJ7JRNZZOULBPBBM/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Nov 2024 09:42:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z67FVO5VVFIZFD5DMEKEKHBSUY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 반부패수사3부(부장 이승학)는 부동산 프로젝트파이낸싱(PF) 대출 업무를 하면서 알게 된 개발정보로 PF 사업을 직접 시행하고, 대출금 중 830억원을 시행사 외부로 유출해 취득한 혐의 등을 받는 LS증권 전직 본부장 김모씨 등 3명에 대한 구속영장을 청구했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;앞서 금융감독원은 A씨가 PF 대출을 주선한 뒤 해당 시행사로부터 전환사채(CB) 매각 대금 명목으로 500억원을 받고, 여러 시행사에 사적으로 고금리 금전 대여를 해준 정황 등을 파악해 올해 1월 검찰에 수사를 의뢰했다.&lt;br&gt;&lt;br&gt;이후 검찰은 지난달 LS증권과 현대건설 본사 등 10여 곳을 압수 수색하는 등 수사를 이어왔다. 현대건설은 A씨가 실소유한 시행사가 PF 대출을 받을 때 시공사로서 지급 보증을 선 것으로 전해졌다. 검찰은 이들에게 자본시장법위반, 특정경제범죄가중처벌법상 배임 등 혐의를 적용해 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;이들에 대한 영장실질심사는 오는 27일 서울중앙지법에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>현대차, ‘체임버’ 100여곳 위험요인 전수조사</title>
-      <link>https://www.chosun.com/national/regional/2024/11/22/LPMLT2LKONEQ3FIOP6GS5U7K4U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/22/LPMLT2LKONEQ3FIOP6GS5U7K4U/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Nov 2024 09:14:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4WO57T3XU5GB5MYNR3VXLN2ZNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 현대자동차 울산공장에서 차량 성능 테스트 중 연구원 3명이 숨진 가운데  20일 경찰 차량이 합동감식을 위해 울산공장으로 들어가고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현대자동차가 지난 19일 연구원 3명이 자동차 성능 테스트를 하다가 질식해 숨진 사고와 관련해 실험실(체임버) 시설 전반에 대해 위험 요인이 없는 지 전수조사에 들어갔다.&lt;br&gt;&lt;br&gt;현대차는 22일 현대차 남양연구소의 체임버 시설 100여곳과 울산 북구 현대차 울산공장의 체임버 시설 7곳의 안전 장치에 대해 전수조사를 벌이고 있다고 밝혔다. 현대차는 이번 조사에서 체임버 시설 내부에 유해 가스 등이 배출됐을 때 울리는 경보기가 설치돼 있는 지, 유해가스 농도를 알려주는 모니터링 장치 등이 잘 작동하는 지 등을 점검할 계획이다.&lt;br&gt;&lt;br&gt;현대차에 따르면 사고가 난 복합 환경 체임버 시설은 남양연구소와 울산공장에 1곳씩 2곳이 있다. 현대차는 이 두 곳을 포함해 차량 성능 테스트가 이뤄지는 다른 체임버 시설까지 아울러 전수조사를 한다는 계획이다. 현대차 관계자는 이번 조사에 대해 “최근 이동석 대표이사가 언론에 밝혔듯 잠재적 위험요인이 예상되는 부분에 대해 알아보고 개선하겠다는 취지”라고 했다.&lt;br&gt;&lt;br&gt;이번 사고가 난 복합 체임버 시설의 경우 울산공장과 남양연구소에 있는 2곳 모두 유해 가스가 일정 농도 이상 배출됐을 때 작업자들이 들을 수 있도록 경보가 울리는 경보 장치는 없는 것으로 확인됐다. 반면 국내 다른 제조사의 경우 자동차 성능을 테스트하는 체임버 시설에 이같은 경보기를 갖추고 있는 것으로 확인됐다. 한 제조사 관계자는 “일산화탄소 같은 유해가스가 배출됐을 때 작업자들이 들을 수 있도록 경보기가 갖춰져 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;다만 현대차는 유해 가스가 배출될 경우 체임버 시설 밖에서 이를 작동하는 오퍼레이터가 보는 컴퓨터 모니터 화면에 경고 화면이 뜨는 시스템은 갖춰져 있었다고 밝혔다. 현대차 관계자는 “경고 화면이 뜨면 오퍼레이터가 무전기 등으로 내부 작업자에게 경고 상황을 알려주거나 사고에 대처하는 시스템”이라며 “이번 사고 때도 이 시스템이 잘 작동했는지는 조사중”이라고 말했다.&lt;br&gt;&lt;br&gt;지난 19일 현대차 울산공장에서는 남양연구소 연구원인 40대 A씨와 30대 B씨, 협력업체 연구원인 20대 C씨 등 3명이 질식해 병원으로 이송됐으나 숨졌다. 경찰과 현대차는 이들이 배기가스 환기 시설이 작동하지 않으면서 일산화탄소 중독 등으로 숨진 것에 무게를 두고 조사를 이어나가고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원, KBS 박장범 임명 효력정지 가처분 신청 기각</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/22/WEZPUILAZVCQNH5NLY56PR6O3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/22/WEZPUILAZVCQNH5NLY56PR6O3Y/</guid>
-      <dc:creator>박정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Nov 2024 08:30:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JOBOYLFL4BIERASP6EOZCAXWI4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;박장범 한국방송공사(KBS) 사장 후보자가 20일 서울 여의도 국회 과학기술정보방송통신위원회에서 열린 인사청문회에 출석해 관계자와 대화하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박장범 KBS 신임 사장 후보의 임명 효력을 정지시켜달라는 친야 성향 KBS 이사들의 청구를 법원이 기각했다.&lt;br&gt;&lt;br&gt;서울남부지법 민사합의51부(재판장 김우현)는 KBS 박장범 사장 후보자 임명제청 효력정지 가처분 신청을 기각했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 대통령이 ‘2인 체제’ 하에서 방송통신위원회의 추천 의결을 거쳐 (친여 성향) KBS 이사 7명을 임명한 처분의 위법성이 명백해 무효라 보기 어렵고, 이에 따라 해당 사건 이사회 결의도 무효로 단정짓기는 어렵다고 판단한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 KBS 이사회는 지난달 23일 박장범 당시 ‘뉴스9′ 앵커를 신임 사장 후보로 선임했다고 밝혔다. 그러나 친야 성향 이사진은 절차적 하자가 있다며 임명 제청 효력정지 가처분을 법원에 신청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>검찰, ‘200억원대 횡령·배임' 홍원식 前 남양유업 회장 구속영장 청구</title>
       <link>https://www.chosun.com/national/court_law/2024/11/22/XTEX3QUGPFBCZHRX5N3B5XBGF4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/22/XTEX3QUGPFBCZHRX5N3B5XBGF4/</guid>
@@ -942,33 +970,6 @@
       <description/>
       <pubDate>Fri, 22 Nov 2024 07:10:31 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WN3PSL27CFEEVF4QMJTFBKGDFI.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난 21일 서울 관악구 도로 한복판에서 자신의 벤츠 차량을 부수며 행인들에게 욕설을 퍼부은 20대 여성이 경찰에 붙잡혔다. /X (구 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 하루새 아침과 저녁 두 차례 음주운전을 하다 적발된 30대 여성에 구속영장을 신청했다. 이 여성은 음주운전 뒤 자신의 벤츠 차량을 부수고 주위 행인들에 욕설을 퍼부어 논란이 되기도 했었다.&lt;br&gt;&lt;br&gt;서울 관악경찰서는 30대 여성 A씨에 도로교통법 위반(음주운전) 혐의로 구속영장을 신청했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 21일 오후 6시 37분쯤 서울 관악구 도로에서 3.4km 가량을 음주운전한 혐의를 받는다. 당시 A씨는 혈중알콜농도 면허취소 수치의 상태였던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;앞서 A씨는 같은날 오전 8시쯤엔 관악구 신림동 인근 도로에서 본인의 검은색 벤츠 차량 사이드미러를 발로 차고 휴대전화로 수차례 트렁크 부위를 내려치면서 오토바이 운전자와 시민 등에게 욕설을 하기도 했다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 조현병 관련 입원 경력이 있다고 진술했으며, 실제로 우울증, 분노조절장애, 알콜의존증 등을 앓았던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “범죄의 중대성, 재범의 위험성, 도주우려 등을 감안해 구속영장을 신청하는 한편 차량에 대한 압수영장도 신청했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 민노총 양경수 위원장 소환... ‘집회 폭력’ 사전 기획 여부 조사</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/22/QQWKQZMMFNDNPOKR4KVNXRJDFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/22/QQWKQZMMFNDNPOKR4KVNXRJDFU/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Nov 2024 07:22:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SWXJ3KMIGJGTDHHNHUIX4JTZGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민주노총 양경수 위원장이 22일 오전 서울 마포구 서울경찰청 광역수사단에 출석하고 있다. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 지난 9일 서울 숭례문 일대에서 벌어진 전국민주노동조합총연맹(민주노총) 집회 참석자와 경찰의 충돌과 관련해 양경수 민주노총 위원장을 소환 조사 중이다.&lt;br&gt;&lt;br&gt;서울경찰청 공공범죄수사대는 22일 오전 10시부터 양 위원장을 피의자 신분으로 불러 당시 물리적 충돌이 벌어진 경위와 민주노총 지도부의 사전 기획 가능성 등을 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;조사를 앞둔 양 위원장은 마포구 서울청 광역수사단 청사 앞에서 기자회견을 열고 “민주노총은 집회를 위해 신고를 했고 법에 보장된 권리대로 집회를 진행했을 뿐”이라며 “집회 참석자들의 행진을 가로막은 것도 경찰이고, 폭력과 다툼을 유발한 것도 경찰”이라고 말했다. 그는 이어 “경찰이 20여명의 집회 참석 조합원들에게 추가 소환을 통보했다”고 했다.&lt;br&gt;&lt;br&gt;앞서 지난 9일 민주노총 조합원 10명 등 11명은 ‘윤석열 정권 퇴진 집회’에서 경찰 철제 펜스를 밀고 경찰관을 폭행한 혐의 등으로 현행범 체포됐다. 경찰은 집회 참가자들의 계획적인 불법·폭력 시위로 경찰관 105명이 다쳤다며 양 위원장을 포함한 지도부 7명을 집시법 위반 혐의로 입건 전 조사(내사)해 왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“조수석 앉은 아내 죽을 뻔”... 날아든 쇳덩이에 차 앞유리 뚫렸다</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/22/UG6BYLULKNG57J6BAS6QV3DB7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/22/UG6BYLULKNG57J6BAS6QV3DB7U/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Nov 2024 05:25:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2NPJRGNRFRAXBJ2RL6NZNC3JYE.png"&gt;&lt;figcaption&gt;&lt;small&gt;달리던 차량에 쇳덩이가 날아들어 깨진 앞 유리. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 시흥시의 한 도로에서 달리던 차량에 쇳덩이가 날아들어 조수석에 앉아있던 동승자가 중상을 입는 사고가 발생했다.&lt;br&gt;&lt;br&gt;20일(현지시각) 온라인 커뮤니티 ‘보배드림’에 이같은 사연과 함께 사건 당시 영상이 올라왔다. 글쓴이 A씨에 따르면, 지난 13일 새벽 4시 50분쯤 시흥시 대야동 소래터널을 지나 시흥톨게이트 방향 1차로를 주행하던 중 차량 조수석 쪽 앞유리에 건축자재로 추정되는 쇳덩이가 날아들어 유리를 관통했다. 쇳덩이는 앞유리를 깨고 차 안으로 들어왔고, 당시 조수석에 타고 있던 운전자의 아내는 깨진 유리 파편에 맞아 크게 다쳤다. 119구급대가 현장에 출동해 아내를 인근 병원으로 이송했으며 현재 치료를 받고 있다. A씨는 “아내가 갑자기 날아온 물체에 중상을 입었고, 유리파편을 뒤집어쓴 채 병원으로 이송됐다”고 했다.&lt;br&gt;&lt;br&gt;A씨가 올린 사고 당시 영상을 보면, A씨 차량이 도로 1차로를 주행하던 중 오른편에서 의문의 물체가 도로에 떨어져 구르더니 튀어 올라 A씨 차량 조수석 앞 유리를 내리쳤다. 피할 새도 없이 불과 몇초만에 벌어진 일이었다. A씨가 올린 사진을 보면 사고 당시 충격으로 조수석 쪽 차량 앞 유리에 큰 구멍이 뚫려 있었다. 문제의 쇳덩이는 가로 14cm, 세로 20cm가량의 건축 자재로 추정된다.&lt;br&gt;&lt;br&gt;그러나 사고 원인 규명을 위한 조사에도 어려움을 겪고 있는 실정이다. 새벽 시간대라 한국도로공사의 방범카메라(CCTV)에도 사고 장면이 선명하게 찍히지 않았으며 현재까지 가해자(혹은 가해차량)을 특정하지 못한 상태다. 그는 “이를 목격하신 분들이 있다면 꼭 도와주시길 바란다”고 요청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WN7FORSB3VFS5BTM2WTQE32PDE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;사고 당시 쇳덩이가 차량 앞유리로 날아드는 모습. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;네티즌들은 이 사고가 화물차의 적재물 고정 불량으로 인한 것으로 추정하고 있다. 네티즌들은 “적재함에 넣고 달리다가 떨어진 게 아닐까” “아내분 부상이 심히 걱정된다. 빨리 완쾌되시길 바란다” “구조물에서 지문 채취라도 해서 범인을 잡아야 하는 것 아닌가” 등의 반응을 보였다. 비슷한 사고 경험자들의 제보도 이어지고 있다. 한 운전자는 “형과 함께 가다가 지름 20cm가 넘는 돌이 앞유리에 박혔다”며 “다행히 유리가 뚫리지 않아 다치진 않았지만 정말 크게 놀랐다”고 전했다.&lt;br&gt;&lt;br&gt;한국도로공사에 따르면, 고속도로 낙하물로 인한 사고는 2020년부터 2024년 7월까지 총 238건 발생했다. 연도별로 보면 2020년 56건, 2021년 46건, 2022년 57건, 2023년 52건이다. 올해는 7월까지 27건이었다. 낙하물 사고의 주요 원인은 화물차의 적재 불량이나 과적으로 꼽힌다. 지난 2월에도 경부고속도로를 달리던 25t 화물차에서 철제 H빔이 떨어져 차량 3대가 파손된 바 있다.&lt;br&gt;&lt;br&gt;지난 2021년 ‘자동차손해배상보장법’이 개정되면서 낙하물 사고 가해차량이 밝혀지지 않을 경우 정부가 ‘자동차손해배상 보장사업’을 통해 인적 피해에 대해 보상하고 있다. 그러나 물적 피해는 보상 범위에 빠져 있어 차량 파손에 따른 수리는 고스란히 피해자가 부담해야 하는 실정이다.&lt;br&gt;&lt;br&gt;도로공사 자체 규정에 따르면 낙하물로 인한 사고 발생 시 피해자가 낙하물 원인자를 찾지 못할 경우 도로공사에 손해배상을 접수하고, 관리 하자 등 도로공사의 과실 여부에 따라 배상 여부가 결정된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>﻿“감히 내 애를 밀쳐?” 대리기사에게 ‘사커킥’ 날린 부부의 최후</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/22/AHWYBZB5DBBC3C2Z3KNY23XEC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/22/AHWYBZB5DBBC3C2Z3KNY23XEC4/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Nov 2024 03:20:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XXDOY3KEYZC5VBLYFZEDPYPHSY.gif"&gt;&lt;figcaption&gt;&lt;small&gt;작년 8월 13일 오후 10시 40분쯤 서울 은평구 불광동의 한 건물 주차장에서 부부가 대리기사를 폭행하고 있다. /MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 8월 부부가 대리기사를 폭행한 일명 ‘불광동 대리기사 사커킥’ 사건의 가해자들에게 최근 징역형이 선고됐다. &lt;br&gt;&lt;br&gt;서울서부지법은 지난 13일 대리기사 A씨를 폭행한 혐의로 기소된 B씨에게 징역 4개월을, 아내 C씨에게는 징역 4개월에 집행유예 1년을 선고했다. &lt;br&gt;&lt;br&gt;이들 부부는 작년 8월 13일 오후 10시 40분쯤 서울 은평구 불광동의 한 건물 주차장에서 대리운전을 요청받고 온 A씨와 말다툼하다가 A씨의 다리를 걷어차 땅에 넘어뜨리고, 얼굴을 4회가량 걷어찬 혐의를 받았다. &lt;br&gt;&lt;br&gt;이들 부부는 A씨가 자신의 아이를 밀쳤다고 주장했지만, 방범 카메라(CCTV) 확인 결과 아이가 달려와 대리기사에게 부딪혀 넘어지는 모습이 확인됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LRVZOLOFGFGJFK2RAHLDHOY554.gif"&gt;&lt;figcaption&gt;&lt;small&gt;아이가 달려와 대리기사에게 부딪히는 모습이 CCTV에 포착됐다. /JTBC '사건반장'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판부는 부부를 향해 “폭력을 행사한 사실은 인정하면서도 A씨가 자녀를 폭행했다고 생각해 폭력을 행사했다고 하는 등 피해자에게 책임을 전가하는 태도를 보이고 있다”고 지적했다. 이어 “피해자는 매 공판기일에 법정에 출석해 엄벌을 탄원하는 등 적극적으로 처벌 의사를 밝혔다”며 “그러나 부부는 공판기일에 불출석하는 등 재판에 임하는 태도도 성실하지 못하다”고 했다. &lt;br&gt;&lt;br&gt;아울러 이들 부부가 다른 범죄로도 처벌받은 적이 있다는 점은 불리한 양형 요소로 적용됐다. 특히 남편 B씨에 대해서는 “과거 범죄로 인한 누범기간 중에 재범한 것으로 징역형 선고가 불가피하다”고 재판부는 설명했다. &lt;br&gt;&lt;br&gt;이들 부부는 판결을 받아들일 수 없다며 곧바로 항소했다. 검찰 역시 더 무거운 형량이 선고돼야 한다며 항소했다. &lt;br&gt;&lt;br&gt;A씨는 20일 온라인 커뮤니티에 “제 입장에서는 만족스러운 판결”이라며 “가해자와 변호인의 안하무인인 태도를 판사가 두고 보지 않았고, 제가 그동안 재판 방청한 것이 헛된 일이 아니었다는 점을 공식적 문장으로 확인하고 나니 정말 너무 짜릿하다”고 했다. 이어 “제가 그 순간에 화를 못 참아 같이 폭력을 휘둘렀다면 절대 맛볼 수 없는 승리라서 더 그런 것 같다”며 부부를 상대로 민사소송도 이어갈 계획이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
