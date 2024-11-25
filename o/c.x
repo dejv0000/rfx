@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 손흥민 父에 5억 요구, 항소심서도 징역형 집유</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/25/THWRIDG4GVHGDGNFS4NZ34ICCU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/25/THWRIDG4GVHGDGNFS4NZ34ICCU/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 25 Nov 2024 12:48:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OT2D7AV5P4VWHYEM5Z5C5IMQSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가대표 축구선수 손흥민(32)씨의 부친 손웅정(62) SON축구아카데미 감독을 아동학대 혐의로 고소하고 합의금 5억원을 요구한 남성 김모(44)씨가 스토킹·무고 등 혐의 항소심에서도 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 인천지법 제2-2형사부(재판장 진원두)는 스토킹·무고 혐의로 기소된 김씨에게 지난 15일 1심과 같은 징역 1년 6개월에 집행유예 3년을 선고했다. 재판부는 “피고인과 검사가 주장하는 양형 부당의 사유는 대부분 원심이 충분히 고려한 사정들로 보인다”며 “원심의 형이 지나치게 무겁거나 가벼워서 부당하다고 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 본인의 아들인 A군이 손 감독으로부터 수시로 심한 욕설을 들은 것은 물론이고, 목덜미를 붙잡힌 채 밀쳐졌다며 지난 3월 손 감독을 아동학대 혐의로 고소했다. 이후 ‘손흥민 선수 이미지 마케팅 하는 비용이 얼만데, 돈이 아까운 것이냐’는 취지로 손 감독에게 합의금 5억원을 요구한 것으로 전해졌다. SON축구아카데미 관계자는 “아카데미 측이 김씨에 대한 엄벌 탄원서를 제출한 것으로 안다”고 했다&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YXVIQTFQDK7CKPSGFSCHM7OHVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;축구선수 손흥민씨의 아버지인 손웅정 SON축구아카데미 감독. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 김씨는 지난 15일 별개 사건 항소심에서 징역 1년 6개월에 집행유예 3년을 선고 받았다. 김씨는 지난 2016년 도박 혐의로 본인의 계좌가 압류될 위기에 처하자 지인 B씨의 계좌에 자금을 입금하는 방식으로 인터넷 도박을 한 후 “B씨에게 계좌이체 등 방법으로 손해를 입었다”는 허위 고소장을 작성한 혐의(무고)를 받는다.&lt;br&gt;&lt;br&gt;또한, 김씨는 다른 피해자에 대해 2021년 11월부터 2022년 6월까지 103회에 걸쳐 “없는 얘기 지어내서 사람 깐족거리지 마셔라” “경찰 조사나 잘 받으시고 죄를 지었으면 벌 받으시라. 죄가 없다면 처벌 받지 않으시겠다” 등의 SNS 메시지를 보내는 방식으로 스토킹한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;이 같은 혐의로 김씨는 작년 10월 1심에서 징역 1년 6개월에 집행유예 3년을 선고 받았다. 피고인에 대한 보호관찰과 120시간의 사회봉사, 40시간의 스토킹예방강의 수강 명령도 함께 내려졌다. 1심 재판부는 “피고인은 지속적 또는 반복적으로 피해자의 의사에 반해 정당한 이유 없이 정보통신망을 이용하여 글·그림 등을 도달하게 해 피해자에게 불안감 또는 공포심을 일으키는 스토킹 행위를 했다”고 판시했다. 이뿐만 아니라 무고, 모욕, 정보통신망법상 명예훼손 등 김씨의 다른 혐의에 대해서도 유죄 판결을 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/AX3QZWPY77JP7HYGSBPPHT3XPY.jpg?width=719&amp;height=478&amp;auth=4cded71fcc5e866f3ad4ea5682b4c3f819bc3b824d991e8c87973b202ecd9df0&amp;smart=true" type="image/jpeg" height="478" width="719">
+        <media:description type="plain">손웅정 감독 ‘아동복지법 위반, 벌금 300만원 약식명령</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>이재용, 목 잠긴 채 “녹록지 않은 현실, 기회달라” 항소심 최후진술</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/25/LTCZ54RATBC65LES7MUHDPQZWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/25/LTCZ54RATBC65LES7MUHDPQZWU/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 25 Nov 2024 11:14:59 +0000</pubDate>
+      <content:encoded>이재용 삼성전자 회장이 ‘경영권 불법 승계’ 사건 결심 공판에서 “제일모직·삼성물산 합병을 통해 개인적 이익을 챙길 의도가 없었다”고 밝혔다. 선고는 내년 2월 3일이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3UMKDWPJQJKN3BGXBCHVZSEKVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재용 삼성전자 회장이 25일 서울 서초구 서울고등법원에서 열린 '삼성 부당합병 의혹' 관련 항소심 결심 공판에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사13부(재판장 백강진)는 25일 자본시장법 위반 등 19개 혐의로 기소된 이 회장 등 14명에 대한 결심 공판을 진행했다.&lt;br&gt;&lt;br&gt;이 회장은 5분간의 최후진술에서 “두 회사(제일모직·삼성물산)의 합병이 미래에 분명히 도움이 될 것이라 생각했다”며 “개인적인 이익을 위해 주주들에게 피해를 입히거나 투자자들을 속이려는 의도는 결단코 없었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “그럼에도 여러 오해를 받은 것은 제 부족함과 불찰 때문”이라며 “법의 엄격한 잣대로 책임을 물을 잘못이 있다면 제가 온전히 감당해야 할 몫이니 평생 회사만을 위해 헌신해 온 다른 피고인들은 선처를 부탁한다”고 했다.&lt;br&gt;&lt;br&gt;또 “최근 삼성이 마주한 현실은 어느 때보다 녹록지 않지만 어려운 상황을 반드시 극복하고 한 발 더 나아가겠다”며 “국민들의 사랑을 받는 삼성으로 거듭날 수 있도록 할 수 있는 것들을 모두 하겠다”고 호소했다.&lt;br&gt;&lt;br&gt;이 회장은 원고를 쥔 왼손을 떨며, 잠긴 목을 수차례 가다듬으며 말했다. “삼성에 대한 애정어린 비판과 격려를 접하면서 새로운 각오를 다졌다”고 말하는 대목에서는 목소리가 떨리기도 했다.&lt;br&gt;&lt;br&gt;이 회장은 2015년 제일모직과 삼성물산을 합병하면서 경영권 승계와 삼성그룹의 지배력을 강화하기 위해 주식 시세를 조종한 혐의(자본시장법 위반 등)로 2020년 9월 기소됐다. 이 과정에서 제일모직의 자회사였던 삼성바이오로직스의 분식회계에 관여했다는 혐의(외부감사법 위반)도 받고 있다.&lt;br&gt;&lt;br&gt;당시 제일모직의 지분 23.2%를 가진 최대주주 이 회장이 시세조종·분식회계 등 위법을 저질러 제일모직의 가치는 높이고 삼성물산의 가치는 낮춰 자신에게 유리하게 합병이 이뤄질 수 있도록 했다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAY7RLXYBRNSJBTZPVYRHYASI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재용 삼성전자 회장이 25일 오후 서울 서초구 서울중앙지방법원에서 열린 삼성 부당 합병 혐의 관련 2심 공판에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 검찰은 이 회장을 포함한 모든 피고인에 대해 1심의 구형량과 같은 형을 선고해달라고 재판부에 요청했다. 검찰은 “이 사건의 본질은 이 회장의 승계를 위해 각종 거짓과 부정이 동원돼 선의의 투자자들에게 손해를 전가한 것”이라며 “피고인들은 그룹 총수의 사익을 위해 권한을 남용하고 정보 비대칭을 악용함으로써 경제 권력 남용을 위해 만든 제도적 장치를 무력화했다”고 지적했다.&lt;br&gt;&lt;br&gt;또 “피고인이 훼손한 것은 우리 경제의 정의와 자본시장의 근간을 이루는 헌법적 가치”라면서 “이 사건을 계기로 자본시장이 투명하고 공정한 방향으로 도약할 수 있길 바라며 법과 원칙에 따라 사건을 살펴 원심을 파기하고 피고인들에게 유죄를 선고해달라”고 했다.&lt;br&gt;&lt;br&gt;앞서 1심은 지난 2월 이 회장의 19개 혐의를 전부 무죄로 판단했다. 1심은 제일모직·삼성물산 합병에 대해 “이 회장의 승계 작업이라는 유일한 목적만으로 이뤄졌다고 볼 증거가 부족하다”며 “오히려 삼성물산의 사업적 목적도 있었다”고 판단했다. 또 삼성바이오의 분식회계에 대해 “(삼성바이오) 재경팀은 회계사들과 올바르게 회계 처리를 하려고 했던 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;한편 검찰은 항소심 과정에서 세 차례 공소장을 변경했다. 지난 8월 서울행정법원이 제일모직·삼성물산 합병 과정에서 삼성바이오의 분식회계가 사실상 있었다고 일부 인정한 판결을 반영한 것이다. 이는 삼성바이오의 분식회계가 없었다며 무죄를 선고한 형사사건 1심과 상반되는 결과다. 이를 토대로 검찰은 “원칙 중심의 회계처리에서 일탈했다고 판단한 행정법원의 판단을 충분히 고려해달라”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>올해만 해외 기술 유출 25건... 70%가 중국으로 갔다 </title>
+      <link>https://www.chosun.com/national/national_general/2024/11/25/4QYYCP7WIVFLNAR7P4VMBY5KDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/25/4QYYCP7WIVFLNAR7P4VMBY5KDM/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 25 Nov 2024 11:31:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BGJDBHKODJAV3D2VENXAJ2JFFQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 국가수사본부는 25일 “올해 국가 핵심 기술을 포함한 첨단 기술이 해외로 유출된 사례를 총 25건 적발했으며, 이 중 중국으로 유출된 것이 전체의 70%에 달했다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 올해 1월부터 10월까지 적발한 해외 기술 유출 사건 25건 중 18건(72%)이 중국과 관련됐다. 뒤이어 미국(3건), 일본(1건), 독일(1건), 베트남(1건), 이란(1건) 순이다. 서울경찰청은 지난 7월 유기발광다이오드(OLED) 관련 국가 핵심 기술 등을 촬영해 중국에 유출한 피의자 4명을 산업기술보호법 위반 혐의로 검거해 2명을 구속했다. 이들은 중국 경쟁 업체로 이직한 후 사용할 목적으로 OLED 기술을 무단 촬영했다.&lt;br&gt;&lt;br&gt;해외 유출된 기술 분야별로는 디스플레이 8건, 반도체 7건 등으로 국내 주력 산업 기술 유출이 심각한 것으로 나타났다. 유출 수법은 다양했다. 촬영이나 이메일을 통한 유출이 각각 5건이었고, 소셜미디어(3건), USB 저장(3건), 핵심 정보 인쇄(2건), 인력 유출(2건) 등이다.&lt;br&gt;&lt;br&gt;특히 전체 해외 기술 유출 25건 가운데 국가 핵심 기술 유출이 10건이었다. 국가 핵심 기술은 반도체 등 기술적·경제적 가치가 높아 해외로 유출되면 국가 안보와 국민 경제에 중요한 영향을 끼치는 기술을 말한다. 국수본이 출범한 2021년 1건이었던 국가 핵심 기술 유출 적발은 2022년 4건, 2023년 2건, 올해 10건으로 급증해 4년 새 최다를 기록했다.&lt;br&gt;&lt;br&gt;국수본은 “올해 해외 기술 유출 사건 6건에서 발생한 범죄 수익 49억원을 환수했다”고 밝혔다. 지난 9월 한 화학 업체 관련 영업 비밀을 촬영해 중국 업체 기술이전 계약에 사용한 일당이 받은 자동차·예금·주식 등 21억6000만원을 기소 전 추징·보전하기도 했다. 경찰 관계자는 “첨단화하는 해외 기술 유출 범죄 근절을 위해 전담 수사 인력 증원을 추진하고 있다”며 “위장 수사 등 최신 수사 기법 도입도 검토하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>교회 숙소서 여고생 학대 살해 혐의 합창단장…檢, ‘무기징역’ 구형</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/25/XTPK6QVIJJCAJAS3BYKDH5HEDA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/25/XTPK6QVIJJCAJAS3BYKDH5HEDA/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 25 Nov 2024 10:20:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C4HB4LPTQZIVJEB6WK4AAT5QQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천의 한 교회에서 사망한 여고생을 학대해 숨지게 한 혐의 등을 받는 50대 여성 신도가 지난 5월 구속 전 피의자 심문(영장실질심사)을 받기 위해 인천지법에 출석하는 모습. /연합뉴스
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 교회에서 함께 생활하던 여고생을 학대해 살해한 혐의로 구속기소 된 교회 합창단장에 대해 무기징역을 구형했다.&lt;br&gt;&lt;br&gt;인천지법 형사13부(재판장 장우영)는 25일 아동학대살해와 중감금 등 혐의로 구속기소 된 인천지역 모 교회 합창단장 A(여‧52)씨와 교인 B(여‧54)씨, 또 다른 40대 여성 교인 등에 대한 결심공판을 진행했다. 아동유기‧방임 혐의를 받는 여고생의 친모도 함께 재판을 받았다.&lt;br&gt;&lt;br&gt;검찰은 이날 공판에서 A씨에 대해 무기징역을 구형했다. A씨와 함께 구속기소 된 교회 신도 B씨와 40대 여성 교인에겐 각각 징역 30년을 구형했다. 정신의학과 치료가 필요한 자신의 딸을 병원이 아닌 교회에 보내 방임 혐의로 불구속기소 된 친모에 대해선 징역 5년을 구형했다.&lt;br&gt;&lt;br&gt;검찰은 “A씨는 자신을 맹종하는 B씨 등에게 모든 범행을 보고 받고 지시해 (피해자의 사망에) 가장 큰 책임이 있으나, 거짓 진술을 계속하고 있다”며 “처벌을 피할 목적으로 증거인멸을 지시하기도 했다”고 했다.&lt;br&gt;&lt;br&gt;또 “B씨 등은 A씨의 지시를 맹종하면서 잔혹한 방법으로 피해자를 학대하고도 반성하지 않고 거짓 진술을 반복하면서, 사망한 피해자의 명예도 훼손하고 있다”고 했다.&lt;br&gt;&lt;br&gt;피해자 친모에 대해선 “딸이 사망했음에도 수사나 재판과정에서 죄책감보다는 거짓진술을 하고 있다”며 “피해자의 어머니라고 볼 수 없을 정도”라고 했다.&lt;br&gt;&lt;br&gt;검찰은 “A씨 등은 사탄, 귀신 등과 싸운다는 메시지를 보내고, 정신병원 매질, 몸의 급소 등을 검색하기도 했다”며 “피고인들이 사탄과 귀신으로 피해자를 몰면서 결국 사망하게 됐다”고 했다.&lt;br&gt;&lt;br&gt;A씨 등의 변호인 측은 “검찰의 증거만으로는 합리적인 의심이 없을 정도로 범죄가 소명되지 않는다”며 “무죄 선고가 필요하고, 유죄를 선고하더라도 관대한 선고를 바란다”고 했다. 이어 “범행의 동기가 없고, 피해자 가족이 처벌을 원하지 않고 있다”고 했다.&lt;br&gt;&lt;br&gt;또 “피고인들은 피해자를 학대할 동기가 없었고, 대가 없이 정성으로 보살폈다”며 “(피해자를 결박한 부분은) 학대가 아니라 자해 등 더 큰 위험으로부터 보호하기 위한 최소한의 조치”라고 주장했다.&lt;br&gt;&lt;br&gt;변호인 측은 “피고인들은 피해자를 감금하지 않았고, (피해자가)원하면 언제든지 밖으로 벗어날 수 있었다”며 “합창단이 해외에서 국위를 선양하고 좋은 음악으로 선한 영향력을 끼친 점 등을 고려해 달라”고 했다.&lt;br&gt;&lt;br&gt;A씨는 최후 진술에서 “재판장님의 지혜로운 판결을 기다린다”고 했고, B씨는 “(피해자를) 온 마음으로 돌봤고, 학대하거나 살해할 생각은 없었다”고 말했다.&lt;br&gt;&lt;br&gt;A씨와 B씨 등 3명은 지난 2월부터 5월 15일까지 인천의 한 교회 숙소에서 생활하던 여고생 C(17)양을 학대해 살해한 혐의 등으로 구속기소 됐다.&lt;br&gt;&lt;br&gt;이들은 C양의 팔과 다리 등을 묶는 등 가혹행위를 하고, C양에게 성경 필사를 강요하거나 지하 1층부터 지상 7층까지 계단을 1시간 동안 오르내리게 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;C양은 지난 15일 오후 8시쯤 교회에서 밥을 먹던 중 의식을 잃고 쓰러졌고, 119 구급대에 의해 병원으로 이송됐으나 4시간 뒤 숨졌다.&lt;br&gt;&lt;br&gt;A씨 등에 대한 선고 공판은 다음 달 6일 오후 인천지법에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>'한강버스' 선박 실물 첫 공개…경남 사천에서 진수식 열려</title>
       <link>https://www.chosun.com/national/national_general/2024/11/25/M2DWDXASHRELPP7AAJJVTPNSJ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/25/M2DWDXASHRELPP7AAJJVTPNSJ4/</guid>
@@ -676,42 +716,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/LMUDQSAAN5EDZGBAWFQK4L4ESI.jpg?width=3000&amp;height=2000&amp;auth=a84ad17027b78457156cb75f35f5e63f70f137c6cddd76faa6df026cb5108461&amp;smart=true" type="image/jpeg" height="2000" width="3000">
         <media:description type="plain">서울시 새벽동행 자율주행버스./서울시</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>[인사] 국무조정실·국무총리비서실 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/11/25/PPUDLIUBBBBFZBZWCQMYIU45UY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/11/25/PPUDLIUBBBBFZBZWCQMYIU45UY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 24 Nov 2024 17:12:02 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;국무조정실·국무총리비서실&lt;/b&gt;◇과장급전보▷통일안보정책과장 박영철▷국제개발협력본부 사업연계조정과장 김령석&lt;br&gt;&lt;br&gt;▲&lt;b&gt;보건복지부&lt;/b&gt;◇국장급 승진▷감사관 민영신◇국장급 전보▷장애인정책국장 손호준&lt;br&gt;&lt;br&gt;▲&lt;b&gt;고용노동부&lt;/b&gt;▷정책보좌관 박종운&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 박미자 일산동구보건소 간호사 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/11/25/JJLG5N7RE5BHPEW2H4775UVU7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/11/25/JJLG5N7RE5BHPEW2H4775UVU7Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 24 Nov 2024 17:11:32 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;박미자&lt;/b&gt; 일산동구보건소 간호사 별세, &lt;b&gt;남궁일성&lt;/b&gt; 김앤장법률사무소 전문위원 아내상, &lt;b&gt;남궁민·남궁찬&lt;/b&gt; 모친상=24일8시20분 신촌세브란스병원, 발인 26일8시, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이인자&lt;/b&gt; 별세, &lt;b&gt;안성희·안성미·안성길·안성부·안옥주&lt;/b&gt; 모친상, &lt;b&gt;주충관·박윤섭·박영태&lt;/b&gt; 뉴시스 사진영상부장 장모상, &lt;b&gt;김춘화&lt;/b&gt; 시모상=23일13시30분 충북 증평대한장례식장, 발인 25일9시, (043)836-7002&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이정남&lt;/b&gt; 별세, &lt;b&gt;이학인&lt;/b&gt; 클럽72 대표·&lt;b&gt;이부용·이학철&lt;/b&gt; 부친상, &lt;b&gt;김락흥&lt;/b&gt; 장인상, &lt;b&gt;김인숙·김애진&lt;/b&gt; 시부상=24일6시35분 삼성서울병원, 발인 26일10시30분, (02)3410-3151&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 사단법인 거버넌스센터, 제1회 성찰과비전 시민사회포럼 개최</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/11/25/VUUIGU6C65BQXBOYN4BQROJO5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/11/25/VUUIGU6C65BQXBOYN4BQROJO5A/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 24 Nov 2024 17:10:55 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;사단법인 거버넌스센터&lt;/b&gt;(이사장 이형용)는 27일 오후 2시 서울 대학로 흥사단강당에서 ‘시민사회 위기론, 어떻게 볼 것인가?’를 주제로 제1회 성찰과비전 시민사회포럼을 개최한다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김영록 전남지사 등 14명 ‘자랑스런한국인대상’ 수상</title>
-      <link>https://www.chosun.com/national/people/2024/11/25/GCY7MXDDQ5D5TL7YTZLOCDQPFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/25/GCY7MXDDQ5D5TL7YTZLOCDQPFU/</guid>
-      <dc:creator>곽아람 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 24 Nov 2024 17:10:25 +0000</pubDate>
-      <content:encoded>한국언론인연합회(회장 이상열 전 MBC 보도본부장)는 제21회 자랑스런한국인대상 수상자로 김영록 전라남도 도지사(최고대상·산업발전 부문), 김광일 조선일보 논설위원(언론), 김재은 인코칭 대표이사(혁신경영), 김효 드라마글로벌 대표이사(비즈니스혁신), 박미경 포시에스 대표이사(경제), 박준희 관악구 청장(청년정책), 안진찬 한국산림아카데미재단 이사장(산림산업), 이승로 성북구 청장(현장행정), 이완섭 서산시장(관광도시), 전용복 미드웨스트 대학 예술대학장(예술발전), 진성 가수(대중예술), 천경준 씨젠회장(스마트폰발전), 최대호 안양시장(혁신도시개발), 최수군 두양그룹회장(산업교육) 등 14명을 선정했다고 24일 밝혔다. 특별공로대상 수상자엔 강은숙 글로벌축복교회 목사(선교봉사), 박정미 그녀의정원여성의원 대표원장(저출산해소), 이윤아 SBS아나운서(공정언론)가 선정됐다. 시상식은 27일 오전 11시 30분 한국프레스센터 20층 프레스클럽에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“연세대 논술 효력 정지, 상위권大 입시에 큰 영향”</title>
