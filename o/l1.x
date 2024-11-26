@@ -6,6 +6,46 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>착한법만드는사람들, 29일 '남발되는 탄핵제도, 이대로 괜찮은가' 세미나</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/203243.jpg" alt="203243.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;사단법인 착한법만드는사람들(대표&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1825"&gt;김현&lt;/span&gt;)이 29일 오후 4시 서울 서초구 서초동 변호사회관 5층 정의실에서 '남발되는 탄핵제도, 이대로 괜찮은가'를 주제로 제20차 세미나를 개최한다.&lt;br /&gt;&lt;br /&gt;좌장은 착한법 공동대표&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="126"&gt;서영득&lt;/span&gt;(65·군법무관시험 7회) 법무법인 정론 대표변호사가 맡는다. 이상경 서울시립대 로스쿨 원장이 발표자로 나서며 토론에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7795"&gt;장윤석&lt;/span&gt;(74·4기) 전 국회의원,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2523"&gt;김용호&lt;/span&gt;(66·12기) 전 법무법인 로고스 대표변호사, 남가언 아주경제 기자가 참여한다.&lt;br /&gt;&lt;br /&gt;전체 사회는 착한법 사무총장인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5923"&gt;조용주&lt;/span&gt;(52·26기) 법무법인 안다 대표변호사가 맡는다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2700"&gt;김영훈&lt;/span&gt;(60·사법연수원 27기) 대한변호사협회장이 축사한다.&lt;br /&gt;&lt;br /&gt;착한법은 국민에게 실질적인 도움이 되는 법률을 만들겠다는 취지로 2019년 설립된 사단법인으로, 변호사 220여 명이 활동 중이다. 고문은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4547"&gt;송상현&lt;/span&gt;(83·고시 16회) 전 국제형사재판소장, 상임대표는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1825"&gt;김현&lt;/span&gt;(68·17기) 법무법인 세창 대표변호사다.&lt;/p&gt;</description>
+			<pubDate>Tue, 26 Nov 2024 05:47:00 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/203243</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203243</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203243.jpg</media:thumbnail>
+			<dc:creator>이진영 기자</dc:creator>
+		</item>
+		<item>
+			<title>정부법무공단, ESG 경영 선포식 개최</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/203237.jpg" alt="203237.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;정부법무공단(이사장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6542"&gt;조희진&lt;/span&gt;)은 26일 서울 강남구 대치동 정부법무공단 청사 대회의실에서 ESG 경영의 시작을 대내외에 알리는 선포식을 열었다. 행사에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6542"&gt;조희진&lt;/span&gt;(62·사법연수원 19기) 이사장을 비롯한 경영진, 부서장, 실무자 등 30여 명이 참석해 ESG 경영 선언문을 낭독하며 실천 의지를 다졌다.&lt;br /&gt;&lt;br /&gt;선언문에는 △환경 친화적 경영 실천 △다양한 이해관계자들의 인권 존중 및 상호 협력 △투명하고 공정한 의사결정 체계 구축 등의 내용이 포함됐다. &lt;br /&gt;&lt;br /&gt;공단은 ESG 경영을 체계적으로 실행하기 위해 지난 9월 'ESG 경영 지침'을 제정하고 'ESG 위원회'를 신설하며 기반을 다졌다. ESG 위원회는 선언문의 주요 내용을 실행으로 옮기기 위한 조직으로, 환경 경영, 사회적 책임, 투명한 지배구조 확립 등 공단의 지속가능한 발전 목표를 설정하고 관리할 계획이다.&lt;br /&gt;&lt;br /&gt;조희진 이사장은 "ESG 선언문이 단순한 구호에 그치지 않고, 경영 패러다임 전환의 출발점이 되도록 모든 구성원이 협력할 것"이라며 "이번 ESG 경영 선포식을 계기로 공공기관으로서의 사회적 책임을 강화하고, 지속가능한 발전을 향해 나아가는데 앞장서겠다"고 말했다.&lt;br /&gt;&lt;/p&gt;</description>
+			<pubDate>Tue, 26 Nov 2024 04:48:15 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/203237</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203237</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203237.jpg</media:thumbnail>
+			<dc:creator>이진영 기자</dc:creator>
+		</item>
+		<item>
+			<title> 로앤컴퍼니, '2024 슈퍼로이어 마스터 클래스' 개최…법률 AI 실무 노하우 공유</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/203236.jpg" alt="203236.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;로톡 운영사 로앤컴퍼니(대표 김본환)가 다음 달 9일 서울 서초구 서초동 BNK 디지털타워에서 법률 전문가를 대상으로 '2024 슈퍼로이어 마스터 클래스' 세미나를 개최한다. 이번 세미나는 법률 AI 서비스 ‘슈퍼로이어’의 실무 활용 노하우를 공유하고 법률 서비스 혁신 방향을 모색하기 위해 마련됐다.&lt;br /&gt;&lt;br /&gt;슈퍼로이어는 로앤컴퍼니가 올해 7월 출시한 법률 AI 어시스턴트로 현재 약 5200명의 변호사가 회원으로 가입했다. 세미나는 슈퍼로이어를 실무에 적용할 수 있는 방법과 사례를 공유하는 첫 오프라인 행사다. &lt;br /&gt;&lt;br /&gt;연사로는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5813"&gt;조우성&lt;/span&gt;(55·사법연수원 23기) 법률사무소 머스트노우 대표 변호사와 로앤컴퍼니 법률AI연구소&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3274"&gt;안기순&lt;/span&gt;(54·27기) 소장이 나선다. 조 변호사는 법률 AI 분야의 선구자로 다양한 강연을 통해 법률 기술의 발전 가능성을 제시해 왔다. 안 소장은 슈퍼로이어 개발을 주도했고 과거 로앤비의 대표이사를 역임하는 등 국내 대표 리걸테크 전문가다. 두 연사는 법률 AI의 구체적 활용 방안을 실질적으로 다룰 예정이다.&lt;br /&gt;&lt;br /&gt;변호사 자격을 보유한 법률 전문가라면 누구나 신청 가능하며 참가비는 무료다. 신청은 포털 사이트에서 '슈퍼로이어'를 검색해 세미나 페이지에서 접수하면 된다. 로앤컴퍼니는 행사에 앞서 슈퍼로이어 인증 회원들에게 14일간 무료 체험 기회를 제공하고 있다.&lt;br /&gt;&lt;br /&gt;김본환 대표는 "슈퍼로이어는 변호사들의 성공적인 업무 수행을 돕기 위해 개발된 국내 최고의 법률 AI 서비스"라며 "이번 행사가 변호사들께 공감받고 체감할 수 있는 노하우와 사례를 중심으로 기획된 만큼, 오셔서 자리를 빛내주시길 부탁드린다"고 말했다.&lt;/p&gt;</description>
+			<pubDate>Tue, 26 Nov 2024 04:47:14 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/203236</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203236</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203236.jpg</media:thumbnail>
+			<dc:creator>이진영 기자</dc:creator>
+		</item>
+		<item>
+			<title>법무법인 디엘지 '장애 혁신기술 발전' 위한 협의체 출범</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/203233.jpg" alt="203233.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;a href="https://dlglaw.co.kr/" target="_blank"&gt;&lt;b&gt;법무법인 디엘지&lt;/b&gt;&lt;/a&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5968"&gt;조원희&lt;/span&gt;)가 장애 관련 혁신 기술의 발전을 위한 '디테크 협의체'를 출범했다.&lt;br /&gt;&lt;br /&gt;'디테크'는 기술을 활용해 장애인들이 겪는 일상적 어려움을 해결하는 혁신적인 솔루션을 발굴하는 공모전으로, 디엘지가 주최해 왔다. 디테크 협의체는 역대 디테크 공모전 수상팀들이 주축이 돼 활동하며, 장애와 관련된 혁신적인 제품과 서비스의 성장과 발전을 지원한다.&lt;br /&gt;&lt;br /&gt;협의체는 정기적으로 총회를 개최하고, 각 기업의 애로사항을 해결할 수 있는 제도 개선 활동을 펼칠 예정이다. 또 입법부를 대상으로 한 정책 제안 활동도 적극적으로 전개할 계획이다. 신규 수상팀에게 기존 수상팀들의 경험과 노하우도 공유한다.&lt;br /&gt;&lt;br /&gt;디테크 협의체 회장사를 맡은 토도웍스의 심재신 대표는 "보조기기와 의료기기 산업은 높은 수준의 관료화와 다양한 인증 절차로 인해 스타트업이 진입하고 안정화하는 데 많은 시간과 비용이 필요한 분야"라며 "해외 진출에 성공하게 되면 높은 성장성과 부가가치를 보장받는 산업이기 때문에 정부와 관련 기관의 초기 지원이 필수"라고 말했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5968"&gt;조원희&lt;/span&gt;(54·사법연수원 30기) 디엘지 대표변호사는 "디테크 공모전을 기획할 때 장애 관련 기술기업의 협의체를 구성해 노하우와 경험을 공유하고 장애 관련 기술의 수요자와 공급자를 연결하는 플랫폼을 구축하는 것을 목표로 했다"며 "협의체 발족으로 7년 만에 첫 번째 목표를 달성했으며, 앞으로 3년 내에 플랫폼 구축이라는 두 번째 목표도 실현하기 위해 노력하겠다"고 전했다.&lt;/p&gt;</description>
+			<pubDate>Tue, 26 Nov 2024 04:46:04 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/203233</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203233</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203233.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 마약 검사 눈 감아준 공무원…대법, 징역 4년 확정</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/203222.jpg" alt="203222.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;마약 검사를 무마해 준 대가로 뇌물을 받은 공무원이 징역 4년형을 선고받았다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;대법원 형사2부&lt;/b&gt;(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1658"&gt;오경미&amp;nbsp;&lt;/span&gt;대법관)는 10월 31일 특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의로 기소된 A 씨에게 징역 4년, 벌금 5000만 원, 추징금 500만 원을 선고한 원심을 확정했다(&lt;b&gt;2024도11856&lt;/b&gt;).&lt;br /&gt;&lt;br /&gt;A 씨는 서울 소재 보호관찰소 소속 공무원으로 2023년 7월부터 마약사범 B 씨의 보호관찰 업무를 맡고 있었다. A 씨는 2023년 5월 B 씨의 약물 간이검사 결과가 불분명하다는 점을 알면서도 정밀검사를 미뤄달라는 청탁을 받고 그대로 귀가 조치했다. A 씨는 그 대가로 2차례에 걸쳐 총 500만 원을 받은 뒤 B 씨에게 "보호관찰 과정에서 편의를 봐주겠다"며 10개월 동안 매달 500만 원을 요구한 혐의로 기소됐다. A 씨는 B 씨에 대한 약물검사가 진행된 적이 없음에도 보호관찰정보시스템에 약물검사 음성, 면담 태도 양호 등 허위사실을 입력한 혐의도 받았다.&lt;br /&gt;&lt;br /&gt;1심은 A 씨의 행위가 수뢰후부정처사죄, 공전자기록등위작죄, 위작공전자기록등행사죄 등에 해당한다고 보아 징역 4년, 벌금 5000만 원, 추징금 500만 원을 선고했다.&lt;br /&gt;&lt;br /&gt;2심은 죄수(범죄 행위·사건의 개수) 판단을 달리 했지만 양형은 1심대로 선고했다. 재판부는 "A 씨의 300만 원 뇌물수수와 200만 원 뇌물수수, 5000만 원 뇌물 요구 행위는 계속된 범의 아래 5일 간격으로 이뤄졌다"며 "결국 뇌물수수 및 요구에 따른 뇌물죄는 수뢰후부정처사에 따른 뇌물죄에 흡수돼 별도의 죄를 구성하지 않는다"고 지적했다. 이어 "1심은 수뢰후부정처사죄와 공전자기록등위작죄, 위작공전자기록등행사죄를 형법 제40조의 상상적 경합범 관계로 보고, 수뢰후부정처사죄와 뇌물요구에 따른 특정범죄가중처벌등에관한법률위반(뇌물)죄를 실체적 경합범의 관계에 있는 것으로 보아 하나의 형을 선고했다"며 "1심 판결에는 죄수에 관한 법리를 오해했다"고 판단했다.&lt;br /&gt;&lt;br /&gt;대법원은 "원심 판단에 필요한 심리를 다하지 않은 채 논리와 경험 법칙을 위반해 포괄일죄에 관한 법리를 오해한 잘못이 없다"며 상고를 기각했다.&lt;/p&gt;</description>
 			<pubDate>Tue, 26 Nov 2024 03:58:34 -0000</pubDate>
@@ -199,46 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203172</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203172.jpg</media:thumbnail>
 			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>한국법학교수회 신임 회장에 최봉경 서울대 교수</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/203171.jpg" alt="203171.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국법학교수회(회장 조홍식)는 22일 서울 중구 서소문동 서울중앙지방법원 중부등기소에서 열린 회장 선거에서 최봉경 서울대 로스쿨 교수를 제17대 회장으로 선출했다. 최 교수의 임기는 2025년 1월 1일부터 2026년 12월 31일까지 2년이다.  &lt;br /&gt;&lt;br /&gt;최봉경 교수는 당선 소감에서 "기후위기가 때늦은 만산홍엽의 즐거움을 선사했듯이 작금의 법학의 위기도 또 다른 기회가 될 수 있다고 생각한다"며 "선후배 및 동료 교수들과 손을 맞잡고 약속드린 바를 실현할 수 있도록 최선을 다하겠다"고 말했다.  &lt;br /&gt;&lt;br /&gt;강릉 출신인 최 교수는 연세대 법대를 졸업하고 독일 뮌헨대학교에서 민법을 전공했다. 그는 박사학위 논문에서 하자담보책임을 법학방법론적 관점에서 분석했다. 이 논문은 뮌헨대 최우수 논문으로 선정됐다.&lt;br /&gt;&lt;br /&gt;최 교수는 2003년 서울대 법대 교수로 부임한 뒤 현재 서울대 로스쿨 교수로 재직 중이다. 서울대 환경·에너지법정책센터 주관 ESG 컴플라이언스 과정 주임교수 및 한국민사법학회, 한국토지법학회, 사법학회 등의 부회장을 맡고 있다. 앞서 한국법학교수회 수석부회장과 한국법학원 부원장도 역임했다. &lt;br /&gt;&lt;br /&gt;1964년 설립된 한국법학교수회는 법학교육을 통해 대한민국의 법치주의 구현을 목표로 삼고 있다. 전국 25개 로스쿨과 법과대학, 법학과 소속 교수 약 1600명으로 구성돼 있다. 회원에는 법학뿐 아니라 법학 인접 전공을 강의하는 교수들도 포함된다.</description>
-			<pubDate>Fri, 22 Nov 2024 20:08:44 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/203171</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203171</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203171.jpg</media:thumbnail>
-			<dc:creator>이진영 기자</dc:creator>
-		</item>
-		<item>
-			<title>“세종대왕은 법률을 백성 교화 수단으로 삼았다” - 이한우 논어등반학교장</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/203167.jpg" alt="203167.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;세종 국제 콘퍼런스 개최를 약 10개월 앞두고 법률신문은 22일 ‘세종 전문가’인 이한우 논어등반학교장을 만났다. 이 교장은 “세종은 법률을 백성에 대한 교화의 수단으로 생각했다”고 말했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 교장은 “예로부터 앞뒤 돌아보지 않고 법률 조항에 얽매이는 ‘법 만능주의’가 있었고, 세종도 재위 초기에는 그런 모습이 있었다”며 “법이 절대적인 것이 아니라는 점을 깊이 깨달은 이후에는 법의 근본정신을 다시 생각해 ‘교화의 수단’으로 여기게 됐다”고 말했다. 이어 “이런 생각이 훈민정음의 창제로까지 포괄적으로 이어졌다”고 덧붙였다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이 교장은 세종의 측면에서 법률을 바라보는 것이 현재 우리 사회 문제를 해결하는 것에도 큰 도움이 된다고 평가했다. 그는 “법률의 공정한 집행은 중요한 것이지만, 그 이전에 법률의 집행이 과연 국민에게 도움이 되는지를 함께 봐야 하는데 현재 우리나라에선 법률가 출신의 정치인들이 잘못과 범죄를 숨기기 위해 악용하고 있고, 이를 통해 법률로 국민을 괴롭히고 있다”며 “세종의 ‘애민’을 법률에 비춰보고 법이 할 수 있는 것과 한계를 인식하고, 그 한계를 지혜롭게 극복할 수 있는 방법을 찾아봐야 할 것”이라고 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이한우 교장은 1961년 부산에서 태어나 고려대 영문과를 졸업하고 동 대학원 철학과 석사 및 한국외국어대 철학과 박사 과정을 수료했다. 문화일보를 거쳐 1994년부터 조선일보 기자로 일했다. 2002~2003년 조선일보 논설위원, 2014~2015년에는 문화부장을 지냈다. ‘이한우의 군주열전’을 비롯해 여러 저서를 펴냈고, 2012년부터는 ‘논어로 논어를 풀다’ 등 동양 사상의 고전을 번역하는 작업을 해왔다. 2016년부터는 논어등반학교를 만들어 현대인의 눈높이에 맞춘 고전 강의도 하고 있다.&lt;/p&gt;</description>
-			<pubDate>Fri, 22 Nov 2024 20:08:42 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/203167</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203167</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203167.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>“보험개혁회의 논의 주시, 규제환경 변화 신속히 대응해야”</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/203166.jpg" alt="203166_hanch.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;보험산업과 보험규제에 관해 설명하고 있는 한창훈 변호사.&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;i&gt;"감독 당국은 소비자 보호, 건전성 강화, 보험산업 미래 성장동력 발굴이라는 정책 목표를 바탕으로 세부 과제를 적극 추진할 것으로 보입니다. 이러한 변화가 보험산업 전반과 개별 보험사의 경영에 큰 영향을 미칠 것으로 예상되는 만큼, 보험개혁회의 논의 과정을 주시하며 규제환경 변화에 신속히 대응할 필요가 있습니다."&amp;nbsp;&lt;/i&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;화우 금융그룹 보험팀장인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="40803"&gt;한창훈&lt;/span&gt;(51·변호사시험 2회) 변호사의 말이다.   &lt;p&gt;      &lt;a href="https://www.hwawoo.com/kor/main?lang=ko" target="_blank"&gt;&lt;b&gt;법무법인 화우&lt;/b&gt;&lt;/a&gt;(대표&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8808"&gt;이명수&lt;/span&gt;)는 22일 서울 강남구 삼성동 화우 본사 34층 세미나실에서 제1회 보험세미나를 개최했다.   &lt;/p&gt;   &lt;p&gt;      &lt;br /&gt;올해 5월 출범한 금융당국과 유관기관 간 상설협의체인 보험개혁회의는 보험산업의 정체를 극복하기 위한 방안을 모색하고 있다. 회의에서는 보험영업, 회계·자본규제, 보험상품 등 경영 전반에 걸친 이슈를 검토하면서, 보험판매전문회사 도입과 같은 새로운 논의도 활발히 진행 중이다.   &lt;/p&gt;   &lt;p&gt;      &lt;br /&gt;한 변호사는 "보험판매전문회사 도입이 현실화하면 시장에 상당한 변화가 예상된다"며 "법인보험대리점(GA)이 불완전판매 등에 대한 책임을 부담하는 대신 △보험계약자 정보관리 권한 △집합투자증권 투자중개업 허용 △보험료 협상권 부여 여부 등이 핵심 쟁점이 될 것"이라고 설명했다. 아울러 "감독당국은 2025년 보험회사 감독·검사 계획 수립 시 보험개혁회의에서 논의 및 결정된 사항에 대해 그 운영현황 및 준수여부 등을 중점적으로 살펴볼 것으로 예상된다"고 전했다.   &lt;/p&gt;   &lt;p&gt;      &lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11137"&gt;전상오&lt;/span&gt;(47·34기) 변호사는 공정거래 세션에서 "주요 관리자의 책임이 점차 강조되는 추세"라며 △사전 점검 △컴플라이언스 가이드 수립 △CP 등급 평가 준비 등을 효과적인 대응 방안으로 제시했다.   &lt;/p&gt;   &lt;p&gt;      &lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14585"&gt;이수경&lt;/span&gt;(49·36기) 변호사는 '개인정보 보호위원회 조사 및 처분'을,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="24236"&gt;주민석&lt;/span&gt;(44·1회) 변호사는 '보험산업 관련 신용정보법 주요 이슈 및 시사점'을 주제로 발표했다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11792"&gt;황재호&lt;/span&gt;(52·34회) 변호사는 보험산업과 소송 세션에서 '최근 보험 판례의 쟁점과 시사점'을 발제하며 보험소송에서 주목해야 할 판례 동향을 짚었다.   &lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/203166.jpg" alt="203166_leems.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;환영사를 하는 이명수 대표변호사.&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;span style="font-weight: bold;" serial="8808"&gt;이명수&lt;/span&gt;(57·29기) 대표변호사는 "업무 겸업화와 디지털 금융의 확대에 대응하면서 인구구조와 고객 수요의 변화에 적응하는 비즈니스 모델을 마련하고자 노력하는 여러분들에게 도움이 되는 자리이길 바란다"고 전했다.&lt;/p&gt;&lt;p&gt;   &lt;p&gt;      &lt;br /&gt;세미나는 보험 업계 관계자 100여 명이 온오프라인을 통해 참석했다.   &lt;/p&gt;&lt;/p&gt;</description>
-			<pubDate>Fri, 22 Nov 2024 20:08:41 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/203166</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203166</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203166.jpg</media:thumbnail>
-			<dc:creator>안현 기자</dc:creator>
-		</item>
-		<item>
-			<title>“정치인 수사 검사 탄핵, 미국은 없다”</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/203160.jpg" alt="203160.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;레이몬드 티어니(Raymond A. Tier-ney·사진) 미국 뉴욕주 서포크 카운티 검찰청 검사장은 30년간 강력범죄 수사로 이름을 떨친 베테랑 검사다. 그는 검사장 취임 직후 10년 넘게 미제였던 ‘길고비치 살인사건’의 재수사를 지휘해 범인을 기소했다. 이 사건은 미국에서 가장 유명한 연쇄살인사건으로, 한국에서는 ‘미국판 살인의 추억’으로 불린다. 티어니 검사장은 지난 20~22일 JW 메리어트 호텔 서울에서 열린 한인검사 교류협력 세미나에서 직접수사 사례로 길고비치 살인사건을 발표했다. 이후 법률신문과 단독 인터뷰를 통해 더 많은 이야기를 나눴다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;- 길고비치 사건은 한국에서도 특집 방송될 정도로 유명한 사건이다. 10년 넘는 미제 사건을 어떻게 해결했나&lt;/b&gt;&lt;/p&gt;&lt;p&gt;재수사를 결심했을 때 검사와 수사관들의 전문성을 활용해 기존 증거를 분석한다면 새로운 증거를 얻을 수 있을 거란 기대가 있었다. 그래서 뉴욕주 경찰청, 서포크 카운티 검찰청, FBI 등 여러 기관의 검사와 수사관들로 TF를 구성했다. FBI는 미행 및 감시팀을 구성해 용의자를 추적하는 데 중요한 역할을 했다. 휴대전화 통화 기록 조사에서도 큰 도움을 주었다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;- 협력과 공조로 미제 사건을 해결할 수 있었는데 수사기관 간 긴밀한 공조가 필요한 이유는 무엇인가&lt;/b&gt;&lt;/p&gt;&lt;p&gt;우리는 디지털화된 세계에 살고 있다. 디지털 증거, 포렌식을 위한 증거들이 많다는 것이다. 하지만 디지털 증거는 짧은 시간 안에 사라질 수 있다는 문제가 있다. 따라서 범죄가 발생하면 초기 단계에서 협력을 통해 증거를 포착하는 것이 매우 중요하다. 이러한 증거를 바탕으로 검찰은 범죄자의 유죄를 입증하고 동시에 무고한 사람의 무죄를 증명할 수 있다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;- 세계적으로 지능적이고 조직적인 대형 범죄가 증가하고 있다. 미국에서는 어떻게 대응하고 있나&lt;/b&gt;&lt;/p&gt;&lt;p&gt;세상이 점점 더 디지털화되면서 범죄가 발생하는 물리적 거리가 줄어들고 있다. 미국에서도 국경 밖에서 발생한 범죄로 인해 자국민이 피해를 보는 사례가 늘어나고 있다. 미국 내에 거주하지 않으니 법적 책임이 없다고 생각할 수 있지만, 그렇지 않다. 이러한 범죄자들을 수사하고 기소하기 위해 미국은 여러 파트너 국가들과 협력하고 있다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;- 한국 검찰은 검찰의 독립성과 중립성이 가장 중요하다. 미국은 어떠한가&lt;/b&gt;&lt;/p&gt;&lt;p&gt;미국도 검찰의 독립성과 중립성 유지를 가장 중요한 가치로 여겨진다. 미국에서는 검사가 준수해야 할 윤리적 책임이 명확히 규정되어 있다. 경우에 따라 검사들이 정치적 당적을 유지하는 상황이 있을 수 있지만, 검찰은 외부 기관의 영향을 받지 않도록 철저히 독립성을 지키는 것이 핵심이다. 아울러 검사들이 기소나 수사 과정에서 활용하는 기밀 정보는 철저히 보호되어야 하며 기밀 유지가 보장되는 것도 중요하다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;- 한국에서는 정치인 사건을 수사한 검사에 대한 탄핵 시도가 있다. 미국에서도 비슷한 사례가 있나&lt;/b&gt;&lt;/p&gt;&lt;p&gt;정의를 구현하는 일은 정치와는 무관하다. 미국에서는 특정 정치인을 기소했다는 이유로 검사를 탄핵하려 하거나 탄핵된 사례는 없다. 다만, 검사가 자신의 직무나 책임을 다하지 못했을 경우 징계를 받거나 사임한 사례는 있다. 검찰 역시 다른 공직자와 마찬가지로 법적 책임과 직무를 성실히 수행해야 할 의무가 있다. 책무를 다하지 못한다면, 적절한 절차에 따라 징계나 해임 조치를 취하면 될 일이라고 생각한다.&lt;/p&gt;</description>
-			<pubDate>Fri, 22 Nov 2024 20:08:40 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/203160</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203160</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203160.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
