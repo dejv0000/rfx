@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>사단법인 온율, '보호대상아동을 위한 공공후견 지원' 주제 세미나 개최</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/203274.jpg" alt="203274.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;사단법인 온율(이사장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8490"&gt;윤세리&lt;/span&gt;)은 다음 달 2일 오후 2시 서울 삼성동 파르나스타워 법무법인 율촌 39층 렉처홀에서 제12회 율촌·온율 성년후견세미나를 개최한다. 세미나는 보건복지부의 후원 아래 사단법인 온율, 아동권리보장원(원장 정익중), 한국보건복지인재원(원장 배금주)이 공동으로 마련했다. '보호대상아동 공공후견 지원 시범사업의 현황과 과제'가 주제다.&lt;br /&gt;&lt;br /&gt;법무법인 율촌과 사단법인 온율은 성년후견제도가 도입된 2013년 이후 매년 관련 세미나를 개최해 왔다. 올해 세미나는 지난 1년여간 진행된 '보호대상아동 공공후견 지원 시범사업'의 현황과 성과를 점검하고, 향후 개선 방안을 논의하기 위해 마련됐다.&lt;br /&gt;&lt;br /&gt;행사에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8490"&gt;윤세리&lt;/span&gt;(71·사법연수원 10기) 사단법인 온율 공동이사장, 정익중 아동권리보장원장, 김상희 보건복지부 인구아동정책관, 배금주 한국보건복지인재원장 등이 참여하며,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="460"&gt;박은수&lt;/span&gt;(68·12기) 한국의료분쟁조정중재원장이 좌장을 맡는다. &lt;br /&gt;&lt;br /&gt;손호성 아동권리보장원 부장이 '보호대상아동 공공후견 시범사업 소개'를, 홍윤선 국립군산대 교수는 '각국 미성년후견제도 소개 및 사업 개선방향에 대한 제언'을 발제한다. 이어 강현주 한국보건복지인재원 교수는 '보호대상아동 공공후견 시범사업 후견인 양성교육 프로그램'을 주제로,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="37065"&gt;성유진&lt;/span&gt;(34·변호사시험 8회) 사단법인 온율 변호사는 '(가칭) 보호대상아동을 위한 미성년후견 매뉴얼 소개'를 주제로 발표한다.&lt;br /&gt;&lt;br /&gt;발제 이후에는 보호대상아동 분야의 전문가들이 참여해 토론을 이어갈 예정이다. 토론에는 유성희 과천시청 아동보호전담요원, 김윤현 성모자애드림힐 팀장, 신지연 서울가정법원 후견감독관, 김귀자 강남세움종합복지관장, 신지희 중앙장애아동·발달장애인지원센터 팀장이 참여한다.&lt;br /&gt;&lt;br /&gt;온율과 아동권리보장원, 한국보건복지인재원은 이번 세미나의 논의 내용을 바탕으로 내년에도 보건복지부와 법무법인 율촌의 후원을 받아 보호대상아동 공공후견 지원 사업을 지속적으로 추진할 계획이다.&lt;/p&gt;</description>
+			<pubDate>Wed, 27 Nov 2024 02:26:22 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/203274</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203274</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203274.jpg</media:thumbnail>
+			<dc:creator>이진영 기자</dc:creator>
+		</item>
+		<item>
+			<title>檢, 국민의힘 당사 압수수색...'김영선 공천개입 의혹' 자료 확보 차원</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/203276.jpg" alt="203276.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;국민의힘 김영선 전 의원과 명태균 씨《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;명태균 씨의 공천 거래 의혹을 수사 중인 검찰이 국민의힘 중앙당사와 국회 의원회관 내 당 핵심부서에 대한 강제수사에 나섰다. &lt;br /&gt;&lt;br /&gt;검찰은 27일 오전 9시 30분 서울 영등포구 여의도동에 있는 국민의힘 당사를 압수수색했다. 김영선 전 의원이 명 씨와 공천 거래를 했다는 의혹과 관련해 2022년 재·보궐선거 지역구 공천 심사 자료를 확보하려는 차원이다. &lt;br /&gt;&lt;br /&gt;다만 해당 업무를 담당한 국민의힘 기조국 등 주요 사무실이 국회 의원회관에 위치해, 검찰은 오후 국회로 이동해 압수수색을 이어갈 예정이다. 검찰 압수수색 대상지는 중앙 당사, 국회 의원회관 내 당 기획조정국인 것으로 알려졌다. &lt;br /&gt;&lt;br /&gt;앞서 검찰은 국민의힘 중앙당에 2022년 국회의원 보궐선거 당시 창원의창 지역구의 공천심사 자료를 요청한 것으로 전해졌다. 해당 지역구는 김 전 의원이 전략공천을 받은 곳이다. 이에 국민의힘 측은 대외비로 협조가 어렵고, 압수수색 영장이 필요하다는 취지로 답변했다고 한다. &lt;br /&gt;&lt;br /&gt;검찰은 압수수색을 통해 김 전 의원 외에도 명 씨와 연루된 여당 인사들에 대한 자료도 확보하려고 하는 것으로 전해졌다.</description>
+			<pubDate>Wed, 27 Nov 2024 02:24:38 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/203276</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203276</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203276.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
 			<title>법원도서관 내달 '제11회 전국법원 예술대전' 개최</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/203272.jpg" alt="203272.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법원도서관(관장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6879"&gt;전지원&lt;/span&gt;)이 다음달 4일부터 13일까지 서울 서초구 대법원 2층 중앙홀에서 '제11회 전국법원 예술대전'을 개최한다.&lt;br /&gt;&lt;br /&gt;이번 전국법원 예술대전에는 서예·문인화, 회화, 사진 등 작품 180여 점이 출품됐다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1377"&gt;노태악&lt;/span&gt;(62·사법연수원 16기) 대법관,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9174"&gt;이원범&lt;/span&gt;(59·20기)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="4290"&gt;강승준&lt;/span&gt;(58·20기)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="1399"&gt;박연욱&lt;/span&gt;(58·23기)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="3733"&gt;심담&lt;/span&gt;(55·24기) 서울고법 부장판사의 작품이 전시된다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="966"&gt;민일영&lt;/span&gt;(69·10기) 전 대법관,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5392"&gt;손용근&lt;/span&gt;(72·7기) 전 사법연수원장, 호문혁 전 사법정책연구원장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8370"&gt;유원규&lt;/span&gt;(72·9기) 전 서울가정법원장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5067"&gt;한위수&lt;/span&gt;(67·12기) 전 서울고법 부장판사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5731"&gt;성백현&lt;/span&gt;(65·13기) 전 서울가정법원장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2138"&gt;김창보&lt;/span&gt;(65·14기) 전 서울고등법원장 등 퇴임 법관들의 작품도 선보일 예정이다.&lt;p&gt;   &lt;br /&gt;출품작들은 추후 법원도서관 유튜브 채널과 '법원TV' 홈페이지를 통해 전자 도록의 형태로 감상할 수 있다. 법원도서관은 전자책으로도 작품들을 공개할 예정이다. &lt;br /&gt;&lt;br /&gt;전국법원 예술대전은 사법부의 대표적인 문화 전시행사로, 2004년 '전국법원 서예·문인화전'을 시작으로 격년으로 개최돼 왔다. 2020년부터는 전국법원 예술대전으로 명칭을 바꿔 회화, 사진으로 출품 대상을 확대했다.&lt;br /&gt;&lt;/p&gt;</description>
 			<pubDate>Wed, 27 Nov 2024 01:14:50 -0000</pubDate>
@@ -222,26 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203258</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203258.jpg</media:thumbnail>
 			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>서산지청·청소년 범죄예방위 서산회 '제12회 청소년 인권 영화제' 열어</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/203257.jpg" alt="203257.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;김승언 지청장(왼쪽)과 대상을 수상한 합덕고 학생. 《사진=청소년 범죄예방위원 서산회》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;서산지청(지청장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10865"&gt;김승언&lt;/span&gt;)과 법무부 청소년 범죄예방위원 서산지역협의회(회장 남준우·이하 서산범방)가 주최한 '제12회 청소년 인권 영화제'가 지난 21일 충남 서산시 갈산동 서산시민체육관에서 열렸다.&lt;br /&gt;&lt;br /&gt;이날 행사에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10865"&gt;김승언&lt;/span&gt;(50·사법연수원 33기) 대전지검 서산지청장, 이완섭 서산시장, 남준우 서산범방 회장을 비롯해 청소년 범죄예방위원, 지도교사, 학생 등 약 690명이 참석했다. 참석자들은 입상작 2편을 관람한 뒤 수상자들을 시상했다.&lt;br /&gt;&lt;br /&gt;청소년 인권 영화제는 청소년 인권과 학교 폭력의 심각성을 알리고, 인권 의식을 고취하며 '나와 다른 다양성을 수용하자'는 교육적 취지로 시작된 행사다.&lt;br /&gt;&lt;br /&gt;올해로 12회를 맞이한 이번 영화제는 '나와 다름의 수용'을 주제로 열렸으며, 서산‧당진‧태안 지역 20개 중‧고등학교 학생들이 순수 창작 UCC 영화 25편을 출품했다. 청소년 범죄예방, 가족 관계 회복, 교사 인권, 학교 밖 청소년 인권, 장애인 인권 등 다양한 주제를 다룬 작품들이 출품돼 눈길을 끌었다.&lt;br /&gt;&lt;br /&gt;대상은 합덕고등학교의 '다양성의 학교'라는 작품이 차지했다. 다큐멘터리 형식으로 제작된 이 작품은 합덕고 다문화 학생들의 학습과 소통 과정을 담아 다문화 교육의 중요성과 미래 방향성을 인권 존중의 메시지로 풀어내며 높은 평가를 받았다.&lt;br /&gt;&lt;br /&gt;남준우 회장은 “청소년들이 영화라는 매체를 통해 자신의 권리와 목소리를 표현하며, 건강한 사회 구성원으로 성장할 수 있는 계기가 되길 바란다”고 말했다.&lt;br /&gt;&lt;br /&gt;김승언 서산지청장은 “오늘을 위해 노력한 영화제 참가 청소년들과 가족, 친구, 학교 관계자들이 함께 즐기는 축제가 되길 바란다”며 “앞으로도 청소년들을 위한 축제가 지속될 수 있도록 적극 지원하겠다”고 격려했다.&lt;/p&gt;</description>
-			<pubDate>Tue, 26 Nov 2024 08:36:34 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/203257</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203257</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203257.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>서산지청·서산범피, 범죄피해자 학생 13명에게 1010만 원 지원</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/203256.jpg" alt="203256.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;김승언 서산지청장(왼쪽에서 다섯 번째)과 김덕호 이사장(여섯 번째) 등 전달식 참석자들. 《사진=서산당진태안범피》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대전지방검찰청 서산지청(지청장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10865"&gt;김승언&lt;/span&gt;)과 사단법인 서산당진태안범죄피해자지원센터(이사장 김덕호, 이하 서산범피)는 지난 21일 충남 서산시 예천동 서산지청 대회의실에서 '꿈 사다리 학자금 전달식'을 개최했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10865"&gt;김승언&lt;/span&gt;(50·사법연수원 33기) 서산지청장과 김덕호 이사장 등 서산범피 임원들이 참석한 이날 전달식에서는 범죄 피해로 어려움을 겪고 있는 13명의 학생들에게 학자금 총 1010만 원을 전달했다.&lt;br /&gt;&lt;br /&gt;서산범피는 서산, 당진, 태안 지역의 범죄 피해자들의 인권을 보호하고 이들이 사회에 적응할 수 있도록 돕는 사단법인이다. 살인, 상해, 성폭력, 강도, 방화 등 강력범죄 피해자가 가해자로부터 합의나 기타 배상을 받지 못한 경우에도 이들에게 보호 및 지원 서비스를 제공하고 있다.&lt;/p&gt;</description>
-			<pubDate>Tue, 26 Nov 2024 08:35:04 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/203256</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203256</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203256.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
