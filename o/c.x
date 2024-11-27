@@ -13,6 +13,88 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“아이는 낳고 결혼은 안 한다”… 비혼 출산, 10명 중 3명이 찬성</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/27/EU44BRZBNRFZNPUQUQ5VU4GVJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/27/EU44BRZBNRFZNPUQUQ5VU4GVJQ/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Nov 2024 12:15:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CWLMCA6WUNO2LMLJLYKYYKJ5ZI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 24일 오후 서울 도심의 공사장 가림막에 그려진 가족 그림 앞으로 시민이 지나고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민 10명 중 3명은 비혼 출산에 찬성한다는 조사 결과가 나왔다.&lt;br&gt;&lt;br&gt;27일 데이터 컨설팅 업체 피앰아이가 지난 5월 전국 만 18세 이상 남녀 3000명을 대상으로 한 설문조사 결과에 따르면, 응답자 30.3%가 비혼 출산에 찬성한다고 답했다.&lt;br&gt;&lt;br&gt;비혼 출산에 찬성한다고 답한 이들 중에는 20~30대가 약 35%로 가장 높은 비율을 차지했다. 반면 60대 이상의 비혼 출산 찬성 비율은 20.8%로 나타났다.&lt;br&gt;&lt;br&gt;응답자들이 결혼 생활에서 가장 기대하는 요소로는 ‘심리·정서적 안정’이 84.7%로 가장 높게 꼽혔다. 이어 ‘경제적 안정’(78.5%), ‘성적으로 친밀한 관계’(73.9%), ‘자녀를 가질 수 있는 기대감’(64.4%) 순이었다.&lt;br&gt;&lt;br&gt;동거에 대해 긍정적이라고 답한 응답자는 57.1%로 과반이었다. 특히 20대(74.2%)와 30대(67.3%)의 긍정적 비율이 높게 나타났다. 반면 60대 이상은 35.7%만이 동거를 긍정적으로 평가했다. 비혼 출산과 동거 모두에서 연령대에 따른 가치관 차이가 드러난 셈이다.&lt;br&gt;&lt;br&gt;혼인 신고에 대해서는 전체 응답자의 38.4%가 혼인 신고를 하지 않는 것에 대해 긍정적으로 답했다. 그러나 61.6%는 혼인 신고가 결혼의 필수 절차라고 생각했다.&lt;br&gt;&lt;br&gt;이와 관련, 이윤석 서울시립대 도시사회학과 교수는 “한국인들은 여전히 혼인을 출산의 전제조건으로 생각하는 경향이 높다”며 “미국이나 유럽에서는 출산과 혼인은 독립적인 사건으로 여겨지고 있다”고 했다. 그러면서 “한국도 개인의 선호와 선택을 중시하는 사회적 흐름에 따라 이러한 변화를 따라갈 가능성이 높다”고 했다.&lt;br&gt;&lt;br&gt;이 교수는 비혼 출산 가정에서 태어난 아이들에 대한 인식 변화가 필요하다고 했다. 이 교수는 “비혼 출산에 대한 부정적인 인식을 개선하고, 비혼 출산 가정에서 태어난 아이들이 건강하게 성장할 수 있도록 정책적 지원을 적극적으로 마련해야 한다”고 했다.&lt;br&gt;&lt;br&gt;한편 비혼 출산에 관한 논의는 최근 배우 정우성(51)과 모델 문가비(35)가 결혼하지 않고 지난 3월 득남한 소식이 알려지면서 많이 나오기 시작했다. &lt;br&gt;&lt;br&gt;통계청이 지난 8월 공개한 ‘2023년 출생 통계’에 따르면, 작년 혼인 외 출생자는 1만900명으로 사상 처음으로 1만명을 돌파했다. 이는 1981년 관련 통계 작성 이래 최대 수치로, 전체 출생아 23만명의 4.7%를 기록했다. 작년에 태어난 아기 20명 중 1명이 비혼 출생인 셈이다.&lt;br&gt;&lt;br&gt;비혼 출생자는 2021년부터 지속해서 증가세를 보였는데, 이는 주택 구입 등의 이유로 혼인신고를 하지 않고 결혼 상태를 유지하거나 단순 동거가 느는 등의 사회 현상이 반영된 것으로 분석된다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, SKY ‘마약 동아리’ 회장에 징역 7년 구형</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/27/W2AWLBLOHJCUBH4XGSCH4VG4UM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/27/W2AWLBLOHJCUBH4XGSCH4VG4UM/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Nov 2024 12:55:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q5U36ITRYJADHGEJL3VZQXXXZ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대·연세대·고려대 등 수도권 13개 대학 학생들이 포함된 수백 명 규모의 동아리에서 간부로 활동하며 집단으로 마약을 투약 및 유통한 동아리 회장 염모(31)씨에 대해 검찰이 징역 7년형을 구형했다.&lt;br&gt;&lt;br&gt;서울남부지법 형사합의14부(재판장 장성훈)는 27일 오후 마약류관리에관한법률 위반(향정, 대마) 등 혐의를 받는 염씨에 대한 결심 공판을 진행했다.&lt;br&gt;&lt;br&gt;검찰은 이날 “피고인은 스티븐 잡스를 운운하면서 LSD(리서직산디에틸아마이드)를 투약하고 좋은 영감을 얻어 좋은 사업을 할 기회를 얻을 수 있게 될 것이라고 했다”며 “피고인은 적지 않은 마약 투약을 집행유예 기간 중에 범했다. 피고인이 반성하는 태도를 취해줄 것이라 기대했었다”고 지적하면서 재판부에 징역 7년형을 선고해달라고 요청했다.&lt;br&gt;&lt;br&gt;이어 검찰은 “피고인은 영화관에서 마약을 투약하기도 했는데, 정당한 티켓(입장권) 없이 몰래 잠입해 마약을 투약하기도 했다”며 “제주도, 태국 푸켓 등에도 LSD를 들고 가 투약한 것은 변명의 여지가 없다”고 했다.&lt;br&gt;&lt;br&gt;또한 검찰은 염씨와 같은 혐의로 기소된 동아리 회원 이모(25)씨에 대해 징역 2년형을 구형했다.&lt;br&gt;&lt;br&gt;한편 염씨 측은 “공소·수사 제기 절차가 위법하다”며 무혐의를 주장하면서도 마약을 투약한 사실은 인정했다. 지난 4일 열린 2차 공판에서 염씨 측은 “검찰의 공소 제기 절차가 법률 규정을 위반했기에 공소 기각을 해야 한다는 변호인 의견서를 제시한다. (마약 등) 일정 범죄의 경우에는 검찰이 수사를 개시할 수 없다”고 주장했다.&lt;br&gt;&lt;br&gt;검찰의 마약수사권은 2021년 1월 ‘검수완박’(검찰 수사권의 완전한 박탈) 법안이 시행되며 대폭 축소됐다. ‘검수완박’ 이후 검찰은 가액 500만원 이상의 마약류 밀수 범죄만 직접 수사할 수 있었다.&lt;br&gt;&lt;br&gt;염씨가 검수완박을 따지며 검찰의 공소 제기를 문제 삼자, 검찰은 지난 19일 재판부에 염씨 혐의에 대한 검찰의 수사가 정당했다는 내용의 의견서를 제출한 바 있다.&lt;br&gt;&lt;br&gt;앞서 염씨는 서울대·연세대·고려대 등 수도권 13개 대학 학생들이 포함된 수백 명 규모의 동아리에서 간부로 활동하며 집단으로 마약을 투약 및 유통한 혐의로 지난 7월 구속기소됐다.&lt;br&gt;&lt;br&gt;염씨는 2021년 이른바 ‘인싸(잘나가는 대학생)’들의 친목 동아리를 만들었다. 이듬해 12월부터 동아리에서 마약에 손을 대며 액상대마에서 케타민·사일로사이빈(환각 버섯)·필로폰 등으로 점차 강도를 높여 나갔다.&lt;br&gt;&lt;br&gt;염씨에 대한 선고기일은 내년 1월8일 진행될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“김 여사에게 받을 돈 있다”…검찰, 미래한국연구소 채무이행 각서 확보</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/27/JWFBQ4XECRHSTCDFZOMAFA6XZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/27/JWFBQ4XECRHSTCDFZOMAFA6XZM/</guid>
+      <dc:creator>창원=이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Nov 2024 12:35:43 +0000</pubDate>
+      <content:encoded>검찰이 윤석열 대통령 배우자 김건희 여사가 언급된 여론조사 업체 미래한국연구소 측의 채무이행 각서를 확보한 것으로 27일 전해졌다. 이 각서는 미래한국연구소가 지난 대선 당시 공표용 여론조사를 의뢰한 업체에 대금을 지불하지 못하자, ‘김 여사에게 돈을 받아 갚겠다’는 내용을 담고 있다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DYL3CQXMNNLZNPURBJNJHOQ4KQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 아세안 정상회의 참석에 동행한 김건희 여사가 지난달 9일(현지시각) 라오스 비엔티안 왓타이 국제공항에 도착해 환영나온 라오스측 인사와 대화하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종함하면, 창원지검 전담수사팀(팀장 이지형 차장검사)은 여론조사 업체 PNR과 강혜경씨 사이에 작성된 ‘채무이행 각서’를 지난 15일 압수 수색 때 확보했다. 지난 대선 당시 미래한국연구소는 PNR 측에 공표용 여론조사 58건을 의뢰했는데, 전체 대금 중 6000만원을 지불하지 못한 것으로 알려졌다. PNR은 2022년 3월부터 ‘대금을 지불하라’고 요청했고, 이를 전해들은 명씨는 그때마다 “김 여사에게 받을 돈이 있으니, 그 돈을 받으면 갚겠다”는 취지로 말했다는 것이 강씨 주장이다. 그러나 대금 지불이 미뤄지면서, 강씨는 그해 7월 각서를 쓰고 지장을 찍었다고 한다.&lt;br&gt;&lt;br&gt;각서에는 ‘미래한국연구소 쪽이 김 여사에게 받을 돈이 있다는 내용이 거짓이면 사기’라며 ‘2022년 12월까지 채무를 상환하지 않을 경우 사기죄로 고소해도 이의제기를 하지 않겠다’는 취지의 내용도 포함됐다고 한다. 강씨는 “명씨가 김 여사에게 돈을 받아와서 미수금을 처리하자고 분명히 얘기해, PNR 측에도 그렇게 말했다”며 “PNR 측 입장에선 제가 거짓말을 한 셈이니 ‘일단 갚으라’는 각서를 쓰게 한 것”이라고 했다. 강씨는 ‘김 여사로부터 돈을 받겠다는 내용이 허위였냐’는 검찰 질문에 “실제 돈을 받으려고 청구서도 만들었다”고 답했다고 한다. 강씨가 각서를 쓴 것을 뒤늦게 알게 된 명씨는 “김OO(미래한국연구소장)이 (각서를) 써야지 왜 네가 쓰냐”는 취지로 타박한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰은 명씨가 실제로 김 여사에게 받을 돈이 있었는지, 아니면 대금 지불을 미루기 위해 꾸며낸 핑계인지 여부를 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] ‘공천 거래’ 명태균이 청구한 구속적부심, 법원이 기각</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/27/B56TKZGAU5BANJUF5XWIQPESVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/27/B56TKZGAU5BANJUF5XWIQPESVY/</guid>
+      <dc:creator>창원=이민준 기자, 창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Nov 2024 12:43:47 +0000</pubDate>
+      <content:encoded>‘공천 거래’ 혐의로 구속된 정치 브로커 명태균씨가 청구한 구속적부심이 27일 법원에서 기각됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FIJFTH2II5KJP7WE7QKIDC4EKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정치 브로커 명태균씨. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;창원지법은 이날 오후 9시 40분쯤 명씨의 구속적부심을 기각했다고 밝혔다. 법원 관계자는 “피의자 심문 결과와 기록을 종합해보면 명씨의 구속적부심 청구는 이유 없다”고 기각 사유를 밝혔다.&lt;br&gt;&lt;br&gt;창원지검 전담수사팀(팀장 이지형 차장검사)은 명씨가 김영선 전 의원으로부터 세비 등 7600여 만원을 수수하고, 지방선거 예비 후보 2명에게 공천을 도와주겠다며 1억2000만원씩 모두 2억4000만원을 수수했다고 보고 지난 11일 구속영장을 청구했다. 법원은 지난 14일 영장실질심사를 연 뒤, 15일 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;명씨는 이날 오후 4시부터 1시간가량 진행된 심문에서 직접 발언권을 얻어 결백을 주장한 것으로 전해졌다. 특히 지난 2021년 7월 이른바 ‘이준석 토크 콘서트’ 강연비 3000만원 등 모두 2억원을 경북 지역 언론사 대표로부터 받은 뒤 1억원을 갚지 않았다는 의혹에 대해 “내가 받지 않았다”는 취지로 억울함을 호소했다고 한다. 이 의혹은 명씨의 구속영장엔 포함되지 않았다. 법정 밖으로 명씨가 “허위보도” “가짜뉴스”라고 말하는 소리가 새어나오기도 했다.&lt;br&gt;&lt;br&gt;반면 검찰은 “명씨가 구속된 이후 판단을 달리 할 사정의 변경이 없었고, 명씨가 구속적부심 제도를 악용하고 있다”는 취지로 반박한 것으로 알려졌다. 또 명씨가 휴대폰을 버리는 등 증거인멸을 했다는 점도 강조한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;명씨 측은 지난 26일 창원지법에 30쪽 분량의 구속적부심 청구서를 제출하면서 “강씨 진술에 기초한 이 사건 피의사실 자체에 모순이 있다”고 주장했다. 특히 강씨의 진술이 계속해서 바뀌고 있고, “강씨가 검찰에 제출한 ‘명태균 총괄본부장 지급내역’과 구속영장에 기재된 현금 전달 일시, 금액, 범행 횟수, 범행 수법 등의 차이가 크다”고 지적했다. 명씨가 실제 받았다는 금액과 강씨 주장이 2000만원가량 차이가 날 정도로 강씨 측의 주장에 신빙성이 떨어진다고도 했다.&lt;br&gt;&lt;br&gt;명씨 측은 정치자금법에서 기부행위를 금지하는 대상인 ‘그 밖에 정치활동을 하는 사람’에 해당하지 않는다는 주장도 했다. 명씨 측은 “선거 등에서 자원봉사나 무급 사무직원으로 김 전 의원의 공천을 받기 위해 활동한 자에 불과할 따름”이라며 “정치자금법에서 규정하는 기부 제한 조항의 적용 당사자가 아니다”라고 했다.&lt;br&gt;&lt;br&gt;한편, 검찰은 이날 오전 국민의힘 당사와 국회 내 국민의힘 기획조정국 등을 압수 수색해 지난 2022년 보궐선거 당시 김 전 의원 등의 공천 관련 자료를 확보한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>원주선 53중 추돌... 내일까지 폭설·빙판 출퇴근길 비상</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/27/SLLLGXJ6SFEQVBRPYLYS3PVTQM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/27/SLLLGXJ6SFEQVBRPYLYS3PVTQM/</guid>
+      <dc:creator>최연진 기자, 박상현 기자, 평택=김현수 기자, 원주=정성원 기자, 박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Nov 2024 11:39:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VZTX7UFGHBCPHLAVDLLDS4PAL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 대설 특보가 내려진 전북 진안군 진안읍 익산∼포항 고속도로에서 화학물질을 실은 트럭이 눈길에 미끄러져 뒤집혀 있다.(왼쪽)  강원 원주 한 도로에서 53대 간 추돌사고가 발생해 7명이 가벼운 상처를 입었다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 서울에 ‘눈 폭탄’이 쏟아졌다. 올겨울 들어 첫눈인데 적설량이 28㎝에 달했다. 11월 서울에 이렇게 많은 눈이 내린 건 1907년 기상관측을 시작한 이후 117년 만이다. 첫눈이 내린 날짜는 지난해보다 9일 늦었지만 적설량은 기록적이었다. 그동안 서울 지역의 11월 최고 적설량은 1972년 12.4㎝였다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 이날 오후 4시 기준 서울에는 최고 27.5㎝(관악구) 눈이 내려 쌓였다. 지역별로는 성북구(20.6㎝), 강북구(20.4㎝), 서대문구(17.2㎝), 종로구(16.5㎝), 도봉구(16.4㎝) 등에 눈이 많이 내렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JY5IP4ECSJC3TOSBTFKELBRHOI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 눈은 서울과 수도권, 강원 영서, 충북 북부 등 중부지방에 집중됐다. 경기 군포(27.9㎝)와 의왕(27.1㎝), 강원 평창(24.6㎝), 경기 수원(21㎝)에도 눈이 많이 내렸다. 기상청은 “서해 쪽에서 눈구름대가 계속 유입되고 있어 28일까지 수도권과 강원 지역을 중심으로 최대 25㎝ 안팎의 눈이 더 내릴 것으로 예상된다”고 했다. 기상청은 서울과 수도권, 강원 남부, 충북, 전북 동부, 경북 북부 등 지역에 대설 특보를 내렸다.&lt;br&gt;&lt;br&gt;기상청 관계자는 “28일 새벽 내린 눈이 얼어붙으면서 빙판길 사고나 출근길 교통난이 우려된다”고 했다.&lt;br&gt;&lt;br&gt;27일 서울과 수도권 등 중부지방에 쏟아진 11월 ‘눈 폭탄’의 원인으로 한반도 북쪽에 자리 잡은 ‘절리(切離) 저기압’과 서해의 높은 해수면 온도가 꼽힌다. 절리 저기압은 대기 상층부에 부는 매우 강한 바람인 제트기류의 일부가 떨어져 나와 형성된다. 이 절리 저기압이 뿌리는 찬 바람이 올여름 폭염으로 뜨거워진 서해 위를 지나면서 강한 눈구름대가 계속 생성되고 있다는 것이다. 절리 저기압에서 나오는 바람은 북극 공기를 머금고 있어 온도가 영하 40도 정도로 매우 차갑다. 반면에 서해의 해수면 온도는 예년보다 2도 이상 높은 상태다. 기상청 관계자는 “온도 차가 클수록 더 강한 눈구름대가 형성된다”고 했다. 이 눈구름대가 편서풍을 타고 수도권 상공을 통과하면서 특히 서울에 폭설을 뿌리고 있다.&lt;br&gt;&lt;br&gt;이례적으로 따뜻한 가을을 보내던 한반도는 이날 폭설로 하루아침에 겨울이 됐다. 가을 단풍에 눈이 쌓인 모습도 볼 수 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S37SZLEONZITBG4NS3BQBJET7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 오후 대설 경보가 발효 중인 경기도 수원시 팔달구 경수대로에서 차량이 서행하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇‘53중 추돌’ 등 사고 잇따라&lt;/b&gt;&lt;br&gt;&lt;br&gt;중부지방 곳곳에서 폭설 피해가 속출했다. 인명 피해도 있었다. 이날 오전 6시 44분쯤 강원 홍천 서울양양고속도로 서석터널 근처에서 4중 추돌 사고가 발생해 1명이 숨지고 6명이 다쳤다.&lt;br&gt;&lt;br&gt;오후 2시 5분쯤 경기 화성시 매송면 비봉매송 도시고속화도로에서는 광역버스가 눈길에 미끄러지면서 고속도로 운영 업체 직원 A씨를 덮쳤다. A씨는 병원으로 이송됐으나 숨졌다. 당시 A씨는 폭설로 교통사고가 났다는 신고를 받고 현장에 출동했던 것으로 알려졌다. 오후 5시 49분 강원 원주시 호저면 만종사거리에서는 차량 53대가 추돌해 7명이 다치는 사고가 발생했다. 경찰 관계자는 “내린 눈이 얼어붙어 차량이 미끄러진 것으로 추정된다”고 했다. 앞서 오전 8시 3분쯤 전북 진안군 익산포항고속도로에서는 25t 트레일러 차량이 옆으로 넘어지면서 위험 물질이 1600L가량 유출됐다. 40대 운전자는 다쳐 인근 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;오전 8시 40분쯤 경기 양평군 옥천면의 농가에서는 차고가 무너져 차고 근처에서 눈을 치우던 80대 주민이 숨졌다. 경찰은 “알루미늄 지붕이 쌓인 눈의 무게를 견디지 못한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;오후 7시 26분쯤 경기 평택의 골프 연습장에서는 철제 그물이 내려앉아 눈을 치우던 직원 2명이 깔리는 사고가 발생했다. 이 중 한 명은 심정지 상태로 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;폭설에 가로수나 전신주가 쓰러져 정전 사고도 발생했다. 이날 오전 5시 30분쯤 서울 성북구에서 가로수가 전선 위로 쓰러져 성북동 일대 174가구에 전기 공급이 끊겼다. 오전 5시 40분쯤 은평구 증산동의 주택가에서는 전신주가 넘어져 39가구가 정전 피해를 당했다. 경기 광주시 남종면에서도 전신주가 쓰러져 230가구에 전기 공급이 중단됐다. 한전 측은 “쌓인 눈 때문에 지반이 약해져 전신주가 쓰러진 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;기상청 관계자는 “이번 눈은 물기를 많이 품은 습설(濕雪)이라 무겁다”며 “비닐하우스나 차고, 가로수가 무너질 수 있어 특히 주의해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이날 서울과 수도권 시민들은 출퇴근 불편을 겪었다. 오전 6시 10분쯤 경기 남양주시 별내면 구리포천고속도로 남양주 터널 인근에서 SUV와 화물차가 충돌해 이 일대가 교통 체증을 빚었다. 앞서 오전 5시 50분쯤에는 수도권 제1순환선 노고산2터널 근처에서 화물차가 넘어지는 사고가 발생해 도로가 통제됐다. 오후 4시 10분쯤 경부선 석수~관악 구간과 경의중앙선 팔당~덕소 구간의 선로에 나무가 쓰러져 수도권 전철 등 열차 운행이 중단되기도 했다. 눈 때문에 서울 지하철 9호선 열차가 차량 기지를 빠져나오지 못하는 일도 있었다. 서울 메트로 9호선 관계자는 “차량 기지에 눈이 쌓여 운행이 9분 정도 지연됐다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3PGJQEAXJNOB3MSZQJIKZMO5G4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울에 많은 눈이 내린 27일 지하철 1호선 서울역 승강장에서 승객들이 지하철을 기다리고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;퇴근길 서울 광화문역은 승강장부터 지상 입구까지 발 디딜 틈이 없었다. 직장인 민승호(38)씨는 “버스 정류장에 사람이 너무 많아 지하철로 왔는데 여기도 난리”라고 했다. 김은주(41)씨는 “아침에 자가용으로 출근하다 지각했다”며 “회사에 차를 놔두고 퇴근하는 길”이라고 했다.&lt;br&gt;&lt;br&gt;폭설로 하늘길과 바닷길도 일부 막혔다. 활주로에 눈이 쌓이면서 인천공항, 김포공항 등에서 항공기 150편(오후 6시 기준)이 결항했다. 288편은 지연 운항했다. 전남 목포~홍도와 경북 포항~울릉도 등 전국 74개 항로에서 여객선 96척이 운항을 멈췄다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇서울시 9000명 투입해 제설&lt;/b&gt;&lt;br&gt;&lt;br&gt;갑자기 내린 기록적인 폭설에도 도심 지역은 상대적으로 피해가 크지는 않았다는 평가도 나온다. 정부와 지방자치단체가 적극적으로 나선 데다 시민들도 대중교통을 주로 이용하는 등 시민 의식을 보여줬기 때문이다. 행정안전부는 이날 오전 3시부터 중앙재난안전대책본부를 가동하고 대설 위기 경보 수준을 ‘주의’에서 ‘경계’로 상향 조정했다. 서울시는 인력 8767명과 제설 장비 1452대를 투입해 제설 작업을 벌였다. 기상청은 “수도권과 강원 지역을 중심으로 28일 오전까지 최대 25㎝ 안팎의 눈이 더 내릴 것”이라며 “29일까지는 눈과 비가 오락가락할 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VZTX7UFGHBCPHLAVDLLDS4PAL4.jpg?width=1600&amp;height=900&amp;auth=b73fe8078b6613d32c7ee5f0eb52ecebcf60614eb91447a048de11b0367cd2f3&amp;smart=true" type="image/jpeg" height="900" width="1600">
+        <media:description type="plain">27일 대설 특보가 내려진 전북 진안군 진안읍 익산∼포항 고속도로에서 화학물질을 실은 트럭이 눈길에 미끄러져 뒤집혀 있다.(왼쪽)  강원 원주 한 도로에서 53대 간 추돌사고가 발생해 7명이 가벼운 상처를 입었다. /연합뉴스</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>폭설로 평택 골프연습장서 구조물 무너져...1명 심정지</title>
+      <link>https://www.chosun.com/national/incident/2024/11/27/ZZZ3BXFTMND6XNN5DTZZMJFXQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/27/ZZZ3BXFTMND6XNN5DTZZMJFXQA/</guid>
+      <dc:creator>평택=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Nov 2024 12:06:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WGGSXDABB5DLJ3RTHGMUP6UD2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제설 작업 중 철제 그물이 무너지는 사고가 발생한 경기도 평택시의 한 골프연습장. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 오후 7시 26분쯤 경기 평택시 도일동의 한 골프연습장에서 야외에 설치돼 있는 철제 그물이 무너져 내리는 사고가 발생했다. 이 사고로 제설 작업 중이던 30대 남성이 매몰돼 심정지 상태로 병원에 옮겨졌다.&lt;br&gt;&lt;br&gt;경기도소방재난본부에 따르면 사고 당시 “골프연습장 내 철제 그물이 무너져 사람 여러 명이 깔려 있다”는 신고가 119에 접수됐다.&lt;br&gt;&lt;br&gt;신고 접수 12분 만인 오후 7시 38분 현장에 도착한 구조대는 약 8분 만에 그물에 깔린 30대 남성 A씨와 50대 남성 B씨 등 2명을 모두 구조했다. 이중 A씨는 심정지 상태로 발견돼 심폐소생술(CPR)을 받으며 인근 병원으로 옮겨졌다. B씨는 양호한 상태인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;사고 당시 골프연습장 근무자 7명이 외부 시설 바닥 그물에 있는 눈을 치우던 중, 상부에 있는 가로 100m, 세로 30m에 달하는 철제 그물이 무너지며 A씨 등 2명이 매몰됐던 것으로 파악됐다. 경찰과 소방당국은 구체적인 사고 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;소방 관계자는 “눈 때문에 발생한 사고일 가능성이 높다”며 “폭설 피해 사례로 분류될 것으로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>원주선 53중 추돌... 폭설로 곳곳서 쿵 쿵, 퇴근길 정체 극심</title>
+      <link>https://www.chosun.com/national/incident/2024/11/27/MQYNAM3B5NC3RCXDECRERPDBNA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/27/MQYNAM3B5NC3RCXDECRERPDBNA/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Nov 2024 10:48:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IZIK6BMCSBLA3J3E663DP6FRDQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 오후 강원 원주 한 도로에서 53대 간 추돌사고가 발생해 7명이 가벼운 상처를 입었다. / 독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 오후 5시 50분쯤 강원특별자치도 원주시 호저면 만종리 만종교차로~기업도시 방면 도로에서 차량 53대가 서로 부딪히는 사고가 났다.&lt;br&gt;&lt;br&gt;이 사고로 7명이 다쳐 병원으로 옮겨졌으며, 생명에는 지장이 없는 것으로 알려졌다. 사고 현장 수습이 이어짐에 따라 부상자는 더 발생할 가능성이 있는 것으로 알려졌다. 현장 일대는 차량 수십대가 엉켜있고, 양방향으로 차량이 통제돼 진입이 불가능한 상황으로, 극심한 혼잡을 빚고 있다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 도로에 있는 블랙아이스(기온이 갑작스럽게 내려갈 경우, 도로 위에 녹았던 눈이 얇은 빙판으로 얼어붙는 현상)로 차량들이 미끄러지면서 연쇄 추돌한 것으로 보고 있다. 사고 당시 눈이 쌓여있진 않았지만, 이날 내린 눈이 녹아 도로가 얼어 붙어있던 것으로 알려졌다. 경찰은 “브레이크가 들지 않았다”는 등의 운전자들의 진술 등을 바탕으로, 정확한 사고 원인을 파악하고 있다.&lt;br&gt;&lt;br&gt;원주시는 사고 30분여 만인 오후 6시 24분 재난안전문자를 통해 “다중추돌 교통사고가 발생해 차량 통제로 진입이 불가능한 상황으로 우회하길 바란다”고 안내했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RQJ56STCOFLHNMJTGPSGW3BKYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 오후 강원 원주 한 도로에서 53대 간 추돌사고가 발생해 7명이 가벼운 상처를 입었다. /강원특별자치도소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RAWB4Z6UZ5DAXNMTGCFTNZNLX4.jpg?width=1512&amp;height=851&amp;auth=878c3c74365d3d8f4ba0d2c968cd0705edd849e3ac65dab6a7bc28ea8c6142f2&amp;smart=true" type="image/jpeg" height="851" width="1512">
+        <media:description type="plain">53대 간 추돌사고로 혼잡해진 도로
+    (원주=연합뉴스) 27일 오후 강원 원주 한 도로에서 53대 간 추돌사고가 발생해 7명이 가벼운 상처를 입었다. 2024.11.27 [강원특별자치도소방본부 제공. 재판매 및 DB 금지]
+    taetae@yna.co.kr/2024-11-27 19:18:20/
+&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">강원취재본부</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>연세대 후배들, 한강 시상식 맞춰 스웨덴 방문한다</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/27/DVXI5NJDL5BBRGZC2AHL6XG4GI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/27/DVXI5NJDL5BBRGZC2AHL6XG4GI/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Nov 2024 11:41:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MPS4OFK34S6OG27HK2R27MCL34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 연세대 신촌캠퍼스에 연대 국문과 출신 소설가 한강 작가의 한국인 최초 노벨문학상 수상을 축하하는 현수막이 걸려있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소설가 한강의 모교 연세대 후배들이 한강의 노벨문학상 시상식이 열리는 스웨덴 스톡홀름에 방문한다.&lt;br&gt;&lt;br&gt;연세대는 노벨상 시상식이 진행되는 ‘노벨위크’ 기간에 맞춰 다음 달 5일에서 13일까지 홍보대사 및 국문학과 후배 등 재학생 약 10명을 스웨덴 현지에 파견한다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;이번 파견은 한강의 한국인 최초 노벨문학상 수상을 계기로 그의 후배들도 현장에서 노벨상에 대한 이해를 쌓고 미래의 노벨상 수상자로 성장할 기회를 마련한다는 취지로 기획됐다.&lt;br&gt;&lt;br&gt;연세대 관계자는 “선배 한강과 같은 자리에서 세계적 석학들과 함께 호흡하며 국제적 견문을 넓힐 수 있는 좋은 기회가 될 것으로 기대한다”며 “이후 참여 학생들의 후기를 종합해 꼭 한국인 수상자를 배출하지 않은 해에도 정기적으로 방문할 수 있도록 검토되기를 희망한다”고 밝혔다.&lt;br&gt;&lt;br&gt;연세대는 한강의 수상 소식이 발표된 뒤 명예박사 학위를 수여하거나 문학관을 건립하는 방안 등을 검토하는 것으로 알려졌으나, 현재 구체적으로 추진되는 사안은 없다고 대학 측은 전했다.&lt;br&gt;&lt;br&gt;앞서 연세대는 “한강 작가가 12월에 정식으로 수상 소감을 밝히고 이후 행보를 결정할 때까지 그의 수상을 기리고 수상의 의미를 교육적으로 실현하는 일에 매진하겠다”고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;한강은 1989년 연세대 국어국문학과에 입학해 1993년 졸업했고 같은 학교 대학원에서 작가 이상의 그림과 문학작품으로 석사 학위를 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 임혜동, ‘김하성 공갈’ 관련 금전 소송 1심 패소</title>
       <link>https://www.chosun.com/national/court_law/2024/11/27/VELY5YRYGBC6LLXU65QFTPU2WY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/27/VELY5YRYGBC6LLXU65QFTPU2WY/</guid>
@@ -763,33 +845,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2DNOQQ4VQNF2RBGS36J7QCGLS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[두근두근 뇌 운동] [2510] 초성 이어가기</title>
-      <link>https://www.chosun.com/national/nie/2024/11/27/6SGWV4BG7JEMBNOKG5QKIDUTUY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/11/27/6SGWV4BG7JEMBNOKG5QKIDUTUY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Nov 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JLIARDSWPVDQDFI73IDWOIGRUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] she's a keeper</title>
-      <link>https://www.chosun.com/national/nie/english/2024/11/27/TUZKDK4FDNHAPMG7CXXFISC6ZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/11/27/TUZKDK4FDNHAPMG7CXXFISC6ZM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Nov 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ILDS2FHOLRBUHBKZQUNBX6BAKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 스팸 전화</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/11/27/5EF555FTKVF5BK37CYT7EMM24Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/11/27/5EF555FTKVF5BK37CYT7EMM24Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Nov 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NROGJ5T4MZEYRCADQ73VZBHC2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>저출생 해결 위한 ‘더 행복한 콘서트’</title>
       <link>https://www.chosun.com/national/people/2024/11/27/VINC32CB3BA6HBIFCVYZBPLDTA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/27/VINC32CB3BA6HBIFCVYZBPLDTA/</guid>
@@ -799,42 +854,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZBYAEHPVTVHW5JLZSFTO7RDSMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 서울 마포구 신한카드 SOL페이 스퀘어 라이브홀에서 조선일보 주최, 문화체육관광부 후원으로 열린 ‘더 행복한 콘서트’ 참석자들이 기념 촬영을 하고 있다. 왼쪽부터 이광회 조선일보 AD본부장, 개인수기 부문 최우수상 이종찬씨, 육아 멘토인 신애라 배우, 개인수기 부문 장려상 홍민정씨, 회사수기 부문 우수상 함지현씨, 대상 수상자 김나경씨 가족, 회사수기 부문 장려상 김진환씨, 개인수기 부문 우수상 최가영씨, 영상 부문 우수상 박근화씨, 이준호 문화체육관광부 국민소통실 소통지원관, 회사수기 부문 최우수상 홍혜진씨, 영상 부문 장려상 김지혜씨, 영상 부문 최우수상 최수영씨. 이 행사는 저출생 문제를 해결할 지혜를 모으고 행복한 육아 문화 확산을 취지로 기획됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[부음] 강옥순 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/11/27/C4VWG74JFZB4XG2NW73EW3ZWA4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/11/27/C4VWG74JFZB4XG2NW73EW3ZWA4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Nov 2024 15:40:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;강옥순&lt;/b&gt; 별세, &lt;b&gt;천미경&lt;/b&gt; 울산시의원 모친상=25일10시 울산 국화원장례식장, 발인 27일8시30분, (052)269-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박점임&lt;/b&gt; 별세, &lt;b&gt;구경모&lt;/b&gt; 유니언커뮤니티 전무·&lt;b&gt;구경선&lt;/b&gt;·&lt;b&gt;구경화&lt;/b&gt; 모친상, &lt;b&gt;윤철복&lt;/b&gt; NH투자증권 고객지원센터장 장모상, &lt;b&gt;신경희&lt;/b&gt; 시모상=26일22시45분 고대구로병원, 발인 28일5시40분, (02)857-0444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;심재웅&lt;/b&gt; 前 한국리서치 본부장 별세, &lt;b&gt;배은주&lt;/b&gt; 남편상, &lt;b&gt;심규희&lt;/b&gt;·&lt;b&gt;심규영&lt;/b&gt;·&lt;b&gt;심규선&lt;/b&gt;·&lt;b&gt;심규진&lt;/b&gt; 부친상, &lt;b&gt;이재경&lt;/b&gt; 장인상=26일10시 노원을지대병원, 발인 28일9시, (02)970-8444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이영권&lt;/b&gt; 前 국회의원 별세, &lt;b&gt;오금련&lt;/b&gt; 남편상, &lt;b&gt;이우진&lt;/b&gt; 부친상, &lt;b&gt;강나리&lt;/b&gt; 시부상=25일14시20분 전남 장흥우리병원중앙장례식장, 발인 28일9시, (061)864-4446&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김계홍 ‘자랑스러운 단국인’</title>
-      <link>https://www.chosun.com/national/people/2024/11/27/5I4XUE776FFRDGXBCMX65RCCNA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/27/5I4XUE776FFRDGXBCMX65RCCNA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Nov 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VJEOF6T37RHWLGCWEHQKROF5LE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'2024 자랑스러운 단국인'에 선정된 김계홍 에이에프티㈜ 대표이사. /단국대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;단국대 총동창회(회장 고정용)는 ‘2024 자랑스러운 단국인’에 김계홍 에이에프티㈜ 대표이사를 선정했다. 김 대표이사는 1987년 단국대 기계공학과를 졸업하고, 1995년 집진(集塵)설비 전문기업인 에이에프티㈜를 창립해 분진 문제 해결을 위한 친환경 기술을 연구하고 있다. 시상식은 다음 달 5일 오후 6시 더케이호텔서울에서 열리는 ‘단국대 총동창회 송년의 밤’ 행사에서 진행된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 대법원 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/11/27/HG5RG5FL2JBUHAXV73SRTY2OUM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/11/27/HG5RG5FL2JBUHAXV73SRTY2OUM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Nov 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;b&gt;▲대법원&lt;/b&gt;◇차관급▷법원공무원교육원장 박상우◇법원관리관&amp;lt;전보&amp;gt;▷법원공무원교육원 연구심의관 조칠곤◇법원이사관&amp;lt;승진&amp;gt;▷법원행정처 사법등기심의관 김지율 이재도▷법원행정처 재판사무국장 정지연◇법원이사관&amp;lt;전보&amp;gt;▷법원행정처 행정관리실장 직무대리 김태창▷사법연수원 사무국장 모경필▷법원공무원교육원 사무국장 조경애▷대전고등법원 사무국장 소의섭▷부산고등법원 사무국장 김영선▷광주고등법원 사무국장 이정준▷서울중앙지방법원 사무국장 김주원◇법원부이사관&amp;lt;승진&amp;gt;▷대법원 윤리감사제2심의관 김종두▷법원행정처 민사지원제2심의관 이진서 정길성 김동휘▷법원행정처 정보화심의관 이건호▷서울고등법원 총무과장 최병도▷서울중앙지방법원 형사국장 김현아▷청주지방법원 사무국장 박종배▷대구지방법원 사무국장 남궁호▷창원지방법원 사무국장 탁윤수◇법원부이사관&amp;lt;전보&amp;gt;▷법원공무원교육원 법원부이사관 하순원▷법원도서관 사무국장 김범일▷서울행정법원 사무국장 정병문▷서울동부지방법원 사무국장 신민권▷서울북부지방법원 사무국장 황종삼▷서울서부지방법원 사무국장 안호창▷인천지방법원 사무국장 전요안▷인천지방법원 등기국장 김인숙▷인천지방법원·인천가정법원 부천지원 사무국장 안소율▷인천가정법원 사무국장 박정준▷수원지방법원 사무국장 박민규▷수원지방법원·수원가정법원 성남지원 사무국장 나수경▷수원지방법원·수원가정법원 안산지원 사무국장 이은숙▷수원지방법원·수원가정법원 안양지원 사무국장 김현곤▷수원회생법원 사무국장 이상래▷대전지방법원 사무국장 권준식▷대전지방법원·대전가정법원 천안지원 사무국장 김동진▷대구가정법원 사무국장 윤정원▷부산회생법원 사무국장 곽병태▷울산지방법원 사무국장 장은겸▷광주지방법원 사무국장 김정필▷광주지방법원·광주가정법원 순천지원 사무국장 임갑수▷광주가정법원 사무국장 김정권▷전주지방법원 사무국장 김종표◇사법보좌관(법원부이사관)&amp;lt;승진&amp;gt;▷수원지방법원 사법보좌관 최원학▷대구지방법원 사법보좌관 이종식▷부산지방법원 사법보좌관 이영복◇사법보좌관(법원부이사관)&amp;lt;전보&amp;gt;▷의정부지방법원 사법보좌관 박형욱▷광주지방법원 사법보좌관 권혁민◇법원서기관&amp;lt;승진&amp;gt;▷법원행정처 나광원 양운우 최재열 안재광▷법원공무원교육원 윤지영▷법원도서관 신명훈▷양형위원회 김은호▷서울고등법원 정규열 송주철▷서울중앙지방법원 김경순 송종근 이상희 최은경 최송이▷서울회생법원 최미나▷서울남부지방법원 이우탁▷서울남부지방법원 이광구▷서울북부지방법원 황용익▷서울서부지방법원 박연춘▷의정부지방법원 장희봉 이인수 나종현 유만식▷인천지방법원 오송률 장승태 강상국 문길환 박기홍 황경재▷수원지방법원 박종식 백인상▷춘천지방법원 전현덕 조은철▷대구지방법원 강정묵 권경동▷대구지방법원 최정윤▷부산지방법원 남원우 정남윤 조규관 박승우 황재원 박세원 이상훈 현승권▷울산지방법원 이상조 정부현▷울산가정법원 김동철▷창원지방법원 옥민호◇법원서기관&amp;lt;전보&amp;gt;▷법원행정처 최원영 박기철 임종미 이창열▷법원공무원교육원 한영진 손희정 김재철▷서울고등법원 김재훈 김남훈▷대전고등법원 이준복▷서울중앙지방법원 정선애 김완식 최석훈▷서울가정법원 정진아 김학기▷서울행정법원 조병규▷서울회생법원 김형일 고기철▷서울동부지방법원 정석원 김선의▷서울남부지방법원 제용환 황성현 김천수▷서울남부지방법원 이경희 곽도현▷서울북부지방법원 권경대 서형석▷서울서부지방법원 김영희▷의정부지방법원 김요섭▷인천지방법원 오기호▷인천가정법원 방승주▷수원지방법원 유승환 정종섭 강종림 문형기 김영곤 강판중 정영필▷대전지방법원 방동갑 최덕상 이성주 양현우▷대전가정법원 안창헌▷청주지방법원 전완호 박성식▷부산가정법원 손창배▷부산회생법원 이태근▷울산지방법원 임창규▷창원지방법원 전기호▷광주지방법원 김상언 정진주 양호원▷광주가정법원 서석옹▷전주지방법원 장영우 김성균 전규성◇사법보좌관(법원서기관)&amp;lt;승진&amp;gt;▷인천지방법원 표은정▷춘천지방법원 박강훈▷대전지방법원 송석근 오충렬▷청주지방법원 김영주 김금숙 박경아▷대구지방법원 차원섭 윤승준 최상욱▷부산지방법원 김은표 권영희▷울산지방법원 조국희▷창원지방법원 신기복 권민호▷광주지방법원 이명애 조미애◇사법보좌관(법원서기관)&amp;lt;전보&amp;gt;▷법원행정처 이학구 박경원▷법원행정처 이혜정▷서울중앙지방법원 김영태 이승식 유명종▷서울동부지방법원 김재철▷서울남부지방법원 김경헌 황승환▷의정부지방법원 김주헌▷인천지방법원 최재호 박준복 오재홍▷인천가정법원 윤선▷수원지방법원 이상호 전인권 김재철 배철형▷대전지방법원 박주용▷대구지방법원 신우탁▷부산지방법원 김보무▷부산지방법원 박진곤▷부산가정법원 한준철▷전주지방법원 김한◇사서서기관&amp;lt;승진&amp;gt;▷법원도서관 한상태&lt;br&gt;&lt;br&gt;▲&lt;b&gt;행정안전부&lt;/b&gt;▷경제조직과장 전종태&lt;br&gt;&lt;br&gt;▲&lt;b&gt;특허청&lt;/b&gt;◇부이사관 승진▷특허심사총괄과장 신원혜▷상표특별사법경찰과장 박주연▷특허심판원 심판장 임호순◇부이사관 전보▷특허심판원 심판장 문창진, 마정윤◇과장 전보▷산업재산활용과장 조광현▷산업재산창출전략팀장 신현철▷기술디자인특별사법경찰과장 전일용▷국제협력과장 이승관▷산업재산데이터관리과장 이동영▷디자인심사정책과장 김지맹▷생활디자인심사과장 양승태▷산업디자인심사팀장 김미순▷생활용품심사과장 최기혁▷사물인터넷심사과장 김현수▷지능형로봇심사과장 이선우▷일반기계심사과장 김주대▷제어기계심사과장 백온기▷특허심판원 심판장 김곤희, 박성우, 황윤구▷특허심판원 심판정책과장 이진욱&lt;br&gt;&lt;br&gt;▲&lt;b&gt;강동경희대학교병원&lt;/b&gt;▷진료행정팀장 김대현▷총무팀장 강준택&lt;br&gt;&lt;br&gt;▲&lt;b&gt;중앙그룹&lt;/b&gt;◇JTBC▷대표이사 제찬웅▷경영지원실장 남중권◇JTBC PLUS▷대표이사 홍광표◇중앙홀딩스▷대표이사 이중원▷부회장실 실장 남주현&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 성균관 ‘사서삼경 토크 콘서트’ 개최</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/11/27/LZZ2NYHLENHVZJWP7KZUWYL5KM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/11/27/LZZ2NYHLENHVZJWP7KZUWYL5KM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Nov 2024 15:40:00 +0000</pubDate>
-      <content:encoded>성균관은 28일 오후 3시 서울 종로구 성균관대 경영관 소극장에서 ‘공자도 음악 애호가였어요’를 주제로 ‘사서삼경 토크 콘서트’를 개최한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 날씨] 2024년 11월 27일</title>
       <link>https://www.chosun.com/national/national_general/2024/11/27/QOCL2UK6ZND3FDMKMKYNFLL4IE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/27/QOCL2UK6ZND3FDMKMKYNFLL4IE/</guid>
@@ -842,15 +861,6 @@
       <description/>
       <pubDate>Tue, 26 Nov 2024 15:30:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WMKGXZDXDRHBHOADJ6JIXAMOHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [예쁜 말 바른 말] [372] ‘쪽수’와 ‘인원수’</title>
-      <link>https://www.chosun.com/national/nie/2024/11/27/IHPUMFAMFFGURICH6WNQ32M4RU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/11/27/IHPUMFAMFFGURICH6WNQ32M4RU/</guid>
-      <dc:creator>류덕엽 교육학 박사·전 서울 양진초 교장</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Nov 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2OM3GTDNRJGGFODGQS35PUWJOU.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=정서용&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;*그 출판사는 맛집 소개 책자의 목차에 가게 이름과 쪽수를 함께 적어, 사람들이 정보를 쉽게 찾도록 했다.&lt;br&gt;&lt;br&gt;*이번 집회는 자발적 참여보다 쪽수를 채우려고 동원한 사람이 많았다고 한다.&lt;br&gt;&lt;br&gt;위 두 문장에 나온 ‘쪽수’의 뜻과 쓰임을 알고 있나요? 일상에서 익숙하게 쓰지만, 둘째 문장의 ‘쪽수’는 국어사전에 오르지 않은 말입니다.&lt;br&gt;&lt;br&gt;첫째 문장의 ‘쪽수(쪽數)’는 ‘쪽’과 ‘수’의 합성어로, 신문이나 책 지면의 수를 뜻해요. 유의어는 면수(面數)예요.&lt;br&gt;&lt;br&gt;‘쪽’은 ‘책이나 장부 따위의 한 면’이라는 뜻이 있습니다. 수량을 나타내는 말 뒤에선 책이나 장부 따위의 면을 세는 단위로 씁니다. 예를 들면 ‘다음 쪽에는 만화가 있으니 더 재미있을 거야’ ‘200쪽으로 된 책’과 같이 쓸 수 있어요.&lt;br&gt;&lt;br&gt;둘째 문장에 쓴 ‘쪽수’의 ‘쪽’은 ‘얼굴’을 속되게 이르는 말입니다. ‘쪽을 못 쓰다’는 ‘기가 눌려 꼼짝 못 하다’라는 뜻이고 ‘쪽팔리다’는 ‘부끄러워 체면이 깎이다’라는 뜻입니다. 따라서 둘째 문장의 ‘쪽수’는 사람 수를 뜻하는 ‘인원수(人員數)’로 바꿔 써야 합니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;&amp;lt;예문&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;-그가 쓴 원고의 쪽수가 규정량을 넘어 내용 일부가 삭제됐다.&lt;br&gt;&lt;br&gt;-단풍이 아름답기로 유명한 화담숲은 안전을 위해 관람 인원수를 제한한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“10대 출산하면 대학 보내야”... 메가스터디 회장, 고교 특강서 부적절 발언</title>
