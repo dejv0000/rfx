@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>법사위, 野주도 강백신·엄희준 검사 '탄핵 청문회' 내달 11일 개최</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/203277.jpg" alt="203277.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;27일 국회에서 열린 법제사법위원회 전체회의 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;국회 법제사법위원회(위원장 정청래)는 다음달 11일 강백신·엄희준 검사에 대한 탄핵소추 사건 조사 청문회를 열기로 했다. 여당 의원들이 검사 탄핵 청문회에 반대하는 입장을 밝혔으나 민주당을 비롯해 범야권 주도로 청문회 개최 관련 안건이 통과됐다.&lt;br /&gt;&lt;br /&gt;법사위는 27일 오전 전체회의를 열고 강백신 수원지검 성남지청 차장검사와 엄희준 인천지검 부천지청장에 대한 탄핵소추 사건 조사 청문회를 열기 위한 조사계획서 채택의 건을 상정해 의결했다. 안건은 거수 표결로 재석 위원 16명 중 11명이 찬성하고 5명이 반대하면서 가결됐다.&lt;br /&gt;&lt;br /&gt;국민의힘 의원들은 표결에 앞서 청문회 개최를 연기해야 한다고 주장했다. 곽규택 국민의힘 의원은 "강백신·엄희준 검사는 이 대표에 대해 대장동 사건을 비롯한 각종 사건을 수사했던 검사들"이라며 "앞서 조사했던 두 검사와는 조금 다른 차원의 검사들"이라고 지적했다.&lt;br /&gt;&lt;br /&gt;곽 의원은 "이 대표를 수사해서 밉다고 탄핵 소추하겠다는 것 아닌가"라며 "이 대표에 대한 대장동 사건은 재판 중인데 수사 검사를 탄핵하겠다는 것은 재판에 대해서도 개입할 우려가 굉장히 높은 것"이라고 주장했다. 그러면서 "이 대표의 대장동 사건 1심 재판이 종료될 때까지 미뤄야 한다"고 말했다. &lt;br /&gt;&lt;br /&gt;법사위 여당 간사인  유상범 국민의힘 의원은 "앞선 두 번의 검사 탄핵 청문회에서 (탄핵소추 사유에 대한) 입증은 없이 정쟁만 했다"며 "실효성에 의문이 든다"고 말했다.&lt;br /&gt;&lt;br /&gt;정청래 법사위원장은 청문회는 국회법에 따라 개최해야 한다고 반박했다. 정 위원장은 "국회법에 나와 있는 협의와 합의를 가지고 수십 년째 싸우고 있는데 '할 수 있다'와 '하여야 한다'는 다르다"며 "국회법 131조에는 130조 1항에 따라 '탄핵소추안을 회부 받았을 때는 지체 없이 조사·보고 하여야 한다'고 돼있다"고 강조했다. 그러면서 "이는 꼭 해야된다는 뜻"이라고 말했다.&lt;br /&gt;&lt;br /&gt;국회법 제130조 1항은 '탄핵소추가 발의되었을 때에는 의장은 발의된 후 처음 개의하는 본회의에 보고하고 본회의는 의결로 법제사법위원회에 회부하여 조사하게 할 수 있다'고 명시하고 있다. 제131조 1항에는 '법제사법위원회가 제130조 제1항의 탄핵소추안을 회부받았을 때에는 지체 없이 조사·보고하여야 한다'고 규정하고 있다. &lt;br /&gt;&lt;br /&gt;앞서 민주당은 지난 7월 2일 강 차장검사와 엄 지청장 외에 김영철 서울북부지검 차장검사와 박상용 수원지검 부부장검사에 대한 탄핵소추안을 각각 발의했다. 이들 탄핵소추안은 본회의에 보고된 직후 법사위로 회부됐고, 김 차장검사와 박 부부장검사에 대한 탄핵 청문회는 각각 지난 8월과 10월에 실시됐다.</description>
+			<pubDate>Wed, 27 Nov 2024 04:16:10 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/203277</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203277</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203277.jpg</media:thumbnail>
+			<dc:creator>김지현 기자</dc:creator>
+		</item>
+		<item>
 			<title>사단법인 온율, '보호대상아동을 위한 공공후견 지원' 주제 세미나 개최</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/203274.jpg" alt="203274.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;사단법인 온율(이사장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8490"&gt;윤세리&lt;/span&gt;)은 다음 달 2일 오후 2시 서울 삼성동 파르나스타워 법무법인 율촌 39층 렉처홀에서 제12회 율촌·온율 성년후견세미나를 개최한다. 세미나는 보건복지부의 후원 아래 사단법인 온율, 아동권리보장원(원장 정익중), 한국보건복지인재원(원장 배금주)이 공동으로 마련했다. '보호대상아동 공공후견 지원 시범사업의 현황과 과제'가 주제다.&lt;br /&gt;&lt;br /&gt;법무법인 율촌과 사단법인 온율은 성년후견제도가 도입된 2013년 이후 매년 관련 세미나를 개최해 왔다. 올해 세미나는 지난 1년여간 진행된 '보호대상아동 공공후견 지원 시범사업'의 현황과 성과를 점검하고, 향후 개선 방안을 논의하기 위해 마련됐다.&lt;br /&gt;&lt;br /&gt;행사에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8490"&gt;윤세리&lt;/span&gt;(71·사법연수원 10기) 사단법인 온율 공동이사장, 정익중 아동권리보장원장, 김상희 보건복지부 인구아동정책관, 배금주 한국보건복지인재원장 등이 참여하며,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="460"&gt;박은수&lt;/span&gt;(68·12기) 한국의료분쟁조정중재원장이 좌장을 맡는다. &lt;br /&gt;&lt;br /&gt;손호성 아동권리보장원 부장이 '보호대상아동 공공후견 시범사업 소개'를, 홍윤선 국립군산대 교수는 '각국 미성년후견제도 소개 및 사업 개선방향에 대한 제언'을 발제한다. 이어 강현주 한국보건복지인재원 교수는 '보호대상아동 공공후견 시범사업 후견인 양성교육 프로그램'을 주제로,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="37065"&gt;성유진&lt;/span&gt;(34·변호사시험 8회) 사단법인 온율 변호사는 '(가칭) 보호대상아동을 위한 미성년후견 매뉴얼 소개'를 주제로 발표한다.&lt;br /&gt;&lt;br /&gt;발제 이후에는 보호대상아동 분야의 전문가들이 참여해 토론을 이어갈 예정이다. 토론에는 유성희 과천시청 아동보호전담요원, 김윤현 성모자애드림힐 팀장, 신지연 서울가정법원 후견감독관, 김귀자 강남세움종합복지관장, 신지희 중앙장애아동·발달장애인지원센터 팀장이 참여한다.&lt;br /&gt;&lt;br /&gt;온율과 아동권리보장원, 한국보건복지인재원은 이번 세미나의 논의 내용을 바탕으로 내년에도 보건복지부와 법무법인 율촌의 후원을 받아 보호대상아동 공공후견 지원 사업을 지속적으로 추진할 계획이다.&lt;/p&gt;</description>
 			<pubDate>Wed, 27 Nov 2024 02:26:22 -0000</pubDate>
@@ -232,16 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203261</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203261.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>김상환 대법관 후임 후보에 마용주 부장판사</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/203258.jpg" alt="203258.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;12월 27일 퇴임하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3286"&gt;김상환&lt;/span&gt;(58·20기) 대법관의 후임에&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1308"&gt;마용주&lt;/span&gt;(55·23기) 서울고법 부장판사가 임명제청됐다. 마 후보자가 인준 절차를 거쳐 대법관으로 취임하게 되면 조희대 코트 출범 후 세 번째로 대법원에 합류하는 대법관이 된다. 윤석열 정부 출범 이후 임명되는 9번째 대법관이기도 하다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;김 대법관의 후임 임명 제청을 앞두고 법조 안팎에선 정치적 고려보다는 '능력 있는 인물'을 제청할 것이란 평이 지배적이었다. 다만 여야 갈등이 고조되고 있어 국회 통과에 문제가 없을지 우려하는 시각도 있었다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;조 대법원장은 취임 일성으로 '재판 지연 해소'를 강조해 왔다. 마 부장판사는 법원의 검증된 엘리트 코스인 대법원 선임·수석재판연구관을 거친 인물이다. 때문에 마 부장판사가 임명되면 신속한 상고심 재판에 일조할 것이란 기대가 나온다. 수석재판연구관 출신 대법관의 맥이 2014년 이후 끊긴 만큼 10년 만에 수석재판연구관 출신 대법관이 재탄생할지도 관심 포인트다. 그동안 20명의 수석재판연구관 가운데 사법부 최고위직인 대법관은 7명이 배출됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;마 부장판사는 재판연구관과 선임·수석재판연구관 등을 6년간 지내 상고심 재판에 해박할 뿐 아니라 행정 경험도 두루 갖췄다. 법원행정처 인사심의관, 윤리심의관 등을 지내 재판연구관실과 행정처의 사정을 두루 알고 있다는 측면에서 유력한 대법관 후보로 꼽혀왔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;경남 합천 출신인 마 부장판사는 부산 낙동고와 서울대 사법학과를 졸업했다. 1991년 제33회 사법시험에 합격하고 1997년 서울지법 판사를 시작으로 서울행정법원, 대전지법, 대전고법, 서울고법 판사와 법원행정처 인사관리심의관, 서울중앙지법 판사, 창원지법 통영지원 부장판사, 대법원 재판연구관, 법원행정처 윤리감사관, 서울중앙지법 부장판사, 광주고법 제주재판부 부장판사, 대법원 선임재판연구관, 수석재판연구관 등을 거쳐 서울고법 부장판사를 지내고 있다. 김대중 정부 시절 청와대 민정수석과 법무부 차관을 지낸 신광옥 변호사의 사위다.&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Tue, 26 Nov 2024 08:58:44 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/203258</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203258</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203258.jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
